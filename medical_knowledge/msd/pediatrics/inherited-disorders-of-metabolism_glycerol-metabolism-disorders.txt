@@ -1,0 +1,33 @@
+标题：甘油代谢异常
+来源：https://www.msdmanuals.cn/professional/pediatrics/inherited-disorders-of-metabolism/glycerol-metabolism-disorders
+============================================================
+
+甘油代谢障碍（见表）属于脂肪酸和甘油代谢紊乱。
+参见对疑似遗传性代谢紊乱患者的诊疗方法。
+甘油激酶缺乏是X连锁的；许多患有此缺陷的患者还存在染色体缺失，缺失范围超出甘油激酶基因，延伸至邻近基因区域，该区域包含先天性肾上腺发育不全和Duchenne肌营养不良的基因。因此，甘油激酶缺乏的患者可能患有这些疾病中的一种或多种。
+甘油代谢紊乱的症状可发生于任何年龄，通常伴有酸中毒、低血糖以及血液和尿液中甘油水平升高。
+甘油代谢紊乱的诊断是通过检测血清和尿中的甘油的水平升高，并通过DNA分析确认的。（参见疑似遗传性代谢紊乱的检测方法。）
+甘油代谢障碍的治疗是低脂肪饮食，但对于肾上腺发育不全的患者，糖皮质激素替代治疗至关重要。
+
+【甘油代谢异常】
+甘油代谢异常
+疾病（OMIM编号）
+蛋白质或酶缺陷
+甘油激酶缺乏症 (307030*)
+甘油激酶
+生化概况：高甘油血症
+临床特征：在复杂型中，除因特定缺失基因导致的症状外，还有青少年型的症状
+在青少年形式中，发作性呕吐、酸中毒、肌张力降低、中枢神经系统抑制、莱耶样综合征
+成人型表现为假性高甘油三酯血症
+治疗：低脂饮食，避免长时间空腹
+甘油耐受不良综合征
+生化特征：低血糖、酮尿症，报道显示果糖-1,6-二磷酸酶活性降低且该酶对3-磷酸甘油的抑制作用敏感性增强
+临床特征：早产；暴露于甘油后，低血糖、嗜睡、出汗、癫痫、昏迷
+治疗：低脂饮食
+* 有关完整的基因、分子和染色体位置信息，请参阅Online Mendelian Inheritance in Man  (OMIM) database。
+* 有关完整的基因、分子和染色体位置信息，请参阅Online Mendelian Inheritance in Man  (OMIM) database。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information
+Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information

@@ -1,0 +1,25 @@
+标题：眼眶肿瘤
+来源：https://www.msdmanuals.cn/professional/eye-disorders/orbital-diseases/tumors-of-the-orbit
+============================================================
+
+有些眼眶肿瘤常常引起眼球突出和眼球向眼眶占位相反的方向移位。还可能出现疼痛、复视和视力下降等症状。眼眶肿瘤的诊断依据病史、眼科检查和神经影像学（CT、MRI或者两者结合），但常常最终需要活检来确诊。病因和治疗依据年龄组不同而不同。
+最常见的儿科良性肿瘤是皮样瘤和血管病变，如婴儿血管瘤和淋巴管畸形(1)。皮样瘤的治疗方法为切除。婴儿血管瘤有自发消退倾向，因此通常不需要任何治疗；然而，尤其是当位于上眼睑时，它们可能会影响视力，需要使用全身性β受体阻滞剂进行治疗。不会引起症状的小淋巴管畸形可在临床上随访。对于较大的淋巴畸形或引起症状的淋巴畸形，可选择手术切除、病灶内硬化治疗和西罗莫司（2)。
+眼周血管瘤是眼睛周围的血管瘤。
+© Springer Science+Business Media
+儿童恶性肿瘤最常见的是横纹肌肉瘤，和白血病或者神经母细胞瘤引起的转移性肿瘤。如果横纹肌肉瘤可以手术切除，应该施行手术治疗，术后进行化疗和眼眶放射治疗。白血病的治疗通常采用眼眶放射治疗和（或）化疗。
+最常见的成人良性肿瘤为脑膜瘤、 黏液囊肿、海绵状静脉畸形（以前称为海绵窦性血管瘤）(3)。泪腺的多形性腺瘤少见。有症状的蝶骨翼脑膜瘤通过颅骨切开术施行减瘤术，有时术后需要一个疗程的放射治疗。由于脑膜瘤细胞浸润颅底部颅骨，因此通常不能完全切除肿瘤。由于黏液囊肿最常见的原发部位为筛窦或者额窦，因此通过手术引流至鼻部来治疗。 切除海绵状静脉畸形（最常见的良性眼眶肿瘤）和泪腺多形性腺瘤。
+在此图像中，轴位（顶部）和冠状位（底部）CT 扫描显示左眼球后方有一个界限清楚的锥内肿块。肿块是海绵状静脉畸形。
+最常见的恶性肿瘤包括淋巴瘤、鳞状细胞癌、转移性肿瘤。不太常见的肿瘤是泪腺的腺样囊性癌，是一种侵袭性的肿瘤。
+累及眼眶的淋巴瘤是最常见的恶性眼眶肿瘤，通常是 B 细胞型和特征性低级别（通常是 MALT 淋巴瘤 [粘膜相关淋巴组织]，也称为结外边缘区 B 细胞淋巴瘤）。淋巴瘤可能双侧、同时发病，可以是全身病变在眼眶表现的一部分，也可以是眼眶的孤立性病变。尽管放射学发现令人印象深刻，但许多眼眶淋巴瘤的症状和发现都很轻微。放射治疗有效地治疗了眼眶淋巴瘤，几乎没有副作用，但用针对淋巴细胞表面受体（如CD20）的单克隆抗体（如利妥昔单抗）治疗也是有效的，应该考虑在放射治疗之外或代替放射治疗，特别是当淋巴瘤是全身性的时。
+在这张图片中，第一次冠状 CT 扫描（左）显示了一个与地球一致的均质肿块（红色箭头）。第二次冠状位 CT 扫描（中）显示右侧泪腺窝（蓝色箭头）中有一个界限清楚的肿块。轴向 CT 扫描（右）显示与右眼球（黄色箭头）一致的均质泪窝肿块。
+大多数鳞状细胞癌由相邻的鼻窦引起。治疗主要有手术，放射疗法或两者结合。
+转移性肿瘤通常放射治疗。累及眼眶转移性肿瘤通常是一个不利的预后标志;但类癌肿瘤是一个明显的例外。
+泪腺的腺样囊性癌手术治疗，然后通常要放射治疗（有时质子束治疗），或者采用动脉内化疗与放疗和手术相结合的治疗方案。
+
+【参考文献】
+1.Shields JA, Bakewell B, Augsburger JJ: Space-occupying orbital masses in children.A review of 250 consecutive biopsies.Ophthalmology93(3):379-384, 1986.doi: 10.1016/s0161-6420(86)33731-x
+1.Shields JA, Bakewell B, Augsburger JJ: Space-occupying orbital masses in children.A review of 250 consecutive biopsies.Ophthalmology93(3):379-384, 1986.doi: 10.1016/s0161-6420(86)33731-x
+2.Shoji MK, Shishido S, Freitag SK: The use of sirolimus for treatment of orbital lymphatic malformations: A systematic review.Ophthalmic Plast Reconstr Surg36:215-221, 2020.doi: 10.1097/IOP.0000000000001518
+2.Shoji MK, Shishido S, Freitag SK: The use of sirolimus for treatment of orbital lymphatic malformations: A systematic review.Ophthalmic Plast Reconstr Surg36:215-221, 2020.doi: 10.1097/IOP.0000000000001518
+3.Bonavolontà G, Strianese D, Grassi P, et al: An analysis of 2,480 space-occupying lesions of the orbit from 1976 to 2011.Ophthalmic Plast Reconstr Surg29(2):79-86, 2013.doi: 10.1097/IOP.0b013e31827a7622
+3.Bonavolontà G, Strianese D, Grassi P, et al: An analysis of 2,480 space-occupying lesions of the orbit from 1976 to 2011.Ophthalmic Plast Reconstr Surg29(2):79-86, 2013.doi: 10.1097/IOP.0b013e31827a7622

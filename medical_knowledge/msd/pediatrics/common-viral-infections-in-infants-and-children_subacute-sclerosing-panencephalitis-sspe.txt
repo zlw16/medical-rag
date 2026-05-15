@@ -1,0 +1,38 @@
+标题：(SSPE)亚急性硬化性全脑炎
+来源：https://www.msdmanuals.cn/professional/pediatrics/common-viral-infections-in-infants-and-children/subacute-sclerosing-panencephalitis-sspe
+============================================================
+
+亚急性硬化性全脑炎（SSPE）可能是一种持久性的麻疹病毒感染。麻疹病毒存在于该疾病患者的脑组织中。
+历史上，在每100万野生株麻疹病毒感染患者中大约有7～300例发生亚急性硬化性全脑炎，在每100万麻疹疫苗接种者中大约有1例发生亚急性硬化性全脑炎；所有接种后病例可能都是由于接种前未确认的麻疹所致。男性更常受累。
+小于2岁的幼儿接触麻疹后发生SSPE的风险最高。通常在20岁之前发病。
+亚急性硬化性全脑炎在美国和西欧极其罕见，因为麻疹疫苗接种非常普遍。然而，对最近麻疹暴发的分析表明，SSPE的发病率可能高于此前的预期，可能高达每百万麻疹病例40至1700例（1）。鉴于未接种疫苗的人群中麻疹疫情暴发的增加，这一发病率尤其令人担忧。
+
+【参考文献】
+1.Wendorf KA, Winter K, Zipprich J, et al: Subacute sclerosing panencephalitis: The devastating measles complication that might be more common than previously estimated.Clin Infect Dis65(2):226–232, 2017.doi: 10.1093/cid/cix302
+1.Wendorf KA, Winter K, Zipprich J, et al: Subacute sclerosing panencephalitis: The devastating measles complication that might be more common than previously estimated.Clin Infect Dis65(2):226–232, 2017.doi: 10.1093/cid/cix302
+
+【SSPE的症状和体征】
+最初的体征通常较隐匿——学习成绩下降、健忘、脾气暴躁、注意力分散和失眠。然而接着可出现幻觉和肌阵挛性抽搐，随后是全身性的癫痫发作。进一步有智力减退和语言能力衰退。出现张力障碍性运动和暂时的角弓反张。
+之后出现肌肉僵直、吞咽困难、皮质性失明以及视神经萎缩。病灶性脉络膜视网膜炎和其他的眼底镜检查异常表现常见。
+在终末阶段累及下丘脑可产生间断性发热、出汗以及脉搏和血压紊乱。
+
+【SSPE的诊断】
+血清学检测
+血清学检测
+脑电图（EEG）
+脑电图（EEG）
+神经影像学检查
+神经影像学检查
+对于有痴呆和神经肌肉兴奋性增高的年轻患者应疑诊为SSPE。
+应进行脑电图、CT或MRI扫描、脑脊液(CSF)检查以及麻疹血清学检测。EEG显示在整个记录的过程中周期性出现同步高压双相合成波。CT或MRI可能出现皮质萎缩或者白质病变。脑脊液检查通常显示压力、细胞计数和蛋白质含量正常，但是CSF球蛋白几乎都是升高的，在CSF蛋白中的构成比例上升至20％～60％。血清和脑脊液所含的麻疹病毒抗体水平升高。当病情进展时抗麻疹IgG出现升高。
+如果试验结果是不确定的，则需要进行脑活检。
+
+【SSPE的治疗】
+支持治疗
+支持治疗
+抗癫痫药物和其他支持治疗是仅有的可以接受的治疗。
+异丙肌苷、alpha干扰素以及拉米夫定的使用是有争议性的，抗病毒药物对病情一般无帮助。
+
+【SSPE 的预后】
+尽管有些患者病程较长，但该疾病几乎总是在1至3年内致命（肺炎常是终末期事件）。
+少数患者会出现缓解和加重。

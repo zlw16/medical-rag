@@ -1,0 +1,72 @@
+标题：微孢子虫病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/intestinal-protozoa-and-microsporidia/microsporidiosis
+============================================================
+
+（参见肠道原虫和微孢子虫感染概述。）
+微孢子虫是专性细胞内孢子形成寄生虫，是真菌或与其密切相关的寄生虫。 微孢子虫过去被归类为原生动物。
+在>1,400种微孢子虫中，至少15种与人类疾病有关。该病原体的孢子通过以下感染途径获得：
+消化道摄入
+消化道摄入
+呼吸道吸入
+呼吸道吸入
+直接接触结膜
+直接接触结膜
+微孢子虫主要通过包括鱼类和甲壳类动物在内的食物传播。传播也通过水发生，包括海水、饮用水和其他环境来源。
+在宿主体内，它们用极小管或细丝捕获宿主细胞，并注入感染性孢原质将其感染。在细胞内，孢原质分裂增殖，产生成孢子细胞进而发育为孢子。孢子可全身播散，或通过呼出的气溶胶、粪便或尿液被排出到环境中。孢子从宿主细胞中释出时可导致炎症反应。
+微孢子虫正在成为重要的机会性病原体。免疫功能正常的个体也可能会发生感染。自引入有效的抗逆转录病毒疗法 (ART) 以来，与 HIV 感染相关的微孢子虫病已经减少。微孢子虫病的临床表现多样，根据病原菌、宿主的免疫状态和感染途径而不同。微孢子虫可感染眼、肝脏、胆道、鼻窦、肌肉、呼吸道、泌尿生殖系统和中枢神经系统。其中Enterocytozoon bieneusi(比氏肠胞子虫)相关性腹泻是最常见的。播散性感染可能是致命的。
+
+【微孢子虫病的症状和体征】
+微孢子虫引起的临床表现可不同，取决于。
+寄生的具体种类
+寄生的具体种类
+宿主的免疫状态
+宿主的免疫状态
+感染途径
+感染途径
+免疫正常者，微孢子虫可引起无症状感染或自限性水样腹泻。引起角结膜炎的眼部感染也可能发生，并且在健康人群中报道得越来越多（1）。
+在艾滋病患者中，多种微孢子虫可引起慢性腹泻、吸收不良、消瘦、胆管炎、点状角膜结膜炎、腹膜炎、肝炎、肌炎或鼻窦炎。肾脏和胆囊也可发生感染。Vittaforma corneum（角膜条纹微孢子虫）、Nosema ocularum（眼小孢子虫），和其他几种微孢子虫可导致眼部感染，表现为从红肿和刺痛的点状角膜病变到严重的、威胁视力的间质性角膜炎。
+
+【症状和体征】
+1.Tu EY, Joslin CE:MicrosporidiaandAcanthamoeba: the role of emerging corneal pathogens.Eye (Lond).2012;26(2):222-227.doi:10.1038/eye.2011.315
+1.Tu EY, Joslin CE:MicrosporidiaandAcanthamoeba: the role of emerging corneal pathogens.Eye (Lond).2012;26(2):222-227.doi:10.1038/eye.2011.315
+
+【微孢子虫病的诊断】
+使用特殊染色的光学或电子显微镜检查。
+使用特殊染色的光学或电子显微镜检查。
+有时基于免疫荧光或聚合酶链反应 (PCR) 的检测
+有时基于免疫荧光或聚合酶链反应 (PCR) 的检测
+通过活检或粪便、尿液、脑脊液（CSF）、痰液或角膜刮片获得的受感染组织样本中可显示感染的病原体。经特殊染色方法很易观察到微孢子虫。在组织和涂片中可应用荧光增强剂（荧光染料）进行快速检测。快-热革兰染色方法最快。
+免疫荧光检测（IFA）和聚合酶链式反应（PCR）检测可在专业实验室进行。美国疾病控制与预防中心 (CDC) 提供针对E. bieneusi（比氏肠胞子虫）、Encephalitozoon intestinalis（肠脑炎孢子虫）、Encephalitozoon hellem（海氏脑炎孢子虫）和Encephalitozoon cuniculi（兔脑炎孢子虫）的特异性 PCR 检测。
+透射电镜是目前最敏感的检测方法，但对常规诊断不可行。
+分子方法用于物种鉴定。
+
+【微孢子虫病的治疗】
+对于艾滋病患者，启动并优化抗反转录病毒疗法（ART）
+对于艾滋病患者，启动并优化抗反转录病毒疗法（ART）
+对于胃肠、皮肤、肌肉、或播散微孢子病，可口服阿苯达唑或烟曲霉素（如可及），根据感染的物种而定
+对于胃肠、皮肤、肌肉、或播散微孢子病，可口服阿苯达唑或烟曲霉素（如可及），根据感染的物种而定
+对于角膜结膜炎，口服阿苯达唑和外用烟曲霉素
+对于角膜结膜炎，口服阿苯达唑和外用烟曲霉素
+对于艾滋病患者，启动或优化抗逆转录病毒治疗很重要。抗菌治疗的持续时间和结果取决于使用ART后患者免疫重建的水平 (1) 。
+微孢子虫病的抗微生物治疗取决于感染的微孢子虫种类，宿主的免疫状态以及受累器官。关于治疗方案选择的数据是有限的。建议咨询传染病专家。
+阿苯达唑是一种苯并咪唑类广谱驱虫药，用于治疗某些微孢子虫的感染，但它可能会产生严重的副作用，包括10%的患者出现肝损伤（肝炎），很少出现白细胞计数低的情况。
+阿苯达唑 通常能有效控制因溶组织内阿米巴和其他易感微孢子虫引起的肠道或播散性感染患者的腹泻。免疫功能正常患者的此类感染可能会自发消退或在治疗一周后消退。
+阿苯达唑对E. bieneusi(比氏肠胞子虫)的治疗效果欠佳。阿苯达唑已用于治疗皮肤、肌肉或播散性微孢子虫病，这些疾病是由E. intestinalis（肠脑炎微孢子虫）和其他易感微孢子虫引起的。
+口服烟曲霉素已被用于治疗肠道毕氏肠微孢子虫感染，但它有潜在的严重不良反应，包括在多达一半的患者中出现严重的可逆性血小板减少。在美国没有口服烟曲霉素可用。
+眼部微孢子虫性角结膜炎可以口服阿苯达唑加烟曲霉素滴眼液治疗。外用氟喹诺酮，以及伏立康唑类药物，在一些患者中是有效的。当局部和全身治疗无效时，可考虑角膜移植术。该病在免疫正常的患者中预后良好，艾滋病患者则取决于抗反转录病毒治疗（ART）后免疫重建的水平。
+
+【治疗参考文献】
+1.Panel on Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents with HIV: Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents with HIV: Microsporidiosis.National Institutes of Health, Centers for Disease Control and Prevention, HIV Medicine Association, and Infectious Diseases Society of America.Accessed April 2024.
+1.Panel on Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents with HIV: Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents with HIV: Microsporidiosis.National Institutes of Health, Centers for Disease Control and Prevention, HIV Medicine Association, and Infectious Diseases Society of America.Accessed April 2024.
+微孢子虫病主要发生于免疫功能低下的患者，主要是终末期HIV患者，但健康人群中患角膜结膜炎的人数越来越多地被报道。
+微孢子虫病主要发生于免疫功能低下的患者，主要是终末期HIV患者，但健康人群中患角膜结膜炎的人数越来越多地被报道。
+微孢子虫孢子可以通过多种途径和来源获得。
+微孢子虫孢子可以通过多种途径和来源获得。
+症状表现取决于感染的病原体类型及患者的免疫状况，但可发生慢性腹泻、吸收不良、消耗、胆管炎、点状角膜结膜炎、腹膜炎、肝炎、肌炎或鼻窦炎。
+症状表现取决于感染的病原体类型及患者的免疫状况，但可发生慢性腹泻、吸收不良、消耗、胆管炎、点状角膜结膜炎、腹膜炎、肝炎、肌炎或鼻窦炎。
+利用光学或电子显微镜观察特殊染色标本可诊断；免疫荧光试验以及基于PCR的检测方法可在专业实验室中进行。
+利用光学或电子显微镜观察特殊染色标本可诊断；免疫荧光试验以及基于PCR的检测方法可在专业实验室中进行。
+对于艾滋病患者，启动或优化ART治疗是最重要的。
+对于艾滋病患者，启动或优化ART治疗是最重要的。
+阿苯达唑口服加上烟曲霉素口服或局部应用可治疗，疗效取决于病原体种类和累及的器官；美国无口服的烟曲霉素制剂。
+阿苯达唑口服加上烟曲霉素口服或局部应用可治疗，疗效取决于病原体种类和累及的器官；美国无口服的烟曲霉素制剂。

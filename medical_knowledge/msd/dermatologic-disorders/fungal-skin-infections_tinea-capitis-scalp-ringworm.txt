@@ -1,0 +1,72 @@
+标题：头癣 (头皮癣)
+来源：https://www.msdmanuals.cn/professional/dermatologic-disorders/fungal-skin-infections/tinea-capitis-scalp-ringworm
+============================================================
+
+头癣是一种主要感染儿童的皮肤癣菌病，具传染性和流行性。
+Trichophyton tonsurans（断发毛癣菌） 是最常见的致病菌，其次是Microsporum canis（犬小孢子菌） 和M. audouinii（奥杜盎小孢子菌）；在其他地区，其他Trichophyton（毛癣菌） 物种（如T. schoenleinii[许兰毛癣菌]、T. violaceum[紫色毛癣菌]）较为常见。传播通过直接接触感染者、动物或污染物发生，并由环境因素（即，拥挤的生活条件、不良卫生）促进（1）。
+头癣可引起头皮渐进性圆形斑片，伴干燥性鳞屑或（和）秃发。断发毛癣菌T. tonsurans感染可导致“黑点癣”，即毛干在头皮表面折断；奥杜盎小孢子M. audouinii菌感染可导致“灰斑癣”，即毛干在头皮上方折断，遗留短的残端。头癣鲜见类似头皮屑样弥散性脱屑或弥散分布的脓疱。它常与区域淋巴结病相关，特别是涉及颈后和枕淋巴结（2）。
+鳞屑是角质上皮的堆积物。鳞屑是许多皮肤癣菌病的特征，包括头癣，导致大片秃斑。在这张图片中，颈背处的鳞屑特别明显。
+这张照片显示了圆形、沼泽状的头癣斑块。在深色肤色中，红斑可能非常微妙。
+Image courtesy of Karen McKoy, MD.
+皮肤癣菌感染偶可引起脓癣，表现为大的似沼泽的头皮炎性斑块，由对皮肤癣菌的严重的炎症反应引起。脓癣可有脓疱和结痂，可能被误诊为脓肿。脓癣可能导致瘢痕性脱发。
+这张照片显示了一个角质，这是一个巨大的沼泽状头皮肿块，由头皮皮肤真菌感染引起的严重炎症反应引起。脓疱和结痂是可见的。
+Image courtesy of www.doctorfungus.org © 2005.
+这张照片显示的是脓痂，这是一种大的、沼泽状的头皮肿块，是由头皮皮肤癣菌感染引起的严重炎症反应引起的。脓疱和结痂是可见的。
+Image courtesy of Karen McKoy, MD.
+
+【参考文献】
+1.Gupta AK, Polla Ravi S, Wang T, et al.An update on tinea capitis in children.Pediatr Dermatol.2024;41(6):1030-1039.doi:10.1111/pde.15708
+1.Gupta AK, Polla Ravi S, Wang T, et al.An update on tinea capitis in children.Pediatr Dermatol.2024;41(6):1030-1039.doi:10.1111/pde.15708
+2.Hubbard TW.The predictive value of symptoms in diagnosing childhood tinea capitis.Arch Pediatr Adolesc Med.1999;153(11):1150-1153.doi:10.1001/archpedi.153.11.1150
+2.Hubbard TW.The predictive value of symptoms in diagnosing childhood tinea capitis.Arch Pediatr Adolesc Med.1999;153(11):1150-1153.doi:10.1001/archpedi.153.11.1150
+
+【头癣的诊断】
+主要体格检查
+主要体格检查
+KOH湿片
+KOH湿片
+伍德灯检查及培养
+伍德灯检查及培养
+根据其典型的临床表现，怀疑为头癣。诊断通过氢氧化钾湿片法确定，取材为拔取的毛发或刮取、刷取所得的毛发与鳞屑。毛干内（发内型）或毛干外（发外型）孢子的大小和形态可区分致病菌种并指导治疗。
+伍德灯检查中出现的蓝绿色荧光也可作为诊断犬小孢子菌和奥杜安小孢子菌感染的依据，并能区分癣病与红癣。断发毛癣菌感染在伍德灯检查下不发出荧光。
+如有必要，可对拔出的毛发进行真菌培养。儿童头皮皮疹可与脓肿类似，必要时，可行培养帮助鉴别。
+
+【经验与提示】
+经验与提示
+在对头皮脓肿进行引流之前，需要考虑脓癣的诊断。
+在对头皮脓肿进行引流之前，需要考虑脓癣的诊断。
+需与头癣鉴别的还包括:
+脂溢性皮炎
+脂溢性皮炎
+脱发性毛囊炎
+脱发性毛囊炎
+盘状红斑狼疮的头皮病变
+盘状红斑狼疮的头皮病变
+头皮层间蜂窝组织炎
+头皮层间蜂窝组织炎
+
+【治疗头癣】
+口服抗真菌药物
+口服抗真菌药物
+局部外用药物如咪唑类或环吡酮胺乳膏、硫化硒洗发剂
+局部外用药物如咪唑类或环吡酮胺乳膏、硫化硒洗发剂
+有时口服糖皮质激素
+有时口服糖皮质激素
+口服特比萘芬是儿童毛癣菌属感染的一线治疗方案，因其疗效确切且疗程较短（1）。或者，对于儿童中的小孢子菌种，口服灰黄霉素是首选，因为它更有效。（见表治疗浅部真菌感染的选择.)
+辅助性局部用药可能有助于降低传播风险，但作为单一疗法其效果并不充分。 需同时外用咪唑类或环吡酮胺乳膏直至头癣治愈，以防止感染扩散或传染其他儿童；外用2.5%的二硫化硒洗剂洗发每周至少2次。 患儿在治疗期间可上学。
+成人用特比萘芬（对内丝菌感染更有效）或伊曲康唑治疗。治疗还可以包括 2.5% 硫化硒洗发水。
+对于严重发炎的病灶和/或脓癣，应加用短期泼尼松疗程（以减轻症状并可能降低瘢痕形成风险），并在2周内逐渐减量。
+
+【治疗参考文献】
+1.El-Gohary M, van Zuuren EJ, Fedorowicz Z, et al.Topical antifungal treatments for tinea cruris and tinea corporis.Cochrane Database Syst Rev.2014;2014(8):CD009992.Published 2014 Aug 4.doi:10.1002/14651858.CD009992.pub2
+1.El-Gohary M, van Zuuren EJ, Fedorowicz Z, et al.Topical antifungal treatments for tinea cruris and tinea corporis.Cochrane Database Syst Rev.2014;2014(8):CD009992.Published 2014 Aug 4.doi:10.1002/14651858.CD009992.pub2
+头癣主要感染儿童，具传染性和流行性。
+头癣主要感染儿童，具传染性和流行性。
+确诊头癣可通过氢氧化钾湿片、真菌培养、或伍德灯检查。
+确诊头癣可通过氢氧化钾湿片、真菌培养、或伍德灯检查。
+除了局部抗真菌药外，还可以口服特比萘芬或灰黄霉素。
+除了局部抗真菌药外，还可以口服特比萘芬或灰黄霉素。
+局部药物如环匹罗、咪唑和硫化硒洗发水可作为辅助治疗，以帮助防止传播。
+局部药物如环匹罗、咪唑和硫化硒洗发水可作为辅助治疗，以帮助防止传播。
+脓癣和/或严重炎症反应可短期口服强的松。
+脓癣和/或严重炎症反应可短期口服强的松。

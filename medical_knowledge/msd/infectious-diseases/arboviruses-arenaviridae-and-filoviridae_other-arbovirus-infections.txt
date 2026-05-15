@@ -1,0 +1,165 @@
+标题：其他虫媒病毒感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/arboviruses-arenaviridae-and-filoviridae/other-arbovirus-infections
+============================================================
+
+虫媒病毒（节肢动物传播病毒）指通过特定吸血节肢动物（主要是昆虫如蚊蝇，以及蛛形纲动物如蜱）传播给人类和其他脊椎动物的病毒。
+
+【马亚罗热】
+马亚罗病毒是披膜病毒科中的一种甲病毒，由趋血蚊属蚊子传播。
+马亚罗病毒已在中美洲、加勒比海地区和南美洲部分地区发现。它在南美洲热带地区（特立尼达、苏里南、法属圭亚那、巴西、秘鲁、玻利维亚和委内瑞拉）为地方性流行，巴西报告的病例最多。
+马亚罗病是一种登革热样疾病，主要症状为发热、头痛、肌痛、关节痛和皮疹。该病通常是自限性的。严重表现罕见，但已有慢性多关节炎、出血、心肌炎及神经系统并发症的报道（1,2）。
+血清学检测与相关虫媒病毒发生交叉反应，使诊断变得复杂。需要通过逆转录酶聚合酶链反应（RT-PCR）确认阳性血清学结果。
+目前尚无针对马亚罗病毒的特异性抗病毒药物，治疗主要是在需要时对症状进行支持性护理（3）。
+预防马亚罗病包括避免蚊虫叮咬和蚊虫控制。没有疫苗可用。
+
+【马亚罗病参考文献】
+1.Centers for Disease Control and Prevention: Mayaro Virus: Data and Maps for Mayaro.December 13, 2024.Accessed June 23, 2025.
+1.Centers for Disease Control and Prevention: Mayaro Virus: Data and Maps for Mayaro.December 13, 2024.Accessed June 23, 2025.
+2.Acosta-Ampudia Y, Monsalve DM, Rodríguez Y, Pacheco Y, Anaya JM, Ramírez-Santana C: Mayaro: an emerging viral threat?Emerg Microbes Infect7(1):163, 2018.Published 2018 Sep 26.doi:10.1038/s41426-018-0163-5
+2.Acosta-Ampudia Y, Monsalve DM, Rodríguez Y, Pacheco Y, Anaya JM, Ramírez-Santana C: Mayaro: an emerging viral threat?Emerg Microbes Infect7(1):163, 2018.Published 2018 Sep 26.doi:10.1038/s41426-018-0163-5
+3.Wei LLL, Tom R, Kim YC: Mayaro Virus: An Emerging Alphavirus in the Americas.Viruses2024;16(8):1297, 2024.Published 2024 Aug 14.doi:10.3390/v16081297
+3.Wei LLL, Tom R, Kim YC: Mayaro Virus: An Emerging Alphavirus in the Americas.Viruses2024;16(8):1297, 2024.Published 2024 Aug 14.doi:10.3390/v16081297
+
+【奥罗普切热】
+奥罗普切病毒是布尼亚病毒科辛布群病毒。
+奥罗普切病毒通过帕拉库蠓传播给人类，这是一种分布于南美洲、中美洲和加勒比海地区的会叮咬人的蠓（小型飞虫）。怀孕期间可能发生垂直传播。一份关于在奥罗普切热患者精液中检测到奥罗普切病毒的病例报告引发了对性传播可能风险的担忧（1）。
+奥罗普切病毒的传播发生在 2 个周期中：
+市区流行
+市区流行
+在野生周期中，奥罗普切病毒的宿主是野生动物（例如灵长类动物，树懒，某些节肢动物）。在城市流行周期中，人类是主要的宿主，感染周期通过蠓媒在人际传播。
+奥罗普切病毒在其发生地区具有重大流行潜力。南美洲和加勒比地区国家报告了多起奥罗普切热疫情，这些地区靠近亚马逊盆地以外的城市中心（2）。世界卫生组织建议将奥罗普切热纳入其他常见发热性虫媒病毒感染（如基孔肯雅病、登革热、黄热病、寨卡）的临床鉴别诊断 (3)。
+在人类中，奥罗普切热类似于登革热，引起急性发热和感染。极少数情况下，重症患者会出现脑膜炎和脑膜脑炎。
+妊娠期感染奥罗普切病毒与不良妊娠结局（如胎儿死亡、死产、出生缺陷）相关。
+诊断方法是在可用时通过病毒培养或RT-PCR进行病毒检测（4）。治疗为支持治疗。
+预防奥罗普切热包括避免蠓虫叮咬。没有疫苗可用。
+
+【奥罗普切热参考文献】
+1.Castilletti C, Huits R, Mantovani RP, Accordini S, Alladio F, Gobbi F: Replication-Competent Oropouche Virus in Semen of Traveler Returning to Italy from Cuba, 2024.Emerg Infect Dis30(12):2684-2686, 2024.doi:10.3201/eid3012.241470
+1.Castilletti C, Huits R, Mantovani RP, Accordini S, Alladio F, Gobbi F: Replication-Competent Oropouche Virus in Semen of Traveler Returning to Italy from Cuba, 2024.Emerg Infect Dis30(12):2684-2686, 2024.doi:10.3201/eid3012.241470
+2.Centers for Disease Control and Prevention: Oropouche: 2024 Oropouche Outbreak.March 25, 2025.Accessed June 23, 2025.
+2.Centers for Disease Control and Prevention: Oropouche: 2024 Oropouche Outbreak.March 25, 2025.Accessed June 23, 2025.
+3.World Health Organization: Disease Outbreak News: Oropouche virus disease - Peru.June 3, 2016.Accessed June 23, 2025.
+3.World Health Organization: Disease Outbreak News: Oropouche virus disease - Peru.June 3, 2016.Accessed June 23, 2025.
+4.Riccò M, Corrado S, Bottazzoli M, et al: (Re-)Emergence of Oropouche Virus (OROV) Infections: Systematic Review and Meta-Analysis of Observational Studies.Viruses16(9):1498, 2024.doi:10.3390/v16091498
+4.Riccò M, Corrado S, Bottazzoli M, et al: (Re-)Emergence of Oropouche Virus (OROV) Infections: Systematic Review and Meta-Analysis of Observational Studies.Viruses16(9):1498, 2024.doi:10.3390/v16091498
+
+【蜱传脑炎】
+蜱传脑炎是由黄病毒属病毒引起的，该病毒有3个主要亚型（欧洲型、西伯利亚型和远东型）和2个额外亚型（贝加尔型、喜马拉雅型）。
+蜱传脑炎主要通过被感染的硬蜱叮咬传播给人类，欧洲为Ixodes ricinus，西伯利亚和远东为Ixodes persulcatus。蜱是传播媒介，同时也是病毒储存宿主，小型啮齿动物是主要的扩增宿主。蜱传脑炎也可以通过摄入未经高温消毒的、被感染的山羊，绵羊或奶牛来源的乳制品（如牛奶和奶酪）而感染，或通过输血、器官移植、母乳喂养以及实验室处理标本时的暴露感染。
+从法国东部到日本北部以及北非部分地区均有病例报告。欧洲发病率最高的国家是捷克共和国、波罗的海国家和斯洛文尼亚。美国的病例很少，发生在曾前往欧洲或中国旅行的人员中（1）。
+病例多见于早春到夏末，这是蜱最活跃的时候。
+最初，会出现轻微的流感样症状，通常在几天内消退（2）。一些患者出现更严重的症状（例如脑膜炎，脑膜脑炎）。50岁以上人群疾病发病率和严重程度最高。病死率和神经系统后遗症的发生频率因病毒亚型而异，远东亚型的死亡率最高 (3)。
+同时具备以下情况的旅行者，需怀疑蜱传脑炎：
+在从流行地区抵达后4周内出现非特异性发热性疾病，并发展为神经侵袭性疾病
+在从流行地区抵达后4周内出现非特异性发热性疾病，并发展为神经侵袭性疾病
+接触蜱虫的风险
+接触蜱虫的风险
+蜱传脑炎的诊断通常通过血清学检测血液或脑脊液中的特异性IgM抗体进行，这通常仅在神经系统表现出现后才出现。引起蜱传脑炎的病毒有时可在疾病早期抗体滴度升高之前通过病毒分离或逆转录酶聚合酶链反应（RT-PCR）在血清中检测到。
+与其他病毒性脑膜脑炎一样，以支持治疗为主。
+预防蜱传脑炎包括避免蜱虫叮咬。在蜱传脑炎流行的一些地区可以获得疫苗 (4)。美国为前往有蜱虫暴露风险的流行地区的美国旅行者提供了疫苗 (5)。
+
+【蜱传脑炎参考文献】
+1.Hills SL, Gould CV: Tick-Borne Encephalitis.In CDC Yellow Book: Health Information for International Travel.April 23, 2025.Accessed June 23, 2025.
+1.Hills SL, Gould CV: Tick-Borne Encephalitis.In CDC Yellow Book: Health Information for International Travel.April 23, 2025.Accessed June 23, 2025.
+2.Chiffi G, Grandgirard D, Leib SL, Chrdle A, Růžek D: Tick-borne encephalitis: A comprehensive review of the epidemiology, virology, and clinical picture.Rev Med Virol33(5):e2470, 2023.doi:10.1002/rmv.2470
+2.Chiffi G, Grandgirard D, Leib SL, Chrdle A, Růžek D: Tick-borne encephalitis: A comprehensive review of the epidemiology, virology, and clinical picture.Rev Med Virol33(5):e2470, 2023.doi:10.1002/rmv.2470
+3.Centers for Disease Control and Prevention: Tick-borne Encephalitis Virus: Clinical Signs and Symptoms of Tick-borne Encephalitis.May 15, 2024.Accessed June 23, 2025.
+3.Centers for Disease Control and Prevention: Tick-borne Encephalitis Virus: Clinical Signs and Symptoms of Tick-borne Encephalitis.May 15, 2024.Accessed June 23, 2025.
+4.European Centre for Disease Prevention and Control: Vaccine Scheduler: Tick-Borne Encephalitis: Recommended vaccinations.2025.Accessed June 23, 2025.
+4.European Centre for Disease Prevention and Control: Vaccine Scheduler: Tick-Borne Encephalitis: Recommended vaccinations.2025.Accessed June 23, 2025.
+5.Centers for Disease Control and Prevention: Tick-borne Encephalitis Virus:Tick-borne Encephalitis Vaccine.May 15, 2024.Accessed June 23, 2025.
+5.Centers for Disease Control and Prevention: Tick-borne Encephalitis Virus:Tick-borne Encephalitis Vaccine.May 15, 2024.Accessed June 23, 2025.
+
+【波瓦桑病毒】
+在美国，蜱传脑炎主要由波瓦桑病毒引起，这是一种与西尼罗病毒、圣路易斯脑炎病毒和蜱传脑炎病毒抗原性相关的黄病毒属病毒。波瓦桑病毒感染主要在东北部各州和大湖地区有所报告，但在加拿大东南部和俄罗斯（西伯利亚东南部，符拉迪沃斯托克东北部）也有报告。
+在美国，有两种类型的波瓦桑病毒，都与人类疾病有关：
+谱系1波瓦桑病毒：与库克硬蜱或马克思硬蜱相关
+谱系1波瓦桑病毒：与库克硬蜱或马克思硬蜱相关
+谱系2波瓦桑病毒（有时称为鹿蜱病毒）：与肩突硬蜱相关，这种蜱虫也传播莱姆病、无形体病和巴贝斯虫病。
+谱系2波瓦桑病毒（有时称为鹿蜱病毒）：与肩突硬蜱相关，这种蜱虫也传播莱姆病、无形体病和巴贝斯虫病。
+大多数感染是由2型波瓦桑病毒引起的，因为库克氏硬蜱很少叮咬人。
+感染蜱传播波瓦桑病毒所需的吸附时间（15分钟）可能比莱姆病所需时间短得多（24-48小时）(1)。
+波瓦桑病毒性脑炎较为罕见（2019年美国报告病例数不足50例），但由于美国蜱虫和野生哺乳动物中波瓦桑病毒流行率较高（2），感染风险很可能正在上升。病例发生在春末至秋季中旬，这期间蜱最为活跃 (3)。
+流感样前驱症状后可出现神经系统表现。神经系统后遗症（例如，精神病、嗜睡、构音障碍、痉挛、头痛）很常见。报告的病例死亡率很高（高达10%至15%）（1），但这可能反映了报告偏差，因为流行地区的血清阳性率高于报告的病例率，表明存在无症状感染。
+脑炎患者应考虑波瓦桑病毒感染，特别是当患者有蜱虫叮咬史、显著户外暴露史或最近去过或居住在流行地区时。诊断与蜱传脑炎相似，通过血清学检测血清或脑脊液中的波瓦桑病毒特异性IgM抗体；并由州立公共卫生实验室或CDC对急性期和恢复期血清标本进行中和抗体检测来确认。
+治疗主要是支持性的，因为没有特定的抗病毒疗法。病例报告中糖皮质激素的疗效尚不明确（2）。目前尚无针对波瓦桑病毒感染的疫苗；蜱传脑炎疫苗对波瓦桑病毒无防护作用。
+有感染风险的人应采取个人防护措施来预防蜱虫叮咬。
+
+【波瓦桑病毒参考文献】
+1.Doughty CT, Yawetz S, Lyons J: Emerging Causes of Arbovirus Encephalitis in North America: Powassan, Chikungunya, and Zika Viruses.Curr Neurol Neurosci Rep17(2):12, 2017.doi:10.1007/s11910-017-0724-3
+1.Doughty CT, Yawetz S, Lyons J: Emerging Causes of Arbovirus Encephalitis in North America: Powassan, Chikungunya, and Zika Viruses.Curr Neurol Neurosci Rep17(2):12, 2017.doi:10.1007/s11910-017-0724-3
+2.Piantadosi A, Solomon IH: Powassan Virus Encephalitis.Infect Dis Clin North Am36(3):671-688, 2022.doi:10.1016/j.idc.2022.03.003
+2.Piantadosi A, Solomon IH: Powassan Virus Encephalitis.Infect Dis Clin North Am36(3):671-688, 2022.doi:10.1016/j.idc.2022.03.003
+3.Centers for Disease Control and Prevention: Powassan Virus: Data and Maps for Powassan.June 3, 2025.Accessed June 23, 2025.
+3.Centers for Disease Control and Prevention: Powassan Virus: Data and Maps for Powassan.June 3, 2025.Accessed June 23, 2025.
+
+【其他蜱传病毒】
+美国其他蜱传病毒包括：
+波旁病毒：这种病毒是从堪萨斯州波旁县一名死于多器官衰竭的病人身上分离出来的。美国南部和中西部报告的病例数量有限 (1)。感染表现为类似流感的疾病，伴有皮疹。
+波旁病毒：这种病毒是从堪萨斯州波旁县一名死于多器官衰竭的病人身上分离出来的。美国南部和中西部报告的病例数量有限 (1)。感染表现为类似流感的疾病，伴有皮疹。
+心脏地带病毒：截至 2022 年，美国中西部、东北部和南部各州报告了 60 多例心脏地带病毒病（2）。心脏地带病毒已在 13 个州的鹿、浣熊、郊狼和驼鹿中检测到，从德克萨斯州到北卡罗来纳州，从佛罗里达州到缅因州。感染这种病毒通常会导致自限性、非特异性发热性疾病，可能伴有白细胞减少症、血小板减少症和肝转氨酶升高。一名患者死亡。对于接受埃里希体病治疗但对多西环素治疗无反应的患者，应考虑哈特兰病毒感染。心脏地带病毒没有特定的治疗方法，通过支持性护理进行管理。
+心脏地带病毒：截至 2022 年，美国中西部、东北部和南部各州报告了 60 多例心脏地带病毒病（2）。心脏地带病毒已在 13 个州的鹿、浣熊、郊狼和驼鹿中检测到，从德克萨斯州到北卡罗来纳州，从佛罗里达州到缅因州。感染这种病毒通常会导致自限性、非特异性发热性疾病，可能伴有白细胞减少症、血小板减少症和肝转氨酶升高。一名患者死亡。对于接受埃里希体病治疗但对多西环素治疗无反应的患者，应考虑哈特兰病毒感染。心脏地带病毒没有特定的治疗方法，通过支持性护理进行管理。
+科罗拉多蜱热病毒：一种科尔蒂病毒属病毒导致科罗拉多蜱热。科罗拉多蜱热已在美国西部和加拿大海拔 4,000 至 10,000 英尺(1200至3000米)的地区被诊断出，那里是蜱病媒介安氏皮蜱的所在地。该疾病罕见，在美国每年报告的中位数为 7 例（3）。它引起一种非特异性发热性疾病，很少并发脑膜炎或脑炎。罕见情况下，它通过输血传播。
+科罗拉多蜱热病毒：一种科尔蒂病毒属病毒导致科罗拉多蜱热。科罗拉多蜱热已在美国西部和加拿大海拔 4,000 至 10,000 英尺(1200至3000米)的地区被诊断出，那里是蜱病媒介安氏皮蜱的所在地。该疾病罕见，在美国每年报告的中位数为 7 例（3）。它引起一种非特异性发热性疾病，很少并发脑膜炎或脑炎。罕见情况下，它通过输血传播。
+
+【其他蜱传病毒参考文献】
+1.Centers for Disease Control and Prevention: Bourbon Virus: About Bourbon.May 14, 2024.Accessed June 23, 2025.
+1.Centers for Disease Control and Prevention: Bourbon Virus: About Bourbon.May 14, 2024.Accessed June 23, 2025.
+2.Centers for Disease Control and Prevention: Heartland Virus: Data and Maps for Heartland.May 15, 2024.Accessed June 23, 2025.
+2.Centers for Disease Control and Prevention: Heartland Virus: Data and Maps for Heartland.May 15, 2024.Accessed June 23, 2025.
+3.Centers for Disease Control and Prevention: Colorado Tick Fever Virus: Data and Maps for Colorado Tick Fever.May 15, 2024.Accessed June 23, 2025.
+3.Centers for Disease Control and Prevention: Colorado Tick Fever Virus: Data and Maps for Colorado Tick Fever.May 15, 2024.Accessed June 23, 2025.
+
+【加利福尼亚脑炎血清群病毒】
+加利福尼亚脑炎血清群病毒，包括加利福尼亚脑炎病毒、雪鞋野兔病毒、拉克罗斯病毒和詹姆斯敦峡谷病毒，是虫媒病毒，属于布尼亚病毒科。这些病毒通过伊蚊传播和维系，主要分布于落基山脉，美国东部，加拿大东南部和西欧。
+加利福尼亚脑炎血清群病毒引起伴有中枢神经系统症状（例如，发热、嗜睡、反应迟钝、局部神经系统表现、癫痫发作）的发热性疾病，并可导致脑炎或脑膜脑炎（1）。症状主要出现在儿童中，但詹姆斯敦峡谷病毒除外，它也可能影响成年人。颞叶受累可能会类似疱疹性脑炎；20%的患者出现行为问题或复发性癫痫发作（2）。
+尚无有效治疗手段。预防包括避免蚊虫叮咬和蚊虫控制。
+
+【加利福尼亚脑炎血清群病毒参考文献】
+1.Webster D, Dimitrova K, Holloway K, Makowski K, Safronetz D, Drebot MA: California Serogroup Virus Infection Associated with Encephalitis and Cognitive Decline, Canada, 2015.Emerg Infect Dis23(8):1423-1424, 2017.doi:10.3201/eid2308.170239
+1.Webster D, Dimitrova K, Holloway K, Makowski K, Safronetz D, Drebot MA: California Serogroup Virus Infection Associated with Encephalitis and Cognitive Decline, Canada, 2015.Emerg Infect Dis23(8):1423-1424, 2017.doi:10.3201/eid2308.170239
+2.Evans AB, Peterson KE: Throw out the Map: Neuropathogenesis of the Globally Expanding California Serogroup of Orthobunyaviruses.Viruses11(9):794, 2019.Published 2019 Aug 29.doi:10.3390/v11090794
+2.Evans AB, Peterson KE: Throw out the Map: Neuropathogenesis of the Globally Expanding California Serogroup of Orthobunyaviruses.Viruses11(9):794, 2019.Published 2019 Aug 29.doi:10.3390/v11090794
+
+【鄂木斯克出血热和夸赛纳森林病】
+鄂木斯克出血热和夸赛纳森林病是虫媒病毒，通过硬蜱或直接接触受感染的动物（例如，啮齿动物、猴子）传播。鄂木斯克出血热由黄病毒引起，流行于俄罗斯（包括西伯利亚）。夸赛纳森林病同样由黄病毒引起，流行于印度。
+鄂木斯克出血热和夸赛纳森林病是急性发热性疾病，伴有出血素质、腹痛、低血压、白细胞减少症和血小板减少症；一些患者在第三周出现脑炎（1）。鄂木斯克出血热的病死率为<3%，夸赛纳森林病的病死率为3%至5%（2,3）。
+预防措施包括避免蜱虫叮咬和接触受感染的动物。夸赛纳热病毒疫苗在印度生产。
+
+【鄂木斯克出血热和夸赛纳森林病参考文献】
+1.Centers for Disease Control and Prevention: Omsk Hemorrhagic Fever: About Omsk Hemorrhagic Fever.January 25, 2024.Accessed June 23, 2025.
+1.Centers for Disease Control and Prevention: Omsk Hemorrhagic Fever: About Omsk Hemorrhagic Fever.January 25, 2024.Accessed June 23, 2025.
+2.Centers for Disease Control and Prevention: Kyasanur Forest Disease: About Kyasanur Forest Disease.March 8, 2024.Accessed June 23, 2025.
+2.Centers for Disease Control and Prevention: Kyasanur Forest Disease: About Kyasanur Forest Disease.March 8, 2024.Accessed June 23, 2025.
+3.Gupta N, Wilson W, Neumayr A, Saravu K: Kyasanur forest disease: a state-of-the-art review.QJM115(6):351-358, 2022.doi:10.1093/qjmed/hcaa310
+3.Gupta N, Wilson W, Neumayr A, Saravu K: Kyasanur forest disease: a state-of-the-art review.QJM115(6):351-358, 2022.doi:10.1093/qjmed/hcaa310
+裂谷热由一种白蛉病毒引起，是一种主要影响家畜（如绵羊、山羊、牛和骆驼）（另见Rift Valley Fever in Animals（动物中的裂谷热））但也可感染人类的虫媒病毒。最常见的传播途径是通过受感染蚊子的叮咬。也可通过以下方式传播：
+直接或间接接触感染动物的血液或器官（例如在屠宰、分割或兽医操作过程中）。
+直接或间接接触感染动物的血液或器官（例如在屠宰、分割或兽医操作过程中）。
+吸入感染的气溶胶
+吸入感染的气溶胶
+摄入受感染动物的生或未煮熟动物产品
+摄入受感染动物的生或未煮熟动物产品
+未报告裂谷热的人与人传播病例（1），也未报告在采用标准感染控制预防措施的医护人员中传播裂谷热的情况（2）。
+感染病毒的伊蚊卵可以携带病毒。这些被感染的虫卵可存活数月至数年，在发生洪涝的地区可孵化并产生带毒的成蚊雌虫，从而具备传播能力（1）。
+裂谷热发生在南非、东非和西非、阿拉伯半岛和埃及（1）。
+潜伏期为2至6天（2）。症状平均持续4至7天。裂谷热感染最常见的表现是无症状或症状轻微。轻度症状包括流感样综合征，具有以下症状：发热、肌痛、关节痛、头痛、恶心、呕吐、腹痛和厌食（1-3）。约有 8%–10% 的有症状患者会发生严重并发症，包括眼部疾病、脑膜脑炎（<1% 的病例）、妊娠患者流产，或出血型疾病（其病死率约为 50%）（2）。在人类病例出现之前，可能会在牲畜中出现大量流产（1）。
+早期诊断依赖于高怀疑指数（与牲畜接触或到流行地区旅行），并通过分子或血清学分析得到证实。分子方法（如逆转录酶聚合酶链反应）是裂谷热早期病毒血症检测和定量最敏感的分子方法（4）。血清学检测的敏感性低于 PCR，包括 IgG 和 IgM 抗体的酶联免疫吸附试验（ELISA）（2）。
+裂谷热的治疗选择仅限于支持性护理，因为没有抗病毒药物已被证明对人类有效（1、3、5）。支持性护理包括及时给予静脉输液和纠正电解质失衡，处理肝肾功能障碍，以及治疗出血、脑炎或视网膜炎等并发症。在严重的情况下，多器官衰竭或休克可能需要重症监护支持。
+家畜疫苗已可获得（另见Control and Prevention of Rift Valley Fever in Animals（动物裂谷热的控制和预防）），多种人用疫苗候选物正在研究中（6、7）。
+
+【裂谷热参考文献】
+1.Centers for Disease Control and Prevention.Viral Hemorrhagic Fevers: About Rift Valley Fever (RVF).May 14, 2024.Accessed October 13, 2025.
+1.Centers for Disease Control and Prevention.Viral Hemorrhagic Fevers: About Rift Valley Fever (RVF).May 14, 2024.Accessed October 13, 2025.
+2.World Health Organization.裂谷热。December 20, 2024.Accessed October 13, 2025.
+2.World Health Organization.裂谷热。December 20, 2024.Accessed October 13, 2025.
+3.European Centre for Disease Prevention and Control.Facts about Rift Valley fever.Accessed November 8, 2025.
+3.European Centre for Disease Prevention and Control.Facts about Rift Valley fever.Accessed November 8, 2025.
+4.Trujillo JD, Wilson WC, Craig A, et al.Rift Valley Fever virus M and L genome segment detection: a comparison of field-deployable reverse transcription insulated isothermal PCR (RT-iiPCR) and laboratory-based multiplex reverse transcription real-time PCR.J Clin Microbiol.62(3):e0043023, 2024.doi:10.1128/jcm.00430-23
+4.Trujillo JD, Wilson WC, Craig A, et al.Rift Valley Fever virus M and L genome segment detection: a comparison of field-deployable reverse transcription insulated isothermal PCR (RT-iiPCR) and laboratory-based multiplex reverse transcription real-time PCR.J Clin Microbiol.62(3):e0043023, 2024.doi:10.1128/jcm.00430-23
+5.Javelle E, Lesueur A, Pommier de Santi V, et al.The challenging management of Rift Valley Fever in humans: literature review of the clinical disease and algorithm proposal.Ann Clin Microbiol Antimicrob.2020;19(1):4.Published 2020 Jan 22.doi:10.1186/s12941-020-0346-5
+5.Javelle E, Lesueur A, Pommier de Santi V, et al.The challenging management of Rift Valley Fever in humans: literature review of the clinical disease and algorithm proposal.Ann Clin Microbiol Antimicrob.2020;19(1):4.Published 2020 Jan 22.doi:10.1186/s12941-020-0346-5
+6.Alkan C, Jurado-Cobena E, Ikegami T.Advancements in Rift Valley fever vaccines: a historical overview and prospects for next generation candidates.NPJ Vaccines.2023;8(1):171.Published 2023 Nov 4.doi:10.1038/s41541-023-00769-w
+6.Alkan C, Jurado-Cobena E, Ikegami T.Advancements in Rift Valley fever vaccines: a historical overview and prospects for next generation candidates.NPJ Vaccines.2023;8(1):171.Published 2023 Nov 4.doi:10.1038/s41541-023-00769-w
+7.Leroux-Roels I, Prajeeth CK, Aregay A, et al.Safety and immunogenicity of the live-attenuated hRVFV-4s vaccine against Rift Valley fever in healthy adults: a dose-escalation, placebo-controlled, first-in-human, phase 1 randomised clinical trial.Lancet Infect Dis.2024;24(11):1245-1253.doi:10.1016/S1473-3099(24)00375-X
+7.Leroux-Roels I, Prajeeth CK, Aregay A, et al.Safety and immunogenicity of the live-attenuated hRVFV-4s vaccine against Rift Valley fever in healthy adults: a dose-escalation, placebo-controlled, first-in-human, phase 1 randomised clinical trial.Lancet Infect Dis.2024;24(11):1245-1253.doi:10.1016/S1473-3099(24)00375-X

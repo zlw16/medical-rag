@@ -1,0 +1,145 @@
+标题：多汗症
+来源：https://www.msdmanuals.cn/professional/dermatologic-disorders/sweating-disorders/hyperhidrosis
+============================================================
+
+（参见于汗腺疾病概述）
+
+【多汗症的病因】
+多汗症可局限，亦可广泛受累。
+
+【局限型多汗】
+情绪因素导致的较为常见，焦虑、兴奋、愤怒或恐惧可导致手掌、足底、腋下和前额的出汗。这可能是应激时全身交感神经冲动传出增加引起的。运动和炎热的环境中出汗也很常见。虽然此时的出汗是一种正常的生理反应，但在相同刺激下，多汗症患者出汗量远超大多人群；即使在常人不易出汗的情况下，他们也会过度出汗。
+味觉出汗（因进食或预期进食而出汗）可能由多种原因引起；然而，大多数情况下原因是未知的。例如，当摄入辛辣或高温的食物和饮料时，嘴唇和嘴巴周围会出汗。
+病理原因包括糖尿病性神经病、面部的带状疱疹、颈交感神经节侵犯、中枢神经系统损伤或疾病、或腮腺损伤。
+Frey 综合征是由于手术、感染或外伤导致腮腺或周围损伤而导致的神经系统疾病。Frey综合征会破坏耳颞神经，随后腮腺副交感神经纤维不适当地再生为交感神经纤维，支配损伤部位皮肤的局部汗腺 (1)。结果，错位的副交感神经纤维（通常会导致流涎作为味觉反应）现在反而会触发交感神经纤维，导致耳前脸颊（不适当的）发红和出汗。
+其他局限型多汗的原因包括胫前黏液性水肿（胫前出汗），肥大性骨关节病（手掌出汗），蓝橡皮奶头样大疱性痣综合征及血管球瘤（病变部位出汗）。
+代偿性出汗是在交感神经切除术后发生的大量出汗。
+
+【泛发型多汗】
+泛发型多汗几乎累及全身。尽管大多病因不明，但有许多已知情况下可发生（见表全身出汗的一些原因）。
+
+【一些泛发型多汗的病因】
+一些泛发型多汗的病因
+淋巴瘤，白血病
+中枢神经系统
+创伤，自主神经病
+药物或其他物质
+抗抑郁药、阿司匹林、非甾体抗炎药、降血糖药、咖啡因、茶碱；阿片类药物戒断
+内分泌紊乱
+甲状腺功能亢进、低血糖症、由促性腺激素释放激素 (GnRH) 激动剂引起的性激素分泌过多
+结核，心内膜炎，系统性真菌感染
+类癌综合征，怀孕，绝经，焦虑， 发烧
+*主要为夜间泛发性多汗（盗汗）。
+*主要为夜间泛发性多汗（盗汗）。
+
+【病因参考文献】
+1.Motz KM, Kim YJ.Auriculotemporal Syndrome (Frey Syndrome).Otolaryngol Clin North Am.2016;49(2):501-509.doi:10.1016/j.otc.2015.10.010
+1.Motz KM, Kim YJ.Auriculotemporal Syndrome (Frey Syndrome).Otolaryngol Clin North Am.2016;49(2):501-509.doi:10.1016/j.otc.2015.10.010
+
+【多汗症的症状和体征】
+体检常可见患者出汗，出汗可非常剧烈。患者衣服常湿透，掌跖可见浸渍、皲裂。
+掌跖部位皮肤可表现苍白。
+多汗症可导致患者情绪低落，甚至回避社交。
+
+【多汗症的诊断】
+病史和体检
+病史和体检
+淀粉碘实验
+淀粉碘实验
+病因检测
+病因检测
+多汗症可能是潜在疾病的原发性或继发性。诊断依靠病史和体检，确诊可利用淀粉碘实验 (1)。此测试将碘溶液滴加到受影响的区域，并使其干燥。玉米淀粉撒到相应部位，这可使出汗的区域变暗。实验仅在需要确定出汗部位时有必要性（例如Frey综合征，或需确定手术、肉毒杆菌毒素治疗部位时），亦可作为治疗过程中随访疗效的半定量方法。不对称性出汗的模式提示可能存在神经源性因素。
+可根据患者的其他症状来选择实验室检查，由此寻找多汗症的病因。例如通过CBC检测是否患有白血病、通过血糖检测是否患有糖尿病、通过促甲状腺激素筛查是否有甲状腺功能异常。
+
+【诊断参考文献】
+International Hyperhidrosis Society: Diagnosis guidelines: Primary hyperhidrosis.Accessed March 29, 2024.
+International Hyperhidrosis Society: Diagnosis guidelines: Primary hyperhidrosis.Accessed March 29, 2024.
+
+【多汗症的治疗】
+六水合三氯化铝溶液
+六水合三氯化铝溶液
+局部抗胆碱能药物
+局部抗胆碱能药物
+口服抗胆碱药物
+口服抗胆碱药物
+口服可乐定
+口服可乐定
+A型肉毒杆菌毒素
+A型肉毒杆菌毒素
+医疗设备
+医疗设备
+外科手术
+外科手术
+局限型和泛发型多汗症的初始治疗相似。各种方法可能有效（1）。外用药物如氯化铝六水合物溶液和局部抗胆碱能药物通常被视为一线治疗方法，因为它们是非侵入性的并且副作用很少。
+(See alsoclinical guidelinesfrom the International Hyperhidrosis Society.)
+
+【六水合三氯化铝溶液】
+六水合三氯化铝（一种止汗剂）6%~20%无水乙醇溶液适用于腋下、手掌和足底出汗的局部治疗；这些制剂需要处方使用。该溶液会使盐沉淀，从而阻塞汗腺。
+此药剂夜间使用效果最佳，晨起后需洗掉。有时需在涂药前口服抗胆碱能药物，以防止汗液将三氯化铝洗掉。
+治疗初期，每周需反复多次使用以控制病情，而后可减至每周一到两次规律维持。如果此药剂封包治疗有刺激性，可尝试非封包治疗。此药剂不可用于伴有炎症、破溃、渗出或近期剃刮过毛发的皮肤表面。
+在症状较轻的患者中，高浓度的三氯化铝水溶液也可能使其症状得到充分缓解。
+
+【局部抗胆碱能药物】
+2.4% 格隆铵甲磺酸盐湿巾用于治疗 9 岁及以上人群的原发性腋窝多汗症（2）。对抗胆碱药物作用敏感的患者应谨慎使用。
+其他局部抗胆碱能药物包括格隆溴铵、索匹罗溴铵和奥昔布宁。
+
+【口服抗胆碱药物】
+格隆溴铵或奥昔布宁可 (3) 用于减少出汗，但可能受到抗胆碱能副作用的限制。 包括口干，皮肤干燥，面部潮红，视力模糊,尿潴留, 瞳孔散大，和心律失常。
+口服可乐定 是一种 α-2-肾上腺素能激动剂，可减少由交感神经系统活动介导的出汗。
+
+【A型肉毒杆菌毒素】
+A型肉毒杆菌毒素是一种可以减少外分泌腺交感神经释放乙酰胆碱的神经毒素。
+将肉毒杆菌毒素直接皮下注射于腋下、手掌或前额皮肤，能够抑制出汗约5个月，具体维持时间与注射剂量有关。随机试验的数据支持 A 型肉毒毒素治疗多汗症的疗效（4，5）。值得注意的是，在美国，肉毒杆菌毒素仅被批准用于治疗腋窝多汗症，并且可能不在保险范围内，无法用于治疗其他部位的多汗症。
+肉毒杆菌毒素的不良反应包括局部肌无力和头痛。 该法虽然有效，但注射会引起疼痛且费用高昂，并且每年必须重复治疗 2 至 3 次。
+另一个考虑因素是 A 型肉毒杆菌毒素脂质体乳膏（6）。
+
+【医疗设备】
+自来水离子渗透疗法，即用电流将可溶性盐的离子导入皮肤，这可作为局部治疗反应不佳患者的另一选择；然而支持数据有限。
+将受累部位（通常为掌跖部位）分别置于自来水池，每个水池中置入一个含15～25mA电流的电极，治疗10～20分钟。第1周每日1次，而后每周或每两周重复1次。将抗胆碱能药片（如格隆溴铵）溶解到盆水中可以使离子电渗疗法更有效。
+虽然这种疗法通常有效，但因操作耗时、不便捷，部分患者难以坚持。
+基于微波的设备可以加热，然后永久性地破坏汗腺 其疗效至少可持续数月（7）。 患者可能会受益于至少相隔 3 个月的两次治疗。
+激光设备已被用于治疗多汗症。这些包括二极管激光器、掺钕钇铝石榴石 (Nd:YAG) 激光器和分次微针射频设备（1）。还可以考虑使用分馏 CO2 激光辅助输送肉毒杆菌毒素 A 溶液。
+
+【手术治疗】
+外科手术可用于各种保守治疗均失败后。
+腋窝多汗症患者可予以腋窝汗腺切除术，可通过切开割除术或抽吸术进行(8)（后者并发症可能更少）。
+手掌多汗症患者可行经胸廓内镜下交感神经切除术 (9)。必须注意手术导致并发症的可能性，尤其是交感神经切除术。可能的并发症包括幻觉多汗症（无汗液分泌但有出汗感），代偿性多汗症（未经治疗的部位出汗增多），味觉多汗，神经痛，以及霍纳综合征。代偿性多汗症是胸腔镜下交感神经切除术后最常见的并发症，高达80％的患者可出现此症(10)，可能致残并且比原来问题更加严重。
+
+【治疗参考文献】
+1.Henning MAS, Bouazzi D, Jemec GBE: Treatment of Hyperhidrosis: An Update.Am J Clin Dermatol23(5):635-646, 2022.doi: 10.1007/s40257-022-00707-x
+1.Henning MAS, Bouazzi D, Jemec GBE: Treatment of Hyperhidrosis: An Update.Am J Clin Dermatol23(5):635-646, 2022.doi: 10.1007/s40257-022-00707-x
+2.Glaser DA, Hebert AA, Nast A, et al: Topicalglycopyrroniumtosylate for the treatment of primary axillary hyperhidrosis: Results from the ATMOS-1 and ATMOS-2 phase 3 randomized controlled trials.J Am Acad Dermatolpii:S0190-9622(18)32224-2, 2018.doi: 10.1016/j.jaad.2018.07.002
+2.Glaser DA, Hebert AA, Nast A, et al: Topicalglycopyrroniumtosylate for the treatment of primary axillary hyperhidrosis: Results from the ATMOS-1 and ATMOS-2 phase 3 randomized controlled trials.J Am Acad Dermatolpii:S0190-9622(18)32224-2, 2018.doi: 10.1016/j.jaad.2018.07.002
+3.Wolosker N, de Campos JR, Kauffman P, Puech-Leao P.A randomized placebo-controlled trial ofoxybutyninfor the initial treatment of palmar and axillary hyperhidrosis.J Vasc Surg.2012;55(6):1696-1700.doi:10.1016/j.jvs.2011.12.039
+3.Wolosker N, de Campos JR, Kauffman P, Puech-Leao P.A randomized placebo-controlled trial ofoxybutyninfor the initial treatment of palmar and axillary hyperhidrosis.J Vasc Surg.2012;55(6):1696-1700.doi:10.1016/j.jvs.2011.12.039
+4.Heckmann M, Ceballos-Baumann AO, Plewig G; Hyperhidrosis Study Group. Botulinum toxin A for axillary hyperhidrosis (excessive sweating).N Engl J Med.2001;344(7):488-493.doi:10.1056/NEJM200102153440704
+4.Heckmann M, Ceballos-Baumann AO, Plewig G; Hyperhidrosis Study Group. Botulinum toxin A for axillary hyperhidrosis (excessive sweating).N Engl J Med.2001;344(7):488-493.doi:10.1056/NEJM200102153440704
+5.Naumann M, Lowe NJ. Botulinum toxin type A in treatment of bilateral primary axillary hyperhidrosis: randomised, parallel group, double blind, placebo controlled trial.BMJ.2001;323(7313):596-599.doi:10.1136/bmj.323.7313.596
+5.Naumann M, Lowe NJ. Botulinum toxin type A in treatment of bilateral primary axillary hyperhidrosis: randomised, parallel group, double blind, placebo controlled trial.BMJ.2001;323(7313):596-599.doi:10.1136/bmj.323.7313.596
+6.Lueangarun S, Sermsilp C, Tempark T.Topical Botulinum Toxin Type A Liposomal Cream for Primary Axillary Hyperhidrosis: A Double-Blind, Randomized, Split-Site, Vehicle-Controlled Study.Dermatol Surg.2018;44(8):1094-1101.doi:10.1097/DSS.0000000000001532
+6.Lueangarun S, Sermsilp C, Tempark T.Topical Botulinum Toxin Type A Liposomal Cream for Primary Axillary Hyperhidrosis: A Double-Blind, Randomized, Split-Site, Vehicle-Controlled Study.Dermatol Surg.2018;44(8):1094-1101.doi:10.1097/DSS.0000000000001532
+7.Glaser DA, Coleman WP 3rd, Fan LK, et al.A randomized, blinded clinical evaluation of a novel microwave device for treating axillary hyperhidrosis: the dermatologic reduction in underarm perspiration study.Dermatol Surg.2012;38(2):185-191.doi:10.1111/j.1524-4725.2011.02250.x
+7.Glaser DA, Coleman WP 3rd, Fan LK, et al.A randomized, blinded clinical evaluation of a novel microwave device for treating axillary hyperhidrosis: the dermatologic reduction in underarm perspiration study.Dermatol Surg.2012;38(2):185-191.doi:10.1111/j.1524-4725.2011.02250.x
+8.Cerfolio RJ, De Campos JR, Bryant AS, et al.The Society of Thoracic Surgeons expert consensus for the surgical treatment of hyperhidrosis.Ann Thorac Surg.2011;91(5):1642-1648.doi:10.1016/j.athoracsur.2011.01.105
+8.Cerfolio RJ, De Campos JR, Bryant AS, et al.The Society of Thoracic Surgeons expert consensus for the surgical treatment of hyperhidrosis.Ann Thorac Surg.2011;91(5):1642-1648.doi:10.1016/j.athoracsur.2011.01.105
+9.Drott C, Göthberg G, Claes G.Endoscopic transthoracic sympathectomy: an efficient and safe method for the treatment of hyperhidrosis.J Am Acad Dermatol.1995;33(1):78-81.doi:10.1016/0190-9622(95)90015-2
+9.Drott C, Göthberg G, Claes G.Endoscopic transthoracic sympathectomy: an efficient and safe method for the treatment of hyperhidrosis.J Am Acad Dermatol.1995;33(1):78-81.doi:10.1016/0190-9622(95)90015-2
+10.Gossot D, Galetta D, Pascal A, et al.Long-term results of endoscopic thoracic sympathectomy for upper limb hyperhidrosis.Ann Thorac Surg.2003;75(4):1075-1079.doi:10.1016/s0003-4975(02)04657-x
+10.Gossot D, Galetta D, Pascal A, et al.Long-term results of endoscopic thoracic sympathectomy for upper limb hyperhidrosis.Ann Thorac Surg.2003;75(4):1075-1079.doi:10.1016/s0003-4975(02)04657-x
+多汗症可局限，亦可广泛受累。
+多汗症可局限，亦可广泛受累。
+不对称性多汗提示神经源性因素。
+不对称性多汗提示神经源性因素。
+虽然全身出汗通常是正常的，但仍需根据患者症状考虑肿瘤、感染、内分泌紊乱的可能性。
+虽然全身出汗通常是正常的，但仍需根据患者症状考虑肿瘤、感染、内分泌紊乱的可能性。
+根据临床发现选择实验室检查，明确系统性病因。
+根据临床发现选择实验室检查，明确系统性病因。
+使用氯化铝溶液、自来水离子电渗疗法、口服或外用抗胆碱能药物、口服可乐定、肉毒杆菌毒素或微波或激光设备进行治疗。
+使用氯化铝溶液、自来水离子电渗疗法、口服或外用抗胆碱能药物、口服可乐定、肉毒杆菌毒素或微波或激光设备进行治疗。
+考虑对药物或器械治疗无反应的患者进行手术选择；这些包括腋窝汗腺切除术和内窥镜经胸交感神经切除术以治疗手掌出汗，这会带来显着不良反应的风险。
+考虑对药物或器械治疗无反应的患者进行手术选择；这些包括腋窝汗腺切除术和内窥镜经胸交感神经切除术以治疗手掌出汗，这会带来显着不良反应的风险。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+International Hyperhidrosis Society:Clinical guidelines for the treatment of hyperhidrosis
+International Hyperhidrosis Society:Clinical guidelines for the treatment of hyperhidrosis

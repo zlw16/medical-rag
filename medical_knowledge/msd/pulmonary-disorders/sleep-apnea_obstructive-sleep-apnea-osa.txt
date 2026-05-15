@@ -1,0 +1,360 @@
+标题：阻塞性睡眠呼吸暂停
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/sleep-apnea/obstructive-sleep-apnea-osa
+============================================================
+
+（参见儿童阻塞性睡眠呼吸暂停.)
+阻塞性睡眠呼吸暂停 (OSA) 很常见，并且患病率随着肥胖的发病率增加而增加。全世界（1)估计有 10 亿人受到影响, 其中大多数人没有得到诊断和治疗。8%至16%的成年人存在一定程度的OSA症状 (2)。男性患 OSA 的几率比女性高出 4 倍（3)，肥胖人群 (即体重指数 [BMI] ≥ 30) 的发病率是正常人群的 7 倍，尽管三分之一的 OSA 患者并不超重或肥胖 (1）。
+表现、治疗和预后因性别和年龄而异（3,4,5)。
+
+【参考文献】
+1.Gottlieb DJ, Punjabi NM: Diagnosis and management of obstructive sleep apnea: A review.JAMA323(14):1389-1400, 2020.doi:10.1001/jama.2020.3514
+1.Gottlieb DJ, Punjabi NM: Diagnosis and management of obstructive sleep apnea: A review.JAMA323(14):1389-1400, 2020.doi:10.1001/jama.2020.3514
+2.Peppard PE, Young T, Barnet JH, Palta M, Hagen EW, Hla KM: Increased prevalence of sleep-disordered breathing in adults.Am J Epidemiol177(9):1006–1014, 2013.doi:10.1093/aje/kws342
+2.Peppard PE, Young T, Barnet JH, Palta M, Hagen EW, Hla KM: Increased prevalence of sleep-disordered breathing in adults.Am J Epidemiol177(9):1006–1014, 2013.doi:10.1093/aje/kws342
+3.Bonsignore MR, Saaresranta T, Riha RL: Sex differences in obstructive sleep apnoea.Eur Respir Rev28(154):190030, 2019.doi: 10.1183/16000617.0030-2019
+3.Bonsignore MR, Saaresranta T, Riha RL: Sex differences in obstructive sleep apnoea.Eur Respir Rev28(154):190030, 2019.doi: 10.1183/16000617.0030-2019
+4.Braley TJ, Dunietz GL, Chervin RD, et al: Recognition and diagnosis of obstructive sleep apnea in older Americans.J Am Geriatr Soc66(7):1296-1302, 2018.doi:10.1111/jgs.15372
+4.Braley TJ, Dunietz GL, Chervin RD, et al: Recognition and diagnosis of obstructive sleep apnea in older Americans.J Am Geriatr Soc66(7):1296-1302, 2018.doi:10.1111/jgs.15372
+5.Jordan AS, McSharry DG, Malhotra A: Adult obstructive sleep apnoea.Lancet383(9918):736–747, 2014.doi:10.1016/S0140-6736(13)60734-5
+5.Jordan AS, McSharry DG, Malhotra A: Adult obstructive sleep apnoea.Lancet383(9918):736–747, 2014.doi:10.1016/S0140-6736(13)60734-5
+
+【阻塞性睡眠呼吸暂停 (OSA) 的病理生理学】
+阻塞性睡眠呼吸暂停是由于睡眠时上呼吸道反复塌陷造成的。睡眠使上气道开放不稳定，引起鼻咽和（或）口咽部分或完全阻塞。气道通畅性往往会振荡，导致反复出现呼吸暂停和恢复期。动态因素，包括夜间患者卧位时颈部水肿重新分布，可能导致上呼吸道解剖结构变窄（1）。其他被认为重要的因素包括上呼吸道肌肉反应性、睡眠稳定性和通气控制（2）。
+阻塞会导致多次呼吸暂停或低通气，从而导致缺氧和高碳酸血症，所有这些都会扰乱正常睡眠，非快速眼动（NREM）和快速眼动（REM）睡眠会导致部分或完全觉醒。对闭合的上呼吸道进行吸气会导致胸内压力波动，从而影响心脏功能。发生内皮细胞和神经递质的功能紊乱。所有因素相互作用产生显着的发病率和死亡率。
+
+【相关疾病】
+不太严重的形式可能不会导致氧饱和度降低，但会中断睡眠。
+上气道阻力综合征是由鼻息和呼吸努力相关的觉醒（RERA）终止的渐强打鼾。呼吸减少不符合阻塞性呼吸暂停和低通气的严格标准。与OSA患者相比，上呼吸道阻力综合征患者通常更年轻，肥胖程度更低。患者多为女性，主诉疲劳并抱怨有失眠症。打鼾和上呼吸道气流阻力会导致吸气噪音，但不会引起持续>2秒的睡眠微觉醒。打鼾和上呼吸道阻力综合征的症状、诊断评估和治疗与OSA相似。
+肥胖-低通气综合征是肥胖症、通常严重的阻塞性睡眠呼吸暂停 (OSA) 和无任何其他原因的低通气患者中的一种相关疾病。采用气道正压通气 (PAP) 疗法治疗 OHS 中的 OSA 可以改善通气不足 (3）。
+阻塞性睡眠呼吸暂停会对神经认知、心血管和代谢造成严重影响。
+阻塞性睡眠呼吸暂停是导致白天过度嗜睡的主要医学原因。一个更正确的术语是起床时间过度嗜睡，因为在夜间工作的人可能在夜间过度嗜睡。过度嗜睡会增加车祸、工作困难和性功能障碍的风险。通常会有一定程度的认知障碍，受伤风险也会增加（例如，当操作重型机械或从事其他活动时，无意中的睡眠会很危险）。
+与床伴、室友和/或同屋人的关系也可能受到不利影响，因为这些人可能会因为患者嘈杂、不安的睡眠而难以入睡。
+高血压与 OSA 密切相关（4)。未经治疗且血压正常的 OSA 患者在确诊后 5 年内更有可能患上高血压。反复的夜间缺氧和睡眠中断会增加罹患疾病的风险，包括心脏衰竭，冠状动脉疾病，心房颤动（包括导管消融后复发）和其他心律失常，代谢功能障碍相关脂肪肝病 (MASLD)， 和中风（5）。即使控制了其他风险因素（例如，高血压、糖尿病），中风和全因死亡的风险仍然会增加（6,7）。然而，OSA 对这些常见疾病的贡献往往被低估（8）。
+未被识别的 OSA 可能导致围手术期并发症，因为中度或全身麻醉存在导致气道阻塞的风险。确诊为 OSA 的患者应在接受任何手术前告知麻醉师该诊断，并在接受术前用药及恢复期间使用持续气道正压通气（CPAP）。
+
+【病理生理学参考文献】
+1.White LH, Bradley TD: Role of nocturnal rostral fluid shift in the pathogenesis of obstructive and central sleep apnoea.J Physiol591(5):1179–1193, 2013.doi:10.1113/jphysiol.2012.245159
+1.White LH, Bradley TD: Role of nocturnal rostral fluid shift in the pathogenesis of obstructive and central sleep apnoea.J Physiol591(5):1179–1193, 2013.doi:10.1113/jphysiol.2012.245159
+2.Edwards BA, Redline S, Sands SA, Owens RL: More Than the Sum of the Respiratory Events: Personalized Medicine Approaches for Obstructive Sleep Apnea.Am J Respir Crit Care Med200(6):691–703, 2019.doi:10.1164/rccm.201901-0014TR
+2.Edwards BA, Redline S, Sands SA, Owens RL: More Than the Sum of the Respiratory Events: Personalized Medicine Approaches for Obstructive Sleep Apnea.Am J Respir Crit Care Med200(6):691–703, 2019.doi:10.1164/rccm.201901-0014TR
+3.Masa JF, Pépin JL, Borel JC, Mokhlesi B, Murphy PB, Sánchez-Quiroga MÁ: Obesity hypoventilation syndrome.Eur Respir Rev28(151):180097, 2019.doi:10.1183/16000617.0097-2018
+3.Masa JF, Pépin JL, Borel JC, Mokhlesi B, Murphy PB, Sánchez-Quiroga MÁ: Obesity hypoventilation syndrome.Eur Respir Rev28(151):180097, 2019.doi:10.1183/16000617.0097-2018
+4.Van Ryswyk E, Mukherjee S, Chai-Coetzer CL, et al: Sleep disorders, including sleep apnea and hypertension.Am J Hypertens31(8):857-864, 2018.doi: 10.1093/ajh/hpy082
+4.Van Ryswyk E, Mukherjee S, Chai-Coetzer CL, et al: Sleep disorders, including sleep apnea and hypertension.Am J Hypertens31(8):857-864, 2018.doi: 10.1093/ajh/hpy082
+5.Zinchuk AV, Jeon S, Koo BB, et al: Polysomnographic phenotypes and their cardiovascular implications in obstructive sleep apnoea.Thorax73(5):472–480, 2018.doi: 10.1136/thoraxjnl-2017-210431
+5.Zinchuk AV, Jeon S, Koo BB, et al: Polysomnographic phenotypes and their cardiovascular implications in obstructive sleep apnoea.Thorax73(5):472–480, 2018.doi: 10.1136/thoraxjnl-2017-210431
+6.Punjabi NM, Caffo BS, Goodwin JL, et al: Sleep-disordered breathing and mortality: a prospective cohort study.PLoS Med6(8):e1000132, 2009.doi:10.1371/journal.pmed.1000132
+6.Punjabi NM, Caffo BS, Goodwin JL, et al: Sleep-disordered breathing and mortality: a prospective cohort study.PLoS Med6(8):e1000132, 2009.doi:10.1371/journal.pmed.1000132
+7.Yaggi HK, Concato J, Kernan WN, et al: Obstructive sleep apnea as a risk factor for stroke and death.N Engl J Med353(19):2034-2041, 2005.doi:10.1056/NEJMoa043104
+7.Yaggi HK, Concato J, Kernan WN, et al: Obstructive sleep apnea as a risk factor for stroke and death.N Engl J Med353(19):2034-2041, 2005.doi:10.1056/NEJMoa043104
+8.Borsoi L, Armeni P, Donin G, et al: The invisible costs of obstructive sleep apnea (OSA): Systematic review and cost-of-illness analysis.PLoS One17(5):e0268677, 2022.doi: 10.1371/journal.pone.0268677
+8.Borsoi L, Armeni P, Donin G, et al: The invisible costs of obstructive sleep apnea (OSA): Systematic review and cost-of-illness analysis.PLoS One17(5):e0268677, 2022.doi: 10.1371/journal.pone.0268677
+
+【阻塞性睡眠呼吸暂停的病因】
+阻塞性睡眠呼吸暂停的解剖风险因素包括
+短下颌或下颌后缩引起口咽“拥堵”
+短下颌或下颌后缩引起口咽“拥堵”
+突出的舌根或扁桃体
+突出的舌根或扁桃体
+圆头形和短颈
+圆头形和短颈
+男性颈围>43 厘米（> 17 英寸），女性颈围 > 41 厘米（> 16 英寸）
+男性颈围>43 厘米（> 17 英寸），女性颈围 > 41 厘米（> 16 英寸）
+厚的咽侧壁和咽旁脂肪垫
+厚的咽侧壁和咽旁脂肪垫
+这些风险因素可能无法预测严重程度。
+其他明确的危险因素包括绝经后状态、衰老、超重或肥胖以及酒精或镇静剂的使用（1)。可导致或促成 OSA 的内科疾病包括夜间胃食管反流、肢端肥大症、甲状腺功能减退症以及既往的脑卒中。OSA 和肥胖-低通气综合征经常并存。
+25%至40%的成人病例有OSA家族史，这反映了影响通气驱动或解剖结构的多基因风险；遗传风险可能因种族而异（2）。特定家庭成员患OSA的可能性与其他受影响家庭成员的数量成比例。
+
+【病因参考文献】
+1.Patel SR: Obstructive sleep apnea.Ann Intern Med171(11):ITC81-ITC96, 2019.doi: 10.7326/AITC201912030
+1.Patel SR: Obstructive sleep apnea.Ann Intern Med171(11):ITC81-ITC96, 2019.doi: 10.7326/AITC201912030
+2.Yi M, Tan Y, Pi Y, et al: Variants of candidate genes associated with the risk of obstructive sleep apnea.Eur J Clin Invest52(1):e13673, 2022.doi: 10.1111/eci.13673
+2.Yi M, Tan Y, Pi Y, et al: Variants of candidate genes associated with the risk of obstructive sleep apnea.Eur J Clin Invest52(1):e13673, 2022.doi: 10.1111/eci.13673
+
+【阻塞性睡眠呼吸暂停的症状和体征】
+尽管85%的阻塞性睡眠呼吸暂停患者报告有响亮、扰人的打鼾，但大多数打鼾者并没有OSA。阻塞性睡眠呼吸暂停的其他症状可能包括 (1,2,3)
+睡眠时窒息、喘气或打鼾
+睡眠时窒息、喘气或打鼾
+睡眠不能恢复体力
+睡眠不能恢复体力
+难以保持睡眠
+难以保持睡眠
+有些患者在同床者、室友或家人告知之前，可能并未意识到自己的夜间症状。了解床伴的病史可能对评估有帮助。早上，一些患者会出现喉咙痛、口干或头痛。
+在日常活动中，患者可能会出现难以抗拒的困倦、疲劳和注意力不集中。 关于睡眠的抱怨频率和日间嗜睡的程度与睡眠事件或夜间觉醒的次数并没有很好的相关性。然而，那些嗜睡的人发生心血管并发症的风险更大。并非所有患者都困倦。
+体格检查可显示鼻腔阻塞的迹象、扁桃体肥大和咽部结构异常的体征。应注意 OSA 的解剖风险因素，通常使用改良 Mallampati 评分进行评估（4）（另见图改良 Mallampati 评分）。
+
+【症状和体征参考】
+1.Epstein LJ, Kristo D, Strollo PJ Jr, et al: Clinical guideline for the evaluation, management and long-term care of obstructive sleep apnea in adults.J Clin Sleep Med5(3):263–276, 2009.
+1.Epstein LJ, Kristo D, Strollo PJ Jr, et al: Clinical guideline for the evaluation, management and long-term care of obstructive sleep apnea in adults.J Clin Sleep Med5(3):263–276, 2009.
+2.Lee JJ, Sundar KM: Evaluation and management of adults with obstructive sleep apnea syndrome.Lung199(2):87-101, 2021.doi: 10.1007/s00408-021-00426-w
+2.Lee JJ, Sundar KM: Evaluation and management of adults with obstructive sleep apnea syndrome.Lung199(2):87-101, 2021.doi: 10.1007/s00408-021-00426-w
+3.Strohl KP, Redline S: Recognition of obstructive sleep apnea.Am J Respir Crit Care Med154(2 Pt 1):279–289, 1996.doi: 10.1164/ajrccm.154.2.8756795.PMID: 8756795.
+3.Strohl KP, Redline S: Recognition of obstructive sleep apnea.Am J Respir Crit Care Med154(2 Pt 1):279–289, 1996.doi: 10.1164/ajrccm.154.2.8756795.PMID: 8756795.
+4.Friedman M, Tanyeri H, La Rosa M, et al: Clinical predictors of obstructive sleep apnea.Laryngoscope109(12):1901–1907, 1999.doi:10.1097/00005537-199912000-00002
+4.Friedman M, Tanyeri H, La Rosa M, et al: Clinical predictors of obstructive sleep apnea.Laryngoscope109(12):1901–1907, 1999.doi:10.1097/00005537-199912000-00002
+
+【阻塞性睡眠呼吸暂停的诊断】
+根据病史和体格检查怀疑
+根据病史和体格检查怀疑
+睡眠研究证实
+睡眠研究证实
+有确定的危险因素和（或）症状者应疑诊阻塞性睡眠呼吸暂停。
+除了患者，床伙、室友和/或同屋者都是风险评估信息的来源。
+可能需要更详细评估的高危患者包括
+年龄约65岁或以上
+年龄约65岁或以上
+报告有日间疲劳、嗜睡或难以保持睡眠
+报告有日间疲劳、嗜睡或难以保持睡眠
+超重或肥胖
+超重或肥胖
+高血压控制不佳（可由OSA [1]引起或加重）、心房纤颤或其他类型的心律失常、心力衰竭（可引起OSA或与OSA共存[2]）、中风或糖尿病
+高血压控制不佳（可由OSA [1]引起或加重）、心房纤颤或其他类型的心律失常、心力衰竭（可引起OSA或与OSA共存[2]）、中风或糖尿病
+问卷调查，例如 STOP-BANG（见表格阻塞性睡眠呼吸暂停的 STOP-BANG 风险评分）（3), 柏林问卷 (BQ) (4) 和 Epworth 嗜睡量表 (ESS) (5)，可供非专业人士使用来评估风险。然而，与更准确的睡眠研究结果相比，这些问卷的特异性较低，因此假阳性率较高 并且不应用于做出诊断或指导治疗。多模式的STOP-BANG问卷和柏林问卷(BQ)对于OSA风险的特异性高于ESS，并且具有良好的阴性预测价值（6）。
+症状、筛查问卷和/或风险因素提示 OSA 可能性较高的患者，通常应进行睡眠监测，以确定呼吸暂停低通气指数 (AHI) 或呼吸紊乱指数 (RDI) 等替代指标，这是确诊该综合征和评估其严重程度所必需的。仅报告有打鼾而无其他症状或心血管风险的患者，不需要对OSA进行深入评估。
+呼吸暂停-低通气指数(AHI) 表示睡眠期间发生的呼吸暂停和低通气发作的总次数除以睡眠时间的小时数；它表示为每小时发生的发作次数。发生的事件越多，OSA就越严重，不良反应的可能性就越大。可以针对不同的睡眠阶段和身体位置（侧卧或仰卧）计算AHI值。
+OSA的诊断标准包括白天症状、夜间症状和睡眠监测结果，显示有症状患者AHI ≥ 5/h，或无症状患者 AHI ≥ 15/h (7)。症状必须包括 ≥1项：
+不能恢复精神的睡眠
+不能恢复精神的睡眠
+白天嗜睡*、疲劳
+白天嗜睡*、疲劳
+非自主的睡眠发作
+非自主的睡眠发作
+难以保持睡眠
+难以保持睡眠
+因呼吸暂停、喘息或窒息而觉醒
+因呼吸暂停、喘息或窒息而觉醒
+床伴报告打鼾声大、呼吸中断或两者兼有
+床伴报告打鼾声大、呼吸中断或两者兼有
+*主动的嗜睡（即，干扰日常活动或导致事故或错误）尤其值得关注。
+鉴别诊断包括许多其他降低睡眠数量或质量或导致日间镇静或嗜睡的疾病和因素。包括
+其他睡眠障碍：睡眠卫生不佳、总睡眠时间不足、嗜睡症和其他嗜睡障碍、不安腿综合征、周期性肢体运动障碍
+其他睡眠障碍：睡眠卫生不佳、总睡眠时间不足、嗜睡症和其他嗜睡障碍、不安腿综合征、周期性肢体运动障碍
+药物和其他物质：酒精、镇静剂和其他药物（例如阿片类药物）
+药物和其他物质：酒精、镇静剂和其他药物（例如阿片类药物）
+内科疾病：心血管、呼吸和代谢紊乱（例如，甲减)
+内科疾病：心血管、呼吸和代谢紊乱（例如，甲减)
+情绪障碍，例如抑郁症（其常伴随睡眠障碍并导致睡眠障碍）
+情绪障碍，例如抑郁症（其常伴随睡眠障碍并导致睡眠障碍）
+病史和体格检查（包括睡眠史）应寻找这些情况的证据，包括识别甲状腺功能减退症和肢端肥大症的临床特征。
+对于临床上怀疑患有甲状腺功能减退症且嗜睡的患者，测量促甲状腺激素可能有帮助，但不应常规进行，因为它对诊断 OSA 没有帮助。
+没有其他辅助检查（例如，上气道成像、面部照片）具有足够的特异性以作为常规推荐。
+
+【睡眠监测】
+睡眠研究包括
+在睡眠实验室进行的传统多导睡眠监测
+在睡眠实验室进行的传统多导睡眠监测
+便携式诊断工具，患者可以在家里自己的床上使用
+便携式诊断工具，患者可以在家里自己的床上使用
+多导睡眠监测记录并有助于对睡眠分期以及呼吸暂停和低通气事件的发生与持续时间进行分类。它是确认OSA诊断和量化OSA严重程度的理想选择 (8)。然而，这需要在睡眠实验室过夜，因此既复杂又昂贵。多导睡眠图通常包括
+通过脑电图（EEG）连续测量睡眠结构
+通过脑电图（EEG）连续测量睡眠结构
+颏肌电图用于检测肌张力减低
+颏肌电图用于检测肌张力减低
+眼电图用于评估快速眼球运动的发生情况。
+眼电图用于评估快速眼球运动的发生情况。
+鼻子和嘴巴处的气流传感器，用于检测呼吸暂停和低通气
+鼻子和嘴巴处的气流传感器，用于检测呼吸暂停和低通气
+胸部和/或腹部传感器，用于检测呼吸力
+胸部和/或腹部传感器，用于检测呼吸力
+脉搏血氧饱和度测定法
+脉搏血氧饱和度测定法
+心电图监测以检测与呼吸暂停发作相关的心律失常
+心电图监测以检测与呼吸暂停发作相关的心律失常
+还通过视频对病人进行观察。
+评估的其他变量包括肢体肌肉活动（以评估睡眠觉醒的非呼吸性原因，例如不宁腿综合征和周期性肢体运动障碍）以及体位，因为呼吸暂停可能主要发生在仰卧位。
+或者，患者可以接受“分夜”睡眠研究，在该研究中，在使用多导睡眠图诊断 OSA 后，然后施用 CPAP 并滴定压力水平以达到效果，从而允许在同一夜间监测期间确定适当的治疗方法。如果需要，还可以进行整夜 CPAP 滴定，以评估诊断后的 CPAP 治疗的有效性。
+使用便携式诊断工具的家庭睡眠测试使用有限的多导睡眠测量子集，通常只有心率、脉搏血氧仪、呼吸努力、位置和鼻腔气流来检测呼吸暂停和估计其严重程度。家庭睡眠测试的作用正在扩大（9），因为它方便、成本较低，并且能够对睡眠期间的呼吸障碍提供相当准确的评估。
+然而，便携式工具有一些局限性。他们实际上并没有检测到睡眠的存在，而是依靠患者自我报告睡眠，这可能是不准确的；如果患者在部分研究期间没有睡觉，并且他们没有报告这一情况，那么睡眠呼吸紊乱将被低估。因此，对于有症状的患者，如果家庭睡眠测试结果为阴性，则应进行多导睡眠图检查。此外，并存的睡眠障碍（例如，不宁腿综合征、癫痫发作、快速眼动睡眠行为障碍、意识模糊性觉醒）也无法被检测到。可能仍需要随访多导睡眠图来描述疾病，并准确提供不同睡眠阶段和体位变化时的AHI和RDI值，尤其是在考虑手术或非气道正压治疗时。
+便携式工具通常与调查问卷结合使用（如STOP-BANG、Berlin调查问卷）。如果问卷调查结果表明测试前患病概率较高，便携式工具的敏感性和特异性也较高。
+
+【严重程度分级】
+呼吸暂停-低通气指数（AHI）是睡眠期间发生的呼吸暂停和低通气的总次数除以睡眠时间的小时数。这是一种常见的睡眠呼吸紊乱指标，用于对OSA的严重程度进行分类。OSA 分级为：
+轻度：AHI ≥ 5 且 < 15 次/小时
+轻度：AHI ≥ 5 且 < 15 次/小时
+中度：AHI ≥ 15 且 ≤ 30 次/小时
+中度：AHI ≥ 15 且 ≤ 30 次/小时
+重度：AHI > 30 次/小时
+重度：AHI > 30 次/小时
+呼吸紊乱指数（RDI）是一种相关指标，包括与呼吸努力相关的觉醒次数（称为呼吸努力相关觉醒或RERA）加上每小时睡眠呼吸暂停和低通气发作次数。
+如果使用脑电图监测，可以计算觉醒指数，即每小时睡眠的唤醒次数。唤醒指数与呼吸暂停-低通气指数和呼吸障碍指数呈轻度相关；但大约20％的呼吸暂停和低氧饱和度发作不伴有觉醒，或存在其他原因的觉醒。
+然而，AHI、觉醒指数和 RDI 与患者的症状仅有中等程度的关联。一些AHI高或极高（如>60）的患者很少或没有症状。额外的指标和指标组合可能在诊断中有用（10）。它是临床和多导睡眠图数据（不仅仅是 AHI）的综合，与结果以及心血管风险和死亡率相关。例如，无论 AHI 如何，嗜睡都与过多的心血管疾病有关。
+
+【诊断参考】
+1.Walia HK, Li H, Rueschman M, et al: Association of severe obstructive sleep apnea and elevated blood pressure despite antihypertensive medication use.J Clin Sleep Med10(8):835–843, 2014.doi:10.5664/jcsm.39461.
+1.Walia HK, Li H, Rueschman M, et al: Association of severe obstructive sleep apnea and elevated blood pressure despite antihypertensive medication use.J Clin Sleep Med10(8):835–843, 2014.doi:10.5664/jcsm.39461.
+2.Gupta A, Quan SF, Oldenburg O, et al: Sleep-disordered breathing in hospitalized patients with congestive heart failure: a concise review and proposed algorithm.Heart Fail Rev23(5):701-709, 2018.doi:10.1007/s10741-018-9715-y
+2.Gupta A, Quan SF, Oldenburg O, et al: Sleep-disordered breathing in hospitalized patients with congestive heart failure: a concise review and proposed algorithm.Heart Fail Rev23(5):701-709, 2018.doi:10.1007/s10741-018-9715-y
+3.Chung F, Abdullah HR, Liao P: STOP-Bang Questionnaire: A Practical Approach to Screen for Obstructive Sleep Apnea.Chest149(3):631–638, 2016.doi:10.1378/chest.15-0903
+3.Chung F, Abdullah HR, Liao P: STOP-Bang Questionnaire: A Practical Approach to Screen for Obstructive Sleep Apnea.Chest149(3):631–638, 2016.doi:10.1378/chest.15-0903
+4.Netzer NC, Stoohs RA, Netzer CM, Clark K, Strohl KP: Using the Berlin Questionnaire to identify patients at risk for the sleep apnea syndrome.Ann Intern Med131(7):485–491, 1999.doi:10.7326/0003-4819-131-7-199910050-00002
+4.Netzer NC, Stoohs RA, Netzer CM, Clark K, Strohl KP: Using the Berlin Questionnaire to identify patients at risk for the sleep apnea syndrome.Ann Intern Med131(7):485–491, 1999.doi:10.7326/0003-4819-131-7-199910050-00002
+5.Johns MW.A new method for measuring daytime sleepiness: the Epworth sleepiness scale.Sleep14(6):540–545, 1991.doi:10.1093/sleep/14.6.540
+5.Johns MW.A new method for measuring daytime sleepiness: the Epworth sleepiness scale.Sleep14(6):540–545, 1991.doi:10.1093/sleep/14.6.540
+6.Gamaldo C, Buenaver L, Chernyshev O, et al: Evaluation of clinical tools to screen and assess for obstructive sleep apnea.J Clin Sleep Med14(7):1239-1244, 2018.doi:10.5664/jcsm.7232
+6.Gamaldo C, Buenaver L, Chernyshev O, et al: Evaluation of clinical tools to screen and assess for obstructive sleep apnea.J Clin Sleep Med14(7):1239-1244, 2018.doi:10.5664/jcsm.7232
+7.The American Association of Sleep Medicine: The AASM International Classification of Sleep Disorders – Third Edition, Text Revision (ICSD-3-TR).AASM Darien, IL.2023.
+7.The American Association of Sleep Medicine: The AASM International Classification of Sleep Disorders – Third Edition, Text Revision (ICSD-3-TR).AASM Darien, IL.2023.
+8.Kapur VK, Auckley DH, Chowdhuri S, et al: Clinical Practice Guideline for Diagnostic Testing for Adult Obstructive Sleep Apnea: An American Academy of Sleep Medicine Clinical Practice Guideline.J Clin Sleep Med13(3):479–504, 2017.doi:10.5664/jcsm.6506
+8.Kapur VK, Auckley DH, Chowdhuri S, et al: Clinical Practice Guideline for Diagnostic Testing for Adult Obstructive Sleep Apnea: An American Academy of Sleep Medicine Clinical Practice Guideline.J Clin Sleep Med13(3):479–504, 2017.doi:10.5664/jcsm.6506
+9.Malhotra A, Ayappa I, Ayas N, et al: Metrics of sleep apnea severity: beyond the apnea-hypopnea index.Sleep44(7):zsab030, 2021.doi: 10.1093/sleep/zsab030
+9.Malhotra A, Ayappa I, Ayas N, et al: Metrics of sleep apnea severity: beyond the apnea-hypopnea index.Sleep44(7):zsab030, 2021.doi: 10.1093/sleep/zsab030
+10.Collop NA, Anderson WM, Boehlecke B, et al: Clinical guidelines for the use of unattended portable monitors in the diagnosis of obstructive sleep apnea in adult patients.J Clin Sleep Med3(7):737-47, 2007.
+10.Collop NA, Anderson WM, Boehlecke B, et al: Clinical guidelines for the use of unattended portable monitors in the diagnosis of obstructive sleep apnea in adult patients.J Clin Sleep Med3(7):737-47, 2007.
+
+【阻塞性睡眠呼吸暂停的治疗】
+控制危险因素，如肥胖、饮酒和使用镇静剂
+控制危险因素，如肥胖、饮酒和使用镇静剂
+持续气道正压通气（CPAP） 或口腔器具
+持续气道正压通气（CPAP） 或口腔器具
+有时需要手术或神经刺激
+有时需要手术或神经刺激
+对于无症状且呼吸暂停低通气指数 (AHI)在每小时5至15次之间的患者，可能不需要特殊治疗。虽然每小时 AHI ≥ 5 次有助于确诊 OSA，但仅对有症状（疲劳嗜睡、非恢复性睡眠以及打鼾/喘气/窒息）的患者进行治疗。AHI值≥15表示至少中度睡眠呼吸暂停，并被认为是在没有症状的情况下进行治疗的阈值。主诉仅为打鼾而无其他症状或心血管风险的患者，可以通过增强体质、减轻体重、改善睡眠卫生和治疗鼻部过敏来应对。
+在治疗之前，应警告嗜睡的患者从事驾驶、操作重型机械或其他活动的风险，在这些活动中，无意识的睡眠将是危险的。
+治疗目的（1） 是为了
+减轻症状
+减轻症状
+减少缺氧和睡眠碎片化的发作
+减少缺氧和睡眠碎片化的发作
+恢复睡眠的连续性和结构
+恢复睡眠的连续性和结构
+避免发作性窒息
+避免发作性窒息
+有许多可用的治疗方法。患者和临床医生应共同决策，以匹配疾病、症状和其他相关合并症的严重程度，以及可行的干预措施和对患者最重要的结果。例如，AHI 较低、症状较少、合并症较少的患者可能选择不进行特殊治疗。患有同样低AHI但有症状的患者可以选择持续气道正压通气（CPAP）。
+治疗应针对危险因素和OSA本身两方面。一线直接治疗包括使用 CPAP 设备或口腔器具。对于有解剖部位病变或对这些装置没有反应的疾病，可以考虑手术或神经刺激。症状的缓解、AHI降低（通常＜10/h，理想情况下＜5/h）可定义为治疗有效。
+OSA 治疗可使血压轻微改善 2 至 3 毫米汞柱，但关于 OSA 治疗在预防原发性或继发性心血管事件、心房颤动 (2，3，4，5，6) 以及其他诸如改善血糖控制之类的硬性成果。AHA 指南建议对房颤患者进行 OSA 筛查，但承认有限的数据表明治疗睡眠呼吸暂停有助于维持窦性心律（7）。
+
+【危险因素的控制】
+初步治疗旨在控制肥胖、高血压、饮酒和镇静剂使用等危险因素。运动会降低AHI并提高警觉性，与对体重指数（BMI）的任何影响无关。
+白天嗜睡可以通过良好的睡眠卫生措施来减少，包括延长睡眠时间和停用镇静药物，尤其是抗组胺药或抗抑郁药。对于一些主要患有仰卧相关 OSA 的患者来说，避免仰卧睡眠是有用且可行的。
+适度的减肥(≥ 15%) 可导致有临床意义的改善 (8,9)，但不应将其视为 OSA 的治疗方法。然而，减肥对大多数人来说是极其困难的，尤其是那些疲倦或困倦的人。体重减轻的原因减肥手术无论如何实施，都可以降低 AHI 并减轻症状（10，11）。GLP-1 受体拮抗剂等药物越来越多地用于减肥，并降低了 OSA 的严重程度（12）。
+
+【持续气道正压通气】
+CPAP 是大多数 OSA 和日间嗜睡患者的治疗选择，包括那些导致认知障碍的患者（13,14)。持续气道正压通气 (CPAP) 治疗 OSA 已被证实可以减少嗜睡和打鼾，并改善同床伴侣的睡眠（15）。有报道称，在提供这种治疗方面存在种族和社会经济偏见 (16)。
+有许多不同的 CPAP 接口（面罩）可供选择，包括插入鼻腔的接口（鼻枕）和覆盖鼻子的接口（鼻罩）、覆盖鼻子和嘴巴的接口（全面罩）或整个面部的接口。所有这些都有衬垫以提供空气密封，这对于保持压力梯度至关重要。垫子可以是充气的，也可以由硅胶、泡沫或凝胶制成。适当的贴合度和舒适度在患者中差异很大，但必须针对疗效和依从性进行优化。
+CPAP对塌陷的上气道施加正压而保持上气道开放。有效压力通常在 3 到 15 cm H2O 之间。压力要求与疾病严重程度无关。许多 CPAP 设备根据内部算法监测 CPAP 功效并自动滴定压力（称为可调或自动气道正压 [APAP]）。如有必要，可使用多导睡眠图监测来指导人工压力滴定。
+气道通畅所需的 CPAP 水平是通过睡眠实验室中的 CPAP 滴定或越来越多地通过使用自动气道正压通气 (APAP) 来确定的。使用 APAP 时，会规定一系列压力（例如 5 至 15 cm H2O），并且该设备会使用内部算法根据需要在整个晚上上下调节压力。CPAP对塌陷的上气道施加正压而保持上气道开放。压力要求与疾病严重程度无关。有效压力通常在 3 到 15 cm H2O 之间。如有必要，可使用多导睡眠图监测来指导人工压力滴定。
+尽管降低AHI是治疗目标之一，但无论AHI是否改善，CPAP都能减轻疲劳感并提高生活质量。CPAP 也可能降低血压，尽管其影响通常不大。虽然因急性病症短期暂停CPAP通常耐受良好，但如果撤掉CPAP，症状会在几天后复发。治疗的持续时间尚未确定。
+如果临床改善不明显，应检查 CPAP 依从性，并重新评估患者是否有合并症。如果患者有鼻中隔偏曲或鼻息肉，鼻部手术可能会使CPAP治疗更成功，但手术本身很少能治愈OSA。
+鼻腔 CPAP 的副作用包括因面罩不合适而引起的不适，以及干燥和鼻腔刺激，在某些情况下使用温暖的加湿空气可以缓解这些不适。然而，较新的面罩设计提高了舒适度和易用性。
+对许多人来说，坚持治疗是困难的，而且在不感到困倦的患者中，坚持治疗的比例更低。总体而言，大约 50% 的患者会长期坚持使用 CPAP。通过努力培养对设备使用的积极态度，结合对任何问题的早期关注，特别是口罩佩戴，以及由忠诚的看护人密切跟踪，并由初级保健医生加强，可以提高依从性。还需要认识到并解决没有肥胖和呼吸觉醒阈值低（即容易醒来）的患者长期 CPAP 依从性下降的问题，这些问题会导致觉醒增加和呼吸不规则。对于许多机器来说，PAP 设备每天都会跟踪依从性、压力水平、泄漏和残留呼吸事件，并提供给患者和临床医生。
+即使在依从性足够的情况下，如果患者因素发生变化（如体重增加、出现鼻梗阻），结果也可能不令人满意。
+对于合并肥胖-低通气综合征的患者，有时为了舒适，可通过吸气辅助（双水平气道正压）来增加潮气量，以增强CPAP效果。
+
+【口腔矫治器】
+口腔矫治器的设计是为了推进下颌骨，或者至少是为了防止睡眠中的后退和舌头脱垂（17,18,19)。有些器具被设计成将舌头向前拉。这些器具现在被认为是打鼾和轻度至中度OSA的主流治疗方法。将口腔矫治器与CPAP进行比较显示，其在治疗轻度至中度OSA方面效果相当，但成本效益研究侧重于固定的制造初始成本，而非更换和随访成本。
+
+【手术治疗】
+应考虑采用外科手术来纠正导致上气道阻塞的解剖因素，例如扁桃体肥大和鼻息肉 (19,20)。如果发现特定的解剖侵犯，手术是一线治疗。然而，在没有侵占的情况下，缺乏支持手术作为第一线治疗的证据。手术治疗巨舌症或小颌症也是一种选择。
+腭咽成形术 (UPPP) 涉及咽部组织的切除。UPPP在很大程度上已被侵袭性较小的方法所取代，这些方法旨在稳定咽部的侧壁和/或扩大腭咽区域，且没有改变言语或吞咽功能的风险。在严格的研究中，CPAP 和 UPPP 尚未进行直接比较，但 UPPP 可能对精心挑选的个体有效。对于严重肥胖或气道解剖狭窄的患者，结果不太容易预测 (21)。该手术可能减轻恼人的打鼾，尽管呼吸暂停事件可能仍与手术干预前一样严重（尽管可能无声）。
+其他外科手术包括中线舌根切除术、舌骨前徙术和下颌骨上颌骨前徙术 (22)。如果软组织入路（手术）不能治愈，有时会将下颌骨上颌骨前徙术作为第二阶段手术。目前尚无最优的多级治疗方法。
+气管切开术是OSA最有效的治疗手段，但仅作为最后的选择。它绕过了梗阻部位，适用于受影响最严重（例如，患有肺心病)且不能耐受CPAP的患者。
+
+【上呼吸道刺激】
+上气道刺激疗法使用植入设备刺激舌下神经的一个分支（23,24)，可以激活使舌头前伸的肌肉以及其他有助于打开气道的肌肉。这种疗法在选定的中度至重度疾病患者中治疗成功。它主要用于那些无法耐受CPAP治疗以及口腔矫治器无效的患者。该疗法也可在那些考虑进行下颌骨上颌骨前徙术的患者中尝试。约 65% 的选定患者 AHI 改善至每小时 < 10 次（25）。
+
+【辅助治疗】
+有时会使用各种辅助治疗方法，但尚未证实对OSA有益处。
+补充氧气可以改善血氧饱和度，并可能降低对上气道手术没有反应的患者的AHI和唤醒指数（26)。然而，有益的临床效果主要发生在高环路增益（即在初始事件后有发生重复性呼吸暂停或低通气的倾向）的患者中，且效果难以预测。此外，氧气可能会引起呼吸性酸中毒和晨起头痛。由于这些原因，不建议使用补充氧气来治疗 OSA。
+警醒药物（例如莫达非尼、solriamfetol）可用于抵消 OSA 引起的过度嗜睡，或用于 20% 接受 CPAP 充分治疗后仍有残留嗜睡症状的患者（27，28，29，30）。
+已尝试诸多药物，包括三环类抗抑郁药、茶碱、屈大麻酚、联合托莫西汀加奥昔布宁（31)，但由于经验有限、治疗指数低、结果无法复制以及缺乏足够的试验等因素，不推荐使用。识别睡眠呼吸暂停亚型的更好方法可能有助于更好地选择适合药物治疗的患者。
+根据提高肌肉力量和张力可能有助于改善睡眠时气道通畅性的理论，提出了上呼吸道肌肉锻炼（肌功能疗法）（32)。有许多运动似乎可以减少AHI和症状，这使得这种方法很有趣，特别是因为它是非侵入性的，没有副作用。然而，由于提出的技术种类繁多、其作用机制和疗效的不确定性以及依从性的实际困难，这种方法不是主流推荐。目前至少有一种基于日间电刺激上呼吸道扩张肌的装置可用于治疗打鼾和轻度 OSA（33）。
+鼻扩张器和用于打鼾的非处方咽喉喷雾剂尚未得到足够的研究来证明其在OSA中的价值。
+激光辅助悬雍垂成形术、悬雍垂夹板和射频组织消融术已被用于治疗非 OSA 患者的打鼾。尽管它们可能会暂时降低打鼾的响度，但治疗OSA的疗效既不可预测，也不持久。
+
+【病人宣教和支持】
+告知病人和家属病情后能更好地配合OSA治疗策略，包括气管切开术。病人支持团队能提供有用信息，有效地支持及时治疗和随访。正在研究患者支持小组和管理数字支持工具的作用（34）。
+
+【治疗参考文献】
+1.Strohl KP, Cherniack NS, Gothe B: Physiologic basis of therapy for sleep apnea.Am Rev Respir Dis134(4):791-802, 1986.doi: 10.1164/arrd.1986.134.4.791
+1.Strohl KP, Cherniack NS, Gothe B: Physiologic basis of therapy for sleep apnea.Am Rev Respir Dis134(4):791-802, 1986.doi: 10.1164/arrd.1986.134.4.791
+2.Caples SM, Mansukhani MP, Friedman PA, Somers VK: The impact of continuous positive airway pressure treatment on the recurrence of atrial fibrillation post cardioversion: A randomized controlled trial.Int J Cardiol278:133–136, 2019.doi:10.1016/j.ijcard.2018.11.100
+2.Caples SM, Mansukhani MP, Friedman PA, Somers VK: The impact of continuous positive airway pressure treatment on the recurrence of atrial fibrillation post cardioversion: A randomized controlled trial.Int J Cardiol278:133–136, 2019.doi:10.1016/j.ijcard.2018.11.100
+3.Hunt TE, Traaen GM, Aakerøy L, et al: Effect of continuous positive airway pressure therapy on recurrence of atrial fibrillation after pulmonary vein isolation in patients with obstructive sleep apnea: A randomized controlled trial.Heart Rhythm19(9):1433–1441, 2022.doi:10.1016/j.hrthm.2022.06.016
+3.Hunt TE, Traaen GM, Aakerøy L, et al: Effect of continuous positive airway pressure therapy on recurrence of atrial fibrillation after pulmonary vein isolation in patients with obstructive sleep apnea: A randomized controlled trial.Heart Rhythm19(9):1433–1441, 2022.doi:10.1016/j.hrthm.2022.06.016
+4.Macedo TA, Giampá SQC, Furlan SF, et al: Effect of continuous positive airway pressure on atrial remodeling and diastolic dysfunction of patients with obstructive sleep apnea and metabolic syndrome: a randomized study.Obesity(Silver Spring).31(4):934–944, 2023.doi:10.1002/oby.23699
+4.Macedo TA, Giampá SQC, Furlan SF, et al: Effect of continuous positive airway pressure on atrial remodeling and diastolic dysfunction of patients with obstructive sleep apnea and metabolic syndrome: a randomized study.Obesity(Silver Spring).31(4):934–944, 2023.doi:10.1002/oby.23699
+5.McEvoy RD, Antic NA, Heeley E, et al.CPAP for Prevention of Cardiovascular Events in Obstructive Sleep Apnea. N Engl J Med.2016;375(10):919-931.doi:10.1056/NEJMoa1606599
+5.McEvoy RD, Antic NA, Heeley E, et al.CPAP for Prevention of Cardiovascular Events in Obstructive Sleep Apnea. N Engl J Med.2016;375(10):919-931.doi:10.1056/NEJMoa1606599
+6.Nalliah CJ, Wong GR, Lee G, et al: Impact of CPAP on the Atrial Fibrillation Substrate in Obstructive Sleep Apnea: The SLEEP-AF Study.JACC Clin Electrophysiol8(7):869–877, 2022.doi:10.1016/j.jacep.2022.04.015
+6.Nalliah CJ, Wong GR, Lee G, et al: Impact of CPAP on the Atrial Fibrillation Substrate in Obstructive Sleep Apnea: The SLEEP-AF Study.JACC Clin Electrophysiol8(7):869–877, 2022.doi:10.1016/j.jacep.2022.04.015
+7.Joglar JA, Chung MK, Armbruster AL, et al.2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears in Circulation. 2024 Jan 2;149(1):e167. doi: 10.1161/CIR.0000000000001207] [published correction appears in Circulation. 2024 Feb 27;149(9):e936. doi: 10.1161/CIR.0000000000001218] [published correction appears in Circulation. 2024 Jun 11;149(24):e1413. doi: 10.1161/CIR.0000000000001263]. Circulation.2024;149(1):e1-e156.doi:10.1161/CIR.0000000000001193
+7.Joglar JA, Chung MK, Armbruster AL, et al.2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears in Circulation. 2024 Jan 2;149(1):e167. doi: 10.1161/CIR.0000000000001207] [published correction appears in Circulation. 2024 Feb 27;149(9):e936. doi: 10.1161/CIR.0000000000001218] [published correction appears in Circulation. 2024 Jun 11;149(24):e1413. doi: 10.1161/CIR.0000000000001263]. Circulation.2024;149(1):e1-e156.doi:10.1161/CIR.0000000000001193
+8.Joosten SA, Hamilton GS, Naughton MT: Impact of weight loss management in OSA.Chest152(1):194-203, 2017.doi: 10.1016/j.chest.2017.01.027
+8.Joosten SA, Hamilton GS, Naughton MT: Impact of weight loss management in OSA.Chest152(1):194-203, 2017.doi: 10.1016/j.chest.2017.01.027
+9.Kuna ST, Reboussin DM, Strotmeyer ES, et al: Effects of weight loss on obstructive sleep apnea severity.Ten-year results of the Sleep AHEAD study.Am J Respir Crit Care Med203(2):221-229, 2021.doi: 10.1164/rccm.201912-2511OC
+9.Kuna ST, Reboussin DM, Strotmeyer ES, et al: Effects of weight loss on obstructive sleep apnea severity.Ten-year results of the Sleep AHEAD study.Am J Respir Crit Care Med203(2):221-229, 2021.doi: 10.1164/rccm.201912-2511OC
+10.Bakker JP, Tavakkoli A, Rueschman M, et al: Gastric Banding Surgery versus Continuous Positive Airway Pressure for Obstructive Sleep Apnea: A Randomized Controlled Trial.Am J Respir Crit Care Med197(8):1080–1083, 2018.doi:10.1164/rccm.201708-1637LE
+10.Bakker JP, Tavakkoli A, Rueschman M, et al: Gastric Banding Surgery versus Continuous Positive Airway Pressure for Obstructive Sleep Apnea: A Randomized Controlled Trial.Am J Respir Crit Care Med197(8):1080–1083, 2018.doi:10.1164/rccm.201708-1637LE
+11.Nastałek P, Polok K, Celejewska-Wójcik N, et al: Impact of bariatric surgery on obstructive sleep apnea severity and continuous positive airway pressure therapy compliance-prospective observational study.Sci Rep11(1):5003, 2021.doi:10.1038/s41598-021-84570-6
+11.Nastałek P, Polok K, Celejewska-Wójcik N, et al: Impact of bariatric surgery on obstructive sleep apnea severity and continuous positive airway pressure therapy compliance-prospective observational study.Sci Rep11(1):5003, 2021.doi:10.1038/s41598-021-84570-6
+12.Malhotra A, Grunstein RR, Fietze I, et al: Tirzepatide for the Treatment of Obstructive Sleep Apnea and Obesity.N Engl J MedPublished online June 21, 2024.doi:10.1056/NEJMoa2404881
+12.Malhotra A, Grunstein RR, Fietze I, et al: Tirzepatide for the Treatment of Obstructive Sleep Apnea and Obesity.N Engl J MedPublished online June 21, 2024.doi:10.1056/NEJMoa2404881
+13.Labarca G, Saavedra D, Dreyse J, et al: Efficacy of CPAP for improvements in sleepiness, cognition, mood, and quality of life in elderly patients with OSA: systematic review and meta-analysis of randomized controlled trials.Chest158(2):751-764, 2020.doi: 10.1016/j.chest.2020.03.049
+13.Labarca G, Saavedra D, Dreyse J, et al: Efficacy of CPAP for improvements in sleepiness, cognition, mood, and quality of life in elderly patients with OSA: systematic review and meta-analysis of randomized controlled trials.Chest158(2):751-764, 2020.doi: 10.1016/j.chest.2020.03.049
+14.Wang G, Goebel JR, Li C, et al: Therapeutic effects of CPAP on cognitive impairments associated with OSA.J Neurol267(10):2823-2828, 2020.doi: 10.1007/s00415-019-09381-2
+14.Wang G, Goebel JR, Li C, et al: Therapeutic effects of CPAP on cognitive impairments associated with OSA.J Neurol267(10):2823-2828, 2020.doi: 10.1007/s00415-019-09381-2
+15.Jordan AS, McSharry DG, Malhotra A: Adult obstructive sleep apnoea.Lancet383(9918):736–747, 2014.doi:10.1016/S0140-6736(13)60734-5
+15.Jordan AS, McSharry DG, Malhotra A: Adult obstructive sleep apnoea.Lancet383(9918):736–747, 2014.doi:10.1016/S0140-6736(13)60734-5
+16.Wallace DM, Grant AB, Belisova-Gyure Z, et al: Discrimination Predicts Suboptimal Adherence to CPAP Treatment and Mediates Black-White Differences in Use.Chest165(2):437–445, 2024.doi:10.1016/j.chest.2023.09.016
+16.Wallace DM, Grant AB, Belisova-Gyure Z, et al: Discrimination Predicts Suboptimal Adherence to CPAP Treatment and Mediates Black-White Differences in Use.Chest165(2):437–445, 2024.doi:10.1016/j.chest.2023.09.016
+17.Ng JH, Yow M: Oral appliances in the management of obstructive sleep apnea.Sleep Med Clin14(1):109-118, 2019.doi: 10.1016/j.jsmc.2018.10.012
+17.Ng JH, Yow M: Oral appliances in the management of obstructive sleep apnea.Sleep Med Clin14(1):109-118, 2019.doi: 10.1016/j.jsmc.2018.10.012
+18.Ramar K, Dort LC, Katz SG, et al: Clinical practice guideline for the treatment of obstructive sleep apnea and snoring with oral appliance therapy: an update for 2015.J Clin Sleep Med11(7):773-827, 2015.doi: 10.5664/jcsm.4858
+18.Ramar K, Dort LC, Katz SG, et al: Clinical practice guideline for the treatment of obstructive sleep apnea and snoring with oral appliance therapy: an update for 2015.J Clin Sleep Med11(7):773-827, 2015.doi: 10.5664/jcsm.4858
+19.Randerath W, Verbraecken J, de Raaff CAL, et al: European Respiratory Society guideline on non-CPAP therapies for obstructive sleep apnoea.Eur Respir Rev30(162):210200, 2021.doi: 10.1183/16000617.0200-2021
+19.Randerath W, Verbraecken J, de Raaff CAL, et al: European Respiratory Society guideline on non-CPAP therapies for obstructive sleep apnoea.Eur Respir Rev30(162):210200, 2021.doi: 10.1183/16000617.0200-2021
+20.Halle TR, Oh MS, Collop NA, et al: Surgical treatment of OSA on cardiovascular outcomes: a systematic review.Chest152(6):1214-1229, 2017.doi: 10.1016/j.chest.2017.09.004
+20.Halle TR, Oh MS, Collop NA, et al: Surgical treatment of OSA on cardiovascular outcomes: a systematic review.Chest152(6):1214-1229, 2017.doi: 10.1016/j.chest.2017.09.004
+21.Sundman J, Browaldh N, Fehrm J, Friberg D: Eight-Year Follow-up of Modified Uvulopalatopharyngoplasty in Patients With Obstructive Sleep Apnea.Laryngoscope131(1):E307–E313, 2021.doi:10.1002/lary.28960
+21.Sundman J, Browaldh N, Fehrm J, Friberg D: Eight-Year Follow-up of Modified Uvulopalatopharyngoplasty in Patients With Obstructive Sleep Apnea.Laryngoscope131(1):E307–E313, 2021.doi:10.1002/lary.28960
+22.Bratton DJ, Gaisl T, Wons AM, et al: CPAP vs mandibular advancement devices and blood pressure in patients with obstructive sleep apnea: a systematic review and meta-analysis.JAMA314(21):2280-2293, 2015.doi:10.1001/jama.2015.16303
+22.Bratton DJ, Gaisl T, Wons AM, et al: CPAP vs mandibular advancement devices and blood pressure in patients with obstructive sleep apnea: a systematic review and meta-analysis.JAMA314(21):2280-2293, 2015.doi:10.1001/jama.2015.16303
+23.Woodson BT, Strohl KP, Soose RJ, et al: Upper airway stimulation for obstructive sleep apnea: 5-year outcomes.Otolaryngol Head Neck Surg159(1):194-202, 2018.doi:10.1177/0194599818762383
+23.Woodson BT, Strohl KP, Soose RJ, et al: Upper airway stimulation for obstructive sleep apnea: 5-year outcomes.Otolaryngol Head Neck Surg159(1):194-202, 2018.doi:10.1177/0194599818762383
+24.Baptista PM, Costantino A, Moffa A, et al: Hypoglossal nerve stimulation in the treatment of obstructive sleep apnea: Patient selection and new perspectives.Nat Sci Sleep12:151–159, 2020.doi: 10.2147/NSS.S221542
+24.Baptista PM, Costantino A, Moffa A, et al: Hypoglossal nerve stimulation in the treatment of obstructive sleep apnea: Patient selection and new perspectives.Nat Sci Sleep12:151–159, 2020.doi: 10.2147/NSS.S221542
+25.Strollo PJ Jr, Soose RJ, Maurer JT, et al: Upper-airway stimulation for obstructive sleep apnea.N Engl J Med370(2):139–149, 2014.doi:10.1056/NEJMoa1308659
+25.Strollo PJ Jr, Soose RJ, Maurer JT, et al: Upper-airway stimulation for obstructive sleep apnea.N Engl J Med370(2):139–149, 2014.doi:10.1056/NEJMoa1308659
+26.Joosten SA, Tan M, Wong AM, et al: A randomized controlled trial of oxygen therapy for patients who do not respond to upper airway surgery for obstructive sleep apnea.J Clin Sleep Med17(3):445-452, 2021.doi: 10.5664/jcsm.8920
+26.Joosten SA, Tan M, Wong AM, et al: A randomized controlled trial of oxygen therapy for patients who do not respond to upper airway surgery for obstructive sleep apnea.J Clin Sleep Med17(3):445-452, 2021.doi: 10.5664/jcsm.8920
+27.Weaver TE, Maislin G, Dinges DF, et al: Relationship between hours of CPAP use and achieving normal levels of sleepiness and daily functioning.Sleep30(6):711–719, 2007.doi:10.1093/sleep/30.6.711
+27.Weaver TE, Maislin G, Dinges DF, et al: Relationship between hours of CPAP use and achieving normal levels of sleepiness and daily functioning.Sleep30(6):711–719, 2007.doi:10.1093/sleep/30.6.711
+28.Lal C, Weaver TE, Bae CJ, et al: Excessive daytime sleepiness in obstructive sleep apnea.Mechanisms and clinical management.Ann Am Thorac Soc18(5):757-768, 2021.doi: 10.1513/AnnalsATS.202006-696FR
+28.Lal C, Weaver TE, Bae CJ, et al: Excessive daytime sleepiness in obstructive sleep apnea.Mechanisms and clinical management.Ann Am Thorac Soc18(5):757-768, 2021.doi: 10.1513/AnnalsATS.202006-696FR
+29.Black JE, Hirshkowitz M:Modafinilfor treatment of residual excessive sleepiness in nasal continuous positive airway pressure-treated obstructive sleep apnea/hypopnea syndrome.Sleep28(4):464-471, 2005.doi:10.1093/sleep/28.4.464
+29.Black JE, Hirshkowitz M:Modafinilfor treatment of residual excessive sleepiness in nasal continuous positive airway pressure-treated obstructive sleep apnea/hypopnea syndrome.Sleep28(4):464-471, 2005.doi:10.1093/sleep/28.4.464
+30.Hirshkowitz M, Black JE, Wesnes K, et al: Adjunctarmodafinilimproves wakefulness and memory in obstructive sleep apnea/hypopnea syndrome.Respir Med101(3):616-627, 2007.doi:10.1016/j.rmed.2006.06.007
+30.Hirshkowitz M, Black JE, Wesnes K, et al: Adjunctarmodafinilimproves wakefulness and memory in obstructive sleep apnea/hypopnea syndrome.Respir Med101(3):616-627, 2007.doi:10.1016/j.rmed.2006.06.007
+31.Taranto-Montemurro L, Messineo L, Wellman A: Targeting endotypic traits with medications for the pharmacological treatment of obstructive sleep apnea.A review of the current literature.J Clin Med8(11):1846, 2019.doi: 10.3390/jcm8111846
+31.Taranto-Montemurro L, Messineo L, Wellman A: Targeting endotypic traits with medications for the pharmacological treatment of obstructive sleep apnea.A review of the current literature.J Clin Med8(11):1846, 2019.doi: 10.3390/jcm8111846
+32.Camacho M, Certal V, Abdullatif J, et al: Myofunctional therapy to treat obstructive sleep apnea: a systematic review and meta-analysis.Sleep38(5):669-75, 2015.doi: 10.5665/sleep.4652
+32.Camacho M, Certal V, Abdullatif J, et al: Myofunctional therapy to treat obstructive sleep apnea: a systematic review and meta-analysis.Sleep38(5):669-75, 2015.doi: 10.5665/sleep.4652
+33.Nokes B, Baptista PM, de Apodaca PMR, et al: Transoral awake state neuromuscular electrical stimulation therapy for mild obstructive sleep apnea.Sleep Breath27(2):527–534, 2023.doi:10.1007/s11325-022-02644-9
+33.Nokes B, Baptista PM, de Apodaca PMR, et al: Transoral awake state neuromuscular electrical stimulation therapy for mild obstructive sleep apnea.Sleep Breath27(2):527–534, 2023.doi:10.1007/s11325-022-02644-9
+34.Aardoom JJ, Loheide-Niesmann L, Ossebaard HC, et al: Effectiveness of eHealth interventions in improving treatment adherence for adults with obstructive sleep apnea: meta-analytic review.J Med Internet Res22(2):e16972, 2020.doi: 10.2196/16972
+34.Aardoom JJ, Loheide-Niesmann L, Ossebaard HC, et al: Effectiveness of eHealth interventions in improving treatment adherence for adults with obstructive sleep apnea: meta-analytic review.J Med Internet Res22(2):e16972, 2020.doi: 10.2196/16972
+
+【阻塞性睡眠呼吸暂停的预后】
+阻塞性睡眠呼吸暂停的预后非常好，前提是治疗已开始、可接受和有效的。未经治疗或未被识别的OSA伴随着较低的生活质量，以及在从事潜在危险活动时因入睡而导致高血压和受伤的风险增加。
+肥胖、上呼吸道解剖结构异常、家族史、某些疾病（如甲状腺功能减退、中风），以及饮酒或服用镇静剂均可增加阻塞性睡眠呼吸暂停（OSA）的风险。
+肥胖、上呼吸道解剖结构异常、家族史、某些疾病（如甲状腺功能减退、中风），以及饮酒或服用镇静剂均可增加阻塞性睡眠呼吸暂停（OSA）的风险。
+患者通常打鼾，睡眠不安且无法恢复精神，并且经常感到白天嗜睡和疲劳；然而，有些患者症状很少或没有症状。
+患者通常打鼾，睡眠不安且无法恢复精神，并且经常感到白天嗜睡和疲劳；然而，有些患者症状很少或没有症状。
+打鼾者大多数人没有OSA。
+打鼾者大多数人没有OSA。
+在OSA患者中更常见的疾病包括高血压、中风、糖尿病、胃食管反流病、代谢功能障碍相关的脂肪变性肝病（MASLD）、夜间心绞痛、心力衰竭、心房颤动或其他心律失常。
+在OSA患者中更常见的疾病包括高血压、中风、糖尿病、胃食管反流病、代谢功能障碍相关的脂肪变性肝病（MASLD）、夜间心绞痛、心力衰竭、心房颤动或其他心律失常。
+通过睡眠测试确认诊断。
+通过睡眠测试确认诊断。
+控制可改变的危险因素和使用持续气道正压和/或口腔矫治器开放气道治疗大多数患者。
+控制可改变的危险因素和使用持续气道正压和/或口腔矫治器开放气道治疗大多数患者。
+对于气道侵占所致或者治疗棘手者，考虑手术。
+对于气道侵占所致或者治疗棘手者，考虑手术。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+American Thoracic Society: What is Obstructive Sleep Apnea in Adults?: Brief OSA summary for patients that includes action steps
+American Thoracic Society: What is Obstructive Sleep Apnea in Adults?: Brief OSA summary for patients that includes action steps
+American Academy of Sleep Medicine: Detailed patient information explaining the importance of healthy sleep and treatment options for sleep disorders
+American Academy of Sleep Medicine: Detailed patient information explaining the importance of healthy sleep and treatment options for sleep disorders

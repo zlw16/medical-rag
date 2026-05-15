@@ -1,0 +1,87 @@
+标题：先天性矫正大动脉转位
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-cardiovascular-anomalies/congenitally-corrected-transposition-of-the-great-arteries
+============================================================
+
+(参见先天性心血管畸形概述。)
+先天性矫正大动脉转位(左心转位)相对罕见，仅占先天性心脏畸形的0.5%。大多数患者存在相关异常，包括室间隔缺损(VSD)、肺动脉狭窄、埃布斯坦异常或其他左侧三尖瓣发育不良、先天性房室传导阻滞、中位心或右位心，或异位综合症(1)。
+
+【参考文献】
+1.Wallis GA, Debich-Spicer D, Anderson RH: Congenitally corrected transposition.Orphanet J Rare Dis6:22, 2011.doi:10.1186/1750-1172-6-22
+1.Wallis GA, Debich-Spicer D, Anderson RH: Congenitally corrected transposition.Orphanet J Rare Dis6:22, 2011.doi:10.1186/1750-1172-6-22
+
+【CCTGA的病理生理学】
+在较常见的大动脉转位（右转位或 d-TGA）中，主动脉直接起源于右心室，肺动脉起源于左心室，导致独立、平行的肺循环和体循环；充氧血液不能到达身体，除非通过连接左右两侧的开口（如卵圆孔未闭、心房或室间隔缺损）。这种类型的转位会导致产后立即出现严重的发绀，需要在出生时立即进行干预，并在出生后第一周内进行手术矫正。
+
+【先天性大动脉矫正转位 (CCTGA)】
+先天性大动脉矫正转位 (CCTGA)
+AO=主动脉； LA = 左心房； LV = 左心室； PA = 肺动脉； RA = 右心房； RV = 右心室。
+在先天性矫正转位（左转位[l-TGA]CCTGA）中，右心房连接右侧形态学左心室（LV），左心房连接左侧形态学右心室（RV）。在几乎所有情况下，形态 LV 连接到肺动脉，形态 RV 连接到主动脉。因此，循环在生理上得到“纠正”，但几乎总是存在临床症状和不利的血液动力学后遗症。这些后遗症通常是由与 CCTGA 相关的异常引起的，或者是由右心室形态支持系统循环引起的。绝大多数 CCTGA 患者具有以下一种或多种相关缺陷（1, 2):
+室间隔缺损（>60%）
+室间隔缺损（>60%）
+肺动脉瓣狭窄 (40%)
+肺动脉瓣狭窄 (40%)
+左侧三尖瓣的Ebstein异常或其他发育不良（90%）
+左侧三尖瓣的Ebstein异常或其他发育不良（90%）
+先天性或获得性房室传导阻滞（每年进展 2%，青少年为 10% 至 15%，成人高达 30%）
+先天性或获得性房室传导阻滞（每年进展 2%，青少年为 10% 至 15%，成人高达 30%）
+伴有中位心或右位心的错位 (20%)
+伴有中位心或右位心的错位 (20%)
+系统性右心室进行性功能障碍（30岁时50%）
+系统性右心室进行性功能障碍（30岁时50%）
+
+【病理生理学参考文献】
+1.Cui H, Hage A, Piekarski BL, et al: Management of Congenitally Corrected Transposition of the Great Arteries With Intact Ventricular Septum: Anatomic Repair or Palliative Treatment?Circ Cardiovasc Interv14(7):e010154, 2021.doi:10.1161/CIRCINTERVENTIONS.120.010154
+1.Cui H, Hage A, Piekarski BL, et al: Management of Congenitally Corrected Transposition of the Great Arteries With Intact Ventricular Septum: Anatomic Repair or Palliative Treatment?Circ Cardiovasc Interv14(7):e010154, 2021.doi:10.1161/CIRCINTERVENTIONS.120.010154
+2.Wallis GA, Debich-Spicer D, Anderson RH: Congenitally corrected transposition.Orphanet J Rare Dis6:22, 2011.doi:10.1186/1750-1172-6-22
+2.Wallis GA, Debich-Spicer D, Anderson RH: Congenitally corrected transposition.Orphanet J Rare Dis6:22, 2011.doi:10.1186/1750-1172-6-22
+
+【CCTGA的症状和体征】
+由于多种相关异常，临床表现广泛。
+婴儿期，CCTGA可能表现为因肺动脉狭窄或室间隔缺损产生的杂音，因严重肺动脉狭窄和室间隔缺损导致的紫绀，因大型室间隔缺损引发的心力衰竭，或因先天性完全性房室传导阻滞引起的症状性心动过缓。根据相关病变的严重程度，这些症状可能会在儿童期和青春期逐渐出现。
+随着患者到达成年期，共同关注的是形态学RV的功能障碍的发展，其充当全身性心室。这种功能障碍可能是亚临床的或表现为严重的心肌病和心脏衰竭。由于左侧三尖瓣几乎普遍存在解剖异常，进行性三尖瓣反流很常见，并加剧了心力衰竭的趋势。
+
+【CCTGA的诊断】
+体格检查
+体格检查
+胸片和心电图
+胸片和心电图
+超声心动图
+超声心动图
+MRI和CT
+MRI和CT
+心导管检查
+心导管检查
+临床表现取决于相关的病变，但一个普遍的发现是，由于主动脉位置偏左和偏前，在心脏底部会听到响亮的单次第二心音（S2）。主动脉关闭声通常会在右上或左侧胸骨旁区域产生局部可触及的脉冲。
+心电图可能显示房室传导阻滞或右心前导联出现异常 Q 波（由于室间隔去极化逆转）。这种异常会增加沃尔夫-帕金森-怀特 (WPW) 综合征的发生率。
+胸部x光片通常显示心脏左上边界笔直（因为升主动脉的位置异常），此外还有心脏的中线或右侧位置。
+超声心动图上的诊断应该是显而易见的，它显示心室形态颠倒，右侧心室（形态学左心室）发出后方的肺动脉根，左侧心室（形态学右心室）发出前方和向左的主动脉根部。这种成像方式也很好地定义了相关缺陷。
+MRI和CT扫描通常用于提供额外的解剖细节，并提供对右心室和左心室功能的最可靠评估。
+有时需要心导管术来准确评估心内压，包括肺动脉压和阻力。
+
+【CCTGA的治疗】
+手术治疗
+手术治疗
+心律装置
+心律装置
+压力或容量超负荷或心功能不全导致充血性心力衰竭的患者可能需要药物治疗。
+通常需要手术治疗来修复相关缺陷，例如心室缺陷、肺流出道阻塞或三尖瓣反流。
+由于成年后不可避免地会发生进行性心功能障碍，许多临床医生将“双开关”视为儿童时期的手术选择。该手术包括将主动脉和肺动脉切换到形态上合适的心室，并用心房内挡板切换静脉回流，将腔静脉回流引向左侧 RV，将肺静脉回流引向右侧左心室。这种复杂的程序消除了CCTGA循环的固有缺点，即具有形态学RV来供应体循环。
+如果患者有房室传导阻滞，通常需要起搏器，而有中度至重度RV功能障碍和室性心律失常风险的成年人可以接受植入式心律转复除颤器。
+具有严重表现的患者，包括右心室功能障碍导致的进行性心肌病，可能需要心脏移植。
+在先天性矫正的大动脉转位中，右心房进入右侧形态的左心室，形成肺动脉，左心房与左侧形态的右心室相连，右心室随后通向主动脉。
+在先天性矫正的大动脉转位中，右心房进入右侧形态的左心室，形成肺动脉，左心房与左侧形态的右心室相连，右心室随后通向主动脉。
+由于多种相关异常，临床表现广泛。
+由于多种相关异常，临床表现广泛。
+随着患者进入成年期，一个值得关注的问题是作为系统性心室的形态 RV 出现功能障碍。
+随着患者进入成年期，一个值得关注的问题是作为系统性心室的形态 RV 出现功能障碍。
+通常通过超声心动图进行诊断，超声心动图显示心室形态相反，右侧形态的左心室产生后方的肺动脉根，左侧形态的右心室产生前方和左侧的主动脉根。
+通常通过超声心动图进行诊断，超声心动图显示心室形态相反，右侧形态的左心室产生后方的肺动脉根，左侧形态的右心室产生前方和左侧的主动脉根。
+治疗采用药物、手术和节律装置相结合的方式。
+治疗采用药物、手术和节律装置相结合的方式。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+American Heart Association: Common Heart Defects: Provides overview of common congenital heart defects for parents and caregivers
+American Heart Association: Common Heart Defects: Provides overview of common congenital heart defects for parents and caregivers
+American Heart Association: Infective Endocarditis: Provides an overview of infective endocarditis, including summarizing prophylactic antibiotic use, for patients and caregivers
+American Heart Association: Infective Endocarditis: Provides an overview of infective endocarditis, including summarizing prophylactic antibiotic use, for patients and caregivers

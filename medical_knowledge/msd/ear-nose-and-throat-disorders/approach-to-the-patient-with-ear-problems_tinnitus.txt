@@ -1,0 +1,196 @@
+标题：耳鸣
+来源：https://www.msdmanuals.cn/professional/ear-nose-and-throat-disorders/approach-to-the-patient-with-ear-problems/tinnitus
+============================================================
+
+耳鸣是一种耳内的噪声。10%~15%的人有此症状。
+主观性耳鸣是在无声音刺激的情况下感觉到响声，仅能为患者本人听到。多数耳鸣为主观性耳鸣。
+客观性耳鸣较为罕见，是由耳朵附近的结构（如颈动脉瘘/动脉瘤、动静脉畸形、硬脑膜动静脉瘘、乙状窦或颈动脉狭窄）或中耳内部（如鼓膜张肌或镫骨肌痉挛）产生的噪音所致。根据定义，耳鸣的声音足够大，检查者使用或不使用听诊器在乳突骨处听诊时都能听到。客观性耳鸣极为罕见。
+耳鸣可描述为嗡嗡声、铃声、轰鸣声、汽笛声或嘶嘶声，并且有时是可变的或复合性的。如果患者感知到的声音与心跳不同步，则称为非搏动性。客观性耳鸣多为与心跳同步的血管搏动性的或间歇性的。耳鸣在安静环境和没有分散注意力的刺激时最明显，因此常在睡前感觉更糟。
+耳鸣可为间歇性的，也可为持续性的。持续性耳鸣充其量令人烦恼，且常令人感到相当痛苦不安。有的患者相对于其他人适应了耳鸣的存在；耳鸣有时可引起情绪消沉。压力会加重耳鸣。
+
+【耳鸣的病理生理学】
+主观性耳鸣被认为是听觉皮层的非正常神经元活动引起的。这种活动是由听觉通路（耳蜗、听神经、脑干核团、听觉皮层）的输入以某种方式被中断或改变而引起的。这一阻断可能导致内在皮质活动的抑制丧失，并可能产生新的神经连接。有些人相信这一现象与截肢后出现的幻肢痛相似。传导性听力损失（例如，由耳垢嵌塞、中耳炎或咽鼓管功能障碍引起）也可能通过改变中央听觉系统的声音输入而与主观耳鸣相关。然而，在感音神经性听力损失中，主观性、非搏动性耳鸣更为常见，在伴有感音神经性听力损失的患者中发生率高达70至85%（1）。
+客观性耳鸣指由中耳附近生理活动产生的临床医师可闻及的真实噪音。通常这些噪声是脉动性的并来自于血管，可能源于正常血管的血流增加或湍流（如动脉粥样硬化引起），也可能源于异常血管（如肿瘤或血管畸形）。有时腭肌或中耳肌肉（镫骨肌、鼓膜张肌）的痉挛或肌阵挛会导致咔哒声。客观性耳鸣总是需要进行进一步的影像学诊断检查。
+
+【病理生理学参考文献】
+1.Shargorodsky J, Curhan GC, Farwell WR.Prevalence and characteristics of tinnitus among US adults.Am J Med2010;123(8):711-718.doi:10.1016/j.amjmed.2010.02.015
+1.Shargorodsky J, Curhan GC, Farwell WR.Prevalence and characteristics of tinnitus among US adults.Am J Med2010;123(8):711-718.doi:10.1016/j.amjmed.2010.02.015
+
+【耳鸣的病因】
+病因可根据其引起主观性耳鸣或客观性耳鸣来分类（见表耳鸣的一些病因）。
+
+【主观性耳鸣】
+任何听觉通路上的异常皆可引起主观性耳鸣。
+最常见的疾病是那些涉及感音神经性听力损失的疾病，特别是以下几种：
+声创伤（噪声性感音神经性听力损失）
+声创伤（噪声性感音神经性听力损失）
+老年性耳聋（年老过程中出现）
+老年性耳聋（年老过程中出现）
+耳毒性药物
+耳毒性药物
+梅尼埃病
+梅尼埃病
+影响听觉通路的感染和中枢神经系统病变（如肿瘤、脑卒中、多发性硬化症所致）也可能导致耳鸣。
+导致传导性听力损失的疾病也可能引起耳鸣。包括耳道内耵聍栓塞、耳道异物、外耳道炎。而中耳炎、耳气压伤、咽鼓管功能紊乱和耳硬化症也与耳鸣相关。
+部分患者耳鸣可能与颞下颌关节功能紊乱有关。
+
+【客观性耳鸣】
+客观性耳鸣通常涉及血管血流产生的噪声，可听到与脉搏同步的搏动性声音。原因包括：
+颈动脉或颈静脉的湍流
+颈动脉或颈静脉的湍流
+中耳富血管性肿瘤
+中耳富血管性肿瘤
+硬脑膜动静脉畸形
+硬脑膜动静脉畸形
+脑静脉窦狭窄或血栓形成，尤其是横窦狭窄
+脑静脉窦狭窄或血栓形成，尤其是横窦狭窄
+特发性颅内高压（通常为双侧搏动性耳鸣）
+特发性颅内高压（通常为双侧搏动性耳鸣）
+中耳乙状窦或颈静脉球部骨质裂开，乙状窦憩室
+中耳乙状窦或颈静脉球部骨质裂开，乙状窦憩室
+上半规管裂综合征
+上半规管裂综合征
+中耳积液可导致颈动脉或颈静脉球搏动传导增加，中耳积液消退后，这种情况也会随之消退。
+腭肌或中耳肌肉（如镫骨肌、鼓膜张肌）的痉挛或肌阵挛可能会引起可感知到的噪声，通常表现为节律性哒哒声。这些肌痉挛可能是特发性的，也可能是由肿瘤、头部外伤以及感染性或脱髓鞘疾病（如多发性硬化症）引起的。
+腭肌痉挛可出现可见的与耳鸣同时出现的腭部或鼓膜的运动。
+
+【耳鸣的一些病因】
+耳鸣的一些病因
+有提示意义的临床表现
+诊断方法
+主观性耳鸣*
+声创伤（例如，噪声性听力损失）
+职业和生活中噪声暴露史，听力下降
+耳气压伤
+暴露于增加的空气或水压的明确历史记录
+中枢神经系统肿瘤（例如，前庭神经鞘瘤、脑膜瘤）和病变（例如，由多发性硬化症或卒中引起）
+单侧耳鸣，常伴听力下降
+有时有其他神经系统异常
+钆增强MRI
+咽鼓管功能紊乱
+常有长期听力下降，既往有上呼吸道感染，航空旅行或其他气压变化时耳部通气困难
+严重的过敏反应可加重症状；
+单侧或双侧发作（通常一侧更为严重）
+鼓室测压
+感染（如中耳炎，迷路炎，脑膜炎，神经梅毒）
+仅病史和体格检查
+有时进行其他确诊性检查（例如，脑膜炎的脑脊液检查）
+药物（如水杨酸盐、氨基糖苷类、袢利尿剂、某些化疗药物包括顺铂）
+药物应用后双侧耳鸣；
+除了水杨酸外，也可能有听力下降；
+氨基糖苷类也可能与双侧前庭功能丧失相关（例如，眩晕、平衡障碍）
+梅尼埃病
+阵发性单侧听力下降、耳鸣、耳闷胀感和严重的眩晕
+通常为波动性并最终永久性的低频听力损失
+钆增强MRI用于评估单侧感音神经性听力损失并排除前庭神经鞘瘤
+耳道栓塞（如耵聍栓塞，耳道异物，或外耳道炎）
+单侧，耳镜检查可见具有诊断意义的异常，包括外耳道炎伴有的分泌物（或耳漏）
+仅病史和体格检查
+老年相关性聋（与老化）
+渐进性的听力下降，常有家族史
+客观性耳鸣†
+硬脑膜动静脉畸形
+单侧持续的搏动性耳鸣；
+通常无其他症状；
+可能有颅骨上的杂音
+体格检查应始终包括耳周听诊
+CT、MRI 或常规血管造影
+肌阵挛（腭肌、鼓膜张肌、镫骨肌）
+不规则的咔嗒声或机械样噪声
+可能有其他神经系统症状（例如，多发性硬化症相关症状）
+症状出现时，检查可见腭部、鼓膜或两者兼有运动
+鼓室测量法
+颈动静脉湍流
+颈部闻及血管杂音或静脉嗡鸣
+静脉嗡鸣，其强度可随同侧颈静脉压迫或头部旋转而发生变化（增加或减少）
+有时仅考虑病史和体格检查
+有时进行 CT 静脉造影和 CT 血管造影
+中耳血管性肿瘤（例如，鼓室球瘤、颈静脉球瘤）
+单侧持续的搏动性耳鸣；
+耳部听诊有时可闻及杂音
+肿瘤通常在鼓膜后方可见，呈高度充血、有时搏动性的肿块，可能（在鼓气耳镜检查时）变白
+血管造影（通常在手术前进行）
+*通常情况下，耳鸣音调不变并伴有一定程度的听力损失。 所有主观耳鸣患者都应进行听力测试。
+†通常为间歇性或搏动性。
+CSF=脑脊液; CT = 计算机断层扫描; MRI = 磁共振成像; TM=鼓膜; URI = 上呼吸道感染。
+*通常情况下，耳鸣音调不变并伴有一定程度的听力损失。 所有主观耳鸣患者都应进行听力测试。
+†通常为间歇性或搏动性。
+CSF=脑脊液; CT = 计算机断层扫描; MRI = 磁共振成像; TM=鼓膜; URI = 上呼吸道感染。
+
+【耳鸣的评估】
+现病史要注意耳鸣的持续时间，是单侧耳鸣或是双侧耳鸣，是持续性的亦或是间歇性的。如果是间歇性的，临床医生应判断其是否规律，以及是脉搏（搏动性）的频率还是偶发的。 要注意任何可能加重或缓解耳鸣的因素，如吞咽、头部体位。耳鸣重要的相关症状包括听力下降、眩晕、耳痛和耳漏。
+系统回顾应寻找可能病因的症状，包括复视和吞咽或说话困难（脑干病变）以及局灶性无力和感觉变化（周围神经疾病，包括第8颅神经功能障碍）。同时也应评估耳鸣对患者的影响。应注意耳鸣是否严重到足以引起明显的焦虑、抑郁或失眠。
+既往史须询问任何耳鸣相关的危险因素，包括噪声暴露史（如职业性噪音、音乐会、枪械），压力骤变（潜水或航空旅行），耳部或中枢神经系统的感染或外伤史，头部的放射治疗以及近期体重下降（咽鼓管扩张功能障碍的风险）。需确认药物使用史，尤其是任何水杨酸类、氨基糖苷类或袢利尿剂。
+各种评分系统被用于量化耳鸣对患者日常活动的影响（例如，耳鸣功能指数、耳鸣残疾量表）(1,2)。
+
+【体格检查】
+体格检查主要集中在耳朵、神经系统，以及颈部和乳突的杂音听诊。
+耳道须检查是否有耳漏、耳道异物以及耵聍。鼓膜检查须注意是否有急性感染（如红肿、膨隆）、慢性感染（如穿孔、胆脂瘤）的迹象，以及肿瘤（红色或蓝色的肿块）。应进行床边听力测试，包括使用512 Hz 音叉进行的Weber 和 Rinne 检验。
+颅神经需接受测试，特别是前庭功能（见头晕和眩晕），同时测试周围肌力、感觉和反射。用听诊器听诊颈动脉和颈静脉走行区域以及耳部及其邻近区域的血管杂音。
+
+【危险信号】
+要特别注意以下情况：
+杂音，特别是耳或颅骨周围的
+杂音，特别是耳或颅骨周围的
+除听力损失以外的伴随的神经系统症状或体征
+除听力损失以外的伴随的神经系统症状或体征
+单侧耳鸣
+单侧耳鸣
+客观性耳鸣（检查者可听见）
+客观性耳鸣（检查者可听见）
+
+【检查结果解读】
+伴不对称性听力损失的耳鸣可能提示耳蜗后病变，如前庭神经鞘瘤(起源于内耳道中第 8 对颅神经的前庭部分的良性肿瘤)。
+须注意耳鸣是否为单侧，因为前庭神经鞘瘤可能仅表现为单侧耳鸣。若可见单侧或不对称神经性听力损伤，伴有耳鸣侧听力损伤更重，则诊断更易确诊。
+相比常见的主观性耳鸣，区别不常见的客观性耳鸣同样重要。搏动性或间歇性耳鸣几乎总是客观性耳鸣（尽管检查者并非总能检测到），伴有杂音的耳鸣也是如此。搏动性耳鸣通常是良性的，但通常值得进一步的诊断评估，以排除严重的病理情况。持续性耳鸣通常是主观性的（除非是由静脉嗡鸣引起的，静脉嗡鸣可通过杂音的存在以及耳鸣随头部旋转或颈静脉压迫而变化来识别）。
+通过检查结果常能推断出具体病因（见表耳鸣的一些病因）。特别是，发病前的噪声暴露、气压伤或某些药物使用史提示这些因素是病因。
+所有耳鸣患者均应转诊进行全面的听力学评估，以确定听力损失是否存在、程度和类型。
+单侧耳鸣伴听力损失患者需行钆增强MRI检查以排除后颅窝或内听道病变，如前庭神经鞘瘤或脑膜瘤。对于单侧耳鸣无听力损失者，除非耳鸣持续>6个月以上，否则不必要做MRI检查。
+其他检查要看患者临床表现（见表耳鸣的一些病因）。
+有明显的中耳血管性肿瘤证据者需要进行CT及钆增强MRI检查，若确诊需转诊至专科医生。
+搏动性耳鸣的患者需要进一步检查血管系统（颈动脉、椎动脉和颅内血管）。首选的初始检查通常是头部和颈部的CT血管造影（CTA），应包括动脉和静脉相位图像以及骨骼重建。这些图像序列可以很容易地识别搏动性耳鸣的动脉原因（例如，颈动脉狭窄或动脉瘤）、静脉原因（例如，横窦或乙状窦狭窄、颈静脉球憩室）或动静脉联合原因，如动静脉畸形或硬脑膜动静脉瘘，而骨骼图像可以揭示搏动性耳鸣的骨骼病因（例如，乙状窦或颈静脉球上方的骨缺失或不足、上半规管裂开）。如果CTA显示有动脉瘤、硬脑膜动静脉瘘或动静脉畸形的隐患，应该进行数字减影血管造影（DSA）。如果CTA结果正常，但对硬脑膜动静脉瘘或AVM的怀疑指数仍然很高（例如，颈部或乳突上可以听到客观的搏动性耳鸣），仍应进行DSA检查。尽管CTA对检测上述“不可错过”的诊断具有很高的敏感性，但在大约20%的搏动性耳鸣患者中，CTA未能识别出病因(3)。在这种情况下，应考虑采用磁共振血管造影/静脉造影进行额外的成像检查（4）。如果CTA显示中耳、内耳、颞骨或颅底有任何病理性改变，则需要进行内听道和颅底的增强MRI检查。
+病人报告听到单耳或双耳咔哒声的患者应评估是否存在客观耳鸣。这种评估可以通过听诊器听诊或鼓室测压法来识别鼓膜张肌、镫骨肌和/或腭肌的阵挛。口腔体格检查应可见腭肌阵挛。
+
+【评估参考文献】
+1.Meikle MB, Henry JA, Griest SE, et al: The tinnitus functional index: development of a new clinical measure for chronic, intrusive tinnitus [published correction appears inEar Hear2012 May;33(3):443].Ear Hear2012;33(2):153-176.doi:10.1097/AUD.0b013e31822f67c0
+1.Meikle MB, Henry JA, Griest SE, et al: The tinnitus functional index: development of a new clinical measure for chronic, intrusive tinnitus [published correction appears inEar Hear2012 May;33(3):443].Ear Hear2012;33(2):153-176.doi:10.1097/AUD.0b013e31822f67c0
+2.Newman CW, Jacobson GP, Spitzer JB: Development of the Tinnitus Handicap Inventory.Arch Otolaryngol Head Neck Surg1996;122(2):143-148.doi:10.1001/archotol.1996.01890140029007
+2.Newman CW, Jacobson GP, Spitzer JB: Development of the Tinnitus Handicap Inventory.Arch Otolaryngol Head Neck Surg1996;122(2):143-148.doi:10.1001/archotol.1996.01890140029007
+3.Formeister EJ, Xiao G, Clark J, et al: Combined Arterial and Venous Phase Computed Tomographic Imaging of the Skull Base in Pulsatile Tinnitus.Otol Neurotol2022;43(9):1049-1055.doi:10.1097/MAO.0000000000003672
+3.Formeister EJ, Xiao G, Clark J, et al: Combined Arterial and Venous Phase Computed Tomographic Imaging of the Skull Base in Pulsatile Tinnitus.Otol Neurotol2022;43(9):1049-1055.doi:10.1097/MAO.0000000000003672
+4.Abdalkader M, Nguyen TN, Norbash AM, et al: State of the Art: Venous Causes of Pulsatile Tinnitus and Diagnostic Considerations Guiding Endovascular Therapy.Radiology300(1):2-16, 2021.doi: 10.1148/radiol.2021202584
+4.Abdalkader M, Nguyen TN, Norbash AM, et al: State of the Art: Venous Causes of Pulsatile Tinnitus and Diagnostic Considerations Guiding Endovascular Therapy.Radiology300(1):2-16, 2021.doi: 10.1148/radiol.2021202584
+
+【耳鸣的治疗】
+治疗原发病可能减轻耳鸣。纠正听力损失（如佩戴助听器）能减轻大约50%的患者的耳鸣。一些助听器具有可编程的耳鸣掩蔽音，根据自我报告量表(1)测量可减轻耳鸣。
+因为压力和其他心理健康问题（如抑郁）可能加重症状，识别并治疗这些因素可能有助于缓解症状。许多患者通过认识到他们的耳鸣并不是严重的医学问题而打消疑虑。
+咖啡因和其他兴奋剂也可能加重耳鸣，因此患者应尝试停止使用这些物质。
+虽然没有特定的药物或手术治疗方法，但一些患者可以通过使用白噪声进行简单的耳鸣掩蔽获益，白噪声提供的低强度声音可以掩盖耳鸣。耳鸣再训练疗法可能对部分患者有效（2）。内耳的电刺激，如人工耳蜗植入，在减轻耳鸣方面非常有效，超过85%的重度耳聋患者在接受人工耳蜗植入治疗后报告耳鸣完全或部分抑制（3）。
+双峰神经刺激装置是另一种方法，它似乎可以改善约80%中度至重度耳鸣患者的自我报告主观评分（4）。该设备通过向耳朵播放定制的耳鸣掩蔽程序，同时对舌头进行电刺激。
+
+【治疗参考文献】
+1.Sanders PJ, Nielsen RM,Jensen JJ, Searchfield GD.Hearing aids with tinnitus sound support reduce tinnitus severity for new and experienced hearing aid users.Frontiers in Audiology and Otology2023;1 doi: 10.3389/fauot.2023.1238164
+1.Sanders PJ, Nielsen RM,Jensen JJ, Searchfield GD.Hearing aids with tinnitus sound support reduce tinnitus severity for new and experienced hearing aid users.Frontiers in Audiology and Otology2023;1 doi: 10.3389/fauot.2023.1238164
+2.Cima RF, Maes IH, Joore MA, et al.Specialised treatment based on cognitive behaviour therapy versus usual care for tinnitus: a randomised controlled trial.Lancet2012;379(9830):1951-1959.doi:10.1016/S0140-6736(12)60469-3
+2.Cima RF, Maes IH, Joore MA, et al.Specialised treatment based on cognitive behaviour therapy versus usual care for tinnitus: a randomised controlled trial.Lancet2012;379(9830):1951-1959.doi:10.1016/S0140-6736(12)60469-3
+3.Peter N, Liyanage N, Pfiffner F, Huber A, Kleinjung T.The Influence of Cochlear Implantation on Tinnitus in Patients with Single-Sided Deafness: A Systematic Review.Otolaryngol Head Neck Surg2019;161(4):576-588.doi:10.1177/0194599819846084
+3.Peter N, Liyanage N, Pfiffner F, Huber A, Kleinjung T.The Influence of Cochlear Implantation on Tinnitus in Patients with Single-Sided Deafness: A Systematic Review.Otolaryngol Head Neck Surg2019;161(4):576-588.doi:10.1177/0194599819846084
+4.Boedts M, Buechner A, Khoo SG, et al.Combining sound with tongue stimulation for the treatment of tinnitus: a multi-site single-arm controlled pivotal trial.Nat Commun2024;15(1):6806.doi:10.1038/s41467-024-50473-z
+4.Boedts M, Buechner A, Khoo SG, et al.Combining sound with tongue stimulation for the treatment of tinnitus: a multi-site single-arm controlled pivotal trial.Nat Commun2024;15(1):6806.doi:10.1038/s41467-024-50473-z
+
+【老年医学要点：耳鸣】
+在60至69岁之间的人群中，接近40%的人存在听力障碍（1）。由于耳鸣在感音神经性听力损失患者中很常见，因此耳鸣在老年患者中也很常见。
+
+【老年医学要点参考文献】
+1.Hoffman HJ, Dobie RA, Losonczy KG, Themann CL, Flamme GA.Declining Prevalence of Hearing Loss in US Adults Aged 20 to 69 Years.JAMA Otolaryngol Head Neck Surg2017;143(3):274-285.doi:10.1001/jamaoto.2016.3527
+1.Hoffman HJ, Dobie RA, Losonczy KG, Themann CL, Flamme GA.Declining Prevalence of Hearing Loss in US Adults Aged 20 to 69 Years.JAMA Otolaryngol Head Neck Surg2017;143(3):274-285.doi:10.1001/jamaoto.2016.3527
+主观性耳鸣是由听觉通路上某处的异常引起的。
+主观性耳鸣是由听觉通路上某处的异常引起的。
+客观性耳鸣通常是由耳周血管造成的真实的声音引起。
+客观性耳鸣通常是由耳周血管造成的真实的声音引起。
+噪音大、衰老、梅尼埃病、偏头痛和药物是导致主观耳鸣的最常见原因。
+噪音大、衰老、梅尼埃病、偏头痛和药物是导致主观耳鸣的最常见原因。
+单侧耳鸣伴听力损失或头晕/平衡障碍需行钆增强MRI检查以排除后颅窝或内听道病变。
+单侧耳鸣伴听力损失或头晕/平衡障碍需行钆增强MRI检查以排除后颅窝或内听道病变。
+任何伴有神经功能缺损的耳鸣都应进行神经学评估。
+任何伴有神经功能缺损的耳鸣都应进行神经学评估。

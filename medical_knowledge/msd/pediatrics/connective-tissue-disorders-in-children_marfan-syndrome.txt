@@ -1,0 +1,223 @@
+标题：马方综合征
+来源：https://www.msdmanuals.cn/professional/pediatrics/connective-tissue-disorders-in-children/marfan-syndrome
+============================================================
+
+马凡氏综合征是一种常染色体显性遗传、高外显率的进行性遗传疾病，由编码糖蛋白原纤维蛋白-1的FBN1基因致病性变异引起，该蛋白是微纤维的主要成分，并协助将细胞锚定在细胞外基质中。主要的结构缺陷涉及心血管系统、肌肉骨骼系统和眼部系统。呼吸系统和中枢神经系统也可能受到影响。
+新生儿马凡综合征是该疾病的一种严重形式，在1岁前显现，由FBN1突变的特定亚组引起（1）。此型以显著的瓣膜病变和心力衰竭为特征。
+导致马凡综合征的基因突变有许多不同的表现形式；然而，它通常通过四肢修长、主动脉根部扩张和晶状体脱位来识别。
+马凡综合征的预估患病率约为1.5至6.8/10万人（2，3）。
+
+【参考文献】
+1.van der Leest EC, van der Hulst AE, Pals G, et al.Genotype-Phenotype Correlations, Treatment, and Prognosis of Children With Early-Onset (Neonatal) Marfan Syndrome.Clin Genet.2025;108(2):134-145.doi:10.1111/cge.14722
+1.van der Leest EC, van der Hulst AE, Pals G, et al.Genotype-Phenotype Correlations, Treatment, and Prognosis of Children With Early-Onset (Neonatal) Marfan Syndrome.Clin Genet.2025;108(2):134-145.doi:10.1111/cge.14722
+2.Milewicz DM, Braverman AC, De Backer J, et al.Marfan syndrome [published correction appears inNat Rev Dis Primers. 2022 Jan 17;8(1):3. doi: 10.1038/s41572-022-00338-w.].Nat Rev Dis Primers.2021;7(1):64.Published 2021 Sep 2.doi:10.1038/s41572-021-00298-7
+2.Milewicz DM, Braverman AC, De Backer J, et al.Marfan syndrome [published correction appears inNat Rev Dis Primers. 2022 Jan 17;8(1):3. doi: 10.1038/s41572-022-00338-w.].Nat Rev Dis Primers.2021;7(1):64.Published 2021 Sep 2.doi:10.1038/s41572-021-00298-7
+3.Groth KA, Hove H, Kyhl K, et al.Prevalence, incidence, and age at diagnosis in Marfan Syndrome.Orphanet J Rare Dis.2015;10:153.Published 2015 Dec 2.doi:10.1186/s13023-015-0369-8
+3.Groth KA, Hove H, Kyhl K, et al.Prevalence, incidence, and age at diagnosis in Marfan Syndrome.Orphanet J Rare Dis.2015;10:153.Published 2015 Dec 2.doi:10.1186/s13023-015-0369-8
+
+【Marfan综合征的症状和体征】
+
+【心血管系统】
+主要的检查发现包括:
+主动脉根部扩张、升主动脉瘤或主动脉夹层
+主动脉根部扩张、升主动脉瘤或主动脉夹层
+瓣膜脱垂（通常为二尖瓣）
+瓣膜脱垂（通常为二尖瓣）
+心血管并发症源于主动脉根部和升主动脉的病理改变，主要累及承受最大血流动力学应力区域的血管中层。主动脉进行性扩张通常始于主动脉瓣窦部，有时在10岁前即可出现。大多数马凡综合征患者，包括儿童，有主动脉根部扩张，这可导致主动脉反流和在主动脉区或心尖的特征性舒张期递减杂音（1）。进行性主动脉根部扩张增加主动脉夹层的风险，这是马凡综合征的主要危及生命的并发症。
+此三维彩色CT血管造影显示升主动脉瘤伴夹层。
+VSEVOLOD ZVIRYK/SCIENCE PHOTO LIBRARY
+多余的瓣叶和腱索可能导致二尖瓣脱垂或反流；二尖瓣脱垂可能会引起收缩中期喀喇音伴收缩晚期或全收缩期杂音，提示存在反流。
+受累瓣膜可发生细菌性心内膜炎。
+
+【骨骼肌系统】
+患者高于同龄人的平均身高和家庭成员，手臂指距超过身高。蜘蛛脚样指（指（趾）不成比例地长而细），常有拇指征（拇指的远节指骨超出紧握拳头的边缘）。胸壁异常如鸡胸（前凸）和漏斗胸（凹陷）较为常见，同时伴有关节过度屈曲、肘关节伸展受限（尽管通常存在轻度肘关节屈曲挛缩）、膝反张（膝关节过伸）、扁平足或足跟外翻、脊柱后侧凸，以及膈疝和腹股沟疝。皮下脂肪少。
+面部特征可能包括长头畸形、眼球内陷、向下倾斜的眼睑裂、下颌后缩和颧骨发育不全。常有高腭弓。
+皮肤可能会出现条纹（膨胀纹）。
+肌肉骨骼检查结果的严重程度在患者之间差异很大。
+这张图片展示了一位患有马凡综合征的青少年典型的体态特征，包括脊柱后侧凸、漏斗胸以及膝关节反屈。
+这张图片展示了一位患有马凡综合征的青少年典型的体态特征，包括脊柱后侧凸、漏斗胸以及膝关节反屈。
+By permission of the publisher.From Macro R:Atlas of Heart Diseases: Congenital Heart Disease.由E Braunwald（系列编辑）和RM Freedom编辑。Philadelphia, Current Medicine, 1997.
+这名马凡综合征患者比家人高，臂展超过身高。还需注意肘部伸展不完全。
+这名马凡综合征患者比家人高，臂展超过身高。还需注意肘部伸展不完全。
+© Springer Science+Business Media
+这张照片显示马凡综合征患者的拇指突出于紧握拳头的边缘。
+这张照片显示马凡综合征患者的拇指突出于紧握拳头的边缘。
+MEDICAL PHOTO NHS LOTHIAN/SCIENCE PHOTO LIBRARY
+马凡综合征的特征是手指异常修长。在这张照片中，当这位女士的手环绕手腕时，她的拇指与食指相叠。
+马凡综合征的特征是手指异常修长。在这张照片中，当这位女士的手环绕手腕时，她的拇指与食指相叠。
+Photo courtesy of David D.Sherry医生。
+SCIENCE PHOTO LIBRARY
+左图为患有漏斗胸的人，右图为患有鸡胸的人。
+左图为患有漏斗胸的人，右图为患有鸡胸的人。
+DR P.MARAZZI / SCIENCE PHOTO LIBRARY
+这张图片展示了一位患有马凡综合征的青少年典型的体态特征，包括脊柱后侧凸、漏斗胸以及膝关节反屈。
+这张图片展示了一位患有马凡综合征的青少年典型的体态特征，包括脊柱后侧凸、漏斗胸以及膝关节反屈。
+By permission of the publisher.From Macro R:Atlas of Heart Diseases: Congenital Heart Disease.由E Braunwald（系列编辑）和RM Freedom编辑。Philadelphia, Current Medicine, 1997.
+这名马凡综合征患者比家人高，臂展超过身高。还需注意肘部伸展不完全。
+这名马凡综合征患者比家人高，臂展超过身高。还需注意肘部伸展不完全。
+© Springer Science+Business Media
+这张照片显示马凡综合征患者的拇指突出于紧握拳头的边缘。
+这张照片显示马凡综合征患者的拇指突出于紧握拳头的边缘。
+MEDICAL PHOTO NHS LOTHIAN/SCIENCE PHOTO LIBRARY
+马凡综合征的特征是手指异常修长。在这张照片中，当这位女士的手环绕手腕时，她的拇指与食指相叠。
+马凡综合征的特征是手指异常修长。在这张照片中，当这位女士的手环绕手腕时，她的拇指与食指相叠。
+Photo courtesy of David D.Sherry医生。
+SCIENCE PHOTO LIBRARY
+左图为患有漏斗胸的人，右图为患有鸡胸的人。
+左图为患有漏斗胸的人，右图为患有鸡胸的人。
+DR P.MARAZZI / SCIENCE PHOTO LIBRARY
+
+【视觉系统】
+眼的表现包括晶状体的异位（晶状体半脱位或全脱位），和虹膜震颤（虹膜的抖动）。脱位晶状体的边缘常可通过未扩大的瞳孔见到。
+可以出现高度近视，可能发生自发性视网膜剥离。
+
+【呼吸系统】
+可能发生囊性肺疾病和复发性气胸。这些疾病可引起胸痛和呼吸急促。
+
+【中枢神经系统】
+硬脑膜扩张症（脊髓周围硬膜囊扩大）是一种常见的表现，最经常发生在腰骶部。该病可能会导致头痛，下背痛，或由肠道或膀胱无力的神经功能缺损表现。
+
+【症状和体征】
+1.Wozniak-Mielczarek L, Sabiniewicz R, Drezek-Nojowicz M, et al.Differences in Cardiovascular Manifestation of Marfan Syndrome Between Children and Adults.Pediatr Cardiol.2019;40(2):393-403.doi:10.1007/s00246-018-2025-2
+1.Wozniak-Mielczarek L, Sabiniewicz R, Drezek-Nojowicz M, et al.Differences in Cardiovascular Manifestation of Marfan Syndrome Between Children and Adults.Pediatr Cardiol.2019;40(2):393-403.doi:10.1007/s00246-018-2025-2
+
+【马凡综合征的诊断】
+临床标准
+临床标准
+基因检测
+基因检测
+超声心动图/磁共振成像（测量主动脉根部，检测瓣膜脱垂）
+超声心动图/磁共振成像（测量主动脉根部，检测瓣膜脱垂）
+眼科检查（晶状体异常）
+眼科检查（晶状体异常）
+脊柱和骨盆X光片
+脊柱和骨盆X光片
+腰骶脊柱MRI（硬脑膜扩张）
+腰骶脊柱MRI（硬脑膜扩张）
+该疾病的诊断可能具有一定困难，尤其在缺乏家族病史或已知致病基因突变的情况下，因为许多患者仅表现出少数典型症状与体征；此外，儿童和青少年患者的临床表型可能会随时间演变。此外，25%的马凡氏综合征患者有新生突变，因此没有阳性家族史。
+马凡综合征的诊断需满足以下标准（1）：
+主动脉根部扩张伴FBN1基因突变、晶状体异位或系统评分>7分
+主动脉根部扩张伴FBN1基因突变、晶状体异位或系统评分>7分
+FBN1突变和异位晶状体
+FBN1突变和异位晶状体
+马凡综合征家族史伴晶状体异位、主动脉根部扩张或系统评分>7分
+马凡综合征家族史伴晶状体异位、主动脉根部扩张或系统评分>7分
+基因检测具有高度敏感性。FBN1突变见于95%的马凡综合征儿童（2）。
+进行详细的体格检查，重点关注系统评分的各项要素。此项检查包括眼科评估，着重于近视和晶状体异位。
+需要进行影像学检查以检测主动脉根部扩张及系统评分的部分要素（参见表格马凡综合征系统评分）。
+为评估主动脉根部扩张情况，可行超声心动图或心脏磁共振成像（MRI），测量结果需按患者体型进行校正；诊断所需的扩张程度取决于患者的家族史及年龄。
+无家族史：主动脉根部Z评分≥2
+无家族史：主动脉根部Z评分≥2
+阳性家族史：年龄>20岁患者主动脉根部Z评分≥2，或年龄<20岁患者Z评分≥3
+阳性家族史：年龄>20岁患者主动脉根部Z评分≥2，或年龄<20岁患者Z评分≥3
+系统评分基于体格和影像学检查（参见表格马凡综合征系统评分）（1、3、4）。
+此X光片显示脊柱侧弯。
+评估马凡综合征时，需要科布角20°才能计入系统评分。
+MEDICAL PHOTO NHS LOTHIAN/SCIENCE PHOTO LIBRARY
+
+【马凡氏综合征系统评分】
+马凡氏综合征系统评分
+腕征或拇指征
+任一征象为1，两者均有为3
+漏斗胸或胸部不对称
+后足外翻
+突发性气胸
+硬脊膜扩张（需进行腰椎核磁共振成像检查）
+髋臼前突（需骨盆X光片）
+脊柱侧弯或胸腰椎后凸（需拍摄脊柱X光片）
+肘关节伸展受限
+5项特征性面部特征中的3项（长头畸形、眼球内陷、睑裂下斜、颧骨发育不全、下颌后缩）
+皮肤条纹
+高度近视（屈光度>3D）
+二尖瓣脱垂（需要超声心动图检查）
+上/下段比值降低及臂展/身高比值增加†
+* 得分≥7分视为阳性。
+† 存在严重脊柱侧弯或后凸时不准确。
+Data fromLoeys BL, Dietz HC, Braverman AC, et al.The revised Ghent nosology for the Marfan syndrome.J Med Genet.2010;47(7):476-485.doi:10.1136/jmg.2009.072785.
+* 得分≥7分视为阳性。
+† 存在严重脊柱侧弯或后凸时不准确。
+Data fromLoeys BL, Dietz HC, Braverman AC, et al.The revised Ghent nosology for the Marfan syndrome.J Med Genet.2010;47(7):476-485.doi:10.1136/jmg.2009.072785.
+FBN1突变的基因检测有助于未达到临床标准的患者明确诊断，但也存在FBN1突变阴性的病例。通过分析FBN1基因进行产前诊断时，基因型与表型之间的相关性很差（已描述了 1700 多种不同的突变）。
+马凡综合征的鉴别诊断包括Loeys-Dietz综合征、血管型埃勒斯-当洛斯综合征、遗传性胸主动脉疾病和先天性挛缩性蜘蛛指症。高半胱氨酸尿症可部分模拟马凡综合征，但通过检测尿液中的高半胱氨酸可以加以区分。
+(See alsoAortic Root Z-Scores for Children,Aortic Root Z-Scores for Adults, andCalculation of Systemic Score.)
+
+【诊断参考】
+1.Loeys BL, Dietz HC, Braverman AC, et al.The revised Ghent nosology for the Marfan syndrome.J Med Genet.2010;47(7):476-485.doi:10.1136/jmg.2009.072785
+1.Loeys BL, Dietz HC, Braverman AC, et al.The revised Ghent nosology for the Marfan syndrome.J Med Genet.2010;47(7):476-485.doi:10.1136/jmg.2009.072785
+2.Morris SA, Flyer JN, Yetman AT, et al.Cardiovascular Management of Aortopathy in Children: A Scientific Statement From the American Heart Association.Circulation.2024;150(11):e228-e254.doi:10.1161/CIR.0000000000001265
+2.Morris SA, Flyer JN, Yetman AT, et al.Cardiovascular Management of Aortopathy in Children: A Scientific Statement From the American Heart Association.Circulation.2024;150(11):e228-e254.doi:10.1161/CIR.0000000000001265
+3.The Marfan Foundation.Summary of Diagnostic Criteria.Accessed May 12, 2025.
+3.The Marfan Foundation.Summary of Diagnostic Criteria.Accessed May 12, 2025.
+4.The Marfan Foundation.Calculation of Systemic Score.Accessed May 12, 2025.
+4.The Marfan Foundation.Calculation of Systemic Score.Accessed May 12, 2025.
+
+【马凡综合征的治疗】
+β受体阻滞剂和/或血管紧张素II受体阻滞剂
+β受体阻滞剂和/或血管紧张素II受体阻滞剂
+可选择的主动脉修复和瓣膜维修
+可选择的主动脉修复和瓣膜维修
+支撑和脊柱侧弯手术
+支撑和脊柱侧弯手术
+视力矫正、晶状体切除与激光手术
+视力矫正、晶状体切除与激光手术
+运动与锻炼指导
+运动与锻炼指导
+马凡氏综合征的治疗重点是预防和治疗并发症，特别是主动脉根部夹层。
+应每年重新评估心血管、肌肉骨骼和眼部的情况。
+建议进行规范的遗传咨询以指导生育计划。
+
+【Medications（药物应用史）】
+所有成年患者应常规使用β受体阻滞剂（如阿替洛尔、普萘洛尔）或血管紧张素Ⅱ受体拮抗剂（如氯沙坦、厄贝沙坦），或两者联合使用，并以最大耐受剂量给药，以减缓主动脉扩张并预防心血管并发症（1）。
+对于儿童，当主动脉根部直径异常（<16岁患者Z评分≥2；≥16岁患者绝对直径≥3.5 cm）时，应启动单药治疗；随着扩张进展，则应改为双药联合治疗（2）。
+这些药物会降低心肌收缩力和血压，可能影响与疾病发病机制有关的信号通路，并能减缓主动脉根部扩张进程、降低夹层风险（3）。
+当主动脉直径>5.0厘米时（具有某些高危特征的患者>4.5厘米），向成人提供预防性手术（主动脉根部置换）（1）。对于儿童，阈值直径基于年龄及风险状况（2）。孕妇患主动脉并发症的风险特别高，因此应在受孕前讨论选择性主动脉修补术。严重的瓣膜关闭不全手术修复。
+个性化外部主动脉根部支撑（PEARS）是一种手术选择，可加固但不需置换主动脉根部（4）。
+脊柱侧凸应尽可能采用支具治疗，但当脊柱曲度达40至50度时，建议进行手术治疗。
+眼部表现，如晶状体脱位、视网膜脱离和青光眼，需要手术矫正。对于脱位的晶状体，矫正可能包括移除晶状体（晶状体切除术），然后更换人工晶状体，或者如果不更换晶状体则进行视力矫正。由于眼科技术的进步，这些干预措施非常成功。
+
+【体育运动】
+马凡氏综合征患者的运动指导侧重于风险评估和共同决策（2、5）。
+对于患有马凡综合征的年长青少年及成人，尤其是伴有主动脉根部扩张者，不建议进行高强度运动、需用力实施瓦尔萨尔瓦动作的训练（如举重），或存在身体碰撞风险的竞技运动。这些风险与参与运动和身体活动的益处相平衡。
+关节过度活动和眼部并发症是个体化运动与锻炼咨询的额外考虑因素。
+妊娠、分娩和分娩的风险应与所有可能怀孕的马凡氏综合征和主动脉病变患者进行讨论，最好是在受孕前。对于部分人群，可考虑进行孕前选择性主动脉修复术。
+具体的分娩建议基于主动脉直径（1）：
+主动脉直径<4.0厘米：阴道分娩（其他条件适宜时）
+主动脉直径<4.0厘米：阴道分娩（其他条件适宜时）
+主动脉直径4.0 ~ 4.5 cm：阴道分娩、加速第二阶段分娩、辅助分娩或剖宫产时可考虑区域麻醉
+主动脉直径4.0 ~ 4.5 cm：阴道分娩、加速第二阶段分娩、辅助分娩或剖宫产时可考虑区域麻醉
+主动脉直径>4.5cm：剖宫产
+主动脉直径>4.5cm：剖宫产
+
+【治疗参考文献】
+1.Writing Committee Members, Isselbacher EM, Preventza O, et al.2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines.J Am Coll Cardiol.2022;80(24):e223-e393.doi:10.1016/j.jacc.2022.08.004
+1.Writing Committee Members, Isselbacher EM, Preventza O, et al.2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines.J Am Coll Cardiol.2022;80(24):e223-e393.doi:10.1016/j.jacc.2022.08.004
+2.Morris SA, Flyer JN, Yetman AT, et al.Cardiovascular Management of Aortopathy in Children: A Scientific Statement From the American Heart Association.Circulation.2024;150(11):e228-e254.doi:10.1161/CIR.0000000000001265
+2.Morris SA, Flyer JN, Yetman AT, et al.Cardiovascular Management of Aortopathy in Children: A Scientific Statement From the American Heart Association.Circulation.2024;150(11):e228-e254.doi:10.1161/CIR.0000000000001265
+3.Mullen M, Jin XY, Child A, et al.Irbesartanin Marfan syndrome (AIMS): a double-blind, placebo-controlled randomised trial.Lancet.2019;394(10216):2263-2270.doi:10.1016/S0140-6736(19)32518-8
+3.Mullen M, Jin XY, Child A, et al.Irbesartanin Marfan syndrome (AIMS): a double-blind, placebo-controlled randomised trial.Lancet.2019;394(10216):2263-2270.doi:10.1016/S0140-6736(19)32518-8
+4.Izgi C, Newsome S, Alpendurada F, et al.External Aortic Root Support to Prevent Aortic Dilatation in Patients With Marfan Syndrome. J Am Coll Cardiol.2018;72(10):1095-1105.doi:10.1016/j.jacc.2018.06.053
+4.Izgi C, Newsome S, Alpendurada F, et al.External Aortic Root Support to Prevent Aortic Dilatation in Patients With Marfan Syndrome. J Am Coll Cardiol.2018;72(10):1095-1105.doi:10.1016/j.jacc.2018.06.053
+5.Kim JH, Baggish AL, Levine BD, et al.Clinical Considerations for Competitive Sports Participation for Athletes With Cardiovascular Abnormalities: A Scientific Statement From the American Heart Association and American College of Cardiology [published correction appears inCirculation. 2025 Apr;151(13):e864. doi: 10.1161/CIR.0000000000001326.].Circulation.2025;151(11):e716-e761.doi:10.1161/CIR.0000000000001297
+5.Kim JH, Baggish AL, Levine BD, et al.Clinical Considerations for Competitive Sports Participation for Athletes With Cardiovascular Abnormalities: A Scientific Statement From the American Heart Association and American College of Cardiology [published correction appears inCirculation. 2025 Apr;151(13):e864. doi: 10.1161/CIR.0000000000001326.].Circulation.2025;151(11):e716-e761.doi:10.1161/CIR.0000000000001297
+
+【马凡综合征的预后】
+治疗方法的进步和定期监测已降低了马凡综合征患者的死亡率，预期寿命接近普通人群(1)。然而，与一般人群相比，由于慢性疼痛、身体限制和疾病的心理负担，生活质量仍然下降。
+新生儿马凡氏综合征预后不良，一项研究显示，大多数患者在16个月前死亡，大多数幸存者需要心脏手术(2)。
+
+【预后参考】
+1.Dietz H.FBN1-Related Marfan Syndrome.2001 Apr 18 [Updated 2022 Feb 17].In: Adam MP, Feldman J, Mirzaa GM, et al., editors.GeneReviews® [Internet].Seattle (WA): University of Washington, Seattle; 1993-2025.
+1.Dietz H.FBN1-Related Marfan Syndrome.2001 Apr 18 [Updated 2022 Feb 17].In: Adam MP, Feldman J, Mirzaa GM, et al., editors.GeneReviews® [Internet].Seattle (WA): University of Washington, Seattle; 1993-2025.
+2.van der Leest EC, van der Hulst AE, Pals G, et al.Genotype-Phenotype Correlations, Treatment, and Prognosis of Children With Early-Onset (Neonatal) Marfan Syndrome.Clin Genet.2025;108(2):134-145.doi:10.1111/cge.14722
+2.van der Leest EC, van der Hulst AE, Pals G, et al.Genotype-Phenotype Correlations, Treatment, and Prognosis of Children With Early-Onset (Neonatal) Marfan Syndrome.Clin Genet.2025;108(2):134-145.doi:10.1111/cge.14722
+马凡综合征由编码糖蛋白原纤维蛋白-1的FBN1基因发生常染色体显性突变，从而导致多种可能的临床表现。
+马凡综合征由编码糖蛋白原纤维蛋白-1的FBN1基因发生常染色体显性突变，从而导致多种可能的临床表现。
+临床表现差异很大，但主要的结构缺陷涉及心血管系统、肌肉骨骼系统和眼部系统。
+临床表现差异很大，但主要的结构缺陷涉及心血管系统、肌肉骨骼系统和眼部系统。
+主动脉夹层是最危险且危及生命的并发症。
+主动脉夹层是最危险且危及生命的并发症。
+使用临床标准、家族史、超声心动图和基因检测进行诊断。
+使用临床标准、家族史、超声心动图和基因检测进行诊断。
+进行心脏成像和眼科评估；考虑进行额外影像学检查。
+进行心脏成像和眼科评估；考虑进行额外影像学检查。
+应给予β受体阻滞剂和/或血管紧张素Ⅱ受体阻滞剂以减缓主动脉扩张、预防主动脉夹层，并依据既有指南进行预防性主动脉根部手术，同时对其他并发症进行相应处理。
+应给予β受体阻滞剂和/或血管紧张素Ⅱ受体阻滞剂以减缓主动脉扩张、预防主动脉夹层，并依据既有指南进行预防性主动脉根部手术，同时对其他并发症进行相应处理。

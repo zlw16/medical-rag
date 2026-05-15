@@ -1,0 +1,130 @@
+标题：骨软骨发育不全（骨软骨发育不全侏儒症）
+来源：https://www.msdmanuals.cn/professional/pediatrics/connective-tissue-disorders-in-children/osteochondrodysplasias-osteochondrodysplastic-dwarfism
+============================================================
+
+大多数骨软骨发育不良症都存在基本的遗传缺陷。这些突变通常会导致参与结缔组织、骨骼或软骨生长及发育的蛋白质功能紊乱（见表格部分骨软骨发育不良类型）。
+骨软骨发育不良根据致病基因缺陷、生化途径或临床和影像学特征进行分类（1）。见表格部分骨软骨发育不良类型。
+侏儒症是指身材明显矮小（成人身高<147厘米[4英尺 10英寸]）这通常与躯干和四肢的不成比例的生长有关。
+软骨发育不全症是最常见、最著名的短肢侏儒症类型，但还有许多其他不同的类型，它们在遗传背景、病程和预后方面差异很大（2)。致命性短肢侏儒症（致死性发育不良，由与软骨发育不全症相同基因的突变引起）在新生儿中引起严重的胸壁畸形和呼吸衰竭，通常在新生儿期导致死亡。
+
+【骨软骨发育不良的部分类型】
+骨软骨发育不良的部分类型
+疾病状态
+症状和体征
+常见遗传类型
+缺陷基因产物
+软骨发育不全
+大前额，马鞍鼻，腰椎前凸、弓形腿
+常染色体显性遗传
+成纤维细胞生长因子受体3（FGFR）
+斑状软骨发育不全
+骨骼外表现差别很大；
+X线片上见婴儿期钙化形成的骨骺斑点
+斑状软骨发育不全肢体型（根茎型）
+近端肢体明显短小
+婴儿期死亡
+常染色体隐性
+过氧化物酶体引导信号受体2型（PTS2）
+斑状软骨发育不全（Conradi-Hünermann型）
+轻度不对称肢体短小；
+常染色体显性遗传或X连锁显性遗传
+delta(8)-delta(7)甾醇异构酶依莫帕米结合蛋白（EBP）
+软骨外胚层发育不全（Ellis–van Creveld [EVC]综合征）
+远端肢体短小，轴后多指（趾）畸形，心脏结构缺损
+常染色体隐性遗传
+EVC， EVC2
+骨畸形性发育不全
+严重的侏儒症，伴硬搭便车拇指和固定的马蹄内翻足畸形
+常染色体隐性遗传
+溶质递体族26（硫酸盐转运蛋白），成员2（SLC26A2）
+季肋发育不全
+症状与软骨发育不全相似，但程度更轻
+常染色体显性遗传
+成纤维细胞生长因子受体3（FGFR3-不是所有患者）
+肢中骨发育不全*(兰格型)
+主要是前臂和小腿短小
+面部和脊柱正常
+常染色体隐性遗传
+短身材同源盒基因（SHOX），Y染色体短身材同源盒基因（SHOXY）
+干骺端软骨发育不全†
+在一些类型中，吸收不良，中性粒细胞减少，T淋巴细胞减少
+常染色体隐性遗传或常染色体显性遗传
+甲状旁腺激素受体（PTHR），X型胶原 (COL10A1)
+多发性骨骺发育不全
+轻度侏儒症，脊柱和面部正常，有时有粗短的指（趾），髋部发育不良（常为首发症状）；
+异质性明显
+常染色体隐性遗传或常染色体显性遗传
+溶质递体族26（硫酸盐转运蛋白），成员2（SLC26A2；AR型）
+假性软骨发育不良
+面部正常，不同程度的侏儒症和脊柱后侧凸
+常染色体显性遗传或常染色体隐性遗传
+软骨寡聚基质蛋白（COMP）
+脊柱骨骺发育不良
+明显脊柱后侧凸
+有时近视和扁平脸
+常染色体显性遗传,常染色体隐性遗传, 或X连锁隐性遗传
+2型胶原（COL2A1），跟踪蛋白复合粒子，亚基2(TRAPPC2，也称为 SEDL)
+致死性侏儒症
+严重肢体短缩
+胸壁畸形
+呼吸功能不全
+常染色体显性遗传（但大多数情况是由新生突变引起的）
+FGFR3
+*有几种以人名命名的类型如（Nievergelt，Langer）
+†有许多不同的以人名命名的类型（例如，Jansen，Schmi，McKusick）
+AD=常染色体显性；AR=常染色体隐性；XL=X-连锁。
+*有几种以人名命名的类型如（Nievergelt，Langer）
+†有许多不同的以人名命名的类型（例如，Jansen，Schmi，McKusick）
+AD=常染色体显性；AR=常染色体隐性；XL=X-连锁。
+
+【参考文献】
+1.Mortier GR, Cohn DH, Cormier-Daire V, et al.Nosology and classification of genetic skeletal disorders: 2019 revision.Am J Med Genet A.2019;179(12):2393-2419.doi:10.1002/ajmg.a.61366
+1.Mortier GR, Cohn DH, Cormier-Daire V, et al.Nosology and classification of genetic skeletal disorders: 2019 revision.Am J Med Genet A.2019;179(12):2393-2419.doi:10.1002/ajmg.a.61366
+2.Krakow D, Rimoin DL.The skeletal dysplasias.Genet Med.2010;12(6):327-341.doi:10.1097/GIM.0b013e3181daae9b
+2.Krakow D, Rimoin DL.The skeletal dysplasias.Genet Med.2010;12(6):327-341.doi:10.1097/GIM.0b013e3181daae9b
+
+【骨软骨发育不良的诊断】
+射线照片
+射线照片
+有时需进行基因检测
+有时需进行基因检测
+特征性的 X 射线变化可能具有诊断意义。应对每个受影响的新生儿（即使是死产）进行全身X 光检查，因为诊断的准确性对于预测预后以及未来怀孕的遗传咨询至关重要。
+部分病例可通过超声进行产前诊断（例如当胎儿肢体严重短小时）。
+标准的实验室检测对此没有帮助，但分子诊断对于已知分子缺陷的骨软骨发育不良可能具有诊断价值。如果基于临床资料无法做出诊断，或是希望获得遗传咨询，那么建议行基因检测。
+
+【骨软骨发育不良的治疗】
+有时进行肢体延长术、膝内翻矫正术或关节置换术
+有时进行肢体延长术、膝内翻矫正术或关节置换术
+有时使用沃索里肽
+有时使用沃索里肽
+在软骨发育不全中，人生长激素治疗一般无效。
+通过手术肢体延长可达到成年身高增长的目的。膝内翻（O型腿）可以通过手术矫正。在软骨发育不全和其他非致命性骨软骨发育不良症中，手术（如髋关节置换）可以帮助改善关节功能 (1)。
+齿突发育不全可导致第 1 和第 2 颈椎半脱位和脊髓受压。因此在手术前应该对齿突进行评估，如果有异常，在麻醉时为气管插管而使头部过度后仰时应该小心地支持患者头部。
+因为大多数类型的遗传模式和基因突变是已知的，所以针对生育目的进行遗传咨询很重要。
+Vosoritide（一种C型利钠肽类似物）可改善骨骺未闭合的软骨发育不全儿科患者的线性骨生长(2,3,4)。最终成人身高是否也会增加以及长期治疗的不良反应尚不明确。
+一些组织如Little People of America提供受累病人的资料并自愿给予倡导支持。其他国家也存在类似组织。
+
+【治疗参考文献】
+1.Krakow D, Rimoin DL.The skeletal dysplasias.Genet Med.2010;12(6):327-341.doi:10.1097/GIM.0b013e3181daae9b
+1.Krakow D, Rimoin DL.The skeletal dysplasias.Genet Med.2010;12(6):327-341.doi:10.1097/GIM.0b013e3181daae9b
+2.Savarirayan R, Irving M, Bacino CA, et al.C-type natriuretic peptide analogue therapy in children with achondroplasia.N Engl J Med.2019;381(1):25–35.doi:10.1056/NEJMoa1813446
+2.Savarirayan R, Irving M, Bacino CA, et al.C-type natriuretic peptide analogue therapy in children with achondroplasia.N Engl J Med.2019;381(1):25–35.doi:10.1056/NEJMoa1813446
+3.Savarirayan R, Tofts L, Irving M, et al.Once-daily, subcutaneousvosoritidetherapy in children with achondroplasia: a randomised, double-blind, phase 3, placebo-controlled, multicentre trial [published correction appears inLancet. 2020 Oct 10;396(10257):1070. doi: 10.1016/S0140-6736(20)32074-2.].Lancet.2020;396(10252):684-692.doi:10.1016/S0140-6736(20)31541-5
+3.Savarirayan R, Tofts L, Irving M, et al.Once-daily, subcutaneousvosoritidetherapy in children with achondroplasia: a randomised, double-blind, phase 3, placebo-controlled, multicentre trial [published correction appears inLancet. 2020 Oct 10;396(10257):1070. doi: 10.1016/S0140-6736(20)32074-2.].Lancet.2020;396(10252):684-692.doi:10.1016/S0140-6736(20)31541-5
+4.Cormier-Daire V, Edouard T, Isidor B, et al.Real-World Safety and Effectiveness ofVosoritidein Children with Achondroplasia: French Early Access Program.Horm Res Paediatr.Published online January 25, 2025.doi:10.1159/000543743
+4.Cormier-Daire V, Edouard T, Isidor B, et al.Real-World Safety and Effectiveness ofVosoritidein Children with Achondroplasia: French Early Access Program.Horm Res Paediatr.Published online January 25, 2025.doi:10.1159/000543743
+骨软骨发育不良症是一种遗传性结缔组织、骨骼和/或软骨生长发育异常。
+骨软骨发育不良症是一种遗传性结缔组织、骨骼和/或软骨生长发育异常。
+存在很多种类型，在遗传原因、病程和预后方面差异很大，但都会导致明显的身材矮小，躯干和四肢的生长往往不成比例。
+存在很多种类型，在遗传原因、病程和预后方面差异很大，但都会导致明显的身材矮小，躯干和四肢的生长往往不成比例。
+诊断需结合基因检测、临床表现及影像学特征性改变。
+诊断需结合基因检测、临床表现及影像学特征性改变。
+生长激素治疗通常是无效的。
+生长激素治疗通常是无效的。
+对于骨骺仍然开放的软骨发育不全患者，伏索里肽可用于促进线状骨生长。
+对于骨骺仍然开放的软骨发育不全患者，伏索里肽可用于促进线状骨生长。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Little People of America
+Little People of America

@@ -1,0 +1,58 @@
+标题：毛霉病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/fungal-infections/mucormycosis
+============================================================
+
+(参见真菌感染概述。）
+许多不同种类的真菌都能引起毛霉菌病。这些霉菌常见于土壤、落叶、堆肥、动物粪便和空气中(1)，包括许多常见的面包霉菌。不同种会导致类似的症状。
+毛霉病最常见于免疫功能低下患者（即中性粒细胞减少症、白血病、淋巴瘤、晚期HIV感染或实体器官移植患者）、血糖控制不佳的糖尿病患者（特别是糖尿病酮症酸中毒患者）和接受铁螯合剂去铁胺治疗的患者（因为真菌与该药物结合并利用与其结合的铁进行生长）(2)。COVID-19感染是毛霉菌病的重要危险因素。在疫情期间，特别是在印度(3)，毛霉病病例激增。大多数病例发生在控制不良的糖尿病患者和接受辅助糖皮质激素治疗COVID-19感染的患者中。
+最常见类型的毛霉菌病为鼻–眶型。该疾病可能扩散至脑部（鼻眶脑毛霉病）。
+皮肤Rhizopus（毛霉菌）感染可在封闭敷料下发生，但更常见于自然灾害或战伤爆炸伤等情况下，含真菌孢子的土壤污染伤口后发生。若伤口被真菌孢子污染，即使在免疫功能正常的宿主中亦可发生皮肤感染。
+其他疾病形式包括肺部和胃肠道毛霉病。亦可发生经血行播散。
+
+【参考文献】
+1.World Health Organization (WHO).毛霉菌病。Accessed August 26, 2025.
+1.World Health Organization (WHO).毛霉菌病。Accessed August 26, 2025.
+2.Centers for Disease Control and Prevention (CDC).Clinical Overview of Mucormycosis.April 24, 2024.
+2.Centers for Disease Control and Prevention (CDC).Clinical Overview of Mucormycosis.April 24, 2024.
+3.Skiada A, Drogari-Apiranthitou M, Roilides E, et al.A Global Analysis of Cases of Mucormycosis Recorded in the European Confederation of Medical Mycology / International Society for Human and Animal Mycology (ECMM / ISHAM) Zygomyco.net Registry from 2009 to 2022.Mycopathologia.2025;190(4):53.Published 2025 Jun 10.doi:10.1007/s11046-025-00954-6
+3.Skiada A, Drogari-Apiranthitou M, Roilides E, et al.A Global Analysis of Cases of Mucormycosis Recorded in the European Confederation of Medical Mycology / International Society for Human and Animal Mycology (ECMM / ISHAM) Zygomyco.net Registry from 2009 to 2022.Mycopathologia.2025;190(4):53.Published 2025 Jun 10.doi:10.1007/s11046-025-00954-6
+
+【毛霉菌病的症状和体征】
+鼻–眶–脑型毛霉菌病病情凶险，若未能早期诊断并积极治疗，常致死亡。
+鼻黏膜上可见组织坏死灶，有时腭部也可见到坏死灶。菌丝侵入血管导致血栓形成，可引起鼻中隔、腭部和眼眶或鼻窦周围的骨骼进行性组织坏死。临床表现为疼痛、发热、眼眶蜂窝织炎、眼球突出、眼肌麻痹、视力丧失、鼻腔脓性分泌物和鼻黏膜坏死。
+坏死灶进行性扩大可累及大脑，进而引起海绵窦血栓形成的体征、癫痫发作、失语、偏瘫和昏迷。
+该图显示了一名鼻–眶型毛霉病患者的眶部组织坏死。
+肺毛霉病的表现与侵袭性曲霉病相似。症状包括咳嗽咳痰、呼吸困难和发热。如果不及时诊断和治疗，这种疾病会迅速发展，侵入胸膜和胸壁。
+皮肤毛霉病通常表现为迅速进展的、疼痛的、红斑性或紫罗兰色皮肤病变，可能演变成具有黑色焦痂的坏死性溃疡，通常在创伤或直接接种后发生。血管侵袭性疾病可发生并导致深部组织坏死，严重时可导致传播。
+胃肠道毛霉病最常表现为腹痛、发热、胃肠道出血等非特异性症状，晚期可出现肠穿孔或肠梗死。该病在免疫功能低下或营养状况不佳的患者中更为常见，且可能迅速进展。胃肠道毛霉病的病死率可能很高。
+
+【毛霉菌病的诊断】
+组织样本中可见宽大、带状、无分隔的菌丝
+组织样本中可见宽大、带状、无分隔的菌丝
+真菌培养
+真菌培养
+微生物DNA检测（聚合酶链反应[PCR]或无细胞新一代测序）
+微生物DNA检测（聚合酶链反应[PCR]或无细胞新一代测序）
+毛霉菌病的诊断需要高度的临床警惕性；最重要的是在组织标本中直接证实存在直径不规则、无隔膜、呈直角分支的大型菌丝。检查必须充分细致，因为真菌成分可能并不明显，尤其是在坏死性碎屑中（1）。即使在组织中已清楚地见到真菌菌丝，但真菌培养仍多为阴性，其原因尚不清楚。
+定量PCR检测是检测临床样本中真菌DNA最广泛使用的方法(2)。血浆微生物无细胞 DNA 的下一代测序检测亦可有助于诊断。
+影像学常显示肺结节、实变或肿块，有时伴空化。CT扫描和X光片经常低估或遗漏严重的骨破坏；然而，它们可能作为有用的辅助诊断工具，与组织病理学检查或微生物DNA检测一起使用。
+
+【诊断参考】
+1.Lass-Flörl C.Zygomycosis: conventional laboratory diagnosis.Clin Microbiol Infect.2009;15 Suppl 5:60-65.doi:10.1111/j.1469-0691.2009.02999.x
+1.Lass-Flörl C.Zygomycosis: conventional laboratory diagnosis.Clin Microbiol Infect.2009;15 Suppl 5:60-65.doi:10.1111/j.1469-0691.2009.02999.x
+2.Lackner N, Posch W, Lass-Flörl C.Microbiological and Molecular Diagnosis of Mucormycosis: From Old to New.Microorganisms.2021;9(7):1518.Published 2021 Jul 16.doi:10.3390/microorganisms9071518
+2.Lackner N, Posch W, Lass-Flörl C.Microbiological and Molecular Diagnosis of Mucormycosis: From Old to New.Microorganisms.2021;9(7):1518.Published 2021 Jul 16.doi:10.3390/microorganisms9071518
+
+【毛霉菌病的治疗】
+控制潜在疾病
+控制潜在疾病
+两性霉素B的脂质制剂
+两性霉素B的脂质制剂
+艾沙康唑铵
+艾沙康唑铵
+外科手术切除
+外科手术切除
+（参见抗真菌药物。）
+有效的抗真菌治疗应先控制糖尿病，或如有可能尽可能纠正免疫抑制状态或停用去铁胺。
+推荐每日一次静脉注射脂质体两性霉素 B 作为初始治疗。艾沙康唑铵已被批准用作初始治疗。但艾沙康唑铵的临床经验仍相对有限；在病情严重的患者中，两性霉素 B 仍为首选治疗。泊沙康唑也可能有效，尤其是作为巩固治疗的药物。
+外科手术切除坏死组织对于治疗本病极为关键。

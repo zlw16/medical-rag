@@ -1,0 +1,177 @@
+标题：多囊卵巢综合征(PCOS)
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/abnormal-uterine-bleeding/polycystic-ovary-syndrome-pcos
+============================================================
+
+多囊卵巢综合征(PCOS)的患病率为5%~10%（1）。在美国，它是导致不孕症的最常见原因。
+PCOS是一种临床综合征，包括排卵功能障碍（无排卵或稀发排卵）、雄激素过多和多囊卵巢。仅存在卵巢囊肿不足以做出诊断，且部分患者并无多囊卵巢。
+
+【参考文献】
+1.Dumesic DA, Oberfield SE, Stener-Victorin E, et al: Scientific statement on the diagnostic criteria, epidemiology, pathophysiology, and molecular genetics of polycystic ovary syndrome.Endocr Rev36 (5):487–525, 2015.doi: 10.1210/er.2015-1018
+1.Dumesic DA, Oberfield SE, Stener-Victorin E, et al: Scientific statement on the diagnostic criteria, epidemiology, pathophysiology, and molecular genetics of polycystic ovary syndrome.Endocr Rev36 (5):487–525, 2015.doi: 10.1210/er.2015-1018
+
+【PCOS的病理生理学】
+多囊卵巢综合征的病因尚不清楚。但有部分证据表明，患者存在细胞色素P450c17功能异常，该异常影响17-羟化酶（雄激素合成的限速酶），进而导致雄激素生成增加。发病机制似乎涉及参与雄激素生物合成调节的基因以及环境因素，如饮食、营养、环境毒素和低社会经济地位。注意到种族和民族差异，特别是代谢问题和社会心理问题（1）。
+代谢激素（胰岛素、生长激素相关的饥饿素、LEAP-2）与生殖激素（促性腺激素释放激素 [GnRH]、黄体生成素 / 卵泡刺激素 [LH/FSH] 比值、雄激素及雌激素）均存在异常。这些激素异常导致代谢紊乱（如糖尿病和胰岛素抵抗）、超重和肥胖、不孕症和月经周期功能障碍的发生率增加（2，3）。
+多囊卵巢通常含有大量直径2~6mm的卵泡囊肿，有时可见含有闭锁细胞的较大囊肿。卵巢可以增大，有光滑、增厚的包膜；卵巢大小也可以正常。
+
+【病理生理学参考文献】
+1.VanHise K, Wang ET, Norris K, Azziz R, Pisarska MD, Chan JL.Racial and ethnic disparities in polycystic ovary syndrome.Fertil Steril.2023;119(3):348-354.doi:10.1016/j.fertnstert.2023.01.031
+1.VanHise K, Wang ET, Norris K, Azziz R, Pisarska MD, Chan JL.Racial and ethnic disparities in polycystic ovary syndrome.Fertil Steril.2023;119(3):348-354.doi:10.1016/j.fertnstert.2023.01.031
+2.Joshi A.PCOS stratification for precision diagnostics and treatment.Front Cell Dev Biol.2024;12:1358755.Published 2024 Feb 8.doi:10.3389/fcell.2024.1358755
+2.Joshi A.PCOS stratification for precision diagnostics and treatment.Front Cell Dev Biol.2024;12:1358755.Published 2024 Feb 8.doi:10.3389/fcell.2024.1358755
+3.Yang J, Chen C.Hormonal changes in PCOS.J Endocrinol.2024;261(1):e230342.Published 2024 Feb 15.doi:10.1530/JOE-23-0342
+3.Yang J, Chen C.Hormonal changes in PCOS.J Endocrinol.2024;261(1):e230342.Published 2024 Feb 15.doi:10.1530/JOE-23-0342
+
+【PCOS并发症】
+多囊卵巢综合征有几个显著的潜在并发症。
+不孕症与排卵功能障碍有关。
+由于慢性或间歇性无排卵，雌激素水平升高，且持续得不到孕酮的拮抗，从而增加子宫内膜增生和子宫内膜癌的风险。
+雄激素水平通常升高，导致多毛症。因胰岛素抵抗导致的高胰岛素血症，并可能促进卵巢雄激素的产生增加。长期来看，雄激素过多会增加肥胖、心血管疾病（包括高血压和高脂血症）以及代谢综合征的风险。非超重女性发生雄激素过多及其并发症的风险，可能与超重女性一样高。
+冠状动脉钙化和颈动脉内膜增厚在患有 PCOS 的女性中更为常见，这表明可能存在亚临床动脉粥样硬化(1)。这可能是由于胰岛素抵抗、肥胖或雄激素水平升高所致，并且与内脏脂肪相关。
+2 型糖尿病和糖耐量受损更为常见，阻塞性睡眠呼吸暂停的风险也会增加。
+研究表明，多囊卵巢综合征与低度慢性炎症有关，患有多囊卵巢综合征的女性患非酒精性脂肪肝的风险增加(2)。
+PCOS与抑郁症、焦虑症、饮食失调、自尊心低和负面身体形象的风险增加有关（3）。
+
+【并发症参考文献】
+1.Gomez JMD, VanHise K, Stachenfeld N, Chan JL, Merz NB, Shufelt C.Subclinical cardiovascular disease and polycystic ovary syndrome.Fertil Steril.2022;117(5):912-923.doi:10.1016/j.fertnstert.2022.02.028
+1.Gomez JMD, VanHise K, Stachenfeld N, Chan JL, Merz NB, Shufelt C.Subclinical cardiovascular disease and polycystic ovary syndrome.Fertil Steril.2022;117(5):912-923.doi:10.1016/j.fertnstert.2022.02.028
+2.Rocha AL, Oliveira FR, Azevedo RC, et al: Recent advances in the understanding and management of polycystic ovary syndrome.F1000Res26;8, 2019.pii: F1000 Faculty Rev-565.doi: 10.12688/f1000research.15318.1 eCollection 2019.
+2.Rocha AL, Oliveira FR, Azevedo RC, et al: Recent advances in the understanding and management of polycystic ovary syndrome.F1000Res26;8, 2019.pii: F1000 Faculty Rev-565.doi: 10.12688/f1000research.15318.1 eCollection 2019.
+3.Kurki MI, Karjalainen J, Palta P, et al.FinnGen provides genetic insights from a well-phenotyped isolated population [published correction appears inNature. 2023 Mar;615(7952):E19. doi: 10.1038/s41586-023-05837-8.].Nature.2023;613(7944):508-518.doi:10.1038/s41586-022-05473-8
+3.Kurki MI, Karjalainen J, Palta P, et al.FinnGen provides genetic insights from a well-phenotyped isolated population [published correction appears inNature. 2023 Mar;615(7952):E19. doi: 10.1038/s41586-023-05837-8.].Nature.2023;613(7944):508-518.doi:10.1038/s41586-022-05473-8
+
+【PCOS的症状和体征】
+多囊卵巢综合征的症状通常在青春期开始出现，并随时间推移而加重。排卵功能障碍通常在青春期出现，有时会导致原发性闭经。肾上腺功能早现较为常见，由过量的脱氢表雄酮硫酸酯（DHEAS）引起，通常以腋毛早期生长、体味和微粉刺痤疮为特征。
+典型症状包括月经不规律（月经过少或闭经）；多数患者生育能力受损。其他常见症状是轻度肥胖和轻度多毛症。然而，在近一半的PCOS女性患者中，体重是正常的，有的女性甚至体重偏低。
+体毛可能呈男性化分布（如唇上、下巴、背部、拇指、脚趾、乳头周围，以及下腹部腹白线上）。一些女性会出现痤疮。男性化（阴蒂肥大、声音低沉、肌肉质量增加、男性型秃发、乳房萎缩）提示更严重的高雄激素血症（肾上腺高雄激素血症、雄激素分泌肿瘤）。
+腋窝、颈项部、皮肤皱褶处、指关节和/或肘部可能出现增厚、色深的皮肤（黑棘皮症），是继发于胰岛素抵抗的高胰岛素水平导致的皮肤表现。
+黑棘皮病表现为皮肤增厚伴色素沉着，最常见于腋窝和颈后（上图）；深色皮肤人群中，患处皮肤可能呈皮革样外观（下图）。
+Images provided by Thomas Habif, MD.
+其他症状因患者而异，可能包括体重增加（有时似乎与饮食和运动不成比例）、疲劳、精力不足、睡眠相关问题（包括睡眠呼吸暂停）、情绪波动、抑郁、焦虑和头痛。患者的症状各不相同。
+
+【多囊卵巢综合征的诊断】
+临床标准
+临床标准
+为检测雄激素水平并排除其他内分泌疾病，需进行激素血液检测，包括测定血清睾酮、促卵泡激素（FSH）、催乳素和促甲状腺激素（TSH）水平
+为检测雄激素水平并排除其他内分泌疾病，需进行激素血液检测，包括测定血清睾酮、促卵泡激素（FSH）、催乳素和促甲状腺激素（TSH）水平
+盆腔超声检查
+盆腔超声检查
+PCOS的诊断通常基于鹿特丹标准，该标准要求至少存在以下3项中的2项（1）：
+稀发排卵和/或无排卵
+稀发排卵和/或无排卵
+雄激素过多症的临床和/或生化证据
+雄激素过多症的临床和/或生化证据
+多囊卵巢（经阴道超声检查显示每个卵巢有12个或更多直径为2至9毫米的卵泡，和/或卵巢体积增大【>10毫升】）
+多囊卵巢（经阴道超声检查显示每个卵巢有12个或更多直径为2至9毫米的卵泡，和/或卵巢体积增大【>10毫升】）
+血液检查包括睾酮的测量，在PCOS中可能轻度升高；水平>150 ng/dL提示卵巢或肾上腺雄激素分泌肿瘤。血清游离睾酮比总睾酮更敏感，但在技术上更难测量。
+对于多毛症或男性化患者，应通过测量其他血清雄激素来排除其他高雄激素血症的病因，包括
+清晨血清17-羟孕酮检测以排除肾上腺源性高雄激素血症
+清晨血清17-羟孕酮检测以排除肾上腺源性高雄激素血症
+DHEAS；高水平（>800 mcg/dL）提示肾上腺雄激素分泌肿瘤
+DHEAS；高水平（>800 mcg/dL）提示肾上腺雄激素分泌肿瘤
+检查包括妊娠试验和 FSH、催乳素和 TSH 的测量，以排除其他可能的症状原因。此外，需检测血清皮质醇水平以排除库欣综合征，该病症可能导致月经稀发、多毛症及肥胖。
+经阴道超声检查是为了检测多囊卵巢并排除其他可能的症状原因。但青春期女孩不进行经阴道超声检查。
+
+【经验与提示】
+经验与提示
+多囊卵巢综合征经常引起多毛症（面部和身体毛发过多），但男性化（如阴蒂肥大、声音低沉、男性型秃发）提示肾上腺高雄激素血症或雄激素分泌肿瘤。
+多囊卵巢综合征经常引起多毛症（面部和身体毛发过多），但男性化（如阴蒂肥大、声音低沉、男性型秃发）提示肾上腺高雄激素血症或雄激素分泌肿瘤。
+
+【诊断青春期女孩的 PCOS】
+诊断青少年 PCOS 比较复杂，因为女性青春期的生理变化（例如雄激素过多症、月经不调）与 PCOS 的特征相似。因此，青少年 PCOS 的单独诊断标准（2) 已提出：但尚未达成共识。这些标准要求同时具备以下两个条件：
+异常子宫出血模式（与年龄或妇科年龄[年龄减去初潮年龄]不符，或症状持续1至2年）
+异常子宫出血模式（与年龄或妇科年龄[年龄减去初潮年龄]不符，或症状持续1至2年）
+高雄激素血症的证据（血清睾酮水平持续高于成人标准、中度至重度多毛症或中度至重度炎症性寻常痤疮）
+高雄激素血症的证据（血清睾酮水平持续高于成人标准、中度至重度多毛症或中度至重度炎症性寻常痤疮）
+通常通过检测血清17-羟孕酮来筛查青少年是否患有非典型先天性肾上腺皮质增生症。
+盆腔超声检查通常仅在青春期患者血清雄激素水平或男性化程度提示卵巢肿瘤时进行。经阴道超声通常不用于青春期女孩多囊卵巢综合征（PCOS）的诊断，因为它在不到 40% 的女孩中能检测到多囊卵巢形态，且单独使用无法预测 PCOS 的存在或进展。
+
+【诊断参考】
+1.Rotterdam ESHRE/ASRM-Sponsored PCOS consensus workshop group.Revised 2003 consensus on diagnostic criteria and long-term health risks related to polycystic ovary syndrome (PCOS).Hum Reprod.2004;19(1):41-47.doi:10.1093/humrep/deh098
+1.Rotterdam ESHRE/ASRM-Sponsored PCOS consensus workshop group.Revised 2003 consensus on diagnostic criteria and long-term health risks related to polycystic ovary syndrome (PCOS).Hum Reprod.2004;19(1):41-47.doi:10.1093/humrep/deh098
+2.Tehrani FR, Amiri M.Polycystic ovary syndrome in adolescents: Challenges in diagnosis and treatment.Int J Endocrinol Metab17 (3): e91554, 2019. doi: 10.5812/ijem.91554
+2.Tehrani FR, Amiri M.Polycystic ovary syndrome in adolescents: Challenges in diagnosis and treatment.Int J Endocrinol Metab17 (3): e91554, 2019. doi: 10.5812/ijem.91554
+
+【治疗多囊卵巢综合征】
+通常是雌激素/孕激素避孕药或孕激素
+通常是雌激素/孕激素避孕药或孕激素
+有时使用二甲双胍或其他胰岛素增敏剂
+有时使用二甲双胍或其他胰岛素增敏剂
+治疗多毛症以及成人女性激素异常的长期风险
+治疗多毛症以及成人女性激素异常的长期风险
+希望怀孕者治疗不育症
+希望怀孕者治疗不育症
+PCOS 的治疗目标包括：
+纠正激素和代谢异常，从而降低雌激素过量（如子宫内膜增生）和雄激素过量（如糖尿病、心血管疾病）的风险
+纠正激素和代谢异常，从而降低雌激素过量（如子宫内膜增生）和雄激素过量（如糖尿病、心血管疾病）的风险
+缓解症状（月经不调、痤疮、面部和身体毛发过多）
+缓解症状（月经不调、痤疮、面部和身体毛发过多）
+治疗不孕症
+治疗不孕症
+激素药物用于促使子宫内膜定期脱落和/或提供孕激素以对抗雌激素对子宫内膜的增殖作用。这降低了子宫内膜增生和癌症的风险。雌孕激素避孕药通常为一线选择，其可使月经规律，减少痤疮与多毛症，并能实现避孕效果。这些治疗还能减少循环中的雄激素，从而可能减轻痤疮和多毛症。其他选择包括周期性口服孕激素（如甲羟孕酮 5至10 mg，口服，每日一次，连用10至14天，每1至2个月一次）或左炔诺孕酮宫内节育器。抗雄激素孕激素包括屈螺酮和地诺孕素。
+生活方式改变和药物干预被用于管理胰岛素不敏感。如果存在肥胖，鼓励减肥和定期锻炼。这些干预措施可能有助于诱导排卵（从而使月经周期更加规律，并可能改善生育能力）、提高胰岛素敏感性，并减轻黑棘皮症与多毛症。 减肥也可能有助于提高生育能力。减肥手术可能是一些患有多囊卵巢综合征的妇女的一种选择（1）。然而，对于非肥胖型多囊卵巢综合征女性，减重可能无法带来获益。
+若生活方式干预无效，或女性多囊卵巢综合征患者无法服用激素药物、对激素药物不耐受，可使用二甲双胍 500至1000mg po bid，有助于提高胰岛素敏感性。二甲双胍还能使游离睾酮的水平下降。在使用二甲双胍时，应监测血糖水平，并定期进行肾功能和肝功能检测。二甲双胍有助于纠正代谢和血糖异常，使月经周期更加规律，但对多毛症、痤疮或不孕症几乎没有或没有明确受益。由于二甲双胍可能诱发排卵，如果不希望怀孕，则需要采取避孕措施。
+胰岛素增敏剂（如胰高血糖素样肽-1受体激动剂或噻唑烷二酮）与二甲双胍联合使用的研究正在进行中（2）。一项针对肥胖PCOS患者（n=27）的研究发现，使用索马鲁肽治疗6个月后，几乎80%的患者体重至少减轻了5%，这通常与月经周期正常化相关（3）。 其他研究正在评估微生物群治疗PCOS的作用（4）。
+
+【多毛症的治疗】
+物理方法（如漂白、电蚀、拔毛、打蜡、脱毛）可用于治疗多毛症(5)。13.9%的依氟鸟氨酸霜2次/日可以祛除面部毛发。
+减轻体重会减少肥胖女性的雄激素产生，因此可能会减缓毛发生长。
+雌激素-孕激素避孕药会降低雄激素水平。螺内酯（每日 2 次，每次 50–100 mg）亦具有疗效，但由于该药物可能具有致畸作用，因此需要采取有效的避孕措施。Cyproterone, an antiandrogen (not available in the United States), reduces the amount of unwanted body hair in 50 to 75% of affected women.
+GnRH激动剂与拮抗剂目前正作为高雄激素血症所致非预期体毛增生的治疗方案进行研究。这两种药物都会抑制卵巢产生性激素。但两者都可能导致骨质流失并引发骨质疏松症。
+常规药物就可以治疗痤疮（如，过氧化苯甲酰、维甲酸乳膏、外用和口服抗生素）。全身异维A酸仅用于严重病例。
+
+【不孕症的处理】
+许多患有多囊卵巢综合征 (PCOS) 的患者患有不孕症。克罗米芬是多囊卵巢综合征患者不孕症的一线治疗方法。芳香化酶抑制剂来曲唑也可用于诱导排卵。也可以使用其他生育药物。它们包括刺激卵巢的促卵泡激素 (FSH)、刺激 FSH 释放的促性腺激素释放激素 (GnRH) 激动剂和触发排卵的人绒毛膜促性腺激素 (hCG)。
+如果克罗米芬等药物不成功或有其他腹腔镜适应证，可考虑腹腔镜卵巢打孔术；然而，必须考虑钻孔可能的长期并发症（例如粘连、卵巢功能不全）。卵巢钻孔包括使用电烙术或激光在产生雄激素的卵巢小区域中钻孔。不推荐卵巢楔形切除术。
+对于患有PCOS相关肥胖的女性，减肥也可能有所帮助。肥胖与妊娠并发症风险增加相关（包括妊娠期糖尿病、早产及先兆子痫）；建议在孕前或孕早期进行体重指数、血压和口服葡萄糖耐量评估。
+
+【合并症的管理】
+多囊卵巢综合征（PCOS）与抑郁和焦虑风险增加相关，患有PCOS的女性和青少年应接受这些问题的筛查，并在需要时转诊至精神卫生专业人员和/或给予相应治疗。
+患有 PCOS 且超重或肥胖的患者应使用多导睡眠图筛查阻塞性睡眠呼吸暂停的症状，并根据需要进行治疗。
+由于多囊卵巢综合征会增加患心血管疾病的风险，因此对于患有多囊卵巢综合征且存在以下情况的女性，有必要进行早期筛查、预防和/或转诊至心脏专科医生处：
+早发性心血管疾病家族史
+早发性心血管疾病家族史
+血脂异常
+血脂异常
+睡眠呼吸暂停
+睡眠呼吸暂停
+使用胰高血糖素样肽-1（GLP-1）受体激动剂减轻体重可能改善胰岛素抵抗和生育能力（6）。
+对于有异常子宫出血和慢性排卵功能障碍的女性，应评估子宫内膜增生或癌。
+
+【治疗参考文献】
+1.Yue W, Huang X, Zhang W, et al.Metabolic surgery on patients with polycystic ovary syndrome: A systematic review and meta-analysis.Front Endocrinol (Lausanne)13:848947, 2022.doi: 10.3389/fendo.2022.848947
+1.Yue W, Huang X, Zhang W, et al.Metabolic surgery on patients with polycystic ovary syndrome: A systematic review and meta-analysis.Front Endocrinol (Lausanne)13:848947, 2022.doi: 10.3389/fendo.2022.848947
+2.Xing C, Li C, He B.Insulin Sensitizers for Improving the Endocrine and Metabolic Profile in Overweight Women With PCOS.J Clin Endocrinol Metab.2020;105(9):2950-2963.doi:10.1210/clinem/dgaa337
+2.Xing C, Li C, He B.Insulin Sensitizers for Improving the Endocrine and Metabolic Profile in Overweight Women With PCOS.J Clin Endocrinol Metab.2020;105(9):2950-2963.doi:10.1210/clinem/dgaa337
+3.Carmina E, Longo RA.Semaglutide Treatment of Excessive Body Weight in Obese PCOS Patients Unresponsive to Lifestyle Programs.J Clin Med.2023;12(18):5921.Published 2023 Sep 12.doi:10.3390/jcm12185921
+3.Carmina E, Longo RA.Semaglutide Treatment of Excessive Body Weight in Obese PCOS Patients Unresponsive to Lifestyle Programs.J Clin Med.2023;12(18):5921.Published 2023 Sep 12.doi:10.3390/jcm12185921
+4.Batra M, Bhatnager R, Kumar A, et al.Interplay between PCOS and microbiome: The road less travelled.Am J Reprod Immunol.2022;88(2):e13580.doi:10.1111/aji.13580
+4.Batra M, Bhatnager R, Kumar A, et al.Interplay between PCOS and microbiome: The road less travelled.Am J Reprod Immunol.2022;88(2):e13580.doi:10.1111/aji.13580
+5.Martin KA, Chang RJ, Ehrmann,DA, et al.Evaluation and treatment of hirsutism in premenopausal women: an endocrine society clinical practice guideline [published correction appears inJ Clin Endocrinol Metab. 2021 Jun 16;106(7):e2845. doi: 10.1210/clinem/dgab308.].J Clin Endocrinol Metab.2008;93(4):1105-1120.doi:10.1210/jc.2007-2437
+5.Martin KA, Chang RJ, Ehrmann,DA, et al.Evaluation and treatment of hirsutism in premenopausal women: an endocrine society clinical practice guideline [published correction appears inJ Clin Endocrinol Metab. 2021 Jun 16;106(7):e2845. doi: 10.1210/clinem/dgab308.].J Clin Endocrinol Metab.2008;93(4):1105-1120.doi:10.1210/jc.2007-2437
+6.Cena H, Chiovato L, Nappi RE.Obesity, Polycystic Ovary Syndrome, and Infertility: A New Avenue for GLP-1 Receptor Agonists.J Clin Endocrinol Metab.2020;105(8):e2695-e2709.doi:10.1210/clinem/dgaa285
+6.Cena H, Chiovato L, Nappi RE.Obesity, Polycystic Ovary Syndrome, and Infertility: A New Avenue for GLP-1 Receptor Agonists.J Clin Endocrinol Metab.2020;105(8):e2695-e2709.doi:10.1210/clinem/dgaa285
+
+【多囊卵巢综合征指南】
+以下是关于该医疗问题的专业医学协会或政府临床实践指南清单（此清单不完整）：
+American College of Obstetricians and Gynecologists (ACOG) Practice Bulletin.Polycystic Ovary Syndrome.2018 (reaffirmed 2022).
+American College of Obstetricians and Gynecologists (ACOG) Practice Bulletin.Polycystic Ovary Syndrome.2018 (reaffirmed 2022).
+Endocrine Society Clinical Practice Guideline.Evaluation and Treatment of Hirsutism in Premenopausal Women.2018.
+Endocrine Society Clinical Practice Guideline.Evaluation and Treatment of Hirsutism in Premenopausal Women.2018.
+多囊卵巢综合征（PCOS）是排卵障碍的常见原因。
+多囊卵巢综合征（PCOS）是排卵障碍的常见原因。
+对于月经不规律、轻度肥胖及多毛症的女性，应考虑PCOS的可能性，但需注意许多PCOS患者的体重处于正常或偏低水平。
+对于月经不规律、轻度肥胖及多毛症的女性，应考虑PCOS的可能性，但需注意许多PCOS患者的体重处于正常或偏低水平。
+对能导致相似症状的严重疾病（如库欣综合征、肿瘤）和并发症（如代谢综合征）进行检查
+对能导致相似症状的严重疾病（如库欣综合征、肿瘤）和并发症（如代谢综合征）进行检查
+如果不想怀孕，用激素避孕药治疗女性，并建议改变生活方式；如果改变生活方式无效，则添加二甲双胍或其他胰岛素增敏剂。
+如果不想怀孕，用激素避孕药治疗女性，并建议改变生活方式；如果改变生活方式无效，则添加二甲双胍或其他胰岛素增敏剂。
+如果患有 PCOS 的女性不育并希望怀孕，请将她们转介给生殖不孕症专家。
+如果患有 PCOS 的女性不育并希望怀孕，请将她们转介给生殖不孕症专家。
+筛查合并症，如子宫内膜癌，情绪障碍和焦虑症，阻塞性睡眠呼吸暂停，糖尿病和心血管危险因素（包括高血压和高脂血症）。
+筛查合并症，如子宫内膜癌，情绪障碍和焦虑症，阻塞性睡眠呼吸暂停，糖尿病和心血管危险因素（包括高血压和高脂血症）。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Legro RS, Arslanian SA, Ehrmann DA.Diagnosis and treatment of polycystic ovary syndrome: an Endocrine Society clinical practice guideline [published correction appears inJ Clin Endocrinol Metab. 2021 May 13;106(6):e2462. doi: 10.1210/clinem/dgab248.].J Clin Endocrinol Metab.2013;98(12):4565-4592.doi:10.1210/jc.2013-2350
+Legro RS, Arslanian SA, Ehrmann DA.Diagnosis and treatment of polycystic ovary syndrome: an Endocrine Society clinical practice guideline [published correction appears inJ Clin Endocrinol Metab. 2021 May 13;106(6):e2462. doi: 10.1210/clinem/dgab248.].J Clin Endocrinol Metab.2013;98(12):4565-4592.doi:10.1210/jc.2013-2350

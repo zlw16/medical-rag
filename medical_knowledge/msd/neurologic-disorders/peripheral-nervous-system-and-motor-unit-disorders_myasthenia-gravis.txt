@@ -1,0 +1,136 @@
+标题：重症肌无力
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/peripheral-nervous-system-and-motor-unit-disorders/myasthenia-gravis
+============================================================
+
+(参见于周围神经系统疾病概述。）
+重症肌无力最常见于20到40岁的女性以及50至80岁的男性，但它可能发生在任何年龄，包括儿童 (1)。
+其是由突触后膜乙酰胆碱受体受自身免疫攻击、神经肌肉传递受阻引起。 自身抗体产生的机制至今不明。 MG与胸腺疾病、甲状腺毒症以及其他自身免疫性疾病有关（例如类风湿性关节炎[RA]、系统性红斑狼疮[SLE]、恶性贫血）。
+胸腺在重症肌无力发病中所起的作用尚不清楚，65％的重症肌无力患者伴发胸腺增生，10％的患者伴发胸腺瘤 (2).其中约一半的胸腺瘤是恶性的。
+重症肌无力的诱发因素包括
+特定药物（如氨基糖苷类、奎宁、硫酸镁、普鲁卡因胺、钙离子拮抗剂、免疫检查点抑制剂）。
+特定药物（如氨基糖苷类、奎宁、硫酸镁、普鲁卡因胺、钙离子拮抗剂、免疫检查点抑制剂）。
+
+【异常抗体】
+大多数重症肌无力患者会产生乙酰胆碱受体 (AChR) 抗体；这些抗体与神经肌肉接头处的突触后膜上的 AChR 结合并中断神经肌肉传递。大约 10% 到 20% 的全身性肌无力患者在血清中没有针对乙酰胆碱受体 (AChR) 的抗体。他们中上达50%血清 肌肉特异的酪氨酸激酶（MuSK）抗体阳性。该酶位于细胞膜表面，在神经肌肉接头的发育过程中帮助AChR分子聚集 (3)。但抗MuSK抗体不会出现在AChR抗体阳性或孤立的眼肌型重症肌无力患者中。
+抗MuSK抗体的临床意义仍在研究中，但与抗AchR抗体阳性相比，抗MuSK抗体阳性的患者对抗胆碱酯酶药物的反应可能更差，需要更早期、更积极地行免疫治疗。
+
+【不常见类型】
+眼肌型重症肌无力仅累及眼外肌，这一类型占了约15%。
+先天性肌无力是一种罕见的儿童期起病的常染色体隐性遗传疾病。它不是免疫介导的，而是由突触前或后的异常引起，具体包括以下：
+胆碱乙酰转移酶缺乏引起的的乙酰胆碱再合成减少
+胆碱乙酰转移酶缺乏引起的的乙酰胆碱再合成减少
+终板乙酰胆碱酯酶缺陷
+终板乙酰胆碱酯酶缺陷
+突触后膜受体结构异常
+突触后膜受体结构异常
+先天性肌无力患者常见眼肌麻痹。
+约10-12%的重症肌无力孕妇所生婴儿患有新生儿肌无力(4)。这是IgG抗体通过胎盘进入胎儿体内所致。抗体可引起婴儿全身肌无力，但其症状可在数天至数周内随抗体滴度下降而缓解。因此，通常对本病行支持治疗。
+
+【参考文献】
+1.Carr AS, Cardwell CR, McCarron PO, McConville J: A systematic review of population based epidemiological studies in myasthenia gravis.BMC Neurol18:10:46, 2010.doi: 10.1186/1471-2377-10-46
+1.Carr AS, Cardwell CR, McCarron PO, McConville J: A systematic review of population based epidemiological studies in myasthenia gravis.BMC Neurol18:10:46, 2010.doi: 10.1186/1471-2377-10-46
+2.Estévez DAG, Fernández JP: Myasthenia gravis.Update on diagnosis and therapy.Med Clin (Barc)161 (3):119–127, 2023. doi: 10.1016/j.medcli.2023.04.006 Epub 2023 May 27.
+2.Estévez DAG, Fernández JP: Myasthenia gravis.Update on diagnosis and therapy.Med Clin (Barc)161 (3):119–127, 2023. doi: 10.1016/j.medcli.2023.04.006 Epub 2023 May 27.
+3.Hoch W, McConville J, Helms S, et al: Auto-antibodies to the receptor tyrosine kinase MuSK in patients with myasthenia gravis without acetylcholine receptor antibodies.Nat Med7 (3):365–368, 2001. doi: 10.1038/85520
+3.Hoch W, McConville J, Helms S, et al: Auto-antibodies to the receptor tyrosine kinase MuSK in patients with myasthenia gravis without acetylcholine receptor antibodies.Nat Med7 (3):365–368, 2001. doi: 10.1038/85520
+4.Bardhan M, Dogra H; Samanta. D: Neonatal myasthenia gravis. 2023.In StatPearls [Internet].Treasure Island (FL): StatPearls Publishing; 2024 Jan–.
+4.Bardhan M, Dogra H; Samanta. D: Neonatal myasthenia gravis. 2023.In StatPearls [Internet].Treasure Island (FL): StatPearls Publishing; 2024 Jan–.
+
+【重症肌无力的症状和体征】
+重症肌无力最常见的症状是
+眼睑下垂
+眼睑下垂
+受累肌运动后肌无力
+受累肌运动后肌无力
+当受累肌肉得到休息后，无力症状缓解；再次活动后，无力症状再现。肌无力所致虚弱在温度降低时减轻。
+40％的患者以眼肌受累为首发表现，85%在整个病程中会出现眼肌受累，15%仅表现为眼肌受累 (1)。78%的患者在出现眼部症状后持续进展为全身性肌无力，94%的患者在起病3年内进展为全身性肌无力。
+患者握力在减弱和正常间交替（挤奶员样握力），颈肌也可受累。肌无力常累及四肢近端。 部分患者有延髓症状（如声音改变、口鼻反流、呛咳、吞咽困难等）。感觉和深反射通常正常。无力症状可在数小时至数天内波动。
+肌无力危象，表现为严重的四肢瘫或危及生命的呼吸肌无力。15-20%的重症肌无力患者在病程中至少经历一次 (2)。其通常发生感染后，后者能再激活免疫系统。一旦出现呼吸功能障碍，患者会迅速发生呼吸衰竭。
+胆碱能危象是过量的新斯的明或溴吡斯的明等抗胆碱酯酶药物引起的肌无力表现。轻微的胆碱能危象较难与重症肌无力加重相鉴别。严重的胆碱能危象因出现肌肉痉挛、唾液和泪液分泌过多、心动过速和腹泻等表现通常能与重症肌无力相区分。
+
+【症状和体征参考】
+1.Kerty E, Elsais A, Argov Z, et al: EFNS/ENS [European Federation of Neurological Societies/European Neurological Society].Guidelines for the treatment of ocular myasthenia.Eur J Neurol21 (5):687–693, 2014. doi: 10.1111/ene.12359
+1.Kerty E, Elsais A, Argov Z, et al: EFNS/ENS [European Federation of Neurological Societies/European Neurological Society].Guidelines for the treatment of ocular myasthenia.Eur J Neurol21 (5):687–693, 2014. doi: 10.1111/ene.12359
+2.Spillane J, Higham E, Kullmann DM: Myasthenia gravis.BMJ345:e8497, 2012.doi: 10.1136/bmj.e8497
+2.Spillane J, Higham E, Kullmann DM: Myasthenia gravis.BMJ345:e8497, 2012.doi: 10.1136/bmj.e8497
+
+【重症肌无力的诊断】
+床边测试（冰袋测试、休息测试）
+床边测试（冰袋测试、休息测试）
+AChR抗体水平，肌电图，或两项同时检查
+AChR抗体水平，肌电图，或两项同时检查
+临床症状和体征对本病的诊断有提示作用，需完善辅助检查以确诊。
+
+【床旁测试】
+传统的抗胆碱酯酶试验是在床边进行的，使用的是速效药物滕喜龙（起效时间<5分钟），该药在美国和许多其他国家不使用，美国也不再提供。
+MG所致肌无力在温度降低时减轻，据此原理，可对眼睑下垂的患者行冰袋试验。嘱患者闭合眼睑，将冰袋置于其上2分钟，然后移除。阳性的结果为睑下垂症状部分或完全缓解。灵敏度可能约为 80%（1）。对眼肌瘫痪的患者，冰袋试验一般为阴性。
+对眼肌瘫痪患者可以使用休息试验进行测试。对此类患者可行休息试验，要求患者闭上双眼安静地平躺于一黑暗环境中休息5分钟。如果眼肌麻痹改善，则试验结果阳性。
+
+【抗体检测和肌电图】
+若抗胆碱酯酶试验为可疑阳性，以下两者或之一可用于明确诊断：
+血清AChR抗体水平
+血清AChR抗体水平
+肌电图（EMG）
+肌电图（EMG）
+80%～90%的全身型和50%的眼肌型MG会出现AChR抗体阳性。 抗体水平与疾病严重程度无关。AchR抗体阴性的患者中有上达一半MuSK抗体阳性 (1)。
+60%的MG患者肌电图重复电刺激（每秒 2～3次）显示动作电位波幅显著衰减（振幅减少大于10%） (2)。单纤维肌电图可将检出率提高到>95% (3)。
+
+【进一步检查】
+一旦确诊为重症肌无力，需行胸腺CT或MRI以明确是否存在胸腺增生或胸腺瘤。
+另外，还需行其他检查以除外与重症肌无力密切相关的自身免疫性疾病（如恶性贫血、甲状腺功能亢进、类风湿关节炎、系统性红斑狼疮）。
+肌无力危象患者需要评估感染诱发因素。
+床边肺功能检查（如最大肺活量）可帮助早期发现呼吸衰竭。
+
+【诊断参考】
+1.Golnik KC, Pena R, Lee AG, Eggenberger ER: An ice test for the diagnosis of myasthenia gravis.Ophthalmology106 (7):1282–1286.doi: 10.1016/S0161-6420(99)00709-5
+1.Golnik KC, Pena R, Lee AG, Eggenberger ER: An ice test for the diagnosis of myasthenia gravis.Ophthalmology106 (7):1282–1286.doi: 10.1016/S0161-6420(99)00709-5
+2.Oh SJ, Kim DE, Kuruoglu R, et al: Diagnostic sensitivity of the laboratory tests in myasthenia gravis.Muscle Nerve15 (6):720–724, 1992.doi: 10.1002/mus.880150616
+2.Oh SJ, Kim DE, Kuruoglu R, et al: Diagnostic sensitivity of the laboratory tests in myasthenia gravis.Muscle Nerve15 (6):720–724, 1992.doi: 10.1002/mus.880150616
+3.Padua L, Caliandro P, Di Iasi G, et al: Reliability of SFEMG [single-fibre electromyography] in the diagnosis of myasthenia gravis} in diagnosing myasthenia gravis: sensitivity and specificity calculated on 100 prospective cases.Clin Neurophysiol125 (6):1270–1273, 2014.doi: 10.1016/j.clinph.2013.11.005 Epub 2013 Nov.
+3.Padua L, Caliandro P, Di Iasi G, et al: Reliability of SFEMG [single-fibre electromyography] in the diagnosis of myasthenia gravis} in diagnosing myasthenia gravis: sensitivity and specificity calculated on 100 prospective cases.Clin Neurophysiol125 (6):1270–1273, 2014.doi: 10.1016/j.clinph.2013.11.005 Epub 2013 Nov.
+
+【重症肌无力的治疗】
+抗胆碱酯酶药物缓解症状
+抗胆碱酯酶药物缓解症状
+免疫抑制剂(如皮质类固醇)
+免疫抑制剂(如皮质类固醇)
+急性加重期（包括重症肌无力危象）可静脉注射免疫球蛋白 [IVIG] 或血浆置换
+急性加重期（包括重症肌无力危象）可静脉注射免疫球蛋白 [IVIG] 或血浆置换
+有时需要胸腺切除术
+有时需要胸腺切除术
+支持治疗
+支持治疗
+对于先天性重症肌无力患者，胆碱酯酶抑制剂和免疫调节剂通常无效，应避免使用。出现呼吸衰竭的患者需进行气管插管和呼吸机辅助通气。
+
+【对症治疗】
+胆碱酯酶抑制剂是对症治疗的主要药物，但其不能改变疾病进程。此外，这类药物极少能够缓解患者的所有症状，并且可能产生耐药性。
+溴吡斯的明的初始剂量是60mg，每3~4小时口服一次，可根据症状调整剂量，渐加至最大量每剂120mg。 肠外营养治疗时（由于吞咽困难），可予新斯的明（1mg新斯的明=60溴吡斯的明）替代。使用胆碱酯酶抑制剂出现腹部痉挛或腹泻时，可口服阿托品0.4～0.6mg（和溴吡斯的明或新斯的明同时服用）或口服普鲁本辛15mg，一天3～4次。
+对治疗反应良好但随后症状恶化的患者需暂停抗胆碱酯酶药物并予呼吸支持，因可能发生胆碱能危象。
+
+【免疫调节治疗】
+免疫抑制剂（例如，皮质类固醇、硫唑嘌呤、霉酚酸酯、环孢素、他克莫司）能够中断自身免疫反应并减缓疾病进程，但它们并不能迅速缓解症状。因此，患有肌无力危象的患者需要接受 IVIG 或血浆置换治疗。连用静脉注射免疫球蛋白400mg/kg，每天1次，连续5天，70%的患者在1～2周内病情改善(1)。其疗效可持续1～2月。血浆置换（如在7到14天内5次共3~5L血浆置换）可以有类似的效果。
+多数患者需使用糖皮质激素维持治疗；但激素无法迅速改善肌无力危象。超过1/2的患者在棘手大剂量激素治疗短期内病情会加重。可予起始剂量，泼尼松10mg口服，一天1次；每周增加10mg，直至每日60mg，可维持此剂量约2个月，随后缓慢减量。症状改善需要数月。将能够控制症状的前提下，将激素尽可能减量。
+每天口服硫唑嘌呤1次（2.5～3.5mg/kg），其效果可能等同于激素，但需数月才能达到显著疗效。环孢霉素（2～2.5mg/kg，一天2次，口服）可减少糖皮质激素的用量。上述药物需谨慎使用。
+对于患有难治性疾病的患者，单克隆抗体（例如，利妥昔单抗、依库珠单抗）、艾加莫德、齐鲁普兰和雷夫利珠单抗可能具有益处。
+对于<65岁的全身型肌无力的患者，可选择胸腺切除术2,3)；对于所有胸腺瘤患者都应该行胸腺切除术。术后，80%的患者症状可得到缓解或只需要使用较低剂量的维持量药物。
+等离子交换如果患者在胸腺切除术前对药物无反应，或 IVIG（肌无力危象的常用治疗方法）也可能有用。
+
+【治疗参考文献】
+1.Barth D, Nouri MN, Ng E, et al: Comparison of IVIg and PLEX in patients with myasthenia gravis.Neurology76 (23):2017–2023, 2011. doi: 10.1212/WNL.0b013e31821e5505 Epub 2011 May 11.
+1.Barth D, Nouri MN, Ng E, et al: Comparison of IVIg and PLEX in patients with myasthenia gravis.Neurology76 (23):2017–2023, 2011. doi: 10.1212/WNL.0b013e31821e5505 Epub 2011 May 11.
+2.Gronseth GS, Barohn R, Narayanaswami P: Practice advisory: Thymectomy for myasthenia gravis (practice parameter update): Report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology.Neurology94 (16):705–709, 2020.doi: 10.1212/WNL.0000000000009294 Epub 2020 Mar 25.
+2.Gronseth GS, Barohn R, Narayanaswami P: Practice advisory: Thymectomy for myasthenia gravis (practice parameter update): Report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology.Neurology94 (16):705–709, 2020.doi: 10.1212/WNL.0000000000009294 Epub 2020 Mar 25.
+3.Wolfe GI, Kaminski HJ, Aban IB, et al: Randomized trial of thymectomy in myasthenia gravis.N Engl J Med375 (6):511–522, 2016.
+3.Wolfe GI, Kaminski HJ, Aban IB, et al: Randomized trial of thymectomy in myasthenia gravis.N Engl J Med375 (6):511–522, 2016.
+对波动性眼睑下垂、复视和肌肉无力的患者考虑重症肌无力。
+对波动性眼睑下垂、复视和肌肉无力的患者考虑重症肌无力。
+完善血清AChR抗体检测（通常存在于重症肌无力时）和肌电图（EMG），或两者都做，来明确诊断。
+完善血清AChR抗体检测（通常存在于重症肌无力时）和肌电图（EMG），或两者都做，来明确诊断。
+在确诊之后，检测是否有胸腺增生、胸腺瘤、甲状腺功能亢进和自身免疫性疾病，它们通常伴随重症肌无力发生。
+在确诊之后，检测是否有胸腺增生、胸腺瘤、甲状腺功能亢进和自身免疫性疾病，它们通常伴随重症肌无力发生。
+大多数患者可予抗胆碱酯酶药物缓解症状；免疫调节治疗以延缓疾病进展、缓解症状。先天性患者无需上述治疗。
+大多数患者可予抗胆碱酯酶药物缓解症状；免疫调节治疗以延缓疾病进展、缓解症状。先天性患者无需上述治疗。
+如果患者有肌无力危象，用 IVIG 或血浆置换治疗。
+如果患者有肌无力危象，用 IVIG 或血浆置换治疗。
+对抗胆碱酯酶药物治疗反应良好的患者病情突然恶化，则暂停使用该类药物数天并提供呼吸支持，因为他们可能有胆碱能危象。
+对抗胆碱酯酶药物治疗反应良好的患者病情突然恶化，则暂停使用该类药物数天并提供呼吸支持，因为他们可能有胆碱能危象。

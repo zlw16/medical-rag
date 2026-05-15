@@ -1,0 +1,30 @@
+标题：肘管综合症
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/hand-disorders/cubital-tunnel-syndrome
+============================================================
+
+（参见手部疾病的概述与评估）。
+尺神经多在肘部而极少在腕部受到刺激。肘管综合征常由撑肘或长期、过度的屈肘引起。肘管综合征一般较腕管综合征少见。棒球手投球（尤其是投射滑球）可能损伤肘内侧韧带，造成危险。
+
+【肘管综合症的症状和体征】
+肘管综合征的症状包括沿着尺神经走行（无名指和小指、手的尺侧）的麻木和感觉异常以及肘部疼痛。随着病变进展，逐渐出现手固有肌和无名指、小指屈肌的无力。无名指与小指的无力可能妨碍拇指与示指的捏持及握拳。
+慢性肘管综合征患者可能会出现尺爪手。尺骨爪形手是由于手内肌、手外肌不平衡导致环、小指掌指关节过伸及指间关节屈曲。
+
+【肘管综合症的诊断】
+临床评估
+临床评估
+有时进行神经传导研究或高级影像学检查
+有时进行神经传导研究或高级影像学检查
+依照临床表现一般能够诊断肘管综合征。如果临床诊断为可疑，考虑手术治疗时，需行神经传导检查或进行了高级成像研究（例如 MRI、超声波）（1）。
+肘管综合征与尺神经腕部卡压（腕尺管）的区别在于手背尺侧半的感觉障碍，肌电图和神经传导速度检查在腕部以上的尺神经异常，以及诱发肘部肘管尺神经症状(Tinel征阳性)。
+肘管综合征可能与近端神经受压混淆，例如由以下原因引起的受压胸廓出口综合征（TOS）或 C8-T1 颈椎病（见表按节段水平对脊髓功能障碍的运动和反射影响）。肘屈曲期间尺神经前半脱位可能会产生与正常电诊断测试结果相似的症状。动态超声检查可以明确诊断并将其与不太常见的肱三头肌弹响综合征（肱三头肌内侧头半脱位超过内侧上髁）区分开来。
+
+【诊断参考文献】
+1.Carroll TJ, Chirokikh A, Thon J, Jones CMC, Logigian E, Ketonis C: Diagnosis of Ulnar Neuropathy at the Elbow Using Ultrasound - A Comparison to Electrophysiologic Studies.J Hand Surg Am.2023;48(12):1229-1235.doi:10.1016/j.jhsa.2023.08.014
+1.Carroll TJ, Chirokikh A, Thon J, Jones CMC, Logigian E, Ketonis C: Diagnosis of Ulnar Neuropathy at the Elbow Using Ultrasound - A Comparison to Electrophysiologic Studies.J Hand Surg Am.2023;48(12):1229-1235.doi:10.1016/j.jhsa.2023.08.014
+
+【肘管综合症的治疗】
+夹板固定和活动调整
+夹板固定和活动调整
+手术减压
+手术减压
+肘管综合征的治疗包括夜间夹板固定，使肘部伸展呈45°角，白天可用肘托。建议休息并停止任何加剧症状的活动，例如弯曲肘部。职业治疗师可能在活动调整、锻炼建议以及夹板和护肘的使用方面提供帮助。如保守治疗无效，可采用手术减压。

@@ -1,0 +1,93 @@
+标题：颈部肌张力障碍
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/movement-and-cerebellar-disorders/cervical-dystonia
+============================================================
+
+（参见运动障碍和小脑疾病概述。）
+在颈部肌张力障碍，颈部肌肉收缩导致颈部转动。 颈肌张力障碍是最常见的肌张力障碍。
+颈肌张力障碍有两种形式：
+Caput：当涉及最近的颈椎（C1 或 C2）时
+Caput：当涉及最近的颈椎（C1 或 C2）时
+Collis：当任何下颈椎（C3 至 C7）受累时
+Collis：当任何下颈椎（C3 至 C7）受累时
+头型（torticaput）涉及移动头骨或头部关节的肌肉；它被进一步描述为前颈、后颈或斜颈。颈椎形式涉及控制下颈椎的肌肉，进一步描述为前颈、后颈、后颈或斜颈。区分这两种形式很重要，因为它有助于临床医生确定注射肉毒杆菌毒素的正确肌肉。
+痉挛性斜颈（成人发病）是颈部肌张力障碍最常见的形式。它通常是特发性的。少数患者有家族病史，其中一些患者（例如患有肌张力障碍-6 [DYT6; 与THAP-1有关] 、肌张力障碍-4 [DYT4; 与人微管蛋白 β IVa 类有关]或肌张力障碍-25 [DYT25；与G 蛋白亚基α L基因有关])，其遗传病因已被确定。 一些患者存在其他部位的肌张力障碍（例如：眼睑、面部、下颌或手部）。
+颈部肌张力障碍可以是
+先天性（特发性或遗传性）
+先天性（特发性或遗传性）
+继发性，如脑干或基底节病灶或使用多巴胺-药物阻断药物（如氟哌啶醇）
+继发性，如脑干或基底节病灶或使用多巴胺-药物阻断药物（如氟哌啶醇）
+肌张力障碍很少有心理原因。在这种类型的肌张力障碍，病理生理学还不清楚;然而，功能影像学结果提示脑功能改变。在许多情况下，情绪应激或信念的异常可作为触发因素。在这种情况下，一个多学科小组，其中包括神经学家，精神病学家，心理学家是必要的。
+
+【宫颈肌张力障碍的症状和体征】
+颈肌张力障碍任何年龄均可发病，常见于20～60岁，发病高峰是30～50岁 (1)。
+症状通常是缓慢出现；少数病例中，可突然发病，继而快速进展。有时起始症状为震颤，可旋转颈部（在无无手势）。
+颈部肌张力障碍的主要症状是
+胸锁乳突肌、斜方肌和其他颈肌的痛性强制性肌收缩或间歇性痉挛，通常发生在单侧，可导致头部姿势异常。
+胸锁乳突肌、斜方肌和其他颈肌的痛性强制性肌收缩或间歇性痉挛，通常发生在单侧，可导致头部姿势异常。
+一侧胸锁乳突肌收缩使头部转向对侧。旋转可以涉及任一平面但通常都在一个水平线上。除了旋转倾斜，头部还可以向一侧倾斜（侧向倾斜）、向前倾斜（前倾）或者向后倾斜（后仰，通常多巴胺阻断药物为病因）。类似地，在头型中，头部可以横向（laterocaput）、向前（anterocaput）或向后（retrocaput）倾斜。
+患者可能会发现某些感觉或触觉上的小技巧来改善肌张力障碍姿势或震颤（行为对抗）。触摸偏差对侧的面部就是一个例子。注意感觉技巧是否有效可以帮助临床医生区分病理生理性肌张力障碍和心因性肌张力障碍。这些技巧通常不会减轻心因性震颤。
+溢出或镜像的存在也表明可能存在病理生理学病因（例如，遗传、特发性、脑损伤）。溢出是指身体另一部分的不自主肌张力障碍运动，远离主要自主运动。在镜像中，当患者自愿移动身体受影响的一侧时，他们会不由自主地用身体的另一侧模仿该运动。
+睡眠中，肌肉痉挛消失。
+痉挛性斜颈的疾病程度分成轻度到重度。通常在1～5年内缓慢进展，然后进入平稳期。约有10%~15%的患者在发病后5年内自行康复或明显好转（通常发生在病情较轻、发病年龄较小的情况下）。然而，许多病情好转的患者症状会再次出现（2）。
+
+【症状和体征参考】
+1.Norris SA, Jinnah HA, Espay AJ, et al: Clinical and demographic characteristics related to onset site and spread of cervical dystonia.Mov Disord31 (12):1874–1882, 2016.doi: 10.1002/mds.26817
+1.Norris SA, Jinnah HA, Espay AJ, et al: Clinical and demographic characteristics related to onset site and spread of cervical dystonia.Mov Disord31 (12):1874–1882, 2016.doi: 10.1002/mds.26817
+2.Jahanshahi M , Marion MH , Marsden CD: Natural history of adult-onset idiopathic torticollis.Arch Neurol47 (5):548–552, 1990.https://doi.org/10.1001/archneur.1990.00530050070014
+2.Jahanshahi M , Marion MH , Marsden CD: Natural history of adult-onset idiopathic torticollis.Arch Neurol47 (5):548–552, 1990.https://doi.org/10.1001/archneur.1990.00530050070014
+
+【颈部肌张力障碍的诊断】
+临床评估
+临床评估
+颈肌张力障碍的诊断是基于其特征性的症状和体征，并排除其他可能的诊断，包括：
+迟发性运动障碍可引起斜颈，但通常可以通过长期使用抗精神病药物的历史和颈部以外肌肉的不自主运动来区分。
+迟发性运动障碍可引起斜颈，但通常可以通过长期使用抗精神病药物的历史和颈部以外肌肉的不自主运动来区分。
+中枢神经系统感染和基底节疾病偶发的中枢神经系统感染也可导致运动性疾病，但常累及其他肌肉； 中枢神经系统感染常为急性的，并伴有其他的症状。
+中枢神经系统感染和基底节疾病偶发的中枢神经系统感染也可导致运动性疾病，但常累及其他肌肉； 中枢神经系统感染常为急性的，并伴有其他的症状。
+颈部的感染或肿瘤也可以根据原发病程的特点而加以鉴别。
+颈部的感染或肿瘤也可以根据原发病程的特点而加以鉴别。
+抗精神类和其他药物导致的急性斜颈，症状多在数小时内出现，在停药后数天消失。
+抗精神类和其他药物导致的急性斜颈，症状多在数小时内出现，在停药后数天消失。
+先天性肌性斜颈（纤维瘤病）是由胸锁乳突肌中的良性肿瘤引起的。该肿瘤导致肌肉缩短和颈部倾斜，模仿颈部肌张力障碍。头部倾斜通常出现在婴儿期或儿童期，但也可能出现在成年期（1)。
+先天性肌性斜颈（纤维瘤病）是由胸锁乳突肌中的良性肿瘤引起的。该肿瘤导致肌肉缩短和颈部倾斜，模仿颈部肌张力障碍。头部倾斜通常出现在婴儿期或儿童期，但也可能出现在成年期（1)。
+基于对患者的观察，颈肌张力障碍（涉及控制颈椎的肌肉）通常可以与头型（涉及移动颅骨或头部关节的肌肉）区分开来。除了临床评估外，成像（CT 骨窗）仅对评估头部旋转有用。当一侧存在侧颈而另一侧存在侧翻时，总是会发生横向移位（2）。
+
+【诊断参考】
+1.Gonzalez-Usigli H, Espay AJ: A rare cervical dystonia mimic in adults: Congenital muscular torticollis (fibromatosis colli).Front Neurol4 (6), 2013.doi: 10.3389/fneur.2013.00006
+1.Gonzalez-Usigli H, Espay AJ: A rare cervical dystonia mimic in adults: Congenital muscular torticollis (fibromatosis colli).Front Neurol4 (6), 2013.doi: 10.3389/fneur.2013.00006
+2.Reichel G: Cervical dystonia: A new phenomenological classification for botulinum toxin therapy.Basal Ganglia1 (1): 5–12, 2011.
+2.Reichel G: Cervical dystonia: A new phenomenological classification for botulinum toxin therapy.Basal Ganglia1 (1): 5–12, 2011.
+
+【颈部肌张力障碍的治疗】
+物理治疗
+物理治疗
+有时可注射肉毒杆菌或口服药物
+有时可注射肉毒杆菌或口服药物
+痉挛有时可以通过物理治疗和按摩治疗，包括感觉生物反馈技术（例如，当头部旋转时在同侧或对侧给予轻微的触觉压力）和任何轻触摸。
+
+【Medications（药物应用史）】
+以肉毒杆菌A或B注射张力障碍的肌肉，能够使大约70％的患者在1～3个月的痛性痉挛减轻，使头部回到近正中的位置 (1,2)。然而，在少数情况下，当毒素重复注射时，它变得不太有效，因为体内产生毒素中和性抗体。
+口服药物通常可以缓解疼痛，但他们仅能抑制25-33%患者的肌张力障碍运动。这些药物包括
+抗胆碱能药物，如苯海索，但副作用可能会限制其使用
+抗胆碱能药物，如苯海索，但副作用可能会限制其使用
+苯二氮卓类药物（特别是氯硝西泮）
+苯二氮卓类药物（特别是氯硝西泮）
+卡马西平
+卡马西平
+所有药物都应从低剂量开始（如苯海索2~2.5mg 口服，每日1次）。所有药物都应逐渐加量，直至症状得到控制或无法耐受药物副作用为止（尤其是在老年患者）。在老年患者中，可以开始每天口服 1 毫克苯海索。
+涉及脑外区域的外科手术是有争议的；一个例子是选择性切断受影响颈部肌肉的神经，使其永久减弱或瘫痪的手术。在有经验的医疗中心，此种手术的效果还是喜人的。
+如果遗传性全身性肌张力障碍、药物难治性肌张力障碍或原发性局灶性肌张力障碍严重，则深部脑刺激(DBS)是成功控制肌张力障碍特征的合理选择 (3)。该手术针对调节肌张力障碍的基底神经节区域，尤其是内侧苍白球。
+
+【治疗参考文献】
+1.Dressler D, Altenmueller E, Bhidayasiri R, et al: Strategies for treatment of dystonia.J Neural Transm (Vienna)123(3):251–258, 2016.doi: 10.1007/s00702-015-1453-x
+1.Dressler D, Altenmueller E, Bhidayasiri R, et al: Strategies for treatment of dystonia.J Neural Transm (Vienna)123(3):251–258, 2016.doi: 10.1007/s00702-015-1453-x
+2.Albanese A, Asmus F, Bhatia K, et al: EFNS guidelines on diagnosis and treatment of primary dystonias.Eur J Neurol18 (1):5–18, 2011.doi: 10.1111/j.1468-1331.2010.03042.x
+2.Albanese A, Asmus F, Bhatia K, et al: EFNS guidelines on diagnosis and treatment of primary dystonias.Eur J Neurol18 (1):5–18, 2011.doi: 10.1111/j.1468-1331.2010.03042.x
+3.Volkmann J, Mueller J, Deuschl G, et al: Pallidal neurostimulation in patients with medication-refractory cervical dystonia: a randomised, sham-controlled trial.Lancet Neurol3 (9):875–884, 2014.doi: 10.1016/S1474-4422(14)70143-7
+3.Volkmann J, Mueller J, Deuschl G, et al: Pallidal neurostimulation in patients with medication-refractory cervical dystonia: a randomised, sham-controlled trial.Lancet Neurol3 (9):875–884, 2014.doi: 10.1016/S1474-4422(14)70143-7
+痉挛性斜颈通常成人发病，且多是特发性的。
+痉挛性斜颈通常成人发病，且多是特发性的。
+诊断是临床性的，需排除迟发性运动障碍、基底节疾病、中枢神经系统感染、颈部感染和肿瘤以及药物。
+诊断是临床性的，需排除迟发性运动障碍、基底节疾病、中枢神经系统感染、颈部感染和肿瘤以及药物。
+通常采取物理治疗，肉毒杆菌毒素注射，和/或口服药物。
+通常采取物理治疗，肉毒杆菌毒素注射，和/或口服药物。

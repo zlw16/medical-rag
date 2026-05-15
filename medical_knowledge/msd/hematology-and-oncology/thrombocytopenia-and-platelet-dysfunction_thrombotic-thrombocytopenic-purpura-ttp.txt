@@ -1,0 +1,101 @@
+标题：血栓性血小板减少性紫癜（TTP）
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/thrombocytopenia-and-platelet-dysfunction/thrombotic-thrombocytopenic-purpura-ttp
+============================================================
+
+(参见于血小板疾病的概述。）
+TTP 是一种血栓性微血管病（TMA）由严重ADAMTS13缺乏症，可能是免疫介导的或遗传的。TMA 的另一种常见形式是溶血尿毒症综合征（HUS），与产生志贺毒素的细菌感染或补体系统异常有关。
+
+【TTP的病理生理】
+血栓性血小板减少性紫癜（类似于溶血性尿毒症综合征[HUS]）涉及非免疫性血小板破坏。内皮损伤很常见。松散的血小板或纤维蛋白沉积于众多的小血管内，损伤流过的血小板和红细胞，引起明显的血小板减少和贫血（微血管病性溶血性贫血）。许多小血栓也会消耗血小板，导致血小板减少。
+多脏器形成的血小板-血管性血友病因子（VWF）血栓主要局限于小动脉毛细血管交接处，称为血栓性微血管病。极易累及大脑、胃肠道和肾脏。尽管活检（如果完成）经常出现肾脏受累，但与HUS不同，严重的急性肾损伤很少见。微血栓不包括红细胞或纤维蛋白（与弥散性血管内凝血中的血栓不同），也不表现出血管炎的血管壁粒细胞浸润特征 )。 大血管血栓少见。
+
+【TTP的病因】
+血栓性血小板减少性紫癜 是由
+先天性或获得性血浆ADAMTS13酶活动不足
+先天性或获得性血浆ADAMTS13酶活动不足
+ADAMTS13酶是一种血浆蛋白*酶，可将von Willebrand因子裂解成较小的片段，从而消除异常大的VWF多聚体，否则这些多聚体会积聚在内皮细胞上，从而导致血小板血栓形成。ADAMTS13活性通常必须<正常水平的10％，才会表现为血栓性血小板减少性紫癜(TTP)。其他促血栓形成因素可能也需要存在。
+大多数病例是获得性的，涉及抗ADAMTS13自身抗体的产生。罕见遗传性病例（Upshaw-Schulman综合征），包括ADAMTS13基因的常染色体隐性突变。
+在许多获得性病例中，自身抗体产生的原因尚不清楚。已知的风险因素包括（1）
+使用去氨加压素
+使用去氨加压素
+妊娠（TTP与重度子痫前期或子痫通常难以区分）
+妊娠（TTP与重度子痫前期或子痫通常难以区分）
+根据美国的队列数据，黑人患 TTP 的风险也可能较高，美国报告的风险高出 7 倍（1）。
+
+【病因参考文献】
+1.Reese JA, Muthurajah DS, Kremer Hovinga JA, Vesely SK, Terrell DR, George JN.Children and adults with thrombotic thrombocytopenic purpura associated with severe, acquiredAdamts13deficiency: comparison of incidence, demographic and clinical features.Pediatr Blood Cancer2013;60(10):1676-1682.doi:10.1002/pbc.24612
+1.Reese JA, Muthurajah DS, Kremer Hovinga JA, Vesely SK, Terrell DR, George JN.Children and adults with thrombotic thrombocytopenic purpura associated with severe, acquiredAdamts13deficiency: comparison of incidence, demographic and clinical features.Pediatr Blood Cancer2013;60(10):1676-1682.doi:10.1002/pbc.24612
+
+【TTP的症状和体征】
+遗传病例通常表现在婴儿期和儿童早期。获得性病例通常发生在成年人中。
+最初的症状可能较轻微并逐渐发展，或者出现急性和严重的症状。 如果不进行治疗，疾病就会进展，并且通常是致命的。
+贫血通常会导致虚弱和疲劳。
+血小板减少症通常会引起紫癜或出血。
+许多脏器缺血的表现严重程度不一。这些症状包括虚弱、神志模糊、癫痫和/或昏迷、腹痛、恶心、呕吐、腹泻以及心肌受损所致的心律失常。很少出现发热。
+血栓性血小板减少性紫癜和溶血性尿毒症综合征(HUS)的症状和体征无法区分，只是HUS的神经系统症状较少见，而HUS的肾衰竭较常见。
+
+【TTP的诊断】
+全血细胞计数 (CBC)，包括血小板、外周血涂片、网织红细胞计数、直接抗球蛋白（Coombs）试验、乳酸脱氢酶 (LDH)、凝血酶原时间 (PT)、部分凝血活酶时间 (PTT)、纤维蛋白原、结合珠蛋白和血清胆红素 (直接和间接）
+全血细胞计数 (CBC)，包括血小板、外周血涂片、网织红细胞计数、直接抗球蛋白（Coombs）试验、乳酸脱氢酶 (LDH)、凝血酶原时间 (PT)、部分凝血活酶时间 (PTT)、纤维蛋白原、结合珠蛋白和血清胆红素 (直接和间接）
+尿液分析和肾功能检查
+尿液分析和肾功能检查
+ADAMTS13活性和自身抗体水平
+ADAMTS13活性和自身抗体水平
+除外其他血小板减少性疾病
+除外其他血小板减少性疾病
+伴有提示性症状、血小板减少和贫血的患者，应怀疑血栓性血小板减少性紫癜。如果怀疑该病，需要进行尿液分析、肾功能检测、全血细胞计数、外周血涂片、网织红细胞计数、血清LDH、触珠蛋白、ADAMTS13活性和自身抗体(抑制剂)检测、血清胆红素（直接和间接胆红素）和直接抗人球蛋白试验。
+尽早识别对于尽快开始治疗很重要。如果血栓性血小板减少性紫癜（TTP）的其他表现（临床症状，血小板减少，LDH升高，外周血涂片检查）与诊断相符，则可能需要在进行确证性ADAMTS13检测前对疑似病例开始治疗。
+诊断TTP的依据是
+血小板减少和贫血
+血小板减少和贫血
+外周血涂片可见破碎红细胞提示微血管病性溶血（裂细胞：头盔状细胞、三角形红细胞、扭曲状红细胞-见图片碎裂细胞）。
+外周血涂片可见破碎红细胞提示微血管病性溶血（裂细胞：头盔状细胞、三角形红细胞、扭曲状红细胞-见图片碎裂细胞）。
+溶血的证据（血红蛋白水平降低、幼红细胞增多、网织细胞数增多、血清乳酸脱氢酶水平增高、珠蛋白水平下降）
+溶血的证据（血红蛋白水平降低、幼红细胞增多、网织细胞数增多、血清乳酸脱氢酶水平增高、珠蛋白水平下降）
+直接抗人球蛋白试验阴性
+直接抗人球蛋白试验阴性
+凝血功能正常
+凝血功能正常
+PLASMIC 评分可以帮助提供 TTP 的预检测概率并帮助指导治疗决策（1）。
+怀疑TTP的所有患者，适合进行ADAMTS13活性和自身抗体检测。虽然初始治疗不必等到ADAMTS13检测结果出炉，但结果对于后续治疗有重要的指导意义。ADAMTS13水平<10%且存在抗ADAMTS13抗体是大多数TTP患者的特征，并且这些患者对血浆置换和免疫抑制可产生应答(糖皮质激素和利妥昔单抗)。
+ADAMTS13≥10％水平且无抗ADAMTS13抗体的患者，可能对血浆置换和免疫抑制治疗无效，因此应评估其他导致贫血和血小板减少症的原因，包括弥散性血管内凝血、败血症、隐匿性癌症伴高凝和移行性血栓性静脉炎（Trousseau综合征）、子痫前期、系统性硬化、系统性红斑狼疮、进展性高血压和急性肾移植排斥反应。另一种可能性是药物引起的血栓性微血管病（由奎宁、环孢菌素、他克莫司和癌症化疗药物[例如丝裂霉素C、吉西他滨]等药物引发。（这些患者的ADAMTS 13水平正常，对血浆置换、皮质类固醇或补体抑制没有反应。）
+罕见的患者可能具有较低的ADAMTS13水平，并且没有自身抗体；这类患者应接受ADAMTS13基因检测以明确先天性Upshaw Schulman综合征，因为他们只需要输注血浆而无需免疫抑制治疗。儿童或怀孕期间发作，反复发作，家族病史阳性或其他临床怀疑的患者，也应进行基因检测。
+其他不能解释的血小板减少和微血管病性溶血性贫血是初步诊断的充分证据。
+
+【诊断参考文献】
+1.Bendapudi PK, Hurwitz S, Fry A, et al.Derivation and external validation of the PLASMIC score for rapid assessment of adults with thrombotic microangiopathies: a cohort study.Lancet Haematol2017;4(4):e157-e164.doi:10.1016/S2352-3026(17)30026-1
+1.Bendapudi PK, Hurwitz S, Fry A, et al.Derivation and external validation of the PLASMIC score for rapid assessment of adults with thrombotic microangiopathies: a cohort study.Lancet Haematol2017;4(4):e157-e164.doi:10.1016/S2352-3026(17)30026-1
+
+【TTP的治疗】
+血浆置换
+血浆置换
+皮质类固醇激素和利妥昔单抗
+皮质类固醇激素和利妥昔单抗
+Caplacizumab（很少）
+Caplacizumab（很少）
+未经治疗的血栓性血小板减少性紫癜几乎总是致命的。然而，血浆置换疗法可使>91%患者完全恢复 (1)。紧急开始血浆置换并每天进行，持续数天或数周，直到有证据表明疾病活动已经消退，如血小板计数和LDH水平正常所示 (2)。 患有血栓性血小板减少性紫癜 (TTP) 的成人也经常服用皮质类固醇和利妥昔单抗。
+
+【经验与提示】
+经验与提示
+对于出现不明原因的血小板减少症和微血管病性溶血性贫血的患者，应怀疑为 TTP 并紧急开始血浆置换。
+对于出现不明原因的血小板减少症和微血管病性溶血性贫血的患者，应怀疑为 TTP 并紧急开始血浆置换。
+Caplacizumab是一种人源化的抗von Willebrand因子的单可变域免疫球蛋白（纳米抗体），可抑制异常大的von Willebrand因子多聚体与血小板之间的相互作用。Caplacizumab似乎可以加快缓解血小板减少症，但可能会增加出血倾向。虽然它可以减少血浆交换的需求，但单独使用很少使疾病缓解; 其在TTP治疗中的作用是许多争论的主题，但仍不清楚。国际血栓与止血学会 (ISTH) 有条件地建议使用卡普拉珠单抗（3）。然而，最近的分析报告对使用卡普利珠单抗提出了诸多异议，其异议主要基于该疗法显著增加了成本且可能增加出血风险（4）。
+大多数患者仅会经历一次TTP发作。然而，约40％的患者可因ADAMTS13自身抗体抑制剂引起的严重的ADAMTS13活性缺陷而出现复发。在血浆置换停止后复发或复发的患者中，利妥昔单抗等强度更大的免疫抑制治疗可能有效。如果有复发的迹象，需立即重新对患者进行评估。
+
+【治疗参考文献】
+1.Bell WR, Braine HG, Ness PM, Kickler TS.Improved survival in thrombotic thrombocytopenic purpura-hemolytic uremic syndrome.Clinical experience in 108 patients.N Engl J Med1991;325(6):398-403.doi:10.1056/NEJM199108083250605
+1.Bell WR, Braine HG, Ness PM, Kickler TS.Improved survival in thrombotic thrombocytopenic purpura-hemolytic uremic syndrome.Clinical experience in 108 patients.N Engl J Med1991;325(6):398-403.doi:10.1056/NEJM199108083250605
+2.Zheng XL, Vesely SK, Cataland SR, et al.Good practice statements (GPS) for the clinical care of patients with thrombotic thrombocytopenic purpura.J Thromb Haemost2020;18(10):2503-2512.doi:10.1111/jth.15009
+2.Zheng XL, Vesely SK, Cataland SR, et al.Good practice statements (GPS) for the clinical care of patients with thrombotic thrombocytopenic purpura.J Thromb Haemost2020;18(10):2503-2512.doi:10.1111/jth.15009
+3.Zheng XL, Vesely SK, Cataland SR, et al.ISTH guidelines for treatment of thrombotic thrombocytopenic purpura.J Thromb Haemost2020;18(10):2496-2502.doi:10.1111/jth.15010
+3.Zheng XL, Vesely SK, Cataland SR, et al.ISTH guidelines for treatment of thrombotic thrombocytopenic purpura.J Thromb Haemost2020;18(10):2496-2502.doi:10.1111/jth.15010
+4.Goshua G, Sinha P, Hendrickson JE, Tormey C, Bendapudi PK, Lee AI.Cost effectiveness ofcaplacizumabin acquired thrombotic thrombocytopenic purpura.Blood2021;137(7):969-976.doi:10.1182/blood.2020006052
+4.Goshua G, Sinha P, Hendrickson JE, Tormey C, Bendapudi PK, Lee AI.Cost effectiveness ofcaplacizumabin acquired thrombotic thrombocytopenic purpura.Blood2021;137(7):969-976.doi:10.1182/blood.2020006052
+血小板和红细胞被微血管血栓非免疫性破坏，导致血小板减少、贫血和器官缺血。
+血小板和红细胞被微血管血栓非免疫性破坏，导致血小板减少、贫血和器官缺血。
+原因是ADAMTS13蛋白酶活性不足，这通常由获得性的自身抗体引起，很少是由于遗传基因突变所致。
+原因是ADAMTS13蛋白酶活性不足，这通常由获得性的自身抗体引起，很少是由于遗传基因突变所致。
+未经治疗的血栓性血小板减少性紫癜通常是致命的。
+未经治疗的血栓性血小板减少性紫癜通常是致命的。
+及时采取血浆置换及皮质类固醇激素和利妥昔单抗治疗，可使存活率大于85％。
+及时采取血浆置换及皮质类固醇激素和利妥昔单抗治疗，可使存活率大于85％。

@@ -1,0 +1,33 @@
+标题：测压术
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/diagnostic-and-therapeutic-gastrointestinal-procedures/manometry
+============================================================
+
+测压指在消化道不同部位进行压力检测。
+测压是通过将装有固态或充满液体的压力传感器的导管通过口腔或肛门插入到待研究器官腔内来完成的。该检查通常用于评估其他检查已排除结构性病变的患者的动力障碍。可进行食管、胃、十二指肠、Oddi括约肌及直肠测压。
+除轻微不适外，并发症极为罕见。术前患者需午夜后禁食。
+阻抗面积测量可作为测压检查的补充，提供更多信息。
+
+【肛门直肠测压】
+该检查中，将压力传感器置于肛门内，用于评估失禁或便秘患者的肛肠括约肌机制与直肠感觉功能。有助诊断先天性巨结肠病和排便障碍疾病，并为大便失禁提供生物反馈训练（1）。
+在测试过程中，将气压计球囊充气，以此评估直肠感觉和调节功能。气囊排出测试通常与肛门直肠测压一起完成，可以对排便功能进行客观评估。
+
+【肛门直肠测压参考】
+1.Wald A, Bharucha AE, Cosman BC, Whitehead WE.ACG clinical guideline: management of benign anorectal disorders.Am J Gastroenterol.2014;109(8):1141-1058.doi:10.1038/ajg.2014.190
+1.Wald A, Bharucha AE, Cosman BC, Whitehead WE.ACG clinical guideline: management of benign anorectal disorders.Am J Gastroenterol.2014;109(8):1141-1058.doi:10.1038/ajg.2014.190
+这是一种压力感应装置，放置在胃肠道中以测量调节作用。装置由一个塑料气囊及电子控制器组成，可改变球囊中空气量以保持压力恒定。
+该仪器主要用于科研，可用于测定感觉阈值及内脏感觉改变，尤其适用于功能性胃肠道疾病。
+
+【食管测压】
+检查适用于吞咽困难、烧心、反流或胸痛患者。可测定食管上、下括约肌压力，明确食管推进的有效性及协调性，判断是否有异常收缩。
+食管测压可用于诊断食管动力性疾病，包括：贲门失弛缓症、远端痉挛、系统性硬化,及食管下括约肌压力过低或过高。它也用于特定治疗操作（如抗反流手术、贲门失弛缓症气囊扩张术）前，评估食管功能与解剖结构（如食管裂孔疝）。
+高分辨率测压可联合阻抗平面测量，在吞咽测试期间同步评估食团通过食管的过程 (1,2)。
+
+【食管测压参考】
+1.Gyawali CP, Carlson DA, Chen JW, et al.ACG clinical guidelines: Clinical use of esophageal physiologic testing.Am J Gastroenterol.115(9):1412–1428, 2020.doi: 10.14309/ajg.0000000000000734
+1.Gyawali CP, Carlson DA, Chen JW, et al.ACG clinical guidelines: Clinical use of esophageal physiologic testing.Am J Gastroenterol.115(9):1412–1428, 2020.doi: 10.14309/ajg.0000000000000734
+2.Hirano I, Pandolfino JE, Boeckxstaens GE.Functional lumen imaging probe for the management of esophageal disorders: Expert review from the clinical practice updates committee of the AGA Institute.Clin Gastroenterol Hepatol.15(3):325–334, 2017.doi: 10.1016/j.cgh.2016.10.022
+2.Hirano I, Pandolfino JE, Boeckxstaens GE.Functional lumen imaging probe for the management of esophageal disorders: Expert review from the clinical practice updates committee of the AGA Institute.Clin Gastroenterol Hepatol.15(3):325–334, 2017.doi: 10.1016/j.cgh.2016.10.022
+
+【胃十二指肠测压】
+进行测压时，将传感器置于胃窦、十二指肠及近端空肠。监测5 ～ 24小时，以检查空腹及进餐时压力。
+该检查适用于有动力障碍症状，但胃排空试验正常或治疗后无改善者。可确定患者症状或动力障碍是否由肌肉疾病（收缩幅度异常，而形式正常）或神经疾病（不规则收缩，而幅度正常）所致。

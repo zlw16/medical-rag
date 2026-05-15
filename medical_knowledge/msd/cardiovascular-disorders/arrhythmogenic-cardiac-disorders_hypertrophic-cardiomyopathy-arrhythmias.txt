@@ -1,0 +1,69 @@
+标题：肥厚性心肌病心律失常
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/hypertrophic-cardiomyopathy-arrhythmias
+============================================================
+
+(参见致心律失常性心肌病概述和心律失常概述。)
+肥厚型心肌病在手册的其他地方进行了概述。本专题重点关注其心律失常特征。
+肥厚性心肌病是一种先天性或后天性疾病，其特征为在没有增加后负荷的情况下（例如，不是由于主动脉瓣狭窄、主动脉缩窄、系统性高血压）出现显著的心室肥厚伴有舒张功能障碍。
+遗传性肥厚型心肌病是一种常见的 (1/500) 心脏疾病 (1)，通常为常染色体显性遗传，渗透率不确定。潜在的病因是1500多个报道的肌节肌丝蛋白编码基因突变之一。40% 至 60% 的肥厚型心肌病患者的基因检测呈阳性（2）。
+表型非常多样，但通常以左心室肥厚（LVH）为特征，通常伴有左心室流出道阻塞、房性快速性心律失常、室性快速性心律失常、猝死和终末期扩张型心肌病（3）。左心室肥厚通常是不对称的，其中前隔膜和前游离壁比后壁肥大得多。然而，同心性左心室肥大或孤立性左心室心尖肥大的亚型是公认的。心脏功能受损是因为肥厚会导致左心室僵硬、顺应性降低，抵抗舒张期充盈，使舒张末期压力升高，从而增加肺静脉压力。由于灌注阻力增加，心排血量降低，任何流出道压力阶差的出现均会使病情恶化。由于心动过速时，心室充盈时间减少，所以在运动时或是快速性心律失常时更易出现临床症状（或恶化）。 (另见射血分数保留型心力衰竭。)
+就心律失常而言，肥大与肌原纤维紊乱、微血管病变、微血管功能不全、缺血和心肌瘢痕形成有关，所有这些都容易导致室性快速性心律失常和猝死。房颤也很常见，由于快速心室率加重了室壁舒张功能障碍，可能尤其难以耐受。
+症状和体征通常是劳力性的，包括呼吸困难、胸痛（通常类似于典型的心绞痛）、心悸和晕厥。晕厥可能是由心律失常或流出道阻塞引起的。
+
+【一般参考文献】
+1.McKenna WJ, Judge DP: Epidemiology of the inherited cardiomyopathies.Nat Rev Cardiol18(1):22–36, 2021.doi:10.1038/s41569-020-0428-2
+1.McKenna WJ, Judge DP: Epidemiology of the inherited cardiomyopathies.Nat Rev Cardiol18(1):22–36, 2021.doi:10.1038/s41569-020-0428-2
+2.Girolami F, Gozzini A, Pálinkás ED, et al: Genetic Testing and Counselling in Hypertrophic Cardiomyopathy: Frequently Asked Questions.J Clin Med12(7):2489, 2023.doi:10.3390/jcm12072489
+2.Girolami F, Gozzini A, Pálinkás ED, et al: Genetic Testing and Counselling in Hypertrophic Cardiomyopathy: Frequently Asked Questions.J Clin Med12(7):2489, 2023.doi:10.3390/jcm12072489
+3.Ottaviani A, Mansour D, Molinari LV, et al: Revisiting Diagnosis and Treatment of Hypertrophic Cardiomyopathy: Current Practice and Novel Perspectives.J Clin Med12(17):5710, 2023.doi: 10.3390/jcm12175710.
+3.Ottaviani A, Mansour D, Molinari LV, et al: Revisiting Diagnosis and Treatment of Hypertrophic Cardiomyopathy: Current Practice and Novel Perspectives.J Clin Med12(17):5710, 2023.doi: 10.3390/jcm12175710.
+
+【肥厚型心肌病心律失常的诊断】
+心电图、超声心动图，通常还有心脏MRI
+心电图、超声心动图，通常还有心脏MRI
+通常进行动态心电监测
+通常进行动态心电监测
+基因检测
+基因检测
+对一级亲属进行筛查
+对一级亲属进行筛查
+心电图显示左心室肥大和体格检查的特征性临床结果提示诊断为肥厚性心肌病。诊断通过心脏影像学证实，通常是经胸超声心动图，显示左心室肥厚，特别是不对称的左心室肥厚。如果需要，可以使用钆进行心脏磁共振检查以确立诊断，或在需要时量化左心室瘢痕以进一步评估心源性猝死的风险。
+心律失常评估通常包括动态心电监测和运动试验。
+患者还应定期（如每年）进行临床随访，包括心电图、超声心动图、动态心律监测和运动测试。
+虽然基因检测的敏感性较低，但仍建议对家庭成员进行级联筛查。然而，遗传学发现是否可以预测未来危及生命的心律失常仍不清楚。家庭成员还应进行临床评估（即检测提示心律失常和/或心力衰竭的症状）、心电图和超声心动图检查。
+肥厚性心肌病的诊断包括考虑和排除产生类似心脏表现（表型相似）的其他疾病，包括高血压性心脏病、运动员心脏、心脏淀粉样变性和安德森-法布里病（1）。
+
+【诊断参考文献】
+1.Ottaviani A, Mansour D, Molinari LV, et al.Revisiting Diagnosis and Treatment of Hypertrophic Cardiomyopathy: Current Practice and Novel Perspectives.J Clin Med12(17):5710, 2023.doi: 10.3390/jcm12175710.
+1.Ottaviani A, Mansour D, Molinari LV, et al.Revisiting Diagnosis and Treatment of Hypertrophic Cardiomyopathy: Current Practice and Novel Perspectives.J Clin Med12(17):5710, 2023.doi: 10.3390/jcm12175710.
+
+【肥厚型心肌病心律失常的治疗】
+适度的体力活动
+适度的体力活动
+对于心房颤动，采用抗心律失常药物治疗和抗凝治疗以预防卒中
+对于心房颤动，采用抗心律失常药物治疗和抗凝治疗以预防卒中
+对于室性心律失常，通常使用植入式心律转复除颤器（ICD）
+对于室性心律失常，通常使用植入式心律转复除颤器（ICD）
+根据需要进行心力衰竭治疗（包括移植）
+根据需要进行心力衰竭治疗（包括移植）
+按需进行流出道梗阻治疗（通常使用β受体阻滞剂，但有时也使用室间隔心肌切除术、室间隔酒精消融术或心脏肌球蛋白抑制剂治疗）
+按需进行流出道梗阻治疗（通常使用β受体阻滞剂，但有时也使用室间隔心肌切除术、室间隔酒精消融术或心脏肌球蛋白抑制剂治疗）
+肥厚型心肌病患者通常被建议避免运动，因为这些活动会导致危及生命的心律失常，并可能加速疾病进展。然而，目前的指南建议，在接受全面评估并与肥厚型心肌病专家进行充分讨论潜在风险后（并理解个体运动风险无法精确预测[1]），患者可以继续进行休闲运动活动。
+肥厚型心肌病的治疗的标准措施包括β受体阻滞剂和限制心率的钙通道阻滞剂。偶尔使用右心室起搏来治疗流出道阻塞，目的是故意诱导心室间不同步。对于已经发展为扩张型心肌病的患者，可能需要进行心脏再同步起搏治疗。
+对于房性快速性心律失常，采用标准治疗：使用负性传导药物（通常是β-受体阻滞剂）进行心率控制、节律控制（通常使用胺碘酮）以及降低血栓栓塞风险（通常使用华法林或直接口服抗凝剂）。
+对于室性心律失常，预防猝死的方法是使用植入式心律转复除颤器(ICD)，建议用于左室射血分数≤35%的扩张型心肌病患者以及持续性室性心动过速/心室颤动或心脏骤停复苏后的患者。由于肥厚型心肌病患者发生猝死的风险较高，指南还指出，植入式心律转复除颤器对具有以下一种或多种情况的患者有用：近亲在年龄≤50岁时发生心源性猝死、左心室壁厚≥30毫米、考虑由心律失常引起的晕厥、左心室心尖动脉瘤或左心室射血分数<50%（IIa类推荐），并且可考虑用于心脏MRI上有广泛晚期钆增强（LGE）（心室瘢痕的标志）或有记录的非持续性室性心动过速的患者。（IIb 类建议）（1）（见表植入式心脏复律除颤器的适应症）。抗心律失常药物，通常是胺碘酮，用于控制经常复发的室性快速心律失常，导致频繁的ICD干预，特别是ICD电击。也可采用经导管消融术治疗心律失常因素（1）。
+流出道梗阻也可通过β受体阻滞剂和有时室间隔缩小疗法（手术或酒精消融）或使用马瓦卡姆滕抑制心肌球蛋白腺苷三磷酸酶来缓解。
+
+【治疗参考文献】
+1.Ommen SR, Mital S, Burke MA, et al: 2020 AHA/ACC Guideline for the Diagnosis and Treatment of Patients With Hypertrophic Cardiomyopathy A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation142(25):e533–e557, 2020.doi: 10.1161/CIR.0000000000000937
+1.Ommen SR, Mital S, Burke MA, et al: 2020 AHA/ACC Guideline for the Diagnosis and Treatment of Patients With Hypertrophic Cardiomyopathy A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation142(25):e533–e557, 2020.doi: 10.1161/CIR.0000000000000937
+肥厚型心肌病是致心律失常的，易患心房和/或心室快速性心律失常和猝死。
+肥厚型心肌病是致心律失常的，易患心房和/或心室快速性心律失常和猝死。
+可能是遗传的或后天获得的。
+可能是遗传的或后天获得的。
+通过心电图、超声心动图，通常还有心脏MRI进行诊断。
+通过心电图、超声心动图，通常还有心脏MRI进行诊断。
+心房快速性心律失常用药物治疗，心室心律失常用植入式心律转复除颤器（ICD）治疗。
+心房快速性心律失常用药物治疗，心室心律失常用植入式心律转复除颤器（ICD）治疗。
+如果进行适当评估并做出共同决策，那么不再严格禁止进行锻炼。
+如果进行适当评估并做出共同决策，那么不再严格禁止进行锻炼。

@@ -1,0 +1,76 @@
+标题：非紧缩型心肌病
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/non-compaction-cardiomyopathy
+============================================================
+
+（参见致心律失常性心肌病概述和心律失常概述。）
+非致密性心肌病是一种罕见的 心肌病，由胚胎心室心肌致密过程失败引起，因此心室心肌由正常致密心肌的外层和保留胚胎特征的内部非致密层组成 (1)。内层是海绵状的，有明显的小梁，有深的小梁间凹陷，通常在左心室心尖最突出，然后在左心室的其他地方，在右心室最不常见。尽管可能有获得性病例，但大多数病例是由编码肌节蛋白、细胞骨架蛋白或线粒体蛋白的基因遗传突变引起的。遗传病例最常见的是常染色体显性遗传或X染色体连锁。
+在心肌致密化不全中，不规则的心肌结构和相关的微血管异常导致心肌纤维化。纤维化易导致收缩性和舒张性心力衰竭以及室性快速性心律失常、心脏骤停和猝死。深的小梁间凹陷产生易于发生血栓栓塞事件的血流停滞区域，包括脑卒中。一些类型还与房性快速性心律失常（如心房颤动、WPW综合征）、传导系统阻滞、早期复极化、长QT间期综合征、其他先天性心脏病或骨骼肌营养不良症相关。
+
+【参考文献】
+1.Filho DCS, do Rêgo Aquino PL, et al: Left Ventricular Noncompaction: New Insights into a Poorly Understood Disease.Curr Cardiol Rev.2021;17(2):209-216.doi: 10.2174/1573403X16666200716151015
+1.Filho DCS, do Rêgo Aquino PL, et al: Left Ventricular Noncompaction: New Insights into a Poorly Understood Disease.Curr Cardiol Rev.2021;17(2):209-216.doi: 10.2174/1573403X16666200716151015
+
+【心肌致密化不全病的症状和体征】
+患者可能没有症状。
+最初的症状通常是心力衰竭（如运动性呼吸困难、疲劳、外周水肿），尽管一些患者表现出心脏传导阻滞和/或心律失常的症状，包括心悸和/或晕厥，有时还会出现心脏骤停。室性快速性心律失常可能由运动引起。
+
+【心肌致密化不全病的诊断】
+心脏成像（如超声心动图、晚期钆增强的磁共振成像）
+心脏成像（如超声心动图、晚期钆增强的磁共振成像）
+基因检测
+基因检测
+一级亲属筛查
+一级亲属筛查
+在有心律失常或传导障碍表现的患者中，如果标准评估（如超声心动图）显示心室壁异常，包括肥大、不同层和深小梁，则怀疑诊断为非致密性心肌病。然而，通常很难区分心肌致密化不全病的影像学征象与正常变异，特别是在患有生理性或病理性左心室肥大的患者、患有其他心肌病的患者和妊娠患者中。通常还会进行晚期钆增强心脏 MRI 检查，其敏感性更高。
+每种成像技术都使用测量截止标准来增强辨别能力。有几种不同的共识标准（例如，通过超声心动图[1，2] 或通过 MRI [3]) 已被开发来促进诊断。患有严重心肌纤维化的患者预后较差。
+心电图和动态心律监测用于评估当前的心律状态，并每年重复一次，以指导抗心律失常药物或设备治疗。
+发现该疾病的患者应进行基因检测。
+患者的一级家庭成员应进行临床评估（即检测提示心律失常和/或心力衰竭的症状）、心电图和超声心动图，并每1至3年重复一次。如果指示病例发现突变，则进行基因检测。非该突变携带者的家庭成员不需要进行持续的检测。
+
+【诊断参考】
+1.Chin TK, Perloff JK, Williams RG, et al: Isolated noncompaction of left ventricular myocardium.A study of eight cases.Circulation82(2):507–513, 1990.doi:10.1161/01.cir.82.2.507
+1.Chin TK, Perloff JK, Williams RG, et al: Isolated noncompaction of left ventricular myocardium.A study of eight cases.Circulation82(2):507–513, 1990.doi:10.1161/01.cir.82.2.507
+2.Jenni R, Oechslin E, Schneider J, et al: Echocardiographic and pathoanatomical characteristics of isolated left ventricular non-compaction: a step towards classification as a distinct cardiomyopathy.Heart86(6):666–671, 2001.doi: 10.1136/heart.86.6.666
+2.Jenni R, Oechslin E, Schneider J, et al: Echocardiographic and pathoanatomical characteristics of isolated left ventricular non-compaction: a step towards classification as a distinct cardiomyopathy.Heart86(6):666–671, 2001.doi: 10.1136/heart.86.6.666
+3.Petersen SE, Selvanayagam JB, Wiesmann F, et al: Left ventricular non-compaction: Insights from cardiovascular magnetic resonance imaging.J Am Coll Cardiol46(1);101–105, 2005.doi 10.1016/j.jacc.2005.03.045
+3.Petersen SE, Selvanayagam JB, Wiesmann F, et al: Left ventricular non-compaction: Insights from cardiovascular magnetic resonance imaging.J Am Coll Cardiol46(1);101–105, 2005.doi 10.1016/j.jacc.2005.03.045
+
+【心肌致密化不全病的治疗】
+适度的体力活动
+适度的体力活动
+有时使用植入式心律转复除颤器 (ICD)
+有时使用植入式心律转复除颤器 (ICD)
+通常使用beta-受体阻滞剂
+通常使用beta-受体阻滞剂
+有时也会使用其他抗心律失常药物（尤其是索他洛尔或胺碘酮）
+有时也会使用其他抗心律失常药物（尤其是索他洛尔或胺碘酮）
+必要时采用心力衰竭治疗（包括移植）
+必要时采用心力衰竭治疗（包括移植）
+有时需要长期抗凝
+有时需要长期抗凝
+患有心肌致密化不全病的患者应避免剧烈运动，因为这些活动会诱发危及生命的心律失常。
+植入型心律转复除颤器可预防猝死（另见表格植入型心律转复除颤器的适应症）。建议符合以下条件的患者使用植入型心律转复除颤器：(1)
+既往室性心动过速并伴有晕厥
+既往室性心动过速并伴有晕厥
+心脏骤停复苏
+心脏骤停复苏
+严重左心室收缩功能障碍（左心室射血分数<35%）
+严重左心室收缩功能障碍（左心室射血分数<35%）
+对于患有核纤层蛋白A/C型心肌病且符合以下条件的患者，植入植入型心律转复除颤器也可能有益（IIa类推荐）：(1)
+非持续性室性心动过速和左心室射血分数降低
+非持续性室性心动过速和左心室射血分数降低
+β-受体阻滞剂和其他抗心律失常药物用于治疗突发的快速心律失常。
+抗凝治疗适用于符合标准的房颤或中风患者（另见表格CHA2DS2-VASc 评分）。心律学会最近的共识声明（1) 表示对于有心室功能障碍和/或小梁内血栓证据的患者，抗血栓治疗也可能有用（IIa 类建议）。
+治疗心力衰竭的标准措施（另见扩张型心肌病的治疗)。
+
+【治疗参考文献】
+1.Towbin, JA, McKenna WJ, Abrams DJ, et al: 2019 HRS expert consensus statement on evaluation, risk stratification, and management of arrhythmogenic cardiomyopathy.Heart Rhythm16:e301–e372, 2019.doi: 10.1016/j.hrthm.2019.05.007
+1.Towbin, JA, McKenna WJ, Abrams DJ, et al: 2019 HRS expert consensus statement on evaluation, risk stratification, and management of arrhythmogenic cardiomyopathy.Heart Rhythm16:e301–e372, 2019.doi: 10.1016/j.hrthm.2019.05.007
+非致密性心肌病是一种遗传性心脏病，可导致心力衰竭、心律失常、心脏传导阻滞和血栓栓塞疾病。
+非致密性心肌病是一种遗传性心脏病，可导致心力衰竭、心律失常、心脏传导阻滞和血栓栓塞疾病。
+基于临床因素、心律失常、心脏成像和基因检测进行诊断。
+基于临床因素、心律失常、心脏成像和基因检测进行诊断。
+一级家庭成员有很大的患病风险，需要进行筛查。
+一级家庭成员有很大的患病风险，需要进行筛查。
+治疗可能需要植入式心律转复除颤器（ICD）、抗心律失常药物、抗凝和/或心力衰竭药物。
+治疗可能需要植入式心律转复除颤器（ICD）、抗心律失常药物、抗凝和/或心力衰竭药物。

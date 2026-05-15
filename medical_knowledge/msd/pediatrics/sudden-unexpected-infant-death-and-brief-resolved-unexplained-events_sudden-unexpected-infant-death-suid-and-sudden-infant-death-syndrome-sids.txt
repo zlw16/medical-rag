@@ -1,0 +1,173 @@
+标题：婴儿意外猝死 (SUID) 和婴儿猝死综合症 (SIDS)
+来源：https://www.msdmanuals.cn/professional/pediatrics/sudden-unexpected-infant-death-and-brief-resolved-unexplained-events/sudden-unexpected-infant-death-suid-and-sudden-infant-death-syndrome-sids
+============================================================
+
+婴儿意外猝死包含以下所有类别的婴儿死亡（1）：
+婴儿猝死综合征
+婴儿猝死综合征
+死亡原因不明
+死亡原因不明
+床上意外窒息与勒颈（ASSB）
+床上意外窒息与勒颈（ASSB）
+死亡原因的判定常取决于对睡眠环境中观察到的危险因素的解释，而非基于尸检中可确证死因的直接病理证据。然而，在婴儿意外猝死（SUID）的各个子类别中，类似的不安全睡眠方式在绝大多数案例中普遍存在（2）。尽管自1992年以来已采取措施减少婴儿睡眠环境中导致婴儿猝死的危险因素，并且相关努力显著减少了SIDS死亡率，但自1996年以来，整体婴儿猝死综合征（SUID）死亡率的改善仍然有限（3）。
+2022年美国婴儿猝死发生率约为1/1000活产儿，其中婴儿猝死综合征占41%，原因未明死亡占31%，床上意外窒息和勒颈占28%（4）。存在种族和社会经济差异。非西班牙裔黑人婴儿的SUID发生率大约是非西班牙裔白人婴儿的三倍。居住在高贫困地区的婴儿，其SUID发生率超过较不贫困地区婴儿的两倍(7)。
+婴儿猝死综合征（SIDS）是婴儿猝死综合征群（SUID）的主要组成部分，是美国新生儿期结束后（>28天）至1岁婴儿死亡的主要原因之一（5）。婴儿猝死综合征（SIDS）定义为：一名原本健康、年龄不足1岁的婴儿在无预警情况下突然死亡，且经过详尽调查后仍无法找到死因——包括完整的尸体解剖及辅助检测、死亡现场勘查及临床病史回顾（6）。婴儿猝死综合征 (SIDS) 发病高峰期在 1 至 4 个月大之间 (90% 的病例发生在 6 个月大之前)。这种发病规律具有重要意义，因为其相对少见于出生后第一个月的婴儿——这一时期的婴儿按理最易因肌力与张力不足而发生窒息。
+
+【参考文献】
+1.Malloy MH, MacDorman M.Changes in the classification of sudden unexpected infant deaths: United States, 1992-2001.Pediatrics.2005;115(5):1247-1253.doi:10.1542/peds.2004-2188
+1.Malloy MH, MacDorman M.Changes in the classification of sudden unexpected infant deaths: United States, 1992-2001.Pediatrics.2005;115(5):1247-1253.doi:10.1542/peds.2004-2188
+2.Kemp JS, Unger B, Wilkins D, et al.Unsafe sleep practices and an analysis of bedsharing among infants dying suddenly and unexpectedly: results of a four-year, population-based, death-scene investigation study of sudden infant death syndrome and related deaths.Pediatrics.2000;106(3):E41.doi:10.1542/peds.106.3.e41
+2.Kemp JS, Unger B, Wilkins D, et al.Unsafe sleep practices and an analysis of bedsharing among infants dying suddenly and unexpectedly: results of a four-year, population-based, death-scene investigation study of sudden infant death syndrome and related deaths.Pediatrics.2000;106(3):E41.doi:10.1542/peds.106.3.e41
+3.Goldstein RD, Kinney HC, Guttmacher AE.Only Halfway There with Sudden Infant Death Syndrome.N Engl J Med.2022;386(20):1873-1875.doi:10.1056/NEJMp2119221
+3.Goldstein RD, Kinney HC, Guttmacher AE.Only Halfway There with Sudden Infant Death Syndrome.N Engl J Med.2022;386(20):1873-1875.doi:10.1056/NEJMp2119221
+4.Shapiro-Mendoza CK, Woodworth KR, Cottengim CR, et al.Sudden Unexpected Infant Deaths: 2015-2020.Pediatrics.2023;151(4):e2022058820.doi:10.1542/peds.2022-058820
+4.Shapiro-Mendoza CK, Woodworth KR, Cottengim CR, et al.Sudden Unexpected Infant Deaths: 2015-2020.Pediatrics.2023;151(4):e2022058820.doi:10.1542/peds.2022-058820
+5.Moon RY, Carlin RF, Hand I; TASK FORCE ON SUDDEN INFANT DEATH SYNDROME and THE COMMITTEE ON FETUS AND NEWBORN.Evidence Base for 2022 Updated Recommendations for a Safe Infant Sleeping Environment to Reduce the Risk of Sleep-Related Infant Deaths.Pediatrics.2022;150(1):e2022057991.doi:10.1542/peds.2022-057991
+5.Moon RY, Carlin RF, Hand I; TASK FORCE ON SUDDEN INFANT DEATH SYNDROME and THE COMMITTEE ON FETUS AND NEWBORN.Evidence Base for 2022 Updated Recommendations for a Safe Infant Sleeping Environment to Reduce the Risk of Sleep-Related Infant Deaths.Pediatrics.2022;150(1):e2022057991.doi:10.1542/peds.2022-057991
+6.Goldstein RD, Blair PS, Sens MA, et al.Inconsistent classification of unexplained sudden deaths in infants and children hinders surveillance, prevention and research: recommendations from The 3rd International Congress on Sudden Infant and Child Death.Forensic Sci Med Pathol.2019;15(4):622-628.doi:10.1007/s12024-019-00156-9
+6.Goldstein RD, Blair PS, Sens MA, et al.Inconsistent classification of unexplained sudden deaths in infants and children hinders surveillance, prevention and research: recommendations from The 3rd International Congress on Sudden Infant and Child Death.Forensic Sci Med Pathol.2019;15(4):622-628.doi:10.1007/s12024-019-00156-9
+7.Mohamoud YA, Kirby RS, Ehrenthal DB.County Poverty, Urban-Rural Classification, and the Causes of Term Infant Death : United States, 2012-2015.Public Health Rep.2021;136(5):584-594.doi:10.1177/0033354921999169
+7.Mohamoud YA, Kirby RS, Ehrenthal DB.County Poverty, Urban-Rural Classification, and the Causes of Term Infant Death : United States, 2012-2015.Public Health Rep.2021;136(5):584-594.doi:10.1177/0033354921999169
+8.Park S, Han JH, Hwang J, et al.The global burden of sudden infant death syndrome from 1990 to 2019: a systematic analysis from the Global Burden of Disease study 2019.QJM.2022;115(11):735-744.doi:10.1093/qjmed/hcac093
+8.Park S, Han JH, Hwang J, et al.The global burden of sudden infant death syndrome from 1990 to 2019: a systematic analysis from the Global Burden of Disease study 2019.QJM.2022;115(11):735-744.doi:10.1093/qjmed/hcac093
+
+【婴儿猝死与婴儿猝死综合征的病因】
+SIDS被该领域的大多数研究人员认为是一种异质性疾病，表现为看似健康的婴儿突然死亡，主要与睡眠有关。其病因涉及婴儿通常存活的，适度的呼吸外部威胁和不明显的内在脆弱性之间的相互作用(1)。例如，俯卧睡姿在绝大多数婴儿中并非致命，但它与婴儿猝死综合征（SIDS）有显著相关性，而减少俯卧睡姿的发生率与SIDS发病率的下降密切相关（2）。尽管这些死亡引起了儿童保护方面的关注，并导致强制进行法医调查，但随后的一项调查发现，在不到4%的案件中存在非意外伤害的证据(3)。多项遗传研究一致表明，死于SIDS的婴儿，其后续同胞发生SIDS的风险增加逾四倍(4,5)。
+在接受监测的婴儿中发生的婴儿猝死综合征（SIDS）病例揭示出一个关键的SIDS亚型：这些婴儿在终末事件中表现为心动过缓和低氧血症，其死亡机制涉及自我复苏失败——即出现喘息样呼吸但无心脏反应（称为心肺分离现象），并伴随觉醒反应缺失（6）。针对该亚群体的研究发现，约40%的受检婴儿在脑干中存在5-羟色胺及其受体和前体物质的缺乏（7），且科学家已在动物模型中成功复制了这一致死机制（8）。其他近期的关键发现包括，在41%的婴儿中，海马区域的病理变化也出现在癫痫中（9），以及在11%的患者中发现了致病的基因变异，这些变异与心脏和神经系统的易感机制相关（10）。在一项大型队列研究中，约4%的 SIDS 死亡婴儿被发现携带致病或潜在致病性的心脏基因突变；这些突变信息可能有助于对其家属进行评估和/或治疗。该比例较先前文献报道略低（11,12）。这些突变中的大多数与遗传性心律失常综合征有关，包括离子通道病。
+
+【SUID 和 SIDS 的危险因素】
+由于缺乏在婴儿死亡前识别婴儿的诊断测试，了解危险因素并在可能的情况下修改它们是SUID和SIDS的核心医疗方法。（此原则的显著例外包括早期筛查与诊断中链酰基辅酶A脱氢酶缺乏症[MCAD]及长QT综合征——这两种疾病曾归入SIDS范畴[13]。）
+作为一个风险因素，倾向睡眠可以被理解为一系列不完全理解的终末期事件的一个可改变的方面。鼓励婴儿采用仰卧睡姿的非常成功的公共卫生运动，如“安全睡眠”运动（以前称为“回归睡眠”运动），最好地说明了这一可改变的方面。这些公共健康宣传活动旨在降低俯卧睡姿相关的风险，因为与仰卧睡眠的婴儿相比，俯卧睡眠婴儿发生婴儿猝死综合征（SIDS）的风险高达 13 倍（14）。
+1994年，也就是“恢复睡眠”运动的第一年，据估计，美国约有70%的婴儿采用俯卧姿势睡觉(15)。至1996年，非仰卧位睡眠的比例已降至24%。最新估算显示：4 个月龄婴儿仰卧入睡的比例为 88%，至 12 个月降至 77%；该比例在 2016—2022 年间总体保持相对稳定（16）。
+当首次推荐仰卧睡眠时，小岛屿发展中国家的死亡率下降了大约50%，尽管这种下降与总体非小岛屿发展中国家死亡率的下降是一致的(17)。从1994年至2019年，婴儿猝死综合征（SIDS）的发生率从每10万活产婴儿120例下降至33例。尽管仰卧睡姿的推广显著降低了婴儿猝死综合征（SIDS）的发生率，但SIDS仍然是美国新生儿期后期最大的死亡原因（并且在全球范围内也是主要死亡原因之一）（12,18）。
+婴儿睡眠环境中的其他风险因素涵盖柔软的睡眠表面、在沙发或扶手椅上睡眠以及体温过高(12)。
+
+【其他危险因素】
+其他重要的风险和保护因素与睡眠环境无关，如早产、低出生体重、母亲吸烟、接种疫苗和喂养母乳（以任何方式）。
+妊娠24至27周出生的婴儿，其婴儿意外猝死（SUID）的发生率是足月婴儿的5.3倍，且风险随孕龄增长而递减(19)。
+孕期母亲吸烟会使婴儿意外猝死（SUID）风险增加一倍以上，且风险随每日吸烟支数的增加而线性升高（最多20支）(20)。
+多项研究显示，未接种或接种不足疫苗的婴儿，其婴儿意外猝死（SUID）风险较高，但接种疫苗后并未观察到SUID风险上升(21–23)。
+无论喂养时间长短，接受母乳的婴儿其婴儿意外猝死（SUID）风险约为未接受母乳婴儿的一半(12)。
+若曾有兄弟姐妹因婴儿猝死综合征（SIDS）去世，则其本身也是SIDS的一个风险因素（4，5）。
+
+【病因参考文献】
+1.Wojcik MH, Poduri AH, Holm IA, MacRae CA, Goldstein RD.The fundamental need for unifying phenotypes in sudden unexpected pediatric deaths.Front Med (Lausanne).2023;10:1166188.Published 2023 Jun 2.doi:10.3389/fmed.2023.1166188
+1.Wojcik MH, Poduri AH, Holm IA, MacRae CA, Goldstein RD.The fundamental need for unifying phenotypes in sudden unexpected pediatric deaths.Front Med (Lausanne).2023;10:1166188.Published 2023 Jun 2.doi:10.3389/fmed.2023.1166188
+2.Goldstein RD, Trachtenberg FL, Sens MA, Harty BJ, Kinney HC.Overall Postneonatal Mortality and Rates of SIDS.Pediatrics.2016;137(1):10.1542/peds.2015-2298.doi:10.1542/peds.2015-2298
+2.Goldstein RD, Trachtenberg FL, Sens MA, Harty BJ, Kinney HC.Overall Postneonatal Mortality and Rates of SIDS.Pediatrics.2016;137(1):10.1542/peds.2015-2298.doi:10.1542/peds.2015-2298
+3.Bajanowski T, Vennemann M, Bohnert M, et al.Unnatural causes of sudden unexpected deaths initially thought to be sudden infant death syndrome.Int J Legal Med.2005;119(4):213-216.doi:10.1007/s00414-005-0538-8
+3.Bajanowski T, Vennemann M, Bohnert M, et al.Unnatural causes of sudden unexpected deaths initially thought to be sudden infant death syndrome.Int J Legal Med.2005;119(4):213-216.doi:10.1007/s00414-005-0538-8
+4.Christensen ED, Berger J, Alashari MM, et al.Sudden infant death "syndrome"-Insights and future directions from a Utah population database analysis.Am J Med Genet A.2017;173(1):177-182.doi:10.1002/ajmg.a.37994
+4.Christensen ED, Berger J, Alashari MM, et al.Sudden infant death "syndrome"-Insights and future directions from a Utah population database analysis.Am J Med Genet A.2017;173(1):177-182.doi:10.1002/ajmg.a.37994
+5.Glinge C, Rossetti S, Oestergaard LB, et al.Risk of Sudden Infant Death Syndrome Among Siblings of Children Who Died of Sudden Infant Death Syndrome in Denmark.JAMA Netw Open.2023;6(1):e2252724.Published 2023 Jan 3.doi:10.1001/jamanetworkopen.2022.52724
+5.Glinge C, Rossetti S, Oestergaard LB, et al.Risk of Sudden Infant Death Syndrome Among Siblings of Children Who Died of Sudden Infant Death Syndrome in Denmark.JAMA Netw Open.2023;6(1):e2252724.Published 2023 Jan 3.doi:10.1001/jamanetworkopen.2022.52724
+6.Poets CF, Meny RG, Chobanian MR, Bonofiglo RE.Gasping and other cardiorespiratory patterns during sudden infant deaths.Pediatr Res.1999;45(3):350-354.doi:10.1203/00006450-199903000-00010
+6.Poets CF, Meny RG, Chobanian MR, Bonofiglo RE.Gasping and other cardiorespiratory patterns during sudden infant deaths.Pediatr Res.1999;45(3):350-354.doi:10.1203/00006450-199903000-00010
+7.Duncan JR, Paterson DS, Hoffman JM, et al.Brainstem serotonergic deficiency in sudden infant death syndrome.JAMA.2010;303(5):430-437.doi:10.1001/jama.2010.45
+7.Duncan JR, Paterson DS, Hoffman JM, et al.Brainstem serotonergic deficiency in sudden infant death syndrome.JAMA.2010;303(5):430-437.doi:10.1001/jama.2010.45
+8.Dosumu-Johnson RT, Cocoran AE, Chang Y, Nattie E, Dymecki SM.Acute perturbation of Pet1-neuron activity in neonatal mice impairs cardiorespiratory homeostatic recovery.Elife.2018;7:e37857.Published 2018 Oct 23.doi:10.7554/eLife.37857
+8.Dosumu-Johnson RT, Cocoran AE, Chang Y, Nattie E, Dymecki SM.Acute perturbation of Pet1-neuron activity in neonatal mice impairs cardiorespiratory homeostatic recovery.Elife.2018;7:e37857.Published 2018 Oct 23.doi:10.7554/eLife.37857
+9.Kinney HC, Cryan JB, Haynes RL, et al.Dentate gyrus abnormalities in sudden unexplained death in infants: morphological marker of underlying brain vulnerability.Acta Neuropathol.2015;129(1):65-80.doi:10.1007/s00401-014-1357-0
+9.Kinney HC, Cryan JB, Haynes RL, et al.Dentate gyrus abnormalities in sudden unexplained death in infants: morphological marker of underlying brain vulnerability.Acta Neuropathol.2015;129(1):65-80.doi:10.1007/s00401-014-1357-0
+10.Koh HY, Haghighi A, Keywan C, et al.Genetic Determinants of Sudden Unexpected Death in Pediatrics.Genet Med.2022;24(4):839-850.doi:10.1016/j.gim.2021.12.004
+10.Koh HY, Haghighi A, Keywan C, et al.Genetic Determinants of Sudden Unexpected Death in Pediatrics.Genet Med.2022;24(4):839-850.doi:10.1016/j.gim.2021.12.004
+11.Tester DJ, Wong LCH, Chanana P, et al.Cardiac Genetic Predisposition in Sudden Infant Death Syndrome. J Am Coll Cardiol.2018;71(11):1217-1227.doi:10.1016/j.jacc.2018.01.030
+11.Tester DJ, Wong LCH, Chanana P, et al.Cardiac Genetic Predisposition in Sudden Infant Death Syndrome. J Am Coll Cardiol.2018;71(11):1217-1227.doi:10.1016/j.jacc.2018.01.030
+12.Moon RY, Carlin RF, Hand I; TASK FORCE ON SUDDEN INFANT DEATH SYNDROME and THE COMMITTEE ON FETUS AND NEWBORN.Evidence Base for 2022 Updated Recommendations for a Safe Infant Sleeping Environment to Reduce the Risk of Sleep-Related Infant Deaths.Pediatrics.2022;150(1):e2022057991.doi:10.1542/peds.2022-057991
+12.Moon RY, Carlin RF, Hand I; TASK FORCE ON SUDDEN INFANT DEATH SYNDROME and THE COMMITTEE ON FETUS AND NEWBORN.Evidence Base for 2022 Updated Recommendations for a Safe Infant Sleeping Environment to Reduce the Risk of Sleep-Related Infant Deaths.Pediatrics.2022;150(1):e2022057991.doi:10.1542/peds.2022-057991
+13.Nosetti L, Zaffanello M, Lombardi C, et al.Early Screening for Long QT Syndrome and Cardiac Anomalies in Infants: A Comprehensive Study.Clin Pract.2024;14(3):1038-1053.Published 2024 May 31.doi:10.3390/clinpract14030082
+13.Nosetti L, Zaffanello M, Lombardi C, et al.Early Screening for Long QT Syndrome and Cardiac Anomalies in Infants: A Comprehensive Study.Clin Pract.2024;14(3):1038-1053.Published 2024 May 31.doi:10.3390/clinpract14030082
+14.Carpenter RG, Irgens LM, Blair PS, et al.Sudden unexplained infant death in 20 regions in Europe: case control study.Lancet.2004;363(9404):185-191.doi:10.1016/s0140-6736(03)15323-8
+14.Carpenter RG, Irgens LM, Blair PS, et al.Sudden unexplained infant death in 20 regions in Europe: case control study.Lancet.2004;363(9404):185-191.doi:10.1016/s0140-6736(03)15323-8
+15.Willinger M, Hoffman HJ, Wu KT, et al.Factors associated with the transition to nonprone sleep positions of infants in the United States: the National Infant Sleep Position Study.JAMA.1998;280(4):329-335.doi:10.1001/jama.280.4.329
+15.Willinger M, Hoffman HJ, Wu KT, et al.Factors associated with the transition to nonprone sleep positions of infants in the United States: the National Infant Sleep Position Study.JAMA.1998;280(4):329-335.doi:10.1001/jama.280.4.329
+16.Ding G, Peng A, Chen Y, et al.Nonsupine Sleep Position Among US Infants.JAMA Netw Open.2024;7(12):e2450277.doi:10.1001/jamanetworkopen.2024.50277
+16.Ding G, Peng A, Chen Y, et al.Nonsupine Sleep Position Among US Infants.JAMA Netw Open.2024;7(12):e2450277.doi:10.1001/jamanetworkopen.2024.50277
+17.Goldstein RD, Trachtenberg FL, Sens MA, Harty BJ, Kinney HC.Overall Postneonatal Mortality and Rates of SIDS.Pediatrics.2016;137(1):10.1542/peds.2015-2298.doi:10.1542/peds.2015-2298
+17.Goldstein RD, Trachtenberg FL, Sens MA, Harty BJ, Kinney HC.Overall Postneonatal Mortality and Rates of SIDS.Pediatrics.2016;137(1):10.1542/peds.2015-2298.doi:10.1542/peds.2015-2298
+18.Park S, Han JH, Hwang J, et al.The global burden of sudden infant death syndrome from 1990 to 2019: a systematic analysis from the Global Burden of Disease study 2019.QJM.2022;115(11):735-744.doi:10.1093/qjmed/hcac093
+18.Park S, Han JH, Hwang J, et al.The global burden of sudden infant death syndrome from 1990 to 2019: a systematic analysis from the Global Burden of Disease study 2019.QJM.2022;115(11):735-744.doi:10.1093/qjmed/hcac093
+19.Ostfeld BM, Schwartz-Soicher O, Reichman NE, Teitler JO, Hegyi T.Prematurity and Sudden Unexpected Infant Deaths in the United States.Pediatrics.2017;140(1):e20163334.doi:10.1542/peds.2016-3334
+19.Ostfeld BM, Schwartz-Soicher O, Reichman NE, Teitler JO, Hegyi T.Prematurity and Sudden Unexpected Infant Deaths in the United States.Pediatrics.2017;140(1):e20163334.doi:10.1542/peds.2016-3334
+20.Anderson TM, Lavista Ferres JM, Ren SY, et al.Maternal Smoking Before and During Pregnancy and the Risk of Sudden Unexpected Infant Death.Pediatrics.2019;143(4):e20183325.doi:10.1542/peds.2018-3325
+20.Anderson TM, Lavista Ferres JM, Ren SY, et al.Maternal Smoking Before and During Pregnancy and the Risk of Sudden Unexpected Infant Death.Pediatrics.2019;143(4):e20183325.doi:10.1542/peds.2018-3325
+21.Fleming PJ, Blair PS, Platt MW, Tripp J, Smith IJ, Golding J.The UK accelerated immunisation programme and sudden unexpected death in infancy: case-control study.BMJ.2001;322(7290):822.doi:10.1136/bmj.322.7290.822
+21.Fleming PJ, Blair PS, Platt MW, Tripp J, Smith IJ, Golding J.The UK accelerated immunisation programme and sudden unexpected death in infancy: case-control study.BMJ.2001;322(7290):822.doi:10.1136/bmj.322.7290.822
+22.Vennemann MM, Höffgen M, Bajanowski T, Hense HW, Mitchell EA.Do immunisations reduce the risk for SIDS?A meta-analysis.Vaccine.2007;25(26):4875-4879.doi:10.1016/j.vaccine.2007.02.077
+22.Vennemann MM, Höffgen M, Bajanowski T, Hense HW, Mitchell EA.Do immunisations reduce the risk for SIDS?A meta-analysis.Vaccine.2007;25(26):4875-4879.doi:10.1016/j.vaccine.2007.02.077
+23.Deschanvres C, Levieux K, Launay E, et al.Non-immunization associated with increased risk of sudden unexpected death in infancy: A national case-control study.Vaccine.2023;41(2):391-396.doi:10.1016/j.vaccine.2022.10.087
+23.Deschanvres C, Levieux K, Launay E, et al.Non-immunization associated with increased risk of sudden unexpected death in infancy: A national case-control study.Vaccine.2023;41(2):391-396.doi:10.1016/j.vaccine.2022.10.087
+
+【婴儿猝死与婴儿猝死综合征的诊断】
+尸检、死亡现场勘查及临床病史回顾
+尸检、死亡现场勘查及临床病史回顾
+婴儿意外猝死是死亡的一个类别，并非具体死因。
+婴儿猝死综合征（SIDS）与死因不明均属排除性诊断，当尸检评估未能确定具体病因或死亡缘由时使用。（例如误食、未察觉的头部创伤、急剧感染或凝血功能障碍等，这些具体原因较为罕见。）床上意外窒息与勒颈（ASSB）是一种特定死因，法医在确定该死因为窒息所致前，必须具备超出仅存在窒息危险因素的充分证据。
+如前文所述，风险因素与死因的混同是此领域的核心议题，研究显示诊断构建并非相互独立。许多医学检查人员反对婴儿猝死综合症的概念，甚至在符合小岛屿发展中国家的诊断标准时也采用其他诊断方法。现行的诊断分类确实对婴儿猝死综合征（SIDS）、床上意外窒息与勒颈（ASSB）及死因不明进行了区分（1）。
+诊断是基于彻底的病例调查，包括进行完整的尸检和辅助测试，检查死亡现场和回顾临床病史。
+构成完整尸检的具体内容并非统一标准。从除了外部检查之外不进行尸检的情况到标准使用专业尸检工具（包括常规神经病理学评估和基因组检测）的变化范围很大。
+死亡现场勘查涵盖对婴儿最后睡眠时段的一系列标准化观察，包括其被发现时的姿势。与儿童保护服务（CPS）的调查并行，其他可能影响儿童健康与安全的因素亦在调查之列。小岛屿发展中国家只有在完全调查的所有要素都得到满足，并且调查人员确定没有任何发现是死亡原因的情况下，才被用作诊断。
+
+【诊断参考文献】
+1.International Statistical Classification of Diseases 11th Revision (ICD-11).MH11 Sudden infant death syndrome.2025.
+1.International Statistical Classification of Diseases 11th Revision (ICD-11).MH11 Sudden infant death syndrome.2025.
+
+【婴儿猝死与婴儿猝死综合征的管理】
+婴儿猝然、意外且死因未明地离世，对任何家庭而言皆是严峻且非同寻常的考验。除却婴儿生命无法衡量的逝去，婴儿意外猝死（SUID）或婴儿猝死综合征（SIDS）更是一场家庭危机。深切悲痛。父母表示，即便十多年后，孩子的离世仍每日影响着他们（1）。在死亡一年后，经历失去年长配偶之痛苦的10%的人会患上长期悲伤障碍，而经历失去婴儿猝死综合征（SIDS）之痛苦的母亲中有60%会患上此障碍（2）。发现婴儿死亡所带来的震惊、抢救过程的残酷性，以及在死亡调查期间可能遭遇的严厉对待，常使许多父母产生与婴儿死亡相关的侵入性痛苦思维。
+在尸检调查过程中，与家属协作的临床医生可助其应对调查事宜，并解读任何发现。鉴于尸检评估存在差异，涉事家庭的临床医生可建议进行更深入、更全面的评估项目。如果有研究结果提示需要对父母或在世的兄弟姐妹进行进一步评估，临床医生可以在帮助丧亲父母处理这些结果对家庭健康可能产生的影响方面发挥重要作用。在所有情况下，为经历丧婴或突发性失去孩子的父母提供支持服务至关重要，无论是转介至丧亲父母互助组织以获得同伴支持，还是安排心理健康专业人士提供个体化心理辅导，都有助于他们理解并应对自身的情感需求。
+
+【管理参考】
+1.Dyregrov A, Dyregrov K.Long-term impact of sudden infant death: a 12- to 15-year follow-up.Death Stud.1999;23(7):635-661.doi:10.1080/074811899200812
+1.Dyregrov A, Dyregrov K.Long-term impact of sudden infant death: a 12- to 15-year follow-up.Death Stud.1999;23(7):635-661.doi:10.1080/074811899200812
+2.Goldstein RD, Lederman RI, Lichtenthal WG, et al.The Grief of Mothers After the Sudden Unexpected Death of Their Infants.Pediatrics.2018;141(5):e20173651.doi:10.1542/peds.2017-3651
+2.Goldstein RD, Lederman RI, Lichtenthal WG, et al.The Grief of Mothers After the Sudden Unexpected Death of Their Infants.Pediatrics.2018;141(5):e20173651.doi:10.1542/peds.2017-3651
+
+【预防 SUID 和 SIDS】
+美国儿科学会（AAP）的以下建议基于一致、高质量、以患者为导向的证据）（1）：
+每次睡眠均采用仰卧姿势（在发育允许且医学合理的前提下，尽早对住院早产儿实施）；能自主翻身（从俯卧到仰卧及从仰卧到俯卧）的婴儿可维持其自行采取的睡姿。
+每次睡眠均采用仰卧姿势（在发育允许且医学合理的前提下，尽早对住院早产儿实施）；能自主翻身（从俯卧到仰卧及从仰卧到俯卧）的婴儿可维持其自行采取的睡姿。
+使用坚硬、平坦、无倾斜的睡眠表面，以降低窒息或卡住/被困的风险。
+使用坚硬、平坦、无倾斜的睡眠表面，以降低窒息或卡住/被困的风险。
+以母乳喂养婴儿。
+以母乳喂养婴儿。
+让婴儿在父母卧室、靠近父母床铺的专用婴儿睡眠区域就寝，最好至少在前6个月内这样做。
+让婴儿在父母卧室、靠近父母床铺的专用婴儿睡眠区域就寝，最好至少在前6个月内这样做。
+为降低婴儿猝死综合征（SIDS）、窒息、夹压或缠绕等风险，应将柔软物品（如枕头、枕状玩具、被褥、安抚被、床垫加层、毛绒材质物品）及松散寝具（如毛毯、非紧贴床单）移出婴儿睡眠区域。
+为降低婴儿猝死综合征（SIDS）、窒息、夹压或缠绕等风险，应将柔软物品（如枕头、枕状玩具、被褥、安抚被、床垫加层、毛绒材质物品）及松散寝具（如毛毯、非紧贴床单）移出婴儿睡眠区域。
+在午睡和就寝时提供安抚奶嘴。
+在午睡和就寝时提供安抚奶嘴。
+孕期及产后应避免接触烟雾和尼古丁。
+孕期及产后应避免接触烟雾和尼古丁。
+避免在孕期及产后饮酒、使用大麻、阿片类药物、电子烟及非法药物。
+避免在孕期及产后饮酒、使用大麻、阿片类药物、电子烟及非法药物。
+避免婴儿过热和头部遮盖。
+避免婴儿过热和头部遮盖。
+怀孕期间定期接受产前检查。
+怀孕期间定期接受产前检查。
+根据美国儿科学会（AAP）和疾病控制与预防中心（CDC）的指南为婴儿接种疫苗。（另见儿童疫苗接种计划。）
+根据美国儿科学会（AAP）和疾病控制与预防中心（CDC）的指南为婴儿接种疫苗。（另见儿童疫苗接种计划。）
+不要使用家庭心肺监测器作为降低婴儿猝死综合征（SIDS）风险的策略。
+不要使用家庭心肺监测器作为降低婴儿猝死综合征（SIDS）风险的策略。
+婴儿出院后应在清醒状态下于成人监护下进行短时间俯卧训练，以促进运动发育并降低体位性斜头的风险；目标是在约7周龄时每日累计俯卧训练时间达到15至30分钟。
+婴儿出院后应在清醒状态下于成人监护下进行短时间俯卧训练，以促进运动发育并降低体位性斜头的风险；目标是在约7周龄时每日累计俯卧训练时间达到15至30分钟。
+
+【预防参考文献】
+1.Moon RY, Carlin RF, Hand I; TASK FORCE ON SUDDEN INFANT DEATH SYNDROME and THE COMMITTEE ON FETUS AND NEWBORN.Evidence Base for 2022 Updated Recommendations for a Safe Infant Sleeping Environment to Reduce the Risk of Sleep-Related Infant Deaths.Pediatrics.2022;150(1):e2022057991.doi:10.1542/peds.2022-057991
+1.Moon RY, Carlin RF, Hand I; TASK FORCE ON SUDDEN INFANT DEATH SYNDROME and THE COMMITTEE ON FETUS AND NEWBORN.Evidence Base for 2022 Updated Recommendations for a Safe Infant Sleeping Environment to Reduce the Risk of Sleep-Related Infant Deaths.Pediatrics.2022;150(1):e2022057991.doi:10.1542/peds.2022-057991
+突发婴儿猝死（SUID）是一个术语，包括曾经归类为婴儿猝死综合征（SIDS）的婴儿死亡诊断，包括SIDS、死因不明以及意外窒息与窒息致死（ASSB）。
+突发婴儿猝死（SUID）是一个术语，包括曾经归类为婴儿猝死综合征（SIDS）的婴儿死亡诊断，包括SIDS、死因不明以及意外窒息与窒息致死（ASSB）。
+婴儿猝死综合征仍然是美国新生儿死亡的主要原因，也是全球婴儿死亡的主要原因。
+婴儿猝死综合征仍然是美国新生儿死亡的主要原因，也是全球婴儿死亡的主要原因。
+诊断婴儿猝死综合征（SIDS）需要进行完整的尸检、死亡现场调查以及婴儿医疗史的回顾。
+诊断婴儿猝死综合征（SIDS）需要进行完整的尸检、死亡现场调查以及婴儿医疗史的回顾。
+理解并应对这一损失的困难给丧亲家庭带来了特殊的需求。
+理解并应对这一损失的困难给丧亲家庭带来了特殊的需求。
+预防措施包括采用仰卧睡姿和其他具体建议。
+预防措施包括采用仰卧睡姿和其他具体建议。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+American SIDS Institute
+American SIDS Institute
+Safe to Sleep
+Safe to Sleep

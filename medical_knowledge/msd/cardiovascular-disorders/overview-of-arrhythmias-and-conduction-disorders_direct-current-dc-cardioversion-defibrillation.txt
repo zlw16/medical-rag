@@ -1,0 +1,42 @@
+标题：直流电（DC）心脏复律-除颤
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/direct-current-dc-cardioversion-defibrillation
+============================================================
+
+治疗心律失常的决定取决于其症状和潜在的严重程度。对因治疗。如果必要，直接抗心律失常治疗包括抗心律失常药物、直流电（DC）心脏复律-除颤、植入型心律转复除颤器（ICDs）、起搏器（和一种特殊形式的起搏，心脏再同步化治疗）、导管消融、外科手术，或采用联合治疗。
+经胸直流电电击使整个心肌除极，致使心脏整体瞬间进入不应期，无法再次除极。此后，最快速的内在起搏点，通常是窦房（SA）结，重新控制心律。因而，直流电心脏复律-除颤非常有效地终止由折返所致的快速性心律失常。然而，对终止由自律性所致的快速性心律失常不太有效，因为回复的心律可能仍是自律性快速性心律失常。除心室颤动（VF）和无脉性室性心动过速（VT）以外的快速性心律失常，电击必须与QRS波群同步（称为心脏复律），因为若电击落在易损期（接近T波峰值时），可能会诱发心室颤动。在心室颤动时，同步QRS的电复律既无必要也不可能做到。对QRS波群进行非同步电击即为除颤。
+直流电复律或除颤可按以下方式进行
+单相电流
+单相电流
+双相电流
+双相电流
+单相电流在两个电极之间沿一个方向传播。在双相设备中，电流在冲击波形中会部分反向。
+大多数手动和自动体外除颤器（AED）采用双相波技术，因其具有潜在安全性和有效性优势。在包括诱发心室颤动控制环境下的患者的随机试验中，与单相波形相比，应用较低能量的双相波形实现了相似的除颤效果，这可能导致较少的心肌损伤（1）。然而，在院外心脏骤停这种不可控的情况下，对接受单相波或双相波除颤的患者进行试验研究时，这种潜在益处尚未得到证实(2)。双相设备的尺寸也较小（使其更便携）。
+
+【直流电复律的操作流程】
+当择期直流电复律时，患者应在术前禁食6至8小时以避免误吸风险。由于该操作会引起恐惧和疼痛，需进行短暂的全身麻醉或静脉镇痛镇静（如芬太尼联合咪达唑仑）。必要时维持气道和提供进一步支持的设备和人员必须在场。
+心脏复律用的电极（垫片或桨状电极）可放置在前后位（沿胸骨左缘第3、4肋间和左肩胛下区域）或前侧位（沿胸骨右缘锁骨和第2肋间隙之间以及心尖部第5、6肋间隙）。在监护仪上确认与QRS波群同步后，给予电击。
+最恰当的能量水平由被治疗的快速性心律失常类别决定。使用双相波电击可提高心脏复律和除颤的成功率。
+对于室颤或无脉性室性心动过速的除颤，成人首次电击的能量水平为
+双相设备120至200焦耳（或根据制造商规范），但许多从业人员在此设置中使用最大设备输出
+双相设备120至200焦耳（或根据制造商规范），但许多从业人员在此设置中使用最大设备输出
+单相设备360焦耳（或根据制造商规范）
+单相设备360焦耳（或根据制造商规范）
+对于双相装置，后续电击的能量水平相同或更高，对于单相装置，后续电击的能量水平相同。
+对于房颤的同步心脏复律，成人首次电击的能量水平为
+双相设备120至200焦耳（或取决于制造商规范） (3)
+双相设备120至200焦耳（或取决于制造商规范） (3)
+单相设备200焦耳（或根据制造商规范）
+单相设备200焦耳（或根据制造商规范）
+对于双相和单相设备而言，后续电击的能量水平通常更高。
+直流电心脏复律-除颤也可在开胸手术时通过应用心内电极导管被直接用于心脏；此时仅需要低得多的能量水平。
+
+【直流电复律的并发症】
+并发症通常较轻微，包括房早和室早及肌肉痛。不太常见，但如果患者左心室功能处于临界状态或接受多次电击，电复律更可能诱发心肌细胞损伤和电机械分离。
+
+【参考文献】
+1.Faddy SC, Powell J, Craig JC.Biphasic and monophasic shocks for transthoracic defibrillation: a meta analysis of randomised controlled trials.Resuscitation2003;58(1):9-16.doi:10.1016/s0300-9572(03)00077-7
+1.Faddy SC, Powell J, Craig JC.Biphasic and monophasic shocks for transthoracic defibrillation: a meta analysis of randomised controlled trials.Resuscitation2003;58(1):9-16.doi:10.1016/s0300-9572(03)00077-7
+2.Faddy SC, Jennings PA.Biphasic versus monophasic waveforms for transthoracic defibrillation in out-of-hospital cardiac arrest.Cochrane Database Syst Rev2016;2(2):CD006762.Published 2016 Feb 10.doi:10.1002/14651858.CD006762.pub2
+2.Faddy SC, Jennings PA.Biphasic versus monophasic waveforms for transthoracic defibrillation in out-of-hospital cardiac arrest.Cochrane Database Syst Rev2016;2(2):CD006762.Published 2016 Feb 10.doi:10.1002/14651858.CD006762.pub2
+3.Link MS, Atkins DL, Passman RS, et al.Part 6: Electrical therapies: automated external defibrillators, defibrillation, cardioversion, and pacing: 2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care [published correction appears inCirculation2011 Feb 15;123(6):e235].Circulation2010;122(18 Suppl 3):S706-S719.doi:10.1161/CIRCULATIONAHA.110.970954
+3.Link MS, Atkins DL, Passman RS, et al.Part 6: Electrical therapies: automated external defibrillators, defibrillation, cardioversion, and pacing: 2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care [published correction appears inCirculation2011 Feb 15;123(6):e235].Circulation2010;122(18 Suppl 3):S706-S719.doi:10.1161/CIRCULATIONAHA.110.970954

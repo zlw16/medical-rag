@@ -1,0 +1,42 @@
+标题：粘膜类天疱疮
+来源：https://www.msdmanuals.cn/professional/dermatologic-disorders/bullous-diseases/mucous-membrane-pemphigoid
+============================================================
+
+大疱是直径≥10mm高出皮面的、充满液体的水疱。
+（粘膜类天疱疮的同义命名如瘢痕性类天疱疮、眼瘢痕类天疱疮和良性粘膜类天疱疮已不再使用。）
+口腔粘膜类天疱疮和眼粘膜类天疱疮是典型的，但也可能涉及其他粘膜部位和皮肤（通常是头部和躯干上部） (1)。 老年人最常受到影响，女性多于男性。
+粘膜类天疱疮（MMP）的特征是上皮基底膜分子的自身抗体引起上皮下病变。靶分子比大疱性类天疱疮的靶分子深已经证实几种自身抗体，包括针对BPAG2，层粘连蛋白-332和VII型胶原的自身抗体。 已在泛发性MMP和眼MMP中发现了beta-4整合素抗体，在口腔MMP中发现了alpha-6整合素抗体。
+
+【参考文献】
+1.Rashid H, Lamberts A, Borradori L, et al: European guidelines (S3) on diagnosis and management of mucous membrane pemphigoid, initiated by the European Academy of Dermatology and Venereology - Part I.J Eur Acad Dermatol Venereol35(9):1750-1764, 2021.doi: 10.1111/jdv.17397
+1.Rashid H, Lamberts A, Borradori L, et al: European guidelines (S3) on diagnosis and management of mucous membrane pemphigoid, initiated by the European Academy of Dermatology and Venereology - Part I.J Eur Acad Dermatol Venereol35(9):1750-1764, 2021.doi: 10.1111/jdv.17397
+
+【良性粘膜类天疱疮的诊断】
+皮肤活检和直接免疫荧光
+皮肤活检和直接免疫荧光
+粘膜广泛受累和疤痕损伤有助于鉴别MMP与大疱性类天疱疮。MMP诊断是依据皮肤活检和直接免疫荧光证实 (1)。 线性基底膜沉积物可以包括IgG，IgA和C3。 血清自身抗体往往不存在或滴度低。
+
+【诊断参考文献】
+1.Schmidt E, Rashid H, Marzano AV, et al: European Guidelines (S3) on diagnosis and management of mucous membrane pemphigoid, initiated by the European Academy of Dermatology and Venereology - Part II.J Eur Acad Dermatol Venereol35(10):1926-1948,2021.doi: 10.1111/jdv.17395
+1.Schmidt E, Rashid H, Marzano AV, et al: European Guidelines (S3) on diagnosis and management of mucous membrane pemphigoid, initiated by the European Academy of Dermatology and Venereology - Part II.J Eur Acad Dermatol Venereol35(10):1926-1948,2021.doi: 10.1111/jdv.17395
+
+【粘膜类天疱疮的治疗】
+对轻症疾病，糖皮质激素和多西环素加烟酰胺
+对轻症疾病，糖皮质激素和多西环素加烟酰胺
+对于重症病例，常常需用系统性免疫抑制剂
+对于重症病例，常常需用系统性免疫抑制剂
+粘膜类天疱疮的治疗与大疱性类天疱疮相似。 局部或皮损内注射糖皮质激素，联合口服多西环素100mg bid和烟酰胺500mg tid可用于轻症病例 (1)。
+重症病例可能需用系统性免疫抑制剂联合氨苯砜或泼尼松，有时需大剂量泼尼松联合免疫抑制剂（如硫唑嘌呤，霉酚酸酯，环磷酰胺，利妥昔单抗）和静注免疫球蛋白。
+
+【治疗参考文献】
+1.Schmidt E, Rashid H, Marzano AV, et al: European Guidelines (S3) on diagnosis and management of mucous membrane pemphigoid, initiated by the European Academy of Dermatology and Venereology - Part II.J Eur Acad Dermatol Venereol35(10):1926-1948, 2021.doi: 10.1111/jdv.17395
+1.Schmidt E, Rashid H, Marzano AV, et al: European Guidelines (S3) on diagnosis and management of mucous membrane pemphigoid, initiated by the European Academy of Dermatology and Venereology - Part II.J Eur Acad Dermatol Venereol35(10):1926-1948, 2021.doi: 10.1111/jdv.17395
+
+【良性粘膜类天疱疮的预后】
+粘膜类天疱疮进展缓慢，很少能自行消退，并且治疗后往往反应不完全。根据受累部位，严重的后遗症可能包括眼部损伤和失明，气道糜烂和破坏，以及食管或肛门生殖器区域的狭窄。 抗laminin-332 MMP患者罹患内脏肿瘤风险增加;如果可疑此型疱病（例如根据免疫荧光结果），应筛查与患者年龄和性别相匹配的癌症。
+粘膜类天疱疮是一组罕见的慢性自身免疫性疾病，导致粘膜出现时有时无的大疱性病变，并常伴有疤痕。
+粘膜类天疱疮是一组罕见的慢性自身免疫性疾病，导致粘膜出现时有时无的大疱性病变，并常伴有疤痕。
+通过皮肤活检和直接免疫荧光进行诊断。
+通过皮肤活检和直接免疫荧光进行诊断。
+使用皮质类固醇和强力霉素加烟酰胺治疗，或对于严重疾病使用免疫抑制剂治疗。
+使用皮质类固醇和强力霉素加烟酰胺治疗，或对于严重疾病使用免疫抑制剂治疗。

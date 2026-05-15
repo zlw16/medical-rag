@@ -1,0 +1,73 @@
+标题：沃夫-帕金森-怀特综合征（WPW 综合征）
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/wolff-parkinson-white-syndrome-wpw-syndrome
+============================================================
+
+（参见心律失常概述和房室折返性心动过速）。
+
+【WPW综合征的病理生理学】
+连接心房和心室的附加通路是沃尔夫-帕金森-怀特综合征的基础。当房室旁路沿前向传导时，会绕过房室结的延迟，导致部分心室心肌在其余部分由正常传导系统激活之前就被激活。心室预激导致PR间期缩短（<0.12秒）、QRS波群增宽（≥0.12秒），且初始成分（δ波）含糊不清，再加上阵发性心动过速症状，构成了经典（显性）沃夫-帕金森-怀特综合征（1）。典型（显性）沃夫-帕金森-怀特综合征的发病率约为 1-3/1000 人（[2] 在加拿大男性中采样）。
+根据delta波的方向，可能出现假性心肌梗死图形的Q波。心室提早除极的部分也提早复极，T波的向量可能异常。
+如果附加 AV 连接可以沿逆向传导，则可以支持一种称为顺向房室折返性心动过速的阵发性室上性心动过速。在基线心率下，房室旁路的不应期往往比房室结更长。当心房过早去极化偶联间期短于附加 AV 通路的不应期，但长于 AV 结的不应期时，前向附加 AV 通路传输受阻，但前向 AV 结传导仍继续进行。心电图显示 PR 间期突然增加，并且 delta 波消失。当通过 AV 结的前向传导足够缓慢时，它可以找到准备传导的远端附属 AV 连接，但此刻是逆向（心室到心房）方向。当该逆行房室旁路传输找到心房，并随后找到准备再次沿前向传导的房室结时，就会发生房室折返性心动过速。心电图显示快速、规律的心动过速。这种顺向性房室性心动过速是房室折返性心动过速的常见类型（95%）（3）。
+这种折返较少见，但更常由室性早搏引起，折返以相反的方向（逆向房室折返性心动过速）进行。由于 5% 具有房室旁路的患者有多条旁路（4)，也可能出现双旁路房室折返性心动过速，即使用一条旁路进行前向传导，使用另一条旁路进行逆向传导。
+沃尔夫-帕金森-怀特综合征中的附加房室连接行为类似于心房心肌，是一种快速通道组织，其不应期随着心率的增加而缩短。因此，如果发生快速室上性心律时，心室反应可能无法通过房室结通常会增加的不应期来控制，因为房室旁路可能以非常快的速度传导。这尤其与心房颤动时的心室反应率相关，该反应率可能快到足以导致血流动力学障碍，并可能诱发心室颤动和猝死。猝死可能是沃尔夫-帕金森-怀特综合征的第一个临床表现，尤其是在青少年时期。对于某些具有逆向传导功能的房室旁路（因此可能参与形成顺向房室折返性心动过速）的患者，该旁路不会进行前向传导。此类患者的心电图上没有WPW 模式，因此被认为患有隐匿性 WPW 综合征。他们不存在快速传导室上性心律失常的风险。
+WPW综合征主要是特发性的，尽管它在肥厚性心肌病、大血管转位或爱泼斯坦异常的患者中更常见。
+
+【病理生理学参考文献】
+1.Bhatia A, Sra J, Akhtar M: Preexcitation Syndromes.Curr Probl Cardiol41(3):99–137, 2016.doi: 10.1016/j.cpcardiol.2015.11.002
+1.Bhatia A, Sra J, Akhtar M: Preexcitation Syndromes.Curr Probl Cardiol41(3):99–137, 2016.doi: 10.1016/j.cpcardiol.2015.11.002
+2.Krahn AD, Manfreda J, Tate RB, Mathewson FA, Cuddy TE: The natural history of electrocardiographic preexcitation in men.The Manitoba Follow-up Study.Ann Intern Med116(6):456–460, 21992 doi: 10.7326/0003-4819-116-6-456
+2.Krahn AD, Manfreda J, Tate RB, Mathewson FA, Cuddy TE: The natural history of electrocardiographic preexcitation in men.The Manitoba Follow-up Study.Ann Intern Med116(6):456–460, 21992 doi: 10.7326/0003-4819-116-6-456
+3.Page RL, Joglar JA, Caldwell MA, et al: 2015 ACC/AHA/HRS Guideline for the Management of Adult Patients With Supraventricular Tachycardia: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society [published correction appears inJ Am Coll Cardiol2016 Dec 27;68(25):2922-2923. doi: 10.1016/j.jacc.2016.11.014].J Am Coll Cardiol67(13):e27–e115, 2016.doi: 10.1016/j.jacc.2015.08.856
+3.Page RL, Joglar JA, Caldwell MA, et al: 2015 ACC/AHA/HRS Guideline for the Management of Adult Patients With Supraventricular Tachycardia: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society [published correction appears inJ Am Coll Cardiol2016 Dec 27;68(25):2922-2923. doi: 10.1016/j.jacc.2016.11.014].J Am Coll Cardiol67(13):e27–e115, 2016.doi: 10.1016/j.jacc.2015.08.856
+4.Kadish A, Passman R: Mechanisms and management of paroxysmal supraventricular tachycardia.Cardiol Rev7(5):254–264, 1999.doi: 10.1097/00045415-199909000-00009
+4.Kadish A, Passman R: Mechanisms and management of paroxysmal supraventricular tachycardia.Cardiol Rev7(5):254–264, 1999.doi: 10.1097/00045415-199909000-00009
+
+【经典的沃尔夫-帕金森-怀特（WPW）模式】
+经典的沃尔夫-帕金森-怀特（WPW）模式
+Ⅰ、Ⅱ、Ⅲ、V3至V6导联显示WPW综合征典型的图形，在窦性心律时伴有短PR间期和delta波。
+
+【WPW综合征的症状和体征】
+大多数患者在青年或中年出现房室折返性心动过速的症状。典型症状为突然开始、突然停止的快速、规则的心悸发作，常伴有血流动力学损害的症状（如呼吸困难、胸部不适、头晕）。发作可能仅仅持续数秒钟或持续数小时（罕见>12小时者）。晕厥并不常见，但也有可能发生。婴儿可表现伴有发作性呼吸困难、昏睡、喂养问题，或快速心前区搏动。如果心动过速发作时间延长，婴儿可能出现心力衰竭的表现。
+患有 WPW 综合征的患者还可能出现快速传导的室上性心律失常，例如 1:1 传导的心房扑动或快速传导的心房颤动，其中血流动力学受损的症状（包括晕厥）更为常见。
+快速传导的心房颤动也可能诱发心室颤动和猝死。这种风险很低（约 1%），但更有可能发生在青春期。
+在心律失常发作间期，检查结果是正常的。
+
+【WPW综合征的诊断】
+心电图 (ECG)
+心电图 (ECG)
+WPW综合征的诊断依据是心电图显示PR间期较短（<0.12秒）、QRS波群较宽（≥0.12秒）且起始部分模糊（δ波），以及继发性ST段和T波改变（见图经典沃尔夫-帕金森-怀特(WPW)模式（1））。在 WPW 综合征中最常见的心律失常，即顺向性房室性心动过速期间，心电图显示快速（120 至 250 次/分钟）、规则的心动过速。QRS 波群通常较窄，但如果同时存在束支传导阻滞，则可能较宽（≥ 0.12 秒）。如果发现，P波位于RR间期的前半部分（短RP心动过速），通常位于ST段或T波早期，并且在下壁导联（II、III、aVF）中呈负向（见图窄QRS心动过速：沃尔夫-帕金森-怀特综合征中经房室旁路参与的顺向性房室折返性心动过速）。
+在逆向房室折返性心动过速期间，心电图显示快速（120 至 250 次/分钟）、规律的心动过速。由于全心室预激，QRS 波群较宽（≥ 0.12 秒）。当房室旁路作为旁观者传导室上性心律失常时，QRS波群可能显示全心室预激、与正常传导的窄QRS波群交替出现的间歇性全心室预激，和/或全心室预激的QRS波群与正常传导的QRS波群之间不同程度的融合。
+如果前向传导非常快，则 WPW 综合征中通过附加 AV 连接传导心房颤动可能非常危险。预激性心房颤动的线索包括非常快速、以宽 QRS 波群为主的心律失常，偶尔出现窄 QRS 波群，但这不是之前较长 RR 间隔的结果。QRS 波群形态可能有所不同，但所有 QRS 波群都是最宽 QRS 波群形态与正常窄 QRS 波群形态的融合。在预激性心房颤动中，房室结的正常心率限制作用被绕过，由此产生的过快心室率（有时为200至300次/分钟）可能导致心室颤动（2）。WPW综合征中心室颤动的危险因素包括年龄较小、运动、既往心动过速史、多个房室旁路、使用负性传导药物（尤其是洋地黄）以及预激性心房颤动期间最短RR间期≤0.25秒（2）。WPW综合征患者发生心房颤动的估计风险为每年 1.5%，猝死的估计风险为每年 0.1%（3）。
+
+【诊断参考】
+1.Brugada J, Katritsis DG, Arbelo E, et al: 2019 ESC Guidelines for the management of patients with supraventricular tachycardia.The Task Force for the management of patients with supraventricular tachycardia of the European Society of Cardiology (ESC).Eur Heart J41(5):655-720, 2020.doi: 10.1093/eurheartj/ehz467
+1.Brugada J, Katritsis DG, Arbelo E, et al: 2019 ESC Guidelines for the management of patients with supraventricular tachycardia.The Task Force for the management of patients with supraventricular tachycardia of the European Society of Cardiology (ESC).Eur Heart J41(5):655-720, 2020.doi: 10.1093/eurheartj/ehz467
+2.Klein GJ, Bashore TM, Sellers TD, Pritchett EL, Smith WM, Gallagher JJ: Ventricular fibrillation in the Wolff-Parkinson-White syndrome.N Engl J Med301(20):1080–1085, 1979.doi: 10.1056/NEJM197911153012003
+2.Klein GJ, Bashore TM, Sellers TD, Pritchett EL, Smith WM, Gallagher JJ: Ventricular fibrillation in the Wolff-Parkinson-White syndrome.N Engl J Med301(20):1080–1085, 1979.doi: 10.1056/NEJM197911153012003
+3.Brugada J, Keegan R: Asymptomatic Ventricular Pre-excitation: Between Sudden Cardiac Death and Catheter Ablation.Arrhythm Electrophysiol Rev7(1):32–38, 2018.doi: 10.15420/aer.2017.51
+3.Brugada J, Keegan R: Asymptomatic Ventricular Pre-excitation: Between Sudden Cardiac Death and Catheter Ablation.Arrhythm Electrophysiol Rev7(1):32–38, 2018.doi: 10.15420/aer.2017.51
+
+【WPW综合征的治疗】
+急性：治疗出现的心律失常
+急性：治疗出现的心律失常
+长期：慢性抗心律失常治疗，预防心律失常或消融房室旁路
+长期：慢性抗心律失常治疗，预防心律失常或消融房室旁路
+当 WPW 综合征患者出现快速、规则、窄 QRS 波心动过速时，心动过速的机制几乎总是顺向性房室折返性心动过速，可以像任何其他规则、窄 QRS 波心动过速一样进行治疗（见折返性（阵发性）室上性心动过速 (PSVT)）。首先尝试迷走神经刺激。
+如果患者血流动力学不稳定或对其他药物疗法没有反应，则使用同步直流心脏复律。对于血流动力学稳定的患者，首选静脉注射腺苷。如果对静脉注射腺苷没有反应，美国指南建议使用 IIb 类药物，如静脉注射β受体阻滞剂、静脉注射地尔硫卓或静脉注射维拉帕米（1）。对于已知患有 WPW 综合征的患者，此项 IIb 类建议（而不是针对 PSVT 其他原因所致患者的 IIa 类建议）认识到，由于存在其中一种药物，PSVT 可能会以更快的心室反应率终止于预激房颤，这种可能性极小。或者进行同步直流心脏复律。
+当患有 WPW 综合征的患者出现快速、规则、宽 QRS 波群心动过速时，可能性包括伴有束支传导阻滞的顺向性房室折返性心动过速、逆向性房室折返性心动过速、双旁路房室性心动过速、其他室上性心律失常（房性心动过速、心房扑动或房室结折返性心动过速）的经房室旁路前传或室性心动过速。如果出现血流动力学不稳定，则采用同步复律。如果患者血流动力学稳定且迷走神经刺激（试验）不成功，建议使用静脉注射普鲁卡因胺、静脉注射胺碘酮或同步心脏复律治疗（1）。
+当患有经典（表现型）WPW 综合征的患者出现心房颤动时，预计至少部分 QRS 复合波会出现心室预激。当大多数或所有QRS波群表现为心室预激时，心室反应速度可能很快。如果血流动力学不稳定，则使用同步直流电复律。如果血流动力学稳定，建议静脉注射伊布利特、静脉注射普鲁卡因胺或同步直流电复律（1）。
+对于有记录的 WPW 综合征相关快速性心律失常（或高度提示该症状）的患者，长期治疗是采用导管消融旁路（1）。WPW 综合征消融的荟萃分析显示，成功率为 94%，复发率为 6%（通常通过再次消融治疗），手术相关并发症发生率为 1%（2）。如果无法进行消融或患者拒绝消融，则可以使用除地高辛以外的几乎任何口服抗心律失常药物进行药物治疗。在没有结构性心脏疾病的情况下，IIa 类建议是口服氟卡尼或口服普罗帕酮（1）。对于口服多非利特、口服索他洛尔和口服胺碘酮给出了 IIb 类建议（1）。尽管对口服β受体阻滞剂（如果症状在运动时出现则特别有用）、口服地尔硫卓或口服维拉帕米给出了 IIb 类推荐，但如果发生心房颤动，这些药物仍有可能造成伤害。
+
+【治疗参考文献】
+1.Page RL, Joglar JA, Caldwell MA, et al: 2015 ACC/AHA/HRS Guideline for the Management of Adult Patients With Supraventricular Tachycardia: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society [published correction appears inJ Am Coll Cardiol2016 Dec 27;68(25):2922-2923. doi: 10.1016/j.jacc.2016.11.014].J Am Coll Cardiol2016 Apr 5;67(13):e27–e115, 2016.doi: 10.1016/j.jacc.2015.08.856
+1.Page RL, Joglar JA, Caldwell MA, et al: 2015 ACC/AHA/HRS Guideline for the Management of Adult Patients With Supraventricular Tachycardia: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society [published correction appears inJ Am Coll Cardiol2016 Dec 27;68(25):2922-2923. doi: 10.1016/j.jacc.2016.11.014].J Am Coll Cardiol2016 Apr 5;67(13):e27–e115, 2016.doi: 10.1016/j.jacc.2015.08.856
+2.Ibrahim Ali Sherdia AF, Abdelaal SA, Hasan MT, et al: The success rate of radiofrequency catheter ablation in Wolff-Parkinson-White-Syndrome patients: A systematic review and meta-analysis.Indian Heart J75(2):98–107, 2023.doi: 10.1016/j.ihj.2023.02.001
+2.Ibrahim Ali Sherdia AF, Abdelaal SA, Hasan MT, et al: The success rate of radiofrequency catheter ablation in Wolff-Parkinson-White-Syndrome patients: A systematic review and meta-analysis.Indian Heart J75(2):98–107, 2023.doi: 10.1016/j.ihj.2023.02.001
+沃尔夫-帕金森-怀特（WPW）综合征的特征包括PR间期缩短、QRS波群增宽伴初始顿挫（δ波），以及与症状性折返性（阵发性）室上性心动过速相关的继发性复极改变。
+沃尔夫-帕金森-怀特（WPW）综合征的特征包括PR间期缩短、QRS波群增宽伴初始顿挫（δ波），以及与症状性折返性（阵发性）室上性心动过速相关的继发性复极改变。
+折返性室上性心动过速发作是心悸、胸痛及有偶发晕厥等症状的根本原因。对于患有 WPW 综合征且发生心房颤动的患者，过快的心室反应速率可能导致心室颤动和猝死。
+折返性室上性心动过速发作是心悸、胸痛及有偶发晕厥等症状的根本原因。对于患有 WPW 综合征且发生心房颤动的患者，过快的心室反应速率可能导致心室颤动和猝死。
+对于不稳定患者的 WPW 相关心动过速，急性期治疗是采用同步直流电复律；对于患有规律、窄 QRS 波心动过速的稳定患者，治疗是静脉注射腺苷或肠外抗心律失常药物。
+对于不稳定患者的 WPW 相关心动过速，急性期治疗是采用同步直流电复律；对于患有规律、窄 QRS 波心动过速的稳定患者，治疗是静脉注射腺苷或肠外抗心律失常药物。
+长期治疗是采用导管消融旁路；如果无法进行消融，可以使用口服抗心律失常药物。
+长期治疗是采用导管消融旁路；如果无法进行消融，可以使用口服抗心律失常药物。

@@ -1,0 +1,91 @@
+标题：小脑疾病
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/movement-and-cerebellar-disorders/cerebellar-disorders
+============================================================
+
+（参见运动障碍和小脑疾病概述。）
+小脑分三个部分：
+古小脑（前庭小脑）它包括处于中间区域的绒球小结叶。前庭小脑协助维持平衡和协同眼球、头、颈的运动。它与前庭神经核紧密联系。
+古小脑（前庭小脑）它包括处于中间区域的绒球小结叶。前庭小脑协助维持平衡和协同眼球、头、颈的运动。它与前庭神经核紧密联系。
+正中线处的蚓部（旧小脑）：有助于协调躯干和下肢的活动。蚓部病变可以引起姿势和步态异常。
+正中线处的蚓部（旧小脑）：有助于协调躯干和下肢的活动。蚓部病变可以引起姿势和步态异常。
+侧半球（新小脑）：它们控制快速而协调的肢体运动，主要是手臂和手的运动。
+侧半球（新小脑）：它们控制快速而协调的肢体运动，主要是手臂和手的运动。
+越来越多的学者认为，除了协调作用，小脑还控制了部分记忆、学习及认知功能。
+共济失调是小脑功能障碍的典型症状，但是也可以出现许多其他运动障碍（见表小脑疾病的征象）。
+
+【小脑疾病的体征】
+小脑疾病的体征
+临床表现
+共济失调
+蹒跚，宽基步态
+动作分解
+不能正确的完成连续的、精细的、协调性的运动动作
+构音障碍
+无法正确吐词，发音不清
+轮替运动障碍
+不协调的快速交替动作
+辨距不良
+能力受损者通过有目标的运动达到目标
+张力过低
+肌张力减退
+眼球震颤
+出现水平、垂直、旋转方向上的眼球随意快速震颤，在朝向小脑病灶侧最为明显
+断续言语
+在说一个单词或一个音节时发音缓慢，甚至出现停顿
+在向目标物运动时出现的单肢的节律性、交替振荡运动（意向性震颤），或者是在近端肢体保持固定姿势或负重时出现的类似运动（姿势性震颤）；具有高振幅和低频率的特点。
+
+【小脑疾病的病因】
+小脑疾病最常见的原因是
+酒精性小脑变性
+酒精性小脑变性
+
+【先天畸形】
+这些疾病大多是散发的，通常作为复杂先天畸形综合征的一部分（如，Dandy-Walker畸形）。
+这些畸形多在早期就有相应的表现，并且病情大多不会进行性加重。临床表现因受累结构而异，但常会出现共济失调症状。
+
+【遗传性共济失调】
+遗传性共济失调可能是常染色体隐性或显性遗传。常染色体隐性遗传的包括Friedreich共济失调（最常见的）、共济失调毛细血管扩张症、无beta脂蛋白血症、共济失调伴单纯维生素E缺乏症、脑腱黄瘤病。
+Friedreich共济失调是由基因突变引起的，该基因突变导致9号染色体长臂上的FXN基因中的DNA序列GAA异常重复；FXN基因编码线粒体蛋白frataxin。GAA 序列重复 5 到 38 次FXN没有弗里德赖希共济失调的人的基因；然而，在弗里德赖希共济失调患者中，GAA 序列可能重复 70 到 > 1000 次（1,2)。常染色体隐性遗传。Frataxin含量减少导致线粒体内铁超载，从而线粒体的功能受损。
+患者大多在5岁到15岁间出现走路不稳，其后出现上肢的共济失调、构音困难以及轻瘫，尤其是下肢。如果出现震颤，仅为轻度。通常会出现上行足底反应。大多数患者的反射、振动觉和位置觉缺失。然而，对于晚发型弗里德赖希共济失调症（年龄 > 25 岁），反射可能得以保留。马蹄内翻足（畸形足）、脊柱侧弯和进展型心肌病也较常见。到20岁时，患者需依赖轮椅。中年通常会发生继发于心律失常或心衰所导致的死亡。正式的神经心理学测试可以检测出认知功能的下降。
+Omaveloxolone 是一种 NF2 通路激活剂，可用于治疗弗里德赖希共济失调。这种药物可以将共济失调的进展延迟 1.5 至 2 年（3）。
+脊髓小脑性共济失调是最常见的常染色体显性遗传的共济失调。随着对其基因知识的增多，这些共济失调的分类已经被修改了很多次(4)。迄今为止，至少已发现48个不同的基因位点；大约10个为具有特征性的DNA重复拷贝数异常增多。有些涉及包含编码谷氨酸的CAG重复拷贝数异常增多，类似亨廷顿舞蹈病。
+脊髓小脑性共济失调的临床表现不同。最常见的SCAs可影响中枢和周围神经系统的多个部位；周围神经病、锥体束征、不安腿综合征以及共济失调等较为常见。部分SCA通常只引起小脑性共济失调。
+SCA-3，之前称Machado-Joseph病，是最常见的显性遗传性SCA。症状包括：共济失调、帕金森综合征、可能的肌张力障碍、面部颤搐、眼肌麻痹及眼球异常突出。
+
+【获得性共济失调】
+获得性共济失调可能是由非遗传性神经变性疾病（如多系统萎缩）、系统性疾病、多发性硬化、小脑卒中、反复创伤性脑损伤、毒物接触或特发性。系统性疾病包括酒精中毒（酒精性小脑变性）、硫胺素缺乏、腹腔疾病、热休克、甲状腺功能减退以及维生素E缺乏。
+可导致小脑功能障碍的毒素包括一氧化碳、重金属、锂、苯妥英和某些溶剂。  某些药物（如抗癫痫药、高剂量镇静剂）中毒水平可引起小脑功能障碍和共济失调。
+亚急性小脑退行性疾病很少在乳腺癌，卵巢癌，肺小细胞癌或其他实体瘤患者中，以副肿瘤综合征的形式出现。小脑变性可出现在癌症诊断前数周至数年内。 Anti-Yo，现在称为 PCA-1（浦肯野细胞胞质抗体 1 型）是一种循环自身抗体，存在于某些患者的血清或脑脊液 (CSF) 中，尤其是患有乳腺癌或卵巢癌的女性。
+在儿童中，原发性大脑肿瘤（髓母细胞瘤、囊性星形细胞瘤）可能是引起本病的原因，小脑中线是这些肿瘤的好发部位。在儿童中，由病毒感染引起的可逆的、弥散的小脑功能障碍较为少见。
+
+【病因参考文献】
+1.Pandolfo M:Friedreich ataxia.Arch Neurol. 65 (10):1296–1303, 2008.doi: 10.1001/archneur.65.10.1296
+1.Pandolfo M:Friedreich ataxia.Arch Neurol. 65 (10):1296–1303, 2008.doi: 10.1001/archneur.65.10.1296
+2.Cook A, Giunti P: Friedreich's ataxia: clinical features, pathogenesis and management.Br Med Bull124 (1):19–30, 2017.doi: 10.1093/bmb/ldx034
+2.Cook A, Giunti P: Friedreich's ataxia: clinical features, pathogenesis and management.Br Med Bull124 (1):19–30, 2017.doi: 10.1093/bmb/ldx034
+3.Lynch DR, Chin MP, Boesch S, et al: Efficacy of omaveloxolone in Friedreich's ataxia: Delayed-start analysis of the MOXIe extension.Mov DisordFeb;38 (2):313–320, 2023.doi: 10.1002/mds.29286.Epub 2022 Nov 29.
+3.Lynch DR, Chin MP, Boesch S, et al: Efficacy of omaveloxolone in Friedreich's ataxia: Delayed-start analysis of the MOXIe extension.Mov DisordFeb;38 (2):313–320, 2023.doi: 10.1002/mds.29286.Epub 2022 Nov 29.
+4.Lange LM, Gonzalez-Latapi P, Rajalingam R, et al: Nomenclature of genetic movement disorders: Recommendations of the International Parkinson and Movement Disorder Society Task Force - An update.Mov Disord37 (5):905–935, 2022.doi: 10.1002/mds.28982 Epub 2022 Apr 28.
+4.Lange LM, Gonzalez-Latapi P, Rajalingam R, et al: Nomenclature of genetic movement disorders: Recommendations of the International Parkinson and Movement Disorder Society Task Force - An update.Mov Disord37 (5):905–935, 2022.doi: 10.1002/mds.28982 Epub 2022 Apr 28.
+
+【小脑疾病的诊断】
+临床评估
+临床评估
+通常MRI
+通常MRI
+有时需要进行基因检测
+有时需要进行基因检测
+小闹醒疾病主要依靠临床诊断，并且需要详细询问家族史，仔细搜寻继发的系统性疾病。
+完善神经影像学检查，通常是MRI。如果家族史提示遗传性，应进行基因测试
+
+【小脑疾病的治疗】
+尽可能治疗病因
+尽可能治疗病因
+通常只有支持
+通常只有支持
+每12小时口服50 mg利鲁唑可能有助于共济失调的短期治疗。一些研究表明金刚烷胺可以改善运动协调性，但金刚烷胺治疗共济失调的总体证据不足(1)。
+某些系统性疾病（如，甲状腺功能减退、口炎性腹泻）以及毒物接触引起的本症是可以治疗的。某些情况下，需行手术解除结构性损害（肿瘤、脑积水）。 然而，治疗通常只是支持性的（例如，锻炼以改善平衡、姿势和协调能力；帮助步行、进食和其他日常活动的设备）。
+
+【治疗参考文献】
+1.Zesiewicz TA, Wilmot G, Kuo SH, et al: Comprehensive systematic review summary: Treatment of cerebellar motor dysfunction and ataxia.Report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology.Neurology90 (10):464–471, 2018.doi: 10.1212/WNL.0000000000005055
+1.Zesiewicz TA, Wilmot G, Kuo SH, et al: Comprehensive systematic review summary: Treatment of cerebellar motor dysfunction and ataxia.Report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology.Neurology90 (10):464–471, 2018.doi: 10.1212/WNL.0000000000005055

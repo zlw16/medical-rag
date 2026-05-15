@@ -1,0 +1,46 @@
+标题：自主神经病
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/autonomic-nervous-system/autonomic-neuropathies
+============================================================
+
+(参见自主神经系统概述。）
+最常见的自主神经病是伴发于糖尿病的周围神经病变、淀粉样变性或自身免疫疾病介导的周围神经病。
+自身免疫性自主神经节病是一种自身免疫性疾病，常在一次病毒感染后发生；起病可以是亚急性的。
+自主神经功能障碍可能是酒精使用障碍所致神经病变的晚期表现。
+其他原因包括中毒、药物和副肿瘤综合征。
+
+【自主神经病的症状和体征】
+自主神经病变的常见症状包括体位性低血压、神经源性膀胱、勃起功能障碍、胃肠道麻痹和顽固性便秘等。
+当躯体感觉或运动神经同时受累时，会出现手套-袜子样感觉缺失和远端肢体无力。
+
+【自主神经病的诊断】
+病史和体格检查
+病史和体格检查
+有时需要进行实验室评估
+有时需要进行实验室评估
+自主神经病变的诊断基于自主神经功能障碍的证实，并且在可能的情况下，需明确神经病变的具体原因（如糖尿病、淀粉样变性）。
+病毒感染后发生自主神经节病需考虑免疫介导的可能。
+可以进行检测血清神经节烟碱乙酰胆碱受体抗体α-3（抗神经节AChR[α3-AChR]抗体）的测试。这种抗体存在于大约一半的自身免疫性自主神经病变患者中，偶尔也存在于其他自主神经病变患者中（1，2）。
+
+【诊断参考】
+1.Lamotte G, Sandroni P.Updates on the Diagnosis and Treatment of Peripheral Autonomic Neuropathies.Curr Neurol Neurosci Rep2022;22(12):823-837.doi:10.1007/s11910-022-01240-4
+1.Lamotte G, Sandroni P.Updates on the Diagnosis and Treatment of Peripheral Autonomic Neuropathies.Curr Neurol Neurosci Rep2022;22(12):823-837.doi:10.1007/s11910-022-01240-4
+2.Vernino S.Autoimmune Autonomic Disorders.Continuum (Minneap Minn)2020;26(1):44-57.doi:10.1212/CON.0000000000000812
+2.Vernino S.Autoimmune Autonomic Disorders.Continuum (Minneap Minn)2020;26(1):44-57.doi:10.1212/CON.0000000000000812
+
+【自主神经病的治疗】
+治疗潜在疾病
+治疗潜在疾病
+有时会采用免疫疗法、血浆置换或静脉注射免疫球蛋白
+有时会采用免疫疗法、血浆置换或静脉注射免疫球蛋白
+治疗潜在的疾病，和症状一样。 若存在体位性低血压，推荐非药物疗法，如补水、增加钠摄入、压力袜及运动锻炼。如症状严重，可使用药物疗法治疗直立性低血压。若疼痛明显，可开具局部治疗或神经病理性疼痛药物。
+自身免疫性自主神经节病可能对免疫治疗有反应(1)；难治性病例可采用血浆置换或注射免疫球蛋白（2）。
+
+【治疗参考文献】
+1.Kaur D, Tiwana H, Stino A, Sandroni P.Autonomic neuropathies.Muscle Nerve2021;63(1):10-21.doi:10.1002/mus.27048
+1.Kaur D, Tiwana H, Stino A, Sandroni P.Autonomic neuropathies.Muscle Nerve2021;63(1):10-21.doi:10.1002/mus.27048
+2.Tavee J, Brannagan TH 3rd, Lenihan MW, et al.Updated consensus statement: Intravenous immunoglobulin in the treatment of neuromuscular disorders report of the AANEM ad hoc committee.Muscle Nerve2023;68(4):356-374.doi:10.1002/mus.27922
+2.Tavee J, Brannagan TH 3rd, Lenihan MW, et al.Updated consensus statement: Intravenous immunoglobulin in the treatment of neuromuscular disorders report of the AANEM ad hoc committee.Muscle Nerve2023;68(4):356-374.doi:10.1002/mus.27922
+诊断需基于自主神经功能障碍相关症状的识别（例如，体位性低血压、神经源性膀胱功能障碍、勃起功能障碍、胃轻瘫、顽固性便秘），并在可能的情况下明确神经病变的病因。
+诊断需基于自主神经功能障碍相关症状的识别（例如，体位性低血压、神经源性膀胱功能障碍、勃起功能障碍、胃轻瘫、顽固性便秘），并在可能的情况下明确神经病变的病因。
+若发现有潜在疾病，应进行针对性治疗；若诊断为自身免疫性自主神经节病，可尝试免疫治疗；若症状严重，可行血浆置换或静脉注射丙种球蛋白。
+若发现有潜在疾病，应进行针对性治疗；若诊断为自身免疫性自主神经节病，可尝试免疫治疗；若症状严重，可行血浆置换或静脉注射丙种球蛋白。

@@ -1,0 +1,71 @@
+标题：孢子丝菌病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/fungal-infections/sporotrichosis
+============================================================
+
+(参见真菌感染概述。)
+孢子丝菌病是由二型真菌属孢子丝菌（最常见为申克孢子丝菌及相关物种如巴西孢子丝菌和球形孢子丝菌）引起的皮肤真菌病。Sporothrix（孢子菌）种属是二型真菌，在组织和37°C（98.6°F）培养中呈酵母形态，但在30°C（86°F）时呈丝状真菌形态。
+Sporothrix（申克氏孢子丝菌）属真菌常存在于玫瑰或小檗灌木、泥炭藓、干草及其他覆盖物中（1）。园艺师、园丁、农场工人和伐木工人最常受感染，通常是在被污染的材料损伤后感染。与其他二态真菌相比，Sporothrix（申克氏孢子丝菌）物种通常不是通过吸入传播，而是通过皮肤上的糜烂和擦伤进入人体。
+猫在孢子丝菌感染的人畜共患传播中起中心作用，特别是在拉丁美洲（2）。传播主要通过感染猫的皮肤病变抓伤、咬伤或接触渗出液而发生。巴西及南美其他地区的暴发由人畜共患传播驱动，巴西孢子丝菌是主要涉及的物种。(另见Sporotrichosis in Animals。)
+
+【参考文献】
+1.Centers for Disease Control and Prevention (CDC).孢子丝菌病基础知识。April 24, 2024.
+1.Centers for Disease Control and Prevention (CDC).孢子丝菌病基础知识。April 24, 2024.
+2.Rodrigues AM, Della Terra PP, Gremião ID, Pereira SA, Orofino-Costa R, de Camargo ZP.The threat of emerging and re-emerging pathogenicSporothrixspecies.Mycopathologia.2020;185(5):813-842.doi:10.1007/s11046-020-00425-0
+2.Rodrigues AM, Della Terra PP, Gremião ID, Pereira SA, Orofino-Costa R, de Camargo ZP.The threat of emerging and re-emerging pathogenicSporothrixspecies.Mycopathologia.2020;185(5):813-842.doi:10.1007/s11046-020-00425-0
+
+【孢子丝菌病的症状和体征】
+淋巴皮肤感染最为常见。其典型累及一侧手和上肢，但亦可发生于身体任何部位；原发皮损可见于足部或面部等暴露部位。
+原发病变可表现为小而无触痛的丘疹，偶尔可表现为缓慢扩展的皮下结节，皮下结节最终发生坏死，有时可形成溃疡。在接触受感染的猫后，抓伤或咬伤可能发生感染。其他病变可能在接触感染猫的溃疡病变渗出物后被感染。
+典型的表现是数日或数周后，引流受累及区域的淋巴结开始逐渐进行性增大，最后形成可活动的皮下结节。这种沿淋巴引流线扩散称为孢子丝菌样扩散。若不治疗，覆盖其上的皮肤可出现红斑，随后可能发生坏死，有时形成脓肿和溃疡；亦可并发细菌继发感染。感染的全身症状和体征明显缺乏。
+孢子丝菌病开始时是小丘疹或皮下结节，可形成溃疡或坏死。
+孢子丝菌病开始时是小丘疹或皮下结节，可形成溃疡或坏死。
+Image courtesy of www.doctorfungus.org © 2005.
+这张照片显示了右手背上淋巴管（孢子丝状）分布的皮肤结节。
+这张照片显示了右手背上淋巴管（孢子丝状）分布的皮肤结节。
+Image courtesy of Karen McKoy, MD.
+孢子丝菌病开始时是小丘疹或皮下结节，可形成溃疡或坏死。感染通过淋巴传播。
+如果不治疗，可能会发展成弥漫性红斑、溃疡和脓肿，如本例所示的严重细菌重叠感染。
+孢子丝菌病开始时是小丘疹或皮下结节，可形成溃疡或坏死。感染通过淋巴传播。
+如果不治疗，可能会发展成弥漫性红斑、溃疡和脓肿，如本例所示的严重细菌重叠感染。
+CDC/ Dr. Lucille K.Georg
+孢子丝菌病开始时是小丘疹或皮下结节，可形成溃疡或坏死。
+孢子丝菌病开始时是小丘疹或皮下结节，可形成溃疡或坏死。
+Image courtesy of www.doctorfungus.org © 2005.
+这张照片显示了右手背上淋巴管（孢子丝状）分布的皮肤结节。
+这张照片显示了右手背上淋巴管（孢子丝状）分布的皮肤结节。
+Image courtesy of Karen McKoy, MD.
+孢子丝菌病开始时是小丘疹或皮下结节，可形成溃疡或坏死。感染通过淋巴传播。
+如果不治疗，可能会发展成弥漫性红斑、溃疡和脓肿，如本例所示的严重细菌重叠感染。
+孢子丝菌病开始时是小丘疹或皮下结节，可形成溃疡或坏死。感染通过淋巴传播。
+如果不治疗，可能会发展成弥漫性红斑、溃疡和脓肿，如本例所示的严重细菌重叠感染。
+CDC/ Dr. Lucille K.Georg
+淋巴管型皮肤孢子丝菌病病程慢性而惰性；其本身潜在可致命，但通常仅在细菌继发感染导致败血症时发生。
+偶尔可无原发性淋巴皮肤病变而可经血流播散导致多个外周关节的慢性感染，有时可累及骨骼，更为少见的情况就是引起生殖道、肝脏、脾脏、肾脏或脑膜的感染。此类感染在因其他疾病导致免疫功能受损的患者中更为常见（如酒精使用障碍）。同样罕见的是因吸入孢子所致的慢性肺炎，表现为局灶性浸润或空洞，最常见于既往存在慢性肺部疾病的患者。
+
+【孢子丝菌病的诊断】
+培养和组织病理学检查
+培养和组织病理学检查
+分子学方法
+分子学方法
+根据有真菌接触史的患者（例如，园丁，园林设计师，林务员）的临床表现，怀疑孢子丝菌病的诊断。
+孢子丝菌病特征性的结节性淋巴管炎/皮肤型临床表现亦可由其他病原体引起，包括结核分枝杆菌、非结核分枝杆菌、诺卡菌、土拉弗朗西斯菌以及巴西利什曼原虫。在获取活检组织并进行适当的组织学染色和培养后，通常可以建立微生物学诊断（1）。在疾病早期、尚未播散阶段，原发皮损可能被误诊为蜘蛛咬伤。
+从活动性感染部位取材培养可提供确诊依据。尽管使用特殊的染色方法，但酵母相Sporothrix（申克孢子丝菌）也很难在固定的组织标本中查见。尚无用于本病血清学诊断的方法。
+基于聚合酶链反应（PCR）的检测方法可快速、高灵敏度和特异性检测组织或临床标本中的孢子丝菌DNA（2）。当培养阴性或不可行时，PCR等分子学方法有助于确诊。
+
+【诊断参考】
+1.Tobin EH, Jih WW.Sporotrichoid lymphocutaneous infections: Etiology, diagnosis and therapy.Am Fam Physician. 2001;63(2):326–332.
+1.Tobin EH, Jih WW.Sporotrichoid lymphocutaneous infections: Etiology, diagnosis and therapy.Am Fam Physician. 2001;63(2):326–332.
+2.Zhang M, Li F, Li R, Gong J, Zhao F.Fast diagnosis of sporotrichosis caused bySporothrix globosa,Sporothrix schenckii, andSporothrix brasiliensisbased on multiplex real-time PCR.PLoS Negl Trop Dis.2019;13(2):e0007219.Published 2019 Feb 28.doi:10.1371/journal.pntd.0007219
+2.Zhang M, Li F, Li R, Gong J, Zhao F.Fast diagnosis of sporotrichosis caused bySporothrix globosa,Sporothrix schenckii, andSporothrix brasiliensisbased on multiplex real-time PCR.PLoS Negl Trop Dis.2019;13(2):e0007219.Published 2019 Feb 28.doi:10.1371/journal.pntd.0007219
+
+【孢子丝菌病的治疗】
+对于淋巴管型皮肤孢子丝菌病，推荐使用伊曲康唑。
+对于淋巴管型皮肤孢子丝菌病，推荐使用伊曲康唑。
+对于严重播散性疾病，使用两性霉素B
+对于严重播散性疾病，使用两性霉素B
+伊曲康唑是淋巴皮肤型疾病的首选治疗（1）。口服伊曲康唑应在所有皮损完全消退后继续使用 2–4 周（通常总疗程为 3–6 个月）。泊沙康唑显示体外活性，可能是替代治疗选择。
+重症或播散性疾病需采用静脉给药的脂质制剂两性霉素 B；在获得良好临床反应后，应转换为口服伊曲康唑，总治疗疗程为 12 个月。晚期 HIV 感染患者如出现脑膜受累或播散性感染，可能需要终身使用伊曲康唑进行维持治疗。
+
+【治疗参考文献】
+1.Kauffman CA, Bustamante B, Chapman SW, Pappas PG; Infectious Diseases Society of America.Clinical practice guidelines for the management of sporotrichosis: 2007 update by the Infectious Diseases Society of America.Clin Infect Dis.2007;45(10):1255-1265.doi:10.1086/522765
+1.Kauffman CA, Bustamante B, Chapman SW, Pappas PG; Infectious Diseases Society of America.Clinical practice guidelines for the management of sporotrichosis: 2007 update by the Infectious Diseases Society of America.Clin Infect Dis.2007;45(10):1255-1265.doi:10.1086/522765

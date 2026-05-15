@@ -1,0 +1,100 @@
+标题：父母的孕前或产前携带者检测
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/prenatal-genetic-counseling-and-evaluation/preconception-or-prenatal-carrier-testing-of-parents
+============================================================
+
+携带者检测是常规产前护理的一部分，最好在受孕前进行携带者筛查的范围与女性及其伴侣如何权衡以下因素有关
+根据高危因素和以往的检查结果来判断胎儿异常的可能性
+根据高危因素和以往的检查结果来判断胎儿异常的可能性
+侵袭性胎儿检查发生并发症的可能性
+侵袭性胎儿检查发生并发症的可能性
+知道检查结果的重要性（例如，如果诊断出异常是否会终止妊娠，如果不知道结果是否会引起焦虑）
+知道检查结果的重要性（例如，如果诊断出异常是否会终止妊娠，如果不知道结果是否会引起焦虑）
+因此，该决策具有个体差异性，相关建议通常无法推广至所有女性，即便是具有相似风险的女性。
+筛查病史是评估的一部分家族系谱可以用来概括整个家族史的情况(见图构建家族谱系的符号)。信息应包括双亲的健康状况、遗传疾病或携带者状态，一级亲属（父母、兄弟姐妹、子女）和二级亲属（姨妈、姑姑、舅舅、叔叔、祖父母）的这些状况，同时还应包括种族背景和血亲婚配情况。既往孕产史也应有记录。如果怀疑有基因异常，应该回顾相关的病史记录。
+对潜在父母进行检测，以确定其是否为可能导致后代受到影响的遗传携带者最好在受孕前进行；然而，许多人等到受孕后才进行携带者筛查。传统上，筛查测试针对的是可能成为某些常见孟德尔遗传病无症状携带者的父母（见表格潜在父母的孕前或产前基因筛查）。由于父母的种族往往很复杂，也没有明确的定义，而且产前基因检测变得更为廉价快捷，一些临床医生开始对所有潜在（和准）父母进行筛查，而不考虑种族（称为普遍携带者筛查）。因此，当前的携带者筛查方法包括为所有患者提供相同的更大的待评估条件列表。通常包括数十种基因和疾病（某些疾病的表型后果比其他更严重）（1）。增加检测和评估的项目预计将增加检测前咨询的复杂性。美国医学遗传学与基因组学学会建议基于携带者频率建立分层携带者筛查体系，并提供了包含在携带者筛查组中的疾病列表表格（2）。
+(参见产前遗传咨询。）
+
+【参考文献】
+1.American College of Obstetricians and Gynecologists/Committee on Genetics: Committee opinion no. 690: Carrier Screening in the age of genomic medicine.Obstet Gynecol129 (3):e35–e40, 2017.doi: 10.1097/AOG.0000000000001951
+1.American College of Obstetricians and Gynecologists/Committee on Genetics: Committee opinion no. 690: Carrier Screening in the age of genomic medicine.Obstet Gynecol129 (3):e35–e40, 2017.doi: 10.1097/AOG.0000000000001951
+2.Gregg AR, Aarabi M, Klugman S, et al: Screening for autosomal recessive and X-linked conditions during pregnancy and preconception: A practice resource of the American College of Medical Genetics and Genomics (ACMG).[published correction appears inGenet Med2021 Aug 27].Genet Med23(10):1793-1806, 2021.doi:10.1038/s41436-021-01203-z
+2.Gregg AR, Aarabi M, Klugman S, et al: Screening for autosomal recessive and X-linked conditions during pregnancy and preconception: A practice resource of the American College of Medical Genetics and Genomics (ACMG).[published correction appears inGenet Med2021 Aug 27].Genet Med23(10):1793-1806, 2021.doi:10.1038/s41436-021-01203-z
+
+【产前检测以发现胎儿基因异常】
+受孕后，孕妇应接受非侵入性胎儿染色体异常筛查检测使用几种方法之一（例如，游离DNA 血清测试、分析物筛选）（1）。如果筛查结果呈阳性，可以进行后续检查胎儿诊断基因检测这是一种使用胎儿细胞样本的侵入性检查（见表格胎儿基因诊断检测的适应症）。这些诊断检测可以对遗传异常提供确切的诊断此外，如果对父母一方进行的筛查（在受孕前或受孕后进行）检测到基因异常，孕妇可以选择进行胎儿基因诊断测试（例如绒毛膜绒毛取样或羊膜穿刺术），而无需先进行非侵入性胎儿筛查测试（例如cfDNA或血清筛查）。
+胎儿染色体疾病筛查包括对胎儿唐氏综合征、18三体综合征及13三体综合征的筛查，通过分析母体血浆中的游离DNA（cfDNA）实现，最早可在妊娠10周时进行检测。另一种筛查方法称为分析物筛查，使用多种母体血清标志物（甲胎蛋白、β-人绒毛膜促性腺激素[β-hCG]、雌三醇、抑制素A）来检测神经管缺损、唐氏综合征（和其他染色体异常），以及其他一些出生缺陷。分析物筛选在妊娠15至20周进行。
+如果胎儿染色体异常的风险增加，通常建议进行胎儿基因诊断测试检查（见表格胎儿基因诊断检测的适应症）。胎儿基因诊断检测，不同于筛查试验，通常是侵入性的，对胎儿有风险。因此，在过去，对于没有危险因素或父母一方无已知遗传异常的女性，不常规推荐这些检查。然而，由于胎儿遗传诊断测试现在更加广泛可用，安全性也有所提高，因此建议为所有孕妇提供胎儿遗传测试，无论风险如何。
+胎儿基因诊断检测包括绒毛膜绒毛取样、羊膜穿刺术或罕见的经皮脐血管采样。此外，对于通过辅助生殖技术（例如体外受精）受孕的妊娠，植入前基因诊断是一种选择。
+胎儿遗传诊断测试可以检测所有三体综合征、许多其他染色体异常和数百种孟德尔异常。亚微观染色体异常在传统核型检测中难以发现，仅能通过微阵列技术（如阵列比较基因组杂交和基于单核苷酸多态性（SNP）的微阵列）进行识别。阵列比较基因组杂交技术在产前检查中最常用，用以评估胎儿结构异常。 阵列检测染色体数目异常（例如，三体性）以及不平衡的染色体结构异常，例如基因微缺失。研究报告显示，在结构异常的胎儿中，约有6%的阵列异常发生率可能通过传统核型分析被遗漏。
+胚胎植入前遗传学诊断可用于体外受精的夫妇。
+
+【对潜在父母的孕前或产前基因检测】
+对潜在父母的孕前或产前基因检测
+父母遗传携带者筛查测试
+产前胎儿基因诊断测试（如果父母携带者检测呈阳性）
+囊性纤维化
+对至少23种最常见的CFTR致病基因变异（以前称为突变）进行DNA分析，其中每种变异在美国人群中的发生率均≥0.1%。
+PGD、CVS或者羊膜穿刺术用于基因测定*
+Ashkenazi犹太人†
+卡纳万病
+进行DNA分析以检出最常见的致病基因变异
+PGD、CVS或者羊膜穿刺术进行DNA分析
+家族性自主神经功能紊乱
+进行DNA分析以检出最常见的致病基因变异
+PGD、CVS或者羊膜穿刺术进行DNA分析
+Tay-Sachs病
+检测血清己糖胺酶A有无缺陷；或DNA分析
+PGD、CVS或者羊膜穿刺术进行DNA分析
+镰状细胞贫血
+血红蛋白电泳
+PGD、CVS或者羊膜穿刺术进行基因型测定（直接DNA分析）
+Tay-Sachs病
+检测血清己糖胺酶A有无缺陷；或DNA分析
+PGD、CVS或者羊膜穿刺术进行DNA分析
+东南亚人、印度裔亚洲人、非洲人、地中海人、中东人
+beta-地中海贫血
+CBC；若MCV<80 fL，进行血红蛋白电泳或DNA分析
+PGD、CVS或者羊膜穿刺术进行基因型测定（直接DNA分析或连锁分析）
+东南亚人、柬埔寨人、中国人、菲律宾人、老挝人、越南人
+alpha-地中海贫血
+CBC；若MCV<80 fL，进行血红蛋白电泳或DNA分析
+PGD、CVS或者羊膜穿刺术进行基因型测定（直接DNA分析或连锁分析）
+*明确诊断并不总是可能的；检测灵敏度因种族背景而异。该表包含了一些祖先；但这并不是完整的清单。SeeCommittee Opinion No. 691: Carrier Screening for Genetic Conditions.Obstet Gynecol129(3):e41-e55, 2017.doi:10.1097/AOG.0000000000001952 for more information.
+†德系犹太人背景的人群，一些专家还建议进行戈谢病、尼曼-皮克病A型、范科尼综合征C组、布卢姆综合征和粘脂贮积症IV型的筛查
+CBC =全血细胞计数；CFTR=囊性纤维化跨膜传导调节因子；CVS=绒毛膜取样；PGD=植入前遗传学诊断；MCV=平均红细胞体积。
+*明确诊断并不总是可能的；检测灵敏度因种族背景而异。该表包含了一些祖先；但这并不是完整的清单。SeeCommittee Opinion No. 691: Carrier Screening for Genetic Conditions.Obstet Gynecol129(3):e41-e55, 2017.doi:10.1097/AOG.0000000000001952 for more information.
+†德系犹太人背景的人群，一些专家还建议进行戈谢病、尼曼-皮克病A型、范科尼综合征C组、布卢姆综合征和粘脂贮积症IV型的筛查
+CBC =全血细胞计数；CFTR=囊性纤维化跨膜传导调节因子；CVS=绒毛膜取样；PGD=植入前遗传学诊断；MCV=平均红细胞体积。
+
+【胎儿基因诊断检测的指征】
+胎儿基因诊断检测的指征
+检测意愿
+美国妇产科医师学会（ACOG）建议，无论孕妇年龄如何，都应向所有孕妇提供无创和侵入性检测，以评估胎儿的核型。
+既往复发性自然流产
+父母双方均可进行染色体分析。
+以往生育过染色体异常的子女
+父母双方均可进行染色体分析。
+父亲年龄>50岁
+检测是有争议的，因为尽管父亲年龄较大会增加某些致病基因变异的风险，但可能的新发致病基因变异的数量和位点是广泛的，这使检测变得困难。但是，正在研究的外显子组测试可能有用，因为它使用单一实验室检测来识别许多致病基因变异。
+父母染色体异常
+根据具体的异常，并非所有父母的染色体重排都会与后代的风险相关。
+疑似父母性连锁孟德尔遗传病
+必须知道父母的特定致病基因变异才能提供检测。
+父母双方明确诊断或疑似常染色体隐性孟德尔遗传病
+必须知道父母的特定致病基因变异才能提供检测。
+母体血浆游离DNA分析结果异常
+孕早期进行绒毛膜绒毛取样，或者孕中期进行羊膜穿刺术。
+孕妇血清指标*提示21三体综合征或18三体综合征
+在妊娠早期进行绒毛膜取样或在妊娠中期进行羊膜穿刺术。
+孕妇甲胎蛋白升高和不确定的超声检查结果
+进行羊膜穿刺术。
+超声检查提示胎儿结构异常（包括孕早期的颈项透明层增厚）
+胎儿染色体异常的风险取决于具体的解剖学发现。
+*在孕早期或孕中期检查。
+ACOG=美国妇产科协会。
+*在孕早期或孕中期检查。
+ACOG=美国妇产科协会。
+
+【测试参考文献】
+1.American College of Obstetricians and Gynecologists’ Committee on Practice Bulletins—Obstetrics; Committee on Genetics; Society for Maternal-Fetal Medicine: Screening for fetal chromosomal abnormalities: ACOG Practice Bulletin, Number 226.Obstet Gynecol.2020;136(4):e48-e69.doi:10.1097/AOG.0000000000004084
+1.American College of Obstetricians and Gynecologists’ Committee on Practice Bulletins—Obstetrics; Committee on Genetics; Society for Maternal-Fetal Medicine: Screening for fetal chromosomal abnormalities: ACOG Practice Bulletin, Number 226.Obstet Gynecol.2020;136(4):e48-e69.doi:10.1097/AOG.0000000000004084

@@ -1,0 +1,39 @@
+标题：膀胱畸形
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-renal-and-genitourinary-anomalies/bladder-anomalies
+============================================================
+
+先天性膀胱畸形常单独发生，不伴其他泌尿生殖系统畸形。可引起感染、尿潴留、尿失禁和反流。有症状的畸形需要手术治疗。
+
+【膀胱憩室】
+膀胱憩室是通过膀胱肌肉缺陷而形成的膀胱粘膜的疝。该情况易导致尿路感染（UTIs）并可能与膀胱输尿管反流共存。通常在评估胎儿肾积水或幼儿复发性尿路感染时发现。
+膀胱憩室的诊断通过 VCUG 进行。如果憩室很大，在超声波上也可以看到。
+可能需要手术切除憩室、输尿管再植和重建膀胱壁。
+该图像显示了右侧膀胱憩室的膀胱造影。
+图片由Ronald Rabinowitz 医生和Jimena Cubillos 医生提供。Ronald Rabinowitz医生和Jimena Cubillos医生。
+
+【膀胱外翻】
+在膀胱外翻中，从脐部到会阴部的中线闭合失败，导致膀胱黏膜与腹壁皮肤相连续、耻骨联合分离，以及尿道上裂或生殖器分裂畸形。膀胱开放显露在耻骨联合上方，并见尿液从开放的膀胱滴出而不通过尿道。尽管畸形严重，一般肾功能能维持良好。
+膀胱通常可以重建并回纳至盆腔，尽管膀胱输尿管反流（vesicoureteral reflux）不可避免会发生，但可根据需要予以处理。若膀胱储尿囊扩张不足或存在括约肌功能不全，可能需要进一步手术干预治疗。生殖器的重建是必需的，可以在产后立即进行，也可以延迟进行。
+该图显示一名患有膀胱外翻并完全性尿道上裂的新生儿。
+图片由Ronald Rabinowitz医生和Jimena Cubillos医生提供。Ronald Rabinowitz医生和Jimena Cubillos医生。
+
+【巨大膀胱综合征】
+在这种综合征中，通常在女孩身上发展出一个没有明显出口阻塞的大而薄壁的光滑膀胱。膀胱输尿管反流是常见的。
+巨膀胱综合征发病机制尚不清楚。该综合征可能是原发性肌神经缺陷的表现，尤其是当同时存在肠梗阻（如巨膀胱-小结肠-肠蠕动不良综合征）时。
+症状与尿路感染或膀胱排空不全有关。
+膀胱排空时的超声检查可能显示上尿路形态正常，但 VCUG 可发现伴有上尿路重度扩张的反流现象。
+输尿管再植术可能有效，但部分患者通过抗菌药物预防、定时排尿结合行为矫正、间歇性导尿或联合治疗方式获益更佳。
+
+【神经源性膀胱】
+神经源性膀胱是由于神经系统疾病引起的膀胱功能障碍，包括脊髓或中枢神经系统异常（例如，脊柱裂、脑瘫）、外伤或盆腔手术（例如，骶尾部畸胎瘤或先天性肛门闭锁）的后遗症 (1)。
+膀胱可以是松弛的，痉挛的，或二者兼有。弛缓性膀胱具有高容量，低压力，最小的收缩。 痉挛性膀胱表现为容量正常或缩小，压力高和不自主收缩。当存在慢性膀胱压力升高（>40 cm H2O）时，即使没有感染或反流，也常常导致肾脏进行性损害。
+表现包括反复发作的尿路感染、尿潴留和/或尿失禁、膀胱结石和潜在的肾功能不全。
+潜在的神经异常通常是显而易见的。通常测量尿后残余尿量，肾脏超声检测肾积水，检测血清肌酐或胱抑素C评估肾功能。尿动力学检查通常用于明确诊断，以及监测膀胱压力和功能。随着孩子的成长，这些研究通常按计划间隔重复进行，以评估膀胱和肾功能的恶化。
+管理目标包括降低感染风险、维持适当的膀胱储尿压力与容量、实现有效膀胱排空，以及达到社会性控尿能力。神经源性膀胱的治疗方法包括药物治疗（如抗胆碱能药物、预防性抗生素）、清洁间歇导尿（CIC）和/或手术干预（如膀胱扩大术、阑尾膀胱造口术、肉毒毒素注射、神经调控治疗）。肉毒杆菌毒素的使用近年来有所增加，它用于治疗对口服药物和清洁间歇导尿（CIC）无效的神经源性膀胱儿童。在对6项研究的系统回顾中，儿童在接受肉毒杆菌毒素治疗后，临床和尿动力学均得到改善，且无不良反应（2）。
+患有神经源性膀胱的儿童通常同时存在神经源性肠道功能障碍，表现为便秘和大便失禁，这些症状同样需要妥善管理。
+
+【神经源性膀胱参考文献】
+1.Ginsberg DA, Boone TB, Cameron AP, et al.The AUA/SUFU Guideline on Adult Neurogenic Lower Urinary Tract Dysfunction: Diagnosis and Evaluation.J Urol.2021;206(5):1097-1105.doi:10.1097/JU.0000000000002235
+1.Ginsberg DA, Boone TB, Cameron AP, et al.The AUA/SUFU Guideline on Adult Neurogenic Lower Urinary Tract Dysfunction: Diagnosis and Evaluation.J Urol.2021;206(5):1097-1105.doi:10.1097/JU.0000000000002235
+2.Gamé X, Mouracade P, Chartier-Kastler E, et al. Botulinum toxin-A (Botox) intradetrusor injections in children with neurogenic detrusor overactivity/neurogenic overactive bladder: a systematic literature review.J Pediatr Urol.2009;5(3):156-164.doi:10.1016/j.jpurol.2009.01.005
+2.Gamé X, Mouracade P, Chartier-Kastler E, et al. Botulinum toxin-A (Botox) intradetrusor injections in children with neurogenic detrusor overactivity/neurogenic overactive bladder: a systematic literature review.J Pediatr Urol.2009;5(3):156-164.doi:10.1016/j.jpurol.2009.01.005

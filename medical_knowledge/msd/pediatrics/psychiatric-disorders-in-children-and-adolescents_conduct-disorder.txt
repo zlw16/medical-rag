@@ -1,0 +1,84 @@
+标题：行为障碍
+来源：https://www.msdmanuals.cn/professional/pediatrics/psychiatric-disorders-in-children-and-adolescents/conduct-disorder
+============================================================
+
+品行障碍（CD）是在儿童和青少年中诊断出的一种精神健康障碍，其特征是持续的侵犯他人权利或社会规范的行为模式。在美国，行为障碍的患病率估计在3%至9%之间变化； （1，2）。发病通常在儿童晚期或青春期早期，男孩多于女孩。与其他精神健康障碍相比，由于认识有限和证据相对缺乏，该疾病的表现具有异质性，报告可能低估了真实的人群患病率。行为障碍是一种严重状况，被认为比对立违抗性障碍更为严重，因其可能导致反社会行为及违法行为。
+
+【参考文献】
+1.Nock MK, Kazdin AE, Hiripi E, Kessler RC.Prevalence, subtypes, and correlates of DSM-IV conduct disorder in the National Comorbidity Survey Replication.Psychol Med.2006;36(5):699-710.doi:10.1017/S0033291706007082
+1.Nock MK, Kazdin AE, Hiripi E, Kessler RC.Prevalence, subtypes, and correlates of DSM-IV conduct disorder in the National Comorbidity Survey Replication.Psychol Med.2006;36(5):699-710.doi:10.1017/S0033291706007082
+2.Fairchild G, Hawes DJ, Frick PJ, et al.Conduct disorder.Nat Rev Dis Primers.2019;5(1):43.Published 2019 Jun 27.doi:10.1038/s41572-019-0095-y
+2.Fairchild G, Hawes DJ, Frick PJ, et al.Conduct disorder.Nat Rev Dis Primers.2019;5(1):43.Published 2019 Jun 27.doi:10.1038/s41572-019-0095-y
+
+【品行障碍的病因学】
+品行障碍的病因很可能是遗传与环境因素复杂的相互作用所致。一项荟萃分析显示，环境因素在反社会行为的形成中可能略强于遗传因素的影响；在同时纳入男性与女性的研究中，未发现明显的性别相关病因差异（1）。全基因组关联研究尚未发现与其发病机制相关的一致可复制的候选基因或单核苷酸多态性（2）。杏仁核对痛苦信号的反应减少以及腹内侧前额叶皮层和纹状体的功能障碍可能导致这些儿童和青少年的决策缺陷。品行障碍的患病率中已发现种族与性别差异（3）。
+有行为障碍的青少年，其父母常有药物滥用和反社会行为，这类青少年常被诊断为注意力缺陷/多动症(ADHD)、情绪障碍、精神分裂症或反社会人格障碍。据报道，四氢大麻酚 (THC) 是身体暴力的危险因素，即使在社会经济因素和其他物质使用被考虑在内时也是如此（4）。城市居住、父母社会经济地位较低以及父母离异与行为障碍相关。 但行为障碍也可见于高功能、健康家庭的孩子。
+
+【病因参考文献】
+1.Rhee SH, Waldman ID.Genetic and environmental influences on antisocial behavior: a meta-analysis of twin and adoption studies.Psychol Bull.2002;128(3):490-529.
+1.Rhee SH, Waldman ID.Genetic and environmental influences on antisocial behavior: a meta-analysis of twin and adoption studies.Psychol Bull.2002;128(3):490-529.
+2.Blair RJ.The neurobiology of psychopathic traits in youths.Nat Rev Neurosci.2013;14(11):786-799.doi:10.1038/nrn3577
+2.Blair RJ.The neurobiology of psychopathic traits in youths.Nat Rev Neurosci.2013;14(11):786-799.doi:10.1038/nrn3577
+3.Shalaby N, Sengupta S, Williams JB.Large-scale analysis reveals racial disparities in the prevalence of ADHD and conduct disorders.Sci Rep.2024;14(1):25123.Published 2024 Oct 24.doi:10.1038/s41598-024-75954-
+3.Shalaby N, Sengupta S, Williams JB.Large-scale analysis reveals racial disparities in the prevalence of ADHD and conduct disorders.Sci Rep.2024;14(1):25123.Published 2024 Oct 24.doi:10.1038/s41598-024-75954-
+4.Dellazizzo K, Potvin S, Dou BY, et al.Association between the use of cannabis and physical violence in youths: A meta-analytical investigation.Am J Psychiatry.177(7):appi.ajp.2020.1, 2020.https://doi.org/10.1176/appi.ajp.2020.19101008
+4.Dellazizzo K, Potvin S, Dou BY, et al.Association between the use of cannabis and physical violence in youths: A meta-analytical investigation.Am J Psychiatry.177(7):appi.ajp.2020.1, 2020.https://doi.org/10.1176/appi.ajp.2020.19101008
+
+【行为障碍的症状和体征】
+患有行为障碍的儿童或青少年对他人的感受和健康缺乏敏感性，有时误以为他人的行为具有威胁性。他们可能会采取攻击性行为，如欺凌和威胁、挥舞或使用武器、实施身体虐待行为或强迫他人发生性行为，且几乎没有悔意。有时它们的攻击性会指向动物。患有品行障碍的儿童或青少年可能会破坏财物、撒谎和偷窃。 他们对挫折的忍耐力很差，并且往往表现鲁莽、违反规定和父母禁令（如离家出走、经常逃学）。
+不同性别的异常行为表现不同：男孩倾向于打架、偷窃和破坏；女孩更容易说谎、逃学和从事卖淫活动。两性均可能使用非法药物并在学业上遇到困难。常有自杀念头，必须高度警惕自杀企图。
+
+【行为障碍的诊断】
+精神评估
+精神评估
+精神障碍诊断与统计手册, 第5版，文本修订（DSM-5-TR）标准
+精神障碍诊断与统计手册, 第5版，文本修订（DSM-5-TR）标准
+儿童或青少年在过去12个月内表现出≥3种以下行为，并且在过去6个月内至少出现一种以下行为，则可诊断为行为障碍：
+对人类和动物的侵害
+对人类和动物的侵害
+破坏财产
+破坏财产
+欺骗，说谎，偷窃
+欺骗，说谎，偷窃
+严重违反父母的规定
+严重违反父母的规定
+这些症状或行为必须足够显著，以致影响人际关系、学业或工作。冷酷—无情特质（例如内疚感减退、冷漠、缺乏关怀行为及同理心降低）已被纳入《精神障碍诊断与统计手册》第五版文本修订版（DSM-5-TR）中，用作品行障碍诊断的特征说明项（即用于描述疾病性质的附加术语）。
+
+【诊断参考文献】
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), Washington: American Psychiatric Association, 2022.
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), Washington: American Psychiatric Association, 2022.
+
+【行为障碍的治疗】
+药物治疗共病
+药物治疗共病
+心理治疗
+心理治疗
+有时需要安置于寄宿机构。
+有时需要安置于寄宿机构。
+品行障碍带来了重大的治疗挑战，因为可能难以适当地吸引患者，患者缺乏自我意识和/或内疚，以及并发合并症和环境因素的存在。通常建议采用包括药物治疗和心理治疗在内的综合方法以优化治疗结果。 用药物和心理疗法治疗共存的疾病可以改善患者的自尊和自我控制能力，最终提高行为障碍的控制程度。
+药物可能包括兴奋剂如哌甲酯，已知这些药物可减少新兴物质使用和犯罪行为(1, 2)。兴奋剂也可能减少犯罪活动。情绪稳定剂和非典型抗精神病药物，特别是短期使用利培酮，也可能有所帮助。然而，其在男孩中的使用可能因不良反应而受限，包括男性乳房发育症（3）。较低质量的证据支持使用其他药物如阿立哌唑、齐拉西酮和喹硫平（4）。如果存在共病情绪障碍，选择性血清素再摄取抑制剂（SSRIs）也可能必要（例如，西酞普兰）。
+心理治疗，包括认知行为疗法、家庭疗法、行为矫正和父母疗法等方法，是治疗行为障碍的关键组成部分。心理治疗帮助个体学习问题解决技能、改善社交互动、管理愤怒并修正破坏性行为。制订治疗目标有助于缓解症状。应避免无效的道德说教和恐吓责备。
+通常，严重心理障碍的儿童和青少年可能需要安置在住宿治疗中心，在那里他们的行为能得到适当管理，从而将其与可能诱发异常行为的环境隔离开来。
+未来的研究应侧重于确定导致行为障碍差异的因素；文化偏见和结构性种族主义是重要因素。
+
+【治疗参考文献】
+1.Balia C, Carucci S, Coghill D, Zuddas A.The pharmacological treatment of aggression in children and adolescents with conduct disorder.Do callous-unemotional traits modulate the efficacy of medication?Neurosci Biobehav Rev.2018;91:218-238.doi:10.1016/j.neubiorev.2017.01.024
+1.Balia C, Carucci S, Coghill D, Zuddas A.The pharmacological treatment of aggression in children and adolescents with conduct disorder.Do callous-unemotional traits modulate the efficacy of medication?Neurosci Biobehav Rev.2018;91:218-238.doi:10.1016/j.neubiorev.2017.01.024
+2.Greenhill LL, Pliszka S, Dulcan MK, et al.Practice parameter for the use of stimulant medications in the treatment of children, adolescents, and adults.J Am Acad Child Adolesc Psychiatry.2002;41(2 Suppl):26S-49S.doi:10.1097/00004583-200202001-00003
+2.Greenhill LL, Pliszka S, Dulcan MK, et al.Practice parameter for the use of stimulant medications in the treatment of children, adolescents, and adults.J Am Acad Child Adolesc Psychiatry.2002;41(2 Suppl):26S-49S.doi:10.1097/00004583-200202001-00003
+3.Pringsheim T, Hirsch L, Gardner D, Gorman DA.The pharmacological management of oppositional behaviour, conduct problems, and aggression in children and adolescents with attention-deficit hyperactivity disorder, oppositional defiant disorder, and conduct disorder: a systematic review and meta-analysis.Part 2: antipsychotics and traditional mood stabilizers.Can J Psychiatry.2015;60(2):52-61.doi:10.1177/070674371506000203
+3.Pringsheim T, Hirsch L, Gardner D, Gorman DA.The pharmacological management of oppositional behaviour, conduct problems, and aggression in children and adolescents with attention-deficit hyperactivity disorder, oppositional defiant disorder, and conduct disorder: a systematic review and meta-analysis.Part 2: antipsychotics and traditional mood stabilizers.Can J Psychiatry.2015;60(2):52-61.doi:10.1177/070674371506000203
+4.Loy JH, Merry SN, Hetrick SE, Stasiak K.Atypical antipsychotics for disruptive behaviour disorders in children and youths.Cochrane Database Syst Rev.2017;8(8):CD008559.Published 2017 Aug 9.doi:10.1002/14651858.CD008559.pub3
+4.Loy JH, Merry SN, Hetrick SE, Stasiak K.Atypical antipsychotics for disruptive behaviour disorders in children and youths.Cochrane Database Syst Rev.2017;8(8):CD008559.Published 2017 Aug 9.doi:10.1002/14651858.CD008559.pub3
+
+【行为障碍的预后】
+通常，破坏性行为在成年早期会停止，但也可能贯穿整个生命历程。许多此类案例符合反社会人格障碍的诊断标准，该症状在受影响青少年中的发生率可能高达50%（1）。起病越早预后越差。具有冷酷无情特质的儿童表现出共情和内疚感减少，且通常预后和治疗反应较差。
+患有品行障碍的儿童和青少年往往伴有更高的普通医学疾病及其他精神障碍共病率。一些儿童和青少年随后会出现情绪或焦虑障碍、躯体症状或相关疾病、物质相关障碍或成人早期的精神病性障碍。
+
+【预后参考】
+1.National Collaborating Centre for Mental Health (UK); Social Care Institute for Excellence (UK). Antisocial Behaviour and Conduct Disorders in Children and Young People: Recognition, Intervention and Management.Leicester (UK): British Psychological Society; 2013.
+1.National Collaborating Centre for Mental Health (UK); Social Care Institute for Excellence (UK). Antisocial Behaviour and Conduct Disorders in Children and Young People: Recognition, Intervention and Management.Leicester (UK): British Psychological Society; 2013.
+患有品行障碍的儿童会反复表现出攻击性行为，侵犯他人权利和/或社会规范与规则；他们通常极少或毫无悔意。
+患有品行障碍的儿童会反复表现出攻击性行为，侵犯他人权利和/或社会规范与规则；他们通常极少或毫无悔意。
+大约三分之一的患者的破坏性行为会持续到成年；其中许多病例符合反社会人格障碍的诊断标准。
+大约三分之一的患者的破坏性行为会持续到成年；其中许多病例符合反社会人格障碍的诊断标准。

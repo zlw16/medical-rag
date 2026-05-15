@@ -1,0 +1,44 @@
+标题：药动学概述
+来源：https://www.msdmanuals.cn/professional/clinical-pharmacology/pharmacokinetics/overview-of-pharmacokinetics
+============================================================
+
+药动学，有时描述为身体对药物的作用，涉及的是药物进入、通过身体以及从身体出来的运动—―其吸收、生物利用度、分布、代谢和排泄的时间过程。
+药效学，描述的是药物对身体的作用，包括受体结合、后受体作用以及化学相互作用。
+药动学决定了药物作用的开始、持续时间和强度。与这些过程相关的数学公式概括了大多数药物的药代动力学模式 (见表定义基本药代动力学参数的公式)。
+
+【定义基本药代动力学参数的公式】
+定义基本药代动力学参数的公式
+吸收率常数
+药物吸收速率÷待吸收药物量
+生物利用度
+药物吸收量÷药物剂量
+表观分布容积
+体内药物含量÷血浆药物浓度
+游离分数
+血浆游离药物的浓度÷血浆总药物浓度
+消除（代谢和排泄）
+肾脏排泄+肾外消除（通常为代谢）
+药物消除速率÷血浆药物浓度，或消除速率常数×表观分布容积
+药物的肾排泄率÷血浆药物浓度
+代谢性清除
+药物代谢率÷血浆药物浓度
+原形排泄分数
+药物的肾排泄率÷药物消除率
+消除率常数
+药物消除速率÷体内药物量
+清除÷分布容积
+生物半衰期
+0.693÷消除速率常数（仅适用于一级消除——参见速率）
+药物的药动学与药物的化学性质相关，也与一些与患者相关的因素有关。 有些患者相关的因素（如：肾功能、基因、性别、年龄）能用来预测人群中的药动学参数。例如：有些药物的半衰期，尤其是那些在体内既代谢又排泄的药物，在老年人中就可能明显延长（见图年轻人[A]与老年人[B]地西泮药动学结果的比较）。事实上伴随年龄的生理变化影响药动学的许多方面(见老年人的药代动力学和儿童药物代谢动力学) (1,2)。
+其他因素涉及个体的生理机能。 有些个体因素（如：肾衰、肥胖、肝衰竭、脱水）能合理地作预测，但其他特异性的因素，就没有可预测的作用。由于个体差异，药物的使用必须根据每一患者的需要—传统是依靠经验调整剂量直至达到治疗目标。这种方式经常有欠缺，因为会延误最佳反应的出现或是导致不良作用。
+药动学原理的知识有助于处方者更准确、更迅速地调整剂量。将药动学原理应用于个体化药物治疗称为药物治疗监测。
+
+【年轻人（A）与老年人（B）地西泮药动学结果的比较】
+年轻人（A）与老年人（B）地西泮药动学结果的比较
+地西泮在肝脏中通过P-450酶代谢为去甲地西泮。地西泮去甲基代谢物是一种具有镇静活性的物质，通过肾脏排出体外。0=给药时间。(Adapted from Greenblatt DJ, Allen MD, Harmatz JS, Shader RI:Diazepamdisposition determinants.Clin Pharmacol Ther27:301–312, 1980. doi: 10.1038/clpt.1980.40)
+
+【参考文献】
+1.Le J, Bradley JS.Optimizing Antibiotic Drug Therapy in Pediatrics: Current State and Future Needs.J Clin Pharmacol2018;58 Suppl 10:S108-S122.doi:10.1002/jcph.1128
+1.Le J, Bradley JS.Optimizing Antibiotic Drug Therapy in Pediatrics: Current State and Future Needs.J Clin Pharmacol2018;58 Suppl 10:S108-S122.doi:10.1002/jcph.1128
+2.Mangoni AA, Jackson SH.Age-related changes in pharmacokinetics and pharmacodynamics: basic principles and practical applications.Br J Clin Pharmacol2004;57(1):6-14.doi:10.1046/j.1365-2125.2003.02007.x
+2.Mangoni AA, Jackson SH.Age-related changes in pharmacokinetics and pharmacodynamics: basic principles and practical applications.Br J Clin Pharmacol2004;57(1):6-14.doi:10.1046/j.1365-2125.2003.02007.x

@@ -1,0 +1,95 @@
+标题：细菌性阴道病（BV）
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/vaginitis-cervicitis-and-pelvic-inflammatory-disease/bacterial-vaginosis-bv
+============================================================
+
+（参见阴道炎概述。）
+细菌性阴道病是最常见的感染性阴道炎。发病机理尚不清楚，但涉及多种细菌病原体的过度生长和通常以乳酸菌为主的阴道菌群的减少（1)。
+过度生长的厌氧菌包括Prevotella（普雷沃菌）属、Peptostreptococcus（消化链球菌）属、Gardnerella vaginalis（阴道加德纳菌）、Mobiluncus（游动钩菌）属和Mycoplasma hominis（人型支原体），其浓度增加10至100倍，并取代了通常维持正常阴道环境的乳酸杆菌。
+细菌性阴道病的风险因素与性传播感染的危险因素相同，包括多个性伴侣、共用性玩具、不一致或不正确使用避孕套或口腔保护套。但是，从未有过阴道性交的人身上也可以发生细菌性阴道病，而且对有性生活的异性恋女性来说，治疗男性性伴侣似乎不影响其后的发病率。使用宫内节育器也是一个危险因素。
+细菌性阴道病似乎会增加盆腔炎、流产后子宫内膜炎、产后子宫内膜炎和子宫切除术后阴道残端感染的风险。在妊娠期间，细菌性阴道病与绒毛膜羊膜炎、产前胎膜破裂、未足月临产和早产的风险增加相关。
+
+【参考文献】
+1.Muzny CA, Schwebke JR: Pathogenesis of bacterial vaginosis: Discussion of current hypotheses.J Infect Dis214 (Suppl 1):S1–S5, 2016.doi: 10.1093/infdis/jiw121
+1.Muzny CA, Schwebke JR: Pathogenesis of bacterial vaginosis: Discussion of current hypotheses.J Infect Dis214 (Suppl 1):S1–S5, 2016.doi: 10.1093/infdis/jiw121
+
+【细菌性阴道病的症状和体征】
+细菌性阴道病引起的阴道分泌物呈黄绿色或灰色，稀薄，有恶臭，通常带有鱼腥味，当性交后和月经期间分泌物呈碱性时，这种气味往往会变得更强烈。
+瘙痒、刺激、红斑和水肿并不常见。
+
+【细菌性阴道病的诊断】
+盆腔检查
+盆腔检查
+阴道 pH 值和显微镜检查
+阴道 pH 值和显微镜检查
+如果无法进行显微镜检查，有时可进行核酸扩增测试 (NAAT)
+如果无法进行显微镜检查，有时可进行核酸扩增测试 (NAAT)
+要诊断细菌性阴道病，必须具备以下4项标准中的3项(Amsel标准)：
+黄绿色或灰色分泌物
+黄绿色或灰色分泌物
+阴道分泌物pH值>4.5
+阴道分泌物pH值>4.5
+胺试验呈阳性（滴加氢氧化钾后出现鱼腥味）
+胺试验呈阳性（滴加氢氧化钾后出现鱼腥味）
+盐水 (0.9%) 湿封片上的线索细胞
+盐水 (0.9%) 湿封片上的线索细胞
+细菌性阴道病有典型的灰色分泌物。
+By permission of the publisher.From Spitzer M, Mann M.InAtlas of Clinical Gynecology: Gynecologic Pathology.Edited by M Stenchever (series editor) and B Goff.Philadelphia, Current Medicine, 1998.
+线索细胞是上皮细胞，细菌附着在其表面，有时会遮蔽其边界。 线索细胞表明细菌性阴道病。
+图片从美国疾病控制和预防中心公共卫生图像库获得。
+通过显微镜检查生理盐水湿片可以识别线索细胞（细菌黏附于上皮细胞，有时可使细胞边缘模糊）的存在。
+生理盐水湿片中存在白细胞提示伴有感染（很可能是滴虫、淋球菌或衣原体性宫颈炎），需要进行进一步检查。
+NAAT 可在商业上用于临床（1-4）。如果显微镜检查不可用、诊断不确定或患者仍有症状，则应考虑进行 NAAT。
+
+【诊断参考】
+1.Cartwright CP, Lembke BD, Ramachandran K, et al: Development and validation of a semiquantitative, multitarget PCR assay for diagnosis of bacterial vaginosis.J Clin Microbiol50 (7):2321–2329, 2012.doi: 10.1128/JCM.00506-12
+1.Cartwright CP, Lembke BD, Ramachandran K, et al: Development and validation of a semiquantitative, multitarget PCR assay for diagnosis of bacterial vaginosis.J Clin Microbiol50 (7):2321–2329, 2012.doi: 10.1128/JCM.00506-12
+2.Schwebke JR, Gaydos CA, Nyirjesy P, et al: Diagnostic performance of a molecular test versus clinician assessment of vaginitis.J Clin Microbiol56 (6):e00252-18, 2018.doi: 10.1128/JCM.00252-18
+2.Schwebke JR, Gaydos CA, Nyirjesy P, et al: Diagnostic performance of a molecular test versus clinician assessment of vaginitis.J Clin Microbiol56 (6):e00252-18, 2018.doi: 10.1128/JCM.00252-18
+3.Gaydos CA, Beqaj S, Schwebke JR, et al: Clinical validation of a test for the diagnosis of vaginitis.Obstet Gynecol130 (1):181–189, 2017.doi: 10.1097/AOG.0000000000002090
+3.Gaydos CA, Beqaj S, Schwebke JR, et al: Clinical validation of a test for the diagnosis of vaginitis.Obstet Gynecol130 (1):181–189, 2017.doi: 10.1097/AOG.0000000000002090
+4.Coleman JS, Gaydos CA: Molecular diagnosis of bacterial vaginosis: An update.J Clin Microbiol56 (9):e00342–e00318, 2018.doi: 10.1128/JCM.00342-18
+4.Coleman JS, Gaydos CA: Molecular diagnosis of bacterial vaginosis: An update.J Clin Microbiol56 (9):e00342–e00318, 2018.doi: 10.1128/JCM.00342-18
+
+【细菌性阴道病的治疗】
+甲硝唑或克林霉素
+甲硝唑或克林霉素
+以下治疗细菌性阴道病的方法同样有效（参见疾病预防控制中心:性传播感染治疗指南，2021）：
+甲硝唑500mg，每日2次，连用7天
+甲硝唑500mg，每日2次，连用7天
+0.75％甲硝唑凝胶5g（涂药器装满），阴道内给药，qd，连续5天
+0.75％甲硝唑凝胶5g（涂药器装满），阴道内给药，qd，连续5天
+2%克林霉素阴道乳膏，每天1次，共7天
+2%克林霉素阴道乳膏，每天1次，共7天
+对于局部治疗，首选甲硝唑；克林霉素是另一种选择。
+口服甲硝唑是未怀孕患者的首选治疗方法。对于妊娠患者，首选局部用药方案，因为口服药物可能会产生全身效应。
+使用克林霉素乳膏的妇女不能用乳胶产品（即避孕套或隔膜）进行避孕，因为该乳膏会削弱乳胶。
+一次性口服塞克硝唑2g是治疗细菌性阴道病的另一种选择（1,2)。 因为只需要一剂，塞克硝唑可以提高患者的依从性。
+不建议对性伴侣进行治疗。
+尽管妊娠期治疗未能证明可以降低妊娠并发症的风险，早孕期阴道炎仍应使用甲硝唑阴道凝胶治疗。为预防子宫内膜炎的发生，临床医生可在选择性流产前对所有患者，或者仅给予细菌性阴道病检测结果呈阳性的患者预防性给予口服甲硝唑。
+治疗后，有症状的细菌性阴道病通常会在几天内消退，但通常会复发。如果经常复发（目前的感染和之前12个月内至少2次发作），可能需要持续使用抑制性抗生素。复发性细菌性阴道病患者可考虑使用甲硝唑凝胶进行抑制性治疗，每周2次，持续16周（3)。
+
+【治疗参考文献】
+1.Schwebke JR, Morgan FG Jr, Koltun W, Nyirjesy P: A phase-3, double-blind, placebo-controlled study of the effectiveness and safety of single oral doses ofsecnidazole2 g for the treatment of women with bacterial vaginosis.Am J Obstet Gynecol217 (6):678.e1–678.e9, 2017.doi: 10.1016/j.ajog.2017.08.017
+1.Schwebke JR, Morgan FG Jr, Koltun W, Nyirjesy P: A phase-3, double-blind, placebo-controlled study of the effectiveness and safety of single oral doses ofsecnidazole2 g for the treatment of women with bacterial vaginosis.Am J Obstet Gynecol217 (6):678.e1–678.e9, 2017.doi: 10.1016/j.ajog.2017.08.017
+2.Hillier SL, Nyirjesy P, Waldbaum AS, et al:Secnidazoletreatment of bacterial vaginosis: A randomized controlled trial.Obstet Gynecol130 (2):379-386, 2017.doi: 10.1097/AOG.0000000000002135
+2.Hillier SL, Nyirjesy P, Waldbaum AS, et al:Secnidazoletreatment of bacterial vaginosis: A randomized controlled trial.Obstet Gynecol130 (2):379-386, 2017.doi: 10.1097/AOG.0000000000002135
+3.Sobel JD, Ferris D, Schwebke J, et al: Suppressive antibacterial therapy with 0.75%metronidazolevaginal gel to prevent recurrent bacterial vaginosis.Am J Obstet Gynecol194(5):1283-1289, 2006.doi:10.1016/j.ajog.2005.11.041
+3.Sobel JD, Ferris D, Schwebke J, et al: Suppressive antibacterial therapy with 0.75%metronidazolevaginal gel to prevent recurrent bacterial vaginosis.Am J Obstet Gynecol194(5):1283-1289, 2006.doi:10.1016/j.ajog.2005.11.041
+细菌性阴道病 (BV) 是阴道菌群的改变，其中厌氧病原体过度生长并取代乳酸杆菌（通常维持健康的阴道环境）。
+细菌性阴道病 (BV) 是阴道菌群的改变，其中厌氧病原体过度生长并取代乳酸杆菌（通常维持健康的阴道环境）。
+风险因素与性传播感染 (STI) 相同，例如，多名性伴侣、共用性玩具和患有 STI 都会增加感染 BV 的风险。然而，即使没有性生活，女性也可能患上细菌性阴道病。
+风险因素与性传播感染 (STI) 相同，例如，多名性伴侣、共用性玩具和患有 STI 都会增加感染 BV 的风险。然而，即使没有性生活，女性也可能患上细菌性阴道病。
+细菌性阴道病 (BV) 会增加盆腔炎、产后子宫内膜炎以及一些妊娠并发症（包括产前胎膜破裂和早产）的风险。
+细菌性阴道病 (BV) 会增加盆腔炎、产后子宫内膜炎以及一些妊娠并发症（包括产前胎膜破裂和早产）的风险。
+症状是阴道分泌物，通常为稀薄、黄绿色或灰色并有恶臭。
+症状是阴道分泌物，通常为稀薄、黄绿色或灰色并有恶臭。
+通过显微镜检查评估阴道分泌物是否符合Amsel标准（4项中至少有3项）来进行诊断：黄绿色或灰色分泌物、pH > 4.5、氢氧化钾胺试验呈鱼腥味、生理盐水湿片上发现线索细胞。
+通过显微镜检查评估阴道分泌物是否符合Amsel标准（4项中至少有3项）来进行诊断：黄绿色或灰色分泌物、pH > 4.5、氢氧化钾胺试验呈鱼腥味、生理盐水湿片上发现线索细胞。
+如果诊断不确定或治疗后症状仍然存在，则应进行核酸扩增试验（NAAT）进行检测。
+如果诊断不确定或治疗后症状仍然存在，则应进行核酸扩增试验（NAAT）进行检测。
+对于非妊娠患者，使用口服甲硝唑治疗；对于妊娠患者，使用阴道甲硝唑（首选）或阴道克林霉素治疗。
+对于非妊娠患者，使用口服甲硝唑治疗；对于妊娠患者，使用阴道甲硝唑（首选）或阴道克林霉素治疗。
+不建议对性伴侣进行治疗。
+不建议对性伴侣进行治疗。
+BV 常常复发；对于频繁复发的患者，考虑采用延长阴道甲硝唑疗程的抑制疗法。
+BV 常常复发；对于频繁复发的患者，考虑采用延长阴道甲硝唑疗程的抑制疗法。

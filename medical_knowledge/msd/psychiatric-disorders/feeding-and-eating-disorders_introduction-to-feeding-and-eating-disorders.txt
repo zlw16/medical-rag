@@ -1,0 +1,50 @@
+标题：喂养和进食障碍概述
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/feeding-and-eating-disorders/introduction-to-feeding-and-eating-disorders
+============================================================
+
+喂养和进食障碍是指持续的进食障碍或与进食有关的行为障碍，
+改变食物的消耗和吸收
+改变食物的消耗和吸收
+显著损害身体健康和 / 或社会心理功能
+显著损害身体健康和 / 或社会心理功能
+具体的喂养和进食障碍包括以下内容：
+反刍障碍
+反刍障碍
+回避/限制摄食障碍
+回避/限制摄食障碍
+神经性厌食
+神经性厌食
+神经性贪食症
+神经性贪食症
+暴食障碍
+暴食障碍
+异食癖指持续进食无营养、非食物性物质，且该行为与发育阶段不符（即<2 岁儿童不诊断异食癖），也不属于某一文化传统的一部分。
+反刍障碍指进食后反复将食物反流。
+回避性/限制性食物摄入障碍其特征在于回避食物或限制摄食，进而导致显著体重下降、营养缺乏、依赖营养支持和 / 或社会心理功能明显受损。与神经性厌食症和神经性贪食症不同，这种疾病并不涉及对体形或体重的关注。
+神经性厌食症的特征是执着追求纤瘦、极度恐惧肥胖、体像障碍，且相对于自身需求限制摄食，最终导致体重显著偏低并损害健康。该障碍可能伴随也可能不伴随清除行为（如自行诱导呕吐）。
+神经性贪食症其特征是反复暴饮暴食，随后出现某种不适当的补偿行为，如清除（自我催吐、过量使用泻药或利尿剂）、禁食或过度运动。
+暴食症其特点是反复发作的失去控制的大量进食。与神经性贪食症不同，发作后不会出现不恰当的代偿行为（如自行催吐）。
+进食障碍在女性中更为常见，尤其是年轻女性，其患病率高于男性（1–4）。
+
+【参考文献】
+1.López-Gil JF, García-Hermoso A, Smith L, et al.Global Proportion of Disordered Eating in Children and Adolescents: A Systematic Review and Meta-analysis.JAMA Pediatr.2023;177(4):363-372.doi:10.1001/jamapediatrics.2022.5848
+1.López-Gil JF, García-Hermoso A, Smith L, et al.Global Proportion of Disordered Eating in Children and Adolescents: A Systematic Review and Meta-analysis.JAMA Pediatr.2023;177(4):363-372.doi:10.1001/jamapediatrics.2022.5848
+2.Silén Y, Sipilä PN, Raevuori A, et al.DSM-5 eating disorders among adolescents and young adults in Finland: A public health concern.Int J Eat Disord.2020;53(5):520-531.doi:10.1002/eat.23236
+2.Silén Y, Sipilä PN, Raevuori A, et al.DSM-5 eating disorders among adolescents and young adults in Finland: A public health concern.Int J Eat Disord.2020;53(5):520-531.doi:10.1002/eat.23236
+3.Ward ZJ, Rodriguez P, Wright DR, Austin SB, Long MW.Estimation of Eating Disorders Prevalence by Age and Associations With Mortality in a Simulated Nationally Representative US Cohort.JAMA Netw Open.2019;2(10):e1912925.Published 2019 Oct 2.doi:10.1001/jamanetworkopen.2019.12925
+3.Ward ZJ, Rodriguez P, Wright DR, Austin SB, Long MW.Estimation of Eating Disorders Prevalence by Age and Associations With Mortality in a Simulated Nationally Representative US Cohort.JAMA Netw Open.2019;2(10):e1912925.Published 2019 Oct 2.doi:10.1001/jamanetworkopen.2019.12925
+4.Uniacke B, Walsh BT.Eating Disorders.Ann Intern Med.2022;175(8):ITC113-ITC128.doi:10.7326/AITC202208160
+4.Uniacke B, Walsh BT.Eating Disorders.Ann Intern Med.2022;175(8):ITC113-ITC128.doi:10.7326/AITC202208160
+
+【喂养和进食障碍的风险因素】
+大多数摄食或饮食障碍的发生率在女性中较高（1, 2）。在不认为自己是异性恋的人群以及性别认同与出生时的性别不同的人群中，发生率更高（3）。某些家族因素或社会对身材的认知规范可能起作用。遗传因素在神经性厌食症的易感性中起作用（4）。
+
+【病因参考文献】
+1.Mitchell JE, Peterson CB..Anorexia Nervosa.N Engl J Med.2020;382(14):1343-1351.doi:10.1056/NEJMcp1803175
+1.Mitchell JE, Peterson CB..Anorexia Nervosa.N Engl J Med.2020;382(14):1343-1351.doi:10.1056/NEJMcp1803175
+2.van Eeden AE, van Hoeken D, Hoek HW.Incidence, prevalence and mortality of anorexia nervosa and bulimia nervosa.Curr Opin Psychiatry.2021;34(6):515-524.doi:10.1097/YCO.0000000000000739
+2.van Eeden AE, van Hoeken D, Hoek HW.Incidence, prevalence and mortality of anorexia nervosa and bulimia nervosa.Curr Opin Psychiatry.2021;34(6):515-524.doi:10.1097/YCO.0000000000000739
+3.Attia E, Walsh BT.Eating Disorders: A Review.JAMA..2025;333(14):1242-1252.doi:10.1001/jama.2025.0132
+3.Attia E, Walsh BT.Eating Disorders: A Review.JAMA..2025;333(14):1242-1252.doi:10.1001/jama.2025.0132
+4.Xu J, Igudesman D, Huckins L, Bulik CM.Genetics of Anorexia Nervosa: Translation to Future Personalized Therapies.Psychiatr Clin North Am.2025 Jun;48(2):293-309.
+4.Xu J, Igudesman D, Huckins L, Bulik CM.Genetics of Anorexia Nervosa: Translation to Future Personalized Therapies.Psychiatr Clin North Am.2025 Jun;48(2):293-309.

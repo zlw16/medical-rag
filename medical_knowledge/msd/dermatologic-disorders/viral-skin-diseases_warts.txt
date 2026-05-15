@@ -1,0 +1,213 @@
+标题：疣
+来源：https://www.msdmanuals.cn/professional/dermatologic-disorders/viral-skin-diseases/warts
+============================================================
+
+疣在人群中普遍存在，可发生于各个年龄阶段，但最常见于儿童，老年人少见。
+
+【疣的病因】
+疣是由人乳头瘤病毒（HPV）感染引起的皮肤病变；有超过 100 种 HPV 亚型（1）。
+创伤和浸渍可促使病毒最初在皮肤接种。随后可通过自身接种的方式传播。局部和全身免疫因素似乎也会影响传播；免疫功能受抑制的患者（尤其是那些细胞免疫受抑制的患者，[例如，HIV感染或肾移植或有肿瘤抑制性免疫治疗史的患者]）特别容易出现难以治疗的全身性病变。
+CD8+T细胞的细胞免疫对已形成感染的消退至关重要。然而，完整的体液免疫也可以提供对HPV感染的抵抗力。
+
+【病因参考文献】
+1.Haley CT,  Mui UN, Vangipuram R, et al.Human oncoviruses.Mucocutaneous manifestation, pathogenesis, therapeutics, and prevention.Papillomaviruses and Merkel cell polyomavirus.J Am Acad Dermatol.81:1–21, 2019.doi: 10.1016/j.jaad.2018.09.062
+1.Haley CT,  Mui UN, Vangipuram R, et al.Human oncoviruses.Mucocutaneous manifestation, pathogenesis, therapeutics, and prevention.Papillomaviruses and Merkel cell polyomavirus.J Am Acad Dermatol.81:1–21, 2019.doi: 10.1016/j.jaad.2018.09.062
+
+【you的症状和体征】
+疣的命名取决于疣的临床表现和部位。不同的临床表现与不同的HPV类型有关 (见表疣变体和其他与HPV相关的病变)。大多数类型的疣通常无自觉症状。 但有些疣伴有触痛，因此位于承重部位（如足底）的疣可有轻微疼痛感。
+
+【疣变体和其他与HPV相关的病变】
+疣变体和其他与HPV相关的病变
+临床表现
+鲍温样丘疹病*
+外阴和阴茎上棕色扁平疣状的丘疹
+Buschke-Löwenstein肿瘤
+肛周生殖器部位的巨大菜花状肿块
+屠夫疣（肉类处理者的疣）
+发生在屠宰场工人手部的寻常疣，通常为良性
+相较于寻常疣，更呈菜花状
+边界清晰，表面粗糙，可呈圆形或不规则形，质地坚实，颜色呈淡灰色、黄色、棕色或灰黑色，为直径2~10mm大小的结节。
+疣状表皮发育不良
+平顶的白色、棕色或红色丘疹或更大、更隆起的丘疹，类似于脂溢性角化病
+少见，具有引起广泛HPV感染的遗传素质，皮损常常在患者20多岁时即可出现恶变（如鳞状细胞癌）
+外生殖器疣
+在会阴部、直肠周围、唇和阴茎部位，皮损可呈散在分布的扁平丘疹，宽基底的平滑丘疹，或天鹅绒样的丘疹，或表面粗糙的带蒂赘生物。
+扁平疣（平面疣）
+光滑，平顶，黄褐色，粉红色或皮肤颜色的丘疹
+角化棘皮瘤
+被认为是一种分化良好的鳞状细胞癌
+喉乳头状瘤
+喉部或呼吸道其他部位的一个或多个疣状病变
+发生于儿童，称复发性呼吸道乳头状瘤
+口腔灶性上皮增生（Heck病）
+表现为口腔内壁多发的鹅卵石样白色扁平的丘疹
+口腔乳头状瘤
+口腔任何部位的常见无痛病变
+可能累及舌头，扁桃体，软e或咽壁
+由于常有触痛，足底疣会使行走和站立产生不适感。
+指甲板周围皮肤增厚、开裂、呈菜花状，通常无症状，但扩大时可能会感到疼痛
+肾移植患者罹患的疣
+常多发并较难治疗
+HPV相关的粘膜癌和肛门生殖器癌
+各种表现，参见肛门癌、宫颈癌、阴茎癌、阴道癌、外阴癌
+*女性患者及患者的女性性伴需密切随访，评估有无宫颈癌的发生。
+Al-Awadhi R, Al-Mutairi N, Albatineh AN, Chehadeh W.Association of HPV genotypes with external anogenital warts: A cross sectional study.BMC Infect Dis.19(1):375, 2019.doi: 10.1186/s12879-019-4005-4
+Some data adapted fromCubie HA.Diseases associated with human papillomavirus infection.Virology.445(1-2):21–34, 2013.doi: 10.1016/j.virol.2013.06.007
+HPV = 人乳头瘤病毒。
+*女性患者及患者的女性性伴需密切随访，评估有无宫颈癌的发生。
+Al-Awadhi R, Al-Mutairi N, Albatineh AN, Chehadeh W.Association of HPV genotypes with external anogenital warts: A cross sectional study.BMC Infect Dis.19(1):375, 2019.doi: 10.1186/s12879-019-4005-4
+Some data adapted fromCubie HA.Diseases associated with human papillomavirus infection.Virology.445(1-2):21–34, 2013.doi: 10.1016/j.virol.2013.06.007
+HPV = 人乳头瘤病毒。
+常见疣(寻常疣)与HPV1，2，4，7型感染有关，偶尔也有其他类型的免疫抑制患者(如75至77型)。
+通常无自觉症状，但位于承重部位（如足底）的疣有时可有轻微疼痛感。
+寻常疣一般边界清晰，表面粗糙，可呈圆形或不规则形，质地坚实，颜色呈淡灰色、黄色、棕色或灰黑色，为直径2~10mm大小的结节。 往往好发于易受外伤的部位（如手指、肘部、膝盖和面部），可扩散至任何部位。 特殊类型的疣（如带蒂的、或呈菜花状的）一般多发于头部和颈部，尤其是头皮和胡须处。
+这张照片显示了手指上一个大的普通疣（界限分明、坚硬、粗糙、圆形结节）。
+
+【掌疣和跖疣】
+这些疣是由1型、2型和4型HPV引起的。它们发生在手掌和脚底。
+手掌和足底疣因压力而变平，并被角质化上皮包围。病变通常有压痛。尤其是足底疣，会使走路和站立感到不适。削去表面可有针尖大小的出血点，以此与鸡眼和胼胝相鉴别。
+这张照片显示手掌上有两个疣（肉赘）。
+这张照片显示脚底上的疣。
+
+【扁平疣（平面疣）】
+扁平疣是由3型和10型HPV引起的，偶尔还有26至29型和41型。它们在儿童和年轻人中更为常见，并通过自身接种发生。
+这些疣是光滑、平顶、黄棕色、粉红色或肤色的丘疹，通常位于面部和划痕处。
+通常无自觉症状，但较难治疗。
+这张照片显示面部扁平疣带有多个扁平的皮肤色丘疹。
+镶嵌疣表现为斑块，由数个紧密连接的小的跖疣聚集而成。和一般跖疣一样，也有触痛。
+这类疣呈细长形、叶状生长，好发于眼睑、面部、颈部和唇部。通常也无自觉症状。
+为寻常疣的另一种不同的表现形态，良性并较容易治疗。
+这张照片显示了一个丝状疣，耳朵上有叶状突起。
+甲周疣是由1型、2型、4型和7型HPV引起的。
+这类疣表现为甲板周围皮肤增厚、皲裂，呈菜花状。通常无自觉症状，但当疣增大形成皲裂时可产生疼痛。患者因表皮角质层频繁缺损而易导致甲沟炎。
+甲周疣较常见于喜欢咬指甲的患者，以及从事易使手部长期处于潮湿状态的工作人群，如洗碗工、调酒师。
+
+【生殖器疣】
+尖锐湿疣由HPV 6型或11型（最常见）以及1a、2、4、7、16、18、27b、27、33、38、40、42、43、44、54、57b、57c、61、72、81和89型引起（1)。
+这些疣在会阴、直肠周围、阴唇和阴茎部位表现为离散的扁平或广泛的光滑或天鹅绒状丘疹，粗糙且有带梗的赘生物。它们通常无症状，但直肠周围疣经常发痒。
+某些高危HPV类型（尤其是16和18型，但也有31、33、35和39型）感染是导致宫颈癌的主要原因。
+这张照片显示在龟头上出现典型的粗糙、有蒂尖锐湿疣。
+这张照片显示在龟头上出现典型的粗糙、有蒂尖锐湿疣。
+© Springer Science+Business Media
+这张照片显示阴茎冠状沟内有粉红色凸起的生殖器疣（箭头所指）。
+这张照片显示阴茎冠状沟内有粉红色凸起的生殖器疣（箭头所指）。
+© Springer Science+Business Media
+外阴部位的尖锐湿疣可凸起，颜色浅，表面不规则，粗糙。
+外阴部位的尖锐湿疣可凸起，颜色浅，表面不规则，粗糙。
+Image courtesy of Joe Millar via the Public Health Image Library of the Centers for Disease Control and Prevention.
+这张照片显示在龟头上出现典型的粗糙、有蒂尖锐湿疣。
+这张照片显示在龟头上出现典型的粗糙、有蒂尖锐湿疣。
+© Springer Science+Business Media
+这张照片显示阴茎冠状沟内有粉红色凸起的生殖器疣（箭头所指）。
+这张照片显示阴茎冠状沟内有粉红色凸起的生殖器疣（箭头所指）。
+© Springer Science+Business Media
+外阴部位的尖锐湿疣可凸起，颜色浅，表面不规则，粗糙。
+外阴部位的尖锐湿疣可凸起，颜色浅，表面不规则，粗糙。
+Image courtesy of Joe Millar via the Public Health Image Library of the Centers for Disease Control and Prevention.
+
+【生殖器疣参考】
+1.Al-Awadhi R, Al-Mutairi N, Albatineh AN, Chehadeh W.Association of HPV genotypes with external anogenital warts: A cross sectional study.BMC Infect Dis.19(1):375, 2019.doi: 10.1186/s12879-019-4005-4
+1.Al-Awadhi R, Al-Mutairi N, Albatineh AN, Chehadeh W.Association of HPV genotypes with external anogenital warts: A cross sectional study.BMC Infect Dis.19(1):375, 2019.doi: 10.1186/s12879-019-4005-4
+
+【疣的诊断】
+病史和体格检查
+病史和体格检查
+极少活检
+极少活检
+疣的诊断依靠临床表现，极少需要活检。
+疣的一个典型特征是皮肤纹理（手指、掌部、足趾及足底表面特征性嵴状结构）的破坏，以及当疣体被刮除时可见针尖样黑点（血栓形成的毛细血管）或出血现象。剃须通常无需麻醉即可完成。
+
+【经验与提示】
+经验与提示
+若有必要，可刮取疣体表面查看是否有黑点（毛细血管血栓）来确诊。
+若有必要，可刮取疣体表面查看是否有黑点（毛细血管血栓）来确诊。
+鉴别诊断包括以下内容：
+鸡眼（clavi）：削去后可能会遮盖皮肤纹路，但不会显示血栓毛细血管
+鸡眼（clavi）：削去后可能会遮盖皮肤纹路，但不会显示血栓毛细血管
+扁平苔藓：与扁平疣类似，但可伴有口腔带状损害、Wickham纹，皮损对称分布
+扁平苔藓：与扁平疣类似，但可伴有口腔带状损害、Wickham纹，皮损对称分布
+脂溢性角化病：更黏着于皮肤，色素沉着，伴有角质囊肿
+脂溢性角化病：更黏着于皮肤，色素沉着，伴有角质囊肿
+皮赘（软纤维瘤）：可有蒂，比疣更平滑、更接近肤色
+皮赘（软纤维瘤）：可有蒂，比疣更平滑、更接近肤色
+鳞状细胞癌：可表现为溃疡，不自行消退，不规则生长
+鳞状细胞癌：可表现为溃疡，不自行消退，不规则生长
+在某些医疗中心可做病毒的DNA分型，但大多数情况下没有必要做此检查。
+外用刺激剂（如水杨酸、斑蝥素、鬼臼树脂）
+外用刺激剂（如水杨酸、斑蝥素、鬼臼树脂）
+有创性方法（如冷冻、电烙、刮除、切除、激光）
+有创性方法（如冷冻、电烙、刮除、切除、激光）
+其他局部疗法、病灶内注射疗法或lian合
+其他局部疗法、病灶内注射疗法或lian合
+关于疣病患者何时开始治疗，目前尚无明确指征。影响美观、妨碍功能或较疼痛的疣应考虑治疗。患者应积极坚持治疗，疗程可能较长，也可能会不成功。免疫功能低下的患者治疗效果较差。
+局部刺激疗法的作用机制是通过引导局部对刺激物的免疫反应，从而将HPV病变作为靶标(1)。此类刺激物包括水杨酸 (SCA)、三氯乙酸、5-氟尿嘧啶、鬼臼树脂（如鬼臼毒素）、维甲酸和斑蝥素。儿茶素可用于治疗生殖器疣。
+局部外用5%咪喹莫特乳膏可促使皮肤细胞局部产生抗病毒的细胞因子。局部外用西多福韦和接触免疫疗法（例如二丁酯角鲨烯酸(SADBE)、二苯基环丙烯酮 (DPCP) 和Candida（念球菌）抗原）已用于疣的治疗。疣可先以113°F（45℃）的热水浸泡，每次浸泡30分钟，每周不少于三次。浸泡后，局部外用药物可更好的吸收。Candida抗原也可以直接注射到病灶内。有限的数据支持使用胶带封闭疗法（2）。
+口服治疗包括西咪替丁（疗效有限）、异维甲酸和锌。静脉用西多福韦也可选用。为了提高治疗的成功率，大多采用多种方法联合治疗。皮损内注射博莱霉素和干扰素alpha-2b可达到直接的抗病毒作用，但仅用于难治性疣的治疗。
+这些药物也可以和有创性方法（如冷冻、电凝、刮除、切除和激光）联合使用，即使有创方法可物理去除疣体，但组织内仍可能存在病毒而导致疣的复发。
+病灶内注射可用于治疗难治性、多发性或敏感区域的疣（3)。
+有关肛门生殖器疣的治疗，另请参见人乳头瘤病毒感染的治疗。
+在免疫功能正常的患者，寻常疣通常在2~4年内自行消退，也有一些可持续多年。治疗方法较多。有创治疗方法有电烙，液氮冷冻和激光。水杨酸制剂也是常用的治疗。
+使用的方法取决于受累部位和严重程度。
+水杨酸是最常用的局部用药。SCA剂型包括液体、软膏、贴膏或含药胶带。例如，17%浓度的SCA液体可用于手指部位，而40%浓度的SCA贴膏可用于皮肤较厚的部位，如足底。一般在晚上使用，根据不同的部位保留8~48小时不等。SCA可以用胶带封堵以增强渗透性。SCA也可与5-氟尿嘧啶在各种配方中复合，用于治疗手掌和足底的常见疣。
+斑蝥素（薄皮区域0.7%，厚皮区域1%）可以单独使用，也可以与30% SCA和5%鬼臼混合在火棉胶基质中使用。单用斑蝥素时，应在6小时后用肥皂和清水洗净；若斑蝥素与SCA或鬼臼树脂配伍使用，则需在2小时内清除。药物停留在皮肤上的时间越长，皮肤越容易发生起疱的不良反应。
+冷冻外科，又称冷冻疗法，使用液氮，疗效显著。由于该操作会引起疼痛，因此应避免用于幼儿。电干燥联合刮除、激光手术或两者都有效，适用于孤立病变；然而，这些方法可能会造成疤痕。冷冻治疗前削除或修平皮损可增强疗效。
+大约35%的患者在1年内会出现复发或新发疣，因此应尽量避免选择易引起瘢痕的治疗方法，以减少多次治疗后遗留多处瘢痕。会形成瘢痕的治疗方法尽可能只用于对于美观影响小的部位和难治性疣的治疗上。
+丝状疣的治疗方法包括切除、剪除、刮除和液氮冷冻。液氮冷冻时，需使疣体周围2mm的皮肤都变白为止。皮肤解冻时可引起皮肤损伤，通常持续10~20秒。液氮治疗后 24 至 48 小时内可能会出现水疱，这是皮肤的正常愈合过程。
+同时液氮冷冻后往往留有色素减退或色素沉着，故在治疗易影响美观部位（如面颈部）的皮损时，需非常小心。深肤色患者治疗后则可能留下持久的色素减退班。
+扁平疣治疗困难，通常比寻常疣持续的时间更长，对治疗反应不佳，并且，若扁平疣位于影响美观的重要部位，会使最有效的（毁损性）治疗变得不太可取。
+通常一线治疗选择维A酸（如0.05%维A酸乳膏）每天外用。 若剥脱效果不满意，可进一步使用其他刺激剂（如5%过氧化苯甲酰）或5%SCA乳膏。5%咪喹莫特乳膏可以单独使用，也可以与外用剂或破坏性措施联合使用。也可以使用1%或5%的局部5-氟尿嘧啶乳膏。
+跖疣可用浸渍作用强的40%SCA石膏外涂治疗，并在皮损处保留数天。在胶带闭塞下将17%SCA和2.5%5-氟尿嘧啶组合使用8-12小时也是有效的。然后在疣体潮湿柔软时进行机械清创，随后通过冷冻或使用腐蚀剂（如30%至70%三氯乙酸）进行破坏。 其他有创性治疗（如二氧化碳激光、脉冲染料激光和各种酸类物质）也较有效。
+对于复发性或难治性跖疣，可尝试病灶内治疗（参见顽固性疣）。
+液氮联合5%咪喹莫特乳膏、维A酸或SCA治疗有效，通常联合治疗较单用液氮或烧灼更安全。
+使用液氮和烧灼疗法治疗甲周和手指外侧疣时应谨慎，因为过度激进的治疗可能会导致永久性指甲畸形，并且很少会导致神经损伤。
+
+【经验与提示】
+经验与提示
+治疗甲周和指侧疣时要小心，因为液氮和烧灼可能会造成永久性的指甲畸形，和较为少见的神经损伤。
+治疗甲周和指侧疣时要小心，因为液氮和烧灼可能会造成永久性的指甲畸形，和较为少见的神经损伤。
+
+【难治性疣】
+有几种方法可用于治疗顽固性疣，但其长期价值和风险尚不完全清楚。
+如皮损内局部注射小剂量0.1%博来霉素生理盐水溶液，常对难治性跖疣和甲周疣有效。然而，注射的手指可能会出现雷诺综合征或血管损伤，尤其是当溶液注射到手指根部时，因此使用这种方法时要小心谨慎。
+据报道，斑疹内注射念珠菌抗原对顽固性疣也有一定的疗效。
+干扰素，尤其是干扰素alpha，皮损内局部注射（每周3次，连续3~5周）或肌注，亦可有效祛除难治性皮肤和生殖器疣。随机试验证明，病灶内注射5-氟尿嘧啶联合利多卡因和肾上腺素对清除顽固性疣有效(4,5)。
+泛发性的疣可通过口服异维A酸或阿维A治疗以减少或祛除。
+有报道称9价人乳头瘤病毒疫苗对儿童顽固性疣有效，但其疗效有待进一步验证（6）。
+
+【治疗参考文献】
+1.Verma KK, Burningham KM, Tyring SK.Innovation in Warts and Molluscum: An Updated Comprehensive Review.Dermatol Clin.2025;43(1):95-102.
+1.Verma KK, Burningham KM, Tyring SK.Innovation in Warts and Molluscum: An Updated Comprehensive Review.Dermatol Clin.2025;43(1):95-102.
+2.Focht DR 3rd, Spicer C, Fairchok MP.The efficacy of duct tape vs cryotherapy in the treatment of verruca vulgaris (the common wart).Arch Pediatr Adolesc Med.2002;156(10):971-974.doi:10.1001/archpedi.156.10.971
+2.Focht DR 3rd, Spicer C, Fairchok MP.The efficacy of duct tape vs cryotherapy in the treatment of verruca vulgaris (the common wart).Arch Pediatr Adolesc Med.2002;156(10):971-974.doi:10.1001/archpedi.156.10.971
+3.Muse ME, Stiff KM, Glines KR, et al.A review of intralesional wart therapy.Dermatol Online J.26(3):13030/qt3md9z8gj, 2020.
+3.Muse ME, Stiff KM, Glines KR, et al.A review of intralesional wart therapy.Dermatol Online J.26(3):13030/qt3md9z8gj, 2020.
+4.Yazdanfar A, Farshchian M, Fereydoonnejad M, et al.Treatment of common warts with an intralesional mixture of 5-fluorouracil, lidocaine, and epinephrine: a prospective placebo-controlled, double-blind randomized trial.Dermatol Surg.2008;34(5):656-659.doi:10.1111/j.1524-4725.2007.34123.x
+4.Yazdanfar A, Farshchian M, Fereydoonnejad M, et al.Treatment of common warts with an intralesional mixture of 5-fluorouracil, lidocaine, and epinephrine: a prospective placebo-controlled, double-blind randomized trial.Dermatol Surg.2008;34(5):656-659.doi:10.1111/j.1524-4725.2007.34123.x
+5.Sepaskhah M, Sarani MB, Bagheri Z.Comparison of the efficacy of intralesional 5-fluorouracil/lidocaine/epinephrine injection with cryotherapy to treat common and palmoplantar warts: A randomized, controlled trial.Dermatol Ther.2022;35(9):e15726.doi:10.1111/dth.15726
+5.Sepaskhah M, Sarani MB, Bagheri Z.Comparison of the efficacy of intralesional 5-fluorouracil/lidocaine/epinephrine injection with cryotherapy to treat common and palmoplantar warts: A randomized, controlled trial.Dermatol Ther.2022;35(9):e15726.doi:10.1111/dth.15726
+6.Kost Y, Zhu TH, Blasiak RC.Clearance of recalcitrant warts in a pediatric patient following administration of the nine-valent human papillomavirus vaccine.Pediatr Dermatol.37(4):748–749, 2020. doi: 10.1111/pde.14150
+6.Kost Y, Zhu TH, Blasiak RC.Clearance of recalcitrant warts in a pediatric patient following administration of the nine-valent human papillomavirus vaccine.Pediatr Dermatol.37(4):748–749, 2020. doi: 10.1111/pde.14150
+
+【疣的预后】
+许多疣会自发消退（尤其是常见的疣）；其他的可能持续数年，并在同一或不同部位复发，即使经过治疗。与复发有关的因素包括患者全身免疫状态和局部因素。例如，遭受局部创伤的患者（如运动员、机械师、屠夫）可能有顽固性和复发性HPV感染（1）。
+生殖器HPV感染具有恶性转化的潜力，但在HPV引起的皮肤疣中，恶性转化极为罕见，除非在免疫抑制患者中。
+
+【预后参考】
+1.Verma KK, Burningham KM, Tyring SK.Innovation in Warts and Molluscum: An Updated Comprehensive Review.Dermatol Clin.2025;43(1):95-102.doi:10.1016/j.det.2024.08.007
+1.Verma KK, Burningham KM, Tyring SK.Innovation in Warts and Molluscum: An Updated Comprehensive Review.Dermatol Clin.2025;43(1):95-102.doi:10.1016/j.det.2024.08.007
+HPV疫苗的作用是防止某些类型的人乳头瘤病毒(HPV)引起疣和癌症。在美国，HPV疫苗常规推荐用于11-12岁儿童(最早可于9岁开始接种)，以及部分较大年龄组人群。
+参见免疫接种以获取有关现有HPV疫苗的适应症、注意事项、剂量和给药的更多信息。
+皮肤疣是由人类乳头瘤病毒引起的，非常普遍且有多种形式。
+皮肤疣是由人类乳头瘤病毒引起的，非常普遍且有多种形式。
+通过自体接种播散，创伤和浸渍有助于播散。
+通过自体接种播散，创伤和浸渍有助于播散。
+大多数疣无症状，但可能会引起轻微疼痛，尤其是在负重部位。
+大多数疣无症状，但可能会引起轻微疼痛，尤其是在负重部位。
+大多数疣可自行消退，尤其是寻常疣。
+大多数疣可自行消退，尤其是寻常疣。
+治疗通常包括外用刺激剂（如水杨酸、斑蝥素、鬼臼树脂）和/或破坏性方法（如冷冻手术、电灼、刮除术、切除术、激光）。
+治疗通常包括外用刺激剂（如水杨酸、斑蝥素、鬼臼树脂）和/或破坏性方法（如冷冻手术、电灼、刮除术、切除术、激光）。
+难治性疣可采用其他病损内注射药物和口服药物进行治疗。
+难治性疣可采用其他病损内注射药物和口服药物进行治疗。
+HPV疫苗可以预防某些会导致疣和癌症的HPV类型的感染。
+HPV疫苗可以预防某些会导致疣和癌症的HPV类型的感染。

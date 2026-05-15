@@ -1,0 +1,11 @@
+标题：钼缺乏症
+来源：https://www.msdmanuals.cn/professional/nutritional-disorders/mineral-deficiency-and-toxicity/molybdenum-deficiency
+============================================================
+
+钼（Mo）是某些辅酶的组成成分，为维持黄嘌呤氧化酶、亚硫酸盐氧化酶和醛氧化酶的活性所必需。
+先天性钼缺乏和营养性钼缺乏均曾有报道，但极少见 (1)。1967年发现一名儿童患有先天性亚硫酸盐氧化酶缺乏症，表现为摄入足够的钼但不能合成钼辅酶，这种缺乏症导致智力迟缓、惊厥、强制性背痉挛和眼晶体脱位。
+一名长期接受全肠外营养的患者因缺钼而导致亚硫酸氧化酶活性降低，并出现亚硫酸盐中毒。症状包括心动过速、呼吸急促、头痛、恶心、呕吐、昏迷。实验室检查显示血液与尿液中亚硫酸盐、黄嘌呤水平升高，硫酸盐、尿酸水平降低。每日静脉给予 300 微克钼酸铵后，患者显著恢复。
+
+【参考文献】
+1.Johannes L, Fu CY, Schwarz G.Molybdenum Cofactor Deficiency in Humans.Molecules.2022 Oct 14;27(20):6896.doi: 10.3390/molecules27206896
+1.Johannes L, Fu CY, Schwarz G.Molybdenum Cofactor Deficiency in Humans.Molecules.2022 Oct 14;27(20):6896.doi: 10.3390/molecules27206896

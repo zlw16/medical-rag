@@ -1,0 +1,169 @@
+标题：对乙酰氨基酚中毒
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/poisoning/acetaminophen-poisoning
+============================================================
+
+(参见中毒的一般原则。)
+在柜台销售的>100种产品中含有对乙酰氨基酚（N-乙酰对氨基苯酚或APAP)。其中有很多是儿童用的制剂（水剂、片剂和胶囊）以及止咳/抗感冒药物。很多处方药也含有对乙酰氨基酚。因此，对乙酰氨基酚过量是常见的。
+
+【对乙酰氨基酚中毒的病理生理学】
+在肝细胞色素P-450酶系统的作用下，对乙酰氨基酚产生一种主要的毒性代谢产物（N-乙酰基-p-苯醌亚胺，NAPQI），该物质可以被肝脏贮藏的谷胱甘肽解毒。急性过量会耗尽肝内的谷胱甘肽。 引起NAPQI的积聚导致肝细胞坏死，并可能损害肾脏、胰脏等其他器官。
+理论上，酒精性肝病或营养不良可能会增加毒性风险，因为肝酶预处理可能会增加 NAPQI 的形成，并且营养不良（在酒精使用障碍患者中也很常见）会降低肝脏谷胱甘肽储量。然而，酒精使用障碍患者在治疗剂量下使用对乙酰氨基酚并不会导致肝损伤。
+
+【急性对乙酰氨基酚中毒】
+引起毒性反应的急性口服过量剂量必须在24小时内达到≥150 mg/kg（成人约7.5至10 g）。
+
+【静脉输注对乙酰氨基酚】
+一种专为院内使用且适用于年龄>2岁患者设计的静脉对乙酰氨基酚制剂已被报道了数百例过量使用，其中包括数十例死亡，数例发生在儿童身上。大多数不良事件是由于药物剂量错误导致的，因为该药是以毫克为单位计量但却以毫升分装 (1)。由于这些过量是医源性的，因此关于时间和总剂量的信息是可靠的。因此，Rumack-Matthew列线图应能成功用于预测毒性，尽管它尚未经过验证（2）。剂量<150 mg/kg不太可能导致中毒，但数据尚不明确，一些毒理学家建议对摄入剂量超过60mg/kg的患者用N-乙酰半胱氨酸治疗（3）。静脉输注对乙酰氨基酚过量的确切治疗方案尚未确定，建议咨询毒物专家或中毒控制中心。
+
+【病理生理学参考文献】
+1.Injectable paracetamol in children: yet more cases of 10-fold overdose.Prescrire Int.2013;22(135):44-45.
+1.Injectable paracetamol in children: yet more cases of 10-fold overdose.Prescrire Int.2013;22(135):44-45.
+2.Dart RC, Mullins ME, Matoushek T, et al.Management ofAcetaminophenPoisoning in the US and Canada: A Consensus Statement [published correction appears inJAMA Netw Open.2023 Sep 5;6(9):e2337926. doi: 10.1001/jamanetworkopen.2023.37926].JAMA Netw Open.2023;6(8):e2327739.Published 2023 Aug 1.doi:10.1001/jamanetworkopen.2023.27739
+2.Dart RC, Mullins ME, Matoushek T, et al.Management ofAcetaminophenPoisoning in the US and Canada: A Consensus Statement [published correction appears inJAMA Netw Open.2023 Sep 5;6(9):e2337926. doi: 10.1001/jamanetworkopen.2023.37926].JAMA Netw Open.2023;6(8):e2327739.Published 2023 Aug 1.doi:10.1001/jamanetworkopen.2023.27739
+3.Gray T, Hoffman RS, Bateman DN.Intravenous paracetamol--an international perspective of toxicity.Clin Toxicol (Phila).2011;49(3):150-152.doi:10.3109/15563650.2011.568491
+3.Gray T, Hoffman RS, Bateman DN.Intravenous paracetamol--an international perspective of toxicity.Clin Toxicol (Phila).2011;49(3):150-152.doi:10.3109/15563650.2011.568491
+
+【对乙酰氨基酚中毒的症状和体征】
+轻微中毒可能不会出现症状，服药后≥48小时前，即使出现急性对乙酰氨基酚中毒症状也较轻微。症状出现有四个阶段（见表对乙酰氨基酚中毒的分期)：包括食欲减退、恶心呕吐及右上腹疼痛。可能出现肾衰竭和胰腺炎，偶尔也会不伴有肝衰竭。在>5天后，肝毒性要么减缓，要么进展到致命的多器官衰竭。
+
+【急性对乙酰氨基酚中毒分期】
+急性对乙酰氨基酚中毒分期
+摄入后时间
+0～24h
+厌食、恶心、呕吐
+24–72 小时
+右上腹痛（常见）
+AST、ALT有时升高，严重中毒时胆红素和PT（通常报告为INR）也升高
+72～96h
+呕吐和肝功能衰竭的症状
+AST、ALT、胆红素和INR呈高峰值
+有时出现肾衰竭和胰腺炎
+肝毒性症状好转或进展为多器官衰竭（有时为致命性的）
+ALT=丙氨酸氨基转移酶；AST=天冬氨酸氨基转移酶；INR=国际标准化比率；PT = 凝血酶原时间。
+ALT=丙氨酸氨基转移酶；AST=天冬氨酸氨基转移酶；INR=国际标准化比率；PT = 凝血酶原时间。
+
+【对乙酰氨基酚中毒的诊断】
+血清对乙酰氨基酚水平
+血清对乙酰氨基酚水平
+Rumack-Matthew 列线图
+Rumack-Matthew 列线图
+血清天冬氨酸氨基转移酶（AST）和丙氨酸氨基转移酶（ALT）水平
+血清天冬氨酸氨基转移酶（AST）和丙氨酸氨基转移酶（ALT）水平
+所有可能有自杀企图的病人故意摄入物质均应考虑对乙酰氨基酚过量。对药物非故意摄入患者亦应考虑此情况，因许多非处方药及部分处方药含对乙酰氨基酚，且患者或护理人员可能未意识到药物含有对乙酰氨基酚。对所有可能药物过量的患者考虑对乙酰氨基酚中毒，具有重要的临床意义，因为对乙酰氨基酚在早期通常只会引起轻微的症状，但它可能致命，而且可以治疗。
+
+【经验与提示】
+经验与提示
+对于所有摄入的患者，考虑隐匿性对乙酰氨基酚毒性。
+对于所有摄入的患者，考虑隐匿性对乙酰氨基酚毒性。
+急性摄入后出现肝毒性的可能性和严重性可由摄入的总量或由更精确的血清对乙酰氨基酚药物浓度来预测。如果知道急性摄入的时间，可用Rumack-Matthew 列线图来估计肝毒性的可能性；如果急性摄入的时间未知，则不能使用列线图。对于单次的传统剂型对乙酰氨基酚或速释剂对乙酰氨基酚的过量（吸收速度快 7 到 8 分钟），摄入后≥4小时测定血清浓度然后绘到列线图上。血药浓度≤150mcg/mL（≤990μmol/L）且没有出现中毒症状提示不太可能存在肝毒性。血药浓度较高提示可能存在肝毒性。对于单次急性缓释对乙酰氨基酚过量（其血清浓度有两个峰值，间隔约4小时），应在摄入后≥4小时和再过4小时后测定对乙酰氨基酚浓度；如果任一浓度超过Rumack-Matthew毒性界线，则需要治疗。
+如果无法确认单次摄入的确切时间，则假定最坏情况用于风险确定。也就是说，估计最早可能的摄入时间，然后绘制在 Rumack-Matthew 列线图上。例如，如果患者声明在下午 6 点到 9 点之间服用过量，则使用下午 6 点作为摄入时间（最坏情况）。同样，如果一个孩子住在一个没有对乙酰氨基酚产品的家里，但在过去的24小时内探访了家里确实有此类产品的亲戚，那么对乙酰氨基酚在就诊时测定的水平将被解释为24小时水平。在实践中，通常很难做出最坏情况的估计。
+
+【单次急性对乙酰氨基酚摄入的Rumack-Matthew列线图】
+单次急性对乙酰氨基酚摄入的Rumack-Matthew列线图
+以血浆对乙酰氨基酚浓度的半对数值与时间分别作为纵、横坐标。使用此图时需注意：
+时间指摄入对乙酰氨基酚后的时间。
+时间指摄入对乙酰氨基酚后的时间。
+摄入后4小时内测定的血清浓度可能不代表峰浓度。
+摄入后4小时内测定的血清浓度可能不代表峰浓度。
+仅可用于单次急性摄入后的评价。
+仅可用于单次急性摄入后的评价。
+标准列线图下方25%处的实线是为了考虑对乙酰氨基酚血浆测定误差和过量摄入的时间估计误差。
+标准列线图下方25%处的实线是为了考虑对乙酰氨基酚血浆测定误差和过量摄入的时间估计误差。
+改编自 Rumack BH, Matthew H:对乙酰氨基酚中毒和毒性。Pediatrics55(6): 871–876, 1975; reproduced by permission ofPediatrics.
+如果确诊或高度怀疑中毒，或摄取的时间不清或未知时，需进行额外检查。 进行肝脏检查，并在怀疑严重中毒时测量凝血酶原时间。 天冬氨酸氨基转移酶 (AST) 和丙氨酸氨基转移酶 (ALT) 结果与中毒分期相关（见表急性对乙酰氨基酚中毒的分期）。 如果中毒严重，胆红素和国际标准化比值可能会升高。
+低水平转氨酶升高（例如，正常上限的2或3倍水平）可以发生在成人服用治疗剂量的对乙酰氨基酚数天或数周。这些升高似乎是短暂的，通常在几天内消退或减少（即使持续使用对乙酰氨基酚），通常是临床无症状的，并且可能无关紧要 (1)。
+对乙酰氨基酚/半胱氨酸蛋白质加合物是开发和销售的生物标志物，用作对乙酰氨基酚引起的肝毒性指标。虽然生物标记物可能表明机体暴露于对乙酰氨基酚, 但不能确凿反映对乙酰氨基酚导致的肝毒性(2)。其他生物标志物如microRNA、高迁移率族盒-1（HMGB-1）和角蛋白-18正在研究中，但不是标准的诊断工具 (3)。
+
+【诊断参考】
+1.Heard K, Green JL, Anderson V, Bucher-Bartelson B, Dart RC.A randomized, placebo-controlled trial to determine the course of aminotransferase elevation during prolongedacetaminophenadministration.BMC Pharmacol Toxicol.2014;15:39.Published 2014 Jul 22.doi:10.1186/2050-6511-15-39
+1.Heard K, Green JL, Anderson V, Bucher-Bartelson B, Dart RC.A randomized, placebo-controlled trial to determine the course of aminotransferase elevation during prolongedacetaminophenadministration.BMC Pharmacol Toxicol.2014;15:39.Published 2014 Jul 22.doi:10.1186/2050-6511-15-39
+2.Heard KJ, Green JL, James LP, et al.Acetaminophen-cysteineadducts during therapeutic dosing and following overdose.BMC Gastroenterol.2011;11:20.Published 2011 Mar 14.doi:10.1186/1471-230X-11-20
+2.Heard KJ, Green JL, James LP, et al.Acetaminophen-cysteineadducts during therapeutic dosing and following overdose.BMC Gastroenterol.2011;11:20.Published 2011 Mar 14.doi:10.1186/1471-230X-11-20
+3.Antoine DJ, Dear JW, Lewis PS, et al.Mechanistic biomarkers provide early and sensitive detection ofacetaminophen-induced acute liver injury at first presentation to hospital.Hepatology.2013;58(2):777-787.doi:10.1002/hep.26294
+3.Antoine DJ, Dear JW, Lewis PS, et al.Mechanistic biomarkers provide early and sensitive detection ofacetaminophen-induced acute liver injury at first presentation to hospital.Hepatology.2013;58(2):777-787.doi:10.1002/hep.26294
+
+【对乙酰氨基酚中毒的治疗】
+口服或静脉注射N-乙酰半胱氨酸
+口服或静脉注射N-乙酰半胱氨酸
+可能给予活性炭
+可能给予活性炭
+如果对乙酰氨基酚可能仍残留在胃肠道（GI）内，可给予活性炭。
+N-乙酰半胱氨酸是对乙酰氨基酚中毒的解毒药。这种药物是谷胱甘肽的前体，可通过增加肝脏谷胱甘肽存储以及其他可能机制来降低对乙酰氨基酚的毒性。它通过在损伤肝细胞之前使对乙酰氨基酚的毒性代谢物 NAPQI（N-乙酰基-p-苯醌亚胺）失活，从而预防肝毒性。然而，它无法逆转已经造成的肝细胞损伤。
+对于急性中毒，如果根据对乙酰氨基酚剂量或血清水平判断可能存在肝毒性时，可给予N-乙酰半胱氨酸。该药物在摄入对乙酰氨基酚8小时内给药效果最好。 24小时后，使用解毒剂是否会获益是有疑问的，但仍然应该给药。如果中毒程度不确定, 应给予-乙酰半胱氨酸直至毒性排除。
+N-乙酰半胱氨酸通过静脉及口服给药疗效相当。静脉给药需连续输注。 负荷剂量是150mg/kg，溶于200mL 5％的D/W中，15分钟以上滴完；后维持量是50mg/kg，溶于500mL 5%的D/W中，4小时以上滴完；然后100mg/kg，溶于1000mL 5%的D/W中，16小时以上滴完。儿童的给药剂量可能需要调整，以减少总的补液量；建议咨询中毒控制中心。
+口服的N-乙酰半胱氨酸负荷剂量为140mg/kg。 之后每四小时给予70mg/kg的附加剂量，共给药17次。口服乙酰半胱氨酸味道差；将其溶于碳酸饮料或果汁，稀释成1：4后给药，仍可能导致呕吐。如有呕吐，可服用止吐药；如在服药1小时内发生呕吐，需补服1剂。呕吐可能延续很久，限制了口服剂的使用。过敏反应不常见，但在口服和静脉使用中均有发生。
+N-乙酰半胱氨酸持续给药直到满足以下标准（1):
+血清中对乙酰氨基酚浓度<10μg/mL
+血清中对乙酰氨基酚浓度<10μg/mL
+INR < 2.0；ALT和AST正常（或基线）或较峰值下降50%
+INR < 2.0；ALT和AST正常（或基线）或较峰值下降50%
+患者临床状况良好
+患者临床状况良好
+甲吡唑（4-甲基吡唑）已被证明可以减少超剂量摄入后氧化代谢物的形成，可能在对乙酰氨基酚过量治疗中发挥作用，尽管数据尚未完全明确（2）。
+肝功能衰竭主要以支持治疗为主。暴发性肝衰竭患者可能需肝移植。
+在大量对乙酰氨基酚过量中，摄入>50克对乙酰氨基酚的患者可能在摄入4小时内出现严重的代谢性酸中毒、嗜睡、昏迷和高血糖。具体机制尚不清楚。病例报告描述了连续输注N-乙酰半胱氨酸直到血清中检测不到对乙酰氨基酚的成功治疗。已有报道通过间歇性血液透析和持续静脉-静脉血液透析成功治疗大量摄入对乙酰氨基酚的病例。血清对乙酰氨基酚浓度≥900mcg/mL且伴有精神状态改变或代谢性酸中毒时，除乙酰半胱氨酸外应考虑血液透析（1）。建议咨询毒物控制中心或毒理学家。
+
+【治疗参考文献】
+1.Dart RC, Mullins ME, Matoushek T, et al.Management ofAcetaminophenPoisoning in the US and Canada: A Consensus Statement [published correction appears inJAMA Netw Open.2023 Sep 5;6(9):e2337926. doi: 10.1001/jamanetworkopen.2023.37926].JAMA Netw Open.2023;6(8):e2327739.Published 2023 Aug 1.doi:10.1001/jamanetworkopen.2023.27739
+1.Dart RC, Mullins ME, Matoushek T, et al.Management ofAcetaminophenPoisoning in the US and Canada: A Consensus Statement [published correction appears inJAMA Netw Open.2023 Sep 5;6(9):e2337926. doi: 10.1001/jamanetworkopen.2023.37926].JAMA Netw Open.2023;6(8):e2327739.Published 2023 Aug 1.doi:10.1001/jamanetworkopen.2023.27739
+2.Kang AM, Padilla-Jones A, Fisher ES, et al.The Effect of 4-Methylpyrazole on Oxidative Metabolism ofAcetaminophenin Human Volunteers.J Med Toxicol.2020;16(2):169-176.doi:10.1007/s13181-019-00740-z
+2.Kang AM, Padilla-Jones A, Fisher ES, et al.The Effect of 4-Methylpyrazole on Oxidative Metabolism ofAcetaminophenin Human Volunteers.J Med Toxicol.2020;16(2):169-176.doi:10.1007/s13181-019-00740-z
+
+【对乙酰氨基酚中毒的预后】
+经过适当治疗，死亡风险很低。
+在摄入24～48小时后，预后不良的指标包括下述所有：
+充分复苏后动脉pH值<7.3
+充分复苏后动脉pH值<7.3
+初始液体复苏后（<4小时）血乳酸水平>31.5 mg/dL（3.5 mmol/L）或充分液体复苏后（12小时）>27 mg/dL（>3 mmol/L）（1）
+初始液体复苏后（<4小时）血乳酸水平>31.5 mg/dL（3.5 mmol/L）或充分液体复苏后（12小时）>27 mg/dL（>3 mmol/L）（1）
+国际标准化比值 (INR)>6.5
+国际标准化比值 (INR)>6.5
+血清肌酐>3.4 mg/dL（0.3 mmol/L）
+血清肌酐>3.4 mg/dL（0.3 mmol/L）
+第Ⅲ（意识混乱和嗜睡）或第Ⅳ级（迟钝和昏迷）肝性脑病
+第Ⅲ（意识混乱和嗜睡）或第Ⅳ级（迟钝和昏迷）肝性脑病
+低血糖 (2)
+低血糖 (2)
+血小板减少症
+血小板减少症
+急性对乙酰氨基酚中毒不会使患者易患肝硬化。
+
+【预后参考】
+1.Bernal W, Donaldson N, Wyncoll D, Wendon J.Blood lactate as an early predictor of outcome in paracetamol-induced acute liver failure: a cohort study.Lancet.2002;359(9306):558-563.doi:10.1016/S0140-6736(02)07743-7
+1.Bernal W, Donaldson N, Wyncoll D, Wendon J.Blood lactate as an early predictor of outcome in paracetamol-induced acute liver failure: a cohort study.Lancet.2002;359(9306):558-563.doi:10.1016/S0140-6736(02)07743-7
+2.Levine M, Stellpflug SJ, Pizon AF, et al.Hypoglycemia and lactic acidosis outperform King's College criteria for predicting death or transplant inacetaminophentoxic patients.Clin Toxicol (Phila).2018;56(7):622-625.doi:10.1080/15563650.2017.1420193
+2.Levine M, Stellpflug SJ, Pizon AF, et al.Hypoglycemia and lactic acidosis outperform King's College criteria for predicting death or transplant inacetaminophentoxic patients.Clin Toxicol (Phila).2018;56(7):622-625.doi:10.1080/15563650.2017.1420193
+因为对乙酰氨基酚是普遍存在的，过量伊始是无症状且可治愈的，因此对所有可能中毒的患者都要考虑对乙酰氨基酚中毒的可能性。
+因为对乙酰氨基酚是普遍存在的，过量伊始是无症状且可治愈的，因此对所有可能中毒的患者都要考虑对乙酰氨基酚中毒的可能性。
+基于对乙酰氨基酚的水平，Rumack-Matthew列线图可用于预测服药时间已知的过量患者肝毒性的危险性。
+基于对乙酰氨基酚的水平，Rumack-Matthew列线图可用于预测服药时间已知的过量患者肝毒性的危险性。
+如果可能发生肝毒性，给予口服或静脉注射N-乙酰半胱氨酸。
+如果可能发生肝毒性，给予口服或静脉注射N-乙酰半胱氨酸。
+如果对乙酰氨基酚可能仍在胃肠道中，给予活性炭。
+如果对乙酰氨基酚可能仍在胃肠道中，给予活性炭。
+如果中毒程度不确定，开始静脉或口服-乙酰半胱氨酸直到更确凿的诊断信息出现。
+如果中毒程度不确定，开始静脉或口服-乙酰半胱氨酸直到更确凿的诊断信息出现。
+
+【慢性对乙酰氨基酚中毒】
+长期过度使用或反复超量使用可导致少数患者出现肝毒性。通常情况下，慢性过量主要源于不恰当地大剂量用于止痛，而非试图自伤。可以没有症状，也可包括任何在急性中毒中出现的症状。
+天冬氨酸氨基转移酶 (AST)、丙氨酸氨基转移酶 (ALT) 和血清对乙酰氨基酚水平
+天冬氨酸氨基转移酶 (AST)、丙氨酸氨基转移酶 (ALT) 和血清对乙酰氨基酚水平
+Rumack-Matthew列线图对此不适用，但严重的肝毒性可以通过AST、ALT和血清对乙酰氨基酚浓度来评估。
+如果AST、ALT正常（<50IU/L [0.83μkat/L]），且血清对乙酰氨基酚浓度<10mcg/mL (<66 μmol/L)，那么发生肝毒性的可能性很小。
+如果AST、ALT正常（<50IU/L [0.83μkat/L]），且血清对乙酰氨基酚浓度<10mcg/mL (<66 μmol/L)，那么发生肝毒性的可能性很小。
+如果AST和ALT正常，但血清对乙酰氨基酚浓度≥10 mcg/mL(≥66μmol/L)，肝毒性可能存在；24小时后复查AST和ALT。如果复查结果正常，肝毒性可能性很小；如果升高，可认为存在肝毒性。
+如果AST和ALT正常，但血清对乙酰氨基酚浓度≥10 mcg/mL(≥66μmol/L)，肝毒性可能存在；24小时后复查AST和ALT。如果复查结果正常，肝毒性可能性很小；如果升高，可认为存在肝毒性。
+如果AST和ALT初始就升高，则不管对乙酰氨基酚浓度如何，可认为存在肝毒性。
+如果AST和ALT初始就升高，则不管对乙酰氨基酚浓度如何，可认为存在肝毒性。
+有时使用N-乙酰半胱氨酸
+有时使用N-乙酰半胱氨酸
+N-乙酰半胱氨酸在治疗慢性对乙酰氨基酚中毒（或已确定的急性肝毒性）中的作用尚不明确。理论上，假如摄入>24小时后，如果还有残留的（未代谢的）对乙酰氨基酚存在，给予解毒剂可能会有一些益处。下述方法虽尚未经证实有效，但可以使用(1)：
+如果可能发生肝毒性（即天冬氨酸转氨酶（AST）和丙氨酸转氨酶（ALT）水平正常，但对乙酰氨基酚水平最初升高），则口服给予N-乙酰半胱氨酸，负荷剂量为140 mg/kg，随后每4小时口服70 mg/kg，持续24小时。若口服给药不耐受，可能需要静脉治疗。若24小时后复查AST和ALT水平正常，则停用N-乙酰半胱氨酸；若复查水平升高，则每日监测直至水平恢复正常，期间持续使用-乙酰半胱氨酸。
+如果可能发生肝毒性（即天冬氨酸转氨酶（AST）和丙氨酸转氨酶（ALT）水平正常，但对乙酰氨基酚水平最初升高），则口服给予N-乙酰半胱氨酸，负荷剂量为140 mg/kg，随后每4小时口服70 mg/kg，持续24小时。若口服给药不耐受，可能需要静脉治疗。若24小时后复查AST和ALT水平正常，则停用N-乙酰半胱氨酸；若复查水平升高，则每日监测直至水平恢复正常，期间持续使用-乙酰半胱氨酸。
+如果可能发生肝毒性（尤其是当初始AST和ALT水平较高时），则给予全疗程-乙酰半胱氨酸（即，如上所述的负荷剂量，然后每4小时给予70 mg/kg，共17次）治疗。
+如果可能发生肝毒性（尤其是当初始AST和ALT水平较高时），则给予全疗程-乙酰半胱氨酸（即，如上所述的负荷剂量，然后每4小时给予70 mg/kg，共17次）治疗。
+预后因素与急性对乙酰氨基酚中毒类似。
+
+【治疗参考文献】
+1.Gravel J, Grandjean-Blanchet C, Demean-Loghin A, Noyon B, Ostrow O, Vallières É.Validation of the Hospital for Sick Children Algorithm for Discriminating Bacteremia From Contaminants in Children With a Preliminary Positive Blood Culture.Ann Emerg Med.2024;84(5):490-499.doi:10.1016/j.annemergmed.2024.05.005
+1.Gravel J, Grandjean-Blanchet C, Demean-Loghin A, Noyon B, Ostrow O, Vallières É.Validation of the Hospital for Sick Children Algorithm for Discriminating Bacteremia From Contaminants in Children With a Preliminary Positive Blood Culture.Ann Emerg Med.2024;84(5):490-499.doi:10.1016/j.annemergmed.2024.05.005

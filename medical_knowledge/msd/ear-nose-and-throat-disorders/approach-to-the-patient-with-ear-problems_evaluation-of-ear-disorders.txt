@@ -1,0 +1,31 @@
+标题：耳部疾病评估
+来源：https://www.msdmanuals.cn/professional/ear-nose-and-throat-disorders/approach-to-the-patient-with-ear-problems/evaluation-of-ear-disorders
+============================================================
+
+耳痛、听力损失、耳漏、耳鸣和眩晕是耳部疾病的主要症状。
+除了耳部，鼻、鼻咽、鼻窦外，牙齿、舌、咽、扁桃体、下咽、喉、唾液腺和颞下颌关节均应检查；这些部位的疼痛和不适能涉及耳部。检查颅神经功能（见表颅神经）以及进行听力检测和前庭器检测很重要。还应该检查患者是否有眼球震颤（一种眼球的节律性运动）。
+
+【耳部疾病检查】
+病史或体格检查中发现有听力异常及耳鸣或眩晕的患者都应做听力图测试。
+有眼震或前庭功能改变的患者做计算机描记的视频眼震电图（VNG）或眼震电图（ENG）检查是有帮助的，该检查可定量肉眼不可见的自发性、凝视性或位置性眼震。患有周围性前庭疾病的患者可以通过注视一个物体（也称为视觉固定）来抑制眼球震颤；因此，在没有专业测试设备的情况下，有时眼球震颤可能难以观察（1）。在视频眼震电图（VNG）中，眼球运动由红外线护目镜记录。眼震电图（ENG）通过眼周电极记录眼球运动。在这两种情况下，数据都由计算机分析并由听力学家解释。计算机化的VNG或ENG冷热试验可以量化前庭系统对每个耳朵的冷热灌溉的反应强度，使医生能够确定周围性前庭功能减弱是单侧还是双侧的，以及患者的症状是前庭功能障碍引起的，还是由不影响周围性前庭系统的其他原因引起的头晕或眩晕（例如，低血压引起的头昏眼花、前庭性偏头痛、持续性姿势性感知性头晕）。通过改变头部和身体的位置、呈现视觉刺激或测量对大声声音的反射性肌肉反应，可以测试前庭系统的不同组成部分（例如，半规管、椭圆囊、球囊、下前庭神经和上前庭神经）。
+利用计算机化测试设备的姿势描记术来定量评估患者的姿势和平衡控制。让患者站在一个含有压力和运动传感器的平台上试图直立，该平台能检测身体摇摆的存在和程度。该测试可以在各种条件下进行，包括平台静止或移动、平坦或倾斜，以及患者睁眼或闭眼，这有助于分离前庭系统对平衡的贡献。
+旋转椅测试是另一种测量前庭系统功能的技术。在旋转椅测试中，患者坐在椅子上，视频眼镜跟踪患者在预设角速度和加速度旋转期间的眼球运动。这种依赖于前庭眼反射 (VOR) 评估的测试，可用于揭示单侧前庭功能减弱（例如，传入性前庭输入的部分丧失）、这种减弱的代偿程度，以及在某些情况下，用于区分头晕或眩晕的周围性和中枢性原因 (2)。
+主要影像学检查包括颞骨计算机断层扫描（CT），可以选择使用或不使用不透X线造影剂，以及钆增强脑部磁共振成像（MRI）。通过增强脑部MRI，需注意内听道和小脑脑桥角，以排除前庭神经鞘瘤（该位置最常见的肿瘤）或脑膜瘤（该位置第二常见的肿瘤）。以下情况可能需进行影像学检查：
+耳部、头部或两者的外伤
+耳部、头部或两者的外伤
+慢性感染
+慢性感染
+听力损失
+听力损失
+耳鸣（持续性或搏动性）
+耳鸣（持续性或搏动性）
+面神经麻痹
+面神经麻痹
+原因不明的耳痛
+原因不明的耳痛
+
+【参考文献】
+1.Halmagyi GM, McGarvie LA, Strupp M.Nystagmus goggles: how to use them, what you find and what it means.Pract Neurol.2020;20(6):446-450.doi:10.1136/practneurol-2020-002513
+1.Halmagyi GM, McGarvie LA, Strupp M.Nystagmus goggles: how to use them, what you find and what it means.Pract Neurol.2020;20(6):446-450.doi:10.1136/practneurol-2020-002513
+2.Zalewski CK, McCaslin DL, and Carlson, ML.Chapter 6.Rotary chair testing.In: Babu S, Schutt CA, Bojrab DI, eds.Diagnosis and Treatment of Vestibular Disorders.1st ed.Springer Nature; 2019: 75-98.
+2.Zalewski CK, McCaslin DL, and Carlson, ML.Chapter 6.Rotary chair testing.In: Babu S, Schutt CA, Bojrab DI, eds.Diagnosis and Treatment of Vestibular Disorders.1st ed.Springer Nature; 2019: 75-98.

@@ -1,0 +1,170 @@
+标题：儿童和青少年强迫症 及其相关疾病
+来源：https://www.msdmanuals.cn/professional/pediatrics/psychiatric-disorders-in-children-and-adolescents/obsessive-compulsive-disorder-and-related-disorders-in-children-and-adolescents
+============================================================
+
+（参见成人强迫障碍。）
+儿童与青少年强迫症（OCD）的特征在于存在强迫观念（即反复出现的、侵入性的思想、图像或冲动），这些观念引起显著焦虑；同时伴有强迫行为（即个体感到必须执行的重复性行为或心理活动），这些行为通常旨在减轻焦虑或防止某种害怕的事件发生。这种障碍可能显著干扰年轻人的日常功能、学业表现和社交互动，并可能包括相关病症，如身体畸形障碍和囤积障碍。儿童和青少年中强迫症的患病率在1%至3%之间（1）。强迫症的发病高峰年龄为14.5岁；大约25%的病例在14岁之前开始，45%在18岁之前开始，64%在25岁之前开始（2）。儿童和青少年的强迫症以男性居多为特征。
+OCD包括几种相关的疾病，包括
+躯体变形障碍
+躯体变形障碍
+拔毛发癖（拽头发）
+拔毛发癖（拽头发）
+抠抓皮肤
+抠抓皮肤
+有些儿童，尤其是男孩，还会患上一种特殊类型抽动障碍，称之为抽动秽语强迫症（3）。
+
+【参考文献】
+1.Zalpuri I, Matzke M, Joshi SV.Obsessive-Compulsive Disorder in Children and Adolescents: Early Detection in Primary Care Settings.Pediatrics.Published online December 6, 2024.doi:10.1542/peds.2024-069121
+1.Zalpuri I, Matzke M, Joshi SV.Obsessive-Compulsive Disorder in Children and Adolescents: Early Detection in Primary Care Settings.Pediatrics.Published online December 6, 2024.doi:10.1542/peds.2024-069121
+2.Solmi M, Radua J, Olivola M, et al.Age at onset of mental disorders worldwide: large-scale meta-analysis of 192 epidemiological studies.Mol Psychiatry.2022;27(1):281-295.doi:10.1038/s41380-021-01161-7
+2.Solmi M, Radua J, Olivola M, et al.Age at onset of mental disorders worldwide: large-scale meta-analysis of 192 epidemiological studies.Mol Psychiatry.2022;27(1):281-295.doi:10.1038/s41380-021-01161-7
+3.Katz TC, Bui TH, Worhach J, Bogut G, Tomczak KK.Tourettic OCD: Current understanding and treatment challenges of a unique endophenotype.Front Psychiatry.2022;13:929526.Published 2022 Jul 27.doi:10.3389/fpsyt.2022.929526
+3.Katz TC, Bui TH, Worhach J, Bogut G, Tomczak KK.Tourettic OCD: Current understanding and treatment challenges of a unique endophenotype.Front Psychiatry.2022;13:929526.Published 2022 Jul 27.doi:10.3389/fpsyt.2022.929526
+
+【强迫症及相关障碍的病因学】
+研究表明存在家族性因素(1)。
+有证据表明，一些急性（过夜）发病的病例与感染有关（2、3）。 与A组beta-溶血性链球菌相关的那些称为PANDAS（与链球菌相关的儿童自身免疫性神经精神疾病）。与其他感染相关的那些称为PANS（儿科急性发作神经精神综合征）。感染COVID-19的5至11岁儿童中，强迫症和抽动症新病例的频率高于未感染的儿童（4）。“未成熟”循环单核细胞的上调与增殖，据推测这些细胞可进入大脑并促进促炎细胞因子的释放，也被报道在儿童强迫症中发挥作用（5, 6）。
+若怀疑患有PANDAS或PANS，建议咨询相关疾病领域的专科医生。
+围产期创伤（例如，子宫内药物或酒精使用、机械辅助分娩）也与强迫症的发病机制有关（7）。
+
+【病因参考文献】
+1.Hanna GL, Himle JA, Curtis GC, et al.A family study of obsessive-compulsive disorder with pediatric probands.Am J Med Genet B Neuropsychiatr Gen.2005;134B(1):13-19, 2005.doi: 10.1002/ajmg.b.30138
+1.Hanna GL, Himle JA, Curtis GC, et al.A family study of obsessive-compulsive disorder with pediatric probands.Am J Med Genet B Neuropsychiatr Gen.2005;134B(1):13-19, 2005.doi: 10.1002/ajmg.b.30138
+2.Murphy TK, Kurlan R, Leckman J.The immunobiology of Tourette's disorder, pediatric autoimmune neuropsychiatric disorders associated withStreptococcus, and related disorders: A way forward.J Child Adolesc Psychopharmacol.20(4):317-331, 2010.doi: 10.1089/cap.2010.0043
+2.Murphy TK, Kurlan R, Leckman J.The immunobiology of Tourette's disorder, pediatric autoimmune neuropsychiatric disorders associated withStreptococcus, and related disorders: A way forward.J Child Adolesc Psychopharmacol.20(4):317-331, 2010.doi: 10.1089/cap.2010.0043
+3.Esposito S, Bianchini S, Baggi E, et al.Pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections: An overview.Eur J Clin Microbiol Infect Dis33:2105-2109, 2014.
+3.Esposito S, Bianchini S, Baggi E, et al.Pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections: An overview.Eur J Clin Microbiol Infect Dis33:2105-2109, 2014.
+4.Lu Y, Tong J, Zhang D, et al.Risk of neuropsychiatric and related conditions associated with SARS-CoV-2 infection: a difference-in-differences analysis.Nat Commun.2025;16(1):6829.Published 2025 Jul 24.doi:10.1038/s41467-025-61961-1
+4.Lu Y, Tong J, Zhang D, et al.Risk of neuropsychiatric and related conditions associated with SARS-CoV-2 infection: a difference-in-differences analysis.Nat Commun.2025;16(1):6829.Published 2025 Jul 24.doi:10.1038/s41467-025-61961-1
+5.Rodriguez N, Morer A, Gonzalez-Navarro EA, et al.Inflammatory dysregulation of monocytes in pediatric patients with obsessive-compulsive disorder.J Neuroinflammation14(1):261, 2017.doi: 10.1186/s12974-017-1042-z
+5.Rodriguez N, Morer A, Gonzalez-Navarro EA, et al.Inflammatory dysregulation of monocytes in pediatric patients with obsessive-compulsive disorder.J Neuroinflammation14(1):261, 2017.doi: 10.1186/s12974-017-1042-z
+6.Cosco TD, Pillinger T, Emam H, et al.Immune aberrations in obsessive-compulsive disorder: A systematic review and meta-analysis.Mol Neurobiol.56(7):4751-4759, 2019.doi: 10.1007/s12035-018-1409-x
+6.Cosco TD, Pillinger T, Emam H, et al.Immune aberrations in obsessive-compulsive disorder: A systematic review and meta-analysis.Mol Neurobiol.56(7):4751-4759, 2019.doi: 10.1007/s12035-018-1409-x
+7.Geller DA, Wieland N, Carey K, et al.Perinatal factors affecting expression of obsessive compulsive disorder in children and adolescents.J Child Adolesc Psychopharmacol.2008;18(4):373-379.doi:10.1089/cap.2007.0112
+7.Geller DA, Wieland N, Carey K, et al.Perinatal factors affecting expression of obsessive compulsive disorder in children and adolescents.J Child Adolesc Psychopharmacol.2008;18(4):373-379.doi:10.1089/cap.2007.0112
+
+【强迫症及相关障碍的病理生理学】
+OCD 的基因网络非常复杂，包括涉及突触传递、神经发育、免疫和炎症系统（1)。连锁分析暗示了谷氨酸转运体SLC1A1及染色体9上的侧翼区域，以及谷氨酸受体GRIN2B的缺陷。来自其他/多个基因位点的累加效应可能加剧强迫症的严重程度（2）。神经影像学研究指出，皮质-纹状体-丘脑回路内可能存在功能障碍（3）。
+
+【病理生理学参考文献】
+1.Saraiva LC, Cappi C, Simpson HB, et al.Cutting-edge genetics in obsessive-compulsive disorder.Fac Rev9:30, 2020.doi: 10.12703/r/9-30
+1.Saraiva LC, Cappi C, Simpson HB, et al.Cutting-edge genetics in obsessive-compulsive disorder.Fac Rev9:30, 2020.doi: 10.12703/r/9-30
+2.Pauls DL, Abramovitch A, Rauch SL, Geller DA.Obsessive-compulsive disorder: an integrative genetic and neurobiological perspective.Nat Rev Neurosci.2014;15(6):410-424.doi:10.1038/nrn3746
+2.Pauls DL, Abramovitch A, Rauch SL, Geller DA.Obsessive-compulsive disorder: an integrative genetic and neurobiological perspective.Nat Rev Neurosci.2014;15(6):410-424.doi:10.1038/nrn3746
+3.Fitzgerald KD, Welsh RC, Stern ER, et al.Developmental alterations of frontal-striatal-thalamic connectivity in obsessive-compulsive disorder.J Am Acad Child Adolesc Psychiatry50(9):938-948.e3, 2011.doi: 10.1016/j.jaac.2011.06.011
+3.Fitzgerald KD, Welsh RC, Stern ER, et al.Developmental alterations of frontal-striatal-thalamic connectivity in obsessive-compulsive disorder.J Am Acad Child Adolesc Psychiatry50(9):938-948.e3, 2011.doi: 10.1016/j.jaac.2011.06.011
+
+【强迫症及相关障碍的症状与体征】
+通常情况下，强迫症有一个渐进的，隐匿的起病。大多数儿童最初隐藏自己的症状，并在作出明确诊断之前多年报告症状。
+强迫观念通常表现为不由自主的担忧或对伤害的恐惧（例如，担心染上致命疾病、伤害自己或他人）。强迫行为是故意的意志行为，通常是为了中和或抵消强迫性恐惧；包括检查行为、过度清洗、计数或排列等。强迫观念和强迫行为可能有逻辑关联（如洗手以避免疾病），也可能不合逻辑且具有特殊性（如反复数到50以防止祖父心脏病发作）。若阻止孩子执行他们的强迫行为，他们可能会变得极度焦虑和忧心忡忡。
+大多数儿童在某种程度上意识到他们的强迫观念和强迫行为是不正常的。许多患病儿童感到尴尬并隐瞒症状。常见的症状包括
+双手粗糙、皲裂（这是儿童强迫性洗手时的典型表现症状）
+双手粗糙、皲裂（这是儿童强迫性洗手时的典型表现症状）
+在浴室花费过长时间
+在浴室花费过长时间
+做作业非常慢（因为对错误的强迫观念）
+做作业非常慢（因为对错误的强迫观念）
+在作业中做许多修正
+在作业中做许多修正
+父母会注意到孩子的行为反复、古怪，如反复检查是否锁门，以特定的次数咀嚼食物或避免接触某些物品。
+父母会注意到孩子的行为反复、古怪，如反复检查是否锁门，以特定的次数咀嚼食物或避免接触某些物品。
+频繁且乏味地有请求得到保证，每天几十甚至上百次——例如问：“你觉得我发烧了吗？”会有龙卷风吗？你认为汽车会发动么？如果我们迟到了怎么办？如果牛奶是酸的，怎么办？如果有小偷进来怎么办？”
+频繁且乏味地有请求得到保证，每天几十甚至上百次——例如问：“你觉得我发烧了吗？”会有龙卷风吗？你认为汽车会发动么？如果我们迟到了怎么办？如果牛奶是酸的，怎么办？如果有小偷进来怎么办？”
+
+【强迫症及相关障碍的诊断】
+精神评估
+精神评估
+精神障碍诊断与统计手册, 第5版，文本修订（DSM-5-TR）标准
+精神障碍诊断与统计手册, 第5版，文本修订（DSM-5-TR）标准
+强迫症的诊断基于临床病史。一旦与不带评判态度的治疗师建立了舒适的关系，强迫症儿童通常会透露许多强迫观念和相关的强迫行为。然而，通常需要几次约诊才能首先建立信任。在评估疑似强迫症的幼儿时，必须考虑发育背景。
+强迫症的诊断要求强迫观念和强迫行为导致极大的痛苦，并干扰学业和/或社交功能（1）。相关的家庭焦虑也必须在父母或照顾者中进行筛查，并应建立适当的转诊或管理。
+强迫症儿童常伴有其他焦虑障碍的症状，包括惊恐发作、分离焦虑和特定恐惧症。有时，该症状重叠会混淆诊断。 在以下情况下，鉴别诊断可能具有挑战性：
+早发性精神病：与成人不同，儿童并不总能区分强迫症症状的不真实性质。
+早发性精神病：与成人不同，儿童并不总能区分强迫症症状的不真实性质。
+自闭症谱系障碍：自闭症患者可能出现强烈的兴趣和强迫行为。与强迫症患者认为这些活动具有侵扰性和问题性不同，自闭症儿童更喜欢这些活动。
+自闭症谱系障碍：自闭症患者可能出现强烈的兴趣和强迫行为。与强迫症患者认为这些活动具有侵扰性和问题性不同，自闭症儿童更喜欢这些活动。
+抽动性强迫症：抽动性强迫症是一种独特的神经精神障碍，结合了图雷特综合征和强迫症的特征（2）。虽然患有抽动性强迫症的儿童可能表现出强迫行为，但传统的强迫思维在这种亚型中很少见。在抽动障碍相关强迫症中，强迫行为往往由显著的身体不适所驱动，因此识别并同时治疗抽动障碍的抽动症状与强迫症相关的强迫行为尤为重要。
+抽动性强迫症：抽动性强迫症是一种独特的神经精神障碍，结合了图雷特综合征和强迫症的特征（2）。虽然患有抽动性强迫症的儿童可能表现出强迫行为，但传统的强迫思维在这种亚型中很少见。在抽动障碍相关强迫症中，强迫行为往往由显著的身体不适所驱动，因此识别并同时治疗抽动障碍的抽动症状与强迫症相关的强迫行为尤为重要。
+PANDAS（猩猩-样病症相关性强迫症障碍）和PANS（急性神经系统症状引发的强迫症障碍）已经制定了诊断标准：PANDAS的标准之一是存在强迫症（OCD）或抽动症的症状；PANS的标准之一是强迫症或严重限制食物摄入的突然且剧烈发作（3, 4）。
+
+【诊断参考】
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), Washington: American Psychiatric Association, 2022.
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), Washington: American Psychiatric Association, 2022.
+2.Katz TC, Bui TH, Worhach J, Bogut G, Tomczak KK.Tourettic OCD: Current understanding and treatment challenges of a unique endophenotype.Front Psychiatry.2022;13:929526.Published 2022 Jul 27.doi:10.3389/fpsyt.2022.929526
+2.Katz TC, Bui TH, Worhach J, Bogut G, Tomczak KK.Tourettic OCD: Current understanding and treatment challenges of a unique endophenotype.Front Psychiatry.2022;13:929526.Published 2022 Jul 27.doi:10.3389/fpsyt.2022.929526
+3.Chang K, Frankovich J, Cooperstock M, et al.Clinical evaluation of youth with pediatric acute-onset neuropsychiatric syndrome (PANS): Recommendations from the 2013 PANS Consensus Conference.J Child Adolesc Psychopharmacol.25(1):3-13, 2015.doi: 10.1089/cap.2014.0084
+3.Chang K, Frankovich J, Cooperstock M, et al.Clinical evaluation of youth with pediatric acute-onset neuropsychiatric syndrome (PANS): Recommendations from the 2013 PANS Consensus Conference.J Child Adolesc Psychopharmacol.25(1):3-13, 2015.doi: 10.1089/cap.2014.0084
+4.Swedo SE, Leckman JF, Rose NR.From research subgroup to clinical syndrome: Modifying the PANDAS criteria to describe PANS (pediatric acute-onset neuropsychiatric syndrome).Pediatr Therapeutics.2:1-8, 2012.doi: 10.4172/2161-0665.1000113
+4.Swedo SE, Leckman JF, Rose NR.From research subgroup to clinical syndrome: Modifying the PANDAS criteria to describe PANS (pediatric acute-onset neuropsychiatric syndrome).Pediatr Therapeutics.2:1-8, 2012.doi: 10.4172/2161-0665.1000113
+
+【强迫症及相关障碍的治疗】
+认知行为疗法（CBT）配合渐进式暴露与反应阻止法
+认知行为疗法（CBT）配合渐进式暴露与反应阻止法
+通常是选择性5-羟色胺再摄取抑制剂（SSRIs）
+通常是选择性5-羟色胺再摄取抑制剂（SSRIs）
+有时会使用氯米帕明或抗精神病药物
+有时会使用氯米帕明或抗精神病药物
+对于大多数强迫症（OCD）患者，认知行为疗法（CBT）、选择性5-羟色胺再摄取抑制剂（SSRIs）和氯米帕明都是有效的治疗选择。暴露与反应预防是CBT治疗强迫症最有效的行为形式，应作为一线治疗手段（1）。暴露和反应预防侧重于让孩子暴露在引起焦虑的情况下，并指导他们避免以强迫行为做出反应。若儿童具有治疗动机并能主动配合完成任务，治疗效果通常更佳；同时，纳入主要照护者亦十分重要，应对其进行支持与培训，使其能够在日常生活中帮助孩子管理强迫性行为。
+单独使用或与SSRI联合使用的认知行为疗法，可能比单独使用SSRI更有效（2）。
+SSRIs（获得和未获得FDA批准的）是最有效的药物，且通常耐受性良好 (见表用于长期治疗焦虑、抑郁和相关疾病的药物)；都同样有效。
+对于严重的强迫症，建议联合使用 SSRI 和 CBT（3）。
+对于难治性强迫症，可以考虑以下策略：
+试用不同的 SSRI
+试用不同的 SSRI
+用非典型抗精神病药物（4–6）或较少使用锂盐（7）、利鲁唑（8）、N-乙酰半胱氨酸（9, 10）增强SSRI。
+用非典型抗精神病药物（4–6）或较少使用锂盐（7）、利鲁唑（8）、N-乙酰半胱氨酸（9, 10）增强SSRI。
+氯丙咪嗪
+氯丙咪嗪
+氯丙咪嗪 (11）在儿童而非成人中可能比 SSRIs 更有效并且有更好的反应率（12)。氯丙咪嗪可能有更高的不良反应风险，包括抗胆碱能副作用、心脏不良反应和癫痫发作。
+对于抽动性强迫症，除了习惯逆转治疗（HRT）外，可能还需要治疗强迫症的SSRI和α -肾上腺素能激动剂或抗精神病药物的联合治疗（13）。
+经颅磁刺激是另一种经FDA批准、适用于18岁及以上人群的有效疗法；针对儿童应用的研究目前正在进行中。
+若符合PANS/PANDAS诊断标准，即使无感染证据，临床医生也可尝试使用抗生素（如β-内酰胺类，可降低谷氨酸能活性）（14）。然而，如果症状持续，典型的OCD治疗是有益的，应该实施。
+
+【治疗参考文献】
+1.Uhre CF, Uhre VF, Lonfeldt NN, et al.Systematic review and meta-analysis: Cognitive-behavioral therapy for obsessive-compulsive disorder in children and adolescents.J Am Acad Child Adolesc Psychiatry.59(1)59:64-77, 2020.doi: 10.1016/j.jaac.2019.08.480
+1.Uhre CF, Uhre VF, Lonfeldt NN, et al.Systematic review and meta-analysis: Cognitive-behavioral therapy for obsessive-compulsive disorder in children and adolescents.J Am Acad Child Adolesc Psychiatry.59(1)59:64-77, 2020.doi: 10.1016/j.jaac.2019.08.480
+2.Steele DW, Kanaan G, Caputo EL, et al.Treatment of Obsessive-Compulsive Disorder in Children and Youth: A Meta-Analysis.Pediatrics.Published online December 6, 2024.doi:10.1542/peds.2024-068992
+2.Steele DW, Kanaan G, Caputo EL, et al.Treatment of Obsessive-Compulsive Disorder in Children and Youth: A Meta-Analysis.Pediatrics.Published online December 6, 2024.doi:10.1542/peds.2024-068992
+3.Sanchez-Meca J, Rosa-Alcazar AI, Iniesta-Sepulveda M, et al.Differential efficacy of cognitive-behavioral therapy and pharmacological treatments for pediatric obsessive-compulsive disorder: A meta-analysis.J Anxiety Disord.28(1):31-44.doi: 10.1016/j.janxdis.2013.10.007
+3.Sanchez-Meca J, Rosa-Alcazar AI, Iniesta-Sepulveda M, et al.Differential efficacy of cognitive-behavioral therapy and pharmacological treatments for pediatric obsessive-compulsive disorder: A meta-analysis.J Anxiety Disord.28(1):31-44.doi: 10.1016/j.janxdis.2013.10.007
+4.Fitzgerald KD, Stewart CM, Tawile V, et al.Risperidone augmentation of serotonin reuptake inhibitor treatment of pediatric obsessive compulsive disorder.J Child Adolesc Psychopharm.9(2):115-123, 1999.doi: 10.1089/cap.1999.9.115
+4.Fitzgerald KD, Stewart CM, Tawile V, et al.Risperidone augmentation of serotonin reuptake inhibitor treatment of pediatric obsessive compulsive disorder.J Child Adolesc Psychopharm.9(2):115-123, 1999.doi: 10.1089/cap.1999.9.115
+5.Figueroa Y, Rosenberg DR, Birmaher B, et al.Combination treatment with clomipramine and selective serotonin reuptake inhibitors for obsessive-compulsive disorder in children and adolescents.J Child Adolesc Psychopharmacol.8(1):61-67, 1998.doi: 10.1089/cap.1998.8.61
+5.Figueroa Y, Rosenberg DR, Birmaher B, et al.Combination treatment with clomipramine and selective serotonin reuptake inhibitors for obsessive-compulsive disorder in children and adolescents.J Child Adolesc Psychopharmacol.8(1):61-67, 1998.doi: 10.1089/cap.1998.8.61
+6.Simeon JG, Thatte S, Wiggins D.Treatment of adolescent obsessive-compulsive disorder with a clomipramine-fluoxetine combination.Psychopharmacol Bull.26(3):285-290, 1990.
+6.Simeon JG, Thatte S, Wiggins D.Treatment of adolescent obsessive-compulsive disorder with a clomipramine-fluoxetine combination.Psychopharmacol Bull.26(3):285-290, 1990.
+7.McDougle CJ, Price LH, Goodman WK, et al.A controlled trial of lithium augmentation in fluvoxamine-refractory obsessive-compulsive disorder: Lack of efficacy.J Clin Psychopharmacol.11(3):175-184, 1991.
+7.McDougle CJ, Price LH, Goodman WK, et al.A controlled trial of lithium augmentation in fluvoxamine-refractory obsessive-compulsive disorder: Lack of efficacy.J Clin Psychopharmacol.11(3):175-184, 1991.
+8.Grant PJ, Joseph LA, Farmer CA, et al.12-week, placebo-controlled trial of add-on riluzole in the treatment of childhood-onset obsessive-compulsive disorder.Neuropsychopharmacology.39(6):1453-1459, 2013.doi: 10.1038/npp.2013.343
+8.Grant PJ, Joseph LA, Farmer CA, et al.12-week, placebo-controlled trial of add-on riluzole in the treatment of childhood-onset obsessive-compulsive disorder.Neuropsychopharmacology.39(6):1453-1459, 2013.doi: 10.1038/npp.2013.343
+9.Afshar H, Roohafza H, Mohammad-Beigi HM, et al.N-acetylcysteine add-on treatment in refractory obsessive-compulsive disorder: A randomized, double-blind, placebo-controlled trial.J Clin Psychopharmacol.32(6):797-803, 2012.doi: 10.1097/JCP.0b013e318272677d
+9.Afshar H, Roohafza H, Mohammad-Beigi HM, et al.N-acetylcysteine add-on treatment in refractory obsessive-compulsive disorder: A randomized, double-blind, placebo-controlled trial.J Clin Psychopharmacol.32(6):797-803, 2012.doi: 10.1097/JCP.0b013e318272677d
+10.Sarris J, Oliver G, Camfield DA, et al.N-acetyl cysteine (NAC) in the treatment of obsessive-compulsive disorder: A 16-week, double-blind, randomised, placebo-controlled study.CNS Drugs.29(9):801-809, 2015.doi: 10.1007/s40263-015-0272-9
+10.Sarris J, Oliver G, Camfield DA, et al.N-acetyl cysteine (NAC) in the treatment of obsessive-compulsive disorder: A 16-week, double-blind, randomised, placebo-controlled study.CNS Drugs.29(9):801-809, 2015.doi: 10.1007/s40263-015-0272-9
+11.DeVeaugh-Geiss J, Moroz G, Beiderman J, et al.Clomipramine hydrochloride in childhood and adolescent obsessive-compulsive disorder—A multicenter trial.J Am Acad Child Adolesc Psychiatry.31(1):45-49, 1992.doi: 10.1097/00004583-199201000-00008
+11.DeVeaugh-Geiss J, Moroz G, Beiderman J, et al.Clomipramine hydrochloride in childhood and adolescent obsessive-compulsive disorder—A multicenter trial.J Am Acad Child Adolesc Psychiatry.31(1):45-49, 1992.doi: 10.1097/00004583-199201000-00008
+12.Mundo E, Maina G, Uslenghi C.Multicentre, double-blind, comparison of fluvoxamine and clomipramine in the treatment of obsessive-compulsive disorder.Int Clin Psychopharmacol.15(2):69-76, 2000.doi: 10.1097/00004850-200015020-00002
+12.Mundo E, Maina G, Uslenghi C.Multicentre, double-blind, comparison of fluvoxamine and clomipramine in the treatment of obsessive-compulsive disorder.Int Clin Psychopharmacol.15(2):69-76, 2000.doi: 10.1097/00004850-200015020-00002
+13.Katz TC, Bui TH, Worhach J, Bogut G, Tomczak KK.Tourettic OCD: Current understanding and treatment challenges of a unique endophenotype.Front Psychiatry.2022;13:929526.Published 2022 Jul 27.doi:10.3389/fpsyt.2022.929526
+13.Katz TC, Bui TH, Worhach J, Bogut G, Tomczak KK.Tourettic OCD: Current understanding and treatment challenges of a unique endophenotype.Front Psychiatry.2022;13:929526.Published 2022 Jul 27.doi:10.3389/fpsyt.2022.929526
+14.Cooperstock MS, Swedo SE, Pasternack MS, Murphy TK.Clinical Management of Pediatric Acute-Onset Neuropsychiatric Syndrome: Part III-Treatment and Prevention of Infections.J Child Adolesc Psychopharmacol.2017;27(7):594-606.doi:10.1089/cap.2016.0151
+14.Cooperstock MS, Swedo SE, Pasternack MS, Murphy TK.Clinical Management of Pediatric Acute-Onset Neuropsychiatric Syndrome: Part III-Treatment and Prevention of Infections.J Child Adolesc Psychopharmacol.2017;27(7):594-606.doi:10.1089/cap.2016.0151
+
+【强迫症及相关障碍的预后】
+当早期诊断和治疗时，儿科强迫症的长期结果通常是积极的。然而，相当一部分少数病例（约40%）持续到成年期（1），且临床病程常常多变，伴有加重和缓解。在一项荟萃分析中，儿科强迫症的缓解率为62%，基线时病程较短预示着更高的缓解率（2）。共病情况（如儿童自身免疫性神经精神障碍伴链球菌感染综合征和儿童急性神经精神综合征）可能会影响该疾病的严重程度与病程。
+
+【预后参考】
+1.Micali N, Heyman I, Perez M, et al.Long-term outcomes of obsessive-compulsive disorder: follow-up of 142 children and adolescents.Br J Psychiatry.2010;197(2):128-134.doi:10.1192/bjp.bp.109.075317
+1.Micali N, Heyman I, Perez M, et al.Long-term outcomes of obsessive-compulsive disorder: follow-up of 142 children and adolescents.Br J Psychiatry.2010;197(2):128-134.doi:10.1192/bjp.bp.109.075317
+2.Liu J, Cui Y, Yu L, et al.Long-Term Outcome of Pediatric Obsessive-Compulsive Disorder: A Meta-Analysis.J Child Adolesc Psychopharmacol.2021;31(2):95-101.doi:10.1089/cap.2020.0051
+2.Liu J, Cui Y, Yu L, et al.Long-Term Outcome of Pediatric Obsessive-Compulsive Disorder: A Meta-Analysis.J Child Adolesc Psychopharmacol.2021;31(2):95-101.doi:10.1089/cap.2020.0051
+患有强迫症的儿童通常将强迫观念体验为对伤害的担忧或恐惧（例如：罹患致命疾病、对惩罚或报应的执念、伤害自己）。
+患有强迫症的儿童通常将强迫观念体验为对伤害的担忧或恐惧（例如：罹患致命疾病、对惩罚或报应的执念、伤害自己）。
+强迫行为(如过度清洗、计数、安排)是故意的，通常是为了消除或抵消强迫性恐惧。
+强迫行为(如过度清洗、计数、安排)是故意的，通常是为了消除或抵消强迫性恐惧。
+不能执行他们的强迫行为使孩子们过度焦虑和担心。
+不能执行他们的强迫行为使孩子们过度焦虑和担心。
+与孩子建立一种舒适的关系，保持一种不带偏见的态度，这样孩子就会觉得自己有能力揭露自己的强迫症和相关的强迫行为。
+与孩子建立一种舒适的关系，保持一种不带偏见的态度，这样孩子就会觉得自己有能力揭露自己的强迫症和相关的强迫行为。
+若儿童具备积极性且能完成任务，可尝试认知行为疗法，但可能需要药物配合治疗（通常为SSRIs）。
+若儿童具备积极性且能完成任务，可尝试认知行为疗法，但可能需要药物配合治疗（通常为SSRIs）。

@@ -1,0 +1,59 @@
+标题：物理治疗（PT）
+来源：https://www.msdmanuals.cn/professional/special-subjects/rehabilitation/physical-therapy-pt
+============================================================
+
+物理治疗（physical therapy）的目的是改善关节和肌肉的功能（如运动的范围，力量），从而提高患者站立、平衡、行走和走楼梯的能力。理疗常用于训练下肢截肢者。例如，理疗常用于训练下肢截肢者。另一方面，作业治疗致力于自我护理活动，并对肌肉和关节，尤其是上肢的精细运动协调做出改善。
+(参见康复学概述。）
+
+【运动范围】
+活动范围受限会损害功能，容易引起疼痛，并可能使患者易患压疮。治疗前和治疗后应定期用角度计评估运动范围 。
+针对活动范围的训练可伸展僵硬的关节。在联合热疗时进行牵伸通常效果最佳且疼痛最轻（参见热疗）（1）。 关节活动训练分为几种类型：
+主动练习：当病人能够不需帮助而运动；患者必须自己移动自己的四肢。
+主动练习：当病人能够不需帮助而运动；患者必须自己移动自己的四肢。
+主动性辅助练习：当病人肌肉太软弱或是关节活动引起不适时，患者必须移动自己的四肢，但治疗师可以提供帮助。
+主动性辅助练习：当病人肌肉太软弱或是关节活动引起不适时，患者必须移动自己的四肢，但治疗师可以提供帮助。
+被动练习：病人不能主动参与时，采用被动性活动范围练习，此时患者无需自己做出努力。
+被动练习：病人不能主动参与时，采用被动性活动范围练习，此时患者无需自己做出努力。
+
+【力量调节】
+许多锻炼旨在增强肌肉力量。医学研究委员会肌力分级系统是临床上应用最广泛的肌力分级评估工具之一（见表肌力分级标准）。用进行性抗阻训练可以逐渐增加肌力。当肌力非常弱时，仅重力就是足够的阻力。当肌力达到“尚可”等级后，可增加额外的手法或机械阻力训练（如负重、弹簧张力或阻力带）。
+全身调节练习可综合应用各种活动，消除全身虚弱、长期卧床休息或静止不动的影响。目的是重建血流动力学平衡、增加心肺功能和维持运动范围和肌力。
+对于年长的人，这些练习的目的在于能增强肌肉力量以完成正常功能，甚至重获该年龄所具有的正常肌力。
+
+【肌力分级表 [a]】
+肌力分级表 [a]
+对抗阻力时力量完全正常
+抗中等阻力主动活动
+抗重力主动活动但不能抗阻力
+无重力下主动活动
+有收缩证据（看得见或触得到），但无关节运动或仅有轻微关节运动
+触不到、看不到收缩，也无关节运动
+[a]数据改编自Aids to the Examination of the Peripheral Nervous System (Memorandum No. 45)（《外周神经系统检查辅助工具》（第45号备忘录））中的医学研究委员会肌肉量表，并根据开放政府许可证3.0获得医学研究委员会的许可使用。
+[a]数据改编自Aids to the Examination of the Peripheral Nervous System (Memorandum No. 45)（《外周神经系统检查辅助工具》（第45号备忘录））中的医学研究委员会肌肉量表，并根据开放政府许可证3.0获得医学研究委员会的许可使用。
+
+【本体感觉神经肌肉促进法】
+本体感受性神经肌肉促进练习能帮助上运动神经元损伤伴痉挛的病人提高神经肌肉活动。它使患者可以感受到肌肉的收缩，帮助患者保持受损关节的活动范围。
+本体感觉神经肌肉促进（PNF）已被提出作为改善上运动神经元损伤及痉挛患者（如中风或脑瘫）日常基本生活活动（ADLs）能力和生活质量的有效方法（2）。PNF 涉及被动牵伸循环、等长收缩以及额外的被动牵伸。PNF 可针对特定肌群实施，以维持关节活动度和/或柔韧性（例如：左侧大脑中动脉梗死后出现痉挛或挛缩的患者，可对右侧肱二头肌进行训练）（2）。
+
+【协调训练】
+协调性训练是以任务为导向的运动，旨在训练多个关节和肌肉协同工作，使动作平稳高效。举例包括：在不同距离伸手抓取物体、指鼻试验、按指令触碰身体不同部位、足跟滑膝动作，或如抛接球等手控球类活动
+
+【步行训练】
+在开始步行练习之前，患者必须能够在站立位时保持平衡(3)。平衡练习需利用平行支架，治疗师站在患者前面或后面。患者在握支架时，交替在左右两侧和前后移动身体重心。一旦患者能够安全地保持平衡，则可以开始步行练习。
+
+【支持患者的行走】
+支持患者的行走
+提供帮助的护理人员的手臂应置于患者的手臂之下，轻轻握住患者的前臂，并将2人的胳膊锁定在患者的腋下。如此，如果患者将要跌倒，授助者也能在患者的肩部提供支持。如果患者有腰带，授助者的游离的手也可抓住腰带。
+步行常是康复的主要目的。 如果个别肌肉软弱无力或痉挛，可使用矫形器（如支架）。 常常是开始用平行支架进行步行练习，然后逐步用步行器、拐杖或手杖，直至行走时无需器具的帮助。 治疗师对某些病人用一条援助带可帮助防止他们摔倒。任何一位帮助患者行走的人应知道怎样恰当地支撑他们 (见图支持患者的行走)。
+当病人能够在平面上安全地步行时，他们可以开始进行爬梯以及跨上街沿的训练。使用助行器的病人必须学习特殊技术来爬梯及跨上街沿。 上下爬梯时，应使用健侧腿先上楼梯而使用患侧腿先下楼梯（即：健侧引导向上；患侧引导向下）。在病人出院前，社会工作者或物理治疗师应沿着病人家中的楼道里指导安装安全扶手。
+
+【移动训练】
+安全地移动对于病人能否留在家里起着决定性作用。如果病人不能独自从床移坐到椅子上，从椅子移动到坐便器上，也不能从椅子上站起来的话，就需要24小时的护工。调节坐便器和座椅的高度是有益的。 有时援助性器材会有帮助；如，从椅子上站起有困难的患者可以从凸起的椅子或手动椅子中获益。
+
+【参考文献】
+1.Nakano J, Yamabayashi C, Scott A, et al.The effect of heat applied with stretch to increase range of motion: A systematic review.Phys Ther Sport.2012;13(3):180-188.
+1.Nakano J, Yamabayashi C, Scott A, et al.The effect of heat applied with stretch to increase range of motion: A systematic review.Phys Ther Sport.2012;13(3):180-188.
+2.Guiu-Tula FX, Cabanas-Valdés R, Sitjà-Rabert M, Urrútia G, Gómara-Toldrà N.The Efficacy of the proprioceptive neuromuscular facilitation (PNF) approach in stroke rehabilitation to improve basic activities of daily living and quality of life: a systematic review and meta-analysis protocol.BMJ Open.2017;7(12):e016739.Published 2017 Dec 12.doi:10.1136/bmjopen-2017-016739
+2.Guiu-Tula FX, Cabanas-Valdés R, Sitjà-Rabert M, Urrútia G, Gómara-Toldrà N.The Efficacy of the proprioceptive neuromuscular facilitation (PNF) approach in stroke rehabilitation to improve basic activities of daily living and quality of life: a systematic review and meta-analysis protocol.BMJ Open.2017;7(12):e016739.Published 2017 Dec 12.doi:10.1136/bmjopen-2017-016739
+3.Hornby TG, Reisman DS, Ward IG, et al.Clinical Practice Guideline to Improve Locomotor Function Following Chronic Stroke, Incomplete Spinal Cord Injury, and Brain Injury.J Neurol Phys Ther.2020;44(1):49-100.doi:10.1097/NPT.0000000000000303
+3.Hornby TG, Reisman DS, Ward IG, et al.Clinical Practice Guideline to Improve Locomotor Function Following Chronic Stroke, Incomplete Spinal Cord Injury, and Brain Injury.J Neurol Phys Ther.2020;44(1):49-100.doi:10.1097/NPT.0000000000000303

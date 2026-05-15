@@ -1,0 +1,40 @@
+标题：脊椎前移
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/neck-and-back-pain/spondylolisthesis
+============================================================
+
+有五种类型的脊椎滑脱 (1)，根据病因分类：
+I型，先天性：由上关节面发育不全引起
+I型，先天性：由上关节面发育不全引起
+II 型，峡部：由关节间部缺陷（脊椎溶解）引起
+II 型，峡部：由关节间部缺陷（脊椎溶解）引起
+III 型，退行性：由与骨关节炎相关的关节退行性变引起
+III 型，退行性：由与骨关节炎相关的关节退行性变引起
+IV 型，外伤性：由骨折、脱位或其他损伤引起
+IV 型，外伤性：由骨折、脱位或其他损伤引起
+V 型，病理性：由感染、癌症或其他骨异常引起
+V 型，病理性：由感染、癌症或其他骨异常引起
+脊椎qian'yi通常累及L3-L4，L4-L5或最常见的是L5-S1椎体。
+II型（峡部）和III型（退行性）是最常见的。
+IIxing常发生在受过小创伤的青少年或年轻运动员;其原因是由于先天性关节间部缺陷(峡部裂)导致腰椎后节变得薄弱。在大多数年轻患者中，缺陷是由过度使用损伤或应力性骨折引起的，L5部分是最常见的水平。
+III型（退行性变）也可能发生在> 60岁且有骨关节炎的患者; 这种形式在女性中比男性多六倍。
+对于II型脊椎滑脱，需要有双侧缺损的抗滑脱术。对于 III 型（退行性），骨骼没有缺陷。
+X射线显示S1上L5 1度滑脱。黑色箭头显示L5的后缘，位于S1前半部分。红色箭头指示脊椎峡部裂（关节间部缺陷）。
+ZEPHYR/SCIENCE PHOTO LIBRARY
+脊椎前移根据前移椎体半脱位超过邻近椎体长度的百分比来分度 (1)：
+I度：0～25%
+I度：0～25%
+Ⅱ度：25～50%
+Ⅱ度：25～50%
+Ⅲ度：50～75%
+Ⅲ度：50～75%
+Ⅳ度：75～100%
+Ⅳ度：75～100%
+脊椎前移在腰椎X线平片上可以找到依据。侧位影像通常用作脊椎前移的分度。前屈和过伸位摄片可以检查是否增加了角度或向前移动。
+轻至中度脊椎滑脱（前脱位≤50％），尤其是在年轻人，可能仅有轻微或没有疼痛。脊椎前移预示以后可能会发展为椎间孔狭窄。脊椎滑脱总体是wen定的(即在程度上是永久的和有限的)。
+脊椎滑脱的治疗通常是对症治疗。腰椎稳定锻炼的物理疗法可能会有所帮助 (2)。
+
+【参考文献】
+1.Koslosky E, Gendelberg D.Classification in Brief: The Meyerding Classification System of Spondylolisthesis.Clin Orthop Relat Res2020;478(5):1125-1130.doi:10.1097/CORR.0000000000001153
+1.Koslosky E, Gendelberg D.Classification in Brief: The Meyerding Classification System of Spondylolisthesis.Clin Orthop Relat Res2020;478(5):1125-1130.doi:10.1097/CORR.0000000000001153
+2.Lin LH, Lin TY, Chang KV, Wu WT, Özçakar L.Effectiveness of Lumbar Segmental Stabilization Exercises in Managing Disability and Pain Intensity Among Patients with Lumbar Spondylolysis and Spondylolisthesis: A Systematic Review and Meta-analysis of Randomized Controlled Trials. Spine (Phila Pa1976).Published online March 20, 2024.doi:10.1097/BRS.0000000000004989
+2.Lin LH, Lin TY, Chang KV, Wu WT, Özçakar L.Effectiveness of Lumbar Segmental Stabilization Exercises in Managing Disability and Pain Intensity Among Patients with Lumbar Spondylolysis and Spondylolisthesis: A Systematic Review and Meta-analysis of Randomized Controlled Trials. Spine (Phila Pa1976).Published online March 20, 2024.doi:10.1097/BRS.0000000000004989

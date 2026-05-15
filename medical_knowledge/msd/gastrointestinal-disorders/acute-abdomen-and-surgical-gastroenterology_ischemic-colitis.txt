@@ -1,0 +1,32 @@
+标题：缺血性结肠炎
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/acute-abdomen-and-surgical-gastroenterology/ischemic-colitis
+============================================================
+
+可能发生坏死，但通常仅限于黏膜与黏膜下层，仅偶尔出现全层坏死而需要手术。主要见于老年人（>60岁），由小血管动脉粥样硬化所致。亦可为腹主动脉瘤修复术后并发症。
+
+【缺血性结肠炎的症状和体征】
+缺血性结肠炎的症状较急性肠系膜缺血更轻，起病较慢，主要表现为左下腹疼痛，随后出现便血。这两种疾病的病理生理学和治疗方法大不相同。
+
+【缺血性结肠炎的诊断】
+CT或结肠镜检查
+CT或结肠镜检查
+缺血性结肠炎由CT或结肠镜诊断。
+在CT扫描中，降结肠（上箭头）从脾曲到近端乙状结肠壁较厚。应注意乙状结肠远端憩室病（下箭头），无炎性或缺血性改变。
+在结肠镜检查中，黏膜呈弥漫性红斑和溃疡，符合中度至重度缺血性结肠炎。
+无需行血管造影或磁共振血管造影。
+
+【缺血性结肠炎的治疗】
+静脉补液、肠道休息及抗生素
+静脉补液、肠道休息及抗生素
+很少需要手术
+很少需要手术
+缺血性结肠炎治疗包括静脉补液支持、禁食及抗生素 (1)。
+低流量状态的潜在原因是与之相关的治疗（如控制心律失常）。
+极少需手术治疗，除非缺血性结肠炎为血管手术并发症或伴有粘膜全层坏死。约5%的患者可有复发 (2)。
+偶尔在数周后，肠管缺血处可发生狭窄，需行手术切除。
+
+【治疗参考文献】
+1.Brandt LJ, Boley SJ.AGA technical review on intestinal ischemia.American Gastrointestinal Association.Gastroenterology.2000;118(5):954-968.doi:10.1016/s0016-5085(00)70183-1
+1.Brandt LJ, Boley SJ.AGA technical review on intestinal ischemia.American Gastrointestinal Association.Gastroenterology.2000;118(5):954-968.doi:10.1016/s0016-5085(00)70183-1
+2.FitzGerald JF, Hernandez Iii LO.Ischemic colitis.Clin Colon Rectal Surg.2015;28(2):93-98.doi:10.1055/s-0035-1549099
+2.FitzGerald JF, Hernandez Iii LO.Ischemic colitis.Clin Colon Rectal Surg.2015;28(2):93-98.doi:10.1055/s-0035-1549099

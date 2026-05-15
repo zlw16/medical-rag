@@ -1,0 +1,36 @@
+标题：骨髓增殖性肿瘤概述
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/myeloproliferative-disorders/overview-of-myeloproliferative-neoplasms
+============================================================
+
+骨髓增殖性肿瘤是骨髓造血干细胞的克隆性增殖，其表现为单独或联合循环中功能正常的血小板、红细胞(rbc)或白细胞(wbc)数量增加，有时伴有骨髓纤维化和髓外造血(骨髓外的细胞生成)。根据这些异常，可分为:
+原发性血小板增多症（血小板增多）
+原发性血小板增多症（血小板增多）
+原发性骨髓纤维化（骨髓纤维化或瘢痕）
+原发性骨髓纤维化（骨髓纤维化或瘢痕）
+真性红细胞增多症（白细胞、红细胞和血小板增加的任何组合，但很少单独出现红细胞增多症）
+真性红细胞增多症（白细胞、红细胞和血小板增加的任何组合，但很少单独出现红细胞增多症）
+慢性粒细胞白血病（与费城染色体和BCR/ABL融合基因）
+慢性粒细胞白血病（与费城染色体和BCR/ABL融合基因）
+原发性血小板增多症、原发性骨髓纤维化和真性红细胞增多症可自发转化为急性白血病。在没有长期暴露于化学治疗药物(如羟基脲)的情况下，原发性血小板增多症和真性红细胞增多症转化为急性白血病的概率极低。
+较少见的骨髓增生性肿瘤包括嗜酸性粒细胞增多综合征和肥大细胞增多症。 骨髓增殖性肿瘤可与骨髓增生异常综合征重叠。
+根据其主要特点可区分每一种疾病（见表骨髓增生性肿瘤的分类）。 尽管一种或多种造血细胞类型的增殖在每一种疾病的临床表现中占主导地位，但所有三种都是由多能造血干细胞的克隆增殖引起的，导致骨髓中正常红细胞、白细胞和血小板祖细胞的增殖增加。 然而，这种异常克隆不产生骨髓成纤维细胞，是以多克隆、反应性和可逆性的方式增殖以响应异常干细胞。
+由于共同的病因，临床和实验室检查结果重叠。编码酪氨酸激酶的JAK2基因的突变可引起真性红细胞增多症，在原发性血小板增多症和原发性骨髓纤维化患者中也有较高的突变比例。Janus激酶2是I型酪氨酸激酶家族的成员，参与促红细胞生成素、促血小板生成素和粒细胞集落刺激因子(G-CSF）受体的信号转导过程。血小板生成素受体基因（MPL) 或钙网蛋白 (CALR) 基因在相当一部分原发性血小板增多症和原发性骨髓纤维化患者中也发生了突变。三种骨髓增生性肿瘤驱动突变和慢性粒细胞白血病中的BCR/ABL基因通常相互排斥，但在极少数情况下可以共存于同一患者体内。
+
+【骨髓增殖性肿瘤的分类】
+骨髓增殖性肿瘤的分类
+主要表现
+原发性血小板增多症
+血小板增多
+有时导致骨髓纤维化，最常见于男性
+原发性骨髓纤维化
+贫血，白细胞增多，血小板增多，骨髓纤维化伴髓外造血
+真性红细胞增多症
+红细胞增多症通常伴有白细胞和血小板计数同时增加，有时伴有髓外造血和骨髓纤维化
+慢性髓细胞性白血病
+粒细胞增多和/或血小板增多
+
+【更多信息】
+Tremblay D, Yacoub A, Hoffman R.Overview of myeloproliferative neoplasms.Hematol Oncol Clin N Am.2021;35:159-176.doi: 10.1016/j.hoc.2020.12.001
+Tremblay D, Yacoub A, Hoffman R.Overview of myeloproliferative neoplasms.Hematol Oncol Clin N Am.2021;35:159-176.doi: 10.1016/j.hoc.2020.12.001
+Wang L, Li J, Arbitman L, et al.Current Advances in the Diagnosis and Treatment of Major Myeloproliferative Neoplasms.Cancers (Basel).2025;17(11):1834.Published 2025 May 30.doi:10.3390/cancers17111834
+Wang L, Li J, Arbitman L, et al.Current Advances in the Diagnosis and Treatment of Major Myeloproliferative Neoplasms.Cancers (Basel).2025;17(11):1834.Published 2025 May 30.doi:10.3390/cancers17111834

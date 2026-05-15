@@ -1,0 +1,27 @@
+标题：生物反馈
+来源：https://www.msdmanuals.cn/professional/special-subjects/integrative-complementary-and-alternative-medicine/biofeedback
+============================================================
+
+生物反馈，作为心身医学的一种，指电子设备中的一种被用于提供关于生理信号的信息（如，心率、血压、肌肉活动、皮温、皮肤电阻、大脑表面电活动）和指导病人通过心理锻炼来控制这些功能。
+
+【生物反馈的应用】
+在治疗师的指导或专业训练下，患者可运用生物反馈信息来调节生理功能或放松身心，从而缓解疼痛、压力、焦虑（1）、失眠及头痛等症状的影响。
+生物反馈疗法包含多种不同类型，具体如下：
+心电图监测心率变异性：用于提高运动表现(2)；用于管理各种慢性疾病、精神健康状况、睡眠障碍或其他神经系统疾病(3)
+心电图监测心率变异性：用于提高运动表现(2)；用于管理各种慢性疾病、精神健康状况、睡眠障碍或其他神经系统疾病(3)
+脑电图监测脑活动（神经反馈）：用于治疗注意力缺陷/多动障碍（ADHD）（4）或焦虑障碍（1）
+脑电图监测脑活动（神经反馈）：用于治疗注意力缺陷/多动障碍（ADHD）（4）或焦虑障碍（1）
+肌电图监测肌肉收缩：作为尿失禁盆底肌肉训练的一部分（5）
+肌电图监测肌肉收缩：作为尿失禁盆底肌肉训练的一部分（5）
+
+【参考文献】
+1.Tolin DF, Davies CD, Moskow DM, et al.Biofeedback and neurofeedback for anxiety disorders: a quantitative and qualitative systematic review.Adv Exp Med Biol.1191:265-289, 2020.doi: 10.1007/978-981-32-9705-0_16
+1.Tolin DF, Davies CD, Moskow DM, et al.Biofeedback and neurofeedback for anxiety disorders: a quantitative and qualitative systematic review.Adv Exp Med Biol.1191:265-289, 2020.doi: 10.1007/978-981-32-9705-0_16
+2.Jiménez Morgan S, Molina Mora JA.Effect of heart rate variability biofeedback on sport performance, a systematic review.Appl Psychophysiol Biofeedback.42(3):235-245, 2017.doi:10.1007/s10484-017-9364-2
+2.Jiménez Morgan S, Molina Mora JA.Effect of heart rate variability biofeedback on sport performance, a systematic review.Appl Psychophysiol Biofeedback.42(3):235-245, 2017.doi:10.1007/s10484-017-9364-2
+3.Fournié C, Chouchou F, Dalleau G, et al.Heart rate variability biofeedback in chronic disease management: a systematic review.Complement Ther Med.60:102750, 2021.doi:10.1016/j.ctim.2021.102750
+3.Fournié C, Chouchou F, Dalleau G, et al.Heart rate variability biofeedback in chronic disease management: a systematic review.Complement Ther Med.60:102750, 2021.doi:10.1016/j.ctim.2021.102750
+4.Arns M, Clark CR, Trullinger M, et al.Neurofeedback and attention-deficit/hyperactivity-disorder (ADHD) in children: rating the evidence and proposed guidelines.Appl Psychophysiol Biofeedback45(2):39-48, 2020.doi: 10.1007/s10484-020-09455-2
+4.Arns M, Clark CR, Trullinger M, et al.Neurofeedback and attention-deficit/hyperactivity-disorder (ADHD) in children: rating the evidence and proposed guidelines.Appl Psychophysiol Biofeedback45(2):39-48, 2020.doi: 10.1007/s10484-020-09455-2
+5.Alouini S, Memic S, Couillandre A.Pelvic floor muscle training for urinary incontinence with or without biofeedback or electrostimulation in women: a systematic review.Int J Environ Res Public Health.19(5):2789, 2022.Published 2022 Feb 27.doi:10.3390/ijerph19052789
+5.Alouini S, Memic S, Couillandre A.Pelvic floor muscle training for urinary incontinence with or without biofeedback or electrostimulation in women: a systematic review.Int J Environ Res Public Health.19(5):2789, 2022.Published 2022 Feb 27.doi:10.3390/ijerph19052789

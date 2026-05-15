@@ -1,0 +1,80 @@
+标题：肺朗格汉斯细胞组织细胞增生症
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/interstitial-lung-diseases/pulmonary-langerhans-cell-histiocytosis
+============================================================
+
+（参见间质性肺疾病概述和朗格汉斯细胞组织细胞增生症。）
+肺朗格汉斯细胞组织细胞增生症（PLCH） 是一种体细胞突变的单克隆CD1a阳性朗格汉斯样细胞（一种组织细胞或肺抗原呈递细胞）浸润细支气管和肺泡间质的疾病，常伴有淋巴细胞、浆细胞、中性粒细胞和嗜酸性粒细胞浸润。通常累及肺中叶和上叶。PLCH是朗格汉斯细胞组织细胞增生症的一种表现，它可以单独或同时影响许多器官（特别是肺、皮肤、骨骼、垂体和淋巴结）。PLCH有≥85%的情况是孤立发生的。
+PLCH的病因不明，但该病几乎只发生在20至40岁吸烟的白种人身上 (1)。在其他人群中PLCH极罕见，一项基于人群的研究估计其年患病率为0.1-0.3/10万(2)。男性和女性同样累及。女性发病较迟，但不同性别间发病年龄的不同可能代表了吸烟行为的差异。病理生理学可能涉及香烟烟雾引起肺泡巨噬细胞反应性分泌细胞因子和生长因子，朗格汉斯细胞对这些因子反应而聚集和增生。
+
+【参考文献】
+1.Mason RH, Foley NM, Branley HM, et al.Pulmonary Langerhans cell histiocytosis (PLCH): a new UK register.Thorax2014;69(8):766-767.doi:10.1136/thoraxjnl-2013-204313
+1.Mason RH, Foley NM, Branley HM, et al.Pulmonary Langerhans cell histiocytosis (PLCH): a new UK register.Thorax2014;69(8):766-767.doi:10.1136/thoraxjnl-2013-204313
+2.Watanabe R, Tatsumi K, Hashimoto S, Tamakoshi A, Kuriyama T; Respiratory Failure Research Group of Japan.Clinico-epidemiological features of pulmonary histiocytosis X.Intern Med2001;40(10):998-1003.doi:10.2169/internalmedicine.40.998
+2.Watanabe R, Tatsumi K, Hashimoto S, Tamakoshi A, Kuriyama T; Respiratory Failure Research Group of Japan.Clinico-epidemiological features of pulmonary histiocytosis X.Intern Med2001;40(10):998-1003.doi:10.2169/internalmedicine.40.998
+
+【PLCH的症状和体征】
+肺朗格汉斯细胞组织细胞增生症的典型症状和体征包括呼吸困难、干咳、乏力、发热、体重减轻和胸膜性胸痛。突发、自发性气胸很常见。
+约15%的病人无症状，因其他原因摄胸片时偶然发现该病。
+骨囊肿引起的骨痛（18%）、皮疹（13%）以及精氨酸加压素缺乏导致的多尿（5%）是最常见的肺外表现，见于高达15%的患者，但很少作为PLCH的首发症状。PLCH几乎无体征；体检结果通常正常。疾病进展期的患者（肺一氧化碳弥散量[DLCO]恶化且肺功能检查显示气道阻塞加重）可能出现肺动脉高压。
+
+【PLCH的诊断】
+HRCT
+HRCT
+肺功能检测
+肺功能检测
+有时需要支气管镜检查或肺活检
+有时需要支气管镜检查或肺活检
+根据病史和胸部X光片表现怀疑肺朗格汉斯细胞组织细胞增生症，并通过HRCT以及支气管镜活检和支气管肺泡灌洗来确诊。
+胸片典型表现为中上肺野双侧对称的结节影伴囊样变，肺容量正常或增加。肺底部常不受累。影像表现可能类似慢性阻塞性肺疾病（COPD）或淋巴管平滑肌瘤病。
+HRCT证实中上叶囊肿（常形状奇异）和/或结节伴间质增厚可诊断PLCH。
+通过上肺叶的高分辨率 CT 显示结节和不规则的空气密度囊肿，通常在上肺和中肺区域。这些发现是有吸烟史患者朗格汉斯细胞组织细胞增生症的特征。
+图像由Harold R.Collard, MD提供。
+依病程中行肺功能检查的时机不同，结果可为正常、限制性、阻塞性或混合性。最常见的是，DLCO 降低，运动期间的氧合受损。
+当病史、影像学和其他检查结果无结论时，考虑支气管镜和活检。当进行免疫组化检查时，在支气管肺泡灌洗液中发现>5%的CD1a阳性细胞高度提示本病；通常CD1a、S-100蛋白和CD207（朗格蛋白）染色呈阳性。活检显示朗格汉斯细胞增生，在可能呈星状结构的细胞性和纤维性结节中央，偶有嗜酸性粒细胞聚集（这是过时术语'嗜酸性肉芽肿'的由来）。
+
+【PLCH的治疗】
+必要时需要糖皮质激素及细胞毒性药物或者肺移植
+必要时需要糖皮质激素及细胞毒性药物或者肺移植
+肺朗格汉斯细胞组织细胞增多症的主要治疗是戒烟, 可使高达1/3的病人症状缓解。
+对于严重肺内或肺外受累患者，临床常经验性使用糖皮质激素和细胞毒性药物（如克拉屈滨、阿糖胞苷、长春花碱）（1）；但缺乏大规模临床试验证据。
+其他方面健康而呼吸功能不全不断加重的病人可选择肺移植，但如果病人再吸烟，疾病可在移植肺中复发。
+
+【治疗参考文献】
+1.Elia D, Torre O, Cassandro R, Caminati A, Harari S.Pulmonary Langerhans cell histiocytosis: a comprehensive analysis of 40 patients and literature review.Eur J Intern Med2015;26(5):351-356.doi:10.1016/j.ejim.2015.04.001
+1.Elia D, Torre O, Cassandro R, Caminati A, Harari S.Pulmonary Langerhans cell histiocytosis: a comprehensive analysis of 40 patients and literature review.Eur J Intern Med2015;26(5):351-356.doi:10.1016/j.ejim.2015.04.001
+
+【PLCH的预后】
+某些症状轻微的肺朗格汉斯细胞组织细胞增多症患者可自发缓解。总体而言，10年生存率>90%（1)。进展性疾病的临床标志物包括：
+继续吸烟
+继续吸烟
+年龄极限
+年龄极限
+多器官受累
+多器官受累
+持续的全身症状
+持续的全身症状
+X线胸片见多发囊肿
+X线胸片见多发囊肿
+DLCO下降
+DLCO下降
+一秒用力呼气容积（FEV1）/用力肺活量（FVC）比值降低（<66%）
+一秒用力呼气容积（FEV1）/用力肺活量（FVC）比值降低（<66%）
+高残气量（RV）/总肺活量（TLC）比率（> 33％）
+高残气量（RV）/总肺活量（TLC）比率（> 33％）
+需要长时间使用皮质类固醇
+需要长时间使用皮质类固醇
+死因为呼吸功能不全或恶性肿瘤。肺癌危险度因吸烟而升高。
+
+【预后参考】
+1.Benattia A, Bugnet E, Walter-Petrich A, et al.Long-term outcomes of adult pulmonary Langerhans cell histiocytosis: a prospective cohort.Eur Respir J2022;59(5):2101017.Published 2022 May 26.doi:10.1183/13993003.01017-2021
+1.Benattia A, Bugnet E, Walter-Petrich A, et al.Long-term outcomes of adult pulmonary Langerhans cell histiocytosis: a prospective cohort.Eur Respir J2022;59(5):2101017.Published 2022 May 26.doi:10.1183/13993003.01017-2021
+在肺朗格汉斯细胞组织细胞增生症（PLCH）中，单克隆朗格汉斯细胞在肺泡间质和细支气管中增殖。
+在肺朗格汉斯细胞组织细胞增生症（PLCH）中，单克隆朗格汉斯细胞在肺泡间质和细支气管中增殖。
+20～40岁吸烟患者，其胸部X线片可见中上肺野双侧对称结节性混浊伴囊性改变，可考虑PLCH。
+20～40岁吸烟患者，其胸部X线片可见中上肺野双侧对称结节性混浊伴囊性改变，可考虑PLCH。
+通过高分辨率CT确诊，若结果不明确，则进行肺活检。
+通过高分辨率CT确诊，若结果不明确，则进行肺活检。
+建议戒烟。
+建议戒烟。
+考虑使用糖皮质激素和细胞毒性药物，如果已戒烟但疾病仍然持续，考虑肺移植。
+考虑使用糖皮质激素和细胞毒性药物，如果已戒烟但疾病仍然持续，考虑肺移植。

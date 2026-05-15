@@ -1,0 +1,43 @@
+标题：周围动脉动脉瘤
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/peripheral-artery-disorders/peripheral-artery-aneurysms
+============================================================
+
+(参见动脉瘤。）
+大约 80% 的外周动脉瘤是腘动脉瘤，其余大部分是髂股动脉瘤（1，2）。这些部位的动脉瘤可能伴随腹主动脉瘤，且>50%为双侧。破裂相对少见，但这些动脉瘤可能导致血栓栓塞和急性远端动脉闭塞。外周动脉瘤在男性中的发病率远高于女性（至少为6:1），且患者确诊时的平均年龄在60多岁（3）。供应手臂的动脉中的动脉瘤相对罕见且通常由创伤引起；它们可能导致肢体缺血、远端栓塞，当延伸至主动脉弓时，还可能引发中风。
+感染性（真菌性）动脉瘤可能发生在任何动脉，但最常见在股动脉。通常由沙门菌、葡萄球菌或梅毒螺旋体引起，后者可导致梅毒性动脉瘤。
+外周动脉瘤的常见原因包括：
+动脉粥样硬化
+动脉粥样硬化
+创伤（例如腘动脉卡压）
+创伤（例如腘动脉卡压）
+感染（例如，引起真菌性动脉瘤的脓毒性栓子）
+感染（例如，引起真菌性动脉瘤的脓毒性栓子）
+外周动脉瘤被发现时通常无症状。血栓形成或栓塞（或罕见的动脉瘤破裂）常导致急性肢体缺血，表现为肢体疼痛、发冷、苍白、感觉异常和/或无脉。感染性动脉瘤可能引起局部疼痛、发热、不适和体重减轻。
+诊断靠超声、磁共振血管造影或CT血管造影。当体格检查检出一增大的、搏动性的动脉时可能怀疑腘动脉瘤；可通过影像检查确诊。
+四肢动脉瘤破裂的风险较低，但风险随着直径超过2厘米而增加。对于腿部动脉瘤，手术修补是择期的。建议修复全部有症状的腘动脉瘤，以及直径≥2cm的无症状腘动脉瘤。股动脉瘤在出现症状或直径达正常血管的两倍时应修复（4）。
+某些手臂动脉瘤需要手术修复（5）。受累的动脉段通常予以切除或结扎，并移植血管替代物。上肢动脉瘤外科修复术后总保肢率达94%至98%（6，7）。
+在某些患者中，置入血管内支架移植物是另一种修复选择（8）。
+
+【参考文献】
+1.Dawson J, Fitridge R.Update on aneurysm disease: current insights and controversies: peripheral aneurysms: when to intervene - is rupture really a danger?Prog Cardiovasc Dis2013;56(1):26-35.doi:10.1016/j.pcad.2013.05.002
+1.Dawson J, Fitridge R.Update on aneurysm disease: current insights and controversies: peripheral aneurysms: when to intervene - is rupture really a danger?Prog Cardiovasc Dis2013;56(1):26-35.doi:10.1016/j.pcad.2013.05.002
+2.Diwan A, Sarkar R, Stanley JC, Zelenock GB, Wakefield TW.Incidence of femoral and popliteal artery aneurysms in patients with abdominal aortic aneurysms.J Vasc Surg2000;31(5):863-869.doi:10.1067/mva.2000.105955
+2.Diwan A, Sarkar R, Stanley JC, Zelenock GB, Wakefield TW.Incidence of femoral and popliteal artery aneurysms in patients with abdominal aortic aneurysms.J Vasc Surg2000;31(5):863-869.doi:10.1067/mva.2000.105955
+3.Körfer D, Grond-Ginsbach C, Hakimi M, Böckler D, Erhart P.Arterial Aneurysm Localization Is Sex-Dependent.J Clin Med2022;11(9):2450.doi:10.3390/jcm11092450
+3.Körfer D, Grond-Ginsbach C, Hakimi M, Böckler D, Erhart P.Arterial Aneurysm Localization Is Sex-Dependent.J Clin Med2022;11(9):2450.doi:10.3390/jcm11092450
+4.Anderson JL, Halperin JL, Albert NM, et al.Management of patients with peripheral artery disease (compilation of 2005 and 2011 ACCF/AHA guideline recommendations): a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines.Circulation2013;127(13):1425-1443.doi:10.1161/CIR.0b013e31828b82aa
+4.Anderson JL, Halperin JL, Albert NM, et al.Management of patients with peripheral artery disease (compilation of 2005 and 2011 ACCF/AHA guideline recommendations): a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines.Circulation2013;127(13):1425-1443.doi:10.1161/CIR.0b013e31828b82aa
+5.Zheng A, Sen I, De Martino R, et al.Presentation, treatment, and outcomes of brachial artery aneurysms.J Vasc Surg2025;81(5):1120-1130.doi:10.1016/j.jvs.2025.01.001
+5.Zheng A, Sen I, De Martino R, et al.Presentation, treatment, and outcomes of brachial artery aneurysms.J Vasc Surg2025;81(5):1120-1130.doi:10.1016/j.jvs.2025.01.001
+6.Dragas M, Davidovic L, Kostic D, et al.Upper extremity arterial injuries: factors influencing treatment outcome.Injury2009;40(8):815-819.doi:10.1016/j.injury.2008.08.012
+6.Dragas M, Davidovic L, Kostic D, et al.Upper extremity arterial injuries: factors influencing treatment outcome.Injury2009;40(8):815-819.doi:10.1016/j.injury.2008.08.012
+7.Klocker J, Falkensammer J, Pellegrini L, Biebl M, Tauscher T, Fraedrich G.Repair of arterial injury after blunt trauma in the upper extremity - immediate and long-term outcome.Eur J Vasc Endovasc Surg2010;39(2):160-164.doi:10.1016/j.ejvs.2009.11.019
+7.Klocker J, Falkensammer J, Pellegrini L, Biebl M, Tauscher T, Fraedrich G.Repair of arterial injury after blunt trauma in the upper extremity - immediate and long-term outcome.Eur J Vasc Endovasc Surg2010;39(2):160-164.doi:10.1016/j.ejvs.2009.11.019
+8.Saunders JH, Abisi S, Altaf N, et al.Long-term outcome of endovascular repair of popliteal artery aneurysm presents a credible alternative to open surgery.Cardiovasc Intervent Radiol2014;37(4):914-919.doi:10.1007/s00270-013-0744-6
+8.Saunders JH, Abisi S, Altaf N, et al.Long-term outcome of endovascular repair of popliteal artery aneurysm presents a credible alternative to open surgery.Cardiovasc Intervent Radiol2014;37(4):914-919.doi:10.1007/s00270-013-0744-6
+外周动脉瘤主要发生于男性；最常见的位置是腘动脉。
+外周动脉瘤主要发生于男性；最常见的位置是腘动脉。
+并发症罕见，包括破裂和血栓栓塞。
+并发症罕见，包括破裂和血栓栓塞。
+全部有症状的下肢动脉瘤均需治疗；无症状腘动脉瘤≥2cm时需治疗；部分上肢动脉瘤也需治疗。
+全部有症状的下肢动脉瘤均需治疗；无症状腘动脉瘤≥2cm时需治疗；部分上肢动脉瘤也需治疗。

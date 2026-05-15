@@ -1,0 +1,133 @@
+标题：血栓性疾病的概述
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/thrombotic-disorders/overview-of-thrombotic-disorders
+============================================================
+
+在健康人群中，促凝（凝血）、抗凝和纤溶之间存在内在的平衡。许多遗传性、获得性及环境因素可使平衡向利于凝血的方向倾斜，从而导致静脉（如，深静脉血栓）、动脉（如，心肌梗死、缺血性脑卒中）或心房病理性血栓形成。 血栓可阻塞血栓形成部位的血流，或脱落和堵塞远端血管（如，肺栓塞、栓塞性中风）。
+
+【血栓性疾病的病因】
+基因缺陷可以增加静脉血栓形成的风险，包括：
+因子V Leiden突变导致对活化蛋白C（APC）的抵抗
+因子V Leiden突变导致对活化蛋白C（APC）的抵抗
+凝血酶原20210基因突变
+凝血酶原20210基因突变
+蛋白C缺乏症
+蛋白C缺乏症
+蛋白S缺乏症
+蛋白S缺乏症
+蛋白Z缺乏症
+蛋白Z缺乏症
+抗凝血酶缺乏症
+抗凝血酶缺乏症
+因子VIII、IX和XI水平升高
+因子VIII、IX和XI水平升高
+蛋白质 Z 是一种维生素 K 依赖性蛋白质，有助于抑制凝血Xa因子。蛋白Z的缺乏或功能障碍易诱发静脉血栓形成（主要是在其他凝血异常的患者中)。蛋白Z与血栓形成之间的关联是一个活跃的研究领域。英国生物银行最近的一项基于人群的分析指出，蛋白质Z功能缺失变异与脑卒中之间存在关联（1）。然而，大多数实验室无法测量其活性。
+获得性缺陷也有动脉和静脉血栓形成的倾向（见表血栓栓塞的获得性原因）。
+其他疾病或环境因素可增加血栓形成的风险，特别是存在基因异常时。
+
+【血栓栓塞的获得性因素】
+血栓栓塞的获得性因素
+病人情况
+抗磷脂抗体综合征
+自身免疫性疾病伴静脉或动脉血栓风险增加以及由于抗磷脂抗体的存在而导致的妊娠并发症
+动脉粥样硬化
+动脉血栓形成风险增加
+既往存在血管狭窄患者的风险更高
+当动脉粥样硬化斑块破裂时，可暴露或释放组织因子，激活凝血系统，启动局部血小板的黏附和聚集，形成血栓
+癌症（胰腺、胃、肺、乳腺、前列腺、结肠、早幼粒细胞白血病）
+可通过在膜表面表达和暴露组织因子、分泌X因子激活蛋白酶或两者同时来激活凝血
+肝素诱发的血小板减少症和血栓形成
+与针对肝素-血小板因子4复合物的抗体的产生相关，这类抗体激活血小板、内皮细胞、中性粒细胞和单核细胞，导致消耗性血小板减少症和静脉或动脉血栓形成
+高同型半胱氨酸血症
+可能的原因
+由于叶酸、维生素B12或维生素B6缺乏，或胱硫醚β合成酶（同型胱氨酸尿症）或亚甲基四氢叶酸还原酶基因突变
+严重的感染（如，败血症）
+静脉血栓的风险增加
+单核细胞和巨噬细胞表达/暴露的组织因子增加
+减少活化蛋白C的形成，并通过增加C4B结合蛋白而降低游离蛋白S水平
+Ⅷ因子水平增加
+口服含雌激素的避孕药
+静脉血栓形成的绝对风险较低（3-9/10000），但高于非妊娠期非使用者（1-5/10000）
+存在基因异常、有静脉血栓栓塞形成倾向的患者和吸烟的女性更常见，以及吸烟或年龄≥35 岁的患者
+雌激素增加因子VIII和血管性血友病因子的水平，同时降低游离蛋白S水平，导致促血栓形成表型
+组织损伤
+由于外伤或手术
+静脉淤滞
+由于手术、骨科或麻痹性固定、心力衰竭、怀孕、卧床休息、旅行或肥胖
+
+【参考文献】
+1.Haj AK, Ryu J, Jurgens SJ, et al.Loss of function in protein Z (PROZ) is associated with increased risk of ischemic stroke in the UK Biobank.J Thromb Haemost.2025;23(1):171-180.doi:10.1016/j.jtha.2024.09.016
+1.Haj AK, Ryu J, Jurgens SJ, et al.Loss of function in protein Z (PROZ) is associated with increased risk of ischemic stroke in the UK Biobank.J Thromb Haemost.2025;23(1):171-180.doi:10.1016/j.jtha.2024.09.016
+
+【血栓性疾病的症状和体征】
+血栓性疾病的常见表现包括原因不明的深静脉血栓（DVT）或肺动脉栓塞（PE）。也可形成血栓性浅静脉炎。 其他后果可能包括动脉血栓形成（如，导致中风或肠系膜缺血）。症状取决于血凝块的部位，如以下例子：
+胸痛和呼吸急促：可能是肺动脉栓塞或心肌梗塞
+胸痛和呼吸急促：可能是肺动脉栓塞或心肌梗塞
+腿部疼痛、发热、发红、肿胀:深静脉血栓形成
+腿部疼痛、发热、发红、肿胀:深静脉血栓形成
+身体一侧无力/麻木、说话异常、平衡和行走异常：可能是缺血性卒中
+身体一侧无力/麻木、说话异常、平衡和行走异常：可能是缺血性卒中
+腹痛：可能是内脏动脉或静脉血栓形成
+腹痛：可能是内脏动脉或静脉血栓形成
+大多数遗传性疾病直到年轻成年人才开始造成凝血风险增加，尽管血凝块可在任何年龄阶段形成。妇女可有多发自然流产史。
+
+【血栓性疾病的诊断】
+导致深静脉血栓形成、肺栓塞和缺血性卒中的血栓事件的诊断评估将单独讨论。在没有明显临床解释的情况下发生血栓栓塞事件的患者可能具有下述遗传或获得性易感因素之一。征集血液学家的意见以缩小诊断可能性通常很有价值。
+
+【诱发因素】
+应考虑诱发因素。在一些患者中，某些情况在临床上比较常见（如，近期手术或外伤、长时间血流不畅、肿瘤、感染、内科疾病、动脉粥样硬化）。如果没有明显的诱发因素，需要对患者进行进一步评估：
+静脉血栓形成家族史（50岁以前有静脉血栓栓塞症的一级亲属）
+静脉血栓形成家族史（50岁以前有静脉血栓栓塞症的一级亲属）
+一次及以上的静脉血栓形成史
+一次及以上的静脉血栓形成史
+50岁以前即有静脉或动脉血栓形成
+50岁以前即有静脉或动脉血栓形成
+静脉血栓形成的异常部位(如海绵窦、内脏静脉)
+静脉血栓形成的异常部位(如海绵窦、内脏静脉)
+半数以上的自发深静脉血栓形成的患者有遗传倾向。然而，在许多这样的情况下，遗传性血栓形成状态的识别并不影响治疗。因此，学会指南建议对遗传性血栓形成倾向高危患者进行有针对性的检测，其中检测结果可能影响治疗（1, 2）。
+对先天性和后天性易感因素的检查包括血浆中自然抗凝血分子活性和数量的特殊检查，以及特定基因缺陷的筛查，如：
+对狼疮抗凝物的凝血检查
+对狼疮抗凝物的凝血检查
+对活化的蛋白C发生抵抗的凝血检查
+对活化的蛋白C发生抵抗的凝血检查
+因子V Leiden的基因检测
+因子V Leiden的基因检测
+凝血酶原基因突变的基因检测（G20210A）
+凝血酶原基因突变的基因检测（G20210A）
+因子 VIII、IX 和 XI 活性
+因子 VIII、IX 和 XI 活性
+抗凝血酶的功能分析
+抗凝血酶的功能分析
+蛋白C的功能分析
+蛋白C的功能分析
+蛋白S的功能分析
+蛋白S的功能分析
+总蛋白S和游离蛋白S的抗原测定
+总蛋白S和游离蛋白S的抗原测定
+血浆同型半胱氨酸水平的测定
+血浆同型半胱氨酸水平的测定
+抗磷脂抗体的免疫检查
+抗磷脂抗体的免疫检查
+
+【诊断参考】
+1.Venous thromboembolic diseases: diagnosis, management and thrombophilia testing. London: National Institute for Health and Care Excellence (NICE); August 2, 2023.
+1.Venous thromboembolic diseases: diagnosis, management and thrombophilia testing. London: National Institute for Health and Care Excellence (NICE); August 2, 2023.
+2.Middeldorp S, Nieuwlaat R, Baumann Kreuziger L, et al.American Society of Hematology 2023 guidelines for management of venous thromboembolism: thrombophilia testing.Blood Adv.2023;7(22):7101-7138.doi:10.1182/bloodadvances.2023010177
+2.Middeldorp S, Nieuwlaat R, Baumann Kreuziger L, et al.American Society of Hematology 2023 guidelines for management of venous thromboembolism: thrombophilia testing.Blood Adv.2023;7(22):7101-7138.doi:10.1182/bloodadvances.2023010177
+
+【血栓性疾病的治疗】
+导致深静脉血栓、肺栓塞和缺血性卒中的血栓性事件的治疗方法将分别详细讨论。
+通常需要抗凝治疗。对于需要住院的患者，抗凝治疗通常从普通肝素或低分子肝素开始(1, 2）。对于可以门诊治疗的患者，使用直接口服抗凝剂（DOAC）或华法林（1, 2, 3）。
+这类药物包括凝血因子Xa抑制剂（利伐沙班，阿哌沙班、依多沙班）和直接凝血酶抑制剂（达比加群）。与华法林不同，DOAC 不需要定期实验室监测，其中一些药物（阿哌沙班,利伐沙班）可用于急性治疗，无需初始肠外抗凝。与华法林相比，DOAC 的药物间相互作用较少，其有效性不受饮食影响。
+在出现危及生命的出血情况下，针对新型口服抗凝药（DOACs）的逆转剂包括特异性拮抗剂（例如，用于达比加群的依达赛珠单抗；用于Xa因子抑制剂的安德克赛纳），以及非特异性的促止血药物，如含有VII、IX、X因子和凝血酶原的凝血酶原复合物浓缩剂（1, 4, 5）。维生素 K 和凝血酶原复合物浓缩物可逆转华法林的作用。
+
+【治疗参考文献】
+1.Stevens SM, Woller SC, Kreuziger LB, et al.Antithrombotic Therapy for VTE Disease: Second Update of the CHEST Guideline and Expert Panel Report [published correction appears inChest.2022 Jul;162(1):269].Chest2021;160(6):e545-e608.doi:10.1016/j.chest.2021.07.055
+1.Stevens SM, Woller SC, Kreuziger LB, et al.Antithrombotic Therapy for VTE Disease: Second Update of the CHEST Guideline and Expert Panel Report [published correction appears inChest.2022 Jul;162(1):269].Chest2021;160(6):e545-e608.doi:10.1016/j.chest.2021.07.055
+2.Ortel TL, Neumann I, Ageno W, et al.American Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolism.Blood Adv.2020;4(19):4693-4738.doi:10.1182/bloodadvances.2020001830
+2.Ortel TL, Neumann I, Ageno W, et al.American Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolism.Blood Adv.2020;4(19):4693-4738.doi:10.1182/bloodadvances.2020001830
+3.Venous thromboembolic diseases: diagnosis, management and thrombophilia testing. London: National Institute for Health and Care Excellence (NICE); August 2, 2023.
+3.Venous thromboembolic diseases: diagnosis, management and thrombophilia testing. London: National Institute for Health and Care Excellence (NICE); August 2, 2023.
+4.Cuker A, Burnett A, Triller D, et al.Reversal of direct oral anticoagulants: Guidance from the Anticoagulation Forum.Am J Hematol.94:697–709, 2019.doi:10.1002/ajh.25475
+4.Cuker A, Burnett A, Triller D, et al.Reversal of direct oral anticoagulants: Guidance from the Anticoagulation Forum.Am J Hematol.94:697–709, 2019.doi:10.1002/ajh.25475
+5.Frontera JA, Lewin JJ 3rd, Rabinstein AA, et al.Guideline for Reversal of Antithrombotics in Intracranial Hemorrhage: A Statement for Healthcare Professionals from the Neurocritical Care Society and Society of Critical Care Medicine.Neurocrit Care.2016;24(1):6-46.doi:10.1007/s12028-015-0222-x
+5.Frontera JA, Lewin JJ 3rd, Rabinstein AA, et al.Guideline for Reversal of Antithrombotics in Intracranial Hemorrhage: A Statement for Healthcare Professionals from the Neurocritical Care Society and Society of Critical Care Medicine.Neurocrit Care.2016;24(1):6-46.doi:10.1007/s12028-015-0222-x

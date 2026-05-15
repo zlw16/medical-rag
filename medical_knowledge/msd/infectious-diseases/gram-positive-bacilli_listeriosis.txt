@@ -1,0 +1,98 @@
+标题：李斯特菌病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-positive-bacilli/listeriosis
+============================================================
+
+（参见新生儿李斯特菌病.)
+李斯特菌是具有特征性翻滚运动能力的小型、非抗酸、无荚膜、不形成孢子、β-溶血性、需氧和兼性厌氧革兰氏阳性杆菌。世界各地均有发现，广泛存在于自然环境中及人类、非人类哺乳动物、鸟类和甲壳类动物的肠内。利斯特菌Listeria有几种亚种，但只有单核细胞增多性利斯特菌L. monocytogenes是导致人类致病的主要病原体。
+单核细胞增生李斯特菌是食源性疾病的罕见病因，但与高病死率相关。在美国，每年大约有1600例李斯特菌病病例，大约六分之一的老年人因此死亡（1）。2020年至2022年报告病例数有所减少（约800至1000例），这可能与SARS-CoV-2大流行导致的诊断减少及后续漏报有关（2）。感染通常在夏季达到高峰。新生儿、≥65 岁的成年人以及免疫功能低下的患者（包括晚期 HIV 感染患者）的发病率最高。李斯特菌病在孕妇中更为常见，尤其是西班牙裔孕妇，其发病率远高于普通人群（1）。
+李斯特菌感染在美国是一种全国性法定报告疾病（3）。鉴于其爆发潜力，美国疾病控制与预防中心（CDC）通过国家疫情报告系统（NORS）定期更新李斯特菌感染数据，该系统与州、地方及领地公共卫生机构协同支持疫情报告工作。
+单核细胞增多性利斯特菌L. monocytogenes在环境中普遍存在，食物加工过程中受到该菌污染的机会较多。几乎所有类型的食物都可能藏匿和传播单核细胞增生李斯特菌，但感染通常是通过摄入受污染的乳制品（例如奶酪）、生蔬菜、肉类（例如熟食店的肉片）或特别是无需烹饪即可食用的冷藏食品而发生。L. monocytogenes在冰箱温度下生存和生长，这有助于污染。详情请参见预防部分。
+通过直接接触或屠宰感染动物也可引起感染。
+
+【经验与提示】
+经验与提示
+Listeria monocytogenes单核细胞增多性李斯特菌可在冰箱温度下繁殖，因此轻度污染的冷藏食品可能变得严重污染。
+Listeria monocytogenes单核细胞增多性李斯特菌可在冰箱温度下繁殖，因此轻度污染的冷藏食品可能变得严重污染。
+
+【危险因素】
+单核细胞增多性利斯特菌L. monocytogenes属胞内繁殖菌，故抑制该菌需要细胞介导的免疫；因此，以下为感染高危人群：
+免疫缺陷患者
+免疫缺陷患者
+>65岁的成人
+>65岁的成人
+怀孕患者
+怀孕患者
+在孕妇中，李斯特菌感染通常是轻微的。然而，感染可以在产前和产时通过母婴传播，并可能导致流产、死产、早产或婴儿过早死亡。
+Listeria可能导致新生儿危及生命的感染(见新生儿李斯特菌病)，包括菌血症和肺炎，并且是新生儿细菌性脑膜炎的一个常见的原因。
+
+【参考文献】
+1.Centers for Disease Control and Prevention: People at Increased Risk ofListeriaInfection.August 12, 2024.Accessed July 17, 2025.
+1.Centers for Disease Control and Prevention: People at Increased Risk ofListeriaInfection.August 12, 2024.Accessed July 17, 2025.
+2.Centers for Disease Control and Prevention.National Notifiable Diseases Surveillance System, Annual Notifiable Infectious Disease Data Tables.May 27, 2025.Accessed July 17, 2025.
+2.Centers for Disease Control and Prevention.National Notifiable Diseases Surveillance System, Annual Notifiable Infectious Disease Data Tables.May 27, 2025.Accessed July 17, 2025.
+3.Centers for Disease Control and Prevention:ListeriaInfection (Listeriosis): About TheListeriaInitiative.February 3, 2025.Accessed July 17, 2025.
+3.Centers for Disease Control and Prevention:ListeriaInfection (Listeriosis): About TheListeriaInitiative.February 3, 2025.Accessed July 17, 2025.
+
+【李斯特菌病的症状和体征】
+原发性李斯特菌菌血症罕见，可引起高热但无局部症状和体征。侵袭性疾病的症状通常在食用受李斯特菌污染的食物平均5天（范围为0至29天）后开始出现（1，2）。组织病灶的播散可能导致心内膜炎、腹膜炎、骨髓炎、化脓性关节炎、胆囊炎、肝炎以及胸膜肺炎。摄入受污染食物后可能发生发热性胃肠炎；胃肠炎的潜伏期明显较短，肠道疾病症状通常在食用被李斯特菌污染的食物24小时内出现，通常持续1至3天（3）。利斯特菌血症可能引起宫内感染、绒膜羊膜炎、早产、死胎或新生儿感染。
+因Meningitis（李斯特菌）引起的脑膜炎病例在过去几十年有所下降，这主要得益于食品安全措施的改进。目前占全球病例的20%至30%，具体比例因地区而异（美国为2%至8%），死亡率为15%至29%（4）。发病率在新生儿中最高。在60岁以上患者、酒精使用障碍患者、服用免疫抑制剂（如糖皮质激素）的患者，以及有其他易感状况（如恶性肿瘤、糖尿病、妊娠、肝肾疾病）的患者中，发病率也很高。相当比例的患者会进展为脑炎，可表现为弥漫性脑炎，或罕见地表现为菱形脑炎及脑脓肿；菱形脑炎的临床特征包括意识状态改变、脑神经麻痹、小脑体征（如共济失调和震颤）以及运动或感觉功能丧失。
+眼腺李斯特菌病是眼炎和局部淋巴结肿大的罕见病因（即帕里诺综合征）。接着可以感染结膜，若不治疗可发展为菌血症和脑膜炎。
+
+【症状和体征参考】
+1.Centers for Disease Control and Prevention:ListeriaInfection (Listeriosis): Symptoms ofListeriaInfection.February 3, 2025.Accessed July 17, 2025
+1.Centers for Disease Control and Prevention:ListeriaInfection (Listeriosis): Symptoms ofListeriaInfection.February 3, 2025.Accessed July 17, 2025
+2.Angelo KM, Jackson KA, Wong KK, et al.Assessment of the incubation period for invasive listeriosis.Clin Infect Dis.2016;63:1487–1489.doi:10.1093/cid/ciw569
+2.Angelo KM, Jackson KA, Wong KK, et al.Assessment of the incubation period for invasive listeriosis.Clin Infect Dis.2016;63:1487–1489.doi:10.1093/cid/ciw569
+3.Goulet V, King LA, Vaillant V, et al.What is the incubation period for listeriosis?BMC Infect Dis.2013;13:11.doi:10.1186/1471-2334-13-11
+3.Goulet V, King LA, Vaillant V, et al.What is the incubation period for listeriosis?BMC Infect Dis.2013;13:11.doi:10.1186/1471-2334-13-11
+4.Thigpen MC, Whitney CG, Messonnier NE, et al.Bacterial meningitis in the United States, 1998-2007.N Engl J Med.2011;364:2016–2025.doi:10.1056/NEJMoa1005384
+4.Thigpen MC, Whitney CG, Messonnier NE, et al.Bacterial meningitis in the United States, 1998-2007.N Engl J Med.2011;364:2016–2025.doi:10.1056/NEJMoa1005384
+
+【李斯特菌病的诊断】
+细菌培养
+细菌培养
+基于聚合酶链反应的检测
+基于聚合酶链反应的检测
+利斯特菌菌血症或脑膜炎通过血液或脑脊液培养进行诊断。当怀疑单核细胞增生李斯特菌感染时，必须告知实验室，因为该菌极易与棒状杆菌（白喉样杆菌）混淆。粪便培养通常不用于诊断胃肠道感染。
+基于多重PCR的血液和脑脊液检测能提供更快速的结果，并与培养物的细菌鉴定结果高度一致（1）。
+在所有李斯特菌感染中，IgG凝集素滴度在发病后2～4周达到峰值，但在临床决策中的实用性有限。
+
+【诊断参考文献】
+1.Wagner K, Springer B, Pires VP, Keller PM.Pathogen Identification by Multiplex LightMix Real-Time PCR Assay in Patients with Meningitis and Culture-Negative Cerebrospinal Fluid Specimens.J Clin Microbiol.2018;56(2):e01492-17.Published 2018 Jan 24.doi:10.1128/JCM.01492-17
+1.Wagner K, Springer B, Pires VP, Keller PM.Pathogen Identification by Multiplex LightMix Real-Time PCR Assay in Patients with Meningitis and Culture-Negative Cerebrospinal Fluid Specimens.J Clin Microbiol.2018;56(2):e01492-17.Published 2018 Jan 24.doi:10.1128/JCM.01492-17
+
+【李斯特菌病的治疗】
+氨苄西林、阿莫西林或青霉素G，可能需联合一种氨基糖苷类药物
+氨苄西林、阿莫西林或青霉素G，可能需联合一种氨基糖苷类药物
+有时使用甲氧苄啶/磺胺甲恶唑、氟喹诺酮类、利奈唑胺、美罗培南或利福平
+有时使用甲氧苄啶/磺胺甲恶唑、氟喹诺酮类、利奈唑胺、美罗培南或利福平
+非侵袭性李斯特菌病表现为轻度发热性疾病或胃肠炎，在免疫功能正常的个体中具有自限性，通常不需要抗生素治疗。然而，对于易感患者，应及时开始治疗。在妊娠患者中，应立即开始静脉注射 (IV) 氨苄西林或阿莫西林抗生素治疗，并且应至少提供2周的抗菌治疗以防止胎儿受到伤害 (1)。对于免疫功能低下的患者或60岁以上孤立性发热性胃肠炎的成年人，建议口服阿莫西林或磺胺甲恶唑/甲氧苄啶。治疗延误与不良临床结果甚至死亡有关(2)。
+李斯特菌性脑膜炎的标准治疗方案通常为静脉输注氨苄西林，疗程至少21天。基于体外协同作用数据，对于重症病例常给予氨基糖苷类联合治疗，尽管缺乏临床试验数据支持。庆大霉素通常作为第二选择药物，推荐用于新生儿脑膜炎的初始治疗以及非妊娠期侵袭性疾病患者。磺胺甲噁唑/甲氧苄啶、氟喹诺酮类、利奈唑胺、美罗培南和利福平也已被用作二线药物。头孢菌素类药物无效，因为它们缺乏体外活性，不应使用； 已有使用万古霉素治疗失败的报道。
+新生儿脑膜炎的治疗，见针对特定病原体的抗生素治疗。
+心内膜炎及其他深部严重感染通常每4小时静脉注射氨苄西林一次，并联合庆大霉素（起协同作用）治疗6周。原发性李斯特菌菌血症通常的治疗时间为退热后1或2周（针对菌血症），且通常不需要联合治疗。
+眼腺李斯特菌病及其他侵袭性较低的局部感染通常采用口服氨苄西林或阿莫西林治疗，且应该对较短疗程有效。
+
+【治疗参考文献】
+1.Khsim IEF, Mohanaraj-Anton A, Horte IB, et al.Listeriosis in pregnancy: An umbrella review of maternal exposure, treatment and neonatal complications.BJOG.2022;129(9):1427-1433.doi:10.1111/1471-0528.17073
+1.Khsim IEF, Mohanaraj-Anton A, Horte IB, et al.Listeriosis in pregnancy: An umbrella review of maternal exposure, treatment and neonatal complications.BJOG.2022;129(9):1427-1433.doi:10.1111/1471-0528.17073
+2.Arslan F, Meynet E, Sunbul M, et al.The clinical features, diagnosis, treatment, and prognosis of neuroinvasive listeriosis: a multinational study.Eur J Clin Microbiol Infect Dis.2015;34(6):1213-1221.doi:10.1007/s10096-015-2346-5
+2.Arslan F, Meynet E, Sunbul M, et al.The clinical features, diagnosis, treatment, and prognosis of neuroinvasive listeriosis: a multinational study.Eur J Clin Microbiol Infect Dis.2015;34(6):1213-1221.doi:10.1007/s10096-015-2346-5
+
+【预防李斯特菌病】
+由于食品污染很普遍，以及L. monocytogenes（单核细胞增生李斯特菌）可在冰箱温度下繁殖，轻度污染的食物在冷藏过程中会变为重度污染。 如果食物没有经过进一步烹饪（例如冷藏的即食食品），那么这个问题就很值得关注了。因此，良好的食品卫生非常重要，特别是对于高危人群（例如免疫功能低下患者、孕妇、65岁及以上的成年人）。高风险人群应避免食用以下食物：
+用未经巴氏消毒的牛奶制成的软奶酪（例如，羊乳酪、布里奶酪、卡门贝奶酪、新鲜奶酪、白奶酪）；生（未经巴氏消毒的）牛奶和奶制品，尽管李斯特菌污染即使在巴氏灭菌后也可能发生
+用未经巴氏消毒的牛奶制成的软奶酪（例如，羊乳酪、布里奶酪、卡门贝奶酪、新鲜奶酪、白奶酪）；生（未经巴氏消毒的）牛奶和奶制品，尽管李斯特菌污染即使在巴氏灭菌后也可能发生
+冷藏即食食品（如热狗，熟肉制品，肉酱，肉类涂抹酱），吃之前要加热到内部温度达73.9°C（165°F）或者直到热气腾腾
+冷藏即食食品（如热狗，熟肉制品，肉酱，肉类涂抹酱），吃之前要加热到内部温度达73.9°C（165°F）或者直到热气腾腾
+冷藏熏制海鲜（例如，新式熏鲑鱼，熏鲑鱼，腌熏鲑鱼，烟熏海鲜，肉干），除非已经烹熟
+冷藏熏制海鲜（例如，新式熏鲑鱼，熏鲑鱼，腌熏鲑鱼，烟熏海鲜，肉干），除非已经烹熟
+L. monocytogenes（单核细胞增生李斯特菌）在环境中很常见，但每年仅导致大约1600人感染，通常是因为食用被污染的食品。
+L. monocytogenes（单核细胞增生李斯特菌）在环境中很常见，但每年仅导致大约1600人感染，通常是因为食用被污染的食品。
+新生儿、成年人（≥65岁）、孕妇及免疫功能低下的患者发病率最高。
+新生儿、成年人（≥65岁）、孕妇及免疫功能低下的患者发病率最高。
+各器官系统可能都会受到影响;产妇在怀孕期间感染可能导致胎儿死亡。
+各器官系统可能都会受到影响;产妇在怀孕期间感染可能导致胎儿死亡。
+给予氨苄西林或阿莫西林，有时与庆大霉素联用。
+给予氨苄西林或阿莫西林，有时与庆大霉素联用。
+应建议高危人群通过避免食用最可能被污染的食物来预防疾病。
+应建议高危人群通过避免食用最可能被污染的食物来预防疾病。

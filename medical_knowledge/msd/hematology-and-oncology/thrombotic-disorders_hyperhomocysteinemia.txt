@@ -1,0 +1,30 @@
+标题：高同型半胱氨酸血症
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/thrombotic-disorders/hyperhomocysteinemia
+============================================================
+
+(参见于血栓性疾病的概述。）
+高同型半胱氨酸血症可能通过损伤血管内皮细胞，从而诱发动脉血栓和静脉血栓形成 (1)，可能是由于自由基产生增加。然而，一些研究发现，当充分考虑混杂变量时，这种关联并不显著（2）。维生素补充剂治疗VTE和心脏病患者（3）及无主要危险因素的VTE患者的随机试验（4）与事件发生率的降低无关。因此，不鼓励对静脉和动脉血栓栓塞患者常规测量同型半胱氨酸水平。
+在纯合的胱硫醚beta-合成酶缺乏的患者中，血浆半胱氨酸水平可升高≥10倍。在杂合子缺陷及其它叶酸代谢异常，包括甲基四氢叶酸脱氢酶缺乏的患者中，其可有轻度增高。高半胱氨酸血症最常见的原因是获得性的：
+叶酸缺乏
+叶酸缺乏
+维生素B6（吡哆醇）缺乏
+维生素B6（吡哆醇）缺乏
+维生素B12缺乏
+维生素B12缺乏
+叶酸缺乏在小麦粉中添加叶酸的情况下很少见。
+这种异常是通过测量怀疑患有心血管疾病或血栓栓塞的患者的空腹血浆同型半胱氨酸水平来确定的。
+
+【参考文献】
+1.Undas A, Brozek J, Szczeklik A.Homocysteine and thrombosis: from basic science to clinical evidence.Thromb Haemost.2005;94(5):907-915.doi:10.1160/TH05-05-0313
+1.Undas A, Brozek J, Szczeklik A.Homocysteine and thrombosis: from basic science to clinical evidence.Thromb Haemost.2005;94(5):907-915.doi:10.1160/TH05-05-0313
+2.Ospina-Romero M, Cannegieter SC, den Heijer M, Doggen CJM, Rosendaal FR, Lijfering WM.Hyperhomocysteinemia and Risk of First Venous Thrombosis: The Influence of (Unmeasured) Confounding Factors.Am J Epidemiol.2018;187(7):1392-1400.doi:10.1093/aje/kwy004
+2.Ospina-Romero M, Cannegieter SC, den Heijer M, Doggen CJM, Rosendaal FR, Lijfering WM.Hyperhomocysteinemia and Risk of First Venous Thrombosis: The Influence of (Unmeasured) Confounding Factors.Am J Epidemiol.2018;187(7):1392-1400.doi:10.1093/aje/kwy004
+3.Ray JG, Kearon C, Yi Q, Sheridan P, Lonn E.Heart Outcomes Prevention Evaluation 2 (HOPE-2) Investigators.Homocysteine-lowering therapy and risk for venous thromboembolism: a randomized trial.Ann Intern Med.2007;146(11):761-767.doi:10.7326/0003-4819-146-11-200706050-00157
+3.Ray JG, Kearon C, Yi Q, Sheridan P, Lonn E.Heart Outcomes Prevention Evaluation 2 (HOPE-2) Investigators.Homocysteine-lowering therapy and risk for venous thromboembolism: a randomized trial.Ann Intern Med.2007;146(11):761-767.doi:10.7326/0003-4819-146-11-200706050-00157
+4.den Heijer M, Willems HP, Blom HJ, et al.Homocysteine lowering by B vitamins and the secondary prevention of deep vein thrombosis and pulmonary embolism: A randomized, placebo-controlled, double-blind trial.Blood.2007;109(1):139-144.doi:10.1182/blood-2006-04-014654
+4.den Heijer M, Willems HP, Blom HJ, et al.Homocysteine lowering by B vitamins and the secondary prevention of deep vein thrombosis and pulmonary embolism: A randomized, placebo-controlled, double-blind trial.Blood.2007;109(1):139-144.doi:10.1182/blood-2006-04-014654
+
+【高同型半胱氨酸血症的治疗】
+膳食补充
+膳食补充
+通过膳食单独补充叶酸、维生素B12或B6或同时补充可使血浆半胱氨酸水平恢复正常；然而，该治疗方法未显示出可以降低动脉或静脉血栓形成的风险。

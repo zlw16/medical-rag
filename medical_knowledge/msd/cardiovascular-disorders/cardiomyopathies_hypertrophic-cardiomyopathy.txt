@@ -1,0 +1,134 @@
+标题：肥厚性心肌病
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/cardiomyopathies/hypertrophic-cardiomyopathy
+============================================================
+
+心肌病是原发的心脏肌肉的病变（心肌病概述）。
+肥厚性心肌病（hypertrophic cardiomyopathy，HCM）是年轻运动员猝死的常见原因。它可能引起不明原因的晕厥，而直到尸体解剖时才得出诊断。
+
+【肥厚型心肌病的病因】
+大多数肥厚性心肌病是遗传性的。已经确定至少有1,500种不同的基因突变为常染色体显性遗传，自发突变也可能发生。发病率为1:200至1:500（1）；表型表达差异很大。
+获得性肥厚性心肌病很少发生。它可能发生在肢端肥大症、嗜铬细胞瘤或神经纤维瘤病的患者中。
+
+【病因参考文献】
+1.Maron BJ, Desai MY, Nishimura RA, et al.Diagnosis and Evaluation of Hypertrophic Cardiomyopathy: JACC State-of-the-Art Review.J Am Coll Cardiol2022;79(4):372-389.doi:10.1016/j.jacc.2021.12.002
+1.Maron BJ, Desai MY, Nishimura RA, et al.Diagnosis and Evaluation of Hypertrophic Cardiomyopathy: JACC State-of-the-Art Review.J Am Coll Cardiol2022;79(4):372-389.doi:10.1016/j.jacc.2021.12.002
+
+【肥厚型心肌病的病理生理】
+心肌异常表现为心肌细胞和肌纤维排列紊乱，但这一表现并非肥厚性心肌病所特有的。
+在最常见的表型中，主动脉瓣下方的室间隔前部及相邻前游离壁明显肥厚和增厚，而左室（LV）后壁很少或没有肥厚。 有时发生孤立性心尖肥厚；但实际上任何形式的左心室不对称性肥大都可以观察到，少数患者甚至出现了对称性肥厚。
+大约三分之二的患者在休息或运动时出现生理性阻塞。 阻塞是因二尖瓣收缩期前向运动（SAM）使收缩期LV流出道产生机械阻抗。在此过程（SAM）中，二尖瓣和瓣膜装置被高速血流的文丘里效应吸入LV流出道，导致血流阻塞和心输出量下降。 二尖瓣SAM使瓣小叶运动畸变，也可能导致二尖瓣反流。 这种阻塞和瓣膜返流致使与心力衰竭相关的症状进展加重。少见情况下，心室中部肥厚导致乳头肌水平的腔内压差，极少引起左室壁应力增加和左室心尖部动脉瘤风险增高。
+肥厚型心肌病患者的心肌收缩力多正常，从而使射血分数也正常。其后，由于心室容量减小，为了维持心排血量，心室几乎完全排空，射血分数则增加。
+心肌肥厚导致心室腔僵硬，无顺应性（通常是左心室），抵抗舒张期充盈，使舒张末期压力升高，从而增加肺静脉压力。由于灌注阻力增加，心排血量降低，任何流出道压力阶差的出现均会使病情恶化。由于心动过速时，心室充盈时间减少，所以在运动时或是快速性心律失常时更易出现临床症状。(参见射血分数保留型心力衰竭。)
+在无心外膜冠状动脉疾病（CAD）的情况下，冠状动脉血流可能受损，导致心绞痛、晕厥或心律失常。因为毛细血管密度相对于心肌细胞大小来说不够充足（毛细血管/心肌细胞失衡），或由于内膜及中膜增生肥大导致心肌内冠状动脉管腔直径狭窄，所以血流可能受损。 由于肥厚和不利负荷条件导致氧气需求增加，也可能出现供需失衡。
+在有些病例中，心肌细胞逐渐地死亡，可能是由于毛细血管/心肌细胞失衡导致慢性弥漫性的缺血所致。当心肌细胞死亡后被弥漫性纤维化所代替。 随后，舒张期功能障碍的肥厚心室逐渐扩张，出现收缩功能障碍。
+
+【肥厚型心肌病的症状和体征】
+通常症状出现在20～40岁之间，呈劳力性，但症状差异可能很大。 包括胸痛（通常类似于典型的心绞痛），呼吸困难，心悸和晕厥。由于收缩功能得以保留，患者很少主诉疲劳感。 大多数症状是由舒张功能异常引起的。 对于流出道梗阻患者，由梗阻引起的症状与由舒张功能异常引起的症状很难区分。
+劳力活动中可能发生晕厥，这可能是由于流出道梗阻随收缩力增强而加重，也可能是由于室性或房性心律失常所致。晕厥是猝死风险增加的标志
+血压和心率通常正常，很少有静脉压升高的表现。当流出道梗阻时，颈动脉搏动波有个快速的上升支，双峰和快速的下降支。由于左室肥厚，心尖部可有持续性抬举样搏动。在左室舒张晚期，心房为克服心室顺应性降低而强力收缩，常可闻及S4。
+在阻塞性肥厚性心肌病患者，可以听到收缩期喷射型杂音，不向颈部传导。 这种杂音在胸骨左缘第三、四肋间听得最清楚。心尖部可闻及由于二尖瓣结构扭曲产生的反流性杂音。肥厚型心肌病的左室流出道喷射性杂音可通过瓦尔萨尔瓦动作（减少静脉回心血量和左室舒张期容积），降低主动脉压的措施（如使用硝酸甘油）或者期外收缩后收缩（增加流出道压差）来增强。握拳可增加主动脉压力从而降低杂音的强度。
+
+【肥厚型心肌病的诊断】
+临床疑诊（晕厥、其他症状或心脏杂音）
+临床疑诊（晕厥、其他症状或心脏杂音）
+超声心动图和/或MRI检查
+超声心动图和/或MRI检查
+根据典型的杂音及症状，应怀疑此诊断。如果患者有不明原因晕厥或不明原因猝死的家族史，更应怀疑。对于年轻运动员不能解释的晕厥应该提高警惕。肥厚性心肌病必须与可引起相似症状的主动脉狭窄和冠状动脉疾病相鉴别。不太常见的浸润性心脏病如安德森-法布里病和淀粉样心脏病可能与肥厚型心肌病的表现相似。
+须行心电图和二维超声心动图检查和/或MRI（最好的非创伤性确诊检查）。通常进行胸部X线检查但结果通常正常，因为心室并没有扩张（虽然左心房可能增大）。虽然对于识别高危病人较为困难，但运动试验和24小时动态心电图监测对此可能有些帮助。有晕厥或者持续性心律失常的病人应入院进行评估。
+心脏MRI显示肥厚型心肌病的心尖肥大变异（箭头）。
+© 2017 Elliot K.Fishman, MD.
+心电图常表现符合左心室肥厚电压标准（如V1导联S波+V5或V6导联R波>35mm）。 I、aVL、V5、V6导联常有很深的间隔性Q波，通常存在非对称性室间隔肥大；有时肥厚型心肌病V1和V2导联的QRS波群类似于陈旧性间隔部心梗的表现。T波常为异常；最常见的改变是在I，aVL，V5和V6导联深的对称性T波倒置。在相同导联常见ST段压低。P波常在II，III和avF导联增宽和有切迹，并在V1，V2导联呈双相，表明存在左心房肥厚。可引起心悸的预激综合征的预激现象发生率增加。束支传导阻滞常见。
+二维多普勒超声心动图可鉴别不同类型的心肌病（见图心肌病的类型），并可以量化肥厚程度和流出道梗阻的程度。这些测量对于监测药物或是外科治疗的效果尤为有用。当流出道梗阻严重时可发生收缩中期主动脉瓣关闭。建议在初始评估期间和每1至3年进行一次24小时动态监测，以评估心脏性猝死的风险并帮助指导心律失常的治疗 (1)。
+心导管检查通常仅考虑行介入性治疗时进行。通常情况下冠状动脉没有严重的狭窄，但老年患者也可能合并冠心病。
+该超声心动图显示肥厚型心肌病患者的左心室室间隔 (VS) 和后壁 (PW) 严重增厚。
+© Springer Science+Business Media
+基因标记不能识别高风险个体或影响治疗。 但基因检测对家庭成员的筛查有帮助。
+
+【诊断参考文献】
+1.Maron BJ, Desai MY, Nishimura RA, et al.Diagnosis and Evaluation of Hypertrophic Cardiomyopathy: JACC State-of-the-Art Review.J Am Coll Cardiol2022;79(4):372-389.doi:10.1016/j.jacc.2021.12.002
+1.Maron BJ, Desai MY, Nishimura RA, et al.Diagnosis and Evaluation of Hypertrophic Cardiomyopathy: JACC State-of-the-Art Review.J Am Coll Cardiol2022;79(4):372-389.doi:10.1016/j.jacc.2021.12.002
+
+【肥厚型心肌病的治疗】
+beta受体阻滞剂
+beta受体阻滞剂
+具有减慢心率和负性肌力作用的钙通道阻滞剂
+具有减慢心率和负性肌力作用的钙通道阻滞剂
+Mavacamten胶囊
+Mavacamten胶囊
+避免使用硝酸酯类、利尿剂和血管紧张素转换酶（ACE）抑制剂
+避免使用硝酸酯类、利尿剂和血管紧张素转换酶（ACE）抑制剂
+可能需使用抗心律失常药物（如丙吡胺，胺碘酮）
+可能需使用抗心律失常药物（如丙吡胺，胺碘酮）
+可能需要植入ICD，有时需要外科或消融手术
+可能需要植入ICD，有时需要外科或消融手术
+根据肥厚型心肌病的表型进行治疗。 无阻塞的患者一般病程平稳，无明显症状，但也有部分患者因舒张功能障碍引起心力衰竭症状。 单独或联合应用beta受体阻滞剂和具有减慢心率及弱扩血管能力的钙通道阻滞剂（常用维拉帕米）是主要的治疗手段。 通过减慢心率，延长心室舒张期的充盈时间，可能增加舒张功能障碍患者的左室充盈。 但这种疗法的长期疗效尚未得到证实。
+对于阻塞性表型患者，除了尝试改善舒张功能，治疗还应降低流出道压力梯度。非二氢吡啶类钙通道阻滞剂（如维拉帕米、地尔硫卓）、β受体阻滞剂和丙吡胺通过其负性肌力作用降低流出道压差。 对于有静息梯度的患者，丙吡胺似乎最为有效，而beta-受体阻滞剂则最好用于降低运动过程中出现的梯度。β-受体阻滞剂通常被认为是阻塞性表型患者的一线治疗；丙吡胺有助于缓解用β受体阻滞剂、维拉帕米或地尔硫卓一线治疗无效的患者的症状。
+尽管接受了药物治疗，但仍有明显的流出道梯度（≥50mmHg）相关症状的患者，可选择侵入性治疗。 在经验丰富的医疗中心，心室肌切除术的手术死亡率低，效果良好，因此是这类患者的首选治疗方法。经皮导管室间隔酒精消融术是老年患者和其他高手术风险患者的替代方法。
+降低前负荷的药物（例如：硝酸酯，利尿剂，血管紧张素转化酶抑制剂，血管紧张素II受体拮抗剂）可减小心腔的容量，恶化症状和体征。血管扩张剂增加流出道压力阶差引起反射性心动过速进一步恶化心室舒张功能。 正性肌力药物（例如：洋地黄苷类，儿茶酚胺类）并不能减轻舒张末期较高的压力，使流出道梗阻更为严重，而且可能导致心律失常。马瓦卡坦是一种口服心肌肌球蛋白抑制剂，可减少肌动蛋白-肌球蛋白交联桥的形成，缓解肥厚型心肌病患者的症状，减少左心室流出道（LVOT）梗阻，并提高运动耐受性（1，2）。
+如果已经发生过晕厥或心脏骤停，或心电图或24小时动态心电图监测证实存在持续性室性心律失常，通常需植入植入式自动心律转复除颤器（ICD）。 关于是否需要在没有晕厥、心脏骤停或室性心律失常的患者身上置入除颤器仍存在争议。一般认为，具有高风险特征的患者应考虑植入式心律转复除颤器的植入(3)。高危特征包括
+有早发性心脏骤停的家族史
+有早发性心脏骤停的家族史
+左室壁厚度＞3cm
+左室壁厚度＞3cm
+心脏MRI延迟强化
+心脏MRI延迟强化
+不明原因的晕厥
+不明原因的晕厥
+室性心律失常导致心脏骤停后的存活
+室性心律失常导致心脏骤停后的存活
+多次突发非持续性室性心动过速 (NSVT)
+多次突发非持续性室性心动过速 (NSVT)
+左心室射血分数 (LVEF) < 50%（终末期疾病）
+左心室射血分数 (LVEF) < 50%（终末期疾病）
+左心室壁瘤
+左心室壁瘤
+心肌切除术和酒精消融术已被用于减少流出道梗阻和缓解症状。经证实，这些干预措施在死亡率方面没有区别，但心肌切除术对缓解梗阻和减少重复干预的需要更为有效（4）。
+以前建议避免竞技运动，因为在增加运动时可能会发生猝死。 当前指南建议患有 HCM 的运动员接受全面评估，并与 HCM 专家共同讨论潜在风险。
+肥厚性心肌病充血性扩张期的治疗与以收缩功能障碍为主的扩张性心肌病相同。
+对于有非对称性室间隔肥大的患者应接受遗传咨询
+
+【治疗参考文献】
+1.Olivotto I, Oreziak A, Barriales-Villa R, et al:Mavacamtenfor treatment of symptomatic obstructive hypertrophic cardiomyopathy (EXPLORER-HCM): a randomised, double-blind, placebo-controlled, phase 3 trial.Lancet396:759–769, 2020.doi: 10.1016/S0140-6736(20)31792-X
+1.Olivotto I, Oreziak A, Barriales-Villa R, et al:Mavacamtenfor treatment of symptomatic obstructive hypertrophic cardiomyopathy (EXPLORER-HCM): a randomised, double-blind, placebo-controlled, phase 3 trial.Lancet396:759–769, 2020.doi: 10.1016/S0140-6736(20)31792-X
+2.Spertus JA, Fine JT, Elliott P, et al:Mavacamtenfor treatment of symptomatic obstructive hypertrophic cardiomyopathy (EXPLORER-HCM): health status analysis of a randomized, double-blind, placebo-controlled, phase 3 trial.Lancet397:2467–2475, 2012.doi: 10.1016/S0140-6736(21)00763-7
+2.Spertus JA, Fine JT, Elliott P, et al:Mavacamtenfor treatment of symptomatic obstructive hypertrophic cardiomyopathy (EXPLORER-HCM): health status analysis of a randomized, double-blind, placebo-controlled, phase 3 trial.Lancet397:2467–2475, 2012.doi: 10.1016/S0140-6736(21)00763-7
+3.Maron MS, Rowin EJ, Wessler BS, et al: Enhanced American College of Cardiology/American Heart Association Strategy for Prevention of Sudden Cardiac Death in High-Risk Patients With Hypertrophic Cardiomyopathy.JAMA Cardiol4(7):644–657, 2019.doi:10.1001/jamacardio.2019.1391
+3.Maron MS, Rowin EJ, Wessler BS, et al: Enhanced American College of Cardiology/American Heart Association Strategy for Prevention of Sudden Cardiac Death in High-Risk Patients With Hypertrophic Cardiomyopathy.JAMA Cardiol4(7):644–657, 2019.doi:10.1001/jamacardio.2019.1391
+4.Nguyen A, Schaff HV, Hang D, et al: Surgical myectomy versus alcohol septal ablation for obstructive hypertrophic cardiomyopathy: A propensity score-matched cohort.J Thorac Cardiovasc Surg157(1):306–315.e3, 2019.doi:10.1016/j.jtcvs.2018.08.062
+4.Nguyen A, Schaff HV, Hang D, et al: Surgical myectomy versus alcohol septal ablation for obstructive hypertrophic cardiomyopathy: A propensity score-matched cohort.J Thorac Cardiovasc Surg157(1):306–315.e3, 2019.doi:10.1016/j.jtcvs.2018.08.062
+
+【肥厚型心肌病的预后】
+总体而言，成人年死亡率约为1%，儿童的年死亡率更高。死亡通常是突然发生的，而猝死是最常见的结局；慢性心力衰竭通常较少发生。 存在以下风险因素可预测心脏性猝死的风险更高：
+肥厚型心肌病引起的心源性猝死、心脏骤停或持续室性心律失常的家族史
+肥厚型心肌病引起的心源性猝死、心脏骤停或持续室性心律失常的家族史
+不明原因晕厥、心脏骤停或持续室性心律失常的个人病史
+不明原因晕厥、心脏骤停或持续室性心律失常的个人病史
+多次发作非持续性室性心动过速（动态心电图提示）
+多次发作非持续性室性心动过速（动态心电图提示）
+重度左心室肥厚（厚度≥ 30 mm），左心室功能障碍（射血分数 < 50%），左心室心尖部室壁瘤
+重度左心室肥厚（厚度≥ 30 mm），左心室功能障碍（射血分数 < 50%），左心室心尖部室壁瘤
+MRI上广泛弥漫性晚期钆增强
+MRI上广泛弥漫性晚期钆增强
+肥厚型心肌病通常由众多基因突变之一引起，这些突变导致不同类型的心室肥厚，限制心脏充盈（即引起舒张功能障碍），有时还会阻碍左心室流出道。
+肥厚型心肌病通常由众多基因突变之一引起，这些突变导致不同类型的心室肥厚，限制心脏充盈（即引起舒张功能障碍），有时还会阻碍左心室流出道。
+即使没有冠状动脉粥样硬化，冠状动脉的血流也会受影响。因为毛细血管密度相对于心肌细胞大小来说不够充足，或由于内膜及中膜增生肥大导致心肌内冠状动脉管腔直径狭窄。
+即使没有冠状动脉粥样硬化，冠状动脉的血流也会受影响。因为毛细血管密度相对于心肌细胞大小来说不够充足，或由于内膜及中膜增生肥大导致心肌内冠状动脉管腔直径狭窄。
+在青少年时期，患者可有胸痛，呼吸困难，心悸，晕厥，有时会猝死，通常由劳累引发。
+在青少年时期，患者可有胸痛，呼吸困难，心悸，晕厥，有时会猝死，通常由劳累引发。
+一般做超声心动图，但是，如果条件允许，MRI能最好显示出异常的心肌。
+一般做超声心动图，但是，如果条件允许，MRI能最好显示出异常的心肌。
+使用beta受体阻滞剂和/或减慢心率的钙通道阻滞剂（通常是维拉帕米）降低心肌收缩力，减慢心率，延长舒张期充盈，减少流出道梗阻。
+使用beta受体阻滞剂和/或减慢心率的钙通道阻滞剂（通常是维拉帕米）降低心肌收缩力，减慢心率，延长舒张期充盈，减少流出道梗阻。
+考虑使用马瓦卡坦以降低左心室流出道压差，提高运动能力，减轻症状。
+考虑使用马瓦卡坦以降低左心室流出道压差，提高运动能力，减轻症状。
+避免使用硝酸酯类以及其他降低前负荷的药物（例如：利尿剂，血管紧张素转化酶抑制剂，血管紧张素II受体阻滞剂），因为这些药物会减小左心室大小，恶化左心室功能。
+避免使用硝酸酯类以及其他降低前负荷的药物（例如：利尿剂，血管紧张素转化酶抑制剂，血管紧张素II受体阻滞剂），因为这些药物会减小左心室大小，恶化左心室功能。
+晕厥或心脏骤停的患者可安置植入式心律转复除颤器。
+晕厥或心脏骤停的患者可安置植入式心律转复除颤器。
+对药物治疗后仍有症状的患者应行手术心肌切除术或室间隔酒精消融术。
+对药物治疗后仍有症状的患者应行手术心肌切除术或室间隔酒精消融术。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+American Heart Association Guidelines on Hypertrophic Cardiomyopathy:Ommen SR, Mital S, Burke MA, et al: 2020 AHA/ACC Guideline for the Diagnosis and Treatment of Patients With Hypertrophic Cardiomyopathy A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears in Circulation. 2020 Dec 22;142(25):e633].Circulation20 November 2020.doi: 10.1161/CIR.0000000000000937
+American Heart Association Guidelines on Hypertrophic Cardiomyopathy:Ommen SR, Mital S, Burke MA, et al: 2020 AHA/ACC Guideline for the Diagnosis and Treatment of Patients With Hypertrophic Cardiomyopathy A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears in Circulation. 2020 Dec 22;142(25):e633].Circulation20 November 2020.doi: 10.1161/CIR.0000000000000937

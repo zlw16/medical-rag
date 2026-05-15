@@ -1,0 +1,59 @@
+标题：能力和不胜任
+来源：https://www.msdmanuals.cn/professional/special-subjects/medicolegal-issues/capacity-competence-and-incapacity
+============================================================
+
+在美国，历史上“无行为能力”主要被视为临床诊断结论，而“无法律行为能力”则被视为法律认定结果。如此区别已不再被严格地划分；大部分州法现在都用“能力丧失”来代替“不胜任”，虽然这两个术语常常被互相替用 (1)。医疗保健决策术语中更有用的区别是
+临床失能
+临床失能
+无法律行为能力
+无法律行为能力
+具有医疗保健临床和法律能力的人有权做出医疗保健决定，包括拒绝必要的医疗护理，即使拒绝可能导致死亡。没有以上能力的病人则不能自行作医疗决定。然而，如果一名被医师认定缺乏临床决策能力的患者对某项医疗决策表达了个人意愿，除非法院同时认定该患者在法律上亦缺乏作出该决定的能力，否则医师通常无权推翻其意愿。
+
+【临床能力】
+做出医疗保健决定的临床能力是了解所建议的医疗保健的潜在利益和危害，了解可能的替代方案，以及做出和传达医疗保健决定的能力。评估这一能力需要考虑以下几个方面：
+医疗因素(例如，病人的医疗状况、感觉缺陷、药物副作用、情绪和精神问题)
+医疗因素(例如，病人的医疗状况、感觉缺陷、药物副作用、情绪和精神问题)
+功能能力（身体、认知和心理）
+功能能力（身体、认知和心理）
+环境因素（例如，压力大的生活条件、有没有帮手、隔离、服药时间表或疲劳导致的一天中的时间变化）
+环境因素（例如，压力大的生活条件、有没有帮手、隔离、服药时间表或疲劳导致的一天中的时间变化）
+医务工作者可以以临床状况来决定病人是否具备这种类型的能力并将过程档案化。有资格的医务工作者，由国家法律规定，在几乎每个州国家临终法案规定有权做出这些决定。只有当决定本身或其过程的另一面受到患者或者他人质疑时法庭才会介入。
+临床能力是针对一些特定医疗问题所做决定的能力，此能力也就局限于那些决定涉及的范畴。临床能力的水平取决于该决定相关问题的复杂性。在某些能力方面存在缺陷的患者，甚至有严重先天缺陷的患者，仍然可能具备做出简单决定的能力，比如是否允许进行肛门检查或者留置静脉针。重要的是，能力有所下降的患者可能仍然有足够的能力来指定代理决策者（2）。然而，同一患者可能缺乏能力判断是否参加一项临床试验。
+
+【经验与提示】
+经验与提示
+临床能力是针对一些特定医疗问题所做决定的能力，此能力也就局限于那些决定涉及的范畴。
+临床能力是针对一些特定医疗问题所做决定的能力，此能力也就局限于那些决定涉及的范畴。
+在患者进行医疗决定的过程中应该给予各种可行性的尝试。忽视具有临床能力患者的决定或者接受能力丧失患者的要求都是不道德的，可能触及民事责任。患者执行决定的能力对于医生进行判断也很重要。例如，一条腿骨折病人可能能够做出回家的决定，但在恢复期没有自我照顾的能力。提供必要的支持，以开展决策成为保健的一个重要目标。
+能力可能是时有时无的，可变的，且受环境所影响。因中毒、谵妄、昏迷、重度抑郁、激越或其他损伤而丧失能力的患者，在损伤消退后可恢复能力。为了获得对缺乏临床能力的患者进行治疗的同意，医疗保健专业人员应努力恢复其能力。如果不可能，医疗保健专业人员必须联系患者持久医疗保健授权书中指定的代理人或代理人或其他合法授权的代理人（同意和代理决策) (3）。如果需要紧急或急救护理（例如急性事件后患者意识丧失的情况）并且无指定代理人或代理人无法联系时，则适用推定同意原则。除非有相反的证据，例如POLST（医生关于维持生命治疗的命令，一套解决关键医疗决策的可携带医疗命令）或表明患者意愿的“DNR”（不要复苏）首饰，否则假定患者同意任何必要的紧急治疗。在法庭上，为那些自己不能做出决定的人群做出紧急医疗护理决定的过程很少受到起诉。
+
+【法律能力】
+法律能力（也叫做胜任力）是一个法律范畴；这无法由医务工作者决定。然而，卫生保健专业人员在评估过程中发挥着重要作用。在美国，18岁或者以上的人被自动认定能够做医疗决定。特许群是低于18岁的人，但也被考虑在法律上是被认定有能力的。这一群体的定义因州而异，但通常包括已婚的未成年人、在武装部队服役的未成年人、经济独立的未成年人或获得法院解放令的未成年人。此外，在某些州，医疗同意年龄低于成年年龄（例如，在阿拉巴马州，医疗同意年龄为 19 岁，但医疗同意年龄为 14 岁）。
+一个人将一直被视为是有能力的，直到法官通过法律程序认定宣布该人在某些方面或所有方面丧失能力。这一宣布通常是通过法院的监护或者托管程序实现的。而宣布丧失能力的法律要求每个州都有所不同。然而，一般来说以下的状况尤其需要具体化：
+致残状况(如智力残疾、精神障碍、痴呆或其他脑部疾病、长期吸毒)
+致残状况(如智力残疾、精神障碍、痴呆或其他脑部疾病、长期吸毒)
+无能力接受或评判信息或做或沟通决定
+无能力接受或评判信息或做或沟通决定
+无法在没有外界照顾的情况下达到体格健康、安全或自理的基本要求
+无法在没有外界照顾的情况下达到体格健康、安全或自理的基本要求
+研究显示，监护或托管是保护个人的最小限制性替代措施。
+研究显示，监护或托管是保护个人的最小限制性替代措施。
+当医生质疑患者不具备法律能力时，可以通过监护或保护程序向法院提出判定的申请。医生可能被要求参加听证会，并且作证或者提供相关文件。
+当一个人在法律上被认定无能力时，法庭可以指定一个监护人在法庭指定的范围内为该人做有法律约束力的决定。法庭对于存在争议的特别问题也可以做出决定（比如，一个特别的治疗决定或者针对个人生存意愿特别指导意见的意义）。
+对法律能力削弱的限制最小的替代措施要求越来越多地包括考虑技术援助和支持决策。受支持的决策是法定监护人的替代选择，它允许残障人士在可信赖的顾问（如朋友，家人或专业人士）的支持下，维护自己的权利和决策能力 （见Center for Public Representation: Supported Decision-Making和National Resource Center for Supported Decision-Making) 。 决策支持可能涉及非正式帮助、技术援助（例如，表明需要采取行动的医疗监视器；为残疾人提供辅助技术的移动应用程序）和正式的支持协议。
+美国许多州都承认正式的支持性决策 (SDM) 协议，该协议可用于强制执行个人从第三方获得支持的权利。SDM 协议应定义支持关系的要素，并明确承认被支持的个人仍然是决策者。各州也越来越多地在其监护法规中承认支持性决策是监护权的一种限制较少的替代方案。
+
+【参考文献】
+1.Appelbaum PS: Clinical practice.Assessment of patients' competence to consent to treatment.N Engl J Med357(18):1834-1840, 2007.doi:10.1056/NEJMcp074045
+1.Appelbaum PS: Clinical practice.Assessment of patients' competence to consent to treatment.N Engl J Med357(18):1834-1840, 2007.doi:10.1056/NEJMcp074045
+2.Pope TM, Bennett J, Carson SS, et al: Making medical treatment decisions for unrepresented patients in the ICU.An Official American Thoracic Society/American Geriatrics Society Policy Statement.Am J Respir Crit Care Med201(10):1182-1192, 2020.doi:10.1164/rccm.202003-0512ST
+2.Pope TM, Bennett J, Carson SS, et al: Making medical treatment decisions for unrepresented patients in the ICU.An Official American Thoracic Society/American Geriatrics Society Policy Statement.Am J Respir Crit Care Med201(10):1182-1192, 2020.doi:10.1164/rccm.202003-0512ST
+3.Moye J, Catlin C, Kwak J, et al: Ethical concerns and procedural pathways for patients who are incapacitated and alone: implications from a qualitative study for advancing ethical practice.HEC Forum29(2):171-189, 2017.doi:10.1007/s10730-016-9317-9
+3.Moye J, Catlin C, Kwak J, et al: Ethical concerns and procedural pathways for patients who are incapacitated and alone: implications from a qualitative study for advancing ethical practice.HEC Forum29(2):171-189, 2017.doi:10.1007/s10730-016-9317-9
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Center for Public Representation: Supported Decision-Making
+Center for Public Representation: Supported Decision-Making
+National Resource Center for Supported Decision-Making
+National Resource Center for Supported Decision-Making

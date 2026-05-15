@@ -1,0 +1,347 @@
+标题：压伤
+来源：https://www.msdmanuals.cn/professional/dermatologic-disorders/pressure-injury/pressure-injuries
+============================================================
+
+压力性损伤是指仅由压力或压力与剪切力共同作用导致的皮肤和/或皮下组织的局部损伤，通常发生在骨隆突处(1)。美国每年有高达300万成年人受压力性损伤影响，住院患者中的患病率为5%～15%。然而，在某些长期护理环境和重症监护病房中，患病率可能显著更高 (2)。
+“压力性损伤”已取代“压力性溃疡”成为国家压力性损伤咨询委员会 (NPIAP) 推荐的首选术语，因为与压力相关的皮肤损伤在早期阶段可能不会导致皮肤溃疡（另见分期系统）。
+
+【参考文献】
+1.Haesler E, ed. National Pressure Ulcer Advisory Panel, European Pressure Ulcer Advisory Panel and Pan Pacific Pressure Injury Alliance.Prevention and Treatment of Pressure Ulcers: Quick Reference Guide.Cambridge Media; 2014.
+1.Haesler E, ed. National Pressure Ulcer Advisory Panel, European Pressure Ulcer Advisory Panel and Pan Pacific Pressure Injury Alliance.Prevention and Treatment of Pressure Ulcers: Quick Reference Guide.Cambridge Media; 2014.
+2.Mervis JS, Phillips TJ.Pressure ulcers: Pathophysiology, epidemiology, risk factors, and presentation.J Am Acad Dermatol81(4):881-890, 2019.doi: 10.1016/j.jaad.2018.12.069
+2.Mervis JS, Phillips TJ.Pressure ulcers: Pathophysiology, epidemiology, risk factors, and presentation.J Am Acad Dermatol81(4):881-890, 2019.doi: 10.1016/j.jaad.2018.12.069
+
+【压力性损伤的病因学】
+压力性损伤的危险因素包括：
+年龄 > 65 岁（可能是由于皮下脂肪减少、毛细血管血流量减少以及其他与年龄相关的皮肤退行性变化）（1）
+年龄 > 65 岁（可能是由于皮下脂肪减少、毛细血管血流量减少以及其他与年龄相关的皮肤退行性变化）（1）
+活动减少（例如，由于长期住院，卧床休息，昏迷，脊髓损伤，镇静，即降低自发运动无力，和/或认知障碍）
+活动减少（例如，由于长期住院，卧床休息，昏迷，脊髓损伤，镇静，即降低自发运动无力，和/或认知障碍）
+皮肤刺激物的接触史（如小便失禁和/或大便失禁）
+皮肤刺激物的接触史（如小便失禁和/或大便失禁）
+伤口愈合能力受损（例如，由于营养不良，糖尿病，外周动脉疾病，和/或静脉瓣膜功能不全）
+伤口愈合能力受损（例如，由于营养不良，糖尿病，外周动脉疾病，和/或静脉瓣膜功能不全）
+感觉受损
+感觉受损
+在儿童中，压力性损伤可能伴有严重的神经系统损伤，例如脊柱裂、脑瘫和脊髓损伤。
+已开发出多种量表（例如，诺顿压疮风险评估量表、布雷登量表）用于预测压力性损伤风险（2）。诺顿量表用于根据身体状况、精神状况、活动、活动能力和失禁五个标准的分数总和来确定患者是否处于压疮发展的高风险。Braden 量表用于根据六个类别的分数总和来评估风险：感官知觉、湿度、活动、流动性、营养和摩擦/剪切（3）。虽然使用这些量表被认为是标准护理程序，但尚未证明它们比单纯采用熟练的临床评估能够减少更多压力性损伤的发生。 因此，建议同时使用风险评估量表与熟练的临床评估。
+
+【预测压力性溃疡风险的诺顿模式*】
+预测压力性溃疡风险的诺顿模式*
+判断指标
+身体状况
+4=良好
+3=一般
+1=非常差
+精神状态
+4=警惕
+3=冷漠
+2=迷惑
+1=昏迷
+4=可走动的
+3=需要帮助行走
+2=椅子绑定
+1=卧床
+4=完全
+3=轻微受损
+2=非常有限
+1=固定的
+3=偶尔
+2=经常/尿
+1=双倍的
+*计算所有5个区域中分数的总和。得分<14表示压力性溃疡发作高风险。
+Adapted from Norton, D: Calculating the risk: Reflections on the Norton scale.Decubitus2(3):24–31, 1989.
+*计算所有5个区域中分数的总和。得分<14表示压力性溃疡发作高风险。
+Adapted from Norton, D: Calculating the risk: Reflections on the Norton scale.Decubitus2(3):24–31, 1989.
+
+【病因参考文献】
+1.Farage MA, Miller KW, Elsner P, Maibach HI: Characteristics of the aging skin.Adv Wound Care (New Rochelle)2(1):5–10, 2013.doi: 10.1089/wound.2011.0356
+1.Farage MA, Miller KW, Elsner P, Maibach HI: Characteristics of the aging skin.Adv Wound Care (New Rochelle)2(1):5–10, 2013.doi: 10.1089/wound.2011.0356
+2.Qaseem A, Mir TP, Starkey M, Denberg TD; Clinical Guidelines Committee of the American College of Physicians.Risk assessment and prevention of pressure ulcers: a clinical practice guideline from the American College of Physicians.Ann Intern Med.2015;162(5):359-369.doi:10.7326/M14-1567
+2.Qaseem A, Mir TP, Starkey M, Denberg TD; Clinical Guidelines Committee of the American College of Physicians.Risk assessment and prevention of pressure ulcers: a clinical practice guideline from the American College of Physicians.Ann Intern Med.2015;162(5):359-369.doi:10.7326/M14-1567
+3.Bergstrom N, Braden BJ, Laguzza A, Holman V: The Braden scale for predicting pressure sore risk.Nurs Res36(4):205–210, 1987.
+3.Bergstrom N, Braden BJ, Laguzza A, Holman V: The Braden scale for predicting pressure sore risk.Nurs Res36(4):205–210, 1987.
+
+【压力性损伤的病理生理学】
+引起压力性损伤的主要因素是：
+压力：当软组织被骨性突起和外部接触面压迫时，微血管阻塞与组织缺血，缺氧同时发生 (1)。压力超过正常的毛细血管压力（范围为12~32 mmHg）会导致氧合减少并损害受累组织的微循环。如果未缓解压力，3-4个小时内就会发生压力性损伤。压力性损伤最常发生在骶骨、坐骨结节、股骨转子、踝、跟部，但有时也见于其他部位。
+压力：当软组织被骨性突起和外部接触面压迫时，微血管阻塞与组织缺血，缺氧同时发生 (1)。压力超过正常的毛细血管压力（范围为12~32 mmHg）会导致氧合减少并损害受累组织的微循环。如果未缓解压力，3-4个小时内就会发生压力性损伤。压力性损伤最常发生在骶骨、坐骨结节、股骨转子、踝、跟部，但有时也见于其他部位。
+摩擦：与衣物或床上用品的摩擦可导致表皮和浅层真皮的局部破损和糜烂，从而形成皮肤溃疡。
+摩擦：与衣物或床上用品的摩擦可导致表皮和浅层真皮的局部破损和糜烂，从而形成皮肤溃疡。
+剪切力：剪切力，例如患者在倾斜表面上下滑时所承受的力，会使深层组织（肌肉和皮下组织层）随重力移动，而与外表面保持接触的较浅层组织则会产生阻力，这种相互作用会对支撑组织造成压力并使其受损。这种力的对抗会阻碍血液流向受影响区域，从而导致潜在的损伤。剪切力有助于压力性损伤的产生，但不是直接原因。
+剪切力：剪切力，例如患者在倾斜表面上下滑时所承受的力，会使深层组织（肌肉和皮下组织层）随重力移动，而与外表面保持接触的较浅层组织则会产生阻力，这种相互作用会对支撑组织造成压力并使其受损。这种力的对抗会阻碍血液流向受影响区域，从而导致潜在的损伤。剪切力有助于压力性损伤的产生，但不是直接原因。
+湿度：湿度过高（例如出汗、失禁）可能会导致皮肤破损和浸渍，从而引发溃疡并加重压力性损伤。
+湿度：湿度过高（例如出汗、失禁）可能会导致皮肤破损和浸渍，从而引发溃疡并加重压力性损伤。
+由于肌肉比皮肤更容易因受压而缺血，因此长时间受压导致的某些压力性损伤可能由肌肉缺血和坏死引发。
+缺血引发一系列炎症反应，包括中性粒细胞浸润和水肿。此外，在再灌注过程中，机械应力会进一步加剧组织损伤，尤其是在肌肉和皮下组织中（2），其损伤程度和深度受内在因素调节，如皮肤厚度、组织硬度和血管反应性（3）。这些内在因素在高危患者中尤其受到损害（例如，年龄>65岁，新生儿[4]）。
+
+【病理生理学参考文献】
+1.Gefen A.The complex interplay between mechanical forces, tissue response and individual susceptibility to pressure ulcers.J Wound Care.2024;33(9):620-628.doi:10.12968/jowc.2024.0023
+1.Gefen A.The complex interplay between mechanical forces, tissue response and individual susceptibility to pressure ulcers.J Wound Care.2024;33(9):620-628.doi:10.12968/jowc.2024.0023
+2.Van Damme N, Van Hecke A, Remue E, et al.Physiological processes of inflammation and edema initiated by sustained mechanical loading in subcutaneous tissues: A scoping review.Wound Repair Regen.2020;28(2):242-265.doi:10.1111/wrr.12777
+2.Van Damme N, Van Hecke A, Remue E, et al.Physiological processes of inflammation and edema initiated by sustained mechanical loading in subcutaneous tissues: A scoping review.Wound Repair Regen.2020;28(2):242-265.doi:10.1111/wrr.12777
+3.Sree VD, Rausch MK, Tepole AB.Linking microvascular collapse to tissue hypoxia in a multiscale model of pressure ulcer initiation.Biomech Model Mechanobiol.2019;18(6):1947-1964.doi:10.1007/s10237-019-01187-5
+3.Sree VD, Rausch MK, Tepole AB.Linking microvascular collapse to tissue hypoxia in a multiscale model of pressure ulcer initiation.Biomech Model Mechanobiol.2019;18(6):1947-1964.doi:10.1007/s10237-019-01187-5
+4.de Bengy AF, Lamartine J, Sigaudo-Roussel D, et al.Newborn and elderly skin: two fragile skins at higher risk of pressure injury.Biol Rev Camb Philos Soc.2022;97(3):874-895.doi:10.1111/brv.12827
+4.de Bengy AF, Lamartine J, Sigaudo-Roussel D, et al.Newborn and elderly skin: two fragile skins at higher risk of pressure injury.Biol Rev Camb Philos Soc.2022;97(3):874-895.doi:10.1111/brv.12827
+
+【压力性损伤的症状和体征】
+任何分期的压疮均可能引起疼痛或瘙痒，但觉察力或感觉减退的患者通常不会注意到这些症状。
+
+【分期系统】
+存在几种分期系统。使用最为广泛的是美国国家压疮顾问小组（NPIAP）的分类系统，该系统根据组织损伤的深度将压疮分为四个阶段（1到4）。但是，数值分期并不意味着压力损伤的线性发展。也就是说，压力损伤并不总是表现为第一阶段，然后发展到更高阶段。有时，首发症状就是深层坏死的3期或4期损伤。在一个迅速发展的压力性损伤，表皮坏死之前即可出现深层皮下组织的坏死。因此，小损伤可能实际上代表了大面积de皮下坏死。同样，该量表并不意味着愈合过程从4期到1期。 更新后的NPUAP分期系统还包括对不可分期，深层组织，医疗设备相关以及粘膜压力损伤的定义（1)。
+第1期压力性损伤表现为骨性突起上完整的皮肤并伴有不可变白的红斑。肤色较深的人可能不易察觉颜色变化。和周围组织相比皮损温度和质地可有不同。还没有出现真正的溃疡(皮肤进入真皮的缺陷)。但是，如果持续受到压力、剪切力、摩擦和/或潮湿，可能导致溃疡。
+第2期压伤的特征是部分皮肤厚度的丧失，伴有表皮的丧失(糜烂或水泡)，伴有或不伴有真正的溃疡(缺损超过表皮的水平);皮下组织不暴露。损伤较浅，底部粉红至红色基部无坏死组织。第2期也包括继发于压力的水疱，可以是完整的或部分破裂的。（注：由皮肤撕扯、胶带刺激、会阴皮炎、浸渍等非压力性因素所引起的糜烂、溃疡或水疱不属于2期皮损。）
+第 3 期压疮表现为全层皮肤缺损，累及皮下组织，但未深入至下方筋膜。溃疡呈火山口状，但无深部肌肉或骨骼暴露。
+4期压力性损伤表现为全层皮肤缺损、大面积破坏、组织坏死，以及深部肌肉、肌腱或骨骼的暴露。
+不可分期压疮的特征为全层皮肤缺损，但由于坏死组织、纤维性渗出物或痂皮遮盖，无法确定组织损伤的具体深度。如果脱落或结痂被清除，则显示为3级或4级压力损伤。然而，对于稳定、无波动感且伴有干性痂皮的病灶，绝不应仅为分期目的而进行清创。
+深层组织压力性损伤的特征是皮肤完整或不完整，并因骨骼-肌肉界面承受过度压力和/或剪切力而导致下方组织出现局部区域损伤。查体发现包括持续的，不发白的，完整皮肤的紫色到栗色变色，充血的小泡或大泡。该区域与周围组织相比可能会感觉更坚实，boggier，温暖或更liang。在这种情况下，深层组织压力损伤不得用于描述潜在的血管，外伤，神经病变或皮肤病学状况。
+医疗设备相关的压力损伤使用为治疗目的而设计和应用的设备（如石膏，夹板）产生的结果。长期使用放置不当、安装不当的医疗器械可能会对皮肤或粘膜造成压力损伤。伤害通常符合设备的模式或形状。应使用 NPIAP 分期系统对损伤进行分期。医疗器械相关压力伤害已扩展至包括个人防护设备 (PPE) 造成的伤害，包括面罩、持续气道正压通气 (CPAP) 面罩和其他用于预防或管理COPD或新冠肺炎的设备。
+粘膜压力损伤出现在使用过医疗器械的粘膜上（例如假牙，气管插管安置不当）。由于组织的解剖结构，这些损伤无法进行分期。
+为了分期评估压力损伤的深度时，重要的是要考虑解剖位置，尤其是在3期损伤的情况下。例如，鼻梁、耳部、枕骨和内踝的皮下组织很少，因此这些部位的压伤非常浅。 但是，它们仍被划分为3期溃疡，因为它们与具有明显皮下组织（如骶骨区域）的部位的3期深溃疡同样重要。
+这张1期压伤的照片显示不可漂白的红色，但皮肤没有破裂。
+这张1期压伤的照片显示不可漂白的红色，但皮肤没有破裂。
+Photo from Gordian Medical, Inc.dba American Medical Technologies; used with permission.
+该患者右上臀部有一个2期压疮（箭头）。 有表皮脱落，基底部红斑。皮下组织未裸露。 请注意1期压疮的周围区域（如箭头标示处），完整的表皮上有不发白的红斑。
+该患者右上臀部有一个2期压疮（箭头）。 有表皮脱落，基底部红斑。皮下组织未裸露。 请注意1期压疮的周围区域（如箭头标示处），完整的表皮上有不发白的红斑。
+BOILERSHOT PHOTO/SCIENCE PHOTO LIBRARY
+这张照片显示3期压疮全层皮肤脱落，但没有肌肉或骨骼暴露。
+这张照片显示3期压疮全层皮肤脱落，但没有肌肉或骨骼暴露。
+Roberto A.Penne-Casanova/SCIENCE PHOTO LIBRARY
+图示3期压疮，显露皮下组织，但没有肌肉或骨骼。
+图示3期压疮，显露皮下组织，但没有肌肉或骨骼。
+DR BARRY SLAVEN/SCIENCE PHOTO LIBRARY
+图示4期压疮，显示深部结构，如肌腱和关节。
+图示4期压疮，显示深部结构，如肌腱和关节。
+Photo from Gordian Medical, Inc.dba American Medical Technologies; used with permission.
+这张1期压伤的照片显示不可漂白的红色，但皮肤没有破裂。
+这张1期压伤的照片显示不可漂白的红色，但皮肤没有破裂。
+Photo from Gordian Medical, Inc.dba American Medical Technologies; used with permission.
+该患者右上臀部有一个2期压疮（箭头）。 有表皮脱落，基底部红斑。皮下组织未裸露。 请注意1期压疮的周围区域（如箭头标示处），完整的表皮上有不发白的红斑。
+该患者右上臀部有一个2期压疮（箭头）。 有表皮脱落，基底部红斑。皮下组织未裸露。 请注意1期压疮的周围区域（如箭头标示处），完整的表皮上有不发白的红斑。
+BOILERSHOT PHOTO/SCIENCE PHOTO LIBRARY
+这张照片显示3期压疮全层皮肤脱落，但没有肌肉或骨骼暴露。
+这张照片显示3期压疮全层皮肤脱落，但没有肌肉或骨骼暴露。
+Roberto A.Penne-Casanova/SCIENCE PHOTO LIBRARY
+图示3期压疮，显露皮下组织，但没有肌肉或骨骼。
+图示3期压疮，显露皮下组织，但没有肌肉或骨骼。
+DR BARRY SLAVEN/SCIENCE PHOTO LIBRARY
+图示4期压疮，显示深部结构，如肌腱和关节。
+图示4期压疮，显示深部结构，如肌腱和关节。
+Photo from Gordian Medical, Inc.dba American Medical Technologies; used with permission.
+
+【经验与提示】
+经验与提示
+压力性损伤的患者可能出现比临床可见的更深的组织损伤。
+压力性损伤的患者可能出现比临床可见的更深的组织损伤。
+
+【分期定义参考文献】
+1.Editors of Nursing: Pressure ulcers get new terminology and staging definitions.Nursing47(3):68–69, 2017. doi: 10.1097/01.NURSE.0000512498.50808.2b
+1.Editors of Nursing: Pressure ulcers get new terminology and staging definitions.Nursing47(3):68–69, 2017. doi: 10.1097/01.NURSE.0000512498.50808.2b
+
+【压力性损伤的并发症】
+压力性损伤是医院获得性耐药微生物的良好培养基。伤口内的高细菌计数会削弱免疫反应或阻碍正常的组织愈合过程。 感染是压力性损伤最常见的并发症。 感染包括蜂窝组织炎、脓肿、传染性滑囊炎、传染性关节炎和坏死性筋膜炎。如果经过适当的治疗，伤口愈合仍然延迟，应该怀疑患者溃疡处（Marjolin溃疡）是否合并有骨髓炎（存在于高达32%的患者中）或罕见的鳞状细胞癌。
+不愈合压力性损伤的其他局部并发症包括组织钙化和窦道，这些窦道可能表浅，或将压力性溃疡与深层邻近结构相连（例如，从骶部溃疡延伸至肠道的窦道）。
+系统性感染并发症包括菌血症，脑膜炎和心内膜炎。这些并发症的风险随压力性损伤的严重程度增加而增加。
+
+【压力性损伤的诊断】
+主要是病史和体格检查
+主要是病史和体格检查
+营养评估
+营养评估
+罕见情况下，需进行影像学检查（磁共振成像，使用或不使用对比剂）
+罕见情况下，需进行影像学检查（磁共振成像，使用或不使用对比剂）
+压力性损伤的诊断基于临床评估。压力性损伤通常通过其特征性外观和在骨突出部上的位置来确定。骶骨是最常见的位置，其次是脚跟。由动脉或静脉功能不全或糖尿病神经病变所引起的损伤，可能类似于压力性损伤，尤其好发于下肢；这些损伤同样可因导致或加剧压力性损伤的相同因素（即剪切力、摩擦力与潮湿环境）而恶化。
+压力性损伤的深度和广度可能难以确定。对损伤的连续分期和拍照是监测创面愈合的重要yin'su。有多种愈合量表可应用。压力性溃疡治疗量表（PUSH）作为NPIAP分期系统的配套工具，已被许多机构采用 (1)。
+不推荐常规伤口培养，因为所有的压力性损伤都有大量的细菌定植。
+建议对压力性损伤患者进行营养评估，特别是那些3期或4期压力性损伤的患者。营养状况评估最好通过病史和体检来完成，因为白蛋白和前白蛋白等传统血液标记物本身在确定营养状况方面并不可靠(2）。营养不良患者需要进一步的评估及治疗。
+未愈合创面可能源于治疗不当，但其存在需警惕并发症的可能性。触痛、周围皮肤红斑、出现渗出物或发出难闻的气味均提示潜伏感染。发热和白细胞增多应怀疑蜂窝织炎、菌血症或潜在的骨髓炎。如果怀疑患有骨髓炎，建议进行全血细胞计数、血培养以及红细胞沉降率、C反应蛋白和/或降钙素原检查。骨髓炎的诊断是通过骨活检和培养来确定的，但该方法并非在所有情况下都可行。
+影像学检查不能同时兼顾敏感性和特异性。MRI是敏感的，但不特异，可以帮助确定压力性损伤的扩散程度。MRI可以帮助识别窦道。
+
+【诊断参考】
+1.National Pressure Injury Advisory Panel.Pressure Ulcer Scale for Healing.Accessed July 30, 2025.
+1.National Pressure Injury Advisory Panel.Pressure Ulcer Scale for Healing.Accessed July 30, 2025.
+2.Bharadwaj S, Ginoya S, Tandon P, et al.Malnutrition: Laboratory markers vs nutritional assessment.Gastroenterol Rep (Oxf)4(4):272–280, 2016.doi: 10.1093/gastro/gow013
+2.Bharadwaj S, Ginoya S, Tandon P, et al.Malnutrition: Laboratory markers vs nutritional assessment.Gastroenterol Rep (Oxf)4(4):272–280, 2016.doi: 10.1093/gastro/gow013
+
+【压力性损伤的治疗】
+直接伤口护理
+直接伤口护理
+疼痛管理
+疼痛管理
+感染控制
+感染控制
+营养需求评估
+营养需求评估
+有时需外科手术或其他辅助治疗
+有时需外科手术或其他辅助治疗
+建议采用多方面的方法来治疗压力性损伤。减压（通过定期变换体位、使用合适的支撑面以及减少摩擦和潮湿）以及直接伤口护理（即敷料、清创和伤口清洁）是标准治疗方案（1）。使用镇痛药控制疼痛和用抗生素治疗伤口感染可能是必要的。对于蛋白质缺乏的患者也应进行营养补充治疗。手术修复仅适用于晚期或范围广泛的溃疡。
+通过变更体位、使用保护装置以及支撑表面来降低组织表面压力 (2, 3)。
+频繁调整体位（以及选择适当的位置）是维持减压的最重要因素。应使用书面计划来指导和记录患者的体位调整。卧床患者至少每2小时变换一次体位，与床垫成30°侧卧（侧卧位）以避免直接压迫转子 (4)。床头抬高应最小化，以避免剪切力的影响（即患者可能需要改变体位时所承受的力）。在重新定位患者时，应使用抬高设备（如Stryker[史赛克]架）或床单，而不是拖拽患者，以避免不必要的摩擦。能坐立的患者应尽可能每60分钟变换一次体位，并鼓励患者每15分钟自行变换体位一次。
+当患者平卧或侧卧时，保护垫如枕头，泡沫楔子和脚跟保护器可以放置在膝盖，脚踝和脚跟之间和/或下面。骨折患者需做石膏管型制动时，应在受压处留有小窗口。软坐垫适合可坐立的患者。
+支撑面限制卧床患者可变换支撑表面以减压。它们可能是静态的或动态的。这些方法往往与其他措施相结合共同治疗压力性损伤。支撑chuang'dian是基于运行是否需要电力来分类的。固定床垫无需电能，而动力性床垫需要。
+固定床垫包括空气、泡沫、凝胶和水等多种床垫。“蛋箱”床垫效果一般。通常，固定床垫增大受压表面积，降低压力和剪切力。固定床垫传统上被用于预防及I期的压力性损伤。
+动力性chuang'dian包括交流空气床垫，低气压损失的床垫，并且空气流化的床垫。除减轻压力外，一些动态床垫还可增加支撑面积、减少热量积聚并促进降温，同时降低剪切力。充气交替型床垫有数个空气小室，在充电后膨胀或收缩，以改变受压部位。低跑气型床垫体积大、空气渗透性好，基本保持充气状态，空气的流通有利于组织干燥。这些特殊床垫适合3、4期压疮患者，或在固定床垫上易发生充血的1期压力性损伤患者。气体流动型和高跑气型床垫内含硅树脂包被的小珠，充气后液化。动态支撑表面的优势包括减少湿度和降温。这些床垫适用于患有无法愈合的 3 期和 4 期压力性损伤或大量躯干损伤的患者（见表支撑面选项）。
+与某些静态表面（如泡沫）相比，反应性空气表面（如交替空气床垫）可能降低压疮风险并促进溃疡完全愈合，但现有证据的确定性较低（5）。
+应用诸如凡士林等屏障性保护剂进行摩擦减轻，已被证实可在使用后立即减少个人防护装备所致的摩擦。但需频繁补涂（每小时一次）才能维持防护效果，这在一定程度上限制了它们的实际使用价值。
+减少潮湿策略，例如及时处理失禁问题、保持皮肤清洁干燥，并通过使用适当的屏障霜或敷料防止皮肤过度潮湿，可能有助于预防潮湿相关性皮肤损伤和压力性损伤的发生。
+
+【支撑表面的选择】
+支撑表面的选择
+支持目标
+标准医院床垫
+浮悬（气体或水）
+交替性空气
+低跑气型
+空气流动型（高跑气型）
+增加支撑表面积
+减少剪切力
+降低皮温
+保持低湿度
+低度危险
+低度危险
+低度危险
+Adapted from:Pressure ulcer treatment.Agency for Health Care Policy and Research.Clin Pract Guidel Quick Ref Guide Clin, (15):1-25, 1994.
+Adapted from:Pressure ulcer treatment.Agency for Health Care Policy and Research.Clin Pract Guidel Quick Ref Guide Clin, (15):1-25, 1994.
+
+【直接伤口护理】
+适当的伤口护理包括清洁、清创和包扎。
+清洁应在最初以及每次更换敷料时进行。生理盐水通常是清洁剂的最佳选择。清洗时，先用注射器、塑料挤瓶或电动压力装置抽吸，再灌洗受压表面以除去细菌，尽量不要造成人为外伤。灌xi还可以帮助清除坏死组织（清创）。可选用35mL注射器和18号静脉导guan持续灌洗至除去全部松软残屑。抗菌剂和抗菌清洗液（例如碘、过氧化氢、次氯酸钠）可能破坏健康的肉芽组织和角质形成细胞，因此通常应避免使用。然而已经开发出基于次氯酸的伤口清洁剂，可以在不损害正常细胞功能的情况下减少微生物负荷，因此可应用于多种治疗场景（6）。
+清创术在去除坏死组织时是必要de。坏死组织充当细菌生长的基质并阻止正常创面的愈合。方法包括:
+机械清创：该方法包括水疗（漩涡浴缸、跳动灌洗）和最常见的湿-干敷料。使用足够的压力清洗伤口也可以完成机械清创。机械清创可以去除伤口的表面的坏死碎片，并且应该只用于渗出物比较松软的伤口。在湿转干敷料中，渗出液和坏死组织会随着纱布敷料干燥而附着其上，因此移除纱布即可实现伤口清创；但此法需谨慎使用，因为更换敷料会引起疼痛，并可能损伤下层的健康肉芽组织（即正常愈合所需的组织）。
+机械清创：该方法包括水疗（漩涡浴缸、跳动灌洗）和最常见的湿-干敷料。使用足够的压力清洗伤口也可以完成机械清创。机械清创可以去除伤口的表面的坏死碎片，并且应该只用于渗出物比较松软的伤口。在湿转干敷料中，渗出液和坏死组织会随着纱布敷料干燥而附着其上，因此移除纱布即可实现伤口清创；但此法需谨慎使用，因为更换敷料会引起疼痛，并可能损伤下层的健康肉芽组织（即正常愈合所需的组织）。
+锐器（外科）清创：该方法包括使用消毒的手术刀或剪刀去除痂皮和坏死组织。 中等量的焦痂和组织清创术可在床旁进行，广泛性或深部清创（如有骨头、肌腱或关节暴露）应在手术室进行。
+锐器（外科）清创：该方法包括使用消毒的手术刀或剪刀去除痂皮和坏死组织。 中等量的焦痂和组织清创术可在床旁进行，广泛性或深部清创（如有骨头、肌腱或关节暴露）应在手术室进行。
+自溶性清创：合成的封闭（水胶体/水凝胶）或半封闭（透明膜）敷料已用于帮助创面处的蛋白酶消化坏死组织。自溶清创可用于较少渗液的小伤口。如果怀疑伤口感染则不应使用此方法。
+自溶性清创：合成的封闭（水胶体/水凝胶）或半封闭（透明膜）敷料已用于帮助创面处的蛋白酶消化坏死组织。自溶清创可用于较少渗液的小伤口。如果怀疑伤口感染则不应使用此方法。
+酶清创：这种技术（使用胶原酶，木瓜蛋白酶，纤溶酶，脱氧核糖核酸酶，或链激酶/链道酶），可用于伴有轻度纤维化或坏死组织的溃疡。该方法也可用于其护理人员未接受过机械清创操作培训或患者无法耐受手术的情况。如果使用解剖刀仔细地分离创口用以改善酶的渗透时此方法效果最好。
+酶清创：这种技术（使用胶原酶，木瓜蛋白酶，纤溶酶，脱氧核糖核酸酶，或链激酶/链道酶），可用于伴有轻度纤维化或坏死组织的溃疡。该方法也可用于其护理人员未接受过机械清创操作培训或患者无法耐受手术的情况。如果使用解剖刀仔细地分离创口用以改善酶的渗透时此方法效果最好。
+生物清创术：医学蛆虫疗法可选择性地去除坏死组织；蛆虫（蝇幼虫）只取食坏死组织。这种方法对伤口有骨、肌腱和关节外露并且不能进行锐器清创的患者最有帮助。
+生物清创术：医学蛆虫疗法可选择性地去除坏死组织；蛆虫（蝇幼虫）只取食坏死组织。这种方法对伤口有骨、肌腱和关节外露并且不能进行锐器清创的患者最有帮助。
+敷料对于保护伤口，促进愈合是有帮助。它们应用于因摩擦或失禁而导致的 1 级压力性损伤以及所有其他压力性损伤（见表压力性损伤敷料的选择）。
+因摩擦力增加所导致的I期压力性损伤，透明膜就已经足够。对于渗出液较少的创面，可使用透明薄膜或水凝胶敷料（即片状或凝胶状的交联聚合物敷料）以保护伤口免受感染，并营造可优化生理性愈合过程的湿润环境。此种敷料需每3～7天更换一次。
+水胶体由明胶、果胶和羧甲基纤维素以薄片和粉末的形式混合而成，适用于有少量渗出液的压力性损伤，根据引流量，可以保留长达 1 周。
+藻酸盐敷料（含藻酸的多糖类海藻衍生物）有垫状、绳状、带状及凝胶纤维状等多种形态，适用于吸收大量渗出液。藻酸盐还具有止血特性，适用于控制手术清创后的出血。这两种敷料均可留置长达7天，但若发生渗液饱和则需提前更换。
+泡沫敷料可以用于各级渗出的伤口，并提供帮助伤口愈合的湿润的保护性环境。泡沫敷料通常可保留长达7天，但一旦饱和必须更换。防水敷料可保护伴有大小便失禁的皮肤。
+
+【压力性损伤敷料的选择】
+压力性损伤敷料的选择
+sun伤类型*
+浅表型（2期）
+干燥（极少渗出）
+保持微湿
+保持微湿预防感染
+膜、水胶体或水凝胶
+潮湿伴中等量渗出
+吸收渗出
+帮助自溶
+保持微湿
+保持微湿预防感染
+泡沫、藻酸盐或胶凝纤维
+深在型（3～4期）
+轻度至中度渗出
+填补凹陷
+保持或降低湿度
+保持微湿预防感染
+潮湿伴中等量渗出
+填补凹陷
+吸收渗出
+保持微湿
+保持微湿预防感染
+藻酸盐、胶凝纤维或泡沫
+*1期压力性损伤患者通常不需要敷料，除非摩擦或失禁
+*1期压力性损伤患者通常不需要敷料，除非摩擦或失禁
+
+【疼痛管理】
+压力性损伤可以导致明显的疼痛使用疼痛量表监测疼痛程度。
+首先需治疗损伤本身，轻到中度的疼痛可用非甾体类抗炎药或对乙酰氨基酚。阿片类药物应尽可能避免使用，因其镇静作用会导致活动减少。但是在更换敷料以及清创时可以使用局部麻醉剂，如阿片类或非阿片类药物。
+对于认知障碍的患者，生命体征的变化可作为疼痛的指标（例如心动过速、呼吸急促）。
+
+【感染控制】
+应经常观察压力性溃疡部位有无出现红斑增大、恶臭气味、皮温升高、引流物增加和高热、白细胞升高等，来评估有无细菌感染。愈合不佳的伤口应注意有无感染的发生。这些不正常的结果提示应进行创面培养。但是，因为所有的压力性溃疡都有细菌定植，培养结果应谨慎解读;菌落总数，而不是细菌存在更有指导价值。
+浅表皮肤感染或严重定植可采用磺胺嘧啶银、莫匹罗星、多粘菌素 B 和甲硝唑等药物进行局部治疗。磺胺嘧啶银和类似的不透明外用药应谨慎使用，因为它们会损害潜在伤口的可视性，并且可能难以清除。
+对于蜂窝织炎、菌血症或骨髓炎，应给予全身性抗生素治疗。应进行组织培养和/或血培养，随后开始经验性抗生素治疗，直到获得培养生长和药敏结果。然后应根据组织培养生长和药敏结果适当缩小治疗范围。如果可能的话组织培养始终优于表面拭子培养。限制广谱抗生素的使用对于防止不良反应、最大限度地减少细菌耐药性以及限制皮肤和肠道微生物群的破坏非常重要。
+
+【营养需求评估】
+多项研究（包括临床试验）的证据强调了在管理压力性损伤中个性化营养干预的重要性（7）。压力性损伤患者中营养不良常见，且是导致疗效差的危险因素之一。营养不良的指标包括：白蛋白＜3.5mg/dL(< 35 g/L) ，体重<80%标准体重。维促进伤口愈合，蛋白摄入应在1.25-1.5 g/kg/d，可通过口服、鼻饲或肠外营养。
+
+【辅助治疗】
+正在评估多种促进愈合的辅助疗法，但其益处仍不确定（3）。这些疗法包括以下内容：
+负压伤口治疗（真空辅助闭合，VAC）：该疗法用于对伤口进行抽吸。它可以用于清洁伤口。有效性方面高质量的证据仍然缺乏，但负压治疗在小规模研究中已经显示了一定的效果。
+负压伤口治疗（真空辅助闭合，VAC）：该疗法用于对伤口进行抽吸。它可以用于清洁伤口。有效性方面高质量的证据仍然缺乏，但负压治疗在小规模研究中已经显示了一定的效果。
+外用重组生长因子：一些证据表明，局部重组生长因子(如神经生长因子、血小板源性生长因子)促进伤口愈合。
+外用重组生长因子：一些证据表明，局部重组生长因子(如神经生长因子、血小板源性生长因子)促进伤口愈合。
+基于细胞和组织的产品：细胞和非细胞基质（即皮肤替代品）已被用于治疗各种慢性伤口，据报道对晚期压力损伤有益，但证据尚属初步，且缺乏随机试验。
+基于细胞和组织的产品：细胞和非细胞基质（即皮肤替代品）已被用于治疗各种慢性伤口，据报道对晚期压力损伤有益，但证据尚属初步，且缺乏随机试验。
+电刺激疗法：电刺激疗法与标准治疗相结合，可促进伤口愈合。
+电刺激疗法：电刺激疗法与标准治疗相结合，可促进伤口愈合。
+高压氧疗法：该疗法尚未确立为标准治疗方法，其作用仍处于研究阶段。在选定的难治性慢性不愈合伤口病例中，可将考虑将其作为辅助治疗手段。
+高压氧疗法：该疗法尚未确立为标准治疗方法，其作用仍处于研究阶段。在选定的难治性慢性不愈合伤口病例中，可将考虑将其作为辅助治疗手段。
+超声治疗：超声检查有时会使用，但是没有有益或有害的证据。
+超声治疗：超声检查有时会使用，但是没有有益或有害的证据。
+电磁、光疗（激光）热疗、按摩：尚无证据支持这些治疗方法的有效性。
+电磁、光疗（激光）热疗、按摩：尚无证据支持这些治疗方法的有效性。
+
+【外科治疗】
+大面积缺损需要手术闭合，特别是当伴随有下方肌肉骨骼结构暴露时。
+皮肤移植适合大而浅的缺损。但因为不能提供血供，需采取措施防止受压，以免组织缺血坏死。
+皮瓣，包括肌皮瓣、筋膜皮瓣和穿支皮瓣，是首选，并且是大骨突出（通常是骶骨、坐骨和转子）的闭合选择（8）。
+手术可能迅速改善压力性损伤患者的生活质量。若在手术前对营养不良、并存疾病等潜在风险因素进行最佳治疗，手术效果会更好。
+
+【治疗参考文献】
+1.Mervis JS, Phillips TJ.Pressure ulcers: Prevention and management.J Am Acad Dermatol.2019;81(4):893-902.doi:10.1016/j.jaad.2018.12.068
+1.Mervis JS, Phillips TJ.Pressure ulcers: Prevention and management.J Am Acad Dermatol.2019;81(4):893-902.doi:10.1016/j.jaad.2018.12.068
+2.Reddy M, Gill SS, Kalkar SR, et al.Treatment of pressure ulcers: a systematic review.JAMA.2008;300(22):2647-2662.doi:10.1001/jama.2008.778
+2.Reddy M, Gill SS, Kalkar SR, et al.Treatment of pressure ulcers: a systematic review.JAMA.2008;300(22):2647-2662.doi:10.1001/jama.2008.778
+3.Qaseem A, Humphrey LL, Forciea MA, et al; Clinical Guidelines Committee of the American College of Physicians.Treatment of pressure ulcers: a clinical practice guideline from the American College of Physicians.Ann Intern Med.2015;162(5):370-379.doi:10.7326/M14-1568
+3.Qaseem A, Humphrey LL, Forciea MA, et al; Clinical Guidelines Committee of the American College of Physicians.Treatment of pressure ulcers: a clinical practice guideline from the American College of Physicians.Ann Intern Med.2015;162(5):370-379.doi:10.7326/M14-1568
+4.National Clinical Guideline Centre (UK).The Prevention and Management of Pressure Ulcers in Primary and Secondary Care:NICE Clinical Guidelines, No. 179.London: National Institute for Health and Care Excellence (NICE); 2014.Accessed July 30, 2025.
+4.National Clinical Guideline Centre (UK).The Prevention and Management of Pressure Ulcers in Primary and Secondary Care:NICE Clinical Guidelines, No. 179.London: National Institute for Health and Care Excellence (NICE); 2014.Accessed July 30, 2025.
+5.Shi C, Dumville JC, Cullum N, et al.Beds, overlays and mattresses for preventing and treating pressure ulcers: an overview of Cochrane Reviews and network meta-analysis.Cochrane Database Syst Rev.2021;8(8):CD013761.Published 2021 Aug 16.doi:10.1002/14651858.CD013761.pub2
+5.Shi C, Dumville JC, Cullum N, et al.Beds, overlays and mattresses for preventing and treating pressure ulcers: an overview of Cochrane Reviews and network meta-analysis.Cochrane Database Syst Rev.2021;8(8):CD013761.Published 2021 Aug 16.doi:10.1002/14651858.CD013761.pub2
+6.Mallow PJ, Black J, Chaffin AE, et al.The economic and quality effects of wound cleansing with pure hypochlorous acid: evidence-based evaluation and clinical experience.Wounds.2024;36(10):S1-S13.doi:10.25270/wnds/24101
+6.Mallow PJ, Black J, Chaffin AE, et al.The economic and quality effects of wound cleansing with pure hypochlorous acid: evidence-based evaluation and clinical experience.Wounds.2024;36(10):S1-S13.doi:10.25270/wnds/24101
+7.Kassym L, Zhetmekova Z, Kussainova A, et al.Pressure Ulcers and Nutrients: From Established Evidence to Gaps in Knowledge.Curr Med Chem.Published online November 4, 2024.doi:10.2174/0109298673322825241018174928
+7.Kassym L, Zhetmekova Z, Kussainova A, et al.Pressure Ulcers and Nutrients: From Established Evidence to Gaps in Knowledge.Curr Med Chem.Published online November 4, 2024.doi:10.2174/0109298673322825241018174928
+8.Sameem M, Au M, Wood T, et al: A systematic review of complication and recurrence rates of musculocutaneous, fasciocutaneous, and perforator-based flaps for treatment of pressure sores.Plast Reconstr Surg130(1):67e–77e, 2012.doi: 10.1097/PRS.0b013e318254b19f
+8.Sameem M, Au M, Wood T, et al: A systematic review of complication and recurrence rates of musculocutaneous, fasciocutaneous, and perforator-based flaps for treatment of pressure sores.Plast Reconstr Surg130(1):67e–77e, 2012.doi: 10.1097/PRS.0b013e318254b19f
+
+【压力性损伤的预后】
+对于早期的压力性损伤，经过及时正确的治疗预后很好，但愈合通常需要数周时间。更严重的压力性损伤需要更长的愈合时间。
+压力性溃疡通常发生在接受非最佳治疗和/或具有严重损害伤口愈合的疾病（如糖尿病、营养不良、外周动脉疾病）的患者中。若创伤护理及合并疾病管理未能得到最佳优化，即使短期内伤口愈合良好，长期预后仍可能较差。
+
+【压力性损伤的预防】
+辨别高危人群
+辨别高危人群
+经常变更体位
+经常变更体位
+仔细的皮肤护理、注意患处卫生
+仔细的皮肤护理、注意患处卫生
+避免制动
+避免制动
+应根据熟练临床医生的评估和使用风险评估量表（例如，预测压疮风险的诺顿量表，布雷登量表）。
+多种方法既是治疗又是预防。预防的主要方法是通过频繁变换体位来实现减压。骨性表面受压时间应少于2小时。为无法移动的患者重新定位并准备枕头。 患者即使躺在低压床垫上也应经常翻身。至少每天一次在强光下检查受压处有无红斑或损伤。指导患者及其家属在易形成损伤处进行常规的视诊和触诊。
+保持卫生和干燥有利于预防浸渍和继发感染。可选择保护性枕头、垫或羊皮，以隔离身体表面。应经常更换被褥和衣服。对于失禁患者，可用合成敷料隔离创面以免污染。可以通过仔细清洁和擦干（轻拍而不是摩擦皮肤）以及使用抗念珠菌霜和粉末、含有氧化锌的保湿霜或皮肤保护湿巾来防止皮肤破损。黏合带有一定刺激，且易撕扯本已脆弱的皮肤，尽量少用。
+最重要的是，应该避免制动。镇静剂应尽量减少使用，病人在移动时应尽可能快速和安全。
+压力性损伤可能因制动和住院而继发，尤其易发生于65岁以上患者、新生儿、失禁或营养不良者。
+压力性损伤可能因制动和住院而继发，尤其易发生于65岁以上患者、新生儿、失禁或营养不良者。
+将压力损伤的风险建立在标准化评分系统和熟练临床医生评估的基础上。
+将压力损伤的风险建立在标准化评分系统和熟练临床医生评估的基础上。
+压力损伤根据深度进行分期，但组织损伤可能比仅通过体检发现的更深、更严重。
+压力损伤根据深度进行分期，但组织损伤可能比仅通过体检发现的更深、更严重。
+评估压力性损伤患者的局部伤口感染（有时表现为愈合不佳），窦道，蜂窝组织炎，菌血症（如心内膜炎或脑膜炎），骨髓炎和营养不良。
+评估压力性损伤患者的局部伤口感染（有时表现为愈合不佳），窦道，蜂窝组织炎，菌血症（如心内膜炎或脑膜炎），骨髓炎和营养不良。
+通过减少皮肤压力，频繁更换体位，并采用保护性支具，以及动态（电驱动）或静态（非电驱动）支撑板来治疗和预防压力性损伤。
+通过减少皮肤压力，频繁更换体位，并采用保护性支具，以及动态（电驱动）或静态（非电驱动）支撑板来治疗和预防压力性损伤。
+频繁清洁和包扎伤口，以减少细菌的数量并促进伤口愈合。
+频繁清洁和包扎伤口，以减少细菌的数量并促进伤口愈合。
+使用透明膜敷料、水胶体敷料或水凝胶敷料（如果渗出液很少）、藻酸盐敷料或凝胶纤维敷料（如果渗出液很多）或泡沫敷料（针对不同量的渗出液）。
+使用透明膜敷料、水胶体敷料或水凝胶敷料（如果渗出液很少）、藻酸盐敷料或凝胶纤维敷料（如果渗出液很多）或泡沫敷料（针对不同量的渗出液）。
+用镇痛药治疗疼痛，用靶向全身抗生素治疗蜂窝织炎或全身感染。
+用镇痛药治疗疼痛，用靶向全身抗生素治疗蜂窝织炎或全身感染。
+手术关闭大的缺损，尤其是那些有肌肉骨骼结构外露的。
+手术关闭大的缺损，尤其是那些有肌肉骨骼结构外露的。
+术前应使营养状态达到最佳并治疗合并症。
+术前应使营养状态达到最佳并治疗合并症。
+通过细致的伤口护理，降低皮肤表面压力，避免各种不必要的制动来防止高危患者压力性损伤的发生。
+通过细致的伤口护理，降低皮肤表面压力，避免各种不必要的制动来防止高危患者压力性损伤的发生。

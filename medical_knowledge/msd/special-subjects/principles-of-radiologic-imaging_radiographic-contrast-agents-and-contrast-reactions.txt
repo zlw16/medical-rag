@@ -1,0 +1,92 @@
+标题：放射性造影剂和造影剂反应
+来源：https://www.msdmanuals.cn/professional/special-subjects/principles-of-radiologic-imaging/radiographic-contrast-agents-and-contrast-reactions
+============================================================
+
+X线造影剂通常用于照相和透视以帮助界定放射密度相近的组织。
+选择合适的造影剂取决于目标器官系统和临床指征。
+基于碘的造影剂：这些水溶性药物可用于血管内导管血管造影和静脉尿路造影，或鞘内脊髓造影它们也适用于口服或直肠胃肠道成像，特别是在不推荐使用钡的情况下，例如在怀疑肠穿孔或肠瘘评估的情况下。
+基于碘的造影剂：这些水溶性药物可用于血管内导管血管造影和静脉尿路造影，或鞘内脊髓造影它们也适用于口服或直肠胃肠道成像，特别是在不推荐使用钡的情况下，例如在怀疑肠穿孔或肠瘘评估的情况下。
+硫酸钡造影剂：不溶性造影剂，可提供出色的粘膜涂层。口服钡用于吞钡和上胃肠道系列，以观察食管、胃和小肠，直肠钡用于结肠和直肠的钡灌肠研究。若怀疑肠穿孔，不应使用钡剂。
+硫酸钡造影剂：不溶性造影剂，可提供出色的粘膜涂层。口服钡用于吞钡和上胃肠道系列，以观察食管、胃和小肠，直肠钡用于结肠和直肠的钡灌肠研究。若怀疑肠穿孔，不应使用钡剂。
+空气或气体造影剂：在双重造影剂研究中，阴性造影剂常与钡联合使用，以改善粘膜细节。这些研究对于检测结肠息肉或狭窄很有用。
+空气或气体造影剂：在双重造影剂研究中，阴性造影剂常与钡联合使用，以改善粘膜细节。这些研究对于检测结肠息肉或狭窄很有用。
+大部分造影剂是含碘的。碘造影剂可以是:
+非离子的
+非离子的
+离子型造影剂,它们是盐，是血液高渗性的。这些制剂不应用于脊髓造影或可能进入脊椎管（存在神经毒性风险）或支气管树（存在肺水肿风险）的注射操作中。
+非离子型造影剂是低渗性（但相对血液仍是高渗的）或者等渗（与血液渗透压一样）。非离子造影剂由于副作用较少，几乎所有机构都常规使用。
+最严重的造影剂反应是：
+过敏性反应
+过敏性反应
+造影剂肾病（静脉注射造影剂后的肾损害）。
+造影剂肾病（静脉注射造影剂后的肾损害）。
+由于许多与造影剂及相关反应有关的操作方案具有特异性且持续更新，因此务必与影像科沟通具体细节。
+
+【过敏性造影剂反应】
+反应的严重程度不同：
+轻度（如轻度荨麻疹、咽喉痒、鼻塞）
+轻度（如轻度荨麻疹、咽喉痒、鼻塞）
+中度（例如，严重荨麻疹、轻度面部血管性水肿、喉咙发紧、喘息、脉搏或血压轻微变化）
+中度（例如，严重荨麻疹、轻度面部血管性水肿、喉咙发紧、喘息、脉搏或血压轻微变化）
+严重（例如血管性水肿、低氧血症的呼吸窘迫或多器官系统受累、心动过缓等心律失常、癫痫、休克、心肺骤停）
+严重（例如血管性水肿、低氧血症的呼吸窘迫或多器官系统受累、心动过缓等心律失常、癫痫、休克、心肺骤停）
+反应可以是立即的或延迟的。延迟反应可以从轻微的皮疹或荨麻疹到严重的皮肤不良反应或史蒂文斯-约翰逊综合征。
+其机制是类过敏反应(参见过敏反应)；风险因素包括以下方面:
+先前对注射造影剂有反应
+先前对注射造影剂有反应
+对于立即出现的反应，治疗首先要停止造影剂输注。
+对于轻微反应，静脉注射苯海拉明 25 至 50 毫克通常有效。
+对于中度或重度反应，治疗取决于反应类型，可能包括氧疗、肾上腺素、静脉输液及必要时使用阿托品（用于心动过缓）。对于有过敏反应的患者，应在2小时内进行血清类胰蛋白酶试验。
+有造影剂史或既往反应的患者有再次暴露的危险；贝类过敏史或“碘过敏”不会增加对比反应的风险 (1)。对于风险增加的患者，应尽可能进行无需碘造影剂的影像学检查。如果需要进行对比研究，则先前反应的严重程度应告知预处理的需要和类型，如下所示：
+既往轻度立即反应：不要预先用药；换一种不同的碘造影剂。
+既往轻度立即反应：不要预先用药；换一种不同的碘造影剂。
+先前的中度即时反应：考虑进行预处理；改用不同的碘化造影剂。
+先前的中度即时反应：考虑进行预处理；改用不同的碘化造影剂。
+先前的严重即时反应：提供预处理；改用不同的碘化造影剂。
+先前的严重即时反应：提供预处理；改用不同的碘化造影剂。
+先前的轻度延迟反应：考虑使用口服泼尼松进行预处理 (2)。
+先前的轻度延迟反应：考虑使用口服泼尼松进行预处理 (2)。
+既往迟发性严重皮肤反应（SCAR， Stevens-Johnson综合征）：避免使用任何含碘造影剂
+既往迟发性严重皮肤反应（SCAR， Stevens-Johnson综合征）：避免使用任何含碘造影剂
+对于没有有效的替代诊断研究的中度或重度即时反应的患者，预用药包括糖皮质激素和苯海拉明的联合用药。一种治疗方案为术前用药，具体包括泼尼松（po 50mg 造影剂注射前13小时、7小时、1小时）与苯海拉明（IV或IM或po 50mg 造影剂使用前1小时）。如果患者需要立即成像，可以在注射造影剂前 1 小时给予苯海拉明 50 mg IV、IM 或口服，并每 4 小时静脉注射 200 mg 氢化可的松，直至研究进行，如果可能，最好推迟成像，直到至少 2剂量氢化可的松已被管理（3)。
+
+【造影剂肾病】
+在造影剂肾病中，血清肌酐通常在静脉注射造影剂后24小时内开始升高，于第3至5天达到峰值，并在7至10天内恢复至基线水平；永久性肾功能损害较为罕见。
+常见的危险因素包括：
+预先存在肾功能不全（肌酐水平升高）
+预先存在肾功能不全（肌酐水平升高）
+糖尿病，尤其是在伴有慢性肾病的患者
+糖尿病，尤其是在伴有慢性肾病的患者
+心力衰竭
+心力衰竭
+多发性骨髓瘤
+多发性骨髓瘤
+年龄>70岁
+年龄>70岁
+使用其他对肾脏有害的药物
+使用其他对肾脏有害的药物
+对于在接受静脉注射碘基造影剂后可能出现急性肾损伤风险的患者，应该考虑采取以下措施：
+减少造影剂剂量
+减少造影剂剂量
+使用等渗剂
+使用等渗剂
+存在许多补水方案。一种方案建议在注射造影剂之前以每小时 100 mL 的速度注射生理盐水，持续 6 至 12 小时，并在注射造影剂后继续注射 4 至 12 小时（3）。
+尚未证明使用 N-乙酰半胱氨酸可有效预防造影剂肾病（4）。
+
+【乳酸性酸中毒】
+正在服用二甲双胍并因使用造影剂而出现急性肾损伤的患者存在发生乳酸性酸中毒的风险。如果患者患有慢性肾脏病且估算肾小球滤过率（eGFR）＜30 mL/min/1.73 m²、存在急性肾损伤，或正在接受可能造成肾动脉栓塞风险的动脉导管插入术，则应在造影剂给药后暂停使用二甲双胍48小时，待肾功能评估结果满意后方可恢复用药。二甲双胍本身不会增加造影剂肾病（3）的发生风险。
+
+【经验与提示】
+经验与提示
+如果发生急性肾损伤，则在静脉注射造影剂后48小时内停用二甲双胍，以避免乳酸性酸中毒，只有在确认肾功能改善后才能重新开始使用二甲双胍。
+如果发生急性肾损伤，则在静脉注射造影剂后48小时内停用二甲双胍，以避免乳酸性酸中毒，只有在确认肾功能改善后才能重新开始使用二甲双胍。
+
+【参考文献】
+1.Wang C, Ramsey A, Lang D, et al.Management and Prevention of Hypersensitivity Reactions to Radiocontrast Media: A Consensus Statement From the American College of Radiology and the AAAAI.J Allergy Clin Immunol Pract.Published online March 10, 2025.doi:10.1016/j.jaip.2025.01.042
+1.Wang C, Ramsey A, Lang D, et al.Management and Prevention of Hypersensitivity Reactions to Radiocontrast Media: A Consensus Statement From the American College of Radiology and the AAAAI.J Allergy Clin Immunol Pract.Published online March 10, 2025.doi:10.1016/j.jaip.2025.01.042
+2.Kim JH, Choi SI, Lee YJ, et al.Pharmacological prevention of delayed hypersensitivity reactions caused by iodinated contrast media.World Allergy Organ J.2021;14(7):100561.doi:10.1016/j.waojou.2021.100561
+2.Kim JH, Choi SI, Lee YJ, et al.Pharmacological prevention of delayed hypersensitivity reactions caused by iodinated contrast media.World Allergy Organ J.2021;14(7):100561.doi:10.1016/j.waojou.2021.100561
+3.American College of Radiology Committee on Drugs and Contrast Media of the ACR Commission on Quality and Safety: ACR Manual on Contrast Media.2025.Accessed July 25, 2025.
+3.American College of Radiology Committee on Drugs and Contrast Media of the ACR Commission on Quality and Safety: ACR Manual on Contrast Media.2025.Accessed July 25, 2025.
+4.Weisbord SD, Gallagher M, Jneid H, et al.Outcomes after Angiography withSodium BicarbonateandAcetylcysteine.N Engl J Med.2018;378(7):603-614.doi:10.1056/NEJMoa1710933
+4.Weisbord SD, Gallagher M, Jneid H, et al.Outcomes after Angiography withSodium BicarbonateandAcetylcysteine.N Engl J Med.2018;378(7):603-614.doi:10.1056/NEJMoa1710933

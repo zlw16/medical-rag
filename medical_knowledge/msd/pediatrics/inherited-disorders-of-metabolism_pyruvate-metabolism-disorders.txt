@@ -1,0 +1,32 @@
+标题：丙酮酸代谢障碍
+来源：https://www.msdmanuals.cn/professional/pediatrics/inherited-disorders-of-metabolism/pyruvate-metabolism-disorders
+============================================================
+
+丙酮酸是一种重要的碳水化合物代谢底物。丙酮酸代谢紊乱包括在碳水化合物代谢紊乱中。
+也可参见可疑遗传性代谢病的诊断程序
+
+【丙酮酸脱氢酶缺乏】
+丙酮酸脱氢酶是一种多酶复合物，负责将丙酮酸转化为乙酰CoA进入三羧酸循环酶缺乏会导致丙酮酸升高，继而引起乳酸水平升高为X连锁或常染色体隐性遗传。
+临床表现严重程度不一，包括乳酸血症、中枢神经系统畸形及其他产后变化，如大脑皮质、脑干和基底节的囊性病变；共济失调；精神运动发育迟缓。
+皮肤成纤维细胞中酶分析和（或）DNA测定可明确丙酮酸脱氢酶缺乏症诊断。（参见测试新陈代谢疑似遗传性疾病。）
+丙酮酸脱氢酶缺乏症尚无明确有效治疗，尽管低碳水化合物或生酮饮食及膳食硫胺素补充对部分患者有益。
+
+【丙酮酸羧化酶缺乏】
+丙酮酸羧化酶是一种对糖异生很重要的酶，它能催化丙酮酸转化为草酰乙酸。
+丙酮酸羧化酶缺乏症有 3 种类型：A 型（婴儿型）、B 型（严重新生儿型）和 C 型（间歇性/良性型）。
+缺乏症可为原发性，或继发于其他先天性代谢缺陷；所有类型的遗传方式均为常染色体隐性遗传，且均可导致乳酸酸中毒。
+原发性丙酮酸羧化酶缺乏发病率在<1/250,000，但在美洲印第安人群中可能高一些(1)。发育迟缓、癫痫和生长迟缓是其主要临床表现。其他的生化异常包括高氨血症、乳酸性酸中毒、酮症酸中毒；赖氨酸、瓜氨酸、丙氨酸、脯氨酸水平升高；α-酮戊二酸排泄增加。B 型的其他症状包括肝肿大、锥体束征和异常运动。C 型患者的神经发育正常或轻度延迟，并有发作性代谢性酸中毒。
+继发性丙酮酸羧化酶缺乏临床表现相似，伴有生长障碍、惊厥和其他有机酸尿症。
+丙酮酸羧化酶缺乏症的诊断可通过培养的皮肤成纤维细胞酶活性分析或DNA分析确认。
+丙酮酸羧化酶缺乏症尚无有效的治疗方法，但通过饮食管理和补充硫胺素，可以缓解部分患者的症状。
+大多数患有 A 型丙酮酸羧化酶缺乏症的儿童在婴儿期或幼儿期死亡。
+患有 B 型丙酮酸羧化酶缺乏症的婴儿在出生后 3 个月内死亡。
+
+【丙酮酸羧化酶缺乏症参考文献】
+1.Wang D, De Vivo D.Pyruvate Carboxylase Deficiency.In: Adam MP, Feldman J, Mirzaa GM, et al., eds.GeneReviews®.Seattle (WA): University of Washington, Seattle; June 2, 2009.
+1.Wang D, De Vivo D.Pyruvate Carboxylase Deficiency.In: Adam MP, Feldman J, Mirzaa GM, et al., eds.GeneReviews®.Seattle (WA): University of Washington, Seattle; June 2, 2009.
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information
+Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information

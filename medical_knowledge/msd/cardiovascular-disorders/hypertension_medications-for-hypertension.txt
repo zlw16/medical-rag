@@ -1,0 +1,260 @@
+标题：治疗高血压的药物
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/hypertension/medications-for-hypertension
+============================================================
+
+高血压的治疗包括生活方式的改变（例如饮食调整、减肥、锻炼），单独使用或与药物联合使用。是否进行药物治疗的决定基于血压 (BP) 水平、是否存在动脉粥样硬化性心血管疾病 (ASCVD) 或其危险因素，以及其他考虑因素。
+多种药物对于高血压的初始治疗和后续管理都是有效的 (1):
+血管紧张素转换酶（ACE）抑制剂
+血管紧张素转换酶（ACE）抑制剂
+血管紧张素II受体阻断剂(ARBs)
+血管紧张素II受体阻断剂(ARBs)
+钙通道阻滞剂
+钙通道阻滞剂
+直接肾素抑制剂
+直接肾素抑制剂
+β受体阻滞剂
+β受体阻滞剂
+α-肾上腺素能调节剂
+α-肾上腺素能调节剂
+直接血管扩张剂
+直接血管扩张剂
+治疗稳定期高血压的药物选择和使用在其他地方讨论。高血压急症的治疗，见表高血压急症的肠外用药。
+（参见高血压和高血压急症。）
+
+【常用药物参考】
+1.Writing Committee Members*, Jones DW, Ferdinand KC, et al.2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Hypertension.2025;82(10):e212-e316.doi:10.1161/HYP.0000000000000249
+1.Writing Committee Members*, Jones DW, Ferdinand KC, et al.2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Hypertension.2025;82(10):e212-e316.doi:10.1161/HYP.0000000000000249
+
+【高血压利尿剂】
+用于高血压的主要利尿剂类型（见表口服利尿剂治疗高血压）有
+噻嗪利尿剂
+噻嗪利尿剂
+保钾利尿剂
+保钾利尿剂
+袢利尿剂
+袢利尿剂
+利尿剂可能通过将细胞内的钠转移至细胞外从而适当减少血浆容量、降低血管阻力。
+噻嗪类利尿剂（噻嗪类利尿剂和噻嗪样利尿剂）最常用。噻嗪样利尿剂氯噻酮和吲达帕胺因效价更高（1）且作用时间更长，而优于氢氯噻嗪。然而，一项来自利尿剂比较项目的回顾性分析（2），以及在退伍军人中进行的另一项实用性试验（3）表明，氯噻酮尽管效力更强，但在降低心血管或肾脏疾病进展事件方面并没有比氢氯噻嗪更有优势。虽然曾认为噻嗪类利尿剂对4期慢性肾脏病患者无效，但氯噻酮已被证明能有效改善肾小球滤过率＜30毫升/分钟患者的血压（4）。除了其他降压作用外，只要血管内容量正常，噻嗪类利尿剂可引起少量血管舒张。在少数患者中，噻嗪类利尿剂能轻度升高血清胆固醇（主要是低密度脂蛋白胆固醇）和甘油三酯水平，然而这一作用可能不会持续>1年(5)。治疗4周内增加明显，并能够通过低脂饮食得到改善。 可能导致血脂轻度升高并不是血脂异常患者应用利尿剂的禁忌症。
+保钾利尿剂在控制高血压方面不如噻嗪类利尿剂有效，故不用于初始治疗。它们不会引起低钾血症、高尿酸血症或高血糖症，因此可能对出现噻嗪类利尿剂这些不良反应的患者有帮助。在使用血管紧张素转换酶（ACE）抑制剂或血管紧张素Ⅱ受体阻断剂时不需要用潴钾利尿剂或钾补充剂，因为这些药物会使血清钾升高。
+Loop diureticsare used to treat hypertension only in patients who have an estimated glomerular filtration rate (GFR)<30 mL/minute; these diuretics are given at least twice a day (except for torsemide which can be given once a day).
+除保钾远端小管利尿剂(如螺内酯)外，所有利尿剂均可引起明显的钾流失，因此每月测量一次血清钾，直至水平稳定。除非血清钾水平正常，否则动脉壁的钾通道将处于关闭状态，导致血管收缩，使血压（BP）难以达标。患者钾浓度<3.5 mEq/L(< 3.5 mmol/L)，给出钾补充剂。可以以较低剂量长期持续补充，或者可以添加保钾利尿剂（例如螺内酯、氨苯蝶啶、阿米洛利）。对于同时使用地高辛、存在心脏疾病、心电图异常、出现异位搏动或心律失常，或在利尿剂治疗期间发生异位搏动或心律失常的患者，建议加用保钾利尿剂或补钾。
+在大多数糖尿病的病人，噻嗪类并不影响糖尿病的控制。在极少数情况下，利尿剂会诱发或加重代谢综合征患者的 2 型糖尿病。
+遗传易感性似可解释极少数由利尿剂引起的高尿酸血症所致的痛风。利尿剂引起的不伴痛风的高尿酸血症不需治疗或停用利尿剂。
+利尿剂可能略微增加有心力衰竭病史且无肺淤血患者的死亡率，特别是那些同时服用ACE抑制剂或血管紧张素II受体阻滞剂并且每日饮水不足1400毫升（48盎司）者。死亡率的增加可能与利尿剂引起低钠血症和低血压有关。
+
+【治疗高血压的口服利尿剂】
+治疗高血压的口服利尿剂
+药物治疗
+重要的不良反应
+噻嗪类和类噻嗪类利尿剂(氯噻酮和吲达帕胺)
+低钾血症(会增加洋地黄的毒性)、高尿酸血症、葡萄糖耐受不良、高胆固醇血症、高甘油三酯血症、高钙血症、男性性功能障碍、虚弱、皮疹
+氢氯噻嗪
+吲达帕胺
+潴钾利尿剂
+阿米洛利
+高钾血症(特别是肾衰竭患者和接受血管紧张素转换酶抑制剂、血管紧张素II受体阻滞剂或非甾体抗炎药治疗的患者)、恶心、胃肠不适、男性乳房发育、月经不规律(使用螺内酯治疗)
+依普利酮*
+螺内酯*
+氨苯蝶啶
+袢利尿剂
+布美他尼
+高钾血症，低钠血症，低镁血症，脱水，体位性低血压，耳鸣，听力下降
+托拉塞米
+* 醛固酮受体阻断剂
+* 醛固酮受体阻断剂
+
+【利尿剂参考文献】
+1.Roush GC, Ernst ME, Kostis JB, Tandon S, Sica DA.Head-to-head comparisons ofhydrochlorothiazidewithindapamideandchlorthalidone: antihypertensive and metabolic effects.Hypertension.2015;65(5):1041-1046.doi:10.1161/HYPERTENSIONAHA.114.05021
+1.Roush GC, Ernst ME, Kostis JB, Tandon S, Sica DA.Head-to-head comparisons ofhydrochlorothiazidewithindapamideandchlorthalidone: antihypertensive and metabolic effects.Hypertension.2015;65(5):1041-1046.doi:10.1161/HYPERTENSIONAHA.114.05021
+2.Ishani A, Cushman WC, Leatherman SM, et al.Chlorthalidonevs.Hydrochlorothiazidefor Hypertension-Cardiovascular Events.N Engl J Med.2022;387(26):2401-2410.doi:10.1056/NEJMoa2212270
+2.Ishani A, Cushman WC, Leatherman SM, et al.Chlorthalidonevs.Hydrochlorothiazidefor Hypertension-Cardiovascular Events.N Engl J Med.2022;387(26):2401-2410.doi:10.1056/NEJMoa2212270
+3.Ishani A, Hau C, Raju S, et al.ChlorthalidonevsHydrochlorothiazideand Kidney Outcomes in Patients With Hypertension: A Secondary Analysis of a Randomized Clinical Trial.JAMA Netw Open.2024;7(12):e2449576.doi:10.1001/jamanetworkopen.2024.49576
+3.Ishani A, Hau C, Raju S, et al.ChlorthalidonevsHydrochlorothiazideand Kidney Outcomes in Patients With Hypertension: A Secondary Analysis of a Randomized Clinical Trial.JAMA Netw Open.2024;7(12):e2449576.doi:10.1001/jamanetworkopen.2024.49576
+4.Agarwal R, Sinha AD, Tu W:Chlorthalidonefor hypertension in Advanced CKD.Reply.N Engl J Med.2022;386(14):1384.doi:10.1056/NEJMc2201160
+4.Agarwal R, Sinha AD, Tu W:Chlorthalidonefor hypertension in Advanced CKD.Reply.N Engl J Med.2022;386(14):1384.doi:10.1056/NEJMc2201160
+5.Ott SM, LaCroix AZ, Ichikawa LE, Scholes D, Barlow WE.Effect of low-dose thiazide diuretics on plasma lipids: results from a double-blind, randomized clinical trial in older men and women.J Am Geriatr Soc.2003;51(3):340-347.doi:10.1046/j.1532-5415.2003.51107.x
+5.Ott SM, LaCroix AZ, Ichikawa LE, Scholes D, Barlow WE.Effect of low-dose thiazide diuretics on plasma lipids: results from a double-blind, randomized clinical trial in older men and women.J Am Geriatr Soc.2003;51(3):340-347.doi:10.1046/j.1532-5415.2003.51107.x
+
+【高血压 ACE 抑制剂】
+ACE抑制剂（见表口服ACE抑制剂和血管紧张素II受体阻滞剂治疗高血压）通过干扰血管紧张素I转化为血管紧张素Ⅱ并抑制缓激肽降解来降低血压，从而在降低周围血管阻力时不引起反射性心动过速。此类药物可降低多数高血压患者的血压，与血浆肾素活性无关。由于这些药物能提供肾脏保护作用，因此它们（与血管紧张素II受体阻滞剂）是糖尿病患者的首选药物。不建议在非洲裔患者中作为初始治疗药物使用，因为在这些患者中，使用这些药物作为初始治疗可能会增加卒中风险（1）。
+干咳、刺激性咳嗽是最常见的不良反应，估计在北美和欧洲人群中其发生率高达20%，在亚洲人群中高达40%（2、3）。血管性水肿是最严重的不良反应，如果影响口咽，可能致命。血管性水肿在非洲血统的患者和吸烟的患者中最为常见。
+ACE抑制剂可能升高血清钾及肌酐水平，特别是在慢性肾病患者和应用潴钾利尿剂、钾补充剂或非甾体消炎药（NSAIDs）的病人。
+ACE抑制剂禁用于妊娠。
+肾病患者应至少每3个月监测1次血清肌酐和钾水平。慢性肾病3期（估计肾小球滤过率（GFR）<60 mL/分钟至>30 mL/分钟）的病人用ACE抑制剂时通常能耐受血清肌酐比基线升高30%～35%。在以下患者中，ACE抑制剂可导致急性肾损伤：低血容量、严重心力衰竭、严重双侧肾动脉狭窄，或供应孤立肾动脉严重狭窄的患者。
+噻嗪类利尿剂增强ACE抑制剂和血管紧张素II受体阻滞剂的降压效果，比其他类型的降压药更明显（4,5）。螺内酯和依普利酮似乎也增强ACE抑制剂的效果。
+
+【治疗高血压的口服血管紧张素转换酶（ACE）抑制剂和血管紧张素II受体阻断剂（ARBs）】
+治疗高血压的口服血管紧张素转换酶（ACE）抑制剂和血管紧张素II受体阻断剂（ARBs）
+药物治疗
+重要的不良反应
+ACE抑制剂*
+贝那普利
+皮疹、咳嗽、血管性水肿、高钾血症（特别是肾功能不全或使用非甾体消炎药、潴钾利尿剂和钾补充剂的患者）、味觉障碍；如果肾动脉狭窄累及一侧或两侧肾脏并危及肾功能，可发生可逆性急性肾损伤；蛋白尿（采用推荐剂量时极少发生）、中性白细胞减少（少见）、开始治疗时低血压（特别是高血浆肾素活性的患者或由于利尿剂或其他原因致低血容量的患者）
+卡托普利
+依那普利
+福辛普利
+赖诺普利
+培哚普利
+喹那普利
+雷米普利
+群多普利
+血管紧张素II受体拮抗剂
+阿齐沙坦
+头晕、血管性水肿（非常少见）；理论上，本类药物对肾功能（蛋白尿和中性粒细胞减少除外）、血清钾和血压的不良作用与ACE抑制剂相似
+坎地沙坦
+厄贝沙坦
+奥美沙坦
+替米沙坦
+* 所有 ACE 抑制剂和血管紧张素II受体阻滞剂在怀孕期间是禁忌的（可能导致发育中的胎儿受伤或死亡）。
+* 所有 ACE 抑制剂和血管紧张素II受体阻滞剂在怀孕期间是禁忌的（可能导致发育中的胎儿受伤或死亡）。
+
+【ACE抑制剂参考文献】
+1.Palla M, Ando T, Androulakis E, Telila T, Briasoulis A.Renin-Angiotensin System Inhibitors vs Other Antihypertensives in Hypertensive Blacks: A Meta-Analysis.J Clin Hypertens (Greenwich).2017;19(4):344-350.doi:10.1111/jch.12867
+1.Palla M, Ando T, Androulakis E, Telila T, Briasoulis A.Renin-Angiotensin System Inhibitors vs Other Antihypertensives in Hypertensive Blacks: A Meta-Analysis.J Clin Hypertens (Greenwich).2017;19(4):344-350.doi:10.1111/jch.12867
+2.Israili ZH, Hall WD.Cough and angioneurotic edema associated with angiotensin-converting enzyme inhibitor therapy.A review of the literature and pathophysiology.Ann Intern Med.1992;117(3):234-242.doi:10.7326/0003-4819-117-3-234
+2.Israili ZH, Hall WD.Cough and angioneurotic edema associated with angiotensin-converting enzyme inhibitor therapy.A review of the literature and pathophysiology.Ann Intern Med.1992;117(3):234-242.doi:10.7326/0003-4819-117-3-234
+3.Woo KS, Nicholls MG.High prevalence of persistent cough with angiotensin converting enzyme inhibitors in Chinese.Br J Clin Pharmacol.1995;40(2):141-144.
+3.Woo KS, Nicholls MG.High prevalence of persistent cough with angiotensin converting enzyme inhibitors in Chinese.Br J Clin Pharmacol.1995;40(2):141-144.
+4.Townsend RR, Holland OB.Combination of converting enzyme inhibitor with diuretic for the treatment of hypertension.Arch Intern Med.1990;150(6):1175-1183.
+4.Townsend RR, Holland OB.Combination of converting enzyme inhibitor with diuretic for the treatment of hypertension.Arch Intern Med.1990;150(6):1175-1183.
+5.Lacourcière Y, Poirier L, Lefebvre J, Ross SA, Leenen FH.Increasing the doses of both diuretics and angiotensin receptor blockers is beneficial in subjects with uncontrolled systolic hypertension.Can J Cardiol.2010;26(8):313-319.doi:10.1016/s0828-282x(10)70442-6
+5.Lacourcière Y, Poirier L, Lefebvre J, Ross SA, Leenen FH.Increasing the doses of both diuretics and angiotensin receptor blockers is beneficial in subjects with uncontrolled systolic hypertension.Can J Cardiol.2010;26(8):313-319.doi:10.1016/s0828-282x(10)70442-6
+
+【用于高血压的血管紧张素II受体阻滞剂】
+血管紧张素II受体阻滞剂(见表口服ACE抑制剂和血管紧张素II受体阻滞剂治疗高血压)阻断血管紧张素II受体，因此干扰肾素-血管紧张素系统。血管紧张素II受体阻断剂和ACE抑制剂作为抗高血压药同样有效。血管紧张素II受体拮抗剂通过组织ACE封闭可能产生额外好处。在左心室衰竭或I型糖尿病肾病患者，这两类药有着相同的有益作用。血管紧张素Ⅱ受体阻滞剂不能与ACE抑制剂合用，但和β受体阻滞剂合用可降低心力衰竭患者的住院率。血管紧张素II受体阻滞剂可安全用于估计肾小球滤过率（GFR）>30 mL/分钟的患者，以降低心血管风险和肾脏疾病进展。
+不良事件的发生率很低；与ACE抑制剂相比，血管性水肿发生的频率要少得多。血管紧张素II受体阻滞剂在肾血管性高血压、血容量不足和严重心力衰竭患者中的使用注意事项与血管紧张素转换酶抑制剂相同（见表高血压的口服血管紧张素转换酶抑制剂和血管紧张素II受体阻滞剂）。妊娠期间禁用血管紧张素Ⅱ受体阻断剂。
+
+【用于高血压的钙通道阻滞剂】
+二氢吡啶类（见表用于高血压的口服钙通道阻滞剂）是有效的外周血管扩张剂，通过降低外周血管总阻力(TPR)降低血压；它们有时会引起反射性心动过速。
+非二氢吡啶类维拉帕米和地尔硫䓬减慢心率，延缓房室传导，降低心肌收缩力。这些药物不应开给患有二度或三度房室传导阻滞或左心室衰竭的患者。
+
+【治疗高血压的口服钙通道阻滞剂】
+治疗高血压的口服钙通道阻滞剂
+重要的不良反应
+二氢吡啶类
+氨氯地平
+头晕，脸红，头痛，虚弱，恶心，烧心，周围水肿，心动过速
+长期使用可能导致牙龈增生。
+禁用于心力衰竭（氨氯地平可能例外）
+短效硝苯地平可能与心肌梗死发生率增加有关
+非洛地平
+伊拉地平
+尼卡地平
+尼卡地平（持续释放）
+硝苯地平（缓释）
+尼索地平
+非二氢吡啶类
+地尔硫䓬（持续释放）
+头痛、头晕、乏力、潮红、外周水肿、心动过缓；可能出现肝功能障碍
+长期使用可能导致牙龈增生
+维拉帕米：便秘
+因负性肌力作用导致射血分数降低的心力衰竭、窦房结功能障碍或大于一度房室传导阻滞的患者禁用
+地尔硫䓬（缓释）
+维拉帕米
+维拉帕米（持续释放）
+应避免使用短效硝苯地平，因其可能增加急性心肌梗死风险（1）。
+对同时患有心绞痛、支气管痉挛性疾病、冠状动脉痉挛或雷诺现象的患者，钙通道阻滞剂优于β受体阻滞剂。
+
+【钙通道阻滞剂参考】
+1.Furberg CD, Psaty BM, Meyer JV.Nifedipine.Dose-related increase in mortality in patients with coronary heart disease.Circulation.1995;92(5):1326-1331.doi:10.1161/01.cir.92.5.1326
+1.Furberg CD, Psaty BM, Meyer JV.Nifedipine.Dose-related increase in mortality in patients with coronary heart disease.Circulation.1995;92(5):1326-1331.doi:10.1161/01.cir.92.5.1326
+
+【直接肾素抑制剂治疗高血压】
+阿利吉仑，直接肾素抑制剂，用于高血压治疗。
+与ACE抑制剂及血管紧张素II受体阻滞剂一样，阿利吉仑导致血钾及肌酐升高。阿利吉仑不应与ACE抑制剂或血管紧张素II受体阻断剂联合用于糖尿病患者或肾脏疾病患者（估计的GFR<60mL/min）。怀孕期间也是禁忌的。
+
+【β受体阻滞剂治疗高血压】
+β受体阻滞剂不是治疗高血压的一线药物。然而，它们可能对患有其他疾病的高血压患者有用，这些疾病可能会受益于β受体阻滞剂，例如心绞痛、既往心肌梗死或心力衰竭。否则，β受体阻滞剂对中风和总体死亡率的保护作用不如其他一些降压药（1，2）。
+β受体阻滞剂（见表口服β受体阻滞剂治疗高血压）通过减慢心率、减弱心肌收缩力来降低血压。所有β受体阻滞剂的降压效果相似。心脏选择性β受体阻滞剂（例如，醋丁洛尔、阿替洛尔、倍他洛尔、比索洛尔、美托洛尔）通常优于非选择性药物，因为它们可能减少支气管收缩和外周血管扩张，这对于患有糖尿病（增加低血糖的风险）、慢性外周动脉疾病（损害功能）或慢性阻塞性肺疾病（COPD，通过增强支气管痉挛）的患者尤其重要。然而，心脏选择性只是相对的，会随着剂量的增加而降低。对于具有明显支气管痉挛成分的慢性阻塞性肺病患者，即使是心脏选择性β受体阻滞剂也应谨慎使用。
+
+【治疗高血压的口服β受体阻滞剂】
+治疗高血压的口服β受体阻滞剂
+重要的不良反应
+醋丁洛尔*,†
+支气管痉挛、疲乏、失眠、性功能障碍、加剧心力衰竭、掩盖低血糖症状、甘油三酯血症、增加总胆固醇、降低高密度脂蛋白胆固醇（除外吲哚洛尔、醋丁洛尔、卡替洛尔和拉贝洛尔）
+禁忌用于大于1度房室传导阻滞或病态窦综合征的患者
+哮喘病人应避免使用
+患有严重COPD、心力衰竭或正在使用胰岛素的患者应谨慎使用
+冠状动脉病患者不可突然停药
+比索洛尔、卡维地洛和美托洛尔可用于治疗心力衰竭
+阿替洛尔*
+倍他洛尔*
+比索洛尔*
+卡维地洛‡
+卡维地洛（控释）‡
+拉贝洛尔‡,§
+美托洛尔*
+美托洛尔（缓释）
+纳多洛尔
+奈必洛尔
+吲哚洛尔†
+普萘洛尔
+普萘洛尔（长效）
+噻吗洛尔
+* 心脏选择性
+†有内源性拟交感活性。
+‡ α-β受体阻滞剂。对高血压危症，拉贝洛尔也可静脉给予。
+§ 也可用于高血压紧急情况。
+* 心脏选择性
+†有内源性拟交感活性。
+‡ α-β受体阻滞剂。对高血压危症，拉贝洛尔也可静脉给予。
+§ 也可用于高血压紧急情况。
+有内源性拟交感活性的β受体阻滞剂（如醋丁洛尔、吲哚洛尔）对血脂无不良影响，也很少引起严重的心动过缓。
+β受体阻滞剂有中枢神经系统(CNS)的不良影响（睡眠障碍、疲乏、嗜睡），并加重抑郁症。纳多洛尔影响中枢神经系统最少，当必须避免中枢神经系统作用时为最好选择。β受体阻滞剂禁用于二度或三度房室传导阻滞或窦房结功能障碍患者。患有哮喘的患者通常应避免使用β受体阻滞剂，因为除了引发支气管痉挛外，它们还会对吸入或口服β受体激动剂的效果产生抵抗作用（3）。
+
+【β受体阻滞剂参考文献】
+1.Thomopoulos C, Bazoukis G, Tsioufis C, Mancia G.Beta-blockers in hypertension: overview and meta-analysis of randomized outcome trials.J Hypertens.2020;38(9):1669-1681.doi:10.1097/HJH.0000000000002523
+1.Thomopoulos C, Bazoukis G, Tsioufis C, Mancia G.Beta-blockers in hypertension: overview and meta-analysis of randomized outcome trials.J Hypertens.2020;38(9):1669-1681.doi:10.1097/HJH.0000000000002523
+2.Wiysonge CS, Bradley HA, Volmink J, Mayosi BM, Opie LH.Beta-blockers for hypertension.Cochrane Database Syst Rev.2017;1(1):CD002003.doi:10.1002/14651858.CD002003.pub5
+2.Wiysonge CS, Bradley HA, Volmink J, Mayosi BM, Opie LH.Beta-blockers for hypertension.Cochrane Database Syst Rev.2017;1(1):CD002003.doi:10.1002/14651858.CD002003.pub5
+3.Morales DR, Jackson C, Lipworth BJ, Donnan PT, Guthrie B.Adverse respiratory effect of acute β-blocker exposure in asthma: a systematic review and meta-analysis of randomized controlled trials.Chest.2014;145(4):779-786.doi:10.1378/chest.13-1235
+3.Morales DR, Jackson C, Lipworth BJ, Donnan PT, Guthrie B.Adverse respiratory effect of acute β-blocker exposure in asthma: a systematic review and meta-analysis of randomized controlled trials.Chest.2014;145(4):779-786.doi:10.1378/chest.13-1235
+
+【用于高血压的α肾上腺素能调节剂】
+肾上腺素能调节剂包括中枢性α2激动剂、突触后α1阻断剂和外周作用的非选择性肾上腺素能阻断剂（见表用于高血压的肾上腺素能调节剂）。
+
+【用于高血压的α肾上腺素能调节剂】
+用于高血压的α肾上腺素能调节剂
+药物治疗*
+重要的不良反应
+α2激动剂（作用于中枢）
+嗜睡、镇静、口干、疲劳、性功能障碍；若突然停药，可能出现反跳性高血压（尤其是在剂量较高或仍同时服用 β 受体阻滞剂的情况下）；可乐定贴剂可能引起局部皮肤反应；甲基多巴则可能导致肝损伤、库姆斯试验阳性的溶血性贫血。
+因为可能会发生体位性低血压，老年人应慎用
+会干扰荧光法测定尿儿茶酚胺水平
+不应与α-1受体阻滞剂合用，因为存在发生严重体位性低血压的风险。
+可乐定TTS（贴片）
+甲基多巴
+α-1受体阻滞剂
+多沙唑嗪
+首次剂量晕厥、直立性低血压、乏力、心悸、头痛
+因为可能会发生体位性低血压，老年人应慎用
+减轻良性前列腺增生的症状
+特拉唑嗪
+*外周作用肾上腺素受体阻滞剂（如胍那决尔、胍乙啶、利血平）在美国无法获得。
+TTS=经皮治疗系统。
+*外周作用肾上腺素受体阻滞剂（如胍那决尔、胍乙啶、利血平）在美国无法获得。
+TTS=经皮治疗系统。
+α2激动剂（如甲基多巴、可乐定、胍法辛）可刺激脑干α2肾上腺素能受体，降低交感神经活性，降低血压。由于其具有中枢作用，与其他抗高血压药相比，它们更有可能导致嗜睡、乏力、抑郁；它们使用并不广泛。可乐定可以作为贴剂每周一次透皮使用；因此，它对于难以坚持治疗的患者（例如痴呆症患者）可能有用。突然停用口服可乐定可能会导致反跳性高血压。
+突触后α-1受体阻滞剂（如哌唑嗪、特拉唑嗪、多沙唑嗪）因不良反应且无法降低死亡率，不作为高血压的一线治疗。多沙唑嗪单独使用，或与除利尿剂外的其他抗高血压药合用时增加心力衰竭的危险。其他不良反应包括首剂晕厥、直立性低血压、虚弱、心悸和头痛。但是，突触后α-1受体阻滞剂可用于前列腺肥大者和需要第四种抗高血压药患者，或者已经使用最大剂量β受体阻滞剂的交感神经张力高（即心率快、血压波动大）的人群。
+
+【治疗高血压的直接血管扩张剂】
+直接血管扩张剂，包括米诺地尔和肼屈嗪（参见表治疗高血压的直接血管扩张剂），直接作用于血管，不依赖于自主神经系统。米诺地尔比肼屈嗪更有效，但副作用更多，包括钠水潴留和多毛症，这些副作用可能难以耐受。米诺地尔应仅用于严重、难治性高血压。
+肼屈嗪可用于妊娠期间（如先兆子痫）以及作为辅助抗高血压药。肼屈嗪（特别是在剂量>200 毫克/天）与药物诱发的狼疮有关，停药后狼疮就会消失（1）。它还与药物诱导的抗中性粒细胞胞浆抗体 (ANCA) 相关血管炎有关（2）。
+
+【治疗高血压的直接血管扩张剂】
+治疗高血压的直接血管扩张剂
+药物治疗
+主要不良反应*
+抗核抗体阳性，药物导致的狼疮（推荐剂量时很少发生）
+加强其他扩血管药的血管扩张作用
+米诺地尔
+钠水潴留、多毛症；可能会产生新的或加重原有的胸腔或心包积液
+保留用于严重的难治性高血压
+* 两药均可引起头痛、心动过速和水潴留，并可能诱发冠状动脉疾病（CAD）患者的心绞痛。
+* 两药均可引起头痛、心动过速和水潴留，并可能诱发冠状动脉疾病（CAD）患者的心绞痛。
+
+【直接血管扩张剂参考文献】
+1.Handler J.Hydralazine-induced lupus erythematosis.J Clin Hypertens (Greenwich).2012;14(2):133-136.doi:10.1111/j.1751-7176.2011.00573.x
+1.Handler J.Hydralazine-induced lupus erythematosis.J Clin Hypertens (Greenwich).2012;14(2):133-136.doi:10.1111/j.1751-7176.2011.00573.x
+2.Santoriello D, Bomback AS, Kudose S, et al.Anti-neutrophil cytoplasmic antibody associated glomerulonephritis complicating treatment withhydralazine.Kidney Int.2021;100(2):440-446.doi:10.1016/j.kint.2021.03.029
+2.Santoriello D, Bomback AS, Kudose S, et al.Anti-neutrophil cytoplasmic antibody associated glomerulonephritis complicating treatment withhydralazine.Kidney Int.2021;100(2):440-446.doi:10.1016/j.kint.2021.03.029

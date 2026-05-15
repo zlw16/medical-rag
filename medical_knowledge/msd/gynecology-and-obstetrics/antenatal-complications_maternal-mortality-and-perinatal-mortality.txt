@@ -1,0 +1,84 @@
+标题：孕产妇死亡率和围产期死亡率
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/antenatal-complications/maternal-mortality-and-perinatal-mortality
+============================================================
+
+孕产妇死亡是指妇女在怀孕期间或终止怀孕后 42 天内死亡，无论怀孕时间和地点，由于与怀孕或妊娠管理有关或因怀孕或妊娠管理而加剧的任何原因，但不包括意外或偶然原因。
+2021 年，美国孕产妇死亡率为 32.9 例死亡/100,000 例活产，而 2020 年为 23.8 例死亡/100,000 例活产，2019 年为 20.1 例死亡/100,000 例活产（1）。美国的孕产妇死亡率高于欧洲国家（如德国、荷兰、波兰、西班牙、瑞典、瑞士、英国）。（见表2020 年部分国家孕产妇死亡率。)
+
+【特定国家的孕产妇死亡率，2020 年】
+特定国家的孕产妇死亡率，2020 年
+孕产妇死亡率*
+澳大利亚
+波多黎各
+俄罗斯联邦
+大不列颠及北爱尔兰联合王国
+*孕产妇死亡率是指，每10万活产婴儿中，妊娠期间或产后42天内因妊娠相关疾病死亡的妇女数。2020年，这一比率从2/10万活产婴儿（波兰），到1223/10万（南苏丹）不等（未列出国家）。
+Reference:Trends in maternal mortality 2000 to 2020: Estimates by WHO, UNICEF, UNFPA, World Bank Group and UNDESA/Population Division.Geneva: World Health Organization; 2023.
+*孕产妇死亡率是指，每10万活产婴儿中，妊娠期间或产后42天内因妊娠相关疾病死亡的妇女数。2020年，这一比率从2/10万活产婴儿（波兰），到1223/10万（南苏丹）不等（未列出国家）。
+Reference:Trends in maternal mortality 2000 to 2020: Estimates by WHO, UNICEF, UNFPA, World Bank Group and UNDESA/Population Division.Geneva: World Health Organization; 2023.
+在世界范围内，孕产妇死亡率在种族和族裔方面存在显著差异。在美国，2021 年非西班牙裔黑人女性的发病率最高（69.9/100,000），而西班牙裔女性和非西班牙裔白人女性的发病率分别为 28/100,000 和 26.6/100,000（1）。在巴西，非洲裔妇女的产妇死亡率比白人妇女高出约 5 倍（2）。在英国，黑人女性的发病率比白人女性高出 5 倍以上（3）。
+2013 年全球孕产妇死亡百分比大致如下（4)：
+产前: 25%
+产前: 25%
+产时和产后：28%
+产时和产后：28%
+产后后期：36%
+产后后期：36%
+超过 42 天但少于分娩后 1 年：12%
+超过 42 天但少于分娩后 1 年：12%
+孕产妇死亡统计数据包括直接产科原因和间接原因。全世界最常见的孕产妇死亡原因是：(5)
+出血，多为产后出血（27%）
+出血，多为产后出血（27%）
+妊娠期高血压疾病，包括先兆子痫(14%)
+妊娠期高血压疾病，包括先兆子痫(14%)
+流产，包括人工流产、自然流产和异位妊娠(8%)
+流产，包括人工流产、自然流产和异位妊娠(8%)
+分娩并发症（3%）
+分娩并发症（3%）
+难产（3%）
+难产（3%）
+脓毒症(11%)
+脓毒症(11%)
+肺栓塞(3%)
+肺栓塞(3%)
+既往病史（15%）
+既往病史（15%）
+HIV感染(6%)
+HIV感染(6%)
+通常，导致孕产妇死亡的几个因素（6）包括：
+延迟决定就医
+延迟决定就医
+延迟到达适当的医疗机构（通常是因为距离或缺乏交通工具）
+延迟到达适当的医疗机构（通常是因为距离或缺乏交通工具）
+延迟在医疗机构接受充分护理
+延迟在医疗机构接受充分护理
+大约五分之四的孕产妇死亡是可以预防的(7)。
+围产儿死亡率是指妊娠末期胎儿死亡或婴儿早期死亡。定义各不相同，但围产期死亡率的一个定义是每 1000 个活产婴儿中出生不足 7 天的婴儿死亡数和妊娠≥ 28 周的胎儿死亡数。
+2021 年美国围产儿死亡率为每 1000 名活产婴儿 5.5 人 (8)。1990 年至 2011 年，该比率下降了 30%，2011 年至 2016 年保持稳定，2017 年至 2019 年下降了 4%。
+母亲种族和民族的比例为
+非西班牙裔白人女性的孩子为 4.7
+非西班牙裔白人女性的孩子为 4.7
+非西班牙裔黑人女性的孩子为 9.5
+非西班牙裔黑人女性的孩子为 9.5
+西班牙裔女性的孩子为 4.9
+西班牙裔女性的孩子为 4.9
+围产期死亡的原因包括死胎以及新生儿死亡。死产的原因可能是胎儿、母亲或胎盘（见表格死产的一些原因和危险因素）。
+新生儿期被定义为出生后的头28天。多数的新生儿死亡（75%）发生在出生后 7 天内（见世界卫生组织:新生儿死亡率）。2019年，全球新生儿死亡的主要原因是早产、分娩相关并发症（出生窒息或出生时呼吸不足）、感染和出生缺陷。
+
+【孕产妇和围产期死亡率参考资料】
+1.Hoyert DL.Maternal mortality rates in the United States, 2021.Centers for Disease Control and Prevention: National Center for Health Statistics Health, E-Stats, 2023.doi: https://dx.doi.org/10.15620/cdc:124678
+1.Hoyert DL.Maternal mortality rates in the United States, 2021.Centers for Disease Control and Prevention: National Center for Health Statistics Health, E-Stats, 2023.doi: https://dx.doi.org/10.15620/cdc:124678
+2.Small M, Allen T, Brown HL: Global disparities in maternal morbidity and mortality.Semin Perinatol41 (5): 318–322, 2017.doi: 10.1053/j.semperi.2017.04.009
+2.Small M, Allen T, Brown HL: Global disparities in maternal morbidity and mortality.Semin Perinatol41 (5): 318–322, 2017.doi: 10.1053/j.semperi.2017.04.009
+3.Knight M, Bunch K, Kenyon S, Tuffnell D, Kurinczuk JJ: A national population-based cohort study to investigate inequalities in maternal mortality in the United Kingdom, 2009-17.Paediatr Perinat Epidemiol.2020;34(4):392-398.doi:10.1111/ppe.12640
+3.Knight M, Bunch K, Kenyon S, Tuffnell D, Kurinczuk JJ: A national population-based cohort study to investigate inequalities in maternal mortality in the United Kingdom, 2009-17.Paediatr Perinat Epidemiol.2020;34(4):392-398.doi:10.1111/ppe.12640
+4.Kassebaum NJ, Bertozzi-Villa A, Coggeshall MS: Global, regional, and national levels and causes of maternal mortality during 1990–2013: A systematic analysis for the Global Burden of Disease Study 2013.Lancet13;384 (9947):980–1004, 2014.doi: 10.1016/S0140-6736(14)60696-6
+4.Kassebaum NJ, Bertozzi-Villa A, Coggeshall MS: Global, regional, and national levels and causes of maternal mortality during 1990–2013: A systematic analysis for the Global Burden of Disease Study 2013.Lancet13;384 (9947):980–1004, 2014.doi: 10.1016/S0140-6736(14)60696-6
+5.Say L, Chou D, Gemmill A, et al: Global causes of maternal death: A WHO systematic analysis.Lancet Glob Health2 (6):e323–33, 2014.doi: 10.1016/S2214-109X(14)70227-X
+5.Say L, Chou D, Gemmill A, et al: Global causes of maternal death: A WHO systematic analysis.Lancet Glob Health2 (6):e323–33, 2014.doi: 10.1016/S2214-109X(14)70227-X
+6.Barnes-Josiah D, Myntti C, Augustin A: The “three delays” as a framework for examining maternal mortality in Haiti.Soc Sci Med46 (8):981–993, 1998.doi: 10.1016/s0277-9536(97)10018-1
+6.Barnes-Josiah D, Myntti C, Augustin A: The “three delays” as a framework for examining maternal mortality in Haiti.Soc Sci Med46 (8):981–993, 1998.doi: 10.1016/s0277-9536(97)10018-1
+7.Trost SL, Beauregard J, Njie F, et al: Pregnancy-Related Deaths: Data from Maternal Mortality Review Committees in 36 US States, 2017-2019.Atlanta, GA: Centers for Disease Control and Prevention, US Department of Health and Human Services; 2022
+7.Trost SL, Beauregard J, Njie F, et al: Pregnancy-Related Deaths: Data from Maternal Mortality Review Committees in 36 US States, 2017-2019.Atlanta, GA: Centers for Disease Control and Prevention, US Department of Health and Human Services; 2022
+8.Valenzuela CP, Gregory ECW, Martin JA: Perinatal Mortality in the United States, 2020-2021. NCHS Data Brief.2023;(489):1-8
+8.Valenzuela CP, Gregory ECW, Martin JA: Perinatal Mortality in the United States, 2020-2021. NCHS Data Brief.2023;(489):1-8

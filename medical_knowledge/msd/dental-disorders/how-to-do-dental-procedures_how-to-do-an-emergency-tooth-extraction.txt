@@ -1,0 +1,207 @@
+标题：如何进行紧急拔牙
+来源：https://www.msdmanuals.cn/professional/dental-disorders/how-to-do-dental-procedures/how-to-do-an-emergency-tooth-extraction
+============================================================
+
+即使有必要，紧急拔牙通常也是由牙医完成的，除非没有牙科医生（例如，在偏远地区或某些紧急情况下）。
+
+【紧急拔牙的适应症】
+不能存活，无法修复的牙齿发生严重感染
+不能存活，无法修复的牙齿发生严重感染
+明显的牙齿松动（例如，由感染，牙周疾病，外伤引起）有引起误吸的风险
+明显的牙齿松动（例如，由感染，牙周疾病，外伤引起）有引起误吸的风险
+不可修复的牙齿可能是由于龋齿, 牙髓坏死，牙周疾病继发骨质流失 , 或外伤导致牙齿缺血或断裂。
+
+【紧急拔牙的禁忌证】
+绝对禁忌证
+该部位先前曾受到强烈辐射（拔除可能会促使放射性骨坏死）
+该部位先前曾受到强烈辐射（拔除可能会促使放射性骨坏死）
+该部位靠近感染或恶性肿瘤区域（拔除可能会扩散疾病）
+该部位靠近感染或恶性肿瘤区域（拔除可能会扩散疾病）
+相邻结构断裂（牙齿可能使断端稳定）
+相邻结构断裂（牙齿可能使断端稳定）
+相对禁忌证
+接受注射双膦酸盐或RANK-配体（核因子-κB-配体的受体激活剂）抑制剂治疗的患者（如癌症患者）：拔除可能促使骨坏死。
+接受注射双膦酸盐或RANK-配体（核因子-κB-配体的受体激活剂）抑制剂治疗的患者（如癌症患者）：拔除可能促使骨坏死。
+凝血障碍*：如果可行，应在手术前纠正。
+凝血障碍*：如果可行，应在手术前纠正。
+妊娠期：许多指南指出，患者在整个妊娠期间均可接受安全治疗。真正的选择性治疗理想上应在孕早期推迟，以防止对发育中的胎儿造成潜在伤害（1）。
+妊娠期：许多指南指出，患者在整个妊娠期间均可接受安全治疗。真正的选择性治疗理想上应在孕早期推迟，以防止对发育中的胎儿造成潜在伤害（1）。
+口服双膦酸盐（例如治疗骨质疏松）的骨坏死风险明显低于注射用双膦酸盐 (2)。然而，在老年患者中，或接受化疗或糖皮质激素治疗或有多种系统性疾病的患者中，特别是在下颌骨，较低的风险仍然存在。
+*治疗性抗凝（例如治疗肺栓塞）增加拔牙出血的风险，但若逆转抗凝，必须衡量增加的血栓形成风险（如卒中）。与管理患者抗凝治疗的临床医生讨论任何预期的逆转，然后与患者讨论 (3–5)。
+
+【禁忌症的参考文献】
+1.Bao J, Huang X, Wang L, He Y, Rasubala L, Ren YF.Clinical practice guidelines for oral health care during pregnancy: a systematic evaluation and summary recommendations for general dental practitioners.Quintessence Int.2022;53(4):362-373.doi:10.3290/j.qi.b2644863
+1.Bao J, Huang X, Wang L, He Y, Rasubala L, Ren YF.Clinical practice guidelines for oral health care during pregnancy: a systematic evaluation and summary recommendations for general dental practitioners.Quintessence Int.2022;53(4):362-373.doi:10.3290/j.qi.b2644863
+2.Ruggiero SL, Dodson TB, Aghaloo T, Carlson ER, Ward BB, Kademani D.American Association of Oral and Maxillofacial Surgeons' Position Paper on Medication-Related Osteonecrosis of the Jaws-2022 Update.J Oral Maxillofac Surg.2022 May;80(5):920-943.doi: 10.1016/j.joms.2022.02.008
+2.Ruggiero SL, Dodson TB, Aghaloo T, Carlson ER, Ward BB, Kademani D.American Association of Oral and Maxillofacial Surgeons' Position Paper on Medication-Related Osteonecrosis of the Jaws-2022 Update.J Oral Maxillofac Surg.2022 May;80(5):920-943.doi: 10.1016/j.joms.2022.02.008
+3.Kaplovitch E, Dounaevskaia V.Treatment in the dental practice of the patient receiving anticoagulation therapy.J Am Dent Assoc.2019 Jul;150(7):602-608.doi: 10.1016/j.adaj.2019.02.011
+3.Kaplovitch E, Dounaevskaia V.Treatment in the dental practice of the patient receiving anticoagulation therapy.J Am Dent Assoc.2019 Jul;150(7):602-608.doi: 10.1016/j.adaj.2019.02.011
+4.Curtis J, Henderson DP, Zarghami M, Rashedi S, Bikdeli B.Management of antithrombotic therapy in patients undergoing dental procedures.J Thromb Haemost.2025 Jan;23(1):47-72.doi: 10.1016/j.jtha.2024.09.022
+4.Curtis J, Henderson DP, Zarghami M, Rashedi S, Bikdeli B.Management of antithrombotic therapy in patients undergoing dental procedures.J Thromb Haemost.2025 Jan;23(1):47-72.doi: 10.1016/j.jtha.2024.09.022
+5.Suresh V, Bishawi M, Manning MW, Patel C, Rogers J, Milano C, Schroder J, Daneshmand M, Powers D.Management of Patients With Left Ventricular Assist Devices Requiring Teeth Extraction: Is Halting Anticoagulation Appropriate?J Oral Maxillofac Surg.2018 Sep;76(9):1859-1863.doi: 10.1016/j.joms.2017.10.022
+5.Suresh V, Bishawi M, Manning MW, Patel C, Rogers J, Milano C, Schroder J, Daneshmand M, Powers D.Management of Patients With Left Ventricular Assist Devices Requiring Teeth Extraction: Is Halting Anticoagulation Appropriate?J Oral Maxillofac Surg.2018 Sep;76(9):1859-1863.doi: 10.1016/j.joms.2017.10.022
+
+【紧急拔牙的并发症】
+由于用力过大或方向错误而导致上颌附近的粘膜，牙齿，上颌骨（如上颌粗隆或上颌窦）或下颌骨（如骨折，颞下颌关节损伤）受损
+由于用力过大或方向错误而导致上颌附近的粘膜，牙齿，上颌骨（如上颌粗隆或上颌窦）或下颌骨（如骨折，颞下颌关节损伤）受损
+拔除上颌磨牙或某些前磨牙时上颌窦穿孔
+拔除上颌磨牙或某些前磨牙时上颌窦穿孔
+神经损伤导致感觉改变（例如，麻木，长期疼痛，超敏反应，味觉丧失）
+神经损伤导致感觉改变（例如，麻木，长期疼痛，超敏反应，味觉丧失）
+牙齿缺失或上颌窦内牙齿碎片
+牙齿缺失或上颌窦内牙齿碎片
+牙齿抽吸
+牙齿抽吸
+
+【紧急拔牙设备】
+牙科椅，带头部支撑的直椅或担架
+牙科椅，带头部支撑的直椅或担架
+口腔内照明光源
+口腔内照明光源
+非无菌手套
+非无菌手套
+面罩和安全眼镜，或防护面罩
+面罩和安全眼镜，或防护面罩
+牙镜或舌片
+牙镜或舌片
+抽吸器，最好是尖端较窄（3-5毫米）而非Yankauer吸引棒
+抽吸器，最好是尖端较窄（3-5毫米）而非Yankauer吸引棒
+下颌牙橡胶咬合块（通过防止对下颌骨施加过大的压力来保护TMJ，儿童尺寸通常足以用于儿童和成人）
+下颌牙橡胶咬合块（通过防止对下颌骨施加过大的压力来保护TMJ，儿童尺寸通常足以用于儿童和成人）
+牵开器（例如，Minnesota脸颊牵开器，Weider舌头牵开器）
+牵开器（例如，Minnesota脸颊牵开器，Weider舌头牵开器）
+升降器—＃9 Molt：骨膜升降器； ＃301（窄）或＃34（宽）：直向升降器； ＃92：卡销升降器
+升降器—＃9 Molt：骨膜升降器； ＃301（窄）或＃34（宽）：直向升降器； ＃92：卡销升降器
+镊钳-＃150或＃150S（小）：通用上钳； ＃151或＃151S（小）：通用下钳
+镊钳-＃150或＃150S（小）：通用上钳； ＃151或＃151S（小）：通用下钳
+最小的基本牙科器械包括小型骨膜提升器（Molt或Freer），＃301提升器和通用钳子（＃150 –上钳，＃151 –下钳）。
+局部麻醉设备
+局部麻醉药膏*（例如5％利多卡因，20％苯佐卡因）
+局部麻醉药膏*（例如5％利多卡因，20％苯佐卡因）
+可注射的局部麻醉药，如2％利多卡因与1：100,000肾上腺素†，或较长效麻醉剂，0.5％布比卡因与1：200,000肾上腺素†
+可注射的局部麻醉药，如2％利多卡因与1：100,000肾上腺素†，或较长效麻醉剂，0.5％布比卡因与1：200,000肾上腺素†
+牙科抽吸注射器（带有窄针筒和定制的注射麻醉药筒）或其他带锁定针座的窄筒注射器（如3 mL）
+牙科抽吸注射器（带有窄针筒和定制的注射麻醉药筒）或其他带锁定针座的窄筒注射器（如3 mL）
+25G或27G针头：2 cm长，用于骨膜上浸润麻醉；3cm长 用于神经阻滞
+25G或27G针头：2 cm长，用于骨膜上浸润麻醉；3cm长 用于神经阻滞
+*注意：所有局部麻醉制剂均会从粘膜表面吸收，超过剂量限制可能会产生毒性。软膏比浓度较低的局部液体和凝胶更易于控制。过量的苯佐卡因很少会引起高铁血红蛋白血症。
+† 成人局部麻醉药最大剂量：不含肾上腺素的利多卡因，5 mg/kg，总最大剂量为300 mg；含肾上腺素的利多卡因，7 mg/kg，总最大剂量为500 mg；不含肾上腺素的布比卡因，2mg/kg，总最大剂量为175 mg。注意：1％的溶液（任何物质）表示10 mg/mL（1gm/100 mL）。肾上腺素引起血管收缩，从而延长麻醉效果； 这在血管丰富的组织（如口腔粘膜）中很有用。心脏病患者应仅接受限量肾上腺素（含1：100,000肾上腺素的溶液最多3.5 mL）； 或者，使用不含肾上腺素的局部麻醉药。
+
+【紧急拔牙的其他注意事项】
+如果需要拔牙，且口周软组织也需要修复（例如唇部撕裂伤），最好从内向外操作（即先拔牙，然后修复唇部）。
+如果需要拔牙，且口周软组织也需要修复（例如唇部撕裂伤），最好从内向外操作（即先拔牙，然后修复唇部）。
+部分患者需预处理：
+心内膜炎的抗生素预防在拔牙之前应给予高危患者（1，2）。
+心内膜炎的抗生素预防在拔牙之前应给予高危患者（1，2）。
+无法配合手术的患者可能需要镇静。
+无法配合手术的患者可能需要镇静。
+
+【其它注意事项参考文献】
+1.Sollecito TP, Abt E, Lockhart PB, Truelove E, Paumier TM, Tracy SL, Tampi M, Beltrán-Aguilar ED, Frantsve-Hawley J.The use of prophylactic antibiotics prior to dental procedures in patients with prosthetic joints: Evidence-based clinical practice guideline for dental practitioners--a report of the American Dental Association Council on Scientific Affairs.J Am Dent Assoc.2015 Jan;146(1):11-16.e8.doi: 10.1016/j.adaj.2014.11.012
+1.Sollecito TP, Abt E, Lockhart PB, Truelove E, Paumier TM, Tracy SL, Tampi M, Beltrán-Aguilar ED, Frantsve-Hawley J.The use of prophylactic antibiotics prior to dental procedures in patients with prosthetic joints: Evidence-based clinical practice guideline for dental practitioners--a report of the American Dental Association Council on Scientific Affairs.J Am Dent Assoc.2015 Jan;146(1):11-16.e8.doi: 10.1016/j.adaj.2014.11.012
+2.Wilson WR, Gewitz M, Lockhart PB, et al; American Heart Association Young Hearts Rheumatic Fever, Endocarditis and Kawasaki Disease Committee of the Council on Lifelong Congenital Heart Disease and Heart Health in the Young; Council on Cardiovascular and Stroke Nursing; and the Council on Quality of Care and Outcomes Research.Prevention of Viridans Group Streptococcal Infective Endocarditis: A Scientific Statement From the American Heart Association.Circulation.2021 May 18;143(20):e963-e978.doi: 10.1161/CIR.0000000000000969.Erratum in:Circulation.2021 Aug 31;144(9):e192.doi: 10.1161/CIR.0000000000001012.Erratum in:Circulation.2022 Apr 26;145(17):e868.doi: 10.1161/CIR.0000000000001066
+2.Wilson WR, Gewitz M, Lockhart PB, et al; American Heart Association Young Hearts Rheumatic Fever, Endocarditis and Kawasaki Disease Committee of the Council on Lifelong Congenital Heart Disease and Heart Health in the Young; Council on Cardiovascular and Stroke Nursing; and the Council on Quality of Care and Outcomes Research.Prevention of Viridans Group Streptococcal Infective Endocarditis: A Scientific Statement From the American Heart Association.Circulation.2021 May 18;143(20):e963-e978.doi: 10.1161/CIR.0000000000000969.Erratum in:Circulation.2021 Aug 31;144(9):e192.doi: 10.1161/CIR.0000000000001012.Erratum in:Circulation.2022 Apr 26;145(17):e868.doi: 10.1161/CIR.0000000000001066
+
+【紧急拔牙的相关解剖】
+上颌窦的底部非常薄，牙根可能毗连或可能进入窦。
+上颌窦的底部非常薄，牙根可能毗连或可能进入窦。
+上颌骨的侧壁相对较薄。因此，大多数上颌牙齿可以通过齿尖（根尖）的简单局部浸润来麻醉，因为麻醉剂溶液很容易通过薄侧骨扩散。
+上颌骨的侧壁相对较薄。因此，大多数上颌牙齿可以通过齿尖（根尖）的简单局部浸润来麻醉，因为麻醉剂溶液很容易通过薄侧骨扩散。
+下牙槽神经：获取X线片以评估下磨牙根与下牙槽神经的接近程度，以避免意外神经损伤。
+下牙槽神经：获取X线片以评估下磨牙根与下牙槽神经的接近程度，以避免意外神经损伤。
+其他牙神经：为避免神经损伤，应避免反射附近的粘膜（即下颌骨的舌侧[舌神经]，下颌颊侧前磨牙区[下颌神经]），并警惕反射上颌犬齿/前磨牙上方的粘膜（眶下神经）。
+其他牙神经：为避免神经损伤，应避免反射附近的粘膜（即下颌骨的舌侧[舌神经]，下颌颊侧前磨牙区[下颌神经]），并警惕反射上颌犬齿/前磨牙上方的粘膜（眶下神经）。
+颞下颌关节（TMJ）：由于对下颌骨施加过大的压力可能会损伤关节，因此请用一只手支撑下颌骨，可能的情况下使用咬合块。
+颞下颌关节（TMJ）：由于对下颌骨施加过大的压力可能会损伤关节，因此请用一只手支撑下颌骨，可能的情况下使用咬合块。
+
+【紧急拔牙的体位】
+倾斜患者的头部，使患者的头与肘部平齐，并支撑后枕骨。
+倾斜患者的头部，使患者的头与肘部平齐，并支撑后枕骨。
+对于下颌，请使用半卧式坐姿，使张开嘴时下咬合平面与地面大致平行。
+对于下颌，请使用半卧式坐姿，使张开嘴时下咬合平面与地面大致平行。
+对于上颚，使用更仰卧的位置，使上牙合平面与地面成60~90度角。
+对于上颚，使用更仰卧的位置，使上牙合平面与地面成60~90度角。
+转动头部并伸展颈部，以使牙齿清晰可见和可触及：通常，稍微转开头部以去除操作者站立侧的牙齿，并稍微朝向操作者拔出对侧的牙齿。保持头部向前，以拔除前牙。
+转动头部并伸展颈部，以使牙齿清晰可见和可触及：通常，稍微转开头部以去除操作者站立侧的牙齿，并稍微朝向操作者拔出对侧的牙齿。保持头部向前，以拔除前牙。
+
+【紧急拔牙的分步说明】
+手术前，先进行根尖周或全景X射线检查来评估有问题的牙齿、周围的牙槽骨及附近结构。
+戴上无菌手套，口罩和安全眼镜或面罩。
+戴上无菌手套，口罩和安全眼镜或面罩。
+提供局部麻醉
+考虑是否需要镇静。
+考虑是否需要镇静。
+对大部分下颌牙，做下牙槽神经阻滞。
+对大部分下颌牙，做下牙槽神经阻滞。
+对大部分上颌牙，做骨膜上浸润（根尖阻滞）。
+对大部分上颌牙，做骨膜上浸润（根尖阻滞）。
+如果需要补充麻醉，在牙齿周围行局部浸润（区域阻滞）。
+如果需要补充麻醉，在牙齿周围行局部浸润（区域阻滞）。
+将一块部分展开的4英寸×4英寸（10厘米×10厘米）纱布垫放置在牙齿后方，以防止牙齿不慎落入咽喉；操作时动作要轻柔，避免引起恶心。
+将一块部分展开的4英寸×4英寸（10厘米×10厘米）纱布垫放置在牙齿后方，以防止牙齿不慎落入咽喉；操作时动作要轻柔，避免引起恶心。
+关键步骤是
+分离附着在牙齿上的牙龈套。
+分离附着在牙齿上的牙龈套。
+使用牙挺获得初始的牙齿移动性。
+使用牙挺获得初始的牙齿移动性。
+进一步松动牙齿，然后用镊子拔出。
+进一步松动牙齿，然后用镊子拔出。
+冲洗，在需要时匙刮牙槽。
+冲洗，在需要时匙刮牙槽。
+应用纱布加压垫。
+应用纱布加压垫。
+将＃9骨膜车针尖端插入牙龈套和牙齿之间分离牙龈套。保持该点与齿根接触，沿长轴向齿根尖端推进牙挺； 插入后，牙挺轻轻地将牙龈套撬离牙齿。围绕牙齿一周进行此操作。同样，仅在颊侧，分离要拔除的牙齿和直接相邻的牙齿之间的牙龈小三角乳头。
+获得初始牙齿移动性使用牙挺（例如＃301或＃92）。轻轻地将垂直于牙齿的分离器插入要拔除的牙齿和相邻牙齿之间的空间。分离器应放在牙齿之间的骨顶上。分离器有2个表面； 凹面是工作面，应面对要拔除的牙齿。分离器的一侧紧靠牙齿之间的牙槽骨； 将此侧保持在适当位置用作支点，同时朝向被拔除牙齿的另一侧旋转，松动牙齿并扩大牙槽。请勿将相邻的牙齿用作支点。通常先在拔牙前使用牙龈分离器，然后在拔牙后调动牙挺。直向牙挺也可以沿齿的长轴垂直插入牙根和牙槽之间，并旋转以进一步扩展牙槽。不要将牙齿的腭侧或舌侧的牙槽骨用作支点。以这种方式重复使用牙挺，在使用钳子之前继续松动牙齿。
+
+【牙挺的使用】
+牙挺的使用
+垂直插入牙挺，其凹面正对要拔除的牙齿。朝向根部的边作为支点固定在适当位置，而另一边朝向要移除的牙齿旋转。
+使用镊子（上牙＃150，下牙＃151）进一步松动牙齿然后拔出它。将镊子的喙插入松动的牙龈下方，沿牙齿的根部平行于牙长轴。施加可控的顶端（朝向根尖）力，使喙沿根部尽可能地滑入窝中，直至到达根尖； 这有助于进一步扩展牙槽。然后用镊子牢牢夹住牙根，在顶端施加压力，就像试图将牙齿进一步推入牙槽中一样。将另一只手的拇指和食指放在牙槽窝的两侧以支撑牙槽，并帮助控制力量防止无意中造成牙槽大面积破裂。接下来，在保持根尖压力的同时，以左右摆动的方式摇动牙齿，根据需要持续操作以使牙齿松动。该过程是一种牙槽窝的可控性骨折。当牙齿有足够的活动性时，请轻轻地将其从牙槽中笔直拔出。在牙齿明显松动并可以拔除之前，请勿开始拔牙。
+
+【牙科钳的使用】
+牙科钳的使用
+牙钳的喙部沿着牙齿的根部插入，平行于长轴。
+冲洗牙槽窝用无菌盐水（如果存在严重感染，可使用洗必泰溶液）。仅当存在牙齿，骨头或异物碎片时，才可对牙槽进行刮擦。如果牙槽已扩展，请使用手指压力对其进行压缩以使其恢复原来的形状。
+放置紧紧卷起来的纱布垫2英寸x 2英寸或4英寸x 4英寸（5厘米x 5厘米或10厘米x 10厘米），用生理盐水蘸湿，直接在牙槽上方（而非相邻牙齿的顶部）。让患者紧咬在牙垫，连续3~4个小时（甚至不许说话）向牙槽直接施压。
+
+【紧急拔牙后的护理】
+让患者在拔牙后咬紧折叠、略微沾湿的纱布3至4小时（开始时每30至60分钟更换一次牙垫），以促进牙槽窝中的凝块形成。
+让患者在拔牙后咬紧折叠、略微沾湿的纱布3至4小时（开始时每30至60分钟更换一次牙垫），以促进牙槽窝中的凝块形成。
+预防干槽症（即，将血凝块保留在牙槽中）指示患者24小时内不要漱口，吐痰，吸吮任何东西或用吸管喝水。如果可能的话，鼓励患者戒烟一周（1，2）。
+预防干槽症（即，将血凝块保留在牙槽中）指示患者24小时内不要漱口，吐痰，吸吮任何东西或用吸管喝水。如果可能的话，鼓励患者戒烟一周（1，2）。
+24小时后，患者可以开始每天用温盐水轻轻冲洗几次。但是，1周内禁止剧烈漱口。
+24小时后，患者可以开始每天用温盐水轻轻冲洗几次。但是，1周内禁止剧烈漱口。
+为了帮助减轻肿胀（在第3或4天达到峰值），让患者在头24小时内敷上冰袋—敷30分钟，然后停30分钟—并在几天内抬高头部睡觉。
+为了帮助减轻肿胀（在第3或4天达到峰值），让患者在头24小时内敷上冰袋—敷30分钟，然后停30分钟—并在几天内抬高头部睡觉。
+在开始的三天内，饮食可能会从流质，到乳制品，再到软食。病人不应在患侧咀嚼，并应避免7天内吃过热或过冷的食物。
+在开始的三天内，饮食可能会从流质，到乳制品，再到软食。病人不应在患侧咀嚼，并应避免7天内吃过热或过冷的食物。
+除非存在感染或鼻窦意外渗透，否则不使用抗生素。
+除非存在感染或鼻窦意外渗透，否则不使用抗生素。
+服用冰片和非甾体抗炎药（NSAIDs）可缓解疼痛； 如果需要，可以使用麻醉镇痛药（例如含可待因，氢可酮或羟考酮的对乙酰氨基酚），具体取决于拔牙后的严重程度。
+服用冰片和非甾体抗炎药（NSAIDs）可缓解疼痛； 如果需要，可以使用麻醉镇痛药（例如含可待因，氢可酮或羟考酮的对乙酰氨基酚），具体取决于拔牙后的严重程度。
+在1-2天内安排合适的牙医跟进。
+在1-2天内安排合适的牙医跟进。
+告知患者，连续几天间歇性轻度出血或渗血是常见的，如前所述可以通过咬纱布垫进行治疗。
+告知患者，连续几天间歇性轻度出血或渗血是常见的，如前所述可以通过咬纱布垫进行治疗。
+
+【术后护理参考】
+1.Bortoluzzi MC, Capella DL, Barbieri T, Marchetti S, Dresch CP, Tirello C.Does smoking increase the incidence of postoperative complications in simple exodontia?Int Dent J.2012 Apr;62(2):106-8.doi: 10.1111/j.1875-595X.2011.00098.x
+1.Bortoluzzi MC, Capella DL, Barbieri T, Marchetti S, Dresch CP, Tirello C.Does smoking increase the incidence of postoperative complications in simple exodontia?Int Dent J.2012 Apr;62(2):106-8.doi: 10.1111/j.1875-595X.2011.00098.x
+2.Kuśnierek W, Brzezińska K, Nijakowski K, Surdacka A.Smoking as a Risk Factor for Dry Socket: A Systematic Review.Dent J (Basel).2022;10(7):121.Published 2022 Jul 1.doi:10.3390/dj10070121
+2.Kuśnierek W, Brzezińska K, Nijakowski K, Surdacka A.Smoking as a Risk Factor for Dry Socket: A Systematic Review.Dent J (Basel).2022;10(7):121.Published 2022 Jul 1.doi:10.3390/dj10070121
+
+【紧急拔牙的警告和常见错误】
+多根牙（上磨牙）的根部非常接近窦底，如果在拔除前不进行手术切开（通常由颌面外科医师进行），就有发生鼻窦并发症的显著风险。
+多根牙（上磨牙）的根部非常接近窦底，如果在拔除前不进行手术切开（通常由颌面外科医师进行），就有发生鼻窦并发症的显著风险。
+过大和/或不受控制的力可能会使牙槽骨，鼻窦或相邻牙齿骨折。
+过大和/或不受控制的力可能会使牙槽骨，鼻窦或相邻牙齿骨折。
+请勿将相邻的牙齿或牙齿腭侧或舌侧的牙槽骨用作支点。
+请勿将相邻的牙齿或牙齿腭侧或舌侧的牙槽骨用作支点。
+过量的苯佐卡因很少会引起高铁血红蛋白血症。
+过量的苯佐卡因很少会引起高铁血红蛋白血症。
+
+【紧急拔牙的技巧与窍门】
+拔牙后通过适当使用纱布垫并避免干扰血块，促进形成组织良好的血凝块，从而预防干槽症。向患者强调，纱布垫的作用是直接压迫牙槽窝，而不仅仅是吸收血液。 纱布垫必须紧紧地卷起来，略微潮湿一点，并且其尺寸要足够小，以适应拔牙后的空间，以便直接对牙槽窝施加压力。还应强调在头1至2天内不进食，不饮水或睡觉的时候，尽可能对纱布垫持续施加压力的重要性。几天内应避免剧烈冲洗或吐痰，并且禁止吸烟至少1周。
+拔牙后通过适当使用纱布垫并避免干扰血块，促进形成组织良好的血凝块，从而预防干槽症。向患者强调，纱布垫的作用是直接压迫牙槽窝，而不仅仅是吸收血液。 纱布垫必须紧紧地卷起来，略微潮湿一点，并且其尺寸要足够小，以适应拔牙后的空间，以便直接对牙槽窝施加压力。还应强调在头1至2天内不进食，不饮水或睡觉的时候，尽可能对纱布垫持续施加压力的重要性。几天内应避免剧烈冲洗或吐痰，并且禁止吸烟至少1周。
+将患者头部置于操作员肘部的高度或略微低于手肘的位置，有助于观察。这也使操作员可以将手臂和肘部保持在身体附近，从而更好地控制力量。
+将患者头部置于操作员肘部的高度或略微低于手肘的位置，有助于观察。这也使操作员可以将手臂和肘部保持在身体附近，从而更好地控制力量。

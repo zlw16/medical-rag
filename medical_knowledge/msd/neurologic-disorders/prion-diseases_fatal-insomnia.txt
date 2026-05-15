@@ -1,0 +1,13 @@
+标题：致死性失眠
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/prion-diseases/fatal-insomnia
+============================================================
+
+（参见朊病毒病的概述。）
+致死性家族性失眠症通症常由常染色体显性遗传的基因PRNP突变引起 (1) 。 平均发病年龄为40岁（从20岁后期到70岁早期）。 预期存活期为7〜73月。 FFI的早期症状包括越来越难以入睡和维持睡眠，以及认知功能减退、共济失调和精神症状。 后期可能出现交感活性增加（如高血压、心动过速、体温增高、出汗等）。
+散发性致死性失眠（sFI）缺乏PRNP基因突变。平均发病年龄略高于致死性家族性失眠症（FFI），预期寿命也略长于FFI。 早期症状包括认知能力下降和共济失调。 睡眠异常并不常见，但通常可在睡眠研究期间观察到。
+当患者有快速进展的认知障碍伴有行为或情绪变化、共济失调和睡眠障碍时，应将致死性失眠视为一种罕见的可能性。怀疑存在FFI或sFI时，应进行多导睡眠图检查，以寻找睡眠结构的完全中断，和/或进行脑FDG-PET或SPECT成像，以寻找特征性的孤立性丘脑代谢减慢（1）。基因检测可明确诊断家族型。MRI和检测脑脊液中14-3-3蛋白和tau蛋白对本病的诊断没有帮助。在FI中，脑脊液RT-QuIC通常为阴性。
+对于致死性失眠目前仅有支持治疗。
+
+【参考文献】
+1.Cracco L, Appleby BS, Gambetti P: Fatal familial insomnia and sporadic fatal insomnia.Handb Clin Neurol153:271-299, 2018.doi: 10.1016/B978-0-444-63945-5.00015-5
+1.Cracco L, Appleby BS, Gambetti P: Fatal familial insomnia and sporadic fatal insomnia.Handb Clin Neurol153:271-299, 2018.doi: 10.1016/B978-0-444-63945-5.00015-5

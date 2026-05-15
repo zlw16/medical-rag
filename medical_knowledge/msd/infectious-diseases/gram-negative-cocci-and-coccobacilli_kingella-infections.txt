@@ -1,0 +1,35 @@
+标题：Kingella金氏杆菌属感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-negative-cocci-and-coccobacilli/kingella-infections
+============================================================
+
+Kingella（金氏杆菌）属于奈瑟菌科，是短小、非运动性、兼性、革兰氏阴性球杆菌，通常成对或短链状存在。菌体生长比较缓慢，对营养要求较高。Kingella（金氏杆菌）可从人口咽中分离，是导致人类疾病的一种罕见病原体。
+在Kingella（金氏杆菌）属中，Kingella kingae（金氏金氏杆菌）是最常见的人类致病菌；这些病原体通常定植于口咽粘膜。6个月至4岁的儿童具有来自该病原体的定植和侵袭性疾病的最高比率。金黄色葡萄球菌通过密切的个人接触（如在日托中心）在儿童之间传播。感染往往呈季节性流行，比较多见的是在秋季和冬季。
+
+【Kingella（金氏杆菌）所致疾病】
+K. kingae（金氏金杆菌）疾病最常见的表现是
+骨骼感染（化脓性关节炎、骨髓炎)
+骨骼感染（化脓性关节炎、骨髓炎)
+心内膜炎
+心内膜炎
+最常见的骨骼感染是化脓性关节炎，其最常影响大的、负重关节，尤其是膝盖和踝关节。这种感染是由于隐匿性血源性播散（1）导致的。
+骨髓炎最常累及下肢骨骼。起病比较隐匿，容易造成诊断延迟。血源性播散后也可以累及椎间盘(椎间盘炎)，最常见于腰椎间隙。
+Kingella（金氏杆菌）心内膜炎在所有年龄组中均有报道，但在成年人中罕见。心内膜炎可累及天然或人工瓣膜。金结菌是所谓的HACEK群（嗜血杆菌种、放线菌聚集菌、人心杆菌、侵蚀艾肯菌、金氏金结菌)的一个组成部分，其中包括能引起心内膜炎的挑剔革兰氏阴性菌。
+无其他感染灶或心内膜炎的菌血症在儿童中很常见，但在成人中很少见。
+罕见表现包括肺炎、会厌炎、脑膜炎、脓肿和眼部感染。
+
+【由金氏杆菌引起的疾病参考】
+1.Yagupsky P.Kingella kingae: carriage, transmission, and disease.Clin Microbiol Rev.2015;28(1):54-79.doi:10.1128/CMR.00028-14
+1.Yagupsky P.Kingella kingae: carriage, transmission, and disease.Clin Microbiol Rev.2015;28(1):54-79.doi:10.1128/CMR.00028-14
+
+【金氏菌感染的诊断】
+诊断需要在实验室中分离被认为被感染的血液、体液或组织。
+
+【金氏杆菌感染的治疗】
+青霉素或头孢菌素
+青霉素或头孢菌素
+Kingella（金氏杆菌）通常对大多数青霉素和头孢菌素敏感。然而，建议进行抗菌药物敏感性测试来指导治疗，因为罕见的分离株可产生TEM-1型β-内酰胺酶（1）。建议使用氨苄西林/舒巴坦或第二代或第三代头孢菌素，直至排除β-内酰胺酶的产生。
+其他有效药物包括氨基糖苷类、甲氧苄啶/磺胺甲噁唑、四环素类、红霉素和氟喹诺酮类。
+
+【治疗参考文献】
+1.Banerjee A, Kaplan JB, Soherwardy A, et al.Characterization of TEM-1 β-Lactamase-ProducingKingella kingaeClinical Isolates.Antimicrob Agents Chemother.2013;57(9):4300-4306.doi:10.1128/AAC.00318-13
+1.Banerjee A, Kaplan JB, Soherwardy A, et al.Characterization of TEM-1 β-Lactamase-ProducingKingella kingaeClinical Isolates.Antimicrob Agents Chemother.2013;57(9):4300-4306.doi:10.1128/AAC.00318-13

@@ -1,0 +1,158 @@
+标题：脑瘫 (CP)
+来源：https://www.msdmanuals.cn/professional/pediatrics/neurologic-disorders-in-children/cerebral-palsy-cp
+============================================================
+
+脑瘫是一个术语，用来描述一组异质性状况，这些状况会导致非进展性痉挛、共济失调或不自主运动；它并不是一种特定的疾病（1）。两岁后出现的类似临床情况不认为是脑瘫。
+CP的全球患病率为每1000例活产儿中有2例（2）。导致患病率升高的两个危险因素是低出生体重和早产：体重在1000至1499克的新生儿（59.18/1000活产儿）和妊娠＜28周的早产儿（111.8/1000活产儿）。
+
+【参考文献】
+1.Panda S, Singh A, Kato H, Kokhanov A.Cerebral Palsy: A Current Perspective.Neoreviews.2024;25(6):e350-e360.doi:10.1542/neo.25-6-e350
+1.Panda S, Singh A, Kato H, Kokhanov A.Cerebral Palsy: A Current Perspective.Neoreviews.2024;25(6):e350-e360.doi:10.1542/neo.25-6-e350
+2.Oskoui M, Coutinho F, Dykeman J, Jetté N, Pringsheim T.An update on the prevalence of cerebral palsy: a systematic review and meta-analysis [published correction appears inDev Med Child Neurol. 2016 Mar;58(3):316. doi: 10.1111/dmcn.12662].Dev Med Child Neurol.2013;55(6):509-519.doi:10.1111/dmcn.12080
+2.Oskoui M, Coutinho F, Dykeman J, Jetté N, Pringsheim T.An update on the prevalence of cerebral palsy: a systematic review and meta-analysis [published correction appears inDev Med Child Neurol. 2016 Mar;58(3):316. doi: 10.1111/dmcn.12662].Dev Med Child Neurol.2013;55(6):509-519.doi:10.1111/dmcn.12080
+
+【脑瘫的病因学】
+脑瘫的病因是多方面的，有时很难确定具体原因。常见风险因素包括早产及其相关疾病，如宫内病变、新生儿脑病和/或慢性胆红素脑病（旧称核黄疸）。围产期因素（例如围产期窒息，中风，中枢神经系统 [CNS] 感染） 导致相当一部分病例。
+超过30%的脑瘫患者可见全外显子组测序或全基因组测序结果异常（1）。
+儿童早期（2岁之前）的CNS创伤或严重的全身性疾病（如卒中、脑膜炎、脓毒血症、脱水）也可能导致CP。
+脑性瘫痪的例子是
+早产后痉挛性双瘫
+早产后痉挛性双瘫
+足月新生儿脑卒中所致的痉挛性偏瘫
+足月新生儿脑卒中所致的痉挛性偏瘫
+早产儿、小于胎龄儿或两者兼有的围产期窒息后痉挛性四肢瘫
+早产儿、小于胎龄儿或两者兼有的围产期窒息后痉挛性四肢瘫
+运动障碍类型，包括围产期窒息或慢性胆红素脑病后出现的舞蹈手足徐动症型及肌张力障碍型
+运动障碍类型，包括围产期窒息或慢性胆红素脑病后出现的舞蹈手足徐动症型及肌张力障碍型
+共济失调型脑瘫，病因不明最常见，有时是由于遗传性小脑疾病
+共济失调型脑瘫，病因不明最常见，有时是由于遗传性小脑疾病
+
+【病因参考文献】
+1.Moreno-De-Luca A, Millan F, Pesacreta DR, et al.Molecular Diagnostic Yield of Exome Sequencing in Patients With Cerebral Palsy.JAMA.2021;325(5):467-475.doi:10.1001/jama.2020.26148
+1.Moreno-De-Luca A, Millan F, Pesacreta DR, et al.Molecular Diagnostic Yield of Exome Sequencing in Patients With Cerebral Palsy.JAMA.2021;325(5):467-475.doi:10.1001/jama.2020.26148
+
+【脑瘫的症状和体征】
+所有类型的脑瘫的临床表现通常包括运动发育迟缓，以及常常持续存在的婴儿反射模式、腱反射亢进和肌张力异常。
+脑瘫可能伴随慢性疼痛、言语语言障碍（伴或不伴听力受损）、癫痫、行为问题、髋关节脱位及流涎等并发损害（3）。可伴有斜视和其他视觉缺损。因慢性胆红素脑病导致手足徐动症的儿童，通常伴有神经性耳聋和上视麻痹。
+许多痉挛性偏瘫或双瘫患儿智力正常；另一方面，痉挛性四肢瘫或混合型脑瘫患儿可能患有严重的智力障碍。
+
+【脑瘫的类型】
+脑性瘫痪综合征根据中枢系统异常或损伤的部位分为几大类(1,2)：
+痉挛性脑瘫是最常见的类型，发生在>80% 的案例（2）。痉挛型 CP 可表现为痉挛性偏瘫、四肢瘫痪或双瘫。痉挛是指拮抗被动运动的一种状态，运动速度增加时，拮抗性也增加。痉挛为上运动神经元受累所致，运动功能影响可轻可重。受累肢体表现深反射增强和肌张力高，随意运动减弱，运动不协调。关节会出现挛缩，关节可能会错位。剪刀步态和足尖步态是典型的特征。轻度患者可能只在某些活动（如跑步）中出现障碍。四肢瘫痪通常会影响皮质延髓受损导致口腔、舌和腭的运动障碍，进而导致构音障碍或吞咽困难。
+痉挛性脑瘫是最常见的类型，发生在>80% 的案例（2）。痉挛型 CP 可表现为痉挛性偏瘫、四肢瘫痪或双瘫。痉挛是指拮抗被动运动的一种状态，运动速度增加时，拮抗性也增加。痉挛为上运动神经元受累所致，运动功能影响可轻可重。受累肢体表现深反射增强和肌张力高，随意运动减弱，运动不协调。关节会出现挛缩，关节可能会错位。剪刀步态和足尖步态是典型的特征。轻度患者可能只在某些活动（如跑步）中出现障碍。四肢瘫痪通常会影响皮质延髓受损导致口腔、舌和腭的运动障碍，进而导致构音障碍或吞咽困难。
+运动障碍性脑瘫（手足徐动型脑瘫或肌张力障碍型脑瘫）是第二常见的类型。它发生在约15%的脑瘫患者中，由基底神经节受累引起。运动障碍型或肌张力障碍型脑性瘫痪的特征表现为近端肢体和躯干的缓慢、扭曲、不自主运动（即手足徐动样动作），这些动作常在尝试自主运动或情绪激动时被诱发。也可以发生突然、急促、大幅度的动作（舞蹈病型）。动作随情绪紧张而增加，睡眠时消失。存在严重的发音困难。
+运动障碍性脑瘫（手足徐动型脑瘫或肌张力障碍型脑瘫）是第二常见的类型。它发生在约15%的脑瘫患者中，由基底神经节受累引起。运动障碍型或肌张力障碍型脑性瘫痪的特征表现为近端肢体和躯干的缓慢、扭曲、不自主运动（即手足徐动样动作），这些动作常在尝试自主运动或情绪激动时被诱发。也可以发生突然、急促、大幅度的动作（舞蹈病型）。动作随情绪紧张而增加，睡眠时消失。存在严重的发音困难。
+共济失调性脑瘫罕见，是小脑或其通路受累的结果。虚弱、协调不良、意向性震颤导致不稳定蹒跚步态，快速或精细运动困难。
+共济失调性脑瘫罕见，是小脑或其通路受累的结果。虚弱、协调不良、意向性震颤导致不稳定蹒跚步态，快速或精细运动困难。
+混合型脑瘫是常见的。该类型最常表现出痉挛及手足徐动症/肌张力障碍。
+混合型脑瘫是常见的。该类型最常表现出痉挛及手足徐动症/肌张力障碍。
+一个 称为Gross Motor Function Classification System–Expanded and Revised (GMFCS–E&R)总运动功能分类系统——扩展和修订的工具可用于描述CP儿童的粗大运动功能。该系统将粗大运动功能分为 5 组。它提供了对当前运动功能的描述，有助于确定当前和未来对助行器的需求。
+
+【症状和体征参考】
+1.Panda S, Singh A, Kato H, Kokhanov A.Cerebral Palsy: A Current Perspective.Neoreviews.2024;25(6):e350-e360.doi:10.1542/neo.25-6-e350
+1.Panda S, Singh A, Kato H, Kokhanov A.Cerebral Palsy: A Current Perspective.Neoreviews.2024;25(6):e350-e360.doi:10.1542/neo.25-6-e350
+2.Monbaliu E, Himmelmann K, Lin JP, et al.Clinical presentation and management of dyskinetic cerebral palsy.Lancet Neurol.2017;16(9):741–749.doi:10.1016/S1474-4422(17)30252-1
+2.Monbaliu E, Himmelmann K, Lin JP, et al.Clinical presentation and management of dyskinetic cerebral palsy.Lancet Neurol.2017;16(9):741–749.doi:10.1016/S1474-4422(17)30252-1
+3.Novak I, Hines M, Goldsmith S, Barclay R.Clinical prognostic messages from a systematic review on cerebral palsy.Pediatrics.2012;130(5):e1285-e1312.doi:10.1542/peds.2012-0924
+3.Novak I, Hines M, Goldsmith S, Barclay R.Clinical prognostic messages from a systematic review on cerebral palsy.Pediatrics.2012;130(5):e1285-e1312.doi:10.1542/peds.2012-0924
+
+【脑瘫的诊断】
+病史和体格检查
+病史和体格检查
+脑部MRI
+脑部MRI
+检查以排除遗传性代谢性疾病或神经系统疾病
+检查以排除遗传性代谢性疾病或神经系统疾病
+如果怀疑脑瘫，尽可能识别其潜在疾病是重要的。病史可能提示病因。脑部MRI在多数病例中可检测异常，为首选影像学检查；CT亦可使用。颅脑超声有时有助于识别出血及白质软化。
+传统上，脑瘫诊断通常在12至24月龄间确立。然而，对于在出生时有可检测风险（例如早产、脑病）的婴儿，矫正年龄小于5个月时即可诊断为脑瘫。可通过联合神经影像学（脑MRI）、标准化神经学检查（如Hammersmith婴儿神经学检查）（1）及标准化运动评估（如Prechtl全身运动质量评估）（2）进行诊断。
+高风险儿童需密切随访，包括以下特征人群：
+有窒息史或脑卒中及颅脑超声显示的脑室周围异常（如脑室周围白质软化）证据的早产儿
+有窒息史或脑卒中及颅脑超声显示的脑室周围异常（如脑室周围白质软化）证据的早产儿
+新生儿癫痫
+新生儿癫痫
+张力过低
+张力过低
+反射抑制
+反射抑制
+约半数脑瘫患儿伴有癫痫。对此类患者，脑电图可能有助于癫痫的后续管理。
+应对视觉及听觉缺陷进行筛查。
+
+【鉴别诊断】
+应将 CP 与进行性遗传性神经系统疾病和需要手术或其他特殊神经系统治疗的疾病区分开来。需通过新生儿筛查或额外遗传代谢检查排除先天性代谢缺陷。（参见疑似遗传性代谢病患者的诊治了解有关特定测试的信息。）
+当病史和/或脑部MRI不清楚地明确原因时，应进行实验室检查以排除涉及运动系统的某些进行性贮积障碍（例如，Tay-Sachs 病，异染性脑白质营养不良，粘多糖病）和代谢紊乱（例如，有机或氨基酸代谢紊乱）。
+通过神经传导试验和肌电图可以诊断其他进行性疾病（如婴儿神经轴突营养不良）。导致脑性瘫痪（和其他表现）的这些疾病和许多其它脑部病症正越来越多地用遗传测试来鉴定（例如，微阵列分析、CP谱系疾病基因组、全外显子组测序分析、下一代测序技术），其可以用于检查特定疾病或筛选许多疾病。
+共济失调型脑瘫特别难以鉴别，对于许多患有持续性共济失调的儿童，最终明确进行性小脑退行性疾病是病因。
+手足徐动症、自残行为和高尿酸血症在男孩中高度提示Lesch-Nyhan综合征。
+皮肤或眼部异常可能预示结节性硬化综合征，神经纤维瘤病，共济失调 - 毛细血管扩张症，von Hippel–Lindau病，或Sturge-Weber 综合征。
+婴儿脊髓性肌肉萎缩，肌肉营养不良和与肌张力低下和低反射相关的神经肌肉接头疾病通常缺乏脑疾病的征象。（参见脊髓性肌萎缩症(SMAs)和遗传性肌病概论。)
+肾上腺脑白质营养不良在儿童期较晚开始，但其他脑白质营养不良症开始得较早，最初可能被误认为是脑性瘫痪。
+
+【诊断参考】
+1.Ljungblad UW, Paulsen H, Tangeraas T, Evensen KAI.Reference Material for Hammersmith Infant Neurologic Examination Scores Based on Healthy, Term Infants Age 3-7 Months.J Pediatr.2022;244:79-85.e12.doi:10.1016/j.jpeds.2022.01.032
+1.Ljungblad UW, Paulsen H, Tangeraas T, Evensen KAI.Reference Material for Hammersmith Infant Neurologic Examination Scores Based on Healthy, Term Infants Age 3-7 Months.J Pediatr.2022;244:79-85.e12.doi:10.1016/j.jpeds.2022.01.032
+2.Einspieler C, Prechtl HF.Prechtl's assessment of general movements: a diagnostic tool for the functional assessment of the young nervous system.Dev Disabil Res Rev.2005;11(1):61-67.doi:10.1002/mrdd.20051
+2.Einspieler C, Prechtl HF.Prechtl's assessment of general movements: a diagnostic tool for the functional assessment of the young nervous system.Dev Disabil Res Rev.2005;11(1):61-67.doi:10.1002/mrdd.20051
+
+【脑瘫的治疗】
+物理和职业治疗
+物理和职业治疗
+在某些情况下采用支具或约束疗法
+在某些情况下采用支具或约束疗法
+针对痉挛症状可使用肌肉松弛剂
+针对痉挛症状可使用肌肉松弛剂
+注射肉毒杆菌毒素以治疗痉挛
+注射肉毒杆菌毒素以治疗痉挛
+鞘内注射巴氯芬治疗痉挛
+鞘内注射巴氯芬治疗痉挛
+辅助设备
+辅助设备
+有时需要骨科手术干预
+有时需要骨科手术干预
+物理治疗和职业治疗用于伸展、加强和促进有效的运动模式，通常是第一线治疗，且常常与其他治疗方法结合使用。可根据需要添加支撑、约束疗法和药物。
+肉毒杆菌毒素可注射入肌肉，以减少其对关节的不均衡牵拉，并预防某些痉挛患儿的固定性挛缩（1）。这种药物最适合用于治疗脑瘫患儿上肢和下肢的局部/节段痉挛。
+肌肉松弛剂，包括巴氯芬、苯二氮卓类药物（如地西泮）、替扎尼丁、及极少数的丹曲林，都可能减轻痉挛。这些口服药物被认为是痉挛的一线疗法，尤其是对于全身性痉挛患儿。
+鞘内注射巴氯芬（通过皮下泵和导管）可考虑用于口服抗痉挛药无效或出现严重不良反应的重度痉挛患儿。
+骨科手术（例如肌腱松解术或肌腱转位术）可有效改善严重挛缩或极度活动受限患儿的关节活动受限或对线不良问题。如果痉挛主要影响腿部，且认知能力发育良好，神经外科医生进行的选择性背根切断术可能会对少数患儿有所帮助。
+辅助器具可能有助于提高一些严重受影响儿童的活动能力和沟通能力，帮助维持关节活动范围，并协助完成日常生活活动。无严重智力障碍的儿童可参与适应性运动训练项目，甚至可参加竞技比赛。可能需要语音训练或其他形式的便利沟通以增强交流。
+当智力障碍程度较轻时，儿童可进入普通班级就读。日常生活活动（如洗漱、穿衣、喂食）的训练可提高患者的独立性和自尊心，并大大减轻家庭成员或其他照护者的负担。有些孩子需要不同程度的终身的监督和帮助。许多儿童机构正在为患者建立过渡项目，帮助他们成年后因支持减少而适应特殊需求。
+患有慢性疾病的儿童的父母需要帮助和指导，以了解孩子的状况和潜力，并处理自己可能产生的内疚、愤怒、否认和/或悲伤的情绪（参见对家庭的影响）。这些儿童在稳定、持续的照料以及公共和私人机构（例如社区卫生机构、职业康复组织、健康组织如脑瘫联合协会）的协助下，达到了他们的最大潜能。
+
+【治疗参考文献】
+1.Quality Standards Subcommittee of the American Academy of Neurology and the Practice Committee of the Child Neurology Society, Delgado MR, Hirtz D, et al.Practice parameter: pharmacologic treatment of spasticity in children and adolescents with cerebral palsy (an evidence-based review): report of the Quality Standards Subcommittee of the American Academy of Neurology and the Practice Committee of the Child Neurology Society.Neurology.2010;74(4):336-343.doi:10.1212/WNL.0b013e3181cbcd2f
+1.Quality Standards Subcommittee of the American Academy of Neurology and the Practice Committee of the Child Neurology Society, Delgado MR, Hirtz D, et al.Practice parameter: pharmacologic treatment of spasticity in children and adolescents with cerebral palsy (an evidence-based review): report of the Quality Standards Subcommittee of the American Academy of Neurology and the Practice Committee of the Child Neurology Society.Neurology.2010;74(4):336-343.doi:10.1212/WNL.0b013e3181cbcd2f
+2.Novak I, Morgan C, Fahey M, et al.State of the Evidence Traffic Lights 2019: Systematic Review of Interventions for Preventing and Treating Children with Cerebral Palsy.Curr Neurol Neurosci Rep.2020;20(2):3.Published 2020 Feb 21.doi:10.1007/s11910-020-1022-z
+2.Novak I, Morgan C, Fahey M, et al.State of the Evidence Traffic Lights 2019: Systematic Review of Interventions for Preventing and Treating Children with Cerebral Palsy.Curr Neurol Neurosci Rep.2020;20(2):3.Published 2020 Feb 21.doi:10.1007/s11910-020-1022-z
+
+【脑瘫的预后】
+多数患儿存活至成年。严重的吮吸和吞咽功能障碍（可能需通过胃造瘘管进行喂养）会显著增加吸入性肺炎和呼吸衰竭的风险，从而降低患者预期寿命（1）。严重的运动障碍及智力缺陷也会增加死亡风险（2）。
+随着治疗与护理技术的进步，全球死亡率持续下降（1）。目标是儿童在其运动和相关的缺陷的限制内将其独立性发展到最大。通过适当的管理，许多儿童，特别是患有痉挛性双瘫或偏瘫的儿童，可以过上接近正常的生活。
+
+【预后参考】
+1.Blair E, Langdon K, McIntyre S, Lawrence D, Watson L.Survival and mortality in cerebral palsy: observations to the sixth decade from a data linkage study of a total population register and National Death Index.BMC Neurol.2019;19(1):111.Published 2019 Jun 4.doi:10.1186/s12883-019-1343-1
+1.Blair E, Langdon K, McIntyre S, Lawrence D, Watson L.Survival and mortality in cerebral palsy: observations to the sixth decade from a data linkage study of a total population register and National Death Index.BMC Neurol.2019;19(1):111.Published 2019 Jun 4.doi:10.1186/s12883-019-1343-1
+2.Himmelmann K, Sundh V.Survival with cerebral palsy over five decades in western Sweden.Dev Med Child Neurol.2015;57(8):762-767.doi:10.1111/dmcn.12718
+2.Himmelmann K, Sundh V.Survival with cerebral palsy over five decades in western Sweden.Dev Med Child Neurol.2015;57(8):762-767.doi:10.1111/dmcn.12718
+
+【预防脑瘫】
+产前预防措施包括给予糖皮质激素与硫酸镁（1），两者现已成为极早产儿分娩前的标准护理。
+产后，咖啡因与治疗性低温（即亚低温）已成为新生儿重症监护室对新生儿脑病及窒息患儿实施神经保护的常规措施（2、3）。
+
+【预防参考文献】
+1.Committee Opinion No. 455:Magnesium sulfatebefore anticipated preterm birth for neuroprotection.Obstet Gynecol.2010;115(3):669-671.doi:10.1097/AOG.0b013e3181d4ffa5
+1.Committee Opinion No. 455:Magnesium sulfatebefore anticipated preterm birth for neuroprotection.Obstet Gynecol.2010;115(3):669-671.doi:10.1097/AOG.0b013e3181d4ffa5
+2.Schmidt B, Roberts RS, Davis P, et al.Caffeinetherapy for apnea of prematurity.N Engl J Med.2006;354(20):2112-2121.doi:10.1056/NEJMoa054065
+2.Schmidt B, Roberts RS, Davis P, et al.Caffeinetherapy for apnea of prematurity.N Engl J Med.2006;354(20):2112-2121.doi:10.1056/NEJMoa054065
+3.Novak I, Morgan C, Fahey M, et al.State of the Evidence Traffic Lights 2019: Systematic Review of Interventions for Preventing and Treating Children with Cerebral Palsy.Curr Neurol Neurosci Rep.2020;20(2):3.Published 2020 Feb 21.doi:10.1007/s11910-020-1022-z
+3.Novak I, Morgan C, Fahey M, et al.State of the Evidence Traffic Lights 2019: Systematic Review of Interventions for Preventing and Treating Children with Cerebral Palsy.Curr Neurol Neurosci Rep.2020;20(2):3.Published 2020 Feb 21.doi:10.1007/s11910-020-1022-z
+脑性麻痹是涉及非进行性痉挛，共济失调和/或不自主运动的综合征（不是某种特定障碍）。
+脑性麻痹是涉及非进行性痉挛，共济失调和/或不自主运动的综合征（不是某种特定障碍）。
+病因通常是多因素的，涉及与中枢神经系统（CNS）畸形或损伤相关的产前和围产期因素（例如，遗传和子宫内疾病、早产、慢性胆红素脑病、围产期窒息、中风、中枢神经系统感染）。
+病因通常是多因素的，涉及与中枢神经系统（CNS）畸形或损伤相关的产前和围产期因素（例如，遗传和子宫内疾病、早产、慢性胆红素脑病、围产期窒息、中风、中枢神经系统感染）。
+CP患者除运动功能障碍外，可能伴随智力障碍及其他神经系统症状和全身性并发症（如斜视、听力障碍）。
+CP患者除运动功能障碍外，可能伴随智力障碍及其他神经系统症状和全身性并发症（如斜视、听力障碍）。
+症状在2岁前显现；若类似症状在较晚时期出现，则提示可能存在其他神经系统疾病。
+症状在2岁前显现；若类似症状在较晚时期出现，则提示可能存在其他神经系统疾病。
+进行脑部 MRI 检查，如有必要，检测是否存在遗传、基因、代谢和神经系统疾病。
+进行脑部 MRI 检查，如有必要，检测是否存在遗传、基因、代谢和神经系统疾病。
+治疗取决于残疾的性质和程度，但通常使用物理治疗和职业治疗；一些儿童受益于支撑，肉毒毒素，苯二氮卓类，其他肌肉松弛剂，鞘内巴氯芬和/或手术（例如，肌肉 - 腱释放或转移，很少行背根神经切断术）。
+治疗取决于残疾的性质和程度，但通常使用物理治疗和职业治疗；一些儿童受益于支撑，肉毒毒素，苯二氮卓类，其他肌肉松弛剂，鞘内巴氯芬和/或手术（例如，肌肉 - 腱释放或转移，很少行背根神经切断术）。

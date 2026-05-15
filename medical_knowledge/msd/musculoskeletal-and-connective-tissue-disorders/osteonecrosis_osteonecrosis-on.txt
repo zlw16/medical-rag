@@ -1,0 +1,161 @@
+标题：骨坏死 （ON）
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/osteonecrosis/osteonecrosis-on
+============================================================
+
+在美国，每年约有20,000例新发骨坏死患者 (1)。髋关节（股骨头）是最常见的受累部位；其次是膝关节和肩关节（肱骨头）。较少累及腕关节和踝关节。骨坏死单纯累及到肩关节或其他非常见部位而无髋关节受累的并不多见。颌骨坏死很少与骨质疏松症的抗骨吸收疗法联系在一起。颌骨坏死有与其他部位骨坏死不同的特征。
+
+【参考文献】
+1.Moya-Angeler J, Gianakos AL, Villa JC, Ni A, Lane JM.Current concepts on osteonecrosis of the femoral head.World J Orthop2015;6(8):590-601.doi:10.5312/wjo.v6.i8.590
+1.Moya-Angeler J, Gianakos AL, Villa JC, Ni A, Lane JM.Current concepts on osteonecrosis of the femoral head.World J Orthop2015;6(8):590-601.doi:10.5312/wjo.v6.i8.590
+
+【骨坏死的病因】
+骨坏死可以是特发性的，由创伤引起的，或由非创伤性因素引起的。骨坏死最常见的原因是创伤（1，2）。
+
+【外伤性骨坏死】
+股骨头创伤性骨坏死最常见的原因是近端股骨的移位性股骨颈下骨折；股骨粗隆间骨折后较少发生骨坏死。若无恰当的减压，髋关节脱位后骨坏死的发生率很高；减压越早发生率越低。骨折或脱位通过强力撕拉或挤压邻近血管会引起骨坏死。
+
+【非创伤性骨坏死】
+非外伤性骨坏死较多影响男性，发病年龄高峰在30岁～50岁之间(1) 。60%患者髋部骨坏死是双侧性的 (2)。
+导致或促成非创伤性骨坏死的最常见因素是 (3,4,5)
+皮质类固醇的使用（尤其是长期使用和/或更高剂量）
+皮质类固醇的使用（尤其是长期使用和/或更高剂量）
+骨坏死的其他非创伤性危险因素包括-
+凝血功能障碍（如抗磷脂综合征，弥散性血管内凝血，血栓形成倾向）
+凝血功能障碍（如抗磷脂综合征，弥散性血管内凝血，血栓形成倾向）
+Cushing综合征
+Cushing综合征
+血脂紊乱
+血脂紊乱
+红细胞异常（如镰状细胞病)
+红细胞异常（如镰状细胞病)
+HIV感染
+HIV感染
+器官移植
+器官移植
+系统性红斑狼疮（SLE）和其他系统性风湿性疾病
+系统性红斑狼疮（SLE）和其他系统性风湿性疾病
+混合情况（如慢性肾病，少见的遗传代谢紊乱）
+混合情况（如慢性肾病，少见的遗传代谢紊乱）
+大约 20% 的骨坏死病例是特发性的。
+当泼尼松或等效糖皮质激素的剂量为>20 mg/d，持续数周或数月，或累计剂量达到>2000 mg时，糖皮质激素使用对骨坏死风险的影响会增加（6）。然而，在皮质类固醇暴露量少得多的情况下，骨坏死也有被报道。值得注意的是，糖皮质激素相关性骨坏死通常是多发性的（影响多个不同的解剖部位），并且不仅可以影响负重关节，还可能影响非负重关节，如肩关节。
+当>每周摄入400毫升乙醇超过6个月时，骨坏死的风险也会增加（4）。
+一些遗传因素也会增加骨坏死的易感性。由于蛋白 C、蛋白 S或抗凝血酶 III或抗心磷脂抗体的缺乏导致轻微的凝血异常（见血栓性疾病概述) 可以在高比例的骨坏死患者中检测到。
+一些作为骨坏死常见合并症的疾病用皮质类固醇治疗（例如系统性红斑狼疮）。 有证据表明，这些疾病导致的骨坏死风险主要与糖皮质激素的使用相关，而不是这些疾病本身。
+据报道，接受双磷酸盐治疗（特别是静脉注射）和其他抗再吸收药物（如狄诺沙单抗）的患者出现了药物相关的颌骨坏死。
+“膝关节自发性骨坏死”（SONK）一词用词不当。这种情况通常发生在老年患者中，局限于股骨髁或胫骨平台 (7)。SONK被认为是不充分骨折引起（一种脆性骨折，是骨质疏松的骨通过正常磨损而不是直接外伤引起）。真正的膝关节骨坏死可由创伤或任何非创伤性骨坏死危险因素引起。
+
+【病因参考文献】
+1.Ikeuchi K, Hasegawa Y, Seki T, Takegami Y, Amano T, Ishiguro N.Epidemiology of nontraumatic osteonecrosis of the femoral head in Japan.Mod Rheumatol2015;25(2):278-281.doi:10.3109/14397595.2014.932038
+1.Ikeuchi K, Hasegawa Y, Seki T, Takegami Y, Amano T, Ishiguro N.Epidemiology of nontraumatic osteonecrosis of the femoral head in Japan.Mod Rheumatol2015;25(2):278-281.doi:10.3109/14397595.2014.932038
+2.Hauzeur JP, Malaise M, de Maertelaer V.A prospective cohort study of the clinical presentation of non-traumatic osteonecrosis of the femoral head: spine and knee symptoms as clinical presentation of hip osteonecrosis.Int Orthop2016;40(7):1347-1351.doi:10.1007/s00264-015-3079-x
+2.Hauzeur JP, Malaise M, de Maertelaer V.A prospective cohort study of the clinical presentation of non-traumatic osteonecrosis of the femoral head: spine and knee symptoms as clinical presentation of hip osteonecrosis.Int Orthop2016;40(7):1347-1351.doi:10.1007/s00264-015-3079-x
+3.Yoon BH, Jones LC, Chen CH, et al.Etiologic Classification Criteria of ARCO on Femoral Head Osteonecrosis Part 1: Glucocorticoid-Associated Osteonecrosis.J Arthroplasty2019;34(1):163-168.e1.doi:10.1016/j.arth.2018.09.005
+3.Yoon BH, Jones LC, Chen CH, et al.Etiologic Classification Criteria of ARCO on Femoral Head Osteonecrosis Part 1: Glucocorticoid-Associated Osteonecrosis.J Arthroplasty2019;34(1):163-168.e1.doi:10.1016/j.arth.2018.09.005
+4.Yoon BH, Jones LC, Chen CH, et al.Etiologic Classification Criteria of ARCO on Femoral Head Osteonecrosis Part 2: Alcohol-Associated Osteonecrosis.J Arthroplasty2019;34(1):169-174.e1.doi:10.1016/j.arth.2018.09.006
+4.Yoon BH, Jones LC, Chen CH, et al.Etiologic Classification Criteria of ARCO on Femoral Head Osteonecrosis Part 2: Alcohol-Associated Osteonecrosis.J Arthroplasty2019;34(1):169-174.e1.doi:10.1016/j.arth.2018.09.006
+5.Fukushima W, Fujioka M, Kubo T, Tamakoshi A, Nagai M, Hirota Y.Nationwide epidemiologic survey of idiopathic osteonecrosis of the femoral head. Clin Orthop Relat Res.2010;468(10):2715-2724.doi:10.1007/s11999-010-1292-x
+5.Fukushima W, Fujioka M, Kubo T, Tamakoshi A, Nagai M, Hirota Y.Nationwide epidemiologic survey of idiopathic osteonecrosis of the femoral head. Clin Orthop Relat Res.2010;468(10):2715-2724.doi:10.1007/s11999-010-1292-x
+6.Mont MA, Pivec R, Banerjee S, Issa K, Elmallah RK, Jones LC.High-Dose Corticosteroid Use and Risk of Hip Osteonecrosis: Meta-Analysis and Systematic Literature Review.J Arthroplasty2015;30(9):1506-1512.e5.doi:10.1016/j.arth.2015.03.036
+6.Mont MA, Pivec R, Banerjee S, Issa K, Elmallah RK, Jones LC.High-Dose Corticosteroid Use and Risk of Hip Osteonecrosis: Meta-Analysis and Systematic Literature Review.J Arthroplasty2015;30(9):1506-1512.e5.doi:10.1016/j.arth.2015.03.036
+7.Sibilska A, Góralczyk A, Hermanowicz K, Malinowski K.Spontaneous osteonecrosis of the knee: what do we know so far?A literature review.Int Orthop2020;44(6):1063-1069.doi:10.1007/s00264-020-04536-7
+7.Sibilska A, Góralczyk A, Hermanowicz K, Malinowski K.Spontaneous osteonecrosis of the knee: what do we know so far?A literature review.Int Orthop2020;44(6):1063-1069.doi:10.1007/s00264-020-04536-7
+
+【骨坏死的病理生理】
+骨坏死涉及骨髓细胞成分的死亡。 非外伤性骨坏死的机制包括血栓栓塞，脂肪栓塞，血管内血栓形成和血管外挤压 (1)。
+血管受损后，机体试图去除坏死骨和骨髓并用活组织取代来进行修复。 例如，如果髋部的梗塞很小，特别是如果它没有承受很大的负重，这些过程可能会成功并且股骨头保持圆形。 然而，在约80%的患者中，尤其是坏死面积较大且位于承重区域时，坏死区塌陷超过修复的能力，导致坏死区塌陷 (2)。股骨头不再圆。
+因为骨坏死通常发生在长骨的末端（干骺端和骨骺），关节软骨覆盖的关节表面变平且不规则，在骨萎缩和塌陷的区域可能最终导致骨关节炎和疼痛加剧。
+
+【病理生理学参考文献】
+1.Shah KN, Racine J, Jones LC, Aaron RK.Pathophysiology and risk factors for osteonecrosis.Curr Rev Musculoskelet Med2015;8(3):201-209.doi:10.1007/s12178-015-9277-8
+1.Shah KN, Racine J, Jones LC, Aaron RK.Pathophysiology and risk factors for osteonecrosis.Curr Rev Musculoskelet Med2015;8(3):201-209.doi:10.1007/s12178-015-9277-8
+2.Mont MA, Zywiel MG, Marker DR, McGrath MS, Delanois RE.The natural history of untreated asymptomatic osteonecrosis of the femoral head: a systematic literature review.J Bone Joint Surg Am2010;92(12):2165-2170.doi:10.2106/JBJS.I.00575
+2.Mont MA, Zywiel MG, Marker DR, McGrath MS, Delanois RE.The natural history of untreated asymptomatic osteonecrosis of the femoral head: a systematic literature review.J Bone Joint Surg Am2010;92(12):2165-2170.doi:10.2106/JBJS.I.00575
+
+【骨坏死的症状和体征】
+
+【一般症状】
+血管受损后骨坏死的受累区域可能数周或数月无明显症状。通常疼痛会逐渐加剧，尽管有时也很剧烈。随着关节进行性塌陷，疼痛加重。运动或负重使疼痛加剧而休息时缓解。
+由于许多导致骨坏死发展的危险因素是全身性的（例如，长期使用皮质类固醇、过量饮酒、镰状细胞病），因此骨坏死可能是多灶性的。在镰状细胞性贫血症, 骨坏死可能发生在不同的长骨中，并导致突发发性疼痛。
+
+【关节-特异症状】
+髋关节部位的骨坏死引起腹股沟的疼痛，可放射至大腿或臀部。运动受限，且通常可出现跛行。
+SONK通常会出现无外伤诱因的突然膝关节疼痛；疼痛突然发作以及疼痛的位置可以帮助我们与经典的骨坏死相鉴别。疼痛在股骨髁和胫骨平台的内侧面最常见，表现为压痛、非炎症性关节积液，运动性疼痛和跛行。
+一般股骨头骨坏死比髋关节或被膝关节坏死引起的疼痛和残疾轻，但使用拐杖负重的患者可能会出现明显的疼痛和残疾。
+随着骨坏死的进展，患者出现疼痛和运动能力降低，虽然被动活动度较主动活动度范围影响较小。可见滑膜积液的症状，特别在膝关节，这些积液是非炎性的。
+
+【骨坏死的诊断】
+射线照片
+射线照片
+具有如下表现的患者应怀疑骨坏死：
+既往骨折（例如，移位的股骨头下骨折）、关节脱位（例如，髋关节脱位）或其他危险因素（例如，使用皮质类固醇、血红蛋白病），特别是如果疼痛持续或恶化
+既往骨折（例如，移位的股骨头下骨折）、关节脱位（例如，髋关节脱位）或其他危险因素（例如，使用皮质类固醇、血红蛋白病），特别是如果疼痛持续或恶化
+持续自发性的髋关节、膝关节或肩关节痛，尤其是存在骨坏死的危险因素
+持续自发性的髋关节、膝关节或肩关节痛，尤其是存在骨坏死的危险因素
+应先行X线平片检查 (1) 。数月内X线可能无异常。早期改变是局部区域硬化和透明化。 后来，由于骨骺骨折可能会出现软骨下新月征。 最后，关节面出现大片的骨塌陷和扁平化，及进一步的退行性改变。当病因是全身性时，病变可能是多发性的。
+当临床高度怀疑但X线正常或没有诊断意义时，需要进行MRI检查，其更具有特异性和敏感性 在诊断过程的早期避免对承重关节的持续损伤，这将限制关节修复手术的成功 (1)。双侧髋关节均应检查。很少需要CT扫描，尽管有时CT扫描对检测关节塌陷有价值，关节萎陷在X线平片上看不到，有时在MRI也不能明确。与 MRI 相比，骨扫描的敏感性和特异性较差，除非 MRI 和 CT 存在禁忌或不可用，否则通常不会进行骨扫描。
+分期系统可用于对骨坏死进行分类。例如，股骨头坏死协会研究循环骨 (ARCO) 分类系统是基于病变的大小和位置、股骨头的球形性质以及是否存在软骨下塌陷或髋关节关节炎 (3,4)。
+实验室检查一般正常，对检测骨坏死价值不大。 但可协助发现潜在的问题（如凝血缺陷，血红蛋白病，脂质异常）。
+
+【诊断参考】
+1.Expert Panel on Musculoskeletal Imaging, Ha AS, Chang EY, et al: ACR Appropriateness Criteria® Osteonecrosis: 2022 Update.J Am Coll Radiol19(11S):S409-S416, 2022.doi:10.1016/j.jacr.2022.09.009
+1.Expert Panel on Musculoskeletal Imaging, Ha AS, Chang EY, et al: ACR Appropriateness Criteria® Osteonecrosis: 2022 Update.J Am Coll Radiol19(11S):S409-S416, 2022.doi:10.1016/j.jacr.2022.09.009
+2.Boontanapibul K, Steere JT, Amanatullah DF, et al: Diagnosis of osteonecrosis of the femoral head: too little, too late, and independent of etiology.J Arthroplasty35(9):2342-2349, 2020.doi: 10.1016/j.arth.2020.04.092
+2.Boontanapibul K, Steere JT, Amanatullah DF, et al: Diagnosis of osteonecrosis of the femoral head: too little, too late, and independent of etiology.J Arthroplasty35(9):2342-2349, 2020.doi: 10.1016/j.arth.2020.04.092
+3.Yoon BH, Mont MA, Koo KH, et al: The 2019 Revised Version of Association Research Circulation Osseous Staging System of Osteonecrosis of the Femoral Head.J Arthroplasty35(4):933-940, 2020.doi:10.1016/j.arth.2019.11.029
+3.Yoon BH, Mont MA, Koo KH, et al: The 2019 Revised Version of Association Research Circulation Osseous Staging System of Osteonecrosis of the Femoral Head.J Arthroplasty35(4):933-940, 2020.doi:10.1016/j.arth.2019.11.029
+4.Koo KH, Mont MA, Cui Q, et al: The 2021 Association Research Circulation Osseous Classification for Early-Stage Osteonecrosis of the Femoral Head to Computed Tomography-Based Study.J Arthroplasty37(6):1074-1082, 2022.doi:10.1016/j.arth.2022.02.009
+4.Koo KH, Mont MA, Cui Q, et al: The 2021 Association Research Circulation Osseous Classification for Early-Stage Osteonecrosis of the Femoral Head to Computed Tomography-Based Study.J Arthroplasty37(6):1074-1082, 2022.doi:10.1016/j.arth.2022.02.009
+
+【治疗骨坏死】
+对症措施（例如，休息、物理治疗、非甾体抗炎药 [NSAIDs]）
+对症措施（例如，休息、物理治疗、非甾体抗炎药 [NSAIDs]）
+手术减压或其他关节保护术
+手术减压或其他关节保护术
+关节置换
+关节置换
+
+【非外科治疗】
+早期诊断出的小的、无症状的病变，尤其是那些不在负重区的病变，可能会自愈，可能不需要治疗。然而，有症状的或中等或更大的病变通常需要治疗(例如，采用简单的程序，采用核心减压等简单程序），以提高病变愈合的机会，而不会导致关节塌陷 (1)。无论是否进行其他治疗，都应减轻促发因素（例如，限制皮质类固醇的使用）以促进愈合。
+较大损伤，不论有无症状，尤其是在股骨头时，如果不治疗预后不佳。因此，需要早期治疗来减缓或阻止病程进展、拯救关节。目前尚无完全有效的治疗措施。医学治疗（例如，抗凝治疗、血管扩张剂、口服双膦酸盐）和物理治疗手段（例如，电磁场、体外冲击波）在有限的研究中显示出一定的前景，但尚未常规应用（1）。单纯限制负重或不负重对长期预后无明显改善。
+SONK通常不需要手术治疗，因为骨折会随着时间愈合。使用镇痛剂和拐杖来控制疼痛、渐进式负重和物理治疗以保持力量和运动范围是有用的辅助手段。
+
+【外科治疗】
+手术治疗骨坏死最有效的方法是在关节塌陷前进行。最常用于治疗股骨头骨坏死，未治疗的股骨头坏死预后较其他部位的骨坏死差。
+核心减压是最常用的手术；使用钻头在骨坏死区域制作一个或多个小孔或穿孔，以降低骨内压，刺激修复。骨髓减压术操作简单，如果操作正确并发症很少见。需要大约4~6周保护性的负重（负重重量在承受范围内且有一个运动辅助，如拐杖或助行器）。大多数报告显示，大约65%的患者获得了满意或良好的治疗效果（2）；然而，报告的结果存在差异，且是否需要进行全髋关节置换术也有很大不同。例如，在一项主要针对股骨颈早期骨坏死患者的研究中，大约38%的患者在核心减压术后平均26个月需要进行全髋关节置换术（3）。
+手术时将取自髂骨的浓缩自体细胞注射到核心减压径道中可以改善股骨头骨坏死的临床结果和影像学表现（4,5,6,7)。
+其他确定的方法包括各种股骨近端有血供或者无血供截骨术和骨接合术。这些方法技术含量高，6个月内需减少负重，在美国并不常做。关于其适应症和有效性的报告各不相同。这些方法应选择在有外科经验和设备的能得到理想结果的中心做。
+股骨头大面积塌陷、髋臼出现退行性变会引起疼痛和残疾，关节成形术是唯一减轻疼痛和提高关节活动度的最可靠方法。传统方式是全髋关节置换术。 95%的全髋关节和全膝关节置换效果良好，并发症低，患者3个月内重新开始大多数日常活动。
+膝关节和肩关节骨坏死比髋关节骨坏死更常用非手术治疗。骨髓减压术和骨移植术经验有限但较有前景。晚期可行部分或全部关节置换。
+
+【治疗参考文献】
+1.Zhao D, Zhang F, Wang B, et al: Guidelines for clinical diagnosis and treatment of osteonecrosis of the femoral head in adults (2019 version).J Orthop Translat21:100-110, 2020.doi:10.1016/j.jot.2019.12.004
+1.Zhao D, Zhang F, Wang B, et al: Guidelines for clinical diagnosis and treatment of osteonecrosis of the femoral head in adults (2019 version).J Orthop Translat21:100-110, 2020.doi:10.1016/j.jot.2019.12.004
+2.Hua KC, Yang XG, Feng JT, et al: The efficacy and safety of core decompression for the treatment of femoral head necrosis: a systematic review and meta-analysis.J Orthop Surg Res14(1):306, 2019.doi:10.1186/s13018-019-1359-7
+2.Hua KC, Yang XG, Feng JT, et al: The efficacy and safety of core decompression for the treatment of femoral head necrosis: a systematic review and meta-analysis.J Orthop Surg Res14(1):306, 2019.doi:10.1186/s13018-019-1359-7
+3.Andronic O, Weiss O, Shoman H, Kriechling P, Khanduja V: What are the outcomes of core decompression without augmentation in patients with nontraumatic osteonecrosis of the femoral head?Int Orthop45(3):605-613, 2021.doi:10.1007/s00264-020-04790-9
+3.Andronic O, Weiss O, Shoman H, Kriechling P, Khanduja V: What are the outcomes of core decompression without augmentation in patients with nontraumatic osteonecrosis of the femoral head?Int Orthop45(3):605-613, 2021.doi:10.1007/s00264-020-04790-9
+4.Atilla B, Bakırcıoğlu S, Shope AJ, et al: Joint-preserving procedures for osteonecrosis of the femoral head.J.EFORT Open Rev4(12):647-658, 2020.doi: 10.1302/2058-5241.4.180073
+4.Atilla B, Bakırcıoğlu S, Shope AJ, et al: Joint-preserving procedures for osteonecrosis of the femoral head.J.EFORT Open Rev4(12):647-658, 2020.doi: 10.1302/2058-5241.4.180073
+5.Hernigou P, Dubory A, Homma Y, et al: Cell therapy versus simultaneous contralateral decompression in symptomatic corticosteroid osteonecrosis: A thirty-year follow-up prospective randomized study of one hundred and twenty-five adult patients.Int Orthop42(7):1639−1649, 2018.doi: 10.1007/s00264-018-3941-8
+5.Hernigou P, Dubory A, Homma Y, et al: Cell therapy versus simultaneous contralateral decompression in symptomatic corticosteroid osteonecrosis: A thirty-year follow-up prospective randomized study of one hundred and twenty-five adult patients.Int Orthop42(7):1639−1649, 2018.doi: 10.1007/s00264-018-3941-8
+6.Zhang C, Fang X, Huang Z, et al: Addition of bone marrow stem cells therapy achieves better clinical outcomes and lower rates of disease progression compared with core decompression alone for early stage osteonecrosis of the femoral head: A systematic review and meta-analysis.J Am Acad Orthop Surg, 2020.doi: 10.5435/JAAOS-D-19-00816
+6.Zhang C, Fang X, Huang Z, et al: Addition of bone marrow stem cells therapy achieves better clinical outcomes and lower rates of disease progression compared with core decompression alone for early stage osteonecrosis of the femoral head: A systematic review and meta-analysis.J Am Acad Orthop Surg, 2020.doi: 10.5435/JAAOS-D-19-00816
+7.Mont MA, Salem HS, Piuzzi NS, et al: Nontraumatic osteonecrosis of the femoral head: where do we stand today?A 5-year update.J Bone Joint Surg Am102(12):1084-1099, 2020.doi: 10.2106/JBJS.19.01271
+7.Mont MA, Salem HS, Piuzzi NS, et al: Nontraumatic osteonecrosis of the femoral head: where do we stand today?A 5-year update.J Bone Joint Surg Am102(12):1084-1099, 2020.doi: 10.2106/JBJS.19.01271
+
+【预防骨坏死】
+将糖皮质激素可能引起的骨坏死风险最小化，必要时才使用糖皮质激素，且给予最少的有效剂量及尽可能缩短用药周期。当预计长期和/或高剂量使用皮质类固醇时，应告知患者该并发症。
+为了避免减压病引起的骨坏死，潜水或在有压力的环境下工作时应按正确原则减压。
+戒烟，不酗酒。各种药物(如抗凝血剂、血管扩张剂、降脂药)预防高危患者骨坏死的有效性证据有限且尚无定论。
+骨坏死可以是特发性的，由创伤引起，或由非创伤性因素导致；最常见的非创伤性原因是使用皮质类固醇和过度饮酒。
+骨坏死可以是特发性的，由创伤引起，或由非创伤性因素导致；最常见的非创伤性原因是使用皮质类固醇和过度饮酒。
+患者髋关节、膝盖、肩膀（有时在手腕或脚踝）出现原因不明的非创伤性疼痛或一般骨折后疼痛持续或恶化，需要怀疑有骨坏死。
+患者髋关节、膝盖、肩膀（有时在手腕或脚踝）出现原因不明的非创伤性疼痛或一般骨折后疼痛持续或恶化，需要怀疑有骨坏死。
+虽然X射线可以用于诊断，但是MRI更加敏感和更具特异性。
+虽然X射线可以用于诊断，但是MRI更加敏感和更具特异性。
+较小的病变可自行愈合，但多数病灶较大，尤其是髋关节，未经治疗时病情可进一步进展。
+较小的病变可自行愈合，但多数病灶较大，尤其是髋关节，未经治疗时病情可进一步进展。
+因为非手术治疗的疗效没有得到明确证实，非手术治疗还没有得到广泛应用。
+因为非手术治疗的疗效没有得到明确证实，非手术治疗还没有得到广泛应用。
+手术治疗往往可以限制进展和/或缓解症状，尤其对于髋关节骨坏死。
+手术治疗往往可以限制进展和/或缓解症状，尤其对于髋关节骨坏死。

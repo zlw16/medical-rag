@@ -1,0 +1,30 @@
+标题：儿童骨质疏松症
+来源：https://www.msdmanuals.cn/professional/pediatrics/bone-disorders-in-children/osteoporosis-in-children
+============================================================
+
+在儿童中，骨质疏松症可能作为原发性疾病发生，也可能作为慢性疾病、药物、不活动或营养缺乏引起的继发性疾病发生。
+特发性青少年骨质疏松症是一种罕见的骨质疏松症，当性腺功能正常的儿童出现脆性骨折和低骨量而没有可识别的潜在原因时诊断。
+
+【儿童骨质疏松症的症状和体征】
+儿童骨质疏松症的特点是骨骼脆弱，导致低创伤骨折，特别是长骨和椎骨的骨折，有时还伴有骨痛。
+椎体骨折可引起背痛、身高下降或脊柱弯曲，但可能无症状，在影像学检查中偶然发现。
+
+【儿童骨质疏松症的诊断】
+双能 X 线吸收测定（DXA）扫描
+双能 X 线吸收测定（DXA）扫描
+骨折病史
+骨折病史
+儿童骨质疏松症的诊断需要低骨密度和有临床意义的骨折史。
+低骨密度通过 DXA 扫描测量。DXA 是儿童诊断的金标准。Z 评分是指患者骨密度高于或低于平均值的标准差数。扫描的Z评分结果将儿童的骨量与年龄、性别和体型匹配的标准进行比较。Z 评分 ≤ –2.0 表示骨矿物质密度低。
+骨折史包括≥1例椎体压缩性骨折，无论骨密度如何，且无其他局部疾病或创伤，或≥2例10岁时长骨骨折，或≥3例19岁时长骨骨折。
+
+【儿童骨质疏松症的治疗】
+双膦酸盐
+双膦酸盐
+改变生活方式
+改变生活方式
+双膦酸盐是儿童骨质疏松症的主要治疗方法，通常辅以生活方式干预（例如，确保摄入足够的钙和维生素D，体育活动）（1）。
+
+【Treatment reference】
+1.Shapiro G, Fishleder J, Stepensky P, Simanovsky N, Goldman V, Lamdan R.Skeletal Changes After Hematopoietic Stem Cell Transplantation in Osteopetrosis.J Bone Miner Res.2020;35(9):1645-1651.doi:10.1002/jbmr.4037
+1.Shapiro G, Fishleder J, Stepensky P, Simanovsky N, Goldman V, Lamdan R.Skeletal Changes After Hematopoietic Stem Cell Transplantation in Osteopetrosis.J Bone Miner Res.2020;35(9):1645-1651.doi:10.1002/jbmr.4037

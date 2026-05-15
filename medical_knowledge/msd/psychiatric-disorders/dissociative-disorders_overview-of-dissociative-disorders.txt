@@ -1,0 +1,44 @@
+标题：分离障碍概述
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/dissociative-disorders/overview-of-dissociative-disorders
+============================================================
+
+许多人偶尔会出现记忆、感知、身份认同与意识的正常自动整合功能失调的情况。例如，人们可能驾车前往某地，随后意识到自己对行驶过程中的诸多细节并无记忆，原因在于其注意力被个人思虑、收听音乐或播客、抑或与乘客交谈所占据。通常，这不属于病理性的分离，且不会影响日常活动。
+相比之下，患有分离障碍的人可能完全无法回忆几分钟、几小时、几天或几周内的一系列正常行为，会感觉自己某个时间段的经历有缺失。在分离性障碍中，意识、记忆、感知、身份认同、情绪、身体表征、运动控制与行为的正常整合会出现紊乱，导致自我连续性丧失。
+存在分离障碍的患者可能会存在以下情况：
+体验连续性的中断侵入意识，包括与自我分离的感觉（去人格化）和/或与周围环境分离的感觉（去现实感），以及身份认同的碎片化。
+体验连续性的中断侵入意识，包括与自我分离的感觉（去人格化）和/或与周围环境分离的感觉（去现实感），以及身份认同的碎片化。
+重要个人信息的记忆丧失（解离性遗忘症)
+重要个人信息的记忆丧失（解离性遗忘症)
+动物和人类的大脑研究已开始明确与分离症状相关的特定脑结构及脑功能。特别是，在解离过程中，节律活动发生在后内侧深层区域，包括后扣带皮层，该区域与负责思考和计划的更高皮质区域断开（1）。同样，在催眠这些较高的控制区域与参与自我反思的大脑后部（后扣带皮层）的部分存在相对的脱节（2）。此外，与创伤相关的分离似乎涉及大脑正中前额叶皮层的激活增加，以及与小脑和眶额皮层的连接减少（3）。
+
+【分离性障碍与创伤及应激相关障碍的鉴别】
+解离障碍常由压倒性的心理压力或创伤（1）引发，这些压力可能源于创伤性事件或无法调和的内心冲突。分离障碍因此与创伤和应激相关障碍相关;急性应激障碍和创伤后应激障碍都可出现分离症状（如健忘、闪回、麻木、人格解体/现实解体）。将分离性障碍（包括分离性遗忘和分离性身份障碍）与 PTSD 区分开来可能是一项临床挑战。诊断需根据核心症状进行，最终诊断可能为：
+伴解离症状的创伤后应激障碍
+伴解离症状的创伤后应激障碍
+伴分离症状的急性应激障碍
+伴分离症状的急性应激障碍
+分离性遗忘症
+分离性遗忘症
+分离性身份障碍
+分离性身份障碍
+复杂性创伤后应激障碍
+复杂性创伤后应激障碍
+若完全符合PTSD症状群（侵入性症状、回避、情绪低落和过度警觉），通常应诊断为PTSD。PTSD 分离亚型用于对符合 PTSD 诊断标准但还经历人格解体、现实解体或两者兼有的患者进行分类 (4)。同样，分离症状也被纳入急性应激障碍的诊断标准中。然而，如果主要症状是分离性的，并非在特定创伤或多个创伤后出现，且标准的 PTSD 症状不明显，那么分离性障碍的诊断更合适。分离性身份障碍通常源于童年时期一系列受虐待的经历。
+闪回不仅会伴随强烈情绪重现创伤经历，还可能导致对后续事件的短暂遗忘。例如，士兵在战斗相关闪回中可能产生与原始创伤时相似的生存疑虑，此时表现出对幸存原始事件的解离性遗忘。相反，如果分离症状患者的主要症状表现为身份破碎和对经历中某一身份成分占主导时的遗忘，分离性身份障碍（DID）而非分离性遗忘，是适当的诊断。
+另一种诊断可能是复杂性PTSD其在 ICD-11 中被描述，但未被纳入 DSM-5-TR，其特征不仅包括主要的 PTSD 症状，还包括自我组织紊乱、情感调节障碍（强烈且不可预测的情绪波动）、难以控制情绪、负性自我概念（感觉无价值、绝望或内疚），以及人际关系障碍（难以维持健康关系，感觉与他人疏离或疏远）（5–7）。
+
+【参考文献】
+1.Vesuna S, Kauvar IV, Richman E, et al.Deep posteromedial cortical rhythm in dissociation.Nature.2020;586(7827):87-94.doi:10.1038/s41586-020-2731-9
+1.Vesuna S, Kauvar IV, Richman E, et al.Deep posteromedial cortical rhythm in dissociation.Nature.2020;586(7827):87-94.doi:10.1038/s41586-020-2731-9
+2.Jiang H, White MP, Greicius MD, Waelde LC, Spiegel D.Brain Activity and Functional Connectivity Associated with Hypnosis.Cereb Cortex.2017;27(8):4083-4093.doi:10.1093/cercor/bhw220
+2.Jiang H, White MP, Greicius MD, Waelde LC, Spiegel D.Brain Activity and Functional Connectivity Associated with Hypnosis.Cereb Cortex.2017;27(8):4083-4093.doi:10.1093/cercor/bhw220
+3.Lebois LAM, Harnett NG, van Rooij SJH, et al.Persistent Dissociation and Its Neural Correlates in Predicting Outcomes After Trauma Exposure [published correction appears inAm J Psychiatry.2022 Aug;179(8):585. doi: 10.1176/appi.ajp.21090911correction.].Am J Psychiatry.2022;179(9):661-672.doi:10.1176/appi.ajp.21090911
+3.Lebois LAM, Harnett NG, van Rooij SJH, et al.Persistent Dissociation and Its Neural Correlates in Predicting Outcomes After Trauma Exposure [published correction appears inAm J Psychiatry.2022 Aug;179(8):585. doi: 10.1176/appi.ajp.21090911correction.].Am J Psychiatry.2022;179(9):661-672.doi:10.1176/appi.ajp.21090911
+4.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 329-348.
+4.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 329-348.
+5.Rie S, Kruijt S, Stojimirović E, van der Aa N, Boelen PA.Posttraumatic Stress Disorder and Dissociation in a Clinical Sample of Refugees in the Netherlands: Evidence for a Dissociative Subtype.J Trauma Dissociation.2025;26(2):261-279.doi:10.1080/15299732.2024.2448429
+5.Rie S, Kruijt S, Stojimirović E, van der Aa N, Boelen PA.Posttraumatic Stress Disorder and Dissociation in a Clinical Sample of Refugees in the Netherlands: Evidence for a Dissociative Subtype.J Trauma Dissociation.2025;26(2):261-279.doi:10.1080/15299732.2024.2448429
+6.Hamer R, Bestel N, Mackelprang JL.Dissociative Symptoms in Complex Posttraumatic Stress Disorder: A Systematic Review.J Trauma Dissociation.2024;25(2):232-247.doi:10.1080/15299732.2023.2293785
+6.Hamer R, Bestel N, Mackelprang JL.Dissociative Symptoms in Complex Posttraumatic Stress Disorder: A Systematic Review.J Trauma Dissociation.2024;25(2):232-247.doi:10.1080/15299732.2023.2293785
+7.Hyland P, Hamer R, Fox R, et al.Is Dissociation a Fundamental Component of ICD-11 Complex Posttraumatic Stress Disorder?.J Trauma Dissociation.2024;25(1):45-61.doi:10.1080/15299732.2023.2231928
+7.Hyland P, Hamer R, Fox R, et al.Is Dissociation a Fundamental Component of ICD-11 Complex Posttraumatic Stress Disorder?.J Trauma Dissociation.2024;25(1):45-61.doi:10.1080/15299732.2023.2231928

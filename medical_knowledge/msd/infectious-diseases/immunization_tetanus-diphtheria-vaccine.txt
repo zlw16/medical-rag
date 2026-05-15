@@ -1,0 +1,70 @@
+标题：破伤风-白喉疫苗
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/immunization/tetanus-diphtheria-vaccine
+============================================================
+
+破伤风疫苗可以单独使用，但破伤风疫苗通常与白喉和/或百日咳疫苗联合使用（白喉/破伤风类毒素/百日咳疫苗）。 白喉疫苗只能与其他疫苗联合使用。
+（参见免疫接种概述。）
+
+【破伤风-白喉疫苗制剂】
+最常用制剂为破伤风类毒素与白喉类毒素联苗（Td）：
+对于青少年及成人：Td或Tdap
+对于青少年及成人：Td或Tdap
+对于儿童：DT，含有更高剂量的白喉类毒素（吸附白喉类毒素/破伤风类毒素、DT、Td）
+对于儿童：DT，含有更高剂量的白喉类毒素（吸附白喉类毒素/破伤风类毒素、DT、Td）
+也可用仅含破伤风类毒素（TT）的制剂，但不建议使用，因为破伤风和白喉这两种抗原都需要定期加强接种。
+破伤风-白喉-百日咳（Tdap）疫苗是一种含百日咳疫苗成分的青少年和成人制剂。
+白喉-破伤风联合疫苗已在美国停用。
+
+【破伤风-白喉疫苗的适应症】
+在11至12岁接种Tdap加强剂后，每10年常规接种一次Td或Tdap加强剂。对于未接种或未完成至少 3 剂破伤风和白喉疫苗初次免疫系列（包括 Tdap）的患者，应开始或完成该系列接种（1–3）。
+如果患者的伤口有感染破伤风的风险(见表常规伤口处理中的破伤风预防），若距离上次接种已经≥5年，那么需要接种Td或 Tdap 加强剂。若是从未接种过Tdap疫苗的成年人，则应以一剂Tdap疫苗替代Td加强剂 (1)。
+孕妇应在每次妊娠期间接种1 剂 Tdap，无论有无接种史。 尽管Tdap可以在妊娠期间的任何时间给药，但是最好是在妊娠 27 至 36 周时的早期给药 (4)。
+在对含百日咳疫苗（即DTaP或Tdap）有禁忌症的儿童中，可以按照与DTaP相同的时间表在说明书外使用Td疫苗；然而，这可能导致对白喉的保护不够理想。(See alsoCenters for Disease Control and Prevention [CDC]: About Young Children with a Contraindication to Pertussis-Containing Vaccines.)
+
+【适应症参考文献】
+1.Havers FP, Moro PL, Hunter P, Hariri S, Bernstein H.Use of Tetanus Toxoid, Reduced Diphtheria Toxoid, and Acellular Pertussis Vaccines: Updated Recommendations of the Advisory Committee on Immunization Practices - United States, 2019.MMWR Morb Mortal Wkly Rep.2020;69(3):77-83.Published 2020 Jan 24.doi:10.15585/mmwr.mm6903a5
+1.Havers FP, Moro PL, Hunter P, Hariri S, Bernstein H.Use of Tetanus Toxoid, Reduced Diphtheria Toxoid, and Acellular Pertussis Vaccines: Updated Recommendations of the Advisory Committee on Immunization Practices - United States, 2019.MMWR Morb Mortal Wkly Rep.2020;69(3):77-83.Published 2020 Jan 24.doi:10.15585/mmwr.mm6903a5
+2.CDC.Child and Adolescent Immunization Schedule by Age.Accessed September 23, 2025.
+2.CDC.Child and Adolescent Immunization Schedule by Age.Accessed September 23, 2025.
+3.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+3.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+4.Omer SB.Maternal Immunization.N Engl J Med.2017;376(13):1256-1267.doi:10.1056/NEJMra1509044
+4.Omer SB.Maternal Immunization.N Engl J Med.2017;376(13):1256-1267.doi:10.1056/NEJMra1509044
+
+【破伤风-白喉疫苗的禁忌症及注意事项】
+Td疫苗的主要禁忌证是：
+之前接种此类疫苗或疫苗成分后发生严重的过敏反应（如过敏性休克）。
+之前接种此类疫苗或疫苗成分后发生严重的过敏反应（如过敏性休克）。
+Td疫苗的注意事项包括以下内容：
+在之前接种含有破伤风类毒素的疫苗后6周内出现吉兰-巴雷综合征
+在之前接种含有破伤风类毒素的疫苗后6周内出现吉兰-巴雷综合征
+伴或不伴发热的中度或重度急性疾病
+伴或不伴发热的中度或重度急性疾病
+曾有接种含破伤风或白喉类毒素疫苗后出现III型超敏反应史（自上次含破伤风的疫苗接种后，疫苗接种间隔≥10年）
+曾有接种含破伤风或白喉类毒素疫苗后出现III型超敏反应史（自上次含破伤风的疫苗接种后，疫苗接种间隔≥10年）
+
+【破伤风-白喉疫苗的剂量和接种】
+Td 剂量为 0.5 mL IM。
+之后每隔10年予以强化剂疫苗接种一次。
+
+【破伤风-白喉疫苗的不良反应】
+不良反应较为罕见。其中包括过敏反应和臂丛神经炎。
+轻度不良反应包括以下几点：
+注射部位出现红斑、肿胀和疼痛
+注射部位出现红斑、肿胀和疼痛
+轻度发热
+轻度发热
+恶心、呕吐、腹泻或腹部不适
+恶心、呕吐、腹泻或腹部不适
+有关这些疫苗不良反应的更多信息，请参阅处方信息。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Diphtheria, Tetanus and Pertussis (DTaP/Tdap/Td) Vaccines
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Diphtheria, Tetanus and Pertussis (DTaP/Tdap/Td) Vaccines
+Centers for Disease Control and Prevention (CDC):Diphtheria, Tetanus, and Pertussis
+Centers for Disease Control and Prevention (CDC):Diphtheria, Tetanus, and Pertussis
+European Centre for Disease Prevention and Control (ECDC):Diphtheria: Recommended vaccinations
+European Centre for Disease Prevention and Control (ECDC):Diphtheria: Recommended vaccinations
+ECDC:Tetanus: Recommended vaccinations
+ECDC:Tetanus: Recommended vaccinations

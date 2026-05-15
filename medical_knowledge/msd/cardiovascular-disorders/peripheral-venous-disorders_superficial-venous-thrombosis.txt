@@ -1,0 +1,24 @@
+标题：浅表静脉血栓形成
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/peripheral-venous-disorders/superficial-venous-thrombosis
+============================================================
+
+上肢浅表静脉血栓形成最常由静脉内注射或置管引起。静脉曲张似乎是下肢浅静脉血栓形成的主要危险因素，尤其是女性。浅表静脉血栓罕有严重并发症和栓塞。
+典型症状包括沿可触及浅静脉走行的疼痛、压痛或可触及的硬索。上覆的皮肤通常是温暖的并有红斑。
+在臂部、腿部和躯干的正常静脉多次发生、消除和再发的游走性浅表静脉血栓形成可能是胰腺癌和其他腺癌的（Trousseau综合征）先兆。
+诊断基于病史和体格检查。膝盖以上的浅静脉血栓形成患者有深静脉血栓形成（DVT）的风险，应行超声检查 (1)。
+
+【参考文献】
+1.Galanaud JP, Sevestre MA, Pernod G, et al.Long-term risk of venous thromboembolism recurrence after isolated superficial vein thrombosis.J Thromb Haemost2017;15(6):1123-1131.doi:10.1111/jth.13679
+1.Galanaud JP, Sevestre MA, Pernod G, et al.Long-term risk of venous thromboembolism recurrence after isolated superficial vein thrombosis.J Thromb Haemost2017;15(6):1123-1131.doi:10.1111/jth.13679
+
+【浅表静脉血栓形成的治疗】
+温敷和非甾体类抗炎药（NSAIDs）
+温敷和非甾体类抗炎药（NSAIDs）
+有时使用抗凝剂
+有时使用抗凝剂
+浅静脉血栓形成的传统治疗上包括热敷和NSAIDs。
+对大范围浅表静脉血栓形成的患者，抗凝治疗（如LMWH、磺达肝癸钠）通常有益(1)。最佳方案及疗程未知，但多数专家推荐使用低分子量肝素（如依诺肝素40mg 皮下注射 qd）或磺达肝癸钠（2.5mg 皮下注射 qd）治疗约1个月。
+
+【治疗参考文献】
+1.Decousus H, Prandoni P, Mismetti P, et al.Fondaparinuxfor the treatment of superficial-vein thrombosis in the legs.N Engl J Med2010;363(13):1222-1232.doi:10.1056/NEJMoa0912072
+1.Decousus H, Prandoni P, Mismetti P, et al.Fondaparinuxfor the treatment of superficial-vein thrombosis in the legs.N Engl J Med2010;363(13):1222-1232.doi:10.1056/NEJMoa0912072

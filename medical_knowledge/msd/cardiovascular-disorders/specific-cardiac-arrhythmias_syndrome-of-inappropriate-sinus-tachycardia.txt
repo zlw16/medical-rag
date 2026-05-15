@@ -1,0 +1,66 @@
+标题：不适当窦性心动过速综合征
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/syndrome-of-inappropriate-sinus-tachycardia
+============================================================
+
+(参见心律失常概述。)
+不适当窦性心动过速综合征被定义为持续或阵发性窦性心率 > 100 次/分钟，平均 24 小时心率 > 90 次/分钟，且无生理原因或明显的继发原因，伴有令人痛苦的症状（1），以心悸、直立不耐受、运动不耐受为主。
+不适当窦性心动过速综合征主要影响 20 多岁至 40 多岁的女性（2）。
+
+【参考文献】
+1.Sheldon RS, Grubb BP 2nd, Olshansky B, et al: 2015 heart rhythm society expert consensus statement on the diagnosis and treatment of postural tachycardia syndrome, inappropriate sinus tachycardia, and vasovagal syncope.Heart Rhythm12(6):e41–e63, 2015.doi: 10.1016/j.hrthm.2015.03.029
+1.Sheldon RS, Grubb BP 2nd, Olshansky B, et al: 2015 heart rhythm society expert consensus statement on the diagnosis and treatment of postural tachycardia syndrome, inappropriate sinus tachycardia, and vasovagal syncope.Heart Rhythm12(6):e41–e63, 2015.doi: 10.1016/j.hrthm.2015.03.029
+2.Ahmed A, Pothineni NVK, Charate R, et al: Inappropriate Sinus Tachycardia: Etiology, Pathophysiology, and Management: JACC Review Topic of the Week.J Am Coll Cardiol79(24):2450–2462, 2022.doi: 10.1016/j.jacc.2022.04.019
+2.Ahmed A, Pothineni NVK, Charate R, et al: Inappropriate Sinus Tachycardia: Etiology, Pathophysiology, and Management: JACC Review Topic of the Week.J Am Coll Cardiol79(24):2450–2462, 2022.doi: 10.1016/j.jacc.2022.04.019
+
+【不适当窦性心动过速的病因】
+不适当窦性心动过速综合征的病因不明。潜在的组成部分包括
+窦房结内在自律性增强
+窦房结内在自律性增强
+迷走神经敏感性降低
+迷走神经敏感性降低
+增强β-肾上腺素能敏感性
+增强β-肾上腺素能敏感性
+神经体液调节紊乱
+神经体液调节紊乱
+
+【不适当窦性心动过速的症状和体征】
+通常，患有不适当窦性心动过速综合征的患者症状非常明显，有心悸、直立不耐受、运动不耐受、虚弱、疲劳、呼吸困难、胸部不适和焦虑。体征为站立时心动过速加剧，且无直立性低血压。后者有助于区分该综合征与体位性心动过速综合征（POTS）。
+
+【不适当窦性心动过速综合征的诊断】
+24 小时动态心电图监测
+24 小时动态心电图监测
+测量促甲状腺激素 (TSH) 以排除甲状腺功能亢进症
+测量促甲状腺激素 (TSH) 以排除甲状腺功能亢进症
+不适当的窦性心动过速是一种排除性诊断。考虑引起窦性心动过速的所有其他继发原因，包括生理疾病（例如心脏病、感染、贫血、缺氧）、激素紊乱（例如甲状腺功能亢进、嗜铬细胞瘤）、焦虑、疼痛、药物和其他刺激物（1）。
+
+【诊断参考文献】
+1.Sheldon RS, Grubb BP 2nd, Olshansky B, et al: 2015 heart rhythm society expert consensus statement on the diagnosis and treatment of postural tachycardia syndrome, inappropriate sinus tachycardia, and vasovagal syncope.Heart Rhythm12(6):e41–e63, 2015.doi: 10.1016/j.hrthm.2015.03.029
+1.Sheldon RS, Grubb BP 2nd, Olshansky B, et al: 2015 heart rhythm society expert consensus statement on the diagnosis and treatment of postural tachycardia syndrome, inappropriate sinus tachycardia, and vasovagal syncope.Heart Rhythm12(6):e41–e63, 2015.doi: 10.1016/j.hrthm.2015.03.029
+
+【不适当窦性心动过速综合征的治疗】
+避免使用拟交感神经药物，包括咖啡因
+避免使用拟交感神经药物，包括咖啡因
+通过体力活动下调β-肾上腺素能活性
+通过体力活动下调β-肾上腺素能活性
+增强迷走神经活动（如瑜伽、冥想、呼吸练习）
+增强迷走神经活动（如瑜伽、冥想、呼吸练习）
+非选择性 β-1 受体阻滞剂药物或非二氢吡啶类钙拮抗剂治疗
+非选择性 β-1 受体阻滞剂药物或非二氢吡啶类钙拮抗剂治疗
+伊伐布雷定（Ivabradine）
+伊伐布雷定（Ivabradine）
+有症状的不适当窦性心动过速综合征的治疗很困难，并且该病症通常得不到充分治疗（1，2）。迄今为止，最有前景的治疗是使用伊伐布雷定，这是一种阻断主导窦房结起搏器中电流（If 电流，或称有趣电流）的阻滞剂（1）。
+已经提出了经导管消融修改窦房结的方法。
+
+【治疗参考文献】
+1.Sheldon RS, Grubb BP 2nd, Olshansky B, et al: 2015 heart rhythm society expert consensus statement on the diagnosis and treatment of postural tachycardia syndrome, inappropriate sinus tachycardia, and vasovagal syncope.Heart Rhythm12(6):e41–e63, 2015.doi: 10.1016/j.hrthm.2015.03.029
+1.Sheldon RS, Grubb BP 2nd, Olshansky B, et al: 2015 heart rhythm society expert consensus statement on the diagnosis and treatment of postural tachycardia syndrome, inappropriate sinus tachycardia, and vasovagal syncope.Heart Rhythm12(6):e41–e63, 2015.doi: 10.1016/j.hrthm.2015.03.029
+2.Ahmed A, Pothineni NVK, Charate R, et al: Inappropriate Sinus Tachycardia: Etiology, Pathophysiology, and Management: JACC Review Topic of the Week.J Am Coll Cardiol79(24):2450–2462, 2022.doi: 10.1016/j.jacc.2022.04.019
+2.Ahmed A, Pothineni NVK, Charate R, et al: Inappropriate Sinus Tachycardia: Etiology, Pathophysiology, and Management: JACC Review Topic of the Week.J Am Coll Cardiol79(24):2450–2462, 2022.doi: 10.1016/j.jacc.2022.04.019
+不适当心动过速综合征导致心率不适当地加快。
+不适当心动过速综合征导致心率不适当地加快。
+通常会出现明显的心悸、直立不耐受和运动不耐受症状。
+通常会出现明显的心悸、直立不耐受和运动不耐受症状。
+诊断需要排除窦性心动过速的继发原因。
+诊断需要排除窦性心动过速的继发原因。
+不适当窦性心动过速综合征的治疗包括生活方式改变和β受体阻滞剂；伊伐布雷定治疗显示出良好的前景。
+不适当窦性心动过速综合征的治疗包括生活方式改变和β受体阻滞剂；伊伐布雷定治疗显示出良好的前景。

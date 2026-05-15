@@ -1,0 +1,76 @@
+标题：腐蚀性物质吞入
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/poisoning/caustic-ingestion
+============================================================
+
+(参见中毒的一般原则。)
+在世界范围内，80%的腐蚀性物质吞食发生在幼儿身上，通常是意外吞食少量物质，预后较好。对于成年人来说，腐蚀性摄入通常是由想要自杀的人故意摄入大量腐蚀性物质，这会危及生命。常见腐蚀性物质来源包括：固体/液体管道疏通剂、马桶清洁剂以及洗衣凝珠（1、2）。工业用品通常比家用品所含腐蚀剂的浓度大，因此所造成的损害也更严重。
+
+【参考文献】
+1.Centers for Disease Control and Prevention (CDC).Health hazards associated with laundry detergent pods - United States, May-June 2012.MMWR Morb Mortal Wkly Rep.2012;61(41):825-829.
+1.Centers for Disease Control and Prevention (CDC).Health hazards associated with laundry detergent pods - United States, May-June 2012.MMWR Morb Mortal Wkly Rep.2012;61(41):825-829.
+2.Hoffman RS, Burns MM, Gosselin S.Ingestion of Caustic Substances.N Engl J Med.2020;382(18):1739-1748.doi:10.1056/NEJMra1810769
+2.Hoffman RS, Burns MM, Gosselin S.Ingestion of Caustic Substances.N Engl J Med.2020;382(18):1739-1748.doi:10.1056/NEJMra1810769
+
+【腐蚀性物质摄入的病理生理】
+强酸会造成凝固性坏死，形成焦痂，限制了进一步的损害。强酸对胃的损害甚于食管。
+强碱会造成液化性坏死，不形成焦痂，损害呈持续性，直至碱性被中和或稀释为止。强碱对食管的损害甚于胃部，但大量食入时两者都会严重受损。
+固体腐蚀剂易残留小颗粒，黏附并灼伤组织，阻碍进一步摄食并引起局部损伤。由于液态制剂不黏附，易致大量摄入，损害可能较广。液态腐蚀剂还可能被吸入气道，导致上呼吸道损伤。
+
+【腐蚀性物质摄入的症状和体征】
+早期症状包括流涎和吞咽困难。严重病例口腔、喉部、胸部或腹部迅速出现疼痛、呕吐，有时可见出血。气道灼伤会引起咳嗽、气促、喘鸣。
+口腔内可见红肿的组织；然而，腐蚀性液体也许已经造成深部消化道的损害不伴有口腔的灼伤。
+食管穿孔会引起纵隔炎，伴随严重胸痛、心动过速、发热、气促和休克。胃穿孔会导致腹膜炎。食管和胃穿孔会在数小时、数周或期间任何时间内发生。
+即使早期症状很轻并经治疗充分，数周后仍可能发生食管狭窄。狭窄可导致食道缩短或变窄以及吞咽困难和运动障碍。
+摄入腐蚀性物质的幸存者发生食管癌的风险更高 (1)。
+
+【症状和体征参考】
+1.Kochhar R, Sethy PK, Kochhar S, et al.Corrosive induced carcinoma of esophagus: report of three patients and review of literature.J Gastroenterol Hepatol.2006;21(4):777-780.doi:10.1111/j.1440-1746.2006.03211.x
+1.Kochhar R, Sethy PK, Kochhar S, et al.Corrosive induced carcinoma of esophagus: report of three patients and review of literature.J Gastroenterol Hepatol.2006;21(4):777-780.doi:10.1111/j.1440-1746.2006.03211.x
+
+【腐蚀性物质摄入的诊断】
+内镜检查
+内镜检查
+根据口腔内有否灼伤来判断有无食管和胃的灼伤是不可靠的，所以当症状或病史提示摄入量不少时，存在精确内镜检查的指征，以明确食管和胃有无灼伤及其严重程度。不需要立即进行内窥镜检查；在考虑进行内窥镜检查之前，患者应该稳定下来。
+胸部 X 线片对评估食管穿孔的敏感性有限，因此如果怀疑穿孔，应进行胸部和腹部的 CT 扫描 (1, 2)。
+
+【诊断参考】
+1.Kaewlai R, Noppakunsomboon N, Tongsai S, et al.Performance of computed tomography and its reliability for the diagnosis of transmural gastrointestional necrosis in a setting of acute ingestion of predominantly strong acid substances in adults.Clin Toxicol (Phila).2023;61(5):346-354.doi:10.1080/15563650.2023.2184242
+1.Kaewlai R, Noppakunsomboon N, Tongsai S, et al.Performance of computed tomography and its reliability for the diagnosis of transmural gastrointestional necrosis in a setting of acute ingestion of predominantly strong acid substances in adults.Clin Toxicol (Phila).2023;61(5):346-354.doi:10.1080/15563650.2023.2184242
+2.Khan HK, Rathi V, Shreshtha S, et al.CT appearances of gastric injury due to caustic ingestion and associated findings (a study of 30 cases).Emerg Radiol.2023;30(4):539-553.doi:10.1007/s10140-023-02148-3
+2.Khan HK, Rathi V, Shreshtha S, et al.CT appearances of gastric injury due to caustic ingestion and associated findings (a study of 30 cases).Emerg Radiol.2023;30(4):539-553.doi:10.1007/s10140-023-02148-3
+
+【腐蚀性物质摄入的治疗】
+胃排空和活性炭是禁忌的
+胃排空和活性炭是禁忌的
+有时可通过口服液体稀释
+有时可通过口服液体稀释
+一般来说，酸和碱摄入的处理方式相似，并给予支持性护理。(警告：禁止通过催吐或洗胃进行胃排空，因为这会使上消化道再次暴露于腐蚀性物质。禁止尝试用碱性物质调节pH值来中和腐蚀性酸（反之亦然），因为可能导致严重的放热反应。活性炭禁用，因为它不吸收腐蚀剂，可能会渗入烧伤组织并干扰内窥镜评估。鼻胃管插入存在争议，因为担心会进一步损伤已受损的食管黏膜表面。插入过程中可利用内镜直接观察，避免鼻胃管刺破食管黏膜。）（1）。
+
+【要点与误区】
+要点与误区
+禁用催吐或洗胃进行胃排空，因为这会使上消化道再次暴露于腐蚀剂。
+禁用催吐或洗胃进行胃排空，因为这会使上消化道再次暴露于腐蚀剂。
+也禁忌用碱性物质试图来中和酸性腐蚀物（反之亦然），因为这会产生热量，可能加重组织损伤。
+也禁忌用碱性物质试图来中和酸性腐蚀物（反之亦然），因为这会产生热量，可能加重组织损伤。
+口服牛奶或水稀释仅在吞食后的几分钟内有效，但如果吞食的是固体腐蚀剂，则延迟的稀释也可能会起效。如果患者出现恶心、流涎、喘鸣或提示有内脏穿孔的症状，应避免稀释处理。
+食管或胃穿孔需予抗生素和外科手术治疗 (见急性穿孔)。不推荐静脉注射皮质激素和预防性使用抗生素 (2, 3)。狭窄可通过探条扩张术治疗，如果严重或无反应，则通过结肠间置术进行食管旁路术 (4)。
+
+【治疗参考文献】
+1.Chen RJ, O'Malley RN, Salzman M.Updates on the Evaluation and Management of Caustic Exposures.Emerg Med Clin North Am.2022;40(2):343-364.doi:10.1016/j.emc.2022.01.013
+1.Chen RJ, O'Malley RN, Salzman M.Updates on the Evaluation and Management of Caustic Exposures.Emerg Med Clin North Am.2022;40(2):343-364.doi:10.1016/j.emc.2022.01.013
+2.Pelclová D, Navrátil T.Do corticosteroids prevent oesophageal stricture after corrosive ingestion?.Toxicol Rev.2005;24(2):125-129.doi:10.2165/00139709-200524020-00006
+2.Pelclová D, Navrátil T.Do corticosteroids prevent oesophageal stricture after corrosive ingestion?.Toxicol Rev.2005;24(2):125-129.doi:10.2165/00139709-200524020-00006
+3.Katibe R, Abdelgadir I, McGrogan P, Akobeng AK.Corticosteroids for Preventing Caustic Esophageal Strictures: Systematic Review and Meta-analysis.J Pediatr Gastroenterol Nutr.2018;66(6):898-902.doi:10.1097/MPG.0000000000001852
+3.Katibe R, Abdelgadir I, McGrogan P, Akobeng AK.Corticosteroids for Preventing Caustic Esophageal Strictures: Systematic Review and Meta-analysis.J Pediatr Gastroenterol Nutr.2018;66(6):898-902.doi:10.1097/MPG.0000000000001852
+4.Kuehn F, Klar E, Schwandner F, et al.Endoscopic continuity-preserving therapy for esophageal stenosis and perforation following colliquative necrosis.Endoscopy.2014;46 Suppl 1 UCTN:E361-E362.doi:10.1055/s-0034-1377283
+4.Kuehn F, Klar E, Schwandner F, et al.Endoscopic continuity-preserving therapy for esophageal stenosis and perforation following colliquative necrosis.Endoscopy.2014;46 Suppl 1 UCTN:E361-E362.doi:10.1055/s-0034-1377283
+如果摄入大量腐蚀性物质或工业强度腐蚀产品，应怀疑有严重后果。
+如果摄入大量腐蚀性物质或工业强度腐蚀产品，应怀疑有严重后果。
+碱通过液化造成破坏，直到被充分稀释。
+碱通过液化造成破坏，直到被充分稀释。
+不要洗胃，不要给予活性炭，也不要中和酸或碱。
+不要洗胃，不要给予活性炭，也不要中和酸或碱。
+考虑食管和胃灼伤，需做胃镜检查，即使无口腔灼伤表现。
+考虑食管和胃灼伤，需做胃镜检查，即使无口腔灼伤表现。
+使用抗生素和手术治疗穿孔。
+使用抗生素和手术治疗穿孔。

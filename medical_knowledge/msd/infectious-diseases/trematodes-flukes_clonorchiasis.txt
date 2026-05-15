@@ -1,0 +1,93 @@
+标题：华支睾吸虫病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/trematodes-flukes/clonorchiasis
+============================================================
+
+吸虫为一类可感染人体多处部位（如血管、胃肠道、肺或肝脏）的扁平状的寄生虫，不同种类感染部位不同 (1,2)。
+华支睾吸虫病流行于东亚地区（包括中国、日本、韩国、越南北部及中国台湾）以及俄罗斯部分地区。此外，曾于流行区居住的群体，或食用来自流行区生鲜或未煮熟鱼类（有时为虾类）的人群亦可发生感染。C. sinensis（华支睾吸虫）感染人数正在增长，从20世纪90年代的估计700万增加到2010年代的全球1500万至2000万（3，4）。
+
+【参考文献】
+1.World Health Organization: Neglected tropical diseases: Clonorchiasis.July 28, 2020.Accessed July 11, 2025.
+1.World Health Organization: Neglected tropical diseases: Clonorchiasis.July 28, 2020.Accessed July 11, 2025.
+2.Centers for Disease Control and Prevention: DPDx–Laboratory Identification of Parasites of Public Health Concern: Clonorchiasis.November 13, 2024.Accessed July 11, 2025.
+2.Centers for Disease Control and Prevention: DPDx–Laboratory Identification of Parasites of Public Health Concern: Clonorchiasis.November 13, 2024.Accessed July 11, 2025.
+3.Fürst T, Keiser J, Utzinger J: Global burden of human food-borne trematodiasis: a systematic review and meta-analysis.Lancet Infect Dis12(3):210-221, 2012.doi:10.1016/S1473-3099(11)70294-8
+3.Fürst T, Keiser J, Utzinger J: Global burden of human food-borne trematodiasis: a systematic review and meta-analysis.Lancet Infect Dis12(3):210-221, 2012.doi:10.1016/S1473-3099(11)70294-8
+4.Tang ZL, Huang Y, Yu XB: Current status and perspectives ofClonorchis sinensisand clonorchiasis: epidemiology, pathogenesis, omics, prevention and control.Infect Dis Poverty5(1):71, 2016.Published 2016 Jul 6.doi:10.1186/s40249-016-0166-1
+4.Tang ZL, Huang Y, Yu XB: Current status and perspectives ofClonorchis sinensisand clonorchiasis: epidemiology, pathogenesis, omics, prevention and control.Infect Dis Poverty5(1):71, 2016.Published 2016 Jul 6.doi:10.1186/s40249-016-0166-1
+
+【华支睾吸虫病的病理生理学】
+1.在人类宿主体内，成虫通过胆道将受精卵释放到肠道内。随粪便排泄。
+1.在人类宿主体内，成虫通过胆道将受精卵释放到肠道内。随粪便排泄。
+2.虫卵被螺类（中间宿主）摄取；超过 100 种钉螺可作为中间宿主。每个虫卵都会释放出一条毛蚴（第一个幼虫阶段），发育成胞蚴，然后是雷蚴，再然后是尾蚴。
+2.虫卵被螺类（中间宿主）摄取；超过 100 种钉螺可作为中间宿主。每个虫卵都会释放出一条毛蚴（第一个幼虫阶段），发育成胞蚴，然后是雷蚴，再然后是尾蚴。
+3.尾蚴从螺体内释放后，在水中短暂游动，与淡水鱼接触并穿透其肌肉组织，在其中形成包囊（即囊蚴阶段）。
+3.尾蚴从螺体内释放后，在水中短暂游动，与淡水鱼接触并穿透其肌肉组织，在其中形成包囊（即囊蚴阶段）。
+4.人类通过食用未煮熟的、盐渍的、腌制的或熏制的淡水鱼或淡水虾而感染。
+4.人类通过食用未煮熟的、盐渍的、腌制的或熏制的淡水鱼或淡水虾而感染。
+5.摄入后，囊蚴会在十二指肠中脱囊（从现有包囊中破裂出来）。
+5.摄入后，囊蚴会在十二指肠中脱囊（从现有包囊中破裂出来）。
+6.通过Vater壶腹进入胆总管并移行至细的肝内胆管（或偶尔进入胆囊或胰管），在那里约1个月后发育成熟为成虫。
+6.通过Vater壶腹进入胆总管并移行至细的肝内胆管（或偶尔进入胆囊或胰管），在那里约1个月后发育成熟为成虫。
+Image from the Centers for Disease Control and Prevention, Global Health, Division of Parasitic Diseases and Malaria.
+华支睾吸虫C. sinensis的成虫寄生在胆管。虫卵随粪排出并被螺类摄入。尾蚴（自由游动的幼虫）从受感染螺类中释放后，可感染多种淡水鱼类和虾。人类可通过食用含有包囊尾蚴（静息或发育阶段）的生的、未煮熟的、酒浸的、风干的、腌制的或盐渍的鱼类感染，偶尔也可因食用淡水虾而感染。囊蚴在十二指肠释出，进入胆总管并移行至肝内胆小管（或偶尔进入胆囊或胰管），约1个月发育成熟为成虫。成虫的寿命可长达≥25年，并从3~5mm生长到10~25mm。一些美国越战退伍军人在战争结束50年后，经检测有血清学证据表明曾感染过肝吸虫病，但粪便检查均未发现可检测到的肝吸虫寄生虫（1)。
+
+【病理生理学参考文献】
+1.Psevdos G, Ford FM, Hong S-T: Screening US Vietnam veterans for liver fluke exposure 5 decades after the end of the war.Infectious Diseases in Clinical Practice26(4):208–210, 2018.doi: 10.1097/IPC.0000000000000611
+1.Psevdos G, Ford FM, Hong S-T: Screening US Vietnam veterans for liver fluke exposure 5 decades after the end of the war.Infectious Diseases in Clinical Practice26(4):208–210, 2018.doi: 10.1097/IPC.0000000000000611
+
+【华支睾吸虫病的症状和体征】
+症状与蠕虫负荷有关；大多数感染为轻度负荷且无症状。症状通常出现在寄生虫负荷量更大、感染持续时间更长的患者身上。临床表现通常是由于炎症过程引起，导致胆道间歇性阻塞，或蠕虫摄食黏膜组织造成的机械性损伤、蠕虫代谢产物的毒性作用以及继发性细菌感染所致（1）。
+感染急性期，感染较重可导致发热、寒战、上腹痛、肝轻度肿大伴有有触痛、轻度黄疸以及嗜酸性细胞增多。此后可出现腹泻。症状通常持续 2 至 4 周。
+在重度感染中，慢性胆管炎可能发展为肝实质萎缩和门静脉纤维化。当大量肝吸虫阻塞胆管时，可能出现黄疸。
+其他并发症包括化脓性胆管炎、胆石症、胆囊炎、胰腺炎，以及晚期的胆管癌（胆道恶性肿瘤 [2]）。发生胆管癌的越南退伍军人可能在东南亚服役期间已感染Clonorchis sinensis或Opisthorchis viverrini（3)。亚洲人群及年龄较大的男性患胆管癌的死亡风险增加（4）。
+
+【症状和体征参考文献】
+1.Centers for Disease Control and Prevention: DPDx–Laboratory Identification of Parasites of Public Health Concern: Clonorchiasis.November 13, 2024.Accessed July 1, 2025.
+1.Centers for Disease Control and Prevention: DPDx–Laboratory Identification of Parasites of Public Health Concern: Clonorchiasis.November 13, 2024.Accessed July 1, 2025.
+2.Xia J, Jiang SC, Peng HJ: Association between liver fluke infection and hepatobiliary pathological changes: A systematic review and meta-analysis.PLoS One10 (7):e0132673, 2015.doi: 10.1371/journal.pone.0132673
+2.Xia J, Jiang SC, Peng HJ: Association between liver fluke infection and hepatobiliary pathological changes: A systematic review and meta-analysis.PLoS One10 (7):e0132673, 2015.doi: 10.1371/journal.pone.0132673
+3.Psevdos G, Ford FM, Hong S-T: Screening US Vietnam veterans for liver fluke exposure 5 decades after the end of the war.Infectious Diseases in Clinical Practice26(4):208–210, 2018.doi: 10.1097/IPC.0000000000000611
+3.Psevdos G, Ford FM, Hong S-T: Screening US Vietnam veterans for liver fluke exposure 5 decades after the end of the war.Infectious Diseases in Clinical Practice26(4):208–210, 2018.doi: 10.1097/IPC.0000000000000611
+4.Yao KJ, Jabbour S, Parekh N, Lin Y, Moss RA: Increasing mortality in the United States from cholangiocarcinoma: an analysis of the National Center for Health Statistics Database.BMC Gastroenterol16(1):117, 2016.doi:10.1186/s12876-016-0527-z
+4.Yao KJ, Jabbour S, Parekh N, Lin Y, Moss RA: Increasing mortality in the United States from cholangiocarcinoma: an analysis of the National Center for Health Statistics Database.BMC Gastroenterol16(1):117, 2016.doi:10.1186/s12876-016-0527-z
+
+【华支睾吸虫病的诊断】
+粪便显微镜检
+粪便显微镜检
+有时需要验血
+有时需要验血
+有时进行影像学检查（腹部X光片、CT、MRI或超声检查）
+有时进行影像学检查（腹部X光片、CT、MRI或超声检查）
+罕见情况下进行组织病理学检查
+罕见情况下进行组织病理学检查
+华支睾吸虫病的诊断基于在粪便或十二指肠内容物中发现虫卵（粪便虫卵及寄生虫检查）。通常在感染后仅 3 至 4 周，便可以在粪便中检测到虫卵。但这种虫卵很难与Opisthorchis后睾吸虫鉴别由于虫卵主要通过胆汁排入十二指肠，因此在胆道梗阻期间粪便中无法检测到虫卵。
+华支睾吸虫虫卵较小，尺寸范围为27至35微米乘以11至20微米。卵呈椭圆形，具有凸面的卵盖（保护性覆盖物或盖状结构），卵盖位于卵较小一端的可见的“肩部”上。放大倍数为400倍。
+CDC/DPDx
+其他检测不具有诊断价值但也可出现异常；碱性磷酸酶、胆红素可能升高。高水平的循环嗜酸性粒细胞和血清 IgE 也很常见。嗜酸性粒细胞增多可区分肝吸虫感染与急性病毒性肝炎。
+腹部X线平片有时可显示肝内钙化。肝脏超声、CT、MRI、内镜逆行胰胆管造影（ERCP）或胆管造影可显示胆管不规则和瘢痕形成的证据。
+对流行地区的高危患者（男性，> 50 岁）进行导管周围纤维化超声筛查可以提高胆管癌的早期发现率，从而提高生存率（1)。
+罕见情况下，通过手术标本的组织病理学检查鉴定成虫，或进行经皮肝穿刺胆管造影可确诊；驱虫治疗后粪便中也可能发现成虫。
+已研发出针对特定生物体的血清学、分子（如聚合酶链反应[PCR]）或抗原（如酶联免疫吸附测定[ELISA]）检测方法，但尚未广泛普及。
+
+【诊断参考文献】
+1.Chamadol N, Khuntikeo N, Thinkhamrop B, et al: Association between periductal fibrosis and bile duct dilatation among a population at high risk of cholangiocarcinoma: a cross-sectional study of cholangiocarcinoma screening in Northeast Thailand [published correction appears inBMJ Open9(5):e023217corr1, 2019].BMJ Open9(3):e023217, 2019.Published 2019 Mar 20.doi:10.1136/bmjopen-2018-023217
+1.Chamadol N, Khuntikeo N, Thinkhamrop B, et al: Association between periductal fibrosis and bile duct dilatation among a population at high risk of cholangiocarcinoma: a cross-sectional study of cholangiocarcinoma screening in Northeast Thailand [published correction appears inBMJ Open9(5):e023217corr1, 2019].BMJ Open9(3):e023217, 2019.Published 2019 Mar 20.doi:10.1136/bmjopen-2018-023217
+
+【华支睾吸虫病的治疗】
+吡喹酮或阿苯达唑
+吡喹酮或阿苯达唑
+华支睾吸虫病的治疗方法如下：
+吡喹酮，每日3次口服，连服2日。
+吡喹酮，每日3次口服，连服2日。
+阿苯达唑，每日一次口服，连续7天
+阿苯达唑，每日一次口服，连续7天
+吡喹酮对肝吸虫病显示出较高的疗效（1）。三苯双脒是一种极具潜力替代吡喹酮的抗蠕虫药物，口服每日一次、连服3天时治愈率相当且胃肠道不良反应更少，但目前在中国境外仍难以获得。吡喹酮是世界卫生组织唯一推荐全球使用的药物。
+在美国，疾病控制与预防中心（CDC）建议阿苯达唑可作为替代药物使用。阿苯达唑还需要连续几天给药（通常为7天）。一项网络荟萃分析中，研究显示阿苯达唑与吡喹酮具有相似的疗效（即治愈率）；然而，关于阿苯达唑的研究受限于样本量小和偏倚风险高（1）。
+胆道阻塞可能需外科手术治疗。
+预防华支睾吸虫病的方法是彻底煮熟来自疫区水域的淡水鱼虾，且不食用生的、未煮熟的、干制的、腌制的或酒泡的淡水鱼虾。在流行地区，使用吡喹酮进行大规模治疗减少了华支睾吸虫病的负担（2)。应通过粪便显微镜检查虫卵和寄生虫以及血细胞计数检查嗜酸性粒细胞增多症来评估感染患者的家庭成员是否感染。
+
+【治疗参考文献】
+1.Qian MB, Patel C, Palmeirim MS, et al: Efficacy of drugs against clonorchiasis and opisthorchiasis: a systematic review and network meta-analysis.Lancet Microbe2022;3(8):e616-e624.doi:10.1016/S2666-5247(22)00026-X
+1.Qian MB, Patel C, Palmeirim MS, et al: Efficacy of drugs against clonorchiasis and opisthorchiasis: a systematic review and network meta-analysis.Lancet Microbe2022;3(8):e616-e624.doi:10.1016/S2666-5247(22)00026-X
+2.Choi MH, Park SK, Li Z, et al: Effect of control strategies on prevalence, incidence and re-infection of clonorchiasis in endemic areas of China.PLoS Negl Trop Dis4(2):e601, 2010.doi:10.1371/journal.pntd.0000601
+2.Choi MH, Park SK, Li Z, et al: Effect of control strategies on prevalence, incidence and re-infection of clonorchiasis in endemic areas of China.PLoS Negl Trop Dis4(2):e601, 2010.doi:10.1371/journal.pntd.0000601

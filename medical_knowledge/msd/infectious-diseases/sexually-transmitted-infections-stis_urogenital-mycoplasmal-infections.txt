@@ -1,0 +1,50 @@
+标题：泌尿生殖道支原体感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/sexually-transmitted-infections-stis/urogenital-mycoplasmal-infections
+============================================================
+
+生殖支原体（以及相关生物人型支原体和解脲支原体）会导致非淋球菌性尿道炎和其他性传播感染，包括宫颈炎和盆腔炎(PID)。这些微生物还会引起直肠炎和咽炎，这些疾病可能在与受感染者发生直肠或口生殖器性接触后发生。
+生殖支原体是继沙眼衣原体之后导致非淋球菌性尿道炎的第二大原因（另请参见泌尿生殖系统衣原体感染）。生殖支原体是男性非淋球菌性尿道炎病例的约 15% 至 20% 的原因，并且在约 10% 至 30% 的宫颈炎女性中发现 （1,2）。
+（另见性传播感染疾病概述。）
+
+【参考文献】
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+2.Obafemi OA, Rowan SE, Nishiyama M, Wendel KA.Mycoplasma genitalium: Key Information for the Primary Care Clinician.Med Clin North Am.2024;108(2):297-310.doi:10.1016/j.mcna.2023.07.004
+2.Obafemi OA, Rowan SE, Nishiyama M, Wendel KA.Mycoplasma genitalium: Key Information for the Primary Care Clinician.Med Clin North Am.2024;108(2):297-310.doi:10.1016/j.mcna.2023.07.004
+
+【泌尿生殖系统支原体感染的症状和体征】
+男性症状与衣原体性尿道炎相似：排尿困难、尿道不适以及透明至黏液脓性分泌物。与衣原体感染一样，尿道炎也可能无症状。
+女性的症状可能包括尿道炎（尿道刺激和分泌物、排尿困难、尿频）的症状，以及阴道分泌物、盆腔疼痛和性交困难；宫颈炎伴有黄色、黏液脓性渗出物和宫颈外翻（红色宫颈内柱状上皮扩展到宫颈的阴道表面）；和盆腔炎（下腹部不适，通常为双侧，并且在触诊腹部、附件和宫颈时有明显的压痛），这可能潜在地导致不孕。
+男性和女性都可能发生直肠炎或咽炎。
+
+【泌尿生殖系统支原体感染的诊断】
+核酸扩增测试（NAAT）
+核酸扩增测试（NAAT）
+有时对性伴侣进行筛查
+有时对性伴侣进行筛查
+诊断是通过尿道或阴道分泌物、尿液（男性）或宫颈内、直肠、咽或尿道拭子的NAAT进行。NAAT应包括在可用时检测抗生素耐药性的标志物。
+显微镜检查没有帮助，培养速度太慢，没有实际用途。
+由于没有足够的证据支持对支原体进行常规检测和筛查的益处，并且担心过度治疗支原体可能会加剧抗生素耐药性，因此建议仅对复发性尿道炎、直肠炎或宫颈炎患者以及已知支原体性传播感染患者的性伴侣进行检测 （1，2）。盆腔炎患者也可考虑进行检测。
+
+【诊断参考】
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+2.Obafemi OA, Rowan SE, Nishiyama M, Wendel KA.Mycoplasma genitalium: Key Information for the Primary Care Clinician.Med Clin North Am.2024;108(2):297-310.doi:10.1016/j.mcna.2023.07.004
+2.Obafemi OA, Rowan SE, Nishiyama M, Wendel KA.Mycoplasma genitalium: Key Information for the Primary Care Clinician.Med Clin North Am.2024;108(2):297-310.doi:10.1016/j.mcna.2023.07.004
+
+【泌尿生殖系统支原体感染的治疗】
+口服抗生素
+口服抗生素
+性伴侣治疗
+性伴侣治疗
+建议对由生殖支原体引起的性传播感染采用两阶段治疗方案，具体取决于大环内酯类耐药性检测的可用性和结果 （1）：
+如果对大环内酯类药物敏感：强力霉素 100mg po bid 共7天，随后阿奇霉素 1g（初始剂量） po，之后500mg po qd 共3天（总计 2.5g）
+如果对大环内酯类药物敏感：强力霉素 100mg po bid 共7天，随后阿奇霉素 1g（初始剂量） po，之后500mg po qd 共3天（总计 2.5g）
+如果对大环内酯类药物耐药，或无法进行敏感性测试：多西环素100mg口服，每天 2 次，持续 7 天，然后莫西沙星400mg口服，每天一次，持续 7 天
+如果对大环内酯类药物耐药，或无法进行敏感性测试：多西环素100mg口服，每天 2 次，持续 7 天，然后莫西沙星400mg口服，每天一次，持续 7 天
+由于莫西沙星和多西环素通常不建议在怀孕期间使用，因此妊娠患者的治疗方案需个体化。
+性伴侣应接受检测，如果结果呈阳性，则应接受治疗（1）。治疗21天后如仍有症状，应重新检测。
+
+【Treatment reference】
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5

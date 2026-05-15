@@ -1,0 +1,66 @@
+标题：Haemophilus influenzaeb型流感嗜血杆菌（Hib）疫苗
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/immunization/haemophilus-influenzae-type-b-hib-vaccine
+============================================================
+
+b型流感嗜血杆菌结合疫苗有助于预防由b型血清引起的嗜血杆菌流感感染，但不能预防其他血清型H. influenzae（流感嗜血杆菌）细菌引起的感染。H. influenzae（流感嗜血杆菌）可引起多种儿童感染，包括菌血症、脑膜炎、肺炎、鼻窦炎、中耳炎和会厌炎。
+(参见免疫接种概述。)
+
+【Hib疫苗的制备】
+b 型Haemophilus influenzae（流感嗜血杆菌）结合疫苗（Hib）是由 b 型H. influenzae（流感嗜血杆菌）荚膜纯化制备而成的。 所有的Hib疫苗使用多聚核糖磷酸盐（PRP）作为多糖，但4个不同的蛋白质载体应用于4个不同的Hib偶联疫苗中：
+白喉类毒素（PRP-D）
+白喉类毒素（PRP-D）
+Neisseria meningitidis（脑膜炎双球菌）外膜蛋白（PRP-OMP）
+Neisseria meningitidis（脑膜炎双球菌）外膜蛋白（PRP-OMP）
+破伤风类毒素（PRP-T）
+破伤风类毒素（PRP-T）
+白喉变异载体蛋白 CRM197 （HBOC）
+白喉变异载体蛋白 CRM197 （HBOC）
+美国不再提供PRP-D和HbOC疫苗。
+美国还提供含乙肝疫苗(HepB)、灭活脊髓灰质炎疫苗(IPV)和白喉/破伤风/无细胞型百日咳联合疫苗(DTaP)的联合疫苗：DTaP-IPV-Hib和DTaP-IPV-Hib-HepB。
+
+【Hib 疫苗的适应症】
+Hib疫苗是儿童常规接种疫苗。美国疾病控制与预防中心（CDC）建议所有5岁以下儿童接种b型流感嗜血杆菌疫苗；其中1岁以下婴儿需接种多剂（2或3剂）b型流感嗜血杆菌疫苗。
+接受化疗、放疗或造血干细胞移植的儿童；有解剖或功能性无脾（包括镰状细胞病）；或即将接受选择性脾切除术可能需要进一步剂量（1）。感染艾滋病毒、免疫球蛋白缺乏或早期补体缺乏（由于脑膜炎的风险）的儿童也可能接受进一步的剂量（2，3）。
+5岁以上的人通常不需要接种Hib疫苗，但以下特定高危人群除外（4）：
+患有解剖或功能性无脾症的成年人和计划进行选择性脾切除术的人
+患有解剖或功能性无脾症的成年人和计划进行选择性脾切除术的人
+不论其是否有免疫接种史，曾进行过造血干细胞移植的人
+不论其是否有免疫接种史，曾进行过造血干细胞移植的人
+
+【适应症参考文献】
+1.CDC.Hib Vaccine Recommendations.Accessed September 23, 2025.
+1.CDC.Hib Vaccine Recommendations.Accessed September 23, 2025.
+2.CDC.Child and Adolescent Immunization Schedule by Age.Accessed September 23, 2025.
+2.CDC.Child and Adolescent Immunization Schedule by Age.Accessed September 23, 2025.
+3.CDC.Haemophilus influenzaetype b vaccination: Special situations.Accessed September 23, 2025.
+3.CDC.Haemophilus influenzaetype b vaccination: Special situations.Accessed September 23, 2025.
+4.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+4.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+
+【Hib疫苗的禁忌症及其注意事项】
+Hib疫苗的主要禁忌症如下：
+既往接种本疫苗后或对疫苗成分有严重过敏反应（例如，过敏性休克）。
+既往接种本疫苗后或对疫苗成分有严重过敏反应（例如，过敏性休克）。
+婴儿年龄＜6周
+婴儿年龄＜6周
+Hib疫苗的主要预防措施是
+伴或不伴发热的中度或重度疾病（接种推迟到疾病缓解后进行）
+伴或不伴发热的中度或重度疾病（接种推迟到疾病缓解后进行）
+
+【Hib疫苗的剂量与接种】
+Hib 疫苗剂量为 0.5 mL IM。 儿童基础免疫程序根据剂型不同，可采用2、4、6月龄各接种1剂（共3剂），或2、4月龄各接种1剂（共2剂）的方案。 不论何种情况均建议在12～15个月龄时强化接种一次。
+对于未接种疫苗，且患有无脾症或计划择期脾切除术的较大儿童、青少年和成人，应接种一剂疫苗。 一些专家建议不论有无接种史都应给择期脾切除术者一次疫苗接种。  可能的话在脾切手术前≥14天给予接种。
+造血干细胞移植后6到12个月应采用3剂次接种方案；每次接种间隔≥4周。
+
+【Hib疫苗的不良反应】
+副作用罕见。它们可能包括注射部位的疼痛、红斑、发热和肿胀，以及儿童的发烧、哭泣和易怒。
+有关这些疫苗不良反应的更多信息，请参阅处方信息。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Haemophilus influenzae Type B (Hib) Vaccine
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Haemophilus influenzae Type B (Hib) Vaccine
+Centers for Disease Control and Prevention (CDC):Hib (Haemophilus influenzae type b)
+Centers for Disease Control and Prevention (CDC):Hib (Haemophilus influenzae type b)
+European Centre for Disease Prevention and Control (ECDC):Haemophilus Influenzae Type B Infection: Recommended vaccinations
+European Centre for Disease Prevention and Control (ECDC):Haemophilus Influenzae Type B Infection: Recommended vaccinations

@@ -1,0 +1,83 @@
+标题：新生儿医院内获得性感染
+来源：https://www.msdmanuals.cn/professional/pediatrics/infections-in-neonates/neonatal-hospital-acquired-infection
+============================================================
+
+新生儿可能在入院后在医院育婴室或新生儿重症监护病房获得感染，而非产前或产时母婴传播。对于某些感染（如 B 组链球菌、herpes simplex virus（单纯疱疹病毒） [HSV]），可能无法明确感染源是来自母亲还是医院环境。
+医院获得性（院内）感染主要发生在早产儿和患有需要长期住院的医学疾病的足月儿身上。健康的足月新生儿感染率<1%（1）。对于特殊护理托儿所的新生儿，发病率随着出生体重的减少而增加 (2)。
+最常见的医院感染是中线相关血流感染（CLABSI）和医院获得性肺炎。
+(参见新生儿感染概述。)
+
+【参考文献】
+1.Testoni D, Hayashi M, Cohen-Wolkowiez M, et al.Late-onset bloodstream infections in hospitalized term infants.Pediatr Infect Dis J.2014;33(9):920-923.doi:10.1097/INF.0000000000000322
+1.Testoni D, Hayashi M, Cohen-Wolkowiez M, et al.Late-onset bloodstream infections in hospitalized term infants.Pediatr Infect Dis J.2014;33(9):920-923.doi:10.1097/INF.0000000000000322
+2.Wang L, Du KN, Zhao YL, Yu YJ, Sun L, Jiang HB.Risk Factors of Nosocomial Infection for Infants in Neonatal Intensive Care Units: A Systematic Review and Meta-Analysis.Med Sci Monit.2019;25:8213-8220.Published 2019 Nov 1.doi:10.12659/MSM.917185
+2.Wang L, Du KN, Zhao YL, Yu YJ, Sun L, Jiang HB.Risk Factors of Nosocomial Infection for Infants in Neonatal Intensive Care Units: A Systematic Review and Meta-Analysis.Med Sci Monit.2019;25:8213-8220.Published 2019 Nov 1.doi:10.12659/MSM.917185
+
+【新生儿医院内获得性感染的病因】
+足月新生儿最常见的医院获得性感染是
+由Staphylococcus aureus（金黄色葡萄球菌）引起的皮肤感染（包括甲氧西林敏感型和耐甲氧西林型）
+由Staphylococcus aureus（金黄色葡萄球菌）引起的皮肤感染（包括甲氧西林敏感型和耐甲氧西林型）
+虽然医院护理人员是S. aureus（金黄色葡萄球菌）鼻腔携带者，是潜在的感染源，定植的新生儿和母亲也可能是储存宿主。脐带残端、鼻子和腹股沟可在出生后的最初几天内被定植。一般婴儿回家后方有表现。
+在极低出生体重儿(VLBW；<1500g)中，革兰氏阳性菌引起约70%的迟发型感染，特别是coagulase-negative staphylococci（凝固酶阴性葡萄球菌）(1)。革兰氏阴性菌（包括大肠埃希氏菌、克雷伯菌属、假单胞菌属、肠杆菌属和沙雷菌属）也是重要的病原体，并可能是早发性感染的更常见原因。真菌感染（白色念珠菌及C. parapsilosis（假丝酵母菌））更常见于接受静脉脂质营养的新生儿。院内感染的种类和细菌的抗药性随地点和时间而不同。当一种特别具有毒性的生物在某个单位定植时，有时会发生间歇性疫情。
+VLBW新生儿在新生儿重症监护病房住院时间越长、接受的有创操作越多（如长期动静脉导管置入、气管插管、持续气道正压通气、鼻胃管或鼻空肠喂养管置入），其发生感染的风险就越高。
+
+【病因参考文献】
+1.Stoll BJ, Hansen N, Fanaroff AA, et al.Late-onset sepsis in very low birth weight neonates: the experience of the NICHD Neonatal Research Network.Pediatrics.2002;110(2 Pt 1):285-291.doi:10.1542/peds.110.2.285
+1.Stoll BJ, Hansen N, Fanaroff AA, et al.Late-onset sepsis in very low birth weight neonates: the experience of the NICHD Neonatal Research Network.Pediatrics.2002;110(2 Pt 1):285-291.doi:10.1542/peds.110.2.285
+
+【新生儿医院内获得性感染的预防】
+减少所有住院婴儿的S. aureus（金黄色葡萄球菌）定植
+减少所有住院婴儿的S. aureus（金黄色葡萄球菌）定植
+预防特殊护理托儿所和新生儿重症监护病房（NICUs）中的定植和感染
+预防特殊护理托儿所和新生儿重症监护病房（NICUs）中的定植和感染
+手部卫生
+手部卫生
+监测感染
+监测感染
+有时用抗生素
+有时用抗生素
+疫苗接种
+疫苗接种
+
+【定植减少】
+在常规沐浴和/或无菌手术的皮肤准备过程中使用局部消毒剂可以帮助减少新生儿的细菌皮肤定植。基于洗必泰的产品越来越多地用于此目的，但美国食品和药物管理局警告说，< 2 个月大的婴儿存在皮肤刺激和化学灼伤的风险。一些专家建议对NICU中导管相关血流感染风险升高的新生儿常规进行氯己定洗浴（1）。
+美国儿科学会推荐对新生儿脐带进行干燥护理，但这样做可能导致S. aureus（金黄色葡萄球菌）的高定植率，一些医院也发生了疫情（2）。
+不主张对工作人员和环境进行常规细菌培养 (3)。
+对定植和感染的预防需要提供足够的空间。
+需要适当的技术，特别是对于侵入性装置的放置和护理以及对设备的细致清洁和消毒或灭菌。主动监测对技术的依从性是至关重要的。基于循证医学的中央导管置入与维护标准化操作流程，已显著降低导管相关血流感染的发生率。
+同样，一组在 NICU 中减少医院获得性肺炎的程序和方案已确定；这些措施包括工作人员教育和培训、积极监测医院获得性肺炎、将插管新生儿床头抬高 30 至 45°、以及提供全面的口腔卫生。将新生儿置于侧卧位，并使气管插管与呼吸机回路保持水平也可能有帮助（4，5）。
+(参见当前疾病控制和预防中心[CDC]关于新生儿重症监护病房中（金黄色葡萄球菌）预防和控制[2024]和中心静脉导管相关血流感染的预防与控制[2024]的指南。)
+
+【手部卫生】
+其他预防措施包括特别关注手卫生。用酒精制剂清洁在减少手上的细菌菌落计数方面与皂和水一样有效，但如果手明显污染，则应首先用肥皂和水清洗。
+排气型婴儿培育箱的保护作用有限，婴儿培育箱的内外可很快被严重污染；工作人员的手和前臂也可被污染。一般血液和体液标本也应加强保护。
+
+【感染监测】
+应进行感染的主动监测。在爆发期间，建立一个由患病或被定植的婴儿组成的群体，并为他们分配专门的护理人员是有用的。有必要在出院后继续监测1个月，以评价为终止暴发而实施的控制措施是否适当。
+预防性使用抗生素一般无效，还可能促使产生耐药菌株，导致婴儿正常菌群失衡。然而，在确认的婴儿室爆发期间，可以考虑针对特定病原体的预防性抗生素（例如，青霉素G用于预防A组链球菌感染）。
+
+【疫苗接种】
+应根据常规时间表给予住院的任何婴儿灭活疫苗。
+活病毒疫苗（如轮状病毒疫苗）可能导致一些无症状病毒脱落，可根据机构偏好在出院时或住院期间接种。
+
+【预防参考文献】
+1.Nelson MU, Shaw J, Gross SJ.Randomized Placebo-Controlled Trial of TopicalMupirocinto ReduceStaphylococcus aureusColonization in Infants in the Neonatal Intensive Care Unit.J Pediatr.2021;236:70-77.doi:10.1016/j.jpeds.2021.05.042
+1.Nelson MU, Shaw J, Gross SJ.Randomized Placebo-Controlled Trial of TopicalMupirocinto ReduceStaphylococcus aureusColonization in Infants in the Neonatal Intensive Care Unit.J Pediatr.2021;236:70-77.doi:10.1016/j.jpeds.2021.05.042
+2.Stewart D, Benitz W; COMMITTEE ON FETUS AND NEWBORN.Umbilical Cord Care in the Newborn Infant.Pediatrics.2016;138(3):e20162149.doi:10.1542/peds.2016-2149
+2.Stewart D, Benitz W; COMMITTEE ON FETUS AND NEWBORN.Umbilical Cord Care in the Newborn Infant.Pediatrics.2016;138(3):e20162149.doi:10.1542/peds.2016-2149
+3.Bryant K, Brady MT, Myers Cox K, et al.Recommendations for Prevention and Control of Infections in Neonatal Intensive Care Unit Patients: Central Line-associated Blood Stream Infections.Centers for Disease Control and Prevention National Center for Emerging and Zoonotic Infectious Diseases Division of Healthcare Quality Promotion.2022;1-37.
+3.Bryant K, Brady MT, Myers Cox K, et al.Recommendations for Prevention and Control of Infections in Neonatal Intensive Care Unit Patients: Central Line-associated Blood Stream Infections.Centers for Disease Control and Prevention National Center for Emerging and Zoonotic Infectious Diseases Division of Healthcare Quality Promotion.2022;1-37.
+4.Manzoni P, De Luca D, Stronati M, et al.Prevention of nosocomial infections in neonatal intensive care units.Am J Perinatol.2013;30(2):81-88.doi:10.1055/s-0032-1333131
+4.Manzoni P, De Luca D, Stronati M, et al.Prevention of nosocomial infections in neonatal intensive care units.Am J Perinatol.2013;30(2):81-88.doi:10.1055/s-0032-1333131
+5.Cipolla D, Giuffrè M, Mammina C, Corsello G.Prevention of nosocomial infections and surveillance of emerging resistances in NICU.J Matern Fetal Neonatal Med.2011;24 Suppl 1:23-26.doi:10.3109/14767058.2011.607567
+5.Cipolla D, Giuffrè M, Mammina C, Corsello G.Prevention of nosocomial infections and surveillance of emerging resistances in NICU.J Matern Fetal Neonatal Med.2011;24 Suppl 1:23-26.doi:10.3109/14767058.2011.607567
+医院内感染主要发生在早产儿和患有需要长期住院的疾病的足月儿身上。
+医院内感染主要发生在早产儿和患有需要长期住院的疾病的足月儿身上。
+低出生体重是感染的风险因素，特别是在有中心静脉导管、气管插管或两者兼有的新生儿中。
+低出生体重是感染的风险因素，特别是在有中心静脉导管、气管插管或两者兼有的新生儿中。
+插入和维护导管、管道和装置的精细技术对于预防是必不可少的；正式的规程可提高依从性。
+插入和维护导管、管道和装置的精细技术对于预防是必不可少的；正式的规程可提高依从性。
+不建议使用预防性抗生素，除非可能在涉及特定病原体的确认的婴儿室爆发期间。
+不建议使用预防性抗生素，除非可能在涉及特定病原体的确认的婴儿室爆发期间。
+灭活疫苗应按照常规计划接种。
+灭活疫苗应按照常规计划接种。

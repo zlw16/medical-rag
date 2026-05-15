@@ -1,0 +1,255 @@
+标题：儿童和青少年焦虑症概述
+来源：https://www.msdmanuals.cn/professional/pediatrics/psychiatric-disorders-in-children-and-adolescents/overview-of-anxiety-disorders-in-children-and-adolescents
+============================================================
+
+一定程度的焦虑是成长过程中预期的组成部分，如下所述：
+大多数幼儿在与父母分离时会感到恐惧，尤其是在陌生环境中。
+大多数幼儿在与父母分离时会感到恐惧，尤其是在陌生环境中。
+对黑暗、怪物、臭虫和蜘蛛的恐惧对于3～4岁的孩子来说是很常见。
+对黑暗、怪物、臭虫和蜘蛛的恐惧对于3～4岁的孩子来说是很常见。
+害羞的孩子一开始可能对新环境表现出害怕和退缩。
+害羞的孩子一开始可能对新环境表现出害怕和退缩。
+伤害和死亡的恐惧在年长儿中更常见。
+伤害和死亡的恐惧在年长儿中更常见。
+年龄较大的儿童和青少年在公开场合陈述信息时（例如在同学面前做读书报告）常常会感到焦虑。
+年龄较大的儿童和青少年在公开场合陈述信息时（例如在同学面前做读书报告）常常会感到焦虑。
+这些问题不应被视为精神异常的表现。但是，如果焦虑表现变得过于夸张，以至于严重损害功能或导致严重痛苦和/或回避行为，则应考虑焦虑症。
+焦虑障碍的发病高峰年龄为 5.5 岁，其中 38% 的病例在 14 岁前起病，52% 在 18 岁前起病，73% 在 25 岁前起病，中位确诊年龄为 17 岁（1）。患有焦虑障碍的儿童在未来生活中出现抑郁（2）、自杀意念与自杀企图（3）、药物与酒精成瘾（尤其伴随惊恐障碍时，4）以及学业困难（5）的风险会显著增高。
+儿童和青少年可能出现的焦虑症包括
+场所恐惧症
+场所恐惧症
+广泛性焦虑障碍
+广泛性焦虑障碍
+分离性焦虑障碍
+分离性焦虑障碍
+社交焦虑障碍
+社交焦虑障碍
+特定恐惧症
+特定恐惧症
+
+【参考文献】
+1.Solmi M, Radua J, Olivola M, et al.Age at onset of mental disorders worldwide: large-scale meta-analysis of 192 epidemiological studies.Mol Psychiatry.2022;27(1):281-295.doi:10.1038/s41380-021-01161-7
+1.Solmi M, Radua J, Olivola M, et al.Age at onset of mental disorders worldwide: large-scale meta-analysis of 192 epidemiological studies.Mol Psychiatry.2022;27(1):281-295.doi:10.1038/s41380-021-01161-7
+2.Cummings CM, Caporino NE, Kendall PC.Comorbidity of anxiety and depression in children and adolescents: 20 years after.Psychol Bull.140(3):816-845, 2014.doi: 10.1037/a0034733
+2.Cummings CM, Caporino NE, Kendall PC.Comorbidity of anxiety and depression in children and adolescents: 20 years after.Psychol Bull.140(3):816-845, 2014.doi: 10.1037/a0034733
+3.Husky MM, Olfson M, He J, et al.Twelve-month suicidal symptoms and use of services among adolescents: Results from the National Comorbidity Survey.Psychiatr Serv.63(10):989-996, 2012.
+3.Husky MM, Olfson M, He J, et al.Twelve-month suicidal symptoms and use of services among adolescents: Results from the National Comorbidity Survey.Psychiatr Serv.63(10):989-996, 2012.
+4.Zimmermann P, Wittchen HU, Hofler M, et al.Primary anxiety disorders and the development of subsequent alcohol use disorders: A 4-year community study of adolescents and young adults.Psychol Med.33(7);1211-1222, 2003.doi: 10.1017/s0033291703008158
+4.Zimmermann P, Wittchen HU, Hofler M, et al.Primary anxiety disorders and the development of subsequent alcohol use disorders: A 4-year community study of adolescents and young adults.Psychol Med.33(7);1211-1222, 2003.doi: 10.1017/s0033291703008158
+5.Van Ameringen M, Mancini C, Farvolden P.The impact of anxiety disorders on educational achievement.J Anxiety Disord.17(5):561-571, 2003. doi: 10.1016/s0887-6185(02)00228-1
+5.Van Ameringen M, Mancini C, Farvolden P.The impact of anxiety disorders on educational achievement.J Anxiety Disord.17(5):561-571, 2003. doi: 10.1016/s0887-6185(02)00228-1
+
+【焦虑障碍概述】
+儿童焦虑障碍的病因是多因素的，是各种生物、心理、社会和环境因素之间的相互作用的结果。遗传力研究表明遗传因素与环境因素均发挥作用。可能涉及多种遗传变异，包括脑源性神经营养因子(BDNF) 基因中的单核苷酸多态性和与促肾上腺皮质激素释放激素(CRH) 基因相关的微卫星标记 (1,2)。
+已经提出了几个影响儿童焦虑障碍发展可能性的风险因素，包括父母焦虑、儿童虐待、感染和压力。值得注意的是，在新冠疫情期间，青少年焦虑症状增加了一倍，尤其是在女孩中（3），而因焦虑就诊的心理健康咨询量上升了43%（4）。这些研究结果在控制了性别、年龄和存在COVID-19疫情前焦虑症状后显示，与看护者的联系不畅、睡眠卫生差和长时间看屏幕是儿童新冠肺炎焦虑症状的显著预测因素(5)。与未感染COVID-19的儿童和青少年相比，除了大流行压力源外，还感染了COVID-19的儿童和青少年新发焦虑症的频率更高（6）。综合这些发现，可能提示已知影响中枢神经系统的病毒感染在其中扮演了一定角色。
+焦虑的父母往往养育出焦虑的子女；他们的教养方式可能使孩子的症状比原本可能的情况更为严重。即便是普通的孩子，在焦虑的父母面前也难以保持冷静和镇定，而那些有焦虑遗传倾向的孩子则更加困难。家庭或学校中的不良对待，以及个体对自身环境缺乏控制能力，也可能是促发因素；与成年人相比，儿童和青少年更易经历虐待或感受到控制缺失。
+
+【病因参考文献】
+1.Adhikari A, Topiwala M, Gordon JA.Synchronized activity between the ventral hippocampus and the medial prefrontal cortex during anxiety.Neuron.65:257-269, 2010.doi: 10.1016/j.neuron.2009.12.002
+1.Adhikari A, Topiwala M, Gordon JA.Synchronized activity between the ventral hippocampus and the medial prefrontal cortex during anxiety.Neuron.65:257-269, 2010.doi: 10.1016/j.neuron.2009.12.002
+2.Smoller JW, Yamaki LH, Fagerness JA, et al.The corticotropin-releasing hormone gene and behavioral inhibition in children at risk for panic disorder.Biol Psychiatry.2005;57(12):1485-1492.doi:10.1016/j.biopsych.2005.02.018
+2.Smoller JW, Yamaki LH, Fagerness JA, et al.The corticotropin-releasing hormone gene and behavioral inhibition in children at risk for panic disorder.Biol Psychiatry.2005;57(12):1485-1492.doi:10.1016/j.biopsych.2005.02.018
+3.Racine N, McArthur B, Cooke J, et al.Global prevalence of depressive and anxiety symptoms in children and adolescence during COVID-19: A meta-analysis.JAMA Pediatr.175(11):1142-1150, 2021.doi: 10.1001/jamapediatrics.2021.2482
+3.Racine N, McArthur B, Cooke J, et al.Global prevalence of depressive and anxiety symptoms in children and adolescence during COVID-19: A meta-analysis.JAMA Pediatr.175(11):1142-1150, 2021.doi: 10.1001/jamapediatrics.2021.2482
+4.Dvir Y, Ryan C, Straus JH.Comparison of use of the Massachusetts Child Psychiatry Access Program and patient characteristics before vs during the COVID-19 pandemic.JAMA Netw Open.5(2):e2146618, 2022.doi:10.1001/jamanetworkopen.2021.46618
+4.Dvir Y, Ryan C, Straus JH.Comparison of use of the Massachusetts Child Psychiatry Access Program and patient characteristics before vs during the COVID-19 pandemic.JAMA Netw Open.5(2):e2146618, 2022.doi:10.1001/jamanetworkopen.2021.46618
+5.McArthur BA, Racine N, McDonald S, et al.Child and family factors associated with child mental health and well-being during COVID-19.Eur Child Adolesc Psychiatry.Jul 24;1-11, 2021.doi: 10.1007/s00787-021-01849-
+5.McArthur BA, Racine N, McDonald S, et al.Child and family factors associated with child mental health and well-being during COVID-19.Eur Child Adolesc Psychiatry.Jul 24;1-11, 2021.doi: 10.1007/s00787-021-01849-
+6.Lu Y, Tong J, Zhang D, et al.Risk of neuropsychiatric and related conditions associated with SARS-CoV-2 infection: a difference-in-differences analysis.Nat Commun.2025;16(1):6829.Published 2025 Jul 24.doi:10.1038/s41467-025-61961-1
+6.Lu Y, Tong J, Zhang D, et al.Risk of neuropsychiatric and related conditions associated with SARS-CoV-2 infection: a difference-in-differences analysis.Nat Commun.2025;16(1):6829.Published 2025 Jul 24.doi:10.1038/s41467-025-61961-1
+
+【焦虑障碍的病理生理学】
+证据表明，焦虑障碍涉及边缘系统和海马体中调节情绪（特别是对恐惧反应）功能的部分出现功能障碍。在小鼠中，早期发育过程中前脑中血清素 1A 受体 (5-HT1AR) 表达的丧失导致海马体失调并导致焦虑行为（1）。遗传与环境因素很可能影响这些生物功能并塑造症状表现（2）。
+
+【病理生理学参考文献】
+1.Adhikari A, Topiwala M, Gordon JA.Synchronized activity between the ventral hippocampus and the medial prefrontal cortex during anxiety.Neuron.65:257-269, 2010.doi: 10.1016/j.neuron.2009.12.002
+1.Adhikari A, Topiwala M, Gordon JA.Synchronized activity between the ventral hippocampus and the medial prefrontal cortex during anxiety.Neuron.65:257-269, 2010.doi: 10.1016/j.neuron.2009.12.002
+2.Meier SM, Trontti K, Purves KL, et al.Genetic Variants Associated With Anxiety and Stress-Related Disorders: A Genome-Wide Association Study and Mouse-Model Study.JAMA Psychiatry.2019;76(9):924-932.doi:10.1001/jamapsychiatry.2019.1119
+2.Meier SM, Trontti K, Purves KL, et al.Genetic Variants Associated With Anxiety and Stress-Related Disorders: A Genome-Wide Association Study and Mouse-Model Study.JAMA Psychiatry.2019;76(9):924-932.doi:10.1001/jamapsychiatry.2019.1119
+
+【焦虑症的症状和体征】
+儿童和青少年焦虑障碍最常见的表现或许是社交回避行为，其中包括拒绝上学。“拒绝上学”已基本取代“学校恐惧症”这一说法。大多数不愿上学的儿童很可能患有分离焦虑症、社交焦虑障碍、恐慌症，或是这些病症的并发状况。有些人可能患有特定的恐惧症。还必须考虑儿童在学校被欺负的可能性。
+完美主义儿童也可能描述焦虑，这种焦虑可能归因于他们需要表现良好和害怕犯错。有些孩子会直接表达自己的焦虑，用担忧来描述（例如，“我担心再也见不到你了”[分离焦虑] 或 “我担心其他孩子会嘲笑我”[社交焦虑障碍]）。
+许多孩子也可能通过躯体症状来描述他们的不适：“我肚子疼，所以不能去上学。”这些孩子通常说的是实话，因为焦虑的儿童确实常出现胃部不适、恶心、头痛、心悸和睡眠问题（即入睡困难和维持睡眠困难）。惊恐发作可能出现在年龄较大的儿童中，伴有强烈的恐惧或不适，可能包括心悸、呼吸短促或厄运即将来临的感觉等症状。数据证实，许多有躯体不适主诉的儿童，尤其是腹痛患儿，存在潜在的焦虑障碍（1）。
+
+【症状和体征】
+1.Korterink JJ, Diederen K, Benninga MA, Tabbers MM.Epidemiology of pediatric functional abdominal pain disorders: a meta-analysis.PLoS One.2015;10(5):e0126982.Published 2015 May 20.doi:10.1371/journal.pone.0126982
+1.Korterink JJ, Diederen K, Benninga MA, Tabbers MM.Epidemiology of pediatric functional abdominal pain disorders: a meta-analysis.PLoS One.2015;10(5):e0126982.Published 2015 May 20.doi:10.1371/journal.pone.0126982
+
+【焦虑障碍的诊断】
+精神评估
+精神评估
+精神障碍诊断与统计手册, 第5版，文本修订（DSM-5-TR）标准
+精神障碍诊断与统计手册, 第5版，文本修订（DSM-5-TR）标准
+焦虑障碍的诊断通常基于临床评估（1, 2）。一份详细的心理社会病史通常可以确诊。焦虑症的特定亚型（如分离焦虑障碍、社交焦虑障碍）可根据该亚型的DSM-5-TR标准进行诊断。
+评定量表可用于筛选。
+多种经过验证的量表可免费获取：
+儿童焦虑相关情绪障碍筛查（SCARED）：年龄8至18岁；41项量表需由儿童及家长/监护人分别填写
+儿童焦虑相关情绪障碍筛查（SCARED）：年龄8至18岁；41项量表需由儿童及家长/监护人分别填写
+斯宾塞儿童焦虑量表（SCAS）：年龄8至15岁；44项量表可由儿童或家长/监护人完成
+斯宾塞儿童焦虑量表（SCAS）：年龄8至15岁；44项量表可由儿童或家长/监护人完成
+学前焦虑量表（PAS）：年龄2.5至6.5岁；28项条目由家长/监护人填写
+学前焦虑量表（PAS）：年龄2.5至6.5岁；28项条目由家长/监护人填写
+广泛性焦虑障碍量表-7（GAD-7）：年龄14岁及以上；7项量表由医护人员实施评估
+广泛性焦虑障碍量表-7（GAD-7）：年龄14岁及以上；7项量表由医护人员实施评估
+焦虑症会导致儿童出现躯体症状，这可能使评估复杂化。在许多儿童中，临床医生在考虑焦虑症之前会进行全面评估以排除一般性躯体疾病。
+
+【诊断参考】
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), Washington: American Psychiatric Association, 2022.
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), Washington: American Psychiatric Association, 2022.
+2.Walter HJ, Bukstein OG, Abright AR, et al.Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders.J Am Acad Child Adolesc Psychiatry.59(10):1107-1124, 2020.doi: https://doi.org/10.1016/j.jaac.2020.05.005
+2.Walter HJ, Bukstein OG, Abright AR, et al.Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders.J Am Acad Child Adolesc Psychiatry.59(10):1107-1124, 2020.doi: https://doi.org/10.1016/j.jaac.2020.05.005
+
+【焦虑障碍的治疗】
+行为治疗（基于暴露的认知行为治疗)
+行为治疗（基于暴露的认知行为治疗)
+亲子及家庭干预。
+亲子及家庭干预。
+抗焦虑药物治疗，通常采用选择性血清素再摄取抑制剂（SSRIs），其次为血清素-去甲肾上腺素再摄取抑制剂（SNRIs）和三环类抗抑郁药用于长期治疗，有时使用苯二氮䓬类药物缓解急性症状
+抗焦虑药物治疗，通常采用选择性血清素再摄取抑制剂（SSRIs），其次为血清素-去甲肾上腺素再摄取抑制剂（SNRIs）和三环类抗抑郁药用于长期治疗，有时使用苯二氮䓬类药物缓解急性症状
+认知行为疗法（CBT）是治疗儿童和青少年焦虑症的一线干预措施；以家庭为中心的干预可能有助于加强CBT的影响。当症状中度至重度、功能受损或单独CBT不够时，可考虑药物治疗（通常为SSRIs或SNRIs）。抗焦虑药物（例如苯二氮䓬类）可能有助于中止急性焦虑发作。
+
+【行为疗法】
+儿童焦虑障碍主要采用行为疗法（运用暴露与反应阻止原则）(1)进行治疗，有时会联合抗焦虑药物治疗(1–5)。在基于暴露的认知行为治疗中，儿童按等级模式系统性地暴露于诱发焦虑的环境中。通过帮助儿童留在引发焦虑的情境中（反应预防），治疗师能够使他们逐渐脱敏并减轻焦虑感。当一个在儿童发育方面富有经验的治疗师以此原则进行个体化治疗时，行为疗法是最有效的。
+
+【家庭干预措施】
+以家庭为中心的干预措施可通过识别焦虑触发因素、实施应对技巧（如呼吸与放松训练）、管理回避行为，并营造支持性环境来帮助患儿。这类干预有时可根据文化或地区特征，在团体形式下实施（6,7）。校园干预可作为个体治疗的补充，尤其适用于低龄儿童，以应对环境因素并提升应对技能。
+
+【药物治疗】
+当焦虑症严重或难以找到经验丰富的儿童行为治疗师时，可能需要采用药物治疗。启动药物治疗时，临床医生应警惕潜在的不良反应风险。不良反应可能具有特异性，可发生于任何抗抑郁药物及治疗过程中的任何阶段，因此密切监测至关重要。
+
+【选择性5-羟色胺再摄取抑制剂与5-羟色胺和去甲肾上腺素再摄取抑制剂】
+选择性5-羟色胺再摄取抑制剂通常是长期治疗的首选方案。尚无证据表明某一种SSRI的疗效优于其他（8）；但不良反应可能因代谢速率、药物相互作用等因素而异。对于短半衰期的SSRIs，如舍曲林和艾司西酞普兰——这两种药物是治疗儿童和青少年时最常用的SSRIs——剂量调整、逐渐减量和停药过程通常更易管理（9,10）。
+5-羟色胺和去甲肾上腺素再摄取抑制剂（例如度洛西汀、文拉法辛）或可作为二线治疗方案。三环类抗抑郁药属于三线治疗选择。与认知行为疗法（CBT）联合使用时，选择性血清素再摄取抑制剂（SSRIs）改善症状的可能性最高，优于单独用药或单独进行心理治疗（11）。
+基因检测组合可用于检测代谢多种药物的酶。基因分型技术能辨识对SSRI易出现不良反应或疗效不佳的高风险患者。具体而言，临床药物基因组学实施联盟（CPIC）（临床药物基因组学实施联盟）指南建议检测少量与药物代谢相关的基因变异（例如 CYP2D6、CYP2C19、CYP2B6），这些变异会影响选择性5-羟色胺再摄取抑制剂（SSRI）或其他药物的代谢速率，从而因疗效下降或不良反应增加导致治疗效果不佳（12–14）。治疗前实施检测有助于识别高风险患者。治疗启动后，若患者出现疗效不佳或不良反应，可考量进行检测。对于无风险因素、且疗效与耐受性均佳的患者，不推荐进行检测。鉴于缺乏足够证据支持基因导向的剂量调整，故不推荐检测其他变异（如CYP1A2、CYP2C9、CYP3A4、SLC6A4、HTR2A）。影响药物代谢的其他因素在当前的测试平台中尚未确定，包括新的或罕见的遗传或表观遗传变异以及年龄和饮食。(15).大麻或其成分如大麻二酚（CBD）与四氢大麻酚（THC）对CYP酶具有中至强抑制作用，可提升SSRI的血药浓度（16,17），进而引发不良反应（如腹泻、眩晕、疲倦）。临床医生在开具这些检测时，需协助患者家属解读检测结果（12）。（参见表焦虑、抑郁及相关障碍长期治疗药物。）
+选择性 5 - 羟色胺再摄取抑制剂（SSRIs）在其所有获批的适应症范围内，总体耐受性良好。部分早期不良反应（如恶心、腹痛、头痛及激活现象【表现为焦躁、失眠、易怒、行为失控】）多会迅速消退。从最低剂量开始，缓慢滴定，在一天中的不同时间给药（如果感到疲倦，在晚上给药；如果有失眠，在早晨给药）可能会有所帮助。迟发性不良反应（例如，多汗、性快感缺失，通常持续存在（9）。体重增加可能在治疗早期或晚期出现，主要与艾司西酞普兰和西酞普兰相关，与氟西汀较少相关，而与舍曲林完全无关（18）。
+SNRIs的耐受性不如SSRIs，且因其抑制去甲肾上腺素摄取而导致去甲肾上腺素能活动增加，从而增加高血压风险（19、20）。
+SSRIs和SNRIs应逐渐减量，因为突然或快速停药后可出现戒断症状（如头晕、头痛、震颤、疲劳、流感样症状、感觉异常、脑雾、失眠）。消除半衰期较短的药物戒断风险较高，而氟西汀的风险最低。可能需要数周至数月的缓慢减量过程。如果在最小可用剂量下出现症状，则改用液体制剂可使其逐渐减少（21、22）。
+
+【用于长期治疗抑郁、焦虑及相关疾病的药物*】
+用于长期治疗抑郁、焦虑及相关疾病的药物*
+药物治疗
+半衰期（小时）
+CYP底物
+注释/注意事项
+选择性5羟色胺再吸收抑制剂
+西酞普兰
+年龄≥7岁儿童的强迫症
+35小时
+2C19、2D6
+对于2C19弱代谢者，降低起始剂量，缓慢调整剂量，并减少维持剂量的50%。
+艾司西酞普兰（西酞普兰的S-对映异构体）
+12岁以上儿童重度抑郁症
+27–32小时
+2C19、2D6
+氟西汀†
+去甲氟西汀（氟西汀的活性代谢物）
+年龄>8岁儿童的强迫症、广泛性焦虑症、分离焦虑、社交焦虑、重度抑郁症
+119–264小时
+去甲氟西汀：144–384小时
+氟伏沙明
+年龄>8岁儿童的广泛性焦虑症、分离焦虑、社交焦虑、强迫症
+16小时
+帕罗西汀†
+年龄>6岁儿童的强迫症
+21小时
+年龄≥6岁儿童的强迫症、广泛性焦虑症、分离焦虑、社交焦虑
+26小时
+2C19, 2B6, 2D6
+对于2B6弱代谢者，降低起始剂量，缓慢调整剂量，并减少维持剂量的25%。
+血清素和去甲肾上腺素再摄取抑制剂
+度洛西汀
+7-17岁儿童GAD
+10–12小时
+2D6、IA2
+SNRIs：具有去甲肾上腺素能活性，可能增加高血压风险
+Venlafaxine，速释型
+年龄≥8岁儿童抑郁症
+5–11小时
+SNRIs：关于最佳剂量的数据有限；担忧会增加自杀行为（针对已有自杀意念的青少年）；疗效不如其他抗抑郁药，可能因使用剂量较低所致
+Venlafaxine，缓释型
+年龄＞7岁儿童的广泛性焦虑症
+* 所列药物临床上用于治疗所有焦虑症、强迫症和抑郁症。某些适应症已获得FDA批准；其他适应症未获批准是由于缺乏充分研究，而非其他原因。在所有适应症中最常用的是舍曲林和依他普仑。
+†氟西汀和帕罗西汀是2D6的有效抑制剂，降低抗精神病药物（利培酮、阿立哌唑、伊哌啶酮、氯氮平）的代谢，增加其血浆浓度。它们也可以抑制一些止痛药对其活性代谢物的代谢（羟考酮对羟吗啡酮），但与预期相反，可待因对吗啡不起作用。2D6的较弱抑制剂（如舍曲林）在较高剂量下可能产生类似效应。
+氟西汀和帕罗西汀在治疗抑郁症时的疗效在与曲唑酮（用于治疗失眠）合用时受损。这归因于2D6相互作用以及甲基氯哌嗪a（曲唑酮代谢物，与易怒和抑郁相关）的积累。
+大麻或大麻二酚（CBD）和四氢大麻酚（THC）是CYP酶的中强抑制剂，可增加SSRI血浆浓度，并导致不良反应（如腹泻、头晕、疲劳）。
+CYP = 细胞色素P450；FDA = 美国食品药品监督管理局；GAD = 广泛性焦虑障碍；OCD = 强迫症；SNRI = 血清素-去甲肾上腺素再摄取抑制剂；SSRI = 血清素再摄取抑制剂。
+* 所列药物临床上用于治疗所有焦虑症、强迫症和抑郁症。某些适应症已获得FDA批准；其他适应症未获批准是由于缺乏充分研究，而非其他原因。在所有适应症中最常用的是舍曲林和依他普仑。
+†氟西汀和帕罗西汀是2D6的有效抑制剂，降低抗精神病药物（利培酮、阿立哌唑、伊哌啶酮、氯氮平）的代谢，增加其血浆浓度。它们也可以抑制一些止痛药对其活性代谢物的代谢（羟考酮对羟吗啡酮），但与预期相反，可待因对吗啡不起作用。2D6的较弱抑制剂（如舍曲林）在较高剂量下可能产生类似效应。
+氟西汀和帕罗西汀在治疗抑郁症时的疗效在与曲唑酮（用于治疗失眠）合用时受损。这归因于2D6相互作用以及甲基氯哌嗪a（曲唑酮代谢物，与易怒和抑郁相关）的积累。
+大麻或大麻二酚（CBD）和四氢大麻酚（THC）是CYP酶的中强抑制剂，可增加SSRI血浆浓度，并导致不良反应（如腹泻、头晕、疲劳）。
+CYP = 细胞色素P450；FDA = 美国食品药品监督管理局；GAD = 广泛性焦虑障碍；OCD = 强迫症；SNRI = 血清素-去甲肾上腺素再摄取抑制剂；SSRI = 血清素再摄取抑制剂。
+
+【其他药物】
+苯二氮䓬类药物可用于急性焦虑（例如，因医疗操作引起），但不建议用于长期治疗。短半衰期苯二氮䓬类药物（例如，劳拉西泮）通常是首选，但急性戒断症状的风险可能限制其使用（23）。半衰期较长的药物（如氯硝西泮）在治疗惊恐障碍时尤为有效。丁螺环酮在患有广泛性焦虑障碍的儿科患者（6至17岁）中表现出良好的耐受性；然而，支持其应用的证据有限且结果不一（24）。关于威廉姆斯综合征(25)和自闭症谱系障碍(26)等发育障碍改善的报告引发了持续的研究。
+有限研究报告可乐定和胍法辛具有某些抗焦虑效果（27）。这些最好考虑用于抽动障碍或伴有焦虑或注意力缺陷多动障碍的破坏性行为障碍。
+抗精神病药物也被证明具有抗焦虑作用，在焦虑可能导致严重破坏性行为、攻击、精神病或治疗抵抗的情况下，应主要考虑抗精神病药物。
+
+【治疗参考文献】
+1.Brent DA, Porta G, Rozenman MS, et al.Brief Behavioral Therapy for Pediatric Anxiety and Depression in Primary Care: A Follow-up. J Am Acad Child Adolesc Psychiatry.2020;59(7):856-867.doi:10.1016/j.jaac.2019.06.009
+1.Brent DA, Porta G, Rozenman MS, et al.Brief Behavioral Therapy for Pediatric Anxiety and Depression in Primary Care: A Follow-up. J Am Acad Child Adolesc Psychiatry.2020;59(7):856-867.doi:10.1016/j.jaac.2019.06.009
+2.Strawn JR, Welge JA, Wehry AM, et al.Efficacy and tolerability of antidepressants in pediatric anxiety disorders: A systematic review and meta-analysis.Depress Anxiety.32(3):149-157, 2015.
+2.Strawn JR, Welge JA, Wehry AM, et al.Efficacy and tolerability of antidepressants in pediatric anxiety disorders: A systematic review and meta-analysis.Depress Anxiety.32(3):149-157, 2015.
+3.Ipser JC, Stein DJ, Hawkridge S, et al.Pharmacotherapy for anxiety disorders in children and adolescents.Cochrane Database Syst Rev.(3):CD005170, 2009.doi: 10.1002/14651858.CD005170.pub2
+3.Ipser JC, Stein DJ, Hawkridge S, et al.Pharmacotherapy for anxiety disorders in children and adolescents.Cochrane Database Syst Rev.(3):CD005170, 2009.doi: 10.1002/14651858.CD005170.pub2
+4.Wang Z, Whiteside SPH, Sim L, et al.Comparative Effectiveness and Safety of Cognitive Behavioral Therapy and Pharmacotherapy for Childhood Anxiety Disorders: A Systematic Review and Meta-analysis [published correction appears inJAMA Pediatr.2018 Oct 1;172(10):992. doi: 10.1001/jamapediatrics.2018.3021.].JAMA Pediatr.2017;171(11):1049-1056.doi:10.1001/jamapediatrics.2017.3036
+4.Wang Z, Whiteside SPH, Sim L, et al.Comparative Effectiveness and Safety of Cognitive Behavioral Therapy and Pharmacotherapy for Childhood Anxiety Disorders: A Systematic Review and Meta-analysis [published correction appears inJAMA Pediatr.2018 Oct 1;172(10):992. doi: 10.1001/jamapediatrics.2018.3021.].JAMA Pediatr.2017;171(11):1049-1056.doi:10.1001/jamapediatrics.2017.3036
+5.Walter HJ, Bukstein OG, Abright AR, et al.Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders.J Am Acad Child Adolesc Psychiatry.2020;59(10):1107-1124.doi:10.1016/j.jaac.2020.05.005
+5.Walter HJ, Bukstein OG, Abright AR, et al.Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders.J Am Acad Child Adolesc Psychiatry.2020;59(10):1107-1124.doi:10.1016/j.jaac.2020.05.005
+6.Varghese M, Kirpekar V, Loganathan S.Family Interventions: Basic Principles and Techniques.Indian J Psychiatry.2020;62(Suppl 2):S192-S200.doi:10.4103/psychiatry.IndianJPsychiatry_770_19
+6.Varghese M, Kirpekar V, Loganathan S.Family Interventions: Basic Principles and Techniques.Indian J Psychiatry.2020;62(Suppl 2):S192-S200.doi:10.4103/psychiatry.IndianJPsychiatry_770_19
+7.Goger P, Weersing VR.Family based treatment of anxiety disorders: A review of the literature (2010-2019).J Marital Fam Ther.2022;48(1):107-128.doi:10.1111/jmft.12548
+7.Goger P, Weersing VR.Family based treatment of anxiety disorders: A review of the literature (2010-2019).J Marital Fam Ther.2022;48(1):107-128.doi:10.1111/jmft.12548
+8.Ball SG, Kuhn A, Wall D, Shekhar A, Goddard AW: Selective serotonin reuptake inhibitor treatment for generalized anxiety disorder: a double-blind, prospective comparison betweenparoxetineandsertraline.J Clin Psychiatry.2005;66(1):94-99.doi:10.4088/jcp.v66n0113
+8.Ball SG, Kuhn A, Wall D, Shekhar A, Goddard AW: Selective serotonin reuptake inhibitor treatment for generalized anxiety disorder: a double-blind, prospective comparison betweenparoxetineandsertraline.J Clin Psychiatry.2005;66(1):94-99.doi:10.4088/jcp.v66n0113
+9.Strawn JR, Mills JA, Poweleit EA, Ramsey LB, Croarkin PE.Adverse Effects of Antidepressant Medications and their Management in Children and Adolescents.Pharmacotherapy.2023;43(7):675-690.doi:10.1002/phar.2767
+9.Strawn JR, Mills JA, Poweleit EA, Ramsey LB, Croarkin PE.Adverse Effects of Antidepressant Medications and their Management in Children and Adolescents.Pharmacotherapy.2023;43(7):675-690.doi:10.1002/phar.2767
+10.Poweleit EA, Taylor ZL, Mizuno T, et al.Escitalopram and Sertraline Population Pharmacokinetic Analysis in Pediatric Patients.Clin Pharmacokinet.2023;62(11):1621-1637.doi:10.1007/s40262-023-01294-8
+10.Poweleit EA, Taylor ZL, Mizuno T, et al.Escitalopram and Sertraline Population Pharmacokinetic Analysis in Pediatric Patients.Clin Pharmacokinet.2023;62(11):1621-1637.doi:10.1007/s40262-023-01294-8
+11.Walkup JT, Albano AM, Piacentini J, et al.Cognitive behavioral therapy, sertraline, or a combination in childhood anxiety.N Engl J Med359:2753-2766, 2008.doi: 10.1056/NEJMoa0804633
+11.Walkup JT, Albano AM, Piacentini J, et al.Cognitive behavioral therapy, sertraline, or a combination in childhood anxiety.N Engl J Med359:2753-2766, 2008.doi: 10.1056/NEJMoa0804633
+12.Bousman CA, Stevenson JM, Ramsey LB, et al.Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for CYP2D6, CYP2C19, CYP2B6, SLC6A4, and HTR2A Genotypes and Serotonin Reuptake Inhibitor Antidepressants.Clin Pharmacol Ther.2023;114(1):51-68.doi:10.1002/cpt.2903
+12.Bousman CA, Stevenson JM, Ramsey LB, et al.Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for CYP2D6, CYP2C19, CYP2B6, SLC6A4, and HTR2A Genotypes and Serotonin Reuptake Inhibitor Antidepressants.Clin Pharmacol Ther.2023;114(1):51-68.doi:10.1002/cpt.2903
+13.Hoffelt C, Gross T.A review of significant pharmacokinetic drug interactions with antidepressants and their management.Ment Health Clin.2016;6(1):35-41.Published 2016 Mar 8.doi:10.9740/mhc.2016.01.035
+13.Hoffelt C, Gross T.A review of significant pharmacokinetic drug interactions with antidepressants and their management.Ment Health Clin.2016;6(1):35-41.Published 2016 Mar 8.doi:10.9740/mhc.2016.01.035
+14.Sultan MA, Courtney DB.Adjunctive Trazodone and Depression Outcome in Adolescents Treated with Serotonin Re-uptake Inhibitors.J Can Acad Child Adolesc Psychiatry.2017;26(3):233-240
+14.Sultan MA, Courtney DB.Adjunctive Trazodone and Depression Outcome in Adolescents Treated with Serotonin Re-uptake Inhibitors.J Can Acad Child Adolesc Psychiatry.2017;26(3):233-240
+15.Marken PA, Munro JS.Selecting a Selective Serotonin Reuptake Inhibitor: Clinically Important Distinguishing Features.Prim Care Companion J Clin Psychiatry.2000;2(6):205-210.doi:10.4088/pcc.v02n0602
+15.Marken PA, Munro JS.Selecting a Selective Serotonin Reuptake Inhibitor: Clinically Important Distinguishing Features.Prim Care Companion J Clin Psychiatry.2000;2(6):205-210.doi:10.4088/pcc.v02n0602
+16.Anderson LL, Doohan PT, Oldfield L, et al.Citalopram and Cannabidiol: In Vitro and In Vivo Evidence of Pharmacokinetic Interactions Relevant to the Treatment of Anxiety Disorders in Young People.J Clin Psychopharmacol.2021;41(5):525-533.doi:10.1097/JCP.0000000000001427
+16.Anderson LL, Doohan PT, Oldfield L, et al.Citalopram and Cannabidiol: In Vitro and In Vivo Evidence of Pharmacokinetic Interactions Relevant to the Treatment of Anxiety Disorders in Young People.J Clin Psychopharmacol.2021;41(5):525-533.doi:10.1097/JCP.0000000000001427
+17.Vaughn SE, Strawn JR, Poweleit EA, Sarangdhar M, Ramsey LB.The Impact of Marijuana on Antidepressant Treatment in Adolescents: Clinical and Pharmacologic Considerations.J Pers Med.2021;11(7):615.Published 2021 Jun 29.doi:10.3390/jpm11070615
+17.Vaughn SE, Strawn JR, Poweleit EA, Sarangdhar M, Ramsey LB.The Impact of Marijuana on Antidepressant Treatment in Adolescents: Clinical and Pharmacologic Considerations.J Pers Med.2021;11(7):615.Published 2021 Jun 29.doi:10.3390/jpm11070615
+18.Calarge CA, Mills JA, Janz KF, Burns TL, Coryell WH, Zemel BS.Body Composition in Adolescents During Treatment With Selective Serotonin Reuptake Inhibitors.Pediatrics.2017;140(1):e20163943.doi:10.1542/peds.2016-3943
+18.Calarge CA, Mills JA, Janz KF, Burns TL, Coryell WH, Zemel BS.Body Composition in Adolescents During Treatment With Selective Serotonin Reuptake Inhibitors.Pediatrics.2017;140(1):e20163943.doi:10.1542/peds.2016-3943
+19.Zhong Z, Wang L, Wen X, Liu Y, Fan Y, Liu Z.A meta-analysis of effects of selective serotonin reuptake inhibitors on blood pressure in depression treatment: outcomes from placebo and serotonin and noradrenaline reuptake inhibitor controlled trials.Neuropsychiatr Dis Treat.2017;13:2781-2796.Published 2017 Nov 7.doi:10.2147/NDT.S141832
+19.Zhong Z, Wang L, Wen X, Liu Y, Fan Y, Liu Z.A meta-analysis of effects of selective serotonin reuptake inhibitors on blood pressure in depression treatment: outcomes from placebo and serotonin and noradrenaline reuptake inhibitor controlled trials.Neuropsychiatr Dis Treat.2017;13:2781-2796.Published 2017 Nov 7.doi:10.2147/NDT.S141832
+20.Brent DA, Emslie GJ, Clarke GN, et al.Predictors of spontaneous and systematically assessed suicidal adverse events in the treatment of SSRI-resistant depression in adolescents (TORDIA) study.Am J Psychiatry.2009;166(4):418-426.doi:10.1176/appi.ajp.2008.08070976)
+20.Brent DA, Emslie GJ, Clarke GN, et al.Predictors of spontaneous and systematically assessed suicidal adverse events in the treatment of SSRI-resistant depression in adolescents (TORDIA) study.Am J Psychiatry.2009;166(4):418-426.doi:10.1176/appi.ajp.2008.08070976)
+21.Horowitz MA, Framer A, Hengartner MP, Sørensen A, Taylor D.Estimating Risk of Antidepressant Withdrawal from a Review of Published Data.CNS Drugs.2023;37(2):143-157.doi:10.1007/s40263-022-00960-y)
+21.Horowitz MA, Framer A, Hengartner MP, Sørensen A, Taylor D.Estimating Risk of Antidepressant Withdrawal from a Review of Published Data.CNS Drugs.2023;37(2):143-157.doi:10.1007/s40263-022-00960-y)
+22.Shapiro not in Pubmed?https://psychiatryonline.org/doi/full/10.1176/appi.pn.2025.09.9.1?af=R)
+22.Shapiro not in Pubmed?https://psychiatryonline.org/doi/full/10.1176/appi.pn.2025.09.9.1?af=R)
+23.Szuhany KL, Simon NM.Anxiety Disorders: A Review.JAMA.2022;328(24):2431-2445.doi:10.1001/jama.2022.22744
+23.Szuhany KL, Simon NM.Anxiety Disorders: A Review.JAMA.2022;328(24):2431-2445.doi:10.1001/jama.2022.22744
+24.Strawn JR,  Mills JA, Cornwall GJ, et al.Buspironein children and adolescents with anxiety: A review and Bayesian analysis of abandoned randomized controlled trials.J Child Adolesc Psychopharmacol.28(1): 2-9, 2018. doi: 10.1089/cap.2017.0060
+24.Strawn JR,  Mills JA, Cornwall GJ, et al.Buspironein children and adolescents with anxiety: A review and Bayesian analysis of abandoned randomized controlled trials.J Child Adolesc Psychopharmacol.28(1): 2-9, 2018. doi: 10.1089/cap.2017.0060
+25.Thom RP, Keary CJ, Waxler JL, et al.Buspironefor the treatment of generalized anxiety disorder in Williams syndrome: A case series.J Autism Dev Disord.50(2):676-682, 2020.doi: 10.1007/s10803-019-04301-9
+25.Thom RP, Keary CJ, Waxler JL, et al.Buspironefor the treatment of generalized anxiety disorder in Williams syndrome: A case series.J Autism Dev Disord.50(2):676-682, 2020.doi: 10.1007/s10803-019-04301-9
+26.Ceranoglu TA, Wozniak J, Fried R, et al.A retrospective chart review of buspirone for the treatment of anxiety in psychiatrically referred youth with high-functioning autism spectrum disorder.J Child Adolescent Psychopharmacol.29(1):28-33, 2018.doi: 10.1089/cap.2018.0021
+26.Ceranoglu TA, Wozniak J, Fried R, et al.A retrospective chart review of buspirone for the treatment of anxiety in psychiatrically referred youth with high-functioning autism spectrum disorder.J Child Adolescent Psychopharmacol.29(1):28-33, 2018.doi: 10.1089/cap.2018.0021
+27.Pringsheim T, Okun MS, Müller-Vahl K, et al.Practice guideline recommendations summary: Treatment of tics in people with Tourette syndrome and chronic tic disorders.Neurology.2019;92(19):896-906.doi:10.1212/WNL.0000000000007466
+27.Pringsheim T, Okun MS, Müller-Vahl K, et al.Practice guideline recommendations summary: Treatment of tics in people with Tourette syndrome and chronic tic disorders.Neurology.2019;92(19):896-906.doi:10.1212/WNL.0000000000007466
+
+【焦虑症的预后】
+儿童焦虑症的预后主要视严重程度、有效治疗措施和儿童的适应能力。许多孩子可能会将焦虑症状带入成年期。但早期治疗使许多儿童学会如何控制他们的焦虑。
+焦虑障碍最常见的表现可能是拒绝上学；许多孩子会以躯体症状来表达他们的不适；这些身体症状可能使评估变得复杂。
+焦虑障碍最常见的表现可能是拒绝上学；许多孩子会以躯体症状来表达他们的不适；这些身体症状可能使评估变得复杂。
+只有当焦虑过度到严重损害孩子的功能或导致严重的痛苦和/或逃避时，才可以将焦虑视为一种儿童障碍。
+只有当焦虑过度到严重损害孩子的功能或导致严重的痛苦和/或逃避时，才可以将焦虑视为一种儿童障碍。
+由经验丰富的治疗师实施行为治疗（使用暴露和反应预防原则）时最为有效，该治疗师应了解儿童发展并根据儿童情况调整这些原则。
+由经验丰富的治疗师实施行为治疗（使用暴露和反应预防原则）时最为有效，该治疗师应了解儿童发展并根据儿童情况调整这些原则。
+当病情更严重或难以获得经验丰富的儿童行为治疗师时，可能需要药物治疗。
+当病情更严重或难以获得经验丰富的儿童行为治疗师时，可能需要药物治疗。
+用于CYP变体的市售检测面板仍然有限。
+用于CYP变体的市售检测面板仍然有限。

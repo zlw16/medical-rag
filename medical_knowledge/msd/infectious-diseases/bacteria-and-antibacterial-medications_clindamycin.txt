@@ -1,0 +1,55 @@
+标题：克林霉素
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/bacteria-and-antibacterial-medications/clindamycin
+============================================================
+
+克林霉素是林可酰胺类抗生素，主要用于抑菌。它与细菌核糖体的50S亚基结合，从而抑制细菌蛋白质合成。
+
+【克林霉素的药代动力学】
+克林霉素口服吸收好，也可以胃肠外给药。克林霉素可很好地扩散进入除脑脊液以外的体液中，它在吞噬细胞中浓缩。大多数的药物被代谢，代谢物经胆汁和尿液排泄。
+
+【克林霉素的适应症】
+克林霉素的抗菌谱与大环内酯类红霉素相似（见表大环内酯类药物的一些临床应用），除了克林霉素
+对厌氧菌（除了对拟杆菌属包括Bacteroides fragilis（脆弱拟杆菌）因耐药性而活性不可靠）、大多数社区获得性耐甲氧西林金黄色葡萄球菌和大环内酯类耐药、克林霉素敏感肺炎链球菌引起的感染有效。
+对厌氧菌（除了对拟杆菌属包括Bacteroides fragilis（脆弱拟杆菌）因耐药性而活性不可靠）、大多数社区获得性耐甲氧西林金黄色葡萄球菌和大环内酯类耐药、克林霉素敏感肺炎链球菌引起的感染有效。
+对支原体、衣原体、Chlamydophila属和军团菌的抗菌活性不确定。
+对支原体、衣原体、Chlamydophila属和军团菌的抗菌活性不确定。
+需氧革兰阴性杆菌和肠球菌对其耐药。
+克林霉素通常用于治疗厌氧菌感染；然而，这些微生物已逐渐对克林霉素产生耐药性，尤其是革兰阴性厌氧菌，例如B. fragilis（脆弱芽孢杆菌）。因为厌氧菌感染也经常伴有需氧性革兰阴性杆菌感染，所以也需要同时应用其他抗生素。克林霉素作为如下感染联合治疗药物之一：
+用青霉素治疗产毒性链球菌引起的感染（因为克林霉素能减少微生物毒素的产生）
+用青霉素治疗产毒性链球菌引起的感染（因为克林霉素能减少微生物毒素的产生）
+与乙胺嘧啶联用治疗脑弓形体病
+与乙胺嘧啶联用治疗脑弓形体病
+与奎宁联用治疗巴贝斯虫病或恶性疟
+与奎宁联用治疗巴贝斯虫病或恶性疟
+与伯氨喹联用治疗耶氏肺孢子菌肺炎
+与伯氨喹联用治疗耶氏肺孢子菌肺炎
+克林霉素可用于治疗社区获得性感染（例如皮肤和软组织感染），尤其是在社区相关耐甲氧西林Staphylococcus aureus（金黄色葡萄球菌）（CA-MRSA）常见的地区；克林霉素是否有效取决于当地的耐药模式。
+克林霉素可用于治疗由对克林霉素和红霉素敏感菌株引起的感染。然而，一些CA-MRSA菌株对克林霉素敏感，但对红霉素耐药。这些菌株对红霉素耐药的作用机制可能为主动外排机制或核糖体靶点修饰。如果对克林霉素敏感的CA-MRSA感染菌株因外排机制而对红霉素耐药，患者有望对克林霉素治疗产生应答。然而，如果菌株因核糖体靶点修饰而对红霉素耐药，患者可能不会对克林霉素产生临床应答，因为某些突变体可在克林霉素治疗期间出现；这些突变体因核糖体靶点的组成性修饰而对克林霉素和红霉素耐药。（组成型是指无论是否存在诱导剂（如红霉素），耐药性总是存在。）
+通过常用的双盘扩散法（D-检测法），可以区分红霉素因外排机制导致的耐药和因诱导性核糖体靶点修饰导致的耐药。在接种标准CA-MRSA菌株的琼脂平皿上，将克林霉素纸片与红霉素纸片按标准距离放置。生长抑制的区域（形如字母“D”）的克林霉素盘周围，最靠近红霉素盘出现扁平区域，表示诱导核糖体耐药。感染了具有诱导核糖体耐药性的CA-MRSA菌株且D检测结果呈阳性的中度至重度感染患者，不应使用克林霉素治疗。
+因为药物不易渗入大脑和脑脊液，所以克林霉素不能用来治疗中枢神经系统感染（除颅内弓形虫病外）。
+克林霉素可局部外用治疗痤疮。
+
+【克林霉素的禁忌证】
+禁用于既往有过敏反应者，慎用于既往有局限性肠炎，溃疡性结肠炎或抗生素相关性结肠炎患者。
+
+【克林霉素在妊娠和哺乳期间的使用】
+用克林霉素进行的动物繁殖研究尚未显示对胎儿有风险。在对孕妇的临床试验中，孕中、晚期服用克林霉素与出生缺陷发生率增加无关。如果有医学上的需要，可在怀孕期间使用克林霉素。
+克林霉素可进入母乳。哺乳期间不建议使用。
+
+【克林霉素的不良反应】
+克林霉素的主要不良反应是
+Clostridioides（原称Clostridium[梭状芽孢杆菌属]）difficile（艰难梭菌）引起的腹泻（伪膜性肠炎）
+Clostridioides（原称Clostridium[梭状芽孢杆菌属]）difficile（艰难梭菌）引起的腹泻（伪膜性肠炎）
+克林霉素与其他任何抗生素相比，都与C. difficile（艰难梭菌）相关性结肠炎关联性更强，并且对此不良反应有黑框警告。C. difficile（艰难梭菌）相关腹泻在接触克林霉素后发生的可能性是未接触抗生素的20倍左右（1），而其他抗生素，包括氟喹诺酮类和头孢菌素类，发生C. difficile（艰难梭菌）相关腹泻的几率比未使用抗生素高5～10倍（2）。
+可能发生过敏反应。最常见的不良反应是轻度至中度斑丘疹，但也有严重的皮肤反应，包括中毒性表皮坏死松解症。
+克林霉素可能会延长 QT 间期，尤其是在具有多种 QT 延长危险因素的患者中。
+如果不用水吞下，克林霉素可能引起食管炎。
+
+【不良反应参考】
+1.Brown KA, Khanafer N, Daneman N, Fisman DN.Meta-analysis of antibiotics and the risk of community-associatedClostridium difficileinfection.Antimicrob Agents Chemother.2013;57(5):2326-2332.doi:10.1128/AAC.02176-12
+1.Brown KA, Khanafer N, Daneman N, Fisman DN.Meta-analysis of antibiotics and the risk of community-associatedClostridium difficileinfection.Antimicrob Agents Chemother.2013;57(5):2326-2332.doi:10.1128/AAC.02176-12
+2.Miller AC, Arakkal AT, Sewell DK, et al.Comparison of Different Antibiotics and the Risk for Community-AssociatedClostridioides difficileInfection: A Case-Control Study.Open Forum Infect Dis.2023;10(8):ofad413.Published 2023 Aug 5.doi:10.1093/ofid/ofad413
+2.Miller AC, Arakkal AT, Sewell DK, et al.Comparison of Different Antibiotics and the Risk for Community-AssociatedClostridioides difficileInfection: A Case-Control Study.Open Forum Infect Dis.2023;10(8):ofad413.Published 2023 Aug 5.doi:10.1093/ofid/ofad413
+
+【克林霉素的给药注意事项】
+肾功能衰竭患者剂量不需要调整。 克林霉素每隔6至8小时给药一次。

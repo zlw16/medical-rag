@@ -1,0 +1,134 @@
+标题：胸部影像学
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/diagnostic-and-therapeutic-pulmonary-procedures/chest-imaging
+============================================================
+
+胸部成像包括使用:
+传统的X射线
+传统的X射线
+计算机断层扫描 (CT) 扫描
+计算机断层扫描 (CT) 扫描
+磁共振成像（MRI）
+磁共振成像（MRI）
+核扫描，包括正电子发射断层扫描 (PET) 扫描
+核扫描，包括正电子发射断层扫描 (PET) 扫描
+超声检查
+超声检查
+（另请参见放射成像原理。）
+
+【传统胸部 X 射线技术】
+用于对胸部和周围结构进行成像的传统 X 射线技术包括:
+普通 X 线片
+普通 X 线片
+
+【胸部X光检查】
+胸部X平片可显示胸腔内外的结构，最有助于识别心脏、肺实质、胸膜、胸壁、横膈、纵隔和肺门的异常。通常作为评价肺脏的初步检查。
+标准胸片从后向前（后正位）拍摄，以尽量减少X线散射，因为X线散射可能会人为地放大心脏轮廓，并从胸部侧面（侧位）拍摄。
+脊柱前倾位片或斜位片可用于评判肺部结节或区分可能由叠加结构造成的异常，但胸部CT能提供更多的信息并已基本取代前两者。
+侧卧位片可用来区分游离性和包裹性胸腔积液，但胸部CT和超声能提供更多的信息。
+呼气末胸片可用于检测少量气胸。
+用便携式机器拍摄的胸片（常为前后位）几乎总是不理想的，只有当患者病情太严重不能转运至放射科时才使用。
+筛查胸部X光检查几乎从未有指征；一个例外是无症状的结核菌素皮肤试验结果阳性的患者，在这些患者中，单次不带侧位的胸部后前位X光片用于决定是否对肺结核进行额外的诊断研究和/或治疗。
+
+【胸部透视】
+胸部透视是应用连续X线光束扫描进行运动显影。它可用于检查单侧膈肌麻痹。在鼻吸试验中，指导病人经鼻用力吸气（即鼻吸动作），可观察到麻痹的半侧膈肌向头侧运动（矛盾运动），而未受影响的半侧膈肌向尾侧运动。
+一些辅助手术，例如支气管镜检查，可以在荧光镜引导下完成。
+
+【胸部计算机断层扫描 (CT)】
+CT 比胸部 X 线检查更清楚地定义胸腔内结构和异常。
+胸部CT通常是在吸气末进行扫描。由于扫描过程中有肺通气，因而可以提供肺实质、气道和血管的最佳成像，并发现异常，如肿块，浸润或纤维化。
+建议每年对肺癌高危患者进行低剂量胸部CT筛查。
+俯卧位扫描的图像有助于区分重力依赖性肺不张（可因体位改变而变化）与导致肺部重力依赖区出现磨玻璃影的肺疾病，后者不随体位改变而消失（例如，由特发性肺纤维化、石棉肺或系统性硬化症引起的纤维化）。
+
+【CT血管成像】
+CT血管造影术是通过静脉注射造影剂而使肺动脉显影，对于诊断肺栓塞非常有帮助。
+造影剂用量与传统血管造影相当，但该检查更快且创伤更小。CT血管造影为肺栓塞的检测提供了足够的准确性，除了不能耐受造影剂的患者，可以使用通气/灌注（V/Q）扫描外，通常使用CT血管造影代替传统的肺血管造影。
+
+【胸部磁共振成像】
+MRI在肺部显像中作用相对有限，但在一些特殊情况下优于CT，例如显示
+肺上沟肿瘤
+肺上沟肿瘤
+可能是囊肿
+可能是囊肿
+毗邻胸壁的病变
+毗邻胸壁的病变
+胸部 MRI 或磁共振血管造影 (MRA) 也可用于诊断主动脉夹层。
+如怀疑肺栓塞的病人但又不能使用静脉造影剂时，MRI有时可识别近端的大栓子，但不能很好地检测到较小或更远端的栓子。
+MRI的优点包括无放射线辐射、血管结构成像极佳、无骨伪影、软组织对比度好。
+缺点包括呼吸和心脏运动的影响，检查耗时较长、花费大和偶尔存在的禁忌症 。
+在病人的眼睛或大脑中存在铁磁性物体通常会禁忌进行MRI。永久起搏器或植入式心律转复除颤器（ICD）的存在，以及某些血管线圈和栓塞物，可能被认为是相对禁忌症和/或需要特定的安全协议（见MRI Safety（MRI安全性）和特定植入物的制造商说明）。许多起搏器和植入式心脏转复除颤器（ICD）可以在特定条件下安全地用于MRI机器（MRI条件）（1、2），许多线圈和插头是MRI安全的。即使没有标记为MRI条件的设备，如果遵循适当的协议，通常也是安全的（3）。除了安全问题外，植入的金属物体还会引起成像伪影。
+钆作为磁共振成像的造影剂使用时，对于急性肾损伤、4期或5期慢性肾脏病或接受肾脏替代治疗（透析）的患者，存在引发肾源性系统性纤维化的风险（4）。钆可能对胎儿有害，通常在怀孕时避免使用 (5,6) 。
+
+【胸部磁共振成像参考】
+1.Indik JH, Gimbel JR, Abe H, et al.2017 HRS expert consensus statement on magnetic resonance imaging and radiation exposure in patients with cardiovascular implantable electronic devices.Heart Rhythm.2017;14(7):e97-e153.doi:10.1016/j.hrthm.2017.04.025
+1.Indik JH, Gimbel JR, Abe H, et al.2017 HRS expert consensus statement on magnetic resonance imaging and radiation exposure in patients with cardiovascular implantable electronic devices.Heart Rhythm.2017;14(7):e97-e153.doi:10.1016/j.hrthm.2017.04.025
+2.Wan EY, Rogers AJ, Lavelle M, et al.Periprocedural Management and Multidisciplinary Care Pathways for Patients With Cardiac Implantable Electronic Devices: A Scientific Statement From the American Heart Association.Circulation.2024;150(8):e183-e196.doi:10.1161/CIR.0000000000001264
+2.Wan EY, Rogers AJ, Lavelle M, et al.Periprocedural Management and Multidisciplinary Care Pathways for Patients With Cardiac Implantable Electronic Devices: A Scientific Statement From the American Heart Association.Circulation.2024;150(8):e183-e196.doi:10.1161/CIR.0000000000001264
+3.Nazarian S, Hansford R, Rahsepar AA, et al.Safety of Magnetic Resonance Imaging in Patients with Cardiac Devices.N Engl J Med.2017;377(26):2555-2564.doi:10.1056/NEJMoa1604267
+3.Nazarian S, Hansford R, Rahsepar AA, et al.Safety of Magnetic Resonance Imaging in Patients with Cardiac Devices.N Engl J Med.2017;377(26):2555-2564.doi:10.1056/NEJMoa1604267
+4.Weinreb JC, Rodby RA, Yee J, et al.Use of IntravenousGadolinium-based Contrast Media in Patients with Kidney Disease: Consensus Statements from the American College of Radiology and the National Kidney Foundation.Radiology.2021;298(1):28-35.doi:10.1148/radiol.2020202903
+4.Weinreb JC, Rodby RA, Yee J, et al.Use of IntravenousGadolinium-based Contrast Media in Patients with Kidney Disease: Consensus Statements from the American College of Radiology and the National Kidney Foundation.Radiology.2021;298(1):28-35.doi:10.1148/radiol.2020202903
+5.American College of Radiology.ACR Manual on MR Safety.January 1, 2024.Accessed September 12, 2025.
+5.American College of Radiology.ACR Manual on MR Safety.January 1, 2024.Accessed September 12, 2025.
+6.Pedrosa I, Altman DA, Dillman JR, et al.American College of Radiology Manual on MR Safety: 2024 Update and Revisions.Radiology.2025;315(1):e241405.doi:10.1148/radiol.241405
+6.Pedrosa I, Altman DA, Dillman JR, et al.American College of Radiology Manual on MR Safety: 2024 Update and Revisions.Radiology.2025;315(1):e241405.doi:10.1148/radiol.241405
+
+【胸部超声检查】
+超声检查常常用于辅助其它操作，例如胸腔穿刺和中心静脉置管。
+此外，超声检查对于判断胸腔积液的存在及其大小有重要价值。超声常用于床边引导胸腔穿刺，研究表明超声用于胸腔穿刺产出率高，并发症少（1、2）。床旁超声广泛用于诊断气胸。有证据表明，对于胸腔积液、肺炎和气胸的诊断，肺部超声检查比普通胸片检查更敏感、更特异，并有助于诊断肺水肿（3–8）。
+支气管内超声（EBUS）常与柔性纤维支气管镜联合应用于定位肿块和肿大的淋巴结。使用EBUS对经支气管淋巴结抽吸的诊断率高于传统的无引导技术，特别是在评估癌症和结节病方面（9、10、11、12）。
+
+【超声检查参考文献】
+1.Brogi E, Gargani L, Bignami E, et al.Thoracic ultrasound for pleural effusion in the intensive care unit: a narrative review from diagnosis to treatment.Crit Care.2017;21(1):325.Published 2017 Dec 28.doi:10.1186/s13054-017-1897-5
+1.Brogi E, Gargani L, Bignami E, et al.Thoracic ultrasound for pleural effusion in the intensive care unit: a narrative review from diagnosis to treatment.Crit Care.2017;21(1):325.Published 2017 Dec 28.doi:10.1186/s13054-017-1897-5
+2.Nicholson MJ, Manley C, Ahmad D.Thoracentesis for the Diagnosis and Management of Pleural Effusions: The Current State of a Centuries-Old Procedure.J Respir.2023; 3(4):208-222.doi: 10.3390/jor3040020
+2.Nicholson MJ, Manley C, Ahmad D.Thoracentesis for the Diagnosis and Management of Pleural Effusions: The Current State of a Centuries-Old Procedure.J Respir.2023; 3(4):208-222.doi: 10.3390/jor3040020
+3.Gartlehner G, Wagner G, Affengruber L, et al.Point-of-Care Ultrasonography in Patients With Acute Dyspnea: An Evidence Report for a Clinical Practice Guideline by the American College of Physicians.Ann Intern Med.2021 174(7):967-976.doi: 10.7326/M20-5504.
+3.Gartlehner G, Wagner G, Affengruber L, et al.Point-of-Care Ultrasonography in Patients With Acute Dyspnea: An Evidence Report for a Clinical Practice Guideline by the American College of Physicians.Ann Intern Med.2021 174(7):967-976.doi: 10.7326/M20-5504.
+4.Hansell L, Milross M, Delaney A, Tian DH, Ntoumenopoulos G.Lung ultrasound has greater accuracy than conventional respiratory assessment tools for the diagnosis of pleural effusion, lung consolidation and collapse: a systematic review.J Physiother.2021;67(1):41-48.doi:10.1016/j.jphys.2020.12.002
+4.Hansell L, Milross M, Delaney A, Tian DH, Ntoumenopoulos G.Lung ultrasound has greater accuracy than conventional respiratory assessment tools for the diagnosis of pleural effusion, lung consolidation and collapse: a systematic review.J Physiother.2021;67(1):41-48.doi:10.1016/j.jphys.2020.12.002
+5.Hendin A, Koenig S, Millington SJ.Better With Ultrasound: Thoracic Ultrasound.Chest.2020;158(5):2082-2089.doi:10.1016/j.chest.2020.04.052
+5.Hendin A, Koenig S, Millington SJ.Better With Ultrasound: Thoracic Ultrasound.Chest.2020;158(5):2082-2089.doi:10.1016/j.chest.2020.04.052
+6.Mayo PH, Copetti R, Feller-Kopman D, et al.Thoracic ultrasonography: a narrative review.Intensive Care Med.2019;45(9):1200-1211.doi:10.1007/s00134-019-05725-8
+6.Mayo PH, Copetti R, Feller-Kopman D, et al.Thoracic ultrasonography: a narrative review.Intensive Care Med.2019;45(9):1200-1211.doi:10.1007/s00134-019-05725-8
+7.McLario DJ, Sivitz AB.Point-of-Care Ultrasound in Pediatric Clinical Care.JAMA Pediatr.2015;169(6):594-600.doi:10.1001/jamapediatrics.2015.22
+7.McLario DJ, Sivitz AB.Point-of-Care Ultrasound in Pediatric Clinical Care.JAMA Pediatr.2015;169(6):594-600.doi:10.1001/jamapediatrics.2015.22
+8.Ye X, Xiao H, Chen B, Zhang S.Accuracy of Lung Ultrasonography versus Chest Radiography for the Diagnosis of Adult Community-Acquired Pneumonia: Review of the Literature and Meta-Analysis.PLoS One2015;10(6):e0130066.doi:10.1371/journal.pone.0130066
+8.Ye X, Xiao H, Chen B, Zhang S.Accuracy of Lung Ultrasonography versus Chest Radiography for the Diagnosis of Adult Community-Acquired Pneumonia: Review of the Literature and Meta-Analysis.PLoS One2015;10(6):e0130066.doi:10.1371/journal.pone.0130066
+9.Adams K, Shah PL, Edmonds L, et al.Test performance of endobronchial ultrasound and transbronchial needle aspiration biopsy for mediastinal staging in patients with lung cancer: systematic review and meta-analysis.2009.In:Database of Abstracts of Reviews of Effects (DARE): Quality-assessed Reviews[Internet].York (UK): Centre for Reviews and Dissemination (UK); 1995-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK77899/
+9.Adams K, Shah PL, Edmonds L, et al.Test performance of endobronchial ultrasound and transbronchial needle aspiration biopsy for mediastinal staging in patients with lung cancer: systematic review and meta-analysis.2009.In:Database of Abstracts of Reviews of Effects (DARE): Quality-assessed Reviews[Internet].York (UK): Centre for Reviews and Dissemination (UK); 1995-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK77899/
+10.Bonifazi M, Tramacere I, Zuccatosta L, et al.Conventional versus Ultrasound-Guided Transbronchial Needle Aspiration for the Diagnosis of Hilar/Mediastinal Lymph Adenopathies: A Randomized Controlled Trial.Respiration.2017;94(2):216-223.doi:10.1159/000475843
+10.Bonifazi M, Tramacere I, Zuccatosta L, et al.Conventional versus Ultrasound-Guided Transbronchial Needle Aspiration for the Diagnosis of Hilar/Mediastinal Lymph Adenopathies: A Randomized Controlled Trial.Respiration.2017;94(2):216-223.doi:10.1159/000475843
+11.Herth F, Becker HD, Ernst A.Conventional vs endobronchial ultrasound-guided transbronchial needle aspiration: a randomized trial.Chest.2004;125(1):322-325.doi:10.1378/chest.125.1.322
+11.Herth F, Becker HD, Ernst A.Conventional vs endobronchial ultrasound-guided transbronchial needle aspiration: a randomized trial.Chest.2004;125(1):322-325.doi:10.1378/chest.125.1.322
+12.Tremblay A, Stather DR, MacEachern P, Khalil M, Field SK.A randomized controlled trial of standard vs endobronchial ultrasonography-guided transbronchial needle aspiration in patients with suspected sarcoidosis.Chest.2009;136(2):340-346.doi:10.1378/chest.08-2768
+12.Tremblay A, Stather DR, MacEachern P, Khalil M, Field SK.A randomized controlled trial of standard vs endobronchial ultrasonography-guided transbronchial needle aspiration in patients with suspected sarcoidosis.Chest.2009;136(2):340-346.doi:10.1378/chest.08-2768
+
+【肺部核素扫描】
+用于胸部成像的核素扫描技术包括:
+通气/灌注（V/Q）扫描
+通气/灌注（V/Q）扫描
+正电子发射断层扫描（PET）
+正电子发射断层扫描（PET）
+
+【V/Q扫描】
+V/Q扫描是应用吸入放射性核素检测通气情况和静脉注射放射性核素检测血流灌注。以6～8幅肺部视图可判别有通气无灌注、有灌注无通气、或两者同步升高和降低的区域。
+V/Q扫描最常用于诊断肺栓塞，但目前大部分情况下已被CT血管造影技术所替代。然而，V/Q扫描仍用于诊断慢性血栓栓塞症引起的肺动脉高压(1)。
+分功能通气扫描对每个肺叶的通气程度进行量化，用于预测支气管内瓣膜放置的效果以及肺叶或肺切除对肺功能的影响。
+
+【肺部正电子发射断层扫描 (PET)】
+PET扫描使用放射性标记的葡萄糖（氟脱氧葡萄糖）测定组织的代谢活性。它用于肺部疾病的诊断:
+肺结节或纵隔淋巴结是否存在肿瘤（代谢分期）
+肺结节或纵隔淋巴结是否存在肿瘤（代谢分期）
+癌症是否会在以前接受过辐射的肺部瘢痕区域复发
+癌症是否会在以前接受过辐射的肺部瘢痕区域复发
+虽然在新诊断肺癌的纵隔分期中，PET单独使用优于CT单独使用，但PET-CT联合检查是推荐的方法，尤其适用于检测纵隔和胸外疾病（2、3、4）。由于PET可能出现假阳性（如炎性病变，如肉芽肿），通常需要在手术切除前进行活检，通常采用EBUS引导下的针吸。缓慢生长的肿瘤（如支气管肺泡癌、神经内分泌肿瘤、一些转移性恶性肿瘤）则可能引起假阴性结果。
+
+【肺部核素扫描参考文献】
+1.Teerapuncharoen K, Bag R.Chronic Thromboembolic Pulmonary Hypertension.Lung.2022;200(3):283-299.doi:10.1007/s00408-022-00539-w
+1.Teerapuncharoen K, Bag R.Chronic Thromboembolic Pulmonary Hypertension.Lung.2022;200(3):283-299.doi:10.1007/s00408-022-00539-w
+2.Gould MK, Kuschner WG, Rydzak CE, et al.Test performance of positron emission tomography and computed tomography for mediastinal staging in patients with non-small-cell lung cancer: a meta-analysis.Ann Intern Med2003;139(11):879-892.doi:10.7326/0003-4819-139-11-200311180-00013
+2.Gould MK, Kuschner WG, Rydzak CE, et al.Test performance of positron emission tomography and computed tomography for mediastinal staging in patients with non-small-cell lung cancer: a meta-analysis.Ann Intern Med2003;139(11):879-892.doi:10.7326/0003-4819-139-11-200311180-00013
+3.Expert Consensus Panel, Kidane B, Bott M, et al.The American Association for Thoracic Surgery (AATS) 2023 Expert Consensus Document: Staging and multidisciplinary management of patients with early-stage non-small cell lung cancer.J Thorac Cardiovasc Surg.2023;166(3):637-654.doi:10.1016/j.jtcvs.2023.04.039
+3.Expert Consensus Panel, Kidane B, Bott M, et al.The American Association for Thoracic Surgery (AATS) 2023 Expert Consensus Document: Staging and multidisciplinary management of patients with early-stage non-small cell lung cancer.J Thorac Cardiovasc Surg.2023;166(3):637-654.doi:10.1016/j.jtcvs.2023.04.039
+4.Spicer JD, Cascone T, Wynes MW, et al.Neoadjuvant and Adjuvant Treatments for Early Stage Resectable NSCLC: Consensus Recommendations From the International Association for the Study of Lung Cancer.J Thorac Oncol.2024;19(10):1373-1414.doi:10.1016/j.jtho.2024.06.010
+4.Spicer JD, Cascone T, Wynes MW, et al.Neoadjuvant and Adjuvant Treatments for Early Stage Resectable NSCLC: Consensus Recommendations From the International Association for the Study of Lung Cancer.J Thorac Oncol.2024;19(10):1373-1414.doi:10.1016/j.jtho.2024.06.010

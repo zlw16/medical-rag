@@ -1,0 +1,41 @@
+标题：儿童骨塑形障碍概述
+来源：https://www.msdmanuals.cn/professional/pediatrics/bone-disorders-in-children/introduction-to-bone-modeling-disorders-in-children
+============================================================
+
+骨建模障碍是指以骨骼发育、生长或成形异常为特征的疾病，通常是由于影响生长板调节或骨形成的遗传差异。这些疾病与主要涉及矿化受损的代谢性骨病以及影响成熟骨骼周转的骨骼重塑障碍不同。
+骨骼塑形障碍包括骨软骨病和遗传性骨骼发育不良（例如，骨软骨发育不良），它们都被归为一类，因为它们会在生长板水平或骨骼发育中引起缺陷。
+在儿童中，骨建模障碍通常表现为身材矮小、生长不成比例和/或特征性骨骼特征，而不是骨密度低或骨折风险增加。也可能发生骨骼和关节疼痛，通常是由于骨骼形状或排列改变导致骨骼承受异常的机械力所致。
+
+【骨软骨病（生长板疾病）】
+骨软骨病是一种非炎症性、非感染性疾病，在骨骼快速发育期会破坏骨化中心的正常骨骼生长。这些疾病主要影响骨骺，并以疼痛为特征，具有重要的骨科意义。
+骨软骨病是一种非炎症性、非感染性疾病，在骨骼快速发育期会破坏骨化中心的正常骨骼生长。这些疾病主要影响骨骺，并以疼痛为特征，具有重要的骨科意义。
+虽然骨软骨病的确切病因尚不清楚，但有些有家族性成分，其他因素包括机械应力、重复性创伤和快速生长。各种骨软骨病的解剖分布、病程、预后各不相同 。
+常见的疾病（以及受影响的骨骼）包括：
+科勒骨病（足舟骨）
+科勒骨病（足舟骨）
+莱格-卡尔维-佩尔特斯病（股骨头）
+莱格-卡尔维-佩尔特斯病（股骨头）
+奥斯古德-施拉特病（胫骨结节）
+奥斯古德-施拉特病（胫骨结节）
+舍伊尔曼病（椎骨）
+舍伊尔曼病（椎骨）
+Sever病（跟骨骨骺炎）
+Sever病（跟骨骨骺炎）
+罕见的例子包括：
+弗莱伯格病（第二跖骨头）
+弗莱伯格病（第二跖骨头）
+潘纳病（头状骨）
+潘纳病（头状骨）
+布朗特病（胫骨近端）
+布朗特病（胫骨近端）
+骨软骨病的诊断主要通过临床评估，疼痛定位于生长期间受影响的骨化中心（1）。影像学检查（尤其是X光片）用于排除其他疾病或确认非典型病例（2）。x线片可显示骨骺坏死、生长板闭合和异常的继发性骨化中心。不太常见的是，可能会进行MRI检查；它对于检测诸如股骨头骨软骨病等疾病的早期变化更为敏感（3）。
+治疗通常是保守的，包括活动调整、物理治疗以及采取药物或其他措施（例如，休息、冰敷）以缓解症状（1）。大多数病例具有自限性，并随着骨骼成熟而消退，但需要密切监测。很少需要手术治疗，仅用于难治性症状、机械功能障碍或不稳定病变（导致持续的关节锁定、卡住、疼痛或肿胀）。
+预后通常良好，但取决于部位和严重程度。
+
+【参考文献】
+1.Achar S, Yamanaka J.Apophysitis and Osteochondrosis: Common Causes of Pain in Growing Bones.Am Fam Physician.2019;99(10):610-618.
+1.Achar S, Yamanaka J.Apophysitis and Osteochondrosis: Common Causes of Pain in Growing Bones.Am Fam Physician.2019;99(10):610-618.
+2.West EY, Jaramillo D.Imaging of osteochondrosis.Pediatr Radiol.2019;49(12):1610-1616.doi:10.1007/s00247-019-04556-5
+2.West EY, Jaramillo D.Imaging of osteochondrosis.Pediatr Radiol.2019;49(12):1610-1616.doi:10.1007/s00247-019-04556-5
+3.Nguyen JC, Markhardt BK, Merrow AC, Dwek JR.Imaging of Pediatric Growth Plate Disturbances.Radiographics.2017;37(6):1791-1812.doi:10.1148/rg.2017170029
+3.Nguyen JC, Markhardt BK, Merrow AC, Dwek JR.Imaging of Pediatric Growth Plate Disturbances.Radiographics.2017;37(6):1791-1812.doi:10.1148/rg.2017170029

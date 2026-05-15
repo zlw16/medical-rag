@@ -1,0 +1,56 @@
+标题：分娩镇痛与麻醉
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/labor-and-delivery/analgesia-and-anesthesia-for-labor-and-delivery
+============================================================
+
+分娩的镇痛和麻醉选择包括神经轴麻醉、局部区域麻醉、肠外镇痛和全身麻醉。通常首选神经轴方法（例如硬膜外麻醉或脊椎麻醉）（1）。局部注射（例如阴部阻滞、宫颈旁阻滞）不太常见。一般情况下，仅当无法进行神经轴麻醉、患者有神经轴麻醉禁忌症（例如，之前进行过脊柱手术或有严重的脊柱侧弯）或患者强烈希望避免神经轴麻醉（例如，由于之前使用此方法的不良经历）时，才使用肠外阿片类药物或其他药物。只有在需要紧急剖腹产时才使用全身麻醉。
+
+【参考文献】
+1.American College of Obstetricians and Gynecologists' Committee on Practice Bulletins: Obstetrics.ACOG Practice Bulletin No. 209: Obstetric Analgesia and Anesthesia.Obstet Gynecol133(3):e208-e225, 2019.doi:10.1097/AOG.0000000000003132
+1.American College of Obstetricians and Gynecologists' Committee on Practice Bulletins: Obstetrics.ACOG Practice Bulletin No. 209: Obstetric Analgesia and Anesthesia.Obstet Gynecol133(3):e208-e225, 2019.doi:10.1097/AOG.0000000000003132
+
+【分娩时的椎管内麻醉】
+椎管内麻醉是分娩过程中镇痛的首选方法。它能有效控制疼痛，使分娩患者保持清醒并能用力产出，并且不会导致新生儿镇静。有几种神经轴方法可用，包括硬膜外、脊髓和脊髓-硬膜外联合。
+
+【硬脊膜外麻醉】
+硬膜外麻醉可以逐渐控制疼痛。它可以在整个分娩和阴道分娩过程中持续使用，并且可以在剖腹产时增加镇痛水平。
+对于硬膜外麻醉，需要将导管放入腰椎硬膜外腔。通常情况下，局部麻醉剂（例如0.2%罗哌卡因，0.125%布比卡因）常与阿片类药物（例如芬太尼、舒芬太尼）一起持续注入硬膜外腔。根据需要，麻醉程度可以改变。例如，如果患者在第二产程中感觉不到宫缩，则可以降低水平。
+使用硬膜外镇痛不会增加剖宫产的风险（1）。
+
+【脊髓麻醉】
+脊柱麻醉（向脊柱旁蛛网膜下腔单次注射）起效迅速，可用于未放置硬膜外导管的患者剖腹产。脊髓麻醉在阴道分娩中较少使用，因为其持续时间短（约 2 至 3 小时），但如果即将进行阴道分娩并且患者需要控制疼痛，有时会使用脊髓麻醉。脊髓麻醉后有发生脊椎性头痛的低风险。
+使用脊髓注射时，患者必须持续监护，并且每隔5分钟检查生命体征，以发现和治疗可能出现的低血压。
+
+【椎管内麻醉参考文献】
+1.Practice Guidelines for Obstetric Anesthesia: An Updated Report by the American Society of Anesthesiologists Task Force on Obstetric Anesthesia and the Society for Obstetric Anesthesia and Perinatology*.Anesthesiology124:270–300, 2016.doi: 10.1097/ALN.0000000000000935
+1.Practice Guidelines for Obstetric Anesthesia: An Updated Report by the American Society of Anesthesiologists Task Force on Obstetric Anesthesia and the Society for Obstetric Anesthesia and Perinatology*.Anesthesiology124:270–300, 2016.doi: 10.1097/ALN.0000000000000935
+
+【分娩局部镇痛】
+包括阴部阻滞麻醉、会阴浸润麻醉、宫颈旁阻滞麻醉。
+阴部阻滞包括通过阴道壁注射局部麻醉剂，以便麻醉剂在阴部神经穿过坐骨棘时浸润阴部神经。这种阻滞可以麻醉阴道下段、会阴、和外阴后部；外阴前部为腰部皮神经分布，未受阻滞麻醉。如果产妇不希望进行硬膜外麻醉或脊髓麻醉，或者产程已进入后期且没有时间进行硬膜外注射，那么阴部阻滞对于无并发症的自然阴道分娩来说是一种安全、简单的方法。 阴部阻滞的并发症包括麻醉药注入血管内、血肿和感染。
+会阴浸润麻醉仅在有限的情况下使用。例如，如果患者即使接受了硬膜外或阴部阻滞仍感到会阴疼痛，或患者没有使用其他镇痛药物，尤其是预计会出现大面积裂伤或会阴切开术时，也可以使用它。该方法不如一次妥善实施的阴部阻滞有效。
+宫颈旁阻滞麻醉不适用于分娩，因为胎心过缓的发生率为>10% (1)。 这项操作涉及在宫颈的3点和9点钟位置注射5~10mL1％的利多卡因或氯普鲁卡因（其半衰期较短），镇痛作用持续时间较短。
+
+【局部区域镇痛参考文献】
+1.LeFevre ML: Fetal heart rate pattern and postparacervical fetal bradycardia.Obstet Gynecol64 (3):343–6, 1984.
+1.LeFevre ML: Fetal heart rate pattern and postparacervical fetal bradycardia.Obstet Gynecol64 (3):343–6, 1984.
+
+【分娩时的肠外麻醉】
+通常仅在无法进行神经轴麻醉的情况下才使用静脉或肌肉注射镇痛药，尽管一些临床医生在分娩第一阶段提供这些镇痛药作为选择。应给予保证产妇舒适所需的最小剂量，因为止痛药会穿过胎盘并可能抑制新生儿的呼吸。新生儿的代谢和排泄系统还未发育成熟，脐带剪断后通过肝脏代谢或肾脏排泄清除胎盘转运来的药物较慢，因此，即使使用最低剂量，还可能会发生新生儿中毒。
+通常每60至90分钟静脉给予芬太尼（100mcg）或硫酸吗啡（最多10mg）。这些阿片类药物仅用很小的总剂量就会有很好的镇痛作用。 如果芬太尼或吗啡的止痛效果不够，应使用额外剂量的阿片类药物或其他镇痛方法，而不是所谓的协同药物（如异丙嗪），这类药物没有解毒剂。（这些药物实际上是累加作用，而非协同作用。） 有时仍使用协同药物，因为它们能减轻阿片类药物引起的恶心；应小剂量使用。
+如果新生儿出现毒性反应，应支持呼吸，并将0.01mg/kg的纳洛酮作为特异性拮抗剂通过肌肉注射、静脉注射、皮下注射或气管内给药给新生儿。根据新生儿的反应，如果需要，可在1至2分钟后重复给予纳洛酮。随着纳洛酮药效的褪去，临床医生应该在初次给药剂量后1到2小时检查新生儿的状况。
+
+【分娩全身麻醉】
+全身麻醉通常包括催眠药物和麻痹剂。如果无法进行神经轴麻醉或无法快速进行麻醉，通常仅用于紧急剖腹产。
+因为强效和易挥发的吸入性药物（例如异氟醚）可以对胎儿产生明显的抑制作用，因此全麻不推荐在分娩时常规使用。
+少数情况下，经阴道分娩时只要能够保证与孕妇语言交流，可用40％的一氧化二氮和氧气的混合气体止痛。
+
+【产后疼痛管理】
+对于产后疼痛管理，美国妇产科医师学会建议采用分步多模式方法，结合使用不同机制的药物（非甾体抗炎药、对乙酰氨基酚和/或低效能阿片类药物），以个性化和优化疼痛控制（1）。
+临床医生应该与患者共同制定有关疼痛控制的决策。他们应该意识到疼痛评估和治疗中的不平等现象（例如基于种族或民族），并避免在有关疼痛管理的临床决策中出现偏见。
+对于正在母乳喂养的患者，对乙酰氨基酚和布洛芬是一线止痛药。静脉注射酮咯酸是一种可接受的药物，尽管有关母乳中浓度的数据有限。应告知服用阿片类镇痛药的患者其自身和母乳喂养婴儿出现中枢神经系统抑制的风险。此外，只有在没有其他选择的情况下才应使用含可待因的药物，因为据报道，该药物会导致过度镇静和新生儿死亡（2）。
+
+【产后疼痛管理参考】
+1.Pharmacologic Stepwise Multimodal Approach for Postpartum Pain Management:ACOG Clinical Consensus No. 1.Obstet Gynecol.2021;138(3):507-517.doi:10.1097/AOG.0000000000004517
+1.Pharmacologic Stepwise Multimodal Approach for Postpartum Pain Management:ACOG Clinical Consensus No. 1.Obstet Gynecol.2021;138(3):507-517.doi:10.1097/AOG.0000000000004517
+2.美国食品及药物管理局：美国食品药物管理局（FDA） 药品安全通讯：FDA 限制儿童使用处方可待因止痛药、止咳药和曲马多止痛药；建议哺乳期妇女不要使用。Accessed January 2024.
+2.美国食品及药物管理局：美国食品药物管理局（FDA） 药品安全通讯：FDA 限制儿童使用处方可待因止痛药、止咳药和曲马多止痛药；建议哺乳期妇女不要使用。Accessed January 2024.

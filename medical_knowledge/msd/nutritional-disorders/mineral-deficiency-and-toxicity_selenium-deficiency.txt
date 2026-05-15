@@ -1,0 +1,28 @@
+标题：硒缺乏
+来源：https://www.msdmanuals.cn/professional/nutritional-disorders/mineral-deficiency-and-toxicity/selenium-deficiency
+============================================================
+
+硒（Se）是谷胱甘肽过氧化物酶的组成成分，该酶可代谢多不饱和脂肪酸生成的氢过氧化物。硒也是甲状腺激素脱碘酶的组成成分。一般来讲，硒作为抗氧化剂和维生素E共同发挥作用。硒的主要膳食来源包括面包、谷物、肉类、禽类、海鲜和蛋类（1）。
+一些流行病学研究发现，硒水平低下和癌症有关(2)。然而，最近的一项研究表明硒补充剂不能防止结肠直肠腺瘤患者手术切除后的复发（3) 总的来说，没有证据表明硒补充剂可以预防癌症 (4)。
+根据硒摄入量不同，血浆硒含量为8～25mcg/dL (0.1-0.3 micromoles/L)不等。
+硒缺乏症极少见，尽管在新西兰和芬兰人群的硒摄入量只有30～50mcg/d，美国、加拿大为100～250mcg/d，也极少发生硒缺乏。
+在中国一些地区，硒平均摄入量为10～15mcg/d，硒缺乏导致克山病，这是一种地方性病毒性心肌病，主要影响儿童和年轻的妇女。这种心肌病可以通过口服亚硒酸钠50mcg/d预防，但不能治愈。
+接受长期全肠外营养的患者会出现硒缺乏，表现为肌肉疼痛、压痛；补充硒代蛋氨酸后症状缓解 (5)。
+在中国和俄罗斯的西伯利亚地区，处于生长发育中的儿童如果发生硒缺乏，可能演变成慢性骨关节病（Kashin-Beck病）。
+硒缺乏可能协同性地加重碘缺乏，导致甲状腺肿和甲状腺功能减退(6)。
+诊断硒缺乏症基于病史和体格检查，有时通过测量谷胱甘肽过氧化物酶活性或血浆硒水平，但这些检测方法都不易获取。
+治疗包括口服亚硒酸钠100mcg/d。
+
+【参考文献】
+1.National Institutes of Health, Office of Dietary Supplements.Selenium Fact Sheet for Professionals.Accessed March 21, 2025.
+1.National Institutes of Health, Office of Dietary Supplements.Selenium Fact Sheet for Professionals.Accessed March 21, 2025.
+2.Hughes DJ, Duarte-Salles T, Hybsier S, et al.Prediagnostic selenium status and hepatobiliary cancer risk in the European Prospective Investigation into Cancer and Nutrition cohort.Am J Clin Nutr.2016 Aug;104(2):406-14.doi: 10.3945/ajcn.116.131672
+2.Hughes DJ, Duarte-Salles T, Hybsier S, et al.Prediagnostic selenium status and hepatobiliary cancer risk in the European Prospective Investigation into Cancer and Nutrition cohort.Am J Clin Nutr.2016 Aug;104(2):406-14.doi: 10.3945/ajcn.116.131672
+3.Thompson PA, Ashbeck EL, Roe DJ, et al.Seleniumsupplementation for prevention of colorectal adenomas and risk of associated type 2 diabetes.J Natl Cancer Inst.108 (12), 2016.doi: 10.1093/jnci/djw152
+3.Thompson PA, Ashbeck EL, Roe DJ, et al.Seleniumsupplementation for prevention of colorectal adenomas and risk of associated type 2 diabetes.J Natl Cancer Inst.108 (12), 2016.doi: 10.1093/jnci/djw152
+4.Vinceti M, Filippini T, Del Giovane C, et al:Seleniumfor preventing cancer.Cochrane Database Syst Rev1 (1):CD005195, 2018.doi:10.1002/14651858.CD005195.pub4
+4.Vinceti M, Filippini T, Del Giovane C, et al:Seleniumfor preventing cancer.Cochrane Database Syst Rev1 (1):CD005195, 2018.doi:10.1002/14651858.CD005195.pub4
+5.van Rij AM, Thomson CD, McKenzie JM, Robinson MF.Selenium deficiency in total parenteral nutrition.Am J Clin Nutr.1979 Oct;32(10):2076-85.doi: 10.1093/ajcn/32.10.2076
+5.van Rij AM, Thomson CD, McKenzie JM, Robinson MF.Selenium deficiency in total parenteral nutrition.Am J Clin Nutr.1979 Oct;32(10):2076-85.doi: 10.1093/ajcn/32.10.2076
+6.Winther KH, Rayman MP, Bonnema SJ, Hegedus L:Seleniumin thyroid disorders—essential knowledge for clinicians.Nat Rev Endocrinol16:165–176, 2020.doi: 10.1038/s41574-019-0311-6
+6.Winther KH, Rayman MP, Bonnema SJ, Hegedus L:Seleniumin thyroid disorders—essential knowledge for clinicians.Nat Rev Endocrinol16:165–176, 2020.doi: 10.1038/s41574-019-0311-6

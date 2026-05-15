@@ -1,0 +1,208 @@
+标题：甲营养不良
+来源：https://www.msdmanuals.cn/professional/dermatologic-disorders/nail-disorders/nail-dystrophies
+============================================================
+
+指甲营养不良是指甲质地或成分发生改变。约50%的指甲营养不良是由真菌感染引起的（甲真菌病）（1）。其余的原因是包括机械性损伤在内的创伤、先天畸形、炎症性疾病，包括银屑病、特应性皮炎和扁平苔藓、良性肿瘤，偶尔还有恶性肿瘤。
+甲真菌病作为甲营养不良的一个原因的诊断需要确认真菌在指甲，因为它可以经常在临床上类似于非传染性指甲条件。确认性检测方法包括用氢氧化钾（KOH）制备物显微镜检查甲下刮屑、用过碘酸希夫（PAS）或格莫里六胺银（GMS）染色进行指甲剪片组织病理学检查、真菌培养或基于聚合酶链反应（PCR）的检测。需要进行甲母质和/或甲床活检以诊断疑似炎症性疾病或排除恶性肿瘤 (2,3)。
+（参见甲病概述。）
+
+【参考文献】
+1.Faergemann J, Baran R.Epidemiology, clinical presentation and diagnosis of onychomycosis.Br J Dermatol.2003;149 Suppl 65:1-4.doi:10.1046/j.1365-2133.149.s65.4.x
+1.Faergemann J, Baran R.Epidemiology, clinical presentation and diagnosis of onychomycosis.Br J Dermatol.2003;149 Suppl 65:1-4.doi:10.1046/j.1365-2133.149.s65.4.x
+2.Hafirassou AZ, Valero C, Gassem N, et al: Usefulness of techniques based on real time PCR for the identification of onychomycosis-causing species.Mycoses60(10):638–644, 2017.doi: 10.1111/myc.12629
+2.Hafirassou AZ, Valero C, Gassem N, et al: Usefulness of techniques based on real time PCR for the identification of onychomycosis-causing species.Mycoses60(10):638–644, 2017.doi: 10.1111/myc.12629
+3.Gupta AK, Nakrieko KA: Onychomycosis infections: Do polymerase chain reaction and culture reports agree?J Am Podiatr Med Assoc107(4):280–286, 2017.doi: 10.7547/15-136
+3.Gupta AK, Nakrieko KA: Onychomycosis infections: Do polymerase chain reaction and culture reports agree?J Am Podiatr Med Assoc107(4):280–286, 2017.doi: 10.7547/15-136
+
+【先天性指甲疾病】
+一些先天性外胚层发育不良的患者无指甲（无甲）。
+先天性甲肥厚患者，甲床增厚、异色、用镊子夹住后高度青紫且畸形。一个定义性特征是疼痛性跖部角皮病（掌跖部触痛、明显增厚和硬结）。
+指甲-髌骨综合征会导致三角形月牙、指甲缺失或变小以及髂角（骨盆髂骨的骨质增生）。
+毛囊角化病常合并有甲面出现红白条纹（称为"糖果棒"甲）和远端V型缺口。
+这张图片显示了由于Darier病导致的指甲自由边缘和纵向红白带的特征性V形切口。
+Image courtesy of Karen McKoy, MD.
+
+【与系统性疾病或暴露相关的指甲疾病和营养不良】
+普卢默-文森综合征（由严重且未治疗缺铁性贫血导致的食管蹼）常伴有匙状甲（指甲凹陷呈匙状）。应跟踪患者是否出现呼吸消化道恶性肿瘤。
+黄甲综合征是一种罕见的疾病，其特征为指甲增厚、过度弯曲且呈黄色。一个显著特征是甲生长停滞。这种情况通常作为三联征的一部分出现，同时伴有淋巴水肿和/或慢性呼吸系统疾病。大约一半的报告病例存在慢性支气管感染。
+林赛甲（半半甲）和特里甲是白甲病的类型。病变不在甲板本身，而在甲床，导致指甲呈现白色。林赛甲表现为近端白色部分占据约一半甲床，远端一半由粉红色或红棕色带占据(1)。20%至50%的慢性肾病患者会出现林赛氏甲（2）；然而，它们也与克罗恩病、肝硬化、糙皮病和川崎病有关。健康人也会出现林赛氏甲。Terry甲的特征是约80％的甲床颜色苍白，指甲远端具有0.5~3.0 mm的棕色至粉红色窄带 (1)。特里甲与慢性肝功能衰竭（伴低白蛋白血症）或肝硬化、慢性肾功能衰竭、慢性心力衰竭和成人糖尿病有关。与林赛氏甲很难鉴别。在特里（Terry）甲中，几乎整个指甲都是不透明的白色，并且看不到月牙白。甲床远端边缘可见一薄层正常的粉红色甲床。在正常的衰老过程中有时可能会出现Terry甲 。
+博氏线是在指甲板中出现的横沟，是感染、创伤、全身性疾病或周期性化疗引起的指甲暂时性生长减慢所致的表现。甲床脱落同样是由于指甲基质暂时生长停滞所致，并导致甲板与甲床近端分离。出现博氏线的指甲一般可随时间逐渐出现甲再生。
+甲脱落与博氏线不同且更为严重，因为涉及甲的全层。在甲脱落中，甲板与甲母质和甲床分离，常导致甲脱落。这种情况最常见于手足口病后数月，但也可能继发于其他病毒感染、自身免疫性疾病（例如寻常型天疱疮）、长期用药（例如抗癫痫药、化疗药物）或危重疾病之后（3）。出现无甲症的肢端一般可随时间逐渐出现甲再生。局部指甲脱落可能发生在创伤的反应，临床上可能类似于甲发育；然而，所有的指甲都会受到影响。
+长期口服维A酸类药物，如异维A酸和阿维A酯，可导致甲干燥和脆弱。
+缺铁性贫血患者的特征性勺状（凹形）甲。
+缺铁性贫血患者的特征性勺状（凹形）甲。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+该图像显示黄色指甲，增厚和弯曲，是黄甲综合征的特征。
+该图像显示黄色指甲，增厚和弯曲，是黄甲综合征的特征。
+© Springer Science+Business Media
+在这张特里指甲的图片中，几乎所有的指甲都是不透明的白色，除了在指甲的远端边缘有一条从褐色到粉红色的窄带。
+在这张特里指甲的图片中，几乎所有的指甲都是不透明的白色，除了在指甲的远端边缘有一条从褐色到粉红色的窄带。
+© Springer Science+Business Media
+此图显示一位接受多个化疗周期的患者的Beau线。每行对应一个治疗周期。
+此图显示一位接受多个化疗周期的患者的Beau线。每行对应一个治疗周期。
+© Springer Science+Business Media
+从侧面观察指甲，很容易看出甲板的横向凹陷。
+从侧面观察指甲，很容易看出甲板的横向凹陷。
+© Springer Science+Business Media
+缺铁性贫血患者的特征性勺状（凹形）甲。
+缺铁性贫血患者的特征性勺状（凹形）甲。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+该图像显示黄色指甲，增厚和弯曲，是黄甲综合征的特征。
+该图像显示黄色指甲，增厚和弯曲，是黄甲综合征的特征。
+© Springer Science+Business Media
+在这张特里指甲的图片中，几乎所有的指甲都是不透明的白色，除了在指甲的远端边缘有一条从褐色到粉红色的窄带。
+在这张特里指甲的图片中，几乎所有的指甲都是不透明的白色，除了在指甲的远端边缘有一条从褐色到粉红色的窄带。
+© Springer Science+Business Media
+此图显示一位接受多个化疗周期的患者的Beau线。每行对应一个治疗周期。
+此图显示一位接受多个化疗周期的患者的Beau线。每行对应一个治疗周期。
+© Springer Science+Business Media
+从侧面观察指甲，很容易看出甲板的横向凹陷。
+从侧面观察指甲，很容易看出甲板的横向凹陷。
+© Springer Science+Business Media
+
+【系统性甲营养不良参考文献】
+1.Pitukweerakul S, Pilla S: Terry's nails and Lindsay's nails: Two nail abnormalities in chronic systemic diseases.J Gen Intern Med31(8):970, 2016.doi: 10.1007/s11606-016-3628-z
+1.Pitukweerakul S, Pilla S: Terry's nails and Lindsay's nails: Two nail abnormalities in chronic systemic diseases.J Gen Intern Med31(8):970, 2016.doi: 10.1007/s11606-016-3628-z
+2.Oanță A, Iliescu V, Țărean S.Half and Half Nails in a Healthy Person.Acta Dermatovenerol Croat.2017;25(4):303-304.
+2.Oanță A, Iliescu V, Țărean S.Half and Half Nails in a Healthy Person.Acta Dermatovenerol Croat.2017;25(4):303-304.
+3.Hardin J, Haber RM.Onychomadesis: literature review.Br J Dermatol.2015;172(3):592-596.doi:10.1111/bjd.13339
+3.Hardin J, Haber RM.Onychomadesis: literature review.Br J Dermatol.2015;172(3):592-596.doi:10.1111/bjd.13339
+
+【与皮肤病相关的甲营养不良】
+在银屑病患者中，指甲可能出现多种改变，包括不规则的点状凹陷、油斑（局部变色为棕黄色）、指甲部分与甲床分离（甲分离）、甲板增厚和碎裂、甲半月红斑和裂片形出血。甲银屑病可作为孤立现象或皮肤银屑病的特征出现。指甲银屑病也是导致银屑病关节炎的一个危险因素。
+甲银屑病的治疗具有挑战性，因为外用药物对甲板的渗透性差且患者依从性欠佳(1)。治疗选择包括局部治疗（如局部糖皮质激素、维生素D类似物）、口服小分子药物（如阿普米拉司特、德普拉西替尼）、免疫抑制剂（如甲氨蝶呤、环孢素、硫唑嘌呤）以及生物制剂（如 IL-17、IL-12/23 和 JAK 抑制剂）（2, 3）。同样用于治疗皮肤银屑病的生物制剂在治疗甲银屑病中具有最高疗效（4）。脉冲染料激光已被证明有效，可推荐用于指甲牛皮癣；然而，其他基于设备的疗法（如光）需要进一步研究以判断其有效性(5)。
+扁平苔藓指甲需要立即进行临床治疗，因为如果不治疗，可能会导致永久性指甲改变和指甲脱落。因此，早期诊断和治疗至关重要。指甲改变包括纵向嵴纹、裂隙、甲半月红斑和指甲远端劈裂。随着时间的流逝，可能会出现疤痕和不可逆的变化，包括指甲萎缩，翼状胬肉形成和指甲完全脱落。治疗选择包括外用（高效）、皮损内和全身性糖皮质激素，以及免疫抑制剂药物（例如霉酚酸酯、硫唑嘌呤、甲氨蝶呤和环磷酰胺）。低剂量纳曲酮也曾在病例报告中成功使用（6）。需要维持治疗以防止复发。甲翼状胬肉是扁平苔藓的并发症，其特征是近端指甲向远端延伸形成V字形瘢痕，最终导致甲脱落（7）。
+指甲的斑秃可伴有形成几何图案的规则点状凹陷。 凹点小而精。斑秃也可能与严重的甲脆裂（脆性伴指甲断裂）有关(8)。治疗方案包括病变内和局部外用糖皮质激素，以及外用致敏剂如方酸二丁酯。生物疗法和口服小分子药物（包括托法替布和阿普斯特）已显示出一定前景。
+二十甲营养不良，也称为糙甲症，是一个临床术语，描述一种甲病，其特征是粗糙、过度纵向脊状突起和砂纸样质地，影响所有二十个手指甲和脚趾甲。它有时与斑秃及相关疾病如银屑病、特应性皮炎、斑秃或扁平苔藓相关。它也可能是特发性的。
+照片显示银屑病患者不规则的凹坑和黄褐色变色区域（油斑）。
+照片显示银屑病患者不规则的凹坑和黄褐色变色区域（油斑）。
+© Springer Science+Business Media
+甲床银屑病会引起甲分离（如远端指甲发白，边界红斑，环指和小指上没有远端指甲）。甲床下角化过度。
+甲床银屑病会引起甲分离（如远端指甲发白，边界红斑，环指和小指上没有远端指甲）。甲床下角化过度。
+© Springer Science+Business Media
+左图显示大脚趾指甲变厚和碎裂。手部可见凹痕和甲裂（右），提示诊断为指甲银屑病。
+左图显示大脚趾指甲变厚和碎裂。手部可见凹痕和甲裂（右），提示诊断为指甲银屑病。
+© Springer Science+Business Media
+这张照片显示甲扁平苔癣患者拇指指甲上的纵向甲脊。
+这张照片显示甲扁平苔癣患者拇指指甲上的纵向甲脊。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+这张照片显示几枚指甲的背侧翼状胬肉伴有指甲萎缩。
+这张照片显示几枚指甲的背侧翼状胬肉伴有指甲萎缩。
+© Springer Science+Business Media
+照片显示银屑病患者不规则的凹坑和黄褐色变色区域（油斑）。
+照片显示银屑病患者不规则的凹坑和黄褐色变色区域（油斑）。
+© Springer Science+Business Media
+甲床银屑病会引起甲分离（如远端指甲发白，边界红斑，环指和小指上没有远端指甲）。甲床下角化过度。
+甲床银屑病会引起甲分离（如远端指甲发白，边界红斑，环指和小指上没有远端指甲）。甲床下角化过度。
+© Springer Science+Business Media
+左图显示大脚趾指甲变厚和碎裂。手部可见凹痕和甲裂（右），提示诊断为指甲银屑病。
+左图显示大脚趾指甲变厚和碎裂。手部可见凹痕和甲裂（右），提示诊断为指甲银屑病。
+© Springer Science+Business Media
+这张照片显示甲扁平苔癣患者拇指指甲上的纵向甲脊。
+这张照片显示甲扁平苔癣患者拇指指甲上的纵向甲脊。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+这张照片显示几枚指甲的背侧翼状胬肉伴有指甲萎缩。
+这张照片显示几枚指甲的背侧翼状胬肉伴有指甲萎缩。
+© Springer Science+Business Media
+
+【皮肤病参考文献】
+1.Hwang JK, Lipner SR.Treatment of Nail Psoriasis.Dermatol Clin.2024;42(3):387-398.doi:10.1016/j.det.2024.02.004
+1.Hwang JK, Lipner SR.Treatment of Nail Psoriasis.Dermatol Clin.2024;42(3):387-398.doi:10.1016/j.det.2024.02.004
+2.van de Kerkhof P, Guenther L, Gottlieb AB, et al: Ixekizumab treatment improves fingernail psoriasis in patients with moderate-to-severe psoriasis: Results from the randomized, controlled and open-label phases of UNCOVER-3.J Eur Acad Dermatol Venereol31(3):477–482, 2017.doi: 10.1111/jdv.14033
+2.van de Kerkhof P, Guenther L, Gottlieb AB, et al: Ixekizumab treatment improves fingernail psoriasis in patients with moderate-to-severe psoriasis: Results from the randomized, controlled and open-label phases of UNCOVER-3.J Eur Acad Dermatol Venereol31(3):477–482, 2017.doi: 10.1111/jdv.14033
+3.Merola JF, Elewski B, Tatulych S, et al:Efficacy of tofacitinib for the treatment of nail psoriasis: Two 52-week, randomized, controlled phase 3 studies in patients with moderate-to-severe plaque psoriasis.J Am Acad Dermatol77(1):79–87, 2017.doi: 10.1016/j.jaad.2017.01.053
+3.Merola JF, Elewski B, Tatulych S, et al:Efficacy of tofacitinib for the treatment of nail psoriasis: Two 52-week, randomized, controlled phase 3 studies in patients with moderate-to-severe plaque psoriasis.J Am Acad Dermatol77(1):79–87, 2017.doi: 10.1016/j.jaad.2017.01.053
+4.Hwang JK, Ricardo JW, Lipner SR.Efficacy and Safety of Nail Psoriasis Targeted Therapies: A Systematic Review.Am J Clin Dermatol.2023;24(5):695-720.doi:10.1007/s40257-023-00786-4
+4.Hwang JK, Ricardo JW, Lipner SR.Efficacy and Safety of Nail Psoriasis Targeted Therapies: A Systematic Review.Am J Clin Dermatol.2023;24(5):695-720.doi:10.1007/s40257-023-00786-4
+5.Elmets CA, Lim HW, Stoff B, et al.Joint American Academy of Dermatology-National Psoriasis Foundation guidelines of care for the management and treatment of psoriasis with phototherapy.J Am Acad Dermatol.2019;81(3):775-804.doi:10.1016/j.jaad.2019.04.042
+5.Elmets CA, Lim HW, Stoff B, et al.Joint American Academy of Dermatology-National Psoriasis Foundation guidelines of care for the management and treatment of psoriasis with phototherapy.J Am Acad Dermatol.2019;81(3):775-804.doi:10.1016/j.jaad.2019.04.042
+6.Bray ER, Morrison BW.Low-Dose Naltrexone Use in Biopsy-Proven Lichen Planus of the Nails.JAMA Dermatol.2024;160(12):1334-1337.doi:10.1001/jamadermatol.2024.4098
+6.Bray ER, Morrison BW.Low-Dose Naltrexone Use in Biopsy-Proven Lichen Planus of the Nails.JAMA Dermatol.2024;160(12):1334-1337.doi:10.1001/jamadermatol.2024.4098
+7.Hwang JK, Grover C, Iorizzo M, et al.Nail psoriasis and nail lichen planus: Updates on diagnosis and management.J Am Acad Dermatol.2024;90(3):585-596.doi:10.1016/j.jaad.2023.11.024
+7.Hwang JK, Grover C, Iorizzo M, et al.Nail psoriasis and nail lichen planus: Updates on diagnosis and management.J Am Acad Dermatol.2024;90(3):585-596.doi:10.1016/j.jaad.2023.11.024
+8.Chelidze K, Lipner SR.Nail changes in alopecia areata: an update and review.Int J Dermatol.2018;57(7):776-783.doi:10.1111/ijd.13866
+8.Chelidze K, Lipner SR.Nail changes in alopecia areata: an update and review.Int J Dermatol.2018;57(7):776-783.doi:10.1111/ijd.13866
+
+【指甲变色】
+化疗药物（尤其是紫杉烷类）可导致黑甲（甲板着色），可表现为弥散性或横向条纹。一些药物还可产生特征性的甲颜色改变。
+奎纳克林：指甲在紫外线照射下呈黄绿色或白色。
+奎纳克林：指甲在紫外线照射下呈黄绿色或白色。
+环磷酰胺：甲皮交界条带（形成于甲板和远端甲板边缘与甲床交接处）变为瓦灰色或者淡蓝色。
+环磷酰胺：甲皮交界条带（形成于甲板和远端甲板边缘与甲床交接处）变为瓦灰色或者淡蓝色。
+砷：甲可呈弥散性棕色。
+砷：甲可呈弥散性棕色。
+四环素类、酮康唑、吩噻嗪类、磺胺类和苯茚二酮：甲变成棕色或蓝色。
+四环素类、酮康唑、吩噻嗪类、磺胺类和苯茚二酮：甲变成棕色或蓝色。
+金疗法：甲可变为浅褐色或深褐色。
+金疗法：甲可变为浅褐色或深褐色。
+银盐（银中毒）：甲呈弥散性蓝灰色。
+银盐（银中毒）：甲呈弥散性蓝灰色。
+吸烟或涂指甲油可导致指甲、指尖变成黄色或褐色。
+Image provided by Thomas Habif, MD.
+指甲白色横线（米氏线）可能由化疗、急性砷中毒、恶性肿瘤、心肌梗死、铊和锑中毒、氟中毒引起。米斯线也可在阿维A酯的治疗期间出现。这些线条不是由于甲床变化引起，而是真正的白甲病。如果有害暴露因素已消除，指甲可恢复正常生长。米斯线也可由手指外伤引起，但创伤性白线通常不会跨越整个指甲。
+这张照片显示了成人指甲上的白色横线。
+SCIENCE PHOTO LIBRARY
+甲癣Trichophyton mentagrophytes（须癣毛癣菌）或T. rubrum（红色毛癣菌）可导致甲板表面出现白垩色褪变。
+绿甲综合征是由定植Pseudomonas aeruginosa（铜绿假单胞菌）引起的（1）。它最常影响优势手的第一根手指，并因其醒目的蓝绿色而引人注目。指甲暴露于刺激物或过度暴露于水，常出现甲剥离或慢性甲沟炎。如果甲剥离或慢性甲沟炎得到有效治疗，P. aeruginosa（铜绿假单胞菌）感染将得到缓解。或者，局部庆大霉素软膏对慢性病例有效。患者应避免刺激和过多的水分。常剪指甲可增加治疗效果。
+甲板发红变色可能由多种原因引起，包括良性甲部肿瘤（如甲乳头瘤、血管球瘤）、恶性甲部肿瘤（如鳞状细胞癌、无黑色素瘤）、感染性疾病（如甲下疣）、遗传性疾病（如Darier病），以及炎症性疾病（如甲银屑病、甲扁平苔藓）。
+蓝色甲变色涉及单个甲可能由血管球瘤、蓝痣或较少见的甲单位黑色素瘤引起(2)。涉及多指（趾）甲的蓝色变可见于药物使用（如米诺环素、齐多夫定及羟基脲）、毒性或外源性暴露（如银）以及其他医学疾病（如 HIV 感染和系统性红斑狼疮）。
+左边的照片显示了绿指甲综合症，第四个指甲的甲骨溶解和绿色变色是由于存在色素Pseudomonas。 右边的照片显示了剪掉分离的指甲板后甲床的绿色变色。
+© Springer Science+Business Media
+
+【指甲变色参考】
+1.Geizhals S, Lipner SR.Retrospective Case Series on Risk Factors, Diagnosis and Treatment of Pseudomonas aeruginosa Nail Infections.Am J Clin Dermatol.2020;21(2):297-302.doi:10.1007/s40257-019-00476-0
+1.Geizhals S, Lipner SR.Retrospective Case Series on Risk Factors, Diagnosis and Treatment of Pseudomonas aeruginosa Nail Infections.Am J Clin Dermatol.2020;21(2):297-302.doi:10.1007/s40257-019-00476-0
+2.Hwang JK, Lipner SR.Blue Nail Discoloration: Literature Review and Diagnostic Algorithms.Am J Clin Dermatol.2023;24(3):419-441.doi:10.1007/s40257-023-00768-6
+2.Hwang JK, Lipner SR.Blue Nail Discoloration: Literature Review and Diagnostic Algorithms.Am J Clin Dermatol.2023;24(3):419-441.doi:10.1007/s40257-023-00768-6
+
+【甲中部营养不良(甲中部管状营养不良)】
+甲中部营养不良的特点是横向延伸的指甲小裂缝，形似常青树 的树枝。裂缝和脊类似于习惯抽动甲畸形（是由其他手指摩擦或抠挖指甲引起重复创伤导致的甲基质损伤形成甲中部营养不良）。甲中部营养不良的病因不明，某些病例可能与创伤相关。部分病例的发病可能与频繁使用需指甲重复敲击操作的数码设备相关。若患者避免可能导致重复轻度创伤的行为时以0.1％他克莫司睡前外用阻断治疗有效。
+这张指甲zhong'bu营养不良的照片显示指甲中间的生长受到干扰。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+
+【线状黑甲】
+纵行黑甲表现为从近端甲褶皱和角质层延伸至远侧甲板游离末端的纵向色素沉着带。色素沉着是由于黑色素细胞在指甲基质中沉积黑色素所致。黑色素的沉积通过黑色素细胞激活（指甲细胞中黑色素的产生增加）或黑素细胞增生（指甲基质中黑色素细胞的产生增加）而增加。
+条纹黑甲是指甲板上由黑色素引起的色素沉着带。在这张图片中，一条线在左手无名指的指甲中最为明显（箭头）。
+Image provided by Chris G.Adigun, MD.
+黑色素细胞激活可能是皮肤较黑的人的正常生理变异。这种变异通常称为种族性黑甲，无需治疗。黑素细胞活化的其他病因包括咬甲、外伤、妊娠、艾迪生病、及其他内分泌疾病、感染、炎症后色素沉着及摩擦。黑色素细胞激活也可因使用某些药物而发生，包括多柔比星、5-氟尿嘧啶、齐多夫定和补骨脂素。
+黑色素细胞增生可以由良性状况引起，例如甲母质黑色素细胞痣或甲部雀斑样痣,或也可由恶性黑色素瘤导致。与指甲基质恶性黑色素瘤更常相关的因素包括中年以后新发，占主导的拇指或拇趾色素沉着，快速生长或变黑，带宽> 3 mm，甲床营养不良或Hutchinson征（色素沉着过度扩展到近端和/或侧面的甲襞）。对于疑似黑色素瘤的病例，甲单元活检至关重要（1）。儿童常出现纵向黑甲，这在成人中会令人担忧，但甲单位黑色素瘤在儿童中极为罕见(2)。
+指甲纵向色素沉着（线状黑甲；蓝色箭头）及中指横跨甲半月延伸到甲襞近侧的色素沉着（Hutchinson征；红色箭头），伴有拇指指甲圆形色素沉着改变。该患者被诊断出患有肢端雀斑样痣样黑素瘤（恶性黑素瘤的一种）。
+Image courtesy of Carl Washington, MD, and Mona Saraiya, MD, MPH, via the Public Health Image Library of the Centers for Disease Control and Prevention.
+
+【线状黑甲参考文献】
+1.Leung AKC, Lam JM, Leong KF, Sergi CM: Melanonychia striata: Clarifying behind the black curtain.A review on clinical evaluation and management of the 21st century.Int J Dermatol58(11):1239–1245, 2019.doi: 10.1111/ijd.14464
+1.Leung AKC, Lam JM, Leong KF, Sergi CM: Melanonychia striata: Clarifying behind the black curtain.A review on clinical evaluation and management of the 21st century.Int J Dermatol58(11):1239–1245, 2019.doi: 10.1111/ijd.14464
+2.Ricardo JW, Bellet JS, Jellinek N, et al.Evaluation and diagnosis of longitudinal melanonychia: A clinical review by a nail expert group.J Am Acad Dermatol.2025;93(1):176-187.doi:10.1016/j.jaad.2025.02.075
+2.Ricardo JW, Bellet JS, Jellinek N, et al.Evaluation and diagnosis of longitudinal melanonychia: A clinical review by a nail expert group.J Am Acad Dermatol.2025;93(1):176-187.doi:10.1016/j.jaad.2025.02.075
+甲分离表现为甲板与甲床分离或甲板完全缺失。它可表现为药物反应的一种表现，出现在服用四环素类药物（光毒性甲分离）、阿霉素、5-氟尿嘧啶、心血管药物（特别是普拉洛尔和卡托普利）、氯唑西林和头孢噻啶（少见）、甲氧苄氨嘧啶/磺胺甲噁唑、双氟尼酸、阿维A酯、吲哚美辛、异烟肼、灰黄霉素以及异维A酸的患者身上。单纯(与其他指甲或皮肤疾病无关)甲分离也可能是由于接触刺激物引起的，例如经常接触水或柑橘类水果或化学物质。手部和手指的刺激性接触性皮炎也可能导致甲分离(1)。分离的甲床可能有Candida albicans感染，但去除病因后不管是否治疗Candida，都将导致疾病的缓解。
+甲剥离在银屑病患者中常见，或可能伴随甲状腺疾病或甲状腺毒症发生。
+银屑病患者可见甲裂（如远端指甲变白所证明）以及凹痕。
+© Springer Science+Business Media
+
+【甲剥离参考文献】
+1.Vélez NF, Jellinek NJ: Simple onycholysis: A diagnosis of exclusion.J Am Acad Dermatol70(4):793–794, 2014.doi: 10.1016/j.jaad.2013.09.061
+1.Vélez NF, Jellinek NJ: Simple onycholysis: A diagnosis of exclusion.J Am Acad Dermatol70(4):793–794, 2014.doi: 10.1016/j.jaad.2013.09.061
+
+【钳形指甲畸形】
+钳形指甲畸形是一种甲板的横向过度弯曲。最常见的病因是甲癣、银屑病、甲肿瘤、骨关节炎以及鞋子不合脚。系统性红斑狼疮、川崎病、终末期肾病和一些遗传综合征（如先天性甲沟炎）也有报道。由于指甲板弯曲到手指或脚趾的尖端，所以患者通常会在指甲边缘感到疼痛。目前尚无确定的治疗方法可供选择，但是许多外科手术技术已经取得成功（1,2,3)。
+在这个患有遗传性钳形指甲的患者中，指甲的边缘向内弯曲到脚趾的皮肤中。
+© Springer Science+Business Media
+
+【钳形指甲畸形参考文献】
+1.Demirkiran ND: Suture treatment for pincer nail deformity: An inexpensive and simple technique.Dermatol Surg46(4):573–576, 2019.doi: 10.1097/DSS.0000000000001818
+1.Demirkiran ND: Suture treatment for pincer nail deformity: An inexpensive and simple technique.Dermatol Surg46(4):573–576, 2019.doi: 10.1097/DSS.0000000000001818
+2.Shin WJ, Chang BK, Shim JW, et al: Nail plate and bed reconstruction for pincer nail deformity.Clin Orthop Surg10(3):385–388, 2018.doi: 10.4055/cios.2018.10.3.385
+2.Shin WJ, Chang BK, Shim JW, et al: Nail plate and bed reconstruction for pincer nail deformity.Clin Orthop Surg10(3):385–388, 2018.doi: 10.4055/cios.2018.10.3.385
+3.Won JH, Chun JS, Park YH, et al: Treatment of pincer nail deformity using dental correction principles.J Am Acad Dermatol78(5):1002–1004, 2018.doi: 10.1016/j.jaad.2017.08.014
+3.Won JH, Chun JS, Park YH, et al: Treatment of pincer nail deformity using dental correction principles.J Am Acad Dermatol78(5):1002–1004, 2018.doi: 10.1016/j.jaad.2017.08.014
+
+【指甲粗糙脆裂】
+表现为粗糙、斑块状指甲。可出现在斑秃、扁平苔藓、特异性皮炎和银屑病患者。儿童常见。当存累及所有指甲时，指甲粗糙脆裂通常被称为二十甲营养不良。当它发生于儿童时，往往会自行消退。发生在成人的，针对潜在的病因治疗。诊断的一个线索是指甲摸起来像砂纸一样粗糙。
+在这张照片中，指甲不透明且粗糙。
+© Springer Science+Business Media
+
+【指甲肿瘤】
+良性和恶性肿瘤均可累及甲单元，导致甲营养不良。良性肿瘤包括黏液样囊肿、脓性肉芽肿、血管球瘤。及恶性肿瘤如Bowen病、鳞状细胞癌和恶性黑素瘤。当怀疑恶性肿瘤时，强烈建议进行快速活检或转诊活检。
+© Springer Science+Business Media
+化脓性肉芽肿是一种良性生长物。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY

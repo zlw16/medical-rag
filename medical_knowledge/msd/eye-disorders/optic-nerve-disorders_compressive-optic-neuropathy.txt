@@ -1,0 +1,30 @@
+标题：压迫性视神经病变
+来源：https://www.msdmanuals.cn/professional/eye-disorders/optic-nerve-disorders/compressive-optic-neuropathy
+============================================================
+
+
+【压迫性视神经病变的病因】
+压迫性视神经病变通常由肿瘤引起，例如眼眶或垂体肿瘤 (1) 。炎症（如眼眶假瘤）或其他疾病（如甲状腺眼病）也是可能的原因。
+
+【病因参考文献】
+1.Liu A, Craver EC, Bhatti MT, et al: Population-based incidence and outcomes of compressive optic neuropathy.Am J Ophthalmol36:130-135, 2022.doi: 10.1016/j.ajo.2021.10.018
+1.Liu A, Craver EC, Bhatti MT, et al: Population-based incidence and outcomes of compressive optic neuropathy.Am J Ophthalmol36:130-135, 2022.doi: 10.1016/j.ajo.2021.10.018
+
+【压迫性视神经病变的症状和体征】
+肿瘤或肿块引起的压迫性视神经病变通常会导致缓慢、无痛、进行性的视力丧失 (1) 。它通常影响一只眼睛，通常影响中央视觉，但垂体肿瘤除外，垂体肿瘤会压迫视交叉。视交叉压迫导致双侧外周视力丧失（双颞侧偏盲）。
+
+【症状和体征】
+1.Biousse V, Newman NJ: Diagnosis and clinical features of common optic neuropathies.Lancet Neurol15(13):1355-1367, 2016.doi: 10.1016/S1474-4422(16)30237-X
+1.Biousse V, Newman NJ: Diagnosis and clinical features of common optic neuropathies.Lancet Neurol15(13):1355-1367, 2016.doi: 10.1016/S1474-4422(16)30237-X
+
+【压迫性视神经病变的诊断】
+影像学检查
+影像学检查
+对视野进行评估，以确定潜在的中枢和外周视力损失，在压迫性视神经病变的情况下，这种情况通常会慢慢恶化。在眼底镜检查中，视神经可以是肿胀的、苍白的或看起来正常。光学相干断层扫描用于评估视神经，可能显示视神经增厚或萎缩。神经成像（通常是磁共振成像[MRI]）是为了发现压迫视神经的任何肿块或肿瘤。
+
+【压迫性视神经病变的治疗】
+手术治疗
+手术治疗
+必要时放疗
+必要时放疗
+治疗取决于压迫性视神经病变的病因。通常情况下，需要通过手术来切除或剥除肿块。除手术外，放疗也用于某些肿瘤的治疗。某些原因（如甲状腺眼病）可能需要药物治疗。一些患者在手术后视力有所改善。

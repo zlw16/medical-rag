@@ -1,0 +1,64 @@
+标题：肝活检
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/testing-for-hepatic-and-biliary-disorders/liver-biopsy
+============================================================
+
+肝活检提供肝脏结构的组织学信息和肝损伤的证据。这些信息在纤维化的诊断、管理和分期中都可能至关重要。虽然只能得到小部分组织，但是这块组织通常具有代表性，即使对于局部病变亦然。
+经皮肝活检常在床旁超声引导下进行。超声引导下进行是首选，因为它能帮助观察肝脏的情况和定位目标局灶病变。此外，在透视下经颈静脉入路可以获得肝组织和间接测量门静脉压力。
+一般来说，当怀疑肝脏异常并且用更无创的方法不能明确病因或者需要组织病理学进行分级时有指征进行肝活检（见表肝活检指征）(1, 2) 。肝活检对于识别结核或其他肉芽肿性浸润病灶以及明确肝移植后肝脏情况（缺血性损害、排异反应、胆道疾病、病毒性肝炎）特别有帮助。若要监测肝脏疾病的进展情况，可以选择系列性肝脏活检，通常为几年一次。
+
+【肝活检的适应证*】
+肝活检的适应证*
+病人情况
+原因不明的肝脏检查异常
+酒精相关性肝病、代谢功能障碍相关脂肪性肝病和脂肪性肝炎
+诊断和分级
+慢性肝炎（病毒性或自身免疫性）
+诊断和分级
+严重的金属蓄积引起的疾病（例如，血色病、Wilson病）
+肝移植后怀疑排异或其他并发症
+供肝的情况
+原因不明的肝脾大
+原因不明的肝内胆汁淤积（常为原发性胆汁性胆管炎[原发性胆汁性肝硬化]、原发性硬化性胆管炎或药物性肝损伤）
+怀疑为癌症或者病因不明的局灶病变
+病因不明的系统性疾病（例如，不明来源的发热、炎症性或者肉芽肿性疾病）
+诊断（可进行培养）
+使用肝毒性药物（如甲氨蝶呤[methotrexate]）
+*一般来说，当怀疑肝脏异常并且用更无创的方法不能明确病因或者需要组织病理学进行分级时有指征进行肝活检。
+*一般来说，当怀疑肝脏异常并且用更无创的方法不能明确病因或者需要组织病理学进行分级时有指征进行肝活检。
+肉眼观察和组织病理学往往能明确诊断。细胞学检查（细针抽吸）、冷冻切片和培养对于特定的病例可能有用。在活检标本还可测定金属含量（例如，在疑诊为肝豆状核变性的病例测定铜含量，在疑诊为血色病的病例测定铁含量）。
+肝脏活检的局限性包括以下几点：
+取样误差
+取样误差
+在胆汁淤积的病例偶有误诊或诊断不明
+在胆汁淤积的病例偶有误诊或诊断不明
+需要熟练的组织病理学家
+需要熟练的组织病理学家
+肝活检的绝对禁忌症包括以下几点(2)：
+术中患者不能制动或屏气
+术中患者不能制动或屏气
+怀疑血管性病变（例如，血管瘤）
+怀疑血管性病变（例如，血管瘤）
+改变凝血/止血状态
+改变凝血/止血状态
+严重的低纤维蛋白原血症（如弥散性血管内凝血[DIC]）
+严重的低纤维蛋白原血症（如弥散性血管内凝血[DIC]）
+肝外胆道梗阻
+肝外胆道梗阻
+手术相关出血风险的确定很复杂，应该个体化，因为经典的止血标志物（血小板计数、国际标准化比值 [INR]）已被证明不能准确预测晚期肝病患者的出血倾向。出于这个原因，当前的指南没有指定肝活检（经皮或经静脉）之前的参数截duan值。粘弹性测定也可用于评估肝病患者的止血状态，但尚未确定床旁手术（包括肝活检）的有效临界值。
+肝活检的相对禁忌证包括重度贫血、腹膜炎、腹水、重度肥胖以及膈下或右侧胸膜感染或胸水。尽管如此，经皮肝活检在其他方面是足够安全的，可以在门诊进行。相关死亡率约为0.01%至0.02%（3, 4）。一个常见的并发症是活检部位疼痛。约1%至2%的患者出现主要并发症（如腹腔出血、胆汁性腹膜炎、肝裂伤、气胸）。肝活检后3～4小时内并发症发生率高，所以在这段时间内必须对病人进行监测。
+
+【肝活检的其他路径】
+经颈静脉肝活检比经皮穿刺更具侵入性；它保留给有严重凝血功能障碍、腹水、向心性肥胖的患者，或者如果需要间接测量门静脉压力。该方法是在右颈内静脉插管，通过下腔静脉后，将导管送入肝静脉。然后用细针穿过肝静脉进行肝脏活检。活检在大多数患者中是成功的，但产生的组织样本较小。并发症发生率低；肝包膜穿刺0.6%出血 (5)。该方法允许同时测量肝内和肝后静脉压力，有助于阐明门脉高压。
+偶尔，肝活检在术中（例如，腹腔镜手术）进行，这样可以获得更大块并且更有目的性的组织标本。
+
+【参考文献】
+1.Gopal P, Hu X, Robert ME, Zhang X.The evolving role of liver biopsy: Current applications and future prospects.Hepatol Commun.2025;9(1):e0628.Published 2025 Jan 7.doi:10.1097/HC9.0000000000000628
+1.Gopal P, Hu X, Robert ME, Zhang X.The evolving role of liver biopsy: Current applications and future prospects.Hepatol Commun.2025;9(1):e0628.Published 2025 Jan 7.doi:10.1097/HC9.0000000000000628
+2.Rockey DC, Caldwell SH, Goodman ZD, Nelson RC, Smith AD; American Association for the Study of Liver Diseases.Liver biopsy.Hepatology.2009;49(3):1017-1044.doi:10.1002/hep.22742
+2.Rockey DC, Caldwell SH, Goodman ZD, Nelson RC, Smith AD; American Association for the Study of Liver Diseases.Liver biopsy.Hepatology.2009;49(3):1017-1044.doi:10.1002/hep.22742
+3.Thomaides-Brears HB, Alkhouri N, Allende D, et al.Incidence of Complications from Percutaneous Biopsy in Chronic Liver Disease: A Systematic Review and Meta-Analysis.Dig Dis Sci.2022;67(7):3366-3394.doi:10.1007/s10620-021-07089-w
+3.Thomaides-Brears HB, Alkhouri N, Allende D, et al.Incidence of Complications from Percutaneous Biopsy in Chronic Liver Disease: A Systematic Review and Meta-Analysis.Dig Dis Sci.2022;67(7):3366-3394.doi:10.1007/s10620-021-07089-w
+4.Graf M, Graf C, Ziegelmayer S, et al.Complications of image-guided liver biopsies: Results of a nationwide database analysis.PLoS One.2025;20(5):e0323695.Published 2025 Jun 2.doi:10.1371/journal.pone.0323695
+4.Graf M, Graf C, Ziegelmayer S, et al.Complications of image-guided liver biopsies: Results of a nationwide database analysis.PLoS One.2025;20(5):e0323695.Published 2025 Jun 2.doi:10.1371/journal.pone.0323695
+5.Dohan A, Guerrache Y, Dautry R, et al.Major complications due to transjugular liver biopsy: Incidence, management and outcome.Diagn Interv Imaging.96(6):571-577, 2015.doi: 10.1016/j.diii.2015.02.006
+5.Dohan A, Guerrache Y, Dautry R, et al.Major complications due to transjugular liver biopsy: Incidence, management and outcome.Diagn Interv Imaging.96(6):571-577, 2015.doi: 10.1016/j.diii.2015.02.006

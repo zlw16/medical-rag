@@ -1,0 +1,46 @@
+标题：躯体化概述
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/somatic-symptom-and-related-disorders/overview-of-somatization
+============================================================
+
+躯体化是指将心理现象表现为躯体（躯体性）症状。躯体化障碍是一个连续疾病谱，从症状发生于潜意识层面、不由意志控制到症状发生于意识层面、可受意志控制。 这一连续疾病谱包括
+躯体症状及相关疾病
+躯体症状及相关疾病
+人为障碍/做作性障碍
+人为障碍/做作性障碍
+装病（不是精神疾病）
+装病（不是精神疾病）
+这个疾病谱中的所有患者都把注意力集中在躯体症状上。因此，躯体化通常导致患者寻求医学评估和治疗，而非精神科护理。
+躯体症状障碍及其相关障碍特征表现为持续的躯体症状，这些躯体症状与过度的或非适应性的想法，感受，应对这些症状的行为以及对健康的关注有关。躯体症状及其相关障碍令患者痛苦，而且常常损害其社交、职业、学业或其他社会功能。精神疾病诊断与统计手册第5版文本修订版（DSM-5-TR）将以下疾病纳入该组（1）：
+躯体症状障碍
+躯体症状障碍
+疾病焦虑障碍
+疾病焦虑障碍
+功能性神经症状障碍（原称转换障碍）
+功能性神经症状障碍（原称转换障碍）
+心理因素影响的其他医学情况
+心理因素影响的其他医学情况
+人为障碍：自我施加的做作性障碍；强加于他人的做作性障碍（以前称为代理性做作性障碍）
+人为障碍：自我施加的做作性障碍；强加于他人的做作性障碍（以前称为代理性做作性障碍）
+躯体症状障碍以多个持续的躯体症状主诉为特点，这些症状不是假装的，并且与这些症状相关的过度和不适应的想法、感觉和行为有关。见表躯体症状 8 量表，用于确定患者在过去 7 天内受到 8 种选定症状困扰的频率。
+疾病焦虑障碍是指对患有或获得严重疾病的专注和恐惧。
+功能性神经症状障碍（转换障碍）表现为神经症状或缺陷（通常涉及运动或感觉功能），这些症状或缺陷在不知不觉中、非自愿地出现，且与已知的病理生理机制或解剖路径不符。
+影响其他医疗状况的心理因素是指心理或行为因素对现有医疗状况的进程或结果产生不利影响。
+做作性障碍是指在没有明显外部诱因的情况下（例如，为了获得休假、残疾补助或处方药；逃避兵役或刑事诉讼），故意伪造身体或心理症状和/或体征。孟乔森综合征（ Munchausen syndrome）这一术语不再用于做作性障碍。装病并非做作性障碍，但可能与之混淆，它是出于外部动机故意伪装身体或心理症状，这一点可将装病与做作性障碍区分开来。
+躯体症状障碍和疾病焦虑症是最常见的类型。
+
+【躯体症状量表8*】
+躯体症状量表8*
+一点也不
+胸痛或气短
+感到疲倦或精力不足
+手臂、腿或关节疼痛
+胃或肠道问题
+睡眠困难
+* 评分：患者没有或只有最低限度的困扰（0 到 3）。分数越高表示不适程度越高：低（4 到 7）；中等（8到11）；高（12 到 15）；非常高（16 到 23）。
+Adapted with permission from Gierk B, Kohlmann S, Kroenke K, et al.The Somatic Symptom Scale-8 (SSS-8): A brief measure of somatic symptom burden.JAMA Intern Med174(2):400, 2014.doi: 10.1001/jamainternmed.2013.12179
+* 评分：患者没有或只有最低限度的困扰（0 到 3）。分数越高表示不适程度越高：低（4 到 7）；中等（8到11）；高（12 到 15）；非常高（16 到 23）。
+Adapted with permission from Gierk B, Kohlmann S, Kroenke K, et al.The Somatic Symptom Scale-8 (SSS-8): A brief measure of somatic symptom burden.JAMA Intern Med174(2):400, 2014.doi: 10.1001/jamainternmed.2013.12179
+
+【参考文献】
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, 2022, pp 349-370.
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, 2022, pp 349-370.

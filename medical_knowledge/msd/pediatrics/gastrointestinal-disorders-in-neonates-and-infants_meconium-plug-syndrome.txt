@@ -1,0 +1,49 @@
+标题：胎粪栓塞综合征
+来源：https://www.msdmanuals.cn/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/meconium-plug-syndrome
+============================================================
+
+胎粪塞综合征通常发生于其他方面健康的婴儿，但也可与赫希施普龙病和囊性纤维化相关（1、2）。
+胎粪塞综合征一般认为是结肠的功能成熟不良，导致未能排出第一次大便。
+
+【参考文献】
+1.Rook JM, Chervu N, Calkins KL, Benharash P, DeUgarte DA.Meconium-Related Obstruction and Clinical Outcomes in Term and Preterm Infants.JAMA Netw Open.2025;8(2):e2459557.Published 2025 Feb 3.doi:10.1001/jamanetworkopen.2024.59557
+1.Rook JM, Chervu N, Calkins KL, Benharash P, DeUgarte DA.Meconium-Related Obstruction and Clinical Outcomes in Term and Preterm Infants.JAMA Netw Open.2025;8(2):e2459557.Published 2025 Feb 3.doi:10.1001/jamanetworkopen.2024.59557
+2.Buonpane C, Lautz TB, Hu YY.Should we look for Hirschsprung disease in all children with meconium plug syndrome?.J Pediatr Surg.2019;54(6):1164-1167.doi:10.1016/j.jpedsurg.2019.02.036
+2.Buonpane C, Lautz TB, Hu YY.Should we look for Hirschsprung disease in all children with meconium plug syndrome?.J Pediatr Surg.2019;54(6):1164-1167.doi:10.1016/j.jpedsurg.2019.02.036
+
+【胎粪栓塞综合征的病因】
+胎粪栓塞综合征在以下人群中更为常见：
+患有糖尿病的母亲所生的婴儿
+患有糖尿病的母亲所生的婴儿
+用硫酸镁治疗子痫、先兆子痫或早产的母亲所生的婴儿 (1)
+用硫酸镁治疗子痫、先兆子痫或早产的母亲所生的婴儿 (1)
+大约 10% 到 40% 的胎粪栓综合征婴儿存在先天性巨结肠（2)。胎粪栓塞综合征也与囊性纤维化相关。
+
+【病因参考文献】
+1.Cuenca AG, Ali AS, Kays DW, Islam S: "Pulling the plug"--management of meconium plug syndrome in neonates.J Surg Res175(2):e43-e46, 2012.doi: 10.1016/j.jss.2012.01.029
+1.Cuenca AG, Ali AS, Kays DW, Islam S: "Pulling the plug"--management of meconium plug syndrome in neonates.J Surg Res175(2):e43-e46, 2012.doi: 10.1016/j.jss.2012.01.029
+2.Buonpane C, Lautz TB, Hu YY: Should we look for Hirschsprung disease in all children with meconium plug syndrome?J Pediatr Surg54(6):1164, 2019.doi: 10.1016/j.jpedsurg.2019.02.036
+2.Buonpane C, Lautz TB, Hu YY: Should we look for Hirschsprung disease in all children with meconium plug syndrome?J Pediatr Surg54(6):1164, 2019.doi: 10.1016/j.jpedsurg.2019.02.036
+
+【胎粪栓塞综合征的症状和体征】
+患儿生后几天出现排便障碍、呕吐、腹胀。稠厚的胎粪堵塞使结肠成管状，引起完全性肠梗阻。
+
+【胎粪栓塞综合征的诊断】
+放射性造影剂灌肠
+放射性造影剂灌肠
+有时需进行先天性巨结肠和囊性纤维化的检查
+有时需进行先天性巨结肠和囊性纤维化的检查
+胎粪栓塞综合征的诊断是一种排他性诊断。
+腹部X线平片是非特异性的，可显示低位肠梗阻的征象。相反，放射性对比灌肠剂显示稠厚胎粪在结肠壁上的典型轮廓，形成双重对比影像 (1)。与胎粪性肠梗阻不同，胎粪栓综合征因为是远端过程，X线通常不会见到小结肠。
+赫希施普龙病应考虑，尤其是尽管排出了胎粪塞但远端梗阻症状持续存在时。
+胎粪栓综合征患者应进行囊性纤维化检查。
+
+【诊断参考文献】
+1.Manzoor A, Talat N, Adnan HM, et al: Contrast Enema: Solving Diagnostic Dilemmas in Neonates With Lower Intestinal Obstruction.Cureus14(3):e23458, 2022.doi: 10.7759/cureus.23458
+1.Manzoor A, Talat N, Adnan HM, et al: Contrast Enema: Solving Diagnostic Dilemmas in Neonates With Lower Intestinal Obstruction.Cureus14(3):e23458, 2022.doi: 10.7759/cureus.23458
+
+【胎粪栓塞综合征的治疗】
+放射性造影剂灌肠
+放射性造影剂灌肠
+水溶性造影剂灌肠可通过将粪栓与肠壁分离并排出而起到治疗作用。偶尔，需要重复灌肠。
+极少数情况下，需要手术减压。虽然大多数婴儿之后健康，但可能需要诊断检查以排除先天性巨结肠和囊性纤维化。

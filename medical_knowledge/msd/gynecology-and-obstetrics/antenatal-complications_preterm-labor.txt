@@ -1,0 +1,108 @@
+标题：早产临产
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/antenatal-complications/preterm-labor
+============================================================
+
+可能诱发早产
+胎膜早破
+胎膜早破
+羊膜腔内感染（绒毛膜羊膜炎）
+羊膜腔内感染（绒毛膜羊膜炎）
+另一个上行宫腔感染（常见的原因是B组链球菌）
+另一个上行宫腔感染（常见的原因是B组链球菌）
+多胎妊娠
+多胎妊娠
+胎儿或胎盘异常
+胎儿或胎盘异常
+子宫异常
+子宫异常
+肾盂肾炎
+肾盂肾炎
+一些性传播感染疾病（STIs）
+一些性传播感染疾病（STIs）
+诱因可能并不明显。
+既往早产和宫颈机能不全增加早产的风险。
+早产可以增加新生儿脑室内出血的风险；脑室内出血可能造成神经发育性疾病（例如，脑瘫）。
+
+【早产临产的诊断】
+病史和体格检查
+病史和体格检查
+早产临产的诊断是基于临产体征以及妊娠时间。
+进行肛门阴道培养以检测 B 组链球菌，并开始抗生素预防治疗（若培养结果为阴性则停药）。可进行尿液分析、尿培养检测膀胱炎、肾盂肾炎。如果有风险因素提示并且患者最近没有接受过检测，则需要进行宫颈培养来检查是否患有性传播感染。
+许多出现早产宫缩的孕妇并未临产，而有些被诊断为早产临产的孕妇也未进展至分娩。
+
+【早产临产的治疗】
+针对 B 组链球菌的抗生素
+针对 B 组链球菌的抗生素
+有时使用宫缩抑制剂
+有时使用宫缩抑制剂
+皮质类固醇（例如，23至34周之间）
+皮质类固醇（例如，23至34周之间）
+硫酸镁用于神经保护
+硫酸镁用于神经保护
+早产临产的治疗包括抗生素（如果诊断或怀疑感染）、宫缩抑制剂和皮质类固醇（1）。
+在 B 组链球菌肛门阴道培养结果呈阴性之前，应给予有效抗 B 组链球菌的抗生素（2）。 抗生素的选择包括：
+对青霉素不过敏的妇女：青霉素G 500万单位静脉注射，此后每4小时给药250万单位，或氨苄西林2g静脉注射，此后每4小时1g静注。
+对青霉素不过敏的妇女：青霉素G 500万单位静脉注射，此后每4小时给药250万单位，或氨苄西林2g静脉注射，此后每4小时1g静注。
+有青霉素过敏史但低过敏反应风险的患者（如前次使用出现斑丘疹）：头孢唑林2g静脉注射，此后每8小时1g。
+有青霉素过敏史但低过敏反应风险的患者（如前次使用出现斑丘疹）：头孢唑林2g静脉注射，此后每8小时1g。
+青霉素过敏且过敏反应风险增加的患者（例如，前次使用时出现支气管痉挛、血管神经性水肿或低血压，尤其是在接触后30分钟内出现者）：如果肛门阴道培养显示敏感，则予克林霉素 900 mg 静脉注射，每 8 小时一次；如果培养证实耐药或结果尚未获得，则予万古霉素 20 mg/kg 静脉注射，每 8 小时一次（最大剂量 2 g）。
+青霉素过敏且过敏反应风险增加的患者（例如，前次使用时出现支气管痉挛、血管神经性水肿或低血压，尤其是在接触后30分钟内出现者）：如果肛门阴道培养显示敏感，则予克林霉素 900 mg 静脉注射，每 8 小时一次；如果培养证实耐药或结果尚未获得，则予万古霉素 20 mg/kg 静脉注射，每 8 小时一次（最大剂量 2 g）。
+如果确诊，则应治疗泌尿道感染和性传播感染。
+
+【宫缩抑制剂】
+如果宫颈扩张，宫缩抑制剂（抑制宫缩的药物）常可推迟临产至少48小时，这样就可以给予皮质类固醇激素以降低胎儿风险。宫缩抑制剂包括
+钙通道阻滞剂
+钙通道阻滞剂
+前列腺素抑制剂
+前列腺素抑制剂
+尚无明确作为一线选择的宫缩抑制剂；选择应个体化，以尽量减少不良反应。
+如果连续使用超过48小时，前列腺素抑制剂可能引起短暂羊水过少和胎儿肾脏损害。在孕32周以后禁用该药，因可造成动脉导管早闭或狭窄。
+为了保护神经，对于妊娠不到 32 周的患者，应考虑静脉注射硫酸镁。 在子宫内暴露于这种药物，可减少严重的神经功能障碍的风险（例如，由于脑室内出血），包括新生儿脑瘫。
+
+【皮质类固醇】
+如果胎儿为 24 至 34 周，应给予女性皮质类固醇治疗，除非分娩在即。如果符合下列所有条件，可以考虑另一个皮质激素疗程：
+妊娠<34孕周。
+妊娠<34孕周。
+最后一个疗程于≥7天前给予 (3,4)。
+最后一个疗程于≥7天前给予 (3,4)。
+在下列情况下也应考虑使用皮质类固醇：
+如果孕龄为 34 0/7 周至 36 6/7 周的女性有 7 天内分娩的风险，并且之前没有使用过皮质类固醇（2，3）
+如果孕龄为 34 0/7 周至 36 6/7 周的女性有 7 天内分娩的风险，并且之前没有使用过皮质类固醇（2，3）
+从妊娠 23 0/7 周开始，如果 7 天内有早产风险（2，3）。
+从妊娠 23 0/7 周开始，如果 7 天内有早产风险（2，3）。
+如果计划进行新生儿复苏并且经过适当的父母咨询，在妊娠 22 0/7 周至 22 6/7 周时（4）
+如果计划进行新生儿复苏并且经过适当的父母咨询，在妊娠 22 0/7 周至 22 6/7 周时（4）
+可使用下列皮质类固醇之一：
+倍他米松12毫克，每24小时肌注1次，共2次
+倍他米松12毫克，每24小时肌注1次，共2次
+地塞米松6毫克，每12小时肌注一次，共4次
+地塞米松6毫克，每12小时肌注一次，共4次
+这些皮质激素可促使胎肺成熟，降低新生儿呼吸窘迫综合征、颅内出血和死亡的风险。
+不再建议有早产史的妇女注射孕激素以降低复发风险。尽管之前曾推荐过，但支持证据已被驳斥，美国食品药品监督管理局 (FDA) 于 2023 年 4 月撤回了 17-α 羟孕酮己酸酯 (17-OHPC) 用于此种适应症的批准（5）。
+母胎医学协会 (SMFM) 也不鼓励继续开具 17-OHPC 处方，包括通过复合药房开具（6）。然而，SMFM 建议，对于有早产史且在妊娠 24 周前被诊断为宫颈短（< 25 毫米）的患者，进行宫颈环扎或阴道黄体酮治疗是合理的。如果宫颈长度≥25毫米，SMFM 鼓励就使用阴道黄体酮进行复发性早产的一级预防进行共同的决策过程，特别是对于在之前的怀孕中接受过黄体酮制剂治疗以预防早产的患者。此外，SMFM 不建议改变宫颈环扎术的适应症或反对限制活动的建议。
+
+【治疗参考文献】
+1.American College of Obstetricians and Gynecologists’ Committee on Practice Bulletins—Obstetrics: Practice Bulletin No. 171: Management of Preterm Labor.Obstet Gynecol128(4):e155-64.doi: 10.1097/AOG.0000000000001711
+1.American College of Obstetricians and Gynecologists’ Committee on Practice Bulletins—Obstetrics: Practice Bulletin No. 171: Management of Preterm Labor.Obstet Gynecol128(4):e155-64.doi: 10.1097/AOG.0000000000001711
+2.American College of Obstetricians and Gynecologists (ACOG): ACOG Committee Opinion, Number 797: Prevention of group B streptococcal early-onset disease in newborns.Obstet Gynecol135 (2):e51–e72, 2020.Reaffirmed 2022.
+2.American College of Obstetricians and Gynecologists (ACOG): ACOG Committee Opinion, Number 797: Prevention of group B streptococcal early-onset disease in newborns.Obstet Gynecol135 (2):e51–e72, 2020.Reaffirmed 2022.
+3.American College of Obstetricians and Gynecologists (ACOG): ACOG Committee Opinion No. 713 Summary: Antenatal corticosteroid therapy for fetal maturation.Obstet Gynecol130(2):493–494, 2017.doi: 10.1097/AOG.0000000000002231.重申 2024年。
+3.American College of Obstetricians and Gynecologists (ACOG): ACOG Committee Opinion No. 713 Summary: Antenatal corticosteroid therapy for fetal maturation.Obstet Gynecol130(2):493–494, 2017.doi: 10.1097/AOG.0000000000002231.重申 2024年。
+4.American College of Obstetricians and Gynecologists (ACOG): ACOG Practice Advisory: Use of Antenatal Corticosteroids at 22 Weeks of Gestation, September 2021.重申2022 年 10 月。
+4.American College of Obstetricians and Gynecologists (ACOG): ACOG Practice Advisory: Use of Antenatal Corticosteroids at 22 Weeks of Gestation, September 2021.重申2022 年 10 月。
+5.Conde-Agudelo A, Romero R: Does vaginal progesterone prevent recurrent preterm birth in women with a singleton gestation and a history of spontaneous preterm birth?Evidence from a systematic review and meta-analysis.Am J Obstet Gynecol227(3):440-461.e2, 2022.doi:10.1016/j.ajog.2022.04.023
+5.Conde-Agudelo A, Romero R: Does vaginal progesterone prevent recurrent preterm birth in women with a singleton gestation and a history of spontaneous preterm birth?Evidence from a systematic review and meta-analysis.Am J Obstet Gynecol227(3):440-461.e2, 2022.doi:10.1016/j.ajog.2022.04.023
+6.Society for Maternal-Fetal Medicine (SMFM): Electronic address: pubs@smfm.org; SMFM Publications Committee.Society for Maternal-Fetal Medicine Statement: Response to the Food and Drug Administration's withdrawal of 17-alpha hydroxyprogesterone caproate.Am J Obstet Gynecol229(1):B2-B6, 2023.doi:10.1016/j.ajog.2023.04.012
+6.Society for Maternal-Fetal Medicine (SMFM): Electronic address: pubs@smfm.org; SMFM Publications Committee.Society for Maternal-Fetal Medicine Statement: Response to the Food and Drug Administration's withdrawal of 17-alpha hydroxyprogesterone caproate.Am J Obstet Gynecol229(1):B2-B6, 2023.doi:10.1016/j.ajog.2023.04.012
+进行B组链球菌的肛周阴道培养，并进行培养以检查任何可能引发早产的临床疑似感染（例如肾盂肾炎、性传播感染）。
+进行B组链球菌的肛周阴道培养，并进行培养以检查任何可能引发早产的临床疑似感染（例如肾盂肾炎、性传播感染）。
+使用对B组链球菌有效的抗生素治疗，等待培养结果。
+使用对B组链球菌有效的抗生素治疗，等待培养结果。
+如果子宫颈扩张，可以考虑使用钙通道阻滞剂保胎，或者如果孕周≤32周，可以考虑使用前列腺素抑制剂。
+如果子宫颈扩张，可以考虑使用钙通道阻滞剂保胎，或者如果孕周≤32周，可以考虑使用前列腺素抑制剂。
+如果孕周≥ 24 周且< 34 周（某些情况下< 37周），给予皮质类固醇激素
+如果孕周≥ 24 周且< 34 周（某些情况下< 37周），给予皮质类固醇激素
+如果有在7天内早产的风险，可以考虑从孕23周开始给予皮质类固醇。
+如果有在7天内早产的风险，可以考虑从孕23周开始给予皮质类固醇。
+如果孕周<32周，考虑使用硫酸镁。
+如果孕周<32周，考虑使用硫酸镁。

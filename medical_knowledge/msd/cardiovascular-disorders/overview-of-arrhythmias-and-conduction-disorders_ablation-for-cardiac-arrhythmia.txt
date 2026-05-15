@@ -1,0 +1,34 @@
+标题：消融治疗心律失常
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/ablation-for-cardiac-arrhythmia
+============================================================
+
+治疗心律失常的决定取决于其症状和潜在的严重程度。治疗针对病因。如必要，直接抗心律失常治疗包括抗心律失常药物、心脏电复律-除颤、植入型心律转复除颤器（ICDs）、起搏器（以及一种特殊形式的起搏，即心脏再同步化治疗）、导管消融、外科手术，或采用联合治疗
+如果快速性心律失常依赖于特定的途径或自动节律的异位起搏点，则可以有目的地破坏(消融)该位点以达到治疗效果 (1)。消融方法包括
+射频消融
+射频消融
+冷冻消融术
+冷冻消融术
+激光消融
+激光消融
+脉冲电场消融术
+脉冲电场消融术
+射频消融通常使用经静脉导管提供的低电压、高频（300至750MHz）射频电能（RF）来完成。该能量可加热并产生直径<1cm和深达1cm的坏死区域。
+冷冻消融使用组织冷冻（至-70°C）以实现组织破坏。 还开发了其他供术中使用的传导系统。
+激光能量可以使用经静脉导管输送以消融目标区域。
+脉冲电场消融使用一系列高压、短持续时间的电脉冲，以非热方法杀死心肌细胞。电流导致细胞膜出现孔隙，破坏了细胞。肌细胞比许多其他细胞对这种刺激更敏感，因此侧支结构可能受到的损伤较小。这种消融技术非常痛苦，需要全身麻醉。
+在施加能量前，必须在电生理检查过程中确定一个或多个靶点。
+对折返性室上性心动过速（经房室结或旁道）、局灶性房性心动过速和心房扑动，以及局灶性特发性室性心动过速（右心室流出道、左间隔部或束支折返性室性心动过速），其成功率>90% (2,3)。
+由于房颤（AF）通常起源于肺静脉内的致心律失常病灶或由其维持，因此可通过在肺静脉-左房交界部或左房内消融将其电隔离。或者，对于难治性房颤伴快速心室率的患者，可在植入永久起搏器后消融房室结。 对药物治疗无效的室性心动过速患者，消融有时可获成功，尤其是存在缺血性心脏病的患者。
+经导管消融是安全的。主要并发症包括血管损伤、瓣膜损伤、肺静脉狭窄或闭塞（若用于治疗房颤）、中风或其他栓塞、心脏穿孔、心包填塞和意外房室结消融。在简单的室上性心动过速消融术中，主要并发症的发生率从 0.5% 到 1% 不等，而在复杂的心室性心动过速消融术中，主要并发症的发生率约为 5%（4，5）。死亡率在简单的室上性消融中范围为0.02%到0.04%，在复杂的室性心动过速消融中为0.5%（4,5）。
+
+【参考文献】
+1.Andrade JG, Rivard L, Macle L.The past, the present, and the future of cardiac arrhythmia ablation.Can J Cardiol2014;30(12 Suppl):S431-S441.doi:10.1016/j.cjca.2014.07.731
+1.Andrade JG, Rivard L, Macle L.The past, the present, and the future of cardiac arrhythmia ablation.Can J Cardiol2014;30(12 Suppl):S431-S441.doi:10.1016/j.cjca.2014.07.731
+2.Page RL, Joglar JA, Caldwell MA, et al.2015 ACC/AHA/HRS guideline for the management of adult patients with supraventricular tachycardia: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Heart Rhythm2016;13(4):e136-e221.doi:10.1016/j.hrthm.2015.09.019
+2.Page RL, Joglar JA, Caldwell MA, et al.2015 ACC/AHA/HRS guideline for the management of adult patients with supraventricular tachycardia: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Heart Rhythm2016;13(4):e136-e221.doi:10.1016/j.hrthm.2015.09.019
+3.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al.2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society [published correction appears inCirculation2018 Sep 25;138(13):e419-e420. doi: 10.1161/CIR.0000000000000614.].Circulation2018;138(13):e272-e391.doi:10.1161/CIR.0000000000000549
+3.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al.2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society [published correction appears inCirculation2018 Sep 25;138(13):e419-e420. doi: 10.1161/CIR.0000000000000614.].Circulation2018;138(13):e272-e391.doi:10.1161/CIR.0000000000000549
+4.Doldi F, Geßler N, Anwar O, et al.In-hospital mortality and major complications related to radiofrequency catheter ablations of over 10 000 supraventricular arrhythmias from 2005 to 2020: individualized case analysis of multicentric administrative data.Europace2023;25(1):130-136.doi:10.1093/europace/euac146
+4.Doldi F, Geßler N, Anwar O, et al.In-hospital mortality and major complications related to radiofrequency catheter ablations of over 10 000 supraventricular arrhythmias from 2005 to 2020: individualized case analysis of multicentric administrative data.Europace2023;25(1):130-136.doi:10.1093/europace/euac146
+5.Eckardt L, Doldi F, Anwar O, et al.Major in-hospital complications after catheter ablation of cardiac arrhythmias: individual case analysis of 43 031 procedures.Europace2023;26(1):euad361.doi:10.1093/europace/euad361
+5.Eckardt L, Doldi F, Anwar O, et al.Major in-hospital complications after catheter ablation of cardiac arrhythmias: individual case analysis of 43 031 procedures.Europace2023;26(1):euad361.doi:10.1093/europace/euad361

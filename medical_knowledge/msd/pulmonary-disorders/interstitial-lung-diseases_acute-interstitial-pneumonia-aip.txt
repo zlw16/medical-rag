@@ -1,0 +1,32 @@
+标题：急性间质性肺炎
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/interstitial-lung-diseases/acute-interstitial-pneumonia-aip
+============================================================
+
+急性间质性肺炎（AIP）是特发性间质性肺炎的一种形式，男女发病率相当，通常影响看似健康的、年龄通常>40岁的人群。
+AIP在组织学上定义为弥漫的机化性肺泡损害，呈非特异性，在其他原因所致的非IIP肺损伤中也可见。机化性肺泡损害的特点是弥散的肺泡间隔明显水肿伴炎症细胞浸润；成纤维细胞增生；偶有透明膜形成；间隔增厚。肺泡间隔中不典型增生的Ⅱ型肺泡细胞排列成行，并有气腔塌陷。小动脉中血栓形成但无特异性。
+
+【急性间质性肺炎的症状和体征】
+急性间质性肺炎的症状包括突然发烧、咳嗽和呼吸急促。在多数患者中缺氧症状在7-14天内逐渐加重，进展为通常需要机械通气的呼吸衰竭。部分患者可能出现肌痛、乏力和寒战等前驱症状。体征包括呼吸急促，听诊时常可闻及双肺野弥漫性湿啰音。
+
+【急性间质性肺炎的诊断】
+高分辨CT（HRCT）
+高分辨CT（HRCT）
+实验室检查
+实验室检查
+有时需要肺活检
+有时需要肺活检
+根据急性呼吸窘迫综合征（ARDS--如双侧弥漫性磨玻璃状改变）患者的症状、体征和胸部X线表现，拟诊急性间质性肺炎。必须考虑潜在肺部疾病急性加重（特别是特发性肺纤维化或潜在的肌炎相关间质性肺病的急性加重），这可能解释一些先前被定性为AIP的病例。
+高分辨率CT（HRCT）支持AIP的诊断，但最终确诊通常需要活检。HRCT显示双侧斑片状对称的磨玻璃样衰减区，有时可见双侧实变区，主要呈胸膜下分布。可见轻度的蜂窝样变，累及<10%的肺。
+常规实验室检查通常不具有特异性。全血细胞计数可能显示显著的白细胞增多。动脉血气分析常表现为中重度低氧血症，动脉血氧分压与吸入氧浓度比值（PaO2/FaO2）＜200，符合急性呼吸窘迫综合征的标准。支气管镜检查通常用于排除呼吸衰竭的其他原因。支气管肺泡灌洗液无特异性，通常表现为显著的中性粒细胞增多。
+外科肺活检显示弥漫性肺泡损伤，且无已知的引起ARDS和弥漫性肺泡损伤的病因时，支持急性间质性肺炎的诊断。必须考虑潜在肺部疾病的急性加重（特别是特发性肺纤维化或潜在的肌炎相关间质性肺病的急性加重），这可能解释一些以前被定性为AIP的病例。当支气管镜检查无诊断性结果时，可能需要外科肺活检来区分AIP与弥漫性肺泡出血、急性嗜酸性粒细胞性肺炎和隐源性机化性肺炎。但必须仔细考虑手术肺活检的风险和益处。
+
+【急性间质性肺炎的治疗】
+支持性治疗
+支持性治疗
+急性间质性肺炎的治疗是支持性的，常需机械通气，与ARDS使用相同方法（包括低潮气量通气）。
+一般使用糖皮质激素治疗，但效果尚不确切。
+病死率>50%；大多数病人在发病后6个月内死亡，常死于呼吸衰竭 (1)。尽管疾病可能复发，但度过起初急性期而存活的病人肺功能可完全恢复。
+
+【治疗参考文献】
+1.Travis WD, Costabel U, Hansell DM, et al.An official American Thoracic Society/European Respiratory Society statement: Update of the international multidisciplinary classification of the idiopathic interstitial pneumonias.Am J Respir Crit Care Med2013;188(6):733-748.doi:10.1164/rccm.201308-1483ST
+1.Travis WD, Costabel U, Hansell DM, et al.An official American Thoracic Society/European Respiratory Society statement: Update of the international multidisciplinary classification of the idiopathic interstitial pneumonias.Am J Respir Crit Care Med2013;188(6):733-748.doi:10.1164/rccm.201308-1483ST

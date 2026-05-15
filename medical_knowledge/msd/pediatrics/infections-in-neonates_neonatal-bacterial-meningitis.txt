@@ -1,0 +1,96 @@
+标题：新生儿脑膜炎
+来源：https://www.msdmanuals.cn/professional/pediatrics/infections-in-neonates/neonatal-bacterial-meningitis
+============================================================
+
+（另见成人脑膜炎、3个月以上婴儿的细菌性脑膜炎及新生儿感染概述。）
+新生儿细菌性脑膜炎在足月儿中的发病率为3/10,000，在低出生体重儿（LBW）中的发生率为1/1,000（1）。脓毒血症的新生儿患脑膜炎的风险更高，偶尔也会单独发生。在美国，由于预防早发型B族链球菌病，新生儿脑膜炎发病率已大幅下降（2）。
+
+【参考文献】
+1.Okike IO, Johnson AP, Henderson KL, et al.Incidence, etiology, and outcome of bacterial meningitis in infants aged <90 days in the United kingdom and Republic of Ireland: prospective, enhanced, national population-based surveillance.Clin Infect Dis.2014;59(10):e150-e157.doi:10.1093/cid/ciu514
+1.Okike IO, Johnson AP, Henderson KL, et al.Incidence, etiology, and outcome of bacterial meningitis in infants aged <90 days in the United kingdom and Republic of Ireland: prospective, enhanced, national population-based surveillance.Clin Infect Dis.2014;59(10):e150-e157.doi:10.1093/cid/ciu514
+2.Schrag SJ, Farley MM, Petit S, et al.Epidemiology of Invasive Early-Onset Neonatal Sepsis, 2005 to 2014.Pediatrics.2016;138(6):e20162013.doi:10.1542/peds.2016-2013
+2.Schrag SJ, Farley MM, Petit S, et al.Epidemiology of Invasive Early-Onset Neonatal Sepsis, 2005 to 2014.Pediatrics.2016;138(6):e20162013.doi:10.1542/peds.2016-2013
+
+【新生儿脑膜炎的病因】
+主要病原体如下：
+Group B streptococcus（B族链球菌）(GBS)
+Group B streptococcus（B族链球菌）(GBS)
+Escherichia coli（大肠杆菌） (特别是那些含K1多糖的菌株)
+Escherichia coli（大肠杆菌） (特别是那些含K1多糖的菌株)
+Listeria monocytogenes（单核细胞增多性李斯特菌）
+Listeria monocytogenes（单核细胞增多性李斯特菌）
+其他已报道的致病菌包括enterococci（肠球菌）、非肠球菌D组链球菌、alpha-hemolytic streptococci（α-溶血性链球菌）、Staphylococcus aureus（金黄色葡萄球菌）、coagulase-negative staphylococci（凝固酶阴性葡萄球菌）、革兰氏阴性肠道微生物（例如Klebsiella（克雷伯菌）属、Enterobacter（肠杆菌）属、Citrobacter diversus（柠檬酸杆菌））、Haemophilus influenzae（流感嗜血杆菌）、Neisseria meningitidis（脑膜炎奈瑟菌）和Streptococcus pneumoniae（肺炎链球菌）。
+新生儿细菌性脑膜炎最常源于新生儿脓毒血症相关的菌血症；血培养中菌落计数越高，脑膜炎风险越高。
+新生儿细菌性脑膜炎也可能源于头皮损伤，特别是当发育缺陷导致皮肤表面与蛛网膜下隙相通时，这会使板障静脉易发生血栓性静脉炎。 邻近耳部的脓性病灶（如中耳炎）直接蔓延至中枢神经系统的感染较罕见。
+
+【新生儿细菌性脑膜炎的症状和体征】
+通常，只表现出新生儿脓毒血症的典型表现（如体温不稳定、呼吸窘迫、黄疸、呼吸暂停）。 CNS体征（例如嗜睡，癫痫发作（特别是局灶性），呕吐，易激惹）更具体地提示新生儿细菌性脑膜炎。所谓的矛盾激惹，即父母的拥抱和安慰会刺激而不是安抚新生儿(因为移动发炎的脑膜是痛苦的)，对于诊断更具有特异性。A bulging fontanelle or nuchal rigidity occurs in only approximately 20% of infants; the younger the patient, the less common are these findings (1).颅神经异常（特别是涉及第3，第6和第7神经的那些）也可以存在。
+B族链球菌（GBS脑膜炎）引起的新生儿脑膜炎可在生后1周发生，并伴有早发型新生儿脓毒血症，并常表现为全身性疾病，伴有明显的呼吸体征。 然而，通常在这一时期后（最常在出生后3个月内发生）发生的脑膜炎，表现为一个独立的疾病，以缺乏先前的产科或围产期并发症为特征，并表现为更特异性的症状（如发热、嗜睡和惊厥）。
+新生儿脑膜炎常伴有脑室炎，特别是革兰氏阴性肠道细菌感染。引起脑膜炎并伴有严重血管炎的病原体，特别是C. diversus（差异性柠檬酸杆菌）和Cronobacter sakazakii（阪崎肠杆菌），很可能导致囊肿和脓肿。绿脓杆菌，大肠杆菌K1和沙雷菌属也可在新生儿中引起脑脓肿。 脑脓肿的早期症状是颅内压增高，通常表现为呕吐、囟门饱满和头围增大。新生儿脑膜炎病情趋于稳定后突然恶化提示进行性脑积水或脑脓肿破裂入脑室系统。
+
+【经验与提示】
+经验与提示
+在患有脑膜炎的新生儿中，典型体征并不常见；仅约20%患儿出现前囟膨出或颈项强直。
+在患有脑膜炎的新生儿中，典型体征并不常见；仅约20%患儿出现前囟膨出或颈项强直。
+
+【症状和体征】
+1.Curtis S, Stobart K, Vandermeer B, Simel DL, Klassen T.Clinical features suggestive of meningitis in children: a systematic review of prospective data.Pediatrics.2010;126(5):952-960.doi:10.1542/peds.2010-0277
+1.Curtis S, Stobart K, Vandermeer B, Simel DL, Klassen T.Clinical features suggestive of meningitis in children: a systematic review of prospective data.Pediatrics.2010;126(5):952-960.doi:10.1542/peds.2010-0277
+
+【新生儿细菌性脑膜炎的诊断】
+脑脊液细胞计数，糖和蛋白浓度，革兰氏染色和培养
+脑脊液细胞计数，糖和蛋白浓度，革兰氏染色和培养
+聚合酶链反应（PCR）检测
+聚合酶链反应（PCR）检测
+有时做脑部B超、脑MRI或脑CT。
+有时做脑部B超、脑MRI或脑CT。
+新生儿细菌性脑膜炎的确诊需通过脑脊液检查。腰椎穿刺（LP）——任何疑似患有败血症或脑膜炎的新生儿均应进行这项检查。然而，在新生儿中进行LP可能很困难，并且存在导致缺氧的风险。不良临床状况（例如呼吸窘迫、休克、血小板减少症）可能会增加风险。新生儿腰穿的穿刺针要有一个套管针，避免上皮细胞残留而可能发展为上皮瘤。
+脑脊液葡萄糖降低、蛋白质升高及白细胞计数升高提示细菌性脑膜炎。正常CSF值是有争议的，并部分与年龄有关。一般来说，未患脑膜炎的足月儿和早产儿脑脊液中白细胞计数为≤10至14个/mcL(0.010至0.014×109/L)，其中五分之一可能是多形核白细胞。在没有脑膜炎的情况下，脑脊液蛋白水平变化更大；足月婴儿的脑脊液蛋白水平为<110 至 160 mg/dL（1.1 至 1.6 g/L），而早产儿的水平高达 210 mg/dL（2.1 g/L）。无脑膜炎时，CSF葡萄糖水平为同时测量血清值的约75%。这些水平可能低至20到30 mg/dL（1.1到1.7 mmol/L）。通过在脑脊液指标正常的新生儿中进行培养，已鉴定出细菌性脑膜炎，这表明正常的脑脊液值并不能排除脑膜炎的诊断(1,2)。如果腰穿延迟，脑脊液结果的可靠性较低；然而，即使临床状况改善，发病数日后脑脊液中炎性细胞及异常的葡萄糖和蛋白水平仍可提示脑膜炎。
+即使脑脊液血性或无细胞，仍需进行培养。某些情况下，尤其是在使用抗生素后获取脑脊液（预处理），多重PCR检测组合可提供额外诊断价值。重复CSF分析有助于指导治疗的持续时间和预测预后。若对治疗效果存疑，可在24～48小时后重复腰穿；GBS脑膜炎患儿在24～48小时重复，革兰阴性菌感染者则在72小时重复。在治疗末期对情况良好的病例不应常规重复腰穿。
+对适宜的抗生素治疗无反应的任何新生儿应怀疑存在脑室炎。当脑室穿刺液白细胞计数高于腰椎穿刺液、脑室液革兰氏染色或培养阳性、或脑室压力增高时，可做出诊断。当怀疑脑室炎或脑脓肿时，超声、MRI或增强CT可辅助诊断；脑室扩张也可确认脑室炎。
+
+【诊断参考】
+1.Srinivasan L, Shah SS, Padula MA, Abbasi S, McGowan KL, Harris MC.Cerebrospinal fluid reference ranges in term and preterm infants in the neonatal intensive care unit.J Pediatr.2012;161(4):729-734.doi:10.1016/j.jpeds.2012.03.051
+1.Srinivasan L, Shah SS, Padula MA, Abbasi S, McGowan KL, Harris MC.Cerebrospinal fluid reference ranges in term and preterm infants in the neonatal intensive care unit.J Pediatr.2012;161(4):729-734.doi:10.1016/j.jpeds.2012.03.051
+2.Zimmermann P, Curtis N.Normal Values for Cerebrospinal Fluid in Neonates: A Systematic Review.Neonatology.2021;118(6):629-638.doi:10.1159/000517630
+2.Zimmermann P, Curtis N.Normal Values for Cerebrospinal Fluid in Neonates: A Systematic Review.Neonatology.2021;118(6):629-638.doi:10.1159/000517630
+
+【新生儿细菌性脑膜炎的治疗】
+经验性氨苄西林联合庆大霉素、头孢噻肟或两者联合治疗，随后给予针对培养特异性的抗生素
+经验性氨苄西林联合庆大霉素、头孢噻肟或两者联合治疗，随后给予针对培养特异性的抗生素
+
+【经验性抗菌治疗】
+最初的经验性治疗是视患儿年龄而定的，至今仍有争议。对于新生儿，许多专家建议氨苄西林加氨基糖苷类药物（如庆大霉素）。如果怀疑由革兰氏阴性菌引起的脑膜炎，还应加入第三代头孢菌素（例如头孢噻肟），直到获得培养和药敏结果。然而，当头孢噻肟常规用于经验性治疗时，耐药可能发展得更快，并且长期使用第三代头孢菌素是侵袭性念珠菌病的风险因素。氨苄西林对GBS、enterococci（肠球菌）和Listeria（李斯特菌）等病原菌有效。庆大霉素对这些病原菌有协同作用，也可治疗许多革兰氏阴性菌感染。第三代头孢菌素为大多数革兰氏阴性病原体提供了足够的覆盖。
+住院期间曾接受抗生素治疗（如早发型败血症）的新生儿可能存在耐药菌；长期住院且表现为败血症的新生儿也应考虑真菌感染。患有医院获得性感染的病重新生儿，应初始接受万古霉素加氨基糖苷类药物，伴或不伴第三代头孢菌素，或具有抗Pseudomonas aeruginosa（铜绿假单胞菌）活性的碳青霉烯类药物，如头孢吡肟或美罗培南，具体取决于对脑膜炎的考虑程度。
+根据腰穿脑脊液培养和药敏结果调整抗生素。在获得培养结果前，不应根据革兰染色结果缩小抗菌谱。
+
+【生物特定抗菌治疗】
+建议对<1周龄的GBS脑膜炎新生儿初始治疗使用青霉素G或氨苄西林。此外，庆大霉素可在与年龄相适宜的剂量下发挥协同作用。庆大霉素如果出现临床改善，感染微生物对所使用的青霉素敏感，并且记录了脑脊液的灭菌，则可以停止。
+肠球菌或单核细胞增多性李斯特菌引起新生儿脑膜炎一般用氨苄青霉素加庆大霉素治疗。
+革兰氏阴性菌引起的脑膜炎，其治疗相当困难。若药敏未知，应经验性地使用广谱头孢菌素，如头孢噻肟。一旦明确药敏后，建议换用有效药物进行靶向治疗。若脑脊液无菌，通常可停用氨基糖苷类。
+对于革兰阳性菌性脑膜炎，胃肠外给药治疗至少需持续14天；若为复杂性革兰阳性或阴性菌性脑膜炎，则最短疗程应延长至21天。不建议脑室内滴注抗生素。
+
+【辅助措施】
+由于脑膜炎可被视为新生儿脓毒症连续过程的一部分，用于预防和治疗新生儿脓毒症的辅助措施也应用于预防和治疗新生儿脑膜炎。
+类固醇激素不用于治疗新生儿脑膜炎。
+在幼儿时期应密切随访病人是否有神经系统并发症，包括感音神经性听力损失。
+
+【新生儿细菌性脑膜炎的预后】
+未经治疗的新生儿脑膜炎死亡率接近100%。
+经治疗后，新生儿细菌性脑膜炎的死亡率为5%至20%。
+预后取决于出生体重、病原体和临床严重程度。某些致病菌可引起血管炎、脑膜炎、脑脓肿，死亡率可高达75%。
+预后部分取决于在诊断时通过菌落计数而得到的在脑脊液中出现的细菌数量。脑脊液培养阳性持续时间与并发症直接相关。 总体来说，GBS脑膜炎经抗生素治疗24小时脑脊液检查可无菌；革兰氏阴性杆菌脑膜炎，脑脊液细菌阳性可持续中位数2天。
+GBS脑膜炎的死亡率比早发型GBS脓毒血症显著为低。
+20～ 50%的存活婴儿会出现神经系统后遗症(如脑积水、听力损失、智力残疾)，当革兰氏阴性肠杆菌为病因时，预后较差。
+新生儿细菌性脑膜炎最常见的病因是 B 族链球菌、E. coli， 和L. monocytogenes。
+新生儿细菌性脑膜炎最常见的病因是 B 族链球菌、E. coli， 和L. monocytogenes。
+临床表现通常是非特异性的（如体温不稳定、呼吸窘迫、黄疸、呼吸暂停）。
+临床表现通常是非特异性的（如体温不稳定、呼吸窘迫、黄疸、呼吸暂停）。
+虽然可能出现中枢神经系统体征（如嗜睡、癫痫发作、呕吐、易激惹），但经典体征如囟门膨出和颈项强直并不常见。
+虽然可能出现中枢神经系统体征（如嗜睡、癫痫发作、呕吐、易激惹），但经典体征如囟门膨出和颈项强直并不常见。
+脑脊液（CSF）培养至关重要，因为部分脑膜炎新生儿的CSF指标（如白细胞计数、蛋白和葡萄糖水平）可能正常。
+脑脊液（CSF）培养至关重要，因为部分脑膜炎新生儿的CSF指标（如白细胞计数、蛋白和葡萄糖水平）可能正常。
+开始经验性治疗时使用氨苄青霉素、庆大霉素和头孢噻肟，随后根据培养和药敏结果调整特异性用药。
+开始经验性治疗时使用氨苄青霉素、庆大霉素和头孢噻肟，随后根据培养和药敏结果调整特异性用药。
+类固醇激素不用于新生儿脑膜炎。
+类固醇激素不用于新生儿脑膜炎。

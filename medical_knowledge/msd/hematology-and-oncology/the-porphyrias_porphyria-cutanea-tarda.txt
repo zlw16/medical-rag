@@ -1,0 +1,150 @@
+标题：迟发性皮肤卟啉症
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/the-porphyrias/porphyria-cutanea-tarda
+============================================================
+
+(参见于卟啉症概述和皮肤型卟啉症概述。）
+
+【迟发性皮肤卟啉症的病理生理】
+肝尿卟啉原脱羧酶（UROD--见表血红素生物合成途径的底物和酶）缺乏导致迟发性皮肤卟啉症PCT。卟啉在肝脏聚集，并被输送到皮肤组织，从而引起光敏性。
+通常引发急性卟啉症的药物（见Drug Database for Acute Porphyria或American Porphyria Foundation drug database）不会引发PCT。
+在PCT中肝病较常见，病因可能为卟啉的堆积、慢性丙型肝炎、伴发含铁血黄素沉着症、或饮酒过量。肝硬化发病率为≤35%，肝细胞癌发病率为7%～24%（中年男性中较多见）(1,2,3)。
+迟发性皮肤卟啉症有2种主要类型。
+1型：获得性或散发性 （75%~80% 的病例）
+1型：获得性或散发性 （75%~80% 的病例）
+2型：遗传性或家族性 （20%~25% 的案例）
+2型：遗传性或家族性 （20%~25% 的案例）
+还有一种罕见的3型，占<1% 的情况。
+1型迟发性皮肤卟啉症的脱羧酶缺乏仅限于肝脏，且无遗传倾向。1型PCT多为中老年起病。酶缺乏被认为是由于肝细胞中氧化应激增加，导致尿卟啉原氧化为尿卟啉（后者非酶底物），并形成抑制剂尿卟啉甲烯 (4)。雌激素、过量铁和丙型肝炎感染也会增加肝细胞的氧化应激
+2型迟发性皮肤卟啉症中脱羧酶的缺乏以常染色体显性方式及有限外显率遗传。缺陷发生于所有细胞，包括红细胞。其发病早于Ⅰ型，有时可出现于儿童期。杂合子患者具有部分UROD活性（约50％），一般不出现的PCT的生化或临床表型。PCT出现明显的临床症状时常合并其他因素，最终使得肝UROD活性下降> 75％而发病。这些因素包括肝铁超载，饮酒，卤代烃暴露，丙型肝炎病毒或HIV感染、雌激素和吸烟。这些因素能促进尿卟啉原和其他卟啉原氧化为相应的卟啉，也有助于UROD抑制剂形成 (5)。
+不断有新的研究揭示出UROD基因中的新突变，即使在老年（80多岁）时也会导致临床PCT的发生（6）。
+肝红细胞生成性卟啉（HEP—见表一些不太常见的卟啉），以严重的UROD缺乏为特征，非常罕见，通常被认为是2型PCT的常染色体隐性遗传形式。
+3型PCT非常罕见的遗传疾病，致病基因目前尚不清楚，UROD基因正常。
+1型和2型是迟发性皮肤卟啉症的主要类型。两者的诱发因素、症状和治疗方法均相似。总患病率约1/10,000，暴露于卤代芳烃的人群患病率更高。
+
+【假性卟啉症】
+终末期肾病、紫外线辐射（UVA）和某些药物都可以引起PCT样症状，但卟啉水平不升高，称为假性卟啉症。通常涉及的药物是速尿，四环素类，磺胺类，萘普生和其他非甾体类抗炎药(NSAIDs)。
+由于卟啉不易通过透析排出体外，因而有些长期进行血液透析的患者可出现类似PCT的皮肤病变（肾病终末期假性卟啉症）。然而，这些患者中的一些人有潜在的迟发性皮肤卟啉症（PCT），与一些或所有已知的诱发因素有关，包括医源性铁过载。该病可能较为严重且难以控制，因为合并存在的慢性病性贫血使得通过放血疗法去除铁变得困难。此外，羟氯喹的疗效会降低，因为尿卟啉与羟氯喹形成了复合物，这些复合物无法通过血液透析或腹膜透析清除。
+
+【病理生理学参考文献】
+1.Bissell DM, Anderson KE, Bonkovsky HL.Porphyria.N Engl J Med2017;377(9):862-872.doi:10.1056/NEJMra1608634
+1.Bissell DM, Anderson KE, Bonkovsky HL.Porphyria.N Engl J Med2017;377(9):862-872.doi:10.1056/NEJMra1608634
+2.Bonkovsky HL, Poh-Fitzpatrick M, Pimstone N, et al.Porphyria cutanea tarda, hepatitis C, and HFE gene mutations in North America.Hepatology1998;27(6):1661-1669.doi:10.1002/hep.510270627
+2.Bonkovsky HL, Poh-Fitzpatrick M, Pimstone N, et al.Porphyria cutanea tarda, hepatitis C, and HFE gene mutations in North America.Hepatology1998;27(6):1661-1669.doi:10.1002/hep.510270627
+3.Egger NG, Goeger DE, Payne DA, Miskovsky EP, Weinman SA, Anderson KE.Porphyria cutanea tarda: multiplicity of risk factors including HFE mutations, hepatitis C, and inherited uroporphyrinogen decarboxylase deficiency.Dig Dis Sci47(2):419-426, 2002.doi:10.1023/a:1013746828074
+3.Egger NG, Goeger DE, Payne DA, Miskovsky EP, Weinman SA, Anderson KE.Porphyria cutanea tarda: multiplicity of risk factors including HFE mutations, hepatitis C, and inherited uroporphyrinogen decarboxylase deficiency.Dig Dis Sci47(2):419-426, 2002.doi:10.1023/a:1013746828074
+4.Phillips JD, Bergonia HA, Reilly CA, Franklin MR, Kushner JP.A porphomethene inhibitor of uroporphyrinogen decarboxylase causes porphyria cutanea tarda.Proc Natl Acad Sci U S A2007;104(12):5079-5084.doi:10.1073/pnas.0700547104
+4.Phillips JD, Bergonia HA, Reilly CA, Franklin MR, Kushner JP.A porphomethene inhibitor of uroporphyrinogen decarboxylase causes porphyria cutanea tarda.Proc Natl Acad Sci U S A2007;104(12):5079-5084.doi:10.1073/pnas.0700547104
+5.Ryan Caballes F, Sendi H, Bonkovsky HL.Hepatitis C, porphyria cutanea tarda and liver iron: an update.Liver Int2012;32(6):880-893.doi:10.1111/j.1478-3231.2012.02794.x
+5.Ryan Caballes F, Sendi H, Bonkovsky HL.Hepatitis C, porphyria cutanea tarda and liver iron: an update.Liver Int2012;32(6):880-893.doi:10.1111/j.1478-3231.2012.02794.x
+6.Soufleris S, Moore M, Phillips JD, et al.NovelURODmutation for porphyria cutanea tarda, type 2: a case report.AME Case Rep2024;8:67.doi:10.21037/acr-23-66
+6.Soufleris S, Moore M, Phillips JD, et al.NovelURODmutation for porphyria cutanea tarda, type 2: a case report.AME Case Rep2024;8:67.doi:10.21037/acr-23-66
+
+【迟发性皮肤卟啉症的症状和体征】
+迟发性皮肤卟啉症患者表现为慢性光损伤、脆弱的皮肤，多见于日晒部位。由于光毒性的出现滞后，患者并不总是将暴露在阳光下与症状联系起来。
+迟发性皮肤卟啉症主要发生在阳光照射区域，包括该患者的耳垂。
+迟发性皮肤卟啉症主要发生在阳光照射区域，包括该患者的耳垂。
+© Springer Science+Business Media
+这张图片显示了迟发性皮肤卟啉症患者手指上的红斑和破裂的大疱。
+这张图片显示了迟发性皮肤卟啉症患者手指上的红斑和破裂的大疱。
+Image courtesy of Karen McKoy, MD.
+一位迟发性皮肤卟啉症患者手背上的红斑、水疱和粟粒疹。
+一位迟发性皮肤卟啉症患者手背上的红斑、水疱和粟粒疹。
+By permission of the publisher.摘自 White K, Soter N.InCurrent Dermatologic Diagnosis and Treatment.Edited by I Freedberg, IM Freedberg, and MR Sanchez.Philadelphia, Current Medicine, 2001.
+大疱破裂后出现萎缩性疤痕。有些大疱是出血性的。
+大疱破裂后出现萎缩性疤痕。有些大疱是出血性的。
+© Springer Science+Business Media
+迟发性皮肤卟啉症主要发生在阳光照射区域，包括该患者的耳垂。
+迟发性皮肤卟啉症主要发生在阳光照射区域，包括该患者的耳垂。
+© Springer Science+Business Media
+这张图片显示了迟发性皮肤卟啉症患者手指上的红斑和破裂的大疱。
+这张图片显示了迟发性皮肤卟啉症患者手指上的红斑和破裂的大疱。
+Image courtesy of Karen McKoy, MD.
+一位迟发性皮肤卟啉症患者手背上的红斑、水疱和粟粒疹。
+一位迟发性皮肤卟啉症患者手背上的红斑、水疱和粟粒疹。
+By permission of the publisher.摘自 White K, Soter N.InCurrent Dermatologic Diagnosis and Treatment.Edited by I Freedberg, IM Freedberg, and MR Sanchez.Philadelphia, Current Medicine, 2001.
+大疱破裂后出现萎缩性疤痕。有些大疱是出血性的。
+大疱破裂后出现萎缩性疤痕。有些大疱是出血性的。
+© Springer Science+Business Media
+皮肤水疱可自发产生也可在轻微创伤后出现。有些大疱是出血性的。伴随的糜烂和溃疡可能继发感染；它们愈合缓慢，遗留萎缩性瘢痕，常伴色素减退。日光照射偶尔还可引起红斑、水肿或瘙痒。
+可发生充血性结膜炎，但其余部位的黏膜不受影响。
+局部皮肤可出现色素减退或沉着，也可发生面部多毛和假性硬皮病样变化。
+
+【迟发性皮肤卟啉症的诊断】
+血卟啉，尿中尿卟啉、七羧基卟啉，以及粪中异粪卟啉水平升高
+血卟啉，尿中尿卟啉、七羧基卟啉，以及粪中异粪卟啉水平升高
+患者没有其他疾病，表现为皮肤易受损伤，水疱形成，提示迟发性皮肤卟啉症可能。PCT与伴皮肤症状的急性卟啉症（混合型卟啉病[VP]和遗传性粪卟啉症[HCP]）的鉴别很重要，因为在VP和HCP患者中生卟啉药物可引起脑脊髓交感神经系统症状。以前有神经、精神、或无法解释的腹部症状提示可能为急性卟啉症。还应询问是否接触过能引起假性卟啉症的化学物品。
+虽然所有可引起皮肤损害的卟啉症中血浆卟啉浓度都增高，但尿中尿卟啉和七羧基卟啉及粪中异粪卟啉的增高提示PCT。PCT患者尿中卟啉前体物胆色素原（PBG）一般正常。尿delta氨基乙酰丙酸可能略有升高（<正常上限的3倍）。红细胞中UPGD活性在1型PCT和3型PCT中正常，但在2型PCT中降低(～50%)。
+所有PCT患者应该筛查丙型肝炎及HIV感染 (1)。 他们还应该通过血清铁和铁蛋白水平以及总铁结合能力来检测铁过载；如果结果表明铁过载，应进行HFE基因突变检测以诊断遗传性血色病(2)。
+
+【诊断参考】
+1.Caballes FR, Sendi H, Bonkovsky HL: Hepatitis C, porphyria cutanea tarda and liver iron: an update.Liver Int32(6):880–893, 2012.doi:10.1111/j.1478-3231.2012.02794.x
+1.Caballes FR, Sendi H, Bonkovsky HL: Hepatitis C, porphyria cutanea tarda and liver iron: an update.Liver Int32(6):880–893, 2012.doi:10.1111/j.1478-3231.2012.02794.x
+2.Bonkovsky HL, Guo JT, Hou W, et al: Porphyrin and heme metabolism and the porphyrias.Compr Physiol3(1):365–401, 2013.doi:10.1002/cphy.c120006
+2.Bonkovsky HL, Guo JT, Hou W, et al: Porphyrin and heme metabolism and the porphyrias.Compr Physiol3(1):365–401, 2013.doi:10.1002/cphy.c120006
+
+【迟发性皮肤卟啉症的治疗】
+有四种互补的治疗策略：
+减少体内铁贮备
+减少体内铁贮备
+增加卟啉排泄
+增加卟啉排泄
+慢性丙型肝炎和艾滋病毒感染的治疗（如果存在）
+慢性丙型肝炎和艾滋病毒感染的治疗（如果存在）
+戒酒、戒烟和戒除雌激素，如有
+戒酒、戒烟和戒除雌激素，如有
+这些策略可以联合使用以加快缓解速度，尽管通常不需要将它们结合起来。 监测治疗需通过每隔一个月或每三个月测定血清铁蛋白（若采用铁减量疗法）和尿卟啉排泄量来进行，直至完全缓解。
+患者应停止饮酒和吸烟（包括吸食大麻）。
+通过静脉放血减少体内铁贮备通常有效。每隔1周或2周放血1个单位。当血清铁蛋白降至略低于正常，停止放血。通常情况下，需要6到10次。在治疗期间尿和血中卟啉逐渐下降，虽有滞后但与铁蛋白的下降平行。皮肤最终可恢复正常。病情缓解后，只是在复发时才需要再次放血。当存在遗传性血色素沉着症时，也建议进行持续的铁还原治疗。对于遗传性血色病患者，目标血清铁蛋白水平为50-150ng/mL（50-150微克/升）。
+这些照片显示的是一名患有2型迟发性皮肤卟啉症 (PCT) 的男性就诊时（左图）和减少铁含量后（右图）的右手背侧面。2型PCT是由于多种因素引起的，包括UROD基因中的一种新型致病突变。
+Photos courtesy of Herbert L.Bonkovsky, MD.
+小剂量氯喹或羟氯喹（每周口服2次，每次100～125mg）能促进肝脏清除蓄积的卟啉，增加卟啉排泄率。大剂量氯喹或羟氯喹可能引起一过性肝损伤和卟啉症恶化。病情缓解时即停药。
+晚期肾疾病患者使用氯喹和羟氯喹治疗无效。由于贫血，放血也是禁忌的。然而，重组红细胞生成素可以调动多余的铁，改善贫血，足以进行静脉切开术。在肾脏病终末期，去铁胺是放血的辅助物用来减少肝铁，络合铁可在透析过程中被去除。透析器、超强渗透膜和额外的高血流量率是必要的。
+显性PCT和丙型肝炎病毒感染的患者应评估使用直接作用抗病毒药物的治疗效果。以前的铁耗竭增加了对干扰素抗病毒治疗的反应，但在使用高效直接作用抗病毒药物治疗时，这种耗竭似乎是不必要的。据报道，抗病毒治疗后PCT皮肤病变可缓解，但缺乏完全逆转代谢缺陷和长期改善的记录 (1)。然而，对于这类患者，在决定采用降铁治疗或羟氯喹治疗之前，似乎应首先采用直接抗病毒治疗来治疗和治愈丙型肝炎病毒感染（2）。治疗PCT的同时应适当治疗HIV感染。
+有症状的PCT患儿很罕见，但可采用小剂量放血或口服氯喹治疗，剂量根据体重确定。如果存在丙型肝炎病毒或HIV感染，应立即治疗。
+在怀孕期间出现的皮肤症状应使用放血治疗。在难治性病例中，可以添加低剂量的氯喹，已确认无致畸作用。根据血液稀释和铁耗尽的不同程度，皮肤症状通常随妊娠消减。
+在PCT治疗期间，需中断绝经前或绝经后雌激素补充剂或其他雌激素疗法的使用（如用于前列腺癌男性的治疗）。停止雌激素可得到缓解。若绝经后症状令人困扰，可用经皮雌激素替代全身雌激素，但因存在一定程度的全身吸收仍然存在一定风险。
+西咪替丁被认为是PCT的一种治疗方法，因为西咪替丁可下调肝脏ALA合成酶-1。然而，肝ALA合成酶-1在前列腺癌中没有明显上调。因此，不建议在PCT管理中常规使用西咪替丁(3)。
+
+【治疗参考文献】
+1.Bonkovsky HL, Rudnick SP, Ma CD, et al:Ledipasvir/SofosbuvirIs Effective as Sole Treatment of Porphyria Cutanea Tarda with Chronic Hepatitis C.Dig Dis Sci68(6):2738–2746, 2023.doi:10.1007/s10620-023-07859-8
+1.Bonkovsky HL, Rudnick SP, Ma CD, et al:Ledipasvir/SofosbuvirIs Effective as Sole Treatment of Porphyria Cutanea Tarda with Chronic Hepatitis C.Dig Dis Sci68(6):2738–2746, 2023.doi:10.1007/s10620-023-07859-8
+2.Rudnick S, Bonkovsky HL: Hepatitis C and porphyria cutanea tarda in 2020.Aliment Pharmacol Therap51:1432–1434, 2020.doi: 10.1111/apt.15728
+2.Rudnick S, Bonkovsky HL: Hepatitis C and porphyria cutanea tarda in 2020.Aliment Pharmacol Therap51:1432–1434, 2020.doi: 10.1111/apt.15728
+3.Fujita Y, Sato-Matsumura KC: Effective treatment for porphyria cutanea tarda with oralcimetidine.J Dermatol37(7):677–679, 2010.doi:10.1111/j.1346-8138.2010.00838.x
+3.Fujita Y, Sato-Matsumura KC: Effective treatment for porphyria cutanea tarda with oralcimetidine.J Dermatol37(7):677–679, 2010.doi:10.1111/j.1346-8138.2010.00838.x
+
+【迟发性皮肤卟啉症的预防】
+患者应避免暴露在阳光下，使用帽子和衣服以及锌或氧化钛防晒霜。平时使用的阻挡紫外线的防晒霜没有效果，但吸收长波紫外线的品种如含dibenzylmethane的制剂有一定作用。应永久jie酒，并应停止吸烟。如有需要，在疾病缓解后，通常可以安全地恢复雌激素补充治疗，尤其是低剂量的经皮给药。
+迟发性皮肤卟啉症（PCT）通常是获得性的，但也可能是遗传性的。
+迟发性皮肤卟啉症（PCT）通常是获得性的，但也可能是遗传性的。
+诱因包括肝铁升高、饮酒、雌激素治疗、卤代烃暴露、丙型肝炎病毒感染或HIV感染。
+诱因包括肝铁升高、饮酒、雌激素治疗、卤代烃暴露、丙型肝炎病毒感染或HIV感染。
+通常触发急性卟啉症的药物不会引起PCT。
+通常触发急性卟啉症的药物不会引起PCT。
+测定尿中尿卟啉、七羧基卟啉，以及粪中异粪卟啉水平测定
+测定尿中尿卟啉、七羧基卟啉，以及粪中异粪卟啉水平测定
+可通过血清铁，铁蛋白水平和总铁结合力测定来评估铁超载。
+可通过血清铁，铁蛋白水平和总铁结合力测定来评估铁超载。
+测试血清铁蛋白或转铁蛋白饱和度升高的患者HFE基因突变。
+测试血清铁蛋白或转铁蛋白饱和度升高的患者HFE基因突变。
+通过放血降低过高的铁储备。
+通过放血降低过高的铁储备。
+给予低剂量氯喹或羟氯喹去除蓄积的卟啉。
+给予低剂量氯喹或羟氯喹去除蓄积的卟啉。
+使用直接抗病毒药物治疗丙型肝炎病毒感染的患者以实现治愈。
+使用直接抗病毒药物治疗丙型肝炎病毒感染的患者以实现治愈。
+对人类免疫缺陷病毒感染患者进行抗逆转录病毒治疗。
+对人类免疫缺陷病毒感染患者进行抗逆转录病毒治疗。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+American Porphyria Foundation: 旨在教育和支持受卟啉症影响的患者和家庭，并支持卟啉症的治疗和预防研究
+American Porphyria Foundation: 旨在教育和支持受卟啉症影响的患者和家庭，并支持卟啉症的治疗和预防研究
+American Porphyria Foundation:Safe/Unsafe Drug Database: Provides an up-to-date list of medications available in the United States to assist physicians in prescribing for patients with porphyrias
+American Porphyria Foundation:Safe/Unsafe Drug Database: Provides an up-to-date list of medications available in the United States to assist physicians in prescribing for patients with porphyrias
+United Porphyrias Association: Provides education and support to patients and their families; provides reliable information to health-care providers; fosters and supports clinical research to improve diagnosis and management of the porphyrias
+United Porphyrias Association: Provides education and support to patients and their families; provides reliable information to health-care providers; fosters and supports clinical research to improve diagnosis and management of the porphyrias
+International Porphyria Network: Promotes clinical research about porphyrias
+International Porphyria Network: Promotes clinical research about porphyrias
+The Drug Database for Acute Porphyrias: Provides an up-to-date list of medications available in Europe to assist physicians in prescribing for patients with porphyrias
+The Drug Database for Acute Porphyrias: Provides an up-to-date list of medications available in Europe to assist physicians in prescribing for patients with porphyrias

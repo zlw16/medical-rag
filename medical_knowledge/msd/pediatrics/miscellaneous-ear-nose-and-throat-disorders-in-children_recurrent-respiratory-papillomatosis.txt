@@ -1,0 +1,36 @@
+标题：复发性呼吸道乳头状瘤
+来源：https://www.msdmanuals.cn/professional/pediatrics/miscellaneous-ear-nose-and-throat-disorders-in-children/recurrent-respiratory-papillomatosis
+============================================================
+
+复发性呼吸道乳头状瘤最常发生于喉部，以喉部乳头状肿块形式出现。喉乳头状瘤可以发生在任何年龄，但最常发生在1到4岁之间。
+它们可以治疗后再次出现，经历恶性转化，和/或偶尔扩散到气管或肺内。
+
+【复发性呼吸道乳头状瘤的症状和体征】
+复发性呼吸道乳头瘤的症状包括微弱的哭泣，声音嘶哑，严重病例出现呼吸道阻塞。
+
+【复发性呼吸道乳头状瘤病的诊断】
+喉镜检查
+喉镜检查
+通过喉镜检查可发现肿瘤。复发性呼吸道乳头状瘤病可能是单发性病变，也可能表现为多发性病变。
+诊断通过活检确诊。
+
+【复发性呼吸道乳头状瘤病的治疗】
+手术切除
+手术切除
+复发性呼吸道乳头瘤病的治疗方法是手术切除。因为肿瘤可能在数周或数月复发，可能需要多次手术，随访喉镜和支气管镜是必要的。手术可能包括脉冲染料激光治疗或光动力疗法 (1)。
+对于严重的病例，可以试用抗病毒药物（如，西多福韦）或抗癌药物（如贝伐单抗）（2）。某些患者的病变可能在青春期消退。
+
+【治疗参考文献】
+1.Donne AJ, Keltie K, Burn J, et al.Current Practice, Safety and Efficacy of Interventions for Recurrent Respiratory Papillomatosis: Evidence From a UK Registry.Clin Otolaryngol.2025;50(2):271-279.doi:10.1111/coa.14245
+1.Donne AJ, Keltie K, Burn J, et al.Current Practice, Safety and Efficacy of Interventions for Recurrent Respiratory Papillomatosis: Evidence From a UK Registry.Clin Otolaryngol.2025;50(2):271-279.doi:10.1111/coa.14245
+2.Derkay CS, Bluher AE.Update on recurrent respiratory papillomatosis.Otolaryngol Clin North Am.2016;52(4):669–679.doi:10.1016/j.otc.2019.03.011
+2.Derkay CS, Bluher AE.Update on recurrent respiratory papillomatosis.Otolaryngol Clin North Am.2016;52(4):669–679.doi:10.1016/j.otc.2019.03.011
+
+【预防复发性呼吸道乳头状瘤病】
+HPV疫苗有望预防该病，接种HPV6型和11型疫苗可有效降低疾病发生率。尽管在儿童中的疗效尚未证实，但在成人中已被证实（1、2）。
+
+【预防参考文献】
+1.Seedat RY, Dikkers FG.Global Epidemiology of HPV-Associated Recurrent Respiratory Papillomatosis and Effect of Vaccination.Future Virol. 2022;17(5):265–268.https://doi.org/10.2217/fvl-2021-0278
+1.Seedat RY, Dikkers FG.Global Epidemiology of HPV-Associated Recurrent Respiratory Papillomatosis and Effect of Vaccination.Future Virol. 2022;17(5):265–268.https://doi.org/10.2217/fvl-2021-0278
+2.Smahelova J, Hamsikova E, Ludvikova V, et al.Outcomes After Human Papillomavirus Vaccination in Patients With Recurrent Respiratory Papillomatosis: A Nonrandomized Clinical Trial.JAMA Otolaryngol Head Neck Surg.2022;148(7):654-661.doi:10.1001/jamaoto.2022.1190
+2.Smahelova J, Hamsikova E, Ludvikova V, et al.Outcomes After Human Papillomavirus Vaccination in Patients With Recurrent Respiratory Papillomatosis: A Nonrandomized Clinical Trial.JAMA Otolaryngol Head Neck Surg.2022;148(7):654-661.doi:10.1001/jamaoto.2022.1190

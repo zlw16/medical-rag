@@ -1,0 +1,368 @@
+标题：社区获得性肺炎
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/pneumonia/community-acquired-pneumonia
+============================================================
+
+(参见肺炎概述。）
+
+【社区获得性肺炎的病因】
+许多微生物如细菌、病毒和真菌都可引起社区获得性肺炎。如果病人的年龄和其他影响因素不同，感染的病原体亦不同（见表成人社区获得性肺炎）。但每种病原体作为病因的相对重要性尚不明确，因为大多数病人没有经过彻底检查，而即使检查，特异性病原体的检出率亦<50%。
+
+【细菌原因】
+最常见的细菌性病因为
+S. pneumoniae
+S. pneumoniae
+H. influenzae流感嗜血杆菌
+H. influenzae流感嗜血杆菌
+C. pneumoniae（肺炎衣原体）
+C. pneumoniae（肺炎衣原体）
+M. pneumoniae肺炎支原体
+M. pneumoniae肺炎支原体
+衣原体和支原体感染引起的肺炎临床上很难与其他病原体引起的肺炎相区别。
+C. pneumoniae（肺炎衣原体是5至35岁健康人群中第二大常见肺部感染原因。C. pneumoniae（肺炎衣原体）也是家庭内、大学寝室和军队训练营内呼吸道感染暴发流行的最常见原因。这类肺炎预后良好，很少需要住院治疗。鹦鹉热衣原体肺炎（鹦鹉热）较少见，常发生于养鸟（即鹦鹉、长尾小鹦鹉、金刚鹦鹉）人或经常与鸟接触的人。
+自2000年以来，社区获得性耐甲氧西林金黄色葡萄球菌Staphylococcus aureus（金黄色葡萄球菌）（CA-MRSA）皮肤感染发病率明显升高。这种病菌很少能引起严重的、空洞肺炎，并且往往影响年轻人。
+S. pneumoniae（肺炎链球菌）和S. aureus（金黄色葡萄球菌）（包括 MRSA）可导致坏死性肺炎。
+对可能的 MRSA 肺炎的识别基于对风险因素的评估，包括已知的 MRSA 定植（鼻腔）、先前的 MRSA 感染、相容的革兰氏染色、过去 3 个月内住院或使用抗生素、免疫抑制、坏死性或空洞性肺炎、近期流感、脓胸。
+识别可能的P. aeruginosa（铜绿假单胞菌）肺炎是基于对风险因素的评估，包括已知的假单胞菌定植、先前的假单胞菌感染、过去 3 个月内住院或使用抗生素、严重的慢性阻塞性肺病 (COPD) 或其他结构性肺病以及免疫抑制。
+Q 热、野兔热、炭疽和鼠疫是与接触受感染的动物或动物产品有关的罕见细菌综合征，其中肺炎可能是其主要特征。土拉菌病，炭疽热和鼠疫应当怀疑与生物恐怖主义相关。
+
+【病毒原因】
+病毒感染继发的细菌感染难以和单纯的细菌感染区分。
+常见的病毒原因包括
+冠状病毒（从2020年开始，主要是 SARS-CoV-2）
+冠状病毒（从2020年开始，主要是 SARS-CoV-2）
+呼吸道合胞病毒（RSV）
+呼吸道合胞病毒（RSV）
+流感病毒
+流感病毒
+副流感病毒
+副流感病毒
+副流感病毒
+副流感病毒
+EB病毒和柯萨奇病毒是常见的病毒，但很少引起肺炎。季节性流感很少能直接导致病毒性肺炎，但往往容易诱发严重的继发性细菌性肺炎。水痘病毒和汉坦病毒作为成人水痘和汉坦病毒肺综合征的一部分引起肺部感染。冠状病毒引起严重急性呼吸综合征（SARS）、中东呼吸综合征（MERS)和COVID-19。
+
+【其他病因】
+最常见的真菌包括Histoplasma capsulatum（荚膜组织胞浆菌）（组织胞浆菌病）和Coccidioides immitis（粗球孢子菌）（球孢子菌病）。较少见的真菌病原体包括Blastomyces dermatitidis（皮炎芽生菌）（芽生菌病）和Paracoccidioides braziliensis（巴西芽生菌）（副球孢子菌病）。Pneumocystis jirovecii（耶氏肺孢子菌）肺炎常见于人免疫缺陷病毒（HIV）感染的病人或免疫抑制患者(见免疫缺陷患者的肺炎)。
+在高收入国家引起肺部感染的寄生虫包括Toxocara canis（犬弓首蛔虫）或T. catis（猫弓首蛔虫）（弓形虫病）、Dirofilaria immitis（犬恶丝虫）（丝虫病）和Paragonimus westermani（卫氏并殖吸虫）（肺吸虫病）。
+肺结核和非结核分枝杆菌感染在其他地方讨论。
+
+【小儿肺炎】
+在儿童，肺炎的最常见病因取决于年龄：
+<5岁：病毒最为常见，细菌中S. pneumoniae（肺炎链球菌）,S. aureus（金黄色葡萄球菌）, 和S. pyogenes（化脓性链球菌）较多见
+<5岁：病毒最为常见，细菌中S. pneumoniae（肺炎链球菌）,S. aureus（金黄色葡萄球菌）, 和S. pyogenes（化脓性链球菌）较多见
+≥5岁：细菌多见，常见S. pneumoniae（肺炎链球菌）、M. pneumoniae（肺炎支原体）及Chlamydia pneumoniae（肺炎衣原体）
+≥5岁：细菌多见，常见S. pneumoniae（肺炎链球菌）、M. pneumoniae（肺炎支原体）及Chlamydia pneumoniae（肺炎衣原体）
+新生儿肺炎在其他章节讨论
+
+【社区获得性肺炎的症状和体征】
+症状包括乏力、畏寒、寒战、发热、咳嗽、呼吸困难和胸痛。年长儿童和成人常有咳痰，而婴儿、低龄儿童和老年人常常表现为干咳。呼吸困难通常较轻，多是劳力性的，很少在休息时发生。胸痛由胸膜炎症引起，靠近感染部位。当肺下叶感染刺激膈肌时可表现为上腹部疼痛。胃肠道症状（恶心、呕吐、腹泻）也较为常见。
+在极端年龄时，症状会变得多变。婴儿感染可能表现为非特异性易怒和烦躁。在老年人中，感染可能表现为意识模糊和迟钝。
+体征包括发热、呼吸急促、心动过速、湿啰音、支气管呼吸音、羊鸣音（E到A的变化—听诊时病人发字母“E”的音，检查者通过听诊器听到字母“A”的音）、以及叩诊浊音。也可出现胸腔积液的体征。鼻翼扇动、辅助呼吸肌参与呼吸及发绀在婴儿中是很常见的。老年人常无发热表现。
+以前认为病原体不同，症状和体征也不同。然而，对于典型和非典型病原体，患者所表现出现临床特征常有重叠。另外，尚无足够敏感和特异的单一症状或体征可以用来预测病原体。症状和体征甚至与一些非感染性炎性肺部疾病相似，如过敏性肺炎和隐源性机化性肺炎。
+
+【社区获得性肺炎的诊断】
+胸部X线检查
+胸部X线检查
+考虑其他诊断（例如，心力衰竭、肺栓塞、炎症性肺病）
+考虑其他诊断（例如，心力衰竭、肺栓塞、炎症性肺病）
+必要时需鉴定病原体
+必要时需鉴定病原体
+评估严重性和风险分层
+评估严重性和风险分层
+肺炎根据临床表现及胸片浸润影可以拟诊。 当临床高度怀疑肺炎但胸片无浸润影时，建议行计算机断层扫描（CT）检查或24-48h后复查胸片。
+使用各种临床和实验室因素来评估肺炎的严重程度（见风险分层），有时会使用定量评分系统进行组织评估。
+通常，测试包括氧饱和度、全血细胞计数以及基本或完整的代谢情况。
+出现肺炎样症状患者的鉴别诊断包括急性支气管炎和慢性阻塞性肺疾病（COPD）急性加重，可以通过胸部X线检查无浸润影与肺炎相鉴别。其他疾病如心力衰竭，机化性肺炎， 和过敏性肺炎也应予以考虑，特别是当检查结果不一致时。最严重的常见误诊是肺栓塞，在急性起病呼吸困难、痰量极少、无伴有上呼吸道感染或全身性症状、有血栓栓塞危险因素的患者中更容易发生(见表深静脉血栓形成和肺栓塞的危险因素);因此，在有这些症状和危险因素的患者中，应考虑进行肺栓塞检测。
+对支气管镜或吸取标本进行定量培养（如果在使用抗生素之前获得）有助于区分细菌定植（即微生物的现有水平既不会引起症状也不会引起炎症反应）和感染。 然而，支气管镜检查通常只对接受机械通气的患者进行，以及具有罕见微生物感染或复杂性肺炎危险因素的患者进行（例如，免疫功能低下，经验性治疗失败）。
+鉴别细菌性和病毒性肺炎是具有挑战性的。许多研究分析了临床表现、影像学和血常规对于鉴别诊断的效用，但没有一种检查方法足够可靠来进行这种鉴别。即使是病毒的鉴定也不能排除伴随细菌的感染；因此，几乎所有社区获得性肺炎患者都需要使用抗生素。
+在轻度肺炎门诊患者中，除流感季节进行COVID-19检测和流感检测外，不需要进一步进行诊断检测(见表社区获得性肺炎的风险分层)。对于中度或重度肺炎患者，应进行血白细胞计数、电解质、尿素氮（BUN）和血肌酐检查以进行危险分层和评估体液状态。应进行脉氧饱和度或动脉血气分析测定以评估氧合情况。对于需要住院的中度或重度肺炎患者，需要抽取2套血培养以评估菌血症和败血症。这些患者需要进行的其他检测包括痰液革兰氏染色和培养、尿液肺炎球菌和军团菌抗原检测、多重聚合酶链反应（PCR）呼吸道病毒检测和 HIV 筛查。对于某些重症患者，尤其是免疫功能低下的患者，需要进行支气管镜检查以获取下呼吸道标本（1）。
+
+【病原体鉴定】
+病因诊断可能很困难。全面了解暴露史、旅游史、宠物、兴趣爱好及其他暴露史对于怀疑少见的病原体感染至关重要。例如，接触农场动物可能提示 Q 热，最近入住酒店或游轮可能提示军团菌感染。
+病原体的鉴定有助于指导治疗和确定细菌对抗生素的敏感性。 然而，由于目前诊断性检测的局限性和经验性抗生素治疗的成功，专家建议在微生物鉴定方面进行有限的尝试（例如培养、特异性抗原的检测），除非患者处于高风险或有并发症（例如重症肺炎、免疫功能低下，无脾，经验性抗感染治疗失败）。通常，肺炎的表现越轻微，需要的诊断性测试更少。危重患者、怀疑感染抗生素耐药性病原体或不常见病原体（例如，Mycobacterium tuberculosis（结核杆菌），P. jirovecii（耶氏肺孢子菌）) 的患者，以及病情恶化或 72 小时内对治疗没有反应的患者需要进行最密集的检测。
+胸片通常不能区分不同的感染病原体，尽管以下的胸片结果提示：
+多叶性浸润提示S. pneumoniae（肺炎链球菌）或Legionella pneumophila（嗜肺军团菌）感染。
+多叶性浸润提示S. pneumoniae（肺炎链球菌）或Legionella pneumophila（嗜肺军团菌）感染。
+间质性肺炎（胸片表现为肺纹理增多、胸膜下从肺尖向肺底部增加的网状透亮阴影）提示病因为病毒或支原体感染。
+间质性肺炎（胸片表现为肺纹理增多、胸膜下从肺尖向肺底部增加的网状透亮阴影）提示病因为病毒或支原体感染。
+空洞性肺炎提示S. aureus（金黄色葡萄球菌）或真菌或分枝杆菌感染。
+空洞性肺炎提示S. aureus（金黄色葡萄球菌）或真菌或分枝杆菌感染。
+此胸片显示与右心缘相融合的浸润影（即剪影征）。剪影征表明2个具有相似放射密度的结构在解剖位置上相邻，与右心缘相邻的肺组织为右中叶，是浸润性和肺炎的部分。
+此胸片显示与右心缘相融合的浸润影（即剪影征）。剪影征表明2个具有相似放射密度的结构在解剖位置上相邻，与右心缘相邻的肺组织为右中叶，是浸润性和肺炎的部分。
+SCIENCE PHOTO LIBRARY
+此胸片显示不遮挡右心缘的浸润影（即没有剪影征）。因为当两个邻近的结构具有相似的放射密度时就会出现剪影征，所以受此浸润影响的肺组织是与右心缘不相邻的部分；该部分为右肺下叶。
+此胸片显示不遮挡右心缘的浸润影（即没有剪影征）。因为当两个邻近的结构具有相似的放射密度时就会出现剪影征，所以受此浸润影响的肺组织是与右心缘不相邻的部分；该部分为右肺下叶。
+LIVING ART ENTERPRISES, LLC/SCIENCE PHOTO LIBRARY
+细菌性肺炎男性患者的左肺下叶肺泡浸润。
+细菌性肺炎男性患者的左肺下叶肺泡浸润。
+By permission of the publisher.摘自 Roberts R.InAtlas of Infectious Diseases: Pleuropulmonary and Bronchial Infections.由GL Mandell（系列编辑）和MS Simberkoff编辑。Philadelphia, Current Medicine, 1996.
+64岁男性肺炎球菌性肺炎患者右肺上、中、下叶实变。
+64岁男性肺炎球菌性肺炎患者右肺上、中、下叶实变。
+By permission of the publisher.摘自 Roberts R.InAtlas of Infectious Diseases: Pleuropulmonary and Bronchial Infections.由GL Mandell（系列编辑）和MS Simberkoff编辑。Philadelphia, Current Medicine, 1996.
+老年呼吸道合胞病毒性肺炎患者双侧肺间质混浊。
+老年呼吸道合胞病毒性肺炎患者双侧肺间质混浊。
+By permission of the publisher.摘自Betts R, Falsey A, Hall C, et al.InAtlas of Infectious Diseases: Pleuropulmonary and Bronchial Infections.由GL Mandell（系列编辑）和MS Simberkoff编辑。Philadelphia, Current Medicine, 1996.
+此例插管患者有多个双侧浸润影，以右肺上叶为主。箭头指示右侧水平裂。
+此例插管患者有多个双侧浸润影，以右肺上叶为主。箭头指示右侧水平裂。
+Photo courtesy of Thomas M.File, Jr., 医学博士，理学硕士，美国医师学会、美国传染病学会、美国胸科医师学会会员。
+此胸片显示与右心缘相融合的浸润影（即剪影征）。剪影征表明2个具有相似放射密度的结构在解剖位置上相邻，与右心缘相邻的肺组织为右中叶，是浸润性和肺炎的部分。
+此胸片显示与右心缘相融合的浸润影（即剪影征）。剪影征表明2个具有相似放射密度的结构在解剖位置上相邻，与右心缘相邻的肺组织为右中叶，是浸润性和肺炎的部分。
+SCIENCE PHOTO LIBRARY
+此胸片显示不遮挡右心缘的浸润影（即没有剪影征）。因为当两个邻近的结构具有相似的放射密度时就会出现剪影征，所以受此浸润影响的肺组织是与右心缘不相邻的部分；该部分为右肺下叶。
+此胸片显示不遮挡右心缘的浸润影（即没有剪影征）。因为当两个邻近的结构具有相似的放射密度时就会出现剪影征，所以受此浸润影响的肺组织是与右心缘不相邻的部分；该部分为右肺下叶。
+LIVING ART ENTERPRISES, LLC/SCIENCE PHOTO LIBRARY
+细菌性肺炎男性患者的左肺下叶肺泡浸润。
+细菌性肺炎男性患者的左肺下叶肺泡浸润。
+By permission of the publisher.摘自 Roberts R.InAtlas of Infectious Diseases: Pleuropulmonary and Bronchial Infections.由GL Mandell（系列编辑）和MS Simberkoff编辑。Philadelphia, Current Medicine, 1996.
+64岁男性肺炎球菌性肺炎患者右肺上、中、下叶实变。
+64岁男性肺炎球菌性肺炎患者右肺上、中、下叶实变。
+By permission of the publisher.摘自 Roberts R.InAtlas of Infectious Diseases: Pleuropulmonary and Bronchial Infections.由GL Mandell（系列编辑）和MS Simberkoff编辑。Philadelphia, Current Medicine, 1996.
+老年呼吸道合胞病毒性肺炎患者双侧肺间质混浊。
+老年呼吸道合胞病毒性肺炎患者双侧肺间质混浊。
+By permission of the publisher.摘自Betts R, Falsey A, Hall C, et al.InAtlas of Infectious Diseases: Pleuropulmonary and Bronchial Infections.由GL Mandell（系列编辑）和MS Simberkoff编辑。Philadelphia, Current Medicine, 1996.
+此例插管患者有多个双侧浸润影，以右肺上叶为主。箭头指示右侧水平裂。
+此例插管患者有多个双侧浸润影，以右肺上叶为主。箭头指示右侧水平裂。
+Photo courtesy of Thomas M.File, Jr., 医学博士，理学硕士，美国医师学会、美国传染病学会、美国胸科医师学会会员。
+血培养，多数来自住院的肺炎患者，在存在菌血症时可以明确致病的细菌病原体。所有住院肺炎患者中约有 7% 至 12% 患有菌血症；S. pneumoniae（肺炎链球菌）是这些病例中最常见的病原体（2）。
+痰标本的检测包括革兰染色和痰培养以明确病原体，但其是否有诊断意义尚存争议，因为痰标本常常被口腔菌群污染且检出率低。尽管如此，典型的革兰氏染色结果可以引起对 MRSA 或P. aeruginosa（铜绿假单胞菌）的怀疑，并且在痰培养中鉴定出细菌病原体可以进行药敏试验。获取的痰标本也允许通过直接荧光抗体检测或聚合酶链反应（PCR）技术检测病毒病原体，但对结果需要谨慎的解释，因为在15%的健康成人中携带有呼吸道病毒或潜在的细菌病原体。对于病情恶化以及对广谱抗生素治疗无效的患者，应当进行痰标本分枝杆菌和真菌的涂片和培养。
+痰液样本可通过简单咳痰无创方式获得，对于无法产生痰液的患者，可通过高渗盐水雾化（诱导痰）获得。或者，患者可以接受支气管镜检查或气管内吸痰。对于使用机械通气的患者，这两种手术都可以通过气管内插管轻松完成。 除此之外，支气管镜取样通常只对有其他危险因素的患者进行（如，免疫功能低下，经验性治疗失败）。
+尿标本检测Legionella（军团菌）抗原和肺炎球菌抗原目前被广泛使用。与这些病原体痰标本革兰染色和培养相比，这些测试方法简单、快速，具有较高的敏感度和特异度。尿液中Legionella（军团菌）抗原在治疗开始后很长时间内仍然存在，并且该检测仅针对L. pneumophila（嗜肺军团菌）1 血清群（占 70% 的病例）。
+对于出现肺炎的患者，建议使用逆转录酶-聚合酶链反应 (RT-PCR) 检测呼吸道分泌物（首选鼻咽标本）进行COVID-19 检测。
+鼻咽拭子、痰液和支气管镜样本还可以通过多重 PCR 检测其他病毒，包括流感病毒、呼吸道合胞病毒和其他呼吸道病毒、非典型病原体和细菌。由于基线定植和下呼吸道样本的验证不完整，应谨慎解释这些结果。
+血清降钙素原可以帮助区分细菌感染与其他感染或炎症原因。然而，不推荐使用血清降钙素原水平作为社区获得性肺炎是否开始抗生素治疗的标准。它可与临床判断一起用于指导下呼吸道感染早期停用抗生素。
+
+【诊断参考】
+1.Metlay JP, Waterer GW, Long AC, et al.Diagnosis and Treatment of Adults with Community-acquired Pneumonia.An Official Clinical Practice Guideline of the American Thoracic Society and Infectious Diseases Society of America.Am J Respir Crit Care Med2019;200(7):e45-e67.doi:10.1164/rccm.201908-1581ST
+1.Metlay JP, Waterer GW, Long AC, et al.Diagnosis and Treatment of Adults with Community-acquired Pneumonia.An Official Clinical Practice Guideline of the American Thoracic Society and Infectious Diseases Society of America.Am J Respir Crit Care Med2019;200(7):e45-e67.doi:10.1164/rccm.201908-1581ST
+2.Metersky ML, Ma A, Bratzler DW, Houck PM.Predicting bacteremia in patients with community-acquired pneumonia.Am J Respir Crit Care Med2004;169(3):342-347.doi:10.1164/rccm.200309-1248OC
+2.Metersky ML, Ma A, Bratzler DW, Houck PM.Predicting bacteremia in patients with community-acquired pneumonia.Am J Respir Crit Care Med2004;169(3):342-347.doi:10.1164/rccm.200309-1248OC
+
+【社区获得性肺炎的治疗】
+风险分层以决定护理设置
+风险分层以决定护理设置
+流感或水痘的抗病毒治疗
+流感或水痘的抗病毒治疗
+特定危重患者全身性皮质类固醇治疗
+特定危重患者全身性皮质类固醇治疗
+支持治疗
+支持治疗
+
+【危险度分级】
+风险分层通过风险预测标准来评估死亡风险，以帮助指导决定是否住院 (1)。这些标准已经被用来区分哪些病人可以安全地在门诊治疗，哪些病人有出现并发症的高度危险性而需住院治疗（见表社区获得性肺炎风险分层）。但是，这些标准应作为临床判断的补充，而非替代，因为存在许多未显现的因素，如依从性、自我照顾的能力以及维持口服摄入的能力，均会影响决策的制定。
+需要入住重症监护病房（ICU）的患者
+需要机械通气
+需要机械通气
+存在对容量复苏无反应的低血压（收缩压≤90 mm Hg）
+存在对容量复苏无反应的低血压（收缩压≤90 mm Hg）
+其他应考虑入住 ICU 的标准，特别是如果 ≥ 3 项，包括
+需要液体支持的低血压
+需要液体支持的低血压
+呼吸频率>30次/分
+呼吸频率>30次/分
+动脉血氧分压 (PaO2)/吸入氧分数 (FIO2)<250
+动脉血氧分压 (PaO2)/吸入氧分数 (FIO2)<250
+多叶性肺炎
+多叶性肺炎
+精神错乱
+精神错乱
+血尿素氮（BUN）>19.6 mg/dL（>7 mmol/L）
+血尿素氮（BUN）>19.6 mg/dL（>7 mmol/L）
+白细胞计数<4000 个细胞/微升 (<4×109/L)
+白细胞计数<4000 个细胞/微升 (<4×109/L)
+血小板计数<100,000/microL (<100×109/L)
+血小板计数<100,000/microL (<100×109/L)
+温度<36℃
+温度<36℃
+这肺炎严重程度指数（PSI）是首选的验证预测规则（1）。然而，由于 PSI 很复杂并且需要多次实验室评估，因此 CURB-65 等更简单的规则是一种有用的替代方案。这些预测指标的使用降低了非重症患者不必要的住院率。
+在CURB-65评分体系中，以下高危因素各得1分：
+意识障碍
+意识障碍
+氮质血症（BUN≥19mg/dL[6.8 mmol/L]）
+氮质血症（BUN≥19mg/dL[6.8 mmol/L]）
+呼吸频率>30次/min
+呼吸频率>30次/min
+收缩压<90mmHg或舒张压≤60mmHg
+收缩压<90mmHg或舒张压≤60mmHg
+年龄≥65岁
+年龄≥65岁
+分级如下：
+0或1分：死亡风险<3％。通常适合门诊治疗，特别是当唯一的风险点与年龄相关时。
+0或1分：死亡风险<3％。通常适合门诊治疗，特别是当唯一的风险点与年龄相关时。
+2分：死亡风险为9％。应考虑收入院治疗。
+2分：死亡风险为9％。应考虑收入院治疗。
+≥3分：死亡风险为15％至40％。需要住院治疗，特别是4分或5分的患者，应考虑收住ICU。
+≥3分：死亡风险为15％至40％。需要住院治疗，特别是4分或5分的患者，应考虑收住ICU。
+在无法获得 BUN 测量值的临床环境中，CRB-65 分数可以代替使用。CRB-65评分的使用与CURB-65相似，0分：适合门诊治疗； 1-2分：考虑住院；≥3分：考虑入住ICU。
+
+【社区获得性肺炎的危险度分层（PSI）】
+社区获得性肺炎的危险度分层（PSI）
+病人的基本特征
+年龄（岁）
+年龄（岁）−10
+疗养院居住者
+合并疾病
+心脏衰竭
+脑血管病变
+体格检查
+神志改变
+呼吸频率≥ 30次/分
+收缩压<90mmHg
+体温≥40°C或<35°C
+心率≥125次/分
+化验结果
+动脉血气 pH<7.35
+血尿素氮≥30 mg/dL（11mmol/L）
+钠<130 毫当量/升（130 毫摩尔/升）
+血糖≥250 mg/dL（14mmol/L）
+血细胞比容<30%
+PaO2<60mmHg或
+氧饱和度<90%*
+胸腔积液
+门诊治疗†
+71−90
+门诊治疗†
+91−130
+5−15%
+住院治疗
+>130
+>15%
+住院治疗
+*许多学者认为低氧血症是住院治疗的绝对适应症。
+†虚弱、独居或生活环境欠佳的病人应考虑紧急入院、次紧急入院、观察、家庭静脉使用抗生素或家庭护理访视。
+PaO2 = 动脉氧分压。
+Adapted fromFine MJ, Auble TE, Yealy DM, et al.A prediction rule to identify low-risk patients with community-acquired pneumonia.N Engl J Med1997;336(4):243-250.doi:10.1056/NEJM199701233360402.
+*许多学者认为低氧血症是住院治疗的绝对适应症。
+†虚弱、独居或生活环境欠佳的病人应考虑紧急入院、次紧急入院、观察、家庭静脉使用抗生素或家庭护理访视。
+PaO2 = 动脉氧分压。
+Adapted fromFine MJ, Auble TE, Yealy DM, et al.A prediction rule to identify low-risk patients with community-acquired pneumonia.N Engl J Med1997;336(4):243-250.doi:10.1056/NEJM199701233360402.
+抗生素治疗是社区获得性肺炎的主要治疗手段。合理的治疗包括尽早经验性使用抗生素，最好在起病4小时内开始治疗。因为病原体鉴定较困难且花费时间，所以需针对可能的病原体，结合病情的严重程度，制定经验性抗感染治疗方案。许多专业组织制定了共识指南；一套广泛使用的指南详见表成人社区获得性肺炎（另见美国美国胸腔学会和传染病协会社区感染性肺炎临床指南）。指南应该与当地的耐药数据，药品目录及患者个人情况相结合 （例如，特定暴露）。如果病原体明确，药敏试验结果有助于指导调整抗生素的治疗。可以考虑奥马环素和来法莫林，尤其是在通常推荐的选择不合适的情况下。
+对于儿童来说，治疗方案取决于年龄，疫苗接种史，以及治疗场所（门诊或住院）。
+对于作为门诊患者治疗的儿童，治疗方案取决于年龄：
+<5岁：阿莫西林或阿莫西林/克拉维酸通常是首选药物。 如果流行病学提示为非典型病原体感染，且与临床表现相符合，则可选择大环内酯类药物（例如，阿奇霉素、克拉霉素）。一些专家认为，在临床表现强烈提示为病毒性肺炎的情况下，不建议使用抗生素。
+<5岁：阿莫西林或阿莫西林/克拉维酸通常是首选药物。 如果流行病学提示为非典型病原体感染，且与临床表现相符合，则可选择大环内酯类药物（例如，阿奇霉素、克拉霉素）。一些专家认为，在临床表现强烈提示为病毒性肺炎的情况下，不建议使用抗生素。
+≥5岁：阿莫西林或（特别是不能排除非典型病原体感染时）阿莫西林联合大环内酯类。阿莫西林/克拉维酸是备选方案。如果怀疑非典型病原体感染，可予以大环内酯类单药治疗。
+≥5岁：阿莫西林或（特别是不能排除非典型病原体感染时）阿莫西林联合大环内酯类。阿莫西林/克拉维酸是备选方案。如果怀疑非典型病原体感染，可予以大环内酯类单药治疗。
+住院患儿的治疗，需更为积极地选择广谱抗生素，并结合患儿疫苗接种史：
+完全免疫（对S. pneumoniae（肺炎链球菌）和H. influenzae（流感嗜血杆菌））：氨苄青霉素或青霉素G（替代选择为头孢曲松或头孢噻肟）。如果怀疑MRSA，加用万古霉素或克林霉素。如果非典型病原体不除外，加用大环内酯类。
+完全免疫（对S. pneumoniae（肺炎链球菌）和H. influenzae（流感嗜血杆菌））：氨苄青霉素或青霉素G（替代选择为头孢曲松或头孢噻肟）。如果怀疑MRSA，加用万古霉素或克林霉素。如果非典型病原体不除外，加用大环内酯类。
+不完全接种：头孢曲松或头孢噻肟（备选为左氧氟沙星）。如果怀疑MRSA，加用万古霉素或克林霉素。如果非典型病原体不除外，加用大环内酯类。
+不完全接种：头孢曲松或头孢噻肟（备选为左氧氟沙星）。如果怀疑MRSA，加用万古霉素或克林霉素。如果非典型病原体不除外，加用大环内酯类。
+详见儿科感染病协会及美国感染病协会临床实践指南Clinical Practice Guidelines by the Pediatric Infectious Diseases Society and the Infectious Diseases Society of America。
+经验性治疗可使90%的细菌性肺炎病情得到改善。病情改善表现为咳嗽和呼吸困难减轻，体温下降，胸痛缓解，白细胞计数下降。如病情无缓解
+需怀疑罕见病原体
+需怀疑罕见病原体
+抗生素治疗效果不佳
+抗生素治疗效果不佳
+合并另一种病原体的多重感染
+合并另一种病原体的多重感染
+梗阻性支气管内病变
+梗阻性支气管内病变
+免疫缺陷
+免疫缺陷
+感染播散（肺炎球菌感染）
+感染播散（肺炎球菌感染）
+依从性不佳（门诊患者）
+依从性不佳（门诊患者）
+错误诊断（即疾病的非感染性原因，如急性过敏性肺炎）
+错误诊断（即疾病的非感染性原因，如急性过敏性肺炎）
+如常规治疗失败，需请肺科和/或传染病专家会诊。
+抗病毒治疗可能适用于特定的病毒性肺炎。利巴韦林不常规用于儿童或成人呼吸道合胞病毒肺炎的治疗，但偶可用于少数年龄<24个月的高危儿童。
+对于流感，在症状出现后 48 小时内开始使用奥司他韦或扎那米韦，连续服用 5 天，可以减少流感感染患者的症状持续时间和严重程度。或者，可以在症状出现后 48 小时内开始单剂量服用巴洛沙韦。确诊感染流感并住院的患者即使在症状出现 48 小时后也可能受益。
+建议患有水痘肺部感染的儿童和成人使用阿昔洛韦。
+虽然确实会发生纯粹的病毒性肺炎，但继发细菌感染很常见，需要针对S. pneumoniae（肺炎链球菌）、H. influenzae（流感嗜血杆菌）和S. aureus（金黄色葡萄球菌）使用抗生素。
+对于肺炎按预期在临床上消退的患者，通常不建议进行随访 X 光检查。放射学异常的消失可能会滞后于临床治愈后数周。对于肺炎症状不消退或随时间恶化的患者，应考虑进行胸部 X 线检查。
+
+【成人社区获得性肺炎】
+成人社区获得性肺炎
+可能的病原体
+经验性治疗
+I.门诊患者——无合并症或 MRSA 和Pseudomonas aeruginosa（铜绿假单胞菌）风险因素*
+Streptococcus pneumoniae（肺炎链球菌）、Mycoplasma pneumoniae（肺炎支原体）、Chlamydia pneumoniae（肺炎衣原体）、Haemophilus influenzae（流感嗜血杆菌）、呼吸道病毒、其他微生物（例如Legionella（军团菌）、Mycobacterium tuberculosis（结核分枝杆菌）、地方性真菌）
+阿莫西林
+联合下列任何一种
+大环内酯类（阿奇霉素或克拉霉素）
+强力霉素（如果对大环内酯类过敏）
+II.门诊患者——存在合并症*
+S. pneumoniae（肺炎链球菌）（包括耐药菌株）、M. pneumoniae（肺炎支原体）、C. pneumoniae（肺炎衣原体）、混合感染（细菌+非典型病原体或病毒）、H. influenzae（流感嗜血杆菌）、肠道革兰氏阴性菌、呼吸道病毒、其他微生物（例如Moraxella catarrhalis（卡他莫拉菌）、 Legionella（军团菌）、厌氧菌[吸入性感染]、M. tuberculosis（结核分枝杆菌）、地方性真菌）
+β-内酰胺类（头孢泊肟、头孢呋辛、阿莫西林或阿莫西林/克拉维酸）
+联合下列任何一种
+大环内酯类 口服
+口服或静脉注射抗肺炎球菌氟喹诺酮类药物（如莫西沙星、左氧氟沙星）
+III.住院患者——非重症监护室（ICU）患者，无MRSA或P. aeruginosa（铜绿假单胞菌）的风险因素
+S. pneumoniae（肺炎链球菌）、H. influenzae（流感嗜血杆菌）、M. pneumoniae（肺炎支原体）、C. pneumoniae（肺炎衣原体）、混合感染（细菌+非典型病原体或病毒）、呼吸道病毒、Legionella（军团菌）、其他微生物（例如M. tuberculosis（结核分枝杆菌)、地方性真菌、Pneumocystis jirovecii（耶氏肺孢子菌））
+阿奇霉素
+β-内酰胺静脉注射（头孢噻肟或头孢曲松）
+抗肺炎球菌氟喹诺酮类口服或静脉注射（单用）
+IVA.ICU 患者——无 MRSA 风险因素或铜绿假单胞菌
+S. pneumoniae（肺炎链球菌）（包括耐药菌株）、Legionella（军团菌）、H. influenzae（流感嗜血杆菌）、肠道革兰氏阴性菌、Staphylococcus aureus（金黄色葡萄球菌）、M. pneumoniae（肺炎支原体）、呼吸道病毒、其他微生物（例如C. pneumoniae（肺炎衣原体）、M. tuberculosis（结核分枝杆菌)、地方性真菌）
+β-内酰胺静脉注射（头孢噻肟或头孢曲松）
+联合下列任何一种
+抗肺炎球菌的氟喹诺酮类IV
+阿奇霉素
+IVB。住院患者或ICU患者——存在MRSA或Pseudomonas(假单胞菌)风险因素（若既往分离出该菌是唯一风险因素，则仅初始覆盖该病原体并获取培养物）
+与 IVA 类（上文）相同，另加 MRSA 或Pseudomonas(假单胞菌)
+利奈唑胺或万古霉素
+抗假单胞菌β-内酰胺类药物（头孢吡肟、头孢他啶、亚胺培南、美罗培南、哌拉西林/他唑巴坦）或氨曲南（若对β-内酰胺类药物过敏或不耐受）
+*修正因素：
+合并症：慢性心脏、肺、肝或肾疾病；糖尿病；酒精使用障碍；癌症；无脾。
+合并症：慢性心脏、肺、肝或肾疾病；糖尿病；酒精使用障碍；癌症；无脾。
+MRSA 或Pseudomonas aeruginosa（铜绿假单胞菌）感染的危险因素包括先前呼吸道分离出 MRSA 或P. aeruginosa（铜绿假单胞菌），或最近住院并接受肠外抗生素治疗（在过去 90 天内）。
+MRSA 或Pseudomonas aeruginosa（铜绿假单胞菌）感染的危险因素包括先前呼吸道分离出 MRSA 或P. aeruginosa（铜绿假单胞菌），或最近住院并接受肠外抗生素治疗（在过去 90 天内）。
+MRSA= 甲氧西林耐药金黄色葡萄球菌Staphylococcus aureus。
+数据来自梅特雷 JP，WatererGW，Long AC，等。Diagnosis and Treatment of Adults with Community-acquired Pneumonia.An Official Clinical Practice Guideline of the American Thoracic Society and Infectious Diseases Society of America.Am J Respir Crit Care Med2019;200(7):e45-e67.doi:10.1164/rccm.201908-1581ST
+*修正因素：
+合并症：慢性心脏、肺、肝或肾疾病；糖尿病；酒精使用障碍；癌症；无脾。
+合并症：慢性心脏、肺、肝或肾疾病；糖尿病；酒精使用障碍；癌症；无脾。
+MRSA 或Pseudomonas aeruginosa（铜绿假单胞菌）感染的危险因素包括先前呼吸道分离出 MRSA 或P. aeruginosa（铜绿假单胞菌），或最近住院并接受肠外抗生素治疗（在过去 90 天内）。
+MRSA 或Pseudomonas aeruginosa（铜绿假单胞菌）感染的危险因素包括先前呼吸道分离出 MRSA 或P. aeruginosa（铜绿假单胞菌），或最近住院并接受肠外抗生素治疗（在过去 90 天内）。
+MRSA= 甲氧西林耐药金黄色葡萄球菌Staphylococcus aureus。
+数据来自梅特雷 JP，WatererGW，Long AC，等。Diagnosis and Treatment of Adults with Community-acquired Pneumonia.An Official Clinical Practice Guideline of the American Thoracic Society and Infectious Diseases Society of America.Am J Respir Crit Care Med2019;200(7):e45-e67.doi:10.1164/rccm.201908-1581ST
+
+【支持治疗】
+支持性护理包括补液、退热药（高烧所需）、镇痛药和氧疗（针对低氧血症患者）。预防血栓栓塞性疾病，早期活动，有利于改善肺炎住院患者的预后。为吸烟者提供戒烟咨询。
+对于免疫功能正常的重症患者，可以使用辅助皮质类固醇。随机研究表明，对于免疫功能正常的重症肺炎患者（需要呼吸机支持或高流量氧气治疗），早期开始静脉注射氢化可的松 200 毫克，连续输注 4 至 7 天，可降低死亡率和发病率（2）。对于不太严重的肺炎、免疫功能低下的患者或怀疑是病毒性或真菌性肺炎的患者，不建议采用此类治疗。
+
+【治疗参考文献】
+1.Metlay JP, Waterer GW, Long AC, et al.Diagnosis and Treatment of Adults with Community-acquired Pneumonia.An Official Clinical Practice Guideline of the American Thoracic Society and Infectious Diseases Society of America.Am J Respir Crit Care Med2019;200(7):e45-e67.doi:10.1164/rccm.201908-1581ST
+1.Metlay JP, Waterer GW, Long AC, et al.Diagnosis and Treatment of Adults with Community-acquired Pneumonia.An Official Clinical Practice Guideline of the American Thoracic Society and Infectious Diseases Society of America.Am J Respir Crit Care Med2019;200(7):e45-e67.doi:10.1164/rccm.201908-1581ST
+2.Dequin PF, Meziani F, Quenot JP, et al.Hydrocortisonein Severe Community-Acquired Pneumonia.N Engl J Med2023;388(21):1931-1941.doi:10.1056/NEJMoa2215145
+2.Dequin PF, Meziani F, Quenot JP, et al.Hydrocortisonein Severe Community-Acquired Pneumonia.N Engl J Med2023;388(21):1931-1941.doi:10.1056/NEJMoa2215145
+
+【卫生保健相关性肺炎】
+在2016年美国感染病学会（IDSA）和美国胸科学会的医院获得性肺炎指南中，医疗保健相关性肺炎不再作为一个单独的肺炎类别（1）。医疗保健相关性肺炎包括最近与卫生保健系统有接触的社区患者，例如居住在疗养院、其他长期护理场所、透析中心和输液中心的患者。创建该类别的目的是帮助确定体内细菌对抗生素耐药风险增加的患者。但是，2016年的 IDSA指南发现越来越多的证据表明，许多与医疗保健相关的肺炎患者并不感染抗生素耐药菌。相反，这些患者抗生素耐药菌的风险可以基于社区获得性肺炎患者描述的验证性风险因素。
+
+【医护相关性肺炎参考文献】
+1.Kalil AC, Metersky ML, Klompas M, et al.Management of Adults With Hospital-acquired and Ventilator-associated Pneumonia: 2016 Clinical Practice Guidelines by the Infectious Diseases Society of America and the American Thoracic Society [published correction appears in Clin Infect Dis. 2017 May 1;64(9):1298] [published correction appears in Clin Infect Dis. 2017 Oct 15;65(8):1435] [published correction appears in Clin Infect Dis. 2017 Nov 29;65(12):2161].Clin Infect Dis2016;63(5):e61-e111.doi:10.1093/cid/ciw353
+1.Kalil AC, Metersky ML, Klompas M, et al.Management of Adults With Hospital-acquired and Ventilator-associated Pneumonia: 2016 Clinical Practice Guidelines by the Infectious Diseases Society of America and the American Thoracic Society [published correction appears in Clin Infect Dis. 2017 May 1;64(9):1298] [published correction appears in Clin Infect Dis. 2017 Oct 15;65(8):1435] [published correction appears in Clin Infect Dis. 2017 Nov 29;65(12):2161].Clin Infect Dis2016;63(5):e61-e111.doi:10.1093/cid/ciw353
+
+【社区获得性肺炎的预后】
+短期死亡率与疾病的严重程度有关。对于适合于门诊治疗患者，死亡率<1％。住院治疗的患者死亡率8％。死亡可由肺炎本身引起，也可因肺炎进展为败血症或合并症恶化所致。在住院治疗的肺炎病患者中，死亡风险在出院后一年内有所增加。
+死亡率与不同的病原体有一定关系。革兰阴性菌和社区获得性耐甲氧西林金黄色葡萄球菌（CA-MRSA）导致的死亡率最高。然而，由于这些病原体是社区获得性肺炎相对少见的原因,S. pneumoniae（肺炎链球菌）仍然是社区获得性肺炎患者死亡最常见的原因。非典型病原体如Mycoplasma（支原体）预后较好。对于初始经验性抗生素治疗无反应的患者死亡率较高，并且这些患者的治疗方案不符合指南。
+
+【社区获得性肺炎的预防】
+接种疫苗可预防部分社区获得性肺炎。现有的肺炎球菌疫苗和给药时间表将单独讨论。（见肺炎球菌疫苗.)
+其他疫苗的建议，例如b型流感嗜血杆菌（Hib）疫苗（适用于<2岁的患者）、水痘疫苗（适用于<18个月的患者及后续的加强疫苗）和流感疫苗（适用于所有≥6个月者，每年接种，尤其是流感相关严重并发症高风险人群），也可在CDC网站找到。高危人群包括≥65岁的人和任何年龄的患有某些慢性疾病（如糖尿病，哮喘或心脏病）的人，孕妇和幼儿。
+对于未接种流感疫苗的高危患者及流感患者的家庭接触者，可给予奥司他韦75mg口服每日1次或扎那米韦10mg吸入每日1次进行预防，疗程2周，此给药方案与治疗方案不同。如果在接触后48小时内开始使用，这些抗病毒药可能发挥预防流感的作用（尽管已有奥司他韦耐药的报道）。
+戒烟可减少发生肺炎的风险。
+社区获得性肺炎是美国和世界各地的主要死亡原因。
+社区获得性肺炎是美国和世界各地的主要死亡原因。
+常见的症状和体征包括咳嗽、发热、畏寒、乏力、呼吸困难、寒战、咳痰及胸膜炎性胸痛。
+常见的症状和体征包括咳嗽、发热、畏寒、乏力、呼吸困难、寒战、咳痰及胸膜炎性胸痛。
+对于轻度或中度风险的肺炎患者，可使用经验性抗生素治疗，无需进行旨在识别潜在病原体的检测。
+对于轻度或中度风险的肺炎患者，可使用经验性抗生素治疗，无需进行旨在识别潜在病原体的检测。
+根据风险评估工具的评估结果，将高风险患者收治入院。
+根据风险评估工具的评估结果，将高风险患者收治入院。
+当肺炎样症状和体征不典型的时候，需考虑包括肺栓塞在内的其他诊断。
+当肺炎样症状和体征不典型的时候，需考虑包括肺栓塞在内的其他诊断。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+Centers for Disease Control and Prevention: Child and Adolescent Immunization Schedule by Age.Reviewed April 27, 2023.Accessed October 19, 2023.
+Centers for Disease Control and Prevention: Child and Adolescent Immunization Schedule by Age.Reviewed April 27, 2023.Accessed October 19, 2023.
+Clinical Practice Guidelines by the Pediatric Infectious Diseases Society and the Infectious Diseases Society of America
+Clinical Practice Guidelines by the Pediatric Infectious Diseases Society and the Infectious Diseases Society of America
+American Thoracic Society and Infectious Diseases Society of America Clinical Guideline on Community-Acquired Pneumonia
+American Thoracic Society and Infectious Diseases Society of America Clinical Guideline on Community-Acquired Pneumonia
+Kalil AC, Metersky ML, Klompas M, et al.Management of Adults With Hospital-acquired and Ventilator-associated Pneumonia: 2016 Clinical Practice Guidelines by the Infectious Diseases Society of America and the American Thoracic Society [published correction appears in Clin Infect Dis. 2017 May 1;64(9):1298] [published correction appears in Clin Infect Dis. 2017 Oct 15;65(8):1435] [published correction appears in Clin Infect Dis. 2017 Nov 29;65(12):2161].Clin Infect Dis2016;63(5):e61-e111.doi:10.1093/cid/ciw353
+Kalil AC, Metersky ML, Klompas M, et al.Management of Adults With Hospital-acquired and Ventilator-associated Pneumonia: 2016 Clinical Practice Guidelines by the Infectious Diseases Society of America and the American Thoracic Society [published correction appears in Clin Infect Dis. 2017 May 1;64(9):1298] [published correction appears in Clin Infect Dis. 2017 Oct 15;65(8):1435] [published correction appears in Clin Infect Dis. 2017 Nov 29;65(12):2161].Clin Infect Dis2016;63(5):e61-e111.doi:10.1093/cid/ciw353
+Pneumococcal ACIP Vaccine Recommendations
+Pneumococcal ACIP Vaccine Recommendations

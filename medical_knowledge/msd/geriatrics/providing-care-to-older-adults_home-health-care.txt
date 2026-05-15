@@ -1,0 +1,61 @@
+标题：家庭卫生保健
+来源：https://www.msdmanuals.cn/professional/geriatrics/providing-care-to-older-adults/home-health-care
+============================================================
+
+通常，当患者需要监测、调整药物、更换敷料和进行有限物理治疗时，家庭医疗护理是必要的。家庭卫生保健通常用于：
+出院后（急性期后护理），虽然住院并非必需，尤其对于老年患者
+出院后（急性期后护理），虽然住院并非必需，尤其对于老年患者
+家庭卫生保健也能用于
+每年需要住院很多天的患者（医疗复杂照护）
+每年需要住院很多天的患者（医疗复杂照护）
+严重功能障碍的医疗情况稳定的患者（长期照护）
+严重功能障碍的医疗情况稳定的患者（长期照护）
+有时病人有急性或慢性的问题
+有时病人有急性或慢性的问题
+有时病人濒死状态（临终关怀护理）
+有时病人濒死状态（临终关怀护理）
+现在越来越多地使用家庭卫生保健来满足长期照护需求。家庭健康护理在适当安排家庭健康助手和专业护理探访的情况下，比机构护理更为经济，并能显著减少养老院安置需求。
+由机构提供家庭卫生保健，其所有权、规模、位置及服务可能不同。一些经过认证。机构认证必须满足州许可要求及联邦政府参加联邦医疗保险的条件。此类机构在转诊医生的指导下提供专业的护理服务。护士在医生的监督下提供服务，当护理需求改变时，医生会与护士协商。
+在家照顾病人需要医护人员之间的沟通，以确保病人保持功能并按预期进展。患者或照护者需要将患者的病情变化及时报告给护士或医生，以确保患者得到合适的监测。
+家庭卫生保健可以提供医疗和非医疗服务（见表家庭卫生保健提供的服务）。
+
+【家庭卫生保健提供的服务】
+家庭卫生保健提供的服务
+具体服务
+其他熟练专业和准专业护理，如物理治疗和职业治疗
+临终关怀和短期护理
+耐用医疗设备（如便桶、轮椅、助行器）
+静脉治疗
+肠内外营养
+呼吸机支持
+诊断程序（例如，X光片、心电图、血液检测）
+个人护理（如帮助洗澡、洗头、协助上厕所和更衣）
+家政服务
+个人应急反应系统
+报警装置
+安全监控
+食品配送计划
+(参见老年保健概述。）
+
+【家庭照护报销】
+很少有患有严重慢性疾病的患者能够负担得起全职的家庭护理，尽管大多数患者更愿意呆在家里。医疗保险为无法离开家的患者提供一些家庭护理服务，但它有一些要求，这取决于所选择的医疗保险选项。一些私人保险公司为能够离开家的患者提供一些家庭医疗服务（如输液服务）。
+当患者的保健需第三方报销，医生必须证明患者需要家庭卫生保健，对于联邦医疗保险的患者，患者必须满足联邦医疗保险对家庭保健的要求。联邦医疗保险需要家庭卫生保健机构告知患者哪些服务是可以报销的。所提供的家庭护理服务基于详细评估（结果与评估信息集[OASIS]），该评估由注册护士或治疗师在患者加入医疗保险时完成。目前，第三方支付为控制成本越来越多地限制个人服务。家庭卫生保健机构直接由联邦医疗保险、联邦医疗补助或私人保险公司报销。
+
+【住院护理的家庭护理替代方案】
+在过去的几年里，已经开发了几种新的医疗保健服务模式，在这些模式中，患者是在家中接受管理，而不是在住院环境中 (1-3)。这些模型的总体目标是提供更高质量的护理和管理，使老年人既能避免住院和入住专业护理院，又能促进就地养老。总的来说，这些被称为以家庭和社区为基础的服务，包括传统的家庭保健服务，但已经扩大到包括其他模式，其中一些已经作为示范项目启动。
+Independence at Home(IAH) 是由医疗保险和医疗补助服务中心 (CMS) 赞助的示范项目。这种模式开始于2012年，并已多次更新。在该模式中，居家、体弱的老年人可在自己家中接受医生或高级实践提供者（如执业护士、医师助理）的服务。这种模式的目标是让病人留在家中，不在医院。要纳入这种护理模式，病人必须是居家的，并且有2种或更多的慢性病。患者受益于独立居家示范（IAH）模式，住院次数减少，满意度提高（见疾病控制和预防中心：家庭独立生活示范评估）。
+医疗保险和医疗补助服务中心（CMS）所采用的家庭医院（HAH）模式使组织能够在患者家中提供医院级别的护理。大多数参与的病人是患有急性病的老年人。该模型的目标是减少患者在医院的天数，降低医院成本，提高患者满意度，并改善结果。在大多数情况下，这些患者通常病情稳定，但需要医院级别的长期专业护理，例如每日接受医生或高级执业医师的访视，以及对其医疗状况的日常监测。这种模式的好处包括降低发病率，减少由镇静药物引起的谵妄，减少使用限制措施，以及护理人员的高满意度 (4,5)。
+2020年，CMS推出了居家急症护理（AHCAH）计划旨在为医院在新冠肺炎疫情期间提供更大的灵活性，以便其在家中照顾患者。该计划之前有“无墙医院”，其应用范围更为广泛。这两项举措均允许医院暂停对符合特定标准的患者进行 24小时注册护理和立即安排注册护士服务的要求。尽管新冠肺炎疫情已经结束，但居家急症护理计划仍延长至2024年12月31日，并且可能会继续实施。参与的医院必须向CMS提交患者数据和安全监测数据。
+由CMS开发的“急诊分诊、治疗与转运（ET3）”模型使救护车护理团队在决定患者应在何处接受护理方面拥有更大的灵活性。救护车护理团队通常与高级实践提供者（APP）协商，可以将患者转移到紧急护理中心或医生办公室，或者可以在救护车上或通过远程医疗访问的APP的帮助下，为患者家中的护理提供便利，而不是将患者运送到医院急诊科。
+
+【参考文献】
+1.Wolff-Baker D, Ordona RB: The Expanding Role of Nurse Practitioners in Home-Based Primary Care: Opportunities and Challenges.J Gerontol Nurs2019;45(6):9-14.doi:10.3928/00989134-20190422-01
+1.Wolff-Baker D, Ordona RB: The Expanding Role of Nurse Practitioners in Home-Based Primary Care: Opportunities and Challenges.J Gerontol Nurs2019;45(6):9-14.doi:10.3928/00989134-20190422-01
+2.Maniaci MJ, Torres-Guzman RA, Garcia JP, et al: Overall patient experience with a virtual hybrid hospital at home program.SAGE Open Med.2022;10:20503121221092589.Published 2022 Apr 22.doi:10.1177/20503121221092589
+2.Maniaci MJ, Torres-Guzman RA, Garcia JP, et al: Overall patient experience with a virtual hybrid hospital at home program.SAGE Open Med.2022;10:20503121221092589.Published 2022 Apr 22.doi:10.1177/20503121221092589
+3.McElroy V, Ordona R. & Bakerjian D: Post-Acute Transitional Services: Safety in Home-Based Care Programs.AHRQ PSNet.Published April 27, 2022.Accessed July 3, 2024.
+3.McElroy V, Ordona R. & Bakerjian D: Post-Acute Transitional Services: Safety in Home-Based Care Programs.AHRQ PSNet.Published April 27, 2022.Accessed July 3, 2024.
+4.Kanagala SG, Gupta V, Kumawat S, Anamika F, McGillen B, Jain R: Hospital at home: emergence of a high-value model of care delivery.Egypt J Intern Med.2023;35(1):21.doi: 10.1186/s43162-023-00206-3.Epub 2023 Mar 17.PMID: 36969500; PMCID: PMC10023005.
+4.Kanagala SG, Gupta V, Kumawat S, Anamika F, McGillen B, Jain R: Hospital at home: emergence of a high-value model of care delivery.Egypt J Intern Med.2023;35(1):21.doi: 10.1186/s43162-023-00206-3.Epub 2023 Mar 17.PMID: 36969500; PMCID: PMC10023005.
+5.Shepperd S, Doll H, Angus RM, et al: Avoiding hospital admission through provision of hospital care at home: a systematic review and meta-analysis of individual patient data.CMAJ.2009 Jan 20;180(2):175-82.doi: 10.1503/cmaj.081491.PMID: 19153394; PMCID: PMC2621299.
+5.Shepperd S, Doll H, Angus RM, et al: Avoiding hospital admission through provision of hospital care at home: a systematic review and meta-analysis of individual patient data.CMAJ.2009 Jan 20;180(2):175-82.doi: 10.1503/cmaj.081491.PMID: 19153394; PMCID: PMC2621299.

@@ -1,0 +1,25 @@
+标题：知情同意书
+来源：https://www.msdmanuals.cn/professional/special-subjects/medicolegal-issues/informed-consent
+============================================================
+
+病人的知情同意书是任何医疗干预的先决条件。然而，该知情同意书不需要公布。若遇到紧急的就诊，知情同意书通常会按正常情况假定，即作为假定知情的原则。 而对于一些常规的、不可能造成危害的（例如，常规的静脉切开、安置静脉输液等）的医疗干预，情形示意即可被认为同意。例如，有时病人可以伸出他们的手臂表示同意接受这些干预措施。对于一些更加侵入性或更有风险的介入治疗，知情同意书还是需要的。
+病人必须有法律和临床能力，才能签署一个知情同意书。欲得到知情同意书，医务工作者也必须具备解释这些干预治疗的风险和好处的资质和能力（如以下描述的），并能够合适地回答一些问题。美国联邦法律要求保健专业人员采取合理步骤，与不会说英语或有其他沟通障碍的患者进行充分沟通(1)。
+伦理和法律机构通常要求医务工作者有义务保证病人至少知道：
+目前自己的健康情况，包括若不采取任何治疗可能会有何结果
+目前自己的健康情况，包括若不采取任何治疗可能会有何结果
+可能有帮助的治疗方法，包括对每种治疗方法的潜在危害、益处和负担的描述和解释
+可能有帮助的治疗方法，包括对每种治疗方法的潜在危害、益处和负担的描述和解释
+通常情况下医务工作者对治疗方案的专业化意见
+通常情况下医务工作者对治疗方案的专业化意见
+这些因素的不确定性也应该要逐一讨论
+这些因素的不确定性也应该要逐一讨论
+执业医师应该告知患者，治疗后的恢复前景，如果治疗成功，其后的生活将会如何。一般来说，这些告知和讨论结果会记录在案，并且得到患者的签署认可。
+医疗保健专业人员越来越多地使用患者决策辅助工具（PDA，例如带有图形、照片和图表的教育文献；决策网格；视频；基于网站的交互程序，例如带有反馈的连续问题）来补充知情同意讨论。掌上电脑甚至可能包括结构化的个人辅导。有证据表明，使用 PDA 可以增强患者对治疗方案及其潜在危害和益处的了解（2）。使用 PDA 的患者在做决定时也感觉更少的冲突，并且认为自己不那么被动，也更少犹豫不决。
+患者也有拒绝治疗的权利。虽然卫生保健专业人员在道德上有义务提供充分的信息，并鼓励作出符合患者最佳利益的决定，但患者有权拒绝治疗。患者拒绝治疗并不意味着企图自杀或者表明他们本身决策能力的下降；医务工作者遵从患者的意愿，在法律上也不意味着他们协助患者自杀。其后发生的死亡在法律上被认为自然死亡，为疾病发展的结果。
+然而，医务工作者在患者拒绝治疗的问题上，如果存在困惑需要进一步探讨。如果病人的能力似乎有问题，应该对这种能力进行评估，但不应该仅仅因为病人拒绝治疗而进行评估或寻求评估。如果拒绝治疗的后果损害到其他人员，譬如未成年儿童或者其他受赡养者，应该寻求伦理和法律方面的咨询帮助。
+
+【参考文献】
+1.U.S. Department of Health and Human Services: Civil Rights for Individuals and Advocates, Section 1557 of the Patient Protection and Affordable Care Act.Accessed June 23, 2025.
+1.U.S. Department of Health and Human Services: Civil Rights for Individuals and Advocates, Section 1557 of the Patient Protection and Affordable Care Act.Accessed June 23, 2025.
+2.Stacey D, Lewis KB, Smith M, et al.Decision aids for people facing health treatment or screening decisions.Cochrane Database Syst Rev.2024;1(1):CD001431.Published 2024 Jan 29.doi:10.1002/14651858.CD001431.pub6
+2.Stacey D, Lewis KB, Smith M, et al.Decision aids for people facing health treatment or screening decisions.Cochrane Database Syst Rev.2024;1(1):CD001431.Published 2024 Jan 29.doi:10.1002/14651858.CD001431.pub6

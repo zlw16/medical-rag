@@ -1,0 +1,69 @@
+标题：POEMS综合征
+来源：https://www.msdmanuals.cn/professional/endocrine-and-metabolic-disorders/polyglandular-deficiency-syndromes/poems-syndrome
+============================================================
+
+POEMS 综合征是一种罕见的副肿瘤性疾病并且可能是由循环免疫球蛋白引起的浆细胞紊乱。循环细胞因子（白介素-1-beta、白介素-6）、血管内皮生长因子（VEGF）及肿瘤坏死因子-alpha也增高。
+
+【POEMS综合征的症状和体征】
+患者可有：
+肾上腺皮质功能不全 (Addison病)
+肾上腺皮质功能不全 (Addison病)
+2型糖尿病
+2型糖尿病
+甲状旁腺功能亢进
+甲状旁腺功能亢进
+性腺功能减退症
+性腺功能减退症
+淋巴结肿大
+淋巴结肿大
+单克隆免疫球蛋白病
+单克隆免疫球蛋白病
+破骨性骨损害
+破骨性骨损害
+多发性神经病（周围运动和感觉表现）
+多发性神经病（周围运动和感觉表现）
+原发性甲状腺功能减退
+原发性甲状腺功能减退
+皮肤病变（如，色素沉着、皮肤增厚、血管瘤、毛发过多）
+皮肤病变（如，色素沉着、皮肤增厚、血管瘤、毛发过多）
+POEMS综合征的其他症状和体征还有水肿、腹水、胸腔积液、视乳头水肿、和发热。约15%的POEMS综合征患者伴有Castleman病（一种淋巴增殖性疾病，其中某些类型与HIV或人类疱疹病毒8感染相关）。
+
+【POEMS综合征的诊断】
+POEMS综合征是根据症状、体征、实验室检查来综合诊断的，其病理生理机制尚不清楚。
+患者必须同时具有强制性标准和≥1 个主要和≥1 个次要标准。
+强制性标准（两者）：
+多发性神经病
+多发性神经病
+单克隆浆细胞增殖的证据
+单克隆浆细胞增殖的证据
+主要标准 (≥ 1):
+Castlman病
+Castlman病
+血管内皮生长因子（VEGF）水平升高
+血管内皮生长因子（VEGF）水平升高
+硬化性骨病变
+硬化性骨病变
+次要标准(≥ 1):
+内分泌病（糖尿病和/或甲状腺功能减退症除外）
+内分泌病（糖尿病和/或甲状腺功能减退症除外）
+血管外容量超负荷（如腹水、外周水肿、胸腔积液）
+血管外容量超负荷（如腹水、外周水肿、胸腔积液）
+器官肿大
+器官肿大
+视乳头水肿
+视乳头水肿
+皮肤变化
+皮肤变化
+血小板增多症或红细胞增多症
+血小板增多症或红细胞增多症
+
+【POEMS综合征的治疗】
+化疗伴或不伴造血干细胞移植。
+化疗伴或不伴造血干细胞移植。
+POEMS综合征治疗包括对局部病变进行放疗、对播散性病变进行化疗（含骨髓受累者），有时随后进行自体造血干细胞移植（1，2）。5年生存率约为60%。
+
+【治疗参考文献】
+1.Khouri J, Nakashima M, Wong S: Update on the diagnosis and treatment of POEMS (polyneuropathy, organomegaly, endocrinopathy, monoclonal gammopathy and skin changes) syndrome.JAMA Oncol7(9):1383-1391, 2021.doi: 10.1001/jamaoncol.2021.0586
+1.Khouri J, Nakashima M, Wong S: Update on the diagnosis and treatment of POEMS (polyneuropathy, organomegaly, endocrinopathy, monoclonal gammopathy and skin changes) syndrome.JAMA Oncol7(9):1383-1391, 2021.doi: 10.1001/jamaoncol.2021.0586
+2.Bou Zerdan M, George TI, Bunting ST, Chaulagain CP: Recent Advances in the Treatment and Supportive Care of POEMS Syndrome.J Clin Med11(23):7011, 2022. doi: 10.3390/jcm11237011
+2.Bou Zerdan M, George TI, Bunting ST, Chaulagain CP: Recent Advances in the Treatment and Supportive Care of POEMS Syndrome.J Clin Med11(23):7011, 2022. doi: 10.3390/jcm11237011

@@ -1,0 +1,23 @@
+标题：烟酸中毒
+来源：https://www.msdmanuals.cn/professional/nutritional-disorders/vitamin-deficiency-dependency-and-toxicity/niacin-toxicity
+============================================================
+
+烟酸的衍生物包括烟酰胺腺嘌呤二核苷酸（NAD）与烟酰胺腺嘌呤二核苷酸磷酸（NADP），二者是氧化还原反应中的辅酶。它们在细胞代谢中至关重要。
+（另请参见维生素概述和表格维生素的来源、功能及作用。）
+烟酸（但不是烟酰胺）的速释和缓释制剂可能会影响脂质水平。然而，烟酸是否会降低冠心病和中风的风险目前还不清楚 (1)。
+在中等剂量下（1000mg/天），烟酸具有以下作用 (1)：
+甘油三酯水平下降15～20％。
+甘油三酯水平下降15～20％。
+HDL胆固醇水平增加15～30％。
+HDL胆固醇水平增加15～30％。
+LDL胆固醇水平下降<10％。
+LDL胆固醇水平下降<10％。
+脂蛋白（a）水平下降约20％。
+脂蛋白（a）水平下降约20％。
+高剂量烟酸（3000 毫克 / 天）可使 15%-20% 的人群低密度脂蛋白胆固醇降低，但可能引发黄疸、腹部不适、视物模糊、高血糖加重，以及诱发既往痛风发作。高剂量烟酸有可能会导致肝病患者出现并发症。
+潮红由前列腺素介导，在速释制剂中更常见。饮酒、有氧运动、日晒、食用辛辣食物后，潮红可能更严重。如果饭后服用烟酸， 或者服用烟酸前30～45分钟服用阿司匹林（325mg，效果优于低剂量），可以缓解面红发生。 起始时使用低剂量的即时释放烟酸（例如，50mg TID），然后逐渐缓慢增加剂量，能够减少严重面红发生的可能性。
+肝毒性在某些缓释制剂中可能更为常见。一些专家建议每6～8周测查尿酸、血糖和血浆转氨酶水平，直到烟酸使用的剂量稳定以后。
+
+【参考文献】
+1.AIM-HIGH Investigators, Boden WE, Probstfield JL, et al.Niacinin patients with low HDL cholesterol levels receiving intensive statin therapy [published correction appears inN Engl J Med. 2012 Jul 12;367(2):189].N Engl J Med.2011;365(24):2255-2267.doi:10.1056/NEJMoa1107579
+1.AIM-HIGH Investigators, Boden WE, Probstfield JL, et al.Niacinin patients with low HDL cholesterol levels receiving intensive statin therapy [published correction appears inN Engl J Med. 2012 Jul 12;367(2):189].N Engl J Med.2011;365(24):2255-2267.doi:10.1056/NEJMoa1107579

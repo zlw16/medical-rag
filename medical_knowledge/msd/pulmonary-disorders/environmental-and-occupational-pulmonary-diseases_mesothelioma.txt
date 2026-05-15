@@ -1,0 +1,77 @@
+标题：胸膜间皮瘤
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/environmental-and-occupational-pulmonary-diseases/mesothelioma
+============================================================
+
+（参阅石棉相关疾病概述和环境与职业性肺病概述。)
+间皮瘤（或恶性间皮瘤）通常是指几乎总是由石棉接触引起的间皮浆膜的恶性原发性癌症。
+石棉是一种天然存在的硅酸盐，其耐热性和结构特性在建筑和造船材料、汽车刹车和一些纺织品中很有用。石棉主要有两类：蛇纹石（包括温石棉）和角闪石（包括铁石棉、青石棉、直闪石、透闪石和阳起石）。
+绝大多数恶性间皮瘤是由石棉导致的。所有类型的石棉均可引起恶性间皮瘤，但某些纤维类型比其他类型更容易引起恶性间皮瘤（角闪石纤维通常比蛇纹石纤维具有更高的效力）。
+石棉引起的恶性间皮瘤的风险与剂量有关。然而，已知在低水平暴露时也会出现病例。
+从接触石棉到罹患间皮瘤有长达 30 至 50 年的潜伏期。
+除了职业接触之外，恶性间皮瘤也可能因非职业性（或从工作场所带回家中）接触石棉以及环境接触而发生。环境暴露于天然石棉与间皮瘤有关的著名地点包括土耳其卡帕多西亚的毛沸石、地中海地区的透闪石、中国西南农村的青石棉、新喀里多尼亚的叶蛇纹石和蒙大拿州利比的利比石棉。
+受石棉污染的滑石粉是与间皮瘤相关的石棉暴露的另一个非职业来源（1）。间皮瘤的其他原因包括其他矿物纤维、淋巴瘤的放射治疗和 DNA 病毒 SV40。风险与吸烟无关。
+从历史上看，大多数间皮瘤病例发生在男性身上，因为他们从事的工业工作大量接触石棉。随着时间的推移，男性间皮瘤的发病率下降，女性恶性间皮瘤的疾病负担比例有所增加（2, 3）。
+高达 90% 的恶性间皮瘤发生在胸膜，其余大部分病例发生在腹膜（4）。不常见的是，间皮瘤可发生在心包和鞘膜。
+有两种主要的组织学亚型：
+上皮样细胞，约占间皮瘤的≥60%
+上皮样细胞，约占间皮瘤的≥60%
+肉瘤样的
+肉瘤样的
+
+【参考文献】
+1.Moline J, Bevilacqua K, Alexandri M, Gordon RE.Mesothelioma Associated With the Use of Cosmetic Talc.J Occup Environ Med2020; 62(1), 11-17.doi:10.1097/JOM.0000000000001723
+1.Moline J, Bevilacqua K, Alexandri M, Gordon RE.Mesothelioma Associated With the Use of Cosmetic Talc.J Occup Environ Med2020; 62(1), 11-17.doi:10.1097/JOM.0000000000001723
+2.Mazurek JM, Blackley DJ, Weissman DN.Malignant Mesothelioma Mortality in Women - United States, 1999-2020.MMWR Morb Mortal Wkly Rep2022; 71(19), 645-649.doi:10.15585/mmwr.mm7119a1
+2.Mazurek JM, Blackley DJ, Weissman DN.Malignant Mesothelioma Mortality in Women - United States, 1999-2020.MMWR Morb Mortal Wkly Rep2022; 71(19), 645-649.doi:10.15585/mmwr.mm7119a1
+3.Alpert N, van Gerwen M, Taioli E.Epidemiology of mesothelioma in the 21(st) century in Europe and the United States, 40 years after restricted/banned asbestos use.Transl Lung Cancer Res2020; 9(Suppl 1), S28-S38.doi:10.21037/tlcr.2019.11.11
+3.Alpert N, van Gerwen M, Taioli E.Epidemiology of mesothelioma in the 21(st) century in Europe and the United States, 40 years after restricted/banned asbestos use.Transl Lung Cancer Res2020; 9(Suppl 1), S28-S38.doi:10.21037/tlcr.2019.11.11
+4.Markowitz S.Asbestos-related lung cancer and malignant mesothelioma of the pleura: selected current issues.Semin Respir Crit Care Med2015; 36(3), 334-346.doi:10.1055/s-0035-1549449
+4.Markowitz S.Asbestos-related lung cancer and malignant mesothelioma of the pleura: selected current issues.Semin Respir Crit Care Med2015; 36(3), 334-346.doi:10.1055/s-0035-1549449
+
+【间皮瘤的症状和体征】
+病人最常表现为呼吸困难和非胸膜源性胸痛。高达 90% 的患者会出现胸腔积液，通常是单侧且出血性的。此时系统性症状少见。
+肿瘤侵袭胸壁和其他邻近结构可引起剧烈疼痛、声音嘶哑、吞咽困难、臂丛病或腹水。
+
+【间皮瘤的诊断】
+胸部影像（X 光、CT）
+胸部影像（X 光、CT）
+胸水细胞学检查或胸膜活检
+胸水细胞学检查或胸膜活检
+诊断恶性胸膜间皮瘤可能具有挑战性。
+胸部影像学检查是诊断和分期的关键。胸部 X 线检查的典型表现是结节性胸膜增厚、胸腔积液和胸腔容积缩小。胸部 CT 可以更好地观察胸膜变化和疾病程度。PET-CT 和 MRI可能有助于确定更广泛的疾病。
+因为胸膜积液细胞学检查通常无法诊断，通常需要进行胸膜活检。恶性间皮瘤的诊断基于组织学外观和免疫组织化学染色。然而，其组织学特点使得间皮瘤很难与其他肿瘤区分开。
+胸部X光片显示胸膜间皮瘤患者胸膜增厚，胸膜顶壁层有结节性肿块。
+By permission of the publisher.From Huggins J, Sahn S.InBone's Atlas of Pulmonary and Critical Care Medicine.Edited by J Crapo.Philadelphia, Current Medicine, 2005.
+分期通过胸部 CT 和 MRI 完成。核磁共振成像有助于确定肿瘤扩展的特征。
+没有明确的筛查间皮瘤检测石棉暴露人群早期疾病的建议。
+
+【间皮瘤的治疗】
+支持性治疗，包括胸腔穿刺术、胸膜固定术和止痛。
+支持性治疗，包括胸腔穿刺术、胸膜固定术和止痛。
+化疗和免疫治疗
+化疗和免疫治疗
+恶性胸膜间皮瘤在诊断时通常无法切除。支持治疗主要用于缓解疼痛和呼吸困难。
+对于早期疾病的患者可以考虑手术切除。对于更晚期的疾病，手术方法已被用于减瘤或尝试切除所有肉眼可见的疾病；这些方法的生存效益尚不清楚。
+放射治疗可用于减少肿瘤体积并作为缓解症状的姑息措施。
+化疗（例如，铂类药物加叶酸抗代谢药）的益处有限，对长期生存影响不大。免疫疗法（例如，检查点抑制剂，如tremelimumab、pembrolizumab、nivolumab、ipilimumab）或化疗与免疫疗法的组合在减缓进展和改善短期生存方面显示出一定的前景，但对长期生存的影响有限（1, 2）。
+支持性治疗包括胸腔穿刺术、胸膜固定术和止痛。治疗常见的恶性胸腔积液可以改善症状和生活质量。控制疼痛和优化生活质量的姑息治疗是重中之重。
+
+【治疗参考文献】
+1.Banna GL, Signori A, Curioni-Fontecedro A, et al.Systemic therapy for pre-treated malignant mesothelioma: A systematic review, meta-analysis and network meta-analysis of randomised controlled trials.Eur J Cancer2022; 166, 287-299.doi:10.1016/j.ejca.2022.02.030
+1.Banna GL, Signori A, Curioni-Fontecedro A, et al.Systemic therapy for pre-treated malignant mesothelioma: A systematic review, meta-analysis and network meta-analysis of randomised controlled trials.Eur J Cancer2022; 166, 287-299.doi:10.1016/j.ejca.2022.02.030
+2.Fennell DA, Dulloo S, Harber J.Immunotherapy approaches for malignant pleural mesothelioma.Nat Rev Clin Oncol2022; 19(9), 573-584.doi:10.1038/s41571-022-00649-7
+2.Fennell DA, Dulloo S, Harber J.Immunotherapy approaches for malignant pleural mesothelioma.Nat Rev Clin Oncol2022; 19(9), 573-584.doi:10.1038/s41571-022-00649-7
+
+【间皮瘤的预后】
+尽管采用了免疫疗法等新型治疗方法，但预后仍然很差。中位生存期约为 6 至 18 个月，具体取决于分期和组织学（1）。上皮样间皮瘤是最常见的组织学亚型，与肉瘤样间皮瘤相比，中位生存期更长。
+除了组织学亚型外，预后指标和生物标志物的预后价值有限。
+
+【预后参考】
+1.Alpert N, van Gerwen M, Taioli E.Epidemiology of mesothelioma in the 21(st) century in Europe and the United States, 40 years after restricted/banned asbestos use.Transl Lung Cancer Res2020; 9(Suppl 1), S28-S38.doi:10.21037/tlcr.2019.11.11
+1.Alpert N, van Gerwen M, Taioli E.Epidemiology of mesothelioma in the 21(st) century in Europe and the United States, 40 years after restricted/banned asbestos use.Transl Lung Cancer Res2020; 9(Suppl 1), S28-S38.doi:10.21037/tlcr.2019.11.11
+恶性间皮瘤是一种罕见、侵袭性且几乎总是致命的癌症，5 年生存率约为 10%。
+恶性间皮瘤是一种罕见、侵袭性且几乎总是致命的癌症，5 年生存率约为 10%。
+绝大多数恶性间皮瘤与石棉接触有关，石棉接触可能是职业性的、副职业性的或环境来源的。
+绝大多数恶性间皮瘤与石棉接触有关，石棉接触可能是职业性的、副职业性的或环境来源的。
+治疗重点是支持性护理。尽管免疫疗法前景看好，但预后仍然不佳。
+治疗重点是支持性护理。尽管免疫疗法前景看好，但预后仍然不佳。

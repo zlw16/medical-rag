@@ -1,0 +1,27 @@
+标题：Moraxella catarrhalis（卡他莫拉菌）感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-negative-cocci-and-coccobacilli/moraxella-catarrhalis-infection
+============================================================
+
+卡他莫拉菌（以前称为粘膜炎布兰汉球菌) 是一个常见的原因
+儿童中耳炎
+儿童中耳炎
+所有年龄段的急慢性鼻窦炎
+所有年龄段的急慢性鼻窦炎
+慢性肺病患者的下呼吸道感染
+慢性肺病患者的下呼吸道感染
+该病原体也是慢性阻塞性肺病（COPD）病情恶化的第二大致病因素，仅次于不可分型Haemophilus influenzae（流感嗜血杆菌）。
+M. catarrhalis肺炎类似于肺炎球菌性肺炎。
+菌血症罕见，可能与人工瓣膜感染有关（1）。
+M. catarrhalis（卡他莫拉菌）的定植率取决于年龄。成年人上呼吸道定植率约1-5% (2,3)。婴幼儿的鼻咽部M. catarrhalis卡他莫拉菌定植很常见，在冬季可能增加，是急性中耳炎的危险因素；早期定植更是复发性中耳炎的危险因素。不同地区定植率有差异。 上述差异与生活条件、卫生情况、环境因素（例如吸烟）、人群遗传特征、宿主因素等有关。
+病原体一旦从呼吸道寄居部位转移到其他部位就可能会引起发病。
+M. catarrhalis（卡他莫拉菌）引起的中耳炎、急性或慢性鼻窦炎或肺炎没有特异性临床表现。 下呼吸道感染可能会出现逐渐加重性咳嗽、脓性痰以及呼吸困难。
+这些革兰阴性双球菌与Neisseria（奈瑟菌）菌种相似，但可通过从感染体液或组织中培养分离后进行常规生化测试来区分。
+所有菌株现在均能产生β-内酰胺酶。该菌通常对β-内酰胺/β-内酰胺酶抑制剂（如阿莫西林/克拉维酸）、磺胺甲恶唑、四环素、第二代或第三代头孢菌素、氨基糖苷类、大环内酯类、氟喹诺酮类和截短侧耳素（如来法莫林）敏感。
+
+【参考文献】
+1.Sano N, Matsunaga S, Akiyama T, et al.Moraxella catarrhalisbacteraemia associated with prosthetic vascular graft infection.J Med Microbiol.2010;59(Pt 2):245-250.doi:10.1099/jmm.0.013789-0
+1.Sano N, Matsunaga S, Akiyama T, et al.Moraxella catarrhalisbacteraemia associated with prosthetic vascular graft infection.J Med Microbiol.2010;59(Pt 2):245-250.doi:10.1099/jmm.0.013789-0
+2.Ejlertsen T, Thisted E, Ebbesen F, Olesen B, Renneberg J.Branhamella catarrhalisin children and adults.A study of prevalence, time of colonisation, and association with upper and lower respiratory tract infections.J Infect.1994;29(1):23-31.doi:10.1016/s0163-4453(94)94979-4
+2.Ejlertsen T, Thisted E, Ebbesen F, Olesen B, Renneberg J.Branhamella catarrhalisin children and adults.A study of prevalence, time of colonisation, and association with upper and lower respiratory tract infections.J Infect.1994;29(1):23-31.doi:10.1016/s0163-4453(94)94979-4
+3.Vaneechoutte M, Verschraegen G, Claeys G, Weise B, Van den Abeele AM.Respiratory tract carrier rates ofMoraxella(Branhamella)catarrhalisin adults and children and interpretation of the isolation ofM. catarrhalisfrom sputum.J Clin Microbiol.1990;28(12):2674-2680.doi:10.1128/jcm.28.12.2674-2680.1990
+3.Vaneechoutte M, Verschraegen G, Claeys G, Weise B, Van den Abeele AM.Respiratory tract carrier rates ofMoraxella(Branhamella)catarrhalisin adults and children and interpretation of the isolation ofM. catarrhalisfrom sputum.J Clin Microbiol.1990;28(12):2674-2680.doi:10.1128/jcm.28.12.2674-2680.1990

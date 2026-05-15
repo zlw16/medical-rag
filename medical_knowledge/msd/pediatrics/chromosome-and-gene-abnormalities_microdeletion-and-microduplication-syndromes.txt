@@ -1,0 +1,50 @@
+标题：微缺失和微重复综合征
+来源：https://www.msdmanuals.cn/professional/pediatrics/chromosome-and-gene-abnormalities/microdeletion-and-microduplication-syndromes
+============================================================
+
+(参见染色体异常概述。)
+微缺失和微重复综合征是由亚显微镜下的染色体缺失或重复（拷贝数变异）引起的基因组疾病，通常会导致一系列异质性的神经发育、认知、行为和先天性异常，且其表现具有可变性，表现具有可变性，具体取决于所涉及的特定基因组区域。
+微缺失综合征比微重复综合征的定义更好，许多微重复的意义仍不清楚。诸如22q11.2和7q11.23等公认微缺失所对应的重复变异已得到更明确的界定。
+微缺失综合征不同于染色体缺失综合征，染色体缺失综合征由于其缺失片段较大（通常>5兆碱基），通常在核型分析上可见，而微缺失综合征的异常涉及更小的片段（通常为1至3兆碱基），只能通过荧光探针（荧光原位杂交）和染色体微阵列分析（1）检测。一个给定的基因片段可以被删除和复制（称为相互重复）。显微相互重复的临床效应与涉及相同片段的缺失相似，但病情较轻。术语邻接基因综合征通常指基因成簇聚集的病症；它常与微缺失相关，但也可能与微重复相关。
+大多数临床上显著的微缺失和微重复似乎是零星散发的；然而，当一个孩子被发现存在异常后，如果对其父母进行检测，可能会对轻度受影响的父母做出诊断。
+已鉴定出多种微缺失综合征，其临床表现差异很大（见表格微缺失综合征示例）。
+涉及17p11.2染色体的相互微重复与Potocki-Lupski综合征相关，据估计全球每2.5万人中约有1人罹患此病（2）。患有这种综合征的婴儿会出现肌张力低下、喂养问题、生长和体重下降（以前称为发育不良）、心脏缺陷、发育迟缓以及自闭症谱系障碍。
+威廉姆斯-博伦综合征是另一种多系统遗传病，由7号染色体上的微缺失（位于q11.23带）（3）引起。它的特点是存在独特的面部特征，智力残疾，保留语言技能，社交，外向的个性，有焦虑和恐惧症的倾向。心血管并发症包括主动脉瓣上狭窄。
+（参见下一代测序。）
+
+【微缺失综合征范例】
+微缺失综合征范例
+染色体缺失
+天使人综合征
+母亲染色体15q11
+惊厥，木偶样共济失调，常大笑，手扑翼样运动，严重智力障碍
+DiGeorge综合征（DiGeorge异常、腭心面综合征、咽囊综合征、胸腺发育不全）
+22q11.21
+胸腺和甲状旁腺发育不全或缺如，常有心脏畸形，腭裂，智力障碍，精神障碍
+Langer-Giedion综合征（II型毛发鼻指骨综合征）
+8q24.1
+外生骨疣、锥形骨骺、头发稀疏、球形鼻、听力受损及智力障碍
+Miller-Dieker综合征
+17p13.3
+平滑脑回；短而上翘的鼻；严重的生长发育迟缓；癫痫发作；严重智力障碍
+Prader-Willi综合征
+父亲的染色体15q11
+婴儿期：肌张力低下，喂养困难，生长迟缓和体重增长不良（旧称发育停滞）
+儿童和青少年：肥胖症，性功能减退，手脚小，智力发育迟缓，强迫性行为
+Rubinstein-Taybi综合征
+16p13−
+拇指宽大和脚趾巨大、鼻和鼻小柱突出、智力障碍
+Smith-Magenis综合征
+17p11.2
+短头畸形，面中部发育不良，下颌前突，声音嘶哑，身材矮小，智力障碍
+Williams综合征
+7q11.23
+主动脉狭窄，智力障碍，小精灵面容，婴儿暂时性高钙血症
+
+【参考文献】
+1.Wetzel AS, Darbro BW.A comprehensive list of human microdeletion and microduplication syndromes.BMC Genom Data.2022;23(1):82.Published 2022 Nov 26.doi:10.1186/s12863-022-01093-3
+1.Wetzel AS, Darbro BW.A comprehensive list of human microdeletion and microduplication syndromes.BMC Genom Data.2022;23(1):82.Published 2022 Nov 26.doi:10.1186/s12863-022-01093-3
+2.MedlinePlus [Internet].Bethesda (MD): National Library of Medicine (US); [updated 2020 Jun 24].Potocki-Lupski syndrome; [updated 2020 Jun 10; reviewed 2017 Oct 1; cited 2025 Jul 29]; [about 5 p.].Available from: https://medlineplus.gov/genetics/condition/potocki-lupski-syndrome/.
+2.MedlinePlus [Internet].Bethesda (MD): National Library of Medicine (US); [updated 2020 Jun 24].Potocki-Lupski syndrome; [updated 2020 Jun 10; reviewed 2017 Oct 1; cited 2025 Jul 29]; [about 5 p.].Available from: https://medlineplus.gov/genetics/condition/potocki-lupski-syndrome/.
+3.Osborne LR, Mervis CB.7q11.23 deletion and duplication.Curr Opin Genet Dev.2021;68:41-48.doi:10.1016/j.gde.2021.01.013
+3.Osborne LR, Mervis CB.7q11.23 deletion and duplication.Curr Opin Genet Dev.2021;68:41-48.doi:10.1016/j.gde.2021.01.013

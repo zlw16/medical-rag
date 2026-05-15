@@ -1,0 +1,100 @@
+标题：妊娠期自身免疫疾病
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/pregnancy-complicated-by-disease/autoimmune-disorders-in-pregnancy
+============================================================
+
+自身免疫疾病在女性中的发病率是男性的5倍，并且发病率往往在育龄期达到高峰。 因此，这些疾病在孕妇中普遍发生。
+
+【妊娠期系统性红斑狼疮（SLE）】
+系统性红斑狼疮（SLE）可能在妊娠期首次出现；有不明原因的妊娠中期死胎、胎儿生长受限、早产或反复自然流产史的女性，日后可能被诊断为SLE。
+妊娠期原有SLE的病程不能预测，但是SLE可能加重，尤其是在产后立即加重。如果能够推迟受孕，直到疾病至少6个月处于非活动期、提前调整药物方案、血压和肾功能正常，则妊娠结局会更好。
+并发症包括 (1)
+胎儿生长受限
+胎儿生长受限
+因子痫前期导致的早产
+因子痫前期导致的早产
+由于能通过胎盘的母源性抗体而导致的胎儿先天性心脏传导阻滞
+由于能通过胎盘的母源性抗体而导致的胎儿先天性心脏传导阻滞
+显著的原有肾或心脏并发症会增加产妇发病率和死亡率风险。  弥漫性肾炎、高血压、或存在循环抗磷脂抗体（经常是抗心磷脂抗体或狼疮抗凝物）增加围产儿死亡率风险。 新生儿可能出现贫血、血小板减少症或白细胞减少症；当母源性抗体消失时，这些疾病往往在出生后数周内缓解。
+如果怀孕前使用羟氯喹，那么在整个怀孕期可以继续使用。SLE爆发通常用低剂量泼尼松、静脉冲击甲泼尼龙、羟氯喹和/或硫唑嘌呤治疗。大剂量泼尼松和环磷酰胺会增加产科风险，因此仅用于严重狼疮并发症。
+
+【参考文献】
+1.Clowse ME, Jamison M, Myers E, James AH: A national study of the complications of lupus in pregnancy.Am J Obstet Gynecol199(2):127.e1-127.e1276, 2008.doi:10.1016/j.ajog.2008.03.012
+1.Clowse ME, Jamison M, Myers E, James AH: A national study of the complications of lupus in pregnancy.Am J Obstet Gynecol199(2):127.e1-127.e1276, 2008.doi:10.1016/j.ajog.2008.03.012
+
+【妊娠期抗磷脂综合征】
+抗磷脂综合征（APS）是一种自身免疫性疾病，易导致患者血栓形成，并增加怀孕期间以下情况的风险：
+宫内生长受限
+宫内生长受限
+胎儿死亡
+胎儿死亡
+妊娠期高血压
+妊娠期高血压
+子痫前期
+子痫前期
+APS是由针对某些磷脂结合蛋白的自身抗体引起的，而这些蛋白本应防止过度凝血激活。
+抗磷脂抗体的测定
+抗磷脂抗体的测定
+临床标准
+临床标准
+有以下病史的妇女应怀疑患有抗磷脂抗体综合征：
+≥ 3 次不明原因胚胎死亡（妊娠 10 周前）或 ≥ 1 次不明原因胎儿丢失（10 周后）
+≥ 3 次不明原因胚胎死亡（妊娠 10 周前）或 ≥ 1 次不明原因胎儿丢失（10 周后）
+既往不明原因的动脉或静脉血栓栓塞
+既往不明原因的动脉或静脉血栓栓塞
+妊娠期新发动脉或静脉血栓栓塞
+妊娠期新发动脉或静脉血栓栓塞
+测定循环抗磷脂抗体水平（抗心磷脂抗体，β-2糖蛋白I，狼疮抗凝物），若间隔12周≥2次阳性，则可诊断抗磷脂综合征。
+诊断抗磷脂综合征，除上述实验室标准≥1项外，还需要≥1项临床标准。  临床标准可以是血管事件（任何组织此前有过无法解释的动脉或静脉血栓栓塞）或与妊娠相关。 妊娠相关的诊断标准包括 (1)：
+发生无法解释的孕龄≥10周的形态正常的胎儿（通过超声检查或直接检查）死亡，≥1次
+发生无法解释的孕龄≥10周的形态正常的胎儿（通过超声检查或直接检查）死亡，≥1次
+由于子痫或严重先兆子痫或胎盘功能不全，发生妊娠≤34周的形态正常的新生儿早产，≥1次
+由于子痫或严重先兆子痫或胎盘功能不全，发生妊娠≤34周的形态正常的新生儿早产，≥1次
+妊娠<10周的无法解释的连续自然流产≥3次，且排除了孕妇解剖、激素异常以及父母染色体异常等病因
+妊娠<10周的无法解释的连续自然流产≥3次，且排除了孕妇解剖、激素异常以及父母染色体异常等病因
+
+【诊断参考文献】
+1.Miyakis S, Lockshin MD, Atsumi T, et al: International consensus statement on an update of the classification criteria for definite antiphospholipid syndrome (APS).J Thromb Haemost4(2):295-306, 2006.doi:10.1111/j.1538-7836.2006.01753.x
+1.Miyakis S, Lockshin MD, Atsumi T, et al: International consensus statement on an update of the classification criteria for definite antiphospholipid syndrome (APS).J Thromb Haemost4(2):295-306, 2006.doi:10.1111/j.1538-7836.2006.01753.x
+抗凝血剂和低剂量阿司匹林预防
+抗凝血剂和低剂量阿司匹林预防
+抗磷脂综合征女性在妊娠期间和产后6周内通常需要预防性使用抗凝剂和低剂量阿司匹林治疗。
+应密切监测患者，并根据需要转诊至母胎医学专家。
+
+【妊娠期免疫性血小板减少】
+免疫性血小板减少症(ITP)，通过母体抗血小板IgG介导，在妊娠期趋于恶化，并且增加母体发病率的风险。ITP 的特点是在没有其他病因的情况下出现孤立性血小板减少症，因此是一种排除性诊断。
+皮质类固醇可以降低IgG水平，并可使大部分患者的病情得到缓解，但是仅有50%的患者病情能获得持久改善。  免疫抑制剂治疗和血浆置换能够更进一步降低IgG，增加血小板计数。  罕见的，难治性病例需要进行脾切除术；最好在中孕期进行，这样就可以有约80%的女性病情获得持续性缓解。
+静脉注射免疫球蛋白能够显著但短暂地增加血小板计数，以便在血小板计数较低的产妇中可以引产。仅在以下情况下才建议输注血小板：
+需要剖宫产分娩且母体血小板计数<50,000/微升时 (1)。
+需要剖宫产分娩且母体血小板计数<50,000/微升时 (1)。
+预计阴道分娩且母体血小板计数<30,000/微升时 (2)。
+预计阴道分娩且母体血小板计数<30,000/微升时 (2)。
+虽然抗血小板IgG能够穿过胎盘，但是却极其罕见地导致胎儿或新生儿血小板减少症。 产妇抗血小板抗体水平（通过直接或间接试验测量）不能预测胎儿是否受累。 由母体ITP引起的新生儿颅内出血风险并不受分娩方式或产伤影响。因此，目前通行的做法是阴道分娩，不需要定期常规测定胎儿血小板计数，有产科指证可行剖宫产术 (3,4,5)。
+
+【参考文献】
+1.Kaufman RM, Djulbegovic B, Gernsheimer T, et al: Platelet transfusion: a clinical practice guideline from the AABB.Ann Intern Med162(3):205-213, 2015.doi:10.7326/M14-1589
+1.Kaufman RM, Djulbegovic B, Gernsheimer T, et al: Platelet transfusion: a clinical practice guideline from the AABB.Ann Intern Med162(3):205-213, 2015.doi:10.7326/M14-1589
+2.Bussel JB, Hou M, Cines DB: Management of primary immune thrombocytopenia in pregnancy.N Engl J Med389(6):540-548, 2023.doi:10.1056/NEJMra2214617
+2.Bussel JB, Hou M, Cines DB: Management of primary immune thrombocytopenia in pregnancy.N Engl J Med389(6):540-548, 2023.doi:10.1056/NEJMra2214617
+3.ACOG Practice Bulletin No. 207: Thrombocytopenia in Pregnancy.Obstet Gynecol133(3):e181-e193, 2019.doi:10.1097/AOG.0000000000003100
+3.ACOG Practice Bulletin No. 207: Thrombocytopenia in Pregnancy.Obstet Gynecol133(3):e181-e193, 2019.doi:10.1097/AOG.0000000000003100
+4.Provan D, Stasi R, Newland AC, et al: International consensus report on the investigation and management of primary immune thrombocytopenia.Blood115(2):168-186, 2010.doi:10.1182/blood-2009-06-225565
+4.Provan D, Stasi R, Newland AC, et al: International consensus report on the investigation and management of primary immune thrombocytopenia.Blood115(2):168-186, 2010.doi:10.1182/blood-2009-06-225565
+5.Neunert C, Lim W, Crowther M, et al: The American Society of Hematology 2011 evidence-based practice guideline for immune thrombocytopenia.Blood117(16):4190-4207, 2011.doi:10.1182/blood-2010-08-302984
+5.Neunert C, Lim W, Crowther M, et al: The American Society of Hematology 2011 evidence-based practice guideline for immune thrombocytopenia.Blood117(16):4190-4207, 2011.doi:10.1182/blood-2010-08-302984
+
+【孕期类风湿性关节炎】
+类风湿性关节炎（RA）可以在妊娠期发生，而更经常的情况是在产后期间发生。  原有的RA在妊娠期一般暂时消退。 胎儿不会受到直接影响，但如果妇女的髋关节或腰椎受到影响，分娩可能会困难。与疾病活动度较低的女性相比，妊娠期疾病活动度为中度或高度的女性剖宫产更为常见。此外，产后复发会损害患有类风湿性关节炎的女性照顾自己和婴儿的能力。
+如果女性在妊娠期进展为RA爆发，那么一线治疗通常从强的松开始。对于难治性病例，可能需要其他免疫抑制剂 (1)。
+
+【参考文献】
+1.ACOG Committee Opinion No. 776: Immune Modulating Therapies in Pregnancy and Lactation.Obstet Gynecol133(4):e287-e295, 2019.doi:10.1097/AOG.0000000000003176
+1.ACOG Committee Opinion No. 776: Immune Modulating Therapies in Pregnancy and Lactation.Obstet Gynecol133(4):e287-e295, 2019.doi:10.1097/AOG.0000000000003176
+
+【妊娠期重症肌无力】
+重症肌无力在妊娠期间的病程各不相同，甚至同一女性的不同妊娠之间也会有所不同。临床和体检发现肌肉无力并通过自身抗体水平的血清免疫测定证实后即可做出诊断。
+频繁发作的急性肌无力需要增加抗胆碱酯酶类药物的剂量（如新斯的明），而这类药物能造成胆碱能过剩的症状（如腹痛、腹泻、呕吐、愈加乏力）；出现这种情况，就需要阿托品。  有时，肌无力对标准治疗方案无反应，就需要皮质类固醇或免疫抑制剂。
+分娩过程中，产妇可能需要辅助通气，对抑制呼吸的药物（如镇静药、阿片类药物、硫酸镁）极度敏感。 因此，在分娩过程中控制疼痛时，局部麻醉优于静脉药物。因为导致重症肌无力的IgG可以穿过胎盘，所以有20%的新生儿会发生短暂的肌无力 (1)，如果母亲没有进行过胸腺切除术，这一比例会更高。尽管建议阴道分娩，但由于横纹肌无力，可能需要辅助阴道分娩。
+
+【参考文献】
+1.Gamio S, Garcia-Erro M, Vaccarezza MM, Minella JA: Myasthenia gravis in childhood.Binocul Vis Strabismus Q19(4):223-231, 2004.
+1.Gamio S, Garcia-Erro M, Vaccarezza MM, Minella JA: Myasthenia gravis in childhood.Binocul Vis Strabismus Q19(4):223-231, 2004.

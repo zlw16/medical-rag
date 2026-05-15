@@ -1,0 +1,218 @@
+标题：炭疽
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-positive-bacilli/anthrax
+============================================================
+
+
+【炭疽病的病因】
+炭疽病是家畜中的一种重要疾病，常见于山羊、牛、绵羊和马匹；也出现在野生动物中，如河马、大象和非洲水牛。
+炭疽病在美国是地方性动物病（已知在特定地区会定期影响动物的疾病），但并非地方性流行病。因此，兽医建议在曾有动物患过炭疽病的地区每年对牲畜进行疫苗接种。因此，在美国人类中这种情况很少见（1）。炭疽病主要发生在那些未能防范工业或农业场景中接触受感染动物或动物制品（如兽皮、畜尸、毛发）的国家。(See alsoAnthrax in Animals.)
+然而，若使用炭疽杆菌作为生物武器，则该病原微生物感染的危险性将增加。炭疽芽孢已被制备成极细微的粉末形式，并被武器化用于战争与生物恐怖主义（2）；在 2001 年的炭疽生物袭击事件中，芽孢被装入信封，通过美国邮政系统传播（3）。
+炭疽病被认为是法定报告传染病。应立即通知当地卫生部门，当感染源不明、怀疑生物恐怖主义暴露时，或者病例涉及自然发生的炭疽引起的严重疾病时，当地卫生部门必须通知疾病控制和预防中心 (CDC)（4）。
+
+【病因参考文献】
+1.Centers for Disease Control and Prevention (CDC): About Anthrax.April 2, 2025.Accessed April 22, 2025.
+1.Centers for Disease Control and Prevention (CDC): About Anthrax.April 2, 2025.Accessed April 22, 2025.
+2.Bush LM, Abrams BH, Beall A, Johnson CC.Index case of fatal inhalational anthrax due to bioterrorism in the United States.N Engl J Med.2001;345(22):1607-1610.doi:10.1056/NEJMoa012948
+2.Bush LM, Abrams BH, Beall A, Johnson CC.Index case of fatal inhalational anthrax due to bioterrorism in the United States.N Engl J Med.2001;345(22):1607-1610.doi:10.1056/NEJMoa012948
+3.Centers for Disease Control and Prevention: Bioterrorism and Anthrax: The Threat.April 3, 2025.Accessed August 1, 2025.
+3.Centers for Disease Control and Prevention: Bioterrorism and Anthrax: The Threat.April 3, 2025.Accessed August 1, 2025.
+4.CDC: Anthrax Case Definition, Reporting, and Surveillance.December 3, 2024.Accessed April 22, 2025.
+4.CDC: Anthrax Case Definition, Reporting, and Surveillance.December 3, 2024.Accessed April 22, 2025.
+
+【炭疽病的病理生理学】
+炭疽杆菌当它们处于不利于生长的条件下（例如干燥的环境）时，会形成孢子。芽胞抵抗力极强，不易被破坏，可以在土壤、羊毛和动物皮毛中存活数十年。 当遇到富含氨基酸和糖的环境（例如组织、血液），芽孢迅速出芽繁殖生长。
+人类感染可通过以下途径获得：
+经皮接触（最常见）
+经皮接触（最常见）
+消化道摄入
+消化道摄入
+呼吸道吸入
+呼吸道吸入
+皮肤感染是最常见的形式，占病例的95%以上（1）。通常通过与受感染动物接触、接触孢子污染的动物产品或含有孢子的土壤而获得。开放性伤口或擦伤会增加感染的可能性，但即使皮肤完好也可能发生感染。皮肤炭疽通常不具有传染性，但在极少数情况下，皮肤感染可能通过直接接触或污染物（如毛巾、共用床品）在人际间传播。
+胃肠道（包括口咽部）感染（摄入性炭疽）可能在食用含有细菌营养型的未充分煮熟肉类后发生，通常在咽部或肠黏膜受损时更易侵入（1）。摄入性炭疽可引起从口腔到盲肠的任何部位感染病灶。释放的毒素可引起胃肠道管腔内出血性坏死性溃疡及肠系膜淋巴结炎，进而可能导致肠道出血、梗阻或穿孔。胃肠道炭疽病不会在人与人之间传播。
+肺部感染（吸入性炭疽）是由吸入孢子引起的，几乎总是由于职业暴露于受污染的动物产品（如兽皮）所致，并且通常是致命的。若诊断或怀疑吸入性炭疽，则必须考虑是否存在公开或隐蔽的生物恐怖主义行为。吸入型炭疽不会在人与人之间传播。
+注射性炭疽很罕见。据推测，这是由于娱乐性使用被炭疽杆菌孢子污染的海洛因，或共用针头所致。它会导致严重的软组织感染，包括并发败血症和播散性全身感染的情况。未注射海洛因的人群中未报告有病例。
+焊工炭疽是一种罕见类型，已在多名焊工或金属工人中发现(2)。通常通过吸入感染，其特征是由产生炭疽毒素的蜡样芽孢杆菌群细菌引起的职业性肺炎。
+芽孢进入人体后，在巨噬细胞内发芽，迁移到局部淋巴结繁殖。在吸入性炭疽中，芽孢被吸入到肺泡中沉积，被巨噬细胞吞噬，进而迁移到纵隔淋巴结，常引起出血性纵隔炎。
+任何一种类型炭疽均可以引起菌血症，几乎所有死亡病例均有菌血症发生；菌血症时脑膜受累常见。
+
+【毒力因子】
+B. anthracis（炭疽杆菌）的毒力取决于:
+细胞外抗吞噬荚膜
+细胞外抗吞噬荚膜
+毒素（因素）
+毒素（因素）
+快速复制能力
+快速复制能力
+主要毒素是水肿毒素和致死毒素。一种细胞结合蛋白，称作保护性抗原（PA），可与靶细胞结合，促使水肿毒素和致死性毒素进入。水肿毒素可引起大片局部水肿。致死毒素会引发巨噬细胞大量释放细胞因子，这是炭疽感染者猝死的原因。致命毒素也被认为会引起血管系统内皮细胞的凋亡，并导致出血。该细菌的抗吞噬性多聚-D-γ-谷氨酸荚膜，由pX02质粒编码，有助于抵御吞噬作用。
+在焊工炭疽中，某些蜡样芽孢杆菌菌种的孢子含有pXO1毒力基因，这些基因负责产生炭疽毒素。
+炭疽芽孢杆菌和蜡样芽孢杆菌的快速繁殖显著增强了其致病性。细菌因快速繁殖而产生的高负荷可迅速压倒宿主的免疫防御能力。
+
+【病理生理学参考文献】
+1.Bower WA, Yu Y, Person MK, et al.CDC Guidelines for the Prevention and Treatment of Anthrax, 2023. MMWR Recomm Rep.2023;72(6):1-47.Published 2023 Nov 17.doi:10.15585/mmwr.rr7206a1
+1.Bower WA, Yu Y, Person MK, et al.CDC Guidelines for the Prevention and Treatment of Anthrax, 2023. MMWR Recomm Rep.2023;72(6):1-47.Published 2023 Nov 17.doi:10.15585/mmwr.rr7206a1
+2.de Perio MA, Hendricks KA, Dowell CH, et al.Welder's Anthrax: A Review of an Occupational Disease.Pathogens.2022;11(4):402.doi:10.3390/pathogens11040402
+2.de Perio MA, Hendricks KA, Dowell CH, et al.Welder's Anthrax: A Review of an Occupational Disease.Pathogens.2022;11(4):402.doi:10.3390/pathogens11040402
+
+【炭疽的症状和体征】
+大多数炭疽患者在接触后1～7天内发病，但对于吸入性炭疽，若接触的孢子量极低，潜伏期可能长达60天或更久。
+皮肤型炭疽在接触感染性芽孢1～12天后出现无痛、瘙痒的红棕色丘疹 (1)丘疹逐渐扩大，其周围出现大片红斑和显著的水肿。也可出现水疱和硬结。然后中央部位出现溃疡伴有血液血清渗出并形成黑色焦痂（恶性脓疱）。局部常有淋巴结肿大，偶有全身不适、肌痛、头痛、发热、恶心和呕吐。数周后皮损愈合，水肿消退。
+这张照片显示了皮肤炭疽特征性的红棕色丘疹。丘疹周围伴有红斑和水肿，通常无痛。
+这张照片展示了晚期皮肤炭疽的特征性病变：边界清晰的中央溃疡伴黑色焦痂。注意病灶周围环绕的红斑肿胀。
+胃肠道（摄入性）炭疽的症状范围从无症状到致命不等。通常在食用受污染肉类后1至7天内发病。发热、恶心、呕吐、腹痛、便血常见。可出现腹水。肠道坏死和败血症伴随潜在的致死性毒性随之而来。口咽炭疽表现为扁桃体、咽后襞或硬腭水肿，伴有中央坏死溃疡。可有明显颈部软组织水肿及颈部淋巴结肿大。症状包括声嘶，咽喉疼痛，发热和吞咽困难。偶可发生呼吸道阻塞。
+吸入性炭疽在所有炭疽感染亚型中潜伏期最长（可达2个月）。它最初隐匿地表现为类似流感的症状，在接触后1周内发病。数天内，体温上升、胸痛并出现严重的呼吸窘迫，随后发绀、休克和昏迷。进而发生严重的出血性坏死性淋巴结炎并扩展到邻近的纵隔结构。出现血清、血液渗出，肺水肿和血性胸水。不出现典型的支气管肺炎表现。可能发展为出血性脑膜脑炎或摄入性炭疽症状。
+焊工炭疽表现为高热和肺部症状，包括以快速呼吸窘迫、持续性咳嗽和胸痛为特征的严重肺炎。当出现显著的实质受累时，患者可能还会出现呼吸困难和低氧血症，需要机械通气。在严重情况下，可能发生全身性感染和败血症，导致死亡。
+
+【症状和体征】
+1.Stevens DL, Bisno AL, Chambers HF, et al: Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America.Clin Infect Dis59(2):e10-e52, 2014.doi:10.1093/cid/ciu444
+1.Stevens DL, Bisno AL, Chambers HF, et al: Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America.Clin Infect Dis59(2):e10-e52, 2014.doi:10.1093/cid/ciu444
+
+【炭疽病的诊断】
+革兰染色和细菌培养
+革兰染色和细菌培养
+直接荧光抗体（DFA）试验
+直接荧光抗体（DFA）试验
+聚合酶链式反应（PCR）检测
+聚合酶链式反应（PCR）检测
+炭疽致死因子毒素检测
+炭疽致死因子毒素检测
+有时需进行局部感染检测，如影像学检查（吸入性炭疽的胸部X光或CT扫描）或腰椎穿刺（用于脑膜炭疽）
+有时需进行局部感染检测，如影像学检查（吸入性炭疽的胸部X光或CT扫描）或腰椎穿刺（用于脑膜炭疽）
+职业接触史最为重要。对于从炭疽流行地区返回的旅行者，若出现不明原因发热或新发皮肤病变，应考虑将炭疽纳入鉴别诊断。
+从病变部位（包括皮肤黏膜损伤处，血液、胸腔积液、脑脊液、腹水或粪便）获取标本进行细菌培养和革兰染色。缺乏呼吸道症状时痰液检查和革兰染色不能用于吸入性炭疽的诊断。
+PCR检测和免疫组织化学方法（如DFA）有助于更快地做出诊断。
+炭疽致死因子检测涉及对炭疽杆菌产生的致死因子毒素进行检测与定量，通常采用基于质谱分析的方法来测定其含量或功能（即毒素的酶活性）。LF毒素评估是一种高度特异且快速的诊断工具（1）。
+酶联免疫吸附试验（ELISA）检测可检测血清抗体，恢复期抗体滴度较急性期增高4倍可确诊。
+不推荐对可能为吸入性炭疽的患者进行鼻拭子检查，因为其阴性预测值尚不清楚。虽然鼻拭子培养阳性表明暴露，但鼻拭子阴性并不意味着没有发生接触。
+图中显示了典型的炭疽芽孢杆菌的革兰阳性杆菌形态。
+
+【经验与提示】
+经验与提示
+缺乏呼吸道症状时痰液检查和革兰染色不能用于吸入性炭疽的诊断。
+缺乏呼吸道症状时痰液检查和革兰染色不能用于吸入性炭疽的诊断。
+如果出现肺部症状应当进行胸部X线（或CT）检查。可明确显示纵隔扩大（由于出血性淋巴结肿大）和胸腔积液。肺浸润不常见。
+吸入性炭疽胸部X线的典型发现包括出血性坏死性纵隔淋巴结炎和双侧胸腔积液引起的纵隔增宽。肺浸润不常见。
+当出现脑膜炎症状或神志改变时应进行腰穿。如果无法进行腰椎穿刺，应改为进行增强CT或增强MRI的中枢神经系统成像，以记录脑膜炎的脑膜强化特征，并识别炭疽脑膜脑炎的出血性脑实质病变。
+州或地方卫生部门应被告知任何可能的炭疽病例，并将协助进行诊断检测（2）。样本必须妥善处理、包装和运输，以避免无意中接触炭疽。
+
+【诊断参考】
+1.Boyer AE, Quinn CP, Woolfitt AR, et al.Detection and quantification of anthrax lethal factor in serum by mass spectrometry.Anal Chem2007;79(22):8463-8470.doi:10.1021/ac701741s
+1.Boyer AE, Quinn CP, Woolfitt AR, et al.Detection and quantification of anthrax lethal factor in serum by mass spectrometry.Anal Chem2007;79(22):8463-8470.doi:10.1021/ac701741s
+2.Centers for Disease Control and Prevention: Health Department Directories.May 15, 2024.Accessed July 15, 2025.
+2.Centers for Disease Control and Prevention: Health Department Directories.May 15, 2024.Accessed July 15, 2025.
+
+【炭疽治疗】
+其他药物
+其他药物
+胸腔积液引流
+胸腔积液引流
+炭疽如果延迟治疗（通常由于误诊）更可能导致死亡。经验性抗生素治疗需立即启动，以便在需要时根据药敏试验结果调整药物选择。糖皮质激素、单克隆抗体和静脉注射免疫球蛋白是可能改善临床结局的辅助治疗方法。
+
+【皮肤炭疽】
+皮肤炭疽如果没有明显水肿、全身症状或脑膜炎的担忧，则用单一抗生素治疗7至10天。若存在吸入性暴露风险，需持续使用抗生素60天以完成暴露后预防（1）。以下为首选的经验性药物：
+环丙沙星
+环丙沙星
+左氧氟沙星
+左氧氟沙星
+米诺环素
+米诺环素
+多西环素
+多西环素
+如果菌株对青霉素敏感，可使用阿莫西林或青霉素V。
+治疗后罕见死亡者，但皮损会进展至焦痂阶段。
+孕妇或哺乳期妇女及儿童即使通常禁用一线治疗药物，也应接受此类治疗。鉴于必须使用最有效的抗菌药物，儿童和妊娠期通常避免使用的喹诺酮类和四环素类药物在此情况下可被替代。一旦确定了炭疽菌株的敏感性特征并证实临床状况有所改善，便可调整治疗方案以降低潜在毒性。首选药物依次为多西环素、环丙沙星、左氧氟沙星和米诺环素。
+
+【吸入性及其他形式的炭疽病】
+吸入性及其他类型的炭疽，包括伴有显著水肿或全身症状的皮肤炭疽，均需初始联合 3 种抗生素治疗。抗生素治疗应包括≥ 2 种具有杀菌活性的不同类别的抗生素，并且≥ 1 种应为蛋白质或 RNA 合成抑制剂，以阻断毒素的产生。如果炭疽杆菌菌株对青霉素敏感，青霉素G被认为等同于氟喹诺酮类。
+静脉治疗应持续≥2周或直至患者临床稳定，以时间较长者为准。静脉注射联合治疗完成后，应继续使用单一口服抗生素治疗60天，以防止肺部未发芽孢子导致复发。
+具有杀菌活性的适当一线抗生素包括：
+氟喹诺酮类药物（环丙沙星或左氧氟沙星）
+氟喹诺酮类药物（环丙沙星或左氧氟沙星）
+一种碳青霉烯类（美罗培南或亚胺培南/西司他丁）
+一种碳青霉烯类（美罗培南或亚胺培南/西司他丁）
+对于青霉素敏感菌株，可使用青霉素G或氨苄西林
+对于青霉素敏感菌株，可使用青霉素G或氨苄西林
+抑制蛋白质合成的合适一线抗生素包括米诺环素、多西环素或克林霉素。
+推荐的RNA合成抑制剂是利福平。
+如果怀疑脑膜炎，应联合使用美罗培南和其他抗生素，因为美罗培南具有良好的中枢神经系统通透性。如果没有美罗培南，亚胺培南/西司他丁可替代，起到相同效果。
+
+【其他药物】
+糖皮质激素可能对脑膜炎及严重纵隔水肿有益，但目前缺乏充分的研究证据。
+Raxibacumab和obiltoxaximab是单克隆抗体，其作用机制是阻止炭疽毒素的保护性抗原（PA）组分与宿主细胞受体结合，从而阻断毒素的有害效应，应在可用时与抗生素联合使用以治疗吸入性炭疽（2）。两种单克隆抗体在吸入性炭疽病的动物模型中显示出较好的疗效，尤其是在早期给药的情况下。
+如果单克隆抗体不可用，可从接种过炭疽疫苗的供体血浆中制备静脉注射用炭疽人免疫球蛋白，与抗生素联合治疗吸入性炭疽。
+耐药性是一个主要问题。虽然炭疽杆菌B. anthracis通常对青霉素敏感，但可诱导产生beta-内酰胺酶 (1)，因此，通常不推荐单独使用青霉素或头孢菌素。
+
+【胸腔积液引流】
+吸入性炭疽患者需要支持治疗，有时还需要机械通气。通过胸管及时和持续引流胸腔积液至关重要。
+
+【治疗参考文献】
+1.Bower WA, Yu Y, Person MK, et al.CDC Guidelines for the Prevention and Treatment of Anthrax, 2023 [published correction appears inMMWR Morb Mortal Wkly Rep. 2024 Aug 08;73(31):689. doi: 10.15585/mmwr.mm7331a4].MMWR Recomm Rep2023;72(6):1-47.Published 2023 Nov 17.doi:10.15585/mmwr.rr7206a1
+1.Bower WA, Yu Y, Person MK, et al.CDC Guidelines for the Prevention and Treatment of Anthrax, 2023 [published correction appears inMMWR Morb Mortal Wkly Rep. 2024 Aug 08;73(31):689. doi: 10.15585/mmwr.mm7331a4].MMWR Recomm Rep2023;72(6):1-47.Published 2023 Nov 17.doi:10.15585/mmwr.rr7206a1
+2.Slay RM, Cook R, Hendricks K, Boucher D, Merchlinsky M.Pre- and Postlicensure Animal Efficacy Studies Comparing Anthrax Antitoxins.Clin Infect Dis.2022;75(Suppl 3):S441-S450.doi:10.1093/cid/ciac593
+2.Slay RM, Cook R, Hendricks K, Boucher D, Merchlinsky M.Pre- and Postlicensure Animal Efficacy Studies Comparing Anthrax Antitoxins.Clin Infect Dis.2022;75(Suppl 3):S441-S450.doi:10.1093/cid/ciac593
+
+【炭疽病的预后】
+如果不治疗，炭疽的病死率依感染类型而异 (1,2,3,4)：
+吸入型和脑膜炭疽：90%
+吸入型和脑膜炭疽：90%
+皮肤炭疽： 20%
+皮肤炭疽： 20%
+胃肠道炭疽：40%
+胃肠道炭疽：40%
+口咽炭疽：在12～50%之间
+口咽炭疽：在12～50%之间
+注射性炭疽：30%
+注射性炭疽：30%
+焊工炭疽：>50%
+焊工炭疽：>50%
+通过早期诊断、治疗和强化支持，包括机械通气、液体和血管加压药，吸入性炭疽的死亡率可能会降低。焊工的死亡率较高，这与其长期暴露在金属烟雾和高温环境下导致的慢性肺损伤有关。
+
+【预后参考】
+1.Person MK, Cook R, Bradley JS, et al: Systematic review of hospital treatment outcomes for naturally acquired and bioterrorism-related anthrax, 1880-2018.Clin Infect Dis75(Suppl 3):S392–S401, 2022.doi: 10.1093/cid/ciac536
+1.Person MK, Cook R, Bradley JS, et al: Systematic review of hospital treatment outcomes for naturally acquired and bioterrorism-related anthrax, 1880-2018.Clin Infect Dis75(Suppl 3):S392–S401, 2022.doi: 10.1093/cid/ciac536
+2.U.S. Food and Drug Administration: Vaccines: Anthrax.July 21, 2023.Accessed July 15, 2025.
+2.U.S. Food and Drug Administration: Vaccines: Anthrax.July 21, 2023.Accessed July 15, 2025.
+3.Grunow R, Verbeek L, Jacob D, et al: Injection anthrax--a new outbreak in heroin users.Dtsch Arztebl Int109(49):843–848, 2012.doi:10.3238/arztebl.2012.0843
+3.Grunow R, Verbeek L, Jacob D, et al: Injection anthrax--a new outbreak in heroin users.Dtsch Arztebl Int109(49):843–848, 2012.doi:10.3238/arztebl.2012.0843
+4.Dawson P, Schrodt CA, Feldmann K, et al: Notes from the Field: Fatal Anthrax Pneumonia in Welders and Other Metalworkers Caused byBacillus cereusGroup Bacteria Containing Anthrax Toxin Genes - U.S. Gulf Coast States, 1994-2020.MMWR Morb Mortal Wkly Rep70(41):1453–1454, 2021.doi:10.15585/mmwr.mm7041a4
+4.Dawson P, Schrodt CA, Feldmann K, et al: Notes from the Field: Fatal Anthrax Pneumonia in Welders and Other Metalworkers Caused byBacillus cereusGroup Bacteria Containing Anthrax Toxin Genes - U.S. Gulf Coast States, 1994-2020.MMWR Morb Mortal Wkly Rep70(41):1453–1454, 2021.doi:10.15585/mmwr.mm7041a4
+
+【预防炭疽】
+皮肤炭疽可能导致获得性免疫；后续感染罕见报道且症状较轻，这意味着存在一定程度的获得性免疫。吸入性炭疽可能为幸存患者提供一定的保护，使其免于未来炭疽感染（1），但这一观点主要基于体液免疫发展的轶事证据支持，其依据是观察到再次感染的症状较轻。
+一种炭疽疫苗（AVA），由含有保护性抗原蛋白的无细胞培养滤液制成，可用于18至65岁高危成人（如军事人员、兽医、实验室技术员、处理进口山羊毛的纺织厂员工、接触动物或动物产品的员工、前往世界特定地区旅行者以及从事焊接或金属加工业者）的暴露前预防。该疫苗不含任何死菌或活菌，采用5剂肌肉注射方案（每剂0.5毫升），分别在第0周和第4周接种，随后在第6、12和18个月进行后续注射，并需每年接种加强针。专门的兽用疫苗也可获得。
+需要每年重复进行暴露前疫苗接种以确保防护效果。据报道，炭疽疫苗对完成初始系列接种并定期接受加强免疫的人群有效（2）。疫苗可能产生局部反应。孕妇不应接种炭疽疫苗，除非已确定接种的潜在益处大于对胎儿的潜在风险。对炭疽疫苗有严重或重度过敏反应者，在接触炭疽前不应接种该疫苗。美国境内预期可能接触炭疽的人士，可从当地州卫生部门获取疫苗供应信息（3）。
+
+【暴露后预防】
+暴露后预防措施包括:
+单克隆抗体
+单克隆抗体
+无症状人群（包括孕妇和儿童）接触吸入性炭疽后，需要口服抗生素预防60天。多西环素、环丙沙星或左氧氟沙星是一线经验性选择，应根据患者的抗生素药敏试验结果和妊娠状态进行调整（4）。喹诺酮类和四环素类药物在儿童和孕妇中的潜在风险被其益处所超越。只有当患者分离菌株已知对青霉素敏感时，方可使用阿莫西林或青霉素V钾。替代抗生素包括米诺环素、莫西沙星和克林霉素。
+接触过气溶胶后，在肺中仍可检测到活孢子。由于暴露于气溶胶化B. anthracis（炭疽芽孢杆菌）孢子的人员，因最初暴露后未发芽的孢子残留在肺部，可认为有患吸入性炭疽的风险，因此应继续进行60天的抗生素治疗以清除正在萌发的微生物。
+美国疾病控制与预防中心（CDC）建议，对暴露于炭疽芽孢的患者，应在使用适当抗生素预防的同时接种炭疽疫苗（5）。美国疾病控制与预防中心建议在第0、2和4周进行3 剂皮下疫苗接种，并同时进行至少60天的抗菌药物治疗。紧急情况下（如生物恐怖袭击），只有那些对之前接种的炭疽疫苗有严重过敏反应的人才不用在暴露后接种疫苗（6）。
+拉昔巴珠单抗和奥比妥昔单抗为抗毒素单克隆抗体，在其他治疗方法不可用或不适宜时，可用于吸入性炭疽的预防。
+
+【预防参考文献】
+1.Quinn CP, Dull PM, Semenova V, et al.Immune responses toBacillus anthracisprotective antigen in patients with bioterrorism-related cutaneous or inhalation anthrax.J Infect Dis.2004;190(7):1228-1236.doi:10.1086/423937
+1.Quinn CP, Dull PM, Semenova V, et al.Immune responses toBacillus anthracisprotective antigen in patients with bioterrorism-related cutaneous or inhalation anthrax.J Infect Dis.2004;190(7):1228-1236.doi:10.1086/423937
+2.Bower WA, Schiffer J, Atmar RL, et al.Use of Anthrax Vaccine in the United States: Recommendations of the Advisory Committee on Immunization Practices, 2019.MMWR Recomm Rep.2019;68(4):1-14.Published 2019 Dec 13.doi:10.15585/mmwr.rr6804a1
+2.Bower WA, Schiffer J, Atmar RL, et al.Use of Anthrax Vaccine in the United States: Recommendations of the Advisory Committee on Immunization Practices, 2019.MMWR Recomm Rep.2019;68(4):1-14.Published 2019 Dec 13.doi:10.15585/mmwr.rr6804a1
+3.Centers for Disease Control and Prevention: Health Department Directories.May 15, 2024.Accessed July 15, 2025.
+3.Centers for Disease Control and Prevention: Health Department Directories.May 15, 2024.Accessed July 15, 2025.
+4.Bower WA, Yu Y, Person MK, et al.CDC Guidelines for the Prevention and Treatment of Anthrax, 2023 [published correction appears inMMWR Morb Mortal Wkly Rep. 2024 Aug 08;73(31):689. doi: 10.15585/mmwr.mm7331a4].MMWR Recomm Rep2023;72(6):1-47.Published 2023 Nov 17.doi:10.15585/mmwr.rr7206a1
+4.Bower WA, Yu Y, Person MK, et al.CDC Guidelines for the Prevention and Treatment of Anthrax, 2023 [published correction appears inMMWR Morb Mortal Wkly Rep. 2024 Aug 08;73(31):689. doi: 10.15585/mmwr.mm7331a4].MMWR Recomm Rep2023;72(6):1-47.Published 2023 Nov 17.doi:10.15585/mmwr.rr7206a1
+5.Centers for Disease Control and Prevention: Vaccines and Immunizations: Anthrax Vaccine VIS.January 8, 2020.Accessed July 15, 2025.
+5.Centers for Disease Control and Prevention: Vaccines and Immunizations: Anthrax Vaccine VIS.January 8, 2020.Accessed July 15, 2025.
+6.Centers for Disease Control and Prevention: Anthrax: Prevention.April 16, 2025.Accessed July 15, 2025.
+6.Centers for Disease Control and Prevention: Anthrax: Prevention.April 16, 2025.Accessed July 15, 2025.
+炭疽通常从感染的动物获得，但已被用作生物武器。
+炭疽通常从感染的动物获得，但已被用作生物武器。
+强效毒素，包括水肿毒素和致命毒素，是引起最严重的临床表现的主要原因。
+强效毒素，包括水肿毒素和致命毒素，是引起最严重的临床表现的主要原因。
+炭疽的主要临床类型包括皮肤型炭疽（最常见）、消化道型炭疽、吸入型炭疽和脑膜型炭疽（致死性最强）。
+炭疽的主要临床类型包括皮肤型炭疽（最常见）、消化道型炭疽、吸入型炭疽和脑膜型炭疽（致死性最强）。
+摄入性和吸入性炭疽不会在人与人之间传播。
+摄入性和吸入性炭疽不会在人与人之间传播。
+采用合适的抗生素方案治疗，有时采用单克隆抗体或炭疽人免疫球蛋白，这类制剂可与炭疽杆菌毒素中的保护性抗原成分结合。
+采用合适的抗生素方案治疗，有时采用单克隆抗体或炭疽人免疫球蛋白，这类制剂可与炭疽杆菌毒素中的保护性抗原成分结合。
+对吸入性炭疽暴露者，应给予环丙沙星、左氧氟沙星、莫西沙星、多西环素、米诺环素或克林霉素进行暴露后预防；同时接种炭疽疫苗，并在某些情况下联合使用单克隆抗体。
+对吸入性炭疽暴露者，应给予环丙沙星、左氧氟沙星、莫西沙星、多西环素、米诺环素或克林霉素进行暴露后预防；同时接种炭疽疫苗，并在某些情况下联合使用单克隆抗体。

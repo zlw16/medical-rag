@@ -1,0 +1,83 @@
+标题：铅中毒
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/poisoning/lead-poisoning
+============================================================
+
+（参见中毒的一般原则。）
+不存在对机体无害的血铅水平。美国疾病控制和预防中心（CDC）建议，血铅水平>3.5mcg/dL (0.17 micromol/L) 的儿童必须接受治疗、再检测和连续监测，并评估维生素缺乏和一般营养状况 (1, 2)。
+
+【参考文献】
+1.U.S. Centers for Disease Control and Prevention.Childhood Lead Poisoning Prevention: Recommended Actions Based on Blood Lead Level.Accessed January 30, 2025.
+1.U.S. Centers for Disease Control and Prevention.Childhood Lead Poisoning Prevention: Recommended Actions Based on Blood Lead Level.Accessed January 30, 2025.
+2.Pediatric Environmental Health Specialty Unit (PEHSU).Recommendations on Management of Childhood Lead Exposure.Accessed January 30, 2025.
+2.Pediatric Environmental Health Specialty Unit (PEHSU).Recommendations on Management of Childhood Lead Exposure.Accessed January 30, 2025.
+
+【铅中毒的病因】
+含铅油漆在美国一直普遍使用到 1960 年，直到 1970 年代初还在一定程度上使用，并于 1978 年基本淘汰。因此，在一大部分老房子里，铅油漆仍存在一定隐患。铅中毒通常是从含铅油漆碎片里直接摄取（从破裂，脱漆）引起的。房子重新装修时，表面油漆制备过程中，患者可能会暴露于大量的颗粒状气雾铅的环境内。
+一些陶瓷釉料中含有铅；用这些釉料（常见于美国以外）制成的陶瓷器皿（如瓶子，杯子，盘子）可以滤出铅，特别是当与酸性物质（如水果，可乐饮料，西红柿，葡萄酒，苹果酒）接触时。铅污染的私酿威士忌和民间偏方是可能的来源，胃部或组织中的异物（如子弹、窗帘或钓鱼坠）也可能导致铅中毒。留在靠近滑膜液或脑脊液附近软组织中的子弹可升高血液铅水平，但这个过程需要很长时间。
+电池制造和回收、烫金、黄铜制造、玻璃制造、管道切割、焊接、冶炼或陶器或颜料工作期间，可能会发生职业暴露。某些民族化妆品和进口草药产品和药材含有铅，并在移民社区引起铅中毒的集群爆发。为寻求中枢神经系统效应而娱乐性吸入含铅汽油（在美国以外国家）的气味可导致铅中毒。
+
+【铅中毒的症状和体征】
+铅中毒通常是慢性的，可能没有急性症状。 不管有无急性症状，铅中毒最终导致不可逆性结果（认知缺陷、周围神经病、进行性肾功能不全）。
+铅中毒的症状大致与铅水平成正比，但没有任何铅水平是安全的。虽然临界点可能更低，较长时间的血液铅水平（PbB）≥10mcg/dL（≥0.48micromol/L），可致认知缺陷的危险明显增高。若血铅浓度达到或>50mcg/dL（>2.4μmol/L），可能出现其他症状（如腹部绞痛、便秘、震颤、情绪改变）。如PbB>100 mcg/dL（>4.8 micromol/L），可能出现脑病。
+急性铅中毒可能引起激惹、注意力下降和急性脑病。脑水肿可在1～5天后发生，产生持久而剧烈的呕吐、共济失调、惊厥、意识改变，最后为难以控制的癫痫与昏迷。脑病可能在激惹和活动减少几周后发生。
+儿童慢性铅中毒可以导致智力障碍、癫痫发作、攻击性行为异常、发育迟缓、慢性腹痛和贫血。
+有职业暴露的成人在数周内或更长时间出现特征性症状（性格改变、头痛、腹痛、神经病变）。脑病并不常见。成人可出现性欲降低、不孕不育，男性有勃起障碍。
+
+【儿童和成人】
+由于铅干扰了血红蛋白的生成，可发生贫血。吸入四乙基或四甲基铅（在含铅汽油中）除了较多铅中毒的特征外，可以出现中毒性精神病。
+
+【铅中毒的诊断】
+毛细血管或全血血铅水平
+毛细血管或全血血铅水平
+腹部X线检查
+腹部X线检查
+有时对疑似慢性暴露的儿童进行长骨 X 光检查
+有时对疑似慢性暴露的儿童进行长骨 X 光检查
+对具有典型症状的病人应注意铅中毒可能。然而，由于症状并非具有特异性，常致诊断延误。评估包括全血计数和血清电解质、血尿素氮（BUN）、血清肌酐、血糖和全血铅水平（PbBs）的测量。行腹部X线检查以发现不透X线的铅颗粒。对儿童进行长骨X线检查。水平方向的干骺端铅线，代表儿童长骨临时钙化区缺乏骨重塑和钙沉积增加，对铅或其他重金属中毒有一定特异性，但敏感度较低。正常细胞性和小细胞性贫血提示铅中毒，特别是网织红细胞计数增高或出现嗜碱性点彩红细胞，但是，敏感度和特异度均有限。若血铅水平达到≥3.5mcg/dL（0.17μmol/L），即可确诊。
+由于测量血铅水平并非总是可行且可能成本高昂，因此可采用其他初步或筛查测试来检测铅中毒。毛细血管血铅测定精确、价格低廉且快速。所有阳性结果应当通过PbB证实。红细胞原卟啉（也称锌原卟啉或游离红细胞原卟啉）试验不够精确，目前很少采用。
+血铅水平≥3.5mcg/dL（0.17μmol/L）的儿童应接受临床评估，必要时需检测营养和维生素缺乏（例如铁、钙、维生素C缺乏）情况(1)。
+
+【激发试验】
+尿液金属激发试验（给患者使用螯合剂，如二巯基丁二酸、二巯基丙烷磺酸、依地酸钙钠，然后测量尿液中排泄的金属水平）尚未得到科学验证，未显示出获益，并且在评估和治疗疑似金属中毒的患者时可能有害。
+
+【诊断参考文献】
+1.Binns HJ, Campbell C, Brown MJ; Centers for Disease Control and Prevention Advisory Committee on Childhood Lead Poisoning Prevention.Interpreting and managing blood lead levels of less than 10 microg/dL in children and reducing childhood exposure to lead: recommendations of the Centers for Disease Control and Prevention Advisory Committee on Childhood Lead Poisoning Prevention.Pediatrics.2007;120(5):e1285-e1298.doi:10.1542/peds.2005-1770
+1.Binns HJ, Campbell C, Brown MJ; Centers for Disease Control and Prevention Advisory Committee on Childhood Lead Poisoning Prevention.Interpreting and managing blood lead levels of less than 10 microg/dL in children and reducing childhood exposure to lead: recommendations of the Centers for Disease Control and Prevention Advisory Committee on Childhood Lead Poisoning Prevention.Pediatrics.2007;120(5):e1285-e1298.doi:10.1542/peds.2005-1770
+
+【铅中毒的治疗】
+增强排泄（例如，如果铅存在于胃肠道，可采用全肠灌洗）
+增强排泄（例如，如果铅存在于胃肠道，可采用全肠灌洗）
+成人有中毒症状加上全血铅水平（PbB）>70mcg/dL（>3.38μmol/L）时进行螯合治疗
+成人有中毒症状加上全血铅水平（PbB）>70mcg/dL（>3.38μmol/L）时进行螯合治疗
+对有脑病表现或血铅水平>45mcg/dL（>2.17mmol/L）的儿童予螯合治疗
+对有脑病表现或血铅水平>45mcg/dL（>2.17mmol/L）的儿童予螯合治疗
+对于所有患者，都应消除铅源。如果腹部平片可见到铅屑，则应用聚乙二醇电解质溶液进行全肠灌洗，成人用量为1～2L/h，儿童为25～40mL/kg/h，直到复查X线片显示无铅影。留置鼻胃管以利于大容量给药，但必须做好气道保护，必要时可先行气管插管。如果是由于子弹引起的铅中毒，应行手术取出。血铅浓度>70mcg/dL（>3.38μmol/L）的儿童和所有有神经系统症状的患者均应住院治疗。 急性脑病患者入住重症监护室。
+螯合剂（例如，二巯丁二酸[2,3-二硫基琥珀酸]、依地酸钙钠[乙二胺四乙酸钙钠]）、二巯丙醇[英国抗路易氏剂，或BAL]）可用于结合铅，使其形成可排泄的形式。螯合剂的使用必须在经验丰富的毒理学家监督下进行。对有中毒症状且血铅浓度>70mcg/dL (3.38 μmol/L) 的成人和有脑病或血铅浓度>45mcg/dL（>2.17μmol/L）的儿童推荐使用螯合治疗。肝肾功能不全是使用螯合药物的相对禁忌证。对目前仍暴露于铅的病人不应使用螯合药物，因其可增加铅的胃肠道吸收。螯合剂只能清除相对少量的金属。如果体内铅含量很高，应进行多次螯合治疗，并维持数年。
+
+【治疗方案】
+脑病患者接受二巯丙醇75 mg/m2（或4 mg/kg）IM q4h，以及 CaNa2EDTA [乙二胺四乙酸二钠钙] 1000 ~1500 mg/m2IV（溶液） qd。  首剂二巯基丙醇应至少在首剂CaNa2EDTA前4小时给予，以避免铅再次分布到脑。在起初数剂后是否停用二巯基丙醇取决于铅的水平和疾病的严重程度。二巯基丙醇和CaNa2EDTA的联合治疗疗程为5天，紧接着3天的洗脱期；然后对是否需要继续螯合治疗进行再评估。
+没有脑病的病人通常用二硫琥珀酸治疗，前5天给予10mg/kg，每8小时1次口服，继之10mg/kg q12h 口服，用14天。如果这些病人出现症状，可选择用二巯基丙醇50mg/m2深部肌内注射，q4h，共5天，并加用依地酸钙钠（CaNa2EDTA）1000mg/m2iv，qd。
+二巯基丙醇可引起呕吐，应配合肠外或口服补液给予。二巯基丙醇也可引起注射部位疼痛和全身症状，而且在G6PD酶缺乏病人可引起中重度急性血管内溶血。此药不能和补铁剂同时使用。由于二巯基丙醇是从花生衍生物中配制而成的，因此禁用于已知或怀疑花生过敏的病人。
+CaNa2EDTA（依地酸钙钠）可导致血栓性静脉炎，这可通过肌内注射而非静脉注射来预防；若静脉注射，其浓度应为<0.5%。 在开始使用CaNa2EDTA治疗前，应确认有充足的尿量。 CaNa2EDTA的严重反应包括肾功能不全、蛋白尿、镜下血尿、发热和腹泻。肾毒性与剂量相关，常是可逆的。 CaNa2EDTA的不良反应可能与锌的消耗有关。
+二硫琥珀酸的一般不良反应包括皮疹、胃肠道症状（如：食欲减退、恶心、呕吐、腹泻和金属味）和肝酶的短暂升高。
+
+【较低血铅水平】
+应密切监测血铅水平可检出的患者，必要时重复进行血铅检测（1）。
+
+【治疗参考文献】
+1.Centers for Disease Control and Prevention.Recommended Actions Based on Blood Lead Level.Accessed January 30, 2025.
+1.Centers for Disease Control and Prevention.Recommended Actions Based on Blood Lead Level.Accessed January 30, 2025.
+建议将铅暴露筛查纳入12月龄和24月龄婴幼儿健康体检的常规项目。铅暴露风险儿童（如居住于1978年前建造房屋或低收入家庭、来自发展中国家的患者、密切接触铅作业人员者）应进行铅中毒筛查。(See also Centers for Disease Control and Prevention (CDC): Testing for Lead Poisoning in Children.)
+
+【预防铅中毒】
+减少家庭中毒风险的措施包括定期洗手、定期清洗儿童玩具和奶嘴、定期清洁家中表面；饮用水、家用油漆（1978年后建造的房屋除外）以及美国以外生产的陶瓷器皿都应检测铅含量。在工作中接触含铅粉尘的成人应使用适当的个人防护设备，回家前更换衣服和鞋子并在睡觉前淋浴。
+1978年之前油漆的房子（特别是改建或重新粉刷时），某些陶瓷器皿（如瓶子，杯子，盘子）有含铅釉，以及某些职业暴露都会增加铅中毒的风险。
+1978年之前油漆的房子（特别是改建或重新粉刷时），某些陶瓷器皿（如瓶子，杯子，盘子）有含铅釉，以及某些职业暴露都会增加铅中毒的风险。
+患者需接受毛细血管或全血铅含量测试。
+患者需接受毛细血管或全血铅含量测试。
+清除铅来源（若胃肠道存有铅，应全肠道灌洗）。
+清除铅来源（若胃肠道存有铅，应全肠道灌洗）。
+成人PbB> 70mcg/dL (3.38 micromol/L)，儿童存在脑病或PbB> 45mcg/dL (2.17 micromol/L)时应给予螯合剂治疗。
+成人PbB> 70mcg/dL (3.38 micromol/L)，儿童存在脑病或PbB> 45mcg/dL (2.17 micromol/L)时应给予螯合剂治疗。
+对于铅水平轻度升高的无症状或症状轻微的患者，使用二硫琥珀酸作为一线螯合疗法。或者，有或没有 CaNa2 EDTA 的二巯基丙醇可用于无脑病的有症状患者。脑病患者使用二巯基丙醇/CaNa2 EDTA 螯合剂联合治疗。
+对于铅水平轻度升高的无症状或症状轻微的患者，使用二硫琥珀酸作为一线螯合疗法。或者，有或没有 CaNa2 EDTA 的二巯基丙醇可用于无脑病的有症状患者。脑病患者使用二巯基丙醇/CaNa2 EDTA 螯合剂联合治疗。

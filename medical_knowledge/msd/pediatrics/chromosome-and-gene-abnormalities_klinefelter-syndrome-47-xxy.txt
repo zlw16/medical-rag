@@ -1,0 +1,56 @@
+标题：先天性睾丸发育不全综合征（47，XXY）
+来源：https://www.msdmanuals.cn/professional/pediatrics/chromosome-and-gene-abnormalities/klinefelter-syndrome-47-xxy
+============================================================
+
+（参见染色体异常概述，见性染色体异常概述。）
+克氏综合征是一种男性染色体疾病，其特征是至少存在一条额外的 X 染色体 (47,XXY)。它会导致睾丸小、高促性腺激素性性腺功能减退、不育、身材高大以及不同程度的认知、代谢和社会心理障碍。
+克兰费尔特综合征是最常见的性染色体紊乱。报告的患病率各不相同，而且很可能诊断不足（一项国家数据库研究报告称，有 6/10,000 名男性活产）（1）。大约50%的病例中，多余的X染色体来自母方，其余病例主要是由于父方不分离（2）。睾丸中的生殖细胞无法存活，导致精子和雄激素减少。
+
+【参考文献】
+1.Berglund A, Viuff MH, Skakkebæk A, et al.Changes in the cohort composition of turner syndrome and severe non-diagnosis of Klinefelter, 47,XXX and 47,XYY syndrome: A nationwide cohort study.Orphanet J Rare Dis.2019;14(1):16.doi:10.1186/s13023-018-0976-2
+1.Berglund A, Viuff MH, Skakkebæk A, et al.Changes in the cohort composition of turner syndrome and severe non-diagnosis of Klinefelter, 47,XXX and 47,XYY syndrome: A nationwide cohort study.Orphanet J Rare Dis.2019;14(1):16.doi:10.1186/s13023-018-0976-2
+2.Jacobs PA, Hassold TJ, Whittington E, et al.Klinefelter's syndrome: an analysis of the origin of the additional sex chromosome using molecular probes.Ann Hum Genet.1988;52(2):93-109.doi:10.1111/j.1469-1809.1988.tb01084.x
+2.Jacobs PA, Hassold TJ, Whittington E, et al.Klinefelter's syndrome: an analysis of the origin of the additional sex chromosome using molecular probes.Ann Hum Genet.1988;52(2):93-109.doi:10.1111/j.1469-1809.1988.tb01084.x
+
+【克氏综合征的症状和体征】
+男性患者临床表现往往身材高大、四肢较长且与身体不成比例。他们通常睾丸小而坚硬，阴茎也较小。约30%的患者会出现男性乳房发育症（1）。
+这张照片显示了一名Klinefelter综合征患者的男性乳房发育以及小睾丸和阴茎。
+© Springer Science+Business Media
+青春期通常在正常年龄开始，但面部毛发通常较少。存在语言学习障碍的倾向。临床表现差异较大，许多 47,XXY 型男性外貌和智力可正常。睾丸发育程度不一，可表现为透明变性的无功能曲细静管，到部分产生精子，且伴有尿液中促卵泡激素排泄量增加。
+Klinefelter综合征男性比其他男性更易患糖尿病、慢性肺病、静脉曲张、甲状腺功能减退症和乳腺癌。
+嵌合体的发生率约为15% (2)。在某些细胞中具有正常雄性核型 (XY) 的雄性可能具有生育能力，并且畸形不太明显。部分患者可能携带3条、4条甚至5条X染色体与Y染色体共存。
+随着X染色体数量增加，智力障碍和畸形的严重程度也随之增加。每个额外的X染色体与智商降低15至16点相关，语言的影响最大，尤其是语言表达能力。
+
+【症状和体征参考】
+1.Nieschlag E.Klinefelter syndrome: the commonest form of hypogonadism, but often overlooked or untreated.Dtsch Arztebl Int.2013;110(20):347-353.doi:10.3238/arztebl.2013.0347
+1.Nieschlag E.Klinefelter syndrome: the commonest form of hypogonadism, but often overlooked or untreated.Dtsch Arztebl Int.2013;110(20):347-353.doi:10.3238/arztebl.2013.0347
+2.Jacobs PA, Hassold TJ, Whittington E, et al.Klinefelter's syndrome: an analysis of the origin of the additional sex chromosome using molecular probes.Ann Hum Genet.1988;52(2):93-109.doi:10.1111/j.1469-1809.1988.tb01084.x
+2.Jacobs PA, Hassold TJ, Whittington E, et al.Klinefelter's syndrome: an analysis of the origin of the additional sex chromosome using molecular probes.Ann Hum Genet.1988;52(2):93-109.doi:10.1111/j.1469-1809.1988.tb01084.x
+
+【Klinefelter综合征的诊断】
+细胞遗传学检测产前诊断
+细胞遗传学检测产前诊断
+生后诊断依据临床表现。
+生后诊断依据临床表现。
+通过核型分析、荧光原位杂交 (FISH) 分析和/或染色体微阵列分析进行细胞遗传学检测
+通过核型分析、荧光原位杂交 (FISH) 分析和/或染色体微阵列分析进行细胞遗传学检测
+当进行细胞遗传学检测（如核型分析）时，可能会偶然诊断出克氏综合征。细胞遗传学检查通常用于其他适应症，如高龄产妇或其他产前筛查检查结果异常，而不是由于对胎儿克氏综合征本身的特殊怀疑。
+青春期诊断克氏综合征通常根据体格检查发现的阴茎与睾丸偏小、以及男性乳房发育等表现而怀疑患有克氏综合征（1）。主要表现为性腺功能减退，并已进行促黄体生成素（LH）、促卵泡激素（FSH）和睾酮等性激素血液检测的青少年，可能需要进一步检测，如核型分析，以排除克莱恩费尔特综合征（参见图男性性腺功能减退的实验室评估）。许多男性在不孕不育评估中被诊断出该疾病（可能大多数非嵌合体47,XXY男性生育能力减退）。
+通过细胞遗传学分析（核型分析、FISH 分析和/或染色体微阵列分析）确认诊断。 （参见染色体异常的诊断和新一代测序技术。）
+
+【诊断参考文献】
+1.Smyth CM, Bremner WJ.Klinefelter syndrome.Arch Intern Med.1998;158(12):1309-1314.doi:10.1001/archinte.158.12.1309
+1.Smyth CM, Bremner WJ.Klinefelter syndrome.Arch Intern Med.1998;158(12):1309-1314.doi:10.1001/archinte.158.12.1309
+
+【Klinefelter综合征的治疗】
+睾酮补充疗法
+睾酮补充疗法
+青春期发育后应进行生育力保存咨询。
+青春期发育后应进行生育力保存咨询。
+患有Klinefelter综合征的男性应由内分泌科医生评估，以确定是否需要补充睾酮。睾酮治疗通常在青春期开始，或在临床性腺功能减退明显时启动，以确保男性性征、肌肉量、骨骼结构的发育，并改善心理社会功能。最近的研究表明，早期激素治疗可能有助于核型为47，XXY的男孩的发育和行为问题。
+青春期开始后的生育能力保持咨询应该尽早开始，因为成功取回精子（通过精液分析或睾丸精子提取）的可能性随着年龄和激素启动而下降（1）。
+言语和语言治疗，以及针对语言理解、阅读和认知缺陷的神经心理测试对于患有Klinefelter综合征的男孩通常是有益的。
+
+【Treatment reference】
+1.Butler G, Srirangalingam U, Faithfull J, Sangster P, Senniappan S, Mitchell R.Klinefelter syndrome: going beyond the diagnosis.Arch Dis Child.2023;108(3):166-171.doi:10.1136/archdischild-2020-320831
+1.Butler G, Srirangalingam U, Faithfull J, Sangster P, Senniappan S, Mitchell R.Klinefelter syndrome: going beyond the diagnosis.Arch Dis Child.2023;108(3):166-171.doi:10.1136/archdischild-2020-320831

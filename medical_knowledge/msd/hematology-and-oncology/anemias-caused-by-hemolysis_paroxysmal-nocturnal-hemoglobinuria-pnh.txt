@@ -1,0 +1,70 @@
+标题：阵发性睡眠性血红蛋白尿（PNH）
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/anemias-caused-by-hemolysis/paroxysmal-nocturnal-hemoglobinuria-pnh
+============================================================
+
+(参见溶血性贫血的概述。）
+阵发性睡眠性血红蛋白尿症的中位发病年龄为30岁，但可发生在任何年龄（1）。其在两性中发生的概率大致相同。尽管名称暗示了这一点，但溶血是全天发生的，而不仅仅是在晚上。
+
+【参考文献】
+1.de Latour RP, Mary JY, Salanoubat C, et al.Paroxysmal nocturnal hemoglobinuria: natural history of disease subcategories.Blood2008;112(8):3099-3106.doi:10.1182/blood-2008-01-133918
+1.de Latour RP, Mary JY, Salanoubat C, et al.Paroxysmal nocturnal hemoglobinuria: natural history of disease subcategories.Blood2008;112(8):3099-3106.doi:10.1182/blood-2008-01-133918
+
+【阵发性睡眠性血红蛋白尿的病因】
+阵发性夜间血红蛋白尿症是一种由获得性突变引起的克隆性疾病PIGA造血干细胞基因。PIGA基因位于X染色体上，其可编码一种蛋白质，该蛋白质对于糖基磷脂酰肌醇（GPI）在膜蛋白上的锚定是不可或缺的。PIGA突变导致血细胞表面所有糖基磷脂酰肌醇(GPI)锚定蛋白的丢失，包括衰变加速因子(CD55)和膜攻击复合物抑制因子(CD59)，重要的补体调节蛋白。因此，细胞更易被补体激活，导致持续性血管内溶血。
+
+【阵发性睡眠性血红蛋白尿的病理生理学】
+动脉血栓和静脉血栓都可以发生在四肢以及不常见的部位，如门静脉和脑静脉窦。血栓形成是补体激活和溶血增加的结果。
+长期的血红蛋白尿可导致缺铁。
+阵发性夜间血红蛋白尿与骨髓功能障碍有关，可能是由于对造血干细胞的免疫攻击常导致白细胞减少症和血小板减少症。 大约 50% 的获得性再生障碍性贫血（一种自身免疫性骨髓衰竭疾病）患者，具有可检测的阵发性睡眠性血红蛋白尿症(PNH)克隆（1）。
+
+【病理生理学参考文献】
+1.Babushok DV.When does a PNH clone have clinical significance?Hematology Am Soc Hematol Educ Program2021;2021(1):143-152.doi:10.1182/hematology.2021000245
+1.Babushok DV.When does a PNH clone have clinical significance?Hematology Am Soc Hematol Educ Program2021;2021(1):143-152.doi:10.1182/hematology.2021000245
+
+【阵发性睡眠性血红蛋白尿的症状和体征】
+患者可因感染、输血、接种疫苗或月经来潮而突发危象。可出现腹痛、胸痛、腰痛以及严重的贫血症状 。
+血管内血栓形成的表现取决于受影响的血管，除了腿部或手臂肿胀外，还可引起腹痛或头痛等症状。
+
+【阵发性睡眠性血红蛋白尿的诊断】
+流式细胞分析
+流式细胞分析
+当患者出现典型的贫血症状（如， 苍白、乏力、头晕、可能的低血压）或无法解释的正细胞性贫血伴血管内溶血，尤其当同时出现白细胞或血小板减少及/或发生血栓事件时，要考虑阵发性夜间血红蛋白尿的可能。
+PNH 的诊断是通过流式细胞术进行的，该技术用于确定白细胞上是否存在特定的红细胞或白细胞表面蛋白（膜攻击复合物抑制因子、衰变加速因子和荧光素标记的促气道溶菌素 [FLAER]）的缺失。流式细胞术具有高度敏感性和特异性。
+不一定要进行骨髓检查，但若为排除其他疾病进行骨穿，结果通常提示红系增生活跃。
+发生危象时，肉眼血红蛋白尿很常见，尿中会经常含有含铁血黄素。
+约三分之一的 PNH 克隆患者具有典型的 PNH 特征，具有溶血和血栓形成风险（1）。PNH 克隆通常发生在患有骨髓衰竭（获得性再生障碍性贫血) 且没有 PNH 相关症状。这些患者的体表面积通常较小（<30% 的患者患有亚临床 PNH 克隆，并且不能从补体抑制剂中获益；相反，确定性治疗是针对再生障碍性贫血的。 然而，经典 PNH 可以从再生障碍性贫血发展而来，再生障碍性贫血患者应每年筛查是否存在 PNH 克隆。相反，患有经典 PNH 的患者可能会经历进行性骨髓衰竭，最终需要通过免疫抑制或骨髓移植治疗再生障碍性贫血。
+
+【诊断参考文献】
+1.Babushok DV.When does a PNH clone have clinical significance?Hematology Am Soc Hematol Educ Program2021;2021(1):143-152.doi:10.1182/hematology.2021000245
+1.Babushok DV.When does a PNH clone have clinical significance?Hematology Am Soc Hematol Educ Program2021;2021(1):143-152.doi:10.1182/hematology.2021000245
+
+【阵发性睡眠性血红蛋白尿的治疗】
+补体抑制剂（如依库珠单抗）
+补体抑制剂（如依库珠单抗）
+支持治疗
+支持治疗
+克隆量较小的患者（即流式细胞分析结果<10％）几乎无症状，通常不需要治疗。需要接受治疗的指征有
+有症状的贫血或需要输血
+有症状的贫血或需要输血
+血栓形成
+血栓形成
+补体抑制可减少输血需求，降低血栓栓塞风险，同时缓解症状，并提高生活质量。
+通常使用与 C5 结合并充当末端补体抑制剂的单克隆抗体（例如，依库珠单抗）。在一项临床试验中，依库珠单抗减少了血管内溶血，是治疗 PNH 的有效方法（1）。
+近端补体抑制剂 pegcetacoplan（C3 抑制剂，通过皮下输注给药）和 iptacopan（口服 B 因子抑制剂，口服给药）通过替代途径阻断溶血。近端补体抑制剂有可能阻断因 C5 抑制而发生的血管内和血管外溶血（2）。末端和近端补体抑制都会增加感染脑膜炎奈瑟菌的风险，所以患者应该接受脑膜炎球菌疫苗或在开始治疗前至少14天开始预防性抗生素治疗。
+如果无法进行补体抑制，皮质类固醇可能会增加部分患者的血红蛋白并减少溶血，但缺乏支持证据。但是，由于长期使用的副作用，慢性治疗应避免使用糖皮质激素。补体抑制不能治疗并发的骨髓衰竭。
+支持治疗包括口服补铁及补充叶酸，且有时需输血治疗。
+一般情况下，输血通常用于危象或有症状的贫血。肝素桥接华法林或其他抗凝剂用于急性血栓形成，但一旦开始补体抑制剂治疗，通常不需要长期服用。
+
+【治疗参考文献】
+1.Hillmen P, Young NS, Schubert J, et al.The complement inhibitoreculizumabin paroxysmal nocturnal hemoglobinuria.N Engl J Med2006;355(12):1233-1243.doi:10.1056/NEJMoa061648
+1.Hillmen P, Young NS, Schubert J, et al.The complement inhibitoreculizumabin paroxysmal nocturnal hemoglobinuria.N Engl J Med2006;355(12):1233-1243.doi:10.1056/NEJMoa061648
+2.Hillmen P, Szer J, Weitz I, et al.PegcetacoplanversusEculizumabin Paroxysmal Nocturnal Hemoglobinuria.N Engl J Med2021;384(11):1028-1037.doi:10.1056/NEJMoa2029073
+2.Hillmen P, Szer J, Weitz I, et al.PegcetacoplanversusEculizumabin Paroxysmal Nocturnal Hemoglobinuria.N Engl J Med2021;384(11):1028-1037.doi:10.1056/NEJMoa2029073
+阵发性夜间血红蛋白尿（PNH）不仅仅在晚上，还可以在白天的任何时间引起溶血。
+阵发性夜间血红蛋白尿（PNH）不仅仅在晚上，还可以在白天的任何时间引起溶血。
+常见的临床特征包括血红蛋白尿，全血细胞减少症以及动脉和静脉血栓形成。
+常见的临床特征包括血红蛋白尿，全血细胞减少症以及动脉和静脉血栓形成。
+静脉血栓形成发生在不常见的位置，如肝静脉中。
+静脉血栓形成发生在不常见的位置，如肝静脉中。
+用补体抑制剂治疗有症状的患者。
+用补体抑制剂治疗有症状的患者。

@@ -1,0 +1,79 @@
+标题：线粒体氧化磷酸化缺乏
+来源：https://www.msdmanuals.cn/professional/pediatrics/inherited-disorders-of-metabolism/mitochondrial-oxidative-phosphorylation-disorders
+============================================================
+
+也可参考可疑遗传性代谢病的诊断程序。
+细胞呼吸（氧化磷酸化）发生在线粒体中，通过一系列酶促反应催化电子转移到分子氧，同时生成储能的腺苷三磷酸（ATP）。涉及该过程的酶缺陷会削弱细胞呼吸，降低ATP:ADP（腺苷二磷酸）比例。线粒体有自己的DNA（线粒体DNA [mtDNA]），它是从母体遗传的。但是，mtDNA与核DNA共同承担线粒体功能。因此，线粒体和核突变均可引起线粒体疾病。
+高能量需求的组织（例如，脑、神经、视网膜、骨骼肌和心肌）特别容易受到氧化磷酸化缺陷的影响。
+最常见的临床表现是
+张力过低
+张力过低
+眼肌麻痹
+眼肌麻痹
+中风发作
+中风发作
+严重便秘
+严重便秘
+从生化层面看，由于NADH:NAD比例增加，促使乳酸脱氢酶反应的平衡向乳酸转移，可能导致严重的乳酸酸中毒。乳酸∶丙酮酸比率的升高可用于鉴别氧化磷酸化缺陷与乳酸酸中毒病因，如丙酮酸羧化酶或丙酮酸脱氢酶缺乏，后者乳酸∶丙烯酸比率保持正常。成纤维细胞生长因子 21 (FGF-21) 和生长分化因子 15 (GDF-15) 是可能提示线粒体功能障碍的其他生物标志物。很多氧化磷酸化缺陷已被阐述，故这里只叙述其中最常见的一部分和它们的独特特征。
+
+【优点与缺陷】
+优点与缺陷
+乳酸∶丙酮酸比率的升高可用于鉴别氧化磷酸化缺陷与乳酸酸中毒病因。
+乳酸∶丙酮酸比率的升高可用于鉴别氧化磷酸化缺陷与乳酸酸中毒病因。
+线粒体突变和变异也被认为与多种老年疾病有关（如帕金森病、阿尔茨海默病、糖尿病、耳聋、癌症）。
+以下病症是具有已知表型/基因型相关性的病症。线粒体功能存在其他不太明确的缺陷。此外，存在许多条件，其中遗传缺陷引起继发性线粒体功能障碍。
+
+【Leber遗传性视神经病变（LHON）】
+LHON的特点是视网膜变性导致的急性或亚急性双侧中央视力丧失。
+起病常在20～30岁，但从儿童到成人都可以发病。男性患此病更为常见，一项研究报告称，男性与女性的比例为 3:1（1）。已确定了许多线粒体 DNA 变异，但 3 种常见的变异，即 m.11778 G>A、m.3460 G>A 和 m.14484 T>C，占 90% 的病例。LHON谱系常表现为线粒体疾病典型的母系遗传特征，包括mtDNA突变。
+玻璃体内基因治疗在早期临床试验中显示出非常有希望的结果 (2)。
+
+【参考文献】
+1.Poincenot L, Pearson AL, Karanjia R.Demographics of a Large International Population of Patients Affected by Leber's Hereditary Optic Neuropathy.Ophthalmology.2020;127(5):679-688.doi:10.1016/j.ophtha.2019.11.014
+1.Poincenot L, Pearson AL, Karanjia R.Demographics of a Large International Population of Patients Affected by Leber's Hereditary Optic Neuropathy.Ophthalmology.2020;127(5):679-688.doi:10.1016/j.ophtha.2019.11.014
+2.Newman NJ, Yu-Wai-Man P, Carelli V, et al.Efficacy and Safety of Intravitreal Gene Therapy for Leber Hereditary Optic Neuropathy Treated within 6 Months of Disease Onset.Ophthalmology.2021;128(5):649-660.doi:10.1016/j.ophtha.2020.12.012
+2.Newman NJ, Yu-Wai-Man P, Carelli V, et al.Efficacy and Safety of Intravitreal Gene Therapy for Leber Hereditary Optic Neuropathy Treated within 6 Months of Disease Onset.Ophthalmology.2021;128(5):649-660.doi:10.1016/j.ophtha.2020.12.012
+
+【Leigh综合征】
+Leigh综合征是一种严重的神经系统疾病，通常在出生后第一年出现。
+它是由 100 多个不同的核基因或 mtDNA 基因中的一个基因突变引起的，这些基因涉及线粒体中能量的产生。
+Leigh 综合征的特征是进行性吞咽困难，体重增加不良，肌张力减退，无力，共济失调，眼肌麻痹，眼球震颤，视神经萎缩伴有乳酸性酸中毒。大约一半的患者通常会在 2 至 3 年内死亡，通常是因为呼吸衰竭，但有些患者可以存活到青少年期和成年早期。
+影像学检查显示基底节，小脑和脑干的退行性病变。
+目前尚无已知的Leigh综合征治疗方法。然而，少数被诊断患有 Leigh 综合征的儿童实际上患有生物素硫胺素–反应性基底神经节疾病 (BTRBG)，其症状类似于 Leigh 综合征，但可通过高剂量的硫胺素 (维生素 B1) 和生物素补充剂获得显著疗效（1，2）。
+
+【Leigh综合征参考文献】
+1.Tabarki B, Al-Hashem A, Alfadhel M:Biotin-Thiamine-Responsive Basal Ganglia Disease.In: Adam MP, Feldman J, Mirzaa GM, et al., eds.GeneReviews®.Seattle (WA): University of Washington, Seattle; November 21, 2013.
+1.Tabarki B, Al-Hashem A, Alfadhel M:Biotin-Thiamine-Responsive Basal Ganglia Disease.In: Adam MP, Feldman J, Mirzaa GM, et al., eds.GeneReviews®.Seattle (WA): University of Washington, Seattle; November 21, 2013.
+2.Wesół-Kucharska D, Greczan M, Kaczor M, et al.Early treatment ofbiotin-thiamine-responsive basal ganglia disease improves the prognosis.Mol Genet Metab Rep.2021;29:100801.Published 2021 Sep 29.doi:10.1016/j.ymgmr.2021.100801
+2.Wesół-Kucharska D, Greczan M, Kaczor M, et al.Early treatment ofbiotin-thiamine-responsive basal ganglia disease improves the prognosis.Mol Genet Metab Rep.2021;29:100801.Published 2021 Sep 29.doi:10.1016/j.ymgmr.2021.100801
+
+【线粒体脑肌病、乳酸酸中毒和卒中样发作（MELAS）】
+线粒体tRNAleu基因突变引起这种以反复发作的“化学(代谢性)中风”、肌病和乳酸酸中毒为特征的进行性神经变性疾病。在许多病例中，细胞包含着野生型和突变型的线粒体DNA（异质性），因此表现也是多样性的。
+
+【线粒体神经胃肠脑肌病（MNGIE）】
+MNGIE 是一种非常罕见的疾病，其特征是胃肠道 (GI) 道肌肉退化，导致胃肠道运动不良并引起许多胃肠道症状。此外，由于周围神经的退化，还会出现眼部肌肉无力以及感觉丧失和四肢无力。发病年龄不定，但通常在20岁之前。
+MNGIE 是由TYMP基因突变引起的，该基因编码胸苷磷酸化酶，并在 mtDNA 中发生二次变化。遗传方式是常染色体隐性遗传；男女患病率均等。
+治疗的重点是症状管理。长期预后较差，平均死亡年龄在 30 多岁 (1)。
+
+【MNGIE 参考】
+1.Garone C, Tadesse S, Hirano M.Clinical and genetic spectrum of mitochondrial neurogastrointestinal encephalomyopathy.Brain.2011;134(Pt 11):3326-3332.doi:10.1093/brain/awr245
+1.Garone C, Tadesse S, Hirano M.Clinical and genetic spectrum of mitochondrial neurogastrointestinal encephalomyopathy.Brain.2011;134(Pt 11):3326-3332.doi:10.1093/brain/awr245
+
+【伴粗糙红纤维的肌阵挛型癫痫（MERRF）】
+MERRF 是一种进行性疾病，其特征是无法控制的肌肉收缩（肌阵挛性癫痫）、痴呆、共济失调和肌病。
+肌病活检时呈现粗糙的红色纤维（表明线粒体增生），并带有特殊染色。突变发生在线粒体tRNAlys基因。异质性很常见，因此表达差异也很大。
+
+【神经病变、共济失调和色素性视网膜炎（NARP）】
+NARP是一种进行性疾病，其特征是感觉神经病（四肢麻木，刺痛或疼痛），肌无力，共济失调，视网膜退化引起视力下降（色素性视网膜炎），认知能力下降，癫痫发作，听力下降和心脏传导缺陷。这种疾病可以发生在童年或成年早期。
+NARP源于mtDNA中包含的ATP6基因突变。ATP6突变会改变三磷酸腺苷（ATP）合酶的结构或功能，从而降低线粒体产生ATP的能力。
+
+【单个大规模线粒体 DNA 缺失综合征 (SLSMDS)】
+SLSMDS 包括 Pearson 综合征、Kearns-Sayre 综合征和慢性进行性眼外肌麻痹。它们的特征是多器官症状重叠，并且可能因发病年龄而异。
+Pearson综合征在生命的最初两年内表现出来。症状包括输血依赖性铁粒幼细胞贫血、乳酸性酸中毒和胰腺外分泌功能障碍。这在婴儿期可能是致命的。
+Kearns-Sayre 综合征通常在20岁之前显现。它与眼肌麻痹、眼睑下垂、非典型视网膜色素变性、破碎红纤维肌病、共济失调、耳聋和心肌病有关。
+慢性进行性眼外肌麻痹(CPEO) 通常在青春期晚期或成年期确诊。患者出现眼肌麻痹，眼睑下垂，运动不耐受和肌肉无力。CPEO也可能由几种不同的核基因之一的突变引起，这些基因对mtDNA的产生和维持至关重要，其突变可导致肌肉细胞中mtDNA的大片段缺失。不太常见的原因包括mtDNA基因中的点突变，这些突变为产生转移RNA提供指令。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information
+Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information

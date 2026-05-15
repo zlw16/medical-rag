@@ -1,0 +1,65 @@
+标题：肺动脉瓣狭窄
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/valvular-disorders/pulmonary-stenosis
+============================================================
+
+(参见心脏瓣膜疾病概述。）
+
+【肺动脉狭窄的病因】
+肺动脉瓣狭窄最常见于先天性的，主要累及儿童；狭窄可能是瓣膜性的或正好位于瓣膜下方的流出道（漏斗部）。 常常是法洛四联症的组成部分之一。 瓣上狭窄也可能发生，有时与瓣膜狭窄合并形成瓣膜/瓣上复合体，或表现为孤立性瓣上狭窄（如威廉姆斯综合征或阿拉吉尔综合征）。
+不太常见的原因包括：
+努南综合征（一种涉及Ras/丝裂原活化蛋白激酶通路的遗传综合征）
+努南综合征（一种涉及Ras/丝裂原活化蛋白激酶通路的遗传综合征）
+类癌综合征（成人）
+类癌综合征（成人）
+
+【肺动脉狭窄的症状和体征】
+许多患有肺动脉狭窄的儿童多年来一直没有症状，直到成年才出现明显症状，尽管有时在症状出现前通过运动试验能检测出异常。即使在成年后，许多患者仍然没有症状。当出现肺动脉狭窄的症状时，其表现与主动脉瓣狭窄类似（运动耐量下降、晕厥、心绞痛、呼吸困难）。
+望诊和触诊的体征反映右心室肥厚的影响，包括颈静脉a波明显（由于右心房对肥厚的右心室有力地收缩所致），心前区右心室抬举或搏动增强，以及胸骨左缘第2肋间隙收缩期震颤。
+增宽的第二心音 (S2) 和延迟的 S2 肺动脉成分 (P2)
+增宽的第二心音 (S2) 和延迟的 S2 肺动脉成分 (P2)
+刺耳的渐强渐弱的喷射样杂音
+刺耳的渐强渐弱的喷射样杂音
+听诊第1心音（S1）正常，第2心音分裂增宽（但不固定），是由于肺动脉射血延长导致P2延迟。随着肺动脉狭窄程度加重，P2音强度会减弱。先天性肺动脉瓣狭窄（PS）中的咔嗒声被认为是心室壁张力异常所致。咔哒声发生在收缩早期（非常接近 S1），并且在吸气时可能更响亮。在患者前倾时，用听诊器膜型体件于胸骨左缘第二肋间（瓣膜狭窄）或第四肋间（漏斗部狭窄）可闻及粗糙的递增-递减型喷射性杂音。右心室衰竭和肥厚时，第3心音和第4心音（S3和S4）罕见地在胸骨左缘第4肋间隙听到。
+与主动脉瓣狭窄的杂音不同，肺动脉瓣狭窄的杂音没有传导性，当狭窄进展时递增型杂音延长。在乏氏动作松弛期和吸气时杂音立即变得更响；为取得这种听诊效应病人可能需要站立。
+
+【肺动脉瓣狭窄的诊断】
+超声心动图
+超声心动图
+肺动脉瓣狭窄的诊断通过多普勒超声心动图确认，多普勒超声心动图可将其严重程度分为 (1)：
+轻度：峰值压差<36 mmHg或峰值速度<3米/秒
+轻度：峰值压差<36 mmHg或峰值速度<3米/秒
+中度：峰值压差36至64mmHg或峰值速度3至4米/秒
+中度：峰值压差36至64mmHg或峰值速度3至4米/秒
+重度：峰值压差>64mmHg或峰值流速>4米/秒
+重度：峰值压差>64mmHg或峰值流速>4米/秒
+心电图可表现正常或显示右心室肥厚或右束支传导阻滞。
+右心导管检查的适应证包括：当怀疑存在两种梗阻（瓣膜性和漏斗部性）时；当需要直接测量右心室或其他压力时；当临床表现与超声心动图结果不一致时；或在实施介入治疗之前。
+如果需要量化右心室的大小或功能，或者合并肺动脉瓣关闭不全的程度，心脏MRI可能是有用的。
+
+【心脏杂音的心音图特征】
+心脏杂音的心音图特征
+
+【诊断参考文献】
+1.Stout KK, Daniels CJ, Aboulhosn JA, et al.2018 AHA/ACC Guideline for the Management of Adults With Congenital Heart Disease: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines [published correction appears inCirculation2019 Apr 2;139(14):e833-e834. doi: 10.1161/CIR.0000000000000683].Circulation2019;139(14):e698-e800.doi:10.1161/CIR.0000000000000603
+1.Stout KK, Daniels CJ, Aboulhosn JA, et al.2018 AHA/ACC Guideline for the Management of Adults With Congenital Heart Disease: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines [published correction appears inCirculation2019 Apr 2;139(14):e833-e834. doi: 10.1161/CIR.0000000000000683].Circulation2019;139(14):e698-e800.doi:10.1161/CIR.0000000000000603
+
+【肺动脉瓣狭窄的治疗】
+球囊瓣膜成形术
+球囊瓣膜成形术
+有时需要进行瓣膜成形术或瓣膜置换术
+有时需要进行瓣膜成形术或瓣膜置换术
+未经治疗的肺动脉瓣狭窄预后一般良好，适当干预可改善预后。儿童轻度肺动脉瓣狭窄可能会自行改善甚至消退。
+肺动脉狭窄的一线治疗是球囊瓣膜成形术，适用于有症状和中度或重度瓣膜狭窄的患者，以及无症状的严重瓣膜狭窄患者。
+如果患者不适合经导管介入治疗，但存在其他心脏手术的指征，则可以进行外科瓣膜成形术。若存在显著的肺动脉瓣反流（PR）、肺动脉瓣发育不良和/或瓣环发育不全，可能需行肺动脉瓣置换术（1）。当解剖结构无法使用原生瓣膜时，可采用带瓣或不带瓣的右心室至肺动脉导管。
+当需要外科瓣膜置换时，优选生物瓣膜，因为右心机械瓣的血栓形成率较高；术后需暂时抗凝治疗（见人工心脏瓣膜或天然瓣膜病患者的抗凝治疗）。
+许多先心病中心提供经皮（导管）肺动脉瓣置换术，以减少开胸手术次数，尤其适用于已接受或预期需多次肺动脉瓣干预的患者。该技术的可行性取决于患者体型及肺动脉瓣环或"着陆区"的适配度。
+
+【治疗参考文献】
+1.Stout KK, Daniels CJ, Aboulhosn JA, et al.2018 AHA/ACC Guideline for the Management of Adults With Congenital Heart Disease: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines [published correction appears inCirculation2019 Apr 2;139(14):e833-e834. doi: 10.1161/CIR.0000000000000683].Circulation2019;139(14):e698-e800.doi:10.1161/CIR.0000000000000603
+1.Stout KK, Daniels CJ, Aboulhosn JA, et al.2018 AHA/ACC Guideline for the Management of Adults With Congenital Heart Disease: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines [published correction appears inCirculation2019 Apr 2;139(14):e833-e834. doi: 10.1161/CIR.0000000000000683].Circulation2019;139(14):e698-e800.doi:10.1161/CIR.0000000000000603
+肺动脉瓣狭窄通常是先天性的，但症状（如晕厥，心绞痛，呼吸困难）通常直到成年才会出现。
+肺动脉瓣狭窄通常是先天性的，但症状（如晕厥，心绞痛，呼吸困难）通常直到成年才会出现。
+心音包括第二心音宽分裂（但非固定分裂），以及粗糙的递增-递减型喷射性杂音，当患者身体前倾时，在左胸骨旁第二或第四肋间听诊最清楚；Valsalva动作释放时和吸气时，杂音立即增强。
+心音包括第二心音宽分裂（但非固定分裂），以及粗糙的递增-递减型喷射性杂音，当患者身体前倾时，在左胸骨旁第二或第四肋间听诊最清楚；Valsalva动作释放时和吸气时，杂音立即增强。
+对有症状的患者和无症状的严重肺动脉狭窄患者进行球囊瓣膜成形术。
+对有症状的患者和无症状的严重肺动脉狭窄患者进行球囊瓣膜成形术。

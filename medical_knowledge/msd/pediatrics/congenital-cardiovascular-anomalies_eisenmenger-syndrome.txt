@@ -1,0 +1,91 @@
+标题：艾森曼格综合征
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-cardiovascular-anomalies/eisenmenger-syndrome
+============================================================
+
+（另见先天性心血管畸形概述）
+如果不治疗，可能导致艾森曼格综合征的先天性心脏异常包括（按发生的大致顺序——1)
+室间隔缺损(VSD)
+室间隔缺损(VSD)
+房室管缺损(AVSD)
+房室管缺损(AVSD)
+动脉导管未闭（PDA）
+动脉导管未闭（PDA）
+主肺动脉窗
+主肺动脉窗
+房间隔缺损(ASD)
+房间隔缺损(ASD)
+永存动脉干
+永存动脉干
+右心室双出口(DORV) 无肺动脉狭窄
+右心室双出口(DORV) 无肺动脉狭窄
+部分异常静脉回流（PAPVR，部分肺静脉连接到右心房而不是左心房）
+部分异常静脉回流（PAPVR，部分肺静脉连接到右心房而不是左心房）
+罕见的单心室变异或大动脉移位伴持续性动脉导管未闭和/或室间隔缺损的患者如果不加以治疗，可能会发展为艾森曼格综合征，但如果这种异常不被发现和治疗，绝大多数患者在婴儿早期就夭折了。在美国，由于此类先天性心脏病的早期诊断和治疗，该综合征的发病率明显减少。
+艾森曼格综合征引起的右向左分流会导致紫绀及其并发症。 体循环血氧饱和度减低导致杵状指（趾）、继发性红细胞增多症、高黏滞血症、咳血、中枢神经系统事件（例如，脑脓肿、中风），以及红细胞循环增加导致的并发症（例如，高尿酸血症导致痛风、高胆红素血症导致胆石症、伴/不伴贫血的铁缺乏症）。
+
+【参考文献】
+1.Diller GP, Korten MA,Bauer UMM, et al: Current therapy and outcome of Eisenmenger syndrome: data of the German National Register for congenital heart defects.Eur Heart J37(18): 1449–1455, 2016.doi: 10.1093/eurheartj/ehv743
+1.Diller GP, Korten MA,Bauer UMM, et al: Current therapy and outcome of Eisenmenger syndrome: data of the German National Register for congenital heart defects.Eur Heart J37(18): 1449–1455, 2016.doi: 10.1093/eurheartj/ehv743
+
+【艾森曼格综合征的症状和体征】
+艾森曼格综合征的症状会根据病因在不同年龄出现。
+三尖瓣前的左向右分流（如房颤、部分肺静脉异位引流）患者通常在较晚的年龄（20至40岁）才会出现症状。但是，未修复的三尖瓣后分流（VSD，PDA或更复杂的先天性心脏病）患者可能会在生命的最初几年内发展为不可逆的，有症状的肺血管疾病。
+症状包括发绀，晕厥，劳累时呼吸困难，疲劳，胸痛和心悸。 一些患者突然死亡。
+咯血是晚期的症状。可能出现脑栓塞、脑脓肿或心内膜炎的症状。
+继发性红细胞增多通常会引起一些症状（例如，伴有言语不清或其他神经系统症状的短暂性脑缺血发作、视力问题、头痛、疲劳加剧、血栓栓塞征兆）。胆石症可引起腹痛。痛风性关节炎可能由高尿酸血症引起。
+体检可见中央性发绀和杵状指（趾）。可能有右心衰的体征（如肝肿大、颈静脉怒张、周围性水肿）。触诊可显示右心室隆起。三尖瓣反流时于胸骨左缘下方可闻及全收缩期杂音。沿胸骨左缘可闻及渐弱的高调舒张早期肺动脉瓣关闭不全的杂音。常可闻及响亮单一的第二心音（S2）和肺部喷射性喀喇音。
+仅下肢出现杵状指和发绀的不寻常发现表明发绀的原因是通过未修复的大 PDA 从右向左分流，主要指向降主动脉。
+
+【艾森曼格综合征的诊断】
+胸片和心电图
+胸片和心电图
+超声心动图或心导管
+超声心动图或心导管
+根据先心病的未治疗史考虑艾森曼格综合征的诊断，胸片和心电图结果给予支持诊断，确诊根据二维彩色多普勒超声心动图。心导管检查通常用于测量肺动脉压力，肺血管阻力和应对肺血管扩张剂的反应。
+实验室检测显示多血细胞症，血细胞比容>55%。 铁缺乏状态提示红细胞循环增加（小红细胞症）、高尿酸血症和高胆红素血症。如果平均红细胞体积 (MCV) 较低，则应怀疑缺铁；可以通过测量转铁蛋白饱和度和铁蛋白来识别缺铁。
+胸片可以显示中央肺动脉突出、外周肺血减少、右心扩大。
+心电图示右室肥大，心电轴右偏，有时右房也肥大。
+
+【艾森曼格综合征的治疗】
+治疗肺动脉高压的药物（如前列环素类似物、内皮素拮抗剂、磷酸二酯酶-5 抑制剂）。
+治疗肺动脉高压的药物（如前列环素类似物、内皮素拮抗剂、磷酸二酯酶-5 抑制剂）。
+“治疗和修复”的方法
+“治疗和修复”的方法
+支持治疗
+支持治疗
+心脏移植和肺移植
+心脏移植和肺移植
+理想情况下，应尽早进行矫正手术，以防止艾森曼格综合征的发生。一旦出现这种综合征，除了心脏和肺移植外，没有其他具体的治疗方法，但可降低肺动脉压力的药物已被证明至少对存活率有一定的益处 (1、2）。
+前列环素类似物（例如，曲前列环素，依前列醇），内皮素拮抗剂（例如，波生坦）和磷酸二酯酶-5抑制剂（例如，西地那非、他达那非）已被证明可以改善6分钟步行试验的性能并减少N末端脑钠尿肽（NT-proBNP）水平。在少数患者中，使用肺血管舒张药物的积极治疗导致左向右分流，允许手术修复潜在的心脏缺陷并显着降低平均肺动脉压。 这被称为治疗和修复方法。
+辅助治疗包括避免可能加重综合征的情况（如怀孕、容量耗竭、等长运动、高海拔、吸烟）。吸氧可能有一些好处。
+症状性红细胞增多症可以通过谨慎静脉放血治疗，将血细胞比容降至55-65%，同时用生理盐水进行容量替代。然而，代偿性和无症状性红细胞增多症不需要放血治疗，无论血细胞比容如何。静脉切开术最终会导致铁缺乏，与预后不良的风险增加有关。如果确认缺铁，应谨慎使用铁剂来补充贮存铁。
+高尿酸血症可以给予别嘌呤醇，300mg口服，每天一次。
+抗凝治疗是有争议的，因为肺动脉血栓形成和其他血栓栓塞现象的风险必须与肺出血的风险相平衡。华法林抗凝治疗有潜在危害，可能导致肺出血，因此应个体化使用抗凝剂 (1)。虽然没有明确的证据，但低剂量阿司匹林可能会预防血栓并发症。
+预期寿命取决于潜在先天性异常的类型和严重程度，从20岁到50岁不等。在未经治疗的患者中，低运动耐受性和继发并发症严重限制生活质量。先进的肺血管扩张剂疗法已显示可改善功能能力，提高生存率。
+心脏移植和肺移植或带心脏修复的肺移植可能是一种治疗选择，但移植只适用于症状严重且生活质量不可接受的患者。移植后的长期预后不理想。
+在进行可能导致菌血症的牙科或外科手术之前，所有患者都应给予心内膜炎预防。
+
+【治疗参考文献】
+1.Diller GP, Korten MA, Bauer UMM, et al: Current therapy and outcome of Eisenmenger syndrome: data of the German National Register for congenital heart defects.Eur Heart J37(18):1449–1455, 2016. doi: 10.1093/eurheartj/ehv743
+1.Diller GP, Korten MA, Bauer UMM, et al: Current therapy and outcome of Eisenmenger syndrome: data of the German National Register for congenital heart defects.Eur Heart J37(18):1449–1455, 2016. doi: 10.1093/eurheartj/ehv743
+2.Kempny A, Hjortshoj CS, Gu H, et al: Predictors of death in contemporary adult patients with Eisenmenger syndrome: a multicenter study.Circulation135(15): 1432–1440, 2017.doi: 10.1161/CIRCULATIONAHA.116.023033
+2.Kempny A, Hjortshoj CS, Gu H, et al: Predictors of death in contemporary adult patients with Eisenmenger syndrome: a multicenter study.Circulation135(15): 1432–1440, 2017.doi: 10.1161/CIRCULATIONAHA.116.023033
+涉及大型心内左向右分流的心脏畸形往往最终会导致肺血管阻力增加，这首先引起双向分流，最终导致右至左分流（分流反转）。
+涉及大型心内左向右分流的心脏畸形往往最终会导致肺血管阻力增加，这首先引起双向分流，最终导致右至左分流（分流反转）。
+随着分流逆转，脱氧血进入体循环，导致缺氧及其并发症（如杵状指（趾）、继发性红细胞增多症）；红细胞增多症可能导致高粘滞血症、中风或其他血栓栓塞性疾病和/或高尿酸血症。
+随着分流逆转，脱氧血进入体循环，导致缺氧及其并发症（如杵状指（趾）、继发性红细胞增多症）；红细胞增多症可能导致高粘滞血症、中风或其他血栓栓塞性疾病和/或高尿酸血症。
+三尖瓣前分流患者通常在20至40岁时才出现症状。而三尖瓣后分流的患者中，症状可能发生在生命的最初几年。
+三尖瓣前分流患者通常在20至40岁时才出现症状。而三尖瓣后分流的患者中，症状可能发生在生命的最初几年。
+症状包括：发绀、晕厥、劳累后呼吸困难、疲乏、胸痛、心悸、房性和室性心律失常、咯血、右心衰竭和猝死。
+症状包括：发绀、晕厥、劳累后呼吸困难、疲乏、胸痛、心悸、房性和室性心律失常、咯血、右心衰竭和猝死。
+在适当的年龄针对潜在的心脏畸形施行纠治手术，应能够防止艾森曼格综合征。
+在适当的年龄针对潜在的心脏畸形施行纠治手术，应能够防止艾森曼格综合征。
+目前除了心肺移植手术，该综合征尚无特异的治疗方案，但降低肺血管阻力的药物（例如，前列环素类似物，内皮素拮抗剂，磷酸二酯酶-5抑制剂）是有用的。
+目前除了心肺移植手术，该综合征尚无特异的治疗方案，但降低肺血管阻力的药物（例如，前列环素类似物，内皮素拮抗剂，磷酸二酯酶-5抑制剂）是有用的。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+American Heart Association: Common Heart Defects: Provides overview of common congenital heart defects for parents and caregivers
+American Heart Association: Common Heart Defects: Provides overview of common congenital heart defects for parents and caregivers
+American Heart Association: Infective Endocarditis: Provides an overview of infective endocarditis, including summarizing prophylactic antibiotic use, for patients and caregivers
+American Heart Association: Infective Endocarditis: Provides an overview of infective endocarditis, including summarizing prophylactic antibiotic use, for patients and caregivers

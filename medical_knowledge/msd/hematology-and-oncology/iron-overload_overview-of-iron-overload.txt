@@ -1,0 +1,20 @@
+标题：铁过载的概述
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/iron-overload/overview-of-iron-overload
+============================================================
+
+成人每天从表皮和胃肠道细胞中丢失的铁通常为1mg；有月经周期的女性平均额外从月经中丢失的铁为0.5至1mg/天。这种铁的流失通过吸收美国典型饮食中10-20毫克铁的一部分来平衡（1）。铁的吸收是根据体内的铁储存进行调节的，且常同人体的需求相平衡。然而，因为没有生理机制可从体内去除铁，超过身体所需的吸收铁（或通过反复输血获得）将沉积在组织中。
+含铁血黄素沉着症是铁的局灶性沉积，通常不会引起组织损伤。
+含铁血黄素沉着症是铁的局灶性沉积，通常不会引起组织损伤。
+血色沉积病（铁过载）是指铁沉积导致组织损伤的一种典型的系统性疾病。
+血色沉积病（铁过载）是指铁沉积导致组织损伤的一种典型的系统性疾病。
+铁过载可能由遗传性血色病（铁代谢异常的遗传性疾病）引起，或由继发性血色病引起，后者是一种获得性疾病，由过量口服铁、铁吸收增加或反复输血引起(1,2,3)。发病主要是由于铁沉积于内分泌器官（尤其是胰腺、性腺和脑垂体）、肝脏及心脏 (1,2,3)。
+在撒哈拉以南的非洲地区，铁过载最常见于消费富含铁质的发酵饮料的人群中。一般认为遗传因素参与了非洲患者铁过载的发病过程，但尚无相关基因被明确 (2)。
+(参见于铁中毒及特发性肺含铁血黄素沉着症。）
+
+【参考文献】
+1.Bacon BR, Adams PC, Kowdley KV, et al: Diagnosis and management of hemochromatosis: 2011 Practice Guideline by the AASLD.Hepatology54 (1): 328–343, 2011.doi:10.1002/hep.24330
+1.Bacon BR, Adams PC, Kowdley KV, et al: Diagnosis and management of hemochromatosis: 2011 Practice Guideline by the AASLD.Hepatology54 (1): 328–343, 2011.doi:10.1002/hep.24330
+2.Olynyk JK, Ramm GA: Hemochromatosis.N Engl J Med387(23):2159–2170, 2022.doi:10.1056/NEJMra2119758
+2.Olynyk JK, Ramm GA: Hemochromatosis.N Engl J Med387(23):2159–2170, 2022.doi:10.1056/NEJMra2119758
+3.Kowdley KV, Brown KE, Ahn J, Sundaram V: ACG Clinical Guideline: Hereditary Hemochromatosis [published correction appears inAm J Gastroenterol114(12):1927, 2019. doi: 10.14309/ajg.0000000000000469].Am J Gastroenterol114(8):1202–1218, 2019.doi:10.14309/ajg.0000000000000315
+3.Kowdley KV, Brown KE, Ahn J, Sundaram V: ACG Clinical Guideline: Hereditary Hemochromatosis [published correction appears inAm J Gastroenterol114(12):1927, 2019. doi: 10.14309/ajg.0000000000000469].Am J Gastroenterol114(8):1202–1218, 2019.doi:10.14309/ajg.0000000000000315

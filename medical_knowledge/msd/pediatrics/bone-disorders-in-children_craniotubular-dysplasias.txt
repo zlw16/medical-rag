@@ -1,0 +1,45 @@
+标题：颅管发育不良
+来源：https://www.msdmanuals.cn/professional/pediatrics/bone-disorders-in-children/craniotubular-dysplasias
+============================================================
+
+骨硬化症是一种由破骨细胞功能缺陷引起的家族性疾病，其特征是骨密度增加和骨骼造型异常。
+
+【颅骨干骺端发育不良】
+颅干骺端发育不良是一种骨密度的遗传性疾病，其特征是颅面骨的进行性增厚（骨质增生）和矿物质密度增加，以及长骨的干骺端异常。
+这种疾病通常是一种常染色体显性疾病，由ANKH基因突变引起；然而，由于GJA1基因突变导致的常染色体隐性形式也已知会发生（1）。
+颅干骺端发育不良是一种非常罕见的疾病，估计患病率 < 1/1,000,000 人（2）。
+婴儿期鼻旁窦隆起发育，逐渐生长和增厚的颅骨和下颌骨使得下颚和面部变形。病变的骨组织损伤颅神经，引起功能障碍。牙齿错咬合可能带来麻烦；部分鼻窦闭塞易导致反复鼻呼吸道感染。身高和一般情况是正常的，进行性颅内压升高是罕见的严重并发症。
+当出现典型的颅面异常时，可怀疑颅骨干骺端发育不良的诊断，这些异常有时会伴随上呼吸道感染的易感性增加。该疾病可在颅底神经卡压引起的脑神经功能障碍的评估中发现。通常情况下，行X线检查。X线表现与年龄有关而且通常在5岁时已很明显。颅骨的主要表现是硬化症。长骨干骺端增宽，出现球杆状，特别是在股骨远端。然而，这些病变比派尔氏疾病轻。脊柱和骨盆不受影响。
+颅骨干骺端发育不良的治疗包括手术减压受压神经和重建严重的骨异常；然而，再生确实发生了。上呼吸道感染应在发生时及时治疗。
+
+【颅骨干骺端发育不良参考文献】
+1.Reichenberger E, Chen IP.Craniometaphyseal Dysplasia, Autosomal Dominant.2007 Aug 27 [Updated 2020 Jun 11].In: Adam MP, Feldman J, Mirzaa GM, et al., editors.GeneReviews® [Internet].Seattle (WA): University of Washington, Seattle; 1993-2025.
+1.Reichenberger E, Chen IP.Craniometaphyseal Dysplasia, Autosomal Dominant.2007 Aug 27 [Updated 2020 Jun 11].In: Adam MP, Feldman J, Mirzaa GM, et al., editors.GeneReviews® [Internet].Seattle (WA): University of Washington, Seattle; 1993-2025.
+2.Orphanet.Craniometaphyseal dysplasia.Accessed April 29, 2025.
+2.Orphanet.Craniometaphyseal dysplasia.Accessed April 29, 2025.
+
+【额骨干骺端发育不良】
+额干骺端发育不良是一种以骨骼发育异常为特征的骨密度遗传疾病。
+该疾病具有明显的常染色体显性和X连锁显性两种形式。X 连锁显性形式是由FLNA基因突变引起的，常染色体显性形式是由MAP3K7或TAB2基因变异引起的（1）。X 连锁变异是一种耳腭指综合征谱系疾病（2）。
+确切的人群患病率未知；然而，已报告了 > 100 例病例（1）。
+额骨干骺端发育不良在幼儿时期就已明显。眶上嵴突出，类似骑士的遮阳帽。下颌骨发育不良伴前收缩；牙齿畸形。听力损失通常发生于成年期，其机制可能为硬化导致内听道及中耳腔狭窄，或引起听小骨畸形。腿部长骨有中度弯曲。指（趾）的进行性挛缩可能会杯误认为是关节炎。可能存在输尿管梗阻和心脏缺陷等骨骼外表现。支气管收缩可能导致呼吸困难。身高和一般健康状况正常。
+当前述骨骼异常特征伴随听力损失时，应怀疑诊断为额骨骺发育不良。通常拍摄平片，显示额骨区域有明显的骨质过度生长；颅穹窿处也可见斑片状硬化。椎体发育不良但没有硬化表现。髂嵴陡然外倾，骨盆入口变形。股骨头骨骺扁平化，股骨头和髋外翻（髋部畸形）。指骨成型不良，伴有关节腔侵蚀和缺失。
+治疗方案主要以支持治疗和对症治疗为主。然而，矫正手术适用于严重毁容的畸形，包括严重的小颌畸形或引起骨科问题的疾病。听力损失用助听器治疗。
+
+【额骨干骺端发育不良参考文献】
+1.MedlinePlus[Internet].Bethesda (MD): National Library of Medicine (US); [updated 2020 Jun 24].Frontometaphyseal dysplasia; [updated 2022 Jun 16; cited 2025 Jun 5].
+1.MedlinePlus[Internet].Bethesda (MD): National Library of Medicine (US); [updated 2020 Jun 24].Frontometaphyseal dysplasia; [updated 2022 Jun 16; cited 2025 Jun 5].
+2.Robertson S.X-Linked Otopalatodigital Spectrum Disorders.2005 Nov 30 [Updated 2019 Oct 3].In: Adam MP, Feldman J, Mirzaa GM, et al., editors.GeneReviews® [Internet].Seattle (WA): University of Washington, Seattle; 1993-2025.
+2.Robertson S.X-Linked Otopalatodigital Spectrum Disorders.2005 Nov 30 [Updated 2019 Oct 3].In: Adam MP, Feldman J, Mirzaa GM, et al., editors.GeneReviews® [Internet].Seattle (WA): University of Washington, Seattle; 1993-2025.
+
+【干骺端发育不良（派尔病）】
+干骺端发育不良的特征是宽阔的干骺端，类似于船桨，这是由于骨小梁骨扩大和皮质骨变薄所致。
+这种罕见的常染色体隐性遗传病由SFRP4基因缺陷引起，目前已有超过25例病例被报道（1）。
+干骺端发育不良通常在语义上与颅骨干骺端发育不良相混淆。
+除膝外翻外，受影响者在临床上（表型上）通常表现正常，但有时可出现脊柱侧弯和骨脆性增加。
+干骺端发育不良的诊断常常在因其他原因作X线检查时偶然发现而诊断。X线片上的变化显著。长骨成型不良而且骨皮质一般较薄。管状腿骨有明显的锥形瓶状膨大，尤其在股骨远端更为显著。骨盆和胸廓扩大。然而，颅骨基本不受累。
+干骺端发育不良通常无需治疗，但可能涉及针对牙齿畸形的正畸治疗，或针对具有临床意义的骨骼畸形或骨折的骨科手术。
+
+【干骺端发育不良参考文献】
+1.MedlinePlus[Internet].Bethesda (MD): National Library of Medicine (US); [updated 2020 Jun 24].Pyle disease; [updated 2017 Mar 1; cited 2025 Jun 5].
+1.MedlinePlus[Internet].Bethesda (MD): National Library of Medicine (US); [updated 2020 Jun 24].Pyle disease; [updated 2017 Mar 1; cited 2025 Jun 5].

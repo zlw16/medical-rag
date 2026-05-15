@@ -1,0 +1,82 @@
+标题：混合性结缔组织病（MCTD）
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/systemic-rheumatic-diseases/mixed-connective-tissue-disease-mctd
+============================================================
+
+混合性结缔组织病（MCTD）在世界各地和所有种族中都有发生，在青少年中发病率最高。据报道，女性比男性更常见（1）。
+MCTD病因不明。 在许多患者中，该疾病发展为经典系统性硬化症或者系统性红斑狼疮（SLE）。 因此，对于MCTD是否应被视为一种独特的疾病，一些专家尚未达成共识。
+
+【参考文献】
+1.Gunnarsson R, Molberg O, Gilboe IM, Gran JT; PAHNOR1 Study Group.The prevalence and incidence of mixed connective tissue disease: a national multicentre survey of Norwegian patients.Ann Rheum Dis.2011;70(6):1047-1051.doi:10.1136/ard.2010.143792
+1.Gunnarsson R, Molberg O, Gilboe IM, Gran JT; PAHNOR1 Study Group.The prevalence and incidence of mixed connective tissue disease: a national multicentre survey of Norwegian patients.Ann Rheum Dis.2011;70(6):1047-1051.doi:10.1136/ard.2010.143792
+
+【MCTD的症状和体征】
+雷诺综合征可比其他症状早数年出现。通常首发症状类似于早期SLE、系统性硬化症、多肌炎，甚至是类风湿性关节炎。最初许多患者表现为未分化结缔组织疾病。疾病表现可进展并累及越来越广泛，同时临床类型也随时间推移而变化 (1)。
+最初手弥漫性肿胀是典型的表现，但并非所有患者均如此。皮肤表现包括冻疮、盘状病变和与类似于SLE的颧骨皮疹。弥漫性硬皮病样皮肤改变和缺血性骨坏死或指尖溃疡时有发生。
+手指不规则变白。
+© Springer Science+Business Media
+多个指尖发绀。
+© Springer Science+Business Media
+几乎所有患者存在多关节痛，75%有明显的关节炎。关节通常不变形，但也可能出现类似lei'feng'shi'xing的侵蚀性病变和畸形（如“钮扣花”和“天鹅颈”样畸形）。
+近端肌无力是常见的，特别是在肌肉酶（如肌酸激酶）水平升高的人群中。
+MCTD也有胃肠道动力障碍的报道，类似于系统性硬化症。
+约25％的患者发生典型的肾损害（最常见为膜性肾病），通常为轻度；而伴高发病率或死亡率的严重肾脏受累，是非典型MCTD。
+多达 75％MCTD患者肺部受到累及。胸腔积液和间质性肺病是最常见的肺部表现；肺动脉高压是导致死亡的主要原因，据报道，高达13%的病例（2）。
+心包炎是一种常见的特征。严重心肌炎导致心脏衰竭并不常见，但有可能发生。
+可进展为干燥综合征。
+
+【症状和体征参考】
+1.Ortega-Hernandez OD, Shoenfeld Y.Mixed connective tissue disease: an overview of clinical manifestations, diagnosis and treatment.Best Pract Res Clin Rheumatol.2012;26(1):61-72.doi:10.1016/j.berh.2012.01.009
+1.Ortega-Hernandez OD, Shoenfeld Y.Mixed connective tissue disease: an overview of clinical manifestations, diagnosis and treatment.Best Pract Res Clin Rheumatol.2012;26(1):61-72.doi:10.1016/j.berh.2012.01.009
+2.Wigley FM, Lima JA, Mayes M, McLain D, Chapin JL, Ward-Able C.The prevalence of undiagnosed pulmonary arterial hypertension in subjects with connective tissue disease at the secondary health care level of community-based rheumatologists (the UNCOVER study).Arthritis Rheum.2005;52(7):2125-2132.doi:10.1002/art.21131
+2.Wigley FM, Lima JA, Mayes M, McLain D, Chapin JL, Ward-Able C.The prevalence of undiagnosed pulmonary arterial hypertension in subjects with connective tissue disease at the secondary health care level of community-based rheumatologists (the UNCOVER study).Arthritis Rheum.2005;52(7):2125-2132.doi:10.1002/art.21131
+
+【MCTD的诊断】
+检测抗核抗体（ANA）和可提取核抗原的抗体，包括U1核糖核蛋白抗体、史密斯抗体和抗双链DNA抗体
+检测抗核抗体（ANA）和可提取核抗原的抗体，包括U1核糖核蛋白抗体、史密斯抗体和抗双链DNA抗体
+器官受累确定为临床指征
+器官受累确定为临床指征
+尽管 MCTD 的临床表现各异，但当患者出现以下重叠特征时，应怀疑该病：系统性红斑狼疮（SLE），系统性硬化症， 或者多发性肌炎。相当一部分患者在首次诊断为 MCTD 几年后可能会发展为为一种明确定义的疾病，如系统性硬化、SLE或炎性肌病（1）。
+首先进行抗核抗体（ANA）和U1核糖核蛋白（RNP）抗原抗体检测。通过间接免疫荧光检测，几乎所有患者都有高滴度的ANA；ANA产生斑点图案。存在高滴度抗U1 RNP抗体。检测可提取核抗原中抗核糖核酸酶史密斯（Sm）成分（抗Sm抗体）和双链DNA（定义为MCTD阴性）的抗体，以排除SLE。抗 RNP 抗体的存在不足以诊断 MCTD；还需要典型的临床发现。
+类风湿因子常为阳性，且滴度高。红细胞沉降率和c反应蛋白水平经常升高。
+与系统性硬化症患者一样，应通过肺功能检查和超声心动图评估肺动脉高压。进一步的评估取决于症状和体征，包括肌炎、肾脏受累或肺部受累的表现。
+肌酸激酶，MRI，肌电图或肌肉活检可以帮助确认肌炎的存在作为MCTD的一部分。
+
+【诊断参考文献】
+1.Reiseter S, Gunnarsson R, Corander J, et al.Disease evolution in mixed connective tissue disease: results from a long-term nationwide prospective cohort study.Arthritis Res Ther.2017;19(1):284.Published 2017 Dec 21.doi:10.1186/s13075-017-1494-7
+1.Reiseter S, Gunnarsson R, Corander J, et al.Disease evolution in mixed connective tissue disease: results from a long-term nationwide prospective cohort study.Arthritis Res Ther.2017;19(1):284.Published 2017 Dec 21.doi:10.1186/s13075-017-1494-7
+
+【MCTD的治疗】
+非甾体抗炎药（NSAIDs）或抗疟药（如羟氯喹、氯喹）用于轻度疾病
+非甾体抗炎药（NSAIDs）或抗疟药（如羟氯喹、氯喹）用于轻度疾病
+糖皮质激素和其他免疫抑制剂（例如，甲氨蝶呤，硫唑嘌呤、霉酚酸酯）用于中重度疾病。
+糖皮质激素和其他免疫抑制剂（例如，甲氨蝶呤，硫唑嘌呤、霉酚酸酯）用于中重度疾病。
+钙通道阻滞剂（如硝苯地平），有时磷酸二酯酶抑制剂（如他达拉非）用于雷诺综合征
+钙通道阻滞剂（如硝苯地平），有时磷酸二酯酶抑制剂（如他达拉非）用于雷诺综合征
+一般管理和初始药物治疗是从用于其他系统性风湿病的方法推断出来的，并以主要临床表型为指导（即以类似于 SLE、系统性硬化症或肌炎的方式）（1）。
+轻症患者的症状通常由非甾体抗炎药、抗疟药（如羟氯喹、氯喹）或有时低剂量皮质类固醇控制。
+大多数中度或重度疾病患者对皮质类固醇有反应，特别是如果早期治疗；然而，当发现系统性硬化症时，应尽量减少皮质类固醇的使用，以避免硬皮病肾危象。大多数中度或重度疾病患者也对其他免疫抑制剂（如甲氨蝶呤、硫唑嘌呤、霉酚酸酯）有反应。
+重要器官受累严重者常需要更大剂量的激素（如泼尼松1mg/kg•d口服）或加用免疫抑制剂。如果患者发展为肌炎或系统性硬化症的主要特征，治疗方法与这些疾病相同。
+雷诺综合征患者应根据其症状和血压耐受情况应用钙通道阻滞剂（例如硝苯地平）和磷酸二酯酶抑制剂（例如他达拉非）。
+所有的患者都需要密切监测动脉粥样硬化的情况。长时间服用糖皮质激素治疗的患者应重视骨质疏松的预防。如果使用联合免疫抑制治疗，患者应预防机会性感染，例如卡氏肺囊虫（见卡氏肺囊虫肺炎的预防)，以及接种针对常见感染的疫苗（例如肺炎链球菌、流感、新冠肺炎)。
+一些专家推荐每1至2年行肺功能检查和/或超声心动图检查，以定期筛查肺动脉高压，具体情况根据症状。
+
+【治疗参考文献】
+1.Gunnarsson R, Hetlevik SO, Lilleby V, Molberg Ø.Mixed connective tissue disease. Best Pract Res Clin Rheumatol.2016;30(1):95-111.doi:10.1016/j.berh.2016.03.002
+1.Gunnarsson R, Hetlevik SO, Lilleby V, Molberg Ø.Mixed connective tissue disease. Best Pract Res Clin Rheumatol.2016;30(1):95-111.doi:10.1016/j.berh.2016.03.002
+
+【MCTD 的预后】
+10年生存率大约96% (1)，但预后很大程度上取决于哪些表现显著。伴发系统性硬化症和多肌炎临床特征的患者预后较差。患者动脉粥样硬化风险增加。
+死亡原因包括肺动脉高压、肾衰竭、心肌梗死、结肠穿孔、感染播散和脑出血。
+某些患者在不予治疗的情况下仍持续缓解多年。
+
+【预后参考】
+1.Hajas A, Szodoray P, Nakken B, et al.Clinical course, prognosis, and causes of death in mixed connective tissue disease.J Rheumatol.2013;40(7):1134-1142.doi:10.3899/jrheum.121272
+1.Hajas A, Szodoray P, Nakken B, et al.Clinical course, prognosis, and causes of death in mixed connective tissue disease.J Rheumatol.2013;40(7):1134-1142.doi:10.3899/jrheum.121272
+MCTD 包括 SLE、系统性硬化症和/或多发性肌炎的特征。
+MCTD 包括 SLE、系统性硬化症和/或多发性肌炎的特征。
+存在 ANA 和 U1 RNP 抗体，不存在抗 Sm 和抗 DNA 抗体，但仅存在抗 RNP 抗体不足以进行诊断。
+存在 ANA 和 U1 RNP 抗体，不存在抗 Sm 和抗 DNA 抗体，但仅存在抗 RNP 抗体不足以进行诊断。
+预测肺动脉高压
+预测肺动脉高压
+轻症患者可给予NSAIDs或抗疟药，病情较重时需用糖皮质激素和其他免疫抑制剂。
+轻症患者可给予NSAIDs或抗疟药，病情较重时需用糖皮质激素和其他免疫抑制剂。

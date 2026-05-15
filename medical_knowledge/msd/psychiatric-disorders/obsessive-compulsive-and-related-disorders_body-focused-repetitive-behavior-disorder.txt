@@ -1,0 +1,45 @@
+标题：身体为中心的重复行为障碍
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/obsessive-compulsive-and-related-disorders/body-focused-repetitive-behavior-disorder
+============================================================
+
+聚焦于躯体的重复行为障碍是《精神障碍诊断和统计手册》第5版文本修订版（DSM-5-TR）中“其他特定的强迫症和相关障碍”的一个例子。这与拔毛癖（拔毛障碍）和皮肤搔抓障碍形成对比，这两种行为也是以身体为中心的重复行为，被归类为单独的疾病。
+
+【身体重复性行为障碍的症状和体征】
+患有这种疾病的患者反复进行以身体为中心的重复活动（如咬指甲、咬嘴唇、咀嚼脸颊）。
+有些患者的行为是自动的（即没有完全的意识）；另一些则对该活动更有意识。这些聚焦躯体的行为并非由强迫观念或对外表的担忧触发，但可能先出现紧张或焦虑感，行为后这种感觉会缓解，通常还伴有满足感。患有以身体为中心的重复性行为障碍的人通常会试图停止其行为或减少其行为频率，但他们做不到。
+严重的咬指甲或咬甲癖（onychotillomania）可能会导致指甲畸形（如洗衣板畸形或扭曲的指甲）和甲下出血。其他行为也可能导致出血。
+
+【身体聚焦重复行为障碍的诊断】
+精神评估
+精神评估
+《精神障碍诊断与统计手册》第 5 版文本修订本（DSM-5-TR）对以身体为焦点的重复性行为障碍的描述如下（1）：
+存在除拔毛或皮肤搔抓外的聚焦躯体的重复行为
+存在除拔毛或皮肤搔抓外的聚焦躯体的重复行为
+反复尝试减少或停止这些行为
+反复尝试减少或停止这些行为
+因该行为导致显著痛苦或功能严重受损
+因该行为导致显著痛苦或功能严重受损
+
+【诊断参考文献】
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders.5th ed, Text Revision.American Psychiatric Association Publishing; 2022:293-294.
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders.5th ed, Text Revision.American Psychiatric Association Publishing; 2022:293-294.
+
+【身体聚焦重复行为障碍的治疗】
+认知行为治疗（具体而言，习惯逆转训练）
+认知行为治疗（具体而言，习惯逆转训练）
+行为疗法，特别是习惯逆转训练，可能有效地治疗以身体为中心的重复行为障碍(1)。
+高质量研究尚未检查除拔毛癖和皮肤搔抓障碍外的以身体为中心的重复行为障碍的药物治疗，但可以考虑类似的方法，可能包括N-乙酰半胱氨酸、美金刚、选择性血清素再摄取抑制剂(SSRIs)和氯米帕明(2)。
+
+【治疗参考文献】
+1.Moritz S, Penney D, Bruhns A, Weidinger S, Schmotz S.Habit Reversal Training and Variants of Decoupling for Use in Body-Focused Repetitive Behaviors.A Randomized Controlled Trial.Cognit Ther Res.2023;47(1):109-122.doi:10.1007/s10608-022-10334-9
+1.Moritz S, Penney D, Bruhns A, Weidinger S, Schmotz S.Habit Reversal Training and Variants of Decoupling for Use in Body-Focused Repetitive Behaviors.A Randomized Controlled Trial.Cognit Ther Res.2023;47(1):109-122.doi:10.1007/s10608-022-10334-9
+2.Lee MT, Mpavaenda DN, Fineberg NA.Habit Reversal Therapy in Obsessive Compulsive Related Disorders: A Systematic Review of the Evidence and CONSORT Evaluation of Randomized Controlled Trials.Front Behav Neurosci.2019;13:79.Published 2019 Apr 24.doi:10.3389/fnbeh.2019.00079
+2.Lee MT, Mpavaenda DN, Fineberg NA.Habit Reversal Therapy in Obsessive Compulsive Related Disorders: A Systematic Review of the Evidence and CONSORT Evaluation of Randomized Controlled Trials.Front Behav Neurosci.2019;13:79.Published 2019 Apr 24.doi:10.3389/fnbeh.2019.00079
+以身体为中心的重复行为障碍包括反复进行以身体为中心的行为，如咬指甲、咬嘴唇和咬脸颊。
+以身体为中心的重复行为障碍包括反复进行以身体为中心的行为，如咬指甲、咬嘴唇和咬脸颊。
+这些聚焦躯体的行为并非由强迫观念或对外表的担忧触发，但可能先出现紧张或焦虑感，行为后这种感觉会缓解，通常还伴有满足感。
+这些聚焦躯体的行为并非由强迫观念或对外表的担忧触发，但可能先出现紧张或焦虑感，行为后这种感觉会缓解，通常还伴有满足感。
+患有这种疾病的患者通常会试图停止其行为或减少其行为发生频率，但是他们做不到。
+患有这种疾病的患者通常会试图停止其行为或减少其行为发生频率，但是他们做不到。
+使用认知行为疗法（通常是习惯逆转训练）进行治疗，有时还需要药物治疗，包括N-乙酰半胱氨酸、SSRIs 或氯米帕明。
+使用认知行为疗法（通常是习惯逆转训练）进行治疗，有时还需要药物治疗，包括N-乙酰半胱氨酸、SSRIs 或氯米帕明。

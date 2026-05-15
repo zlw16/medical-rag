@@ -1,0 +1,54 @@
+标题：回避/限制性摄食障碍（ARFID）
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/feeding-and-eating-disorders/avoidant-restrictive-food-intake-disorder-arfid
+============================================================
+
+回避/限制性食物摄入障碍通常始于儿童时期，最常见于11至13岁，但也可能在任何年龄段发病（1）。这种疾病的确切原因尚不清楚，但它可能具有遗传和心理社会成分，包括创伤,焦虑,自闭症， 和 发育障碍。 ARFID最初可能类似于儿童时期常见的挑食—当儿童拒绝吃某些食物或某种颜色、质地或气味的食物时。但这类挑食行为与回避性 / 限制性摄食障碍不同，通常仅涉及少数几种食物，且儿童的食欲、总体摄食量及生长发育均正常。
+回避/限制性食物摄入的患者可能会因各种原因而避免或限制饮食。有些患者对进食失去兴趣，或担心进食会导致有害后果，如窒息或呕吐。 也可能会回避一些特殊食物（例如颜色，稠度，气味）。
+
+【参考文献】
+1.Fisher M, Zimmerman J, Bucher C, Yadlosky L.ARFID at 10 years: A Review of Medical, Nutritional and Psychological Evaluation and Management.Curr Gastroenterol Rep.2023;25(12):421-429.doi:10.1007/s11894-023-00900-w
+1.Fisher M, Zimmerman J, Bucher C, Yadlosky L.ARFID at 10 years: A Review of Medical, Nutritional and Psychological Evaluation and Management.Curr Gastroenterol Rep.2023;25(12):421-429.doi:10.1007/s11894-023-00900-w
+
+【ARFID的症状和体征】
+回避性 / 限制性摄食障碍患者会回避进食或限制摄食，程度达到以下≥1项：
+明显的体重减轻，在儿童表现为体重不达标
+明显的体重减轻，在儿童表现为体重不达标
+明显的营养不良
+明显的营养不良
+依赖肠内喂养（如通过鼻饲管）或口服营养补充剂
+依赖肠内喂养（如通过鼻饲管）或口服营养补充剂
+心理社会功能紊乱
+心理社会功能紊乱
+营养不良可能会危及生命，并且社会功能（例如参与家庭聚餐，与朋友一起吃饭等可能发生饮食的情况）可能显着受损。
+
+【ARFID的诊断】
+精神评估
+精神评估
+《精神障碍诊断与统计手册》第5版文本修订版（DSM-5-TR）中回避性/限制性食物摄入障碍（1）的诊断标准包括以下内容：
+摄食限制导致显著体重下降、儿童生长发育迟缓、严重营养缺乏、依赖营养支持和 / 或社会心理功能明显受损。
+摄食限制导致显著体重下降、儿童生长发育迟缓、严重营养缺乏、依赖营养支持和 / 或社会心理功能明显受损。
+这种食物限制并非由食物缺乏、文化习俗（如宗教性禁食）、全身性疾病、医学治疗（如放射治疗、化疗）或其他进食障碍——尤其是神经性厌食症——所致。
+这种食物限制并非由食物缺乏、文化习俗（如宗教性禁食）、全身性疾病、医学治疗（如放射治疗、化疗）或其他进食障碍——尤其是神经性厌食症——所致。
+无体重或体型感知障碍的证据。
+无体重或体型感知障碍的证据。
+但若患者存在导致摄食减少的躯体疾病，却持续维持这种摄食减少状态（远超通常预期时长），且程度需要特定干预，则可能被诊断为回避性 / 限制性摄食障碍。
+患者初诊时，临床医生需排除躯体疾病及其他影响食欲和 / 或摄食的精神障碍，包括其他喂养和饮食失调、抑郁、精神分裂症和强加于他人的人为障碍。
+
+【诊断参考文献】
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders.5th ed, Text Revision.American Psychiatric Association Publishing; 2022:376-380.
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders.5th ed, Text Revision.American Psychiatric Association Publishing; 2022:376-380.
+
+【ARFID的治疗】
+认知行为疗法或家庭治疗
+认知行为疗法或家庭治疗
+认知行为疗法和家庭治疗通常用于帮助患者恢复正常饮食（1）。这两种干预措施还可以帮助他们减少对所吃食物的焦虑。
+
+【治疗参考】
+1.Kambanis PE, Thomas JJ.Assessment and Treatment of Avoidant/Restrictive Food Intake Disorder.Curr Psychiatry Rep.2023;25(2):53-64.doi:10.1007/s11920-022-01404-6
+1.Kambanis PE, Thomas JJ.Assessment and Treatment of Avoidant/Restrictive Food Intake Disorder.Curr Psychiatry Rep.2023;25(2):53-64.doi:10.1007/s11920-022-01404-6
+回避性 / 限制性摄食障碍可导致显著体重下降、危及生命的营养缺乏，并明显损害社会功能（如无法参与家庭聚餐）。
+回避性 / 限制性摄食障碍可导致显著体重下降、危及生命的营养缺乏，并明显损害社会功能（如无法参与家庭聚餐）。
+基于特定标准进行诊断，特别是区分回避/限制性食物摄入障碍神经性厌食症或神经性贪食症。
+基于特定标准进行诊断，特别是区分回避/限制性食物摄入障碍神经性厌食症或神经性贪食症。
+采用认知行为疗法或家庭治疗进行治疗。
+采用认知行为疗法或家庭治疗进行治疗。

@@ -1,0 +1,78 @@
+标题：囤积症
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/obsessive-compulsive-and-related-disorders/hoarding-disorder
+============================================================
+
+囤积障碍往往始于青少年且程度较轻，随着年龄增长逐渐加重，30岁中期可发生严重的功能受损 (1) 。在任一时间点，估计有 1.5%～6% 的人患有囤积障碍（2）。它在女性和男性中同样普遍。
+
+【参考文献】
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders.5th ed, Text Revision.American Psychiatric Association Publishing; 2022:277-284.
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders.5th ed, Text Revision.American Psychiatric Association Publishing; 2022:277-284.
+2.Tolin DF, Worden BL, Levy HC.State of the Science: Hoarding Disorder and Its Treatment.Behav Ther.2025;56(4):667-679.doi:10.1016/j.beth.2025.03.002
+2.Tolin DF, Worden BL, Levy HC.State of the Science: Hoarding Disorder and Its Treatment.Behav Ther.2025;56(4):667-679.doi:10.1016/j.beth.2025.03.002
+
+【囤积症的症状和体征】
+囤积症一般是慢性的，症状很少或根本没有波动或自发缓解。
+患者有强烈的保存物品的需求，且在舍弃物品或考虑舍弃物品时会经历显著的痛苦。患者囤积大量物品，空间不足；这些物品使居住区域极度拥堵杂乱，以至于除了储存囤积的物品外，大片区域无法使用。例如，囤积报纸堆可以填充水槽和覆盖在厨房的台面和炉灶，使得该区域无法烹饪。
+囤积症通常会造成社交、职业或其他重要功能受损。例如，患者可能不允许其他人（包括家人，朋友和修理工）进入房间，因为他们会因杂乱的东西感到尴尬。
+囤积会导致不安全的生活环境（例如，引发火灾或增加跌倒的危险），并可能导致迁离或法律问题。
+约 80%～95% 的囤积障碍患者还存在过度获取物品的行为（如书籍、杂志订阅〔1, 2〕），从而加重囤积问题。
+动物囤积是囤积障碍的一种形式，患者囤积大量动物，尽管动物出现衰退（如体重减轻、患病）和 / 或环境出现恶化（如极度拥挤、卫生条件极差），仍未提供足够的营养、卫生和兽医护理。
+每个人对囤积的理解程度各不相同。一些患者认识到与囤积相关的信念和行为存在问题，但许多患者并不认同。
+
+【症状和体征参考】
+1.Frost RO, Tolin DF, Steketee G, et al.Excessive acquisition in hoarding.J Anxiety Disord.23(5):632-639, 2009.doi: 10.1016/j.janxdis.2009.01.013
+1.Frost RO, Tolin DF, Steketee G, et al.Excessive acquisition in hoarding.J Anxiety Disord.23(5):632-639, 2009.doi: 10.1016/j.janxdis.2009.01.013
+2.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders.5th ed, Text Revision.American Psychiatric Association Publishing; 2022:277-281.
+2.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders.5th ed, Text Revision.American Psychiatric Association Publishing; 2022:277-281.
+
+【囤积症的诊断】
+精神评估
+精神评估
+根据《精神障碍诊断与统计手册》第 5 版文本修订本（DSM-5-TR），囤积障碍的诊断临床标准包括以下内容（1）：
+持续性地难以丢弃或放弃物品，无论其实际价值如何。
+持续性地难以丢弃或放弃物品，无论其实际价值如何。
+丢弃困难是由于认为需要保存这些物品，必须丢弃时十分痛苦。
+丢弃困难是由于认为需要保存这些物品，必须丢弃时十分痛苦。
+堆积的物品使活跃的居住区域（即不是地下室或储藏区）拥堵杂乱，大幅损害这些区域的预期用途。
+堆积的物品使活跃的居住区域（即不是地下室或储藏区）拥堵杂乱，大幅损害这些区域的预期用途。
+囤积行为导致显著痛苦，或明显损害社会、职业或其他功能领域。
+囤积行为导致显著痛苦，或明显损害社会、职业或其他功能领域。
+囤积与短暂的物品堆积和杂乱（例如，继承财产时）的区别在于其持续性和其他特征；此外，患者抗拒赠送或出售囤积的物品。收藏者（如书籍或雕像的收藏者）与囤积者一样，会获取并保存大量物品，但与囤积不同的是，收藏品是有组织、系统的，不会显著占用必需的居住空间，也不会损害其预期用途或影响功能或家居环境的安全性。
+囤积不能用一般的医学状况（如普瑞德-威利综合征）或其他精神疾病（如精神分裂症中的妄想）来更好地解释。诊断还可能包括对患者洞察力水平（良好或一般、较差或缺失/妄想信念）或过度获取的具体说明。
+
+【诊断参考文献】
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders.5th ed, Text Revision.American Psychiatric Association Publishing; 2022:277-281.
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders.5th ed, Text Revision.American Psychiatric Association Publishing; 2022:277-281.
+
+【囤积症的治疗】
+认知行为治疗
+认知行为治疗
+药物治疗的作用有限
+药物治疗的作用有限
+为治疗特定囤积症状而量身定制的认知行为疗法通常是一线疗法。然而，认知行为治疗的临床试验结果不一（1, 2），其他心理干预（如接纳与承诺疗法［ACT］）可能具有相当的疗效（3）。治疗侧重于帮助患者丢弃物品、避免获取新物品（如果过度获取是问题），并提高其决策能力。
+经常需要激励技巧来鼓励患者参与并坚持治疗。
+没有高质量的研究对囤积症患者使用药物治疗进行了调查（4）。尽管如此，药物治疗仍可能带来一定益处，尤其适用于合并可能对药物有反应的共病（如情绪障碍或焦虑障碍）的患者（5）。多项小型观察性研究显示，对囤积障碍患者使用选择性 5-羟色胺再摄取抑制剂（SSRI）、5-羟色胺–去甲肾上腺素再摄取抑制剂（SNRI）或阿托莫西汀治疗，可降低囤积严重程度（6–8）。
+
+【治疗参考文献】
+1.Rodgers B, McDonald S, Wootton BM.Cognitive behavioral therapy for hoarding disorder: An updated meta-analysis.J Affect.290:128-135, 2021. doi: 10.1016/j.jad.2021.04.067
+1.Rodgers B, McDonald S, Wootton BM.Cognitive behavioral therapy for hoarding disorder: An updated meta-analysis.J Affect.290:128-135, 2021. doi: 10.1016/j.jad.2021.04.067
+2.Bodryzlova Y,  Audet S-B, Bergeron K, et al.Group cognitive-behavioural therapy for hoarding disorder: Systematic review and meta-analysis.Health Soc Care Community.27(3):517-530. doi: 10.1111/hsc.12598
+2.Bodryzlova Y,  Audet S-B, Bergeron K, et al.Group cognitive-behavioural therapy for hoarding disorder: Systematic review and meta-analysis.Health Soc Care Community.27(3):517-530. doi: 10.1111/hsc.12598
+3.O'Brien E, Laws KR.Decluttering Minds: Psychological interventions for hoarding disorder - A systematic review and meta-analysis.J Psychiatr Res.2025;181:738-751.doi:10.1016/j.jpsychires.2024.12.029
+3.O'Brien E, Laws KR.Decluttering Minds: Psychological interventions for hoarding disorder - A systematic review and meta-analysis.J Psychiatr Res.2025;181:738-751.doi:10.1016/j.jpsychires.2024.12.029
+4.Lin N, Bacala L, Martin S, Bratiotis C, Muroff J.Hoarding Disorder: The Current Evidence in Conceptualization, Intervention, and Evaluation.Psychiatr Clin North Am.2023;46(1):181-196.doi:10.1016/j.psc.2022.10.007.doi:10.1016/j.jpsychires.2024.12.029
+4.Lin N, Bacala L, Martin S, Bratiotis C, Muroff J.Hoarding Disorder: The Current Evidence in Conceptualization, Intervention, and Evaluation.Psychiatr Clin North Am.2023;46(1):181-196.doi:10.1016/j.psc.2022.10.007.doi:10.1016/j.jpsychires.2024.12.029
+5.Rodriguez CI.Hoarding disorder.InTasman’s Psychiatry,5th ed.Tasman A, Riba MB, Schulze TG, Ng CH, Alfonso CA, Lecic- Tosevski D, Kanba S, Alarcon RD, Ndetei DM, eds.Springer Publishing; 2024.
+5.Rodriguez CI.Hoarding disorder.InTasman’s Psychiatry,5th ed.Tasman A, Riba MB, Schulze TG, Ng CH, Alfonso CA, Lecic- Tosevski D, Kanba S, Alarcon RD, Ndetei DM, eds.Springer Publishing; 2024.
+6.Saxena S, Sumner J.Venlafaxine extended-release treatment of hoarding disorder.Int Clin Psychopharmacol.29(5):266-2, 2014.doi: 10.1097/YIC.0000000000000036
+6.Saxena S, Sumner J.Venlafaxine extended-release treatment of hoarding disorder.Int Clin Psychopharmacol.29(5):266-2, 2014.doi: 10.1097/YIC.0000000000000036
+7.Saxena S, Brody AL, Maidment KM, et al.Paroxetine treatment of compulsive hoarding.J Psychiatr Res.41(6):481-487, 2007. doi: 10.1016/j.jpsychires.2006.05.001
+7.Saxena S, Brody AL, Maidment KM, et al.Paroxetine treatment of compulsive hoarding.J Psychiatr Res.41(6):481-487, 2007. doi: 10.1016/j.jpsychires.2006.05.001
+8.Piacentino D, Pasquini M, Cappelletti S, Chetoni C, Sani G, Kotzalidis GD.Pharmacotherapy for Hoarding Disorder: How did the Picture Change since its Excision from OCD?.Curr Neuropharmacol.2019;17(8):808-815.doi:10.2174/1570159X17666190124153048
+8.Piacentino D, Pasquini M, Cappelletti S, Chetoni C, Sani G, Kotzalidis GD.Pharmacotherapy for Hoarding Disorder: How did the Picture Change since its Excision from OCD?.Curr Neuropharmacol.2019;17(8):808-815.doi:10.2174/1570159X17666190124153048
+囤积症通常是一种慢性疾病，囤积者会将物品堆积在活动的生活区，使这些区域拥挤不堪、难以正常使用，有时甚至不安全。
+囤积症通常是一种慢性疾病，囤积者会将物品堆积在活动的生活区，使这些区域拥挤不堪、难以正常使用，有时甚至不安全。
+丢弃物品会给囤积症患者带来巨大的痛苦。
+丢弃物品会给囤积症患者带来巨大的痛苦。
+治疗应采用针对具体囤积症状定制的认知行为治疗或其他心理治疗。如果心理治疗无效，可以考虑使用SSRI、SNRI或阿托莫西汀进行试验。
+治疗应采用针对具体囤积症状定制的认知行为治疗或其他心理治疗。如果心理治疗无效，可以考虑使用SSRI、SNRI或阿托莫西汀进行试验。

@@ -1,0 +1,76 @@
+标题：恶性高热
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/heat-illness/malignant-hyperthermia
+============================================================
+
+引起本病的相关常见肌松剂是琥珀酰胆碱；相关吸入性麻醉剂最常见的是氟烷，但其他麻醉剂（例如，异氟醚、七氟烷和地氟烷）也可引起本病 (1)。这类药物的联合应用在某些肌营养不良和肌强直患者身上会引起一种类似的反应。尽管恶性高热可能在首次接触触发药物后即发生，但患者平均需要3次暴露才会发病。
+有报道显示无麻醉剂情况下可发生恶性高热，可能由运动或高温暴露触发(1)。
+恶性高热发生率约为每3.5万至6.8万例手术出院患者中1例（0.001%至0.003%）(1)。
+
+【参考文献】
+1.Pinyavat T, Riazi S, Deng J, et al.Malignant Hyperthermia.Crit Care Med.2024;52(12):1934-1940.doi:10.1097/CCM.0000000000006401
+1.Pinyavat T, Riazi S, Deng J, et al.Malignant Hyperthermia.Crit Care Med.2024;52(12):1934-1940.doi:10.1097/CCM.0000000000006401
+
+【恶性高热的病理生理学】
+恶性高热易感性具有遗传性，为常染色体显性遗传伴外显率可变。通常成因性突变影响骨骼肌的兰尼碱受体 (1)。潜在易感基因突变的患病率估计为 1/10,000 至 1/2,000，但目前尚不清楚这些突变如何转化为临床易感性。
+发病机制可能涉及麻醉药物诱导钙离子从患者骨骼肌肌浆网中逸出。于是加剧了钙诱导的生化反应，引起严重肌肉收缩和代谢率增高，导致呼吸机代谢性酸中毒。由于存在酸中毒，患者呼吸频率增快，然而只能部分代偿。
+
+【病理生理学参考文献】
+1.Gonsalves SG, Ng D, Johnston JJ, et al.Using exome data to identify malignant hyperthermia susceptibility mutations.Anesthesiology.2013;119(5):1043-1053.doi:10.1097/ALN.0b013e3182a8a8e7
+1.Gonsalves SG, Ng D, Johnston JJ, et al.Using exome data to identify malignant hyperthermia susceptibility mutations.Anesthesiology.2013;119(5):1043-1053.doi:10.1097/ALN.0b013e3182a8a8e7
+高钾血症、呼吸性和代谢性酸中毒、低钙血症以及凝血异常，包括弥散性血管内凝血（DIC）可能会发生。DIC 是常见的死亡原因，最常见的发生温度大于 41°C。横纹肌溶解症的特征是肌酸激酶升高和肌红蛋白血症，可能导致急性肾损伤。
+
+【恶性高热的症状和体征】
+恶性高热可在麻醉期间或术后早期发生。临床表现根据所用药物及患者的易感性而不同。肌肉强直（尤其是下颌部）通常是首发症状，随后出现心动过速、其他心律失常、呼吸急促、酸中毒、休克和高热。高碳酸血症（通过呼气末二氧化碳[CO2]升高检测）可能是一个早期征兆。体温通常≥40°C且可能相当高（例如，>43°C）。如发生横纹肌溶解和肌红蛋白尿，尿液可呈现褐色或呈血性。
+
+【恶性高热的诊断】
+麻醉给药后的典型症状是
+麻醉给药后的典型症状是
+并发症相关实验室检查
+并发症相关实验室检查
+对高危人群进行易感性检查
+对高危人群进行易感性检查
+吸入麻醉开始后 10 分钟内（偶尔在数小时后）出现典型症状和体征时，应怀疑恶性高热。(1)。早期诊断可通过及时识别下颌僵硬、呼吸急促、心动过速和呼气末CO2升高来促进。
+无即时确诊性检查，但患者应接受并发症筛查，包括心电图、血液检查（含血小板的全血细胞计数、电解质、血尿素氮、肌酐、肌酸激酶、钙、凝血酶原时间、部分凝血活酶时间、纤维蛋白原、D - 二聚体），以及肌红蛋白尿液检测。
+需排除其他诊断。围手术期脓毒症可引起高热但很少在麻醉诱导后出现。不充分的麻醉可引起肌张力增高和心动过速，但不引起体温升高。甲状腺危象及嗜铬细胞瘤极少在麻醉诱导后立即出现高热 (2)。
+
+【易感性检查】
+对于有本病家族史或既往全身麻醉时出现过严重或不完全典型不良反应的高危人群，推荐进行易感性检查。咖啡因氟烷挛缩试验是金标准，该检查检测肌肉组织样本对咖啡因和氟烷的反应（3）。基因检测比收缩试验更易获得，但其应用可能受检测到的突变类型限制。
+
+【诊断参考】
+1.Hopkins PM, Girard T, Dalay S, et al.Malignant hyperthermia 2020: Guideline from the Association of Anaesthetists.Anaesthesia.76:655-664, 2021.doi: 10.1111/anae.15317
+1.Hopkins PM, Girard T, Dalay S, et al.Malignant hyperthermia 2020: Guideline from the Association of Anaesthetists.Anaesthesia.76:655-664, 2021.doi: 10.1111/anae.15317
+2.Rosenberg H, Pollock N, Schiemann A, et al.Malignant hyperthermia: a review.Orphanet J Rare Dis.2015 Aug 4;10:93.doi: 10.1186/s13023-015-0310-1.
+2.Rosenberg H, Pollock N, Schiemann A, et al.Malignant hyperthermia: a review.Orphanet J Rare Dis.2015 Aug 4;10:93.doi: 10.1186/s13023-015-0310-1.
+3.Allen GC, Larach MG, Kunselman AR.The sensitivity and specificity of the caffeine-halothane contracture test: a report from the North American Malignant Hyperthermia Registry.The North American Malignant Hyperthermia Registry of MHAUS.Anesthesiology.1998;88(3):579-588.doi:10.1097/00000542-199803000-00006
+3.Allen GC, Larach MG, Kunselman AR.The sensitivity and specificity of the caffeine-halothane contracture test: a report from the North American Malignant Hyperthermia Registry.The North American Malignant Hyperthermia Registry of MHAUS.Anesthesiology.1998;88(3):579-588.doi:10.1097/00000542-199803000-00006
+
+【恶性高热的治疗】
+停用挥发性麻醉剂
+停用挥发性麻醉剂
+给予丹曲林
+给予丹曲林
+快速降温及其他支持治疗
+快速降温及其他支持治疗
+对于恶性高热患者，尽可能快速有效地给患者降温（参见中暑：治疗）以预防中枢神经系统损害，并给予支持治疗以纠正代谢异常，这些是至关重要的。在肌肉僵硬进展为全身性之前，以及出现横纹肌溶解，严重高热及弥散性血管内凝血之前就开始治疗，预后最佳。除物理降温措施外，还应根据需要每 5 分钟静脉注射 2.5 mg/kg 丹曲林。总剂量为10 mg/kg，若无临床改善，应提示重新考虑诊断。丹曲林的剂量根据心率和呼气末CO2进行调整。在某些患者中，需要通过气管插管（参见气道建立与控制/气管插管）、麻痹、过度通气和诱导昏迷来控制症状并提供支持。心律失常可使用胺碘酮或短效 β 受体阻滞剂治疗；应避免使用非二氢吡啶类钙通道阻滞剂（如维拉帕米、地尔硫卓）(1)。可静脉给予大剂量苯二氮䓬类药物以控制躁动。恶性高热死亡率高，即便早期积极治疗也可能无效 (2, 3)。
+若恶性高热发生在手术室以外，应立即请麻醉科会诊，并准备好恶性高热相关设备和方案。美国恶性高热协会（MHAUS）提供热线（+1-800-644-9737），由专家提供治疗指导（2，3）。
+
+【治疗参考文献】
+1.Malignant Hyperthermia Association of the United States (MHAUS).Calcium Channel Blockers.Accessed May 2, 2025.
+1.Malignant Hyperthermia Association of the United States (MHAUS).Calcium Channel Blockers.Accessed May 2, 2025.
+2.Hopkins PM, Girard T, Dalay S, et al.Malignant hyperthermia 2020: Guideline from the Association of Anaesthetists.Anaesthesia.2021;76(5):655-664.doi:10.1111/anae.15317
+2.Hopkins PM, Girard T, Dalay S, et al.Malignant hyperthermia 2020: Guideline from the Association of Anaesthetists.Anaesthesia.2021;76(5):655-664.doi:10.1111/anae.15317
+3.Pinyavat T, Riazi S, Deng J, et al.Malignant Hyperthermia.Crit Care Med.2024;52(12):1934-1940.doi:10.1097/CCM.0000000000006401
+3.Pinyavat T, Riazi S, Deng J, et al.Malignant Hyperthermia.Crit Care Med.2024;52(12):1934-1940.doi:10.1097/CCM.0000000000006401
+
+【恶性高热的预防】
+相比全身麻醉，如有可能则优选局部和区域阻滞麻醉。对于易感患者或有家族史的患者应避免使用强效吸入性麻醉药及去极化肌松药。进行麻醉时需要备用丹曲林。
+恶性高热发生于遗传易感患者，这些患者同时暴露于去极化肌肉松弛剂和强效挥发性吸入全身麻醉药（通常不止一次）。
+恶性高热发生于遗传易感患者，这些患者同时暴露于去极化肌肉松弛剂和强效挥发性吸入全身麻醉药（通常不止一次）。
+并发症包括高钾血症，呼吸和代谢性酸中毒，低钙血症，横纹肌溶解和DIC。
+并发症包括高钾血症，呼吸和代谢性酸中毒，低钙血症，横纹肌溶解和DIC。
+若患者在吸入麻醉开始后数分钟或有时数小时内出现下颌僵硬、呼吸急促、心动过速或呼气末CO2升高，应怀疑此诊断。
+若患者在吸入麻醉开始后数分钟或有时数小时内出现下颌僵硬、呼吸急促、心动过速或呼气末CO2升高，应怀疑此诊断。
+治疗包括早期积极降温以及静脉注射丹曲林。
+治疗包括早期积极降温以及静脉注射丹曲林。
+通过基因检测或肌肉活检对有风险的人进行检测。
+通过基因检测或肌肉活检对有风险的人进行检测。

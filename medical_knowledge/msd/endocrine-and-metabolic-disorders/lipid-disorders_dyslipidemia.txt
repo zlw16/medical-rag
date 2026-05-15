@@ -1,0 +1,711 @@
+标题：血脂异常
+来源：https://www.msdmanuals.cn/professional/endocrine-and-metabolic-disorders/lipid-disorders/dyslipidemia
+============================================================
+
+（参见于脂质代谢概述。）
+血脂水平是连续的；正常和异常水平之间没有精确的阈值。脂质水平和心血管病危险之间可能存在着一种线性关系 (见表胆固醇水平和心血管风险), 因此对于许多胆固醇“正常”者来说，保持更低的水平将有益于健康 (1)。基于上述原因，脂质异常不能从数量上进行定义，这一术语是指血脂的某个水平，在该水平上治疗有确切的效果。
+降低升高的低密度脂蛋白胆固醇（LDL-C）水平的益处最为明显。在普通人群中，降低升高的甘油三酯水平和升高偏低的高密度脂蛋白胆固醇（HDL-C）水平的获益证据相对不足。
+HDL-C水平往往无法预测心血管风险。例如，某些遗传因素能导致HDL升高，但这种升高并不具有心血管保护效应；同意，一些遗传因素能使HDL降低，但这并不会增加心血管疾病风险。尽管在普通人群中低 HDL-C 水平可预测心血管风险，但风险增加可能由其他因素引起，如伴随的脂质和代谢异常（如高甘油三酯血症），而非单纯 HDL-C 水平本身（2-8）。此外，有证据支持高密度脂蛋白胆固醇水平与不良心血管结局呈U型关系，在高密度脂蛋白胆固醇浓度最低和最高时风险均升高（9）。
+
+【胆固醇水平与心血管风险】
+胆固醇水平与心血管风险
+心血管风险
+总胆固醇
+LDL-C
+HDL-C
+更高的风险
+≥ 6.2 毫摩尔/升（240 毫克/分升）
+≥ 4.1毫摩尔/升（160毫克/分升）
+男性：< 1.0毫摩尔/升（40毫克/分升）
+女性：< 1.3毫摩尔/升（50毫克/分升）
+危险人群
+5.2～6.2毫摩尔/升（200～239毫克/分升）
+2.6～4.1毫摩尔/升（100～159 毫克/分升）
+男性：1.0～1.5毫摩尔/升（40～59毫克/分升）
+女性：1.3～1.5毫摩尔/升（50～59毫克/分升）
+更低的风险
+< 5.2 毫摩尔/升（200 毫克/分升）
+< 2.6毫摩尔/升（100毫克/分升）
+≥ 1.6毫摩尔/升（60毫克/分升）*
+*证据表明HDL水平与心脏风险呈U型曲线关系，HDL极高时可能增加风险。(Mørland JG, Magnus P, Vollset SE, Leon DA, Selmer R, Tverdal A. Associations between serum high-density lipoprotein cholesterol levels and cause-specific mortality in a general population of 345 000 men and women aged 20-79 years.Int J Epidemiol2023;52(4):1257-1267.doi:10.1093/ije/dyad011)
+高密度脂蛋白=高密度脂蛋白；低密度脂蛋白=低密度脂蛋白。
+Data fromCarmena R: Primary Mixed Dyslipidemias, Editor(s): Ilpo Huhtaniemi, Luciano Martini,Encyclopedia of Endocrine Diseases(Second Edition), Academic Press, 2019, Pages 314-319, ISBN 9780128122006, https://doi.org/10.1016/B978-0-12-801238-3.65333-3.
+*证据表明HDL水平与心脏风险呈U型曲线关系，HDL极高时可能增加风险。(Mørland JG, Magnus P, Vollset SE, Leon DA, Selmer R, Tverdal A. Associations between serum high-density lipoprotein cholesterol levels and cause-specific mortality in a general population of 345 000 men and women aged 20-79 years.Int J Epidemiol2023;52(4):1257-1267.doi:10.1093/ije/dyad011)
+高密度脂蛋白=高密度脂蛋白；低密度脂蛋白=低密度脂蛋白。
+Data fromCarmena R: Primary Mixed Dyslipidemias, Editor(s): Ilpo Huhtaniemi, Luciano Martini,Encyclopedia of Endocrine Diseases(Second Edition), Academic Press, 2019, Pages 314-319, ISBN 9780128122006, https://doi.org/10.1016/B978-0-12-801238-3.65333-3.
+
+【参考文献】
+1.Giugliano RP, Pedersen TR, Park JG, et al.Clinical efficacy and safety of achieving very low LDL-cholesterol concentrations with the PCSK9 inhibitorevolocumab: a prespecified secondary analysis of the FOURIER trial.Lancet2017;390(10106):1962-1971.doi:10.1016/S0140-6736(17)32290-0
+1.Giugliano RP, Pedersen TR, Park JG, et al.Clinical efficacy and safety of achieving very low LDL-cholesterol concentrations with the PCSK9 inhibitorevolocumab: a prespecified secondary analysis of the FOURIER trial.Lancet2017;390(10106):1962-1971.doi:10.1016/S0140-6736(17)32290-0
+2.Bowe B, Xie Y, Xian H, Balasubramanian S, Zayed MA, Al-Aly Z.High Density Lipoprotein Cholesterol and the Risk of All-Cause Mortality among U.S. Veterans.Clin J Am Soc Nephrol2016;11(10):1784-1793.doi:10.2215/CJN.00730116
+2.Bowe B, Xie Y, Xian H, Balasubramanian S, Zayed MA, Al-Aly Z.High Density Lipoprotein Cholesterol and the Risk of All-Cause Mortality among U.S. Veterans.Clin J Am Soc Nephrol2016;11(10):1784-1793.doi:10.2215/CJN.00730116
+3.Emerging Risk Factors Collaboration, Di Angelantonio E, Sarwar N, et al.Major lipids, apolipoproteins, and risk of vascular disease.JAMA2009;302(18):1993-2000.doi:10.1001/jama.2009.1619
+3.Emerging Risk Factors Collaboration, Di Angelantonio E, Sarwar N, et al.Major lipids, apolipoproteins, and risk of vascular disease.JAMA2009;302(18):1993-2000.doi:10.1001/jama.2009.1619
+4.Isaacs A, Sayed-Tabatabaei FA, Njajou OT, Witteman JC, van Duijn CM.The -514 C->T hepatic lipase promoter region polymorphism and plasma lipids: a meta-analysis. J Clin Endocrinol Metab.2004;89(8):3858-3863.doi:10.1210/jc.2004-0188
+4.Isaacs A, Sayed-Tabatabaei FA, Njajou OT, Witteman JC, van Duijn CM.The -514 C->T hepatic lipase promoter region polymorphism and plasma lipids: a meta-analysis. J Clin Endocrinol Metab.2004;89(8):3858-3863.doi:10.1210/jc.2004-0188
+5.Kanai M, Akiyama M, Takahashi A, et al.Genetic analysis of quantitative traits in the Japanese population links cell types to complex human diseases.Nat Genet2018;50(3):390-400.doi:10.1038/s41588-018-0047-6
+5.Kanai M, Akiyama M, Takahashi A, et al.Genetic analysis of quantitative traits in the Japanese population links cell types to complex human diseases.Nat Genet2018;50(3):390-400.doi:10.1038/s41588-018-0047-6
+6.Madsen CM, Varbo A, Nordestgaard BG.Extreme high high-density lipoprotein cholesterol is paradoxically associated with high mortality in men and women: two prospective cohort studies.Eur Heart J2017;38(32):2478-2486.doi:10.1093/eurheartj/ehx163
+6.Madsen CM, Varbo A, Nordestgaard BG.Extreme high high-density lipoprotein cholesterol is paradoxically associated with high mortality in men and women: two prospective cohort studies.Eur Heart J2017;38(32):2478-2486.doi:10.1093/eurheartj/ehx163
+7.Wilkins JT, Ning H, Stone NJ, et al.Coronary heart disease risks associated with high levels of HDL cholesterol.J Am Heart Assoc2014;3(2):e000519.Published 2014 Mar 13.doi:10.1161/JAHA.113.000519
+7.Wilkins JT, Ning H, Stone NJ, et al.Coronary heart disease risks associated with high levels of HDL cholesterol.J Am Heart Assoc2014;3(2):e000519.Published 2014 Mar 13.doi:10.1161/JAHA.113.000519
+8.Yang X, Sethi A, Yanek LR, et al.SCARB1 Gene Variants Are Associated With the Phenotype of Combined High High-Density Lipoprotein Cholesterol and High Lipoprotein (a).Circ Cardiovasc Genet2016;9(5):408-418.doi:10.1161/CIRCGENETICS.116.001402
+8.Yang X, Sethi A, Yanek LR, et al.SCARB1 Gene Variants Are Associated With the Phenotype of Combined High High-Density Lipoprotein Cholesterol and High Lipoprotein (a).Circ Cardiovasc Genet2016;9(5):408-418.doi:10.1161/CIRCGENETICS.116.001402
+9.Mørland JG, Magnus P, Vollset SE, Leon DA, Selmer R, Tverdal A.Associations between serum high-density lipoprotein cholesterol levels and cause-specific mortality in a general population of 345 000 men and women aged 20-79 years.Int J Epidemiol2023;52(4):1257-1267.doi:10.1093/ije/dyad011
+9.Mørland JG, Magnus P, Vollset SE, Leon DA, Selmer R, Tverdal A.Associations between serum high-density lipoprotein cholesterol levels and cause-specific mortality in a general population of 345 000 men and women aged 20-79 years.Int J Epidemiol2023;52(4):1257-1267.doi:10.1093/ije/dyad011
+
+【血脂异常的分类】
+血脂异常传统上根据脂质和脂蛋白升高模式（例如Fredrickson表型）进行分类，但更实用的体系将其分为原发性或继发性两大类，并通过以下特征进行描述：
+仅胆固醇升高（孤立性高胆固醇血症）
+仅胆固醇升高（孤立性高胆固醇血症）
+仅甘油三酯升高：单纯性或孤立性高甘油三酯血症
+仅甘油三酯升高：单纯性或孤立性高甘油三酯血症
+胆固醇与甘油三酯均升高：混合性高脂血症
+胆固醇与甘油三酯均升高：混合性高脂血症
+该系统未考虑特定的脂蛋白异常（例如，HDL-C 降低或 LDL-C 升高），尽管总胆固醇和甘油三酯水平正常，这些异常仍可能促发疾病。
+
+【血脂异常的病因】
+血脂异常可能是：
+原发性：遗传
+原发性：遗传
+继发性：由生活方式和其他因素引起
+继发性：由生活方式和其他因素引起
+原发和继发因素均可造成不同程度的血脂异常。例如，在家族性混合性高脂血症中，表达可能会出现只有在存在显着的继发性病因。
+
+【原发性病因】
+原发性血脂异常的病因是单个或多个基因突变导致甘油三酯和LDL胆固醇产生过多或清除缺陷，或是HDL产生不足或清除过多（见表遗传性(原发)血脂异常）。
+
+【遗传 （原发性） 脂代谢紊乱】
+遗传 （原发性） 脂代谢紊乱
+疾病状态
+遗传缺陷
+遗传方式
+流行情况
+临床特征
+Apo C-Ⅱ缺乏 [a]
+Apo C-Ⅱ（导致功能性LPL缺乏）
+<百万分之一
+成人可发生胰腺炎；常有代谢综合征
+TG：>750mg/dL（>8.5mmol/L）
+饮食：严格限制脂肪摄入，补充脂溶性维生素及中链甘油三酯
+脑腱黄色瘤 [b]
+肝脏线粒体27羟化酶
+胆汁酸合成受阻，胆固醇转化为胆甾烷醇，后者在血液、神经系统和其他器官中积累
+白内障，早期发生的冠心病，神经病变，共济失调
+鹅去氧胆酸
+胆固醇酯储存病和沃尔曼病[c]
+溶酶体酸性酯酶缺乏
+早期发生的冠心病
+胆固醇酯和甘油三酯在肝脏、脾脏和淋巴结的溶酶体中堆积
+可试用他汀类药物
+家族性apo AI 缺乏/突变[d]
+Apo AI
+角膜混浊，黄瘤，部分患者有早期发生的冠心病
+HDL: 15–30 mg/dL (0.39–0.78 mmol/L)
+支持治疗
+家族性乳糜微粒血症综合征（原称脂蛋白脂肪酶缺乏症）[e]
+LPLgene
+载脂蛋白 C2（APOC2）基因
+APOA5基因
+GP1HBP1基因
+LMF1基因
+高甘油三酯血症、胰腺炎、发疹性黄瘤、脂血症性视网膜病变
+TG>1000 mg/dL(11.2 mmol/L)
+低脂饮食
+血浆置换
+奥列扎森
+家族性复合型 [f]
+不详，有多种缺陷和发病机制
+1/50 ~1/100
+早期发生的冠心病15％的心肌梗死发病<60岁
+Apo B：比例异常升高
+TC：250～500mg/dL（6.5～13.0mmol/L）
+TG：250～750mg/dL（2.8～8.5mmol/L）
+低脂饮食
+体重下降
+降脂药物
+家族性载脂蛋白apoB－100缺陷 [g]
+Apo B（LDL受体结合区域）
+LDL清除减少
+1/700
+黄瘤、角膜老年环及早期发生的冠心病
+TC：250～500mg/dL（6.5～13mmol/L）
+低脂饮食
+降脂药物
+家族性异常beta脂蛋白血症 [h]
+Apo E（通常为e2/e2纯合子）
+乳糜微粒和VLDL清除减少
+隐性（较常见）或显性（较少见）
+1/5000
+黄瘤（特别手掌处结节性），手掌黄色皱痕，早期发生的冠心病
+TC：250～500mg/dL（6.5～13.0mmol/L）
+TG：250～500mg/dL（2.8～5.6mmol/L）
+低脂饮食
+降脂药物
+家族性高胆固醇血症 [i]
+LD受体；
+LDL清除减少
+杂合子： 1/200
+黄瘤、角膜弓和早期发生的冠心病（年龄30～50岁），5%<60 岁发生心肌梗死。
+TC：250～500mg/dL（6.5～13mmol/L）
+低脂饮食
+降脂药物
+LDL 血浆分离置换术（适用于纯合子患者和患有严重疾病的杂合子患者）
+纯合子： 1/250,000–1/100万，（更多见于法裔加拿大人、黎巴嫩基督徒、南非人群）
+手掌及跟腱黄瘤及结节性黄瘤，早发性冠心病（18岁前）
+TC：>500mg/dL（>13mmol/L）
+低脂饮食
+降脂药物
+LDL 血浆分离置换术（适用于纯合子患者和患有严重疾病的杂合子患者）
+肝脏移植（适用于纯合子患者）
+家族性高甘油三酯血症 [h]
+不详，有多种缺陷和发病机制
+1/500
+通常无症状或体征；偶尔有高尿酸血症
+TG：200～500mg/dL（2.3～5.6mmol/L）
+低脂饮食
+体重下降
+降脂药物
+家族性LCAT缺乏 [j]
+LCATgene
+极为罕见
+角膜混浊，贫血，慢性肾脏疾病
+HDL：<10mg/dL (< 0.26 mmol/L)
+限制脂肪摄入
+Fisheye病（部分性LCAT缺乏）
+LCATgene
+极为罕见
+角膜混浊
+HDL：<10mg/dL (< 0.26 mmol/L)
+支持治疗
+肝脏脂酶缺乏
+肝脏脂酶
+极为罕见
+早期发生的冠心病
+TC：250～1500mg/dL（6.5～39mmol/L）
+TG： 395–8200 mg/dL(4.5–93 mmol/L)
+HDL：不定
+低脂饮食、降脂药物
+PCSK9功能性突变
+LDL受体的降解增加
+类似家族性高胆固醇血症
+低脂饮食
+降脂药物
+多基因性高胆固醇血症
+不详，有多种缺陷和发病机制
+根据需要调整剂量
+早期发生的冠心病
+TC：250～350mg/dL（6.5～9.0mmol/L）
+低脂饮食
+降脂药物
+原发性低alpha脂蛋白血症（家族性或非家族性）
+不详，可能为apo A-Ⅰ，C-Ⅲ，或A-Ⅳ
+早期发生的冠心病
+HDL：15～35mg/dL (0.39–0.91 mmol/L)
+LDL-降脂药物
+谷固醇血症
+ABCG5andABCG8genes
+肌腱黄色瘤，早期发生的冠心病
+限制脂肪摄入
+胆汁酸多价螯合剂
+依泽替米贝（Ezetimibe）
+Tangier病
+ABCA1gene
+部分患者有早期发生的冠心病，周围神经病变，溶血性贫血，角膜混浊，肝脾肿大，橙色扁桃体
+HDL: <5mg/dL（<0.13 mmol/L）
+低脂饮食
+[a] Prevalence data fromHoffmann, M.M., März, W.(2009).Apo C-Ⅱ缺乏In: Lang, F.(eds)Encyclopedia of Molecular Mechanisms of Disease.Springer, Berlin, Heidelberg.https://doi.org/10.1007/978-3-540-29676-8_137
+[b] Prevalence data fromNie S, Chen G, Cao X, Zhang Y.Cerebrotendinous xanthomatosis: a comprehensive review of pathogenesis, clinical manifestations, diagnosis, and management.Orphanet J Rare Dis2014;9:179.Published 2014 Nov 26.doi:10.1186/s13023-014-0179-4
+[c] Prevalence data fromPericleous M, Kelly C, Wang T, Livingstone C, Ala A.Wolman's disease and cholesteryl ester storage disorder: the phenotypic spectrum of lysosomal acid lipase deficiency.Lancet Gastroenterol Hepatol2017;2(9):670-679.doi:10.1016/S2468-1253(17)30052-3
+[d] Data fromGeller AS, Polisecki EY, Diffenderfer MR, et al.Genetic and secondary causes of severe HDL deficiency and cardiovascular disease.J Lipid Res2018;59(12):2421-2435.doi:10.1194/jlr.M088203
+[e] Prevalence data fromJaved F, Hegele RA, Garg A, et al.Familial chylomicronemia syndrome: An expert clinical review from the National Lipid Association.J Clin Lipidolpublished March 21, 2025.doi: 10.1016/j.jacl.2025.03.013
+[f] Prevalence data fromTaghizadeh E, Farahani N, Mardani R, Taheri F, Taghizadeh H, Gheibihayat SM.Genetics of Familial Combined Hyperlipidemia (FCHL) Disorder: An Update.Biochem Genet2022;60(2):453-481.doi:10.1007/s10528-021-10130-2
+[g] Prevalence data fromTybjaerg-Hansen A, Humphries SEAtherosclerosis.Familial defective apolipoprotein B-100: a single mutation that causes hypercholesterolemia and premature coronary artery disease.  1992;96(2-3):91-107.doi:10.1016/0021-9150(92)90056-m
+[h] Data fromShah AS, Wilson DP.Genetic Disorders Causing Hypertriglyceridemia in Children and Adolescents.[Updated 2023 Feb 22].In: Feingold KR, Anawalt B, Blackman MR, et al., editors.Endotext [Internet].South Dartmouth (MA): MDText.com, Inc.; 2000-.Available from: https://www.ncbi.nlm.nih.gov/books/NBK395571/
+[i] Data fromJackson CL, Ahmad Z, Das SR, Khera A.The evaluation and management of patients with LDL-C ≥ 190 mg/dL in a large health care system.Am J Prev Cardiol2020;1:100002.Published 2020 May 1.doi:10.1016/j.ajpc.2020.100002
+[j] Data fromMehta R, Elias-Lopez D, Martagon AJ, et al.LCAT deficiency: a systematic review with the clinical and genetic description of Mexican kindred.Lipids Health Dis2021;20(1):70.Published 2021 Jul 13.doi:10.1186/s12944-021-01498-6
+ABCA1=腺苷三磷酸（ATP）结合盒转运蛋白A1；ABCG5和8=ATP结合盒G亚家族成员5和8；apo=载脂蛋白；CAD=冠状动脉疾病；HDL=高密度脂蛋白；LCAT=卵磷脂-胆固醇酰基转移酶；LDL=低密度脂蛋白；LPL=脂蛋白脂肪酶；MI = 心肌梗死；PCSK9 = 前蛋白转化酶亚型9；TC=总胆固醇；TG=甘油三酯；VLDL=极低密度脂蛋白。
+[a] Prevalence data fromHoffmann, M.M., März, W.(2009).Apo C-Ⅱ缺乏In: Lang, F.(eds)Encyclopedia of Molecular Mechanisms of Disease.Springer, Berlin, Heidelberg.https://doi.org/10.1007/978-3-540-29676-8_137
+[b] Prevalence data fromNie S, Chen G, Cao X, Zhang Y.Cerebrotendinous xanthomatosis: a comprehensive review of pathogenesis, clinical manifestations, diagnosis, and management.Orphanet J Rare Dis2014;9:179.Published 2014 Nov 26.doi:10.1186/s13023-014-0179-4
+[c] Prevalence data fromPericleous M, Kelly C, Wang T, Livingstone C, Ala A.Wolman's disease and cholesteryl ester storage disorder: the phenotypic spectrum of lysosomal acid lipase deficiency.Lancet Gastroenterol Hepatol2017;2(9):670-679.doi:10.1016/S2468-1253(17)30052-3
+[d] Data fromGeller AS, Polisecki EY, Diffenderfer MR, et al.Genetic and secondary causes of severe HDL deficiency and cardiovascular disease.J Lipid Res2018;59(12):2421-2435.doi:10.1194/jlr.M088203
+[e] Prevalence data fromJaved F, Hegele RA, Garg A, et al.Familial chylomicronemia syndrome: An expert clinical review from the National Lipid Association.J Clin Lipidolpublished March 21, 2025.doi: 10.1016/j.jacl.2025.03.013
+[f] Prevalence data fromTaghizadeh E, Farahani N, Mardani R, Taheri F, Taghizadeh H, Gheibihayat SM.Genetics of Familial Combined Hyperlipidemia (FCHL) Disorder: An Update.Biochem Genet2022;60(2):453-481.doi:10.1007/s10528-021-10130-2
+[g] Prevalence data fromTybjaerg-Hansen A, Humphries SEAtherosclerosis.Familial defective apolipoprotein B-100: a single mutation that causes hypercholesterolemia and premature coronary artery disease.  1992;96(2-3):91-107.doi:10.1016/0021-9150(92)90056-m
+[h] Data fromShah AS, Wilson DP.Genetic Disorders Causing Hypertriglyceridemia in Children and Adolescents.[Updated 2023 Feb 22].In: Feingold KR, Anawalt B, Blackman MR, et al., editors.Endotext [Internet].South Dartmouth (MA): MDText.com, Inc.; 2000-.Available from: https://www.ncbi.nlm.nih.gov/books/NBK395571/
+[i] Data fromJackson CL, Ahmad Z, Das SR, Khera A.The evaluation and management of patients with LDL-C ≥ 190 mg/dL in a large health care system.Am J Prev Cardiol2020;1:100002.Published 2020 May 1.doi:10.1016/j.ajpc.2020.100002
+[j] Data fromMehta R, Elias-Lopez D, Martagon AJ, et al.LCAT deficiency: a systematic review with the clinical and genetic description of Mexican kindred.Lipids Health Dis2021;20(1):70.Published 2021 Jul 13.doi:10.1186/s12944-021-01498-6
+ABCA1=腺苷三磷酸（ATP）结合盒转运蛋白A1；ABCG5和8=ATP结合盒G亚家族成员5和8；apo=载脂蛋白；CAD=冠状动脉疾病；HDL=高密度脂蛋白；LCAT=卵磷脂-胆固醇酰基转移酶；LDL=低密度脂蛋白；LPL=脂蛋白脂肪酶；MI = 心肌梗死；PCSK9 = 前蛋白转化酶亚型9；TC=总胆固醇；TG=甘油三酯；VLDL=极低密度脂蛋白。
+
+【继发性病因】
+继发性原因是大多数成人血脂异常的病因。
+高收入国家继发性血脂异常最重要的原因是：
+久坐的生活方式，摄入过多的总热量、饱和脂肪、胆固醇和反式脂肪
+久坐的生活方式，摄入过多的总热量、饱和脂肪、胆固醇和反式脂肪
+反式脂肪是加入氢原子的多不饱和脂肪酸或单不饱和脂肪酸；被用于制作加工食品，它和饱和脂肪酸一样可导致动脉粥样硬化。
+血脂异常的其他常见继发因素包括：
+慢性肾病
+慢性肾病
+原发性胆汁性肝硬化和其他胆汁淤积性肝病
+原发性胆汁性肝硬化和其他胆汁淤积性肝病
+甲状腺功能低下
+甲状腺功能低下
+酒精滥用
+酒精滥用
+Medications（药物应用史）
+Medications（药物应用史）
+药物，例如噻嗪类、β-受体阻滞剂、类维生素A、高效抗逆转录病毒药物、环孢素、他克莫司、孕激素和糖皮质激素可引起继发性血脂异常。口服雌激素会产生混合效应（降低LDL-C并升高HDL-C，但也会增加甘油三酯）。
+HDL-C水平低的次要原因包括吸烟，合成代谢类固醇，HIV感染，肾病综合征。关于无烟烟草和大麻对脂质代谢影响的数据很少（1，2）。
+糖尿病是一种尤为重要的继发性病因，因为患者往往伴有一组促动脉粥样硬化的血脂异常特征，包括高甘油三酯、小而致密的LDL分数升高，以及HDL水平降低（即糖尿病性血脂异常，或称高甘油三酯性高载脂蛋白B血症）。因而2型糖尿病患者的风险特别高。这一组合可能是肥胖及（或）糖尿病控制不佳的结果，因其使血循环中FFA增加，导致肝脏中VLDL产生增多。富含甘油三酯的VLDL随后将甘油三酯和胆固醇转移到LDL和HDL，从而促进富含甘油三酯的小而密LDL的形成，并清除富含甘油三酯的HDL。糖尿病性血脂异常经常因热卡摄入增加和体力活动减少而加剧，而这正是某些2型糖尿病患者生活方式的特征。女性糖尿病患者发生心脏病的风险可能因此血脂异常而增高。
+
+【病因参考文献】
+1.Ravi D, Ghasemiesfe M, Korenstein D, Cascino T, Keyhani S.Associations Between Marijuana Use and Cardiovascular Risk Factors and Outcomes: A Systematic Review.Ann Intern Med2018;168(3):187-194.doi:10.7326/M17-1548
+1.Ravi D, Ghasemiesfe M, Korenstein D, Cascino T, Keyhani S.Associations Between Marijuana Use and Cardiovascular Risk Factors and Outcomes: A Systematic Review.Ann Intern Med2018;168(3):187-194.doi:10.7326/M17-1548
+2.Tucker LA.Use of smokeless tobacco, cigarette smoking, and hypercholesterolemia.Am J Public Health1989;79(8):1048-1050.doi:10.2105/ajph.79.8.1048
+2.Tucker LA.Use of smokeless tobacco, cigarette smoking, and hypercholesterolemia.Am J Public Health1989;79(8):1048-1050.doi:10.2105/ajph.79.8.1048
+
+【血脂异常的症状和体征】
+血脂异常本身通常不引起症状，但极高的甘油三酯水平可能导致感觉异常、呼吸困难和意识模糊。脂质紊乱可导致症状性终末器官疾病，包括：
+血管疾病（例如，冠状动脉疾病(CAD)、卒中、外周动脉疾病）
+血管疾病（例如，冠状动脉疾病(CAD)、卒中、外周动脉疾病）
+急性胰腺炎可由高甘油三酯水平（>500 mg/dL [>5.65 mmol/L]）引起
+急性胰腺炎可由高甘油三酯水平（>500 mg/dL [>5.65 mmol/L]）引起
+肝脾肿大可能由极高的甘油三酯水平引起 (>500 mg/dL [>5.65 mmol/L])。
+肝脾肿大可能由极高的甘油三酯水平引起 (>500 mg/dL [>5.65 mmol/L])。
+重度血脂异常（低密度脂蛋白>190mg/dL [>4.9mmol/L]）患者的体征可能包括局部脂质沉积（黄色瘤），或由高血清浓度或脂质积累引起的其他表现。
+高LDL-C可导致角膜弓环，以及足跟、肘、膝肌腱处和掌指骨关节周围的腱性黄色瘤。高 LDL-C 患者（例如家族性高胆固醇血症或异常 β 脂蛋白血症）中出现的其他临床表现包括平面性或结节性黄色瘤。平面黄色瘤表现为平坦的或略抬高的淡黄色班片样皮损。结节性黄色瘤通常是无痛的，坚硬的结节，好发于关节伸侧。
+LDL-C 水平高的患者会出现角膜弧（虹膜周围角膜中的脂质沉积）和黄斑瘤（内侧眼睑上富含脂质的黄色斑块）。原发性胆汁性肝硬化患者和正常血脂水平的患者也可发生黄斑瘤。
+甘油三酯水平特别高的患者在躯干、背部、肘部、臀部、膝部、手、脚等处可出现发疹性黄色瘤。严重高甘油三酯血症（>2000mg/dL[>22.6mmol/L]）可使视网膜动静脉呈乳白色（视网膜脂血症）。
+Image courtesy of Michael H.Davidson, MD.
+发疹性黄瘤是甘油三酯水平升高的皮肤表现。
+发疹性黄瘤是甘油三酯水平升高的皮肤表现。
+图片由医学博士Thomas Habif提供。
+甘油三酯水平严重升高的患者可能在躯干、背部、肘部、臀部、膝盖、手和脚上出现发疹性黄色瘤。
+甘油三酯水平严重升高的患者可能在躯干、背部、肘部、臀部、膝盖、手和脚上出现发疹性黄色瘤。
+© Springer Science+Business Media
+结节性黄色瘤通常是无痛的，坚硬的结节，好发于关节伸侧。
+结节性黄色瘤通常是无痛的，坚硬的结节，好发于关节伸侧。
+© Springer Science+Business Media
+跟腱黄瘤可诊断家族性高胆固醇血症。
+跟腱黄瘤可诊断家族性高胆固醇血症。
+Image courtesy of Michael H.Davidson, MD.
+肌腱黄色瘤（箭头）可诊断家族性高胆固醇血症。
+肌腱黄色瘤（箭头）可诊断家族性高胆固醇血症。
+Image courtesy of Michael H.Davidson, MD.
+发疹性黄瘤是甘油三酯水平升高的皮肤表现。
+发疹性黄瘤是甘油三酯水平升高的皮肤表现。
+图片由医学博士Thomas Habif提供。
+甘油三酯水平严重升高的患者可能在躯干、背部、肘部、臀部、膝盖、手和脚上出现发疹性黄色瘤。
+甘油三酯水平严重升高的患者可能在躯干、背部、肘部、臀部、膝盖、手和脚上出现发疹性黄色瘤。
+© Springer Science+Business Media
+结节性黄色瘤通常是无痛的，坚硬的结节，好发于关节伸侧。
+结节性黄色瘤通常是无痛的，坚硬的结节，好发于关节伸侧。
+© Springer Science+Business Media
+跟腱黄瘤可诊断家族性高胆固醇血症。
+跟腱黄瘤可诊断家族性高胆固醇血症。
+Image courtesy of Michael H.Davidson, MD.
+肌腱黄色瘤（箭头）可诊断家族性高胆固醇血症。
+肌腱黄色瘤（箭头）可诊断家族性高胆固醇血症。
+Image courtesy of Michael H.Davidson, MD.
+这张照片显示的是一个高胆固醇患者眼睑外侧和内眼角内侧下方的黄白色斑块。黄原瘤不是家族性高胆固醇血症特有的。
+Image courtesy of Michael H.Davidson, MD.
+这张照片显示的是一个高胆固醇患者上内侧眼睑上的黄白色斑块。黄斑瘤不是家族性高胆固醇血症特有的。
+© Springer Science+Business Media
+
+【血脂异常的诊断】
+血脂谱（测量总胆固醇、甘油三酯和HDL-C，计算LDL-C和VLDL-C）
+血脂谱（测量总胆固醇、甘油三酯和HDL-C，计算LDL-C和VLDL-C）
+血脂异常是通过测量血脂来诊断的。常规测量（血脂谱）包括总胆固醇 (TC)、甘油三酯、HDL-C 和 LDL-C；这些结果用于计算 LDL-C 和 VLDL-C。
+血脂异常通常是通过常规筛查测试诊断的。患有血脂异常并发症（例如动脉粥样硬化性疾病）的患者也可能怀疑该病。体检结果不太常见，提示原发性血脂异常。
+疑诊原发性脂质代谢紊乱，当患者存在：
+血脂异常的体征，如肌腱黄色瘤，这是家族性高胆固醇血症的特征
+血脂异常的体征，如肌腱黄色瘤，这是家族性高胆固醇血症的特征
+早发动脉粥样硬化性疾病(男性< 55岁，女性< 60岁)
+早发动脉粥样硬化性疾病(男性< 55岁，女性< 60岁)
+早发性动脉粥样硬化疾病或严重高脂血症的家族史
+早发性动脉粥样硬化疾病或严重高脂血症的家族史
+血清LDL-C>190 mg/dL (>4.9 mmol/L)
+血清LDL-C>190 mg/dL (>4.9 mmol/L)
+
+【血脂谱测定】
+直接测量总胆固醇 (TC)、甘油三酯 (TG) 和 HDL-C。总胆固醇和甘油三酯值反映了所有循环脂蛋白中的胆固醇和甘油三酯，包括乳糜微粒、VLDL、中密度脂蛋白（IDL）、LDL和HDL。即使没有疾病，TC值每天可波动10%，甘油三酯波动幅度可达25%。
+临床实践过去常在空腹状态下测量血脂；但指南更新支持对大多数患者采用非空腹筛查，以提高患者对检测的依从性。多数专家建议仅在特定情况下检测空腹血脂，包括当甘油三酯＞400 mg/dL（＞4.5 mmol/L）时，这可能与高甘油三酯血症的继发性病因相关（1，2）。
+
+【经验与提示】
+经验与提示
+大多数专家建议仅在特定情况下禁食脂质，包括当非 HDL-C 水平 > 220 mg/dL (>5.7 mmol/L) 或甘油三酯水平 > 400 mg/dL (>4.5 mmol/L) 时。
+大多数专家建议仅在特定情况下禁食脂质，包括当非 HDL-C 水平 > 220 mg/dL (>5.7 mmol/L) 或甘油三酯水平 > 400 mg/dL (>4.5 mmol/L) 时。
+如果患者患有急性疾病，应推迟检查，因为在炎症状态下甘油三酯和脂蛋白(a)水平会升高，而胆固醇水平会降低。此外，急性心肌梗死（MI）30天内，血脂会发生变化；然而，在急性心肌梗死后第一个24小时内测定的脂蛋白谱通常仍能正确反映患者的脂代谢状态，可用于指导最初的降脂治疗。
+LDL-C值通常计算为HDL和VLDL中不含的胆固醇量。VLDL通过甘油三酯÷5估算，因为VLDL颗粒中胆固醇的浓度通常是颗粒中总脂质的五分之一。因此，Friedewald公式估计LDL-C如下：
+计算的低密度脂蛋白胆固醇值包括所有非高密度脂蛋白和非西洛密克戎胆固醇的测量值，包括IDL和脂蛋白（a）中的测量值（Lp（a）)。
+对于甘油三酯水平升高的患者，使用常数因子5时，估计VLDL-C的误差会被放大。Martin-Hopkins 方程可用于获得更可靠的 LDL-C 估计值。将常数5替换为基于患者non-HDL-C与甘油三酯水平的新型计算因子。（3）。新因子是从表格中得出的可调整因子。Friedewald 和 Martin-Hopkins 方程均是在空腹且血清甘油三酯水平 <400 mg/dL（<4.5 mmol/L）的患者中建立并验证的。
+马丁-霍普金斯方程如下：
+LDL-C也可用血浆超速离心法（将乳糜微粒及VLDL部分和HDL-C及LDL-C分离）和免疫法直接测定。直接测量可能对某些甘油三酯升高的患者有用，但这些直接测量通常不是必需的。
+
+【其他检查】
+对于某些患者，应进行额外的血脂测试。
+早发性动脉粥样硬化性心血管疾病、心血管疾病患者（即使其血脂水平风险较低；见表胆固醇水平与心血管风险）或药物治疗无应答的高LDL-C水平患者应检测Lp(a)和C反应蛋白水平部分指南建议对所有成年人和患有缺血性中风或有冠状动脉疾病家族史的儿童至少进行一次 Lp (a) 水平检查。（4）。对那些LDL在临界高值的患者也应直接检测其Lp（a）水平以决定是否需要药物治疗。
+LDL颗粒数目或载脂蛋白B-100（载脂蛋白B）的测定对于高甘油三酯血症与代谢综合征患者非常有意义。载脂蛋白B与LDL颗粒数目相似，因为对于每个LDL颗粒对应1分子载脂蛋白B。Apo B测量包括所有致动脉粥样化颗粒，包括残余物和Lp（a）。
+Apo B 值反映了所有非 HDL-C（VLDL、IDL 和 LDL），并且比 LDL-C 更能预测 CAD 风险。非 HDL-C (TC – HDL-C) 也比 LDL-C 更能预测 CAD 风险，特别是对于高甘油三酯血症患者。
+
+【继发性病因】
+绝大多数新诊断为血脂异常的患者，或血脂谱中某一指标出现不可解释的恶化时，均应检查继发性血脂异常的病因。 检测内容包括
+空腹血糖和/或糖化血红蛋白 (HbA1C)
+空腹血糖和/或糖化血红蛋白 (HbA1C)
+促甲状腺激素（TSH）
+促甲状腺激素（TSH）
+
+【诊断参考】
+1.Nordestgaard BG, Langsted A, Mora S, et al.Fasting is not routinely required for determination of a lipid profile: clinical and laboratory implications including flagging at desirable concentration cut-points-a joint consensus statement from the European Atherosclerosis Society and European Federation of Clinical Chemistry and Laboratory Medicine.Eur Heart J2016;37(25):1944-1958.doi:10.1093/eurheartj/ehw152
+1.Nordestgaard BG, Langsted A, Mora S, et al.Fasting is not routinely required for determination of a lipid profile: clinical and laboratory implications including flagging at desirable concentration cut-points-a joint consensus statement from the European Atherosclerosis Society and European Federation of Clinical Chemistry and Laboratory Medicine.Eur Heart J2016;37(25):1944-1958.doi:10.1093/eurheartj/ehw152
+2.Grundy SM, Stone NJ, Bailey AL, et al.2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines [published correction appears inCirculation2019 Jun 18;139(25):e1182-e1186. doi: 10.1161/CIR.0000000000000698.] [published correction appears inCirculation2023 Aug 15;148(7):e5. doi: 10.1161/CIR.0000000000001172.].Circulation2019;139(25):e1082-e1143.doi:10.1161/CIR.0000000000000625
+2.Grundy SM, Stone NJ, Bailey AL, et al.2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines [published correction appears inCirculation2019 Jun 18;139(25):e1182-e1186. doi: 10.1161/CIR.0000000000000698.] [published correction appears inCirculation2023 Aug 15;148(7):e5. doi: 10.1161/CIR.0000000000001172.].Circulation2019;139(25):e1082-e1143.doi:10.1161/CIR.0000000000000625
+3.Martin SS, Blaha MJ, Elshazly MB, et al.Comparison of a novel method vs the Friedewald equation for estimating low-density lipoprotein cholesterol levels from the standard lipid profile.JAMA310(19):2061-2068, 2013.doi:10.1001/jama.2013.280532
+3.Martin SS, Blaha MJ, Elshazly MB, et al.Comparison of a novel method vs the Friedewald equation for estimating low-density lipoprotein cholesterol levels from the standard lipid profile.JAMA310(19):2061-2068, 2013.doi:10.1001/jama.2013.280532
+4.Kronenberg F, Mora S, Stroes ESG, et al.Lipoprotein(a) in atherosclerotic cardiovascular disease and aortic stenosis: a European Atherosclerosis Society consensus statement.Eur Heart J2022;43(39):3925-3946.doi:10.1093/eurheartj/ehac361
+4.Kronenberg F, Mora S, Stroes ESG, et al.Lipoprotein(a) in atherosclerotic cardiovascular disease and aortic stenosis: a European Atherosclerosis Society consensus statement.Eur Heart J2022;43(39):3925-3946.doi:10.1093/eurheartj/ehac361
+
+【血脂异常筛查】
+用空腹血脂筛查（TC、甘油三酯、HDL-C和计算的LDL-C）。医学会关于何时开始筛查的指南各不相同。根据风险因素，对有心脏病家族史或家族性高胆固醇血症的儿童最早可以在2岁时开始筛查。
+检测血脂水平的同时应评估其他心血管事件危险因素，包括：
+一级亲属中男性在55岁前或女性在65岁前是否发生过CAD
+一级亲属中男性在55岁前或女性在65岁前是否发生过CAD
+
+【儿童筛查】
+大多数医生建议根据 2012 年国家心肺和血液研究所指南（1） 如下所示：
+有危险因素的儿童（如糖尿病、高血压、严重高脂血症家族史或早产儿CAD）：2~8岁时检测空腹血脂1次
+有危险因素的儿童（如糖尿病、高血压、严重高脂血症家族史或早产儿CAD）：2~8岁时检测空腹血脂1次
+无危险因素的儿童：青春期前（通常年龄9~11岁），检测1次非空腹或空腹血脂情况，17~21岁时再测1次(2)
+无危险因素的儿童：青春期前（通常年龄9~11岁），检测1次非空腹或空腹血脂情况，17~21岁时再测1次(2)
+
+【成人筛查】
+成人在20岁(3, 4) 时开始筛查血脂，此后每5年复查。
+停止筛查的年龄尚未确定，但有证据支持对 80 多岁的患者进行筛查，尤其是患有动脉粥样硬化性心血管疾病的患者 (5）。
+有广泛心脏病家族史的患者——55岁（男性）或65岁（女性）之前的心脏病发作、中风或冠状动脉疾病，没有已知的风险因素，如高LDL、吸烟、糖尿病或肥胖，或已知的高Lp（a）家族史——也应通过测量Lp（b）水平进行筛查。
+
+【筛查参考文献】
+1.Expert Panel on Integrated Guidelinesfor Cardiovascular Health and Risk Reduction in Children and Adolescents; National Heart, Lung, and Blood Institute.Expert panel on integrated guidelines for cardiovascular health and risk reduction in children and adolescents.2011.
+1.Expert Panel on Integrated Guidelinesfor Cardiovascular Health and Risk Reduction in Children and Adolescents; National Heart, Lung, and Blood Institute.Expert panel on integrated guidelines for cardiovascular health and risk reduction in children and adolescents.2011.
+2.Daniels SR, Greer FR; Committee on Nutrition.Lipid screening and cardiovascular health in childhood.Pediatrics2008;122(1):198-208.doi:10.1542/peds.2008-1349
+2.Daniels SR, Greer FR; Committee on Nutrition.Lipid screening and cardiovascular health in childhood.Pediatrics2008;122(1):198-208.doi:10.1542/peds.2008-1349
+3.Goff DC Jr, Lloyd-Jones DM, Bennett G, et al: 2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk.J Am Coll Cardiol63:2935–2959, 2014.doi: 10.1016/j.jacc.2013.11.005
+3.Goff DC Jr, Lloyd-Jones DM, Bennett G, et al: 2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk.J Am Coll Cardiol63:2935–2959, 2014.doi: 10.1016/j.jacc.2013.11.005
+4.Grundy SM, Stone NJ, Bailey AL, et al: 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.Circulation139: e1082–e1143, 2019.doi: 10.1161/CIR.0000000000000625
+4.Grundy SM, Stone NJ, Bailey AL, et al: 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.Circulation139: e1082–e1143, 2019.doi: 10.1161/CIR.0000000000000625
+5.Kleipool EE, Dorresteijn JA, Smulders YM, et al: Treatment of hypercholesterolaemia in older adults calls for a patient-centred approach.Heart106(4):261-266, 2020.doi:10.1136/heartjnl-2019-315600
+5.Kleipool EE, Dorresteijn JA, Smulders YM, et al: Treatment of hypercholesterolaemia in older adults calls for a patient-centred approach.Heart106(4):261-266, 2020.doi:10.1136/heartjnl-2019-315600
+
+【血脂异常的治疗】
+生活方式干预（如运动、饮食改变）
+生活方式干预（如运动、饮食改变）
+LDL升高：他汀类调脂药物，可予胆酸螯合剂、依折麦布、贝培多酸，和PCSK9(蛋白转化酶枯草素/可心9型)抑制剂
+LDL升高：他汀类调脂药物，可予胆酸螯合剂、依折麦布、贝培多酸，和PCSK9(蛋白转化酶枯草素/可心9型)抑制剂
+针对高甘油三酯血症的治疗，可选用贝特类药物、ω-3脂肪酸，有时需联合其他措施
+针对高甘油三酯血症的治疗，可选用贝特类药物、ω-3脂肪酸，有时需联合其他措施
+
+【普通原则】
+血脂异常治疗的主要目标是预防动脉粥样硬化性心血管疾病（ASCVD），包括急性冠脉综合征、中风、短暂性脑缺血发作或推测由动脉粥样硬化引起的外周动脉疾病。所有心血管疾病（ASCVD）患者均需要治疗（二级预防），部分无心血管疾病的患者也需要治疗（一级预防）。
+美国儿科学会（AAP）仍然建议对某些LDL增高的儿童进行治疗 (1)。杂合子家族性高胆固醇血症的患儿应在8到10岁开始治疗。 纯合子家族性高胆固醇血症的患儿需控制饮食，接受药物治疗，定期分离LDL，以防止过早死亡。一旦确诊即应开始治疗。
+虽然不同类型的脂质紊乱常同时存在，但应根据其特点选用不同的治疗方法。一些患者虽然只有一种脂质紊乱，却需要几种方法联合治疗；而对于另一些患者，一种治疗方法即足以解决数种脂质紊乱。治疗应始终包括高血压、糖尿病的治疗和戒烟。治疗还应包括每日低剂量阿司匹林年龄 40 至 79 岁、出血风险较低且 10 年因 CAD 导致心肌梗塞或死亡风险的患者≥20%。男性和女性的治疗方案基本相同。
+
+【LDL-C 升高治疗】
+对于所有个人而言，预防ASCVD需要强调心脏健康的生活方式，尤其是饮食和运动。降低所有年龄段 LDL-C 的其他选择包括药物、膳食补充剂和程序干预。许多其他的替代疗法对治疗脂类异常也有效果。
+饮食变化有助于保持理想体重并提供其他好处。这些变化包括:
+减少饱和脂肪的摄入
+减少饱和脂肪的摄入
+增加膳食中可溶性纤维的摄入量（例如，燕麦片、燕麦麸皮、车前子）。
+增加膳食中可溶性纤维的摄入量（例如，燕麦片、燕麦麸皮、车前子）。
+对饮食变化的反应可能是不同的，应在营养干预后重新评估脂质谱，以确定其有效性。转介给营养师通常很有用。
+运动可以降低部分人群的密度脂蛋白胆固醇，并提高高密度脂蛋白胆固醇（2），也有助于维持理想体重。美国心脏协会（AHA）建议每周进行150分钟中等强度运动或75分钟高强度运动，外加每周进行2次中等强度力量训练（3）。
+只要可行，就应进行饮食改变和锻炼，但美国心脏协会 (AHA)/美国心脏病学会 (ACC) 指南建议在讨论他汀类药物治疗的风险和益处后，对某些患者群体也使用药物治疗 (4)。
+对于成人药物治疗，AHA/ACC指南推荐对以下四类患者使用他汀类药物：
+临床的动脉粥样硬化性心血管疾病
+临床的动脉粥样硬化性心血管疾病
+LDL-C ≥190mg/dL (≥ 4.9 mmol/L)
+LDL-C ≥190mg/dL (≥ 4.9 mmol/L)
+年龄 40 至 75 岁，患有糖尿病且 LDL-C 70 至 189 mg/dL（1.8 至 4.9 mmol/L）
+年龄 40 至 75 岁，患有糖尿病且 LDL-C 70 至 189 mg/dL（1.8 至 4.9 mmol/L）
+年龄40〜75，低密度脂蛋白胆固醇70〜189 mg/dL(1.8- 4.9 mmol/L)，估算的10年ASCVD风险≥7.5％
+年龄40〜75，低密度脂蛋白胆固醇70〜189 mg/dL(1.8- 4.9 mmol/L)，估算的10年ASCVD风险≥7.5％
+量化心血管风险的标准工具是汇集队列风险评估方程，该模型已由2013年ACC/AHA联合工作组验证。该心血管风险预测模型的计算依据包括：性别、年龄、种族、总胆固醇与高密度脂蛋白胆固醇水平、收缩压与舒张压、糖尿病史、吸烟状况，以及降压药和他汀类药物的使用情况（5）。
+近期AHA推出了PREVENT risk calculator（预防风险计算器）用于无冠心病、卒中或心力衰竭患者的初级预防（6）。该工具扩展了可分层评估的年龄范围，纳入糖化血红蛋白、尿白蛋白/肌酐比值和社会剥夺指数（使用邮政编码根据七个人口统计特征估计剥夺程度）。增加的终生风险是相关的（使用PREVENT风险计算器标识），因为对于年轻患者而言10年风险可能偏低，因此需要评估中长期的心血管风险。
+在考虑是否给予他汀类药物时，临床医生还可能考虑其他因素，包括以下内容：
+LDL-C ≥160mg/dL (4.1 mmol/L)
+LDL-C ≥160mg/dL (4.1 mmol/L)
+早产ASCVD家族史（即男性一级亲属的发病年龄<55岁，或女性一级亲属的发病年龄<65岁）
+早产ASCVD家族史（即男性一级亲属的发病年龄<55岁，或女性一级亲属的发病年龄<65岁）
+高敏C反应蛋白≥2 mg/L（≥19 nmol/L）
+高敏C反应蛋白≥2 mg/L（≥19 nmol/L）
+冠状动脉钙化评分≥ 300 Agatston 单位（或 ≥ 患者人口统计学的第 75 个百分位数）
+冠状动脉钙化评分≥ 300 Agatston 单位（或 ≥ 患者人口统计学的第 75 个百分位数）
+踝臂指数/踝肱指数< 0.9
+踝臂指数/踝肱指数< 0.9
+终生风险增加
+终生风险增加
+ACC/AHA指南将风险增强因素扩展为如下内容（7）：
+早发性动脉粥样硬化性心血管疾病（ASCVD）家族史（即男性发病年龄<55岁或女性发病年龄<65岁）
+早发性动脉粥样硬化性心血管疾病（ASCVD）家族史（即男性发病年龄<55岁或女性发病年龄<65岁）
+南亚血统
+南亚血统
+女性特有风险因素（子痫前期或过早绝经病史）
+女性特有风险因素（子痫前期或过早绝经病史）
+LDL-C持续升高（> 160 mg/dL[4.1 mmol/L]）
+LDL-C持续升高（> 160 mg/dL[4.1 mmol/L]）
+持续升高的甘油三酯（＞175 mg/dL [1.98 mmol/L]）
+持续升高的甘油三酯（＞175 mg/dL [1.98 mmol/L]）
+慢性肾病
+慢性肾病
+代谢综合征
+代谢综合征
+炎症性疾病（尤其是类风湿性关节炎、HIV、银屑病）
+炎症性疾病（尤其是类风湿性关节炎、HIV、银屑病）
+Lp(a) 升高（> 50 mg/dL 或 125 nmol/L）
+Lp(a) 升高（> 50 mg/dL 或 125 nmol/L）
+载脂蛋白B（Apo B）升高（> 130 mg/dL [1.30 g/L]）
+载脂蛋白B（Apo B）升高（> 130 mg/dL [1.30 g/L]）
+踝臂指数/踝肱指数< 0.9
+踝臂指数/踝肱指数< 0.9
+他汀类药物是降低 LDL-C 的首选治疗方法，因为有证据表明它们可以降低心血管发病率和死亡率（8）。其他类别的降脂药物不是治疗LDL-C升高的首选药物，因为它们在降低ASCVD方面没有表现出同等的疗效。
+他汀类药物抑制胆固醇合成的关键酶羟甲基戊二酰辅酶a还原酶，导致LDL受体的上调和LDL清除率的增加。它们将LDL-C降低高达60%，并使HDL-C小幅增加，并适度降低甘油三酯。即使在LDL没有升高的情况下，这种抗炎作用仍能对抗动脉粥样硬化。
+他汀类药物治疗被分类为高，中，或低强度。给药时应考虑患者的心血管风险与年龄(见表他汀类药物预防ASCVD[动脉粥样硬化性心血管疾病])。他汀类药物的选择取决于患者的并存病、其他用药、不良事件的风险因素，他汀药物不耐受、成本和患者的偏好。
+他汀类的副作用不常见，但可能有肝酶活性上升，肌炎和横纹肌溶解。肝酶升高是罕见的，严重的肝毒性更是极其罕见的。高达 10% 的服用他汀类药物的患者会出现涉及肌肉的症状或严重不良反应，并且可能呈剂量依赖性。肌肉症状可能在肌酶（例如，肌酸激酶）不升高的情况下发生。副作用多见于老年人，患有多种疾病或是同时服用多种药物者。在一些患者中，换用另一种他汀类药物，或将剂量降低（短暂停药后）能减轻副作用。 某些他汀类和细胞色素P3A4抑制剂（如大环内酯类抗生素，吡咯类抗真菌药，环孢霉素）及贝特类（fibrate），特别是吉非贝齐等药物同用时，肌肉毒性比较常见。他汀类药物禁用于妊娠期及哺乳期妇女
+在ASCVD患者中，LDL-C水平的降低会降低其风险程度。因此，初始治疗采用最大耐受剂量的他汀类药物，以使LDL胆固醇降低> 50％（高强度治疗）。 对于极高风险的ASCVD患者（如近期心肌梗塞或不稳定型心绞痛, 或有糖尿病等高风险合并症），尽管使用最大治疗剂量的他汀类药物，但LDL-C水平仍> 70 mg/dL（> 1.2 mmol/L），应添加依折麦布或PCSK9抑制剂（如依伏库单抗，阿利库单抗）。在大型临床结局试验中，已证明这些疗法与他汀类药物联合使用可减少主要的不良心血管事件（9,10)。
+非他汀类药物在降低 LDL-C 方面也有作用（见表非他汀类降脂药)。2022年ACC非他汀类药物治疗作用专家共识决策路径为临床医生提供了非他汀类治疗在ASCVD一级和二级预防中的作用指导（11)。他汀类药物通常是一线药物，但对于他汀类药物不耐受的患者，或那些尽管使用他汀类药物仍无法达到目标LDL-C水平的患者，则使用非他汀类药物。
+
+【他汀类药物预防ASCVD（动脉粥样硬化性心血管疾病）】
+他汀类药物预防ASCVD（动脉粥样硬化性心血管疾病）
+推荐用于
+降低LDL-C≥50％
+临床ASCVD（动脉粥样硬化性心血管疾病），年龄≤75
+LDL-C ≥190mg/dL (4.9 mmol/L)
+年龄40到75，10年ASCVD风险≥7.5％
+糖尿病和 10 年 ASCVD 风险≥ 7.5%
+阿托伐他汀40～80毫克
+瑞舒伐他汀20～40毫克
+中等强度
+降低LDL-C 30〜<50％
+临床ASCVD（动脉粥样硬化性心血管疾病），年龄> 75
+年龄40~75岁，10年ASCVD风险为5%~7.5％
+年龄40到75，10年ASCVD风险≥7.5％（如果不能耐受高强度他汀类药物）
+糖尿病和 10 年 ASCVD 风险 < 7.5%
+阿托伐他汀10～20毫克
+氟伐他汀XL 80毫克
+洛伐他汀 40 mg
+匹伐他汀2～4毫克
+普伐他汀40～80毫克
+Rosuvastatin 5～10 mg
+辛伐他汀20～40毫克
+降低LDL-C <30％
+不能耐受中等或高强度治疗的患者
+氟伐他汀20～40毫克
+洛伐他汀 20 mg
+匹伐他汀1毫克
+普伐他汀10～20毫克
+*个人的反应可能会有所不同。
+† 所有剂量均为口服，每日一次。
+ASCVD =动脉粥样硬化性心血管疾病； LDL-C =低密度脂蛋白胆固醇。
+Data fromGrundy SM, Stone NJ, Bailey AL, et al: 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.Circulation139: e1082–e1143, 2019.doi: 10.1161/CIR.0000000000000625
+*个人的反应可能会有所不同。
+† 所有剂量均为口服，每日一次。
+ASCVD =动脉粥样硬化性心血管疾病； LDL-C =低密度脂蛋白胆固醇。
+Data fromGrundy SM, Stone NJ, Bailey AL, et al: 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.Circulation139: e1082–e1143, 2019.doi: 10.1161/CIR.0000000000000625
+
+【非他汀类降脂药物*】
+非他汀类降脂药物*
+药物治疗
+腺苷三磷酸柠檬酸裂解酶抑制剂
+降低LDL-C
+Bempedoic acid
+高尿酸血症、肌腱断裂的风险
+特别适用于他汀类药物相关肌肉不良反应的患者，因为肌肉中缺乏激活这种药物所需的酶
+胆汁酸多价螯合剂
+降低LDL（主要作用）；轻微升高HDL-C（次要作用）；可能升高TGs
+胆苯烯胺
+考来维仑
+胆固醇吸收抑制剂
+降低LDL（主要作用），增加HDLs
+依泽替米贝（Ezetimibe）
+用于纯合子型家族性高胆固醇血症的药物
+降低LDL-C
+Evinacumab
+静脉输注超过 60 分钟
+临床试验中的不良反应包括鼻咽炎、流感样疾病和输液反应
+洛美他派
+肝毒性风险
+逐渐加大剂量（大约每2周）
+剂量加大前检测转氨酶水平
+降低甘油三酯和极低密度脂蛋白，提高高密度脂蛋白（HDL），可能会增加LDL-C（高甘油三酯患者）
+苯扎贝特
+肾功能不全患者减量
+在美国不可用
+环丙贝特
+在美国不可用
+非诺贝特
+肾功能不全患者减量
+是贝特类中与他汀类联用时最安全的一种
+吉非贝齐
+肾功能不全患者减量
+增加HDL-C，降低TGs（小剂量）；降低LDL（较大剂量）；降低Lp（a）（次要作用）
+常见副作用：潮红，糖耐量受损，尿酸增加。
+进食时服药及使用阿司匹林可减轻潮红症状
+单克隆抗体PCSK9
+降低LDL-C和TG，可能降低Lp(a)
+Alirocumab（一种PCSK9抑制剂）
+对于家族性高胆固醇血症患者和其他高危人群
+Evolocumab（一种PCSK9抑制剂）
+对于家族性高胆固醇血症患者及其他高风险人群
+处方ω-3脂肪酸
+二十碳五烯酸乙酯（EPA）+二十二碳六烯酸（DHA）
+降低TGs
+增加LDL-C
+仅限二十碳五烯酸乙酯（EPA）
+仅降低TGs
+靶向PCSK9的SiRNA
+降低LDL-C和TG，可能降低LP(a)
+英克西兰
+对于患有家族性高胆固醇血症和其他高风险患者
+*这些药物中的许多也可以与他汀类药物联合使用。
+HDL=高密度脂蛋白；HDL-C=高密度脂蛋白胆固醇；LDL=低密度脂蛋白；LDL-C=低密度脂蛋白胆固醇；Lp（a）=脂蛋白a；PCSK9 =原蛋白转化酶类枯草素/可心蛋白；TG=甘油三酯；VLDL=极低密度脂蛋白。
+*这些药物中的许多也可以与他汀类药物联合使用。
+HDL=高密度脂蛋白；HDL-C=高密度脂蛋白胆固醇；LDL=低密度脂蛋白；LDL-C=低密度脂蛋白胆固醇；Lp（a）=脂蛋白a；PCSK9 =原蛋白转化酶类枯草素/可心蛋白；TG=甘油三酯；VLDL=极低密度脂蛋白。
+腺苷三磷酸柠檬酸裂解酶抑制剂（bempedoic acid）是一种一线口服药物，可破坏肝脏中的胆固醇合成并增加 LDL 受体。它将 LDL-C 降低 15% 至 17%（12,13）。Bempedoic acid对他汀类药物相关的肌肉不良反应患者特别有用，因为它不会引起肌肉疼痛或虚弱。它可以用作单一疗法或作为其他降脂疗法的附加疗法。风险包括高尿酸血症和肌腱断裂。
+胆酸螯合剂能阻断小肠内胆酸的重吸收，从而上调肝脏LDL受体来吸收血液中的胆固醇用于胆汁的合成。已证实此类药物能降低心血管病的死亡率 (14)。胆汁酸螯合剂通常与他汀类药物或与他汀类药物一起使用烟酸促进 LDL-C 降低。它们是怀孕或计划怀孕的女性的首选药物。他汀类药物在怀孕期间禁用，因为它们可能由于胆固醇合成的中断而致畸，而胆固醇合成对胎儿发育至关重要。胆酸螯合剂的安全性较高，但因其使用引起胃气胀、恶心、腹痛与便秘等副作用而受到限制。此外，因其能使甘油三酯升高，所以不能用于高甘油三酯血症患者。考来烯胺、考来替泊及考来维仑（程度较轻微）会影响其他药物吸收，特别是噻嗪类、β受体阻滞剂、华法林、地高辛和甲状腺素。这种影响可通过在其他药物给药前4小时或给药后1小时服用胆汁酸结合剂来减轻胆汁酸螯合剂应随餐服用，以增加其疗效。
+胆固醇吸收抑制剂，如依泽替米贝（ezetimibe）能抑制肠道吸收胆固醇和植物甾醇。依折麦布通常可使LDL-C降低15%-20%，并使HDL-C轻度升高、甘油三酯轻度降低(15)依折麦布可单独用于他汀类不耐受的患者，或者在最大剂量服用他汀类药物但LDL胆固醇仍持续升高的患者中与他汀类联用。副作用很少见。
+PCSK9单克隆抗体可皮下注射给药，每月1-2次。这类药物能阻止PCSK9与LDL受体结合。低密度脂蛋白胆固醇能降低40〜70％。应用依洛尤单抗和阿利西尤单抗的心血管预后试验显示，既往患有动脉粥样硬化性心血管疾病的患者心血管事件发生率降低（9）。
+靶向 PCSK9 的 siRNA每 6 个月进行一次皮下注射。因利司然抑制肝脏中 PCSK9 的产生，从而延长 LDL 受体的活性并降低 LDL-C 水平。尽管LDL-C水平降低，但因利司然的心血管结局试验仍在进行中。英克西兰可作为饮食干预和最大耐受剂量他汀治疗的辅助用药，适用于ASCVD或杂合子型家族性高胆固醇血症患者(16)
+膳食补充剂中可降低低密度脂蛋白胆固醇水平的包括膳食纤维补充剂，以及其他含有植物固醇（谷固醇、菜油固醇）或植物甾烷醇的产品。纤维补充剂可以通过多种方式降低胆固醇水平，包括减少吸收和增加排泄。燕麦纤维补充剂可以降低总胆固醇达18％。植物甾醇和甾烷醇可通过将胆固醇置换出肠道微胶束来减少胆固醇吸收，可使 LDL-C 降低最高达 10%，而不影响 HDL-C 或甘油三酯水平。
+胆固醇酯转移蛋白（CETP）抑制剂是一类已被发现可以降低 LDL-C 的药物。胆固醇转移蛋白（CETP）是一种在肝脏和脂肪组织中产生的血浆糖蛋白，在血液中循环，主要与HDL结合，介导胆固醇酯从HDL转移到含ApoB的颗粒 (17)。
+
+【用于纯合子型家族性高胆固醇血症的药物】
+纯合子型家族性高胆固醇血症的治疗药物包括他汀类药物、PCSK9抑制剂和依维苏单抗。埃维那库单抗是一种重组人单克隆抗体，可结合并抑制血管生成素样蛋白 3，一种脂蛋白脂肪酶和内皮脂肪酶的抑制剂。它可以降低低密度脂蛋白胆固醇（降低47%）、甘油三酯和高密度脂蛋白胆固醇。Evinacumab每月一次通过静脉输注给药。可引起痛风、流感样疾病和输液反应 (18)。
+洛美他派是一种微粒体甘油三酯转运蛋白抑制剂，可干扰肝脏和肠道分泌富含甘油三酯的脂蛋白。从小剂量开始，每2周加量1次。患者饮食中脂肪的热卡不应超过20％。Lomitapide可引起消化系统不良反应（如腹泻，肝脂肪沉积，肝酶升高）。
+
+【程序方法】
+手术方法仅适用于患有严重高脂血症（LDL-C>300 mg/dL[>7.74 mmol/L]）且无血管疾病的患者。低密度脂蛋白（LDL）血浆置换术，即通过体外血浆交换去除LDL，可适用于LDL-C＞200 mg/dL（＞5.16 mmol/L）且常规治疗无效的血管疾病患者，如家族性高胆固醇血症。其他选择包括回肠旁路术（阻止胆汁酸的重吸收）和肝移植（移植 LDL 受体）。在大多数情况下，当药物达最大剂量而仍不能使LDL降低时应选用LDL-C血浆分离置换法。此法也常用于药物没有作用或作用有限的家族性高胆固醇血症纯合子患者。
+
+【儿童低密度脂蛋白胆固醇升高】
+除家族史和糖尿病外，儿童期的危险因子还包括吸烟、高血压、低HDL-C（<35mg/dL[< 0.9 mmol/L]），肥胖和不运动。
+美国心脏协会建议对LDL-C>110 mg/dL (> 2.8 mmol/L) 的儿童进行饮食治疗 (19)。
+药物治疗建议用于>8岁及以上的儿童，并符合以下任一条件：
+如饮食治疗效果不佳，LDL≥190 mg/dL (≥ 4.9 mmol/L)但没有早发心血管疾病家族史
+如饮食治疗效果不佳，LDL≥190 mg/dL (≥ 4.9 mmol/L)但没有早发心血管疾病家族史
+药物治疗同样适用于年龄大于8岁，LDL-C≥160 mg/dL （≥ 4.13 mmol/L) ，有早发心血管疾病家族史或同时有≥2个早发心血管疾病危险因子的儿童。
+药物治疗同样适用于年龄大于8岁，LDL-C≥160 mg/dL （≥ 4.13 mmol/L) ，有早发心血管疾病家族史或同时有≥2个早发心血管疾病危险因子的儿童。
+儿童使用的药物包括许多他汀类药物。患有家族性高胆固醇血症的儿童可能需要一个联用其他降脂药物以达到至少50％的LDL胆固醇降低。
+
+【甘油三酯升高】
+尽管目前尚不明确高甘油三酯是否会独立促进心血管疾病的发生，但其通常与多种代谢异常相关，而这些异常会促进冠状动脉疾病的发展（如糖尿病、代谢综合征）。指南支持降低甘油三酯 > 500 mg/dL 以降低胰腺炎的风险（4）。目前，尚无指南提及如何治疗儿童的甘油三酯升高。
+整体治疗策略首先应改变生活方式，包括运动、减轻体重以及避免高糖膳食和饮酒。 每周进食2～4份富含ω-3脂肪酸的鱼类可能有一定效果，但摄入量常低于机体所需，因而服用保健品补充ω-3脂肪酸对病情有帮助。 REDUCE-IT 试验显示，在 TG>150 mg/dL (1.7 mmol/L) 的高危患者中，将 4 克二十碳五烯酸乙酯添加到他汀类药物治疗中可显著减少主要不良心脏事件；然而，这种益处是否源于 TG 的降低或二十碳五烯酸 (EPA) 的增加尚不确定。（20）。STRENGTH试验未能证实另一种EPA含量较低的Omega-3制剂可以减少合并低HDL的高甘油三酯血症患者的主要不良心脏事件（21）。
+糖尿病患者要严格控制血糖水平。如果上述措施均无效，应考虑使用降脂药物。甘油三酯水平非常高（>1000mg/dL[>11 mmol/L]）的患者在确诊时可能需要开始药物治疗，以便更快地降低发生急性胰腺炎的风险。
+贝特类能使甘油三酯降低约50%。此类药物能刺激内皮细胞脂蛋白脂肪酶生成，增加肝脏和肌肉中脂肪酸的氧化，减少肝脏中VLDL的合成；还能使HDL-Cs增加达20％。贝特类可引起胃肠道副作用，如消化不良和腹痛，以及肝功酶上升，但胆石症不常见；化不良和腹痛，但胆石症不常见；与他汀类合用可增强对肌肉的毒性，并能加强华法林的作用。
+他汀可用于甘油三酯<500 mg/dL（<5.65 mmol/L）且同时存在LDL-C升高的患者；他汀可通过降低VLDL来同时降低LDL-C和甘油三酯。如果只有TGs增高，应首选贝特类。
+大剂量Omega-3 脂肪酸（每日 1～6 g 二十碳五烯酸〔EPA〕和二十二碳六烯酸〔DHA〕）可有效降低甘油三酯水平。EPA和DHA是鱼油或ω-3胶囊中的有效成分。不良反应有嗳气和腹泻。将鱼油胶囊分次在进食时服用可减少上述不良反应（如一日2次或3次）。作为辅助治疗，ω-3脂肪酸有一定效果。处方ω-3脂肪酸制剂的适应症是甘油三酯水平＞500 mg/dL（>5.65mmol/L）（21）。
+Apo CIII抑制剂（apo CIII的反义抑制剂）奥利扎生可降低脂蛋白脂肪酶缺乏引起的家族性乳糜微粒血症综合征患者的甘油三酯水平。每月给药一次（22，23）。
+
+【低HDL-C】
+尽管更高的HDL水平预示更低的心血管风险，但尚不清楚通过治疗升高HDL胆固醇是否能降低死亡风险。降低LDL-C和甘油三酯的治疗往往会升高HDL-C，有时可同时实现这三个目标。
+目前，尚无指南涉及儿童低HDL的治疗。
+
+【经验与提示】
+经验与提示
+尽管更高的HDL水平预示更低的心血管风险，通过治疗升高HDL胆固醇是否能降低心血管事件或死亡风险尚不清楚。
+尽管更高的HDL水平预示更低的心血管风险，通过治疗升高HDL胆固醇是否能降低心血管事件或死亡风险尚不清楚。
+治疗措施应包括生活方式改变如增加运动和减轻体重。酒精会提高HDL-C水平，但由于其许多其他不良影响，不建议将其作为治疗方法。当单独的生活方式改变不足以升高HDL时，药物可能升高HDL-C，但目前尚不能确定升高HDL治疗能降低死亡率。
+烟酸可升高HDL-C，但因不良反应不推荐常规使用。有效药物，机制不明，可能是通过增加HDL-C生成、抑制HDL-C清除，并动员胆固醇从巨噬细胞中释出。烟酸还能降低甘油三酯，并且每天服用1500至2000毫克的剂量可降低LDL-C。但HPS2-THRIVE和AIM-HIGH试验均未显示在已知心血管疾病的高危患者中，加用烟酸能减少他汀治疗的心脏事件（24，25）。
+烟酸可导致潮红、瘙痒和恶心；事前服用小剂量阿司匹林可防止这些副作用；烟酸缓释剂能减少这些副作用的发生次数。多数非处方缓释剂不被推荐使用。烟酸能使肝功酶升高，偶尔可致肝功能衰竭、胰岛素抵抗、高尿酸血症和痛风，还能使血高半胱氨酸水平增高。高剂量的烟酸与他汀类联合应用可以增加肌病的风险。
+试验未能显示贝特类药物与他汀类药物联合使用时有任何益处（26，27）。
+
+【Lp（a）升高】
+治疗高Lp（a）患者的常用方法是积极降低其LDL水平。低密度脂蛋白血液分离已被用于治疗高Lp（a）血症和其他渐进性血管疾病。
+LP（a）的正常上限在30mg/dL（75nmol/L）左右，但在非裔美国人中该值较高。几乎没有关于如何治疗高Lp（a）或判断治疗是否有效的资料。烟酸已被证明可以降低Lp(a)；在较高剂量下，它可以降低Lp(a)超过20%(28)。然而，临床试验尚未证实这种降低具有临床益处（24，25）。有几种基于RNA的疗法在临床研发中显示出降低脂蛋白a水平的潜力（29）。
+
+【合并症患者的治疗】
+治疗糖尿病血脂异常必须包括生活方式的改变，用他汀类降低LDLs。当甘油三酯水平>500毫克/分升（>5.65毫摩尔/升）时，应使用贝特类药物以降低胰腺炎的风险。二甲双胍能够降低甘油三酯，这一特性可能使其在糖尿病治疗中优于其他口服降糖药。一些噻唑烷二酮 会增加 HDL-C 和 LDL-C。一些噻唑烷二酮也能降低甘油三酯。 这些降糖药物不能代替降脂药物用于治疗脂代谢紊乱的糖尿病患者，但可作为有用的辅助治疗。与口服降糖药相比，甘油三酯水平很高且糖尿病控制欠佳的患者对胰岛素的治疗反应可能更好。
+越来越多的数据支持使用胰高血糖素样肽-1受体激动剂（GLP-1RA）改善糖尿病患者血糖控制、加速减重、改善胆固醇及降低心脏风险（30，31）。钠-葡萄糖协同转运蛋白2（SGLT2）抑制剂虽然已证实可改善糖尿病患者心脏结局，但对血脂的影响存在争议（32，33）。
+对于甲状腺功能减退、慢性肾脏疾病、及（或）阻塞性肝脏疾病患者的血脂异常，主要是治疗原发病，其次才是脂代谢紊乱。甲状腺功能处于正常范围低端（TSH水平在正常高值）患者的血脂异常可通过激素替代而好转。如患者服用某些可导致血脂异常的药物，应考虑减量或停用。
+
+【监测治疗】
+在治疗开始后应定期检查血脂水平，但没但没有规定的间隔时间，一般在开始治疗或更换药物后2～3个月检查一次，在血脂水平稳定后每年检查1～2次。
+0.5% 到 2% 的他汀类药物使用者会出现肝脏和严重肌肉毒性。肝酶水平的常规监测是不必要的，肌酸激酶（CK）的常规测量并不能预测横纹肌溶解的发生。肌酶水平无需定期检查除非患者有肌痛或其他肌肉症状。如怀疑他汀引起肌肉毒性，应立即停药，检测血CK。待肌肉症状消失后，应降低剂量，或尝试其他类型的他汀类药物。 如果停止他汀类药物1~2周后症状没有消退，应寻找引起肌肉症状的其他疾病（如风湿性多肌痛）。
+
+【治疗参考文献】
+1.Daniels SR, Greer FR; Committee on Nutrition.Lipid screening and cardiovascular health in childhood.Pediatrics2008;122(1):198-208.doi:10.1542/peds.2008-1349
+1.Daniels SR, Greer FR; Committee on Nutrition.Lipid screening and cardiovascular health in childhood.Pediatrics2008;122(1):198-208.doi:10.1542/peds.2008-1349
+2.Harrison M, Moyna NM, Zderic TW, et al: Lipoprotein particle distribution and skeletal muscle lipoprotein lipase activity after acute exercise.Lipids Health Dis11:64, 2012.doi:10.1186/1476-511X-11-64
+2.Harrison M, Moyna NM, Zderic TW, et al: Lipoprotein particle distribution and skeletal muscle lipoprotein lipase activity after acute exercise.Lipids Health Dis11:64, 2012.doi:10.1186/1476-511X-11-64
+3.American Heart Association: American Heart Association Recommendations for Physical Activity in Adults and Kids.Reviewed January 19, 2024.Accessed April 15, 2025
+3.American Heart Association: American Heart Association Recommendations for Physical Activity in Adults and Kids.Reviewed January 19, 2024.Accessed April 15, 2025
+4.Grundy SM, Stone NJ, Bailey AL, et al: 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.Circulation139: e1082–e1143, 2019.doi: 10.1161/CIR.0000000000000625
+4.Grundy SM, Stone NJ, Bailey AL, et al: 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.Circulation139: e1082–e1143, 2019.doi: 10.1161/CIR.0000000000000625
+5.Goff DC Jr, Lloyd-Jones DM, Bennett G, et al: 2013 ACC/AHA guideline on the assessment of cardiovascular risk: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines [published correction appears inCirculation2014 Jun 24;129(25 Suppl 2):S74-5].Circulation129(25 Suppl 2):S49–S73, 2014.doi:10.1161/01.cir.0000437741.48606.98
+5.Goff DC Jr, Lloyd-Jones DM, Bennett G, et al: 2013 ACC/AHA guideline on the assessment of cardiovascular risk: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines [published correction appears inCirculation2014 Jun 24;129(25 Suppl 2):S74-5].Circulation129(25 Suppl 2):S49–S73, 2014.doi:10.1161/01.cir.0000437741.48606.98
+6.Khan SS, Coresh J, Pencina MJ, et al: Novel Prediction Equations for Absolute Risk Assessment of Total Cardiovascular Disease Incorporating Cardiovascular-Kidney-Metabolic Health: A Scientific Statement From the American Heart Association.Circulation148(24):1982–2004, 2023.doi:10.1161/CIR.0000000000001191
+6.Khan SS, Coresh J, Pencina MJ, et al: Novel Prediction Equations for Absolute Risk Assessment of Total Cardiovascular Disease Incorporating Cardiovascular-Kidney-Metabolic Health: A Scientific Statement From the American Heart Association.Circulation148(24):1982–2004, 2023.doi:10.1161/CIR.0000000000001191
+7.Arnett DK, Blumenthal RS, Albert MA, et al: 2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines [published correction appears inCirculation2019 Sep 10;140(11):e647-e648. doi: 10.1161/CIR.0000000000000724.] [published correction appears inCirculation2020 Jan 28;141(4):e59. doi: 10.1161/CIR.0000000000000754.] [published correction appears inCirculation2020 Apr 21;141(16):e773. doi: 10.1161/CIR.0000000000000770.].Circulation140(11):e563–e595, 2019.doi:10.1161/CIR.0000000000000677
+7.Arnett DK, Blumenthal RS, Albert MA, et al: 2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines [published correction appears inCirculation2019 Sep 10;140(11):e647-e648. doi: 10.1161/CIR.0000000000000724.] [published correction appears inCirculation2020 Jan 28;141(4):e59. doi: 10.1161/CIR.0000000000000754.] [published correction appears inCirculation2020 Apr 21;141(16):e773. doi: 10.1161/CIR.0000000000000770.].Circulation140(11):e563–e595, 2019.doi:10.1161/CIR.0000000000000677
+8.US Preventive Services Task Force, Mangione CM, Barry MJ, et al: Statin Use for the Primary Prevention of Cardiovascular Disease in Adults: US Preventive Services Task Force Recommendation Statement.JAMA328(8):746-753, 2022.doi:10.1001/jama.2022.13044
+8.US Preventive Services Task Force, Mangione CM, Barry MJ, et al: Statin Use for the Primary Prevention of Cardiovascular Disease in Adults: US Preventive Services Task Force Recommendation Statement.JAMA328(8):746-753, 2022.doi:10.1001/jama.2022.13044
+9.Sabatine MS, Giugliano RP, Keech AC, et al:Evolocumaband clinical outcomes in patients with cardiovascular disease.N Engl J Med376:1713–1722, 2017.doi:10.1056/NEJMoa1615664
+9.Sabatine MS, Giugliano RP, Keech AC, et al:Evolocumaband clinical outcomes in patients with cardiovascular disease.N Engl J Med376:1713–1722, 2017.doi:10.1056/NEJMoa1615664
+10.Schwartz GG, Steg PG, Szarek M, et al:Alirocumaband cardiovascular outcomes after acute coronary syndrome.New Engl J Med379:2097–2107, 2018.doi: 10.1056/NEJMoa1801174.
+10.Schwartz GG, Steg PG, Szarek M, et al:Alirocumaband cardiovascular outcomes after acute coronary syndrome.New Engl J Med379:2097–2107, 2018.doi: 10.1056/NEJMoa1801174.
+11.Writing Committee, Lloyd-Jones DM, Morris PB, et al: 2022 ACC Expert Consensus Decision Pathway on the Role of Nonstatin Therapies for LDL-Cholesterol Lowering in the Management of Atherosclerotic Cardiovascular Disease Risk: A Report of the American College of Cardiology Solution Set Oversight Committee [published correction appears inJ Am Coll Cardiol2023 Jan 3;81(1):104].J Am Coll Cardiol80(14):1366-1418, 2022.doi:10.1016/j.jacc.2022.07.006
+11.Writing Committee, Lloyd-Jones DM, Morris PB, et al: 2022 ACC Expert Consensus Decision Pathway on the Role of Nonstatin Therapies for LDL-Cholesterol Lowering in the Management of Atherosclerotic Cardiovascular Disease Risk: A Report of the American College of Cardiology Solution Set Oversight Committee [published correction appears inJ Am Coll Cardiol2023 Jan 3;81(1):104].J Am Coll Cardiol80(14):1366-1418, 2022.doi:10.1016/j.jacc.2022.07.006
+12.Goldberg AC, Leiter LA, Stroes ESG, et al: Effect ofBempedoic Acidvs Placebo Added to Maximally Tolerated Statins on Low-Density Lipoprotein Cholesterol in Patients at High Risk for Cardiovascular Disease: The CLEAR Wisdom Randomized Clinical Trial [published correction appears in JAMA. 2020 Jan 21;323(3):282].JAMA2019;322(18):1780-1788.doi:10.1001/jama.2019.16585
+12.Goldberg AC, Leiter LA, Stroes ESG, et al: Effect ofBempedoic Acidvs Placebo Added to Maximally Tolerated Statins on Low-Density Lipoprotein Cholesterol in Patients at High Risk for Cardiovascular Disease: The CLEAR Wisdom Randomized Clinical Trial [published correction appears in JAMA. 2020 Jan 21;323(3):282].JAMA2019;322(18):1780-1788.doi:10.1001/jama.2019.16585
+13.Ray KK, Bays HE, Catapano AL, et al: Safety and Efficacy ofBempedoic Acidto Reduce LDL Cholesterol.N Engl J Med2019;380(11):1022-1032.doi:10.1056/NEJMoa1803917
+13.Ray KK, Bays HE, Catapano AL, et al: Safety and Efficacy ofBempedoic Acidto Reduce LDL Cholesterol.N Engl J Med2019;380(11):1022-1032.doi:10.1056/NEJMoa1803917
+14.The Lipid Research Clinics Coronary Primary Prevention Trial results: I.Reduction in incidence of coronary heart disease.JAMA251(3):351–364, 1984.doi:10.1001/jama.1984.03340270029025
+14.The Lipid Research Clinics Coronary Primary Prevention Trial results: I.Reduction in incidence of coronary heart disease.JAMA251(3):351–364, 1984.doi:10.1001/jama.1984.03340270029025
+15.Cannon CP, Blazing MA, Giugliano RP, et al:EzetimibeAdded to Statin Therapy after Acute Coronary Syndromes.N Engl J Med372(25):2387–2397, 2015.doi:10.1056/NEJMoa1410489
+15.Cannon CP, Blazing MA, Giugliano RP, et al:EzetimibeAdded to Statin Therapy after Acute Coronary Syndromes.N Engl J Med372(25):2387–2397, 2015.doi:10.1056/NEJMoa1410489
+16.Ray KK, Troquay RPT, Visseren FLJ, et al: Long-term efficacy and safety ofinclisiranin patients with high cardiovascular risk and elevated LDL cholesterol (ORION-3): results from the 4-year open-label extension of the ORION-1 trial.Lancet Diabetes Endocrinol11(2):109–119, 2023.doi:10.1016/S2213-8587(22)00353-9
+16.Ray KK, Troquay RPT, Visseren FLJ, et al: Long-term efficacy and safety ofinclisiranin patients with high cardiovascular risk and elevated LDL cholesterol (ORION-3): results from the 4-year open-label extension of the ORION-1 trial.Lancet Diabetes Endocrinol11(2):109–119, 2023.doi:10.1016/S2213-8587(22)00353-9
+17.Nicholls SJ, Ditmarsch M, Kastelein JJ, et al: Lipid lowering effects of the CETP inhibitorobicetrapibin combination with high-intensity statins: a randomized phase 2 trial.Nat Med28(8):1672–1678, 2022.doi:10.1038/s41591-022-01936-7
+17.Nicholls SJ, Ditmarsch M, Kastelein JJ, et al: Lipid lowering effects of the CETP inhibitorobicetrapibin combination with high-intensity statins: a randomized phase 2 trial.Nat Med28(8):1672–1678, 2022.doi:10.1038/s41591-022-01936-7
+18.Raal FJ, Rosenson RS, Reeskamp LF, et al:Evinacumabfor Homozygous Familial Hypercholesterolemia.N Engl J Med383(8):711–720, 2020.doi:10.1056/NEJMoa2004215
+18.Raal FJ, Rosenson RS, Reeskamp LF, et al:Evinacumabfor Homozygous Familial Hypercholesterolemia.N Engl J Med383(8):711–720, 2020.doi:10.1056/NEJMoa2004215
+19.de Ferranti SD, Steinberger J, Ameduri R, et al: Cardiovascular Risk Reduction in High-Risk Pediatric Patients: A Scientific Statement From the American Heart Association.Circulation139(13):e603-e634, 2019.doi:10.1161/CIR.0000000000000618
+19.de Ferranti SD, Steinberger J, Ameduri R, et al: Cardiovascular Risk Reduction in High-Risk Pediatric Patients: A Scientific Statement From the American Heart Association.Circulation139(13):e603-e634, 2019.doi:10.1161/CIR.0000000000000618
+20.Bhatt DL, Steg PG, Miller M, et al: Cardiovascular Risk Reduction withIcosapent Ethylfor Hypertriglyceridemia.N Engl J Med380(1):11–22, 2019.doi:10.1056/NEJMoa1812792
+20.Bhatt DL, Steg PG, Miller M, et al: Cardiovascular Risk Reduction withIcosapent Ethylfor Hypertriglyceridemia.N Engl J Med380(1):11–22, 2019.doi:10.1056/NEJMoa1812792
+21.Nicholls SJ, Lincoff AM, Garcia M, et al.Effect of High-Dose Omega-3 Fatty Acids vs Corn Oil on Major Adverse Cardiovascular Events in Patients at High Cardiovascular Risk: The STRENGTH Randomized Clinical Trial.JAMA2020;324(22):2268-2280.doi:10.1001/jama.2020.22258
+21.Nicholls SJ, Lincoff AM, Garcia M, et al.Effect of High-Dose Omega-3 Fatty Acids vs Corn Oil on Major Adverse Cardiovascular Events in Patients at High Cardiovascular Risk: The STRENGTH Randomized Clinical Trial.JAMA2020;324(22):2268-2280.doi:10.1001/jama.2020.22258
+22.Bergmark BA, Marston NA, Prohaska TA, et al:Olezarsenfor Hypertriglyceridemia in Patients at High Cardiovascular Risk.N Engl J Med390(19):1770–1780, 2024.doi:10.1056/NEJMoa2402309
+22.Bergmark BA, Marston NA, Prohaska TA, et al:Olezarsenfor Hypertriglyceridemia in Patients at High Cardiovascular Risk.N Engl J Med390(19):1770–1780, 2024.doi:10.1056/NEJMoa2402309
+23.Kamrul-Hasan ABM, Dutta D, Nagendra L, Mondal S, Bhattacharya S, Kalra S: Safety and Efficacy of the Novel RNA Interference Therapies for Hypertriglyceridemia and Mixed Hyperlipidemia Management: A Systematic Review and Meta-analysis.Endocr Pract30(11):1103–1112, 2024.doi:10.1016/j.eprac.2024.08.013
+23.Kamrul-Hasan ABM, Dutta D, Nagendra L, Mondal S, Bhattacharya S, Kalra S: Safety and Efficacy of the Novel RNA Interference Therapies for Hypertriglyceridemia and Mixed Hyperlipidemia Management: A Systematic Review and Meta-analysis.Endocr Pract30(11):1103–1112, 2024.doi:10.1016/j.eprac.2024.08.013
+24.AIM-HIGH Investigators, Boden WE, Probstfield JL, et al:Niacinin patients with low HDL cholesterol levels receiving intensive statin therapy [published correction appears inN Engl J Med367(2):189, 2012].N Engl J Med365(24):2255–2267, 2011.doi:10.1056/NEJMoa1107579
+24.AIM-HIGH Investigators, Boden WE, Probstfield JL, et al:Niacinin patients with low HDL cholesterol levels receiving intensive statin therapy [published correction appears inN Engl J Med367(2):189, 2012].N Engl J Med365(24):2255–2267, 2011.doi:10.1056/NEJMoa1107579
+25.HPS2-THRIVE Collaborative Group, Landray MJ, Haynes R, et al: Effects of extended-releaseniacinwithlaropiprantin high-risk patients.N Engl J Med371(3):203–212, 2014.doi:10.1056/NEJMoa1300955
+25.HPS2-THRIVE Collaborative Group, Landray MJ, Haynes R, et al: Effects of extended-releaseniacinwithlaropiprantin high-risk patients.N Engl J Med371(3):203–212, 2014.doi:10.1056/NEJMoa1300955
+26.Das Pradhan A, Glynn RJ, Fruchart JC, et al: Triglyceride Lowering withPemafibrateto Reduce Cardiovascular Risk.N Engl J Med387(21):1923–1934, 2022.doi:10.1056/NEJMoa2210645
+26.Das Pradhan A, Glynn RJ, Fruchart JC, et al: Triglyceride Lowering withPemafibrateto Reduce Cardiovascular Risk.N Engl J Med387(21):1923–1934, 2022.doi:10.1056/NEJMoa2210645
+27.Ginsberg HN: The ACCORD (Action to Control Cardiovascular Risk in Diabetes) Lipid trial: what we learn from subgroup analyses.Diabetes Care34 Suppl 2(Suppl 2):S107–S108, 2011.doi:10.2337/dc11-s203
+27.Ginsberg HN: The ACCORD (Action to Control Cardiovascular Risk in Diabetes) Lipid trial: what we learn from subgroup analyses.Diabetes Care34 Suppl 2(Suppl 2):S107–S108, 2011.doi:10.2337/dc11-s203
+28.Croyal M, Ouguerram K, Passard M, et al: Effects of extended-releasenicotinic acidon apolipoprotein (a) kinetics in hypertriglyceridemic patients.Arterioscler Thromb Vasc Biol35 (9): 2042–2047, 2015.doi:10.1161/ATVBAHA.115.305835
+28.Croyal M, Ouguerram K, Passard M, et al: Effects of extended-releasenicotinic acidon apolipoprotein (a) kinetics in hypertriglyceridemic patients.Arterioscler Thromb Vasc Biol35 (9): 2042–2047, 2015.doi:10.1161/ATVBAHA.115.305835
+29.Yeang C, Karwatowska-Prokopczuk E, Su F, et al: Effect ofPelacarsenon Lipoprotein(a) Cholesterol and Corrected Low-Density Lipoprotein Cholesterol.J Am Coll Cardiol79(11):1035–1046, 2022.doi:10.1016/j.jacc.2021.12.032
+29.Yeang C, Karwatowska-Prokopczuk E, Su F, et al: Effect ofPelacarsenon Lipoprotein(a) Cholesterol and Corrected Low-Density Lipoprotein Cholesterol.J Am Coll Cardiol79(11):1035–1046, 2022.doi:10.1016/j.jacc.2021.12.032
+30.Hernandez AF, Green JB, Janmohamed S, et al:Albiglutideand cardiovascular outcomes in patients with type 2 diabetes and cardiovascular disease (Harmony Outcomes): a double-blind, randomised placebo-controlled trial.Lancet392(10157):1519–1529, 2018.doi:10.1016/S0140-6736(18)32261-X
+30.Hernandez AF, Green JB, Janmohamed S, et al:Albiglutideand cardiovascular outcomes in patients with type 2 diabetes and cardiovascular disease (Harmony Outcomes): a double-blind, randomised placebo-controlled trial.Lancet392(10157):1519–1529, 2018.doi:10.1016/S0140-6736(18)32261-X
+31.Yao H, Zhang A, Li D, et al: Comparative effectiveness of GLP-1 receptor agonists on glycaemic control, body weight, and lipid profile for type 2 diabetes: systematic review and network meta-analysis.BMJ384:e076410, 2024.doi:10.1136/bmj-2023-076410
+31.Yao H, Zhang A, Li D, et al: Comparative effectiveness of GLP-1 receptor agonists on glycaemic control, body weight, and lipid profile for type 2 diabetes: systematic review and network meta-analysis.BMJ384:e076410, 2024.doi:10.1136/bmj-2023-076410
+32.Sánchez-García A, Simental-Mendía M, Millán-Alanís JM, Simental-Mendía LE: Effect of sodium-glucose co-transporter 2 inhibitors on lipid profile: A systematic review and meta-analysis of 48 randomized controlled trials.Pharmacol Res160:105068, 2020.doi:10.1016/j.phrs.2020.105068
+32.Sánchez-García A, Simental-Mendía M, Millán-Alanís JM, Simental-Mendía LE: Effect of sodium-glucose co-transporter 2 inhibitors on lipid profile: A systematic review and meta-analysis of 48 randomized controlled trials.Pharmacol Res160:105068, 2020.doi:10.1016/j.phrs.2020.105068
+33.Wiviott SD, Raz I, Bonaca MP, et al:Dapagliflozinand Cardiovascular Outcomes in Type 2 Diabetes.N Engl J Med380(4):347–357, 2019.doi:10.1056/NEJMoa1812389
+33.Wiviott SD, Raz I, Bonaca MP, et al:Dapagliflozinand Cardiovascular Outcomes in Type 2 Diabetes.N Engl J Med380(4):347–357, 2019.doi:10.1056/NEJMoa1812389
+升高的脂质水平是动脉粥样硬化的危险因素，并可导致有症状的冠状动脉疾病和外周动脉疾病。
+升高的脂质水平是动脉粥样硬化的危险因素，并可导致有症状的冠状动脉疾病和外周动脉疾病。
+血脂异常的原因包括饮食过度摄入能量、饱和脂肪，胆固醇和反式脂肪和/或脂质代谢的遗传（家族）异常。
+血脂异常的原因包括饮食过度摄入能量、饱和脂肪，胆固醇和反式脂肪和/或脂质代谢的遗传（家族）异常。
+诊断根据血脂谱（检测总胆固醇、甘油三酯、高密度脂蛋白[HDL]胆固醇，计算的低密度脂蛋白[LDL]胆固醇、极低密度脂蛋白[VLDL]）。
+诊断根据血脂谱（检测总胆固醇、甘油三酯、高密度脂蛋白[HDL]胆固醇，计算的低密度脂蛋白[LDL]胆固醇、极低密度脂蛋白[VLDL]）。
+筛查试验应在9岁〜11岁和17到21岁时进行，如果有严重的高脂血症或早发性冠状动脉疾病家族史则筛查年龄应该提早到2-8岁。成人从20岁开始，每5年筛查1次。
+筛查试验应在9岁〜11岁和17到21岁时进行，如果有严重的高脂血症或早发性冠状动脉疾病家族史则筛查年龄应该提早到2-8岁。成人从20岁开始，每5年筛查1次。
+根据美国心脏病学会/美国心脏协会指南，他汀类药物治疗能降低所有4大高危人群、没有其他危险因素血脂升高人群的动脉粥样硬化心血管疾病风险。
+根据美国心脏病学会/美国心脏协会指南，他汀类药物治疗能降低所有4大高危人群、没有其他危险因素血脂升高人群的动脉粥样硬化心血管疾病风险。
+在添加非他汀类药物之前优化依从性，生活方式的改变和他汀类药物的使用； 如果患者的LDL-C胆固醇水平> 70 mg/dL（> 1.8 mmol/L），且动脉粥样硬化性心血管疾病的风险较高，则添加依折麦布或PSCK9抑制剂是合理的。
+在添加非他汀类药物之前优化依从性，生活方式的改变和他汀类药物的使用； 如果患者的LDL-C胆固醇水平> 70 mg/dL（> 1.8 mmol/L），且动脉粥样硬化性心血管疾病的风险较高，则添加依折麦布或PSCK9抑制剂是合理的。
+其他的治疗取决于具体血脂异常，但应始终包括生活方式的改变，治疗高血压和糖尿病，戒烟，以及在一些心肌梗死或因冠状动脉疾病死亡风险增加的患者，每日口服小剂量阿司匹林。
+其他的治疗取决于具体血脂异常，但应始终包括生活方式的改变，治疗高血压和糖尿病，戒烟，以及在一些心肌梗死或因冠状动脉疾病死亡风险增加的患者，每日口服小剂量阿司匹林。

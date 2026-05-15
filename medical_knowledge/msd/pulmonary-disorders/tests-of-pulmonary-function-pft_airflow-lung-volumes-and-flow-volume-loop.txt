@@ -1,0 +1,151 @@
+标题：流速、肺容积和流速-容量环
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/tests-of-pulmonary-function-pft/airflow-lung-volumes-and-flow-volume-loop
+============================================================
+
+流速和肺容量的测定能用于鉴别阻塞性肺病和限制性肺病，评价病情严重程度及随访治疗效果。
+检查包括肺量计，用于测量吸气和呼气流量以及肺容量，有时还包括流量-容量环测试，以确定特定的阻塞性和限制性异常。对于存在阻塞性异常的患者，在吸入短效支气管扩张剂后重复进行肺量计检查，以评估可逆性和对治疗的反应。
+通常这些测定值是以流速和容量的绝对值及占预计值的百分比来表示的，而预计值是通过大样本正常人群所测定的。预测正常值的变量包括年龄，性别、种族和身高。
+在解释肺功能测试时是否需要调整种族和民族是有争议的。越来越多的证据表明，种族和民族并不能准确解释测量肺功能的差异，而是反映了社会和环境因素的影响，进一步加剧了医疗保健差距。研究表明，使用基于种族和民族的参考方程式可能会低估非白人的肺部疾病严重程度（从而导致治疗不足）（1，2）。美国胸科学会 (ATS) 建议用以下公式取代之前使用的种族或民族特定参考公式 (3) 与种族中立参考方程得出的结果，例如从全球肺功能倡议 (GLI) 平均方程得出的结果（4，5。)2022 年欧洲呼吸学会 (ERS)/ATS 承认，使用种族中立参考集可能会导致特定治疗（例如手术、肺移植）资格发生变化，这凸显了需要持续进行研究以了解对临床决策和患者结果的潜在影响（6）。
+通过肺量计定量测定吸气和呼气流速，鼻夹用于夹闭鼻孔。
+在测量吸气流速和容量时，病人先尽力深呼气，然后用力吸气。峰值吸气量是一次深呼吸中吸入的最大空气量，吸气流量是每秒吸入的气量。
+测定呼气流速和容量时，患者先尽可能地深吸气，将嘴唇紧贴咬嘴，然后尽可能用力、完全地将气体呼入记录呼出量（用力肺活量[FVC]）和第一秒呼出量（第一秒用力呼气量[FEV1]）的仪器中（见图正常肺量图）。
+这些功能锻炼提供了几种措施：
+FVC：最大吸气后可以快速用力呼出的最大气体量
+FVC：最大吸气后可以快速用力呼出的最大气体量
+FEV1：第一秒钟呼出的气量
+FEV1：第一秒钟呼出的气量
+呼气峰流速（PEF）：患者呼气时气流的最大速度
+呼气峰流速（PEF）：患者呼气时气流的最大速度
+FEV1是重复性最好的流速参数，在诊断和监测阻塞性通气功能障碍性肺病（例如哮喘，COPD[慢性阻塞性肺病]）有很重要的价值。
+FEV1和FVC有助于区分阻塞性和限制性肺疾病。正常的FEV1使得不可逆的阻塞性肺病可能性不大。正常的FVC使得限制性肺病可能性不大。FEV1/FVC 比率下降表明存在阻塞。对于初次检查时有阻塞证据的患者，使用短效支气管扩张剂重复测量 FEV1 和 FVC 有助于区分可逆性支气管痉挛患者（如哮喘患者）和固定性阻塞患者（如 COPD 患者）。
+有些人有患 COPD 的风险因素（例如吸烟、既往感染、职业暴露、空气污染暴露），但肺功能测试并未显示明确的阻塞。据称这些人患有 COPD 前期疾病（7）。需要进一步研究来描述这一人群的特征，但随着时间的推移跟踪肺量测定值可能有助于识别可能患上 COPD 的患者。
+
+【正常肺量图】
+正常肺量图
+FEF25–75%=用力肺活量呼气过程中25%至75%区间的平均用力呼气流速；FEV1=用力肺活量操作第一秒内的用力呼气量；FVC=用力肺活量（最大吸气后用力呼出的最大气体量）。
+用力呼气中期平均流速（即在呼出25%至75%用力肺活量期间的平均流速）可能比FEV1更能敏感地提示轻度小气道气流受限，但该变量的重复性较差。
+呼气峰流量（PEF）是呼气期间出现的峰值流量。 该变量主要用于家庭对哮喘患者的监测并确定气流的全天变化情况。可以通过将 PEF 与个人最佳水平进行比较来监测哮喘。
+这些测量值的解释依赖于患者测量过程中的积极配合，通常经过实际操作指导可以改善。 合格的肺量图显示
+良好的测试起始阶段（如，快速有力的开始呼气）
+良好的测试起始阶段（如，快速有力的开始呼气）
+没有咳嗽
+没有咳嗽
+曲线平滑
+曲线平滑
+没有提前终止呼气（如呼气时间至少6秒，最后1秒无容量变化）
+没有提前终止呼气（如呼气时间至少6秒，最后1秒无容量变化）
+重复性良好的测试，其测量结果之间的差异应在5%或100mL以内。如检查结果达不到这个标准，在解释结果时需谨慎。
+肺容量通过功能残气量（FRC）测定。FRC是正常呼气后剩余的肺部气体体积。 总肺容量（TLC）是在最大吸气末肺内所含的气体总量。知道FRC后，可将肺容积分割为各种更小的容积单位，这些指标可通过肺量计或计算得出（见图正常肺容量图）。 正常情况下，FRC占肺总量（TLC）的40%。
+
+【正常肺容量】
+正常肺容量
+ERV=补呼气量；FRC=功能残气量；IC=吸气量；IRV=补吸气量；RV=残气量；TLC=肺总量；VC=肺活量；VT=潮气量。
+FRC=RV+ERV；IC=VT+IRV；VC=VT+IRV+ERV。
+FRC是通过气体稀释法或者体描仪（在气流受限和气道陷闭的病人中更为准确）来测定的。
+气体稀释法包括
+氮气洗脱
+氮气洗脱
+氦气平衡
+氦气平衡
+氮气洗脱后，患者呼气达到FRC位，然后从一个含纯氧的肺量计中呼吸。当呼气中氮气的浓度为零时实验终止。收集到的呼出氮气体积等于初始FRC的81%。
+应用氦气平衡法时，病人呼气达到FRC水平，然后连接到一个含有已知容积的氦气和氧气的密闭系统。持续测量氦气浓度，直至吸气与呼气时的浓度相同，表明其已与肺内气体容积达到平衡，随后可根据氦气浓度的变化估算肺容积。
+这两种方法都可能低估FRC，因为只测量了与气道相通的体积，在有严重气流受限的病人中，有相当体积的气体被陷闭，几乎不与气道相通或完全不通。
+体容积描记法利用波义尔定律（P1V1=P2V2，其中P是压力，V是体积）来测量胸腔内的可压缩气体体积。体积描记法比气体稀释技术更准确。当病人坐于气体密闭的箱子中时，他从FRC位开始尽力经密闭咬嘴吸气。当胸壁扩张时，气密箱中的压力升高。已知吸气前气密箱容积和吸气前后气密箱中的压力就可以计算出气密箱中体积的变化，而这等同于肺容积的变化。
+
+【流速-容积环】
+与肺量图（显示流量[升]随时间[秒]的变化）不同，流速-容积环显示的是从完全呼气（残气量[RV]）到最大吸气以及从完全吸气（肺总量[TLC]）到最大呼气过程中，流速（升/秒）与肺容量（升）的关系。流速-容积环的一个最根本的优势就在于它能显示在特定的肺容量时，流速是否合适。例如，在低肺容量时流速通常较慢，因为弹性回缩力在低肺容量时较低。肺纤维化患者肺容积较低，如果单独测量，其流速似乎会降低。然而，当流速与肺容量结合起来，就会发现流速其实高于正常（由于纤维化肺弹性回缩力增加）。
+流量-容积环需要先测量绝对肺容积。然而遗憾的是很多实验室只对FVC做流速图，流速-FVC环没有吸气支，因而也就不能提供很多信息。
+
+【参考文献】
+1.Baugh AD, Shiboski S, Hansel NN, et al.Reconsidering the Utility of Race-Specific Lung Function Prediction Equations [published correction appears inAm J Respir Crit Care Med2022 Jul 15;206(2):230].Am J Respir Crit Care Med2022;205(7):819-829.doi:10.1164/rccm.202105-1246OC
+1.Baugh AD, Shiboski S, Hansel NN, et al.Reconsidering the Utility of Race-Specific Lung Function Prediction Equations [published correction appears inAm J Respir Crit Care Med2022 Jul 15;206(2):230].Am J Respir Crit Care Med2022;205(7):819-829.doi:10.1164/rccm.202105-1246OC
+2.Ekström M, Mannino D.Research race-specific reference values and lung function impairment, breathlessness and prognosis: Analysis of NHANES 2007-2012 [published correction appears inRespir Res2023 Feb 3;24(1):41].Respir Res2022;23(1):271.Published 2022 Oct 1.doi:10.1186/s12931-022-02194-4
+2.Ekström M, Mannino D.Research race-specific reference values and lung function impairment, breathlessness and prognosis: Analysis of NHANES 2007-2012 [published correction appears inRespir Res2023 Feb 3;24(1):41].Respir Res2022;23(1):271.Published 2022 Oct 1.doi:10.1186/s12931-022-02194-4
+3.Bhakta NR, Bime C, Kaminsky DA, et al.Race and Ethnicity in Pulmonary Function Test Interpretation: An Official American Thoracic Society Statement.Am J Respir Crit Care Med2023;207(8):978-995.doi:10.1164/rccm.202302-0310ST
+3.Bhakta NR, Bime C, Kaminsky DA, et al.Race and Ethnicity in Pulmonary Function Test Interpretation: An Official American Thoracic Society Statement.Am J Respir Crit Care Med2023;207(8):978-995.doi:10.1164/rccm.202302-0310ST
+4.Quanjer PH, Stanojevic S, Cole TJ, et al.Multi-ethnic reference values for spirometry for the 3-95-yr age range: the global lung function 2012 equations.Eur Respir J2012;40(6):1324-1343.doi:10.1183/09031936.00080312
+4.Quanjer PH, Stanojevic S, Cole TJ, et al.Multi-ethnic reference values for spirometry for the 3-95-yr age range: the global lung function 2012 equations.Eur Respir J2012;40(6):1324-1343.doi:10.1183/09031936.00080312
+5.Bowerman C, Bhakta NR, Brazzale D, et al.A Race-neutral Approach to the Interpretation of Lung Function Measurements.Am J Respir Crit Care Med2023;207(6):768-774.doi:10.1164/rccm.202205-0963OC
+5.Bowerman C, Bhakta NR, Brazzale D, et al.A Race-neutral Approach to the Interpretation of Lung Function Measurements.Am J Respir Crit Care Med2023;207(6):768-774.doi:10.1164/rccm.202205-0963OC
+6.Stanojevic S, Kaminsky DA, Miller MR, et al.ERS/ATS technical standard on interpretive strategies for routine lung function tests.Eur Respir J2022;60(1):2101499.Published 2022 Jul 13.doi:10.1183/13993003.01499-2021
+6.Stanojevic S, Kaminsky DA, Miller MR, et al.ERS/ATS technical standard on interpretive strategies for routine lung function tests.Eur Respir J2022;60(1):2101499.Published 2022 Jul 13.doi:10.1183/13993003.01499-2021
+7.Han MK, Agusti A, Celli BR, et al.From GOLD 0 to Pre-COPD.Am J Respir Crit Care Med2021;203(4):414-423.doi:10.1164/rccm.202008-3328PP
+7.Han MK, Agusti A, Celli BR, et al.From GOLD 0 to Pre-COPD.Am J Respir Crit Care Med2021;203(4):414-423.doi:10.1164/rccm.202008-3328PP
+
+【各种异常表现】
+根据流速和肺容量，大多数常见的呼吸系统疾病可以分为阻塞性或限制性（见表与肺部疾病相关的特征性生理变化）。
+
+【与肺部疾病相关的生理学特征变化】
+与肺部疾病相关的生理学特征变化
+检测指标
+阻塞性疾病
+限制性疾病
+混合性疾病
+FEV1/FVC
+正常或增加
+FEV1
+降低、正常或增加
+降低或正常
+降低或正常
+正常或增加
+降低，正常或增加
+正常或增加
+降低、正常或增加
+FEV1=一秒钟用力呼气量；FVC=用力肺活量；RV=残气量；TLC=肺总量。
+FEV1=一秒钟用力呼气量；FVC=用力肺活量；RV=残气量；TLC=肺总量。
+
+【阻塞性疾病】
+阻塞性肺病的特征在于流速下降，尤其是FEV1和FEV1占FVC（FEV1/FVC）的百分比。FEV1占预计值的百分比的减少程度能够判定阻塞的程度 。阻塞性缺陷原因包括
+气道腔内病变（如肿瘤、分泌物、黏膜增厚）
+气道腔内病变（如肿瘤、分泌物、黏膜增厚）
+气道壁变化（如平滑肌收缩、水肿）
+气道壁变化（如平滑肌收缩、水肿）
+弹性回缩力（如肺气肿时肺实质的破坏）
+弹性回缩力（如肺气肿时肺实质的破坏）
+随着气流减少，呼气时间较正常延长，由于排空不完全，空气可能滞留于肺部，从而导致肺容积增加（例如，TLC、RV）。
+阻塞性疾病最常见的例子是慢性阻塞性肺疾病，哮喘， 和支气管扩张。
+ERS 和 ATS 已更新其关于肺功能测试在阻塞性肺病严重程度分级中的解释指南（见表格肺功能损害的严重程度）（1）。这些指南建议将所有测量数据，包括肺量计、肺容量和肺一氧化碳弥散量 (DLCO)，表示为 z 分数，而不是预测值的百分比来对严重程度进行分级。z 分数小于 -1.645 表示该值小于基于健康匹配对照的预测值的第 5 个百分位数。在评估支气管扩张剂的反应时，指南现建议采用相对于个体预测值（而非基线值）的百分比变化，并推荐以FEV1和/或FVC改善≥10%作为气道高反应性的判定标准。
+
+【肺功能损害的严重程度】
+肺功能损害的严重程度
+严重程度
+Z 分数
+-1.65 至 -2.5
+-2.51 至 -4.0
+<-4.1
+Data fromStanojevic S, Kaminsky DA, Miller MR, et al.ERS/ATS technical standard on interpretive strategies for routine lung function tests.Eur Respir J2022;60(1):2101499.Published 2022 Jul 13.doi:10.1183/13993003.01499-2021
+Data fromStanojevic S, Kaminsky DA, Miller MR, et al.ERS/ATS technical standard on interpretive strategies for routine lung function tests.Eur Respir J2022;60(1):2101499.Published 2022 Jul 13.doi:10.1183/13993003.01499-2021
+
+【限制性疾病】
+限制性疾病的特征是肺容积减少，特别是 TLC 低于正常下限（z 分数小于 -1.65，对应于低于基于健康匹配对照的预测值的第五个百分位数）。然而，在早期限制性疾病中，TLC 可能是正常的（由于强烈的吸气努力），唯一的异常可能是 RV 降低。TLC的降低决定了限制性肺病的严重程度。肺容量减少导致流速降低（FEV1降低）。然而相对于肺容量来说，流速是上升的，因此FEV1/FVC正常或增加。
+限制性肺疾病的病因包括：
+肺容量降低（如肺叶切除术）
+肺容量降低（如肺叶切除术）
+肺周组织病变（如胸膜疾病、脊柱后凸、肥胖）
+肺周组织病变（如胸膜疾病、脊柱后凸、肥胖）
+呼吸时吸气肌无力（如神经肌肉疾病）
+呼吸时吸气肌无力（如神经肌肉疾病）
+肺实质病变（如肺纤维化）
+肺实质病变（如肺纤维化）
+上述病变的共同特点是肺顺应性降低或胸壁顺应性降低或两者均降低。
+
+【异常模式参考】
+1.Stanojevic S, Kaminsky DA, Miller MR, et al.ERS/ATS technical standard on interpretive strategies for routine lung function tests.Eur Respir J2022;60(1):2101499.Published 2022 Jul 13.doi:10.1183/13993003.01499-2021
+1.Stanojevic S, Kaminsky DA, Miller MR, et al.ERS/ATS technical standard on interpretive strategies for routine lung function tests.Eur Respir J2022;60(1):2101499.Published 2022 Jul 13.doi:10.1183/13993003.01499-2021
+2.Coates AL, Wanger J, Cockcroft DW, et al.ERS technical standard on bronchial challenge testing: general considerations and performance of methacholine challenge tests.Eur Respir J2017;49(5):1601526.Published 2017 May 1.doi:10.1183/13993003.01526-2016
+2.Coates AL, Wanger J, Cockcroft DW, et al.ERS technical standard on bronchial challenge testing: general considerations and performance of methacholine challenge tests.Eur Respir J2017;49(5):1601526.Published 2017 May 1.doi:10.1183/13993003.01526-2016
+3.Parsons JP, Hallstrand TS, Mastronarde JG, et al.An official American Thoracic Society clinical practice guideline: exercise-induced bronchoconstriction.Am J Respir Crit Care Med2013;187(9):1016-1027.doi:10.1164/rccm.201303-0437ST
+3.Parsons JP, Hallstrand TS, Mastronarde JG, et al.An official American Thoracic Society clinical practice guideline: exercise-induced bronchoconstriction.Am J Respir Crit Care Med2013;187(9):1016-1027.doi:10.1164/rccm.201303-0437ST
+
+【支气管激发试验】
+支气管激发试验用于诊断哮喘等病症，特别是在肺量计检查正常但怀疑存在气道高反应性时。可以通过吸入乙酰甲胆碱、运动或使用环境温度或低温空气的正碳酸自愿性过度换气 (EVH) 进行测试。
+某些哮喘病人在发作间歇期肺功能和各项测量值可正常。当肺活量测定结果正常，但仍高度怀疑哮喘时，可用乙酰甲胆碱进行支气管激发试验，乙酰甲胆碱是一种乙酰胆碱的合成类似物，属于非特异性支气管刺激物，以检测或排除支气管收缩。在乙酰甲胆碱激发试验中，肺功能参数在基线状态和吸入递增剂量的乙酰甲胆碱后进行测量。导致FEV1下降20%的乙酰甲胆碱剂量被称为 PD20。各实验室对气道高反应性有不同的定义，但一般来说，当吸入乙酰甲胆碱的累积剂量为<25微克时，患者FEV1较基线下降至少20%（即达到PD20），被认为是支气管反应性增加的诊断依据，而PD20>400微克则排除该诊断。25 至 400 mcg 之间的 PD20 值尚无定论（1）。
+运动试验可用于检测运动诱发的哮喘，但在检测一般性气道高反应性方面，其敏感性低于乙酰甲胆碱激发试验。病人在踏板或自行车测力计上持续运动6～8分钟，运动强度为使其心率达到预测最高心率的80%。在运动前及运动开始后5、15、30分钟时测量FEV1和FVC。运动诱发的支气管痉挛可使运动后FEV1或FVC下降≥10% 至 15%（2）。
+EVH 也可用于诊断运动诱发的哮喘。EVH要求患者在含有5%二氧化碳和21%氧气的混合气体中，以 85% 的最大自主通气量过度通气，持续6 分钟。然后在特定的时间间隔测定FEV1。与其他支气管激发实验类似，各个实验室应用FEV1下降的程度来诊断运动诱发支气管收缩的标准不同。
+可以用类似的测试来评估冷引起的过度反应，其中患者在混合气体冷却至 -10° C 至 -20° C 之间的情况下过度换气 3 至 6 分钟。该测试需要专门的冷却设备，而许多测试实验室可能没有这种设备。
+
+【支气管激发挑战参考文献】
+1.Coates AL, Wanger J, Cockcroft DW, et al.ERS technical standard on bronchial challenge testing: general considerations and performance of methacholine challenge tests.Eur Respir J2017;49(5):1601526.Published 2017 May 1.doi:10.1183/13993003.01526-2016
+1.Coates AL, Wanger J, Cockcroft DW, et al.ERS technical standard on bronchial challenge testing: general considerations and performance of methacholine challenge tests.Eur Respir J2017;49(5):1601526.Published 2017 May 1.doi:10.1183/13993003.01526-2016
+2.Parsons JP, Hallstrand TS, Mastronarde JG, et al.An official American Thoracic Society clinical practice guideline: exercise-induced bronchoconstriction.Am J Respir Crit Care Med2013;187(9):1016-1027.doi:10.1164/rccm.201303-0437ST
+2.Parsons JP, Hallstrand TS, Mastronarde JG, et al.An official American Thoracic Society clinical practice guideline: exercise-induced bronchoconstriction.Am J Respir Crit Care Med2013;187(9):1016-1027.doi:10.1164/rccm.201303-0437ST

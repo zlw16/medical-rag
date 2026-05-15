@@ -1,0 +1,94 @@
+标题：生物制剂武器
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/mass-casualty-weapons/biological-agents-as-weapons
+============================================================
+
+生物战 (BW) 是指为了敌对目的而使用微生物制剂。这种做法违反国际法，尽管在20世纪大多数强国都进行了广泛的生物制剂准备和储存（包括开发多重耐药菌株），但在现代历史的正式战争中很少发生过。最需要关注的是恐怖组织使用BW制剂。一些人认为生物战剂是恐怖组织的理想武器。这些制剂可以秘密运输，具有延迟效应，因而使用者可以不被发现。
+美国疾病控制与预防中心（CDC）将生物制剂和毒素分为三组：A（最高优先级）、B和C（见表美国疾病控制与预防中心高优先级生物制剂和毒素) (1)。
+蓄意使用BW制剂造成大规模伤亡，可能通过气溶胶传播经吸入致病，因此吸入性炭疽和肺鼠疫是在这种情况下最有可能发生的两种疾病。
+
+【CDC高优先级生物制剂和毒素*】
+CDC高优先级生物制剂和毒素*
+A：最高优先级
+Bacillus anthracis，引起炭疽
+来自Clostridium botulinum（肉毒梭菌）的肉毒毒素，引起肉毒中毒
+Yersinia pestis,引起鼠疫
+Francisella tularensis，引起土拉菌病
+天花病毒，引起天花（经典天花）
+病毒性出血热（VHF）病毒:
+沙粒病毒科，引起拉沙热和新世界VHFs（玻利维亚出血热、胡宁出血热、瓜纳里托出血热和萨比亚出血热）
+沙粒病毒科，引起拉沙热和新世界VHFs（玻利维亚出血热、胡宁出血热、瓜纳里托出血热和萨比亚出血热）
+布尼亚病毒科，引起克里米亚-刚果出血热和裂谷热
+布尼亚病毒科，引起克里米亚-刚果出血热和裂谷热
+丝状病毒科，引起埃博拉出血热和马尔堡病毒病
+丝状病毒科，引起埃博拉出血热和马尔堡病毒病
+黄病毒科，引起黄热病、鄂木斯克出血热和基亚萨努森林病
+黄病毒科，引起黄热病、鄂木斯克出血热和基亚萨努森林病
+B：次要优先级
+Brucella（布鲁氏菌）属，引起布鲁氏菌病
+Clostridium perfringens（产气荚膜梭菌）产生的ε毒素引起食物中毒
+沙门氏菌引起食物中毒；大肠杆菌O157:H7；以及志贺菌引起志贺氏菌病
+Burkholderia mallei（鼻疽伯克霍尔德菌）， 引起鼻疽病
+Burkholderia pseudomallei（类鼻疽伯克霍尔德菌），引起类鼻疽病
+Chlamydia psittaci（鹦鹉热衣原体），引起鹦鹉热
+Coxiella burnetii（贝氏柯克斯体），引起Q热病
+Ricinus communis产生蓖麻毒素
+Staphylococcal enterotoxin B（金黄色葡萄球菌肠毒素B）葡萄球菌食物中毒
+Rickettsia prowazekii（普氏立克次体），引起斑疹伤寒
+甲病毒引起的病毒性脑炎（如委内瑞拉马脑炎、东部马脑炎和西部马脑炎）
+霍乱弧菌、微小隐孢子虫和其他制剂，可引发水源性疾病（例如霍乱、隐孢子虫病）
+C：第三优先级
+Nipah virus（尼帕病毒）、hantavirus（汉坦病毒）、coronaviruses（冠状病毒）和流感病毒能引起流感大流行
+与新发传染性疾病相关的其他制剂
+*可以在以下位置找到按字母顺序排列的生物战剂和疾病清单Centers for Disease Control and Prevention: Emergency Preparedness and Response。
+*可以在以下位置找到按字母顺序排列的生物战剂和疾病清单Centers for Disease Control and Prevention: Emergency Preparedness and Response。
+（参见大规模杀伤性武器事件概述。）
+
+【参考文献】
+1.Bioterrorism Agents/Diseases.Emergency Preparedness and Response.Centers for Disease Control and Prevention (CDC).请参阅 https://emergency.cdc.gov/agent/agentlist-category.asp.Accessed October 3, 2024.
+1.Bioterrorism Agents/Diseases.Emergency Preparedness and Response.Centers for Disease Control and Prevention (CDC).请参阅 https://emergency.cdc.gov/agent/agentlist-category.asp.Accessed October 3, 2024.
+
+【生物武器伤害的识别】
+很难区分使用生物战剂与疾病的自然爆发。疾病暴发为人为而非自然起源的线索包括以下内容 (1)：
+通常不会出现在某一地理区域的疾病
+通常不会出现在某一地理区域的疾病
+病例在人群中的分布异常
+病例在人群中的分布异常
+处于建筑内与建筑外人群之间显著不同的患病率
+处于建筑内与建筑外人群之间显著不同的患病率
+地理位置不相邻的区域的独立爆发
+地理位置不相邻的区域的独立爆发
+同一人群中不同疾病的多个同时或连续爆发
+同一人群中不同疾病的多个同时或连续爆发
+不寻常的暴露接触途径（如吸入）
+不寻常的暴露接触途径（如吸入）
+人畜共患病在人类而非动物中发生
+人畜共患病在人类而非动物中发生
+人畜共患疾病首先发生在人类，然后才发生在其典型传染源
+人畜共患疾病首先发生在人类，然后才发生在其典型传染源
+人畜共患疾病在其典型传染源流行率低的地区发病
+人畜共患疾病在其典型传染源流行率低的地区发病
+疾病的严重程度不寻常
+疾病的严重程度不寻常
+感染制剂的菌株不寻常
+感染制剂的菌株不寻常
+常规治疗无效
+常规治疗无效
+病例的流行病学调查以及与执法部门的合作至关重要，向公众进行风险沟通也同样重要。
+高风险BW制剂引起的疾病其临床表现、诊断和治疗在手册其他章节讨论：炭疽，瘟疫，天花，土拉菌病，以及病毒性出血热。治疗由于生物战引起的疾病爆发与疾病的自然爆发并没有什么不同，除了临床医生必须警惕不寻常的耐药谱。
+患者隔离和接触者检疫可能是必要的。人为传播的最具传染性疾病为天花（需要采取空气传播防护措施）和肺鼠疫（需要采取飞沫传播防护措施）。
+
+【识别参考】
+1.Artenstein AW, Haessler S.Biological attack.InCiottone's Disaster Medicine.2024 Jan 1:511-519.
+1.Artenstein AW, Haessler S.Biological attack.InCiottone's Disaster Medicine.2024 Jan 1:511-519.
+
+【对生物武器伤害的反应】
+由于BW制剂引起的疾病潜伏期相对较长，大多数患者的生死存亡取决于医院的治疗。需要为住院患者和接触者提供充足的疫苗、抗生素和抗病毒药物供应，并且建立向高风险暴露的普通公众分发此类医疗应对措施的系统至关重要（1）。
+
+【响应参考】
+1.Powers S, Escajeda J, Glauser J.Updates to Disaster Management Strategies for CDC Category A Bioterrorism Agents.Current Emergency and Hospital Medicine Reports.2024 Apr 22:1-7
+1.Powers S, Escajeda J, Glauser J.Updates to Disaster Management Strategies for CDC Category A Bioterrorism Agents.Current Emergency and Hospital Medicine Reports.2024 Apr 22:1-7
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Centers for Disease Control and Prevention: Emergency Preparedness and Response: An alphabetical listing of bioterrorism agents and diseases.Accessed September 5, 2024.
+Centers for Disease Control and Prevention: Emergency Preparedness and Response: An alphabetical listing of bioterrorism agents and diseases.Accessed September 5, 2024.

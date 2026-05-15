@@ -1,0 +1,23 @@
+标题：致心律失常性心肌病概述
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/overview-of-arrhythmogenic-cardiomyopathies
+============================================================
+
+尽管任何扩张型或肥厚型心肌病（见心肌病概述）都能产生心脏和全身性因素，从而易导致多种不同的心律失常，包括缓慢性心律失常、房性和室性心动过速以及猝死，但某些心肌病特别容易发生这种情况。这些被称为致心律失常性心肌病，包括
+致心律失常性右心室心肌病
+致心律失常性右心室心肌病
+Lamin A/C心肌病
+Lamin A/C心肌病
+非致密化心肌病
+非致密化心肌病
+心脏结节病
+心脏结节病
+肥厚型心肌病
+肥厚型心肌病
+其中一些疾病有遗传原因，通常是遗传的，但有时是获得性疾病。这些心律失常性心肌病约占非运动员心脏性猝死的 20%≤35岁（1）。
+致心律失常性心肌病的体征和症状并不是唯一的，包括心力衰竭本身的症状，以及缓慢性心律失常和快速性心律失常的症状。心力衰竭表现包括继发于呼吸困难和/或疲劳、端坐呼吸和/或外周水肿的运动不耐受。心律失常可能导致心悸、头晕、晕厥、心脏骤停和猝死。
+通常评估方法包括评估家族史、 心电图、胸片、超声心动图，心脏磁共振检查。如果怀疑是一种特定形式的致心律失常性心肌病，可以进行其他研究，包括信号平均心电图、运动测试、动态心电图监测、胸部CT、电生理研究、血管造影术和/或心肌内膜活检。当怀疑是遗传原因时，通常会进行基因检测；确诊病例的一级亲属应进行临床筛查，并在发现特定突变时进行基因检测。
+治疗取决于心肌病的病因和特定的节律紊乱，但通常包括心力衰竭（有时包括心脏移植）、抗心律失常药物的标准措施，有时还包括植入式心律转复除颤器（ICD） 和/或导管消融术致心律失常基质的标准措施。
+
+【参考文献】
+1.D'Ascenzi F, Valentini F, Pistoresi S, et al.Causes of sudden cardiac death in young athletes and non-athletes: systematic review and meta-analysis: Sudden cardiac death in the young.Trends Cardiovasc Med2022 Jul;32(5):299-308.doi: 10.1016/j.tcm.2021.06.001
+1.D'Ascenzi F, Valentini F, Pistoresi S, et al.Causes of sudden cardiac death in young athletes and non-athletes: systematic review and meta-analysis: Sudden cardiac death in the young.Trends Cardiovasc Med2022 Jul;32(5):299-308.doi: 10.1016/j.tcm.2021.06.001

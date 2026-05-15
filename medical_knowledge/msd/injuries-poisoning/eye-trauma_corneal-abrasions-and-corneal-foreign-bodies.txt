@@ -1,0 +1,75 @@
+标题：角膜擦伤和角膜异物
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/eye-trauma/corneal-abrasions-and-corneal-foreign-bodies
+============================================================
+
+（参见眼外伤概述。）
+最常见的角膜损伤是残留异物和擦伤。因眼部不适到急诊室就诊的患者中，有多达 25% 患有角膜擦伤（1、2）。
+尽管浅面的异物常可随泪液排出眼外，但偶尔也有残留磨损处，甚至一些异物会累及角膜表面或进入角膜内。卡在上睑下的异物可能会导致一个或多个垂直的角膜擦伤，并因眨眼而加重。眼内穿透可能发生在看似轻微的创伤中，其表现可能类似于角膜擦伤（3），尤其是当异物是由高速机器（例如，钻头、锯子、磨床、旋转工具以及任何具有金属对金属机制的东西）、锤击或爆炸所抛出的碎片造成时。
+金属异物造成的角膜损伤通常不会引起感染。然而，可能会出现角膜瘢痕和铁锈沉着。
+如果角膜异物是受污染的有机物质，或者角膜擦伤是由于隐形眼镜造成的，则可能会引发感染。造成角膜损伤的一个常见原因是不正确使用隐形眼镜。此外，如果未发现眼球穿通伤，无论异物成分如何，眼内感染(眼内炎)或炎症(虹膜睫状体炎)，并可能危及视力。
+
+【参考文献】
+1.Edwards RS: Ophthalmic emergencies in a district general hospital casualty department.Br J Ophthalmol71(12):938-942, 1987.doi: 10.1136/bjo.71.12.938
+1.Edwards RS: Ophthalmic emergencies in a district general hospital casualty department.Br J Ophthalmol71(12):938-942, 1987.doi: 10.1136/bjo.71.12.938
+2.Channa R, Zafar SN, Canner JK, et al: Epidemiology of eye-related emergency department visits.JAMA Ophthalmol134(3):312-319, 2016.doi: 10.1001/jamaophthalmol.2015.5778
+2.Channa R, Zafar SN, Canner JK, et al: Epidemiology of eye-related emergency department visits.JAMA Ophthalmol134(3):312-319, 2016.doi: 10.1001/jamaophthalmol.2015.5778
+3.Chronopoulos A, Ong JM, Thumann G, et al: Occult globe rupture: diagnostic and treatment challenge.Surv Ophthalmol63(5):694-699, 2018.doi: 10.1016/j.survophthal.2018.04.0015
+3.Chronopoulos A, Ong JM, Thumann G, et al: Occult globe rupture: diagnostic and treatment challenge.Surv Ophthalmol63(5):694-699, 2018.doi: 10.1016/j.survophthal.2018.04.0015
+
+【角膜擦伤和角膜异物的症状和体征】
+角膜擦伤或异物的症状和体征包括眼内异物感、流泪、发红，偶尔有分泌物。如果擦伤涉及视轴（角膜中央），视力可能会受到影响。
+角膜磨石处有小异物（黑色，位于瞳孔下方）。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+
+【角膜擦伤和角膜异物的诊断】
+通常在裂隙灯下行荧光素染色检查。
+通常在裂隙灯下行荧光素染色检查。
+上眼睑外翻检查是否有异物
+上眼睑外翻检查是否有异物
+荧光素染色可见瞳孔内侧的曲线形角膜擦伤。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+滴用表面麻醉剂（如 0.5% 丙美卡因 1~2 滴）后，翻转眼睑，用双目放大镜（放大镜）或裂隙灯检查整个结膜和角膜。将荧光素涂在下穹窿上，并分布到泪膜中（见角膜检查）。裂隙灯检查时，荧光素染色在钴蓝光照射下可使擦伤和非金属异物更明显。Seidel征呈阳性，荧光素从角膜撕裂处流出，表明房水通过角膜穿孔从前房渗漏。
+检查时如果发现有多条纵行的擦伤，应将患者上下眼睑外翻寻找隐藏在上睑里的异物。
+高风险眼内损伤或（更罕见）可见的眼球穿孔或畸形瞳孔的患者应接受CT检查，以排除眼内异物；这些病人应该看急诊眼科医生。在排除眼球穿孔前，需用眼罩保护眼球。如果找不到盾牌，可以将纸杯或泡沫塑料杯剪裁，使其直径接近眼眶边缘的直径，然后将其放置在眼眶边缘作为临时盾牌。对眼球施加压力是不允许的，因为这样做可能会导致眼内内容物通过破裂部位挤出。应格外小心，确保任何绷带、眼罩或眼罩都固定在眼眶边缘，而不会接触眼睑或眼球。CT 是眼部和眼周创伤的首选成像方式（1、2）。
+
+【诊断参考】
+1.Balakrishnan S, Harsini S, Reddy S, et al.Imaging review of ocular and optic nerve trauma.Emerg Radiol27(1):75-85, 2020.doi: 10.1007/s10140-019-01730-y
+1.Balakrishnan S, Harsini S, Reddy S, et al.Imaging review of ocular and optic nerve trauma.Emerg Radiol27(1):75-85, 2020.doi: 10.1007/s10140-019-01730-y
+2.Thelen J, Bhatt AA, Bhatt AA: Acute ocular traumatic imaging: what the radiologist should know [corrected].Emerg Radiol24(5):585-592, 2017.doi: 10.1007/s10140-017-1528-0.Epub 2017 Jun 17.Erratum in:Emerg Radiol24(5):593, 2017.doi: 10.1007/s10140-017-1536-0
+2.Thelen J, Bhatt AA, Bhatt AA: Acute ocular traumatic imaging: what the radiologist should know [corrected].Emerg Radiol24(5):585-592, 2017.doi: 10.1007/s10140-017-1528-0.Epub 2017 Jun 17.Erratum in:Emerg Radiol24(5):593, 2017.doi: 10.1007/s10140-017-1536-0
+
+【角膜擦伤和角膜异物的治疗】
+对于角膜表面或结膜异物，用湿棉签或小针冲洗或取出
+对于角膜表面或结膜异物，用湿棉签或小针冲洗或取出
+角膜擦伤者，可用抗生素软膏和扩瞳剂
+角膜擦伤者，可用抗生素软膏和扩瞳剂
+眼球内异物，可经手术取出。
+眼球内异物，可经手术取出。
+表面麻醉剂注入结膜后，临床医生可以通过冲洗去除结膜异物或用湿润无菌棉签将其取出。在使用放大镜或裂隙灯放大镜进行可视化时，可以在无菌短桩（一种用于去除眼部异物的仪器）或25或27号皮下注射针的尖端小心地提起无法通过冲洗去除的角膜异物；患者在取出过程中必须能够凝视而不移动眼睛。值得注意的是，皮下注射针的尖端总是从侧面应用于角膜；它绝不应该直接接近角膜，因为这可能导致意外的角膜穿透。
+钢或铁异物在角膜上停留超过几个小时可能会在角膜上留下锈环，也需要在裂口灯放大下通过刮削或使用低速旋转毛刺去除；摘除应由眼科医生进行。经过该手术后，残留的角膜擦伤将得到治疗。
+
+【角膜擦伤】
+加压眼垫不能减轻疼痛或缩短愈合时间，而且可能会增加感染风险。通常不使用压力贴片，尤其是对于由隐形眼镜或可能被土壤或植被污染的物体造成的擦伤（1、2）。
+虽然没有研究表明眼科抗生素软膏（例如杆菌肽/多粘菌素B或红霉素）与感染率降低有关，但它们可用于大多数擦伤，直到上皮缺损愈合。因佩戴隐形眼镜而引起角膜擦伤患者需使用能覆盖抗铜绿假单胞菌的抗生素（如0.3％的环丙沙星软膏）。
+眼用皮质类固醇是禁忌的，因为它们倾向于促进真菌的生长和单纯疱疹病毒的再激活。持续使用局部麻醉剂也是禁忌的，因为它们可能会潜在地损害愈合，并可能掩盖与未愈合或恶化的擦伤相关的疼痛。研究尚未证明，对于接受短期局部麻醉剂的患者与接受安慰剂的患者相比，疼痛缓解方面存在差异（3）。疼痛者可口服镇痛药止痛。对于较大擦伤（如面积>10mm2）的症状缓解，也可使用短效睫状肌麻痹剂（如1滴1％环喷托酯或5％后马托品）扩张瞳孔一次。局部非甾体抗炎药（NSAIDs）（例如，双氯芬酸）未获批准用于治疗角膜擦伤，并且似乎并不比口服止痛药更有效（4）。
+角膜上皮再生迅速；即使是较大的擦伤，一般也会在1到3天内愈合。在伤口愈合之前，不应佩戴隐形眼镜。建议在受伤后1或2天由眼科医生进行随访检查，特别是如果异物被移除或擦伤是由有机物质引起的。
+
+【治疗参考文献】
+1.Lim CH, Turner A, Lim BX: Patching for corneal abrasion.Cochrane Database Syst Rev7(7):CD004764, 2016.doi: 10.1002/14651858.CD004764.pub3
+1.Lim CH, Turner A, Lim BX: Patching for corneal abrasion.Cochrane Database Syst Rev7(7):CD004764, 2016.doi: 10.1002/14651858.CD004764.pub3
+2.Kaiser PK: A comparison of pressure patching versus no patching for corneal abrasions due to trauma or foreign body removal.Corneal Abrasion Patching Study Group.Ophthalmology102(12):1936-1942, 1995.doi: 10.1016/s0161-6420(95)30772-5
+2.Kaiser PK: A comparison of pressure patching versus no patching for corneal abrasions due to trauma or foreign body removal.Corneal Abrasion Patching Study Group.Ophthalmology102(12):1936-1942, 1995.doi: 10.1016/s0161-6420(95)30772-5
+3.Puls HA, Cabrera D, Murad MH, et al: Safety and effectiveness of topical anesthetics in corneal abrasions: Systematic review and meta-analysis.J Emerg Med49(5):816-824, 2015.doi: 10.1016/j.jemermed.2015.02.051
+3.Puls HA, Cabrera D, Murad MH, et al: Safety and effectiveness of topical anesthetics in corneal abrasions: Systematic review and meta-analysis.J Emerg Med49(5):816-824, 2015.doi: 10.1016/j.jemermed.2015.02.051
+4.Wakai A, Lawrenson JG, Lawrenson AL, et al: Topical non-steroidal anti-inflammatory drugs for analgesia in traumatic corneal abrasions.Cochrane Database Syst Rev5(5):CD009781, 2017.doi: 10.1002/14651858.CD009781.pub2
+4.Wakai A, Lawrenson JG, Lawrenson AL, et al: Topical non-steroidal anti-inflammatory drugs for analgesia in traumatic corneal abrasions.Cochrane Database Syst Rev5(5):CD009781, 2017.doi: 10.1002/14651858.CD009781.pub2
+角膜擦伤或角膜异物的症状包括异物感、流泪和眼睛发红，通常对视力无影响。
+角膜擦伤或角膜异物的症状包括异物感、流泪和眼睛发红，通常对视力无影响。
+诊断通常是通过裂隙灯下行荧光素染色检查。
+诊断通常是通过裂隙灯下行荧光素染色检查。
+如果荧光素从角膜缺损处流出，如果瞳孔不规则，或者损伤机制涉及高速机器（如钻头、锯子、任何金属对金属机制的东西）、锤击或爆炸，则怀疑是眼内异物。
+如果荧光素从角膜缺损处流出，如果瞳孔不规则，或者损伤机制涉及高速机器（如钻头、锯子、任何金属对金属机制的东西）、锤击或爆炸，则怀疑是眼内异物。
+切勿用眼罩遮盖疑似穿透性损伤的眼睛。始终只使用眼罩。
+切勿用眼罩遮盖疑似穿透性损伤的眼睛。始终只使用眼罩。
+对于眼内异物，需给予全身和局部抗生素，佩戴眼罩，控制疼痛和恶心，并请眼科医生会诊以手术取出异物。
+对于眼内异物，需给予全身和局部抗生素，佩戴眼罩，控制疼痛和恶心，并请眼科医生会诊以手术取出异物。

@@ -1,0 +1,229 @@
+标题：过敏性肺炎
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/interstitial-lung-diseases/hypersensitivity-pneumonitis
+============================================================
+
+过敏性肺炎是一种罕见且复杂的综合征，由具有遗传易感性的个体长期吸入各种外源性抗原引发。虽然它是间质性肺疾病的常见病因，但其总体患病率仍较低，在资源丰富的地区估计约为每年每10万人1-2例（1）。在特定地区或某些职业群体（如农民或鸟类饲养者）中患病率可能更高，但这些高风险人群中的总体患病率尚不明确。季节性变化也很常见，某些霉菌仅在炎热潮湿的天气中成为诱因。主动吸烟似乎与降低过敏性肺炎的风险相关(2)。
+
+【参考文献】
+1.Fernández Pérez ER, Kong AM, Raimundo K, Koelsch TL, Kulkarni R, Cole AL.Epidemiology of Hypersensitivity Pneumonitis among an Insured Population in the United States: A Claims-based Cohort Analysis.Ann Am Thorac Soc2018;15(4):460-469.doi:10.1513/AnnalsATS.201704-288OC
+1.Fernández Pérez ER, Kong AM, Raimundo K, Koelsch TL, Kulkarni R, Cole AL.Epidemiology of Hypersensitivity Pneumonitis among an Insured Population in the United States: A Claims-based Cohort Analysis.Ann Am Thorac Soc2018;15(4):460-469.doi:10.1513/AnnalsATS.201704-288OC
+2.Solaymani-Dodaran M, West J, Smith C, Hubbard R.Extrinsic allergic alveolitis: incidence and mortality in the general population. QJM.2007;100(4):233-237.doi:10.1093/qjmed/hcm008
+2.Solaymani-Dodaran M, West J, Smith C, Hubbard R.Extrinsic allergic alveolitis: incidence and mortality in the general population. QJM.2007;100(4):233-237.doi:10.1093/qjmed/hcm008
+
+【过敏性肺炎的病因】
+所有过敏性肺炎病例均源于接触外源性抗原后发生的免疫反应，通常发生在具有一定程度遗传易感性的个体中。已发现超过300种抗原可作为过敏性肺炎的诱发因素。通过农业、接触鸟类和水污染接触到的抗原约占病例的75%。
+常根据抗原类型和职业对抗原分类 (见表过敏性肺炎病因举例); 农民肺，由吸入含嗜热放线菌的干草粉尘引起，就是典型例子。在农民中过敏性肺炎和慢性支气管炎实质上存在重叠，农民中慢性支气管炎很常见，其发生并不取决于吸烟状况，而与嗜热放线菌暴露有关，诊断检查中可出现与过敏性肺炎相似的表现。
+
+【过敏性肺炎病因举例】
+过敏性肺炎病因举例
+可疑抗原
+嗜热放线菌
+霉变的蔗渣（甘蔗）
+乳酪清洗者肺
+Aspergillus clavatus
+Penicillium casei
+霉变的乳酪
+Aspergillus（曲霉菌）属
+真菌，特别是Aspergillus（曲霉菌）属
+嗜热放线菌
+植物性堆肥（霉变的谷物、干草、青贮饲料）
+养蘑菇工人肺
+Hypsizigus marmoreus
+嗜热放线菌
+蘑菇堆肥
+筛土豆工人肺
+Aspergillus（曲霉菌）属
+嗜热放线菌
+土豆旁的霉变干草
+烟草种植者肺
+Aspergillus（曲霉菌）属
+Scopulariopsis brevicaulis
+烟草植物
+酿葡萄酒者肺
+Botrytis cinerea
+霉变的葡萄
+热浴肺病
+Cladosporium枝孢菌属
+Mycobacterium avium鸟分枝杆菌复合物
+天花板上和水盆旁受污染的水雾和真菌
+加湿器肺
+Aureobasidium短柄真菌属
+Candida albicans
+嗜热放线菌
+湿化或空调系统中受污染的水
+洗桑拿者肺
+Aureobasidium（短梗霉菌）属
+受污染的桑拿水
+下水道工人肺
+Cephalosporium头孢霉菌属
+受污染的地下室（污水）
+爱鸟者肺
+长尾鹦鹉、鸽、鸡、火鸡和鸭蛋白
+禽鸟的滴落物或羽毛
+制麦芽工人肺
+Aspergillus（曲霉菌）属
+霉变的大麦
+磨粉者肺
+Sitophilus granarius谷象（小麦象鼻虫）
+受象鼻虫感染的小麦粉
+铣磨及建筑业
+过敏性肺泡炎
+Aureobasidium（短梗霉菌）属
+Graphium（黏束孢菌）属
+红木锯屑
+茅屋顶工人肺
+Saccharomonospora viridis
+干草枯叶
+木桨工人肺
+Penicillium（青霉菌）属
+橡树和枫树木浆
+刨木工人肺
+Rhizopus（根霉菌）属
+Mucor（毛霉菌）属
+受污染的木材刨屑
+Alternaria（链格孢子菌）属
+Bacillus subtilis
+橡树、雪松、松树、云杉、红木粉尘
+化学工人肺
+异氰酸酯
+聚氨酯泡沫，清漆，亮漆
+清洁剂工人肺
+Bacillus subtilis
+B. subtilis清洁剂中的枯草杆菌酶
+葡萄园喷药者肺
+使用硫酸铜
+棉尘肺（褐色肺）
+粉尘（可能内毒素相关的）
+棉花、亚麻、麻的粉尘
+尘菌孢子肺
+马勃菌（Lycoperdon（马勃属））的孢子
+替代医学或娱乐性用途（误认马勃菌为致幻蘑菇）
+Raghu G, Remy-Jardin M, Ryerson CJ, et al.Diagnosis of Hypersensitivity Pneumonitis in Adults.An Official ATS/JRS/ALAT Clinical Practice Guideline [published correction appears in Am J Respir Crit Care Med. 2021 Jan 1;203(1):150-151. doi: 10.1164/rccm.v203erratum1.] [published correction appears in Am J Respir Crit Care Med. 2022 Aug 15;206(4):518. doi: 10.1164/rccm.v206erratum4.].Am J Respir Crit Care Med2020;202(3):e36-e69.doi:10.1164/rccm.202005-2032ST
+有关过敏性肺炎相关抗原的更多信息，参阅hpLung。
+Raghu G, Remy-Jardin M, Ryerson CJ, et al.Diagnosis of Hypersensitivity Pneumonitis in Adults.An Official ATS/JRS/ALAT Clinical Practice Guideline [published correction appears in Am J Respir Crit Care Med. 2021 Jan 1;203(1):150-151. doi: 10.1164/rccm.v203erratum1.] [published correction appears in Am J Respir Crit Care Med. 2022 Aug 15;206(4):518. doi: 10.1164/rccm.v206erratum4.].Am J Respir Crit Care Med2020;202(3):e36-e69.doi:10.1164/rccm.202005-2032ST
+有关过敏性肺炎相关抗原的更多信息，参阅hpLung。
+
+【过敏性肺炎的病理生理】
+该疾病可能是一种Ⅳ型过敏反应，遗传易感人群反复暴露于抗原后，引发急性或亚急性炎症，继而发展为慢性炎症和纤维化。最初在急性期，以中性粒细胞和单核细胞性肺泡炎为主。随后在亚急性期，间质性Th1和Th17淋巴细胞浸润以及免疫复合物的形成和沉积会靶向攻击外来抗原。在更慢性的病例中，由于CD4+ Th1细胞的流入（类似于结节病或结核性肉芽肿的发病机制），可能会发生肉芽肿性反应。最后，随着持续暴露成纤维细胞的侵袭可能导致纤维化伴细支气管闭塞。免疫反应的主要作用似乎是试图清除有害抗原，如果清除失败则对其进行隔离。某些基因多态性如MUC5B，可能影响患者发生过敏性肺炎的风险，并导致疾病发病率增加(1)。
+循环IgG沉淀素（即对特定抗原敏感的抗体）似乎并不在病因中起主要作用，且过敏的临床病史（例如哮喘和季节性过敏）也不构成易感因素。吸烟可能通过下调肺对吸入抗原的免疫反应而延缓或防止疾病进展。然而，吸烟可引起疾病的急性加重。
+过敏性肺炎与其它病理生理学不同的疾病在临床表现上相似。
+例如有机粉尘中毒综合征（肺真菌中毒症、谷物热），是包括发热、寒战、肌痛和呼吸困难的综合征，无需先致敏，考虑是吸入真菌毒素或其他有机粉尘引起的。
+例如有机粉尘中毒综合征（肺真菌中毒症、谷物热），是包括发热、寒战、肌痛和呼吸困难的综合征，无需先致敏，考虑是吸入真菌毒素或其他有机粉尘引起的。
+青贮饲料工人病可引起呼吸衰竭、急性呼吸窘迫综合征、阻塞性细支气管炎或支气管炎，但其为吸入由新鲜发酵的谷物或苜蓿青贮饲料产生的毒性氮氧化物引起的。
+青贮饲料工人病可引起呼吸衰竭、急性呼吸窘迫综合征、阻塞性细支气管炎或支气管炎，但其为吸入由新鲜发酵的谷物或苜蓿青贮饲料产生的毒性氮氧化物引起的。
+职业性哮喘在预先被吸入抗原致敏的人群中引起呼吸困难，但气流阻塞、气道嗜酸细胞增多等特点以及接触或暴露史的阴性结果和由此导致的触发抗原的差异有助于将其与过敏性肺炎区分开来。
+职业性哮喘在预先被吸入抗原致敏的人群中引起呼吸困难，但气流阻塞、气道嗜酸细胞增多等特点以及接触或暴露史的阴性结果和由此导致的触发抗原的差异有助于将其与过敏性肺炎区分开来。
+
+【病理生理学参考文献】
+1.Ley B, Newton CA, Arnould I, et al.The MUC5B promoter polymorphism and telomere length in patients with chronic hypersensitivity pneumonitis: an observational cohort-control study.Lancet Respir Med2017;5(8):639-647.doi:10.1016/S2213-2600(17)30216-3
+1.Ley B, Newton CA, Arnould I, et al.The MUC5B promoter polymorphism and telomere length in patients with chronic hypersensitivity pneumonitis: an observational cohort-control study.Lancet Respir Med2017;5(8):639-647.doi:10.1016/S2213-2600(17)30216-3
+
+【过敏性肺炎的症状和体征】
+症状和体征取决于发病
+急性期（数天）
+急性期（数天）
+亚急性（数周）
+亚急性（数周）
+慢性（数月至数年）
+慢性（数月至数年）
+只有一小部分暴露者出现症状，而其中大多数在暴露和致敏数周至数月后才发生。
+
+【急性过敏性肺炎】
+急性型发生于先前已致敏的个体在急性暴露于高水平抗原后，表现为暴露后4至8小时出现发热、寒战、咳嗽、双侧钳夹样胸部紧迫感（类似哮喘发作），以及呼吸困难。也可出现厌食、恶心呕吐。体格检查显示呼吸急促、散在的细至中啰音，几乎所有病例都无哮鸣音。症状可能与急性细菌性肺炎的症状相似。
+
+【亚急性过敏性肺炎】
+亚急性型表现为在数天至数周内逐渐出现的咳嗽、呼吸困难、乏力和食欲减退，或在慢性症状基础上叠加急性症状。喘息可能在亚急性阶段首次出现。
+
+【慢性过敏性肺炎】
+慢性型见于长期低水平抗原暴露者（如养鸟者）。在数月到数年内，患者可能出现劳力性呼吸困难、咳痰、疲劳和体重减轻。体检少有发现；偶有杵状变，无发热。虽然罕见，但在晚期病例中，肺纤维化会导致右心衰竭、呼吸衰竭或两者兼有的症状和体征。
+
+【过敏性肺炎的诊断】
+高分辨CT
+高分辨CT
+肺功能检测
+肺功能检测
+抗原特异性免疫球蛋白血清学检测
+抗原特异性免疫球蛋白血清学检测
+支气管肺泡灌洗液
+支气管肺泡灌洗液
+组织学检查
+组织学检查
+对于具有相符症状以及相符的职业、业余爱好或家庭暴露史的患者，诊断过敏性肺炎需要高度怀疑。新发现的间质性肺病患者必须考虑过敏性肺炎。(1,2)。进行 HRCT 是为了识别特征性的放射学表现。肺功能检查也可用于评估呼吸功能障碍程度。可以获取针对可疑抗原的血清抗原特异性免疫球蛋白(Ig)G或IgA，但其诊断效用有限，阴性结果不能排除诊断(1)。如果检查结果不确定，可能需要进行支气管肺泡灌洗和/或肺活检。鉴别诊断范围广，包括环境所致肺疾病、结节病、阻塞性细支气管炎、系统性风湿相关肺病以及其他间质性肺疾病。
+病史线索包括：
+反复出现的非典型肺炎
+反复出现的非典型肺炎
+换新的工作或搬家后发生的症状
+换新的工作或搬家后发生的症状
+家中有热水浴缸、桑拿房、游泳池、其他静水或水渍，或者经常在其他地方接触这些
+家中有热水浴缸、桑拿房、游泳池、其他静水或水渍，或者经常在其他地方接触这些
+鸟类宠物
+鸟类宠物
+在农场工作
+在农场工作
+从事某些行业（例如木工；奶酪、葡萄酒或面包制作；畜牧业；纺织业）
+从事某些行业（例如木工；奶酪、葡萄酒或面包制作；畜牧业；纺织业）
+进入和离开特殊地点时症状加重和减轻
+进入和离开特殊地点时症状加重和减轻
+尽管可能存在异常的肺部听诊音（如吸气性吱吱声、基底捻发音）和杵状指，但体格检查通常对诊断无帮助。
+
+【影像学检查】
+有上述病史、症状和体征的病人行影像学检查。
+胸片对疾病诊断既不敏感也不特异，急性和亚急性型的病人常正常。通常在有症状时，可见到网状或结节状影。慢性型病人的胸片多在肺上叶见网状或结节状影、肺容量缩小以及蜂窝样变，与特发性肺纤维化所见相似。
+高分辨率CT显示纤维化的表现，包括不规则网状影和牵引性支气管扩张（箭头所示）。肺密度降低的区域与气道阻塞的区域一致。这些表现的组合提示过敏性肺炎。
+图像由医学博士、MAS Joyce Lee 提供。
+高分辨率CT是评估过敏性肺炎实质改变的首选影像学检查方法，其显示异常的可能性高于标准CT或X线片（2）。
+在急性和亚急性过敏性肺炎中，最典型的高分辨率CT表现为小叶中心性微小结节，直径通常小于3毫米，多位于肺小叶中央气道附近。偶尔，磨玻璃影（密度减低）是主要的或有时是唯一的影像学表现。其常为弥散性，但有时不累及次级肺小叶的周围部分。 与闭塞性细支气管炎所见相似的局灶性高透亮区，可能是某些病人的主要特征（例如HRCT呼气相的马赛克影伴空气滞留现象）。
+慢性过敏性肺炎有肺纤维化的征象，包括肺叶体积缩小、线状或网状阴影、蜂窝样变和牵拉性支气管扩张。可能出现小叶中心微结节、磨玻璃样密度影和透亮区，但不太明显。一些不吸烟的慢性过敏性肺炎病人有上叶气肿的表现。纵隔淋巴结肿大不常见，由此可将过敏性肺炎与结节病相区别。
+
+【肺功能测定】
+肺功能检查应作为过敏性肺炎疑似病例的标准评估之一。该病可引起阻塞性、限制性或混合性气道改变。疾病晚期最常产生限制性通气障碍（肺容量缩小）、一氧化碳弥散能力（DLCO）降低以及劳力性低氧血症进展为静息低氧血症。气道阻塞不常见于急性型，但可在慢性型中进展。
+
+【支气管肺泡灌洗】
+支气管肺泡灌洗结果对诊断过敏性肺炎很少具有特异性，但常是评估具有慢性呼吸道症状和肺功能异常患者诊断的一部分。灌洗液中淋巴细胞增多（>40%）伴CD4+/CD8+<1.0（正常比例±平均数标准差=2.3±0.2）是疾病的特征 (3)；相反，CD4+淋巴细胞增多为主（比率>1.0）在结节病中更具特征性。其他发现包括肥大细胞>1%（急性暴露后）以及中性粒细胞和嗜酸细胞增多。年龄较大和吸烟与灌洗液中淋巴细胞计数较低(有时假性降低)相关(2)。
+当非侵入性检查不能确定时，可进行经支气管或手术肺活检。表现各异，但是典型的表现可见环绕小支气管的化生、不成形的非坏死性肉芽肿及机化性肺炎。间质纤维化可能存在于慢性病例。
+
+【其他试验】
+当需要进一步支持诊断或发现间质性肺疾病的其他原因时，需要进一步检查。血清抗原特异性IgG/IgA（有时也称为沉淀素）的检测可能提示与该疾病相关的暴露。然而，循环沉淀素的存在既不敏感也不特异。识别特定的沉淀抗原可能需要工业卫生专家对工作场所进行详细的气载生物学和/或微生物学评估，但工作场所评估通常以已知的激发抗原来源为指导（例如，清洁剂工厂的Bacillus subtilis（枯草芽孢杆菌））。
+过敏皮肤测试没有帮助，并且通常不存在外周嗜酸性粒细胞增多症。
+有助于发现其他疾病的检测包括血清学试验和培养(用于鹦鹉热和其他肺炎)和自身抗体(用于全身风湿病)。嗜酸性粒细胞水平升高可能提示慢性嗜酸性粒细胞性肺炎。 肺门和气管旁淋巴结肿大是结节病更具特征性的表现。
+
+【诊断参考】
+1.Fernández Pérez ER, Travis WD, Lynch DA, et al.Diagnosis and Evaluation of Hypersensitivity Pneumonitis: CHEST Guideline and Expert Panel Report.Chest2021;160(2):e97-e156.doi:10.1016/j.chest.2021.03.066
+1.Fernández Pérez ER, Travis WD, Lynch DA, et al.Diagnosis and Evaluation of Hypersensitivity Pneumonitis: CHEST Guideline and Expert Panel Report.Chest2021;160(2):e97-e156.doi:10.1016/j.chest.2021.03.066
+2.Raghu G, Remy-Jardin M, Ryerson CJ, et al: Diagnosis of hypersensitivity pneumonitis in adults.An Official ATS/JRS/ALAT Clinical Practice Guideline.Am J Respir Crit Care Med202(3):e36–e69, 2020.doi: 10.1164/rccm.202005-2032ST
+2.Raghu G, Remy-Jardin M, Ryerson CJ, et al: Diagnosis of hypersensitivity pneumonitis in adults.An Official ATS/JRS/ALAT Clinical Practice Guideline.Am J Respir Crit Care Med202(3):e36–e69, 2020.doi: 10.1164/rccm.202005-2032ST
+3.Walsh SL, Sverzellati N, Devaraj A, Wells AU, Hansell DM.Chronic hypersensitivity pneumonitis: high resolution computed tomography patterns and pulmonary function indices as prognostic determinants. Eur Radiol.2012;22(8):1672-1679.doi:10.1007/s00330-012-2427-0
+3.Walsh SL, Sverzellati N, Devaraj A, Wells AU, Hansell DM.Chronic hypersensitivity pneumonitis: high resolution computed tomography patterns and pulmonary function indices as prognostic determinants. Eur Radiol.2012;22(8):1672-1679.doi:10.1007/s00330-012-2427-0
+
+【过敏性肺炎的治疗】
+抗原识别和缓解
+抗原识别和缓解
+糖皮质激素
+糖皮质激素
+有时抗纤维化治疗
+有时抗纤维化治疗
+急性或亚急性过敏性肺炎的治疗采用糖皮质激素，通常使用大剂量泼尼松 1 至 2 周，然后在接下来的几周内逐渐减少剂量，直至停药。此疗法能缓解初发症状但似乎不改变长期预后。
+慢性过敏性肺炎的治疗通常需长期使用小剂量维持剂量的泼尼松，其减量方案需根据患者的临床反应来确定。部分患者在长期治疗中需要应用糖皮质激素减量替代药物（如吗替麦考酚酯、硫唑嘌呤）。
+对于接受免疫抑制治疗后仍出现进行性纤维化的患者，可考虑抗纤维化治疗。尼达尼布是一种酪氨酸激酶抑制剂，似乎可以减缓进行性肺纤维化（包括慢性过敏性肺炎）患者肺功能的下降速度(1)。吡非尼酮（另一种抗纤维化药物）有时在患者无法耐受尼达尼布时用作替代药物。其在过敏性肺炎中的研究较少，但也可能减缓肺部疾病的进展（2）。
+
+【治疗参考文献】
+1.Flaherty KR, Wells AU, Cottin V, et al.Nintedanibin Progressive Fibrosing Interstitial Lung Diseases.N Engl J Med2019;381(18):1718-1727.doi:10.1056/NEJMoa1908681
+1.Flaherty KR, Wells AU, Cottin V, et al.Nintedanibin Progressive Fibrosing Interstitial Lung Diseases.N Engl J Med2019;381(18):1718-1727.doi:10.1056/NEJMoa1908681
+2.Behr J, Prasse A, Kreuter M, et al.Pirfenidonein patients with progressive fibrotic interstitial lung diseases other than idiopathic pulmonary fibrosis (RELIEF): a double-blind, randomised, placebo-controlled, phase 2b trial.Lancet Respir Med2021;9(5):476-486.doi:10.1016/S2213-2600(20)30554-3
+2.Behr J, Prasse A, Kreuter M, et al.Pirfenidonein patients with progressive fibrotic interstitial lung diseases other than idiopathic pulmonary fibrosis (RELIEF): a double-blind, randomised, placebo-controlled, phase 2b trial.Lancet Respir Med2021;9(5):476-486.doi:10.1016/S2213-2600(20)30554-3
+
+【过敏性肺炎的预后】
+如早期发现并消除抗原暴露，能完全逆转急性过敏性肺炎的病理改变。如避免抗原接触，急性型为自限性；症状常在数小时内减轻。如果能识别诱发抗原并避免接触，非纤维化形式的亚急性过敏性肺炎通常预后良好。纤维化过敏性肺炎患者的预后较差。慢性型的纤维化通常不可逆，即使患者不再暴露于抗原也可能进展。
+
+【过敏性肺炎的预防】
+过敏性肺炎最重要的长期治疗是避免抗原暴露。彻底改变环境几乎不现实，尤其是对农民和其他工人，此时采取粉尘控制措施（如扰动各组分前先湿化）或使用空气过滤器或保护性面罩可能有效。 可使用杀真菌剂防止抗原性微生物的生长（如用于干草中或甘蔗上），但尚未证实该方法的长期安全性。此外，在某些环境中，对湿式通风系统进行彻底清洁、移除潮湿的地毯，以及通过除湿机维持较低湿度也是有效的措施。但必须告诉病人，在持续暴露时这些措施可能并不充分。
+过敏性肺炎是IV型超敏反应，可因多种过敏原触发。
+过敏性肺炎是IV型超敏反应，可因多种过敏原触发。
+具有这些症状的高危患者，应充分了解其职业、业余爱好和家庭暴露情况。
+具有这些症状的高危患者，应充分了解其职业、业余爱好和家庭暴露情况。
+需进行高分辨率CT和肺功能检查，如果诊断仍不明确，可能需行支气管肺泡灌洗及血清沉淀素试验。
+需进行高分辨率CT和肺功能检查，如果诊断仍不明确，可能需行支气管肺泡灌洗及血清沉淀素试验。
+对大多数患者可给予口服泼尼松治疗。
+对大多数患者可给予口服泼尼松治疗。
+晚期病例可能对抗纤维化药物有反应。
+晚期病例可能对抗纤维化药物有反应。

@@ -1,0 +1,42 @@
+标题：甘菊
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/chamomile
+============================================================
+
+洋甘菊的花朵经干燥后，可用来泡茶饮用、制成胶囊服用、用于芳香疗法，或作为提取物局部使用。
+
+【洋甘菊功效宣称】
+甘菊茶被认为可以减轻炎症和发热、有轻度安定和抗抑郁作用、可缓解胃痉挛和消化不良，以及促进胃溃疡的愈合。据说洋甘菊提取物局部敷用可以舒缓受刺激的皮肤。红没药醇以及黄酮类化合物芹菜素和木犀草素被认为是活性成分（1）。
+
+【洋甘菊的证据】
+支持甘菊使用的临床试验证据很有限。然而，一项在轻中度焦虑患者中使用洋甘菊提取物口服胶囊（按芹菜素 1.2% 标准化）的随机安慰剂对照试验（2），以及一项针对中重度广泛性焦虑障碍的开放性试验（3），均显示其可能具有轻度抗焦虑作用。洋甘菊可能还具有抗抑郁活性（4）。此外，洋甘菊可以改善睡眠质量 (5)。但少有研究证实其临床获益一致（6, 7）。
+
+【洋甘菊的不良反应】
+一般情况下洋甘菊是安全的; 然而，也有过敏反应的报道，尤其是对菊科（例如，向日葵，豚草）植物和花粉过敏的人。典型症状包括流泪，打喷嚏，胃肠不适，皮炎和过敏反应。
+
+【洋甘菊的药物相互作用】
+洋甘菊可能会增加抗凝血剂和镇静剂（包括巴比妥类药物和酒精）的作用。
+洋甘菊可能会干扰他莫昔芬、激素替代疗法和含雌激素的口服避孕药的效果。洋甘菊也可能增加环孢素的血清浓度 （8)。
+(参考表一些可能的膳食补充剂-药物相互作用。）
+
+【参考文献】
+1.Dai YL, Li Y, Wang Q, Niu FJ, Li KW, Wang YY, Wang J, Zhou CZ, Gao LN.Chamomile: A Review of Its Traditional Uses, Chemical Constituents, Pharmacological Activities and Quality Control Studies.Molecules.2022 Dec 23;28(1):133.doi: 10.3390/molecules28010133
+1.Dai YL, Li Y, Wang Q, Niu FJ, Li KW, Wang YY, Wang J, Zhou CZ, Gao LN.Chamomile: A Review of Its Traditional Uses, Chemical Constituents, Pharmacological Activities and Quality Control Studies.Molecules.2022 Dec 23;28(1):133.doi: 10.3390/molecules28010133
+2.Amsterdam JD, Li Y, Soeller I, et al.A randomized, double-blind, placebo-controlled trial of oralMatricaria recutita(chamomile) extract therapy for generalized anxiety disorder.J Clin Psychopharmacol.29(4):378-382, 2009.doi: 10.1097/JCP.0b013e3181ac935c
+2.Amsterdam JD, Li Y, Soeller I, et al.A randomized, double-blind, placebo-controlled trial of oralMatricaria recutita(chamomile) extract therapy for generalized anxiety disorder.J Clin Psychopharmacol.29(4):378-382, 2009.doi: 10.1097/JCP.0b013e3181ac935c
+3.Keefe JR, Mao JJ, et al.Short-term open-label chamomile (Matricaria chamomilla L.)therapy of moderate to severe generalized anxiety disorder.Phytomedicine.23(14):1699-1705, 2016.doi: 10.1016/j.phymed.2016.10.013
+3.Keefe JR, Mao JJ, et al.Short-term open-label chamomile (Matricaria chamomilla L.)therapy of moderate to severe generalized anxiety disorder.Phytomedicine.23(14):1699-1705, 2016.doi: 10.1016/j.phymed.2016.10.013
+4.Amsterdam JD, Li QS, Xie SX, et al.Putative antidepressant effect of chamomile (Matricaria chamomilla L.)oral extract in subjects with comorbid generalized anxiety disorder and depression.J Altern Complement Med26(9):813-819, 2020.doi:10.1089/acm.2019.0252
+4.Amsterdam JD, Li QS, Xie SX, et al.Putative antidepressant effect of chamomile (Matricaria chamomilla L.)oral extract in subjects with comorbid generalized anxiety disorder and depression.J Altern Complement Med26(9):813-819, 2020.doi:10.1089/acm.2019.0252
+5.Hieu TH, Dibas M, Dila KAS, et al.Therapeutic efficacy and safety of chamomile for state anxiety, generalized anxiety disorder, insomnia, and sleep quality: a systematic review and meta-analysis of randomized trials and quasi-randomized trials.Phytother Res.33:1604-1615, 2019.
+5.Hieu TH, Dibas M, Dila KAS, et al.Therapeutic efficacy and safety of chamomile for state anxiety, generalized anxiety disorder, insomnia, and sleep quality: a systematic review and meta-analysis of randomized trials and quasi-randomized trials.Phytother Res.33:1604-1615, 2019.
+6.Jun J. Mao, Sharon X. Xie, John R. Keefe, Irene Soeller, Qing S. Li, Jay D Amsterdam.Long-term chamomile (Matricaria chamomilla L.)treatment for generalized anxiety disorder: A randomized clinical trial,Phytomedicine.2016;23 (14):1735-1742.
+6.Jun J. Mao, Sharon X. Xie, John R. Keefe, Irene Soeller, Qing S. Li, Jay D Amsterdam.Long-term chamomile (Matricaria chamomilla L.)treatment for generalized anxiety disorder: A randomized clinical trial,Phytomedicine.2016;23 (14):1735-1742.
+7.Sarris J, Ravindran A, Yatham LN, et al.Clinician guidelines for the treatment of psychiatric disorders with nutraceuticals and phytoceuticals: The World Federation of Societies of Biological Psychiatry (WFSBP) and Canadian Network for Mood and Anxiety Treatments (CANMAT) Taskforce.World J Biol Psychiatry.2022;23(6):424-455.
+7.Sarris J, Ravindran A, Yatham LN, et al.Clinician guidelines for the treatment of psychiatric disorders with nutraceuticals and phytoceuticals: The World Federation of Societies of Biological Psychiatry (WFSBP) and Canadian Network for Mood and Anxiety Treatments (CANMAT) Taskforce.World J Biol Psychiatry.2022;23(6):424-455.
+8.Nowack R, Nowak B.Herbal teas interfere with cyclosporin levels in renal transplant patients.Nephrol Dial Transplant.20(11):2554-2556, 2005.doi:10.1093/ndt/gfi003
+8.Nowack R, Nowak B.Herbal teas interfere with cyclosporin levels in renal transplant patients.Nephrol Dial Transplant.20(11):2554-2556, 2005.doi:10.1093/ndt/gfi003
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Chamomile
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Chamomile

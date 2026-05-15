@@ -1,0 +1,69 @@
+标题：先天性风疹
+来源：https://www.msdmanuals.cn/professional/pediatrics/infections-in-neonates/congenital-rubella
+============================================================
+
+（参见风疹和新生儿感染概述。）
+先天性风疹是由母亲原发感染引起的。由于非常成功的免疫计划，这种感染在美国现在很少见（参见儿童疫苗的有效性和安全性）。
+风疹病毒先侵入上呼吸道，然后有病毒血症，将病毒传播至全身各部位，包括胎盘。胎儿在妊娠前12周感染时，发生发育异常的风险最高。在怀孕早期，一般认为病毒可造成慢性宫内感染。其作用包括血管内皮损伤、直接细胞溶解和破坏细胞有丝分裂。
+
+【先天性风疹的症状和体征】
+妊娠妇女的风疹感染可无症状，或仅表现为上呼吸道症状、轻度发热、结膜炎、淋巴结肿大（特别是枕部和耳后区域）和斑丘疹。此后可有一些关节症状。
+在胎儿和新生儿期，可能没有任何症状，也可能出现宫内胎儿死亡或多种先天性异常，称为先天性风疹综合征（CRS）。最常见的异常包括
+宫内发育迟缓
+宫内发育迟缓
+小头畸形
+小头畸形
+脑膜脑炎
+脑膜脑炎
+视网膜病
+视网膜病
+听力损失
+听力损失
+心脏缺陷（动脉导管未闭和肺动脉狭窄）
+心脏缺陷（动脉导管未闭和肺动脉狭窄）
+肝脾肿大
+肝脾肿大
+骨射线可透性
+骨射线可透性
+不太常见的临床表现包括伴有紫癜的血小板减少症、导致蓝红色皮肤病变的皮肤红细胞生成、淋巴结肿大、溶血性贫血和间质性肺炎。
+需要持续观察以检测随后的听力损失，智力残疾，异常行为，内分泌病（例如，糖尿病）或罕见的进行性脑炎。
+具有先天性风疹感染的婴儿可能发生免疫缺陷，例如低丙种球蛋白血症。
+
+【先天性风疹的诊断】
+母源性血清风疹病毒滴度
+母源性血清风疹病毒滴度
+通过对羊水、鼻腔、咽喉（首选）、尿液、脑脊液 (CSF) 或血液样本进行细胞培养和/或聚合酶链式反应 (PCR) 检测母亲体内的病毒
+通过对羊水、鼻腔、咽喉（首选）、尿液、脑脊液 (CSF) 或血液样本进行细胞培养和/或聚合酶链式反应 (PCR) 检测母亲体内的病毒
+婴儿抗体滴度（序贯性测量）和前述病毒检测
+婴儿抗体滴度（序贯性测量）和前述病毒检测
+孕妇通常在妊娠早期检测血清风疹IgG滴度。出现风疹症状或体征的人需要重复检测滴度；诊断依据 IgM 抗体阳性血清学检测、IgG 血清转换或≥急性期和恢复期 IgG 滴度之间升高了 4 倍。PCR或病毒培养也可用于确诊感染。
+通过检测羊水中的病毒，检测胎儿血液中的风疹特异性IgM，或对胎儿血液或绒毛活检标本应用PCR技术，可以在少数中心诊断胎儿感染。
+怀疑有先天性风疹综合征的婴儿应当采集用于病毒检测的抗体滴度和标本。婴儿出生 6 至 12 个月后，如果风疹特异性 IgG 持续存在或增加，则提示有先天性感染。检测风疹特异性 IgM 抗体通常也表明先天性风疹感染，但可能会出现假阳性 IgM 结果。对从鼻咽或咽喉获得的标本行PCR是首选的检测方法。采集≥1种标本类型（如鼻咽拭子、尿液、白内障组织）可提高敏感性。鼻咽样本通常为培养提供最佳敏感性，并且应该通知实验室怀疑是风疹病毒。
+其他检查包括全血细胞计数与分类、脑脊液检查、骨骼的放射学检查以检测特征性的放射透明区。彻底的眼科和心脏评估也是有用的。
+
+【先天性风疹的治疗】
+支持治疗
+支持治疗
+对母亲或先天性风疹感染无特殊治疗。
+未对风疹免疫（风疹IgG阴性）且在怀孕早期接触风疹的孕妇应被告知胎儿的潜在风险。需进行系列抗体检测以识别提示急性感染的IgM，随后检测IgG。美国儿科学会（1）不建议对无免疫力的妊娠患者常规使用免疫球蛋白进行暴露后预防，但一些国家推荐使用（2）。
+
+【治疗参考文献】
+1.Committee on Infectious Diseases, American Academy of Pediatrics:RubellainRed Book: 2021–2024 Report of the Committee on Infectious Diseases, ed.Kimberlin DW, Banerjee R, Barnett ED, Lynfield R, and Sawyer MH.Itasca, American Academy of Pediatrics, 2021.
+1.Committee on Infectious Diseases, American Academy of Pediatrics:RubellainRed Book: 2021–2024 Report of the Committee on Infectious Diseases, ed.Kimberlin DW, Banerjee R, Barnett ED, Lynfield R, and Sawyer MH.Itasca, American Academy of Pediatrics, 2021.
+2.Young MK, Bertolini J, Kotharu P, Maher D, Cripps AW.Rubella antibodies in Australian immunoglobulin products.Hum Vaccin Immunother.2017;13(8):1952-1955.doi:10.1080/21645515.2017.1327110
+2.Young MK, Bertolini J, Kotharu P, Maher D, Cripps AW.Rubella antibodies in Australian immunoglobulin products.Hum Vaccin Immunother.2017;13(8):1952-1955.doi:10.1080/21645515.2017.1327110
+
+【先天性风疹的预防】
+风疹感染可通过预防接种来防范。在美国，婴儿应该接种麻疹、腮腺炎和风疹（MMR）联合疫苗。第一剂在12至15个月大时接种，第二剂在4至6岁时接种（参见儿童疫苗接种计划）。
+无血清学免疫证据的有怀孕能力的人应接种至少1剂麻腮风疫苗（1）。（注意：免疫缺陷或妊娠妇女禁用风疹疫苗）免疫接种后28天内妇女不应该怀孕。
+还应努力筛查和接种高危群体，如医院和儿童保育工作者、军队新兵、近期移民和大学生。在产前筛查中被发现易感的孕妇，应在分娩后（通常是在出院前）接种疫苗。
+
+【预防参考文献】
+1.McLean HQ, Fiebelkorn AP, Temte JL, Wallace GS; Centers for Disease Control and Prevention.Prevention of measles, rubella, congenital rubella syndrome, and mumps, 2013: summary recommendations of the Advisory Committee on Immunization Practices (ACIP) [published correction appears inMMWR Recomm Rep. 2015 Mar 13;64(9):259].MMWR Recomm Rep.2013;62(RR-04):1-34.
+1.McLean HQ, Fiebelkorn AP, Temte JL, Wallace GS; Centers for Disease Control and Prevention.Prevention of measles, rubella, congenital rubella syndrome, and mumps, 2013: summary recommendations of the Advisory Committee on Immunization Practices (ACIP) [published correction appears inMMWR Recomm Rep. 2015 Mar 13;64(9):259].MMWR Recomm Rep.2013;62(RR-04):1-34.
+母亲风疹感染，特别是在孕早期，可能导致子宫内生长受限和严重的发育异常。
+母亲风疹感染，特别是在孕早期，可能导致子宫内生长受限和严重的发育异常。
+常规的风疹疫苗接种使先天性风疹在美国罕见。
+常规的风疹疫苗接种使先天性风疹在美国罕见。
+风疹疫苗在妊娠期禁用，因此患有风疹或接触过风疹的孕妇应被告知对胎儿的潜在风险。
+风疹疫苗在妊娠期禁用，因此患有风疹或接触过风疹的孕妇应被告知对胎儿的潜在风险。

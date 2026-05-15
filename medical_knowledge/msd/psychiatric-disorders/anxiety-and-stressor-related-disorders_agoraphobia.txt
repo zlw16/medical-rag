@@ -1,0 +1,62 @@
+标题：场所恐惧症
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/anxiety-and-stressor-related-disorders/agoraphobia
+============================================================
+
+(参见焦虑障碍概述。)
+广场恐怖症是惊恐障碍的常见后果，但这两种障碍也可以独立发展。
+广场恐惧症在特定年份影响约2%的人口，在女性中更为常见（1)。广场恐怖症通常发生在青少年和青年时期，但也可能发生在老年人身上，尤其是在担心安全和自身身体限制的情况下。
+
+【参考文献】
+1.Roest AM,  de Vries YA,  Lim CCW, et al: A comparison of DSM-5 and DSM-IV agoraphobia in the World Mental Health Surveys.Depress Anxiety36(6):499-510, 2019. doi: 10.1002/da.22885
+1.Roest AM,  de Vries YA,  Lim CCW, et al: A comparison of DSM-5 and DSM-IV agoraphobia in the World Mental Health Surveys.Depress Anxiety36(6):499-510, 2019. doi: 10.1002/da.22885
+
+【广场恐惧症的症状和体征】
+引起广场恐惧症患者恐惧和焦虑的情况或地点的常见例子包括离开家、排队、坐在剧院或教室的长排中间，以及使用公共交通工具，例如公共汽车或飞机。有些人因恐慌发作而患上广场恐惧症，从而避免恐慌的潜在诱因。广场恐惧症可能相对较轻，但也会使人衰弱，以至于基本上足不出户。
+正如其他焦虑症一样，广场恐惧症的症状可能会在严重程度上忽高忽低。
+
+【广场恐惧症的诊断】
+《精神障碍诊断与统计手册》，第五版文本修订版（DSM-5-TR）标准
+《精神障碍诊断与统计手册》，第五版文本修订版（DSM-5-TR）标准
+根据DSM-5-TR诊断标准，患者必须存在显着持久的（≥6个月）恐惧或焦虑，并存在≥2项下列情形（1）：
+使用公共交通
+使用公共交通
+置身于开放空间（如停车场，商场）
+置身于开放空间（如停车场，商场）
+置身于一个封闭空间（如商店，剧院）
+置身于一个封闭空间（如商店，剧院）
+排队或在人群中
+排队或在人群中
+独自外出
+独自外出
+恐惧的内容表现为担心受困或惊恐发作时难以逃脱或无法及时获得帮助。另外，应存在以下所有情况：
+同样的场所几乎总是引起恐惧或焦虑。
+同样的场所几乎总是引起恐惧或焦虑。
+患者主动回避的场所和/或需要陪伴。
+患者主动回避的场所和/或需要陪伴。
+恐惧或焦虑与实际威胁不符（考虑到社会文化规范）。
+恐惧或焦虑与实际威胁不符（考虑到社会文化规范）。
+恐惧，焦虑，和/或回避造成显著的痛苦或显著损害社会或职业功能。
+恐惧，焦虑，和/或回避造成显著的痛苦或显著损害社会或职业功能。
+如果存在其他疾病（如炎症性肠病、帕金森病），恐惧、焦虑和/或回避显然是过度的。
+如果存在其他疾病（如炎症性肠病、帕金森病），恐惧、焦虑和/或回避显然是过度的。
+另外，恐惧和焦虑不符合其他精神障碍（例如，社交焦虑症，躯体变形障碍）。
+
+【诊断参考文献】
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision DSM-5-TR.American Psychiatric Association Publishing, Washington, DC, pp 246-250.
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision DSM-5-TR.American Psychiatric Association Publishing, Washington, DC, pp 246-250.
+
+【广场恐怖症的治疗】
+认知行为疗法（CBT）
+认知行为疗法（CBT）
+暴露疗法
+暴露疗法
+选择性5-羟色胺再摄取抑制剂（SSRI）
+选择性5-羟色胺再摄取抑制剂（SSRI）
+基于最充分的证据，最有效的治疗方法是采用 CBT 原则的暴露疗法（1)。广场恐惧症可能无需正式治疗即可消退，可能是因为一些受影响的人进行了自己的暴露疗法，也因为焦虑症状（和诱发压力源）随时间波动。
+许多广场恐惧症患者也可从 SSRI 药物治疗中获益（2）。
+
+【治疗参考文献】
+1.Carpenter JK, Andrews LA, Witcraft SM, et al: Cognitive behavioral therapy for anxiety and related disorders: A meta-analysis of randomized placebo-controlled trials.Depress Anxiety35(6):502-514, 2018. doi: 10.1002/da.22728
+1.Carpenter JK, Andrews LA, Witcraft SM, et al: Cognitive behavioral therapy for anxiety and related disorders: A meta-analysis of randomized placebo-controlled trials.Depress Anxiety35(6):502-514, 2018. doi: 10.1002/da.22728
+2.Chawla N, Anothaisintawee T, Charoenrungrueangchai K, et al: Drug treatment for panic disorder with or without agoraphobia: Systematic review and network meta-analysis of randomised controlled trials.BMJ376:e066084, 2022.doi: 10.1136/bmj-2021-066084
+2.Chawla N, Anothaisintawee T, Charoenrungrueangchai K, et al: Drug treatment for panic disorder with or without agoraphobia: Systematic review and network meta-analysis of randomised controlled trials.BMJ376:e066084, 2022.doi: 10.1136/bmj-2021-066084

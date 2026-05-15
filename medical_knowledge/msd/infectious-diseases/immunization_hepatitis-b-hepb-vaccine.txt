@@ -1,0 +1,98 @@
+标题：乙型肝炎(HepB)疫苗
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/immunization/hepatitis-b-hepb-vaccine
+============================================================
+
+美国有3种单独的重组乙型肝炎（HepB）疫苗和3种组合乙型肝炎疫苗（HepB/HepA、DTaP/HepB/IPV和DTaP/HipB/Hib/IPV）。在一项荟萃分析中，发现这些疫苗诱导的免疫回忆反应率（即，在第二次接种加强剂量疫苗后显示出强烈二抗反应的比例）为> 90%，欧洲和亚洲的发生率最高（1）。高免疫应答率可预防完成疫苗接种系列的人群中的原发性感染或临床乙型肝炎。然而，免疫力会随时间减弱。HepB疫苗的广泛接种已导致全球范围内病毒诱导的肝硬化及肝细胞癌发病率下降（2）。
+(参见疫苗接种概述。)
+
+【参考文献】
+1.Ramrakhiani H, Le MH, Kam L, et al.Long-Term Immunity and Anamnestic Response Following Hepatitis B Vaccination: A Systematic Review and Meta-Analysis.J Viral Hepat.2025;32(2):e70003.doi:10.1111/jvh.70003
+1.Ramrakhiani H, Le MH, Kam L, et al.Long-Term Immunity and Anamnestic Response Following Hepatitis B Vaccination: A Systematic Review and Meta-Analysis.J Viral Hepat.2025;32(2):e70003.doi:10.1111/jvh.70003
+2.Mahmood F, Xu R, Awan MUN, et al.HBV Vaccines: Advances and Development.Vaccines (Basel).2023;11(12):1862.Published 2023 Dec 18.doi:10.3390/vaccines11121862
+2.Mahmood F, Xu R, Awan MUN, et al.HBV Vaccines: Advances and Development.Vaccines (Basel).2023;11(12):1862.Published 2023 Dec 18.doi:10.3390/vaccines11121862
+
+【乙型肝炎疫苗的制备】
+乙型肝炎疫苗采用重组DNA技术生产。 含有乙肝表面抗原(HBsAg)基因的质粒被转染到普通的面包酵母菌，然后产生乙肝表面抗原。  然后收获和纯化HBsAg。  这种疫苗不能引起乙肝病毒感染，因为此过程不产生潜在的感染性病毒DNA或完整病毒颗粒。
+有几种疫苗可用。两种单独的重组（单抗原）疫苗与铝结合。
+一种佐剂重组制剂含有免疫刺激佐剂胞苷-磷酸-鸟苷寡聚脱氧核苷酸 (CpG-ODN)。
+另有联合疫苗制剂（HepA/HepB、DTaP/HepB/IPV和DTaP/HepB/Hib/IPV）可供选择。
+
+【乙型肝炎疫苗的适应症】
+乙肝疫苗是一种常规的儿童疫苗，通常单独接种（新生儿）或以DTaP/HepB/Hib/IPV的组合疫苗接种（其他年龄段）（1）。
+乙肝疫苗也适用于所有19岁至59岁且未接种过疫苗的成年人（2）。
+乙型肝炎疫苗也适用于60岁及以上未接种过疫苗且有以下任何风险因素的成年人：
+性生活频繁的人群且性伴侣不固定（例如，此前6个月内有超过1名的性伴侣）
+性生活频繁的人群且性伴侣不固定（例如，此前6个月内有超过1名的性伴侣）
+需要评估或治疗性传播感染者
+需要评估或治疗性传播感染者
+目前或近期注射非法药物使用
+目前或近期注射非法药物使用
+男男性行为者
+男男性行为者
+暴露于血液或其他具有潜在感染风险的体液的工作者（如医疗保健、监护人或公共安全工作者）
+暴露于血液或其他具有潜在感染风险的体液的工作者（如医疗保健、监护人或公共安全工作者）
+终末期肾脏疾病人群（例如，正进行血液透析）
+终末期肾脏疾病人群（例如，正进行血液透析）
+HIV感染
+HIV感染
+慢性肝病（例如，丙型肝炎、肝硬化、脂肪肝、酒精相关性肝病、自身免疫性肝炎或丙氨酸转氨酶 [ALT] 或天冬氨酸转氨酶 [AST] 水平高于正常上限两倍的人）
+慢性肝病（例如，丙型肝炎、肝硬化、脂肪肝、酒精相关性肝病、自身免疫性肝炎或丙氨酸转氨酶 [ALT] 或天冬氨酸转氨酶 [AST] 水平高于正常上限两倍的人）
+家庭接触和/或与乙肝表面抗原阳性者有性接触（HBsAg）
+家庭接触和/或与乙肝表面抗原阳性者有性接触（HBsAg）
+前往疫区旅行
+前往疫区旅行
+在监狱或提供性传播疾病治疗的机构、HIV检测和治疗机构、药物滥用治疗和预防服务机构、为注射吸毒人群和男男性行为人群提供服务机构或照顾发育障碍人群或终末期肾病人群（包括那些长期接受血液透析的人）的机构中度过较多时间的人群（如病人、居民或工作人员）
+在监狱或提供性传播疾病治疗的机构、HIV检测和治疗机构、药物滥用治疗和预防服务机构、为注射吸毒人群和男男性行为人群提供服务机构或照顾发育障碍人群或终末期肾病人群（包括那些长期接受血液透析的人）的机构中度过较多时间的人群（如病人、居民或工作人员）
+60 岁或以上且没有已知乙肝病毒感染风险因素的成年人可以接种乙肝疫苗系列。任何 60 岁或以上的成年人如果要求接种乙肝疫苗，都应接种乙肝疫苗系列。
+对于 60 岁及以上的糖尿病患者，是否接种乙肝疫苗应基于共同的临床决策 (3)。
+甲肝和乙肝的联合疫苗可应用于≥18岁且符合甲肝疫苗或乙肝疫苗适应症，并且未曾接种其中任一疫苗成分的人群。
+
+【适应症参考文献】
+1.Centers for Disease Control and Prevention (CDC).Child and Adolescent Immunization Schedule by Age.Accessed September 23, 2025.
+1.Centers for Disease Control and Prevention (CDC).Child and Adolescent Immunization Schedule by Age.Accessed September 23, 2025.
+2.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+2.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+3.Weng MK, Doshani M, Khan MA, et al.Universal Hepatitis B Vaccination in Adults Aged 19-59 Years: Updated Recommendations of the Advisory Committee on Immunization Practices - United States, 2022.MMWR Morb Mortal Wkly Rep.2022;71(13):477-483.Published 2022 Apr 1.doi:10.15585/mmwr.mm7113a1
+3.Weng MK, Doshani M, Khan MA, et al.Universal Hepatitis B Vaccination in Adults Aged 19-59 Years: Updated Recommendations of the Advisory Committee on Immunization Practices - United States, 2022.MMWR Morb Mortal Wkly Rep.2022;71(13):477-483.Published 2022 Apr 1.doi:10.15585/mmwr.mm7113a1
+
+【乙肝疫苗的禁忌症和注意事项】
+HepB疫苗的主要禁忌证为：
+既往接种后出现严重过敏反应（如过敏性休克）
+既往接种后出现严重过敏反应（如过敏性休克）
+对面包酵母或任何疫苗成分过敏
+对面包酵母或任何疫苗成分过敏
+HepB疫苗的主要注意事项如下：
+伴或不伴发热的中度或重度疾病（接种推迟到疾病治愈后进行）
+伴或不伴发热的中度或重度疾病（接种推迟到疾病治愈后进行）
+
+【乙型肝炎疫苗的剂量和给药】
+个体重组HepB疫苗的剂量为：20岁以下人群0.5 mL肌注，成人（≥20岁）1 mL肌注。对于≥18岁的成人，佐剂重组制剂的剂量为0.5毫升肌肉注射。
+婴儿HepB疫苗接种采用3剂程序：出生后不久、2月龄、以及6至18月龄各1剂。首剂仅含HepB；但在2月龄及6至18月龄时，美国推荐优先使用DTaP/HepB/Hib/IPV联合疫苗。
+出生时未接种的婴儿应尽快开始该疫苗系列接种。 早产儿仍然可以对大多数疫苗产生保护性反应，并且应该遵循与足月婴儿相同的疫苗定期施打疫苗。但出生体重＜2kg的早产儿抗体反应往往较弱。这类婴儿的首剂HepB疫苗应推迟至出院时或满1月龄后接种。若首剂在＜1月龄时接种，则需额外补种3剂。关于预防HBsAg阳性或状态不明母亲所产婴儿的疑似围产期乙肝传播，参见新生儿HBV感染预防（1）。
+所有未接种过乙肝疫苗的儿童，应在11至15岁期间完成接种（2）。 对于接种3次的方案：第1次和第2次间隔≥4周，第3次接种应在第2次接种后4-6月内完成。 然而， 仅需接种2次的Recombivax HB疫苗方案可以将第2次接种放在第1次接种后的4-6月内完成。
+19岁至59岁的成年人如果以前没有接种过疫苗，应该完成2-或3-或4-剂量的系列疫苗。成人使用重组疫苗的常规方案是分3剂注射，其中前2剂间隔≥4周，第三剂在第2剂后4至6个月注射。重组佐剂疫苗需接种2剂，间隔至少4周。
+由于缺乏妊娠期使用的安全性数据，所以妊娠期间不应给予HepB-CpG。
+接受血液透析治疗的未接种疫苗的成年人需要更高剂量的重组非佐剂疫苗（3）。
+如果未接种疫苗或未能完成全部的疫苗接种，应补全遗漏的疫苗，以满足一共三次的乙肝疫苗免疫方案。 60 岁或以上且没有已知风险因素并要求接种疫苗的成年人也可以接种 3 剂乙肝疫苗。 在第一剂后1个月后给予第二剂，第三剂应在第二剂后≥ 2个月给予（同时应保证在第一剂之后 ≥ 4个月）。 如果使用甲型肝炎/乙型肝炎联合疫苗，3次接种时间分别是0、1和6个月，或4次接种时间分别为0天、7天和21至30天，随后在第12个月时进行加强接种。 如果未完成免疫接种的完整计划且失访，并不需要重新开始全部方案的接种。
+
+【剂量和给药参考】
+1.Mast EE, Margolis HS, Fiore AE, et al.A comprehensive immunization strategy to eliminate transmission of hepatitis B virus infection in the United States: recommendations of the Advisory Committee on Immunization Practices (ACIP) part 1: immunization of infants, children, and adolescents [published correction appears inMMWR Morb Mortal Wkly Rep. 2006 Feb 17;55(6):158-9] [published correction appears inMMWR Morb Mortal Wkly Rep. 2007 Dec 7;56(48):1267].MMWR Recomm Rep.2005;54(RR-16):1-31.
+1.Mast EE, Margolis HS, Fiore AE, et al.A comprehensive immunization strategy to eliminate transmission of hepatitis B virus infection in the United States: recommendations of the Advisory Committee on Immunization Practices (ACIP) part 1: immunization of infants, children, and adolescents [published correction appears inMMWR Morb Mortal Wkly Rep. 2006 Feb 17;55(6):158-9] [published correction appears inMMWR Morb Mortal Wkly Rep. 2007 Dec 7;56(48):1267].MMWR Recomm Rep.2005;54(RR-16):1-31.
+2.Centers for Disease Control and Prevention (CDC).Catch-up Immunization Schedule for Children and Adolescents.Accessed September 23, 2025.
+2.Centers for Disease Control and Prevention (CDC).Catch-up Immunization Schedule for Children and Adolescents.Accessed September 23, 2025.
+3.Weng MK, Doshani M, Khan MA, et al.Universal Hepatitis B Vaccination in Adults Aged 19-59 Years: Updated Recommendations of the Advisory Committee on Immunization Practices - United States, 2022.MMWR Morb Mortal Wkly Rep.2022;71(13):477-483.Published 2022 Apr 1.doi:10.15585/mmwr.mm7113a1
+3.Weng MK, Doshani M, Khan MA, et al.Universal Hepatitis B Vaccination in Adults Aged 19-59 Years: Updated Recommendations of the Advisory Committee on Immunization Practices - United States, 2022.MMWR Morb Mortal Wkly Rep.2022;71(13):477-483.Published 2022 Apr 1.doi:10.15585/mmwr.mm7113a1
+
+【乙型肝炎疫苗的不良反应】
+严重的不良反应罕见，包括过敏性休克。
+轻微反应包括注射部位疼痛、发红和肿胀。偶见体温升至约38°C、可能出现乏力、头痛和不适，通常程度轻微且短暂。
+有关这些疫苗不良反应的更多信息，请参阅prescribing information（药品说明书）。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Hepatitis B Vaccine
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Hepatitis B Vaccine
+Centers for Disease Control and Prevention (CDC):Clinical Information on Hepatitis B
+Centers for Disease Control and Prevention (CDC):Clinical Information on Hepatitis B
+European Centre for Disease Prevention and Control (ECDC):Hepatitis B: Recommended vaccinations
+European Centre for Disease Prevention and Control (ECDC):Hepatitis B: Recommended vaccinations

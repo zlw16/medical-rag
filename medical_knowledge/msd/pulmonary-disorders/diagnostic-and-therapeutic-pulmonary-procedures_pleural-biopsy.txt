@@ -1,0 +1,21 @@
+标题：胸膜活检
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/diagnostic-and-therapeutic-pulmonary-procedures/pleural-biopsy
+============================================================
+
+当胸腔穿刺不能明确诊断时，可行胸膜活检以确定渗出性、单核细胞或以淋巴细胞为主的胸腔积液的病因。
+经皮胸膜活检在结核病中的诊断阳性率显著高于胸膜肿瘤（1）。实验室技术的改进、胸腔积液的新型诊断检测方法（如腺苷脱氨酶水平、γ-干扰素、针对疑似结核病的聚合酶链反应检测），以及胸腔镜检查的更广泛应用，往往可免除胸膜活检。
+经皮胸膜活检只可由肺科医生或受过专门训练的外科医生操作。患者要求能良好配合操作且无凝血功能障碍。
+经皮胸膜活检技术与胸腔穿刺术的技术基本相同，可以在床边完成；无需对患者进行特殊的额外准备。通常采用超声或 CT 引导（2，3）。经一个皮肤穿刺点，于切割针的3点、6点、9点钟处取至少3块标本，进行组织学检查和培养。
+胸膜活检后出现并发症的危险性较高，故活检后应行胸部X线检查，其并发症同胸腔穿刺术，但气胸和血胸的发生率较高 (4,5) 。
+
+【参考文献】
+1.Koegelenberg CF, Diacon AH.Pleural controversy: close needle pleural biopsy or thoracoscopy-which first?Respirology.2011;16(5):738-746.doi:10.1111/j.1440-1843.2011.01973.x
+1.Koegelenberg CF, Diacon AH.Pleural controversy: close needle pleural biopsy or thoracoscopy-which first?Respirology.2011;16(5):738-746.doi:10.1111/j.1440-1843.2011.01973.x
+2.Bibby AC, Maskell NA.Pleural biopsies in undiagnosed pleural effusions; Abrams vs image-guided vs thoracoscopic biopsies.Curr Opin Pulm Med.2016;22(4):392-398.doi:10.1097/MCP.0000000000000258
+2.Bibby AC, Maskell NA.Pleural biopsies in undiagnosed pleural effusions; Abrams vs image-guided vs thoracoscopic biopsies.Curr Opin Pulm Med.2016;22(4):392-398.doi:10.1097/MCP.0000000000000258
+3.Mei F, Bonifazi M, Rota M, et al.Diagnostic Yield and Safety of Image-Guided Pleural Biopsy: A Systematic Review and Meta-Analysis.Respiration.2021;100(1):77-87.doi:10.1159/000511626
+3.Mei F, Bonifazi M, Rota M, et al.Diagnostic Yield and Safety of Image-Guided Pleural Biopsy: A Systematic Review and Meta-Analysis.Respiration.2021;100(1):77-87.doi:10.1159/000511626
+4.Feller-Kopman DJ, Reddy CB, DeCamp MM, et al.Management of Malignant Pleural Effusions.An Official ATS/STS/STR Clinical Practice Guideline.Am J Respir Crit Care Med.2018;198(7):839-849.doi:10.1164/rccm.201807-1415ST
+4.Feller-Kopman DJ, Reddy CB, DeCamp MM, et al.Management of Malignant Pleural Effusions.An Official ATS/STS/STR Clinical Practice Guideline.Am J Respir Crit Care Med.2018;198(7):839-849.doi:10.1164/rccm.201807-1415ST
+5.Weinand JT, du Pisanie L, Ngeve S, Commander C, Yu H.Pneumothorax after computed tomography-guided lung biopsy: Utility of immediate post-procedure computed tomography and one-hour delayed chest radiography.PLoS One.2023;18(4):e0284145.doi:10.1371/journal.pone.0284145
+5.Weinand JT, du Pisanie L, Ngeve S, Commander C, Yu H.Pneumothorax after computed tomography-guided lung biopsy: Utility of immediate post-procedure computed tomography and one-hour delayed chest radiography.PLoS One.2023;18(4):e0284145.doi:10.1371/journal.pone.0284145

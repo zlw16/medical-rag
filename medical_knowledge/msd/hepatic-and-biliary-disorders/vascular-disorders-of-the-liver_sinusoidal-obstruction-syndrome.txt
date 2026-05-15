@@ -1,0 +1,53 @@
+标题：肝窦阻塞综合征
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/vascular-disorders-of-the-liver/sinusoidal-obstruction-syndrome
+============================================================
+
+（参见肝脏血管疾病的概述）
+静脉淤血可导致门脉高压和缺血性坏死（可引起肝硬化）。
+
+【肝窦阻塞综合征的病因】
+常见原因包括
+骨髓（或造血干细胞）移植所致的移植物抗宿主病
+骨髓（或造血干细胞）移植所致的移植物抗宿主病
+野百合属和千里光属植物（例如药用灌木茶）中的吡咯啶 生物碱和其他中草药（例如紫草）
+野百合属和千里光属植物（例如药用灌木茶）中的吡咯啶 生物碱和其他中草药（例如紫草）
+其他肝毒性物质（例如二甲基999亚硝胺、黄曲霉毒素、硫唑嘌呤和某些抗癌药物）
+其他肝毒性物质（例如二甲基999亚硝胺、黄曲霉毒素、硫唑嘌呤和某些抗癌药物）
+
+【经验与提示】
+经验与提示
+询问不明原因肝脏异常的患者，其有无使用草药和天然产品（包括灌木和草本茶）和合成代谢类固醇（可引起肝紫斑病）。
+询问不明原因肝脏异常的患者，其有无使用草药和天然产品（包括灌木和草本茶）和合成代谢类固醇（可引起肝紫斑病）。
+
+【肝窦阻塞综合征的症状和体征】
+最初可表现为突发性黄疸、腹水和压痛的光滑的肝肿大。骨髓或造血干细胞移植患者多在3周内出现症状，可在数周内自行恢复（轻型病例可能对免疫抑制剂的增加有反应）或死于暴发性肝衰竭。其他的静脉闭塞性疾病患者可出现复发性腹水、门脉高压，脾大，最终进展至肝硬化。
+
+【肝窦阻塞综合征的诊断】
+临床评估和肝脏检查
+临床评估和肝脏检查
+超声检查
+超声检查
+有时需侵入性检查（如肝活检、检测门静脉-肝静脉压力梯度）
+有时需侵入性检查（如肝活检、检测门静脉-肝静脉压力梯度）
+对于具有原因不明的肝病的临床表现或实验室检查的患者，尤其对于已知的高危患者，如骨髓或造血干细胞移 植患者要怀疑该病。
+化验结果是非特异性：氨基转移酶和结合胆红素水平增高。 当疾病严重时，凝血酶原时间/国际标准化比值 (PT/INR) 变得异常。 超声检查可显示门静脉血流逆流。
+如果诊断不明确， 则肝活检和门肝静脉压力梯度的测量可以明确（压力梯度>10 mm Hg符合窦阻塞综合征）。测量这个经肝的压力需要经皮插入导管至肝静脉，然后 楔入到肝脏。该楔压反映了门静脉压力。（一个例外是门静脉血栓形成;在这种情况下，压力是正常的，尽管有门静脉高压。）
+
+【肝窦阻塞综合征的治疗】
+支持治疗
+支持治疗
+对因治疗
+对因治疗
+对进展性患者，可行经颈静脉门体分流或肝移植
+对进展性患者，可行经颈静脉门体分流或肝移植
+熊去氧胆酸有助于防止骨髓移植或造血干细胞移植患者发生移植物宿主病(1, 2)。
+治疗包括祛除病因（如草药茶）和支持治疗。去纤维肽是一种单链寡脱氧核糖核苷酸的钠盐，已被证明可以保护内皮细胞免于进一步激活，并且可以考虑用于使造血干细胞移植复杂化的血窦阻塞综合征患者 (3)。
+大多数患者的疾病轻度至中度，一般情况良好。经颈静脉肝内门体分流（TIPS）可以尝试缓解门脉高压，但不能延长生存期，尤其是肝窦阻塞综合征较为严重shi。 25% 的窦性阻塞综合征很严重，伴有暴发性肝功能衰竭。肝移植是高度选择的患者的最后手段。
+
+【治疗参考文献】
+1.Northup PG, Garcia-Pagan JC, Garcia-Tsao G, et al: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Patients With Liver Disease: 2020 Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology73(1):366-413, 2021.doi: 10.1002/hep.31646
+1.Northup PG, Garcia-Pagan JC, Garcia-Tsao G, et al: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Patients With Liver Disease: 2020 Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology73(1):366-413, 2021.doi: 10.1002/hep.31646
+2.Tay J, Tinmouth A, Fergusson D, et al: Systematic review of controlled clinical trials on the use of ursodeoxycholic acid for the prevention of hepatic veno-occlusive disease in hematopoietic stem cell transplantation.Biol Blood Marrow Transplant13(2):206-17, 2007.doi: 10.1016/j.bbmt.2006.09.012
+2.Tay J, Tinmouth A, Fergusson D, et al: Systematic review of controlled clinical trials on the use of ursodeoxycholic acid for the prevention of hepatic veno-occlusive disease in hematopoietic stem cell transplantation.Biol Blood Marrow Transplant13(2):206-17, 2007.doi: 10.1016/j.bbmt.2006.09.012
+3.Richardson PG, Riches ML, Kernan NA, et al: Phase 3 trial of defibrotide for the treatment of severe veno-occlusive disease and multi-organ failure.Blood27(13):1656-1665, 2016. doi: 10.1182/blood-2015-10-676924
+3.Richardson PG, Riches ML, Kernan NA, et al: Phase 3 trial of defibrotide for the treatment of severe veno-occlusive disease and multi-organ failure.Blood27(13):1656-1665, 2016. doi: 10.1182/blood-2015-10-676924

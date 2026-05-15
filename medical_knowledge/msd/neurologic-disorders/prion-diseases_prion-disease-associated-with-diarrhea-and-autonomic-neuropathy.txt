@@ -1,0 +1,19 @@
+标题：朊病毒病相关腹泻及自主神经病
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/prion-diseases/prion-disease-associated-with-diarrhea-and-autonomic-neuropathy
+============================================================
+
+（参见朊病毒病的概述。）
+2013年在一个英国大家庭中发现了与腹泻和自主神经病变相关的朊病毒疾病 (1) 。在意大利一个家庭中也报道了类似的疾病。
+这种病不同于其他朊病毒病，因为
+朊病毒淀粉样蛋白不仅存在于中枢神经系统，而是分布在周围神经及内脏器官中；因此，开始主要表现为周围症状，到疾病后期才出现中枢神经系统症状。
+朊病毒淀粉样蛋白不仅存在于中枢神经系统，而是分布在周围神经及内脏器官中；因此，开始主要表现为周围症状，到疾病后期才出现中枢神经系统症状。
+本病与朊病毒基因中一个新的突变（意大利家庭中的Y163X突变，Y162X突变）相关，它可以切断突变的朊病毒蛋白；突变的蛋白因此缺少了将它们拴到细胞膜上的锚，这有利于朊病毒蛋白在体液中漂浮并迁移到其他组织。
+本病与朊病毒基因中一个新的突变（意大利家庭中的Y163X突变，Y162X突变）相关，它可以切断突变的朊病毒蛋白；突变的蛋白因此缺少了将它们拴到细胞膜上的锚，这有利于朊病毒蛋白在体液中漂浮并迁移到其他组织。
+这种新的朊病毒病表明，一种新的突变可以从根本上改变异常蛋白沉积的位置和疾病的临床症状，而且提示我们，对于不明原因的慢性腹泻和神经病变或是那些具有与家族性淀粉样多发性神经病变（导致自主神经及周围神经病变）类似症状的不明原因综合症，诊断时也应考虑朊病毒病。
+本病的症状开始于成年早期；包括慢性水样泻、自主神经功能衰竭（如尿潴留、尿失禁、体位性低血压）以及主要累及感觉的周围神经病。患者的认知能力下降和癫痫发作通常发生在40多岁到50多岁。
+本病在起病后的数十年内逐渐发展；患者在症状产生后能存活的最长时间达30年。
+本病的治疗方法只是对症处理。
+
+【参考文献】
+1.Mead S, Gandhi S, Beck J, et al: A novel prion disease associated with diarrhea and autonomic neuropathy.N Engl J Med369(20):1904-1914, 2013.doi: 10.1056/NEJMoa1214747.Erratum in:N Engl J Med370(2):188, 2014.Gallujipali D [corrected to Gajulapalli D].
+1.Mead S, Gandhi S, Beck J, et al: A novel prion disease associated with diarrhea and autonomic neuropathy.N Engl J Med369(20):1904-1914, 2013.doi: 10.1056/NEJMoa1214747.Erratum in:N Engl J Med370(2):188, 2014.Gallujipali D [corrected to Gajulapalli D].

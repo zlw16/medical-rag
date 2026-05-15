@@ -1,0 +1,111 @@
+标题：川崎病
+来源：https://www.msdmanuals.cn/professional/pediatrics/rheumatologic-disorders-in-children/kawasaki-disease
+============================================================
+
+川崎病是中等动脉血管炎，最显著的是冠状动脉受累，约25％的未治疗患者会出现冠状动脉异常 （1）。
+川崎病是儿童后天获得性心脏病的主要原因。早期心脏表现包括急性心肌炎伴心力衰竭、心律失常、心内膜炎和心包炎。随后可能形成冠状动脉瘤。巨大冠状动脉瘤（超声心动图显示内径>≥8mm），尽管少见，但具有导致心包填塞、血栓形成或心肌梗死的最大风险。
+血管外组织也可能发生炎症，包括上呼吸道、胰腺、胆道、肾脏、黏膜和淋巴结。
+
+【参考文献】
+1.McCrindle BW, Rowley AH, Newburger JW, et al.Diagnosis, Treatment, and Long-Term Management of Kawasaki Disease: A Scientific Statement for Health Professionals From the American Heart Association [published correction appears inCirculation. 2019 Jul 30;140(5):e181-e184. doi: 10.1161/CIR.0000000000000703].Circulation.2017;135(17):e927-e999.doi:10.1161/CIR.0000000000000484
+1.McCrindle BW, Rowley AH, Newburger JW, et al.Diagnosis, Treatment, and Long-Term Management of Kawasaki Disease: A Scientific Statement for Health Professionals From the American Heart Association [published correction appears inCirculation. 2019 Jul 30;140(5):e181-e184. doi: 10.1161/CIR.0000000000000703].Circulation.2017;135(17):e927-e999.doi:10.1161/CIR.0000000000000484
+
+【川崎病的病因】
+川崎病的病因尚不清楚，但流行病学和临床表现提示本病是一种感染或更可能是一种免疫反应异常，患儿常具有遗传易感性。
+日本血统的儿童发病率特别高，但川崎病在世界各地都有发生。在美国每年有4000～5500人患此疾病 (1)。男：女比例约为1.5:1。80%的患者年龄<5 岁（高峰期，6 至 24 个月）。青少年、成人和<4个月婴儿的病例的很少见。
+全年均可发病，最常见于春季或冬季。在没有明确证据表明人际传播的社区中出现了群集。 约2％的患者复发，通常在数月至数年后。 没有已知的有效预防措施。
+
+【病因参考文献】
+1.Committee on Infectious Diseases, American Academy of Pediatrics, Kimberlin DW, Banerjee R, Barnett ED, Lynfield R, Sawyer MH:Red Book: 2024–2027 Report of the Committee on Infectious Diseases, ed.33, 2024. doi:10.1542/9781610027359-TAB
+1.Committee on Infectious Diseases, American Academy of Pediatrics, Kimberlin DW, Banerjee R, Barnett ED, Lynfield R, Sawyer MH:Red Book: 2024–2027 Report of the Committee on Infectious Diseases, ed.33, 2024. doi:10.1542/9781610027359-TAB
+
+【川崎病的症状和体征】
+这种疾病往往分为三个阶段：急性期、亚急性期和恢复期。
+急性期以至少持续5天的发热为起始，体温通常≥38.0°℃（约100.4℉）且持续不退。发烧伴有烦躁、偶尔嗜睡或间歇性腹绞痛。常于发热当天或2天内出现双侧结膜充血，但无渗出。
+5日内出现多形性红斑，主要见于躯干，尤其是会阴区，皮疹的形态各异。皮疹可能表现为荨麻疹样、麻疹样、多形性红斑或猩红热样。伴有咽部充血；口唇红、干、皲裂；红色草莓舌。
+这张照片显示下躯干出现多形性、红斑性、斑疹样皮疹，并向会阴区域延伸加重。
+© Springer Science+Business Media
+这个舌头是红斑的，有明显的乳头状突起。
+SCIENCE PHOTO LIBRARY
+在起病1周内在指（趾）甲的近端部位出现明显的苍白（部分性白甲病）。起病后约第3至5天，手掌、足底出现不同程度的水肿并有红斑或呈紫红色。虽然水肿可能较轻，但通常质地紧张、坚实且无凹陷。急性期以发烧消退而结束。
+亚急性期从发烧结束一直持续到大约第25天。甲周、掌、足底和会阴脱屑开始于第10天左右。皮肤的表层有时会脱落成大片，露出新的正常皮肤。可能存在关节炎、关节痛和血小板增多症。约 33% 的患者会出现关节炎或关节痛（主要累及大关节）。
+心脏并发症通常于发病后1～4周，此时皮疹、发热和其他早期临床表现开始消退，进入亚急性阶段。然而，心脏表现可以在急性期出现。
+大约50%的患者在整个病程中会出现颈部非化脓性淋巴结肿大（≥1个淋巴结，≥1.5cm）。病程为2～12周，甚至更长。不完整或非典型病例可能发生，尤其在年龄较小的婴儿中，其发生冠状动脉疾病的风险更高。上述主要表现出现在90％的患儿中。
+其他非特异表现涉及许多器官系统。
+其他临床特征可能包括尿道炎、无菌性脑膜炎、肝炎、中耳炎、呕吐、腹泻、胆囊积水、上呼吸道症状和前葡萄膜炎。
+当临床症状消失时，恢复期开始，并持续到急性期开始后约6至8周。
+
+【川崎病的诊断】
+临床标准（发热≥5天及特征性体检结果）
+临床标准（发热≥5天及特征性体检结果）
+串行心电图和超声心动图
+串行心电图和超声心动图
+用于排除其他疾病的检测：全血细胞计数、红细胞沉降率、C反应蛋白、白蛋白、肝酶、咽拭子及血培养、尿液分析、胸部X线检查
+用于排除其他疾病的检测：全血细胞计数、红细胞沉降率、C反应蛋白、白蛋白、肝酶、咽拭子及血培养、尿液分析、胸部X线检查
+川崎病的诊断是根据临床标准（见表川崎病的诊断标准）（1）。
+类似的症状可能由猩红热、葡萄球菌剥脱综合征、麻疹、药物反应和全身性幼年特发性关节炎引起。不太常见的相似症状是钩端螺旋体病和落基山斑疹热。
+一种称为儿童多系统炎症综合征 (MIS-C) 的感染后炎症综合征已被观察为罕见的SARS-CoV-2 感染的并发症。MIS-C 的症状与川崎病相似。相似之处包括休克、红斑性皮疹、结膜炎、粘膜受累、淋巴结肿大和心脏改变。然而，与川崎病患儿相比，MIS-C患儿往往表现出更多的胃肠道（腹泻和呕吐）和神经系统（头痛）症状。此外，患有川崎病的儿童往往患有边缘结膜炎，并且年龄较小（通常在5岁以下）(2,3)。
+
+【川崎病诊断标准】
+川崎病诊断标准
+若发热≥38.0℃（约100.4℉）持续≥5天且符合以下5项标准中的4项即可确诊：
+1.双侧非渗出性结膜充血
+2.唇部、舌部或口腔黏膜的变化（充血、干燥、皲裂、草莓样红舌）
+3.周围四肢的变化（水肿、红斑、脱屑）
+4.多形躯干皮疹
+5.颈部淋巴结肿大（至少 1 个淋巴结直径≥1.5厘米）
+一些发热患儿，尤其是1岁以下的患儿，即使只有5项诊断标准中的不足4项，也可能出现血管炎并发症，包括冠状动脉瘤。这些儿童被认为有不典型（或不完全）的川崎病。如果儿童发热5天及以上，体温38.0°C及以上（约100.4°F），5条川崎病标准中有≥2条，应考虑非典型川崎病并进行检查。
+实验室检查不具有确诊性，但可除外其他疾病。患者通常会接受全血细胞计数、红细胞沉降率（ESR）、咽喉及血培养检查。
+急性期白细胞增多，常有未成熟（杆状）细胞显著增多。其他血液学所见包括在病程2～3周时出现轻度贫血、血小板增多（≥450,000/mcL [≥ 450,000 × 109/L]）和红细胞沉降率增快及C反应蛋白增加。抗核抗体、类风湿因子和培养结果通常为阴性。
+根据受累器官其他异常还包括：脓尿、肝酶活性增高、蛋白尿、血清白蛋白降低和脑脊液白细胞增多。
+请小儿心血管医生会诊是非常必要的。诊断时需进行心电图（ECG）和超声心动图检查。由于心血管异常直到疾病后期方有表现，所以应在病程第2～3周，6～8周以及6～12个月对所有病儿进行常规检查。心电图可以显示心律失常、低电压和左心室肥大。超声心动图可以检测冠状动脉瘤、瓣膜反流、心包炎、心肌炎。对疑有冠状动脉瘤以及心脏负荷试验异常者均应行冠状动脉造影检查。
+
+【诊断参考】
+1.McCrindle BW, Rowley AH, Newburger JW, et al.Diagnosis, Treatment, and Long-Term Management of Kawasaki Disease: A Scientific Statement for Health Professionals From the American Heart Association [published correction appears inCirculation. 2019 Jul 30;140(5):e181-e184. doi: 10.1161/CIR.0000000000000703].Circulation.2017;135(17):e927-e999.doi:10.1161/CIR.0000000000000484
+1.McCrindle BW, Rowley AH, Newburger JW, et al.Diagnosis, Treatment, and Long-Term Management of Kawasaki Disease: A Scientific Statement for Health Professionals From the American Heart Association [published correction appears inCirculation. 2019 Jul 30;140(5):e181-e184. doi: 10.1161/CIR.0000000000000703].Circulation.2017;135(17):e927-e999.doi:10.1161/CIR.0000000000000484
+2.Burney JA, Roberts SC, DeHaan LL, et al.Epidemiological and clinical features of Kawasaki disease during the COVID-19 pandemic in the United States.JAMA Netw Open.2022;5(6):e2217436.doi:10.1001/jamanetworkopen.2022.17436
+2.Burney JA, Roberts SC, DeHaan LL, et al.Epidemiological and clinical features of Kawasaki disease during the COVID-19 pandemic in the United States.JAMA Netw Open.2022;5(6):e2217436.doi:10.1001/jamanetworkopen.2022.17436
+3.Darby JB, Jackson JM.Kawasaki disease and multisystem inflammatory syndrome in children: An overview and comparison.Am Fam Physician.2021;104(3):244-252.
+3.Darby JB, Jackson JM.Kawasaki disease and multisystem inflammatory syndrome in children: An overview and comparison.Am Fam Physician.2021;104(3):244-252.
+
+【川崎病的治疗】
+静注免疫球蛋白（IVIG）
+静注免疫球蛋白（IVIG）
+高剂量的阿司匹林
+高剂量的阿司匹林
+频繁的心脏科随访
+频繁的心脏科随访
+患儿应由经验丰富的小儿心脏病专家、小儿传染病专家或小儿风湿病专家进行诊治，或在其密切会诊指导下接受治疗。
+因为患有非典型川崎病的婴儿患冠状动脉动脉瘤的风险很高，所以治疗不应延迟。治疗应尽早开始，最佳时机为发病后10天内，采用静脉注射免疫球蛋白（单剂2g/kg，持续10至12小时输注）联合大剂量口服阿司匹林的方案（1、2）。虽然在起病阿司匹林治疗的疗效尚不清楚，但仍应考虑治疗。由于输液量较大，心功能不全的患者可能需要采用替代方案（降低输液速率或将剂量分2天给予）进行静脉注射免疫球蛋白治疗。
+患儿退热4至5天后，阿司匹林剂量应减少；一些权威人士倾向于继续使用高剂量阿司匹林，直至患病第14天。在川崎病的急性期，阿司匹林的代谢不稳定，这在一定程度上解释了为何需要高剂量。一些权威机构在高剂量治疗期间监测血清阿司匹林，特别是如果治疗持续14天和/或IVIG治疗仍发烧。
+大多数病人在开始治疗的24小时内便见显著效果。少数患者持续发热数日，需重复使用静脉免疫球蛋白、糖皮质激素、英夫利昔单抗或联合用药。难治性疾病的治疗应在心脏病专家和风湿病专家的参与下进行。
+患儿症状缓解4至5天后，低剂量阿司匹林应持续使用至症状发作后至少8周，直至完成重复超声心动图检查。如果没有发生冠状动脉瘤而且炎症反应消退（表现为红细胞沉降率和血小板计数正常），就可以停用阿司匹林。由于阿司匹林具有抗血栓形成的作用，因此对伴有冠状动脉异常的患儿，应连续服用。 伴有巨大的冠状动脉瘤患儿，可能还需要额外的抗凝治疗（如，华法林钠或抗血小板药）。
+
+【并发症的预防和治疗】
+接受IVIG治疗的儿童对活病毒疫苗的反应率可能较低。因此，麻疹-腮腺炎-风疹疫苗一般应在IVIG治疗后延迟11个月，水痘疫苗应延迟≥11个月。如果受麻疹感染的机会很大，则仍可接种疫苗，但仍应11个月以后再进行复种（或进行血清学试验）。
+长期接受阿司匹林治疗的儿童在流感或水痘流行期间存在发生瑞氏综合征的小风险；因此，对于接受长期阿司匹林治疗的≥6月龄儿童，每年接种流感疫苗尤为重要，同时，对于适龄儿童或需要完成接种程序的儿童，应接种水痘疫苗。此外，接受阿司匹林治疗的儿童的父母应被告知，如果孩子接触到流感或水痘患者，或出现相关症状，应及时联系医生。可以考虑暂时中断阿司匹林治疗（有动脉瘤记录的儿童可以用双嘧达莫代替）。
+
+【治疗参考文献】
+1.McCrindle BW, Rowley AH, Newburger JW, et al.Diagnosis, Treatment, and Long-Term Management of Kawasaki Disease: A Scientific Statement for Health Professionals From the American Heart Association [published correction appears inCirculation. 2019 Jul 30;140(5):e181-e184. doi: 10.1161/CIR.0000000000000703].Circulation.2017;135(17):e927-e999.doi:10.1161/CIR.0000000000000484
+1.McCrindle BW, Rowley AH, Newburger JW, et al.Diagnosis, Treatment, and Long-Term Management of Kawasaki Disease: A Scientific Statement for Health Professionals From the American Heart Association [published correction appears inCirculation. 2019 Jul 30;140(5):e181-e184. doi: 10.1161/CIR.0000000000000703].Circulation.2017;135(17):e927-e999.doi:10.1161/CIR.0000000000000484
+2.Gorelik M, Chung SA, Ardalan K, et al.2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of Kawasaki Disease.Arthritis Rheumatol.2022;74(4):586-596.doi:10.1002/art.42041
+2.Gorelik M, Chung SA, Ardalan K, et al.2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of Kawasaki Disease.Arthritis Rheumatol.2022;74(4):586-596.doi:10.1002/art.42041
+
+【川崎病的预后】
+经适当治疗，美国死亡率约为0.17%（1）。长期发热增加心脏损害的风险。
+死亡最常见的原因是心脏并发症，并且可能是突然且不可预测的。有效的治疗可减轻急性期症状，特别重要的是使冠状动脉瘤的发生率从20%减少到<5%。
+无冠状动脉病变的患者预后极好。大约三分之二的冠状动脉瘤会在1年内消退；然而，尚不清楚是否仍有残余冠状动脉狭窄。巨大动脉瘤极少消退，应严密随访和治疗。
+
+【预后参考】
+1.Chang RK.Hospitalizations for Kawasaki disease among children in the United States, 1988-1997.Pediatrics.2002;109(6):e87.doi:10.1542/peds.109.6.e87
+1.Chang RK.Hospitalizations for Kawasaki disease among children in the United States, 1988-1997.Pediatrics.2002;109(6):e87.doi:10.1542/peds.109.6.e87
+川崎病是一种病因未明的儿童系统性血管炎，也是导致儿童获得性心脏病的首要原因。
+川崎病是一种病因未明的儿童系统性血管炎，也是导致儿童获得性心脏病的首要原因。
+最严重并发症累及心脏，包括急性心肌炎合并心衰、心律失常和冠状动脉瘤。
+最严重并发症累及心脏，包括急性心肌炎合并心衰、心律失常和冠状动脉瘤。
+儿童有发烧、皮疹（后来脱屑）、口腔和眼结膜发炎、淋巴结病，可能发生具有较少这些经典标准的非典型病例。
+儿童有发烧、皮疹（后来脱屑）、口腔和眼结膜发炎、淋巴结病，可能发生具有较少这些经典标准的非典型病例。
+诊断标准为发热38.0°C及以上（约100.4°F）持续≥5天及以上并具有特征性体检表现；符合标准的儿童应进行系列心电图和超声心动图检查，并咨询专科医生。
+诊断标准为发热38.0°C及以上（约100.4°F）持续≥5天及以上并具有特征性体检表现；符合标准的儿童应进行系列心电图和超声心动图检查，并咨询专科医生。
+早期应用高剂量阿司匹林和静脉注射用免疫球蛋白能够缓解症状，并帮助预防心脏并发症。
+早期应用高剂量阿司匹林和静脉注射用免疫球蛋白能够缓解症状，并帮助预防心脏并发症。

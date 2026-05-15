@@ -1,0 +1,74 @@
+标题：甲肝（HepA）疫苗
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/immunization/hepatitis-a-hepa-vaccine
+============================================================
+
+美国现有2种甲型肝炎（HepA）疫苗和1种甲肝乙肝（HepA/HepB）联合疫苗；这三种疫苗均可针对甲型肝炎提供长期保护。
+在两组接种疫苗后的受试者中，超过97%的参与者在接种2剂甲型肝炎疫苗20年后出现了抗甲型肝炎抗体（1）。
+(参见免疫接种概述。)
+
+【参考文献】
+1.Theeten H, Van Herck K, Van Der Meeren O, Crasta P, Van Damme P, Hens N.Long-term antibody persistence after vaccination with a 2-dose Havrix (inactivated hepatitis A vaccine): 20 years of observed data, and long-term model-based predictions.Vaccine.2015;33(42):5723-5727.doi:10.1016/j.vaccine.2015.07.008
+1.Theeten H, Van Herck K, Van Der Meeren O, Crasta P, Van Damme P, Hens N.Long-term antibody persistence after vaccination with a 2-dose Havrix (inactivated hepatitis A vaccine): 20 years of observed data, and long-term model-based predictions.Vaccine.2015;33(42):5723-5727.doi:10.1016/j.vaccine.2015.07.008
+
+【甲型肝炎疫苗的制备】
+甲肝 (HepA) 疫苗由甲醛灭活、细胞培养来源的甲型肝炎病毒制备而成。甲型肝炎疫苗（HepA）均有儿童及成人制剂可供使用。
+许多国家也提供甲肝/乙肝联合疫苗。
+
+【甲型肝炎疫苗的适应症】
+甲肝疫苗是一种常规的儿童免疫接种疫苗（1)。
+HepA 疫苗适用于任何尚未完全接种疫苗并要求接种疫苗的人（无需识别风险因素）。
+甲型肝炎疫苗也适用于以下任何风险因素（2):
+疫区旅行或工作者
+疫区旅行或工作者
+职业暴露（例如工作环境中有感染了甲肝病毒[HAV]的灵长类动物或在研究HAV的实验室工作）
+职业暴露（例如工作环境中有感染了甲肝病毒[HAV]的灵长类动物或在研究HAV的实验室工作）
+男男性行为者
+男男性行为者
+注射或非注射毒品使用，例如甲基苯丙胺
+注射或非注射毒品使用，例如甲基苯丙胺
+无家可归者
+无家可归者
+HIV感染
+HIV感染
+慢性肝病（例如，乙型肝炎、丙型肝炎、肝硬化、脂肪肝、酒精相关性肝病、自身免疫性肝炎或丙氨酸转氨酶 [ALT] 或天冬氨酸转氨酶 [AST] 水平大于正常上限两倍的人）
+慢性肝病（例如，乙型肝炎、丙型肝炎、肝硬化、脂肪肝、酒精相关性肝病、自身免疫性肝炎或丙氨酸转氨酶 [ALT] 或天冬氨酸转氨酶 [AST] 水平大于正常上限两倍的人）
+若儿童来自流行病区并被国际收养，在其抵达美国后的前 60 天内，与其有密切接触的人群（如同住的家庭成员或固定的保姆）需特别关注。
+若儿童来自流行病区并被国际收养，在其抵达美国后的前 60 天内，与其有密切接触的人群（如同住的家庭成员或固定的保姆）需特别关注。
+怀孕期间有 HAV 感染风险的孕妇（例如，国际旅行者、使用注射或非注射毒品者、有职业暴露风险者、预计与国际领养人有密切个人接触者，或无家可归者）或有 HAV 感染导致严重后果风险的孕妇（例如，患有慢性肝病或 HIV 感染的孕妇）
+怀孕期间有 HAV 感染风险的孕妇（例如，国际旅行者、使用注射或非注射毒品者、有职业暴露风险者、预计与国际领养人有密切个人接触者，或无家可归者）或有 HAV 感染导致严重后果风险的孕妇（例如，患有慢性肝病或 HIV 感染的孕妇）
+在甲型肝炎暴发期间，有感染 HAV 风险的 1 岁以上人群应接种疫苗。
+甲肝和乙肝的联合疫苗可应用于≥18岁且符合应用甲肝疫苗或乙肝疫苗适应症并且未曾接种两者任意之一的人群。
+
+【适应症参考文献】
+1.Centers for Disease Control and Prevention (CDC).Child and Adolescent Immunization Schedule by Age.Accessed September 23, 2025.
+1.Centers for Disease Control and Prevention (CDC).Child and Adolescent Immunization Schedule by Age.Accessed September 23, 2025.
+2.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+2.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+
+【甲型肝炎疫苗的禁忌症和注意事项】
+HepA疫苗的主要禁忌证为：
+既往接种本疫苗后或对疫苗某一成分发生严重过敏反应（如过敏性休克）
+既往接种本疫苗后或对疫苗某一成分发生严重过敏反应（如过敏性休克）
+HepA疫苗的主要注意事项为：
+伴或不伴发热的中度或重度疾病（接种推迟到疾病治愈后进行）
+伴或不伴发热的中度或重度疾病（接种推迟到疾病治愈后进行）
+
+【甲型肝炎疫苗的剂量和给药方法】
+18岁以内的人群，HepA疫苗剂量为0.5mL 肌注；成年人（年龄≥19岁）1 mL 肌注。
+儿童通常会在12到23个月大时接种两剂疫苗，并且在首次接种后的6到18个月内再次接种。
+根据制造商的不同，成年人在第0个月和第6至12个月或第6至18个月接种两剂系列疫苗。
+或者，成人可接种甲肝/乙肝联合疫苗，采用3剂接种方案：分别在0、1和6个月时接种。第1次和第2次应间隔≥4周，第2次和第3次应间隔≥5个月。替代方案为，疫苗可按照4剂次接种：第0天，第7和21至30天，首次接种12个月后给予加强接种一次。
+当计划收养来自甲型肝炎流行区的儿童时，密切接触者应在收养儿童抵达前（理想情况下至少提前两周）接种第一剂两剂次甲型肝炎（HepA）疫苗。
+
+【甲型肝炎疫苗的不良反应】
+常见的不良反应包括注射部位疼痛、红斑、肿胀，偶尔还会出现硬结。其他常见的不良反应包括12至23个月大的儿童发烧和成人头痛。
+有关这些疫苗不良反应的更多信息，请参阅处方信息。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Hepatitis A Vaccine
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Hepatitis A Vaccine
+Centers for Disease Control and Prevention (CDC):Hepatitis A Vaccination
+Centers for Disease Control and Prevention (CDC):Hepatitis A Vaccination
+European Centre for Disease Prevention and Control (ECDC):Hepatitis A: Recommended vaccinations
+European Centre for Disease Prevention and Control (ECDC):Hepatitis A: Recommended vaccinations

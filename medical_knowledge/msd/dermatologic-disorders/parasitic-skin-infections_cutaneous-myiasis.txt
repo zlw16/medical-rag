@@ -1,0 +1,70 @@
+标题：皮肤蝇蛆病
+来源：https://www.msdmanuals.cn/professional/dermatologic-disorders/parasitic-skin-infections/cutaneous-myiasis
+============================================================
+
+蝇蛆病感染双翼蝇(双翅蝇)的幼虫(蛆)。由于蝇的种类不同，有三种皮肤感染方式：
+© Springer Science+Business Media
+有时其他器官也会累及（如鼻咽部，消化道，泌尿生殖道）。感染通常发生在热带国家，所以发生在美国的案例通常发生在那些从地方流行性地区回来的人身上。
+
+【疖样蝇蛆病】
+疖疮型蝇蛆病的常见来源是马蝇。虻类的致病物种包括人皮蝇（原产于南美洲和中美洲，是返回美国旅行者中疖样蝇蛆病最常见的病因）、非洲皮蝇（见于撒哈拉以南非洲）、多种库特雷蝇属物种（见于北美），以及沃尔法特蝇属物种（分布于北美、欧洲和巴基斯坦）（1）。许多虻并不将卵直接产于人体，而是产于其他昆虫（如蚊子）或物体（如晾晒的衣物）上，这些载体随后可能与人体皮肤接触。附着于皮肤表面的虫卵可孵化为幼虫，随后钻入皮肤，并经多个发育阶段（龄期）逐渐发育为成熟幼虫；成熟幼虫的长度可达 1–2 cm，具体取决于物种。如果感染未被治疗，幼虫最后钻出皮肤落地，在发育成蝇，完成它们的发育史。
+疖肿型蝇蛆病局部症状包括瘙痒，蠕动感和时常的窜痛感。原发皮损既像节肢动物叮咬又像细菌性疖肿，但是可以见到中央一个穿凿性小孔有血清血液流出加以鉴别；有时可见一小部分幼虫的尾端。人皮蝇所致皮损更常见于面部、头皮及四肢，而非洲皮蝇所致皮损通常发生于被衣物覆盖的部位，多见于头部、颈部和背部。
+没有单一的标准化治疗方法，但它通常涉及闭塞技术或施用对蠕虫或幼虫有毒的药物，然后手动去除(2)。方法因干预措施的可得性而异。期待性治疗是不可取的，因为有幼虫控制不充分和局部炎症强烈的风险，可能导致继发感染。
+由于幼虫需要大气中的氧气,通过闭塞皮肤开口(例如涂抹凡士林或透明粘合膜)产生局部缺氧可能导致幼虫脱离或至少靠近表面,便于手动移除(3)。众多闭塞方法包括使用凡士林、透明粘合膜、指甲油、培根或烟草膏。单次口服伊维菌素或局部外用伊维菌素即可杀死幼虫或促使其迁移。可在局部麻醉下通过小切口将幼虫取出。
+
+【疖蝇病参考】
+1.Ragi SD, Kapila R, Schwartz RA.The Botfly, A Tropical Menace: A Distinctive Myiasis Caused by Dermatobia hominis.Am J Clin Dermatol.2021;22(1):81-88.doi:10.1007/s40257-020-00522-2
+1.Ragi SD, Kapila R, Schwartz RA.The Botfly, A Tropical Menace: A Distinctive Myiasis Caused by Dermatobia hominis.Am J Clin Dermatol.2021;22(1):81-88.doi:10.1007/s40257-020-00522-2
+2.Francesconi F, Lupi O.Myiasis.Clin Microbiol Rev.2012;25(1):79-105.doi:10.1128/CMR.00010-11
+2.Francesconi F, Lupi O.Myiasis.Clin Microbiol Rev.2012;25(1):79-105.doi:10.1128/CMR.00010-11
+3.Solomon M, Lachish T, Schwartz E.Cutaneous myiasis.Curr Infect Dis Rep.8(9):28, 2016.doi: 10.1007/s11908-016-0537-6
+3.Solomon M, Lachish T, Schwartz E.Cutaneous myiasis.Curr Infect Dis Rep.8(9):28, 2016.doi: 10.1007/s11908-016-0537-6
+
+【伤口感染蝇蛆病】
+这个蛆靠近一个溃烂的伤口。
+© Springer Science+Business Media
+伤口蝇蛆病是指先前存在的伤口或溃疡受到感染，可见的蛆（最常来自绿蝇或黑蝇，但不常见的家蝇）以坏死或健康组织为食。开放性创口和黏膜部位，尤其是在无固定住所者、酒精使用障碍患者以及处于卫生条件欠佳环境中的人群中，发生寄生虫侵染的风险较高，最常见的致病昆虫为螺旋蝇，但有时亦可由绿蝇或黑蝇引起。
+伤口蝇蛆病的治疗通常有灌洗和人工清创术。
+
+【新大陆螺旋蝇】
+嗜人锥蝇，即新大陆螺旋蝇，主要是兽医疾病的病因，并可对动物健康构成威胁，侵染牲畜（尤其是牛）、宠物和野生动物 (1, 2, 3)。从南美洲（经中美洲和墨西哥）及加勒比地区向北蔓延的疫情导致了跨物种传播。很少，它可以通过产卵传播给生活在流行地区的人类，通常是在伤口或有粘膜的体腔中，但有时也会在健康的皮肤上。
+U.S. Department of Agriculture Animal and Plant Health Inspection Service (APHIS)
+临床表现通常是伤口蝇蛆病。症状包括疼痛、恶臭的皮肤或黏膜病变，常伴有血性或脓性分泌物。伤口和溃疡中明显活动的幼虫通常肉眼可见。个体内快速传播是典型特征，伴有扩大的溃疡、坏死和组织破坏 (4) 。老年及免疫功能低下成人可能发展为更严重的感染。
+诊断主要是临床诊断，根据提取的幼虫的形态检查和物种确认进行鉴定，如果有的话，通过分子方法（例如，细胞色素c氧化酶基因测序）。
+治疗通过彻底的机械清除所有可见幼虫，这是治疗的主要手段。支持措施包括伤口清创、冲洗以及使用适当抗生素处理继发性细菌感染。伊维菌素药物治疗已证明在促进幼虫死亡方面具有疗效 (5) 。
+预防是关键,需要多方面的策略,包括(6):
+尽量减少与受感染动物的接触（例如，遮盖伤口，穿适当的衣服，加强整体卫生和个人卫生）。
+尽量减少与受感染动物的接触（例如，遮盖伤口，穿适当的衣服，加强整体卫生和个人卫生）。
+早期、快速、彻底的伤口护理
+早期、快速、彻底的伤口护理
+公共卫生教育
+公共卫生教育
+强有力的监测
+强有力的监测
+昆虫不育技术（即大量释放绝育的雄蝇与野生雌蝇交配，导致没有可存活的后代）(7)
+昆虫不育技术（即大量释放绝育的雄蝇与野生雌蝇交配，导致没有可存活的后代）(7)
+
+【伤口蝇蛆病参考文献】
+1.Valdez-Espinoza UM, Fadda LA, Marques R, Osorio-Olvera L, Jiménez-García D, Lira-Noriega A.The reemergence of the New World screwworm and its potential distribution in North America.Sci Rep.2025;15(1):23819.Published 2025 Jul 3.doi:10.1038/s41598-025-04804-9
+1.Valdez-Espinoza UM, Fadda LA, Marques R, Osorio-Olvera L, Jiménez-García D, Lira-Noriega A.The reemergence of the New World screwworm and its potential distribution in North America.Sci Rep.2025;15(1):23819.Published 2025 Jul 3.doi:10.1038/s41598-025-04804-9
+2.U.S. Department of Agriculture: Animal and Plant Health Inspection Service.New World Screwworm Outbreak in Central America and Mexico, September 26, 2025.Accessed October 16, 2025.
+2.U.S. Department of Agriculture: Animal and Plant Health Inspection Service.New World Screwworm Outbreak in Central America and Mexico, September 26, 2025.Accessed October 16, 2025.
+3.U.S. Centers for Disease and Prevention (CDC).Clinical Overview of New World Screwworm.September 30, 2025.Accessed October 16, 2025.
+3.U.S. Centers for Disease and Prevention (CDC).Clinical Overview of New World Screwworm.September 30, 2025.Accessed October 16, 2025.
+4.Venegas-Montero DP, Alfaro-Vellanero MJ, Rojas-Araya D, et al.Case Report: Re-Emergence of Cochliomyia hominivorax in Costa Rica: Report of a Human Myiasis Case 23 Years after Elimination.Am J Trop Med Hyg.2024;111(5):1020-1023.Published 2024 Sep 17.doi:10.4269/ajtmh.24-0342
+4.Venegas-Montero DP, Alfaro-Vellanero MJ, Rojas-Araya D, et al.Case Report: Re-Emergence of Cochliomyia hominivorax in Costa Rica: Report of a Human Myiasis Case 23 Years after Elimination.Am J Trop Med Hyg.2024;111(5):1020-1023.Published 2024 Sep 17.doi:10.4269/ajtmh.24-0342
+5.Osorio J, Moncada L, Molano A, Valderrama S, Gualtero S, Franco-Paredes C.Role of ivermectin in the treatment of severe orbital myiasis due to Cochliomyia hominivorax.Clin Infect Dis.2006;43(6):e57-e59.doi:10.1086/507038
+5.Osorio J, Moncada L, Molano A, Valderrama S, Gualtero S, Franco-Paredes C.Role of ivermectin in the treatment of severe orbital myiasis due to Cochliomyia hominivorax.Clin Infect Dis.2006;43(6):e57-e59.doi:10.1086/507038
+6.U.S. Centers for Disease Control and Prevention (CDC).About New World Screwworm.August 27, 2025.Accessed October 3, 2025.
+6.U.S. Centers for Disease Control and Prevention (CDC).About New World Screwworm.August 27, 2025.Accessed October 3, 2025.
+7.Skoda SR, Phillips PL, Welch JB.Screwworm (Diptera: Calliphoridae) in the United States: Response to and Elimination of the 2016-2017 Outbreak in Florida.J Med Entomol.2018 Jun 28;55(4):777-786.doi: 10.1093/jme/tjy049.PMID: 29722869.
+7.Skoda SR, Phillips PL, Welch JB.Screwworm (Diptera: Calliphoridae) in the United States: Response to and Elimination of the 2016-2017 Outbreak in Florida.J Med Entomol.2018 Jun 28;55(4):777-786.doi: 10.1093/jme/tjy049.PMID: 29722869.
+
+【迁徙蝇蛆病】
+迁移性蝇蛆病(也称为爬行性蝇蛆病)是指由双翅目蝇幼虫通过皮肤运动引起的侵染,产生蛇形、迁移性轨迹。最常见的物种是肠胃蝇和皮肤蝇属。这些苍蝇通常会感染牲畜，包括马和牛。人类可通过接触受感染的动物而获得感染，较少情况下也可因虫卵直接产于皮肤表面而感染。
+游走性蝇蛆病的临床表现不同于疖样蝇蛆病和创伤性蝇蛆病。这些苍蝇的幼虫在皮肤下挖洞，引起红斑性、瘙痒性、进展性病变。这些病变可能被误认为是皮肤幼虫移行症;然而,蝇幼虫比线虫大得多,蝇幼虫引起的病变进展速度要慢得多,持续时间也比皮肤幼虫移行症的病变长得多(1)。
+诊断主要是临床诊断,基于迁移性轨迹的特征性外观,并由接触史(特别是与家畜的接触)支持。迁移性蝇蛆病的治疗与疖疮型蝇蛆病相似。
+
+【游走性蝇蛆病参考文献】
+1.Francesconi F, Lupi O.Myiasis.Clin Microbiol Rev.2012;25(1):79-105.doi:10.1128/CMR.00010-11
+1.Francesconi F, Lupi O.Myiasis.Clin Microbiol Rev.2012;25(1):79-105.doi:10.1128/CMR.00010-11

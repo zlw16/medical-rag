@@ -1,0 +1,28 @@
+标题：杆菌性血管瘤病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-negative-bacilli/bacillary-angiomatosis
+============================================================
+
+（参见巴尔通体感染概述。）
+杆菌性血管瘤病是一种仅发生在免疫功能低下的人群（例如，晚期 HIV 疾病患者、接受实体器官移植的患者或正在接受化疗的患者）的感染。
+Bartonella quintana感染由虱传播；Bartonella henselae感染可能由家猫身上的跳蚤传播。
+
+【杆菌性血管瘤病的症状和体征】
+杆菌性血管瘤病的特征是皮肤上出现凸起的、紫色到鲜红色的浆果状病变，通常被一圈鳞屑包围。如果受到创伤，病变则会发生大出血。它们可能类似于卡波西肉瘤或化脓性肉芽肿。
+该病可经网状内皮系统扩散，引起杆菌性紫癜（由Bartonella[巴尔通体]导致的肝紫癜），尤其易发生于艾滋病/晚期HIV患者。其他内脏器官（如肺、脑、骨骼、脾脏）也可能受到影响。
+这张照片显示了发生于杆菌性血管瘤病患者的鲜红色，浆果状，易碎，突起的结节。
+© Springer Science+Business Media
+
+【杆菌性血管瘤病的诊断】
+皮肤病变的组织病理学、培养和 PCR 分析
+皮肤病变的组织病理学、培养和 PCR 分析
+杆菌性血管瘤病的诊断依靠皮损组织病理检查、细菌培养和PCR(polymerase chain reaction)检测。应告知实验室怀疑存在Bartonella（汉赛巴尔通体）感染，因为需要特殊的染色和延长培养时间。
+
+【杆菌性血管瘤病的治疗】
+抗生素治疗
+抗生素治疗
+杆菌性血管瘤病的治疗采用红霉素或强力霉素，持续至少 3 个月（1）。
+对于严重感染，利福平可与多西环素联合使用。阿奇霉素、克拉霉素和氟喹诺酮类药物是替代品。
+
+【治疗参考文献】
+1.Rolain JM, Brouqui P, Koehler JE, Maguina C, Dolan MJ, Raoult D.Recommendations for treatment of human infections caused byBartonellaspecies.Antimicrob Agents Chemother.2004;48(6):1921-1933.doi:10.1128/AAC.48.6.1921-1933.2004
+1.Rolain JM, Brouqui P, Koehler JE, Maguina C, Dolan MJ, Raoult D.Recommendations for treatment of human infections caused byBartonellaspecies.Antimicrob Agents Chemother.2004;48(6):1921-1933.doi:10.1128/AAC.48.6.1921-1933.2004

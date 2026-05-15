@@ -1,0 +1,81 @@
+标题：铁粒幼细胞性贫血
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/anemias-caused-by-deficient-erythropoiesis/sideroblastic-anemias
+============================================================
+
+(参见红细胞生成减少概述。)
+铁粒幼细胞性贫血可能是
+获得性铁粒幼细胞性贫血常与骨髓增生异常综合征相关（但可能由药物或毒素引起）并引起正红细胞或巨细胞性贫血。
+先天性铁粒幼细胞贫血是由众多 X 连锁或常染色体突变之一引起的，通常是小细胞性、低色素性贫血，但也可能为正细胞性贫血，并可能在以后的生活中出现。
+铁粒幼细胞贫血是一种铁利用不良性贫血，其特征是尽管存在足够或增加的铁含量，但由于血红素合成受损导致线粒体对铁的利用不足。铁粒幼细胞性贫血的特征有时是存在带铁颗粒（帕潘海默小体）的斑点红细胞（铁粒细胞）。
+在获得性及遗传性铁粒幼细胞性贫血中，由于铁不能与原卟啉 IX结合，使得血红素合成受损，从而导致环状铁粒幼细胞形成。
+
+【获得性铁粒幼细胞性贫血】
+大多数情况下，获得性铁粒幼细胞性贫血通常是
+骨髓增生异常综合征
+骨髓增生异常综合征
+参与 RNA 剪接的基因体细胞突变，最常见的是SF3B1（剪接因子 3b 亚基 1），发生在成年期。早期红系祖细胞具有铁粒幼细胞特征。
+其它少见的原因包括：
+缺乏维生素 B6（吡哆醇）或铜（可能由锌摄入引起，这会阻止胃肠道对铜的吸收）
+缺乏维生素 B6（吡哆醇）或铜（可能由锌摄入引起，这会阻止胃肠道对铜的吸收）
+药物（如氯霉素、环丝氨酸、异烟肼、利奈唑胺、吡嗪酰胺）
+药物（如氯霉素、环丝氨酸、异烟肼、利奈唑胺、吡嗪酰胺）
+毒素（包括乙醇、锌和铅）
+毒素（包括乙醇、锌和铅）
+这类贫血表现为网织红细胞生成不足、髓内溶血、骨髓红系增生（及发育不良）。尽管会产生低色素性红细胞，因同样会产生大细胞性红细胞，从而使红细胞指数呈正细胞性或大细胞性，因此，因红细胞大小不一（二态性），红细胞体积分布宽度（RDW）常增加。
+
+【遗传性铁粒幼细胞性贫血】
+遗传性铁粒幼细胞性贫血比获得性贫血少见，通常发生在婴儿期或幼儿期。最常见的先天性铁粒幼细胞性贫血是一种由生殖系突变引起的X连锁形式，该突变发生在参与血红素生物合成的ALAS2基因（5'-氨基乙酰丙酸合酶 2）中。维生素B6（吡哆醇）是δ-氨基-γ-酮戊酸合成酶2所产生酶的重要辅助因子；因此，患者可能对补充吡哆醇治疗后产生反应。
+许多其他形式的X连锁、常染色体及线粒体遗传已被确认与血红素合成过程中发生的基因突变相关 或其他线粒体酶促途径 (1)。
+红细胞通常表现为小细胞低色素性，但并非绝对；环状铁粒幼细胞主要累及晚期幼红细胞。
+
+【参考文献】
+1.Ducamp S, Fleming MD.The molecular genetics of sideroblastic anemia.Blood.133:59–69, 2019.doi: 10.1182/blood-2018-08-815951
+1.Ducamp S, Fleming MD.The molecular genetics of sideroblastic anemia.Blood.133:59–69, 2019.doi: 10.1182/blood-2018-08-815951
+
+【铁粒幼细胞性贫血的诊断】
+全血细胞计数，网织红细胞计数和外周血涂片
+全血细胞计数，网织红细胞计数和外周血涂片
+铁检测（血清铁蛋白、血清铁和转铁蛋白饱和度）
+铁检测（血清铁蛋白、血清铁和转铁蛋白饱和度）
+骨髓检查
+骨髓检查
+疑似遗传或获得性突变的基因检测
+疑似遗传或获得性突变的基因检测
+小细胞性贫血或红细胞分布宽度增加的贫血患者应怀疑铁幼粒细胞性贫血的可能，尤其是同时存在血清铁，血清铁蛋白及转铁蛋白饱和度升高时（见缺铁性贫血）。
+外周血涂片可见红细胞大小不一。RBC可出现点彩。
+骨髓检查是必要的，且通常显示为红系增生。铁染色示幼红细胞中出现特征性的富含铁的线粒体绕核排列（环形铁粒幼细胞）。骨髓增生异常综合征的其他表现，如血细胞减少及发育障碍，有时可非常明显。
+在铁粒幼细胞贫血中，骨髓中可见环状铁粒幼细胞（箭头）。环状铁粒幼红细胞是红细胞的前体，其线粒体（位于细胞核周围）富含非血红素铁。
+By permission of the publisher.From Tefferi A, Li C.InAtlas of Clinical Hematology.Edited by JO Armitage.Philadelphia, Current Medicine, 2004.
+如果导致铁粒幼细胞性贫血的原因不明，可测量血清铅的含量。
+
+【铁粒幼细胞性贫血的治疗】
+停止致病物质
+停止致病物质
+维生素或矿物质补充剂
+维生素或矿物质补充剂
+重组促红细胞生成素 (EPO)
+重组促红细胞生成素 (EPO)
+对于较低危的输血依赖性骨髓增生异常综合征患者，应考虑使用luspatercept。
+对于较低危的输血依赖性骨髓增生异常综合征患者，应考虑使用luspatercept。
+清除毒素或药物（尤其是酒精或锌摄入），或补充矿物质/维生素（铜或吡哆醇）可使患者康复。
+X 连锁铁粒幼细胞贫血可能对吡哆醇有反应，但通常不完全。
+获得性病例通常会对高剂量的重组 EPO以及低风险的骨髓增生异常综合征的标准管理产生反应。卢帕他塞可促进红细胞前体分化，也是无论是否伴环形铁粒幼细胞的低危骨髓增生异常综合征输血依赖性贫血的一线治疗药物（1, 2）。
+在耐受的情况下用螯合剂或静脉切开术治疗铁过载有助于防止末端器官损伤。严重贫血的治疗需要输血支持。对于患有输血依赖的先天性年轻患者，应考虑异基因骨髓移植。
+
+【治疗参考文献】
+1.Fenaux P, Platzbecker U, Mufti GJ, et al.Luspaterceptin patients with lower-risk myelodysplastic syndromes.N Engl J Med.382(2): 140–151, 2020. doi: 10.1056/NEJMoa1908892
+1.Fenaux P, Platzbecker U, Mufti GJ, et al.Luspaterceptin patients with lower-risk myelodysplastic syndromes.N Engl J Med.382(2): 140–151, 2020. doi: 10.1056/NEJMoa1908892
+2.Platzbecker U, Della Porta MG, Santini V, et al.Efficacy and safety of luspatercept versus epoetin alfa in erythropoiesis-stimulating agent-naive, transfusion-dependent, lower-risk myelodysplastic syndromes (COMMANDS): interim analysis of a phase 3, open-label, randomised controlled trial.Lancet.2023;402(10399):373-385.doi:10.1016/S0140-6736(23)00874-7
+2.Platzbecker U, Della Porta MG, Santini V, et al.Efficacy and safety of luspatercept versus epoetin alfa in erythropoiesis-stimulating agent-naive, transfusion-dependent, lower-risk myelodysplastic syndromes (COMMANDS): interim analysis of a phase 3, open-label, randomised controlled trial.Lancet.2023;402(10399):373-385.doi:10.1016/S0140-6736(23)00874-7
+铁粒幼细胞性贫血可以是获得性的及遗传性的。
+铁粒幼细胞性贫血可以是获得性的及遗传性的。
+骨髓活检中的环状铁粒幼细胞具有病理特征。
+骨髓活检中的环状铁粒幼细胞具有病理特征。
+先天性铁粒幼细胞性贫血中的贫血通常为小细胞性贫血，而获得性铁粒幼细胞性贫血中多为大细胞性贫血。
+先天性铁粒幼细胞性贫血中的贫血通常为小细胞性贫血，而获得性铁粒幼细胞性贫血中多为大细胞性贫血。
+血清铁，铁蛋白和转铁蛋白通常会增加。
+血清铁，铁蛋白和转铁蛋白通常会增加。
+治疗潜在疾病，先天性病例考虑使用吡哆醇，后天性病例考虑使用重组促红细胞生成素。
+治疗潜在疾病，先天性病例考虑使用吡哆醇，后天性病例考虑使用重组促红细胞生成素。
+对于较低危的输血依赖性骨髓增生异常综合征患者，应考虑使用卢帕他塞。
+对于较低危的输血依赖性骨髓增生异常综合征患者，应考虑使用卢帕他塞。

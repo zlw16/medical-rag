@@ -1,0 +1,99 @@
+标题：先天性和围产期巨细胞病毒感染 (CMV）
+来源：https://www.msdmanuals.cn/professional/pediatrics/infections-in-neonates/congenital-and-perinatal-cytomegalovirus-infection-cmv
+============================================================
+
+巨细胞病毒（CMV）常从新生儿体内分离出。虽然大多数婴儿是无症状病毒携带者，但有些可危及生命或留下严重的永久性后遗症。
+尚不清楚初次感染巨细胞病毒的人何时可以安全怀孕且对胎儿无风险。因此，在怀孕前或怀孕期间发生原发性巨细胞病毒感染的人应该接受关于胎儿风险的咨询，但很少有专家建议在怀孕前或怀孕期间进行常规巨细胞病毒血清学检测（1）。
+(参见成人巨细胞病毒感染。)
+
+【参考文献】
+1.Practice bulletin no. 151: Cytomegalovirus, parvovirus B19, varicella zoster, and toxoplasmosis in pregnancy [published correction appears inObstet Gynecol. 2016 Feb;127(2):405] [published correction appears inObstet Gynecol. 2016 Feb;127(2):405. doi: 10.1097/01.AOG.0000480402.22371.a4.].Obstet Gynecol.2015;125(6):1510-1525.doi:10.1097/01.AOG.0000466430.19823.53
+1.Practice bulletin no. 151: Cytomegalovirus, parvovirus B19, varicella zoster, and toxoplasmosis in pregnancy [published correction appears inObstet Gynecol. 2016 Feb;127(2):405] [published correction appears inObstet Gynecol. 2016 Feb;127(2):405. doi: 10.1097/01.AOG.0000480402.22371.a4.].Obstet Gynecol.2015;125(6):1510-1525.doi:10.1097/01.AOG.0000466430.19823.53
+
+【先天性和围产期巨细胞病毒感染的病因】
+先天性巨细胞病毒感染在全球范围内的发生率约为每1000例活产婴儿中有5例，可能源于母亲原发或复发性感染通过胎盘传播而致（1）。新生儿临床上明显的疾病更有可能发生在母体原发感染之后，特别是在妊娠的前半期。在美国，约40%的20至49岁女性缺乏巨细胞病毒抗体，使她们易感原发性感染（2）。
+围产期CMV感染是通过接触受感染的宫颈液、人乳或血液制品而获得的。一般认为母亲的抗体有保护性，这些足月新生儿中的大多数是无症状的或接触病毒后未被感染。相反，早产儿（获得的母体CMV抗体较少）可能发生严重感染或死亡，特别是在接受CMV阳性血液输注时。应该努力将这些婴儿仅输入CMV阴性血液或组分，或者使用已经过滤以除去携带CMV的白细胞的血液。这样的去白细胞的血液被许多专家认为是CMV安全的。
+
+【病因参考文献】
+1.Pesch MH, Schleiss MR.Emerging Concepts in Congenital Cytomegalovirus.Pediatrics.2022;150(2):e2021055896.doi:10.1542/peds.2021-055896
+1.Pesch MH, Schleiss MR.Emerging Concepts in Congenital Cytomegalovirus.Pediatrics.2022;150(2):e2021055896.doi:10.1542/peds.2021-055896
+2.Bate SL, Dollard SC, Cannon MJ.Cytomegalovirus seroprevalence in the United States: the national health and nutrition examination surveys, 1988-2004.Clin Infect Dis.2010;50(11):1439-1447.doi:10.1086/652438
+2.Bate SL, Dollard SC, Cannon MJ.Cytomegalovirus seroprevalence in the United States: the national health and nutrition examination surveys, 1988-2004.Clin Infect Dis.2010;50(11):1439-1447.doi:10.1086/652438
+
+【先天性和围产期 CMV 感染的症状和体征】
+许多在怀孕期间感染巨细胞病毒的人是无症状的，但有些人会出现类似单核细胞增多症的疾病。
+约13%的先天性巨细胞病毒感染婴儿在出生时有症状、体征或并发症，包括以下情况（1）：
+宫内发育迟缓
+宫内发育迟缓
+小头畸形
+小头畸形
+肝脾肿大
+肝脾肿大
+脑室周围钙化
+脑室周围钙化
+脉络膜视网膜炎
+脉络膜视网膜炎
+感音神经性耳聋
+感音神经性耳聋
+在出生期间或之后获得CMV感染的婴儿，特别是早产儿，可能出现脓毒症样综合征、肺炎、肝脾肿大、肝炎（可导致肝功能衰竭）、血小板减少和非典型淋巴细胞增多。然而，如果通过母乳传播，严重症状疾病和长期后遗症的风险低。
+
+【症状和体征】
+1.Khalil A, Heath PT, Jones CE, Soe A, Ville YG; Royal College of Obstetricians and Gynaecologists.Congenital Cytomegalovirus Infection: Update on Screening, Diagnosis and Treatment: Scientific Impact Paper No. 56.BJOG.2025;132(2):e42-e52.doi:10.1111/1471-0528.17966
+1.Khalil A, Heath PT, Jones CE, Soe A, Ville YG; Royal College of Obstetricians and Gynaecologists.Congenital Cytomegalovirus Infection: Update on Screening, Diagnosis and Treatment: Scientific Impact Paper No. 56.BJOG.2025;132(2):e42-e52.doi:10.1111/1471-0528.17966
+
+【先天性和围产期巨细胞病毒感染的诊断】
+使用尿液、唾液、血液或组织进行聚合酶链反应 (PCR) 检测
+使用尿液、唾液、血液或组织进行聚合酶链反应 (PCR) 检测
+利用尿液，痰液或组织进行病毒培养
+利用尿液，痰液或组织进行病毒培养
+有症状的先天性 CMV 感染必须与其他先天性感染相鉴别，包括弓形虫病，风疹，淋巴细胞性脉络丛脑膜炎， 和梅毒。
+在新生儿中，使用尿液、唾液、血液或组织样本进行病毒培养或PCR检测是主要的诊断手段；母亲的诊断也可通过血清学检测或PCR进行（见CMV诊断）。如果在生命的前3周内的尿液、唾液或其他体液中检测到病毒（或病毒核酸），则诊断为先天性CMV感染；尿液和唾液的检测灵敏度最高。3周后，病毒检测可能提示产后感染。婴儿在感染上述任何一种类型后，可能会脱落CMV数年。
+胎儿CMV感染可通过羊水CMV PCR检测确诊。
+在该图像中，CT 显示多处颅内钙化，主要分布在脑室周围，但也涉及大脑的血管结构。
+By permission of the publisher.From Demmler G: Congenital and perinatal infections.InAtlas of Infectious Diseases: Pediatric Infectious Diseases.Edited by CM Wilfert.Philadelphia, Current Medicine, 1998.
+全血细胞计数和分类、肝功能检查可能也有帮助；还应进行颅脑超声或CT及眼科检查。CT上通常可以发现室周钙化。
+所有受感染的新生儿在出生时都应常规性地接受听力检查，需要继续密切监测，因为听力损失可能在新生儿期后发展并且是进行性的。
+
+【先天性和围产期巨细胞病毒感染的治疗】
+更昔洛韦或缬更昔洛韦用于有症状的新生儿
+更昔洛韦或缬更昔洛韦用于有症状的新生儿
+给有症状的新生儿给予抗病毒药物。口服缬更昔洛韦6个月可减少先天性CMV新生儿的病毒脱落，并适度预防听力恶化和改善12及24个月龄时的神经发育结果(1)；若胃肠道吸收不可靠，可使用静脉注射更昔洛韦。
+宫内治疗受影响的胎儿，使用阿昔洛韦或伐昔洛韦也可能改善新生儿的结果，但缺乏长期跟踪的大规模研究。
+这些药物的主要毒性是中性粒细胞减少症。
+
+【治疗参考文献】
+1.Kimberlin DW, Jester PM, Sánchez PJ, et al:Valganciclovirfor symptomatic congenital cytomegalovirus disease.N Engl J Med372(10):933–943, 2015.doi: 10.1056/NEJMoa1404599
+1.Kimberlin DW, Jester PM, Sánchez PJ, et al:Valganciclovirfor symptomatic congenital cytomegalovirus disease.N Engl J Med372(10):933–943, 2015.doi: 10.1056/NEJMoa1404599
+
+【先天性和围产期 CMV 感染的预后】
+有症状的新生儿的死亡率高达5%至10%(1)。约30%-65%的有症状先天性CMV存活者会出现感音神经性耳聋（2）。
+在无症状的新生儿中，5%至15%最终会出现神经系统后遗症；听力损失是最常见的(3)。
+
+【预后参考】
+1.Grosse SD, Fleming P, Pesch MH, Rawlinson WD.Estimates of congenital cytomegalovirus-attributable infant mortality in high-income countries: A review.Rev Med Virol.2024;34(1):e2502.doi:10.1002/rmv.2502
+1.Grosse SD, Fleming P, Pesch MH, Rawlinson WD.Estimates of congenital cytomegalovirus-attributable infant mortality in high-income countries: A review.Rev Med Virol.2024;34(1):e2502.doi:10.1002/rmv.2502
+2.Foulon I, De Brucker Y, Buyl R, et al.Hearing Loss With Congenital Cytomegalovirus Infection.Pediatrics.2019;144(2):e20183095.doi:10.1542/peds.2018-3095
+2.Foulon I, De Brucker Y, Buyl R, et al.Hearing Loss With Congenital Cytomegalovirus Infection.Pediatrics.2019;144(2):e20183095.doi:10.1542/peds.2018-3095
+3.Smyrli A, Raveendran V, Walter S, et al.What are the neurodevelopmental outcomes of children with asymptomatic congenital cytomegalovirus infection at birth?A systematic literature review.Rev Med Virol.2024;34(4):e2555.doi:10.1002/rmv.2555
+3.Smyrli A, Raveendran V, Walter S, et al.What are the neurodevelopmental outcomes of children with asymptomatic congenital cytomegalovirus infection at birth?A systematic literature review.Rev Med Virol.2024;34(4):e2555.doi:10.1002/rmv.2555
+
+【预防先天性和围产期巨细胞病毒感染】
+无免疫力的妊娠妇女应该避免对病毒的接触。例如，由于CMV感染在日托中心的儿童中很常见，孕妇在接触儿童的尿液、口腔或呼吸道分泌物后，应彻底洗净双手。
+对捐献母乳进行巴氏消毒可减少CMV传播给严重免疫缺陷新生儿，此类患儿发生严重产后CMV感染风险较高。
+给早产儿输注来自CMV血清学阴性献血者的血制品，或经过处理的非感染性血制品，可避免输血相关的围产期巨细胞病毒感染。
+预防先天性巨细胞病毒（CMV）感染的疫苗正在研发中。正在研究使用阿昔洛韦或伐昔洛韦进行母体抗病毒治疗以预防胎儿传播(1)。
+在一项随机对照试验中，对原发性CMV感染的孕妇给予CMV超免疫球蛋白并未显示先天性感染减少(2)。
+
+【预防参考文献】
+1.Hughes BL, Clifton RG, Rouse DJ, et al: A trial of hyperimmune globulin to prevent congenital cytomegalovirus infection.N Engl J Med385(5):436–444, 2021.doi: 10.1056/NEJMoa1913569
+1.Hughes BL, Clifton RG, Rouse DJ, et al: A trial of hyperimmune globulin to prevent congenital cytomegalovirus infection.N Engl J Med385(5):436–444, 2021.doi: 10.1056/NEJMoa1913569
+2.Revello MG, Lazzarotto T, Guerra B, et al: A randomized trial of hyperimmune globulin to prevent congenital cytomegalovirus.N Engl J Med370(14):1316–1326, 2014.doi: 10.1056/NEJMoa1310214
+2.Revello MG, Lazzarotto T, Guerra B, et al: A randomized trial of hyperimmune globulin to prevent congenital cytomegalovirus.N Engl J Med370(14):1316–1326, 2014.doi: 10.1056/NEJMoa1310214
+巨细胞病毒（CMV）是最常见的先天性病毒感染，可以是无症状的或有症状的。
+巨细胞病毒（CMV）是最常见的先天性病毒感染，可以是无症状的或有症状的。
+多器官可以受到影响，并且早产的风险增加。
+多器官可以受到影响，并且早产的风险增加。
+使用聚合酶链反应（PCR）检测或病毒培养区分有症状的先天性CMV感染与其他先天性感染（例如弓形虫病、风疹、淋巴细胞性脉络丛脑膜炎病毒感染、梅毒）。
+使用聚合酶链反应（PCR）检测或病毒培养区分有症状的先天性CMV感染与其他先天性感染（例如弓形虫病、风疹、淋巴细胞性脉络丛脑膜炎病毒感染、梅毒）。
+静脉注射更昔洛韦或口服缬更昔洛韦可以预防有症状感染婴儿的听力恶化并改善神经发育结果。
+静脉注射更昔洛韦或口服缬更昔洛韦可以预防有症状感染婴儿的听力恶化并改善神经发育结果。

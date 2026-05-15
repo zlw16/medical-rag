@@ -1,0 +1,331 @@
+标题：成人心肺复苏(CPR)
+来源：https://www.msdmanuals.cn/professional/critical-care-medicine/cardiac-arrest-and-cardiopulmonary-resuscitation-cpr/cardiopulmonary-resuscitation-cpr-in-adults
+============================================================
+
+心肺复苏（CPR）是一项对心脏骤停做出的有序而连续的反应措施，包括：
+识别呼吸和循环停止
+识别呼吸和循环停止
+基本生命支持包括胸外按压和人工呼吸
+基本生命支持包括胸外按压和人工呼吸
+高级心脏生命支持包括气道保护和心脏节律控制
+高级心脏生命支持包括气道保护和心脏节律控制
+复苏后治疗
+复苏后治疗
+（参见新生儿复苏和婴幼儿心肺复苏。）
+迅速进行胸外按压以及尽早除颤（如有指征）是复苏成功的关键。
+心肺复苏的成功与否取决于速度、效率以及正确操作，并尽可能减少中断；极少数例外情况是由于冷水浸泡导致的严重低温症（无溺水），即使在长时间心脏骤停后，间歇性心肺复苏仍可能成功（1）。
+
+【CPR概述】
+应遵循美国心脏协会（AHA）针对医疗专业人员的指南（见图成人心脏综合急诊护理）（2、3）。如有人因可疑心脏骤停而倒地，救助者应首先确认患者无反应、呼吸停止或仅有濒死喘息。然后寻求帮助。应指示任何应答者启动急救应答系统（或院内复苏急救人员），并尽可能取得除颤仪。应立即开始基本生命支持 (2)。
+若无人应答，救助者首先启动急救应答系统，然后开始给予基本生命支持，即以每分钟100～120次的速度进行30次胸外按压，深度5～6厘米，让胸壁在按压之间恢复到完全高度，然后开放气道（抬高下颏并将前额后倾）并进行2次人工呼吸。按压与人工呼吸的循环应持续进行（见表医疗保健从业者的CPR技术），不要中断；最好每2分钟轮换一次施救者。至关重要的是，即使是未经训练的旁观者也应开始并维持持续的胸外按压，直到专业救援人员到达。因此，许多应急响应提供者现在向呼叫者提供到达前指示，包括关于单纯按压心肺复苏的电话指导。
+当除颤器（手动或自动）可用时，应对心室颤动（VF）或无脉性室性心动过速（VT）患者进行非同步电击（另见除颤）。 如果目击心脏骤停且现场有除颤器，应立即对 VF 或 VT 患者进行除颤，并在电击后立即恢复按压；早期除颤可能会迅速将 VF 或无脉性 VT 转换为灌注节律。 如果初始节律是无脉搏电活动或心搏停止，应在识别出心脏骤停后尽快给予初始剂量的肾上腺素 1 mg IV/IO（静脉内/骨内）。
+
+【成人综合急诊心脏护理】
+成人综合急诊心脏护理
+*如果受过训练的人员数量足够多，则应同时进行患者评估、CPR和激活应急反应系统。
+Based on the 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.
+表格医疗保健从业者的CPR技术列出了基础单人和双人救援人员的CPR技术。掌握技能的最好方式是通过实践训练。
+*如果受过训练的人员数量足够多，则应同时进行患者评估、CPR和激活应急反应系统。
+Based on the 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.
+表格医疗保健从业者的CPR技术列出了基础单人和双人救援人员的CPR技术。掌握技能的最好方式是通过实践训练。
+
+【医疗保健从业者的CPR技术】
+医疗保健从业者的CPR技术
+单人心肺复苏*
+双人心肺复苏
+成人及青少年
+以每分钟 100～120 次按压的速度进行 30 次胸外按压的循环，然后是 2 次呼吸（每次 1 秒）
+按压深度 5-6 厘米；允许在两次按压之间完全回弹
+以每分钟100-120次的频率进行30次胸外按压，然后进行2次人工呼吸（每次吹气1秒，2次吹气间暂停3-4秒）或持续按压并每6秒给予1次人工呼吸。
+如果使用高级气道（SGA 或 ETT），每 6 秒进行 1 次呼吸的异步通气，并持续按压
+每次人工呼吸潮气量约500～600mL（小心不要过度通气）
+儿童（1岁 ~ 青春期）†
+以每分钟 100～120 次按压的速度进行 30 次按压的循环，然后是 2 次呼吸（每次 1 秒）
+按压深度为 5 厘米或胸部前后直径的 1/3；允许在两次按压之间完全回弹
+以每分钟 100～120 次按压的速度进行 15 次胸外按压的循环，然后进行 2 次呼吸（每次 1 秒）
+如果使用高级气道（SGA 或 ETT），应以每分钟 20～30 次的速度进行通气，不要暂停按压
+人工呼吸潮气量较成人小（足够使胸廓起伏）
+婴儿（<1岁，不包括新生儿）
+以每分钟 100～120 次按压的速度进行 30 次按压的循环，然后是 2 次呼吸（每次 1 秒）
+按压深度应为 4 厘米或胸部前后径的 1/3；按压间期应让胸廓完全回弹。
+以每分钟 100～120 次按压的速度进行 15 次胸外按压的循环，然后进行 2 次呼吸（每次 1 秒）
+如果使用高级气道（SGA 或 ETT），应以每分钟 30 次的速度进行通气，不要暂停按压
+小潮气量通气（刚好能看到胸廓起伏）
+* 对于非专业施救者，如果其不愿意或无法提供口对口人工呼吸，推荐对成人实施单纯胸外按压式心肺复苏。
+†青春期被定义为女性乳房发育和男性腋毛显现。
+Data fromPanchal AR, Bartos JA, Cabañas JG, et al: Part 3: Adult Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation142(16_suppl_2):S366–S468, 2020.doi:10.1161/CIR.0000000000000916 and fromTopjian AA, Raymond TT, Atkins D, et al: Part 4: Pediatric Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation142(16_suppl_2):S469–S523, 2020.doi:10.1161/CIR.0000000000000901
+ETT=气管内插管；SGA=声门上气道装置。
+* 对于非专业施救者，如果其不愿意或无法提供口对口人工呼吸，推荐对成人实施单纯胸外按压式心肺复苏。
+†青春期被定义为女性乳房发育和男性腋毛显现。
+Data fromPanchal AR, Bartos JA, Cabañas JG, et al: Part 3: Adult Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation142(16_suppl_2):S366–S468, 2020.doi:10.1161/CIR.0000000000000916 and fromTopjian AA, Raymond TT, Atkins D, et al: Part 4: Pediatric Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation142(16_suppl_2):S469–S523, 2020.doi:10.1161/CIR.0000000000000901
+ETT=气管内插管；SGA=声门上气道装置。
+
+【参考文献】
+1.Gordon L, Paal P, Ellerton JA, Brugger H, Peek GJ, Zafren K: Delayed and intermittent CPR for severe accidental hypothermia.Resuscitation90:46–49, 2015.doi:10.1016/j.resuscitation.2015.02.017
+1.Gordon L, Paal P, Ellerton JA, Brugger H, Peek GJ, Zafren K: Delayed and intermittent CPR for severe accidental hypothermia.Resuscitation90:46–49, 2015.doi:10.1016/j.resuscitation.2015.02.017
+2.Panchal AR, Bartos JA, Cabañas JG, et al: Part 3: Adult Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation142(16_suppl_2):S366–S468, 2020.doi:10.1161/CIR.0000000000000916
+2.Panchal AR, Bartos JA, Cabañas JG, et al: Part 3: Adult Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation142(16_suppl_2):S366–S468, 2020.doi:10.1161/CIR.0000000000000916
+3.Atkins DL, Sasson C, Hsu A, et al: 2022 Interim Guidance to Health Care Providers for Basic and Advanced Cardiac Life Support in Adults, Children, and Neonates With Suspected or Confirmed COVID-19: From the Emergency Cardiovascular Care Committee and Get With The Guidelines-Resuscitation Adult and Pediatric Task Forces of the American Heart Association in Collaboration With the American Academy of Pediatrics, American Association for Respiratory Care, the Society of Critical Care Anesthesiologists, and American Society of Anesthesiologists.Circ Cardiovasc Qual Outcomes15(4):e008900, 2022.doi:10.1161/CIRCOUTCOMES.122.008900
+3.Atkins DL, Sasson C, Hsu A, et al: 2022 Interim Guidance to Health Care Providers for Basic and Advanced Cardiac Life Support in Adults, Children, and Neonates With Suspected or Confirmed COVID-19: From the Emergency Cardiovascular Care Committee and Get With The Guidelines-Resuscitation Adult and Pediatric Task Forces of the American Heart Association in Collaboration With the American Academy of Pediatrics, American Association for Respiratory Care, the Society of Critical Care Anesthesiologists, and American Society of Anesthesiologists.Circ Cardiovasc Qual Outcomes15(4):e008900, 2022.doi:10.1161/CIRCOUTCOMES.122.008900
+
+【心肺复苏：气道与呼吸】
+在开始胸外按压后，开放气道是第二优先事项（见清理并开放上呼吸道）。对于初始心律为可电击心律的目击性院外心脏骤停，在最初6分钟内提供被动氧合是可接受的，这是紧急医疗服务综合方案的一部分，旨在最大限度减少在初始提供CPR和除颤过程中的中断。有关儿童复苏的机械措施，见表小儿复苏指南--机械措施。
+当医护人员提供心肺复苏术时，应尽早开始球囊面罩通气，但这不应延迟按压或除颤的开始。非专业救援人员可以提供仅按压心肺复苏，或者，如果接受过相关培训，可以进行口对口（适用于成人、青少年和儿童）或口对口鼻联合（适用于婴儿）的人工呼吸。如果可用，可以插入口咽气道以在气囊面罩通气过程中保持气道通畅。不推荐按压环状软骨。
+若出现腹部膨胀，需检查气道是否通畅并降低通气量。通过鼻胃管或口胃管插管来缓解胃胀不应中断心肺复苏。
+当专业施救人员在场时，在最初的CPR和除颤尝试后，应在胸外按压不中断的情况下建立人工气道（气管内插管或声门上气道），见气道建立及管理。对于成人，在持续胸外按压的同时，每6秒给予1次呼吸（每分钟10次）；婴儿和儿童每2至3秒呼吸1次（20至30次/分钟）。然而，胸外按压和电除颤始终应先于气管插管。除非有经验非常丰富的施救者在场，否则可以延迟气管插管，而优先使用球囊-面罩、喉罩或类似装置进行通气。
+对于疑似患有新冠肺炎的患者，美国心脏协会发布了基本和高级生命支持的临时指南（1、2）。
+
+【气道和呼吸参考】
+1.Edelson DP, Sasson C, Chan PS, et al; American Heart Association ECC Interim COVID Guidance Authors: Interim Guidance for Basic and Advanced Life Support in Adults, Children, and Neonates With Suspected or Confirmed COVID-19: From the Emergency Cardiovascular Care Committee and Get With The Guidelines-Resuscitation Adult and Pediatric Task Forces of the American Heart Association.Circulation141(25):e933–e943, 2020.doi: 10.1161/CIRCULATIONAHA.120.047463
+1.Edelson DP, Sasson C, Chan PS, et al; American Heart Association ECC Interim COVID Guidance Authors: Interim Guidance for Basic and Advanced Life Support in Adults, Children, and Neonates With Suspected or Confirmed COVID-19: From the Emergency Cardiovascular Care Committee and Get With The Guidelines-Resuscitation Adult and Pediatric Task Forces of the American Heart Association.Circulation141(25):e933–e943, 2020.doi: 10.1161/CIRCULATIONAHA.120.047463
+2.Goodloe JM, Topjian A, Hsu A, et al: Interim Guidance for Emergency Medical Services Management of Out-of-Hospital Cardiac Arrest During the COVID-19 Pandemic.Circ Cardiovasc Qual Outcomes14(7):e007666, 2021.doi:10.1161/CIRCOUTCOMES.120.007666
+2.Goodloe JM, Topjian A, Hsu A, et al: Interim Guidance for Emergency Medical Services Management of Out-of-Hospital Cardiac Arrest During the COVID-19 Pandemic.Circ Cardiovasc Qual Outcomes14(7):e007666, 2021.doi:10.1161/CIRCOUTCOMES.120.007666
+
+【心肺复苏：循环】
+
+【胸外按压】
+应在识别出心脏骤停后立即开始胸外按压，并尽量减少中断，直到除颤可用。 对于无反应且倒地无目击者的患者，受过培训的施救者应立即开始胸外（闭胸）心脏按压，继之进行人工呼吸。任何时候胸外按压不能中断超过10秒（如气管插管、除颤、节律分析、留置中心静脉导管或转运）。胸外按压时按压与胸廓回弹的比例为1:1；在胸廓回弹阶段，让胸部充分回弹是很重要的。一旦除颤器可用，立即进行节律解读和除颤（如果适用）。
+推荐成人的胸部按压深度约为5至6厘米。理想状态下，胸外按压一次可产生一次动脉搏动，尽管此时的心输出量只有正常状态的20%～30%。然而，胸外按压期间扪及脉搏通常很困难，即便对有经验的医生也是如此，且并不可靠。呼气末二氧化碳定量监测可能更好地反映胸部按压期间的心输出量；灌注不足时回流至肺部的静脉血量很少，因此呼末二氧化碳低。心肺复苏期间的过度通气也可能导致呼气末二氧化碳水平降低。虽然支持生理监测中具体数值的证据有限，但普遍认为呼气末二氧化碳水平>10 mmHg，理想情况下>20 mmHg，与有效的心肺复苏相关。呼气末二氧化碳水平突然显著升高，或按压暂停期间可触及脉搏，表明自主循环恢复。
+可以使用机械胸外按压装置；这些设备与正确执行的手动按压同样有效，并能最大程度减少操作失误和疲劳的影响。在某些情况下它们可能特别有用，例如在患者转运过程中或在心导管实验室中。这些设备也被推荐用于疑似或确诊新冠肺炎患者（1)。
+通过胸腔切开术进行的开胸心脏按压可能有效，但仅适用于穿透性胸部损伤患者、心脏手术后短期内（即48小时内）、心包填塞病例，以及最特别的情况是手术室内的心脏骤停患者，此时患者胸腔已开放。然而，开胸术需要接受过训练和有经验的医生才能进行，应仅在这些有限的指征下进行。
+
+【胸外按压的并发症】
+常见的并发症是反流，随后吸入胃内容物，在复苏的患者中引起危及生命的吸入性肺炎。
+肋软骨分离和肋骨骨折通常无法避免，因为胸外按压需要一定的力度来保证足够的心输出量。儿童骨折较少见，因其胸廓的柔韧性较成人好。
+罕见胸外按压后骨髓栓塞于肺部，但无明显依据说明它与死亡相关。肺损伤比较少见，但可能因肋骨骨折刺破而致气胸。对于长时间 CPR 后自主循环恢复，随后变得难以通气，或缺氧并突然再次心脏骤停的患者，应考虑张力性气胸。
+按压导致严重心肌损伤的可能性极小，但原先存在室壁瘤者受损可能是个例外。
+虽然存在以上这些并发症的可能，但施救者仍应积极进行心肺复苏。
+肝脏破裂少见但是是十分严重（有时具有致死性）的并发症，一般是由于按压胸骨下方腹部所致。胃破裂也是一种罕见的并发症（尤其是胃部胀气时）。罕见迟发性脾破裂。
+
+【循环参考】
+1.Atkins DL, Sasson C, Hsu A, et al: 2022 Interim Guidance to Health Care Providers for Basic and Advanced Cardiac Life Support in Adults, Children, and Neonates With Suspected or Confirmed COVID-19: From the Emergency Cardiovascular Care Committee and Get With The Guidelines-Resuscitation Adult and Pediatric Task Forces of the American Heart Association in Collaboration With the American Academy of Pediatrics, American Association for Respiratory Care, the Society of Critical Care Anesthesiologists, and American Society of Anesthesiologists.Circ Cardiovasc Qual Outcomes2022;15(4):e008900.doi:10.1161/CIRCOUTCOMES.122.008900
+1.Atkins DL, Sasson C, Hsu A, et al: 2022 Interim Guidance to Health Care Providers for Basic and Advanced Cardiac Life Support in Adults, Children, and Neonates With Suspected or Confirmed COVID-19: From the Emergency Cardiovascular Care Committee and Get With The Guidelines-Resuscitation Adult and Pediatric Task Forces of the American Heart Association in Collaboration With the American Academy of Pediatrics, American Association for Respiratory Care, the Society of Critical Care Anesthesiologists, and American Society of Anesthesiologists.Circ Cardiovasc Qual Outcomes2022;15(4):e008900.doi:10.1161/CIRCOUTCOMES.122.008900
+
+【心肺复苏：除颤】
+在成人中，目击下心脏骤停最常见的节律是心室颤动（VF）；迅速将其转换为灌注性节律至关重要。无脉性室性心动过速（VT）的处理方式与 VF 相同。
+除了高质量的 CPR 外，及时除颤是唯一一种已被证明可以提高生存率的心脏骤停干预措施；然而，除颤的成功率具有时间依赖性，VF（或无脉性 VT）每持续 1 分钟，成功率下降约 10%。自动体外除颤器（AED）允许经过最少训练的急救人员治疗无脉性室速（VT）或室颤（VF）。第一施救者（警察与消防员）对自动体外除颤仪的使用以及公共场所的广泛配备，使复苏率有很大的提高。
+将除颤电极板或电极垫放置，一片置于右前胸壁锁骨中线锁骨下方，另一片置于左前腋线心尖处的第5或第6肋间隙。或者，可以将 2 个垫放置，其中一个垫在左前半胸上，另一个垫在左后半胸上。除颤电极板需配合导电膏使用；电极垫则含有导电凝胶。大多数除颤器使用电极垫而非电极板。
+一旦检测到可电击的节律，建议进行一次初始电击，然后立即恢复胸外按压。双相除颤仪能量在150～200J之间（儿童2J/kg）进行首次电击；单相除颤仪选择360J进行首次电击。除颤后心律的评估应在胸外按压两分钟后再进行。之后进行的除颤应给予相同或更高的能量（成人最高至360J或儿童10J/kg）。持续处于室颤（VF）或无脉性室速（VT）的患者每2分钟接受一次额外的电击，同时继续进行胸外按压和通气，并可选择药物治疗。
+
+【CPR：监测和静脉通路】
+应建立心电（ECG）监测以识别潜在的心律。
+可以建立一条静脉通路；建立两条通路可最大限度地降低 CPR 期间静脉通路丢失的风险。首选肘前静脉留置大口径外周通路。对于成人和儿童，如果无法快速建立外周静脉通路，可在不中断胸外按压的前提下（通常很困难）放置锁骨下或股静脉中心静脉导管（见操作步骤）。骨内通路（见骨内输注）是替代选择，尤其对于儿童，因其可快速建立，以避免延误首剂肾上腺素的给药。股静脉导管（见操作步骤）是一种选择，因为无需停止CPR，且致命性并发症风险较低；然而，由于缺乏明确的股动脉搏动作为引导，置管成功率可能较低。
+根据不同的临床情况给予不同种类和剂量的液体与药物。通常情况下，缓慢静注0.9％生理盐水（仅需维持静脉通路开放）；仅当心脏骤停由低血容量引起时才需要积极液体复苏（晶体、胶体、血液）（见静脉内液体复苏），或作为自主循环恢复后心源性休克管理的一部分。
+
+【心肺复苏：特殊情况】
+处理电击伤患者时，施救者须确认患者与电源脱离接触，以免造成自身触电。施救者使用非金属抓钩或杆，并进行接地，可以在开始心肺复苏前安全地移动患者。
+对于淹溺患者，在浅水中可以进行人工呼吸，而有效的胸外按压则应将患者置于坚实的平面后方能进行。
+对于外伤引起心脏骤停的患者，首先应清理气道并开放气道进行辅助通气，因为对于此类患者，气道梗阻是心脏骤停最可能的可治疗原因。如果怀疑颈椎损伤，应使用牵引下颌法（见图牵引下颌法），而非压额抬颏法。其他可救治的外伤性心脏骤停病因包括心包填塞和张力性气胸，这两种情况都需要立即穿刺减压以挽救生命。然而，大多数创伤性心脏骤停患者伴有严重失血（胸外按压通常无效）及不可逆性脑损伤。
+
+【CPR：高级生命支持（ACLS）用药】
+尽管许多药物已经长期广泛使用，但仍没有一种药物或联合用药被确切证实能提高心脏骤停患者出院时神经功能良好的生存率。一些药物确实能提高自主循环恢复的可能性，因此可以合理使用（有关剂量，包括儿科剂量，见表常用复苏药物）。休克和心脏骤停的药物治疗仍在持续研究中。
+
+【复苏常用药物*】
+复苏常用药物*
+成人剂量
+儿童剂量
+首剂6mg，必要时可再给予12mg×2次
+首剂0.1mg/kg，之后0.2mg/kg×2
+用于室颤/无脉性室速：300mg 静脉推注，推注时间为2分钟
+若室颤/无脉性室速持续，可追加150mg
+用于室颤/无脉室速：5 mg/kg 静脉推注
+如果有持续性 VF/无脉性 VT，可重复最多 3 次总剂量
+对于有灌流的VT：
+负荷剂量：150 mg静脉推注超过10分钟，随后
+负荷剂量：150 mg静脉推注超过10分钟，随后
+输滴：1mg/min×6h，之后0.5mg/min×24h
+输滴：1mg/min×6h，之后0.5mg/min×24h
+用于有脉室速：5mg/kg，输注20～60分钟，可重复使用2次直至最大剂量15mg/kg/d
+阿托品‡
+每隔3-5分钟重复1mg，直至起效或总剂量达3mg，最小剂量0.5mg。
+0.02 mg/kg，必要时3-5分钟内重复一次，最小剂量为0.1 mg
+20mg/kg
+葡庚糖酸钙 §
+0.66g
+葡萄糖酸钙
+30mg/kg
+多巴酚丁胺
+2–5 mcg/kg/min，根据需要增加，最高达到20 mcg/kg/min
+同成人剂量
+2–5 mcg/kg/min，根据需要增加，最高达到20 mcg/kg/min
+同成人剂量
+肾上腺素
+推注：1mg
+输注：2-10mcg/min
+推注：0.01mg/kg
+输注：0.1-1.0mcg/kg/min
+葡萄糖（仅用于有记录的低血糖）
+25g 50%D/W
+0.5–1 g/kg的10%葡萄糖溶液(D/W)
+婴儿和低龄儿童应避免高浓度使用建议婴儿使用 10% D/W，儿童使用 10% 或 25%
+利多卡因
+1-1.5 mg/kg；每5-10分钟重复直至最大3mg/kg
+负荷剂量：1 mg/kg
+输注：20~50mcg/kg/min
+1-2g
+25-50mg/kg，最大剂量2g
+2-4mg鼻内或0.4mg肌注
+如患者体重<20kg或年龄<5岁，0.1mg/kg
+如果患者体重≥20kg或年龄≥5岁，则2mg
+去甲肾上腺素
+输注：5-30mcg/min
+输注：以0.05-0.1mcg/kg/min起始（最大剂量2mcg/kg/min）
+去氧肾上腺素
+输注：0.1-0.5mcg/kg/min
+输注：0.1-0.5mcg/kg/min
+普鲁卡因酰胺
+20 - 50mg /分钟（总最大剂量17mg /kg）
+30–60 分钟内 15 mg/kg
+碳酸氢钠
+50mEq
+1mEq/kg
+儿童高级生命支持(PALS)2020年指南不建议儿科患者使用碳酸氢钠，除非患者患有高钾血症、低钙血症、高镁血症、三环类抗抑郁药毒性或钙通道阻滞剂过量¶
+*适应证及使用方法，参见正文。
+†静脉内或骨内给药。
+‡ 阿托品不再推荐用于无脉性室性心动过速 (VT) 患者。其使用仅限于有症状的心动过缓患者。
+§ 很少使用。
+¶Maconochie IK, Aickin R, Hazinski MF, et al.Pediatric Life Support 2020 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations.Pediatrics2021;147(Suppl 1):e2020038505B.doi:10.1542/peds.2020-038505B
+D/W=葡萄糖水溶液； SVT=室上性心动过速；VF=心室颤动； VT=室性心动过速。
+*适应证及使用方法，参见正文。
+†静脉内或骨内给药。
+‡ 阿托品不再推荐用于无脉性室性心动过速 (VT) 患者。其使用仅限于有症状的心动过缓患者。
+§ 很少使用。
+¶Maconochie IK, Aickin R, Hazinski MF, et al.Pediatric Life Support 2020 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations.Pediatrics2021;147(Suppl 1):e2020038505B.doi:10.1542/peds.2020-038505B
+D/W=葡萄糖水溶液； SVT=室上性心动过速；VF=心室颤动； VT=室性心动过速。
+对于建立外周静脉通路的患者，给药后应推注液体（成人'全开'静脉；幼儿3至5 mL）以将药物冲入中心循环。 对于没有建立静脉或骨内通路的患者，如果有必要，可经气管插管给予纳洛酮、阿托品、肾上腺素等，剂量为静脉注射剂量的2~2.5倍。经气管插管给药时，胸外按压可短暂暂停。
+
+【一线用药】
+心脏骤停的主要一线药物是
+肾上腺素
+肾上腺素
+对于初始心律不可电击的患者，应尽快给予肾上腺素 1 mg IV/IO，并且可以每 3 至 5 分钟重复一次。应在不可电击节律中尽早给予，因为证据表明在复苏早期给予可提高生存率（1），或对于对两次电击无效的室速（VT）或室颤（VF）。肾上腺素具有复合的α-肾上腺素能和β-肾上腺素能作用。α-肾上腺素能效应可能会增加冠状动脉舒张压，从而增加胸外按压期间心内膜下的灌注。肾上腺素也能提高除颤的成功率。 然而，beta-肾上腺素能效应从某种意义上说可能是有害的，因为它增加氧需求量（尤其是心脏），并导致血管舒张。不推荐心内注射肾上腺素，因为除了中断胸外按压，还可能发生气胸、冠状动脉撕裂和心包填塞。
+血管加压素的疗效并不优于肾上腺素，因此根据美国心脏协会指南(2)，不建议将其作为一线药物。然而，如果肾上腺素不可用，可以用血管加压素替代。
+给予肾上腺素后，一旦第三次除颤失败可给予胺碘酮300mg。如果在5次或更多次电击和2次或更多次肾上腺素给药后，顽固性可电击节律仍然存在，可以给予额外剂量的胺碘酮（150 mg）。如果无脉性室速（VT）或室颤（VF）在成功除颤后复发，胺碘酮可能具有潜在价值；初始剂量为150毫克，需在10分钟内给药，随后进行持续输注。尚无令人信服的证据表明其能提高出院存活率。利多卡因是替代胺碘酮的抗心律失常药。
+
+【其他药物】
+在某些特定情况下，一些其他药物可能有用。
+硫酸阿托品是抗迷走神经药物，可使心率上升，提高房室结传导能力。可用于有症状的心动过缓以及高度房室传导阻滞。不推荐用于心搏停止或无脉电活动。
+氯化钙在高钾血症、高镁血症、低钙血症或钙通道阻滞剂中毒时推荐使用。 在其他患者中，由于细胞内钙离子浓度已明显高于正常水平，额外补充钙剂可能是有害的。 透析患者发生心脏骤停通常是高钾血症的结果或伴有高钾血症，在床旁无法监测钾离子浓度时，尝试性给予钙剂可能使他们获益。 需要特别注意的是钙离子可增加洋地黄药物的毒性作用，导致心脏骤停。
+利多卡因被推荐作为胺碘酮的替代药物，用于治疗对除颤和肾上腺素初始血管加压治疗无反应的室颤（VF）或室速（VT）。（成人）因心室颤动（VF）或室速（VT）停搏后循环自主恢复后也可考虑进行该治疗，以防止心室颤动（VF）或室性心动过速（VT）复发。
+随机对照研究并未证实硫酸镁能改善预后 (3)。然而，它可能有助于尖端扭转型室速患者，或已知存在或怀疑镁缺乏的患者（如酗酒、迁延性腹泻患者等）。
+普鲁卡因胺是用于治疗难治性室颤或室速的二线药物。然而，普鲁卡因胺不推荐用于儿童无脉性骤停，美国心脏协会指南也不再推荐其用于治疗骤停后室性心律失常。然而，根据2021年欧洲复苏委员会指南，对于血流动力学稳定的宽QRS波群心动过速患者，它是一个治疗方案，因为一些研究表明，与胺碘酮(4)相比，其主要不良事件较少。
+苯妥因钠极少用于治疗室速，仅当室速由洋地黄中毒引起且对其他药物无效时使用。使用剂量为50～100mg/min，每5分钟1次直到心律改善或总剂量达20mg/kg。
+除非心脏骤停是由高钾血症、严重代谢性酸中毒或三环类抗抑郁药过量引起，否则不建议使用碳酸氢钠。当心脏骤停时间持续较久（>10分钟）时可考虑使用碳酸氢钠；仅在通气状态良好的情况下给药。使用碳酸氢钠时，应在给药前及每使用50mEq（儿童1mEq/kg）后监测血清碳酸氢盐浓度或碱缺陷。
+
+【高级心血管生命支持药物参考】
+1.Okubo M, Komukai S, Callaway CW, Izawa J.Association of Timing ofEpinephrineAdministration With Outcomes in Adults With Out-of-Hospital Cardiac Arrest.JAMA Netw Open4(8):e2120176, 2021.doi:10.1001/jamanetworkopen.2021.20176
+1.Okubo M, Komukai S, Callaway CW, Izawa J.Association of Timing ofEpinephrineAdministration With Outcomes in Adults With Out-of-Hospital Cardiac Arrest.JAMA Netw Open4(8):e2120176, 2021.doi:10.1001/jamanetworkopen.2021.20176
+2.Merchant RM, Topjian AA, Panchal AR, et al: Part 1: Executive Summary: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation142(16_suppl_2):S337-S357, 2020.doi:10.1161/CIR.0000000000000918
+2.Merchant RM, Topjian AA, Panchal AR, et al: Part 1: Executive Summary: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation142(16_suppl_2):S337-S357, 2020.doi:10.1161/CIR.0000000000000918
+3.Thel MC, Armstrong AL, McNulty SE, Califf RM, O'Connor CM: Randomised trial of magnesium in in-hospital cardiac arrest.Duke Internal Medicine Housestaff.Lancet350(9087):1272–1276, 1997.doi:10.1016/s0140-6736(97)05048-4
+3.Thel MC, Armstrong AL, McNulty SE, Califf RM, O'Connor CM: Randomised trial of magnesium in in-hospital cardiac arrest.Duke Internal Medicine Housestaff.Lancet350(9087):1272–1276, 1997.doi:10.1016/s0140-6736(97)05048-4
+4.Soar J, Böttiger BW, Carli P, et al: European Resuscitation Council Guidelines 2021: Adult advanced life support [published correction appears inResuscitation2021 Oct;167:105-106].Resuscitation161:115-151, 2021.doi:10.1016/j.resuscitation.2021.02.010
+4.Soar J, Böttiger BW, Carli P, et al: European Resuscitation Council Guidelines 2021: Adult advanced life support [published correction appears inResuscitation2021 Oct;167:105-106].Resuscitation161:115-151, 2021.doi:10.1016/j.resuscitation.2021.02.010
+
+【心肺复苏中的心律失常的治疗】
+应在辨识出心律失常类型后尽快对表现为室颤或无脉性室速的患者给予一次直流电除颤，首选双相波。 尽管一些实验室证据与此相反，但不建议延迟除颤以实施一段时间的胸外按压。应尽可能保持胸外按压的连续性，并且在除颤时也不中断超过10秒。推荐的除颤能量范围：
+120至200焦耳用于双相除颤器
+120至200焦耳用于双相除颤器
+360焦耳用于单相除颤器
+360焦耳用于单相除颤器
+若2次尝试未成功，给予肾上腺素1mg静注，每3-5分钟重复一次。在每次肾上腺素给药后1到2分钟，尝试以相同或更高能量水平进行除颤。
+如果室颤持续，则给予胺碘酮300 mg静注。然后，如果室颤/室速复发，则给予胺碘酮150 mg，随后以 1 mg/min 的速度输注 6 小时，然后以 0.5 mg/min 的速度输注。
+自动体外除颤仪（AED）有供儿童专用的电缆，可有效减少传递给儿童的能量。（有关儿科能量水平，请参见除颤；有关药物剂量，请参见表常用复苏药物。）
+判断心搏停止应确认是否存在监护仪电极松散或脱落，应仔细检查监护仪的连接并更换导联观察心律。如果确认心脏停搏，则每3到5分钟重复给予肾上腺素1mg静注。不鼓励对看似心搏停止（因为'可能是细室颤'）的患者进行除颤，因为电击可能损伤低灌注的心肌。
+无脉电活动（PEA）是一种循环衰竭的表现，尽管此时心电图（ECG）可显示心电波形。 无脉性电活动的患者每 3 至 5 分钟重复静脉注射 1.0 毫克肾上腺素，如果怀疑血容量不足，则随后输注 500 至 1000 毫升（儿童为 20 毫升/公斤）0.9% 生理盐水。 心包填塞可引起无脉电活动，但通常发生于开胸术后、心包积液或严重胸外伤的病人。这种情况应立即行心包穿刺术或开胸术（见图心包穿刺术）。心包填塞极少是引起心脏骤停的隐匿性原因，但如怀疑存在，可通过超声检查确认；若无条件行超声检查，可行心包穿刺术。
+
+【心肺复苏：终止复苏】
+心肺复苏应持续进行直到患者呼吸循环系统稳定，或患者被宣布死亡，或单人复苏时施救者体力难以为继。如果心脏骤停被认为是由低体温所致，心肺复苏应持续进行直到患者体温升至34°C。
+终止复苏属于临床决策，临床医师应考虑心脏骤停的持续时间、患者的年龄以及疾病的预后。通常在实施心肺复苏和高级心血管生命支持措施后仍未恢复自主循环时，做出该决定。对于插管患者，在进行20分钟心肺复苏后，呼气末二氧化碳（ETCO2）水平<10mmHg是预后不良的标志。心脏骤停结局的研究发现，在未目击心脏骤停且初始心律为不可电击心律的老年患者中，神经功能良好的生存率 < 1%1、2。在一项基于瑞典>10000名住院患者数据的研究中，确定了预测复苏后无法存活的4个因素：患者未接受遥测监护、心脏骤停未被目击、初始心律为心搏停止、复苏持续10分钟（3）。
+
+【终止复苏参考文献】
+1.Goto Y, Funada A, Maeda T, Okada H, Goto Y: Field termination-of-resuscitation rule for refractory out-of-hospital cardiac arrests in Japan.J Cardiol73(3):240–246, 2019.doi:10.1016/j.jjcc.2018.12.002
+1.Goto Y, Funada A, Maeda T, Okada H, Goto Y: Field termination-of-resuscitation rule for refractory out-of-hospital cardiac arrests in Japan.J Cardiol73(3):240–246, 2019.doi:10.1016/j.jjcc.2018.12.002
+2.Grunau B, Scheuermeyer F, Kawano T, et al: North American validation of the Bokutoh criteria for withholding professional resuscitation in non-traumatic out-of-hospital cardiac arrest.Resuscitation135:51–56, 2019.doi:10.1016/j.resuscitation.2019.01.008
+2.Grunau B, Scheuermeyer F, Kawano T, et al: North American validation of the Bokutoh criteria for withholding professional resuscitation in non-traumatic out-of-hospital cardiac arrest.Resuscitation135:51–56, 2019.doi:10.1016/j.resuscitation.2019.01.008
+3.Holmberg MJ, Granfeldt A, Moskowitz A, et al:: Termination of Resuscitation Rules for In-Hospital Cardiac Arrest.JAMA Intern MedPublished online January 27, 2025.doi:10.1001/jamainternmed.2024.7814
+3.Holmberg MJ, Granfeldt A, Moskowitz A, et al:: Termination of Resuscitation Rules for In-Hospital Cardiac Arrest.JAMA Intern MedPublished online January 27, 2025.doi:10.1001/jamainternmed.2024.7814
+
+【心肺复苏：复苏后护理】
+恢复自主循环只是复苏的中间目标。最终目标是能够以良好的神经功能存活并出院，而这一目标仅有少数在恢复自主循环的患者能够实现。为了尽可能改善预后，临床医生必须进行良好的支持治疗（例如管理血压，体温和心律）并治疗基础疾病，特别是急性冠状动脉综合征。
+复苏后护理包括减轻缺血期后发生的再灌注损伤。复苏后护理应在确认自主循环恢复后立即开始。为尽量减少高氧对肺部的损害，应逐渐降低氧气供应量，直至外周血氧饱和度（SpO2）达到94%。通气率和通气量应滴定至呼气末二氧化碳读数为 35 至 40 毫米汞柱。如果可以耐受，应给予液体推注，并根据需要给予血管升压药输注，以维持收缩压 > 90 mm Hg。
+复苏后的实验室检查包括动脉血气（ABG）、全血细胞计数（CBC）和血液生化检查，包括电解质、葡萄糖、血尿素氮（BUN）、肌酐和心脏标志物。（肌酸激酶通常因CPR引起的骨骼肌损伤而升高；应首选不太可能受CPR或除颤影响的肌钙蛋白。）动脉氧分压（PaO2）应保持在接近正常值（80至100 mm Hg）范围内。血细胞比容应维持在≥30％，葡萄糖维持在140~180 mg/dL（7.7~9.9 mmol/L）; 电解质，尤其是钾，应在正常范围内。
+
+【冠状动脉造影】
+心脏骤停复苏后是否做心导管检查，应根据心电图（ECG）表现、介入心脏病专家的临床判断以及患者的预后进行个体化决策。指南建议对怀疑心脏原因且在心电图上显示ST段抬高型心肌梗死（STEMI）的成人患者进行紧急冠状动脉造影（1）。
+目前尚不清楚心电图上无STEMI患者的紧急（2小时内）或延迟（平均约120小时后）心导管插入术是否有任何临床益处（2）。一些研究者提倡在恢复自主循环后广泛使用心脏导管检查，除非病因明显不可能是心脏原因（例如溺水）或存在禁忌症（例如颅内出血），否则应对大多数患者进行该操作。
+
+【神经支持】
+在院外心脏骤停中存活的患者中，只有不到10%在出院时具有良好的中枢神经系统功能（脑功能分类[CPC]评分为1或2，见表大脑功能分类评分表）（3, 4, 5）。CPC得分为1表示大脑表现良好（患者神志清楚，思维敏捷，能够工作，但可能有轻度的神经或心理缺陷）。CPC得分为2表示中度大脑表现（患者有意识，能够在简单的环境中进行日常生活活动（ADL）和工作）。缺氧性脑损伤是缺血性脑损伤和脑水肿的结果（见心脏骤停的病理生理学）。脑损伤和恢复过程均可能在复苏后48~72小时内演变。
+
+【大脑功能分类评分表（成人）*】
+大脑功能分类评分表（成人）*
+正常（大脑功能表现良好）
+有意识，思维敏捷，能够工作并正常生活
+可能有轻微的心理或神经功能缺损（例如轻度语言障碍，非致残性偏瘫，轻微的颅神经异常）
+中度障碍（有缺陷但能够自理）
+意识清醒，有足够的大脑功能，能在庇护性环境下兼职工作，并能独立进行日常生活活动（如穿衣、乘坐公共交通工具、准备食物）。
+可能有偏瘫，癫痫发作，共济失调，构音障碍，语言障碍或永久性记忆或精神改变
+严重残疾（有意识，但有残疾并有依赖性）
+有意识的，但依赖他人的日常支持的；至少有有限的认知能力
+此类别包括广泛的神经功能障碍，从非卧床但患有严重记忆障碍或痴呆症（无法独立生存）的患者到瘫痪和只能用眼睛交流的患者（如闭锁综合征）。
+无意识（昏迷或植物状态）
+无意识，不知道周围环境，没有认知；与周围环境没有语言或心理互动。
+符合脑死亡的标准或按传统标准已死亡
+*以任何单项标准的最差表现作为分类的依据。仅对源自神经疾患的缺陷进行评分。评价是基于病史记录和看护人员的描述。
+Data from Safar P.Resuscitation after Brain Ischemia.In: Grenvik A, Safar P, editors.Brain Failure and Resuscitation.1981.pp.155–184
+*以任何单项标准的最差表现作为分类的依据。仅对源自神经疾患的缺陷进行评分。评价是基于病史记录和看护人员的描述。
+Data from Safar P.Resuscitation after Brain Ischemia.In: Grenvik A, Safar P, editors.Brain Failure and Resuscitation.1981.pp.155–184
+维持氧合和脑灌注压（避免过度换气、高氧、缺氧和低血压）可减少脑并发症。  低血糖和高血糖均可损伤缺血后的脑组织，应予以处理。
+对于成人，目标体温管理推荐用于恢复自主循环后仍然意识不清的患者（6, 7, 8）。目前的建议是选择并保持 32 至 37.5°C 之间的恒定温度（8）。无论选择的目标温度是多少，一旦自主循环恢复，就应立即开始主动温度管理。可通过体外或体内降温方法诱导和维持低温。体外降温方法简单易行，从使用冰袋到多种市售的体外降温设备，这些设备通过在皮肤上循环大量冷水来实现降温。体内降温可使用4℃液体快速输注以降低体温，但这种方法对于无法耐受过多液体量的患者不适用。此外还有体外热交换装置。该装置要求在静脉中留置一根热交换导管，该导管采用闭环设计，冰盐水在导管闭环内及装置内循环，而不进入患者体内。另一种装置采用体外设备在体外对血液进行冷却并回输回体循环。无论选择哪种方法，目标都是在自主循环恢复后，迅速冷却患者并将核心温度保持在目标温度（常温下 < 37.5℃，低温下在 32℃ 至 36℃ 之间）维持 24 小时。目前没有证据表明该范围内的任何特定温度更优，但必须避免高热（1, 9）。
+无论选择的目标温度如何，一旦自主循环恢复，就会开始主动温度管理。可通过体外或体内降温方法诱导和维持低温。体外降温方法简单易行，从使用外部冰袋到多种市售的体外降温设备，这些设备通过在皮肤上循环大量冰水来实现降温。体内降温可使用4℃液体快速输注以降低体温，但这种方法对于无法耐受过多液体量的患者不适用。此外还有体外热交换装置，该装置通过闭环设计将冰盐水循环至留置的静脉热交换导管中，冰盐水在导管和装置之间循环，而不进入患者体内。另一种装置采用体外设备在体外对血液进行冷却并回输回体循环。无论选择哪种方法，目标都是在自主循环恢复后，迅速冷却患者并将核心温度保持在目标温度（常温下 < 37.5℃，低温下在 32℃ 至 36℃ 之间）维持 24 小时。目前没有证据表明该范围内的任何特定温度更优，但必须避免高热（9）。
+许多药物治疗，包括自由基清除剂、抗氧化剂、谷氨酸抑制剂和钙通道阻滞剂，在理论上是有益的。许多已经在动物模型中取得了成功，但没有一个在人体试验中被证明是有效的。
+
+【血压支持】
+目前的建议是将平均动脉压 (MAP) 保持在>65 毫米汞柱和收缩压>90 毫米汞柱 (10)。对于既往有高血压的患者，合理的目标是将收缩压维持在低于骤停前水平30 mmHg。最好通过动脉置管监测平均动脉压。使用血流导向肺动脉导管进行血流动力学监测的做法已很大程度上被摒弃。
+血压支持包括：
+静脉输注晶体液（生理盐水或乳酸林格氏液）
+静脉输注晶体液（生理盐水或乳酸林格氏液）
+使用正性肌力药或血管加压药，目标为维持收缩压至少90 mmHg和平均动脉压至少65mmHg。
+使用正性肌力药或血管加压药，目标为维持收缩压至少90 mmHg和平均动脉压至少65mmHg。
+主动脉内气囊反搏使用较少
+主动脉内气囊反搏使用较少
+平均动脉压和中心静脉压降低的患者应以250mL为增量输注0.9%生理盐水行补液试验。
+尽管没有证据表明使用正性肌力药和血管加压药能提高长期生存率，但对于平均动脉压轻度降低（70～80 mmHg）、中心静脉压正常或升高，或床旁超声显示下腔静脉扩张的老年患者，可以静脉输注正性肌力药（例如，多巴酚丁胺，起始剂量为2～5 mcg/kg/min）。氨力农或米力农是很少使用的替代品（见表常用复苏药物）。
+如治疗效果不佳，可加用多巴胺等缩血管药物。替代药物包括肾上腺素和外周血管收缩药去甲肾上腺素和苯肾上腺素（见表常用复苏药物）。然而，血管活性药物应尽可能小剂量使用以维持正常但偏低的平均动脉压，因其可能增加血管外周阻力，减少器官灌注，尤其是肠系膜血管床。同时在心肺复苏后，心功能明显减弱，血管活性药物可加重心脏负荷。
+如可能发生心肌梗死（MI）的患者平均动脉压<70mmHg，应考虑行主动脉内球囊反搏。平均动脉压正常且中心静脉压较高或下腔静脉增宽的患者，通过接受正性肌力治疗或使用硝普钠或硝酸甘油减少后负荷，可能会有所改善。
+主动脉内球囊反搏可辅助治疗药物难治性左心泵衰竭所致的低心输出量状态。通过股动脉经皮或通过动脉切开术插入球囊导管，使其逆行至左锁骨下动脉远端的胸主动脉。球囊在每个舒张期膨胀，增加冠状动脉灌注，在收缩期放气，减少后负荷。其主要价值在于为那些可通过手术或经皮介入治疗纠正病因的休克提供暂时性支持（例如，伴有主要冠状动脉阻塞的急性心肌梗死、急性二尖瓣反流、室间隔缺损）。
+
+【自主循环恢复后的心律失常治疗】
+尽管心室颤动（VF）或室性心动过速（VT）可能在复苏后复发，但预防性抗心律失常药物并不能提高生存率，因此不常规使用。然而，表现出这些节律的患者可在除颤的基础上使用普鲁卡因胺、利多卡因（见其他药物）或胺碘酮（见一线药物）进行治疗。
+对于非急性心肌梗死引起的室颤或室速所导致心脏骤停的患者，是置入植入式心律转复除颤器（ICD）的适应症。ICD的植入与起搏器类似，有心内导联，有时也有皮下电极。ICD能感知心律失常并根据需要进行起搏或复律。
+根据具体的心律失常类型，复苏后的快速室上性心动过速可以使用在其他情况下治疗此类心律失常的药物。
+
+【复苏后治疗参考】
+1.Wyckoff MH, Greif R, Morley PT, et al: 2022 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations: Summary From the Basic Life Support; Advanced Life Support; Pediatric Life Support; Neonatal Life Support; Education, Implementation, and Teams; and First Aid Task Forces.Circulation146(25):e483–e557, 2022.doi:10.1161/CIR.0000000000001095
+1.Wyckoff MH, Greif R, Morley PT, et al: 2022 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations: Summary From the Basic Life Support; Advanced Life Support; Pediatric Life Support; Neonatal Life Support; Education, Implementation, and Teams; and First Aid Task Forces.Circulation146(25):e483–e557, 2022.doi:10.1161/CIR.0000000000001095
+2.Spoormans EM, Lemkes JS, Janssens GN, et al: Ischaemic electrocardiogram patterns and its association with survival in out-of-hospital cardiac arrest patients without ST-segment elevation myocardial infarction: a COACT trials' post-hoc subgroup analysis.Eur Heart J Acute Cardiovasc Care11(7):535-543, 2022.doi:10.1093/ehjacc/zuac060
+2.Spoormans EM, Lemkes JS, Janssens GN, et al: Ischaemic electrocardiogram patterns and its association with survival in out-of-hospital cardiac arrest patients without ST-segment elevation myocardial infarction: a COACT trials' post-hoc subgroup analysis.Eur Heart J Acute Cardiovasc Care11(7):535-543, 2022.doi:10.1093/ehjacc/zuac060
+3.CARES: Cardiac Arrest Registry to Enhance Survival.CARES 2023 Annual Report.https://mycares.net/
+3.CARES: Cardiac Arrest Registry to Enhance Survival.CARES 2023 Annual Report.https://mycares.net/
+4.Jennett B, Bond M: Assessment of outcome after severe brain damage.Lancet1(7905):480–484, 1975.doi:10.1016/s0140-6736(75)92830-5
+4.Jennett B, Bond M: Assessment of outcome after severe brain damage.Lancet1(7905):480–484, 1975.doi:10.1016/s0140-6736(75)92830-5
+5.Safar P.Resuscitation after Brain Ischemia.In: Grenvik A, Safar P, editors.Brain Failure and Resuscitation.1981.pp.155–184.
+5.Safar P.Resuscitation after Brain Ischemia.In: Grenvik A, Safar P, editors.Brain Failure and Resuscitation.1981.pp.155–184.
+6.Bernard SA, Gray TW, Buist MD, et al: Treatment of comatose survivors of out-of-hospital cardiac arrest with induced hypothermia.N Engl J Med346:557–563, 2002.doi: 10.1056/NEJMoa003289
+6.Bernard SA, Gray TW, Buist MD, et al: Treatment of comatose survivors of out-of-hospital cardiac arrest with induced hypothermia.N Engl J Med346:557–563, 2002.doi: 10.1056/NEJMoa003289
+7.Nielsen N, Wetterslev J, Cronberg T, et al: Targeted temperature management at 33°C versus 36°C after cardiac arrest.N Engl J Med369:2197–2206, 2013.doi: 10.1056/NEJMoa1310519
+7.Nielsen N, Wetterslev J, Cronberg T, et al: Targeted temperature management at 33°C versus 36°C after cardiac arrest.N Engl J Med369:2197–2206, 2013.doi: 10.1056/NEJMoa1310519
+8.Perman SM, Elmer J, Maciel CB, et al: 2023 American Heart Association Focused Update on Adult Advanced Cardiovascular Life Support: An Update to the American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation149(5):e254-e273, 2024.doi:10.1161/CIR.0000000000001194
+8.Perman SM, Elmer J, Maciel CB, et al: 2023 American Heart Association Focused Update on Adult Advanced Cardiovascular Life Support: An Update to the American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation149(5):e254-e273, 2024.doi:10.1161/CIR.0000000000001194
+9.Granfeldt A, Holmberg MJ, Nolan JP, Soar J, Andersen LW; International Liaison Committee on Resuscitation (ILCOR) Advanced Life Support Task Force: Targeted temperature management in adult cardiac arrest: Systematic review and meta-analysis.Resuscitation167:160–172, 2021.doi:10.1016/j.resuscitation.2021.08.040
+9.Granfeldt A, Holmberg MJ, Nolan JP, Soar J, Andersen LW; International Liaison Committee on Resuscitation (ILCOR) Advanced Life Support Task Force: Targeted temperature management in adult cardiac arrest: Systematic review and meta-analysis.Resuscitation167:160–172, 2021.doi:10.1016/j.resuscitation.2021.08.040
+10.Nolan JP, Sandroni C, Böttiger BW, et al: European Resuscitation Council and European Society of Intensive Care Medicine guidelines 2021: post-resuscitation care.Intensive Care Med47(4):369–421, 2021.doi:10.1007/s00134-021-06368-4
+10.Nolan JP, Sandroni C, Böttiger BW, et al: European Resuscitation Council and European Society of Intensive Care Medicine guidelines 2021: post-resuscitation care.Intensive Care Med47(4):369–421, 2021.doi:10.1007/s00134-021-06368-4
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+美国心脏协会《2020年心肺复苏与心血管急救指南》：这些心肺复苏 (CPR) 和心血管急救 (ECC) 指南基于对复苏科学、方案和教育的最新综述。
+美国心脏协会《2020年心肺复苏与心血管急救指南》：这些心肺复苏 (CPR) 和心血管急救 (ECC) 指南基于对复苏科学、方案和教育的最新综述。
+Perman SM, Elmer J, Maciel CB, Uzendu A, May T, Mumma BE, Bartos JA, Rodriguez AJ, Kurz MC, Panchal AR, Rittenberger JC; American Heart Association.2023 American Heart Association Focused Update on Adult Advanced Cardiovascular Life Support: An Update to the American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation2024 Jan 30;149(5):e254-e273.
+Perman SM, Elmer J, Maciel CB, Uzendu A, May T, Mumma BE, Bartos JA, Rodriguez AJ, Kurz MC, Panchal AR, Rittenberger JC; American Heart Association.2023 American Heart Association Focused Update on Adult Advanced Cardiovascular Life Support: An Update to the American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation2024 Jan 30;149(5):e254-e273.

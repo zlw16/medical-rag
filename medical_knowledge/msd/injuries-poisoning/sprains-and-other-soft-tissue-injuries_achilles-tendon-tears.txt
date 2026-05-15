@@ -1,0 +1,64 @@
+标题：跟腱撕裂
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/sprains-and-other-soft-tissue-injuries/achilles-tendon-tears
+============================================================
+
+(参见扭伤和其他软组织损伤概述。)
+跟腱撕裂很常见。通常在跑步或跳跃过程中发生，常见于中年男性和运动员。极少数情况下，服用氟喹诺酮类抗生素或糖皮质激素的人会发生自发性跟腱撕裂。
+肌腱撕裂可能是部分的或完全的。
+
+【跟腱撕裂的症状和体征】
+远端腓肠肌疼痛导致行走困难，特别是跟腱完全撕裂时。腓肠肌会有肿胀和瘀血。
+完全撕裂时有可触及的缺损，通常发生在近端肌腱止点2-6cm处。
+
+【跟腱撕裂的诊断】
+主要是病史和体格检查
+主要是病史和体格检查
+有时需要核磁共振检查或超声检查
+有时需要核磁共振检查或超声检查
+跟腱撕裂的诊断根据临床表现（1)。 病人可以弯曲脚踝并不能排除撕裂的可能。
+如果临床医生怀疑跟腱撕裂，可以进行3项主要检查来帮助确诊。
+对于Thompson试验（小腿挤压试验），患者取俯卧位，通过挤压小腿以诱发足跖屈。包括以下结果：
+完全性撕裂，无踝关节跖屈或减弱。
+完全性撕裂，无踝关节跖屈或减弱。
+部分撕裂，有时结果正常，因此容易漏诊。
+部分撕裂，有时结果正常，因此容易漏诊。
+汤普森试验对跟腱撕裂的敏感性为 96%，特异性为 93%（1）。
+Matles测试是用来评估静息张力的。患者俯卧，膝盖弯曲90°以缩短腓肠肌。比较患者的双脚。包括以下结果：
+如果跟腱完好无损，则会发生踝关节跖屈20至30°。
+如果跟腱完好无损，则会发生踝关节跖屈20至30°。
+如果跟腱撕裂，脚会落到中立位置。
+如果跟腱撕裂，脚会落到中立位置。
+Matles测试对跟腱撕裂的敏感度为88％，特异度为85％（1）。
+Matles 测试的目的是让检查员检查脚的自然跖屈，跟腱完整，以及受伤的脚踝没有跖屈（表明 Matles 测试呈阳性）。在 Matles 测试中，患者俯卧，膝盖弯曲，检查员评估脚的位置。在此图像中，前面的脚显示没有跖屈（即，脚完全平放（到中立位置，0° 跖屈）。该结果为阳性 Matles 测试。背景中的足部显示足底屈曲 20 至 30°，表明跟腱没有断裂（即跟腱完好）。
+触诊肌腱间隙时，要求患者用受伤的腿站立（如果可能的话）。然后临床医生轻轻触诊跟腱并感觉是否有间隙;间隙表示肌腱撕裂。
+体格检查在检测跟腱撕裂方面比MRI更灵敏（2）。一项关于跟腱撕裂患者的研究（2012）发现，如果所有3项测试（Thompson，Matles，间隙触诊）均为阳性，则对于跟腱撕裂的敏感性为100％。根据美国骨科医师学会的指导方针（2010），对撕裂的诊断只需要以下一项（3):
+这3项测试中有2项阳性。
+这3项测试中有2项阳性。
+其中1项测试为阳性且踝关节跖屈减弱。
+其中1项测试为阳性且踝关节跖屈减弱。
+超声检查越来越多地用于确认肌腱撕裂或在需要成像时区分部分撕裂和完全撕裂。由经验丰富的操作员完成的诊断准确性似乎很好。
+
+【诊断参考】
+1.Maffulli N: The clinical diagnosis of subcutaneous tear of the Achilles tendon: A prospective study in 174 patients.Am J Sports Med26 (2):266–270, 1998.doi:10.1177/03635465980260021801
+1.Maffulli N: The clinical diagnosis of subcutaneous tear of the Achilles tendon: A prospective study in 174 patients.Am J Sports Med26 (2):266–270, 1998.doi:10.1177/03635465980260021801
+2.Garras DN, Raikin SM, Bhat SB, et al: MRI is unnecessary for diagnosing acute Achilles tendon ruptures: Clinical diagnostic criteria.Clin Orthop Relat Res470 (8):2268–2273, 2012.doi: 10.1007/s11999-012-2355-y
+2.Garras DN, Raikin SM, Bhat SB, et al: MRI is unnecessary for diagnosing acute Achilles tendon ruptures: Clinical diagnostic criteria.Clin Orthop Relat Res470 (8):2268–2273, 2012.doi: 10.1007/s11999-012-2355-y
+3.Chiodo CP, Glazebrook M, Bluman EM, et al: Diagnosis and treatment of acute Achilles tendon rupture: Practice guideline.J Am Acad Orthop Surg18 (8):503–510, 2010.doi: 10.5435/00124635-201008000-00007
+3.Chiodo CP, Glazebrook M, Bluman EM, et al: Diagnosis and treatment of acute Achilles tendon rupture: Practice guideline.J Am Acad Orthop Surg18 (8):503–510, 2010.doi: 10.5435/00124635-201008000-00007
+
+【跟腱撕裂的治疗】
+跖屈夹板固定
+跖屈夹板固定
+立即转诊至骨科医生
+立即转诊至骨科医生
+有时进行手术修复
+有时进行手术修复
+对于跟腱撕裂的初始治疗包括脚踝跖屈位夹板固定，然后立即转诊至骨科医生。
+跟腱撕裂可采用非手术管理（如夹板固定及渐进性关节活动度康复）或手术修复治疗。
+非手术治疗包括初期使用后踝夹板将踝关节固定于跖屈位，随后逐步进行从跖屈到中立位的渐进式活动度训练。
+肌腱修复手术可通过开放术式或微创/经皮途径实施。
+非手术管理的再断裂风险稍高，然而手术与非手术方案在长期预后上相近（1）。
+
+【治疗参考文献】
+1.Dold AP.Acute Achilles Tendon Ruptures: An Update on Current Management Strategies.J Am Acad Orthop Surg.2024;33(16):881-889.Published 2024 Oct 8.doi:10.5435/JAAOS-D-24-00275
+1.Dold AP.Acute Achilles Tendon Ruptures: An Update on Current Management Strategies.J Am Acad Orthop Surg.2024;33(16):881-889.Published 2024 Oct 8.doi:10.5435/JAAOS-D-24-00275

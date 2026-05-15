@@ -1,0 +1,88 @@
+标题：甲真菌病
+来源：https://www.msdmanuals.cn/professional/dermatologic-disorders/nail-disorders/onychomycosis
+============================================================
+
+（参见甲病概述。）
+全球约有5.5%的人口以及2%至14%的美国人患有甲真菌病（1，2）。
+甲真菌病的危险因素包括:
+先前存在的指甲营养不良（例如机械性指甲创伤的患者）
+先前存在的指甲营养不良（例如机械性指甲创伤的患者）
+与有甲真菌病或足癣患者接触（如家庭成员共用浴盆）
+与有甲真菌病或足癣患者接触（如家庭成员共用浴盆）
+外周血管疾病或糖尿病
+外周血管疾病或糖尿病
+免疫抑制治疗
+免疫抑制治疗
+足趾的发病率是手指的10倍。约65%的病例由皮肤癣菌引起（例如Trichophyton rubrum（红色发癣菌））；皮肤癣菌引起的甲感染称为甲癣（3）。其余许多病例是由非皮肤癣菌霉菌（例如，Aspergillus[曲霉属]、Scopulariopsis[帚霉属]、Fusarium[镰刀菌属]）。免疫缺陷或慢性黏膜皮肤念珠菌病的患者可由念珠菌感染引起甲癣（指甲更多见）。亚临床甲癣可见于反复发作的足癣患者。甲癣对于有足部的蜂窝织炎的患者有倾向性。
+甲癣是一类真菌感染累及甲板和（或）甲床的疾病。感染可能是远端甲下，指甲增厚并泛黄，指甲下方角蛋白和碎屑堆积（上），近端甲下（无图）或白色浅表的，甲表面下方（下）散布白垩色鳞片。
+
+【参考文献】
+1.Lipner SR, Scher RK.Onychomycosis: Clinical overview and diagnosis.J Am Acad Dermatol.2019;80(4):835-851.doi:10.1016/j.jaad.2018.03.062
+1.Lipner SR, Scher RK.Onychomycosis: Clinical overview and diagnosis.J Am Acad Dermatol.2019;80(4):835-851.doi:10.1016/j.jaad.2018.03.062
+2.Lipner SR, Scher RK.Onychomycosis: Treatment and prevention of recurrence.J Am Acad Dermatol.2019;80(4):853-867.doi:10.1016/j.jaad.2018.05.1260
+2.Lipner SR, Scher RK.Onychomycosis: Treatment and prevention of recurrence.J Am Acad Dermatol.2019;80(4):853-867.doi:10.1016/j.jaad.2018.05.1260
+3.Sigurgeirsson B, Baran R.The prevalence of onychomycosis in the global population: a literature study.J Eur Acad Dermatol Venereol.2014;28(11):1480-1491.doi:10.1111/jdv.12323
+3.Sigurgeirsson B, Baran R.The prevalence of onychomycosis in the global population: a literature study.J Eur Acad Dermatol Venereol.2014;28(11):1480-1491.doi:10.1111/jdv.12323
+
+【甲真菌病的症状和体征】
+指甲出现无症状的白色或黄色斑块，伴有甲剥离和甲下碎屑。有3种常见的分型：
+远端甲下型：指甲增厚变黄，角质和碎屑在远端和指甲下方堆积，指甲与甲床分离（甲分离）。
+远端甲下型：指甲增厚变黄，角质和碎屑在远端和指甲下方堆积，指甲与甲床分离（甲分离）。
+近端甲下型：从近端开始出现异常，提示免疫低下。
+近端甲下型：从近端开始出现异常，提示免疫低下。
+浅表性变白型：由表及里出现白垩样改变。
+浅表性变白型：由表及里出现白垩样改变。
+这张照片显示了大脚趾甲的甲真菌病。右趾甲表现为典型的二外侧（远端甲下）甲真菌病（DLO），而左趾甲可能始于DLO，并发展为皮肤植物瘤（菌丝密集聚集，呈线状条纹）。
+
+【甲真菌病的诊断】
+皮肤镜检查
+皮肤镜检查
+真菌培养或聚合酶链反应（PCR）检测
+真菌培养或聚合酶链反应（PCR）检测
+真菌镜检
+真菌镜检
+对过碘酸希夫（PAS）或六胺银（GMS）染色的指甲屑和甲下碎屑进行组织病理学检查
+对过碘酸希夫（PAS）或六胺银（GMS）染色的指甲屑和甲下碎屑进行组织病理学检查
+当患有足癣的患者出现相应外观时，应怀疑甲真菌病；预测性临床特征包括同一只脚的第一和第五个脚趾甲受累，以及单只脚受累。亚临床甲癣可见于反复发作的足癣患者。皮肤镜检查可辅助显示钉状或极光样模式，但需进行真菌学确认。
+与银屑病或扁平苔藓的鉴别至关重要，因为治疗方法不同。甲真菌病患病率在银屑病患者中显著高于非银屑病患者（1）。在治疗前需确认真菌病因。
+诊断通常通过显微镜检查确认，除非显微镜检查结果明确，否则需要进行刮屑培养或剪下甲组织行聚合酶链式反应检测（2）。从受感染指甲最接近甲根的可用部位刮取碎屑，采用氢氧化钾湿片法检测菌丝并行真菌培养。PCR已成为确认甲癣诊断的更常用技术，尤其是在培养阴性或需要明确诊断的情况下（3,4）。对指甲剪取物及甲下碎屑进行PAS染色或GMS染色的组织病理学检查也可能具有辅助诊断价值。
+要获得足够的指甲样本进行培养是很困难的，因为远端甲下碎屑很容易采样，但通常不含活的真菌。在取材前用剪刀剪去这些碎屑或用刮匙刮取更多的近端甲下组织可增加阳性率。
+
+【诊断参考】
+1.Liu M, Kang Y, Zhang R.The Prevalence of Onchomycosis in Psoriasis Patients: A Systematic Review and Meta-Analysis.Mycoses.2025;68(2):e70035.doi:10.1111/myc.70035
+1.Liu M, Kang Y, Zhang R.The Prevalence of Onchomycosis in Psoriasis Patients: A Systematic Review and Meta-Analysis.Mycoses.2025;68(2):e70035.doi:10.1111/myc.70035
+2.Gupta AK, Mays RR, Versteeg SG, et al: Update on current approaches to diagnosis and treatment of onychomycosis.Expert Rev Anti Infect Ther16(12):929–938, 2018.doi: 10.1080/14787210.2018.1544891
+2.Gupta AK, Mays RR, Versteeg SG, et al: Update on current approaches to diagnosis and treatment of onychomycosis.Expert Rev Anti Infect Ther16(12):929–938, 2018.doi: 10.1080/14787210.2018.1544891
+3.Joyce A, Gupta AK, Koenig L, et al: Fungal Diversity and Onychomycosis: An analysis of 8,816 toenail samples using quantitative PCR and next-generation sequencing.J Am Podiatr Med Assoc109(1):57–63, 2019.doi: 10.7547/17-070
+3.Joyce A, Gupta AK, Koenig L, et al: Fungal Diversity and Onychomycosis: An analysis of 8,816 toenail samples using quantitative PCR and next-generation sequencing.J Am Podiatr Med Assoc109(1):57–63, 2019.doi: 10.7547/17-070
+4.Haghani I, Shams-Ghahfarokhi M, Dalimi Asl A, et al: Molecular identification and antifungal susceptibility of clinical fungal isolates from onychomycosis (uncommon and emerging species).Mycoses62(2):128–143, 2019.doi: 10.1111/myc.12854
+4.Haghani I, Shams-Ghahfarokhi M, Dalimi Asl A, et al: Molecular identification and antifungal susceptibility of clinical fungal isolates from onychomycosis (uncommon and emerging species).Mycoses62(2):128–143, 2019.doi: 10.1111/myc.12854
+
+【甲真菌病的治疗】
+口服特比萘芬或伊曲康唑
+口服特比萘芬或伊曲康唑
+局部治疗（如艾氟康唑、他伐硼罗、8％环吡酮、阿莫罗芬）
+局部治疗（如艾氟康唑、他伐硼罗、8％环吡酮、阿莫罗芬）
+甲真菌病一般需要治疗。对于高龄、体弱或有禁忌症的患者，可推迟治疗。以下情况建议治疗：
+之前有过同侧肢体的蜂窝织炎
+之前有过同侧肢体的蜂窝织炎
+糖尿病或其他蜂窝织炎的危险因素
+糖尿病或其他蜂窝织炎的危险因素
+存在令人烦恼的症状（例如疼痛、社交尴尬、日常活动困难）
+存在令人烦恼的症状（例如疼痛、社交尴尬、日常活动困难）
+甲真菌病的治疗取决于涉及的指甲数量、疾病的严重程度（表面积、厚度）、合并症的存在和患者的偏好。口服治疗药物包括特比萘芬或伊曲康唑。两种治疗方法均有效。口服氟康唑亦可作为选项，与伊曲康唑相比潜在副作用较少。与特比萘芬相比，唑类药物临床及真菌学治愈率较低（1）。无需治疗至临床症状完全消失，因为这类药物会持续附着在甲板上，停药后仍能维持疗效。若无治疗后预防，复发率很高，通常通过在足部涂抹抗真菌乳膏实现。受感染的指甲不会恢复正常，但新生指甲将呈现正常外观；这一过程可能需要12至18个月。
+外用药物艾芬康唑和他伐硼罗能渗透甲板，较传统外用药物更有效。
+当病情较轻且受累指甲较少时，含有10%艾芬康唑、8%环吡酮或5%阿莫罗芬（美国未上市）的外用抗甲癣搽剂作为主要治疗可能有效。可用于更严重疾病，辅以软化剂（如尿素）或清创术。局部治疗在儿童中尤有效，因其指甲较成人更薄且生长更快。研究型治疗包括新的特比萘芬给药系统。
+为了减少复发，患者需剪短指（趾）甲，洗澡后擦干双脚，穿吸水性好的袜子并使用抗真菌乳膏。旧鞋可能携带大量真菌孢子，如情况允许应予以丢弃。紫外线消毒器可用于处理旧鞋。
+
+【治疗参考文献】
+1.Kreijkamp-Kaspers S, Hawke KL, van Driel ML.Oral Medications to Treat Toenail Fungal Infection.JAMA.2018;319(4):397-398.doi:10.1001/jama.2017.20160
+1.Kreijkamp-Kaspers S, Hawke KL, van Driel ML.Oral Medications to Treat Toenail Fungal Infection.JAMA.2018;319(4):397-398.doi:10.1001/jama.2017.20160
+甲真菌病是非常普遍的，尤其老年人、肢端循环欠佳的患者、甲营养不良和/或足癣患者好发。
+甲真菌病是非常普遍的，尤其老年人、肢端循环欠佳的患者、甲营养不良和/或足癣患者好发。
+根据外观及累及指甲的模式考虑该诊断，通过显微镜镜检以及真菌培养或PCR明确诊断。
+根据外观及累及指甲的模式考虑该诊断，通过显微镜镜检以及真菌培养或PCR明确诊断。
+如果甲真菌病引起并发症或复杂的症状，则必须治疗。
+如果甲真菌病引起并发症或复杂的症状，则必须治疗。
+如果治疗是必要的，可考虑特比萘芬（或选用唑类药物）并采取防复发措施（如保持局部干燥、丢弃旧鞋、修剪短指甲）。
+如果治疗是必要的，可考虑特比萘芬（或选用唑类药物）并采取防复发措施（如保持局部干燥、丢弃旧鞋、修剪短指甲）。

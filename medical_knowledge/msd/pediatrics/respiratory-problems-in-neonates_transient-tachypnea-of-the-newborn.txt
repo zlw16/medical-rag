@@ -1,0 +1,47 @@
+标题：新生儿暂时性呼吸增快
+来源：https://www.msdmanuals.cn/professional/pediatrics/respiratory-problems-in-neonates/transient-tachypnea-of-the-newborn
+============================================================
+
+（参见围产期呼吸系统疾病概述。）
+出生过程中伴随大量生理变化，有时会暴露出在宫内未表现问题的疾病。因此，每次分娩时都应有具备新生儿复苏技能的临床医师在场。孕龄和生长参数有助于确定新生儿病变的风险。
+在出生前和出生时，肺泡中充满了液体。液体清除依赖于分娩时正常释放的刺激肺泡液体吸收的激素，在较小程度上依赖于分娩和阴道分娩时的机械压迫。
+新生儿短暂性呼吸急促可影响早产儿、择期剖宫产分娩的足月儿以及出生时存在呼吸抑制的婴儿，这些患儿均可能出现胎儿/新生儿肺内羊水清除延迟(1)。其他风险因素包括巨大儿、母亲糖尿病和/或哮喘、胎龄较小以及男性 (2)。在通过剖宫产分娩的婴儿中，没有分娩导致肺泡吸收减少以及机械压迫减少。在早产儿中，一个致病因素是肺上皮细胞钠通道发育不成熟；这些通道负责从肺泡中吸收钠离子（以及水分）。（探讨了新生儿肺功能中胎儿肺液正常吸收的机制）
+
+【参考文献】
+1.Alhassen Z, Vali P, Guglani L, Lakshminrusimha S, Ryan RM.Recent Advances in Pathophysiology and Management of Transient Tachypnea of Newborn.J Perinatol.2021;41(1):6-16.doi:10.1038/s41372-020-0757-3
+1.Alhassen Z, Vali P, Guglani L, Lakshminrusimha S, Ryan RM.Recent Advances in Pathophysiology and Management of Transient Tachypnea of Newborn.J Perinatol.2021;41(1):6-16.doi:10.1038/s41372-020-0757-3
+2.Neri C, Sartorius V, De Luca D.Transient tachypnoea: new concepts on the commonest neonatal respiratory disorder.Eur Respir Rev.2025;34(175):240112.Published 2025 Feb 5.doi:10.1183/16000617.0112-2024
+2.Neri C, Sartorius V, De Luca D.Transient tachypnoea: new concepts on the commonest neonatal respiratory disorder.Eur Respir Rev.2025;34(175):240112.Published 2025 Feb 5.doi:10.1183/16000617.0112-2024
+
+【新生儿短暂性呼吸急促的症状和体征】
+当婴儿出生后不久出现呼吸窘迫时，应怀疑新生儿暂时性呼吸增快。
+症状包括呼吸急促、肋间与肋下凹陷、呻吟、鼻翼煽动及可能的低氧血症或发绀。
+
+【新生儿短暂性呼吸急促的诊断】
+体格检查，包括呼吸频率和呼吸功
+体格检查，包括呼吸频率和呼吸功
+胸部X光检查
+胸部X光检查
+全血细胞计数(CBC)和血培养
+全血细胞计数(CBC)和血培养
+在体格检查中可发现呼吸急促、胸壁回缩或其他呼吸功增加的迹象。
+肺炎，呼吸窘迫综合征和败血症可能有相似的表现，因此通常进行胸部X线、CBC和血液培养检查。
+胸部X线显示肺正常充气或过度充气，肺门周围有条纹状影，肺周边清晰，心脏边缘呈毛糙状。肺裂隙内常可见液体。
+如果初步结果不确定或提示感染，待培养结果期间给予抗生素（如氨苄西林、庆大霉素）治疗。
+
+【新生儿短暂性呼吸急促的治疗】
+有时需要额外的呼吸支持
+有时需要额外的呼吸支持
+新生儿短暂性呼吸过速的治疗是支持性的，包括给氧和监测动脉血气或脉搏血氧饱和度。
+少数患有新生儿暂时性呼吸增快（TTN）的婴儿可能需要持续气道正压通气（CPAP），有时甚至需要机械通气。
+没有干预措施能明确降低机械通气的风险或需求，但支气管扩张剂可能会略微缩短呼吸急促或住院时间（1，2）。
+
+【治疗参考文献】
+1.Bruschettini M, Hassan KO, Romantsik O, Banzi R, Calevo MG, Moresco L.Interventions for the management of transient tachypnoea of the newborn - an overview of systematic reviews.Cochrane Database Syst Rev.2022;2(2):CD013563.Published 2022 Feb 24.doi:10.1002/14651858.CD013563.pub2
+1.Bruschettini M, Hassan KO, Romantsik O, Banzi R, Calevo MG, Moresco L.Interventions for the management of transient tachypnoea of the newborn - an overview of systematic reviews.Cochrane Database Syst Rev.2022;2(2):CD013563.Published 2022 Feb 24.doi:10.1002/14651858.CD013563.pub2
+2.Moresco L, Bruschettini M, Macchi M, Calevo MG.Salbutamolfor transient tachypnea of the newborn.Cochrane Database Syst Rev.2021;2(2):CD011878.Published 2021 Feb 5.doi:10.1002/14651858.CD011878.pub3
+2.Moresco L, Bruschettini M, Macchi M, Calevo MG.Salbutamolfor transient tachypnea of the newborn.Cochrane Database Syst Rev.2021;2(2):CD011878.Published 2021 Feb 5.doi:10.1002/14651858.CD011878.pub3
+
+【新生儿暂时性呼吸急促的预后】
+少数患有新生儿短暂性呼吸急促（TTN）的婴儿会发展为持续性肺动脉高压或者气胸。
+通常无需或仅需少量治疗，2至3天内即可康复。

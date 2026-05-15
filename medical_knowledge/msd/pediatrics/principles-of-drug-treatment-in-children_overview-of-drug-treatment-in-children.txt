@@ -1,0 +1,96 @@
+标题：儿童药物治疗概述
+来源：https://www.msdmanuals.cn/professional/pediatrics/principles-of-drug-treatment-in-children/overview-of-drug-treatment-in-children
+============================================================
+
+儿童的药物治疗和成人不同，最明显之处在于儿童是按体重或体表面积给药的(1)。药物剂量（和给药间隔）的不同主要是由于与年龄相关的药物吸收、分布、代谢、清除的不同(参见儿童药物动力学) (2)。因此，儿童通常不被给予成人剂量。此外，由于剂量并不总是与体重呈线性关系，不能假定儿童剂量和成人剂量成比例（如7kg的儿童用药量为70kg成人的1/10）。
+大多数药物尚未在儿童身上得到充分研究，但美国的立法，2001年的《儿童最佳药物法案》和2003年的《儿科研究公平法案》（均于2012年永久化3），现在提供了法律效力和监管权力，以激励和要求在儿童中进行治疗试验。由于这些行为，为提供儿童的剂量、药代动力学和安全信息，对标签进行了大量修改（4）。2007年至2014年期间，FDA批准了114种新药和已批准药物的新适应症，需要进行上市后儿科监测研究，但截至2017年12月，只有33.8%的强制性研究完成，在药物标签中的儿科疗效、安全性或剂量信息方面留下了重大空白（5）。继续努力改善儿科药品标签和使用。
+
+【参考文献】
+1.Le J, Bradley JS: Optimizing antibiotic drug therapy in pediatrics: Current state and future needs.J Clin Pharmacol58 (supplement 10):S108–S122, 2018.doi: 10.1002/jcph.1128
+1.Le J, Bradley JS: Optimizing antibiotic drug therapy in pediatrics: Current state and future needs.J Clin Pharmacol58 (supplement 10):S108–S122, 2018.doi: 10.1002/jcph.1128
+2.van den Anker J, Reed MD, Allegaert K, Kearns GL: Developmental changes in pharmacokinetics and pharmacodynamics.J Clin Pharmacol58 (supplement 10):S10–S25, 2018.doi: 10.1002/jcph.1284
+2.van den Anker J, Reed MD, Allegaert K, Kearns GL: Developmental changes in pharmacokinetics and pharmacodynamics.J Clin Pharmacol58 (supplement 10):S10–S25, 2018.doi: 10.1002/jcph.1284
+3.Bourgeois FT, Kesselheim AS: Promoting pediatric drug research and labeling—Outcomes of legislation.N Engl J Med381(9):875–881, 2019.doi: 10.1056/NEJMhle1901265
+3.Bourgeois FT, Kesselheim AS: Promoting pediatric drug research and labeling—Outcomes of legislation.N Engl J Med381(9):875–881, 2019.doi: 10.1056/NEJMhle1901265
+4.U.S. Food and Drug Administration: Best Pharmaceuticals for Children Act and Pediatric Research Equity Act.2020 status report.Updated April 21, 2022.Accessed June 6, 2025.
+4.U.S. Food and Drug Administration: Best Pharmaceuticals for Children Act and Pediatric Research Equity Act.2020 status report.Updated April 21, 2022.Accessed June 6, 2025.
+5.Hwang TJ, Orenstein L, Kesselheim AS, Bourgeois FT: Completion Rate and Reporting of Mandatory Pediatric Postmarketing Studies Under the US Pediatric Research Equity Act.JAMA Pediatr173(1):68–74, 2019.doi:10.1001/jamapediatrics.2018.3416
+5.Hwang TJ, Orenstein L, Kesselheim AS, Bourgeois FT: Completion Rate and Reporting of Mandatory Pediatric Postmarketing Studies Under the US Pediatric Research Equity Act.JAMA Pediatr173(1):68–74, 2019.doi:10.1001/jamapediatrics.2018.3416
+
+【不良反应和毒性】
+儿童通常会出现与成人相同的不良反应（见药物不良反应），但由于药代动力学的差异或药物对生长发育的影响，某些药物对儿童的风险更高。KIDs清单指的是“关键潜在不适当药物”，是临床医生的资源，其中包括可能因不良反应或毒性而不适合儿科患者的药物和辅料（1）。一些对儿童有特殊或更高不良反应风险的常见药物在表一些对儿童表现出不同毒性的药物中列出。
+
+【一些对儿童表现出不同毒性的药物】
+一些对儿童表现出不同毒性的药物
+临床综合征
+局部麻醉药（例如，苯佐卡因、利多卡因和丙胺卡因）
+形成高铁血红蛋白（二价铁氧化成三价铁）
+发生率较低
+头孢曲松
+从血浆白蛋白中置换出胆红素
+新生儿需谨慎
+可待因*
+呼吸抑制
+可待因至吗啡的超速代谢
+基因变异，未经药物基因组检测避免使用
+手术后发生死亡，摄入可待因的母亲母乳喂养的婴儿发生死亡。
+地芬诺酯
+呼吸抑制
+中枢神经系统抑制（在未成熟的中枢神经系统）
+药物过量综合征，常见于<6岁的儿童
+氟喹诺酮
+软骨毒性、关节痛
+根据动物研究怀疑存在副作用，但对人类的不良影响尚无充分证据；短期使用或在没有其他选择的情况下使用可能是安全的
+六氯化苯（局部）
+中枢神经系统毒性
+可能促进儿童的吸收
+对体重<50kg的儿童不应使用（应使用替代剂）
+丙泊酚相关输注综合征†
+原因未知，可能与线粒体功能障碍有关
+儿童风险高于成人，尤其是长期使用和高剂量时
+选择性5-羟色胺再摄取抑制剂
+自杀想法
+儿童和青少年自杀观念的几率增高
+磺胺类药物（如磺胺甲恶唑）
+从血浆白蛋白中置换出胆红素
+新生儿和 2 个月以下婴儿不宜使用
+牙釉质的褪色和孔蚀
+在成长的牙齿中螯合钙
+<8岁的儿童不应使用
+* 另请参阅美国儿科学会关于儿童可待因代谢的临床报告。
+†丙泊酚相关输注综合征是一种罕见的、可能致命的并发症，长时间（>48小时）大剂量丙泊酚输注可导致严重的代谢性酸中毒、高钾血症和心力衰竭。
+CNS = 中枢神经系统
+* 另请参阅美国儿科学会关于儿童可待因代谢的临床报告。
+†丙泊酚相关输注综合征是一种罕见的、可能致命的并发症，长时间（>48小时）大剂量丙泊酚输注可导致严重的代谢性酸中毒、高钾血症和心力衰竭。
+CNS = 中枢神经系统
+幼儿若发现并误服照护者的维生素或药物（包括已被丢弃的维生素和药物），其发生意外中毒的风险尤其高。丢弃药物时，消费者可查看药品说明书上的处置说明，或查阅美国食品药品监督管理局提供的信息（2）。选项包括将药物带到当地的药物收集项目（可能在药房或当地执法场所）或当此类回收选项不可用时，将药物与不需要的材料（例如猫砂、咖啡渣）混合，将其放入可密封的防水容器或袋子中，然后将其丢弃在垃圾桶中。
+婴儿也可能因成人使用的药物而面临中毒风险。婴儿中毒可能发生在产前通过胎盘转移暴露，或产后通过母乳暴露（多种药物——参见哺乳期用药及表格哺乳期母亲禁用药物示例）。由于关于怀孕和哺乳期间药物暴露的潜在风险数据有限，《21世纪治愈法案》设立了一个工作组，以确认孕妇和哺乳期患者安全有效疗法相关知识研究中的空白（3）。
+其他类型的意外接触包括与最近使用了某些局部药物(例如，东莨菪碱治疗晕动病，马拉硫磷治疗虱子，苯海拉明治疗毒葛)的护理人员的皮肤接触。
+接受含有抗组胺药、拟交感神经减充血剂和镇咳药右美沙芬(4)组合的非处方止咳感冒药的儿童曾出现包括死亡在内的不良反应。FDA不建议2岁以下儿童使用非处方止咳感冒药（5）。制造商自愿延长标签，建议4岁以下儿童不要使用，这一更严格的建议与美国儿科学会的建议相符。
+
+【不良反应及毒性参考】
+1.Meyers RS, Thackray J, Matson KL, et al: Key Potentially Inappropriate Drugs in Pediatrics: The KIDs List.J Pediatr Pharmacol Ther25(3):175–191, 2020.doi:10.5863/1551-6776-25.3.175
+1.Meyers RS, Thackray J, Matson KL, et al: Key Potentially Inappropriate Drugs in Pediatrics: The KIDs List.J Pediatr Pharmacol Ther25(3):175–191, 2020.doi:10.5863/1551-6776-25.3.175
+2.U.S. Food and Drug Administration: Where and How to Dispose of Unsued Medicines.April 16, 2025.Accessed June 6, 2025.
+2.U.S. Food and Drug Administration: Where and How to Dispose of Unsued Medicines.April 16, 2025.Accessed June 6, 2025.
+3.U.S. Food and Drug Administration: 21st Century Cures Act.January 31, 2020.Accessed June 6, 2025.
+3.U.S. Food and Drug Administration: 21st Century Cures Act.January 31, 2020.Accessed June 6, 2025.
+4.Halmo LS, Wang GS, Reynolds KM, et al: Pediatric fatalities associated with over-the-counter cough and cold medications.Pediatrics148(5):e2020049536, 2021.doi: 10.1542/peds.2020-049536
+4.Halmo LS, Wang GS, Reynolds KM, et al: Pediatric fatalities associated with over-the-counter cough and cold medications.Pediatrics148(5):e2020049536, 2021.doi: 10.1542/peds.2020-049536
+5.Yin HS, Neuspiel DR, Paul IM, et al: Preventing Home Medication Administration Errors.Pediatrics148(6):e2021054666, 2021.doi:10.1542/peds.2021-054666
+5.Yin HS, Neuspiel DR, Paul IM, et al: Preventing Home Medication Administration Errors.Pediatrics148(6):e2021054666, 2021.doi:10.1542/peds.2021-054666
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+U.S. Food and Drug Administration (FDA):Best Pharmaceuticals for Children Act and Pediatric Research Equity Act status report(2020)
+U.S. Food and Drug Administration (FDA):Best Pharmaceuticals for Children Act and Pediatric Research Equity Act status report(2020)
+FDA:FDA Reauthorization Act of 2017 (FDARA)
+FDA:FDA Reauthorization Act of 2017 (FDARA)
+FDA:Where and How to Dispose of Unused Medicines
+FDA:Where and How to Dispose of Unused Medicines
+FDA:21st Century Cures Act
+FDA:21st Century Cures Act
+FDA:The Task Force on Research Specific to Pregnant Women and Lactating Women: Report to Secretary, Health and Human Services, Congress.September 2018.Accessed June 4, 2025.
+FDA:The Task Force on Research Specific to Pregnant Women and Lactating Women: Report to Secretary, Health and Human Services, Congress.September 2018.Accessed June 4, 2025.
+American Academy of Pediatrics:Codeine: Time to Say “No”
+American Academy of Pediatrics:Codeine: Time to Say “No”

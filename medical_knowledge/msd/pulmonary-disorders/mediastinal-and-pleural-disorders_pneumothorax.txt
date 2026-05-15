@@ -1,0 +1,130 @@
+标题：气胸
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/mediastinal-and-pleural-disorders/pneumothorax
+============================================================
+
+
+【气胸的病因】
+原发性自发性气胸发生于无基础肺部疾病的患者，典型多见于十几岁至二十多岁的高瘦男性。其被认为是吸烟（大麻或烟草）或遗传因素导致的胸膜下顶端肺大疱或肺大泡自发性破裂引起。通常于休息时发生，但有些病例发生于举臂或伸展等类似运动时。原发性自发性气胸也可发生于潜水或高空飞行时。
+继发性自发性气胸发生于有肺部基础疾病的病人。最常见的原因是重度慢性阻塞性肺疾病患者（第1秒用力呼气容积[FEV1]<1L）的肺大疱破裂、HIV相关耶氏肺孢子菌感染、囊性纤维化或任何基础肺实质病变（见表继发性自发性气胸的原因）。继发性自发性气胸一般较原发性自发性气胸严重，因为其发生于肺储备功能较差的患者。
+月经性气胸是继发性自发性气胸的一种罕见类型，发生于绝经前妇女的经期最初48小时内，有时发生于服用雌激素的绝经后妇女。病因为胸腔内的子宫内膜异位症，可能是腹部的子宫内膜组织通过膈肌缺陷处迁移至胸腔，或来自盆腔静脉的栓子栓塞转移入胸腔。
+
+【继发性气胸的病因】
+继发性气胸的病因
+慢性阻塞性肺病（COPD）
+囊性纤维化
+坏死性肺炎
+耶氏肺孢子菌感染
+特发性肺纤维化
+朗格汉斯细胞组织细胞增生症
+淋巴管平滑肌瘤病
+结缔组织病
+Ehlers-Danlos综合征
+马方综合征
+系统性硬化病
+系统性风湿性疾病
+强直性脊柱炎
+多发性肌炎/皮肌炎
+类风湿关节炎
+胸腔子宫内膜异位症
+结节性硬化
+创伤性气胸是钝性和穿透性胸部外伤的常见并发症。
+医源性气胸由医疗操作引起，包括经胸腔针吸活检、胸穿、中心静脉置管、机械通气、心肺复苏。
+
+【气胸的病理生理学】
+由于肺组织向内的回缩力和胸壁向外的扩张力，胸腔内压力通常是负压（低于大气压）。发生气胸时，气体从胸腔外部或从肺本身通过纵隔组织间隙或直接的胸膜穿孔进入胸膜腔。胸腔内压力升高，肺容积减少。
+张力性气胸使胸腔内压力进行性上升，整个呼吸周期中均为正压，使肺塌陷，纵隔移位，静脉回流受阻。气体持续进入胸膜腔但不能排出。如治疗不当，全身静脉回流受损可在几分钟内导致全身低血压、呼吸停止和心脏骤停（无脉性电活动）。张力性气胸最常发生于接受正压通气的病人（机械通气或特别在心肺复苏过程中）。少数情况下并发于创伤性气胸，胸部的伤口呈单向活瓣，在吸气时胸腔内气体体积不断增加。
+
+【气胸的症状或体征】
+少量气胸有时没有症状。气胸的症状包括呼吸困难和胸膜炎性胸痛。依气胸的进展速度和程度不同，呼吸困难可为突发或进行性发生。胸痛可类似于心包炎、肺炎、胸膜炎、肺栓塞、肌肉骨骼损伤（当出现肩部牵涉痛时）或腹部病变（当牵涉到腹部时）。尽管典型的心肌缺血疼痛并不是胸膜炎性的，但气胸的胸痛也可以类似于心肌缺血的疼痛。
+典型体征包括气胸侧触觉语颤消失、叩诊呈过清音、呼吸音减低。如果气胸量较大，患侧胸廓可能膨隆，气管可明显或通过触诊发现向对侧偏移，患侧呼吸音可能消失。当发生张力性气胸时，可能出现低血压和心肺骤停。
+
+【气胸的诊断】
+胸部影像学表现
+胸部影像学表现
+在此图像中，右半胸中可见气胸，在该处的外围，没有肺结构标志。心脏和纵隔向左侧移动可导致张力性气胸生理。 然而，张力性气胸应通过临床诊断，而不是等待影像学确认。
+DU CANE MEDICAL IMAGING LTD/SCIENCE PHOTO LIBRARY
+对于病情稳定但有呼吸困难或胸膜炎性胸痛的患者应怀疑该诊断，通常通过直立吸气性胸部 X 线检查确诊。若拍摄呼气相X光片，肺组织密度会增高，从而增强胸膜腔空气与邻近肺组织（因呼气状态和肺不张导致含气量减少）之间的对比差异。萎陷的肺和壁层胸膜之间存在无肺纹理的透亮气体区可诊断气胸。气管偏移和纵隔移位见于大范围气胸。如果潜在的肺部疾病不妨碍充分成像，也可使用床边超声进行诊断。
+该X光片显示右侧大面积气胸，可见右肺塌陷轮廓及气管左偏/纵隔移位。此X光片符合张力性气胸表现。
+RAJAAISYA/SCIENCE PHOTO LIBRARY
+气胸的范围由一侧胸腔内无肺区所占的百分比而定。用1减去肺和一侧胸腔宽度的三次方的比值。例如，一侧胸腔的宽度是10cm，肺宽度为5cm，比例为53/103=0.125。这样气胸的范围就是1减去0.125，即87.5%。如果肺和胸壁有粘连，肺萎陷不对称，气胸可能表现为不规则或局限性，无法准确计算范围。
+少量气胸（如＜10%）有时在胸片上会被忽视。对可能存在气胸的患者，应在胸片上追溯肺纹理直至胸膜边缘。即使是大量气胸在仰卧位X光片上也可能不明显，应特别注意深沟征（肋膈角异常加深），这可能是仰卧位患者X光片上气胸的唯一征象。影像学上类似气胸的情况包括肺气肿性肺大疱、皮肤皱褶，床单褶皱以及肺野上的胃肠重叠影。
+CT扫描也能清晰显示仰卧位患者的气胸及相关病变。
+该轴位CT显示细菌性肺炎患者存在左侧气胸。可见多发脓肿及双侧胸腔积液（左侧更明显）。
+PNMB/SCIENCE PHOTO LIBRARY
+
+【经验与提示】
+经验与提示
+机械通气患者突发低血压应及时考虑张力性气胸。如果病人也有呼吸音减弱，叩诊过清音，应推定张力性气胸诊断并立即治疗，而不需要等待胸部X线的确认。
+机械通气患者突发低血压应及时考虑张力性气胸。如果病人也有呼吸音减弱，叩诊过清音，应推定张力性气胸诊断并立即治疗，而不需要等待胸部X线的确认。
+
+【气胸的治疗】
+对张力性气胸立即进行空针减压
+对张力性气胸立即进行空针减压
+无症状原发性自发性气胸（无论大小）的观察和随访X线检查
+无症状原发性自发性气胸（无论大小）的观察和随访X线检查
+有症状的原发性自发性气胸的导管抽吸或移动治疗装置治疗
+有症状的原发性自发性气胸的导管抽吸或移动治疗装置治疗
+继发性或创伤性气胸，应采取胸腔置管引流术
+继发性或创伤性气胸，应采取胸腔置管引流术
+治疗取决于气胸的类型、范围和造成的影响。
+无论气胸大小，若随访胸部X线片（最初4小时一次，之后每周一次）显示直至完全缓解期间无进展，且患者生理状态稳定，则不引起呼吸或心脏症状的原发性自发性气胸可安全观察，无需治疗。随访可在门诊进行。对于非低氧血症的原发性自发性气胸患者，尽管有人使用氧疗，但证据极少且未被现行指南推荐（1、2、3）。
+有症状的原发性自发性气胸应通过导管抽吸或移动治疗装置（连接至单向阀的引流装置，患者可以使用该装置移动，例如海姆立克阀）来排空。另一种选择是住院并行胸腔置管引流术。
+导管抽吸是在锁骨中线第二肋间插入一根小口径（约7F至9F）静脉导管或猪尾导管，导管接三通阀和注射器，空气通过三通阀从胸膜腔抽入注射器，然后排到室内。重复该过程直至肺复张或抽气量已达4L。如果肺复张，可拔除导管，或连接单向Heimlich阀后留置导管（这样便于下床活动），患者无需住院。若肺不复张，须置入胸管，患者须住院。原发性自发性气胸也可以一开始就置入胸管接水封瓶，用或不用负压吸引。原发性自发性气胸患者应当接受戒烟咨询。
+使用小口径（< 14 French）引流管的胸腔置管引流术通常用于治疗继发性和创伤性气胸。出现症状的医源性气胸患者最好先进行抽吸治疗。
+张力性气胸是医疗急症，应进行临床诊断；不应浪费时间通过胸部X线检查来确诊。应立即采取针刺胸腔造口术治疗，即在锁骨中线第二肋间插入带有导管、长度足以完全穿透胸壁的14号或16号针。高压气体逸出的声音可证实诊断。导管可向外界开放或连接Heimlich阀。紧急减压后，须立即行胸腔置管引流术，随后可拔除原先的穿刺导管。
+
+【治疗参考文献】
+1.Cheng HS, Wong C, Chiu PH, Tong CW, Miu PF.Management of spontaneous pneumothorax: a mini-review on its latest evidence.J Thorac Dis2024;16(7):4756-4763.doi:10.21037/jtd-24-415
+1.Cheng HS, Wong C, Chiu PH, Tong CW, Miu PF.Management of spontaneous pneumothorax: a mini-review on its latest evidence.J Thorac Dis2024;16(7):4756-4763.doi:10.21037/jtd-24-415
+2.Roberts ME, Rahman NM, Maskell NA, et al.British Thoracic Society Guideline for pleural disease.Thorax2023;78(Suppl 3):s1-s42.doi:10.1136/thorax-2022-219784
+2.Roberts ME, Rahman NM, Maskell NA, et al.British Thoracic Society Guideline for pleural disease.Thorax2023;78(Suppl 3):s1-s42.doi:10.1136/thorax-2022-219784
+3.Speck KE, Kulaylat AN, Baerg JE, et al.Evaluation and Management of Primary Spontaneous Pneumothorax in Adolescents and Young Adults: A Systematic Review From the APSA Outcomes & Evidence-Based Practice Committee.J Pediatr Surg2023;58(10):1873-1885.doi:10.1016/j.jpedsurg.2023.03.018
+3.Speck KE, Kulaylat AN, Baerg JE, et al.Evaluation and Management of Primary Spontaneous Pneumothorax in Adolescents and Young Adults: A Systematic Review From the APSA Outcomes & Evidence-Based Practice Committee.J Pediatr Surg2023;58(10):1873-1885.doi:10.1016/j.jpedsurg.2023.03.018
+
+【气胸的并发症】
+治疗气胸时遇到的3个主要问题是：
+空气渗漏
+空气渗漏
+肺不能复张
+肺不能复张
+复张后肺水肿
+复张后肺水肿
+空气渗漏常因最初的损伤引起，即肺内气体持续漏到胸膜腔，但也可因为胸管置入部位未正确缝合和密封，空气从胸管周围漏入胸膜腔。空气渗漏在继发性气胸中比在原发性自发性气胸中更常见。大多在1周内自行缓解。
+肺复张失败常因为以下原因之一
+持续的空气渗漏
+持续的空气渗漏
+支气管内阻塞
+支气管内阻塞
+胸管位置不正确
+胸管位置不正确
+如果空气渗漏或肺复张不完全持续超过1周，应考虑血胸膜固定术（血补片）、支气管内瓣膜、胸腔镜或胸廓切开术。
+复张性肺水肿发生于肺快速复张时，如肺萎陷超过>2天后连接胸管进行负压吸引。治疗采用吸氧、利尿剂等支持治疗，必要时心肺支持。
+
+【预防气胸】
+大型研究显示，初次原发性自发性气胸（1、2）术后1年复发率为19%至29%，但继发性气胸的复发率更高。
+最佳预防措施是电视辅助胸腔镜手术（VATS），术中缝合或切除肺大疱，并通过胸膜摩擦、壁层胸膜切除或滑石粉喷洒进行胸膜固定；在某些医疗中心，开胸术仍偶尔使用。
+对于第二次发生的原发性气胸、某些情况下第一次发作后（例如张力性气胸、高危职业[例如飞行员、潜水]）、继发性气胸或初始治疗无法解决持续漏气的情况下，建议进行这些手术。这些手术后复发率减少（3）。如果无法进行胸腔镜检查或有禁忌症，可通过胸管进行化学胸膜固定术；该操作可降低复发率，但效果不及VATS，因此VATS是可能情况下的首选技术（4）。
+
+【预防参考文献】
+1.Hallifax RJ, Goldacre R, Landray MJ, Rahman NM, Goldacre MJ.Trends in the Incidence and Recurrence of Inpatient-Treated Spontaneous Pneumothorax, 1968-2016.JAMA2018;320(14):1471-1480.doi:10.1001/jama.2018.14299
+1.Hallifax RJ, Goldacre R, Landray MJ, Rahman NM, Goldacre MJ.Trends in the Incidence and Recurrence of Inpatient-Treated Spontaneous Pneumothorax, 1968-2016.JAMA2018;320(14):1471-1480.doi:10.1001/jama.2018.14299
+2.Walker SP, Bibby AC, Halford P, Stadon L, White P, Maskell NA.Recurrence rates in primary spontaneous pneumothorax: a systematic review and meta-analysis.Eur Respir J2018;52(3):1800864.Published 2018 Sep 6.doi:10.1183/13993003.00864-2018
+2.Walker SP, Bibby AC, Halford P, Stadon L, White P, Maskell NA.Recurrence rates in primary spontaneous pneumothorax: a systematic review and meta-analysis.Eur Respir J2018;52(3):1800864.Published 2018 Sep 6.doi:10.1183/13993003.00864-2018
+3.Lin Z, Zhang Z, Wang Q, Li J, Peng W, Ge G.A systematic review and meta-analysis of video-assisted thoracoscopic surgery treating spontaneous pneumothorax.J Thorac Dis2021;13(5):3093-3104.doi:10.21037/jtd-21-652
+3.Lin Z, Zhang Z, Wang Q, Li J, Peng W, Ge G.A systematic review and meta-analysis of video-assisted thoracoscopic surgery treating spontaneous pneumothorax.J Thorac Dis2021;13(5):3093-3104.doi:10.21037/jtd-21-652
+4.Elsayed HH, Hassaballa A, Ahmed T.Is video-assisted thoracoscopic surgery talc pleurodesis superior to talc pleurodesis via tube thoracostomy in patients with secondary spontaneous pneumothorax?Interact Cardiovasc Thorac Surg2016;23(3):459-461.doi:10.1093/icvts/ivw154
+4.Elsayed HH, Hassaballa A, Ahmed T.Is video-assisted thoracoscopic surgery talc pleurodesis superior to talc pleurodesis via tube thoracostomy in patients with secondary spontaneous pneumothorax?Interact Cardiovasc Thorac Surg2016;23(3):459-461.doi:10.1093/icvts/ivw154
+原发性自发性气胸发生于无基础肺部疾病的患者，典型多见于十几岁至二十多岁的高瘦男性。
+原发性自发性气胸发生于无基础肺部疾病的患者，典型多见于十几岁至二十多岁的高瘦男性。
+继发性自发性气胸发生于有肺部疾病的患者；它通常是由严重慢性阻塞性肺疾病（COPD）患者的水泡或大泡破裂引起的。
+继发性自发性气胸发生于有肺部疾病的患者；它通常是由严重慢性阻塞性肺疾病（COPD）患者的水泡或大泡破裂引起的。
+可以采用立位胸部X线或超声检查进行诊断，不包括张力性气胸，后者通常在怀疑后尽快通过临床诊断。
+可以采用立位胸部X线或超声检查进行诊断，不包括张力性气胸，后者通常在怀疑后尽快通过临床诊断。
+如果在约 4 小时内进行的后续胸部 X 光检查显示没有进展，并且在接下来的几周内定期随访，则可以安全地观察不会引起呼吸道或心脏症状的原发性自发性气胸，无需治疗。
+如果在约 4 小时内进行的后续胸部 X 光检查显示没有进展，并且在接下来的几周内定期随访，则可以安全地观察不会引起呼吸道或心脏症状的原发性自发性气胸，无需治疗。
+有症状的原发性自发性气胸应通过导管抽吸、便携式引流装置或胸腔闭式引流术进行排气。
+有症状的原发性自发性气胸应通过导管抽吸、便携式引流装置或胸腔闭式引流术进行排气。
+继发性的或创伤性的气胸则通常通过胸腔闭式引流术进行治疗。
+继发性的或创伤性的气胸则通常通过胸腔闭式引流术进行治疗。
+电视辅助胸腔镜手术（VATS）和其他操作有助于预防自发性气胸复发。
+电视辅助胸腔镜手术（VATS）和其他操作有助于预防自发性气胸复发。

@@ -1,0 +1,198 @@
+标题：口服避孕药
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/family-planning/oral-contraceptives
+============================================================
+
+口服避孕药（OCs）是一种类固醇激素，可以抑制下丘脑分泌促性腺激素释放激素（GnRH），从而抑制刺激排卵的垂体激素的释放。口服避孕药还会影响子宫内膜，降低胚胎植入的可能性，并导致宫颈粘液变稠，使其无法被精子穿透。坚持正确地使用口服避孕药避孕是一种有效的避孕方式。
+OCs可以在任何年龄开始，从初潮到更年期。
+口服避孕药可以是雌激素和孕激素的联合制剂，也可以是单一孕激素制剂。
+
+【雌孕激素口服避孕药】
+大多数雌激素–孕激素复方口服避孕药的用法为：每日口服 1 片含雌激素和孕激素的活性药片，连续服用 21～24 天。随后每日口服 1 片安慰剂，连续 4～7 天，以诱发撤退性出血。在某些配方中，安慰剂药片含有铁和叶酸（folic acid）；而在其他配方中，这种药片并非完全无效，而是所含的炔雌醇剂量低于其他周使用的药片。雌激素–孕激素复方口服避孕药还可采用延长周期制剂（84 片活性药片每日 1 片，随后 7 天安慰剂），或连续用药制剂（每日均服用活性药片，不设安慰剂）。
+多数雌激素-孕激素复合口服避孕药含有 10～35 微克乙炔雌二醇。部分制剂以雌二醇戊酸酯或依替雌醇代替炔雌醇。某些复方口服避孕药在整个月经周期内雌激素与孕激素剂量恒定（单相片）；而另一些制剂则在周期中分阶段改变剂量（多相片）。
+所有雌激素–孕激素复方口服避孕药的避孕效果相近；在理想使用情况下，1 年妊娠率约为 0.3%；在常规使用（即依从性不足）情况下，约为 9%（1）。
+
+【雌孕激素避孕药的禁忌症（药丸、贴片、阴道环）】
+在部分女性中，使用雌激素–孕激素复方口服避孕药或其他雌激素–孕激素避孕方式（贴剂、阴道环）应慎重（详见《2024 年美国避孕方法使用医学适宜性标准》）。
+雌激素-孕激素避孕药不良反应的风险因风险因素和相关并发症而异。在具有以下特征的患者中，使用雌孕激素避孕是一种不可接受的健康风险：
+产后<21天
+产后<21天
+血栓形成突变、血栓形成倾向（包括抗磷脂综合征）或当前或过去的静脉血栓栓塞（深静脉血栓形成或者肺栓塞）
+血栓形成突变、血栓形成倾向（包括抗磷脂综合征）或当前或过去的静脉血栓栓塞（深静脉血栓形成或者肺栓塞）
+活动性癌症（转移性、正在接受治疗或临床缓解后6个月内），不包括非黑色素瘤皮肤癌。
+活动性癌症（转移性、正在接受治疗或临床缓解后6个月内），不包括非黑色素瘤皮肤癌。
+目前患有乳腺癌
+目前患有乳腺癌
+因大手术而长时间不能活动
+因大手术而长时间不能活动
+有先兆的偏头痛
+有先兆的偏头痛
+≥ 35 岁女性吸烟
+≥ 35 岁女性吸烟
+严重高血压（收缩压≥160毫米汞柱或舒张压≥100毫米汞柱）或并发血管疾病
+严重高血压（收缩压≥160毫米汞柱或舒张压≥100毫米汞柱）或并发血管疾病
+围产期心肌病<6个月或心功能中度或重度受损
+围产期心肌病<6个月或心功能中度或重度受损
+缺血性心脏病或动脉粥样硬化性心血管疾病的多种危险因素
+缺血性心脏病或动脉粥样硬化性心血管疾病的多种危险因素
+伴有并发症的瓣膜性心脏病。
+伴有并发症的瓣膜性心脏病。
+患糖尿病>20年或合并血管性疾病（如神经病变，肾病，视网膜病变）
+患糖尿病>20年或合并血管性疾病（如神经病变，肾病，视网膜病变）
+抗磷脂抗体阳性（或未知）的系统性红斑狼疮
+抗磷脂抗体阳性（或未知）的系统性红斑狼疮
+伴有并发症的实体器官移植。
+伴有并发症的实体器官移植。
+严重的失代偿期肝硬化，肝细胞腺瘤，或肝癌
+严重的失代偿期肝硬化，肝细胞腺瘤，或肝癌
+急性病毒性肝炎
+急性病毒性肝炎
+在具有以下特征的患者中，使用雌孕激素避孕药具代表了一种理论上或已证实的风险，且风险通常大于获益：
+产后 ≤ 42 天，有静脉血栓栓塞的危险因素
+产后 ≤ 42 天，有静脉血栓栓塞的危险因素
+浅静脉血栓形成（与外周静脉导管相关的血栓形成风险较低）
+浅静脉血栓形成（与外周静脉导管相关的血栓形成风险较低）
+既往乳腺癌且5年内无疾病复发证据。
+既往乳腺癌且5年内无疾病复发证据。
+< 35 岁女性吸烟情况
+< 35 岁女性吸烟情况
+高血压得到充分控制
+高血压得到充分控制
+围产期心肌病 ≥6个月
+围产期心肌病 ≥6个月
+多发性硬化症伴长时间不活动
+多发性硬化症伴长时间不活动
+炎症性肠病，如果存在静脉血栓栓塞的危险因素
+炎症性肠病，如果存在静脉血栓栓塞的危险因素
+目前患有或药物治疗中的胆囊疾病或有避孕相关胆汁淤积的病史
+目前患有或药物治疗中的胆囊疾病或有避孕相关胆汁淤积的病史
+由于缩短功能性小肠长度而导致吸收不良的减肥手术（如Roux-en-Y胃旁路或胆胰分流）
+由于缩短功能性小肠长度而导致吸收不良的减肥手术（如Roux-en-Y胃旁路或胆胰分流）
+目前使用福森普那韦、利福平、利福布汀、拉莫三嗪或某些抗癫痫药物的治疗
+目前使用福森普那韦、利福平、利福布汀、拉莫三嗪或某些抗癫痫药物的治疗
+
+【仅含孕激素的口服避孕药】
+为了达到有效的避孕效果, 单孕激素口服避孕药 必须在每天同一时间服用。每天服用相同的剂量，并且不包括非活性药片。突破性出血是一种常见的不良反应。
+单孕激素避孕药主要通过使宫颈粘液粘稠和防止精子穿过宫颈管及宫腔与卵子受精，从而达到有效的避孕效果。在一些周期中，口服避孕药也可以抑制排卵，但这不是避孕的主要机制。孕激素单方口服避孕药在理想使用和常规使用情况下的妊娠率与雌激素–孕激素复方口服避孕药相似。屈螺酮抑制排卵的效果略高于其他孕激素。
+
+【仅含孕激素避孕药的禁忌症（药丸、植入物、注射）】
+单孕激素避孕药常适用于希望避孕但有雌激素使用禁忌症的女性。
+患有乳腺癌的女性不应服用仅含孕激素的药片、植入物或注射剂。
+在具有以下特征的患者中， 仅使用孕激素的避孕药具代表了一种理论上或已证实的风险，这种风险通常大于优势：
+既往乳腺癌且5年内无疾病复发证据。
+既往乳腺癌且5年内无疾病复发证据。
+不明原因的阴道出血
+不明原因的阴道出血
+缺血性心脏病的现状和病史
+缺血性心脏病的现状和病史
+严重的（失代偿期）肝硬化，肝细胞腺瘤或肝癌
+严重的（失代偿期）肝硬化，肝细胞腺瘤或肝癌
+空肠搭桥手术史（仅含孕激素的药丸）
+空肠搭桥手术史（仅含孕激素的药丸）
+目前使用利福平、利福布汀或某些抗癫痫药物的治疗（仅用于孕激素药丸）
+目前使用利福平、利福布汀或某些抗癫痫药物的治疗（仅用于孕激素药丸）
+缺血性心脏病、严重高血压或动脉粥样硬化性心血管疾病的多种危险因素（用于孕激素避孕注射）
+缺血性心脏病、严重高血压或动脉粥样硬化性心血管疾病的多种危险因素（用于孕激素避孕注射）
+血管疾病，包括糖尿病或系统性红斑狼疮引起的血管疾病（用于孕激素避孕注射）
+血管疾病，包括糖尿病或系统性红斑狼疮引起的血管疾病（用于孕激素避孕注射）
+（欲了解更多信息,请参见2024 年美国避孕药具使用医学适宜性标准。）
+
+【参考文献】
+1.Shoupe D: The Contraception Handbook: Evidence Based Practice Recommendations and Rationales, ed.3.New York,Humana Press, 2020.doi:10.1007/978-3-030-46391-5
+1.Shoupe D: The Contraception Handbook: Evidence Based Practice Recommendations and Rationales, ed.3.New York,Humana Press, 2020.doi:10.1007/978-3-030-46391-5
+
+【口服避孕药的不良反应】
+尽管口服避孕药可能存在一定的不良反应风险，但总体发生概率较低。腹胀、乳房胀痛、恶心和头痛是最常见的不良反应。
+使用雌激素–孕激素复方口服避孕药的患者，随着用药时间延长，可能出现闭经或突破性出血（即在服用活性药片期间发生的阴道出血）。这两种效果中的任何一种都可以通过改用雌激素剂量更高的药丸来控制。仅含孕激素的药片常常会导致不规则的阴道出血。
+在一些女性中，在停止服用OCs后的几个月内，排卵仍然受到抑制，但对生育率没有长期影响。在服药期间或停服口服避孕药后怀孕，并不会影响妊娠的结局。
+雌激素使醛固酮生成增多而致钠潴留，进而造成可逆的、剂量相关的血压和体重的升高（体重增加可高达2kg） 体重增加可能伴有腹胀和水肿。
+大多数的口服避孕药中的孕激素是19-去甲基睾酮的衍生物，具有雄激素样作用。诺孕酯、依托孕烯和去氧孕烯比左炔诺孕酮、炔诺酮、醋酸炔诺酮和双醋炔诺醇的雄激素活性更低。雄激素样不良反应可表现为皮肤及毛发改变，并可能产生合成代谢效应，从而导致体重增加。若一名女性每年体重增加>4.5kg，就应用低雄激素活性的避孕药。新的第四代抗雄激素孕激素包括地诺孕素和屈螺酮（与螺内酯相关，后者为一种利尿剂）。
+与从未使用者相比，雌激素–孕激素口服避孕药使用者的静脉血栓栓塞症（VTE）发生率约增加3倍，其机制在于雌激素可促进肝脏凝血因子生成并增强血小板黏附性。尽管风险有所增加，但使用雌激素-孕激素复方口服避孕药的女性其静脉血栓栓塞症（VTE）绝对风险仍较低（每 10,000 女·年 3～15 例），且明显低于产后女性的 VTE 绝对风险（每 10,000 女·年 40～65 例）（1）。雌激素–孕激素复方口服避孕药中的孕激素对上述风险的影响较小。含左炔诺孕酮作为孕激素成分的口服避孕药，其风险似乎略低于含屈螺酮或去氧孕烯的制剂，但这种差异很可能与研究对象选择因素有关，因此不应据此改变处方习惯。若正在服用口服避孕药的患者疑似发生静脉血栓栓塞（VTE），应立即停用口服避孕药，直至相关检查结果明确诊断或排除该病。此外，对于需长期制动的重大手术患者，应至少在术前 1 个月停用口服避孕药，并在术后 1 个月后方可恢复使用。预期术后可活动的患者无需停用口服避孕药（OC）。有静脉血栓栓塞病史或有静脉血栓栓塞高风险的女性不应使用含有雌激素的口服避孕药。不建议对所有人群进行易栓症因素（如因子V莱顿突变）的普遍筛查（2）。
+关于OCs的使用和乳腺癌的风险，研究结果各不相同 (3)。一些研究发现当前或近期用户的风险略有增加 (4)。
+使用口服避孕药（OCs）>5年的女性，其宫颈癌风险会轻度增加，但停用OCs10年后，风险会降至基线水平 (5)。该风险的增加是由于激素的作用还是自身行为（如，不使用屏障避孕）导致的，尚不清楚。
+OCs的中枢神经系统副作用包括恶心、呕吐、头痛、抑郁和睡眠障碍。尽管口服避孕药被认为可能增加卒中风险，但在健康、血压正常且不吸烟的女性中，低剂量雌激素–孕激素复方口服避孕药似乎不会增加卒中发生风险。 然而，如果存在局灶性神经系统症状，失语，或者其他可能预示中风等症状，应立即停服口服避孕药。 35 岁以上的吸烟者不应使用含有雌激素的避孕药，因为心肌梗塞和/或中风的风险增加。
+尽管孕激素可能引起可逆的、剂量相关的胰岛素抵抗，但口服小剂量孕激素的避孕药很少会引起高血糖。
+服用含高剂量孕激素的口服避孕药后，血清高密度脂蛋白（HDL）胆固醇水平可能降低，但服用含低剂量孕激素和雌激素的口服避孕药时，HDL胆固醇水平通常会升高。口服避孕药中的雌激素会使甘油三酯水平增加，并加重已经存在的高甘油三酯血症。大多数其他新陈代谢产物的血清水平的转变是没有临床意义的。口服避孕药使用者体内甲状腺激素结合球蛋白的含量可能增加。然而游离甲状腺激素、促甲状腺激素水平和甲状腺的功能没有变化。
+OC使用者体内维生素B6、叶酸、复合维生素B、维生素C、钙、锰、锌水平下降；维生素A水平增加。这些变化都不具有临床意义，而且同时补充维生素不建议作为口服避孕药的辅助药物。
+如果先前使用后出现胆汁淤积或者黄疸，则不应服用OCs。有妊娠期胆汁淤积（特发性复发性妊娠黄疸）的妇女如果服用OCs可能会出现黄疸，因此应谨慎使用OCs。
+使用低剂量 OC，胆结石发生风险似乎不会增加。
+良性肝腺瘤可自发破裂，但这种情况比较罕见。在服药期间且随着口服避孕药剂量的增加，这种风险会上升；但一旦停药，肝腺瘤常常会萎缩。
+一些女性会产生黄褐斑，阳光照射后会加重；停服口服避孕药后会慢慢消退。因黄褐斑治疗困难，黄褐斑一旦出现时应停服口服避孕药。口服避孕药不增加患恶性黑色素瘤的风险。
+
+【不良反应参考】
+1.Practice Committee of the American Society for Reproductive Medicine. Electronic address: ASRM@asrm.org; Practice Committee of the American Society for Reproductive Medicine.Combined hormonal contraception and the risk of venous thromboembolism: a guideline.Fertil Steril.2017;107(1):43-51.doi:10.1016/j.fertnstert.2016.09.027
+1.Practice Committee of the American Society for Reproductive Medicine. Electronic address: ASRM@asrm.org; Practice Committee of the American Society for Reproductive Medicine.Combined hormonal contraception and the risk of venous thromboembolism: a guideline.Fertil Steril.2017;107(1):43-51.doi:10.1016/j.fertnstert.2016.09.027
+2.Creinin MD, Lisman R, Strickler RC.Screening for factor V Leiden mutation before prescribing combination oral contraceptives.Fertil Steril.1999;72(4):646-651.doi:10.1016/s0015-0282(99)00318-0
+2.Creinin MD, Lisman R, Strickler RC.Screening for factor V Leiden mutation before prescribing combination oral contraceptives.Fertil Steril.1999;72(4):646-651.doi:10.1016/s0015-0282(99)00318-0
+3.Fitzpatrick D, Pirie K, Reeves G, et al: Combined and progestagen-only hormonal contraceptives and breast cancer risk: A UK nested case-control study and meta-analysis.PLoS Med20(3):e1004188, 2023.Published 2023 Mar 21.doi:10.1371/journal.pmed.1004188
+3.Fitzpatrick D, Pirie K, Reeves G, et al: Combined and progestagen-only hormonal contraceptives and breast cancer risk: A UK nested case-control study and meta-analysis.PLoS Med20(3):e1004188, 2023.Published 2023 Mar 21.doi:10.1371/journal.pmed.1004188
+4.ACOG Practice Advisory: Hormonal contraception and risk of breast cancer.American College of Obstetricians and Gynecologists.Published 2018, reaffirmed 2022.
+4.ACOG Practice Advisory: Hormonal contraception and risk of breast cancer.American College of Obstetricians and Gynecologists.Published 2018, reaffirmed 2022.
+5.Iversen L, Sivasubramaniam S, Lee AJ, et al: Lifetime cancer risk and combined oral contraceptives: the Royal College of General Practitioners' Oral Contraception Study.Am J Obstet Gynecol216(6):580.e1-580.e9, 2017.doi:10.1016/j.ajog.2017.02.002
+5.Iversen L, Sivasubramaniam S, Lee AJ, et al: Lifetime cancer risk and combined oral contraceptives: the Royal College of General Practitioners' Oral Contraception Study.Am J Obstet Gynecol216(6):580.e1-580.e9, 2017.doi:10.1016/j.ajog.2017.02.002
+
+【口服避孕药的好处】
+与口服避孕药（OCs）相关的健康益处包括降低以下风险（1）:
+子宫内膜癌的风险在使用至少 10 年后降低 60%
+子宫内膜癌的风险在使用至少 10 年后降低 60%
+卵巢癌的风险在服用5年后降低约50%，服用≥10年后降低约80%
+卵巢癌的风险在服用5年后降低约50%，服用≥10年后降低约80%
+它们还降低了功能性卵巢囊肿、良性卵巢肿瘤、由于排卵障碍导致的异常子宫出血、痛经、经前焦虑综合症、缺铁性贫血和良性乳腺疾病的风险。输卵管炎是一种能够损害生育能力的疾病，在OC使用者中发生的频率较低。
+
+【益处参考】
+1.Iversen L, Sivasubramaniam S, Lee AJ, et al: Lifetime cancer risk and combined oral contraceptives: the Royal College of General Practitioners' Oral Contraception Study.Am J Obstet Gynecol216(6):580.e1-580.e9, 2017.doi:10.1016/j.ajog.2017.02.002
+1.Iversen L, Sivasubramaniam S, Lee AJ, et al: Lifetime cancer risk and combined oral contraceptives: the Royal College of General Practitioners' Oral Contraception Study.Am J Obstet Gynecol216(6):580.e1-580.e9, 2017.doi:10.1016/j.ajog.2017.02.002
+
+【口服避孕药的药物相互作用】
+激素类避孕药的药物相互作用可能降低避孕效果，或改变同时使用药物的治疗效果。
+若药物间相互作用导致激素类避孕药血清浓度降低，可能发生避孕失败。同时使用可诱导细胞色素P450酶（CYP450）的药物可加速雌激素和/或孕激素的代谢，导致血浆浓度降低并增加避孕失败风险（1）。服用上述药物的患者不应使用激素类避孕方法，左炔诺孕酮宫内节育系统（IUD）除外，除非其他避孕方式存在禁忌或无法获得；由于该装置在子宫局部释放激素，因此其避孕效果不受此类药物相互作用影响。CYP450诱导剂包括以下药物类别:抗生素(利福平、利福布汀);抗逆转录病毒药物(依非韦伦、利托那韦增效的蛋白酶抑制剂);以及抗惊厥药(例如苯妥英、卡马西平)。草药补充剂圣约翰草也是细胞色素P450诱导剂
+胰高血糖素样肽-1(GLP-1)和葡萄糖依赖性促胰岛素多肽(GIP)受体激动剂延缓胃排空,从而可能降低口服药物的吸收。对于替尔泊肽这种GLP-1/GIP联合激动剂,已有证据显示在药物起始及剂量递增期间，口服避孕药的血浆浓度显著降低（2,3）。家庭计划学会建议，正在使用口服避孕药的个体在开始使用替尔泊肽及每次增加剂量后 4 周内，应改用非口服避孕方式或同时采用备用避孕措施（4）。临床上，GLP-1 激动剂的使用尚未导致口服避孕药血浆浓度发生显著降低。
+口服避孕药可增加抗癫痫药拉莫三嗪的肾清除率,从而可能降低其治疗效果(5)。
+
+【药物相互作用参考文献】
+1.Teal S, Edelman A.Contraception Selection, Effectiveness, and Adverse Effects: A Review.JAMA.2021;326(24):2507-2518.doi:10.1001/jama.2021.21392
+1.Teal S, Edelman A.Contraception Selection, Effectiveness, and Adverse Effects: A Review.JAMA.2021;326(24):2507-2518.doi:10.1001/jama.2021.21392
+2.American Diabetes Association Professional Practice Committee.9.Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S181-S206.doi:10.2337/dc25-S009
+2.American Diabetes Association Professional Practice Committee.9.Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S181-S206.doi:10.2337/dc25-S009
+3.Skelley JW, Swearengin K, York AL, Glover LH.The impact oftirzepatideand glucagon-like peptide 1 receptor agonists on oral hormonal contraception. J Am Pharm Assoc (2003).2024;64(1):204-211.e4.doi:10.1016/j.japh.2023.10.037
+3.Skelley JW, Swearengin K, York AL, Glover LH.The impact oftirzepatideand glucagon-like peptide 1 receptor agonists on oral hormonal contraception. J Am Pharm Assoc (2003).2024;64(1):204-211.e4.doi:10.1016/j.japh.2023.10.037
+4.Zwayne N, Lyman E, Ebersole A, Morse J; with the assistance of Elise Boos and Antoinette Nguyen on behalf of the Clinical Affairs Committee, and Monica Skoko Rodríguez.Society of Family Planning Committee Statement: Contraception and body weight.Contraception.2025;141:110725.doi:10.1016/j.contraception.2024.110725
+4.Zwayne N, Lyman E, Ebersole A, Morse J; with the assistance of Elise Boos and Antoinette Nguyen on behalf of the Clinical Affairs Committee, and Monica Skoko Rodríguez.Society of Family Planning Committee Statement: Contraception and body weight.Contraception.2025;141:110725.doi:10.1016/j.contraception.2024.110725
+5.Christensen J, Petrenaite V, Atterman J, et al.Oral contraceptives induce lamotrigine metabolism: evidence from a double-blind, placebo-controlled trial.Epilepsia.2007;48(3):484-489.doi:10.1111/j.1528-1167.2007.00997.x
+5.Christensen J, Petrenaite V, Atterman J, et al.Oral contraceptives induce lamotrigine metabolism: evidence from a double-blind, placebo-controlled trial.Epilepsia.2007;48(3):484-489.doi:10.1111/j.1528-1167.2007.00997.x
+
+【开始口服避孕药】
+在口服避孕药前，临床医生应详细了解疾病史、社会及家族史，以排除潜在禁忌症。应测量血压。无需常规进行妊娠试验，应根据妊娠风险因素决定是否检测。仅在血压正常且（如有指征）尿妊娠试验阴性的情况下，方可处方口服避孕药。开始服用口服避孕药前无需进行体格检查。无合并症患者不需要常规血液检查。对于无既往病史的患者，常规筛查血糖、血脂、肝酶或血栓倾向并非必要（1）。
+口服避孕药（OCs）应一次性开具13个月用量，以减少持续使用及续方获取的障碍，并确保补充处方获取便捷。
+口服避孕药可在避孕就诊当天立即开始服用（通常称为“快速起始法”），不受星期几或月经周期阶段限制。但是，如果在月经第一天后＞5天才开始服用口服避孕药，女性应在服用避孕药的前7天使用后备避孕方法（如避孕套）。
+口服避孕药后3个月的随访可能有助于讨论潜在的不良反应并复测血压。
+
+【口服避孕药的漏服与延迟服药】
+雌激素–孕激素复方口服避孕药（OC）亦应每日在同一时间服用，但由于雌激素与孕激素协同抑制排卵，在24小时内具有一定的时间弹性。若使用雌激素–孕激素复方口服避孕药者漏服 1 天，应于次日补服 2 片。如果漏服2天，应继续每天口服1粒，并应使用其他避孕方法7天。如果他们忘记服药2天，并且在忘记服药前的5天内发生了无保护性行为，可以考虑服用紧急避孕药。
+仅含孕激素的避孕药必须每天在同一时间服用。若孕激素单方口服避孕药 两次服药间隔超过 27 小时，除每日继续服药外，还应在随后 7 天内采取备用避孕措施，因为其避孕机制主要依赖于使宫颈黏液增稠。
+
+【产后口服避孕药的使用】
+妊娠后开始服用雌激素-孕激素口服避孕药的时间有所不同：
+在妊娠早期自然流产或人工流产后：立即开始
+在妊娠早期自然流产或人工流产后：立即开始
+对于妊娠12至28周的分娩：如果女性没有其他明显的血栓栓塞风险因素，则在1周内开始服用
+对于妊娠12至28周的分娩：如果女性没有其他明显的血栓栓塞风险因素，则在1周内开始服用
+妊娠 ≥ 28 周分娩后：由于产褥期血栓栓塞风险进一步升高，应至少在产后 21 天后再开始；若静脉血栓栓塞风险增加（如近期剖宫产或合并其他内科疾病），则应推迟至产后 42 天再启动。
+妊娠 ≥ 28 周分娩后：由于产褥期血栓栓塞风险进一步升高，应至少在产后 21 天后再开始；若静脉血栓栓塞风险增加（如近期剖宫产或合并其他内科疾病），则应推迟至产后 42 天再启动。
+完全母乳喂养的患者（按需喂养，包括夜间哺乳且不补充其他食物）在产后6个月内可依赖哺乳性闭经。建议患者在产后 6 个月前从哺乳期闭经过渡时开始使用口服避孕药（OCs）。
+单孕激素口服避孕药可产后立即使用。
+
+【启动参考】
+1.Curtis KM, Nguyen AT, Tepper NK, et al.U.S. Selected Practice Recommendations for Contraceptive Use, 2024.Appendix C: Examinations and Tests Needed Before Initiation of Contraceptive MethodsMMWR Recomm Rep.2024;73(3):1-77.Published 2024 Aug 8.doi:10.15585/mmwr.rr7303a1
+1.Curtis KM, Nguyen AT, Tepper NK, et al.U.S. Selected Practice Recommendations for Contraceptive Use, 2024.Appendix C: Examinations and Tests Needed Before Initiation of Contraceptive MethodsMMWR Recomm Rep.2024;73(3):1-77.Published 2024 Aug 8.doi:10.15585/mmwr.rr7303a1
+口服避孕药（OCs）通常耐受性良好，但可能导致头痛、恶心、腹胀或乳房压痛。
+口服避孕药（OCs）通常耐受性良好，但可能导致头痛、恶心、腹胀或乳房压痛。
+仅含孕激素口服避孕药可能会导致不规则出血，必须每天在同一时间服用才能有效。
+仅含孕激素口服避孕药可能会导致不规则出血，必须每天在同一时间服用才能有效。
+如果没有禁忌症，口服避孕药可以从初潮到绝经期间服用。
+如果没有禁忌症，口服避孕药可以从初潮到绝经期间服用。
+雌激素–孕激素复方口服避孕药可使静脉血栓栓塞风险增加至基线的约 3 倍，但该风险仍低于妊娠相关风险。
+雌激素–孕激素复方口服避孕药可使静脉血栓栓塞风险增加至基线的约 3 倍，但该风险仍低于妊娠相关风险。
+关于口服避孕药的使用和乳腺癌风险，研究结果各不相同，但一些研究发现，目前或最近的使用者的乳腺癌风险略有增加；而口服避孕药可降低卵巢癌和子宫内膜癌的风险。
+关于口服避孕药的使用和乳腺癌风险，研究结果各不相同，但一些研究发现，目前或最近的使用者的乳腺癌风险略有增加；而口服避孕药可降低卵巢癌和子宫内膜癌的风险。
+处方口服避孕药前应进行详尽病史采集，但不要求常规体格检查。
+处方口服避孕药前应进行详尽病史采集，但不要求常规体格检查。

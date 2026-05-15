@@ -1,0 +1,92 @@
+标题：蛔虫病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/nematodes-roundworms/ascariasis
+============================================================
+
+蛔虫病是全球最常见的肠道蠕虫感染，但多数病例都发生在卫生条件有限且土壤、水源和食物受粪便污染严重的热带和亚热带地区。
+全球患病率估计为8.19亿（1）。患病率在学龄儿童中最高（2）。在美国，大多数病例发生在难民、移民或前往热带流行区的旅行者中。
+感染会导致营养不良。儿童死亡主要是由于肠道或胆道阻塞。
+人际传播的途径是粪口传播，即通过摄入被污染的食物或水，其中含有受污染食物或水中Ascaris lumbricoides（蛔虫）的受精卵，或通过接触触摸过受污染的泥土或其他材料的手。
+人类感染也可能是由于摄入了猪粪中猪蛔虫（一种与猪密切相关的寄生虫）的受精卵所致。通过接触受感染的猪，或食用受污染的生的或未煮熟的蔬菜或水果会摄入虫卵。
+（参见寄生虫感染方法。）
+
+【参考文献】
+1.Magalhães L, Nogueira DS, Gazzinelli-Guimarães PH, et al.Immunological underpinnings of Ascaris infection, reinfection and co-infection and their associated co-morbidities.Parasitology.Published online April 12, 2021.doi:10.1017/S0031182021000627
+1.Magalhães L, Nogueira DS, Gazzinelli-Guimarães PH, et al.Immunological underpinnings of Ascaris infection, reinfection and co-infection and their associated co-morbidities.Parasitology.Published online April 12, 2021.doi:10.1017/S0031182021000627
+2.Silver ZA, Kaliappan SP, Samuel P, et al.Geographical distribution of soil transmitted helminths and the effects of community type in South Asia and South East Asia - A systematic review.PLoS Negl Trop Dis.2018;12(1):e0006153.Published 2018 Jan 18.doi:10.1371/journal.pntd.0006153
+2.Silver ZA, Kaliappan SP, Samuel P, et al.Geographical distribution of soil transmitted helminths and the effects of community type in South Asia and South East Asia - A systematic review.PLoS Negl Trop Dis.2018;12(1):e0006153.Published 2018 Jan 18.doi:10.1371/journal.pntd.0006153
+
+【蛔虫病的病理生理学】
+被摄入的A. lumbricoides（似蚓蛔线虫）虫卵在十二指肠孵化，产生的幼虫穿透小肠壁，然后经门静脉循环通过肝脏移行至心脏和肺。蚴虫寄宿在肺泡毛细血管，穿过肺泡壁，并沿支气管上行至口咽部。然后它们被吞下回到小肠，在小肠发育为成虫，在此处进行交配并排出虫卵到粪便中。
+成年雌虫的体长为 20 至 35 厘米（8 至 14 英寸），成年雄虫的体长为 15 至 30 厘米（6 至 12 英寸）。在2~3个月内完成生活史，成虫的寿命1~2年。
+1.成年蛔虫线虫（蠕虫）生活在小肠腔内。
+1.成年蛔虫线虫（蠕虫）生活在小肠腔内。
+2.雌蛔虫每天可产卵约200,000枚，虫卵随粪便排出体外。未受精的虫卵可能被吞食但无感染性。
+2.雌蛔虫每天可产卵约200,000枚，虫卵随粪便排出体外。未受精的虫卵可能被吞食但无感染性。
+3.在环境中，受精卵会根据条件在18天至数周后胚胎化并具有感染性；最佳条件是潮湿、温暖、荫蔽的土壤。
+3.在环境中，受精卵会根据条件在18天至数周后胚胎化并具有感染性；最佳条件是潮湿、温暖、荫蔽的土壤。
+4.吞下有感染性的虫卵。
+4.吞下有感染性的虫卵。
+5.虫卵在小肠孵化为幼虫。
+5.虫卵在小肠孵化为幼虫。
+6.幼虫穿过小肠壁，通过门静脉循环经肝脏迁移，然后通过体循环进入肺部，并在那里进一步成熟（10~14 天）。
+6.幼虫穿过小肠壁，通过门静脉循环经肝脏迁移，然后通过体循环进入肺部，并在那里进一步成熟（10~14 天）。
+7.幼虫穿透肺泡壁，沿支气管树向上移行至咽喉，然后被吞入消化道。然后它们回到小肠，在小肠发育为成虫。
+7.幼虫穿透肺泡壁，沿支气管树向上移行至咽喉，然后被吞入消化道。然后它们回到小肠，在小肠发育为成虫。
+Image from the Centers for Disease Control and Prevention, Global Health, Division of Parasitic Diseases and Malaria.
+严重感染导致的缠结的虫体块可能导致肠腔阻塞，特别是儿童。个别成虫的异位移行有时可阻塞胆管或胰管，从而导致胆囊炎或胰腺炎；而胆管炎、肝脓肿和腹膜炎则较少见。
+其他疾病所致的发热和某些药物（如阿苯达唑、甲苯达唑、四氯乙烯）可促发这种成虫的异位移行。
+
+【蛔虫病的症状和体征】
+Ascaris（幼虫）移行至肺可引起咳嗽、喘息，在既往未感染Ascaris（蛔虫）的患者中偶尔也可能导致咯血或其他呼吸道症状。在最初接触后，流行地区的居民会产生由辅助性T细胞2型（Th2）细胞介导的免疫，这种免疫与蠕虫负担和症状的减轻有关（1）。
+少量的成虫通常不引起胃肠道症状，但成虫经口或经肛门排出则可促使患者就医。肠腔或胆道的阻塞可导致腹部痉挛性疼痛、恶心和呕吐。黄疸并不常见。
+即使中度感染也会导致儿童营养不良。具体的病理生理学机制尚不明确，可能包括竞争营养物质，吸收障碍和食欲下降。
+
+【症状和体征】
+1.McSharry C, Xia Y, Holland CV, Kennedy MW.Natural immunity toAscaris lumbricoidesassociated with immunoglobulin E antibody to ABA-1 allergen and inflammation indicators in children.Infect Immun.1999;67(2):484-489.doi:10.1128/IAI.67.2.484-489.1999
+1.McSharry C, Xia Y, Holland CV, Kennedy MW.Natural immunity toAscaris lumbricoidesassociated with immunoglobulin E antibody to ABA-1 allergen and inflammation indicators in children.Infect Immun.1999;67(2):484-489.doi:10.1128/IAI.67.2.484-489.1999
+
+【蛔虫病的诊断】
+粪便显微镜镜检
+粪便显微镜镜检
+在粪便中识别成虫或从鼻、口或直肠中钻出的成虫
+在粪便中识别成虫或从鼻、口或直肠中钻出的成虫
+蛔虫病的诊断是通过显微镜检测粪便中的虫卵，或通过肉眼观察粪便中或从鼻、口、直肠排出的成虫。偶尔，在肺部症状期可在痰液中发现幼虫。成虫可能在胃肠道的x线检查中看到。
+幼虫移行通过肺时嗜酸性粒细胞增多可能显著，但当成虫寄居于肠道时通常回落。肺相胸部X线片可显示浸润，若同时存在嗜酸性粒细胞增多，则可诊断为吕弗勒综合征。
+
+【蛔虫病的治疗】
+阿苯达唑、甲苯达唑或伊维菌素。
+阿苯达唑、甲苯达唑或伊维菌素。
+对于孕妇，双羟萘酸噻嘧啶
+对于孕妇，双羟萘酸噻嘧啶
+所有肠道蛔虫感染均应治疗。
+噻嘧啶对孕妇也有效，是推荐的治疗用药。苯并咪唑类药物可能具有潜在致畸性，如果考虑在孕妇中使用，必须权衡治疗或不治疗的风险（1）。
+伊维菌素治疗前，若患者曾居住于Loa loa（罗阿丝虫）流行的中部非洲地区，应注意评估其是否合并Loa loa（罗阿丝虫）感染，因为伊维菌素可能导致患罗阿丝虫病且微丝蚴水平高的患者发生严重反应。
+硝噻醋柳胺可治疗轻度蛔虫感染，但对严重感染效果差。哌嗪曾广泛应用，目前已经被毒性更低的药物所取代。
+梗阻性并发症可通过驱虫药物有效治疗，但有时也可能需要手术或内镜来清除成虫。
+对于肺部感染，治疗以对症为主；它包括支气管扩张剂和皮质类固醇。驱虫药一般不常规应用。
+
+【治疗参考文献】
+1.Keiser J, Utzinger J.Efficacy of current drugs against soil-transmitted helminth infections: systematic review and meta-analysis.JAMA.2008;299(16):1937-1948.doi:10.1001/jama.299.16.1937
+1.Keiser J, Utzinger J.Efficacy of current drugs against soil-transmitted helminth infections: systematic review and meta-analysis.JAMA.2008;299(16):1937-1948.doi:10.1001/jama.299.16.1937
+
+【预防蛔虫病】
+预防蛔虫病需要适当的卫生条件。
+预防策略包括
+在处理食物之前、可能接触粪便或受污染的泥土之后以及处理猪之后，用肥皂和水彻底洗手
+在处理食物之前、可能接触粪便或受污染的泥土之后以及处理猪之后，用肥皂和水彻底洗手
+在进食前洗涤、去皮和/或烹饪所有生蔬菜和水果
+在进食前洗涤、去皮和/或烹饪所有生蔬菜和水果
+在以人或猪粪便为肥料的地区，不要生食或食用未清洗的蔬菜。
+在以人或猪粪便为肥料的地区，不要生食或食用未清洗的蔬菜。
+除了在有适当污水处理的厕所外，不要在户外排便
+除了在有适当污水处理的厕所外，不要在户外排便
+蛔虫病是世界上最普遍的肠道寄生虫感染
+蛔虫病是世界上最普遍的肠道寄生虫感染
+卵在小肠内孵化，幼虫首先移行到肺部，然后返回小肠，在那里发育成熟。
+卵在小肠内孵化，幼虫首先移行到肺部，然后返回小肠，在那里发育成熟。
+肺部的幼虫可能引起咳嗽和喘息；大量成虫可能阻塞肠道，而单个成虫可能迁移到胆管或胰管中并引起阻塞。
+肺部的幼虫可能引起咳嗽和喘息；大量成虫可能阻塞肠道，而单个成虫可能迁移到胆管或胰管中并引起阻塞。
+通过粪便显微镜检查进行诊断；偶见成虫从鼻、口或直肠中移行排出。
+通过粪便显微镜检查进行诊断；偶见成虫从鼻、口或直肠中移行排出。
+用阿苯达唑、甲苯达唑或伊维菌素治疗，孕妇可选用双羟萘酸噻嘧啶；肠梗阻可能需手术或内窥镜取出蠕虫。
+用阿苯达唑、甲苯达唑或伊维菌素治疗，孕妇可选用双羟萘酸噻嘧啶；肠梗阻可能需手术或内窥镜取出蠕虫。

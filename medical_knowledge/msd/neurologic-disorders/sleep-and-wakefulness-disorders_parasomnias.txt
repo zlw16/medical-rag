@@ -1,0 +1,35 @@
+标题：深眠状态
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/sleep-and-wakefulness-disorders/parasomnias
+============================================================
+
+（参见睡眠和觉醒障碍患者的解决方法。）
+对于多种此类疾病，通过病史和体检即可诊断。
+指睡眠中出现坐、行走或其他复杂的活动，通常患者双眼睁开却没有自知力。梦游病在儿童晚期或青春期较多见，通常在从非快速眼动（NREM）3期觉醒后发生。睡眠剥夺和不良的睡眠习惯可以增加疾病发作可能，一级亲属的患病风险也更高。 可由睡眠过程中导致觉醒的因素（如咖啡因、其他兴奋剂性药物和物质，扰乱睡眠行为）或增强N3期睡眠的因素（如睡眠剥夺、运动过度）诱发。
+患者可能有反复自语，有些患者会因为障碍物或楼梯而受伤。患者通常不记得醒后或之后在上午做梦，也不记得疾病的发作。
+对梦游症的治疗旨在消除诱因。  包括保护病人免于受伤，如设置电子警报器，使患者离床时能被叫醒；使用矮床，安装门警报器，移开床边的尖锐物品及卧室内的障碍物。有时，建议患者睡在地板的床垫上。
+如果行为措施不是完全有效，苯二氮卓类药物，尤其是睡前服用氯硝西泮，可以有所帮助，但这些药物有明显的副作用。
+
+【睡（夜）惊】
+夜间，患者突发尖叫、摆动、受到惊吓与广泛激动。发作可导致梦游。患者难以叫醒。 睡惊在儿童中更常见，发生在儿童部分觉醒或从 N3 睡眠中醒来时；因此，它们并不代表噩梦。  在成年人中，睡惊可能与心理问题或酒精使用障碍有关。
+对于儿童夜惊，父母的安慰是主要的治疗方法。如果日常活动受到影响（例如，如果学业变差），睡前服用中效或长效口服苯二氮䓬类药物（例如，氯硝西泮、地西泮）可能会有所帮助，但这些药物具有显著的副作用。成人可能受益于心理治疗或药物治疗。
+儿童较成人常见。在REM睡眠相发生，尤其在发热、过度疲劳或存在精神压力和饮酒后。
+噩梦的治疗需针对任何潜在精神忧虑。
+
+【快速动眼（REM）睡眠行为障碍】
+患有 REM 行为障碍的患者在 REM 睡眠期间会出现言语（有时是粗言秽语）和攻击性动作（例如，挥动手臂、拳击、踢腿）。这些行为说明病人在REM睡眠时肌张力并未消失，因而表现出梦境中的动作，其原因不明。患者能在行为发生后的觉醒后回忆起生动的梦境。
+REM睡眠行为障碍在老年人中较多见，特别是CNS变性疾病（如，帕金森病、阿尔茨海默病、血管性痴呆、多系统萎缩和进行性核上性麻痹等）。 同样的行为可发生于发作性睡病病人或使用去甲肾上腺素再摄取抑制剂（如阿托西汀、瑞波西汀、文拉法辛）的病人中。 在REM睡眠行为障碍的患者中，突触核蛋白在神经元中蓄积，就像在帕金森病，多系统萎缩和路易体痴呆等神经退行性疾病中一样。 有些患者在快速动眼（REM）睡眠行为障碍诊断多年以后会发生帕金森病。
+REM睡眠行为障碍的诊断通常依靠患者自述或同床者表述的临床症状。多导睡眠图常可确诊。可观察到REM期内患者的运动增加；视听监测可记录异常的肢体活动和发声。神经系统检查排除神经变性疾病。若发现异常，需行CT或MRI检查。
+REM 睡眠行为障碍的治疗方法是在睡前服用氯硝西泮（1）。多数患者需长期服药以防止复发；药物耐受或滥用的风险较低。替代选择是褪黑激素3~18mg（但目前尚不清楚最佳剂量）。
+同床者应警惕以防受伤，最好分开睡直至症状缓解。尖锐物品需远离床边。
+
+【睡眠相关腿部痉挛】
+在其他方面都健康的中老年患者中，常有夜间小腿或足部肌肉痉挛。
+与睡眠有关的痉挛的诊断是基于病史和缺乏身体体征或残疾。
+预防措施包括在睡前为受影响的肌肉进行数分钟的拉伸(2)。发作时及时的伸缩动作可以迅速缓解症状，且较药物治疗要好。
+很多药物（如奎宁、钙和镁补充剂、苯海拉明、苯二氮䓬类和美西律等）曾用于治疗该病，但均疗效不佳并有严重的不良反应（特别是使用奎宁和美西律时）。避免使用咖啡因和其他交感兴奋剂。
+
+【参考文献】
+1.Howell M, Avidan AY, Foldvary-Schaefer N, et al: Management of REM sleep behavior disorder: An American Academy of Sleep Medicine clinical practice guideline.J Clin Sleep Medicine19(4).Published Online: April 1, 2023.https://doi.org/10.5664/jcsm.10424
+1.Howell M, Avidan AY, Foldvary-Schaefer N, et al: Management of REM sleep behavior disorder: An American Academy of Sleep Medicine clinical practice guideline.J Clin Sleep Medicine19(4).Published Online: April 1, 2023.https://doi.org/10.5664/jcsm.10424
+2.Hallegraeff JM, van der Schans CP, de Ruiter R, de Greef MHG: Stretching before sleep reduces the frequency and severity of nocturnal leg cramps in older adults: a randomised trial.J Physiother2012;58(1):17-22. doi: 10.1016/S1836-9553(12)70068-1
+2.Hallegraeff JM, van der Schans CP, de Ruiter R, de Greef MHG: Stretching before sleep reduces the frequency and severity of nocturnal leg cramps in older adults: a randomised trial.J Physiother2012;58(1):17-22. doi: 10.1016/S1836-9553(12)70068-1

@@ -1,0 +1,24 @@
+标题：抗凝血酶缺乏
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/thrombotic-disorders/antithrombin-deficiency
+============================================================
+
+(参见于血栓性疾病的概述。）
+抗凝血酶是抑制凝血酶和Xa、IXa和XIa因子的血浆蛋白，从而抑制血栓形成。
+杂合子抗凝血酶缺乏的发生率大约为0.02%~0.2%(1); 约一半受累的患者会发生静脉血栓。纯合子缺乏可能是其对宫内胎儿是致命的。
+继发性缺乏可见于弥散性血管内凝血、肝脏疾病、肾病综合征患者以及肝素治疗过程中。肝素通过激活抗凝血酶发挥抗凝效应。
+
+【参考文献】
+1.Pabinger I, Thaler J.How I treat patients with hereditary antithrombin deficiency.Blood.2019;134(26):2346-2353.doi:10.1182/blood.2019002927
+1.Pabinger I, Thaler J.How I treat patients with hereditary antithrombin deficiency.Blood.2019;134(26):2346-2353.doi:10.1182/blood.2019002927
+
+【抗凝血酶缺乏症的诊断】
+对于不明原因血栓形成的患者，需要进行实验室检查，量化在肝素存在下患者血浆抑制凝血酶的能力。肝素通常通过加速抗凝血酶对凝血酶的失活来抑制凝血。在抗凝血酶缺乏症患者中，凝血酶的失活减少。测试混合物中的残余凝血酶与患者血浆中的功能性抗凝血酶浓度成反比。抗凝血酶蛋白水平也可以通过免疫测定来测量，但这些测试只测量样品中抗凝血酶蛋白质的量，而不能评估这种蛋白质的功能。由于抗凝血酶缺乏症的罕见患者表达功能失调的抗凝血酶蛋白，因此在诊断抗凝血酶不足症时，活性测定比抗原测定更受青睐。
+
+【抗凝血酶缺乏的治疗】
+直接口服抗凝血剂或华法林可用于抗凝血酶缺乏症和静脉血栓栓塞症患者的长期抗凝治疗(1, 2）。
+
+【治疗参考文献】
+1.Campello E, Spiezia L, Simion C, et al.Direct Oral Anticoagulants in Patients With Inherited Thrombophilia and Venous Thromboembolism: A Prospective Cohort Study.J Am Heart Assoc.2020;9(23):e018917.doi:10.1161/JAHA.120.018917
+1.Campello E, Spiezia L, Simion C, et al.Direct Oral Anticoagulants in Patients With Inherited Thrombophilia and Venous Thromboembolism: A Prospective Cohort Study.J Am Heart Assoc.2020;9(23):e018917.doi:10.1161/JAHA.120.018917
+2.Pabinger I, Thaler J.How I treat patients with hereditary antithrombin deficiency.Blood.2019;134(26):2346-2353.doi:10.1182/blood.2019002927
+2.Pabinger I, Thaler J.How I treat patients with hereditary antithrombin deficiency.Blood.2019;134(26):2346-2353.doi:10.1182/blood.2019002927

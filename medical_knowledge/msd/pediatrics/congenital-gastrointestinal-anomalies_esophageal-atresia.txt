@@ -1,0 +1,96 @@
+标题：食管闭锁
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-gastrointestinal-anomalies/esophageal-atresia
+============================================================
+
+(参见先天性胃肠道畸形概述。)
+食管闭锁是最常见的胃肠道闭锁。估计发病率约为每3000至4000个活产婴儿中就有1 例（1，2，3）。其他先天畸形占了高达50%的病例。
+特别是两种综合征与食管闭锁有关：
+VACTERL综合征（V椎体异常、A肛门闭锁、C心脏畸形、T气管食管瘘、E食管闭锁、R肾脏异常和R桡骨发育不全，以及L肢体异常）
+VACTERL综合征（V椎体异常、A肛门闭锁、C心脏畸形、T气管食管瘘、E食管闭锁、R肾脏异常和R桡骨发育不全，以及L肢体异常）
+CHARGE 综合征（由以下英文首字母组成：c—脉络膜缺损，h—心脏缺陷，a—后鼻孔闭锁，r—发育迟缓或异常（retardation），g—生殖器发育不全，e—耳部异常）。
+CHARGE 综合征（由以下英文首字母组成：c—脉络膜缺损，h—心脏缺陷，a—后鼻孔闭锁，r—发育迟缓或异常（retardation），g—生殖器发育不全，e—耳部异常）。
+约20％的食管闭锁婴儿符合VACTERL的诊断标准 (4,5)。
+X线显示与VACTERL综合征相关的多发畸形（V椎体异常、A肛门闭锁、C心脏畸形、T气管食管瘘、E食管闭锁、R肾脏异常和R桡骨发育不全，以及L肢体异常）。注意椎体分割异常（白色箭头），肠管盘绕于闭锁食管近端（黑色箭头），肠内气体与食管闭锁并气管食管瘘及左上肢畸形一致。口胃/鼻胃管卷曲于食管近端袋内，由于食管闭锁而无法进入胃内。
+气管食管畸形主要分为 5 种类型（见图食管闭锁与气管食管瘘的类型及相对发生频率）。大多数类型还涉及气管和食道之间的瘘管。
+大多数婴儿出现在新生儿期，但患有H型瘘管的婴儿可能直到婴儿后期或儿童期才被诊断出来；有病例报告称H型瘘管直到成年后才出现（6)。
+典型的症状包括口腔分泌物增多、咳嗽、进食后青紫、吸入性肺炎。食管闭锁伴食管远端气管瘘患儿，患儿因哭吵气体由气管瘘管进入食管下端和胃内而导致腹胀。
+
+【食管闭锁及气管食管瘘的类型和相对频率】
+食管闭锁及气管食管瘘的类型和相对频率
+相对频率数据综合了多方来源的统计结果。
+
+【参考文献】
+1.Oddsberg J, Lu Y, Lagergren J.Aspects of esophageal atresia in a population-based setting: incidence, mortality, and cancer risk.Pediatr Surg Int.2012;28(3):249-257.doi:10.1007/s00383-011-3014-1
+1.Oddsberg J, Lu Y, Lagergren J.Aspects of esophageal atresia in a population-based setting: incidence, mortality, and cancer risk.Pediatr Surg Int.2012;28(3):249-257.doi:10.1007/s00383-011-3014-1
+2.Pedersen RN, Calzolari E, Husby S, Garne E; EUROCAT Working group.Oesophageal atresia: prevalence, prenatal diagnosis and associated anomalies in 23 European regions.Arch Dis Child.2012;97(3):227-232.doi:10.1136/archdischild-2011-300597
+2.Pedersen RN, Calzolari E, Husby S, Garne E; EUROCAT Working group.Oesophageal atresia: prevalence, prenatal diagnosis and associated anomalies in 23 European regions.Arch Dis Child.2012;97(3):227-232.doi:10.1136/archdischild-2011-300597
+3.Rohanizadegan M, Tracy S, Galarreta CI, et al.Genetic diagnoses and associated anomalies in fetuses prenatally diagnosed with esophageal atresia.Am J Med Genet A.2020;182(8):1890-1895.doi:10.1002/ajmg.a.61639
+3.Rohanizadegan M, Tracy S, Galarreta CI, et al.Genetic diagnoses and associated anomalies in fetuses prenatally diagnosed with esophageal atresia.Am J Med Genet A.2020;182(8):1890-1895.doi:10.1002/ajmg.a.61639
+4.Guptha S, Shumate C, Scheuerle AE.Likelihood of meeting defined VATER/VACTERL phenotype in infants with esophageal atresia with or without tracheoesophageal fistula.Am J Med Genet A.2019;179(11):2202-2206.doi:10.1002/ajmg.a.61337
+4.Guptha S, Shumate C, Scheuerle AE.Likelihood of meeting defined VATER/VACTERL phenotype in infants with esophageal atresia with or without tracheoesophageal fistula.Am J Med Genet A.2019;179(11):2202-2206.doi:10.1002/ajmg.a.61337
+5.Galarreta CI, Vaida F, Bird LM.Patterns of malformation associated with esophageal atresia/tracheoesophageal fistula: A retrospective single center study.Am J Med Genet A.2020;182(6):1351-1363.doi:10.1002/ajmg.a.61582
+5.Galarreta CI, Vaida F, Bird LM.Patterns of malformation associated with esophageal atresia/tracheoesophageal fistula: A retrospective single center study.Am J Med Genet A.2020;182(6):1351-1363.doi:10.1002/ajmg.a.61582
+6.Tiwari C, Nagdeve N, Saoji R, et al.Congenital H-type tracheo-oesophageal fistula: An institutional review of a 10-year period.J Mother Child.2021;24(4):2-8.doi:10.34763/jmotherandchild.20202404.d-20-00004
+6.Tiwari C, Nagdeve N, Saoji R, et al.Congenital H-type tracheo-oesophageal fistula: An institutional review of a 10-year period.J Mother Child.2021;24(4):2-8.doi:10.34763/jmotherandchild.20202404.d-20-00004
+
+【食管闭锁的诊断】
+产前超声检查
+产前超声检查
+生后：鼻胃管（NGT）或口胃管放置，以及X线摄片
+生后：鼻胃管（NGT）或口胃管放置，以及X线摄片
+有时是刚性支气管镜检查，食管造影，或CT或MRI扫描
+有时是刚性支气管镜检查，食管造影，或CT或MRI扫描
+肾脏超声和超声心动图以评估相关异常
+肾脏超声和超声心动图以评估相关异常
+例行的产前超声可能提示食管闭锁。羊水过多可能作为伴随症状出现，但并非该诊断的特异性表现，因为其可见于多种其他疾病。胎儿胃泡可能缺如，但这种情况在不足半数的病例中出现。较罕见的情况是出现上段食管囊状扩张，但这种情况通常仅在合并羊水过多且无胃泡显示的胎儿中才会被重点排查。
+分娩后，如果产前超声或临床表现疑似食道闭锁，则插入NGT或口胃管；如果无法将胃管置入胃内，提示食道闭锁的诊断。X线片上不透射线导管确定了闭锁的位置。在非典型病例中，可能需要少量水溶性造影剂以在透视下明确解剖结构。应迅速回吸造影材料，因为如果它进入肺部，可能引起化学性肺炎。以上检查需有经验的放射科医生参与，且在能进行新生儿手术治疗的医疗中心进行。
+刚性支气管镜检查、食管造影或CT或MRI扫描可用于确诊；明确解剖结构，特别是伴发气管食管瘘；并计划手术修复。
+应进行全面的体格检查以及肾脏超声和超声心动图检查，以评估相关的异常（1）。
+
+【诊断参考文献】
+1.Dingemann C, Eaton S, Aksnes G, et al.ERNICA Consensus Conference on the Management of Patients with Esophageal Atresia and Tracheoesophageal Fistula: Diagnostics, Preoperative, Operative, and Postoperative Management.Eur J Pediatr Surg.2020;30(4):326-336.doi:10.1055/s-0039-1693116
+1.Dingemann C, Eaton S, Aksnes G, et al.ERNICA Consensus Conference on the Management of Patients with Esophageal Atresia and Tracheoesophageal Fistula: Diagnostics, Preoperative, Operative, and Postoperative Management.Eur J Pediatr Surg.2020;30(4):326-336.doi:10.1055/s-0039-1693116
+
+【食管闭锁的治疗】
+术前：不喂食，食管近端吸痰，抑酸治疗
+术前：不喂食，食管近端吸痰，抑酸治疗
+外科手术修复
+外科手术修复
+术前管理旨在优化婴儿的术前医疗状况，预防会使手术矫正更加危险的吸入性肺炎。暂停口服喂养，给予肠外营养。禁食、持续性NGT吸引近端食管闭锁盲端防止唾液吸入。在具备适当监测条件的情况下（即在新生儿重症监护室），应将婴儿置于俯卧位，头部抬高30至40°，且右侧向下，以促进胃排空，以最大限度地减少通过瘘管吸入胃酸的风险。
+如果因为极度早产儿，吸入性肺炎或其他先天畸形，而必须延期进行确定性手术，那么就需要置入胃造口管以使胃减压。通过胃造口管进行吸引，从而降低了胃内容将通过瘘返流入气管支气管树的风险。
+
+【外科手术修复】
+如果婴儿情况稳定，就可行食道闭锁胸膜外修补术，并关闭食管气管瘘 (1)。如果发现瘘管，需要进行结扎手术。在大约80％的病例中，可以进行食管的一期吻合 (2,3)。可行时在胸腔镜下进行修复（4）。
+部分儿科外科医生会进行Foker手术 (5)。在该过程中，将牵引缝合线放置在食道袋的末端，通过皮肤引出，并用硅橡胶按钮固定。牵引力逐渐施加到缝合线上，从而刺激食道伸长达1至2mm/天。一旦食管两端靠拢或距离较近，即可进行一期吻合术。
+若存在极长的缺损，可进行胃移位术或结肠间置术（5）。
+最常见的急性并发症是吻合口漏和狭窄形成。由于远端食管段运动能力较差，手术修复成功后仍常见喂养困难，80% 至 90% 的婴儿会出现这种情况（6）。这种较差的运动能力使婴儿容易患胃食管反流病（超过 40% 的婴儿会出现这种情况）以及吞咽困难（7）。建议所有食管闭锁新生儿用抑酸疗法治疗反流(8）。吞咽康复方案可能会有所帮助（9）。此时如果药物治疗失败，需作Nissen胃底折叠术。
+
+【治疗参考文献】
+1.Dingemann C, Eaton S, Aksnes G, et al.ERNICA Consensus Conference on the Management of Patients with Esophageal Atresia and Tracheoesophageal Fistula: Diagnostics, Preoperative, Operative, and Postoperative Management.Eur J Pediatr Surg.2020;30(4):326-336.doi:10.1055/s-0039-1693116
+1.Dingemann C, Eaton S, Aksnes G, et al.ERNICA Consensus Conference on the Management of Patients with Esophageal Atresia and Tracheoesophageal Fistula: Diagnostics, Preoperative, Operative, and Postoperative Management.Eur J Pediatr Surg.2020;30(4):326-336.doi:10.1055/s-0039-1693116
+2.Samraj P, Chakraborty G, Sugandhi N, et al.Primary anastomosis in difficult cases of type "C" esophageal atresia: The atraumatic microvascular clamp technique of minimal tension with good outcome.J Pediatr Surg.2021;56(5):1076-1081.doi:10.1016/j.jpedsurg.2020.12.005
+2.Samraj P, Chakraborty G, Sugandhi N, et al.Primary anastomosis in difficult cases of type "C" esophageal atresia: The atraumatic microvascular clamp technique of minimal tension with good outcome.J Pediatr Surg.2021;56(5):1076-1081.doi:10.1016/j.jpedsurg.2020.12.005
+3.Galazka P, Skinder D, Styczynski J.Use of Staged vs. Primary Repair in Thoracoscopic Esophageal Atresia Repair.J Pediatr Surg.2024;59(3):357-362.doi:10.1016/j.jpedsurg.2023.10.055
+3.Galazka P, Skinder D, Styczynski J.Use of Staged vs. Primary Repair in Thoracoscopic Esophageal Atresia Repair.J Pediatr Surg.2024;59(3):357-362.doi:10.1016/j.jpedsurg.2023.10.055
+4.Dingemann C, Eaton S, Aksnes G, et al.ERNICA Consensus Conference on the Management of Patients with Esophageal Atresia and Tracheoesophageal Fistula: Diagnostics, Preoperative, Operative, and Postoperative Management.Eur J Pediatr Surg.2020;30(4):326-336.doi:10.1055/s-0039-1693116
+4.Dingemann C, Eaton S, Aksnes G, et al.ERNICA Consensus Conference on the Management of Patients with Esophageal Atresia and Tracheoesophageal Fistula: Diagnostics, Preoperative, Operative, and Postoperative Management.Eur J Pediatr Surg.2020;30(4):326-336.doi:10.1055/s-0039-1693116
+5.Shieh HF, Jennings RW.Long-gap esophageal atresia.Semin Pediatr Surg.2017;26(2):72–77.doi:10.1053/j.sempedsurg.2017.02.009
+5.Shieh HF, Jennings RW.Long-gap esophageal atresia.Semin Pediatr Surg.2017;26(2):72–77.doi:10.1053/j.sempedsurg.2017.02.009
+6.Maybee J, Deck J, Jensen E, Ruiz A, Kinder S, DeBoer E.Feeding and Swallowing Characteristics of Children With Esophageal Atresia and Tracheoesophageal Fistula.J Pediatr Gastroenterol Nutr.2023;76(3):288-294.doi:10.1097/MPG.0000000000003697
+6.Maybee J, Deck J, Jensen E, Ruiz A, Kinder S, DeBoer E.Feeding and Swallowing Characteristics of Children With Esophageal Atresia and Tracheoesophageal Fistula.J Pediatr Gastroenterol Nutr.2023;76(3):288-294.doi:10.1097/MPG.0000000000003697
+7.Comella A, Tan Tanny SP, Hutson JM, et al.Esophageal morbidity in patients following repair of esophageal atresia: A systematic review.J Pediatr Surg.2021;56(9):1555-1563.doi:10.1016/j.jpedsurg.2020.09.010
+7.Comella A, Tan Tanny SP, Hutson JM, et al.Esophageal morbidity in patients following repair of esophageal atresia: A systematic review.J Pediatr Surg.2021;56(9):1555-1563.doi:10.1016/j.jpedsurg.2020.09.010
+8.Krishnan U, Mousa H, Dall’Oglio L, et al.ESPGHAN-NASPGHAN guidelines for the evaluation and treatment of gastrointestinal and nutritional complications in children with esophageal atresia-tracheoesophageal fistula.J Pediatr Gastroenterol Nutr.2016;63(5):550–570. doi:10.1097/MPG.0000000000001401
+8.Krishnan U, Mousa H, Dall’Oglio L, et al.ESPGHAN-NASPGHAN guidelines for the evaluation and treatment of gastrointestinal and nutritional complications in children with esophageal atresia-tracheoesophageal fistula.J Pediatr Gastroenterol Nutr.2016;63(5):550–570. doi:10.1097/MPG.0000000000001401
+9.Serel Arslan S, Soyer T, Demir N, et al.Effect of Swallowing Rehabilitation Protocol on Swallowing Function in Patients with Esophageal Atresia and/or Tracheoesophageal Fistula.Eur J Pediatr Surg.2017;27(6):526-532.doi:10.1055/s-0037-1599231
+9.Serel Arslan S, Soyer T, Demir N, et al.Effect of Swallowing Rehabilitation Protocol on Swallowing Function in Patients with Esophageal Atresia and/or Tracheoesophageal Fistula.Eur J Pediatr Surg.2017;27(6):526-532.doi:10.1055/s-0037-1599231
+气管食管畸形有5种类型；除一种外，其余均伴有食管闭锁。
+气管食管畸形有5种类型；除一种外，其余均伴有食管闭锁。
+有时诊断是基于产前超声检查怀疑的。
+有时诊断是基于产前超声检查怀疑的。
+临床表现包括喂养后口腔分泌物过多、咳嗽、发绀以及吸入性肺炎；H型瘘管（不伴食管闭锁）通常发病较晚，并因吸入性肺炎而被怀疑。
+临床表现包括喂养后口腔分泌物过多、咳嗽、发绀以及吸入性肺炎；H型瘘管（不伴食管闭锁）通常发病较晚，并因吸入性肺炎而被怀疑。
+初步诊断方法包括尝试插入鼻胃管或口胃管，并通过拍摄X光片来获取影像。
+初步诊断方法包括尝试插入鼻胃管或口胃管，并通过拍摄X光片来获取影像。
+通过手术修复联合抑酸疗法进行治疗。
+通过手术修复联合抑酸疗法进行治疗。

@@ -1,0 +1,92 @@
+标题：房室传导阻滞
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/atrioventricular-block
+============================================================
+
+(参见心律失常概述。）
+AV阻滞最常见的病因为 (1)
+特发性纤维化和传导系统的硬化（约40％患者）
+特发性纤维化和传导系统的硬化（约40％患者）
+缺血性心脏疾病（20％）
+缺血性心脏疾病（20％）
+其它的房室传导阻滞的病因是
+药物（如β-受体阻滞剂、钙通道阻滞剂、地高辛、胺碘酮）
+药物（如β-受体阻滞剂、钙通道阻滞剂、地高辛、胺碘酮）
+迷走神经张力增高
+迷走神经张力增高
+心脏结节病
+心脏结节病
+先天性心脏病、遗传性或其他疾病
+先天性心脏病、遗传性或其他疾病
+年龄在 18 岁至 60 岁之间，有多达三分之一的新发 Mobitz II 型二度或三度房室传导阻滞且无明显结构性心脏病的患者在经过有针对性的调查后被诊断患有心脏结节病（2）。
+房室传导阻滞的暂时性或可逆性原因包括莱姆心肌炎和神经介导的（迷走神经）心脏传导阻滞。
+房室传导阻滞可以是部分或完全的。一度和二度阻滞是部分阻滞。三度阻滞是完全阻滞。
+
+【Ⅰ度房室传导阻滞】
+所有正常P波后均跟随有QRS波群，但PR间期长于正常值（超过>0.20秒—见图I度房室传导阻滞）。
+
+【I度房室传导阻滞】
+I度房室传导阻滞
+Ⅰ度房室传导阻滞，传导延缓而无脱漏搏动。 所有正常P波后紧随有QRS波群，但PR间期比正常长（>0.2秒）。
+Ⅰ度房室传导阻滞在较年轻的伴高迷走神经张力的患者和在经良好训练的运动员中可能是生理性的。一度房室传导阻滞很少有症状，通常不需要治疗。当 PR 间期很长（> 0.3 秒）时，由于 AV 同步性丧失，可能会出现因呼吸困难或疲劳而导致的运动不耐受。
+当一度房室传导阻滞伴有另一种心脏疾病或似乎是由药物引起时，可能需要进一步检查。
+
+【Ⅱ度房室传导阻滞】
+有些正常P波后紧随有QRS波群，但有些则无。存在2种类型:
+Mobitz I型
+Mobitz I型
+Mobitz II型
+Mobitz II型
+在经典Mobitz I型二度房室传导阻滞中，PR间期随每个心搏进行性延长直到心房冲动不能下传，QRS波群脱漏（文氏现象）；房室结传导在下一个心搏时恢复，且该心搏具有最短的PR间期；此序列重复出现（见图经典Mobitz I型二度房室传导阻滞）。通常，序列期间 PR 间期延长变化较大，但随后总是随着暂停后的第一个传导心跳而缩短（3）。
+
+【Mobitz Ⅱ度I型房室传导阻滞】
+Mobitz Ⅱ度I型房室传导阻滞
+PR间期随着每次心跳逐渐延长，直到心房冲动无法传导，导致QRS波群脱落（文氏现象）；下一次心跳恢复房室结传导，该心跳的PR间期最短，然后重复上述过程。
+能同步记录II导联节律条带的12导联心电图。向下的箭头表示正常窦性心律的P波，频率为58次/分。QRS波显示对于每4个P波有三个QRS复合波群成组出现。II导联下面的数字是相应的RR间期。II导联以上的数字是相应的PR间期。QRS波群脱落间歇期间的RR间期（1920毫秒）小于其他任一RR间期的两倍。每组PR间期进行性延长（300毫秒，然后380毫秒，然后420毫秒）。由于PR间期延长的增量逐渐减少（80毫秒，然后40毫秒），故间歇后的RR间期进行性缩短（1080毫秒，然后1040毫秒）。
+图片由L.提供Brent Mitchell, MD.
+Ⅱ度莫氏Ⅰ型房室传导阻滞在较年轻、运动量较多的患者中可能是生理性的。如果 QRS 波群较窄，莫氏 I 型二度房室传导阻滞几乎总是发生在房室结中；如果 QRS 波群较宽（> 0.12 秒），莫氏 I 型二度房室传导阻滞发生在希氏-浦肯野系统的可能性（60% 至 70%）大于发生在房室结中的可能性（30% 至 40%）（2）。房室结阻滞通常进展缓慢，如果阻滞变得完全，通常会形成一个合理的频率（35 至 55 次/分钟）的可靠的交界性逸搏心律。除非阻滞导致了症状性心动过缓，并且排除了短暂的或可逆的原因，否则通常不需要治疗。治疗是植入起搏器，这对因为其他原因进行电生理检查而检出的结下部位的Mobitz I型二度房室传导阻滞的无症状病人也可能获益。
+在Mobitz II型二度房室传导阻滞中，PR间期保持恒定。心搏呈间歇性不传导和QRS波群脱漏，通常在每第3个（3∶1阻滞）或第4个（4∶1阻滞）P波处反复循环（见图Mobitz II型二度房室传导阻滞）。跨越阻滞的RR间期等于其他RR间期的两倍。
+
+【莫氏Ⅱ度Ⅱ型房室传导阻滞】
+莫氏Ⅱ度Ⅱ型房室传导阻滞
+PR间期保持恒定。心搏间歇性不传导，QRS波群脱漏，通常呈周期性，表现为每第三个（3∶1阻滞）或第四个（4∶1阻滞）P波不传导。
+MobitzⅡ度Ⅱ型房室传导阻滞总是病理性的；25%病人阻滞发生在希氏束，其余的发生在束支 (4)。患者可能无症状或感到轻微头晕、晕厥先兆和晕厥，取决于传导与阻滞心搏的比率。Mobitz II 型二度房室传导阻滞进展为完全性心脏传导阻滞是典型的，并且可能很突然。室性逸搏心律（20 至 40 次/分钟）比交界性逸搏心律（35 至 50 次/分钟）慢，且可能不可靠，导致心搏停止；因此，在没有暂时或可逆原因的情况下，需安置起搏器（3）。
+在高度二度房室传导阻滞中，每两个（或更多）P波就有一个被阻断（见图二度房室传导阻滞（高度））。
+
+【Ⅱ度房室传导阻滞（高度）】
+Ⅱ度房室传导阻滞（高度）
+在此高度Ⅱ度房室传导阻滞的示例中，每隔一个P波被阻滞。
+在高度二度房室传导阻滞的患者中，很难区分Mobitz I型房室传导阻滞和Mobitz II型房室传导阻滞，因为从未有2个P波连续传导。完全性房室传导阻滞的危险性难以预测，通常有安置起搏器的指征 (5)。
+伴有任何类型Ⅱ度房室传导阻滞而有结构性心脏病的病人应考虑为安置永久起搏器的候选者，除非有暂时性的和可逆转的原因。
+
+【三度房室传导阻滞】
+在三度房室传导阻滞中，没有 P 波传导形成 QRS 波群。根据定义，P 波频率大于 QRS 频率。因此，三度房室传导阻滞是完全性心脏传导阻滞（见图三度房室传导阻滞）。
+
+【Ⅲ度房室传导阻滞】
+Ⅲ度房室传导阻滞
+在Ⅲ度房室传导阻滞中，P波和QRS波群之间没有关系（房室分离）。P波速率大于QRS波速率。此处的基本节律是窄QRS波群的交界性逃逸节律，频率约为65次/分钟。
+心房和心室之间没有电传导，因此P波和QRS波群之间没有关系（房室分离）。心功能由交界性逸搏或心室起搏点维持。逸搏心律起自希氏束分叉之上产生窄的QRS波群，有相对较快的（35至50次/分）和可靠的心率和轻度的症状（如，疲劳、体位性头晕、不能耐受劳力）。逸搏心律起自分叉以下，产生宽QRS波群，具有更慢（20至40次/分钟）且不可靠的心率，以及更严重的症状（如晕厥先兆、晕厥、心力衰竭）。体征包括房室分离的表现，如大炮型a波，血压波动，第1心音（S1）响度的改变。如果是低位逸搏节律，则存在心搏停止相关的晕厥和猝死风险。
+大多数病人需要安置起搏器。 如果阻滞是由抗心律失常药物引起，虽然可能需要安置临时起搏器，但停用该药物可能就会有效果。但是，即使在停止使用负性传导药物后阻滞症状得以缓解，但如果不再使用药物，阻滞症状仍有可能复发。因此，持续监测是必要的。急性下壁心肌梗死引起的房室传导阻滞通常反映由于副交感神经紧张增加和/或局部腺苷释放导致的房室结功能异常。它可能对阿托品或氨茶碱有反应，并且大多数情况下会在几天内自行消退。
+由前壁心肌梗死所致的房室传导阻滞通常反映了广泛的心肌坏死，累及希氏-浦肯野系统，需要立即经静脉置入临时起搏器，必要时用过渡型的体外起搏 (5) 。 可能会发生自行消退，但需评估房室结和结下传导情况（如，电生理检查、运动试验、24小时心电图）。
+伴有先天性Ⅲ度房室传导阻滞的大多数患者有交界性逸搏心律，此心律保持在一合理的速率，但当他们达到中年之前需要安置永久起搏器。较少见的情况下，先天性房室传导阻滞病人有缓慢的逸搏心律，并在年轻时，甚至在婴儿期就需要安置永久起搏器。
+
+【参考文献】
+1.Wogan JM, Lowenstein SR, Gordon GS: Second-degree atrioventricular block: Mobitz type II.J Emerg Med11(1):47–54, 1993.doi:10.1016/0736-4679(93)90009-v
+1.Wogan JM, Lowenstein SR, Gordon GS: Second-degree atrioventricular block: Mobitz type II.J Emerg Med11(1):47–54, 1993.doi:10.1016/0736-4679(93)90009-v
+2.Nery PB, Beanlands RS, Nair GM, et al: Atrioventricular block as the initial manifestation of cardiac sarcoidosis in middle-aged adults.J Cardiovasc Electrophysiol25(8):875–881, 2014.doi: 10.1111/jce.12401
+2.Nery PB, Beanlands RS, Nair GM, et al: Atrioventricular block as the initial manifestation of cardiac sarcoidosis in middle-aged adults.J Cardiovasc Electrophysiol25(8):875–881, 2014.doi: 10.1111/jce.12401
+3.Barold SS: Type I Wenckebach second-degree AV block: A matter of definition.Clin Cardiol41(3):282–84, 2018.doi: 10.1002/clc.22874
+3.Barold SS: Type I Wenckebach second-degree AV block: A matter of definition.Clin Cardiol41(3):282–84, 2018.doi: 10.1002/clc.22874
+4.Waller BF, Gering LE, Branyas NA, Slack JD: Anatomy, histology, and pathology of the cardiac conduction system--Part V.Clin Cardiol16(7):565–569, 1993.doi:10.1002/clc.4960160710
+4.Waller BF, Gering LE, Branyas NA, Slack JD: Anatomy, histology, and pathology of the cardiac conduction system--Part V.Clin Cardiol16(7):565–569, 1993.doi:10.1002/clc.4960160710
+5.Kusumoto FM, Schoenfeld MH, Barrett C, et al: 2018 ACC/AHA/HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Heart Rhythm16(9):e128–e226, 2019.doi: 10.1016/j.hrthm.2018.10.037
+5.Kusumoto FM, Schoenfeld MH, Barrett C, et al: 2018 ACC/AHA/HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Heart Rhythm16(9):e128–e226, 2019.doi: 10.1016/j.hrthm.2018.10.037
+房室 (AV) 传导阻滞有 3 度：第一度、第二度和第三度。
+房室 (AV) 传导阻滞有 3 度：第一度、第二度和第三度。
+一、二度阻滞是部分阻滞，三度阻滞是完全性阻滞。
+一、二度阻滞是部分阻滞，三度阻滞是完全性阻滞。
+一度房室传导阻滞很少有症状，不需要治疗。
+一度房室传导阻滞很少有症状，不需要治疗。
+二度房室传导阻滞Mobitz I型可能是生理性的，如果心率减慢，通常会出现可靠的交界性逸搏节律，因此除非出现症状性心动过缓，否则不需要治疗。
+二度房室传导阻滞Mobitz I型可能是生理性的，如果心率减慢，通常会出现可靠的交界性逸搏节律，因此除非出现症状性心动过缓，否则不需要治疗。
+二度房室传导阻滞Mobitz II型和三度房室传导阻滞总是病理性的，除非原因是短暂的或可逆的，否则通常需要起搏器。
+二度房室传导阻滞Mobitz II型和三度房室传导阻滞总是病理性的，除非原因是短暂的或可逆的，否则通常需要起搏器。

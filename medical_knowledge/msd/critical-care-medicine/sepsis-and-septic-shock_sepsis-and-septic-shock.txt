@@ -1,0 +1,213 @@
+标题：脓毒症和脓毒性休克
+来源：https://www.msdmanuals.cn/professional/critical-care-medicine/sepsis-and-septic-shock/sepsis-and-septic-shock
+============================================================
+
+(参见休克和静脉液体复苏。)
+脓毒症包含一大类疾病，疾病死亡风险从10％到>40％不等 (1)，取决于病原体和宿主因素，以及能否及时识别并提供适当治疗。
+脓毒性休克是一种严重的脓毒症，循环和/或细胞代谢的严重紊乱导致其死亡率明显升高。脓毒性休克存在持续性低血压（指尽管进行了充分的容量复苏，但仍需要使用升压药维持平均动脉压≥65 mmHg，以及血清乳酸水平>18 mg/dL [2 mmol/L]）(2)。
+全身炎症反应综合征（SIRS）的定义包含了特定的生命体征异常和实验室检查异常，一直用于识别早期脓毒症 (2)。然而，研究发现，SIRS标准在预测死亡风险增加方面缺乏敏感性和特异性，而预测死亡风险是使用此类概念模型的主要考量。SIRS通常是生理性反应而非病理性反应，这可能是特异性不好的原因。
+
+【参考文献】
+1.Rangel-Frausto MS, Pittet D, Costigan M, et al: The natural history of the systemic inflammatory response syndrome (SIRS).A prospective study.JAMA273(2):117–123, 1995.
+1.Rangel-Frausto MS, Pittet D, Costigan M, et al: The natural history of the systemic inflammatory response syndrome (SIRS).A prospective study.JAMA273(2):117–123, 1995.
+2.Singer M, Deutschman CS, Seymour CW, et al:The third international consensus definitions for sepsis and septic shock (sepsis-3).JAMA315:801–810, 2016.doi:10.1001/jama.2016.0287
+2.Singer M, Deutschman CS, Seymour CW, et al:The third international consensus definitions for sepsis and septic shock (sepsis-3).JAMA315:801–810, 2016.doi:10.1001/jama.2016.0287
+
+【脓毒症和脓毒性休克的病因】
+大多数脓毒性休克是院内感染导致的，感染病原体包括革兰氏阴性杆菌和革兰氏阳性球菌，常发生于免疫功能受损、合并慢性病以及虚弱的患者 (1)。念珠菌或其他真菌导致的脓毒性休克罕见。近期有过手术的患者若发生脓毒性休克，应怀疑术后感染是其病因。由金黄色葡萄球菌和链球菌毒素引起的一种独特且不常见的休克形式，称为中毒性休克综合征。
+脓毒性休克常易发生于新生儿（见新生儿败血症）、老人和孕妇。易感因素包括
+白细胞减少症（尤其是与癌症相关或细胞毒性药物治疗所致）
+白细胞减少症（尤其是与癌症相关或细胞毒性药物治疗所致）
+有创设备（包括气管内导管，血管内导管或导尿管，引流管，及其他异物）
+有创设备（包括气管内导管，血管内导管或导尿管，引流管，及其他异物）
+之前使用过抗生素或糖皮质激素治疗
+之前使用过抗生素或糖皮质激素治疗
+最近住院（特别是在重症监护室）
+最近住院（特别是在重症监护室）
+常见的感染部位包括肺、尿道、胆道和胃肠道。
+
+【病因参考文献】
+1.Rudd KE, Johnson SC, Agesa KM, et al: Global, regional, and national sepsis incidence and mortality, 1990–2017: analysis for the Global Burden of Disease Study.Lancet395(10219):200–211, 2020.doi:10.1016/S0140-6736(19)32989-7
+1.Rudd KE, Johnson SC, Agesa KM, et al: Global, regional, and national sepsis incidence and mortality, 1990–2017: analysis for the Global Burden of Disease Study.Lancet395(10219):200–211, 2020.doi:10.1016/S0140-6736(19)32989-7
+
+【脓毒症和脓毒性休克的病理生理学】
+脓毒性休克的发病机制尚不明确。 炎症刺激（如细菌毒素）触发了促炎介质的产生，包括肿瘤坏死因子（TNF）和白介素（IL）-1。这些细胞因子促使中性粒细胞与内皮细胞黏附，从而激活凝血机制，生成微血栓。炎症刺激也会导致其它许多介质的释放，包括白三烯、脂质氧化酶、组胺、缓激肽、5-羟色胺和白介素-2。抗炎介质如白介素-4和白介素-10，与上述促炎因子对抗，产生负反馈机制。
+早期，动脉和小动脉扩张，外周动脉阻力下降；心输出量通常增加。此阶段称为“暖休克”。随后，心输出量可能下降，血压降低（伴或不伴外周阻力增加），并出现典型的低灌注表现。
+需要指出，即使在心排出量增加阶段，由于血管活性介质的作用，血流绕过毛细血管交换床（分布性缺失）产生分流。分流和微血栓阻塞使毛细血管血流量下降，从而使其输送氧气和清除二氧化碳及代谢废物的能力下降。血流灌注的减少引起肾、肺、肝、脑和心脏在内的一个或多个脏器功能障碍，有时候甚至导致脏器衰竭。
+无论是血管内凝血造成大量凝血因子消耗，还是继发性纤溶亢进，或者更多时候两者协同作用，都会加重凝血功能紊乱。
+
+【脓毒症和脓毒性休克的症状和体征】
+脓毒症患者一般有发热、心动过速、大汗和呼吸急促，但血压正常。患者还会有原发感染的相关体征。
+脓毒症的症状与体征可以很轻微，常易被误认为是其他疾病（如原发性心功能障碍、肺栓塞、谵妄或传染性胃肠炎）的表现。对于免疫抑制患者或术后患者，识别脓毒症的临床表现尤其困难。
+当脓毒症恶化或脓毒性休克进展时，患者的早期表现可能是意识障碍或反应迟钝，特别是老人或年纪很小的患者。开始时，血压下降，但是皮肤仍温暖。接着，肢端逐渐变冷、苍白，出现周围性紫绀和皮肤花斑。 当发生器官功能障碍时，会出现相应的症状和体征（如少尿、呼吸困难）。
+
+【脓毒症和脓毒性休克的诊断】
+病史和体格检查
+病史和体格检查
+血压（BP），心率和氧饱和度监测
+血压（BP），心率和氧饱和度监测
+全血细胞计数（CBC）与分类、电解质、血肌酐、乳酸
+全血细胞计数（CBC）与分类、电解质、血肌酐、乳酸
+侵入性中心静脉压 (CVP)、动脉血氧分压 (PaO2) 和中心静脉血氧饱和度 (ScvO2) 读数
+侵入性中心静脉压 (CVP)、动脉血氧分压 (PaO2) 和中心静脉血氧饱和度 (ScvO2) 读数
+血、尿及其它潜在感染部位的培养，包括手术病人伤口培养
+血、尿及其它潜在感染部位的培养，包括手术病人伤口培养
+对于有明确感染的患者，出现全身炎症或器官功能不全时应怀疑脓毒症 (1)。同样，对于出现无法解释的全身炎症症状的患者，应通过病史、体格检查、影像学或实验室检测来评估是否感染。包括尿常规和尿培养（特别是留置导尿管患者）、血培养及其它怀疑感染的体液的培养。严重脓毒症患者的血C反应蛋白和降钙素原水平通常升高，这有助于诊断，但并非特异性指标。对于怀疑因手术或隐匿原因引起脓毒症的患者，应进行超声检查（例如，用于休克和低血压 (RUSH) 检查的快速超声检查)、CT 或 MRI，具体取决于可疑来源。最终诊断还是依靠临床。
+应结合病史、体格检查、心电图检查和血清心肌标志物等排除其他类型的休克原因（如低血容量或心肌梗死[MI]）。即使无心肌梗死，脓毒症所致低灌注也可导致心电图心肌缺血样表现，包括非特异性ST-T波异常、T波倒置、室上性和室性心律失常。
+尽早发现器官功能障碍极其重要。已有许多评分系统，但序贯器官衰竭评分（SOFA评分）和快速SOFA评分（qSOFA）证实可反映死亡风险，且操作相对简单。qSOFA 评分基于血压、呼吸频率和格拉斯哥昏迷量表并且不需要等待实验室结果。
+对于不在重症监护病房(ICU)的疑似感染患者，qSOFA评分比SIRS标准和SOFA评分更能预测住院患者死亡率。对于重症监护病房（ICU）中的疑似感染患者，SOFA评分比全身炎症反应综合征（SIRS）和qSOFA评分更好地预测了住院死亡率 (2)。
+以下标准中符合≥2条SIRS标准的患者，应进行进一步的临床和实验室检查：
+体温>38°C（100.4°F）或<36°C（96.8°F）
+体温>38°C（100.4°F）或<36°C（96.8°F）
+心率>90次/分
+心率>90次/分
+呼吸频率>每分钟呼吸 20 次或动脉二氧化碳分压 (PaCO2)<32 毫米汞柱
+呼吸频率>每分钟呼吸 20 次或动脉二氧化碳分压 (PaCO2)<32 毫米汞柱
+白细胞计数>12,000/mcL（12×109/L）、<4,000/mcL（4×109/L）或>10%不成熟（杆状）形式
+白细胞计数>12,000/mcL（12×109/L）、<4,000/mcL（4×109/L）或>10%不成熟（杆状）形式
+符合≥2条qSOFA标准的患者，应进行进一步的临床和实验室检查：
+呼吸频率≥22次/分
+呼吸频率≥22次/分
+神智改变
+神智改变
+收缩压≤100mmHg
+收缩压≤100mmHg
+这SOFA 评分当患者在 ICU 接受治疗时，评分会稍微稳健一些 ，但该评分需要进行实验室测试（见表格序贯器官衰竭评估评分）。临床上还有其他评分系统（3）。
+
+【序贯器官衰竭（SOFA）评分】
+序贯器官衰竭（SOFA）评分
+评分：0
+评分：1
+评分：2
+评分：3
+评分：4
+PaO2/FiO2
+≥ 400mmHg（53.3kPa）
+<400mmHg（53.3kPa）
+<300mmHg（40kPa）
+呼吸支持下<200mmHg（26.7kPa）
+呼吸支持下<100mmHg（13.3kPa）
+≥150×103/mcL（≥150×109/L）
+<150×103/mcL（<150×109/L）
+<100×103/mcL（<100×109/L）
+<50×103/mcL（<50×109/L）
+<20×103/mcL（<20×109/L）
+<1.2mg/dL（20micromol/L）
+1.2～1.9mg/dL（20～32micromol/L）
+2.0～5.9mg/dL（33～101micromol/L）
+6.0～11.9mg/dL（102～204micromol/L）
+>12.0mg/dL（204micromol/L）
+心血管（药物剂量给予持续≥1小时）
+MAP≥70mmHg
+MAP<70mmHg
+多巴胺<5微克/公斤/分钟
+使用任意剂量的多巴酚丁胺
+多巴胺 5.1～15 微克/千克/分钟
+肾上腺素≤0.1 微克/公斤/分钟
+去甲肾上腺素≤0.1 微克/公斤/分钟
+多巴胺>15 微克/公斤/分钟
+肾上腺素>0.1 微克/公斤/分钟
+去甲肾上腺素>0.1 微克/公斤/分钟
+格拉斯哥昏迷量表评分*
+13-14分
+10～12分
+6-9分
+<1.2mg/dL（110micromol/L）
+1.2～1.9mg/dL（110～170micromol/L）
+2.0～3.4mg/dL（171～299micromol/L）
+3.5～4.9mg/dL（300～400micromol/L）
+>5.0mg/dL（440micromol/L）
+<500mL/天
+<200 mL/天
+*评分越高，表明神经系统功能越好。
+FiO2 =吸氧浓度;kPa=千帕斯卡; MAP =平均动脉压;PaO2 =动脉血氧分压。
+Adapted fromSinger M, Deutschman CS, Seymour CW, et al:The third international consensus definitions for sepsis and septic shock (sepsis-3).JAMA315:801–810, 2016.doi:10.1001/jama.2016.0287
+*评分越高，表明神经系统功能越好。
+FiO2 =吸氧浓度;kPa=千帕斯卡; MAP =平均动脉压;PaO2 =动脉血氧分压。
+Adapted fromSinger M, Deutschman CS, Seymour CW, et al:The third international consensus definitions for sepsis and septic shock (sepsis-3).JAMA315:801–810, 2016.doi:10.1001/jama.2016.0287
+监测 CBC，动脉血气(ABGs) ，胸部 X 线，血清电解质，BUN (血液尿素氮) ，肌酐，二氧化碳分压(PCO2)和肝功能。可以测定血清乳酸水平、ScvO2 或两者，以帮助指导治疗。白细胞（WBC）计数可能下降（＜ 4,000/mcL[<4×109/L]）或升高（>15,000/mcL [>15×109/L]），多形核细胞可以低至20％。在脓毒症病程中，白细胞计数的变化取决于脓毒症或休克的严重程度、患者的免疫状态、以及感染的病因。发病时使用糖皮质激素可能使白细胞计数升高，从而掩盖由于疾病进展导致的白细胞变化。
+为了代偿血乳酸升高，早期有过度通气伴呼吸性碱中毒（PaCO2降低、动脉血pH升高）。血清碳酸氢盐浓度通常较低，血清及血乳酸水平上升。随着休克进展，代谢性酸中毒加重，动脉血PH下降。早期低氧血症型呼吸衰竭导致氧合指数（PaO2/FiO2）下降，有时导致明显的低氧血症，即PaO2<70mmHg。出现急性呼吸窘迫综合征（ARDS）时，胸片表现为肺部弥漫性渗出。出现肾功能不全时，尿素氮和肌酐常进行性升高。尽管明显的肝衰竭在基础肝功能正常的患者中不常见，但胆红素和转氨酶可见升高。
+当休克类型不明或需要大量扩容时（如，6～8小时内补充平衡晶体液＞4～5L），使用中心静脉或肺动脉导管行血流动力学监测。
+在ICU，床旁心超是实用的无创血流动力学监测措施。脓毒性休克时，心排出量增加，外周血管阻力下降；而在其他类型休克时，心排出量通常降低，外周阻力增加。
+与低血容量性、阻塞性或心源性休克不同，感染性休克中CVP和肺动脉闭塞压（PAOP）都不太可能异常。
+许多严重脓毒症患者可出现相对性肾上腺功能不全（即，基础皮质醇水平正常或稍高，但在进一步应激或外源性促肾上腺皮质激素[ACTH]刺激时无明显增加）。肾上腺功能可通过测量上午8点的血清皮质醇水平来检测；皮质醇水平<5mcg/dL (<138nmol/L) 提示肾上腺功能不全。或者，可在注射250mcg人工合成ACTH前后测定皮质醇水平；若皮质醇升高<9mcg/dL (<248nmol/L) 则被认为是不充分的。
+
+【诊断参考】
+1.Singer M, Deutschman CS, Seymour CW, et al:The third international consensus definitions for sepsis and septic shock (sepsis-3).JAMA315:801–810, 2016.doi:10.1001/jama.2016.0287
+1.Singer M, Deutschman CS, Seymour CW, et al:The third international consensus definitions for sepsis and septic shock (sepsis-3).JAMA315:801–810, 2016.doi:10.1001/jama.2016.0287
+2.Seymour CW, Liu VX, Iwashyna TJ, et al: Assessment of clinical criteria for sepsis: For the third international consensus definitions for sepsis and septic shock (sepsis-3).JAMA215(8):762–774, 2016.doi: 10.1001/jama.2016.0288
+2.Seymour CW, Liu VX, Iwashyna TJ, et al: Assessment of clinical criteria for sepsis: For the third international consensus definitions for sepsis and septic shock (sepsis-3).JAMA215(8):762–774, 2016.doi: 10.1001/jama.2016.0288
+3.Covino M, Sandroni C, Della Polla D, et al: Predicting ICU admission and death in the Emergency Department: A comparison of six early warning scores.Resuscitation190:109876, 2023.doi:10.1016/j.resuscitation.2023.109876
+3.Covino M, Sandroni C, Della Polla D, et al: Predicting ICU admission and death in the Emergency Department: A comparison of six early warning scores.Resuscitation190:109876, 2023.doi:10.1016/j.resuscitation.2023.109876
+
+【脓毒症和脓毒性休克的治疗】
+给予静脉补液恢复灌注，有时需使用血管升压药
+给予静脉补液恢复灌注，有时需使用血管升压药
+广谱抗菌素
+广谱抗菌素
+控制感染源
+控制感染源
+有时需给予其他支持治疗（如糖皮质激素、胰岛素）
+有时需给予其他支持治疗（如糖皮质激素、胰岛素）
+感染性休克患者应在重症监护室 (ICU) 接受治疗。  应经常监控以下内容（每小时一次）：
+使用中心静脉压(CVP)、肺动脉楔压(PAOP)、连续超声检查和/或中心静脉血氧饱和度(ScvO2)监测容量状态
+使用中心静脉压(CVP)、肺动脉楔压(PAOP)、连续超声检查和/或中心静脉血氧饱和度(ScvO2)监测容量状态
+动脉血气分析
+动脉血气分析
+血糖、乳酸和电解质水平
+血糖、乳酸和电解质水平
+动脉血氧饱和度应通过脉搏血氧仪连续测量。尿量是很好的判断肾血流灌注的指标，应予以监测(一般情况下，除非必要，应避免留置导尿)。 一旦出现少尿（<0.5mL/kg/h）或无尿，或肌酐逐渐上升，预示临近肾功能衰竭。
+建议遵循循证指南和推荐方案，因为有证据表明及时诊断和治疗脓毒症可以减少死亡率、缩短住院时间(1,2)。
+
+【恢复灌注】
+静脉补液是恢复灌注的首要方法。优选平衡等渗晶体。一些临床医生在严重脓毒症或脓毒症休克患者的初始补液中添加白蛋白；然而，几乎没有证据表明其可以提高生存获益（2）。淀粉类液体（如羟乙基淀粉）与死亡率增加相关，不应使用 (3)。
+最初，应快速补充1L晶体液。大部分患者在第一个4〜6小时至少需要补液30mL/kg。然而，治疗目标并不是给予特定量的液体，而是在不因液体超负荷引起肺水肿的前提下实现组织再灌注。
+再灌注成功与否的评估指标包括ScvO2和乳酸清除率（即血清乳酸水平变化值的百分比）。目标ScvO2为≥70%。乳酸清除率在10％至20％之间亦提示再灌注成功。
+肺水肿的风险可通过优化前负荷来控制；应持续补液直至中心静脉压(CVP)达到8mm Hg（10cm H₂O）或肺动脉楔压(PAOP)达到12至15mm Hg；然而，接受机械通气的患者可能需要更高的CVP水平。所需液体量通常远超过正常血容量，在4-12h后可能达到10L。通过PAOP或超声心动图可以了解左心室功能，以及早期识别液体负荷过重导致的肺水肿。床旁超声也可用于评估容量状态，包括下腔静脉 (IVC) 扩张或塌陷、心脏功能和是否存在肺水肿。
+如果脓毒性休克患者在中心静脉压(CVP)或肺动脉楔压(PAOP)已升至目标水平后仍持续低血压，可给予去甲肾上腺素（剂量需高度个体化）或血管加压素（最高0.03单位/分钟），以将平均动脉压提升至至少65mm Hg。如果需要联合使用升压药，可加用肾上腺素。然而，大剂量使用这些药物会引起血管收缩，从而导致器官灌注不良和酸中毒。
+
+【氧气支持】
+通过面罩、鼻导管或无创正压通气给予氧气。出现呼吸衰竭后需气管插管和机械通气（见ARDS的机械通气)。
+在采集血液、体液和伤口标本进行革兰染色和培养后，应尽快通过肠外途径（通常是静脉）给予抗生素。 如果怀疑脓毒症，及时启动经验性治疗非常重要，与改善患者的生存率息息相关。  需合理选择抗生素，考量因素包括：可疑感染源（如肺炎、尿路感染）、临床表现、已知或可疑的病原微生物、病房或医疗机构常见病原体药敏状况、患者既往的培养结果。
+一般来说，初始治疗使用广谱抗生素覆盖革兰氏阳性及革兰氏阴性细菌，免疫功能损害患者还应开始经验性抗真菌治疗。起始方案有多种选择。如果可以得到，医疗机构的常见病原微生物的药敏状况和趋势应该用来指导经验性治疗。总的来说，常用的覆盖革兰氏阳性菌的经验性抗生素包括万古霉素和利奈唑胺。 经验性覆盖革兰氏阴性菌的抗生素选择较多，包括广谱青霉素类（如哌拉西林/他唑巴坦），三代或四代头孢菌素，亚胺培南和氨基糖苷类。如果确定了特定的感染源并且获得了培养和敏感性数据，则初始广谱覆盖范围就会缩小。
+
+【经验与陷阱】
+经验与陷阱
+医疗机构和监护室常见感染病原体和它们对抗菌药物敏感性这些知识对经验性抗生素的选择的非常重要。
+医疗机构和监护室常见感染病原体和它们对抗菌药物敏感性这些知识对经验性抗生素的选择的非常重要。
+
+【控制感染源】
+应尽早控制感染源。如果可能，应拔除或更换静脉内导管、导尿管和气管插管。 脓肿须切开引流，坏死和失活组织必须手术切除（如胆囊坏疽和软组织坏死感染）。 如果无法切除（如由于合并症或血流动力学不稳定），手术引流可能会有帮助。如果感染源不得到控制，即使使用抗生素，患者的病情仍将继续恶化。
+
+【其他支持措施】
+将血糖控制在正常水平可改善危重患者的预后，即使对非糖尿病患者也该如此，因为高血糖可降低机体对感染的反应。连续静脉滴注胰岛素（起始剂量1〜4单位/小时），使血糖维持在110～180mg/dL之间（7.7〜9.9mmol/L）。 这个方法必须频繁（如每1〜4小时）监测血糖。
+皮质类固醇治疗（如氢化可的松<400 mg 静脉注射，每日分次给药）适用于经皮质醇测试证实的肾上腺功能不全患者。然而，对于难治性感染性休克（在充分的液体复苏和血管加压药使用、实现感染源控制以及使用抗生素后，收缩压仍<90mmHg超过1小时），在开始皮质类固醇治疗前无需进行皮质醇测试（4）。是否继续治疗基于患者的反应。
+
+【治疗参考文献】
+1.Bhattacharjee P, Edelson DP, Churpek MM: Identifying patients with sepsis on the hospital wards.Chest151:898–907, 2017.doi: 10.1016/j.chest.2016.06.02T
+1.Bhattacharjee P, Edelson DP, Churpek MM: Identifying patients with sepsis on the hospital wards.Chest151:898–907, 2017.doi: 10.1016/j.chest.2016.06.02T
+2.Evans L, Rhodes A, Alhazzani W, et al: Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2021.Crit Care Med49(11):e1063–e1143, 2021.doi:10.1097/CCM.0000000000005337
+2.Evans L, Rhodes A, Alhazzani W, et al: Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2021.Crit Care Med49(11):e1063–e1143, 2021.doi:10.1097/CCM.0000000000005337
+3.Zarychanski R, Abou-Setta AM, Turgeon AF, et al: Association ofhydroxyethyl starchadministration with mortality and acute kidney injury in critically ill patients requiring volume resuscitation: a systematic review and meta-analysis [published correction appears inJAMA309(12):1229, 2013].JAMA309(7):678–688, 2013.doi:10.1001/jama.2013.430
+3.Zarychanski R, Abou-Setta AM, Turgeon AF, et al: Association ofhydroxyethyl starchadministration with mortality and acute kidney injury in critically ill patients requiring volume resuscitation: a systematic review and meta-analysis [published correction appears inJAMA309(12):1229, 2013].JAMA309(7):678–688, 2013.doi:10.1001/jama.2013.430
+4.Annane D, Pastores SM, Rochwerg B, et al: Guidelines for the diagnosis and management of critical illness-related corticosteroid insufficiency (CIRCI) in critically ill patients (Part I): Society of Critical Care Medicine (SCCM) and European Society of Intensive Care Medicine (ESICM) 2017.Intensive Care Med43(12):1751-1763, 2017. doi: 10.1007/s00134-017-4919-5
+4.Annane D, Pastores SM, Rochwerg B, et al: Guidelines for the diagnosis and management of critical illness-related corticosteroid insufficiency (CIRCI) in critically ill patients (Part I): Society of Critical Care Medicine (SCCM) and European Society of Intensive Care Medicine (ESICM) 2017.Intensive Care Med43(12):1751-1763, 2017. doi: 10.1007/s00134-017-4919-5
+
+【脓毒症和脓毒性休克的预后】
+脓毒症休克患者的总体死亡率正在下降，约为 20%（范围很广，取决于患者特征）（1）。不良预后常因未能早期进行积极治疗（例如，在疑似诊断后的6小时内）。一旦出现严重的乳酸酸中毒伴失代偿性代谢性酸中毒，特别是合并多器官衰竭时，脓毒性休克很可能不可逆转并致命。 死亡率可以用不同的评分来估计，包括急诊科脓毒症 (MEDS) 评分中的死亡率。 多器官功能障碍评分 (MODS) 衡量 6 个器官系统的功能障碍，并与死亡风险密切相关。
+
+【预后参考】
+1.Rudd KE, Johnson SC, Agesa KM, et al: Global, regional, and national sepsis incidence and mortality, 1990–2017: analysis for the Global Burden of Disease Study.Lancet395(10219):200–211, 2020.doi:10.1016/S0140-6736(19)32989-7
+1.Rudd KE, Johnson SC, Agesa KM, et al: Global, regional, and national sepsis incidence and mortality, 1990–2017: analysis for the Global Burden of Disease Study.Lancet395(10219):200–211, 2020.doi:10.1016/S0140-6736(19)32989-7
+脓毒症和脓毒性休克是由对感染的失调反应引起的、严重程度递增的威胁生命的器官功能障碍临床综合征。
+脓毒症和脓毒性休克是由对感染的失调反应引起的、严重程度递增的威胁生命的器官功能障碍临床综合征。
+组织灌注急剧减少是病情进展的重要环节，导致急性多脏器功能衰竭，包括肺、肾和肝。
+组织灌注急剧减少是病情进展的重要环节，导致急性多脏器功能衰竭，包括肺、肾和肝。
+早期识别和早期治疗对提高生存率极为关键。
+早期识别和早期治疗对提高生存率极为关键。
+进行静脉液体复苏，有时需使用血管加压药，通过滴定以达到最佳中心静脉血氧饱和度和前负荷，并降低血清乳酸水平。
+进行静脉液体复苏，有时需使用血管加压药，通过滴定以达到最佳中心静脉血氧饱和度和前负荷，并降低血清乳酸水平。
+通过拔除导管、引流管，清除感染和/或坏死组织以及引流脓肿来控制感染源。
+通过拔除导管、引流管，清除感染和/或坏死组织以及引流脓肿来控制感染源。
+针对最可能病的原体给予经验性广谱抗生素，并根据培养和药敏结果迅速换用更具针对性的药物。
+针对最可能病的原体给予经验性广谱抗生素，并根据培养和药敏结果迅速换用更具针对性的药物。

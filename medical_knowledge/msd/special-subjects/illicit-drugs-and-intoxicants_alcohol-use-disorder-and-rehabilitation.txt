@@ -1,0 +1,135 @@
+标题：酒精所致疾病和康复
+来源：https://www.msdmanuals.cn/professional/special-subjects/illicit-drugs-and-intoxicants/alcohol-use-disorder-and-rehabilitation
+============================================================
+
+酒精所致疾病涉及饮酒类型，通常包括根据不良心理后果显示出的渴求和耐受性和/或戒断的表现。酗酒和滥用酒精是常见的用语，但不太严格的定义泛指那些饮酒导致疾病的人。
+酒精所致疾病是相当普遍的。 据估计，在任何12个月期间，美国成年人中此病的发生率为13.9％。患病率在年轻人中最高，随年龄增长而下降。 18岁~29岁的人群中，12个月的酒精使用障碍患病率估计为26.7％(1), 其中重度酒精使用障碍患病率为7.1％，而≥65岁的患者中12个月的患病率仅为2.3％。
+危险饮酒定义为饮酒的频率或剂量达到以下条件：
+>男性每周大于14次饮酒或每次饮酒4份
+>男性每周大于14次饮酒或每次饮酒4份
+>女性每周大于7次饮酒或每次饮酒3份
+>女性每周大于7次饮酒或每次饮酒3份
+低于该剂量的话，发生躯体和心理并发症的风险就大大降低。
+(参见酒精毒性和戒断。）
+
+【参考文献】
+1.Grant BF, Goldstein RB, Saha T, et al: Epidemiology of DSM-5 alcohol use disorder results from the National Epidemiologic Survey on Alcohol and Related Conditions III.JAMA Psychiatry72(8):757–766, 2015.doi: 10.1001/jamapsychiatry.2015.0584
+1.Grant BF, Goldstein RB, Saha T, et al: Epidemiology of DSM-5 alcohol use disorder results from the National Epidemiologic Survey on Alcohol and Related Conditions III.JAMA Psychiatry72(8):757–766, 2015.doi: 10.1001/jamapsychiatry.2015.0584
+
+【酒精使用障碍的病因】
+构成酗酒的不良模式可能始于追求达到兴奋状态的渴望。一些饮酒者有过这种感觉经历后转而追求多次达到该状态。许多酒精长期滥用者具有某些性格特征：隔离、孤独、胆怯、抑郁症、依赖、敌意和自我毁灭的冲动。
+一些社会因素，如文化对饮酒的态度和孩子抚养方式，也会影响饮酒的方式和相关行为。酒精使用障碍可能发生在任何人身上，无论他们的年龄、性别、背景、种族或社会状况如何。因此，临床医生应筛查所有患者的酗酒问题。
+
+【基因因素】
+遗传因素的风险方差高达45％至65％。在特定家庭中，有酒精问题的人中，亲生子女的酒精使用障碍发生率高于收养子女（也高于普通人群）。遗传学和生物学的研究结果也证明此点，数据显示有酒精滥用障碍的人不容易喝醉，因为他们的中枢神经耐受阈值比普通人高。
+
+【酒精使用障碍的症状和体征】
+酒精使用障碍患者通常会发生严重的社会后果。 患者反复醉酒，由于社会行为和工作能力损害导致无法工作和与人交往。伤病是常见的现象。最终可能会导致失败的社会关系，以及因为旷工造成的失业。
+因为酒精相关的反复不良行为被逮捕或者被涉嫌酒后驾车，患者往往失去驾驶权。在美国，所有州都将驾驶时血液酒精含量 (BAC) 等于或高于 80 毫克/分升（0.08%，[17.4 毫摩尔/升]）定义为犯罪，但具体的州法律和处罚各不相同。
+
+【酒精使用障碍的诊断】
+通常是临床诊断
+通常是临床诊断
+精神疾病诊断与统计手册，第五版-文本修订（DSM-5-TR）认为，如果患者在12个月内出现临床上显著的损伤或痛苦，表现为≥2种下述症状，则存在酒精使用障碍：
+饮酒的数量和时间超出预期
+饮酒的数量和时间超出预期
+持续渴望饮酒，或尝试减少饮用酒精不成功
+持续渴望饮酒，或尝试减少饮用酒精不成功
+大量时间花在找酒、饮酒和从酒醉中恢复
+大量时间花在找酒、饮酒和从酒醉中恢复
+酒精渴求
+酒精渴求
+因为饮酒，多次未能满足在工作、家庭或学校的责任
+因为饮酒，多次未能满足在工作、家庭或学校的责任
+尽管有因为饮酒引发的社会或人际关系问题，仍然继续使用酒精
+尽管有因为饮酒引发的社会或人际关系问题，仍然继续使用酒精
+因为饮酒而放弃重要的社会责任、工作或者娱乐活动
+因为饮酒而放弃重要的社会责任、工作或者娱乐活动
+在身体健康受损的情况下仍然饮用酒精
+在身体健康受损的情况下仍然饮用酒精
+尽管酒精会导致身体疾病（如肝脏疾病）或精神障碍（如抑郁症），仍然继续饮酒
+尽管酒精会导致身体疾病（如肝脏疾病）或精神障碍（如抑郁症），仍然继续饮酒
+存在酒精耐受
+存在酒精耐受
+有酒精戒断症状或因戒断而饮酒（戒断性饮酒）
+有酒精戒断症状或因戒断而饮酒（戒断性饮酒）
+当患者为自己的饮酒或明显的与饮酒相关的疾病（如震颤谵妄、肝硬化）寻求医学帮助时，酒相关问题才得以诊断。但多数人在此之前并没有意识到自己的问题。总体而言，女性酒精滥用障碍患者多为单独饮酒，较少引起社会问题。因此，许多政府和专业机构在常规的健康体检时进行饮酒问题筛查。
+一项评估量表（见表饮酒问题的筛查等级）用以筛查需要进一评估的患者，有多种量表可以选择。几个验证详细的调查问卷是可用的，包括AUDIT（酒精使用障碍鉴定测试）和CAGE问卷调查.。
+
+【饮酒问题的筛查等级】
+饮酒问题的筛查等级
+筛查等级
+使用标准
+筛查技术
+仅一个问题符合
+在过去三个月内，你是否曾饮用含酒精的饮品>5杯* ?
+如果时间允许所有饮酒的患者都应询问
+等级1回答“是”的患者
+平均而言，每周有多少天饮酒？
+平均而言，每周有多少天饮酒？
+通常情况下，你会喝多少？
+通常情况下，你会喝多少？
+上个月特定情况下你最多喝了多少？
+上个月特定情况下你最多喝了多少？
+等级2中筛查出有饮酒相关问题（如男性每周大于14次饮酒或每次饮酒4份，女性每周大于77次饮酒或每次饮酒3份）
+临床医生怀疑患者故意缩小饮酒量
+10项问题的酒使用障碍鉴别量表（Alcohol Use Disorders Identification Test， AUDIT）
+*1份酒相当于12盎司啤酒、5盎司葡萄酒或1.5盎司蒸馏酒
+Adapted fromFleming MF: Screening and brief intervention in primary care settings.Alcohol Res Health28(2): 57–62, 2004.
+*1份酒相当于12盎司啤酒、5盎司葡萄酒或1.5盎司蒸馏酒
+Adapted fromFleming MF: Screening and brief intervention in primary care settings.Alcohol Res Health28(2): 57–62, 2004.
+
+【酒精使用障碍的治疗和康复】
+康复计划
+康复计划
+门诊患者咨询
+门诊患者咨询
+自助团体
+自助团体
+考虑用药（如，纳曲酮、戒酒硫、阿坎酸）
+考虑用药（如，纳曲酮、戒酒硫、阿坎酸）
+所有的患者都应就将饮酒量降到低于危险水平而去咨询。
+高危饮酒者在进行简单的医学和社会状况评估后应推荐接受一定的干预（见表饮酒问题的简明干预措施s)以减少饮酒量或停饮。
+
+【饮酒问题的简明干预措施】
+饮酒问题的简明干预措施
+干预级别
+使用标准
+简明干预技巧
+筛查结果显示需要干预但时间有限
+简单告知患者已经饮酒过量，有出现相关问题之虞；建议患者减少饮酒或完全戒酒
+尚无需转诊专科；完全停饮并非必需
+项目有限，结构化医生/护士干预：安排 2 次简短的面对面会议，间隔 1 个月，每次会议后 2 周进行一次电话随访
+患者存在酒滥用和依赖的症状；必须完全停饮
+增加戒酒动机，转诊专科医生
+存在严重问题的患者，特别是一般措施戒酒无效时，推荐使用康复计划。康复计划包括心理治疗（一对一和团体治疗）和躯体情况的监测。数患者门诊康复即可，康复的时间因人而异，通常几周到数月，需要时也可以延长。
+住院康复计划用于严重的酒依赖患者以及伴有躯体疾病或其他精神活性物质依赖的患者。与门诊患者相比，治疗时间通常比较短（2周左右），并且根据患者的医保情况。
+心理治疗包括激发戒酒的动机以及教会患者怎样避免受环境的影响而沉迷于饮酒。戒酒的社会支持，包括家庭和亲友的支持也非常重要。
+
+【维持治疗】
+维持戒酒状态很困难。几周后患者必须接受警告，否则当他从最后一次戒断状态中恢复过来，很可能找借口再次饮酒。必须告诫患者需要控制自己几天内或几周内不能饮酒，但通常患者最终仍然会失去自控开始饮酒。
+除了为门诊患者提供咨询，为住院患者提供戒酒计划，对某些患者而言自我帮助的团体和某些药物有助于预防复发。
+匿名戒酒会（AA）会让戒酒者受益匪浅。戒酒者必须找到一个让自己感到自在舒服的AA团体。AA为戒酒者提供可信赖的支持者和一个无酒精的环境。当戒酒者入会的时候还会听到其他成员的坦白和忏悔。他们对其他酒精使用障碍患者的帮助可能会给他们带来自尊和自信，而这些以前只有在喝酒后才有。不同于其他国家，在美国，AA还包括大批非自愿的会员，他们通常是法院或政府强制的。替代组织，如LifeRing Secular Recovery（追求清醒的世俗组织），收容寻求其他方法的患者。
+药物治疗必须与心理治疗相结合，而不作为单一的治疗方法。National Institute on Alcohol Abuse and Alcoholism（NIAAA）在医疗管理和药物治疗酒精向卫生保健工作者和患者提供指南guide for clinicians与其他American Psychiatric Association—一些出版物和资源。
+戒酒硫,是第一个用来预防酒依赖复发的药物，它可以干扰乙醛酶（酒精氧化过程的一种中间产物）的代谢，使乙醛积聚。 饮酒12小时内服用戒酒硫可以引起面部发红，5～15分钟起效，继而面部和颈部血管强烈扩张、球结膜充血、头部跳痛、心动过速、过度换气和大量出汗。大量饮酒30～60分钟后还可能引起恶心呕吐并导致血压升高、眩晕，有时甚至发生晕厥和虚脱。 这些反应可持续近3小时。少数病人会因为戒酒硫引起的不适反应而冒险饮酒。也必须避免使用含有酒精的药物（如酊剂、灵丹妙药、一些非处方（OTC）液体咳嗽和感冒制剂，酒精含量高达40%）。
+禁忌证为怀孕和心肺功能不全。门诊病人停止饮酒4～5天后给予基础剂量：0.5g口服，每天1次，持续1～3周。维持剂量为0.25g，口服，每天1次。最后一剂药效可维持3～7天。在戒酒过程中，定期身体检查也是加强用药所必需的。
+戒酒硫的实际疗效目前还没有确立，一些患者依从性较差。提高依从性的方法是加强社会支持，如加强饮酒的监管。因此，戒酒硫的使用现在受到限制。对于那些高动机有严密监管的患者戒酒硫疗效较好。
+纳曲酮,一种阿片类拮抗剂可以降低多数长期饮酒者的复饮率和饮酒天数。 尽管有证据表明高剂量（例如，100毫克，一次/天）可以在一些患者中更有效，纳曲酮的常规剂量为50mg口服一次/天。口服纳曲酮的依从率是理想的。 长效剂型：380mg 次/月，肌注。急性肝炎、肝功能衰竭以及阿片依赖是纳曲酮的禁忌证。
+可乐定，最古老的 alpha-2-激动剂，口服或经皮给药已证明成功地减轻了轻度至中度戒酒患者的酒精戒断症状，尤其是高血压和心动过速。然而，有证据表明可乐定作为单一疗法可有效预防酒精戒断性癫痫发作或酒精戒断性谵妄。
+阿坎酸,gamma-氨基丁酸的合成类似物，口服剂量2g一次/天。阿坎酸可以降低复发患者的复发率和饮酒天数。
+纳美芬（一种阿片类拮抗剂）以及托吡酯对于抑制饮酒渴求的作用正在研究中。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Al-Anon Family Groups: Support services for the family members and friends of people whose use of alcohol is problematic.
+Al-Anon Family Groups: Support services for the family members and friends of people whose use of alcohol is problematic.
+Alcoholics Anonymous: International fellowship of people with a drinking problem that pioneered the 12-step approach to help its members overcome their addiction to alcohol and help others to do the same.
+Alcoholics Anonymous: International fellowship of people with a drinking problem that pioneered the 12-step approach to help its members overcome their addiction to alcohol and help others to do the same.
+American Psychiatric Association's Practice Guideline for the Pharmacological Treatment of Patients With Alcohol Use Disorder: Guidelines designed to improve the quality of care and treatment outcomes for patients with alcohol use disorder.
+American Psychiatric Association's Practice Guideline for the Pharmacological Treatment of Patients With Alcohol Use Disorder: Guidelines designed to improve the quality of care and treatment outcomes for patients with alcohol use disorder.
+LifeRing Secular Recovery: Support for people with drug and alcohol use problems by facilitating sharing of practical experiences and sobriety support as an alternative to traditional 12-step programs.
+LifeRing Secular Recovery: Support for people with drug and alcohol use problems by facilitating sharing of practical experiences and sobriety support as an alternative to traditional 12-step programs.
+National Institutes for Alcohol Abuse and Recovery: Recommendations for screening and brief intervention for alcohol use disorders in the primary care setting.
+National Institutes for Alcohol Abuse and Recovery: Recommendations for screening and brief intervention for alcohol use disorders in the primary care setting.
+Findtreatment.gov: Listing of licensed US providers of treatment for substance use disorders.
+Findtreatment.gov: Listing of licensed US providers of treatment for substance use disorders.

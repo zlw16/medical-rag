@@ -1,0 +1,79 @@
+标题：Lamin A/C 心肌病（心肌层病变）
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/lamin-a-c-cardiomyopathies-cardiolaminopathies
+============================================================
+
+(参见致心律失常性心肌病概述和心律失常概述。）
+核纤层蛋白 A和核纤层蛋白 C是细胞核内的结构性丝状蛋白，由基因LMNA编码。该基因的突变产生了一组被称为核纤层蛋白病的疾病。许多核纤层蛋白病会导致严重的、通常是扩张型心肌病，其特点是病情迅速发展、房性快速性心律失常、房室（AV）传导阻滞、室性快速性心律失常和猝死。Lamin A/C心肌病约占遗传性扩张型心肌病的 5% 到 10%(1)。
+大多数心脏核纤层蛋白病呈常染色体显性遗传模式，且外显率高。因此，患者的家庭成员往往也会患病。
+一些核纤层蛋白A基因（LMNA）突变与其他疾病有关，包括某些肌肉营养不良症（例如，埃默里-德赖富斯肌营养不良）、周围神经病变、早衰和代谢异常（例如，胰岛素抵抗、高甘油三酯血症、脂肪营养不良）。
+
+【参考文献】
+1.Rosario KF, Karra R, Amos K, et al: LMNA Cardiomyopathy: Important Considerations for the Heart Failure Clinician.J Card Fail29(12):1657–1666, 2023.doi:10.1016/j.cardfail.2023.08.016
+1.Rosario KF, Karra R, Amos K, et al: LMNA Cardiomyopathy: Important Considerations for the Heart Failure Clinician.J Card Fail29(12):1657–1666, 2023.doi:10.1016/j.cardfail.2023.08.016
+
+【核纤层蛋白A/C 心肌病的症状和体征】
+患者通常首先表现为心脏传导阻滞和/或心律失常症状，包括心悸、晕厥或心脏骤停。
+发病年龄通常<40岁心力衰竭的表现（例如，劳力性呼吸困难、疲劳、外周水肿）通常在后期出现，但出现的时间不确定。
+相当多的患者也有骨骼肌症状（例如虚弱），这甚至可能先于心脏表现。
+
+【核层蛋白A/C心肌病的诊断】
+心脏成像（如超声心动图、心脏MRI）
+心脏成像（如超声心动图、心脏MRI）
+基因检测
+基因检测
+一级亲属的筛查
+一级亲属的筛查
+如果年轻患者出现心悸、晕厥或不明原因的心脏骤停后复苏，则应怀疑该诊断，尤其是当他们还患有早发性传导系统疾病、室上性或室性心律失常、骨骼肌无力、周围神经病变和/或有心律失常和/或心力衰竭家族史时。
+患者应进行心电图、动态心律监测和心脏成像，通常为超声心动图和/或心脏MRI。
+如果检测到传导障碍、快速性心律失常和/或心肌病，则需进行基因检测。在特发性扩张型心肌病患者的普通人群中，基因检测的结果从5%上升到10%，在AV传导障碍和有心肌病家族史的患者中，基因测试的结果约为三分之一 (1)。
+如上所述，患者的一级亲属患病风险较大。因此他们最开始应该进行临床评估（即检测心律失常、肌肉无力和/或心力衰竭的症状）、心电图、动态心电图监测和超声心动图检查，之后每 1 至 3 年进行一次。如果指示病例发现突变，则进行基因检测。非该突变携带者的家庭成员不需要进行持续的检测。
+
+【诊断参考文献】
+1.van Tintelen JP, Hofstra RM, Katerberg H, et al: High yield of LMNA mutations in patients with dilated cardiomyopathy and/or conduction disease referred to cardiogenetics outpatient clinics.Am Heart J154(6):1130–1139, 2007.doi:10.1016/j.ahj.2007.07.038
+1.van Tintelen JP, Hofstra RM, Katerberg H, et al: High yield of LMNA mutations in patients with dilated cardiomyopathy and/or conduction disease referred to cardiogenetics outpatient clinics.Am Heart J154(6):1130–1139, 2007.doi:10.1016/j.ahj.2007.07.038
+
+【核层蛋白A/C心肌病的治疗】
+适度的体力活动
+适度的体力活动
+通常是植入式心律转复除颤器 (ICD)
+通常是植入式心律转复除颤器 (ICD)
+有时抗心律失常药物治疗
+有时抗心律失常药物治疗
+必要时进行心力衰竭治疗（包括移植）
+必要时进行心力衰竭治疗（包括移植）
+治疗重点是预防猝死和症状性室性快速性心律失常。
+患者应避免运动，因为这些活动可能会加速心肌病的进展，并可能导致危及生命的心律失常。
+首次发生危及生命的心律失常的 5 年风险约为 4% 至 50%，具体取决于性别、非错义LMNA突变、房室传导阻滞（一度或更高程度）、非持续性室性心动过速和左心室射血分数。对于尚未出现危及生命的心律失常的患者，可以使用在线风险计算器（1）。
+由于猝死的风险很高，核纤层蛋白A/C心肌病患者通常在病程中比其他扩张型心肌病患者更早植入植入式心律转复除颤器（见表植入式心律转复除颤器的适应症）。目前已确定的 ICD 使用指征包括以下患者（2）
+扩张型心肌病加左心室射血分数<35％
+扩张型心肌病加左心室射血分数<35％
+持续性室性心动过速或心室颤动
+持续性室性心动过速或心室颤动
+心脏骤停复苏
+心脏骤停复苏
+对于患有层蛋白 A/C 型心肌病且患有以下情况的患者，放置 ICD 也可能有帮助（IIa 类建议）：（2）
+不明原因的晕厥
+不明原因的晕厥
+独立永久性起搏器的指征
+独立永久性起搏器的指征
+≥2 个其他猝死风险因素（左心室射血分数介于 35% 至 44% 之间、男性、非持续性室性心动过速）
+≥2 个其他猝死风险因素（左心室射血分数介于 35% 至 44% 之间、男性、非持续性室性心动过速）
+大多数患者应使用β受体阻滞剂，但可能会增加房室传导阻滞的可能性。
+使用III类药物，特别是索他洛尔或胺碘酮进行抗心律失常药物治疗，可以减少症状性室性快速心律失常，但不能替代植入式心律转复除颤器。然而，尽管有足够的β受体阻滞剂治疗，这些药物可能会使那些频繁出现植入式心律转复除颤器适当放电的患者获益。
+根据需要使用扩张型心肌病的治疗措施。
+
+【治疗参考文献】
+1.Wahbi K, Ben Yaou R, Gandjbakhch E, et al: Development and Validation of a New Risk Prediction Score for Life-Threatening Ventricular Tachyarrhythmias in Laminopathies.Circulation140(4):293–302, 2019.doi:10.1161/CIRCULATIONAHA.118.039410
+1.Wahbi K, Ben Yaou R, Gandjbakhch E, et al: Development and Validation of a New Risk Prediction Score for Life-Threatening Ventricular Tachyarrhythmias in Laminopathies.Circulation140(4):293–302, 2019.doi:10.1161/CIRCULATIONAHA.118.039410
+2.Towbin, JA, McKenna WJ, Abrams DJ, et al: 2019 HRS expert consensus statement on evaluation, risk stratification, and management of arrhythmogenic cardiomyopathy.Heart Rhythm16:e301–e372, 2019.doi: 10.1016/j.hrthm.2019.05.007
+2.Towbin, JA, McKenna WJ, Abrams DJ, et al: 2019 HRS expert consensus statement on evaluation, risk stratification, and management of arrhythmogenic cardiomyopathy.Heart Rhythm16:e301–e372, 2019.doi: 10.1016/j.hrthm.2019.05.007
+Lamin A/C心肌病是一种遗传性疾病，会导致快速心律失常、心脏传导阻滞和心力衰竭。
+Lamin A/C心肌病是一种遗传性疾病，会导致快速心律失常、心脏传导阻滞和心力衰竭。
+部分基因突变也会影响骨骼肌。
+部分基因突变也会影响骨骼肌。
+基于临床表现和心电图因素、心脏成像和基因检测进行诊断。
+基于临床表现和心电图因素、心脏成像和基因检测进行诊断。
+一级家庭成员有很大的患病风险，需要进行筛查。
+一级家庭成员有很大的患病风险，需要进行筛查。
+治疗通常需要植入式心律转复除颤器和β受体阻滞剂。
+治疗通常需要植入式心律转复除颤器和β受体阻滞剂。

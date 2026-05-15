@@ -1,0 +1,71 @@
+标题：旅行者腹泻
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/gastroenteritis/traveler-s-diarrhea
+============================================================
+
+
+【旅行者腹泻的病因】
+旅行者腹泻在两周内影响30%至70%的旅行者，具体取决于地点和季节。它可能由多种细菌、病毒或较少见的寄生虫引起（1）。
+旅行者腹泻最常见病因是
+产肠毒素性Escherichia coli（大肠杆菌） (E. coli（大肠杆菌）)
+产肠毒素性Escherichia coli（大肠杆菌） (E. coli（大肠杆菌）)
+E. coli（大肠杆菌）常见于缺乏充分净化处理的地区供水系统中。感染在前往低资源国家的人群中很常见。Campylobacter jejuni（空肠弯曲菌）、Shigella（志贺菌）、Salmonella（沙门菌）以及肠聚集性E. coli（大肠杆菌）也是常见病因(1)。
+诺如病毒感染性胃肠炎是游轮旅行的突出卫生问题 (2)。
+食物和水均是感染源。旅行者虽可不饮用当地的水，但刷牙时使用清洗不当的牙刷、饮用瓶装饮料时加入当地水制成的冰块、或食物处理不当或用当地水冲洗食物时，仍可能被感染。服用抑胃酸药物者（如，抗酸剂、H2受体阻滞剂和质子泵抑制剂）罹患严重疾病的风险高。
+
+【病因参考文献】
+1.Connor B. Traveler's diarrhea. InCDC Yellow Book 2024: Health Information for International Travel.Retrieved from Travelers’ Diarrhea | CDC Yellow Book 2024.Accessed March 31, 2025.
+1.Connor B. Traveler's diarrhea. InCDC Yellow Book 2024: Health Information for International Travel.Retrieved from Travelers’ Diarrhea | CDC Yellow Book 2024.Accessed March 31, 2025.
+2.Crisp CA, Jenkins KA, Dunn I, et al.Notes from the Field: Cruise Ship Norovirus Outbreak Associated with Person-to-Person Transmission - United States Jurisdiction, January 2023.MMWR Morb Mortal Wkly Rep2023;72(30):833-834.doi:10.15585/mmwr.mm7230a5
+2.Crisp CA, Jenkins KA, Dunn I, et al.Notes from the Field: Cruise Ship Norovirus Outbreak Associated with Person-to-Person Transmission - United States Jurisdiction, January 2023.MMWR Morb Mortal Wkly Rep2023;72(30):833-834.doi:10.15585/mmwr.mm7230a5
+
+【旅行者腹泻的症状和体征】
+摄入污染食物或水后 12～72 小时，出现恶心、呕吐、肠鸣音亢进、腹部痉挛及腹泻。病情轻重不等。部分患者出现发热及肌痛。 腹泻很少带血。
+大多数病例症状轻微且具有自限性，但在炎热气候下可能出现脱水现象。
+
+【旅行者腹泻的诊断】
+临床评估
+临床评估
+无需特异诊断性检查。但发热、严重腹痛和血便提示更严重疾病，需立即进行评估。
+
+【旅行者腹泻的治疗】
+有时使用止泻（抗蠕动）药物
+有时使用止泻（抗蠕动）药物
+中重度腹泻用抗生素（如环丙沙星、阿奇霉素）
+中重度腹泻用抗生素（如环丙沙星、阿奇霉素）
+治疗旅行者腹泻的主要手段是补液和止泻药物，如洛哌丁胺。12 岁以下儿童的洛哌丁胺剂量根据体重而定。成人的替代品是二苯氧基酯/阿托品。
+止泻药物不应用于疑似C. difficile（艰难梭菌）或E. coli（大肠杆菌）O157:H7感染的成人（例如，近期使用过抗生素、出现血性腹泻、粪便潜血阳性或伴有发热的腹泻），也不应用于儿童，尤其是<2岁的儿童。不应使用碘氯羟喹，因为它可能会造成神经损伤。
+
+【经验与提示】
+经验与提示
+对于发热或血便患者以及< 2岁的儿童，禁用止泻（抑制胃肠动力）药物。
+对于发热或血便患者以及< 2岁的儿童，禁用止泻（抑制胃肠动力）药物。
+一般而言，轻度腹泻患者不必使用抗生素。然而，对于中度至重度腹泻（8小时内排稀便≥3次）的患者，特别是伴有呕吐、腹部绞痛、发热或血便时，需使用抗生素。对于成人，推荐的口服抗生素包括环丙沙星或左氧氟沙星，尽管在某些地区，特别是Campylobacter（弯曲杆菌）感染中，氟喹诺酮类药物的耐药性持续增加。替代品包括阿奇霉素或利福昔明。对于孕妇和儿童，阿奇霉素是首选药物（1）。
+
+【治疗参考文献】
+1.Riddle MS, Connor BA, Beeching NJ, et al.Guidelines for the prevention and treatment of travelers' diarrhea: a graded expert panel report.J Travel Med.2017;24(suppl_1):S57-S74.doi:10.1093/jtm/tax026
+1.Riddle MS, Connor BA, Beeching NJ, et al.Guidelines for the prevention and treatment of travelers' diarrhea: a graded expert panel report.J Travel Med.2017;24(suppl_1):S57-S74.doi:10.1093/jtm/tax026
+
+【旅行者腹泻的预防】
+旅行者应选择信誉良好的餐厅就餐，避免食用街头摊贩的食品和饮料。他们应只食用仍热气腾腾的熟食、可去皮的水果以及不加冰的密封瓶装碳酸饮料（不法商贩可能在非碳酸饮料瓶中掺入自来水）；应避免食用未煮熟的蔬菜（特别是包括留在桌上的沙拉酱）。自助餐和快餐店感染危险性高。用自来水清洗食物可能导致污染。
+部分患者若存在基础疾病，使其特别容易受到旅行者腹泻后果的影响，则可能需要采取预防措施。这包括免疫功能低下的患者（如炎症性肠病或HIV感染患者）、器官移植接受者以及患有严重心血管疾病或肾脏疾病的患者。不可吸收的抗生素利福昔明可用于这些患者的预防。由于氟喹诺酮类药物具有不良反应，包括肌腱断裂和周围神经病变，因此不建议用于预防。一些旅行者可能会考虑使用非抗生素次水杨酸铋作为预防的替代方法 (1)。
+
+【预防参考文献】
+1.Riddle MS, Connor BA, Beeching NJ, et al.Guidelines for the prevention and treatment of travelers' diarrhea: a graded expert panel report.J Travel Med.2017;24(suppl_1):S57-S74.doi:10.1093/jtm/tax026
+1.Riddle MS, Connor BA, Beeching NJ, et al.Guidelines for the prevention and treatment of travelers' diarrhea: a graded expert panel report.J Travel Med.2017;24(suppl_1):S57-S74.doi:10.1093/jtm/tax026
+旅行者腹泻通常由产肠毒素性大肠埃希菌引起，但病毒、寄生虫和其他细菌也可能致病。
+旅行者腹泻通常由产肠毒素性大肠埃希菌引起，但病毒、寄生虫和其他细菌也可能致病。
+诊断是临床的，除非出现血性腹泻、发烧或腹痛，否则通常不需要检测。
+诊断是临床的，除非出现血性腹泻、发烧或腹痛，否则通常不需要检测。
+治疗包括补液，通常使用止泻（抑制肠蠕动）药物，如洛哌丁胺；然而，对于发热或血便患者以及年龄<2岁的儿童，禁用止泻药物。
+治疗包括补液，通常使用止泻（抑制肠蠕动）药物，如洛哌丁胺；然而，对于发热或血便患者以及年龄<2岁的儿童，禁用止泻药物。
+旅行者腹泻更严重的患者接受抗生素治疗——成人使用氟喹诺酮，儿童使用阿奇霉素。
+旅行者腹泻更严重的患者接受抗生素治疗——成人使用氟喹诺酮，儿童使用阿奇霉素。
+预防是最好的措施，需要仔细选择食物和饮料；除免疫功能低下的患者外，不常规使用预防性抗生素。
+预防是最好的措施，需要仔细选择食物和饮料；除免疫功能低下的患者外，不常规使用预防性抗生素。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Centers for Disease Control and Prevention:Preparing international travelers for travelers’ diarrhea
+Centers for Disease Control and Prevention:Preparing international travelers for travelers’ diarrhea
+Expert panel:Guidelines for the prevention and treatment of travelers' diarrhea(2017)
+Expert panel:Guidelines for the prevention and treatment of travelers' diarrhea(2017)

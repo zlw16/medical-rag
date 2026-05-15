@@ -1,0 +1,241 @@
+标题：链球菌感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-positive-cocci/streptococcal-infections
+============================================================
+
+（另见肺炎球菌感染、风湿热、扁桃体咽炎、感染后肾小球肾炎及中毒性休克综合征。）
+
+【链球菌分类】
+三种不同类型链球菌首先可以通过在绵羊血平板上生长后形态不同而鉴别：
+beta-溶血性链球菌在每个菌落周围形成一个清晰的溶血环。
+beta-溶血性链球菌在每个菌落周围形成一个清晰的溶血环。
+alpha溶血性链球菌（俗称草绿色链球菌）因不完全溶血菌落周围环绕绿色。
+alpha溶血性链球菌（俗称草绿色链球菌）因不完全溶血菌落周围环绕绿色。
+gamma溶血性链球菌为非溶血性的。
+gamma溶血性链球菌为非溶血性的。
+进一步的分类基于细胞壁中的碳水化合物，将链球菌分为20个兰菲尔德组，从A到H以及K到V（参见表兰斯菲尔德分类）。在Lancefield分型法中，肠球菌最初归为D组链球菌，但现在尽管它们表达Lancefield D组抗原，仍被归为一个独立的菌属。Lancefield K 至 V 组是毒力有限的链球菌，可导致免疫功能低下的人感染。
+草绿色链球菌形成一个单独的群体，被认为难以分类。一些链球菌，例如肺炎链球菌是α-溶血性的，即它们是一种草绿色链球菌，但不表达兰斯菲尔德抗原。
+
+【Lancefield 分类*】
+Lancefield 分类*
+兰斯菲尔德群
+相关疾病
+Streptococcus pyogenes
+beta
+咽炎，扁桃体炎，创面和皮肤感染，败血症，猩红热，肺炎，风湿热，肾小球肾炎、心内膜炎(罕见)
+红霉素、克林霉素（美国耐药性增加）
+坏死性筋膜炎
+迅速外科处理
+β-内酰胺类抗生素（通常是广谱的，除非病原学明确；如果明确为GABHS，可以使用青霉素或头孢唑林）加上克林霉素
+S. agalactiae
+脓毒症，产后或新生儿脓毒症，脑膜炎，皮肤感染，感染性心内膜炎，化脓性关节炎，尿路感染。
+青霉素或氨苄西林；头孢菌素；万古霉素
+S. equi,S. equimilis,S. zooepidemicus,S. canis
+咽炎，肺炎，蜂窝织炎，脓疱病，丹毒，脓疱疮，创面感染，产褥脓毒症，新生儿脓毒症，感染性心内膜炎，化脓性关节炎
+人类感染C组意味着人畜共患
+青霉素，万古霉素，头孢菌素，大环内酯类（敏感性不一）
+肠球菌：†Enterococcus faecalis（粪肠球菌）、E. faecium（屎肠球菌）
+非肠球菌：S. gallolyticus（溶胆链球菌）、S. equinus（马肠链球菌）
+alpha或gamma
+感染性心内膜炎，尿路感染，腹腔感染，创面感染以及合并的菌血症
+青霉素、氨苄西林、万古霉素（严重感染加用一种氨基糖苷类抗生素）
+耐万古霉素肠球菌：恶唑烷酮类（利奈唑胺）、脂肽类（达托霉素）
+S. gallolyticus（以前称为S. bovis生物型I）
+结肠腺瘤或癌、心内膜炎
+草绿色链球菌‡
+S. mutans（变形链球菌）、S. sanguis（血链球菌）、S. salivarius（唾液链球菌）、S. mitis（轻型链球菌）、S. anginosus（咽峡链球菌）、S. constellatus（星座链球菌）、S. intermedius（中间链球菌）
+alpha或gamma
+心内膜炎，菌血症，脑膜炎，局部感染，脓肿（特别是 S. milleriS. anginosus)
+青霉素、氨苄西林、万古霉素（严重感染加用一种氨基糖苷类抗生素），根据体外药敏试验选用其他抗生素
+S. suis
+脑膜炎，有时为中毒休克综合征
+S. iniae
+鱼类引起的蜂窝织炎和侵袭性感染
+* 该表仅包括 20 个 Lancefield 组中最具有临床相关性的组。
+†在Lancefield分型法中，肠球菌最初归为D组链球菌，但现在尽管它们表达Lancefield D组抗原，仍被归为一个独立的菌属。
+‡ 不符合特定的 Lancefield血清群。
+GABHS=A组beta-溶血性链球菌。
+* 该表仅包括 20 个 Lancefield 组中最具有临床相关性的组。
+†在Lancefield分型法中，肠球菌最初归为D组链球菌，但现在尽管它们表达Lancefield D组抗原，仍被归为一个独立的菌属。
+‡ 不符合特定的 Lancefield血清群。
+GABHS=A组beta-溶血性链球菌。
+
+【毒力因子】
+多种链球菌合成毒力因子，包括链球菌毒素、DNA酶和透明质酸酶，有助于破坏组织使感染扩散。一些菌株释放外毒素，激活某些T细胞，触发细胞因子的释放，包括肿瘤坏死因子α、白细胞介素和其他免疫调节剂。这些细胞因子激活补体、凝血和纤维蛋白溶解系统，导致休克、器官衰竭和死亡。
+
+【链球菌性疾病】
+最常见的致病性链球菌是S. pyogenes化脓性链球菌，它是beta-溶血链球菌，属于Lancefield分型A组，因而属于A组beta-溶血性链球菌（GABHS）。
+由由GABHS引起的最常见的急性感染是:
+皮肤与软组织感染
+皮肤与软组织感染
+此外，感染后≥2周可能出现迟发性非化脓性并发症（风湿热和急性肾小球肾炎）。
+GABHS可能从受累组织扩散，沿着淋巴回流通路（导致淋巴管炎）到达区域淋巴结（导致淋巴结炎）。GABHS也可引起局部化脓性并发症，例如扁桃体周围脓肿、中耳炎、鼻窦炎和菌血症。是否化脓取决于感染的严重程度和组织的易感性。
+GABHS引起的严重感染还包括脓毒症，产褥期脓毒症，感染性心内膜炎，肺炎和脓胸。
+其他链球菌种属引起的疾病较少见，通常包括软组织感染和感染性心内膜炎（ 见表Lancefield 分类)。 一些非GABHS感染主要发生于特定人群（例如，B组链球菌感染发生于新生儿和产后妇女）。
+
+【链球菌性咽炎】
+GABHS 是急性细菌性咽炎的最常见原因。其他细菌原因包括 C 组和 G 组链球菌和坏死梭杆菌。大多数GABHS咽炎患者是3岁至14岁的儿童，他们表现为急性发作的喉咙痛、发烧、咽鼓红和化脓性扁桃体分泌物。GABHS 咽炎在 3 岁以下儿童中很少见。
+颈部和颌下淋巴结可能肿大并变得触痛。链球菌性咽炎可导致扁桃体周围脓肿。 咳嗽、喉炎和鼻塞不是咽部链球菌感染的特征；这些症状的出现提示其他原因（通常是病毒性或过敏性）。
+人类是A组链球菌的主要宿主，这种链球菌通过感染者的唾液或鼻腔分泌物在人与人之间传播。无症状携带状态可能存在于多达20%的人群中，尤其在冬春季节的学龄儿童中（1）。
+在这张图中，咽部红斑，扁桃体有脓性渗出液。
+猩红热（有时称为猩红热症）是一种主要发生于儿童的疾病，通常继发于咽部链球菌感染；较少情况下，它继发于其他部位（如皮肤）的链球菌感染。猩红热在人与人之间密切接触的环境中（例如，在学校或日托中心）更容易传播。
+猩红热是由产生红疹毒素的A群链球菌菌株引起的，导致弥漫性粉红色皮肤潮红，通常在施加压力时会消退。皮疹以腹部和胸背部为显著，可见皮肤皱褶处暗红色线条（Pastia线）或者口周皮肤苍白。皮疹由典型的非常小（1~2mm）的丘疹性突起组成，皮肤可能出现砂纸样改变。先前变红的皮肤在热退后可出现剥脱。皮疹持续2～5天。猩红热在年龄>5岁的儿童中更常见，这些儿童出现咽痛症状，但链球菌感染的诊断被延误（2）。
+猩红热不像过去那么常见，但近年来在美国、欧洲和中国发生了一些重大疫情。例如，英格兰猩红热病例持续增加，发病率达到近50年来最高水平。发病率上升的潜在原因包括大环内酯类抗生素耐药性、群体免疫力减弱、环境因素以及缺乏针对致病菌（A组链球菌）的疫苗。一个多世纪前，猩红热被认为是一种可能致命的疾病。然而，早在抗生素问世之前，它的死亡率和发病率就有所下降。自抗生素治疗问世以来，经治疗的猩红热死亡率已降至 <1%（3）。
+为了解决部分问题，A组链球菌疫苗全球联盟 (SAVAC) 与世界卫生组织合作，支持开发和提供安全有效的疫苗，以针对引发猩红热和风湿热的链球菌变种（4）。
+典型的猩红热皮疹为首先出现在胸腹部的小红丘疹。然后丘疹可遍布全身。皮疹类似晒伤，感觉就像是粗糙的砂纸，并持续约2〜5天。
+也可出现草莓舌（在鲜红舌苔上有发炎的舌乳头突出），这需要与中毒休克综合征和川崎病相鉴别。
+这个舌头是红斑的，有明显的乳头状突起。
+其他症状与链球菌性咽喉炎相似，猩红热病程和处理与其他A组链球菌感染相似。
+
+【皮肤链球菌感染】
+皮肤感染包括:
+蜂窝组织炎
+蜂窝组织炎
+脓疱病是一种浅表性皮肤感染，可引起结痂或大疱。
+在脓疱病中，成簇的囊泡或大疱性病变形成、破裂并形成蜜色的痂皮。
+丹毒是一种浅表性的蜂窝织炎，也可累及淋巴管。患者表现为有光泽的红色皮损（深色皮肤者呈紫红色），皮损隆起、质地坚硬，且边界清晰。 最常由GABHS引起，但其他链球菌和非链球菌病原体也可引起。
+丹毒的特征是出现红斑、隆起、硬化且触痛的斑片状或斑块状皮损，边缘清晰。
+CID/SCIENCE PHOTO LIBRARY
+蜂窝织炎累及皮肤深层，可能快速扩展，原因与大量溶解酶和主要由A组链球菌产生的毒素有关。蜂窝织炎通常表现为红斑，有时伴有清晰的分界线。常存在皮温升高和压痛。
+图示局灶性红斑和肿胀，通常伴有发热和压痛，是局灶性蜂窝织炎的特征。请注意，临床医生已用笔标记蜂窝织炎的边界，以方便识别扩散或消退。
+图示局灶性红斑和肿胀，通常伴有发热和压痛，是局灶性蜂窝织炎的特征。请注意，临床医生已用笔标记蜂窝织炎的边界，以方便识别扩散或消退。
+© Springer Science+Business Media
+这张照片显示局部发红和小腿肿胀，通常伴有皮温升高和触痛，这是局灶性蜂窝组织炎的特征。临床医生用笔标记蜂窝织炎的边界，以方便识别扩散或消退。注意由于淋巴管炎延伸到大腿的发红线。
+这张照片显示局部发红和小腿肿胀，通常伴有皮温升高和触痛，这是局灶性蜂窝组织炎的特征。临床医生用笔标记蜂窝织炎的边界，以方便识别扩散或消退。注意由于淋巴管炎延伸到大腿的发红线。
+© Springer Science+Business Media
+© Springer Science+Business Media
+图示局灶性红斑和肿胀，通常伴有发热和压痛，是局灶性蜂窝织炎的特征。请注意，临床医生已用笔标记蜂窝织炎的边界，以方便识别扩散或消退。
+图示局灶性红斑和肿胀，通常伴有发热和压痛，是局灶性蜂窝织炎的特征。请注意，临床医生已用笔标记蜂窝织炎的边界，以方便识别扩散或消退。
+© Springer Science+Business Media
+这张照片显示局部发红和小腿肿胀，通常伴有皮温升高和触痛，这是局灶性蜂窝组织炎的特征。临床医生用笔标记蜂窝织炎的边界，以方便识别扩散或消退。注意由于淋巴管炎延伸到大腿的发红线。
+这张照片显示局部发红和小腿肿胀，通常伴有皮温升高和触痛，这是局灶性蜂窝组织炎的特征。临床医生用笔标记蜂窝织炎的边界，以方便识别扩散或消退。注意由于淋巴管炎延伸到大腿的发红线。
+© Springer Science+Business Media
+© Springer Science+Business Media
+
+【坏死性筋膜炎】
+单微生物性（2型）坏死性筋膜炎是由化脓性链球菌引起的严重的皮肤（有时累及肌肉）感染，沿筋膜平面蔓延（5）。感染通过皮肤或肠道途径进入。
+当感染源来自肠道时（例如，肠道手术后、肠穿孔、憩室炎或阑尾炎），很可能发生多微生物（1型）坏死性筋膜炎（5）。多微生物坏死性筋膜炎以前被称为链球菌坏疽，食肉菌感染，可能涉及多种需氧菌群和厌氧菌群，包括产气荚膜梭菌。
+坏死性筋膜炎在使用注射药物的人群中很常见。
+坏死性筋膜炎初始症状为发热和与体格检查不一致的精确的局部疼痛；随时间推移疼痛迅速加剧，常为首发（有时为唯一表现）症状。可以出现弥漫或局部红斑。微血管栓塞引起缺血性坏死，导致感染快速播散和不成比例的严重中毒。在某些患者中，邻近的肌肉会受到侵袭。常出现休克和肾功能不全。即使经过治疗，病死率仍然相当高。
+这张照片显示了链球菌（A组）感染引起的腰背部皮下脂肪和肌肉的广泛坏死，感染危及生命。
+
+【链球菌性中毒性休克综合征】
+链球菌性中毒性休克综合征与金黄色葡萄球菌S. aureus所致者相似，可能由产毒的GABHS菌株引起，偶可由其他链球菌引起。
+
+【链球菌感染迟发性并发症】
+特定GABHS菌株引起迟发性并发症的机制尚不明确，但是可能包括了抗链球菌抗体与宿主组织的交叉反应。
+风湿热,是一种炎症性疾病，约3%的患者在未经治疗的GABHS（渗出性）咽炎后数周内发病(6)。在使用抗生素治疗链球菌感染的地区，这种情况不太常见，但在抗生素使用不广泛的地区，发病率仍然很高。
+首次发作的诊断基于关节炎、心脏炎、舞蹈病、特定皮肤表现和实验室检查结果的结合（琼斯标准 - 见表急性风湿热首发的修改琼斯标准）。
+治疗GABHS咽炎（链球菌性喉炎）最重要的原因之一是预防风湿热。
+链球菌感染后急性肾小球肾炎（PSGN）是一种由特定有限数量的肾小球肾炎致病性乙型链球菌（GABHS）菌株（如M蛋白血清型12和49）引起的咽炎或皮肤感染后出现的急性肾炎综合征。喉咙或皮肤感染这些菌株后，约有 5% 至 25% 的患者会发展为急性肾小球肾炎（7）。儿童最常见，在感染1到3周后出现。 几乎所有儿童和相对较少的成人可以康复而不遗留永久性肾脏损害。 针对GABHS的抗生素治疗对于肾小球肾炎病情进展影响甚小（8）。
+熊猫综合征（链球菌感染相关的小儿自身免疫性神经精神疾病）指一类儿童强迫症或儿童抽动障碍，即小儿急性发作性神经精神综合征（PANS），曾被认为会因A组β溶血性链球菌感染而加重；但该关联性尚缺乏定论，需待更多高质量数据支持（9，10）。重要的是，对于PANDAS或PANS的长期抗生素治疗或预防，尚未显示出对症状发生或缓解有显著效果。
+一些形式的银屑病（如滴状银屑病）也可能与beta-溶血链球菌感染有关。
+
+【链球菌引起的疾病参考文献】
+1.Shulman ST, Bisno AL, Clegg HW, et al.Clinical practice guideline for the diagnosis and management of group A streptococcal pharyngitis: 2012 update by the Infectious Diseases Society of America [published correction appears inClin Infect Dis. 2014 May;58(10):1496. Dosage error in article text].Clin Infect Dis.2012;55(10):e86-e102.doi:10.1093/cid/cis629
+1.Shulman ST, Bisno AL, Clegg HW, et al.Clinical practice guideline for the diagnosis and management of group A streptococcal pharyngitis: 2012 update by the Infectious Diseases Society of America [published correction appears inClin Infect Dis. 2014 May;58(10):1496. Dosage error in article text].Clin Infect Dis.2012;55(10):e86-e102.doi:10.1093/cid/cis629
+2.Herdman MT, Cordery R, Karo B, et al.Clinical management and impact of scarlet fever in the modern era: findings from a cross-sectional study of cases in London, 2018-2019.BMJ Open.2021;11(12):e057772.Published 2021 Dec 24.doi:10.1136/bmjopen-2021-057772
+2.Herdman MT, Cordery R, Karo B, et al.Clinical management and impact of scarlet fever in the modern era: findings from a cross-sectional study of cases in London, 2018-2019.BMJ Open.2021;11(12):e057772.Published 2021 Dec 24.doi:10.1136/bmjopen-2021-057772
+3.Lamagni T, Guy R, Chand M, et al.Resurgence of scarlet fever in England, 2014-16: a population-based surveillance study.Lancet Infect Dis.2018;18(2):180-187.doi:10.1016/S1473-3099(17)30693-X
+3.Lamagni T, Guy R, Chand M, et al.Resurgence of scarlet fever in England, 2014-16: a population-based surveillance study.Lancet Infect Dis.2018;18(2):180-187.doi:10.1016/S1473-3099(17)30693-X
+4.International Vaccine Institute: Strep A Vaccine Global Consortium (SAVAC).Accessed August 1, 2025.
+4.International Vaccine Institute: Strep A Vaccine Global Consortium (SAVAC).Accessed August 1, 2025.
+5.Stevens DL, Bryant AE.Necrotizing Soft-Tissue Infections.N Engl J Med.2017;377(23):2253-2265.doi:10.1056/NEJMra1600673
+5.Stevens DL, Bryant AE.Necrotizing Soft-Tissue Infections.N Engl J Med.2017;377(23):2253-2265.doi:10.1056/NEJMra1600673
+6.Hawkes MA, Ameriso SF.Neurologic complications of rheumatic fever.Handb Clin Neurol.2021;177:23-31.doi:10.1016/B978-0-12-819814-8.00002-0
+6.Hawkes MA, Ameriso SF.Neurologic complications of rheumatic fever.Handb Clin Neurol.2021;177:23-31.doi:10.1016/B978-0-12-819814-8.00002-0
+7.Anthony BF, Kaplan EL, Wannamaker LW, Briese FW, Chapman SS.Attack rates of acute nephritis after type 49 streptococcal infection of the skin and of the respiratory tract.J Clin Invest.1969;48(9):1697-1704.doi:10.1172/JCI106135
+7.Anthony BF, Kaplan EL, Wannamaker LW, Briese FW, Chapman SS.Attack rates of acute nephritis after type 49 streptococcal infection of the skin and of the respiratory tract.J Clin Invest.1969;48(9):1697-1704.doi:10.1172/JCI106135
+8.Lasch EE, Frankel V, Vardy PA, Bergner-Rabinowitz S, Ofek I, Rabinowitz K.Epidemic glomerulonephritis in Israel.J Infect Dis.1971;124(2):141-147.doi:10.1093/infdis/124.2.141
+8.Lasch EE, Frankel V, Vardy PA, Bergner-Rabinowitz S, Ofek I, Rabinowitz K.Epidemic glomerulonephritis in Israel.J Infect Dis.1971;124(2):141-147.doi:10.1093/infdis/124.2.141
+9.Board of Directors.Pediatric Acute-Onset Neuropsychiatric Syndrome (PANS): Clinical Report.Pediatrics.2025;155(3):e2024070334.doi:10.1542/peds.2024-070334
+9.Board of Directors.Pediatric Acute-Onset Neuropsychiatric Syndrome (PANS): Clinical Report.Pediatrics.2025;155(3):e2024070334.doi:10.1542/peds.2024-070334
+10.Hardin H, Shao W, Bernstein JA.An updated review of pediatric autoimmune neuropsychiatric disorders associated with Streptococcus/pediatric acute-onset neuropsychiatric syndrome, also known as idiopathic autoimmune encephalitis: What the allergist should know.Ann Allergy Asthma Immunol.2023;131(5):567-575.doi:10.1016/j.anai.2023.08.022
+10.Hardin H, Shao W, Bernstein JA.An updated review of pediatric autoimmune neuropsychiatric disorders associated with Streptococcus/pediatric acute-onset neuropsychiatric syndrome, also known as idiopathic autoimmune encephalitis: What the allergist should know.Ann Allergy Asthma Immunol.2023;131(5):567-575.doi:10.1016/j.anai.2023.08.022
+
+【链球菌感染的诊断】
+有时进行快速抗原检测和核酸扩增检测（NAATs）
+有时进行快速抗原检测和核酸扩增检测（NAATs）
+有时抗链球菌抗体滴度（较常见的为ASO、抗DNase B；较少见的是抗透明质酸酶、抗烟酰胺腺嘌呤二核苷酸、抗链激酶）
+有时抗链球菌抗体滴度（较常见的为ASO、抗DNase B；较少见的是抗透明质酸酶、抗烟酰胺腺嘌呤二核苷酸、抗链激酶）
+链球菌通过绵羊血平板培养可以确诊。
+快速抗原检测可从咽拭子直接检测GABHS（如用于床边检测）(1)。许多测试采用酶免疫测定法，而基于光学免疫分析法的检测方法亦有应用。这些快速检测的特异性较高（>95%），但敏感性差异较大（光学免疫分析试验的敏感性为 70% 到 80% 到 90%）（2）。因此，阳性结果可以确诊，但阴性结果，至少在儿童中，应该通过培养来确认。由于链球菌性咽炎在成人不常见，且成人不易出现链球菌感染后并发症，许多医生不会通过培养来确认阴性的快速筛查结果，除非正考虑使用大环内酯类；在这种情况下，应行培养和药敏试验以检测大环内酯类是否耐药。
+即时核酸扩增检测（如聚合酶链反应）可在约15至30分钟内提供结果，以快速指导临床决策；与快速抗原检测相比，它们在保持特异性的同时具有更高的灵敏度（3）。
+Centor标准可用于指导关于测试GABHS或选择咽炎患者经验性抗生素治疗的决策。标准包括：年龄、扁桃体渗出物、颈前淋巴结肿大、发热 > 40°C 和无咳嗽。无咳嗽症状常有助于区分链球菌性咽炎与其他病原体引起的咽炎。
+显示恢复期血清抗链球菌抗体只提供了感染的间接证据。链球菌抗体检测不适用于诊断急性GABHS感染，因为抗体通常在GABHS感染发生数周后才开始产生，且单一的高抗体滴度更可能反映的是既往发生的感染。抗体检测在诊断链球菌感染后遗症（如风湿热和肾小球肾炎）时最为有用。
+抗链球菌溶血素O（ASO）和抗脱氧核糖核酸酶B（抗DNase B）滴度在GABHS感染1周后开始增加，感染后1~2个月达到峰值。即使在无并发症感染的情况下，两种抗体的滴度也可能在数月内保持较高水平。ASO滴度仅在75%至80%的感染中升高（表明20%或更多的感染患者可能不会产生ASO滴度反应）（4）。对于疑难病例，可以补充任何一项其他检测（抗透明质酸酶、抗烟酰胺腺嘌呤二核苷酸酶、抗链激酶）。
+2至4周后，在急性期和恢复期测定滴度；阳性定义为滴度增加≥2倍。单次抗体滴度超过正常上限提示既往有链球菌感染，或反映社区内链球菌感染的高流行性。
+有症状链球菌性咽喉炎的前5天使用青霉素治疗可能延迟和削弱抗O反应。
+链球菌性皮肤化脓性病变患者通常没有显著的抗O反应但是可能对其他抗原有反应（例如抗核苷酸酶或抗透明质酸酶）。
+
+【诊断参考】
+1.Mustafa Z, Ghaffari M: Diagnostic Methods, Clinical Guidelines, and Antibiotic Treatment for Group A Streptococcal Pharyngitis: A Narrative Review.Front Cell Infect Microbiol.10:563627, 2020.Published 2020 Oct 15.doi:10.3389/fcimb.2020.563627
+1.Mustafa Z, Ghaffari M: Diagnostic Methods, Clinical Guidelines, and Antibiotic Treatment for Group A Streptococcal Pharyngitis: A Narrative Review.Front Cell Infect Microbiol.10:563627, 2020.Published 2020 Oct 15.doi:10.3389/fcimb.2020.563627
+2.Plainvert C, Duquesne I, Touak G, et al: In vitro evaluation and comparison of 5 rapid antigen detection tests for the diagnosis of beta-hemolytic group A streptococcal pharyngitis.Diagn Microbiol Infect Dis83(2):105–111, 2015.doi: 10.1016/j.diagmicrobio.2015.06.012
+2.Plainvert C, Duquesne I, Touak G, et al: In vitro evaluation and comparison of 5 rapid antigen detection tests for the diagnosis of beta-hemolytic group A streptococcal pharyngitis.Diagn Microbiol Infect Dis83(2):105–111, 2015.doi: 10.1016/j.diagmicrobio.2015.06.012
+3.May L, Sickler J, Robbins EM, Tang S, Chugh K, Tran N: The Impact of Point-of-Care Polymerase Chain Reaction Testing on Prescribing Practices in Primary Care for Management of Strep A: A Retrospective Before-After Study.Open Forum Infect Dis.9(5):ofac147, 2022.doi:10.1093/ofid/ofac147
+3.May L, Sickler J, Robbins EM, Tang S, Chugh K, Tran N: The Impact of Point-of-Care Polymerase Chain Reaction Testing on Prescribing Practices in Primary Care for Management of Strep A: A Retrospective Before-After Study.Open Forum Infect Dis.9(5):ofac147, 2022.doi:10.1093/ofid/ofac147
+4.Wannamaker LW, Ayoub EM: Antibody titers in acute rheumatic fever.Circulation.21:598-614, 1960.doi:10.1161/01.cir.21.4.598
+4.Wannamaker LW, Ayoub EM: Antibody titers in acute rheumatic fever.Circulation.21:598-614, 1960.doi:10.1161/01.cir.21.4.598
+
+【链球菌感染的治疗】
+通常采用青霉素
+通常采用青霉素
+咽部GABHS感染，包括猩红热，通常呈自限性 (1)。抗生素（特别是青霉素）通常能缩短幼儿病程，尤其是猩红热患儿，但对青少年和成人的症状改善效果有限。不过，抗生素有助于预防局限性化脓性并发症（如扁桃体周围脓肿），中耳炎和风湿热 (2,3)。
+青霉素是治疗咽部A组β溶血性链球菌感染的首选药物。临床尚无GABHS分离株显示青霉素耐药。然而，一些链球菌株在体外表现出对青霉素的耐受性（即青霉素的杀菌效果显著降低） 。此类耐药性的体内（即临床）意义仍不明确。然而，一项比较不同抗生素疗效的考克兰系统评价得出结论：在治疗A组链球菌扁桃体咽炎时，头孢菌素和大环内酯类药物与青霉素相比，症状缓解方面不存在临床相关差异（4）。关于缩短病程、预防复发及并发症方面，现有证据不足以得出结论。
+对于小儿（体重<27 kg 以下），肌注苄星青霉素 G 600,000 单位一次即可；体重 ≥27 kg 的儿童、青少年及成人肌注 1,200,000 单位一次通常足够。
+若患者能确保维持治疗10天可给予口服药物治疗。可供选择的方案包括：
+青霉素V 500mg（体重 < 27 kg 的儿童为 250 mg），口服，每 8～12 小时一次。
+青霉素V 500mg（体重 < 27 kg 的儿童为 250 mg），口服，每 8～12 小时一次。
+阿莫西林500mg（最大剂量1g），qd或bid，持续10天（这是青霉素V的有效替代品，且因给药方便常为首选）
+阿莫西林500mg（最大剂量1g），qd或bid，持续10天（这是青霉素V的有效替代品，且因给药方便常为首选）
+口服窄谱头孢菌素（如头孢氨苄，头孢羟氨苄）也有效，也可使用，除非患者对青霉素有过敏反应。替代药物包括大环内酯类（阿奇霉素、克拉霉素）和克林霉素。然而，这些非β-内酰胺替代方案在一些社区中具有很高的耐药率。在使用前应确认当地的抗生素敏感性模式，并建议通过体外敏感性试验进行确认。
+大环内酯类药物 12mg/kg qd（最大剂量500mg），对坏死梭杆菌同样无效，青少年和成人咽炎的常见致病菌······将治疗延迟 1～2 天以等待实验室确诊，并不会延长病程或增加 A 组β型溶血性链球菌（GABHS）咽炎并发症的发生率。
+阿莫西林/克拉维酸也是有效的。
+复方磺胺甲恶唑（TMP-SMX），某些氟喹诺酮类和四环素类治疗GABHS感染效果不可靠。
+咽痛、头痛和发热可用镇痛药或退热药治疗。阿司匹林应避免用于儿童。不需卧床休息和隔离。密切接触后有症状的人或有链球菌感染后并发症病史的人应检测链球菌。
+
+【皮肤感染】
+蜂窝织炎通常不需要进行培养就可开始治疗，因为微生物分离较困难。 因此应使用对链球菌和葡萄球菌均有效的方案；如，可使用以下方案之一：
+如耐甲氧西林的Staphylococcus aureus金黄色葡萄球菌(MRSA)感染可能性不大，使用双氧西林或头孢氨苄
+如耐甲氧西林的Staphylococcus aureus金黄色葡萄球菌(MRSA)感染可能性不大，使用双氧西林或头孢氨苄
+若怀疑 MRSA 感染，可使用 TMP/SMX、利奈唑胺、特地唑胺、米诺环素或克林霉素（参见蜂窝织炎的治疗）。
+若怀疑 MRSA 感染，可使用 TMP/SMX、利奈唑胺、特地唑胺、米诺环素或克林霉素（参见蜂窝织炎的治疗）。
+坏死性筋膜炎应该在重症监护室治疗。需要扩大范围的（有时需要重复）外科清创。在通过培养确认病因之前，推荐的初始抗生素方案是广谱β-内酰胺类药物（如哌拉西林/他唑巴坦）或碳青霉烯类药物（如美罗培南、亚胺培南）联合克林霉素以发挥抗毒素作用。如果已知或怀疑存在克林霉素耐药性，可改用利奈唑胺或特地唑胺。如果怀疑感染MRSA，应加用万古霉素。静脉注射免疫球蛋白（IVIG）的应用，尤其是与克林霉素联合使用时，也被认为可降低A组β溶血性链球菌坏死性筋膜炎的死亡率（5）。
+
+【其他链球菌感染】
+治疗B组、C组和G组链球菌感染,选择的抗生素是:
+氨苄西林
+氨苄西林
+万古霉素
+万古霉素
+头孢菌素类或大环内酯类抗生素通常具有良好疗效，但治疗方案必须依据药物敏感性试验结果制定，尤其是在重症、免疫功能低下或体弱患者，以及感染部位存在异物的患者中。外科创面引流和清创辅助抗生素治疗常常能挽救生命。
+解没食子酸链球菌对抗生素相对敏感。尽管万古霉素耐药性S. gallolyticus（牛链球菌菌株）最近已有报道，但这种微生物对青霉素和氨基糖苷类还是敏感的。
+多数草绿色链球菌对青霉素G和其他β-内酰胺类抗生素敏感。对青霉素的耐药是罕见的，当存在时是相对耐药。此类菌株的治疗应依据体外药敏试验结果或对当地耐药模式的了解，且可能需要更高剂量的青霉素。对于某些情况，可能需要加用第二种抗菌药物（例如感染性心内膜炎与庆大霉素联合使用）。
+
+【治疗参考文献】
+1.Herdman MT, Cordery R, Karo B, et al.Clinical management and impact of scarlet fever in the modern era: findings from a cross-sectional study of cases in London, 2018-2019.BMJ Open.2021;11(12):e057772.doi:10.1136/bmjopen-2021-057772
+1.Herdman MT, Cordery R, Karo B, et al.Clinical management and impact of scarlet fever in the modern era: findings from a cross-sectional study of cases in London, 2018-2019.BMJ Open.2021;11(12):e057772.doi:10.1136/bmjopen-2021-057772
+2.Shulman ST, Bisno AL, Clegg HW, et al.Clinical practice guideline for the diagnosis and management of group A streptococcal pharyngitis: 2012 update by the Infectious Diseases Society of America [published correction appears inClin Infect Dis. 2014 May;58(10):1496. Dosage error in article text].Clin Infect Dis.2012;55(10):e86-e102.doi:10.1093/cid/cis629
+2.Shulman ST, Bisno AL, Clegg HW, et al.Clinical practice guideline for the diagnosis and management of group A streptococcal pharyngitis: 2012 update by the Infectious Diseases Society of America [published correction appears inClin Infect Dis. 2014 May;58(10):1496. Dosage error in article text].Clin Infect Dis.2012;55(10):e86-e102.doi:10.1093/cid/cis629
+3.Kumar RK, Antunes MJ, Beaton A, et al.Contemporary Diagnosis and Management of Rheumatic Heart Disease: Implications for Closing the Gap: A Scientific Statement From the American Heart Association [published correction appears inCirculation. 2021 Jun 8;143(23):e1025-e1026. doi: 10.1161/CIR.0000000000000984].Circulation.2020;142(20):e337-e357.doi:10.1161/CIR.0000000000000921
+3.Kumar RK, Antunes MJ, Beaton A, et al.Contemporary Diagnosis and Management of Rheumatic Heart Disease: Implications for Closing the Gap: A Scientific Statement From the American Heart Association [published correction appears inCirculation. 2021 Jun 8;143(23):e1025-e1026. doi: 10.1161/CIR.0000000000000984].Circulation.2020;142(20):e337-e357.doi:10.1161/CIR.0000000000000921
+4.Hedin K, Thorning S, van Driel ML.Different antibiotic treatments for group A streptococcal pharyngitis.Cochrane Database Syst Rev.2023;11(11):CD004406.doi:10.1002/14651858.CD004406.pub6
+4.Hedin K, Thorning S, van Driel ML.Different antibiotic treatments for group A streptococcal pharyngitis.Cochrane Database Syst Rev.2023;11(11):CD004406.doi:10.1002/14651858.CD004406.pub6
+5.Carapetis JR, Jacoby P, Carville K, Ang SJ, Curtis N, Andrews R.Effectiveness ofclindamycinandintravenous immunoglobulin, and risk of disease in contacts, in invasive group a streptococcal infections.Clin Infect Dis.2014;59(3):358-365.doi:10.1093/cid/ciu304
+5.Carapetis JR, Jacoby P, Carville K, Ang SJ, Curtis N, Andrews R.Effectiveness ofclindamycinandintravenous immunoglobulin, and risk of disease in contacts, in invasive group a streptococcal infections.Clin Infect Dis.2014;59(3):358-365.doi:10.1093/cid/ciu304
+最重要的致病性链球菌是S. pyogenes（化脓性链球菌），即A组β-溶血性链球菌（GABHS）。
+最重要的致病性链球菌是S. pyogenes（化脓性链球菌），即A组β-溶血性链球菌（GABHS）。
+GABHS 引起的2种最常见的急性感染为咽喉炎和皮肤感染。
+GABHS 引起的2种最常见的急性感染为咽喉炎和皮肤感染。
+可发生迟发型非化脓性并发症，包括风湿热和链球菌感染后肾小球肾炎。
+可发生迟发型非化脓性并发症，包括风湿热和链球菌感染后肾小球肾炎。
+快速抗原检测（如用于床边检测）特异性好，但敏感度不高；至少在儿童应使用培养来确认阴性检测结果。
+快速抗原检测（如用于床边检测）特异性好，但敏感度不高；至少在儿童应使用培养来确认阴性检测结果。
+核酸扩增试验提供了一种更灵敏的快速检测选择。
+核酸扩增试验提供了一种更灵敏的快速检测选择。
+青霉素或头孢菌素是治疗咽炎的首选药物；因为大环内酯类耐药逐渐增加，如果使用该类药物建议行药敏试验。
+青霉素或头孢菌素是治疗咽炎的首选药物；因为大环内酯类耐药逐渐增加，如果使用该类药物建议行药敏试验。
+对于皮肤感染，若不太可能为耐甲氧西林金黄色葡萄球菌，可使用双氯西林或头孢氨苄。若怀疑为耐甲氧西林金黄色葡萄球菌感染，可选择甲氧苄啶/磺胺甲恶唑、利奈唑胺、多西环素或克林霉素（若社区耐药率较低）。
+对于皮肤感染，若不太可能为耐甲氧西林金黄色葡萄球菌，可使用双氯西林或头孢氨苄。若怀疑为耐甲氧西林金黄色葡萄球菌感染，可选择甲氧苄啶/磺胺甲恶唑、利奈唑胺、多西环素或克林霉素（若社区耐药率较低）。
+使用与治疗 GABHS 相同的抗生素治疗 B、C 和 G 组链球菌感染。
+使用与治疗 GABHS 相同的抗生素治疗 B、C 和 G 组链球菌感染。

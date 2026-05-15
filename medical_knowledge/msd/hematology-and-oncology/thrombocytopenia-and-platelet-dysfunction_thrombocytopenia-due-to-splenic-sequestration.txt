@@ -1,0 +1,12 @@
+标题：脾脏阻留引起的血小板减少
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/thrombocytopenia-and-platelet-dysfunction/thrombocytopenia-due-to-splenic-sequestration
+============================================================
+
+导致脾脏血小板螯合增加的各种疾病均可发生脾肿大。 然而在晚期肝硬化患者中，血小板减少主要是由肝脏产生的促血小板生成素减少（随后血小板产生减少）所致，而非脾脏阻留作用 (1)。(参见于血小板疾病的概述。）
+血小板计数通常>30000/mcL（>30×109/L），除非引起脾肿大的疾病同时损害血小板生成（如原发性骨髓纤维化）。
+滞留的血小板在应激时从脾脏中释放出来。因此，仅由脾脏阻留引起的血小板减少很少引起出血。
+在肝功能正常的患者中，脾切除可纠正血小板减少症;然而，除非因同时发生骨髓衰竭导致严重的血小板减少，否则可不用行脾切除术。
+
+【参考文献】
+1.Peck-Radosavljevic M, Wichlas M, Zacherl J, et al: Thrombopoietin induces rapid resolution of thrombocytopenia after orthotopic liver transplantation through increased platelet production.Blood95:795–801, 2009.
+1.Peck-Radosavljevic M, Wichlas M, Zacherl J, et al: Thrombopoietin induces rapid resolution of thrombocytopenia after orthotopic liver transplantation through increased platelet production.Blood95:795–801, 2009.

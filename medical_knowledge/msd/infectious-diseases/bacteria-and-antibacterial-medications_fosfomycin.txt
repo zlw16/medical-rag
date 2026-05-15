@@ -1,0 +1,41 @@
+标题：磷霉素
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/bacteria-and-antibacterial-medications/fosfomycin
+============================================================
+
+磷霉素是一类新的抗生素，化学结构与其他已知的抗生素无相关性。它是一种杀菌药，通过抑制磷酸烯醇丙酮酸合成酶破坏细胞壁合成，因此能够干扰肽聚糖的产生。
+在美国，磷霉素仅以磷霉素氨丁三醇的粉末形式提供，可以溶解在液体中口服。在美国以外，静脉制剂可获取。
+
+【药代动力学磷霉素】
+磷霉素氨丁三醇盐的口服生物利用度低（约40％），因此，血清水平相对于最低抑菌浓度（MICs）较低。由于这个原因，磷霉素被用于治疗单纯性下尿路感染，不适用于肾盂肾炎。
+磷霉素不与血浆蛋白结合，广泛分布于组织中。磷霉素无生物转化，通过肾小球滤过从尿中排泄。 口服给药后，尿中药物浓度超过敏感病原菌MICs ，并维持24小时以上。
+在美国以外的一些国家，有一种静脉注射磷霉素的制剂，可用于更严重的感染，包括中枢神经系统感染、骨髓炎和肺炎。当用于治疗这些感染时，通常与其他抗生素（例如β-内酰胺类）联合使用。
+
+【磷霉素的适应症】
+磷霉素对革兰氏阳性菌和革兰氏阴性菌均有活性，包括一些抗生素耐药菌，例如
+金黄色葡萄球菌，包括耐甲氧西林的S. aureus(金黄色葡萄球菌) (MRSA)
+金黄色葡萄球菌，包括耐甲氧西林的S. aureus(金黄色葡萄球菌) (MRSA)
+肠球菌属，包括耐万古霉素的肠球菌 (VRE)
+肠球菌属，包括耐万古霉素的肠球菌 (VRE)
+Escherichia coli（大肠埃希菌），包括产超广谱β-内酰胺酶 (ESBL) 菌株和耐氟喹诺酮类E. coli（大肠埃希菌）菌株。
+Escherichia coli（大肠埃希菌），包括产超广谱β-内酰胺酶 (ESBL) 菌株和耐氟喹诺酮类E. coli（大肠埃希菌）菌株。
+口服磷霉素仅应用于由E. coli（大肠埃希菌）或肠球菌引起的无并发症（即下尿路）尿路感染。然而， 静脉用磷霉素有时用于治疗在其他解剖部位感染的多重耐药微生物感染。
+口服磷霉素不建议用于治疗大多数非E. coli（大肠埃希菌）、Enterobacterales(肠杆菌科细菌)、Pseudomonas(假单胞菌属)引起的感染，即使是无并发症的下尿路感染（1）。此外，欧洲抗菌药物敏感性测试委员会 (EUCAST) 不支持静脉注射磷霉素对P. aeruginosa(假单胞菌属)的敏感性断点（2）。
+
+【适应症参考文献】
+1.Tamma PD, Aitken SL, Bonomo RA, Mathers AJ, van Duin D, Clancy CJ.Infectious Diseases Society of America 2023 Guidance on the Treatment of Antimicrobial Resistant Gram-Negative Infections.Clin Infect Dis.Published online July 18, 2023.doi:10.1093/cid/ciad428
+1.Tamma PD, Aitken SL, Bonomo RA, Mathers AJ, van Duin D, Clancy CJ.Infectious Diseases Society of America 2023 Guidance on the Treatment of Antimicrobial Resistant Gram-Negative Infections.Clin Infect Dis.Published online July 18, 2023.doi:10.1093/cid/ciad428
+2.European Committee on Antimicrobial Susceptibility Testing (EUCAST): Clinical breakpoints - breakpoints and guidance.Accessed April 15, 2024.
+2.European Committee on Antimicrobial Susceptibility Testing (EUCAST): Clinical breakpoints - breakpoints and guidance.Accessed April 15, 2024.
+
+【磷霉素的禁忌症】
+除了已知对磷霉素或该制剂的任何组分有超敏反应，它的使用没有显著禁忌证。
+
+【磷霉素在妊娠和哺乳期间的使用】
+磷霉素穿过胎盘，但通常被认为治疗孕妇膀胱炎是安全的。
+尚不清楚有多少磷霉素进入母乳，如果有必要对哺乳期妇女使用磷霉素，建议谨慎使用。
+
+【磷霉素的不良反应】
+磷霉素一般耐受良好，不良反应率低，主要包括胃肠道症状（例如恶心、腹泻）。
+
+【磷霉素的剂量考虑】
+无并发症的女性尿路感染，使用溶解于液体的磷霉素氨基丁三醇5.61g（相当于3g的磷霉素）单剂量口服。对于其他部位的感染，可能需要更长的疗程。

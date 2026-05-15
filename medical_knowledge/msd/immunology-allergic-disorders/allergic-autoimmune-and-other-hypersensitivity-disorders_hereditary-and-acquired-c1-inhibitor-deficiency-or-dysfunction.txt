@@ -1,0 +1,170 @@
+标题：遗传性和获得性C1抑制剂缺乏或功能障碍
+来源：https://www.msdmanuals.cn/professional/immunology-allergic-disorders/allergic-autoimmune-and-other-hypersensitivity-disorders/hereditary-and-acquired-c1-inhibitor-deficiency-or-dysfunction
+============================================================
+
+(参见过敏性和特应性疾病概述,血管性水肿，和美国HAEA[遗传性血管性水肿协会]医学顾问委员会2020年遗传性血管性水肿管理指南[2020].)
+C1抑制物缺乏或功能障碍不仅影响补体激活，也可引起缓激肽水平升高，因为C1抑制物还抑制活化的激肽释放酶，激肽释放酶是激肽系统通路中缓激肽代谢过程中所必需的酶 (1)。
+
+【补体激活途径】
+补体激活途径
+经典途径、凝集素途径或者旁路途径最终都通过C3裂解酶将C3裂解为C3a和C3b而进入共同途径。Ab=抗体；Ag=抗原；C1-INH=C1抑制因子；MAC=膜攻击复合物；MASP=甘露糖结合凝集素相关丝氨酸蛋白酶；MBL=甘露糖结合凝集素。上划线表示活化。
+
+【遗传性血管性水肿】
+遗传性血管性水肿有三种类型：
+1型（80～85%）：以C1抑制物缺陷为主要特征
+1型（80～85%）：以C1抑制物缺陷为主要特征
+2型（15-20%）：以C1抑制物功能障碍为主要特征
+2型（15-20%）：以C1抑制物功能障碍为主要特征
+3型（罕见）：以正常的C1抑制剂功能和水平为特征
+3型（罕见）：以正常的C1抑制剂功能和水平为特征
+1 型和 2 型涉及编码C1 抑制物的基因突变。1型遗传是常染色体显性遗传。临床表现通常发生在儿童或青少年时期；75%的1型患者在15岁之前有发作 (1)。
+2 型是由功能失调的C1 抑制剂引起的。遗传是常染色体显性遗传，尽管约有25%的病例发生新的突变（1)。
+3型很少见。它的特点是C1抑制物正常，有时是由于基因突变导致XII因子、血浆蛋白原、血管生成素1或激肽原的异常形式。3 型更经常发生在女性身上。
+
+【获得性C1抑制物缺陷】
+C1抑制物缺陷也可为获得性：
+可见于肿瘤性疾病（如B细胞淋巴瘤）或免疫复合物性疾病，补体被消耗。
+可见于肿瘤性疾病（如B细胞淋巴瘤）或免疫复合物性疾病，补体被消耗。
+单克隆丙种球蛋白病产生C1抑制物自身抗体。
+单克隆丙种球蛋白病产生C1抑制物自身抗体。
+其他疾病（如系统性红斑狼疮[SLE]、皮肌炎），非常少见产生抗C1抑制物自身抗体。
+其他疾病（如系统性红斑狼疮[SLE]、皮肌炎），非常少见产生抗C1抑制物自身抗体。
+临床表现通常出现在有相关疾病的年长患者中。
+
+【诱发因素】
+任何类型的遗传性和获得性血管性水肿均可被以下因素诱发：
+轻微的创伤（如牙科操作，舌穿）
+轻微的创伤（如牙科操作，舌穿）
+病毒性疾病
+病毒性疾病
+含有雌激素的药物和他莫昔芬
+含有雌激素的药物和他莫昔芬
+摄入特定的食物
+摄入特定的食物
+情绪紧张可能会加重血管性水肿。
+
+【参考文献】
+1.Miyata T, Horiuchi T.Biochemistry, molecular genetics, and clinical aspects of hereditary angioedema with and withoutC1 inhibitordeficiency.Allergol Int2023;72(3):375-384.doi:10.1016/j.alit.2023.04.004
+1.Miyata T, Horiuchi T.Biochemistry, molecular genetics, and clinical aspects of hereditary angioedema with and withoutC1 inhibitordeficiency.Allergol Int2023;72(3):375-384.doi:10.1016/j.alit.2023.04.004
+
+【遗传性和获得性C1抑制剂缺乏或功能障碍】
+遗传性和获得性血管性水肿的症状和体征与其他类型的由缓激肽介导的血管性水肿相似，有不对称的轻度疼痛，往往还有脸、唇和/或舌肿胀。也可能为手背、脚背或生殖器肿胀。
+胃肠道常受累，出现恶心、呕吐、绞痛以及肠梗阻等各种表现。
+无瘙痒、荨麻疹、支气管痉挛；吞咽症状是自限性的，但是疾病累及喉部可能致死。
+这张照片显示了遗传性C1抑制剂缺乏患者嘴唇的急性肿胀。
+By permission of the publisher.摘自 Joe E, Soter N.InCurrent Dermatologic Diagnosis and Treatment, edited by I Freedberg, IM Freedberg, and MR Sanchez.Philadelphia, Current Medicine, 2001.
+肿胀在发病约1至3天缓解。遗传性血管性水肿因体内补体成分耗竭而症状得以缓解。
+
+【遗传性和获得性C1抑制剂缺乏或功能障碍的诊断】
+补体水平检测
+补体水平检测
+如果血管性水肿没有伴有荨麻疹，并且复发且无任何明确原因或由局部创伤引发，临床医生应怀疑遗传性或获得性C1抑制剂缺陷或功能障碍。
+对C4、C1抑制物、C1q（C1的一个组成部分）的水平进行测定。遗传性血管性水肿（1 型和 2 型）或获得性C1抑制剂缺乏或功能障碍通过以下方式确认
+C4水平低，即使在发作之间
+C4水平低，即使在发作之间
+C1抑制剂水平或功能下降
+C1抑制剂水平或功能下降
+其他检查结果包括：
+1型遗传性C1抑制剂缺乏：C1抑制剂蛋白水平低，C1抑制剂功能降低，C1q水平正常
+1型遗传性C1抑制剂缺乏：C1抑制剂蛋白水平低，C1抑制剂功能降低，C1q水平正常
+2型遗传性C1抑制剂缺乏：C1抑制剂蛋白水平正常或升高，C1抑制剂功能降低，C1q水平正常
+2型遗传性C1抑制剂缺乏：C1抑制剂蛋白水平正常或升高，C1抑制剂功能降低，C1q水平正常
+获得性C1抑制物缺陷时，C1q水平低下
+获得性C1抑制物缺陷时，C1q水平低下
+3 型遗传C1 抑制剂缺陷：正常C1 抑制剂等级，C1 抑制剂功能和 C1q 水平
+3 型遗传C1 抑制剂缺陷：正常C1 抑制剂等级，C1 抑制剂功能和 C1q 水平
+确诊为遗传性C1抑制剂缺乏症患者的一级亲属均应筛查是否有症状。筛查应包括C1 抑制剂和 C4 水平（1)。
+
+【诊断参考文献】
+1.Zuraw BL, Bernstein JA, Lang DM, et al: A focused parameter update: Hereditary angioedema, acquiredC1 inhibitordeficiency, and angiotensin-converting enzyme inhibitor–associated angioedema.J Allergy Clin Immunol131 (6):1491-1493, 2013.doi: 10.1016/j.jaci.2013.03.034
+1.Zuraw BL, Bernstein JA, Lang DM, et al: A focused parameter update: Hereditary angioedema, acquiredC1 inhibitordeficiency, and angiotensin-converting enzyme inhibitor–associated angioedema.J Allergy Clin Immunol131 (6):1491-1493, 2013.doi: 10.1016/j.jaci.2013.03.034
+
+【遗传性和获得性C1抑制剂缺乏或功能障碍的治疗】
+急性发作可使用C1抑制剂、艾卡兰肽、司柏司他和艾替班特
+急性发作可使用C1抑制剂、艾卡兰肽、司柏司他和艾替班特
+对于急性发作，以下被认为是一线治疗：
+纯化血浆来源的人 C1 抑制剂
+纯化血浆来源的人 C1 抑制剂
+从转基因兔乳汁中获得的重组 C1 抑制剂
+从转基因兔乳汁中获得的重组 C1 抑制剂
+从人血浆中获得的 C1 抑制剂
+从人血浆中获得的 C1 抑制剂
+依卡拉肽和赛贝曲司他（血浆激肽释放酶抑制剂）
+依卡拉肽和赛贝曲司他（血浆激肽释放酶抑制剂）
+艾替班特（一种合成的十肽，可作为缓激肽2型受体的可逆性竞争性拮抗剂）
+艾替班特（一种合成的十肽，可作为缓激肽2型受体的可逆性竞争性拮抗剂）
+所有患有遗传性和获得性C1抑制剂缺乏或功能障碍的患者都应获得有效的按需治疗，并且无论严重程度如何，都应在发作时尽早治疗 (1)。终止急性发作的疗法选择应个体化，并依据给药途径（如肠外给药与口服）、监管考量（如推荐使用的最低年龄、成本、可及性）及患者偏好等因素进行指导。
+重组C1抑制剂具有类似的蛋白酶抑制活性，但半衰期比血浆来源的C1抑制剂短（2)。
+赛贝曲司他是一种口服血浆激肽释放酶抑制剂，可加速症状缓解，可用于12岁及以上患者的急性发作的按需治疗 (3)。
+如果没有这些药物，新鲜冷冻血浆或在欧盟也使用氨甲环酸。
+如果气道受累，气道保护最为重要。如果气道受累，肾上腺素可以对急性发作提供短暂的益处。然而，益处可能不足或可能是暂时的；然后可能需要气管内插管。皮质类固醇和抗组胺药通常无效。
+止痛药、止吐剂和补液可用于缓解症状。
+遗传性C1抑制剂缺乏或功能障碍患者的治疗围绕四大核心原则(4)：
+为所有患者提供有效的按需急性治疗
+为所有患者提供有效的按需急性治疗
+早期治疗以防止发作进展
+早期治疗以防止发作进展
+无论肿胀部位如何，治疗发作
+无论肿胀部位如何，治疗发作
+在反映医患伙伴关系的高度个性化决策的基础上纳入长期预防措施
+在反映医患伙伴关系的高度个性化决策的基础上纳入长期预防措施
+基于这些原则，所有确诊为遗传性血管性水肿的患者都应该能够获得≤ 2 标准剂量的按需药物，以治疗急性发作（4)。
+
+【经验与提示】
+经验与提示
+抗组胺药和皮质类固醇对遗传性或获得性C1抑制剂缺乏症无效。
+抗组胺药和皮质类固醇对遗传性或获得性C1抑制剂缺乏症无效。
+
+【治疗参考文献】
+1.US Hereditary Angioedema Association: HAE Treatment Guidelines.Accessed August 18, 2025.
+1.US Hereditary Angioedema Association: HAE Treatment Guidelines.Accessed August 18, 2025.
+2.Moldovan D, Bernstein JA, Cicardi M: Recombinant replacement therapy for hereditary angioedema due toC1 inhibitordeficiency.Immunotherapy7 (7):739–752, 2015.doi: 10.2217/imt.15.44
+2.Moldovan D, Bernstein JA, Cicardi M: Recombinant replacement therapy for hereditary angioedema due toC1 inhibitordeficiency.Immunotherapy7 (7):739–752, 2015.doi: 10.2217/imt.15.44
+3.Riedl MA, Farkas H, Aygören-Pürsün E, et al: OralSebetralstatfor On-Demand Treatment of Hereditary Angioedema Attacks.N Engl J Med391(1):32–43, 2024.doi:10.1056/NEJMoa2314192
+3.Riedl MA, Farkas H, Aygören-Pürsün E, et al: OralSebetralstatfor On-Demand Treatment of Hereditary Angioedema Attacks.N Engl J Med391(1):32–43, 2024.doi:10.1056/NEJMoa2314192
+4.Busse PJ, Christiansen SC, Riedl MA, et al: US HAEA Medical Advisory Board 2020 guidelines for the management of hereditary angioedema.J Allergy Clin Immunol Pract9 (1):132–150.e3, 2021.doi: 10.1016/j.jaip.2020.08.046
+4.Busse PJ, Christiansen SC, Riedl MA, et al: US HAEA Medical Advisory Board 2020 guidelines for the management of hereditary angioedema.J Allergy Clin Immunol Pract9 (1):132–150.e3, 2021.doi: 10.1016/j.jaip.2020.08.046
+
+【预防遗传性和获得性C1抑制剂缺乏或功能障碍】
+
+【长期预防】
+用于遗传性C1抑制剂缺乏或功能障碍发作长期预防的药物包括：
+C1酯酶抑制剂（人源）
+C1酯酶抑制剂（人源）
+Lanadelumab
+Lanadelumab
+贝洛特勒斯特(Berotralstat)
+贝洛特勒斯特(Berotralstat)
+加达西单抗
+加达西单抗
+减毒雄激素
+减毒雄激素
+抗纤溶药（如氨甲环酸）
+抗纤溶药（如氨甲环酸）
+血浆来源的C1抑制剂可以定期静脉输注或皮下注射作为长期预防。可以教会患者自我管理。血浆来源的C1抑制剂在美国被批准用于长期预防遗传性血管水肿，但重组C1酯酶抑制剂没有。
+Lanadelumab是一种重组人源化单克隆抗体，可与血浆激肽释放酶结合并阻断其活性。
+Berotralstat 是一种合成小分子，被开发用来抑制血浆中的卡利克肽。
+加达西单抗是一种抑制激活的XIIa因子的单克隆抗体，是另一种预防性治疗方法，可降低12岁及以上患者急性发作的频率 (1)。
+减弱的雄激素（例如，司坦唑醇、达那唑）用于刺激肝脏C1 抑制剂合成。这种治疗方法对于后天获得性血管性水肿的疗效可能较差。
+抗纤维蛋白溶解剂（如氨甲环酸）已被作为二线药物用于儿童和孕妇的长期预防。
+
+【短期预防】
+短期预防适用于在进行高风险操作（如牙科或气道相关操作）前、且无可用于急性发作治疗的C1 抑制物时的遗传性 C1 抑制物缺乏或功能障碍患者。 通常在操作前5天至之后的2天，给予患者弱效雄激素（如达那唑、司坦唑醇）。如果可以使用C1抑制剂（血浆来源或重组），一些专家主张在高危手术前1小时使用，而不是使用减毒雄激素进行短期预防。手术前的血浆产品（例如，2 单位新鲜冷冻血浆）也是一种选择（2)。
+
+【预防参考文献】
+1.Craig TJ, Reshef A, Li HH, et al: Efficacy and safety ofgaradacimab, a factor XIIa inhibitor for hereditary angioedema prevention (VANGUARD): a global, multicentre, randomised, double-blind, placebo-controlled, phase 3 trial.Lancet401(10382):1079–1090, 2023.doi:10.1016/S0140-6736(23)00350-1
+1.Craig TJ, Reshef A, Li HH, et al: Efficacy and safety ofgaradacimab, a factor XIIa inhibitor for hereditary angioedema prevention (VANGUARD): a global, multicentre, randomised, double-blind, placebo-controlled, phase 3 trial.Lancet401(10382):1079–1090, 2023.doi:10.1016/S0140-6736(23)00350-1
+2.Prematta M, Gibbs JG, Pratt EL: Fresh frozen plasma for the treatment of hereditary angioedema.Ann Allergy Asthma Immunol98 (4):383–388, 2007.
+2.Prematta M, Gibbs JG, Pratt EL: Fresh frozen plasma for the treatment of hereditary angioedema.Ann Allergy Asthma Immunol98 (4):383–388, 2007.
+遗传性血管性水肿通常是在童年或青春期发病，或在成年以后发生后天性血管性水肿，常见于肿瘤或自身免疫性疾病的患者。
+遗传性血管性水肿通常是在童年或青春期发病，或在成年以后发生后天性血管性水肿，常见于肿瘤或自身免疫性疾病的患者。
+轻度外伤，病毒感染，冷暴露，怀孕或摄入某些食物可能会引起发作，情绪紧张可能会加重。
+轻度外伤，病毒感染，冷暴露，怀孕或摄入某些食物可能会引起发作，情绪紧张可能会加重。
+补体水平测定，C4水平低，C1抑制物功能低下提示遗传性血管水肿或获得性C1抑制物缺乏。
+补体水平测定，C4水平低，C1抑制物功能低下提示遗传性血管水肿或获得性C1抑制物缺乏。
+对于急性发作，可使用纯化人 C1 抑制剂、重组 C1 抑制剂、艾卡兰肽、司贝特拉司他或艾替班特；对于症状缓解，可给予镇痛药、止吐药及补液治疗；抗组胺药和糖皮质激素无效。
+对于急性发作，可使用纯化人 C1 抑制剂、重组 C1 抑制剂、艾卡兰肽、司贝特拉司他或艾替班特；对于症状缓解，可给予镇痛药、止吐药及补液治疗；抗组胺药和糖皮质激素无效。
+长期预防可使用定期输注的血浆来源 C1 抑制物、拉那德珠单抗、加拉达西单抗或贝罗特司他。
+长期预防可使用定期输注的血浆来源 C1 抑制物、拉那德珠单抗、加拉达西单抗或贝罗特司他。
+对于短期预防（例如，在牙科或气道手术之前），考虑C1抑制剂、减毒雄激素（例如，司坦唑醇、达那唑）或血浆产品，如新鲜冷冻血浆。
+对于短期预防（例如，在牙科或气道手术之前），考虑C1抑制剂、减毒雄激素（例如，司坦唑醇、达那唑）或血浆产品，如新鲜冷冻血浆。

@@ -1,0 +1,28 @@
+标题：遗传性代谢病引言
+来源：https://www.msdmanuals.cn/professional/pediatrics/inherited-disorders-of-metabolism/introduction-to-inherited-disorders-of-metabolism
+============================================================
+
+多数遗传性代谢病（亦称先天性缺陷）是由编码酶类的基因突变引起。酶缺陷或失活导致
+底物前体或代谢物的积累或者
+底物前体或代谢物的积累或者
+酵素产品的缺陷
+酵素产品的缺陷
+存在数百种疾病，尽管大多数遗传性代谢疾病在个别情况下极为罕见，但总的来说，它们并不罕见。
+遗传性代谢紊乱通常按受影响的底物分组，例如：
+氨基酸代谢疾病
+氨基酸代谢疾病
+碳水化合物代谢紊乱
+碳水化合物代谢紊乱
+脂肪酸代谢异常
+脂肪酸代谢异常
+嘌呤和嘧啶代谢障碍
+嘌呤和嘧啶代谢障碍
+美国所有州都定期对所有新生儿进行特定遗传代谢紊乱和其他疾病的新生儿筛查，包括苯丙酮尿症、酪氨酸血症、生物素酶缺陷、高胱氨酸尿症、枫糖尿症和半乳糖血症。许多州还开展了扩展筛查项目，涵盖更多遗传性代谢疾病，包括脂肪酸氧化障碍和其他有机酸血症。关于这些疾病的全面综述，请参见美国医学遗传学和基因组学学会(ACMG)的新生儿筛查ACT决策表与处理流程。
+主要引起成人疾病（如痛风、卟啉病）的代谢缺陷、器官特异性的（如Wilson病、先天性肾上腺皮质增生症）或常见的（如囊性纤维化、血色素沉着症）在手册中其他章节专门叙述。关于脂蛋白代谢的遗传性疾病，请参见表格遗传性(原发性)血脂异常。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+American College of Medical Genetics and Genomics' (ACMG):Newborn Screening ACT Sheets and Algorithms
+American College of Medical Genetics and Genomics' (ACMG):Newborn Screening ACT Sheets and Algorithms
+Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information
+Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information

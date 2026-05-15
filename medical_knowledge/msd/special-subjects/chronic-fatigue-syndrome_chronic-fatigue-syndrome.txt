@@ -1,0 +1,92 @@
+标题：慢性疲劳综合征
+来源：https://www.msdmanuals.cn/professional/special-subjects/chronic-fatigue-syndrome/chronic-fatigue-syndrome
+============================================================
+
+虽然在美国多达25％的人自觉处于慢性疲劳状态 (1) ，但仅0.5％的人达到CFS标准(2)。 虽然术语CFS于1988年才首次被使用，但至少在18世纪中期这种疾病就被很详细地描述了，但一直有不同的名称（例如，轻热病，神经衰弱症，慢性布鲁氏菌病，疲劳综合征）。CFS最常见于中青年女性，但包括儿童在内的所有年龄段和男女性中均有发生。
+CFS并非诈病（故意装出症状）。CFS确实和纤维肌痛,有许多共同特征表现, 如睡眠障碍，精神混浊，疲劳，疼痛，以及活动后症状恶化。
+
+【参考文献】
+1.Galland-Decker C, Marques-Vidal P, Vollenweider P: Prevalence and factors associated with fatigue in the Lausanne middle-aged population: a population-based, cross-sectional survey.BMJ Open9(8):e027070, 2019.Published 2019 Aug 24.doi:10.1136/bmjopen-2018-027070
+1.Galland-Decker C, Marques-Vidal P, Vollenweider P: Prevalence and factors associated with fatigue in the Lausanne middle-aged population: a population-based, cross-sectional survey.BMJ Open9(8):e027070, 2019.Published 2019 Aug 24.doi:10.1136/bmjopen-2018-027070
+2.Valdez AR, Hancock EE, Adebayo S, et al: Estimating prevalence, demographics, and costs of ME/CFS using large scale medical claims data and machine learning.Front Pediatr6:412, 2019.doi:10.3389/fped.2018.00412
+2.Valdez AR, Hancock EE, Adebayo S, et al: Estimating prevalence, demographics, and costs of ME/CFS using large scale medical claims data and machine learning.Front Pediatr6:412, 2019.doi:10.3389/fped.2018.00412
+
+【慢性疲劳综合征的病因】
+CFS的病因不明。 尚无感染、激素、免疫或心理因素被明确。在众多的可能的感染性病因中，Epstein-Barr病毒，莱姆病，念珠菌病及巨细胞病毒已被证明不引起CFS。 同样，没有过敏标记和免疫抑制。慢性疲劳综合征患者不会增加机会性感染的风险。
+一些2019冠状病毒病感染已经康复的人已成为具有持续症状的“长途跋涉者”。这些症状中的一些是由感染和/或治疗引起的器官损伤引起的，其他的可能是由于创伤后应激障碍（PTSD）。 此外，在某些患者中，COVID-19 似乎会引发典型的慢性疲劳综合症 (CFS)。目前正在积极研究这一相关性。
+各种轻微免疫异常被报道过。 这些异常包括低IgG水平、异常IgG抗体、淋巴细胞增殖减少、低水平gamma干扰素对有丝分裂原的反应、自然杀伤细胞的细胞毒作用弱、循环自身抗体和免疫复合物，以及许多其他免疫结果发现。然而，没有一种方法有足够的灵敏度和特异性用于定义CFS。但是，它们确实强调了CFS的生理合法性。
+CFS患者的亲属发病风险增高，提示可能有遗传因素或环境因素的影响。最近的研究已经确定一些可能诱发CFS的遗传标记。有些研究者认为，CFS的致病原因是多因素的，包括遗传倾向、暴露于某些微生物或者毒物以及其他生理和/或情感创伤等。
+
+【慢性疲劳综合症的症状和体征】
+CFS发病前，大多数患者都是能正常工作和成功的。
+通常在发生心理或医学压力事件之后突然发病。许多患者初发为类似病毒感染性疾病，伴淋巴结肿大、极度疲劳、发热和上呼吸道症状。 最初的综合征会消退，但似乎会引发长期的严重疲劳，这会干扰日常活动，通常会随着劳累而恶化，但休息后缓解效果不佳或根本无法缓解。 患者还经常出现睡眠和认知障碍，例如记忆力问题、“思维模糊”、嗜睡和睡眠不足的感觉。全身疼痛也是一种常见的主诉。
+体格检查是正常的,没有肌无力、关节炎、神经系统受累或者脏器肿大等表现。但是一些患者存在低度发热、非渗出性咽炎和/或可触及而柔软的（非肿大）淋巴结。
+因为患者通常看起来很健康，所以朋友、家人甚至医疗保健从业者有时会对他们的病情表示怀疑，这会加剧患者对他们知之甚少的疾病的沮丧和/或抑郁情绪。
+
+【慢性疲劳综合征的诊断】
+临床诊断标准
+临床诊断标准
+实验室评估排除非CFS疾病
+实验室评估排除非CFS疾病
+CFS的诊断可根据其特征性的临床表现，体格检查和实验室检查无异常作出的。 在做出 CFS 诊断之前，必须评估任何异常的身体发现或实验室检查，并排除导致这些发现和/或患者症状的替代诊断。  病例定义通常很有用，但应被视为一种流行病学和研究工具，在某些情况下不应严格应用于个别患者。
+测试是在基于客观的临床发现下，针对疑似非CFS病因。如果没有明显或可疑诱因，则可进行合理的实验室评估，包括CBC和电解质，BUN，肌酐，ESR和TSH的测定。 如果临床发现表明，对选定患者的进一步检查可能包括胸部 X 光检查、睡眠研究， 和肾上腺皮质功能减退检查。 在没有疾病或基本检查客观证据的情况下（即不只是主诉），感染血清学检测，抗核抗体，神经影像学检查并无指示性;在这种情况下，预测概率低，所以假阳性率 则高。这可能会导致错误的诊断、额外的不必要的检测和不适当的治疗。
+2015年2月，美国医学研究所（现为美国国家科学院、工程院和医学院的卫生与医学部）发表了一篇关于这种疾病的广泛综述：Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness。 在这篇综述中，他们提出了一个新名称：系统性运动不耐受疾病（SEID），并提出了新的简化诊断标准，强调最一致的特征 (见表慢性疲劳综合征的诊断标准)。 此外，该综述明确强调了这种使人衰弱的疾病的正确性。向患者及其家人介绍这份文件有助于提高他们的理解，并强调他们经常致残的疾病的有效性。
+
+【慢性疲劳综合征的诊断标准*】
+慢性疲劳综合征的诊断标准*
+诊断需要以下3项：
+病前从事持续超过6个月的职业、教育、社会或个人活动的能力显著降低或损害，伴有经常性的深层次的疲劳感，即为新发的或明确的发病（非终生的），不是持续过度劳累的结果，也不会靠休息就明显减轻
+病前从事持续超过6个月的职业、教育、社会或个人活动的能力显著降低或损害，伴有经常性的深层次的疲劳感，即为新发的或明确的发病（非终生的），不是持续过度劳累的结果，也不会靠休息就明显减轻
+劳累后不舒服†
+劳累后不舒服†
+不能恢复精神的睡眠†
+不能恢复精神的睡眠†
+需要以下至少1条表现：
+认知功能损害†
+认知功能损害†
+立位耐力不良
+立位耐力不良
+*Diagnostic criteria proposed by the Institute of Medicine(now the Health and Medicine Division of The National Academies of Science, Engineering, and Medicine) in February 2015.
+†应评估症状的频率和严重程度。如果患者至少有一半时间没有出现中度、重度或重度以上的症状，则应质疑肌痛性脑脊髓炎/慢性疲劳综合症（ME/CFS）的诊断。
+*Diagnostic criteria proposed by the Institute of Medicine(now the Health and Medicine Division of The National Academies of Science, Engineering, and Medicine) in February 2015.
+†应评估症状的频率和严重程度。如果患者至少有一半时间没有出现中度、重度或重度以上的症状，则应质疑肌痛性脑脊髓炎/慢性疲劳综合症（ME/CFS）的诊断。
+
+【慢性疲劳综合征的治疗】
+确认患者的症状
+确认患者的症状
+有时认知行为治疗
+有时认知行为治疗
+有时进行渐进式锻炼, 限于避免挫折
+有时进行渐进式锻炼, 限于避免挫折
+如果有指针，则采用针对抑郁，睡眠，或疼痛的药物治疗
+如果有指针，则采用针对抑郁，睡眠，或疼痛的药物治疗
+为了向CFS患者提供有效的护理，医生必须确认并接受病人的症状的有效性。不管是什么根本原因，这些患者不是装病者而正遭受痛苦，并强烈渴望回归到以前的健康状况。成功的管理，患者需要接受并适应他们的疾患，专注于他们仍然可以做到的，而不是感叹他们不能做什么。
+认知行为疗法和分级的锻炼计划在一些研究中有帮助，但在另一些研究中没有 (1,2)。对于愿意尝试并能够获得适当服务的患者，应考虑使用它们。任何有残疾的患者都会出现抑郁症。这应予以抗抑郁药和/或精神病转诊来处理。睡眠障碍应该采取放松技巧和改善的睡眠卫生来进行积极管理（见表患者的方法，睡眠卫生)。
+如果这些措施是无效的，使用催眠药物和/或推荐到睡眠专家可能是必要的。疼痛患者（通常是由于纤维肌痛）可以使用许多药物如普瑞巴林，度洛西汀，阿米替林或加巴喷丁治疗。物理疗法往往也是有帮助的。治疗直立性低血压也可能有帮助。
+未经证实或证伪处理，如抗病毒剂，免疫抑制剂，消除饮食和汞合金提取，应避免使用。
+
+【治疗参考文献】
+1.Vink M, Vink-Niese A: Graded exercise therapy for myalgic encephalomyelitis/chronic fatigue syndrome is not effective and unsafe.Re-analysis of a Cochrane review.Health Psychol Open5(2):2055102918805187, 2018.doi:10.1177/2055102918805187
+1.Vink M, Vink-Niese A: Graded exercise therapy for myalgic encephalomyelitis/chronic fatigue syndrome is not effective and unsafe.Re-analysis of a Cochrane review.Health Psychol Open5(2):2055102918805187, 2018.doi:10.1177/2055102918805187
+2.Larun L, Brurberg KG, et al: Exercise therapy for chronic fatigue syndrome.Cochrane Database of Systematic ReviewsIssue 10.Art.No.: CD003200, 2019.doi: 10.1002/14651858.CD003200.pub8
+2.Larun L, Brurberg KG, et al: Exercise therapy for chronic fatigue syndrome.Cochrane Database of Systematic ReviewsIssue 10.Art.No.: CD003200, 2019.doi: 10.1002/14651858.CD003200.pub8
+
+【慢性疲劳综合征的预后】
+大多数CFS患者的病情会随着时间的推移而好转，但通常不会恢复到他们的病前状态。这段时间通常是几年，并且改善往往只是部分的。一些证据表明，早期诊断和干预可改善预后。
+慢性疲劳综合征（CFS）是疲劳感达到影响生活质量，持续> 6个月，通常会影响以前健康和积极的人;它非诈病。
+慢性疲劳综合征（CFS）是疲劳感达到影响生活质量，持续> 6个月，通常会影响以前健康和积极的人;它非诈病。
+病因还不明确，但可能涉及多种因素，包括遗传易感性，微生物暴露，以及环境和心理因素。
+病因还不明确，但可能涉及多种因素，包括遗传易感性，微生物暴露，以及环境和心理因素。
+根据患者的特征性症状，体格检查和基本实验室检测结果正常，诊断CFS；美国医学研究所（现在是美国国家科学院、工程院和医学院的卫生和医学部）的标准可能是有用的，但并不严格适用于个别患者。
+根据患者的特征性症状，体格检查和基本实验室检测结果正常，诊断CFS；美国医学研究所（现在是美国国家科学院、工程院和医学院的卫生和医学部）的标准可能是有用的，但并不严格适用于个别患者。
+验证患者的症状，鼓励他们接受并适应他们的疾患，也许可以尝试认知行为疗法和/或分级运动。
+验证患者的症状，鼓励他们接受并适应他们的疾患，也许可以尝试认知行为疗法和/或分级运动。
+根据需要治疗的具体症状（如疼痛，抑郁，失眠）使用药物。
+根据需要治疗的具体症状（如疼痛，抑郁，失眠）使用药物。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+Centers for Disease Control and Prevention: Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: General information about CFS symptoms and treatment and ongoing CFS research
+Centers for Disease Control and Prevention: Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: General information about CFS symptoms and treatment and ongoing CFS research
+Committee on the Diagnostic Criteria for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome; Board on the Health of Select Populations; Institute of Medicine. Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness.Washington (DC): National Academies Press (US); 2015 Feb 10.
+Committee on the Diagnostic Criteria for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome; Board on the Health of Select Populations; Institute of Medicine. Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness.Washington (DC): National Academies Press (US); 2015 Feb 10.

@@ -1,0 +1,69 @@
+标题：消化道急性穿孔
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/acute-abdomen-and-surgical-gastroenterology/acute-perforation-of-the-gastrointestinal-tract
+============================================================
+
+（参见急性腹痛。)
+
+【消化道急性穿孔的病因】
+钝挫伤及穿透伤均可导致消化道任一部位的穿孔（见表消化道穿孔的部分原因）。
+吞入异物，即使锐器，很少发生穿孔；除非发生嵌顿、局部压力增高引起缺血及坏死(参考胃肠道异物)。
+肛门插入异物可导致直肠或乙状结肠穿孔 (见直肠异物)。
+
+【消化道穿孔部分病因】
+消化道穿孔部分病因
+穿孔部位
+所有部位
+剧烈呕吐
+称为Boerhaave综合征
+医源性原因
+食管镜、球囊扩张或探条导致穿孔
+吞服腐蚀性物质
+胃或十二指肠
+消化性溃疡病
+可发生于既往无溃疡症状的患者
+有时射线照片上看不到游离气体
+吞服腐蚀性物质
+常见于胃
+绞窄性肠梗阻
+可为急性阑尾炎及Meckel憩室炎
+平片少见游离气体
+典型表现为盲肠穿孔
+高危因素：结肠直径≥13cm，接受泼尼松或其他免疫抑制剂治疗的患者（本组症状、体征可能很轻微）。
+炎症性肠病（溃疡性结肠炎、克罗恩病）
+中毒性巨结肠
+有时为自发性穿孔
+胆囊切除术或肝脏活检时医源性穿孔
+通常情况下，胆道或十二指肠受损。
+罕见情况下，急性胆囊炎
+通常被网膜包裹
+
+【消化道急性穿孔的症状和体征】
+食管、胃及十二指肠穿孔骤然起病、病情危重，伴剧烈全腹痛，有压痛及腹膜炎体征。可有肩部放射痛。
+除上述情况外，其他疼痛及炎症情况下，亦可见消化道其余部位穿孔。由于穿孔较小，且被网膜包裹，故腹痛逐渐发生，压痛部位局限。可有局灶压痛。上述情况下，很难鉴别穿孔与疾病恶化、治疗无效。
+各类穿孔时，常见恶心、呕吐及厌食。肠鸣音常减弱或消失。
+
+【消化道急性穿孔的诊断】
+若诊断不明，行腹部CT检查。
+若诊断不明，行腹部CT检查。
+腹片（立卧位片及胸片）具有诊断意义，50%～75%的患者可见膈下游离气体 (1,2)。随时间推移，上述体征更为常见。相比后前位胸片，侧位胸片对于发现游离气体灵敏度更高。
+这张腹部 X 光片显示由穿孔引起的游离空气。
+若腹部 X 线系列检查无诊断价值，联合口服、静脉和 / 或直肠造影剂的腹部 CT 可能有帮助。若疑似穿孔，不应行钡餐检查。
+肝脏前方可见游离气体。箭头指向镰状韧带。
+
+【诊断参考】
+1.Chen CH, Yang CC, Yeh YH.Role of upright chest radiography and ultrasonography in demonstrating free air of perforated peptic ulcers.Hepatogastroenterology.2001;48(40):1082-1084.
+1.Chen CH, Yang CC, Yeh YH.Role of upright chest radiography and ultrasonography in demonstrating free air of perforated peptic ulcers.Hepatogastroenterology.2001;48(40):1082-1084.
+2.Winek TG, Mosely HS, Grout G, Luallin D.Pneumoperitoneum and its association with ruptured abdominal viscus.Arch Surg.1988;123(6):709-712.doi:10.1001/archsurg.1988.01400300051008
+2.Winek TG, Mosely HS, Grout G, Luallin D.Pneumoperitoneum and its association with ruptured abdominal viscus.Arch Surg.1988;123(6):709-712.doi:10.1001/archsurg.1988.01400300051008
+
+【消化道急性穿孔的治疗】
+静脉补液及抗生素
+静脉补液及抗生素
+若发现穿孔，必须立即手术，因为治疗延误越久，腹膜炎导致的死亡率会迅速升高。若形成脓肿或炎性包块，可仅行脓肿引流。
+有时在手术前插入鼻胃管。 容量不足者应留置导尿管以监测尿量。适量补液及电解质以维持体液平衡。 应给予对肠道菌群有效的广谱静脉注射抗生素。
+疼痛骤然出现，随后迅速出现腹膜炎及休克体征。
+疼痛骤然出现，随后迅速出现腹膜炎及休克体征。
+需行平片和/或CT检查。
+需行平片和/或CT检查。
+需予手术修补术、静脉补液及抗生素治疗。
+需予手术修补术、静脉补液及抗生素治疗。

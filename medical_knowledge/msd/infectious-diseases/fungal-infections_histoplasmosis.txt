@@ -1,0 +1,119 @@
+标题：组织胞浆菌病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/fungal-infections/histoplasmosis
+============================================================
+
+(参见真菌感染概述。)
+Histoplasma capsulatum（荚膜组织胞浆菌）是引起肺部和血源性疾病的二形真菌。该真菌在自然环境或室温培养条件下以霉菌形式生长，但在 37°℃ 及侵入宿主细胞过程中转变为直径约 1–5 微米的酵母细胞。机体因吸入分生孢子（由真菌菌丝体形式产生的孢子）而感染本病，这些孢子存在于被鸟或蝙蝠粪便污染的泥土或尘埃中。 当拆除树木或建筑物产生空气传播的孢子（例如在鸟类或蝙蝠栖息地的建筑工地）或探索洞穴时，感染的风险最大。
+组织胞浆菌病分布于世界各地，包括中南美洲、非洲、亚洲和澳大利亚的部分地区。
+在美国，其年均发病率约为每 10 万人口 1–2 例（1）。组织胞浆菌病的地方性流行区包括俄亥俄河谷和密西西比河谷（涵盖美国南部和东南部各州），并延伸至马里兰州北部、宾夕法尼亚州南部、纽约州中部及得克萨斯州。
+与蝙蝠洞相关的暴发在全球范围内偶有报道，包括拉丁美洲、非洲和亚洲部分地区；在美国，佛罗里达州、得克萨斯州和波多黎各亦有报告。
+严重的组织胞浆菌病的危险因素包括:
+严重，长时间的暴露
+严重，长时间的暴露
+年龄 ≥ 55岁
+年龄 ≥ 55岁
+T 细胞介导免疫受损（如 HIV 感染者、器官移植受者，或正在使用糖皮质激素或肿瘤坏死因子抑制剂等免疫抑制药物者）。
+T 细胞介导免疫受损（如 HIV 感染者、器官移植受者，或正在使用糖皮质激素或肿瘤坏死因子抑制剂等免疫抑制药物者）。
+感染的初始部位通常是肺部，荚膜组织胞浆菌通常保持局限于此。然而，如果没有完整的细胞介导的免疫反应，病原体可能通过血液传播到其他器官。进行性播散型组织胞浆菌病是晚期 HIV 感染患者的特征性机会性感染之一。
+
+【参考文献】
+1.Centers for Disease Control and Prevention (CDC).Facts and Stats About Histoplasmosis.April 24, 2024.
+1.Centers for Disease Control and Prevention (CDC).Facts and Stats About Histoplasmosis.April 24, 2024.
+
+【组织胞浆菌病的症状和体征】
+大多数组织胞浆菌感染无症状或症状轻微，尤其在免疫正常患者中；因此初期可能未就医。
+组织胞浆菌病有三种主要形式：
+急性原发性组织胞浆菌病是一临床综合征，表现为发热、咳嗽、肌肉疼痛以及不同程度的身体不适。急性组织胞浆菌肺炎有时通过体格检查和胸部X线检查可以发现。症状通常在吸入孢子后3至17天出现。症状通常在2周内不经治疗而消失，很少持续超过6周。
+慢性空洞性组织胞浆菌病的特征是：常位于肺尖，与空洞型肺结核相似。临床上表现为进行性加重的咳嗽和呼吸困难，最终导致呼吸衰竭。本型不发生播散。
+进行性播散性组织胞浆菌病以全身网状内皮系统受累为特征，表现为肝脾肿大、淋巴结病、骨髓受累，并且有时会发生口腔或胃肠道溃疡。病程通常为亚急性或慢性，仅出现非特异性且常较隐匿的症状（如发热、乏力、体重减轻、虚弱、不适）；HIV 感染者的病情可能出现原因不明的加重。本病可累及中枢神经系统，表现为脑膜炎或局灶性脑部病变。本病很少累及肾上腺，一旦累及则可引起Addison病。重症肺炎较为罕见，但晚期 HIV 感染患者可发生严重的急性肺炎并伴低氧血症，以及低血压、意识状态改变、凝血功能障碍或横纹肌溶解。
+在免疫抑制患者中，组织胞浆菌病可扩散至皮肤，骨髓，脑，肝，脾和淋巴系统。此图像中的口腔病变类似于原发性梅毒的下疳，但检测结果表明Histoplasma capsulatum。
+其他表现可能发生。纤维性纵隔炎是一种罕见的慢性组织胞浆菌病。本病最终可引起循环障碍。纤维化纵隔炎被认为是由于对持续存在的非活性真菌抗原产生过度免疫反应，导致纵隔血管或气道结疤和阻塞。
+眼部组织胞浆菌病是指与既往暴露于荚膜组织胞浆菌相关的脉络膜视网膜病变。它可能反映了与荚膜组织胞浆菌的远期、通常是亚临床的感染，导致局灶性脉络膜视网膜瘢痕形成。然而，直接的因果关系仍然存在争议，因为在无组织胞浆菌病血清学证据的患者中报道过类似的病变。疑似眼组织胞浆菌病可能表现为盲点、视觉扭曲（直线呈波浪状）和色彩感知改变。
+皮肤病变常见于免疫功能低下患者（1）。病变是高度可变的，可能表现为丘疹、结节、斑块、脓疱、溃疡或类似传染性软疣、痤疮样疹或结节性红斑的病变；它们可能是局部的或广泛的，并且可以模仿其他传染性或炎症性皮肤病。口腔黏膜病变多发且可能呈弥漫性。
+
+【症状和体征】
+1.Chang P, Rodas C.Skin lesions in histoplasmosis.Clin Dermatol.2012;30(6):592-598.doi:10.1016/j.clindermatol.2012.01.004
+1.Chang P, Rodas C.Skin lesions in histoplasmosis.Clin Dermatol.2012;30(6):592-598.doi:10.1016/j.clindermatol.2012.01.004
+
+【组织胞浆菌病的诊断】
+组织病理学检测和培养
+组织病理学检测和培养
+影像学检查（胸部X线检查或CT）
+影像学检查（胸部X线检查或CT）
+血清学检测
+血清学检测
+抗原检测
+抗原检测
+由于症状常缺乏特异性，对组织胞浆菌病需保持较高的临床警惕性（1）。诊断基于与流行病学暴露相关的临床怀疑和实验室检测结果，包括培养、组织病理学检查和抗原检测或血清学。
+应进行影像学检查（胸部X光或CT扫描），可能显示以下表现：
+急性感染病例，表现为正常或弥散结节或粟粒样病灶
+急性感染病例，表现为正常或弥散结节或粟粒样病灶
+慢性肺部感染病例，绝大多数表现为空洞病灶
+慢性肺部感染病例，绝大多数表现为空洞病灶
+进行性进展病例，50%的病例出现肺门淋巴结病变，伴有弥漫性结节渗出
+进行性进展病例，50%的病例出现肺门淋巴结病变，伴有弥漫性结节渗出
+支气管肺泡灌洗或组织活检可能必要以获取组织学标本；还应进行血清学检测以及尿液、血液和痰液标本的培养 (2)。由于培养Histoplasma可能会给实验人员造成严重的生物危害，临床一旦怀疑此病应立即通知相关实验人员。
+显微镜下组织病理学检查可强烈提示诊断，尤其是在晚期 HIV 感染且感染广泛的患者中；此类患者在 Wright 或 Giemsa 染色的外周血或白膜层标本中可见细胞内酵母。真菌培养阳性可确诊组织胞浆菌病。溶解离心法或血沉棕黄层标本培养能提高血标本的阳性检出率。一旦真菌在实验室生长，DNA探针即可快速识别。
+美国疾病控制与预防中心建议用酶免疫测定(EIA)尿抗原检测进行确认(2)，其敏感性和特异性强。同时检测血清和尿液标本可提高检出率；约80%的播散性组织胞浆菌病患者血清中可检出Histoplasma（组织胞浆菌属）抗原，而>90%的患者尿液中可检出（1）。但已发现其与其他真菌（Coccidioides immitis（粗球孢子菌）、Blastomyces dermatitidis（皮炎芽生菌）、Paracoccidioides brasiliensis（巴西副球孢子菌） 和Penicillium marneffei（马尔尼菲篮状菌））存在交叉反应。
+
+【诊断参考】
+1.Wheat LJ, Freifeld AG, Kleiman MB, et al.Clinical practice guidelines for the management of patients with histoplasmosis: 2007 update by the Infectious Diseases Society of America.Clin Infect Dis.2007;45(7):807-825.doi:10.1086/521259
+1.Wheat LJ, Freifeld AG, Kleiman MB, et al.Clinical practice guidelines for the management of patients with histoplasmosis: 2007 update by the Infectious Diseases Society of America.Clin Infect Dis.2007;45(7):807-825.doi:10.1086/521259
+2.CDC.组织胞浆菌病检测算法。May 13, 2024.
+2.CDC.组织胞浆菌病检测算法。May 13, 2024.
+
+【组织胞浆菌病的治疗】
+无症状肺结节或免疫功能正常患者的轻度、急性、自限性感染无需治疗
+无症状肺结节或免疫功能正常患者的轻度、急性、自限性感染无需治疗
+中度感染可使用唑类药物
+中度感染可使用唑类药物
+对于重症感染，使用两性霉素B治疗。
+对于重症感染，使用两性霉素B治疗。
+（参见抗真菌药物。）
+应在治疗期间检测伊曲康唑的血清浓度、血液或尿液组织胞浆菌抗原水平 (1,2) 。
+妊娠早期应避免使用唑类抗真菌药物。
+氟康唑和伏立康唑的效果可能较差（1）。泊沙康唑和艾沙康唑对H. capsulatum（荚膜组织胞浆菌）有活性，并可能有效治疗组织胞浆菌病患者。有待进一步积累经验和数据来明确哪种药物疗效最佳。
+
+【急性原发性组织胞浆菌病】
+急性原发性组织胞浆菌病通常无需抗真菌治疗，除非 1 个月后未见自发改善，或患者为免疫功能受损者（1，3）；此时治疗方案为口服伊曲康唑，每日 3 次，连用 3 天，随后每日 2 次，疗程 6–12 周。可使用超生物可利用性（SUBA）伊曲康唑。
+氟康唑 治疗本病效果欠佳，其他唑类药物未经很好的临床评价，但却有治疗本病成功的报道。
+重症肺炎需要给予更为积极的治疗，可使用两性霉素B进行治疗。
+
+【慢性空洞型组织胞浆菌病】
+对于慢性空洞型组织胞浆菌病，口服伊曲康唑治疗 12–24 个月。
+如果患者病情极其严重或对伊曲康唑治疗无反应或不能耐受伊曲康唑，则可使用其他唑类抗真菌药物或两性霉素B进行治疗。
+
+【严重的播散型组织胞浆菌病】
+对于重度播散性组织胞浆菌病，首选治疗为每日一次静脉注射脂质体两性霉素 B，疗程 2 周或直至患者临床情况稳定。随后可改为口服伊曲康唑，每日 3 次，连用 3 天，之后每日 2 次；在患者退热且不再需要呼吸支持或血压支持后，继续治疗 12 个月。
+在晚期HIV感染患者中，伊曲康唑应继续使用至抗逆转录病毒疗法(ART)治疗下CD4细胞计数>150 cells/mcL (4)。
+
+【治疗参考文献】
+1.Pappas P, Lentz RJ, Stover KR, et al.2025 Clinical Practice Guideline Update by the Infectious Diseases Society of America on Histoplasmosis: Treatment of Mild or Moderate Acute Pulmonary Histoplasmosis in Adults, Children, and Pregnant People.Clin Infect Dis.Published online July 10, 2025.doi:10.1093/cid/ciaf258
+1.Pappas P, Lentz RJ, Stover KR, et al.2025 Clinical Practice Guideline Update by the Infectious Diseases Society of America on Histoplasmosis: Treatment of Mild or Moderate Acute Pulmonary Histoplasmosis in Adults, Children, and Pregnant People.Clin Infect Dis.Published online July 10, 2025.doi:10.1093/cid/ciaf258
+2.Baddley JW, Wolf J, Ardura MI, et al.2025 Clinical Practice Guideline Update by the Infectious Diseases Society of America on Histoplasmosis: Treatment of Asymptomatic Histoplasma Pulmonary Nodules (Histoplasmomas) in Adults, Children, and Pregnant People.Clin Infect Dis.Published online July 8, 2025.doi:10.1093/cid/ciaf257
+2.Baddley JW, Wolf J, Ardura MI, et al.2025 Clinical Practice Guideline Update by the Infectious Diseases Society of America on Histoplasmosis: Treatment of Asymptomatic Histoplasma Pulmonary Nodules (Histoplasmomas) in Adults, Children, and Pregnant People.Clin Infect Dis.Published online July 8, 2025.doi:10.1093/cid/ciaf257
+3.Wheat LJ, Freifeld AG, Kleiman MB, et al.Clinical practice guidelines for the management of patients with histoplasmosis: 2007 Update by the Infectious Diseases Society of America.Clin Infect Dis.2007;45(7):807-825.doi:10.1086/521259
+3.Wheat LJ, Freifeld AG, Kleiman MB, et al.Clinical practice guidelines for the management of patients with histoplasmosis: 2007 Update by the Infectious Diseases Society of America.Clin Infect Dis.2007;45(7):807-825.doi:10.1086/521259
+4.ClinicalInfo.gov.Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents with HIV: Histoplasmosis. Accessed July 22, 2025.
+4.ClinicalInfo.gov.Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents with HIV: Histoplasmosis. Accessed July 22, 2025.
+
+【组织胞浆菌病的预后】
+组织胞浆菌病的急性原发型几乎总为自限性；但在极少数情况下，大量感染后亦可导致死亡。
+慢性空洞性组织胞浆菌病可因严重呼吸功能不全而死亡。
+未经治疗的进行性播散性组织胞浆菌病死亡率极高。
+组织胞浆菌病是地方性流行区常见的真菌感染，经吸入孢子而获得。
+组织胞浆菌病是地方性流行区常见的真菌感染，经吸入孢子而获得。
+其流行地区包括俄亥俄河谷和密西西比河谷，并延伸至马里兰州北部、宾夕法尼亚州南部、纽约州中部及得克萨斯州。
+其流行地区包括俄亥俄河谷和密西西比河谷，并延伸至马里兰州北部、宾夕法尼亚州南部、纽约州中部及得克萨斯州。
+本病可导致急性原发性肺部感染，慢性空洞肺部感染或进行性播散性感染。
+本病可导致急性原发性肺部感染，慢性空洞肺部感染或进行性播散性感染。
+诊断基于组织病理学、培养和/或抗原检测。
+诊断基于组织病理学、培养和/或抗原检测。
+轻中度疾病患者使用伊曲康唑治疗。
+轻中度疾病患者使用伊曲康唑治疗。
+重症患者先用两性霉素B脂质体静滴，而后改为伊曲康唑口服来进行治疗。
+重症患者先用两性霉素B脂质体静滴，而后改为伊曲康唑口服来进行治疗。
+急性原发性感染几乎都具有自限性。
+急性原发性感染几乎都具有自限性。
+未经治疗的进行性播散性组织胞浆菌病具有高病死率。
+未经治疗的进行性播散性组织胞浆菌病具有高病死率。

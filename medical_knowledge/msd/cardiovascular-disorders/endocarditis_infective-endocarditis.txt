@@ -1,0 +1,534 @@
+标题：感染性心内膜炎
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/endocarditis/infective-endocarditis
+============================================================
+
+心内膜炎通常指心内膜的感染（即感染性心内膜炎）。此术语也包括非感染性心内膜炎，其心瓣膜上和邻近的心内膜上形成无菌的血小板和纤维素血栓。非感染性心内膜炎有时会导致感染性心内膜炎。感染性和非感染性心内膜炎均可引起栓塞现象和心功能损害。
+感染性心内膜炎的诊断通常是基于一系列的临床发现，而不是单一的确定性检验结果。
+心内膜炎可发生于任何年龄段。男性患病率约为女性的两倍（1）。感染率和死亡率随年龄增长而增加。使用非法静脉药物的患者、免疫受损患者、人工心脏瓣膜和其他心脏内装置的患者风险最高。留置血管内导管的患者的风险也会增加。
+
+【参考文献】
+1.Cabell CH, Abrutyn E.Progress toward a global understanding of infective endocarditis.Lessons from the International Collaboration on Endocarditis [published correction appears inCardiol Clin2003 Aug;21(3):483].Cardiol Clin2003;21(2):147-158.doi:10.1016/s0733-8651(03)00033-x
+1.Cabell CH, Abrutyn E.Progress toward a global understanding of infective endocarditis.Lessons from the International Collaboration on Endocarditis [published correction appears inCardiol Clin2003 Aug;21(3):483].Cardiol Clin2003;21(2):147-158.doi:10.1016/s0733-8651(03)00033-x
+
+【感染性心内膜炎的病因】
+正常心脏相对能抵抗感染。细菌和真菌不易黏附在心内膜的表面，恒定的血流有助于防止微生物定植在心内膜结构上。因而，发生心内膜炎通常需要2个因素：
+心内膜原来就有异常作为诱因
+心内膜原来就有异常作为诱因
+血液中含有微生物（如菌血症）
+血液中含有微生物（如菌血症）
+大量菌血症或特别致病的微生物（例如，金黄色葡萄球菌）可在正常瓣膜上引起心内膜炎。
+
+【心内膜因素】
+心内膜炎通常涉及心脏瓣膜。主要的易感因素包括先天性心脏病、风湿性瓣膜病、二叶式主动脉瓣、钙化性主动脉瓣、二尖瓣脱垂、肥厚型心肌病和既往心内膜炎史。人工瓣膜和其他心脏内装置是特殊的风险因素。偶尔，附壁血栓、室间隔缺损和动脉导管未闭部位受到感染。感染病灶通常是受损的内皮细胞释放组织因子时形成的无菌纤维素-血小板赘生物。
+感染性心内膜炎最常发生于左侧心脏（如，二尖瓣或主动脉瓣）。约5%至10%的病例发生在右侧心脏（三尖瓣或肺动脉瓣）（1）。静脉注射药物的患者右侧心内膜炎的发生率要高得多。
+感染心内膜的微生物可能源自远处感染的部位（如，皮肤脓肿、牙龈炎、泌尿道感染）或有明显细菌侵入的门户，如中心静脉导管或药物注射部位。 几乎任何植入的异物（如，心室或腹膜分流、人造装置）都存在细菌移居的风险，从而成为菌血症的来源并因此患心内膜炎。心内膜炎也可能由无症状的菌血症引起，例如通常发生于侵入性齿科、内科或外科操作时。在牙龈炎的患者中，甚至在刷牙和咀嚼时也可引起菌血症（通常由于草绿色链球菌所致）。
+病原微生物因感染部位、菌血症来源和宿主危险因素（如静脉吸毒）而异，但总体而言，80%至90%的病例是由
+链球菌，或
+链球菌，或
+Staphylococcus aureus（金黄色葡萄球菌）
+Staphylococcus aureus（金黄色葡萄球菌）
+其余大部分心内膜炎病例都是由
+革兰氏阴性杆菌
+革兰氏阴性杆菌
+HACEK生物（Haemophilus（嗜血杆菌）种属、Actinobacillus actinomycetemcomitans（伴放线放线杆菌）、Cardiobacterium hominis（人心杆菌）、Eikenella corrodens（腐蚀艾肯菌）和Kingella kingae（金氏金氏菌））
+HACEK生物（Haemophilus（嗜血杆菌）种属、Actinobacillus actinomycetemcomitans（伴放线放线杆菌）、Cardiobacterium hominis（人心杆菌）、Eikenella corrodens（腐蚀艾肯菌）和Kingella kingae（金氏金氏菌））
+然而，葡萄球菌性和肠球菌性心内膜炎的发病率一直在增加，而链球菌性心内膜炎一直在减少。
+该病分为三期：
+菌血症：血液中存在微生物
+菌血症：血液中存在微生物
+粘附：微生物通过表面粘附素粘附于异常或受损的内皮细胞上
+粘附：微生物通过表面粘附素粘附于异常或受损的内皮细胞上
+定植：有机体的增殖和炎症，导致成熟的赘生物。
+定植：有机体的增殖和炎症，导致成熟的赘生物。
+许多致病微生物会产生多糖生物膜，保护它们免受宿主的免疫防御，并阻止抗生素的渗透。
+
+【病因参考文献】
+1.Delgado V, Ajmone Marsan N, de Waha S, et al: 2023 ESC Guidelines for the management of endocarditis [published correction appears inEur Heart J2023 Sep 20] [published correction appears inEur Heart J2024 Jan 1;45(1):56].Eur Heart J44(39):3948–4042, 2023.doi:10.1093/eurheartj/ehad193
+1.Delgado V, Ajmone Marsan N, de Waha S, et al: 2023 ESC Guidelines for the management of endocarditis [published correction appears inEur Heart J2023 Sep 20] [published correction appears inEur Heart J2024 Jan 1;45(1):56].Eur Heart J44(39):3948–4042, 2023.doi:10.1093/eurheartj/ehad193
+
+【感染性心内膜炎的病理生理学】
+心内膜炎具有局部和全身的后果。
+
+【局部影响】
+感染性心内膜炎的局部影响包括
+心肌脓肿伴组织破坏，有时出现传导系统异常（通常与室间隔下部脓肿相关）
+心肌脓肿伴组织破坏，有时出现传导系统异常（通常与室间隔下部脓肿相关）
+突发严重瓣膜反流可导致心力衰竭和死亡（通常由二尖瓣或主动脉瓣病变引起）
+突发严重瓣膜反流可导致心力衰竭和死亡（通常由二尖瓣或主动脉瓣病变引起）
+主动脉炎因感染向邻近部位传播所致
+主动脉炎因感染向邻近部位传播所致
+人工瓣膜感染尤其可能累及瓣环脓肿，阻塞性赘生物、心肌脓肿以及以瓣膜阻塞、裂开和传导障碍为表现的细菌性动脉瘤。
+
+【全身后果】
+心内膜炎的全身后果主要是由于
+源自心脏瓣膜的感染物质所致的栓塞
+源自心脏瓣膜的感染物质所致的栓塞
+免疫介导的现象（主要是慢性感染）
+免疫介导的现象（主要是慢性感染）
+右侧感染性心内膜炎通常会产生脓毒性肺栓塞，这可能导致肺梗死、肺炎或脓胸。左侧病变可栓塞至任何组织，尤其是肾脏、脾脏和中枢神经系统。真菌性动脉瘤可在任何主要动脉中形成。皮肤和视网膜栓塞常见。弥散性肾小球性肾炎由免疫复合物沉积所致。
+
+【感染性心内膜炎的分类】
+感染性心内膜炎可能呈缓慢的、亚急性的病程或急性的、暴发的病程并伴有快速失代偿的可能。
+亚急性细菌性心内膜炎（SBE）虽然具有侵袭性，但通常隐匿发病且进展缓慢（即数周至数月）。常常无感染来源或感染进入途径的证据。亚急性细菌性心内膜炎最常由链球菌引起（特别是草绿色链球菌、微需氧链球菌、厌氧链球菌、非肠球菌D组链球菌和肠球菌）以及比较少见的致病菌有S. aureus（金黄色葡萄球菌）、Staphylococcus epidermidis（表皮葡萄球菌）、Gemella morbillorum（麻疹双球菌）、Abiotrophia defectiva（缺陷乏养菌）（原Streptococcus defectivus（缺陷链球菌））Granulicatella（颗粒链球菌）属以及苛养Haemophilus（嗜血杆菌）属。常由于牙周、胃肠道、泌尿道感染引起无症状菌血症后在异常瓣膜上发生SBE。
+急性细菌性心内膜炎（ABE）通常突然发生并且快速进展（即数日）。感染的来源和进入的途径常明显。当细菌致病力强或细菌的暴露量大时，ABE可累及正常心脏瓣膜。它通常由S. aureus（金黄色葡萄球菌）、A型溶血性链球菌、肺炎球菌或淋球菌所引起。
+人工瓣膜心内膜炎（PVE）在瓣膜置换术后1年内，1%至2%的患者会发病，此后，年发生率为0.5% (1)。主动脉瓣置换术后发生PVE较二尖瓣置换术后更常见，机械瓣膜和生物瓣膜受累机会相同。早发性感染（术后<2个月）主要由手术过程中耐药细菌（如S. epidermidis（表皮葡萄球菌）、类白喉杆菌、大肠杆菌）或真菌（如Candida（念珠菌）属、Aspergillus（曲霉菌）属）污染引起。迟发性感染主要由于手术过程中的低毒力微生物污染或一过性无症状菌血症引起，最常见的致病菌有链球菌、S. epidermidis（表皮葡萄球菌）、类白喉杆菌，以及苛养的革兰阴性杆菌Haemophilus（嗜血杆菌）属、Actinobacillus actinomycetemcomitans（伴放线放线杆菌）和Cardiobacterium hominis（人心杆菌）。
+
+【分类参考文献】
+1.Glaser N, Jackson V, Holzmann MJ, Franco-Cereceda A, Sartipy U.Prosthetic Valve Endocarditis After Surgical Aortic Valve Replacement. Circulation.2017;136(3):329-331.doi:10.1161/CIRCULATIONAHA.117.028783
+1.Glaser N, Jackson V, Holzmann MJ, Franco-Cereceda A, Sartipy U.Prosthetic Valve Endocarditis After Surgical Aortic Valve Replacement. Circulation.2017;136(3):329-331.doi:10.1161/CIRCULATIONAHA.117.028783
+
+【感染性心内膜炎的症状和体征】
+症状和体征因分类的不同而异，但具有非特异性。
+
+【亚急性细菌性心内膜炎】
+开始时症状不明显：低热（<39°C），盗汗，疲劳，萎靡不振，和体重减轻。可能发生寒战和关节痛。瓣膜关闭不全的症状和体征可能是第一线索。最初，≤15%患者有发热或心脏杂音，但最终几乎所有患者都出现了发热和杂音。体格检查可能正常或包括苍白、发热、先前存在的杂音的改变或发生新的反流性杂音和心动过速。
+视网膜栓塞可引起圆形或椭圆形视网膜出血性病变伴有小而白的中心（Roth点）。
+皮肤表现包括瘀点（见于上躯干、结膜、黏膜和四肢远端）、指端或指端附近的疼痛性红斑皮下结节（Osler结节）、手掌或足底的无痛性出血性斑疹或丘疹（Janeway病变）以及甲下线状出血。
+约35%的患者出现中枢神经系统（CNS）影响，包括短暂性脑缺血发作、脑卒中、中毒性脑病（由感染性微栓子引起），以及如果中枢神经系统真菌性动脉瘤破裂导致的脑脓肿和蛛网膜下腔出血。
+肾栓塞可引起胁腹痛和罕见的肉眼血尿。
+脾栓塞可引起左上腹痛。
+长期感染可能引起脾肿大或杵状指和趾。
+这名感染性心内膜炎患者有多个Osler结节（脚趾上有触痛的红斑结节）。
+这名感染性心内膜炎患者有多个Osler结节（脚趾上有触痛的红斑结节）。
+© Springer Science+Business Media
+这名感染性心内膜炎患者的手掌有多个 Janeway 病变（无触痛的红斑丘疹）。患者也有一些Osler结节（手指上有触痛的红斑结节）。
+这名感染性心内膜炎患者的手掌有多个 Janeway 病变（无触痛的红斑丘疹）。患者也有一些Osler结节（手指上有触痛的红斑结节）。
+© Springer Science+Business Media
+左图显示拇指上的 Osler 结节（压痛和红斑结节）。右图显示Janeway病变（手掌上无压痛的红斑斑疹）。
+左图显示拇指上的 Osler 结节（压痛和红斑结节）。右图显示Janeway病变（手掌上无压痛的红斑斑疹）。
+© Springer Science+Business Media
+甲下线状出血是指甲下的小线状出血。
+甲下线状出血是指甲下的小线状出血。
+Image courtesy of CDC/Dr. Thomas F.Sellers via the Centers for Disease Control and Prevention Public Health Image Library.
+这名感染性心内膜炎患者有多个Osler结节（脚趾上有触痛的红斑结节）。
+这名感染性心内膜炎患者有多个Osler结节（脚趾上有触痛的红斑结节）。
+© Springer Science+Business Media
+这名感染性心内膜炎患者的手掌有多个 Janeway 病变（无触痛的红斑丘疹）。患者也有一些Osler结节（手指上有触痛的红斑结节）。
+这名感染性心内膜炎患者的手掌有多个 Janeway 病变（无触痛的红斑丘疹）。患者也有一些Osler结节（手指上有触痛的红斑结节）。
+© Springer Science+Business Media
+左图显示拇指上的 Osler 结节（压痛和红斑结节）。右图显示Janeway病变（手掌上无压痛的红斑斑疹）。
+左图显示拇指上的 Osler 结节（压痛和红斑结节）。右图显示Janeway病变（手掌上无压痛的红斑斑疹）。
+© Springer Science+Business Media
+甲下线状出血是指甲下的小线状出血。
+甲下线状出血是指甲下的小线状出血。
+Image courtesy of CDC/Dr. Thomas F.Sellers via the Centers for Disease Control and Prevention Public Health Image Library.
+这张照片显示的是一位感染性心内膜炎患者的结膜瘀点。
+这张照片显示的是一位感染性心内膜炎患者的结膜瘀点。
+© Springer Science+Business Media
+这张照片显示的是一位感染性心内膜炎患者的结膜出血。
+这张照片显示的是一位感染性心内膜炎患者的结膜出血。
+© Springer Science+Business Media
+左图显示多个罗斯斑或视网膜出血。 右图显示了Roth斑的局部特写，中央区域呈苍白改变。
+左图显示多个罗斯斑或视网膜出血。 右图显示了Roth斑的局部特写，中央区域呈苍白改变。
+© Springer Science+Business Media
+这张照片显示的是一位感染性心内膜炎患者的结膜瘀点。
+这张照片显示的是一位感染性心内膜炎患者的结膜瘀点。
+© Springer Science+Business Media
+这张照片显示的是一位感染性心内膜炎患者的结膜出血。
+这张照片显示的是一位感染性心内膜炎患者的结膜出血。
+© Springer Science+Business Media
+左图显示多个罗斯斑或视网膜出血。 右图显示了Roth斑的局部特写，中央区域呈苍白改变。
+左图显示多个罗斯斑或视网膜出血。 右图显示了Roth斑的局部特写，中央区域呈苍白改变。
+© Springer Science+Business Media
+
+【急性细菌性心内膜炎和人工瓣膜心内膜炎】
+急性细菌性心内膜炎和人工瓣膜性心内膜炎的症状和体征与亚急性细菌性心内膜炎的症状和体征相似，但病程更快。发烧（78%）、心脏杂音（65%）和充血性心力衰竭（27%）是最常见的症状（1）。化脓性脑膜炎罕见。
+
+【右侧心内膜炎】
+脓毒性肺栓塞可能引起咳嗽，胸膜性胸痛，有时有咯血。三尖瓣反流杂音是典型的体征。
+
+【症状和体征参考文献】
+1.Delgado V, Ajmone Marsan N, de Waha S, et al: 2023 ESC Guidelines for the management of endocarditis [published correction appears inEur Heart J2023 Sep 20] [published correction appears inEur Heart J2024 Jan 1;45(1):56].Eur Heart J44(39):3948–4042, 2023.doi:10.1093/eurheartj/ehad193
+1.Delgado V, Ajmone Marsan N, de Waha S, et al: 2023 ESC Guidelines for the management of endocarditis [published correction appears inEur Heart J2023 Sep 20] [published correction appears inEur Heart J2024 Jan 1;45(1):56].Eur Heart J44(39):3948–4042, 2023.doi:10.1093/eurheartj/ehad193
+
+【感染性心内膜炎的诊断】
+血培养或血清学检测
+血培养或血清学检测
+超声心动图和其他影像学检查
+超声心动图和其他影像学检查
+临床诊断标准
+临床诊断标准
+因为症状和体征是非特异性的，且变化很大，可能还隐匿地发生，因此诊断需要高度警惕。对于发热且无明显感染来源，特别是如果存在心脏杂音时应怀疑心内膜炎。如果有心脏瓣膜疾病病史、最近进行过某些侵入性手术或静脉药物滥用的患者的血液培养呈阳性，应高度怀疑心内膜炎。已证实有菌血症的患者应彻底而反复地检查有否新的杂音和栓塞的体征。
+除了阳性血液培养外，没有特异的实验室检查结果。已有的感染常引起正常细胞-正常血色素性贫血、白细胞计数增高、血沉增快、免疫球蛋白水平增高，以及循环免疫复合物和类风湿因子阳性，但是这些发现并无诊断性帮助。尿液分析常显示镜下血尿和偶尔有红细胞管型、脓尿或菌尿。
+
+【微生物的鉴定】
+微生物及其对抗生素的敏感性的确认对指导治疗至关重要。
+微生物及其对抗生素的敏感性的确认对指导治疗至关重要。
+若怀疑心内膜炎，应严格无菌操作采集至少2组（理想情况下为3组）血培养，每组包含一份需氧和一份厌氧培养。每个培养瓶应采集8至10 mL血液，理想情况下，样本采集间隔应大于6小时（如果症状提示为急性细菌性心内膜炎，则在前1至2小时内采集2个培养样本）。每次血培养应从新的穿刺部位采血（即，不能从预先留置的血管导管处采血）血液培养不需要限制在寒战或发烧期间，因为大多数患者都有持续的菌血症。当存在心内膜炎且之前未接受抗生素治疗时，如果在不同时间采集 2 个以上外周血样本（理想情况下间隔 6 小时以上），90% 的患者至少有一次培养呈阳性（1）。患有获得性或先天性瓣膜或分流病变的患者应避免过早使用经验性抗生素治疗，以避免无法分离出致病微生物（培养阴性）的心内膜炎 (2)。如果已经给予抗生素治疗，仍应取得血培养，但培养结果可能为阴性。
+对于某些生物，血培养可能需要 3 至 4 周的孵育时间；但是，大多数临床实验室配备的自动培养监测系统可以在一周内识别出阳性培养物。其他微生物（如，曲霉菌）可能不会产生阳性的血培养结果。有些微生物（如，Coxiella burnetii（伯氏立克次体）、Bartonella（巴尔通体）属、Chlamydia psittaci（鹦鹉热衣原体）、Brucella（布鲁菌）属）需要血清学诊断；其他的（如，Legionella pneumophila（嗜肺军团））则需要特殊的培养基或聚合酶链反应（如，Tropheryma whippelii（惠普尔病杆菌））。当培养或PCR检测未检出病原体时，宏基因组测序（游离DNA检测）可能有助于特定病例（2）。血液培养结果阴性可能表明以下原因导致抑制
+先前的抗菌治疗
+先前的抗菌治疗
+感染在标准培养基中无法生长的微生物
+感染在标准培养基中无法生长的微生物
+另一种诊断（例如，非感染性心内膜炎，伴有栓塞现象的心房粘液瘤，血管炎）
+另一种诊断（例如，非感染性心内膜炎，伴有栓塞现象的心房粘液瘤，血管炎）
+
+【影像学检查】
+经胸超声心动图(TTE) 应首先完成。它的敏感性为 50% 至 90%，特异性 > 90% (3)。经食道超声心动图 (TEE) 可以显示因太小而无法在TTE上看到的赘生物。它的灵敏度为 90% 到 100% (4)。
+在以下情况应进行经食管超声心动图检查
+当患者有人工瓣膜时 （TTE灵敏度受限）
+当患者有人工瓣膜时 （TTE灵敏度受限）
+经胸超声心动图无法诊断时
+经胸超声心动图无法诊断时
+已经临床确诊为感染性心内膜炎（用于检测穿孔，脓肿和瘘管）时
+已经临床确诊为感染性心内膜炎（用于检测穿孔，脓肿和瘘管）时
+连续经食管超声心动图能够诊断治疗过程中发生的并发症，如赘生物增大或脓肿形成。
+CT可根据需要用于明确瓣膜旁脓肿范围和检测真菌性动脉瘤。
+正电子发射断层扫描（PET）扫描提高了改良 Duke 标准的灵敏度（见表根据 2023 年杜克-国际心血管感染病学会制定的感染性心内膜炎临床标准) 而不损害特异性。它尤其适用于与植入设备相关的感染，因为植入设备的成像受到金属阴影和术后变化的影响(5, 6)。PET扫描还可检测心外感染，如脓毒症栓塞，也是诊断假体和心内装置引起心内膜炎的新兴工具。CT和PET异常现已纳入杜克标准和欧洲指南的主要诊断标准(5)。
+由于高达 70% 的患者有临床上无症状的病变，因此建议进行常规脑成像 (7)。它对预后和管理的效用尚未确定。
+
+【诊断标准】
+当在进行心脏手术、栓子切除术或尸体解剖时获得的心内膜赘生物中，从组织学上（或从组织的培养中）见到有微生物时感染性心内膜炎才可以确诊。因为通常不能取得赘生物进行检查，因此已经发展建立了各种临床诊断标准。其中包括最新版本的杜克标准（2023 年杜克-国际心血管传染病标准学会）（8)，其敏感性为 84%，特异性为 94% (9）（见表格感染性心内膜炎的定义和感染性心内膜炎的临床标准) 和欧洲心脏病学会 (ESC) 2023 年修订标准 (5）。
+
+【根据 2023 年杜克-国际心血管感染病学会标准对感染性心内膜炎的定义】
+根据 2023 年杜克-国际心血管感染病学会标准对感染性心内膜炎的定义
+临床诊断状态
+确诊心内膜炎
+病理标准：
+1.心内膜炎的组织病理学发现或
+2.有活动性心内膜炎临床症状的患者中发现的微生物
+临床标准 (以下标准之一)：
+2项主要标准
+2项主要标准
+1项主要标准和3项次要标准
+1项主要标准和3项次要标准
+5个次要标准
+5个次要标准
+疑诊心内膜炎
+以下标准之一：
+1 个主要标准和 1 个次要标准
+1 个主要标准和 1 个次要标准
+3个次要标准
+3个次要标准
+排斥性心内膜炎
+以下标准之一：
+明确的替代诊断解释了感染性心内膜炎的证据
+明确的替代诊断解释了感染性心内膜炎的证据
+尽管只经过<4天的抗菌治疗，仍然没有复发
+尽管只经过<4天的抗菌治疗，仍然没有复发
+在<4天抗生素治疗后，手术或尸检中未发现感染性心内膜炎的病理证据
+在<4天抗生素治疗后，手术或尸检中未发现感染性心内膜炎的病理证据
+未达到可能发生心内膜炎的临床标准（如上所列）
+未达到可能发生心内膜炎的临床标准（如上所列）
+数据来自第520页表1。Fowler VG, Durack DT, Selton-Suty C, et al: The 2023 Duke-International Society for Cardiovascular Infectious Diseases Criteria for Infective Endocarditis: Updating the Modified Duke Criteria [published correction appears inClin Infect Dis2023 Oct 13;77(8):1222].Clin Infect Dis77(4):518–526, 2023.doi:10.1093/cid/ciad271
+数据来自第520页表1。Fowler VG, Durack DT, Selton-Suty C, et al: The 2023 Duke-International Society for Cardiovascular Infectious Diseases Criteria for Infective Endocarditis: Updating the Modified Duke Criteria [published correction appears inClin Infect Dis2023 Oct 13;77(8):1222].Clin Infect Dis77(4):518–526, 2023.doi:10.1093/cid/ciad271
+
+【根据 2023 年杜克-国际心血管感染病学会制定的感染性心内膜炎临床标准】
+根据 2023 年杜克-国际心血管感染病学会制定的感染性心内膜炎临床标准
+主要标准
+微生物学:
+1.两组或两组以上培养出典型心内膜炎病原体的阳性血培养，或
+针对罕见或偶尔引起心内膜炎的病原体进行三组或更多组单独的血液培养，结果呈阳性
+2.通过聚合酶链反应或其他核酸技术从血液中识别出伯氏立克次体、巴尔通体属或惠普尔养障体，或
+针对Coxiella burnetii（伯氏考克斯体）感染的血清学证据（IgG滴度>1：800）或针对Coxiella burnetii（伯氏考克斯体）的一次阳性血培养，或
+间接免疫荧光法检测针对汉赛巴尔通体或五日巴尔通体的 IgM 和 IgG 抗体（IgG滴度>1:800）
+影像（如超声心动图、CT、[18F]-FDG-PET/CT(A)）：
+1.超声心动图和/或心脏 CT 检查显示赘生物、瓣膜/瓣叶穿孔/动脉瘤、脓肿、假性动脉瘤或心内瘘或
+1.超声心动图和/或心脏 CT 检查显示赘生物、瓣膜/瓣叶穿孔/动脉瘤、脓肿、假性动脉瘤或心内瘘或
+超声心动图检查显示明显的新瓣膜反流。恶化或改变先前存在的反流是不够的。或者
+超声心动图检查显示明显的新瓣膜反流。恶化或改变先前存在的反流是不够的。或者
+人工瓣膜出现新的部分裂开（与之前影像学检查结果相比）
+人工瓣膜出现新的部分裂开（与之前影像学检查结果相比）
+2.[18F]-FDG-PET/CT 显像显示自体瓣膜或人工瓣膜（瓣膜植入后至少 3 个月）、升主动脉移植物（同时存在瓣膜受累的证据）、心内装置导线或其他假体材料存在异常代谢活动
+2.[18F]-FDG-PET/CT 显像显示自体瓣膜或人工瓣膜（瓣膜植入后至少 3 个月）、升主动脉移植物（同时存在瓣膜受累的证据）、心内装置导线或其他假体材料存在异常代谢活动
+心脏手术期间直接检查发现感染性心内膜炎的证据。
+次要标准
+易感因素：
+感染性心内膜炎病史，
+感染性心内膜炎病史，
+人工瓣膜
+人工瓣膜
+先前的瓣膜修复
+先前的瓣膜修复
+先天性心脏病
+先天性心脏病
+任何病因引起的轻度以上反流或狭窄
+任何病因引起的轻度以上反流或狭窄
+血管内心内植入式电子设备
+血管内心内植入式电子设备
+肥厚型梗阻性心肌病
+肥厚型梗阻性心肌病
+注射毒品
+注射毒品
+发烧≥38.0°C （≥100.4°F）
+血管现象（有临床或影像证据证实）：
+动脉栓塞
+动脉栓塞
+脓毒症性肺梗死
+脓毒症性肺梗死
+大脑或脾脏脓肿
+大脑或脾脏脓肿
+细菌性动脉瘤
+细菌性动脉瘤
+颅内出血
+颅内出血
+结膜出血
+结膜出血
+Janeway病损
+Janeway病损
+化脓性紫癜
+化脓性紫癜
+免疫现象：
+免疫复合物肾小球肾炎
+免疫复合物肾小球肾炎
+Osler结节
+Osler结节
+Roth点
+Roth点
+类风湿因子
+类风湿因子
+符合主要标准但未完全满足的感染微生物学证据：
+1.血培养显示符合感染性心内膜炎的生物体或
+2.培养、PCR 或其他基于核酸的检测结果呈阳性，表明存在来自心脏组织、心脏假体或动脉栓塞以外的无菌身体部位的符合感染性心内膜炎的病原体；或在瓣膜或导线上通过 PCR 发现单一皮肤细菌，而没有其他临床或微生物学支持证据
+影像学标准：
+[18F]-FDG-PET/CT 显像显示自体瓣膜或人工瓣膜（瓣膜植入后 3 个月内）、升主动脉移植物（同时存在瓣膜受累的证据）、心内装置导线或其他假体材料存在异常代谢活动
+体格检查标准：
+如果无法进行超声心动图检查，则可听诊发现新的瓣膜反流。先前存在的反流恶化或改变不足以说明问题。
+数据来自第521页表2。Fowler VG, Durack DT, Selton-Suty C, et al: The 2023 Duke-International Society for Cardiovascular Infectious Diseases Criteria for Infective Endocarditis: Updating the Modified Duke Criteria [published correction appears inClin Infect Dis2023 Oct 13;77(8):1222].Clin Infect Dis77(4):518–526, 2023.doi:10.1093/cid/ciad271
+数据来自第521页表2。Fowler VG, Durack DT, Selton-Suty C, et al: The 2023 Duke-International Society for Cardiovascular Infectious Diseases Criteria for Infective Endocarditis: Updating the Modified Duke Criteria [published correction appears inClin Infect Dis2023 Oct 13;77(8):1222].Clin Infect Dis77(4):518–526, 2023.doi:10.1093/cid/ciad271
+
+【诊断参考】
+1.Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears in Circulation. 2021 Feb 2;143(5):e229. doi: 10.1161/CIR.0000000000000955] [published correction appears in Circulation. 2023 Aug 22;148(8):e8. doi: 10.1161/CIR.0000000000001177] [published correction appears in Circulation. 2023 Nov 14;148(20):e185. doi: 10.1161/CIR.0000000000001190].Circulation143(5):e72–e227, 2021.doi:10.1161/CIR.0000000000000923
+1.Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears in Circulation. 2021 Feb 2;143(5):e229. doi: 10.1161/CIR.0000000000000955] [published correction appears in Circulation. 2023 Aug 22;148(8):e8. doi: 10.1161/CIR.0000000000001177] [published correction appears in Circulation. 2023 Nov 14;148(20):e185. doi: 10.1161/CIR.0000000000001190].Circulation143(5):e72–e227, 2021.doi:10.1161/CIR.0000000000000923
+2.DeSimone DC, Garrigos ZE, Marx GE, et al: Blood Culture-Negative Endocarditis: A Scientific Statement From the American Heart Association: Endorsed by the International Society for Cardiovascular Infectious Diseases [published correction appears inJ Am Heart Assoc2025 Apr 23:e10928. doi: 10.1161/JAHA.124.035178].J Am Heart Assoc2025;14(8):e040218.doi:10.1161/JAHA.124.040218
+2.DeSimone DC, Garrigos ZE, Marx GE, et al: Blood Culture-Negative Endocarditis: A Scientific Statement From the American Heart Association: Endorsed by the International Society for Cardiovascular Infectious Diseases [published correction appears inJ Am Heart Assoc2025 Apr 23:e10928. doi: 10.1161/JAHA.124.035178].J Am Heart Assoc2025;14(8):e040218.doi:10.1161/JAHA.124.040218
+3.Bai AD, Steinberg M, Showler A, et al: Diagnostic Accuracy of Transthoracic Echocardiography for Infective Endocarditis Findings Using Transesophageal Echocardiography as the Reference Standard: A Meta-Analysis.J Am Soc Echocardiogr30(7):639–646.e8, 2017.doi:10.1016/j.echo.2017.03.007
+3.Bai AD, Steinberg M, Showler A, et al: Diagnostic Accuracy of Transthoracic Echocardiography for Infective Endocarditis Findings Using Transesophageal Echocardiography as the Reference Standard: A Meta-Analysis.J Am Soc Echocardiogr30(7):639–646.e8, 2017.doi:10.1016/j.echo.2017.03.007
+4.Shapiro SM, Young E, De Guzman S, et al: Transesophageal echocardiography in diagnosis of infective endocarditis.Chest105(2):377–382, 1994.doi:10.1378/chest.105.2.377
+4.Shapiro SM, Young E, De Guzman S, et al: Transesophageal echocardiography in diagnosis of infective endocarditis.Chest105(2):377–382, 1994.doi:10.1378/chest.105.2.377
+5.Delgado V, Ajmone Marsan N, de Waha S, et al: 2023 ESC Guidelines for the management of endocarditis [published correction appears inEur Heart J2023 Sep 20] [published correction appears inEur Heart J45(1):56, 2024].Eur Heart J44(39):3948–4042, 2023.doi:10.1093/eurheartj/ehad193
+5.Delgado V, Ajmone Marsan N, de Waha S, et al: 2023 ESC Guidelines for the management of endocarditis [published correction appears inEur Heart J2023 Sep 20] [published correction appears inEur Heart J45(1):56, 2024].Eur Heart J44(39):3948–4042, 2023.doi:10.1093/eurheartj/ehad193
+6.Dilsizian V, Budde RPJ, Chen W, et al: Best practices for imaging cardiac device-related infections and endocarditis: A JACC: Cardiovascular Imaging Expert Panel Statement.JACC Cardiovasc Imaging15(5):891–911, 2022. doi: 10.1016/j.jcmg.2021.09.029
+6.Dilsizian V, Budde RPJ, Chen W, et al: Best practices for imaging cardiac device-related infections and endocarditis: A JACC: Cardiovascular Imaging Expert Panel Statement.JACC Cardiovasc Imaging15(5):891–911, 2022. doi: 10.1016/j.jcmg.2021.09.029
+7.Hess A, Klein I, Iung B, et al: Brain MRI findings in neurologically asymptomatic patients with infective endocarditis.AJNR Am J Neuroradiol34(8):1579–1584, 2013.doi:10.3174/ajnr.A3582
+7.Hess A, Klein I, Iung B, et al: Brain MRI findings in neurologically asymptomatic patients with infective endocarditis.AJNR Am J Neuroradiol34(8):1579–1584, 2013.doi:10.3174/ajnr.A3582
+8.Fowler VG, Durack DT, Selton-Suty C, et al: The 2023 Duke-International Society for Cardiovascular Infectious Diseases Criteria for Infective Endocarditis: Updating the Modified Duke Criteria [published correction appears inClin Infect Dis2023 Oct 13;77(8):1222].Clin Infect Dis77(4):518–526, 2023.doi:10.1093/cid/ciad271
+8.Fowler VG, Durack DT, Selton-Suty C, et al: The 2023 Duke-International Society for Cardiovascular Infectious Diseases Criteria for Infective Endocarditis: Updating the Modified Duke Criteria [published correction appears inClin Infect Dis2023 Oct 13;77(8):1222].Clin Infect Dis77(4):518–526, 2023.doi:10.1093/cid/ciad271
+9.van der Vaart TW, Bossuyt PMM, Durack DT, et al: External Validation of the 2023 Duke-International Society for Cardiovascular Infectious Diseases Diagnostic Criteria for Infective Endocarditis.Clin Infect Dis78(4):922–929, 2024.doi:10.1093/cid/ciae033
+9.van der Vaart TW, Bossuyt PMM, Durack DT, et al: External Validation of the 2023 Duke-International Society for Cardiovascular Infectious Diseases Diagnostic Criteria for Infective Endocarditis.Clin Infect Dis78(4):922–929, 2024.doi:10.1093/cid/ciae033
+
+【感染性心内膜炎的治疗】
+静脉抗生素（基于病原体及其敏感性）
+静脉抗生素（基于病原体及其敏感性）
+有时可采取心脏瓣膜清创术，瓣膜修复或瓣膜置换。
+有时可采取心脏瓣膜清创术，瓣膜修复或瓣膜置换。
+牙科评估和治疗（尽量减少口腔菌血症的来源）
+牙科评估和治疗（尽量减少口腔菌血症的来源）
+消除潜在的菌血症来源（如内部导管、设备器械）
+消除潜在的菌血症来源（如内部导管、设备器械）
+脑栓塞患者暂停抗凝治疗
+脑栓塞患者暂停抗凝治疗
+治疗包括延长抗生素治疗的疗程 (1)。对于机械性并发症或耐药菌感染，可能需要手术治疗。通常，会给予静脉抗微生物治疗。由于需要进行2-8周的治疗，常采用家庭静脉治疗。
+任何明显的菌血症来源都必须予以处理：清除坏死组织，引流脓肿，并去除异物及感染装置。感染性心内膜炎患者应该由牙科医生进行评估，并对可能导致菌血症和紧随其后发生心内膜炎的口腔疾病进行治疗。应该更换已有的静脉导管（特别是中心静脉导管）。如果新置入中心静脉导管的患者持续存在心内膜炎，该导管也应被移除。如果应用连续滴注而非间歇注射的话，不应长时间中断滴注。
+黏附于导管和其他装置的生物膜内的微生物可能对抗生素治疗无反应，导致治疗的失败或疾病复发。
+
+【抗生素治疗方案】
+抗生素的选择和使用剂量取决于微生物种类及其对抗生素的敏感性。
+尽管大多数患者病情稳定，可以等待培养结果，但对于重症患者，病原体明确前给予经验性抗生素治疗可能是必要的。在获得足够的血液培养物（至少2份，理想情况下在1小时内从不同部位采集3份样本）之前，不应使用抗生素。经验性治疗方案应涵盖典型病原体（即葡萄球菌和链球菌种），考虑局部耐药模式，如 MRSA 流行率，并包括高效杀灭药物（如β-内酰胺类抗生素）。美国的典型治疗方案可能是万古霉素和头孢曲松。罹患由不太常见的病原体引起的心内膜炎或更难根除的感染的某些风险因素包括近期放置的人工瓣膜、长期的医疗环境暴露和危重疾病。在这些情况下通常开始联合治疗，通常包括更广泛的抗菌活性和考虑氨基糖苷类等协同药物。
+应根据培养结果尽快调整经验性用药方案。
+
+【心内膜炎，美国的一些抗生素治疗策略*】
+心内膜炎，美国的一些抗生素治疗策略*
+成人的药物和剂量
+对青霉素过敏的成人药物和剂量
+对青霉素敏感的链球菌（青霉素G MIC≤0.1mcg/mL）
+自体瓣膜心内膜炎：青霉素G 1200–1800万单位 iv.drip qd或200–300万单位 iv q4h，共4周；或者，如果同时使用庆大霉素3 mg/kg† iv/im qd，共2周。
+人工瓣膜心内膜炎：青霉素G 2400万单位 iv.drip qd 或400万单位 iv.drip q4h 共6周，或同时给予庆大霉素3mg/kg† iv/im（上限80mg），共2周
+头孢曲松2 g iv/im qd 共4周，用于自体瓣膜心内膜炎（人工瓣膜心内膜炎疗程为6周）；或者，若无青霉素过敏史，可同时给予庆大霉素3 mg/kg† iv/im qd 共2周。
+NVE：万古霉素‡15mg/kg 静滴 q12h，疗程4周（PVE疗程6周）
+对青霉素耐药的链球菌（青霉素G MIC>0.1mcg/mL）
+自体瓣膜心内膜炎：庆大霉素3 mg/kg† iv/im qd，共2周，加青霉素G 2400万单位 iv.drip qd 或400万单位 iv q4h，共4周
+人工瓣膜心内膜炎：庆大霉素3 mg/kg† iv/im qd 共2周，加青霉素G 2400万单位 iv.drip qd或400万单位 q4h，或头孢曲松2g iv/im qd 共6周
+万古霉素‡15mg/kg iv q12h，自体瓣膜心内膜炎疗程4周（人工瓣膜心内膜炎疗程6周）
+自体瓣膜心内膜炎和人工瓣膜心内膜炎：氨苄西林2g iv q4h，加头孢曲松2g iv q12h，共6周
+自体瓣膜心内膜炎和人工瓣膜心内膜炎：万古霉素15mg/kg iv q12h ，加庆大霉素3mg/kg iv/im qd，或庆大霉素1mg/kg iv/im q8h，共6周
+自体瓣膜心内膜炎和人工瓣膜心内膜炎：利奈唑胺600mg po或iv q12h，共6-8周
+自体瓣膜心内膜炎和人工瓣膜心内膜炎：达托霉素10~12mg/kg iv qd，共6~8周
+对苯唑西林敏感的葡萄球菌
+自体瓣膜心内膜炎：苯唑西林或萘夫西林2g iv q4h，共6周
+人工瓣膜心内膜炎：苯唑西林或萘夫西林2g iv q4h，共6~8周，加庆大霉素1mg/kg† iv q8h，共2周，再加利福平300mg iv或po q8h，共6~8周
+自体瓣膜心内膜炎：若无青霉素过敏史，可用头孢唑啉2g iv q8h，共6周（人工瓣膜心内膜炎疗程6~8周）
+自体瓣膜心内膜炎：万古霉素‡15mg/kg iv.drip q12h，共4周（人工瓣膜心内膜炎疗程6~8周）
+右侧NVE：达托霉素6mg/kg IV 每天一次，疗程6周
+耐苯唑西林的葡萄球菌
+对于自体瓣膜心内膜炎：万古霉素†15 mg/kg iv q12h，单用6周
+人工瓣膜心内膜炎：万古霉素‡15mg/kg iv q12h，共6~8周，加庆大霉素1mg/kg† iv q8h 共2周，加利福平300mg po q8h，共6~8周
+右侧NVE：达托霉素 6mg/kg IV 每天一次，疗程6周
+HACEK 微生物§
+自体瓣膜心内膜炎：头孢曲松2g iv/im qd ，共4周（人工瓣膜心内膜炎疗程6周）
+氨苄青霉素2g iv q4h，自体瓣膜心内膜炎疗程4周（人工瓣膜心内膜炎疗程6周）
+对于自体瓣膜心内膜炎（NVE），环丙沙星1000mg口服，每日一次或400mg 静脉注射，每12小时1次，持续4周（对于人工瓣膜心内膜炎[PVE]持续6周）
+自体瓣膜心内膜炎：如无青霉素过敏史，可用头孢曲松2g iv.drip qd，疗程4周（人工瓣膜心内膜炎疗程6周）
+非大肠菌群杆菌
+经敏感性证实的β-内酰胺类抗菌药物（如，头孢曲松2g iv.drip q12~24h，或头孢他啶2g iv.drip q8h），加氨基苷类药物（如，庆大霉素2mg/kg† iv.drip q8h），疗程6周。
+* 抗菌药物敏感性随时间而变化，并且抗菌药物敏感性存在位点特异性差异。来自熟悉这些模式的顾问的建议是必不可少的。
+† 基于肥胖患者的理想体重而非实际体重。
+‡ 用万古霉素，如果给予剂量>2g/24h，必须监测血药浓度
+§ HACEK 微生物：Haemophilus parainfluenzae（副流感嗜血杆菌）、H. aphrophilus（嗜沫嗜血杆菌）、Actinobacillus actinomycetemcomitans（伴放线放线杆菌）、Cardiobacterium hominis（人心杆菌）、Eikenella corrodens（腐蚀艾肯菌）和Kingella kingae（金氏金氏菌）。
+MIC=最小抑菌浓度；NVE =自体瓣膜心内膜炎; PVE =人工瓣膜心内膜炎。
+Adapted from Baddour LM, Wilson WR, Bayer AS, et al: Infective endocarditis in adults: Diagnosis, antimicrobial therapy, and management of complications; A scientific statement for healthcare professionals from the American Heart Association.Circulation132 (15):1435–1486, 2015.doi: 10.1161/CIR.0000000000000296
+* 抗菌药物敏感性随时间而变化，并且抗菌药物敏感性存在位点特异性差异。来自熟悉这些模式的顾问的建议是必不可少的。
+† 基于肥胖患者的理想体重而非实际体重。
+‡ 用万古霉素，如果给予剂量>2g/24h，必须监测血药浓度
+§ HACEK 微生物：Haemophilus parainfluenzae（副流感嗜血杆菌）、H. aphrophilus（嗜沫嗜血杆菌）、Actinobacillus actinomycetemcomitans（伴放线放线杆菌）、Cardiobacterium hominis（人心杆菌）、Eikenella corrodens（腐蚀艾肯菌）和Kingella kingae（金氏金氏菌）。
+MIC=最小抑菌浓度；NVE =自体瓣膜心内膜炎; PVE =人工瓣膜心内膜炎。
+Adapted from Baddour LM, Wilson WR, Bayer AS, et al: Infective endocarditis in adults: Diagnosis, antimicrobial therapy, and management of complications; A scientific statement for healthcare professionals from the American Heart Association.Circulation132 (15):1435–1486, 2015.doi: 10.1161/CIR.0000000000000296
+
+【经验与提示】
+经验与提示
+如果怀疑是心内膜炎，在获得充分的血培养结果（至少2份，理想情况下在1小时内从不同部位采集3份样本）之前，应暂停使用抗生素。
+如果怀疑是心内膜炎，在获得充分的血培养结果（至少2份，理想情况下在1小时内从不同部位采集3份样本）之前，应暂停使用抗生素。
+自体瓣膜右侧心内膜炎通常可用4周疗法治疗，对于某些典型病原体（如甲氧西林敏感S. aureus(金黄色葡萄球菌），若与庆大霉素联用，疗程甚至可缩短至2周。对于左侧心内膜炎，指南建议进行 6 周的肠外抗生素治疗。然而，一项针对无并发症的左侧心内膜炎的多中心、随机、非盲研究发现，改用口服抗生素（至少 10 天的肠外治疗后）并不劣于继续肠外治疗。另外，转用口服治疗的患者住院时间得以缩短。 这种方法有可能减轻心理压力以及长期住院肠外治疗所固有的一些风险（2)。长效脂糖肽类抗生素，如达巴万星，也已成功用于革兰氏阳性心内膜炎的序贯疗法的一部分（3）。对于无法在家中进行肠外治疗的患者，这些选择可能特别有用。
+
+【心瓣膜手术】
+有时需要手术（清创术，瓣膜修复或瓣膜置换术）来治疗感染性心内膜炎（4)。 以下情况提示需手术治疗：
+心力衰竭患者（特别是那些患有人工瓣膜、主动脉瓣或自体二尖瓣心内膜炎的患者，以及那些患有肺水肿或心源性休克的患者）
+心力衰竭患者（特别是那些患有人工瓣膜、主动脉瓣或自体二尖瓣心内膜炎的患者，以及那些患有肺水肿或心源性休克的患者）
+感染不受控制的患者（持续感染，真菌或耐药菌感染，复发性人工瓣膜心内膜炎或心内膜炎并发心脏传导阻滞，脓肿，动脉瘤，瘘管或扩大的赘生物者）
+感染不受控制的患者（持续感染，真菌或耐药菌感染，复发性人工瓣膜心内膜炎或心内膜炎并发心脏传导阻滞，脓肿，动脉瘤，瘘管或扩大的赘生物者）
+有栓塞风险的患者（特别是患有人工瓣膜、主动脉瓣或自体二尖瓣心内膜炎的患者，以及赘生物较大[定义为>10mm]或有复发性栓子的患者）。这些患者的早期手术可降低栓塞事件的风险。
+有栓塞风险的患者（特别是患有人工瓣膜、主动脉瓣或自体二尖瓣心内膜炎的患者，以及赘生物较大[定义为>10mm]或有复发性栓子的患者）。这些患者的早期手术可降低栓塞事件的风险。
+手术时机的把握需要有经验的临床医师来判断。如果由可纠正的病变引起的心力衰竭正在恶化（特别是当微生物是S. aureus(（金黄色葡萄球菌）、革兰氏阴性杆菌或真菌时），可能在抗生素治疗24-72小时后就需要手术。
+涉及植入心脏电子设备的心内膜炎需要完全移除起搏器或除颤器，包括所有导线和发生器。
+右侧心内膜炎通常需医学治疗。 如果手术是必要的（由于心力衰竭或药物治疗无效），那么瓣膜修复优于替换以避免由于任何持续静脉药物使用而导致未来的人工瓣膜感染。建议在三尖瓣手术时预防性放置心外膜起搏导线（5）。预防性放置可避免将来需要血管内起搏导线穿过（原生或人工）三尖瓣并可能导致三尖瓣反流。
+颅内出血或严重缺血性卒中后，手术通常要延迟一个月。
+服用抗凝剂的患者发生出血性中风和紧急侵入性手术导致出血的风险增加。脑栓塞患者应停止抗凝治疗，因为它会增加出血转化的风险。其他患者是否停止抗凝治疗的决定应基于出血性卒中和血栓栓塞的相对风险(6）。
+
+【对治疗的反应】
+治疗开始后，青霉素敏感的链球菌心内膜炎患者通常感觉好转，发热在3-7日内减轻。 发热可能不是由于感染持续的原因而继续（如，药物过敏、静脉炎、由栓塞引起的梗死）。葡萄球菌心内膜炎患者往往反应较慢。赘生物尺寸的减小可通过系列超声心动图进行监测。超声心动图检查应在治疗完成后进行，为瓣膜外观(包括无菌赘生物)和功能不全建立一个新的基线。
+复发通常发生在4周内。抗生素治疗可能有效，但也可能需要手术。在没有人工瓣膜的患者中，6周后心内膜炎的复发通常是由新的感染所引起而非疾病复发。甚至在成功进行抗生素治疗后，直到1年后仍有可能发生无菌性栓塞和瓣膜破裂。复发的风险很高，因此建议持续终生的牙科和皮肤卫生。因任何原因需要抗生素治疗的患者，在开始使用抗生素前，应至少采集3套血培养。
+
+【治疗参考文献】
+1.Baddour LM, Wilson WR, Bayer AS, et al: Infective endocarditis in adults: Diagnosis, antimicrobial therapy, and management of complications: A scientific statement for healthcare professionals from the American Heart Association.Circulation132:1435–1486, 2015.
+1.Baddour LM, Wilson WR, Bayer AS, et al: Infective endocarditis in adults: Diagnosis, antimicrobial therapy, and management of complications: A scientific statement for healthcare professionals from the American Heart Association.Circulation132:1435–1486, 2015.
+2.Iversen K, Ihlemann N, Gill SU, et al: Partial oral versus intravenous antibiotic treatment of endocarditis.N Engl J Med380:415–424, 2019.DOI: 10.1056/NEJMoa1808312
+2.Iversen K, Ihlemann N, Gill SU, et al: Partial oral versus intravenous antibiotic treatment of endocarditis.N Engl J Med380:415–424, 2019.DOI: 10.1056/NEJMoa1808312
+3.Fazili T, Bansal E, Garner D, Gomez M, Stornelli N:Dalbavancinas sequential therapy for infective endocarditis due to Gram-positive organisms: a review.Int J Antimicrob Agents61(4):106749, 2023.doi:10.1016/j.ijantimicag.2023.106749
+3.Fazili T, Bansal E, Garner D, Gomez M, Stornelli N:Dalbavancinas sequential therapy for infective endocarditis due to Gram-positive organisms: a review.Int J Antimicrob Agents61(4):106749, 2023.doi:10.1016/j.ijantimicag.2023.106749
+4.Cahill TJ, Baddour LM, Habib G, et al: Challenges in infective endocarditis.J Am Coll Cardiol69(3):325–344, 2017.
+4.Cahill TJ, Baddour LM, Habib G, et al: Challenges in infective endocarditis.J Am Coll Cardiol69(3):325–344, 2017.
+5.Delgado V, Ajmone Marsan N, de Waha S, et al: 2023 ESC Guidelines for the management of endocarditis [published correction appears inEur Heart J2023 Sep 20] [published correction appears inEur Heart J45(1):56, 2024].Eur Heart J44(39):3948–4042, 2023.doi:10.1093/eurheartj/ehad193
+5.Delgado V, Ajmone Marsan N, de Waha S, et al: 2023 ESC Guidelines for the management of endocarditis [published correction appears inEur Heart J2023 Sep 20] [published correction appears inEur Heart J45(1):56, 2024].Eur Heart J44(39):3948–4042, 2023.doi:10.1093/eurheartj/ehad193
+6.Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the management of patients with valvular heart disease: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.J Am Coll Cardiol77(4):e25–e197, 2021. doi: 10.1016/j.jacc.2020.11.018
+6.Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the management of patients with valvular heart disease: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.J Am Coll Cardiol77(4):e25–e197, 2021. doi: 10.1016/j.jacc.2020.11.018
+
+【感染性心内膜炎的预后】
+总体而言，心内膜炎的院内死亡率为 15%～20%，1 年死亡率接近 40%(1)。未治疗的感染性心内膜炎总是致命的。即使接受治疗，老年患者以及有以下情况的患者，死亡可能性更大，预后也普遍更差：
+耐药菌的感染
+耐药菌的感染
+潜在的问题
+潜在的问题
+治疗上的长时间延误
+治疗上的长时间延误
+主动脉瓣或多个瓣膜受累
+主动脉瓣或多个瓣膜受累
+大的赘生物
+大的赘生物
+多种微生物菌血症
+多种微生物菌血症
+人工瓣膜感染
+人工瓣膜感染
+细菌性动脉瘤
+细菌性动脉瘤
+瓣环脓肿
+瓣环脓肿
+主要栓塞事件
+主要栓塞事件
+脓毒性休克更易发生于糖尿病患者、急性肾损伤患者、S. aureus（金黄色葡萄球菌）感染患者、赘生物＞15mm或存在持续性感染征象的患者。草绿色链球菌心内膜炎不伴有严重并发症的病死率<10%(2)，但人工瓣膜术后Aspergillus（曲霉菌）性心内膜炎的病死率大于90%(3)。
+右侧心内膜炎的预后比左侧心内膜炎更好，因为患者对三尖瓣功能不全的耐受性更好，且无系统性栓塞、右侧S. aureus（金黄色葡萄球菌）性心内膜炎对抗生素治疗的反应性更好。
+
+【预后参考】
+1.Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the management of patients with valvular heart disease: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.J Am Coll Cardiol77(4):e25–e197, 2021. doi: 10.1016/j.jacc.2020.11.018
+1.Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the management of patients with valvular heart disease: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.J Am Coll Cardiol77(4):e25–e197, 2021. doi: 10.1016/j.jacc.2020.11.018
+2.Hill EE, Herijgers P, Claus P, et al: Infective endocarditis: changing epidemiology and predictors of 6-month mortality: a prospective cohort study.Eur Heart J28(2):196–203, 2007.doi:10.1093/eurheartj/ehl427
+2.Hill EE, Herijgers P, Claus P, et al: Infective endocarditis: changing epidemiology and predictors of 6-month mortality: a prospective cohort study.Eur Heart J28(2):196–203, 2007.doi:10.1093/eurheartj/ehl427
+3.Gumbo T, Taege AJ, Mawhorter S, et al.Aspergillus valve endocarditis in patients without prior cardiac surgery. Medicine (Baltimore).2000;79(4):261-268.doi:10.1097/00005792-200007000-00007
+3.Gumbo T, Taege AJ, Mawhorter S, et al.Aspergillus valve endocarditis in patients without prior cardiac surgery. Medicine (Baltimore).2000;79(4):261-268.doi:10.1097/00005792-200007000-00007
+
+【感染性心内膜炎的预防】
+在进行心脏瓣膜修复或先天性心脏病手术之前推荐牙科检查和治疗进行预防。
+建议采取措施减少医源性菌血症的发生，从而控制医源性菌血症和继发性心内膜炎的上升趋势（1）。
+植入假体装置期间的心内膜炎预防正在发生变化，以适应肠球菌引起的心内膜炎的增加。预防通常包括添加万古霉素或使用阿莫西林/克拉维酸代替头孢菌素（2）。
+对于一般人群推荐牙科和皮肤卫生，特别是对于中度风险（患有自体瓣膜病的患者）和高风险患者。
+
+【高危患者】
+美国心脏协会（AHA）建议对感染性心内膜炎导致不良后果的高危患者进行抗菌预防（3)。这些患者包括：
+人工假体心脏瓣膜，包括经导管植入假体
+人工假体心脏瓣膜，包括经导管植入假体
+用于心脏瓣膜修复的假体材料（例如瓣环成形术环，弦）
+用于心脏瓣膜修复的假体材料（例如瓣环成形术环，弦）
+感染性心内膜炎病史
+感染性心内膜炎病史
+某些先天性心脏病(CHD): 未修复的发绀型先天性心脏病（包括姑息性分流和导管），术后最初6个月内使用了人工材料或器械的完全修复型先天性心脏病，以及修复部位或邻近修复部位存在残余缺损的修复型先天性心脏病。
+某些先天性心脏病(CHD): 未修复的发绀型先天性心脏病（包括姑息性分流和导管），术后最初6个月内使用了人工材料或器械的完全修复型先天性心脏病，以及修复部位或邻近修复部位存在残余缺损的修复型先天性心脏病。
+有心脏瓣膜病的心脏移植患者。
+有心脏瓣膜病的心脏移植患者。
+
+【需要预防性使用抗生素的手术】
+对于高危患者，大多数需要进行预防的手术，是那些涉及牙龈或牙齿根尖周区域或穿破口腔黏膜的口腔牙科手术（见表需要进行感染性心内膜炎抗菌药物预防的手术）。其他程序包括
+切开粘膜的呼吸道手术
+切开粘膜的呼吸道手术
+对高风险的特定患者（装有人工心脏瓣膜或用于心脏瓣膜修复的人工材料的患者，以及未修复且经过姑息治疗的发绀型先天性心脏病患者）进行阴道分娩或剖宫产
+对高风险的特定患者（装有人工心脏瓣膜或用于心脏瓣膜修复的人工材料的患者，以及未修复且经过姑息治疗的发绀型先天性心脏病患者）进行阴道分娩或剖宫产
+涉及已感染区域的胃肠道手术
+涉及已感染区域的胃肠道手术
+涉及已感染区域的泌尿生殖系统手术
+涉及已感染区域的泌尿生殖系统手术
+涉及已感染区域的肌肉骨骼手术
+涉及已感染区域的肌肉骨骼手术
+认识到其他非牙科手术也可能导致心内膜炎可能会导致未来指南中扩大此列表（4，5）。
+
+【对于患心内膜炎风险较高的患者，需要进行抗生素预防心内膜炎的手术】
+对于患心内膜炎风险较高的患者，需要进行抗生素预防心内膜炎的手术
+口腔-牙科*
+牙科种植体植入和脱位牙再植
+牙周处理，包括手术、刮治、根面处理和探查
+当预期有出血时，对牙齿或种植体进行预防性清洁
+根管治疗器械或手术范围超出根尖孔
+需要切取黏膜的支气管镜检查
+在有已知感染的部位进行操作
+扁桃体切除术或腺样增殖体切除术
+无，除非在有已知感染部位进行操作
+泌尿生殖道
+无，除非在有已知感染部位进行操作（如，在有已知肠球菌感染的泌尿道感染时进行膀胱镜检查）
+肌肉骨骼
+无，除非在有已知感染部位进行操作
+无，除非在有已知感染部位进行操作
+*例如，通过未感染的黏膜进行麻醉注射和放置正畸托槽，这些口腔牙科手术不需要预防。
+Data from Wilson W, Taubert KS, Gewitz M, et al: Prevention of infective endocarditis.Circulation116 (15):1736–1754, 2007 and Warnes CA, Williams RG, Bashore TM, et al: ACC/AHA 2008 Guidelines for the Management of Adults with Congenital Heart Disease: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines.Circulation118(23):e714, 2008.
+*例如，通过未感染的黏膜进行麻醉注射和放置正畸托槽，这些口腔牙科手术不需要预防。
+Data from Wilson W, Taubert KS, Gewitz M, et al: Prevention of infective endocarditis.Circulation116 (15):1736–1754, 2007 and Warnes CA, Williams RG, Bashore TM, et al: ACC/AHA 2008 Guidelines for the Management of Adults with Congenital Heart Disease: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines.Circulation118(23):e714, 2008.
+
+【抗生素治疗方案】
+对于大多数患者和手术操作，术前单次给药是有效的。对于口腔-牙科和呼吸系统手术，可使用对草绿色链球菌有效的药物（见表口腔-牙科或呼吸道手术中推荐的心内膜炎预防）。
+对于阴道分娩，在分娩前30分钟内给予氨苄青霉素2g IV或IM加庆大霉素1.5mg/kg（最多120mg）IV，然后给予氨苄青霉素1g IV或IM（或阿莫西林1g [作为三水化合物] 口服） 6小时后。
+对于涉及感染组织的胃肠道、泌尿生殖道和肌肉骨骼手术，应根据已知病原体及其药敏结果选择抗生素。 如果存在感染，但还没有确定感染的病原体，针对胃肠道和泌尿系统预防性使用抗生素应该对肠球菌有效（例如，阿莫西林或氨苄西林或对青霉素过敏的患者使用万古霉素）。
+针对皮肤和骨骼预防性使用抗生素应该对葡萄球菌和beta-溶血性链球菌有效（例如，如果怀疑是耐甲氧西林金黄色葡萄球菌感染，可使用头孢霉素或万古霉素或克林霉素）。
+各个地区预防心内膜炎的指南差异较大。
+有关预防方案的更多信息，请参阅美国心脏协会和欧洲心脏病学会的指南（3、4）。
+
+【预防参考文献】
+1.García-Rodríguez JF, Mariño-Callejo A: The factors associated with the trend in incidence of Bacteraemia and associated mortality over 30 years.BMC Infect Dis23(1):69, 2023.doi:10.1186/s12879-023-08018-0
+1.García-Rodríguez JF, Mariño-Callejo A: The factors associated with the trend in incidence of Bacteraemia and associated mortality over 30 years.BMC Infect Dis23(1):69, 2023.doi:10.1186/s12879-023-08018-0
+2.Cuervo G, Quintana E, Regueiro A, et al: The Clinical Challenge of Prosthetic Valve Endocarditis: JACC Focus Seminar 3/4.J Am Coll Cardiol83(15):1418–1430, 2024.doi:10.1016/j.jacc.2024.01.037
+2.Cuervo G, Quintana E, Regueiro A, et al: The Clinical Challenge of Prosthetic Valve Endocarditis: JACC Focus Seminar 3/4.J Am Coll Cardiol83(15):1418–1430, 2024.doi:10.1016/j.jacc.2024.01.037
+3.Wilson WR, Gewitz M, Lockhart PB, et al: Prevention of Viridans Group Streptococcal Infective Endocarditis: A Scientific Statement From the American Heart Association [published correction appears inCirculation2021 Aug 31;144(9):e192] [published correction appears inCirculation2022 Apr 26;145(17):e868].Circulation143(20):e963–e978, 2021.doi:10.1161/CIR.0000000000000969
+3.Wilson WR, Gewitz M, Lockhart PB, et al: Prevention of Viridans Group Streptococcal Infective Endocarditis: A Scientific Statement From the American Heart Association [published correction appears inCirculation2021 Aug 31;144(9):e192] [published correction appears inCirculation2022 Apr 26;145(17):e868].Circulation143(20):e963–e978, 2021.doi:10.1161/CIR.0000000000000969
+4.Delgado V, Ajmone Marsan N, de Waha S, et al: 2023 ESC Guidelines for the management of endocarditis [published correction appears inEur Heart J2023 Sep 20] [published correction appears inEur Heart J45(1):56, 2024].Eur Heart J44(39):3948–4042, 2023.doi:10.1093/eurheartj/ehad193
+4.Delgado V, Ajmone Marsan N, de Waha S, et al: 2023 ESC Guidelines for the management of endocarditis [published correction appears inEur Heart J2023 Sep 20] [published correction appears inEur Heart J45(1):56, 2024].Eur Heart J44(39):3948–4042, 2023.doi:10.1093/eurheartj/ehad193
+5.Baddour LM, Janszky I, Thornhill MH, et al: Nondental Invasive Procedures and Risk of Infective Endocarditis: Time for a Revisit: A Science Advisory From the American Heart Association.Circulation148(19):1529–1541, 2023.doi:10.1161/CIR.0000000000001180
+5.Baddour LM, Janszky I, Thornhill MH, et al: Nondental Invasive Procedures and Risk of Infective Endocarditis: Time for a Revisit: A Science Advisory From the American Heart Association.Circulation148(19):1529–1541, 2023.doi:10.1161/CIR.0000000000001180
+因为正常心脏相对能抵抗感染，心内膜炎的发生主要在于心内膜原来就有异常。
+因为正常心脏相对能抵抗感染，心内膜炎的发生主要在于心内膜原来就有异常。
+诱发心脏异常的因素包括先天性心脏缺陷、风湿性瓣膜病、二叶式或钙化性主动脉瓣、二尖瓣脱垂、肥厚型心肌病、既往心内膜炎史和植入性心脏装置。
+诱发心脏异常的因素包括先天性心脏缺陷、风湿性瓣膜病、二叶式或钙化性主动脉瓣、二尖瓣脱垂、肥厚型心肌病、既往心内膜炎史和植入性心脏装置。
+心脏局部并发症包括心肌脓肿、传导系统异常及急性重度瓣膜返流。
+心脏局部并发症包括心肌脓肿、传导系统异常及急性重度瓣膜返流。
+全身性并发症包括免疫现象（例如，肾小球肾炎）和脓毒性栓塞，可能影响任何器官，但尤其影响肺部（右心内膜炎时）、肾脏、脾脏、中枢神经系统、皮肤和视网膜（左心内膜炎时）。
+全身性并发症包括免疫现象（例如，肾小球肾炎）和脓毒性栓塞，可能影响任何器官，但尤其影响肺部（右心内膜炎时）、肾脏、脾脏、中枢神经系统、皮肤和视网膜（左心内膜炎时）。
+获取血培养并使用改良的Duke标准或欧洲心脏病学会临床标准进行诊断。
+获取血培养并使用改良的Duke标准或欧洲心脏病学会临床标准进行诊断。
+长期抗生素治疗；对机械性并发症或耐药微生物可能需要手术治疗。
+长期抗生素治疗；对机械性并发症或耐药微生物可能需要手术治疗。
+对感染性心内膜炎不良结局高风险患者给予抗菌药物预防，包括人工心脏瓣膜或心脏瓣膜修复术后患者、既往感染性心内膜炎史、某些先天性心脏病患者，或心脏移植术后伴瓣膜病变者。
+对感染性心内膜炎不良结局高风险患者给予抗菌药物预防，包括人工心脏瓣膜或心脏瓣膜修复术后患者、既往感染性心内膜炎史、某些先天性心脏病患者，或心脏移植术后伴瓣膜病变者。

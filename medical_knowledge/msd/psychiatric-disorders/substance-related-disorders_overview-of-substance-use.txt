@@ -1,0 +1,69 @@
+标题：物质使用概述
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/substance-related-disorders/overview-of-substance-use
+============================================================
+
+物质使用障碍涉及能够直接激活大脑奖赏系统的物质。多巴胺是该奖赏系统的主要神经递质，尽管 γ- 氨基丁酸（GABA）、内源性阿片类物质、大麻素和其他神经递质会根据具体物质发挥作用（1）。奖励系统的激活通常会引起愉悦感；引起的愉悦感的具体特征因药物而异。这些药物或物质被分为10类，但它们的药理学机制并不完全不同（1, 2）。（见表常与物质相关障碍相关的十类药物。）
+
+【常与物质相关障碍相关的十类药物】
+常与物质相关障碍相关的十类药物
+大麻和合成大麻素
+致幻剂（例如，LSD、苯环利定、裸盖菇素、3,4-亚甲二氧基甲基苯丙胺 [MDMA])
+吸入剂（挥发性碳氢化合物[如涂料稀释剂，某些胶水]）
+阿片类药物（如芬太尼、吗啡，羟考酮）
+镇静剂、安眠药和抗焦虑药（如劳拉西泮、司可巴比妥）
+中枢神经兴奋剂（如苯丙胺类、可卡因）
+其他（如合成代谢类固醇）
+这种分类并非依据药物是否合法（如酒精、咖啡因）、非法（如致幻剂）或可凭处方获取（如吗啡、劳拉西泮）。
+术语“麻醉药”既是法律用语，也是日常俗语。最初，它指能够引起麻醉（无知觉或昏迷）的药物，尤其是阿片类药物（如鸦片、鸦片衍生物）。然而，该术语目前的使用极为混乱（例如，美国政府将兴奋剂可卡因归类为麻醉药），因此几乎已失去其科学或医学上的确切含义。
+使用物质（中毒）及其随后的停止使用（戒断）会导致心理、行为和生理变化。药物滥用也可能导致精神障碍（例如，抑郁症、精神病、焦虑或神经认知障碍）（3–5）。
+物质使用障碍是指一种病理性行为模式，患者即便已因使用某种物质出现严重问题，仍持续使用该物质。还存在生理表现，包括神经回路的变化（1, 6）。“物质使用障碍”一词比“成瘾”、“滥用”或“依赖”更准确、定义更清晰，且负面含义更少。
+10类药品造成物质使用障碍的程度各不相同。物质被滥用或导致物质使用障碍的可能性取决于多种因素的综合作用，包括以下方面（7）：
+给药途径
+给药途径
+药物穿过血脑屏障和刺激奖赏回路的速率
+药物穿过血脑屏障和刺激奖赏回路的速率
+作用发生的时间
+作用发生的时间
+诱导耐受和/或戒断症状的程度
+诱导耐受和/或戒断症状的程度
+
+【管制药品（受控物质）】
+在美国，归类为受控物质的药物受美国缉毒局（DEA）监管。（参见表格受管制物质部分示例）。根据管制物质是否可能引发物质使用障碍、是否有公认的医疗用途以及能否在医疗监督下安全使用，管制物质被分为5个等级（或类别）。管制级别分类决定了某一物质必须采取何种管控方式。
+附表一：这些物质具有高度滥用潜力，美国缉毒局不承认其医疗用途，且缺乏公认的安全性。此类物质仅可在政府批准的研究条件下使用。
+附表一：这些物质具有高度滥用潜力，美国缉毒局不承认其医疗用途，且缺乏公认的安全性。此类物质仅可在政府批准的研究条件下使用。
+附表II至IV：这些药物滥用的可能性依次递减（从附表II至附表IV）。它们具有公认的医疗用途。这些药物的处方必须附有医生的联邦 DEA 执照号码。
+附表II至IV：这些药物滥用的可能性依次递减（从附表II至附表IV）。它们具有公认的医疗用途。这些药物的处方必须附有医生的联邦 DEA 执照号码。
+第五类：这些物质被滥用的可能性最小。一些第五类管制药物不需要处方。
+第五类：这些物质被滥用的可能性最小。一些第五类管制药物不需要处方。
+各州的管制药品分级可能与联邦分级有所不同。
+
+【管制药物示例】
+管制药物示例
+美国缉毒局管制清单
+海洛因、LSD、大麻、摇头丸、GHB、佩奥特掌
+甲基苯丙胺和苯丙胺衍生物、阿片类药物、哌替啶、可卡因、具有高度滥用潜力的巴比妥类药物（例如，戊巴比妥）
+合成代谢类固醇、可待因、氯胺酮、睾酮、具有中度滥用潜力的巴比妥类药物（例如，布他比妥）
+苯二氮卓类药物、水合氯醛、莫达非尼、唑吡坦、具有较低滥用潜力的巴比妥类药物（例如，苯巴比妥）
+含少量可待因、地芬诺酯/阿托品、普瑞巴林的镇咳药
+*不可处方
+GHB = γ-羟基丁酸；LSD = 麦角酸二乙酰胺；MDMA = 3,4-亚甲二氧基甲基苯丙胺；USDEA = 美国缉毒局
+See also thecomplete list USDEA controlled substances.
+*不可处方
+GHB = γ-羟基丁酸；LSD = 麦角酸二乙酰胺；MDMA = 3,4-亚甲二氧基甲基苯丙胺；USDEA = 美国缉毒局
+See also thecomplete list USDEA controlled substances.
+
+【参考文献】
+1.Volkow ND, Michaelides M, Baler R.The Neuroscience of Drug Reward and Addiction.Physiol Rev.2019;99(4):2115-2140.doi:10.1152/physrev.00014.2018
+1.Volkow ND, Michaelides M, Baler R.The Neuroscience of Drug Reward and Addiction.Physiol Rev.2019;99(4):2115-2140.doi:10.1152/physrev.00014.2018
+2.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders.5th ed, Text Revision.American Psychiatric Association Publishing; 2022:543-553.
+2.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders.5th ed, Text Revision.American Psychiatric Association Publishing; 2022:543-553.
+3.Tucker JS, Huang W, Green HD Jr, Pollard MS.Patterns of Substance Use and Associations with Mental, Physical, and Social Functioning: A Latent Class Analysis of a National Sample of U.S. Adults Ages 30-80.Subst Use Misuse.2021;56(1):131-139.doi:10.1080/10826084.2020.1843059
+3.Tucker JS, Huang W, Green HD Jr, Pollard MS.Patterns of Substance Use and Associations with Mental, Physical, and Social Functioning: A Latent Class Analysis of a National Sample of U.S. Adults Ages 30-80.Subst Use Misuse.2021;56(1):131-139.doi:10.1080/10826084.2020.1843059
+4.Fiorentini A, Cantù F, Crisanti C, Cereda G, Oldani L, Brambilla P.Substance-Induced Psychoses: An Updated Literature Review.Front Psychiatry.2021;12:694863.Published 2021 Dec 23.doi:10.3389/fpsyt.2021.694863
+4.Fiorentini A, Cantù F, Crisanti C, Cereda G, Oldani L, Brambilla P.Substance-Induced Psychoses: An Updated Literature Review.Front Psychiatry.2021;12:694863.Published 2021 Dec 23.doi:10.3389/fpsyt.2021.694863
+5.Melugin PR, Nolan SO, Siciliano CA.Bidirectional causality between addiction and cognitive deficits.Int Rev Neurobiol.2021;157:371-407.doi:10.1016/bs.irn.2020.11.001
+5.Melugin PR, Nolan SO, Siciliano CA.Bidirectional causality between addiction and cognitive deficits.Int Rev Neurobiol.2021;157:371-407.doi:10.1016/bs.irn.2020.11.001
+6.McNally GP, Jean-Richard-Dit-Bressel P, Millan EZ, Lawrence AJ.Pathways to the persistence of drug use despite its adverse consequences.Mol Psychiatry.2023;28(6):2228-2237.doi:10.1038/s41380-023-02040-z
+6.McNally GP, Jean-Richard-Dit-Bressel P, Millan EZ, Lawrence AJ.Pathways to the persistence of drug use despite its adverse consequences.Mol Psychiatry.2023;28(6):2228-2237.doi:10.1038/s41380-023-02040-z
+7.Allain F, Minogianis EA, Roberts DC, Samaha AN.How fast and how often: The pharmacokinetics of drug use are decisive in addiction.Neurosci Biobehav Rev.2015;56:166-179.doi:10.1016/j.neubiorev.2015.06.012
+7.Allain F, Minogianis EA, Roberts DC, Samaha AN.How fast and how often: The pharmacokinetics of drug use are decisive in addiction.Neurosci Biobehav Rev.2015;56:166-179.doi:10.1016/j.neubiorev.2015.06.012

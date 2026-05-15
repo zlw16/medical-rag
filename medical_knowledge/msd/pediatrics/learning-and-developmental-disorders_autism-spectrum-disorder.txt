@@ -1,0 +1,129 @@
+标题：自闭症谱系障碍
+来源：https://www.msdmanuals.cn/professional/pediatrics/learning-and-developmental-disorders/autism-spectrum-disorder
+============================================================
+
+自闭症谱系障碍代表了一系列神经发育差异，被认为是神经发育障碍。
+神经发育障碍是儿童早期出现的神经基础疾病，通常在入学前出现，影响个人、社会、学术和/或职业功能的发展。他们通常涉及获取，保留或应用特定技能或信息集的困难。神经发育障碍可能涉及注意，记忆，感知，语言，问题解决或社会交互的功能障碍。 其他常见的神经发育障碍包括：注意缺陷/多动障碍，学习障碍（例如，阅读障碍），和智力障碍。
+目前，美国自闭症谱系障碍的患病率估计在 1/36 左右（基于对 8 岁儿童自闭症谱系障碍患病率的估计）（1)，其他国家的情况也类似。自闭症谱系障碍在男孩中的发病率大约是女孩的4倍。被诊断为自闭症谱系障碍的病例数有所增加，部分原因是诊断标准的变化。
+
+【参考文献】
+1.Maenner MJ, Shaw KA, Bakian AV, et al: Prevalence and Characteristics of Autism Spectrum Disorder Among Children Aged 8 Years - Autism and Developmental Disabilities Monitoring Network, 11 Sites, United States, 2018.MMWR Surveill Summ70(11):1–16, 2021.Published 2021 Dec 3.doi:10.15585/mmwr.ss7011a1
+1.Maenner MJ, Shaw KA, Bakian AV, et al: Prevalence and Characteristics of Autism Spectrum Disorder Among Children Aged 8 Years - Autism and Developmental Disabilities Monitoring Network, 11 Sites, United States, 2018.MMWR Surveill Summ70(11):1–16, 2021.Published 2021 Dec 3.doi:10.15585/mmwr.ss7011a1
+
+【孤独症的病因】
+大多数自闭症谱系障碍的病例中的特定病因仍未知。但有些合并先天性风疹综合征、巨细胞包涵体病、苯丙酮尿症，结节性硬化症或脆性X染色体综合征。
+有较强证据表明本症与遗传有关(1)。对于拥有一个患有自闭症谱系障碍的孩子的父母来说，下一个孩子患自闭症谱系疾病的风险约为5%至10% (2)。如果受影响的孩子是女性，风险会更高（约 7%），如果受影响的孩子是男性，风险会更低（约 4%） (3)。单卵双胎发病的同一率明显增高。家族研究发现一些潜在的靶基因区域，包括与神经递质受体（如血清素和γ-氨基丁酸[GABA]）以及中枢神经系统结构控制（HOX基因）相关的基因。
+环境原因被怀疑，但未得到证实。有令人信服的证据表明，接种疫苗不会导致自闭症，而提出这种关联的主要研究因其作者伪造数据而被撤销（另见麻疹-腮腺炎-风疹（MMR）疫苗）。
+脑结构和功能的差异可能是自闭症谱系障碍的许多病因的基础。在小脑、杏仁核、海马、额叶皮层和脑干核中发现了差异 (4)。
+研究还表明，自闭症谱系障碍的发病率随着早产儿（5）的增加而增加。
+
+【病因参考文献】
+1.Hyman SL, Levy SE, Myers SM; COUNCIL ON CHILDREN WITH DISABILITIES, SECTION ON DEVELOPMENTAL AND BEHAVIORAL PEDIATRICS: Identification, Evaluation, and Management of Children With Autism Spectrum Disorder.Pediatrics145(1):e20193447, 2020.doi:10.1542/peds.2019-3447
+1.Hyman SL, Levy SE, Myers SM; COUNCIL ON CHILDREN WITH DISABILITIES, SECTION ON DEVELOPMENTAL AND BEHAVIORAL PEDIATRICS: Identification, Evaluation, and Management of Children With Autism Spectrum Disorder.Pediatrics145(1):e20193447, 2020.doi:10.1542/peds.2019-3447
+2.Hansen SN, Schendel DE, Francis RW, et al: Recurrence Risk of Autism in Siblings and Cousins: A Multinational, Population-Based Study.J Am Acad Child Adolesc Psychiatry58(9):866–875, 2019.doi:10.1016/j.jaac.2018.11.017
+2.Hansen SN, Schendel DE, Francis RW, et al: Recurrence Risk of Autism in Siblings and Cousins: A Multinational, Population-Based Study.J Am Acad Child Adolesc Psychiatry58(9):866–875, 2019.doi:10.1016/j.jaac.2018.11.017
+3.Palmer N, Beam A, Agniel D, et al: Association of Sex With Recurrence of Autism Spectrum Disorder Among Siblings.JAMA Pediatr171(11):1107–1112, 2017.doi:10.1001/jamapediatrics.2017.2832
+3.Palmer N, Beam A, Agniel D, et al: Association of Sex With Recurrence of Autism Spectrum Disorder Among Siblings.JAMA Pediatr171(11):1107–1112, 2017.doi:10.1001/jamapediatrics.2017.2832
+4.Donovan APA, Basson MA: The neuroanatomy of autism—A developmental perspective.J Anat230(1): 4–15, 2017.doi: 10.1111/joa.12542
+4.Donovan APA, Basson MA: The neuroanatomy of autism—A developmental perspective.J Anat230(1): 4–15, 2017.doi: 10.1111/joa.12542
+5.Crump C, Sundquist J, Sundquist K: Preterm or early term birth and risk of autism.Pediatrics148(3):e2020032300, 2021.doi: 10.1542/peds.2020-032300
+5.Crump C, Sundquist J, Sundquist K: Preterm or early term birth and risk of autism.Pediatrics148(3):e2020032300, 2021.doi: 10.1542/peds.2020-032300
+
+【自闭症谱系障碍的症状和体征】
+自闭症谱系障碍可能在生命的第一年显现，但根据症状的严重程度，诊断可能要到学龄期才明确。
+自闭症谱系障碍的特征是两个主要特点：
+社会沟通和互动的持续缺陷
+社会沟通和互动的持续缺陷
+有限的，重复的行为，兴趣和/或活动模式
+有限的，重复的行为，兴趣和/或活动模式
+这两个特征必须在年幼时出现（尽管当时可能未被察觉），并且必须严重到足以显著损害儿童在家、学校或其他环境中的活动能力。表现必须比儿童发展水平的预期更突出，并根据不同文化的规范进行调整。
+社会沟通和互动的缺陷的例子包括
+社会和/或情感互惠缺陷（例如，未能发起或回应社交互动或对话，没有情感分享）
+社会和/或情感互惠缺陷（例如，未能发起或回应社交互动或对话，没有情感分享）
+非语言社交交流中的缺陷（例如，难以理解他人的肢体语言、手势和表情；面部表情和手势减少和/或眼神接触减少）
+非语言社交交流中的缺陷（例如，难以理解他人的肢体语言、手势和表情；面部表情和手势减少和/或眼神接触减少）
+发展和维持关系的缺陷（例如，结交朋友，根据不同情况调整行为）
+发展和维持关系的缺陷（例如，结交朋友，根据不同情况调整行为）
+父母注意到的最初表现可能是语言发育迟缓、15个月后不会指远处的物体、以及对父母或典型游戏缺乏兴趣。
+受限、重复的行为、兴趣和/或活动模式的例子包括
+刻板或重复的动作或言语（例如，反复拍手或弹指、重复特有短语或模仿言语、排列玩具）
+刻板或重复的动作或言语（例如，反复拍手或弹指、重复特有短语或模仿言语、排列玩具）
+对日常惯例和/或仪式的刻板坚持（例如，对饮食或衣物的微小变化极度痛苦、具有刻板的问候仪式）
+对日常惯例和/或仪式的刻板坚持（例如，对饮食或衣物的微小变化极度痛苦、具有刻板的问候仪式）
+兴趣高度受限、异常强烈和固定（例如，对吸尘器情有独钟）
+兴趣高度受限、异常强烈和固定（例如，对吸尘器情有独钟）
+对感觉输入的极度过度或不足的反应（例如，对特定气味，味道或纹理的极度厌恶；对疼痛或温度的明显冷漠）
+对感觉输入的极度过度或不足的反应（例如，对特定气味，味道或纹理的极度厌恶；对疼痛或温度的明显冷漠）
+部分患儿会自我伤害。约25％的患儿丧失以前获得的技能 (1)。
+所有患有自闭症谱系障碍的儿童在交互，行为和交流方面至少有一些困难；然而，问题的严重性差别很大。
+目前普遍接受的理论认为，自闭症谱系障碍的根本问题是“心智盲”，即无法想象他人可能在想什么。这种困难被认为会导致互动异常，进而引起语言发育异常。自闭症谱系障碍最早和最敏感的标志之一是 15 个月大的儿童无法用手指向远处的物体进行交流。理论认为，患儿无法想象他人能够理解他所指的含义；因此患儿只能通过身体接触或用成人的手作为工具来获取想要的东西。研究还表明，感觉处理的差异是自闭症谱系障碍(2)儿童社会互动和沟通差异的基础。
+共患疾病是常见的，尤其是智力障碍和学习障碍。非局灶性神经系统表现包括步态协调不良和刻板运动。20%到40%的这些儿童会出现癫痫发作（特别是那些IQ<50的儿童）。
+
+【症状和体征参考】
+1.Bradley CC, Boan AD, Cohen AP, Charles JM, Carpenter LA: Reported History of Developmental Regression and Restricted, Repetitive Behaviors in Children with Autism Spectrum Disorders.J Dev Behav Pediatr37(6):451–456, 2016.doi:10.1097/DBP.0000000000000316
+1.Bradley CC, Boan AD, Cohen AP, Charles JM, Carpenter LA: Reported History of Developmental Regression and Restricted, Repetitive Behaviors in Children with Autism Spectrum Disorders.J Dev Behav Pediatr37(6):451–456, 2016.doi:10.1097/DBP.0000000000000316
+2.Marco EJ, Hinkley LB, Hill SS, Nagarajan SS: Sensory processing in autism: a review of neurophysiologic findings.Pediatr Res69(5 Pt 2):48R–54R, 2011.doi:10.1203/PDR.0b013e3182130c54
+2.Marco EJ, Hinkley LB, Hill SS, Nagarajan SS: Sensory processing in autism: a review of neurophysiologic findings.Pediatr Res69(5 Pt 2):48R–54R, 2011.doi:10.1203/PDR.0b013e3182130c54
+
+【孤独症的诊断】
+临床评估
+临床评估
+自闭症谱系障碍的诊断是根据《精神障碍诊断与统计手册》第五版文本修订版（DSM-5-TR）中的标准进行临床诊断的，需要有证据证明自闭症谱系障碍患者存在社交互动和沟通障碍，并存在≥2种受限的、重复的、刻板的行为或兴趣（如上文自闭症谱系障碍的症状和体征[1]所述）。虽然自闭症谱系障碍的表现范围和严重程度可以有很大差异，但以前的分类如阿斯伯格综合征、儿童崩解性障碍和广泛性发育障碍已被纳入自闭症谱系障碍范畴，不再单独区分。
+筛查检查包括针对年龄较大儿童的社会沟通问卷（2）和（修订版幼儿自闭症检查随访表（M-CHAT-R/F））（3）。
+正式的标准诊断测试，如基于DSM-5-TR标准的自闭症诊断观察表2 (ADOS-2)，通常由心理学家或发展行为儿科医生进行。另一个常用工具是儿童自闭症评定量表第二版（CARS2 [4]），该量表还有用于评估功能较高者的版本。对自闭症谱系障碍患儿进行检查较为困难；在标准智商测试中，他们在操作项目上的得分往往优于语言项目，尽管在大多数领域存在认知局限，但仍可能在某些项目上表现出与年龄相符的表现。尽管如此，自闭症谱系障碍的可靠诊断在年轻时越来越可能。由经验丰富的测试者所做的智商测试可以对判断预后提供有用的指标。
+除了标准化测试外，还建议进行代谢和基因测试以帮助识别可治疗或遗传的疾病，例如遗传性代谢紊乱和脆性 X 综合征。
+
+【诊断参考】
+1.Hyman SL, Levy SE, Myers SM; COUNCIL ON CHILDREN WITH DISABILITIES, SECTION ON DEVELOPMENTAL AND BEHAVIORAL PEDIATRICS: Identification, Evaluation, and Management of Children With Autism Spectrum Disorder.Pediatrics145(1):e20193447, 2020.doi:10.1542/peds.2019-3447
+1.Hyman SL, Levy SE, Myers SM; COUNCIL ON CHILDREN WITH DISABILITIES, SECTION ON DEVELOPMENTAL AND BEHAVIORAL PEDIATRICS: Identification, Evaluation, and Management of Children With Autism Spectrum Disorder.Pediatrics145(1):e20193447, 2020.doi:10.1542/peds.2019-3447
+2.Chandler S, Charman T, Baird G, et al: Validation of the social communication questionnaire in a population cohort of children with autism spectrum disorders.J Am Acad Child Adolesc Psychiatry46(10):1324-1332, 2007.doi: 10.1097/chi.0b013e31812f7d8d
+2.Chandler S, Charman T, Baird G, et al: Validation of the social communication questionnaire in a population cohort of children with autism spectrum disorders.J Am Acad Child Adolesc Psychiatry46(10):1324-1332, 2007.doi: 10.1097/chi.0b013e31812f7d8d
+3.Robins DL, Casagrande K, Barton M, et al: Validation of the modified checklist for Autism in toddlers, revised with follow-up (M-CHAT-R/F).Pediatrics133(1):37–45, 2014. doi: 10.1542/peds.2013-1813
+3.Robins DL, Casagrande K, Barton M, et al: Validation of the modified checklist for Autism in toddlers, revised with follow-up (M-CHAT-R/F).Pediatrics133(1):37–45, 2014. doi: 10.1542/peds.2013-1813
+4.McConachie H, Parr JR, Glod M, et al: Systematic review of tools to measure outcomes for young children with autism spectrum disorder.Health Technol Assess19(41):1–506, 2015. doi: 10.3310/hta19410
+4.McConachie H, Parr JR, Glod M, et al: Systematic review of tools to measure outcomes for young children with autism spectrum disorder.Health Technol Assess19(41):1–506, 2015. doi: 10.3310/hta19410
+
+【孤独症的治疗】
+应用行为分析
+应用行为分析
+言语疗法
+言语疗法
+有时进行物理及职业治疗
+有时进行物理及职业治疗
+药物治疗
+药物治疗
+自闭症谱系障碍的治疗通常是多学科的，研究表明，基于行为的强化方法（例如鼓励互动和有意义的交流）可带来显著的益处。精神心理医生和教育工作者，通过行为分析，系统地根据不同的行为问题采取相对应的行为治疗，有助于在家中和学校里管理患儿。See also the American Academy of Pediatrics'2020 clinical report Identification, Evaluation, and Management of Children with Autism Spectrum Disorder.
+应用行为分析 (ABA)是一种治疗方法，其中以逐步方式教授儿童特定的认知、社交或行为技能。在自闭症谱系障碍儿童的特定行为上，小的改进会得到强化，并逐步得到改善、改变或发展。这些行为包括社交技能、语言和沟通技能、阅读和学术以及学习技能，例如自我保健（例如，淋浴、梳洗）、日常生活技能、守时和工作能力。这种疗法还用于帮助儿童尽量减少可能干扰他们进步的行为（例如，攻击性）。应用行为分析疗法根据每个孩子的需求量身定制，通常由获得行为分析认证的专业人员设计和监督。在美国，ABA 可作为个性化教育计划 (IEP) 的一部分通过学校提供，并且在某些州由健康保险承保。发展、个体差异与基于关系（DIR®）模型，也称为地板时光，是另一种以行为为基础的密集型干预方法。DIR® 利用孩子的兴趣和偏好的活动来帮助建立社交互动技能和其他技能。目前，支持 DIR/Floortime 的证据少于 ABA，但两种疗法都可能有效。
+言语和语言治疗应尽早开始，并使用一系列媒介，包括手语、图片交换和辅助交流设备，如基于儿童在平板电脑或其他手持设备上选择的符号生成语音的设备，以及口语。物理治疗师和职业治疗师会制定并实施策略，帮助患儿弥补运动功能、运动规划和感觉处理方面的特定缺陷。
+药物可能有助于缓解症状。 有证据表明，非典型抗精神病药物（例如利培酮，阿立哌唑）有助于缓解行为问题，例如仪式性，自我伤害性和攻击性行为。其他用于控制特定症状药物有时，包括用于仪式性行为的选择性5-羟色胺再摄取抑制剂（SSRIs）、用于自伤和情绪爆发行为的情绪稳定剂（如丙戊酸），以及用于注意力缺陷多动障碍（ADHD）中注意力不集中、冲动和多动的兴奋剂和其他药物。
+膳食干预，包括某些维生素补充剂及无麸质无酪蛋白饮食，疗效不足以推荐；但许多家庭仍选择使用，因此需要监测膳食不足与过量。其他补充和研究性治疗方法（例如，促进性沟通、螯合治疗、听觉统合训练和高压氧疗法）尚未显示有效性。
+患有自闭症谱系障碍的儿童有社交互动和沟通障碍、重复和刻板的行为模式，以及智力发展不均衡，通常伴有智力障碍。
+患有自闭症谱系障碍的儿童有社交互动和沟通障碍、重复和刻板的行为模式，以及智力发展不均衡，通常伴有智力障碍。
+病因通常不明，但似乎存在遗传因素；疫苗尚未被证实为致病因素。
+病因通常不明，但似乎存在遗传因素；疫苗尚未被证实为致病因素。
+筛查测试包括修订后的幼儿自闭症检查表（M-CHAT-R/F），以及针对年龄较大的儿童的社会交流问卷。
+筛查测试包括修订后的幼儿自闭症检查表（M-CHAT-R/F），以及针对年龄较大的儿童的社会交流问卷。
+正式诊断测试通常由心理学家或发育行为儿科医生完成。
+正式诊断测试通常由心理学家或发育行为儿科医生完成。
+治疗通常是多学科的，使用强化的，基于行为的方法，鼓励互动和沟通。
+治疗通常是多学科的，使用强化的，基于行为的方法，鼓励互动和沟通。
+药物（例如，非典型抗精神病药物）可以帮助严重的行为障碍（例如自身伤害，攻击）。
+药物（例如，非典型抗精神病药物）可以帮助严重的行为障碍（例如自身伤害，攻击）。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+Modified Checklist for Autism in Toddlers, Revised, with Follow-Up (M-CHAT-R/F)
+Modified Checklist for Autism in Toddlers, Revised, with Follow-Up (M-CHAT-R/F)
+American Academy of Pediatrics:Identification, Evaluation, and Management of Children With Autism Spectrum Disorder(2020)
+American Academy of Pediatrics:Identification, Evaluation, and Management of Children With Autism Spectrum Disorder(2020)
+美国学习障碍协会(LDA)：一个为学习障碍人士提供教育、支持和倡导资源的组织
+美国学习障碍协会(LDA)：一个为学习障碍人士提供教育、支持和倡导资源的组织
+这些组织为自闭症患者及其照顾者提供支持、社区和教育资源：
+Autism Research Institute
+Autism Research Institute
+Autism Society
+Autism Society
+Autism Speaks
+Autism Speaks
+National Autism Association
+National Autism Association

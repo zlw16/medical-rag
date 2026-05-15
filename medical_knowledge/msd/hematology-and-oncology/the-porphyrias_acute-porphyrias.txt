@@ -1,0 +1,237 @@
+标题：急性卟啉症
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/the-porphyrias/acute-porphyrias
+============================================================
+
+(参见于卟啉症概论。)
+急性卟啉症包括（按患病率下降顺序）：
+急性间歇性卟啉症（AIP）
+急性间歇性卟啉症（AIP）
+混合型卟啉症（VP）
+混合型卟啉症（VP）
+遗传性粪卟啉症（HCP）
+遗传性粪卟啉症（HCP）
+delta-氨基乙酰丙酸脱水酶（ALAD）缺乏相关卟啉症（极其罕见）
+delta-氨基乙酰丙酸脱水酶（ALAD）缺乏相关卟啉症（极其罕见）
+杂色卟啉症和遗传性粪卟啉症患者，伴或不伴脑脊髓交感神经系统症状，可能发展出大疱疹，特别是在手，前臂，脸，脖子，或其他暴露在阳光下的皮肤区域。
+在杂合子患者中，急性卟啉症在青春期前极少出现临床表现，青春期后也只有约2～4%出现症状。在纯合子或复合杂合子患者中，发病通常在儿童期，且症状往往较为严重。
+
+【诱发因素】
+存在许多沉淀因子，通常会加速血红素前体的生物合成，使其超过缺陷酶的催化能力。使卟啉前体胆色素原（PBG）和delta-氨基乙酰丙酸（ALA）积聚；或在ALAD缺乏相关卟啉症中，仅表现为ALA堆积。
+导致疾病发作的诱因可能有多个，有时无法识别。更直接的促发因素包括
+女性的荷尔蒙变化，尤其是在月经周期的黄体期
+女性的荷尔蒙变化，尤其是在月经周期的黄体期
+Medications（药物应用史）
+Medications（药物应用史）
+严重且长期的膳食限制，无论是自愿还是强制
+严重且长期的膳食限制，无论是自愿还是强制
+低热量，低碳水化合物饮食
+低热量，低碳水化合物饮食
+接触有机溶剂
+接触有机溶剂
+感染和其他疾病
+感染和其他疾病
+手术，包括减重手术
+手术，包括减重手术
+情绪应激
+情绪应激
+体内激素也有重要影响。女性比男性更容易发作，尤其是在激素变化期间（例如，在月经周期的黄体期、口服避孕药期间、妊娠早期和产后）。虽然如此，这些妇女仍可以怀孕。
+其他因素包括药物，特别是那些诱导肝ALA合成酶1和细胞色素P-450酶的药物。发作通常在使用这些药物后24小时内出现。许多药物都有问题，尤其是巴比妥类药物、乙内酰脲类药物、其他抗癫痫药物、甲氧苄啶和生殖激素（黄体酮和相关的类固醇）。然而，风险程度和确定性水平差异很大；当前信息应从在线数据库中获取，例如www.drugs-porphyria.org和American Porphyria Foundation。
+暴露于阳光下可能会诱发或加重变异性卟啉症的皮肤症状，在极少数情况下，也可能诱发或加重遗传性粪卟啉症的皮肤症状。
+
+【急性卟啉症的症状和体征】
+急性卟啉症的症状与体征涉及神经系统，腹部，或二者兼有。急性卟啉症可于数小时或数天之内起病，并可持续数周。大多数基因携带者在一生中只会经历几次发作，或从不发作。有些基因携带者一生中发作次数很少，其余患者则可有反复发作。在一些女性中，复发性发作往往与月经周期的黄体期相吻合。
+
+【急性卟啉症发作】
+发作的症状和体征是非特异性的，可以模仿许多其他疾病过程。 便秘、疲劳、精神状态改变（通常被描述为“昏昏欲睡”）和失眠通常在急性发作之前发生。 最常见的发作症状是
+广泛性腹痛
+广泛性腹痛
+腹痛可能非常痛苦，与腹部压痛或其他体征不成比例。腹部表现可能是由于内脏神经受到影响。通常情况下，没有炎症，腹部没有触痛，也没有腹膜刺激征。
+少数急性肝卟啉症患者也会出现急性胰腺炎，对于其他潜在原因，如胆结石、过量饮酒和严重的高甘油三酯血症，尚未发现。
+体温和白细胞计数通常正常或稍高。患者可因无力性肠梗阻而产生肠胀气。发作时尿液常呈红色或红棕色，且对卟啉原呈强阳性反应。
+周围和中枢神经系统的各个部分都可被累及。严重与持续的发作常伴有运动神经病变。肌肉无力通常始于四肢，但可累及任何运动神经元或脑神经并发展至四肢麻痹。累及延髓时可导致呼吸衰竭。
+中枢神经系统受累可能导致癫痫发作或精神障碍（如冷漠、谵妄、抑郁、烦躁、明显的精神病、幻觉）。癫痫、精神失常和幻觉可能是由低钠血症或低镁血症引起或加重。急性发作期间可能发生低钠血症，由于血管加压素（抗利尿激素[ADH]）过度释放和/或静脉输注低渗注射液（5％或10％葡萄糖水溶液），后者是急性发作的标准治疗方法。低镁血症的原因尚不清楚。一些患者出现后部可逆性脑病综合征 (PRES) 的特征，其特征是头痛、精神状态改变、癫痫发作和视力丧失，这被认为是由后枕叶和顶叶水肿引起的 (1)。
+儿茶酚胺过多可导致烦躁不安和心动过速。儿茶酚胺诱发的心律失常偶可引起猝死。不稳定性高血压伴随短暂血压升高可能会导致血管改变，如果不及时治疗，会发展为慢性高血压。急性卟啉症患者的慢性肾脏疾病由多种因素引起；急性高血压（可能发展至慢性高血压）或许是主要的促成因素。然而，遗传因素，尤其是肽转运蛋白 2 的遗传变异（PEPT2) 基因编码一种肽和氨基酸转运蛋白，可以影响近端小管中 ALA 的重吸收，已在患有慢性肾病的急性间歇性卟啉症患者中发现。具体而言，已发现高亲和力变异体 (PEPT2*1*1) 的携带者比低亲和力变异体的携带者具有更严重的肾功能障碍 (2)。
+
+【亚急性和慢性症状】
+有些患者的症状较轻，然而持久（如，顽固性便秘、疲乏、头痛、腰背或大腿痛、感觉异常、心动过速、呼吸困难、失眠、精神紊乱、癫痫）。许多患者可能在两次发作之间出现慢性症状，尤其是那些经历过不止一次急性发作的患者，其中疼痛是最常见的症状(3)。许多患者每天都有症状。
+
+【杂色卟啉病和遗传性粪卟啉病的皮肤症状】
+即使没有脑脊髓与交感神经系统症状，在日光照射的部位也可出现皮肤损害和大疱；而且患者通常并未意识到它和日光照射有关。这些皮肤表现和PCT中的症状相同。
+
+【急性卟啉症的晚期并发症】
+急性发作期间运动神经元受累的患者在发作间期可出现持续性软弱无力和肌萎缩。急性间歇性卟啉症患者、杂色卟啉症和遗传性粪卟啉症患者，尤其是有卟啉症发作史者，中年以后较易发生肝硬化、肝细胞癌、全身性动脉高压和肾功能损害 (4)。
+
+【症状和体征参考】
+1.Jaramillo-Calle DA, Solano JM, Rabinstein AA, Bonkovsky HL: Porphyria-induced posterior reversible encephalopathy syndrome and central nervous system dysfunction.Mol Genet Metab128(3):242–253, 2019.doi:10.1016/j.ymgme.2019.10.011
+1.Jaramillo-Calle DA, Solano JM, Rabinstein AA, Bonkovsky HL: Porphyria-induced posterior reversible encephalopathy syndrome and central nervous system dysfunction.Mol Genet Metab128(3):242–253, 2019.doi:10.1016/j.ymgme.2019.10.011
+2.Tchernitchko D, Tavernier Q, Lamoril J, et al: A Variant of Peptide Transporter 2 Predicts the Severity of Porphyria-Associated Kidney Disease.J Am Soc Nephrol28(6):1924–1932, 2017.doi:10.1681/ASN.2016080918
+2.Tchernitchko D, Tavernier Q, Lamoril J, et al: A Variant of Peptide Transporter 2 Predicts the Severity of Porphyria-Associated Kidney Disease.J Am Soc Nephrol28(6):1924–1932, 2017.doi:10.1681/ASN.2016080918
+3.Simon A, Pompilus F, Querbes W, et al: Patient perspective on acute intermittent porphyria with frequent attacks: A disease with intermittent and chronic manifestations.Patient11(5):527–537, 2018.doi:10.1007/s40271-018-0319-3
+3.Simon A, Pompilus F, Querbes W, et al: Patient perspective on acute intermittent porphyria with frequent attacks: A disease with intermittent and chronic manifestations.Patient11(5):527–537, 2018.doi:10.1007/s40271-018-0319-3
+4.Saberi B, Naik H, Overbey JR, et al: Hepatocellular carcinoma in acute hepatic porphyrias: Results from the Longitudinal Study of the U.S. Porphyrias Consortium.Hepatology73(5):1736–1746, 2021.doi:10.1002/hep.31460
+4.Saberi B, Naik H, Overbey JR, et al: Hepatocellular carcinoma in acute hepatic porphyrias: Results from the Longitudinal Study of the U.S. Porphyrias Consortium.Hepatology73(5):1736–1746, 2021.doi:10.1002/hep.31460
+
+【急性卟啉症的诊断】
+尿胆色素原（PBG）和肌酐筛查
+尿胆色素原（PBG）和肌酐筛查
+如果尿液结果呈阳性，则定量测定尿ALA、PBG和肌酐
+如果尿液结果呈阳性，则定量测定尿ALA、PBG和肌酐
+用于确认急性肝卟啉（AHP）和确定类型，遗传分析
+用于确认急性肝卟啉（AHP）和确定类型，遗传分析
+通过检测红细胞中PBG脱氨酶（羟甲基胆色烷合酶[HMBS]）活性可确诊急性间歇性卟啉症（AIP）。然而，由于约5%的AIP患者红细胞PBG脱氨酶活性正常，且多达20%患者活性处于临界水平（与无AIP人群重叠），此类检测通常不用于确诊。当生化检测显示尿ALA和PBG/肌酐升高时，可能仍然很少需要它，但基因检测未能揭示致病突变。后者很少发生（约 1/500）（1、2、3、4）。
+
+【急性发作】
+误诊很常见，因为急性发作与急腹症的其他原因混淆（有时导致不必要的手术）或与原发性神经或精神疾病混淆。但是如患者曾被诊断为卟啉症基因携带者或有阳性家族史，应怀疑为该病。然而，即使已知患者为基因携带者，仍应考虑到其他病因。
+红色或红褐色尿，发作前没有而通常在症状完全出现时发生，是十分重要的证据。对于不明原因腹痛患者，尤其伴严重便秘、呕吐、心动过速、肌无力、延髓受累或精神症状时，应检测尿液并进行胆色素原（PBG）和肌酐测定。
+如怀疑患者为卟啉症，用快速定性或半定量方法测定尿PBG。如结果为阳性或临床上高度怀疑，则需作尿ALA、PBG和肌酐定量测定，最好使用同一标本。经尿肌酐浓度校正后，若PBG和ALA水平＞10 mg/g肌酐，则表明患者发生了急性卟啉病发作，除非患者为基因携带者，即使在潜伏期中卟啉前体物的排泄水平也相似。
+如尿PBG/肌酐和ALA/肌酐比值正常，应考虑其他可能的诊断。高效液相色谱法测定尿总卟啉对诊断有帮助。尿ALA和粪卟啉增高，PBG正常或略有增加，提示铅中毒、δ-氨基乙酰丙酸脱水酶（ALAD）缺乏性卟啉或遗传性1型酪氨酸血症。24小时尿标本测定是不必要的。一般使用随机取样的尿标本，用肌酐浓度来校正PBG和ALA的水平。
+应测定血液中包括镁在内的电解质浓度。由于严重呕吐或腹泻时补充低张液体或有抗利尿激素分泌不当综合征（SIADH），患者可发生低钠血症。
+
+【急性卟啉症类型的确定】
+由于治疗方法与急性卟啉症的类型无关，因而主要在其亲属中发现基因携带者进行类型的鉴定。如果其亲属既往的检测已经明确了基因突变的类型，诊断基本成立，但是仍然需要进行基因分析来确诊。
+红细胞中 ALAD 酶的活性很容易测量，有助于确定 ALAD 缺乏性卟啉症的诊断，其中 ALAD 活性严重降低（< 正常值的 10%）。类似地，可以测量红细胞中PBG脱氨酶活性，以帮助诊断急性间歇性卟啉症，这是由红细胞PBG脱氨基酶水平约为正常水平的50%所提示的然而，在大约5%的急性间歇性卟啉患者中，红细胞中的PBG脱氨酶活性是正常的 (2,3,5)。因此，在许多中心，基因检测正在取代对红细胞酶活性的测量。
+如果没有家族病史来指导诊断，不同形式的急性卟啉病可通过卟啉（及前体）在血浆、尿液和粪便中积聚和排泄的特征模式来区分。当特殊测试显示ALA和PBG水平升高时，可以测量粪便卟啉。在急性间歇性卟啉症中，粪卟啉一般正常或略微升高，但在遗传性粪卟啉症和杂色卟啉症中则增高。通常，粪便卟啉升高不存在于急性卟啉症的静止期。
+Soret光波（〜410纳米）激发的等离子体荧光发射法可以用于遗传性粪卟啉症和杂色卟啉症的鉴别，因为二者的具有不同的发射峰值。具体地说，杂色卟啉在626nm处有一个独特的荧光峰值，这有助于建立正确的诊断。这种简单而有用的测试在许多大型参考实验室中都不可用。
+
+【急性卟啉症家族史】
+有常染色体显性急性卟啉症 (急性间歇性卟啉症、遗传性粪卟啉症、杂色卟啉症) 携带基因的儿童，有50%的可能继承致病基因。相反，携带ALAD- 缺乏性卟啉症（常染色体隐性遗传）基因的儿童，不太可能发生疾病表型。因为早期诊断和咨询可减少发病风险，故患者子女应在进入青春期后接受检测。
+首先强烈建议对索引病例中进行基因检测，然后在所有一级亲属中重复进行有针对性的基因检测。在极少数情况下，当基因检测未能揭示致病突变时，可以测量相关的红细胞酶活性。然而，由于RBC-PBG脱氨酶活性的重叠，如前所述，并且由于白细胞中粪卟啉原氧化酶（CPOX）或原卟啉原酶（PPOX）活性的测量很困难，并且在商业或研究实验室已不再可用，因此基因检测是做出明确诊断的首选。
+红细胞中酶活性的测量受到样品处理和运输方式的变化的影响。
+红细胞中酶活性的测量受到样品处理和运输方式的变化的影响。
+无卟啉患者和AIP患者PBG脱氨酶活性存在重叠。
+无卟啉患者和AIP患者PBG脱氨酶活性存在重叠。
+大约 5% 的 AIP 患者红细胞 中PBG 脱氨酶活性正常。
+大约 5% 的 AIP 患者红细胞 中PBG 脱氨酶活性正常。
+现已能通过遗传分析进行宫内诊断（羊水穿刺或绒毛取样），但很少有此需要，因大多数基因携带者前景良好。
+
+【诊断参考】
+1.Kreimer-Birnbaum M, Bonkowsky HL, Bottomley SS: Experience with the red cell uroporphyrinogen synthase (URO-S) assay in kindreds with acute intermittent porphyria (AIP).Int J Biochem12(5-6):807–810, 1980.doi:10.1016/0020-711x(80)90167-6
+1.Kreimer-Birnbaum M, Bonkowsky HL, Bottomley SS: Experience with the red cell uroporphyrinogen synthase (URO-S) assay in kindreds with acute intermittent porphyria (AIP).Int J Biochem12(5-6):807–810, 1980.doi:10.1016/0020-711x(80)90167-6
+2.Mustajoki P: Red cell uroporphyrinogen I synthetase in acute intermittent porphyria.Ann Clin Res8 Suppl 17:133–138, 1976.
+2.Mustajoki P: Red cell uroporphyrinogen I synthetase in acute intermittent porphyria.Ann Clin Res8 Suppl 17:133–138, 1976.
+3.Mustajoki P, Kauppinen R, Lannfelt L, Lilius L, Koistinen J: Frequency of low erythrocyte porphobilinogen deaminase activity in Finland.J Intern Med231(4):389–395, 1992.doi:10.1111/j.1365-2796.1992.tb00949.x
+3.Mustajoki P, Kauppinen R, Lannfelt L, Lilius L, Koistinen J: Frequency of low erythrocyte porphobilinogen deaminase activity in Finland.J Intern Med231(4):389–395, 1992.doi:10.1111/j.1365-2796.1992.tb00949.x
+4.van Loggerenberg W, Sowlati-Hashjin S, Weile J, et al: Systematically testing human HMBS missense variants to reveal mechanism and pathogenic variation.Am J Hum Genet110(10):1769–1786, 2023.doi:10.1016/j.ajhg.2023.08.012
+4.van Loggerenberg W, Sowlati-Hashjin S, Weile J, et al: Systematically testing human HMBS missense variants to reveal mechanism and pathogenic variation.Am J Hum Genet110(10):1769–1786, 2023.doi:10.1016/j.ajhg.2023.08.012
+5.Bottomley SS, Bonkowsky HL, Kreimer-Birnbaum M: The diagnosis of acute intermittent porphyria.Usefulness and limitations of the erythrocyte uroporphyrinogen I synthase assay.Am J Clin Pathol76(2):133–139, 1981.doi:10.1093/ajcp/76.2.133
+5.Bottomley SS, Bonkowsky HL, Kreimer-Birnbaum M: The diagnosis of acute intermittent porphyria.Usefulness and limitations of the erythrocyte uroporphyrinogen I synthase assay.Am J Clin Pathol76(2):133–139, 1981.doi:10.1093/ajcp/76.2.133
+
+【急性卟啉症的治疗】
+尽可能消除触发因素
+尽可能消除触发因素
+口服或静脉给予葡萄糖
+口服或静脉给予葡萄糖
+用于重度疼痛的阿片类药物和其他止痛药
+用于重度疼痛的阿片类药物和其他止痛药
+昂丹司琼和/或异丙嗪治疗恶心和呕吐
+昂丹司琼和/或异丙嗪治疗恶心和呕吐
+血红素 (IV)
+血红素 (IV)
+Givosiran（皮下注射）
+Givosiran（皮下注射）
+各类急性卟啉症的治疗方法基本相同。 找出可能的触发因素（如，酗酒、药物），加以撤除或纠正。除非症状甚轻，患者应住入光线暗淡、安静的单人病房治疗。监测患者的心率、血压、及水和电解质平衡。持续监测患者的神经状态、膀胱功能、肌肉和肌腱反射功能、呼吸功能和氧饱和度。
+如患者有疼痛、呕吐等症状，需要时可给予非卟啉原性药物。
+葡萄糖（每日300～500 g）可抑制ALA合成酶 (ALAS 1)，减轻症状。如患者无呕吐，可予口服；否则由静脉输入葡萄糖。通常的方案是3升的10％葡萄糖溶液，通过中心静脉导管在24小时内（125毫升/小时）输注完。为避免水分过多引起低钠血症，可输入50%葡萄糖液1L。
+对有严重发作或肌肉无力的患者，应立即由静脉给予血红素，症状通症状通常在3～4天内缓解。如未及时使用血红素治疗，可使神经损害加重，恢复较慢且可能不完全。血红素以冻干血红素的形式提供，可在玻璃小瓶中用无菌水复溶。通常的剂量为3-4 mg/kg，每天静脉注射一次，持续4天。另一种方法是使用精氨酸盐血红素，给药剂量相同，不同之处在于需要用5％的葡萄糖或低张（半张或四分之一张）生理盐水稀释。血红素和精氨酸盐血红素可引起静脉血栓和/或血栓性静脉炎。若血红素与人血清白蛋白一起使用，上述不良事件的风险可能会降低。此外，还能减少血红素的聚集。因此，大多数专家建议在应用血红素或精氨酸盐血红素的同事输注血清白蛋白(1)。
+有趣的经验表明， 血管加压素受体拮抗剂托伐普坦对急性发作期的低钠血症有效。
+吉沃西兰可用于治疗患有急性肝卟啉症的成人，以预防急性发作的复发。它是一种小干扰 RNA (siRNA)，可选择性靶向并显着下调肝脏 ALA 合酶-1（2、3、4）。当以 2.5 mg/kg 的剂量每月皮下注射一次时，可降低 AIP 反复发作的频率和严重程度。Givosiran被肝细胞吸收，在那里它降低 ALA 合酶-1 的活性，导致 ALA 和 PBG 的血浆和尿液浓度显着降低，急性发作减少，对“拯救”IV 血红素的需求减少，并提高生活质量。吉佛西兰一般耐受性良好，只有少数患者血清丙氨酸氨基转移酶和天冬氨酸氨基转移酶升高（无黄疸），严重到需要暂时或永久停药 (5)。它还与血清肌酐水平的轻度升高和血浆同型半胱氨酸水平的可变升高有关。吉佛西兰也可能有发生胰腺炎的风险 (6, 7)。其他人描述了因吉佛西兰导致的严重疲劳 (8)。
+癫痫发作的治疗是有问题的，因为许多常用的抗癫痫药物会加重发作。左乙拉西坦是一种抗癫痫药物，使用起来似乎很安全。
+
+【反复发作】
+对于那些尽管接受了使用吉佛西兰的最佳的慢性治疗，但仍出现严重反复发作的患者，以及那些不耐受、有肾损伤或永久性神经损伤风险的患者，肝移植仍然是一个选择。成功的肝移植可以永久治愈急性间歇性卟啉症。肝移植可纠正肝的PBG脱氨酶缺陷，使生化指标（PBG和ALA水平正常）和症状消退（9）。一项回顾性研究描述了欧洲AIP肝移植的临床经验，该研究包括来自12个国家的38名患者[34名女性]，于2002年至2019年间进行了移植（10）。1年和5年的存活率分别为92%和82%，这与肝移植治疗其他代谢紊乱的存活率相似。移植时晚期神经损伤患者的存活率较低。除了一名接受了辅助移植的患者外，没有一名患者在肝移植后出现AIP发作，她的原生肝脏保留在原位。肝肾联合移植也很成功（11)。肝移植尚未在粪卟啉症中描述。一名ALAD卟啉缺陷患儿接受了肝移植，住院率下降但生化指标没有改善(12)。
+虽然美国肝病研究协会（AASLD）的最新实践指南中没有将肝卟啉病作为肝移植的明确适应症，但肝卟啉病可以准确地纳入具有全身表现的肝脏代谢性疾病 (13)。在没有标准化的终末期肝病模型（MELD）例外积分的情况下，AIP的肝移植将需要向国家肝脏审查委员会申请。
+急性卟啉症患者不应作为肝移植供体，即使他们的肝脏结构看似正常（即无肝硬化），因为没有预先诊断卟啉症的受者已发生急性卟啉病综合征，这样的结果提示急性卟啉症是肝疾病 (14)。对于病情活动伴终末期肾功能衰竭者，应考虑肾移植（可同时进行或不进行肝移植），因为开始透析有加重神经损伤的风险。
+
+【治疗参考文献】
+1.Bonkovsky HL, Healey JF, Lourie AN, and Gerron GG: Intravenous heme-albuminin acute intermittent porphyria.  Evidence for repletion of hepatic hemoproteins and regulatory heme pools.Am J Gastroenterol86: 1050–1056, 1991.
+1.Bonkovsky HL, Healey JF, Lourie AN, and Gerron GG: Intravenous heme-albuminin acute intermittent porphyria.  Evidence for repletion of hepatic hemoproteins and regulatory heme pools.Am J Gastroenterol86: 1050–1056, 1991.
+2.Balwani M, Sardh E, Ventura P, et al: Phase 3 trial of RNAi therapeuticgivosiranfor acute intermittent porphyria.N Engl J Med382: 2289–2301, 2020.
+2.Balwani M, Sardh E, Ventura P, et al: Phase 3 trial of RNAi therapeuticgivosiranfor acute intermittent porphyria.N Engl J Med382: 2289–2301, 2020.
+3.Sardh E, Harper P, Balwani M, et al: Phase 1 trial of an RNA interference therapy for acute intermittent porphyria.N Engl J Med380: 549–558, 2019.
+3.Sardh E, Harper P, Balwani M, et al: Phase 1 trial of an RNA interference therapy for acute intermittent porphyria.N Engl J Med380: 549–558, 2019.
+4.Kuter DJ, Bonkovsky HL, Monroy S, et al: Efficacy and safety ofgivosiranfor acute hepatic porphyria: Final results of the randomized phase III ENVISION trial.J Hepatol79(5):1150–1158, 2023.doi:10.1016/j.jhep.2023.06.013
+4.Kuter DJ, Bonkovsky HL, Monroy S, et al: Efficacy and safety ofgivosiranfor acute hepatic porphyria: Final results of the randomized phase III ENVISION trial.J Hepatol79(5):1150–1158, 2023.doi:10.1016/j.jhep.2023.06.013
+5.Ma CD, Faust D, Bonkovsky HL: Idiosyncratic drug-induced liver injury caused bygivosiranin a patient with acute intermittent porphyria.Mol Genet Metab Rep34:100946, 2022.doi:10.1016/j.ymgmr.2022.100946
+5.Ma CD, Faust D, Bonkovsky HL: Idiosyncratic drug-induced liver injury caused bygivosiranin a patient with acute intermittent porphyria.Mol Genet Metab Rep34:100946, 2022.doi:10.1016/j.ymgmr.2022.100946
+6.Majeed CN, Ma CD, Xiao T, et al: Spotlight ongivosiranas a treatment Option for adults with acute hepatic porphyria: Design, development, and place in therapy.Drug Des Devel Ther16:1827–1845, 2022.doi:10.2147/DDDT.S281631
+6.Majeed CN, Ma CD, Xiao T, et al: Spotlight ongivosiranas a treatment Option for adults with acute hepatic porphyria: Design, development, and place in therapy.Drug Des Devel Ther16:1827–1845, 2022.doi:10.2147/DDDT.S281631
+7.Ventura P, Bonkovsky HL, Gouya L, et al: Efficacy and safety ofgivosiranfor acute hepatic porphyria: 24-month interim analysis of the randomized phase 3 ENVISION study.Liver Int42(1):161–172, 2022.doi:10.1111/liv.15090
+7.Ventura P, Bonkovsky HL, Gouya L, et al: Efficacy and safety ofgivosiranfor acute hepatic porphyria: 24-month interim analysis of the randomized phase 3 ENVISION study.Liver Int42(1):161–172, 2022.doi:10.1111/liv.15090
+8.Kubisch I, Wohmann N, Wissniowski TT, et al: German Real-World Experience of Patients with Diverse Features of Acute Intermittent Porphyria Treated withGivosiran.J Clin Med13(22):6779, 2024.doi:10.3390/jcm13226779
+8.Kubisch I, Wohmann N, Wissniowski TT, et al: German Real-World Experience of Patients with Diverse Features of Acute Intermittent Porphyria Treated withGivosiran.J Clin Med13(22):6779, 2024.doi:10.3390/jcm13226779
+9.Dowman JK, Gunson BK, Mirza DF, et al: Liver transplant for acute intermittent porphyria is complicated by a high rate of hepatic artery thrombosis.Liver Transpl18: 195–200, 2012.doi: 10.1002/lt.22345
+9.Dowman JK, Gunson BK, Mirza DF, et al: Liver transplant for acute intermittent porphyria is complicated by a high rate of hepatic artery thrombosis.Liver Transpl18: 195–200, 2012.doi: 10.1002/lt.22345
+10.Lissing M, Nowak G, Adam R, et al: Liver transplantation for acute intermittent porphyria.Liver Transpl27(4):491–501, 2021.doi:10.1002/lt.25959
+10.Lissing M, Nowak G, Adam R, et al: Liver transplantation for acute intermittent porphyria.Liver Transpl27(4):491–501, 2021.doi:10.1002/lt.25959
+11.Wahlin S, Harper P, Sardh E, et al: Combined liver and kidney transplantation in acute intermittent porphyria.Transpl Int23(6):e18–e21, 2010.doi:10.1111/j.1432-2277.2009.01035.x
+11.Wahlin S, Harper P, Sardh E, et al: Combined liver and kidney transplantation in acute intermittent porphyria.Transpl Int23(6):e18–e21, 2010.doi:10.1111/j.1432-2277.2009.01035.x
+12.Thunell S, Henrichson A, Floderus Y, et al: Liver transplantation in a boy with acute porphyria due to aminolaevulinate dehydratase deficiency.Eur J Clin Chem Clin Biochem30: 599–606, 1992.
+12.Thunell S, Henrichson A, Floderus Y, et al: Liver transplantation in a boy with acute porphyria due to aminolaevulinate dehydratase deficiency.Eur J Clin Chem Clin Biochem30: 599–606, 1992.
+13.Martin P, DiMartini A, Feng S, Brown R Jr, Fallon M: Evaluation for liver transplantation in adults: 2013 practice guideline by the American Association for the Study of Liver Diseases and the American Society of Transplantation.Hepatology59(3):1144–1165, 2014.doi:10.1002/hep.26972
+13.Martin P, DiMartini A, Feng S, Brown R Jr, Fallon M: Evaluation for liver transplantation in adults: 2013 practice guideline by the American Association for the Study of Liver Diseases and the American Society of Transplantation.Hepatology59(3):1144–1165, 2014.doi:10.1002/hep.26972
+14.Al-Samkari H, Patel AA, Schiano TD, Kuter DJ: Recurrence of Acute Intermittent Porphyria After Liver Transplantation.Ann Intern Med170(12):904–905, 2019.doi:10.7326/L18-0623
+14.Al-Samkari H, Patel AA, Schiano TD, Kuter DJ: Recurrence of Acute Intermittent Porphyria After Liver Transplantation.Ann Intern Med170(12):904–905, 2019.doi:10.7326/L18-0623
+
+【急性卟啉症的预后】
+医疗护理与自我护理的进步改善了有症状急性卟啉病患者的预后。但有些患者仍反复出现发作或病情逐步进展至发生永久性瘫痪或肾衰竭。也可能因为经常需要服用阿片类镇痛剂而导致药物成瘾。
+
+【急性卟啉症的预防】
+急性卟啉症患者应避免以下情况（1，2）：
+可能诱发病情的药物（见Drug Database for Acute Porphyria或者American Porphyria Foundation drug database）
+可能诱发病情的药物（见Drug Database for Acute Porphyria或者American Porphyria Foundation drug database）
+身体或情绪紧张或疲惫
+身体或情绪紧张或疲惫
+接触有机溶剂（如除草剂、油漆或干洗剂）
+接触有机溶剂（如除草剂、油漆或干洗剂）
+过度节食
+过度节食
+长时间的热量摄入不足或饥饿状态
+长时间的热量摄入不足或饥饿状态
+节食减肥应使体重逐渐下降并仅限于疾病缓解期。杂色卟啉症或遗传性粪卟啉症携带者应尽量避免日光照射；仅能阻挡紫外线的防晒霜没有作用，但不透明的氧化锌或二氧化钛制剂有一定效果。支持协会，例如联合卟啉症协会、美国卟啉症基金会和国际卟啉症协会，可以提供信息和直接咨询。
+患者应在病历中的显著位置被识别为携带者，并应携带卡片和佩戴医疗警报首饰，以验证携带者的状态和应遵守的预防措施。
+高碳水化合物饮食可降低急性发作的风险。轻度急性发作有时通过增加葡萄糖摄入即可缓解。应避免长期使用，以降低肥胖、糖尿病、代谢综合征及龋齿风险。
+为了预防肾脏损伤，慢性系统性动脉高血压应积极治疗（使用安全药物）。合并肾损害者应定期至肾脏病专科就诊。
+急性卟啉症人群中肝细胞癌高发，尤其是病情活动期人群。年龄>49岁的患者应每年筛查肝脏超声1～2次。早期干预可能治愈并延长寿命 (1)。
+
+【反复或可预测的发作】
+经历反复发作和可预测发作的患者（通常是与月经周期有关的发作的女性）可以通过皮下注射每月给予 2.5 mg/kg 体重的基弗xi'lan。 或者，患者可能会受益于在预期急性发作前不久给予的预防性血红素治疗或每周作为预防性治疗。没有标准化的治疗方案，应咨询专科医生 (3)。
+有些女性患者使用促性腺激素释放激素激动剂合并小剂量雌激素可消除经前期的频繁发作。低剂量口服避孕药有时效果很好，但其中的黄体酮成分可能会使卟啉症加重。
+
+【预防参考文献】
+1.Wang B, Bonkovsky HL, Lim JK, Balwani M: AGA Clinical Practice Update on Diagnosis and Management of Acute Hepatic Porphyrias: Expert Review.Gastroenterology164(3):484–491, 2023.doi:10.1053/j.gastro.2022.11.034
+1.Wang B, Bonkovsky HL, Lim JK, Balwani M: AGA Clinical Practice Update on Diagnosis and Management of Acute Hepatic Porphyrias: Expert Review.Gastroenterology164(3):484–491, 2023.doi:10.1053/j.gastro.2022.11.034
+2.Anderson KE, Bonkovsky HL, Bloomer JR, Shedlofsky SI: Reconstitution ofhematinfor intravenous infusion.Ann Intern Med144(7):537–538, 2006.doi:10.7326/0003-4819-144-7-200604040-00023
+2.Anderson KE, Bonkovsky HL, Bloomer JR, Shedlofsky SI: Reconstitution ofhematinfor intravenous infusion.Ann Intern Med144(7):537–538, 2006.doi:10.7326/0003-4819-144-7-200604040-00023
+3.Kuo HC, Lin CN, Tang YF: Prophylactic heme arginate infusion for acute intermittent porphyria.Front Pharmacol12:712305, 2021.doi:10.3389/fphar.2021.712305
+3.Kuo HC, Lin CN, Tang YF: Prophylactic heme arginate infusion for acute intermittent porphyria.Front Pharmacol12:712305, 2021.doi:10.3389/fphar.2021.712305
+急性卟啉症表现为腹痛与神经系统症状间歇性发作，某些亚型还有皮肤受累，多发生于阳光暴晒之后。
+急性卟啉症表现为腹痛与神经系统症状间歇性发作，某些亚型还有皮肤受累，多发生于阳光暴晒之后。
+急性发作的诱因较多，包括激素水平，药物，低热量饮食，低碳水化合物饮食，饮酒等。
+急性发作的诱因较多，包括激素水平，药物，低热量饮食，低碳水化合物饮食，饮酒等。
+急性发作多表现为剧烈腹痛，呕吐，外周和中枢神经系统受累（肌无力较常见）。
+急性发作多表现为剧烈腹痛，呕吐，外周和中枢神经系统受累（肌无力较常见）。
+发作期间尿液可为红色或红褐色
+发作期间尿液可为红色或红褐色
+首先行尿胆色素原（PBG）定性检测，如结果为阳性，进一步定量测定delta-氨基乙酰丙酸（ALA）和PBG水平可确诊。
+首先行尿胆色素原（PBG）定性检测，如结果为阳性，进一步定量测定delta-氨基乙酰丙酸（ALA）和PBG水平可确诊。
+急性发作时可口服或静脉注射葡萄糖，病情严重时可静脉输注血红素。
+急性发作时可口服或静脉注射葡萄糖，病情严重时可静脉输注血红素。
+静脉注射血红素、givosiran 或在某些情况下采取肝移植治疗反复急性发作的患者。
+静脉注射血红素、givosiran 或在某些情况下采取肝移植治疗反复急性发作的患者。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Martin P, DiMartini A, Feng S, et al: Evaluation for Liver Transplantation in Adults: 2013 Practice Guideline by the AASLD and the American Society of Transplantation.American Association for the Study of Liver Diseases 2013.
+Martin P, DiMartini A, Feng S, et al: Evaluation for Liver Transplantation in Adults: 2013 Practice Guideline by the AASLD and the American Society of Transplantation.American Association for the Study of Liver Diseases 2013.
+American Porphyria Foundation: 旨在教育和支持受卟啉症影响的患者和家庭，并支持卟啉症的治疗和预防研究
+American Porphyria Foundation: 旨在教育和支持受卟啉症影响的患者和家庭，并支持卟啉症的治疗和预防研究
+American Porphyria Foundation:Safe/Unsafe Drug Database: Provides an up-to-date list of medications available in the United States to assist physicians in prescribing for patients with porphyrias
+American Porphyria Foundation:Safe/Unsafe Drug Database: Provides an up-to-date list of medications available in the United States to assist physicians in prescribing for patients with porphyrias
+International Porphyria Network: Promotes clinical research about porphyrias
+International Porphyria Network: Promotes clinical research about porphyrias
+The Drug Database for Acute Porphyrias: Provides an up-to-date list of medications available in Europe to assist physicians in prescribing for patients with porphyrias
+The Drug Database for Acute Porphyrias: Provides an up-to-date list of medications available in Europe to assist physicians in prescribing for patients with porphyrias
+United Porphyrias Association: Provides education and support to patients and their families; provides reliable information to health-care providers; fosters and supports clinical research to improve diagnosis and management of the porphyrias
+United Porphyrias Association: Provides education and support to patients and their families; provides reliable information to health-care providers; fosters and supports clinical research to improve diagnosis and management of the porphyrias
+Wang B, Bonkovsky HL, Lim JK, Balwani M: AGA Clinical Practice Update on Diagnosis and Management of Acute Hepatic Porphyrias: Expert Review.Gastroenterology164(3):484–491, 2023.doi:10.1053/j.gastro.2022.11.034
+Wang B, Bonkovsky HL, Lim JK, Balwani M: AGA Clinical Practice Update on Diagnosis and Management of Acute Hepatic Porphyrias: Expert Review.Gastroenterology164(3):484–491, 2023.doi:10.1053/j.gastro.2022.11.034

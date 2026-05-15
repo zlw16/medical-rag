@@ -1,0 +1,52 @@
+标题：（LGV）性病性淋巴肉芽肿
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/sexually-transmitted-infections-stis/lymphogranuloma-venereum-lgv
+============================================================
+
+(参见性传播感染疾病概述和衣原体。）
+性病淋巴肉芽肿（LGV）是由Chlamydia trachomatis的L1、L2和L3血清型引起的。这些血清型与引起沙眼、包涵体结膜炎和衣原体性尿道炎和宫颈炎的衣原体血清型不同，因为它们能够侵入并在区域淋巴结中繁殖。
+LGV在非洲部分地区、东南亚和世界其他地区呈地方性流行（1）。男性比女性更多诊断该疾病。在北美、欧洲和澳大利亚的男男性接触者中，LGV的报道越来越多 (2)。
+
+【参考文献】
+1.de Vries HJC, de Barbeyrac B, de Vrieze NHN, et al.2019 European guideline on the management of lymphogranuloma venereum.J Eur Acad Dermatol Venereol.2019;33(10):1821-1828.doi:10.1111/jdv.15729
+1.de Vries HJC, de Barbeyrac B, de Vrieze NHN, et al.2019 European guideline on the management of lymphogranuloma venereum.J Eur Acad Dermatol Venereol.2019;33(10):1821-1828.doi:10.1111/jdv.15729
+2.Williamson DA, Chen MY.Emerging and Reemerging Sexually Transmitted Infections.N Engl J Med.2020;382(21):2023-2032.doi:10.1056/NEJMra1907194
+2.Williamson DA, Chen MY.Emerging and Reemerging Sexually Transmitted Infections.N Engl J Med.2020;382(21):2023-2032.doi:10.1056/NEJMra1907194
+
+【LGV的症状和体征】
+性病淋巴肉芽肿的发生分为3个阶段。
+第 1 期通常在约 3 天潜伏期后起病，于感染进入处形成一个小的皮肤病灶。它可能导致表面皮肤发生溃疡，但由于愈合速度很快，常常未被察觉。进行接受性肛交的人可能会出现严重的直肠炎或直肠结肠炎，伴有血性脓性直肠分泌物。
+男性第 2 期通常在约 2～4 周后开始，表现为一侧或双侧腹股沟淋巴结肿大，形成较大、有压痛、偶可波动的肿块或脓肿（淋巴肉芽肿）。肿大的淋巴结（肿块）与深部组织粘连，可导致表面皮肤发炎，有时伴有发热和全身不适。
+图示男性腹股沟右侧淋巴结肿大，性传播感染性病性淋巴肉芽肿。腹股沟淋巴结的肿大尤其明显。腹股沟淋巴结肿大称为横痃。
+SCIENCE PHOTO LIBRARY
+女性2期常引起背痛或盆腔疼痛；最初的病变可能位于宫颈或阴道上段，进而导致深层直肠周围及盆腔淋巴结肿大、发炎，背痛或盆腔疼痛是常见表现。
+两性中均可能出现多个引流窦道，排出脓液或血液。
+在第 3 期，病灶可伴瘢痕愈合，但窦道可能持续存在或复发。感染如未得到治疗会有持续的炎症反应，阻塞淋巴管而导至水肿和皮肤疼痛。
+可能会发生直肠狭窄和/或可能因骨盆淋巴结发炎而引起疼痛。直肠镜检查可发现弥漫性炎症、息肉、肿块或黏液脓性渗出物。这些发现类似于炎症性肠病，包括克罗恩病。
+
+【LGV的诊断】
+病史和体格检查
+病史和体格检查
+核酸扩增检测（NAAT）
+核酸扩增检测（NAAT）
+有生殖器溃疡、腹股沟淋巴结肿大或直肠炎的患者，若他们居住在、曾到访过或与来自感染常见地区的人有过性接触，要疑诊性病性淋巴肉芽肿。腹股沟淋巴结肿大患者也要考虑该疾病，它们可能被误认为是其他细菌造成的脓肿。
+通常，C. trachomatis（沙眼衣原体）的NAAT检测或，如果可用，LGV特异性变体的NAAT检测是首选的诊断检测方法。不建议将通过血清学进行的抗体检测用于常规用途，但在某些情况下可能发挥作用，尤其是在NAAT不可用时 （1，2）。
+治疗明显成功后，患者应接受为期 6 个月的随访监测。
+
+【诊断参考】
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+2.de Vries HJC, de Barbeyrac B, de Vrieze NHN, et al.2019 European guideline on the management of lymphogranuloma venereum.J Eur Acad Dermatol Venereol.2019;33(10):1821-1828.doi:10.1111/jdv.15729
+2.de Vries HJC, de Barbeyrac B, de Vrieze NHN, et al.2019 European guideline on the management of lymphogranuloma venereum.J Eur Acad Dermatol Venereol.2019;33(10):1821-1828.doi:10.1111/jdv.15729
+
+【LGV的处理】
+口服四环素类、阿奇霉素或红霉素
+口服四环素类、阿奇霉素或红霉素
+肿大淋巴结引流以缓解症状
+肿大淋巴结引流以缓解症状
+口服多西环素100毫克，每日2次，连服21天是首选治疗方案。或者，也可采用红霉素500毫克口服，每日4次，连用21天，或阿奇霉素1克口服，每周一次，连用3周。由于红霉素/阿奇霉素疗法尚未得到验证，因此可以考虑在完成治疗后C. trachomatis（沙眼衣原体）4 周进行核酸扩增试验。所有接受治疗的患者应在 3 个月后进行复检 （1）。
+后期的淋巴水肿，尽管病原体已消灭，但仍可能不消退。必要时可通过穿刺或手术引流淋巴结肿块以缓解症状，但大多数患者对抗生素反应迅速。脓肿和瘘管可能需手术治疗，而直肠缩窄通常可以扩张。
+在患者出现症状前60天内与淋巴肉芽肿患者有过性接触的人群应，应接受检查；并需根据接触部位，针对尿道、宫颈或直肠部位的chlamydia（衣原体）进行检测。无论是否有证据表明他们患有LGV，都应假定性地使用多西环素100mg po bid，持续7天（替代方案包括阿奇霉素1g 单次 po，或左氧氟沙星）。
+
+【Treatment reference】
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5

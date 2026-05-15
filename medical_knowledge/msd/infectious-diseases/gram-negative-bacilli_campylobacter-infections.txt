@@ -1,0 +1,49 @@
+标题：Campylobacter（弯曲杆菌）感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-negative-bacilli/campylobacter-infections
+============================================================
+
+Campylobacter（弯曲杆菌）是能运动、微需氧的革兰阴性杆菌，正常情况下存在于许多家畜及家禽的胃肠道。
+部分弯曲菌是人类感染病原菌。主要病原体是空肠弯曲菌、大肠弯曲菌和胎儿弯曲菌。
+食源性病原体是一种常见的食源性病原体，对健康人和免疫功能低下的人都有影响。 它会导致所有年龄组的腹泻，但发病率高峰出现在 1 至 5 岁之间。 在某些年份，C. jejuni（空肠弯曲杆菌）在美国引起的腹泻病例比沙门氏菌或志贺氏菌的病例总和还要多。C. jejuni（空肠弯曲杆菌）可在婴儿中引起脑膜炎。
+C. fetus（空肠弯曲杆菌）和其它几种Campylobacter（弯曲杆菌）属（如C. coli（结肠弯曲杆菌）、C. lari（红嘴鸥弯曲杆菌））通常会导致成人的菌血症和全身症状，尤其是在伴有潜在易感疾病时，如糖尿病、肝硬化、癌症或HIV/AIDS。C. fetus（胎儿弯曲杆菌）远不如C. jejuni（空肠弯曲杆菌）常见，且通常是一种机会性病原体，影响患有基础疾病的人、老年人和孕妇。在孕妇中，流产率可高达70%。C. fetus（胎儿弯曲杆菌）在健康宿主中的感染发生在那些职业性接触受感染动物的人身上。在免疫球蛋白缺陷的患者中，这些病原体包括C. jejuni（空肠弯曲杆菌），可引起难治且易复发的感染。胃酸过少和胃酸缺乏是诱发因素，因为绦虫种属对胃酸敏感。
+以下情况可引起感染的暴发流行:
+接触受感染的动物（如小狗）
+接触受感染的动物（如小狗）
+接触污染的食物或水（如处理污染的食品）
+接触污染的食物或水（如处理污染的食品）
+摄入受污染的食物（尤其是未煮熟的家禽）、水或未经高温消毒的生牛奶
+摄入受污染的食物（尤其是未煮熟的家禽）、水或未经高温消毒的生牛奶
+通过粪口途径或性接触也可引起人与人之间的传播，但并不常见，因为需要大量Campylobacter（弯曲杆菌）生物才能引起感染。Campylobacter感染的传播的确发生在与男性发生性关系的男性中。然而，在散发病例中，感染病原菌的来源通常不清楚。
+C. jejuni（空肠弯曲杆菌）腹泻病与随后发生的格林巴利综合征(GBS)相关，这是因为C. jejunii （空肠弯曲杆菌）抗体与人神经节苷脂之间存在交叉反应 (1)。尽管据估计，美国每1000例C. jejuni（空肠弯曲杆菌）感染中仅发生1例GBS病例(2)，但约20%至50%的GBS患者既往有C. jejuni（空肠弯曲杆菌）感染(3,4)。
+在C. jejuni（空肠弯曲杆菌）腹泻发作后的数天至数周，人类白细胞抗原（HLA）-B27阳性的患者可能会发生感染后（反应性）关节炎。其他的感染后并发症包括葡萄膜炎，溶血性贫血，溶血尿毒综合征，心肌心包炎，免疫增生性小肠疾病，脓毒性流产和脑病。
+C. jejuni（空肠弯曲杆菌）很少引起局部肠外感染（例如心内膜炎、脑膜炎、急性感染性关节炎），但C. fetus（胎儿弯曲菌）更常见。
+
+【参考文献】
+1.Nachamkin I, Allos BM, Ho T.Campylobacterspecies and Guillain-Barré syndrome.Clin Microbiol Rev.1998;11(3):555-567.doi:10.1128/CMR.11.3.555
+1.Nachamkin I, Allos BM, Ho T.Campylobacterspecies and Guillain-Barré syndrome.Clin Microbiol Rev.1998;11(3):555-567.doi:10.1128/CMR.11.3.555
+2.Centers for Disease Control and Prevention: Guillain-Barré Syndrome.Accessed April 15, 2024.
+2.Centers for Disease Control and Prevention: Guillain-Barré Syndrome.Accessed April 15, 2024.
+3.Rees JH, Soudain SE, Gregson NA, Hughes RA.Campylobacter jejuniinfection and Guillain-Barré syndrome.N Engl J Med.1995;333(21):1374-1379.doi:10.1056/NEJM199511233332102
+3.Rees JH, Soudain SE, Gregson NA, Hughes RA.Campylobacter jejuniinfection and Guillain-Barré syndrome.N Engl J Med.1995;333(21):1374-1379.doi:10.1056/NEJM199511233332102
+4.Mishu B, Blaser MJ.Role of infection due toCampylobacter jejuniin the initiation of Guillain-Barré syndrome.Clin Infect Dis.1993;17(1):104-108.doi:10.1093/clinids/17.1.104
+4.Mishu B, Blaser MJ.Role of infection due toCampylobacter jejuniin the initiation of Guillain-Barré syndrome.Clin Infect Dis.1993;17(1):104-108.doi:10.1093/clinids/17.1.104
+
+【Campylobacter（弯曲杆菌）及相关感染的症状和体征】
+Campylobacter（弯曲杆菌）感染最常见的表现是一种急性、自限性胃肠道疾病，其特征是水样腹泻，有时甚至是血性腹泻。
+发热（38至40°C），其病程呈间歇性或反复发作，是系统性Campylobacter（弯曲杆菌）感染的唯一恒定特征，尽管腹痛（通常位于右下腹，可模仿阑尾炎）、头痛和肌肉疼痛等也很常见。
+患者还可出现亚急性细菌性心内膜炎（多由C. fetus（胎儿弯曲杆菌）引起）、反应性关节炎、脑膜炎或无痛性不明原因发热，而没有腹泻表现。反应性关节炎通常累及单个关节，膝关节常见，症状在1周至数月后可自发缓解。
+
+【Campylobacter（弯曲杆菌）及相关感染的诊断】
+粪便培养或核酸扩增测试 (NAAT)
+粪便培养或核酸扩增测试 (NAAT)
+有时需要血培养
+有时需要血培养
+诊断，尤其是为了鉴别Campylobacter（弯曲杆菌）感染与溃疡性结肠炎，需要进行微生物学检查。应进行粪便培养，对于有局部感染或严重全身性疾病征象的患者，应进行血培养。粪便涂片染色可见白细胞。
+还提供快速分子（多种肠道病原体 NAAT 面板）和抗原测定粪便测试。
+
+【Campylobacter（弯曲杆菌）及相关感染的治疗】
+有时需要阿奇霉素
+有时需要阿奇霉素
+大多数由C. jejuni（空肠弯曲杆菌）引起的肠道感染可以自行缓解；如果没有，阿奇霉素可能会有所帮助。这种抗生素也常用于治疗患有严重或复杂疾病风险较高的患者，例如免疫功能低下的患者。
+由于对环丙沙星的耐药性正在增加，只有在确定了药物敏感性时才应使用该药物，但即使如此，据报道氟喹诺酮类药物也会产生耐药性
+对于肠外Campylobacter（弯曲杆菌）感染的患者，应给予2至4周的抗生素（例如亚胺培南、庆大霉素、氨苄西林、红霉素）治疗，以防止复发。

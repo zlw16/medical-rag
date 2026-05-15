@@ -1,0 +1,27 @@
+标题：支原体
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/chlamydiae-and-mycoplasmas/mycoplasmas
+============================================================
+
+支原体是普遍存在的一类细菌，它们与其他原核生物的明显区别在于缺乏细胞壁。因此，革兰染色难以观察它们，且针对细胞壁生物合成的抗生素疗法（如青霉素、头孢菌素）对其无效。
+已从人类身上分离出14种Mycoplasma（支原体），其中4种是人类疾病的明确病因：
+Mycoplasma hominis
+Mycoplasma hominis
+Mycoplasma pneumoniae
+Mycoplasma pneumoniae
+Mycoplasma genitalium
+Mycoplasma genitalium
+Ureaplasma urealyticum（解脲脲原体）
+Ureaplasma urealyticum（解脲脲原体）
+光镜下看不到支原体。
+关于Mycoplasma（支原体）属的诊断和治疗建议，请参见泌尿生殖道支原体感染。
+
+【Mycoplasma pneumoniae】
+M. pneumoniae（肺炎支原体）是呼吸道感染的常见病原体，可引发急性上呼吸道感染（URI）和急性支气管炎等疾病。它会导致部分患者患上肺炎，尤其是社区获得性肺炎。由于支原体感染不像大多数社区获得性肺炎病例那样对β-内酰胺类抗生素产生反应，因此它们有时被称为非典型病原体。
+支原体肺炎的爆发常见于聚集性场所，包括学校、儿童夏令营和军事设施。
+M. pneumoniae（肺炎支原体）也可诱发反应性气道疾病。
+
+【Mycoplasma genitalium】
+证据表明M. genitalium（生殖支原体）和U. urealyticum（解脲脲原体）可引起部分性传播感染病例，包括非淋菌性尿道炎。它们（和M. hominis（人型支原体））常存在于其他泌尿生殖道感染（例如，阴道炎，宫颈炎，肾盂肾炎，盆腔炎）和一些非泌尿生殖道感染的患者中，其中它们的作用尚不清楚。
+
+【Mycoplasma hominis】
+M. hominis（人型支原体）和Ureaplasma（脲原体）属是共生生物，为泌尿生殖道黏膜正常菌群的组成部分。但如果患者存在黏膜受损（如因创伤或医源性操作）、早产或存在免疫功能低下，这些微生物可能扩散并引发感染。

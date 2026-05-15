@@ -1,0 +1,41 @@
+标题：胸部物理疗法
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/pulmonary-rehabilitation/chest-physiotherapy
+============================================================
+
+胸部物理疗法包括胸壁叩击、体位引流、震荡等体外机械性手段，用以促进气道分泌物的移行和清除。它适用于咳嗽不能有效清除黏稠、顽固、丰富或包裹性的分泌物者 (1)。 例如患者有
+支气管扩张（囊性纤维化相关和非囊性纤维化相关）
+支气管扩张（囊性纤维化相关和非囊性纤维化相关）
+COPD（慢性阻塞性肺疾病），在某些临床情况下（2)
+COPD（慢性阻塞性肺疾病），在某些临床情况下（2)
+囊性纤维化
+囊性纤维化
+神经肌肉病变
+神经肌肉病变
+肺部独立区域的肺炎
+肺部独立区域的肺炎
+胸部物理治疗的禁忌证都是相对的，包括以下禁忌症：
+出血体质（包括治疗性抗凝）
+出血体质（包括治疗性抗凝）
+体位或操作引起的不适
+体位或操作引起的不适
+颅内压升高
+颅内压升高
+近期咯血
+近期咯血
+肋骨骨折
+肋骨骨折
+椎骨骨折或骨质疏松
+椎骨骨折或骨质疏松
+胸部物理治疗可由呼吸治疗师进行，但也可将操作技术教授给病人家属。
+最常用的操作是
+体位引流和胸部叩击
+体位引流和胸部叩击
+在体位引流和胸腔叩诊时，患者变换体位以促进特定肺叶或肺段分泌物的引流，同时用杯状手法叩击患者胸部使分泌物松解、移行，然后被咯出或引流出。这种操作在某种程度上使病人感到不适和疲劳。除了用手叩击之外，其他方式如机械振荡器和充气马甲也可用于胸部叩击。
+其他有助于清理气道的方法包括使用受控呼吸模式、呼气正压装置来保持气道通畅、抽吸和超低频气道振荡装置来促进排痰。清除气道的方式是可比较的，应根据患者的个人需要和喜好选择方法。
+并发症不常见，包括体位相关性低氧血症和分泌物误吸入其他肺区。
+
+【参考文献】
+1.McCool FD, Rosen MJ: Nonpharmacologic airway clearance therapies: AACP evidence-based clinical practice guidelines.Chest129:(1 suppl):250S–259S, 2006.doi: 10.1378/chest.129.1_suppl.25OS
+1.McCool FD, Rosen MJ: Nonpharmacologic airway clearance therapies: AACP evidence-based clinical practice guidelines.Chest129:(1 suppl):250S–259S, 2006.doi: 10.1378/chest.129.1_suppl.25OS
+2.Osadnik CR, McDonald CF, Jones AP, Holland AE: Airway clearance techniques for chronic obstructive pulmonary disease.Cochrane Database Syst RevMar 14;(3):CD008328, 2012.doi: 10.1002/14651858.CD008328.pub2
+2.Osadnik CR, McDonald CF, Jones AP, Holland AE: Airway clearance techniques for chronic obstructive pulmonary disease.Cochrane Database Syst RevMar 14;(3):CD008328, 2012.doi: 10.1002/14651858.CD008328.pub2

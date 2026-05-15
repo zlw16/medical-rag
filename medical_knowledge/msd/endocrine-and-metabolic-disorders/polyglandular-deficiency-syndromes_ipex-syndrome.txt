@@ -1,0 +1,28 @@
+标题：IPEX综合征
+来源：https://www.msdmanuals.cn/professional/endocrine-and-metabolic-disorders/polyglandular-deficiency-syndromes/ipex-syndrome
+============================================================
+
+IPEX综合征非常罕见，系由于转录因子FOXP3突变，相继引起调节性T淋巴细胞功能障碍、自身免疫紊乱(1)。
+IPEX综合征表现为次级淋巴器官重度肿大、1型糖尿病、湿疹、食物过敏及感染，通常在婴儿期发病，但也有儿童期晚发报道。继发性肠病会导致持续性腹泻和生长和体重增长迟缓。
+IPEX综合征诊断根据临床特征提示，基因分析证实。应考虑对兄弟姐妹和后代进行遗传咨询和有针对性的基因检测 (2,3)。
+
+【参考文献】
+1.Chen CB, Tahboub F, Plesec T, et al: A review of autoimmune enteropathy and its associated syndromes.Dig Dis Sci65(11): 3079–3090, 2020.doi: 10.1007/s10620-020-06540-8
+1.Chen CB, Tahboub F, Plesec T, et al: A review of autoimmune enteropathy and its associated syndromes.Dig Dis Sci65(11): 3079–3090, 2020.doi: 10.1007/s10620-020-06540-8
+2.Barzaghi F, Passerini L: IPEX syndrome: Improved knowledge of immune pathogenesis empowers diagnosis.Front Pediatr9:612760, 2021.Published 2021 Feb 22.doi:10.3389/fped.2021.612760
+2.Barzaghi F, Passerini L: IPEX syndrome: Improved knowledge of immune pathogenesis empowers diagnosis.Front Pediatr9:612760, 2021.Published 2021 Feb 22.doi:10.3389/fped.2021.612760
+3.Bacchetta R, Roncarolo MG: IPEX syndrome from diagnosis to cure, learning along the way.J Allergy Clin Immunol153(3):595–605, 2024. doi: 10.1016/j.jaci.2023.11.021
+3.Bacchetta R, Roncarolo MG: IPEX syndrome from diagnosis to cure, learning along the way.J Allergy Clin Immunol153(3):595–605, 2024. doi: 10.1016/j.jaci.2023.11.021
+
+【IPEX综合征的治疗】
+造血干细胞移植
+造血干细胞移植
+若未经治疗，IPEX综合征患儿通常在出生后第一年内死亡。造血干细胞移植已被证明对解决自身免疫性疾病和减少其他自身免疫表现的发展有益。对IPEX综合征患者进行造血干细胞移植治疗的长期随访仍在继续 (1,2,3)。
+
+【治疗参考文献】
+1.Barzaghi F, Amaya Hernandez LC, Neven B, et al: Long-term follow-up of IPEX syndrome patients after different therapeutic strategies: An international multicenter retrospective study.J Allergy Clin Immunol141(3):1036–1049.e5, 2018.doi: 10.1016/j.jaci.2017.10.041
+1.Barzaghi F, Amaya Hernandez LC, Neven B, et al: Long-term follow-up of IPEX syndrome patients after different therapeutic strategies: An international multicenter retrospective study.J Allergy Clin Immunol141(3):1036–1049.e5, 2018.doi: 10.1016/j.jaci.2017.10.041
+2.Ben-Skowronek I: IPEX syndrome: Genetics and treatment options.Genes(Basel) 12(3):323, 2021.Published 2021 Feb 24.doi:10.3390/genes12030323
+2.Ben-Skowronek I: IPEX syndrome: Genetics and treatment options.Genes(Basel) 12(3):323, 2021.Published 2021 Feb 24.doi:10.3390/genes12030323
+3.Bacchetta R, Roncarolo MG: IPEX syndrome from diagnosis to cure, learning along the way.J Allergy Clin Immunol153(3):595–605, 2024. doi: 10.1016/j.jaci.2023.11.021
+3.Bacchetta R, Roncarolo MG: IPEX syndrome from diagnosis to cure, learning along the way.J Allergy Clin Immunol153(3):595–605, 2024. doi: 10.1016/j.jaci.2023.11.021

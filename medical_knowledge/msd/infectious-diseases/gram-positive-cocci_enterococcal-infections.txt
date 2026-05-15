@@ -1,0 +1,45 @@
+标题：肠球菌感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-positive-cocci/enterococcal-infections
+============================================================
+
+肠球菌是肠道正常菌群的一部分。它们曾被划分为D组链球菌，但现在被认为是一个独立的属。共有超过60个种，但E. faecalis（粪肠球菌）和E. faecium（屎肠球菌）最常引起人类感染 (1)。
+肠球菌通常引起:
+尿路感染和前列腺炎
+尿路感染和前列腺炎
+心内膜炎
+心内膜炎
+腹腔和盆腔感染
+腹腔和盆腔感染
+皮肤、软组织和伤口感染
+皮肤、软组织和伤口感染
+
+【参考文献】
+1.Schwartzman JA, Lebreton F, Salamzade R, et al.Global diversity of enterococci and description of 18 previously unknown species.Proc Natl Acad Sci U S A.2024;121(10):e2310852121.doi:10.1073/pnas.2310852121
+1.Schwartzman JA, Lebreton F, Salamzade R, et al.Global diversity of enterococci and description of 18 previously unknown species.Proc Natl Acad Sci U S A.2024;121(10):e2310852121.doi:10.1073/pnas.2310852121
+
+【肠球菌感染的诊断】
+肠球菌是革兰氏阳性、兼性厌氧的球菌，通常成对或链状出现。大多数与D组抗血清反应，并在血琼脂上显示α或γ溶血。它们过氧化氢酶和脲酶反应呈阴性，能在40%胆盐存在下水解七叶苷，且L-吡咯烷酮-β-萘酰胺试验（PYR）结果为阳性。
+快速鉴定的分子测试包括聚合酶链反应（PCR）、16s rRNA测序、核酸扩增测试（NAAT）和蛋白质组学测试，如基质辅助激光解吸电离飞行时间（MALDI-TOF）。
+
+【肠球菌感染的治疗】
+根据感染部位及药敏结果而不同
+根据感染部位及药敏结果而不同
+与心内膜炎相关的Enterococci（肠球菌）很难清除（1），除非联合使用针对细胞壁的药物（如青霉素、氨苄西林、阿莫西林、哌拉西林、万古霉素）加上一种氨基糖苷类药物（如庆大霉素、链霉素）以达到杀菌活性 (2,3)。但是，一些细胞壁活性药物对肠球菌活性有限或无杀菌活性；它们包括萘夫西林、苯唑西林、替卡西林、厄他培南，大多数头孢菌素和氨曲南。E. faecium对青霉素耐药比E. faecalis更强。 当不能使用氨基糖苷类药物时，氨基青霉素如氨苄青霉素联合头孢曲松是治疗E. faecalis心内膜炎的有效方法。亚胺培南对E. faecalis有效，美罗培南也有效但稍弱。
+对于肠球菌引起的复杂性皮肤感染，达托霉素、利奈唑胺、泰地唑胺、替加环素和奥马环素皆是有效的治疗选择。
+当已知或推测涉及肠球菌的复杂腹腔内感染时，建议使用哌拉西林/他唑巴坦、亚胺培南/西司他丁或美罗培南、替加环素和伊拉环素。
+尿路感染不需要杀菌治疗，如果致病病原体是敏感的，通常给予单一抗生素治疗，如氨苄西林或阿莫西林。呋喃妥因和磷霉素也是仅适用于下尿路感染（如膀胱炎）的有效选择。
+在过去几十年，肠球菌对多种抗菌药耐药迅速增加，尤其是E. faecium。
+对氨基糖苷类耐药（例如，庆大霉素、链霉素）不断涌现，特别是E. faecium。
+耐万古霉素的肠球菌（VRE）也可能对其他糖肽类抗生素（如替考拉宁）、氨基糖苷类以及作用于细胞壁的β-内酰胺类抗生素（如青霉素G、氨苄西林）产生耐药 (4)。推荐的治疗包括恶唑烷酮类（利奈唑胺、替地唑胺）和达托霉素（如果敏感性保持）。奥利万星、替加环素、依拉环素和氯霉素对耐万古霉素肠球菌具有体外抗菌活性，可作为备选治疗方案。尽管过去曾使用过链阳性菌素（仅用于E. faecium（屎肠球菌）的奎奴普丁/达福普汀），但现已不再推荐用于肠球菌感染。呋喃妥因和磷霉素对耐万古霉素肠球菌引起的尿路感染往往有效。
+产 β-内酰胺酶的肠球菌有时难以根除，尤其是在组织中菌量较多时（如心内膜炎赘生物）。即使基于标准培养和药敏试验显示病原体表现为敏感，临床上仍可能存在耐药性。可以改用万古霉素或β-内酰胺类/β-内酰胺酶抑制剂类抗生素（例如哌拉西林/他唑巴坦、氨苄西林/舒巴坦）。
+肠球菌可以吸收外源产生的叶酸，从而逆转甲氧苄啶（TMP）和磺胺甲恶唑（SMX）的作用——这两种药物通过阻断细菌叶酸合成导致细胞死亡。因此，尽管体外药敏试验显示敏感，使用这些抗菌药物的治疗仍可能失败。因此，TMP/SMX通常不包括在肠球菌的药敏试验中。
+
+【治疗参考文献】
+1.McDonald EG, Aggrey G, Aslan AT, et al: Guidelines for Diagnosis and Management of Infective Endocarditis in Adults: A WikiGuidelines Group Consensus Statement.JAMA Netw Open.6(7):e2326366, 2023.doi:10.1001/jamanetworkopen.2023.26366
+1.McDonald EG, Aggrey G, Aslan AT, et al: Guidelines for Diagnosis and Management of Infective Endocarditis in Adults: A WikiGuidelines Group Consensus Statement.JAMA Netw Open.6(7):e2326366, 2023.doi:10.1001/jamanetworkopen.2023.26366
+2.Baddour LM, Wilson WR, Bayer AS, et al.Infective Endocarditis in Adults: Diagnosis, Antimicrobial Therapy, and Management of Complications: A Scientific Statement for Healthcare Professionals From the American Heart Association [published correction appears inCirculation.. 2015 Oct 27;132(17):e215. doi: 10.1161/CIR.0000000000000332.] [published correction appears inCirculation2016 Aug 23;134(8):e113. doi: 10.1161/CIR.0000000000000427.] [published correction appears inCirculation.2018 Jul 31;138(5):e78-e79. doi: 10.1161/CIR.0000000000000594.].Circulation.2015;132(15):1435-1486.doi:10.1161/CIR.0000000000000296
+2.Baddour LM, Wilson WR, Bayer AS, et al.Infective Endocarditis in Adults: Diagnosis, Antimicrobial Therapy, and Management of Complications: A Scientific Statement for Healthcare Professionals From the American Heart Association [published correction appears inCirculation.. 2015 Oct 27;132(17):e215. doi: 10.1161/CIR.0000000000000332.] [published correction appears inCirculation2016 Aug 23;134(8):e113. doi: 10.1161/CIR.0000000000000427.] [published correction appears inCirculation.2018 Jul 31;138(5):e78-e79. doi: 10.1161/CIR.0000000000000594.].Circulation.2015;132(15):1435-1486.doi:10.1161/CIR.0000000000000296
+3.Delgado V, Ajmone Marsan N, de Waha S, et al.2023 ESC Guidelines for the management of endocarditis [published correction appears inEur Heart J.2023 Dec 1;44(45):4780. doi: 10.1093/eurheartj/ehad625.] [published correction appears inEur Heart J.2024 Jan 1;45(1):56. doi: 10.1093/eurheartj/ehad776.] [published correction appears inEur Heart J.2025 Mar 13;46(11):1082. doi: 10.1093/eurheartj/ehae877.].Eur Heart J.2023;44(39):3948-4042.doi:10.1093/eurheartj/ehad193
+3.Delgado V, Ajmone Marsan N, de Waha S, et al.2023 ESC Guidelines for the management of endocarditis [published correction appears inEur Heart J.2023 Dec 1;44(45):4780. doi: 10.1093/eurheartj/ehad625.] [published correction appears inEur Heart J.2024 Jan 1;45(1):56. doi: 10.1093/eurheartj/ehad776.] [published correction appears inEur Heart J.2025 Mar 13;46(11):1082. doi: 10.1093/eurheartj/ehae877.].Eur Heart J.2023;44(39):3948-4042.doi:10.1093/eurheartj/ehad193
+4.García-Solache M, Rice LB.The Enterococcus: a Model of Adaptability to Its Environment.Clin Microbiol Rev.2019;32(2):e00058-18.Published 2019 Jan 30.doi:10.1128/CMR.00058-18
+4.García-Solache M, Rice LB.The Enterococcus: a Model of Adaptability to Its Environment.Clin Microbiol Rev.2019;32(2):e00058-18.Published 2019 Jan 30.doi:10.1128/CMR.00058-18

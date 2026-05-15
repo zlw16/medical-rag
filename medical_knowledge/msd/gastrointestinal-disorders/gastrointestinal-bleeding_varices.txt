@@ -1,0 +1,89 @@
+标题：静脉曲张
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/gastrointestinal-bleeding/varices
+============================================================
+
+门脉高压由多种原因引起，主要是肝硬化。如果门脉压力长时间高于下腔静脉，会形成静脉侧支。最危险的静脉侧支形成于食管远端和胃底，造成黏膜下静脉血管突起、迂曲，称为静脉曲张。曲张静脉能部分降低门脉高压，但易破裂，造成消化道大出血。静脉曲张破裂的诱因尚不明确，但门静脉 - 体循环压力梯度>12 毫米汞柱（正常<5 毫米汞柱）时，才会发生出血。肝病导致的凝血功能障碍可能加重出血。
+静脉曲张是由门静脉高压引起的扩张的食管黏膜下静脉，最常见于肝硬化。
+
+【经验与提示】
+经验与提示
+没有证据显示静脉曲张患者行鼻胃管操作可诱发出血。
+没有证据显示静脉曲张患者行鼻胃管操作可诱发出血。
+
+【静脉曲张的症状和体征】
+典型表现为患者突发无痛的上消化道出血，通常为大量出血。如果出血严重，可能会出现呕血。可出现休克体征。出血多源自于食管远端，较少来自胃底。胃静脉曲张破裂出血可以表现为急性，但以亚急性或慢性更常见。
+已有肝功能损害的患者，消化道出血可能加重肝性脑病。
+
+【静脉曲张的诊断】
+评估凝血功能
+评估凝血功能
+食管与胃静脉曲张的最佳诊断方法是内镜检查，内镜还可识别出血高风险的静脉曲张（如伴红色征的曲张静脉）(1)。即使已知存在食管胃底静脉曲张，内镜检查对于排除其他急性出血原因（如消化性溃疡）也至关重要；研究表明，在已知患有肝硬化并出现上消化道出血的患者中，多达三分之一的出血并非由静脉曲张引起（2）。
+静脉曲张破裂出血（箭头）。
+因为静脉曲张通常与严重肝病密切相关，故评价患者凝血功能非常重要。实验室检查包括全血细胞计数（CBC）及血小板计数，凝血酶原时间（PT），部分凝血活酶时间（PTT）和肝功能检查。出血患者应进行多个（通常≥ 6）单位浓缩红细胞的血型鉴定和交叉配血。
+
+【经验与提示】
+经验与提示
+由于已知肝硬化患者中高达三分之一的出血可能源自非静脉曲张，因此需通过内镜检查排除非静脉曲张性出血源。
+由于已知肝硬化患者中高达三分之一的出血可能源自非静脉曲张，因此需通过内镜检查排除非静脉曲张性出血源。
+
+【诊断参考】
+1.Hwang JH, Shergill AK, Acosta RD, et al; American Society for Gastrointestinal Endoscopy.The role of endoscopy in the management of variceal hemorrhage.Gastrointest Endosc.2014 Aug;80(2):221-7.doi: 10.1016/j.gie.2013.07.023
+1.Hwang JH, Shergill AK, Acosta RD, et al; American Society for Gastrointestinal Endoscopy.The role of endoscopy in the management of variceal hemorrhage.Gastrointest Endosc.2014 Aug;80(2):221-7.doi: 10.1016/j.gie.2013.07.023
+2.Zullo A, Soncini M, Bucci C, Marmo R; Gruppo Italiano per lo Studio dell'Emorragia Digestiva (GISED) (Appendix).Clinical outcomes in cirrhotics with variceal or nonvariceal gastrointestinal bleeding: A prospective, multicenter cohort study.J Gastroenterol Hepatol.2021 Nov;36(11):3219-3223.doi: 10.1111/jgh.15601
+2.Zullo A, Soncini M, Bucci C, Marmo R; Gruppo Italiano per lo Studio dell'Emorragia Digestiva (GISED) (Appendix).Clinical outcomes in cirrhotics with variceal or nonvariceal gastrointestinal bleeding: A prospective, multicenter cohort study.J Gastroenterol Hepatol.2021 Nov;36(11):3219-3223.doi: 10.1111/jgh.15601
+
+【静脉曲张的治疗】
+气道管理和液体复苏，若有必要可输血。
+气道管理和液体复苏，若有必要可输血。
+内镜套扎（注射硬化剂是第二选择）
+内镜套扎（注射硬化剂是第二选择）
+静注奥曲肽
+静注奥曲肽
+有时用抗生素
+有时用抗生素
+可选择经颈静脉肝内门体分流术（TIPS）
+可选择经颈静脉肝内门体分流术（TIPS）
+气道管理和液体复苏, 包括必要情况下的输血，以纠正低血容量及失血性休克。凝血功能异常的患者（如国际标准化比值[INR]显著升高）可以用1～2单位的新鲜冰冻血浆治疗，但应慎重，因为给非低血容量患者补充大量液体，实际可能促进静脉曲张破裂出血，提高死亡率(1)。
+已知的肝硬化消化道出血的患者有细菌感染的风险，应接受诺氟沙星或头孢曲松钠的抗生素预防。
+如果服用非选择性β受体阻滞剂（如普萘洛尔）用于原发性预防静脉曲张出血的患者出现活动性出血和低血压，应停用β受体阻滞剂。
+因静脉曲张均为内镜诊断，治疗主要为内镜下治疗。与内镜下注射硬化剂相比，更推荐内镜下套扎。同时，应在内镜检查后给予静脉注射奥曲肽（一种合成的生长抑素类似物，也可使用），初始推注，然后输注 3 至 5 天（2）。奥曲肽能抑制内脏血管舒张因子（如胰高糖素和血管活性肠肽）的释放，从而增加内脏血管阻力。与以往使用的药物，如血管升压素和特立升压素相比，奥曲肽的副作用更少 (3)。
+对于某些肝硬化患者，氨甲环酸给药可提高内镜下套扎术的成功率，并可能降低再出血率（4）。
+如果以上方法处理后还持续出血或再出血，则需紧急在门脉系统和腔静脉系统之间建立“短路”通道，从而降低门静脉压力，减少出血。经颈静脉肝内门体分流术（TIPS）为紧急情况下选择方案 (5)。此为X线辅助下有创操作：导丝由下腔静脉穿过肝实质，进入门静脉循环系统。用可扩张的球囊导管扩大此通道，并植入金属支架，从而在门静脉和肝静脉体系之间建立通路。支架的型号很关键。如果支架太大，那么会有过多的门静脉血流入体循环，此时容易发生肝性脑病。如果支架太小，很容易堵塞。
+用三腔二囊管或其改良装置对出血静脉曲张进行机械压迫，会导致严重并发症，不应作为首选治疗。但是这种管子在TIPS或外科减压手术前填塞，可以起到维持生命的作用。此管为可弯曲鼻胃管，附有一个胃气囊与一个食管气囊。插入后，向胃囊内注入一定量空气使其扩张，再向外拉，使扩张的胃囊压迫于胃食管交界处。这个气囊通常足以止血，如果未能止血，则需充气食管囊至压力为25 mmHg。这种操作使患者十分难受，也可能造成食管穿孔和吸入性肺炎；所以常推荐在气管内插管和静脉麻醉下操作。
+可膨胀金属食管支架已成功用于压迫止血。
+肝移植也能降低门脉压力，但只对那些已经排在移植等待名单上的患者才有意义。
+降低门脉压力的长期药物治疗（beta-阻滞剂和硝酸盐类）见另述。门体分流性脑病亦需治疗。
+脾切除术可治疗胃静脉血栓导致的胃底静脉曲张出血（有时是胰腺炎的后遗症）。
+
+【治疗参考文献】
+1.Mohanty A, Kapuria D, Canakis A, et al.Fresh frozen plasma transfusion in acute variceal haemorrhage: Results from a multicentre cohort study.Liver Int.41(8):1901–1908, 2021.doi: 10.1111/liv.14936
+1.Mohanty A, Kapuria D, Canakis A, et al.Fresh frozen plasma transfusion in acute variceal haemorrhage: Results from a multicentre cohort study.Liver Int.41(8):1901–1908, 2021.doi: 10.1111/liv.14936
+2.Boregowda U, Umapathy C, Halim N, et al.Update on the management of gastrointestinal varices.World J Gastrointest Pharmacol Ther.10(1):1–21, 2019.doi: 10.4292/wjgpt.v10.i1.1
+2.Boregowda U, Umapathy C, Halim N, et al.Update on the management of gastrointestinal varices.World J Gastrointest Pharmacol Ther.10(1):1–21, 2019.doi: 10.4292/wjgpt.v10.i1.1
+3.Hwang JH, Shergill AK, Acosta RD, et al; American Society for Gastrointestinal Endoscopy.The role of endoscopy in the management of variceal hemorrhage.Gastrointest Endosc.2014 Aug;80(2):221-7.doi: 10.1016/j.gie.2013.07.023
+3.Hwang JH, Shergill AK, Acosta RD, et al; American Society for Gastrointestinal Endoscopy.The role of endoscopy in the management of variceal hemorrhage.Gastrointest Endosc.2014 Aug;80(2):221-7.doi: 10.1016/j.gie.2013.07.023
+4.Kumar M, Venishetty S, Jindal A, Bihari C, Maiwall R, Vijayaraghavan R, Saggere Muralikrishna S, Arora V, Kumar G, Sarin SK.Tranexamic acid in upper gastrointestinal bleed in patients with cirrhosis: A randomized controlled trial.Hepatology.2024 Aug 1;80(2):376-388.doi: 10.1097/HEP.0000000000000817
+4.Kumar M, Venishetty S, Jindal A, Bihari C, Maiwall R, Vijayaraghavan R, Saggere Muralikrishna S, Arora V, Kumar G, Sarin SK.Tranexamic acid in upper gastrointestinal bleed in patients with cirrhosis: A randomized controlled trial.Hepatology.2024 Aug 1;80(2):376-388.doi: 10.1097/HEP.0000000000000817
+5.Kaplan DE, Ripoll C, Thiele M, Fortune BE, Simonetto DA, Garcia-Tsao G, Bosch J.AASLD Practice Guidance on risk stratification and management of portal hypertension and varices in cirrhosis.Hepatology.2024 May 1;79(5):1180-1211.doi: 10.1097/HEP.0000000000000647
+5.Kaplan DE, Ripoll C, Thiele M, Fortune BE, Simonetto DA, Garcia-Tsao G, Bosch J.AASLD Practice Guidance on risk stratification and management of portal hypertension and varices in cirrhosis.Hepatology.2024 May 1;79(5):1180-1211.doi: 10.1097/HEP.0000000000000647
+
+【静脉曲张的预后】
+约40%曲张静脉破裂出血患者，出血可自行停止。
+6周时死亡率为15%至25%；5年死亡率介于20%至80%之间，具体取决于反映潜在肝病严重程度的并发症（1）。 严重肝细胞功能受损（如重度肝硬化）患者，其出血常常是致命性的，而那些肝功能储备良好的患者通常可以恢复。
+存活的患者依然面临着再次静脉曲张出血的高风险。持续的内镜检查或药物治疗（即内镜下套扎术或非选择性β受体阻滞剂）可显著降低这种风险，据报道，再出血率根据治疗策略的不同在 5% 至 60% 之间（2，3）。然而，对长期死亡率的总体影响似乎很小，可能是因为潜在的肝病。
+
+【预后参考】
+1.Garcia-Tsao G, Abraldes JG, Berzigotti A, Bosch J.Portal hypertensive bleeding in cirrhosis: Risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the study of liver diseases.Hepatology.2017 Jan;65(1):310-335.doi: 10.1002/hep.28906.Epub 2016 Dec 1.Erratum in:Hepatology.2017 Jul;66(1):304.doi: 10.1002/hep.29169
+1.Garcia-Tsao G, Abraldes JG, Berzigotti A, Bosch J.Portal hypertensive bleeding in cirrhosis: Risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the study of liver diseases.Hepatology.2017 Jan;65(1):310-335.doi: 10.1002/hep.28906.Epub 2016 Dec 1.Erratum in:Hepatology.2017 Jul;66(1):304.doi: 10.1002/hep.29169
+2.Kaplan DE, Ripoll C, Thiele M, Fortune BE, Simonetto DA, Garcia-Tsao G, Bosch J.AASLD Practice Guidance on risk stratification and management of portal hypertension and varices in cirrhosis.Hepatology.2024 May 1;79(5):1180-1211.doi: 10.1097/HEP.0000000000000647
+2.Kaplan DE, Ripoll C, Thiele M, Fortune BE, Simonetto DA, Garcia-Tsao G, Bosch J.AASLD Practice Guidance on risk stratification and management of portal hypertension and varices in cirrhosis.Hepatology.2024 May 1;79(5):1180-1211.doi: 10.1097/HEP.0000000000000647
+3.Branch-Elliman W, Perumalswami P, Factor SH, Sled SM, Flamm SL.Rates of recurrent variceal bleeding are low with modern esophageal banding strategies: a retrospective cohort study.Scand J Gastroenterol.2015;50(9):1059-67.doi: 10.3109/00365521.2015.1027263
+3.Branch-Elliman W, Perumalswami P, Factor SH, Sled SM, Flamm SL.Rates of recurrent variceal bleeding are low with modern esophageal banding strategies: a retrospective cohort study.Scand J Gastroenterol.2015;50(9):1059-67.doi: 10.3109/00365521.2015.1027263
+肝硬化患者曲张静脉破裂是主要但非唯一消化道出血病因。
+肝硬化患者曲张静脉破裂是主要但非唯一消化道出血病因。
+基础肝病的严重程度是出血事件死亡率的主要决定因素。
+基础肝病的严重程度是出血事件死亡率的主要决定因素。
+内镜可用于诊断和治疗；治疗方法包括套扎或硬化疗法。
+内镜可用于诊断和治疗；治疗方法包括套扎或硬化疗法。
+静脉曲张出血的复发率为5%至40%，具体取决于治疗方式。
+静脉曲张出血的复发率为5%至40%，具体取决于治疗方式。

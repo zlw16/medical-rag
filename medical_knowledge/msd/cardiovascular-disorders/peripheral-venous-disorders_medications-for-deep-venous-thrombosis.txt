@@ -1,0 +1,177 @@
+标题：治疗深静脉血栓形成的药物
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/peripheral-venous-disorders/medications-for-deep-venous-thrombosis
+============================================================
+
+几乎所有深静脉血栓形成（DVT）患者给予抗凝剂，极少数情况下给予溶栓剂。 许多抗凝剂可有效治疗深静脉血栓形成（参见深静脉血栓形成)。
+非药物治疗包括手术和下腔静脉滤器。
+抗凝剂（见图抗凝剂及其作用部位和表口服抗凝药）包括
+低分子肝素（LMWHs）
+低分子肝素（LMWHs）
+普通肝素（UFH）
+普通肝素（UFH）
+Xa因子抑制剂：口服（阿哌沙班，利伐沙班，依杜沙班）和肠外制剂（磺达肝癸钠）
+Xa因子抑制剂：口服（阿哌沙班，利伐沙班，依杜沙班）和肠外制剂（磺达肝癸钠）
+直接凝血酶抑制剂：口服（达比加群酯）和肠外制剂（阿加曲班、比伐卢定、地西卢定）
+直接凝血酶抑制剂：口服（达比加群酯）和肠外制剂（阿加曲班、比伐卢定、地西卢定）
+口服Xa因子抑制剂和直接凝血酶抑制剂有时也称为直接口服抗凝剂（DOAC）。然而，也有同时抑制Xa因子和凝血酶的肠外制剂（普通肝素），主要抑制Xa因子的肠外制剂（低分子肝素），或仅抑制Xa因子（磺达肝癸钠）。这些药物可用于 DVT 患者和肺栓塞 (PE) 患者。
+
+【抗凝血剂及其作用位点】
+抗凝血剂及其作用位点
+LMWH = 低分子量肝素;TF = 组织因子;UFH = 普通肝素。
+
+【治疗静脉血栓直接口服抗凝剂】
+治疗静脉血栓直接口服抗凝剂
+药物治疗
+因子Ⅹa抑制剂
+阿哌沙班
+10mg bid，共7天
+然后5mg bid
+如果肌酐清除率<30 毫升/分钟 (0.5mL/s/m2)，则不应使用阿哌沙班治疗深静脉血栓或肺栓塞。
+治疗6-12个月后，剂量可降低至2.5 mg bid。
+依杜沙班
+60mg，每天1次
+如果肌酐清除率为 15–50 毫升/分钟 (0.25-0.83 mL/s/m2) 或体重≤60 kg，则使用 30mg qd。
+需要用低分子量肝素初始治疗 5 天。
+肌酐清除率<15毫升/分钟时不能使用依度沙班 (0.25 mL/s/m2).
+利伐沙班
+15mg，每天两次，与食物同服，疗程21天
+然后20mg qd，与食物同服
+当肌酐清除率<30毫升/分钟(0.5mL/s/m2)时不应用利伐沙班治疗深静脉血栓或肺栓塞。
+治疗6-12个月后，剂量可降低至10 mg qd。
+因子IIa（凝血酶)）抑制剂
+达比加群
+150mg bid
+需要用低分子量肝素初始治疗 5 天。
+当肌酐清除率<30毫升/分钟(0.5mL/s/m2)时不应用达比加群治疗深静脉血栓。
+DVT=深静脉血栓；PE=肺栓塞。
+DVT=深静脉血栓；PE=肺栓塞。
+
+【DVT的抗凝策略】
+DVT患者有几种抗凝治疗策略：
+初始治疗使用注射肝素（普通肝素或低分子量肝素），几天后使用口服抗凝药物（如华法林，一种Xa因子抑制剂或直接凝血酶抑制剂）进行长期治疗。
+初始治疗使用注射肝素（普通肝素或低分子量肝素），几天后使用口服抗凝药物（如华法林，一种Xa因子抑制剂或直接凝血酶抑制剂）进行长期治疗。
+LMWH的初始和长期治疗
+LMWH的初始和长期治疗
+某些口服Xa因子抑制剂（利伐沙班或阿哌沙班）的初始和长期治疗
+某些口服Xa因子抑制剂（利伐沙班或阿哌沙班）的初始和长期治疗
+治疗深静脉血栓的给药方案与预防心房颤动患者血栓栓塞的给药方案不同。
+一些(但不是全部)直接口服抗凝剂可以替代华法林作为DVT和PE的一线治疗，也可以作为单药治疗（见表口服抗凝药)。与华法林相比，这些药物对复发 性DVT的保护作用相似，且有相似的（用阿哌沙班 可能略低）严重出血的风险 (1)。
+它们的优点是在数小时内有效，因此不需要使用肝素进行一段时间的重叠治疗（桥接治疗），尽管依多沙班和达比加群需要使用至少5天的注射抗凝剂进行预处理。而且，它们以固定剂量给药，因此与华法林不同，不需要进行实验室监测。
+主要缺点是与华法林相比成本更高，并且在发生出血或需要紧急手术或操作时，DOAC逆转剂的成本较高。
+治疗时间不同。 具有暂时性DVT危险因素（如，制动，手术）的患者通常可以在3到6个月后停止服用抗凝剂。无已知危险因素的特发性（或无故）DVT患者，或复发的DVT患者应服用抗凝剂至少6个月，在特定的患者中可能需要终身服用，除非他们有并发出血的高风险。癌症相关血栓形成的患者应接受至少3个月的抗凝治疗。对于正在接受癌症治疗的患者和患有晚期转移性疾病的患者，治疗时间通常更长。选择性高凝状态（例如抗磷脂综合征、蛋白C/蛋白S或抗凝血酶缺乏症）的患者也应考虑延长抗凝时间。
+
+【低分子肝素（LMWHs）】
+低分子量肝素(如依诺肝素、达特肝素、丁沙肝素)是首选的初始治疗方法之一，因为低分子量肝素可以在门诊进行。低分子肝素与普通肝素(UFH) 在减少深静脉血栓复发、血栓扩展和肺栓塞导致的死亡风险方面同样有效（2）。与UFH一样，LMWHs催化抗凝血酶（抑制凝血因子蛋白酶）的作用，导致凝血因子Xa失活，并在较小程度上导致因子IIa失活。低分子肝素也有一些抗凝血酶介导的抗炎特性，这有利于血栓机化和症状及炎症的消退。
+一般根据标准体重给予LMWHs皮下注射（如，依诺肝素1.5mg/kg皮下注射 qd，或1mg/kg皮下注射 q12h；或达肝素钠200U/kg皮下注射 qd）。肾功能不全的病人可以用UFH或者减量的LMWHs治疗。监测是不可靠的，因为LMWH并不明显延长凝血检测总体结果。而且，它们具有可预测的剂量反应，低分子肝素的抗凝效应和出血之间也无明确的关系。如果在初始抗凝后使用华法林，则继续使用 LMWH 治疗，直至达到完全抗凝华法林（通常大约 5 天）。过渡到口服药物利伐沙班或阿哌沙班可以在任何时间进行，没有重叠。过渡至依多沙班或达比加群需要至少5天的LMWH治疗，但无需重叠。
+LMWH 和直接口服抗凝剂是癌症相关 DVT 患者的一线治疗选择（3），包括有中心静脉导管并发生 DVT 的患者。华法林价格低廉，是二线替代药物，但使用时需要仔细监控。
+LMWH的并发症包括出血、血小板减少症、荨麻疹，以及罕见的血栓形成和过敏反应。对住院病人和有条件的门诊病人应检测全血细胞计数和粪便隐血试验以筛查出血情况。
+
+【普通肝素（UFH）】
+对住院患者和肾功能不全或衰竭的患者（肌酐清除率10~30mL/min，即0.17~0.5mL/s/m2)）可用普通肝素来代替低分子肝素，因为普通肝素不经肾脏清除。普通肝素先给予一次推注，然后持续输注以达到充分抗凝（例如，活化部分凝血活酶时间[aPTT]达到参考范围的1.5至2.5倍）。对于门诊患者，UFH 333单位/kg初始推注，然后每12小时皮下注射250单位/kg，可代替静脉用UFH以促进流动性； 剂量无需根据aPTT进行调整。如果在初始抗凝后使用华法林，则继续 UFH，直至达到完全抗凝华法林（约5天）。
+普通肝素的并发症与低分子肝素相似，除了肝素诱导的血小板减少症，这种情况虽罕见且可能危及生命，但在普通肝素中更为常见。长期应用UFH引起高钾血症、肝酶升高和骨质疏松症。UFH皮下注射可引起皮肤坏死这一罕见的并发症。住院患者和可能使用普通肝素的门诊患者应接受出血筛查。
+
+【因子Ⅹa抑制剂】
+利伐沙班和阿哌沙班可在诊断后立即作为单一疗法开始使用，或在任何时候从注射用肝素过渡使用而无重叠。剂量利伐沙班每天两次口服 15 毫克，持续 3 周，然后每天口服一次 20 毫克，总共 3 至 6 个月。阿哌沙班的剂量为10mg口服，每日2次，持续7天，然后5mg口服，每日2次，持续3至6个月。对于需要长期抗凝治疗且具有高静脉血栓栓塞复发风险的患者，标准剂量治疗6个月后采用低强度给药（阿哌沙班2.5mg每日两次或利伐沙班10mg每日一次）可降低大出血事件风险，且在预防血栓复发方面具有非劣效性（4，5）。
+在开始使用艾多沙班之前，需要进行 5 至 7 天的 LMWH 或 UFH 治疗。然后口服艾多沙班 60 mg，一天一次。为了从注射用抗凝剂过渡，通常在每天两次LMWH方案的最后一次给药后6至12小时内开始使用，或在每天一次LMWH方案的12至24小时内开始使用Xa因子抑制剂。
+证据表明，阿哌沙班、依多沙班和利伐沙班可以用于某些癌症相关性静脉血栓栓塞症（VTE）患者，作为LMWH单药治疗的替代方案（6, 7, 8)。
+磺达肝素，一种选择性Xa因子抑制剂，可以作为普通肝素或LMWH的替代用于首次接受治疗的DVT或PE。用法为固定剂量7.5mg 皮下注射 qd（体重>100kg者10mg，体重<50kg者5mg）。其优势在于剂量固定且不易导致血小板减少症。
+
+【直接凝血酶抑制剂】
+达比加群150mg po bid，仅在初始5天低分子肝素治疗后使用。它通常在每日两次LMWH方案的最后一次给药后的6至12个小时内开始，或在每日一次LMWH方案的12至24个小时内开始。
+肠外直接凝血酶抑制剂（阿加曲班、比伐卢定、地西卢定）也可用，但在深静脉血栓或肺栓塞的治疗或预防中没有作用。对肝素诱导的血小板减少症的患者，阿加曲班可用于治疗DVT。
+
+【维生素K拮抗剂（华法林）】
+华法林是未怀孕的 DVT 患者的一种治疗选择。对于严重肾功能不全的患者来说，这也是一种选择。华法林也是癌症相关静脉血栓栓塞症患者的二线选择。
+可在开始使用肝素时立即开始口服华法林5～10mg，因为需要约 5 天才能达到预期治疗效果。老年患者和肝病患者通常需要降低华法林剂量。治疗目标是国际标准化比值（INR）为2.0至3.0。在华法林治疗的前1到2个月内，需每周监测INR，此后每月监测一次。 剂量增加或减少0.5至3 mg，以将INR维持在此范围内。应告知服用华法林的患者可能的药物相互作用，包括与食物或非处方的草药的相互作用。
+极少数情况下，华法林会导致遗传性蛋白 C缺乏症或蛋白 S 缺乏症患者的皮肤坏死。
+
+【抗凝血剂治疗参考文献】
+1.Kearon C, Aki EA, Ornelas J, et al: CHEST Guideline and Expert Panel Report: Antithrombotic therapy for VTE disease.Chest149:315–352, 2016.doi: https://doi.org/10.1016/j.chest.2015.11.026
+1.Kearon C, Aki EA, Ornelas J, et al: CHEST Guideline and Expert Panel Report: Antithrombotic therapy for VTE disease.Chest149:315–352, 2016.doi: https://doi.org/10.1016/j.chest.2015.11.026
+2.Segal JB, Streiff MB, Hofmann LV, Thornton K, Bass EB: Management of venous thromboembolism: a systematic review for a practice guideline [published correction appears inAnn Intern Med2007 Mar 6;146(5):396.Hoffman, Lawrence V [corrected to Hofmann, Lawrence V]].Ann Intern Med146(3):211–222, 2007.doi:10.7326/0003-4819-146-3-200702060-00150
+2.Segal JB, Streiff MB, Hofmann LV, Thornton K, Bass EB: Management of venous thromboembolism: a systematic review for a practice guideline [published correction appears inAnn Intern Med2007 Mar 6;146(5):396.Hoffman, Lawrence V [corrected to Hofmann, Lawrence V]].Ann Intern Med146(3):211–222, 2007.doi:10.7326/0003-4819-146-3-200702060-00150
+3.Schrag D, Uno H, Rosovsky R, et al: Direct Oral Anticoagulants vs Low-Molecular-WeightHeparinand Recurrent VTE in Patients With Cancer: A Randomized Clinical Trial.JAMA329(22):1924–1933, 2023.doi:10.1001/jama.2023.7843
+3.Schrag D, Uno H, Rosovsky R, et al: Direct Oral Anticoagulants vs Low-Molecular-WeightHeparinand Recurrent VTE in Patients With Cancer: A Randomized Clinical Trial.JAMA329(22):1924–1933, 2023.doi:10.1001/jama.2023.7843
+4.Couturaud F, Schmidt J, Sanchez O, et al: Extended treatment of venous thromboembolism with reduced-dose versus full-dose direct oral anticoagulants in patients at high risk of recurrence: a non-inferiority, multicentre, randomised, open-label, blinded endpoint trial.Lancet405(10480):725-735, 2025.doi:10.1016/S0140-6736(24)02842-3
+4.Couturaud F, Schmidt J, Sanchez O, et al: Extended treatment of venous thromboembolism with reduced-dose versus full-dose direct oral anticoagulants in patients at high risk of recurrence: a non-inferiority, multicentre, randomised, open-label, blinded endpoint trial.Lancet405(10480):725-735, 2025.doi:10.1016/S0140-6736(24)02842-3
+5.Mahé I, Carrier M, Mayeur D, et al: Extended Reduced-DoseApixabanfor Cancer-Associated Venous Thromboembolism.N Engl J Med392(14):1363-1373, 2025.doi:10.1056/NEJMoa2416112
+5.Mahé I, Carrier M, Mayeur D, et al: Extended Reduced-DoseApixabanfor Cancer-Associated Venous Thromboembolism.N Engl J Med392(14):1363-1373, 2025.doi:10.1056/NEJMoa2416112
+6.Agnelli G, Becattini C, Meyer G, et al:Apixabanfor the treatment of venous thromboembolism associated with cancer.N Engl J Med382:1599–1607, 2020.doi: 10.1056/NEJMoa1915103
+6.Agnelli G, Becattini C, Meyer G, et al:Apixabanfor the treatment of venous thromboembolism associated with cancer.N Engl J Med382:1599–1607, 2020.doi: 10.1056/NEJMoa1915103
+7.Raskob GE, van Es N, Verhamme P, et al:Edoxabanfor the treatment of cancer-associated venous thromboembolism.N Engl J MedDec 12, 2017.doi: 10.1056/NEJMoa1711948
+7.Raskob GE, van Es N, Verhamme P, et al:Edoxabanfor the treatment of cancer-associated venous thromboembolism.N Engl J MedDec 12, 2017.doi: 10.1056/NEJMoa1711948
+8.Young AM, Marshall A, Thirlwall J, et al: Comparison of an oralfactor Xainhibitor with low molecular weightheparinin patients with cancer with venous thromboembolism: Results of a randomized trial (SELECT-D).J Clin Oncol36: 2017–2023, 2018.doi: 10.1200/JCO.2018.78.8034
+8.Young AM, Marshall A, Thirlwall J, et al: Comparison of an oralfactor Xainhibitor with low molecular weightheparinin patients with cancer with venous thromboembolism: Results of a randomized trial (SELECT-D).J Clin Oncol36: 2017–2023, 2018.doi: 10.1200/JCO.2018.78.8034
+
+【接受抗凝治疗时出血】
+出血是最常见的抗凝剂并发症，其程度有从轻微到危及生命的严重出血。
+对于轻微出血（例如鼻出血），局部止血措施（例如直接施压）通常就足够了。除非出血变得更加严重，否则通常不停止或逆转抗凝剂。
+对于严重出血（如，严重的胃肠道出血），通常不使用抗凝剂（至少暂时不使用），并采取其他措施。出血被认为是严重的，当：
+重度失血（≤7天内失血≥2个单位）
+重度失血（≤7天内失血≥2个单位）
+在关键部位（如颅内，眼内）
+在关键部位（如颅内，眼内）
+在难以止血的部位（如小肠，后鼻腔，肺）
+在难以止血的部位（如小肠，后鼻腔，肺）
+严重出血的危险因素包括
+年龄≥65 岁
+年龄≥65 岁
+既往消化道出血病史或卒中
+既往消化道出血病史或卒中
+近期心肌梗死
+近期心肌梗死
+合并贫血（血细胞比容<30%）、肾功能不全（血清肌酐>1.5 mg/dL [115 μmol/L]）或糖尿病
+合并贫血（血细胞比容<30%）、肾功能不全（血清肌酐>1.5 mg/dL [115 μmol/L]）或糖尿病
+对严重出血的支持性治疗包括局部止血措施（如直接加压，烧灼，注射）。有体液减少的体征和症状的患者以及持续大量出血的患者可能需要静脉液体复苏和浓缩红细胞输注。这些措施足以应付许多出血事件。
+对于有威胁生命和/或持续出血或关键部位出血的患者，临床医生还考虑给予
+凝血因子（例如凝血酶原复合物浓缩物，新鲜的冷冻血浆）
+凝血因子（例如凝血酶原复合物浓缩物，新鲜的冷冻血浆）
+抗纤溶药
+抗纤溶药
+但是，根据定义，这些药物具有血栓形成作用，持续出血的风险应与增加血栓形成风险相平衡。
+
+【抗凝逆转】
+许多抗凝剂都有特定的逆转剂。如果无法获得或无效，可以给予凝血因子，通常为4因子凝血酶原复合物浓缩物或有时为新鲜的冷冻血浆。有些抗凝血剂可以通过血液透析去除，或者被活性炭阻断吸收。
+肝素所致出血使用鱼精蛋白可使出血停止或减慢。鱼精蛋白仅部分中和低分子肝素对Xa因子的失活，因此对UFH比低分子肝素更有效。剂量为每100单位普通肝素或每1毫克低分子肝素给予1毫克鱼精蛋白；鱼精蛋白缓慢输注10至20分钟（10分钟内最大剂量50毫克）。根据服用UFH以来的时间降低剂量。如果需要第2次给药，应给予第1次剂量的一半。在整个输注期间，应观察病人低血压和过敏样反应。由于静脉给予UFH的半衰期为30～60分钟，鱼精蛋白通常不给予已接受普通肝素>60~120分钟的患者，或根据普通肝素半衰期估计血浆中残余的肝素剂量来减量给予。
+用维生素K逆转华法林的抗凝作用；如果INR在5～9之间，维生素K用量为 1~2.5mg口服；如果INR>9，则用量为2.5～5mg；如果有活动性出血，则予5-10mg静注（缓慢给药以防过敏）。如果出血严重，应给予凝血酶原复合物浓缩剂；如果凝血酶原复合物浓缩剂不可用，则可以使用新鲜冰冻血浆。特定的过度抗凝患者（INR 5～9），本身既无活动性出血也无出血风险增加，处理时可以停止应用1到2次华法林，更频繁地检测INR，然后给予低剂量华法林。
+对于达比加群,人源化单克隆抗体idarucizumab 5g IV是有效的出血解毒剂。如果该药物不可用，可给予4因子凝血酶原复合物浓缩剂50单位/千克静脉注射。血液透析也可能有帮助，因为达比加群不是高蛋白质结合物。如果达比加群的最后剂量在2小时内，可以选择口服活性炭。
+对于Xa因子抑制剂，安德沙奈α是美国可用的一种解毒剂；但是，由于其高昂的成本，它的使用受到一定的限制（1）。如果患者正在使用高剂量的Xa因子抑制剂（例如，利伐沙班> 10 mg或阿哌沙班> 5 mg），或者患者在就诊前<8小时服用了该药物，则应使用大剂量的安德沙奈α（800mg iv，给药速度30mg/min，随后960mg iv，速度8mg/min）。如果患者服用低剂量的Xa因子抑制剂或在就诊前服药时间> 8小时，则应使用较低剂量的安德沙奈α（400 mg iv，速率为30 mg/min，随后480mg iv，速率为8 mg/min）。理论上，磺达肝癸钠抗凝可以使用安德沙奈α逆转，尽管尚未在研究试验中对此进行研究。如果安德沙奈α不可用，可以考虑使用四因子凝血酶原复合物浓缩剂。对于在就诊前数小时内服用口服Xa因子抑制剂的患者（利伐沙班为8小时，阿哌沙班为6小时，依度沙班为2小时），口服活性炭是一种选择。血液透析不能有效去除口服Xa因子抑制剂。
+其他直接口服抗凝药物的逆转剂目前正在开发中（例如ciraparantag）。
+
+【凝血因子】
+可获得以下几种形式的凝血因子
+凝血酶原复合物浓缩物
+凝血酶原复合物浓缩物
+新鲜冰冻血浆
+新鲜冰冻血浆
+单一的凝血因子
+单一的凝血因子
+凝血酶原复合物浓缩物（PCC）有几种形式。三因子PCC中包含高水平的因子II，IX和X，而四因子PCC添加了因子VII。 两者都含蛋白C和S。PCC可以是未激活的，也可以是已激活的，其中某些因子被裂解为活性形式。优选四因子PCC，因为它在逆转出血方面比三因子PCC更有效。如果使用三因子PCC，也可以使用新鲜冰冻血浆（FFP），因为FFP包含三因子PCC中不包含的因子VII。通常剂量为50单位/kg iv。由于获益的证据尚不确定，而且凝血风险很大，因此应保留PCC用于威胁生命的出血。
+新鲜冰冻血浆包含所有凝血因子，但仅在正常血浆水平。现在通常仅在PCC不可用时才使用。 没有证据表明其对Xa因子抑制剂引起的出血有效。
+个别凝血因子如活化重组因子VII是可用的，但认为这些因子对抗凝剂相关的出血没有帮助。
+
+【抗纤溶药和其他药物】
+抗纤溶药物也可以尝试;然而，它们的使用尚未被研究用于逆转服用抗凝血剂患者的出血。可以使用氨甲环酸10~20 mg/kg静脉推注，然后每6~8小时一次以10 mg/kg静脉给药。氨基己酸可以从2g静脉给药开始，每6小时一次。
+
+【出血后恢复抗凝】
+在决定是否永久停止或降低抗凝剂量时，临床判断是必要的。
+如果患者几乎已经完成抗凝剂的治疗疗程并且出现严重的出血事件，则可以停止抗凝剂的使用。但是，如果患者刚开始治疗或正在治疗过程中出现严重出血，那么停止或减少抗凝剂剂量的决定并非易事，应与多学科团队协商，并充分考虑患者的核心需求。
+
+【抗凝剂引起的出血参考文献】
+1.Connolly SJ, Crowther M, Eikelboom JW, et al: Full study report ofandexanet alfafor bleeding associated withfactor Xainhibitors.N Engl J Med380:1326–1335, 2019.doi: 10.1056/NEJMoa1814051
+1.Connolly SJ, Crowther M, Eikelboom JW, et al: Full study report ofandexanet alfafor bleeding associated withfactor Xainhibitors.N Engl J Med380:1326–1335, 2019.doi: 10.1056/NEJMoa1814051
+
+【溶栓(纤溶)剂】
+溶栓药物，包括阿替普酶、替奈特普酶和链激酶，可以溶解血栓，在特定的深静脉血栓患者中可能比单独使用肝素更有效，但出血的风险高于单独使用肝素。对于深静脉血栓患者，一项临床试验表明，与常规抗凝治疗相比，导管定向溶栓治疗并没有降低血栓后综合征的发生率(1)。因此，只有在高度选定的深静脉血栓患者中才应考虑使用溶栓药物。可能受益于溶栓剂药物的患者包括：年轻（年龄<60岁）且无出血危险因素的广泛性髂股静脉深静脉血栓的患者。 对于发生或存在肢体缺血的大面积深静脉血栓患者（例如股青肿），应考虑溶栓治疗。
+对于肺栓塞患者，如果患者有临床上大面积肺栓塞，定义为伴有全身性低血压（收缩压<90 mmHg）、心源性休克或呼吸衰竭的肺栓塞，应考虑进行溶栓治疗。 大多数次大面积PE的患者似乎不能从溶栓治疗中获益。然而，对于选择亚大面积肺栓塞患者，如果在常规抗凝治疗下仍有临床恶化时，可考虑使用溶栓治疗。亚大面积PE和右心功能不全患者，不应常规使用溶栓治疗。
+对于 DVT 或 PE，现有证据比较局部（即导管引导）与全身溶栓治疗并没有显示这两种方式在死亡率方面有明显优势。
+如果发生出血，最常发生于动脉或静脉穿刺部位。这种并发症可以通过停止溶栓药物并对穿刺部位进行机械加压或手术修复来治疗。危及生命的出血除了停止溶栓剂外，还使用低温沉淀和新鲜冷冻血浆治疗。
+
+【溶栓治疗参考文献】
+1.Vedantham S, Goldhaber SZ, Julien JA, et al: Pharmacomechanical catheter-directed thrombolysis for deep-vein thrombosis.N Engl J Med377:2240–2252, 2017.doi: 10.1056/NEJMoa1615066
+1.Vedantham S, Goldhaber SZ, Julien JA, et al: Pharmacomechanical catheter-directed thrombolysis for deep-vein thrombosis.N Engl J Med377:2240–2252, 2017.doi: 10.1056/NEJMoa1615066
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+Kearon C, Aki EA, Ornelas J, et al: CHEST Guideline and Expert Panel Report: Antithrombotic therapy for VTE disease.Chest149:315–352, 2016.doi: https://doi.org/10.1016/j.chest.2015.11.026
+Kearon C, Aki EA, Ornelas J, et al: CHEST Guideline and Expert Panel Report: Antithrombotic therapy for VTE disease.Chest149:315–352, 2016.doi: https://doi.org/10.1016/j.chest.2015.11.026

@@ -1,0 +1,16 @@
+标题：质膜蛋白
+来源：https://www.msdmanuals.cn/professional/clinical-pharmacology/pharmacokinetics/plasma-membrane-proteins
+============================================================
+
+质膜转运蛋白通过介导药物的吸收，分布，代谢和排泄影响药物的药理活性(1)。 药物竞争结合药物转运蛋白会发生药物相互作用，改变药物反应并引起潜在的毒副作用 (2, 3)。 两种主要转运蛋白是三磷酸腺苷（ATP）结合框（ABC，也称为P-糖蛋白）和溶质载体（SLC）转运蛋白。SLC转运蛋白包括新兴的有临床重要意义的转运蛋白，称为多药和毒素外排（MATE）转运蛋白，有助于二甲双胍的肾脏排泄，以及西咪替丁与其他药物的相互作用 (2)。这些药物转运蛋白的表达水平在胎儿期和新生儿期通常较低，但在7岁以后会逐渐增加(4)。
+(参见药代动力学概述。）
+
+【参考文献】
+1.Mao Q, Lai Y, Wang J: Drug Transporters in Xenobiotic Disposition and Pharmacokinetic Prediction.Drug Metab Dispos2018;46(5):561–566, 2018.doi:10.1124/dmd.118.081356
+1.Mao Q, Lai Y, Wang J: Drug Transporters in Xenobiotic Disposition and Pharmacokinetic Prediction.Drug Metab Dispos2018;46(5):561–566, 2018.doi:10.1124/dmd.118.081356
+2.Paglialunga S, Benrimoh N, van Haarst A: Innovative Approaches to Optimize Clinical Transporter Drug-Drug Interaction Studies.Pharmaceutics16(8):992, 2024.doi: 10.3390/pharmaceutics16080992
+2.Paglialunga S, Benrimoh N, van Haarst A: Innovative Approaches to Optimize Clinical Transporter Drug-Drug Interaction Studies.Pharmaceutics16(8):992, 2024.doi: 10.3390/pharmaceutics16080992
+3.Ivanyuk A, Livio F, Biollaz J, Buclin T: Renal Drug Transporters and Drug Interactions.Clin Pharmacokinet56(8):825–892, 2017.doi: 10.1007/s40262-017-0506-8
+3.Ivanyuk A, Livio F, Biollaz J, Buclin T: Renal Drug Transporters and Drug Interactions.Clin Pharmacokinet56(8):825–892, 2017.doi: 10.1007/s40262-017-0506-8
+4.Mooij MG, Nies AT, Knibbe CA, et al: Development of Human Membrane Transporters: Drug Disposition and Pharmacogenetics.Clin Pharmacokinet55(5): 507-524, 2016.doi: 10.1007/s40262-015-0328-5
+4.Mooij MG, Nies AT, Knibbe CA, et al: Development of Human Membrane Transporters: Drug Disposition and Pharmacogenetics.Clin Pharmacokinet55(5): 507-524, 2016.doi: 10.1007/s40262-015-0328-5

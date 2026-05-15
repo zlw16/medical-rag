@@ -1,0 +1,260 @@
+标题：急性肝功能衰竭
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/approach-to-the-patient-with-liver-disease/acute-liver-failure
+============================================================
+
+（参见肝脏结构和功能和肝脏疾病患者的评估）。
+肝功能衰竭可以按多种方式分类。尽管尚无普遍接受的分类系统，但脑病发生的时间是常用标准（见表肝功能衰竭分类）。
+
+【肝衰竭的分类*】
+肝衰竭的分类*
+严重程度
+常见表现
+急性（暴发性）
+出现门体脑病
+黄疸出现后2周
+黄疸出现后2周
+既往没有肝病的患者为8周
+既往没有肝病的患者为8周
+通常为脑水肿
+亚急性（亚暴发性）
+在6个月之内出现脑病，晚于急性肝衰竭。
+肾功能衰竭、门静脉高压（比急性肝衰竭更常见）
+在6个月后出现脑病
+常由肝硬化引起
+*尚无一种普遍认可的分类方法。
+*尚无一种普遍认可的分类方法。
+急性肝衰竭定义为持续<26周，发生在无既往肝病或肝硬化的患者中，并伴有脑病和凝血功能障碍（1）。
+
+【参考文献】
+1.Shingina A, Mukhtar N, Wakim-Fleming J, et al.Acute Liver Failure Guidelines.Am J Gastroenterol.2023;118(7):1128-1153.doi:10.14309/ajg.0000000000002340
+1.Shingina A, Mukhtar N, Wakim-Fleming J, et al.Acute Liver Failure Guidelines.Am J Gastroenterol.2023;118(7):1128-1153.doi:10.14309/ajg.0000000000002340
+
+【急性（暴发性）肝衰竭的病因】
+总体而言，急性肝衰竭最常见的病因为:
+病毒，主要是乙型肝炎
+病毒，主要是乙型肝炎
+药物（最常见的是对乙酰氨基酚）、其他物质和毒素
+药物（最常见的是对乙酰氨基酚）、其他物质和毒素
+在卫生条件差的国家，病毒性肝炎通常被认为是最常见的原因；在具备有效卫生设施的国家，毒素通常被认为是最常见的原因（1）。
+一般而言，乙肝病毒是最常见的病毒性病因，常与丁肝重叠感染，但丙肝病毒不是常见的病因。急性肝功能衰竭的其他可能病毒病因包括：
+巨细胞病毒
+巨细胞病毒
+EB病毒
+EB病毒
+单纯疱疹病毒
+单纯疱疹病毒
+人类疱疹病毒6
+人类疱疹病毒6
+细小病毒B19
+细小病毒B19
+水痘带状疱疹病毒
+水痘带状疱疹病毒
+甲型肝炎病毒
+甲型肝炎病毒
+戊型肝炎病毒（尤其在妊娠期间感染）
+戊型肝炎病毒（尤其在妊娠期间感染）
+引起出血热的病毒（例如，埃博拉、马尔堡和其他病毒）
+引起出血热的病毒（例如，埃博拉、马尔堡和其他病毒）
+最常见的毒物是对乙酰氨基酚，毒性与剂量有关。对乙酰氨基酚所致肝衰竭的诱发因素包括：
+既往肝病
+既往肝病
+长期饮酒
+长期饮酒
+诱导细胞色素P-450酶系统的药物（例如抗惊厥药）
+诱导细胞色素P-450酶系统的药物（例如抗惊厥药）
+其他毒素包括：
+抗生素（特别是阿莫西林/克拉维酸盐）
+抗生素（特别是阿莫西林/克拉维酸盐）
+铁化合物
+铁化合物
+非甾体类抗炎药(NSAIDs)
+非甾体类抗炎药(NSAIDs)
+草药产品中的某些化合物
+草药产品中的某些化合物
+毒鹅膏蘑菇
+毒鹅膏蘑菇
+(参见药物引起的肝脏损伤)。
+不太常见的原因包括:
+血管疾病
+血管疾病
+代谢性疾病
+代谢性疾病
+自身免疫性肝炎
+自身免疫性肝炎
+血管原因包括：
+肝静脉血栓形成（Budd-Chiari综合征）
+肝静脉血栓形成（Budd-Chiari综合征）
+缺血性肝炎
+缺血性肝炎
+门静脉血栓
+门静脉血栓
+肝窦阻塞综合征（也称为肝静脉闭塞性疾病），有时由药物或毒素引起
+肝窦阻塞综合征（也称为肝静脉闭塞性疾病），有时由药物或毒素引起
+代谢病因包括：
+妊娠急性脂肪肝
+妊娠急性脂肪肝
+HELLP综合征（溶血、肝酶升高以及血小板减少
+HELLP综合征（溶血、肝酶升高以及血小板减少
+Reye综合征
+Reye综合征
+Wilson病
+Wilson病
+其他原因包括自身免疫性肝炎、转移性肝癌浸润、中暑和败血症。在5%到70%的病例中病因尚未确定，因地理区域而异 (1)。
+
+【病因参考文献】
+1.Shingina A, Mukhtar N, Wakim-Fleming J, et al.Acute Liver Failure Guidelines.Am J Gastroenterol.2023;118(7):1128-1153.doi:10.14309/ajg.0000000000002340
+1.Shingina A, Mukhtar N, Wakim-Fleming J, et al.Acute Liver Failure Guidelines.Am J Gastroenterol.2023;118(7):1128-1153.doi:10.14309/ajg.0000000000002340
+
+【急性肝功能衰竭的病理生理学】
+急性肝功能衰竭所伴随的多器官功能障碍往往原因不明，机制也不明确。受影响的器官系统包括:
+肝脏：高胆红素血症往往存在。高胆红素血症发作的程度是肝功能衰竭严重程度的一个指标。由于肝脏合成凝血因子受损而导致的凝血功能障碍较为常见。出现肝细胞坏死，表现为氨基转移酶水平升高。
+肝脏：高胆红素血症往往存在。高胆红素血症发作的程度是肝功能衰竭严重程度的一个指标。由于肝脏合成凝血因子受损而导致的凝血功能障碍较为常见。出现肝细胞坏死，表现为氨基转移酶水平升高。
+心血管系统：全身血管阻力和血压下降，导致循环呈高动力状态，表现为心率和心输出量增加。血流动力学特征与“暖型”脓毒性休克相似。
+心血管系统：全身血管阻力和血压下降，导致循环呈高动力状态，表现为心率和心输出量增加。血流动力学特征与“暖型”脓毒性休克相似。
+脑：门体性脑病的发生，可能是继发于肠道含氮物质的生成氨增加。脑水肿在继发于急性肝功能衰竭的严重脑病的患者中较为常见。钩回疝可能发作且通常致命。
+脑：门体性脑病的发生，可能是继发于肠道含氮物质的生成氨增加。脑水肿在继发于急性肝功能衰竭的严重脑病的患者中较为常见。钩回疝可能发作且通常致命。
+肾脏：急性肾损伤发生率高达70%，其中30%的患者需要肾脏替代治疗（1）。由于血尿素氮（BUN）水平取决于肝脏合成功能，其水平可能被误导而较低，因此，肌酐水平能更好地表明肾损伤。肝肾综合症，即使不使用利尿剂，无肾小管损伤（可能因对乙酰氨基酚中毒引起）时，尿钠和钠排泄分数也会下降。
+肾脏：急性肾损伤发生率高达70%，其中30%的患者需要肾脏替代治疗（1）。由于血尿素氮（BUN）水平取决于肝脏合成功能，其水平可能被误导而较低，因此，肌酐水平能更好地表明肾损伤。肝肾综合症，即使不使用利尿剂，无肾小管损伤（可能因对乙酰氨基酚中毒引起）时，尿钠和钠排泄分数也会下降。
+免疫：会发生免疫缺陷，包括调理作用缺陷、补体缺乏、白细胞 和杀伤细胞功能失常。胃肠道中的细菌移位增加。呼吸道、泌尿道感染和败血症较为常见，其病原体可以是细菌，病毒或真菌。
+免疫：会发生免疫缺陷，包括调理作用缺陷、补体缺乏、白细胞 和杀伤细胞功能失常。胃肠道中的细菌移位增加。呼吸道、泌尿道感染和败血症较为常见，其病原体可以是细菌，病毒或真菌。
+代谢：早期可出现代谢性和呼吸性碱中毒。如有休克，会发生代谢性酸中毒。低钾血症较为常见，部分原因是交感神经张力降低和利尿剂的使用。低磷血症和低镁血症也会发生。低血糖可能因为肝糖元耗尽、糖异生和胰岛素降解受损发生。
+代谢：早期可出现代谢性和呼吸性碱中毒。如有休克，会发生代谢性酸中毒。低钾血症较为常见，部分原因是交感神经张力降低和利尿剂的使用。低磷血症和低镁血症也会发生。低血糖可能因为肝糖元耗尽、糖异生和胰岛素降解受损发生。
+肺：非心源性肺水肿的可能发生。
+肺：非心源性肺水肿的可能发生。
+
+【病理生理学参考文献】
+1.Shingina A, Mukhtar N, Wakim-Fleming J, et al.Acute Liver Failure Guidelines.Am J Gastroenterol.2023;118(7):1128-1153.doi:10.14309/ajg.0000000000002340
+1.Shingina A, Mukhtar N, Wakim-Fleming J, et al.Acute Liver Failure Guidelines.Am J Gastroenterol.2023;118(7):1128-1153.doi:10.14309/ajg.0000000000002340
+
+【急性肝衰竭的症状和体征】
+典型表现包括精神状态改变（通常为肝性脑病的一部分）、凝血障碍以及黄疸。慢性肝病的临床表现如腹水不支持这种疾病的敏锐度，亚急性肝衰竭也可能存在腹水。
+其他症状可能非特异性（例如，全身乏力，厌食）或由致病因素引起。肝臭（霉味或甜美的气味）和运动功能障碍较为常见。心动过速，呼吸急促，并可能发生低血压（伴或者不伴败血症）。脑水肿的症状包括迟钝，昏迷，心动过缓，高血压。 感染的患者有时有定位症状（如咳嗽，排尿困难），但这些症状也可能没有。
+尽管由于肝脏合成功能障碍（国际标准化比率[INR]延长）导致凝血功能障碍，但除非患者处于弥散性血管内凝血（DIC），否则出血情况较为罕见。这是因为急性肝衰竭患者的前凝血因子和抗凝血因子的分布重新平衡，并且，如果有的话，这些患者更容易发生高凝 (1, 2)。
+
+【症状和体征参考】
+1.Hugenholtz GC, Adelmeijer J, Meijers JC, et al.An unbalance betweenvon Willebrand factorandADAMTS13in acute liver failure: Implications for hemostasis and clinical outcome.Hepatology.58(2):752-761, 2013.doi: 10.1002/hep.26372
+1.Hugenholtz GC, Adelmeijer J, Meijers JC, et al.An unbalance betweenvon Willebrand factorandADAMTS13in acute liver failure: Implications for hemostasis and clinical outcome.Hepatology.58(2):752-761, 2013.doi: 10.1002/hep.26372
+2.Lisman T, Bakhtiari K, Adelmeijer J, et al.Intactthrombingeneration and decreased fibrinolytic capacity in patients with acute liver injury or acute liver failure.J Thromb Haemost.10(7):1312-1319, 2012.doi: 10.1111/j.1538-7836.2012.04770.x
+2.Lisman T, Bakhtiari K, Adelmeijer J, et al.Intactthrombingeneration and decreased fibrinolytic capacity in patients with acute liver injury or acute liver failure.J Thromb Haemost.10(7):1312-1319, 2012.doi: 10.1111/j.1538-7836.2012.04770.x
+
+【急性肝功能衰竭的诊断】
+在无慢性肝病病史患者中的国际标准化比率（INR）延长至≥1.5和脑病的临床表现
+在无慢性肝病病史患者中的国际标准化比率（INR）延长至≥1.5和脑病的临床表现
+确定病因：非法药物使用史、处方药滥用史或毒素接触史，肝炎病毒血清学检测、自身免疫标志物以及其他基于临床怀疑的检测
+确定病因：非法药物使用史、处方药滥用史或毒素接触史，肝炎病毒血清学检测、自身免疫标志物以及其他基于临床怀疑的检测
+如果没有潜在的慢性肝病或肝硬化的患者出现急性黄疸和/或转氨酶升高，并伴有凝血障碍和精神状态改变，则应疑诊急性肝衰竭。已知的肝病患者发生急性失代偿不属于急性肝衰竭，而属于慢加急性肝衰竭，其病理生理机制与急性肝衰竭不同 (1)。
+急性肝功能衰竭初始评估通常进行的检查包括：
+全血细胞计数（CBC）
+全血细胞计数（CBC）
+血清电解质（包括钙、磷和镁）
+血清电解质（包括钙、磷和镁）
+肾功能检查
+肾功能检查
+尿液分析
+尿液分析
+肝酶、胆红素水平和国际标准化比值证实了肝衰竭的存在及其严重程度。对于有临床和/或实验室证据显示急性肝损伤的患者，如果出现感觉改变且INR>1.5，则急性肝衰竭通常可被确诊。国际标准化比值被用作急性肝功能衰竭严重程度的指标，有时也作为肝移植的评判标准。肝硬化的证据提示肝功能衰竭是慢性的。
+应检测急性肝衰竭患者是否有并发症。若确诊为急性肝衰竭，应进行动脉血气分析以评估酸碱平衡状态，同时需完成血型鉴定及筛查，以备需要输血制品时使用。如果患者有高动力循环和呼吸急促，则需进行血培养、尿培养、腹水培养及胸部X-射线检查以排除感染。建议使用血浆氨来帮助预测预后，因为较高的氨水平（>150 至 200 μg/dL [>107-143 μmol/L]）预测脑水肿风险增加（2）。如果患者已出现精神状态损伤或恶化，特别是伴有凝血功能障碍的，应该做头部CT检查以排除脑水肿或较少可能的颅内出血。
+为了确定急性肝功能衰竭的原因，临床医生应调查完整的毒物摄入史，包括处方药和非处方药 、草药产品和膳食补充剂。确定病因的常规检查包括。
+病毒性肝炎血清学检查（如甲型肝炎病毒IgM抗体[抗-HAV IgM]、乙肝表面抗原[HBsAg]、乙肝核心抗原的IgM抗体[抗-HBcAg IgM]、丙型肝炎病毒抗体-[抗-HCV]）
+病毒性肝炎血清学检查（如甲型肝炎病毒IgM抗体[抗-HAV IgM]、乙肝表面抗原[HBsAg]、乙肝核心抗原的IgM抗体[抗-HBcAg IgM]、丙型肝炎病毒抗体-[抗-HCV]）
+自身免疫标志物（如抗核抗体、抗平滑肌抗体、免疫球蛋白水平）
+自身免疫标志物（如抗核抗体、抗平滑肌抗体、免疫球蛋白水平）
+可能进行的额外病毒检测包括单纯疱疹病毒（核酸扩增检测）、巨细胞病毒（抗体检测）或EB病毒（抗体检测）。
+可能进行的额外病毒检测包括单纯疱疹病毒（核酸扩增检测）、巨细胞病毒（抗体检测）或EB病毒（抗体检测）。
+根据结果和临床推断选择做以下检验：
+近期前往卫生条件较差国家旅行：需扩大检测范围，排查丁型和戊型肝炎病毒感染
+近期前往卫生条件较差国家旅行：需扩大检测范围，排查丁型和戊型肝炎病毒感染
+育龄期女性；妊娠检测
+育龄期女性；妊娠检测
+年龄<40岁、溶血性贫血、低碱性磷酸酶水平且碱性磷酸酶/总胆红素比值<4、ALT 和 AST 升高（尽管通常<2000)且天冬氨酸转氨酶 (AST) 水平高于丙氨酸转氨酶 (ALT) 水平：检查铜蓝蛋白水平筛查威尔逊病
+年龄<40岁、溶血性贫血、低碱性磷酸酶水平且碱性磷酸酶/总胆红素比值<4、ALT 和 AST 升高（尽管通常<2000)且天冬氨酸转氨酶 (AST) 水平高于丙氨酸转氨酶 (ALT) 水平：检查铜蓝蛋白水平筛查威尔逊病
+结构异常相关的疾病（如Budd-Chiari综合征、门静脉血栓、肝转移）检查：超声检查和有时其他影像学技术
+结构异常相关的疾病（如Budd-Chiari综合征、门静脉血栓、肝转移）检查：超声检查和有时其他影像学技术
+随着时间的推移，应密切监测患者是否出现脑水肿和感染等并发症（例如，与感染相符的生命体征的细微变化），并降低检测门槛。例如，临床医生不应将精神状态恶化归因于脑病；在此类情况下，应进行头颅CT评估脑水肿情况，并常需实施床旁血糖检测。对于急性肝衰竭患者，也应考虑感染因素，因为该人群感染更常见且与更高的死亡率相关（3, 4）。此外，在急性肝衰竭人群中诊断感染可能更具挑战性，因为高达30%的患者缺乏典型体征（4）。相反，许多患者符合全身炎症反应综合征（SIRS）标准，但并非由感染引起，而是与急性肝衰竭的高炎症性细胞因子状态相关。因此入院时应获取血培养和/或感染源检查，并在此后频繁进行（1，5）。常规实验室检查（例如，INR、全血细胞计数、综合代谢功能检查、血糖和动脉血气分析）在大多数情况下应频繁重复，通常每4～6小时一次。
+
+【诊断参考】
+1.Shingina A, Mukhtar N, Wakim-Fleming J, et al.Acute Liver Failure Guidelines.Am J Gastroenterol.2023;118(7):1128-1153.doi:10.14309/ajg.0000000000002340
+1.Shingina A, Mukhtar N, Wakim-Fleming J, et al.Acute Liver Failure Guidelines.Am J Gastroenterol.2023;118(7):1128-1153.doi:10.14309/ajg.0000000000002340
+2.Bernal W, Hall C, Karvellas CJ, et al.Arterial ammonia and clinical risk factors for encephalopathy and intracranial hypertension in acute liver failure.Hepatology.46(6):1844-1852, 2007. doi: 10.1002/hep.21838
+2.Bernal W, Hall C, Karvellas CJ, et al.Arterial ammonia and clinical risk factors for encephalopathy and intracranial hypertension in acute liver failure.Hepatology.46(6):1844-1852, 2007. doi: 10.1002/hep.21838
+3.Rolando N, Harvey F, Brahm J, et al.Prospective study of bacterial infection in acute liver failure: an analysis of fifty patients.Hepatology.1990;11(1):49-53.doi:10.1002/hep.1840110110
+3.Rolando N, Harvey F, Brahm J, et al.Prospective study of bacterial infection in acute liver failure: an analysis of fifty patients.Hepatology.1990;11(1):49-53.doi:10.1002/hep.1840110110
+4.Rolando N, Philpott-Howard J, Williams R.Bacterial and fungal infection in acute liver failure.Semin Liver Dis.1996;16(4):389-402.doi:10.1055/s-2007-1007252
+4.Rolando N, Philpott-Howard J, Williams R.Bacterial and fungal infection in acute liver failure.Semin Liver Dis.1996;16(4):389-402.doi:10.1055/s-2007-1007252
+5.European Association for the Study of the Liver.EASL Clinical practical guidelines on the management of acute (fulminant) liver failure.J Hepatology.2017;66:1047-1081.doi: 10.1016/j.jhep.2016.12.003
+5.European Association for the Study of the Liver.EASL Clinical practical guidelines on the management of acute (fulminant) liver failure.J Hepatology.2017;66:1047-1081.doi: 10.1016/j.jhep.2016.12.003
+
+【急性肝功能衰竭的治疗】
+支持治疗
+支持治疗
+N-乙酰半胱氨酸解救对乙酰氨基酚中毒
+N-乙酰半胱氨酸解救对乙酰氨基酚中毒
+若情况允许，患者应尽量在有肝移植条件的重症监护shi治疗。 患者应尽快转运，因为随着肝功能衰竭，病情会迅速恶化，并发症（如出血，误吸，休克加重）也更容易发生。
+加强支持疗法是主要的治疗方法。 应尽量避免或尽可能小剂量使用能加剧急性肝衰竭症状（例如，低血压、镇静作用）的药物。
+对于低血压和急性肾损伤，治疗的目标是最大限度提高组织灌注。治疗手段包括静脉输液和抗菌素试验性治疗直至败血症消除。如果低血压对容量负荷无反应，临床医生应考虑采用无创性或在必要时采用有创性容量状态评估方法，以指导液体治疗。如果尽管充盈压充足但低血压持续存在，建议将去甲肾上腺素作为一线升压药，血管加压素作为二线药物（1）。
+针对脑病患者，床头应抬高30°，以减少误吸的危险并尽早考虑插管。在选择药物和药物剂量，临床医生应尽量减少镇静剂以利于监测脑病的严重程度。通常使用异丙酚作为插管的诱导药物，它可以防止颅内高压，持续期短，可以快速恢复镇静。
+没有证据表明乳果糖或利福昔明等疗法可减轻急性肝衰竭并发的肝性脑病，尽管它们对于改善门体系统性脑病（1）有效。另外，乳果糖也会导致肠梗阻并产生使肠腔扩张的气体，如果需要进行剖腹手术（例如肝移植）可能会出现问题 (2)。
+应采取措施，以避免颅内压（ICP）升高和脑灌注压降低。
+为减轻脑水肿：若早期启动，肾脏替代疗法有助于清除血氨并降低死亡率。指南建议，对于肝功能衰竭且血氨显著升高或出现进行性脑病的患者，即使没有其他肾脏替代治疗指征，也应进行肾脏替代治疗（1, 2）。
+为减轻脑水肿：若早期启动，肾脏替代疗法有助于清除血氨并降低死亡率。指南建议，对于肝功能衰竭且血氨显著升高或出现进行性脑病的患者，即使没有其他肾脏替代治疗指征，也应进行肾脏替代治疗（1, 2）。
+为避免ICP突然增加应避免可能引发瓦尔萨尔瓦动作的刺激（例如，气管内吸痰前给予利多卡因以防止呕吐反射）。
+为避免ICP突然增加应避免可能引发瓦尔萨尔瓦动作的刺激（例如，气管内吸痰前给予利多卡因以防止呕吐反射）。
+暂时降低脑血流量：甘露糖醇（0.5〜1g/，视需要重复一次或两次）可以诱导渗透性利尿，如有可能采用过度通气，尤其是当怀疑有疝形成时。（但甘露醇禁用于急性肾损伤，在给予第二剂之前必须检查血清渗透压。）
+暂时降低脑血流量：甘露糖醇（0.5〜1g/，视需要重复一次或两次）可以诱导渗透性利尿，如有可能采用过度通气，尤其是当怀疑有疝形成时。（但甘露醇禁用于急性肾损伤，在给予第二剂之前必须检查血清渗透压。）
+监测ICP：尚不清楚是否或何时监测颅内压的风险（如感染、出血）超过早期发现脑水肿并且根据颅内压引导液体和升压治疗等监测颅内压带来的益处。专家建议当脑病严重时采取监测。但是，没有数据表明ICP监测会影响死亡率 (3)。治疗目标是颅内压<20mmHg，脑灌注压>50mmHg。
+监测ICP：尚不清楚是否或何时监测颅内压的风险（如感染、出血）超过早期发现脑水肿并且根据颅内压引导液体和升压治疗等监测颅内压带来的益处。专家建议当脑病严重时采取监测。但是，没有数据表明ICP监测会影响死亡率 (3)。治疗目标是颅内压<20mmHg，脑灌注压>50mmHg。
+使用苯妥英钠治疗癫痫，尽量避免或小剂量使用苯二氮卓类药物，因为他们能引起镇静。
+感染需使用抗菌药物和/或抗真菌药物治疗；患者一旦出现任何感染迹象（如发热、局部定位体征、血流动力学恶化、符合全身炎症反应综合征[SIRS]标准、难治性低血压、意识状态改变或肾功能异常），就应立即启动治疗。鉴于疗效数据有限，经验性抗菌药物治疗通常不被推荐常规治疗（1），这些数据表明预防性治疗可降低感染率，但不会影响死亡率（4）。然而，考虑到急性肝衰竭患者群体中感染诊断的挑战性，以及感染可能危及患者接受肝移植能力的风险，包括欧洲肝脏研究学会在内的部分学术组织建议对特定亚组的急性肝衰竭患者采取预防性治疗。这特指那些因符合全身炎症反应综合征标准、难治性低血压或不明原因进展至3或4期肝性脑病而被紧急列入肝移植名单的患者（2）。
+电解质不足可能需要补充钠、钾、磷或镁。
+连续输注葡萄糖（如10%葡萄糖溶液）来治疗低血糖。因为脑病可掩盖低血糖的症状，因此要经常监测血糖。
+如果发生出血或计划进行侵入性手术，则用新鲜冰冻血浆治疗凝血障碍。否则应避免使用新鲜冰冻血浆纠正凝血功能障碍，因为它会导致容量超负荷和脑水肿恶化(1)。此外，当使用新鲜冷冻血浆时，临床医生不能遵循国际标准化比率（INR）的变化，这很重要，因为INR是急性肝衰竭严重程度的指标，因此有时是移植的标准。重组凝血因子VII有时代替或与新鲜冰冻血浆并用治疗容量超负荷的患者。H2受体阻滞剂有助于防止消化道出血。
+如果患者不能进食，则营养供给是必要的。没有必要对蛋白质进行严格限制；推荐量为60克/天。
+解救急性对乙酰氨基酚中毒可以使用N-乙酰半胱氨酸。
+专业学会也推荐使用N-乙酰半胱氨酸治疗急性肝功能衰竭的其他病因，尽管其支持证据不如用于对乙酰氨基酚中毒时那么明确（1, 2）。对于因乙型肝炎再激活导致的肝衰竭患者，建议进行抗病毒治疗；对于因蘑菇中毒引起的肝衰竭，可考虑使用静脉注射水飞蓟宾或青霉素（1）。
+肝移植的肝移植术后1年平均生存率约为84%～90%，5年生存率达80%（1、5）。因此，对于急性肝衰竭患者，若在国王学院标准等预后风险评分中得分较差，且持续表现出急性肝衰竭临床进展迹象，建议进行肝移植（2）。
+
+【治疗参考文献】
+1.Shingina A, Mukhtar N, Wakim-Fleming J, et al.Acute Liver Failure Guidelines.Am J Gastroenterol.2023;118(7):1128-1153.doi:10.14309/ajg.0000000000002340
+1.Shingina A, Mukhtar N, Wakim-Fleming J, et al.Acute Liver Failure Guidelines.Am J Gastroenterol.2023;118(7):1128-1153.doi:10.14309/ajg.0000000000002340
+2.European Association for the Study of the Liver.EASL Clinical practical guidelines on the management of acute (fulminant) liver failure.J Hepatology.2017;66:1047-1081.doi: 10.1016/j.jhep.2016.12.003
+2.European Association for the Study of the Liver.EASL Clinical practical guidelines on the management of acute (fulminant) liver failure.J Hepatology.2017;66:1047-1081.doi: 10.1016/j.jhep.2016.12.003
+3.Karvellas CJ, Fix OK, Battenhouse H, et al.Outcomes and complications of intracranial pressure monitoring in acute liver failure: A retrospective cohort study.Crit Care Med.2014;42:1157-1167.doi: 10.1097/CCM.0000000000000144
+3.Karvellas CJ, Fix OK, Battenhouse H, et al.Outcomes and complications of intracranial pressure monitoring in acute liver failure: A retrospective cohort study.Crit Care Med.2014;42:1157-1167.doi: 10.1097/CCM.0000000000000144
+4.Karvellas CJ, Cavazos J, Battenhouse H, et al. Effects of antimicrobial prophylaxis and blood stream infections in patients with acute liver failure: a retrospective cohort study.Clinical Gastroenterol Hepatolol 2014;12:1942–11949.
+4.Karvellas CJ, Cavazos J, Battenhouse H, et al. Effects of antimicrobial prophylaxis and blood stream infections in patients with acute liver failure: a retrospective cohort study.Clinical Gastroenterol Hepatolol 2014;12:1942–11949.
+5.Kwong AJ, Kim WR, Lake JR, et al.OPTN/SRTR 2023 Annual Data Report: Liver.Am J Transplant.2025;25(2S1):S193-S287.doi:10.1016/j.ajt.2025.01.022
+5.Kwong AJ, Kim WR, Lake JR, et al.OPTN/SRTR 2023 Annual Data Report: Liver.Am J Transplant.2025;25(2S1):S193-S287.doi:10.1016/j.ajt.2025.01.022
+
+【急性肝功能衰竭的预后】
+预后很难预测。重要的预后因素包括:
+脑病的程度：当脑病严重时预后更差
+脑病的程度：当脑病严重时预后更差
+患者年龄：当年龄<10岁或>40岁预后更差
+患者年龄：当年龄<10岁或>40岁预后更差
+凝血酶原时间：国际标准化比值延长时情况更糟
+凝血酶原时间：国际标准化比值延长时情况更糟
+急性肝衰竭原因：对乙酰氨基酚毒性、甲型肝炎、乙型肝炎引起的肝衰竭比 特异质药物反应 或Wilson病引起的预后更好 (1, 2, 3)
+急性肝衰竭原因：对乙酰氨基酚毒性、甲型肝炎、乙型肝炎引起的肝衰竭比 特异质药物反应 或Wilson病引起的预后更好 (1, 2, 3)
+不同的分数（如，国王'学院标准或急性生理评估和慢性健康评估II[APACHE II]得分）可以对人群患者预后进行预测，但针对个体患者却并不十分准确。
+
+【预后参考】
+1.Chalasani NP, Maddur H, Russo MW, et al; Practice Parameters Committee of the American College of Gastroenterology.ACG Clinical Guideline: Diagnosis and Management of Idiosyncratic Drug-Induced Liver Injury.Am J Gastroenterol.2021;116(5):878-898.doi:10.14309/ajg.0000000000001259
+1.Chalasani NP, Maddur H, Russo MW, et al; Practice Parameters Committee of the American College of Gastroenterology.ACG Clinical Guideline: Diagnosis and Management of Idiosyncratic Drug-Induced Liver Injury.Am J Gastroenterol.2021;116(5):878-898.doi:10.14309/ajg.0000000000001259
+2.Ostapowicz G, Fontana RJ, Schiødt FV, et al.Results of a prospective study of acute liver failure at 17 tertiary care centers in the United States.Ann Intern Med.2002;137(12):947-954.doi:10.7326/0003-4819-137-12-200212170-00007
+2.Ostapowicz G, Fontana RJ, Schiødt FV, et al.Results of a prospective study of acute liver failure at 17 tertiary care centers in the United States.Ann Intern Med.2002;137(12):947-954.doi:10.7326/0003-4819-137-12-200212170-00007
+3.Shingina A, Mukhtar N, Wakim-Fleming J, et al.Acute Liver Failure Guidelines.Am J Gastroenterol.2023;118(7):1128-1153.doi:10.14309/ajg.0000000000002340
+3.Shingina A, Mukhtar N, Wakim-Fleming J, et al.Acute Liver Failure Guidelines.Am J Gastroenterol.2023;118(7):1128-1153.doi:10.14309/ajg.0000000000002340
+在卫生条件较差的国家，急性肝功能衰竭最常见的原因是病毒性肝炎；而在卫生设施完善的国家，最常见的原因则是药物（特别是对乙酰氨基酚）以及其他物质和毒素。
+在卫生条件较差的国家，急性肝功能衰竭最常见的原因是病毒性肝炎；而在卫生设施完善的国家，最常见的原因则是药物（特别是对乙酰氨基酚）以及其他物质和毒素。
+急性肝衰竭的症状是黄疸、凝血功能障碍和脑病。
+急性肝衰竭的症状是黄疸、凝血功能障碍和脑病。
+通过发现高胆红素血症和转氨酶水平升高患者的INR延长和脑病的临床表现来确认诊断。
+通过发现高胆红素血症和转氨酶水平升高患者的INR延长和脑病的临床表现来确认诊断。
+应通过评估用药史、物质使用史及毒物暴露史，并进行肝炎病毒血清学检测、自身免疫标志物检测及其他基于临床怀疑的检查，以确定病因。
+应通过评估用药史、物质使用史及毒物暴露史，并进行肝炎病毒血清学检测、自身免疫标志物检测及其他基于临床怀疑的检查，以确定病因。
+急性肝功能衰竭应在重症监护室进行管理，并应立即转诊至移植中心。
+急性肝功能衰竭应在重症监护室进行管理，并应立即转诊至移植中心。
+对于对乙酰氨基酚引起的和非对乙酰氨基酚引起的急性肝功能衰竭，均需给予N-乙酰半胱氨酸治疗。
+对于对乙酰氨基酚引起的和非对乙酰氨基酚引起的急性肝功能衰竭，均需给予N-乙酰半胱氨酸治疗。
+对于预后不良的患者（例如年龄<10岁或>40岁、严重脑病、国际标准化比值严重延长、特异性药物反应、肝豆状核变性），应考虑肝移植。
+对于预后不良的患者（例如年龄<10岁或>40岁、严重脑病、国际标准化比值严重延长、特异性药物反应、肝豆状核变性），应考虑肝移植。

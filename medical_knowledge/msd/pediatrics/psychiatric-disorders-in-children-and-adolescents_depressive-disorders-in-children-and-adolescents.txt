@@ -1,0 +1,305 @@
+标题：儿童和青少年抑郁症
+来源：https://www.msdmanuals.cn/professional/pediatrics/psychiatric-disorders-in-children-and-adolescents/depressive-disorders-in-children-and-adolescents
+============================================================
+
+（另请参阅成人抑郁症的讨论。）
+儿童和青少年的抑郁症包括
+破坏性情绪调节障碍
+破坏性情绪调节障碍
+重度抑郁症
+重度抑郁症
+持续抑郁障碍 (dysthymia)
+持续抑郁障碍 (dysthymia)
+其他特定的抑郁障碍
+其他特定的抑郁障碍
+术语抑郁症通常被广泛用于描述由于失望（例如严重疾病）或损失（例如，亲人的死亡）导致的低或抑郁情绪。然而，这类低落情绪与抑郁症不同，它们呈波动性出现，通常与触发事件的思绪或记忆相关联，在境遇好转时得以缓解，期间可能穿插着积极情绪与幽默时刻，且往往不会伴随弥漫性的无价值感和自我憎恶。情绪低落一般持续数天，而不是数周或数月，而且也不太可能有自杀观念和社会功能的持续丧失。这种低情绪更适当地称为沮丧或悲伤。然而，引发士气低落和悲伤的事件与压力源也可能诱发重度抑郁发作。
+抑郁症常见于儿童和青少年，其患病率随着年龄的增长而增加。在全球样本中，发病高峰年龄为15.5岁，其中10%在14岁时出现首次症状，26%在18岁时出现，47%在25岁时出现（1）。另一项meta分析表明，全球中重度抑郁的终身患病率为19%（2）。然而，重度抑郁症的患病率较低，仅为4%（3）。女性受影响的比例几乎是男性的两倍。
+
+【参考文献】
+1.Solmi M, Radua J, Olivola M, et al.Age at onset of mental disorders worldwide: large-scale meta-analysis of 192 epidemiological studies.Mol Psychiatry.2022;27(1):281-295.doi:10.1038/s41380-021-01161-7
+1.Solmi M, Radua J, Olivola M, et al.Age at onset of mental disorders worldwide: large-scale meta-analysis of 192 epidemiological studies.Mol Psychiatry.2022;27(1):281-295.doi:10.1038/s41380-021-01161-7
+2.Shorey S, Ng ED, Wong CHJ.Global prevalence of depression and elevated depressive symptoms among adolescents: A systematic review and meta-analysis.Br J Clin Psychol.2022;61(2):287-305.doi:10.1111/bjc.12333
+2.Shorey S, Ng ED, Wong CHJ.Global prevalence of depression and elevated depressive symptoms among adolescents: A systematic review and meta-analysis.Br J Clin Psychol.2022;61(2):287-305.doi:10.1111/bjc.12333
+3.Lu B, Lin L, Su X.Global burden of depression or depressive symptoms in children and adolescents: A systematic review and meta-analysis.J Affect Disord.2024;354:553-562.doi:10.1016/j.jad.2024.03.074
+3.Lu B, Lin L, Su X.Global burden of depression or depressive symptoms in children and adolescents: A systematic review and meta-analysis.J Affect Disord.2024;354:553-562.doi:10.1016/j.jad.2024.03.074
+
+【抑郁障碍的病因】
+儿童和青少年抑郁症的病因尚未如成人病例般明确，但预计存在广泛相似性；普遍认为部分成因源于遗传风险因素与环境压力（特别是早期生活压力，如虐待、创伤、自然灾害、家庭暴力、亲人离世及物质剥夺[1]）的相互作用。
+在众多相关因素中，社交媒体和社交网络的使用方式与时长（即使用的“质量与数量”）已引发广泛关注，因为其过度使用可导致面对面社交减少、类似成瘾的行为、网络欺凌以及由频繁社会比较带来的社交压力（2）。抑郁症本身已被证实与网络使用问题存在关联。然而，适度使用，尤其以获取知识为目的时，或有助于情绪调节与发展。
+新冠疫情时期，青少年抑郁症状发生率翻倍，尤其在女性和年长青少年群体中表现显著（3）。与疫情前相比，针对抑郁及焦虑的心理健康就诊量均上升了43%（4）。与仅暴露于新冠疫情压力但无感染证据的对照组相比，既往确诊感染新冠病毒的儿童（5～11岁）患双相情感障碍的风险更高，而青少年则表现出轻度抑郁风险的显著增加（5）。
+
+【病因参考文献】
+1.LeMoult J, Humphreys KL, Tracy A, et al.Meta-analysis: Exposure to early life stress and risk for depression in childhood and adolescence.J Am Acad Child Adolesc Psychiatry.59(7);842-855, 2020.doi: https://doi.org/10.1016/j.jaac.2019.10.011
+1.LeMoult J, Humphreys KL, Tracy A, et al.Meta-analysis: Exposure to early life stress and risk for depression in childhood and adolescence.J Am Acad Child Adolesc Psychiatry.59(7);842-855, 2020.doi: https://doi.org/10.1016/j.jaac.2019.10.011
+2.Vidal C, Lhaksampa T, Miller L, Platt R.Social media use and depression in adolescents: a scoping review.Int Rev Psychiatry.2020;32(3):235-253.doi:10.1080/09540261.2020.1720623
+2.Vidal C, Lhaksampa T, Miller L, Platt R.Social media use and depression in adolescents: a scoping review.Int Rev Psychiatry.2020;32(3):235-253.doi:10.1080/09540261.2020.1720623
+3.Racine N, McArthur B, Cooke J, et al.Global prevalence of depressive and anxiety symptoms in children and adolescence during COVID-19: A meta-analysis.JAMA Pediatr.175(11):1142-1150, 2021.doi: 10.1001/jamapediatrics.2021.2482
+3.Racine N, McArthur B, Cooke J, et al.Global prevalence of depressive and anxiety symptoms in children and adolescence during COVID-19: A meta-analysis.JAMA Pediatr.175(11):1142-1150, 2021.doi: 10.1001/jamapediatrics.2021.2482
+4.Dvir Y, Ryan C, Straus JH.Comparison of use of the Massachusetts Child Psychiatry Access Program and patient characteristics before vs during the COVID-19 pandemic.JAMA Netw Open.5(2):e2146618, 2022.doi:10.1001/jamanetworkopen.2021.46618
+4.Dvir Y, Ryan C, Straus JH.Comparison of use of the Massachusetts Child Psychiatry Access Program and patient characteristics before vs during the COVID-19 pandemic.JAMA Netw Open.5(2):e2146618, 2022.doi:10.1001/jamanetworkopen.2021.46618
+5.Lu Y, Tong J, Zhang D, et al.Risk of neuropsychiatric and related conditions associated with SARS-CoV-2 infection: a difference-in-differences analysis.Nat Commun.2025;16(1):6829.Published 2025 Jul 24.doi:10.1038/s41467-025-61961-1
+5.Lu Y, Tong J, Zhang D, et al.Risk of neuropsychiatric and related conditions associated with SARS-CoV-2 infection: a difference-in-differences analysis.Nat Commun.2025;16(1):6829.Published 2025 Jul 24.doi:10.1038/s41467-025-61961-1
+
+【抑郁障碍的病理生理学】
+导致儿童和青少年抑郁的机制尚不清楚，但可能部分归因于遗传易感性、神经递质通路失调和环境压力因素的综合作用。神经递质系统的紊乱——尤其是涉及N-甲基-D-天冬氨酸（NMDA）受体的5-羟色胺能与谷氨酸能通路——在抑郁症发病机制中具有关键作用。这一点可由NMDA受体拮抗剂（如氯胺酮）在难治性抑郁症治疗中的疗效得到印证（1）。此外，在亚属前扣带皮层、腹外侧前额叶皮层和丘脑等区域可能存在异常的大脑激活模式（2）。最后，下丘脑-垂体-肾上腺（HPA）轴的失调是青年抑郁症患者的一个突出特征，可能会加剧情绪失调，并导致临床抑郁症的发作（3）。
+
+【病理生理学参考文献】
+1.Ferrari F, Villa RF.The Neurobiology of Depression: an Integrated Overview from Biological Theories to Clinical Evidence.Mol Neurobiol.2017;54(7):4847-4865.doi:10.1007/s12035-016-0032-y
+1.Ferrari F, Villa RF.The Neurobiology of Depression: an Integrated Overview from Biological Theories to Clinical Evidence.Mol Neurobiol.2017;54(7):4847-4865.doi:10.1007/s12035-016-0032-y
+2.Miller CH, Hamilton JP, Sacchet MD, Gotlib IH.Meta-analysis of Functional Neuroimaging of Major Depressive Disorder in Youth.JAMA Psychiatry.2015;72(10):1045-1053.doi:10.1001/jamapsychiatry.2015.1376
+2.Miller CH, Hamilton JP, Sacchet MD, Gotlib IH.Meta-analysis of Functional Neuroimaging of Major Depressive Disorder in Youth.JAMA Psychiatry.2015;72(10):1045-1053.doi:10.1001/jamapsychiatry.2015.1376
+3.Guerry JD, Hastings PD.In search of HPA axis dysregulation in child and adolescent depression.Clin Child Fam Psychol Rev.2011;14(2):135-160.doi:10.1007/s10567-011-0084-5
+3.Guerry JD, Hastings PD.In search of HPA axis dysregulation in child and adolescent depression.Clin Child Fam Psychol Rev.2011;14(2):135-160.doi:10.1007/s10567-011-0084-5
+
+【抑郁症的症状和体征】
+儿童及青少年抑郁症的基本表现与成人相似，但与儿童典型关注的事物有关，如学校作业和游戏。年幼的孩子可能无法解释内心的感受或情绪。当以往表现良好的儿童学业成绩突然下降、退出社交或出现违法行为时，应考虑抑郁症。年长儿童及青少年通常能更清晰地表达症状，表现可能包括情绪低落、对日常及社交活动缺乏兴趣、食欲及体重改变、睡眠障碍、精力低下、决策困难，以及出现自杀意念或行为。
+在一些抑郁障碍的儿童中，主要的情绪是烦躁而不是悲伤（儿童与成人之间的重要区别）。儿童期抑郁症相关的易激惹情绪可能表现为过度活跃和攻击性、反社会行为。
+在智力障碍儿童中，抑郁或其他情绪障碍可能表现为躯体症状和行为紊乱。
+
+【破坏性情绪调节障碍】
+破坏性情绪调节障碍表现为持续易激惹和频繁的失控行为发作，通常在6至10岁发病。许多儿童还有其他障碍，特别是对立性违抗性障碍、注意力缺陷/多动症（ADHD）或焦虑症。该诊断不适用于6岁以下或18岁以上的人群。作为成人，患者可以发展单相（而不是双相）抑郁症或焦虑症。
+表现包括以下症状持续存在时间≥12个月（没有出现所有症状的时间不得≥3个月）：
+严重复发性脾气爆发（如言语暴怒和/或对人或财物的身体攻击），与情境严重不符，且平均每周发生≥3次
+严重复发性脾气爆发（如言语暴怒和/或对人或财物的身体攻击），与情境严重不符，且平均每周发生≥3次
+与发育水平不一致的脾气暴发
+与发育水平不一致的脾气暴发
+每天大部分时间都会出现烦躁，愤怒的情绪，并被其他人观察（例如父母，老师，同伴）
+每天大部分时间都会出现烦躁，愤怒的情绪，并被其他人观察（例如父母，老师，同伴）
+爆发和愤怒情绪必须发生在以下3个环境中的至少2个（家庭、学校或同伴间）。
+
+【重度抑郁症】
+重度抑郁症是持续时间≥2周的离散抑郁发作。该现象在13岁以下儿童中发生率高达2.8%，在青少年群体中达5.6%（1）。重度抑郁症可首次发生于任何年龄段，但青春期后更为常见（2），在13至18岁间的患病率约达11%（3, 4）。若不治疗，重度抑郁症可能在6至12个月内缓解。有严重发作、较年轻或有多次发作的患者的复发风险更高。缓解期间即使轻度抑郁症状的持续也是复发的强烈预测因素。
+要确诊，必须在2周内几乎每天的大部分时间内存在≥1项以下情况 (5)：
+一天中的大部分时间，几乎每天都有抑郁情绪，这可以通过主观报告或他人的观察来证明
+一天中的大部分时间，几乎每天都有抑郁情绪，这可以通过主观报告或他人的观察来证明
+对几乎所有活动失去兴趣或乐趣（有时表现为深度厌倦）
+对几乎所有活动失去兴趣或乐趣（有时表现为深度厌倦）
+此外，必须存在≥4项以下情况：
+体重在非节食情况下下降（儿童表现为未能达到预期体重增长）、体重增加，或食欲减退或增强
+体重在非节食情况下下降（儿童表现为未能达到预期体重增长）、体重增加，或食欲减退或增强
+几乎每日失眠或嗜睡
+几乎每日失眠或嗜睡
+他人观察到的精神运动性激越或迟滞（未自我报告）
+他人观察到的精神运动性激越或迟滞（未自我报告）
+几乎每天都感到疲劳或精力不足
+几乎每天都感到疲劳或精力不足
+思维，集中和做出选择的能力下降
+思维，集中和做出选择的能力下降
+经常性的死亡思想（不只是害怕死亡）和/或自杀意念或计划
+经常性的死亡思想（不只是害怕死亡）和/或自杀意念或计划
+无价值感（即，感觉被拒绝和不被爱）或过度或不当的内疚
+无价值感（即，感觉被拒绝和不被爱）或过度或不当的内疚
+青少年重度抑郁是学业失败、药物滥用和自杀行为的风险因素。抑郁时，儿童和青少年往往学业大幅下滑，并失去重要的同伴关系。在非常严重的抑郁症中，可能会出现精神病症状。
+
+【持续抑郁障碍 (dysthymia)】
+恶劣心境是一种持续的抑郁或易激热的情绪，持续大部分时间，且多数天数≥1年，并伴有≥2项以下情况：
+食欲不振或暴饮暴食
+食欲不振或暴饮暴食
+失眠或睡眠过度
+失眠或睡眠过度
+乏力或疲劳
+乏力或疲劳
+注意力不集中
+注意力不集中
+症状可能比重度抑郁症轻微。然而，由于这种疾病的慢性，它可以被认为比重度抑郁症更致残，尽管它的症状通常不那么强烈。
+重度抑郁发作可以在持续性抑郁障碍开始之前或在第一年内发生（即在持续性抑郁障碍的持续时间标准满足之前）。
+其他特定抑郁障碍是指存在抑郁障碍的症状，但不符合其中任何一个的全部标准。
+
+【症状和体征参考】
+1.Costello EJ, Erkanli A, Angold A.Is there an epidemic of child or adolescent depression?.J Child Psychol Psychiatry.2006;47(12):1263-1271.doi:10.1111/j.1469-7610.2006.01682.x
+1.Costello EJ, Erkanli A, Angold A.Is there an epidemic of child or adolescent depression?.J Child Psychol Psychiatry.2006;47(12):1263-1271.doi:10.1111/j.1469-7610.2006.01682.x
+2.Paus T, Keshavan M, Giedd JN.Why do many psychiatric disorders emerge during adolescence?.Nat Rev Neurosci.2008;9(12):947-957.doi:10.1038/nrn2513
+2.Paus T, Keshavan M, Giedd JN.Why do many psychiatric disorders emerge during adolescence?.Nat Rev Neurosci.2008;9(12):947-957.doi:10.1038/nrn2513
+3.World Health Organization.Adolescent Mental Health in the European Region: Factsheet for World Mental Health Day 2018; World Health Organization: Geneva, Switzerland, 2018
+3.World Health Organization.Adolescent Mental Health in the European Region: Factsheet for World Mental Health Day 2018; World Health Organization: Geneva, Switzerland, 2018
+4.Avenevoli S, Swendsen J, He JP, Burstein M, Merikangas KR.Major depression in the national comorbidity survey-adolescent supplement: prevalence, correlates, and treatment.J Am Acad Child Adolesc Psychiatry.2015;54(1):37-44.e2.doi:10.1016/j.jaac.2014.10.010
+4.Avenevoli S, Swendsen J, He JP, Burstein M, Merikangas KR.Major depression in the national comorbidity survey-adolescent supplement: prevalence, correlates, and treatment.J Am Acad Child Adolesc Psychiatry.2015;54(1):37-44.e2.doi:10.1016/j.jaac.2014.10.010
+5.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, 5th ed, Text Revision.American Psychiatric Association Publishing; 2022
+5.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, 5th ed, Text Revision.American Psychiatric Association Publishing; 2022
+
+【抑郁障碍的诊断】
+精神评估
+精神评估
+精神障碍诊断与统计手册, 第5版，文本修订（DSM-5-TR）标准
+精神障碍诊断与统计手册, 第5版，文本修订（DSM-5-TR）标准
+抑郁症的诊断依据症状和体征，具体类型可参照《精神障碍诊断与统计手册》第五版修订版（DSM-5-TR）标准进行划分（1）。
+信息来源包括对儿童或青少年的访谈，以及来自父母、照顾者和教师的资料。有多种简短问卷可用于筛查；在美国常用的包括患者健康问卷九项版（PHQ-9）和贝克抑郁量表（2, 3）。（请参见抑郁评估工具了解这些及其他量表和评估工具。）它们有助于识别一些抑郁症状，但不能单独用于诊断。基于《精神障碍诊断与统计手册》第5版（DSM-5-TR）的标准，特定的封闭式问题有助于确定患者是否具有诊断重度抑郁症所需的症状。
+病史应涵盖相关因素，如家庭暴力、性虐待与性剥削，以及药物不良反应。必须筛查自杀行为（例如：自杀意念、自杀姿态、自杀企图）。询问社交媒体和社交网站的使用情况也很重要；特别是跟踪使用时间的长短，以及是否在白天或夜间使用。潜在的心境障碍以及可能引发焦虑的疾病，也应纳入考量范围。
+需仔细回顾病史并进行适当的实验室检查，以排除其他可能引起类似症状的器质性疾病（例如传染性单核细胞增多症、甲状腺疾病、物质使用障碍）。
+必须考虑可以增加风险和/或改变抑郁症状（例如，焦虑和双相性精神障碍）的进程的其它精神障碍。一些发展为双向障碍或精神分裂症患儿的前期症状主要为抑郁症。
+抑郁症确诊后，需进一步评估家庭与社会环境，以识别（并调整）可能引发抑郁的压力源。
+
+【诊断参考】
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, 5th ed, Text Revision.American Psychiatric Association Publishing; 2022
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, 5th ed, Text Revision.American Psychiatric Association Publishing; 2022
+2.Kroenke K, Spitzer RL, Williams JB.The PHQ-9: validity of a brief depression severity measure.J Gen Intern Med.2001;16(9):606-613.doi:10.1046/j.1525-1497.2001.016009606.x
+2.Kroenke K, Spitzer RL, Williams JB.The PHQ-9: validity of a brief depression severity measure.J Gen Intern Med.2001;16(9):606-613.doi:10.1046/j.1525-1497.2001.016009606.x
+3.Beck, A.T., Steer, R.A., & Brown, G.K.(1996).Beck Depression Inventory-II.San Antonio, TX: Psychological Corporation.https://doi.org/10.1037/t00742-000
+3.Beck, A.T., Steer, R.A., & Brown, G.K.(1996).Beck Depression Inventory-II.San Antonio, TX: Psychological Corporation.https://doi.org/10.1037/t00742-000
+
+【抑郁障碍的治疗】
+针对家庭和学校的同步干预措施，包括心理治疗
+针对家庭和学校的同步干预措施，包括心理治疗
+药物治疗（例如，选择性血清素再摄取抑制剂）
+药物治疗（例如，选择性血清素再摄取抑制剂）
+经颅磁刺激（TMS）与其他疗法相结合
+经颅磁刺激（TMS）与其他疗法相结合
+急性抑郁危机的住院治疗管理
+急性抑郁危机的住院治疗管理
+
+【用于长期治疗抑郁、焦虑及相关疾病的药物*】
+用于长期治疗抑郁、焦虑及相关疾病的药物*
+药物治疗
+半衰期（小时）
+CYP底物
+注释/注意事项
+选择性5羟色胺再吸收抑制剂
+西酞普兰
+年龄≥7岁儿童的强迫症
+35小时
+2C19、2D6
+对于2C19弱代谢者，降低起始剂量，缓慢调整剂量，并减少维持剂量的50%。
+艾司西酞普兰（西酞普兰的S-对映异构体）
+12岁以上儿童重度抑郁症
+27–32小时
+2C19、2D6
+氟西汀†
+去甲氟西汀（氟西汀的活性代谢物）
+年龄>8岁儿童的强迫症、广泛性焦虑症、分离焦虑、社交焦虑、重度抑郁症
+119–264小时
+去甲氟西汀：144–384小时
+氟伏沙明
+年龄>8岁儿童的广泛性焦虑症、分离焦虑、社交焦虑、强迫症
+16小时
+帕罗西汀†
+年龄>6岁儿童的强迫症
+21小时
+年龄≥6岁儿童的强迫症、广泛性焦虑症、分离焦虑、社交焦虑
+26小时
+2C19, 2B6, 2D6
+对于2B6弱代谢者，降低起始剂量，缓慢调整剂量，并减少维持剂量的25%。
+血清素和去甲肾上腺素再摄取抑制剂
+度洛西汀
+7-17岁儿童GAD
+10–12小时
+2D6、IA2
+SNRIs：具有去甲肾上腺素能活性，可能增加高血压风险
+Venlafaxine，速释型
+年龄≥8岁儿童抑郁症
+5–11小时
+SNRIs：关于最佳剂量的数据有限；担忧会增加自杀行为（针对已有自杀意念的青少年）；疗效不如其他抗抑郁药，可能因使用剂量较低所致
+Venlafaxine，缓释型
+年龄＞7岁儿童的广泛性焦虑症
+* 所列药物临床上用于治疗所有焦虑症、强迫症和抑郁症。某些适应症已获得FDA批准；其他适应症未获批准是由于缺乏充分研究，而非其他原因。在所有适应症中最常用的是舍曲林和依他普仑。
+†氟西汀和帕罗西汀是2D6的有效抑制剂，降低抗精神病药物（利培酮、阿立哌唑、伊哌啶酮、氯氮平）的代谢，增加其血浆浓度。它们也可以抑制一些止痛药对其活性代谢物的代谢（羟考酮对羟吗啡酮），但与预期相反，可待因对吗啡不起作用。2D6的较弱抑制剂（如舍曲林）在较高剂量下可能产生类似效应。
+氟西汀和帕罗西汀在治疗抑郁症时的疗效在与曲唑酮（用于治疗失眠）合用时受损。这归因于2D6相互作用以及甲基氯哌嗪a（曲唑酮代谢物，与易怒和抑郁相关）的积累。
+大麻或大麻二酚（CBD）和四氢大麻酚（THC）是CYP酶的中强抑制剂，可增加SSRI血浆浓度，并导致不良反应（如腹泻、头晕、疲劳）。
+CYP = 细胞色素P450；FDA = 美国食品药品监督管理局；GAD = 广泛性焦虑障碍；OCD = 强迫症；SNRI = 血清素-去甲肾上腺素再摄取抑制剂；SSRI = 血清素再摄取抑制剂。
+* 所列药物临床上用于治疗所有焦虑症、强迫症和抑郁症。某些适应症已获得FDA批准；其他适应症未获批准是由于缺乏充分研究，而非其他原因。在所有适应症中最常用的是舍曲林和依他普仑。
+†氟西汀和帕罗西汀是2D6的有效抑制剂，降低抗精神病药物（利培酮、阿立哌唑、伊哌啶酮、氯氮平）的代谢，增加其血浆浓度。它们也可以抑制一些止痛药对其活性代谢物的代谢（羟考酮对羟吗啡酮），但与预期相反，可待因对吗啡不起作用。2D6的较弱抑制剂（如舍曲林）在较高剂量下可能产生类似效应。
+氟西汀和帕罗西汀在治疗抑郁症时的疗效在与曲唑酮（用于治疗失眠）合用时受损。这归因于2D6相互作用以及甲基氯哌嗪a（曲唑酮代谢物，与易怒和抑郁相关）的积累。
+大麻或大麻二酚（CBD）和四氢大麻酚（THC）是CYP酶的中强抑制剂，可增加SSRI血浆浓度，并导致不良反应（如腹泻、头晕、疲劳）。
+CYP = 细胞色素P450；FDA = 美国食品药品监督管理局；GAD = 广泛性焦虑障碍；OCD = 强迫症；SNRI = 血清素-去甲肾上腺素再摄取抑制剂；SSRI = 血清素再摄取抑制剂。
+针对家庭和学校的同步措施必须配合对儿童的直接治疗，以提升持续功能并给予适当的教育安置。在一项包括患有抑郁症的儿童和青少年的随机试验的网络荟萃分析中，心理治疗和抗抑郁药（如氟西汀）的组合效果优于心理治疗（1）。对于青春期前儿童，最佳方法尚不明确。大多数临床医生选择对年幼儿童进行心理治疗；然而，药物也可用于年幼儿童（氟西汀可用于年龄≥8岁的儿童），特别是在抑郁症严重或之前对心理治疗无反应时。对于急性危机患者，尤其是出现自杀行为者，可能需要进行短期住院治疗。
+选择性血清素再摄取抑制剂（SSRIs）是药物治疗的主要手段。具体药物的选择取决于患者年龄及药物的药代动力学特性。氟西汀和艾司西酞普兰已分别获美国食品药品监督管理局（FDA）批准用于 8 岁及 12 岁以上儿童，是在需使用抗抑郁药物时的首选治疗药物（2）。舍曲林和帕罗西汀是其他曾超说明书使用的选择性5-羟色胺再摄取抑制剂。氟西汀及其活性代谢产物去甲氟西汀的半衰期显著长于其他选择性5-羟色胺再摄取抑制剂（SSRIs），其中去甲氟西汀的半衰期为 7～15 天，而艾司西酞普兰和舍曲林的半衰期分别为 33 小时和 26 小时（3）。尽管氟西汀的长半衰期有助于维持更稳定的稳态水平，但可能起效较慢。此外，若出现不良反应，其消退所需的时间可能更长。氟西汀和帕罗西汀还能抑制自身代谢，导致在较高剂量下血浆水平不成比例地升高。相比之下，艾司西酞普兰和舍曲林的半衰期较短，可更快地完成剂量调整并实现较迅速的起效；此外，由于它们缺乏代谢自我抑制作用，有助于药物在体内更快清除。应告知儿童及其父母，这些药物可能需要6至8周才能达到稳定水平。（参见表焦虑、抑郁及相关障碍长期治疗药物。）
+选择性5-羟色胺再摄取抑制剂是P450同工酶的底物、抑制剂及诱导剂（3）。参见基因检测面板了解更多关于识别药物代谢酶（特别是CYP2D6、CYP2C19、CYP2B6）变异的信息。这些基因变异可能增加选择性5-羟色胺再摄取抑制剂（SSRI）不良反应的风险或降低疗效。基因检测在治疗前或对出现疗效不佳或不良反应的患者最有价值，但对疗效良好或无相关风险因素者则不推荐常规检测。（参见表焦虑、抑郁及相关障碍长期治疗药物）。这些检测组合的临床应用价值仍然有限。开具这些检测的临床医生应协助家属解读结果（CPIC—临床药物遗传学实施联盟）。
+行为不良反应是特异性的，可能发生在任何抗抑郁药和治疗期间的任何时间。因此，应该密切地监测服用这些药物的儿童和青少年。治疗通常应持续6个月，即使抑郁症状似乎已经缓解（4）。大多数医生选择治疗1年或更长时间。若决定停止药物治疗，SSRIs应逐渐减量。
+其他抗抑郁药物，根据成人研究显示，这类药物能同时作用于血清素能及肾上腺素能/多巴胺能系统，可能具有略高的疗效；然而，诸如SNRIs（血清素-去甲肾上腺素再摄取抑制剂，例如度洛西汀、去甲文拉法辛）、米氮平以及某些三环类药物（尤其是氯米帕明）也往往伴随更多不良反应，例如高血压。这些药物在治疗受阻的情况下特别有用。非5-羟色胺类抗抑郁药如丁氨苯丙酮和地昔帕明也可与选择性5-羟色胺再摄取抑制剂（SSRI）联合使用以增强疗效。对于极重度抑郁症，精神病性和/或躁狂症状可能需要额外使用抗精神病药物进行治疗（5, 6）。SNRIs的疗程和减量方案与SSRIs相似（7）。
+正在进行的实验性疗法（如沃替西汀和阿戈美拉汀）研究显示其在儿童和青少年抑郁治疗中的有效性和安全性。氯胺酮及其更强效形式艾氯胺酮在减轻青少年抑郁症状方面展现出前景（8）。然而，氯胺酮与艾氯胺酮的使用受到限制，且存在安全隐患。
+经颅磁刺激（TMS）是一种无创技术，通过置于头皮附近的电磁线圈向大脑施加短暂磁脉冲。TMS被认为通过增强谷氨酸能与GABA活性起效，这两种神经递质活动在抑郁症中据报减弱（9, 10）。经颅磁刺激装置已成功地用于青少年抑郁症（15岁及以上），并结合其他治疗方法（如抗抑郁药、谈话治疗），或当标准治疗无效时。经颅磁刺激在低龄儿童中的应用尚处于研究阶段。针对青少年及年轻成人抑郁与焦虑共病患者的初步数据表明，其在抑郁合并焦虑症状方面改善显著（11）。TMS所报告的不良反应包括治疗部位疼痛、头痛，以及可在五天内自行消退的暂时性视力模糊（12）。TMS在青少年中的临床疗效与耐受性与成人报告结果相似（13-16）。与成人一样，经TMS治疗的抑郁症复发与再发情况亦属常见。重复经颅磁刺激（rTMS）可能有助于治疗难治性抑郁症；但针对儿童与青少年的研究尚不充分（17）。
+
+【自杀风险和抗抑郁药】
+不同抗抑郁治疗方式与自杀风险之间的关联，长期以来一直是争议与研究的焦点（18）。2004年，美国食品药品监督管理局（FDA）对9种抗抑郁药的23项临床试验进行荟萃分析，结果显示，与安慰剂相比，服用抗抑郁药（如帕罗西汀）的儿童和青少年自杀意念发生率虽总体较低但具有统计学意义上的增加（4% 对比 2%）（19）。这一发现导致了对所有类型的抗抑郁药（例如，三环抗抑郁药，SSRIs, SNRIs，如文拉法辛，四环抗抑郁药，如米氮平）的黑框警告。
+后续的观察性与流行病学研究（20）发现，服用SSRI类药物的患者自杀未遂或自杀身亡的发生率并未升高。此外，尽管黑框警告后抗抑郁药的处方量减少，青少年自杀率却增加了14% (21)。利用商业理赔数据 (22) 和全国登记数据 (23) 评估药物与自杀事件相关的风险和益处，结果显示SSRIs显著降低自杀事件发生率。例如，一项涵盖儿童与青少年的瑞典大型人群队列研究显示，在开始使用选择性5-羟色胺再摄取抑制剂（SSRI）治疗前的一个月内，自杀行为风险最高；而在开始用药后，该风险则转变为具有保护作用（24）。2024年一项评估SSRI对精神疾病患者自杀风险影响的网络荟萃分析表明，SSRI在短期内具有预防自杀意念的作用（25）。然而，其在改善自杀意念与行为方面的长期有效性尚不明确。
+未治疗的抑郁症本身就是自杀意念和已完成自杀的风险因素。SSRI类药物的耐受性优于SNRI（26），与心理治疗一起，可以被认为是一线治疗。研究显示，在中至重度抑郁的青少年中，使用文拉法辛治疗者自伤事件（不包括自杀完成）的发生率高于使用SSRI治疗者（27）。建议将药物治疗与心理治疗相结合，并通过密切监测治疗过程来降低风险。
+无论是否使用药物治疗，对于患有抑郁症的儿童或青少年而言，自杀始终是需要警惕的问题；因此：
+家长和心理健康保健工作者应深入讨论该问题。
+家长和心理健康保健工作者应深入讨论该问题。
+儿童或青少年应在适当的程度上受到监督。
+儿童或青少年应在适当的程度上受到监督。
+治疗计划中应包括定期安排的心理治疗。
+治疗计划中应包括定期安排的心理治疗。
+
+【经验与提示】
+经验与提示
+无论是否服用抗抑郁药物，抑郁症儿童或青少年的自杀风险始终是应关注的问题。
+无论是否服用抗抑郁药物，抑郁症儿童或青少年的自杀风险始终是应关注的问题。
+
+【治疗参考文献】
+1.Zhou X, Teng T, Zhang Y, et al.Comparative efficacy and acceptability of antidepressants, psychotherapies, and their combination for acute treatment of children and adolescents with depressive disorder: a systematic review and network meta-analysis.Lancet Psychiatry.2020;7(7):581-601.doi:10.1016/S2215-0366(20)30137-1
+1.Zhou X, Teng T, Zhang Y, et al.Comparative efficacy and acceptability of antidepressants, psychotherapies, and their combination for acute treatment of children and adolescents with depressive disorder: a systematic review and network meta-analysis.Lancet Psychiatry.2020;7(7):581-601.doi:10.1016/S2215-0366(20)30137-1
+2.Dwyer JB, Bloch MH.Antidepressants for pediatric patients.Curr Psychiatr.8(9):26-42F, 2019.
+2.Dwyer JB, Bloch MH.Antidepressants for pediatric patients.Curr Psychiatr.8(9):26-42F, 2019.
+3.Marken PA, Munro JS.Selecting a Selective Serotonin Reuptake Inhibitor: Clinically Important Distinguishing Features.Prim Care Companion J Clin Psychiatry.2000;2(6):205-210.doi:10.4088/pcc.v02n0602
+3.Marken PA, Munro JS.Selecting a Selective Serotonin Reuptake Inhibitor: Clinically Important Distinguishing Features.Prim Care Companion J Clin Psychiatry.2000;2(6):205-210.doi:10.4088/pcc.v02n0602
+4.Miller L, Campo JV.Depression in Adolescents.N Engl J Med.2021;385(5):445-449.doi:10.1056/NEJMra2033475
+4.Miller L, Campo JV.Depression in Adolescents.N Engl J Med.2021;385(5):445-449.doi:10.1056/NEJMra2033475
+5.Kendall T, Morriss R, Mayo-Wilson E, et al.Assessment and management of bipolar disorder: Summary of updated NICE guidance.BMJ349:g5673, 2014. doi: 10.1136/bmj.g5673
+5.Kendall T, Morriss R, Mayo-Wilson E, et al.Assessment and management of bipolar disorder: Summary of updated NICE guidance.BMJ349:g5673, 2014. doi: 10.1136/bmj.g5673
+6.Yatham LN, Kennedy SH, Parikh SV, et al.Canadian Network for Mood and Anxiety Treatments (CANMAT) and International Society for Bipolar Disorders (ISBD) collaborative update of CANMAT guidelines for the management of patients with bipolar disorder: Update 2013.Bipolar Disord.15(1):1-44, 2013. doi: 10.1111/bdi.12025
+6.Yatham LN, Kennedy SH, Parikh SV, et al.Canadian Network for Mood and Anxiety Treatments (CANMAT) and International Society for Bipolar Disorders (ISBD) collaborative update of CANMAT guidelines for the management of patients with bipolar disorder: Update 2013.Bipolar Disord.15(1):1-44, 2013. doi: 10.1111/bdi.12025
+7.Horowitz MA, Taylor D.Tapering of SSRI treatment to mitigate withdrawal symptoms.Lancet Psychiatry.2019;6(6):538-546.doi:10.1016/S2215-0366(19)30032-X
+7.Horowitz MA, Taylor D.Tapering of SSRI treatment to mitigate withdrawal symptoms.Lancet Psychiatry.2019;6(6):538-546.doi:10.1016/S2215-0366(19)30032-X
+8.Meshkat S, Rosenblat JD, Ho RC, et al.Ketamine use in pediatric depression: A systematic review.Psychiatry Res.2022;317:114911.doi:10.1016/j.psychres.2022.114911
+8.Meshkat S, Rosenblat JD, Ho RC, et al.Ketamine use in pediatric depression: A systematic review.Psychiatry Res.2022;317:114911.doi:10.1016/j.psychres.2022.114911
+9.Gonsalves MA, White TL, Barredo J, et al.Repetitive Transcranial Magnetic Stimulation-Associated Changes in Neocortical Metabolites in Major Depression: A Systematic Review.Neuroimage Clin2022;35:103049.doi:10.1016/j.nicl.2022.103049
+9.Gonsalves MA, White TL, Barredo J, et al.Repetitive Transcranial Magnetic Stimulation-Associated Changes in Neocortical Metabolites in Major Depression: A Systematic Review.Neuroimage Clin2022;35:103049.doi:10.1016/j.nicl.2022.103049
+10.Duman RS, Sanacora G, Krystal JH.Altered Connectivity in Depression: GABA and Glutamate Neurotransmitter Deficits and Reversal by Novel Treatments.Neuron.2019;102(1):75-90.doi:10.1016/j.neuron.2019.03.013
+10.Duman RS, Sanacora G, Krystal JH.Altered Connectivity in Depression: GABA and Glutamate Neurotransmitter Deficits and Reversal by Novel Treatments.Neuron.2019;102(1):75-90.doi:10.1016/j.neuron.2019.03.013
+11.Croarkin PE, Aaronson ST, Carpenter LL, et al.A Naturalistic Study of Transcranial Magnetic Stimulation Treatment in Adolescents and Young Adults With Depression and Anxiety.New Findings Ther.2024;63(10), Supplement S306.
+11.Croarkin PE, Aaronson ST, Carpenter LL, et al.A Naturalistic Study of Transcranial Magnetic Stimulation Treatment in Adolescents and Young Adults With Depression and Anxiety.New Findings Ther.2024;63(10), Supplement S306.
+12.Lewis CP, Nakonezny PA, Sonmez AI, et al.A Dose-Finding, Biomarker Validation, and Effectiveness Study of Transcranial Magnetic Stimulation for Adolescents With Depression.J Am Acad Child Adolesc Psychiatry.Published online September 6, 2024.doi:10.1016/j.jaac.2024.08.487
+12.Lewis CP, Nakonezny PA, Sonmez AI, et al.A Dose-Finding, Biomarker Validation, and Effectiveness Study of Transcranial Magnetic Stimulation for Adolescents With Depression.J Am Acad Child Adolesc Psychiatry.Published online September 6, 2024.doi:10.1016/j.jaac.2024.08.487
+13.Allen CG, Kluger BM, Buard I.Safety of transcranial magnetic stimulation in children: A systematic review of the literature.Pediatr Neurol.68:3-17, 2017.doi.org/10.1016/j.pediatrneurol.2016.12.009
+13.Allen CG, Kluger BM, Buard I.Safety of transcranial magnetic stimulation in children: A systematic review of the literature.Pediatr Neurol.68:3-17, 2017.doi.org/10.1016/j.pediatrneurol.2016.12.009
+14.Donaldson AE, Gordon MS, Melvin GA, et al.Addressing the needs of adolescents with treatment resistant depressive disorders: A systematic review of rTMS.Brain Stimul.7(1):7-12.2014. doi: 10.1016/j.brs.2013.09.012
+14.Donaldson AE, Gordon MS, Melvin GA, et al.Addressing the needs of adolescents with treatment resistant depressive disorders: A systematic review of rTMS.Brain Stimul.7(1):7-12.2014. doi: 10.1016/j.brs.2013.09.012
+15.Krishnan C, Santos L, Peterson MD, et al.  Safety of noninvasive brain stimulation in children and adolescents.Brain Stimul.8:76-87, 2015.doi: 10.1016/j.brs.2014.10.012
+15.Krishnan C, Santos L, Peterson MD, et al.  Safety of noninvasive brain stimulation in children and adolescents.Brain Stimul.8:76-87, 2015.doi: 10.1016/j.brs.2014.10.012
+16.Croarkin PE, MacMaster FP.Transcranial magnetic stimulation for adolescent depression.Child Adolesc Psychiatry Clin N Am.28(1):33-43, 2019.10.1016/j.chc.2018.07.003
+16.Croarkin PE, MacMaster FP.Transcranial magnetic stimulation for adolescent depression.Child Adolesc Psychiatry Clin N Am.28(1):33-43, 2019.10.1016/j.chc.2018.07.003
+17.Somani A, Kar SK.Efficacy of repetitive transcranial magnetic stimulation in treatment-resistant depression: the evidence thus far.Gen Psychiatr.2019;32(4):e100074.Published 2019 Aug 12.doi:10.1136/gpsych-2019-100074
+17.Somani A, Kar SK.Efficacy of repetitive transcranial magnetic stimulation in treatment-resistant depression: the evidence thus far.Gen Psychiatr.2019;32(4):e100074.Published 2019 Aug 12.doi:10.1136/gpsych-2019-100074
+18.Hetrick SE, McKenzie JE, Cox GR, Simmons MB, Merry SN.Newer generation antidepressants for depressive disorders in children and adolescents.Cochrane Database Syst Rev.2012;11(11):CD004851.Published 2012 Nov 14.doi:10.1002/14651858.CD004851.pub3
+18.Hetrick SE, McKenzie JE, Cox GR, Simmons MB, Merry SN.Newer generation antidepressants for depressive disorders in children and adolescents.Cochrane Database Syst Rev.2012;11(11):CD004851.Published 2012 Nov 14.doi:10.1002/14651858.CD004851.pub3
+19.US Food and Drug Administration (FDA).Suicidality in Children and Adolescents Being Treated With Antidepressant Medications.2018.Accessed June 26 2025.
+19.US Food and Drug Administration (FDA).Suicidality in Children and Adolescents Being Treated With Antidepressant Medications.2018.Accessed June 26 2025.
+20.Adegbite-Adeniyi C, Gron B, Rowles BM, Demeter CA, Findling RL.An update on antidepressant use and suicidality in pediatric depression.Expert Opin Pharmacother.2012;13(15):2119-2130.doi:10.1517/14656566.2012.726613
+20.Adegbite-Adeniyi C, Gron B, Rowles BM, Demeter CA, Findling RL.An update on antidepressant use and suicidality in pediatric depression.Expert Opin Pharmacother.2012;13(15):2119-2130.doi:10.1517/14656566.2012.726613
+21.Garland JE, Kutcher S, Virani A, et al.Update on the use of SSRIs and SNRIs with children and adolescents in clinical practice.J Can Acad Child Adolesc Psychiatry.25(1):4-10.
+21.Garland JE, Kutcher S, Virani A, et al.Update on the use of SSRIs and SNRIs with children and adolescents in clinical practice.J Can Acad Child Adolesc Psychiatry.25(1):4-10.
+22.Gibbons R, Hur K, Lavigne J, et al.Medications and suicide: High dimensional empirical Bayes screening (iDEAS).Harvard Data Sci Rev.2019.doi: 10.1162/99608f92.6fdaa9de
+22.Gibbons R, Hur K, Lavigne J, et al.Medications and suicide: High dimensional empirical Bayes screening (iDEAS).Harvard Data Sci Rev.2019.doi: 10.1162/99608f92.6fdaa9de
+23.Lagerberg T, Fazel S, Sjölander A, et al.Selective serotonin reuptake inhibitors and suicidal behaviour: A population-based cohort study.Neuropsychoparmacol.47:817-823, 2022.https://doi.org/10.1038/s41386-021-01179-z
+23.Lagerberg T, Fazel S, Sjölander A, et al.Selective serotonin reuptake inhibitors and suicidal behaviour: A population-based cohort study.Neuropsychoparmacol.47:817-823, 2022.https://doi.org/10.1038/s41386-021-01179-z
+24.Lagerberg T, Fazel S, Sjölander A, Hellner C, Lichtenstein P, Chang Z.Selective serotonin reuptake inhibitors and suicidal behaviour: a population-based cohort study.Neuropsychopharmacology.2022;47(4):817-823.doi:10.1038/s41386-021-01179-z
+24.Lagerberg T, Fazel S, Sjölander A, Hellner C, Lichtenstein P, Chang Z.Selective serotonin reuptake inhibitors and suicidal behaviour: a population-based cohort study.Neuropsychopharmacology.2022;47(4):817-823.doi:10.1038/s41386-021-01179-z
+25.Li Y, Chen C, Chen Q, et al.Effects of selective serotonin reuptake inhibitors (SSRIs) on suicide: A network meta-analysis of double-blind randomized trials.Psychiatry Res.2024;336:115917.doi:10.1016/j.psychres.2024.115917
+25.Li Y, Chen C, Chen Q, et al.Effects of selective serotonin reuptake inhibitors (SSRIs) on suicide: A network meta-analysis of double-blind randomized trials.Psychiatry Res.2024;336:115917.doi:10.1016/j.psychres.2024.115917
+26.Cipriani A, Zhou X, Del Giovane C, et al.Comparative efficacy and tolerability of antidepressants for major depressive disorder in children and adolescents: a network meta-analysis.Lancet.2016;388(10047):881-890.doi:10.1016/S0140-6736(16)30385-3
+26.Cipriani A, Zhou X, Del Giovane C, et al.Comparative efficacy and tolerability of antidepressants for major depressive disorder in children and adolescents: a network meta-analysis.Lancet.2016;388(10047):881-890.doi:10.1016/S0140-6736(16)30385-3
+27.Brent DA, Emslie GJ, Clarke GN, et al.Predictors of spontaneous and systematically assessed suicidal adverse events in the treatment of SSRI-resistant depression in adolescents (TORDIA) study.Am J Psychiatry.2009;166(4):418-426.doi:10.1176/appi.ajp.2008.08070976
+27.Brent DA, Emslie GJ, Clarke GN, et al.Predictors of spontaneous and systematically assessed suicidal adverse events in the treatment of SSRI-resistant depression in adolescents (TORDIA) study.Am J Psychiatry.2009;166(4):418-426.doi:10.1176/appi.ajp.2008.08070976
+
+【抑郁障碍的预后】
+青少年抑郁性情绪障碍的痊愈率高于90%，然而复发颇为常见，约三分之二的个体至少经历一次复发（1, 2）。早发性抑郁症可能与成年期持续性及复发性抑郁发作风险增加相关；患者在成年后常表现出更高水平的焦虑、物质使用及社会功能受损，并具有较差的健康结局，包括自杀性自伤（3）。
+
+【预后参考】
+1.Kiviruusu O, Strandholm T, Karlsson L, Marttunen M.Outcome of depressive mood disorder among adolescent outpatients in an eight-year follow-up.J Affect Disord.2020;266:520-527.doi:10.1016/j.jad.2020.01.174
+1.Kiviruusu O, Strandholm T, Karlsson L, Marttunen M.Outcome of depressive mood disorder among adolescent outpatients in an eight-year follow-up.J Affect Disord.2020;266:520-527.doi:10.1016/j.jad.2020.01.174
+2.Copeland WE, Alaie I, Jonsson U, Shanahan L.Associations of Childhood and Adolescent Depression With Adult Psychiatric and Functional Outcomes.J Am Acad Child Adolesc Psychiatry.2021;60(5):604-611.doi:10.1016/j.jaac.2020.07.895
+2.Copeland WE, Alaie I, Jonsson U, Shanahan L.Associations of Childhood and Adolescent Depression With Adult Psychiatric and Functional Outcomes.J Am Acad Child Adolesc Psychiatry.2021;60(5):604-611.doi:10.1016/j.jaac.2020.07.895
+3.Weavers B, Heron J, Thapar AK, et al.The antecedents and outcomes of persistent and remitting adolescent depressive symptom trajectories: a longitudinal, population-based English study.Lancet Psychiatry.2021;8(12):1053-1061.doi:10.1016/S2215-0366(21)00281-9
+3.Weavers B, Heron J, Thapar AK, et al.The antecedents and outcomes of persistent and remitting adolescent depressive symptom trajectories: a longitudinal, population-based English study.Lancet Psychiatry.2021;8(12):1053-1061.doi:10.1016/S2215-0366(21)00281-9
+在儿童中，抑郁障碍可能表现为悲伤或易怒。
+在儿童中，抑郁障碍可能表现为悲伤或易怒。
+重度抑郁症患者在两周内几乎每天大部分时间持续感到悲伤或易怒，或对几乎所有活动丧失兴趣或愉悦感。
+重度抑郁症患者在两周内几乎每天大部分时间持续感到悲伤或易怒，或对几乎所有活动丧失兴趣或愉悦感。
+抑郁症的诊断依据特定的临床标准，并需进行适当的实验室检查以排除其他疾病（如传染性单核细胞增多症、甲状腺疾病、违禁药物使用）。
+抑郁症的诊断依据特定的临床标准，并需进行适当的实验室检查以排除其他疾病（如传染性单核细胞增多症、甲状腺疾病、违禁药物使用）。
+家庭与学校在孩子接受治疗期间共同参与，以促进其持续功能发展并提供适当的教育支持。
+家庭与学校在孩子接受治疗期间共同参与，以促进其持续功能发展并提供适当的教育支持。
+对于青少年（和成年人一样），心理治疗与抗抑郁药的结合通常比单独使用任一方法效果更好；而在较年幼的儿童中，大多数临床医生选择心理治疗，但如果需要，也可以根据儿童的年龄使用药物。
+对于青少年（和成年人一样），心理治疗与抗抑郁药的结合通常比单独使用任一方法效果更好；而在较年幼的儿童中，大多数临床医生选择心理治疗，但如果需要，也可以根据儿童的年龄使用药物。
+2004年，FDA进行了一项荟萃分析，促使对各类抗抑郁药物加注黑框警告，提示儿童、青少年及年轻成人使用后自杀意念与自杀行为风险增加；然而后续分析显示短期内自杀意念与行为均有所下降，但该效应能否持续尚不明确。
+2004年，FDA进行了一项荟萃分析，促使对各类抗抑郁药物加注黑框警告，提示儿童、青少年及年轻成人使用后自杀意念与自杀行为风险增加；然而后续分析显示短期内自杀意念与行为均有所下降，但该效应能否持续尚不明确。

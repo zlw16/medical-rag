@@ -1,0 +1,94 @@
+标题：乳糜泻
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/malabsorption-syndromes/celiac-disease
+============================================================
+
+乳糜泻属于吸收障碍症(1)。
+
+【参考文献】
+1.Stanciu D, Staykov H, Dragomanova S, et al.Gluten Unraveled: Latest Insights on Terminology, Diagnosis, Pathophysiology, Dietary Strategies, and Intestinal Microbiota Modulations-A Decade in Review.Nutrients.2024;16(21):3636.Published 2024 Oct 25.doi:10.3390/nu16213636
+1.Stanciu D, Staykov H, Dragomanova S, et al.Gluten Unraveled: Latest Insights on Terminology, Diagnosis, Pathophysiology, Dietary Strategies, and Intestinal Microbiota Modulations-A Decade in Review.Nutrients.2024;16(21):3636.Published 2024 Oct 25.doi:10.3390/nu16213636
+
+【乳糜泻的病因】
+乳糜泻是一种遗传性疾病，由对麸质（存在于小麦中的一种蛋白质）中的麦胶蛋白部分敏感引起；黑麦和大麦中含有类似蛋白质。在遗传易感人群中，当麸质蛋白衍生的肽表位被呈递时，麸质蛋白敏感性T细胞会被激活。从而产生炎症，使小肠绒毛萎缩。
+
+【乳糜泻流行病学】
+基于对献血者的血清学筛查，乳糜泻可能影响全球高达1.4%的人口（1）。经活检证实的乳糜泻全球患病率约为该数值的一半，其患病率在0.4%至0.8%之间大幅波动，并因地域而异。
+该病累及约7.5%的一级亲属，女性患病率高于男性（2）。该病通常儿童期起病，但也可在后期发生。
+患有其他疾病的患者，如淋巴细胞性结肠炎、唐氏综合征、1型糖尿病和自身免疫性（桥本）甲状腺炎，有发生乳糜泻的风险。
+
+【流行病学参考】
+1.Singh P, Arora A, Strand TA, et al.Global Prevalence of Celiac Disease: Systematic Review and Meta-analysis.Clin Gastroenterol Hepatol.2018;16(6):823-836.e2.doi:10.1016/j.cgh.2017.06.037
+1.Singh P, Arora A, Strand TA, et al.Global Prevalence of Celiac Disease: Systematic Review and Meta-analysis.Clin Gastroenterol Hepatol.2018;16(6):823-836.e2.doi:10.1016/j.cgh.2017.06.037
+2.Singh P, Arora S, Lal S, Strand TA, Makharia GK.Risk of Celiac Disease in the First- and Second-Degree Relatives of Patients With Celiac Disease: A Systematic Review and Meta-Analysis.Am J Gastroenterol.2015;110(11):1539-1548.doi:10.1038/ajg.2015.296
+2.Singh P, Arora S, Lal S, Strand TA, Makharia GK.Risk of Celiac Disease in the First- and Second-Degree Relatives of Patients With Celiac Disease: A Systematic Review and Meta-Analysis.Am J Gastroenterol.2015;110(11):1539-1548.doi:10.1038/ajg.2015.296
+
+【乳糜泻的症状和体征】
+临床表现多种多样，没有典型的表现。有的患者没有症状或仅表现为营养不良。有的患者则具有明显的消化道症状。
+婴儿和儿童饮食中添加谷类食物后可产生乳糜泻。患儿可表现为生长发育迟缓、淡漠、厌食、苍白、肌张力减退、腹胀和肌肉萎缩。大便为陶土样大量软便，并有恶臭。大年龄儿童可出现贫血或生长落后。
+而倦怠、虚弱和厌食是成人最常见症状。有时轻度和间歇性的腹泻为主要症状。脂肪泻（恶臭、苍白、量多且油腻的粪便）程度从轻度到重度不等（每日脂肪排泄量7至50克）。部分患者有体重减轻，但很少达到低体重标准。贫血、舌炎、口角炎和阿弗他溃疡通常在这些患者中出现。 常见症状还有维生素D和钙缺乏表现（如骨软化、骨质缺乏、骨质疏松）。男性和女性的生育能力均可能下降；女性可能出现闭经。
+约17%的患者出现疱疹样皮炎，这是一种对称分布于肘、膝、臀部、肩部和头皮伸侧的剧烈瘙痒性丘疱疹（1）。由高麸质饮食诱导产生。
+这张照片显示肘部伸展表面疱疹样皮炎(伴有对称瘙痒性丘疹)。
+疱疹样皮炎的特征是成簇的剧烈瘙痒性红斑、荨麻疹样皮损，以及水疱、丘疹和大疱，通常对称分布于四肢伸侧。
+
+【症状和体征】
+1.Reunala T, Salmi TT, Hervonen K, Kaukinen K, Collin P.Dermatitis Herpetiformis: A Common Extraintestinal Manifestation of Coeliac Disease.Nutrients.2018;10(5):602.Published 2018 May 12.doi:10.3390/nu10050602
+1.Reunala T, Salmi TT, Hervonen K, Kaukinen K, Collin P.Dermatitis Herpetiformis: A Common Extraintestinal Manifestation of Coeliac Disease.Nutrients.2018;10(5):602.Published 2018 May 12.doi:10.3390/nu10050602
+
+【乳糜泻的诊断】
+血清标志物
+血清标志物
+小肠活检
+小肠活检
+（参见美国胃肠病学会的2023年指南更新：乳糜泻的诊断与管理。）
+乳糜泻的诊断基于临床怀疑以及提示吸收不良的实验室异常。家族发病率具有很好的提示意义。若患者没有明显的消化道出血却合并缺铁时，应高度怀疑乳糜泻可能。
+确诊需在十二指肠第二部分进行小肠活检。活检结果包括绒毛缺失或缩短（绒毛萎缩）、上皮内细胞增多以及隐窝增生。 但是，这些表现也可见于热带口炎性腹泻、严重的小肠细菌过度生长、嗜酸细胞肠炎、感染性肠炎（如贾第虫病）和淋巴瘤。
+上图：此光镜照片显示了一名乳糜泻患者的空肠切片。观察到的主要表现包括绒毛变钝和扁平、上皮内淋巴细胞增多以及隐窝增生。下图：光镜显示非乳糜泻患者的空肠壁切片。
+顶部图片：BIOPHOTO ASSOCIATES/SCIENCE PHOTO LIBRARY
+底部图片：INNERSPACE IMAGING/SCIENCE PHOTO LIBRARY
+因为活检结果缺乏特异性，血清标志物有助于诊断。组织转谷氨酰胺酶抗体（tTG）-IgA抗体和肌内膜IgA抗体（EMA——一种针对肠道结缔组织蛋白的抗体）的敏感性和特异性均>90%（1）。这些标志物也可用于筛查乳糜泻高发人群，包括患者的一级亲属以及患有与乳糜泻关联密切的其他疾病的患者。如果任一项实验结果阳性，则患者需行小肠黏膜活检来确诊。如果两个结果均阴性，则乳糜泻的可能极小。患者无麸质饮食后抗体滴度会下降，因此这些指标有助于监测患者饮食治疗的依从性。所有血清学诊断检测都应在麸质饮食的前提下进行。
+血清IgA水平应与tTG检测同时进行，因为IgA缺乏可能导致假阴性结果。如发现IgA缺乏，建议检测IgG型抗tTG抗体和脱酰胺化醇溶蛋白肽（DGP）抗体。
+组织相容性检测可用于部分临床情况。超过95％的乳糜泻患者具有人类白细胞抗原（HLA）-DQ2或HLA-DQ8单体型（2），尽管这些单体型对乳糜泻并无特异性。然而，由于敏感性较高，当活检和血清学标志物不一致时，若未检测出HLA-DQ2或-DQ8，可排除乳糜泻诊断。
+常有其他实验室检测的异常，应予以检查。包括贫血（儿童缺铁性贫血和成人叶酸缺乏性贫血）、低白蛋白血症、低钙血症、低钾血症、低钠血症、碱性磷酸酶升高和凝血酶原时间延长。
+吸收不良试验在乳糜泻诊断中不具有特异性。若进行这些检查，常见结果包括每日10至40克的脂肪泻、D-木糖试验结果异常，以及（在严重回肠疾病中）希林试验呈阳性。
+非乳糜泻麸质敏感（NCGS），又称麸质不耐受，是摄入麸质引发的非免疫介导反应。与乳糜泻患者一样，也会出现类似的胃肠道症状，但活组织检查显示绒毛正常，血清学标志物可排除乳糜泻（和小麦过敏）。有些报道称NCGS患者可能出现某些非特异性血清标志物升高（3）。与乳糜泻相比，麸质敏感性对整体健康无严重负面影响，其影响主要局限于胃肠道不适症状。与乳糜泻相同，治疗为避免摄入麸质。
+
+【经验与误区】
+经验与误区
+若患者没有明显的消化道出血却合并铁缺乏时，应高度怀疑乳糜泻可能。
+若患者没有明显的消化道出血却合并铁缺乏时，应高度怀疑乳糜泻可能。
+
+【诊断参考】
+1.Rubio-Tapia A, Hill ID, Semrad C, et al.American College of Gastroenterology Guidelines Update: Diagnosis and Management of Celiac Disease [published correction appears inAm J Gastroenterol.2024 Jul 1;119(7):1441. doi: 10.14309/ajg.0000000000002210].Am J Gastroenterol.2023;118(1):59-76.doi:10.14309/ajg.00000000000020751.Epub 2022 Sep 21.Erratumin:Am J Gastroenterol.2024 Jul 1;119(7):1441.doi: 10.14309/ajg.0000000000002210
+1.Rubio-Tapia A, Hill ID, Semrad C, et al.American College of Gastroenterology Guidelines Update: Diagnosis and Management of Celiac Disease [published correction appears inAm J Gastroenterol.2024 Jul 1;119(7):1441. doi: 10.14309/ajg.0000000000002210].Am J Gastroenterol.2023;118(1):59-76.doi:10.14309/ajg.00000000000020751.Epub 2022 Sep 21.Erratumin:Am J Gastroenterol.2024 Jul 1;119(7):1441.doi: 10.14309/ajg.0000000000002210
+2.Kaukinen K, Partanen J, Mäki M, Collin P.HLA-DQ typing in the diagnosis of celiac disease.Am J Gastroenterol.97(3):695–699, 2002.doi: 10.1111/j.1572-0241.2002.05471.x
+2.Kaukinen K, Partanen J, Mäki M, Collin P.HLA-DQ typing in the diagnosis of celiac disease.Am J Gastroenterol.97(3):695–699, 2002.doi: 10.1111/j.1572-0241.2002.05471.x
+3.Hill ID, Fasano A, Guandalini S, et al.NASPGHAN Clinical Report on the Diagnosis and Treatment of Gluten-related Disorders.J Pediatr Gastroenterol Nutr.2016;63(1):156-165.doi:10.1097/MPG.0000000000001216
+3.Hill ID, Fasano A, Guandalini S, et al.NASPGHAN Clinical Report on the Diagnosis and Treatment of Gluten-related Disorders.J Pediatr Gastroenterol Nutr.2016;63(1):156-165.doi:10.1097/MPG.0000000000001216
+
+【乳糜泻的治疗】
+无麸质饮食
+无麸质饮食
+补充严重缺乏的营养素
+补充严重缺乏的营养素
+(参见 the American College of Gastroenterology's2023 Guidelines Update: Diagnosis and Management of Celiac Disease.)
+乳糜泻治疗方法为无麸质饮食（避免含小麦、黑麦或大麦的食物）。麸质广泛用于商业食品中，因此患者需要一份详细的避免食用的食物清单。鼓励患者咨询营养师并加入乳糜泻支持小组（英语小组包括乳糜泻研究拓展或乳糜泻基金会）。无麸质饮食治疗起效很迅速，症状可在1～2周内缓解。然而，即使摄入少量含有麸质的食物，也可能阻止缓解或诱发复发。
+无麸质饮食治疗3至6个月后需进行小肠组织活检复查。 若检查结果仍异常，则需考虑其他引起绒毛萎缩的病因（如淋巴瘤）。患者症状和小肠黏膜形态学的改善与血清抗组织型转谷氨酰胺酶抗体和抗肌内膜抗体的滴度下降一致。
+根据营养素缺乏的情况补充维生素、矿物质及补血药。轻症患者无需补充，重症患者可能需要施以综合性的补充治疗。对于成人，替代性治疗包括口服硫酸亚铁、口服叶酸、钙补充剂和常规复合维生素制剂。有些儿童在首次就诊时病情就十分严重（成年人很少），他们需要肠道休息和全肠外营养治疗。
+如果患者对无麸质饮食治疗效果差，则需考虑是否诊断有误或病情顽固难治。对于难治性患者，糖皮质激素能控制病情。
+
+【乳糜泻的预后】
+乳糜泻的并发症包括难治性乳糜泻、胶原性口炎性腹泻和肠道淋巴瘤。
+6%～8%的乳糜泻患者会发生肠道淋巴瘤，通常发生于患病后的20～40年。其他胃肠道肿瘤的发病率也会增加（如食管癌、口咽癌或小肠腺癌）（1）。坚持无麸质饮食可显著降低发生肿瘤的风险。
+若长期坚持无麸质饮食且病情控制良好的患者再次出现乳糜泻症状，医生通常会进行上消化道内镜及小肠活检和/或胶囊内镜检查，以排查肠道淋巴瘤的迹象。
+
+【预后参考】
+1.Ilus T, Kaukinen K, Virta LJ, et al.Incidence of malignancies in diagnosed celiac patients: A population-based estimate.Am J Gastroenterol.109(9):1471–1477, 2014.doi: 10.1038/ajg.2014.194
+1.Ilus T, Kaukinen K, Virta LJ, et al.Incidence of malignancies in diagnosed celiac patients: A population-based estimate.Am J Gastroenterol.109(9):1471–1477, 2014.doi: 10.1038/ajg.2014.194
+乳糜泻是由麸质引起的一系列炎症反应。该病会导致绒毛萎缩和吸收不良。
+乳糜泻是由麸质引起的一系列炎症反应。该病会导致绒毛萎缩和吸收不良。
+该病在全球不同人群中的患病率存在差异。
+该病在全球不同人群中的患病率存在差异。
+若抗组织型转谷氨酰胺酶抗体和抗肌内膜抗体这些血清学标志物阳性，则需怀疑该病可能；确诊需进行小肠组织活检。
+若抗组织型转谷氨酰胺酶抗体和抗肌内膜抗体这些血清学标志物阳性，则需怀疑该病可能；确诊需进行小肠组织活检。
+指导患者遵循无麸质饮食和补充缺乏的维生素和矿物质。
+指导患者遵循无麸质饮食和补充缺乏的维生素和矿物质。

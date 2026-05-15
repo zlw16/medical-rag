@@ -1,0 +1,34 @@
+标题：其他胃肠道检查方法和治疗流程
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/diagnostic-and-therapeutic-gastrointestinal-procedures/other-gastrointestinal-testing-and-therapeutic-procedures
+============================================================
+
+
+【呼气试验】
+呼气试验通常涉及摄入一种由消化道细菌或消化酶代谢的底物。然后在患者的呼出气中测定摄入底物的代谢物。
+各种呼气测试有助于诊断，例如
+幽门螺旋杆菌感染：尿素呼气试验
+幽门螺旋杆菌感染：尿素呼气试验
+碳水化合物不耐受：氢（H2）呼气测试（乳糖或果糖呼气测试）
+碳水化合物不耐受：氢（H2）呼气测试（乳糖或果糖呼气测试）
+小肠细菌过度生长：葡萄糖-氢或乳果糖-氢呼气试验
+小肠细菌过度生长：葡萄糖-氢或乳果糖-氢呼气试验
+先天性蔗糖-异麦芽糖酶缺乏症（CSID）：碳13呼气试验（1）
+先天性蔗糖-异麦芽糖酶缺乏症（CSID）：碳13呼气试验（1）
+
+【无线运动胶囊】
+无线动力胶囊是一种可吞服的装置，它在通过消化道的过程中，持续测量腔内环境的压力与 pH 值。可用于测量整个胃肠道和单个区域（胃、小肠、结肠）的运输时间、压力曲线和运动。该装置可帮助评估胃排空，以及表现为动力障碍相关症状患者的小肠与结肠转运功能。
+
+【神经调节/神经刺激疗法】
+电刺激胃肠神经可用于治疗各种胃肠动力障碍。
+副交感神经张力低被认为是胃肠动力障碍的原因。神经调节增加副交感神经张力，从而改善食物和气体的蠕动以及胃肠道转运。此外，神经调节可能会影响内脏和中枢疼痛通路，从而靶向一些被认为会导致肠易激综合征（IBS）等疾病的病理生理机制。
+胃电刺激已用于糖尿病或特发性胃轻瘫患者，用来治疗顽固性症状，特别是恶心和呕吐 (2)。胃电刺激是通过手术将电极植入胃内实现的。胃电刺激的使用并不普遍，并且仅在专门的中心为特定的患者提供。
+骶骨刺激器用于治疗大便失禁(3)。刺激骶神经可增加直肠张力，减少失禁发作。骶骨刺激器最初放置在外部以确定功效，然后通常由外科医生通过微创手术植入。
+迷走神经刺激、针灸和经皮电神经刺激正在被探索用于治疗各种胃肠道疾病，包括便秘型肠易激综合征（IBS）。
+
+【参考文献】
+1.Chey WD, Cash B, Lembo A, Patel DB, Scarlata K.Congenital sucrase-isomaltase deficiency: What, when, and how.Gastroenterol Hepatol.2020 Oct;16(10):52.
+1.Chey WD, Cash B, Lembo A, Patel DB, Scarlata K.Congenital sucrase-isomaltase deficiency: What, when, and how.Gastroenterol Hepatol.2020 Oct;16(10):52.
+2.Camilleri M, Sanders KM.Gastroparesis.Gastroenterology.2022;162(1):68-87.e1.doi:10.1053/j.gastro.2021.10.028
+2.Camilleri M, Sanders KM.Gastroparesis.Gastroenterology.2022;162(1):68-87.e1.doi:10.1053/j.gastro.2021.10.028
+3.Rao SSC, Xiang X, Sharma A, et al.Translumbosacral Neuromodulation Therapy for Fecal Incontinence: A Randomized Frequency Response Trial.Am J Gastroenterol.2021;116(1):162-170.doi:10.14309/ajg.0000000000000766
+3.Rao SSC, Xiang X, Sharma A, et al.Translumbosacral Neuromodulation Therapy for Fecal Incontinence: A Randomized Frequency Response Trial.Am J Gastroenterol.2021;116(1):162-170.doi:10.14309/ajg.0000000000000766

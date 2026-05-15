@@ -1,0 +1,86 @@
+标题：疼痛和炎症的治疗
+来源：https://www.msdmanuals.cn/professional/special-subjects/rehabilitation/rehabilitative-measures-for-treatment-of-pain-and-inflammation
+============================================================
+
+疼痛和炎症的治疗旨在促进肌肉和关节的移动和改善协调性。非药物治疗包括热、冷、电刺激、颈部牵引、按摩和针灸。这些治疗用于许多肌肉、肌腱和韧带的疾病处理 (见表疼痛的非药物性治疗指征)。这些方式的使用取决于患者和临床医生的偏好以及临床判断。这些方式通常是辅助性的，而不是唯一的干预措施。它们经常在运动治疗前后使用，是康复策略的组成部分。处方应包括如下内容：
+治疗方式（比如：超声波，热敷）
+治疗方式（比如：超声波，热敷）
+安置部位（如右肩，低位背部）
+安置部位（如右肩，低位背部）
+治疗频度（如每日1次，隔日1次）
+治疗频度（如每日1次，隔日1次）
+疗程（如10天，1周）
+疗程（如10天，1周）
+
+【非药物疼痛治疗的适应症】
+非药物疼痛治疗的适应症
+热疗（如，近红外、热敷包、石蜡浴、水疗）
+关节炎（各种形式的）
+纤维肌痛综合征
+颈部扭伤
+超声疗法
+复合性的局部疼痛综合征
+骨关节炎
+低能级激光（冷激光）
+肌筋膜炎
+炎症（急性）
+肌筋膜炎
+创伤性疼痛
+经皮肤电刺激神经（TENS）
+神经痛/神经性疼痛
+周围血管疾病
+颈部牵引
+颈神经根病
+由于颈椎病引起的颈部疼痛（慢性）
+颈部扭伤
+组织挛缩
+纤维肌痛综合征
+软组织损伤（例如关节损伤、扭伤、拉伤）
+肌筋膜炎
+疼痛（慢性）
+急性和慢性肌肉骨骼系统损伤
+炎症和退行性关节炎
+*针灸和其他治疗一起使用
+*针灸和其他治疗一起使用
+(参见康复学概述和Pain疼痛。）
+热疗可使亚急性和慢性的损伤和炎症 (1)（如扭伤、劳损、纤维织炎、腱鞘炎、肌痉挛、肌炎、背痛、挥鞭样损伤、各种关节炎、关节痛、神经痛）得到暂时缓解。热疗可增加血流和结缔组织的延伸性，减轻关节的僵硬、疼痛和肌痉挛，有助于消散炎症、水肿和渗出物。热可用在浅部或深部。它的生理作用的强度和持续时间主要决定于组织的温度、温度提升的速度和治疗部位。
+近红外热疗要用灯光照射，一般每天照20分钟。禁忌症包括植入金属装置和皮肤感觉受损(特别是温度和疼痛)。 必须注意防止烧伤。
+热敷包是棉布包的充满硅凝胶的容器，用沸水或微波炉加热后敷在皮肤上，热敷包决不能太热，把热敷包用几层毛巾包起来可保护皮肤免受烫伤。禁忌证与远红外热相同。
+石蜡浴使用加热到49°C度熔化的石蜡，使用方法有浸、泡和涂。把受累部位用厚巾包起来可使热量保持20分钟。石蜡一般用于小关节，特别适用于手的浸泡以及膝和肘的涂法。不能用在开放的伤口，也不能用于对石蜡有过敏反应的病人。石蜡浴对手部骨关节炎特别有用。
+水疗可用于加快伤口愈合（2）。波动的热水可刺激血液流动和清洗伤口。这种治疗常在35.5～37.7°C的Hubbard槽（大的工业旋流池）中进行。全部浸泡在37.7～40°C水中也可使肌肉放松、疼痛消除。水疗和关节运动练习—起做特别有效。
+透热疗法使用高频电磁场对组织进行治疗性加热，或短波或微波。这些形式似乎不优于简单的加热形式，现在较少使用。
+
+【低强度激光治疗】
+低强度激光疗法（也称为冷激光）将光能应用于更深的组织，可以为多种病症提供镇痛作用，包括扭伤、拉伤、颈部和背部疼痛、肩部疼痛和纤维肌痛 (3)。不得在眼睛上使用，必须佩戴适当的安全眼镜。它也不应用于已知恶性肿瘤的部位、发育中的胎儿、起搏器或其他植入装置或甲状腺。低强度激光治疗还可引发光敏性癫痫患者癫痫发作，此类患者应谨慎使用。尽管一些证据表明低强度激光治疗对特定肌肉骨骼疾病具有潜在益处，但根据所治疗的具体疾病和治疗比较，结果是混杂的。
+
+【超声疗法】
+超声使用高频声波深入到组织中（约4～10cm），产生热、机械、化学和生物效应（4）。该疗法可用于肌腱炎、滑囊炎、挛缩、骨关节炎、骨损伤及复杂性区域疼痛综合征。超声治疗不应应用于缺血组织、感觉缺失区域或急性感染部位，也不应用于治疗出血性疾病或恶性肿瘤。此外，不应在眼部、脑部、脊髓、耳部、心脏、生殖器、臂丛神经或正在愈合的骨组织（如新近骨折部位）上使用。
+在热疗和冷疗之间进行选择，常常依凭经验。当热疗不行时，用冷疗。然而，对于急性损伤或疼痛，常采用冷疗（5）。冷敷有助于解除肌肉痉挛、肌筋膜或损伤性疼痛、腰痛和急性炎症并有助于产生某些局部麻醉作用。
+冷疗通常用于损伤后的最初数小时或第 1 天内。冷疗的持续时间和频率各不相同。例如冷疗可在损伤后最初 24～72 小时内使用，可采用碎冰袋、商业冷敷袋（外包薄湿毛巾）或喷雾冷却剂，每日 3～5 次，每次 10～20 分钟。在两次治疗之间,至少间隔1小时用于复温。冰按摩可用于局灶性肌筋膜疼痛或肌肉痉挛，每次 5–10 分钟。一旦肿胀消退或出现过度麻木或不适，应停止冷敷。
+冷疗可局部应用。冷在皮肤上的扩散取决于表皮、表皮下脂肪和肌肉的厚度，组织的含水量以及血流速度。治疗过程中应注意避免组织损伤（如冻伤）及低体温的发生。血流少的区域不应用冷敷。
+经皮电神经刺激（TENS）采用低电流、低频刺激以缓解疼痛，但目前缺乏证据证实其具有明确疗效。患者能感受到轻柔的刺痛感觉但无肌肉张力的增高。通常会指导患者自行使用经皮神经电刺激装置，并根据需要决定治疗的频率和持续时间。不应在植入电子设备的区域上方或附近应用 TENS 疗法，因为 TENS 可能会导致此类设备出现故障。
+
+【颈部牵引】
+颈椎牵引常用于治疗由颈椎病、颈神经根病、挥鞭样损伤或斜颈引起的慢性颈痛，但其疗效证据尚不一致（6）。常用的两种牵引方式为垂直牵引（患者取坐位）和水平牵引（患者卧床位）。对于机动间歇节律牵引和静态牵引，使用的重量各不相同，但通常应该为颈部肌肉提供温和的拉伸，但不会引起疼痛。一般不应过分牵伸颈部，否则会增加神经孔中神经根的压迫。牵引通常与其他理疗一起运用，包括运动和人工牵引。对于长期患有类风湿性关节炎或其他累及颈椎的炎性关节病的患者，通常应避免牵引。
+按摩可松解挛缩组织、缓解疼痛，并减轻与创伤相关的肿胀和硬结（如骨折、关节损伤、扭伤、拉伤、挫伤），亦可提供一定的短期镇痛效果（7）。腰痛应考虑按摩，纤维肌痛、偏瘫、肌筋膜疼痛、脑瘫和截肢。按摩不能用于治疗感染或血栓性静脉炎的患者。由于治疗师的受到的训练和具备的技能有所不同，只有持有执照的按摩治疗师才可以对存在损伤的患者进行按摩治疗。
+针刺是一种通过刺激神经、肌肉及结缔组织以促进愈合或缓解疼痛的治疗方法；其操作方式为将细针经皮刺入人体特定部位（腧穴），以达到预期治疗效果（8）。然而，目前支持所提出各种作用机制的数据有限且结果不一致。针灸作为慢性疼痛（包括下背痛）辅助治疗似乎具有一定益处9。
+
+【参考文献】
+1.Clijsen R, Stoop R, Hohenauer E, et al.Local Heat Applications as a Treatment of Physical and Functional Parameters in Acute and Chronic Musculoskeletal Disorders or Pain.Arch Phys Med Rehabil.2022;103(3):505-522.doi:10.1016/j.apmr.2021.06.015
+1.Clijsen R, Stoop R, Hohenauer E, et al.Local Heat Applications as a Treatment of Physical and Functional Parameters in Acute and Chronic Musculoskeletal Disorders or Pain.Arch Phys Med Rehabil.2022;103(3):505-522.doi:10.1016/j.apmr.2021.06.015
+2.Burke DT, Ho CH, Saucier MA, Stewart G.Effects of hydrotherapy on pressure ulcer healing.Am J Phys Med Rehabil.1998;77(5):394-398.doi:10.1097/00002060-199809000-00006
+2.Burke DT, Ho CH, Saucier MA, Stewart G.Effects of hydrotherapy on pressure ulcer healing.Am J Phys Med Rehabil.1998;77(5):394-398.doi:10.1097/00002060-199809000-00006
+3.Clijsen R, Brunner A, Barbero M, Clarys P, Taeymans J.Effects of low-level laser therapy on pain in patients with musculoskeletal disorders: a systematic review and meta-analysis.Eur J Phys Rehabil Med.2017;53(4):603-610.doi:10.23736/S1973-9087.17.04432-X
+3.Clijsen R, Brunner A, Barbero M, Clarys P, Taeymans J.Effects of low-level laser therapy on pain in patients with musculoskeletal disorders: a systematic review and meta-analysis.Eur J Phys Rehabil Med.2017;53(4):603-610.doi:10.23736/S1973-9087.17.04432-X
+4.Watson T.Ultrasound in contemporary physiotherapy practice.Ultrasonics.2008;48(4):321-329.doi:10.1016/j.ultras.2008.02.004
+4.Watson T.Ultrasound in contemporary physiotherapy practice.Ultrasonics.2008;48(4):321-329.doi:10.1016/j.ultras.2008.02.004
+5.Bleakley C, McDonough S, MacAuley D.The use of ice in the treatment of acute soft-tissue injury: a systematic review of randomized controlled trials.Am J Sports Med.2004;32(1):251-261.doi:10.1177/0363546503260757
+5.Bleakley C, McDonough S, MacAuley D.The use of ice in the treatment of acute soft-tissue injury: a systematic review of randomized controlled trials.Am J Sports Med.2004;32(1):251-261.doi:10.1177/0363546503260757
+6.Graham N, Gross A, Goldsmith CH, et al.Mechanical traction for neck pain with or without radiculopathy.Cochrane Database Syst Rev.2008;(3):CD006408.Published 2008 Jul 16.doi:10.1002/14651858.CD006408.pub2
+6.Graham N, Gross A, Goldsmith CH, et al.Mechanical traction for neck pain with or without radiculopathy.Cochrane Database Syst Rev.2008;(3):CD006408.Published 2008 Jul 16.doi:10.1002/14651858.CD006408.pub2
+7.Bervoets DC, Luijsterburg PA, Alessie JJ, Buijs MJ, Verhagen AP.Massage therapy has short-term benefits for people with common musculoskeletal disorders compared to no treatment: a systematic review.J Physiother.2015;61(3):106-116.doi:10.1016/j.jphys.2015.05.018
+7.Bervoets DC, Luijsterburg PA, Alessie JJ, Buijs MJ, Verhagen AP.Massage therapy has short-term benefits for people with common musculoskeletal disorders compared to no treatment: a systematic review.J Physiother.2015;61(3):106-116.doi:10.1016/j.jphys.2015.05.018
+8.Vickers AJ, Vertosick EA, Lewith G, et al.Acupuncture for Chronic Pain: Update of an Individual Patient Data Meta-Analysis.J Pain.2018;19(5):455-474.doi:10.1016/j.jpain.2017.11.005
+8.Vickers AJ, Vertosick EA, Lewith G, et al.Acupuncture for Chronic Pain: Update of an Individual Patient Data Meta-Analysis.J Pain.2018;19(5):455-474.doi:10.1016/j.jpain.2017.11.005
+9.Mu J, Furlan AD, Lam WY, Hsu MY, Ning Z, Lao L.Acupuncture for chronic nonspecific low back pain.Cochrane Database Syst Rev.2020;12(12):CD013814.Published 2020 Dec 11.doi:10.1002/14651858.CD013814
+9.Mu J, Furlan AD, Lam WY, Hsu MY, Ning Z, Lao L.Acupuncture for chronic nonspecific low back pain.Cochrane Database Syst Rev.2020;12(12):CD013814.Published 2020 Dec 11.doi:10.1002/14651858.CD013814

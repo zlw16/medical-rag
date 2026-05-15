@@ -1,0 +1,54 @@
+标题：肾性贫血
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/anemias-caused-by-deficient-erythropoiesis/anemia-of-renal-disease
+============================================================
+
+（参见红细胞生成减少概述。)
+慢性肾脏病引起的贫血是由多因素共同作用导致的。
+最常见的机制是
+促红细胞生成素 (EPO) 生成减少导致的低增殖
+促红细胞生成素 (EPO) 生成减少导致的低增殖
+缺乏促红细胞生成素会导致红细胞生成素铁调节因子的产生减少，从而导致铁调素抑制作用的丧失和铁螯合增加（如在慢性病贫血中所观察到的）（1）。
+其它因素还包括
+因血小板功能失调、透析和/或血管发育不良导致的失血
+因血小板功能失调、透析和/或血管发育不良导致的失血
+骨髓对 EPO 的抵抗
+骨髓对 EPO 的抵抗
+继发性甲状旁腺功能亢进
+继发性甲状旁腺功能亢进
+尿毒症（导致红细胞存活时间缩短）
+尿毒症（导致红细胞存活时间缩短）
+肾脏EPO生成不足和贫血的严重程度与肾功能不全的程度无明显相关性；当肌酐的清除率<45mL/min (<0.75 mL/s/m2)时即会发生贫血。 肾小球损害（如由于淀粉样变性，糖尿病肾病）常因排泄功能衰竭从而引起最严重的贫血。
+
+【参考文献】
+1.Kautz L, Jung G, Valore EV, et al.Identification of erythroferrone as an erythroid regulator of iron metabolism.Nat Genet.46:678–684, 2014.doi: 10.1038/ng.2996
+1.Kautz L, Jung G, Valore EV, et al.Identification of erythroferrone as an erythroid regulator of iron metabolism.Nat Genet.46:678–684, 2014.doi: 10.1038/ng.2996
+
+【肾性贫血的诊断】
+全血细胞计数（CBC），网织红细胞计数和外周涂片
+全血细胞计数（CBC），网织红细胞计数和外周涂片
+肾性贫血的诊断依据是存在肾功能不全，正细胞性贫血及外周网织红细胞减少。
+骨髓检查可见红细胞增生不良。在外周血涂片中发现红细胞碎片，尤其伴有血小板减少时，提示可能存在微血管病性溶血性贫血（此时网织红细胞计数通常升高），应进一步进行相关检查与治疗。
+
+【肾性贫血的治疗】
+治疗潜在肾脏疾病
+治疗潜在肾脏疾病
+有时，重组促红细胞生成素和铁补充剂
+有时，重组促红细胞生成素和铁补充剂
+肾性贫血的治疗针对(1)
+改善肾功能
+改善肾功能
+红细胞生成增加
+红细胞生成增加
+如能使肾功能恢复正常，贫血可以慢慢被纠正。
+重组 EPO 可改善慢性肾脏疾病患者的贫血症状并减少输血需求。对于透析患者，通常在血红蛋白水平低于9-10 g/dL（<90-100 g/L）时开始治疗；而对于非透析依赖患者，启动红细胞生成刺激剂（ESA）治疗的血红蛋白目标值尚不明确，多依据临床症状进行判断（1、2）。对于接受长期透析的患者，重组促红细胞生成素（例如促红细胞生成素α或达比促红细胞生成素α）与铁补充剂是首选治疗方法。然而，由于 EPO 产量减少和骨髓对 EPO 产生抗性，重组 EPO 剂量可能需要更高。目标是血红蛋白为 10 至 11.5 g/dL（100 至 115 g/L）。当Hb上升至>12~13g/dL时会产生一定的副作用（如，静脉血栓、心肌梗死、死亡），因此需严密监测血红蛋白水平 (120~130 g/L)。低剂量的EPO用于未接受透析的慢性肾病患者。
+此外，需要充足的铁储备以确保对重组 EPO 的充分反应，以及同时补铁经常需要。对于接受透析治疗且血红蛋白水平低于10 g/dL（<100 g/L）、铁蛋白≤500 ng/mL（<500 μg/L）且转铁蛋白饱和度（TSAT）≤30%的患者，或未接受透析治疗但铁蛋白<100 ng/mL且TSAT<40%，或铁蛋白<300 ng/mL且TSAT<25%的患者，应考虑静脉补铁治疗。
+在几乎所有情况下，红细胞增殖将在8到12周后达到高峰。
+低氧诱导因子脯氨酸羟化酶（HIF-PH）抑制剂（例如达普司他）是透析患者的贫血治疗的口服选择，可作为促红细胞生成素（EPO）的替代方案。HIF-PH抑制剂通过阻止HIF降解来增加内源性红细胞生成素水平。缺氧诱导因子脯氨酰羟化酶抑制剂在升高血红蛋白水平方面与促红细胞生成素表现相似，且心血管不良事件发生率相当（3）；但目前缺乏长期安全性数据。
+
+【治疗参考文献】
+1.KDIGO.KDIGO 2025 Clinical Practice Guideline for Anemia In Chronic Kidney Disease (CKD). Public Review Draft. November 2024
+1.KDIGO.KDIGO 2025 Clinical Practice Guideline for Anemia In Chronic Kidney Disease (CKD). Public Review Draft. November 2024
+2.KDIGO.KDIGO Clinical Practice Guideline for Anemia in Chronic Kidney Disease (CKD).August 2012.
+2.KDIGO.KDIGO Clinical Practice Guideline for Anemia in Chronic Kidney Disease (CKD).August 2012.
+3.Singh AK, Carroll K, Perkovic V, et al.Daprodustatfor the Treatment of Anemia in Patients Undergoing Dialysis.N Engl J Med.2021;385(25):2325-2335.doi:10.1056/NEJMoa2113379
+3.Singh AK, Carroll K, Perkovic V, et al.Daprodustatfor the Treatment of Anemia in Patients Undergoing Dialysis.N Engl J Med.2021;385(25):2325-2335.doi:10.1056/NEJMoa2113379

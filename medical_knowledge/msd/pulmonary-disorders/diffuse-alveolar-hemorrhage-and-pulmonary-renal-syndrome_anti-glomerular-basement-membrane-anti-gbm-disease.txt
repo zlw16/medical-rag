@@ -1,0 +1,99 @@
+标题：抗肾小球基底膜病
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/diffuse-alveolar-hemorrhage-and-pulmonary-renal-syndrome/anti-glomerular-basement-membrane-anti-gbm-disease
+============================================================
+
+抗肾小球基底膜（Goodpasture）病是一种自身免疫性疾病，其特征是存在循环抗肾小球基底膜抗体，这些抗体针对肾脏和肺基底膜中的IV型胶原。据估计，其在普通人群中的年患病率约为0.5至100万分之1（1）。在美国2003年至2014年间对住院患者样本的另一项观察性研究中，抗肾小球基底膜疾病的住院患病率估计约为百万分之10（2）。男性略占优势。
+
+【参考文献】
+1.Hellmark T, Segelmark M.Diagnosis and classification of Goodpasture's disease (anti-GBM).J Autoimmun.48-49:108-112, 2014.doi:10.1016/j.jaut.2014.01.024
+1.Hellmark T, Segelmark M.Diagnosis and classification of Goodpasture's disease (anti-GBM).J Autoimmun.48-49:108-112, 2014.doi:10.1016/j.jaut.2014.01.024
+2.Kaewput W, Thongprayoon C, Boonpheng B, et al.Inpatient Burden and Mortality of Goodpasture's Syndrome in the United States: Nationwide Inpatient Sample 2003-2014.J Clin Med.9(2):455, 2020.doi:10.3390/jcm9020455
+2.Kaewput W, Thongprayoon C, Boonpheng B, et al.Inpatient Burden and Mortality of Goodpasture's Syndrome in the United States: Nationwide Inpatient Sample 2003-2014.J Clin Med.9(2):455, 2020.doi:10.3390/jcm9020455
+
+【抗肾小球基底膜疾病的病理生理学】
+抗肾小球基底膜（Goodpasture）病的特点是循环抗肾小球基底膜抗体导致的快速进展性肾小球肾炎与肺泡出血并存。抗肾小球基底膜疾病最常表现为弥漫性肺泡出血和快速进展性肾小球肾炎同时出现（属于肺-肾综合征的一种类型），但偶尔也可能仅引起肾小球肾炎 (10%至20%) 或仅引起肺部疾病（10%）（1）。
+抗肾小球基底膜抗体是针对Ⅳ型胶原alpha3链的非胶原（NC-1）区，Ⅳ型胶原在肾脏和肺的毛细血管基底膜含量最高。
+环境暴露（最常见的是吸烟，较少见的是病毒性呼吸道感染和烃类溶剂吸入）与内在遗传易感性相互作用，尤其是在携带HLA-DRw15、-DR4和-DRB1等位基因的个体中，可导致循环抗体接触肺泡毛细血管抗原。循环抗肾小球基底膜抗体结合于基底膜，固定补体，触发细胞介导的炎症反应，引起肾小球肾炎和（或）肺毛细血管炎。
+
+【病理生理学参考文献】
+1.Boyle N, O'Callaghan M, Ataya A, et al: Pulmonary renal syndrome: a clinical review.Breathe (Sheff).2022;18(4):220208.doi:10.1183/20734735.0208-2022
+1.Boyle N, O'Callaghan M, Ataya A, et al: Pulmonary renal syndrome: a clinical review.Breathe (Sheff).2022;18(4):220208.doi:10.1183/20734735.0208-2022
+
+【抗肾小球基底膜病的症状与体征】
+咯血是最显著症状。然而肺部出血也可无咯血。患者可能伴有或不伴有呼吸窘迫或呼吸衰竭。
+其他常见的症状包括:
+呼吸困难
+呼吸困难
+体重减轻
+体重减轻
+部分患者就诊时可出现肉眼血尿，但肺出血可能在肾脏表现出现前数周至数年发生（1）。
+体征随时间而变化，肺部听诊表现可从呼吸音清晰到出现湿啰音和干啰音。部分患者可出现因肾衰竭导致的外周性水肿和因贫血导致的苍白。
+
+【症状与体征参考文献】
+1.Ang C, Savige J, Dawborn J, et al.Anti-glomerular basement membrane (GBM)-antibody-mediated disease with normal renal function.Nephrol Dial Transplant.1998;13(4):935-939.doi:10.1093/ndt/13.4.935
+1.Ang C, Savige J, Dawborn J, et al.Anti-glomerular basement membrane (GBM)-antibody-mediated disease with normal renal function.Nephrol Dial Transplant.1998;13(4):935-939.doi:10.1093/ndt/13.4.935
+
+【抗肾小球基底膜病的诊断】
+影像学检查（胸部X线检查和CT扫描）
+影像学检查（胸部X线检查和CT扫描）
+血清anti-GBM抗体检测
+血清anti-GBM抗体检测
+有时肾脏活检需结合免疫组织化学
+有时肾脏活检需结合免疫组织化学
+抗肾小球基底膜病患者的典型影像学表现为胸部X线或CT（包括高分辨率CT）上的双侧、斑片状或弥漫性气腔混浊，最常见的是反映肺泡出血（1）。浸润灶通常不伴空洞形成、结节或胸腔积液。
+通过间接免疫荧光检测或使用重组或人NC-1α3的直接酶联免疫吸附试验（ELISA）检测患者血清中的抗GBM抗体。检测到这些抗体的存在即可确诊。
+仅约10%至40%的抗GBM病患者在抗GBM抗体阳性的同时，抗中性粒细胞胞浆抗体（ANCA）检测也呈阳性（更常见为核周型，P-ANCA）（2）。抗GBM和ANCA双阳性通常表明肾脏预后较差。
+若抗肾小球基底膜抗体阴性，而患者有肾小球肾炎（血尿、蛋白尿、尿红细胞管型、肾功能不全，或这些情况合并存在）的证据时，应进行肾脏活检以明确诊断。在患有抗肾小球基底膜病的患者和所有其他原因导致的肺肾综合征患者的活检标本中，可发现快速进展的局灶节段性坏死性肾小球肾炎伴新月体形成。
+肾脏或肺组织的免疫组织化学（即免疫荧光染色）通常显示IgG抗体沿肾小球或肺泡毛细血管呈线性沉积。IgG 沉积也发生在糖尿病或纤维性肾小球肾炎（一种导致肺肾综合征的罕见疾病）患者的肾脏中，但这些疾病中的抗体与肾小球基底膜的结合是非特异性的，并且不是以线性方式发生的。
+抗肾小球基底膜病致肺泡出血患者双侧肺泡混浊的胸部X光片。
+By permission of the publisher.From Cohen A, Glassock R.InAtlas of Diseases of the Kidney: Glomerulonephritis and Vasculitis.Edited by R Schrier (series editor), RJ Glassock, and AH Cohen.Philadelphia, Current Medicine, 1999.
+
+【诊断参考】
+1.Feragalli B, Mantini C, Sperandeo M, et al: The lung in systemic vasculitis: radiological patterns and differential diagnosis.Br J Radiol.2016;89(1061):20150992.doi:10.1259/bjr.20150992
+1.Feragalli B, Mantini C, Sperandeo M, et al: The lung in systemic vasculitis: radiological patterns and differential diagnosis.Br J Radiol.2016;89(1061):20150992.doi:10.1259/bjr.20150992
+2.Dammacco F, Battaglia S, Gesualdo L, Racanelli V: Goodpasture's disease: a report of ten cases and a review of the literature.Autoimmun Rev.2013;12(11):1101-1108.doi:10.1016/j.autrev.2013.06.014
+2.Dammacco F, Battaglia S, Gesualdo L, Racanelli V: Goodpasture's disease: a report of ten cases and a review of the literature.Autoimmun Rev.2013;12(11):1101-1108.doi:10.1016/j.autrev.2013.06.014
+
+【抗肾小球基底膜病的治疗】
+血浆置换
+血浆置换
+糖皮质激素和环磷酰胺
+糖皮质激素和环磷酰胺
+有时，利妥昔单抗（用于难治性病例）
+有时，利妥昔单抗（用于难治性病例）
+支持治疗
+支持治疗
+治疗的主要手段是立即开始血浆置换以迅速清除循环中的抗GBM抗体，并联合大剂量糖皮质激素和环磷酰胺（1）。由于疾病发病后进展迅速，有时在诊断确认前就开始经验性免疫抑制剂治疗。血浆置换通常进行2到3周，使用4升置换量以清除抗GBM抗体。通常，除了使用环磷酰胺（例如，2毫克/千克，每日口服一次，持续3个月，有时可达6个月）外，还会在6至12个月内给予糖皮质激素（例如，甲基泼尼松龙1克静脉注射，每日一次，共3剂，随后口服泼尼松逐渐减量），以防止新抗体的产生。当肺功能和肾功能改善达到平台期时，可逐渐减少治疗。
+病例报告或病例系列的数据表明，利妥昔单抗可能对一些出现严重不良反应、对环磷酰胺无反应或拒绝使用环磷酰胺治疗的患者有益（1）。
+对于因肾衰竭导致肺出血或体液超负荷的患者，可能需要采取额外的支持性护理措施。气管插管和机械通气建议用于即将发生呼吸衰竭的患者。肾功能严重受损的患者可能需要透析或肾脏移植。
+
+【治疗参考文献】
+1.Kidney Disease: Improving Global Outcomes (KDIGO) Glomerular Diseases Work Group: KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases.Kidney Int.2021;100(4S):S1-S276.doi:10.1016/j.kint.2021.05.021
+1.Kidney Disease: Improving Global Outcomes (KDIGO) Glomerular Diseases Work Group: KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases.Kidney Int.2021;100(4S):S1-S276.doi:10.1016/j.kint.2021.05.021
+
+【抗肾小球基底膜疾病的预后】
+抗GBM病通常进展迅速，若未能及时识别或延误治疗，可导致死亡。在呼吸衰竭或肾衰竭发作之前开始治疗，预后良好。
+肺出血和呼吸衰竭患者的即时生存与气道控制有关。
+远期发病率与诊断时肾功能损伤的程度相关。在一项对43例抗肾小球基底膜病患者临床结局预测因素的回顾性队列研究中，少尿是患者和肾脏生存的最强预测因素；肾活检中肾小球新月体的百分比是与不良肾脏结局相关的唯一病理参数（1）。另一项对71例抗肾小球基底膜病患者进行的多中心队列研究评估了25年以上的纵向结局，发现肾活检中存在100%新月体预测了长期血液透析的需求（2）。需要血液透析的严重肾衰竭患者恢复肾功能的几率较低，最终可能需要肾脏移植。
+复发较为罕见，且更常见于ANCA（3）同时呈阳性的患者。
+终末期患者接受肾脏移植后，其移植肾仍可能再次发病。
+
+【预后参考文献】
+1.Alchi B, Griffiths M, Sivalingam M, Jayne D, Farrington K: Predictors of renal and patient outcomes in anti-GBM disease: clinicopathologic analysis of a two-centre cohort.Nephrol Dial Transplant.2015;30(5):814-821.doi:10.1093/ndt/gfu399
+1.Alchi B, Griffiths M, Sivalingam M, Jayne D, Farrington K: Predictors of renal and patient outcomes in anti-GBM disease: clinicopathologic analysis of a two-centre cohort.Nephrol Dial Transplant.2015;30(5):814-821.doi:10.1093/ndt/gfu399
+2.Levy JB, Turner AN, Rees AJ, Pusey CD: Long-term outcome of anti-glomerular basement membrane antibody disease treated with plasma exchange and immunosuppression.Ann Intern Med.2001;134(11):1033-1042.doi:10.7326/0003-4819-134-11-200106050-00009
+2.Levy JB, Turner AN, Rees AJ, Pusey CD: Long-term outcome of anti-glomerular basement membrane antibody disease treated with plasma exchange and immunosuppression.Ann Intern Med.2001;134(11):1033-1042.doi:10.7326/0003-4819-134-11-200106050-00009
+3.McAdoo SP, Tanna A, Hrušková Z, et al: Patients double-seropositive for ANCA and anti-GBM antibodies have varied renal survival, frequency of relapse, and outcomes compared to single-seropositive patients.Kidney Int.2017;92(3):693-702.doi:10.1016/j.kint.2017.03.014
+3.McAdoo SP, Tanna A, Hrušková Z, et al: Patients double-seropositive for ANCA and anti-GBM antibodies have varied renal survival, frequency of relapse, and outcomes compared to single-seropositive patients.Kidney Int.2017;92(3):693-702.doi:10.1016/j.kint.2017.03.014
+抗肾小球基底膜疾病患者可能同时患有肺出血和肾小球肾炎，或仅患有其中一种。
+抗肾小球基底膜疾病患者可能同时患有肺出血和肾小球肾炎，或仅患有其中一种。
+肺部表现可以轻微或非特异性。
+肺部表现可以轻微或非特异性。
+血清检测抗肾小球基底膜抗体。
+血清检测抗肾小球基底膜抗体。
+对于肾小球肾炎患者，应进行肾活检。
+对于肾小球肾炎患者，应进行肾活检。
+尽可能在器官衰竭发生之前诊断并治疗抗 GBM 疾病。
+尽可能在器官衰竭发生之前诊断并治疗抗 GBM 疾病。
+治疗方法包括血浆置换、糖皮质激素和环磷酰胺。
+治疗方法包括血浆置换、糖皮质激素和环磷酰胺。

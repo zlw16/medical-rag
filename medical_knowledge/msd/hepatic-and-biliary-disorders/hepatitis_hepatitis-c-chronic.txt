@@ -1,0 +1,189 @@
+标题：丙型肝炎，慢性
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/hepatitis/hepatitis-c-chronic
+============================================================
+
+（参见肝炎的原因,慢性肝炎综述, 和急性丙型肝炎.)
+肝炎持续>6个月通常被定义为 慢性肝炎, 虽然此持续时间是可变的。
+丙型肝炎病毒（HCV）有6个主要的基因型，其对治疗的反应有所不同。基因型1比基因型2，3，4，5，和6更常见;在美国它占慢性丙型肝炎病例的70%~80％。
+急性丙型肝炎患者约75％的发展成为慢性。疾病控制与预防中心（CDC）估计，从2013年到2016年，美国约有240万人患有慢性丙型肝炎感染（1)。全球估计有7,100万慢性丙型病毒性肝炎患者（2)。
+20％~30％的慢性丙肝进展为肝硬化(3)，肝硬化常在几十年后出现。HCV感染相关肝硬化也可发展成肝细胞肝癌，但很少不经过肝硬化阶段直接转化成肝细胞肝癌（与慢性HBV感染不同）。
+高达16％的酒精性肝病患者感染HCV (4)。酒精性肝病与丙型肝炎之间高度相关性的原因尚不清楚，因为仅有一小部分患者同时有嗜酒和注射毒品。在这些患者中，HCV感染和饮酒的协同作用可加速肝脏炎症和纤维化 (4)。
+
+【参考文献】
+1.Centers for Disease Control and Prevention (CDC): Hepatitis C Resources for Health Care Professionals.Accessed June 6, 2022.
+1.Centers for Disease Control and Prevention (CDC): Hepatitis C Resources for Health Care Professionals.Accessed June 6, 2022.
+2.World Health Organization (WHO): Hepatitis C.Accessed June 6, 2022.
+2.World Health Organization (WHO): Hepatitis C.Accessed June 6, 2022.
+3.World Health Organization (WHO): Hepatitis C.Key Facts.Accessed June 17, 2024.
+3.World Health Organization (WHO): Hepatitis C.Key Facts.Accessed June 17, 2024.
+4.Novo-Veleiro I, Alvela-Suárez L, Chamorro AJ, et al: Alcoholic liver disease and hepatitis C virus infection.World J Gastroenterol22(4):1411-1420, 2016.doi: 10.3748/wjg.v22.i4.1411
+4.Novo-Veleiro I, Alvela-Suárez L, Chamorro AJ, et al: Alcoholic liver disease and hepatitis C virus infection.World J Gastroenterol22(4):1411-1420, 2016.doi: 10.3748/wjg.v22.i4.1411
+
+【慢性丙型肝炎的症状和体征】
+许多患者没有症状，没有黄疸，但也可有全身乏力，食欲不振，乏力，和非特异性上腹部不适表现。 通常首先发现的是肝硬化的征象（如脾大、蜘蛛痣、肝掌）或肝硬化的并发症（如门脉高压、腹水、脑病）。
+慢性丙型肝炎偶尔伴有扁平苔藓、皮肤血管炎、肾小球肾炎、迟发性皮肤卟啉症、混合性冷球蛋白血症，也可能伴有非霍奇金b细胞淋巴瘤。冷球蛋白血症的症状包括疲劳，肌痛，关节痛，神经病变，肾小球肾炎和皮疹（荨麻疹，紫癜，或白细胞碎裂性血管炎）;无症状的冷球蛋白血症更多见。
+
+【筛查慢性丙型肝炎】
+建议所有≥ 18 岁的人进行一次性常规筛查，无论风险因素如何。
+建议对具有以下特征的＜18岁人群进行一次性筛查(1):
+目前正在使用或曾经注射过非法药物，即使只有一次或只在很久以前发生过
+目前正在使用或曾经注射过非法药物，即使只有一次或只在很久以前发生过
+曾使用过鼻喷式非法药物
+曾使用过鼻喷式非法药物
+男男性行为者
+男男性行为者
+目前或曾经接受长期血液透析治疗
+目前或曾经接受长期血液透析治疗
+在不受管制的环境中发生经皮或肠胃外暴露
+在不受管制的环境中发生经皮或肠胃外暴露
+丙氨酸转氨酶（ALT）水平异常或不明原因的慢性肝病
+丙氨酸转氨酶（ALT）水平异常或不明原因的慢性肝病
+在卫生保健或公共安全方面工作，并通过针刺，其他尖锐物体受伤或粘膜接触而暴露于HCV阳性血液
+在卫生保健或公共安全方面工作，并通过针刺，其他尖锐物体受伤或粘膜接触而暴露于HCV阳性血液
+有 HIV 感染或正在开始 HIV 暴露前预防 (PrEP)
+有 HIV 感染或正在开始 HIV 暴露前预防 (PrEP)
+曾经被监禁
+曾经被监禁
+感染HCV的女性的孩子
+感染HCV的女性的孩子
+这种检查很重要，因为直到最初感染几年后丙型肝炎已经广泛损害肝脏，症状才可能发生。
+
+【筛查参考文献】
+1.American Association for the Study of Liver Disease (AALD) and the Infectious Disease Society of America (IDSA): HCV Testing and Linkage to Care.Accessed May 8, 2024.
+1.American Association for the Study of Liver Disease (AALD) and the Infectious Disease Society of America (IDSA): HCV Testing and Linkage to Care.Accessed May 8, 2024.
+
+【慢性丙型肝炎的诊断】
+血清学检测
+血清学检测
+HCV RNA
+HCV RNA
+（另请参阅美国肝病研究协会 [AASLD]-美国传染病协会 [IDSA] 实践指南丙型肝炎指南2023年检测、管理和治疗丙型肝炎病毒感染最新情况；以及美国预防服务工作组的临床指南青少年及成人丙型肝炎病毒感染的筛查。
+发生下列任何一种情况要怀疑慢性丙肝的诊断：
+有提示性症状和体征
+有提示性症状和体征
+偶然发现转氨酶水平升高
+偶然发现转氨酶水平升高
+以前确诊过急性肝炎
+以前确诊过急性肝炎
+初次感染后，抗HCV阳性和HCV-RNA阳性≥6个月可确诊（见表丙型肝炎血清学)。
+
+【丙型肝炎血清学】
+丙型肝炎血清学
+急性丙型肝炎
+慢性丙型肝炎
+既往感染丙肝*
+抗-HCV
+HCV-RNA
+*既往感染HCV已经自行恢复或成功治愈的患者
+Anti-HCV=丙型肝炎病毒抗体；HCV=丙型肝炎病毒
+*既往感染HCV已经自行恢复或成功治愈的患者
+Anti-HCV=丙型肝炎病毒抗体；HCV=丙型肝炎病毒
+肝活检很少用于丙型肝炎，已被无创成像（如超声弹性成像、磁共振弹性成像）、纤维化血清标记物以及基于血清标记物的纤维化评分系统所取代。
+在治疗前测定HCV基因型，因为基因型影响病程、治疗所需时间和是否成功。然而，大多数直接作用抗病毒药物对治疗各种基因型的 HCV 均有效。
+HCV-RNA的检测和定量有助于诊断丙型肝炎和评估治疗前后对治疗的反应。对于目前大多数可用的定量HCV RNA测定，检测下限约为<12至15 IU/mL，这取决于检测方法。如果一个定量测定不具有那样灵敏的水平，可用定性检测。定性测定可检测非常低水平的HCV-RNA，经常低至<10IU/毫升，并提供结果为阳性或阴性。定性检测可以用来明确丙型肝炎的诊断或持 续病毒学应答（SVR）的诊断，后者定义为根据所用药物的方案，治疗结束后12周，没有 检测到HCV-RNA。
+
+【其他检测】
+如果以前未进行过肝功能检测，则需要检测肝功能，包括丙氨酸转氨酶（ALT）、天冬氨酸转氨酶（AST）、碱性磷酸酶。
+还需要做其他检查来评估肝功能;它们包括血清白蛋白，胆红素、血小板计数，和PT/INR。
+患者应检测HIV和乙型肝炎病毒感染，因为这些感染的传播途径是相似的。
+如果在慢性丙肝时发生冷球蛋白血症，应该测定冷球蛋白和类风湿因子，类风湿因子的高表达和血清补体水平降低均提示存在冷球蛋白血症。
+
+【并发症的筛查】
+慢性丙肝和进展性肝纤维化或肝硬化患者需要每6个月进行超声检查和血清甲胎蛋白监测以早期发现肝细胞肝癌，虽然其成本效果分析特别是甲胎蛋白的检测尚有争论。
+
+【慢性丙型肝炎的治疗】
+直接作用的抗病毒药
+直接作用的抗病毒药
+
+【丙肝治疗概述】
+(See also the American Association for the Study of Liver Disease [AASLD]–Infectious Disease Society of America [IDSA] practice guidelinesRecommendations for Testing, Managing, and Treating Hepatitis CandWhen and in Whom To Initiate HCV Therapy.)
+对于慢性丙型肝炎，建议所有患者接受治疗，除了那些因为合并症无法通过HCV治疗，肝移植或其他直接疗法获得治愈的预期寿命较短的患者。
+治疗目的是永久性清除HCV RNA（即SVR），其与氨基转移酶持续性正常化和停止肝组织学进展相关。肝纤维化程度更低的患者治疗效果优于肝硬化患者。
+在2013年底前，所有基因型均用聚乙二醇干扰素-alpha加利巴韦林治疗。现在不再使用基于干扰素的治疗方案，并且利巴韦林也不再作为一线用药，仅用于某些替代方案。目前，所有患者都接受直接作用抗病毒药物(DAAs)治疗，这些药物会影响特定的HCV靶点，如蛋白酶或聚合酶见表直接作用抗病毒药物治疗 HCV和DAA 联合疗法治疗 HCV。
+
+【治疗 HCV 的直接抗病毒药物 (DAA)】
+治疗 HCV 的直接抗病毒药物 (DAA)
+NS3-4A蛋白酶抑制剂（“瑞韦类药物”）
+NS5A 抑制剂（“-asvir”）
+NS5B 抑制剂（“-buvir”）
+Glecaprevir
+Ledipasvir
+Sofosbuvir
+格拉唑瑞韦
+Pibrentasvir
+伏昔拉韦
+维帕他韦
+Elbasvir
+DAAs不作为单一药物使用，而是以特定的组合使用，以最大程度地提高疗效。
+
+【DAA 联合疗法治疗 HCV】
+DAA 联合疗法治疗 HCV
+直接抗病毒复方制剂
+治疗时间
+索非布韦/雷迪帕韦
+1, 4, 5, 6
+8-24 周，取决于患者人群
+Sofosbuvir/Velpatasvir
+12 周
+格莱瑞韦/哌仑他韦
+8-16 周，取决于患者人群
+艾尔巴韦/格佐匹韦
+1, 4
+12-16 周，取决于患者人数
+索非布韦/维帕他韦/伏西瑞韦
+12 周
+目前有关丙肝病毒治疗的建议正在迅速演变。Hepatitis C Guidance 2023 Update: AASLD–IDSA Recommendations for Testing, Managing, and Treating Hepatitis C Virus Infectionavailable online, are updated frequently.
+目前，使用 DAA 治疗 HCV 采用了多种对所有基因型均有效的药物方案；这些方案被称为泛基因型方案。泛基因型方案包括索非布韦/维帕他韦、格卡瑞韦/哌仑他韦以及索非布韦/维帕他韦/伏西瑞韦。
+丙型肝炎导致的失代偿性肝硬化是肝移植在美国。移植肝HCV几乎均复发，在使用DAAs之前，患者生存率和移植物存活率不如因其他适应症进行的移植。然而，使用DAAs后，无论患者是否患有肝硬化，肝移植患者的SVR率都超过95％。由于SVR率很高，丙型肝炎阳性的器官移植越来越多，尤其是那些丙型肝炎阳性的受者，从而扩大了潜在的捐助者范围。如果受体和供体均为丙型肝炎阳性，可以将治疗推迟到移植后再进行。因此可以避免移植前不必要的治疗过程。
+目前认为，索非布韦/维帕他韦、艾尔巴韦/格拉瑞韦或格卡瑞韦/哌仑他韦方案具有良好的安全性，对包括透析患者在内的终末期肾病患者有效。
+代偿性肝硬化患者丙型肝炎的治疗应与肝病医生协商，最好在肝移植中心进行。失代偿性肝硬化患者不应使用包括蛋白酶抑制剂（那些以-previr为结尾名的药物）的HCV方案，因为肝功能障碍患者的蛋白酶抑制剂水平增加。
+已有报道在使用DAA治疗HCV期间或之后，乙肝再激活导致肝衰竭和死亡。因此，所有接受DAA治疗的丙型肝炎患者均应检查是否有慢性肝病或既往乙肝病史； 检测应包括以下所有内容：
+乙肝病毒表面抗原（HBsAg）
+乙肝病毒表面抗原（HBsAg）
+乙型肝炎表面抗体（抗HBs）
+乙型肝炎表面抗体（抗HBs）
+乙肝病毒核心抗体IgG（IgG anti-HBc）
+乙肝病毒核心抗体IgG（IgG anti-HBc）
+慢性乙型肝炎或既往有乙型肝炎病史的患者在HCV治疗期间和治疗后，应监测是否有乙肝再激活，并在HCV治疗期间考虑HBV抗病毒治疗。
+
+【治疗参考文献】
+1.Bourlière M, Gordon SC, Flamm SL, et al: Sofosbuvir, velpatasvir, and voxilaprevir for previously treated HCV infection.N Engl J Med376 (22):2134-2146, 2017.doi: 10.1056/NEJMoa1613512
+1.Bourlière M, Gordon SC, Flamm SL, et al: Sofosbuvir, velpatasvir, and voxilaprevir for previously treated HCV infection.N Engl J Med376 (22):2134-2146, 2017.doi: 10.1056/NEJMoa1613512
+2.Asselah T, Kowdley KV, Zadeikis N, et al: Efficacy of glecaprevir/pibrentasvir for 8 or 12 weeks in patients with hepatitis C virus genotype 2, 4, 5, or 6 infection without cirrhosis.Clin Gastroenterol Hepatol16 (3):417-426, 2018.doi: 10.1016/j.cgh.2017.09.027
+2.Asselah T, Kowdley KV, Zadeikis N, et al: Efficacy of glecaprevir/pibrentasvir for 8 or 12 weeks in patients with hepatitis C virus genotype 2, 4, 5, or 6 infection without cirrhosis.Clin Gastroenterol Hepatol16 (3):417-426, 2018.doi: 10.1016/j.cgh.2017.09.027
+
+【慢性丙型肝炎的预后】
+预后取决于患者是否有持续的病毒学反应(SVR)，在完成治疗后的12周检测不到HCV-RNA。
+有SVR的患者有99％的机会维持HCV RNA阴性，通常被认为治愈 (1)。近95％的SVR患者有组织学的改善，包括纤维化和组织学活动指数;此外，进展成肝硬化、肝衰竭和肝相关死亡的风险降低。已证实在肝硬化、门脉高压患者，以及采用干扰素基础治疗的患者，获得SVR可以降低门静脉压力，并显著降低肝功能失代偿、肝病相关死亡、全因死亡率和肝细胞癌的风险（2)。
+通过直接作用的抗病毒方案实现SVR的可能性似乎主要取决于以下几点:
+肝纤维化程度
+肝纤维化程度
+对以前治疗的反应
+对以前治疗的反应
+
+【预后参考】
+1.Lynch EN, Russo FP: Outcomes and follow-up after hepatitis C eradication with direct-acting antivirals.J Clin Med12(6):2195, 2023.doi: 10.3390/jcm12062195
+1.Lynch EN, Russo FP: Outcomes and follow-up after hepatitis C eradication with direct-acting antivirals.J Clin Med12(6):2195, 2023.doi: 10.3390/jcm12062195
+2.van der Meer AJ, Veldt BJ, Feld JJ, et al: Association between sustained virological response and all-cause mortality among patients with chronic hepatitis C and advanced hepatic fibrosis.JAMA308(24):2584-2593, 2012.doi:10.1001/jama.2012.144878
+2.van der Meer AJ, Veldt BJ, Feld JJ, et al: Association between sustained virological response and all-cause mortality among patients with chronic hepatitis C and advanced hepatic fibrosis.JAMA308(24):2584-2593, 2012.doi:10.1001/jama.2012.144878
+急性丙肝75％发展为慢性，约20%～30%进展为肝硬化，一些肝硬化患者可进展为肝细胞肝癌。
+急性丙肝75％发展为慢性，约20%～30%进展为肝硬化，一些肝硬化患者可进展为肝细胞肝癌。
+抗HCV阳性和HCV-RNA阳性可以确诊。
+抗HCV阳性和HCV-RNA阳性可以确诊。
+直接作用的抗病毒药物对大多数基因型都是有效的治疗。
+直接作用的抗病毒药物对大多数基因型都是有效的治疗。
+聚乙二醇化干扰素不再推荐用于治疗慢性丙型肝炎。
+聚乙二醇化干扰素不再推荐用于治疗慢性丙型肝炎。
+新的治疗方法可以永久清除>95%的患者的HCV-RNA。
+新的治疗方法可以永久清除>95%的患者的HCV-RNA。
+代偿性肝硬化患者应由肝病专家治疗，并且不应使用含蛋白酶抑制剂的治疗方案。
+代偿性肝硬化患者应由肝病专家治疗，并且不应使用含蛋白酶抑制剂的治疗方案。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+Recommendations for Testing, Managing, and Treating Hepatitis C Virus Infection: Up-to-date, peer-reviewed, unbiased, evidence-based
+Recommendations for Testing, Managing, and Treating Hepatitis C Virus Infection: Up-to-date, peer-reviewed, unbiased, evidence-based
+When and In Whom To Initiate HCV Therapy: Exploration of the clinical benefits of curing hepatitis C and of treating fibrosis early, the importance of pretreatment assessment, and considerations in specific populations; overview of cost, reimbursement, and cost-effectiveness for hepatitis C treatment regimens
+When and In Whom To Initiate HCV Therapy: Exploration of the clinical benefits of curing hepatitis C and of treating fibrosis early, the importance of pretreatment assessment, and considerations in specific populations; overview of cost, reimbursement, and cost-effectiveness for hepatitis C treatment regimens
+Hepatitis C Virus Infection in Adolescents and Adults Screening: Exploration of the importance of screening, assessment of risk, use of screening tests including intervals, and treatment; supporting evidence provided
+Hepatitis C Virus Infection in Adolescents and Adults Screening: Exploration of the importance of screening, assessment of risk, use of screening tests including intervals, and treatment; supporting evidence provided

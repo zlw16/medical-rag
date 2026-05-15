@@ -1,0 +1,99 @@
+标题：心脏移植
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/heart-failure/heart-transplantation
+============================================================
+
+对于存在任何以下情况且尽管已最佳使用药物和医疗器械但仍面临死亡风险且症状难以忍受的患者，心脏移植是一种选择：
+终末期心功能衰竭
+终末期心功能衰竭
+冠状动脉疾病
+冠状动脉疾病
+心律失常
+心律失常
+肥厚型心肌病或其他心肌病
+肥厚型心肌病或其他心肌病
+先天性心脏病
+先天性心脏病
+移植对于某些患者是有指征的:
+在心肌梗死或非移植心脏手术后无法脱离临时心脏辅助设备
+在心肌梗死或非移植心脏手术后无法脱离临时心脏辅助设备
+由于肺部疾病影响心脏功能，并同时需要进行肺移植
+由于肺部疾病影响心脏功能，并同时需要进行肺移植
+心脏移植的绝对禁忌症包括（1）：
+严重的肺动脉高压对术前治疗无效（尽管心肺联合移植可能作为一种治疗选择）
+严重的肺动脉高压对术前治疗无效（尽管心肺联合移植可能作为一种治疗选择）
+中央肺动脉或肺静脉的解剖不相容性（尽管心肺移植可能是一种选择）
+中央肺动脉或肺静脉的解剖不相容性（尽管心肺移植可能是一种选择）
+过度饮酒与药物依从性差
+过度饮酒与药物依从性差
+相对禁忌证包括 (1)：
+年龄>70岁
+年龄>70岁
+限制生命的全身性疾病：癌症；糖尿病；肺、肾、脑血管疾病
+限制生命的全身性疾病：癌症；糖尿病；肺、肾、脑血管疾病
+局部或全身浸润性疾病（例如，心脏肉瘤、淀粉样变性）
+局部或全身浸润性疾病（例如，心脏肉瘤、淀粉样变性）
+移植的一般禁忌症（例如，活动性癌症、未控制的全身感染、活动性物质使用障碍、不依从治疗、与移植无关的原因导致预期寿命有限）也应予以考虑。
+所有的移植心脏都来源于脑死亡的供者，供者通常需要满足<70岁，有正常的心肺功能，没有冠状动脉疾病或其他心脏疾病。供者与受者必须有匹配的ABO血型和心脏大小。2023年在美国，移植前等待名单死亡率为每100人年8.5例死亡（2）。
+(参见移植概述。）
+
+【心脏搭桥和永久的心室辅助器】
+左心室辅助装置和人工心脏可为等待移植的患者提供过渡期血流动力学支持（即桥接移植治疗）。此外，心室辅助装置可用于治疗部分不适合心脏移植的患者（终点治疗）。可能来自于动力传动系统的皮肤插入位置的感染是一个需要担忧的问题。其他风险包括右心衰竭（急性或慢性）、脓毒症、设备故障及血栓栓塞。尽管存在风险，仍有患者在植入这些设备后存活多年且健康状况良好。
+
+【参考文献】
+1.Peled Y, Ducharme A, Kittleson M, et al.International Society for Heart and Lung Transplantation Guidelines for the Evaluation and Care of Cardiac Transplant Candidates-2024.J Heart Lung Transplant.2024;43(10):1529-1628.e54.doi:10.1016/j.healun.2024.05.010
+1.Peled Y, Ducharme A, Kittleson M, et al.International Society for Heart and Lung Transplantation Guidelines for the Evaluation and Care of Cardiac Transplant Candidates-2024.J Heart Lung Transplant.2024;43(10):1529-1628.e54.doi:10.1016/j.healun.2024.05.010
+2.Colvin MM, Smith JM, Ahn YS, et al.OPTN/SRTR 2023 Annual Data Report: Heart.Am J Transplant.2025;25(2S1):S329-S421.doi:10.1016/j.ajt.2025.01.024
+2.Colvin MM, Smith JM, Ahn YS, et al.OPTN/SRTR 2023 Annual Data Report: Heart.Am J Transplant.2025;25(2S1):S329-S421.doi:10.1016/j.ajt.2025.01.024
+
+【心脏移植手术流程】
+移植心脏必须保存在低温中， 在4～6个小时内进行移植。离体心脏灌注是一种体外泵系统，其通过对离体供体心脏进行灌注，旨在改善移植物存活率，并可能将移植存活时间延长至4至6小时以上。该系统目前正处于早期应用与开发阶段（1）。这些系统还使得使用心脏停搏后供体获取的心脏移植物成为可能。
+将受体置于旁路泵上，移除受体心脏，原位保留右心房后壁。然后将供体心脏与主动脉、肺动脉和肺静脉吻合进行原位移植（正常位置）；单个吻合将保留的心房后壁与供体器官的后壁连接。
+免疫抑制方案各异，但通常包含抗IL-2受体单克隆抗体、钙调神经磷酸酶抑制剂和糖皮质激素（参见表格用于治疗移植排斥的免疫抑制剂）。
+
+【手术参考】
+1.Wang L, MacGowan GA, Ali S, Dark JH.Ex situ heart perfusion: The past, the present, and the future.J Heart Lung Transplant.2021;40(1):69-86.doi:10.1016/j.healun.2020.10.004
+1.Wang L, MacGowan GA, Ali S, Dark JH.Ex situ heart perfusion: The past, the present, and the future.J Heart Lung Transplant.2021;40(1):69-86.doi:10.1016/j.healun.2020.10.004
+
+【心脏移植并发症】
+(参见移植后并发症。）
+发生急性排斥反应的高峰在1个月时，并在随后的5个月中下降，到1年左右趋向稳定。约15%的成人心脏移植受者会在移植后第一年内出现排斥反应（1）。许多患者无症状，但部分患者可能出现左心室功能障碍或房性心律失常。
+由于对移植物的损害可能为不可逆且严重，通常每年应进行一次心肌病理检查，以检测单个核细胞的浸润深度和范围以及心肌的损伤程度。鉴别诊断包括围术期缺血、巨细胞病毒感染、特发性B细胞浸润。
+排斥反应的临床表现可根据起病时间、持续时间进行分类（见表心脏移植排斥反应的分类表现）。排斥的组织学分类从 1 级到 4 级。轻度排斥反应（1级）且未检测到临床后遗症时无需治疗；中重度排斥反应（2至4级）或伴有临床后遗症的轻度排斥反应，需采用糖皮质激素冲击治疗（例如甲泼尼龙），并根据需要联合使用抗胸腺细胞球蛋白。排斥反应分级反映了活检组织学检查中异常程度的渐进性变化。
+
+【不同类型的心脏移植排斥症状*】
+不同类型的心脏移植排斥症状*
+排斥类型
+心源性休克
+房性心律失常、心源性休克
+心脏衰竭，房性心律失常
+运动时呼吸困难，应激耐受降低
+*大部分有心脏移植排斥的患者没有症状。
+*大部分有心脏移植排斥的患者没有症状。
+
+【心脏同种异体移植血管病变】
+心脏移植的主要长期并发症是心脏同种异体移植物血管病变，这是一种弥漫性狭窄或阻塞血管腔的动脉粥样硬化形式。大约30%的成人心脏移植患者在移植后5年内出现一定程度的同种异体心脏血管病变（2）。 发生的原因为多因素，并且与供者年龄、采用冷冻和再灌注缺血、低脂血症、免疫抑制剂、慢性排斥反应以及病毒感染（在儿童中腺病毒，在成人中CMV病毒感染）有关。
+为了尽早发现，通常在做心内膜心肌活检的同时进行监测性负荷试验或冠状动脉造影（可结合或不结合血管内超声）
+治疗包括积极降脂使用他汀类药物，以及使用钙通道阻滞剂或其他药物控制高血压（2）。
+
+【并发症参考文献】
+1.Heidenreich PA, Bozkurt B, Aguilar D, et al.2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inJ Am Coll Cardiol. 2023 Apr 18;81(15):1551. doi: 10.1016/j.jacc.2023.03.002].J Am Coll Cardiol.2022;79(17):e263-e421.doi:10.1016/j.jacc.2021.12.012
+1.Heidenreich PA, Bozkurt B, Aguilar D, et al.2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inJ Am Coll Cardiol. 2023 Apr 18;81(15):1551. doi: 10.1016/j.jacc.2023.03.002].J Am Coll Cardiol.2022;79(17):e263-e421.doi:10.1016/j.jacc.2021.12.012
+2.Mallah SI, Atallah B, Moustafa F, et al.Evidence-based pharmacotherapy for prevention and management of cardiac allograft vasculopathy.Prog Cardiovasc Dis.2020;63(3):194-209.doi:10.1016/j.pcad.2020.03.007
+2.Mallah SI, Atallah B, Moustafa F, et al.Evidence-based pharmacotherapy for prevention and management of cardiac allograft vasculopathy.Prog Cardiovasc Dis.2020;63(3):194-209.doi:10.1016/j.pcad.2020.03.007
+
+【心脏移植的预后】
+心脏移植后 1 年的存活率约为 90%；5 年存活率约为 80%（1）。
+在1年内，死亡最常见的原因是急性排斥反应或感染；1年后，死亡最常见于心脏移植血管病变或淋巴增生性疾病。
+心脏移植后存活＞1年的受者功能状态良好，运动能力仍低于正常水平，但足以维持日常活动，并且有可能随时间推移、随交感神经功能的恢复而逐渐提高。超过 90% 的患者心功能恢复至纽约心脏协会心功能分级I级，且大多数患者在移植后1年内重返工作岗位（2，3）。
+
+【预后参考】
+1.Heidenreich PA, Bozkurt B, Aguilar D, et al.2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inJ Am Coll Cardiol. 2023 Apr 18;81(15):1551. doi: 10.1016/j.jacc.2023.03.002].J Am Coll Cardiol.2022;79(17):e263-e421.doi:10.1016/j.jacc.2021.12.012
+1.Heidenreich PA, Bozkurt B, Aguilar D, et al.2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inJ Am Coll Cardiol. 2023 Apr 18;81(15):1551. doi: 10.1016/j.jacc.2023.03.002].J Am Coll Cardiol.2022;79(17):e263-e421.doi:10.1016/j.jacc.2021.12.012
+2.Cramer CL, Marsh K, Krebs ED, et al.Long term employment following heart transplantation in the United States.J Heart Lung Transplant.2023;42(7):880-887.doi:10.1016/j.healun.2022.12.025
+2.Cramer CL, Marsh K, Krebs ED, et al.Long term employment following heart transplantation in the United States.J Heart Lung Transplant.2023;42(7):880-887.doi:10.1016/j.healun.2022.12.025
+3.Grady KL, Jalowiec A, White-Williams C.Patient compliance at one year and two years after heart transplantation.J Heart Lung Transplant.1998;17(4):383-394.
+3.Grady KL, Jalowiec A, White-Williams C.Patient compliance at one year and two years after heart transplantation.J Heart Lung Transplant.1998;17(4):383-394.
+心脏移植适用于难治性心力衰竭。
+心脏移植适用于难治性心力衰竭。
+心脏移植需要终身免疫抑制和护理，但预后情况较为理想。
+心脏移植需要终身免疫抑制和护理，但预后情况较为理想。

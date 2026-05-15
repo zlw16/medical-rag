@@ -1,0 +1,75 @@
+标题：胸腔镜检查和电视辅助胸腔镜手术
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/diagnostic-and-therapeutic-pulmonary-procedures/thoracoscopy-and-video-assisted-thoracoscopic-surgery
+============================================================
+
+胸膜镜检查可在内镜室或重症监护病房于清醒镇静下进行（1），而胸腔镜辅助手术（VATS）需在全身麻醉下于手术室完成。两者均需制造人工气胸以提供清晰的视野
+
+【参考文献】
+1.Thakore S, Alraiyes AH, Kheir F.Medical thoracoscopy in intensive care unit.J Thorac Dis.2021;13(8):5232-5241.doi:10.21037/jtd-2019-ipicu-02
+1.Thakore S, Alraiyes AH, Kheir F.Medical thoracoscopy in intensive care unit.J Thorac Dis.2021;13(8):5232-5241.doi:10.21037/jtd-2019-ipicu-02
+
+【胸腔镜检查和 VATS 的适应症】
+胸腔镜用于：
+评估渗出性积液、各种胸膜和肺部病变，当微创性检查不能确诊时。
+评估渗出性积液、各种胸膜和肺部病变，当微创性检查不能确诊时。
+胸膜固定术治疗复发性恶性胸腔积液，当化学胸膜固定术无指征或无效时
+胸膜固定术治疗复发性恶性胸腔积液，当化学胸膜固定术无指征或无效时
+清除脓胸患者胸腔内的脓腔
+清除脓胸患者胸腔内的脓腔
+胸膜癌和结核病的诊断准确率约为 90-95% (1,2）。
+电视辅助胸腔镜通常的适应症包括：
+肺气肿患者行肺减容手术
+肺气肿患者行肺减容手术
+矫正初发的自发性气胸
+矫正初发的自发性气胸
+脓胸的纤维化脓性期
+脓胸的纤维化脓性期
+肺叶切除术和全肺切除术（在某些中心）
+肺叶切除术和全肺切除术（在某些中心）
+肺实质活检
+肺实质活检
+肺叶楔形切除
+肺叶楔形切除
+电视辅助胸腔镜较不常见的适应症包括：
+食管癌的活检与分期
+食管癌的活检与分期
+切除良性纵隔肿块
+切除良性纵隔肿块
+修复肺，胸膜或膈肌的创伤
+修复肺，胸膜或膈肌的创伤
+交感神经切断术治疗严重多汗症或灼性神经痛
+交感神经切断术治疗严重多汗症或灼性神经痛
+
+【适应症参考文献】
+1.Durgeshwar G, Mohapatra PR, Bal SK, et al.Comparison of Diagnostic Yield and Complications in Ultrasound-Guided Closed Pleural Biopsy Versus Thoracoscopic Pleural Biopsy in Undiagnosed Exudative Pleural Effusion.Cureus2022;14(4):e23809.doi:10.7759/cureus.23p9
+1.Durgeshwar G, Mohapatra PR, Bal SK, et al.Comparison of Diagnostic Yield and Complications in Ultrasound-Guided Closed Pleural Biopsy Versus Thoracoscopic Pleural Biopsy in Undiagnosed Exudative Pleural Effusion.Cureus2022;14(4):e23809.doi:10.7759/cureus.23p9
+2.Zhou X, Jiang P, Huan X, et al.Ultrasound-Guided versus Thoracoscopic Pleural Biopsy for Diagnosing Tuberculous Pleurisy Following Inconclusive Thoracentesis: A Randomized, Controlled Trial.Med Sci Monit.2018;24:7238-7248.Published 2018 Oct 10.doi:10.12659/MSM.912506
+2.Zhou X, Jiang P, Huan X, et al.Ultrasound-Guided versus Thoracoscopic Pleural Biopsy for Diagnosing Tuberculous Pleurisy Following Inconclusive Thoracentesis: A Randomized, Controlled Trial.Med Sci Monit.2018;24:7238-7248.Published 2018 Oct 10.doi:10.12659/MSM.912506
+
+【胸腔镜检查和 VATS 的禁忌症】
+胸腔镜和VATS的禁忌症与胸腔穿刺术的禁忌症相同。
+一项绝对禁忌症是:
+胸膜腔粘连；
+胸膜腔粘连；
+对于患有以下疾病的患者，活组织切片检查是相对禁忌的：
+高度血管化的恶性肿瘤
+高度血管化的恶性肿瘤
+严重肺动脉高压
+严重肺动脉高压
+严重大疱性肺病
+严重大疱性肺病
+
+【胸腔镜和 VATS 的程序】
+尽管有些肺科医生可行胸腔镜检查，但VATS则由胸外科医生操作。两种操作程序都类似于胸导管置入。 通过皮肤切口将Trocar（套管针）插入肋间隙，再通过套管针插入胸腔镜。另外的切口供视屏摄像机和辅助设备使用。
+在胸腔镜和VATS后，通常需要胸腔管1 - 2天。
+
+【胸腔镜和 VATS 的并发症】
+胸腔镜和VATS检查的并发症与胸腔穿刺术类似，包括:
+术后发热
+术后发热
+胸膜撕裂导致漏气 和/或皮下气肿
+胸膜撕裂导致漏气 和/或皮下气肿
+严重但罕见的并发症有:
+气体栓塞
+气体栓塞
+患者也存在发生全身麻醉并发症的风险。

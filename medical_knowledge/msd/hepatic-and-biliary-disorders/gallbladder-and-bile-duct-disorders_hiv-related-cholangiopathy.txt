@@ -1,0 +1,41 @@
+标题：HIV相关胆管病
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/gallbladder-and-bile-duct-disorders/hiv-related-cholangiopathy
+============================================================
+
+（参见胆管功能概述）
+在抗逆转录病毒治疗出现之前，HIV感染晚期（旧称艾滋病，AIDS）患者中，胆管病的发生率超过25%，尤其是在CD4计数低于<100/mcL 的患者中（1）。最常见的病原体是隐孢子虫 (Cryptosporidium parvum)。其他病原体还包括巨细胞病毒、微孢子虫和环孢子虫(Cyclospora)。大多数患者存在乳头狭窄，许多患者有肝内或肝外硬化性胆管炎（1）。
+常见症状包括右上腹或上腹痛和腹泻。少数患者有发热和黄疸。严重的疼痛通常提示乳头狭窄。较轻的疼痛提示硬化性胆管炎。腹泻反映了小肠感染，通常是隐孢子虫病。
+
+【参考文献】
+1.Naseer M, Dailey FE, Juboori AA, et al.Epidemiology, determinants, and management of AIDS cholangiopathy: A review.World J Gastroenterol.2018;24(7):767-774.doi:10.3748/wjg.v24.i7.767
+1.Naseer M, Dailey FE, Juboori AA, et al.Epidemiology, determinants, and management of AIDS cholangiopathy: A review.World J Gastroenterol.2018;24(7):767-774.doi:10.3748/wjg.v24.i7.767
+
+【HIV相关胆管病的诊断】
+诊断通常采用超声检查及磁共振胰胆管成像（MRCP）或内镜逆行胰胆管造影（ERCP）。
+诊断通常采用超声检查及磁共振胰胆管成像（MRCP）或内镜逆行胰胆管造影（ERCP）。
+实验室检查
+实验室检查
+影像学检查通常首先进行超声检查，它是无创的并且准确率高（>95%） (1)。然而，通常需要进行 MRCP 或 ERCP。两者都可以用于诊断目的。磁共振胰胆管成像（MRCP）操作风险较低，而内镜逆行胰胆管造影（ERCP）则可获取胆道及小肠样本以鉴定致病微生物，并可在同一操作中行治疗以解除狭窄（1）。
+肝功能检查结果异常（特别是高碱性磷酸酶水平）与胆汁淤积相一致。
+
+【诊断参考文献】
+1.Naseer M, Dailey FE, Juboori AA, et al.Epidemiology, determinants, and management of AIDS cholangiopathy: A review.World J Gastroenterol.2018;24(7):767-774.doi:10.3748/wjg.v24.i7.767
+1.Naseer M, Dailey FE, Juboori AA, et al.Epidemiology, determinants, and management of AIDS cholangiopathy: A review.World J Gastroenterol.2018;24(7):767-774.doi:10.3748/wjg.v24.i7.767
+
+【HIV相关胆管病的治疗】
+抗逆转录病毒疗法
+抗逆转录病毒疗法
+内镜治疗
+内镜治疗
+抗菌疗法
+抗菌疗法
+有时使用熊去氧胆酸
+有时使用熊去氧胆酸
+首选治疗是抗逆转录病毒治疗以恢复正常的免疫功能，这既能治疗又能预防导致HIV相关性胆管炎的机会性感染(1)。
+对于乳头狭窄的患者，内镜逆行胰胆管造影时进行内镜下乳头肌切开术可显著缓解疼痛、黄疸和胆管炎。对于孤立性或主要狭窄，可内镜下置入支架。抗微生物治疗可治愈感染，但单独抗微生物治疗并不降低胆道破坏或缓 解症状。
+一旦确定致病微生物，即采用抗菌疗法进行治疗。
+熊去氧胆酸可能在治疗肝内胆管硬化和胆汁淤积中有一定作用。
+
+【治疗参考文献】
+1.Naseer M, Dailey FE, Juboori AA, et al.Epidemiology, determinants, and management of AIDS cholangiopathy: A review.World J Gastroenterol.2018;24(7):767-774.doi:10.3748/wjg.v24.i7.767
+1.Naseer M, Dailey FE, Juboori AA, et al.Epidemiology, determinants, and management of AIDS cholangiopathy: A review.World J Gastroenterol.2018;24(7):767-774.doi:10.3748/wjg.v24.i7.767

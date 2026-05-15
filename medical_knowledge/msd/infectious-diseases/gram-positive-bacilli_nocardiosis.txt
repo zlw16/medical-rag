@@ -1,0 +1,101 @@
+标题：奴卡放线菌病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-positive-bacilli/nocardiosis
+============================================================
+
+诺卡氏菌是专性需氧、放线菌目、部分抗酸、串珠状、分枝状的革兰氏阳性杆菌。诺卡氏菌属有很多种。
+N. asteroides（星形诺卡菌）通常引起肺炎和播散性感染。
+N. brasiliensis（巴西诺卡菌）最常引起皮肤感染，特别在热带气候条件下。
+感染可经吸入途径或皮肤直接接种途径发生。
+其他奴卡放线菌Nocardia有时也可引起局部感染，偶尔也可引起全身性感染。
+诺卡菌病在全球各年龄组均有发生，但在老年人和免疫功能低下患者中发病率较高。尚未出现人与人之间以及动物与人之间的传播。在美国，每年大约有500至1000例新发的诺卡菌病感染病例（1）。
+Nocardia（诺卡菌属）常见于积水、腐烂的植物和土壤中。感染是通过吸入含有细菌的灰尘或当被污染的土壤或水通过切口或刮擦直接接种于皮肤引起的。
+
+【危险因素】
+奴卡放线菌病的其他预测风险因素包括：
+淋巴肿瘤
+淋巴肿瘤
+器官移植
+器官移植
+大剂量糖皮质激素或其他免疫抑制疗法
+大剂量糖皮质激素或其他免疫抑制疗法
+潜在性肺部疾病
+潜在性肺部疾病
+酒精使用障碍
+酒精使用障碍
+然而，高达40%的诺卡菌病患者没有发现免疫功能低下情况（1）。
+诺卡菌病也是晚期HIV感染患者的机会性感染之一。
+
+【参考文献】
+1.Centers for Disease Control and Prevention: Nocardiosis: Clinical Overview of Nocardiosis.January 31, 2025.Accessed July 17, 2025.
+1.Centers for Disease Control and Prevention: Nocardiosis: Clinical Overview of Nocardiosis.January 31, 2025.Accessed July 17, 2025.
+
+【诺卡菌病的症状和体征】
+诺卡菌病通常起始为亚急性肺部感染，临床上类似放线菌病，但诺卡菌比放线菌更倾向于局部或血行播散。疾病播散伴脓肿形成可累及任何一个器官，最常累及大脑、皮肤、肾脏、骨骼系统或肌肉。
+这张照片显示了上肢诺卡菌病感染，肿胀和多个皮下结节。
+Image courtesy of Dr. Libero Ajello via the Public Health Image Library of the Centers for Disease Control and Prevention.
+肺部病变时，最常见的症状有咳嗽、发热、寒战、胸痛、衰弱、纳差和体重减轻，但这些症状都是非特异性的，并且与肺结核或化脓性肺炎相似。胸腔积液也可发生。
+转移性脑脓肿发生在约 37% 的病例中，通常引起严重头痛和局灶性神经系统异常（1）。感染可以呈急性、亚急性或慢性。
+原发性cutaneous nocardiosis（皮肤诺卡菌病）通常发生在免疫功能正常的患者中，多在感染后1至3周出现，有时表现为原发性局部接种感染。皮肤或皮下脓肿常见 。可表现为:
+蜂窝组织炎
+蜂窝组织炎
+皮肤淋巴管综合征
+皮肤淋巴管综合征
+放线菌足菌肿
+放线菌足菌肿
+皮肤诺卡氏菌病可表现为类似于蜂窝织炎的红斑、触痛、发热及肿胀区域，但也可能形成硬结或脓肿，尤其是在细菌进入皮肤的损伤部位周围（2）。
+淋巴皮肤综合征由原发性脓皮病变和类似于孢子丝菌病的淋巴结组成。
+由诺卡氏菌病引起的放线菌性足分枝菌病，初期表现为结节，随后化脓，沿筋膜平面扩散，并通过慢性窦道排出脓液。
+诺卡菌病引起的放线菌瘤是皮肤和皮下组织，筋膜和骨的缓慢进行性破坏性感染。放线菌足分枝菌病初期表现为结节，随后发生化脓，沿筋膜平面扩散，并通过慢性瘘管排出分泌物。
+
+【症状和体征参考】
+1.Averbuch D, De Greef J, Duréault A, et al.Nocardia Infections in Hematopoietic Cell Transplant Recipients: A Multicenter International Retrospective Study of the Infectious Diseases Working Party of the European Society for Blood and Marrow Transplantation [published correction appears inClin Infect Dis. 2025 Feb 5;80(1):239. doi: 10.1093/cid/ciae606.].Clin Infect Dis.2022;75(1):88-97.doi:10.1093/cid/ciab866
+1.Averbuch D, De Greef J, Duréault A, et al.Nocardia Infections in Hematopoietic Cell Transplant Recipients: A Multicenter International Retrospective Study of the Infectious Diseases Working Party of the European Society for Blood and Marrow Transplantation [published correction appears inClin Infect Dis. 2025 Feb 5;80(1):239. doi: 10.1093/cid/ciae606.].Clin Infect Dis.2022;75(1):88-97.doi:10.1093/cid/ciab866
+2.Tariq EF, Anwar MM, Khan UA.Primary Cutaneous Nocardiosis: A Rare Presentation of Nocardiosis.Cureus.2019;11(10):e5860.doi:10.7759/cureus.5860
+2.Tariq EF, Anwar MM, Khan UA.Primary Cutaneous Nocardiosis: A Rare Presentation of Nocardiosis.Cureus.2019;11(10):e5860.doi:10.7759/cureus.5860
+
+【诺卡菌病的诊断】
+镜检或细菌培养
+镜检或细菌培养
+抗酸染色
+抗酸染色
+有时进行分子核酸检测（多位点序列分析）
+有时进行分子核酸检测（多位点序列分析）
+诺卡菌病的诊断方法为：通过体格检查、X 线检查或其他影像学检查定位病变部位后，从病变组织中或病变部位标本的培养物中鉴定出Nocardia（诺卡菌属）细菌。常可见成簇的、呈串珠状、直角分支的革兰氏阳性细菌丝（使用改良金胺-品红染色法时，这些细菌可能呈弱抗酸性）。血液和组织培养可能需要长达2周时间才能生长。分子核酸检测，如多位点序列分析，可用于（1）。在极少数情况下，基质辅助激光解吸/电离飞行时间质谱（MALDI-TOF MS）可用于精确鉴定诺卡氏菌物种（2）。
+
+【诊断参考】
+1.Xiao M, Pang L, Chen SC, et al.Accurate Identification of Common Pathogenic Nocardia Species: Evaluation of a Multilocus Sequence Analysis Platform and Matrix-Assisted Laser Desorption Ionization-Time of Flight Mass Spectrometry.PLoS One.2016;11(1):e0147487.Published 2016 Jan 25.doi:10.1371/journal.pone.0147487
+1.Xiao M, Pang L, Chen SC, et al.Accurate Identification of Common Pathogenic Nocardia Species: Evaluation of a Multilocus Sequence Analysis Platform and Matrix-Assisted Laser Desorption Ionization-Time of Flight Mass Spectrometry.PLoS One.2016;11(1):e0147487.Published 2016 Jan 25.doi:10.1371/journal.pone.0147487
+2.Liu Y, Wu SY, Deng J, et al.Application of MALDI-TOF mass spectrometry for identification of Nocardia species.BMC Microbiol.2024;24(1):358.Published 2024 Sep 20.doi:10.1186/s12866-024-03483-2
+2.Liu Y, Wu SY, Deng J, et al.Application of MALDI-TOF mass spectrometry for identification of Nocardia species.BMC Microbiol.2024;24(1):358.Published 2024 Sep 20.doi:10.1186/s12866-024-03483-2
+
+【诺卡菌病的治疗】
+复方新诺明
+复方新诺明
+有时使用阿米卡星、亚胺培南或美罗培南
+有时使用阿米卡星、亚胺培南或美罗培南
+每6到12小时口服复方磺胺甲噁唑/甲氧苄啶（取决于疾病的严重程度）是首选的治疗方案（1）。治疗的持续时间取决于感染的类型以及患者的易感危险因素。对于免疫功能低下和播散性疾病的患者，在物种鉴定和药敏试验结果出来之前，应使用甲氧苄啶/磺胺甲恶唑联合阿米卡星、亚胺培南或美罗培南。
+当存在磺胺类药物过敏、磺胺甲恶唑/甲氧苄啶耐药或难治性感染时，可使用阿米卡星、四环素（尤其是米诺环素）、亚胺培南/西司他丁、美罗培南、头孢曲松、头孢噻肟、广谱氟喹诺酮类药物（如莫西沙星）或氨苯砜。替加环素可能是有效的替代用药。在某些情况下，利奈唑胺联合另一种药物可能是合适的（例如，如果使用阿米卡星且担心肾毒性时）。应当根据药敏试验选择更换抗生素。
+皮肤感染初期也应使用甲氧苄啶/磺胺甲噁唑（2）治疗。对于皮损严重或免疫功能低下的患者，应考虑联合其他药物治疗难治性感染。局部脓肿通常需要切开、引流和手术清创。
+
+【治疗参考文献】
+1.Yang J, Ren HT, Wang J, et al.Clinical characteristics, susceptibility profiles, and treatment of nocardiosis: a multicenter retrospective study in 2015-2021.Int J Infect Dis.2023;130:136-143.doi:10.1016/j.ijid.2023.02.023
+1.Yang J, Ren HT, Wang J, et al.Clinical characteristics, susceptibility profiles, and treatment of nocardiosis: a multicenter retrospective study in 2015-2021.Int J Infect Dis.2023;130:136-143.doi:10.1016/j.ijid.2023.02.023
+2.Stevens DL, Bisno AL, Chambers HF, et al.Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America.Clin Infect Dis.2014;59(2):147-159.doi:10.1093/cid/ciu296
+2.Stevens DL, Bisno AL, Chambers HF, et al.Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America.Clin Infect Dis.2014;59(2):147-159.doi:10.1093/cid/ciu296
+
+【诺卡菌病的预后】
+若不及时治疗，肺诺卡菌病及播散性诺卡菌病均可致命。
+在接受适当抗生素治疗的患者中，病死率在免疫功能低下且感染播散的患者中最高，而在感染局限于肺部的免疫功能正常患者中则较低（1）。
+诺卡菌皮肤感染通常需要长期治疗，疗程常为6至24个月，具体取决于感染的严重程度和范围（2）。
+
+【预后参考】
+1.Steinbrink J, Leavens J, Kauffman CA, Miceli MH.Manifestations and outcomes of nocardia infections: Comparison of immunocompromised and nonimmunocompromised adult patients.Medicine(Baltimore).2018;97(40):e12436.doi:10.1097/MD.0000000000012436
+1.Steinbrink J, Leavens J, Kauffman CA, Miceli MH.Manifestations and outcomes of nocardia infections: Comparison of immunocompromised and nonimmunocompromised adult patients.Medicine(Baltimore).2018;97(40):e12436.doi:10.1097/MD.0000000000012436
+2.Stevens DL, Bisno AL, Chambers HF, et al.Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America.Clin Infect Dis.2014;59(2):147-159.doi:10.1093/cid/ciu296
+2.Stevens DL, Bisno AL, Chambers HF, et al.Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America.Clin Infect Dis.2014;59(2):147-159.doi:10.1093/cid/ciu296
+免疫抑制剂及慢性肺病可能是诱因，但高达40%的病人并无基础疾病。
+免疫抑制剂及慢性肺病可能是诱因，但高达40%的病人并无基础疾病。
+典型表现为肺炎，但也常见皮肤和中枢神经系统感染；血行播散可以累及几乎任何器官。
+典型表现为肺炎，但也常见皮肤和中枢神经系统感染；血行播散可以累及几乎任何器官。
+用甲氧苄啶/磺胺甲恶唑（或众多备选方案之一）进行长期治疗。
+用甲氧苄啶/磺胺甲恶唑（或众多备选方案之一）进行长期治疗。

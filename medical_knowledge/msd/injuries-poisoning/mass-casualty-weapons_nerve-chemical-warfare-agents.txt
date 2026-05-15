@@ -1,0 +1,83 @@
+标题：神经化学武器
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/mass-casualty-weapons/nerve-chemical-warfare-agents
+============================================================
+
+神经毒剂是化学战剂，直接作用于神经突触，通常会增加乙酰胆碱的活性。
+其他化学制剂在第二次世界大战之前也曾用于战场，有时被称为第一代化学制剂。后续几代化学制剂包括三种类型的神经制剂：
+G类毒剂(第二代)
+G类毒剂(第二代)
+V类毒剂(第三代)
+V类毒剂(第三代)
+A类毒剂(第四代)
+A类毒剂(第四代)
+G类毒剂，简称G毒剂，包括塔崩（GA）、沙林（GB）、梭曼（GD）、环沙林（GF），都是由纳粹德国在二战前及二战期间研制的。在常温下，它们是具有高挥发性的水状液体，具有皮肤接触和吸入风险的双重危害。。
+V类毒剂包括VX；这些化合物是二战之后合成的。它们是具有机油稠度的持久性液体。它们蒸发非常缓慢，主要危险是与液体接触。它们也比G系列毒剂的毒性更强。
+A 系列毒剂是苏联于 1970 年代开始开发的神经毒剂。它们也被称为 Novichok 药剂，代表性化合物是 A-230、A-232 和 A-234，它们是比 V 系列药剂更持久且同样有效的液体 (1, 2)。A系列毒剂被用于2018年在英国的一次暗杀行动(3)，另一种A系列毒剂被用于2020年俄罗斯活动家Alexei Navalny的暗杀事件(4)。
+这些毒剂都没有明显的气味或引起局部皮肤刺激。所有神经毒剂都是有机磷酸酯，正如有机磷农药一样。然而神经性毒剂毒性更强；VX的LD50（引起接受该药剂的人一半死亡所需剂量）大约是3mg。
+
+【参考文献】
+1.Chai PR, Hayes BD, Erickson TB, Boyer EW.Novichok agents: a historical, current, and toxicological perspective.Toxicol Commun.2018;2(1):45-48.doi:10.1080/24734306.2018.1475151
+1.Chai PR, Hayes BD, Erickson TB, Boyer EW.Novichok agents: a historical, current, and toxicological perspective.Toxicol Commun.2018;2(1):45-48.doi:10.1080/24734306.2018.1475151
+2.Charejoo A, Arabfard M, Jafari A, Nourian YH.A complete, evidence-based review on Novichok poisoning based on epidemiological aspects and clinical management.Front Toxicol.2023;4:1004705.Published 2023 Jan 25.doi:10.3389/ftox.2022.1004705
+2.Charejoo A, Arabfard M, Jafari A, Nourian YH.A complete, evidence-based review on Novichok poisoning based on epidemiological aspects and clinical management.Front Toxicol.2023;4:1004705.Published 2023 Jan 25.doi:10.3389/ftox.2022.1004705
+3.Vale JA, Marrs TC OBE, Maynard RL CBE.Novichok: a murderous nerve agent attack in the UK.Clin Toxicol (Phila).2018;56(11):1093-1097.doi:10.1080/15563650.2018.1469759
+3.Vale JA, Marrs TC OBE, Maynard RL CBE.Novichok: a murderous nerve agent attack in the UK.Clin Toxicol (Phila).2018;56(11):1093-1097.doi:10.1080/15563650.2018.1469759
+4.Steindl D, Boehmerle W, Körner R, et al.Novichok nerve agent poisoning.Lancet.2021;397(10270):249-252.doi:10.1016/S0140-6736(20)32644-1
+4.Steindl D, Boehmerle W, Körner R, et al.Novichok nerve agent poisoning.Lancet.2021;397(10270):249-252.doi:10.1016/S0140-6736(20)32644-1
+
+【神经化学战损伤的病理生理学】
+神经性毒剂抑制酶乙酰胆碱酯酶（AChE），该酶水解神经递质乙酰胆碱（ACh），乙酰胆碱在激活神经元、肌肉和腺体的受体后被水解。抑制乙酰胆碱酯酶导致所有乙酰胆碱受体处的乙酰胆碱过量（胆碱能危象），首先导致受影响的组织活性增加，最终在中枢神经系统 和骨骼肌中组织疲劳和衰竭。神经毒剂对毒蕈碱型和烟碱型乙酰胆碱受体都有抑制作用。毒蕈碱乙酰胆碱受体分布于中枢神经系统（CNS）、自主神经节、平滑肌纤维和外分泌腺中；烟碱型乙酰胆碱受体存在于骨骼肌中。
+神经性毒剂与乙酰胆碱酯酶之间的结合不进行治疗的话基本上是不可逆的；用肟治疗可使酶再生，只要结合键没有随着时间得到进一步稳定（这一过程称为老化）。大多数的神经性毒剂，如有机磷酸酯杀虫剂需要几个小时才能完全老化，但GD（梭曼）在结合之后10分钟内基本完全老化。
+
+【神经化学战损伤的症状和体征】
+临床表现取决于毒剂的状态、暴露途径以及剂量。
+面部暴露于蒸汽可在数秒内引起局部效应，如瞳孔缩小、流涕和支气管收缩，进而发展到胆碱能过度兴奋的全身性表现。
+然而吸入的蒸汽会在几秒钟内导致患者虚脱。
+皮肤接触液体首先产生局部效应（局部肌肉抽搐、肌束颤动、多汗）。全身性效应可以发生在暴露接触非常小的G或V系列神经毒剂微滴后长达18小时的潜伏期后；即使是致命剂量通常也需要20到30分钟才会引起症状和体征，其中可能包括没有前兆的突然虚脱和抽搐。皮肤暴露于A系列液体制剂的潜伏期从数小时到一两天不等。
+患者表现出部分或全部胆碱能中毒或胆碱能危象（见表常见毒性综合症和特定毒物的症状和治疗)。中枢神经系统的过度刺激和最终疲劳会导致躁动、意识模糊、昏迷和癫痫发作，进展为延髓呼吸中枢衰竭。骨骼肌的过度兴奋和最终疲劳会导致抽搐和肌束颤动，进展为乏力和麻痹。对胆碱能激活平滑肌的过度刺激导致瞳孔缩小、支气管痉挛和蠕动亢进（伴有恶心，呕吐和痉挛），外分泌腺的过度刺激导致过多的流泪、鼻腔分泌物、唾液、支气管分泌物、消化液分泌以及出汗。死亡通常是由于中枢性呼吸暂停导致的，但膈肌直接麻痹、支气管痉挛以及支气管分泌物过多也会导致死亡。
+长期的神经性和神经行为影响也可能发生，包括一种被称为慢性有机磷诱导的神经精神障碍和有机磷酯诱导的慢性神经病变的综合征。
+
+【神经化学战损伤的诊断】
+临床评估
+临床评估
+通常通过临床诊断，尽管红细胞胆碱酯酶或血浆胆碱酯酶水平的实验室分析以及更专业的实验室测试可以确认神经性毒剂暴露。
+对皮肤上有可疑液体的所有人员都需要立即优先进行受影响区域的消毒。可以根据伤者的症状和体征进行分诊治疗。对于所有明显呼吸困难或有全身性症状的暴露接触神经性毒剂的患者应分诊为需要紧急治疗。
+
+【神经化学战损伤的治疗】
+抗胆碱能药物（如阿托品）
+抗胆碱能药物（如阿托品）
+肟类重活化剂（例如2-PAM，MMB-4）
+肟类重活化剂（例如2-PAM，MMB-4）
+苯二氮䓬类
+苯二氮䓬类
+必要时呼吸支持
+必要时呼吸支持
+关注A气道、B呼吸、C循环、立即D去污以及D药物（即ABCDDs原则）至关重要。支气管收缩非常严重，在给予阿托品之前可能无法通气（见表特定毒物的症状和治疗)。气道、呼吸和循环的处理遵循标准流程，详见成人心肺复苏 (CPR)中的讨论。
+尽快清除皮肤上所有可疑液体的污染。可以使用0.5％的次氯酸盐溶液，也可以使用肥皂和水。需要检查可能污染的伤口，清除所有杂物，并用大量清水或生理盐水冲洗。即使进行皮肤消毒之后也可能出现严重的症状甚至死亡，因为消毒不能完全清除已经通过皮肤的神经性毒剂。
+
+【药物治疗】
+在美国，给予两种药物：
+2-吡啶醛肟甲氯（2-PAM，亦称解磷定）。
+2-吡啶醛肟甲氯（2-PAM，亦称解磷定）。
+阿托品阻断乙酰胆碱(ACh)对毒蕈碱受体的作用。解磷定重新激活已被神经性毒剂（或有机磷杀虫剂）磷酸化，但尚未老化的乙酰胆碱酯酶。由于阿托品仅作用于毒蕈碱类乙酰胆碱受体，2-PAM也需要用于逆转骨骼肌中含有烟碱受体的反应（如抽搐、呼吸肌无力和麻痹）。肟类化合物 1,1'-亚甲基双[4-[(羟基亚氨基)甲基]吡啶鎓]二溴化物（或称 MMB-4）似乎比 2-PAM 对更广泛的神经毒剂有效，并将在未来几年取代美军使用的 2-PAM。
+对于军事、院前和大规模伤员护理，通常使用肌肉注射的自动注射器；每个含有2.1毫克阿托品和600毫克2-PAM。 在建立静脉通路之前这些药物都注射在大肌肉（如大腿）的肌腹部分。一旦建立静脉通路，通过静注给予之后的剂量。
+出现严重呼吸困难或全身症状的成年患者应立即接受3剂2.0mg（iv）或2.1mg（使用自动注射器）的阿托品和3剂600mg的2-PAM，随后立即给予苯二氮䓬类药物。咪达唑仑已取代地西泮成为首选药物，因为咪达唑仑在肌肉注射时吸收效果更好，但根据供应情况，两者都可以使用。在治疗神经毒剂毒性时，两者都是以10毫克的剂量给药。
+症状较轻的患者可给予联合自动注射器套装（阿托品和2-PAM），若3至5分钟内症状未缓解可重复使用；除非需要一次性给予3支自动注射器，否则不常规给予苯二氮䓬类药物。
+对于所有需要阿托品的患者，每2-3分钟追加2mg剂量的阿托品，直到毒蕈碱效应（气道阻力、分泌物）消退。必要时可每小时追加600mg的解磷定，以控制骨骼肌效应（抽搐、肌束震颤、乏力、麻痹）。必要时可加用苯二氮䓬类药物控制癫痫。需要注意的是瘫痪患者即使未见抽搐，也可能有癫痫发作。应尽快转换为静脉给药。儿童相应减少剂量。
+一旦受害者陷入胆碱能危象，A系列制剂就很难治疗。需要积极使用阿托品和肟类药物进行治疗，同时给予东莨菪碱1mg iv (1)。在潜伏期，受害者需要尽快彻底消毒，但消毒，尤其是使用RSDL（一种含有2,3-丁二酮单肟[DAM]钾盐、DAM本身、聚乙二醇单甲醚[MPEG]溶剂和水的反应性皮肤消毒剂），即使在接触后1或2小时仍可能有效。应监测心率，核心体温和乙酰胆碱酯酶（AChE）水平(1, 2)。(See alsoFourth Generation Agents at Chemical Hazard Emergency Medical Management [CHEMM].)
+
+【治疗参考文献】
+1.Charejoo A, Arabfard M, Jafari A, Nourian YH.A complete, evidence-based review on Novichok poisoning based on epidemiological aspects and clinical management.Front Toxicol.2023;4:1004705.Published 2023 Jan 25.doi:10.3389/ftox.2022.1004705
+1.Charejoo A, Arabfard M, Jafari A, Nourian YH.A complete, evidence-based review on Novichok poisoning based on epidemiological aspects and clinical management.Front Toxicol.2023;4:1004705.Published 2023 Jan 25.doi:10.3389/ftox.2022.1004705
+2.Vale JA, Marrs TC OBE, Maynard RL CBE.Novichok: a murderous nerve agent attack in the UK.Clin Toxicol (Phila).2018;56(11):1093-1097.doi:10.1080/15563650.2018.1469759
+2.Vale JA, Marrs TC OBE, Maynard RL CBE.Novichok: a murderous nerve agent attack in the UK.Clin Toxicol (Phila).2018;56(11):1093-1097.doi:10.1080/15563650.2018.1469759
+3.Steindl D, Boehmerle W, Körner R, et al.Novichok nerve agent poisoning.Lancet.2021;397(10270):249-252.doi:10.1016/S0140-6736(20)32644-1
+3.Steindl D, Boehmerle W, Körner R, et al.Novichok nerve agent poisoning.Lancet.2021;397(10270):249-252.doi:10.1016/S0140-6736(20)32644-1
+
+【神经化学战损伤的预防】
+如果预期会接触到神经毒剂，则应考虑每8小时口服30mg溴吡斯的明进行预处理 (1)。该化合物是一种可逆的氨基甲酸酯抗胆碱酯酶。由于溴吡斯的明与乙酰胆碱酯酶可逆结合，可保护该酶免受后续神经毒剂的不可逆抑制；可逆结合断裂后，释放的胆碱酯酶可帮助水解靶器官中过量的乙酰胆碱。
+吡斯的明最初用于潜在接触快速老化的神经毒剂梭曼（GD），但现在已被批准用作所有G系列、V系列和A系列神经毒剂的预处理剂。因此，在怀疑接触A系列制剂后的较长潜伏期使用吡斯的明也是有意义的。然而，由于溴吡斯的也是一种乙酰胆碱酯酶抑制剂，在胆碱能危象发作后不应使用，甚至在潜伏期内心率或核心温度较基线下降>25%时也不应使用；此类患者应使用阿托品和氯解磷定治疗胆碱能危象。
+
+【预防参考文献】
+1.Madsen, James M. et al.Clinical Considerations in the Use of Pyridostigmine Bromide as Pretreatment for Nerve-Agent Exposure.(2003).
+1.Madsen, James M. et al.Clinical Considerations in the Use of Pyridostigmine Bromide as Pretreatment for Nerve-Agent Exposure.(2003).

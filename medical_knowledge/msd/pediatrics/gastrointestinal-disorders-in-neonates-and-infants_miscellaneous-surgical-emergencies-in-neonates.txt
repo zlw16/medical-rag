@@ -1,0 +1,34 @@
+标题：新生儿的各种外科急诊
+来源：https://www.msdmanuals.cn/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/miscellaneous-surgical-emergencies-in-neonates
+============================================================
+
+
+【新生儿腹股沟疝】
+腹股沟疝最常见于男性新生儿，尤其是早产儿（此时发病率约为 10%）（1）。右侧腹股沟疝最常见于足月婴儿而非早产儿，约20%足月婴儿和40%早产儿为双侧腹股沟疝（2）。
+由于腹股沟疝可能发生嵌顿，应在诊断后不久进行修复。然而，对于早产儿，延迟到初次出院后修复与并发症较少相关。
+相反，脐疝极少嵌顿，几年后能自行闭合，因此通常不需要手术修复。
+
+【新生儿胃穿孔】
+在新生儿中，胃穿孔通常是自发性的，典型发生在生后第一周内。虽然整体上该病发生率低，但是早产儿较之足月儿更多见。
+胃穿孔的病因尚不清楚，但是穿孔可归因于胃壁的先天缺损，通常沿胃大弯方向。腹部突然变得膨胀，婴儿出现呼吸窘迫，并且在腹部X线片上出现巨大的气腹。
+报告的死亡率从7%到33%不等，早产儿的死亡率更高（高达约70%）。（3–5）。手术修补穿孔，预后良好。
+
+【新生儿回肠穿孔】
+回肠穿孔是另一种不常见的疾病，在极低出生体重婴儿（<1500g）中最为常见，通常在生后前2周内发生。它与绒毛膜羊膜炎、产后使用糖皮质激素和吲哚美辛疗法以闭合动脉导管未闭有关。
+回肠穿孔的病因是不明的，但可能与回肠壁上的肌肉缺陷或是一氧化氮合酶的问题以及由于血管收缩而导致的局部缺血相关。
+回肠穿孔的治疗主要是通过静脉输液和抗生素稳定病情，接着施行手术修补。
+
+【新生儿肠系膜动脉栓塞】
+高放置脐动脉导管后，壁血栓或栓子可阻塞肠系膜动脉。这种情况非常罕见，但可导致广泛的肠梗死，需要手术和肠切除。
+
+【参考文献】
+1.Fu YW, Pan ML, Hsu YJ, Chin TW.A nationwide survey of incidence rates and risk factors of inguinal hernia in preterm children.Pediatr Surg Int.2018;34(1):91-95.doi:10.1007/s00383-017-4222-0
+1.Fu YW, Pan ML, Hsu YJ, Chin TW.A nationwide survey of incidence rates and risk factors of inguinal hernia in preterm children.Pediatr Surg Int.2018;34(1):91-95.doi:10.1007/s00383-017-4222-0
+2.Burgmeier C, Dreyhaupt J, Schier F.Comparison of inguinal hernia and asymptomatic patent processus vaginalis in term and preterm infants.J Pediatr Surg.2014;49(9):1416-1418.doi:10.1016/j.jpedsurg.2014.03.013
+2.Burgmeier C, Dreyhaupt J, Schier F.Comparison of inguinal hernia and asymptomatic patent processus vaginalis in term and preterm infants.J Pediatr Surg.2014;49(9):1416-1418.doi:10.1016/j.jpedsurg.2014.03.013
+3.Sakaria RP, Zaveri PG.Neonatal Gastric Perforation: 14-Year Experience from a Tertiary Neonatal Intensive Care Unit.Am J Perinatol.2023;40(10):1112-1118.doi:10.1055/s-0041-1733780
+3.Sakaria RP, Zaveri PG.Neonatal Gastric Perforation: 14-Year Experience from a Tertiary Neonatal Intensive Care Unit.Am J Perinatol.2023;40(10):1112-1118.doi:10.1055/s-0041-1733780
+4.Yang T, Huang Y, Li J, et al.Neonatal Gastric Perforation: Case Series and Literature Review.World J Surg.2018;42(8):2668-2673.doi:10.1007/s00268-018-4509-x
+4.Yang T, Huang Y, Li J, et al.Neonatal Gastric Perforation: Case Series and Literature Review.World J Surg.2018;42(8):2668-2673.doi:10.1007/s00268-018-4509-x
+5.Chen TY, Liu HK, Yang MC, et al.Neonatal gastric perforation: a report of two cases and a systematic review.Medicine (Baltimore).2018;97(17):e0369.doi:10.1097/MD.0000000000010369
+5.Chen TY, Liu HK, Yang MC, et al.Neonatal gastric perforation: a report of two cases and a systematic review.Medicine (Baltimore).2018;97(17):e0369.doi:10.1097/MD.0000000000010369

@@ -1,0 +1,130 @@
+标题：全眼损伤
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/eye-trauma/globe-injury
+============================================================
+
+眼球创伤可能导致以下情况：
+眼球破裂（撕裂）
+眼球破裂（撕裂）
+眼球内异物
+眼球内异物
+前房积血
+前房积血
+眼眶爆裂性骨折
+眼眶爆裂性骨折
+眼眶骨筋膜室综合征
+眼眶骨筋膜室综合征
+外伤性视神经病变
+外伤性视神经病变
+（参见眼外伤概述。）
+本手册其他部分涵盖的下列伤害可能有多种原因，包括诱发的创伤性损伤：
+晶状体脱位
+晶状体脱位
+其他常见的眼球损伤包括结膜、结膜下和巩膜出血，通常不需要治疗；视网膜出血、视网膜水肿或视网膜脱离；玻璃体出血；虹膜裂伤；晶状体脱位，所有这些情况通常都需要眼科医生紧急评估。
+当眼睑出现大面积水肿、瘀斑或撕裂时，评估可能会很困难。即便如此，除非明确需要紧急眼科手术（需尽快由眼科医生评估），否则在打开眼睑时需注意避免对眼球施加压力，并尽可能完成全面检查。至少应该注意到以下内容：
+瞳孔形状和瞳孔反应
+瞳孔形状和瞳孔反应
+眼外肌活动
+眼外肌活动
+前房深度或出血
+前房深度或出血
+视网膜红反射
+视网膜红反射
+
+【评估视力】
+评估视力
+按病情严重程度由高到低评估视力，方法包括：
+阅读斯内伦视力表
+阅读斯内伦视力表
+数手指时注意距离（如，数1英寸[3厘米]左右的手指）
+数手指时注意距离（如，数1英寸[3厘米]左右的手指）
+测试手部动作
+测试手部动作
+感知光（记录为 LP 或“光感知”）
+感知光（记录为 LP 或“光感知”）
+缺乏光感（记录为 NLP 或“无光感”）
+缺乏光感（记录为 NLP 或“无光感”）
+可以使用止痛药或抗焦虑药来协助检查。如果患者需要帮助，可以轻柔小心地使用眼睑牵开器或眼睑窥器来打开眼睑。如果没有现成器械能用的话，也临时自制牵引器将上下眼睑分开，即将回形针打开并掰成S型，然后将U型末端折成180°即可。器械使用时不应对眼球施加压力。有以下情况之一者应怀疑眼球撕裂伤：
+肉眼可见角膜或巩膜撕裂伤。
+肉眼可见角膜或巩膜撕裂伤。
+房水渗漏（Seidel征阳性）。
+房水渗漏（Seidel征阳性）。
+前房太浅（如角膜呈折皱状）或太深（因晶状体后极破裂）。
+前房太浅（如角膜呈折皱状）或太深（因晶状体后极破裂）。
+瞳孔不规则或变形（可能表明眼球穿孔或虹膜突出）。
+瞳孔不规则或变形（可能表明眼球穿孔或虹膜突出）。
+红色反射消失（可能表明玻璃体出血或视网膜损伤）。
+红色反射消失（可能表明玻璃体出血或视网膜损伤）。
+如果怀疑眼球裂伤，在就诊眼科医生之前应采取的措施包括佩戴保护性眼罩并静脉注射抗生素（如头孢他啶和万古霉素）（1）。应进行 CT 扫描以寻找异物和其他损伤，例如骨折；由于可能存在隐匿性金属异物，因此应避免使用 MRI。避免局部应用抗生素。呕吐可使眼内压（IOP）增高致眼内容物溢出，必要时用止吐剂治疗。由于开放性伤口发生真菌污染是很危险的，因此在伤口在外科愈合前禁忌使用糖皮质激素。开放性眼球外伤后应预防破伤风。手术修复通常需要眼球探查、移除任何异物、巩膜和角膜分层闭合，并在全身麻醉下注射玻璃体内抗生素和/或抗真菌剂。术后，眼睛受到保护。根据最初损伤的具体病因和术中发现，使用散瞳剂和外用抗生素/抗真菌药物。监测眼压，如发现眼压升高则用外用药物治疗。由于存在创伤后眼内炎的风险，需要对患者进行几天的密切跟踪。极少数情况下，眼球撕裂后，未受伤的对侧眼睛会发炎（交感性眼炎)，除非得到治疗，否则视力可能会丧失到失明的程度。该机制是一种自身免疫反应，时间进程是可变的（2）。
+
+【眼球内异物】
+眼部穿透性创伤也可能导致眼内残留异物（例如，断掉的铅笔、旋转工具的金属碎片）。眼球内异物需立即由眼科医师进行手术取出。对于任何可能被土壤或植物污染的创伤，Bacillus cereus（蜡样芽孢杆菌）可能存在于其中，玻璃体内、全身性及局部使用抗菌药物是有效的；这些药物包括玻璃体内注射头孢他啶联合万古霉素，随后静脉给药，以及局部使用万古霉素、头孢他啶或氟喹诺酮类药物如莫西沙星（1, 3）。如果有眼球撕裂伤应避免使用软膏。
+将防护罩（如塑料或铝护眼罩或纸杯底部的三分之一）放在眼睛上并用胶带粘住，以避免无意中的压力将眼部内容物挤出穿透部位。必须避免使用贴片，因为它们也可能无意中对眼球施加压力。开放性眼球外伤后应行破伤风预防。
+当伴有眼球撕裂伤时，呕吐（疼痛导致）等可使眼内压升高，应予预防。如果出现恶心，应开止吐药。
+
+【前房积血 (前房出血)】
+前房积血通常由眼前段损伤引起，尤其是虹膜及其与巩膜连接处的损伤，导致血液积聚在前房。前房积血可能继发再出血、眼压升高、角膜血染等并发症，任何一种都可能导致永久性视力丧失。症状与损伤程度有关，除非前房出血量大而造成阻挡视野。直接检查通常显示前房有血细胞，有或没有血液分层，和/或前房有血栓。血平面看上去像新月形，位于前房重力部位（通常是在下部）。小前房积血是一种不太严重的前房积血，只能通过裂隙灯检查直接检查前房才能发现，这种检查可以看到悬浮的红细胞。
+眼科医师应尽快参与病人的诊治。患者需卧床，床头抬高30°至45°，并用眼罩保护眼睛避免遭受进一步的损伤（参见角膜擦伤和异物）。复发性出血高危患者（如有大前房积血、出血素质或镰状细胞病以及使用抗凝剂的患者）、IOP难以控制或可能不坚持推荐治疗的患者可住院治疗。如果前房积血的原因不明，应考虑检测出血异常。由于可能引起复发性出血，口服和局部使用非甾体抗炎药 (NSAIDs) 属于禁忌。抗纤维蛋白溶解剂，例如氨甲环酸，通常不常规使用，但对于再次出血或其他并发症风险高的患者可能有帮助（4）。
+治疗前房积血主要集中在对眼内压的管理上。眼压可能会急性升高（数小时内，通常见于患有镰状细胞病或具有镰状细胞特征的患者），也可能在数月至数年后升高。因此，每天监测IOP数天，然后在随后的几周和几个月内定期监测，如果出现症状（例如，眼痛、视力下降、恶心，所有这些症状都与急性闭角型青光眼的症状相似）。如果发现眼压升高，可予0.5%噻吗洛尔每天2次、0.2%或0.15%溴莫尼定每天2次，或两者同时给予。疗效取决于眼压的变化，药物治疗后通常每隔1-2个小时测量一次眼压，直到眼压得到控制或明显下降，之后，一般每天测1-2次。 常给予扩瞳药滴眼液（如0.25%东莨菪碱，每天3次，或1%阿托品，每天3次，连续5天）以及局部用糖皮质激素（如1%醋酸泼尼松，每日4-8次，连续2-3周），以减少炎症反应和疤痕形成。然而，支持使用散瞳剂和皮质类固醇治疗前房积血的证据尚不明确（5）。
+再出血因血块回缩而发生的报道显示，在高达 38%的患者中发生（4）。应咨询眼科医生进行治疗，因为再次出血可能比最初的出血更严重。可以考虑使用抗纤维蛋白溶解药物，并且缩瞳剂或散瞳药物也是可行的选择。眼压也应监测再出血情况。极少数情况下，再出血继发青光眼需要手术清除积血。
+该患者眼部外伤后出现外伤性前房积血（箭头）和结膜注射。
+© Springer Science+Business Media
+
+【眼眶爆裂性骨折】
+眼眶爆裂性骨折是钝性外力通过眶壁最脆弱的地方使眼内容物突出，通常是眶底 (6)。内侧、外侧和顶部骨折也可能发生。患者可能出现面部或眼眶疼痛、复视、眼球内陷、面颊和上唇麻木（眶下神经损伤所致）、鼻出血和 / 或皮下气肿。其他面部骨折或损伤也需要被排除。在所有眼眶骨折病例中，都必须考虑眼球、视神经和脑损伤，并根据情况进行评估。
+诊断最好的方法是经额面骨的薄层CT检查。若眼球运动受损（如导致复视），应评估眼外肌是否存在嵌顿迹象。
+如果出现复视或临床上明显的眼内陷，可能需要手术修复。然而，许多甚至大多数患有眼眶底骨折的患者可以保守治疗，无需手术。应告知患者避免擤鼻，以防空气反流引发眼眶骨筋膜室综合征 (7)。局部使用血管收缩剂2-3天可缓解鼻衄情况。 如果患者有鼻窦炎，应使用口服抗生素。
+
+【眼眶骨筋膜室综合征】
+眶腔综合征（OCS）是一种眼科急症。OCS发生在眼眶压力突然增加时，通常是由于外伤导致眼眶出血。任何增加眼眶体积（眼眶中的空气、血液或脓液）的事物都可能导致 OCS。症状可能包括突然视力下降、复视、眼部疼痛和眼睑肿胀 (8)。
+体格检查可能发现视力下降、结膜充血、瘀斑、眼球运动受限和 / 或疼痛、传入性瞳孔障碍、眼球突出、眼肌麻痹和眼压升高。诊断是临床诊断，不应因影像检查而延迟治疗（9）。
+治疗方法是立即进行外眦切开术和眦松解术（手术暴露外眦肌腱并切开其下分支），然后：
+监测住院病人情况，床头应抬高至45°
+监测住院病人情况，床头应抬高至45°
+治疗高眼压；在急性期，可以静脉注射甘露醇作为短期临时措施（只要没有全身或神经外科禁忌症）(10)
+治疗高眼压；在急性期，可以静脉注射甘露醇作为短期临时措施（只要没有全身或神经外科禁忌症）(10)
+逆转任何凝血障碍
+逆转任何凝血障碍
+防止眶内压力进一步增加（防止或减少疼痛、恶心、咳嗽、紧张、严重高血压）
+防止眶内压力进一步增加（防止或减少疼痛、恶心、咳嗽、紧张、严重高血压）
+冰敷或冷敷
+冰敷或冷敷
+咨询眼科医生，以考虑手术和/或其他特定专科治疗；药物治疗不应延误会诊和手术考虑
+咨询眼科医生，以考虑手术和/或其他特定专科治疗；药物治疗不应延误会诊和手术考虑
+
+【参考文献】
+1.Bhagat N, Nagori S, Zarbin M.Post-traumatic infectious endophthalmitis.Surv Ophthalmol6(3):214-251, 2011.doi: 10.1016/j.survophthal.2010.09.002
+1.Bhagat N, Nagori S, Zarbin M.Post-traumatic infectious endophthalmitis.Surv Ophthalmol6(3):214-251, 2011.doi: 10.1016/j.survophthal.2010.09.002
+2.Parchand S, Agrawal D, Ayyadurai N, et al: Sympathetic ophthalmia: A comprehensive update.Indian J Ophthalmol70(6):1931-1944, 2022.doi: 10.4103/ijo.IJO_2363_21
+2.Parchand S, Agrawal D, Ayyadurai N, et al: Sympathetic ophthalmia: A comprehensive update.Indian J Ophthalmol70(6):1931-1944, 2022.doi: 10.4103/ijo.IJO_2363_21
+3.Knox FA, Best RM, Kinsella F, et al: Management of endophthalmitis with retained intraocular foreign body.Eye (Lond)18(2):179-182, 2004.doi: 10.1038/sj.eye.6700567
+3.Knox FA, Best RM, Kinsella F, et al: Management of endophthalmitis with retained intraocular foreign body.Eye (Lond)18(2):179-182, 2004.doi: 10.1038/sj.eye.6700567
+4.Deans R, Noël LP, Clarke WN.Oral administration of tranexamic acid in the management of traumatic hyphema in children.Can J Ophthalmol27(4):181-183, 1992.PMID: 1633590
+4.Deans R, Noël LP, Clarke WN.Oral administration of tranexamic acid in the management of traumatic hyphema in children.Can J Ophthalmol27(4):181-183, 1992.PMID: 1633590
+5.Woreta FA, Lindsley KB, Gharaibeh A, Ng SM, Scherer RW, Goldberg MF.Medical interventions for traumatic hyphema.Cochrane Database Syst Rev3(3):CD005431, 2023.doi: 10.1002/14651858.CD005431.pub5
+5.Woreta FA, Lindsley KB, Gharaibeh A, Ng SM, Scherer RW, Goldberg MF.Medical interventions for traumatic hyphema.Cochrane Database Syst Rev3(3):CD005431, 2023.doi: 10.1002/14651858.CD005431.pub5
+6.Iftikhar M, Canner JK, Hall L, Ahmad M, Srikumaran D, Woreta FA.Characteristics of orbital floor fractures in the United States from 2006 to 2017.Ophthalmology128(3):463-470, 2021.doi: 10.1016/j.ophtha.2020.06.065
+6.Iftikhar M, Canner JK, Hall L, Ahmad M, Srikumaran D, Woreta FA.Characteristics of orbital floor fractures in the United States from 2006 to 2017.Ophthalmology128(3):463-470, 2021.doi: 10.1016/j.ophtha.2020.06.065
+7.Kersten RC, Vagefi MR, Bartley GB.Orbital "blowout" fractures: Time for a new paradigm.Ophthalmology125(6):796-798, 2018.doi: 10.1016/j.ophtha.2018.02.014
+7.Kersten RC, Vagefi MR, Bartley GB.Orbital "blowout" fractures: Time for a new paradigm.Ophthalmology125(6):796-798, 2018.doi: 10.1016/j.ophtha.2018.02.014
+8.Papadiochos I, Petsinis V, Sarivalasis S-E: Acute orbital compartment syndrome due to traumatic hemorrhage: 4-year case series and relevant literature review with emphasis on its management.Oral Maxillofac Surg27(1):101-116, 2023.doi: 10.1007/s10006-021-01036-9
+8.Papadiochos I, Petsinis V, Sarivalasis S-E: Acute orbital compartment syndrome due to traumatic hemorrhage: 4-year case series and relevant literature review with emphasis on its management.Oral Maxillofac Surg27(1):101-116, 2023.doi: 10.1007/s10006-021-01036-9
+9.Hatton MP, Rubin PA.Management of orbital compartment syndrome.Arch Ophthalmol125(3):433-434, 2007; author reply 434.doi: 10.1001/archopht.125.3.433-b
+9.Hatton MP, Rubin PA.Management of orbital compartment syndrome.Arch Ophthalmol125(3):433-434, 2007; author reply 434.doi: 10.1001/archopht.125.3.433-b
+10.Johnson D, Winterborn A, Kratky V.Efficacy of intravenous mannitol in the management of orbital compartment syndrome: A nonhuman primate model.Ophthalmic Plast Reconstr Surg32(3):187-190, 2016.doi: 10.1097/IOP.0000000000000463
+10.Johnson D, Winterborn A, Kratky V.Efficacy of intravenous mannitol in the management of orbital compartment syndrome: A nonhuman primate model.Ophthalmic Plast Reconstr Surg32(3):187-190, 2016.doi: 10.1097/IOP.0000000000000463
+前房出血最好的诊断方法是通过裂隙灯检查，患者需要卧床休息，同时将床头抬高30°-45°，并密切监测眼压情况。
+前房出血最好的诊断方法是通过裂隙灯检查，患者需要卧床休息，同时将床头抬高30°-45°，并密切监测眼压情况。
+对于导致复视或不可接受的眼球内陷的爆裂性骨折患者应进行手术修复。
+对于导致复视或不可接受的眼球内陷的爆裂性骨折患者应进行手术修复。
+眼眶间隔综合征患者立即行外侧眦切开术和下眦松解术，并立即进行眼科会诊。
+眼眶间隔综合征患者立即行外侧眦切开术和下眦松解术，并立即进行眼科会诊。
+眼球外伤可导致眼球裂伤、白内障、晶状体脱位、青光眼、玻璃体出血或视网膜损伤（出血、脱离，或水肿）。
+眼球外伤可导致眼球裂伤、白内障、晶状体脱位、青光眼、玻璃体出血或视网膜损伤（出血、脱离，或水肿）。
+治疗异物的方法包括清除异物，开局部抗菌素，有时还可以滴入睫状肌麻痹剂。
+治疗异物的方法包括清除异物，开局部抗菌素，有时还可以滴入睫状肌麻痹剂。
+如果荧光素从角膜缺损处流出，如果瞳孔不规则，或者损伤机制涉及高速机器（如钻头、锯子、任何金属对金属机制的东西）、锤击或爆炸，则怀疑是眼内异物。
+如果荧光素从角膜缺损处流出，如果瞳孔不规则，或者损伤机制涉及高速机器（如钻头、锯子、任何金属对金属机制的东西）、锤击或爆炸，则怀疑是眼内异物。
+切勿遮盖疑似受到穿透性损伤的眼睛。始终只使用眼罩。
+切勿遮盖疑似受到穿透性损伤的眼睛。始终只使用眼罩。
+眼内异物患者应给予全身和局部抗生素，使用眼罩，控制疼痛和恶心，并咨询眼科医生进行手术去除。
+眼内异物患者应给予全身和局部抗生素，使用眼罩，控制疼痛和恶心，并咨询眼科医生进行手术去除。

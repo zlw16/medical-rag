@@ -1,0 +1,74 @@
+标题：叶酸缺乏症
+来源：https://www.msdmanuals.cn/professional/nutritional-disorders/vitamin-deficiency-dependency-and-toxicity/folate-deficiency
+============================================================
+
+叶酸在植物性食物和肉类中含量很丰富，尤其是生的绿叶蔬菜、水果、内脏器官（如肝脏），但它在补充剂和强化食品中的生物利用度较其在天然食品中要高 (见表维生素的来源、功能和作用）。 在美国和加拿大，许多膳食（如谷物或谷物制品）已经添加强化了叶酸，可降低叶酸缺乏风险。
+叶酸参与红细胞的成熟，以及嘌呤和嘧啶的合成。胎儿神经系统的发育需要叶酸。叶酸经十二指肠和空肠近段吸收。形成肠肝循环。
+数据并不能令人信服地表明叶酸补充剂可以预防冠状动脉疾病或中风（即使它们可以降低同型半胱氨酸水平）（1）。目前的证据也不支持补充叶酸能够增加或减少罹患各种癌症的风险 (2)。目前尚不确定在抑郁症患者中使用补充叶酸、甲基四氢叶酸或 L-甲基叶酸或检测5,10-亚甲基四氢叶酸还原酶(MTHFR) 基因突变的任何作用。
+叶酸的可耐受最高摄入量为1000 微克；对曾经育有神经管缺陷胎儿的女性，推荐给予较高剂量叶酸（可高达4 毫克）。叶酸基本上是无毒性的。
+同时服用口服避孕药和抗惊厥药物的女性可能需要服用叶酸补充剂，以维持避孕效果。
+(参见维生素概述。)
+
+【参考文献】
+1.Li Y, Huang T, Zheng Y, Muka T, Troup J, Hu FB.Folic Acid Supplementation and the Risk of Cardiovascular Diseases: A Meta-Analysis of Randomized Controlled Trials.J Am Heart Assoc.2016;5(8):e003768.Published 2016 Aug 15.doi:10.1161/JAHA.116.003768
+1.Li Y, Huang T, Zheng Y, Muka T, Troup J, Hu FB.Folic Acid Supplementation and the Risk of Cardiovascular Diseases: A Meta-Analysis of Randomized Controlled Trials.J Am Heart Assoc.2016;5(8):e003768.Published 2016 Aug 15.doi:10.1161/JAHA.116.003768
+2.Wien TN, Pike E, Wisløff T, Staff A, Smeland S, Klemp M.Cancer risk with folic acid supplements: a systematic review and meta-analysis.BMJ Open.2012;2(1):e000653.Published 2012 Jan 12.doi:10.1136/bmjopen-2011-000653
+2.Wien TN, Pike E, Wisløff T, Staff A, Smeland S, Klemp M.Cancer risk with folic acid supplements: a systematic review and meta-analysis.BMJ Open.2012;2(1):e000653.Published 2012 Jan 12.doi:10.1136/bmjopen-2011-000653
+
+【叶酸缺乏的病因】
+叶酸缺乏最常见的原因是：
+摄入不足（通常见于营养不良患者或酒精使用障碍患者中）
+摄入不足（通常见于营养不良患者或酒精使用障碍患者中）
+需要量增加（例如，由于怀孕或哺乳）
+需要量增加（例如，由于怀孕或哺乳）
+吸收功能障碍（例如，在乳糜泻中或受某些药物影响）
+吸收功能障碍（例如，在乳糜泻中或受某些药物影响）
+生物利用度低下和排泄增加也可导致缺乏症（见表叶酸缺乏的原因）。
+
+【叶酸缺乏的病因】
+叶酸缺乏的病因
+摄入不足
+膳食中缺乏生的绿叶蔬菜或强化谷物、慢性酒精使用障碍、肠外营养
+吸收障碍
+乳糜泻、口炎性腹泻、其他吸收不良综合征、抗癫痫药物、先天性或获得性叶酸吸收不良
+生物利用率低下
+叶酸拮抗剂（二甲双胍，甲氨蝶呤，氨苯蝶啶，甲氧苄啶），抗癫痫药；先天性 / 获得性酶缺乏；酒精使用障碍
+需要量增加
+妊娠、哺乳、婴儿期、代谢增强
+排泄增加
+肾透析（腹膜或血液透析）
+长时间烹饪会破坏叶酸，从而导致摄入不足。 有时摄入量不足（例如，酗酒者）。肝脏储存量仅能满足几个月的供应。
+酒精能干扰叶酸的吸收、代谢、肾排泄和肠肝再吸收，导致摄入不足。5-氟脲嘧啶、二甲双胍、甲氨蝶呤、苯巴比妥、苯妥英、氨苯蝶啶和甲氧苄啶会损害叶酸代谢。
+
+【叶酸缺乏的症状和体征】
+叶酸缺乏可能导致舌炎、腹泻、抑郁和精神错乱。贫血可能隐匿发展，并且由于代偿机制，贫血严重程度可能超过症状所提示的程度。
+孕期叶酸缺乏增加了胎儿神经管缺陷以及其他脑发育缺陷的危险性。
+
+【叶酸缺乏的诊断】
+CBC、维生素B12、叶酸的水平测定
+CBC、维生素B12、叶酸的水平测定
+全血细胞计数结果可显示巨幼红细胞性贫血，与维生素B12缺乏所致的贫血难以区分。
+若血清叶酸<微克 / 升（或纳克 / 毫升，（<7纳摩尔 / 升），提示缺乏叶酸的可能性大。在近期叶酸摄入量没有明显改变的情况下，血清叶酸能够反映叶酸的体内水平。如果近期摄入量发生改变，测定红细胞（RBC）的叶酸水平能比较准确地反映组织中叶酸储备的情况。 测定结果<140mcg/L或 ng/mL（<305nmol/L）表明存在缺乏。
+另外，同型半胱氨酸水平增高提示组织叶酸缺乏（但其水平也可受维生素B12和维生素B6水平、以及肾功能不全和遗传因素的影响）。而甲基丙二酸（MMA）水平正常可以有助于鉴别叶酸缺乏与维生素B12缺乏，在维生素B12缺乏时MMA水平升高，但是叶酸缺乏时MMA没有变化。
+
+【叶酸缺乏的治疗】
+口服补充叶酸
+口服补充叶酸
+每天一次口服400～1000 mcg叶酸能有效补充组织中的储备，即便缺乏的原因是吸收障碍。 正常需要量是400mcg/d。（警告：对于巨幼细胞性贫血患者，在给予叶酸治疗前必须排除维生素 B12 缺乏。若存在维生素 B12 缺乏，叶酸补充虽可缓解贫血，但无法逆转神经功能缺损，甚至可能使其加重。）
+孕妇叶酸的每日推荐供给量（RDA）是600mcg/d。所有怀孕或计划怀孕或可能怀孕的女性都应服用叶酸补充剂，每天口服 400 至 800 微克（1）。对于曾生育过神经管缺陷胎儿 / 婴儿的女性，推荐剂量为 4000 微克 / 天，尽可能在受孕前 3 个月开始服用，并持续至妊娠 12 周 (2)。
+
+【治疗参考文献】
+1.US Preventive Services Task Force, Barry MJ, Nicholson WK, et al: Folic Acid Supplementation to Prevent Neural Tube Defects: US Preventive Services Task Force Reaffirmation Recommendation Statement.JAMA.2023;330(5):454-459.doi:10.1001/jama.2023.12876
+1.US Preventive Services Task Force, Barry MJ, Nicholson WK, et al: Folic Acid Supplementation to Prevent Neural Tube Defects: US Preventive Services Task Force Reaffirmation Recommendation Statement.JAMA.2023;330(5):454-459.doi:10.1001/jama.2023.12876
+2.American College of Obstetricians and Gynecologists (ACOG): Practice Bulletin No. 187: Neural Tube Defects.Obstet Gynecol.2017 (reaffirmed 2021); 130(6):e279-e290.doi:10.1097/AOG.0000000000002412
+2.American College of Obstetricians and Gynecologists (ACOG): Practice Bulletin No. 187: Neural Tube Defects.Obstet Gynecol.2017 (reaffirmed 2021); 130(6):e279-e290.doi:10.1097/AOG.0000000000002412
+最常见的病因是摄入不足（如酗酒）、需要量增加（如因怀孕）以及吸收障碍（如某些药物或者影响吸收的疾病引起）。
+最常见的病因是摄入不足（如酗酒）、需要量增加（如因怀孕）以及吸收障碍（如某些药物或者影响吸收的疾病引起）。
+长时间高温烹煮会破坏叶酸，但很多膳食已经强化补充了叶酸。
+长时间高温烹煮会破坏叶酸，但很多膳食已经强化补充了叶酸。
+叶酸缺乏会引起巨幼红细胞性贫血，以及有时可能出现舌炎、腹泻、抑郁和谵妄。
+叶酸缺乏会引起巨幼红细胞性贫血，以及有时可能出现舌炎、腹泻、抑郁和谵妄。
+对于巨幼红细胞性贫血的患者应该进行血清中叶酸和维生素B12水平的检测。
+对于巨幼红细胞性贫血的患者应该进行血清中叶酸和维生素B12水平的检测。
+每天口服叶酸400～1000 mcg治疗叶酸缺乏症。
+每天口服叶酸400～1000 mcg治疗叶酸缺乏症。

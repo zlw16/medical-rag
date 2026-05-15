@@ -1,0 +1,71 @@
+标题：圣约翰草
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/st-john-s-wort
+============================================================
+
+圣约翰草 (Hypericum perforatum) (SJW) 的花朵中含有其生物活性成分金丝桃素和贯叶金丝桃素。圣约翰草可增加神经系统中5-羟色胺的浓度，在大剂量使用时表现出类似单胺氧化酶抑制剂（MAOI）的效应。
+
+【圣约翰草的功效宣称】
+研究结果是不相同的，但SJW可能对没有自杀念头的轻度至中度抑郁症患者有益。已有关于圣约翰草对于治疗重度抑郁症的精心设计的大规模研究。推荐的制剂包括标准化为0.2至0.3%金丝桃素，1至4%贯叶金丝桃素，或两者兼有的制剂（通常）。
+圣约翰草也被认为可用于治疗HIV感染，因为金丝桃素能抑制多种带有包膜的病毒，包括HIV，但已被证明与蛋白酶抑制剂和非核苷类逆转录酶抑制剂（NNRTIs）有不良相互作用，因此应避免使用（1， 2)。
+圣约翰草（SJW）亦被宣称可用于治疗皮肤疾病（包括银屑病），以及儿童注意缺陷/多动障碍（ADHD）。它还被认为有助于减轻更年期症状。
+
+【圣约翰草的证据】
+众多随机安慰剂对照研究对SJW治疗轻度至中度抑郁及重度忧郁症中的安全性和有效性进行了评价 (3–8)。 SJW 还与三环类抗抑郁药（阿米替林、丙咪嗪）以及最近与选择性 5-羟色胺再摄取抑制剂 (SSRIs) 氟西汀、舍曲林和帕罗西汀进行了比较 (4-8)。 最安慰剂对照研究显示，服用SJW的标准化提取物300毫克-900毫克的剂量范围每日一次对治疗轻度至中度抑郁症状有效。一些研究表明，900毫克SJW的治疗效果等同于低剂量丙咪嗪和低剂量氟西汀。严重抑郁症患者的研究未能显示在安慰剂或标准剂量的舍曲林短时间使用有显著改进 (7)。然而，作者指出，长时间服用SJW和舍曲林均同样有效，认为当不考虑药物相互作用的情况下，低剂量使用SJW替代治疗的潜在的经济价值。 (7)。
+总体而言，一些研究表明SJW的功效在治疗轻度抑郁，而大多数对重症抑郁症的研究没有显示出效果。研究设计上的差异（缺乏主动控制和安慰剂），研究人群（重度VS轻/中度抑郁症），服用时间的长短，以及SJW或比色仪试剂的剂量，都可能对研究结果产生影响。
+2016年对35项研究（6993名受试者）进行的系统评价将SJW与安慰剂或常规抗抑郁药进行了比较 (9)。SJW对轻度至中度抑郁症的疗效优于安慰剂，但与常规抗抑郁药没有区别。但是研究是异质的，且没有研究严重抑郁症 (9)。 2017年对27项研究（3808名受试者）进行的荟萃分析比较了SJW和SSRI。SJW在轻度至中度抑郁症的治疗应答和缓解方面与SSRI相当，但停药率较低 (10)。
+世界生物精神病学学会联合会（WFSBP）和加拿大情绪与焦虑治疗网络（CANMAT）工作组的临床指南指出，圣约翰草单药疗法可用于轻中度单相抑郁症（11）。
+一项包含717名更年期女性的6项试验的荟萃分析评估了圣约翰草单药治疗或与黑升麻或贞洁莓联合治疗与安慰剂相比治疗更年期症状的效果。尽管作者得出结论，圣约翰草或其与其他植物疗法的组合可能有助于缓解更年期症状，但他们指出所评估的研究存在很大的异质性，并建议进行进一步的研究（12）。一项针对80名患有轻度抑郁症的绝经后妇女的随机试验表明，不仅对更年期症状有益，而且对抑郁症也有一定益处（13）。
+两项小型试点研究表明，局部使用金丝桃素治疗皮肤病（如牛皮癣）可潜在改善皮肤病变（14，15）。另一项小型试验显示，贯叶连翘（SJW，标准化为金丝桃素含量，而非金丝桃酚）并不能缓解儿童注意缺陷/多动障碍（ADHD）的症状（16）。
+
+【圣约翰草的不良反应】
+可能会出现畏光、口干、便秘、头晕、混乱和躁狂（双向情感障碍患者）。报告了一例罕见的室上性心动过速（17)。SJW不应被孕妇和哺乳期妇女使用。
+
+【圣约翰草的药物相互作用】
+环孢菌素、地高辛、铁补充剂、单胺氧化酶抑制剂（MAOIs）、非核苷逆转录酶抑制剂（NNRTIs）、口服避孕药、阿片类药物、蛋白酶抑制剂、SSRIs、三环类抗抑郁药、华法林以及一些直接作用的口服抗凝血剂可能会产生不良相互作用(18–20)。(参考表一些可能的膳食补充剂-药物相互作用。）
+
+【参考文献】
+1.Maury W, Price JP, Brindley MA, et al.Identification of light-independent inhibition of human immunodeficiency virus-1 infection through bioguided fractionation ofHypericum perforatum.Virol J.6:101-113, 2009.doi:10.1186/1743-422X-6-101
+1.Maury W, Price JP, Brindley MA, et al.Identification of light-independent inhibition of human immunodeficiency virus-1 infection through bioguided fractionation ofHypericum perforatum.Virol J.6:101-113, 2009.doi:10.1186/1743-422X-6-101
+2.Kakuda TN, Schöller-Gyüre M, Hoetelmans RM.Pharmacokinetic interactions betweenetravirineand non-antiretroviral drugs.Clin Pharmacokinet.50(1):25-39, 2011.doi: 10.2165/11534740-000000000-00000
+2.Kakuda TN, Schöller-Gyüre M, Hoetelmans RM.Pharmacokinetic interactions betweenetravirineand non-antiretroviral drugs.Clin Pharmacokinet.50(1):25-39, 2011.doi: 10.2165/11534740-000000000-00000
+3.Solomon D, Adams J, Graves N.Economic evaluation of St. John's wort (Hypericum perforatum) for the treatment of mild to moderate depression.J Affect Disord.148(2-3):228-234, 2013.doi: 10.1016/j.jad.2012.11.064
+3.Solomon D, Adams J, Graves N.Economic evaluation of St. John's wort (Hypericum perforatum) for the treatment of mild to moderate depression.J Affect Disord.148(2-3):228-234, 2013.doi: 10.1016/j.jad.2012.11.064
+4.van Gurp G, Meterissian GB, Haiek LN, et al.St John's wort orsertraline?Randomized controlled trial in primary care.Can Fam Physician.48:905-912, 2002
+4.van Gurp G, Meterissian GB, Haiek LN, et al.St John's wort orsertraline?Randomized controlled trial in primary care.Can Fam Physician.48:905-912, 2002
+5.Woelk H.Comparison of St John's wort andimipraminefor treating depression: randomised controlled trial.BMJ.321(7260):536-539, 2000.doi: 10.1136/bmj.321.7260.536
+5.Woelk H.Comparison of St John's wort andimipraminefor treating depression: randomised controlled trial.BMJ.321(7260):536-539, 2000.doi: 10.1136/bmj.321.7260.536
+6.Fava M, Alpert J, Nierenberg AA, et al.A double-blind, randomized trial of St John's wort,fluoxetine, and placebo in major depressive disorder.J Clin Psychopharmacol.25(5):441-447, 2005.doi:10.1097/01.jcp.0000178416.60426.29
+6.Fava M, Alpert J, Nierenberg AA, et al.A double-blind, randomized trial of St John's wort,fluoxetine, and placebo in major depressive disorder.J Clin Psychopharmacol.25(5):441-447, 2005.doi:10.1097/01.jcp.0000178416.60426.29
+7.Sarris J, Fava M, Schweitzer I, et al.St John's wort (Hypericum perforatum) versussertralineand placebo in major depressive disorder: continuation data from a 26-week RCT.Pharmacopsychiatry.45(7):275-278, 2012.doi: 10.1055/s-0032-1306348
+7.Sarris J, Fava M, Schweitzer I, et al.St John's wort (Hypericum perforatum) versussertralineand placebo in major depressive disorder: continuation data from a 26-week RCT.Pharmacopsychiatry.45(7):275-278, 2012.doi: 10.1055/s-0032-1306348
+8.Seifritz E, Hatzinger M, Holsboer-Trachsler E.Efficacy of Hypericum extract WS(R) 5570 compared withparoxetinein patients with a moderate major depressive episode - a subgroup analysis.Int J Psychiatry Clin Pract.20(3):126-32, 2016.doi: 10.1080/13651501.2016.1179765
+8.Seifritz E, Hatzinger M, Holsboer-Trachsler E.Efficacy of Hypericum extract WS(R) 5570 compared withparoxetinein patients with a moderate major depressive episode - a subgroup analysis.Int J Psychiatry Clin Pract.20(3):126-32, 2016.doi: 10.1080/13651501.2016.1179765
+9.Apaydin EA, Maher AR, Shanman R, et al.A systematic review of St. John's wort for major depressive disorder.Systematic Reviews.5:148, 2016.doi: 10.1186/s13643-016-0325-2
+9.Apaydin EA, Maher AR, Shanman R, et al.A systematic review of St. John's wort for major depressive disorder.Systematic Reviews.5:148, 2016.doi: 10.1186/s13643-016-0325-2
+10.Ng QX, Venkatanarayanan N, Ho CY.Clinical use of Hypericum perforatum (St John's wort) in depression: a meta-analysis.J Affect Disord.210:211-221, 2017.doi: 10.1016/j.jad.2016.12.048
+10.Ng QX, Venkatanarayanan N, Ho CY.Clinical use of Hypericum perforatum (St John's wort) in depression: a meta-analysis.J Affect Disord.210:211-221, 2017.doi: 10.1016/j.jad.2016.12.048
+11.Sarris J, Ravindran A, Yatham LN, et al.Clinician guidelines for the treatment of psychiatric disorders with nutraceuticals and phytoceuticals: The World Federation of Societies of Biological Psychiatry (WFSBP) and Canadian Network for Mood and Anxiety Treatments (CANMAT) Taskforce.World J Biol Psychiatry.2022 Jul;23(6):424-455.doi: 10.1080/15622975.2021.2013041
+11.Sarris J, Ravindran A, Yatham LN, et al.Clinician guidelines for the treatment of psychiatric disorders with nutraceuticals and phytoceuticals: The World Federation of Societies of Biological Psychiatry (WFSBP) and Canadian Network for Mood and Anxiety Treatments (CANMAT) Taskforce.World J Biol Psychiatry.2022 Jul;23(6):424-455.doi: 10.1080/15622975.2021.2013041
+12.Liu YR, Jiang YL, Huang RQ, Yang JY, Xiao BK, Dong JX.Hypericum perforatum L.preparations for menopause: a meta-analysis of efficacy and safety.Climacteric.2014 Aug;17(4):325-35.doi: 10.3109/13697137.2013.861814
+12.Liu YR, Jiang YL, Huang RQ, Yang JY, Xiao BK, Dong JX.Hypericum perforatum L.preparations for menopause: a meta-analysis of efficacy and safety.Climacteric.2014 Aug;17(4):325-35.doi: 10.3109/13697137.2013.861814
+13.Eatemadnia A, Ansari S, Abedi P, Najar S.The effect of Hypericum perforatum on postmenopausal symptoms and depression: A randomized controlled trial.Complement Ther Med.2019 Aug;45:109-113.doi: 10.1016/j.ctim.2019.05.028.Epub 2019 May 31.PMID: 31331546.
+13.Eatemadnia A, Ansari S, Abedi P, Najar S.The effect of Hypericum perforatum on postmenopausal symptoms and depression: A randomized controlled trial.Complement Ther Med.2019 Aug;45:109-113.doi: 10.1016/j.ctim.2019.05.028.Epub 2019 May 31.PMID: 31331546.
+14.Najafizadeh P, Hashemian F, Mansouri P, et al.The evaluation of the clinical effect of topical St Johns wort (Hypericum perforatum L.) in plaque type psoriasis vulgaris: a pilot study.Australas J.53(2):131-135, 2012.doi: 10.1111/j.1440-0960.2012.00877.x
+14.Najafizadeh P, Hashemian F, Mansouri P, et al.The evaluation of the clinical effect of topical St Johns wort (Hypericum perforatum L.) in plaque type psoriasis vulgaris: a pilot study.Australas J.53(2):131-135, 2012.doi: 10.1111/j.1440-0960.2012.00877.x
+15.Rook AH, Wood GS, Duvic M, et al.A phase II placebo-controlled study of photodynamic therapy with topical hypericin and visible light irradiation in the treatment of cutaneous T-cell lymphoma and psoriasis.J Am Acad Dermatol.63(6):984-990, 2010.doi: 10.1016/j.jaad.2010.02.039
+15.Rook AH, Wood GS, Duvic M, et al.A phase II placebo-controlled study of photodynamic therapy with topical hypericin and visible light irradiation in the treatment of cutaneous T-cell lymphoma and psoriasis.J Am Acad Dermatol.63(6):984-990, 2010.doi: 10.1016/j.jaad.2010.02.039
+16.Weber W, Vander Stoep A, McCarty RL, et al:.Hypericum perforatum(St John's wort) for attention-deficit/hyperactivity disorder in children and adolescents: a randomized controlled trial.JAMA.299(22):633-2641, 2008.doi: 10.1001/jama.299.22.2633
+16.Weber W, Vander Stoep A, McCarty RL, et al:.Hypericum perforatum(St John's wort) for attention-deficit/hyperactivity disorder in children and adolescents: a randomized controlled trial.JAMA.299(22):633-2641, 2008.doi: 10.1001/jama.299.22.2633
+17.Fisher KA, Patel P, Abualula S, Concepion L.St. John's wort-induced supraventricular tachycardia.Cureus.13(4):e14356, 2021.doi:10.7759/cureus.14356
+17.Fisher KA, Patel P, Abualula S, Concepion L.St. John's wort-induced supraventricular tachycardia.Cureus.13(4):e14356, 2021.doi:10.7759/cureus.14356
+18.Borrelli F, Izzo AA.Herb-drug interactions with St John's wort (Hypericum perforatum): an update on clinical observations.AAPS J.11(4):710-727, 2009. doi: 10.1208/s12248-009-9146-8
+18.Borrelli F, Izzo AA.Herb-drug interactions with St John's wort (Hypericum perforatum): an update on clinical observations.AAPS J.11(4):710-727, 2009. doi: 10.1208/s12248-009-9146-8
+19.Nadkarni A, Oldham MA, Howard M, et al.Drug-drug interactions betweenwarfarinand psychotropics: updated review of the literature.Pharmacotherapy.32(10):932-942.2012.doi: 10.1002/j.1875-9114.2012.01119
+19.Nadkarni A, Oldham MA, Howard M, et al.Drug-drug interactions betweenwarfarinand psychotropics: updated review of the literature.Pharmacotherapy.32(10):932-942.2012.doi: 10.1002/j.1875-9114.2012.01119
+20.Tsai HH, Lin HW, Simon Pickard A, et al.Evaluation of documented drug interactions and contraindications associated with herbs and dietary supplements: a systematic literature review.Int J Clin Pract.66(11):1056-1078, 2012.doi: 10.1111/j.1742-1241.2012.03008.x
+20.Tsai HH, Lin HW, Simon Pickard A, et al.Evaluation of documented drug interactions and contraindications associated with herbs and dietary supplements: a systematic literature review.Int J Clin Pract.66(11):1056-1078, 2012.doi: 10.1111/j.1742-1241.2012.03008.x
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: St. John’s Wort
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: St. John’s Wort

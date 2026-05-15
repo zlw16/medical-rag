@@ -1,0 +1,28 @@
+标题：磁体
+来源：https://www.msdmanuals.cn/professional/special-subjects/integrative-complementary-and-alternative-medicine/magnets
+============================================================
+
+磁疗(一种能量疗法)利用静电磁场（由永磁体产生恒定场）或脉冲电磁场（由电磁铁产生的间歇磁场）。操作者将磁体置于身上或将身体受伤部位置于诱导电场中以达到减轻疼痛或强化治疗的目的。
+
+【证据和使用】
+磁体是一种特别流行的对肌肉骨骼疾病和神经性疼痛的常用治疗，尽管有关其疗效的数据不一。
+对于静态磁疗，系统评价发现对慢性疼痛和颈部疼痛没有益处(1)，高质量的研究发现对骨关节炎和类风湿关节炎没有益处(2)。
+脉冲电磁疗法的生物效应与静态磁疗法显著不同，有证据表明脉冲电磁疗法可能缓解疼痛。一项荟萃分析发现，高频重复经颅磁刺激可以缓解神经性疼痛（3)。 另一项研究显示，膝骨关节炎患者的身体机能有所改善，但疼痛或僵硬没有改善 (4）。
+重复经颅磁刺激（rTMS）对于卒中后抑郁症具有合理的有效性证据。此外，在脑卒中康复方面，多项荟萃分析与系统评价显示，经颅磁刺激（rTMS）在促进运动功能恢复、改善手部功能、调节肌张力及提高总体功能障碍评分方面具有显著疗效，其中高频及双模式 rTMS 均表现出良好的治疗效果（5, 6）。
+
+【可能的禁忌证】
+包括孕妇（对胎儿影响不明）和植入心脏装置、胰岛素泵或贴片用药。
+
+【参考文献】
+1.Kroeling P, Gross A, Graham N, et al.Electrotherapy for neck pain.Cochrane Database Syst Rev.(8):CD004251, 2013.doi: 10.1002/14651858.CD004251.pub5
+1.Kroeling P, Gross A, Graham N, et al.Electrotherapy for neck pain.Cochrane Database Syst Rev.(8):CD004251, 2013.doi: 10.1002/14651858.CD004251.pub5
+2.Pittler MH, Brown EM, Ernst E.Static magnets for reducing pain: systematic review and meta-analysis of randomized trials.CMAJ.177(7):736–42, 2007.
+2.Pittler MH, Brown EM, Ernst E.Static magnets for reducing pain: systematic review and meta-analysis of randomized trials.CMAJ.177(7):736–42, 2007.
+3.Jin Y, Xing G, Li G, et al.High frequency repetitive transcranial magnetic stimulation therapy for chronic neuropathic pain: a meta-analysis.Pain Physician.18(6):E1029-46, 2015.
+3.Jin Y, Xing G, Li G, et al.High frequency repetitive transcranial magnetic stimulation therapy for chronic neuropathic pain: a meta-analysis.Pain Physician.18(6):E1029-46, 2015.
+4.Chen L, Duan X, Xing F, et al.Effects of pulsed electromagnetic field therapy on pain, stiffness and physical function in patients with knee osteoarthritis: a systematic review and meta-analysis of randomized controlled trials.J Rehabil Med.16;51(11):821-827, 2019.doi: 10.2340/16501977-2613
+4.Chen L, Duan X, Xing F, et al.Effects of pulsed electromagnetic field therapy on pain, stiffness and physical function in patients with knee osteoarthritis: a systematic review and meta-analysis of randomized controlled trials.J Rehabil Med.16;51(11):821-827, 2019.doi: 10.2340/16501977-2613
+5.Chen G, Wu M, Lin T, et al.Effects of repetitive transcranial magnetic stimulation on sequelae in patients with chronic stroke: A systematic review and meta-analysis of randomized controlled trials.Front Neurosci.2022;16:998820.Published 2022 Oct 20.doi:10.3389/fnins.2022.998820
+5.Chen G, Wu M, Lin T, et al.Effects of repetitive transcranial magnetic stimulation on sequelae in patients with chronic stroke: A systematic review and meta-analysis of randomized controlled trials.Front Neurosci.2022;16:998820.Published 2022 Oct 20.doi:10.3389/fnins.2022.998820
+6.Li H, Lin X, Chen N, Wu X.Four Comparative Effectiveness of Rehabilitation Methods Combined With rTMS on Cognition, Mood, and Quality of Life in Stroke Patients.Arch Phys Med Rehabil.Published online April 24, 2025.doi:10.1016/j.apmr.2025.04.013
+6.Li H, Lin X, Chen N, Wu X.Four Comparative Effectiveness of Rehabilitation Methods Combined With rTMS on Cognition, Mood, and Quality of Life in Stroke Patients.Arch Phys Med Rehabil.Published online April 24, 2025.doi:10.1016/j.apmr.2025.04.013

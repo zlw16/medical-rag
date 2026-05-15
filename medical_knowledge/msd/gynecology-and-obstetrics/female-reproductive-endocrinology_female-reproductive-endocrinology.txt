@@ -1,0 +1,124 @@
+标题：女性生殖内分泌学
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/female-reproductive-endocrinology/female-reproductive-endocrinology
+============================================================
+
+下丘脑、腺垂体与卵巢之间的激素相互作用，调控着女性生殖系统。
+下丘脑分泌一种称为促性腺激素释放激素（GnRH）的小肽，又称为黄体生成素释放激素。
+GnRH调控垂体前叶特定细胞（促性腺激素细胞）分泌促性腺激素黄体生成素（LH）和卵泡刺激素（FSH）（见图中枢神经系统-下丘脑-垂体-性腺靶器官轴）。这些激素呈短脉冲式释放，脉冲频率为每１～４小时一次。 LH和FSH能促进排卵，刺激卵巢分泌性激素雌二醇（一种雌激素）和孕酮。
+雌激素和孕激素在血液中循环时，几乎完全与血浆蛋白结合。仅有未结合的雌激素和孕激素有生物学活性。它们刺激生殖系统的目标器官（如子宫、阴道）和乳房。它们通常会抑制（称为负反馈），但在某些情况下（如排卵前后），可能会刺激促性腺激素的分泌。
+
+【中枢神经系统－下丘脑－垂体－性腺靶器官轴】
+中枢神经系统－下丘脑－垂体－性腺靶器官轴
+卵巢分泌的激素对其他组织有直接或间接的作用（如骨骼、皮肤和肌肉）。
+FSH=卵泡刺激素；GnRH=促性腺激素释放激素；LH=黄体生成素。
+青春期是儿童获得成人体格特征和生育能力的一系列过程。出生时循环中的黄体生成素（LH）和卵泡刺激素（FSH）水平较高，但数月内降至低水平，并维持低水平直至青春期。在青春期前生殖器官几乎不发生任何变化。
+
+【青春期启动的年龄】
+青春期启动的年龄和不同阶段的发展速度受到不同因素的影响。在过去的150年里，青春期启动的时间提前了，主要原因是健康状况和营养状况得到了改善，但这个趋势目前已经稳定了。在美国，青春期开始的平均年龄为12.5岁，但具体开始时间因种族和民族而异（1）。
+中度肥胖女孩的青春期常早于平均水平，而严重低体重和营养不良的女孩则晚于平均水平(2)。这些观察结果提示体重水平或脂肪含量是青春期启动的关键要素。
+许多其他因素会影响青春期的启动和发展进程。母亲初潮年龄较早的女孩，青春期发育也会偏早（3);青春期还受地理位置和环境毒物的影响（4）。此外，胎儿或新生儿因素可能影响生殖功能。例如，有部分证据表明，宫内生长受限（尤其后续伴随出生后过度喂养时）可能导致青春期发育更早、进展更快 (5)。其他研究表明，小于胎龄儿的青春期进展更为提前（6）。
+
+【青春期体格变化】
+青春期的生理变化在青少年时期依次发生（见图青春期——女性性征发育的时期）。
+
+【青春期－女性性征发育时期】
+青春期－女性性征发育时期
+长条表示正常范围。
+乳房发育（见图女孩乳房发育坦纳 Ⅰ-Ⅴ 期；7）和生长突增启动，通常是最先被识别的青春期变化。
+
+【女孩乳房发育的Tanner I至V期】
+女孩乳房发育的Tanner I至V期
+From Marshall WA, Tanner JM: Variations in pattern of pubertal changes in girls.Arch Dis Child44:291–303, 1969; used with permission.
+然后，出现阴毛和腋毛（见图女孩阴毛发育坦纳 Ⅰ-Ⅴ 期），生长突增达到峰值。
+
+【女孩阴毛发育坦纳 Ⅰ-Ⅴ 期】
+女孩阴毛发育坦纳 Ⅰ-Ⅴ 期
+From Marshall WA, Tanner JM: Variations in patterns of pubertal changes in girls.Archives of Disease in Childhood44:291–303, 1969; used with permission.
+初潮（第一次月经）发生在乳房发育后2~3年。初潮后的月经周期通常不规律，可能需要长达 5 年时间才会变得规律。初潮后，生长突增的空间会受限。体型改变，骨盆和臀部变宽。身体脂肪增加，主要积聚在臀部和大腿。
+
+【青春期启动的机制】
+青春期启动的机制尚不清楚。
+调控促性腺激素释放激素（GnRH）分泌的中枢因素包括神经递质和肽类物质（如 γ- 氨基丁酸 [GABA]、亲吻肽）。这些因素在儿童期可能抑制 GnRH 分泌，进入青春期早期后则启动其分泌，从而诱发青春期发育。在青春期早期，下丘脑GnRH的释放对雌激素和孕激素的抑制变得不敏感。GnRH 分泌增加会促进黄体生成素（LH）和卵泡刺激素（FSH）分泌，进而刺激性激素，主要是雌激素的生成。雌激素促进第二性征的发育。
+阴毛和腋毛的生长由肾上腺雄激素（脱氢表雄酮 [DHEA] 和硫酸脱氢表雄酮）刺激引发；这些雄激素的生成在青春期前数年便开始增加，这一过程称为肾上腺皮质功能初现。
+
+【青春期参考文献】
+1.Anderson SE, Must A.Interpreting the continued decline in the average age at menarche: results from two nationally representative surveys of U.S. girls studied 10 years apart.J Pediatr2005;147 (6):753–60.doi:10.1016/j.jpeds.2005.07.016
+1.Anderson SE, Must A.Interpreting the continued decline in the average age at menarche: results from two nationally representative surveys of U.S. girls studied 10 years apart.J Pediatr2005;147 (6):753–60.doi:10.1016/j.jpeds.2005.07.016
+2.Rosenfield RL, Lipton RB, Drum ML.Thelarche, pubarche, and menarche attainment in children with normal and elevated body mass index [published correction appears inPediatrics. 2009 Apr;123(4):1255].Pediatrics.2009;123(1):84-88.doi:10.1542/peds.2008-0146
+2.Rosenfield RL, Lipton RB, Drum ML.Thelarche, pubarche, and menarche attainment in children with normal and elevated body mass index [published correction appears inPediatrics. 2009 Apr;123(4):1255].Pediatrics.2009;123(1):84-88.doi:10.1542/peds.2008-0146
+3.Sørensen S, Brix N, Ernst A, et al.Maternal age at menarche and pubertal development in sons and daughters: a Nationwide Cohort Study.Hum Reprod.2018;33 (11):2043–2050, 2018.doi:10.1093/humrep/dey287
+3.Sørensen S, Brix N, Ernst A, et al.Maternal age at menarche and pubertal development in sons and daughters: a Nationwide Cohort Study.Hum Reprod.2018;33 (11):2043–2050, 2018.doi:10.1093/humrep/dey287
+4.Eckert-Lind C, Busch AS, Petersen JH, et al.Worldwide Secular Trends in Age at Pubertal Onset Assessed by Breast Development Among Girls: A Systematic Review and Meta-analysis.JAMA Pediatr2020; 174 (4):e195881.doi:10.1001/jamapediatrics.2019.5881
+4.Eckert-Lind C, Busch AS, Petersen JH, et al.Worldwide Secular Trends in Age at Pubertal Onset Assessed by Breast Development Among Girls: A Systematic Review and Meta-analysis.JAMA Pediatr2020; 174 (4):e195881.doi:10.1001/jamapediatrics.2019.5881
+5.Darendeliler F.IUGR: Genetic influences, metabolic problems, environmental associations/triggers, current and future management.Best Pract Res Clin Endocrinol Metab2019;33 (3):101260.doi:10.1016/j.beem.2019.01.001
+5.Darendeliler F.IUGR: Genetic influences, metabolic problems, environmental associations/triggers, current and future management.Best Pract Res Clin Endocrinol Metab2019;33 (3):101260.doi:10.1016/j.beem.2019.01.001
+6.Veening MA, van Weissenbruch MM, Roord JJ, de Delmemarre-van Waal HA.小于胎龄儿的青春期发育。J Pediatr Endocrinol Metab.2004;17 (11):1497–505.doi:10.1515/jpem.2004.17.11.1497
+6.Veening MA, van Weissenbruch MM, Roord JJ, de Delmemarre-van Waal HA.小于胎龄儿的青春期发育。J Pediatr Endocrinol Metab.2004;17 (11):1497–505.doi:10.1515/jpem.2004.17.11.1497
+7.Marshall WA, Tanner JM.Variations in patterns of pubertal changes in girls.Arch Dis Child.1969;44:291–303.doi:10.1136/adc.44.235.291
+7.Marshall WA, Tanner JM.Variations in patterns of pubertal changes in girls.Arch Dis Child.1969;44:291–303.doi:10.1136/adc.44.235.291
+
+【卵巢卵泡发育】
+女性胎儿的卵子前体（生殖细胞）数量有限。生殖细胞以原始卵原细胞开始，从卵黄囊的胚外内胚层迁移到未分化的生殖嵴并成为卵原细胞。卵原细胞分化成初级卵母细胞并通过有丝分裂显着增殖（一次分裂成两个相同的二倍体细胞），到妊娠第 5 个月产生约 700 万个卵母细胞 (1)。妊娠第三个月时，部分卵原细胞启动减数分裂，并停滞于减数分裂 Ⅰ 前期，直至青春期才恢复。减数分裂分两个阶段发生；它导致分裂成四个单倍体细胞。到怀孕第7个月，一层颗粒细胞围绕着所有活的生殖细胞发育，形成原始卵泡。妊娠第四个月后，卵原细胞（后期为卵母细胞）开始发生自发性程序性细胞死亡（主要通过凋亡），这一过程称为卵泡闭锁；最终 99.9% 的卵原细胞 / 卵母细胞会被清除。
+
+【雌性和雄性配子发生】
+雌性和雄性配子发生
+配子发生是从原始生殖细胞到成熟配子的发育过程：雌性的卵子发生和雄性的精子发生。在雌性和雄性中，它都从二倍体生殖细胞开始，然后经历有丝分裂、减数分裂和细胞分化成单倍体配子。
+在青春期，卵母细胞完成减数分裂I，产生一个次级卵母细胞和一个极体；这些细胞在减数分裂 II 的中期停滞。
+FSH诱导卵巢中的卵泡生长。每个月经周期中，会有 3～30 个卵泡被募集并加速生长。通常每个周期仅有一个卵泡能完成排卵。在排卵期优势卵泡释放出卵母细胞，并促使其他被募集的卵泡闭锁。经过两次减数分裂形成一个卵子：第一次发生在排卵前夕，第二次发生在精子穿透卵子时。含有过量遗传物质的极体在每个减数分裂中被挤出。随着母亲年龄的增加，存活的卵母细胞在减数分裂前期停滞的时间较长，可能是遗传异常妊娠发生率增加的原因 (2)。
+
+【卵巢卵泡发育参考文献】
+1.Baker TG.A quantitative and cytological study of germ cells in human ovaries.Proc R Soc Lond B Biol Sci.1963;158:417-433.doi:10.1098/rspb.1963.0055
+1.Baker TG.A quantitative and cytological study of germ cells in human ovaries.Proc R Soc Lond B Biol Sci.1963;158:417-433.doi:10.1098/rspb.1963.0055
+2.Jones KT.Meiosis in oocytes: Predisposition to aneuploidy and its increased incidence with age.Hum Reprod Update.2008;14:143–158.doi:10.1093/humupd/dmm043
+2.Jones KT.Meiosis in oocytes: Predisposition to aneuploidy and its increased incidence with age.Hum Reprod Update.2008;14:143–158.doi:10.1093/humupd/dmm043
+
+【月经周期】
+月经是血液与脱落的子宫内膜（统称为经血）经阴道从子宫周期性排出的过程。在没有怀孕的每个周期，由于卵巢产生的孕激素和雌激素迅速下降引起月经来潮。月经贯穿女性的整个生育期。
+绝经定义为末次月经后1年。
+正常月经持续时间为4.5至8天（1)。每周期平均失血30mL（正常范围5～80mL），通常月经第2天量最多。由于患者不测量月经量，因此根据患者的印象和使用的卫生巾或卫生棉条的估计数量来确定月经过多或过少；饱和垫或卫生棉条可吸收 5 至 15 mL。通常月经血中没有血凝块（除非出血非常多），可能是因为纤溶蛋白酶和其他因子抑制了凝血过程。
+月经周期的中位数为28天（正常范围为24至38天）。通常，初潮后及绝经前数年，月经周期变异最大、间隔最长，此时排卵也更不规律。对个体而言，若最短与最长月经周期的差值在 ±2～20 天内，即视为月经规律。月经周期的持续时间是从一个周期的月经第一天到下一个周期的第一天的天数。
+月经周期可以分为几个阶段。卵巢经过以下阶段：
+卵泡期（排卵前）
+卵泡期（排卵前）
+黄体期（排卵后——参见图表正常月经周期）
+黄体期（排卵后——参见图表正常月经周期）
+子宫内膜也有周期性变化。
+该阶段时长变化比其他阶段大。
+在卵泡期早期（卵泡期的前半阶段），主要事件是
+募集卵泡生长
+募集卵泡生长
+此时，腺垂体中的促性腺激素细胞仅含少量黄体生成素（LH）和卵泡刺激素（FSH），雌激素和孕激素的分泌量较低。结果，总的FSH分泌轻度增加，从而刺激被募集卵泡的生长。而且，在FSH增加后1至2天开始，循环中的LH水平缓慢增加。招募的卵泡迅速分泌雌二醇;雌二醇刺激LH和FSH合成，但抑制它们的分泌。
+在卵泡期晚期（卵泡期的后半阶段），优势卵泡成熟，并积聚了大量分泌激素的颗粒细胞；卵泡液使窦腔增大，排卵前卵泡达到18～20mm。FSH水平下降，LH水平受影响较小。FSH和LH水平发生偏离，部分原因是由于雌二醇对FSH分泌的抑制作用强于LH。同时，生长卵泡分泌的抑制素也能抑制FSH的分泌，但对LH的分泌没有抑制作用。其他相关因素包括不同的半衰期（LH为20～30分钟；FSH为2～3小时）和未知因素。雌激素水平，尤其是雌二醇水平呈指数增长。
+排卵（从卵巢释放卵母细胞）发生。
+雌二醇水平通常在排卵期开始时达到峰值。孕激素水平也开始上升。
+储存的LH大量释放（LH峰），通常持续36至48小时，FSH增加较少。LH峰发生的原因是此时高水平的雌二醇触发了促性腺细胞分泌LH（正反馈）（2）。GnRH和孕激素也能刺激LH峰。在LH峰存在时，雌二醇水平下降，但孕激素水平持续增加。黄体生成素（LH）峰值可刺激相关酶的活化，从而启动卵泡壁的分解，并在约 16～32 小时内释放出已成熟的卵母细胞。LH峰值还能在约36小时内触发卵母细胞完成第一次减数分裂。
+优势卵泡在释放卵母细胞后转变为黄体。
+该阶段的时长最稳定，平均为14天，之后，如没有妊娠，黄体退化。
+黄体主要分泌孕激素，其分泌量不断增加，在排卵后6～8天达到每日25mg的峰值。孕激素促进内膜向分泌期转化，这对胚胎种植非常必要。由于孕激素有致热作用，黄体期基础体温增加0.5°C。
+由于在黄体期的大多数时间里循环中的雌二醇、孕激素和抑制素水平都高，因此LH和FSH水平降低。没有妊娠时，雌二醇和孕激素水平在这一阶段后期减少，黄体退化为白体。
+如果发生着床，黄体不会退化，而是在妊娠早期通过继续产生孕激素而保持功能，这一过程由发育中的胚胎产生的人绒毛膜促性腺激素支持。
+
+【正常月经周期】
+正常月经周期
+该图显示了正常月经周期中垂体促性腺激素、雌二醇（E2）、孕激素（P）和子宫内膜的理想周期性变化。
+
+【月经周期参考】
+1.Fraser IS, Critchley HOD, Broder M, Munro MG: The FIGO recommendations on terminologies and definitions for normal and abnormal uterine bleeding.Semin Reprod Med, 2011; 29 (5):383–390.doi: 10.1055/s-0031-1287662
+1.Fraser IS, Critchley HOD, Broder M, Munro MG: The FIGO recommendations on terminologies and definitions for normal and abnormal uterine bleeding.Semin Reprod Med, 2011; 29 (5):383–390.doi: 10.1055/s-0031-1287662
+2.Adams JM, Taylor AE, Schoenfeld DA, Crowley WF Jr, Hall JE.The midcycle gonadotropin surge in normal women occurs in the face of an unchanging gonadotropin-releasing hormone pulse frequency.J Clin Endocrinol Metab.1994;79(3):858-864.doi:10.1210/jcem.79.3.7521353
+2.Adams JM, Taylor AE, Schoenfeld DA, Crowley WF Jr, Hall JE.The midcycle gonadotropin surge in normal women occurs in the face of an unchanging gonadotropin-releasing hormone pulse frequency.J Clin Endocrinol Metab.1994;79(3):858-864.doi:10.1210/jcem.79.3.7521353
+
+【其他生殖器官的周期性变化】
+
+【子宫内膜】
+子宫内膜由腺体和间质组成，分为3层：基底层、中间的海绵层和覆盖宫腔的致密上皮细胞层。总的来说，海绵层和上皮层组成功能层，该层在月经来潮时脱落。
+在月经周期中，子宫内膜有自己的周期：
+月经后，子宫内膜通常很薄，间质致密，腺体细直呈管状，内衬矮柱状上皮细胞。随着雌二醇水平的增加，完好的基底层使子宫内膜再生并达到其最大厚度，这发生在卵巢周期的卵泡晚期（子宫内膜周期的增殖期）。黏膜变厚，腺体变长、缠绕、扭曲。
+排卵发生在子宫内膜周期分泌期的开始阶段。在黄体期，孕激素使内膜腺体扩张，充满糖原，呈分泌反应；同时间质血管增加。黄体期晚期/分泌期，雌二醇和孕激素水平下降，间质水肿，内膜及其血管坏死，从而导致出血和月经来潮（内膜周期的月经期）。子宫内膜的纤溶活性减少经血中的血凝块。
+由于月经周期不同阶段的组织学改变具有特异性，因此可以根据子宫内膜活检来确定月经周期的不同阶段及组织对性激素的反应。
+宫颈作为宫腔与外界的门户，是生殖道的重要屏障。
+在卵泡期，雌二醇水平的增加使宫颈充血、水肿，黏液量、弹性和盐浓度（氯化钠或氯化钾）都增加。在排卵期，宫颈外口轻度开大，充满黏液。
+在黄体期，孕激素水平的增加使宫颈黏液变厚，缺少弹性，降低精子穿透的成功率。
+有时可以根据显微镜下检查玻片上变干的宫颈黏液来确定月经周期的阶段；羊齿状结晶（树枝状黏液）提示宫颈黏液中的盐含量增加。在排卵之前，当雌激素水平很高时，羊齿状结晶最典型;它在黄体期最少或不存在。 粘液的拉丝度、伸缩性（弹性）随着雌激素水平的增加（如排卵前）而增加;这种改变可用于确定月经周期的排卵期（易孕期）。
+卵泡期早期，雌二醇水平低，阴道上皮薄而苍白。卵泡期晚期，随着雌二醇水平的增加，鳞状细胞成熟并角化，使上皮增厚。
+黄体期，随着成熟鳞状细胞的脱落，角化前的中间细胞数量增加，白细胞数和细胞碎屑量增加。

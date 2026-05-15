@@ -1,0 +1,202 @@
+标题：感染性疾病的实验室诊断介绍
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/laboratory-diagnosis-of-infectious-disease/introduction-to-laboratory-diagnosis-of-infectious-disease
+============================================================
+
+实验室检查可直接对微生物进行检测（如：肉眼观察、显微镜观察、病原体培养）或者间接对微生物进行检测（如抗体检测）。一般的检测手段包括
+显微镜检查
+显微镜检查
+免疫学试验（凝集反应试验如乳胶凝集试验、酶免疫测定、蛋白印迹法、沉淀试验、补体结合试验）
+免疫学试验（凝集反应试验如乳胶凝集试验、酶免疫测定、蛋白印迹法、沉淀试验、补体结合试验）
+基因型基于核酸的检测方法或NAATs（如聚合酶链反应[PCR]）
+基因型基于核酸的检测方法或NAATs（如聚合酶链反应[PCR]）
+表型非核酸基础识别方法（例如，血清学检测，质谱 [MALDI-TOF MS]，核磁共振 [NMR] 光谱法）
+表型非核酸基础识别方法（例如，血清学检测，质谱 [MALDI-TOF MS]，核磁共振 [NMR] 光谱法）
+培养通常是明确微生物的金标准，但是结果可能要在数天或数周后才能得到，并且不是所有的病原体都可以通过培养得到，因此可以选择其他有参考价值的试验。当一种病原体得到培养及鉴定后，实验室就可以评估其对抗微生物药物的敏感性。基因型和表型快速诊断检测（RDTs）的引入使得抗菌治疗能够更快速和有针对性。有时也可以用分子生物学的方法来检测特定的耐药基因。
+一些试验（如革兰染色，常规的需氧培养）可以检出多种病原体，并且通常在许多可疑的感染性疾病的诊断中被使用。然而由于通过这些试验可能使得一些病原体被遗漏，因此临床医生必须知道对每种可疑病原体检测所用的每个试验的局限性。此类情况下，临床医生应申请针对可疑病原体的特异性检测（如特殊染色或培养基），或向实验室提供疑似微生物的建议，以便选择更特异的检测（1）。
+
+【一些细菌病原体的诊断测试】
+一些细菌病原体的诊断测试
+显微镜检查
+细菌培养
+NAAT
+抗原检测
+抗体检测
+无形体属
+炭疽杆菌
+巴尔通体属
+百日咳杆菌
+疏螺旋体属
+布鲁菌属
+衣原体属
+肉毒杆菌
+艰难梭菌
+破伤风梭菌
+白喉棒状杆菌
+柯氏杆菌属
+丹毒丝菌属
+土拉热弗朗西斯菌
+杜克雷嗜血杆菌
+幽门螺杆菌
+金氏菌属
+克雷伯菌属
+军团菌属
+钩端螺旋体属
+李斯特菌属
+支原体属
+奈瑟氏菌属
+Rhodococcus equi
+立克次体属
+链球菌属
+梅毒螺旋体
+惠普尔氏杆菌
+鼠疫耶尔森菌
+* 临床实践中未广泛使用的测试。
+NAAT = 核酸扩增试验
+Adapted from Bennett JE, Dolin R, Blaser MJ:Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, 9th Edition.Philadelphia, Elsevier, 2020.
+* 临床实践中未广泛使用的测试。
+NAAT = 核酸扩增试验
+Adapted from Bennett JE, Dolin R, Blaser MJ:Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, 9th Edition.Philadelphia, Elsevier, 2020.
+
+【分枝杆菌病原体诊断试验】
+分枝杆菌病原体诊断试验
+显微镜检查
+细菌培养
+NAAT
+抗原检测
+抗体检测
+结核分枝杆菌和溃疡分枝杆菌
+麻风分枝杆菌
+* 临床实践中未广泛使用的测试。
+NAAT = 核酸扩增试验。
+Adapted from Bennett JE, Dolin R, Blaser MJ:Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, 9th Edition.Philadelphia, Elsevier, 2020.
+* 临床实践中未广泛使用的测试。
+NAAT = 核酸扩增试验。
+Adapted from Bennett JE, Dolin R, Blaser MJ:Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, 9th Edition.Philadelphia, Elsevier, 2020.
+
+【一些真菌病原体的诊断测试】
+一些真菌病原体的诊断测试
+显微镜检查
+NAAT
+抗原检测
+抗体检测
+芽生菌属
+念珠菌属
+球孢子菌属
+新型隐球菌
+皮肤癣菌
+荚膜组织胞浆菌
+马拉色菌属
+毛霉目属
+耶氏肺孢子菌
+孢子丝菌属
+NAAT = 核酸扩增试验
+Adapted from Bennett JE, Dolin R, Blaser MJ:Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, 9th Edition.Philadelphia, Elsevier, 2020.
+NAAT = 核酸扩增试验
+Adapted from Bennett JE, Dolin R, Blaser MJ:Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, 9th Edition.Philadelphia, Elsevier, 2020.
+
+【常见病原体的诊断试验】
+常见病原体的诊断试验
+显微镜检查
+核酸扩增检测（NAAT）
+抗原检测
+抗体检测
+炭疽杆菌
+巴尔通体属
+百日咳杆菌
+疏螺旋体属
+布鲁氏菌属
+肉毒杆菌
+艰难梭菌
+破伤风梭菌
+白喉棒状杆菌
+丹毒丝菌属
+土拉热弗朗西斯菌
+杜克雷嗜血杆菌
+幽门螺杆菌
+金氏菌属
+克雷伯菌属
+军团菌属
+李斯特菌属
+支原体属
+奈瑟氏菌属
+Rhodococcus equus
+链球菌属
+梅毒螺旋体
+惠普尔养障体菌
+鼠疫耶尔森菌
+分枝杆菌
+结核和溃疡分枝杆菌
+细胞内生物
+无形体属
+衣原体属
+柯氏杆菌属
+利什曼原虫属
+钩端螺旋体属
+疏螺旋体属
+曲霉菌属
+芽生菌属
+念珠菌属
+球孢子菌属
+新型隐球菌
+皮肤癣菌
+荚膜组织胞浆菌
+马拉色菌属
+耶氏肺孢子菌
+孢子丝菌属
+BK病毒
+COVID-19 (SARS-CoV2)
+巨细胞病毒（CMV）
+Epstein-Barr病毒（EBV）
+肝炎A、B、C、D 和 E
+单纯疱疹病毒
+疱疹病毒6
+人乳头状瘤病毒（HPV）
+流感病毒
+JC病毒
+拉克罗斯病毒
+淋巴细胞性脉络丛脑膜炎病毒（LCMV）
+诺如病毒
+副流感病毒
+细小病毒B19
+波瓦桑病毒
+呼吸道合胞病毒(RSV)
+圣路易脑炎病毒
+蜱传脑炎病毒
+水痘－带状疱疹
+西尼罗病毒
+寨卡病毒
+原虫和寄生虫
+巴贝斯虫
+隐孢子虫
+环孢子虫
+内阿米巴
+贾地鞭毛虫
+疟原虫属
+猪带绦虫
+弓蛔虫属
+Adapted from Bennett JE, Dolin R, Blaser MJ: Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, 9th Edition.Elsevier, 2020.
+Adapted from Bennett JE, Dolin R, Blaser MJ: Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, 9th Edition.Elsevier, 2020.
+
+【某些原虫和寄生虫病原体的诊断检测】
+某些原虫和寄生虫病原体的诊断检测
+显微镜检查
+NAAT
+抗原检测
+抗体检测
+巴贝斯虫
+隐孢子虫
+环孢子虫
+内阿米巴
+贾地鞭毛虫
+利什曼原虫属
+疟原虫属
+猪带绦虫
+弓蛔虫属
+NAAT = 核酸扩增试验
+Adapted from Bennett JE, Dolin R, Blaser MJ:Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, 9th Edition.Philadelphia, Elsevier, 2020.
+NAAT = 核酸扩增试验
+Adapted from Bennett JE, Dolin R, Blaser MJ:Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, 9th Edition.Philadelphia, Elsevier, 2020.
+
+【参考文献】
+1.Miller JM, Binnicker MJ, Campbell S, et al.Guide to Utilization of the Microbiology Laboratory for Diagnosis of Infectious Diseases: 2024 Update by the Infectious Diseases Society of America (IDSA) and the American Society for Microbiology (ASM).Clin Infect Dis.Published online March 5, 2024.doi:10.1093/cid/ciae104
+1.Miller JM, Binnicker MJ, Campbell S, et al.Guide to Utilization of the Microbiology Laboratory for Diagnosis of Infectious Diseases: 2024 Update by the Infectious Diseases Society of America (IDSA) and the American Society for Microbiology (ASM).Clin Infect Dis.Published online March 5, 2024.doi:10.1093/cid/ciae104

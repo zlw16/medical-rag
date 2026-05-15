@@ -1,0 +1,68 @@
+标题：鞭虫病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/nematodes-roundworms/trichuriasis
+============================================================
+
+鞭虫病为第三常见的土壤传播的线虫感染。全球估计有8亿人感染（1）。毛首鞭形线虫在卫生条件差的热带地区和儿童中更为常见。在美国，大多数鞭虫病病例发生在来自流行地区的移民或归国旅客中，但一些南部地区也有本地获得性病例。
+本病经粪~口途径传播。摄入的虫卵孵化并以幼虫形式进入小肠隐窝。发育成熟1~3个月后，成虫移行到盲肠和升结肠，在此附着于浅表上皮组织，进行交配并产卵。
+1.未胚胎化的虫卵随粪便排出。
+1.未胚胎化的虫卵随粪便排出。
+2.在土壤中，卵发育到2-细胞阶段。
+2.在土壤中，卵发育到2-细胞阶段。
+3.细胞继续分裂（高级卵裂阶段）。
+3.细胞继续分裂（高级卵裂阶段）。
+4.随后，虫卵在15至30天内完成胚胎发育并具有感染性。当手或食物被粪便或含粪便的土壤污染时，虫卵可能被摄入。
+4.随后，虫卵在15至30天内完成胚胎发育并具有感染性。当手或食物被粪便或含粪便的土壤污染时，虫卵可能被摄入。
+5.卵在小肠中孵化然后释放幼虫。
+5.卵在小肠中孵化然后释放幼虫。
+6.幼虫成熟并在盲肠和升结肠中定居为成虫。
+6.幼虫成熟并在盲肠和升结肠中定居为成虫。
+Image from the Centers for Disease Control and Prevention, Global Health, Division of Parasitic Diseases and Malaria.
+据估计，成虫寿命约为1年，但部分个体存活时间可能更长。
+（参见寄生虫感染。)
+
+【参考文献】
+1.Centers for Disease Control and Prevention: DPDx: Trichuriasis.Accessed October 21, 2024.
+1.Centers for Disease Control and Prevention: DPDx: Trichuriasis.Accessed October 21, 2024.
+
+【鞭虫病的症状和体征】
+轻症Trichuris鞭虫感染常无症状。
+严重感染可导致腹痛、食欲不振和腹泻；还可能出现体重减轻、贫血和直肠脱垂，尤其是在儿童中。
+
+【鞭虫病的诊断】
+粪便显微镜检查
+粪便显微镜检查
+粪便显微镜检查是诊断鞭虫病的主要依据；粪便中很容易发现特征性的柠檬形虫卵，两端有明显的卵盖。
+如因其他原因进行直肠镜或结肠镜检查，可在肠腔中发现卷曲的成虫。
+全血细胞计数（CBC）检查以发现贫血。
+
+【鞭虫病的治疗】
+甲苯咪唑
+甲苯咪唑
+阿苯达唑
+阿苯达唑
+伊维菌素
+伊维菌素
+甲苯咪唑对患有鞭虫病的患者有效。阿苯达唑或伊维菌素亦有效。在大规模治疗项目中曾使用过单剂量500毫克的甲苯咪唑，但单剂量方案对鞭虫病的疗效较低（1）。孕妇通常不选用这些药物。
+如果计划使用伊维菌素进行治疗，应评估患者是否合并Loa loa（罗阿丝虫）感染，特别是对于去过中部非洲传播地区的人，因为伊维菌素可能导致体内Loa loa（罗阿丝虫）微丝蚴水平高的患者出现严重反应。
+在一个试验中，单剂量的依莫德赛显示出对毛首鞭形线虫的高效性，治愈率约为85%（2）。
+
+【治疗参考文献】
+1.Moser W, Schindler C, Keiser J.Efficacy of recommended drugs against soil transmitted helminths: systematic review and network meta-analysis.BMJ.2017;358:j4307.Published 2017 Sep 25.doi:10.1136/bmj.j4307
+1.Moser W, Schindler C, Keiser J.Efficacy of recommended drugs against soil transmitted helminths: systematic review and network meta-analysis.BMJ.2017;358:j4307.Published 2017 Sep 25.doi:10.1136/bmj.j4307
+2.Mrimi EC, Welsche S, Ali SM, Hattendorf J, Keiser J.EmodepsideforTrichuris trichiuraand Hookworm Infection.N Engl J Med.2023;388(20):1863-1875.doi:10.1056/NEJMoa2212825
+2.Mrimi EC, Welsche S, Ali SM, Hattendorf J, Keiser J.EmodepsideforTrichuris trichiuraand Hookworm Infection.N Engl J Med.2023;388(20):1863-1875.doi:10.1056/NEJMoa2212825
+
+【鞭虫病的预防】
+通过有效的污水处理系统、卫生的食物制备、避免可能受污染的水以及良好的个人卫生（包括洗手），可以预防鞭虫病。
+鞭虫病在卫生条件差的热带地区和儿童中更为常见。美国南部也有感染出现。
+鞭虫病在卫生条件差的热带地区和儿童中更为常见。美国南部也有感染出现。
+本病经粪~口途径传播。
+本病经粪~口途径传播。
+轻症感染通常无症状；严重感染可能导致腹痛、食欲减退、腹泻，在儿童中还可能出现体重减轻、贫血和直肠脱垂。
+轻症感染通常无症状；严重感染可能导致腹痛、食欲减退、腹泻，在儿童中还可能出现体重减轻、贫血和直肠脱垂。
+粪便显微镜检查中找到特征性的两头有盖的柠檬状虫卵可以确定诊断。
+粪便显微镜检查中找到特征性的两头有盖的柠檬状虫卵可以确定诊断。
+用甲苯咪唑、阿苯达唑或伊维菌素治疗。
+用甲苯咪唑、阿苯达唑或伊维菌素治疗。
+若计划使用伊维菌素进行治疗， 应评估患者是否合并有Loa loa（罗阿丝虫）感染，特别是如果患者曾前往中非地区该虫传播的地区，因为伊维菌素可能会在体内Loa loa（罗阿丝虫）微丝蚴水平较高的患者中引发严重反应。
+若计划使用伊维菌素进行治疗， 应评估患者是否合并有Loa loa（罗阿丝虫）感染，特别是如果患者曾前往中非地区该虫传播的地区，因为伊维菌素可能会在体内Loa loa（罗阿丝虫）微丝蚴水平较高的患者中引发严重反应。

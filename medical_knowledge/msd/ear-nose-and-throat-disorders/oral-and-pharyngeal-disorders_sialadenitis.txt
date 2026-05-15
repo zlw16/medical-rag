@@ -1,0 +1,54 @@
+标题：涎腺炎
+来源：https://www.msdmanuals.cn/professional/ear-nose-and-throat-disorders/oral-and-pharyngeal-disorders/sialadenitis
+============================================================
+
+
+【唾液腺炎的病因】
+涎腺炎通常发生于腺体分泌减少或导管阻塞时，但也可能没有明显的病因。大涎腺包括腮腺、下颌下腺和舌下腺。
+涎腺炎常发生于腮腺，主要发生于
+50～60岁患者
+50～60岁患者
+合并有口干症的慢性疾病患者
+合并有口干症的慢性疾病患者
+舍格伦综合征患者
+舍格伦综合征患者
+厌食的青少年和青年
+厌食的青少年和青年
+患有未确定病因的幼年复发性腮腺炎的儿童（1至18岁）
+患有未确定病因的幼年复发性腮腺炎的儿童（1至18岁）
+最常见的致病微生物是Staphylococcus aureus（金黄色葡萄球菌），其他包括链球菌、大肠杆菌和各种厌氧菌。
+口腔接受过放射治疗或放射性碘治疗甲状腺癌的患者可能继发腮腺炎（1，2，3）。 虽然有时被描述为唾液腺炎，但这种炎症很少是细菌感染，特别是在没有发热的情况下。幼年复发性腮腺炎是一种病因不明的疾病，影响儿童（最常见于 4 至 6 岁），通常在青春期消退。过敏、感染、遗传和自身免疫性疾病尚未被确认为病因。除可能的流行性腮腺炎外，幼年复发性腮腺炎仍然是儿童中第2常见的腮腺炎形式（4）。
+
+【病因参考文献】
+1.Erkul E, Gillespie MB: Sialendoscopy for non-stone disorders: the current evidence.Laryngoscope Investig Otolaryngol1 (5):140–145, 2016.doi: 10.1002/lio2.33
+1.Erkul E, Gillespie MB: Sialendoscopy for non-stone disorders: the current evidence.Laryngoscope Investig Otolaryngol1 (5):140–145, 2016.doi: 10.1002/lio2.33
+2.An YS, Yoon JK, Lee SJ, et al: Symptomatic late-onset sialadenitis after radioiodine therapy in thyroid cancer.Ann Nucl Med27 (4):386–391, 2013.doi: 10.1007/s12149-013-0697-5
+2.An YS, Yoon JK, Lee SJ, et al: Symptomatic late-onset sialadenitis after radioiodine therapy in thyroid cancer.Ann Nucl Med27 (4):386–391, 2013.doi: 10.1007/s12149-013-0697-5
+3.Kim YM, Choi JS, Hong SB, et al: Salivary gland function after sialendoscopy for treatment of chronic radioiodine-induced sialadenitis.Head Neck38 (1):51–58, 2016.doi: 10.1002/hed.23844
+3.Kim YM, Choi JS, Hong SB, et al: Salivary gland function after sialendoscopy for treatment of chronic radioiodine-induced sialadenitis.Head Neck38 (1):51–58, 2016.doi: 10.1002/hed.23844
+4.Schwarz Y, Bezdjian A, Daniel SJ: Sialendoscopy in treating pediatric salivary gland disorders: a systematic review.Eur Arch Otorhinolaryngol275 (2):347–356, 2018.doi: 10.1007/s00405-017-4830-2
+4.Schwarz Y, Bezdjian A, Daniel SJ: Sialendoscopy in treating pediatric salivary gland disorders: a systematic review.Eur Arch Otorhinolaryngol275 (2):347–356, 2018.doi: 10.1007/s00405-017-4830-2
+
+【唾液腺炎的症状和体征】
+唾液腺炎患者会出现发热、寒战、单侧疼痛和肿胀。唾液腺坚硬而弥漫性触痛，表面皮肤出现红斑和水肿。挤压受累腺体，常可从导管挤出脓液，应进行细菌培养。局限性肿大提示脓肿形成。
+
+【唾液腺炎的诊断】
+CT、超声或MRI
+CT、超声或MRI
+CT、超声和MRI能够确定涎腺炎症或临床不明确的脓肿，尽管MRI可能遗漏引起阻塞的结石。如果能从受累腺体的导管中挤出脓液，应送检进行革兰氏染色和细菌培养。
+
+【唾液腺炎的治疗】
+抗葡萄球菌的抗生素
+抗葡萄球菌的抗生素
+局部措施（如催涎剂、热敷）
+局部措施（如催涎剂、热敷）
+唾液腺炎的早期治疗主要是选用针对S. aureus（金黄色葡萄球菌）的抗生素（如双氯西林，250mg，口服，4次/日；第一代头孢菌素，或克林霉素），然后根据细菌培养结果调整用药。随着耐甲氧西林S. aureus（金黄色葡萄球菌）（MRSA）的日益普遍，尤其是在长期护理机构中的老年人中，常需要使用万古霉素。0.12% 氯己定含漱液每天3次漱口，可减少口腔中的细菌负荷并促进口腔卫生。
+适当饮水、催涎剂（例如，柠檬汁、硬糖或其他诱导唾液分泌的物质）、热敷、腺体按摩和良好的口腔卫生也同样重要。脓肿需要引流。
+少数情况下，慢性或反复发作的涎腺炎患者需要行腮腺浅叶切除术、腮腺导管结扎术或下颌下腺切除术。
+
+【其他涎腺感染】
+流行性腮腺炎经常引起腮腺肿胀（见表腮腺和其他唾液腺肿大的原因）。
+HIV感染患者的腮腺肿大往往继发于单个或多个淋巴上皮囊肿。
+猫抓病常由Bartonella（巴尔通体菌）感染引起，可侵犯腮腺周围淋巴结，通过直接扩散感染腮腺。尽管猫抓病有自限性，但常提供抗生素治疗；如果脓肿形成，则需要切开引流。
+发生于扁桃体或牙原性的非典型分枝杆菌感染可直接扩散至大涎腺。其纯化蛋白衍生物（PPD）试验结果可能呈阴性，诊断可能需要活检和抗酸菌组织培养。其治疗方法尚存在争议。可选择方法包括手术清创和刮治、完全切除感染组织以及使用抗结核药物治疗（罕有必要）。
+唾液腺也可能参与结节病和IgG4相关疾病。 干燥综合征可能表现为腮腺或颌下腺肿胀

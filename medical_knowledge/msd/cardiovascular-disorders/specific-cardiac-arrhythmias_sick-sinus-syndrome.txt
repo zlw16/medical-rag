@@ -1,0 +1,93 @@
+标题：病态窦房结综合征
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/sick-sinus-syndrome
+============================================================
+
+(参见心律失常概述。）
+病态窦房结综合征包括
+不适当的窦性心动过缓
+不适当的窦性心动过缓
+交替性心动过缓和房性心动过速（慢-快综合征）
+交替性心动过缓和房性心动过速（慢-快综合征）
+窦性停搏或窦性静止
+窦性停搏或窦性静止
+窦房（SA）传出阻滞
+窦房（SA）传出阻滞
+变时性机能不全
+变时性机能不全
+病态窦房结综合征主要累及老年患者，特别是那些有其他心脏疾病或糖尿病的患者。
+在病态窦房结综合征的缓慢-快速变体中，窦房结功能障碍与房性心动过速有关，最常见的是心房颤动。
+窦性静止是窦房结活动的暂时停止，在心电图（ECG）上见到P波消失数秒至数分钟。窦性暂停通常引起低级起搏点的逸搏（如房性或交界性逸搏）以维持心率和功能，但长时间暂停可引起眩晕和晕厥。
+在窦房传导阻滞中，窦房结可除极，但冲动向心房组织的传导受损。
+在一度窦房阻滞中，窦房结冲动传出仅仅减慢，并且在没有其他疾病的情况下，心电图正常且没有症状。
+在一度窦房阻滞中，窦房结冲动传出仅仅减慢，并且在没有其他疾病的情况下，心电图正常且没有症状。
+在 I 型二度窦房传导阻滞（窦房文氏现象）中，激动信号传出窦房结的传导速度会在阻滞发生前逐渐减慢，其心电图表现为：P-P 间期逐渐缩短，直至某个 P 波完全脱落（无法传导至心房），形成一次停搏，进而呈现出 “心搏成组” 的现象；且该停搏的持续时间小于 2 个正常 P-P 间期的总和。
+在 I 型二度窦房传导阻滞（窦房文氏现象）中，激动信号传出窦房结的传导速度会在阻滞发生前逐渐减慢，其心电图表现为：P-P 间期逐渐缩短，直至某个 P 波完全脱落（无法传导至心房），形成一次停搏，进而呈现出 “心搏成组” 的现象；且该停搏的持续时间小于 2 个正常 P-P 间期的总和。
+在Ⅱ度Ⅱ型窦房阻滞中，冲动被阻滞前并无减缓，导致暂停的间期等于P-P间期的倍数（通常是2倍），出现成组的心跳。
+在Ⅱ度Ⅱ型窦房阻滞中，冲动被阻滞前并无减缓，导致暂停的间期等于P-P间期的倍数（通常是2倍），出现成组的心跳。
+在Ⅲ度窦房阻滞中，传导被阻滞；P波缺如，产生窦性停搏的表现。
+在Ⅲ度窦房阻滞中，传导被阻滞；P波缺如，产生窦性停搏的表现。
+变时性机能不全指无法通过运动提高窦性心率，最常见的定义是在运动耐力测试中，心率达到最大年龄预测心率（220减去年龄，单位：次/分钟）的80%以下（1）。
+
+【参考文献】
+1.Kusumoto FM, Schoenfeld MH, Barrett C, et al: 2018 ACC/AHA/HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Heart Rhythm16(9):e128–e226, 2019.doi: 10.1016/j.hrthm.2018.10.037
+1.Kusumoto FM, Schoenfeld MH, Barrett C, et al: 2018 ACC/AHA/HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Heart Rhythm16(9):e128–e226, 2019.doi: 10.1016/j.hrthm.2018.10.037
+
+【病态窦房结综合征的病因】
+病态窦房结综合征中内在窦房结功能障碍的最常见的原因是
+特发性窦房结纤维化，可能伴有传导系统下部结构的退化，表现为同时出现房室传导阻滞和/或束支传导阻滞。
+特发性窦房结纤维化，可能伴有传导系统下部结构的退化，表现为同时出现房室传导阻滞和/或束支传导阻滞。
+病态窦房结综合征的其他病因包括睡眠呼吸暂停、药物、迷走神经张力过高以及许多缺血性、炎症性和浸润性疾病（1）。
+
+【病因参考文献】
+1.Sathnur N, Ebin E, Benditt DG: Sinus Node Dysfunction.Cardiol Clin41(3):349–367, 2023.doi:  10.1016/j.ccl.2023.03.013
+1.Sathnur N, Ebin E, Benditt DG: Sinus Node Dysfunction.Cardiol Clin41(3):349–367, 2023.doi:  10.1016/j.ccl.2023.03.013
+
+【病态窦房结综合征的症状和体征】
+许多病态窦房结综合征患者没有症状。根据心率，可能会出现心动过缓的所有症状，而在病态窦房结综合征的缓慢-快速变体的情况下，可能会出现心动过速的所有症状。当房性心动过速自发终止后窦房结不能立即恢复功能时，可能会发生晕厥。
+
+【病态窦房结综合征的诊断】
+测量促甲状腺激素 (TSH) 以排除甲状腺功能减退症
+测量促甲状腺激素 (TSH) 以排除甲状腺功能减退症
+动态心电图监测仪
+动态心电图监测仪
+变时性功能不全的运动耐受测试
+变时性功能不全的运动耐受测试
+罕见情况下，植入式心脏监测或导管电生理学研究
+罕见情况下，植入式心脏监测或导管电生理学研究
+缓慢而不规则的脉搏提示窦房结功能不全的诊断，心电图、心律条或连续24小时心电图记录可确定诊断。有些患者表现为心房颤动，而潜在的窦房结功能不全仅在转复为窦性心律并出现转复后窦性停搏时才显现。心电图监测的目的是建立症状与缓慢性心律失常之间的相关性。
+如果病史和体格检查提示有此情况，则进行针对性评估，包括针对疑似甲状腺功能减退症测量促甲状腺激素 (TSH)；对疑似睡眠呼吸暂停进行多导睡眠图检查；对疑似变时性功能不全进行运动耐量测试；以及对疑似结构性心脏病进行超声心动图检查（1）。当与病态窦房结综合征相符的症状非常不频繁时，可能需要植入式心脏监测装置以实现症状和心律之间的关联。偶尔，病态窦房结综合征的诊断是在为评估病因不明的晕厥而进行的导管电生理学研究中做出的。
+
+【诊断参考文献】
+1.Kusumoto FM, Schoenfeld MH, Barrett C, et al: 2018 ACC/AHA/HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Heart Rhythm16(9):e128–e226, 2019.doi: 10.1016/j.hrthm.2018.10.037
+1.Kusumoto FM, Schoenfeld MH, Barrett C, et al: 2018 ACC/AHA/HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Heart Rhythm16(9):e128–e226, 2019.doi: 10.1016/j.hrthm.2018.10.037
+
+【病态窦房结综合征的治疗】
+在没有可逆性外在原因的情况下，对有症状的病态窦房结综合征的治疗是起搏器植入（1）。采用生理性（心房或房室）起搏器而非心室起搏器时，房颤的风险会降低(2)。最小化心室起搏的双腔起搏器可以进一步减少房颤的风险 (2)。双腔起搏器还可以进一步保护那些预计每年发生 1% 至 2% 房室传导阻滞的患者群体（3）。植入起搏器后抗心律失常药物可用于预防阵发性快速性心律失常。
+对于健康、年轻且有症状的心动过缓但未伴有晕厥的患者，茶碱和肼屈嗪是增加心率的选择，但这些药物很少用于此目的。
+
+【治疗参考文献】
+1.Kusumoto FM, Schoenfeld MH, Barrett C, et al: 2018 ACC/AHA/HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Heart Rhythm16(9):e128–e226, 2019.doi: 10.1016/j.hrthm.2018.10.037
+1.Kusumoto FM, Schoenfeld MH, Barrett C, et al: 2018 ACC/AHA/HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Heart Rhythm16(9):e128–e226, 2019.doi: 10.1016/j.hrthm.2018.10.037
+2.Liu Y, Zheng Y, Tse G, et al: Association between sick sinus syndrome and atrial fibrillation: A systematic review and meta-analysis.Int J Cardiol381:20–36, 2023.doi: 10.1016/j.ijcard.2023.03.066
+2.Liu Y, Zheng Y, Tse G, et al: Association between sick sinus syndrome and atrial fibrillation: A systematic review and meta-analysis.Int J Cardiol381:20–36, 2023.doi: 10.1016/j.ijcard.2023.03.066
+3.Nielsen JC, Thomsen PE, Højberg S, et al: A comparison of single-lead atrial pacing with dual-chamber pacing in sick sinus syndrome.Eur Heart J32(6):686–696, 2011.doi: 10.1093/eurheartj/ehr022.
+3.Nielsen JC, Thomsen PE, Højberg S, et al: A comparison of single-lead atrial pacing with dual-chamber pacing in sick sinus syndrome.Eur Heart J32(6):686–696, 2011.doi: 10.1093/eurheartj/ehr022.
+
+【病态窦房结综合征的预后】
+病态窦房结综合征中的窦房结功能障碍往往会随着时间的推移而加重。预后情况不一；死亡率约为 4%/年，主要由潜在的结构性心脏疾病引起（1）。每年约 5% 的患者发生心房颤动，伴有心力衰竭和脑卒中的风险（2）。
+
+【预后参考文献】
+1.Shaw DB, Holman RR, Gowers JI: Survival in sinoatrial disorder (sick-sinus syndrome).Br Med J280(6208):139–141, 1980.doi: 10.1136/bmj.280.6208.139
+1.Shaw DB, Holman RR, Gowers JI: Survival in sinoatrial disorder (sick-sinus syndrome).Br Med J280(6208):139–141, 1980.doi: 10.1136/bmj.280.6208.139
+2.Sutton R, Kenny RA: The natural history of sick sinus syndrome.Pacing Clin Electrophysiol9(6):1110-1114, 1986.doi: 10.1111/j.1540-8159.1986.tb06678.x
+2.Sutton R, Kenny RA: The natural history of sick sinus syndrome.Pacing Clin Electrophysiol9(6):1110-1114, 1986.doi: 10.1111/j.1540-8159.1986.tb06678.x
+病态窦房结综合征会导致心率不适当地缓慢。
+病态窦房结综合征会导致心率不适当地缓慢。
+症状可能不存在或由心动过缓引起。
+症状可能不存在或由心动过缓引起。
+在病态窦房结综合征的缓慢-心动过速变体中，症状也可能由心动过速或心动过速终止时的心搏停止引起。
+在病态窦房结综合征的缓慢-心动过速变体中，症状也可能由心动过速或心动过速终止时的心搏停止引起。
+诊断主要依靠心电图监测。
+诊断主要依靠心电图监测。
+有症状的病态窦房结综合征可以通过起搏器治疗。
+有症状的病态窦房结综合征可以通过起搏器治疗。

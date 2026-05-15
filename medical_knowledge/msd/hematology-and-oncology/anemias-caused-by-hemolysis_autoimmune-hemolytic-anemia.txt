@@ -1,0 +1,157 @@
+标题：自体免疫性溶血性贫血
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/anemias-caused-by-hemolysis/autoimmune-hemolytic-anemia
+============================================================
+
+(参见于溶血性贫血的概述。）
+
+【自体免疫性溶血性贫血的病因】
+自身免疫性溶血性贫血是由红细胞外在异常所致。
+
+【温抗体型溶血性贫血】
+温抗体型溶血性贫血是最常见的自身免疫性溶血性贫血（AIHA），其在女性中较常见。在温抗体型溶血性贫血中，自身抗体在温度≥37°C时发生反应。自身免疫性溶血性贫血可分为
+原发性（特发性）
+原发性（特发性）
+继发性（与潜在疾病如系统性红斑狼疮（SLE）、淋巴瘤、慢性淋巴细胞白血病或使用特定药物相关）。
+继发性（与潜在疾病如系统性红斑狼疮（SLE）、淋巴瘤、慢性淋巴细胞白血病或使用特定药物相关）。
+一些药物(如甲基多巴，左旋多巴-见表引起热抗体溶血性贫血的药物)刺激产生针对Rh抗原的自身抗体(甲基多巴型自身免疫性溶血性贫血)。 一些药物可通过暂时性半抗原机制产生针对红细胞膜表面复合物的自身抗体，这种半抗原可以是稳定的（如大剂量青霉素，头孢菌素）也可以是不稳定的（如奎尼丁、磺胺药物）。
+在温抗体型自体免疫性溶血性贫血中，溶血首先发生在脾脏，且其并非红细胞直接发生裂解所致。它可能很严重，甚至是致命的。在温抗体型溶血性贫血中，自身抗体主要是IgG。大多数属于全凝集素，RH特异性不高。
+
+【冷凝集素病】
+冷凝集素病（冷抗体病）是由自身抗体在<37°C时与红细胞发生反应所引起，但有些自身抗体的热幅度较高（例如,>30°C最容易引起临床表现）。抗体热幅值比效价更重要；这些抗体与红细胞发生反应时温度越高（即越接近正常体温），溶血越严重。
+病因包括：
+特发性（通常与单克隆B细胞群相关）
+特发性（通常与单克隆B细胞群相关）
+感染，特别是支原体肺炎或传染性单核细胞增多症（抗体针对I[支原体]或i[爱泼斯坦-巴尔病毒]抗原）
+感染，特别是支原体肺炎或传染性单核细胞增多症（抗体针对I[支原体]或i[爱泼斯坦-巴尔病毒]抗原）
+淋巴组织增生性疾病（抗体常直接针对I抗原）
+淋巴组织增生性疾病（抗体常直接针对I抗原）
+感染常引起急性疾病，而特发性疾病（老年患者常见）一般是慢性的。慢性溶血主要发生在肝脏和脾脏的血管外单核吞噬细胞系统中，但当存在补体放大条件,例如感染时，血管内溶血也会发生。贫血常较轻微（血红蛋白>7.5g/dL[70.5 g/L]）。冷凝集素病中的自身抗体几乎总是免疫球蛋白M(IgM)。
+
+【阵发性冷性血红蛋白尿】
+阵发性冷性血红蛋白尿（PCH，Donath-Landsteiner综合征）为一种罕见的冷凝集素病。其在儿童中更常见。 当机体暴露于寒冷中，甚至是局部暴露（如，喝冷水，用冷水洗手），均可能导致溶血。在低温时，IgG抗体可与红细胞上的P抗原结合，当温度升高后，则会引起血管内溶血和血红蛋白尿。尽管在先天性或获得性梅毒患者中可出现该病，但其更经常发生于非特异性病毒感染后或健康人中。贫血的严重程度和进展速度因人而异，且有时可能呈暴发性发展。在儿童中，这种疾病往往呈自限性。
+
+【可引起温抗体型自身免疫性溶血性贫血的药物】
+可引起温抗体型自身免疫性溶血性贫血的药物
+Medications（药物应用史）
+针对Rh抗原的抗体
+头孢菌素
+双氯酚酸钠
+alpha-干扰素
+左旋多巴
+加芬酸钠
+甲基多巴
+普鲁卡因胺
+替尼泊甙
+硫利达嗪
+稳定的半抗原
+头孢菌素
+荧光素钠
+甲苯磺丁脲（美国尚未上市)
+不稳定的半抗原或机制不明
+氨基水杨酸
+两性霉素B
+安他唑啉
+头孢菌素
+氯磺丙脲
+己烯雌酚
+氢氯噻嗪
+磺胺类药物
+硫喷妥钠
+
+【自shen免疫性溶血性贫血的症状和体征】
+温抗体型溶血性贫血的症状往往与贫血有关若病情较重，可出现发热，胸痛，昏厥，肝脏或心力衰竭。轻度脾大是典型的体征。静脉血栓栓塞事件在患有温热型自身免疫性溶血性贫血的患者中很常见（1）。
+冷凝集素病表现为急性或慢性的溶血性贫血。其他症状或体征包括肢端发绀、雷诺综合征，冷相关的闭塞性变化。冷凝集素病也与血栓风险升高有关（2）。
+阵发性冷性血红蛋白尿的症状有严重的背痛及下肢痛，头痛，呕吐，腹泻，茶色尿，也可出现肝脾肿大。
+
+【症状和体征参考】
+1.Audia S, Bach B, Samson M, et al.Venous thromboembolic events during warm autoimmune hemolytic anemia.PLoS One2018;13(11):e0207218.Published 2018 Nov 8.doi:10.1371/journal.pone.0207218
+1.Audia S, Bach B, Samson M, et al.Venous thromboembolic events during warm autoimmune hemolytic anemia.PLoS One2018;13(11):e0207218.Published 2018 Nov 8.doi:10.1371/journal.pone.0207218
+2.Broome CM, Cunningham JM, Mullins M, et al.Increased risk of thrombotic events in cold agglutinin disease: A 10-year retrospective analysis.Res Pract Thromb Haemost2020;4(4):628-635.Published 2020 Apr 9.doi:10.1002/rth2.12333
+2.Broome CM, Cunningham JM, Mullins M, et al.Increased risk of thrombotic events in cold agglutinin disease: A 10-year retrospective analysis.Res Pract Thromb Haemost2020;4(4):628-635.Published 2020 Apr 9.doi:10.1002/rth2.12333
+
+【自体免疫性溶血性贫血的诊断】
+外周血涂片、网织红细胞计数、乳酸脱氢酶（LDH）、触珠蛋白、间接胆红素
+外周血涂片、网织红细胞计数、乳酸脱氢酶（LDH）、触珠蛋白、间接胆红素
+直接抗人球蛋白试验
+直接抗人球蛋白试验
+冷凝集素病中的热振幅测试
+冷凝集素病中的热振幅测试
+任何出现溶血性贫血（贫血及网织红细胞增多可提示）的患者均应考虑自身免疫性溶血性贫血的可能。在温热型自身免疫性溶血性贫血中，外周涂片通常显示小球细胞（见图片球形细胞）和高网织红细胞计数，很少或没有裂片细胞，表明血管外溶血。实验室检查通常表明溶血（例如，乳酸脱氢酶和间接胆红素升高,结合珠蛋白降低）。高平均红细胞体积(MCV)可能是由于极度网织红细胞增多或在冷凝凝集素病中发生凝集。低网织红细胞计数的溶血性贫血是罕见的，但可能由于肾功能不全、感染或骨髓衰竭等因素而发生，并构成医疗紧急情况，需要及时输血。
+应用直接抗人球蛋白（Coombs）试验可检测到自体抗体，从而明确自身免疫性溶血性贫血的诊断 （见图直接抗球蛋白试验）。将抗人球蛋白血清加入到洗涤过的患者红细胞中，若出现凝集反应则表明红细胞上存在已结合的免疫球蛋白或补体C3。在温抗体溶血性贫血中，几乎总是存在IgG，也可能存在C3（C3b和C3d）。在冷抗体疾病中，存在C3而通常不存在IgG。该检测对自身免疫性溶血性贫血具有高度敏感性，估计约 5% 的自身免疫性溶血性贫血(AIHA)病例为直接抗球蛋白检测阴性（1）；如果抗体密度非常低，或罕见的是，如果自身抗体是免疫球蛋白A(IgA)，则可能出现假阴性结果。
+在多数的温抗体型自身免疫性溶血性贫血中，抗体IgG仅被鉴定为全凝聚素，这意味着抗体的抗原特异性不能确定。在冷抗体型疾病中，抗体通常是直接针对RBC表面上的I/i碳水化合物的IgM。抗体效价通常可明确，但其并不总与疾病活动性相关。在没有自身免疫性溶血性贫血的情况下，直接抗球蛋白（直接Coombs）检测可能为阳性，因此应仅在适当的临床环境中进行。直接抗球蛋白检测假阳性可能是由于存在临床意义不大的抗体所致或由于静脉用免疫球蛋白(IVIG)、RHD免疫球蛋白或达雷妥尤单抗治疗导致副蛋白升高。由于近期输血后的同种抗体和延迟的溶血性输血反应，直接抗球蛋白试验也可能呈阳性。
+间接抗人球蛋白（间接Coombs）试验是一种补充试验，包括将患者血浆与正常红细胞混合，以确定血浆中是否存在此类抗体（见图间接抗球蛋白质试验）。间接抗人球蛋白试验阳性且直接试验阴性通常提示存在的同种异体抗体是由妊娠、前期输血或外源性凝集素交叉反应所产生而不是免疫性溶血所致。即使证实存在温抗体，也不能确定发生溶血，因为1/10,000的健康献血者该试验可阳性。
+一旦通过抗人球蛋白试验明确为自身免疫性溶血性贫血，应进一步鉴别温抗体型溶血性贫血和冷凝集素病，同时也应明确引起温抗体型溶血性贫血的机制。通过观察直接抗人球蛋白的反应类型可做出判断。有三种可能的类型：
+抗IgG阳性而抗C3为阴性。这种类型在特发性AIHA和药物相关的或甲基多巴相关的AIHA中较常见，一般为温抗体溶血性贫血。
+抗IgG阳性而抗C3为阴性。这种类型在特发性AIHA和药物相关的或甲基多巴相关的AIHA中较常见，一般为温抗体溶血性贫血。
+抗IgG与抗C3反应均呈阳性。这种类型在系统性红斑狼疮（SLE）和特发性AIHA患者中较常见，一般为温抗体性溶血性贫血，且在与药物相关的病例中较罕见。
+抗IgG与抗C3反应均呈阳性。这种类型在系统性红斑狼疮（SLE）和特发性AIHA患者中较常见，一般为温抗体性溶血性贫血，且在与药物相关的病例中较罕见。
+抗C3阳性而抗IgG为阴性。这种类型发生于冷凝集素病（其抗体通常为IgM)。其也可发生于温抗体型溶血性贫血，此时IgG抗体亲和力较低，多见于一些药物相关性的病例及PCH中。
+抗C3阳性而抗IgG为阴性。这种类型发生于冷凝集素病（其抗体通常为IgM)。其也可发生于温抗体型溶血性贫血，此时IgG抗体亲和力较低，多见于一些药物相关性的病例及PCH中。
+其他试验也可提示AIHA的病因，但往往是非特异性的。在冷凝集素病中，当使用未加热的血液时，红细胞会在外周涂片上聚集，自动细胞计数通常会显示平均红细胞体积增加，血红蛋白因这种聚集而异常降低；试管的手温化和重新计数结果使数值明显接近正常值。温抗体型溶血性贫血与冷凝集素病的鉴别常可通过不同温度下直接抗人球蛋白试验阳性加以判断；温度≥37°C时试验阳性，提示温抗体型溶血性贫血，而温度较低时试验阳性则提示冷凝集素病。
+冷凝集素病中的热幅测试测量冷自身抗体与其抗原结合的温度范围。能与 30 以上抗原结合的冷抗体°C 被认为具有潜在临床意义，并且越接近核心体温，抗体引起症状的可能性就越大，溶血也越严重。
+By permission of the publisher.From Tefferi A, Li C.InAtlas of Clinical Hematology.Edited by JO Armitage.Philadelphia, Current Medicine, 2004.
+如果怀疑阵发性冷性血红蛋白尿（PCH），应进行Donath-Landsteiner试验，其对诊断PCH有特异性 (2)。试验中，将患者的血清与正常RBC在4°C孵育30分钟以确保补体固定，然后将其温热至体温。试验中若出现红细胞溶血则提示PCH。由于PCH抗体在低温下可修复补体，所以直接抗球蛋白（直接Coombs）试验对C3呈阳性，对IgG呈阴性。但是，PCH中存在的抗体是针对P抗原的IgG。
+
+【诊断参考】
+1.Sachs UJ, Röder L, Santoso S, Bein G.Does a negative direct antiglobulin test exclude warm autoimmune haemolytic anaemia?A prospective study of 504 cases.Br J Haematol2006;132(5):655-656.doi:10.1111/j.1365-2141.2005.05955.x
+1.Sachs UJ, Röder L, Santoso S, Bein G.Does a negative direct antiglobulin test exclude warm autoimmune haemolytic anaemia?A prospective study of 504 cases.Br J Haematol2006;132(5):655-656.doi:10.1111/j.1365-2141.2005.05955.x
+2.Tiwari AK, Aggarwal G, Mitra S, et al.Applying Donath-Landsteiner test for the diagnosis of paroxysmal cold hemoglobinuria.Asian J Transfus Sci2020;14(1):57-59.doi:10.4103/ajts.AJTS_132_17
+2.Tiwari AK, Aggarwal G, Mitra S, et al.Applying Donath-Landsteiner test for the diagnosis of paroxysmal cold hemoglobinuria.Asian J Transfus Sci2020;14(1):57-59.doi:10.4103/ajts.AJTS_132_17
+
+【自体免疫性溶血性贫血的治疗】
+输血治疗严重贫血（通常伴有不适当的网织红细胞反应）
+输血治疗严重贫血（通常伴有不适当的网织红细胞反应）
+对于药物诱发的温抗体型溶血性贫血，应停用该药物，且有时需静脉输注免疫球蛋白
+对于药物诱发的温抗体型溶血性贫血，应停用该药物，且有时需静脉输注免疫球蛋白
+对于特发性温抗体型溶血性贫血，可使用皮质类固醇，对于难治性病例，可使用利妥昔单抗、静脉注射免疫球蛋白、免疫抑制剂（如,硫唑嘌呤、吗替麦考酚酯或环磷酰胺）或脾切除术
+对于特发性温抗体型溶血性贫血，可使用皮质类固醇，对于难治性病例，可使用利妥昔单抗、静脉注射免疫球蛋白、免疫抑制剂（如,硫唑嘌呤、吗替麦考酚酯或环磷酰胺）或脾切除术
+对于冷凝集素病，应避免寒冷，且需治疗原发疾病。
+对于冷凝集素病，应避免寒冷，且需治疗原发疾病。
+对于PCH，应避免受凉及使用免疫抑制剂，且需对梅毒进行治疗。在儿童中，这种疾病往往是自限性的。
+对于PCH，应避免受凉及使用免疫抑制剂，且需对梅毒进行治疗。在儿童中，这种疾病往往是自限性的。
+对于迅速出现严重危及生命的贫血的患者，输血是最重要的治疗方法。在这种情况下，不应由于缺乏“相容”供体而放弃输血。一般来说，既往没有过输血或怀孕的患者发生ABO血型相溶性溶血的风险较低。即使输注的细胞发生溶血，在可以进行更明确的治疗之前，输血也可以挽救生命。如果网织红细胞反应不足，可以使用促红细胞生成素。
+更具体的治疗取决于溶血的机制。
+
+【温抗体型溶血性贫血】
+在药物诱发的温抗体型溶血性贫血中，停用该药物可减慢溶血速度。甲基多巴相关的AIHA，溶血常可在3周内停止；然而抗人球蛋白试验阳性却可持续>1年以上。半抗原介导的AIHA，当药物从血清中被清除后溶血即可停止。皮质类固醇和/或免疫球蛋白输注可用作二线治疗。
+对于特发性温抗体型AIHA,糖皮质激素（例如泼尼松1mg/kg，每天1次，口服）是标准的一线治疗。 当红细胞数量稳定后，糖皮质激素应根据实验室监测溶血的指标缓慢减量（如血红蛋白含量及网织红细胞计数）。目标是使患者完全停用糖皮质激素，或以最小剂量维持缓解。约有三分之二至 80% 的患者对初始皮质类固醇治疗有反应，但复发或皮质类固醇依赖很常见（1，2，3）。糖皮质激素依赖或耐药的患者，可应用利妥昔单抗作为二线治疗。许多专家还将利妥昔单抗添加到一线治疗中，尤其是在严重病例中。
+其他治疗包括使用额外的免疫抑制药物、叶酸和/或脾切除术。约三分之一到一半的患者在脾切除术后可有持续应答 (4)。
+暴发性溶血的患者，可予大剂量激素冲击治疗或环磷酰胺免疫抑制。对于不严重但难以控制的溶血，输注免疫球蛋白可短暂控制病情。
+对于接受糖皮质激素治疗及脾切除无效的患者，长期使用免疫抑制剂（包括环孢菌素）或可有效。
+对于温抗体型溶血性贫血的患者，全凝集素抗体的存在使供受体交叉配型较为困难。此外，输血可导致在自身抗体的基础上又加入了同种异体抗体，或可加速溶血。因此，当贫血不严重时，应谨慎输血，但对于严重或进行性自身免疫性溶血性贫血患者，不应停止输血，特别是当网织红细胞计数不足以补偿时。
+由于利率静脉血栓栓塞症在温性 AIHA 患者中，其发病率增加，住院期间应继续进行药物预防。
+
+【冷凝集素病】
+在多数情况下，预防症状性贫血只需避免寒冷环境和其他可能的溶血诱因。
+在淋巴增生性疾病患者中发生的情况下，治疗针对的是潜在的疾病。利妥昔单抗，有时与苯达莫司汀一起使用，是常用的药物，且用于治疗淋巴增生性疾病的化疗方案可能是有效的。在一项小型随机临床试验中，经典补体途径的抑制剂 sutimlimab 被证明可以提高大约一半的冷凝集素病患者的血红蛋白水平并减少输血需求(5)。这是严重贫血患者的一种治疗选择，但建议首先接种针对传染性病原体的疫苗或同时进行抗菌预防。
+病情严重的患者，血浆置换是一种有效的临时治疗。严重贫血应进行输血，并通过在线加热器对血液进行加热。
+脾切除常常无效，免疫抑制剂治疗效果亦有限。
+
+【阵发性冷性血红蛋白尿】
+在阵发性冷血红蛋白尿(PCH)中，治疗包括严格避免受凉。免疫抑制剂已被证实有效，但应限制用于急进性或特发性的病例中。
+脾切除无效。
+治疗伴发的梅毒或可治愈PCH。
+
+【治疗参考文献】
+1.Abdallah GEM, Abbas WA, Elbeih EAS, Abdelmenam E, Mohammed Saleh MF.Systemic corticosteroids in the treatment of warm autoimmune hemolytic anemia: A clinical setting perspective.Blood Cells Mol Dis2021;92:102621.doi:10.1016/j.bcmd.2021.102621
+1.Abdallah GEM, Abbas WA, Elbeih EAS, Abdelmenam E, Mohammed Saleh MF.Systemic corticosteroids in the treatment of warm autoimmune hemolytic anemia: A clinical setting perspective.Blood Cells Mol Dis2021;92:102621.doi:10.1016/j.bcmd.2021.102621
+2.Birgens H, Frederiksen H, Hasselbalch HC, et al.A phase III randomized trial comparing glucocorticoid monotherapy versus glucocorticoid and rituximab in patients with autoimmune haemolytic anaemia.Br J Haematol2013;163(3):393-399.doi:10.1111/bjh.12541
+2.Birgens H, Frederiksen H, Hasselbalch HC, et al.A phase III randomized trial comparing glucocorticoid monotherapy versus glucocorticoid and rituximab in patients with autoimmune haemolytic anaemia.Br J Haematol2013;163(3):393-399.doi:10.1111/bjh.12541
+3.Zupańska B, Sylwestrowicz T, Pawelski S.The results of prolonged treatment of autoimmune haemolytic anaemia.Haematologia(Budap) 1981;14(4):425-433.
+3.Zupańska B, Sylwestrowicz T, Pawelski S.The results of prolonged treatment of autoimmune haemolytic anaemia.Haematologia(Budap) 1981;14(4):425-433.
+4.Maskal S, Al Marzooqi R, Fafaj A, et al.Clinical and surgical outcomes of splenectomy for autoimmune hemolytic anemia.Surg Endosc2022;36(8):5863-5872.doi:10.1007/s00464-022-09116-x
+4.Maskal S, Al Marzooqi R, Fafaj A, et al.Clinical and surgical outcomes of splenectomy for autoimmune hemolytic anemia.Surg Endosc2022;36(8):5863-5872.doi:10.1007/s00464-022-09116-x
+5.Roth A, Barcellini W, D'Sa S, et al:Sutimlimabin cold agglutinin disease.N Engl J Med384(14):1323–1334, 2021. doi: 10.1056/NEJMoa2027760
+5.Roth A, Barcellini W, D'Sa S, et al:Sutimlimabin cold agglutinin disease.N Engl J Med384(14):1323–1334, 2021. doi: 10.1056/NEJMoa2027760
+根据自身抗体与红细胞反应的温度，自身免疫性溶血性贫血分为温抗体型溶血性贫血和冷凝集素病。
+根据自身抗体与红细胞反应的温度，自身免疫性溶血性贫血分为温抗体型溶血性贫血和冷凝集素病。
+在温抗体溶血性贫血中溶血往往更严重，如果同时存在网状红细胞减少症，则可能是致命的。
+在温抗体溶血性贫血中溶血往往更严重，如果同时存在网状红细胞减少症，则可能是致命的。
+若在抗人球蛋白血清中加入洗涤红细胞后可发生凝集反应（直接抗球蛋白试验阳性），则提示患者红细胞表面结合有免疫球蛋白和/或补体。
+若在抗人球蛋白血清中加入洗涤红细胞后可发生凝集反应（直接抗球蛋白试验阳性），则提示患者红细胞表面结合有免疫球蛋白和/或补体。
+直接抗人球蛋白反应的类型可帮助区分温抗体型溶血性贫血和冷凝集素病 。
+直接抗人球蛋白反应的类型可帮助区分温抗体型溶血性贫血和冷凝集素病 。
+应针对病因进行治疗（包括停止用药，避免感冒，治疗潜在疾病）。
+应针对病因进行治疗（包括停止用药，避免感冒，治疗潜在疾病）。
+皮质类固醇激素仍然是特发性温抗体溶血性疾病的一线治疗。
+皮质类固醇激素仍然是特发性温抗体溶血性疾病的一线治疗。

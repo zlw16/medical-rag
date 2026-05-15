@@ -1,0 +1,21 @@
+标题：裂头蚴病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/cestodes-tapeworms/sparganosis
+============================================================
+
+Spirometra（迭宫绦虫属）和Sparganum proliferum（曼氏裂头蚴）成虫可感染狗、猫和其他食肉动物。虫卵排入淡水后被桡足类（小型甲壳动物，如Cyclops）吞食。鱼类、爬行动物和两栖动物（包括蛙类）摄入桡足类后成为中间宿主。引起裂头蚴病的绦虫在世界范围内都存在，但大多数人类病例发生在东南亚。
+人类和其他哺乳动物因
+误食受猫或狗粪污染水中的桡足类
+误食受猫或狗粪污染水中的桡足类
+或，食入未熟透的其他中间宿主的肉
+或，食入未熟透的其他中间宿主的肉
+或接触含有来自这些宿主肉类的药膏
+或接触含有来自这些宿主肉类的药膏
+在人体中，幼虫一般移行到皮下组织或肌肉并形成缓慢生长的肿块。其他部位，包括中枢神经系统可能也会被累及但一般很少发生。症状可能由肿块占位导致。中枢神经系统中的裂头蚴肿块可导致虚弱、头痛、癫痫发作、麻木、刺痛或异常的皮肤感觉。
+尽管影像学检测到肿块可能提示感染，但裂头蚴病的诊断通常需通过手术切除幼虫的裂头蚴团块后确认。针对裂头蚴蛋白的特异性IgG抗体也可通过酶联免疫吸附试验（ELISA）在外周血和脑脊液中检测到（1）。
+手术是主要的治疗方法，通常用于有症状的占位性病变 (2)。一般来说，使用驱肠虫药治疗效果欠佳。
+
+【参考文献】
+1.Yamasaki H, Nakamura T, Intapan PM, et al.Development of a Rapid Diagnostic Kit That Uses an Immunochromatographic Device To Detect Antibodies in Human Sparganosis.Clin Vaccine Immunol.2014;21(9):1360-1363.doi:10.1128/CVI.00149-14
+1.Yamasaki H, Nakamura T, Intapan PM, et al.Development of a Rapid Diagnostic Kit That Uses an Immunochromatographic Device To Detect Antibodies in Human Sparganosis.Clin Vaccine Immunol.2014;21(9):1360-1363.doi:10.1128/CVI.00149-14
+2.Yang E, Lee J, Patel V.Diagnosis and management of cerebral sparganosis: An uncommon parasitic infection of the brain.Radiol Case Rep.17(6):1874-1880, 2022.Published 2022 Apr 4.doi:10.1016/j.radcr.2022.02.084
+2.Yang E, Lee J, Patel V.Diagnosis and management of cerebral sparganosis: An uncommon parasitic infection of the brain.Radiol Case Rep.17(6):1874-1880, 2022.Published 2022 Apr 4.doi:10.1016/j.radcr.2022.02.084

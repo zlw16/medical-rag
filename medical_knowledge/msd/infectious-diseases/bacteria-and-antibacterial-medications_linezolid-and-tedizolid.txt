@@ -1,0 +1,81 @@
+标题：利耐唑胺和泰地唑胺
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/bacteria-and-antibacterial-medications/linezolid-and-tedizolid
+============================================================
+
+利耐唑胺和泰地唑胺是恶唑烷酮抗生素。
+
+【利奈唑胺】
+利奈唑胺是噁唑烷酮类抗生素，有下列抗菌活性
+链球菌属
+链球菌属
+肠球菌，包括耐万古霉素的肠球菌(VRE)
+肠球菌，包括耐万古霉素的肠球菌(VRE)
+葡萄球菌包括耐甲氧西林金黄色葡萄球菌（MRSA）和其他对其他类别抗生素具有耐药性的菌株
+葡萄球菌包括耐甲氧西林金黄色葡萄球菌（MRSA）和其他对其他类别抗生素具有耐药性的菌株
+分枝杆菌， 包含结核分枝杆菌
+分枝杆菌， 包含结核分枝杆菌
+厌氧菌（如Fusobacterium,Prevotella,Porphyromonas, 和Bacteroides属和消化链球菌）。
+厌氧菌（如Fusobacterium,Prevotella,Porphyromonas, 和Bacteroides属和消化链球菌）。
+
+【利奈唑胺的禁忌症】
+禁用于既往有过敏反应者。
+服用单胺氧化酶抑制剂 (MAOIs) 的患者禁用利奈唑胺。
+
+【血清素综合征】
+利奈唑胺是一种可逆性非选择性单胺氧化酶抑制剂；单胺氧化酶的抑制会导致神经递质血清素水平升高。因此，利奈唑胺有导致血清素综合征的可能（高血清素状态特征是精神状态的改变、神经系统异常及自主神经不稳定），当被用于具有以下任一情况的患者中时：
+内分泌活性类癌
+内分泌活性类癌
+使用具有血清素活性的药物
+使用具有血清素活性的药物
+这类药物包括选择性血清素再摄取抑制剂、单胺氧化酶抑制剂（如苯乙肼、异卡波肼）、三环类抗抑郁药、5 - 羟色胺 1B/1D 受体激动剂（如曲坦类药物）、哌替啶、美沙酮、安非他酮及丁螺环酮。使用美国食品药品监督管理局不良事件报告系统 (FAERS) 数据分析表明，当利奈唑胺与西酞普兰（或艾司西酞普兰）或美沙酮联合使用时，最有可能导致血清素综合征(1)。后续队列研究的数据表明利奈唑胺可以安全地用于大多数服用抗抑郁药和阿片类药物的患者（2，3）。因此，正在服用此类药物且急需利奈唑胺的患者，如果认为益处大于风险，则可以进行治疗。然而，利奈唑胺与西酞普兰（或艾司西酞普兰）或美沙酮的联合用药应尽可能避免。
+近期或正在使用任何含血清素药物并联用利奈唑胺的患者，应在停用相关药物2周后（氟西汀为5周）或在最后一次利奈唑胺给药24小时后，仔细监测其血清素综合征的表现。
+尚未在类癌综合征患者中研究利奈唑胺；只有在密切监测患者血清素综合征的症状和体征的情况下才可以使用。
+除非监测患者潜在的血压升高，否则利奈唑胺不应给予以下患者：
+服用以下任何一种药物的人：拟交感活性药物（如伪麻黄碱）、血管升压药物（如肾上腺素、去甲肾上腺素）、多巴胺能药物（如多巴胺、多巴酚丁胺）
+服用以下任何一种药物的人：拟交感活性药物（如伪麻黄碱）、血管升压药物（如肾上腺素、去甲肾上腺素）、多巴胺能药物（如多巴胺、多巴酚丁胺）
+未控制高血压
+未控制高血压
+甲状腺功能亢进
+甲状腺功能亢进
+嗜铬细胞瘤患者
+嗜铬细胞瘤患者
+
+【禁忌症的参考文献】
+1.Gatti M, Raschi E, De Ponti F.Serotonin syndrome by drug interactions withlinezolid: clues from pharmacovigilance-pharmacokinetic/pharmacodynamic analysis.Eur J Clin Pharmacol.2021;77(2):233-239.doi:10.1007/s00228-020-02990-1
+1.Gatti M, Raschi E, De Ponti F.Serotonin syndrome by drug interactions withlinezolid: clues from pharmacovigilance-pharmacokinetic/pharmacodynamic analysis.Eur J Clin Pharmacol.2021;77(2):233-239.doi:10.1007/s00228-020-02990-1
+2.Bai AD, McKenna S, Wise H, Loeb M, Gill SS.Association ofLinezolidWith Risk of Serotonin Syndrome in Patients Receiving Antidepressants.JAMA Netw Open.2022;5(12):e2247426.Published 2022 Dec 1.doi:10.1001/jamanetworkopen.2022.47426
+2.Bai AD, McKenna S, Wise H, Loeb M, Gill SS.Association ofLinezolidWith Risk of Serotonin Syndrome in Patients Receiving Antidepressants.JAMA Netw Open.2022;5(12):e2247426.Published 2022 Dec 1.doi:10.1001/jamanetworkopen.2022.47426
+3.Mitwally H, Saad MO, Alkhiyami D, et al.Risk of serotonin syndrome in acutely ill patients receivinglinezolidand opioids concomitantly: a retrospective cohort study.IJID Reg.2022;5:137-140.Published 2022 Sep 24.doi:10.1016/j.ijregi.2022.09.008
+3.Mitwally H, Saad MO, Alkhiyami D, et al.Risk of serotonin syndrome in acutely ill patients receivinglinezolidand opioids concomitantly: a retrospective cohort study.IJID Reg.2022;5:137-140.Published 2022 Sep 24.doi:10.1016/j.ijregi.2022.09.008
+
+【在妊娠和哺乳期间使用利奈唑胺】
+用利奈唑胺进行的动物生殖研究显示出一定的风险，但尚未对孕妇进行充分，对照良好的研究。只有在潜在获益大于对胎儿的潜在风险时，才可在怀孕期间使用利奈唑胺。
+利奈唑胺是否经乳汁分泌或在哺乳期使用是否安全，目前尚不清楚。
+
+【利奈唑胺的不良反应】
+利奈唑胺的不良反应包括
+可逆性骨髓抑制
+可逆性骨髓抑制
+不可逆性外周神经炎
+不可逆性外周神经炎
+可逆性视神经病变
+可逆性视神经病变
+血清素综合征
+血清素综合征
+可逆性乳酸性酸中毒
+可逆性乳酸性酸中毒
+约 3% 的患者会出现可逆性骨髓抑制（包括血小板减少、白细胞减少和贫血），且在新生儿和幼儿中的发生率更高，通常在治疗>2 周后发生。因此，应每周监测全血细胞计数，尤其是在治疗>2 周时。
+长期使用可能出现外周神经病变和视神经病变，长期接受利奈唑胺治疗的患者应密切监测这些疾病。
+
+【泰地唑胺】
+特地唑胺是恶唑烷酮类抗生素，抗菌活性谱类似于利奈唑胺，尽管它可能对一些利奈唑胺耐药的革兰氏阳性球菌有抗菌活性。
+在临床试验中，使用特地唑胺出现血清素综合征和血小板减少症的风险比使用利奈唑胺低。与利奈唑胺一样，特地唑胺可引起显著的中性粒细胞减少症，当存在可接受的替代方案时，不推荐在中性粒细胞计数<1000/mcL(<1×109/L)的患者中使用这些恶唑烷酮类抗生素。
+
+【在妊娠和哺乳期间使用特地唑胺】
+用特地唑胺进行的动物生殖研究显示出一定的风险，尚未对孕妇进行充分且对照良好的研究。只有在证实对胎儿的潜在获益大于潜在危害的时候才在怀孕期间使用特地唑胺。
+特地唑胺是否经乳汁分泌或在哺乳期是否安全，目前尚不清楚。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对该资源的内容不承担任何责任。
+FDA Adverse Events Reporting System (FAERS): A toll that allows users to query FAERS data
+FDA Adverse Events Reporting System (FAERS): A toll that allows users to query FAERS data

@@ -1,0 +1,63 @@
+标题：嗜酸细胞性食管炎
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/esophageal-and-swallowing-disorders/eosinophilic-esophagitis
+============================================================
+
+（参见食管和吞咽性疾病概述）。
+嗜酸性食管炎逐渐被人们认识，可见于婴儿期至青年期；偶尔见于老年人。男性更为常见。
+嗜酸性食管炎的病因可能为遗传易感性个体对食物抗原的免疫应答；环境过敏原也可能参与其中。未经治疗的慢性食管炎最终可导致食管狭窄。
+
+【嗜酸性粒细胞性食管炎的症状】
+婴儿和儿童可能会出现拒食、呕吐、体重减轻、腹痛和/或胸痛。
+成人患者食管食物嵌塞可为首发表现，大多数患者表现为吞咽困难。可能表现为胃食管反流病的症状，如烧心。
+患者常同时有其他特应性疾病的表现（如哮喘、湿疹、过敏性鼻炎）。
+
+【嗜酸性粒细胞性食管炎的诊断】
+内镜及活检
+内镜及活检
+有时钡餐检查
+有时钡餐检查
+典型的嗜酸性粒细胞性食管炎患者有固体吞咽困难和特应性病史。若反流症状对抑酸治疗无反应，也需考虑嗜酸性食管炎的诊断。成人中如果出食管食物嵌塞或非心源性胸痛，也需要考虑该诊断。
+确诊需要内镜下活检提示嗜酸性粒细胞浸润（≥ 15个嗜酸性粒细胞/高倍视野）。 虽然内镜检查可见到明显异常（如线性沟纹、狭窄、堆叠的环状、血管斑纹消失、白色渗出物），但有时其外观也可能正常，因此有必要进行活检。 由于GERD也可引起嗜酸性粒细胞浸润，以反流症状为主的患者应行活检；近端和中段食管的样本应与远端食管样本分开处理。
+Image provided by Kristle Lynch, MD.
+Image provided by Kristle Lynch, MD.
+Image provided by Kristle Lynch, MD.
+Image provided by Kristle Lynch, MD.
+Image provided by Kristle Lynch, MD.
+Image provided by Kristle Lynch, MD.
+钡剂吞咽检查可能显示堆叠的环形环、纵行沟、食管管腔狭窄，或狭窄病变。
+阻抗平面测量法偶尔用于有明显症状的患者，以评估细微狭窄。
+食物过敏测试通常用于识别可能的诱因，但益处有限，因为嗜酸性粒细胞性食管炎并非IgE介导的疾病 (1)。
+
+【诊断参考文献】
+1.Hirano I, Chan ES, Rank MA, et al.: AGA institute and the joint task force on allergy-immunology practice parameters clinical guidelines for the management of eosinophilic esophagitis.Ann Allergy Asthma Immunol2020;124(5):416-423.doi:10.1016/j.anai.2020.03.020
+1.Hirano I, Chan ES, Rank MA, et al.: AGA institute and the joint task force on allergy-immunology practice parameters clinical guidelines for the management of eosinophilic esophagitis.Ann Allergy Asthma Immunol2020;124(5):416-423.doi:10.1016/j.anai.2020.03.020
+
+【嗜酸性食管炎的治疗】
+质子泵抑制剂
+质子泵抑制剂
+局部糖皮质激素
+局部糖皮质激素
+杜比单抗
+杜比单抗
+排除饮食
+排除饮食
+必要时食管扩张
+必要时食管扩张
+（另见美国胃肠病学协会 (AGA) 和过敏-免疫学实践参数联合工作组的指南[1] 以及美国胃肠病学会的指南[2]。）
+对于成人来说，医疗选择包括质子泵抑制剂 (PPI)、外用皮质类固醇和生物制剂度匹单抗。
+在儿童中，如果饮食改变无效，通常会使用 PPI。PPI 被认为通过 eotaxin-3 途径起作用。
+若PPI治疗失败，常使用局部皮质类固醇治疗嗜酸性食管炎。患者可使用氟替卡松多剂量吸入器；将药物喷入口中（不吸入），然后咽下。或者，可在早餐后 30 分钟与晚餐后 30 分钟服用 1-2 毫克布地奈德口服黏性混悬液。应使用氟替卡松或布地奈德至少8周以确定疗效。若患者通过其中一种治疗达到缓解，通常需无限期持续治疗。这些药物的维持剂量尚未确定。
+度普利尤单抗是一种生物制剂，通过皮下注射给药，适用于年龄≥1 岁、体重至少 15 千克（33 磅）的患者。它是一种人类单克隆抗体，是一种白细胞介素 (IL)-4 受体 α 拮抗剂，可抑制 IL-4 和 IL-13 信号传导。一项3期临床试验表明，嗜酸性粒细胞性食管炎患者每周注射度匹单抗后，其组织学结果和症状均获得改善（3）。
+对于部分嗜酸性食管炎患者来说，排除饮食疗法可能是有效的（4）。元素饮食可能对成人和儿童都有效，但对成人来说往往不切实际。
+若患者存在显著狭窄，需球囊或探条谨慎扩张；操作时应进行多次、小心、渐进式扩张，以防食管穿孔。
+正在研究针对体内嗜酸性粒细胞通路的注射和输液疗法治疗嗜酸性粒细胞性食管炎。
+
+【治疗参考文献】
+1.Hirano I, Chan ES, Rank MA, et al.: AGA institute and the joint task force on allergy-immunology practice parameters clinical guidelines for the management of eosinophilic esophagitis.Ann Allergy Asthma Immunol2020;124(5):416-423.doi:10.1016/j.anai.2020.03.020
+1.Hirano I, Chan ES, Rank MA, et al.: AGA institute and the joint task force on allergy-immunology practice parameters clinical guidelines for the management of eosinophilic esophagitis.Ann Allergy Asthma Immunol2020;124(5):416-423.doi:10.1016/j.anai.2020.03.020
+2.Dellon ES, Muir AB, Katzka DA, et al: ACG Clinical Guideline: Diagnosis and Management of Eosinophilic Esophagitis.Am J Gastroenterol2025;120(1):31-59.doi:10.14309/ajg.0000000000003194
+2.Dellon ES, Muir AB, Katzka DA, et al: ACG Clinical Guideline: Diagnosis and Management of Eosinophilic Esophagitis.Am J Gastroenterol2025;120(1):31-59.doi:10.14309/ajg.0000000000003194
+3.Dellon ES, Rothenberg ME, Collins MH, et al:Dupilumabin Adults and Adolescents with Eosinophilic Esophagitis.N Engl J Med387(25):2317-2330, 2022.doi: 10.1056/NEJMoa2205982
+3.Dellon ES, Rothenberg ME, Collins MH, et al:Dupilumabin Adults and Adolescents with Eosinophilic Esophagitis.N Engl J Med387(25):2317-2330, 2022.doi: 10.1056/NEJMoa2205982
+4.Mayerhofer C, Kavallar AM, Aldrian D, et al: Efficacy of Elimination Diets in Eosinophilic Esophagitis: A Systematic Review and Meta-analysis.Clin Gastroenterol Hepatol21(9):2197-2210.e3, 2023.doi: 10.1016/j.cgh.2023.01.019
+4.Mayerhofer C, Kavallar AM, Aldrian D, et al: Efficacy of Elimination Diets in Eosinophilic Esophagitis: A Systematic Review and Meta-analysis.Clin Gastroenterol Hepatol21(9):2197-2210.e3, 2023.doi: 10.1016/j.cgh.2023.01.019

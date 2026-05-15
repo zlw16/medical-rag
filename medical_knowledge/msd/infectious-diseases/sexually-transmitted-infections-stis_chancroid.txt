@@ -1,0 +1,59 @@
+标题：软下疳
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/sexually-transmitted-infections-stis/chancroid
+============================================================
+
+（另见性传播感染疾病概述。）
+Haemophilus ducreyi杜克雷嗜血杆菌是一种短而细小的革兰氏阴性杆菌，两端呈圆形。
+软下疳是一种在美国及其他高资源国家罕见、主要通过偶发性地方性流行传播的性传播感染（STI）。
+然而，软下疳在亚洲、非洲和加勒比地区资源匮乏区域是导致生殖器溃疡的常见病因。
+与其他引起生殖器溃疡的性传播感染（STIs）一样，软下疳增加了HIV传播的风险。
+H. ducreyi（杜克雷嗜血杆菌）也可能导致非生殖器皮肤溃疡（1）。
+
+【参考文献】
+1.Mitjà O, Lukehart SA, Pokowas G, et al:Haemophilus ducreyias a cause of skin ulcers in children from a yaws-endemic area of Papua New Guinea: A prospective cohort study.Lancet Glob Health2:e235–41, 2014.doi: 10.1016/S2214-109X(14)70019-1
+1.Mitjà O, Lukehart SA, Pokowas G, et al:Haemophilus ducreyias a cause of skin ulcers in children from a yaws-endemic area of Papua New Guinea: A prospective cohort study.Lancet Glob Health2:e235–41, 2014.doi: 10.1016/S2214-109X(14)70019-1
+
+【软性下疳的症状和体征】
+经过3至7天的潜伏期后，生殖器皮肤或黏膜上会出现小而疼痛的丘疹，并迅速溃破形成浅表、柔软、疼痛的溃疡，边缘不规则呈潜行性（即组织悬垂），周围伴有红斑边界。溃疡大小不一，常相互融合。较深处的糜烂偶可导致明显的组织破坏。
+腹股沟淋巴结形成腹股沟淋巴结肿大。腹股沟淋巴结炎是指区域性淋巴结群肿大、触痛，有时相互粘连、波动或化脓，部分情况下可形成脓肿。脓肿上方的皮肤发红，发亮并可破溃而形成窦道。感染可向皮肤的其他区域播散，引起新的病变。
+包茎、尿道狭窄和尿道瘘管可能是软下疳的并发症。
+阴茎疼痛性丘疹或脓疱是软下疳的特征性表现（此照片中可见脓疱）。许多患者伴有触痛（有时是波动性、化脓性）的腹股沟淋巴结肿大（腹股沟淋巴结炎）。
+Image courtesy of Dr. Pirozzi via the Public Health Image Library of the Centers for Disease Control and Prevention.
+这张照片显示的是龟头上的软下疳溃疡。
+Photo courtesy of Karen McKoy, MD.
+
+【软下疳的诊断】
+病史和体格检查
+病史和体格检查
+有时进行培养或核酸扩增检测（NAAT）
+有时进行培养或核酸扩增检测（NAAT）
+患有不明原因的生殖器溃疡或淋巴结肿大 以及正在或曾经在流行地区的患者应怀疑有软下疳。由其他原因引起的生殖器溃疡（参见表常见性传播性生殖器病变的鉴别）可能与软下疳相似。
+由于细菌难以培养，而且溃疡处的多种细菌使显微镜检查难以鉴别，诊断常常仅基于临床表现。
+如果条件允许，应设法从腹股沟淋巴结炎的脓液或溃疡边缘渗出物中取材，在能鉴别杜克雷嗜血杆菌的实验室作培养。NAAT检测在一些国家/地区有售，并且对H. ducreyi（杜克雷嗜血杆菌）具有高度敏感性（> 98%）（1，2）。培养的敏感性较低（< 80%）。
+需进行梅毒和HIV的血清学检测，以及疱疹NAAT或病原体培养，以排除其他导致生殖器溃疡的病因。由于其他病因导致的生殖器溃疡可能与H. ducreyi（杜克雷嗜血杆菌）同时感染患者，故相关检测的结果的解读会变得复杂。
+
+【诊断参考】
+1.Orle KA, Gates CA, Martin DH, Body BA, Weiss JB.Simultaneous PCR detection ofHaemophilus ducreyi,Treponema pallidum, and herpes simplex virus types 1 and 2 from genital ulcers.J Clin Microbiol.1996;34(1):49-54.doi:10.1128/jcm.34.1.49-54.1996
+1.Orle KA, Gates CA, Martin DH, Body BA, Weiss JB.Simultaneous PCR detection ofHaemophilus ducreyi,Treponema pallidum, and herpes simplex virus types 1 and 2 from genital ulcers.J Clin Microbiol.1996;34(1):49-54.doi:10.1128/jcm.34.1.49-54.1996
+2.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+2.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+
+【治疗软下疳】
+抗生素治疗
+抗生素治疗
+应当立即开始治疗软下疳，而无需等待检测结果。以下推荐治疗方案任选 (1)：
+单剂阿奇霉素1g口服，或头孢曲松250mg肌内注射
+单剂阿奇霉素1g口服，或头孢曲松250mg肌内注射
+红霉素500mg口服，每天3次，连服7日
+红霉素500mg口服，每天3次，连服7日
+环丙沙星 500 mg 口服，每日 2 次，连用 3 天。
+环丙沙星 500 mg 口服，每日 2 次，连用 3 天。
+对于因其他原因导致生殖器溃疡而接受治疗的患者，如怀疑软下疳且无法进行实验室检测，应给予可同时治疗软下疳的抗生素。
+同时存在HIV感染者，治疗效果较差，特别是单剂疗法疗效更差。在这些患者中，溃疡可能需要长达2周才能愈合，淋巴结肿大可能会愈合的更慢。
+除用于穿刺抽吸以辅助诊断外，若患者同时接受有效的抗生素治疗，也可通过切开淋巴结炎结节以缓解症状。
+如果性伴侣在患者出现症状前10天内与患者有过性接触，应对其进行检查和治疗。
+在后续随访中，患有软下疳的患者应在确诊软下疳后3个月进行梅毒和艾滋病的血清学检测。
+
+【Treatment reference】
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5

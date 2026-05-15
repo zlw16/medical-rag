@@ -1,0 +1,106 @@
+标题：医疗辐射风险
+来源：https://www.msdmanuals.cn/professional/special-subjects/principles-of-radiologic-imaging/risks-of-medical-radiation
+============================================================
+
+电离辐射(另请参见辐射暴露和污染)包括:
+高能电磁波（x射线，gamma射线）
+高能电磁波（x射线，gamma射线）
+粒子（alpha粒子，beta粒子，中子）
+粒子（alpha粒子，beta粒子，中子）
+电离辐射是由放射性元素和设备，如X射线和放射治疗机发出。
+许多诊断方法运用了离子放射技术（如X射线、CT、核素扫描），接受检查的患者暴露在相对低剂量的射线下，通常认为是安全的。然而，所有电离辐射是潜在有害的，并没有阈值低于该值就不会发生有害的影响，所以应尽一切可能将辐射暴露最小化。
+有多种量化辐射暴露的方法:
+吸收剂量是单位质量吸收的辐射量。辐射剂量以戈瑞（Gy）和毫戈瑞（mGy）为单位表示。以往使用辐射吸收剂量表示（rad）；1mGy=0.1 rad。
+吸收剂量是单位质量吸收的辐射量。辐射剂量以戈瑞（Gy）和毫戈瑞（mGy）为单位表示。以往使用辐射吸收剂量表示（rad）；1mGy=0.1 rad。
+当量剂量是吸收剂量乘以放射权重因子的积数，放射权重因子是各种放射源（如X射线、伽玛射线或者电子射线）作用在机体组织上的校正值。当量剂量以西弗（Sievert，Sv）和毫西弗（mSv）为单位表示。此前，在人以伦琴当量为单位表示（rem；1 mSv=0.1 rem）。对于放射成像技术，包括计算机断层扫描（CT）在内，其辐射权重因子均为1。
+当量剂量是吸收剂量乘以放射权重因子的积数，放射权重因子是各种放射源（如X射线、伽玛射线或者电子射线）作用在机体组织上的校正值。当量剂量以西弗（Sievert，Sv）和毫西弗（mSv）为单位表示。此前，在人以伦琴当量为单位表示（rem；1 mSv=0.1 rem）。对于放射成像技术，包括计算机断层扫描（CT）在内，其辐射权重因子均为1。
+这有效剂量是一种用于估计暴露于电离辐射的组织反应（或随机效应）的措施；它根据暴露于辐射的组织的敏感性（例如，性腺最敏感）调整等效剂量。有效剂量以Sv和mSV为单位表示。有效剂量在年轻人中更高。有效剂量有助于临床医生评估和比较与各种医疗辐射程序相关的健康风险，也可以与辐射防护标准中指定的职业剂量进行比较。
+这有效剂量是一种用于估计暴露于电离辐射的组织反应（或随机效应）的措施；它根据暴露于辐射的组织的敏感性（例如，性腺最敏感）调整等效剂量。有效剂量以Sv和mSV为单位表示。有效剂量在年轻人中更高。有效剂量有助于临床医生评估和比较与各种医疗辐射程序相关的健康风险，也可以与辐射防护标准中指定的职业剂量进行比较。
+医学成像是电离辐射的一个来源（见表典型辐射剂量)。另一个来源是环境背景暴露（从宇宙辐射和天然同位素），其可以是显著的，特别是在高海拔地区;飞机飞行导致环境辐射的暴露增加如下：
+从一个海岸到海岸的飞机飞行：0.01至0.03mSV
+从一个海岸到海岸的飞机飞行：0.01至0.03mSV
+在美国的平均年背景辐射暴露：约3mSv
+在美国的平均年背景辐射暴露：约3mSv
+每年在高海拔地区的暴露（例如科罗拉多州、新墨西哥州）：约 1.5 mSv 额外超过背景
+每年在高海拔地区的暴露（例如科罗拉多州、新墨西哥州）：约 1.5 mSv 额外超过背景
+
+【典型的辐射剂量*】
+典型的辐射剂量*
+影像诊断方法
+平均有效辐射剂量（mSv）
+双能X线吸收测定法（DEXA）
+0.001
+X射线，胸部（后前位）
+0.02
+X射线，胸部（2个：后前位和侧位）
+X 射线，腰椎（1 个侧面视图）
+X 光，四肢（1 个视图：手、脚等）
+0.001
+腹部 X 光检查（1 个视图）
+X射线、钡剂灌肠（下消化道检查）
+X 射线、上消化道钡剂检查
+数字化乳腺X光检查筛查
+0.21
+头颅CT
+CT, 胸部
+CT、腹部和骨盆
+冠状动脉造影
+冠状动脉造影和介入治疗
+肺部灌注扫描
+PET扫描（无全身CT）
+骨扫描（核医学）
+肝胆扫描
+2.1～3.1
+锝心脏扫描
+9.4～12.8
+*剂量可能会有所不同
+Mettler FA, Huda W, Yoshizumi TT, Mahesh M: Effective doses in radiology and diagnostic nuclear medicine: A catalog.Radiology248:254-263, 2008.
+American College of Radiology(ACR): Radiation Dose to Adults From Common Imaging Examinations. April 15, 2025. Accessed August 25, 2025.
+*剂量可能会有所不同
+Mettler FA, Huda W, Yoshizumi TT, Mahesh M: Effective doses in radiology and diagnostic nuclear medicine: A catalog.Radiology248:254-263, 2008.
+American College of Radiology(ACR): Radiation Dose to Adults From Common Imaging Examinations. April 15, 2025. Accessed August 25, 2025.
+如果进行多层螺旋CT扫描，个人的总累积剂量高，辐射可能是有害的，因为CT扫描比其他影像学检查需要更高的剂量。
+辐射暴露在某些高风险情况下也是要关注的问题，如以下情况：
+儿童早期
+儿童早期
+需要乳房X光检查的青年女性
+需要乳房X光检查的青年女性
+美国国家辐射防护与测量委员会指出，2006年至2016年间，非治疗性医疗辐射的估算剂量下降了15%～20%（1）。据估计，2006 年美国人均有效剂量为 2.92 毫希，2016 年为 2.16 毫希。
+多探测器 CT 扫描仪是美国最常用的类型，每次扫描产生的辐射量比单探测器 CT 扫描仪高出约 40% 至 70%。 然而，最近的进展（例如，自动曝光控制，迭代重建算法，第三代CT检测器）等，都有可能显著减少用于CT扫描的辐射剂量。美国放射学院已启动以下项目——Image Gently（针对儿童）和Image Wisely（针对成人）——旨在为影像专业人员提供资源和信息，以最大限度减少辐射暴露。
+
+【辐射与癌症】
+对于暴露在非常高辐射剂量的人群（如广岛和长崎原子弹爆炸后幸存者）研究结果已经表明，诊断性影像检查中辐射暴露可引起癌症发生的风险。来自人群的直接流行病学证据表明，当长期暴露（例如在职业环境中）的剂量超过约 50 至 100 mSv或急性暴露（例如原子弹暴露）的剂量超过 10 至 50 mSv时，接触电离辐射会增加患某些癌症的风险（2）。
+在年轻患者中风险更高，是因为:
+他们活得更长，给癌症更多的时间来生长。
+他们活得更长，给癌症更多的时间来生长。
+更多的细胞生长（DNA损伤的易感性）发生在年轻人中。
+更多的细胞生长（DNA损伤的易感性）发生在年轻人中。
+对于接受腹部 CT 扫描的 1 岁儿童，估计其一生中癌症死亡风险增加 0.18%（3）。而一个年老患者接受同样的检查，其癌症发生风险要低得多。
+风险还取决于受辐射的组织。淋巴组织、骨髓、血液、睾丸、卵巢和肠道对放射线非常敏感；在成人中，中枢神经系统和肌肉骨骼系统相对具有放射抗性。
+
+【妊娠期的放射暴露】
+辐射风险取决于:
+检查类型
+检查类型
+被检查的部位
+被检查的部位
+妊娠的胎龄
+妊娠的胎龄
+胎儿的放射暴露远较母亲为少；在下列X线检查中对胎儿的影响可以忽略不计：
+乳房（乳腺X线检查）当子宫被屏蔽时
+乳房（乳腺X线检查）当子宫被屏蔽时
+子宫暴露的程度取决于孕周和子宫的大小。辐射的影响取决于胎龄（从受孕的时间）。
+怀孕期间受辐射危害最大的时期是胎儿器官形成的时期，通常是在第五周到第十周之间。在此期间接触可能导致出生缺陷。在怀孕的早期阶段，辐射更可能导致流产。在第十周之后，流产或严重出生缺陷的可能性降低 (4)。
+仅在必要时才使用电离辐射的诊断性影像检查，尤其是CT。应该考虑替代方法。例如，在幼儿中，轻微头部损伤往往可以根据临床表现进行诊断和治疗，阑尾炎通常可以通过超声诊断。然而，只要潜在的益处大于潜在的危害，即使辐射剂量很高(如CT扫描)，也不应拒绝进行必要的检查。
+对于育龄期妇女，在诊断性影像检查前应该考虑到是否怀孕，特别是辐射暴露风险最高的怀孕早期（前三个月）常常未发现怀孕。
+从历史上看，盆腔屏蔽主要是为了给患者提供安慰；然而，当代证据表明，它的使用可能增加内部散射，矛盾的是，提高胎儿辐射剂量。成像技术的进步，包括现代CT扫描仪中的自动曝光控制和迭代重建技术，大大减少了患者的暴露。因此，在放射学实践中，不再建议对孕妇常规应用盆腔屏蔽 (4)。
+
+【参考文献】
+1.National Council on Radiation Protection and Measurements (NCRP).Report No. 184 – Medical Radiation Exposure of Patients in the United States (2019).Bethesda, MD, NCRP.
+1.National Council on Radiation Protection and Measurements (NCRP).Report No. 184 – Medical Radiation Exposure of Patients in the United States (2019).Bethesda, MD, NCRP.
+2.Brenner DJ, Doll R, Goodhead DT, et al.Cancer risks attributable to low doses of ionizing radiation: assessing what we really know.Proc Natl Acad Sci U S A.2003;100(24):13761-13766.doi:10.1073/pnas.2235592100
+2.Brenner DJ, Doll R, Goodhead DT, et al.Cancer risks attributable to low doses of ionizing radiation: assessing what we really know.Proc Natl Acad Sci U S A.2003;100(24):13761-13766.doi:10.1073/pnas.2235592100
+3.Brenner D, Elliston C, Hall E, Berdon W.Estimated risks of radiation-induced fatal cancer from pediatric CT.AJR Am J Roentgenol.2001;176(2):289-296.doi:10.2214/ajr.176.2.1760289
+3.Brenner D, Elliston C, Hall E, Berdon W.Estimated risks of radiation-induced fatal cancer from pediatric CT.AJR Am J Roentgenol.2001;176(2):289-296.doi:10.2214/ajr.176.2.1760289
+4.American College of Radiology.ACR–SPR practice parameter for imaging pregnant or potentially pregnant patients with ionizing radiation.2023.Accessed August 25, 2025.
+4.American College of Radiology.ACR–SPR practice parameter for imaging pregnant or potentially pregnant patients with ionizing radiation.2023.Accessed August 25, 2025.

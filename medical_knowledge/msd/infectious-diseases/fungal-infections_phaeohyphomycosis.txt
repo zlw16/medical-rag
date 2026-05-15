@@ -1,0 +1,43 @@
+标题：暗色丝孢霉病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/fungal-infections/phaeohyphomycosis
+============================================================
+
+(参见真菌感染概述。）
+暗色丝孢霉病可由多种深色、产黑色素的暗色真菌引起，包括Bipolaris（离蠕孢属）、Cladophialophora（枝氯霉属）、Cladosporium（枝孢霉属）、Exophiala（外瓶霉属）、Fonsecaea（着色霉属）、Phialophora（瓶霉属）、Ochronosis（褐黄病属）、Rhinocladiella（（喙枝孢属））和Wangiella（万吉拉菌属）。
+尽管其中部分真菌物种可在免疫功能正常的患者中引起暗色丝孢霉病，但色素性真菌已日益被认为是机会性病原体；几乎所有播散性感染病例均发生于免疫功能受抑制的患者中。暗色真菌在宿主防御机制完整的患者中极少导致致命感染；然而，某些物种（主要为班氏克拉多菲洛孢子菌）可在免疫功能正常者中引起脑脓肿（1）。
+临床症状包括侵入性鼻窦炎，有时引起骨坏死、皮下结节或脓肿、角膜炎、肺实质性病灶、骨髓炎、真菌性关节炎、心内膜炎、脑脓肿和播散性感染。
+
+【参考文献】
+1.Revankar SG, Sutton DA, Rinaldi MG.Primary central nervous system phaeohyphomycosis: a review of 101 cases.Clin Infect Dis.2004;38(2):206-216.doi:10.1086/380635
+1.Revankar SG, Sutton DA, Rinaldi MG.Primary central nervous system phaeohyphomycosis: a review of 101 cases.Clin Infect Dis.2004;38(2):206-216.doi:10.1086/380635
+
+【暗色丝孢霉病的诊断】
+使用Masson-Fontana 染色检查
+使用Masson-Fontana 染色检查
+真菌培养可鉴定致病菌
+真菌培养可鉴定致病菌
+通过组织标本的常规苏木精和伊红染色，常能识别暗色真菌；它们表现为有隔膜的褐色菌丝或酵母样细胞，反映出其高黑色素含量。Masson-Fontana 染色可证实黑色素的存在 (1)。
+本病不同于着色芽生菌病和足菌肿，主要在于其组织中缺乏如硬壳小体或颗粒等特异的组织病理学发现。
+需要进行真菌培养来确定致病菌。
+
+【诊断参考文献】
+1.Chowdhary A, Meis JF, Guarro J, et al.ESCMID and ECMM joint clinical guidelines for the diagnosis and management of systemic phaeohyphomycosis: diseases caused by black fungi.Clin Microbiol Infect.2014;20 Suppl 3:47-75.doi:10.1111/1469-0691.12515
+1.Chowdhary A, Meis JF, Guarro J, et al.ESCMID and ECMM joint clinical guidelines for the diagnosis and management of systemic phaeohyphomycosis: diseases caused by black fungi.Clin Microbiol Infect.2014;20 Suppl 3:47-75.doi:10.1111/1469-0691.12515
+
+【暗色丝孢霉病的治疗】
+皮下结节可以通过手术治疗和/或伊曲康唑治疗。
+皮下结节可以通过手术治疗和/或伊曲康唑治疗。
+脑脓肿或播散性感染可联合使用抗真菌药物治疗
+脑脓肿或播散性感染可联合使用抗真菌药物治疗
+（参见抗真菌药物。）
+目前尚无标准治疗方案；暗色丝孢霉病的治疗取决于患者的临床表现及免疫状态。
+对于皮下结节，单纯手术治疗可以治愈。伊曲康唑具有极佳的活性，且最为常用；近年来伏立康唑的使用逐渐增多，并取得了良好的疗效（1）。治疗时间长短不一，从6周到> 12个月。泊沙康唑是一种耐受性良好的替代药物，但与其他抗真菌药物相比，在这种情况下临床数据较少(2)。
+如可能，脑脓肿的治疗应包括手术切除。
+脑脓肿和播散性感染经常采用联合抗真菌治疗（例如，使用2个或3个药物，其中至少有一个是唑类药物），但临床效果通常很差 (2) 。
+两性霉素B在某些情况下是有用的。
+
+【治疗参考文献】
+1.Noguchi H, Matsumoto T, Kimura U, et al.Empiric antifungal therapy in patients with cutaneous and subcutaneous phaeohyphomycosis.J Dermatol.2022;49(5):564-571.doi:10.1111/1346-8138.16312
+1.Noguchi H, Matsumoto T, Kimura U, et al.Empiric antifungal therapy in patients with cutaneous and subcutaneous phaeohyphomycosis.J Dermatol.2022;49(5):564-571.doi:10.1111/1346-8138.16312
+2.Chowdhary A, Meis JF, Guarro J, et al.ESCMID and ECMM joint clinical guidelines for the diagnosis and management of systemic phaeohyphomycosis: diseases caused by black fungi.Clin Microbiol Infect.2014;20 Suppl 3:47-75.doi:10.1111/1469-0691.12515
+2.Chowdhary A, Meis JF, Guarro J, et al.ESCMID and ECMM joint clinical guidelines for the diagnosis and management of systemic phaeohyphomycosis: diseases caused by black fungi.Clin Microbiol Infect.2014;20 Suppl 3:47-75.doi:10.1111/1469-0691.12515

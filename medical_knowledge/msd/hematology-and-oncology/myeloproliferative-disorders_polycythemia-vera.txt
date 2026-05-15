@@ -1,0 +1,137 @@
+标题：真性红细胞增多症
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/myeloproliferative-disorders/polycythemia-vera
+============================================================
+
+(参见骨髓增殖性肿瘤概述。）
+真性红细胞增多症是最常见的骨髓增殖性肿瘤，在美国发病率约为1.97/10万(1)，发病率随年龄的增加而增加。诊断的平均年龄约为 60 岁，但女性的诊断年龄要早得多，她们可能在 20 至 30 岁时出现症状，通常布-加综合征。
+约10%～15%的患者最终会发展为骨髓纤维化和骨髓衰竭(2)。大约1.5%至7%的患者会自发出现急性白血病（3）。
+
+【参考文献】
+1.Shallis RM, Wang R, Davidoff A, et al.Epidemiology of the classical myeloproliferative neoplasms: The four corners of an expansive and complex map.Blood Reviews.2020;42:100706.doi.org/10.1016/j.blre.2020.100706
+1.Shallis RM, Wang R, Davidoff A, et al.Epidemiology of the classical myeloproliferative neoplasms: The four corners of an expansive and complex map.Blood Reviews.2020;42:100706.doi.org/10.1016/j.blre.2020.100706
+2.Tremblay D, Kremyanskaya M, Mascarenhas J, et al.Diagnosis and Treatment of Polycythemia Vera: A Review.JAMA. 2025;333(2):153-160.doi:10.1001/jama.2024.20377
+2.Tremblay D, Kremyanskaya M, Mascarenhas J, et al.Diagnosis and Treatment of Polycythemia Vera: A Review.JAMA. 2025;333(2):153-160.doi:10.1001/jama.2024.20377
+3.Spivak JL.Myeloproliferative Neoplasms.N Engl J Med.2017;376(22):2168-2181.doi:10.1056/NEJMra1406186
+3.Spivak JL.Myeloproliferative Neoplasms.N Engl J Med.2017;376(22):2168-2181.doi:10.1056/NEJMra1406186
+
+【真性红细胞增多症的病理生理学】
+真性红细胞增多症是一种全骨髓增生症，其特点是外周血三种成分（红细胞、白细胞和血小板）的产量均增加。红细胞系产量增加被称为红细胞增多症。孤立性红细胞增多症可能出现在真性红细胞增多症中，但更常见于其他原因（参见继发性红细胞增多症）。在真性红细胞增多症中，红细胞生成独立于血清红细胞生成素水平进行，通常较低，但也可以是正常的。然而，由于血小板生成素受体是造血干细胞中唯一的生长因子受体，因此血小板增多可先于红细胞增多发生。
+髓外造血可能发生在脾脏、肝脏和其他支持血细胞形成的部位。真性红细胞增多与继发性红细胞增多相反，红细胞质量的增加通常最初被血浆容量增加所掩盖，使血细胞比容在正常范围内。女性尤为如此，可表现为肝静脉血栓形成和红细胞压积正常。
+在真性红细胞增多症中，由于铁调素产生受到抑制，铁的吸收会增加。由于红细胞血红蛋白浓度（MCHC）以减少红细胞体积（平均红细胞体积[MCV]）作为代偿，因此当发生任何种类的缺铁时，红细胞均变得越来越小（小红细胞症）。因此，小细胞性红细胞增多症是真性红细胞增多症患者的一个标志。重要的是，血红蛋白水平作为红细胞生成量的测量指标，其准确性低于红细胞计数或血细胞比容。骨髓铁储备可能具有误导性，因为体内大部分铁存在于红细胞群中。
+最终，约有10%至15%的患者会发展为类似原发性骨髓纤维化的综合征，但如果没有贫血，这类患者的生存率会更高。
+转化为急性白血病很少见，可能需要多年时间。暴露于烷基化剂，如氯苯和丁硫丹、放射性磷(大多具有历史意义)和羟基脲，会增加转化的风险。急性白血病在男性中更为常见，尤其是 60 岁以后。
+
+【遗传学因素】
+真性红细胞增多症是由造血干细胞突变所致。
+Janus激酶2（JAK2）基因的突变是真性红细胞增多症的主要原因。JAK2是酪氨酸激酶家族的成员，参与促红细胞生成素、血小板生成素和粒细胞集落刺激因子（G-CSF）受体的信号转导。具体而言，真性红细胞增多症患者中，90%存在JAK2V617F第14号外显子突变，5%存在JAK2第12号外显子突变。在缺乏JAK2基因突变的真性红细胞增多症患者中很少发现钙网蛋白（CALR基因）突变，在孤立性红细胞增生症患者中也发现了淋巴细胞接头蛋白（LNK基因）突变。这些突变导致了持久的JAK2激活，从而引起不依赖红细胞生成素的细胞过度增生。
+真性红细胞增多症的并发症包括:
+血栓形成
+血栓形成
+在真性红细胞增多症中，血容量增加及红细胞数量增加可导致血粘度升高。高粘滞性易发生大血管血栓形成，导致中风、深静脉血栓形成、心肌梗死、视网膜动脉或静脉阻塞、脾梗塞（通常伴有摩擦音），或特别是在女性中，出现布加综合症。 微血管事件（如短暂性脑缺血发作,红斑性肢痛症, 眼型偏头痛）也可能发生。
+如果血小板计数 > 1,000,000 个血小板/微升（>1000×109/L），则血小板功能可能异常，这是由于获得性缺乏血管性血友病因子，因为血小板吸附并水解高分子量的血管性血友病多聚体。这种获得性血管性血友病易发生出血但并非自发性出血。
+细胞更新加速可能导致尿酸过多，增加痛风和肾脏尿酸结石的风险。真性红细胞增多症患者易因幽门螺杆菌感染而发生酸消化性疾病。
+
+【真性红细胞增多症的症状和体征】
+真性红细胞增多症本身常没有症状。但最终血容量增加和血液黏滞度升高可引起虚弱、头痛、轻度头晕、视觉障碍、疲劳或呼吸困难。常出现瘙痒，特别是在热水浴后（水源性瘙痒症），且常可为首发症状。面部可能过多，视网膜静脉充血。手掌和脚可出现发红、发热和疼痛，常伴有指端局部缺血（红斑性肢痛症）。超过 30% 的患者有脾肿大。
+血栓形成可引起相应部位的症状（如，中风或短暂性脑缺血发作引起神经功能损伤，下肢静脉血栓形成引起肢体痛，肿胀或两者均有，肺栓塞引起胸痛和呼吸困难）。
+大约 10% 的患者会出现出血 通常来自胃肠道。
+高代谢可能导致低热和体重减轻。高代谢和脾肿大提示疾病进展为继发性骨髓纤维化，该病在临床上与原发性骨髓纤维化难以区分，但预后较好。
+
+【真性红细胞增多症的诊断】
+全血细胞计数（CBC）和血涂片分析
+全血细胞计数（CBC）和血涂片分析
+对JAK2突变、CALR突变或LNK突变进行序贯检测
+对JAK2突变、CALR突变或LNK突变进行序贯检测
+红细胞（RBC）总量测定（若可开展此项检查）
+红细胞（RBC）总量测定（若可开展此项检查）
+通常首先怀疑真性红细胞增多症是因为 CBC 异常（例如血红蛋白>16.5 克/分升 [>165 g/L] 男性或>16.0 克/分升 [>160 g/L]（女性）。然而，血红蛋白和血细胞比容水平可能会产生误导。由于血浆容量膨胀，血细胞比容可能正常，如果同时缺铁，血红蛋白可能正常。因此，升高的红细胞计数是红细胞增多症的最有用的量度 (见图红细胞增多症的诊断算法)。
+
+【红细胞增多症的诊断算法】
+红细胞增多症的诊断算法
+* 一些患有阻塞性睡眠呼吸暂停的患者在门诊就诊时血氧饱和度正常。
+† 纯合突变EGLN1基因导致楚瓦什红细胞增多症。
+‡ EGLN1 是一种由EPAS1基因。
+§ EPAS1（也称为缺氧诱导因子-2alpha [HIF-2alpha]）是一种由基因。
+EGLN1 = egl-9 家族缺氧诱导因子 1；EPAS1 = 内皮 PAS 结构域含蛋白 1；VHL = von Hippel-Lindau。
+数据来自Spivak JL, Silver RT。The revised World Health Organization diagnostic criteria for polycythemia vera, essential thrombocytosis, and primary myelofibrosis: an alternative proposal.血液。2008;112(2):231-239.doi:10.1182/blood-2007-12-128454
+随着红细胞增多，中性粒细胞和血小板计数通常但并非总是增加。由于隐匿性红细胞增多或血小板增多先于红细胞增多，真性红细胞增多症可仅表现为血小板增多。
+在仅红细胞比容升高的患者中，可能存在真性红细胞增多症，但继发性红细胞增多症，一个更常见的血细胞比容升高的原因，必须首先考虑。对于血细胞比容正常但出现小红细胞增多的患者，应始终考虑真性红细胞增多症的可能性；这种表现组合是真性红细胞增多症的典型特征。
+也可根据临床表现怀疑真性红细胞增多症，包括不寻常部位的血栓形成，例如女性的 Budd-Chiari 综合征或男性的门静脉血栓形成。
+诊断真性红细胞增多症的挑战在于，其他几种骨髓增殖性肿瘤可能具有相同的基因突变和骨髓检查结果。 诊断真性红细胞增多症的挑战在于其他几种骨髓增生性肿瘤可出现相同的遗传突变和骨髓发现，因为尽管真性红细胞增多的标志是红细胞增多,有些病人表现为孤立的白细胞增多或孤立的血小板增多,最初一些患者最初并未表现出血红蛋白水平升高。 骨髓增生性肿瘤会随着时间的推移而演变，甚至原发性骨髓纤维化也可以转变为真性红细胞增多症。
+怀疑真性红细胞增多症的患者应检测JAK2V617F第 14 外显子及JAK2第 12 外显子突变。如果这些结果为阴性，则进行CALR和LNK突变检测。在患有明确红细胞增多的患者中若存在已知的致病突变则强烈提示真性红细胞增多症。若红细胞增多症不明确，可直接测量红细胞总量和血浆容量（例如，用铬标记的红细胞和131-标记白蛋白，尽管该检查通常仅在专业中心可用），以助于区分真性和相对性红细胞增多症以及真性红细胞增多症和其他骨髓增生性疾病（其不具有增加的红细胞总量）。若存在红细胞增多症但未排除继发性原因，则可测定血清促红细胞生成素水平。真性红细胞增多症患者的血清促红细胞生成素水平常偏低或正常;升高则提示继发性红细胞增多症。
+骨髓穿刺和活检不能诊断真性红细胞增多症。如果进行骨髓检查，骨髓穿刺和活检可见全骨髓增生、大而成簇的巨核细胞，且有时可见网状纤维增多。 然而，骨髓检查很难完全区分真性红细胞增多症和其他红细胞过度增多的疾病，比如先天性家族性红细胞增多，或其它骨髓增殖性肿瘤，其中真性红细胞增多症是最常见的。
+获得性血管性血友病（出血原因）可通过利斯托霉素辅助因子试验，发现血浆血管性血友病因子抗原降低而诊断。
+由于转钴胺素生成增加，真性红细胞增多症可能出现非特异性实验室异常，包括维生素 B12 和 B12 结合能力升高、高尿酸血症和高尿酸尿症（存在于≥30% 的患者），以及巨核细胞和血小板中MPL（血小板生成素受体）的表达降低。这些检查不是诊断所必须的。
+
+【真性红细胞增多症的治疗】
+放血疗法
+放血疗法
+可能需要阿司匹林治疗
+可能需要阿司匹林治疗
+可能需使用鲁索替尼或聚乙二醇干扰素进行靶向治疗
+可能需使用鲁索替尼或聚乙二醇干扰素进行靶向治疗
+根据年龄、性别、身体状况、临床表现以及血液病学检查，治疗必须个体化 (1)。然而，以前用于根据高风险或低风险分类对治疗进行分层的标准，例如年龄和极度血小板增多症（1,000,000 血小板/微升 [1000×109/L]）尚未经过前瞻性验证，不建议用于指导治疗。定量JAK2 V617F突变等位基因负担是一个有用的指标。一般来说，当等位基因负荷低于 50% 时，患者病情往往比较轻。
+尽管白细胞计数非常高（>30,000/mcL [>30×109/L]) 与疾病加速相关，但没有证据表明化疗降低白细胞计数可延长生存期。事实上，真性红细胞增多症的造血干细胞对常规化疗有抵抗力，如果不通过放血使红细胞群正常化，将白细胞或血小板计数降至正常并不能预防血栓形成。
+
+【放血疗法】
+放学疗法是主要的治疗手段。放血疗法的目标值为使男性和女性的血细胞比容＜42%。一项随机试验表明，随机分配至血细胞比容小于45%的患者，其心血管死亡率和血栓形成率显著低于目标血细胞比容为45%至50%的患者（2）。在怀孕期间，血细胞比容水平应降至<35%；胎儿总是会得到足够的铁。
+开始时，每隔一天放血300～500mL。老年患者和有心或脑血管疾病的患者，放血量应较少（即，每次200～300mL，每周2次）。一旦红细胞压积达到目标值，可每月检查一次，如果需要，可以再次放血以维持红细胞压积在正常水平。如果需要，可用晶体溶液或胶体溶液来维持血管内容量。
+放血治疗后可能会出现血小板增加，但这种增加是小而暂时的，血小板计数和白细胞计数逐渐增加是真性红细胞增多症的一个特征，无症状的患者不需要治疗。
+在采用放血疗法治疗的患者中，对其的需求最终会减少。这不是骨髓衰竭的标志（即所谓的消耗阶段），而是由于血浆容量扩大所致。
+铁调素类似物（如鲁索替肽）目前正处于研究阶段（3）。这些制剂用于防止铁的吸收，而铁的吸收会增加真性红细胞增多症。一旦静脉切开术耗尽了体内的铁储备，它们就可以避免额外的静脉切开术。VERIFY试验的结果表明，与其他疗法相比，rusfertide能减少所需静脉切开放血术次数，更好地控制血细胞比容，并缓解症状(4)。
+
+【阿司匹林】
+阿司匹林可缓解微血管事件的症状。因此，伴有或曾经有红斑性肢痛、眼部偏头痛或短暂性脑缺血的患者，除非有禁忌（例如由于获得性血管性血友病），否则应给予阿司匹林81-100 mg，口服，每天一次。有时需要加大剂量，但将增加出血风险。阿司匹林不会降低微血管事件的发生率，因此在无症状的真性红细胞增多症患者中不建议使用（没有其他适应症） 。
+
+【骨髓抑制疗法】
+大量研究表明，许多既往使用的骨髓抑制治疗，包括羟基、放射性磷和烷化剂如白消安和苯丁酸氮芥，并不能减少血栓形成的发生率，并且不能通过适当的放血疗法延长生存期，因为受感染的造血干细胞对它们有抵抗力。苯丁酸氮芥、白消安、放射性磷和羟基脲等药物可能会增加急性白血病和实体瘤的发病风险；除非在特殊情况下即阿司匹林和静脉放血治疗效果不佳，且干扰素等药物为禁忌时，否则不推荐使用这些药物。羟基脲应仅由熟悉其使用及监测的专家进行给药。
+如果需要除静脉切开术以外的干预(例如，由于症状或血栓形成事件)，首选聚乙二醇化干扰素或鲁索利替尼。阿那格雷被用于控制血小板数量，但同时具有心脏和肾脏毒性，并可引起贫血。
+在真性红细胞增多症中，聚乙二醇化干扰素 alfa-2b、干扰素 alfa-2a 和 rodeginterferon alfa-2b（5）专门针对受影响的造血干细胞，但不针对正常干细胞。这些药物通常具有良好的耐受性，且在控制瘙痒症和过量血细胞生成以及减小脾脏大小方面有效。Ropeg干扰素α-2b只需每 2 至 4 周给药一次，比其他干扰素 α 产品的频率要低得多（例如，每隔一天）。干扰素可以在怀孕期间安全使用。大约 20% 的患者达到完全分子缓解，这可能需要数年时间才能实现。
+鲁索替尼,一种非特异性JAK抑制剂，已获准用于真性红细胞增多症和后期骨髓纤维化的真性红细胞增多症患者。真性红细胞增多症患者只要没有出现过度毒性反应，通常以10mg开始口服，每天2次。在对羟基脲不耐受或耐药的患者中，与最佳支持治疗相比，芦可替尼表现出更好的分子反应以及更好的完全缓解和无事件生存率（6）。
+对于没有症状的患者，没有必要将白细胞或血小板计数降低至正常。
+
+【并发症的治疗】
+若高尿酸血症患者出现临床症状或正在接受骨髓抑制治疗，应给予别嘌呤醇300mg口服，每天1次。
+瘙痒可用抗组胺药进行治疗，但常难以控制；鲁索替尼及干扰素有一定疗效。消胆胺、赛庚啶、西米替丁、帕罗西汀或PUVA 光疗可能有效。洗浴后，应轻轻将皮肤擦干。避免触发瘙痒很重要。
+血栓形成：通常不建议进行常规抗血栓预防，在发生血栓事件后应使用标准抗血栓药物治疗。
+
+【治疗参考文献】
+1.Spivak JL.How I treat polycythemia vera.Blood.2019;134(4):341–352.doi:10.1182/blood.2018834044
+1.Spivak JL.How I treat polycythemia vera.Blood.2019;134(4):341–352.doi:10.1182/blood.2018834044
+2.Marchioli R, Finazzi G, Specchia G, et al.Cardiovascular events and intensity of treatment in polycythemia vera.N Engl J Med.2013;368:22–33.doi:10.1056/NEJMoa1208500
+2.Marchioli R, Finazzi G, Specchia G, et al.Cardiovascular events and intensity of treatment in polycythemia vera.N Engl J Med.2013;368:22–33.doi:10.1056/NEJMoa1208500
+3.Kremyanskaya M, Kuykendall AT,  Pemmaraju, N, et al.Rusfertide, a Hepcidin Mimetic, for Control of Erythrocytosis in Polycythemia Vera.N Engl J Med.2024;390(8):723-735. doi: 10.1056/NEJMoa2308809
+3.Kremyanskaya M, Kuykendall AT,  Pemmaraju, N, et al.Rusfertide, a Hepcidin Mimetic, for Control of Erythrocytosis in Polycythemia Vera.N Engl J Med.2024;390(8):723-735. doi: 10.1056/NEJMoa2308809
+4.Kuykendall AT, Pemmaraju N, Petit KM, et al.Results from VERIFY, a phase 3, double-blind, placebo (PBO)-controlled study ofrusfertidefor treatment of polycythemia vera (PV).[2025 ASCO Annual Meeting II abstract].J Clin Onc.2025;43(17) suppl.doi:10.1200/JCO.2025.43.17_suppl.LBA
+4.Kuykendall AT, Pemmaraju N, Petit KM, et al.Results from VERIFY, a phase 3, double-blind, placebo (PBO)-controlled study ofrusfertidefor treatment of polycythemia vera (PV).[2025 ASCO Annual Meeting II abstract].J Clin Onc.2025;43(17) suppl.doi:10.1200/JCO.2025.43.17_suppl.LBA
+5.Gisslinger H, Klade C, Georgiev P, et al.Ropeginterferon alfa-2bversus standard therapy for polycythaemia vera (PROUD-PV and CONTINUATION-PV): a randomised, non-inferiority, phase 3 trial and its extension study [published correction appears inLancet Haematol.2020 Apr;7(4):e279. doi: 10.1016/S2352-3026(20)30069-7.].Lancet Haematol.2020;7(3):e196-e208.doi:10.1016/S2352-3026(19)30236-4
+5.Gisslinger H, Klade C, Georgiev P, et al.Ropeginterferon alfa-2bversus standard therapy for polycythaemia vera (PROUD-PV and CONTINUATION-PV): a randomised, non-inferiority, phase 3 trial and its extension study [published correction appears inLancet Haematol.2020 Apr;7(4):e279. doi: 10.1016/S2352-3026(20)30069-7.].Lancet Haematol.2020;7(3):e196-e208.doi:10.1016/S2352-3026(19)30236-4
+6.Harrison CN, Nangalia J, Boucher R, et al.RuxolitinibVersus Best Available Therapy for Polycythemia Vera Intolerant or Resistant toHydroxycarbamidein a Randomized Trial.J Clin Oncol.2023; 41(19):3534–3544.doi:10.1200/JCO.22.01935
+6.Harrison CN, Nangalia J, Boucher R, et al.RuxolitinibVersus Best Available Therapy for Polycythemia Vera Intolerant or Resistant toHydroxycarbamidein a Randomized Trial.J Clin Oncol.2023; 41(19):3534–3544.doi:10.1200/JCO.22.01935
+
+【真性红细胞增多症的预后】
+随着时间推移，新型治疗方式的出现改善了真性红细胞增多症的预后（1, 2）。
+血栓形成是最常见的致病和死亡原因，其次为骨髓纤维化和白血病。
+基因突变和细胞遗传学异常可能有助于识别预后亚组。
+
+【预后参考】
+1.Spivak, JL.Myeloproliferative Neoplasms: Challenging Dogma.J Clin Med.2024;13(22):6957.doi: 10.3390/jcm13226957
+1.Spivak, JL.Myeloproliferative Neoplasms: Challenging Dogma.J Clin Med.2024;13(22):6957.doi: 10.3390/jcm13226957
+2.Abu-Zeinah G, Silver RT, Abu-Zeinah K, Scandura JM.Normal life expectancy for polycythemia vera (PV) patients is possible.Leukemia.2022;36, 569–572.doi:10.1038/s41375-021-01447-3
+2.Abu-Zeinah G, Silver RT, Abu-Zeinah K, Scandura JM.Normal life expectancy for polycythemia vera (PV) patients is possible.Leukemia.2022;36, 569–572.doi:10.1038/s41375-021-01447-3
+真性红细胞增多症是一种慢性骨髓增生性肿瘤，可引起红细胞、白细胞和血小板生成增多。
+真性红细胞增多症是一种慢性骨髓增生性肿瘤，可引起红细胞、白细胞和血小板生成增多。
+真性红细胞增多症由造血干细胞中涉及JAK2或罕见的LNK突变引起，这些突变导致 JAK2 激酶持续活化，从而造成血细胞过度生成。
+真性红细胞增多症由造血干细胞中涉及JAK2或罕见的LNK突变引起，这些突变导致 JAK2 激酶持续活化，从而造成血细胞过度生成。
+并发症包括血栓形成、出血、高尿酸血症；部分患者最终会发展为骨髓纤维化或极少数情况下转化为急性白血病。
+并发症包括血栓形成、出血、高尿酸血症；部分患者最终会发展为骨髓纤维化或极少数情况下转化为急性白血病。
+真性红细胞增多通常首先被怀疑是因为红细胞压积水平升高；中性粒细胞和血小板通常会增加，但并非总是如此。
+真性红细胞增多通常首先被怀疑是因为红细胞压积水平升高；中性粒细胞和血小板通常会增加，但并非总是如此。
+检测JAK2和LNK突变。
+检测JAK2和LNK突变。
+骨髓穿刺和活检及血清红细胞生成素水平通常不能明确诊断。
+骨髓穿刺和活检及血清红细胞生成素水平通常不能明确诊断。
+放血以达到目标血细胞比容（男性<45%及女性<42%）是必不可少的。
+放血以达到目标血细胞比容（男性<45%及女性<42%）是必不可少的。
+鲁索利替尼和聚乙二醇干扰素是首选的骨髓抑制剂。
+鲁索利替尼和聚乙二醇干扰素是首选的骨髓抑制剂。

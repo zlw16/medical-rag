@@ -1,0 +1,52 @@
+标题：胎粪性肠梗阻
+来源：https://www.msdmanuals.cn/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/meconium-ileus
+============================================================
+
+胎粪性肠梗阻最常是囊性纤维化的早期表现，该病引起胃肠道分泌物极其黏稠而黏附于肠黏膜。胎粪性肠梗阻是10%至20%囊性纤维化病例的首发临床表现，而80%至90%的胎粪性肠梗阻婴儿同时患有囊性纤维化(1)。
+梗阻通常发生在回肠末端水平（不像由胎粪阻塞综合征引起的结肠梗阻），并且可以通过产前超声诊断。梗阻远端的结肠狭窄且空虚，或含有少量干燥的胎粪颗粒。相对空虚的小口径结肠称为微结肠，是由于功能废用引起的继发性改变。
+
+【参考文献】
+1.Tobias J, Tillotson M, Maloney L, Fialkowski E.Meconium Ileus, Distal Intestinal Obstruction Syndrome, and Other Gastrointestinal Pathology in the Cystic Fibrosis Patient.Surg Clin North Am.2022;102(5):873-882.doi:10.1016/j.suc.2022.07.016
+1.Tobias J, Tillotson M, Maloney L, Fialkowski E.Meconium Ileus, Distal Intestinal Obstruction Syndrome, and Other Gastrointestinal Pathology in the Cystic Fibrosis Patient.Surg Clin North Am.2022;102(5):873-882.doi:10.1016/j.suc.2022.07.016
+
+【胎粪性肠梗阻的症状和体征】
+患有胎粪性肠梗阻的新生儿在出生后12～24小时内不会排出胎粪，这与正常新生儿不同。他们有肠梗阻的迹象，包括呕吐，可能是胆汁性呕吐，以及腹胀。通过腹壁有时能够触诊到扩张的小肠肠袢，并且有典型的面团样感觉。穿孔后可继发胎粪性腹膜炎合并呼吸窘迫和腹水(1)。
+
+【症状和体征参考文献】
+1.Galante G, Freeman AJ: Gastrointestinal, pancreatic, and hepatic manifestations of cystic fibrosis in the newborn.Neoreviews20(1):e12–e24, 2019.doi: 10.1542/neo.20-1-e12
+1.Galante G, Freeman AJ: Gastrointestinal, pancreatic, and hepatic manifestations of cystic fibrosis in the newborn.Neoreviews20(1):e12–e24, 2019.doi: 10.1542/neo.20-1-e12
+
+【胎粪性肠梗阻的诊断】
+产前超声检查
+产前超声检查
+普通 X 线片
+普通 X 线片
+如果阳性，进行囊性纤维化检查
+如果阳性，进行囊性纤维化检查
+出生前的超声检查能够发现胎儿的变化，这些变化可提示囊性纤维病和胎粪性肠梗阻（例如，肠扩张、羊水过多），但是，这些变化都不是特异性的。产前超声检查还可以检测到与胎粪性腹膜炎相关的腹水、钙化和假性囊肿。
+有囊性纤维病家族史的肠梗阻新生儿，应高度怀疑胎粪性肠梗阻。患儿应进行腹部X线平片检查，其可以显示扩张的肠袢；然而，可能没有气液平面。由于胎粪与小气泡混合而形成的"肥皂泡"或"毛玻璃"样外观是胎粪性肠梗阻的诊断特征。如果存在胎粪性腹膜炎，腹膜表面甚至阴囊内可出现钙化的胎粪斑点。
+水溶性造影剂灌肠显示由于回肠末端梗阻引起的微小结肠。
+诊断为胎粪性肠梗阻的患儿需进一步进行有关囊性纤维病的检测。
+
+【胎粪性肠梗阻并发症】
+大约40%的病例出现并发症（1），其中包括以下情况。
+子宫内穿孔导致胎粪性腹膜炎，这是一种腹膜的化学炎症，可引起假性囊肿形成、肠梗塞、腹腔内钙化、粘连性疾病和腹水（2）。
+扩张的肠袢可能会阻止子宫内正常的肠旋转，从而导致肠旋转不良和扭转（肠扭转）。子宫内肠扭转可导致肠梗死和穿孔。梗死的肠段也可能被吸收，留下一处或多处肠闭锁区域。
+穿孔或肠扭转也可能在出生后发生。
+如果在出生后需要进行广泛的肠道手术，这是由于子宫内或出生后的并发症造成的，则短肠综合征可能是长期并发症。
+胎粪性肠梗阻患儿发生胆汁淤积的风险也增加。
+
+【诊断参考】
+1.Padoan R, Cirilli N, Falchetti D, Cesana BM; Meconium Ileus Project Study Group.Risk factors for adverse outcome in infancy in meconium ileus cystic fibrosis infants: A multicentre Italian study.J Cyst Fibros.2019;18(6):863-868.doi:10.1016/j.jcf.2019.07.003
+1.Padoan R, Cirilli N, Falchetti D, Cesana BM; Meconium Ileus Project Study Group.Risk factors for adverse outcome in infancy in meconium ileus cystic fibrosis infants: A multicentre Italian study.J Cyst Fibros.2019;18(6):863-868.doi:10.1016/j.jcf.2019.07.003
+2.Shinar S, Agrawal S, Ryu M, et al.Fetal Meconium Peritonitis - Prenatal Findings and Postnatal Outcome: A Case Series, Systematic Review, and Meta-Analysis.Fetale Mekoniumperitonitis – pränatale Befunde und postnatales Outcome: Eine Fallserie, systematische Übersicht und Metaanalyse.Ultraschall Med.2022;43(2):194-203.doi:10.1055/a-1194-4363
+2.Shinar S, Agrawal S, Ryu M, et al.Fetal Meconium Peritonitis - Prenatal Findings and Postnatal Outcome: A Case Series, Systematic Review, and Meta-Analysis.Fetale Mekoniumperitonitis – pränatale Befunde und postnatales Outcome: Eine Fallserie, systematische Übersicht und Metaanalyse.Ultraschall Med.2022;43(2):194-203.doi:10.1055/a-1194-4363
+
+【胎粪性肠梗阻的治疗】
+放射性造影剂灌肠
+放射性造影剂灌肠
+有时需手术治疗
+有时需手术治疗
+对于无并发症（即无穿孔、肠扭转或闭锁）的病例，可通过在透视引导下给予≥1 次稀薄造影剂（例如泛影葡胺[泛影葡胺和泛影酸钠]）灌肠，有时联合使用N-乙酰半胱氨酸以解除梗阻；但需注意，高渗造影剂可能导致胃肠道大量水分丢失，需要静脉补液。
+如果灌肠不能缓解梗阻，则需要进行剖腹手术。如灌肠失败则应行剖腹探查，通常也需行双腔回肠造瘘伴以反复用N-乙酰半胱氨酸灌洗肠袢，使胎粪软化，易于祛除
+在复杂病例中，可能需要手术治疗肠闭锁、粘连或假性囊肿。出生后穿孔和肠扭转是外科急症。

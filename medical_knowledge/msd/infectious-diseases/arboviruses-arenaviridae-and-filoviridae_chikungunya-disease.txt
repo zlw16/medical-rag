@@ -1,0 +1,34 @@
+标题：基孔肯雅热
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/arboviruses-arenaviridae-and-filoviridae/chikungunya-disease
+============================================================
+
+基孔肯雅病通过伊蚊传播，在非洲、印度、巴基斯坦、尼泊尔、关岛、东南亚、新几内亚、中国、墨西哥、南美洲和中美洲、加勒比海、印度洋和太平洋岛屿以及欧洲的部分地区很常见。在佛罗里达州、波多黎各和美属维尔京群岛发现了有限的本地传播。基孔肯雅病毒是披膜病毒科的甲病毒。
+
+【基孔肯雅病的症状和体征】
+基孔肯雅病是一种急性发热性疾病，伴有关节痛和皮疹。其他症状可能包括头痛、肌肉疼痛或关节肿胀。在急性发热期后，一些患者（40%至80%）可能发展为慢性多关节炎，可持续数月或数年，病情严重，致残。关节痛通常呈对称性，且好发于远端关节。死亡极为罕见。
+
+【基孔肯雅病的诊断】
+对于居住在或曾前往流行区、突然出现发热和关节痛的患者，应怀疑基孔肯雅病。
+基孔肯雅病毒RNA可以用RT-PCR检测，建议在感染后前8天内进行检测（1）。对于症状出现超过7天的患者，可进行病毒特异性IgM血清学检测，但抗体可能与其他甲病毒和黄病毒（如登革热病毒）发生交叉反应，导致假阳性结果。
+登革热和寨卡病毒由相同的蚊子传播，导致感染具有与基孔肯雅病相似的临床特征，因此应在诊断评估中予以考虑（2，3）。重要的是要排除登革热病毒感染，因为登革热的适当临床管理可以改善预后。
+
+【诊断参考】
+1.Centers for Disease Control and Prevention: Chikungunya Virus: Clinical Testing and Diagnosis for Chikungunya Virus Disease.May 15, 2024.Accessed June 16, 2025.
+1.Centers for Disease Control and Prevention: Chikungunya Virus: Clinical Testing and Diagnosis for Chikungunya Virus Disease.May 15, 2024.Accessed June 16, 2025.
+2.Centers for Disease Control and Prevention: Chikungunya Virus: Clinical Signs and Symptoms of Chikungunya Virus Disease.May 15, 2024.Accessed June 16, 2025.
+2.Centers for Disease Control and Prevention: Chikungunya Virus: Clinical Signs and Symptoms of Chikungunya Virus Disease.May 15, 2024.Accessed June 16, 2025.
+3.Bartholomeeusen K, Daniel M, LaBeaud DA, et al: Chikungunya fever [published correction appears inNat Rev Dis Primers2023 May 19;9(1):26. doi: 10.1038/s41572-023-00442-5].Nat Rev Dis Primers9(1):17, 2023.Published 2023 Apr 6.doi:10.1038/s41572-023-00429-2
+3.Bartholomeeusen K, Daniel M, LaBeaud DA, et al: Chikungunya fever [published correction appears inNat Rev Dis Primers2023 May 19;9(1):26. doi: 10.1038/s41572-023-00442-5].Nat Rev Dis Primers9(1):17, 2023.Published 2023 Apr 6.doi:10.1038/s41572-023-00429-2
+
+【基孔肯雅病的治疗】
+支持治疗
+支持治疗
+基孔肯雅病的治疗是对症性的，可能包括休息、补充液体以及使用镇痛药和退烧药。非甾体抗炎药（NSAIDs）可用于缓解急性发烧和疼痛。然而，对乙酰氨基酚是登革热流行地区发热和关节痛的首选一线治疗药物，可降低出血风险，直至排除登革热。
+
+【基孔肯雅病的预防】
+预防基孔肯雅病需要避免蚊虫叮咬和接种疫苗（1）。一种基孔肯雅疫苗是单剂减毒活病毒疫苗。它可用于18岁或以上因出国旅行或实验室工作而面临较高基孔肯雅病毒感染风险的人群。不应给予免疫功能低下的人群。美国食品药品监督管理局（FDA）已暂停该减毒活病毒疫苗的许可，因其涉及包括住院、脑炎及死亡在内的严重不良事件。(SeeFDA Update on the Safety of Ixchiq (Chikungunya Vaccine, Live). FDA Suspends Biologics License: FDA Safety Communication.)
+第二种疫苗使用类病毒颗粒分子而非病毒本身，也已研发成功，可用于12岁及以上高风险人群，例如前往流行地区的旅行者和有暴露风险的实验室人员。
+
+【预防参考文献】
+1.Centers for Disease Control and Prevention: Chikungunya Virus:Chikungunya VaccineInformation for Healthcare Providers.May 16, 2025.Accessed June 16, 2025.
+1.Centers for Disease Control and Prevention: Chikungunya Virus:Chikungunya VaccineInformation for Healthcare Providers.May 16, 2025.Accessed June 16, 2025.

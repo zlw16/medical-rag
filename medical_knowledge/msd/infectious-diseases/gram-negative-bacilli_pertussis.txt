@@ -1,0 +1,136 @@
+标题：百日咳
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-negative-bacilli/pertussis
+============================================================
+
+百日咳感染仅发生在人类身上；没有动物宿主。B. bronchiseptica（支气管败血波氏杆菌）, 可导致狗和猫患上犬舍咳（犬窝咳），也可导致免疫功能低下的患者感染 (1)。
+主要通过来自患者的含有B. pertussis（百日咳博德特菌）（一种微小的、无运动能力的革兰阴性球杆菌）的呼吸道分泌物飞沫传播，特别是卡他期和痉咳早期传染性最大。感染具有高度传染性，≥80％的密切接触者发病。很少通过接触污染的物品传染。病人通常在痉咳期第三周后不具有传染性。
+百日咳是一种疫苗可预防的儿童疾病，该病在世界各地流行，而且发病率一直在上升。该病在美国的发病具有周期性，每3至5年出现一次发病高峰。在美国，20世纪80年代发病率最低约为1/10万，但在2014年，增加至约10/10万。美国疾病控制与预防中心（CDC）2022年的监测报告显示，发病率为0.7/10万 (2)。从20世纪80年代到2014年观察到的增长可以归因于
+接种过疫苗的青少年和成年人免疫力减弱
+接种过疫苗的青少年和成年人免疫力减弱
+一些父母拒绝为孩子接种疫苗（见疫苗犹豫)
+一些父母拒绝为孩子接种疫苗（见疫苗犹豫)
+这些未受保护的患者可能会发病；此外，未接种的青少年和成人是B. pertussis（百日咳博德特菌） 的重要宿主，因而常成为1岁以下未受保护婴儿的传染源（该群体年发病率增长最快且病死率最高）。百日咳对老年人的危害同样严重。引起疾病流行的毒株毒力可能在增加。
+2022 年美国报告百日咳病例 2,388 例，死亡 3 例。人们认为，2014 年至 2022 年发病率下降的一个因素是免疫接种率的提高，尤其是成年人和孕妇。每 100,000 人中 6 个月以下婴儿的发病率最高（7.8）（2）。20岁以上人群占报告病例的45.6%（2）。
+一次发病不能产生终生自然免疫，但第二次感染以及发生在以前曾接种但免疫力减弱的青少年和成人的感染往往比较轻，常不被发现。
+
+【百日咳引起的并发症】
+最常见的是呼吸系统并发症，包括婴儿窒息。中耳炎经常发生。支气管肺炎（老年患者的常见并发症）在任何年龄组都可能致命。
+婴儿常发生惊厥，但在年长儿少见。
+严重的阵挛性咳嗽以及由此引起的缺氧可能引起脑实质、眼、皮肤黏膜出血。脑出血，脑水肿或中毒性脑病会导致痉挛性麻痹，智力缺陷或其他神经疾患。
+偶尔会发生脐疝和脱肛。
+
+【副百日咳】
+该病由B. parapertussis,（副百日咳博德特菌） 引起，临床表现可能与百日咳难以区分，但通常较轻且致死率更低。
+
+【参考文献】
+1.Yacoub AT, Katayama M, Tran J, Zadikany R, Kandula M, Greene J.Bordetella bronchisepticain the immunosuppressed population - a case series and review.Mediterr J Hematol Infect Dis.2014;6(1):e2014031.Published 2014 Apr 7.doi:10.4084/MJHID.2014.031
+1.Yacoub AT, Katayama M, Tran J, Zadikany R, Kandula M, Greene J.Bordetella bronchisepticain the immunosuppressed population - a case series and review.Mediterr J Hematol Infect Dis.2014;6(1):e2014031.Published 2014 Apr 7.doi:10.4084/MJHID.2014.031
+2.National Center for Immunization and Respiratory Diseases Division of Bacterial Diseases: 2022 Provisional Pertussis Surveillance Report.Centers for Disease Control and Prevention, 2023.
+2.National Center for Immunization and Respiratory Diseases Division of Bacterial Diseases: 2022 Provisional Pertussis Surveillance Report.Centers for Disease Control and Prevention, 2023.
+
+【百日咳的症状和体征】
+潜伏期平均7～10日（最长3周）。B. pertussis侵犯呼吸道的黏膜，引起黏液性分泌物增加，开始时稀薄，以后逐渐变黏稠。
+整个病程若无并发症6～10周，可分为3期：
+卡他期起病隐匿，通常有喷嚏、流泪或其他鼻炎症状；食欲减低；倦怠；以及恼人的夜间干咳，这种咳嗽逐渐变为白天也出现。可能出现声音嘶哑。此期发热罕见。
+10～14日后咳嗽转为痉咳期，咳嗽加剧而且更频繁。在一次呼气中连续发生≥5次快速剧烈咳嗽，接着出现哮咳声——一种急促的深吸气。在阵咳期间或之后，可能吐出大量黏稠分泌物或经鼻孔排出大量泡沫。伴有呕吐是其特点。对婴儿来说，窒息发作（有或无发绀）可能较喘息更为常见。
+一般在4周内进入恢复期，症状开始缓解。 本病病程平均为7周（3周至3个月或更长）。几个月内可能由于上呼吸道感染刺激敏感的呼吸道而重新出现痉挛性咳嗽。
+
+【百日咳的诊断】
+鼻咽培养、直接荧光抗体检测和聚合酶链反应 (PCR) 检测
+鼻咽培养、直接荧光抗体检测和聚合酶链反应 (PCR) 检测
+血清学检测
+血清学检测
+如果患者咳嗽持续时间≥2周，且至少有以下症状之一，应怀疑患有百日咳（1)：
+吸气性哮咳声
+吸气性哮咳声
+阵发性咳嗽
+阵发性咳嗽
+咳嗽后呕吐
+咳嗽后呕吐
+在已知或疑似疫情爆发期间发生（2）
+在已知或疑似疫情爆发期间发生（2）
+每当临床医生怀疑患有百日咳时，就会进行诊断测试。
+卡他期与支气管炎或流感常难以区别。也应当与腺病毒感染和结核病相鉴别。
+在卡他期和痉咳早期鼻咽标本培养B. pertussis（百日咳博德特菌）的阳性率为80%～90%。因为需要特殊的培养基和延长培养时间，所以如果怀疑是百日咳应当通知实验室。
+鼻咽分泌物涂片的特异性荧光抗体试验是早期准确的诊断方法，但不如培养敏感。急性和恢复期血清学检测可能有所帮助，特别是在卡他期后。
+鼻咽样本的 PCR 检测是首选检测；在前 4 周内（卡他性和阵发性阶段）进行检测，其敏感性最高（90% 至 100%），特异性高达 100%（3）。
+白细胞计数一般为15,000～20,000/mcL (15～20 × 109/L) ，但也可正常或高至60,000/mcL (60 × 109/L)，小淋巴细胞一般占60%～80%。6 个月以下婴儿出现明显淋巴细胞增多预示预后不良（4）。
+副百日咳可通过培养或荧光抗体技术进行鉴别。
+
+【诊断参考】
+1.Centers for Disease Control and Prevention. Pertussis (Whooping Cough).Surveillance & Reporting.Accessed January 24, 2024.
+1.Centers for Disease Control and Prevention. Pertussis (Whooping Cough).Surveillance & Reporting.Accessed January 24, 2024.
+2.Patriarca PA, Biellik RJ, Sanden G, et al.Sensitivity and specificity of clinical case definitions for pertussis.Am J Public Health.1988;78(7):833-836.doi:10.2105/ajph.78.7.833
+2.Patriarca PA, Biellik RJ, Sanden G, et al.Sensitivity and specificity of clinical case definitions for pertussis.Am J Public Health.1988;78(7):833-836.doi:10.2105/ajph.78.7.833
+3.Lee AD, Cassiday PK, Pawloski LC, et al.Clinical evaluation and validation of laboratory methods for the diagnosis ofBordetella pertussisinfection: Culture, polymerase chain reaction (PCR) and anti-pertussis toxin IgG serology (IgG-PT).PLoS One.2018;13(4):e0195979.Published 2018 Apr 13.doi:10.1371/journal.pone.0195979
+3.Lee AD, Cassiday PK, Pawloski LC, et al.Clinical evaluation and validation of laboratory methods for the diagnosis ofBordetella pertussisinfection: Culture, polymerase chain reaction (PCR) and anti-pertussis toxin IgG serology (IgG-PT).PLoS One.2018;13(4):e0195979.Published 2018 Apr 13.doi:10.1371/journal.pone.0195979
+4.Coquaz-Garoudet M, Ploin D, Pouyau R, et al.Malignant pertussis in infants: factors associated with mortality in a multicenter cohort study.Ann Intensive Care.2021;11(1):70.Published 2021 May 7.doi:10.1186/s13613-021-00856-y
+4.Coquaz-Garoudet M, Ploin D, Pouyau R, et al.Malignant pertussis in infants: factors associated with mortality in a multicenter cohort study.Ann Intensive Care.2021;11(1):70.Published 2021 May 7.doi:10.1186/s13613-021-00856-y
+
+【治疗百日咳】
+支持治疗
+支持治疗
+红霉素或阿奇霉素
+红霉素或阿奇霉素
+病情严重的婴儿建议住院并进行呼吸道飞沫隔离。隔离时间应持续到给予抗生素5天后。
+对婴儿，从咽喉吸除过多黏液可能挽救生命。偶尔需要吸氧、气管切开或经鼻气管插管。祛痰剂、止咳剂及轻度镇静剂作用不大。
+因为任何打扰都会促使严重的痉咳发作和缺氧，对于病情严重的婴儿应使房间内光线阴暗，并保持安静，尽可能少打扰。
+在家治疗的患者也应隔离，特别是远离易感的婴儿，从发病起至少隔离4周，直到症状消失。
+在卡他期给予抗生素已被发现有助于改善病情。发作性阵发后，虽然发现抗生素的临床效果有限，但建议使用抗生素以限制扩散。
+首选抗生素是
+红霉素14天
+红霉素14天
+阿奇霉素 5 天
+阿奇霉素 5 天
+阿奇霉素对于≤6周的婴儿来说是首选，因为红霉素有更高的风险导致婴儿肥厚性幽门狭窄（1）。
+对大环内酯类抗生素不耐受或过敏的2月龄以上的患者可选用甲氧苄啶/磺胺甲基异恶唑作为替代治疗。
+对细菌性并发症（如支气管肺炎和中耳炎）也要应用抗生素治疗。
+
+【治疗参考文献】
+1.Maheshwai N.Are young infants treated witherythromycinat risk for developing hypertrophic pyloric stenosis?.Arch Dis Child.2007;92(3):271-273.doi:10.1136/adc.2006.110007
+1.Maheshwai N.Are young infants treated witherythromycinat risk for developing hypertrophic pyloric stenosis?.Arch Dis Child.2007;92(3):271-273.doi:10.1136/adc.2006.110007
+
+【预防百日咳】
+
+【免疫接种】
+建议所有婴儿、儿童、青少年和成人（包括孕妇）积极接种百日咳疫苗。
+对于7岁以下的儿童，请参阅白喉-百日咳-破伤风疫苗了解更多信息，包括适应症、禁忌证和注意事项、剂量和给药以及不良反应。
+对于 7 岁以上的人来说，更多信息请参阅破伤风-白喉疫苗，包括适应症、禁忌症和注意事项、剂量和给药和不良反应。
+感染后获得自然免疫持续20年。
+对于<7岁且已接种<4剂疫苗的密切接触者，应完成推荐的儿童疫苗接种计划。
+
+【暴露后预防】
+对于感染患者开始咳嗽后21天内的家庭密切接触者，无论他们是否接种过疫苗，都应给予暴露后抗生素预防。
+对于以下高危人群，无论是否接种过疫苗，在暴露后21天内也应给予暴露后抗生素预防：
+<12个月的婴儿
+<12个月的婴儿
+处于妊娠最后3个月的孕妇
+处于妊娠最后3个月的孕妇
+所有存在健康问题的人都可能因百日咳感染而加重病情（如免疫缺陷，中至重度哮喘，慢性肺病）
+所有存在健康问题的人都可能因百日咳感染而加重病情（如免疫缺陷，中至重度哮喘，慢性肺病）
+与小于12个月的婴儿、孕妇或可能发生严重疾病或并发症的患者有密切接触者
+与小于12个月的婴儿、孕妇或可能发生严重疾病或并发症的患者有密切接触者
+所有处于高危环境（例如，儿童保育中心，产科病房，新生儿ICU）中的人群，包括<12 月的婴儿或处于最后三个月妊娠期的妇女
+所有处于高危环境（例如，儿童保育中心，产科病房，新生儿ICU）中的人群，包括<12 月的婴儿或处于最后三个月妊娠期的妇女
+这些人应该接受标准的 5 天阿奇霉素疗程。7 至 14 天的红霉素或克拉霉素疗程（7 天）是另一种选择。 对于<1个月的婴儿，优先选用阿奇霉素用于暴露后预防。
+百日咳是一种可以发生于任何年龄的呼吸道感染，在年轻儿童最常见，最易致命，尤其是<6个月的婴儿。
+百日咳是一种可以发生于任何年龄的呼吸道感染，在年轻儿童最常见，最易致命，尤其是<6个月的婴儿。
+首先表现为伴有上呼吸道症状的卡他期，之后是阵咳期，出现快速连续性的重复咳嗽，最后是快速的深吸气（哮咳声）。
+首先表现为伴有上呼吸道症状的卡他期，之后是阵咳期，出现快速连续性的重复咳嗽，最后是快速的深吸气（哮咳声）。
+疾病持续约7周，但咳嗽可能持续数月。
+疾病持续约7周，但咳嗽可能持续数月。
+诊断采用PCR(polymerase chain reaction)检测或鼻咽分泌物培养;需要特殊的培养基。
+诊断采用PCR(polymerase chain reaction)检测或鼻咽分泌物培养;需要特殊的培养基。
+用大环内酯类抗生素治疗，以减轻症状（在卡他期）或（在痉咳期及以后）减少传播。
+用大环内酯类抗生素治疗，以减轻症状（在卡他期）或（在痉咳期及以后）减少传播。
+通过接种无细胞百日咳疫苗作为计划免疫的一部分来预防该疾病，并以不同的时间间隔给予加强剂量；使用大环内酯类药物治疗密切接触者。
+通过接种无细胞百日咳疫苗作为计划免疫的一部分来预防该疾病，并以不同的时间间隔给予加强剂量；使用大环内酯类药物治疗密切接触者。
+不论是曾患病或曾预防接种都不能提供终生的保护作用，但之后再患病症状往往较轻。
+不论是曾患病或曾预防接种都不能提供终生的保护作用，但之后再患病症状往往较轻。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+MSD Veterinary Manual:Kennel Cough
+MSD Veterinary Manual:Kennel Cough
+Centers for Disease Control and Prevention (CDC):Pertussis (Whooping Cough): Clinicians
+Centers for Disease Control and Prevention (CDC):Pertussis (Whooping Cough): Clinicians

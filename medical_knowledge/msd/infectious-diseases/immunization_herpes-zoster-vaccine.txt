@@ -1,0 +1,53 @@
+标题：带状疱疹疫苗
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/immunization/herpes-zoster-vaccine
+============================================================
+
+水痘及带状疱疹是由于感染水痘-带状疱疹病毒引起的，水痘发生在病毒急性感染期，而带状疱疹则为潜伏的病毒再次活动所引起。 有关水痘疫苗的信息，请参阅水痘疫苗。
+(参见免疫接种概述。)
+
+【带状疱疹疫苗制剂】
+美国现有的带状疱疹疫苗是一种重组疫苗。
+
+【带状疱疹疫苗的适应症】
+带状疱疹疫苗是成人常规疫苗接种（1）。带状疱疹疫苗的适应症包括：
+≥50岁的成年人，无论他们是否患有带状疱疹或已接种过既往上市的减毒活带状疱疹疫苗。
+≥50岁的成年人，无论他们是否患有带状疱疹或已接种过既往上市的减毒活带状疱疹疫苗。
+年龄≥19岁的成年人，因疾病或治疗而免疫缺陷或免疫抑制
+年龄≥19岁的成年人，因疾病或治疗而免疫缺陷或免疫抑制
+带状疱疹疫苗接种不需要既往水痘感染的血清学证据。然而，如果血清学证据显示既往没有水痘感染，医疗保健专业人员应遵循ACIP进行水痘疫苗接种。重组带状疱疹疫苗不适用于预防水痘，在没有水痘病史的人群中使用的数据有限。
+
+【适应症参考】
+1.Centers for Disease Control and Prevention (CDC):Adult Immunization Schedule by Age.Accessed September 23, 2025.
+1.Centers for Disease Control and Prevention (CDC):Adult Immunization Schedule by Age.Accessed September 23, 2025.
+
+【带状疱疹疫苗的禁忌症和注意事项】
+重组带状疱疹疫苗的主要禁忌症是：
+对疫苗成分或前一剂疫苗接种后有严重过敏反应（如全身性过敏反应）
+对疫苗成分或前一剂疫苗接种后有严重过敏反应（如全身性过敏反应）
+重组带状疱疹疫苗的主要注意事项包括：
+伴或不伴发热的中度或重度急性疾病（接种应推迟到疾病缓解后再进行）
+伴或不伴发热的中度或重度急性疾病（接种应推迟到疾病缓解后再进行）
+带状疱疹当前发作
+带状疱疹当前发作
+重组疫苗的临床试验排除了孕妇和/或哺乳期（母乳喂养）患者。目前美国疾病控制与预防中心没有建议在怀孕期间使用重组带状疱疹疫苗；因此，卫生保健专业人员应考虑将重组疫苗的接种推迟到怀孕和哺乳之后。
+
+【带状疱疹疫苗的剂量与给药】
+重组带状疱疹疫苗接种2次（每次0.5mL），肌肉注射，间隔2至6个月。 无论是否既往有带状疱疹病史或既往接种过减毒活带状疱疹疫苗，都需要接种两剂重组带状疱疹疫苗。
+带状疱疹疫苗应在给予免疫抑制剂治疗开始之前≥14天接种；如果允许的话，一些专家更愿意等带状疱疹疫苗接种满1个月后再开始免疫抑制治疗。
+
+【带状疱疹疫苗的不良反应】
+重组带状疱疹疫苗最常见的不良反应包括注射部位疼痛、红斑、肿胀、肌痛、乏力、头痛、寒战、发热及胃肠道症状。
+关于重组疫苗不良反应的更多信息，请参阅prescribing information（处方信息）。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Zoster (Shingles) Vaccine
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Zoster (Shingles) Vaccine
+ACIP:CDC: Adult Immunization Schedule by Age
+ACIP:CDC: Adult Immunization Schedule by Age
+Centers for Disease Control and Prevention (CDC):Shingles (Herpes Zoster)
+Centers for Disease Control and Prevention (CDC):Shingles (Herpes Zoster)
+CDC:About Shingles (Herpes Zoster)
+CDC:About Shingles (Herpes Zoster)
+European Centre for Disease Prevention and Control (ECDC):Herpes Zoster: Recommended vaccinations
+European Centre for Disease Prevention and Control (ECDC):Herpes Zoster: Recommended vaccinations

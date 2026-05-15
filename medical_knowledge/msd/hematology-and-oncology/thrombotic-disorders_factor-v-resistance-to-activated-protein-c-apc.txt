@@ -1,0 +1,37 @@
+标题：V因子对活化的蛋白C （APC） 抵抗
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/thrombotic-disorders/factor-v-resistance-to-activated-protein-c-apc
+============================================================
+
+(参见于血栓性疾病的概述。）
+活化蛋白C(APC)与蛋白S复合，降解凝血因子Va和VIIIa，从而抑制凝血(见图血液凝固途径)V因子任何位点的突变都可使其对APC的灭活产生抵抗，从而增加血栓形成的风险。
+V因子Leiden是最常见的突变。纯合突变增加血栓形成的风险超过杂合突变。
+
+【凝血途径】
+凝血途径
+作为单一基因缺陷的V因子Leiden突变在约5%的美国白人中存在，但在亚裔美国人或非裔美国人群中则很少发生（1）。20% 至 60%（取决于患者选择）的“自发性”静脉血栓形成患者存在这种情况（2）。因子V莱顿突变不是动脉血栓栓塞（即心肌梗死或中风）的危险因素（3）。
+
+【参考文献】
+1.Ridker PM, Miletich JP, Hennekens CH, Buring JE.Ethnic distribution of factor V Leiden in 4047 men and women.Implications for venous thromboembolism screening.JAMA.1997;277(16):1305-1307.
+1.Ridker PM, Miletich JP, Hennekens CH, Buring JE.Ethnic distribution of factor V Leiden in 4047 men and women.Implications for venous thromboembolism screening.JAMA.1997;277(16):1305-1307.
+2.Eichinger S, Weltermann A, Mannhalter C, et al.The risk of recurrent venous thromboembolism in heterozygous carriers of factor V Leiden and a first spontaneous venous thromboembolism.Arch Intern Med.2002;162(20):2357-2360.doi:10.1001/archinte.162.20.2357
+2.Eichinger S, Weltermann A, Mannhalter C, et al.The risk of recurrent venous thromboembolism in heterozygous carriers of factor V Leiden and a first spontaneous venous thromboembolism.Arch Intern Med.2002;162(20):2357-2360.doi:10.1001/archinte.162.20.2357
+3.Ryu J, Rämö JT, Jurgens SJ, et al.Thrombosis risk in single- and double-heterozygous carriers of factor V Leiden and prothrombin G20210A in FinnGen and the UK Biobank.Blood.2024;143(23):2425-2432.doi:10.1182/blood.2023023326
+3.Ryu J, Rämö JT, Jurgens SJ, et al.Thrombosis risk in single- and double-heterozygous carriers of factor V Leiden and prothrombin G20210A in FinnGen and the UK Biobank.Blood.2024;143(23):2425-2432.doi:10.1182/blood.2023023326
+
+【因子 V 对 APC 耐药的诊断】
+血浆凝血功能检查
+血浆凝血功能检查
+诊断基于：
+活化蛋白C抗性测定
+活化蛋白C抗性测定
+使用基于 DNA 的检测对 V 因子基因进行基因突变分析
+使用基于 DNA 的检测对 V 因子基因进行基因突变分析
+活化蛋白 C 抗性测定是针对 V 因子 Leiden 存在的筛选试验。将活化蛋白C添加到患者血浆的5倍稀释液中，并测量凝血时间。在纯合子或杂合子 V 因子 Leiden 抵抗的患者中，凝血时间的延长显着减少，因为他们的 V 因子对活化蛋白 C 的裂解具有抵抗力。
+然后通过基于 DNA 的突变测试来确认因子 V Leiden。
+
+【因子 V 抗 APC 的治疗】
+直接口服抗凝血剂在治疗包括 V 因子 Leiden 在内的血栓形成性患者的静脉血栓栓塞方面至少与华法林一样有效(1)。
+
+【治疗参考文献】
+1.Campello E, Spiezia L, Simion C, et al.Direct Oral Anticoagulants in Patients With Inherited Thrombophilia and Venous Thromboembolism: A Prospective Cohort Study.J Am Heart Assoc.2020;9(23):e018917.doi:10.1161/JAHA.120.018917
+1.Campello E, Spiezia L, Simion C, et al.Direct Oral Anticoagulants in Patients With Inherited Thrombophilia and Venous Thromboembolism: A Prospective Cohort Study.J Am Heart Assoc.2020;9(23):e018917.doi:10.1161/JAHA.120.018917

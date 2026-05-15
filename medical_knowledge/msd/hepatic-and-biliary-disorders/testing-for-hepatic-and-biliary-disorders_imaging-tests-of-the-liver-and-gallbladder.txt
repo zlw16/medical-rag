@@ -1,0 +1,134 @@
+标题：影像学检查
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/testing-for-hepatic-and-biliary-disorders/imaging-tests-of-the-liver-and-gallbladder
+============================================================
+
+影像学检查对于准确诊断胆道疾病是必需的并且对于识别肝脏局部病变（例如脓肿、肿瘤）具有重要意义，但是它对于识别和诊断弥漫性肝细胞疾病（例如肝炎）作用有限，诊断肝硬化需要特殊检查手段。
+
+【超声检查】
+传统上超声经腹部进行检查，检查前需要禁食一定的时间，它提供了脏器的结构信息而不是功能信息。它是最经济、最安全且首选的一线胆道系统可视化成像技术。它也是胆囊成像最敏感的方式(1, 2)。对于下列情况超声是可选择的检查方法：
+筛查胆道异常
+筛查胆道异常
+在右上腹疼痛的患者中评价肝胆管的情况
+在右上腹疼痛的患者中评价肝胆管的情况
+鉴别黄疸的原因是肝内还是肝外
+鉴别黄疸的原因是肝内还是肝外
+筛查肝脏占位
+筛查肝脏占位
+在左侧，腹部超声显示多个胆结石（箭头）。在右侧，腹部平片显示不透射线的胆结石（箭头）。
+© Springer Science+Business Media
+在肝胆超声检查时还可观察到肾脏、胰腺和血管。超声可检测脾脏的大小，因此可帮助诊断脾肿大，后者常提示门静脉高压。
+超声检查对于肠道积气患者或肥胖患者是困难的，并且依赖于操作者。内窥镜超声检查可以提高肝胆异常的分辨率。超声内镜是一种将超声传感器置入内镜顶端的装置，因此即使存在肠道积气也能提供更高清晰度的图像。
+胆结石的超声表现为强回声光团，其后方伴有声影，随体位改变而移位。当胆结石直径>2mm时经腹超声的诊断正确率非常高（敏感性约94%）(3)。超声内镜能够检测到胆囊或胆道系统内小至0.5mm的结石（微结石）。经腹超声和内窥镜超声也可以识别胆道污泥（颗粒物质和胆汁的混合物）为低水平回声，该回声层位于胆囊的依赖部分，没有声影。
+胆囊炎的典型表现包括
+胆囊壁增厚（>3mm）
+胆囊壁增厚（>3mm）
+胆囊周围积液
+胆囊周围积液
+胆囊颈部结石嵌塞
+胆囊颈部结石嵌塞
+超声探头触诊胆囊时有触痛（超声检查Murphy征）
+超声探头触诊胆囊时有触痛（超声检查Murphy征）
+肝外梗阻表现为胆管的扩张。在经腹部超声和内镜超声中，胆管表现为无回声的管状结构。正常情况下，胆总管的直径<6mm，随着年龄增长有轻微的增宽，在胆囊切除术后可达10mm。胆管扩张且临床症状符合时一般就可确诊为肝外胆道梗阻。超声可能漏诊早期的或间断的梗阻，因为这些情况不引起胆管的扩张。经腹超声可能无法显示胆道梗阻的程度或病因（例如，对胆总管结石的敏感性在40%至70%范围内）（2, 4）。超声内镜则要好一些。
+肝脏局灶性病变直径>1cm时，通常可被经腹超声检出。 一般来说，囊肿表现为无回声，而实质性病变（例如肿瘤、脓肿）表现为有回声。癌症表现为无特异性的实质性肿块。超声检查已被用于那些肝癌高危患者（例如患有慢性乙型肝炎或肝硬化）的筛查。超声具有有限的特异性，病变血管性和组织成分的特征描述常不完整，不能明确诊断肝细胞癌。增强磁共振成像提供了出色的软组织分辨率和多相血管特征，可以自信地区分良恶性病变。因为超声检查可以对局部的病变进行定位，所以它被用来引导穿刺和活检(5) 。
+弥漫性疾病（例如，肝硬化、脂肪肝）可以通过超声检查来检测。
+弹性成像是一种无创检测，通过测量肝脏硬度来评估肝纤维化程度。在这种检查中，探头释放振动波诱发一种弹性剪切波。通过检测这种剪切波在肝脏中扩散的速率就可以反映肝脏的硬度。使用了两种主要技术，瞬态弹性成像（纤维扫描）和剪切波弹性成像（集成到传统超声机器中），每种技术都有其特定的优点。弹性成像通常结合血液检查评估肝纤维化，特别是对于患有慢性丙型肝炎和代谢功能障碍相关脂肪性肝病的患者。
+
+【多普勒超声】
+是一种评价肝周血管（特别是门静脉）的流量和血流方向的无创检查方法。临床上的使用包括
+检测门静脉高压（如明显的侧支循环和血流方向可提示，增加门静脉直径至>13 ~ 15mm）
+检测门静脉高压（如明显的侧支循环和血流方向可提示，增加门静脉直径至>13 ~ 15mm）
+评估肝脏分流术（如门腔静脉分流术、经皮经肝分流术）的通畅性
+评估肝脏分流术（如门腔静脉分流术、经皮经肝分流术）的通畅性
+在肝移植前评价门静脉的流量和在移植后识别肝动脉血栓
+在肝移植前评价门静脉的流量和在移植后识别肝动脉血栓
+评估肝静脉通畅性（布加综合征）
+评估肝静脉通畅性（布加综合征）
+识别异常的血管结构（例如门静脉海绵样变）
+识别异常的血管结构（例如门静脉海绵样变）
+手术前评估肿瘤的血供情况
+手术前评估肿瘤的血供情况
+
+【计算机体层摄影术（CT）】
+CT常用来识别肝脏肿块，包括肝细胞癌，特别是小的转移灶，特异性为~80% (6)。增强CT可准确诊断肝海绵状血管瘤，也可鉴别肝海绵状血管瘤与其他腹部肿块。肥胖和肠道气体对CT图像都没有干扰。CT可发现肝脂肪变性和铁超负荷所致的肝密度升高。在识别胆道梗阻方面，CT的价值逊于超声；但对于胰腺，CT常是最好的检查方法。
+
+【磁共振成像（MRI）】
+MRI可显影血管（不需要造影剂）、管道和肝组织。 在诊断弥散性肝病（例如，脂肪肝、血色病）和识别一些局部占位性病变（如肝肿瘤、血管瘤）方面，MRI优于CT和超声。MRI也可以显示血流，因而可以与多普勒超声和CT血管造影互补，用于诊断血管异常以及了解肝移植前血管分布情况。除了常规成像，一些专门的MRI技术提供临床相关信息。
+磁共振弹性成像(MRE)通过测量机械波通过肝脏的速度来确定肝脏硬度。MRE是一种高度精确的无创肝纤维化测量技术。它的使用受到成本的限制。
+磁共振铁定量测量患者的肝铁浓度，这些患者因血色病或输血性铁超负荷而存在铁超负荷的风险。
+磁共振质子密度脂肪分数(MR-PDFF)准确测量肝脂肪含量。由于它能够测量整个肝脏的脂肪，因此减少了肝脏活检中可能发生的抽样误差。目前，虽然它被推荐作为脂肪变性定量评估的首选测试，但其临床应用受到可用性和成本的限制(7, 8)。
+在诊断胆总管异常，特别是结石方面，磁共振胆胰管造影（MRCP）比CT和超声检查更敏感。MRCP所显像的胆道系统和胰管的图像与内镜逆行胰胆管造影（ERCP）和经皮经肝胆管造影的结果相似，但它更无创 (2, 9) 。因此，MRCP是一种有用的筛查工具，当怀疑胆道梗阻时，在治疗性ERCP（例如，同时成像和去除结石）之前进行，并在很大程度上取代了HIDA（羟基或二异丙基亚氨基二乙酸）扫描的使用。MRCP可选择用于原发性硬化性胆管炎的筛查。
+在正常MRCP中，胆管轮廓平滑，几乎对称，右肝管（箭头）与左肝管（箭号）连接，形成肝门附近的肝总管。 肝总管与胆囊管汇合形成胆总管（弯曲箭头）。
+© Springer Science+Business Media
+
+【内镜逆行胰胆管造影（ERCP）】
+ERCP是在内镜下经十二指肠乳头插管注入造影剂，从而逆行显示胰胆管的造影技术。首先，将内镜插入十二指肠降部，然后将导管插入Vater乳头部，向胰管和胆管内注入造影剂。
+该射线照片显示内窥镜在十二指肠中的位置。不透射线的造影剂填充胰管（水平白色导管）和胆管（垂直导管延伸到胆囊）。
+MIRIAM MASLO/SCIENCE PHOTO LIBRARY
+ERCP可提供壶腹周围区域、胆道和胰腺大部分区域的详细图像。ERCP也可用于胆管组织活检。对于壶腹部癌症，ERCP是最好的诊断方法 (10) 。对于诊断胆总管结石，ERCP和超声内镜一样准确。因为ERCP是有创的，所以它更多用于治疗（包括同时进行诊断和治疗），而不是单纯用于诊断。对于治疗胆道和胰腺梗阻性病变，ERCP是可选择的手段 (2)，并可用于：
+胆总管结石的取出
+胆总管结石的取出
+狭窄支架置入（炎性、解剖性[肝移植后]或恶性）
+狭窄支架置入（炎性、解剖性[肝移植后]或恶性）
+括约肌切开（例如，对于乳头狭窄，也称Oddi括约肌功能障碍）
+括约肌切开（例如，对于乳头狭窄，也称Oddi括约肌功能障碍）
+ERCP后胰腺炎的总体风险约为10%(常规病例中可能接近5%，高风险患者中为15%)(11)。当ERCP包括括约肌切开术或某些其他干预措施时，在年轻和女性患者中，以及在小容量中心或内窥镜医师中，胰腺炎的风险更高。在测量Oddi括约肌压力后，发生率特别高，但这似乎与患者的特征有关，而不是与手术本身有关(12, 13)。用乳酸林格氏液补液和直肠给予吲哚美辛有助于降低ERCP诱发胰腺炎的风险(14)。
+ERCP后的其他并发症包括出血(1-2%)、胆管炎(0.5-3%)和穿孔(<1%)(15)。
+
+【经皮经肝穿刺胆管造影（PTC）】
+PTC是在荧光镜或超声引导下，用细针穿刺肝脏，在肝总管上方的外周肝内胆管系统内置管，进而将造影剂注入显示胆管系统。
+PTC诊断胆道疾病的准确性很高，而且在诊断同时还可进行治疗（例如，对胆道系统进行减压、植入内支架）。然而，由于一些研究表明PTC的并发症发生率较高，ERCP可能更适合用于恶性梗阻性黄疸的评估和治疗(16, 17)。
+
+【术中胆管造影】
+剖腹手术时直接注入一种不透射线的造影剂使胆管系统成像。
+当出现黄疸并且无创的检查方法提示胆总管结石时有指征进行术中胆管造影。当该检查明确诊断后可行胆总管探查取石术。由于该检查在技术上要求较高，特别是在腹腔镜胆囊切除术时，因而限制了它在临床上的运用。
+
+【胆管闪烁显像术】
+随着MRCP可用性的提高，HIDA扫描的有用性显著降低。胆管闪烁显像在患者禁食后进行。静脉注射锝（technetium）标记的亚氨基二乙酸（iminodiacetic）复合物（例如，羟基或二异丙基亚氨基二乙酸[hydroxy or diispropyl iminodiacetic acid, HIDA or DISIDA]），这些复合物被肝脏摄取后分泌到胆汁中，随后进入胆囊。
+HIDA扫描符合胆囊炎。从左到右显示的是注射放射性示踪剂后5、15、30和60分钟采集的图像。即使在较晚的时间点，胆囊也没有充盈。
+© Springer Science+Business Media
+HIDA扫描对诊断急性结石性胆囊炎（2）准确。当胆囊管中结石阻塞引起时，由于放射性核素不能进入胆囊，因此在扫描中看不到胆囊。这种无显影在诊断上相对准确（除了在一些危重患者中有假阳性的结果）。然而，在临床诊断急性胆囊炎时很少需要进行胆道闪烁显像。
+如果怀疑患有非结石性胆囊炎，在给予胆囊收缩素（cholecystokinin）（用来刺激胆囊收缩）前后分别对胆囊进行扫描。闪烁扫描计数差值提示胆囊排出分数。排出分数降低代表排空减少，提示非结石性胆囊炎。
+胆管闪烁显像还可以用于识别胆漏（例如，手术或创伤后）和解剖结构异常（例如，先天性胆总管囊肿、胆总管肠吻合术）。胆囊切除术后，胆管闪烁显像能够测定胆汁排出量，胆汁的排出可帮助识别乳头狭窄（Oddi括约肌功能障碍）。
+但是，在急性或慢性胆汁淤积性肝病中，胆管造影作为诊断性检查并不准确，因为胆汁淤积时，肝细胞向胆汁排泌的放射性示踪剂量较少。此外，阿片类药物的使用可能会影响结果，导致假阳性结果。
+
+【放射性核素肝脏扫描】
+放射性核素扫描曾被用于诊断弥散性肝病和肝脏占位性病变，但目前多被超声和CT检查所替代。放射性核素扫描可以显示注射的放射性示踪剂（通常为锝99mTc硫胶体）的分布情况，在正常的肝脏内这种示踪剂成均匀分布。>4cm的占位性病变（如肝囊肿、肝脓肿、肿瘤转移灶和原发性肝肿瘤）表现为示踪剂的缺失。 弥散性肝病（例如，肝硬化、肝炎）减少了肝脏对示踪剂的摄取，示踪剂更易在脾脏和骨髓中浓聚。当肝静脉阻塞（布-加综合征）时，肝脏对示踪剂的摄取下降，但肝尾叶除外，因为它的血液回流至下腔静脉。
+
+【腹部X线平片】
+X线平片通常对肝胆疾病的诊断不太有用。除非胆结石是钙化的并且足够大，否则X线平片对于识别胆结石缺乏敏感性。X线平片可以发现钙化的（瓷器样）胆囊。在重病的患者，X线平片可罕见地在胆道系统中发现气体，提示气肿性胆管炎。
+
+【参考文献】
+1.Expert Panel on Gastrointestinal Imaging, Arif-Tiwari H, Porter KK, et al.ACR Appropriateness Criteria® Abnormal Liver Function Tests.J Am Coll Radiol.2023;20(11S):S302-S314.doi:10.1016/j.jacr.2023.08.023
+1.Expert Panel on Gastrointestinal Imaging, Arif-Tiwari H, Porter KK, et al.ACR Appropriateness Criteria® Abnormal Liver Function Tests.J Am Coll Radiol.2023;20(11S):S302-S314.doi:10.1016/j.jacr.2023.08.023
+2.Pisano M, Allievi N, Gurusamy K, et al.2020 World Society of Emergency Surgery updated guidelines for the diagnosis and treatment of acute calculus cholecystitis.World J Emerg Surg.2020;15(1):61.Published 2020 Nov 5.doi:10.1186/s13017-020-00336-x
+2.Pisano M, Allievi N, Gurusamy K, et al.2020 World Society of Emergency Surgery updated guidelines for the diagnosis and treatment of acute calculus cholecystitis.World J Emerg Surg.2020;15(1):61.Published 2020 Nov 5.doi:10.1186/s13017-020-00336-x
+3.Wu X, Li K, Kou S, Wu X, Zhang Z.The Accuracy of Point-of-Care Ultrasound in the Detection of Gallbladder Disease: A Meta-analysis.Acad Radiol.2024;31(4):1336-1343.doi:10.1016/j.acra.2023.09.029
+3.Wu X, Li K, Kou S, Wu X, Zhang Z.The Accuracy of Point-of-Care Ultrasound in the Detection of Gallbladder Disease: A Meta-analysis.Acad Radiol.2024;31(4):1336-1343.doi:10.1016/j.acra.2023.09.029
+4.Gurusamy KS, Giljaca V, Takwoingi Y, et al.Ultrasound versus liver function tests for diagnosis of common bile duct stones.Cochrane Database Syst Rev.2015(2):CD011548, 2015.doi: 10.1002/14651858.CD011548
+4.Gurusamy KS, Giljaca V, Takwoingi Y, et al.Ultrasound versus liver function tests for diagnosis of common bile duct stones.Cochrane Database Syst Rev.2015(2):CD011548, 2015.doi: 10.1002/14651858.CD011548
+5.Frenette C, Mendiratta-Lala M, Salgia R, Wong RJ, Sauer BG, Pillai A.ACG Clinical Guideline: Focal Liver Lesions.Am J Gastroenterol.2024;119(7):1235-1271.doi:10.14309/ajg.0000000000002857
+5.Frenette C, Mendiratta-Lala M, Salgia R, Wong RJ, Sauer BG, Pillai A.ACG Clinical Guideline: Focal Liver Lesions.Am J Gastroenterol.2024;119(7):1235-1271.doi:10.14309/ajg.0000000000002857
+6.Freitas PS, Janicas C, Veiga J, et al.Imaging evaluation of the liver in oncology patients: A comparison of techniques.World J Hepatol.13(12):1936-1955, 2021.doi: 10.4254/wjh.v13.i12.1936
+6.Freitas PS, Janicas C, Veiga J, et al.Imaging evaluation of the liver in oncology patients: A comparison of techniques.World J Hepatol.13(12):1936-1955, 2021.doi: 10.4254/wjh.v13.i12.1936
+7.Panagiotopoulos N, Wolfson T, Harris DT, et al.Proton density fat fraction for diagnosis of metabolic dysfunction-associated steatotic liver disease.Hepatology.Published online March 25, 2025.doi:10.1097/HEP.0000000000001318
+7.Panagiotopoulos N, Wolfson T, Harris DT, et al.Proton density fat fraction for diagnosis of metabolic dysfunction-associated steatotic liver disease.Hepatology.Published online March 25, 2025.doi:10.1097/HEP.0000000000001318
+8.Sterling RK, Duarte-Rojo A, Patel K, et al.AASLD Practice Guideline on imaging-based noninvasive liver disease assessment of hepatic fibrosis and steatosis.Hepatology.2025;81(2):672-724.doi:10.1097/HEP.0000000000000843
+8.Sterling RK, Duarte-Rojo A, Patel K, et al.AASLD Practice Guideline on imaging-based noninvasive liver disease assessment of hepatic fibrosis and steatosis.Hepatology.2025;81(2):672-724.doi:10.1097/HEP.0000000000000843
+9.Soto JA, Alvarez O, Múnera F, Velez SM, Valencia J, Ramírez N.Diagnosing bile duct stones: comparison of unenhanced helical CT, oral contrast-enhanced CT cholangiography, and MR cholangiography.AJR Am J Roentgenol.2000;175(4):1127-1134.doi:10.2214/ajr.175.4.1751127
+9.Soto JA, Alvarez O, Múnera F, Velez SM, Valencia J, Ramírez N.Diagnosing bile duct stones: comparison of unenhanced helical CT, oral contrast-enhanced CT cholangiography, and MR cholangiography.AJR Am J Roentgenol.2000;175(4):1127-1134.doi:10.2214/ajr.175.4.1751127
+10.Chiorean EG, Chiaro MD, Tempero MA, et al.Ampullary Adenocarcinoma, Version 1.2023, NCCN Clinical Practice Guidelines in Oncology.J Natl Compr Canc Netw.2023;21(7):753-782.doi:10.6004/jnccn.2023.0034
+10.Chiorean EG, Chiaro MD, Tempero MA, et al.Ampullary Adenocarcinoma, Version 1.2023, NCCN Clinical Practice Guidelines in Oncology.J Natl Compr Canc Netw.2023;21(7):753-782.doi:10.6004/jnccn.2023.0034
+11.Barakat M, Saumoy M, Forbes N, Elmunzer BJ.Complications of Endoscopic Retrograde Cholangiopancreatography.Gastroenterology.2025;169(2):230-243.e8.doi:10.1053/j.gastro.2025.03.009
+11.Barakat M, Saumoy M, Forbes N, Elmunzer BJ.Complications of Endoscopic Retrograde Cholangiopancreatography.Gastroenterology.2025;169(2):230-243.e8.doi:10.1053/j.gastro.2025.03.009
+12.ASGE Standards of Practice Committee, Chandrasekhara V, Khashab MA, et al.Adverse events associated with ERCP.Gastrointest Endosc.2017;85(1):32-47.doi:10.1016/j.gie.2016.06.051
+12.ASGE Standards of Practice Committee, Chandrasekhara V, Khashab MA, et al.Adverse events associated with ERCP.Gastrointest Endosc.2017;85(1):32-47.doi:10.1016/j.gie.2016.06.051
+13.Yaghoobi M, Pauls Q, Durkalski V, et al.Incidence and predictors of post-ERCP pancreatitis in patients with suspected sphincter of Oddi dysfunction undergoing biliary or dual sphincterotomy: results from the EPISOD prospective multicenter randomized sham-controlled study.Endoscopy.2015;47(10):884-890.doi:10.1055/s-0034-1392418
+13.Yaghoobi M, Pauls Q, Durkalski V, et al.Incidence and predictors of post-ERCP pancreatitis in patients with suspected sphincter of Oddi dysfunction undergoing biliary or dual sphincterotomy: results from the EPISOD prospective multicenter randomized sham-controlled study.Endoscopy.2015;47(10):884-890.doi:10.1055/s-0034-1392418
+14.Tenner S, Vege SS, Sheth SG, et al.American College of Gastroenterology Guidelines: Management of Acute Pancreatitis.Am J Gastroenterol.2024;119(3):419-437.doi:10.14309/ajg.0000000000002645
+14.Tenner S, Vege SS, Sheth SG, et al.American College of Gastroenterology Guidelines: Management of Acute Pancreatitis.Am J Gastroenterol.2024;119(3):419-437.doi:10.14309/ajg.0000000000002645
+15.Bishay K, Meng ZW, Khan R, et al.Adverse Events Associated With Endoscopic Retrograde Cholangiopancreatography: Systematic Review and Meta-Analysis.Gastroenterology.2025;168(3):568-586.doi:10.1053/j.gastro.2024.10.033
+15.Bishay K, Meng ZW, Khan R, et al.Adverse Events Associated With Endoscopic Retrograde Cholangiopancreatography: Systematic Review and Meta-Analysis.Gastroenterology.2025;168(3):568-586.doi:10.1053/j.gastro.2024.10.033
+16.Pang L, Wu S, Kong J.Comparison of Efficacy and Safety between Endoscopic Retrograde Cholangiopancreatography and Percutaneous Transhepatic Cholangial Drainage for the Treatment of Malignant Obstructive Jaundice: A Systematic Review and Meta-Analysis.Digestion.2023;104(2):85-96.doi:10.1159/000528020
+16.Pang L, Wu S, Kong J.Comparison of Efficacy and Safety between Endoscopic Retrograde Cholangiopancreatography and Percutaneous Transhepatic Cholangial Drainage for the Treatment of Malignant Obstructive Jaundice: A Systematic Review and Meta-Analysis.Digestion.2023;104(2):85-96.doi:10.1159/000528020
+17.Bian C, Fang Y, Xia J, et al.Is percutaneous drainage better than endoscopic drainage in the management of patients with malignant obstructive jaundice?A meta-analysis of RCTs.Front Oncol.2023;13:1105728.Published 2023 Jan 30.doi:10.3389/fonc.2023.1105728
+17.Bian C, Fang Y, Xia J, et al.Is percutaneous drainage better than endoscopic drainage in the management of patients with malignant obstructive jaundice?A meta-analysis of RCTs.Front Oncol.2023;13:1105728.Published 2023 Jan 30.doi:10.3389/fonc.2023.1105728

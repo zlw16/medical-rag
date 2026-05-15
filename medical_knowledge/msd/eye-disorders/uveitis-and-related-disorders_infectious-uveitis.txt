@@ -1,0 +1,85 @@
+标题：感染性葡萄膜炎
+来源：https://www.msdmanuals.cn/professional/eye-disorders/uveitis-and-related-disorders/infectious-uveitis
+============================================================
+
+多种感染性疾病可引起葡萄膜炎（见表葡萄膜炎的感染性病因）。最常见的是弓形体病、单纯疱疹病毒（HSV）和水痘带状疱疹病毒（VZV）。不同的病原累及葡萄膜的不同部位。
+(参见葡萄膜炎概述。）
+
+【葡萄膜炎的感染病因】
+葡萄膜炎的感染病因
+病毒或者感染源
+单纯疱疹病毒
+弓形体病
+巴尔通体病
+巨细胞病毒*
+组织胞浆菌病
+Pneumocystis jirovecii*
+弓蛔虫病
+Aspergillus曲霉菌
+Candida假丝酵母菌
+基肯孔雅热
+球孢子菌病
+Cryptococcus隐球菌
+埃博拉病毒
+Leptospirosis钩端螺旋体病
+盘尾丝虫病
+Tropheryma whippelii革兰氏阳性棒状杆菌
+西尼罗河病毒
+寨卡病毒
+*尤其是免疫功能受损患者。
+HSV=单纯疱疹病毒；VZV=水痘带状疱疹病毒
+*尤其是免疫功能受损患者。
+HSV=单纯疱疹病毒；VZV=水痘带状疱疹病毒
+
+【弓形虫病】
+弓形体病是具有免疫能力的患者发生视网膜炎的最常见原因 (1) 。大部分病例是获得性感染，但是也能发生先天性感染，特别是在感染流行的国家。因玻璃体内的炎症细胞或视网膜病灶或瘢痕灶，可出现眼前漂浮物和视力下降的症状。眼球前段亦可同时受累，引起眼痛、眼红和畏光等症状。实验室检查应包括血清抗弓形虫Toxoplasma gondii抗体滴度检测。
+对累及眼后段、可能损伤重要结构如视神经或者黄斑的患者，以及免疫功能缺陷的患者，应该开始治疗 (2)。通常采用多种药物联合治疗，包括乙胺嘧啶、磺胺、克林霉素等，部分病例还可全身应用皮质类固醇。但皮质类固醇必须与抗生素同时应用，不可单独应用。黄斑或视神经附近的威胁视力的病变需要玻璃体内注射克林霉素。弓形体病可以复发，因此存在危害视力病灶的患者可能需要长期应用复方新诺明预防性治疗。 应避免使用长效球旁或者球内注射皮质类固醇（如曲安奈德）。
+患者症状很少或无症状，只有小的周边病灶而不直接危害重要结构的患者可以不予治疗而随访观察，一般在1～2个月内有缓慢的好转。
+该图像显示了由弓形虫感染引起的视网膜疤痕（上中）。
+Paul Whitten/SCIENCE PHOTO LIBRARY
+
+【疱疹病毒：HSV和VZV】
+单纯疱疹病毒引起前葡萄膜炎。水痘带状疱疹病毒（VZV）引起前部葡萄膜炎较少见，虽然随着年龄增长逐渐增加。 HSV和VZV都可导致后葡萄膜炎，尽管这种情况较少见。
+前葡萄膜炎的症状包括
+眼睛疼痛
+眼睛疼痛
+视力下降
+视力下降
+体征包括：
+体征包括结膜充血和前房炎症（细胞和闪辉），通常伴有角膜炎。
+体征包括结膜充血和前房炎症（细胞和闪辉），通常伴有角膜炎。
+角膜感觉减退
+角膜感觉减退
+片状或扇形虹膜萎缩
+片状或扇形虹膜萎缩
+眼内压也可能升高;与大多数形式的葡萄膜炎通常相关的低眼压相反；可以通过压平来检测眼压例如，Goldmann眼压计，气动式眼压计，电子压陷眼压计，或者如果没有这些眼压计，则可以使用Schiotz眼压计。
+一般由眼科医生治疗，治疗措施包括局部皮质类固醇和睫状肌麻痹-散瞳剂 (3)。可以ji'yu阿昔洛韦（治疗单纯疱疹病毒剂量为400mg口服，5 次/天，治疗水痘带状疱疹病毒剂量为800mg口服，5 次/天）或伐昔洛韦（治疗单纯疱疹病毒剂量为1g口服，2 次/天，治疗水痘带状疱疹病毒剂量为1g口服，3 次/天）治疗。眼压升高的患者需要降眼压治疗。
+急性视网膜坏死（ARN）是一种快速发展的视网膜炎，是水痘 - 带状疱疹病毒和单纯疱疹病毒感染的少见表现。其特征为融合性视网膜炎、阻塞性视网膜血管炎和中至重度的玻璃体炎症。1/3的ARN患者变为双侧发病，3/4的患者发生视网膜脱离(4)。ARN也可发生在HIV/AIDS的患者，但有免疫功能严重缺陷的患者玻璃体炎症相对较轻。用于培养和聚合酶链反应分析的前房穿刺术或玻璃体活检可能有助于诊断 ARN。治疗措施包括静脉注射阿昔洛韦、更昔洛韦或膦甲酸钠，玻璃体腔注射更昔洛韦或膦甲酸钠，和口服伐昔洛韦或者缬更昔洛韦。
+急性视网膜坏死由疱疹病毒感染引起。它会导致快速进展的视网膜坏死（变白区域）并伴有闭塞性血管炎。如果不及时治疗，它会导致几天内严重的视力丧失。
+Image courtesy of Sunir Garg, MD.
+
+【疱疹病毒：巨细胞病毒】
+巨细胞病毒（CMV）是免疫功能缺陷患者发生视网膜炎的最常见病因 (5)，但在接受抗逆转录病毒治疗（ART）的HIV/AIDS患者中发病率已经下降 (6)。截至 2001 年，这些患者中有 10% 受到影响（7）。大多数患病的患者CD4+细胞计数<100个/mcL。CMV视网膜炎也见于新生儿和药物性免疫功能抑制的患者，但不常见。巨细胞病毒很少在免疫功能正常的患者引起前部葡萄膜炎。
+CMV视网膜炎的症状包括视物模糊，盲点，飞蚊症，闪光感和视力下降。与其他疱疹病毒科视网膜炎一样，眼压通常会升高。但感染通常是无症状的。
+巨细胞病毒性视网膜炎的特征包括棉絮斑、视网膜内出血、视网膜梗塞和动脉炎。 该诊断是基于免疫抑制患者的特征性视网膜检查结果作出的推定。
+SUE FORD/SCIENCE PHOTO LIBRARY
+诊断主要依据直接或者间接眼底镜检查，血清学检测的帮助有限，但是诊断不明确时房水的分析可以确诊。
+HIV/AIDS患者的葡萄膜炎治疗措施包括全身或者玻璃体腔注射更昔洛韦，全身或者玻璃体腔注射膦甲酸钠，或者全身缬更昔洛韦(8)。 典型的方案是持续治疗，直至通过抗逆转录病毒药物帮助机体恢复免疫功能后（通常CD4+细胞计数>100个/mcL至少达3个月）。CD4 +计数<50个细胞/mcL的患者即使无症状也应每3个月监测一次CMV视网膜炎。
+
+【参考文献】
+1.Rothova A, Hajjaj A, de Hoog J, et al: Uveitis causes according to immune status of patients.Acta Ophthalmol97(1):53-59, 2019.doi: 10.1111/aos.13877
+1.Rothova A, Hajjaj A, de Hoog J, et al: Uveitis causes according to immune status of patients.Acta Ophthalmol97(1):53-59, 2019.doi: 10.1111/aos.13877
+2.Zegans ME, Tabbara KF: Management of ocular toxoplasmosis.American Academy of Ophthalmology.ONE®Network.Current Insight, 2008.
+2.Zegans ME, Tabbara KF: Management of ocular toxoplasmosis.American Academy of Ophthalmology.ONE®Network.Current Insight, 2008.
+3.Doran M: Understanding and treating viral anterior uveitis.American Academy of Ophthalmology.EyeNet®Magazine, 2009.
+3.Doran M: Understanding and treating viral anterior uveitis.American Academy of Ophthalmology.EyeNet®Magazine, 2009.
+4.Anthony CL, Bavinger JC, Yeh S: Advances in the diagnosis and management of acute retinal necrosis.Ann Eye Sci5:28, 2020.
+4.Anthony CL, Bavinger JC, Yeh S: Advances in the diagnosis and management of acute retinal necrosis.Ann Eye Sci5:28, 2020.
+5.Jabs DA: Ocular manifestations of HIV infection.Trans Am Ophthalmol Soc93:623-683, 1995.PMID: 8719695
+5.Jabs DA: Ocular manifestations of HIV infection.Trans Am Ophthalmol Soc93:623-683, 1995.PMID: 8719695
+6.Deayton JR, Wilson P, Sabin CA, et al: Changes in the natural history of cytomegalovirus retinitis following the introduction of highly active antiretroviral therapy.AIDS14(9):1163-1170, 2000.doi: 10.1097/00002030-200006160-00013.doi:10.1097/00002030-200006160-00013
+6.Deayton JR, Wilson P, Sabin CA, et al: Changes in the natural history of cytomegalovirus retinitis following the introduction of highly active antiretroviral therapy.AIDS14(9):1163-1170, 2000.doi: 10.1097/00002030-200006160-00013.doi:10.1097/00002030-200006160-00013
+7.Zambarakji HJ, Newson RB, Mitchell SM: CMVR diagnoses and progression of CD4 cell counts and HIV viral load measurements in HIV patients on HAART.Br J Ophthalmol85(7):837-841, 2001.doi: 10.1136/bjo.85.7.837
+7.Zambarakji HJ, Newson RB, Mitchell SM: CMVR diagnoses and progression of CD4 cell counts and HIV viral load measurements in HIV patients on HAART.Br J Ophthalmol85(7):837-841, 2001.doi: 10.1136/bjo.85.7.837
+8.Smith BT, Regillo CD.How to treat cytomegalovirus retinitis.Scott IU, Fekrat S, eds.InEyeNet®Magazine, 2024 (originally published in 2005).
+8.Smith BT, Regillo CD.How to treat cytomegalovirus retinitis.Scott IU, Fekrat S, eds.InEyeNet®Magazine, 2024 (originally published in 2005).

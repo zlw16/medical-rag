@@ -1,0 +1,30 @@
+标题：心房颤动和WPW综合征（WPW）
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/atrial-fibrillation-and-wolff-parkinson-white-syndrome-wpw-syndrome
+============================================================
+
+(参见心律失常概述和房颤。）
+在显性沃尔夫-帕金森-怀特（WPW）综合征中，顺行前向传导发生在旁路。如果发生心房颤动，房室结正常限速的作用被绕过，过快的心室率（有时为200~300次/分）可能导致心室颤动（见图沃尔夫-帕金森-怀特综合征的房颤）和猝死(1)。
+具有不在前向传导的附加 AV 连接的患者不具有 WPW 综合征（隐匿性 WPW 综合征）的短 PR 间期和 delta 波特征。然而，他们仍可能患有顺向性反复性房室性室上性心动过速，其中附加房室连接用于逆向传导，但他们没有心房颤动快速传导的风险（心房颤动时附加房室连接用于顺向传导）。
+
+【Wolff-Parkinson-White综合征的心房颤动】
+Wolff-Parkinson-White综合征的心房颤动
+心室反应非常快（最短RR间期为160ms）此后不久，即发展为心室颤动（底部Ⅱ导联连续节律条图）。
+
+【参考文献】
+1.Klein GJ, Bashore TM, Sellers TD, et al: Ventricular fibrillation in the Wolff-Parkinson-White syndrome.N Engl J Med301(20):1080–1085, 1979.doi: 10.1056/NEJM197911153012003
+1.Klein GJ, Bashore TM, Sellers TD, et al: Ventricular fibrillation in the Wolff-Parkinson-White syndrome.N Engl J Med301(20):1080–1085, 1979.doi: 10.1056/NEJM197911153012003
+
+【心房颤动和 WPW 综合征的治疗】
+直流电复律
+直流电复律
+Wolff-Parkinson-White综合征的首选治疗是直流电心脏复律(1)。用于心房颤动的常用减慢心率的药物无效，可能用于许多其他形式的室上性心动过速的地高辛、腺苷和非二氢吡啶钙通道阻滞剂（如维拉帕米、地尔硫卓）禁用，因为它们可能会增加心室率并导致心室颤动。
+如果不能进行心脏电复律，应该使用能延长旁道不应期的药物。首选静脉注射普鲁卡因胺或伊布利特(1)，但任何Ⅰa类，Ⅰc类或Ⅲ类抗心律失常药都可用。
+
+【经验与提示】
+经验与提示
+不要给心房颤动和Wolff-Parkinson-White综合征患者服用地高辛、腺苷或非二氢吡啶钙通道阻滞剂（如维拉帕米、地尔硫卓），因为这些药物可能引发心室颤动。
+不要给心房颤动和Wolff-Parkinson-White综合征患者服用地高辛、腺苷或非二氢吡啶钙通道阻滞剂（如维拉帕米、地尔硫卓），因为这些药物可能引发心室颤动。
+
+【治疗参考文献】
+1.Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation149(1):e1–e156, 2024.doi: 10.1161/CIR.0000000000001193
+1.Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation149(1):e1–e156, 2024.doi: 10.1161/CIR.0000000000001193

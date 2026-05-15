@@ -1,0 +1,60 @@
+标题：诺如病毒肠胃炎
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/gastroenteritis/norovirus-gastroenteritis
+============================================================
+
+自轮状病毒疫苗引入以来，诺如病毒成为美国所有年龄组（包括儿童）中急性散发性和流行性病毒性胃肠炎的最常见病因；发病高峰年龄在6个月至18个月之间。
+在美国，感染全年发生，但大多数发生在 11 月至 4 月。可出现大规模的水源性和食源性疫情爆发。
+由于其高度传染性，也会发生人际传播。大多数的游轮上和养老院内的胃肠炎疫情由诺如病毒引起。
+潜伏期为24至48小时 (1)。
+（参见肠胃炎概述.)
+
+【参考文献】
+1.Mirza S, Hall A: Norovirus. InCDC Yellow Book 2024: Health Information for International Travel.Retrieved from Norovirus | CDC Yellow Book 2024.Accessed March 31, 2025.
+1.Mirza S, Hall A: Norovirus. InCDC Yellow Book 2024: Health Information for International Travel.Retrieved from Norovirus | CDC Yellow Book 2024.Accessed March 31, 2025.
+
+【诺如病毒胃肠炎的症状和体征】
+诺如病毒感染引起急性发作的呕吐、腹部痉挛和腹泻，症状持续1～3天。儿童以呕吐为主要症状，而成人以腹泻为主。
+体液损失导致的脱水程度从轻微到严重不等。
+患者也可能有发热、头痛、肌肉酸痛。
+
+【经验与提示】
+经验与提示
+出现非典型症状（如血性腹泻）的患者或其他病原体检测呈阳性的患者的诺如病毒检测结果呈阳性表明诺如病毒不是胃肠炎的原因。
+出现非典型症状（如血性腹泻）的患者或其他病原体检测呈阳性的患者的诺如病毒检测结果呈阳性表明诺如病毒不是胃肠炎的原因。
+
+【诺如病毒胃肠炎的诊断】
+有时采用逆转录聚合酶链反应（RT-PCR）检测
+有时采用逆转录聚合酶链反应（RT-PCR）检测
+诺如病毒的诊断通常基于对具有典型症状的患者的临床怀疑，尤其是在暴发期间。
+实验室检测可以通过对粪便样本进行 RT-PCR 来确认诺如病毒感染的诊断。该测试通常作为多重PCR检测板的一部分进行，检测包括多种胃肠炎病因。在解释诺如病毒的阳性检测结果时必须谨慎，因为可能会出现无症状的排毒，而非常敏感的PCR检测可以检测到这种情况。出现非典型症状（如血性腹泻）的患者或其他病原体检测呈阳性的患者的诺如病毒检测结果呈阳性表明诺如病毒不是胃肠炎的原因。
+
+【诺如病毒胃肠炎的治疗】
+口服或静脉输液
+口服或静脉输液
+有时使用止泻（抗动力）药和/或止吐药
+有时使用止泻（抗动力）药和/或止吐药
+支持性护理，包括使用液体和电解质进行补液，是治疗的主要手段，对大多数成年人来说已足够。口服葡萄糖电解质溶液、肉汤或清汤可预防脱水或治疗轻度脱水。儿童可能会更快脱水，应给予适当的口服补液溶液（市面上有几种——参见口服补液），尽管稀释的苹果汁或孩子喜欢的液体也是一个合理的选择（1）。如果呕吐导致口服补液困难，可以给予止吐药（例如昂丹司琼），但对于儿童使用止吐药的建议各不相同（2，3）。
+当出现严重脱水、低血容量性休克或精神状态改变、肠梗阻或口服补液治疗失败时，应给予等渗静脉输液，如乳酸林格氏液和生理盐水（4）。在严重脱水时，应继续静脉补液，直到脉搏、灌注和精神状态恢复正常。
+止泻药（抗动力药）不应给18岁以下患有急性腹泻的儿童服用（4）。对于水样腹泻（如血红素阴性粪便所示）的成年患者，可以考虑使用止泻药，尤其是在暴发期间，这表明可能是病毒引起的。
+然而，止泻药可能会导致感染Clostridioides difficile（艰难梭菌）或E. coli（大肠杆菌）O157:H7的患者病情恶化，因此不应给予任何腹泻原因尚未确定且可能怀疑患有这些疾病的患者（即，基于近期使用抗生素、血性腹泻、粪便潜血阳性或腹泻伴发热）。
+抗生素对诺如病毒胃肠炎无效。
+
+【治疗参考文献】
+1.Freedman SB, Willan AR, Boutis K, Schuh S.Effect of Dilute Apple Juice and Preferred Fluids vs Electrolyte Maintenance Solution on Treatment Failure Among Children With Mild Gastroenteritis: A Randomized Clinical Trial.JAMA2016;315(18):1966-1974.doi:10.1001/jama.2016.5352
+1.Freedman SB, Willan AR, Boutis K, Schuh S.Effect of Dilute Apple Juice and Preferred Fluids vs Electrolyte Maintenance Solution on Treatment Failure Among Children With Mild Gastroenteritis: A Randomized Clinical Trial.JAMA2016;315(18):1966-1974.doi:10.1001/jama.2016.5352
+2.Mirza S, Hall A.Norovirus. InCDC Yellow Book 2024: Health Information for International Travel.Retrieved from Norovirus | CDC Yellow Book 2024.Accessed March 31, 2025.
+2.Mirza S, Hall A.Norovirus. InCDC Yellow Book 2024: Health Information for International Travel.Retrieved from Norovirus | CDC Yellow Book 2024.Accessed March 31, 2025.
+3.Nino-Serna LF, Acosta-Reyes J, Veroniki AA, Florez ID.Antiemetics in Children With Acute Gastroenteritis: A Meta-analysis.Pediatrics2020;145(4):e20193260.doi:10.1542/peds.2019-3260
+3.Nino-Serna LF, Acosta-Reyes J, Veroniki AA, Florez ID.Antiemetics in Children With Acute Gastroenteritis: A Meta-analysis.Pediatrics2020;145(4):e20193260.doi:10.1542/peds.2019-3260
+4.Shane AL, Mody RK, Crump JA, et al.2017 Infectious Diseases Society of America Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea.Clin Infect Dis2017;65(12):e45-e80.doi:10.1093/cid/cix669
+4.Shane AL, Mody RK, Crump JA, et al.2017 Infectious Diseases Society of America Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea.Clin Infect Dis2017;65(12):e45-e80.doi:10.1093/cid/cix669
+诺如病毒是美国所有年龄组急性病毒性胃肠炎的最常见原因。
+诺如病毒是美国所有年龄组急性病毒性胃肠炎的最常见原因。
+临床病程很短，但可能涉及严重的呕吐和腹泻。
+临床病程很短，但可能涉及严重的呕吐和腹泻。
+用于诊断的实验室检测包括基于PCR的检测组合和酶免疫测定（EIA）。
+用于诊断的实验室检测包括基于PCR的检测组合和酶免疫测定（EIA）。
+口服补液通常是足够的，但可能需要止吐药，有时还需要静脉输液。
+口服补液通常是足够的，但可能需要止吐药，有时还需要静脉输液。
+止泻药（抑制肠道蠕动）对水样腹泻的成人是安全的，但应避免用于18岁以下的儿童和任何近期使用抗生素、血性腹泻、血红素阳性粪便或伴有发热的腹泻患者。
+止泻药（抑制肠道蠕动）对水样腹泻的成人是安全的，但应避免用于18岁以下的儿童和任何近期使用抗生素、血性腹泻、血红素阳性粪便或伴有发热的腹泻患者。

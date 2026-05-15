@@ -1,0 +1,45 @@
+标题：杜普征氏掌挛缩（掌膜腹挛缩症）
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/hand-disorders/dupuytren-contracture
+============================================================
+
+（参见手部疾病的概述与评估）。
+杜普征氏挛缩是更为常见的手部畸形之一，男性发病率高，且在45岁以后发病率明显升高 (1)。这种常染色体显性遗传疾病具有不同程度的外显率，更多见于糖尿病、酗酒或癫痫患者。但引起掌筋膜增厚、挛缩的原因仍然未明。
+
+【参考文献】
+1.Geoghegan JM, Forbes J, Clark DI, Smith C, Hubbard R: Dupuytren's disease risk factors.J Hand Surg Br.2004;29(5):423-426.doi:10.1016/j.jhsb.2004.06.006
+1.Geoghegan JM, Forbes J, Clark DI, Smith C, Hubbard R: Dupuytren's disease risk factors.J Hand Surg Br.2004;29(5):423-426.doi:10.1016/j.jhsb.2004.06.006
+
+【杜普征氏掌挛缩的症状和体征】
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+通常最早的表现是在掌面出现触痛的结节，最常见于中指和环指附近；逐渐变成无痛性的结节。随后，肌腱浅索形成，致使掌指（MCP）关节与手指的指间关节挛缩。最终整个手掌呈弓形。本病偶见于近端指间（PIP）关节背面纤维增厚（Garrod垫）或Peyronie病（阴茎海绵体纤维瘤），占全部患者的7%～10%，并且在极少数病例，会在足底出现结节（跖纤维瘤） (1)。
+手指屈曲畸形的其他类型也可以出现在糖尿病、板机指、尺骨爪手、系统性硬化症和复杂区域疼痛综合征等疾病中，需要进行鉴别。
+
+【症状和体征】
+1.Bogdanov I, Rowland Payne C: Dupuytren contracture as a sign of systemic disease.Clin Dermatol.2019; 37(6):675-678.doi:10.1016/j.clindermatol.2019.07.027
+1.Bogdanov I, Rowland Payne C: Dupuytren contracture as a sign of systemic disease.Clin Dermatol.2019; 37(6):675-678.doi:10.1016/j.clindermatol.2019.07.027
+
+【杜普伊特伦挛缩的诊断】
+临床评估
+临床评估
+杜普伊特伦挛缩的诊断主要基于临床病史和体格检查。早期体格检查的标志性发现是手掌上手指屈肌皱褶近端的屈肌腱上方皮肤起皱，通常是第四或第五根手指。这些发现通常会进展并可能发展为受影响手指的可触及的结节，皮肤束缚和屈曲挛缩。通常不需要对手部进行成像。
+
+【杜普征氏掌挛缩（掌膜腹挛缩症）的治疗】
+皮质类固醇注射（挛缩发生之前）
+皮质类固醇注射（挛缩发生之前）
+对致残挛缩的手术治疗，包括经皮穿刺筋膜切开术
+对致残挛缩的手术治疗，包括经皮穿刺筋膜切开术
+对某些挛缩进行溶组织梭菌胶原酶注射
+对某些挛缩进行溶组织梭菌胶原酶注射
+在发生挛缩前，结节内注射皮质类固醇悬液可以缓解局部的压痛。然而，这种压痛往往是自限性的，不干预治疗也可自行缓解。
+当病情发展到手掌无法平放于桌面，尤其是当近端指间关节（PIP）发生明显挛缩时，通常建议手术治疗。手术选择包括经皮针筋膜切开术，PIP关节挛缩动力性外固定器临时应用，和开放性手掌/手指筋膜切开术。对于有多个手指累及病情严重的，切除挛缩筋膜的开放手术是最好的治疗；由于筋膜组织包绕血管神经束和肌腱，切除时必须小心分离。手术切除不完全或疾病再发会导致挛缩复发，这种情况尤其多见于青年发病或有家族史者，伴发Garrod垫、阴茎纤维性海绵体炎或足底受累的患者。
+胶原蛋白酶局部注射可能一定程度地逆转关节挛缩 (1,2)，尤其对MCP关节有效。胶原酶注射和手术筋膜切除术可使MCP关节处得到类似的改善，但注射可使患者恢复更快，早期并发症更少（3)。然而，在比较胶原酶注射、经皮针状筋膜切开术和手术筋膜切除术的中期结果（治疗后 2 至 5 年）时，注射的复发率最高，需要再次干预，而手术的复发性挛缩率最低 (4)。
+
+【治疗参考文献】
+1.Hurst LC, Badalamente MA, Hentz VR, et al: InjectablecollagenaseClostridium histolyticumfor Dupuytren's contracture.N Engl J Med361(10):968–979, 2009.doi: 10.1056/NEJMoa0810866.
+1.Hurst LC, Badalamente MA, Hentz VR, et al: InjectablecollagenaseClostridium histolyticumfor Dupuytren's contracture.N Engl J Med361(10):968–979, 2009.doi: 10.1056/NEJMoa0810866.
+2.Witthaut J, Jones G, Skrepnik N, et al: Efficacy and safety ofcollagenaseClostridium histolyticuminjection for Dupuytren contracture: Short-term results from 2 open-label studies.J Hand Surg Am38(1):2–11, 2013.doi: 10.1016/j.jhsa.2012.10.008.
+2.Witthaut J, Jones G, Skrepnik N, et al: Efficacy and safety ofcollagenaseClostridium histolyticuminjection for Dupuytren contracture: Short-term results from 2 open-label studies.J Hand Surg Am38(1):2–11, 2013.doi: 10.1016/j.jhsa.2012.10.008.
+3.Zhou C, Hovius SE, Slijper HP, et al:CollagenaseClostridium histolyticumversus limited fasciectomy for Dupuytren's contracture: Outcomes from a multicenter propensity score matched study.Plast Reconstr Surg136(1):87–97, 2015.doi: 10.1097/PRS.0000000000001320.
+3.Zhou C, Hovius SE, Slijper HP, et al:CollagenaseClostridium histolyticumversus limited fasciectomy for Dupuytren's contracture: Outcomes from a multicenter propensity score matched study.Plast Reconstr Surg136(1):87–97, 2015.doi: 10.1097/PRS.0000000000001320.
+4.Leafblad ND, Wagner E, Wanderman NR, et al: Outcomes and Direct Costs of Needle Aponeurotomy,CollagenaseInjection, and Fasciectomy in the Treatment of Dupuytren Contracture.J Hand Surg Am.2019; 44(11):919-927.doi:10.1016/j.jhsa.2019.07.017
+4.Leafblad ND, Wagner E, Wanderman NR, et al: Outcomes and Direct Costs of Needle Aponeurotomy,CollagenaseInjection, and Fasciectomy in the Treatment of Dupuytren Contracture.J Hand Surg Am.2019; 44(11):919-927.doi:10.1016/j.jhsa.2019.07.017

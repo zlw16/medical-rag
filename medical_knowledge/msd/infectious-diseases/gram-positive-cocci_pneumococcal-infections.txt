@@ -1,0 +1,233 @@
+标题：肺炎球菌感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-positive-cocci/pneumococcal-infections
+============================================================
+
+肺炎球菌是一种要求苛刻的荚膜微生物，需要过氧化氢酶才能在琼脂平板上生长。在实验室，肺炎球菌是通过以下方法来识别：
+革兰阳性柳叶刀形双球菌
+革兰阳性柳叶刀形双球菌
+过氧化氢酶阴性
+过氧化氢酶阴性
+在血琼脂平板上发生alpha-溶血
+在血琼脂平板上发生alpha-溶血
+对奥普托欣敏感
+对奥普托欣敏感
+被胆盐裂解
+被胆盐裂解
+肺炎球菌通常定植在人类的呼吸道，特别在冬天和早春。传播是通过空气中的飞沫进行的。
+真正的肺炎球菌感染流行非常罕见；然而，一些血清型与在特定人群（如军队，机构、无家可归者）拥挤环境中的暴发流行有关。
+荚膜由一个多糖复合物组成，决定了其不同的血清型、毒力和致病性。因为基因不同，不同型别之间毒力有差异。
+荚膜由一个多糖复合物组成，决定了其不同的血清型、毒力和致病性。因为基因不同，不同型别之间毒力有差异。肺炎球菌多糖荚膜是逃避吞噬作用的关键。
+基于与型特异性抗血清的反应，已鉴定出 100 多种不同的肺炎链球菌血清型（1）。
+定植于鼻咽部肺炎球菌的血清型因患者年龄和地理位置而异，并且随着时间推移而发生变化。在鼻咽部定植的血清型，相较于其他血清型，其荚膜更厚且更易形成黏液样菌落，这类血清型更常与患者的侵袭性肺炎球菌病相关。
+导致大多数严重感染的血清型（血清型 3、4、6B、9V、14、18C、19F和23F）约占儿童侵袭性感染的 90%，成人中高达85% (2)。这些血清型包含在当前的肺炎球菌结合疫苗中，以增强对它们的免疫力。部分由于多价疫苗的广泛使用，最常见的血清型正在发生变化。
+19A血清型具有高度毒力和耐药性，已成为呼吸道感染和侵袭性疾病的重要原因 。
+肺炎球菌结合疫苗可预防各种引起感染的血清型(例如，更新的PCV21价肺炎球菌结合疫苗包括8种独特的血清型，约占侵袭性肺炎球菌疾病的20%至30% [3]）。23 价肺炎球菌多糖疫苗 (PPSV23) 可强效预防侵袭性肺炎球菌疾病，包括菌血症和脑膜炎，但在预防肺炎方面效果不佳。
+
+【肺炎球菌感染的危险因素】
+最易发生严重侵袭性肺炎球菌感染的患者包括幼儿（<5岁）、老年人（>65岁），以及具备以下一项或多项特征的人群：
+有慢性疾病者（如慢性心肺疾病，糖尿病，肝病，酒精使用障碍）
+有慢性疾病者（如慢性心肺疾病，糖尿病，肝病，酒精使用障碍）
+免疫缺陷或免疫抑制（例如，HIV、先天性和获得性低丙种球蛋白血症[如多发性骨髓瘤所致]、补体通路缺陷、中性粒细胞减少症、免疫抑制剂药物、放射治疗、实体器官移植）
+免疫缺陷或免疫抑制（例如，HIV、先天性和获得性低丙种球蛋白血症[如多发性骨髓瘤所致]、补体通路缺陷、中性粒细胞减少症、免疫抑制剂药物、放射治疗、实体器官移植）
+先天性或获得性无脾症（由于无法清除荚膜生物体）
+先天性或获得性无脾症（由于无法清除荚膜生物体）
+镰状细胞病或其他的血红蛋白病
+镰状细胞病或其他的血红蛋白病
+慢性肾病或肾病综合征
+慢性肾病或肾病综合征
+耳蜗植入
+耳蜗植入
+脑脊液漏
+脑脊液漏
+恶性肿瘤（例如，全身性癌症、霍奇金病、白血病、淋巴瘤）
+恶性肿瘤（例如，全身性癌症、霍奇金病、白血病、淋巴瘤）
+作为长期护理机构的居民，或具有澳大利亚或太平洋岛民的土著血统、阿拉斯加原住民或某些美洲印第安人群的后裔
+作为长期护理机构的居民，或具有澳大利亚或太平洋岛民的土著血统、阿拉斯加原住民或某些美洲印第安人群的后裔
+老年人，即使是没有慢性病的老年人，感染肺炎球菌后预后也往往较差。
+慢性支气管炎或普通呼吸道病毒、某些流感引起的呼吸道上皮细胞损伤时，易于导致肺炎球菌入侵。
+
+【参考文献】
+1.Camargo DR, Pais FS, Volpini ÂC, Oliveira MA, Coimbra RS.Revisiting molecular serotyping of Streptococcus pneumoniae.BMC Genomics.2015;16 Suppl 5(Suppl 5):S1.doi:10.1186/1471-2164-16-S5-S1
+1.Camargo DR, Pais FS, Volpini ÂC, Oliveira MA, Coimbra RS.Revisiting molecular serotyping of Streptococcus pneumoniae.BMC Genomics.2015;16 Suppl 5(Suppl 5):S1.doi:10.1186/1471-2164-16-S5-S1
+2.Weir E.Streptococcus pneumoniaeinfection in children: vaccine implications.CMAJ.2002;166(2):220.
+2.Weir E.Streptococcus pneumoniaeinfection in children: vaccine implications.CMAJ.2002;166(2):220.
+3.Kobayashi M, Leidner AJ, Gierke R, et al.Use of 21-Valent Pneumococcal Conjugate Vaccine Among U.S. Adults: Recommendations of the Advisory Committee on Immunization Practices - United States, 2024.MMWR Morb Mortal Wkly Rep.2024;73(36):793-798.Published 2024 Sep 12.doi:10.15585/mmwr.mm7336a3
+3.Kobayashi M, Leidner AJ, Gierke R, et al.Use of 21-Valent Pneumococcal Conjugate Vaccine Among U.S. Adults: Recommendations of the Advisory Committee on Immunization Practices - United States, 2024.MMWR Morb Mortal Wkly Rep.2024;73(36):793-798.Published 2024 Sep 12.doi:10.15585/mmwr.mm7336a3
+
+【肺炎球菌性疾病】
+肺炎球菌疾病包括：
+心内膜炎
+心内膜炎
+化脓性关节炎
+化脓性关节炎
+腹膜炎（罕见）
+腹膜炎（罕见）
+原发性肺炎链球菌感染通常累及鼻窦、中耳或肺部。
+下述疾病将在本手册其他章节叙述。
+
+【肺炎球菌急性中耳炎】
+急性中耳炎在婴儿（新生儿期以后）和儿童中，有20%由肺炎球菌引起 (1)。在大多数人群中，大约有 40% 的儿童在生命的前两年内会发生急性肺炎链球菌性中耳炎，而且这种中耳炎常常复发（2）。多数病例由少数几种S. pneumoniae（肺炎链球菌）血清型引起。自2000年美国开始对婴儿进行普遍免疫接种后，肺炎链球菌尤其是最初的肺炎球菌蛋白结合疫苗未覆盖的19A血清型导致急性中耳炎的占比已经下降，并且导致急性中耳炎的血清型已经发生了变化，转为以疫苗无法提供免疫力的血清型为主。
+并发症包括：
+轻微传导性耳聋
+轻微传导性耳聋
+前庭平衡功能障碍
+前庭平衡功能障碍
+鼓膜穿孔
+鼓膜穿孔
+内耳迷路炎症
+内耳迷路炎症
+颅内并发症在发达国家少见，但可能出现脑膜炎、硬膜外脓肿、脑脓肿、侧窦血栓、海绵窦血栓、硬膜下脓胸和颈动脉血栓。
+
+【肺炎球菌肺炎】
+肺炎是肺炎球菌引起的最常见的严重感染，可能表现为大叶性肺炎，其次为支气管肺炎。在美国，每年发生社区获得性肺炎病例约数百万；当社区获得性肺炎需要住院治疗时，肺炎球菌是所有年龄段的患者中最常见的细菌性病原体。
+约50%的患者会出现胸腔积液，但大多数积液会在药物治疗期间消退（3）。仅有约5%的患者会发展为复杂性胸腔积液，其中包括脓胸（3，4)，这类积液可能出现包裹、变稠及脓性纤维蛋白渗出等表现；脓胸最常与1型肺炎链球菌感染相关。由肺炎链球菌引起的肺脓肿在儿童中更为常见；血清型3是常见的致病类型，但其他肺炎链球菌血清型也可能参与其中。
+
+【肺炎球菌鼻窦炎】
+鼻旁窦炎可能由肺炎球菌引起，可能变成慢性并可成为多种细菌混合感染。
+上颌窦和筛窦最常受到影响。鼻窦感染引起疼痛，产生脓性分泌物，并且可延伸到颅骨，引起以下并发症：
+海绵窦血栓形成
+海绵窦血栓形成
+脑、硬膜外、或硬脑膜下脓肿
+脑、硬膜外、或硬脑膜下脓肿
+脓毒性皮质血栓性静脉炎
+脓毒性皮质血栓性静脉炎
+
+【肺炎球菌菌血症】
+肺炎球菌菌血症在免疫正常与免疫缺陷者中均可发生。脾切除术后的患者尤其危险。
+菌血症可能为原发感染，也可伴随任何局灶肺炎球菌感染的急性阶段出现。肺炎球菌菌血症可并发败血症和感染性休克。 存在菌血症时，继发种植到远处可引起化脓性关节炎、脑膜炎和心内膜炎。
+尽管进行了治疗，肺炎球菌菌血症的总病死率约为20%，但在老年人中可能高达60%（1)。
+菌血症的前3天内的死亡风险最高。
+
+【肺炎球菌脑膜炎】
+急性化脓性脑膜炎常由肺炎球菌引起，可继发于其他病灶（特别是肺炎）所致的菌血症，耳部、乳突或鼻旁窦（特别是筛窦和蝶窦）感染直接侵袭，以及累及上述部位及筛板的颅底骨折（通常出现脑脊液漏），因此将鼻窦、鼻咽部或中耳的细菌带至中枢神经系统。
+出现典型的脑膜炎症状（如头痛，颈抵抗，发热）。
+高达 50% 的患者会出现肺炎球菌脑膜炎后的并发症（1）并可能包括:
+听力损失
+听力损失
+智力障碍
+智力障碍
+行为障碍
+行为障碍
+运动缺陷
+运动缺陷
+
+【肺炎球菌心内膜炎】
+急性细菌性心内膜炎（感染性心内膜炎的一种快速进展亚型）可能罕见地由肺炎球菌菌血症引起，即使在没有瓣膜性心脏病的患者中也是如此。
+肺炎球菌性心内膜炎可能导致腐蚀性瓣膜病变的形成，伴随突发性破裂或穿孔，引发快速进展的心力衰竭，需紧急进行瓣膜置换术。奥地利综合征是一种罕见的疾病，其特征是：S. pneumoniae（肺炎链球菌）导致的脑膜炎、肺炎和心内膜炎三联征，并且死亡率很高。先天性主动脉瓣关闭不全是患者心力衰竭最常见的原因。
+
+【肺炎球菌化脓性关节炎】
+肺炎球菌引起的化脓性关节炎与其他革兰氏阳性球菌引起的化脓性关节炎相似，通常是由其他感染灶引发肺炎球菌菌血症后出现的并发症。
+
+【自发性肺炎球菌性腹膜炎】
+自发性肺炎球菌性腹膜炎主要见于肝硬化和腹腔积液患者，临床表现与其他原因所致的自发性细菌性腹膜炎难以鉴别。
+
+【肺炎球菌引起的疾病参考文献】
+1.Centers for Disease Control and Prevention (CDC).Pneumococcal Disease: Clinical Features of Pneumococcal Disease.February 6, 2024.Accessed July 18, 2025.
+1.Centers for Disease Control and Prevention (CDC).Pneumococcal Disease: Clinical Features of Pneumococcal Disease.February 6, 2024.Accessed July 18, 2025.
+2.Kaur R, Morris M, Pichichero ME.Epidemiology of Acute Otitis Media in the Postpneumococcal Conjugate Vaccine Era [published correction appears inPediatrics. 2018 Mar;141(3):e20174067. doi: 10.1542/peds.2017-4067.].Pediatrics.2017;140(3):e20170181.doi:10.1542/peds.2017-0181
+2.Kaur R, Morris M, Pichichero ME.Epidemiology of Acute Otitis Media in the Postpneumococcal Conjugate Vaccine Era [published correction appears inPediatrics. 2018 Mar;141(3):e20174067. doi: 10.1542/peds.2017-4067.].Pediatrics.2017;140(3):e20170181.doi:10.1542/peds.2017-0181
+3.Taryle DA, Potts DE, Sahn SA.The incidence and clinical correlates of parapneumonic effusions in pneumococcal pneumonia.Chest.1978;74(2):170-173.doi:10.1378/chest.74.2.170
+3.Taryle DA, Potts DE, Sahn SA.The incidence and clinical correlates of parapneumonic effusions in pneumococcal pneumonia.Chest.1978;74(2):170-173.doi:10.1378/chest.74.2.170
+4.Light RW, Girard WM, Jenkinson SG, George RB.Parapneumonic effusions.Am J Med.1980;69(4):507-512.doi:10.1016/0002-9343(80)90460-x
+4.Light RW, Girard WM, Jenkinson SG, George RB.Parapneumonic effusions.Am J Med.1980;69(4):507-512.doi:10.1016/0002-9343(80)90460-x
+
+【肺炎球菌感染的诊断】
+革兰染色和培养
+革兰染色和培养
+核酸扩增测试（NAAT）组合
+核酸扩增测试（NAAT）组合
+肺炎球菌通过革兰染色时根据典型柳叶状形态很容易诊断。革兰氏染色和培养是大多数临床环境中最常用且最常进行的检测。培养可明确细菌鉴定结果，抗菌药物敏感性试验可揭示敏感性模式。
+可用荚膜膨胀试验来很好的检测特征性荚膜。在该试验中，加入抗血清，然后墨汁染色，引起荚膜膨胀，看起来像细菌周围的一个光环。肺炎球菌荚膜与类型特异性抗血清结合后，变得在显微镜下可见，导致荚膜肿胀。加入亚甲蓝后，肺炎球菌细胞染成深蓝色，并被一个清晰的晕圈包围，晕圈代表包膜的外缘。
+对细菌分离株进行血清分型和基因分型对确定流行病学原因（例如，特定克隆的传播以及耐药特点）有帮助 (1)。同属一种血清型细菌的毒力差异可以通过例如脉冲场凝胶电泳和多位点序列分型等方法进行区别。
+快速分子多重呼吸道核酸扩增检测组合在医院环境中也获得了广泛应用，对包括肺炎链球菌在内的呼吸道病原体检测具有极高的敏感性和特异性（2）。幼儿非无菌上呼吸道标本的核酸扩增检测阳性结果需结合整体临床表现进行判断，因为无症状的鼻咽携带很常见。
+尿抗原检测试验特异性高（>90%）但敏感性差（50～80%），受并发菌血症影响较大 (3)。通常不建议在幼儿中进行该检测，因为鼻咽定植会导致细菌细胞壁多糖的释放，这些多糖会进入血液并被肾脏过滤。成人的阳性预测值（检测结果呈阳性的患者中实际患有该疾病的比例）较高（> 95%）（4）。然而，阴性预测值（检测结果为阴性的患者实际无病的比例）较低，因此不应使用尿液抗原检测阴性来排除肺炎球菌疾病。
+
+【诊断参考】
+1.Self WH, Johnson KD, Resser JJ, et al.Prevalence, Clinical Severity, and Serotype Distribution of Pneumococcal Pneumonia Among Adults Hospitalized With Community-Acquired Pneumonia in Tennessee and Georgia, 2018-2022.Clin Infect Dis.2024;79(4):838-847.doi:10.1093/cid/ciae316
+1.Self WH, Johnson KD, Resser JJ, et al.Prevalence, Clinical Severity, and Serotype Distribution of Pneumococcal Pneumonia Among Adults Hospitalized With Community-Acquired Pneumonia in Tennessee and Georgia, 2018-2022.Clin Infect Dis.2024;79(4):838-847.doi:10.1093/cid/ciae316
+2.Hanson KE, Azar MM, Banerjee R, et al.Molecular Testing for Acute Respiratory Tract Infections: Clinical and Diagnostic Recommendations From the IDSA's Diagnostics Committee.Clin Infect Dis.2020;71(10):2744-2751.doi:10.1093/cid/ciaa508
+2.Hanson KE, Azar MM, Banerjee R, et al.Molecular Testing for Acute Respiratory Tract Infections: Clinical and Diagnostic Recommendations From the IDSA's Diagnostics Committee.Clin Infect Dis.2020;71(10):2744-2751.doi:10.1093/cid/ciaa508
+3.Yasuo S, Murata M, Nakagawa N, et al.Diagnostic accuracy of urinary antigen tests for pneumococcal pneumonia among patients with acute respiratory failure suspected pneumonia: a systematic review and meta-analysis.BMJ Open.2022;12(8):e057216.Published 2022 Aug 11.doi:10.1136/bmjopen-2021-057216
+3.Yasuo S, Murata M, Nakagawa N, et al.Diagnostic accuracy of urinary antigen tests for pneumococcal pneumonia among patients with acute respiratory failure suspected pneumonia: a systematic review and meta-analysis.BMJ Open.2022;12(8):e057216.Published 2022 Aug 11.doi:10.1136/bmjopen-2021-057216
+4.Laijen W, Snijders D, Boersma WG.Pneumococcal urinary antigen test: Diagnostic yield and impact on antibiotic treatment.Clin Respir J.11(6):999–1005, 2017.doi: 10.1111/crj.12453
+4.Laijen W, Snijders D, Boersma WG.Pneumococcal urinary antigen test: Diagnostic yield and impact on antibiotic treatment.Clin Respir J.11(6):999–1005, 2017.doi: 10.1111/crj.12453
+
+【肺炎球菌感染的治疗】
+β-内酰胺类、大环内酯类、呼吸道氟喹诺酮类（例如，左氧氟沙星、莫西沙星）、四环素类（例如，多西环素、奥马环素）或截短侧耳素类（例如，来法莫林）
+β-内酰胺类、大环内酯类、呼吸道氟喹诺酮类（例如，左氧氟沙星、莫西沙星）、四环素类（例如，多西环素、奥马环素）或截短侧耳素类（例如，来法莫林）
+罕见地，万古霉素
+罕见地，万古霉素
+如果怀疑肺炎球菌感染，在获得药敏结果之前的经验治疗应当取决于当地耐药谱。
+尽管治疗肺炎球菌感染的首选药物是β-内酰胺类抗生素，但由于耐药菌株的出现，治疗仍具有挑战性。对青霉素、氨苄西林及其他β-内酰胺类药物高度耐药的菌株在全球范围内普遍存在，且在美国的耐药率存在地域性差异。引起β-内酰类抗生素耐药的最常见原因是在过去几个月内使用这类药物。对大环内酯类抗生素的耐药性也显著增加（约为 35%）（1）；因此，不建议将此类抗生素单独用于住院患者的社区获得性肺炎治疗。对于疑似脑膜炎或其他侵袭性疾病，在获得培养和药敏结果并确认对β-内酰胺类药物敏感之前，可以经验性地加用万古霉素治疗，待确认后才可以适当地将抗生素覆盖范围调整为β-内酰胺类药物。
+对 β-内酰胺类抗生素（青霉素和广谱头孢菌素头孢曲松和头孢噻肟）的敏感性或耐药性取决于感染部位和最小抑菌浓度 (MIC) 折点。给予更高剂量的β-内酰胺类抗生素可克服治疗肺炎和非侵入性感染时体内遇到的潜在的抗生素敏感性降低问题。敏感菌株的 MIC 低于断点，耐药菌株的 MIC 高于断点。非脑膜肺炎球菌感染的MIC断点通常高于脑膜感染。
+
+【脑膜炎肺炎球菌感染】
+脑膜肺炎球菌感染患者的MIC断点：
+青霉素敏感菌株：最低抑菌浓度≤0.06mcg/mL
+青霉素敏感菌株：最低抑菌浓度≤0.06mcg/mL
+青霉素耐药菌株：MIC > 0.06 μg/mL
+青霉素耐药菌株：MIC > 0.06 μg/mL
+头孢噻肟- 敏感菌株和头孢曲松- 敏感菌株：最低抑菌浓度≤0.5mcg/mL
+头孢噻肟- 敏感菌株和头孢曲松- 敏感菌株：最低抑菌浓度≤0.5mcg/mL
+头孢噻肟-中间菌株 和头孢曲松-中间菌株：MIC > 0.5 至 ≤ 1.0 mcg/mL
+头孢噻肟-中间菌株 和头孢曲松-中间菌株：MIC > 0.5 至 ≤ 1.0 mcg/mL
+头孢噻肟-耐药菌株和头孢曲松耐药菌株：最低抑菌浓度> 1.0mcg/mL
+头孢噻肟-耐药菌株和头孢曲松耐药菌株：最低抑菌浓度> 1.0mcg/mL
+如果青霉素MIC≤0.06 mcg/mL，脑膜炎肺炎球菌感染的治疗可采用青霉素静脉滴注；然而头孢曲松或者头孢噻肟是首选。
+如果青霉素 MIC > 0.06mcg/mL 并且头孢曲松或者头孢噻肟MIC ≤ 0.5mcg/mL，使用头孢曲松或头孢噻肟治疗。
+如果头孢曲松或者头孢噻肟MIC≥1.0mcg/mL，用头孢曲松或头孢噻肟加万古霉素治疗。
+
+【非脑膜肺炎球菌感染】
+非脑膜肺炎球菌感染患者的MIC断点：
+青霉素敏感菌株：最低抑菌浓度≤2mcg/mL
+青霉素敏感菌株：最低抑菌浓度≤2mcg/mL
+青霉素中间菌株：MIC > 2.0 至 ≤ 4.0 mcg/mL
+青霉素中间菌株：MIC > 2.0 至 ≤ 4.0 mcg/mL
+青霉素耐药菌株：MIC > 4.0mcg/mL
+青霉素耐药菌株：MIC > 4.0mcg/mL
+头孢噻肟-敏感菌株和头孢曲松-敏感菌株：最低抑菌浓度≤1mcg/mL
+头孢噻肟-敏感菌株和头孢曲松-敏感菌株：最低抑菌浓度≤1mcg/mL
+头孢噻肟-中间菌株 和头孢曲松-中间菌株：MIC > 1.0 至 ≤ 2.0 mcg/mL
+头孢噻肟-中间菌株 和头孢曲松-中间菌株：MIC > 1.0 至 ≤ 2.0 mcg/mL
+头孢噻肟-耐药菌株和头孢曲松耐药菌株：最低抑菌浓度> 2.0mcg/mL
+头孢噻肟-耐药菌株和头孢曲松耐药菌株：最低抑菌浓度> 2.0mcg/mL
+青霉素耐药菌株引起的非脑膜感染的重症患者通常使用头孢曲松或头孢噻肟治疗。除非分离菌株的最低抑菌浓度（MIC）极高提示耐药，否则大剂量青霉素 G 肠外给药（如成人每日静脉注射 2000 万至 4000 万单位）同样有效。
+氟喹诺酮类（如莫西沙星、左氧氟沙星）、多西环素、奥马环素及左法莫林对成人中高度耐青霉素的肺炎链球菌呼吸道感染具有疗效。 研究表明，采用联合治疗（如大环内酯类加beta-内酰胺类）可降低肺炎球菌肺炎菌血症的死亡率。
+所有耐青霉素的分离株均对万古霉素敏感，但肠外万古霉素并不总能在脑脊液中产生足以治疗脑膜炎的浓度（特别是如果同时使用糖皮质激素）。因此，在脑膜炎患者中，头孢曲松或头孢噻肟常与万古霉素联合使用。迄今为止，尚未证实肺炎链球菌对利奈唑胺、达托霉素和头孢洛林存在耐药性。
+
+【Treatment reference】
+1.Suaya JA, Mendes RE, Sings HL, et al.Streptococcus pneumoniaeserotype distribution and antimicrobial nonsusceptibility trends among adults with pneumonia in the United States, 2009‒2017.J Infect.2020;81(4):557-566.doi:10.1016/j.jinf.2020.07.035
+1.Suaya JA, Mendes RE, Sings HL, et al.Streptococcus pneumoniaeserotype distribution and antimicrobial nonsusceptibility trends among adults with pneumonia in the United States, 2009‒2017.J Infect.2020;81(4):557-566.doi:10.1016/j.jinf.2020.07.035
+
+【肺炎球菌感染的预防】
+肺炎球菌感染后可产生对该型别细菌的特异性免疫力，但不能覆盖其他型别。预防包括：
+疫苗接种
+疫苗接种
+预防性使用抗生素
+预防性使用抗生素
+
+【肺炎球菌疫苗】
+参见肺炎球菌疫苗了解更多信息，包括适应症、禁忌症和注意事项、剂量和给药以及不良反应。另请参阅美国疾病控制与预防中心 (CDC) 制定的儿童、青少年和成人疫苗接种时间表，以及美国免疫实践咨询委员会 (ACIP) 制定的肺炎球菌疫苗建议（1，2，3）。
+
+【预防性使用抗生素】
+对于患有功能性或解剖性无脾的<5岁儿童，建议青霉素V po bid进行预防。化学预防的疗程是经验性的，但一些专家建议对无脾的高危患者持续整个儿童期并延续至成年期进行预防。脾切除术后，建议较大儿童或青少年口服青霉素 V，每日 2 次，至少持续 1 年。
+
+【预防参考文献】
+1.Centers for Disease Control and Prevention.Vaccines and Immunizations: Child and Adolescent Immunization Schedule by Age (Addendum updated July 2, 2025).July 2, 2025.Accessed July 21, 2025.
+1.Centers for Disease Control and Prevention.Vaccines and Immunizations: Child and Adolescent Immunization Schedule by Age (Addendum updated July 2, 2025).July 2, 2025.Accessed July 21, 2025.
+2.Centers for Disease Control and Prevention.Vaccines and Immunizations: Adult Immunization Schedule by Age (Addendum updated July 2, 2025).July 2, 2025.Accessed July 21, 2025.
+2.Centers for Disease Control and Prevention.Vaccines and Immunizations: Adult Immunization Schedule by Age (Addendum updated July 2, 2025).July 2, 2025.Accessed July 21, 2025.
+3.Centers for Disease Control and Prevention.ACIP Vaccine Recommendations and Guidelines: ACIP Recommendations: Pneumococcal Vaccine.January 8, 2025.Accessed July 21, 2025.
+3.Centers for Disease Control and Prevention.ACIP Vaccine Recommendations and Guidelines: ACIP Recommendations: Pneumococcal Vaccine.January 8, 2025.Accessed July 21, 2025.
+肺炎链球菌（肺炎球菌）是一种革兰阳性、α溶血、需氧、有夹膜的双球菌。
+肺炎链球菌（肺炎球菌）是一种革兰阳性、α溶血、需氧、有夹膜的双球菌。
+肺炎球菌可引起多种疾病，包括中耳炎、肺炎，以及脑膜炎、鼻窦炎、心内膜炎和化脓性关节炎。
+肺炎球菌可引起多种疾病，包括中耳炎、肺炎，以及脑膜炎、鼻窦炎、心内膜炎和化脓性关节炎。
+患有慢性呼吸道疾病或无脾症的患者以及免疫功能低下的患者都有很高的严重侵袭性肺炎球菌感染风险。
+患有慢性呼吸道疾病或无脾症的患者以及免疫功能低下的患者都有很高的严重侵袭性肺炎球菌感染风险。
+对于无并发症或轻度门诊感染，可使用β-内酰胺类、大环内酯类、多西环素或新型氟喹诺酮类抗生素治疗。
+对于无并发症或轻度门诊感染，可使用β-内酰胺类、大环内酯类、多西环素或新型氟喹诺酮类抗生素治疗。
+因为β-内酰胺类和大环内酯类抗生素的耐药性日渐增加，重症患者可能需要基于最低抑菌浓度（MIC）使用新一代头孢菌素（如头孢曲松或头孢噻肟）；其他选择包括呼吸道氟喹诺酮类（如莫西沙星，左氧氟沙星）、四环素（如奥玛环素）或截短侧耳素类（如来法莫林）。
+因为β-内酰胺类和大环内酯类抗生素的耐药性日渐增加，重症患者可能需要基于最低抑菌浓度（MIC）使用新一代头孢菌素（如头孢曲松或头孢噻肟）；其他选择包括呼吸道氟喹诺酮类（如莫西沙星，左氧氟沙星）、四环素（如奥玛环素）或截短侧耳素类（如来法莫林）。
+通过接种肺炎球菌疫苗，预防2个月至6岁儿童及高危成人感染肺炎球菌。
+通过接种肺炎球菌疫苗，预防2个月至6岁儿童及高危成人感染肺炎球菌。

@@ -1,0 +1,156 @@
+标题：多发性内分泌腺功能减退综合征
+来源：https://www.msdmanuals.cn/professional/endocrine-and-metabolic-disorders/polyglandular-deficiency-syndromes/polyglandular-deficiency-syndromes
+============================================================
+
+
+【多腺体缺陷综合征的病因】
+病因绝大多数为自体免疫。发生自身免疫的高危因素包括
+基因因素
+基因因素
+环境诱因
+环境诱因
+Medications（药物应用史）
+Medications（药物应用史）
+遗传因素包括AIRE基因突变，这是1型PDS的病因。人类白细胞抗原（HLA）的某些亚型，在2型和3型PDS的发生发展中起重要作用。
+环境因素包括病毒感染，饮食因素，以及其他目前未知风险。
+免疫检查点抑制剂用于治疗某些类型的癌症并与自身免疫性内分泌疾病有关，包括垂体炎、甲状腺疾病、原发性肾上腺功能不全和 1 型糖尿病，是触发因素。
+
+【多腺体缺乏综合征的病理生理学】
+潜在的自身免疫反应涉及自身抗体内分泌组织、细胞介导的自身免疫反应，或两者，会导致炎症、淋巴细胞浸润和部分或完全腺体破坏。更罕见的是，刺激性抗体会导致腺体功能亢进，尤其是甲状腺功能亢进。涉及到一个以上的内分泌腺体，尽管临床表现并不总是同步的。自身免疫反应以及与之相关的免疫系统功能障碍也可能会损坏非内分泌组织。
+
+【多腺体缺陷综合征的分类】
+已在多腺体缺陷综合征(见表多腺体缺陷综合征的特点)中描述了三种自身免疫衰竭，解释了不同类型的自身免疫异常。一些专家建议将2型和3型PDS合并成一个亚型。2型的患病率约为每1000人中有1人，而1型的患病率约为每100000人中1人（1）。
+
+【1型多腺体缺陷】
+1 型多腺体缺陷，也称为自身免疫性多内分泌腺病念珠菌病外胚层营养不良 (APECED)，通常始于儿童期。 它是由基因突变引起的AIRE基因并以常染色体隐性模式遗传。 I型PDS指同时存在以下≥2种情况：
+慢性皮肤粘膜念珠菌病
+慢性皮肤粘膜念珠菌病
+甲状旁腺功能减退
+甲状旁腺功能减退
+肾上腺皮质功能不全 (Addison病)
+肾上腺皮质功能不全 (Addison病)
+念珠菌通常是临床初始表现，患者年龄通常<5岁。接下来是甲状旁腺功能减退，通常发生在10岁以内的患者。最后，<15岁的患者会发生肾上腺皮质功能不全。伴随的内分泌和非内分泌紊乱（见表多腺体缺陷综合征的特点）至少会持续出现到患者40岁左右。
+
+【2型多发性内分泌腺功能减退综合征】
+Ⅱ型多发性内分泌腺功能减退也被称为施密特综合症，大多发生于成人，发病高峰在30岁。女性发病率为男性的3倍。它与某些人类白细胞抗原 (HLA) 基因型相关并表现出多基因遗传。以下表现最为典型：
+肾上腺皮质功能不全
+肾上腺皮质功能不全
+甲状腺功能低下或甲状腺功能亢进型
+甲状腺功能低下或甲状腺功能亢进型
+I型糖尿病（自身免疫性病因）
+I型糖尿病（自身免疫性病因）
+可能还会出现更多罕见特征（见表多腺体缺陷综合征的特征)。
+
+【3型多腺体缺陷】
+3型是腺体衰竭发生于成年人，特别是中年妇女它还与某些 HLA 基因型相关并表现出多基因遗传。 它的特点是
+甲状腺功能减退
+甲状腺功能减退
+多种其他疾病中的至少一种（见表多腺体缺陷综合征的特点）
+多种其他疾病中的至少一种（见表多腺体缺陷综合征的特点）
+它不累及肾上腺皮质。
+
+【多腺体缺陷综合征的特点】
+多腺体缺陷综合征的特点
+人口统计
+发病年龄
+儿童期（3～5岁）
+成人（高峰30岁）
+成人（尤其是中年妇女）
+女性：男性
+数据不可用
+人类白细胞抗原（HLA）类型
+可能会影响疾病的特定组分的发生
+主要为B8、DW3、DR3、DR4；
+其他类型见于特殊疾病
+DR3，DR4
+遗传方式
+AIRE常染色体隐性 AIRE 基因突变
+受累腺体
+甲状旁腺
+根据需要调整剂量
+临床表现
+肾上腺皮质功能不全 (Addison病)
+73–100%
+100%
+26–32%
+慢性活动性肝炎
+数据不可用
+慢性皮肤粘膜念珠菌病
+73–97%
+数据不可用
+糖尿病（1型）
+2–30%
+性腺功能减退
+男性15～25%
+女性60%
+3.5%
+甲状旁腺功能减退
+76–99%
+吸收障碍
+22–24%
+数据不可用
+重症肌无力
+恶性贫血
+13–30%
+甲状腺疾病†
+10–11%
+100%
+4–30%
+5–50%
+*有关联，发病率不明。
+†主要指慢性淋巴细胞性甲状腺炎，但也包括Graves病。
+Data fromHusebye ES, Perheentupa J, Rautemaa R, Kampe O: Clinical manifestations and management of patients with autoimmune polyendocrine syndrome type 1.J Intern Med265: 519–529, 2009;Trence DL, Morley JE, Handwerger BS: Polyglandular autoimmune syndromes.Am J Med77(1):107–116, 1984;Leshin M: Polyglandular autoimmune syndromes.Am J Med Sci290(2):77–88, 1985;Dittmar M, Kahaly GJ: Polyglandular autoimmune syndromes: immunogenetics and long-term follow-up.J Clin Endocrinol Metab88:2983–2992, 2003; andEisenbarth GS, Gottlieb PA: Autoimmune polyendocrine syndromes.N Engl J Med350:2068–2079, 2004.
+*有关联，发病率不明。
+†主要指慢性淋巴细胞性甲状腺炎，但也包括Graves病。
+Data fromHusebye ES, Perheentupa J, Rautemaa R, Kampe O: Clinical manifestations and management of patients with autoimmune polyendocrine syndrome type 1.J Intern Med265: 519–529, 2009;Trence DL, Morley JE, Handwerger BS: Polyglandular autoimmune syndromes.Am J Med77(1):107–116, 1984;Leshin M: Polyglandular autoimmune syndromes.Am J Med Sci290(2):77–88, 1985;Dittmar M, Kahaly GJ: Polyglandular autoimmune syndromes: immunogenetics and long-term follow-up.J Clin Endocrinol Metab88:2983–2992, 2003; andEisenbarth GS, Gottlieb PA: Autoimmune polyendocrine syndromes.N Engl J Med350:2068–2079, 2004.
+
+【分类参考文献】
+1.Husebye ES, Anderson MS, Kampe O: Autoimmune polyendocrine syndromes.N Engl J Med378:1132–1141, 2018.doi: 10.1056/NEJMra1713301
+1.Husebye ES, Anderson MS, Kampe O: Autoimmune polyendocrine syndromes.N Engl J Med378:1132–1141, 2018.doi: 10.1056/NEJMra1713301
+
+【多腺体缺乏综合征的症状和体征】
+多腺体缺陷综合征的临床表现为各个内分泌腺功能减退表现和相关的非内分泌失调表现的总和；它们的症状和体征在本手册其他章节中探讨。因此，对于有一种内分泌腺功能减退的患者，应在若干年中反复进行临床评估和激素测定，这些情况下，他们不遵循特别的顺序。
+
+【多腺体缺陷综合征的诊断】
+测量激素水平
+测量激素水平
+有时候抗体浓度测定
+有时候抗体浓度测定
+多腺体缺乏综合征临床表现可提示诊断，而确诊则需通过测定发现分泌不足的激素水平。测定针对受损内分泌腺的自体抗体可帮助鉴别多发性内分泌腺功能减退是由于自体免疫还是其他原因（如，同一患者的结核性肾上腺皮质功能减退、非自体免疫性甲状腺功能减退，或结节病涉及多个内分泌腺）。
+1 型多腺体缺陷与针对 1 型干扰素的自身抗体有关，这些抗体的存在提示诊断，这可以通过AIRE基因突变分析证实。 检测自身抗体对每个受影响的腺体组织可以帮助区分多腺体缺陷综合征和其他病因，垂体促激素（如促甲状腺激素）水平升高提示下丘脑-垂体轴完好（尽管一些2型多腺体缺陷综合征患者有下丘脑-垂体功能不全）。
+由于所有症状都表现出来需要很长时间，终身随访需谨慎，未确认甲状旁腺功能低下或肾上腺皮质功能不全可能危及生命。
+患者的亲属应被告知有关诊断，并在适当时机进行筛查。一项针对 1 型糖尿病患者亲属发展自身免疫的试验发现，21.5% 的受试者存在与 1 型糖尿病、乳糜泻和/或甲状腺疾病相关的抗体(1)。
+
+【诊断参考文献】
+1.Winkler C, Jolink M, Knopff A, et al: Age, HLA, and sex define a marked risk of organ-specific autoimmunity in first-degree relatives of patients with type 1 diabetes.Diabetes Care42:1684–1691, 2019.doi: 10.2337/dc19-0315
+1.Winkler C, Jolink M, Knopff A, et al: Age, HLA, and sex define a marked risk of organ-specific autoimmunity in first-degree relatives of patients with type 1 diabetes.Diabetes Care42:1684–1691, 2019.doi: 10.2337/dc19-0315
+
+【多腺体缺陷综合征的治疗】
+激素替代治疗
+激素替代治疗
+对于各个内分泌腺功能减退的治疗在手册其他部分已有讨论。但多种内分泌腺功能减退之间的相互作用可使治疗变得复杂。例如，应用甲状腺激素治疗甲减时，如合并肾上腺功能不全，则可能诱发肾上腺危象。
+与 1 型多腺体缺陷相关的慢性皮肤粘膜念珠菌病通常需要终生治疗抗真菌治疗（例如，口服氟康唑或酮康唑）。
+一些临床试验显示，某些干预方法能延缓1型糖尿病自身免疫的进展，在延缓分泌胰岛素的beta细胞被完全破坏的过程中表现出一定潜力 (1,2,3)。替普利珠单抗已被证明可以延缓1型糖尿病的进展，并可用于治疗1型糖尿病（4）。然而，这些措施对1型糖尿病患者预防其他自身免疫性内分泌缺乏的影响尚不清楚 。
+干扰素-γ被认为可用于治疗自身免疫性多内分泌腺综合征1型，但仍需进一步研究以评估其有效性。（5）。
+
+【治疗参考文献】
+1.Cai J, Wu Z, Xu X, et al: Umbilical cord mesenchymal stromal cell with autologous bone marrow cell transplantation in established type 1 diabetes: A pilot randomized controlled open-label clinical study to assess safety and impact on insulin secretion.Diabetes Care39:149–157, 2016.
+1.Cai J, Wu Z, Xu X, et al: Umbilical cord mesenchymal stromal cell with autologous bone marrow cell transplantation in established type 1 diabetes: A pilot randomized controlled open-label clinical study to assess safety and impact on insulin secretion.Diabetes Care39:149–157, 2016.
+2.Haller MJ, Gitelman SE, Gottlieb PA, et al:Anti-thymocyte globulin/G-CSFtreatment preserves β cell function in patients with established type 1 diabetes.J Clin Invest125(1):448–455, 2015.
+2.Haller MJ, Gitelman SE, Gottlieb PA, et al:Anti-thymocyte globulin/G-CSFtreatment preserves β cell function in patients with established type 1 diabetes.J Clin Invest125(1):448–455, 2015.
+3.Kroger CJ, Clark M, Ke Q, and Tisch RM: Therapies to suppress β cell autoimmunity in type 1 diabetes.Front Immunol9:1891, 2018.doi: 10.3389/fimmu.2018.01891
+3.Kroger CJ, Clark M, Ke Q, and Tisch RM: Therapies to suppress β cell autoimmunity in type 1 diabetes.Front Immunol9:1891, 2018.doi: 10.3389/fimmu.2018.01891
+4.Nourelden AZ, Elshanbary AA, El-Sherif L, et al: Safety and efficacy ofteplizumabfor treatment of type one diabetes mellitus: a systemic review and meta-analysis.Endocr Metab Immune Disord Drug Targets21(10):1895-1904, 2021.
+4.Nourelden AZ, Elshanbary AA, El-Sherif L, et al: Safety and efficacy ofteplizumabfor treatment of type one diabetes mellitus: a systemic review and meta-analysis.Endocr Metab Immune Disord Drug Targets21(10):1895-1904, 2021.
+5.Oikonomou V, Smith G, Constantine GM, et al: The Role of Interferon-γ in Autoimmune Polyendocrine Syndrome Type 1.N Engl J Med390(20):1873-1884, 2024. doi: 10.1056/NEJMoa2312665
+5.Oikonomou V, Smith G, Constantine GM, et al: The Role of Interferon-γ in Autoimmune Polyendocrine Syndrome Type 1.N Engl J Med390(20):1873-1884, 2024. doi: 10.1056/NEJMoa2312665
+多腺体缺陷综合征的特点是多个内分泌腺功能减退，可同时或先后发生。
+多腺体缺陷综合征的特点是多个内分泌腺功能减退，可同时或先后发生。
+非内分泌器官亦可受累
+非内分泌器官亦可受累
+大多数病例是自身免疫性，触发因素常常是未知的，可能与病毒感染、食物或药物有关。
+大多数病例是自身免疫性，触发因素常常是未知的，可能与病毒感染、食物或药物有关。
+按照受影响的腺体可以对多腺体缺陷综合征进行分类。
+按照受影响的腺体可以对多腺体缺陷综合征进行分类。
+治疗方法包括补充缺乏的激素。
+治疗方法包括补充缺乏的激素。

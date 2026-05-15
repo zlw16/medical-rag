@@ -1,0 +1,63 @@
+标题：慢性广泛性（中枢化）疼痛
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/pain/chronic-widespread-centralized-pain
+============================================================
+
+(参见纤维肌痛和疼痛概述。）
+未缓解的长期疼痛障碍可按病因（如癌症、类风湿性关节炎、椎间盘突出）或病理生理机制（如伤害感受性、神经病理性、伤害可塑性）进行分类。多数慢性疼痛可能表现为混合状态。 例如，周围神经损伤引起神经病理性疼痛可能会导致中枢神经系统发生改变，从而引起伤害可塑性疼痛。另一种情况是，即使是轻微的损伤，也可能导致神经系统（从外周受体到大脑皮层）的长期变化（致敏），这可能在缺乏持续伤害性刺激的情况下产生持续的疼痛。在敏化和痛觉可塑性疼痛的情况下，由于几乎已解决的疾病而引起的不适，本来可能被视为轻微或琐碎的痛苦，却被感知为显著的疼痛。
+在一些病例中（如外伤后的慢性背痛），原始的疼痛传入信号是十分明显的；而在另一些病例中（如慢性头痛、不典型面痛、慢性腹痛），其本身的传入信号是较远而隐蔽的。然而，在大多数慢性疼痛中，很难找到持续性损伤或伤害的证据，也难以找到明确疗法。
+慢性疼痛可引发心理困扰，但既存心理因素可显著影响整体疼痛体验。慢性疼痛也可以引起或加重心理问题（如抑郁、焦虑）。区分心理因素的因果关联通常很困难。
+患者所处环境中的多种因素（例如家庭成员、朋友等社会关系）可能会强化导致慢性疼痛持续存在的行为模式。某些风险因素,包括童年不良事件（身体、情感、言语及性等方面虐待），表明会增加成年后发生慢性疼痛的风险。
+
+【纤维肌痛综合征】
+纤维肌痛是最常见的慢性广泛性疼痛综合征之一，是伤害可塑性疼痛状态的代表性示例。与其他大多数慢性疼痛综合征相似，纤维肌痛症在女性群体中更为常见；然而，随着2016年诊断标准的更新，目前被确诊为纤维肌痛症的男性患者数量较过去显著增加，使得该疾病的性别差异已趋于缩小。
+病理生理学尚不清楚，但可能涉及伴有疼痛调节受损的中枢致敏综合征，并且伤害感受通路和处理中心已启动并对刺激过度反应。
+诊断是临床的，并且没有确认性诊断测试。然而，一些组织已经制定了特定的诊断标准（1, 2）。诊断标准包括一个广泛疼痛指数（WPI），该指数还考虑了其他症状，如疲劳、认知障碍、睡眠障碍和胃肠道症状（即肠易激综合征）；患者将其中一些症状称为“纤维雾”。正是这些非疼痛性症状有助于将纤维肌痛与其他广泛性疼痛的原因区分开来。
+
+【纤维肌痛参考文献】
+1.Galvez-Sánchez CM, A. Reyes del Paso GA.Diagnostic criteria for fibromyalgia: Critical review and future perspectives.J Clin Med.9 (4): 1219, 2020.doi: 10.3390/jcm9041219
+1.Galvez-Sánchez CM, A. Reyes del Paso GA.Diagnostic criteria for fibromyalgia: Critical review and future perspectives.J Clin Med.9 (4): 1219, 2020.doi: 10.3390/jcm9041219
+2.Häuser W, Brähler E, Ablin J, Wolfe F.Modified 2016 American College of Rheumatology fibromyalgia criteria, the analgesic, anesthetic, and addiction clinical trial translations innovations opportunities and networks–American Pain Society Pain Taxonomy, and the Prevalence of Fibromyalgia.Arthritis Care & Research.73 (5): 617–625, 2021.
+2.Häuser W, Brähler E, Ablin J, Wolfe F.Modified 2016 American College of Rheumatology fibromyalgia criteria, the analgesic, anesthetic, and addiction clinical trial translations innovations opportunities and networks–American Pain Society Pain Taxonomy, and the Prevalence of Fibromyalgia.Arthritis Care & Research.73 (5): 617–625, 2021.
+
+【慢性广泛性（中枢性）疼痛的治疗】
+通常采用多模式疗法（例如，镇痛药、物理疗法、心理治疗、介入治疗技术）
+通常采用多模式疗法（例如，镇痛药、物理疗法、心理治疗、介入治疗技术）
+纤维肌痛的治疗策略可作为许多伤害可塑性疼痛障碍或慢性疼痛中伤害可塑性成分治疗的范本。本病的治疗基础为多模式联合疗法（包括镇痛药物、物理治疗、心理干预及自我管理方案）。
+
+【Medications（药物应用史）】
+用于治疗慢性广泛性疼痛的镇痛药包括
+非甾体类抗炎药(NSAIDs)
+非甾体类抗炎药(NSAIDs)
+加巴喷丁或普瑞巴林
+加巴喷丁或普瑞巴林
+5-羟色胺-去甲肾上腺素再摄取抑制剂（SNRIs）（例如度洛西汀、米那普仑）
+5-羟色胺-去甲肾上腺素再摄取抑制剂（SNRIs）（例如度洛西汀、米那普仑）
+三环类抗抑郁药（例如，去甲替林、阿米替林、地昔帕明）
+三环类抗抑郁药（例如，去甲替林、阿米替林、地昔帕明）
+低剂量纳曲酮（LDN）作为纤维肌痛的超说明书治疗，利用其调节免疫系统和减轻炎症的作用，可能有助于缓解疼痛和疲劳。LDN被认为通过暂时阻断阿片受体来发挥作用的，导致内啡肽生成反弹增加，从而增强止痛效果并改善情绪。尽管LDN治疗纤维肌痛的研究仍在发展中，部分研究表明其对某些患者的症状控制可能是有效且耐受性良好的（1）。
+通常需要使用一种或多种具有不同作用机制的药物（合理的多重用药）。
+
+【非药物治疗】
+物理治疗，尤其是低强度有氧运动，对伤害可塑性疼痛有益，并且是当前纤维肌痛治疗策略的基石（2）。纤维肌痛的物理治疗通常通过定制化运动计划（包括拉伸、增强肌力和低强度有氧活动）改善身体功能并减轻疼痛。治疗师可能结合手法治疗、水疗和疼痛管理策略教育等技术，增强患者症状管理能力。增加体力活动和锻炼可改善身体功能、睡眠、疼痛和疲劳，所以对纤维肌痛患者至关重要。运动方案应根据患者偏好、身体状况和合并症进行个体化制定，重点开展低强度有氧活动并循序渐进。尽管患者初期可能出现不适应，但设定合理预期并控制节奏可提高依从性和长期获益，现有强证据支持低强度有氧运动、力量训练和太极等活动的有效性（3）。
+患者教育对伤害可塑性疼痛管理至关重要，内容应包括疾病的非炎症本质、药物疗效虽有限但有益，以及多模式治疗的重要性。临床医生应重视合并症管理，开展睡眠卫生教育，并为患者提供可靠资源指引。研究证实患者教育（尤其与其他非药物策略联合时）可显著改善症状和整体预后（4）。
+疼痛心理学，包括行为疗法，即使不能减轻疼痛，可以改善患者功能。病人应每天做日记，记录下每天所做的事，并对其进行一定的调整。医生应建议病人适当逐步增加体力活动和社会交往。体力活动应逐步增加时间；为使其功能得到最大程度的恢复，尽可能不因疼痛而放弃活动训练。当用这种方法逐步增加活动后，病人疼痛的主诉也会减少。
+推荐大多数伤害可塑性疼痛患者采用认知或心理疗法（如认知行为疗法、正念减压和放松技巧），并应根据个人偏好和资源可及性进行个体化调整。此类疗法（尤以CBT为著）在改善躯体功能、疼痛和情绪方面证据充分，新兴数字化方案进一步提升了患者的治疗可及性。
+家庭成员或同事应避免进行一些诱发疼痛的行为（如不停地询问患者的健康状况和坚持认为患者无法进行日常家务）。医生也应避免上述行为，对疼痛适应不良的行为不予赞同、对病人的进步予以鼓励、在强调功能恢复的同时予以适当的疼痛治疗。
+疼痛康复计划是针对慢性疼痛患者的多学科计划。这些计划包括教育、认知行为疗法、物理疗法、药物方案简化，有时还包括解毒和逐渐减少镇痛药。他们专注于
+恢复功能
+恢复功能
+提高生活质量
+提高生活质量
+帮助患者控制自己的生活，尽管有慢性疼痛
+帮助患者控制自己的生活，尽管有慢性疼痛
+介入性疼痛管理包括各种微创手术，可以通过针对可能的疼痛来源来治疗广泛性疼痛。
+
+【治疗参考文献】
+1.Patten DK, Schultz BG, Berlau DJ.The Safety and Efficacy of Low-Dose Naltrexone in the Management of Chronic Pain and Inflammation in Multiple Sclerosis, Fibromyalgia, Crohn's Disease, and Other Chronic Pain Disorders.Pharmacotherapy.2018;38(3):382-389.doi:10.1002/phar.2086
+1.Patten DK, Schultz BG, Berlau DJ.The Safety and Efficacy of Low-Dose Naltrexone in the Management of Chronic Pain and Inflammation in Multiple Sclerosis, Fibromyalgia, Crohn's Disease, and Other Chronic Pain Disorders.Pharmacotherapy.2018;38(3):382-389.doi:10.1002/phar.2086
+2.Arribas-Romano A, Fernández-Carnero J, Molina-Rueda F, Angulo-Diaz-Parreño S, Navarro-Santana MJ.Efficacy of Physical Therapy on Nociceptive Pain Processing Alterations in Patients with Chronic Musculoskeletal Pain: A Systematic Review and Meta-analysis.Pain Med.2020;21(10):2502-2517.doi:10.1093/pm/pnz366
+2.Arribas-Romano A, Fernández-Carnero J, Molina-Rueda F, Angulo-Diaz-Parreño S, Navarro-Santana MJ.Efficacy of Physical Therapy on Nociceptive Pain Processing Alterations in Patients with Chronic Musculoskeletal Pain: A Systematic Review and Meta-analysis.Pain Med.2020;21(10):2502-2517.doi:10.1093/pm/pnz366
+3.Bidonde J, Busch AJ, Schachter CL, et al.Aerobic exercise training for adults with fibromyalgia.Cochrane Database Syst Rev.2017;6(6):CD012700.Published 2017 Jun 21.doi:10.1002/14651858.CD012700
+3.Bidonde J, Busch AJ, Schachter CL, et al.Aerobic exercise training for adults with fibromyalgia.Cochrane Database Syst Rev.2017;6(6):CD012700.Published 2017 Jun 21.doi:10.1002/14651858.CD012700
+4.Saracoglu I, Akin E, Aydin Dincer GB.Efficacy of adding pain neuroscience education to a multimodal treatment in fibromyalgia: A systematic review and meta-analysis.Int J Rheum Dis.2022;25(4):394-404.doi:10.1111/1756-185X.14293
+4.Saracoglu I, Akin E, Aydin Dincer GB.Efficacy of adding pain neuroscience education to a multimodal treatment in fibromyalgia: A systematic review and meta-analysis.Int J Rheum Dis.2022;25(4):394-404.doi:10.1111/1756-185X.14293

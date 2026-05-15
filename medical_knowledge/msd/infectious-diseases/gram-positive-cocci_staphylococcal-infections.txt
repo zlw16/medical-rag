@@ -1,0 +1,271 @@
+标题：葡萄球菌感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-positive-cocci/staphylococcal-infections
+============================================================
+
+葡萄球菌属细菌的特征表现为显微镜下呈现葡萄状、球形菌群的外观。葡萄球菌分为凝固酶阳性菌和凝固酶阴性菌两类；其中，能否通过产生凝固酶使血液凝固，是区分强致病性病原体金黄色葡萄球菌与致病性较弱的凝固酶阴性葡萄球菌的关键特征。金黄色葡萄球菌是最常见且最具危险性的致病菌之一，因其毒力强且易产生抗生素耐药性。
+凝固酶阴性菌种，如表皮葡萄球菌，与医院获得性感染相关；腐生葡萄球菌可引起泌尿道感染。路邓葡萄球菌是另一种凝固酶阴性葡萄球菌，其致病力与金黄色葡萄球菌相似，也可引起侵袭性疾病。与大多数凝固酶阴性葡萄球菌不同，S. lugdunensis（路邓葡萄球菌）对耐青霉素酶的β-内酰胺类抗生素往往仍然敏感（即对甲氧西林敏感）。
+携带状态常见。致病性葡萄球菌是常见的。葡萄球菌通常可暂时定植于约 32% 健康成年人的前鼻孔（1）及约 20～30% 的皮肤表面（2）；这些部位的菌群可引起宿主自身或他人的感染。住院患者和医院工作人员的带菌率更高。携带者中S. aureus（金黄色葡萄球菌）感染比非携带者更普遍，通常由定植菌株引起。
+
+【葡萄球菌感染的危险因素】
+易患葡萄球菌感染的人群包括:
+新生儿和哺乳期母亲
+新生儿和哺乳期母亲
+患有流感、慢性支气管肺疾病（如囊性纤维化、肺气肿）、白血病、HIV 感染、恶性肿瘤、慢性皮肤病或糖尿病的患者
+患有流感、慢性支气管肺疾病（如囊性纤维化、肺气肿）、白血病、HIV 感染、恶性肿瘤、慢性皮肤病或糖尿病的患者
+器官移植患者，植入假体、其他异物，或血管内留置塑料导管
+器官移植患者，植入假体、其他异物，或血管内留置塑料导管
+接受外源性糖皮质激素、放射治疗、免疫抑制剂或抗肿瘤化疗的患者
+接受外源性糖皮质激素、放射治疗、免疫抑制剂或抗肿瘤化疗的患者
+具有趋化性缺陷（例如，乔布综合征、切迪亚克-希加综合征和威斯科特-奥尔德里奇综合征）和吞噬作用缺陷的患者
+具有趋化性缺陷（例如，乔布综合征、切迪亚克-希加综合征和威斯科特-奥尔德里奇综合征）和吞噬作用缺陷的患者
+静脉药瘾者
+静脉药瘾者
+正在接受透析治疗的慢性肾脏疾病患者
+正在接受透析治疗的慢性肾脏疾病患者
+有手术切口、开放性伤口或烧伤的患者
+有手术切口、开放性伤口或烧伤的患者
+易感患者可从其他患者、医护人员或医疗环境中的无生命物体处获得耐药的葡萄球菌。经工作人员的手是最普遍的传播方式，但也可经空气传播。
+
+【参考文献】
+1.Mainous AG 3rd, Hueston WJ, Everett CJ, Diaz VA.Nasal carriage ofStaphylococcus aureusand methicillin-resistantS aureusin the United States, 2001-2002.Ann Fam Med.2006;4(2):132-137.doi:10.1370/afm.526
+1.Mainous AG 3rd, Hueston WJ, Everett CJ, Diaz VA.Nasal carriage ofStaphylococcus aureusand methicillin-resistantS aureusin the United States, 2001-2002.Ann Fam Med.2006;4(2):132-137.doi:10.1370/afm.526
+2.Parlet CP, Brown MM, Horswill AR.Commensal Staphylococci InfluenceStaphylococcus aureusSkin Colonization and Disease.Trends Microbiol.2019;27(6):497-507.doi:10.1016/j.tim.2019.01.008
+2.Parlet CP, Brown MM, Horswill AR.Commensal Staphylococci InfluenceStaphylococcus aureusSkin Colonization and Disease.Trends Microbiol.2019;27(6):497-507.doi:10.1016/j.tim.2019.01.008
+
+【葡萄球菌性疾病】
+葡萄球菌通过以下方式致病：
+直接侵犯组织
+直接侵犯组织
+有时通过分泌毒素致病
+有时通过分泌毒素致病
+直接侵犯组织是葡萄球菌病最常见的致病机制，包括以下：
+皮肤与软组织感染
+皮肤与软组织感染
+血流感染
+血流感染
+心内膜炎
+心内膜炎
+感染性（化脓性）关节炎（天然关节和假体关节）
+感染性（化脓性）关节炎（天然关节和假体关节）
+有时葡萄球菌可产生多种外毒素。 一些能使感染局限，另一些则诱导特定T细胞释放细胞因子，导致严重全身表现，包括皮肤病变、休克、器官衰竭和死亡。杀白细胞毒素（PVL）是由感染了特定噬菌体的菌株分泌的毒素。PVL通常存在于社区获得性耐甲氧西林S. aureus（金黄色葡萄球菌）（CA-MRSA）菌株中，曾被认为可介导坏死能力 (1)，但此作用尚未被证实 (2)。
+葡萄球菌毒素介导的疾病包括：
+中毒性休克综合征
+中毒性休克综合征
+葡萄球菌烫伤皮肤综合征
+葡萄球菌烫伤皮肤综合征
+葡萄球菌性食物中毒
+葡萄球菌性食物中毒
+下述感染和疾病将在本手册其他章节进一步叙述。
+
+【金黄色葡萄球菌菌血症】
+金黄色葡萄球菌菌血症经常导致转移性感染灶，可继发于任何部位的金黄色葡萄球菌感染，但尤其常见于血管内导管或其他异物相关感染，或静脉注射毒品的人群（通过皮肤携带直接接种感染）。也可能在没有明显感染灶的情况下发生。
+表皮葡萄球菌及其他凝固酶阴性葡萄球菌可形成生物膜附着于血管内导管及其他异物表面，从而导致与此类器械相关的医院获得性菌血症。
+葡萄球菌菌血症是导致衰弱患者发病率（尤其是住院时间延长）和死亡率的一个重要原因。
+
+【皮肤葡萄球菌感染】
+皮肤感染是最常见的葡萄球菌性疾病。表皮感染可能是弥漫性的，有囊性脓疱和结痂（脓疱病），有时出现蜂窝织炎，或局灶性结节性脓肿（疖和痈）。深部皮肤脓肿常见。严重的坏死性皮肤感染也可发生。
+在脓疱病中，成簇的囊泡或大疱性病变形成、破裂并形成蜜色的痂皮。
+在脓疱病中，成簇的囊泡或大疱性病变形成、破裂并形成蜜色的痂皮。
+Image courtesy of Thomas Habif, MD.
+这张照片显示了成簇的囊泡和脓疱在鼻子上逐渐形成蜂蜜色的外壳。
+这张照片显示了成簇的囊泡和脓疱在鼻子上逐渐形成蜂蜜色的外壳。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+疖（疔疮）是由葡萄球菌感染引起的累及毛囊的软结节或脓疱。
+疖（疔疮）是由葡萄球菌感染引起的累及毛囊的软结节或脓疱。
+Image provided by Thomas Habif, MD.
+在脓疱病中，成簇的囊泡或大疱性病变形成、破裂并形成蜜色的痂皮。
+在脓疱病中，成簇的囊泡或大疱性病变形成、破裂并形成蜜色的痂皮。
+Image courtesy of Thomas Habif, MD.
+这张照片显示了成簇的囊泡和脓疱在鼻子上逐渐形成蜂蜜色的外壳。
+这张照片显示了成簇的囊泡和脓疱在鼻子上逐渐形成蜂蜜色的外壳。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+疖（疔疮）是由葡萄球菌感染引起的累及毛囊的软结节或脓疱。
+疖（疔疮）是由葡萄球菌感染引起的累及毛囊的软结节或脓疱。
+Image provided by Thomas Habif, MD.
+葡萄球菌通常引起伤口和烧伤感染，术后切口感染，哺乳期母亲的乳腺炎或乳房脓肿。
+
+【新生儿葡萄球菌感染】
+新生儿感染发生在出生后4周内，包括：
+皮肤损害，伴或不伴剥脱
+皮肤损害，伴或不伴剥脱
+
+【葡萄球菌肺炎】
+金黄色葡萄球菌性肺炎在社区环境中并不常见，但可能出现在具有以下一项或多项特征的患者中：
+慢性支气管肺疾病或其他高风险疾病
+慢性支气管肺疾病或其他高风险疾病
+糖皮质激素或免疫抑制剂治疗
+糖皮质激素或免疫抑制剂治疗
+静脉留置导管用于家庭胃肠外治疗或血液透析
+静脉留置导管用于家庭胃肠外治疗或血液透析
+注射毒品
+注射毒品
+葡萄球菌性肺炎可以是原发感染或由身体其他部位S. aureus（金黄色葡萄球菌）感染（例如，IV导管感染、心内膜炎、软组织感染）的血行播散引起，或由静脉吸毒引起。然而，S. aureus（金黄色葡萄球菌）是医院获得性肺炎的常见原因，包括呼吸机相关性肺炎。
+金黄色葡萄球菌肺炎有时表现出肺脓肿形成、继而迅速出现肺大疱和脓胸。社区获得性耐甲氧西林S. aureus（金黄色葡萄球菌）（CA-MRSA）常引发严重坏死性肺炎。
+
+【金黄色葡萄球菌心内膜炎】
+心内膜炎可发生，特别是在使用注射药物的人和装有人工心脏瓣膜的患者中。由于血管内导管的使用和心脏装置的植入，金黄色葡萄球菌是细菌性心内膜炎的主要致病菌。
+金黄色葡萄球菌心内膜炎是一种急性发热性疾病，常伴有内脏脓肿、栓塞现象、心包炎、甲下瘀点、结膜下出血、紫癜性病变、心脏杂音、瓣周脓肿、传导缺陷，最终导致继发于心脏瓣膜损伤的心力衰竭。
+
+【金黄色葡萄球菌骨髓炎】
+骨髓炎在儿童中更为常见，通常由急性血行播散引起。它会导致寒战、发烧以及受影响骨骼的疼痛。随后，覆盖的软组织变得红肿。关节感染可能发生，且常通过邻近扩散导致关节积液，提示为化脓性关节炎而非骨髓炎。大多数成人椎骨和椎间盘的感染由S. aureus（金黄色葡萄球菌）引起。
+
+【葡萄球菌感染性关节炎】
+关节通常经由血行感染而继发感染，但也可由骨感染（骨髓炎）蔓延、创伤或关节手术期间的直接原发性感染引起。关节假体特别容易感染。假体关节植入后数月内的葡萄球菌感染通常是在手术期间获得的，而术后12个月以上发生的感染则很可能是由于血源性传播所致。然而，感染仍可能是继发于植入时无意中引入并保持休眠状态的微生物，几个月后出现明显临床症状。
+
+【金黄色葡萄球菌中毒休克综合征】
+葡萄球菌中毒性休克综合征可能是由于使用阴道卫生棉条或其他装置而导致的，这些装置可能会使任何类型的金黄色葡萄球菌感染（例如，术后伤口感染、烧伤感染、皮肤感染）复杂化。尽管大多数病例是由甲氧西林敏感S. aureus（金黄色葡萄球菌）（MSSA）引起，但由 MRSA 引起的病例与医院内和社区 MRSA 感染患病率的增加相一致。
+
+【葡萄球菌烫伤皮肤综合征】
+葡萄球菌性烫伤样皮肤综合征，由多种外毒素（主要是剥脱毒素A和B [ETA与ETB]）引起的儿童剥脱性皮炎，其特征表现为大型水疱及皮肤表层剥脱。最终，表皮脱落。烫伤样皮肤综合征最常发生于婴幼儿和<5岁的儿童。
+葡萄球菌烫伤皮肤综合征是葡萄球菌毒素引起的表皮松解症。结果包括出现红斑并伴有片状脱屑，特别是在腹股沟和腋窝的间擦区域。通常还会出现口周脱皮。
+
+【葡萄球菌性食物中毒】
+葡萄球菌性食物中毒由摄入预先形成的热稳定性葡萄球菌肠毒素引起。食物可能被葡萄球菌携带者或活动性皮肤病变患者污染。若食物烹调不充分或置于室温环境中，金黄色葡萄球菌会大量繁殖并产生肠毒素。许多食物可以作为生长培养基，尽管受到污染，但它们仍可能有正常的味道和气味。摄入食物2至8小时后出现严重的恶心和呕吐，随后出现腹部绞痛和腹泻。病程短，通常持续<12小时。
+
+【葡萄球菌引起的疾病参考文献】
+1.Huang J, Zhang T, Zou X, Wu S, Zhu J.Panton-valentine leucocidin carryingStaphylococcus aureuscausing necrotizing pneumonia inactivates the JAK/STAT signaling pathway and increases the expression of inflammatory cytokines.Infect Genet Evol.2020;86:104582.doi:10.1016/j.meegid.2020.104582
+1.Huang J, Zhang T, Zou X, Wu S, Zhu J.Panton-valentine leucocidin carryingStaphylococcus aureuscausing necrotizing pneumonia inactivates the JAK/STAT signaling pathway and increases the expression of inflammatory cytokines.Infect Genet Evol.2020;86:104582.doi:10.1016/j.meegid.2020.104582
+2.Saeed K, Gould I, Esposito S, et al.Panton-Valentine leukocidin-positiveStaphylococcus aureus: a position statement from the International Society of Chemotherapy.Int J Antimicrob Agents.2018;51(1):16-25.doi:10.1016/j.ijantimicag.2017.11.002
+2.Saeed K, Gould I, Esposito S, et al.Panton-Valentine leukocidin-positiveStaphylococcus aureus: a position statement from the International Society of Chemotherapy.Int J Antimicrob Agents.2018;51(1):16-25.doi:10.1016/j.ijantimicag.2017.11.002
+
+【葡萄球菌感染的诊断】
+革兰染色与培养
+革兰染色与培养
+分子检测试验（例如实时聚合酶链式反应[PCR]）
+分子检测试验（例如实时聚合酶链式反应[PCR]）
+骨骼影像学检查（MRI、CT或放射性核素骨扫描）
+骨骼影像学检查（MRI、CT或放射性核素骨扫描）
+罕见情况下，皮肤或骨骼活检
+罕见情况下，皮肤或骨骼活检
+罕见情况下，从食品样品中分离出细菌
+罕见情况下，从食品样品中分离出细菌
+葡萄球菌感染的诊断基于革兰氏染色和感染物质的培养。
+应进行抗生素敏感性试验，因为耐甲氧西林菌株常见，需采用替代疗法。
+在骨髓炎，X线改变在10至14天内不明显，骨质疏松和骨膜反应甚至更长时间仍不能检测到。磁共振、CT或放射性核素骨扫描常能较早出现异常。骨活检（开放或经皮）应当用于病原确认和药敏试验。
+怀疑葡萄球菌烫伤样皮肤综合征时，应当对血液、尿液、鼻咽、脐部、异常皮肤或任何可疑感染部位的标本进行培养；完整的大疱是无菌的。尽管通常是由临床诊断，但异常皮肤活检可能有助于确诊疾病。
+群聚性病例（例如一个家庭、社交活动出席者或餐馆顾客）要考虑葡萄球菌性食物中毒。确诊（通常由卫生部门执行）有赖于可疑食物的葡萄球菌分离，有时需要检测肠毒素。
+
+【医疗机构耐甲氧西林金黄色葡萄球菌监测】
+水平感染预防措施（即预防不同病原体之间的多重感染），例如良好的手卫生、环境清洁和消毒，对于减少医院感染和预防包括耐甲氧西林金黄色葡萄球菌在内的生物体的传播至关重要（1）。一些耐甲氧西林金黄色葡萄球菌（MRSA）医院感染高发或正在经历疫情暴发的机构，可能会针对全部或特定高危患者群体（如重症监护室患者或有已知MRSA既往感染或定植史者）实施MRSA筛查项目（主动监测），通过快速实验室技术检测鼻拭子样本。随后及时对耐甲氧西林金黄色葡萄球菌定植或感染患者进行接触隔离，可能有助于降低医院内耐甲氧西林金黄色葡萄球菌感染的发生率。
+在进行心血管、神经外科和骨科手术等高风险手术之前，尤其是在植入假体材料前，也经常进行耐甲氧西林金黄色葡萄球菌定植筛查和抗生素敏感性测试。该检测可用于确定哪些患者可能从去定植尝试中获益，以及何时在围手术期抗生素预防方案中加入抗耐甲氧西林金黄色葡萄球菌的覆盖范围（例如万古霉素）。
+在肺炎患者中，聚合酶链式反应（PCR）检测耐甲氧西林金黄色葡萄球菌在鼻孔中的定植已被证明对MRSA肺部感染具有>95%的阴性预测值，因此可能在抗生素管理中有用 (2)。
+
+【诊断参考】
+1.Popovich KJ, Aureden K, Ham DC, et al.SHEA/IDSA/APIC Practice Recommendation: Strategies to prevent methicillin-resistantStaphylococcus aureustransmission and infection in acute-care hospitals: 2022 Update.Infect Control Hosp Epidemiol.2023;44(7):1039-1067.doi:10.1017/ice.2023.102
+1.Popovich KJ, Aureden K, Ham DC, et al.SHEA/IDSA/APIC Practice Recommendation: Strategies to prevent methicillin-resistantStaphylococcus aureustransmission and infection in acute-care hospitals: 2022 Update.Infect Control Hosp Epidemiol.2023;44(7):1039-1067.doi:10.1017/ice.2023.102
+2.Parente DM, Cunha CB, Mylonakis E, Timbrook TT.The Clinical Utility of Methicillin-Resistant Staphylococcus aureus (MRSA) Nasal Screening to Rule Out MRSA Pneumonia: A Diagnostic Meta-analysis With Antimicrobial Stewardship Implications.Clin Infect Dis.2018;67(1):1-7.doi:10.1093/cid/ciy024
+2.Parente DM, Cunha CB, Mylonakis E, Timbrook TT.The Clinical Utility of Methicillin-Resistant Staphylococcus aureus (MRSA) Nasal Screening to Rule Out MRSA Pneumonia: A Diagnostic Meta-analysis With Antimicrobial Stewardship Implications.Clin Infect Dis.2018;67(1):1-7.doi:10.1093/cid/ciy024
+
+【葡萄球菌感染的治疗】
+局部措施（如清创，移除导管）
+局部措施（如清创，移除导管）
+根据感染严重程度和当地耐药情况选择抗生素
+根据感染严重程度和当地耐药情况选择抗生素
+葡萄球菌感染的管理包括脓肿引流、坏死组织清创、异物移除（包括血管内导管），以及根据机构指南使用抗生素。
+最初的选择和抗生素剂量取决于:
+感染部位
+感染部位
+疾病严重程度
+疾病严重程度
+细菌耐药的概率
+细菌耐药的概率
+因此，初始治疗时了解当地耐药模式至关重要（并最终需持续关注病原体对常用抗葡萄球菌抗生素的敏感性）。
+葡萄球菌中毒性疾病（其中最严重的是中毒性休克综合征）的治疗包括产生毒素部位的消毒（手术伤口探查、冲洗、清创），强化支持治疗（包括静脉补液，升压药物和呼吸支持），保持电解质平衡和抗生素应用。体外证据支持联合使用耐β-内酰胺酶的抗葡萄球菌制剂IV（例如，萘苄西林，奥沙西林，万古霉素）和蛋白质合成抑制剂（例如，克林霉素，利奈唑胺）。在严重情况下，静脉注射免疫球蛋白可能有助于提高生存率（1）。
+
+【抗生素耐药性】
+许多葡萄球菌产生青霉素酶，这种酶能灭活数种β-内酰类抗生素；这些菌株对青霉素G、氨苄西林、阿莫西林和抗铜绿假单胞菌青霉素（如哌拉西林）耐药。
+耐青霉素酶青霉素（例如甲氧西林、苯唑西林、萘夫西林、氯唑西林、双氯西林）和第一代头孢菌素是治疗葡萄球菌感染的首选抗生素。然而，耐甲氧西林金黄色葡萄球菌在医疗和社区环境中的高流行率可能会限制它们的经验性使用。四环素类药物（例如多西环素）、甲氧苄啶/磺胺甲恶唑 (TMP/SMX)、万古霉素、达托霉素、抗耐甲氧西林金黄色葡萄球菌头孢菌素（例如，头孢洛林、头孢比普）和利奈唑胺通常仍可使用。克林霉素在葡萄球菌分离株中的耐药性差异很大。
+耐甲氧西林金黄色葡萄球菌（MRSA）分离株最初与医疗机构获得性感染相关，并表现出对包括红霉素、克林霉素和氟喹诺酮类在内的多种抗生素耐药。社区相关性耐甲氧西林金黄色葡萄球菌（CA-MRSA）随后出现，现已广泛传播。CA-MRSA通常比医院获得性MRSA耐药性更低。这些菌株虽然对大多数β-内酰胺类药物具有耐药性，但通常对甲氧苄啶/磺胺甲恶唑和四环素类药物（米诺环素、多西环素）敏感。它们通常对克林霉素敏感，但在对红霉素具有诱导性耐药的菌株中，可能会出现对克林霉素的耐药性（实验室可能会将这些菌株报告为D试验阳性）。医疗相关性 MRSA（传统上为 USA100/200 株）与社区获得性 MRSA（如 USA300 株）之间的区分已变得不再清晰，且感染发生时患者所处的环境并不总能准确反映这些最初的分类差异（2）。
+万古霉素对大多数MRSA有效，对于某些严重感染（如骨髓炎，假体关节感染，人工瓣膜性心内膜炎）有时需加用利福平和一种氨基糖苷类药物。当治疗耐甲氧西林金黄色葡萄球菌（MRSA）菌株时，若其对万古霉素的最小抑菌浓度（MIC）≥1.5mcg/ml，应考虑选用其他抗菌药物（如达托霉素、利奈唑胺、特地唑胺、达巴万星、奥利万星、特拉万星、替加环素、奥马环素、来法莫林、埃拉环素、德拉喹诺酮、奎奴普丁/达福普汀、复方磺胺甲噁唑、头孢洛林、头孢比普）进行治疗。
+万古霉素耐药S. aureus（金黄色葡萄球菌）（VRSA；MIC ≥ 16mcg/mL）与万古霉素中介S. aureus（金黄色葡萄球菌）（VISA；MIC 4-8mcg/mL）已经在美国出现。这些病原体需使用利奈唑胺、特地唑胺、奎奴普丁/达福普汀、达托霉素、复方新诺明（TMP/SMX）、德拉氟沙星、奥利他万星、头孢洛林或头孢比普罗进行治疗。达巴万星和特拉万星对VISA有活性，对VRSA几乎没有活性。奥利万星对 VISA 和 VRSA 均具有活性。
+由于MRSA发病率在上升，对于严重葡萄球菌感染（尤其是发生于卫生机构的）的初始经验治疗应当包括一种对于MRSA有可靠疗效的药物。因此，合适的药物包括：
+对于明确或疑似血流感染，万古霉素或达托霉素
+对于明确或疑似血流感染，万古霉素或达托霉素
+对于肺炎，万古霉素、特拉万星或利奈唑胺（因为达托霉素在肺部不可靠地发挥作用）
+对于肺炎，万古霉素、特拉万星或利奈唑胺（因为达托霉素在肺部不可靠地发挥作用）
+表成人葡萄球菌感染的抗菌药物应用总结了治疗选择。
+
+【成人葡萄球菌感染的抗菌药物应用】
+成人葡萄球菌感染的抗菌药物应用
+抗生素治疗
+社区获得性皮肤感染（非MRSA）
+双氯西林或头孢氨苄
+青霉素过敏患者
+克拉霉素
+阿奇霉素
+克林霉素
+社区获得性皮肤感染疑似为MRSA者
+磺胺甲噁唑/甲氧苄啶
+克林霉素
+利奈唑胺
+泰地唑胺
+德拉沙星
+奥马达环素
+TMP/SMX 过敏者
+克林霉素
+利奈唑胺
+泰地唑胺
+多西环素
+德拉沙星
+奥马达环素
+不像是MRSA的严重感染
+萘夫西林或苯唑西林
+头孢唑林
+青霉素过敏患者
+克林霉素
+万古霉素
+高度可能是MRSA的严重感染
+万古霉素
+利奈唑胺
+达帕托霉素
+头孢比普（美国尚未上市）
+头孢洛林
+德拉沙星
+奥马达环素 2
+明确MRSA
+根据药敏结果
+万古霉素耐药葡萄球菌*
+利奈唑胺
+奎奴普丁/达福普丁
+达帕托霉素
+奥他凡星
+头孢比普（美国尚未上市）
+头孢洛林
+*没有临床数据，但所列药物在体外试验中显示为有效。
+MRSA=甲氧西林耐药金黄色葡萄球菌Staphylococcus aureus。
+*没有临床数据，但所列药物在体外试验中显示为有效。
+MRSA=甲氧西林耐药金黄色葡萄球菌Staphylococcus aureus。
+
+【治疗参考文献】
+1.Amreen S, Brar SK, Perveen S, Chaudhry MR, AlBabtain S, Khan S.Clinical Efficacy of Intravenous Immunoglobulins in Management of Toxic Shock Syndrome: An Updated Literature Review.Cureus.2021;13(1):e12836.Published 2021 Jan 21.doi:10.7759/cureus.12836
+1.Amreen S, Brar SK, Perveen S, Chaudhry MR, AlBabtain S, Khan S.Clinical Efficacy of Intravenous Immunoglobulins in Management of Toxic Shock Syndrome: An Updated Literature Review.Cureus.2021;13(1):e12836.Published 2021 Jan 21.doi:10.7759/cureus.12836
+2.Thiede SN, Snitkin ES, Trick W, et al.Genomic Epidemiology Suggests Community Origins of Healthcare-Associated USA300 Methicillin-ResistantStaphylococcus aureus.J Infect Dis.2022;226(1):157-166.doi:10.1093/infdis/jiac056
+2.Thiede SN, Snitkin ES, Trick W, et al.Genomic Epidemiology Suggests Community Origins of Healthcare-Associated USA300 Methicillin-ResistantStaphylococcus aureus.J Infect Dis.2022;226(1):157-166.doi:10.1093/infdis/jiac056
+
+【葡萄球菌感染的预防】
+无菌措施（如检查患者前后彻底洗手和消毒共用的器械）有助于减少在卫生保健机构中的传播。
+对于携带耐药微生物的患者，应采用接触隔离程序，直至其感染得到治愈。根据2020年对当前证据的回顾，美国疾病控制与预防中心仍建议对耐甲氧西林金黄色葡萄球菌定植或感染的患者使用接触防护措施 (1)。
+抗生素预防的多学科指南表明在某些类型的手术之前，建议大多数患者可以在手术前不久给予单剂量的抗生素治疗。 头孢唑林用于大多数手术。然而，对于通过培养或聚合酶链反应 (PCR) 检测证明有 MRSA 定植的患者，应添加万古霉素（2)。
+葡萄球菌食物中毒可以通过恰当的食物烹饪来预防。患有皮肤葡萄球菌感染的患者不应当加工食物，食物应当立即食用或冷藏而不是放在室温下保存。
+
+【耐甲氧西林金黄色葡萄球菌携带者的去定植】
+高达50％的金黄色葡萄球菌携带者可有复发，且经常变得耐药。对于某些 MRSA 携带者（例如骨科、血管和心血管外科患者），一些专家建议使用莫匹罗星软膏进行鼻腔去定植，每天 2 次，持续 5 至 10 天，并使用皮肤消毒液进行局部身体去定植治疗（例如，氯己定）或稀释漂白剂浴（约5 mL/L）持续5至14天。
+但是，在某些研究中, 去定植治疗 （例如，给予局部鼻用莫匹罗星）在减少住院患者（例如，重症监护病房的患者，准备接受大手术的患者）感染MRSA方面有一定效果。尽管莫匹罗星耐药性正逐渐显现，一项针对2121名参与者的随机多中心试验表明，对于MRSA定植患者，在6个月内每月两次、每次持续5天的去定植治疗，可使其出院后1年内MRSA感染风险降低30%（3）。去定植干预包括使用4%的冲洗型氯己定进行每日沐浴或淋浴，每天两次使用0.12%的氯己定漱口水，以及每天两次使用2%的鼻用莫匹罗星。
+
+【预防参考文献】
+1.Centers for Disease Control and Prevention.Infection Control Guidance: Preventing Methicillin-resistantStaphylococcus aureus(MRSA) in Healthcare Facilities.June 27, 2025.Accessed September 4, 2025.
+1.Centers for Disease Control and Prevention.Infection Control Guidance: Preventing Methicillin-resistantStaphylococcus aureus(MRSA) in Healthcare Facilities.June 27, 2025.Accessed September 4, 2025.
+2.Bratzler DW, Dellinger EP, Olsen KM, et al: Clinical practice guidelines for antimicrobial prophylaxis in surgery.Surg Infect (Larchmt)14(1):73–156, 2013.doi: 10.1089/sur.2013.9999
+2.Bratzler DW, Dellinger EP, Olsen KM, et al: Clinical practice guidelines for antimicrobial prophylaxis in surgery.Surg Infect (Larchmt)14(1):73–156, 2013.doi: 10.1089/sur.2013.9999
+3.Huang SS, Singh R, McKinnell JA, et al: Decolonization to reduce postdischarge infection risk among MRSA carriers.N Engl J Med380:638–650, 2019.
+3.Huang SS, Singh R, McKinnell JA, et al: Decolonization to reduce postdischarge infection risk among MRSA carriers.N Engl J Med380:638–650, 2019.
+Staphylococcus aureus是最危险的葡萄球菌属。
+Staphylococcus aureus是最危险的葡萄球菌属。
+大多数葡萄球菌病通过直接侵犯组织致病，引起皮肤和软组织感染，静脉留置导管感染、肺炎，心内膜炎，骨髓炎。
+大多数葡萄球菌病通过直接侵犯组织致病，引起皮肤和软组织感染，静脉留置导管感染、肺炎，心内膜炎，骨髓炎。
+某些菌株产生毒素引起中毒休克综合症，烫伤样皮肤综合症，或食物中毒。
+某些菌株产生毒素引起中毒休克综合症，烫伤样皮肤综合症，或食物中毒。
+耐甲氧西林菌株常见，并且美国已出现万古霉素耐药株。
+耐甲氧西林菌株常见，并且美国已出现万古霉素耐药株。
+药物选择取决于感染源和感染部位，以及社区或机构的耐药特点。
+药物选择取决于感染源和感染部位，以及社区或机构的耐药特点。

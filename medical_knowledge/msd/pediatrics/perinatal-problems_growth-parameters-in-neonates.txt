@@ -1,0 +1,27 @@
+标题：新生儿生长参数
+来源：https://www.msdmanuals.cn/professional/pediatrics/perinatal-problems/growth-parameters-in-neonates
+============================================================
+
+生长参数、产前病史及胎龄有助于识别新生儿病理风险。生长受遗传和营养因素以及宫内病症的影响。出生时评估的生长参数有助于预测随后的生长和发展以及疾病的风险。参数是长度，体重和头围。
+使用按胎龄绘制的体重，每个婴儿在出生时被分类为（1,2）
+小于孕龄：<第10百分位数
+小于孕龄：<第10百分位数
+适合胎龄：第10至第90百分位
+适合胎龄：第10至第90百分位
+大于胎龄儿：>第90百分位
+大于胎龄儿：>第90百分位
+芬顿生长图在美国最常用，它使用所有 3 个参数，并按胎龄提供更精确的生长评估。然而，使用单一生长参考（例如芬顿生长图）是有问题的，因为研究表明不同种族和原籍国的婴儿之间存在丰富的胎儿生长变异性 (1,2）。
+
+【早产男孩Fenton生长曲线表】
+早产男孩Fenton生长曲线表
+Fenton T, Kim J: A systematic review and meta-analysis to revise the Fenton growth chart for preterm infants.BMC Pediatrics13:59, 2013.doi: 10.1186/1471-2431-13-59; used with permission.
+
+【早产女孩Fenton生长曲线图】
+早产女孩Fenton生长曲线图
+Fenton T, Kim J: A systematic review and meta-analysis to revise the Fenton growth chart for preterm infants.BMC Pediatrics13:59, 2013.doi: 10.1186/1471-2431-13-59; used with permission.
+
+【参考文献】
+1.Grantz KL, Hediger ML, Liu D, Buck Louis GM.Fetal growth standards: The NICHD fetal growth study approach in context with INTERGROWTH-21st and the World Health Organization Multicentre Growth Reference Study.Am J Obstet Gynecol.2018;218(2S):S641-S655.e28.doi:10.1016/j.ajog.2017.11.593
+1.Grantz KL, Hediger ML, Liu D, Buck Louis GM.Fetal growth standards: The NICHD fetal growth study approach in context with INTERGROWTH-21st and the World Health Organization Multicentre Growth Reference Study.Am J Obstet Gynecol.2018;218(2S):S641-S655.e28.doi:10.1016/j.ajog.2017.11.593
+2.Estañ-Capell J, Alarcón-Torres B, Miró-Pedro M, Martínez-Costa C.Differences When Classifying Small for Gestational Age Preterm Infants According to the Growth Chart Applied.Am J Perinatol.2024;41(S 01):e1212-e1219.doi:10.1055/s-0043-1761297
+2.Estañ-Capell J, Alarcón-Torres B, Miró-Pedro M, Martínez-Costa C.Differences When Classifying Small for Gestational Age Preterm Infants According to the Growth Chart Applied.Am J Perinatol.2024;41(S 01):e1212-e1219.doi:10.1055/s-0043-1761297

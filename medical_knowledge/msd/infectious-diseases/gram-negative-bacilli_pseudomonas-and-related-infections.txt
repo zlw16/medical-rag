@@ -1,0 +1,69 @@
+标题：Pseudomonas（假单胞菌）及相关感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-negative-bacilli/pseudomonas-and-related-infections
+============================================================
+
+
+【Pseudomonas（假单胞菌）及相关感染的流行病学】
+Pseudomonas（假单胞菌）普遍存在，喜好潮湿环境。
+在人类中，铜绿假单胞菌是最常见的病原体，但感染可能源于少动假单胞菌、荧光假单胞菌、斯氏假单胞菌、斯氏假单胞菌、门多萨假单胞菌或者嗜酸假单胞菌。其他曾被分类为假单胞菌属的重要院内感染病原菌包括洋葱伯克霍尔德菌和嗜麦芽窄食单胞菌。假马利芽孢杆菌（以前称为假马利假单胞菌）会引起一种称为类鼻疽的独特疾病，主要局限于东南亚和澳大利亚北部。
+P. aeruginosa（铜绿假单胞菌）偶尔可存在于腋下和肛门生殖道周围的正常皮肤，但除非给予抗生素，在粪中甚为罕见。在医院内，洗涤槽、防腐溶液和贮尿容器中常可发现这种细菌。除非严格遵循感染控制措施，否则医护人员可能将病菌传染给患者，尤其是在烧伤和新生儿重症监护室。
+
+【由Pseudomonas（假单胞菌）引起的疾病】
+大部分P. aeruginosa（铜绿假单胞菌）感染发生在有中性粒细胞减少症或身体衰弱或免疫缺陷的住院病人。P. aeruginosa是重症监护病房感染的常见原因。 晚期 HIV 患者和囊性纤维化患者面临社区获得性P. aeruginosa（铜绿假单胞菌）感染的风险。
+Pseudomonas（铜绿假单胞菌）可感染机体许多部位，包括皮肤、皮下组织、骨、耳、眼、尿路、肺和心脏瓣膜。感染部位与进入途径及病人的易感性有关。在住院患者中，首发表现可能是严重的革兰阴性细菌脓毒症。
+
+【皮肤与软组织感染】
+在烧伤时，焦痂下区域可被大量微生物浸润，成为随后菌血症的病灶——菌血症常为致死性并发症。
+足部深部刺伤常常发生P. aeruginosa铜绿假单胞菌感染。引流的窦道、蜂窝织炎和骨髓炎可能随之发生。伤口引流物常有甜味和果味。
+在热浴缸中获得的毛囊炎通常是由P. aeruginosa（铜绿假单胞菌）引起。在毛囊周围形成发痒的脓疱疹。
+通常见于热带气候条件下的急性外耳炎（游泳耳）是耳部Pseudomonas（铜绿假单胞菌）感染最常见的临床类型。一种更严重的感染，即恶性外耳炎，可发生于糖尿病患者。表现为严重的耳痛、常有单侧脑神经麻痹，需要非口服给药。
+坏死性脓疮是发生于中性粒细胞减少患者的皮肤病变，通常由P. aeruginosa铜绿假单胞菌引起。其特征是红斑性、中央溃疡性、紫黑色病变，直径约 1 厘米。病变最常发生在潮湿部位，例如腋窝、腹股沟或肛门生殖器区域。坏死性脓疮通常发生在P. aeruginosa菌血症患者。
+
+【呼吸道感染】
+铜绿假单胞菌是医院获得性肺炎和呼吸机相关性肺炎的常见病因。在晚期 HIV 患者中，Pseudomonas（假单胞菌） 最常引起肺炎或鼻窦炎。铜绿假单胞菌社区获得性肺炎的危险因素包括慢性阻塞性肺病 (COPD)、支气管扩张、吸烟、酒精使用障碍和频繁抗生素治疗。
+Pseudomonas假单胞菌支气管炎常见于囊性纤维化的晚期。从囊性纤维化患者分离的细菌呈特征性的黏性菌落形态，比Pseudomonas（非黏性铜绿假单胞菌）引起的感染预后差。
+
+【其他感染】
+Pseudomonas假单胞菌是医院尿路感染的常见病原菌，特别常见于有过泌尿外科操作的病人及尿路梗阻的病人。Pseudomonas（假单胞菌）通常定植在留置导尿管患者的尿路，尤其是那些接受广谱抗生素治疗的患者。
+眼部感染一般表现为角膜溃疡，最常见于外伤之后，但有些病人也可因角膜接触镜片或镜片液体污染而感染。
+骨和关节感染通常发生在脊柱、耻骨和/或胸锁关节。
+很少情况下，Pseudomonas（假单胞菌）可引起急性细菌性心内膜炎，通常发生于接受过心脏直视手术的患者的人工瓣膜或注射毒品患者的自体瓣膜。
+许多Pseudomonas假单胞菌感染可引起菌血症。对于未插管且未发现尿路感染灶的患者，尤其是感染是由P. aeruginosa（铜绿假单胞菌）以外的其他菌种引起时，菌血症表明静脉输液或药物受到污染，或在放置静脉导管时使用的消毒剂受到污染。
+
+【Pseudomonas（假单胞菌）及相关感染的诊断】
+细菌培养
+细菌培养
+Pseudomonas（假单胞菌）感染的诊断依赖于对感染部位的细菌培养：血、皮损部位、引流液、尿、脑脊液或眼。同时进行药敏检测。
+局灶性感染可能产生新割草的果味，脓液有可能呈绿色。
+
+【Pseudomonas（假单胞菌）及相关感染的治疗】
+根据感染部位及严重程度及药敏试验选择不同抗生素
+根据感染部位及严重程度及药敏试验选择不同抗生素
+
+【局灶性感染】
+热浴毛囊炎可自愈，无需抗生素治疗。
+外耳炎可使用1%~2%醋酸冲洗进行治疗，或者局部使用环丙沙星、多黏菌素B或粘菌素。如果易感，更严重的感染可以用氟喹诺酮类药物治疗。
+局灶性软组织感染除了使用抗生素外，可能还需要早期外科清除坏死组织和脓肿引流。
+小的角膜溃疡使用0.3%的环丙沙星或0.5%的左氧氟沙星。对于更严重的溃疡应改用高浓度（高于原料浓度）的抗生素滴眼液，如妥布霉素15mg/mL。在开始的时候应频繁给药（例如每小时一次，全天候）。禁忌蒙住患眼，因为这样可产生黑暗温暖的环境有利于细菌生长，妨碍局部用药。
+无症状菌尿不需抗生素治疗，除非孕期感染及进行尿路操作前。如果菌株敏感，有症状的泌尿道感染患者通常可以用口服左氧氟沙星或口服环丙沙星治疗。
+
+【系统性感染】
+需要肠外给药治疗。研究表明，使用活性抗假单胞菌β-内酰胺类药物（例如头孢吡肟）或氟喹诺酮类药物进行单一抗生素治疗，可产生与之前推荐的氨基糖苷类药物加抗假单胞菌β-内酰胺类药物联合治疗相同的效果（1）。这种单一抗生素疗法对于粒细胞减少患者的治疗效果也是令人满意的。然而，对于疑似感染假单胞菌的重症或脓毒症患者，可首先使用联合抗生素疗法，直至病情稳定或了解抗生素敏感性。
+右侧心内膜炎可以单独用抗生素治疗，但涉及二尖瓣、主动脉瓣或人工瓣膜的感染通常需要尽早进行手术干预并进行瓣膜置换，因为单独使用抗生素的失败率很高。
+P. aeruginosa（铜绿假单胞菌）接受头孢他啶、头孢吡肟、哌拉西林/他唑巴坦、氨曲南、环丙沙星、庆大霉素、美罗培南、亚胺培南或多利培南治疗的患者中可能出现难治性耐药（DTR）的情况。头孢唑烷/他唑巴坦、头孢他啶/阿维巴坦、亚胺培南/瑞来巴坦和头孢地洛对许多多药耐药的P. aeruginosa（铜绿假单胞菌）菌株保持活性。每天服用一次妥布霉素或阿米卡星是治疗由P. aeruginosa（铜绿假单胞菌）-DTR引起的泌尿道感染的替代疗法，此疗法基于新的药敏标准（2）。可能需要使用较老的抗生素（如粘菌素）来治疗涉及多药耐药Pseudomonas（假单胞菌）种属的感染。
+
+【治疗参考文献】
+1.Tamma PD, Aitken SL, Bonomo RA, Mathers AJ, van Duin D, Clancy CJ.Infectious Diseases Society of America Guidance on the Treatment of Extended-Spectrum β-lactamase Producing Enterobacterales (ESBL-E),Carbapenem-Resistant Enterobacterales (CRE), andPseudomonas aeruginosawith Difficult-to-Treat Resistance (DTR-P. aeruginosa).Clin Infect Dis.2021;72(7):e169-e183.doi:10.1093/cid/ciaa1478
+1.Tamma PD, Aitken SL, Bonomo RA, Mathers AJ, van Duin D, Clancy CJ.Infectious Diseases Society of America Guidance on the Treatment of Extended-Spectrum β-lactamase Producing Enterobacterales (ESBL-E),Carbapenem-Resistant Enterobacterales (CRE), andPseudomonas aeruginosawith Difficult-to-Treat Resistance (DTR-P. aeruginosa).Clin Infect Dis.2021;72(7):e169-e183.doi:10.1093/cid/ciaa1478
+2.Tamma PD, Aitken SL, Bonomo RA, Mathers AJ, van Duin D, Clancy CJ.Infectious Diseases Society of America 2023 Guidance on the Treatment of Antimicrobial Resistant Gram-Negative Infections.Clin Infect Dis.Published online July 18, 2023.doi:10.1093/cid/ciad428
+2.Tamma PD, Aitken SL, Bonomo RA, Mathers AJ, van Duin D, Clancy CJ.Infectious Diseases Society of America 2023 Guidance on the Treatment of Antimicrobial Resistant Gram-Negative Infections.Clin Infect Dis.Published online July 18, 2023.doi:10.1093/cid/ciad428
+大部分P. aeruginosa（铜绿假单胞菌）感染发生在住院患者中，特别是那些衰弱或免疫缺陷的患者，但囊性纤维化患者以及晚期HIV患者可在社区获得感染。
+大部分P. aeruginosa（铜绿假单胞菌）感染发生在住院患者中，特别是那些衰弱或免疫缺陷的患者，但囊性纤维化患者以及晚期HIV患者可在社区获得感染。
+多种部位可发生感染，与细菌进入机体的门户有关（例如，烧伤患者的皮肤，使用呼吸机患者的肺部，进行过泌尿系统操作或尿路梗阻患者的尿道）;可出现危及生命的革兰阴性细菌败血症。
+多种部位可发生感染，与细菌进入机体的门户有关（例如，烧伤患者的皮肤，使用呼吸机患者的肺部，进行过泌尿系统操作或尿路梗阻患者的尿道）;可出现危及生命的革兰阴性细菌败血症。
+浅表感染（如毛囊炎、外耳炎、角膜溃疡）可见于正常人群。
+浅表感染（如毛囊炎、外耳炎、角膜溃疡）可见于正常人群。
+依靠细菌培养进行诊断。
+依靠细菌培养进行诊断。
+使用单一抗生素（例如，抗假单胞菌β-内酰胺类、氟喹诺酮类）肠外给药治疗系统性感染。
+使用单一抗生素（例如，抗假单胞菌β-内酰胺类、氟喹诺酮类）肠外给药治疗系统性感染。

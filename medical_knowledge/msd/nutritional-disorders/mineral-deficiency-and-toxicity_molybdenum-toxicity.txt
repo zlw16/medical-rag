@@ -1,0 +1,12 @@
+标题：钼毒性
+来源：https://www.msdmanuals.cn/professional/nutritional-disorders/mineral-deficiency-and-toxicity/molybdenum-toxicity
+============================================================
+
+钼（Mo）是某些辅酶的组成成分，为维持黄嘌呤氧化酶、亚硫酸盐氧化酶和醛氧化酶的活性所必需。
+过度暴露于钼可能与不良健康影响相关，但数据有限。在饮食或职业性钼暴露过量的成人中观察到类似痛风的关节疼痛和高尿酸血症，但因果关系尚未确定(1,2)。
+
+【参考文献】
+1.Vyskocil A, Viau C.Assessment of molybdenum toxicity in humans.J Appl Toxicol.1999 May-Jun;19(3):185-92.doi: 10.1002/(sici)1099-1263(199905/06)19:3<185::aid-jat555>3.0.co;2-z
+1.Vyskocil A, Viau C.Assessment of molybdenum toxicity in humans.J Appl Toxicol.1999 May-Jun;19(3):185-92.doi: 10.1002/(sici)1099-1263(199905/06)19:3<185::aid-jat555>3.0.co;2-z
+2.Seldén AI, Berg NP, Söderbergh A, Bergström BE.Occupational molybdenum exposure and a gouty electrician.Occup Med (Lond).2005 Mar;55(2):145-8.doi: 10.1093/occmed/kqi018
+2.Seldén AI, Berg NP, Söderbergh A, Bergström BE.Occupational molybdenum exposure and a gouty electrician.Occup Med (Lond).2005 Mar;55(2):145-8.doi: 10.1093/occmed/kqi018

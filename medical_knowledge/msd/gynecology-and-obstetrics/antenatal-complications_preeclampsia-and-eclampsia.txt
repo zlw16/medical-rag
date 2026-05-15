@@ -1,0 +1,222 @@
+标题：子痫前期和子痫
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/antenatal-complications/preeclampsia-and-eclampsia
+============================================================
+
+全球分娩中子痫前期的发生率为 4.6%，子痫的发生率为 1.4%（1）。子痫前期和子痫多发生在妊娠 20 周后，但大多数病例发生在妊娠 34 周后（2）。有些病例发生在产后，最常见于产后前 4 天内，但有时最长可达产后 6 周。
+未经治疗的子痫前期会持续一段时间，然后可能突然发展为子痫。未治疗的子痫常为致死性的。
+
+【参考文献】
+1.Abalos E, Cuesta C, Grosso AL, Chou D, Say L: Global and regional estimates of preeclampsia and eclampsia: a systematic review.Eur J Obstet Gynecol Reprod Biol170(1):1-7, 2013.doi:10.1016/j.ejogrb.2013.05.005
+1.Abalos E, Cuesta C, Grosso AL, Chou D, Say L: Global and regional estimates of preeclampsia and eclampsia: a systematic review.Eur J Obstet Gynecol Reprod Biol170(1):1-7, 2013.doi:10.1016/j.ejogrb.2013.05.005
+2.Lisonkova S, Sabr Y, Mayer C, Young C, Skoll A, Joseph KS.Maternal morbidity associated with early-onset and late-onset preeclampsia.Obstet Gynecol124(4):771-781, 2014.doi:10.1097/AOG.0000000000000472
+2.Lisonkova S, Sabr Y, Mayer C, Young C, Skoll A, Joseph KS.Maternal morbidity associated with early-onset and late-onset preeclampsia.Obstet Gynecol124(4):771-781, 2014.doi:10.1097/AOG.0000000000000472
+
+【子痫前期和子痫的病因】
+子痫前期的病因尚不清楚。
+然而，已经确定了高风险和中度风险因素（1,2)。
+高危因素包括
+曾经怀孕并患有子痫前期
+曾经怀孕并患有子痫前期
+多胎妊娠
+多胎妊娠
+自身免疫性疾病
+自身免疫性疾病
+1 型或 2 型糖尿病
+1 型或 2 型糖尿病
+慢性高血压
+慢性高血压
+中度危险因素包括
+初次妊娠
+初次妊娠
+母亲年龄 ≥ 35 岁
+母亲年龄 ≥ 35 岁
+孕前体重指数 > 30
+孕前体重指数 > 30
+子痫前期家族史（一级亲属）
+子痫前期家族史（一级亲属）
+非西班牙裔黑种人和美洲印第安人或阿拉斯加原住民女性（3）
+非西班牙裔黑种人和美洲印第安人或阿拉斯加原住民女性（3）
+
+【病因参考文献】
+1.Henderson JT, Whitlock EP, O'Conner E, et al: Table 8: Preeclampsia Risk Factors Based on Patient Medical History inLow-dose aspirin for the prevention of morbidity and mortality from preeclampsia: A systematic evidence review for the U.S. Preventive Services Task Force.Rockville (MD): Agency for Healthcare Research and Quality (US), 2014
+1.Henderson JT, Whitlock EP, O'Conner E, et al: Table 8: Preeclampsia Risk Factors Based on Patient Medical History inLow-dose aspirin for the prevention of morbidity and mortality from preeclampsia: A systematic evidence review for the U.S. Preventive Services Task Force.Rockville (MD): Agency for Healthcare Research and Quality (US), 2014
+2.American College of Obstetrics and Gynecology (ACOG): ACOG Practice Bulletin, Number 222: Gestational Hypertension and PreeclampsiaObstet Gynecol135(6):e237-e260, 2020.doi:10.1097/AOG.0000000000003891
+2.American College of Obstetrics and Gynecology (ACOG): ACOG Practice Bulletin, Number 222: Gestational Hypertension and PreeclampsiaObstet Gynecol135(6):e237-e260, 2020.doi:10.1097/AOG.0000000000003891
+3.Johnson JD, Louis JM: Does race or ethnicity play a role in the origin, pathophysiology, and outcomes of preeclampsia?An expert review of the literature.Am J Obstet Gynecol226(2S):S876-S885, 2022.doi:10.1016/j.ajog.2020.07.038
+3.Johnson JD, Louis JM: Does race or ethnicity play a role in the origin, pathophysiology, and outcomes of preeclampsia?An expert review of the literature.Am J Obstet Gynecol226(2S):S876-S885, 2022.doi:10.1016/j.ajog.2020.07.038
+
+【子痫前期和子痫的病理生理学】
+子痫前期和子痫的病理生理学仍不清楚。可能的因素包括子宫胎盘螺旋动脉发育不良（在妊娠晚期会减少子宫胎盘血流量）、遗传异常、免疫异常以及胎盘缺血或梗死。自由基导致的细胞膜脂质过氧化可能参与导致子痫前期的发生。
+凝血系统被激活（可能是继发于内皮细胞功能失调），可导致血小板被激活。
+子痫前期和子痫是美国（1）和全球（2）产妇死亡的主要原因。子痫前期妇女在当前妊娠期有胎盘早剥的风险，可能是因为这两种疾病都与子宫胎盘功能不全有关。孕妇可能会出现肺水肿、急性肾损伤、肝破裂或脑血管出血，伴或不伴有癫痫发作。
+胎儿并发症可能包括生长受限、羊水过少或死胎（3）。弥漫或多灶性血管痉挛可造成母体缺血，最终造成多器官损伤，尤其是大脑、肾脏和肝脏。造成血管痉挛的因素包括前列环素减少（一种内皮来源的血管扩张因子），内皮素增加（一种内皮来源的血管收缩因子），以及可溶性Flt-1增加（一种循环中的血管内皮生长因子受体）。
+这HELLP综合征（溶血、肝功能检查升高和血小板计数低）在妊娠中发生率为0.2%至0.6%（4）。大多数患有HELLP综合征的孕妇表现为高血压和蛋白尿，但部分患者可血压正常，尿蛋白阴性。
+
+【病理生理学参考文献】
+1.Ford ND, Cox S, Ko JY, et al: Hypertensive Disorders in Pregnancy and Mortality at Delivery Hospitalization - United States, 2017-2019.MMWR Morb Mortal Wkly Rep71(17):585-591, 2022.Published 2022 Apr 29.doi:10.15585/mmwr.mm7117a1
+1.Ford ND, Cox S, Ko JY, et al: Hypertensive Disorders in Pregnancy and Mortality at Delivery Hospitalization - United States, 2017-2019.MMWR Morb Mortal Wkly Rep71(17):585-591, 2022.Published 2022 Apr 29.doi:10.15585/mmwr.mm7117a1
+2.Say L, Chou D, Gemmill A, et al: Global causes of maternal death: a WHO systematic analysis.Lancet Glob Health2(6):e323-e333, 2014.doi:10.1016/S2214-109X(14)70227-X
+2.Say L, Chou D, Gemmill A, et al: Global causes of maternal death: a WHO systematic analysis.Lancet Glob Health2(6):e323-e333, 2014.doi:10.1016/S2214-109X(14)70227-X
+3.Harmon QE, Huang L, Umbach DM, et al: Risk of fetal death with preeclampsia.Obstet Gynecol125(3):628-635, 2015.doi:10.1097/AOG.0000000000000696
+3.Harmon QE, Huang L, Umbach DM, et al: Risk of fetal death with preeclampsia.Obstet Gynecol125(3):628-635, 2015.doi:10.1097/AOG.0000000000000696
+4.Sarkar M, Brady CW, Fleckenstein J, et al: Reproductive Health and Liver Disease: Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology73(1):318-365, 2021.doi:10.1002/hep.31559
+4.Sarkar M, Brady CW, Fleckenstein J, et al: Reproductive Health and Liver Disease: Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology73(1):318-365, 2021.doi:10.1002/hep.31559
+
+【子痫前期和子痫的症状和体征】
+子痫前期可能是无症状的，也可能导致水肿或体重突然过度增加（>2.3公斤/周）。非低垂部位水肿，如面部或手部水肿（比如可体现为患者的手指带不下原来的戒指）比低垂部位水肿更具特异性。
+子痫表现为全身性（强直-阵挛性）癫痫发作。
+
+【经验与提示】
+经验与提示
+如果孕妇有新的或恶化的高血压，检查手部（如不再合适的戒指）或面部是否肿胀，这可能是子痫前期的更具体的发现之一。
+如果孕妇有新的或恶化的高血压，检查手部（如不再合适的戒指）或面部是否肿胀，这可能是子痫前期的更具体的发现之一。
+重度子痫前期可能造成器官损伤；这些特征可能包括
+剧烈头痛
+剧烈头痛
+视力障碍
+视力障碍
+意识模糊
+意识模糊
+反射亢进
+反射亢进
+上腹或右上腹痛（反映肝脏缺血或包膜扩张）
+上腹或右上腹痛（反映肝脏缺血或包膜扩张）
+恶心和/或呕吐
+恶心和/或呕吐
+呼吸困难（反映肺水肿、急性呼吸窘迫综合征[ARDS]，或继发于后负荷增加的心功能不全）
+呼吸困难（反映肺水肿、急性呼吸窘迫综合征[ARDS]，或继发于后负荷增加的心功能不全）
+少尿（反映血浆容量减少或缺血性急性肾小管坏死）
+少尿（反映血浆容量减少或缺血性急性肾小管坏死）
+中风（很少）
+中风（很少）
+
+【子痫前期和子痫的诊断】
+子痫前期：妊娠 20 周后新发高血压，伴有新的不明原因的蛋白尿（>300 mg/24 小时或尿蛋白/肌酐比值 ≥ 0.3）和/或终末器官损伤迹象（1）
+子痫前期：妊娠 20 周后新发高血压，伴有新的不明原因的蛋白尿（>300 mg/24 小时或尿蛋白/肌酐比值 ≥ 0.3）和/或终末器官损伤迹象（1）
+先兆子痫的血压标准如下：
+收缩压≥140 mm Hg 和/或舒张压≥90 mm Hg （(至少间隔 4 小时进行 2 次测量）
+收缩压≥140 mm Hg 和/或舒张压≥90 mm Hg （(至少间隔 4 小时进行 2 次测量）
+收缩压≥160 mm Hg 和/或舒张压≥110 mm Hg （至少 2 次测量）
+收缩压≥160 mm Hg 和/或舒张压≥110 mm Hg （至少 2 次测量）
+蛋白尿定义为 > 300 mg/24 小时。另外，蛋白尿诊断基于尿蛋白/肌酐比值 ≥ 0.3 或试纸法读数 2+；试纸法仅在其他定量方法不可用时使用。 不太精确的测试结果提示无尿蛋白（如，尿试纸测试，常规尿检），并不能排除先兆子痫。
+在没有蛋白尿的情况下，如果孕妇符合新发高血压的诊断标准并且还出现新发终末器官损害的迹象，则可能诊断为先兆子痫。
+具有严重特征的先兆子痫在患者新发持续性严重高血压和/或出现终末器官损害的体征或症状时进行诊断。血压标准是收缩压≥160 mm Hg 和/或舒张压≥110 mm Hg (至少间隔 4 小时测量 2 次)。
+具有严重特征的先兆子痫在患者新发持续性严重高血压和/或出现终末器官损害的体征或症状时进行诊断。血压标准是收缩压≥160 mm Hg 和/或舒张压≥110 mm Hg (至少间隔 4 小时测量 2 次)。
+终末器官损伤的体征或症状可能包括以下一项或多项：
+血小板减少症（血小板 < 100 x 109L）
+血小板减少症（血小板 < 100 x 109L）
+肝功能受损（转氨酶>2倍正常值）无法通过其他诊断解释
+肝功能受损（转氨酶>2倍正常值）无法通过其他诊断解释
+严重持续的右上腹或上腹部疼痛，对药物无反应
+严重持续的右上腹或上腹部疼痛，对药物无反应
+肾功能不全（血肌酐 > 1.1 mg/dL 或在无肾脏疾病的情况下血肌酐翻倍）
+肾功能不全（血肌酐 > 1.1 mg/dL 或在无肾脏疾病的情况下血肌酐翻倍）
+新发头痛，对药物治疗无反应，且不能用其他诊断来解释
+新发头痛，对药物治疗无反应，且不能用其他诊断来解释
+视力障碍
+视力障碍
+先兆子痫的其他诊断类别如下：
+HELLP 综合征被归类为先兆子痫的严重形式，当存在以下所有情况时即可诊断：乳酸脱氢酶 (LDH) ≥ 600 IU/L；氨基转移酶 > 正常值的 2 倍；血小板 < 100 × 109L。HELLP 综合征可能有非典型临床表现，多达 15% 的患者没有高血压或蛋白尿（2）。
+HELLP 综合征被归类为先兆子痫的严重形式，当存在以下所有情况时即可诊断：乳酸脱氢酶 (LDH) ≥ 600 IU/L；氨基转移酶 > 正常值的 2 倍；血小板 < 100 × 109L。HELLP 综合征可能有非典型临床表现，多达 15% 的患者没有高血压或蛋白尿（2）。
+慢性高血压合并子痫前期当已知患有慢性高血压的患者在 20 周后出现以下症状之一时，即可诊断：新的不明原因的蛋白尿或蛋白尿恶化；血压升高超过基线；或出现终末器官损害的迹象。患有慢性高血压的妇女是子痫前期的高危人群，应该密切监测。尿酸水平升高提示存在叠加先兆子痫，而不仅仅是慢性高血压（3）。
+慢性高血压合并子痫前期当已知患有慢性高血压的患者在 20 周后出现以下症状之一时，即可诊断：新的不明原因的蛋白尿或蛋白尿恶化；血压升高超过基线；或出现终末器官损害的迹象。患有慢性高血压的妇女是子痫前期的高危人群，应该密切监测。尿酸水平升高提示存在叠加先兆子痫，而不仅仅是慢性高血压（3）。
+患有任何类型先兆子痫的患者都有罹患子痫的风险。有时，子痫在先兆子痫诊断之前就发生了。
+子痫是新发的强直阵挛性、局灶性或多灶性癫痫，没有其他已知原因（例如癫痫、脑动脉缺血或梗塞、颅内出血或使用药物）。
+子痫是新发的强直阵挛性、局灶性或多灶性癫痫，没有其他已知原因（例如癫痫、脑动脉缺血或梗塞、颅内出血或使用药物）。
+如果怀疑患有先兆子痫，评估包括询问风险因素、当前症状以及任何提示其他疾病的病史或症状。体格检查包括测量血压和评估面部或上肢或下肢水肿、肺水肿、右上象限腹部压痛和反射亢进。如果出现阴道流血或规律性宫缩或计划引产，则进行盆腔检查。实验室检查包括全血细胞计数 (CBC)、血小板计数、尿酸、肝功能检查、血尿素氮 (BUN)、肌酐，如果肌酐异常，则检查肌酐清除率。使用试纸或尿液分析检查尿蛋白；如果不需要紧急分娩，则开始收集 24 小时尿液。
+胎儿评估采用无应激试验或生物物理评分（包括羊水量的评估），并测量以估计胎儿体重。
+
+【妊娠期其他高血压疾病】
+先兆子痫必须与妊娠期其他高血压疾病相鉴别（1）：
+妊娠高血压是指>妊娠 20 周新发的高血压，无蛋白尿或其他终末器官损害迹象；它在产后 12 周（通常是 6 周）消退。
+妊娠高血压是指>妊娠 20 周新发的高血压，无蛋白尿或其他终末器官损害迹象；它在产后 12 周（通常是 6 周）消退。
+慢性高血压是指妊娠前已存在的高血压，在孕<20周时存在，或持续至产后>6周（通常>12周）（即使首次发现高血压是在孕>20周）。慢性高血压可能因早孕期生理性血压降低而被掩盖。
+慢性高血压是指妊娠前已存在的高血压，在孕<20周时存在，或持续至产后>6周（通常>12周）（即使首次发现高血压是在孕>20周）。慢性高血压可能因早孕期生理性血压降低而被掩盖。
+
+【诊断参考】
+1.American College of Obstetrics and Gynecology (ACOG): ACOG Practice Bulletin, Number 222: Gestational Hypertension and Preeclampsia,Obstet Gynecol135(6):e237-e260, 2020.doi:10.1097/AOG.0000000000003891
+1.American College of Obstetrics and Gynecology (ACOG): ACOG Practice Bulletin, Number 222: Gestational Hypertension and Preeclampsia,Obstet Gynecol135(6):e237-e260, 2020.doi:10.1097/AOG.0000000000003891
+2.Martin JNJr, Rinehart BK, May WL, et al: The spectrum of severe preeclampsia: comparative analysis by HELLP (hemolysis, elevated liver enzyme levels, and low platelet count) syndrome classification.Am J Obstet Gynecol180: 1373– 84, 1999.doi:10.1016/s0002-9378(99)70022-0
+2.Martin JNJr, Rinehart BK, May WL, et al: The spectrum of severe preeclampsia: comparative analysis by HELLP (hemolysis, elevated liver enzyme levels, and low platelet count) syndrome classification.Am J Obstet Gynecol180: 1373– 84, 1999.doi:10.1016/s0002-9378(99)70022-0
+3.Lim KH, Friedman SA, Ecker JL, Kao L, Kilpatrick SJ: The clinical utility of serum uric acid measurements in hypertensive diseases of pregnancy.Am J Obstet Gynecol178(5):1067-1071, 1998.doi:10.1016/s0002-9378(98)70549-6
+3.Lim KH, Friedman SA, Ecker JL, Kao L, Kilpatrick SJ: The clinical utility of serum uric acid measurements in hypertensive diseases of pregnancy.Am J Obstet Gynecol178(5):1067-1071, 1998.doi:10.1016/s0002-9378(98)70549-6
+
+【子痫前期和子痫的治疗】
+通常需要住院
+通常需要住院
+分娩，取决于孕龄、胎儿状况和先兆子痫的严重程度等因素
+分娩，取决于孕龄、胎儿状况和先兆子痫的严重程度等因素
+硫酸镁可预防或治疗新的癫痫发作或防止癫痫复发
+硫酸镁可预防或治疗新的癫痫发作或防止癫痫复发
+如果患者符合严重高血压的标准，有时需要抗高血压治疗
+如果患者符合严重高血压的标准，有时需要抗高血压治疗
+
+【一般处理】
+子痫前期的确切治疗是终止妊娠。然而，早产风险与妊娠周龄、胎儿生长受限、胎儿窘迫和先兆子痫的严重程度是相平衡的。
+通常以下情况中，产妇情况稳定后（如控制抽搐，开始控制血压[BP]）应立即终止妊娠：
+孕周≥37周
+孕周≥37周
+孕周≥34周，有重度子痫前期的特征表现
+孕周≥34周，有重度子痫前期的特征表现
+肾、肺、心、肝功能恶化（如HELLP综合征）
+肾、肺、心、肝功能恶化（如HELLP综合征）
+胎儿监护或检查结果不佳/不乐观
+胎儿监护或检查结果不佳/不乐观
+有严重特征的子痫前期患者或子痫患者通常收住孕产妇特殊护理病房或重症监护室（ICU）。
+妊娠34 周至 < 37 周且无需立即分娩的患者，至少在最初阶段需住院接受评估。如果产妇和胎儿的状况令人放心，可进行门诊治疗；包括减少活动（适当休息）、监测血压、监测实验室指标、胎儿无应激试验及每周至少一次门诊随访。只要没有发展出具有严重特征的先兆子痫的标准，就可以在37周时分娩（例如，通过诱导）。
+对于妊娠< 34 周的情况，如果可以安全地延迟分娩，则给予皮质类固醇48 小时以加速胎儿肺的成熟。一些病情稳定的患者如果在妊娠早期没有使用皮质类固醇，可以在34周后和36周前（晚期早产）使用皮质类固醇。
+所有患有子痫前期的住院患者都应经常评估是否有严重特征的子痫前期、癫痫发作或阴道出血的证据；还需检查血压、反射和胎儿状况（通过无应激试验或生物物理评分）。监测血小板计数、血清肌酐和肝酶指标，稳定后至少每周测定一次。
+门诊患者通常由产科医生或母胎医学专家随访，每周至少进行一次评估，实验室检查与住院患者相同。门诊无压力测试通常每周进行两次，每周进行一次羊水指数评估，通常从孕 32 周开始。在某些情况下，可以在 28 周时提供此服务。
+患有先兆子痫但没有严重症状的患者在分娩前是否总是需要硫酸镁仍存在争议。
+如果患者有重度子痫前期的表现，应给予硫酸镁预防癫痫发作。一旦确诊子痫，必须给予硫酸镁防止癫痫反复发作。
+在20分钟内给予4g硫酸镁静点，随后以2g/小时的恒定静点输注。根据是否存在肾功能不全来调整剂量。产后 12-24 小时内给予硫酸镁。
+经硫酸镁治疗后出现极高镁水平和显著症状（如镁水平>10 mEq/L或反射反应性突然降低）、心功能不全（如呼吸困难或胸痛）或通气不足的患者，可静脉注射葡萄糖酸钙1g进行治疗。
+硫酸镁静脉给药可导致新生儿嗜睡、张力减退和短暂性呼吸抑制。然而，严重的新生儿并发症并不常见。
+
+【支持治疗】
+如果无法口服，住院患者给予静脉滴注林格氏乳酸盐液或0.9%氯化钠，起始速度为125mL/h（以维持血流动力学状态）。持续少尿者需在严密监测下进行补液试验。一般情况下不需要利尿剂。极少情况下需要用肺动脉导管进行监测，如需要，应与重症医学专家（或危重症专家）咨询，并在重症监护室（ICU）进行。血容量正常的无尿患者可能需要肾脏血管扩张剂或透析。
+如果硫酸镁仍无法控制抽搐，可予地西泮或劳拉西泮静脉注射；同时静脉滴注肼屈嗪或拉贝洛尔，剂量滴定至使收缩压降至140～155mmHg、舒张压降至90～105mmHg。
+
+【分娩方式】
+应采用最有效的分娩方式。如果宫颈条件良好，预计短时间内可经阴道分娩，可采用稀释的催产素静滴加速产程；如果进入分娩活跃期，行破膜处理。如果宫颈条件不佳，且无法短时间内经阴道分娩，应行剖宫产终止妊娠。子痫前期和子痫如果未能在分娩前缓解，通常会在产后6～12小时内缓解。
+应密切监测血压，直到产后血压恢复正常。患者应在产后每1～2周进行一次评估，定期测量血压。如果血压于产后6周仍处于较高水平，考虑慢性高血压可能，并应转至全科医生（或家庭医生）处进行管理。
+
+【产后先兆子痫】
+先兆子痫可能在分娩后发生。体征和症状与妊娠期间的先兆子痫相似，应建议妇女如果在产后出现这些症状，立即联系医生。检查与怀孕期间的检查类似，包括血压监测和实验室评估。对于符合严重先兆子痫标准的病例，患者需要住院接受 24 小时的静脉注射硫酸镁治疗，以防止癫痫发作。
+
+【治疗参考文献】
+1.American College of Obstetrics and Gynecology (ACOG): ACOG Practice Bulletin, Number 222: Gestational Hypertension and Preeclampsia,Obstet Gynecol135(6):e237-e260, 2020.doi:10.1097/AOG.0000000000003891
+1.American College of Obstetrics and Gynecology (ACOG): ACOG Practice Bulletin, Number 222: Gestational Hypertension and Preeclampsia,Obstet Gynecol135(6):e237-e260, 2020.doi:10.1097/AOG.0000000000003891
+随机试验的Meta分析显示，对具有某些风险因素的妇女进行低剂量阿司匹林治疗可降低严重子痫前期和胎儿生长受限的发生率（1,2)。
+对于有子痫前期高危因素的病人（以前怀孕时有子痫前期，多胎妊娠，肾脏疾病，自身免疫性疾病，1型或2型糖尿病，慢性高血压），建议使用小剂量阿司匹林（81毫克/天）(3)。对于具有 > 1 个中等风险因素（首次怀孕、母亲年龄≥ 35 岁、怀孕前体重指数 > 30、有先兆子痫病史的直系亲属、黑人女性[作为潜在种族主义的代表]、低收入、个人病史因素（如低出生体重或小于胎龄儿）、先前不良妊娠结局或妊娠间隔 > 10 年）的人也建议使用[4]）。一些证据表明，将阿司匹林剂量增加到每天 162 毫克可更有效地预防先兆子痫（5）。
+阿司匹林预防应在妊娠12至28周（最好在16周之前）开始，并持续到分娩。
+
+【预防参考文献】
+1.Roberge S, Nicolaides K, Demers S et al: The role of aspirin dose on the prevention of preeclampsia and fetal growth restriction: Systematic review and meta-analysis.Am J Obstet Gynecol216 (2):110–120.e6, 2017.doi: 10.1016/j.ajog.2016.09.076
+1.Roberge S, Nicolaides K, Demers S et al: The role of aspirin dose on the prevention of preeclampsia and fetal growth restriction: Systematic review and meta-analysis.Am J Obstet Gynecol216 (2):110–120.e6, 2017.doi: 10.1016/j.ajog.2016.09.076
+2.Meher S, Duley L, Hunter K, Askie L: Antiplatelet therapy before or after 16 weeks gestation for preventing preeclampsia: An individual participant data meta-analysis.Am J Obstet Gynecol216 (2):121–128.e2, 2017.doi: 10.1016/j.ajog.2016.10.016
+2.Meher S, Duley L, Hunter K, Askie L: Antiplatelet therapy before or after 16 weeks gestation for preventing preeclampsia: An individual participant data meta-analysis.Am J Obstet Gynecol216 (2):121–128.e2, 2017.doi: 10.1016/j.ajog.2016.10.016
+3.American College of Obstetrics and Gynecology (ACOG): ACOG Committee Opinion No. 743 Summary: Low-Dose Aspirin Use During Pregnancy.Obstet Gynecol132(1):254-256, 2018.重申2023年。doi:10.1097/AOG.0000000000002709
+3.American College of Obstetrics and Gynecology (ACOG): ACOG Committee Opinion No. 743 Summary: Low-Dose Aspirin Use During Pregnancy.Obstet Gynecol132(1):254-256, 2018.重申2023年。doi:10.1097/AOG.0000000000002709
+4.American College of Obstetrics and Gynecology (ACOG): ACOG Practice Bulletin, Number 222: Gestational Hypertension and Preeclampsia.Obstet Gynecol135(6):e237-e260, 2020.doi:10.1097/AOG.0000000000003891
+4.American College of Obstetrics and Gynecology (ACOG): ACOG Practice Bulletin, Number 222: Gestational Hypertension and Preeclampsia.Obstet Gynecol135(6):e237-e260, 2020.doi:10.1097/AOG.0000000000003891
+5.Ayyash M, Goyert G, Garcia R, et al: Efficacy and Safety of Aspirin 162 mg for Preeclampsia Prophylaxis in High-Risk Patients.Am J Perinatol.Published online July 29, 2023.doi:10.1055/s-0043-1771260
+5.Ayyash M, Goyert G, Garcia R, et al: Efficacy and Safety of Aspirin 162 mg for Preeclampsia Prophylaxis in High-Risk Patients.Am J Perinatol.Published online July 29, 2023.doi:10.1055/s-0043-1771260
+先兆子痫是妊娠20周后出现蛋白尿的新发高血压，子痫是先兆子痫患者不明原因的全身性癫痫发作；先兆子痫有时在产后发生。
+先兆子痫是妊娠20周后出现蛋白尿的新发高血压，子痫是先兆子痫患者不明原因的全身性癫痫发作；先兆子痫有时在产后发生。
+先兆子痫与慢性高血压和妊娠期高血压的区别在于新发蛋白尿和/或终末器官损伤的存在。
+先兆子痫与慢性高血压和妊娠期高血压的区别在于新发蛋白尿和/或终末器官损伤的存在。
+如果先兆子痫导致严重的持续性高血压和/或明显的器官功能障碍（如肾功能不全、肝功能受损、肺水肿、视觉症状），即使在没有蛋白尿的情况下也是严重的。
+如果先兆子痫导致严重的持续性高血压和/或明显的器官功能障碍（如肾功能不全、肝功能受损、肺水肿、视觉症状），即使在没有蛋白尿的情况下也是严重的。
+HELLP 综合征（溶血、肝酶升高、血小板减少）是一种相关疾病，发生在 10% 到 20% 的患有严重先兆子痫或子痫的女性中。
+HELLP 综合征（溶血、肝酶升高、血小板减少）是一种相关疾病，发生在 10% 到 20% 的患有严重先兆子痫或子痫的女性中。
+评估并密切监测母亲和胎儿，通常在医院的孕产妇特别护理单元，但有时对于妊娠<37周的轻度病例也可以进行门诊监测。
+评估并密切监测母亲和胎儿，通常在医院的孕产妇特别护理单元，但有时对于妊娠<37周的轻度病例也可以进行门诊监测。
+当妊娠≥37周时需要分娩，但如果在<34周时诊断出先兆子痫，则尽可能延迟分娩（以便有时间提高胎儿肺的成熟度）；如果诊断出有严重特征的先兆子痫，HELLP综合征或子痫，则应立即分娩。
+当妊娠≥37周时需要分娩，但如果在<34周时诊断出先兆子痫，则尽可能延迟分娩（以便有时间提高胎儿肺的成熟度）；如果诊断出有严重特征的先兆子痫，HELLP综合征或子痫，则应立即分娩。
+立即用硫酸镁治疗子痫，以防止癫痫复发；对于有严重特征的子痫前期的妇女，考虑用硫酸镁来预防癫痫发作，但对于轻度子痫前期的妇女，通常不考虑。
+立即用硫酸镁治疗子痫，以防止癫痫复发；对于有严重特征的子痫前期的妇女，考虑用硫酸镁来预防癫痫发作，但对于轻度子痫前期的妇女，通常不考虑。
+如果为预防癫痫发作而给予硫酸镁，在分娩后继续12至24小时。
+如果为预防癫痫发作而给予硫酸镁，在分娩后继续12至24小时。
+从12至28周开始给有某些危险因素的妇女服用低剂量阿司匹林，以减少先兆子痫的风险，最好是在16周之前。
+从12至28周开始给有某些危险因素的妇女服用低剂量阿司匹林，以减少先兆子痫的风险，最好是在16周之前。

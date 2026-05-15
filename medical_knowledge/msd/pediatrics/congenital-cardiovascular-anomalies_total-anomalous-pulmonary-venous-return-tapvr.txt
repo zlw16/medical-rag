@@ -1,0 +1,48 @@
+标题：完全性肺静脉异位引流（TAPVR）
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-cardiovascular-anomalies/total-anomalous-pulmonary-venous-return-tapvr
+============================================================
+
+（另见先天性心血管畸形概述）
+完全性肺静脉异位引流（TAPVR- 见图完全性肺静脉异位引流）占先天性心脏畸形的1%~2%。临床表现取决于肺静脉和右心循环的汇流情况。最常见的类型包括
+通过左垂直升支静脉回流至无名静脉或上腔静脉（心上型 TAPVR）
+通过左垂直升支静脉回流至无名静脉或上腔静脉（心上型 TAPVR）
+通过一支下行的静脉汇入膈下的门静脉循环（心下型TAPVR）
+通过一支下行的静脉汇入膈下的门静脉循环（心下型TAPVR）
+肺静脉汇合处与冠状窦的连接（心型 TAPVR）
+肺静脉汇合处与冠状窦的连接（心型 TAPVR）
+膈下引流型会造成严重的梗阻，导致严重的肺水肿以及出生不久后出现对吸氧无反应的紫绀。另外两种类型尚不会有梗阻，在出生后1个月左右会出现轻度至中度心力衰竭和轻度发绀。
+
+【完全性肺静脉异位引流】
+完全性肺静脉异位引流
+肺静脉不与左心房连接; 相反，整个肺静脉回流通过各种连接进入全身静脉循环。体循环的血流取决于右心房水平右向左的分流量。
+AO=主动脉；IVC=下腔静脉；LA=左心房；LV=左心室；PA=肺动脉；PV=肺静脉；RA=右心房；RV=右心室；SVC=上腔静脉。
+
+【TAPVR的症状和体征】
+新生儿肺静脉引流部位如合并严重的梗阻，则会出现呼吸窘迫、肺水肿和明显的紫绀。查体可及胸骨旁抬举和单纯性S2增强，不伴明显的杂音。
+如果肺静脉回流不受阻，则可能会出现轻微心力衰竭的症状。某些无梗阻的心上型或心脏型完全性肺静脉异位引流的婴儿可无症状。
+体格检查可发现心前区动力亢进，S2 广泛分裂，有时伴有响亮的肺部成分，沿胸骨左缘可听到 2 至 3/6 级收缩期射血杂音(见表心脏杂音强度)。胸骨左下缘可听到舒张中期三尖瓣血流杂音。
+
+【TAPVR的诊断】
+胸部X线检查
+胸部X线检查
+超声心动图
+超声心动图
+通过胸片怀疑，最终根据超声心动图可确诊完全性肺静脉异位引流。心导管诊断很少采用，心脏MRI或CTA可用来更好地描绘肺静脉引流的具体解剖。
+胸片示心脏偏小以及当有肺静脉梗阻时严重的弥漫性肺水肿；其他情况下则会有心脏增大伴增多的血管影。在心上型完全性肺静脉异常回流中，异常静脉通路会在心脏上方形成第二个圆形阴影，通常类似于雪人的外观。
+心电图显示右轴偏移、右心室肥大，偶尔右心房扩大。
+
+【TAPVR的治疗】
+外科手术修复
+外科手术修复
+手术前对心力衰竭进行药物治疗（如利尿剂、地高辛、血管紧张素转换酶抑制剂）。
+手术前对心力衰竭进行药物治疗（如利尿剂、地高辛、血管紧张素转换酶抑制剂）。
+患有完全异常肺静脉回流且阻塞的新生儿需要紧急手术修复。较大的婴儿，应治疗心力衰竭，待病情稳定后尽快进行手术修复。
+手术修复包括在肺静脉汇合处和左心房后壁之间形成广泛的吻合。 结扎静脉减压汇合进入全身静脉循环对于防止术后左向右分流很重要。 对于引流入冠状窦类型的修复与前者不同，包括将冠状窦向左心房开窗以及关闭其向右心房的开口。
+对于感染性心内膜炎的预防，建议术前预防，但除非有毗邻手术补片或假体材料存在残留分流，否则只要求在修复后的前6个月内进行预防。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+American Heart Association: Common Heart Defects: Provides overview of common congenital heart defects for parents and caregivers
+American Heart Association: Common Heart Defects: Provides overview of common congenital heart defects for parents and caregivers
+American Heart Association: Infective Endocarditis: Provides an overview of infective endocarditis, including summarizing prophylactic antibiotic use, for patients and caregivers
+American Heart Association: Infective Endocarditis: Provides an overview of infective endocarditis, including summarizing prophylactic antibiotic use, for patients and caregivers

@@ -1,0 +1,6 @@
+标题：药物治疗学概念介绍
+来源：https://www.msdmanuals.cn/professional/clinical-pharmacology/concepts-in-pharmacotherapy/introduction-to-concepts-in-pharmacotherapy
+============================================================
+
+治疗药物的选择与反应取决于适应症、药物特性（例如，疗效、安全性、给药途径、消除途径、给药频率、成本）以及患者特征（例如，年龄、性别、合并症、其他用药情况，有时还包括体重、种族、遗传因素或当前或计划妊娠状态）。
+用药错误（例如，处方不当、误读医嘱、错误给药）和药物相互作用也会影响反应。

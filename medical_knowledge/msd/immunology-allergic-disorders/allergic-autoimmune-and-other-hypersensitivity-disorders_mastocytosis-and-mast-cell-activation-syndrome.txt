@@ -1,0 +1,177 @@
+标题：肥大细胞增多症与肥大细胞活化综合征
+来源：https://www.msdmanuals.cn/professional/immunology-allergic-disorders/allergic-autoimmune-and-other-hypersensitivity-disorders/mastocytosis-and-mast-cell-activation-syndrome
+============================================================
+
+(参见过敏和过敏性疾病概述。）
+肥大细胞增多症是一类以肥大细胞浸润皮肤和（或）其他组织为特征的疾病。因为释放肥大细胞介质而引起病理变化，这些介质包括：组胺、肝素、白三烯和许多其他的炎症介质。组胺引起许多症状，包括胃肠道症状，其他介质也起到一定作用。严重的浸润会引起器官功能障碍。介质释放的诱因可能是物理接触、运动、酒精、非甾体类抗炎药(NSAIDs）、类罂粟碱、昆虫叮咬或食物。
+许多肥大细胞增多症的病因涉及肥大细胞上存在的干细胞因子受体c-kit编码基因的激活突变（D816V）。其结果是该受体自身磷酸化，导致肥大细胞增殖失去控制。
+
+【肥大细胞增多症的分类】
+肥大细胞增多症可以只侵犯表皮，也可以是全身性的。
+
+【皮肤型肥大细胞增多症】
+皮肤肥大细胞增多症主要发生在儿童。多数患者表现为色素性荨麻疹，局部或广泛分布，或者许多小型的肥大细胞聚集形成咖啡色斑丘疹。也可表现为结节性病变或斑块。少数患者表现为弥漫性肥大细胞增生病，在广泛皮肤浸润的基础上有单个的肥大细胞瘤，直径1～5cm。
+儿童皮肤型的肥大细胞增多症很少会进展为全身型，但是成人则可能。
+该图像显示了特征性肥大细胞瘤。
+该图像显示了皮肤肥大细胞增多症的斑块样外观。
+病变由红棕色、不规则斑块组成，摩擦时会出现荨麻疹（Darier 征）。
+病变由红棕色、不规则斑块组成，摩擦时会出现荨麻疹（Darier 征）。
+By permission of the publisher.摘自 Joe E, Soter N.InCurrent Dermatologic Diagnosis and Treatment, edited by I Freedberg, IM Freedberg, and MR Sanchez.Philadelphia, Current Medicine, 2001.
+这里显示的婴儿有大量的丘疹结节性和色素性荨麻疹斑块病变。
+这里显示的婴儿有大量的丘疹结节性和色素性荨麻疹斑块病变。
+© Springer Science+Business Media
+这张照片显示了一个学龄孩子的背部出现红褐色斑疹。
+这张照片显示了一个学龄孩子的背部出现红褐色斑疹。
+© Springer Science+Business Media
+此图像显示黄褐色至红褐色斑疹和色素性荨麻疹丘疹。
+此图像显示黄褐色至红褐色斑疹和色素性荨麻疹丘疹。
+Image courtesy of Karen McKoy, MD.
+色素性荨麻疹可能表现为皮肤上的红色斑块状病变。
+色素性荨麻疹可能表现为皮肤上的红色斑块状病变。
+© Springer Science+Business Media
+病变由红棕色、不规则斑块组成，摩擦时会出现荨麻疹（Darier 征）。
+病变由红棕色、不规则斑块组成，摩擦时会出现荨麻疹（Darier 征）。
+By permission of the publisher.摘自 Joe E, Soter N.InCurrent Dermatologic Diagnosis and Treatment, edited by I Freedberg, IM Freedberg, and MR Sanchez.Philadelphia, Current Medicine, 2001.
+这里显示的婴儿有大量的丘疹结节性和色素性荨麻疹斑块病变。
+这里显示的婴儿有大量的丘疹结节性和色素性荨麻疹斑块病变。
+© Springer Science+Business Media
+这张照片显示了一个学龄孩子的背部出现红褐色斑疹。
+这张照片显示了一个学龄孩子的背部出现红褐色斑疹。
+© Springer Science+Business Media
+此图像显示黄褐色至红褐色斑疹和色素性荨麻疹丘疹。
+此图像显示黄褐色至红褐色斑疹和色素性荨麻疹丘疹。
+Image courtesy of Karen McKoy, MD.
+色素性荨麻疹可能表现为皮肤上的红色斑块状病变。
+色素性荨麻疹可能表现为皮肤上的红色斑块状病变。
+© Springer Science+Business Media
+
+【全身型肥大细胞增多症】
+全身性肥大细胞增多症最常见于成年人，其特征是多灶性骨髓病变；它通常涉及其他器官，最常见的是皮肤、淋巴结、肝脏、脾脏和/或胃肠道。
+全身型肥大细胞增多症可分为
+缓进性的肥大细胞增多症，无器官功能障碍且预后较好
+缓进性的肥大细胞增多症，无器官功能障碍且预后较好
+肥大细胞增多症常伴血液系统疾病（如骨髓增生性疾病、脊髓发育不良、淋巴瘤）
+肥大细胞增多症常伴血液系统疾病（如骨髓增生性疾病、脊髓发育不良、淋巴瘤）
+侵袭性肥大细胞增多症，有器官功能受损
+侵袭性肥大细胞增多症，有器官功能受损
+肥大细胞白血病，骨髓中肥大细胞超过20%，无皮肤损害，有多器官衰竭，预后不良
+肥大细胞白血病，骨髓中肥大细胞超过20%，无皮肤损害，有多器官衰竭，预后不良
+
+【肥大细胞活化综合征】
+肥大细胞活化综合征的特征是肥大细胞活化增加和不适当，释放介质，但没有肥大细胞的克隆增殖或器官浸润（1个)。 该综合征最初只有在介质释放是特发性时才被诊断出来，但后来它被扩展到包括由过敏原特异性IgE、某些药物或物理因素引发的释放。遗传原因被怀疑，但尚未得到证实。大多数病例不涉及肥大细胞的克隆增殖，而是由于肥大细胞脱颗粒的阈值较低。肥大细胞活化综合症经常与体位性直立性心动过速综合征 (POTS)和埃勒斯-当洛斯综合征有关, 但其联系的性质尚不清楚。
+肥大细胞活化综合征的表现通常与系统性肥大细胞增多症患者的表现相似；它们包括心动过速、晕厥、荨麻疹、潮红、恶心、呕吐和脑雾。
+目前尚不清楚肥大细胞活化综合征是否会发展为全身肥大细胞增多症或其他形式的肥大细胞疾病，如果是，有多少患者会受到影响。
+
+【分类参考文献】
+1.Weiler CR, Austen KF, Akin C, et al: AAAAI Mast Cell Disorders Committee Work Group Report: Mast cell activation syndrome (MCAS) diagnosis and management.J Allergy Clin Immunol144 (4):883–896, 2019.doi: 10.1016/j.jaci.2019.08.023
+1.Weiler CR, Austen KF, Akin C, et al: AAAAI Mast Cell Disorders Committee Work Group Report: Mast cell activation syndrome (MCAS) diagnosis and management.J Allergy Clin Immunol144 (4):883–896, 2019.doi: 10.1016/j.jaci.2019.08.023
+
+【肥大细胞增多症的症状和体征】
+肥大细胞增多症皮肤受累通常表现为瘙痒，无论是单一的肥大细胞瘤还是弥漫性疾病。以下可能会加剧瘙痒：
+温度变化
+温度变化
+与衣服或其他材料接触
+与衣服或其他材料接触
+一些药物的使用，包括非甾体抗炎药（NSAIDs）
+一些药物的使用，包括非甾体抗炎药（NSAIDs）
+摄入热饮料，辛辣食物或酒精
+摄入热饮料，辛辣食物或酒精
+皮肤搔抓试验可在皮损周围出现荨麻疹和红斑（Darier征）；这一反应区别于皮肤划痕征，后者见于正常皮肤。
+这张照片显示了病变部位周围暂时性荨麻疹肿胀的特征发现，称为 Darier 征。
+© Springer Science+Business Media
+全身表现形式多样。最常见的是冲洗；最引人注目的是类过敏和过敏反应伴有晕厥和休克。
+其他症状包括消化性溃疡引起的上腹痛、恶心（因为组胺刺激胃酸产生）、呕吐、慢性腹泻、关节痛、骨痛和神经精神变化（如易怒、抑郁、情绪不稳定）。肝脾浸润可导致门静脉高压伴腹水。
+
+【肥大细胞增多症的诊断】
+病史和体格检查
+病史和体格检查
+骨髓活检
+骨髓活检
+血清类胰蛋白酶水平（基线和症状期间，如果可能）
+血清类胰蛋白酶水平（基线和症状期间，如果可能）
+
+【全身型肥大细胞增多症】
+肥大细胞增多症的诊断根据临床表现。然而，类似的症状可能由许多其他疾病引起，例如类癌综合征,血管活性肠肽瘤,胃泌素瘤（Zollinger-Ellison 综合征）和慢性荨麻疹。
+大多数患者的诊断需要骨髓活检和类胰蛋白酶水平（肥大细胞脱颗粒的标志物）。皮肤活检可以用来检查肥大细胞，但这种测试并不能取代骨髓活检来分类诊断和分期的需要。
+当满足一个主要标准和至少一个次要标准或≥3（4）个次要标准时，即可确诊肥大细胞增多症。
+主要的标准是
+骨髓（首选）或其他皮外器官（胃肠道、淋巴结、肝脏或脾脏除外）中存在>15个肥大细胞的多灶性致密聚集体
+骨髓（首选）或其他皮外器官（胃肠道、淋巴结、肝脏或脾脏除外）中存在>15个肥大细胞的多灶性致密聚集体
+4个次要标准是
+骨髓活检切片或抽吸液中>25%的肥大细胞有不典型的形态或纺锤形
+骨髓活检切片或抽吸液中>25%的肥大细胞有不典型的形态或纺锤形
+在骨髓、外周血或其他组织中的816号密码子（通常是Asp816Val）的配套突变
+在骨髓、外周血或其他组织中的816号密码子（通常是Asp816Val）的配套突变
+表达表面标志物CD2、CD25或两者的骨髓或其他皮外肥大细胞
+表达表面标志物CD2、CD25或两者的骨髓或其他皮外肥大细胞
+基线血清胰蛋白酶水平>20纳克/毫升（>20微克/升）；在大多数诊断实验室中，数值>11.4纳克/毫升（11.4微克/升）被认为是升高的
+基线血清胰蛋白酶水平>20纳克/毫升（>20微克/升）；在大多数诊断实验室中，数值>11.4纳克/毫升（11.4微克/升）被认为是升高的
+类胰蛋白酶的基线水平在全身肥大细胞增多症中升高，但在皮肤肥大细胞增多和肥大细胞活化综合征中通常正常。
+
+【肥大细胞活化综合征】
+肥大细胞活化综合征的诊断需要满足所有 3 个标准（1)：
+与肥大细胞脱颗粒和肥大细胞介质释放相符的症状
+与肥大细胞脱颗粒和肥大细胞介质释放相符的症状
+实验室证据表明血清或尿液中肥大细胞介质增加，例如在高于基线 20% + 2 ng/mL 的事件期间血清类胰蛋白酶增加，或尿液代谢物增加，例如 N-甲基组胺、前列腺素 D2 或白三烯 E4（2）
+实验室证据表明血清或尿液中肥大细胞介质增加，例如在高于基线 20% + 2 ng/mL 的事件期间血清类胰蛋白酶增加，或尿液代谢物增加，例如 N-甲基组胺、前列腺素 D2 或白三烯 E4（2）
+抗肥大细胞疗法的临床反应积极
+抗肥大细胞疗法的临床反应积极
+如果做骨髓活检，肥大细胞激活的病人通常有正常的骨髓活检。
+如果诊断不确定，可以在血浆和尿液中测量肥大细胞介质及其代谢产物（如24 小时N-甲基组胺、前列腺素 D2、白三烯 E4) 的水平；水平升高支持肥大细胞疾病的诊断，但不一定支持系统性肥大细胞增多症。
+骨骼扫描和胃肠道评估在诊断需要确认的情况下也有帮助。
+
+【诊断参考】
+1.Valent P, Akin C, Hartmann K, et al: Updated Diagnostic Criteria and Classification of Mast Cell Disorders: A Consensus Proposal.Hemasphere5(11):e646, 2021.doi:10.1097/HS9.0000000000000646
+1.Valent P, Akin C, Hartmann K, et al: Updated Diagnostic Criteria and Classification of Mast Cell Disorders: A Consensus Proposal.Hemasphere5(11):e646, 2021.doi:10.1097/HS9.0000000000000646
+2.Leru PM, Anton VF, Ureche C, Zurac S, Bratu O, Neagoe CD: Mast cell activation syndromes - evaluation of current diagnostic criteria and laboratory tools in clinical practice (Review).Exp Ther Med20(3):2348–2351, 2020.doi:10.3892/etm.2020.8947
+2.Leru PM, Anton VF, Ureche C, Zurac S, Bratu O, Neagoe CD: Mast cell activation syndromes - evaluation of current diagnostic criteria and laboratory tools in clinical practice (Review).Exp Ther Med20(3):2348–2351, 2020.doi:10.3892/etm.2020.8947
+
+【肥大细胞增多症的治疗】
+对于皮肤肥大细胞增多症，采用H1阻滞剂和可能的补骨脂素加紫外线照射，或局部用皮质类固醇激素。
+对于皮肤肥大细胞增多症，采用H1阻滞剂和可能的补骨脂素加紫外线照射，或局部用皮质类固醇激素。
+对于全身肥大细胞增多症和肥大细胞活化综合征，H1和H2阻断剂、色甘酸和酮替芬、孟鲁司特、阿司匹林
+对于全身肥大细胞增多症和肥大细胞活化综合征，H1和H2阻断剂、色甘酸和酮替芬、孟鲁司特、阿司匹林
+对于侵袭性形式，米多他林、阿伐普替尼、干扰素α-2b、皮质类固醇或脾切除术
+对于侵袭性形式，米多他林、阿伐普替尼、干扰素α-2b、皮质类固醇或脾切除术
+
+【皮肤型肥大细胞增多症】
+H1拮抗剂对控制症状有效。儿童的皮肤症状不需要额外治疗，多数患者能自行消退。
+成人皮肤症状用补骨脂素加紫外光照，或者局部用皮质激素每日1次或2次。
+肥大细胞瘤通常会自行消退，无需治疗。
+
+【全身型肥大细胞增多症】
+过敏反应的处理包括肠外肾上腺素、吸入β-兴奋剂治疗喘息，以及静脉输液治疗低血压。
+所有全身性肥大细胞增多症患者均应使用H1和H2阻断剂治疗，并应携带预充式自行注射肾上腺素注射器。
+阿司匹林可以控制面部潮红，但可能促进白三烯的产生，因而与其他肥大细胞相关症状有关。因为该药有导致Reye综合征的风险，不应当用于儿童。
+色甘酸钠可能通过防止肥大细胞脱颗粒起到作用。酮替芬也可能有效。尚无使组织内肥大细胞减少的有效治疗方法。
+奥马珠单抗是一种抗IgE抗体，有时用于中度至重度哮喘和慢性荨麻疹；有时也用于肥大细胞病或肥大细胞激活综合征患者，以试图防止过敏性休克。
+对于具有侵袭性肥大细胞增多症的患者中，其特征是肥大细胞在不同器官中的积累增加，导致功能障碍，多激酶抑制剂 midostaurin 或 avapritinib（1) 可用于帮助控制终末器官损伤、细胞减少和骨髓中的肥大细胞累积 (2)。
+阿伐替尼也可用于治疗惰性肥大细胞增多症的症状管理（3）。
+干扰素 alfa-2b 可诱导骨病变消退。严重病例可能需要皮质类固醇 作为辅助治疗。
+细胞毒药物（如：柔红霉素、依托泊苷、6-巯基嘌呤）可用于治疗肥大细胞性白血病，但是尚未证实其疗效。用伊马替尼（酪氨酸激酶受体抑制物）在治疗成人侵袭性系统性肥大细胞增多症时有效，但对存在c-kit基因D816V突变的患者无效。
+
+【肥大细胞活化综合征】
+治疗旨在防止介质释放（例如，用色甘酸和/或酮替芬），并用H1和H2阻断剂阻断组胺、阿司匹林阻断前列腺素和孟鲁司特阻断白三烯的某些方案阻断介质作用。
+应避免已知的诱发因素。
+
+【治疗参考文献】
+1.Radia D, Deininger M, Gotlib J, et al:Avapritinib, a potent and selective inhibitor ofKITD816V, induces complete and durable responses in patients (pts) with advanced systemic mastocytosis (AdvSM).EHA Library 2019;267413:S830.
+1.Radia D, Deininger M, Gotlib J, et al:Avapritinib, a potent and selective inhibitor ofKITD816V, induces complete and durable responses in patients (pts) with advanced systemic mastocytosis (AdvSM).EHA Library 2019;267413:S830.
+2.Gotlib J, Kluin-Nelemans HC, George TI, et al: Efficacy and safety ofmidostaurinin advanced systemic mastocytosis.N Engl J Med374 (26):2530–2541, 2016.doi: 10.1056/NEJMoa1513098
+2.Gotlib J, Kluin-Nelemans HC, George TI, et al: Efficacy and safety ofmidostaurinin advanced systemic mastocytosis.N Engl J Med374 (26):2530–2541, 2016.doi: 10.1056/NEJMoa1513098
+3.Gotlib J, Castells M, Elberink HO, et al:Avapritinibversus Placebo in Indolent Systemic Mastocytosis.NEJM Evid2(6):EVIDoa2200339, 2023.doi:10.1056/EVIDoa2200339
+3.Gotlib J, Castells M, Elberink HO, et al:Avapritinibversus Placebo in Indolent Systemic Mastocytosis.NEJM Evid2(6):EVIDoa2200339, 2023.doi:10.1056/EVIDoa2200339
+皮肤型肥大细胞增多症，主要发生在儿童，典型表现为鲜肉色或咖啡色弥散，有瘙痒斑丘疹。
+皮肤型肥大细胞增多症，主要发生在儿童，典型表现为鲜肉色或咖啡色弥散，有瘙痒斑丘疹。
+系统性肥大细胞增多症引起多发性骨髓病变，常见于成人，但往往会影响其他器官。
+系统性肥大细胞增多症引起多发性骨髓病变，常见于成人，但往往会影响其他器官。
+所有类型均可导致全身症状（大多数为面部潮红，有时为过敏样反应）。
+所有类型均可导致全身症状（大多数为面部潮红，有时为过敏样反应）。
+对于皮肤型肥大细胞增多症，使用H1 拮抗剂缓解症状，成人可以考虑使用补骨脂素加紫外线照射，或者局部用皮质激素治疗。
+对于皮肤型肥大细胞增多症，使用H1 拮抗剂缓解症状，成人可以考虑使用补骨脂素加紫外线照射，或者局部用皮质激素治疗。
+对于系统性肥大细胞增多症，使用H1和H2阻断剂，有时使用色甘酸；对于侵袭性肥大细胞增生症，考虑使用米多他林、阿伐普替尼、干扰素α-2b、全身皮质类固醇。
+对于系统性肥大细胞增多症，使用H1和H2阻断剂，有时使用色甘酸；对于侵袭性肥大细胞增生症，考虑使用米多他林、阿伐普替尼、干扰素α-2b、全身皮质类固醇。
+对于肥大细胞活化综合征，使用抗组胺药、白三烯抑制剂和肥大细胞稳定剂在活化过程中释放的靶介质。
+对于肥大细胞活化综合征，使用抗组胺药、白三烯抑制剂和肥大细胞稳定剂在活化过程中释放的靶介质。
+确保每个肥大细胞增多症的患者携带自动肾上腺素注射笔。
+确保每个肥大细胞增多症的患者携带自动肾上腺素注射笔。

@@ -1,0 +1,92 @@
+标题：急性肠系膜缺血
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/acute-abdomen-and-surgical-gastroenterology/acute-mesenteric-ischemia
+============================================================
+
+(参见急性腹痛。)
+
+【急性肠系膜缺血的病理生理学】
+肠黏膜的代谢率很高，血流供给需要量大（正常情况下接受20%～25%的心排出量），对低灌注状况非常敏感。缺血破坏了黏膜屏障，允许细菌、毒素和血管活性介质释放，后者导致心肌功能抑制、全身炎症反应综合征，多系统器官衰竭和死亡。甚至在肠道完全梗死之前已有炎性介质释放。
+症状发生后6小时即可发生肠道坏死。
+
+【急性肠系膜缺血的病因】
+腹腔器官三大主要血管:
+腹腔干供应食管、胃、近端十二指肠、肝、胆囊、胰腺及脾脏的血供。
+腹腔干供应食管、胃、近端十二指肠、肝、胆囊、胰腺及脾脏的血供。
+肠系膜上动脉（SMA）供应十二指肠远端、空肠、回肠及结肠脾曲。
+肠系膜上动脉（SMA）供应十二指肠远端、空肠、回肠及结肠脾曲。
+肠系膜下动脉（IMA）供应降结肠、乙状结肠及直肠。
+肠系膜下动脉（IMA）供应降结肠、乙状结肠及直肠。
+胃、十二指肠和直肠侧支循环丰富；这些部位极少发生缺血。脾曲是肠系膜上动脉与肠系膜下动脉血供的分水岭，尤其易发生缺血。需注意急性肠系膜缺血与缺血性结肠炎不同，后者只累及小血管，导致主要是粘膜坏死和出血。
+肠系膜血流的中断可以发生在动脉侧或静脉侧。一般来说，年龄≥50岁患者发生急性肠系膜缺血的风险最大，闭塞类型及危险因素见表格急性肠系膜缺血病因。但许多患者并无确切危险因素。
+
+【急性肠系膜缺血病因】
+急性肠系膜缺血病因
+闭塞类型
+危险因素
+动脉栓塞（> 40 %）
+冠心病、心衰、心脏瓣膜病,房颤、既往动脉栓塞史
+动脉血栓形成（30 %）
+全身动脉粥样硬化
+静脉血栓形成（15 %）
+高凝状态、炎症状态（如胰腺炎、憩室炎）、创伤、心衰、肾衰、门脉高压、减压病
+非闭塞性缺血（15 %）
+低血流状态（如，心衰、休克、体外循环）及内脏血管收缩（如，血管加压素、可卡因）
+部分数据来自Lendzion RJ, Frahm-Jensen G, Keck J。Acute Mesenteric Ischemia.Clin Colon Rectal Surg.2022;35(3):227-236.Published 2022 Aug 12.doi:10.1055/s-0042-1743283.
+部分数据来自Lendzion RJ, Frahm-Jensen G, Keck J。Acute Mesenteric Ischemia.Clin Colon Rectal Surg.2022;35(3):227-236.Published 2022 Aug 12.doi:10.1055/s-0042-1743283.
+
+【急性肠系膜缺血的症状和体征】
+肠系膜缺血早期标志性特征为剧烈疼痛，但体征不明显。腹软，压痛轻微或无。可有轻度心动过速。后期，随坏死逐渐发生，出现腹膜炎体征，伴明显腹部压痛、肌卫、肌强直及肠鸣音消失。粪隐血阳性，并随缺血程度的加重而增加。发生休克表现，后通常死亡。
+腹痛骤然起病提示动脉栓塞可能，而逐渐起病可为静脉血栓形成。餐后腹部不适者（提示肠绞痛）可能有动脉血栓形成。
+
+【急性肠系膜缺血的诊断】
+相比诊断性检查，临床诊断更为重要。
+相比诊断性检查，临床诊断更为重要。
+如果诊断不明，可行肠系膜血管造影或CT血管造影。
+如果诊断不明，可行肠系膜血管造影或CT血管造影。
+此图中，箭头指向肠系膜上动脉，其静脉造影剂灌注突然中断。可见左腹部小肠有一些增厚。该栓塞病例来自心房颤动患者的心脏。
+Image provided by Parswa Ansari, MD.
+早期诊断肠系膜缺血尤其重要，因一旦发生肠段梗死，死亡率急剧增高 (1)。对任何年龄>50岁、伴已知危险因素或易感因素者，若骤然起病剧烈腹痛，必须考虑肠系膜缺血可能。
+腹膜炎体征明确者，应直接进行外科探查，同时进行诊断与治疗。对于其余患者，选择性肠系膜血管造影或CT血管造影是首选的诊断方法。如果有标准静脉对比剂的禁忌症，可以使用磁共振血管造影。
+其他影像学检查及血清学标记亦可见异常，但在疾病早期，敏感性及特异性较低，而此刻恰是确诊的关键时期。腹部平片主要用于排除其他疼痛病因（如消化道穿孔），不过疾病晚期可能观察到门静脉积气或肠壁积气。上述异常亦可见于CT，CT可直接显示血管阻塞——在静脉侧显示更为准确。多普勒超声有时能发现动脉闭塞，但敏感性低。MRI对于发现近端血管闭塞准确度高，但对远端血管闭塞则较低。
+血清学标记物（如，肌酸磷酸激酶、乳酸）随坏死进展而升高，但非特异，且出现较晚。
+
+【诊断参考文献】
+1.Bala M, Catena F, Kashuk J, et al: Acute mesenteric ischemia: Updated guidelines of the World Society of Emergency Surgery.World J Emerg Surg17(1):54, 2022.doi: 10.1186/s13017-022-00443-x
+1.Bala M, Catena F, Kashuk J, et al: Acute mesenteric ischemia: Updated guidelines of the World Society of Emergency Surgery.World J Emerg Surg17(1):54, 2022.doi: 10.1186/s13017-022-00443-x
+
+【急性肠系膜缺血的治疗】
+静脉补液及抗生素
+静脉补液及抗生素
+外科：取栓术、血管重建，伴或不伴肠段切除。
+外科：取栓术、血管重建，伴或不伴肠段切除。
+血管造影：血管扩张剂或溶栓治疗。
+血管造影：血管扩张剂或溶栓治疗。
+长期抗凝和抗血小板治疗。
+长期抗凝和抗血小板治疗。
+应通过静脉输液对患者进行复苏，以改善内脏灌注。应开始使用广谱抗生素。
+若剖腹探查确诊，可选用手术取栓、血管再通及切除肠段。可能需要二次剖腹探查，重新评估肠管可疑区域的活力。
+如果通过血管造影诊断，通过血管造影导管输注血管扩张剂罂粟碱可以提高非闭塞性缺血患者的生存率 (1)。
+对于动脉性闭塞，可予溶栓或手术取栓术。评估过程中只要发现腹膜炎体征，即需急诊手术。肠道血流的重建有时可以通过血管内技术来完成。
+无腹膜炎体征的肠系膜静脉血栓形成，可采用抗凝药物治疗。
+动脉栓塞或静脉血栓形成的患者应考虑长期抗凝和双重抗血小板治疗，并监测移植物或支架的通畅性。
+
+【治疗参考文献】
+1.Winzer R, Fedders D, Backes M, et al.Local Intra-arterial Vasodilator Infusion in Non-Occlusive Mesenteric Ischemia Significantly Increases Survival Rate [published correction appears inCardiovasc Intervent Radiol. 2021 Oct;44(10):1687].Cardiovasc Intervent Radiol.2020;43(8):1148-1155.doi:10.1007/s00270-020-02515-4
+1.Winzer R, Fedders D, Backes M, et al.Local Intra-arterial Vasodilator Infusion in Non-Occlusive Mesenteric Ischemia Significantly Increases Survival Rate [published correction appears inCardiovasc Intervent Radiol. 2021 Oct;44(10):1687].Cardiovasc Intervent Radiol.2020;43(8):1148-1155.doi:10.1007/s00270-020-02515-4
+
+【急性肠系膜缺血的预后】
+如果在梗塞发生前进行诊断和治疗，死亡率较低；肠梗塞后，死亡率较高，且根据病因而异（1）。因此，应以临床诊断取代其他检查，后者往往延误治疗。
+
+【预后参考】
+1.Schoots IG, Koffeman GI, Legemate DA, Levi M, van Gulik TM.Systematic review of survival after acute mesenteric ischaemia according to disease aetiology.Br J Surg.2004;91(1):17-27.doi:10.1002/bjs.4459
+1.Schoots IG, Koffeman GI, Legemate DA, Levi M, van Gulik TM.Systematic review of survival after acute mesenteric ischaemia according to disease aetiology.Br J Surg.2004;91(1):17-27.doi:10.1002/bjs.4459
+早期诊断十分关键，因一旦发生肠梗死，死亡率明显升高。
+早期诊断十分关键，因一旦发生肠梗死，死亡率明显升高。
+最初，疼痛严重，但体征轻微。
+最初，疼痛严重，但体征轻微。
+腹膜刺激征明显者，最宜行手术探查。
+腹膜刺激征明显者，最宜行手术探查。
+其余病人，可行肠系膜血管造影或CT血管造影。
+其余病人，可行肠系膜血管造影或CT血管造影。
+治疗方法包括：取栓术、血管重建及切除术。
+治疗方法包括：取栓术、血管重建及切除术。

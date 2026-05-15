@@ -1,0 +1,303 @@
+标题：胸腔积液
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/mediastinal-and-pleural-disorders/pleural-effusion
+============================================================
+
+正常情况下，脏层和壁层胸膜表面覆盖有一薄层10~20mL的胸液，其成分与血浆相似但蛋白含量较低（<1.5g/dL [< 15 g/L] ），促进肺和胸壁之间的运动。液体从壁层胸膜毛细血管进入胸膜腔，从壁层胸膜的小孔和淋巴系统排出。液体最终流入右心房，因此间隙取决于毛细血管，部分取决于右侧压力。当液体进入胸膜腔过多或排出过少时，液体积聚形成胸腔积液。
+
+【胸腔积液的病因】
+胸腔积液通常分为：
+积液的分类基于液体的实验室特征（请参见表渗出性胸腔积液的判定标准)。无论单侧或双侧，漏出液通常不需要过多的检查即可治疗，而渗出液需明确病因。胸腔积液的原因有很多（>50）（见表胸腔积液的一些病因）。
+漏出性胸腔积液是由体循环静水压增高和血浆胶体渗透压降低引起。心衰是最常见的原因，其次是肝硬化伴有腹水，以及低白蛋白血症伴随静水压升高，如在肾病综合征中 (1，2）。
+渗出性胸腔积液是因局部病变使胸膜毛细血管通透性增加致液体、蛋白、细胞和其他血清成分渗出。 病因众多；最常见的是感染，包括细菌肺炎（肺炎旁胸腔积液）、病毒感染和结核（TB）、癌症和肺栓塞（1）。
+脓胸是指胸膜腔内存在明显脓液。它可并发于肺炎、开胸术、脓肿（肺、肝或膈下）、穿通伤继发感染。自溃性脓胸是指脓胸扩散至软组织引起胸壁感染并向外穿破引流。
+
+【诊断渗出性胸腔积液标准】
+诊断渗出性胸腔积液标准
+敏感性（%）
+特异性（%）
+Light标准（以下3项中≥1项）：
+胸水LDH*
+胸水LDH*
+≥血清LDH正常值上限的2/3
+胸水总蛋白/血清总蛋白
+胸水总蛋白/血清总蛋白
+≥0.5
+胸水LDH/血清LDH
+胸水LDH/血清LDH
+≥0.6
+胸水总蛋白
+≥3g/dL（30g/L）
+胸水胆固醇
+≥60 mg/dL（1.55 mmol/L）
+≥43 mg/dL（1.11 mmol/L）
+胸水胆固醇/血清胆固醇
+≥0.3
+血清蛋白－胸水蛋白†
+≤3.1g/dL（31g/L）
+* 校正因红细胞裂解导致的LDH升高：=实测LDH−0.0012×红细胞计数/mcL。
+† 对于出现胸腔积液后已使用利尿剂的患者，若符合Light渗出性标准，但所有生化指标均未超过Light标准截断值的15%以上，则推荐此项检查。
+LDH = 乳酸脱氢酶；ULN=正常值上限。
+数据修改自Light RW：临床实践：胸腔积液。N Engl J Med346:1971–1977, 2002.doi:10.1056/NEJMcp010731
+* 校正因红细胞裂解导致的LDH升高：=实测LDH−0.0012×红细胞计数/mcL。
+† 对于出现胸腔积液后已使用利尿剂的患者，若符合Light渗出性标准，但所有生化指标均未超过Light标准截断值的15%以上，则推荐此项检查。
+LDH = 乳酸脱氢酶；ULN=正常值上限。
+数据修改自Light RW：临床实践：胸腔积液。N Engl J Med346:1971–1977, 2002.doi:10.1056/NEJMcp010731
+乳糜性积液（乳糜胸）是由于创伤性、术中或肿瘤性（最常见为淋巴瘤）损伤胸导管导致的富含甘油三酯的乳白色积液。乳糜性胸腔积液亦可由上腔静脉综合征引起。
+乳糜样胸腔积液（胆固醇或假乳糜性）类似乳糜性胸腔积液，但甘油三酯含量低，胆固醇含量高。目前认为此种胸腔积液是由于长期的胸腔积液中红细胞和中性粒细胞裂解释放胆固醇，而胸膜增厚致吸收受阻所致。最常见的原因是类风湿性胸膜炎和慢性结核病。
+血胸是胸膜腔中血性液体积聚（胸水血细胞比容>50%外周血细胞比容），病因为创伤，少数情况下是凝血功能异常，或者是大血管破裂，例如主动脉或者肺动脉破裂。
+陷闭肺（trapped lung）是脓胸或肿瘤导致胸膜纤维化后，肺被包裹。因为肺不能膨胀，胸膜腔负压增加，使壁层胸膜毛细血管液体漏出增加。积液性质介于漏出液和渗出液之间，即其生化值在Light标准截断值的15%以内（见表鉴别渗出性胸腔积液的标准）。
+医源性胸腔积液可因胃管移位或放置错误而进入气道，或中心静脉导管导致上腔静脉穿孔，使经胃管注入或经静脉导管滴注的液体进入胸膜腔。
+
+【胸腔积液的一些病因a】
+胸腔积液的一些病因a
+心力衰竭
+双侧81％；右侧12%；左侧7%c
+左心室衰竭使间质液体增加，液体穿过脏层胸膜，进入胸膜腔
+肝硬化腹水（肝源性胸腔积液）
+右侧70%；左侧15%；双侧15%d
+腹水通过膈肌的缺陷处进入胸腔
+临床上有明显腹水的病人中约5%可发生
+肾病综合征（或其他低白蛋白血症）
+通常为双侧，常见于肺底
+血管内胶体渗透压降低以及血容量过多引起胸腔漏出液
+伴有其他部位或全身水肿
+尿液从腹膜后进入胸腔产生尿液胸
+缩窄性心包炎
+左侧和右侧静脉内静水压升高
+有些病例伴严重的全身水肿和腹水，机制与肝源性胸腔积液相似
+腹膜透析
+机制与肝源性胸腔积液相似
+胸腔积液性质与透析液相似
+全身毛细血管渗漏综合征
+伴全身水肿和心包积液
+甲减粘液性水肿
+如果升高的静脉压导致同时出现心包积液，则常为漏出液；如仅有胸腔积液，可为漏出液或渗出液
+胸腔负压升高
+肺炎（肺炎旁胸腔积液）
+可能为无并发症（非明确感染）、有并发症（如形成分隔或小腔）或化脓性（脓胸）。
+需行胸腔穿刺予以鉴别
+胸腔积液生化检查通常显示LDH非常高（例如，>900 U/L [15 µkat/L]）和葡萄糖降低。
+恶性肿瘤
+肺癌、乳腺癌、淋巴瘤最常见；但任何肿瘤转移到胸膜都可出现胸腔积液
+胸痛为典型的钝痛
+约40%的患者出现胸腔积液e：
+几乎总是渗出性的；通常是出血性的f
+当呼吸困难与胸腔积液量不成比例时，应怀疑肺栓塞
+病毒感染
+胸水通常少量，伴或不伴实质渗出
+全身症状而不是肺部症状为主
+冠状动脉旁路手术
+左侧少量积液很常见，但10%的患者积液量较多g
+早期（＜30天）积液为血性含嗜酸性粒细胞
+晚期（＞30天）积液清亮且以淋巴细胞为主；可能复发
+结核（TB）
+胸腔积液通常为单侧或有肺实质浸润的同侧
+胸水是由对结核菌蛋白的超敏反应引起
+胸腔积液结核培养阳性率为45%h。
+通常，胸腔积液葡萄糖水平低于血清葡萄糖（处于正常值下限附近）
+发生在1%～3%的病人i
+患者有广泛的肺实质结节病且常伴有胸外结节病。
+许多胸膜肉芽肿患者没有胸腔积液
+胸腔积液以淋巴细胞为主
+膈下脓肿
+引起反应性肺底积液
+胸腔积液以中性粒细胞为主
+pH和葡萄糖正常
+HIV感染
+胸腔积液可由多种因素引起：肺炎（肺炎旁），包括Pneumocystis jirovecii（耶氏肺孢子菌）肺炎；其他机会性感染；结核；肺卡波西肉瘤
+类风湿关节炎
+典型者为老年男性，有类风湿结节和致畸形的关节炎
+需和肺炎旁胸腔积液鉴别（两者均可表现为低葡萄糖、低pH值和高乳酸脱氢酶）
+系统性红斑狼疮（SLE）
+可为SLE的首发表现
+常见于药物诱发的系统性红斑狼疮
+诊断应通过血液而非胸腔积液的血清学检查
+许多药物，最著名的是溴隐亭、丹曲林、呋喃妥因、白介素-2（用于治疗肾细胞癌和黑色素瘤）、酪氨酸激酶抑制剂（例如达沙替尼）、胺碘酮和美西麦角
+卵巢过度刺激综合征
+该综合征是人绒毛膜促性腺激素（hCG）诱导排卵的并发症，偶见于氯米芬诱导排卵时。
+hCG注射7～14天后出现胸腔积液
+右侧或双侧
+急性期：约35%出现积液，其中约半数呈单侧j
+因炎症性渗出液经横膈转运以及横膈炎症引起
+慢性：胰腺假性囊肿的窦道经横膈到达胸膜腔
+以胸部症状而不是腹部症状为主
+病人有肿瘤样恶病质表现
+上腔静脉综合征
+由肿瘤或中心静脉导管内血栓阻塞胸腔静脉和淋巴回流引起
+可能为渗出液或乳糜胸
+食管破裂
+病人极危重
+发病和死亡是由纵隔和胸膜腔的感染引起
+良性石棉性胸腔积液
+初次接触后数十年才出现渗出
+通常无症状
+有反复发作和自愈的倾向
+排除诊断；必须排除间皮瘤
+良性卵巢肿瘤（Meigs综合征）
+机制与肝源性胸腔积液相似
+部分合并腹水和胸腔积液的卵巢肿瘤患者可能需要手术。
+诊断本病需肿瘤切除后胸水和腹水消失
+黄甲综合征
+胸腔积液、淋巴水肿、黄甲三联征；症状出现可间隔数十年
+胸腔积液蛋白含量相对较高而乳酸脱氢酶含量低
+胸腔积液易复发
+无胸膜炎性胸痛
+漏出性或渗出性
+伴纤维素增生的密闭腔隙使胸腔负压升高
+可能是渗出液或交界性渗出液
+需透析的肾衰竭
+积液高达20%k
+漏出性或渗出性
+常有症状
+排除性诊断
+a病因按照大致发病率顺序从高到低排列
+bMummadi SR, Stoller JK, Lopez R, Kailasam K, Gillespie CT, Hahn PY.Epidemiology of Adult Pleural Disease in the United States.Chest2021;160(4):1534-1551.doi:10.1016/j.chest.2021.05.026 andVakil E, Taghizadeh N, Tremblay A.The Global Burden of Pleural Diseases.Semin Respir Crit Care Med2023;44(4):417-425.doi:10.1055/s-0043-1769614
+cMorales-Rull JL, Bielsa S, Conde-Martel A, et al.Pleural effusions in acute decompensated heart failure: Prevalence and prognostic implications.Eur J Intern Med2018;52:49-53.doi:10.1016/j.ejim.2018.02.004
+dAlonso JC.Pleural effusion in liver disease.Semin Respir Crit Care Med2010;31(6):698-705.doi:10.1055/s-0030-1269829
+eLi P, An J, Wang S, et al.Incidence and Prognostic Role of Pleural Effusion in Patients with Pulmonary Embolism: A Systematic Review and Meta-Analysis.J Clin Med2023;12(6):2315.doi:10.3390/jcm12062315
+fFindik S.Pleural effusion in pulmonary embolism.Curr Opin Pulm Med2012;18(4):347-354.doi:10.1097/MCP.0b013e32835395d5
+gLight RW.Pleural effusions after coronary artery bypass graft surgery.Curr Opin Pulm Med2002;8(4):308-311.doi:10.1097/00063198-200207000-00011
+hLo Cascio CM, Kaul V, Dhooria S, Agrawal A, Chaddha U.Diagnosis of tuberculous pleural effusions: A review. Respir Med.2021;188:106607.doi:10.1016/j.rmed.2021.106607
+iChopra A, Foulke L, Judson MA.Sarcoidosis associated pleural effusion: Clinical aspects.Respir Med2022;191:106723.doi:10.1016/j.rmed.2021.106723 andHuggins JT, Doelken P, Sahn SA, King L, Judson MA.Pleural effusions in a series of 181 outpatients with sarcoidosis.Chest2006;129(6):1599-1604.doi:10.1378/chest.129.6.1599
+jZeng T, An J, Wu Y, et al.Incidence and prognostic role of pleural effusion in patients with acute pancreatitis: a meta-analysis.Ann Med2023;55(2):2285909.doi:10.1080/07853890.2023.2285909
+kBakirci T, Sasak G, Ozturk S, Akcay S, Sezer S, Haberal M.Pleural effusion in long-term hemodialysis patients.Transplant Proc2007;39(4):889-891.doi:10.1016/j.transproceed.2007.02.020
+hCG =人绒毛膜促性腺激素; IV = 静脉注射; LDH = 乳酸脱氢酶。
+a病因按照大致发病率顺序从高到低排列
+bMummadi SR, Stoller JK, Lopez R, Kailasam K, Gillespie CT, Hahn PY.Epidemiology of Adult Pleural Disease in the United States.Chest2021;160(4):1534-1551.doi:10.1016/j.chest.2021.05.026 andVakil E, Taghizadeh N, Tremblay A.The Global Burden of Pleural Diseases.Semin Respir Crit Care Med2023;44(4):417-425.doi:10.1055/s-0043-1769614
+cMorales-Rull JL, Bielsa S, Conde-Martel A, et al.Pleural effusions in acute decompensated heart failure: Prevalence and prognostic implications.Eur J Intern Med2018;52:49-53.doi:10.1016/j.ejim.2018.02.004
+dAlonso JC.Pleural effusion in liver disease.Semin Respir Crit Care Med2010;31(6):698-705.doi:10.1055/s-0030-1269829
+eLi P, An J, Wang S, et al.Incidence and Prognostic Role of Pleural Effusion in Patients with Pulmonary Embolism: A Systematic Review and Meta-Analysis.J Clin Med2023;12(6):2315.doi:10.3390/jcm12062315
+fFindik S.Pleural effusion in pulmonary embolism.Curr Opin Pulm Med2012;18(4):347-354.doi:10.1097/MCP.0b013e32835395d5
+gLight RW.Pleural effusions after coronary artery bypass graft surgery.Curr Opin Pulm Med2002;8(4):308-311.doi:10.1097/00063198-200207000-00011
+hLo Cascio CM, Kaul V, Dhooria S, Agrawal A, Chaddha U.Diagnosis of tuberculous pleural effusions: A review. Respir Med.2021;188:106607.doi:10.1016/j.rmed.2021.106607
+iChopra A, Foulke L, Judson MA.Sarcoidosis associated pleural effusion: Clinical aspects.Respir Med2022;191:106723.doi:10.1016/j.rmed.2021.106723 andHuggins JT, Doelken P, Sahn SA, King L, Judson MA.Pleural effusions in a series of 181 outpatients with sarcoidosis.Chest2006;129(6):1599-1604.doi:10.1378/chest.129.6.1599
+jZeng T, An J, Wu Y, et al.Incidence and prognostic role of pleural effusion in patients with acute pancreatitis: a meta-analysis.Ann Med2023;55(2):2285909.doi:10.1080/07853890.2023.2285909
+kBakirci T, Sasak G, Ozturk S, Akcay S, Sezer S, Haberal M.Pleural effusion in long-term hemodialysis patients.Transplant Proc2007;39(4):889-891.doi:10.1016/j.transproceed.2007.02.020
+hCG =人绒毛膜促性腺激素; IV = 静脉注射; LDH = 乳酸脱氢酶。
+不明原因的胸腔积液常由隐匿的肺栓塞、结核或恶性肿瘤引起 (3)。即使经过广泛研究，某些积液的病因仍不清楚（也称为非特异性胸膜炎）；许多积液被认为是由病毒感染引起的。
+
+【病因参考文献】
+1.Feller-Kopman D, Light R.Pleural Disease.N Engl J Med2018;378(8):740-751.doi:10.1056/NEJMra1403503
+1.Feller-Kopman D, Light R.Pleural Disease.N Engl J Med2018;378(8):740-751.doi:10.1056/NEJMra1403503
+2.Mummadi SR, Stoller JK, Lopez R, Kailasam K, Gillespie CT, Hahn PY.Epidemiology of Adult Pleural Disease in the United States.Chest2021;160(4):1534-1551.doi:10.1016/j.chest.2021.05.026
+2.Mummadi SR, Stoller JK, Lopez R, Kailasam K, Gillespie CT, Hahn PY.Epidemiology of Adult Pleural Disease in the United States.Chest2021;160(4):1534-1551.doi:10.1016/j.chest.2021.05.026
+3.Roberts ME, Rahman NM, Maskell NA, et al.British Thoracic Society Guideline for pleural disease.Thorax2023;78(Suppl 3):s1-s42.doi:10.1136/thorax-2022-219784
+3.Roberts ME, Rahman NM, Maskell NA, et al.British Thoracic Society Guideline for pleural disease.Thorax2023;78(Suppl 3):s1-s42.doi:10.1136/thorax-2022-219784
+
+【胸腔积液的症状和体征】
+有些胸腔积液无症状，偶然经体格检查或者胸片检查发现。
+许多积液会引起呼吸困难、胸膜炎性胸痛，或者二者兼有。胸膜炎性胸痛是一种模糊的不适感或者尖锐的疼痛，吸气时加重，提示壁层胸膜的炎症。疼痛感通常出现在炎症部位之上，但也可出现牵涉痛。横膈胸膜的后部和外周部由低位的6根肋间神经支配，这些部位的刺激可引起下胸壁或腹部疼痛，表现类似腹腔内疾病。横膈胸膜的中央部分受刺激，经膈神经传导，可引起颈肩部牵涉痛。
+体格检查可发现积液侧呼吸音减弱、叩诊浊音以及触觉语颤消失。胸膜增厚同样可有这些表现。对于大量积液患者，呼吸可能表现为急促而浅表。
+胸膜摩擦音尽管少见，却是典型的体征。胸膜摩擦音形式多样，从类似湿啰音的间断声音到粗糙的摩擦声、嘎吱声或与呼吸同步的似皮革的声音，可在吸气相和呼气相听到。靠近心脏的摩擦音（胸膜心包摩擦音）可随心跳变化，并可能与心包炎的摩擦音混淆。心包摩擦音最佳听诊位置在胸骨左缘第三四肋间，特征为与心跳同步的来回音，并不受呼吸影响。
+体格检查发现胸腔积液的敏感性和特异性均较低。
+摩擦摩擦通常被描述为吱吱作响或刮擦，但听起来可能更像是更常见的杂音。这种摩擦是三相的，在舒张早期快速连续地有一个柔和的收缩成分和 2 个更响亮的成分。
+录音由Jules Constant, MD.医师提供。
+摩擦摩擦通常被描述为吱吱作响或刮擦，但听起来可能更像是更常见的杂音。这种摩擦是三相的，在舒张早期快速连续地有一个柔和的收缩成分和 2 个更响亮的成分。
+录音由Jules Constant, MD.医师提供。
+
+【胸腔积液的诊断】
+胸部X光检查
+胸部X光检查
+胸部超声检查
+胸部超声检查
+胸水检查
+胸水检查
+有时进行 CT 静脉造影、CT 血管造影或其他检查
+有时进行 CT 静脉造影、CT 血管造影或其他检查
+在具有胸膜炎性痛、无法解释的呼吸困难或者其他提示性体征时应考虑胸腔积液的可能。胸腔积液诊断性检查的意义在于确定胸腔积液的存在和鉴别病因（见图诊断胸腔积液）。
+
+【胸水的存在】
+非霍奇金淋巴瘤患者的双侧小胸腔积液。两个肋膈角均变钝。箭头所指由淋巴瘤导致的纵隔增宽。
+By permission of the publisher.From Huggins J, Sahn S.InBone's Atlas of Pulmonary and Critical Care Medicine.Edited by J Crapo.Philadelphia, Current Medicine, 2005.
+胸片是确定胸腔积液的首选检查。当怀疑胸腔积液时，应行直立侧位胸片检查。直立位胸片中，75mL的液体可使后肋膈角变钝，而侧肋膈角变钝需要约175mL胸水，甚至可能需要500mL胸水。侧卧位X光片（积液侧向下）比标准立位胸片更易检测到少量液体，尤其是自由流动积液。大量胸腔积液可使一侧胸腔部分不透光并导致纵隔移位；积液量>4 L 时，可导致一侧胸腔完全不透光，纵隔向对侧移位。
+该图像显示类风湿性胸膜炎患者存在右侧大量胸腔积液（箭头所示）。
+By permission of the publisher.From Huggins J, Sahn S.InBone's Atlas of Pulmonary and Critical Care Medicine.Edited by J Crapo.Philadelphia, Current Medicine, 2005.
+右下肺野（箭头）不透明的类似于实性肿块，由心力衰竭患者斜裂中的液体引起。
+By permission of the publisher.From Huggins J, Sahn S.InBone's Atlas of Pulmonary and Critical Care Medicine.Edited by J Crapo.Philadelphia, Current Medicine, 2005.
+包裹性积液是因胸膜粘连或肺叶间裂内液体流动受限而积聚的液体。如果不清楚X射线密度是否代表液体或实质浸润，或者怀疑液体是否为包裹性或自由流动的，则应进行进一步的影像学检查（侧卧位X线片、胸部CT或超声检查）；这些检查比直立位X线片更灵敏，可以检测到少量液体。包裹性积液，尤其是在水平裂或斜裂部位，可以混淆为肺部实质性肿块（炎性假瘤）。随患者的体位以及胸腔积液量改变，它们的形状和大小也可发生改变。
+胸部超声检查被认为是诊断胸腔积液的标准护理方法，由医生在床边进行并解读。它对小体积胸膜液的检测非常准确，并提供额外的诊断信息（如是否存在隔膜、胸膜增厚）。
+静脉造影 CT 是一项有价值的下一步检查，它可以提供胸膜增强和潜在胸膜结节的信息。（非增强CT可用于初步评估，但不能排除恶性肿瘤或感染。）当肺部被积液遮挡时，或者当胸部X线片上的细节不足以区分包裹性积液和实体肿块时，静脉造影CT对于评估下方肺实质的浸润或肿块是有价值的。
+这张胸部轴位非增强CT图像显示乳腺癌女性患者右侧中小量胸腔积液。（纵隔CT扫描窗口）
+Steven Needell/SCIENCE PHOTO LIBRARY
+该超声检查显示大量左侧自由流动积液，导致左下叶压迫性肺不张，并显露左心室。
+Image courtesy of Najib M.Rahman, BMBCh MA (oxon) DPhil.
+该超声显示大量右侧自由流动的积液，导致半横膈膜倒置，并表现出回声。
+Image courtesy of Najib M.Rahman, BMBCh MA (oxon) DPhil.
+
+【胸水病因】
+CT、超声或侧卧位X线片检查提示胸腔积液厚度≥10mm，并且胸腔积液为新发或病因不明时，几乎所有患者均应行胸腔穿刺术。一般情况下，只有心力衰竭伴双侧对称性胸腔积液，且无胸痛或发热的患者可不行胸腔穿刺术。这类患者可尝试给予利尿治疗，通常无需胸腔穿刺，除非积液持续≥3天。对于慢性、有已知病因且无症状的胸腔积液，胸腔穿刺术和随后的胸腔积液分析通常也是不必要的。
+在所有情况下，胸腔穿刺都应使用超声引导进行，以提高手术成功率并减少并发症（1）。
+
+【经验与提示】
+经验与提示
+尽管是常见做法，但胸腔穿刺术后无需常规复查胸部X线片，除非患者出现提示气胸的症状（呼吸困难或胸痛），或除非临床医生怀疑在操作过程中空气可能进入了胸膜腔。
+尽管是常见做法，但胸腔穿刺术后无需常规复查胸部X线片，除非患者出现提示气胸的症状（呼吸困难或胸痛），或除非临床医生怀疑在操作过程中空气可能进入了胸膜腔。
+胸膜液分析用于诊断胸腔积液的病因。分析始于肉眼观察，它可以：
+可区分血性、乳糜性（或乳糜样）和其他类型胸水
+可区分血性、乳糜性（或乳糜样）和其他类型胸水
+证实为脓性胸腔积液，强烈提示脓胸
+证实为脓性胸腔积液，强烈提示脓胸
+证实为黏稠的液体，是某些间皮瘤的特征
+证实为黏稠的液体，是某些间皮瘤的特征
+应始终将液体送检进行总蛋白、葡萄糖、乳酸脱氢酶 (LDH)、细胞计数和细胞分类以及革兰氏染色。其他检查，如胸水pH值、需氧和厌氧菌培养、细胞学、结核性胸水标志物[腺苷脱氨酶或干扰素-γ]、淀粉酶、分枝杆菌和真菌涂片及培养、甘油三酯和胆固醇，应在适当的临床情况下使用。
+胸水检查有助于区分渗出液和漏出液。存在多种诊断标准，但没有其中哪一个标准能准确无误地鉴别两者。当使用Light标准时（见表鉴别渗出性胸腔积液的标准），应尽量与胸穿同步测定血清LDH和总蛋白水平，以便和胸水相比较。Light标准能正确诊断几乎所有的渗出液，但是可将约20%的漏出液误诊为渗出液 (2)。 如怀疑漏出液（如由心衰或肝硬化引起），且没有一项生化指标超过Light标准截断值的15%，此时可计算血清和胸水蛋白的差值， 如差值>3.1g/dL (> 31 g/L)，则可能为漏出性胸腔积液。
+影像学检查也可能对诊断有所帮助。如果胸水分析后诊断仍不清楚，则需要进行静脉造影增强 CT 来评估胸膜强化、胸膜结节、肺部浸润或纵隔病变。CT肺血管造影可用于评估可疑的肺栓塞。肺栓塞的发现表明需要长期抗凝治疗。胸膜结节和增厚表明需要胸膜活检（胸腔镜或图像引导）。根据可疑原因，肺部浸润或病变的存在可能表明需要进行支气管镜检查或图像引导的肺活检。
+当怀疑结核性胸膜炎时，应检测胸水腺苷脱氨酶水平。当水平>40 U/L（667 nkat/L）时，诊断结核性胸膜炎的敏感性和特异性可达95%（1）；然而，腺苷脱氨酶水平在癌症患者中也可能升高。
+
+【胸水诊断流程】
+胸水诊断流程
+*基于存在发烧，体重减轻，癌症史，或其它提示症状。
+TB = 肺结核。
+
+【诊断参考】
+1.Roberts ME, Rahman NM, Maskell NA, et al.British Thoracic Society Guideline for pleural disease.Thorax2023;78(Suppl 3):s1-s42.doi:10.1136/thorax-2022-219784
+1.Roberts ME, Rahman NM, Maskell NA, et al.British Thoracic Society Guideline for pleural disease.Thorax2023;78(Suppl 3):s1-s42.doi:10.1136/thorax-2022-219784
+2.Feller-Kopman D, Light R.Pleural Disease.N Engl J Med2018;378(8):740-751.doi:10.1056/NEJMra1403503
+2.Feller-Kopman D, Light R.Pleural Disease.N Engl J Med2018;378(8):740-751.doi:10.1056/NEJMra1403503
+
+【胸腔积液的治疗】
+症状和潜在疾病治疗
+症状和潜在疾病治疗
+胸水引起症状时予以引流
+胸水引起症状时予以引流
+肺炎旁胸腔积液和恶性胸腔积液的其他治疗
+肺炎旁胸腔积液和恶性胸腔积液的其他治疗
+少量积液（侧卧位 X 光片或超声检查显示积液量 < 10 mm）和无症状积液通常不需要治疗，因为许多积液在治疗潜在疾病后会自行吸收，尤其是无并发症的肺炎、肺栓塞或手术引起的积液。胸膜痛通常可使用非甾体抗炎药（NSAIDS）或其他口服镇痛药治疗，必要时可短期口服阿片类药物。
+治疗性胸腔穿刺术（通常单次治疗抽取约1至1.5 L液体）足以缓解许多有症状的积液，并且可以重复进行以处理重新积聚的积液。可移除液体的总量没有人为设定的限制（1）。胸水可以持续引流直至积液引流完成或患者出现胸闷、胸痛或严重咳嗽。一种罕见的并发症是复张性肺水肿（REPE）（2）。一旦发生，复张性肺水肿（REPE）可能危及生命，但这似乎属于不可预测事件。
+慢性、反复发作、有症状的胸腔积液可行胸膜固定术或留置导管间断引流。肺炎或癌症引起的胸腔积液可能需要额外的针对性治疗措施。
+
+【肺炎旁胸腔积液和脓胸】
+有些患者存在提示预后不良的因素（pH<7.20，葡萄糖<60mg/dL [< 3.33 mmol/L]，革兰氏染色或培养阳性，包裹性积液）应通过胸腔穿刺或胸腔插管引流完全排空胸腔积液 (3)。如果不可能完全引流，可以胸膜内给予溶栓（纤维蛋白溶解）药物（例如阿替普酶）加DNA酶（例如dornase alfa）。如果胸膜内治疗不成功，则需要进行胸部手术干预。通常首先尝试视频辅助胸腔镜手术（VATS），尽管有时可能需要开胸手术。
+
+【恶性胸腔积液】
+如果恶性胸腔积液引起的呼吸困难通过胸穿能够减轻，但积液及伴呼吸困难反复发生，应置管长期（间断）引流或行胸膜固定术。无症状胸腔积液，以及胸腔积液伴呼吸困难但胸穿无法缓解者，不需要额外的操作。
+留置胸腔导管和胸膜固定术治疗恶性胸腔积液同样有效。如何选择取决于患者的偏好。既能有效减少呼吸困难，又能提高生活质量。化学胸膜固定术需要更长的住院时间，但留置导管的长期并发症如蜂窝织炎更为常见（4）。
+胸膜固定术是将硬化剂注入胸膜腔，粘连脏层和壁层胸膜，消除空腔。最有效和最常用的硬化剂是滑石粉、多西环素或博莱霉素，可通过胸管或胸腔镜注入。若完全胸腔引流后肺不能复张（机化性陷闭肺），则禁同行胸膜固定术，此时需留置胸腔导管。
+将胸膜液分流至腹膜（胸腹膜分流）的情况很少见，但对于肺部受困的患者来说这是一种选择。
+对于体能状态良好且预后良好的肺陷闭患者，应考虑手术治疗（胸膜切除术或剥脱术）。
+
+【治疗参考文献】
+1.Feller-Kopman D, Berkowitz D, Boiselle P, et al.Large-volume thoracentesis and the risk of reexpansion pulmonary edema.Ann Thoracic Surg2007;84:1656–1662.doi:10.1016/j.athoracsur.2007.06.038
+1.Feller-Kopman D, Berkowitz D, Boiselle P, et al.Large-volume thoracentesis and the risk of reexpansion pulmonary edema.Ann Thoracic Surg2007;84:1656–1662.doi:10.1016/j.athoracsur.2007.06.038
+2.Cusumano G, La Via L, Terminella A, Sorbello M.Re-Expansion Pulmonary Edema as a Life-Threatening Complication in Massive, Long-Standing Pneumothorax: A Case Series and Literature Review.J Clin Med2024;13(9):2667.Published 2024 May 2.doi:10.3390/jcm13092667
+2.Cusumano G, La Via L, Terminella A, Sorbello M.Re-Expansion Pulmonary Edema as a Life-Threatening Complication in Massive, Long-Standing Pneumothorax: A Case Series and Literature Review.J Clin Med2024;13(9):2667.Published 2024 May 2.doi:10.3390/jcm13092667
+3.Roberts ME, Rahman NM, Maskell NA, et al.British Thoracic Society Guideline for pleural disease.Thorax2023;78(Suppl 3):s1-s42.doi:10.1136/thorax-2022-219784
+3.Roberts ME, Rahman NM, Maskell NA, et al.British Thoracic Society Guideline for pleural disease.Thorax2023;78(Suppl 3):s1-s42.doi:10.1136/thorax-2022-219784
+4.Iyer NP, Reddy CB, Wahidi MM, et al.Indwelling Pleural Catheter versus Pleurodesis for Malignant Pleural Effusions.A Systematic Review and Meta-Analysis.Ann Am Thorac Soc2019;16(1):124-131.doi:10.1513/AnnalsATS.201807-495OC
+4.Iyer NP, Reddy CB, Wahidi MM, et al.Indwelling Pleural Catheter versus Pleurodesis for Malignant Pleural Effusions.A Systematic Review and Meta-Analysis.Ann Am Thorac Soc2019;16(1):124-131.doi:10.1513/AnnalsATS.201807-495OC
+漏出性积液是由静水压力增加和血浆胶体渗透压降低共同作用所引起的。
+漏出性积液是由静水压力增加和血浆胶体渗透压降低共同作用所引起的。
+渗出性积液是由毛细血管通透性增加所造成的，导致蛋白，细胞，和其他血清成分的泄漏。
+渗出性积液是由毛细血管通透性增加所造成的，导致蛋白，细胞，和其他血清成分的泄漏。
+透出性积液最常见的原因是心力衰竭、肝硬化伴腹水和肾病综合征。
+透出性积液最常见的原因是心力衰竭、肝硬化伴腹水和肾病综合征。
+渗出性胸腔积液最常见的原因是肺炎、癌症、肺栓塞和结核病。
+渗出性胸腔积液最常见的原因是肺炎、癌症、肺栓塞和结核病。
+评估需要影像学检查（通常是胸部x光检查和胸部超声检查）来确认是否存在积液，并对胸膜液进行分析以帮助确定病因。
+评估需要影像学检查（通常是胸部x光检查和胸部超声检查）来确认是否存在积液，并对胸膜液进行分析以帮助确定病因。
+如果无法确定影像学上的密度影是代表积液还是肺实质浸润，或者怀疑的积液是包裹性的还是自由流动的，则应进行侧卧位X线片、胸部CT或超声检查。
+如果无法确定影像学上的密度影是代表积液还是肺实质浸润，或者怀疑的积液是包裹性的还是自由流动的，则应进行侧卧位X线片、胸部CT或超声检查。
+除已知病因的复发性积液外，有症状的大量积液需进行胸腔穿刺术。
+除已知病因的复发性积液外，有症状的大量积液需进行胸腔穿刺术。
+慢性或复发性及引起症状的积液，可通过胸膜固定术或通过留置导管间歇引流进行治疗。
+慢性或复发性及引起症状的积液，可通过胸膜固定术或通过留置导管间歇引流进行治疗。

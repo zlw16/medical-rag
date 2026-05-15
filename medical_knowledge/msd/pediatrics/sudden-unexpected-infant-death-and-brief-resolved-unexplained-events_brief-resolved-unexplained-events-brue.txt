@@ -1,0 +1,278 @@
+标题：短暂、已缓解、原因不明事件（BRUE）
+来源：https://www.msdmanuals.cn/professional/pediatrics/sudden-unexpected-infant-death-and-brief-resolved-unexplained-events/brief-resolved-unexplained-events-brue
+============================================================
+
+短暂不明原因事件（BRUE）正式定义为发生在1岁以下婴儿中的事件，该事件由观察者报告为突发、短暂且随即缓解的症状，且至少包括以下1种表现（1）：
+紫绀或苍白
+紫绀或苍白
+呼吸停止、减少或不规则
+呼吸停止、减少或不规则
+肌张力显著改变（张力过高或过低）
+肌张力显著改变（张力过高或过低）
+响应等级改变
+响应等级改变
+短暂不明原因事件（BRUE）的定义要素包括：持续时间＜1分钟（“短暂”）；发作后生命体征及外观恢复正常（“恢复”）；初步评估未发现可解释的潜在医学原因（“不明原因”）。只有在进行适当的病史和体格检查后，对符合条件的事件无法解释时，才能诊断短暂性不明原因事件（BRUE）。有症状的婴儿，例如发烧或呼吸窘迫的婴儿，以及任何病史或体格评估表明有病因的婴儿，都被排除在这一诊断之外。
+类似事件先前被称为明显危及生命的事件（ALTEs），描述了婴儿中令照护者担心危及生命的可怕、短暂事件（2）。尽管明显危及生命的事件（ALTE）的定义与短暂性不明原因事件（BRUE）有重叠，但两者是不同的实体。研究表明，大多数表面上危及生命的事件（ALTE）实际上并不危及生命，临床医生也逐渐认识到，与其强调“观察者感到恐惧”这一主观标准，不如通过事件发生时婴儿的生理表现来进行客观描述——这并不意味着忽视照护者及时就医的重要性。此外，对生理因素的研究使临床医生能够区分需要明确诊断的高风险事件和不太可能证明有用的低风险事件。
+
+【与婴儿猝死综合征的关系】
+关于此类事件的术语随着时间推移而不断发展。BRUE（短暂性、非特异性、已缓解事件）的诊断概念源于对过去被称为“险些发生SIDS（婴儿猝死综合征）”事件的研究。通常，经历此类事件的婴儿会因照护者在事件发生时及时发现并中断过程而被送医，照护者担心若未干预可能导致婴儿死亡。
+除去关于SIDS婴儿是否能够复苏或存活的争议外，SIDS 与 BRUE 具有截然不同的危险因素特征，医学专家目前普遍认为二者之间并无关联。其区分基于以下几个因素：
+不同发病高峰年龄（SIDS：1至4个月，生命第三个月达高峰；BRUE：< 2个月）（3–5）
+不同发病高峰年龄（SIDS：1至4个月，生命第三个月达高峰；BRUE：< 2个月）（3–5）
+不同的男女比例（婴儿猝死综合征：1.5:1；短暂性不明原因事件：1:1）（3,6）
+不同的男女比例（婴儿猝死综合征：1.5:1；短暂性不明原因事件：1:1）（3,6）
+与BRUE相比，SIDS/SUID与早产和低出生体重相关的风险显著更高（7，8）
+与BRUE相比，SIDS/SUID与早产和低出生体重相关的风险显著更高（7，8）
+婴儿猝死综合征（SIDS）与睡眠及睡眠环境因素（如俯卧睡姿、在沙发上睡眠、事件多发生于睡眠时段且多数在午夜后）之间存在显著相关性，而短暂不明原因事件（BRUE）则无此关联（4,9）。
+婴儿猝死综合征（SIDS）与睡眠及睡眠环境因素（如俯卧睡姿、在沙发上睡眠、事件多发生于睡眠时段且多数在午夜后）之间存在显著相关性，而短暂不明原因事件（BRUE）则无此关联（4,9）。
+在增加仰卧睡眠采用后，事件发生率出现差异反应（SIDS率下降，BRUE/ALTE率未变）（10）
+在增加仰卧睡眠采用后，事件发生率出现差异反应（SIDS率下降，BRUE/ALTE率未变）（10）
+风险因素特征的其他差异亦被阐述（8,11）。尽管呼吸暂停被列入短暂不明原因事件（BRUE）的鉴别诊断范围，但其与婴儿猝死综合征（SIDS）的关联较弱。多年来的多项研究均未能证实既往存在的呼吸暂停与 SIDS 之间存在因果关系（4）。母乳喂养和摄入人乳对SIDS具有保护作用；而过量喂养和喂养协调等因素则与BRUE相关（1,12,13）。
+母亲吸烟是婴儿猝死综合征和短暂性不明原因事件的风险因素。
+
+【参考文献】
+1.Tieder JS, Bonkowsky JL, Etzel RA, et al.Brief Resolved Unexplained Events (Formerly Apparent Life-Threatening Events) and Evaluation of Lower-Risk Infants.Pediatrics.2016;137(5):e20160590.doi:10.1542/peds.2016-0590
+1.Tieder JS, Bonkowsky JL, Etzel RA, et al.Brief Resolved Unexplained Events (Formerly Apparent Life-Threatening Events) and Evaluation of Lower-Risk Infants.Pediatrics.2016;137(5):e20160590.doi:10.1542/peds.2016-0590
+2.National Institutes of Health Consensus Development Conference on Infantile Apnea and Home Monitoring, Sept 29 to Oct 1, 1986.Pediatrics.1987;79(2):292-299.
+2.National Institutes of Health Consensus Development Conference on Infantile Apnea and Home Monitoring, Sept 29 to Oct 1, 1986.Pediatrics.1987;79(2):292-299.
+3.Nama N, Shen Y, Bone JN, et al.External Validation of Brief Resolved Unexplained Events Prediction Rules for Serious Underlying Diagnosis.JAMA Pediatr.2025;179(2):188-196.doi:10.1001/jamapediatrics.2024.4399
+3.Nama N, Shen Y, Bone JN, et al.External Validation of Brief Resolved Unexplained Events Prediction Rules for Serious Underlying Diagnosis.JAMA Pediatr.2025;179(2):188-196.doi:10.1001/jamapediatrics.2024.4399
+4.Moon RY, Carlin RF, Hand I; TASK FORCE ON SUDDEN INFANT DEATH SYNDROME and THE COMMITTEE ON FETUS AND NEWBORN.Evidence Base for 2022 Updated Recommendations for a Safe Infant Sleeping Environment to Reduce the Risk of Sleep-Related Infant Deaths.Pediatrics.2022;150(1):e2022057991.doi:10.1542/peds.2022-057991
+4.Moon RY, Carlin RF, Hand I; TASK FORCE ON SUDDEN INFANT DEATH SYNDROME and THE COMMITTEE ON FETUS AND NEWBORN.Evidence Base for 2022 Updated Recommendations for a Safe Infant Sleeping Environment to Reduce the Risk of Sleep-Related Infant Deaths.Pediatrics.2022;150(1):e2022057991.doi:10.1542/peds.2022-057991
+5.Habich M, Zielenkiewicz P, Paczek L, Szczesny P.Correlation of gestational age and age at death in sudden infant death syndrome: another pointer to the role of critical developmental period?.BMC Pediatr.2024;24(1):259.Published 2024 Apr 19.doi:10.1186/s12887-024-04712-3
+5.Habich M, Zielenkiewicz P, Paczek L, Szczesny P.Correlation of gestational age and age at death in sudden infant death syndrome: another pointer to the role of critical developmental period?.BMC Pediatr.2024;24(1):259.Published 2024 Apr 19.doi:10.1186/s12887-024-04712-3
+6.Oltman SP, Rogers EE, Baer RJ, et al.Early Newborn Metabolic Patterning and Sudden Infant Death Syndrome.JAMA Pediatr.2024;178(11):1183-1191.doi:10.1001/jamapediatrics.2024.3033
+6.Oltman SP, Rogers EE, Baer RJ, et al.Early Newborn Metabolic Patterning and Sudden Infant Death Syndrome.JAMA Pediatr.2024;178(11):1183-1191.doi:10.1001/jamapediatrics.2024.3033
+7.Carlin RF, Moon RY.Risk Factors, Protective Factors, and Current Recommendations to Reduce Sudden Infant Death Syndrome: A Review.JAMA Pediatr.2017;171(2):175-180.doi:10.1001/jamapediatrics.2016.3345
+7.Carlin RF, Moon RY.Risk Factors, Protective Factors, and Current Recommendations to Reduce Sudden Infant Death Syndrome: A Review.JAMA Pediatr.2017;171(2):175-180.doi:10.1001/jamapediatrics.2016.3345
+8.Esani N, Hodgman JE, Ehsani N, Hoppenbrouwers T.Apparent life-threatening events and sudden infant death syndrome: comparison of risk factors.J Pediatr.2008;152(3):365-370.doi:10.1016/j.jpeds.2007.07.054
+8.Esani N, Hodgman JE, Ehsani N, Hoppenbrouwers T.Apparent life-threatening events and sudden infant death syndrome: comparison of risk factors.J Pediatr.2008;152(3):365-370.doi:10.1016/j.jpeds.2007.07.054
+9.Blair PS, Platt MW, Smith IJ, Fleming PJ; SESDI SUDI Research Group.Sudden Infant Death Syndrome and the time of death: factors associated with night-time and day-time deaths.Int J Epidemiol.2006;35(6):1563-1569.doi:10.1093/ije/dyl212
+9.Blair PS, Platt MW, Smith IJ, Fleming PJ; SESDI SUDI Research Group.Sudden Infant Death Syndrome and the time of death: factors associated with night-time and day-time deaths.Int J Epidemiol.2006;35(6):1563-1569.doi:10.1093/ije/dyl212
+10.Kiechl-Kohlendorfer U, Hof D, Peglow UP, Traweger-Ravanelli B, Kiechl S.Epidemiology of apparent life threatening events.Arch Dis Child.2005;90(3):297-300.doi:10.1136/adc.2004.049452
+10.Kiechl-Kohlendorfer U, Hof D, Peglow UP, Traweger-Ravanelli B, Kiechl S.Epidemiology of apparent life threatening events.Arch Dis Child.2005;90(3):297-300.doi:10.1136/adc.2004.049452
+11.Hoppenbrouwers T, Hodgman JE, Ramanathan A, Dorey F.Extreme and conventional cardiorespiratory events and epidemiologic risk factors for SIDS.J Pediatr.2008;152(5):636-641.doi:10.1016/j.jpeds.2007.10.003
+11.Hoppenbrouwers T, Hodgman JE, Ramanathan A, Dorey F.Extreme and conventional cardiorespiratory events and epidemiologic risk factors for SIDS.J Pediatr.2008;152(5):636-641.doi:10.1016/j.jpeds.2007.10.003
+12.Meek JY, Noble L.Technical Report: Breastfeeding and the Use of Human Milk.Pediatrics.2022;150(1):e2022057989.doi:10.1542/peds.2022-057989
+12.Meek JY, Noble L.Technical Report: Breastfeeding and the Use of Human Milk.Pediatrics.2022;150(1):e2022057989.doi:10.1542/peds.2022-057989
+13.Quitadamo P, Mosca C, Verde A, et al.Infants' Feeding Habits and Brief Resolved Unexplained Events (BRUEs): A Prospective Observational Study.J Clin Med.2025;14(6):1910.Published 2025 Mar 12.doi:10.3390/jcm14061910
+13.Quitadamo P, Mosca C, Verde A, et al.Infants' Feeding Habits and Brief Resolved Unexplained Events (BRUEs): A Prospective Observational Study.J Clin Med.2025;14(6):1910.Published 2025 Mar 12.doi:10.3390/jcm14061910
+
+【BRUE的病因】
+BRUE的病因可能是遗传性的或后天性的。若婴儿由一人照看且反复出现病因不明的症状，应考虑是否存在虐待儿童的情况。
+最常见的可能潜在病因包括：
+消化系统：胃食管反流病或与喉痉挛或吸气相关的吞咽困难
+消化系统：胃食管反流病或与喉痉挛或吸气相关的吞咽困难
+神经系统：神经系统疾病（如，癫痫、脑肿瘤、憋气、或心肺控制的异常脑干神经调节、脑积水，脑畸形）
+神经系统：神经系统疾病（如，癫痫、脑肿瘤、憋气、或心肺控制的异常脑干神经调节、脑积水，脑畸形）
+呼吸系统疾病：感染（如，呼吸道合胞病毒、流感、百日咳）
+呼吸系统疾病：感染（如，呼吸道合胞病毒、流感、百日咳）
+感染：败血症，脑膜炎
+感染：败血症，脑膜炎
+较少见的潜在病因包括：
+心脏疾病
+心脏疾病
+代谢性疾病
+代谢性疾病
+上呼吸道阻塞（如，阻塞性睡眠呼吸暂停）
+上呼吸道阻塞（如，阻塞性睡眠呼吸暂停）
+其他（例如，药物或毒素相关【例如，乙醇、非处方抗组胺药和/或减充血剂制剂】【1，2】，过敏反应，虐待）
+其他（例如，药物或毒素相关【例如，乙醇、非处方抗组胺药和/或减充血剂制剂】【1，2】，过敏反应，虐待）
+在以短暂、无法解释的婴儿事件（BRUE）为表现的患者队列研究中，约45%至47%的病例可找到明确的解释性诊断，其中约4%至17%的患者最终被发现存在严重的潜在疾病，有时仅在BRUE复发后方能确诊（3–6）。在一项研究中，需要及时识别的诊断（因为延误可能导致发病率和死亡率，包括癫痫发作）在4.6%的患者中被识别（5）。在一项单中心队列研究中，对124名因短暂不明原因事件（BRUE）入院的婴儿进行分析，最常见的诊断包括胃食管反流（42%）、口咽吞咽障碍（7%）、喉软化症（6%）及喂养困难（4%）（7）。其中许多婴儿在出院后仍出现症状复发。
+
+【病因参考文献】
+1.Pitetti RD, Whitman E, Zaylor A.Accidental and nonaccidental poisonings as a cause of apparent life-threatening events in infants.Pediatrics.2008;122(2):e359-e362.doi:10.1542/peds.2007-3729
+1.Pitetti RD, Whitman E, Zaylor A.Accidental and nonaccidental poisonings as a cause of apparent life-threatening events in infants.Pediatrics.2008;122(2):e359-e362.doi:10.1542/peds.2007-3729
+2.Tieder JS, Bonkowsky JL, Etzel RA, et al.Brief Resolved Unexplained Events (Formerly Apparent Life-Threatening Events) and Evaluation of Lower-Risk Infants.Pediatrics.2016;137(5):e20160590.doi:10.1542/peds.2016-0590
+2.Tieder JS, Bonkowsky JL, Etzel RA, et al.Brief Resolved Unexplained Events (Formerly Apparent Life-Threatening Events) and Evaluation of Lower-Risk Infants.Pediatrics.2016;137(5):e20160590.doi:10.1542/peds.2016-0590
+3.Tieder JS, Sullivan E, Stephans A, et al.Risk Factors and Outcomes After a Brief Resolved Unexplained Event: A Multicenter Study.Pediatrics.2021;148(1):e2020036095.doi:10.1542/peds.2020-036095
+3.Tieder JS, Sullivan E, Stephans A, et al.Risk Factors and Outcomes After a Brief Resolved Unexplained Event: A Multicenter Study.Pediatrics.2021;148(1):e2020036095.doi:10.1542/peds.2020-036095
+4.Nama N, Lee Z, Picco K, et al.Identifying serious underlying diagnoses among patients with brief resolved unexplained events (BRUEs): a Canadian cohort study.BMJ Paediatr Open.2024;8(1):e002525.Published 2024 Sep 24.doi:10.1136/bmjpo-2024-002525
+4.Nama N, Lee Z, Picco K, et al.Identifying serious underlying diagnoses among patients with brief resolved unexplained events (BRUEs): a Canadian cohort study.BMJ Paediatr Open.2024;8(1):e002525.Published 2024 Sep 24.doi:10.1136/bmjpo-2024-002525
+5.Nama N, Hall M, Neuman M, et al.Risk Prediction After a Brief Resolved Unexplained Event.Hosp Pediatr.2022;12(9):772-785.doi:10.1542/hpeds.2022-006637
+5.Nama N, Hall M, Neuman M, et al.Risk Prediction After a Brief Resolved Unexplained Event.Hosp Pediatr.2022;12(9):772-785.doi:10.1542/hpeds.2022-006637
+6.Mittal MK, Tieder JS, Westphal K, et al.Diagnostic testing for evaluation of brief resolved unexplained events.Acad Emerg Med.2023;30(6):662-670.doi:10.1111/acem.14666
+6.Mittal MK, Tieder JS, Westphal K, et al.Diagnostic testing for evaluation of brief resolved unexplained events.Acad Emerg Med.2023;30(6):662-670.doi:10.1111/acem.14666
+7.Duncan DR, Liu E, Growdon AS, Larson K, Rosen RL.A Prospective Study of Brief Resolved Unexplained Events: Risk Factors for Persistent Symptoms.Hosp Pediatr.2022;12(12):1030-1043.doi:10.1542/hpeds.2022-006550
+7.Duncan DR, Liu E, Growdon AS, Larson K, Rosen RL.A Prospective Study of Brief Resolved Unexplained Events: Risk Factors for Persistent Symptoms.Hosp Pediatr.2022;12(12):1030-1043.doi:10.1542/hpeds.2022-006550
+
+【BRUE的流行病学】
+BRUE是一个相对较新的术语，其发病率尚不明确。对先前术语ALTE的研究估计，ALTE的发病率为每1000例活产2.5至4.1例（1,2）。然而，一项对诊断为ALTE的患者的研究发现，不到一半符合BRUE的诊断标准（3）。
+婴儿短暂性不明原因事件的预后评估仍处于暂定阶段。在关于ALTE的数据中，事件后一年死亡率低于1%（4）。
+
+【流行病学参考】
+1.Kiechl-Kohlendorfer U, Hof D, Peglow UP, Traweger-Ravanelli B, Kiechl S.Epidemiology of apparent life threatening events.Arch Dis Child.2005;90(3):297-300.doi:10.1136/adc.2004.049452
+1.Kiechl-Kohlendorfer U, Hof D, Peglow UP, Traweger-Ravanelli B, Kiechl S.Epidemiology of apparent life threatening events.Arch Dis Child.2005;90(3):297-300.doi:10.1136/adc.2004.049452
+2.Monti MC, Borrelli P, Nosetti L, et al.Incidence of apparent life-threatening events and post-neonatal risk factors.Acta Paediatr.2017;106(2):204-210.doi:10.1111/apa.13391
+2.Monti MC, Borrelli P, Nosetti L, et al.Incidence of apparent life-threatening events and post-neonatal risk factors.Acta Paediatr.2017;106(2):204-210.doi:10.1111/apa.13391
+3.Ramgopal S, Soung J, Pitetti RD.Brief Resolved Unexplained Events: Analysis of an Apparent Life Threatening Event Database.Acad Pediatr.2019;19(8):963-968.doi:10.1016/j.acap.2019.08.001
+3.Ramgopal S, Soung J, Pitetti RD.Brief Resolved Unexplained Events: Analysis of an Apparent Life Threatening Event Database.Acad Pediatr.2019;19(8):963-968.doi:10.1016/j.acap.2019.08.001
+4.Parker K, Pitetti R.Mortality and child abuse in children presenting with apparent life-threatening events.Pediatr Emerg Care.2011;27(7):591-595.doi:10.1097/PEC.0b013e3182225563
+4.Parker K, Pitetti R.Mortality and child abuse in children presenting with apparent life-threatening events.Pediatr Emerg Care.2011;27(7):591-595.doi:10.1097/PEC.0b013e3182225563
+
+【BRUE的风险分层】
+根据一定的标准，BRUE婴儿被分为患有严重潜在疾病和/或不良后果的低风险或高风险。
+低风险婴儿的标准包括以下内容（1，2）：
+年龄>60天
+年龄>60天
+出生时胎龄≥32周且校正胎龄≥45周
+出生时胎龄≥32周且校正胎龄≥45周
+在单一且不重复的事件后就诊（没有先前的瘀伤和无多发瘀伤）
+在单一且不重复的事件后就诊（没有先前的瘀伤和无多发瘀伤）
+未经专业医疗人员实施心肺复苏
+未经专业医疗人员实施心肺复苏
+病史（如疑似儿童虐待、猝死家族史）与体格检查（如无发热、血压正常）中未发现警示特征
+病史（如疑似儿童虐待、猝死家族史）与体格检查（如无发热、血压正常）中未发现警示特征
+低风险婴儿存在严重潜在疾病的可能性极低，指南建议除有限观察和照护者教育外，无需或仅需少量干预（1）。
+高危婴儿包括所有不符合低风险标准的婴儿 (2)。高危组的患者更有可能有严重的潜在疾病，临床医生应该寻求解释性诊断。在研究中，大多数（87%至94%）BRUE被归类为高风险（3，4）。
+
+【风险分层参考文献】
+1.Tieder JS, Bonkowsky JL, Etzel RA, et al.Brief Resolved Unexplained Events (Formerly Apparent Life-Threatening Events) and Evaluation of Lower-Risk Infants.Pediatrics.2016;137(5):e20160590.doi:10.1542/peds.2016-0590
+1.Tieder JS, Bonkowsky JL, Etzel RA, et al.Brief Resolved Unexplained Events (Formerly Apparent Life-Threatening Events) and Evaluation of Lower-Risk Infants.Pediatrics.2016;137(5):e20160590.doi:10.1542/peds.2016-0590
+2.Merritt JL 2nd, Quinonez RA, Bonkowsky JL, et al.A Framework for Evaluation of the Higher-Risk Infant After a Brief Resolved Unexplained Event.Pediatrics.2019;144(2):e20184101.doi:10.1542/peds.2018-4101
+2.Merritt JL 2nd, Quinonez RA, Bonkowsky JL, et al.A Framework for Evaluation of the Higher-Risk Infant After a Brief Resolved Unexplained Event.Pediatrics.2019;144(2):e20184101.doi:10.1542/peds.2018-4101
+3.Nama N, Hall M, Neuman M, et al.Risk Prediction After a Brief Resolved Unexplained Event.Hosp Pediatr.2022;12(9):772-785.doi:10.1542/hpeds.2022-006637
+3.Nama N, Hall M, Neuman M, et al.Risk Prediction After a Brief Resolved Unexplained Event.Hosp Pediatr.2022;12(9):772-785.doi:10.1542/hpeds.2022-006637
+4.Nama N, Lee Z, Picco K, et al.Identifying serious underlying diagnoses among patients with brief resolved unexplained events (BRUEs): a Canadian cohort study.BMJ Paediatr Open.2024;8(1):e002525.Published 2024 Sep 24.doi:10.1136/bmjpo-2024-002525
+4.Nama N, Lee Z, Picco K, et al.Identifying serious underlying diagnoses among patients with brief resolved unexplained events (BRUEs): a Canadian cohort study.BMJ Paediatr Open.2024;8(1):e002525.Published 2024 Sep 24.doi:10.1136/bmjpo-2024-002525
+
+【BRUE的诊断】
+病史和体格检查
+病史和体格检查
+对于低风险婴儿：观察并持续脉搏血氧监测、心电图、百日咳检测
+对于低风险婴儿：观察并持续脉搏血氧监测、心电图、百日咳检测
+针对高风险婴儿：根据临床情况进行额外检查
+针对高风险婴儿：根据临床情况进行额外检查
+只有在对事件没有任何解释的情况下，才会诊断出BRUE。许多疾病可表现为类似的呼吸、反应性、肌张力及肤色异常，需考量的鉴别诊断与检测范围广泛。根据定义，任何不符合低风险标准的婴儿，都属于高风险。评估和管理高风险BRUE婴儿的临床医生应寻求解释性诊断。
+出现不符合BRUE诊断标准的症状或体征的婴儿评估详见其他章节（例如参见咳嗽、发热、恶心和呕吐、癫痫发作和疑似遗传性代谢障碍患者的处理方法）。
+在初步评估中被诊断为感染、心律失常、癫痫发作或虐待儿童的婴儿没有无法解释的事件，因此BRUE不是一个合适的诊断。
+BRUE事件的评估首先需详细采集病史，包括：
+照护者对事件的观察记录，尤其需描述以下情况：呼吸、肤色、肌张力及眼神的变化；患儿发出的声音；事件持续时间；以及任何先兆症状（如呼吸困难或肌张力低下）。
+照护者对事件的观察记录，尤其需描述以下情况：呼吸、肤色、肌张力及眼神的变化；患儿发出的声音；事件持续时间；以及任何先兆症状（如呼吸困难或肌张力低下）。
+干预措施（例如，温和的刺激、嘴对嘴呼吸、心肺复苏术）
+干预措施（例如，温和的刺激、嘴对嘴呼吸、心肺复苏术）
+产前（母亲）或目前的护理人员使用药物、烟草、酒精或非法物质
+产前（母亲）或目前的护理人员使用药物、烟草、酒精或非法物质
+婴儿的出生信息（例如，胎龄、围产期并发症）
+婴儿的出生信息（例如，胎龄、围产期并发症）
+喂养习惯（是否出现作呕、咳嗽、呕吐或体重增长不良）
+喂养习惯（是否出现作呕、咳嗽、呕吐或体重增长不良）
+生长和发育史（例如，身高和体重百分比，发育标志）
+生长和发育史（例如，身高和体重百分比，发育标志）
+以前的事件，包括近期的疾病或创伤
+以前的事件，包括近期的疾病或创伤
+最近接触传染病
+最近接触传染病
+有类似事件的家族史、早亡、长QT综合征或其他心律失常，或可能的病因性疾病
+有类似事件的家族史、早亡、长QT综合征或其他心律失常，或可能的病因性疾病
+病史内提示虐待儿童的表现应进行仔细评估。需警惕虐待可能的反复发作事件包括：检查结果与病史不符，且事件仅在与同一照护者独处时发生。
+由于处置方案部分取决于家庭照护能力与资源条件，临床医生还需重点评估婴儿的居住与家庭状况、照护者焦虑程度，以及婴儿能否及时获得后续医疗支持。
+
+【体格检查】
+进行体格检查以排查异常生命体征、呼吸异常、明显畸形与变形、神经系统异常（如姿势异常、头部控制力欠缺）、感染或创伤体征（尤其包括眼底镜检查发现视网膜出血）及其他可能存在的身体虐待指征。
+对于低风险的婴儿，指南建议最低限度的检测 (1)。如果有任何发现或低风险标准的例外，婴儿被认为是高风险的，并进行彻底的评估是必要的。
+对于低危婴儿，合理的做法是对其进行短暂的连续脉搏血氧监测，并观察1 ~ 4小时（1）。可考虑12导联心电图和百日咳检查；然而，不建议进行额外的检查，包括影像学检查、超声心动图、脑电图和血液检查。不鼓励仅为了心肺监测而入院。
+低风险婴儿的出院计划应包括布鲁里的教育，并与父母或照顾者共同决定进一步的评估和随访。应鼓励护理人员接受心肺复苏术培训。
+对于高风险婴儿，需进行实验室与影像学检查以评估潜在病因。部分检查应常规进行，而另一些检查则应根据临床对特定病因的怀疑、结合发作特征有针对性地实施（见表高危 BRUE 婴儿的评估）。婴儿通常需要住院接受心肺监测，尤其当需要复苏抢救或存在任何异常体征时。
+诊断性检测的产出相对较低，即便在高风险婴儿中也是如此。研究显示，在高危短暂不明原因事件（BRUE）患儿中，实验室检查、影像学检查或其他检测结果可为约 3% 的病例提供明确的诊断解释；而在因 BRUE 住院的婴儿中，该比例约为 7%（2,3）。
+
+【BRUE高危婴儿的评估】
+BRUE高危婴儿的评估
+可能的病因
+潜在的初步测试
+遗传性心律失常综合征及其他传导异常
+百日咳检测
+住院期间心电与脉搏血氧监测
+心律失常、呼吸暂停/低通气、缺氧
+全血细胞计数及分类
+感染、贫血
+培养（血液、粪便、尿液、脑脊液）、尿液分析、腰椎穿刺
+呼吸道合胞病毒和其他呼吸道病原体
+电解质（镁、钙、钠、钾）、碳酸氢盐和葡萄糖
+脱水、电解质紊乱、酸中毒、代谢紊乱
+肝功能检查
+肝胆疾病
+毒理筛查
+药物、违禁药品或其他物质或毒素
+胸部X光检查
+肺炎、心脏扩大
+骨骼系统X光检查
+骨折，非意外创伤
+心脏超声检查
+先天性心脏病、心肌病
+基于临床怀疑的附加检查
+动脉血气、血乳酸、血氨
+酸中毒，代谢紊乱
+基因检测
+遗传/代谢紊乱
+脑成像（头颅CT，MRI）
+创伤，出血，肿瘤
+食道PH值监测*
+胃食管反流病
+具有放射性奶扫描的上消化道造影*
+胃食管反流疾病
+多导睡眠监测或夜间血氧测定
+睡眠呼吸暂停/低通气（中枢性或阻塞性）、夜间低氧血症
+*有吐奶、作呕、呕吐、咳嗽或喂养困难病史的婴儿
+BRUE=短暂的、已解决的、无法解释的事件。
+*有吐奶、作呕、呕吐、咳嗽或喂养困难病史的婴儿
+BRUE=短暂的、已解决的、无法解释的事件。
+
+【诊断参考】
+1.Tieder JS, Bonkowsky JL, Etzel RA, et al.Brief Resolved Unexplained Events (Formerly Apparent Life-Threatening Events) and Evaluation of Lower-Risk Infants.Pediatrics.2016;137(5):e20160590.doi:10.1542/peds.2016-0590
+1.Tieder JS, Bonkowsky JL, Etzel RA, et al.Brief Resolved Unexplained Events (Formerly Apparent Life-Threatening Events) and Evaluation of Lower-Risk Infants.Pediatrics.2016;137(5):e20160590.doi:10.1542/peds.2016-0590
+2.Bochner R, Tieder JS, Sullivan E, et al.Explanatory Diagnoses Following Hospitalization for a Brief Resolved Unexplained Event.Pediatrics.2021;148(5):e2021052673.doi:10.1542/peds.2021-052673
+2.Bochner R, Tieder JS, Sullivan E, et al.Explanatory Diagnoses Following Hospitalization for a Brief Resolved Unexplained Event.Pediatrics.2021;148(5):e2021052673.doi:10.1542/peds.2021-052673
+3.Mittal MK, Tieder JS, Westphal K, et al.Diagnostic testing for evaluation of brief resolved unexplained events.Acad Emerg Med.2023;30(6):662-670.doi:10.1111/acem.14666
+3.Mittal MK, Tieder JS, Westphal K, et al.Diagnostic testing for evaluation of brief resolved unexplained events.Acad Emerg Med.2023;30(6):662-670.doi:10.1111/acem.14666
+
+【BRUE的处理】
+护理人员教育
+护理人员教育
+密切随访
+密切随访
+如果确定原因，则进行治疗
+如果确定原因，则进行治疗
+
+【低危婴儿】
+家长和看护者应接受关于 BRUE 的相关教育，并学习婴儿心肺复苏术及安全照护技能的培训。 家庭心肺监测是没有必要的。
+婴儿应在24小时内重新评估。
+
+【高危婴儿】
+如果确定病因，则进行治疗。
+家长应接受婴儿心肺复苏及安全照护培训。迄今为止，还没有研究表明，家庭监测仪提供的信息可用于事件期间的干预或成功预防原因不明的猝死。应根据具体诊断考虑使用家庭监护仪（1，2）。
+必须消除接触烟草烟雾。
+未住院的婴儿应在24小时内与初级保健医生进行随访。
+
+【治疗参考文献】
+1.Moon RY, Carlin RF, Hand I; TASK FORCE ON SUDDEN INFANT DEATH SYNDROME and THE COMMITTEE ON FETUS AND NEWBORN.Evidence Base for 2022 Updated Recommendations for a Safe Infant Sleeping Environment to Reduce the Risk of Sleep-Related Infant Deaths.Pediatrics.2022;150(1):e2022057991.doi:10.1542/peds.2022-057991
+1.Moon RY, Carlin RF, Hand I; TASK FORCE ON SUDDEN INFANT DEATH SYNDROME and THE COMMITTEE ON FETUS AND NEWBORN.Evidence Base for 2022 Updated Recommendations for a Safe Infant Sleeping Environment to Reduce the Risk of Sleep-Related Infant Deaths.Pediatrics.2022;150(1):e2022057991.doi:10.1542/peds.2022-057991
+2.Ramanathan R, Corwin MJ, Hunt CE, et al.Cardiorespiratory events recorded on home monitors: Comparison of healthy infants with those at increased risk for SIDS.JAMA.2001;285(17):2199-2207.doi:10.1001/jama.285.17.2199
+2.Ramanathan R, Corwin MJ, Hunt CE, et al.Cardiorespiratory events recorded on home monitors: Comparison of healthy infants with those at increased risk for SIDS.JAMA.2001;285(17):2199-2207.doi:10.1001/jama.285.17.2199
+
+【BRUE 的预后】
+BRUE的复发风险约为10%。
+在BRUE后住院的婴儿中，15%有额外的急诊或住院治疗，65%有随后的窒息发作，10%有随后的BRUE（1）。
+在一项关于ALTE的大型比较研究中，所有死亡均发生在有基础疾病的婴儿中（2）。
+
+【预后参考】
+1.Duncan DR, Liu E, Growdon AS, Larson K, Rosen RL.A Prospective Study of Brief Resolved Unexplained Events: Risk Factors for Persistent Symptoms.Hosp Pediatr.2022;12(12):1030-1043.doi:10.1542/hpeds.2022-006550
+1.Duncan DR, Liu E, Growdon AS, Larson K, Rosen RL.A Prospective Study of Brief Resolved Unexplained Events: Risk Factors for Persistent Symptoms.Hosp Pediatr.2022;12(12):1030-1043.doi:10.1542/hpeds.2022-006550
+2.McGovern MC, Smith MB.Causes of apparent life threatening events in infants: A systematic review.Arch Dis Child.2004;89(11):1043–1048.doi:10.1136/adc.2003.031740
+2.McGovern MC, Smith MB.Causes of apparent life threatening events in infants: A systematic review.Arch Dis Child.2004;89(11):1043–1048.doi:10.1136/adc.2003.031740
+婴儿短暂性呼吸暂停（BRUE，定义为短暂、自行缓解且原因不明的事件）是指：1岁以下婴儿出现发绀或面色苍白、呼吸异常、肌张力异常或反应异常的发作，且经临床评估无法明确病因。该诊断基于临床医生对事件的客观判定，而非照护者主观认为事件具有生命威胁性。
+婴儿短暂性呼吸暂停（BRUE，定义为短暂、自行缓解且原因不明的事件）是指：1岁以下婴儿出现发绀或面色苍白、呼吸异常、肌张力异常或反应异常的发作，且经临床评估无法明确病因。该诊断基于临床医生对事件的客观判定，而非照护者主观认为事件具有生命威胁性。
+根据病史和体检，经历 BRUE 的婴儿可分为低风险或高风险。
+根据病史和体检，经历 BRUE 的婴儿可分为低风险或高风险。
+低风险婴儿的事件不太可能是由于严重的医疗状况引起的，并且需要最少的评估。
+低风险婴儿的事件不太可能是由于严重的医疗状况引起的，并且需要最少的评估。
+高风险事件有许多可能的原因，但往往没有找到病因。
+高风险事件有许多可能的原因，但往往没有找到病因。
+应考虑呼吸道、神经系统、感染、心脏、代谢和胃肠道疾病以及虐待，并根据临床发现进行测试。
+应考虑呼吸道、神经系统、感染、心脏、代谢和胃肠道疾病以及虐待，并根据临床发现进行测试。
+对于体格检查异常、实验室检查结果异常、需要干预治疗或病史令人担忧的婴儿，均需住院观察。
+对于体格检查异常、实验室检查结果异常、需要干预治疗或病史令人担忧的婴儿，均需住院观察。
+治疗以病因治疗为主；家庭监测尚未被证实能降低死亡率。
+治疗以病因治疗为主；家庭监测尚未被证实能降低死亡率。
+预后由致病因素决定。
+预后由致病因素决定。

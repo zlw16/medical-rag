@@ -1,0 +1,138 @@
+标题：COVID相关神经精神症状
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/function-and-dysfunction-of-the-cerebral-lobes/covid-related-neuropsychiatric-manifestations
+============================================================
+
+新冠肺炎主要是一种急性呼吸系统综合症，但它也会导致包括大脑和周围神经系统在内的多个器官和身体系统功能障碍。
+新冠肺炎可分类为
+急性 COVID-19：发病后的前 4 周
+急性 COVID-19：发病后的前 4 周
+亚急性 COVID-19：急性 COVID-19 发作后 4 至 12 周出现症状和异常
+亚急性 COVID-19：急性 COVID-19 发作后 4 至 12 周出现症状和异常
+慢性 COVID-19（COVID-19 后综合征）：症状和异常在急性 COVID-19 发作后持续 ≥ 12 周，并且未被替代诊断解释
+慢性 COVID-19（COVID-19 后综合征）：症状和异常在急性 COVID-19 发作后持续 ≥ 12 周，并且未被替代诊断解释
+长期新冠肺炎是一个常用术语，广泛定义为在最初的、通常是轻微的感染阶段后持续或发展≥4周的症状、体征和状况。
+COVID-19 的神经和神经精神表现已被广泛报道，可发生在急性期和/或恢复期，恢复期可能会延长。
+
+【新冠病毒相关神经精神表现的病理生理学】
+导致 COVID-19 的冠状病毒 SARS-CoV-2 侵入嗅球。这种入侵可能是嗅觉和味觉改变的原因；然而，尚不清楚该病毒是否直接感染中枢神经系统（CNS）的其他部分。
+COVID-19 的神经精神症状可能是继发现象，而不是直接脑部感染的结果；可能的机制包括
+继发于重症常见因素和重症监护期间出现的并发症（例如，缺氧、电解质异常、肝肾功能障碍）的脑病
+继发于重症常见因素和重症监护期间出现的并发症（例如，缺氧、电解质异常、肝肾功能障碍）的脑病
+病毒诱导的免疫反应和自身免疫
+病毒诱导的免疫反应和自身免疫
+可能是某些 COVID 特异性并发症，例如血管内皮损伤、高炎症状态和/或凝血障碍
+可能是某些 COVID 特异性并发症，例如血管内皮损伤、高炎症状态和/或凝血障碍
+急性、严重的新冠肺炎通常会导致全身低氧血症，有时还会导致缺氧性脑病，这种病有许多众所周知的神经精神症状和后遗症，包括认知和记忆缺陷、人格改变和运动障碍。有时残留脑病持续存在，有时表现从未完全消退。
+无论病因如何，危重病都会使患者面临神经精神并发症的风险，包括谵妄和激动。特别危险的是重症监护病房 (ICU) 中患有潜在脑血管疾病、心力衰竭或高血压的老年患者。风险是由于重症疾病和重症监护室管理的常见因素，而不是疾病特有的因素，包括 COVID-19。这些因素包括全身灌注不足、长期使用镇静剂和其他药物、昼夜节律和睡眠-觉醒周期的破坏、代谢紊乱（如电解质异常）和败血症。当远离他们的典型环境并得到家人和朋友的支持时，无论是否患有明显痴呆症的老年患者都特别容易受到伤害。
+病毒诱导的免疫反应和自身免疫也可能在 COVID-19 发病机制中发挥作用。许多严重的新冠肺炎患者经历了一种炎症状态，伴随着促炎细胞因子的激增（细胞因子风暴）。分子模拟中，外来抗原可以类似于自身抗原，可以触发自身免疫反应，这是新冠肺炎相关神经精神并发症的潜在机制。
+COVID-19 特异性并发症可能与多种因素有关，包括：
+血管紧张素转换酶2（ACE-II）受体与SARS-CoV-2之间的相互作用：SARS-CoV-2通过这种相互作用进入细胞；这种相互作用被认为可能损害血管内皮细胞，导致可能影响大脑的微血管问题。ACE-II受体广泛存在于外周和中枢神经系统神经元中。
+血管紧张素转换酶2（ACE-II）受体与SARS-CoV-2之间的相互作用：SARS-CoV-2通过这种相互作用进入细胞；这种相互作用被认为可能损害血管内皮细胞，导致可能影响大脑的微血管问题。ACE-II受体广泛存在于外周和中枢神经系统神经元中。
+SARS-CoV-2引起的脑实质和血管变化：这些变化可能会损害血脑和血脑脊液屏障，导致神经元、支持细胞和脑血管系统的炎症。
+SARS-CoV-2引起的脑实质和血管变化：这些变化可能会损害血脑和血脑脊液屏障，导致神经元、支持细胞和脑血管系统的炎症。
+一种严重的全身炎症状态，影响多个器官，包括大脑：这种状态通常由严重的新冠肺炎引起。
+一种严重的全身炎症状态，影响多个器官，包括大脑：这种状态通常由严重的新冠肺炎引起。
+COVID-19 的血栓形成作用：这些作用可导致脑血管系统血栓形成并引起急性缺血性中风。
+COVID-19 的血栓形成作用：这些作用可导致脑血管系统血栓形成并引起急性缺血性中风。
+从急性疾病中恢复后，一些患者报告了广泛的神经精神症状，这些症状在初次感染数月后持续存在或首次出现 (1)。COVID-19 患者重病后的思维、记忆和注意力问题（所谓的脑雾）可能是由缺氧、去适应或创伤后应激障碍（创伤后应激障碍）。然而，在轻度 COVID-19 之后也有脑雾的报道，这表明其他因素也可能起作用（2)。
+既往感染过COVID-19的患者患痴呆症（包括阿尔茨海默病）的风险也增加（3）。SARS-CoV-2诱导的神经炎症可能驱动小胶质细胞活化、损害神经发生并导致少突胶质细胞丢失和神经元死亡。COVID-19后患者的脑脊液淀粉样蛋白β、神经丝轻链、神经颗粒素、胶质纤维酸性蛋白和tau的水平也会发生改变（4）。
+
+【病理生理学参考文献】
+1.Gonzalez‑Fernandez E and Huang J.Cognitive Aspects of COVID‑19.Curr Neurol Neurosci Rep.2023;23(9):531–538. doi:10.1007/s11910-023-01286-y
+1.Gonzalez‑Fernandez E and Huang J.Cognitive Aspects of COVID‑19.Curr Neurol Neurosci Rep.2023;23(9):531–538. doi:10.1007/s11910-023-01286-y
+2.Graham EL, Clark JR, Orban ZS, et al.Persistent neurologic symptoms and cognitive dysfunction in non-hospitalized Covid-19 “long haulers.”Ann Clin Transl Neurol.2021;8(5):1073–1085.doi: 10.1002/acn3.51350
+2.Graham EL, Clark JR, Orban ZS, et al.Persistent neurologic symptoms and cognitive dysfunction in non-hospitalized Covid-19 “long haulers.”Ann Clin Transl Neurol.2021;8(5):1073–1085.doi: 10.1002/acn3.51350
+3.Ocampo FF, Holroyd KB.Updates on the neurological manifestations of SARS-CoV-2 infection.Curr Opin Infect Dis.2025;38(3):234-241.doi:10.1097/QCO.0000000000001110
+3.Ocampo FF, Holroyd KB.Updates on the neurological manifestations of SARS-CoV-2 infection.Curr Opin Infect Dis.2025;38(3):234-241.doi:10.1097/QCO.0000000000001110
+4.Maliha ST, Fatemi R, Araf Y.COVID-19 and the brain: understanding the pathogenesis and consequences of neurological damage.Mol Biol Rep.2024;51(1):318.Published 2024 Feb 22.doi:10.1007/s11033-024-09279-x
+4.Maliha ST, Fatemi R, Araf Y.COVID-19 and the brain: understanding the pathogenesis and consequences of neurological damage.Mol Biol Rep.2024;51(1):318.Published 2024 Feb 22.doi:10.1007/s11033-024-09279-x
+
+【与新冠病毒相关的神经精神表现的症状和体征】
+疫情期间，约 80% 的 COVID-19 住院患者报告有神经系统表现（1）。一项大型回顾性队列研究报告说，在 COVID-19 住院后 6 个月内，神经和精神疾病的发病率很高，尤其是在重症患者中(2）。自主神经失调（自主神经失调，如体位性直立性低血压）也可在 COVID-19 中发展，更常见于慢性期。
+
+【急性神经精神症状】
+COVID-19 的急性神经系统并发症可表现为非特异性神经系统症状，如头痛、头晕、肌痛和疲劳。COVID-19 更具体的症状包括嗅觉丧失（嗅觉丧失) 和味道 (失味症)。在重症患者中，谵妄很常见，导致注意力、认知和意识水平的波动；激动或嗜睡可能占主导地位。
+COVID-19 罕见但更严重的神经系统并发症可能包括急性缺血性中风、颅内出血、脑膜炎、脑炎和癫痫发作。已报告了包括格林-巴利综合征（GBS）在内的神经肌肉疾病病例，但在 COVID-19 大流行期间，GBS 的总体发病率似乎与基线水平无显著差异。然而，在疫情期间，其他可能诱发这些疾病的感染（如流感）数量减少，因此，新冠病毒感染（COVID-19）可能比其他感染更显著地增加了相关风险。
+急性 COVID-19 的更严重并发症，如缺血性或出血性中风、缺氧缺氧损伤、后部可逆性脑病综合征和急性播散性脊髓炎，可能导致需要广泛康复的挥之不去的或永久性的神经功能缺损 (1)。（PRES是一种急性或亚急性临床放射学综合征，其特征是各种神经症状，包括头痛、精神状态改变、癫痫发作和视觉障碍，以及顶枕区的独特信号变化模式，反映血管源性水肿[如MRI所示]。）此外，由急性 COVID-19 或使用神经肌肉阻滞剂引起的急性危重病肌病和周围神经病可导致持续数周至数月的残留症状。
+
+【康复后和慢性神经精神症状】
+在康复期间以及作为新冠肺炎后综合征（也称为长期新冠）的一部分，一些患者会出现持续的神经精神症状，包括慢性乏力、弥漫性肌肉疼痛和恢复不佳的睡眠（3）。
+认知障碍的出现有无波动，包括脑雾，这可能表现为注意力、记忆力、接受性语言和/或执行功能的问题。这些神经和认知症状是长期新冠肺炎的主要特征，通常会显著影响日常生活活动。
+偏头痛样头痛（通常对传统镇痛药无效）以及麻木和刺痛也很常见。在其他症状消失后，味觉和嗅觉的丧失可能会持续存在。
+情绪障碍的症状，主要是焦虑和抑郁，在从新冠肺炎中康复的患者中较为常见，而在从流感或其他严重呼吸道感染恢复的患者中更容易出现(2）。
+患者也面临更高的风险创伤后应激障碍，具有反复出现的侵入性记忆，重播该事件并经常做噩梦；如果存在，PTSD 会使任何共存的情绪和焦虑障碍的诊断复杂化 (4)。
+在一项系统综述和荟萃分析中，长期新冠肺炎患者中持续性神经精神症状的合并患病率如下（5）：
+睡眠障碍: 27.4%
+睡眠障碍: 27.4%
+疲劳：24.4%
+疲劳：24.4%
+客观认知障碍：20.2%
+客观认知障碍：20.2%
+焦虑，19.1%
+焦虑，19.1%
+创伤后应激障碍：15.7%
+创伤后应激障碍：15.7%
+主观认知障碍：15.3%
+主观认知障碍：15.3%
+抑郁症：12.9%
+抑郁症：12.9%
+嗅觉障碍：11.4%
+嗅觉障碍：11.4%
+味觉障碍：7.4%
+味觉障碍：7.4%
+头痛：6.6%
+头痛：6.6%
+感觉运动障碍：5.5%
+感觉运动障碍：5.5%
+头晕：2.9%
+头晕：2.9%
+
+【症状和体征参考文献】
+1.Liotta EM, Batra A, Clark JR, et al. Frequent neurologic manifestations and encephalopathy-associated morbidity in Covid-19 patients.Ann Clin Transl Neurol.2020;7(11):2221-2230.doi:10.1002/acn3.51210
+1.Liotta EM, Batra A, Clark JR, et al. Frequent neurologic manifestations and encephalopathy-associated morbidity in Covid-19 patients.Ann Clin Transl Neurol.2020;7(11):2221-2230.doi:10.1002/acn3.51210
+2.Taquet M, Geddes JR, Husain M, et al.6-Month neurological and psychiatric outcomes in 236379 survivors of COVID-19: A retrospective cohort study using electronic health records.Lancet Psychiatry.2021;8(5):416-427.doi:10.1016/S2215-0366(21)00084-5
+2.Taquet M, Geddes JR, Husain M, et al.6-Month neurological and psychiatric outcomes in 236379 survivors of COVID-19: A retrospective cohort study using electronic health records.Lancet Psychiatry.2021;8(5):416-427.doi:10.1016/S2215-0366(21)00084-5
+3.Graham EL, Clark JR, Orban ZS, et al.Persistent neurologic symptoms and cognitive dysfunction in non-hospitalized Covid-19 “long haulers.”Ann Clin Transl Neurol.2021;8(5):1073-1085.doi:10.1002/acn3.51350
+3.Graham EL, Clark JR, Orban ZS, et al.Persistent neurologic symptoms and cognitive dysfunction in non-hospitalized Covid-19 “long haulers.”Ann Clin Transl Neurol.2021;8(5):1073-1085.doi:10.1002/acn3.51350
+4.Kubota T, Kuroda N, Sone D.Neuropsychiatric aspects of long COVID: A comprehensive review.Psychiatry Clin Neurosci.2023;77(2):84-93.doi:10.1111/pcn.13508
+4.Kubota T, Kuroda N, Sone D.Neuropsychiatric aspects of long COVID: A comprehensive review.Psychiatry Clin Neurosci.2023;77(2):84-93.doi:10.1111/pcn.13508
+5.Badenoch JB, Rengasamy ER, Watson C et al.Persistent neuropsychiatric symptoms after COVID-19: A systematic review and meta-analysis.Brain Commun.2021;4(1):fcab297.Published 2021 Dec 17.doi:10.1093/braincomms/fcab297
+5.Badenoch JB, Rengasamy ER, Watson C et al.Persistent neuropsychiatric symptoms after COVID-19: A systematic review and meta-analysis.Brain Commun.2021;4(1):fcab297.Published 2021 Dec 17.doi:10.1093/braincomms/fcab297
+
+【新冠肺炎相关神经精神表现的诊断】
+临床评估
+临床评估
+检测其他致病性疾病
+检测其他致病性疾病
+如果患者有局灶性神经功能缺损，则需要进行脑部 MRI 检查。
+如果患者在急性 COVID 期间或之后出现神经精神症状，应进行脑部 MRI 检查和适当的实验室检查，以排除其他诊断（例如代谢紊乱、中枢神经系统感染和结构紊乱、精神紊乱）。
+COVID 患者特定心境障碍（如重度抑郁症）和焦虑症的诊断标准与其他人相同。如果患者在急性新冠肺炎后出现认知障碍，神经心理测试可能有助于定义认知缺陷并衡量其严重程度。应使用标准筛查工具来识别患有焦虑、抑郁、睡眠障碍、PTSD、自主神经功能障碍和疲劳的患者。
+
+【新冠肺炎相关神经精神症状的治疗】
+支持治疗
+支持治疗
+有时抗抑郁药
+有时抗抑郁药
+对于大多数 COVID-19 的神经精神后遗症，支持性护理是主要干预措施。旨在优化管理长期新冠肺炎患者合并症的综合性多学科方法很重要。
+虽然数据有限，但使用选择性5-羟色胺再摄取抑制剂 (SSRI) 治疗与COVID-19相关的抑郁症可能有效（1, 2）。由于选择性血清素再摄取抑制剂（SSRI）和血清素-去甲肾上腺素再摄取抑制剂（SNRI）具有抗炎特性，这些药物被假设能够改善伴随COVID-19的炎症状态以及并存的抑郁障碍。
+
+【治疗参考文献】
+1.Mazza MG, Palladini M, Poletti S, Benedetti F.Post-COVID-19 Depressive Symptoms: Epidemiology, Pathophysiology, and Pharmacological Treatment.CNS Drugs.2022;36(7):681-702.doi:10.1007/s40263-022-00931-3
+1.Mazza MG, Palladini M, Poletti S, Benedetti F.Post-COVID-19 Depressive Symptoms: Epidemiology, Pathophysiology, and Pharmacological Treatment.CNS Drugs.2022;36(7):681-702.doi:10.1007/s40263-022-00931-3
+2.Mazza MG, Zanardi R, Palladini M, Rovere-Querini P, Benedetti F.Rapid response to selective serotonin reuptake inhibitors in post-COVID depression.Eur Neuropsychopharmacol.2022;54:1-6.doi:10.1016/j.euroneuro.2021.09.009
+2.Mazza MG, Zanardi R, Palladini M, Rovere-Querini P, Benedetti F.Rapid response to selective serotonin reuptake inhibitors in post-COVID depression.Eur Neuropsychopharmacol.2022;54:1-6.doi:10.1016/j.euroneuro.2021.09.009
+
+【新型冠状病毒相关神经精神表现的预后】
+从 COVID-19 的神经精神后遗症中恢复的持续时间和程度尚不清楚。需要进行长期随访的前瞻性研究。
+新冠肺炎住院患者在急性期和恢复期可能出现神经精神症状。
+新冠肺炎住院患者在急性期和恢复期可能出现神经精神症状。
+在COVID-19急性期，危重患者可能出现谵妄和躁动或嗜睡。
+在COVID-19急性期，危重患者可能出现谵妄和躁动或嗜睡。
+从 COVID-19 康复后，许多患者报告持续存在神经精神症状（长期 COVID）；这些症状可能包括睡眠障碍、疲劳、记忆和认知受损、头痛、麻木和刺痛或嗅觉丧失。
+从 COVID-19 康复后，许多患者报告持续存在神经精神症状（长期 COVID）；这些症状可能包括睡眠障碍、疲劳、记忆和认知受损、头痛、麻木和刺痛或嗅觉丧失。
+神经心理学测试在定义认知缺陷和测量其严重程度方面可能有用。
+神经心理学测试在定义认知缺陷和测量其严重程度方面可能有用。
+对于有急性神经精神症状或从 COVID-19 中康复的患者，通过适当的影像学和实验室检测排除替代诊断。
+对于有急性神经精神症状或从 COVID-19 中康复的患者，通过适当的影像学和实验室检测排除替代诊断。
+根据需要对患者进行支持性护理和抗抑郁药治疗，并采用综合、多学科的方法来管理长期新冠肺炎患者的合并症。
+根据需要对患者进行支持性护理和抗抑郁药治疗，并采用综合、多学科的方法来管理长期新冠肺炎患者的合并症。

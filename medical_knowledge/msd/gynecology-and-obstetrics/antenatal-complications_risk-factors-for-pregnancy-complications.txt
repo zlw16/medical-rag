@@ -1,0 +1,309 @@
+标题：妊娠并发症的危险因素
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/antenatal-complications/risk-factors-for-pregnancy-complications
+============================================================
+
+妊娠期并发症的危险因素包括：
+孕产妇既往的疾病和特征
+孕产妇既往的疾病和特征
+可改变的危险因素（如吸烟、药物滥用）
+可改变的危险因素（如吸烟、药物滥用）
+既往产科并发症（如既往子痫前期病史）
+既往产科并发症（如既往子痫前期病史）
+这里将讨论一些主要的风险因素。有关可能使怀孕复杂化的其他医疗状况，请参阅妊娠合并疾病。
+先前存在的糖尿病约有 1% 的妊娠存在（1，2），约有 8% 的孕妇患有妊娠糖尿病（3）。随着肥胖发生率的增加，糖尿病发病率也增加了。
+先前存在的依赖胰岛素的糖尿病增加了以下风险：
+肾盂肾炎
+肾盂肾炎
+酮症酸中毒
+酮症酸中毒
+子痫前期
+子痫前期
+胎儿死亡
+胎儿死亡
+严重胎儿畸形
+严重胎儿畸形
+巨大胎儿（胎儿体重>4.5公斤）
+巨大胎儿（胎儿体重>4.5公斤）
+如果存在血管病变，胎儿生长受限
+如果存在血管病变，胎儿生长受限
+需要早产分娩、剖腹产，或手术分娩
+需要早产分娩、剖腹产，或手术分娩
+先前患有糖尿病的孕妇中巨大胎儿的发生率比一般人群中的孕妇高约 50%。围产期胎儿或新生儿死亡的发生率也较高。
+既往患有糖尿病的女性更有可能因产科或医学适应症而需要早产。怀孕期间的锻炼（通过明智的饮食改变）减少了这些妇女对剖宫产和手术分娩的需求（4,5）。
+怀孕前和怀孕早期严格控制血糖对防止胎儿畸形至关重要。
+孕期对胰岛素的需要量常会增加。
+妊娠糖尿病增加了以下的风险：
+妊娠期高血压疾病
+妊娠期高血压疾病
+巨大胎儿
+巨大胎儿
+需要剖宫产
+需要剖宫产
+孕24～28周时常规筛查妊娠期糖尿病，如果有高危因素，则在早孕期进行筛查。危险因素包括：
+妊娠期糖尿病史
+妊娠期糖尿病史
+既往妊娠分娩巨大儿
+既往妊娠分娩巨大儿
+不明原因流产
+不明原因流产
+孕前体重指数（BMI）>30 kg/m2
+孕前体重指数（BMI）>30 kg/m2
+母亲年龄>40岁
+母亲年龄>40岁
+糖尿病家族史
+糖尿病家族史
+非西班牙裔亚裔/太平洋岛民和西班牙裔/拉丁裔族裔
+非西班牙裔亚裔/太平洋岛民和西班牙裔/拉丁裔族裔
+筛查和确认妊娠糖尿病的诊断可以分 1 或 2 个步骤完成 (6,7)：
+1 步测试：空腹、75 克葡萄糖、2 小时口服葡萄糖耐量测试 (GTT) 。异常结果包括以下任何一项：空腹（≥ 92 mg/dL [5.1 mmol/L]）；1 小时（≥ 180 mg/dL [10 mmol/L]）；或 2 小时（≥ 153 mg/dL [8.5 mmol/L]）。
+1 步测试：空腹、75 克葡萄糖、2 小时口服葡萄糖耐量测试 (GTT) 。异常结果包括以下任何一项：空腹（≥ 92 mg/dL [5.1 mmol/L]）；1 小时（≥ 180 mg/dL [10 mmol/L]）；或 2 小时（≥ 153 mg/dL [8.5 mmol/L]）。
+2 步测试：非空腹、50 g 葡萄糖、1 小时 GTT；如果异常（≥ 130 mg/dL [7.5 mmol/L] 至 140 mg/dL [7.8 mmol/L]），则空腹、100 g、3 小时 GTT。关于结果的解读，请参见表格使用 3 小时口服葡萄糖耐量试验确定妊娠糖尿病的血糖阈值。
+2 步测试：非空腹、50 g 葡萄糖、1 小时 GTT；如果异常（≥ 130 mg/dL [7.5 mmol/L] 至 140 mg/dL [7.8 mmol/L]），则空腹、100 g、3 小时 GTT。关于结果的解读，请参见表格使用 3 小时口服葡萄糖耐量试验确定妊娠糖尿病的血糖阈值。
+美国妇产科学院 (ACOG) 建议采用两步测试来诊断妊娠期糖尿病。一步法已被其他组织使用和推广，包括国际糖尿病和妊娠研究组 (IADPSG)（6）。
+
+【使用3小时口服葡萄糖耐量试验检测妊娠期糖尿病的血糖阈值*】
+使用3小时口服葡萄糖耐量试验检测妊娠期糖尿病的血糖阈值*
+空腹血糖 mg/dL (mmol/L)
+1小时 mg/dL (mmol/L)
+2小时 mg/dL (mmol/L)
+3小时 mg/dL (mmol/L)
+Carpenter和Coustan标准
+95 (5.3)
+180 (10)
+155 (8.6)
+140 (7.8)
+美国国家糖尿病数据组
+105 (5.8)
+190 (10.6)
+165 (9.2)
+145 (8)
+*使用100克葡萄糖负荷。
+*使用100克葡萄糖负荷。
+最佳妊娠期糖尿病治疗（包括饮食调整、运动、密切监测血糖水平以及必要时使用胰岛素）可降低不良的母体、胎儿和新生儿结局风险。妊娠期糖尿病女性一生中发生心血管事件的风险较高，分娩后应转诊接受适当的心血管风险评估和随访。
+
+【妊娠期诊断显性糖尿病的阈值】
+妊娠期诊断显性糖尿病的阈值
+空腹血浆葡萄糖
+126 mg/dL [7.0 mmol/L]
+HbA1C (糖化血红蛋白)
+6.5%
+随机血浆葡萄糖
+200 mg/dL，且>1次
+* 如果临床医生怀疑患者有糖尿病，则需检测空腹血糖和HbA1C（例如，对于有危险因素的患者，如肥胖症、明确的糖尿病家族史或既往妊娠史中有妊娠糖尿病者）。
+* 如果临床医生怀疑患者有糖尿病，则需检测空腹血糖和HbA1C（例如，对于有危险因素的患者，如肥胖症、明确的糖尿病家族史或既往妊娠史中有妊娠糖尿病者）。
+患有妊娠期糖尿病的女性可能在孕前已存在未确诊的糖尿病。因此，她们应在产后6至12周进行糖尿病筛查，采用与非孕期患者相同的检测方法和诊断标准。
+参见妊娠期糖尿病了解有关妊娠期糖尿病管理的详细信息。
+
+【糖尿病参考文献】
+1.Deputy NP, Kim SY, Conrey EJ, Bullard KM: Prevalence and Changes in Preexisting Diabetes and Gestational Diabetes Among Women Who Had a Live Birth - United States, 2012-2016.MMWR Morb Mortal Wkly Rep67(43):1201-1207, 2018.Published 2018 Nov 2.doi:10.15585/mmwr.mm6743a2
+1.Deputy NP, Kim SY, Conrey EJ, Bullard KM: Prevalence and Changes in Preexisting Diabetes and Gestational Diabetes Among Women Who Had a Live Birth - United States, 2012-2016.MMWR Morb Mortal Wkly Rep67(43):1201-1207, 2018.Published 2018 Nov 2.doi:10.15585/mmwr.mm6743a2
+2.Goya M, Codina M: Diabetes mellitus and pregnancy.Updated clinical practice guideline 2021.Executive summary.Endocrinol Diabetes Nutr (Engl Ed)70 Suppl 1:1-6, 2023.doi:10.1016/j.endien.2021.12.006
+2.Goya M, Codina M: Diabetes mellitus and pregnancy.Updated clinical practice guideline 2021.Executive summary.Endocrinol Diabetes Nutr (Engl Ed)70 Suppl 1:1-6, 2023.doi:10.1016/j.endien.2021.12.006
+3.Gregory EC, Ely DM: Trends and Characteristics in Gestational Diabetes: United States, 2016-2020.Natl Vital Stat Rep71(3):1-15, 2022.
+3.Gregory EC, Ely DM: Trends and Characteristics in Gestational Diabetes: United States, 2016-2020.Natl Vital Stat Rep71(3):1-15, 2022.
+4.Artal R: Exercise: The alternative therapeutic intervention for gestational diabetes.Clinical Obstetrics and Gynecology46 (2):479–487, 2003.
+4.Artal R: Exercise: The alternative therapeutic intervention for gestational diabetes.Clinical Obstetrics and Gynecology46 (2):479–487, 2003.
+5.Artal R: The role of exercise in reducing the risks of gestational diabetes mellitus in obese women.Best Pract Res Clin Obstet Gynaecol29 (1):123–4132, 2015.
+5.Artal R: The role of exercise in reducing the risks of gestational diabetes mellitus in obese women.Best Pract Res Clin Obstet Gynaecol29 (1):123–4132, 2015.
+6.American College of Obstetrics and Gynecology (ACOG): ACOG Practice Bulletin No. 190: Gestational Diabetes Mellitus.Obstet Gynecol.2018;131(2):e49-e64.doi:10.1097/AOG.0000000000002501
+6.American College of Obstetrics and Gynecology (ACOG): ACOG Practice Bulletin No. 190: Gestational Diabetes Mellitus.Obstet Gynecol.2018;131(2):e49-e64.doi:10.1097/AOG.0000000000002501
+7.American Diabetes Association Professional Practice Committee: 2.Diagnosis and Classification of Diabetes: Standards of Care in Diabetes-2024.Diabetes Care.2024;47(Suppl 1):S20-S42.doi:10.2337/dc24-S002
+7.American Diabetes Association Professional Practice Committee: 2.Diagnosis and Classification of Diabetes: Standards of Care in Diabetes-2024.Diabetes Care.2024;47(Suppl 1):S20-S42.doi:10.2337/dc24-S002
+妊娠期高血压疾病分为（1）
+慢性高血压：在怀孕前出现或在怀孕 20 周前出现
+慢性高血压：在怀孕前出现或在怀孕 20 周前出现
+妊娠期高血压：妊娠 20 周后新发的收缩压和/或舒张压（BP）≥ 140/≥ 90 mm Hg，且两次测量至少间隔 4 小时。
+妊娠期高血压：妊娠 20 周后新发的收缩压和/或舒张压（BP）≥ 140/≥ 90 mm Hg，且两次测量至少间隔 4 小时。
+先兆子痫：妊娠 20 周后新发的持续性（4 小时内出现 2 次）收缩压和/或舒张压 ≥ 140/≥ 90 mm Hg 或至少 1 次测量收缩压和/或舒张压 ≥ 160/≥ 110 mm Hg 加上新发不明原因蛋白尿（> 300 mg/24 小时或尿蛋白/肌酐比 ≥ 0.3 或试纸读数 2+；在没有蛋白尿的情况下，新发高血压伴新发的其他终末器官损伤迹象（例如，血小板减少症 [血小板 < 100,000/mcL]、肝功能受损、肾功能不全、肺水肿、新发头痛 [对药物无反应且不能被其他诊断解释]、视觉症状）。
+先兆子痫：妊娠 20 周后新发的持续性（4 小时内出现 2 次）收缩压和/或舒张压 ≥ 140/≥ 90 mm Hg 或至少 1 次测量收缩压和/或舒张压 ≥ 160/≥ 110 mm Hg 加上新发不明原因蛋白尿（> 300 mg/24 小时或尿蛋白/肌酐比 ≥ 0.3 或试纸读数 2+；在没有蛋白尿的情况下，新发高血压伴新发的其他终末器官损伤迹象（例如，血小板减少症 [血小板 < 100,000/mcL]、肝功能受损、肾功能不全、肺水肿、新发头痛 [对药物无反应且不能被其他诊断解释]、视觉症状）。
+具有严重特征的先兆子痫：表现为持续性（4 小时内 2 次发作）收缩压和/或舒张压 ≥ 160/≥ 110 mm Hg 和/或其他终末器官损伤迹象的先兆子痫
+具有严重特征的先兆子痫：表现为持续性（4 小时内 2 次发作）收缩压和/或舒张压 ≥ 160/≥ 110 mm Hg 和/或其他终末器官损伤迹象的先兆子痫
+HELLP综合征：一种伴有溶血、肝酶升高和血小板计数低的重度子痫前期
+HELLP综合征：一种伴有溶血、肝酶升高和血小板计数低的重度子痫前期
+慢性高血压合并先兆子痫：既往患有高血压的女性在 20 周后高血压加重，出现新的或恶化的蛋白尿或其他终末器官损害的迹象
+慢性高血压合并先兆子痫：既往患有高血压的女性在 20 周后高血压加重，出现新的或恶化的蛋白尿或其他终末器官损害的迹象
+子痫：新发的强直阵挛、局灶性或多灶性癫痫发作，无法用其他原因解释。
+子痫：新发的强直阵挛、局灶性或多灶性癫痫发作，无法用其他原因解释。
+慢性高血压会增加以下风险：
+胎儿生长受限（通过降低子宫胎盘血流量）
+胎儿生长受限（通过降低子宫胎盘血流量）
+子痫前期和子痫
+子痫前期和子痫
+胎儿和孕妇不良结局
+胎儿和孕妇不良结局
+在尝试怀孕之前，应告知患有高血压的女性相关风险。产前护理应在怀孕早期尽早开始。需要抗高血压治疗的患有慢性高血压的孕妇应开始或继续使用适当的药物，并转诊给母胎医学专家（2）。
+妊娠期慢性高血压的管理包括测量基线肾功能（如血清肌酐、血尿素氮[BUN]）、眼底检查和直接心血管评估（听诊，有时心电图、超声心动图或两者）。在孕期的每一阶段检测24小时尿蛋白、血清尿酸和肌酐以及血细胞比容。
+孕28周超声检查监测胎儿生长情况，此后每4周检查一次。由母胎专科医师利用多血管多普勒超声检测评价胎儿生长迟缓情况。
+如果妇女有较高的先兆子痫风险，临床医生可能开具小剂量阿司匹林（81mg至 162 毫克，每天口服一次），从妊娠12~28周开始每日服用，直至分娩（3,4）。
+有先兆子痫或妊娠高血压病史的妇女一生中发生心血管事件的风险较高，分娩后应转诊接受适当的心血管风险评估和随访。
+
+【高血压参考文献】
+1.American College of Obstetrics and Gynecology (ACOG): ACOG Practice Bulletin, Number 222: Gestational hypertension and preeclampsia.Obstet Gynecol133 (1):1, 2019.doi: 10.1097/AOG.0000000000003018
+1.American College of Obstetrics and Gynecology (ACOG): ACOG Practice Bulletin, Number 222: Gestational hypertension and preeclampsia.Obstet Gynecol133 (1):1, 2019.doi: 10.1097/AOG.0000000000003018
+2.Tita AT, Szychowski JM, Boggess K, et al: Treatment for Mild Chronic Hypertension during Pregnancy.N Engl J Med386(19):1781-1792, 2022.doi:10.1056/NEJMoa2201295
+2.Tita AT, Szychowski JM, Boggess K, et al: Treatment for Mild Chronic Hypertension during Pregnancy.N Engl J Med386(19):1781-1792, 2022.doi:10.1056/NEJMoa2201295
+3.American College of Obstetrics and Gynecology (ACOG)ACOG Committee Opinion No. 743: Low-dose aspirin use during pregnancy.Obstet Gynecol132 (1):e44–e52, 2018.doi: 10.1097/AOG.0000000000002708
+3.American College of Obstetrics and Gynecology (ACOG)ACOG Committee Opinion No. 743: Low-dose aspirin use during pregnancy.Obstet Gynecol132 (1):e44–e52, 2018.doi: 10.1097/AOG.0000000000002708
+4.Ayyash M, Goyert G, Garcia R, et al: Efficacy and Safety of Aspirin 162 mg for Preeclampsia Prophylaxis in High-Risk Patients.Am J Perinatol.Published online July 29, 2023.doi:10.1055/s-0043-1771260
+4.Ayyash M, Goyert G, Garcia R, et al: Efficacy and Safety of Aspirin 162 mg for Preeclampsia Prophylaxis in High-Risk Patients.Am J Perinatol.Published online July 29, 2023.doi:10.1055/s-0043-1771260
+
+【甲状腺疾病】
+甲状腺疾病可能先于怀孕，或在妊娠期发展。  怀孕并不改变甲亢和甲减的症状。
+疾病和治疗药物对胎儿的影响各不相同。  但通常情况下，未经治疗或未充分治疗的甲状腺功能亢进可导致
+胎儿生长受限
+胎儿生长受限
+子痫前期
+子痫前期
+未经治疗的甲状腺功能低下可导致
+儿童智力缺陷
+儿童智力缺陷
+自然流产
+自然流产
+产妇甲减的最常见原因为桥本氏甲状腺炎和格雷夫斯病的治疗。
+如果女性患有或曾经有过甲状腺疾病，那么妊娠期和妊娠后要密切监测孕妇及婴儿出生后的甲状腺功能状态。对于妊娠期发现的甲状腺肿和甲状腺结节，应与非妊娠期患者一样进行评估（见甲状腺结节患者的治疗方法和单纯无毒性甲状腺肿的诊断)。
+
+【性传播感染（STIs)】
+(参见性传播疾病和妊娠期感染性疾病。）
+应在怀孕期间进行性传播感染筛查，以使治疗成为可能，并防止宫内或围产期传播感染对胎儿或新生儿造成不良影响。美国的先天性梅毒发病率持续上升（见美国疾病预防控制中心:2021年全国性病概况）。
+常规产前护理包括 HIV 感染、乙型肝炎、丙型肝炎 (1) 和梅毒的筛查测试，如果＜ 25 岁，则在第一次产前检查时进行衣原体感染和淋病筛查。如果梅毒风险持续存在或患者居住在梅毒流行地区，则应在孕期和分娩时再次进行梅毒检测（2）。孕妇感染以上病原体均需抗菌治疗。
+胎儿宫内梅毒可造成胎儿死亡、先天性畸形以及严重的残疾。
+如果不接受治疗，艾滋病毒传播从母亲到孩子的风险在产前约为30%，在产时约为25%。孕妇在怀孕前和怀孕期间以及新生儿出生后6至12小时内接受抗逆转录病毒治疗，可降低HIV传播给胎儿的风险三分之二；联合使用2或3种高效抗逆转录病毒药物时风险更低（<2%）。在怀孕期间和分娩时给母亲服用高效抗逆转录病毒药物，以防止母婴传播。
+怀孕期间，肝炎、细菌性阴道病、淋病和生殖器衣原体感染会增加早产和胎膜早破的风险。
+治疗细菌性阴道病、淋病或衣原体感染可能延长从胎膜破裂到分娩的时间，并可通过减少胎儿炎症来改善胎儿预后。
+
+【性传播感染参考】
+1.American College of Obstetrics and Gynecology (ACOG): ACOG Clinical Practice Guideline No. 6.: Viral Hepatitis in Pregnancy,Obstet Gynecol2023;142(3):745-759.doi:10.1097/AOG.0000000000005300
+1.American College of Obstetrics and Gynecology (ACOG): ACOG Clinical Practice Guideline No. 6.: Viral Hepatitis in Pregnancy,Obstet Gynecol2023;142(3):745-759.doi:10.1097/AOG.0000000000005300
+2.Workowski KA. , Laura H. Bachmann LH, Chan PA: Sexually transmitted infections treatment guidelines, 2021.MMWR Recomm Rep70 (4):1–187, 2021.doi: http://dx.doi.org/10.15585/mmwr.rr7004a1external icon
+2.Workowski KA. , Laura H. Bachmann LH, Chan PA: Sexually transmitted infections treatment guidelines, 2021.MMWR Recomm Rep70 (4):1–187, 2021.doi: http://dx.doi.org/10.15585/mmwr.rr7004a1external icon
+
+【女性生殖道异常】
+子宫和宫颈结构异常（如子宫纵隔、双角子宫）增加以下可能性
+妊娠中期自然流产
+妊娠中期自然流产
+胎儿先露异常
+胎儿先露异常
+早产或分娩
+早产或分娩
+分娩障碍
+分娩障碍
+需要剖宫产
+需要剖宫产
+子宫肌瘤不常引起胎盘异常（如前置胎盘）、早产以及反复自然流产。子宫肌瘤可能在孕期迅速生长或退化；退化常造成严重的疼痛和腹膜刺激征，并可能导致早产。
+宫颈机能不全易发生早产。 宫颈机能不全的风险在先前手术（例如治疗性流产、阴道器械助产）中出现过宫颈撕裂伤或损伤的女性中更高。宫颈机能不全可通过手术干预（宫颈环扎术）治疗。
+如果在孕前曾进行过子宫肌瘤剥除术，且术中进入宫腔，需行剖宫产分娩，因为阴道分娩有发生子宫破裂的风险。
+导致不良产科结局的子宫畸形，常需要在分娩后进行手术纠正。
+
+【药物滥用】
+怀孕期间使用药物（包括咖啡因、酒精、烟草和非法药物）都与不良后果相关联。根据具体物质的不同，怀孕期间滥用药物可能会导致一系列并发症，包括早产、低出生体重、先天异常、发育迟缓以及儿童的长期行为和认知问题。
+母亲使用药物，尤其是阿片类药物，也可能导致新生儿戒断症状，从而需要专门的护理。
+酒精是最常使用的致畸剂。 风险可能与摄入酒精的量有关，但尚未明确多少量是安全的。尤其是酗酒，每天饮用量低至45mL纯酒精（相当于约3杯酒），就可造成胎儿酒精综合征，可能导致胎儿生长受限、面部和心血管缺陷以及神经系统功能障碍。
+临床医生应询问孕妇有关药物滥用的情况，使用经过验证的筛查工具，并在必要时咨询成瘾专家。
+
+【暴露于致畸原】
+常见的致畸原（造成胎儿畸形的因素）包括感染、药物以及物理因素。受孕第2～8周（末次月经后第4～10周）为器官形成期，如暴露于致畸原，最易发生胎儿畸形。也容易发生其他不良妊娠结局。妊娠期暴露于致畸原的妇女，应详细告知其可能增加的风险，并进行详细的超声检查以发现畸形。
+可能致畸的常见感染包括：
+单纯疱疹
+单纯疱疹
+弓形虫病
+弓形虫病
+巨细胞病毒感染
+巨细胞病毒感染
+柯萨奇病毒感染
+柯萨奇病毒感染
+寨卡病毒感染
+寨卡病毒感染
+可能致畸的常用药物包括
+浴盐（卡西酮）
+浴盐（卡西酮）
+部分处方药(见表怀孕期间有不良反应的药物）
+部分处方药(见表怀孕期间有不良反应的药物）
+妊娠早期，高热或暴露于>39°C的环境下（如蒸桑拿）与脊柱裂有关。
+海鲜中的汞可能对胎儿有毒。FDA（见关于可能怀孕或妊娠或哺乳人群和1-11岁儿童食用鱼的建议) 建议如下：
+避免食用墨西哥湾的方头鱼、鲨鱼、剑鱼、大眼金枪鱼、马林鱼、橙罗基鱼和鲭鱼
+避免食用墨西哥湾的方头鱼、鲨鱼、剑鱼、大眼金枪鱼、马林鱼、橙罗基鱼和鲭鱼
+长鳍金枪鱼的食用量限制为每周4盎司（平均一餐）。
+长鳍金枪鱼的食用量限制为每周4盎司（平均一餐）。
+在食用当地湖泊、河流和沿海区域捕捞的鱼之前，应查看当地的公告，了解这些鱼的安全性；如果不能确定汞含量很低，则应将食用量限制为每周4盎司，并避免在该周食用其他海鲜。
+在食用当地湖泊、河流和沿海区域捕捞的鱼之前，应查看当地的公告，了解这些鱼的安全性；如果不能确定汞含量很低，则应将食用量限制为每周4盎司，并避免在该周食用其他海鲜。
+墨西哥湾的方头鱼是所有鱼类中汞含量最高的（经美国食品和药物管理局 (FDA) 测试）；来自大西洋的方头鱼可以安全食用。
+图片来自美国食品和药物管理局 (FDA) 和美国环境保护署 (EPA)。
+专家建议，怀孕或哺乳妇女每周食用8到12盎司（相当于2到3顿普通餐）的各种低汞海鲜。这类海鲜包括比目鱼、虾、罐装淡金枪鱼、鲑鱼、狭鳕、罗非鱼、鳕鱼和鲶鱼。鱼含有的营养素对胎儿生长发育非常重要。
+
+【母亲年龄】
+青少年占所有妊娠的13%，子痫前期、早产和贫血的发生率增加，常导致胎儿生长受限。 部分原因在于青少年往往忽视产前护理、经常吸烟或使用其他物质，并且性传播感染率较高。
+年龄≥35岁的妇女，子痫前期、妊娠期糖尿病、分娩障碍、胎盘早剥、死产和前置胎盘的发生率均增加。 这些妇女患有基础疾病的可能性也更大（如慢性高血压、糖尿病）。由于胎儿染色体异常的风险随着母亲年龄的增加而增加，因此应提供基因筛查和检测以及详细的超声筛查以检测胎儿畸形。
+最常见的染色体异常是常染色体三体。美国国家出生缺陷预防研究 (NBDPS) 发现，40 岁以上女性的后代患心脏异常、食管闭锁、尿道下裂和颅缝早闭1的风险增加 。
+
+【产妇年龄参考】
+1.Gill SK, Broussard C, Devine O, et al: Association between maternal age and birth defects of unknown etiology: United States, 1997-2007.Birth Defects Res A Clin Mol Teratol 94 (12):1010–1018, 2012.doi: 10.1002/bdra.23049
+1.Gill SK, Broussard C, Devine O, et al: Association between maternal age and birth defects of unknown etiology: United States, 1997-2007.Birth Defects Res A Clin Mol Teratol 94 (12):1010–1018, 2012.doi: 10.1002/bdra.23049
+
+【母亲体重】
+孕前体质指数（BMI）<18.5 kg/m²的孕妇被视为低体重，其新生儿易出现低出生体重(<2.5 kg)。鼓励这些孕妇在孕期体重增加至少12.5kg。
+孕前BMI 在25~29.9 kg/m²（超重）或≥30 kg/m²（肥胖）的孕妇，有发生母体高血压和糖尿病、过期妊娠、妊娠丢失、胎儿巨大儿、先天畸形、宫内生长受限、子痫前期和需要剖宫产的风险。 理想情况下，应在怀孕前开始减肥，首先尝试改变生活方式（如增加运动，饮食结构的改变）。应鼓励超重或肥胖的女性在怀孕期间限制体重增加，最好是通过改变自己的生活方式。 医学研究所（IOM）使用以下准则：
+超重：体重增加限制在6.8至11.3kg（15至25磅）
+超重：体重增加限制在6.8至11.3kg（15至25磅）
+肥胖：体重增加限制在＜5公斤至9公斤（11至20磅）
+肥胖：体重增加限制在＜5公斤至9公斤（11至20磅）
+但是，并非所有专家都认可IOM的推荐。许多专家建议采取个体化的方法，包括更有限的体重增加和生活方式的改变（例如，增加体力活动，改变饮食），特别是对肥胖女性（1）。在怀孕期间，应鼓励大多数妇女每周至少锻炼3次，每周总计150分钟（2）。
+对于超重或肥胖的孕妇，孕期改变生活方式可降低妊娠期糖尿病和子痫前期的风险。
+在初次产检和妊娠过程中定期讨论适当的孕期体重增加，饮食和锻炼是很重要的。
+
+【产妇体重参考文献】
+1.Artal R, Lockwood CJ, Brown HL: Weight gain recommendations in pregnancy and the obesity epidemic.Obstet Gynecol115 (1):152–155, 2010.doi: 10.1097/AOG.0b013e3181c51908
+1.Artal R, Lockwood CJ, Brown HL: Weight gain recommendations in pregnancy and the obesity epidemic.Obstet Gynecol115 (1):152–155, 2010.doi: 10.1097/AOG.0b013e3181c51908
+2.Mottola MF, Davenport MH, Ruchat SM, et al: 2019 Canadian guideline for physical activity throughout pregnancy.Br J Sports Med52 (21):1339–1346, 2018.doi: 10.1136/bjsports-2018-100056
+2.Mottola MF, Davenport MH, Ruchat SM, et al: 2019 Canadian guideline for physical activity throughout pregnancy.Br J Sports Med52 (21):1339–1346, 2018.doi: 10.1136/bjsports-2018-100056
+
+【多胎妊娠】
+多胎妊娠增加以下风险：
+胎儿生长受限
+胎儿生长受限
+胎盘早剥
+胎盘早剥
+染色体异常
+染色体异常
+先天性畸形
+先天性畸形
+围产期发病率和死亡率。
+围产期发病率和死亡率。
+产后，子宫收缩乏力和出血
+产后，子宫收缩乏力和出血
+通常在妊娠初期就可以通过超声检查检测出多胎妊娠。多胎妊娠的发生率一直在增加；辅助生殖技术的使用对此增长做出了重大贡献（1）。
+
+【多胎妊娠参考】
+1.American College of Obstetricians and Gynecologists (ACOG): ACOG Practice Bulletin No. 231: Multifetal gestations: Twin, triplet, and higher-order multifetal pregnancies.Obstet Gynecol137 (6):e145–e162, 2021.doi: 10.1097/AOG.0000000000004397
+1.American College of Obstetricians and Gynecologists (ACOG): ACOG Practice Bulletin No. 231: Multifetal gestations: Twin, triplet, and higher-order multifetal pregnancies.Obstet Gynecol137 (6):e145–e162, 2021.doi: 10.1097/AOG.0000000000004397
+
+【新生儿遗传或先天性疾病史】
+对大多数夫妇来讲，若曾分娩染色体异常胎儿，则再次发生胎儿染色体异常的风险增加（被识别的或者忽略的)。大多数遗传性疾病的复发风险是未知的。大多数先天性畸形都是多因素的；后续胎儿出现畸形的风险因缺陷本身而异。
+如果夫妇曾有一个基因或染色体疾病新生儿，推荐进行遗传咨询和基因筛查。如果一对夫妇，曾有存在先天性畸形的新生儿，建议进行遗传筛查、高分辨率超声检查和母胎医学专家评估。
+
+【前次死胎史】
+死胎指根据疾病控制和预防中心（CDC [1]）的定义，在妊娠≥20周至分娩前或分娩期间的胎儿死亡，或根据世界卫生组织的定义（2），在妊娠＞28周的胎儿死亡。妊娠后期胎儿死亡可能有母体、胎盘、胎儿解剖或遗传原因（见表常见的死产原因）。死胎或晚期流产史（如在16～20周）增加了再次妊娠胎儿死亡的风险。风险的程度取决于前次死胎的原因。 推荐使用产前监测监护胎儿情况（如无应激试验、生物物理评分）。
+治疗母体疾病（如慢性高血压、糖尿病、感染）可能会降低本次妊娠死产的风险。
+
+【之前的死产参考】
+1.CDC: What is stillbirth?Accessed March 2024.
+1.CDC: What is stillbirth?Accessed March 2024.
+2.World Health Organization: Stillbirth.Accessed March 2024.
+2.World Health Organization: Stillbirth.Accessed March 2024.
+
+【既往早产史】
+早产指在孕37周前分娩先前因早产临产导致的早产会增加未来早产的风险。有时，由于某些妊娠并发症（例如，严重的先兆子痫或有症状的前置胎盘），医学上也有指征进行早产。这些疾病不是早产的独立危险因素，但可能复发，应采取适当的监测或预防措施。
+对于曾经因不明原因早产的妇女，应从妊娠 15 至 16 周开始，每 2 周进行一次密切监测，直至妊娠 23 至 24 周。评估可能包括（1）
+从15到16周开始进行超声波评估，包括测量宫颈长度
+从15到16周开始进行超声波评估，包括测量宫颈长度
+检测细菌性阴道病，如果有症状
+检测细菌性阴道病，如果有症状
+对有早产症状的女性进行胎儿纤连蛋白测量
+对有早产症状的女性进行胎儿纤连蛋白测量
+
+【既往早产参考】
+1.Prediction and Prevention of Spontaneous Preterm Birth: ACOG Practice Bulletin, Number 234.Obstet Gynecol.2021;138(2):e65-e90.doi:10.1097/AOG.0000000000004479
+1.Prediction and Prevention of Spontaneous Preterm Birth: ACOG Practice Bulletin, Number 234.Obstet Gynecol.2021;138(2):e65-e90.doi:10.1097/AOG.0000000000004479
+
+【既往产伤史】
+大多数脑瘫和神经发育障碍的原因与产伤无关。产钳或负压吸引分娩术可能导致臂丛神经损伤等，但往往是由于分娩时宫内压力或妊娠最后几周胎位不正所致。
+前次肩难产史是再次发生难产的危险因素，应回顾前次分娩记录以发现可能得到纠正的导致产伤的危险因素（如巨大儿、阴道手术助产）。

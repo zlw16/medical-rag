@@ -1,0 +1,84 @@
+标题：朊病毒病
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/prion-diseases/overview-of-prion-diseases
+============================================================
+
+朊病毒疾病的主要类型包括
+Creutzfeldt-Jakob病（CJD），经典型（通常散发）
+Creutzfeldt-Jakob病（CJD），经典型（通常散发）
+变异型CJD（vCJD；食用朊病毒污染的牛肉获得）
+变异型CJD（vCJD；食用朊病毒污染的牛肉获得）
+可变蛋白酶敏感型朊病毒病（VPSPr；散发）
+可变蛋白酶敏感型朊病毒病（VPSPr；散发）
+Gerstmann-Sträussler-Scheinker综合征（GSS；遗传）
+Gerstmann-Sträussler-Scheinker综合征（GSS；遗传）
+致命的失眠（FI;包括散发的和继承的形式）
+致命的失眠（FI;包括散发的和继承的形式）
+库鲁（通过仪式性食人肉获得）
+库鲁（通过仪式性食人肉获得）
+最近确定的一种朊病毒疾病被称为腹泻和自主神经病变相关的朊病毒病。这种类型具有遗传性。
+朊病毒病是由一种确切功能不明的正常细胞表面蛋白的异常折叠所致，这种蛋白叫做细胞朊病毒蛋白（PrPC）。错误折叠的朊蛋白被称为朊病毒或羊瘙痒病蛋白（PRPSc——得名于羊原型朊病毒疾病）。
+朊病毒 (PrPSc) 具有致病性和传染性。他们引起朊病毒病是通过
+自我复制：朊病毒Sc诱导朊蛋白C的构象转变, 造成重复的PrPSc，后者通过连锁反应，使更多朊蛋白C转变为朊病毒Sc。 这一转变过程使朊病毒Sc扩散到脑的各个区域。
+自我复制：朊病毒Sc诱导朊蛋白C的构象转变, 造成重复的PrPSc，后者通过连锁反应，使更多朊蛋白C转变为朊病毒Sc。 这一转变过程使朊病毒Sc扩散到脑的各个区域。
+导致神经元细胞死亡
+导致神经元细胞死亡
+正常朊蛋白C是水溶性的，且易被蛋白酶降解。但大部分朊病毒Sc不是水溶性的，且对蛋白酶的降解有很强的耐受能力（与阿尔茨海默病的beta-淀粉样蛋白相似Sc），导致其在细胞内缓慢但无法遏制的聚集及神经元死亡。伴随的病理改变包括胶质增生及特征性的空泡样（海绵样）改变，引起痴呆和其他神经功能缺损。 获得性朊病毒疾病的症状和体征在第一次接触朊病毒PrpSc后的数月至数年内逐渐发展。
+所有患有快速神经退行性疾病的患者都应考虑朊病毒疾病。
+
+【朊病毒病的传播】
+朊病毒病的起源
+散发型（自发地开始，没有已知的原因）
+散发型（自发地开始，没有已知的原因）
+通过基因遗传（家族性）
+通过基因遗传（家族性）
+通过传染性的传播
+通过传染性的传播
+散发型朊病毒病是最常见的一种类型，全球每年的发病率约为每百万人中的1至2例(1)。朊病毒Sc最初是如何形成的仍然是未知的。
+家族型朊病毒病是由20号染色体短臂中的PrP基因（PRNP基因）缺陷引起的。导致朊病毒疾病的基因突变几乎都是常染色体显性遗传；即，当它们只从父母一方遗传时会引起疾病。 不过，外显率是可变的；也就是说这取决于突变的类型，不同比例的突变携带者终生都有疾病的临床体征。
+存在超过 50 种突变。不同的基因缺陷会导致不同类型的朊病毒病，包括
+克雅病(CJD)
+克雅病(CJD)
+格-斯-施综合征（GSS）
+格-斯-施综合征（GSS）
+具有 CJD 和 GSS 混合特征的疾病
+具有 CJD 和 GSS 混合特征的疾病
+在临床和病理上与其他朊病毒疾病不同的疾病，例如与腹泻相关的朊病毒病和自主神经病变
+在临床和病理上与其他朊病毒疾病不同的疾病，例如与腹泻相关的朊病毒病和自主神经病变
+致死性家族性失眠症(FFI)
+致死性家族性失眠症(FFI)
+迄今为止，研究人员只发现了一种导致FFI的突变，FFI是致死性家族性失眠症的标志基因。
+PRNP基因突变改变了PrPC的氨基酸序列, 使其发生错误折叠，成为PrPSc。特殊密码子（核苷酸序列是基因的基石）的轻微改变可能决定主要的症状和疾病的进展速度(2)。
+具有传染性的朊病毒病是罕见的。它们可以被传播:
+人与人之间的传播：医源性地，经器官和组织移植、使用受污染的神经外科手术器械，或罕见地经输血（如变异性克雅病）传播，或经同类相食传播（如库鲁病）
+人与人之间的传播：医源性地，经器官和组织移植、使用受污染的神经外科手术器械，或罕见地经输血（如变异性克雅病）传播，或经同类相食传播（如库鲁病）
+动物与人之间的传播：通过食用受污染的牛肉（如vCJD）
+动物与人之间的传播：通过食用受污染的牛肉（如vCJD）
+尚未发现朊病毒病在人与人的日常接触中传播。
+朊病毒疾病发生在许多哺乳动物中（例如，水貂、麋鹿、鹿、猫、山羊、骆驼以及家养的绵羊和牛），并且可以通过食物链在不同物种之间传播。然而，在人食用了有牛海绵状脑病（BSE，即疯牛病）的牛的牛肉后，也只有vCJD被发现能从动物传染给人类。
+在美国大多数州、加拿大、韩国、挪威、芬兰和瑞典(3)，人们担心慢性消耗性疾病（CWD）（麋鹿和鹿的朊病毒病）可能会传染给狩猎、屠宰或食用受感染动物的人。实验证据表明，CWD可能从动物传播给人类，最近的数据表明，当CWD在动物之间传播多次（可能在野外发生[4]) 或当CWD菌株发生变化时，物种之间的屏障可能会减弱，这可能会使CWD更有可能传播给人类。
+
+【传播参考文献】
+1.Ladogana A, Puopolo M, Croes EA, et al: Mortality from Creutzfeldt-Jakob disease and related disorders in Europe, Australia, and Canada.Neurology64(9):1586-1591, 2005.doi: 10.1212/01.WNL.0000160117.56690.B2
+1.Ladogana A, Puopolo M, Croes EA, et al: Mortality from Creutzfeldt-Jakob disease and related disorders in Europe, Australia, and Canada.Neurology64(9):1586-1591, 2005.doi: 10.1212/01.WNL.0000160117.56690.B2
+2.Pocchiari M and Manson J: Human Prion Diseases.InHandbook of Clinical Neurology, edited by M Pocchiari, and J Manson.New York, Elsevier, 2018, vol 153, pp.2–498.
+2.Pocchiari M and Manson J: Human Prion Diseases.InHandbook of Clinical Neurology, edited by M Pocchiari, and J Manson.New York, Elsevier, 2018, vol 153, pp.2–498.
+3.Benestad SL, Mitchell G, Simmons M, et al: First case of chronic wasting disease in Europe in a Norwegian free-ranging reindeer.Vet Res47(1):88, 2016.doi: 10.1186/s13567-016-0375-4
+3.Benestad SL, Mitchell G, Simmons M, et al: First case of chronic wasting disease in Europe in a Norwegian free-ranging reindeer.Vet Res47(1):88, 2016.doi: 10.1186/s13567-016-0375-4
+4.Barria MA, Telling GC, Gambetti P, et al: Generation of a new form of human PrPScin vitro by interspecies transmission from cervid prions.J Biol Chem286(9):7490–7495, 2011.doi: 10.1074/jbc.M110.198465
+4.Barria MA, Telling GC, Gambetti P, et al: Generation of a new form of human PrPScin vitro by interspecies transmission from cervid prions.J Biol Chem286(9):7490–7495, 2011.doi: 10.1074/jbc.M110.198465
+
+【朊病毒病的治疗】
+支持治疗
+支持治疗
+朊病毒病没有治疗方法。治疗方法主要是支持性的。
+当疾病确诊后鼓励患者准备预先指示（例如，临终关怀的偏好）。建议进行临终关怀。
+建议家族型朊病毒病的患者亲属进行遗传学咨询。
+
+【朊病毒病的预防】
+人们不应该食用已知或疑似感染朊病毒病的动物。
+朊病毒能耐受所有标准的消毒措施，并且其他病人、外科医生、病理科医生和处理受感染组织和器械的技术人员都有被传染的危险。
+谨慎处理受感染组织和使用正确的消毒器械方法可预防该病传播。以下推荐方案任选：
+高压蒸汽灭菌在132℃灭菌1小时
+高压蒸汽灭菌在132℃灭菌1小时
+将它们浸泡在氢氧化纳1 N（正常）或10％钠的次氯酸钠溶液1小时
+将它们浸泡在氢氧化纳1 N（正常）或10％钠的次氯酸钠溶液1小时

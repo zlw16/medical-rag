@@ -1,0 +1,170 @@
+标题：嗜酸性粒细胞增多症
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/eosinophilic-disorders/eosinophilia
+============================================================
+
+嗜酸性粒细胞增多症具有免疫反应的特征：如Trichinella spiralis可引起相当低水平的嗜酸性粒细胞反应；然而重复暴露可致增强或继发的嗜酸性粒细胞反应。肥大细胞和嗜碱粒细胞释放的一些化合物可引起IgE介导的嗜酸性粒细胞生成。这些物质包括过敏性嗜酸性粒细胞趋化因子、白三烯B4、补体复合物（C5-C6-C7）和组胺（浓度在小范围内波动）。
+外周血嗜酸粒细胞增多的定义为
+轻度（500～1500/mcL） (0.5-1.5 × 109/L)
+轻度（500～1500/mcL） (0.5-1.5 × 109/L)
+中度（1500～5000/mcL）(1.5-5 × 109/L)
+中度（1500～5000/mcL）(1.5-5 × 109/L)
+重度（>5000/mcL） (> 5 × 109/L)
+重度（>5000/mcL） (> 5 × 109/L)
+轻度嗜酸性粒细胞增多症不会引起症状，但≥1500/mcL (≥ 1.5 × 109/L) 可能引起器官损害。由于组织炎症及对募集到组织的嗜酸性粒细胞以及免疫细胞释放的细胞因子和趋化因子的相应反应，常可发生器官损害。尽管任何器官均可受累，但主要影响心、肺、肝、脾、皮肤和神经系统（临床表现见表嗜酸性粒细胞增多综合征患者的异常）。
+偶见严重嗜酸性粒细胞增多的患者，（如嗜酸性粒细胞计数>100,000/mcL [> 100 × 109/L]），通常见于嗜酸性粒细胞性白血病，可因嗜酸性粒细胞形成聚合物堵塞小血管，引起组织缺血及微梗死，从而出现并发症。 典型的临床表现有脑或肺的低氧血症（如脑病、呼吸困难或呼吸衰竭）。
+该图像显示了嗜酸性细胞（箭头）。
+© Springer Science+Business Media
+特发性高嗜酸性粒细胞综合征以外周血嗜酸性粒细胞增多为特点，伴有与嗜酸性粒细胞增多相关的器官系统受累或功能异常的临床表现，且未发现寄生虫、过敏、造血克隆性障碍或其他引起嗜酸性粒细胞增多的原因。
+
+【嗜酸粒细胞增多症的病因】
+嗜酸性粒细胞增多可为
+原发性：血液系统疾病相关的嗜酸性粒细胞克隆增殖，如白血病和骨髓增生性肿瘤
+原发性：血液系统疾病相关的嗜酸性粒细胞克隆增殖，如白血病和骨髓增生性肿瘤
+继发性：由非血液学疾病引起或与之相关（见表与嗜酸性粒细胞增多症有关的重要疾病及治疗)
+继发性：由非血液学疾病引起或与之相关（见表与嗜酸性粒细胞增多症有关的重要疾病及治疗)
+特发性：无法明确病因
+特发性：无法明确病因
+在美国，嗜酸性粒细胞增多症最常见的病因是
+过敏性/变应性疾病（主要是呼吸道和皮肤疾病）
+过敏性/变应性疾病（主要是呼吸道和皮肤疾病）
+在由过敏或特应性疾病引起的病例中，嗜酸性粒细胞增多症通常是轻度至中度的（1）。
+嗜酸性粒细胞增多症其他常见的病因包括
+感染（特别是寄生虫）
+感染（特别是寄生虫）
+特定的肿瘤（血液系统或实体的，良性或恶性的）
+特定的肿瘤（血液系统或实体的，良性或恶性的）
+几乎所有寄生虫侵袭组织均可引起嗜酸性粒细胞增多，然而原虫（变形虫）和非侵袭性后生生物常不引起嗜酸性粒细胞增多。
+在造血系统肿瘤中，霍奇金淋巴瘤可引起明显的嗜酸性粒细胞增多，而非霍奇金淋巴瘤、慢性髓细胞性白血病及急性淋巴细胞性白血病中较少见。
+外周嗜酸性粒细胞增多症可能引起的肺浸润是一系列临床疾病的一部分，其性质可能是传染性、自身免疫性或炎症性的。
+药物反应性嗜酸性粒细胞增多的患者可能没有症状，或有多种症状，包括间质性肾炎、血清病、胆汁淤积性黄疸、过敏性血管炎及免疫母细胞性淋巴细胞病。
+嗜酸性粒细胞增多 - 肌痛综合征罕见;原因不明。然后，在1989年已报道有几百例因镇静或精神支持治疗而服用L-色氨酸后出现嗜酸性粒细胞-肌痛综合征的患者。这种综合征可能由污染物所致，而非L-色氨酸。症状包括严重的肌痛、腱鞘炎、肌肉水肿及皮疹可持续数周至数月，并可能导致死亡。
+伴嗜酸性粒细胞增多和全身症状（DRESS）的药物反应是一种罕见的综合征，表现为发热、皮疹、嗜酸粒细胞增多、不典型淋巴细胞增多、淋巴结肿大及与终末器官受累相关（常为心脏，肺，脾，皮肤，神经系统）的症状和体征 (2, 3)。
+嗜酸性食管炎是一种越来越多的以呕吐和吞咽困难为特征的疾病。为了做出诊断，食管活检应显示每个高倍视野至少有15个嗜酸性粒细胞。治疗包括质子泵抑制剂、布地奈德、食物排除试验，有时还包括食管扩张（4)。
+
+【嗜酸性粒细胞增多相关的重要疾病和治疗】
+嗜酸性粒细胞增多相关的重要疾病和治疗
+病因或相关疾病
+过敏性或特发性疾病
+过敏性支气管肺曲霉病
+过敏性鼻炎
+特发性皮炎
+药物反应(如对抗生素或非甾体抗炎药)
+阵发性血管水肿伴嗜酸细胞增多
+牛奶蛋白过敏
+职业性肺病
+系统性风湿病、血管炎或肉芽肿性疾病（尤其是涉及肺部的疾病）
+嗜酸性筋膜炎
+嗜酸性肉芽肿性多血管炎
+特发性嗜酸性滑膜炎
+IgG4相关疾病
+炎性肠病
+木村氏病（血管淋巴样增生）
+结节性多动脉炎
+心肌梗死后综合征(Dressler 综合征)
+进行性系统性硬化病（硬皮病）
+类风湿关节炎
+干燥综合征
+系统性红斑狼疮
+内分泌疾病
+肾上腺功能减低
+免疫性疾病（常伴有湿疹）
+先天性免疫缺陷综合征（如，IgA缺乏、高IgE综合征、Wiskott-Aldrich综合征）
+移植物抗宿主病
+骨髓增殖性疾病
+急性或慢性嗜酸性粒细胞白血病
+急性淋巴细胞白血病（某些类型）
+慢性髓系白血病
+高嗜酸性粒细胞综合征
+非寄生虫感染
+布鲁氏菌病
+小儿衣原体肺炎
+球孢子菌病（急性）
+传染性淋巴细胞增多症
+传染性单核细胞增多症
+分枝杆菌病
+寄生虫感染（特别是多细胞动物侵犯组织）
+管圆线虫病
+异尖线虫病
+华支睾吸虫病
+囊尾蚴病（猪肉绦虫Taenia solium引起）
+片行吸虫病
+钩虫感染
+肺吸虫病
+卡式肺囊虫Pneumocystis jirovecii感染
+血吸虫病
+类圆线虫病
+弓蛔虫病
+旋毛虫病
+皮肤疾病
+疱疹皮炎
+剥脱性皮炎
+肺部嗜酸性粒细胞浸润综合征
+过敏性支气管肺曲霉病
+慢性嗜酸性粒细胞性肺炎
+嗜酸性肉芽肿伴多血管炎（Churg-Strauss 综合征）
+洛夫勒综合征
+热带肺嗜酸性粒细胞增多症
+与全身症状和自身免疫性溶血性贫血相关的血管免疫母细胞性T细胞淋巴瘤（以前称为血管免疫母细胞性淋巴结病伴异常蛋白血症或AILD）
+肺、胰腺、结肠、子宫或卵巢癌或肉瘤
+霍奇金淋巴瘤
+非霍奇金淋巴瘤
+混合类型
+家族性嗜酸性粒细胞增多症
+腹膜透析
+NSAID=非甾体抗炎药。
+NSAID=非甾体抗炎药。
+
+【参考文献】
+1.Klion AD: Approach to the patient with suspected hypereosinophilic syndrome.Hematology Am Soc Hematol Educ Program2022; 2022(1):47-54.doi: 10.1182/hematology.2022000367
+1.Klion AD: Approach to the patient with suspected hypereosinophilic syndrome.Hematology Am Soc Hematol Educ Program2022; 2022(1):47-54.doi: 10.1182/hematology.2022000367
+2.Wei BM, Fox LP, Kaffenberger BH, et al.Drug-induced Hypersensitivity Syndrome / Drug Reaction with Eosinophilia and Systemic Symptoms.Part I.Epidemiology, Pathogenesis, Clinicopathological Features, and Prognosis [published online ahead of print, 2023 Jul 27].J Am Acad Dermatol2023;S0190-9622(23)02402-7.doi:10.1016/j.jaad.2023.02.072
+2.Wei BM, Fox LP, Kaffenberger BH, et al.Drug-induced Hypersensitivity Syndrome / Drug Reaction with Eosinophilia and Systemic Symptoms.Part I.Epidemiology, Pathogenesis, Clinicopathological Features, and Prognosis [published online ahead of print, 2023 Jul 27].J Am Acad Dermatol2023;S0190-9622(23)02402-7.doi:10.1016/j.jaad.2023.02.072
+3.Wei BM, Fox LP, Kaffenberger BH, et al.Drug-induced Hypersensitivity Syndrome / Drug Reaction with Eosinophilia and Systemic Symptoms.Part II.Diagnosis and Management [published online ahead of print, 2023 Jul 27].J Am Acad Dermatol2023;S0190-9622(23)02403-9.doi:10.1016/j.jaad.2023.02.073
+3.Wei BM, Fox LP, Kaffenberger BH, et al.Drug-induced Hypersensitivity Syndrome / Drug Reaction with Eosinophilia and Systemic Symptoms.Part II.Diagnosis and Management [published online ahead of print, 2023 Jul 27].J Am Acad Dermatol2023;S0190-9622(23)02403-9.doi:10.1016/j.jaad.2023.02.073
+4.Muir A, Falk GW: Eosinophilic esophagitis: a review.JAMA326: 1310–1318, 2021.doi: 10.1001/jama.2021.14920
+4.Muir A, Falk GW: Eosinophilic esophagitis: a review.JAMA326: 1310–1318, 2021.doi: 10.1001/jama.2021.14920
+
+【嗜酸粒细胞增多症的评估】
+许多情况都可能导致嗜酸性粒细胞增多。 应首先考虑常见的病因（如过敏，感染或肿瘤性疾病），但通常很难确诊，因此需要详细询问病史并进行全面的体格检查。
+最有帮助的问题多关于以下几点：
+旅行（提示可能的寄生虫暴露史）
+旅行（提示可能的寄生虫暴露史）
+药物使用
+药物使用
+中草药的使用和膳食补充，包括L-色氨酸
+中草药的使用和膳食补充，包括L-色氨酸
+全身症状（如，发热、消瘦、肌痛、关节痛、皮疹、淋巴结病）
+全身症状（如，发热、消瘦、肌痛、关节痛、皮疹、淋巴结病）
+全身症状可提示由轻度过敏反应或药物原因引起的可能性较小，应详细评估感染、肿瘤、系统性风湿病或其他系统性疾病的可能。其他重要的病史包括血液病家族史及详细的系统回顾，包括过敏的症状，肺部、心脏、消化道（GI）和神经系统的功能障碍。
+
+【体格检查】
+一般的体格检查应重点关注心脏、皮肤、神经系统和呼吸系统。特定的体检发现可揭示病因或相关的疾病。包括皮疹（过敏性、皮肤性或血管性疾病），异常的肺部表现（哮喘、肺部感染或肺嗜酸性粒细胞浸润综合征），以及全身性淋巴结肿大或脾大（骨髓增殖性疾病或肿瘤）。
+
+【实验室检查】
+嗜酸性粒细胞增多症常因由于其它原因而行全血细胞计数后被发现。其他的检查通常包括(1):
+大便虫卵和寄生虫检查
+大便虫卵和寄生虫检查
+其他检查用来明确器官损害或根据临床发现明确特定病因
+其他检查用来明确器官损害或根据临床发现明确特定病因
+一般情况下，如果根据临床表现无法怀疑是药物或过敏原因所致的，则至少需采集3次粪便样本进行虫卵和寄生虫检查；然而，阴性结果并不能排除寄生虫感染（如旋毛虫需肌肉活检；弓蛔虫病和丝虫感染需要其他组织活检；而除外特殊寄生虫如类圆线虫则可能需要行十二指肠抽吸术）。
+其他特殊诊断检查由临床表现(特别是旅行史)确定，可能包括胸部x线、尿液分析、肝和肾检查以及寄生虫和系统性风湿性疾病的血清学检查。如果患者有全身淋巴结肿大、脾肿大、或全身症状，应进行血液学检查。血清维生素B12增高或外周血涂片发现异常提示潜在的骨髓增殖性肿瘤，骨髓穿刺活检与细胞遗传学检查可能有助于诊断。
+若常规评估未能明确病因，则应检查有无脏器损害。检查包括前面提及的检查，还有乳酸脱氢酶（LDH）、肝功能检查（提示肝脏损害或可能的骨髓增殖性肿瘤）。当出现以下情况时，进行超声心动图、血清肌钙蛋白水平和肺功能检查嗜酸细胞增多症候群被怀疑。
+
+【评估参考文献】
+1.Klion AD: Approach to the patient with suspected hypereosinophilic syndrome.Hematology Am Soc Hematol Educ Program2022; 2022(1):47-54.doi: 10.1182/hematology.2022000367
+1.Klion AD: Approach to the patient with suspected hypereosinophilic syndrome.Hematology Am Soc Hematol Educ Program2022; 2022(1):47-54.doi: 10.1182/hematology.2022000367
+
+【嗜酸粒细胞增多症的治疗】
+有时可使用糖皮质激素
+有时可使用糖皮质激素
+嗜酸性粒细胞增多综合征的糖皮质激素治疗，在别处讨论（见高嗜酸性粒细胞综合征的治疗）。
+停用可引起嗜酸性粒细胞增多的药物。针对其他明确病因给予治疗。 嗜酸性粒细胞介导的哮喘有时可以用抗IL-5的抗体（例如美泊珠单抗，瑞利珠单抗）或抗IL-5受体的抗体（如贝那利珠单抗）治疗。(1)。 Dupilumab 是一种 IL-4/IL-13 抑制剂，可用于治疗慢性嗜酸性粒细胞性肺炎和过敏性支气管肺曲霉病(2）。
+如果没有发现病因，应对患者的并发症进行随访。如果嗜酸性粒细胞增多是继发性的（如过敏、全身性风湿病或寄生虫感染），而不是原发性的，那么短期使用低剂量皮质类固醇可能会降低嗜酸性粒细胞计数。如果在没有可处理的病因情况下，嗜酸性粒细胞持续或进行性增高，则应进行该试验。由于嗜酸性粒细胞增多症可能涉及多个器官系统，也可能是全身性疾病的表现，因此可能需要多位专家进行诊断和治疗投入（3）。
+
+【治疗参考文献】
+1.Pelaia C, Calabrese C, Vatrell A, et al:Benralizumab: from the basic mechanism of action to the potential use in the biological therapy of severe eosinophilic asthma.Biomed Res Int2018;2018:4839230.doi:10.1155/2018/4839230
+1.Pelaia C, Calabrese C, Vatrell A, et al:Benralizumab: from the basic mechanism of action to the potential use in the biological therapy of severe eosinophilic asthma.Biomed Res Int2018;2018:4839230.doi:10.1155/2018/4839230
+2.Eldaabossi SAM, Awad A, Anshasi N:Meprolizumabanddupliumabas a replacement to systemic glucocorticoids for the treatment of chronic eosinophilic pneumonia and allergic bronchopulmonary aspergillus-Case series, Almoosa specialist hospital.Respir Med Case Rep34:201520, 2021.doi: 10.1016/j.rmcr.2021.101520
+2.Eldaabossi SAM, Awad A, Anshasi N:Meprolizumabanddupliumabas a replacement to systemic glucocorticoids for the treatment of chronic eosinophilic pneumonia and allergic bronchopulmonary aspergillus-Case series, Almoosa specialist hospital.Respir Med Case Rep34:201520, 2021.doi: 10.1016/j.rmcr.2021.101520
+3.Thomsen GN, Christoffersen MN, Lindegaard HM, et al: The multidisciplinary approach to eosinophilia.Front Oncol13:1193730, 2023.doi:10.3389/fonc.2023.1193730
+3.Thomsen GN, Christoffersen MN, Lindegaard HM, et al: The multidisciplinary approach to eosinophilia.Front Oncol13:1193730, 2023.doi:10.3389/fonc.2023.1193730

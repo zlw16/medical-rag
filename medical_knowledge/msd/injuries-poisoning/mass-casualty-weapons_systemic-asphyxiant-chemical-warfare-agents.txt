@@ -1,0 +1,52 @@
+标题：全身窒息性化学战剂
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/mass-casualty-weapons/systemic-asphyxiant-chemical-warfare-agents
+============================================================
+
+全身性窒息剂是一类化学战剂，包括 (1)
+全身性窒息剂也被称为血液毒剂，因为它们通过血液系统分散至全身。然而其作用位点不是血液而是在整个身体的细胞水平。
+氰化物盐曾被用于投毒谋杀，但吸入氰化氢或氯化氰（常温下为高挥发性液体或气体）也可导致大规模伤亡。氰化物是众多家用和工业用制品燃烧的产物，伤者吸入浓烟可能也有氰化物中毒。氰化物具有特征性的苦杏仁气味，但是检测这种气味的能力是由单个基因决定的，该基因在一半人口中缺失。
+硫化氢在常温下始终是气体。因此通常是通过吸入暴露接触。硫化氢可以通过混合含硫日用化工品与酸产生；这种组合常被用于自杀（称为洗涤剂自杀），残余气体会影响救援人员，引起群体伤亡。粪便分解时也会产生硫化氢。大型农场粪池往往含有致死浓度的气体，这可能会导致没有穿戴适当防护装备救援人员的群体伤亡。硫化氢具有特征性的臭鸡蛋气味，但高浓度会损伤嗅觉纤维使得此气味在最致命的环境中无法察觉。
+（参见化学战剂概述。)
+
+【经验与提示】
+经验与提示
+高浓度硫化氢会损伤嗅觉纤维使得此气味在最致命的环境中无法察觉。
+高浓度硫化氢会损伤嗅觉纤维使得此气味在最致命的环境中无法察觉。
+
+【参考文献】
+1.Borron SW, Bebarta VS.Asphyxiants.Emerg Med Clin North Am.2015;33(1):89-115.doi:10.1016/j.emc.2014.09.014
+1.Borron SW, Bebarta VS.Asphyxiants.Emerg Med Clin North Am.2015;33(1):89-115.doi:10.1016/j.emc.2014.09.014
+
+【系统性窒息性化学损伤的病理生理学】
+氰化物和硫化氢都进入线粒体，抑制细胞色素氧化酶，这是氧化磷酸化（细胞呼吸）所需的酶。氧化磷酸化的抑制导致细胞缺氧、ATP耗竭、组织无法提取血液中的氧气，以及机体尝试通过无氧呼吸产生能量导致的乳酸酸中毒。所有的器官和组织都受影响，但神经元比肌肉组织更敏感；中枢性呼吸暂停是常见的死亡机制。氰化物，特别是硫化氢，还有其他的作用机制尚未完全明确。
+
+【全身性窒息剂化学损伤的症状和体征】
+氰化物起初引起气喘、心动过速和高血压。短短的30秒内可能会出现意识丧失和抽搐。破伤风样症状，包括牙关紧闭（牙关紧闭症），痉笑（鬼脸）和角弓反张（颈部拱起）可能会出现。皮肤可能会发红，但约一半的伤亡人员出现紫绀。呼吸暂停通常早于心动过缓和低血压出现，死亡之前可出现去皮质强直。
+高剂量的硫化氢也会引起突然意识丧失并伴有抽搐。直接损伤心肌作用明显。持续暴露于初始亚致死浓度可引起眼部刺激，如结膜炎和角膜损伤及溃疡（气体眼病），鼻腔和咽部粘膜刺激、头痛、乏力、共济失调、恶心、呕吐、胸闷和过度通气。某类表现似乎是对化合物刺激性气味的反应。伤者携带的硬币颜色变绿或发黑应高度怀疑硫化氢中毒。
+
+【系统性窒息性化学损伤的诊断】
+临床评估
+临床评估
+严重受影响的伤者在实验室检查之前就要及时治疗，主要依据临床诊断。实验室检查结果包括动静脉氧差降低（由于静脉血氧含量高于正常值）和高阴离子间隙酸血症伴乳酸升高。
+所有尚有脉搏的昏迷伤者都有潜在抢救价值，应分诊为需要紧急治疗。因为吸入暴露的患者从被污染的环境中转移后通常不再继续恶化，症状减轻的清醒患者可被分诊为可以延迟治疗（即当医护人员救治需要立即处理的伤员时，能够耐受短暂的治疗延迟）。
+
+【系统性窒息性化学损伤的治疗】
+吸纯氧呼吸支持
+吸纯氧呼吸支持
+氰化物特效解毒剂
+氰化物特效解毒剂
+应特别注意气道、呼吸及循环。使用或不使用肥皂水均可进行皮肤洗消；仅接触蒸汽或气体的患者通常不需要洗消。
+氰化物导致的伤亡需要立即解毒治疗，吸入亚硝酸异戊酯0.2mL（1安瓿），每分钟吸入30秒；3%亚硝酸钠10mL以2.5~5mL/min速度静注（儿童为10mg/kg），然后25%硫代硫酸钠25~50mL以2.5到5mL/min速度静注。如果可用，羟钴胺素5到10g静注可以替代。即使对于呼吸暂停的伤者，解毒剂也可能起效。如果缺乏解毒剂，通气和吸纯氧可能可以救命。无防护的口对口人工呼吸可能会使救援人员暴露接触伤者呼出的氰化物。
+吸入烟雾造成的氰化物中毒伤者也可能合并一氧化碳中毒。在这种情况下，一些权威机构建议使用羟钴胺，而不是硝酸盐，因为羟钴胺不会像亚硝酸盐那样降低携氧能力（1、2）。然而，对于在这种情况下使用亚硝酸盐的担忧可能被夸大了。尚未证实高压氧治疗可以改善氰化物中毒患者的预后。
+硫化氢中毒伤员的管理包括支持性治疗，包括给予100%氧气。亚硝酸盐、硫代硫酸钠、羟钴胺和高压氧（用于氰化物中毒）均无益处。但是，静脉注射碳酸氢盐加葡萄糖可降低大鼠模型的致死率和昏迷时间，可尝试用于人类 (3, 4)。
+
+【治疗参考文献】
+1.Anseeuw K, Delvau N, Burillo-Putze G, et al.Cyanide poisoning by fire smoke inhalation: a European expert consensus.Eur J Emerg Med.2013;20(1):2-9.doi:10.1097/MEJ.0b013e328357170b2.Kirk MA, Gerace R, Kulig KW.Cyanide and methemoglobin kinetics in smoke inhalation victims treated with the cyanide antidote kit.Ann Emerg Med.1993;22(9):1413-1418.doi:10.1016/s0196-0644(05)81988-23.Guidotti TL: Hydrogen sulfide: Advances in understanding human toxicity.Int J Toxicol, 29(6):569-581, 2010.doi: 10.1177/10915818103848824.Ng PC, Hendry-Hofer TB, Witeof AE, et al.Hydrogen Sulfide Toxicity: Mechanism of Action, Clinical Presentation, and Countermeasure Development.J Med Toxicol.2019;15(4):287-294.doi:10.1007/s13181-019-00710-5
+1.Anseeuw K, Delvau N, Burillo-Putze G, et al.Cyanide poisoning by fire smoke inhalation: a European expert consensus.Eur J Emerg Med.2013;20(1):2-9.doi:10.1097/MEJ.0b013e328357170b
+1.Anseeuw K, Delvau N, Burillo-Putze G, et al.Cyanide poisoning by fire smoke inhalation: a European expert consensus.Eur J Emerg Med.2013;20(1):2-9.doi:10.1097/MEJ.0b013e328357170b
+2.Kirk MA, Gerace R, Kulig KW.Cyanide and methemoglobin kinetics in smoke inhalation victims treated with the cyanide antidote kit.Ann Emerg Med.1993;22(9):1413-1418.doi:10.1016/s0196-0644(05)81988-2
+2.Kirk MA, Gerace R, Kulig KW.Cyanide and methemoglobin kinetics in smoke inhalation victims treated with the cyanide antidote kit.Ann Emerg Med.1993;22(9):1413-1418.doi:10.1016/s0196-0644(05)81988-2
+3.Guidotti TL: Hydrogen sulfide: Advances in understanding human toxicity.Int J Toxicol, 29(6):569-581, 2010.doi: 10.1177/1091581810384882
+3.Guidotti TL: Hydrogen sulfide: Advances in understanding human toxicity.Int J Toxicol, 29(6):569-581, 2010.doi: 10.1177/1091581810384882
+4.Ng PC, Hendry-Hofer TB, Witeof AE, et al.Hydrogen Sulfide Toxicity: Mechanism of Action, Clinical Presentation, and Countermeasure Development.J Med Toxicol.2019;15(4):287-294.doi:10.1007/s13181-019-00710-5
+4.Ng PC, Hendry-Hofer TB, Witeof AE, et al.Hydrogen Sulfide Toxicity: Mechanism of Action, Clinical Presentation, and Countermeasure Development.J Med Toxicol.2019;15(4):287-294.doi:10.1007/s13181-019-00710-5

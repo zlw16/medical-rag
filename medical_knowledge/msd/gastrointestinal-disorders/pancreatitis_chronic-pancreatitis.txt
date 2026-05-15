@@ -1,0 +1,144 @@
+标题：慢性胰腺炎
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/pancreatitis/chronic-pancreatitis
+============================================================
+
+（参见胰腺炎概述、急性胰腺炎）。
+炎症和胰腺反复损伤引起的纤维化是慢性胰腺炎的标志，但需要与衰老过程和糖尿病性胰腺病变引起的纤维化区分开。
+慢性胰腺炎可导致胰腺实质钙化、导管内结石形成或两者兼有，还可导致胰腺萎缩。
+
+【慢性胰腺炎的发病机制】
+慢性胰腺炎的发病机制尚不明确。已提出一些机制。
+结石和导管阻塞理论认为，该疾病是由于不明原因导致的蛋白质-碳酸氢盐失衡，形成富含蛋白质的栓子并阻塞导管所致。这些栓子可能钙化，最终在胰管内形成结石。如为慢性梗阻，持续的炎症反应将导致纤维化，胰腺导管扭曲，狭窄与萎缩。若干年后，进行性纤维化和萎缩将导致胰腺外分泌和内分泌功能丧失。
+坏死-纤维化假说认为，反复发作的伴坏死的急性胰腺炎是慢性胰腺炎发病机制的关键。数年后，随愈合过程，胰腺坏死组织被纤维化组织替代，导致慢性胰腺炎。这一假设已经演变成哨兵急性胰腺炎事件（SAPE）模型。SAPE模型提出，急性胰腺炎的初次发作会导致胰腺高度敏感（1）。致敏后的胰腺更容易受到轻微应激源（酒精、烟草）的影响，这些应激源可能导致复发性急性胰腺炎事件，而在SAPE事件之前，类似的应激源并不会导致急性胰腺炎。
+在更晚期的慢性胰腺炎中，会出现神经鞘肥大和神经周围炎症，并可能导致慢性疼痛。
+
+【发病机制参考】
+1.Whitcomb DC: Central role of the sentinel acute pancreatitis event (SAPE) model in understanding recurrent acute pancreatitis (RAP): Implications for precision medicine.Front Pediatr10:941852, 2022.doi: 10.3389/fped.2022.941852
+1.Whitcomb DC: Central role of the sentinel acute pancreatitis event (SAPE) model in understanding recurrent acute pancreatitis (RAP): Implications for precision medicine.Front Pediatr10:941852, 2022.doi: 10.3389/fped.2022.941852
+
+【慢性胰腺炎的病因】
+在美国，大约50％的慢性胰腺炎是由酗酒造成的，男性比女性更多见。然而只有少数酗酒者最终发展为慢性胰腺炎，这表明还有其他辅助致病因素触发显性疾病。吸烟是发展为慢性胰腺炎的独立、剂量依赖性危险因素（1)。酗酒和吸烟都会增加疾病进展的风险，其风险可能叠加。很大一部分慢性胰腺炎为特发性。
+热带胰腺炎是一种特发性慢性胰腺炎，多见于印度、印度尼西亚和尼日利亚等热带地区，常见于儿童和青年。热带胰腺炎的特征是发病年龄早，导管结石较大，疾病加速进展， 发生胰腺癌风险高。
+慢性胰腺炎少见病因包括遗传性疾病、全身性疾病以及狭窄、结石或癌症引起的导管阻塞（见表慢性胰腺炎病因)。
+
+【慢性胰腺炎的病因】
+慢性胰腺炎的病因
+遗传性的
+阳离子胰蛋白酶原基因（PRSSI)
+丝氨酸肽酶抑制剂Kazal-1型（SPINK1)
+囊性纤维化跨膜传导调节因子基因 (CFTR)
+糜蛋白酶 C 突变和其他遗传疾病
+胰管狭窄（创伤、医源性、吻合口或癌症）
+肿瘤所致占位效应
+可能存在胰腺分裂（引起胰管分裂的先天性畸形）
+可能存在Oddi括约肌功能障碍
+自身免疫性
+1型，与IgG4疾病有关，2型为自身免疫性胰腺炎
+热带胰腺炎
+
+【病因参考文献】
+1.Yadav D, Gawes RH, Brand RE, et al: Alcohol consumption, cigarette smoking, and the risk of recurrent acute and chronic pancreatitis.Arch Intern Med169:1035–1045, 2009.doi: 10.1001/archinternmed.2009.125.Clarification and additional information.Arch Intern Med171(7):710, 2011.doi:10.1001/archinternmed.2011.124
+1.Yadav D, Gawes RH, Brand RE, et al: Alcohol consumption, cigarette smoking, and the risk of recurrent acute and chronic pancreatitis.Arch Intern Med169:1035–1045, 2009.doi: 10.1001/archinternmed.2009.125.Clarification and additional information.Arch Intern Med171(7):710, 2011.doi:10.1001/archinternmed.2011.124
+
+【慢性胰腺炎的并发症】
+当脂肪酶和蛋白酶的分泌减少到正常值的10%以下时，患者会出现吸收不良，其特征为脂肪泻，即排出油腻粪便，甚至可见油滴漂浮于水面，难以冲走。 严重情况下，也可能发生营养不良、体重下降和脂溶性维生素（A、D、E、K）吸收不良。
+葡萄糖不耐受随时可能出现，但明显的糖尿病（胰源性糖尿病）通常发生在慢性胰腺炎病程的晚期。患者也有低血糖的风险，因为产生胰高血糖素（一种反向调节激素）的胰腺α细胞缺失。
+慢性胰腺炎的其他并发症包括
+假性囊肿的形成
+假性囊肿的形成
+胆管或十二指肠梗阻
+胆管或十二指肠梗阻
+胰管破裂（断裂）（导致腹水或胸腔积液)
+胰管破裂（断裂）（导致腹水或胸腔积液)
+脾静脉血栓形成（可导致胃静脉曲张)
+脾静脉血栓形成（可导致胃静脉曲张)
+胰腺附近动脉的假性动脉瘤或假性囊肿
+胰腺附近动脉的假性动脉瘤或假性囊肿
+慢性胰腺炎患者胰腺腺癌的风险增加，其中遗传性和热带性胰腺炎患者的风险似乎最高。
+
+【慢性胰腺炎的症状和体征】
+腹痛和胰腺功能不全是慢性胰腺炎的主要表现。慢性胰腺炎的早期，胰腺发生明显影像学结构异常前，患者可有疼痛。疼痛是慢性胰腺炎的主要症状，见于大多数患者。通常为餐后痛，上腹痛，坐起或前倾可部分缓解疼痛。最初表现为阵发性疼痛，后为持续性疼痛。
+少数患者无疼痛，仅表现为吸收不良症状。胰腺功能不全的临床表现包括肠胀气、腹胀、脂肪泻、营养不良、体重减轻和疲劳。
+
+【慢性胰腺炎的诊断】
+影像学检查
+影像学检查
+胰腺功能检查
+胰腺功能检查
+由于胰腺大部分功能丧失，淀粉酶和脂肪酶等指标往往正常，从而导致诊断困难。诊断依赖临床评估，影像学检查和胰腺功能检查 (1)。
+原因不明或症状持续恶化的患者应进行胰腺癌评估，特别是检查发现存在胰管狭窄时(2)。可进行狭窄部位脱离细胞学分析、血清标志物测定（如CA 19-9、癌胚抗原）。
+
+【影像学检查】
+如果患者有典型的重度酗酒史和急性胰腺炎反复发作的病史，腹部X线平片显示胰腺钙化，就足以诊断慢性胰腺炎。但这些钙化的表现通常在疾病后期才典型，且仅在30%的病例可以看到此改变。CT也可用于有重度酗酒史、但平片无法诊断的患者。
+无典型病史但有慢性胰腺炎症状的患者，通常推荐腹部CT排除胰腺癌所致腹痛。 腹部CT可示胰腺钙化和其他异常（如胰腺假性囊肿或扩张胰管），但早期可能无异常发现。
+MRI联合磁共振胰胆管成像（MRCP）现已常用于诊断，可显示胰腺肿块，并能更清晰地呈现与慢性胰腺炎一致的导管变化。MRCP检查时静脉注射分泌素可提高检测导管异常的灵敏度，并且还能对慢性胰腺炎患者进行功能评估。MRI比CT更准确，且无辐射。
+内镜逆行胰胆管造影（ERCP）为侵入性检查，很少用于诊断慢性胰腺炎。早期慢性胰腺炎患者的ERCP检查结果可能正常。ERCP仅用于需治疗干预患者。
+内镜超声检查的侵入性较小，可以发现胰腺实质和胰管微小病变。这种检查方式敏感性高但特异性有限。
+
+【胰腺功能检测】
+最常见的胰腺功能检查无法以足够的准确性检测出轻度至中度的外分泌胰腺功能不全。在疾病晚期，胰腺外分泌功能检测结果会更可靠地显示异常。
+胰腺功能检查分为
+直接：监测胰腺外分泌产物（碳酸氢盐和酶）的实际分泌。
+直接：监测胰腺外分泌产物（碳酸氢盐和酶）的实际分泌。
+间接：测量胰腺酶缺乏的继发效应（例如，脂肪吸收不良）。
+间接：测量胰腺酶缺乏的继发效应（例如，脂肪吸收不良）。
+直接胰腺功能检查最适用于慢性胰腺炎早期患者，此时影像学检查尚无法确诊。直接检测一般是指静脉输注胆囊收缩素以检测消化酶的产生量，或输注促胰液素测定碳酸氢盐的产生量。使用双腔胃十二指肠采集管或内镜采集十二指肠分泌物。直接检测繁琐且费时，尚未标准化。临床实践中已淘汰直接胰腺功能检测，仅在少数专业中心进行。
+间接胰腺功能检查在早期慢性胰腺炎的诊断中准确性较差。需对血液或粪便样本进行检测。血清胰蛋白酶原测试廉价，可在商业实验室进行。血清胰蛋白酶原极低（<20 ng/mL）对慢性胰腺炎具有高度特异性。高脂饮食后72小时粪便脂肪测定可用于诊断脂肪泻。该检测相当可靠，但不能确定吸收不良的病因。在其他测试中，粪便中胰凝乳蛋白酶和弹性蛋白酶的浓度可能会降低。间接检测可开展性强，创伤性小、价格低廉，易于进行。
+
+【诊断参考】
+1.Gardner TB, Adler DG, Forsmark CE, et al: ACG Clinical Guideline: Chronic Pancreatitis.Am J Gastroenterol115(3):322-339, 2020.doi: 10.14309/ajg.0000000000000535
+1.Gardner TB, Adler DG, Forsmark CE, et al: ACG Clinical Guideline: Chronic Pancreatitis.Am J Gastroenterol115(3):322-339, 2020.doi: 10.14309/ajg.0000000000000535
+2.Greenhalf W, Lévy P, Gress T, et al: International consensus guidelines on surveillance for pancreatic cancer in chronic pancreatitis.Recommendations from the working group for the international consensus guidelines for chronic pancreatitis in collaboration with the International Association of Pancreatology, the American Pancreatic Association, the Japan Pancreas Society, and European Pancreatic Club.Pancreatology20(5):910-918, 2020.doi: 10.1016/j.pan.2020.05.011
+2.Greenhalf W, Lévy P, Gress T, et al: International consensus guidelines on surveillance for pancreatic cancer in chronic pancreatitis.Recommendations from the working group for the international consensus guidelines for chronic pancreatitis in collaboration with the International Association of Pancreatology, the American Pancreatic Association, the Japan Pancreas Society, and European Pancreatic Club.Pancreatology20(5):910-918, 2020.doi: 10.1016/j.pan.2020.05.011
+
+【慢性胰腺炎的治疗】
+胰酶补充
+胰酶补充
+糖尿病处理
+糖尿病处理
+其他并发症管理
+其他并发症管理
+慢性胰腺炎的预后多样。
+控制疼痛是慢性胰腺炎治疗最为棘手的问题(1)。首先，应积极鼓励和引导患者戒烟和戒酒，以尽早减缓慢性胰腺炎疾病进展。其次，应寻找可引起类似症状的慢性胰腺炎的可治疗并发症，例如十二指肠或胆道梗阻。患者应保持低脂（<25克/日）饮食，以减少胰酶的分泌。对慢性胰腺炎患者进行健康生活方式的宣教，每次就诊都应加强教育。
+补充胰酶可能抑制十二指肠的胆囊收缩素分泌，以减少胰酶分泌，从而减轻慢性疼痛。与酒精相关性胰腺炎患者相比，酶疗法对病情不太严重的患者、女性患者和特发性胰腺炎患者更有可能成功。虽然胰酶治疗因其安全性和不良反应少而常用，但对缓解疼痛可能无明显益处。
+上述治疗并不能缓解疼痛，需要增加阿片类药物的用量，增加成瘾风险。辅助性止痛药物，如三环类抗抑郁药、加巴喷丁、普瑞巴林和选择性5 -羟色胺再摄取抑制剂，可单用或与阿片类药物联合用于治疗慢性疼痛；结果不一。慢性胰腺炎疼痛的药物治疗效果往往不如人意。
+糖皮质激素可用于治疗自身免疫性胰腺炎 (2)。
+其他治疗方式包括内镜治疗、碎石术、腹腔神经丛阻滞和手术。
+内镜治疗旨在对因狭窄、结石或两者共同阻塞的胰管进行减压，对于经过仔细筛选且胰管解剖结构合适的患者，可能提供疼痛缓解。如果十二指肠乳头或远端胰管严重狭窄，在做ERCP时联合括约肌切开术、放置支架或扩张，可能有效(3)。 假囊肿可引起慢性疼痛。部分假性囊肿可进行内镜下引流(4)。
+碎石术（体外冲击波碎石术或导管内碎石术）通常用于治疗较大或嵌顿的胰腺结石。
+经皮或内镜下超声引导的腹腔神经丛阻滞联合皮质类固醇和长效麻醉剂，可为部分慢性胰腺炎患者提供短期疼痛缓解。
+手术也可有效缓解疼痛。手术方案应保留给那些已停止饮酒，并能控制因胰腺切除而可能加剧的糖尿病的患者。手术方式多样，涉及切除和/或减压(5)。手术方式的选择取决于胰管解剖结构、局部并发症的考量、患者的手术史以及当地医疗团队的专业水平。例如，如果主胰管扩张 > 5～8 mm，胰管空肠吻合术（Puestow术）或Partington-Rochelle改良的Puestow手术，有望使约70%～80%经过精心挑选（例如，无炎性肿块）的患者疼痛减轻(6)。如果胰管没有扩张，可以进行改良Puestow手术的一种变体，该术式称为V型成形术或Hamburg手术。
+其他手术方法包括部分切除，如末端胰腺切除术（用于胰尾部的广泛病变），Whipple手术（用于胰腺头部的广泛病变），保留幽门的胰十二指肠切除术（类似于Whipple手术），或保留十二指肠的胰头切除术（Beger手术）或伴自体胰岛移植的全胰切除术。总体而言，手术引流比内镜方法能更有效地缓解梗阻并缓解疼痛（7)。
+
+【胰酶替代治疗】
+胰腺外分泌功能不全的患者，脂肪吸收不良比蛋白质和碳水化合物的吸收不良更为严重。脂类吸收不良也会导致脂溶性维生素（A、D、E、K）缺乏。胰酶替代疗法（补充由于胰腺功能不全而缺乏的激素）用于治疗脂肪泻(8)。多种剂型可选，每餐需要75,000至150,000个美国药典单位(25,000至50,000国际单位)脂肪酶的剂量，进食点心时予半量，以满足充分的脂肪吸收。治疗应从这些（低剂量）剂量开始，后根据临床反应调整剂量。药物随餐服用。服用非肠溶制剂的患者，应予H2受体拮抗剂或质子泵抑制剂，以防止胰酶在酸性环境中分解。
+临床治疗有效表现为体重增加、排便次数减少、大便油滴渗漏现象消失、脂溶性维生素水平升高及一般情况改善。胰酶替代治疗后粪便脂肪减少，证实临床有效。如脂肪泻特别严重，上述治疗效果不佳，则可将中链甘油三酯作为脂肪来源，因其无需胰酶可被吸收，并相应减少其他饮食中其他脂肪摄入。应补充脂溶性维生素A、D、K，包括维生素E，后者可减轻炎症反应。
+
+【糖尿病治疗】
+患者应该被转诊至内分泌医生进行糖尿病治疗。胰岛素应谨慎使用，因为同时存在的α细胞分泌胰高血糖素不足可能导致不受抑制且持续时间过长的低血糖，这是胰源性糖尿病（3c型糖尿病）的典型特征。口服降糖药对慢性胰腺炎引起的糖尿病患者很少有效。
+
+【治疗参考文献】
+1.Gardner TB, Adler DG, Forsmark CE, et al: ACG Clinical Guideline: Chronic Pancreatitis.Am J Gastroenterol115(3):322-339, 2020.doi: 10.14309/ajg.0000000000000535
+1.Gardner TB, Adler DG, Forsmark CE, et al: ACG Clinical Guideline: Chronic Pancreatitis.Am J Gastroenterol115(3):322-339, 2020.doi: 10.14309/ajg.0000000000000535
+2.Okazaki K, Chari ST, Frulloni L, et al: International consensus for the treatment of autoimmune pancreatitis.Pancreatology17(1):1-6, 2017.doi: 10.1016/j.pan.2016.12.003
+2.Okazaki K, Chari ST, Frulloni L, et al: International consensus for the treatment of autoimmune pancreatitis.Pancreatology17(1):1-6, 2017.doi: 10.1016/j.pan.2016.12.003
+3.Kitano M, Gress TM, Garg PK, et al: International consensus guidelines on interventional endoscopy in chronic pancreatitis.Recommendations from the working group for the international consensus guidelines for chronic pancreatitis in collaboration with the International Association of Pancreatology, the American Pancreatic Association, the Japan Pancreas Society, and European Pancreatic Club.Pancreatology20(6):1045-1055, 2020.doi: 10.1016/j.pan.2020.05.022
+3.Kitano M, Gress TM, Garg PK, et al: International consensus guidelines on interventional endoscopy in chronic pancreatitis.Recommendations from the working group for the international consensus guidelines for chronic pancreatitis in collaboration with the International Association of Pancreatology, the American Pancreatic Association, the Japan Pancreas Society, and European Pancreatic Club.Pancreatology20(6):1045-1055, 2020.doi: 10.1016/j.pan.2020.05.022
+4.ASGE Standards of Practice Committee; Muthusamy VR, Chandrasekhara V, et al: The role of endoscopy in the diagnosis and treatment of inflammatory pancreatic fluid collections.Gastrointest Endosc83(3):481-488, 2016.doi: 10.1016/j.gie.2015.11.027
+4.ASGE Standards of Practice Committee; Muthusamy VR, Chandrasekhara V, et al: The role of endoscopy in the diagnosis and treatment of inflammatory pancreatic fluid collections.Gastrointest Endosc83(3):481-488, 2016.doi: 10.1016/j.gie.2015.11.027
+5.Kempeneers MA, Issa Y, Ali UA, et al: International consensus guidelines for surgery and the timing of intervention in chronic pancreatitis.Pancreatology20(2):149-157, 2020.doi: 10.1016/j.pan.2019.12.005
+5.Kempeneers MA, Issa Y, Ali UA, et al: International consensus guidelines for surgery and the timing of intervention in chronic pancreatitis.Pancreatology20(2):149-157, 2020.doi: 10.1016/j.pan.2019.12.005
+6.Bouwense SAW, Kempeneers MA, van Santvoort HC, et al: Surgery in Chronic Pancreatitis: Indication, Timing and Procedures.Visc Med35(2):110-118, 2019.doi: 10.1159/000499612
+6.Bouwense SAW, Kempeneers MA, van Santvoort HC, et al: Surgery in Chronic Pancreatitis: Indication, Timing and Procedures.Visc Med35(2):110-118, 2019.doi: 10.1159/000499612
+7.Yang CJ, Bliss LA, Freedman SD, et al: Surgery for chronic pancreatitis: The role of early surgery in pain management.Pancreas44(5):819–823, 2015. doi: 10.1097/MPA.0000000000000333
+7.Yang CJ, Bliss LA, Freedman SD, et al: Surgery for chronic pancreatitis: The role of early surgery in pain management.Pancreas44(5):819–823, 2015. doi: 10.1097/MPA.0000000000000333
+8.Whitcomb DC, Buchner AM, Forsmark CE: AGA Clinical Practice Update on the Epidemiology, Evaluation, and Management of Exocrine Pancreatic Insufficiency: Expert Review.Gastroenterology165(5):1292-1301, 2023.doi: 10.1053/j.gastro.2023.07.007
+8.Whitcomb DC, Buchner AM, Forsmark CE: AGA Clinical Practice Update on the Epidemiology, Evaluation, and Management of Exocrine Pancreatic Insufficiency: Expert Review.Gastroenterology165(5):1292-1301, 2023.doi: 10.1053/j.gastro.2023.07.007
+急性胰腺炎反复发作可导致慢性持续性炎症、导管损伤，最终发生纤维化，导致慢性胰腺炎。
+急性胰腺炎反复发作可导致慢性持续性炎症、导管损伤，最终发生纤维化，导致慢性胰腺炎。
+患者有阵发性腹痛，随后在疾病中伴随吸收不良的表现。
+患者有阵发性腹痛，随后在疾病中伴随吸收不良的表现。
+根据临床表现、影像学检查和胰腺功能检查进行诊断。
+根据临床表现、影像学检查和胰腺功能检查进行诊断。
+慢性胰腺炎的治疗主要包括疼痛控制和并发症处理，包括胰腺功能不全。
+慢性胰腺炎的治疗主要包括疼痛控制和并发症处理，包括胰腺功能不全。

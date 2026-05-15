@@ -1,0 +1,40 @@
+标题：环境和职业性肺部疾病概述
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/environmental-and-occupational-pulmonary-diseases/overview-of-environmental-and-occupational-pulmonary-diseases
+============================================================
+
+环境和职业性肺部疾病是由吸入灰尘、化学品、气体、烟雾和其他空气传播物质引起的。肺部持续暴露在外部环境中，容易受到一系列环境和职业挑战的影响。 病理变化过程可能累及肺的任何部分，包括
+气道（例如，职业性哮喘,反应性气道功能障碍综合征,毒物吸入,与空气污染有关的疾病, 或者棉尘肺)
+气道（例如，职业性哮喘,反应性气道功能障碍综合征,毒物吸入,与空气污染有关的疾病, 或者棉尘肺)
+肺实质（例如，在尘肺,过敏性肺炎, 或者矽肺)
+肺实质（例如，在尘肺,过敏性肺炎, 或者矽肺)
+胸膜（例如，石棉相关疾病)
+胸膜（例如，石棉相关疾病)
+吸入暴露长期以来一直被认为是哮喘的危险因素（参见与工作有关的哮喘）。它们也被认为是导致与吸烟无关的慢性阻塞性肺病（COPD）的原因。美国胸科学会估计，与职业暴露相关的慢性阻塞性肺病的人群归因比例约为 15%（1）。
+临床医生应记录所有患者的职业和环境史，具体询问行业和工作任务、过去和当前的暴露情况，以及症状是否与工作、家庭或其他环境暂时相关。任何积极答复后都会提出更详细的问题。
+
+【参考文献】
+1.Balmes J, Becklake M, Blanc P, et al.American Thoracic Society Statement: Occupational contribution to the burden of airway disease.Am J Respir Crit Care Med2003;167(5):787-797.doi:10.1164/rccm.167.5.787
+1.Balmes J, Becklake M, Blanc P, et al.American Thoracic Society Statement: Occupational contribution to the burden of airway disease.Am J Respir Crit Care Med2003;167(5):787-797.doi:10.1164/rccm.167.5.787
+环境和职业性肺部疾病的预防重点是减少或消除接触（一级预防）。可以使用控制层次来减少或消除暴露，按照从最有效到最不有效的顺序：
+消除（例如，消除工作场所的危险）
+消除（例如，消除工作场所的危险）
+产品替换（如采用安全低毒性材料）
+产品替换（如采用安全低毒性材料）
+技术控制（如密闭罩、换气系统、安全净化程序）
+技术控制（如密闭罩、换气系统、安全净化程序）
+管理控制（如限制暴露于有害环境中的人数）
+管理控制（如限制暴露于有害环境中的人数）
+个人防护装备（例如呼吸器、防尘面罩）
+个人防护装备（例如呼吸器、防尘面罩）
+尽管呼吸器可以减少暴露，但却是最不受欢迎的控制类型。当更有效的干预措施不可行或不能充分减少危害时，应考虑采取这些措施。呼吸防护装置通常为了执行高风险的特定任务，而不是整个工作日。
+当需要使用呼吸器来保护员工的健康时，员工应参加雇主规定的书面呼吸保护计划，其中包括医疗评估和年度呼吸适合性测试，以确保适当适合。医疗评估包括根据患者的健康状况评估患者是否能够耐受在工作场所使用的呼吸器类型。
+医学监测是一种二级预防措施。在医疗监测中，当减少接触和其他干预措施可能有助于减少长期后果时，会进行定期评估，例如肺活量测定或胸部成像，以便及早发现疾病。美国职业安全与健康管理局 (OSHA) 要求对石棉和二氧化硅等特定接触物进行医疗监测。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Blanc PD, Annesi-Maesano I, Balmes JR, et al: The Occupational Burden of Nonmalignant Respiratory Diseases.An Official American Thoracic Society and European Respiratory Society Statement.Am J Respir Crit Care Med2019 Jun 1;199(11):1312-1334.
+Blanc PD, Annesi-Maesano I, Balmes JR, et al: The Occupational Burden of Nonmalignant Respiratory Diseases.An Official American Thoracic Society and European Respiratory Society Statement.Am J Respir Crit Care Med2019 Jun 1;199(11):1312-1334.
+United States Department of Labor, Occupational Safety and Health Administration, Standard Number 1910.134 - respiratory protection
+United States Department of Labor, Occupational Safety and Health Administration, Standard Number 1910.134 - respiratory protection
+European Agency for Safety and Health at Work: Respiratory Protection Equipment — Requirements and Selection.Published 17/06/2003.Updated 17/20/2020.
+European Agency for Safety and Health at Work: Respiratory Protection Equipment — Requirements and Selection.Published 17/06/2003.Updated 17/20/2020.

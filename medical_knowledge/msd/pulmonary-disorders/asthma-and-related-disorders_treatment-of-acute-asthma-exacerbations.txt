@@ -1,0 +1,181 @@
+标题：急性发作的治疗
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/asthma-and-related-disorders/treatment-of-acute-asthma-exacerbations
+============================================================
+
+哮喘是一种常见的慢性非传染性呼吸系统疾病。根据全球哮喘防治创议,哮喘是一种异质性疾病，通常以慢性气道炎症为特征（1）。未控制的哮喘与需要升级治疗的急性加重风险升高相关。急性发作治疗的目的是缓解症状和恢复到患者最好的肺功能。治疗包括：
+吸入型支气管扩张剂（beta2受体激动剂和抗胆碱能类药物）
+吸入型支气管扩张剂（beta2受体激动剂和抗胆碱能类药物）
+通常为全身性糖皮质激素
+通常为全身性糖皮质激素
+有时使用镁剂
+有时使用镁剂
+（参阅哮喘以及哮喘的药物治疗。）
+哮喘急性加重的患者应学会自我管理：在急性发作时，吸入沙丁胺醇或类似的短效β受体激动剂2至4喷，最多可重复3次，每次间隔20分钟；如有可能，还应测量呼气峰流量（PEF）。当这些短效急救药物起效时（症状缓解且PEF恢复至基线的>80%），急性加重可在门诊处理。对治疗无反应、症状严重或PEF持续低于基线<80%的患者，应遵循医生制定的治疗方案或前往急诊室就诊（具体剂量信息见表治疗哮喘急性加重的药物）。
+
+【哮喘急性加重的药物治疗*, †】
+哮喘急性加重的药物治疗*, †
+药物治疗
+【用法用量】儿童
+【用法用量】成人
+短效beta2受体激动剂‡
+沙丁胺醇
+HFA：90mcg/喷
+与成人相同
+4-10喷，每20分钟1次，共3次，然后每1-2小时1次，共6-10次。
+如果病人能够协同使用储雾罐或手持药皿吸入装置，MDI与雾化溶剂一样有效。
+雾化溶液：5mg/mL，0.63，1.25和2.5mg/3mL
+0.15mg/kg，每20分钟1次，共3次（最小2.5mg），然后0.15～0.3mg/kg，直到需要时10mg每1～4小时1次。
+或者，采用 0.5 毫克/千克/小时的持续雾化治疗（对于 12 岁以下的儿童，剂量可高达每小时 10 至 20 毫克）
+对于>12岁的儿童，最高10-15 mg/h
+2.5～5 mg，每20分钟一次，共3次；之后按需要2.5～10 mg q1～4 h
+或者，10–15 mg/h持续雾化
+持续雾化疗法与间歇性雾化疗法效果相似，但会增加不良反应的发生频率。
+左沙丁胺醇
+HFA：45 mg/喷
+与成人相同
+4～8喷每20分钟1次，共3次，然后需要时每1～4小时1次
+左旋沙丁胺醇是沙丁胺醇的R异构体。
+0.63mg与1.25mg消旋沙丁胺醇是等效的。
+左旋沙丁胺醇可能比沙丁胺醇不良反应更少。
+雾化溶液：0.31，0.63和1.25mg/3mL，1.25mg/0.5mL
+0.075mg/kg（最小1.25mg）每20分钟1次，共3次；然后0.075～0.15mg/kg，直到需要时5mg每1～4小时1次。
+1.25–2 mg，每20分钟1次，共3次；然后必要时1.25–5 mg每1–4小时1次
+或者，5–7.5 mg/h持续雾化
+抗胆碱能药物
+异丙托溴铵
+雾化溶液：500mcg/2.5mL（0.02%）
+MDI：18 mcg/喷
+0.25–0.5 mg每20分钟1次，共3次，然后需要时每2–4小时1次
+儿童：根据需要每 20 分钟 4–8 吸，最多持续 3 小时。
+青少年:每20分钟8喷,最多使用3小时
+0.5 mg每20分钟1次，共3次，然后需要时每2–4小时1次
+异丙托溴铵应作为β2受体激动剂的辅助用药，而非作为一线治疗。
+它可以与沙丁胺醇混合在同一雾化器中使用。
+MDI递送的剂量较低，且未在急性加重期进行研究。
+联合用药
+异丙托溴铵/沙丁胺醇
+SMI：每喷含异丙托溴铵20微克和沙丁胺醇100微克
+每30分钟1喷，共3次，然后必要时每2–4小时1次
+异丙托溴铵延长沙丁胺醇的支气管扩张作用。
+雾化溶液：3ml药瓶中0.5mg异丙托溴铵和2.5mg沙丁胺醇
+每20分钟1.5 mL，共3次，然后需要时最多3小时1次
+每30分钟3 mL，共3次，然后需要时每2–4小时1次
+布地奈德/福莫特罗
+氢氟烷烃（HFA）：80或160 mcg布地奈德和4.5 mcg福莫特罗
+4 至 ＜12 岁：布地奈德 80 μg/福莫特罗 4.5 μg，每次 1 吸，根据症状需要时使用；如症状未缓解，可间隔数分钟后再次按需吸入。
+包括维持和缓解治疗在内的每日最大剂量为8喷
+≥12岁：布地奈德160微克/福莫特罗4.5微克，按需1喷用于症状缓解，几分钟后如需控制症状可再次按需使用
+每日最大剂量为12喷
+每日2次，每次2喷，按需使用
+每日最大维持治疗及急救（缓解剂）剂量为 12 喷（54 微克）
+即使作为缓解治疗使用，也应继续每日维持治疗方案。
+布地奈德/沙丁胺醇
+HFA：每喷含布地奈德80微克/沙丁胺醇90微克
+<18岁：不使用
+≥ 18 岁：80 µg布地奈德/90 µg沙丁胺醇，按需吸入 2 次。
+24小时内最多6次或12喷
+全身性糖皮质激素
+甲基泼尼松龙
+片剂：2，4，8，16，32mg
+0–11岁：每日1–2 mg/kg，可一次服用或分两次服用，直至症状缓解且肺功能峰值（PEF）达到患者个人最佳值的至少80%。
+40～80 mg，每日1次或分2次给药，直至症状缓解且呼气峰流速（PEF）达到患者个人最佳值的至少70%。
+如胃肠功能正常，静脉给药与口服给药相比并无优势。
+在重症发作时，提高剂量无优势。
+剂量每天给予一次或两次，直至第一秒用力呼气量（FEV1）或最大呼气流量（PEF）达到预测值或个人最佳值的 50% 之后，再将剂量减至每天两次，通常在 48 小时内完成。
+住院或急诊就诊后的治疗期，成人通常为 5 至 10 天，儿童则为 3 至 5 天。
+如果病人也给予吸入糖皮质激素治疗，则不需逐渐减量
+注射混悬液:20 mg/mL、40 mg/mL和80 mg/mL
+注射用溶液：40 mg、125 mg、500 mg、1000 mg和2000 mg
+0～11岁：1～2 mg/kg，每日1次，分2次给药，直至症状缓解且呼气峰流速（PEF）达到患者个人最佳值的至少70%
+60-80毫克，分3或4次剂量服用48小时，然后30-40毫克/天直至PEF达到个人最佳值的70%
+泼尼松龙
+片剂：5mg
+口腔崩解片：10，15，和30毫克
+1–2 mg/kg，分1–2次给药，直至呼气峰流速（PEF）达到预计值或个人最佳值的70%。
+40～80 mg，每日1次或分2次给药，直至呼气峰流速（PEF）达到患者预测值或个人最佳值的70%。
+最大剂量
+<2岁：20 mg/天
+3-5岁：30 mg/天
+6-11岁：40毫克/天
+溶剂：5，10，15，20或25mg/5mL
+片剂：1，2.5，5，10，20，50mg
+1-2 mg/kg 每日，连续5天
+40–60 mg/日，单次每日给药或每 12 小时分次给药，疗程 3–10 天。
+最大剂量
+<2岁：20 mg/天
+3-5岁：30 mg/天
+6-11岁：40毫克/天
+浓缩液：5 mg/mL
+溶液： 5mg/5mL
+*除非特别指出，否则适用于所有年龄。
+†药物剂量和使用时间由临床反应决定。
+‡ 短效β2受体激动剂必须与吸入性糖皮质激素（即糖皮质类固醇）联合使用。
+ED=急诊室；FEV1=第1秒用力呼气量；HFA = 氢氟烷；MDI=定量吸入器；PEF=呼气峰流量；SMI = 软雾吸入器。
+Adapted from National Heart, Lung, and Blood Institute: Expert Panel Report 3: Guidelines for the diagnosis and management of asthma—full report 2007.August 28, 2007.Available atwww.nhlbi.nih.gov/guidelines/asthma/asthgdln.pdf; andExpert Panel Working Group of the National Heart, Lung, and Blood Institute (NHLBI) administered and coordinated National Asthma Education and Prevention Program Coordinating Committee (NAEPPCC), Cloutier MM, Baptist AP, et al: 2020 Focused Updates to the Asthma Management Guidelines: A Report from the National Asthma Education and Prevention Program Coordinating Committee Expert Panel Working Group.J Allergy Clin Immunol146(6):1217–1270, 2020. doi: 10.1016/j.jaci.2020.10.003.
+更多信息参见全球哮喘防治倡议。Global Strategy for Asthma Management and Prevention, 2025.Updated May 2025.Accessed May 20, 2025.Available fromwww.ginasthma.org.
+*除非特别指出，否则适用于所有年龄。
+†药物剂量和使用时间由临床反应决定。
+‡ 短效β2受体激动剂必须与吸入性糖皮质激素（即糖皮质类固醇）联合使用。
+ED=急诊室；FEV1=第1秒用力呼气量；HFA = 氢氟烷；MDI=定量吸入器；PEF=呼气峰流量；SMI = 软雾吸入器。
+Adapted from National Heart, Lung, and Blood Institute: Expert Panel Report 3: Guidelines for the diagnosis and management of asthma—full report 2007.August 28, 2007.Available atwww.nhlbi.nih.gov/guidelines/asthma/asthgdln.pdf; andExpert Panel Working Group of the National Heart, Lung, and Blood Institute (NHLBI) administered and coordinated National Asthma Education and Prevention Program Coordinating Committee (NAEPPCC), Cloutier MM, Baptist AP, et al: 2020 Focused Updates to the Asthma Management Guidelines: A Report from the National Asthma Education and Prevention Program Coordinating Committee Expert Panel Working Group.J Allergy Clin Immunol146(6):1217–1270, 2020. doi: 10.1016/j.jaci.2020.10.003.
+更多信息参见全球哮喘防治倡议。Global Strategy for Asthma Management and Prevention, 2025.Updated May 2025.Accessed May 20, 2025.Available fromwww.ginasthma.org.
+
+【急诊治疗】
+吸入支气管扩张剂（β2受体激动剂和抗胆碱能药）是急诊科哮喘治疗的主要措施。在成人和年龄较大的儿童中，通过定量吸入器（MDI）和储雾罐给予沙丁胺醇与通过雾化器给予同样有效。因协调定量吸入器和储雾罐困难，故雾化治疗是幼儿的首选。需要强调的是，与普遍的看法相反，没有数据表明持续使用β2受体激动剂雾化治疗优于间歇性给药；持续雾化与β受体激动剂与其受体结合的药代动力学特征不符。最近的证据表明，用氦氧混合气驱动雾化器比用氧气驱动可更好地改善支气管扩张剂的效果。由于氦气的密度较低，因此认为它有助于将支气管扩张剂输送至远端气道。但是，使用氦气雾化的技术方面（可用性，氦气浓度校准，需要定制面罩以避免被室内空气稀释）限制了其广泛应用。
+可联合使用雾化异丙托溴铵与沙丁胺醇，对于单用沙丁胺醇疗效不佳的患者；有部分证据支持将大剂量β2受体激动剂和异丙托溴铵同时应用作为一线治疗。
+除最轻微的急性加重外，所有患者均应给予全身性糖皮质激素（泼尼松、泼尼松龙、甲泼尼龙）；对于使用1或2次支气管扩张剂后PEF恢复正常者则不必使用。静注和口服途径给药同样有效。如果静脉通路已建立可予静注甲基泼尼松龙，并且必要或方便时可换成口服制剂。一般而言，对于需要住院治疗的更严重急性加重，推荐使用较高剂量（泼尼松50至60 mg，每日1次），而对于较轻急性加重的门诊治疗，则使用较低剂量（40 mg，每日1次）。虽然关于最佳剂量和疗程的证据不足，但大多数指南建议儿童疗程3~5天、成人5~7天是足够的，并且应根据急性加重的严重程度和持续时间进行调整（1，2）。
+静脉注射硫酸镁可作为重度或危及生命、且对吸入 β₂ 受体激动剂和全身应用糖皮质激素初始治疗反应不佳的急性哮喘加重患者的辅助治疗措施。荟萃分析证据显示，静脉硫酸镁可能轻度降低住院率并改善肺功能，尤其在成人及病情较重的儿童患者中效果更为明显（3,4）。硫酸镁可松弛平滑肌，但其用于治疗哮喘恶化的有效性存有争议。
+抗生素仅在病史、体格检查或X线提示潜在细菌感染时使用；大多哮喘急性发作时感染源于病毒。
+对于低氧血症，应给予补充氧气，通过鼻导管或面罩以足够的流速或浓度输氧，以维持氧饱和度>90%。
+皮下注射肾上腺素不推荐作为哮喘急性加重的常规治疗，仅在特定指征下使用，如合并过敏性休克或对常规治疗无反应、危及生命的顽固性哮喘，且其他治疗（如吸入短效 β₂ 受体激动剂）不可获得或疗效不佳时方可考虑。在此类情况下，可肌内或皮下注射肾上腺素，成人剂量为 0.3～0.5 mg（1 mg/mL 溶液），单次给药不超过 0.5 mg，必要时每 5～10 分钟重复给药一次。青春期前儿童的剂量为 0.01 mg/kg，每 5～20 分钟肌内注射 1 次，共 3 次（最大单次剂量 0.3 mg）（5）。
+特布他林是儿童使用肾上腺素的替代选择。特布他林可能优于肾上腺素，因其心血管效应更少且作用持续时间更长，但供应有限。
+茶碱在哮喘急性加重的治疗中作用轻微。该药物与心律失常、惊厥等不良反应风险增加相关。因此，茶碱不常规推荐用于急性哮喘加重治疗，仅在个别情况下使用，例如对标准治疗无反应且因重度或危及生命的急性加重而住院的患者（1）。
+当焦虑引起哮喘急性发作时，安慰治疗是最好的方法。抗焦虑药物和吗啡属于相对禁忌，因为它们与呼吸抑制有关，并且吗啡可能通过肥大细胞释放组胺引起类过敏反应；这些药物可能增加死亡率和机械通气的需求。
+
+【住院治疗】
+如果病人在急诊积极治疗4小时内未恢复到基线水平，通常需要住院治疗。住院标准各不相同，但明确的指征是:
+未能改善
+未能改善
+疲劳加重
+疲劳加重
+反复β-2激动剂治疗后复发
+反复β-2激动剂治疗后复发
+PaO₂显著下降（至<50 mmHg）
+PaO₂显著下降（至<50 mmHg）
+PaCO₂显著增加（至>40 mmHg）
+PaCO₂显著增加（至>40 mmHg）
+PaCO₂显著增加提示进展为呼吸衰竭。
+即使给予积极治疗病情仍持续恶化的患者，可选用无创正压通气（NIPPV）以改善呼吸。无创正压通气（NIPPV）包括呼气末正压，可减少机械通气期间肺泡呼气末残留的内源性正压影响。它还包括吸气正压通气，可减轻气道阻力增加的影响。在吸气和呼气两个阶段提供压力支持有助于减轻呼吸负担。
+出现呼吸衰竭者则可能需要经气管插管的有创机械通气。对于PaCO₂升高程度与呼吸急促程度不匹配的急性呼吸窘迫患者，在严重急性发作早期使用NIPPV可以预防插管。它应用于尽管立即使用支气管扩张剂和全身性糖皮质激素治疗，但仍出现呼吸窘迫的急性加重患者，判断标准包括：呼吸急促（呼吸频率 > 25次/分钟）、使用辅助呼吸肌、PaCO₂ > 40但 < 60 mmHg以及低氧血症。若患者有以下情况应使用机械通气而不是NIPPV：
+PaCO2>60mmHg
+PaCO2>60mmHg
+意识水平下降
+意识水平下降
+呼吸道分泌物过多
+呼吸道分泌物过多
+可能妨碍无创通气的面部异常（如手术，创伤）
+可能妨碍无创通气的面部异常（如手术，创伤）
+如果NIPPV 1小时后没有明显改善，应积极考虑机械通气。
+气管插管和机械通气可提供镇静以进一步减轻呼吸作功，但因可能与糖皮质激素相互作用导致持久的神经肌肉无力，应避免常规使用神经肌肉阻滞剂。如果操作者熟悉其使用方法和不良反应（如喉痉挛、肌肉强直和支气管分泌物增多），可将氯胺酮用于清醒气管插管。
+通常采用辅助控制模式的定容通气，这是因为这种模式在高气道阻力和阻力变化时能提供恒定的肺泡通气。呼吸机应设置为相对较低的频率和相对较高的吸气流速（>80 L/分钟），以延长呼气时间，最小化内源性呼气末正压（auto-PEEP）。初始潮气量可设置为理想体重的6～8 mL/kg，应用外源性PEEP有助于患者触发，并最大限度减少因auto-PEEP导致的呼吸机不同步。由于气道阻力高和吸气流速快，通常会出现较高的气道峰压。在这些患者中，气道压力峰值并不反映由肺泡内压引起的肺扩张的程度。 然而，如果平台压超过30～35cm水柱，则潮气量应减少，以防发生气胸。当需要降低潮气量时，可接受中等程度的高碳酸血症（“允许性高碳酸血症”）；但如果动脉pH值低于7.10，可考虑缓慢输注碳酸氢钠，以将pH值维持在7.20至7.25之间，尤其在血流动力学不稳定的情况下。一旦气流阻塞缓解，PaCO2和动脉血pH正常，病人通常能很快撤机。（详细信息，请参考呼吸衰竭和机械通气）
+
+【其他治疗】
+对哮喘发作有效的其他疗法，有报道但尚无充分研究证据。氦氧混合气（heliox）用于减少呼吸功，并通过减少由氦气（一种密度低于氧气的气体）引起的湍流而改善通气。虽然理论上氦气有益，但关于其有效性的研究结果矛盾；另外，缺乏即时可用性且无法同时提供高浓度氧气（由于吸入空气中70～80%为氦气）也限制其使用 (6,7)。
+声带功能障碍，亦称诱发性喉梗阻，其特征为吸气时声带异常内收，可导致气流受限，并可模拟哮喘急性加重表现。声带功能障碍的管理需要多学科协作，包括通过语言治疗教授呼吸技巧。氦氧混合气也可能有助于声带功能障碍患者的治疗。
+对哮喘持续状态患者使用七氟醚和异氟醚等药物进行全身麻醉会导致支气管扩张，其机制尚不清楚，可能是对气道平滑肌的直接松弛作用或胆碱能张力减弱。
+
+【参考文献】
+1.Global Initiative for Asthma.Global Strategy for Asthma Management and Prevention, 2025.Updated May 2025.Accessed May 20, 2025.Available fromwww.ginasthma.org
+1.Global Initiative for Asthma.Global Strategy for Asthma Management and Prevention, 2025.Updated May 2025.Accessed May 20, 2025.Available fromwww.ginasthma.org
+2.British Thoracic Society, National Institute for Health and Care Excellence, and Scottish Intercollegiate Guidelines Network: Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN).London: National Institute for Health and Care Excellence (NICE).Published November 27, 2024.
+2.British Thoracic Society, National Institute for Health and Care Excellence, and Scottish Intercollegiate Guidelines Network: Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN).London: National Institute for Health and Care Excellence (NICE).Published November 27, 2024.
+3.Ambrożej D, Adamiec A, Forno E, Orzołek I, Feleszko W, Castro-Rodriguez JA.Intravenousmagnesium sulfatefor asthma exacerbations in children: Systematic review with meta-analysis.Paediatr Respir Rev.2024;52:23-30.doi:10.1016/j.prrv.2024.01.003
+3.Ambrożej D, Adamiec A, Forno E, Orzołek I, Feleszko W, Castro-Rodriguez JA.Intravenousmagnesium sulfatefor asthma exacerbations in children: Systematic review with meta-analysis.Paediatr Respir Rev.2024;52:23-30.doi:10.1016/j.prrv.2024.01.003
+4.Knightly R, Milan SJ, Hughes R, et al.Inhaledmagnesium sulfatein the treatment of acute asthma.Cochrane Database Syst Rev.2017;11(11):CD003898.Published 2017 Nov 28.doi:10.1002/14651858.CD003898.pub6
+4.Knightly R, Milan SJ, Hughes R, et al.Inhaledmagnesium sulfatein the treatment of acute asthma.Cochrane Database Syst Rev.2017;11(11):CD003898.Published 2017 Nov 28.doi:10.1002/14651858.CD003898.pub6
+5.Shenoi RP, Timm N; COMMITTEE ON DRUGS; COMMITTEE ON PEDIATRIC EMERGENCY MEDICINE.Drugs Used to Treat Pediatric Emergencies.Pediatrics.2020 Jan;145(1):e20193450.doi: 10.1542/peds.2019-3450.PMID: 31871244.
+5.Shenoi RP, Timm N; COMMITTEE ON DRUGS; COMMITTEE ON PEDIATRIC EMERGENCY MEDICINE.Drugs Used to Treat Pediatric Emergencies.Pediatrics.2020 Jan;145(1):e20193450.doi: 10.1542/peds.2019-3450.PMID: 31871244.
+6.Rodrigo GJ, Rodrigo C, Pollack CV, Rowe B.Use of helium-oxygen mixtures in the treatment of acute asthma: a systematic review.Chest.2003;123(3):891-896.doi:10.1378/chest.123.3.891
+6.Rodrigo GJ, Rodrigo C, Pollack CV, Rowe B.Use of helium-oxygen mixtures in the treatment of acute asthma: a systematic review.Chest.2003;123(3):891-896.doi:10.1378/chest.123.3.891
+7.Rodrigo GJ, Castro-Rodriguez JA.Heliox-driven β2-agonists nebulization for children and adults with acute asthma: a systematic review with meta-analysis.Ann Allergy Asthma Immunol.2014;112(1):29-34.doi:10.1016/j.anai.2013.09.024
+7.Rodrigo GJ, Castro-Rodriguez JA.Heliox-driven β2-agonists nebulization for children and adults with acute asthma: a systematic review with meta-analysis.Ann Allergy Asthma Immunol.2014;112(1):29-34.doi:10.1016/j.anai.2013.09.024

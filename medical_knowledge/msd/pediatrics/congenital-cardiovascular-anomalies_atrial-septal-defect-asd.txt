@@ -1,0 +1,78 @@
+标题：房间隔缺损（ASD）
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-cardiovascular-anomalies/atrial-septal-defect-asd
+============================================================
+
+(参见先天性心血管畸形概述。)
+房间隔缺损约占先天性心脏病的6%～10% (1)。 多数是单独发生和散发，有一些是某些遗传病的一部分（如5号染色体基因突变，Holt-Oram综合征）。房间隔缺损和房室传导阻滞可能与NKX2-5同源盒基因突变有关。
+房间隔缺损根据缺损的位置又分为：
+继发孔：卵圆窝缺陷——在房间隔的中心（或中间）部位
+继发孔：卵圆窝缺陷——在房间隔的中心（或中间）部位
+静脉窦：间隔后部的缺陷，邻近上腔静脉或下腔静脉，并且经常与右上或下肺静脉异常回流到右心房或腔静脉有关
+静脉窦：间隔后部的缺陷，邻近上腔静脉或下腔静脉，并且经常与右上或下肺静脉异常回流到右心房或腔静脉有关
+原发孔：房间隔前下方缺陷，一种房室间隔缺损（心内膜垫缺损）形式
+原发孔：房间隔前下方缺陷，一种房室间隔缺损（心内膜垫缺损）形式
+
+【参考文献】
+1.Daubeney PEF, Rigby ML, Niwa K, Gatzoulis MA (eds):Pediatric Heart Disease: A Practical Guide.Wiley-Blackwell 2012 .
+1.Daubeney PEF, Rigby ML, Niwa K, Gatzoulis MA (eds):Pediatric Heart Disease: A Practical Guide.Wiley-Blackwell 2012 .
+
+【ASD的病理生理】
+为了理解房间隔缺损（和其他心脏畸形）的血流动力学变化和正常的血流动力学数据，见图具有代表性的左右心压的正常循环。
+
+【标示左心和右心压力（以mmHg为单位）的正常循环】
+标示左心和右心压力（以mmHg为单位）的正常循环
+代表右心 O2 饱和=75%；代表左心 O2 饱和=95%。心房压力是平均压力。
+AO=主动脉；IVC=下腔静脉；LA=左心房；LV=左心室；PA=肺动脉；PV=肺静脉；RA=右心房；RV=右心室；SVC=上腔静脉。
+在房间隔缺损中，分流最初是从左到右的（见图房间隔缺损）。很多小型房间隔缺损在生后数年内自然闭合。持续的中至大的房间隔缺损引起大的分流，导致右房、右室容量超负荷。如果未能修复，这些大的分流可能会导致肺动脉高压，肺血管阻力增加，到患者30或40多岁时出现右心室肥厚。以毫米为单位的缺陷的绝对大小不应单独考虑，因为缺陷大小的重要性随着患者的年龄和大小而变化，并且其重要性低于通过缺陷分流程度的生理后果（1)。房性心律失常，如室上性心动过速（SVT），心房扑动或心房颤动也会出现。心房分流的存在，即使主要是从左到右，也可能与短暂的从右到左分流引起的矛盾栓子有关。最终，肺动脉压力和血管阻力的增加可能导致在成年中后期(通常超过40岁)出现紫绀性双向心房分流（艾森曼格综合征）。
+
+【房间隔缺损】
+房间隔缺损
+肺血流、右心房和右心室容量增加。（注：在整个儿童时期心腔内压力一般都处于正常范围内。）较大缺损RA 和 LA压力相等。
+AO=主动脉；IVC=下腔静脉；LA=左心房；LV=左心室；PA=肺动脉；PV=肺静脉；RA=右心房；RV=右心室；SVC=上腔静脉。
+
+【病理生理学参考文献】
+1.McMahon CJ, Feltes TF, Fraley JK, et al: Natural history of growth of secundum atrial septal defects and implications for transcatheter closure.Heart87(3):256-259, 2002.doi:10.1136/heart.87.3.256
+1.McMahon CJ, Feltes TF, Fraley JK, et al: Natural history of growth of secundum atrial septal defects and implications for transcatheter closure.Heart87(3):256-259, 2002.doi:10.1136/heart.87.3.256
+
+【ASD 的症状和体征】
+小型或中型房间隔缺损患者没有症状。即使是大型房间隔缺损也不会引起幼儿症状。较大的分流可能会导致幼儿期体重增长缓慢，以及老年患者出现运动不耐受、劳累时呼吸困难、疲劳和/或心悸。微栓子从静脉循环穿过 ASD（矛盾性栓塞）通常与心律失常有关，可能导致脑或全身血栓栓塞事件，如中风。很少的情况下，如果未经诊断或治疗房间隔缺损长达数十年，可能发展为艾森曼格综合征。
+胸骨左缘上方可闻及典型的2～3/6级收缩中期（喷射性）杂音 (见表心脏杂音强度)并伴有第二心音（S2）固定分裂。左到右心房的巨大分流可能会在胸骨下缘产生低音调的舒张期杂音（由于三尖瓣血流增加）。这些结果在婴儿中可能不存在，甚至是那些具有较大缺陷的婴儿。可能会出现突出的右心室心搏，表现为胸骨旁高耸或抬高。
+
+【ASD的诊断】
+胸片和心电图
+胸片和心电图
+超声心动图
+超声心动图
+房间隔缺损的诊断通常依靠临床表现、胸片、心电图，并借助二维彩色多普勒超声心动图明确缺损部位。
+如果存在明显的分流，心电图示电轴右偏、右室肥厚、或右心室传导延迟（V1 导联呈现rSR′波形，伴有高R'）。X线片中可见右房、右室均增大、肺动脉段突出以及肺血纹理增多。
+超声心动图将确认 ASD 的存在，确定缺损的解剖位置和大小，并评估右心房和右心室容量超负荷的程度。
+除非计划行缺损介入堵闭术，否则很少需进行心导管介入。
+
+【ASD的治疗】
+观察，经导管封堵或手术修复
+观察，经导管封堵或手术修复
+多数位于中央的小型房间隔缺损（<3 mm）可自行闭合；3～8mm的许多缺损在3岁时自行闭合。这些缺损可能代表的是一种延伸的卵圆孔未闭，而不是一种真正的继发孔房间隔缺损。而原发孔房间隔缺损和静脉窦型房间隔缺损不能自行闭合。
+无症状型且分流量小的患儿只需要观察和偶尔做超声心动图(通常每3 - 5年)。虽然这些儿童在理论上有发生矛盾性全身栓塞的风险，但在儿童时期这种情况很少见。因而，对于小型的，无明显血流动力学缺陷的房间隔缺损，将其关闭并非标准治疗。
+对于中型及大型房间隔缺损（超声心动图显示右室容量超负荷的明确证据），建议关闭，推荐年龄为2～6岁。对于患有慢性肺病的儿童，建议尽早修补。85% 到 90% 的缺损可以通过各种商用闭合装置进行经导管闭合，如果具备适当的解剖特征，如足够的室间隔组织边缘和与重要结构（如主动脉根、肺静脉、三尖瓣环）的距离，则首选经导管闭合。(1)。否则，就需要手术修复。静脉窦和原发孔（房室间隔型）缺陷不适合封堵。如果房间隔缺损在儿童期给予修补，围手术期死亡率为0，远期生存率接近一般人群。
+术前无需预防心内膜炎，只需在修复术后的前 6 个月或手术补片附近有残余缺损时进行预防。
+
+【治疗参考文献】
+1.Faccini A, Butera G: Atrial septal defect (ASD) device trans-catheter closure: limitations.J Thorac Dis10 (Suppl 24):S2923–S2930, 2018.
+1.Faccini A, Butera G: Atrial septal defect (ASD) device trans-catheter closure: limitations.J Thorac Dis10 (Suppl 24):S2923–S2930, 2018.
+房间隔缺损是指房间隔上若干部位中某一个部位的孔洞，产生左向右分流。
+房间隔缺损是指房间隔上若干部位中某一个部位的孔洞，产生左向右分流。
+小型的房间隔缺损通常自行关闭，但是较大的房间隔缺损则无法自行关闭，导致右心房和右心室超负荷，最终引起肺动脉高压，肺血管阻力升高，以及右心室肥厚；也可能发生室上性心动过速，心房扑动或心房纤颤。
+小型的房间隔缺损通常自行关闭，但是较大的房间隔缺损则无法自行关闭，导致右心房和右心室超负荷，最终引起肺动脉高压，肺血管阻力升高，以及右心室肥厚；也可能发生室上性心动过速，心房扑动或心房纤颤。
+ASD 可使静脉栓子进入全身循环（矛盾性栓塞），导致动脉闭塞（如中风）。
+ASD 可使静脉栓子进入全身循环（矛盾性栓塞），导致动脉闭塞（如中风）。
+听诊通常可闻及2～3/6级收缩中期杂音和广泛分裂的固定性第二心音；婴儿可能缺乏这些表现。
+听诊通常可闻及2～3/6级收缩中期杂音和广泛分裂的固定性第二心音；婴儿可能缺乏这些表现。
+中度至较大的 ASD 通常应在 2 岁至 6 岁之间进行闭合，尽可能使用经导管装置。
+中度至较大的 ASD 通常应在 2 岁至 6 岁之间进行闭合，尽可能使用经导管装置。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+American Heart Association: Common Heart Defects: Provides overview of common congenital heart defects for parents and caregivers
+American Heart Association: Common Heart Defects: Provides overview of common congenital heart defects for parents and caregivers
+American Heart Association: Infective Endocarditis: Provides an overview of infective endocarditis, including summarizing prophylactic antibiotic use, for patients and caregivers
+American Heart Association: Infective Endocarditis: Provides an overview of infective endocarditis, including summarizing prophylactic antibiotic use, for patients and caregivers

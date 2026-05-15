@@ -1,0 +1,60 @@
+标题：嗜酸性粒细胞性筋膜炎
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/systemic-rheumatic-diseases/eosinophilic-fasciitis
+============================================================
+
+嗜酸性筋膜炎的病因不明，但可能由剧烈运动或创伤、疏螺旋体病或接触某些药物和物质引发（1）。报告病例中高达 10% 与再生障碍性贫血和多发性骨髓瘤等血液系统疾病有关（2）。
+好发于中年男性，亦可发生于女性和儿童。
+
+【参考文献】
+1.Antic M, Lautenschlager S, Itin PH.Eosinophilic fasciitis 30 years after - what do we really know?Report of 11 patients and review of the literature.Dermatology.2006;213(2):93-101.doi:10.1159/000093847
+1.Antic M, Lautenschlager S, Itin PH.Eosinophilic fasciitis 30 years after - what do we really know?Report of 11 patients and review of the literature.Dermatology.2006;213(2):93-101.doi:10.1159/000093847
+2.Lakhanpal S, Ginsburg WW, Michet CJ, Doyle JA, Moore SB.Eosinophilic fasciitis: clinical spectrum and therapeutic response in 52 cases.Semin Arthritis Rheum.1988;17(4):221-231.doi:10.1016/0049-0172(88)90008-x
+2.Lakhanpal S, Ginsburg WW, Michet CJ, Doyle JA, Moore SB.Eosinophilic fasciitis: clinical spectrum and therapeutic response in 52 cases.Semin Arthritis Rheum.1988;17(4):221-231.doi:10.1016/0049-0172(88)90008-x
+
+【嗜酸性筋膜炎的症状和体征】
+最初的特征是皮肤和皮下组织的疼痛、肿胀和炎症，随后是硬化，形成典型的橙皮状结构和覆盖在浅表静脉上的垂直线性凹陷（沟征），在四肢前表面最明显。面部和躯干较少累及。
+病情逐渐进展导致手臂和腿部活动受限。肢体挛缩常继发于筋膜硬化和增厚，但病变也可影响肌腱、滑膜和肌肉。与系统性硬化症不同，嗜酸性筋膜炎不累及手指和脚趾（肢端区域）。肌力不受影响，但可出现肌痛和关节炎。亦可发生腕管综合征。
+累及内脏器官并不常见（1）。
+乏力和体重下降常见。
+图示嗜酸性筋膜炎患者手臂上沿浅静脉的垂直线性凹陷。
+Photo courtesy of Kinanah Yaseen, MD.
+
+【症状和体征】
+1.Lakhanpal S, Ginsburg WW, Michet CJ, Doyle JA, Moore SB.Eosinophilic fasciitis: clinical spectrum and therapeutic response in 52 cases.Semin Arthritis Rheum.1988;17(4):221-231.doi:10.1016/0049-0172(88)90008-x
+1.Lakhanpal S, Ginsburg WW, Michet CJ, Doyle JA, Moore SB.Eosinophilic fasciitis: clinical spectrum and therapeutic response in 52 cases.Semin Arthritis Rheum.1988;17(4):221-231.doi:10.1016/0049-0172(88)90008-x
+
+【嗜酸性筋膜炎的诊断】
+有典型症状的患者应怀疑嗜酸性筋膜炎。 皮肤表现可能提示系统性硬化症；然而，系统性硬化症患者通常也有远端皮肤受累、雷诺综合征、毛细血管镜下甲襞异常改变（包括毛细血管袢扩张、脱落以及甲周出血）和内脏改变（如食管运动障碍）。这些表现在嗜酸性筋膜炎中通常不存在。
+对嗜酸性肌膜炎的诊断需要深入到包括筋膜及邻近肌纤维的活检。典型的发现是筋膜的炎症，伴或不伴嗜酸性粒细胞浸润。
+血液检查无诊断性作用，但全血细胞计数（CBC）通常显示嗜酸性粒细胞增多（在早期活动性疾病中），血清蛋白电泳显示约三分之一的患者存在多克隆高球蛋白血症。然而，这些患者似乎有低风险的单克隆丙种球蛋白病很少进展为坦率的血液癌（1)。
+MRI虽不特异，但可见筋膜增厚，与炎症有关的浅表肌纤维信号密度增强。
+
+【诊断参考文献】
+1.Mazori DR, Kassamali B, Min MS, et al: Characteristics and outcomes of eosinophilic fasciitis-associated monoclonal gammopathy.JAMA Dermatol157(12):1508-1509, 2021.doi:10.1001/jamadermatol.2021.4302
+1.Mazori DR, Kassamali B, Min MS, et al: Characteristics and outcomes of eosinophilic fasciitis-associated monoclonal gammopathy.JAMA Dermatol157(12):1508-1509, 2021.doi:10.1001/jamadermatol.2021.4302
+
+【嗜酸性筋膜炎的治疗】
+口服泼尼松
+口服泼尼松
+甲氨蝶呤
+甲氨蝶呤
+大剂量的泼尼松对多数患者有效（起始剂量为40～60mg/d，一旦病情缓解激素逐渐减量至5～10mg/d）。 尽管缺乏指导治疗的随机试验，但观察性数据表明，糖皮质激素和甲氨蝶呤联合使用比单独使用糖皮质激素更有可能导致完全的治疗反应(1)。如果甲氨蝶呤是禁忌症，也可以使用其他药物，如硫唑嘌呤或霉酚酸酯。
+物理疗法可能有助于屈曲挛缩。
+建议使用全血细胞计数进行监测，因为偶尔会发生血液学并发症。
+手术松解挛缩和腕管综合征可能是必要的。
+如果使用联合免疫抑制治疗，患者应预防机会性感染，例如卡氏肺囊虫（见卡氏肺囊虫肺炎的预防)，以及接种针对常见感染的疫苗（例如肺炎链球菌、流感、新冠肺炎)。
+
+【治疗参考文献】
+1.Mango RL, Bugdayli K, Crowson CS, et al.Baseline characteristics and long-term outcomes of eosinophilic fasciitis in 89 patients seen at a single center over 20 years.Int J Rheum Dis.2020;23(2):233-239.doi:10.1111/1756-185X.13770
+1.Mango RL, Bugdayli K, Crowson CS, et al.Baseline characteristics and long-term outcomes of eosinophilic fasciitis in 89 patients seen at a single center over 20 years.Int J Rheum Dis.2020;23(2):233-239.doi:10.1111/1756-185X.13770
+
+【嗜酸性筋膜炎的预后】
+虽然长期预后不确定，但经过治疗多数嗜酸性筋膜炎患者可自限。
+患者出现对称和疼痛的手臂和腿部肿胀和硬结，并具有典型的橘皮外观。
+患者出现对称和疼痛的手臂和腿部肿胀和硬结，并具有典型的橘皮外观。
+尽管皮肤表现可能提示系统性硬化症，但嗜酸性筋膜炎患者通常没有雷诺综合征、远端皮肤受累或内脏改变（例如食道运动障碍）。
+尽管皮肤表现可能提示系统性硬化症，但嗜酸性筋膜炎患者通常没有雷诺综合征、远端皮肤受累或内脏改变（例如食道运动障碍）。
+确诊需要筋膜和邻近肌肉活检。
+确诊需要筋膜和邻近肌肉活检。
+如果不能使用甲氨蝶呤，则用泼尼松加甲氨蝶呤或其他免疫抑制剂治疗患者。
+如果不能使用甲氨蝶呤，则用泼尼松加甲氨蝶呤或其他免疫抑制剂治疗患者。

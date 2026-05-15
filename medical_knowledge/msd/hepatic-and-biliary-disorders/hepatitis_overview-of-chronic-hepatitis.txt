@@ -1,0 +1,225 @@
+标题：慢性肝炎概述
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/hepatitis/overview-of-chronic-hepatitis
+============================================================
+
+（参见肝炎的病因，急性病毒性肝炎概述， 和丙型肝炎指南2023更新：美国肝病研究协会-美国传染病学会关于检测，管理和治疗丙型肝炎病毒感染的建议。
+肝炎持续>6个月通常被定义为慢性，虽然此持续时间不定。
+
+【慢性肝炎的病因】
+
+【常见病因】
+慢性肝炎最常见的病因为：
+乙型肝炎病毒
+乙型肝炎病毒
+丙型肝炎病毒
+丙型肝炎病毒
+代谢功能障碍相关脂肪性肝炎 (MASH)以前称为非酒精性脂肪性肝炎/(NASH)*
+代谢功能障碍相关脂肪性肝炎 (MASH)以前称为非酒精性脂肪性肝炎/(NASH)*
+酒精相关性肝病
+酒精相关性肝病
+乙肝病毒（HBV）和丙肝病毒（HCV）是引起慢性肝炎常见的原因 。5％~10％的HBV感染病例（伴或不伴丁型肝炎病毒感染）和约75~85％的HCV病例可以发展成慢性肝炎 (1)。 儿童发生慢性乙型肝炎病毒感染的机率更高（如新生儿感染率高达90％和婴幼儿感染率25％～50％）。目前慢性化病因尚未阐明，感染后免疫反应最可能决定肝损伤。
+罕见地，基因3型的HEV感染也可发展为慢性肝炎。
+甲肝病毒不会引起慢性肝炎。
+代谢功能障碍相关脂肪肝 (MASLD) 的诊断标准包括在下列至少 1 个风险因素的情况下出现肝脏脂肪变性（2)：
+超重或肥胖
+超重或肥胖
+血脂紊乱
+血脂紊乱
+胰岛素抵抗
+胰岛素抵抗
+代谢功能障碍相关脂肪性肝炎 (MASH) 是导致慢性肝炎的 MASLD 的进行性形式。
+酒精性肝炎合并有脂肪肝、弥漫性肝脏炎症和肝细胞坏死）是由过量饮酒引起的。
+
+【较少见的病因】
+自身免疫性肝炎（免疫介导的肝细胞损伤）在非病毒性或脂肪性肝炎中所占比例较高；自身免疫性肝炎的特点包括：
+自身免疫标志物阳性（如抗核抗体、抗平滑肌抗体、肝肾微粒体抗体）
+自身免疫标志物阳性（如抗核抗体、抗平滑肌抗体、肝肾微粒体抗体）
+与自身免疫性疾病常见的组织相容性单倍型（如HLA-B1，HLA-B8，HLA-DR3，HLA-DR4）相关。
+与自身免疫性疾病常见的组织相容性单倍型（如HLA-B1，HLA-B8，HLA-DR3，HLA-DR4）相关。
+组织学肝脏病变中 T 细胞和浆细胞占优势
+组织学肝脏病变中 T 细胞和浆细胞占优势
+细胞免疫和免疫调节功能复杂的体外缺陷
+细胞免疫和免疫调节功能复杂的体外缺陷
+与其他自身免疫性疾病（如类风湿关节炎、自身免疫性溶血性贫血、增殖性肾小球肾炎）相关
+与其他自身免疫性疾病（如类风湿关节炎、自身免疫性溶血性贫血、增殖性肾小球肾炎）相关
+糖皮质激素或免疫抑制剂治疗有效
+糖皮质激素或免疫抑制剂治疗有效
+原发性胆汁性胆管炎是一种导致胆管损伤的免疫介导过程。患者通常呈抗线粒体抗体（AMA）检测阳性且碱性磷酸酶升高。大多数原发性胆汁性胆管炎患者是女性。症状包括疲劳，关节痛和瘙痒。
+有时慢性肝炎同时具有自身免疫性肝炎和另一种免疫介导的慢性肝病（如原发性胆汁性胆管炎、原发性硬化性胆管炎）的特征。 这些情况被称为重叠综合征。
+许多药物如异烟肼、甲氨蝶呤、甲基多巴、呋喃妥因、三苯氧胺、胺碘酮和偶尔对乙酰氨基酚可导致慢性肝炎。其致病机制因药物不同而异，可能与免疫反应的改变、脂肪性肝炎进展、具有细胞毒性的中间代谢产物或基因决定的代谢缺陷 有关。
+alpha1-抗胰蛋白酶缺乏、乳糜泻、甲状腺疾病、遗传性血色病及Wilson病也是慢性肝炎少见病因之一。
+
+【病因参考文献】
+1.National Institutes of Diabetes and Digestive and Kidney Diseases: Hepatitis C.Accessed June 21, 2024.
+1.National Institutes of Diabetes and Digestive and Kidney Diseases: Hepatitis C.Accessed June 21, 2024.
+2.Rinella ME, Lazarus JV, Ratziu V, et al: A multisociety Delphi consensus statement on new fatty liver disease nomenclature.Hepatology78(6):1966-1986, 2023. doi: 10.1097/HEP.000000000000052
+2.Rinella ME, Lazarus JV, Ratziu V, et al: A multisociety Delphi consensus statement on new fatty liver disease nomenclature.Hepatology78(6):1966-1986, 2023. doi: 10.1097/HEP.000000000000052
+
+【慢性肝炎的分类】
+在组织学上慢性肝炎曾经分为慢性持续性、慢性小叶性或慢性 活动性肝炎。当前分类规则如下:
+组织学炎症坏死的强度（级）
+组织学炎症坏死的强度（级）
+组织学纤维化程度（期）
+组织学纤维化程度（期）
+炎症和坏死可能是可逆的。如果病因在没有的患者中得到充分治疗，则纤维化是可逆的肝硬化。
+
+【慢性肝炎的症状和体征】
+慢性肝炎的临床表现多种多样。有1/3病例是由急性肝炎发展而来，但大多数从起病开始就是隐匿发展。
+无论病因如何，许多患者都没有症状。 然而，全身乏力，食欲不振，疲劳是常见的症状，有时有低热和非特异性上腹部不适。黄疸通常是不存在的。
+通常最先表现为
+肝硬化体征（如脾大、蜘蛛痣、肝掌）。
+肝硬化体征（如脾大、蜘蛛痣、肝掌）。
+肝硬化的并发症（例如门静脉高压、静脉曲张出血、腹水、脑病、肝癌)
+肝硬化的并发症（例如门静脉高压、静脉曲张出血、腹水、脑病、肝癌)
+少数慢性肝炎患者可出现胆汁淤积的表现（黄疸、瘙痒、大便发白、脂肪痢）。
+自身免疫肝炎，特别在一些年轻妇女中，可出现其他全身表现，如痤疮、闭经、关节痛、溃疡性结肠炎、肺纤维化、甲状腺炎、肾炎和溶血性贫血。
+慢性丙型肝炎偶尔会伴有扁平苔藓、皮肤血管炎、肾小球肾炎、迟发性皮肤卟啉症、混合性冷球蛋白血症，以及可能伴有非霍奇金B细胞淋巴瘤。冷球蛋白血症的症状包括疲劳、肌痛、关节痛、神经病变、肾小球肾炎和皮疹（荨麻疹、紫癜、白细胞碎裂性血管炎）；无症状性冷球蛋白血症更为常见。
+
+【慢性肝炎的诊断】
+肝炎相关的肝功能检查
+肝炎相关的肝功能检查
+病毒血清学检测
+病毒血清学检测
+可能需要自身抗体、免疫球蛋白、alpha1-抗胰蛋白酶水平及其他检测
+可能需要自身抗体、免疫球蛋白、alpha1-抗胰蛋白酶水平及其他检测
+偶尔肝活检
+偶尔肝活检
+血清白蛋白，血小板计数和凝血酶原时间/国际标准化比率（PT/INR）
+血清白蛋白，血小板计数和凝血酶原时间/国际标准化比率（PT/INR）
+（另请参阅实践指南丙型肝炎指南2023更新：美国肝病研究协会-美国传染病学会关于检测、管理和治疗丙型肝炎病毒感染的建议以及美国预防服务工作组的临床指南青少年和成人丙型肝炎病毒感染：筛查。
+发生下列情况要怀疑慢性肝炎：
+有相关的症状和体征
+有相关的症状和体征
+偶然发现的氨基转移酶水平升高
+偶然发现的氨基转移酶水平升高
+以前确诊过急性肝炎
+以前确诊过急性肝炎
+此外，为了识别无症状患者，美国预防服务工作组（USPSTF）建议对所有≥18岁的成年人至少进行一次丙型肝炎检测。（参见最终建议声明，青少年和成人丙型肝炎病毒感染：筛查。
+
+【肝功能检查】
+如果以前未进行过肝功能检查，则需要检测肝功能包括丙氨酸转氨酶（ALT）、天冬氨酸转氨酶（AST）、碱性磷酸酶和胆红素。
+转氨酶升高是最具特征的实验室异常（ALT 正常值：男性为 29 至 33 IU/L [0.48 至 55 microkat/L]，女性为 19 至 25 IU/L [0.32 至 0.42 microkat/L] [1]）。ALT通常比AST高。如果慢性肝炎处于静止状态，尤其是HCV感染和代谢功能障碍相关脂肪变性肝病（MASLD）时，转氨酶水平可正常。
+碱性磷酸酶多为正常或轻度升高，偶尔会明显升高，尤其是原发性胆汁性胆管炎。
+除非病情严重或进展，胆红素多数是正常的。
+
+【其他实验室检查】
+如实验室检查结果符合肝炎，应进行病毒血清学检查，除外HBV和HCV（见表乙型肝炎血清学和丙型肝炎血清学）。除非这些检查提示慢性肝炎是病毒引起的，否则需要进一步的检查。
+接下来的检查包括
+自身抗体（抗核抗体、抗平滑肌抗体、抗线粒体抗体、肝肾微粒体抗体）
+自身抗体（抗核抗体、抗平滑肌抗体、抗线粒体抗体、肝肾微粒体抗体）
+免疫球蛋白
+免疫球蛋白
+血清转铁蛋白饱和度和铁蛋白
+血清转铁蛋白饱和度和铁蛋白
+甲状腺的检查（促甲状腺激素）
+甲状腺的检查（促甲状腺激素）
+乳糜泻的检查（组织谷氨酰胺转胺酶抗体）
+乳糜泻的检查（组织谷氨酰胺转胺酶抗体）
+alpha1-抗胰蛋白酶水平
+alpha1-抗胰蛋白酶水平
+血清铜蓝蛋白含量
+血清铜蓝蛋白含量
+对于儿童和青年要检测铜蓝蛋白以筛查肝豆状核变性。
+自身免疫性肝炎的诊断常常基于有抗核抗体（ANA）、抗平滑肌抗体（ASMA）或抗肝 肾微粒体抗体1型（抗-LKM1）滴度≥1：80（成人）或≥1：20（儿 童），通常还有血清免疫球蛋白的升高。 抗线粒体抗体最常出现在原发性胆汁性胆管炎中。 (参见Diagnosis and Management of Autoimmune Hepatitis in Adults and Children: 2019 Practice Guidance and Guidelines From the American Association for the Study of Liver Diseases.)
+血清转铁蛋白饱和度 > 45% 和血清铁蛋白升高提示遗传性血色病，应进行血色病基因（HFE）检测。
+应该检测血清白蛋白、血小板计数和PT以评估肝功能、疾病严重程度，低白蛋白水平、低血小板计数或PT延长提示肝硬化，甚至门静脉高压。
+如果确定了肝炎的病因，可以进行无创检查（例如超声弹性成像、血清标志物）来评估肝纤维化的程度。
+与急性肝炎不同，明确慢性肝炎的诊断或病因需要进行肝活检。
+轻型患者仅有轻微的肝细胞坏死和炎症细胞浸润， 通常发生在门管区，腺泡结构正常，很少或没有纤维化。这种情况下，很少进展成为临床上重要的肝病或肝硬化。
+在更严重的患者，典型的活检可见门脉周围汇管区坏死伴单核细胞浸润（碎屑坏死），并伴有不同程度的门脉周围纤维化和 胆管增生。由于结构塌陷和纤维化形成，腺泡结构被破坏，肝硬化与进展性肝炎的表现并存。
+活检也用于对疾病进行分级和分期，尽管现在经常使用无创检测（血清标志物或弹性成像）代替肝活检来对纤维化进行分期。纤维化分期最简单的标志物之一是 FIB4 指数，它使用天冬氨酸氨基转移酶 (AST)、丙氨酸氨基转移酶 (ALT)、血小板和年龄来评估晚期纤维化的风险。其他方式包括瞬时弹性成像或 MR 弹性成像
+
+【并发症的筛查】
+在慢性肝炎时出现冷球蛋白血症的症状和 体征，特别在HCV患者，应该检测冷球蛋白和类风湿因子， 高水平的类风湿因子和血清补体水平降低提示存在冷球 蛋白血症。
+慢性HBV感染或由于任何潜在的肝脏疾病所致肝硬化患者需要每6个月进行超声检查和血清甲胎蛋白检测，以筛查肝细胞肝癌，尽管这种做法的成本效益尚有争论，特别是甲胎蛋白的检测 (2)。
+
+【诊断参考】
+1.Kwo PY, Cohen SM, Lim JK: ACG Clinical Guideline: Evaluation of abnormal liver chemistries.Am J Gastroenterol112 (1):18-35, 2017. doi: 10.1038/ajg.2016.517.
+1.Kwo PY, Cohen SM, Lim JK: ACG Clinical Guideline: Evaluation of abnormal liver chemistries.Am J Gastroenterol112 (1):18-35, 2017. doi: 10.1038/ajg.2016.517.
+2.Aghoram R, Cai P, Dickinson JA: Alpha-foetoprotein and/or liver ultrasonography for screening of hepatocellular carcinoma in patients with chronic hepatitis B.Cochrane Database Syst Rev2012(9):CD002799, 20212 doi: 10.1002/14651858.CD002799.pub2
+2.Aghoram R, Cai P, Dickinson JA: Alpha-foetoprotein and/or liver ultrasonography for screening of hepatocellular carcinoma in patients with chronic hepatitis B.Cochrane Database Syst Rev2012(9):CD002799, 20212 doi: 10.1002/14651858.CD002799.pub2
+
+【慢性肝炎的治疗】
+支持治疗
+支持治疗
+病因治疗（糖皮质激素治疗自身免疫性肝炎，抗病毒药物治疗HBV和HCV）
+病因治疗（糖皮质激素治疗自身免疫性肝炎，抗病毒药物治疗HBV和HCV）
+
+【一般治疗】
+慢性肝炎的治疗目标包括病因治疗，如果已发展为肝硬化和门静脉高压症，则应处理并发症（如,腹水,脑病)。
+应停止引起肝炎的药物。对乙酰氨基酚禁忌用于有严重肝损伤或严重活动性肝病的患者。严重肝损害的患者也应避免使用NSAIDs。
+应治疗潜在疾病。应建议MASLD或酒精相关肝病患者改变生活方式。
+失代偿期肝硬化需要进行肝移植。
+
+【慢性乙型和丙型肝炎】
+特异性慢性乙型肝炎抗病毒治疗（例如，恩替卡韦和替诺福韦作为一线治疗）和慢性丙型肝炎的抗病毒治疗（无干扰素的直接抗病毒药物）。
+HBV引起的慢性肝炎，预防措施 （包括免疫预防）对于与患者接触后避免感染可能会有所帮助。没有疫苗可供接触HCV感染者的人群使用。
+在慢性乙型和丙型肝炎应该避免使用皮质类固醇和免疫抑制剂，因为这些药物增加病毒复制。如果慢性乙型肝炎患者有其他需要皮质类固醇、免疫抑制治疗、或细胞毒性化疗的疾病，必须与抗病毒药物同时应用，以防止急性乙型肝炎的复燃或再激活，以及急性乙肝肝衰竭。相似情况下还没有丙型肝炎被激活或引起急性肝衰竭的报道。
+
+【代谢功能障碍相关脂肪性肝炎 (MASH)】
+(参见The Diagnosis and Management of Nonalcoholic Fatty Liver Disease: Practice Guidance from the American Association for the Study of Liver Disease.)
+治疗MASH旨在
+减轻ti重
+减轻ti重
+控制风险因素和合并症
+控制风险因素和合并症
+治疗措施包括
+建议通过饮食改变和运动减重 7% 至 10% 的体重
+建议通过饮食改变和运动减重 7% 至 10% 的体重
+治疗伴随的代谢性危险因素，如高脂血症和胰岛素抵抗
+治疗伴随的代谢性危险因素，如高脂血症和胰岛素抵抗
+停止与MASH有关的药物（例如胺碘酮，他莫昔芬，甲氨蝶呤，皮质类固醇如泼尼松或氢化可的松，合成雌激素[雌激素）
+停止与MASH有关的药物（例如胺碘酮，他莫昔芬，甲氨蝶呤，皮质类固醇如泼尼松或氢化可的松，合成雌激素[雌激素）
+避免接触毒物（如杀虫剂）
+避免接触毒物（如杀虫剂）
+Resmetirom 治疗 MASH 和中度至重度纤维化
+Resmetirom 治疗 MASH 和中度至重度纤维化
+Resmetirom 是一种甲状腺激素受体 β (THR-β) 激动剂，可与饮食和运动结合使用，用于治疗患有中度至晚期肝纤维化的 MASH 成年人。失代偿性肝硬化患者不宜使用。
+
+【自身免疫性肝炎】
+（另请参阅美国肝病研究协会的实践指南，自身免疫性肝炎的诊断和处理。
+使用糖皮质激素加或不加硫唑嘌呤可延长生存期。一般开始给予每天一次30mg~60mg强的松口服，症状控制后逐渐减量，直至维持氨基转移酶正常或接近正常的最小剂量。临床医生可能在激素诱导完成后改予硫唑嘌呤1～1.5mg/kg每天一次口服或吗替麦考酚酸酯1000mg每天二次口服，随后逐渐停用激素。许多病人需要长期、小剂量、无激素的维持治疗。
+
+【遗传性血色沉积病】
+遗传性血色病通过放血治疗。
+
+【慢性肝炎的预后】
+慢性肝炎患者的预后差异很大，往往取决于病因和治疗的有效性。
+药物导致的慢性肝炎如果停止用药后多可完全恢复。
+未经治疗的乙肝患者可以自行恢复（不常见），也可迅速进展或者经过几十年缓慢发展成肝硬化。恢复的病人常常开始于病情的一过性加重，导致HBeAg到抗-HBe的血清转换，随后表面抗原（HBsAg）消失。HDV的重叠感染引起慢性HBV感染最严重的表现形式，如果不治 疗，高达70％的病人发展成肝硬化。
+由于丙型肝炎病毒引起的慢性肝炎未经治疗，在一些患者中会导致肝硬化，尽管其发展可能需要数十年的时间，并且由于其通常与患者慢性肝病的其他危险因素有关，包括酒精使用和肥胖。
+慢性自身免疫性肝炎通常对治疗有反应，但有时也会发展成进展性肝纤维化最终导致肝硬化。
+慢性 HBV 感染，即使在没有肝硬化的情况下，也会增加患肝细胞癌的风险。 其他肝脏疾病（如HCV感染、代谢功能障碍相关的脂肪变性肝病[MASLD]）的风险也会增加，但通常发生在肝硬化或晚期纤维化时。
+慢性肝炎通常不是由急性肝炎发展来的，通常是无症状 的。
+慢性肝炎通常不是由急性肝炎发展来的，通常是无症状 的。
+如果肝功能检查结果（例如，氨基转移酶水平升高原因不明） 与慢性肝炎符合，进行乙型和丙型肝炎的血清学检查。
+如果肝功能检查结果（例如，氨基转移酶水平升高原因不明） 与慢性肝炎符合，进行乙型和丙型肝炎的血清学检查。
+如果上述血清学检查阴性，进行其他类型肝炎的检查（如，自身抗体、免疫球蛋白、alpha1-抗胰蛋白酶 水平）。
+如果上述血清学检查阴性，进行其他类型肝炎的检查（如，自身抗体、免疫球蛋白、alpha1-抗胰蛋白酶 水平）。
+如果无创检测不能确诊，考虑进行肝活检以确认诊断并评估慢性肝炎的严重程度。
+如果无创检测不能确诊，考虑进行肝活检以确认诊断并评估慢性肝炎的严重程度。
+无创检查（如弹性成像、血清标志物）可用于评估肝纤维化的程度。
+无创检查（如弹性成像、血清标志物）可用于评估肝纤维化的程度。
+考虑恩替卡韦或替诺福韦作为慢性乙型肝炎的一线疗法
+考虑恩替卡韦或替诺福韦作为慢性乙型肝炎的一线疗法
+用无干扰素的直接作用的抗病毒药物治疗所有基因型的慢性丙型肝炎。
+用无干扰素的直接作用的抗病毒药物治疗所有基因型的慢性丙型肝炎。
+用糖皮质激素治疗自身免疫性肝炎，并转换到硫唑嘌呤或吗替麦考酚酸酯的维持治疗。
+用糖皮质激素治疗自身免疫性肝炎，并转换到硫唑嘌呤或吗替麦考酚酸酯的维持治疗。
+鼓励代谢功能障碍相关脂肪肝 (MASLD) 患者通过饮食和运动减轻体重（如果可能的话减轻 10%）。
+鼓励代谢功能障碍相关脂肪肝 (MASLD) 患者通过饮食和运动减轻体重（如果可能的话减轻 10%）。
+用放血术治疗遗传性血色病。
+用放血术治疗遗传性血色病。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+American Association for the Study of Liver Diseases (AASLD) Practice Guidelines: A multidisciplinary panel of experts developed guidelines for diagnosing and managing various hepatic disorders using clinically relevant questions, which are answered by systematic reviews of the literature and followed by data-supported recommendations.The panel rated the quality (level) of the evidence and strength of each recommendation.Accessed May 8, 2024.
+American Association for the Study of Liver Diseases (AASLD) Practice Guidelines: A multidisciplinary panel of experts developed guidelines for diagnosing and managing various hepatic disorders using clinically relevant questions, which are answered by systematic reviews of the literature and followed by data-supported recommendations.The panel rated the quality (level) of the evidence and strength of each recommendation.Accessed May 8, 2024.
+U.S. Preventive Services Task Force’s Hepatitis C Virus Infection in Adolescents and Adults: Screening：该网站总结了丙型肝炎筛查的建议并提供了完整建议的链接。It discusses assessment of risk and use of screening tests, including screening intervals.Accessed May 8, 2024.
+U.S. Preventive Services Task Force’s Hepatitis C Virus Infection in Adolescents and Adults: Screening：该网站总结了丙型肝炎筛查的建议并提供了完整建议的链接。It discusses assessment of risk and use of screening tests, including screening intervals.Accessed May 8, 2024.
+AASLD实践指南：成人和儿童自身免疫性肝炎的诊断和管理：2019 年指南使用当前证据、专家意见、文献系统评价和证据质量来解决临床相关问题。该指南根据 2010 年指南更新了成人和儿童自身免疫性肝炎的流行病学、诊断、治疗和结果。Accessed May 8, 2024.
+AASLD实践指南：成人和儿童自身免疫性肝炎的诊断和管理：2019 年指南使用当前证据、专家意见、文献系统评价和证据质量来解决临床相关问题。该指南根据 2010 年指南更新了成人和儿童自身免疫性肝炎的流行病学、诊断、治疗和结果。Accessed May 8, 2024.
+Alpha-Foetoprotein and/or Liver Ultrasonography for Liver Cancer Screening in Patients With Chronic Hepatitis B：本研究评估了使用甲胎蛋白、超声波或两者筛查慢性乙型肝炎患者肝细胞癌的有益和有害影响。Accessed May 8, 2024.
+Alpha-Foetoprotein and/or Liver Ultrasonography for Liver Cancer Screening in Patients With Chronic Hepatitis B：本研究评估了使用甲胎蛋白、超声波或两者筛查慢性乙型肝炎患者肝细胞癌的有益和有害影响。Accessed May 8, 2024.
+AASLD Practice Guidelines: The Diagnosis and Management of Nonalcoholic Fatty Liver Disease：本文为非酒精性脂肪性肝病（现称为代谢功能障碍相关脂肪性肝病 [MASLD]）的诊断和管理提供指导，而不是指南。Guidance, developed by a panel of experts, is intended to help clinicians understand and implement the most recent evidence.It includes guidance for screening, initial evaluation, evaluation for fibrosis, use of biopsy, and specific treatment.Accessed May 8, 2024.
+AASLD Practice Guidelines: The Diagnosis and Management of Nonalcoholic Fatty Liver Disease：本文为非酒精性脂肪性肝病（现称为代谢功能障碍相关脂肪性肝病 [MASLD]）的诊断和管理提供指导，而不是指南。Guidance, developed by a panel of experts, is intended to help clinicians understand and implement the most recent evidence.It includes guidance for screening, initial evaluation, evaluation for fibrosis, use of biopsy, and specific treatment.Accessed May 8, 2024.

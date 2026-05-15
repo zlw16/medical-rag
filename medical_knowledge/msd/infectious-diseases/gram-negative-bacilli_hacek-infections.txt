@@ -1,0 +1,21 @@
+标题：HACEK感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-negative-bacilli/hacek-infections
+============================================================
+
+HACEK 菌群是一组无动力、革兰氏阴性的杆菌或球杆菌，包含多个致病性较弱、生长缓慢且营养需求苛刻的菌属。它们在易感人群主要引起心内膜炎；高达5%的原生瓣膜心内膜炎病例是由这组细菌引起（1），使它们成为革兰阴性杆菌心内膜炎最常见的原因。
+HACEK 集团包括
+Haemophilus（嗜血杆菌）属（H. parainfluenza（副流感嗜血杆菌）、H. aphrophilus（嗜沫嗜血杆菌）和H. paraphrophilus（副嗜沫嗜血杆菌）），可引起呼吸道感染或较不常见的心内膜炎
+Haemophilus（嗜血杆菌）属（H. parainfluenza（副流感嗜血杆菌）、H. aphrophilus（嗜沫嗜血杆菌）和H. paraphrophilus（副嗜沫嗜血杆菌）），可引起呼吸道感染或较不常见的心内膜炎
+Aggregatibacter actinomycetemcomitans（伴放线聚集杆菌），通常与A. israelii（衣氏放线菌）一起出现在放线菌病中
+Aggregatibacter actinomycetemcomitans（伴放线聚集杆菌），通常与A. israelii（衣氏放线菌）一起出现在放线菌病中
+Cardiobacterium hominis
+Cardiobacterium hominis
+Eikenella corrodens（啮蚀艾肯菌），通常出现在人咬伤、心内膜炎（常见于静脉吸毒者）、脑和内脏脓肿、骨髓炎、呼吸道感染（包括脓胸）、宫内节育器相关子宫感染和混合性软组织感染中。
+Eikenella corrodens（啮蚀艾肯菌），通常出现在人咬伤、心内膜炎（常见于静脉吸毒者）、脑和内脏脓肿、骨髓炎、呼吸道感染（包括脓胸）、宫内节育器相关子宫感染和混合性软组织感染中。
+Kingella kingae
+Kingella kingae
+各菌属细菌对抗生素敏感性不同，因此应根据药敏指导治疗。然而，β-内酰胺类耐药性日益增加，已使头孢曲松和氨苄西林/舒巴坦成为目前的首选抗生素。
+
+【参考文献】
+1.Baddour LM, Wilson WR, Bayer AS, et al.Infective Endocarditis in Adults: Diagnosis, Antimicrobial Therapy, and Management of Complications: A Scientific Statement for Healthcare Professionals From the American Heart Association [published correction appears inCirculation. 2015 Oct 27;132(17):e215] [published correction appears inCirculation. 2016 Aug 23;134(8):e113] [published correction appears inCirculation. 2018 Jul 31;138(5):e78-e79].Circulation.2015;132(15):1435-1486.doi:10.1161/CIR.0000000000000296
+1.Baddour LM, Wilson WR, Bayer AS, et al.Infective Endocarditis in Adults: Diagnosis, Antimicrobial Therapy, and Management of Complications: A Scientific Statement for Healthcare Professionals From the American Heart Association [published correction appears inCirculation. 2015 Oct 27;132(17):e215] [published correction appears inCirculation. 2016 Aug 23;134(8):e113] [published correction appears inCirculation. 2018 Jul 31;138(5):e78-e79].Circulation.2015;132(15):1435-1486.doi:10.1161/CIR.0000000000000296

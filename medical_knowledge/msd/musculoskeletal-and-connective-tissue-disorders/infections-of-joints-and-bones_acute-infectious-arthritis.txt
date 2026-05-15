@@ -1,0 +1,315 @@
+标题：急性感染性关节炎
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/infections-of-joints-and-bones/acute-infectious-arthritis
+============================================================
+
+急性感染性关节炎最常见于老年人，但也可能发生于儿童。  约50%的关节感染的儿童<3岁。针对流感嗜血杆菌和肺炎链球菌的儿童常规疫苗正在降低这个年龄组的关节感染发生率 (1,2) 。
+
+【参考文献】
+1.Howard AW, Viskontas D, Sabbagh C.Reduction in osteomyelitis and septic arthritis related to Haemophilus influenzae type B vaccination.J Pediatr Orthop.1999;19(6):705-709.
+1.Howard AW, Viskontas D, Sabbagh C.Reduction in osteomyelitis and septic arthritis related to Haemophilus influenzae type B vaccination.J Pediatr Orthop.1999;19(6):705-709.
+2.Olarte L, Romero J, Barson W, et al.Osteoarticular Infections Caused by Streptococcus pneumoniae in Children in the Post-Pneumococcal Conjugate Vaccine Era.Pediatr Infect Dis J.2017;36(12):1201-1204.doi:10.1097/INF.0000000000001697
+2.Olarte L, Romero J, Barson W, et al.Osteoarticular Infections Caused by Streptococcus pneumoniae in Children in the Post-Pneumococcal Conjugate Vaccine Era.Pediatr Infect Dis J.2017;36(12):1201-1204.doi:10.1097/INF.0000000000001697
+
+【危险因素】
+急性关节感染的危险因素很多（见表感染性关节炎的危险因素）。
+在类风湿关节炎和其他会导致慢性关节破坏的疾病、有关节感染史、注射成瘾药物或有关节假体置换史的患者中，患病风险大大增加（见关节置换后感染性关节炎）。类风湿性关节炎患者罹患细菌性关节炎的风险高于一般人群（1，2）。大部分患感染性关节炎的儿童没有特别的危险因素 (3,4)。
+
+【感染性关节炎的危险因素】
+感染性关节炎的危险因素
+年龄大（50％的患者>60岁）
+酒精利用障碍
+关节穿刺术（风险极小）、关节注射或关节手术
+恶性肿瘤
+慢性疾病（如肺或肝脏疾病）
+血液透析
+既往关节感染史
+免疫缺陷，包括HIV
+免疫抑制治疗，包括糖皮质激素
+注射毒品
+关节假体植入
+类风湿关节炎以及其他形式的炎症性关节炎
+性传播疾病的危险因素（如：多个性伴侣、没有使用避孕套）
+镰状细胞性贫血
+皮肤感染
+系统性红斑狼疮
+See alsoElsissy JG, Liu JN, Wilton PJ, Nwachuku I, Gowd AK, Amin NH.Bacterial Septic Arthritis of the Adult Native Knee Joint: A Review. JBJS Rev.2020;8(1):e0059.doi:10.2106/JBJS.RVW.19.00059
+See alsoElsissy JG, Liu JN, Wilton PJ, Nwachuku I, Gowd AK, Amin NH.Bacterial Septic Arthritis of the Adult Native Knee Joint: A Review. JBJS Rev.2020;8(1):e0059.doi:10.2106/JBJS.RVW.19.00059
+
+【危险因素参考】
+1.Gardner GC, Weisman MH.Pyarthrosis in patients with rheumatoid arthritis: a report of 13 cases and a review of the literature from the past 40 years.Am J Med.1990;88(5):503-511.doi:10.1016/0002-9343(90)90430-l
+1.Gardner GC, Weisman MH.Pyarthrosis in patients with rheumatoid arthritis: a report of 13 cases and a review of the literature from the past 40 years.Am J Med.1990;88(5):503-511.doi:10.1016/0002-9343(90)90430-l
+2.Favero M, Schiavon F, Riato L, Carraro V, Punzi L.Rheumatoid arthritis is the major risk factor for septic arthritis in rheumatological settings.Autoimmun Rev.2008;8(1):59-61.doi:10.1016/j.autrev.2008.07.018
+2.Favero M, Schiavon F, Riato L, Carraro V, Punzi L.Rheumatoid arthritis is the major risk factor for septic arthritis in rheumatological settings.Autoimmun Rev.2008;8(1):59-61.doi:10.1016/j.autrev.2008.07.018
+3.Woods CR, Bradley JS, Chatterjee A, et al.Clinical Practice Guideline by the Pediatric Infectious Diseases Society (PIDS) and the Infectious Diseases Society of America (IDSA): 2023 Guideline on Diagnosis and Management of Acute Bacterial Arthritis in Pediatrics [published correction appears inJ Pediatric Infect Dis Soc.2024 Aug 24;13(8):443. doi: 10.1093/jpids/piae065].J Pediatric Infect Dis Soc.2024;13(1):1-59.doi:10.1093/jpids/piad089
+3.Woods CR, Bradley JS, Chatterjee A, et al.Clinical Practice Guideline by the Pediatric Infectious Diseases Society (PIDS) and the Infectious Diseases Society of America (IDSA): 2023 Guideline on Diagnosis and Management of Acute Bacterial Arthritis in Pediatrics [published correction appears inJ Pediatric Infect Dis Soc.2024 Aug 24;13(8):443. doi: 10.1093/jpids/piae065].J Pediatric Infect Dis Soc.2024;13(1):1-59.doi:10.1093/jpids/piad089
+4.Chan BY, Crawford AM, Kobes PH, et al.Septic Arthritis: An Evidence-Based Review of Diagnosis and Image-Guided Aspiration.AJR Am J Roentgenol.2020;215(3):568-581.doi:10.2214/AJR.20.22773
+4.Chan BY, Crawford AM, Kobes PH, et al.Septic Arthritis: An Evidence-Based Review of Diagnosis and Image-Guided Aspiration.AJR Am J Roentgenol.2020;215(3):568-581.doi:10.2214/AJR.20.22773
+
+【急性感染性关节炎的病因】
+感染微生物入侵通过 (1)
+直接侵入（如创伤，手术,关节穿刺,咬伤)
+直接侵入（如创伤，手术,关节穿刺,咬伤)
+邻近感染的扩散（例如：骨髓炎, 软组织脓肿，感染伤口）
+邻近感染的扩散（例如：骨髓炎, 软组织脓肿，感染伤口）
+远处感染通过血源性传播到达关节。
+远处感染通过血源性传播到达关节。
+常见病原体列在表常导致急性感染性关节炎的病原体中。
+
+【急性感染性关节炎的常见病原体】
+急性感染性关节炎的常见病原体
+典型来源
+成人及青少年
+金黄色葡萄球菌、β溶血性链球菌、肺炎球菌、淋球菌（在育龄青年中），以及罕见脑膜炎奈瑟菌
+菌血症（针对葡萄球菌、链球菌和肺炎球菌）；宫颈、尿道、直肠或咽部感染，并伴有菌血症播散（针对淋球菌）
+B组链球菌、大肠埃希菌（及其他肠道革兰氏阴性菌），金黄色葡萄球菌S. aureus
+母婴传播
+静脉注射或经细菌感染的导管播散
+≤3岁的儿童
+化脓性链球菌、肺炎链球菌，金黄色葡萄球菌，金氏金菌
+菌血症（如中耳炎、上呼吸道感染、皮肤感染、脑膜炎）
+三岁至青少年
+金黄色葡萄球菌、链球菌、淋病奈瑟氏菌、铜绿假单胞菌、金格杆菌
+菌血症或邻近传播
+患脑膜炎、菌血症及皮肤隆起性紫癜的儿童
+N. 脑膜炎奈瑟菌（不常见）
+所有年龄
+病毒（如细小病毒B19、乙肝或丙肝病毒、风疹病毒[急性感染和免疫接种后]；披膜病毒、奇昆古尼亚热病毒、水痘病毒、腮腺病毒（成人）、腺病毒、柯萨奇病毒A9、B2、B3、B4和B6；逆转录病毒，包括HIV、EB病毒）
+病毒血症或免疫复合物沉积
+蜱接触史
+伯氏疏螺旋体（导致莱姆病）
+咬伤（人、狗、猫、鼠）
+通常是多种微生物
+人：Eikenella corrodens,B组链球菌,S. 金黄色葡萄球菌、口腔厌氧菌（如棱形杆菌属、消化链球菌、类杆菌属）
+狗或猫：金黄色葡萄球菌、巴斯德氏菌、假单胞菌属、巴斯德氏菌、噬血杆菌属
+鼠：金黄色葡萄球菌、念珠状链杆菌，或鼠咬热螺旋体
+关节直接侵入，通常是手上的小关节
+（参见手部咬伤所致感染）
+严重关节创伤或严重疾病（如免疫抑制、血透、系统性红斑狼疮、类风湿性关节炎、糖尿病、恶性肿瘤）
+葡萄球菌（特别在类风湿性关节炎中），革兰氏阴性细菌（如肠道细菌、铜绿假单胞菌、黏质沙雷菌），沙门氏菌属（特别在系统性红斑狼疮*）
+尿路、皮肤
+多关节感染的患者
+Streptococci,S. aureus
+咽炎、蜂窝织炎、蜂窝组织炎、胃肠道和泌尿系统感染
+关节侵入（创伤、关节穿刺术、关节切开术导致），邻近感染，糖尿病，恶性肿瘤
+Streptococci,S. aureus
+厌氧菌（例如，痤疮丙酸杆菌、巨型消化链球菌、梭状杆菌属、梭菌属、拟杆菌属）；通常与兼性或需氧细菌如金黄色葡萄球菌、表皮葡萄球菌、大肠杆菌混合感染。
+皮肤、腹部、生殖器、牙源性感染、鼻窦，缺血性肢体，褥疮
+HIV感染
+金黄色葡萄球菌、链球菌、沙门氏菌属、分枝杆菌
+皮肤、黏膜、导管
+注射毒品，留置血管导管（例如血液透析，单采，化疗或肠外营养）
+革兰氏阴性菌、金黄色葡萄球菌、链球菌、念珠菌属
+菌血症, 真菌病
+*炎症的征象可能会不明显，所以医生需要放宽穿刺和培养的适应征；一些慢性疾病（如免疫抑制，血液透析，系统性红斑狼疮，类风湿性关节炎，糖尿病，恶性肿瘤）可能会增加不常见病原体感染（如真菌，分枝杆菌）的风险。
+sp = 物种。
+*炎症的征象可能会不明显，所以医生需要放宽穿刺和培养的适应征；一些慢性疾病（如免疫抑制，血液透析，系统性红斑狼疮，类风湿性关节炎，糖尿病，恶性肿瘤）可能会增加不常见病原体感染（如真菌，分枝杆菌）的风险。
+sp = 物种。
+在成人中大部分急性感染性关节炎都是由细菌引起，可以分为淋球菌性或非淋球菌性。这种鉴别很重要，因为淋球菌感染很少会破坏关节。在成年人中，金黄色葡萄球菌可能是感染性关节炎最常见的原因。从社区分离的金黄色葡萄球菌中，甲氧西林耐药很常见。金黄色葡萄球菌与长期并发症的最大风险相关联（2）。
+淋病奈瑟菌仅占化脓性关节炎病例略超过1%，但对于有性生活的成年人，应考虑这一因素（3）。当淋病奈瑟菌通过血流从有时无症状的粘膜表面感染（如宫颈、尿道、直肠、咽喉）扩散时，便会导致这种情况。感染的患者通常同时有生殖器沙眼支原体的感染)。链球菌属感染也是常见的原因，特别是在多关节感染的患者中。接受免疫抑制治疗（例如使用肿瘤坏死因子抑制剂或糖皮质激素）的患者，可能会出现由较少见病原体（如分枝分菌、真菌）引起的化脓性关节炎，并且由于炎症反应迟钝，常常导致诊断延迟（4、5）。
+金氏菌已成为儿童败血性关节炎的主要原因 (6,7) 。
+
+【病因参考文献】
+1.Mathews CJ, Weston VC, Jones A, Field M, Coakley G.Bacterial septic arthritis in adults.Lancet.2010;375(9717):846-855.doi:10.1016/S0140-6736(09)61595-6
+1.Mathews CJ, Weston VC, Jones A, Field M, Coakley G.Bacterial septic arthritis in adults.Lancet.2010;375(9717):846-855.doi:10.1016/S0140-6736(09)61595-6
+2.Maneiro JR, Souto A, Cervantes EC, Mera A, Carmona L, Gomez-Reino JJ.Predictors of treatment failure and mortality in native septic arthritis.Clin Rheumatol.2015;34(11):1961-1967.doi:10.1007/s10067-014-2844-3
+2.Maneiro JR, Souto A, Cervantes EC, Mera A, Carmona L, Gomez-Reino JJ.Predictors of treatment failure and mortality in native septic arthritis.Clin Rheumatol.2015;34(11):1961-1967.doi:10.1007/s10067-014-2844-3
+3.Ross JJ: Septic arthritis of native joints.Infect Dis Clin North Am.31(2): 203−218, 2017.Epub 2017 Mar 30.doi: 10.1016/j.idc.2017.01.001
+3.Ross JJ: Septic arthritis of native joints.Infect Dis Clin North Am.31(2): 203−218, 2017.Epub 2017 Mar 30.doi: 10.1016/j.idc.2017.01.001
+4.Kim HW, Han M, Jung I, Ahn SS.Incidence of septic arthritis in patients with ankylosing spondylitis and seropositive rheumatoid arthritis following TNF inhibitor therapy.Rheumatology (Oxford).2023;62(8):2740-2747.doi:10.1093/rheumatology/keac721
+4.Kim HW, Han M, Jung I, Ahn SS.Incidence of septic arthritis in patients with ankylosing spondylitis and seropositive rheumatoid arthritis following TNF inhibitor therapy.Rheumatology (Oxford).2023;62(8):2740-2747.doi:10.1093/rheumatology/keac721
+5.Galloway JB, Hyrich KL, Mercer LK, et al.Risk of septic arthritis in patients with rheumatoid arthritis and the effect of anti-TNF therapy: results from the British Society for Rheumatology Biologics Register.Ann Rheum Dis.2011;70(10):1810-1814.doi:10.1136/ard.2011.152769
+5.Galloway JB, Hyrich KL, Mercer LK, et al.Risk of septic arthritis in patients with rheumatoid arthritis and the effect of anti-TNF therapy: results from the British Society for Rheumatology Biologics Register.Ann Rheum Dis.2011;70(10):1810-1814.doi:10.1136/ard.2011.152769
+6.Gouveia C, Duarte M, Norte S, et al.Kingella kingae Displaced S. aureus as the Most Common Cause of Acute Septic Arthritis in Children of All Ages.Pediatr Infect Dis J.2021;40(7):623-627.doi:10.1097/INF.0000000000003105
+6.Gouveia C, Duarte M, Norte S, et al.Kingella kingae Displaced S. aureus as the Most Common Cause of Acute Septic Arthritis in Children of All Ages.Pediatr Infect Dis J.2021;40(7):623-627.doi:10.1097/INF.0000000000003105
+7.Yagupsky P.Use of blood culture vials and nucleic acid amplification for the diagnosis of pediatric septic arthritis.Clin Infect Dis.2008;46(10):1631-1632.doi:10.1086/587754
+7.Yagupsky P.Use of blood culture vials and nucleic acid amplification for the diagnosis of pediatric septic arthritis.Clin Infect Dis.2008;46(10):1631-1632.doi:10.1086/587754
+
+【急性感染性关节炎的病理生理学】
+感染的微生物在滑液和滑膜衬里层中繁殖 (1）。某些细菌（如金黄色葡萄球菌）产生毒力因子（黏附因子）可以使细菌穿透、定植进而感染关节组织。 其他细菌产物（如由革兰氏阴性菌产生的内毒素、细胞壁骨架成分、革兰氏阳性菌产生的外毒素、细菌抗原与宿主抗体结合产生的免疫复合物）都会促发炎症反应。
+中性粒细胞迁移进入关节，吞噬感染性病原体。在吞噬病菌的同时引起中性粒细胞自溶，释放溶酶体酶进入关节，造成滑膜、韧带及软骨的损伤。因此，中性粒细胞既是宿主主要的防御系统，也是引起关节损伤的主要原因。关节软骨可以在数小时或数天内被破坏。
+即使应用抗生素控制了感染，滑膜炎症也可继续存在。特别是淋球菌感染的病例，持续存在的细菌抗原碎片或感染会改变软骨，使其变成抗原，辅以细菌成分参与免疫调节，造成慢性“无菌性”滑膜炎。
+
+【病理生理学参考文献】
+1.Shirtliff ME, Mader JT.Acute septic arthritis.Clin Microbiol Rev.2002;15(4):527-544.doi:10.1128/CMR.15.4.527-544.2002
+1.Shirtliff ME, Mader JT.Acute septic arthritis.Clin Microbiol Rev.2002;15(4):527-544.doi:10.1128/CMR.15.4.527-544.2002
+
+【急性感染性关节炎的症状和体征】
+在几小时至几天内，急性关节感染的患者会出现中度至重度的关节疼痛、发热、压痛、关节积液、活动和被动运动受限，有时伴有红斑（1）。通常只有一个关节受累。多关节化脓性关节炎更可能发生在患有系统性风湿性疾病的患者中（2，3）。许多，但并非所有急性感染性关节炎患者都有发热。有时，全身症状可能轻微或缺失，但菌血症患者，特别是感染了金黄色葡萄球菌β-溶血性链球菌或革兰氏阴性杆菌等毒力强的病原体时，可能会出现败血症体征。
+婴儿和儿童可出现肢体有限的自发运动（假瘫）、烦躁不安、喂养障碍。他们也可能出现高烧或低烧。有时患者可能无发热症状（4）。
+
+【淋球菌性关节炎】
+淋球菌性关节炎通常会导致典型的皮炎-多关节炎-腱鞘炎综合征。
+典型表现是 (5)
+发烧（5-7天）
+发烧（5-7天）
+粘膜表面和躯干、手部或下肢皮肤可见多个皮肤损害（紫癜、丘疹、脓疱、出血性水疱或大疱、坏死性损害）；然而，生殖器损害通常缺失。
+粘膜表面和躯干、手部或下肢皮肤可见多个皮肤损害（紫癜、丘疹、脓疱、出血性水疱或大疱、坏死性损害）；然而，生殖器损害通常缺失。
+生殖器无症状
+生殖器无症状
+迁徙性关节炎，关节炎和腱鞘炎（通常累及多条肌腱），最常见的是手，腕，肘，膝盖和脚踝的小关节，很少是轴向骨骼关节
+迁徙性关节炎，关节炎和腱鞘炎（通常累及多条肌腱），最常见的是手，腕，肘，膝盖和脚踝的小关节，很少是轴向骨骼关节
+累及膝关节、踝关节、腕关节或肘关节的单关节炎或少关节炎（5）
+累及膝关节、踝关节、腕关节或肘关节的单关节炎或少关节炎（5）
+这张照片显示了播散性淋球菌感染的特征性皮肤病变。
+Image courtesy of Dr. S.E.Thompson and J.Pledger via the Public Health Image Library of the Centers for Disease Control and Prevention.
+然而，来源于黏膜的感染（如尿道炎、宫颈炎）可以没有症状。
+
+【非淋球菌感染性关节炎】
+非淋球菌感染性关节炎会导致逐渐加重的中、重度的关节痛，运动或加压时疼痛加剧 (1)。受累关节大多表现为红、肿、热。多数情况下会出现发烧，但并非所有病例都会出现。毒力强的病原体（如金黄色葡萄球菌、铜绿假单胞菌）通常会引起暴发性关节炎，而毒力弱的病原体（如凝固酶阴性的葡萄球菌、痤疮丙酸杆菌）引起的关节炎症状较轻。
+在成年人80%的非淋菌性细菌性关节炎影响单关节，且通常发生在一个外周关节：膝，髋，肩，腕，踝或肘。在儿童中，≥90%的病例为单关节型，主要涉及膝关节、髋关节和踝关节（6）。
+在免疫抑制、有潜在慢性关节炎（如类风湿性关节炎、骨关节炎）或有链球菌或葡萄球菌感染（尤其是β溶血性链球菌或金黄色葡萄球菌）的患者中，多关节受累更为常见。在注射使用成瘾药物的人和留置静脉导管的患者中，通常累及的是中轴关节（如胸锁关节、肋软骨、髋、肩关节、脊柱、耻骨联合和骶髂关节） (7) 。H. influenza流感病毒可能会导致类似淋球菌感染的皮炎-关节炎综合征。
+
+【继发于咬伤的感染性关节炎】
+被人、狗或猫咬（见人和哺乳动物咬伤）后引起的关节感染通常发生在48小时内。体格检查的解读往往会因外伤和感染的存在而变得复杂。
+鼠咬后还会在2～10天内引起全身症状，如发热、皮疹、关节痛、关节炎及局部淋巴结病 (8)。
+
+【病毒感染性关节炎】
+病毒感染性关节炎的症状有时与急性非淋球菌感染性关节炎类似，且比细菌性关节炎更容易发展成多关节累及 (9)。
+
+【Borrelia burgdorferi博氏疏螺旋体感染性关节炎】
+患有博氏疏螺旋体关节炎的患者可能会出现其他莱姆病症状，或者仅表现为急性单关节炎或少关节炎。如果未经治疗，这些症状通常会在几周到几个月后自行缓解，但随后可能会复发（10）。莱姆关节炎最常影响膝关节和大关节，通常不伴有发烧。在适当的抗生素治疗后仍然存在的慢性疼痛很可能是由非感染性病因引起的。
+类似类风湿性关节炎的多关节症状是不常见的，更可能是另一种疾病。
+
+【症状和体征参考】
+1.Margaretten ME, Kohlwes J, Moore D, Bent S.Does this adult patient have septic arthritis?.JAMA.2007;297(13):1478-1488.doi:10.1001/jama.297.13.1478
+1.Margaretten ME, Kohlwes J, Moore D, Bent S.Does this adult patient have septic arthritis?.JAMA.2007;297(13):1478-1488.doi:10.1001/jama.297.13.1478
+2.Dubost JJ, Fis I, Denis P, et al.Polyarticular septic arthritis.Medicine (Baltimore).1993;72(5):296-310.doi:10.1097/00005792-199309000-00002
+2.Dubost JJ, Fis I, Denis P, et al.Polyarticular septic arthritis.Medicine (Baltimore).1993;72(5):296-310.doi:10.1097/00005792-199309000-00002
+3.Lieber SB, Fowler ML, Zhu C, Moore A, Shmerling RH, Paz Z.Clinical characteristics and outcomes in polyarticular septic arthritis.Joint Bone Spine.2018;85(4):469-473.doi:10.1016/j.jbspin.2017.09.00
+3.Lieber SB, Fowler ML, Zhu C, Moore A, Shmerling RH, Paz Z.Clinical characteristics and outcomes in polyarticular septic arthritis.Joint Bone Spine.2018;85(4):469-473.doi:10.1016/j.jbspin.2017.09.00
+4.Woods CR, Bradley JS, Chatterjee A, et al.Clinical Practice Guideline by the Pediatric Infectious Diseases Society (PIDS) and the Infectious Diseases Society of America (IDSA): 2023 Guideline on Diagnosis and Management of Acute Bacterial Arthritis in Pediatrics [published correction appears inJ Pediatric Infect Dis Soc.2024 Aug 24;13(8):443. doi: 10.1093/jpids/piae065].J Pediatric Infect Dis Soc.2024;13(1):1-59.doi:10.1093/jpids/piad089
+4.Woods CR, Bradley JS, Chatterjee A, et al.Clinical Practice Guideline by the Pediatric Infectious Diseases Society (PIDS) and the Infectious Diseases Society of America (IDSA): 2023 Guideline on Diagnosis and Management of Acute Bacterial Arthritis in Pediatrics [published correction appears inJ Pediatric Infect Dis Soc.2024 Aug 24;13(8):443. doi: 10.1093/jpids/piae065].J Pediatric Infect Dis Soc.2024;13(1):1-59.doi:10.1093/jpids/piad089
+5.Moussiegt A, François C, Belmonte O, et al.Gonococcal arthritis: case series of 58 hospital cases.Clin Rheumatol.2022;41(9):2855-2862.doi:10.1007/s10067-022-06208-w
+5.Moussiegt A, François C, Belmonte O, et al.Gonococcal arthritis: case series of 58 hospital cases.Clin Rheumatol.2022;41(9):2855-2862.doi:10.1007/s10067-022-06208-w
+6.Okubo Y, Nochioka K, Marcia T.Nationwide survey of pediatric septic arthritis in the United States.J Orthop.2017;14(3):342-346.Published 2017 Jun 23.doi:10.1016/j.jor.2017.06.004
+6.Okubo Y, Nochioka K, Marcia T.Nationwide survey of pediatric septic arthritis in the United States.J Orthop.2017;14(3):342-346.Published 2017 Jun 23.doi:10.1016/j.jor.2017.06.004
+7.Ross JJ, Ard KL, Carlile N.Septic Arthritis and the Opioid Epidemic: 1465 Cases of Culture-Positive Native Joint Septic Arthritis From 1990-2018.Open Forum Infect Dis.2020;7(3):ofaa089.Published 2020 Mar 12.doi:10.1093/ofid/ofaa089
+7.Ross JJ, Ard KL, Carlile N.Septic Arthritis and the Opioid Epidemic: 1465 Cases of Culture-Positive Native Joint Septic Arthritis From 1990-2018.Open Forum Infect Dis.2020;7(3):ofaa089.Published 2020 Mar 12.doi:10.1093/ofid/ofaa089
+8.Elliott SP.Rat bite fever and Streptobacillus moniliformis.Clin Microbiol Rev.2007;20(1):13-22.doi:10.1128/CMR.00016-06
+8.Elliott SP.Rat bite fever and Streptobacillus moniliformis.Clin Microbiol Rev.2007;20(1):13-22.doi:10.1128/CMR.00016-06
+9.Calabrese LH, Naides SJ.Viral arthritis.Infect Dis Clin North Am.2005;19(4):963-x.doi:10.1016/j.idc.2005.09.002
+9.Calabrese LH, Naides SJ.Viral arthritis.Infect Dis Clin North Am.2005;19(4):963-x.doi:10.1016/j.idc.2005.09.002
+10.Bockenstedt LK, Wormser GP.Review: unraveling Lyme disease.Arthritis Rheumatol.2014;66(9):2313-2323.doi:10.1002/art.38756
+10.Bockenstedt LK, Wormser GP.Review: unraveling Lyme disease.Arthritis Rheumatol.2014;66(9):2313-2323.doi:10.1002/art.38756
+
+【急性感染性关节炎的诊断】
+关节穿刺术，滑液检查和培养
+关节穿刺术，滑液检查和培养
+通常全血细胞计数和红细胞沉降率（和/或 C 反应蛋白）
+通常全血细胞计数和红细胞沉降率（和/或 C 反应蛋白）
+分子检测（如聚合酶链反应）
+分子检测（如聚合酶链反应）
+有时需影像学检查
+有时需影像学检查
+急性起病的单关节炎或少关节关节炎以及具有其他特殊感染性关节炎综合征症状组合的患者（如：播散性淋球菌感染的游走性多关节痛、滑膜炎和典型皮损，莱姆病的游走性红斑或其他症状和体征）需要怀疑有感染性关节炎可能。
+接受免疫抑制治疗（如糖皮质激素、肿瘤坏死因子抑制剂）且有危险因素的患者（如类风湿性关节炎）、关节假体置换术后，或有可以播散至关节的关节外感染（如生殖器的淋球菌感染、肺炎、菌血症、任何厌氧菌感染），即使关节症状比较轻，也需要引起高度怀疑。
+
+【经验与提示】
+经验与提示
+对急性单关节或少关节积液患者行关节穿刺（含细胞计数和鉴别、晶体分析）和培养滑膜液，排除关节感染，即使已知关节疾病（如类风湿关节炎）。
+对急性单关节或少关节积液患者行关节穿刺（含细胞计数和鉴别、晶体分析）和培养滑膜液，排除关节感染，即使已知关节疾病（如类风湿关节炎）。
+
+【感染性关节炎】
+滑液检查是诊断急性关节感染的基础(1)。对抽取的滑液进行肉眼观察，并送检进行细胞计数和分类、革兰氏染色、需氧和厌氧培养以及晶体分析。恶臭的滑液提示厌氧菌感染。急性感染关节中抽取的滑液样本，白细胞 (WBC) 计数通常>50,000 细胞/mcL（50 × 109/L）（有时>100,000 细胞/mcL [100 × 109/L]），其中>95% 为多形核白细胞（2）。非淋球菌性关节炎的WBC计数比淋球菌感染性关节炎更高。在早期或经过部分治疗后的关节感染中，WBC计数会降低；因此，白细胞计数 < 50,000 细胞/mcL 不能排除感染性关节炎 (3,4)。
+革兰氏染色仅可以提示50%～75%急性细菌性关节炎的病原体，以葡萄球菌多见。革兰氏染色阳性具有提示作用（5），但也可能出现假阳性结果。培养结果具有确定性，但在之前使用过抗生素的情况下会受到限制(6)。
+将滑膜液接种到需氧血培养瓶中可以提高金格杆菌的检出率 (7)。
+晶体的存在不能除外合并感染性关节炎。初步的滑液分析难以区分感染性和其他炎症性滑液(8)。痛风、钙焦磷酸盐结晶相关性关节炎和感染患者的滑液细胞计数存在显著重叠。如果临床方法或滑液分析均无法鉴别，应该假定为感染性关节炎并进行治疗，待培养结果出来后再做进一步判断。
+血液检查，如血培养、血常规和红细胞沉降率（或C反应蛋白），通常都需检测。 然而，正常的结果不能排除感染。同样地，与感染性关节炎一样，WBC计数、红细胞沉降率或C反应蛋白在非感染性关节炎（包括痛风）中也会升高 (4)。血清尿酸水平不应作为诊断或排除痛风为关节炎病因的依据，因为在痛风患者中，尿酸水平可能正常或甚至较低，而在急性细菌感染患者中，尿酸水平可能升高，尽管这与痛风无关（8）。
+分子测试（如PCR[polymerase chain reaction]）可用于直接检测临床标本中的病原体。淋球菌可通过核酸扩增检测（NAAT）在宫颈、尿道、口咽或直肠标本中检测到，即使感染部位不在关节处（9）。淋球菌性关节炎的诊断方法将在下文中详细讨论。一些难以培养的病原体，如结核分枝杆菌和鞭状滋养体可以使用聚合酶链式反应 (PCR)在滑液中直接检测。宏基因组下一代测序（mNGS）也可以作为在复杂病例中识别病原体的工具。相比微生物培养，mNGS具有更高的敏感性，可能是检测接受抗生素治疗患者病原体的有用诊断工具（10）。
+受累关节的X线平片检查不是诊断急性感染的方法，但有时可以除外所考虑的其他问题（如骨折）。早期急性细菌性关节炎在X线上的表现仅限于软组织肿胀和滑膜渗液征象 (11)。未经治疗的细菌感染经过10天～14天后，可能出现破坏性改变如关节间隙变窄（反映关节软骨破坏），骨侵蚀和软骨下骨髓炎病灶。关节腔内见到气体，提示大肠杆菌或厌氧菌感染。
+淋球菌性脓毒症关节炎的腕部T1加权冠状脂肪抑制MRI显示弥漫性滑膜增强和糜烂。
+© Springer Science+Business Media
+MRI用于检查关节穿刺术不易进行的关节（如中轴关节）。MRI或超声可以用于渗出或脓肿的定位，便于穿刺或引流，既可以诊断又可以治疗 (12) 。MRI可以提示并发骨髓炎的早期征象 (13)。锝99m骨扫描在感染性关节炎中可有假阴性。而且，因为在炎性滑膜和代谢活跃的骨骼中，均可见丰富的血流和同位素摄入增加，在非感染性的关节炎如痛风中可呈假阳性结果。核素显像和MRI不能鉴别晶体诱导的关节炎(11)。
+
+【淋球菌性关节炎】
+如果怀疑是淋球菌性关节炎，可立即取血样和滑液标本接种于非选择性巧克力平板上。还应从尿道、宫颈管、直肠和咽部采集样本，并接种在选择性Thayer-Martin培养基上。还建议进行生殖器、直肠和口腔培养或 NAAT 测试。血培养可能在感染第一周呈阳性，可以协助微生物诊断。
+单纯化脓性关节炎的滑液培养结果多为阳性，皮损处取得的液体培养也可能为阳性。应完成滑膜液的PCR检测，因为在滑膜液培养阴性的患者中，PCR可能呈阳性（9）。如果根据临床标准怀疑有播散淋球菌感染，即便淋球菌培养阴性，也认为感染是存在的。抗生素治疗后的临床反应（预计在5至7天内出现）可以有力支持淋球菌感染的诊断。
+
+【诊断参考】
+1.Woods CR, Bradley JS, Chatterjee A, et al.Clinical Practice Guideline by the Pediatric Infectious Diseases Society (PIDS) and the Infectious Diseases Society of America (IDSA): 2023 Guideline on Diagnosis and Management of Acute Bacterial Arthritis in Pediatrics [published correction appears inJ Pediatric Infect Dis Soc.2024 Aug 24;13(8):443. doi: 10.1093/jpids/piae065].J Pediatric Infect Dis Soc.2024;13(1):1-59.doi:10.1093/jpids/piad089
+1.Woods CR, Bradley JS, Chatterjee A, et al.Clinical Practice Guideline by the Pediatric Infectious Diseases Society (PIDS) and the Infectious Diseases Society of America (IDSA): 2023 Guideline on Diagnosis and Management of Acute Bacterial Arthritis in Pediatrics [published correction appears inJ Pediatric Infect Dis Soc.2024 Aug 24;13(8):443. doi: 10.1093/jpids/piae065].J Pediatric Infect Dis Soc.2024;13(1):1-59.doi:10.1093/jpids/piad089
+2.Margaretten ME, Kohlwes J, Moore D, Bent S.Does this adult patient have septic arthritis?.JAMA.2007;297(13):1478-1488.doi:10.1001/jama.297.13.1478
+2.Margaretten ME, Kohlwes J, Moore D, Bent S.Does this adult patient have septic arthritis?.JAMA.2007;297(13):1478-1488.doi:10.1001/jama.297.13.1478
+3.Pesante BD, Salimi M, Miller WL, Young HL, Jenkins TC, Parry JA.The Effect of Crystal Arthropathy on the Diagnostic Criteria of Native Septic Arthritis.J Am Acad Orthop Surg.2024;32(12):570-575.doi:10.5435/JAAOS-D-23-00857
+3.Pesante BD, Salimi M, Miller WL, Young HL, Jenkins TC, Parry JA.The Effect of Crystal Arthropathy on the Diagnostic Criteria of Native Septic Arthritis.J Am Acad Orthop Surg.2024;32(12):570-575.doi:10.5435/JAAOS-D-23-00857
+4.Eren TK, Aktekin CN.How reliable are the synovial cell count and blood parameters in the diagnosis of septic arthritis?.Jt Dis Relat Surg.2023;34(3):724-730.Published 2023 Aug 21.doi:10.52312/jdrs.2023.1222
+4.Eren TK, Aktekin CN.How reliable are the synovial cell count and blood parameters in the diagnosis of septic arthritis?.Jt Dis Relat Surg.2023;34(3):724-730.Published 2023 Aug 21.doi:10.52312/jdrs.2023.1222
+5.Weston VC, Jones AC, Bradbury N, Fawthrop F, Doherty M.Clinical features and outcome of septic arthritis in a single UK Health District 1982-1991.Ann Rheum Dis.
+5.Weston VC, Jones AC, Bradbury N, Fawthrop F, Doherty M.Clinical features and outcome of septic arthritis in a single UK Health District 1982-1991.Ann Rheum Dis.
+6.Puzzitiello RN, Lipson SE, Michaud RG Jr, et al.Effect of Antibiotic Administration Before Joint Aspiration on Synovial Fluid White Blood Cell Count in Native Joint Septic Arthritis.Open Forum Infect Dis.2024;11(1):ofad600.Published 2024 Jan 11.doi:10.1093/ofid/ofad600
+6.Puzzitiello RN, Lipson SE, Michaud RG Jr, et al.Effect of Antibiotic Administration Before Joint Aspiration on Synovial Fluid White Blood Cell Count in Native Joint Septic Arthritis.Open Forum Infect Dis.2024;11(1):ofad600.Published 2024 Jan 11.doi:10.1093/ofid/ofad600
+7.Yagupsky P, Press J.Use of the isolator 1.5 microbial tube for culture of synovial fluid from patients with septic arthritis.J Clin Microbiol.1997;35(9):2410-2412.doi:10.1128/jcm.35.9.2410-2412.1997
+7.Yagupsky P, Press J.Use of the isolator 1.5 microbial tube for culture of synovial fluid from patients with septic arthritis.J Clin Microbiol.1997;35(9):2410-2412.doi:10.1128/jcm.35.9.2410-2412.1997
+8.Tzanis P, Klavdianou K, Lazarini A, et al.Septic Arthritis Complicating a Gout Flare: Report of Two Cases and Review of the Literature.Mediterr J Rheumatol.2022;33(1):75-80.Published 2022 Mar 31.doi:10.31138/mjr.33.1.75
+8.Tzanis P, Klavdianou K, Lazarini A, et al.Septic Arthritis Complicating a Gout Flare: Report of Two Cases and Review of the Literature.Mediterr J Rheumatol.2022;33(1):75-80.Published 2022 Mar 31.doi:10.31138/mjr.33.1.75
+9.Moussiegt A, François C, Belmonte O, et al.Gonococcal arthritis: case series of 58 hospital cases.Clin Rheumatol.2022;41(9):2855-2862.doi:10.1007/s10067-022-06208-w
+9.Moussiegt A, François C, Belmonte O, et al.Gonococcal arthritis: case series of 58 hospital cases.Clin Rheumatol.2022;41(9):2855-2862.doi:10.1007/s10067-022-06208-w
+10.Huang ZD, Zhang ZJ, Yang B, et al.Pathogenic Detection by Metagenomic Next-Generation Sequencing in Osteoarticular Infections.Front Cell Infect Microbiol.2020;10:471.Published 2020 Sep 17.doi:10.3389/fcimb.2020.00471
+10.Huang ZD, Zhang ZJ, Yang B, et al.Pathogenic Detection by Metagenomic Next-Generation Sequencing in Osteoarticular Infections.Front Cell Infect Microbiol.2020;10:471.Published 2020 Sep 17.doi:10.3389/fcimb.2020.00471
+11.Greenspan A, Tehranzadeh J.Imaging of infectious arthritis.Radiol Clin North Am.2001;39(2):267-276.doi:10.1016/s0033-8389(05)70277-3
+11.Greenspan A, Tehranzadeh J.Imaging of infectious arthritis.Radiol Clin North Am.2001;39(2):267-276.doi:10.1016/s0033-8389(05)70277-3
+12.Chan BY, Crawford AM, Kobes PH, et al.Septic Arthritis: An Evidence-Based Review of Diagnosis and Image-Guided Aspiration.AJR Am J Roentgenol.2020;215(3):568-581.doi:10.2214/AJR.20.22773
+12.Chan BY, Crawford AM, Kobes PH, et al.Septic Arthritis: An Evidence-Based Review of Diagnosis and Image-Guided Aspiration.AJR Am J Roentgenol.2020;215(3):568-581.doi:10.2214/AJR.20.22773
+13.Karchevsky M, Schweitzer ME, Morrison WB, Parellada JA.MRI findings of septic arthritis and associated osteomyelitis in adults.AJR Am J Roentgenol.2004;182(1):119-122.doi:10.2214/ajr.182.1.1820119
+13.Karchevsky M, Schweitzer ME, Morrison WB, Parellada JA.MRI findings of septic arthritis and associated osteomyelitis in adults.AJR Am J Roentgenol.2004;182(1):119-122.doi:10.2214/ajr.182.1.1820119
+
+【急性感染性关节炎的治疗】
+静脉注射抗生素
+静脉注射抗生素
+从关节中引流感染的液体
+从关节中引流感染的液体
+
+【抗生素治疗】
+起始的抗生素选择应覆盖最可能的病原体 (1)。在培养及药敏结果的基础上进行调整。
+淋球菌性关节炎使用
+头孢曲松1克静脉注射一天一次
+头孢曲松1克静脉注射一天一次
+静脉注射头孢曲松继续治疗，直到症状和体征至少缓解24小时；如果病原菌被证明对药物敏感，则随后口服头孢克洛400毫克，每天两次，持续7至14天。如果未排除沙眼衣原体感染，应加用多西环素100毫克，每天口服两次，持续7天。如果患者经这种治疗方案病情没有改善或不能耐受头孢菌素，请咨询传染病专家。 在这种情况下，替代疗法包括阿奇霉素加吉美沙星或庆大霉素。氟喹诺酮类如环丙沙星500mg，每天两次，口服，仅用于病原体被分离后证实是易感的情况 (2) 。
+如果通过革兰氏染色在成人中怀疑存在非淋球菌革兰氏阳性菌感染，或未观察到任何微生物，则应首先采用以下治疗方案：
+静脉注射万古霉素1g，每12小时1次
+静脉注射万古霉素1g，每12小时1次
+由于甲氧西林耐药菌在社区获得性金黄色葡萄球菌中很常见，对于革兰氏染色显示为簇状革兰氏阳性球菌或在怀疑金黄色葡萄球菌时革兰氏染色阴性的患者，万古霉素是经验性治疗的首选药物。对于革兰氏染色中呈簇集的革兰阳性球菌且对甲氧西林敏感的金黄色葡萄球菌患者的治疗选择包括半合成青霉素（例如，萘夫西林静脉注射2克，每4小时一次）或头孢菌素（例如，头孢唑林静脉注射2克，每8小时一次）(3)。
+疑为革兰氏阴性菌感染时（如接受免疫抑制治疗或有严重的合并症，注射药物成瘾，近期应用过抗生素的感染，或留置血管导管），经验治疗包括肠胃外给予有抗假单孢菌活性的抗生素（如头孢他啶 2 g 静脉注射，每 8 小时一次；头孢吡肟 2 g，每 8 小时一次；哌拉西林/他唑巴坦 4.5 g，每 6 小时一次）(3)。
+新生儿应首先使用广谱抗生素治疗，包括针对革兰氏阳性菌感染的抗生素（例如，针对金黄色葡萄球菌感染使用奈夫西林或万古霉素），以及针对革兰氏阴性菌感染的抗生素（例如，针对鲍氏不动杆菌感染使用庆大霉素或第三代头孢菌素，如头孢噻肟）(1)。
+儿童>48个月年龄应接受经验治疗，以覆盖金黄色葡萄球菌。针对社区获得性耐甲氧西林金黄色葡萄球菌（MRSA）的覆盖需求是基于当地易感性数据（1）。
+静脉用抗生素需应用至临床症状明显改善 ，然后需根据临床反应再口服大剂量的抗生素2～4周。临床上迅速改善且无骨髓炎证据的儿童，可以接受短至10-14天的治疗疗程。对于临床反应较慢、源头控制不足或感染持续存在的患者（例如，C反应蛋白升高），建议进行21-28天的疗程（1）。
+链球菌和嗜血杆菌感染通常需静脉治疗后再继以2周的口服抗生素即可根除。
+葡萄球菌感染和其他常规细菌病原体至少需抗生素治疗3周，通常是4周或更长的时间，特别是在感染的关节有关节炎病史、免疫抑制治疗或诊断有延误的患者。
+
+【引流感染液体】
+除了应用抗生素外，对急性非淋球菌关节炎患者，用大号针头抽取关节脓液，每天至少一次，并定时冲冼，关节内镜冲洗或关节切开清创。接受免疫抑制治疗的类风湿关节炎患者或诊断有延误的患者通常应尽早进行积极的手术清创和引流治疗。关节镜冲洗和开放性关节切开术是常用的手术干预方法，具有相似的疗效。关节镜检查似乎更可取，因为它全因并发症发生率较低（4、5）。
+对于淋球菌性关节炎伴有持续性关节积液的患者，应抽吸感染性液体，并根据需要重复引流。
+急性细菌性关节炎在最初几天内可以使用夹板固定以缓解疼痛，在能忍受的情况下，尽早进行主动及被动的运动训练及肌肉强度训练，以预防挛缩。一旦确诊，NSAIDs（非甾体抗炎药）可以帮助减轻疼痛和炎症 (5)。在急性感染期间应避免关节内应用糖皮质激素。由于细菌学检测可能为假阴性，因此在明确排除细菌来源之前，通常应避免强效抗炎治疗。阿片类药物可用于控制疼痛。
+
+【治疗参考文献】
+1.Woods CR, Bradley JS, Chatterjee A, et al.Clinical Practice Guideline by the Pediatric Infectious Diseases Society (PIDS) and the Infectious Diseases Society of America (IDSA): 2023 Guideline on Diagnosis and Management of Acute Bacterial Arthritis in Pediatrics [published correction appears inJ Pediatric Infect Dis Soc.2024 Aug 24;13(8):443. doi: 10.1093/jpids/piae065].J Pediatric Infect Dis Soc.2024;13(1):1-59.doi:10.1093/jpids/piad089
+1.Woods CR, Bradley JS, Chatterjee A, et al.Clinical Practice Guideline by the Pediatric Infectious Diseases Society (PIDS) and the Infectious Diseases Society of America (IDSA): 2023 Guideline on Diagnosis and Management of Acute Bacterial Arthritis in Pediatrics [published correction appears inJ Pediatric Infect Dis Soc.2024 Aug 24;13(8):443. doi: 10.1093/jpids/piae065].J Pediatric Infect Dis Soc.2024;13(1):1-59.doi:10.1093/jpids/piad089
+2.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1
+2.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1
+3.Ohl, CA.Infectious Arthritis of Native Joints.In: Bennett JE, Dolin R, Blaser, MJ.Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases.Elsevier; 2019:103.
+3.Ohl, CA.Infectious Arthritis of Native Joints.In: Bennett JE, Dolin R, Blaser, MJ.Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases.Elsevier; 2019:103.
+4.McKenna DP, Miller P, McAleese T, Cleary M.Arthroscopy or arthrotomy for native knee septic arthritis: A systematic review.J Exp Orthop.2024;11(3):e12041.Published 2024 Jun 6.doi:10.1002/jeo2.12041
+4.McKenna DP, Miller P, McAleese T, Cleary M.Arthroscopy or arthrotomy for native knee septic arthritis: A systematic review.J Exp Orthop.2024;11(3):e12041.Published 2024 Jun 6.doi:10.1002/jeo2.12041
+5.Donatto KC.Orthopedic management of septic arthritis.Rheum Dis Clin North Am.1998;24(2):275-286.doi:10.1016/s0889-857x(05)70009-0
+5.Donatto KC.Orthopedic management of septic arthritis.Rheum Dis Clin North Am.1998;24(2):275-286.doi:10.1016/s0889-857x(05)70009-0
+
+【急性感染性关节炎的预后】
+急性非淋球菌性关节炎会破坏关节软骨，在数小时或数天内持续破坏关节 (1)。
+而淋球菌性关节炎则通常不会持续破坏关节。增加感染性关节炎易感性的危险因素同样也可以增加疾病的严重度。
+在类风湿性关节炎患者中，关节功能预后会相当差，死亡率也会上升。
+
+【预后参考】
+1.Gardner GC, Weisman MH.Pyarthrosis in patients with rheumatoid arthritis: a report of 13 cases and a review of the literature from the past 40 years.Am J Med.1990;88(5):503-511.doi:10.1016/0002-9343(90)90430-l
+1.Gardner GC, Weisman MH.Pyarthrosis in patients with rheumatoid arthritis: a report of 13 cases and a review of the literature from the past 40 years.Am J Med.1990;88(5):503-511.doi:10.1016/0002-9343(90)90430-l
+淋球菌性关节炎表现出的急性炎症较急性非淋球菌性细菌性关节炎轻，且较不容易引起残留性关节损伤。
+淋球菌性关节炎表现出的急性炎症较急性非淋球菌性细菌性关节炎轻，且较不容易引起残留性关节损伤。
+如果患者患有急性单关节或少关节关节炎，尤其是在高风险患者中，应怀疑患有感染性关节炎。
+如果患者患有急性单关节或少关节关节炎，尤其是在高风险患者中，应怀疑患有感染性关节炎。
+滑液检查和培养用于确诊或排除诊断; X线和常规实验室检查通常意义不大。
+滑液检查和培养用于确诊或排除诊断; X线和常规实验室检查通常意义不大。
+尽快诊断和治疗感染性关节炎，尤其非淋菌性细菌性关节炎。
+尽快诊断和治疗感染性关节炎，尤其非淋菌性细菌性关节炎。
+根据临床症状和革兰氏染色的结果针对可疑病原体直接进行抗生素治疗
+根据临床症状和革兰氏染色的结果针对可疑病原体直接进行抗生素治疗
+感染的关节应通过连续抽吸、关节镜清洗或关节切开术进行清创。
+感染的关节应通过连续抽吸、关节镜清洗或关节切开术进行清创。

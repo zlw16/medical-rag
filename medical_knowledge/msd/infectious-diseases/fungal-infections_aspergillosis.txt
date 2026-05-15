@@ -1,0 +1,121 @@
+标题：曲霉病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/fungal-infections/aspergillosis
+============================================================
+
+曲霉病是指由曲霉菌属真菌（最常见的是烟曲霉菌）感染或过敏反应引起的一系列疾病，这些真菌是无处不在的环境霉菌（1）。
+主要的获取途径是吸入空气中的分生孢子（孢子），它们存在于土壤、腐烂的植被和室内环境中。在免疫正常的人群中，这些孢子通常被清除而没有后果。在免疫功能低下的宿主（如中性粒细胞减少、长期使用糖皮质激素、血液学癌症、实体器官或造血干细胞移植或晚期HIV感染）中，这些孢子可以逃避宿主防御、复制，并引起一系列疾病，从过敏反应（如过敏性支气管肺曲霉病）到慢性肺综合征（如曲霉瘤、急性侵袭性肺曲霉病、慢性肺曲霉病、鼻窦感染）和具有传播潜力的血管侵入性疾病。
+此图描述了4种主要的曲霉病感染类型。这些感染与吸入曲霉属孢子，尤其是烟曲霉有关：
+曲霉菌性鼻窦炎：可能对免疫功能低下的患者具有侵袭性
+曲霉菌性鼻窦炎：可能对免疫功能低下的患者具有侵袭性
+过敏性支气管肺曲霉病：导致哮喘或囊性纤维化患者出现支气管炎症和阻塞
+过敏性支气管肺曲霉病：导致哮喘或囊性纤维化患者出现支气管炎症和阻塞
+曲霉球：空洞性肺部真菌球，通常为结核等既往疾病的后遗症
+曲霉球：空洞性肺部真菌球，通常为结核等既往疾病的后遗症
+侵袭性曲霉病：可在免疫功能低下患者中扩散到其他器官
+侵袭性曲霉病：可在免疫功能低下患者中扩散到其他器官
+BSIP/JACOPIN/SCIENCE PHOTO LIBRARY
+全球曲霉病发病率显著且被低估，每年有超过200万例新增侵袭性曲霉病病例和近200万例新增慢性肺曲霉病病例（2）。这些感染每年导致超过180万例因侵袭性疾病引起的死亡和数十万例因肺部疾病引起的死亡，通常不成比例地影响患有慢性阻塞性肺疾病或肺癌等既往疾病的患者。美国旧金山湾区1992年至1993年的一项研究估计侵袭性曲霉病的年发病率为1至2例/100,000人（3）。一些数据表明随着时间的推移病例数量有所增加，部分原因是免疫功能受损患者数量增加（包括接受移植的患者）。在美国的另一项研究中，从2000年到2013年，与侵袭性曲霉病相关的住院人数平均每年增加3%(4)。
+(参见真菌感染概述。）
+
+【参考文献】
+1.Thompson GR 3rd, Young JH.AspergillusInfections.N Engl J Med.2021;385(16):1496-1509.doi:10.1056/NEJMra2027424
+1.Thompson GR 3rd, Young JH.AspergillusInfections.N Engl J Med.2021;385(16):1496-1509.doi:10.1056/NEJMra2027424
+2.Denning DW.Global incidence and mortality of severe fungal disease.Lancet Infect Dis.2024;24(7):e428-e438.doi:10.1016/S1473-3099(23)00692-8
+2.Denning DW.Global incidence and mortality of severe fungal disease.Lancet Infect Dis.2024;24(7):e428-e438.doi:10.1016/S1473-3099(23)00692-8
+3.Rees JR, Pinner RW, Hajjeh RA, Brandt ME, Reingold AL.The epidemiological features of invasive mycotic infections in the San Francisco Bay area, 1992-1993: results of population-based laboratory active surveillance.Clin Infect Dis.1998;27(5):1138-1147.
+3.Rees JR, Pinner RW, Hajjeh RA, Brandt ME, Reingold AL.The epidemiological features of invasive mycotic infections in the San Francisco Bay area, 1992-1993: results of population-based laboratory active surveillance.Clin Infect Dis.1998;27(5):1138-1147.
+4.Vallabhaneni S, Benedict K, Derado G, Mody RK.Trends in Hospitalizations Related to Invasive Aspergillosis and Mucormycosis in the United States, 2000-2013.Open Forum Infect Dis.2017;4(1):ofw268.Published 2017 Jan 13.doi:10.1093/ofid/ofw268
+4.Vallabhaneni S, Benedict K, Derado G, Mody RK.Trends in Hospitalizations Related to Invasive Aspergillosis and Mucormycosis in the United States, 2000-2013.Open Forum Infect Dis.2017;4(1):ofw268.Published 2017 Jan 13.doi:10.1093/ofid/ofw268
+
+【曲霉病的病理生理学】
+侵袭性感染通常由吸入孢子所致，孢子偶尔也可直接从受损的皮肤侵入人体而致病。
+曲霉病的主要危险因素包括:
+持续的中性粒细胞减少（一般> 7天）
+持续的中性粒细胞减少（一般> 7天）
+长疗程大剂量糖皮质激素治疗
+长疗程大剂量糖皮质激素治疗
+器官移植（特别是骨髓移植伴有移植物抗宿主病【GVHD】）
+器官移植（特别是骨髓移植伴有移植物抗宿主病【GVHD】）
+遗传性中性粒细胞功能障碍（如慢性肉芽肿性疾病）
+遗传性中性粒细胞功能障碍（如慢性肉芽肿性疾病）
+Aspergillus（曲霉菌）易于感染开放的空腔，如肺部疾病（如支气管扩张、肿瘤以及结核）导致的肺空洞、鼻窦或外耳道（耳真菌病）。此类感染往往具有局部侵袭性和破坏性，但有时也可发生全身播散，尤其见于存在中性粒细胞减少的免疫功能低下人群，或因长期使用糖皮质激素而导致免疫抑制的患者。曲霉病亦可发生于 HIV 感染者，尤其是晚期 HIV 疾病患者。
+A. fumigatus是侵袭性肺病的最常见病因。
+变应性支气管肺曲霉病是对曲霉属真菌的超敏反应，导致肺部炎症，其发生与真菌侵入组织无关。
+慢性肺曲霉病最常见于存在基础性结构性肺疾病的患者。
+曲霉球（真菌球）是一种特征性病变，由缠结的真菌菌丝构成，伴有纤维蛋白性渗出且炎性细胞较少，通常被纤维组织包裹。真菌通常局限于腔内，没有明显的局部侵袭。偶尔可能发生腔周围有限的组织侵犯。
+Aspergillus（曲霉属）种也可在外伤或眼科手术后引起眼内炎。血管内和心内假体可因血液播散而感染。
+原发性皮肤曲霉病较为少见，但可发生于烧伤后、封闭性敷料下、角膜外伤后（角膜炎），或发生于鼻窦、口腔、鼻腔或外耳道。
+
+【曲霉菌病的症状和体征】
+曲霉病的临床特征往往取决于所涉及的疾病的具体亚型和所涉及的器官系统；最常见的表现是鼻肺症状。
+急性侵袭性肺曲霉病通常引起咳嗽，常伴有咯血、胸膜炎性胸痛和呼吸困难。侵袭性肺曲霉病如果不给予治疗，疾病会快速进展，最终出现致命性呼吸衰竭。
+慢性肺曲霉病尽管疾病负荷较重，但临床症状可能轻微且进展缓慢。症状包括咳嗽、咯血和呼吸困难，伴有或不伴有胸痛。可能出现发热等全身症状。
+肺外侵袭性曲霉病发生于严重免疫力低下的患者。肺外侵袭性曲霉病常从皮肤病变、鼻窦炎或肺炎开始，可能通过血液传播累及肝脏、肾脏、脑部及其他组织，通常进展迅速，常可致命。
+鼻窦曲霉病可形成曲菌球、变应性真菌性鼻窦炎，或引起表现为发热、鼻炎和头痛的慢性肉芽肿性炎症。患者可出现覆盖鼻部或鼻窦的坏死性皮肤病变、腭部或牙龈溃疡，或在晚期病例中出现海绵窦血栓形成的体征，或肺部或播散性病变。
+曲霉球通常呈惰性过程且无症状，但可引起轻度咳嗽，偶可出现咯血。
+
+【曲霉菌病的诊断】
+真菌培养、组织标本的组织病理学检查（在可行时）。
+真菌培养、组织标本的组织病理学检查（在可行时）。
+影像学检查（尤其是胸部CT）
+影像学检查（尤其是胸部CT）
+血清和/或支气管肺泡灌洗液半乳甘露聚糖抗原试验
+血清和/或支气管肺泡灌洗液半乳甘露聚糖抗原试验
+分子诊断
+分子诊断
+曲霉病的诊断通常依赖于微生物学检测（包括支气管肺泡灌洗液的培养和细胞学检查）、影像学检查（通常是胸部CT）、真菌生物标志物检测（如半乳甘露聚糖PCR检测），以及可行时组织浸润的组织病理学证实(1)。
+由于Aspergillus（曲霉菌）种属在环境中很常见，痰液培养阳性可能是由于慢性肺病患者的气道定植。当患者因免疫抑制或中性粒细胞减少而易感性增加，或基于特征性影像学表现有高度怀疑指数时，痰培养阳性主要具有临床意义(2)。
+胸部CT扫描明显比x线平片更敏感，对于高危患者，如中性粒细胞减少患者，应进行胸部CT扫描。特征性的影像学表现包括晕征（结节周围出现模糊影）或坏死性病灶内形成空洞。有些患者可表现为肺部弥散性浸润病灶。
+此CT扫描显示有哮喘合并过敏性支气管肺曲霉病病史患者的肺部影像。因曲霉肿左上肺叶切除术后，左肺尖出现复发性真菌球（箭头所示）。
+Image courtesy of Paschalis Vergidis, MD, MSc.
+获取组织标本进行培养和组织病理学检查对于确诊是必需的，组织病理学可以区分是侵袭性病变还是定植。通常通过支气管镜或经皮肤穿刺活检以及前鼻镜检查从肺和鼻窦获取标本进行检查。血培养几乎都为阴性，即使罕见的真菌性心内膜炎患者血培养也如此。
+在Aspergillus所致的心内膜炎中，大的赘生物通常释放出相当大的栓子，这些栓子可堵塞血管并可作为诊断用的标本。尽管血培养阴性，超声心动图，尤其是经食道超声心动图，仍可显示与赘生物一致的可移动的心内肿块。
+血清Aspergillus（曲霉菌)半乳甘露聚糖检测具有较高特异性，但在疾病早期阶段对大多数病例的敏感性往往不足。在侵袭性肺曲霉病中，支气管肺泡灌洗液半乳甘露聚糖试验比血清抗原检测更敏感，且常是血小板减少症患者的唯一诊断选择，对这类患者来说活检是禁忌。半乳甘露聚糖试验是侵袭性肺曲霉菌病的敏感且特异性强的诊断方法(3)。
+PCR检测是市售的，当与抗原检测相结合时（与单独的任何一种检测相比），它进一步提高了敏感性和特异性，并且越来越多地用作高危人群的辅助手段(4)。
+（另见变应性支气管肺曲霉病（ABPA）的诊断。）
+
+【诊断参考】
+1.Thompson GR 3rd, Young JH.AspergillusInfections.N Engl J Med.2021;385(16):1496-1509.doi:10.1056/NEJMra2027424
+1.Thompson GR 3rd, Young JH.AspergillusInfections.N Engl J Med.2021;385(16):1496-1509.doi:10.1056/NEJMra2027424
+2.Patterson TF, Thompson GR 3rd, Denning DW, et al.Practice guidelines for the diagnosis and management of aspergillosis: 2016 Update by the Infectious Diseases Society of America.Clin Infect Dis.2016;63(4):e1–e60.doi:10.1093/cid/ciw326
+2.Patterson TF, Thompson GR 3rd, Denning DW, et al.Practice guidelines for the diagnosis and management of aspergillosis: 2016 Update by the Infectious Diseases Society of America.Clin Infect Dis.2016;63(4):e1–e60.doi:10.1093/cid/ciw326
+3.Hoenigl M, Prattes J, Spiess B, et al.Performance of galactomannan, beta-d-glucan,Aspergilluslateral-flow device, conventional culture, and PCR tests with bronchoalveolar lavage fluid for diagnosis of invasive pulmonary aspergillosis.J Clin Microbiol.2014;52(6):2039-2045.doi:10.1128/JCM.00467-14
+3.Hoenigl M, Prattes J, Spiess B, et al.Performance of galactomannan, beta-d-glucan,Aspergilluslateral-flow device, conventional culture, and PCR tests with bronchoalveolar lavage fluid for diagnosis of invasive pulmonary aspergillosis.J Clin Microbiol.2014;52(6):2039-2045.doi:10.1128/JCM.00467-14
+4.Hage CA, Carmona EM, Epelbaum O, et al.Microbiological Laboratory Testing in the Diagnosis of Fungal Infections in Pulmonary and Critical Care Practice.An Official American Thoracic Society Clinical Practice Guideline.Am J Respir Crit Care Med.2019;200(5):535-550.doi:10.1164/rccm.201906-1185ST
+4.Hage CA, Carmona EM, Epelbaum O, et al.Microbiological Laboratory Testing in the Diagnosis of Fungal Infections in Pulmonary and Critical Care Practice.An Official American Thoracic Society Clinical Practice Guideline.Am J Respir Crit Care Med.2019;200(5):535-550.doi:10.1164/rccm.201906-1185ST
+
+【曲霉菌病的治疗】
+抗真菌治疗（如伏立康唑、泊沙康唑、艾沙康唑鎓）。
+抗真菌治疗（如伏立康唑、泊沙康唑、艾沙康唑鎓）。
+棘白菌素作为补救治疗措施
+棘白菌素作为补救治疗措施
+有时需要手术切除曲菌球
+有时需要手术切除曲菌球
+（参见抗真菌药物）。
+如果临床怀疑曲霉病很强，应在等待培养和组织病理学结果的同时开始经验性抗真菌治疗。
+侵袭性感染通常需要使用伏立康唑（1）、泊沙康唑（2）或艾沙康唑铵（3）进行积极治疗。泊沙康唑和艾沙康唑铵具有同等功效，且副作用少于伏立康唑（2,3）。两性霉素B（特别是脂质制剂）也有效，但毒性更大 (4)。伊曲康唑（但氟康唑无效）对慢性曲霉病患者可能有效。卡泊芬净或其他棘白菌素类药物可作为挽救治疗，与具抗霉菌活性的三唑类药物或两性霉素 B联合使用。
+通常，治疗需要逆转免疫抑制状态（例如中性粒细胞减少的纠正、停用糖皮质激素）。当患者重新出现中性粒细胞减少症时，本病常复发。
+曲霉球对全身抗真菌治疗无反应（可能因药物进入真菌球不足），但由于局部压迫效应，尤其是咯血，可能需要手术切除。在严重咯血的情况下，可能需要抗真菌治疗来阻止疾病进展。
+对于高危患者（如移植物抗宿主病患者或因急性髓系白血病导致长期中性粒细胞减少者），通常建议使用泊沙康唑进行预防。
+
+【治疗参考文献】
+1.Herbrecht R, Denning DW, Patterson TF, et al:Voriconazoleversusamphotericin Bfor primary treatment of invasive aspergillosis.N Engl J Med347(6):408–415, 2002.doi: 10.1056/NEJMoa020191
+1.Herbrecht R, Denning DW, Patterson TF, et al:Voriconazoleversusamphotericin Bfor primary treatment of invasive aspergillosis.N Engl J Med347(6):408–415, 2002.doi: 10.1056/NEJMoa020191
+2.Maertens JA, Rahav G, Lee DG, et al:Posaconazoleversusvoriconazolefor primary treatment of invasive aspergillosis: A phase 3, randomised, controlled, non-inferiority trial.Lancet397(10273):499–509, 2021. doi: 10.1016/S0140-6736(21)00219-1.Clarification and additional information.Lancet398(10299):490, 2021.
+2.Maertens JA, Rahav G, Lee DG, et al:Posaconazoleversusvoriconazolefor primary treatment of invasive aspergillosis: A phase 3, randomised, controlled, non-inferiority trial.Lancet397(10273):499–509, 2021. doi: 10.1016/S0140-6736(21)00219-1.Clarification and additional information.Lancet398(10299):490, 2021.
+3.Maertens JA, Raad II, Marr KA, et al:Isavuconazoleversusvoriconazolefor primary treatment of invasive mould disease caused byAspergillusand other filamentous fungi (SECURE): A phase 3, randomised-controlled, non-inferiority trial.Lancet387(10020):760–769, 2016.doi: 10.1016/S0140-6736(15)01159-9
+3.Maertens JA, Raad II, Marr KA, et al:Isavuconazoleversusvoriconazolefor primary treatment of invasive mould disease caused byAspergillusand other filamentous fungi (SECURE): A phase 3, randomised-controlled, non-inferiority trial.Lancet387(10020):760–769, 2016.doi: 10.1016/S0140-6736(15)01159-9
+4.Patterson TF, Thompson GR 3rd, Denning DW, et al: Practice guidelines for the diagnosis and management of aspergillosis: 2016 Update by the Infectious Diseases Society of America.Clin Infect Dis63(4):e1–e60, 2016.doi: 10.1093/cid/ciw326
+4.Patterson TF, Thompson GR 3rd, Denning DW, et al: Practice guidelines for the diagnosis and management of aspergillosis: 2016 Update by the Infectious Diseases Society of America.Clin Infect Dis63(4):e1–e60, 2016.doi: 10.1093/cid/ciw326
+在严重免疫缺陷的患者中，吸入Aspergillus（曲霉菌）的孢子可引起局限性或侵袭性肺病，极少数情况下可引起播散性感染（如累及脑部）。
+在严重免疫缺陷的患者中，吸入Aspergillus（曲霉菌）的孢子可引起局限性或侵袭性肺病，极少数情况下可引起播散性感染（如累及脑部）。
+侵袭性曲霉病在中性粒细胞减少或因长期使用糖皮质激素而免疫抑制的患者中更为常见，但亦可发生于 HIV 感染者，尤其是终末期患者。
+侵袭性曲霉病在中性粒细胞减少或因长期使用糖皮质激素而免疫抑制的患者中更为常见，但亦可发生于 HIV 感染者，尤其是终末期患者。
+获取组织标本进行培养和组织病理学检查通常是必需的，但支气管肺泡灌洗液半乳甘露聚糖检测有助于诊断肺部感染。
+获取组织标本进行培养和组织病理学检查通常是必需的，但支气管肺泡灌洗液半乳甘露聚糖检测有助于诊断肺部感染。
+侵袭性感染需用伏立康唑、泊沙康唑或艾沙康唑治疗；两性霉素B可作为替代药物。
+侵袭性感染需用伏立康唑、泊沙康唑或艾沙康唑治疗；两性霉素B可作为替代药物。
+曲霉球对抗真菌药物治疗无反应，但若引起出血或其他症状，应考虑手术切除。
+曲霉球对抗真菌药物治疗无反应，但若引起出血或其他症状，应考虑手术切除。
+建议免疫功能低下或其他高危患者使用泊沙康唑进行预防。
+建议免疫功能低下或其他高危患者使用泊沙康唑进行预防。

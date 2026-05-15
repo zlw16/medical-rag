@@ -1,0 +1,94 @@
+标题：疫苗犹豫
+来源：https://www.msdmanuals.cn/professional/pediatrics/childhood-vaccination/vaccine-hesitancy
+============================================================
+
+尽管美国有严格的疫苗安全体系，一些家长仍然担心儿童接种疫苗的程序安全性。这些担忧导致一些父母不同意孩子接种部分或全部推荐的儿童疫苗。在美国，疫苗豁免率从2006年的1％上升至2016~2017年的2％。在2023-2024学年，这一数字总体上增加到3.3%，其中一个州报告有14.3%的儿童在幼儿园获得豁免（1）。先前的研究表明，对于因非医疗原因拒绝一种或多种疫苗的家长，其子女患疫苗可预防疾病的比率较高。
+推迟或不同意儿童接种儿童疫苗的决定会影响公共健康。 当对某一疾病免疫（群体免疫）的总人口的比例减少，则疾病的发生率就增加，增加危险人群的患病可能性。  人们可能处于危险之中，因为
+他们之前接种过疫苗，但该疫苗未能诱导免疫（例如，2%至5%的接种者对麻疹疫苗的第一剂没有反应）。
+他们之前接种过疫苗，但该疫苗未能诱导免疫（例如，2%至5%的接种者对麻疹疫苗的第一剂没有反应）。
+免疫力可能会随着时间的推移而减弱（例如，在非常年幼的儿童和老年人中，需要加强免疫）。
+免疫力可能会随着时间的推移而减弱（例如，在非常年幼的儿童和老年人中，需要加强免疫）。
+他们（即某些免疫功能低下患者）或接受免疫调节治疗者不能接种活病毒疫苗（如麻疹-腮腺炎-风疹疫苗、水痘疫苗），需依赖群体免疫来预防此类疾病。
+他们（即某些免疫功能低下患者）或接受免疫调节治疗者不能接种活病毒疫苗（如麻疹-腮腺炎-风疹疫苗、水痘疫苗），需依赖群体免疫来预防此类疾病。
+与不情愿的父母交谈，通常需要询问具体的问题，并用通俗易懂的语言解释疫苗的风险和益处，以及支持证据。 这些对话提供了澄清误解和参与共同决策的机会（2）。特别是，临床医生必须确保患者的父母了解麻疹和百日咳等疫苗可预防的儿童疾病可能产生的严重影响（包括死亡）。
+
+【参考文献】
+1.Seither R, Yusuf OB, Dramann D, et al.Coverage with selected vaccines and exemption rates among children in kindergarten - United States, 2023-24 school year.MMWR Morb Mortal Wkly Rep.2024;73(41):925-932.Published 2024 Oct 17.doi:10.15585/mmwr.mm7341a3
+1.Seither R, Yusuf OB, Dramann D, et al.Coverage with selected vaccines and exemption rates among children in kindergarten - United States, 2023-24 school year.MMWR Morb Mortal Wkly Rep.2024;73(41):925-932.Published 2024 Oct 17.doi:10.15585/mmwr.mm7341a3
+2.Edwards KM, Hackell JM, Committee on Infectious Diseases, Committee on Practices and Ambulatory Medicine.Countering vaccine hesitancy.Pediatrics. 2016;138(3):e20162146. doi:10.1542/peds.2016-2146
+2.Edwards KM, Hackell JM, Committee on Infectious Diseases, Committee on Practices and Ambulatory Medicine.Countering vaccine hesitancy.Pediatrics. 2016;138(3):e20162146. doi:10.1542/peds.2016-2146
+
+【COVID-19疫苗】
+COVID-19大流行使疫苗犹豫再次成为焦点。2020 年 12 月，美国食品药品监督管理局 (FDA) 批准了首个COVID-19疫苗的紧急使用授权 (EUA)。截至当前，美国已接种超过6.75亿剂COVID-19疫苗，约80%的民众至少接种过1剂，但许多年轻人及儿童仍未接种(1)。针对当前主要作为加强针使用的单价疫苗，疫苗犹豫的情况有所增加。截至2025年1月4日，据报道仅11%儿童完成了最新的2024-2025版COVID-19疫苗接种(2)。
+与新冠疫苗接种相关的严重不良事件可能发生，但其发生率极低。例如，辉瑞-BioNTech生产的SARS-CoV-2病毒（COVID-19）mRNA疫苗和Moderna公司生产的SARS-CoV-2病毒（COVID-19）mRNA疫苗与心肌炎和心包炎有关。虽然很严重，但这些事件与COVID-19感染及并发症相比极为罕见 (3)。与其他可通过疫苗预防的疾病类似，未接种疫苗的人群因感染 COVID-19 而住院和急诊就诊的情况更为常见（4）。
+COVID-19感染可影响儿童和青少年，并可能导致严重后果。此外，儿童和青少年容易受到长新冠（SARS-CoV-2 感染后出现的慢性疾病，持续至少 3 个月），研究表明，接种疫苗后感染 COVID-19 的人与未接种疫苗的人相比，接种疫苗对长期 COVID 具有中等程度的保护作用，尤其是在青少年中（见CDC: 长新冠基础知识）（5）。
+
+【COVID-19 疫苗参考文献】
+1.Oliver SE, Wallace M, Twentyman E, et al.Development of COVID-19 vaccine policy - United States, 2020-2023.Vaccine.2024;42 Suppl 3:125512.doi:10.1016/j.vaccine.2023.12.022
+1.Oliver SE, Wallace M, Twentyman E, et al.Development of COVID-19 vaccine policy - United States, 2020-2023.Vaccine.2024;42 Suppl 3:125512.doi:10.1016/j.vaccine.2023.12.022
+2.Centers for Disease Control and Prevention (CDC).COVID-19 Vaccination Coverage and Intent for Vaccination, Children 6 months through 17 years, United States.Accessed January 25, 2025.
+2.Centers for Disease Control and Prevention (CDC).COVID-19 Vaccination Coverage and Intent for Vaccination, Children 6 months through 17 years, United States.Accessed January 25, 2025.
+3.Karlstad Ø, Hovi P, Husby A, et al.SARS-CoV-2 Vaccination and Myocarditis in a Nordic Cohort Study of 23 Million Residents.JAMA Cardiol.2022;7(6):600-612.doi:10.1001/jamacardio.2022.0583
+3.Karlstad Ø, Hovi P, Husby A, et al.SARS-CoV-2 Vaccination and Myocarditis in a Nordic Cohort Study of 23 Million Residents.JAMA Cardiol.2022;7(6):600-612.doi:10.1001/jamacardio.2022.0583
+4.Head JR, Collender PA, León TM, et al.COVID-19 Vaccination and Incidence of Pediatric SARS-CoV-2 Infection and Hospitalization.JAMA Netw Open.2024;7(4):e247822.Published 2024 Apr 1.doi:10.1001/jamanetworkopen.2024.7822
+4.Head JR, Collender PA, León TM, et al.COVID-19 Vaccination and Incidence of Pediatric SARS-CoV-2 Infection and Hospitalization.JAMA Netw Open.2024;7(4):e247822.Published 2024 Apr 1.doi:10.1001/jamanetworkopen.2024.7822
+5.Razzaghi H, Forrest CB, Hirabayashi K, et al.Vaccine Effectiveness Against Long COVID in Children.Pediatrics.2024;153(4):e2023064446.doi:10.1542/peds.2023-064446
+5.Razzaghi H, Forrest CB, Hirabayashi K, et al.Vaccine Effectiveness Against Long COVID in Children.Pediatrics.2024;153(4):e2023064446.doi:10.1542/peds.2023-064446
+
+【麻疹-流行性腮腺炎-风疹（MMR）疫苗】
+美国国家科学院医学研究所（IOM）和美国儿科学会（AAP）均未发现疫苗与自闭症谱系障碍之间存在关联（1、2）。
+1998年，当《柳叶刀》发表的一份报告假设MMR疫苗中的麻疹病毒与自闭症谱系障碍之间存在联系并受到全球媒体的广泛关注时，引发了担忧；因此，许多家长开始怀疑MMR疫苗的安全性。该报告于2010年被撤稿（3），第一作者被英国医学注册处除名，并附有关于故意伪造研究的声明。
+最初报告称12名接种麻腮风疫苗的儿童中有8名出现自闭症谱系障碍，且自闭症患儿肠道活检样本中麻疹病毒检出率更高；需要注意的是该结论已被正式撤销。后续研究数据均未支持麻腮风疫苗与自闭症谱系障碍的关联性。
+众多研究者对麻腮风疫苗与自闭症谱系障碍的潜在关联进行了深入探讨。在对 13 项大型流行病学研究的审查中，所有纳入的研究均未能支持 MMR 疫苗与自闭症谱系障碍之间的关联（4）。许多这类研究表明，MMR疫苗接种的国家趋势与自闭症谱系障碍诊断的国家趋势没有直接关联。例如，在1988年至1999年期间的英国，麻疹-腮腺炎-风疹联合疫苗的接种率并未发生变化但孤独症谱系障碍的发病率上升。
+其他研究比较了接种与未接种MMR疫苗的个体儿童患自闭症谱系障碍的风险。在这些研究中最大规模且最有说服力的一项中，评估了537,303名1991年至1998年间出生的丹麦儿童，其中82%接种了MMR疫苗（5）。在控制了可能的混杂因素后，他们发现接种疫苗和未接种疫苗的儿童在自闭症谱系障碍的相对风险方面没有差异。自闭症谱系障碍的总体发生率在疫苗接种组为440,655中608例（0.138%），在未接种疫苗组为96,648中130例（0.135%）。一项针对1999年至2010年出生于丹麦的所有儿童的随访研究（共657,461名参与者）得出结论，MMR疫苗不会导致自闭症谱系障碍（危险比为0.93 [95％CI，0.85-1.02]），也不会增加有自闭症谱系障碍家族史或其他自闭症风险因素的儿童罹患自闭症的风险（6）。世界各地的其他基于人群的研究也得出了类似的结论。
+一项涵盖120万儿童的10项研究荟萃分析显示，疫苗及其成分（包括麻腮风疫苗和硫柳汞）与自闭症/自闭症谱系障碍发病无显著关联(7)。在自闭症谱系障碍儿童中，麻疹病毒的检出率并未高于非自闭症谱系障碍儿童。
+尽管有压倒性的证据支持MMR疫苗的安全性，以及故意伪造的研究被揭穿，许多家长仍对同意接种该疫苗犹豫不决。结果，2019年美国经历了自1992年以来最大的麻疹疫情。根据疾病预防控制中心（CDC）的数据，大多数感染者未接种疫苗(8)。
+
+【MMR疫苗参考文献】
+1.Institute of Medicine (US) Immunization Safety Review Committee. Immunization Safety Review: Vaccines and Autism.Washington (DC): National Academies Press (US); 2004.
+1.Institute of Medicine (US) Immunization Safety Review Committee. Immunization Safety Review: Vaccines and Autism.Washington (DC): National Academies Press (US); 2004.
+2.American Academy of Pediatrics: Vaccines—Autism Toolkit. Pediatric Patient Education 2021.doi:10.1542/peo_document599
+2.American Academy of Pediatrics: Vaccines—Autism Toolkit. Pediatric Patient Education 2021.doi:10.1542/peo_document599
+3.Eggertson L:Lancetretracts 12-year-old article linking autism to MMR vaccines.CMAJ182(4):E199-E200, 2010.doi: 10.1503/cmaj.109-3179
+3.Eggertson L:Lancetretracts 12-year-old article linking autism to MMR vaccines.CMAJ182(4):E199-E200, 2010.doi: 10.1503/cmaj.109-3179
+4.Gerber JS, Offit PA: Vaccines and autism: A tale of shifting hypotheses.Clin Infect Dis48(4):456-461, 2009.doi: 10.1086/596476
+4.Gerber JS, Offit PA: Vaccines and autism: A tale of shifting hypotheses.Clin Infect Dis48(4):456-461, 2009.doi: 10.1086/596476
+5.Madsen KM, Hviid A, Vestergaard M, et al: A population-based study of measles, mumps, and rubella vaccination and autism.N Engl J Med347(19):1477-1482, 2002.doi: 10.1056/NEJMoa021134
+5.Madsen KM, Hviid A, Vestergaard M, et al: A population-based study of measles, mumps, and rubella vaccination and autism.N Engl J Med347(19):1477-1482, 2002.doi: 10.1056/NEJMoa021134
+6.Hviid A, Hansen JV, Frisch M, Melbye M: Measles, mumps, rubella vaccination and autism: A nationwide cohort study.Ann Intern Med170(8):513-520, 2019.doi: 10.7326/M18-2101
+6.Hviid A, Hansen JV, Frisch M, Melbye M: Measles, mumps, rubella vaccination and autism: A nationwide cohort study.Ann Intern Med170(8):513-520, 2019.doi: 10.7326/M18-2101
+7.Taylor LE, Swerdfeger AL, Eslick GD.Vaccines are not associated with autism: an evidence-based meta-analysis of case-control and cohort studies.Vaccine.2014;32(29):3623-3629.doi:10.1016/j.vaccine.2014.04.085
+7.Taylor LE, Swerdfeger AL, Eslick GD.Vaccines are not associated with autism: an evidence-based meta-analysis of case-control and cohort studies.Vaccine.2014;32(29):3623-3629.doi:10.1016/j.vaccine.2014.04.085
+8.Patel M, Lee AD, Clemons NS, et al: National update on measles cases and outbreaks—United States, January 1–October 1, 2019.MMWR68(40);893–896.doi: 10.15585/mmwr.mm6840e2
+8.Patel M, Lee AD, Clemons NS, et al: National update on measles cases and outbreaks—United States, January 1–October 1, 2019.MMWR68(40);893–896.doi: 10.15585/mmwr.mm6840e2
+
+【局部抗菌剂】
+硫柳汞是一种汞化合物，既往作为一种防腐剂用于许多多剂量疫苗瓶中；单剂量瓶不需要防腐剂，也不能用于活病毒疫苗。 硫柳汞在体内被代谢为乙基汞，通过胃肠道迅速从体内排除。由于环境中的甲基汞（其化学性质不同，且不会迅速从体内清除）对人体有毒，人们担心疫苗中使用的极微量硫柳汞可能会导致神经系统问题，尤其是儿童的自闭症谱系障碍。 由于这些理论上的担忧，尽管没有研究证据表明硫柳汞有害，但到2001年为止，美国，欧洲和其他几个国家均从儿童常规疫苗中去除了硫柳汞。 然而，在这些国家，少量硫柳汞继续用于某些流感疫苗和其他几种拟用于成人的疫苗中。有关疫苗中硫柳汞含量较低的疫苗的信息，请参阅美国食品药品监督管理局（FDA）：硫柳汞和疫苗。硫柳汞也用于许多资源匮乏国家的疫苗中；世界卫生组织（WHO）并未建议去除硫柳汞，因为没有临床证据表明其具有毒性。
+尽管硫柳汞已被移除，但自闭症谱系障碍的发病率仍在持续增加，这强烈表明疫苗中的硫柳汞不会导致自闭症谱系障碍。此外，两项独立的疫苗安全数据链研究得出结论，硫柳汞与自闭症谱系障碍之间没有关联。在第一项研究中，一项对来自3个管理式医疗组织（MCOs）的124170名儿童进行的队列研究发现，硫柳汞与自闭症谱系障碍或其他发育状况之间未发现关联，但硫柳汞与某些语言障碍之间存在不一致的关联（即在一个管理式医疗组织中发现，在另一个中未发现）（1）。在第二项研究中，一项涉及1000名儿童的案例对照研究（其中256名患有自闭症谱系障碍，752名为无自闭症谱系障碍的匹配对照组），未发现硫柳汞暴露与自闭症谱系障碍之间的关联（2）。12项研究的系统评价表明，现有证据不支持含硫柳汞疫苗与自闭症谱系障碍之间存在关联(3)。
+如果父母还是担心流感疫苗中的硫柳汞，卫生保健专业人员可以使用单剂量小瓶注射疫苗或鼻喷减毒活疫苗；这两种疫苗都不含硫柳汞。
+
+【硫柳汞参考文献】
+1.Verstraeten T, Davis RL, DeStefano F, et al.Safety of thimerosal-containing vaccines: A two-phased study of computerized health maintenance organization databases [published correction appears inPediatrics. 2004 Jan;113(1):184].Pediatrics.2003;112:1039-1048.
+1.Verstraeten T, Davis RL, DeStefano F, et al.Safety of thimerosal-containing vaccines: A two-phased study of computerized health maintenance organization databases [published correction appears inPediatrics. 2004 Jan;113(1):184].Pediatrics.2003;112:1039-1048.
+2.Price CS, Thompson WW, Goodson B, et al.Prenatal and infant exposure to thimerosal from vaccines and immunoglobulins and risk of autism.Pediatrics.2010;126(4):656-664.doi:10.1542/peds.2010-0309
+2.Price CS, Thompson WW, Goodson B, et al.Prenatal and infant exposure to thimerosal from vaccines and immunoglobulins and risk of autism.Pediatrics.2010;126(4):656-664.doi:10.1542/peds.2010-0309
+3.Parker SK, Schwartz B, Todd J, Pickering LK.Thimerosal-containing vaccines and autistic spectrum disorder: a critical review of published original data [published correction appears inPediatrics. 2005 Jan;115(1):200. doi: 10.1542/peds.2004-2402].Pediatrics.2004;114(3):793-804.doi:10.1542/peds.2004-0434
+3.Parker SK, Schwartz B, Todd J, Pickering LK.Thimerosal-containing vaccines and autistic spectrum disorder: a critical review of published original data [published correction appears inPediatrics. 2005 Jan;115(1):200. doi: 10.1542/peds.2004-2402].Pediatrics.2004;114(3):793-804.doi:10.1542/peds.2004-0434
+
+【同时接种多种疫苗】
+儿童多联疫苗接种的安全性争议引发公众的广泛讨论。20世纪90年代末的一项全国代表性调查显示，23%的家长认为孩子接种的疫苗超过应接种量（1）。从那时起，免疫接种计划中增加了更多的疫苗，目前建议孩子6岁前接种多剂次疫苗以对抗10种或以上的感染（见CDC: Child and Adolescent Immunization Schedule by Age）。为了尽量减少注射和就诊次数，临床医生给予许多疫苗的组合产品（如白喉-破伤风-百日咳、麻疹-腮腺炎-风疹）。 然而，一些家长已经开始关注儿童的（特别是婴儿）免疫系统不能处理多个同时出现的抗原。 这种担忧导致一些家长要求采用替代免疫接种计划，这些计划会延迟甚至有时完全排除某些疫苗。2011年一项全国代表性调查发现，13%的家长使用这样的接种计划（2）。
+
+【经验与提示】
+经验与提示
+尽管对同时接种多种疫苗存在担忧，但与儿童日常环境中接触的抗原数量相比，这些疫苗所含抗原的暴露量微不足道。
+尽管对同时接种多种疫苗存在担忧，但与儿童日常环境中接触的抗原数量相比，这些疫苗所含抗原的暴露量微不足道。
+使用替代的接种计划是存在风险的，并且缺乏科学的根据。 推荐的接种计划旨在当儿童最易感时保护他们免受疾病侵害。 延迟接种会增加儿童罹患这些疾病风险的时间。 此外，尽管一些家长可能仅打算推迟接种时间，但替代性免疫接种程序通常需增加就诊次数，从而导致依从性降低，进而增加儿童最终未能完成全程疫苗接种的风险。关于免疫挑战，应告知父母，与在日常生活中遇到的抗原相比，疫苗中所含有的抗原的数量和种类是微乎其微的。甚至在出生时，婴儿的免疫系统就已做好准备，以应对其在分娩过程中以及与（非无菌的）母亲接触时所遇到的数百种抗原。 典型的单一微生物感染，会刺激机体对该微生物多种抗原的免疫反应（典型的上呼吸道感染可能有4~10种抗原）。  此外，由于当前的疫苗含有较少的抗原（即，这是因为关键抗原得到了更好的鉴别和纯化），今日的儿童所接触的疫苗抗原，比之20世纪大部分时间的儿童所接触的疫苗抗原要少。 利用来自疫苗安全数据链（VSD）的数据，一项研究比较了按推荐时间表接种所有疫苗的儿童与未接种的儿童在神经发育结局方面的差异(3)。在42项测试的结果中，延迟接种组的儿童在任何一项上都没有表现得更好。这些结果可能使那些担心儿童接受过度、过快疫苗接种的父母消除顾虑。
+综上所述，替代疫苗接种计划没有循证依据，并增加了儿童罹患传染病的风险。更为重要的是，它们并无优势。遵循推荐的疫苗接种计划仍然是目前确保儿童对疫苗可预防疾病免疫的最佳做法。
+
+【多个同时接种的疫苗参考】
+1.Gellin BG, Maibach EW, Marcuse EK.Do parents understand immunizations?A national telephone survey.Pediatrics.2000;106(5):1097-1102.doi:10.1542/peds.106.5.1097
+1.Gellin BG, Maibach EW, Marcuse EK.Do parents understand immunizations?A national telephone survey.Pediatrics.2000;106(5):1097-1102.doi:10.1542/peds.106.5.1097
+2.Dempsey AF, Schaffer S, Singer D, et al: Alternative vaccination schedule preferences among parents of young children.Pediatrics128(5):848-856, 2011.doi:10.1542/peds.2011-0400
+2.Dempsey AF, Schaffer S, Singer D, et al: Alternative vaccination schedule preferences among parents of young children.Pediatrics128(5):848-856, 2011.doi:10.1542/peds.2011-0400
+3.Smith MJ, Woods CR: On-time vaccine receipt in the first year does not adversely affect neuropsychologic outcomes.Pediatrics125(6)1134-1141, 2010.doi:10.1542/peds.2009-2489
+3.Smith MJ, Woods CR: On-time vaccine receipt in the first year does not adversely affect neuropsychologic outcomes.Pediatrics125(6)1134-1141, 2010.doi:10.1542/peds.2009-2489

@@ -1,0 +1,95 @@
+标题：Brugada综合征
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/brugada-syndrome
+============================================================
+
+（参见心律失常概述和离子通道病概述。)
+总体而言，Brugada 综合征的发病率约为万分之五（1），但因种族不同，因而因地理区域不同而存在很大差异，最高的是东南亚（万分之三十七）、中东（万分之十八）和亚洲其他地区（万分之十七），而欧洲（万分之一）和北美（万分之零点五）的发病率要低得多（1）。临床上表现为Brugada综合征的大多数患者是男性 (85%) (1)。
+
+【参考文献】
+1.Vutthikraivit W, Rattanawong P, Putthapiban P, et al: Worldwide Prevalence of Brugada Syndrome: A Systematic Review and Meta-Analysis.Acta Cardiol Sin34(3):267–277, 2018.doi: 0.6515/ACS.201805_34(3).20180302B
+1.Vutthikraivit W, Rattanawong P, Putthapiban P, et al: Worldwide Prevalence of Brugada Syndrome: A Systematic Review and Meta-Analysis.Acta Cardiol Sin34(3):267–277, 2018.doi: 0.6515/ACS.201805_34(3).20180302B
+
+【Brugada综合征的病理生理学】
+Brugada 综合征由以下突变引起
+减少向内的钠或钙电流或
+减少向内的钠或钙电流或
+增加早期外向钾电流
+增加早期外向钾电流
+这些异常导致动作电位高原的早期丧失，特别是在右心室流出道的心外膜细胞中，这些细胞产生特征性的右前胸导联心电图变化和室性心动过速的倾向。尽管已经报道了不同的突变，但大多数在SCN5A基因中，产生内向钠电流的功能丧失 (1)。
+通常情况下，患者无结构性心脏疾病。尽管如此，与其他遗传性和获得性结构性心脏病的关系越来越受到重视，长 QT 综合征 3 型、早期复极综合征和致心律失常性右室心肌病（ARVC）的重叠综合征也是如此。
+
+【病理生理学参考文献】
+1.Antzelevitch C, Yan GX, Ackerman MJ, et al: J-Wave syndromes expert consensus conference report: Emerging concepts and gaps in knowledge.Heart Rhythm13(10):e295–324, 2016.doi: 10.1016/j.hrthm.2016.05.024
+1.Antzelevitch C, Yan GX, Ackerman MJ, et al: J-Wave syndromes expert consensus conference report: Emerging concepts and gaps in knowledge.Heart Rhythm13(10):e295–324, 2016.doi: 10.1016/j.hrthm.2016.05.024
+
+【Brugada综合征的症状和体征】
+在一些患者中，Brugada综合征无临床表现。然而，在许多患者中可能因多形性室性心动过速和心室颤动导致晕厥或心脏性猝死。室性心律失常可能导致睡眠期间猝死。约有 10% 的患者会出现房性心动过速，主要心房颤动（1），有的甚至出现心房颤动（2）。
+此类事件好发于夜间，而且通常与运动无关。发热或使用某些药物（包括钠通道阻滞剂、β受体阻滞剂、某些抗抑郁药和抗精神病药、锂、酒精和可卡因）也可能诱发疾病 (3)。
+
+【症状和体征参考】
+1.Giustetto C, Cerrato N, Gribaudo E, et al: Atrial fibrillation in a large population with Brugada electrocardiographic pattern: prevalence, management, and correlation with prognosis.Heart Rhythm11(2):259–265, 2014.doi: 10.1016/j.hrthm.2013.10.043
+1.Giustetto C, Cerrato N, Gribaudo E, et al: Atrial fibrillation in a large population with Brugada electrocardiographic pattern: prevalence, management, and correlation with prognosis.Heart Rhythm11(2):259–265, 2014.doi: 10.1016/j.hrthm.2013.10.043
+2.Rodríguez-Mañero M, Namdar M, Sarkozy A, et al: Prevalence, clinical characteristics and management of atrial fibrillation in patients with Brugada syndrome.Am J Cardiol111(3):362–367, 2013.doi:10.1016/j.amjcard.2012.10.012
+2.Rodríguez-Mañero M, Namdar M, Sarkozy A, et al: Prevalence, clinical characteristics and management of atrial fibrillation in patients with Brugada syndrome.Am J Cardiol111(3):362–367, 2013.doi:10.1016/j.amjcard.2012.10.012
+3.Antzelevitch C, Yan GX, Ackerman MJ, et al: J-Wave syndromes expert consensus conference report: Emerging concepts and gaps in knowledge.Heart Rhythm13(10):e295–324, 2016.doi: 10.1016/j.hrthm.2016.05.024
+3.Antzelevitch C, Yan GX, Ackerman MJ, et al: J-Wave syndromes expert consensus conference report: Emerging concepts and gaps in knowledge.Heart Rhythm13(10):e295–324, 2016.doi: 10.1016/j.hrthm.2016.05.024
+
+【Brugada 综合征的诊断】
+心电图 （ECG）
+心电图 （ECG）
+诱发特征性心电图变化的激发性试验
+诱发特征性心电图变化的激发性试验
+基因检测
+基因检测
+当患者没有结构性心脏病时，应考虑对不明原因的心脏骤停或晕厥或有此类家族史的患者进行诊断。
+Brugada综合征的初步诊断基于一种特征性的心电图模式，即1型Brugada心电图模式（见图1型Brugada心电图模式）。 1型Brugada型ECG表现为V1和V2导联ST段显著抬高（有时还累及V3导联），导致这些导联的QRS复合波群形态类似于右束支传导阻滞。ST段呈穹窿型抬高并延续至倒置的T波。根据上海Brugada综合征评分标准，只有自发出现的1型心电图模式才被认为是Brugada综合征的诊断依据(1）。
+程度较轻的这种改变（2型和3型Brugada心电图模式）不被认为有诊断性。在发热或应用某些药物后，2型和3型模式可能自发转变为1型模式。后者是激发诊断测试的基础，通常使用静脉注射阿义马林、普鲁卡因胺、氟卡尼或吡西卡尼。已经开发出评分来帮助诊断边缘病例中的 Brugada 综合征（1）。在这种情况下，可以考虑诊断为Brugada综合征。需要应用临床、家族史和遗传标准来确立诊断（1）。
+电生理测试的作用目前仍有争议。对于无症状且具有自发性1型Brugada心电图模式的患者，程序性心室刺激仅限于2个额外刺激即可诱发室性心动过速或心室颤动，可获得IIa类指征用于风险分层（2），但不属于上海诊断评分系统（1）。通常推荐进行基因检测，但其成功率约为 20% (3)。
+Brugada综合征的诊断包括考虑和排除产生类似心脏表现的其他疾病，包括体温过低、低钙血症、右束支传导阻滞、致心律失常性右心室心肌病、急性肺栓塞和左前降支或右冠状动脉圆锥支闭塞（1）。
+
+【1型Brugada心电图模式】
+1型Brugada心电图模式
+V1和V2导联J点显著抬高形成穹窿样抬高的ST段，伴随T波倒置。
+
+【诊断参考】
+1.Antzelevitch C, Yan GX, Ackerman MJ, et al: J-Wave syndromes expert consensus conference report: Emerging concepts and gaps in knowledge.Heart Rhythm13(10):e295–324, 2016.doi: 10.1016/j.hrthm.2016.05.024
+1.Antzelevitch C, Yan GX, Ackerman MJ, et al: J-Wave syndromes expert consensus conference report: Emerging concepts and gaps in knowledge.Heart Rhythm13(10):e295–324, 2016.doi: 10.1016/j.hrthm.2016.05.024
+2.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Circulation138(13):e272–e391, 2018.doi: 10.1161/CIR.0000000000000549
+2.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Circulation138(13):e272–e391, 2018.doi: 10.1161/CIR.0000000000000549
+3.Wilde AAM, Semsarian C, Márquez MF, et al: European Heart Rhythm Association (EHRA)/Heart Rhythm Society (HRS)/Asia Pacific Heart Rhythm Society (APHRS)/Latin American Heart Rhythm Society (LAHRS) Expert Consensus Statement on the state of genetic testing for cardiac diseases.J Arrhythm38(4):491–553, 2022.doi: 10.1002/joa3.12717
+3.Wilde AAM, Semsarian C, Márquez MF, et al: European Heart Rhythm Association (EHRA)/Heart Rhythm Society (HRS)/Asia Pacific Heart Rhythm Society (APHRS)/Latin American Heart Rhythm Society (LAHRS) Expert Consensus Statement on the state of genetic testing for cardiac diseases.J Arrhythm38(4):491–553, 2022.doi: 10.1002/joa3.12717
+
+【Brugada 综合征的治疗】
+植入性心脏复律除颤器
+植入性心脏复律除颤器
+对家庭成员进行筛查
+对家庭成员进行筛查
+患有自发性或诱发性1型Brugada综合征心电图模式和近期不明原因晕厥、持续性室性心动过速或心脏骤停的患者通常应该植入植入式心律转复除颤器（ICD）（1）。
+当需要抑制频繁的植入式心律转复除颤器放电时，奎尼丁可能有效，因为它能阻断Brugada综合征中可能增加的瞬时外向钾电流。如果经常复发的心律失常的原因是短暂和可逆的，也可以使用静脉注射异丙肾上腺素 (2)。对于此类治疗无效的患者，可以考虑进行心律失常基质的导管消融（3）。
+根据心电图变化和家族史诊断但没有晕厥或心律失常的患者的Brugada综合征的最佳治疗方法尚不清楚，尽管他们确实增加了猝死的风险。已经开发出评分系统来帮助确定 ICD 是否适合此类患者治疗（4）。
+
+【治疗参考文献】
+1.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Circulation138(13):e272–e391, 2018.doi: 10.1161/CIR.0000000000000549
+1.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Circulation138(13):e272–e391, 2018.doi: 10.1161/CIR.0000000000000549
+2.Brodie OT, Michowitz Y, Belhassen B: Pharmacological Therapy in Brugada Syndrome.Arrhythm Electrophysiol Rev7(2):135–142, 2018.doi: 10.15420/aer.2018.21.2
+2.Brodie OT, Michowitz Y, Belhassen B: Pharmacological Therapy in Brugada Syndrome.Arrhythm Electrophysiol Rev7(2):135–142, 2018.doi: 10.15420/aer.2018.21.2
+3.Antzelevitch C, Yan GX, Ackerman MJ, et al: J-Wave syndromes expert consensus conference report: Emerging concepts and gaps in knowledge.Heart Rhythm13(10):e295–324, 2016.doi: 10.1016/j.hrthm.2016.05.024
+3.Antzelevitch C, Yan GX, Ackerman MJ, et al: J-Wave syndromes expert consensus conference report: Emerging concepts and gaps in knowledge.Heart Rhythm13(10):e295–324, 2016.doi: 10.1016/j.hrthm.2016.05.024
+4.Rattanawong P, Mattanapojanat N, Mead-Harvey C, et al: Predicting arrhythmic event score in Brugada syndrome: Worldwide pooled analysis with internal and external validation.Heart Rhythm20:1358–1367, 2023.doi: 10.1002/joa3.12822
+4.Rattanawong P, Mattanapojanat N, Mead-Harvey C, et al: Predicting arrhythmic event score in Brugada syndrome: Worldwide pooled analysis with internal and external validation.Heart Rhythm20:1358–1367, 2023.doi: 10.1002/joa3.12822
+
+【Brugada 综合征心律失常的预防】
+重要的是要避免可能引发心律失常的因素。患者应在感染性疾病期间监测体温，并对发烧进行退烧治疗。在可能的情况下，临床医生应该停止任何易感药物，并开具替代药物。患者应避免使用某些物质，特别是可卡因和过量饮酒，这些物质可能引发Brugada综合征患者的心律失常（有关最新列表，请访问Brugada综合征禁忌药物网站）。
+Brugada综合征是一种遗传性疾病，会导致特征性心电图变化，并增加室性心律失常导致晕厥的风险，有时在相对年轻的年龄会导致心源性猝死。
+Brugada综合征是一种遗传性疾病，会导致特征性心电图变化，并增加室性心律失常导致晕厥的风险，有时在相对年轻的年龄会导致心源性猝死。
+症状性心律失常的危险因素包括发烧和多种药物及其他物质（如酒精、可卡因）。
+症状性心律失常的危险因素包括发烧和多种药物及其他物质（如酒精、可卡因）。
+诊断通过心电图，有时进行激发试验。
+诊断通过心电图，有时进行激发试验。
+可能需要植入式心律转复除颤器。
+可能需要植入式心律转复除颤器。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Brugada综合征禁忌药物网站: 旨在提供关于Brugada综合征安全用药的最新信息。
+Brugada综合征禁忌药物网站: 旨在提供关于Brugada综合征安全用药的最新信息。

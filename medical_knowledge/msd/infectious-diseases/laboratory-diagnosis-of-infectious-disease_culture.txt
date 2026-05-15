@@ -1,0 +1,78 @@
+标题：培养
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/laboratory-diagnosis-of-infectious-disease/culture
+============================================================
+
+培养是指微生物在一种有营养的固体或液体培养基上面或里面生长，使得微生物的数量增加从而更利于鉴定。培养也可以更加容易进行抗微生物制剂敏感性试验。
+临床和实验室进行交流是必要的。虽然大多数标本都接种于普通培养基上（如血琼脂或巧克力琼脂），但是一些病原菌的培养需要含特殊营养成分和抑制剂（见表分离普通细菌的选择培养基）或需要其他特殊的孵育条件（如特定的温度、氧气或二氧化碳浓度或持续时间）。如果怀疑是其中一种对营养要求较高的病原体，或者患者一直在服用抗菌药物，则应告知实验室。告知实验室标本的来源有利于实验室根据特殊部位常见的菌群区分病原菌。
+
+【分离常见细菌所选用的培养基】
+分离常见细菌所选用的培养基
+首选培养基
+Bacteroides杆菌属
+卡那霉素-万古霉素血琼脂
+Bacteroides fragilis
+拟杆菌属七叶苷（含有庆大霉素和胆汁）
+百日咳博德特氏菌
+博代-让古琼脂加甲氧西林或头孢氨苄
+Regan-Lowe头孢氨苄琼脂
+马血–木炭琼脂
+Burkholderia cepacia洋葱伯克霍尔德菌
+Burkholderia cepacia（洋葱伯克霍尔德菌）琼脂
+空肠弯曲菌或大肠弯曲菌C. coli
+Campylobacter（弯曲杆菌）选择性琼脂类（如，头孢哌酮-万古霉素琼脂）
+Corynebacterium diphtheriae白喉棒状杆菌
+Tinsdale琼脂
+胱氨酸-亚碲酸盐血琼脂
+吕弗勒凝结血清法
+大肠埃希菌或肠出血性病原菌（志贺毒素产生菌，包括O157:H7）
+麦康凯山梨醇琼脂
+Francisella tularensis兔拉弗朗西丝菌
+血胱氨酸琼脂或巧克力胱氨酸琼脂
+军团菌属
+缓冲炭酵母提取物琼脂
+Leptospira钩体属
+含有兔血清的Fletcher或Stuart培养基，或含有牛血清白蛋白-吐温80的Leptospira（钩端螺旋体）培养基。
+结核分枝杆菌
+罗氏琼脂
+淋病奈瑟菌或脑膜炎奈瑟菌
+改良的Thayer-Martin琼脂
+New York City琼脂
+Salmonella和Shigella属
+可生长在标准的麦康基或伊红-美蓝培养基上。
+可选择：赫克托恩琼脂或木糖-赖氨酸-脱氧胆酸盐琼脂，Salmonella-Shigella（沙门氏菌 - 志贺氏菌）琼脂，革兰阴性或富含亚硒酸盐的肉汤
+硫代硫酸盐-柠檬酸盐-胆汁盐蔗糖琼脂
+耶尔森氏菌属
+Cefsulodin-三氯生-新生霉素琼脂
+
+【标本采集】
+标本的采集非常重要。在感染性疾病的诊断中，在感染部位采集标本是主要原则。对于皮肤病变，应该对前缘进行采样，而不是中心进行采样。
+不推荐使用拭子。但若需使用拭子，植绒拭子更优，因其可获取更多标本。用于分子学检测方法的拭子必须与它们所用的特定检测方法相匹配。选择错误类型的拭子可产生假阴性。木制杆状拭子对某些病毒有害。棉签对于包括衣原体在内的一些细菌是有毒的。
+血培养需进行皮肤去污消毒（例如用含70%异丙醇的溶液联合氯己定葡萄糖酸盐和/或碘酊擦拭皮肤）（1）。常常需要从多个不同的部位留取多份样本，如果可能应该在发热达到高峰时留取标本。仅仅在一份血样本中有皮肤常见菌群生长说明是污染造成的。不幸的是，血液培养经常被污染，这可能对患者造成负面影响，并带来大量成本（2）。
+如果从中心静脉导管获得血液样本，则还应获得外周血样本，以帮助区分全身性菌血症和导管感染。来自感染导管中的标本培养结果与同时来自外周血管的血标本培养结果相比较，通常阳性结果出现较快，并且包含有较多种微生物。 部分真菌，特别是霉菌（如Aspergillus类），通常不能通过血培养获得。
+所有标本必须迅速运输，使用正确的培养基，并在限制任何可能污染的正常菌群生长的条件下。为了精确定量病原体，必须防止病原体进一步生长；标本应立即送至实验室，或如果运输延迟，应冷藏保存（大多数情况下）。
+
+【参考文献】
+1.CLSI.Principles and Procedures for Blood Cultures.2nd ed.CLSI guideline M47.Clinical and Laboratory Standards Institute; 2022.
+1.CLSI.Principles and Procedures for Blood Cultures.2nd ed.CLSI guideline M47.Clinical and Laboratory Standards Institute; 2022.
+2.Doern GV, Carroll KC, Diekema DJ, et al.Practical Guidance for Clinical Microbiology Laboratories: A Comprehensive Update on the Problem of Blood Culture Contamination and a Discussion of Methods for Addressing the Problem.Clin Microbiol Rev.2019;33(1):e00009-19.Published 2019 Oct 30.doi:10.1128/CMR.00009-19
+2.Doern GV, Carroll KC, Diekema DJ, et al.Practical Guidance for Clinical Microbiology Laboratories: A Comprehensive Update on the Problem of Blood Culture Contamination and a Discussion of Methods for Addressing the Problem.Clin Microbiol Rev.2019;33(1):e00009-19.Published 2019 Oct 30.doi:10.1128/CMR.00009-19
+
+【培养的特殊注意事项】
+某些病原培养需要特殊的条件。
+厌氧菌不应该从正常菌群的部位留取样本进行培养，因为不可能做到从正常菌群中区分出病原菌。样本必须隔绝空气，做到该点颇为困难。
+对于拭子样本，可提供厌氧转运培养基。 然而，对于厌氧菌的培养，液体标本（如脓肿内容物）优于拭子标本。液体标本需用排尽空气的注射器采集（最大限度减少接触氧气），并连同注射器（去针头后加盖）或转入厌氧运输瓶送检。
+
+【分枝杆菌】
+分枝杆菌属难以培养。 含有正常菌群的样本必须首先进行去污和浓缩。
+Mycobacterium tuberculosis（结核分枝杆菌）和一些其他分枝杆菌生长缓慢。M. tuberculosis（结核分枝杆菌）通常在液体培养基中比在固体培养基中生长更快；常规使用液体培养基自动化系统可在 2 周内实现生长，而在 Lowenstein-Jensen 琼脂等固体培养基上则需要≥4 周。此外，在样本中可能只含有极微量的微生物。同一部位留取多份样本有助于最大限度获得阳性结果。在将标本丢弃前应该给予8周时间进行培养。M. ulcerans（结核分枝杆菌）导致布鲁里溃疡的分枝杆菌需要在32°C的Lowenstein-Jensen琼脂上培养长达12周。
+若怀疑为非常见的分枝杆菌，事先应该告知实验室。
+病毒通常从拭子和组织样本中培养。标本通常置于含抗菌和抗真菌剂的培养基中运输。
+将标本接种于组织培养物上，该培养物支持可疑的病毒生长而抑制所有其他微生物生长。高度不稳定（如水痘带状疱疹）的病毒应在采集后1小时内接种于组织培养物上。标准的组织培养是最敏感的。贝壳瓶培养技术（标本在小瓶内离心到单层细胞上）提供了更快的结果（2天对比7~14天）。
+部分常见病毒无法通过常规培养法检测，需采用其他诊断方法。此外，许多临床实验室已不再开展病毒培养。基于核酸的检测方法已取代病毒培养用于大多数常见病毒（某些病毒病原体的诊断试验），如下所示：
+酶免疫测定用于检测EB 病毒、乙型肝炎病毒、戊型肝炎病毒、艾滋病毒和人 T 淋巴细胞病毒
+酶免疫测定用于检测EB 病毒、乙型肝炎病毒、戊型肝炎病毒、艾滋病毒和人 T 淋巴细胞病毒
+甲型肝炎病毒和丁型肝炎病毒的血清学检测
+甲型肝炎病毒和丁型肝炎病毒的血清学检测
+基于核酸的方法检测艾滋病病毒、流感、呼吸道合胞病毒 (RSV)、SARS-CoV-2
+基于核酸的方法检测艾滋病病毒、流感、呼吸道合胞病毒 (RSV)、SARS-CoV-2
+从非无菌部位获取的真菌样本必须接种于含抗细菌剂的培养基上。在被视为阴性并丢弃之前，应允许样本生长3至4周。

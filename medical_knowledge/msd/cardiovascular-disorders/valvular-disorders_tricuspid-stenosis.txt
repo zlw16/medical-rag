@@ -1,0 +1,51 @@
+标题：三尖瓣狭窄
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/valvular-disorders/tricuspid-stenosis
+============================================================
+
+(参见心脏瓣膜疾病概述。)
+三尖瓣狭窄几乎总是由风湿热引起；三尖瓣反流通常也同时存在，风湿性二尖瓣病变（通常为二尖瓣狭窄）亦常见。
+三尖瓣狭窄罕见的原因包括系统性红斑狼疮、右心房黏液瘤、先天性畸形、转移性肿瘤。
+右心房出现肥厚和扩张，并发生右心病后遗症——诱发心力衰竭，但无右心室功能不全；右心室仍处于低充盈且腔室偏小的状态。心房颤动不常见。
+
+【三尖瓣狭窄的症状和体征】
+轻度三尖瓣狭窄患者没有任何症状。 重度三尖瓣狭窄唯一的症状是颈部的扑动不适（颈静脉搏动时巨大的a波所致）、乏力和皮温低（心排血量低所致）和右上腹不适（肝脏增大所致）。
+望诊的主要体征是在颈静脉中可见巨大的闪烁性a波，伴有缓慢的y波下降。可能发生颈静脉扩张，随吸气而增强（Kussmaul征）。患者面部可能呈现色泽加深或潮红（肤色较浅者呈紫色、红色或粉红色；肤色较深者则表现为肤色加深），当其取卧位时，头皮静脉可能扩张（淤血征）可能出现肝淤血和外周性水肿。
+柔和的开瓣音
+柔和的开瓣音
+舒张中期隆隆，收缩期前加重
+舒张中期隆隆，收缩期前加重
+听诊时，三尖瓣狭窄常难以闻及，但可能产生柔和的开瓣音和伴有收缩前期增强的舒张中期隆隆样杂音。该杂音在增加静脉回流的操作（如运动、吸气、抬腿、米勒动作【闭合气道强制用力吸气】）时会变得更响亮且持续时间更长，而在减少静脉回流的操作（如站立、乏氏动作）时则变得更柔和且持续时间更短。
+三尖瓣狭窄的表现常与二尖瓣狭窄的表现共存，不如后者明显。临床上可以区分杂音（见表区分三尖瓣狭窄和二尖瓣狭窄的杂音)。
+
+【三尖瓣狭窄的诊断】
+超声心动图
+超声心动图
+根据病史和体格检查，可以初步判断是否存在三尖瓣狭窄，并通过多普勒超声心动图显示三尖瓣压差升高来确诊。二维超声心动图可显示瓣叶增厚伴活动减弱及右心房（RA）扩大。
+重度三尖瓣狭窄特点是：
+跨瓣膜的平均前向梯度 > 5 mm Hg (1,2)
+跨瓣膜的平均前向梯度 > 5 mm Hg (1,2)
+心电图可能显示右心房扩大，且与右心室肥厚不成比例，在下壁导联和V1导联P波高尖。
+胸部Ｘ线可能显示扩张的上腔静脉和由扩大的右心缘提示的右心房扩大。
+因被动性肝淤血导致肝酶升高。
+很少需要通过心导管检查来评估三尖瓣狭窄。 当有指征作心导管检查（如，为了评估冠状动脉解剖病变），其发现包括增高的右心房压力伴有舒张早期的缓慢下降和舒张期跨三尖瓣压力阶差。
+
+【诊断参考】
+1.Otto CM, Nishimura RA, Bonow RO, et al.2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inCirculation2021 Feb 2;143(5):e229. doi: 10.1161/CIR.0000000000000955.] [published correction appears inCirculation2023 Aug 22;148(8):e8. doi: 10.1161/CIR.0000000000001177.] [published correction appears inCirculation2023 Nov 14;148(20):e185. doi: 10.1161/CIR.0000000000001190.] [published correction appears inCirculation2024 Sep 17;150(12):e267. doi: 10.1161/CIR.0000000000001284].Circulation2021;143(5):e72-e227.doi:10.1161/CIR.0000000000000923
+1.Otto CM, Nishimura RA, Bonow RO, et al.2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inCirculation2021 Feb 2;143(5):e229. doi: 10.1161/CIR.0000000000000955.] [published correction appears inCirculation2023 Aug 22;148(8):e8. doi: 10.1161/CIR.0000000000001177.] [published correction appears inCirculation2023 Nov 14;148(20):e185. doi: 10.1161/CIR.0000000000001190.] [published correction appears inCirculation2024 Sep 17;150(12):e267. doi: 10.1161/CIR.0000000000001284].Circulation2021;143(5):e72-e227.doi:10.1161/CIR.0000000000000923
+2.Vahanian A, Beyersdorf F, Praz F, et al: 2021 ESC/EACTS Guidelines for the management of valvular heart disease [published correction appears inEur Heart J2022 Jun 1;43(21):2022. doi: 10.1093/eurheartj/ehac051].Eur Heart J43(7):561–632, 2022.doi:10.1093/eurheartj/ehab395
+2.Vahanian A, Beyersdorf F, Praz F, et al: 2021 ESC/EACTS Guidelines for the management of valvular heart disease [published correction appears inEur Heart J2022 Jun 1;43(21):2022. doi: 10.1093/eurheartj/ehac051].Eur Heart J43(7):561–632, 2022.doi:10.1093/eurheartj/ehab395
+
+【三尖瓣狭窄的治疗】
+利尿剂及醛固酮拮抗剂
+利尿剂及醛固酮拮抗剂
+罕有需要行瓣膜修复或置换
+罕有需要行瓣膜修复或置换
+指导治疗三尖瓣狭窄的证据很少。有症状但未接受瓣膜置换或修复的患者应接受低盐饮食、利尿剂和醛固酮拮抗剂。
+重度三尖瓣狭窄患者若有症状或因其他原因需行心脏手术，则应进行干预。
+对于无法接受手术修复的重度三尖瓣狭窄患者，可以考虑经皮球囊三尖瓣交界分离术，但前提是不伴有三尖瓣反流。
+三尖瓣狭窄几乎总是由于风湿热引起；通常还会同时存在三尖瓣反流和二尖瓣狭窄。
+三尖瓣狭窄几乎总是由于风湿热引起；通常还会同时存在三尖瓣反流和二尖瓣狭窄。
+心音包括柔和的开放拍击音和伴有收缩前期增强的舒张中期隆隆样杂音；通过增加静脉回流的动作（如运动、吸气、抬腿）杂音会变得更响、更长，通过减少静脉回流的动作（站立、瓦尔萨尔瓦动作）杂音会变得更柔和、更短。
+心音包括柔和的开放拍击音和伴有收缩前期增强的舒张中期隆隆样杂音；通过增加静脉回流的动作（如运动、吸气、抬腿）杂音会变得更响、更长，通过减少静脉回流的动作（站立、瓦尔萨尔瓦动作）杂音会变得更柔和、更短。
+治疗包括使用利尿剂和醛固酮拮抗剂；很少需要手术修复或置换。
+治疗包括使用利尿剂和醛固酮拮抗剂；很少需要手术修复或置换。

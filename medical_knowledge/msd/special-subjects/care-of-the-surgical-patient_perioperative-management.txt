@@ -1,0 +1,88 @@
+标题：围术期管理
+来源：https://www.msdmanuals.cn/professional/special-subjects/care-of-the-surgical-patient/perioperative-management
+============================================================
+
+围手术期护理是根据个人以及常规的建议，旨在预防围手术期并发症并优化治疗结果。如果可行的话，计划和准备会在非紧急手术前的几周或几天内完成，并根据计划的手术、手术指征、病史、药物和患者偏好为每位患者采取适当的措施。
+已经制定并验证了术后加速康复外科 (ERAS) 协议，目的是标准化围手术期护理并改善各种外科专科的整体手术结果（见术后加速康复外科（ERAS）协会）。
+
+【术前用药和合并症管理】
+患有慢性疾病的患者，尤其是心血管疾病、肺疾病或肾疾病的患者可能需要进行管理以准备手术。此外，许多药物可能与麻醉剂相互作用或在手术期间或手术后产生不良影响。通常，麻醉医师需了解患者的日常用药并决定哪些药物将在手术当日早晨照常服用。
+
+【抗凝、抗血小板药物】
+对于接受择期手术且血栓栓塞风险较低至中等的患者，应在手术前至少 48 小时停止抗凝治疗，并在手术后 12 至 24 小时内恢复治疗。对于血栓栓塞风险高的患者，例如植入冠状动脉支架或机械心脏瓣膜的患者，因血栓死亡的风险可能超过手术出血的风险。停止抗凝治疗的决定应个体化并由多学科团队参与。对于置入支架的患者，需要考虑的因素包括支架的类型（裸支架或药物洗脱支架）、放置后的时间、手术类型以及是否可以推迟选择性手术直到风险增加的时期过去(1)。
+在大多数情况下，抗血小板药物（如阿司匹林）在手术前 5 至 7 天停用。 对于直接口服抗凝剂（DOAC），停药和恢复用药的时间应根据药物的半衰期和肾功能决定；过渡治疗（给予短效抗凝剂，如低分子量肝素，直到 DOAC 的抗凝作用具有治疗作用）一般不推荐，因为这些药物的半衰期较短，且缺乏特异性的逆转剂（2）。
+对于出血风险较低的患者，应在择期手术前停止使用达比加群，并可在 24 至 48 小时内恢复使用，但对于高风险手术或患者，应在稍后（通常是术后 3 至 5 天）恢复使用（3）。如有必要，可以使用伊达赛珠单抗逆转达比加群的作用，伊达赛珠单抗是一种与达比加群结合并迅速中和其抗凝作用的单克隆抗体片段（4）。其他逆转剂，如凝血酶原复合物浓缩物（PCC）或活化PCC（aPCC），也可有效逆转达比加群的抗凝作用，但其使用尚不明确。
+除某些小手术外，华法林需在术前停药5天；手术时INR（国际标准化比值）应≤1.5。有些患者在停药后，会接受短效抗凝剂（如低分子量肝素）的过渡治疗华法林（5）。对于血栓栓塞风险低至中等的手术患者，不建议常规使用肝素进行桥接治疗。对于血栓栓塞风险较高的患者，例如有静脉血栓栓塞病史或机械心脏瓣膜的患者，应考虑桥接治疗，并应根据患者的个体风险和出血情况进行治疗（6，7）。
+因为华法林需要长达5天的时间达到抗凝治疗作用，因而可以在手术当天或术后一天开始使用，除非存在术后出血的高风险。患者应接受抗凝桥接直到INR达到治疗目标。
+对于接受抗凝治疗的患者，决定使用局部麻醉应根据具体情况进行治疗，同时考虑出血和血栓形成的风险。在服用最后一剂 DOAC 药物后至少 12 小时才可拔除硬膜外导管。
+
+【皮质类固醇】
+对于在过去一年服用每日> 5毫克泼尼松（或其他等效剂量的激素）的患者，可能需要补充糖皮质激素，以帮助防止围手术期应激反应不足。当皮质类固醇治疗的剂量和持续时间未知时，也经常给予经验性应激剂量皮质类固醇覆盖。
+
+【治疗慢性病的其他药物】
+大部分慢性病药物尤其是心血管药物如抗高血压药物的使用必须贯穿围术期。口服药物可以在手术当日以少量的水送服。而某些药物可以经外周静脉应用或延迟至术后使用。应用抗癫痫药物的患者应当在术前监测药物浓度。
+在手术当日，需要使用胰岛素的患者应当在早晨使用1/3剂量的胰岛素。而口服降糖药物的患者应当服用一半剂量的药物。如果可能的话，手术应当在当天的早些时候进行。麻醉师在术中需要监测血糖，必要时按需给予胰岛素或葡萄糖。在围术期应当严格的检测指尖血糖。术后很短的时间内，胰岛素剂量按需调整。通常在家里的胰岛素治疗方案不应重新启动，直到患者恢复他们的正常饮食。患者出院后，通常会重新开始口服降糖药。
+已知存在冠心病或心脏衰竭患者应由其心脏病医师进行术前评估和风险分层。如果患者没有进行医学优化，应该在择期手术前进行进一步检测。
+
+【肺部感染】
+肺功能检查以发现阻塞性或限制性肺疾病 应通过仔细调整吸入器、其他药物和气道清除技术的使用和剂量来优化肺功能。
+
+【药物滥用】
+应该被告知在行胸腹部手术前尽早戒烟。数周内避免烟草的刺激有助于支气管纤毛的恢复。手术前后应当使用激发吸气测量计。
+对于频繁或大量使用大麻素的患者，美国区域麻醉和疼痛医学协会指南建议就围手术期继续使用大麻的潜在风险（例如，术后恶心呕吐和心肌梗死增加）进行咨询，对于因急性大麻中毒导致精神状态改变或决策能力受损的患者，应推迟择期手术，并在吸食或摄入大麻后至少 2 小时内推迟非紧急手术，因为心肌梗死的风险增加（8）。
+对违禁药物或酒精有依赖的患者在围手术期可能会经历戒断。患者酒精使用障碍从入院时起应预防性使用苯二氮卓类药物（如氯氮卓、地西泮、劳拉西泮）。患有阿片类药物使用障碍的患者可能会给予阿片类镇痛药以防止戒断；为了缓解疼痛，他们可能需要比未成瘾患者更大的剂量。很少有阿片类药物使用障碍患者需要服用美沙酮来预防围手术期戒断症状。
+
+【参考文献】
+1.Fleisher LA, Fleischmann KE, Auerbach AD, et al: 2014 ACC/AHA guideline on perioperative cardiovascular evaluation and management of patients undergoing noncardiac surgery: A report of the American College of Cardiology/American Heart Association Task Force on practice guidelines.J Am Coll Cardiol64(22):e77-e137, 2014.doi:10.1016/j.jacc.2014.07.944
+1.Fleisher LA, Fleischmann KE, Auerbach AD, et al: 2014 ACC/AHA guideline on perioperative cardiovascular evaluation and management of patients undergoing noncardiac surgery: A report of the American College of Cardiology/American Heart Association Task Force on practice guidelines.J Am Coll Cardiol64(22):e77-e137, 2014.doi:10.1016/j.jacc.2014.07.944
+2.Douketis JD, Healey JS, Brueckmann M, et al: Perioperative bridging anticoagulation duringdabigatranorwarfarininterruption among patients who had an elective surgery or procedure.Substudy of the RE-LY trial.Thromb Haemost113(3):625-632, 2015.doi:10.1160/TH14-04-0305
+2.Douketis JD, Healey JS, Brueckmann M, et al: Perioperative bridging anticoagulation duringdabigatranorwarfarininterruption among patients who had an elective surgery or procedure.Substudy of the RE-LY trial.Thromb Haemost113(3):625-632, 2015.doi:10.1160/TH14-04-0305
+3.Schulman S, Carrier M, Lee AY, et al: Perioperative management ofdabigatran: a prospective cohort study.Circulation132(3):167-173, 2015.doi:10.1161/CIRCULATIONAHA.115.015688
+3.Schulman S, Carrier M, Lee AY, et al: Perioperative management ofdabigatran: a prospective cohort study.Circulation132(3):167-173, 2015.doi:10.1161/CIRCULATIONAHA.115.015688
+4.Pollack CV Jr, Reilly PA, van Ryn J, et al:Idarucizumabfordabigatranreversal - full cohort analysis.N Engl J Med377(5):431-441, 2017.doi:10.1056/NEJMoa1707278
+4.Pollack CV Jr, Reilly PA, van Ryn J, et al:Idarucizumabfordabigatranreversal - full cohort analysis.N Engl J Med377(5):431-441, 2017.doi:10.1056/NEJMoa1707278
+5.Keeling D, Baglin T, Tait C, et al: Guidelines on oral anticoagulation withwarfarin- fourth edition.Br J Haematol154(3):311-324, 2011.doi:10.1111/j.1365-2141.2011.08753.x
+5.Keeling D, Baglin T, Tait C, et al: Guidelines on oral anticoagulation withwarfarin- fourth edition.Br J Haematol154(3):311-324, 2011.doi:10.1111/j.1365-2141.2011.08753.x
+6.Kuo HC, Liu FL, Chen JT, et al: Thromboembolic and bleeding risk of periprocedural bridging anticoagulation: A systematic review and meta-analysis.Clin Cardiol43(5):441-449, 2020.doi:10.1002/clc.23336
+6.Kuo HC, Liu FL, Chen JT, et al: Thromboembolic and bleeding risk of periprocedural bridging anticoagulation: A systematic review and meta-analysis.Clin Cardiol43(5):441-449, 2020.doi:10.1002/clc.23336
+7.Douketis JD, Spyropoulos AC, Kaatz S, et al: Perioperative bridging anticoagulation in patients with atrial fibrillation.N Engl J Med373(9):823-833, 2015.doi:10.1056/NEJMoa1501035
+7.Douketis JD, Spyropoulos AC, Kaatz S, et al: Perioperative bridging anticoagulation in patients with atrial fibrillation.N Engl J Med373(9):823-833, 2015.doi:10.1056/NEJMoa1501035
+8.Goel A, McGuinness B, Jivraj NK, et al: Cannabis use disorder and perioperative outcomes in major elective surgeries: a retrospective cohort analysis.Anesthesiology132(4):625-635, 2020.doi:10.1097/ALN.0000000000003067
+8.Goel A, McGuinness B, Jivraj NK, et al: Cannabis use disorder and perioperative outcomes in major elective surgeries: a retrospective cohort analysis.Anesthesiology132(4):625-635, 2020.doi:10.1097/ALN.0000000000003067
+
+【手术当天的准备】
+美国外科护理改进项目（SCIP）是一个实施措施降低围手术期发病率和死亡率的项目。SCIP 指南被采纳并发布在Specifications Manual for Joint Commission National Quality Core Measures（规格手册）。
+SCIP 的一般建议如下：
+确保心脏手术患者术后凌晨6点的血糖水平得到控制。
+确保心脏手术患者术后凌晨6点的血糖水平得到控制。
+使用裁切机或脱毛的方法，而不是一个刀片，对外科手术部位进行手术前毛发移除。
+使用裁切机或脱毛的方法，而不是一个刀片，对外科手术部位进行手术前毛发移除。
+除了某些特定临床情况外，一般在术后2天内拔除导尿管。
+除了某些特定临床情况外，一般在术后2天内拔除导尿管。
+根据手术类型和患者因素标准化抗生素选择（见规范手册：手术预防性抗生素方案选择也见表某些外科手术抗生素覆盖范围）。
+根据手术类型和患者因素标准化抗生素选择（见规范手册：手术预防性抗生素方案选择也见表某些外科手术抗生素覆盖范围）。
+
+【经口摄入和肠道准备】
+美国麻醉师协会 (ASA) 关于口服摄入的建议如下（1)：
+术前 8 小时：停止食用肉类、煎炸或油腻食物
+术前 8 小时：停止食用肉类、煎炸或油腻食物
+6 小时：限制摄入一顿清淡餐（例如烤面包和清流质），然后只允许喝清流质
+6 小时：限制摄入一顿清淡餐（例如烤面包和清流质），然后只允许喝清流质
+2 小时：停止一切口服摄入，包括食物、液体和药物
+2 小时：停止一切口服摄入，包括食物、液体和药物
+对于某些胃肠道手术，必须在手术前 1 至 2 天开始清洁灌肠或口服抗生素肠道准备。
+
+【围术期处理注意事项】
+在美国，联合委员会通用协议提供术前手术室指导的目的是防止涉及错误患者、手术或身体部位的手术错误。该协议的一部分是在手术前进行暂停，在此期间团队将确认几个重要因素：
+确认患者身份
+确认患者身份
+验证正确的手术步骤和手术部位的位置和侧面
+验证正确的手术步骤和手术部位的位置和侧面
+所有需要的手术器械和设备
+所有需要的手术器械和设备
+验证指定的预防措施（例如，抗生素、抗凝剂、β-受体阻滞剂）的给药
+验证指定的预防措施（例如，抗生素、抗凝剂、β-受体阻滞剂）的给药
+
+【手术当天准备参考】
+1.Practice Guidelines for Preoperative Fasting and the Use of Pharmacologic Agents to Reduce the Risk of Pulmonary Aspiration: Application to Healthy Patients Undergoing Elective Procedures: An Updated Report by the American Society of Anesthesiologists Task Force on Preoperative Fasting and the Use of Pharmacologic Agents to Reduce the Risk of Pulmonary Aspiration. Anesthesiology.2017;126(3):376-393.doi:10.1097/ALN.0000000000001452
+1.Practice Guidelines for Preoperative Fasting and the Use of Pharmacologic Agents to Reduce the Risk of Pulmonary Aspiration: Application to Healthy Patients Undergoing Elective Procedures: An Updated Report by the American Society of Anesthesiologists Task Force on Preoperative Fasting and the Use of Pharmacologic Agents to Reduce the Risk of Pulmonary Aspiration. Anesthesiology.2017;126(3):376-393.doi:10.1097/ALN.0000000000001452

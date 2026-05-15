@@ -1,0 +1,33 @@
+标题：获得性血小板功能异常
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/thrombocytopenia-and-platelet-dysfunction/acquired-platelet-dysfunction
+============================================================
+
+(参见于血小板疾病的概述。)
+获得性血小板功能异常非常常见。原因包括
+Medications（药物应用史）
+Medications（药物应用史）
+全身性疾病
+全身性疾病
+心肺动脉分流术
+心肺动脉分流术
+当观察到异常出血或长时间出血，排除其他可能诊断(如血小板减少、凝血功能异常)时，应考虑和诊断获得性血小板功能障碍。不需要进行血小板凝集试验。
+
+【Medications（药物应用史）】
+阿司匹林、其他NSAIDs、血小板P2Y12 二磷酸腺苷（ADP）受体抑制剂（如，氯吡格雷、普拉格雷、替卡格雷）及糖蛋白IIb/IIIa受体抑制剂（如阿昔单抗、依替巴肽、替罗非班）可诱发血小板功能异常。 有时，该效应是偶然发生的（如，使用缓解疼痛和炎症的药物），有时是治疗性的（如，预防中风或冠状动脉血栓的阿司匹林或P2Y12抑制剂）。
+阿司匹林和NSAIDs可抑制环氧化酶介导的血栓素A2的生成。阿司匹林效果可持续 5 至 7 天，而 NSAIDs 的效果则持续不到一天。阿司匹林可轻度增加健康人群出血风险，但可显著增加老年患者和有潜在血小板功能障碍或严重凝血障碍患者的出血风险（如接受肝素治疗的患者，或严重血友病患者）。阿司匹林、氯吡格雷、普拉格雷和替卡格雷可以显著降低血小板的功能并增加出血风险。
+其他一些药物也可能引起血小板功能障碍（1)。
+
+【全身性疾病】
+许多疾病（如骨髓增殖性肿瘤和骨髓增生异常性疾病、尿毒症、巨球蛋白血症和多发性骨髓瘤、肝硬化、系统性红斑狼疮）可影响血小板功能。
+在全身性疾病中，尿毒症可能是最常见和最严重的；尿毒症通过未知的机制延长出血。如果尿毒症患者临床上发现出血，进行有效的透析、输注冷沉淀物或给予去氨升压素，可减少出血。如果需要，通过输血或给予红细胞生成素可提高血红蛋白浓度 > 10 g/dL (>100 g/L)，也可减少出血。目前尚无关于这些替代方案有效性的高质量数据。
+
+【心肺动脉分流术】
+进行心肺动脉分流术时，循环血液通过泵氧合器时可能引起血小板功能异常，并延长出血。其机制可能是血小板表面纤维蛋白溶解的激活，导致VWF的结合位点，即血小板膜糖蛋白Ib/IX的丢失。不论患者血小板计数多少，心肺动脉分流术后，出血过多的患者常进行血小板输注 ；这是 AABB（前身为美国血库协会）基于非常低质量的证据提出的薄弱建议 (2)。在分流时，给予抗纤溶药物可保护血小板功能，并减少输血需求(3)。
+
+【参考文献】
+1.Scharf RE: Drugs that affect platelet function.Semin Thromb Hemost38(8): 865–883, 2012.doi: 10.1055/s-0032-1328881
+1.Scharf RE: Drugs that affect platelet function.Semin Thromb Hemost38(8): 865–883, 2012.doi: 10.1055/s-0032-1328881
+2.Kaufman RM, Djulbegovic B, Gernsheimer T, et al: Platelet transfusion: a clinical practice guideline from the AABB.Ann Intern Med162(3):205–213, 2015.doi:10.7326/M14-1589
+2.Kaufman RM, Djulbegovic B, Gernsheimer T, et al: Platelet transfusion: a clinical practice guideline from the AABB.Ann Intern Med162(3):205–213, 2015.doi:10.7326/M14-1589
+3.Brown JR, Birkmeyer NJ, O'Connor GT: Meta-analysis comparing the effectiveness and adverse outcomes of antifibrinolytic agents in cardiac surgery.Circulation115(22):2801–2813, 2007.doi:10.1161/CIRCULATIONAHA.106.671222
+3.Brown JR, Birkmeyer NJ, O'Connor GT: Meta-analysis comparing the effectiveness and adverse outcomes of antifibrinolytic agents in cardiac surgery.Circulation115(22):2801–2813, 2007.doi:10.1161/CIRCULATIONAHA.106.671222

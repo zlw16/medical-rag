@@ -1,0 +1,120 @@
+标题：早产儿呼吸暂停
+来源：https://www.msdmanuals.cn/professional/pediatrics/respiratory-problems-in-neonates/apnea-of-prematurity
+============================================================
+
+(参见围产期呼吸系统疾病概述。）
+胎龄越小，早产儿呼吸暂停的风险越高。几乎所有在妊娠 28 周之前出生的早产儿都有一定程度的早产儿呼吸暂停，而大约 34 周出生的婴儿中有 20% 会发生这种情况（1）。
+早产儿呼吸暂停通常始于出生后2～3天；出生首日出现呼吸暂停可能提示中枢神经系统（CNS）畸形或损伤。出生>14天发生的呼吸暂停提示可能有其他严重疾病（如，败血症），而不是早产儿呼吸暂停。
+
+【参考文献】
+1.Eichenwald EC, Committee on Fetus and Newborn, American Academy of Pediatrics.早产儿呼吸暂停。Pediatrics. 2016;137(1). doi:10.1542/peds.2015-3757
+1.Eichenwald EC, Committee on Fetus and Newborn, American Academy of Pediatrics.早产儿呼吸暂停。Pediatrics. 2016;137(1). doi:10.1542/peds.2015-3757
+2.Pergolizzi JV Jr, Fort P, Miller TL, LeQuang JA, Raffa RB.The epidemiology of apnoea of prematurity.J Clin Pharm Ther.2022;47(5):685-693.doi:10.1111/jcpt.13587
+2.Pergolizzi JV Jr, Fort P, Miller TL, LeQuang JA, Raffa RB.The epidemiology of apnoea of prematurity.J Clin Pharm Ther.2022;47(5):685-693.doi:10.1111/jcpt.13587
+
+【早产儿呼吸暂停的病理生理学】
+早产性呼吸暂停是由呼吸系统的神经学和/或机械功能的不成熟引起的发展性障碍。呼吸暂停的特征包括:
+中枢型（最常见）
+中枢型（最常见）
+中枢型呼吸暂停是由未成熟的髓质呼吸控制中心引起的。特定病理生理学还不完全理解，但似乎涉及许多因素，包括对缺氧和高碳酸血症的异常反应。这是早产儿最常见的呼吸暂停类型。
+阻塞性呼吸暂停是由气流受阻、颈部屈曲导致咽下部软组织对合、鼻塞或反射性喉痉挛引起的。
+混合性呼吸暂停是中枢型和阻塞型呼吸暂停的组合。
+所有类型的呼吸暂停如持续存在均可引起低氧血症、发绀和心动过缓。因为心动过缓也可以与呼吸暂停同时发生，所以中心机制可能是两者的原因。
+大约 23% 发生婴儿猝死（SUID）的婴儿，包括婴儿猝死综合征（SIDS），有早产史，但早产儿呼吸暂停本身与 SUID 或 SIDS 之间似乎没有直接的因果关系（1）。
+周期性呼吸是正常呼吸的5至20秒的重复周期，短暂（<20秒）的呼吸暂停周期交替。虽然周期性呼吸和早产儿呼吸暂停都有中枢神经系统呼吸控制不成熟的潜在原因，但周期性呼吸在足月和早产儿中很常见，临床意义很小，似乎不会导致早产儿呼吸暂停（2）。
+
+【经验与提示】
+经验与提示
+在排除严重原因（如感染性、心源性、代谢性、呼吸性、中枢神经系统、调温性）之前，早产儿的呼吸暂停发作不应归因于早产。
+在排除严重原因（如感染性、心源性、代谢性、呼吸性、中枢神经系统、调温性）之前，早产儿的呼吸暂停发作不应归因于早产。
+
+【病理生理学参考文献】
+1.Horne RS, Harrewijn I, Hunt CE.Physiology during sleep in preterm infants: Implications for increased risk for the sudden infant death syndrome.Sleep Med Rev.2024;78:101990.doi:10.1016/j.smrv.2024.101990
+1.Horne RS, Harrewijn I, Hunt CE.Physiology during sleep in preterm infants: Implications for increased risk for the sudden infant death syndrome.Sleep Med Rev.2024;78:101990.doi:10.1016/j.smrv.2024.101990
+2.Erickson G, Dobson NR, Hunt CE.Immature control of breathing and apnea of prematurity: the known and unknown.J Perinatol.2021;41(9):2111-2123.doi:10.1038/s41372-021-01010-z
+2.Erickson G, Dobson NR, Hunt CE.Immature control of breathing and apnea of prematurity: the known and unknown.J Perinatol.2021;41(9):2111-2123.doi:10.1038/s41372-021-01010-z
+
+【早产儿呼吸暂停的诊断】
+病史和体格检查
+病史和体格检查
+心肺监护
+心肺监护
+其他病因（例如低血糖，败血症，颅内出血）排除
+其他病因（例如低血糖，败血症，颅内出血）排除
+早产儿呼吸暂停虽常归因于呼吸控制机制不成熟，但亦可能提示感染、代谢、体温调节、呼吸、心脏或中枢神经系统功能障碍。在接受早产作为呼吸暂停原因前，应仔细询问病史、进行体格评估，必要时进行检查。胃食管反流病（胃食管反流病（GERD））尚未被证实可导致早产儿呼吸暂停，因此不应将 GERD 视为呼吸暂停的原因，也不应仅因早产儿呼吸暂停而开始 GERD 的治疗（1,2）。
+呼吸暂停的诊断通常通过目视观察，或在对早产儿进行评估和持续护理时使用心肺监测仪进行连续监测来确立。
+
+【诊断参考】
+1.Smits MJ, van Wijk MP, Langendam MW, Benninga MA, Tabbers MM.Association between gastroesophageal reflux and pathologic apneas in infants: a systematic review.Neurogastroenterol Motil.2014;26(11):1527-1538.doi:10.1111/nmo.12405
+1.Smits MJ, van Wijk MP, Langendam MW, Benninga MA, Tabbers MM.Association between gastroesophageal reflux and pathologic apneas in infants: a systematic review.Neurogastroenterol Motil.2014;26(11):1527-1538.doi:10.1111/nmo.12405
+2.Quitadamo P, Giorgio V, Zenzeri L, et al.Apnea in preterm neonates: what's the role of gastroesophageal reflux?A systematic review.Dig Liver Dis.2020;52(7):723-729.doi:10.1016/j.dld.2020.03.032
+2.Quitadamo P, Giorgio V, Zenzeri L, et al.Apnea in preterm neonates: what's the role of gastroesophageal reflux?A systematic review.Dig Liver Dis.2020;52(7):723-729.doi:10.1016/j.dld.2020.03.032
+
+【早产儿呼吸暂停的治疗】
+潜在疾病的治疗
+潜在疾病的治疗
+呼吸刺激剂（例如，咖啡因）
+呼吸刺激剂（例如，咖啡因）
+持续气道正压通气（CPAP）
+持续气道正压通气（CPAP）
+患者被送入受监控的环境中。当通过观察或监测警报发现呼吸暂停时，对婴儿进行刺激，这可能就是所需的全部；如果呼吸没有恢复，则提供袋阀面罩通气（见新生儿和婴儿的呼吸支持）。
+频繁或严重的发作应迅速且彻底地进行评估，并对可识别的原因进行治疗。如果未发现感染性或其他可治疗的潜在疾病，呼吸兴奋剂适用于治疗以低氧血症、发绀、心动过缓或其组合为特征的频繁或严重发作。口服咖啡因是最安全且最常用的呼吸兴奋剂。咖啡因因其给药方便、副作用较少、治疗窗较宽以及无需频繁监测血药浓度而优于其他甲基黄嘌呤类药物（1、2）。治疗持续至婴儿达到34至35周胎龄，且至少5至7天无需物理干预的呼吸暂停。在最后一次呼吸暂停发作后或停止咖啡因后，监测继续进行，直到婴儿的呼吸暂停再过 5 至 10 天以上无需干预。
+如果使用呼吸兴奋剂后仍持续存在呼吸暂停，婴儿可给予持续正压通气，开始压力为5～7cmH2O (3)。难治性呼吸暂停则需要呼吸机支持。
+出院实践各不相同。部分临床医生会在治疗结束后观察婴儿7天，以确保呼吸暂停或心动过缓不再复发；而另一些医生若见治疗有效，则会让婴儿在服用咖啡因的情况下出院，但后一种做法并不常见。
+
+【出院与家庭护理】
+
+【出院标准】
+对于住院的高危新生儿，若在连续3至10天的心肺监测期间未出现具有临床意义的心肺事件（例如呼吸暂停>持续20秒、伴有中枢性发绀的呼吸暂停、或伴随心率<低于70次/分钟的呼吸暂停），通常可在达到35周矫正胎龄后安全出院回家，且无需使用监测仪。有时可处方家庭心肺监测仪和/或口服咖啡因，以缩短住院时间，适用于那些虽已准备出院但仍有可自行逆转的心肺事件的婴儿。
+所有早产儿，尤其是患有早产儿呼吸暂停的婴儿，出院前应接受汽车座椅挑战测试，以评估与其体型相关的呼吸暂停、心动过缓和氧饱和度下降情况，以及是否存在体位性气道阻塞。
+
+【家庭监控】
+很少有带着呼吸暂停监测仪出院的婴儿，只有那些发作自发缓解且没有干预措施（包括刺激）的婴儿才应考虑带着监测仪从医院出院。 应教育家长如何适当地使用仪器，评估警报状态，干预（例如心肺复苏[CPR]），并且保留事件日志。应该提供24小时电话支持和分诊以及关于停止使用监视器的决定的门诊随访。优选存储事件信息的监视器。应告知家长，尚无证据表明家庭心肺监测仪能够降低睡眠相关死亡的发生率，包括婴儿猝死综合征，或短暂、已缓解、不明原因的事件（BRUEs）（4–6）。
+
+【经验与提示】
+经验与提示
+家用心肺监测仪并未被证实能够降低睡眠相关死亡（包括婴儿猝死综合征）或短暂性不明原因事件的发生率。
+家用心肺监测仪并未被证实能够降低睡眠相关死亡（包括婴儿猝死综合征）或短暂性不明原因事件的发生率。
+
+【睡眠姿势】
+除非其他医疗状况阻止，婴儿每次睡眠时应始终仰卧于坚实、平坦、无倾斜的睡眠表面上 (4)。侧睡或支撑太不稳定。婴儿的头应保持在中线上，颈部应保持中立位或略微后仰，以防止上气道阻塞。
+调查人员经常发现，在睡眠空间死亡的婴儿死于窒息（床上意外窒息和勒颈，即ASSB，属于SUID的一种类型）。有关降低 SUID 和 SIDS 风险的更多措施，参见SUID 和 SIDS 的预防。
+
+【治疗参考文献】
+1.Miao Y, Zhou Y, Zhao S, et al.Comparative efficacy and safety ofcaffeine citrateandaminophyllinein treating apnea of prematurity: A systematic review and meta-analysis.PLoS One.2022;17(9):e0274882.Published 2022 Sep 19.doi:10.1371/journal.pone.0274882
+1.Miao Y, Zhou Y, Zhao S, et al.Comparative efficacy and safety ofcaffeine citrateandaminophyllinein treating apnea of prematurity: A systematic review and meta-analysis.PLoS One.2022;17(9):e0274882.Published 2022 Sep 19.doi:10.1371/journal.pone.0274882
+2.Alhersh E, Abushanab D, Al-Shaibi S, Al-Badriyeh D.Caffeinefor the Treatment of Apnea in the Neonatal Intensive Care Unit: A Systematic Overview of Meta-Analyses.Paediatr Drugs.2020;22(4):399-408.doi:10.1007/s40272-020-00404-4
+2.Alhersh E, Abushanab D, Al-Shaibi S, Al-Badriyeh D.Caffeinefor the Treatment of Apnea in the Neonatal Intensive Care Unit: A Systematic Overview of Meta-Analyses.Paediatr Drugs.2020;22(4):399-408.doi:10.1007/s40272-020-00404-4
+3.Ho JJ, Zakarija-Grkovic I, Lok JW, Lim E, Subramaniam P, Leong JJ.Continuous positive airway pressure (CPAP) for apnoea of prematurity.Cochrane Database Syst Rev.2023;7(7):CD013660.Published 2023 Jul 18.doi:10.1002/14651858.CD013660.pub2
+3.Ho JJ, Zakarija-Grkovic I, Lok JW, Lim E, Subramaniam P, Leong JJ.Continuous positive airway pressure (CPAP) for apnoea of prematurity.Cochrane Database Syst Rev.2023;7(7):CD013660.Published 2023 Jul 18.doi:10.1002/14651858.CD013660.pub2
+4.Moon RY, Carlin RF, Hand I; TASK FORCE ON SUDDEN INFANT DEATH SYNDROME and THE COMMITTEE ON FETUS AND NEWBORN.Evidence Base for 2022 Updated Recommendations for a Safe Infant Sleeping Environment to Reduce the Risk of Sleep-Related Infant Deaths.Pediatrics.2022;150(1):e2022057991.doi:10.1542/peds.2022-057991
+4.Moon RY, Carlin RF, Hand I; TASK FORCE ON SUDDEN INFANT DEATH SYNDROME and THE COMMITTEE ON FETUS AND NEWBORN.Evidence Base for 2022 Updated Recommendations for a Safe Infant Sleeping Environment to Reduce the Risk of Sleep-Related Infant Deaths.Pediatrics.2022;150(1):e2022057991.doi:10.1542/peds.2022-057991
+5.Tieder JS, Bonkowsky JL, Etzel RA, et al.Brief Resolved Unexplained Events (Formerly Apparent Life-Threatening Events) and Evaluation of Lower-Risk Infants [published correction appears inPediatrics. 2016 Aug;138(2):e20161487. doi: 10.1542/peds.2016-1487.].Pediatrics.2016;137(5):e20160590.doi:10.1542/peds.2016-0590
+5.Tieder JS, Bonkowsky JL, Etzel RA, et al.Brief Resolved Unexplained Events (Formerly Apparent Life-Threatening Events) and Evaluation of Lower-Risk Infants [published correction appears inPediatrics. 2016 Aug;138(2):e20161487. doi: 10.1542/peds.2016-1487.].Pediatrics.2016;137(5):e20160590.doi:10.1542/peds.2016-0590
+6.Goodstein MH, Stewart DL, Keels EL, Moon RY; COMMITTEE ON FETUS AND NEWBORN, TASK FORCE ON SUDDEN INFANT DEATH SYNDROME.Transition to a Safe Home Sleep Environment for the NICU Patient.Pediatrics.2021;148(1):e2021052045.doi:10.1542/peds.2021-052045
+6.Goodstein MH, Stewart DL, Keels EL, Moon RY; COMMITTEE ON FETUS AND NEWBORN, TASK FORCE ON SUDDEN INFANT DEATH SYNDROME.Transition to a Safe Home Sleep Environment for the NICU Patient.Pediatrics.2021;148(1):e2021052045.doi:10.1542/peds.2021-052045
+
+【早产儿呼吸暂停的预后】
+呼吸暂停发作随校正胎龄增加而减少，98%的早产儿呼吸暂停会在孕后40周时消退（1）。
+呼吸暂停可在胎龄非常小的新生儿中持续发作数周（如胎龄23～27周）。
+死亡是罕见的，因为绝大多数婴儿在发生与婴儿猝死综合征有关的死亡的年龄之前就已经摆脱了早产儿呼吸暂停（2）。
+
+【预后参考】
+1.Goodstein MH, Stewart DL, Keels EL, Moon RY; COMMITTEE ON FETUS AND NEWBORN, TASK FORCE ON SUDDEN INFANT DEATH SYNDROME.Transition to a Safe Home Sleep Environment for the NICU Patient.Pediatrics.2021;148(1):e2021052045.doi:10.1542/peds.2021-052045
+1.Goodstein MH, Stewart DL, Keels EL, Moon RY; COMMITTEE ON FETUS AND NEWBORN, TASK FORCE ON SUDDEN INFANT DEATH SYNDROME.Transition to a Safe Home Sleep Environment for the NICU Patient.Pediatrics.2021;148(1):e2021052045.doi:10.1542/peds.2021-052045
+2.Eichenwald EC; Committee on Fetus and Newborn, American Academy of Pediatrics.Apnea of Prematurity.Pediatrics.2016;137(1):10.1542/peds.2015-3757.doi:10.1542/peds.2015-3757
+2.Eichenwald EC; Committee on Fetus and Newborn, American Academy of Pediatrics.Apnea of Prematurity.Pediatrics.2016;137(1):10.1542/peds.2015-3757.doi:10.1542/peds.2015-3757
+早产性呼吸暂停是由呼吸系统的神经学和/或机械功能的不成熟引起的。
+早产性呼吸暂停是由呼吸系统的神经学和/或机械功能的不成熟引起的。
+在足月之前，早产儿可能有呼吸道暂停>20秒或暂停<20秒心动过缓组合（<100次/分）和/或氧饱和<85%。
+在足月之前，早产儿可能有呼吸道暂停>20秒或暂停<20秒心动过缓组合（<100次/分）和/或氧饱和<85%。
+通过观察诊断并排除其他更严重的呼吸暂停原因（例如，感染，代谢，体温调节，呼吸，心脏或中枢神经系统疾病）。
+通过观察诊断并排除其他更严重的呼吸暂停原因（例如，感染，代谢，体温调节，呼吸，心脏或中枢神经系统疾病）。
+监测呼吸并给予呼吸暂停的物理刺激；如果呼吸不能恢复，给予袋阀面罩通气。
+监测呼吸并给予呼吸暂停的物理刺激；如果呼吸不能恢复，给予袋阀面罩通气。
+给有复发性发作的新生儿口服咖啡因。
+给有复发性发作的新生儿口服咖啡因。
+治疗胃食管反流病不应作为早产儿呼吸暂停的干预措施。
+治疗胃食管反流病不应作为早产儿呼吸暂停的干预措施。
+家庭监测并未显示能改善预后；只有那些发作能自行缓解且无需刺激的婴儿，才可考虑配备监测仪出院以缩短住院时间。
+家庭监测并未显示能改善预后；只有那些发作能自行缓解且无需刺激的婴儿，才可考虑配备监测仪出院以缩短住院时间。

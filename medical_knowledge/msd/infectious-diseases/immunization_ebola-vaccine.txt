@@ -1,0 +1,100 @@
+标题：埃博拉疫苗
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/immunization/ebola-vaccine
+============================================================
+
+在目前全球可用的3种埃博拉病毒疫苗中，rVSV-ZEBOV是美国唯一获批用于预防埃博拉病毒病的疫苗。它还被授权在欧盟、加拿大以及中非、东非和西非的几个国家使用。
+Ad26.ZEBOV 和 MVA-BN-Filo 是两种疫苗的连续方案，均已获得欧盟委员会 （EC）的上市许可 （1，2）。疫苗供应国际协调小组 (ICG) 已在瑞士建立了全球埃博拉疫苗储备，以便在疫情爆发期间使用。
+(参见免疫接种概述。)
+
+【参考文献】
+1.European Medicines Agency.Zabdeno.Accessed April 17, 2025.
+1.European Medicines Agency.Zabdeno.Accessed April 17, 2025.
+2.European Medicines Agency.Mvabea.Accessed April 17, 2025.
+2.European Medicines Agency.Mvabea.Accessed April 17, 2025.
+
+【埃博拉疫苗的制备】
+rVSV-ZEBOV 是一种减毒重组活病毒疫苗。它提供了针对Zaire ebolavirus（埃博拉病毒）种的保护，但不能预防其他种的埃博拉病毒或马尔堡病毒（1）。
+Ad26.ZEBOV和MVA-BN-Filo为分两剂接种的独立疫苗。它们含有经过基因修饰的疫苗载体，因此无法在人体细胞中复制。 这些载体疫苗携带几种埃博拉病毒蛋白的遗传密码，以触发免疫反应：
+Ad26.ZEBOV 是一种基于 26 型腺病毒 (Ad26) 的重组 DNA 疫苗。
+Ad26.ZEBOV 是一种基于 26 型腺病毒 (Ad26) 的重组 DNA 疫苗。
+MVA-BN-Filo 是一种基于改良安卡拉牛痘 (MVA) 的重组 DNA 疫苗。
+MVA-BN-Filo 是一种基于改良安卡拉牛痘 (MVA) 的重组 DNA 疫苗。
+
+【制剂参考文献】
+1.PREVAC Study Team, Kieh M, Richert L, et al.Randomized Trial of Vaccines for Zaire Ebola Virus Disease.N Engl J Med.2022;387(26):2411-2424.doi:10.1056/NEJMoa2200072
+1.PREVAC Study Team, Kieh M, Richert L, et al.Randomized Trial of Vaccines for Zaire Ebola Virus Disease.N Engl J Med.2022;387(26):2411-2424.doi:10.1056/NEJMoa2200072
+
+【埃博拉疫苗的适应症】
+rVSV-ZEBOV适用于预防Z. ebolavirus（埃博拉病毒）引起的埃博拉病毒病，该疫苗适用于美国18岁及以上因职业暴露于埃博拉病毒而面临高风险的人群，采用反应性环形疫苗接种策略（即识别并接种埃博拉病毒病确诊病例的近期接触者及其接触者的接触者，形成免疫环）（1），因为他们参与以下工作（2）：
+应对埃博拉病毒病的爆发
+应对埃博拉病毒病的爆发
+在美国联邦政府指定的埃博拉治疗中心担任医护人员
+在美国联邦政府指定的埃博拉治疗中心担任医护人员
+在美国生物安全 4 级机构担任实验室人员或其他工作人员
+在美国生物安全 4 级机构担任实验室人员或其他工作人员
+在实验室响应网络设施担任实验室人员或支持人员
+在实验室响应网络设施担任实验室人员或支持人员
+Ad26.ZEBOV和MVA-BN-Filo适用于预防1岁及以上人群由Z. ebolavirus（埃博拉病毒）属病毒引起的Ebola virus（埃博拉病毒）病，适用于流行区和高风险地区。
+
+【适应症参考文献】
+1.Muyembe JJ, Pan H, Peto R, et al.Ebola Outbreak Response in the DRC with rVSV-ZEBOV-GP Ring Vaccination.N Engl J Med.2024;391(24):2327-2336.doi:10.1056/NEJMoa1904387
+1.Muyembe JJ, Pan H, Peto R, et al.Ebola Outbreak Response in the DRC with rVSV-ZEBOV-GP Ring Vaccination.N Engl J Med.2024;391(24):2327-2336.doi:10.1056/NEJMoa1904387
+2.Malenfant JH, Joyce A, Choi MJ, et al.Use of Ebola Vaccine: Expansion of Recommendations of the Advisory Committee on Immunization Practices To Include Two Additional Populations - United States, 2021.MMWR Morb Mortal Wkly Rep.2022;71(8):290-292.Published 2022 Feb 25.doi:10.15585/mmwr.mm7108a2
+2.Malenfant JH, Joyce A, Choi MJ, et al.Use of Ebola Vaccine: Expansion of Recommendations of the Advisory Committee on Immunization Practices To Include Two Additional Populations - United States, 2021.MMWR Morb Mortal Wkly Rep.2022;71(8):290-292.Published 2022 Feb 25.doi:10.15585/mmwr.mm7108a2
+
+【埃博拉疫苗的禁忌症和注意事项】
+所有三种埃博拉疫苗的主要禁忌症如下：
+对疫苗的任何成分（包括大米衍生的重组人血清白蛋白）出现严重的过敏反应（例如，严重过敏反应）
+对疫苗的任何成分（包括大米衍生的重组人血清白蛋白）出现严重的过敏反应（例如，严重过敏反应）
+对大米蛋白有严重过敏反应史
+对大米蛋白有严重过敏反应史
+所有三种埃博拉疫苗的主要注意事项包括：
+血小板减少症或任何凝血障碍
+血小板减少症或任何凝血障碍
+接种这些疫苗后发生过敏反应。 接种疫苗后，应至少观察 15 分钟，以了解是否有过敏反应或类过敏反应的早期迹象。  发生过敏反应时，必须提供适当的医疗和监督。
+血小板减少症或任何凝血障碍的患者应谨慎接种疫苗，因为接种疫苗后可能会出现出血或瘀青。
+rVSV-ZEBOV 的主要注意事项包括：
+免疫缺陷
+免疫缺陷
+rVSV-ZEBOV在免疫功能低下的人群中的安全性和有效性尚未进行评估，且其在免疫功能低下的人群中的有效性可能会降低。应权衡免疫功能低下人群接种 rVSV-ZEBOV（一种活病毒疫苗）的风险与Z. ebolavirus疾病风险。
+Ad26.ZEBOV 和 MVA-BN-Filo 的注意事项包括以下内容：
+免疫缺陷
+免疫缺陷
+急性严重发热性疾病或急性感染（尤其是导致热性惊厥的情况）
+急性严重发热性疾病或急性感染（尤其是导致热性惊厥的情况）
+孕妇和哺乳期（母乳喂养）患者
+孕妇和哺乳期（母乳喂养）患者
+Ad26.ZEBOV和MVA-BN-Filo疫苗方案的安全性和免疫原性尚未在免疫功能低下的人群中进行全面评估，包括接受免疫抑制治疗的人群。一项针对免疫功能正常的HIV感染者（即抗逆转录病毒治疗后CD4计数达标者）的临床试验显示疫苗具有免疫原性，但该结果可能不适用于对疫苗反应较弱的免疫功能受损个体（1）。
+患有急性严重发热性疾病或急性感染的人群应推迟接种 Ad26.ZEBOV 和 MVA-BN-Filo，除非立即接种疫苗的益处大于潜在风险。出现轻微感染、低烧或两者同时出现不应推迟接种疫苗。
+孕妇和哺乳期患者接种需要额外考虑。Ad26.ZEBOV和MVA-BN-Filo疫苗已在孕妇中通过开放标签临床试验进行了评估，尽管没有报告与疫苗接种相关的严重不良事件，但认为需要额外的数据来全面确定其在该人群中的安全性（2）。该疫苗方案在孕妇中总体耐受性良好；但接种决策应考虑到孕妇在疫情期间较高的埃博拉病毒病风险。由于哺乳期患者数据有限，应权衡接种潜在收益与未知风险。
+
+【禁忌症和注意事项参考文献】
+1.Barry H, Mutua G, Kibuuka H, et al.Safety and immunogenicity of 2-dose heterologous Ad26.ZEBOV, MVA-BN-Filo Ebola vaccination in healthy and HIV-infected adults: A randomised, placebo-controlled Phase II clinical trial in Africa.PLoS Med.2021;18(10):e1003813.Published 2021 Oct 29.doi:10.1371/journal.pmed.1003813
+1.Barry H, Mutua G, Kibuuka H, et al.Safety and immunogenicity of 2-dose heterologous Ad26.ZEBOV, MVA-BN-Filo Ebola vaccination in healthy and HIV-infected adults: A randomised, placebo-controlled Phase II clinical trial in Africa.PLoS Med.2021;18(10):e1003813.Published 2021 Oct 29.doi:10.1371/journal.pmed.1003813
+2.Kavunga-Membo H, Watson-Jones D, Kasonia K, et al.Delivery and Safety of a Two-Dose Preventive Ebola Virus Disease Vaccine in Pregnant and Non-Pregnant Participants during an Outbreak in the Democratic Republic of the Congo.Vaccines (Basel).2024;12(8):825.Published 2024 Jul 23.doi:10.3390/vaccines12080825
+2.Kavunga-Membo H, Watson-Jones D, Kasonia K, et al.Delivery and Safety of a Two-Dose Preventive Ebola Virus Disease Vaccine in Pregnant and Non-Pregnant Participants during an Outbreak in the Democratic Republic of the Congo.Vaccines (Basel).2024;12(8):825.Published 2024 Jul 23.doi:10.3390/vaccines12080825
+
+【埃博拉疫苗的剂量和施用】
+rVSV-ZEBOV 疫苗剂量为 1.0 mL IM。
+Ad26.ZEBOV和MVA-BN-Filo疫苗剂量为0.5mL肌肉注射，分2剂次接种：
+首先接种 Ad26.ZEBOV（红盖小瓶）。
+首先接种 Ad26.ZEBOV（红盖小瓶）。
+8 周后接种 MVA-BN-Filo（黄盖小瓶）。
+8 周后接种 MVA-BN-Filo（黄盖小瓶）。
+
+【埃博拉疫苗的不良影响】
+所有3种疫苗最常见的不良反应包括注射部位疼痛和肿胀、肌痛、关节痛、头痛和疲劳。
+rVSV-ZEBOV其他常见的不良反应包括注射部位红斑、发热、恶心、关节炎、皮疹和异常出汗。
+Ad26.ZEBOV与MVA-BN-Filo其他常见的不良反应包括注射部位发热和发冷。在1至17岁的儿童中，最常见的不良反应如下：
+注射部位疼痛
+注射部位疼痛
+活动减少
+活动减少
+食欲减退
+食欲减退
+有关这些疫苗副作用的更多信息，请参阅处方信息。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Ebola Vaccine
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Ebola Vaccine

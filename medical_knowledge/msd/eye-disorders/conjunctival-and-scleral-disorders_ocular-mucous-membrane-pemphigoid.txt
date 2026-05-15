@@ -1,0 +1,70 @@
+标题：眼粘膜类天疱疮
+来源：https://www.msdmanuals.cn/professional/eye-disorders/conjunctival-and-scleral-disorders/ocular-mucous-membrane-pemphigoid
+============================================================
+
+眼黏膜性类天疱疮是一种与抗结膜基底膜抗体结合导致结膜炎症的自身免疫性疾病（1）。它与大疱性类天疱疮无关。
+（参见黏膜类天疱疮和结膜和巩膜疾病概述。）
+
+【参考文献】
+1.Xu HH, Werth VP, Parisi E, Sollecito TP.Mucous membrane pemphigoid.Dent Clin North Am.2013;57(4):611-630.doi:10.1016/j.cden.2013.07.003
+1.Xu HH, Werth VP, Parisi E, Sollecito TP.Mucous membrane pemphigoid.Dent Clin North Am.2013;57(4):611-630.doi:10.1016/j.cden.2013.07.003
+
+【眼粘膜类天疱疮的症状和体征】
+眼部天疱疮起始通常表现为慢性结膜炎，伴特定象限非特异性充血但无分泌物。病情进展可致以下表现：
+结膜下纤维化
+结膜下纤维化
+结膜萎缩伴下穹窿丧失
+结膜萎缩伴下穹窿丧失
+睑球粘连（睑结膜和球结膜之间的粘连）
+睑球粘连（睑结膜和球结膜之间的粘连）
+角结膜干燥症
+角结膜干燥症
+倒睫（睫毛向内生长）
+倒睫（睫毛向内生长）
+角膜上皮缺损和细菌性角膜感染
+角膜上皮缺损和细菌性角膜感染
+角膜新生血管形成，浑浊和角膜化及失明
+角膜新生血管形成，浑浊和角膜化及失明
+常伴有口腔黏膜溃疡和瘢痕，但是瘢痕化大疱样病变以及红斑等皮肤病损少见。
+这张照片显示眼黏膜类天疱疮所致的慢性结膜炎。慢性结膜炎可导致结膜瘢痕形成，具体表现为睑球粘连（即部分睑结膜与球结膜发生粘连，如蓝色箭头所示）以及穹窿部变浅（亦称穹窿缩短，如黑色箭头所示），并伴随角膜角化和混浊。
+左侧图片是治疗之前的，右侧图片是治疗之后的。
+© Springer Science+Business Media
+
+【粘膜类天疱疮的诊断】
+眼科检查
+眼科检查
+有时需肝活检
+有时需肝活检
+眼黏膜类天疱疮的诊断主要基于临床特征，当患者出现以下表现时应高度怀疑该病：结膜瘢痕形成伴角膜病变、睑球粘连（部分睑结膜与球结膜的异常黏附）或两者兼具（1）。其他导致进行性结膜瘢痕化的病因包括既往的放射线暴露和过敏性疾病。因此，当病情进展至睑球粘连且无局部放射史或严重常年性过敏性结膜炎时，可作出眼部瘢痕性类天疱疮的临床诊断。
+结膜活检观察到基底膜线性抗体沉积时可以明确诊断。活组织检查阴性结果不能排除本病。
+
+【诊断参考文献】
+1.Georgoudis P, Sabatino F, Szentmary N, et al.Ocular Mucous Membrane Pemphigoid: Current State of Pathophysiology, Diagnostics and Treatment.Ophthalmol Ther.2019;8(1):5-17.doi:10.1007/s40123-019-0164-z
+1.Georgoudis P, Sabatino F, Szentmary N, et al.Ocular Mucous Membrane Pemphigoid: Current State of Pathophysiology, Diagnostics and Treatment.Ophthalmol Ther.2019;8(1):5-17.doi:10.1007/s40123-019-0164-z
+
+【粘膜类天疱疮的治疗】
+局部润滑
+局部润滑
+局部抗炎治疗（例如，皮质类固醇、环孢素）
+局部抗炎治疗（例如，皮质类固醇、环孢素）
+倒睫（内翻睫毛）拔除术
+倒睫（内翻睫毛）拔除术
+通常使用氨苯砜或免疫抑制剂进行全身治疗
+通常使用氨苯砜或免疫抑制剂进行全身治疗
+对于患有眼粘膜类天疱疮的人，泪液替代品以及针对倒睫的脱毛、冷冻脱毛或电脱毛，可以增加舒适度并降低眼部感染、继发性角膜瘢痕和视力下降的风险。
+出现进行性倒睫、结膜瘢痕形成或者角膜混浊或者无法愈合的角膜上皮缺损时，需要应用全身氨苯砜（1）或免疫抑制剂（例如甲氨蝶呤、霉酚酸酯、环磷酰胺、静脉注射免疫球蛋白[IVIG]、利妥昔单抗）治疗（2）。
+上皮缺损无法愈合的患者也可以从羊膜移植中受益。
+
+【治疗参考文献】
+1.Branisteanu DC, Stoleriu G, Branisteanu DE, et al.Ocular cicatricial pemphigoid (Review).Exp Ther Med.2020;20(4):3379-3382.doi:10.3892/etm.2020.8972
+1.Branisteanu DC, Stoleriu G, Branisteanu DE, et al.Ocular cicatricial pemphigoid (Review).Exp Ther Med.2020;20(4):3379-3382.doi:10.3892/etm.2020.8972
+2.Georgoudis P, Sabatino F, Szentmary N, et al.Ocular Mucous Membrane Pemphigoid: Current State of Pathophysiology, Diagnostics and Treatment.Ophthalmol Ther.2019;8(1):5-17.doi:10.1007/s40123-019-0164-z
+2.Georgoudis P, Sabatino F, Szentmary N, et al.Ocular Mucous Membrane Pemphigoid: Current State of Pathophysiology, Diagnostics and Treatment.Ophthalmol Ther.2019;8(1):5-17.doi:10.1007/s40123-019-0164-z
+眼黏膜性类天疱疮是一种慢性、自身免疫性结膜瘢痕伴随角膜混浊的疾病。
+眼黏膜性类天疱疮是一种慢性、自身免疫性结膜瘢痕伴随角膜混浊的疾病。
+表现包括睑球粘连（睑结膜和球结膜粘连）；倒睫（睫毛向眼内旋转）；角膜结膜干燥症；角膜新生血管形成、混浊和角化；结膜皱缩和角化。
+表现包括睑球粘连（睑结膜和球结膜粘连）；倒睫（睫毛向眼内旋转）；角膜结膜干燥症；角膜新生血管形成、混浊和角化；结膜皱缩和角化。
+无局部放射史或常年严重过敏性结膜炎病史的患者，发现进展性睑球粘连通常可作出诊断。
+无局部放射史或常年严重过敏性结膜炎病史的患者，发现进展性睑球粘连通常可作出诊断。
+治疗方法包括泪液替代品，局部抗炎治疗，倒睫脱毛，通常使用氨苯砜或免疫抑制剂进行全身治疗。
+治疗方法包括泪液替代品，局部抗炎治疗，倒睫脱毛，通常使用氨苯砜或免疫抑制剂进行全身治疗。

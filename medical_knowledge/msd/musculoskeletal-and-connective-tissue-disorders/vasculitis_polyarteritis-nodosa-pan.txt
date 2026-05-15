@@ -1,0 +1,102 @@
+标题：结节性多动脉炎（PAN）
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/vasculitis/polyarteritis-nodosa-pan
+============================================================
+
+（参见血管炎概述。）
+结节性多动脉炎（ PAN）较少见（约1例/百万人）1。该病主要见于中年人，发病率随着年龄的增加而增加，发病高峰在50岁左右。
+
+【参考文献】
+1.Mohammad AJ, Jacobsson LT, Westman KW, Sturfelt G, Segelmark M.Incidence and survival rates in Wegener's granulomatosis, microscopic polyangiitis, Churg-Strauss syndrome and polyarteritis nodosa.Rheumatology(Oxford) 48(12):1560-1565, 2009.doi:10.1093/rheumatology/kep304
+1.Mohammad AJ, Jacobsson LT, Westman KW, Sturfelt G, Segelmark M.Incidence and survival rates in Wegener's granulomatosis, microscopic polyangiitis, Churg-Strauss syndrome and polyarteritis nodosa.Rheumatology(Oxford) 48(12):1560-1565, 2009.doi:10.1093/rheumatology/kep304
+
+【结节性多动脉炎的病因】
+大多数病例是特发性的。约有20％的患者有乙肝或丙肝病毒的感染。
+结节性多动脉炎的病因不明，但可能与免疫机制有关。临床与病理表现的多样性，提示存在着多种发病机制。药物可能也是病因之一。通常没有确定的致病抗原存在。在某些淋巴瘤、白血病、类风湿性关节炎或干燥综合征的患者中可以发展为类似结节性多动脉炎的系统性血管炎（有时成为继发性PAN）。
+已鉴定出一种与腺苷脱氨酶 2 (ADA2) 基因突变相关的单基因型结节性多动脉炎（PAN）（1）。它以常染色体隐性方式遗传，表现出类似于PAN的血管病变。此外，患有VEXAS（空泡，E1酶，X连锁，自身炎症，体细胞）综合症的患者，这是一种以泛素样修饰酶1（UBA1）基因中的体细胞突变为特征的自身炎症疾病，可能会出现PAN（2）。
+
+【病因参考文献】
+1.Navon Elkan P, Pierce SB, Segel R, et al.Mutantadenosinedeaminase 2 in a polyarteritis nodosa vasculopathy.N Engl J Med370(10):921-931, 2014.doi:10.1056/NEJMoa1307362
+1.Navon Elkan P, Pierce SB, Segel R, et al.Mutantadenosinedeaminase 2 in a polyarteritis nodosa vasculopathy.N Engl J Med370(10):921-931, 2014.doi:10.1056/NEJMoa1307362
+2.Beck DB, Ferrada MA, Sikora KA, et al.Somatic Mutations inUBA1and Severe Adult-Onset Autoinflammatory Disease.N Engl J Med383(27):2628-2638, 2020.doi:10.1056/NEJMoa2026834
+2.Beck DB, Ferrada MA, Sikora KA, et al.Somatic Mutations inUBA1and Severe Adult-Onset Autoinflammatory Disease.N Engl J Med383(27):2628-2638, 2020.doi:10.1056/NEJMoa2026834
+
+【结节性多动脉炎的病理生理学】
+肌性动脉节段性、透壁坏死性炎症为本病特征性改变，病变多发生于血管分叉部位。不像其他血管炎疾病，PAN不累及毛细血管后小静脉或静脉。在不同发展阶段及愈合期的病变可同时出现。早期病变有多形核白细胞，偶尔也有嗜酸性li细胞；后期还可以见到淋巴细胞和浆细胞。
+一般不发生肉芽肿性炎症。内膜增生伴有继发性血栓形成和血管闭塞可导致器官和组织梗死。肌性血管壁变薄可引起小动脉瘤和动脉破裂。愈合时可致外膜形成结节状纤维化。
+肾脏、皮肤、外周神经、关节、肌肉和消化道是最常见的受累器官。较少受影响的是肝脏和心脏。肾脏缺血和梗死亦可见，但是肾小球肾炎并不是PAN的特征。紫癜（通常由小血管炎引起）和肺实质炎症并非结节性多动脉炎（PAN）的典型特征。
+
+【结节性多动脉炎的症状和体征】
+结节性多动脉炎的临床表现同许多疾病相似。病程可呈急性迁延性；或为亚急性，于数月后死亡；亦可为隐匿性，表现为慢性消耗性疾病。PAN的症状主要决定于动脉炎发病部位及其严重程度，以及继发性缺血的范围。临床表现主要集中在一个器官或一个系统中。
+最多见的早期症状有发热、乏力、盗汗、纳差、体重减轻和全身无力。局部缺血性肌炎引起的肌痛和关节痛亦常见。受累肌肉表现为压痛，可有无力。关节炎也可发生。
+症状和体征各异，取决于受累的主要器官或器官系统：
+周围神经系统：患者常常表现为非对称性周围神经病，比如多发性单神经病（多发性单神经炎），腓神经、正中神经或尺神经受累出现运动和感觉神经症状。此外，当神经分支累及时，患者可出现远端对称性多神经病。
+周围神经系统：患者常常表现为非对称性周围神经病，比如多发性单神经病（多发性单神经炎），腓神经、正中神经或尺神经受累出现运动和感觉神经症状。此外，当神经分支累及时，患者可出现远端对称性多神经病。
+中枢神经系统：中枢神经系统受累可引起头痛和癫痫发作。某些患者可出现缺血性脑卒中和脑出血，有时是因为高血压所致。
+中枢神经系统：中枢神经系统受累可引起头痛和癫痫发作。某些患者可出现缺血性脑卒中和脑出血，有时是因为高血压所致。
+肾脏：如果肾脏的小和中等大小的动脉受累，患者可有高血压、少尿、尿毒症和非特异性尿沉渣如血尿、蛋白尿，但无细胞管型。高血压可迅速恶化。肾动脉动脉瘤破裂可引起肾周围出血。在严重的病例，可见多发性肾梗死伴腰痛、肉眼血尿的出现。肾脏缺血和梗死可导致肾衰。
+肾脏：如果肾脏的小和中等大小的动脉受累，患者可有高血压、少尿、尿毒症和非特异性尿沉渣如血尿、蛋白尿，但无细胞管型。高血压可迅速恶化。肾动脉动脉瘤破裂可引起肾周围出血。在严重的病例，可见多发性肾梗死伴腰痛、肉眼血尿的出现。肾脏缺血和梗死可导致肾衰。
+胃肠道：肝脏或膀胱血管炎引起右上腹疼痛。亦可出现胆囊穿孔所致的急性腹痛。中等大小的肠系膜动脉血管炎可导致腹痛、呕吐（伴或不伴血性腹泻）、吸收不良、肠穿孔和急性腹痛。动脉瘤可在肝脏或腹腔动脉形成。
+胃肠道：肝脏或膀胱血管炎引起右上腹疼痛。亦可出现胆囊穿孔所致的急性腹痛。中等大小的肠系膜动脉血管炎可导致腹痛、呕吐（伴或不伴血性腹泻）、吸收不良、肠穿孔和急性腹痛。动脉瘤可在肝脏或腹腔动脉形成。
+心脏：某些患者有冠心病，通常是无症状，但是可引起心绞痛。缺血性或高血压性心肌病可导致心衰。
+心脏：某些患者有冠心病，通常是无症状，但是可引起心绞痛。缺血性或高血压性心肌病可导致心衰。
+皮肤：网状青斑、皮肤溃疡、痛性红斑结节、大疱或小囊泡出疹，手指或脚趾梗死和坏疽，或同时出现以上皮肤表现。PAN患者出现的结节类似红斑结节，但是与红斑结节不同，PAN的结节可发生溃疡，并且PAN在活检中表现为中等大小的动脉血管壁坏死性血管炎，通常位于深部皮肤和皮下脂肪层。
+皮肤：网状青斑、皮肤溃疡、痛性红斑结节、大疱或小囊泡出疹，手指或脚趾梗死和坏疽，或同时出现以上皮肤表现。PAN患者出现的结节类似红斑结节，但是与红斑结节不同，PAN的结节可发生溃疡，并且PAN在活检中表现为中等大小的动脉血管壁坏死性血管炎，通常位于深部皮肤和皮下脂肪层。
+生殖器：睾丸炎出现睾丸疼痛和压痛。
+生殖器：睾丸炎出现睾丸疼痛和压痛。
+
+【结节性多动脉炎的诊断】
+临床表现
+临床表现
+如果无可供活检的受累组织，则选择动脉造影
+如果无可供活检的受累组织，则选择动脉造影
+因为表现的特异性，PAN可能难以诊断。诊断应考虑到患者的多种症状，例如不明原因的发热、关节痛、皮下结节、皮肤溃疡、腹部或四肢疼痛、新发足下垂或腕下垂及迅速进展的高血压。综合临床与实验室检查结果，在排除其他原因后，通常可提示诊断。
+结节性多动脉炎的诊断需要靠活检见到坏死性动脉炎的病理改变，或对中等大小血管做血管造影时显示的典型动脉瘤而明确。磁共振血管造影可以显示微血管瘤，但是有些异常改变可能太小而无法检测到。因此，磁共振血管造影并不是患者的首选检查。
+由于病变的局灶性，未受累及的组织进行活检是无用的，故应针对有临床表现部位活检。出现病变的皮下组织，腓肠神经或肌肉取材做活检，比选肾脏和肝脏要好；肾脏和肝脏活检可能以取材错误而出现假阴性，并导致未发现的微动脉瘤出血。 与肉芽肿性多血管炎（GPA）不同，活检不太可能呈现明显的实质炎症。
+缺乏临床症状或表现轻微时，肌电图与神经传导测定可有助于选择肌肉或神经的活检取材部位。如果皮肤损害都存在，则应做包括深部真皮和皮下脂肪组织的外科皮肤活检。（取自表皮和真皮浅层的皮肤穿刺活检可能遗漏PAN的病变皮肤。）应提倡做睾丸活检，因为镜下损害在此处多见，但如无睾丸的症状或有其他可疑部位可做活检时应避免对睾丸活检。
+实验室检查是非特异性的。最常见的异常改变为白细胞升高至20,000～40,000/mcL (20～40 × 109/L)、蛋白尿和镜下血尿。患者可能出现血小板增多、红细胞沉降率和/或C反应蛋白显著升高、由于失血或肾功能衰竭引起的贫血、低白蛋白血症以及血清免疫球蛋白升高。 天冬氨酸氨基转移酶和丙氨酸氨基转移酶通常轻度升高。 应进行乙肝和丙肝检查。由于肾小球肾炎不是PAN的特征，因此在尿分析中RBC管型并不明显。
+其他检查（如抗中性粒细胞胞浆抗体[ANCA]、类风湿因子、抗环瓜氨酸多肽[抗CCP]抗体、抗核抗体[ANA]、补体C3和C4水平、冷球蛋白水平、核抗原以及核抗原可提取物抗体比如抗Smith、抗Ro/SSA、抗La/SSB和抗RNP）的检测对于鉴别其他结缔组织疾病是有必要的，例如类风湿性关节炎、系统性红斑狼疮或干燥综合征。
+
+【结节性多动脉炎的治疗】
+根据疾病严重程度，使用糖皮质激素，或与环磷酰胺、甲氨蝶呤或硫唑嘌呤联合使用。
+根据疾病严重程度，使用糖皮质激素，或与环磷酰胺、甲氨蝶呤或硫唑嘌呤联合使用。
+指示治疗乙肝
+指示治疗乙肝
+根据结节性多动脉炎的严重程度而选择治疗方案 (1)。对于轻度至中度疾病且没有严重的神经、肾脏、胃肠或心脏表现的患者，可以使用糖皮质激素联合甲氨蝶呤或硫唑嘌呤。对于有严重的神经、肾脏、胃肠道、心脏症状的患者，环磷酰胺加糖皮质激素可以改善疗效。应该积极治疗高血压。
+
+【乙肝相关的结节性多动脉炎】
+治疗目的在于快速抑制炎症和清抗病毒治疗短期使用皮质类固醇治疗几周，但应避免高剂量（> 20 mg/天），以尽量减少乙型肝炎病毒重新激活的风险。
+定期进行血浆置换直至乙肝e抗原（HBeAg）转化为乙肝e抗体（抗HBe）或至临床痊愈 (2)。尽管这个方法还未证实与单用免疫抑制剂治疗比较，是否可以改善生存率，但是可以减低乙肝长期并发症的发生率，并减轻长期用激素和免疫抑制剂的不良反应。
+
+【治疗参考文献】
+1.Chung SA, Gorelik M, Langford CA, et al.2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of Polyarteritis Nodosa.Arthritis Care Res(Hoboken) 2021;73(8):1061-1070.doi:10.1002/acr.24633
+1.Chung SA, Gorelik M, Langford CA, et al.2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of Polyarteritis Nodosa.Arthritis Care Res(Hoboken) 2021;73(8):1061-1070.doi:10.1002/acr.24633
+2.Guillevin L, Mahr A, Cohen P, et al.Short-term corticosteroids thenlamivudineand plasma exchanges to treat hepatitis B virus-related polyarteritis nodosa.Arthritis Rheum2004;51(3):482-487.doi:10.1002/art.20401
+2.Guillevin L, Mahr A, Cohen P, et al.Short-term corticosteroids thenlamivudineand plasma exchanges to treat hepatitis B virus-related polyarteritis nodosa.Arthritis Rheum2004;51(3):482-487.doi:10.1002/art.20401
+
+【结节性多动脉炎的预后】
+如及时治疗，5年生存率约为 80%，但对于伴有乙肝的患者（1）生存率可能更低。如果疾病在诊断后的18个月内达到疾病缓解则预后较好。与其他血管炎性疾病相比，复发比较少见
+以下几个症状与预后差有关：
+肾功能不全
+肾功能不全
+胃肠道受累
+胃肠道受累
+神经系统累及
+神经系统累及
+
+【预后参考】
+1.Pagnoux C, Seror R, Henegar C, et al.Clinical features and outcomes in 348 patients with polyarteritis nodosa: a systematic retrospective study of patients diagnosed between 1963 and 2005 and entered into the French Vasculitis Study Group Database.Arthritis Rheum2010;62(2):616-626.doi:10.1002/art.27240
+1.Pagnoux C, Seror R, Henegar C, et al.Clinical features and outcomes in 348 patients with polyarteritis nodosa: a systematic retrospective study of patients diagnosed between 1963 and 2005 and entered into the French Vasculitis Study Group Database.Arthritis Rheum2010;62(2):616-626.doi:10.1002/art.27240
+结节性多动脉炎是影响中等大小动脉的一种罕见系统性血管炎。
+结节性多动脉炎是影响中等大小动脉的一种罕见系统性血管炎。
+肾脏(非肾小球)、皮肤、关节、肌肉、外周神经和消化道是最常见的受累器官。
+肾脏(非肾小球)、皮肤、关节、肌肉、外周神经和消化道是最常见的受累器官。
+若患者出现不明原因发热、关节痛、皮下结节、皮肤溃疡、腹部或四肢疼痛，新发的足下垂或腕下垂，及快速进展的的高血压，应考虑结节性多动脉炎可能。
+若患者出现不明原因发热、关节痛、皮下结节、皮肤溃疡、腹部或四肢疼痛，新发的足下垂或腕下垂，及快速进展的的高血压，应考虑结节性多动脉炎可能。
+通过活检或动脉造影明确诊断。
+通过活检或动脉造影明确诊断。
+检查乙型肝炎、丙型肝炎
+检查乙型肝炎、丙型肝炎
+肾脏功能不全、消化道受累及神经系统受累者提示预后较差。
+肾脏功能不全、消化道受累及神经系统受累者提示预后较差。
+根据疾病严重程度，单用糖皮质激素或加用环磷酰胺、甲氨蝶呤、硫唑嘌呤治疗。
+根据疾病严重程度，单用糖皮质激素或加用环磷酰胺、甲氨蝶呤、硫唑嘌呤治疗。

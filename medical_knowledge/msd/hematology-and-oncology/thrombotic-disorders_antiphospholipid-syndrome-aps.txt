@@ -1,0 +1,55 @@
+标题：抗磷脂综合症（APS）
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/thrombotic-disorders/antiphospholipid-syndrome-aps
+============================================================
+
+(参见于血栓性疾病的概述。）
+抗磷脂综合征（APS）是一种自身免疫性疾病其特征是由针对一种或多种磷脂结合蛋白（例如β-2糖蛋白1、凝血酶原、膜联蛋白A5）的抗体引起的动脉、静脉或微血管血栓形成或复发性妊娠丢失。在临床实验室中，抗磷脂综合征与抗心磷脂抗体、β2糖蛋白1抗体以及狼疮抗凝物（亦称狼疮抑制剂）相关，这些抗体会导致磷脂依赖性凝血检测时间延长，例如部分凝血活酶时间（PTT）或稀释罗素蝰蛇毒时间（dRVVT）。导致凝血测试延长的抗体最初被称为狼疮抗凝剂，因为它们最初在系统性红斑狼疮（SLE）患者中被发现。需注意抗磷脂抗体综合征或导致磷脂依赖性凝血试验延长的抗磷脂抗体（狼疮抗凝物）可能出现在无系统性红斑狼疮(1)的患者中。
+APS 血栓形成的发病机制尚不清楚。血浆中的β-2糖蛋白1与富含磷脂的表面结合。β-2糖蛋白1抗体上调细胞粘附蛋白（如E选择素）和促凝蛋白（如组织因子）。组织因子是因子VII的受体和辅因子，在上皮细胞上表达以帮助形成止血屏障。此外，β-2糖蛋白1抗体下调组织因子途径抑制剂（一种内源性抗凝蛋白）的表达。抗磷脂抗体还可以激活中性粒细胞和单核细胞，从而激活组织因子以及血小板和补体。这些紊乱中的每一种都可能导致与抗磷脂综合征相关的高凝状态。
+APS 的临床表现包括动脉或静脉血栓形成、反复流产、血小板减少症,溶血性贫血或血栓性微血管病，可导致肾脏或神经功能障碍。
+
+【灾难性抗磷脂综合征】
+在一小部分APS患者中，广泛的血栓形成发生在供应多个器官的小血管中，通常包括大脑(导致神经缺陷）。这种情况称为灾难性抗磷脂综合征（CAPS），其临床表现可与弥散性血管内凝血（DIC）、肝素诱导的血小板减少症（HIT）及血栓性微血管病（TMA）相混淆。
+对于 APS 实验室检查结果呈阳性的多器官衰竭（三个或更多器官功能障碍）患者，应考虑 CAPS 的诊断 (2)。急性肾损伤、脑病、肾上腺出血（由于血栓形成）、皮肤坏死和弥漫性肺泡出血是已知的表现形式。
+治疗包括大剂量的糖皮质激素、抗凝、血浆置换和/或静脉注射免疫球蛋白，有时需使用利妥昔单抗（抗CD20单克隆抗体）或依库珠单抗（抗补体C5成分单克隆抗体）。
+
+【参考文献】
+1.Devreese KMJ, Bertolaccini ML, Branch DW, et al.An update on laboratory detection and interpretation of antiphospholipid antibodies for diagnosis of antiphospholipid syndrome: guidance from the ISTH-SSC Subcommittee on Lupus Anticoagulant/Antiphospholipid Antibodies.J Thromb Haemost.2025;23(2):731-744.doi:10.1016/j.jtha.2024.10.022
+1.Devreese KMJ, Bertolaccini ML, Branch DW, et al.An update on laboratory detection and interpretation of antiphospholipid antibodies for diagnosis of antiphospholipid syndrome: guidance from the ISTH-SSC Subcommittee on Lupus Anticoagulant/Antiphospholipid Antibodies.J Thromb Haemost.2025;23(2):731-744.doi:10.1016/j.jtha.2024.10.022
+2.Cervera R, Rodríguez-Pintó I, Espinosa G.The diagnosis and clinical management of the catastrophic antiphospholipid syndrome: A comprehensive review.J Autoimmun.2018;92:1-11.doi:10.1016/j.jaut.2018.05.007
+2.Cervera R, Rodríguez-Pintó I, Espinosa G.The diagnosis and clinical management of the catastrophic antiphospholipid syndrome: A comprehensive review.J Autoimmun.2018;92:1-11.doi:10.1016/j.jaut.2018.05.007
+
+【抗磷脂综合征的诊断】
+临床事件（动脉或静脉血栓形成，或特定妊娠并发症）
+临床事件（动脉或静脉血栓形成，或特定妊娠并发症）
+抗磷脂抗体的实验室检测
+抗磷脂抗体的实验室检测
+抗磷脂综合征的诊断基于持续性抗磷脂抗体阳性背景下无法解释的血栓事件或特定妊娠病症（1, 2）。特定妊娠疾病包括≥10周不明原因胎死宫内、<10周连续多次不明原因流产，或因子痫、先兆子痫或胎盘功能不全导致的早产。
+对于出现提示有抗磷脂综合征（APS）的临床事件（即血栓形成或流产）的患者，应进行以下抗磷脂抗体实验室检测（3):
+狼疮抗凝剂
+狼疮抗凝剂
+抗心磷脂抗体（aCL）IgG或IgM
+抗心磷脂抗体（aCL）IgG或IgM
+抗β2糖蛋白I（aβ2GPI）IgG 或 IgM Anti-β2 glycoprotein I (aβ2GPI) IgG or IgM
+抗β2糖蛋白I（aβ2GPI）IgG 或 IgM Anti-β2 glycoprotein I (aβ2GPI) IgG or IgM
+若初始抗磷脂抗体检测阳性，应在≥12周后复测以确认其持续升高。
+在存在抗磷脂抗体的情况下，PTT 会延长，并且与正常血浆 1:1 或 4:1 混合时不能校正。添加过量纯化磷脂后 PTT 的校正与抗磷脂抗体的存在一致。
+稀释鲁塞尔蝰蛇毒液时间(DRVVT) 是用于检测抗磷脂抗体的另一种凝血测定方法。它比 PTT 对抗磷脂抗体的存在更敏感。毒液通过激活X因子而引起凝血。抗磷脂抗体的存在可以延长凝血过程。正常血浆对凝血时间没有影响，而加入过量的磷脂可以逆转凝血时间的延长。
+
+【诊断参考】
+1.Barbhaiya M, Zuily S, Naden R, et al.The 2023 ACR/EULAR Antiphospholipid Syndrome Classification Criteria.Arthritis Rheumatol.2023;75(10):1687-1702.doi:10.1002/art.42624
+1.Barbhaiya M, Zuily S, Naden R, et al.The 2023 ACR/EULAR Antiphospholipid Syndrome Classification Criteria.Arthritis Rheumatol.2023;75(10):1687-1702.doi:10.1002/art.42624
+2.Garcia D, Erkan D.Diagnosis and Management of the Antiphospholipid Syndrome.N Engl J Med.2018;378(21):2010-2021.doi:10.1056/NEJMra1705454.
+2.Garcia D, Erkan D.Diagnosis and Management of the Antiphospholipid Syndrome.N Engl J Med.2018;378(21):2010-2021.doi:10.1056/NEJMra1705454.
+3.Atsumi T, Chighizola CB, Fujieda Y, et al.16th International congress on antiphospholipid antibodies task force report on antiphospholipid syndrome laboratory diagnostics and trends.Lupus.2023;32(14):1625-1636.doi:10.1177/09612033231211820
+3.Atsumi T, Chighizola CB, Fujieda Y, et al.16th International congress on antiphospholipid antibodies task force report on antiphospholipid syndrome laboratory diagnostics and trends.Lupus.2023;32(14):1625-1636.doi:10.1177/09612033231211820
+
+【抗磷脂综合征的治疗】
+对于血栓性抗磷脂综合征 (APS) 患者，使用华法林进行无限期治疗，目标 INR 为 2 至 3 ，是标准治疗方法 (1）。直接口服抗凝药(DOACs)的血栓复发率较高，尤其见于动脉血栓患者或三项诊断检测均阳性的患者。因此，直接口服抗凝药不应用于这些高风险的抗磷脂综合征患者。直接口服抗凝药可用于低风险的抗磷脂综合征患者，但需谨慎评估其较华法林更高的血栓复发风险），但出血风险更低。
+一些专家建议对抗磷脂综合征合并动脉血栓的患者使用阿司匹林加用华法林或华法林并将INR目标值设定在3-4，但缺乏高质量证据证明这些方案的优越性(2)。
+妊娠期间使用未分级肝素或低分子肝素加低剂量阿司匹林，可预防患有 APS 的女性再次流产。分娩后，继续使用普通肝素或低分子量肝素6周以预防血栓形成。
+
+【治疗参考文献】
+1.Garcia D, Erkan D.Diagnosis and Management of the Antiphospholipid Syndrome.N Engl J Med.2018;378(21):2010-2021.doi:10.1056/NEJMra1705454.
+1.Garcia D, Erkan D.Diagnosis and Management of the Antiphospholipid Syndrome.N Engl J Med.2018;378(21):2010-2021.doi:10.1056/NEJMra1705454.
+2.Knight JS, Branch DW, Ortel TL.Antiphospholipid syndrome: advances in diagnosis, pathogenesis, and management.BMJ.2023;380:e069717.Published 2023 Feb 27.doi:10.1136/bmj-2021-069717
+2.Knight JS, Branch DW, Ortel TL.Antiphospholipid syndrome: advances in diagnosis, pathogenesis, and management.BMJ.2023;380:e069717.Published 2023 Feb 27.doi:10.1136/bmj-2021-069717

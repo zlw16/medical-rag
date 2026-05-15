@@ -1,0 +1,65 @@
+标题：Escherichia coliO157:H7及其他肠出血E. coli（EHEC）引起的感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-negative-bacilli/infection-by-escherichia-coli-o157-h7-and-other-enterohemorrhagic-e-coli-ehec
+============================================================
+
+
+【E. coli（大肠埃希菌）O157:H7和EHEC的流行病学】
+肠出血性E. coli（大肠埃希菌）(EHEC)包括>100多种血清型，这些血清型会产生志贺毒素和志贺样毒素（产志贺毒素E. coli（大肠埃希菌）STEC]；也称为产维罗毒素E. coli（大肠埃希菌）[VTEC]）。然而，只有少数血清型与人类疾病有关。
+E. coli大肠埃希杆菌O157:H7是北美最常见的STEC。然而，非O157血清型STEC（尤其是O26，O45，O91，O103，O111，O113，O121，O128和O145）也可引起肠出血性疾病，尤其是在美国以外地区。2011 年，血清型 O104:H4 在欧洲引发了严重的跨国疫情。
+在美国和加拿大的一些地区，E. coli（大肠埃希菌）O157:H7感染可能比志贺菌病或沙门氏菌病更常见引起血性腹泻。E. coli（大肠埃希菌）O157:H7感染可发生于任何年龄段的人群，但严重感染最常见于儿童和老年人。
+E. coli（大肠埃希菌）O157:H7和其他STEC的天然宿主是牛。感染可通过被牛粪污染的食物或水传播，如在暴发和散发病例中，通常发生在摄入未煮熟的牛肉（尤其是碎牛肉，如汉堡）或未经巴氏杀菌的牛奶后。2011年欧洲O104:H4疫情爆发中，感染是通过受污染的生豆芽传播的 (1)。 细菌也可能通过粪口途径传播，常见于穿戴尿布的婴儿（例如，经由未充分氯化消毒的儿童浅水池）。
+
+【流行病学参考文献】
+1.Centers for Disease Control and Prevention (CDC).Outbreak ofEscherichia coliO104:H4 infections associated with sprout consumption - Europe and North America, May-July 2011.MMWR Morb Mortal Wkly Rep.2013;62(50):1029-1031.
+1.Centers for Disease Control and Prevention (CDC).Outbreak ofEscherichia coliO104:H4 infections associated with sprout consumption - Europe and North America, May-July 2011.MMWR Morb Mortal Wkly Rep.2013;62(50):1029-1031.
+
+【E. coli（大肠埃希菌）O157:H7和EHEC的病理生理学】
+摄入后，E. coli（大肠埃希菌）O157:H7 和类似的 STEC 血清型在大肠中产生大量的各种毒素；这些毒素与志贺菌Shigella dysenteriae（志贺氏痢疾杆菌）1 型产生的强效细胞毒素密切相关。这些毒素直接破坏肠壁的黏膜细胞和血管内皮细胞。 如果被吸收，可能损害其他器官的血管内皮细胞（如肾脏）。
+高达22%的病例（大部分是<5岁以下的儿童和>60岁以上的老人）合并溶血尿毒综合征(1)，通常在病程第二周出现。可发生死亡，尤其在老年人，伴或不伴并发症。
+
+【病理生理学参考文献】
+1.Wong CS, Mooney JC, Brandt JR, et al.Risk factors for the hemolytic uremic syndrome in children infected withEscherichia coliO157:H7: a multivariable analysis.Clin Infect Dis.2012;55(1):33-41.doi:10.1093/cid/cis299
+1.Wong CS, Mooney JC, Brandt JR, et al.Risk factors for the hemolytic uremic syndrome in children infected withEscherichia coliO157:H7: a multivariable analysis.Clin Infect Dis.2012;55(1):33-41.doi:10.1093/cid/cis299
+
+【E. coli（大肠埃希菌） O157:H7和EHEC的症状和体征】
+EHEC感染典型的表现为严重的腹部痉挛疼痛和水样泻，在24小时内可明显变成血性。部分患者主诉腹泻为"全是血而无粪便"，因此被称为出血性结肠炎。通常没有发热或伴有低热，偶尔可达到39°C。如果没有并发症腹泻持续1~8天。
+E. coli（大肠埃希菌）O157:H7的慢性定植可在症状消退后出现，并可能导致再次感染以及传染给他人。
+溶血尿毒综合征引起血细胞比容和血小板计数快速下降，血清肌酐升高，高血压，并可能出现体液超负荷，出血倾向和神经症状和体征。
+
+【E. coli（大肠埃希菌）O157:H7和EHEC的诊断】
+粪便培养
+粪便培养
+快速检测粪便志贺毒素或分子检测
+快速检测粪便志贺毒素或分子检测
+通过粪便培养分离微生物，E. coliO157:H7和其他STEC感染应与其他感染性腹泻进行鉴别。EHEC 感染的培养需要特殊的培养基（山梨醇麦康凯琼脂）。通过鉴定具体的血清型有助于确定感染源。通常，临床医生必须特别要求实验室检测该病原体。
+由于血性腹泻和无发热的严重腹痛常提示各种非感染性病因，因此在怀疑缺血性结肠炎、肠套叠和炎症性肠病的病例中，应考虑EHEC感染。粪便中无炎性细胞是其特征性表现。通过快速粪便检测志贺毒素或对毒素编码基因进行分子检测，可以立即做出诊断（1)，但必须在适当的临床背景下解释阳性结果。
+非感染性腹泻高危患者可能需要乙状结肠镜检查。镜下显示红斑和水肿;钡灌肠或腹部X线平片典型表现是拇指印样水肿。
+
+【诊断参考文献】
+1.Grys TE, Sloan LM, Rosenblatt JE, Patel R.Rapid and sensitive detection of Shiga toxin-producingEscherichia colifrom nonenriched stool specimens by real-time PCR in comparison to enzyme immunoassay and culture.J Clin Microbiol.2009;47(7):2008-2012.doi:10.1128/JCM.02013-08
+1.Grys TE, Sloan LM, Rosenblatt JE, Patel R.Rapid and sensitive detection of Shiga toxin-producingEscherichia colifrom nonenriched stool specimens by real-time PCR in comparison to enzyme immunoassay and culture.J Clin Microbiol.2009;47(7):2008-2012.doi:10.1128/JCM.02013-08
+
+【E. coli（大肠埃希菌）O157:H7和EHEC的治疗】
+支持治疗
+支持治疗
+EHEC感染主要的治疗是支持治疗。虽然大肠杆菌对大部分常用抗生素敏感，但抗生素不能减轻症状、减少细菌携带量，也不能预防溶血性尿毒综合征。氟喹诺酮类药物可能增加肠毒素的释放和溶血性尿毒症综合征的风险，应避免使用。同样，不应给予抗蠕动药物，因为它们会增加全身并发症的风险。
+感染后的前 2 周内，有发生溶血性尿毒症综合征高风险的患者（例如<5岁的儿童、老年人）应观察是否有溶血性贫血、血小板减少、蛋白尿、血尿、红细胞管型和血清肌酐升高等早期临床症状和并发症的体征。随后表现为水肿和高血压。患者出现并发症可能需要加强监护，包括需要透析和其他特殊的治疗，收住综合能力强的上级医院。
+
+【E. coli（大肠埃希菌）O157:H7和EHEC的预防】
+在美国改善的肉类加工程序有助于降低肉类污染率。
+正确处理感染者的粪便，保持良好的卫生，并用肥皂和自来水仔细洗手，以限制感染的传播。
+在日托环境中可能有效的预防措施包括将已知感染 STEC 的儿童与未感染的儿童分开（接触隔离）或要求受感染的儿童进行 2 次粪便培养阴性后才能入学。
+巴氏消毒牛奶和彻底煮熟牛肉可预防经食物传播。
+血性腹泻流行暴发应上报公共卫生机构，及时采取措施可预防新发感染。
+肠出血E. coli（大肠埃希菌）（EHEC）产生志贺毒素，引起严重的出血性腹泻，有时引起溶血性尿毒综合征。
+肠出血E. coli（大肠埃希菌）（EHEC）产生志贺毒素，引起严重的出血性腹泻，有时引起溶血性尿毒综合征。
+EHEC有100多种血清型；其中O157:H7是最为熟知的，但是许多其他血清型可引起相似的疾病。
+EHEC有100多种血清型；其中O157:H7是最为熟知的，但是许多其他血清型可引起相似的疾病。
+牛是EHEC的宿主，所以疫情通常是由摄入未煮熟的牛肉（如汉堡）引起的，但可能涉及许多其他食物（如新鲜农产品、生奶）和来源（如直接接触动物）。
+牛是EHEC的宿主，所以疫情通常是由摄入未煮熟的牛肉（如汉堡）引起的，但可能涉及许多其他食物（如新鲜农产品、生奶）和来源（如直接接触动物）。
+使用快速粪便分析法识别志贺毒素或进行分子检测，并使用培养物（需要特殊培养基）识别EHEC。
+使用快速粪便分析法识别志贺毒素或进行分子检测，并使用培养物（需要特殊培养基）识别EHEC。
+提供支持治疗；抗生素治疗无效。
+提供支持治疗；抗生素治疗无效。
+发病后1 ~ 2周监测有风险患者(如< 5岁的儿童、老年人)的溶血性尿毒症综合征体征。
+发病后1 ~ 2周监测有风险患者(如< 5岁的儿童、老年人)的溶血性尿毒症综合征体征。

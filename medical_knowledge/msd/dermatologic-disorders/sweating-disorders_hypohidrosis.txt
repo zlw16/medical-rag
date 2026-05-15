@@ -1,0 +1,25 @@
+标题：少汗症
+来源：https://www.msdmanuals.cn/professional/dermatologic-disorders/sweating-disorders/hypohidrosis
+============================================================
+
+因皮肤异常引起的少汗症很少具有临床意义。大多患者仅局部皮肤受累，常见诱因有局部皮肤损伤（例如外伤、射线、感染[例如麻风]或炎症反应）或因结缔组织疾病导致腺体萎缩（例如系统性硬化、系统性红斑狼疮、干燥综合征） (1)。
+少汗症是一些遗传病的特征（例如，少汗性和无汗性外胚层发育不良）。编码钙通道单个基因的突变（ITPR2）突变导致无汗，即完全不出汗（1)。
+药物可诱发少汗症，尤其是具有抗胆碱能性质的药物。糖尿病神经病变和许多先天性综合征也可引起少汗症。
+中暑时会出现少汗症状，但这不是皮肤功能障碍而是中枢神经系统紊乱。
+（参见于汗腺疾病概述）
+
+【参考文献】
+1.Chia KY, Tey HL: Approach to hypohidrosis.J Eur Acad Dermatol Venereol27(7):799-804, 2013.doi: 10.1111/jdv.12014
+1.Chia KY, Tey HL: Approach to hypohidrosis.J Eur Acad Dermatol Venereol27(7):799-804, 2013.doi: 10.1111/jdv.12014
+2.Klar J, Hisatsune C, Baig SM, Tariq M, et al: Abolished InsP3R2 function inhibits sweat secretion in both humans and mice.J Clin Invest124(11):4773–4780, 2014.doi: 10.1172/JCI70720
+2.Klar J, Hisatsune C, Baig SM, Tariq M, et al: Abolished InsP3R2 function inhibits sweat secretion in both humans and mice.J Clin Invest124(11):4773–4780, 2014.doi: 10.1172/JCI70720
+
+【少汗症的诊断】
+临床评估
+临床评估
+少汗症诊断需通过临床观察有无出汗减少，或热耐受不良。
+
+【少汗症的治疗】
+防止过热和冷却的各种方法
+防止过热和冷却的各种方法
+少汗症的治疗包括避免外源性因素（例如具有抗胆碱能作用的药物）、避免升高内部核心温度的活动以及使用降温措施（例如空调、湿衣服）。

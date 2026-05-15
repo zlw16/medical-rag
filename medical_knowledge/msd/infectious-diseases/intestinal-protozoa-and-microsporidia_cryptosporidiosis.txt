@@ -1,0 +1,123 @@
+标题：隐孢子虫病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/intestinal-protozoa-and-microsporidia/cryptosporidiosis
+============================================================
+
+（参见肠道原虫和微孢子虫感染概述。）
+
+【隐孢子虫病的病理生理】
+隐孢子虫是一种在脊椎动物宿主的小肠黏膜上皮细胞内复制繁殖的专性胞内球虫类原虫。
+Cryptosporidium（隐孢子虫）卵囊被摄入后，会在消化道中脱囊释放孢子体，定植于消化道上皮细胞。在这些细胞中，孢子体转化为滋养体，增殖并产生卵囊。
+有两种类型的卵囊：
+宿主经常排出体外的是厚壁卵囊
+宿主经常排出体外的是厚壁卵囊
+涉及自体感染的主要是薄壁卵囊。
+涉及自体感染的主要是薄壁卵囊。
+厚壁的感染性卵囊排入肠腔，并由感染宿主粪便排出体外;厚壁卵囊排出后可立即导致感染，且可通过粪 - 口途径直接在人际间传播。极少量的卵囊（例如<100个）就可造成疾病，因此，人际传播的危险随之增加 (1) 。
+当感染性卵囊被人类或其他脊椎动物宿主摄入时，生命周期再次开始。
+Cryptosporidium主要通过接触受污染的水（如饮用水、游泳池）传播，偶尔通过受污染的食物传播。
+1. 孢子化卵囊由受感染宿主通过粪便和可能的其他途径（例如呼吸道分泌物）排出体外。卵囊在排出时具有传染性；因此，直接和即时的粪口传播是可能的。
+2–3 (a–k)。 卵囊被摄入（或可能被吸入）和脱囊。 子孢子被释放并寄生于胃肠道或其他组织（例如呼吸道）的上皮细胞。在这些细胞中，寄生虫转化为滋养体并无性繁殖，然后有性繁殖，产生小配子体（雄性）和大配子体（雌性），它们交配并产生卵囊。卵囊在受感染的宿主中形成孢子。产生两种类型的卵囊：通常由宿主排泄的厚壁卵囊和主要参与自身感染的薄壁卵囊。
+Image from the Centers for Disease Control and Prevention Image Library.
+卵囊可抵抗恶劣的环境条件，包括公共水处理系统和游泳池中通常使用的氯浓度，即使残留氯含量达到推荐标准。
+
+【病理生理学参考文献】
+1.DuPont HL, Chappell CL, Sterling CR, et al: The infectivity ofCryptosporidium parvumin healthy volunteers.N Engl J Med.1995;332(13):855-859.doi:10.1056/NEJM199503303321304
+1.DuPont HL, Chappell CL, Sterling CR, et al: The infectivity ofCryptosporidium parvumin healthy volunteers.N Engl J Med.1995;332(13):855-859.doi:10.1056/NEJM199503303321304
+
+【隐孢子虫病流行病学】
+Cryptosporidium种属可感染的动物种类繁多。人类隐孢子虫病大多由微小隐孢子虫和人隐孢子虫（旧称小隐孢子虫基因1型）感染所致。也有C. felis(猫隐孢子虫)、C. meleagridis(火鸡隐孢子虫)、C. canis(犬隐孢子虫)和C. muris(鼠隐孢子虫)感染的报告。摄入即使是相对少量的卵囊也会导致疾病。 感染源于下列情况：
+误食被粪便污染的食物或水（公共和住宅游泳池、热水浴盆、水上公园、湖泊或溪流中的水）。
+误食被粪便污染的食物或水（公共和住宅游泳池、热水浴盆、水上公园、湖泊或溪流中的水）。
+直接人对人接触传播。
+直接人对人接触传播。
+人畜共患传播
+人畜共患传播
+隐孢子虫病在世界范围内流行，是撒哈拉以南非洲和南亚中度严重腹泻的常见原因（1）。
+美国疾病控制与预防中心 (CDC) 估计，美国每年约有 823,000 例隐孢子虫病病例，其中约 10% 归因于国际旅行（见CDC:黄皮书2024:隐孢子虫病）。2009年至2017年，美国共报告发生444起隐孢子虫病疫情，覆盖40个州和波多黎各，共计7465例病例。报告的疫情数量平均每年增加 13%，这可能是由于分子诊断的使用增加。主要原因包括在游泳池或水上游乐场吞下受污染的水、接触受感染的牛以及在儿童保育场所接触受感染的人（2)。1993年在威斯康星州的密尔沃基发生过一次由水源性传播导致的暴发，有>400,000人被感染，当时城市的供水系统被在春天雨季的污水污染，同时过滤系统也没能正常发挥作用(3)。
+儿童、去国外的旅行者、免疫受损的患者和照料隐孢子虫病患者的医务人员属高危人群。在日托中心发生过暴发流行。很少数量的卵囊即可造成感染，卵囊排出时间延长，卵囊抵抗氯化消毒，以及体积小等因素，提示需要关注使用游泳池的婴儿。
+由隐孢子虫病导致的严重慢性腹泻也是艾滋病患者所要面对的问题之一，尤其是那些没有接受过抗逆转录病毒疗法 (ART) 的人。
+
+【流行病学参考】
+1.Sow SO, Muhsen K, Nasrin D, et al: The Burden of Cryptosporidium Diarrheal Disease among Children < 24 Months of Age in Moderate/High Mortality Regions of Sub-Saharan Africa and South Asia, Utilizing Data from the Global Enteric Multicenter Study (GEMS).PLoS Negl Trop Dis.2016;10(5):e0004729.Published 2016 May 24.doi:10.1371/journal.pntd.0004729
+1.Sow SO, Muhsen K, Nasrin D, et al: The Burden of Cryptosporidium Diarrheal Disease among Children < 24 Months of Age in Moderate/High Mortality Regions of Sub-Saharan Africa and South Asia, Utilizing Data from the Global Enteric Multicenter Study (GEMS).PLoS Negl Trop Dis.2016;10(5):e0004729.Published 2016 May 24.doi:10.1371/journal.pntd.0004729
+2.Gharpure R, Perez A, Miller AD, et al: Cryptosporidiosis Outbreaks—United States, 2009-2017.MMWR Morb Mortal Wkly Rep68:568-72, 2019.
+2.Gharpure R, Perez A, Miller AD, et al: Cryptosporidiosis Outbreaks—United States, 2009-2017.MMWR Morb Mortal Wkly Rep68:568-72, 2019.
+3.Mac Kenzie WR, Hoxie NJ, Proctor ME, et al: A massive outbreak in Milwaukee ofcryptosporidiuminfection transmitted through the public water supply [published correction appears inN Engl J Med1994 Oct 13;331(15):1035].N Engl J Med.1994;331(3):161-167.doi:10.1056/NEJM199407213310304
+3.Mac Kenzie WR, Hoxie NJ, Proctor ME, et al: A massive outbreak in Milwaukee ofcryptosporidiuminfection transmitted through the public water supply [published correction appears inN Engl J Med1994 Oct 13;331(15):1035].N Engl J Med.1994;331(3):161-167.doi:10.1056/NEJM199407213310304
+
+【隐孢子虫病的临床症状和体征】
+隐孢子虫病的潜伏期约1周，高达80%的感染者会出现临床症状。发病通常是突然的，伴有水样腹泻、腹部绞痛，较少见的有恶心、厌食、发热和不适。 症状一般持续2~3周，偶可≥1个月，然后消退。临床症状消失后，粪便排卵囊还可持续数周。在卫生条件差的国家，无症状的卵囊脱落在儿童中很常见。隐孢子虫病也与生活在这些地区的儿童营养不良有关。
+免疫缺陷的患者，起病可能较缓慢，但腹泻更严重。除非潜在的免疫缺陷得到纠正，否则感染可能会持续下去，导致终生顽固性腹泻。据报道，一些艾滋病患者（尤其是 CD4 细胞计数小于 100 细胞/微升的患者）每天的体液流失量>5 至 10 升。 免疫缺陷患者最常见的感染部位为肠道，但其他器官也可被累及（如胆道、胰腺、呼吸道）。
+
+【隐孢子虫病的诊断】
+粪便抗原酶联免疫检测或寄生虫DNA分子探针
+粪便抗原酶联免疫检测或寄生虫DNA分子探针
+粪便显微镜检查（需要特殊技术）
+粪便显微镜检查（需要特殊技术）
+证实粪便中存在抗酸性卵囊可证实隐孢子虫病诊断，但传统的粪便检查方法（即常规“粪便找虫卵和寄生虫”检测）结果不可靠。由于卵囊的排出是间歇性的，因此需要反复收集粪便标本进行检测。多种浓集方法可提高检出率。可以通过相差显微镜或通过用改良的Ziehl-Neelsen或Kinyoun染色技术来鉴定Cryptosporidium隐孢子虫卵囊。 用荧光素标记的单克隆抗体进行免疫荧光显微镜检查可以获得更高的灵敏度和特异性。
+酶联免疫法检测粪便中的Cryptosporidium隐孢子虫抗原比通过显微镜检测卵囊更为敏感。
+现有高灵敏度、特异性的基于DNA的检测方法，可用于C. parvum(微小隐孢子虫)和C. hominis(人隐孢子虫)的检测及分型。
+肠活检可在上皮细胞中发现Cryptosporidium隐孢子虫。
+可以进行血清学检测；然而，它们主要用作流行病学工具，因为抗体的持续存在限制了它们在急性感染诊断中的应用。
+
+【隐孢子虫病的治疗】
+非HIV感染但持续感染患者的口服硝唑尼特治疗
+非HIV感染但持续感染患者的口服硝唑尼特治疗
+HIV 患者的抗逆转录病毒疗法 (ART)；硝唑尼特可能会改善症状，但不一定能治愈感染
+HIV 患者的抗逆转录病毒疗法 (ART)；硝唑尼特可能会改善症状，但不一定能治愈感染
+免疫正常者的隐孢子虫病是自限性的。对于严重或持续性感染，可使用口服硝唑尼特。
+没有药物被证明对免疫抑制患者有效。对于HIV感染者，使用ART进行免疫重建是关键。硝唑尼特 持续 14 天或更长时间可有效减轻 CD4 计数 > 50/mcL 的成人的症状。帕罗莫霉素，或帕罗莫霉素和硝唑尼特的组合，可用于减少腹泻和抗微生物药物的顽固性吸收不良，这可能发生在慢性隐孢子虫病中(1)。
+免疫缺陷的重症患者可能需支持疗法、口服或胃肠外补液以及肠外高营养治疗。
+
+【治疗参考文献】
+1.Pantenburg B, Cabada MM, White AC Jr: Treatment of cryptosporidiosis.Expert Rev Anti Infect Ther7(4):385-91, 2009.doi: 10.1586/eri.09.24
+1.Pantenburg B, Cabada MM, White AC Jr: Treatment of cryptosporidiosis.Expert Rev Anti Infect Ther7(4):385-91, 2009.doi: 10.1586/eri.09.24
+
+【隐孢子虫病的预防】
+预防隐孢子虫病需要
+有效的公共水处理
+有效的公共水处理
+卫生的食物准备措施
+卫生的食物准备措施
+国际旅行期间的特殊预防措施
+国际旅行期间的特殊预防措施
+合适的粪-口卫生
+合适的粪-口卫生
+接触人畜粪便后彻底洗手
+接触人畜粪便后彻底洗手
+在湖泊、河流、溪流、海洋、游泳池和热水浴缸中游泳时不吞咽水
+在湖泊、河流、溪流、海洋、游泳池和热水浴缸中游泳时不吞咽水
+安全的性行为
+安全的性行为
+前往卫生条件差的地区时要特别小心
+前往卫生条件差的地区时要特别小心
+疾病控制与预防中心 (CDC) 为普通公众和因 HIV 或其他原因导致免疫力低下的人提供了具体建议（见 CDC：公众人士和免疫力低下人士）。
+隐孢子虫病患者的粪便有高度传染性；应严格执行粪便防护措施。已经对临床样本的处理制定了特殊的生物安全指南。将可能受污染的水煮沸1分钟（在海拔>2000米[6562英尺]的地区煮沸3分钟）是最可靠的消毒方法；只有孔径≤1微米（特指"绝对1微米"或通过NSF/ANSI国际标准第53号或第58号认证）的过滤器才能清除Cryptosporidium(隐孢子虫)卵囊。
+旅行者可以通过严格遵守饮食和水预防措施并采用正确的洗手方法来降低感染隐孢子虫病的风险。含酒精的洗手液对这种寄生虫无效。(See also CDC: Yellow Book:CryptosporidiosisandFood & Water Precautions.)
+隐孢子虫病容易传播是因为症状缓解后粪便中仍持续有卵囊排出，并持续数周，导致感染需要的卵囊量并不多，传统的水过滤法很难清除卵囊而且它们可抵抗氯化消毒。
+隐孢子虫病容易传播是因为症状缓解后粪便中仍持续有卵囊排出，并持续数周，导致感染需要的卵囊量并不多，传统的水过滤法很难清除卵囊而且它们可抵抗氯化消毒。
+伴有痉挛的水样腹泻通常是自限性的，但在艾滋病晚期患者中可能很严重且持续终身。
+伴有痉挛的水样腹泻通常是自限性的，但在艾滋病晚期患者中可能很严重且持续终身。
+使用酶免疫法检测粪便中的Cryptosporidium(隐孢子虫)抗原和显微镜粪便检查进行诊断；后者敏感性较低，需要专门的技术（如相差显微镜、抗酸染色等）。
+使用酶免疫法检测粪便中的Cryptosporidium(隐孢子虫)抗原和显微镜粪便检查进行诊断；后者敏感性较低，需要专门的技术（如相差显微镜、抗酸染色等）。
+对于没有感染HIV的人群来说，如果症状持续存在，可使用硝唑尼特。
+对于没有感染HIV的人群来说，如果症状持续存在，可使用硝唑尼特。
+艾滋病患者应用ART治疗；通过ART治疗，患者免疫功能改善后，症状可减轻。
+艾滋病患者应用ART治疗；通过ART治疗，患者免疫功能改善后，症状可减轻。
+硝唑尼特可以改善症状，但并不总能治愈艾滋病终末期患者的感染。
+硝唑尼特可以改善症状，但并不总能治愈艾滋病终末期患者的感染。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+US Department of Health and Human Services: Guidelines for the Prevention and Treatment of Opportunistic Infections in HIV-Exposed and HIV-Infected Children
+US Department of Health and Human Services: Guidelines for the Prevention and Treatment of Opportunistic Infections in HIV-Exposed and HIV-Infected Children
+Centers for Disease Control and Prevention (CDC):CryptosporidiumPrevention & Control: Includes recommendations intended to help prevent and control cryptosporidiosis in the general public
+Centers for Disease Control and Prevention (CDC):CryptosporidiumPrevention & Control: Includes recommendations intended to help prevent and control cryptosporidiosis in the general public
+CDC:CryptosporidiumPrevention & Control – Immunocompromised Persons
+CDC:CryptosporidiumPrevention & Control – Immunocompromised Persons
+CDC: Yellow Book:Cryptosporidiosis
+CDC: Yellow Book:Cryptosporidiosis
+CDC: Yellow Book:Food & Water Precautions
+CDC: Yellow Book:Food & Water Precautions
+European Centre for Disease Prevention and Control: Cryptosporidiosis
+European Centre for Disease Prevention and Control: Cryptosporidiosis

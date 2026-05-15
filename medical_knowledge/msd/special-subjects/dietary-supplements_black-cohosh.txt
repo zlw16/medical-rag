@@ -1,0 +1,46 @@
+标题：黑升麻
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/black-cohosh
+============================================================
+
+黑升麻是一种植物的根状茎（地下茎），可以直接以粉末形式服用，或萃取成胶囊或液体形式。针对黑升麻中包含的某些三萜化合物，需要制订一定的质量标准。黑升麻不含有植物雌激素，因此并不具有传说中的雌激素样作用，但是它含有少量的抗炎化合物，包括水杨酸。
+
+【黑升麻功效宣称】
+黑升麻被认为对更年期症状（潮热、情绪不稳、心动过速和阴道干涩）、类风湿关节炎或骨关节炎关节痛有效。
+
+【黑升麻证据】
+关于黑升麻缓解更年期症状的益处的证据存在矛盾。尚无可靠的证据显示它对其他疾病和症状有效。
+多项随机试验的数据不支持黑升麻在减轻更年期症状方面的功效。例如，一项包含16项随机试验、涉及2027名围绝经期或绝经后女性的系统评价发现，在比较口服黑升麻制剂（平均剂量40毫克）与安慰剂时，潮热频率（3项试验；393名女性）或更年期症状评分（4项试验；357名女性）均无显著差异（1）。另一项包括黑升麻在内的植物产品随机试验的荟萃分析也发现其对更年期症状无益(2)。
+相比之下，随机试验的结果表明，黑升麻可能对减少血管舒缩症状有积极作用。例如，一项针对子宫完整女性的网络 Meta 分析发现，与安慰剂相比，黑升麻可减轻血管运动性更年期症状。然而，黑升麻不如激素治疗有效 (3)。 此外，另一项大型系统评价发现，与安慰剂相比，异丙醇黑升麻提取物对更年期的心理和神经能量症状（如睡眠、注意力、疲劳）有益（4）。该产品在更高剂量或与圣约翰草联合使用时似乎更有效。然而，由于各研究间使用的补充剂产品缺乏标准化，这些发现存在局限性。随后一项大型荟萃分析，涵盖22项随机试验、2310名更年期女性，比较了黑升麻单药或联合其他草药提取物的疗效，结果显示与安慰剂相比，更年期症状、潮热和躯体症状显著改善，但抑郁和焦虑症状未见改善（5）。
+
+【黑升麻的不良反应】
+副作用较少见。最有可能的是头痛、皮疹和胃肠道不适。如果使用剂量太大可致头昏、出汗和低血压。
+黑升麻禁用于阿司匹林敏感性、肝病、激素敏感性癌症（例如，根据动物数据提示的某些类型的乳腺癌）、中风或高血压患者。美国药典（USP）建议黑升麻产品标签需包含一个可能有肝脏毒性的警示声明(6)。
+此外，一名妇女在服用含有黑升麻的草药补充剂后，由于可逆的完全心脏传导阻滞而出现心动过缓。(7)。
+
+【黑升麻的药物相互作用】
+极少临床证据显示黑升麻同其他药物有相互作用。然而，一项体外研究提示，黑升麻可能抑制他莫昔芬和伊立替康这两种化疗药物的生物转化或疗效（8）。与可能对肝功能产生不良影响的药物（9）同时使用时，可能会发生肝毒性。
+
+【参考文献】
+1.Leach MJ, Moore V.Black cohosh (Cimicifuga spp.)for menopausal symptoms.Cochrane Database Syst Rev.9:CD007244, 2012.doi: 10.1002/14651858.CD007244.pub2
+1.Leach MJ, Moore V.Black cohosh (Cimicifuga spp.)for menopausal symptoms.Cochrane Database Syst Rev.9:CD007244, 2012.doi: 10.1002/14651858.CD007244.pub2
+2.Franco OH, Chowdhury R, et al.Use of plant-based therapies and menopausal symptoms: a systematic review and meta-analysis.JAMA.315(23):2554-63, 2016.doi: 10.1001/jama.2016.8012
+2.Franco OH, Chowdhury R, et al.Use of plant-based therapies and menopausal symptoms: a systematic review and meta-analysis.JAMA.315(23):2554-63, 2016.doi: 10.1001/jama.2016.8012
+3.Sarri G, Pedder H, Dias S, et al.Vasomotor symptoms resulting from natural menopause: a systematic review and network meta-analysis of treatment effects from the National Institute for Health and Care Excellence guideline on menopause.BJOG.124(10):1514-1523, 2017.doi: 10.1111/1471-0528.14619
+3.Sarri G, Pedder H, Dias S, et al.Vasomotor symptoms resulting from natural menopause: a systematic review and network meta-analysis of treatment effects from the National Institute for Health and Care Excellence guideline on menopause.BJOG.124(10):1514-1523, 2017.doi: 10.1111/1471-0528.14619
+4.Castelo-Branco C, Gambacciani M, Cano A, et al.Review & meta-analysis: isopropanolic black cohosh extract iCR for menopausal symptoms - an update on the evidence.Climacteric.24(2):109-119, 2021.doi:10.1080/13697137.2020.1820477
+4.Castelo-Branco C, Gambacciani M, Cano A, et al.Review & meta-analysis: isopropanolic black cohosh extract iCR for menopausal symptoms - an update on the evidence.Climacteric.24(2):109-119, 2021.doi:10.1080/13697137.2020.1820477
+5.Sadahiro R, Matsuoka LN, Zeng BS, et al.Black cohosh extracts in women with menopausal symptoms: an updated pairwise meta-analysis.Menopause.2023;30(7):766-773.doi:10.1097/GME.0000000000002196
+5.Sadahiro R, Matsuoka LN, Zeng BS, et al.Black cohosh extracts in women with menopausal symptoms: an updated pairwise meta-analysis.Menopause.2023;30(7):766-773.doi:10.1097/GME.0000000000002196
+6.Lim TY, Considine A, Quaglia A, et al.Subacute liver failure secondary to black cohosh leading to liver transplantation.BMJ Case Rep.Published online: 5 July 2013.doi:10.1136/bcr-2013-009325
+6.Lim TY, Considine A, Quaglia A, et al.Subacute liver failure secondary to black cohosh leading to liver transplantation.BMJ Case Rep.Published online: 5 July 2013.doi:10.1136/bcr-2013-009325
+7.McKenzie SC, Rahman A.Bradycardia in a patient taking black cohosh.Med J Aust.193(8):479-481, 2010.doi:10.5694/j.1326-5377.2010.tb04006.x
+7.McKenzie SC, Rahman A.Bradycardia in a patient taking black cohosh.Med J Aust.193(8):479-481, 2010.doi:10.5694/j.1326-5377.2010.tb04006.x
+8.Gorman GS, Coward L, Darby A, et al: Effects of herbal supplements on the bioactivation of chemotherapeutic agents.J Pharm Pharmacol.65(7):1014-1025, 2013.doi: 10.1111/jphp.12055
+8.Gorman GS, Coward L, Darby A, et al: Effects of herbal supplements on the bioactivation of chemotherapeutic agents.J Pharm Pharmacol.65(7):1014-1025, 2013.doi: 10.1111/jphp.12055
+9.Enbom ET, Le MD, Oesterich L, Rutgers J, French SW.Mechanism of hepatotoxicity due to black cohosh (Cimicifuga racemosa): histological, immunohistochemical and electron microscopy analysis of two liver biopsies with clinical correlation.Exp Mol Pathol2014;96(3):279-283.doi:10.1016/j.yexmp.2014.03.003
+9.Enbom ET, Le MD, Oesterich L, Rutgers J, French SW.Mechanism of hepatotoxicity due to black cohosh (Cimicifuga racemosa): histological, immunohistochemical and electron microscopy analysis of two liver biopsies with clinical correlation.Exp Mol Pathol2014;96(3):279-283.doi:10.1016/j.yexmp.2014.03.003
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Institutes of Health (NIH): Black cohosh
+National Institutes of Health (NIH): Black cohosh

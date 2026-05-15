@@ -1,0 +1,52 @@
+标题：反刍障碍
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/feeding-and-eating-disorders/rumination-disorder
+============================================================
+
+反刍症是指患者进食后反复反刍食物，但不存在恶心或不自主干呕。食物可吐出或再次吞咽，有些患者在再次吞咽前会咀嚼反刍的食物。反流可以是有意的或无意的，通常可以由临床医生直接观察到。反流一周发生几次，通常每天都有 (1)。
+婴儿，儿童，青少年或成人可能会出现反刍现象。《精神疾病诊断与统计手册》第5版修订版（DSM-5-TR）将其描述为精神科摄食和饮食障碍，罗马基金会则将其描述为肠-脑相互作用的胃十二指肠疾病，该组织支持对此类相互作用的研究和教育（2, 3）。
+有些患者意识到这些行为不好，会试图用一只手捂住自己的嘴巴或限制其食物摄入量来掩饰。有些人则避免与其他人一起吃饭，不在社交活动或工作之前吃东西，以免他们在公共场合反刍。
+吐出反刍食物或显著限制摄入量的患者可能导致体重下降或出现营养不良。
+
+【参考文献】
+1.Absah I, Rishi A, Talley NJ, Katzka D, Halland M.Rumination syndrome: pathophysiology, diagnosis, and treatment.Neurogastroenterol Motil.2017;29(4):10.1111/nmo.12954.doi:10.1111/nmo.12954
+1.Absah I, Rishi A, Talley NJ, Katzka D, Halland M.Rumination syndrome: pathophysiology, diagnosis, and treatment.Neurogastroenterol Motil.2017;29(4):10.1111/nmo.12954.doi:10.1111/nmo.12954
+2.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders.5th ed, Text Revision.American Psychiatric Association Publishing; 2022:374-375.
+2.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders.5th ed, Text Revision.American Psychiatric Association Publishing; 2022:374-375.
+3.Drossman DA.Functional Gastrointestinal Disorders: History, Pathophysiology, Clinical Features and Rome IV.Gastroenterology.Published online February 19, 2016.doi:10.1053/j.gastro.2016.02.032
+3.Drossman DA.Functional Gastrointestinal Disorders: History, Pathophysiology, Clinical Features and Rome IV.Gastroenterology.Published online February 19, 2016.doi:10.1053/j.gastro.2016.02.032
+
+【反刍障碍的诊断】
+精神评估
+精神评估
+当满足以下《精神障碍诊断与统计手册》第5版文本修订版（DSM-5-TR）标准时，可诊断为反刍障碍（1）：
+患者反复反刍食物≥1个月。
+患者反复反刍食物≥1个月。
+可导致反流的胃肠道（GI）疾病（例如，胃食管反流、Zenker憩室）或其他导致反刍的其他进食和饮食障碍（例如，神经性厌食症）已被排除，因为反刍有时会在这些疾病中发生。
+可导致反流的胃肠道（GI）疾病（例如，胃食管反流、Zenker憩室）或其他导致反刍的其他进食和饮食障碍（例如，神经性厌食症）已被排除，因为反刍有时会在这些疾病中发生。
+如果患有其他疾病的患者伴有反刍症状，症状需严重到需要特殊医疗。
+如果患有其他疾病的患者伴有反刍症状，症状需严重到需要特殊医疗。
+临床医生可直接观察反刍情况或者根据患者的自我报告。
+临床医生需要评估营养状况，以判断是否存在体重减轻和营养不良。
+
+【诊断参考文献】
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders.5th ed, Text Revision.American Psychiatric Association Publishing; 2022:374-375.
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders.5th ed, Text Revision.American Psychiatric Association Publishing; 2022:374-375.
+
+【反刍症的治疗】
+行为矫正
+行为矫正
+行为矫正技术，包括生物反馈引导的膈肌呼吸以及认知行为策略，可能会有所帮助（1）。
+
+【治疗参考】
+1.Murray HB, Juarascio AS, Di Lorenzo C, Drossman DA, Thomas JJ.Diagnosis and Treatment of Rumination Syndrome: A Critical Review.Am J Gastroenterol.2019;114(4):562-578.doi:10.14309/ajg.0000000000000060
+1.Murray HB, Juarascio AS, Di Lorenzo C, Drossman DA, Thomas JJ.Diagnosis and Treatment of Rumination Syndrome: A Critical Review.Am J Gastroenterol.2019;114(4):562-578.doi:10.14309/ajg.0000000000000060
+反刍是指进食后食物反复回流，但不包括恶心或不由自主的干呕。
+反刍是指进食后食物反复回流，但不包括恶心或不由自主的干呕。
+一些反刍症的患者意识到这种行为在社会上是不可接受的，并试图掩饰或掩盖它。
+一些反刍症的患者意识到这种行为在社会上是不可接受的，并试图掩饰或掩盖它。
+有些患者限制进食量（以防止他人看到自己反刍）有时会导致体重减轻或营养不良。
+有些患者限制进食量（以防止他人看到自己反刍）有时会导致体重减轻或营养不良。
+对于反复反流食物持续≥1 个月的患者，在排除其他可能原因（如胃肠道疾病、其他进食与摄食障碍）后，可诊断为反刍障碍。
+对于反复反流食物持续≥1 个月的患者，在排除其他可能原因（如胃肠道疾病、其他进食与摄食障碍）后，可诊断为反刍障碍。
+治疗使用行为矫正技术。
+治疗使用行为矫正技术。

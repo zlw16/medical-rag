@@ -1,0 +1,269 @@
+标题：阿尔茨海默病
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/delirium-and-dementia/alzheimer-disease
+============================================================
+
+（参见谵妄与痴呆的概述和痴呆。）
+阿尔茨海默病，一种神经认知疾病，是导致痴呆最常见的原因，在老年痴呆病人中占60%至80%。在美国，约11%的≥65岁人群患有阿尔茨海默病。阿尔茨海默病患者的比例随年龄增长而增加 (1)：
+65~74岁：5％
+65~74岁：5％
+75~84岁：13％
+75~84岁：13％
+≥85岁：33％
+≥85岁：33％
+这种疾病在女性中的发病率是男性的两倍，部分原因在于女性的预期寿命更长。在发达国家，随着老年人口的增长，其患病率相应上升。
+
+【参考文献】
+1.2024 Alzheimer's disease facts and figures.Alzheimers Dement2024;20(5):3708-3821.doi:10.1002/alz.13809
+1.2024 Alzheimer's disease facts and figures.Alzheimers Dement2024;20(5):3708-3821.doi:10.1002/alz.13809
+
+【阿尔茨海默病的病因】
+多数阿尔茨海默病病例为散发，晚发型发病年龄≥65岁，病因不明。发展疾病的风险最好预测因素是年龄。然而，有5%～15％的病例为家族遗传，此类病人有一半为早发型（早老型）（<65岁），并且与特定的基因突变密切相关。
+至少有5个基因位点，分别位于第1，第12，第14，第19和21号染色体上，与此病的发生和发展有关。
+淀粉样前体蛋白、早老素1和早老素2基因的突变可能会导致常染色体显性遗传型阿尔茨海默病，尤其是早发型。在患者中，淀粉样前体蛋白的处理发生了改变，导致β-淀粉样纤维状沉积和聚集；β-淀粉样蛋白是神经性(老年性)斑块的主要成分，由围绕淀粉样中心的变性轴突、树突和少突胶质细胞等组成。Beta淀粉样蛋白还可以通过导致tau蛋白(一种稳定微管的蛋白质)过度磷酸化和纤维缠结的形成的方式改变激酶和磷酸酶活性。
+其他基因决定因素还有载脂蛋白（apo）E（ε）等位基因。Apo E蛋白影响beta－淀粉样蛋白的沉积、细胞骨架的完整及神经的修复。携带2个ε-4等位基因（ApoE4）者患阿尔茨海默病的风险显著增加（高达15倍），而携带ε-2等位基因者风险可能降低（1）。
+血管危险因素，如高血压、糖尿病、血脂异常和吸烟，会增加阿尔茨海默病的风险。越来越多的证据表明，早在中年就积极治疗这些危险因素可以降低老年认知障碍的风险。
+其他因素，如低雌激素水平和重金属暴露，与阿尔茨海默病的关系尚未确定。
+
+【病因参考文献】
+1.Raulin AC, Doss SV, Trottier ZA, Ikezu TC, Bu G, Liu CC.ApoE in Alzheimer's disease: pathophysiology and therapeutic strategies.Mol Neurodegener2022;17(1):72.doi:10.1186/s13024-022-00574-4
+1.Raulin AC, Doss SV, Trottier ZA, Ikezu TC, Bu G, Liu CC.ApoE in Alzheimer's disease: pathophysiology and therapeutic strategies.Mol Neurodegener2022;17(1):72.doi:10.1186/s13024-022-00574-4
+
+【阿尔茨海默病的病理生理学】
+阿尔茨海默病的两个病理特点是
+细胞外β-淀粉样蛋白沉积（老年斑）
+细胞外β-淀粉样蛋白沉积（老年斑）
+细胞内神经原纤维缠结（双螺旋丝）
+细胞内神经原纤维缠结（双螺旋丝）
+beta-淀粉样蛋白沉积和神经原纤维缠结导致突触和神经元的损失，这导致在大脑的受损区域的严重萎缩，典型地始于颞叶。
+由beta-淀粉样蛋白肽和神经原纤维缠结导致这种损害的机制还没有被完全理解。有许多理论：
+淀粉样蛋白假说假定，在脑中beta-淀粉样蛋白的渐进累积触发复杂的级联反应：神经元细胞死亡，神经元突触缺失，和渐进性神经递质不足；所有这些效应导致痴呆的临床症状。
+一种持续的免疫反应和炎症已经在阿尔茨海默病患者的大脑中观察到。有专家提出炎症是阿尔茨海默病的第三个核心病理特征(1)。
+糖代谢紊乱已被证明在阿尔茨海默氏病的发展中发挥潜在的重要作用（2）。
+朊病毒机制已在阿尔茨海默病中确定。朊病毒病, 一个正常的细胞表面脑蛋白称为朊蛋白变成错误折叠成致病形式称为朊病毒。朊病毒然后导致其他朊蛋白发生类似错误折叠，导致该异常蛋白的显着增加，导致大脑损伤。在阿尔茨海默病中，脑淀粉样蛋白沉积物中的beta-淀粉样蛋白和在神经原纤维缠结中的tau类蛋白被认为与朊病毒状相似，有自我复制的性质。
+
+【病理生理学参考文献】
+1.Kinney JW, Bemiller SM, Murtishaw AS, et al: Inflammation as a central mechanism in Alzheimer's disease.Alzheimers Dement (NY)4:575–590, 2018.doi: 10.1016/j.trci.2018.06.014
+1.Kinney JW, Bemiller SM, Murtishaw AS, et al: Inflammation as a central mechanism in Alzheimer's disease.Alzheimers Dement (NY)4:575–590, 2018.doi: 10.1016/j.trci.2018.06.014
+2.González A, Calfío C, Churruca M, Maccioni RB: Glucose metabolism and AD: evidence for a potential diabetes type 3.Alzheimers Res Ther14(1):56, 2022.doi: 10.1186/s13195-022-00996-8
+2.González A, Calfío C, Churruca M, Maccioni RB: Glucose metabolism and AD: evidence for a potential diabetes type 3.Alzheimers Res Ther14(1):56, 2022.doi: 10.1186/s13195-022-00996-8
+
+【阿尔茨海默病的症状和体征】
+阿尔兹海默病患者有痴呆的症状和体征。
+阿尔兹海默病最常见的首发症状是
+短期记忆丧失（如，问重复的问题，经常乱放物品或忘记约会）
+短期记忆丧失（如，问重复的问题，经常乱放物品或忘记约会）
+其他认知功能的缺陷倾向于累及多个方面，包括下列内容：
+推理能力受损、难以处理复杂任务以及判断力差（例如，无法管理银行账户、做出糟糕的财务决策）
+推理能力受损、难以处理复杂任务以及判断力差（例如，无法管理银行账户、做出糟糕的财务决策）
+语言功能障碍（如，常用词思考困难，讲和/或书写错误）
+语言功能障碍（如，常用词思考困难，讲和/或书写错误）
+视觉空间功能障碍（如无法识别人脸或常见的对象）
+视觉空间功能障碍（如无法识别人脸或常见的对象）
+阿尔茨海默病症状逐渐进展，但可能在一段时间内趋于稳定。
+行为异常普遍，如：漫无目的的闲逛，激动和大喊大叫。
+
+【阿尔茨海默病的诊断】
+与其他痴呆的诊断相似
+与其他痴呆的诊断相似
+正规的精神状态检查
+正规的精神状态检查
+病史和体格检查
+病史和体格检查
+实验室检查
+实验室检查
+神经影像学检查
+神经影像学检查
+通常，阿尔茨海默病的初步诊断方法与其他痴呆症的诊断相似。然而，尽管阿尔茨海默病具有临床和特定的实验室及影像学特征，但最终确诊仍需通过脑组织的尸检组织学评估。
+评估包括详细的病史、神经系统检查和认知测试（如简易精神状态检查）（1，2，3）。支持诊断并排除其他病因的附加研究包括脑脊液分析、实验室和生物标志物检测以及PET成像。
+临床标准可以帮助区分阿尔茨海默病与其他形式的痴呆症，例如血管性痴呆和路易体痴呆。
+阿尔茨海默症传统的诊断方法如下：
+通过对病人的体检和正式的精神状态检查确定其存在痴呆
+通过对病人的体检和正式的精神状态检查确定其存在痴呆
+有≥2种认知功能受损
+有≥2种认知功能受损
+缓慢发生（例如，以月到年计进展而不是日到周），记忆与其他认知功能进行性恶化
+缓慢发生（例如，以月到年计进展而不是日到周），记忆与其他认知功能进行性恶化
+无意识障碍
+无意识障碍
+40岁以后发病，多数在65岁以后
+40岁以后发病，多数在65岁以后
+没有大脑或系统的疾病（例如，肿瘤，卒中）导致记忆与认知的不断恶化
+没有大脑或系统的疾病（例如，肿瘤，卒中）导致记忆与认知的不断恶化
+然而，与上述标准有出入的也不能完全除外阿尔茨海默病的诊断，尤其对于可能存在混合性痴呆的患者中。
+美国国家老化研究所-阿尔茨海默病协会诊断指南（2）还包括阿尔茨海默病的病理生理过程的生物标志物：
+脑脊液（CSF）中beta-淀粉样蛋白的水平低
+脑脊液（CSF）中beta-淀粉样蛋白的水平低
+在使用放射性示踪剂在正电子发射断层扫描（PET）成像检测到特异性结合于beta-淀粉样蛋白斑的beta-淀粉样蛋白沉积（例如，匹兹堡化合物B〔PIB]，florbetapir）
+在使用放射性示踪剂在正电子发射断层扫描（PET）成像检测到特异性结合于beta-淀粉样蛋白斑的beta-淀粉样蛋白沉积（例如，匹兹堡化合物B〔PIB]，florbetapir）
+其他生物标志物提示下游神经元变性或损伤：
+使用与 tau 特异性结合的放射性示踪剂，通过 PET 成像检测到脑脊液中 tau 蛋白水平升高或大脑中 tau 沉积物
+使用与 tau 特异性结合的放射性示踪剂，通过 PET 成像检测到脑脊液中 tau 蛋白水平升高或大脑中 tau 沉积物
+使用氟-18（18F）标记的脱氧葡萄糖（氟脱氧葡萄糖，或FDG）PET检测到颞顶叶皮质脑代谢降低。
+使用氟-18（18F）标记的脱氧葡萄糖（氟脱氧葡萄糖，或FDG）PET检测到颞顶叶皮质脑代谢降低。
+通过MRI检测在内侧面，基底和侧颞叶和内侧顶叶皮质的局部萎缩
+通过MRI检测在内侧面，基底和侧颞叶和内侧顶叶皮质的局部萎缩
+这些发现增加了痴呆是由于阿尔茨海默病引起的可能性。然而，由于目前标准化和可用性的限制，指南（2、4）不主张常规使用这些生物标志物诊断。此外，他们不建议对APO ε-4等位基因进行常规检测。
+实验室检查（例如，促甲状腺激素，维生素B12水平）和神经影像检查（MRI或CT），是为了检查是否存在其他可治疗的痴呆症和可加重症状的疾病。 如临床提示另一种潜在疾病，则进行相应的检查，如HIV、梅毒血清学检查。
+
+【鉴别诊断】
+区分阿尔茨海默病与其他痴呆并不容易。改良Hachinski缺血性评分有时用于帮助区分血管性痴呆（主要是多发梗死性痴呆）和阿尔茨海默病；它在临床上的作用有限，但在没有神经影像学的情况下是有帮助的（5)。关键特征有助于区分阿尔茨海默病和多梗死性痴呆，这是一种血管认知障碍和痴呆（见表血管性认知障碍与痴呆和阿尔茨海默病之间的差异)。认知功能的波动性、帕金森症状、典型的幻视以及短期记忆的相对保留均提示路易体痴呆（见表阿尔茨海默病与路易体痴呆的差异）。
+阿尔茨海默病病人通常教育程度较高，并且较其他痴呆病人整洁。
+
+【血管认知障碍与痴呆和阿尔茨海默病之间的差异】
+血管认知障碍与痴呆和阿尔茨海默病之间的差异
+临床评估
+血管性认知障碍与痴呆
+阿尔茨海默病
+多发性梗死后认知的逐步进展
+皮质下缺血性血管病进展缓慢
+认知能力缓慢退化
+Past medical history（既往史）
+脑血管危险因素或疾病
+冠状动脉疾病。
+周围血管疾病
+血管性认知障碍与痴呆
+阿尔茨海默病
+精神状态
+可变，取决于局部缺血性损伤的位置
+皮质下缺血性血管疾病导致执行功能轻度下降
+阿尔茨海默病的典型记忆障碍（如快速遗忘、错过环境和社会线索）
+神经系统检查结果
+局灶性缺陷、步态障碍
+精神状态受损；否则正常，直到疾病进展
+心血管疾病研究
+与心血管危险因素相关的发现（例如，由于外周动脉疾病引起的腿部皮肤变化、由于心力衰竭引起的凹陷性水肿、由于心房颤动引起的心律不规则、高血压）
+通常是正常的
+需要实验室测试
+测量升高的血红蛋白A1C和脂质
+心电图检查是否有房颤
+检查可逆性痴呆的常规实验室测试（综合代谢小组、CBC、TSH、维生素B12水平、荧光密螺旋体抗体吸收），以排除认知障碍的其他可能原因
+核磁共振/CT
+对认知和行为至关重要的特定大脑区域的局灶性梗死，合并白质变化
+在单纯血管性认知障碍和痴呆中，海马体积的相对保留
+海马、颞叶、顶叶和额叶萎缩
+FDG-PET
+不同血管性脑损伤部位的多灶性低代谢
+顶叶、颞叶及以后的额叶代谢低下，保留初级运动感觉皮层
+生物标志物
+CSF或PET检测到淀粉样β或磷酸化tau
+CBC=全血细胞计数；CSF=脑脊液；ECG=心电图；FDG-PET=氟脱氧葡萄糖正电子发射断层扫描；PET=正电子发射断层扫描；TSH=促甲状腺激素。
+Adapted fromWong EC, Chui HC: Vascular cognitive impairment and dementia.Continuum(Minneap Minn) 28 (3):750–780, 2022.doi: 10.1212/CON.0000000000001124
+CBC=全血细胞计数；CSF=脑脊液；ECG=心电图；FDG-PET=氟脱氧葡萄糖正电子发射断层扫描；PET=正电子发射断层扫描；TSH=促甲状腺激素。
+Adapted fromWong EC, Chui HC: Vascular cognitive impairment and dementia.Continuum(Minneap Minn) 28 (3):750–780, 2022.doi: 10.1212/CON.0000000000001124
+
+【Alzheimer病与路易体痴呆鉴别】
+Alzheimer病与路易体痴呆鉴别
+路易体痴呆
+阿尔茨海默病
+皮层神经元路易斯小体
+大脑皮层和皮质下灰质中的神经斑块、神经原纤维缠结和β淀粉样蛋白沉积
+流行病学
+男性是女性的2倍
+女性是男性的2倍
+遗传方式
+家族遗传少见
+5%～15％有家族史
+每日波动
+短时记忆
+较少受累
+较多见警觉与注意改变
+早期受损
+帕金森样症状
+显著，早期出现
+躯体僵硬、步态不稳
+很少见，晚期出现
+步态正常
+自主神经功能障碍
+约80%存在，早期多见
+幻视最常见
+约20％病人存在，多出现于病程中期
+抗精神病药的不良反应
+使锥体外系症状急剧恶化，并可能威胁生命
+可能使痴呆症状恶化
+
+【诊断参考】
+1.NICE: National Institute for Health and Care Excellence: Dementia: assessment, management and support for people living with dementia and their carers.NICE guideline [NG97].Published: 20 June 2018
+1.NICE: National Institute for Health and Care Excellence: Dementia: assessment, management and support for people living with dementia and their carers.NICE guideline [NG97].Published: 20 June 2018
+2.Jack CR Jr, Andrews JS, Beach TG, et al: Revised criteria for diagnosis and staging of Alzheimer's disease: Alzheimer's Association Workgroup.Alzheimers Dement20(8):5143–5169, 2024.doi:10.1002/alz.13859
+2.Jack CR Jr, Andrews JS, Beach TG, et al: Revised criteria for diagnosis and staging of Alzheimer's disease: Alzheimer's Association Workgroup.Alzheimers Dement20(8):5143–5169, 2024.doi:10.1002/alz.13859
+3.Alzheimer's Association: 2018 Alzheimer's Association Dementia Care Practice Recommendations.January 18, 2028.Accessed February 3, 2025.
+3.Alzheimer's Association: 2018 Alzheimer's Association Dementia Care Practice Recommendations.January 18, 2028.Accessed February 3, 2025.
+4.Chételat G, Arbizu J, Barthel H, et al: Amyloid-PET and 18 F-FDG-PET in the diagnostic investigation of Alzheimer's disease and other dementias.Lancet Neurol19:951–962, 2020.doi: 10.1016/S1474-4422(20)30314-8
+4.Chételat G, Arbizu J, Barthel H, et al: Amyloid-PET and 18 F-FDG-PET in the diagnostic investigation of Alzheimer's disease and other dementias.Lancet Neurol19:951–962, 2020.doi: 10.1016/S1474-4422(20)30314-8
+5.Hachinski VC, Iliff LD, Zilhka E, et al: Cerebral blood flow in dementia.Arch Neurol32(9):632–637, 1975.doi: 10.1001/archneur.1975.00490510088009
+5.Hachinski VC, Iliff LD, Zilhka E, et al: Cerebral blood flow in dementia.Arch Neurol32(9):632–637, 1975.doi: 10.1001/archneur.1975.00490510088009
+
+【阿尔茨海默病的治疗】
+安全和支持措施
+安全和支持措施
+胆碱酯酶抑制剂与美金刚
+胆碱酯酶抑制剂与美金刚
+在特定患者中应用抗淀粉样蛋白单克隆抗体治疗
+在特定患者中应用抗淀粉样蛋白单克隆抗体治疗
+阿尔茨海默病的安全和支持措施与其他痴呆相同。 例如，环境要明亮，令人愉快的，和熟悉的，它应该是强化定向力（如在房间里放置的大钟和日历）。 采取措施确保（对散步患者的信号监测系统）病人的安全。
+为护理者提供帮助也很重要，他们可能承受巨大的压力。 护士和社会工作者可以教护理人员如何最好地满足患者的需要。 卫生保健从业人员应该注意护理人员的压力和倦怠的早期表现，当需要时向他们提供支持服务。
+
+【阿尔茨海默病的对症治疗】
+胆碱酯酶抑制剂可在一定程度上改善一些病人的认知与记忆的损害。一般来说，多奈哌齐、卡巴拉汀和加兰他敏同样有效。
+多奈哌齐每天给药一次，耐受较好而成为一线用药。如数月后功能改善明显则继续用药，否则停药。 最常见的不良反应是胃肠道反应如恶心、腹泻。头晕与心律失常很少见。逐渐加量可以减少不良反应的发生(见表治疗阿尔茨海默病的药物)。
+多奈哌齐每天给药一次，耐受较好而成为一线用药。如数月后功能改善明显则继续用药，否则停药。 最常见的不良反应是胃肠道反应如恶心、腹泻。头晕与心律失常很少见。逐渐加量可以减少不良反应的发生(见表治疗阿尔茨海默病的药物)。
+利伐斯的明有液体溶液和贴剂两种剂型。
+利伐斯的明有液体溶液和贴剂两种剂型。
+加兰他敏调节烟碱受体。该药似乎能刺激乙酰胆碱释放并增强其效应。加兰他敏可能比其他药物对行为症状更有益。
+加兰他敏调节烟碱受体。该药似乎能刺激乙酰胆碱释放并增强其效应。加兰他敏可能比其他药物对行为症状更有益。
+美金刚，一种N-甲基-d-天冬氨酸（NMDA）受体拮抗剂，可改善中度至重度阿尔茨海默病患者的认知和功能。对于肾功能不全的患者，应当减少剂量或避免使用。美金刚可以和胆碱酯酶抑制剂联用。
+其他药物正在研究中。大剂量的维生素E 、司来吉兰、非甾体抗炎药（NSAIDs）、银杏提取物和抑制素的效果不明。雌激素预防与治疗此病有害而无益。
+
+【阿尔茨海默病的疾病修饰治疗】
+抗淀粉样单克隆抗体治疗可能适用于部分轻度疾病患者。抗淀粉样蛋白单克隆抗体通过减少大脑中的淀粉样蛋白斑块负担和减缓认知衰退来证明疾病的改善，尽管观察到的临床益处并不显著。抗淀粉样蛋白抗体的作用机制是结合并清除聚集的β-淀粉样蛋白。抗淀粉样蛋白单克隆抗体的临床试验显示，在通过认知和功能结果测量确定的早期阿尔茨海默病患者中，其临床衰退率显著降低，并通过淀粉样蛋白PET扫描或脑脊液研究证实了淀粉样蛋白病理。
+乐卡奈单抗是一种重组人源化免疫球蛋白γ1（IgG1）抗淀粉样蛋白单克隆抗体，可与淀粉样寡聚体、原纤维和不溶性纤维结合。在一项随机试验中，患有轻度认知障碍和轻度阿尔茨海默病的患者在接受乐卡奈单抗治疗后，与安慰剂组相比，18个月时的认知能力下降减少了27%，这是通过临床痴呆评定量表-总分(CDR-SB)测量的(1)。
+多纳奈单抗是一种靶向成熟β淀粉样蛋白斑块上焦谷氨酸的IgG抗体。在另一项纳入轻度认知障碍和轻度阿尔茨海默病患者的随机对照试验中，与安慰剂组相比，接受多纳单抗治疗的患者在18个月时，通过综合阿尔茨海默病评分量表 (iADRS) 测量的临床衰退降低了 35% (2)。
+抗淀粉样蛋白单克隆抗体疗法具有显著的不良反应，包括淀粉样蛋白相关成像异常 (ARIA)，包括脑水肿 (ARIA-E) 和/或微出血和浅表含铁血黄素沉着症 (ARIA-H) 的 MRI 信号变化。在上述随机试验中，接受乐卡奈单抗治疗的患者中，ARIA-E的发病率为12.6%，而接受多奈单抗治疗的受试者中，ARIA-E的发病率为24%（1，2）。此外，接受乐卡奈单抗治疗的患者中有17.3%出现了ARIA-H，接受多纳奈单抗治疗的患者中有19.7%出现了ARIA-H。ARIA通常在治疗过程中早期出现，并且对大多数患者没有产生症状。然而，高达0.8%使用仑卡奈单抗治疗的患者中出现伴严重症状的ARIA，包括头痛、意识模糊、视力障碍、定向障碍、步态异常及癫痫发作(3)。接受多奈单抗治疗的患者中有3例因严重ARIA死亡。建议对接受抗淀粉样单克隆抗体治疗的患者进行连续性脑部核磁共振监测ARIA。携带ApoE基因E4等位基因的患者，尤其是纯合子携带者，ARIA的发生率显著更高（3）。建议在开始抗淀粉样蛋白治疗前进行ApoEε4状态检测，以评估发生ARIA的风险。
+
+【治疗参考文献】
+1.van Dyck CH, Swanson CJ, Aisen P, et al:Lecanemabin Early Alzheimer's Disease.N Engl J Med388(1):9–21, 2023.doi: 10.1056/NEJMoa2212948
+1.van Dyck CH, Swanson CJ, Aisen P, et al:Lecanemabin Early Alzheimer's Disease.N Engl J Med388(1):9–21, 2023.doi: 10.1056/NEJMoa2212948
+2.Sims JR, Zimmer JA, Evans CD, et al:Donanemabin Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial.JAMA330(6):512–527, 2023.doi: 10.1001/jama.2023.13239
+2.Sims JR, Zimmer JA, Evans CD, et al:Donanemabin Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial.JAMA330(6):512–527, 2023.doi: 10.1001/jama.2023.13239
+3.Cummings J, Apostolova L, Rabinovici GD, et al:Lecanemab: Appropriate Use Recommendations.J Prev Alzheimers Dis10(3):362–377, 2023.doi:10.14283/jpad.2023.30
+3.Cummings J, Apostolova L, Rabinovici GD, et al:Lecanemab: Appropriate Use Recommendations.J Prev Alzheimers Dis10(3):362–377, 2023.doi:10.14283/jpad.2023.30
+
+【阿尔茨海默病的预后】
+尽管阿尔兹海默病进展速度不一，认知受损是不可避免的。在一个大型队列研究中，从诊断时起的存活时间为9年（1），尽管这个数字在不同研究中有所不同，且可能受其他人口统计学和临床因素的影响。从患者不能行走开始的平均生存时间为6个月。
+
+【临终事宜】
+因为病人自知力与判断力缺失，故预约其家庭人员、监护人或律师以查明财政明细可能是必要的。 在痴呆早期，在病人失能之前，应声明病人得到照顾的需要，并处理好相关经济与法律事宜，如代理人的永久权力。签署上述文件时，应评估并记录病人的行为能力。人工喂养和处理急性功能障碍的方案应在这些事情到来之前确定。
+在晚期痴呆中，姑息治疗可能比高度激进的疗法或住院治疗更为可取。
+
+【预后参考】
+1.de Melo Queiroz E, Marques Couto C, da Cruz Mecone CA, Souza Lima Macedo W, Caramelli P: Clinical profile and survival analysis of Alzheimer's disease patients in a Brazilian cohort.Neurol Sci45(1):129–137, 2024.doi:10.1007/s10072-023-06937-z
+1.de Melo Queiroz E, Marques Couto C, da Cruz Mecone CA, Souza Lima Macedo W, Caramelli P: Clinical profile and survival analysis of Alzheimer's disease patients in a Brazilian cohort.Neurol Sci45(1):129–137, 2024.doi:10.1007/s10072-023-06937-z
+
+【阿尔茨海默病的预防】
+观察性证据表明以下因素可以降低阿尔茨海默病的风险：
+在老年期同样做有难度的智力活动（如：学习新的技能，做数独）
+在老年期同样做有难度的智力活动（如：学习新的技能，做数独）
+加强有规律的身体锻炼
+加强有规律的身体锻炼
+控制高血压
+控制高血压
+降低胆固醇水平
+降低胆固醇水平
+富含ω-3脂肪酸，少含饱和脂肪酸的食物
+富含ω-3脂肪酸，少含饱和脂肪酸的食物
+关于酒精对阿尔茨海默病的影响，研究结果不一，一些研究表明有保护作用，而其他研究则表明会增加风险（1）。一旦痴呆症发生，通常建议戒酒，因为酒精会加剧痴呆症的症状。
+
+【预防参考文献】
+1.Piazza-Gardner AK, Gaffud TJ, Barry AE: The impact of alcohol on Alzheimer's disease: a systematic review.Aging Ment Health17(2):133–146, 2013.doi:10.1080/13607863.2012.742488
+1.Piazza-Gardner AK, Gaffud TJ, Barry AE: The impact of alcohol on Alzheimer's disease: a systematic review.Aging Ment Health17(2):133–146, 2013.doi:10.1080/13607863.2012.742488
+尽管可能与遗传因素有关，但大多数阿尔茨海默病病例是散发性的，患者年龄是预测风险的最佳指标。
+尽管可能与遗传因素有关，但大多数阿尔茨海默病病例是散发性的，患者年龄是预测风险的最佳指标。
+区分阿尔茨海默病和其他原因引起的痴呆（例如，血管性痴呆，路易体痴呆）可能是困难的，但通常可使用临床标准区分，确立诊断准确性达85％。
+区分阿尔茨海默病和其他原因引起的痴呆（例如，血管性痴呆，路易体痴呆）可能是困难的，但通常可使用临床标准区分，确立诊断准确性达85％。
+采用支持性措施和药物治疗相结合的方法治疗阿尔茨海默病，可包括胆碱酯酶抑制剂、美金刚和抗淀粉样单克隆抗体疗法。
+采用支持性措施和药物治疗相结合的方法治疗阿尔茨海默病，可包括胆碱酯酶抑制剂、美金刚和抗淀粉样单克隆抗体疗法。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Alzheimer's Association
+Alzheimer's Association

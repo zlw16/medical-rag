@@ -1,0 +1,74 @@
+标题：焦磷酸钙沉积病
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/crystal-induced-arthritides/calcium-pyrophosphate-deposition-disease
+============================================================
+
+焦磷酸钙晶体沉积（如软骨钙质沉着症、焦磷酸盐性关节病）的发生率会随着年龄增长而增加，无论其有无症状。
+无症状软骨钙化症常见于膝、掌指关节、腕关节、椎间盘的纤维环、耻骨联合以及脊柱。男性和女性患病率相似。对于无症状的患者，在 X 光片或其他影像学检查中偶然发现软骨钙化症并不代表需要治疗 CPP 关节炎。焦磷酸钙沉积可能加速骨关节炎的进展（1）。
+
+【参考文献】
+1.Conway R, McCarthy GM.Calcium-Containing Crystals and Osteoarthritis: an Unhealthy Alliance.Curr Rheumatol Rep.2018;20(3):13.Published 2018 Mar 8.doi:10.1007/s11926-018-0721-9
+1.Conway R, McCarthy GM.Calcium-Containing Crystals and Osteoarthritis: an Unhealthy Alliance.Curr Rheumatol Rep.2018;20(3):13.Published 2018 Mar 8.doi:10.1007/s11926-018-0721-9
+
+【焦磷酸钙沉积病的病因】
+大多数CPP晶体性关节炎的病因不明。CPP晶体关节炎与其他疾病有关，例如创伤（包括手术）、低镁血症、甲状旁腺功能亢进、痛风、血色素沉着症、低磷酸酯酶症、吉特曼综合征、X连锁低磷性佝偻病、家族性低尿钙高钙血症和老年。这些关联表明，焦磷酸钙（CPP）晶体沉积可能是由受累组织的退行性或代谢性变化引起的。
+一些病例的发病呈家族性，为常染色体显性遗传，至40岁开始发病。
+锚（ANK）蛋白是产生过量细胞外焦磷酸盐的重要因素，从而促进CPP晶体形成 (1)。ANK蛋白是细胞内和微泡焦磷酸盐向CPPD晶体形成的细胞外位置的转运蛋白。
+
+【病因参考文献】
+1.Abhishek A, Doherty M.Pathophysiology of articular chondrocalcinosis--role of ANKH.Nat Rev Rheumatol.2011;7(2):96-104.doi:10.1038/nrrheum.2010.182
+1.Abhishek A, Doherty M.Pathophysiology of articular chondrocalcinosis--role of ANKH.Nat Rev Rheumatol.2011;7(2):96-104.doi:10.1038/nrrheum.2010.182
+
+【焦磷酸钙沉积病的症状和体征】
+急性、亚急性或慢性关节炎均可发生，通常累及膝关节、腕关节或其他外周大关节；因此，焦磷酸钙结晶性关节炎可模仿多种其他类型关节炎的表现（1）。急性发作与痛风相似，但强度变化更大，往往更持久，并且通常更难治疗。CPP晶体关节炎在发作间期可能完全无症状，或表现为多关节的持续性低度症状，类似于类风湿关节炎或骨关节炎。这些表现往往终生存在。
+冠齿状突起综合征（影像学上第二颈椎齿状突的“冠状”外观）是急性 CPP 轴性关节炎的一种表现，其中可能存在严重的炎症性颈部疼痛和僵硬。它可能被误认为是风湿性多肌痛、巨细胞动脉炎、血清阴性脊柱关节炎、颈椎骨髓炎或脑膜炎。
+
+【症状和体征】
+1.Pascart T, Filippou G, Lioté F, Sirotti S, Jauffret C, Abhishek A.Calcium pyrophosphate deposition disease.Lancet Rheumatol.2024;6(11):e791-e804.doi:10.1016/S2665-9913(24)00122-X
+1.Pascart T, Filippou G, Lioté F, Sirotti S, Jauffret C, Abhishek A.Calcium pyrophosphate deposition disease.Lancet Rheumatol.2024;6(11):e791-e804.doi:10.1016/S2665-9913(24)00122-X
+
+【焦磷酸钙沉积病的诊断】
+关节滑液分析
+关节滑液分析
+显微镜下证实晶体的存在
+显微镜下证实晶体的存在
+在患有关节炎的老年患者中，尤其是在那些有复发性炎症性关节炎病史的患者中，应怀疑为焦磷酸钙晶体关节炎。
+透明关节软骨（尤其是膝盖）可能存在不透射线的沉积物，或两处均有，但在没有急性发作的情况下可以看到钙质沉着。
+焦磷酸钙晶体沉积在肘关节内表现为边界不清、密度不一的放射性不透明区域（红色箭头）。
+BIOPHOTO ASSOCIATES/SCIENCE PHOTO LIBRARY
+该图像显示了在偏光显微镜下观察到的从滑液中提取的焦磷酸钙（CPP）晶体。（右上角的红色箭头表示红色补偿器的轴，这是一种用于确定晶体排列的装置。正双折射 CPPD 晶体在平行于补偿器的光轴时呈蓝色，在垂直于它时呈黄色。 )
+Image courtesy of Brian Mandell, MD.
+CPP 晶体关节炎的诊断依据为在滑液中检出菱形或杆状晶体，这些晶体在偏振光显微镜下表现为不具双折射性，或呈弱阳性双折射。急性发作的关节液具有典型的炎症表现；因此，并发感染性关节炎和痛风（炎性关节液的其他常见原因）必须排除。感染性关节炎的排除基于革兰氏染色和细菌培养。通过检查发炎关节的滑液中不存在尿酸盐结晶，痛风是最容易排除的。值得注意的是，患者可能同时患有痛风和焦磷酸钙关节炎。如果无法进行关节液检查，可行X线检查或超声检查。若发现关节软骨尤其是纤维软骨，多发线性或穿凿样钙化，则支持诊断，但不能排除痛风或感染。
+应评估频繁发作CPP晶体的患者，尤其是年轻患者潜在的诱因和疾病。诊断后应考虑的实验室检查包括血清钙、甲状旁腺激素（PTH）、血清镁、碱性磷酸酶和铁代谢相关检查（1）。
+
+【诊断参考文献】
+1.Parperis K, Constantinou A.Calcium Pyrophosphate Crystal Deposition: Insights to Risks Factors and Associated Conditions.Curr Rheumatol Rep.2024;26(11):375-382.doi:10.1007/s11926-024-01158-5
+1.Parperis K, Constantinou A.Calcium Pyrophosphate Crystal Deposition: Insights to Risks Factors and Associated Conditions.Curr Rheumatol Rep.2024;26(11):375-382.doi:10.1007/s11926-024-01158-5
+
+【焦磷酸钙沉积病的治疗】
+关节内注射糖皮质激素
+关节内注射糖皮质激素
+口服糖皮质激素（例如，泼尼松、甲泼尼龙）
+口服糖皮质激素（例如，泼尼松、甲泼尼龙）
+非甾体类抗炎药(NSAIDs)
+非甾体类抗炎药(NSAIDs)
+秋水仙碱
+秋水仙碱
+白细胞介素-1 (IL-1) 拮抗剂（如阿那白滞素）
+白细胞介素-1 (IL-1) 拮抗剂（如阿那白滞素）
+急性焦磷酸钙沉积病的治疗与急性痛风的治疗类似（1）。急性滑膜渗出的症状通过滑液引流和关节内糖皮质激素注射（如在膝关节内注入40mg醋酸泼尼松龙或泼尼松龙叔丁乙酯）缓解。
+给予抗炎剂量的吲哚美辛、萘普生或其他NSAID常能抑制急性发作。秋水仙碱用于治疗急性发作与痛风的用法相同。秋水仙碱0.6mg，口服，1~2次/日，可减少急性发作频率。口服糖皮质激素对急性 CPP 关节炎发作的治疗有效，尤其适用于口服 NSAIDs 和秋水仙碱存在禁忌的患者。然而，未能解决急性痛风发作可能需要更长的时间更高的剂量。白介素-1 拮抗剂如阿那白滞素也可能有效。
+
+【治疗参考文献】
+1.Stack J, McCarthy G.Calcium pyrophosphate deposition (CPPD) disease - Treatment options.Best Pract Res Clin Rheumatol.2021;35(4):101720.doi:10.1016/j.berh.2021.101720
+1.Stack J, McCarthy G.Calcium pyrophosphate deposition (CPPD) disease - Treatment options.Best Pract Res Clin Rheumatol.2021;35(4):101720.doi:10.1016/j.berh.2021.101720
+
+【焦磷酸钙沉积病的预后】
+急性CPPD发作的个体预后通常良好。但可转变为慢性关节炎，也可发生类似神经源性关节病（Charcot关节）的严重破坏性关节损害。与痛风不同，慢性 CPP 结晶性关节炎的治疗更具挑战性，因为目前尚无能够有效清除或减少 CPP 结晶负担的疗法。
+随着年龄的增长，无症状性软骨钙质沉着症变得越来越常见，尤其是在膝关节、髋关节、腕关节、椎间盘纤维环和耻骨联合，但不需要治疗。
+随着年龄的增长，无症状性软骨钙质沉着症变得越来越常见，尤其是在膝关节、髋关节、腕关节、椎间盘纤维环和耻骨联合，但不需要治疗。
+焦磷酸钙晶体沉积病（CPPD）可以影响膝关节和大的外周关节，并模仿其他形式的关节炎（例如，痛风、类风湿关节炎、骨关节炎）。
+焦磷酸钙晶体沉积病（CPPD）可以影响膝关节和大的外周关节，并模仿其他形式的关节炎（例如，痛风、类风湿关节炎、骨关节炎）。
+检查发现关节滑液中有特征性的偏菱形或棒状晶体，非双折射或是弱正性双折射，并排除关节感染。
+检查发现关节滑液中有特征性的偏菱形或棒状晶体，非双折射或是弱正性双折射，并排除关节感染。
+对于急性症状，可采用关节内注射糖皮质激素、口服NSAID、秋水仙碱或口服糖皮质激素进行治疗；阿那白滞素也可能具有疗效。
+对于急性症状，可采用关节内注射糖皮质激素、口服NSAID、秋水仙碱或口服糖皮质激素进行治疗；阿那白滞素也可能具有疗效。

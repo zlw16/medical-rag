@@ -1,0 +1,154 @@
+标题：扩张性心肌病
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/cardiomyopathies/dilated-cardiomyopathy
+============================================================
+
+心肌病是原发的心脏肌肉的病变（见心肌疾病概述）。扩张型心肌病可发生于任何年龄，但常见于50岁以下的成年人。约10％的扩张型心肌病患者年龄超过65岁。在美国，男性患此病的人数是女性的 3 倍，非洲裔人群患此病的人数是白种人的两倍（1）。每年每100,000人中约有5~6人患这种疾病（1)。
+
+【参考文献】
+1.Ntusi NAB, Sliwa K.Impact of Racial and Ethnic Disparities on Patients With Dilated Cardiomyopathy: JACC Focus Seminar 7/9.J Am Coll Cardiol2021;78(25):2580-2588.doi:10.1016/j.jacc.2021.10.021
+1.Ntusi NAB, Sliwa K.Impact of Racial and Ethnic Disparities on Patients With Dilated Cardiomyopathy: JACC Focus Seminar 7/9.J Am Coll Cardiol2021;78(25):2580-2588.doi:10.1016/j.jacc.2021.10.021
+
+【扩张性心肌病的病理生理学】
+作为一种原发性心肌病，扩张型心肌病的心肌功能障碍发生在没有其他可引起心肌扩张的疾病的情况下，如严重冠状动脉闭塞性疾病或涉及心室压力或容量超负荷的情况（如高血压，心脏瓣膜病）。 在某些患者，扩张型心肌病被认为始于急性心肌炎（大多数情况下可能是病毒性的），经过长短不一的潜伏期后，进入心肌细胞弥漫性坏死（由于病毒变异导致心肌细胞产生自身免疫性反应）和慢性纤维化的阶段。不论何种病因，心肌都会扩张、变薄和代偿性肥厚（见图心肌病的类型），经常导致功能性二尖瓣反流、三尖瓣反流和心房扩大。
+本病通常同时影响左右心室，单纯影响左心室者少见，而单纯影响右心室者罕见。
+一旦房室扩张和功能障碍明显，便可能由于瘀血而形成附壁血栓。心脏快速性心律失常常使急性心肌炎和晚期慢性扩张阶段复杂化，房室传导阻滞也可能如此。随着左心房扩张，心房颤动常常发生。
+
+【扩张性心肌病的病因】
+扩张性心肌病有许多已知的和未知的病因（见表扩张型心肌病的病因）。有超过20种病毒可引起扩张性心肌病；在温带最常见的是柯萨奇B病毒。在美洲的中部和南部，由Trypanosoma cruzi（克氏锥虫）感染引起的恰加斯病是最常见的感染性病因。
+其他原因包括长期（慢性）心动过速，HIV 感染，弓形虫病，甲状腺机能亢进， 和硫胺素缺乏症（导致脚气病）。 许多有毒物质，尤其是酒精、各种有机溶剂、铁或重金属离子，以及某些化疗药物（如阿霉素、曲妥珠单抗）都可以损害心脏。 频繁的心室异位节律（每天>10,000次室性早搏）与左心室收缩功能障碍有关。
+突然的情绪紧张和其他肾上腺素能亢进状态可以引发急性扩张型心肌病，这种病通常是可逆的（与长时间的心动过速引起的心肌病类似）。一个例子是急性心尖膨胀型心肌病（也称为takotsubo心肌病，应激性心肌病或破碎心脏综合征）。这种疾病通常影响左心室心尖部，偶尔影响其他节段，引起局部室壁功能障碍，有时伴有局灶性扩张（气球样变）。
+20%~35%的病例发病是由遗传因素引起的；涉及＞60个基因和位点。
+
+【扩张性心肌病的原因】
+扩张性心肌病的原因
+慢性心动过速
+频发室性异位搏动
+不可控制的心房颤动或其他持续性快速性心律失常
+嗜酸性粒细胞性心肌炎
+高嗜酸性粒细胞综合征
+遗传异常
+20~30%家族性疾病患者：常染色体显性、X-连锁、常染色体隐性、线粒体遗传
+肉芽肿性疾病
+肉芽肿血管炎（韦格纳肉芽肿）
+肉芽肿性或巨细胞性心肌炎
+遗传性神经肌肉及神经系统疾病
+Duchenne肌营养不良
+Emery-Dreifuss肌营养不良
+面肩肱型肌营养不良
+弗里德赖希共济失调
+感染（急性或慢性）
+立克次体
+病毒感染（包括HIV感染）
+药物、违禁药物和毒素
+蒽环类抗生素
+儿茶酚胺
+环磷酰胺
+多柔比星
+有机溶剂
+精神治疗类药物（三环及四环类抗抑郁药，酚噻嗪类）
+曲妥珠单抗
+代谢性疾病
+肢端肥大症
+家族性储存障碍（例如，戈谢病）
+遗传性血色沉积病
+甲状腺功能亢进
+低钾血症
+低镁血症
+低磷酸盐血症
+甲状腺功能减退症
+营养障碍（如，维生素B1缺乏症、硒缺乏症、肉碱缺乏症、恶性营养不良）
+嗜铬细胞瘤
+继发性铁过载
+严重肥胖
+妊娠（围生期）
+系统性风湿性疾病
+类风湿关节炎
+系统性红斑狼疮
+系统性硬化症
+某些内分泌活跃的肿瘤（如，嗜铬细胞瘤、肾上腺肿瘤、甲状腺肿瘤）
+
+【扩张性心肌病的症状和体征】
+扩张型心肌病的发病通常是渐进的，但急性心肌炎、急性心尖气球型心肌病和快速性心律失常诱导的心肌病除外。在所有扩张性心肌病患者中，约有25%的病人有不典型的胸痛。 其他症状取决于哪个心室受累。
+左室功能障碍时，由于左室舒张压升高和心排血量降低引起劳力性呼吸困难和乏力。
+右室衰竭则导致周围性水肿和颈静脉怒张。少数情况下，年轻患者主要累及右心室，典型表现为房性心律失常及由于恶性室性快速性心律失常所致的猝死。
+
+【扩张性心肌病的诊断】
+胸部X线检查
+胸部X线检查
+超声心动图
+超声心动图
+心脏MRI
+心脏MRI
+心内膜心肌活检（部分病例）
+心内膜心肌活检（部分病例）
+根据指征进行病因检测
+根据指征进行病因检测
+诊断需根据病史，体格检查，和除外其他原因所致的心室衰竭（如体循环高血压，原发性瓣膜疾病，心肌梗死—见表心肌疾病的诊断和治疗）。特别是在没有明确原因的扩张型心肌病的情况下，应仔细询问家族史，以确定可能患有早发性心脏病的家庭成员，心脏衰竭，或猝死。在许多中心，一级家庭成员会接受心脏功能障碍的筛查（例如超声心动图检查）。 由于必须排除心室衰竭的其他常见原因，因此需要进行胸部 X 线检查、心电图、超声心动图和心脏 MRI。  有选择的对部分病例进行心内膜心肌活检。
+当出现急性症状或胸痛时测量血清心肌标志物。尽管肌钙蛋白升高是典型的冠状动脉缺血表现，但常发生于心力衰竭患者，尤其是肾功能下降时。当心脏衰竭时通常出现血清钠尿肽水平升高。
+临床疑诊的特殊病因（见手册其他部分)。 如果没有明显的特殊病因，需行血清铁，铁结合能力及甲状腺刺激激素水平检测。
+在适用病例中可进行Toxoplasma（弓形虫）、T. cruzi（克氏锥虫）、柯萨奇病毒、HIV和埃可病毒的血清学检测。
+胸部X线往往提示心脏各腔均有增大。胸腔积液，尤其是右侧，常伴有肺静脉压力增高及间质性水肿。
+该 X 射线显示扩张型心肌病患者的严重心脏肥大。
+© Springer Science+Business Media
+心电图可表现为窦性心动过速、非特异性ST段压低伴低电压或T波倒置。有时在胸前导联可出现病理性Q波类似陈旧性心肌梗死。左束支传导阻滞及心房颤动较为常见。
+超声心动图提示心腔扩张，并有运动功能减低，并可除外原发性瓣膜疾病。 扩张型心肌病也可发生节段性室壁运动异常，因为该病病灶可能是斑片状的。超声心动图还可提示附壁血栓的存在。
+心脏 MRI有助于提供心肌结构和功能的详细图像。 MRI与钆造影剂可能显示异常的心肌组织结构或瘢痕模式（即，晚期钆增强，或LGE）。延迟强化模式可诊断活动性心肌炎、结节病、肌营养不良或Chagas病。
+心脏MRI显示结节病的晚期钆斑片状透壁增强模式（箭头），可能导致扩张型或肥厚型心肌病。
+© 2017 Elliot K.Fishman, MD.
+正电子发射断层扫描(PET)已被证明对心脏结节病的诊断敏感。
+在非侵入性检查后诊断仍有疑问时，需要行冠状动脉造影检查排除冠状动脉疾病所致的左室功能障碍。有胸痛或多种心血管危险因素的患者和老年患者更容易发生冠状动脉疾病。某些情况下，可以在导管检查时对任一心室进行活检，结果可能会改变治疗策略。
+若疑为巨细胞心肌炎、嗜酸性粒细胞性心肌炎或结节病，需要做心内膜心肌活检，因为检查结果可能影响疾病治疗。
+
+【扩张性心肌病的治疗】
+病因治疗
+病因治疗
+射血分数降低的心力衰竭的标准治疗
+射血分数降低的心力衰竭的标准治疗
+存在心房颤动或其他适应症时，使用抗凝剂
+存在心房颤动或其他适应症时，使用抗凝剂
+有时植入心律转复除颤器，心脏再同步化治疗(CRT)，左心室辅助装置，或心脏移植
+有时植入心律转复除颤器，心脏再同步化治疗(CRT)，左心室辅助装置，或心脏移植
+免疫抑制治疗：巨细胞性心肌炎、嗜酸性粒细胞性心肌炎、结节病或其他自身免疫性疾病（例如系统性红斑狼疮）患者
+免疫抑制治疗：巨细胞性心肌炎、嗜酸性粒细胞性心肌炎、结节病或其他自身免疫性疾病（例如系统性红斑狼疮）患者
+可治疗的病因(如弓形虫病、急性恰加斯病、血色素沉着病、甲状腺毒症、硫胺素缺乏症)得到纠正。HIV感染者应抗逆转录病毒疗法(ART) 优化。免疫抑制治疗仅限于活检证实的巨细胞性心肌炎，嗜酸性粒细胞性心肌炎或结节病患者 ，或其他自身免疫原因（例如，系统性红斑狼疮）。
+否则，治疗与射血分数降低的心力衰竭的治疗相同：血管紧张素转换酶(ACE)抑制剂、β受体阻滞剂、醛固酮受体拮抗剂、血管紧张素II受体阻滞剂、ARNI（血管紧张素II受体阻滞剂和脑啡肽酶抑制剂）、钠-葡萄糖协同转运蛋白2 (SGLT2) 抑制剂、肼屈嗪/硝酸酯类药物、利尿剂和地高辛。较早的研究表明，特发性扩张型心肌病患者对标准心力衰竭治疗反应特别好，并且通常比缺血性心脏病患者表现更好，但最近的数据并不支持这种差异，特别是考虑到多年来药物治疗方案的变化（1）。
+围产期心肌病的治疗中需要采取特殊的预防措施。 怀孕期间应避免使用许多药物（如ACE抑制剂和血管紧张素II受体阻滞剂），因为有损害胎儿的风险。此外，不建议母乳喂养的妇女使用这些药物。
+预防性口服抗凝过去曾被用于预防其他形式的心肌病的壁血栓。左心室功能降低和窦性心律的患者使用抗凝剂仍存在争议，在这种情况下应用抗凝剂并不常见。当存在特定适应症（如既往脑血管栓塞史、确诊心脏血栓、心房纤颤和/或扑动）时，推荐使用华法林或直接口服抗凝剂（DOAC）。
+美国心脏协会和欧洲心脏病学会指南均建议，考虑到孕妇妊娠期间的高凝状态，针对射血分数很低的围产期心肌病患者进行抗凝治疗（2,3)。已使用低分子量肝素。但是，由于存在胎儿风险，在妊娠的某些阶段不应使用华法林和直接作用的口服抗凝剂。
+心力衰竭的药物治疗可降低心律失常的风险，但对于尽管接受了最佳药物治疗但射血分数仍持续降低的患者，可使用植入式心律转复除颤器来预防因突发性心律失常导致的死亡。 由于急性心肌炎时房室(AV)传导阻滞通常会消退，一般不需要迫切安置永久起搏器。 但若房室传导阻滞在慢性扩张期持续存在或进行性加重，则可能需要植入永久性起搏器。如果患者QRS波间期增宽，左心室射血分数降低，且在优化药物治疗后仍有严重症状，应考虑心脏再同步化治疗。
+尽管经过治疗仍存在难治性心力衰竭的患者可能成为心脏移植的候选者。选择的标准包括没有相关的系统性失调和心理障碍，以及增高且不可逆转的肺血管阻力；由于供体稀缺，所以年轻患者（通常<70岁）有比较高的优先权。 也可考虑将左心室辅助装置（LVAD）作为心脏移植的桥接疗法或作为一些患者（如不适合心脏移植的患者）的终点治疗。
+
+【治疗参考文献】
+1.Bozkurt B, Colvin M, Cook J, et al: Current Diagnostic and Treatment Strategies for Specific Dilated Cardiomyopathies: A Scientific Statement From the American Heart Association [published correction appears inCirculation134(23):e652, 2016].Circulation134(23):e579–e646, 2016.doi:10.1161/CIR.0000000000000455
+1.Bozkurt B, Colvin M, Cook J, et al: Current Diagnostic and Treatment Strategies for Specific Dilated Cardiomyopathies: A Scientific Statement From the American Heart Association [published correction appears inCirculation134(23):e652, 2016].Circulation134(23):e579–e646, 2016.doi:10.1161/CIR.0000000000000455
+2.Bozkurt B, Colvin M, Cook J, et al: Current diagnostic and treatment strategies for specific dilated cardiomyopathies: A Scientific Statement From the American Heart Association.Circulation134(23):e579–e646.2, 2016.doi:10.1161/CIR.0000000000000455
+2.Bozkurt B, Colvin M, Cook J, et al: Current diagnostic and treatment strategies for specific dilated cardiomyopathies: A Scientific Statement From the American Heart Association.Circulation134(23):e579–e646.2, 2016.doi:10.1161/CIR.0000000000000455
+3.Regitz-Zagrosek V, Roos-Hesselink JW, Bauersachs J, et al: 2018 ESC Guidelines for the management of cardiovascular diseases during pregnancy: The Task Force for the Management of Cardiovascular Diseases during Pregnancy of the European Society of Cardiology (ESC).Eur Heart J39: 3165–3241, 2018.doi: 10.1093/eurheartj/ehy340
+3.Regitz-Zagrosek V, Roos-Hesselink JW, Bauersachs J, et al: 2018 ESC Guidelines for the management of cardiovascular diseases during pregnancy: The Task Force for the Management of Cardiovascular Diseases during Pregnancy of the European Society of Cardiology (ESC).Eur Heart J39: 3165–3241, 2018.doi: 10.1093/eurheartj/ehy340
+
+【扩张型心肌病的预后】
+扩张型心肌病的预后一般较差，尽管目前的治疗方案（例如使用β受体阻滞剂、血管紧张素转换酶[ACE]抑制剂、血管紧张素II受体阻滞剂[ARB]、血管紧张素II受体阻滞剂和脑啡肽酶抑制剂[ARNI]、盐皮质激素受体拮抗剂、钠-葡萄糖协同转运蛋白2（SGLT2）抑制剂、植入式心律转复除颤器或心脏再同步化治疗）已使预后有所改善。约20%的患者在第一年内死亡，此后年死亡率约为10%；约40%至50%的死亡是猝死的，由恶性心律失常所致（1）。女性的预后比男性好，非洲血统的人存活的时间大约是白人的一半 (1)。
+如果代偿性肥厚保存了心室壁的厚度则预后较好，而心室壁明显变薄并且心室扩张则预后较差。 扩张型心肌病经治疗后代偿良好的患者，其病情可能会稳定许多年。
+
+【预后参考】
+1.Schultheiss HP, Fairweather D, Caforio ALP, et al.Dilated cardiomyopathy.Nat Rev Dis Primers2019;5(1):32.doi:10.1038/s41572-019-0084-1
+1.Schultheiss HP, Fairweather D, Caforio ALP, et al.Dilated cardiomyopathy.Nat Rev Dis Primers2019;5(1):32.doi:10.1038/s41572-019-0084-1
+在扩张型心肌病中，心肌扩张、变薄并发生肥厚。
+在扩张型心肌病中，心肌扩张、变薄并发生肥厚。
+病因包括感染（常见于病毒感染）、毒素以及代谢、遗传或系统性风湿性疾病。
+病因包括感染（常见于病毒感染）、毒素以及代谢、遗传或系统性风湿性疾病。
+行胸部X线、心电图、超声心动图和心脏MRI检查，以评估疾病程度，对有需要的患者行心内膜心肌活检。
+行胸部X线、心电图、超声心动图和心脏MRI检查，以评估疾病程度，对有需要的患者行心内膜心肌活检。
+寻找心力衰竭的其他病因。
+寻找心力衰竭的其他病因。
+如果可能，治疗主要原因，并使用标准的心力衰竭治疗措施（如血管紧张素转换酶[ACE]抑制剂、β受体阻滞剂、醛固酮受体阻滞剂、血管紧张素II受体阻滞剂、ARNI[血管紧张素Ⅱ受体阻滞剂和奈普赖氨酸抑制剂]、钠-葡萄糖协同转运蛋白2（SGLT2）抑制剂、肼嗪/硝酸盐、利尿剂、地高辛，植入式心律转复除颤器和/或心脏再同步治疗）。
+如果可能，治疗主要原因，并使用标准的心力衰竭治疗措施（如血管紧张素转换酶[ACE]抑制剂、β受体阻滞剂、醛固酮受体阻滞剂、血管紧张素II受体阻滞剂、ARNI[血管紧张素Ⅱ受体阻滞剂和奈普赖氨酸抑制剂]、钠-葡萄糖协同转运蛋白2（SGLT2）抑制剂、肼嗪/硝酸盐、利尿剂、地高辛，植入式心律转复除颤器和/或心脏再同步治疗）。
+在特定患者中使用口服抗凝剂和免疫抑制剂。
+在特定患者中使用口服抗凝剂和免疫抑制剂。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+American Heart Association guidelines on dilated cardiomyopathies:Bozkurt B, Colvin M, Cook J, et al: Current diagnostic and treatment strategies for specific dilated cardiomyopathies: A Scientific Statement From the American Heart Association.Circulation134(23):e579–e646.2, 2016.doi:10.1161/CIR.0000000000000455
+American Heart Association guidelines on dilated cardiomyopathies:Bozkurt B, Colvin M, Cook J, et al: Current diagnostic and treatment strategies for specific dilated cardiomyopathies: A Scientific Statement From the American Heart Association.Circulation134(23):e579–e646.2, 2016.doi:10.1161/CIR.0000000000000455
+European Society of Cardiology guidelines on cardiomyopathy in pregnant patients:Regitz-Zagrosek V, Roos-Hesselink JW, Bauersachs J, et al: 2018 ESC Guidelines for the management of cardiovascular diseases during pregnancy: The Task Force for the Management of Cardiovascular Diseases during Pregnancy of the European Society of Cardiology (ESC).European Heart Journal39: 3165–3241, 2018.doi: 10.1093/eurheartj/ehy340
+European Society of Cardiology guidelines on cardiomyopathy in pregnant patients:Regitz-Zagrosek V, Roos-Hesselink JW, Bauersachs J, et al: 2018 ESC Guidelines for the management of cardiovascular diseases during pregnancy: The Task Force for the Management of Cardiovascular Diseases during Pregnancy of the European Society of Cardiology (ESC).European Heart Journal39: 3165–3241, 2018.doi: 10.1093/eurheartj/ehy340

@@ -1,0 +1,20 @@
+标题：阻抗面积测量
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/diagnostic-and-therapeutic-gastrointestinal-procedures/impedance-planimetry
+============================================================
+
+（参见测压。）
+阻抗面积测量法可实时评估管腔扩张性和面积变化，以响应胃肠道各个部位的施加压力。
+在常规内镜检查（需镇静）期间，放置导管式球囊探头，并充气至预设压力。充气时，球囊上的压力传感器可测量消化道管腔或括约肌内的腔内压力与横截面积。测量值用于计算膨胀指数 (mm2/mmHg) 或评估区域的顺应性。
+最新一代的探头还可以实时显示食管收缩模式。
+此图显示通过阻抗平面测量联合容积断层扫描评估食管胃结合部，对比不同球囊内压下食管胃结合部的直径。
+阻抗平面测量适用于多种消化系统疾病，尤其常用于食管疾病。 该技术可用于评估贲门失弛缓症，并可在高分辨率测压法无法诊断或患者不能耐受测压法时提供有用的诊断信息。最近的指南推荐将其用于诊断和管理失弛缓症(1,2）。此外，在接受贲门失弛缓症干预（例如，手术、经口内镜下肌切开术）的患者中，在干预期间和之后测量食管胃交界处的可扩张性可以准确地衡量对干预的临床反应，并有助于指导治疗。
+阻抗面积测量法的另一个潜在用途是诊断和管理嗜酸性食管炎。先前的研究表明，嗜酸性食管炎患者的食管扩张性降低（3），在这些患者中，尽管球囊压力和体积增加，但食管纤维化导致横截面积测量值保持静态或仅有最小变化。食管扩张性的测量可能显示常规内窥镜检查看不到的管腔狭窄，高度提示嗜酸性食管炎。需要进一步的研究来确定阻抗面积测量法在这种疾病中的最佳应用。
+阻抗面积测量法已被研究用于评估胃肠道疾病，包括胃食管反流病（GERD） 和裂孔疝，以及在术后环境中，包括减肥手术和胃底折叠术。其他研究评估了其在胃幽门疾病（尤其是胃轻瘫患者）和肛门括约肌疾病中的作用。它在诊断和治疗中的实用性和具体作用需要进一步研究。
+
+【参考文献】
+1.Gyawali CP, Carlson DA, Chen JW, et al.ACG clinical guidelines: Clinical use of esophageal physiologic testing.Am J Gastroenterol.115(9):1412–1428, 2020.doi: 10.14309/ajg.0000000000000734
+1.Gyawali CP, Carlson DA, Chen JW, et al.ACG clinical guidelines: Clinical use of esophageal physiologic testing.Am J Gastroenterol.115(9):1412–1428, 2020.doi: 10.14309/ajg.0000000000000734
+2.Hirano I, Pandolfino JE, Boeckxstaens GE.Functional lumen imaging probe for the management of esophageal disorders: Expert review from the clinical practice updates committee of the AGA Institute.Clin Gastroenterol Hepatol.15(3):325–334, 2017.doi: 10.1016/j.cgh.2016.10.022
+2.Hirano I, Pandolfino JE, Boeckxstaens GE.Functional lumen imaging probe for the management of esophageal disorders: Expert review from the clinical practice updates committee of the AGA Institute.Clin Gastroenterol Hepatol.15(3):325–334, 2017.doi: 10.1016/j.cgh.2016.10.022
+3.Carlson DA, Lin Z, Hirano I, et al.Evaluation of esophageal distensibility in eosinophilic esophagitis: An update and comparison of functional lumen imaging probe analytic methods.Neurogastroenterol Motil.28(12):1844–1853, 2016.doi: 10.1111/nmo.12888
+3.Carlson DA, Lin Z, Hirano I, et al.Evaluation of esophageal distensibility in eosinophilic esophagitis: An update and comparison of functional lumen imaging probe analytic methods.Neurogastroenterol Motil.28(12):1844–1853, 2016.doi: 10.1111/nmo.12888

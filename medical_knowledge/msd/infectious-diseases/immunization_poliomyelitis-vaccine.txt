@@ -1,0 +1,85 @@
+标题：脊髓灰质炎疫苗
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/immunization/poliomyelitis-vaccine
+============================================================
+
+广泛的疫苗接种几乎已在世界范围内根除了脊髓灰质炎。 然而，在某些免疫接种不完全且传播野生型病毒的地区仍有病例发生，如撒哈拉以南非洲和南亚。循环疫苗衍生的脊髓灰质炎病毒，主要是 Sabin OPV 2 型，也继续在已被宣布不含野生型病毒的高资源环境中被检测到。(参见Global Polio Eradication Initiative.)
+脊髓灰质炎病毒（一种肠病毒）有3种血清型。
+(参见免疫接种概述。)
+
+【脊髓灰质炎疫苗制剂】
+灭活脊髓灰质炎疫苗（poliovirus vaccine, inactivated, IPV）包含甲醛灭活的1、2、3型脊髓灰质炎病毒混合物。IPV可能含有微量的链霉素、新霉素和多粘菌素B。
+IPV 是自 2000 年以来美国唯一接种的脊髓灰质炎疫苗。还提供以下联合疫苗：
+白喉类毒素/灭活脊髓灰质炎病毒疫苗
+白喉类毒素/灭活脊髓灰质炎病毒疫苗
+白喉类毒素/乙型肝炎疫苗/灭活脊髓灰质炎疫苗
+白喉类毒素/乙型肝炎疫苗/灭活脊髓灰质炎疫苗
+白喉类毒素/b型流感嗜血杆菌结合疫苗/灭活脊髓灰质炎疫苗
+白喉类毒素/b型流感嗜血杆菌结合疫苗/灭活脊髓灰质炎疫苗
+白喉类毒素/b型流感嗜血杆菌结合疫苗/乙型肝炎疫苗/灭活脊髓灰质炎疫苗
+白喉类毒素/b型流感嗜血杆菌结合疫苗/乙型肝炎疫苗/灭活脊髓灰质炎疫苗
+口服脊髓灰质炎减毒活疫苗可能会变异成一种导致每290万接种疫苗的人中约有1人患脊髓灰质炎的毒株，所以美国已不再使用 (1)。然而，在世界上许多资源有限的环境中，它是首选疫苗，因为其收益可能超过风险。
+
+【制剂参考文献】
+1.Alexander LN, Seward JF, Santibanez TA, et al.Vaccine policy changes and epidemiology of poliomyelitis in the United States.JAMA.2004;292(14):1696-1701.doi:10.1001/jama.292.14.1696
+1.Alexander LN, Seward JF, Santibanez TA, et al.Vaccine policy changes and epidemiology of poliomyelitis in the United States.JAMA.2004;292(14):1696-1701.doi:10.1001/jama.292.14.1696
+
+【脊髓灰质炎疫苗的适应症】
+IPV是常规儿童疫苗(1)。
+除非已知或怀疑成人未接种疫苗或未完全接种疫苗，否则不建议对生活在美国的成人常规接种脊髓灰质炎病毒疫苗（2）。在美国 1955 年以后出生并成长的大多数成年人，可推定其在儿童时期已接种过脊髓灰质炎疫苗，除非有明确理由表明其未接种（3）。未接种疫苗或免疫不完全的成年人应完成 3 剂基础接种。完全接种疫苗的成年人，如果暴露于脊髓灰质炎病毒的风险增加，可以给予一次性的灭活脊髓灰质炎疫苗加强剂量。目前有关于哪些国家被认为是脊灰高风险国家的信息(4,5)。
+在美国，一名未接种疫苗的人于2022年7月在纽约州发现了一例疫苗衍生脊髓灰质炎病例（6）。在反复检测到脊髓灰质炎病毒的地区，纽约居民感染的风险可能更高，应遵循纽约州卫生部的最新疫苗接种建议（7）。
+
+【适应症参考文献】
+1.Centers for Disease Control and Prevention (CDC).Child and Adolescent Immunization Schedule by Age.Accessed September 23, 2025.
+1.Centers for Disease Control and Prevention (CDC).Child and Adolescent Immunization Schedule by Age.Accessed September 23, 2025.
+2.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+2.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+3.World Health Organization.History of the Polio Vaccine.Accessed April 15, 2025.
+3.World Health Organization.History of the Polio Vaccine.Accessed April 15, 2025.
+4.CDC.Travelers' Health: Destinations.Accessed June 13, 2025.
+4.CDC.Travelers' Health: Destinations.Accessed June 13, 2025.
+5.CDC.Polio Vaccination for International Travelers.July 2024.Accessed September 23, 2025.
+5.CDC.Polio Vaccination for International Travelers.July 2024.Accessed September 23, 2025.
+6.Rai A, Uwishema O, Uweis L, et al.Polio returns to the USA: An epidemiological alert.Ann Med Surg (Lond).2022;82:104563.Published 2022 Sep 6.doi:10.1016/j.amsu.2022.104563
+6.Rai A, Uwishema O, Uweis L, et al.Polio returns to the USA: An epidemiological alert.Ann Med Surg (Lond).2022;82:104563.Published 2022 Sep 6.doi:10.1016/j.amsu.2022.104563
+7.New York State Department of Health.Polio Vaccine.July 2025.
+7.New York State Department of Health.Polio Vaccine.July 2025.
+
+【脊髓灰质炎疫苗的禁忌症和注意事项】
+IPV疫苗的主要禁忌证是：
+曾有此类疫苗接种严重过敏反应（如过敏性休克）或对疫苗某一成分过敏性休克（链霉素、新霉素、多粘菌素B）
+曾有此类疫苗接种严重过敏反应（如过敏性休克）或对疫苗某一成分过敏性休克（链霉素、新霉素、多粘菌素B）
+IPV疫苗的主要注意事项是：
+中度或重度急性发热性疾病（疫苗接种推迟到疾病缓解后进行）
+中度或重度急性发热性疾病（疫苗接种推迟到疾病缓解后进行）
+无脊髓灰质炎高风险的妊娠患者
+无脊髓灰质炎高风险的妊娠患者
+尽管没有证据表明该疫苗会对孕妇或其胎儿造成损害，但是对于没有脊髓灰质炎高风险的孕妇，不建议接种脊髓灰质炎疫苗；但是，如果孕妇暴露于脊髓灰质炎病毒的风险增加且需要立即保护，则可以接种IPV。
+
+【脊髓灰质炎疫苗的剂量和接种】
+IPV疫苗剂量0.5mL，肌注或皮下注射。
+推荐在2、4、6-18个月龄，以及4～6岁时分别肌注接种，共4次。 通常前3次接种联合疫苗，最后一次接种单价疫苗。 如果孩子错过了脊灰疫苗在4--6岁时的接种，应尽快给予加强剂补种。
+如果将DTaP-IPV/Hib疫苗用于4剂接种计划表（年龄在2、4、6和15--18个月龄），应在4--6岁接种时点予以含IPV疫苗的加强剂（IPV或DTaP-IPV）接种，最终形成了5剂的免疫接种；然而不应将DTaP-IPV/Hib疫苗用作加强剂。 第4剂与第5剂之间的最小间隔应该≥6个月，以优化加强剂效果。
+对于未接种过脊髓灰质炎疫苗的成人，如果他们面临脊髓灰质炎病毒暴露的增加风险，建议进行3剂次的灭活脊髓灰质炎疫苗（IPV）基础免疫。 推荐的接种间隔：第1剂和第2剂之间的推荐间隔为1至2个月；第3剂应在此后的6至12个月进行。  如果需要在2--3个月产生免疫力，3次接种分别间隔≥1个月。  如果需要在1至2个月产生免疫力，2次接种，间隔≥1月。  如果需要＜1个月的免疫力，则给予1剂。  在所有情况下，如果该患者仍然处于较高的风险中，则应在以后按照推荐的间隔再接种剩余剂量的疫苗。
+
+【脊髓灰质炎疫苗的不良反应】
+常见的轻微不良反应包括疼痛、红斑、局部肿胀和注射部位硬化。发烧、易怒和疲劳等反应也有报道，但通常较为温和和短暂。
+严重的不良反应极其罕见。
+数据显示，IPV在联合疫苗或与其他疫苗同时接种时，在过敏反应（如过敏性休克）、神经系统反应（如脑炎）或自身免疫反应（如格林-巴利综合征）方面表现出良好的安全性 (1)。
+有关这些疫苗不良反应的更多信息，请参阅处方信息。
+
+【不良反应参考】
+1.Iqbal S, Shi J, Seib K, et al.Preparation for global introduction of inactivated poliovirus vaccine: safety evidence from the US Vaccine Adverse Event Reporting System, 2000-12.Lancet Infect Dis.2015;15(10):1175-1182.doi:10.1016/S1473-3099(15)00059-6
+1.Iqbal S, Shi J, Seib K, et al.Preparation for global introduction of inactivated poliovirus vaccine: safety evidence from the US Vaccine Adverse Event Reporting System, 2000-12.Lancet Infect Dis.2015;15(10):1175-1182.doi:10.1016/S1473-3099(15)00059-6
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Polio Vaccine
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Polio Vaccine
+Centers for Disease Control and Prevention (CDC):Polio (Poliomyelitis)
+Centers for Disease Control and Prevention (CDC):Polio (Poliomyelitis)
+CDC:Travelers' Health: Destinations
+CDC:Travelers' Health: Destinations
+CDC:Travelers Health: Polio
+CDC:Travelers Health: Polio
+European Centre for Disease Prevention and Control (ECDC):Poliomyelitis: Recommended vaccinations
+European Centre for Disease Prevention and Control (ECDC):Poliomyelitis: Recommended vaccinations

@@ -1,0 +1,113 @@
+标题：老年患者的全面评估
+来源：https://www.msdmanuals.cn/professional/geriatrics/approach-to-the-geriatric-patient/comprehensive-geriatric-assessment
+============================================================
+
+全面的老年评估除了评价身体和精神健康外，专门深入地评估功能、认知能力、社会支持、财务状况及环境因素。理想情况下，老年患者的定期检查应包括老年患者综合评价的很多方面，使得这两种方式非常相似。 根据评估的结果量身定制长久的干预措施（如复健、教育、辅导、支援服务）。
+老年评估的成本限制了其应用。因此，该评估最适合用于高危老年患者，如体弱或慢性病患者（例如，通过邮寄健康问卷或在家、聚会场所进行访谈来识别）。家属也可能提出要求进行老年患者评估的推荐。然而，在美国，年度健康检查作为医疗保险的承保福利提供，包含全面老年评估的主要组成部分，并提供详细的健康风险评估和个性化预防计划。
+评估可能包括以下益处：
+提高对病情的识别能力
+提高对病情的识别能力
+改善功能和精神状态(1)
+改善功能和精神状态(1)
+降低死亡率 (1,2)
+降低死亡率 (1,2)
+养老院和急症护理医院的使用减少（2）
+养老院和急症护理医院的使用减少（2）
+提高保健护理的满意度
+提高保健护理的满意度
+如果老年患者相对健康，进行标准医学评估可能是合适的。
+当老年患者的综合评估由跨学科团队（通常情况下包括老年医学专家、护士、社会工作者和药剂师）完成时，评估最为成功。通常，评估是在门诊环境中进行的。然而，有身体或精神障碍的患者和慢性病患者可能需要住院评估。
+
+【老年评估工具】
+老年评估工具
+范围 (1)
+日常功能
+吃饭、穿衣、洗澡、床和椅子之间转运、使用厕所以及控制膀胱和肠道的困难程度
+准备餐食、做家务、服药、外出办事（如购物）、管理财务和使用电话的困难程度
+辅助设备
+个人设备（如手杖、助行器、轮椅、氧气）的使用
+环境设备的使用（如扶手、淋浴凳、病床）
+护理人员
+有薪护理人员的使用（如护士、助手）
+无薪护理人员的使用（如家属、朋友、志愿者）
+使用的处方药物药名
+使用的非处方药物药名
+身高、体重
+体重的稳定性（如，患者是否在没有控制体重的情况下，在过去6个月内体重下降4.54kg[10lb]）
+预防措施
+规律的BP测量、粪隐血愈创木脂试验、乙状结肠镜或结肠镜检查、免疫接种（流感、肺炎球菌、破伤风）、促甲状腺激素评价以及牙科检查
+钙和维生素D的摄入
+规律锻炼
+烟雾检测器的使用
+在1分钟后回忆3个物件以及画钟的能力试验（简易智力状态评估量表Mini-Cog©）
+悲伤、抑郁以及无望的情绪
+缺乏兴趣或做事的乐趣
+预先指示
+持有预先医疗指示
+医疗保健永久授权书的建立
+药物滥用/误用
+使用和过度使用酒精、烟草、咖啡因、处方药、娱乐性或非法药物（例如大麻）
+步态和平衡
+在过去6个月内跌倒的次数
+从椅子上站起，步行3.05米（10英尺），转身，回来，坐下所需的时间
+站立时最大前伸范围
+感官功能
+能够复述在头部后方0.61米（2英尺）处低声说出的3个数字的能力
+能够以20/40或更好的视力阅读斯内伦视力表（如需要，可佩戴矫正镜片）
+上肢活动性
+能够双手交叉置于脑后和背后的能力
+Geriatric Examination Tool Kit provides links to various tests.
+Geriatric Examination Tool Kit provides links to various tests.
+
+【参考文献】
+1.Huss A, Stuck AE, Rubenstein LZ, et al: Multidimensional preventive home visit programs for community-dwelling older adults: A systematic review and meta-analysis of randomized controlled trials.J Gerontol A Biol Sci Med Sci63 (3):298–307, 2008.doi: 10.1093/gerona/63.3.298
+1.Huss A, Stuck AE, Rubenstein LZ, et al: Multidimensional preventive home visit programs for community-dwelling older adults: A systematic review and meta-analysis of randomized controlled trials.J Gerontol A Biol Sci Med Sci63 (3):298–307, 2008.doi: 10.1093/gerona/63.3.298
+2.Ellis G, Gardner M, Tsiachristas A, et al: Comprehensive geriatric assessment for older adults admitted to hospital.Cochrane Database Syst Rev9 (9):CD006211, 2017.doi: 10.1002/14651858.CD006211.pub3
+2.Ellis G, Gardner M, Tsiachristas A, et al: Comprehensive geriatric assessment for older adults admitted to hospital.Cochrane Database Syst Rev9 (9):CD006211, 2017.doi: 10.1002/14651858.CD006211.pub3
+
+【评估的范围】
+主要范围包括
+功能性能力：评估日常活动能力（ADL）和辅助日常活动能力（IADL）。ADL包括吃饭、穿衣、洗澡、床和椅子之间转运、使用厕所以及控制膀胱和肠道。工具性日常生活活动能力使人们能够独立生活，包括准备餐食、做家务、服药、外出办事、管理财务和使用电话。
+功能性能力：评估日常活动能力（ADL）和辅助日常活动能力（IADL）。ADL包括吃饭、穿衣、洗澡、床和椅子之间转运、使用厕所以及控制膀胱和肠道。工具性日常生活活动能力使人们能够独立生活，包括准备餐食、做家务、服药、外出办事、管理财务和使用电话。
+身体健康：包括老年人常见疾病（如，视觉、听觉、大小便失禁、步态和平衡）的病史询问和体格检查。
+身体健康：包括老年人常见疾病（如，视觉、听觉、大小便失禁、步态和平衡）的病史询问和体格检查。
+认知和精神健康：使用几个验证认知功能障碍（如精神状态检查）和抑郁（如，老年人抑郁量表,Hamilton抑郁量表）的筛选试验。
+认知和精神健康：使用几个验证认知功能障碍（如精神状态检查）和抑郁（如，老年人抑郁量表,Hamilton抑郁量表）的筛选试验。
+社会与环境状况：患者的社会交往网络、可用的社会支持资源、特殊需求，以及其生活环境的安全性与便利性，通常由护士或社会工作者进行评估。这些因素影响着所采用的治疗方法。检查表可用于评估家居安全。
+社会与环境状况：患者的社会交往网络、可用的社会支持资源、特殊需求，以及其生活环境的安全性与便利性，通常由护士或社会工作者进行评估。这些因素影响着所采用的治疗方法。检查表可用于评估家居安全。
+标准化工具使得对这些领域的评估更加可靠和高效（参见表格老年综合评估量）。还能协助保健医生间临床信息的沟通以及监测患者的病情变化。
+
+【老年抑郁量表（短表）】
+老年抑郁量表（短表）
+1.你对自己的生活基本满意吗？
+2.您是否放弃了许多活动和兴趣？
+3.你觉得生活是空虚的吗？
+4.你经常感到无聊吗？
+5.你大部分时间都精神抖擞吗？
+6.你害怕有什么不好的事情发生在你身上吗？
+7.你大部分时间都感到快乐吗？
+8.你是否经常感到无助？
+9.你喜欢呆在家里而不是出去做新的事情吗？
+10.你觉得你的记忆问题比大多数人都多吗？
+11.你认为现在还活着很美妙吗？
+12.您是否觉得以您目前的状况，自己几乎毫无价值？
+13.你觉得精力充沛吗？
+14.你是否觉得你的处境毫无希望？
+15.你认为大多数人比你过得好吗？
+1，5，7，11，13回答“否”记1分
+其他回答“是”记1分
+正常 = 3 ± 2
+正常 = 3 ± 2
+轻度抑郁＝ 7 ± 3
+轻度抑郁＝ 7 ± 3
+非常抑郁 = 12 ± 2
+非常抑郁 = 12 ± 2
+> 5分提示可能存在抑郁，建议进行后续评估。
+≥10分几乎提示抑郁
+Adapted from Sheikh JI, Yesavage JA: Geriatric depression scale (GDS): Recent evidence and development of a shorter version.InClinical Gerontology: A Guide to Assessment and Intervention,edited by TL Brink.纽约宾厄姆顿，霍沃斯出版社，1986年，第165–173.©Haworth Press, IncAll rights reserved.经许可转载。
+Adapted from Sheikh JI, Yesavage JA: Geriatric depression scale (GDS): Recent evidence and development of a shorter version.InClinical Gerontology: A Guide to Assessment and Intervention,edited by TL Brink.纽约宾厄姆顿，霍沃斯出版社，1986年，第165–173.©Haworth Press, IncAll rights reserved.经许可转载。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+医疗保险：年度健康检查（AWE）：这项美国资源，包括全面老年评估的主要内容，并提供详细的健康风险评估和个性化的预防计划。
+医疗保险：年度健康检查（AWE）：这项美国资源，包括全面老年评估的主要内容，并提供详细的健康风险评估和个性化的预防计划。

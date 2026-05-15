@@ -1,0 +1,13 @@
+标题：耳硬化症
+来源：https://www.msdmanuals.cn/professional/ear-nose-and-throat-disorders/middle-ear-and-tympanic-membrane-disorders/otosclerosis
+============================================================
+
+耳硬化症是影响骨结构的许多遗传和获得性疾病之一。其他包括鼓室硬化、佩吉特病，鳃-耳-肾发育不良、成骨不全症和 Goldenhar 综合征。
+在耳硬化症中，骨质会被吸收并重新沉积，从而产生病理后果。最常受影响的区域涉及镫骨；因此，镫骨变得固定不动，并出现传导性听力损失。耳硬化症也可能引起感音神经性听力丧失，尤其是骨硬化灶靠近蜗管时。
+耳硬化症倾向于在家庭中发生，所有病例中有一半是遗传性的。如果父母一方患有耳硬化症，则有 25% 的机会发生耳硬化症，如果父母双方都患有耳硬化症，则有 50% 的机会发生耳硬化症。耳硬化症是一种由单一基因引起的具有罕见常染色体显性遗传形式的复杂疾病。通过连锁分析，耳硬化基因的定位是染色体15q25-q26。最近的研究显示了更为复杂的遗传图景，涉及多个其他基因（1）。在具有耳硬化症遗传倾向的人群中，麻疹病毒可能起到激发作用。
+尽管大约10%的白人成年人患有耳硬化症（与黑人的1%相比），但只有约10%的受影响人发展为传导性听力损失。耳硬化症所致的听力下降很少在7或8岁时就出现，但大多数病例直到青少年晚期或成年早期才变得明显，并被诊断为缓慢进展性听力下降。通常情况下，耳硬化症累及单耳，但超过一半的患者会继续在双耳中出现症状。
+佩戴助听器可以改善听力。或者，行镫骨切除术切除部分或全部镫骨，并用假体替换，可能会有益，但需要考虑听力下降和前庭功能受损的风险。
+
+【参考文献】
+1.Rämö JT, Kiiskinen T, Seist R, et al: Genome-wide screen of otosclerosis in population biobanks: 27 loci and shared associations with skeletal structure.Nat Commun14 (1):157, 2023.doi: 10.1038/s41467-022-32936-3
+1.Rämö JT, Kiiskinen T, Seist R, et al: Genome-wide screen of otosclerosis in population biobanks: 27 loci and shared associations with skeletal structure.Nat Commun14 (1):157, 2023.doi: 10.1038/s41467-022-32936-3

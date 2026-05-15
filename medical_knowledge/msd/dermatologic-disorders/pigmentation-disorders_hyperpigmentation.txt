@@ -1,0 +1,112 @@
+标题：色素沉着过度
+来源：https://www.msdmanuals.cn/professional/dermatologic-disorders/pigmentation-disorders/hyperpigmentation
+============================================================
+
+（参见色素性疾病概述。）
+局部色素沉着是炎症后色素沉着中最常见的一种，可发生于外伤后（如割伤和烧伤）或其他原因引起的炎症后（如痤疮和狼疮）。局灶性线状色素沉着通常是由植物性光性皮炎引起的，这是一种由紫外线（UV）光与植物中的补骨脂素（特别是呋喃香豆素）结合引起的光毒性反应（例如，酸橙，欧芹，芹菜-参见化学光敏性）。肿瘤形成过程（例如，雀斑，黑色素瘤），黄褐斑，雀斑和咖啡牛奶斑也可导致局部色素沉着。黑棘皮病引起局部色素沉着和天鹅绒样斑块（最常见于腋下和颈后）。
+弥漫性色素沉着可能来自药物并且还具有系统性和肿瘤性病因（尤其是全身受累的肺癌和黑色素瘤）。在排除药物引起的弥漫性色素沉着可能性后，还应该考虑常见系统性疾病的致病可能，病因包括Addison病，血色病，和原发性胆汁性肝硬化引起的本病。皮肤表现对明确病因来说无特征性，因此皮肤活检意义不大。寻找潜在的癌症应该基于系统回顾。
+
+【黑斑病 （黄褐斑）】
+黄褐斑由深棕色、大致对称的色素沉着斑块组成，面部边界不规则（通常位于前额、太阳穴、脸颊、皮肤上唇或鼻子）。多见于妊娠期妇女（妊娠期黑斑病，也jiao妊娠斑）和服用口服避孕药的女性。黄褐斑在肤色较黑的人群中发病率更高，持续时间更长。
+黄褐斑会影响表皮和真皮。
+这张照片显示了黄褐斑患者脸颊上的棕色斑块。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+所有的病例都与日晒有关，因此可能病因为黑素细胞功能亢进产生过多的黑色素。除了日晒，其他可能诱因有
+自身免疫性甲状腺疾病
+自身免疫性甲状腺疾病
+光敏性药物
+光敏性药物
+抗癫痫药
+抗癫痫药
+性激素，包括口服避孕药
+性激素，包括口服避孕药
+在女性患者，分娩或停止用避孕药后，黄褐斑可慢慢消退，但消退不完全。而在男性患者则几乎不消退。
+黄褐斑管理的主体是严格的光保护剂。患者应使用广谱（UVA 和 UVB）防晒系数（SPF）为 50 或更高的防晒霜，穿防晒衣服和帽子（紫外线防护系数为 50 或更高），并避免阳光直射。治疗期间和治疗后，必须保持严格防晒。因为大多数防晒霜不会阻挡可见光，所以患者应该使用有色防晒霜（如含有氧化锌或二氧化钛的防晒霜）。在防晒霜加入抗氧化剂和口服辅助光保护剂，如白藜芦醇可以加强保护作用（1,2)。由于潜在的健康和环境毒性，人们通常不鼓励使用氧苯酮/二苯酮-3（3）；然而，其对健康的影响尚不清楚，因为关于具有临床意义的结果的数据有限（4，5）。
+其他治疗取决于色素沉着于表皮还是真皮；Wood灯（365 nm）照射表皮色素沉着会加剧或通过活检诊断。只有位于表皮的色素沉着才对治疗有效。大多数局部黄褐斑治疗是联合使用，而不是单独使用。
+三重局部治疗是一线治疗，通常是有效的，包括
+2~4％的对苯二酚
+2~4％的对苯二酚
+0.05~1％的维甲酸
+0.05~1％的维甲酸
+V 至 VII 类外用皮质类固醇（见表格部分外用皮质类固醇的相对效力）
+V 至 VII 类外用皮质类固醇（见表格部分外用皮质类固醇的相对效力）
+对苯二酚通过阻断酪氨酸3,4-二羟基苯丙氨酸（DOPA）的酶促氧化并抑制黑素细胞的代谢过程而使皮肤脱色。氢醌刺激性较大，可能出现过敏反应，因此使用前须在前额或耳后小面积试用1周。
+维甲酸可促进角质形成细胞的更新，并可剥落含有表皮色素的皮肤。
+皮质类固醇有助于阻止黑色素的合成和分泌。
+两种有前途的技术正在尝试联合三重局部疗法，包括Q调Nd：YAG（1064 nm）激光和非烧蚀性分段换肤(6)。
+如果无法进行三联局部治疗，可以单独使用 2% 至 4% 的氢醌；然而，长期持续使用理论上会增加外源性褐黄病的风险，这是一种永久性的色素沉着。对苯二酚2%可作为维护使用。
+15~20％的壬二酸乳膏可以代替或与对苯二酚和/或维甲酸一起使用。壬二酸是一种酪氨酸酶抑制剂，可减少黑色素的产生。另外，局部曲酸已经被越来越多地使用；它是一种螯合剂，可阻止酪氨酸转化为黑色素。
+怀孕期间，使用15%至20%的壬二酸乳膏和乙醇酸化学去皮是安全的。笔记：对苯二酚，氨甲环酸、三氯乙酸去皮，以及维甲酸怀孕期间使用不安全。
+对于局部漂白剂无反应的严重黄褐斑患者的二线治疗方案包括用乙醇酸或30％~50％的三氯乙酸进行化学脱皮。激光治疗已被使用，但不是标准治疗。
+最近的一项随机研究显示，口服氨甲环酸可改善中度至重度黄褐斑 (7)。然而，停止治疗可能会复发。
+
+【黄褐斑参考】
+1.Goh CL, Chuah SY, Tien S, et al: Double-blind, placebo-controlled trial to evaluate the effectiveness ofPolypodium leucotomosextract in the treatment of melasma in Asian skin: A pilot study.J Clin Aesthet Dermatol11(3):14-19, 2018.
+1.Goh CL, Chuah SY, Tien S, et al: Double-blind, placebo-controlled trial to evaluate the effectiveness ofPolypodium leucotomosextract in the treatment of melasma in Asian skin: A pilot study.J Clin Aesthet Dermatol11(3):14-19, 2018.
+2.Lim HW, Kohli I, Ruvolo E, et al: Impact of visible light on skin health: The role of antioxidants and free radical quenchers in skin protection.J Am Acad Dermatol86(3S):S27-S37, 2022.doi: 10.1016/j.jaad.2021.12.024
+2.Lim HW, Kohli I, Ruvolo E, et al: Impact of visible light on skin health: The role of antioxidants and free radical quenchers in skin protection.J Am Acad Dermatol86(3S):S27-S37, 2022.doi: 10.1016/j.jaad.2021.12.024
+3.DiNardo JC, Downs CA.Dermatological and environmental toxicological impact of the sunscreen ingredient oxybenzone/benzophenone-3.J Cosmet Dermatol.2018;17(1):15-19.doi:10.1111/jocd.12449
+3.DiNardo JC, Downs CA.Dermatological and environmental toxicological impact of the sunscreen ingredient oxybenzone/benzophenone-3.J Cosmet Dermatol.2018;17(1):15-19.doi:10.1111/jocd.12449
+4.American Academy of Dermatology: American Academy of Dermatology comments on follow-up study on absorption of sunscreen ingredients.January 21, 2020.
+4.American Academy of Dermatology: American Academy of Dermatology comments on follow-up study on absorption of sunscreen ingredients.January 21, 2020.
+5.Matta MK, Florian J, Zusterzeel R, et al.Effect of Sunscreen Application on Plasma Concentration of Sunscreen Active Ingredients: A Randomized Clinical Trial [published correction appears inJAMA. 2020 Mar 17;323(11):1098. doi: 10.1001/jama.2020.1950].JAMA.2020;323(3):256-267.doi:10.1001/jama.2019.20747
+5.Matta MK, Florian J, Zusterzeel R, et al.Effect of Sunscreen Application on Plasma Concentration of Sunscreen Active Ingredients: A Randomized Clinical Trial [published correction appears inJAMA. 2020 Mar 17;323(11):1098. doi: 10.1001/jama.2020.1950].JAMA.2020;323(3):256-267.doi:10.1001/jama.2019.20747
+6.Arora P, Sarkar R, Garg VK, Arya L.Lasers for treatment of melasma and post-inflammatory hyperpigmentation.J Cutan Aesthet Surg.2012;5(2):93-103.doi:10.4103/0974-2077.99436
+6.Arora P, Sarkar R, Garg VK, Arya L.Lasers for treatment of melasma and post-inflammatory hyperpigmentation.J Cutan Aesthet Surg.2012;5(2):93-103.doi:10.4103/0974-2077.99436
+7.Del Rosario E, Florez-Pollack S, Zapata L Jr, et al: Randomized, placebo-controlled, double-blind study of oraltranexamic acidin the treatment of moderate-to-severe melasma.J Am Acad Dermatol78(2):363–369, 2018.doi: 10.1016/j.jaad.2017.09.053
+7.Del Rosario E, Florez-Pollack S, Zapata L Jr, et al: Randomized, placebo-controlled, double-blind study of oraltranexamic acidin the treatment of moderate-to-severe melasma.J Am Acad Dermatol78(2):363–369, 2018.doi: 10.1016/j.jaad.2017.09.053
+雀斑为扁平、褐色到棕色椭圆形的斑点。最常见的好发部位就是面部和手部，同时最常见的原因是长期的日晒（日光性雀斑样痣，有时亦称“肝色斑”但与肝功能障碍无关）。常在中年发病，随年龄增多。虽然它与黑色素瘤的关系尚不明确，但被认为是黑色素瘤的一个潜在因素。
+如果雀斑影响美容，可采取冷冻或激光治疗，对苯二酚没有效果。
+非日光性的雀斑样痣通常与系统性的疾病有关，如Peutz-Jeghers综合征（此病可有唇部大量雀斑样痣）、多发性色素斑综合征（或称LEOPARD综合征，代表多发雀斑，心电图[ECG]传导异常，眼距过宽，肺动脉狭窄，生殖器异常，生长发育迟缓，感音神经性耳聋）或着色性干皮病。
+这张照片显示了单纯性雀斑痣在背部表现为多个、小的、色素沉着过度的斑疹。
+© Springer Science+Business Media
+
+【药物或物质引起的色素沉着】
+变化通常是弥漫性的，但有时具有药物或物质特异性的分布模式或色调（见表格某些药物和重金属导致的色素沉着）。发病机制包括
+表皮黑素增加（偏向于棕色）
+表皮黑素增加（偏向于棕色）
+表皮和真皮(多为棕色，略带灰色或蓝色)黑色素增多
+表皮和真皮(多为棕色，略带灰色或蓝色)黑色素增多
+真皮层黑素增加（偏向于灰色或蓝色）
+真皮层黑素增加（偏向于灰色或蓝色）
+药物或物质、代谢物或药物或物质与黑色素的复合物在皮肤中的沉积（通常为暗蓝灰色或蓝灰色）
+药物或物质、代谢物或药物或物质与黑色素的复合物在皮肤中的沉积（通常为暗蓝灰色或蓝灰色）
+药物可能会导致继发性色素沉着。例如，局灶性色素沉着经常发生在药物诱导后扁平苔藓（也称为苔藓样药疹）之后。
+
+【某些药物和重金属的色素过度沉着效应】
+某些药物和重金属的色素过度沉着效应
+Medications（药物应用史）
+曝光部位石板灰色至紫罗兰色色素沉着，真皮黄棕色物质沉积
+胫前、面部、口腔和指甲黄棕色至灰色至蓝黑色色素沉着，真皮药物-黑素复合物沉积，毛细血管周围含铁血黄素沉积
+博来霉素
+背部鞭状的色素沉着线，常见于抓伤或微小创伤的部位
+肿瘤化疗药物，包括白消安、环磷酰胺、放线菌素D、柔红霉素和5-氟尿嘧啶（5-FU）
+弥散性色素沉着
+地昔帕明
+曝光部位灰蓝色色素沉着，真皮浅层金棕色颗粒沉积
+使用多年后，耳廓和面部蓝黑色色素沉着(“反复性色素沉着”)
+吩噻嗪类，包括氯丙嗪
+曝光部位灰蓝色色素沉着，真皮浅层金棕色颗粒沉积
+四环素类，包括米诺环素
+牙、指甲、巩膜、口腔黏膜、痤疮瘢痕、面、前臂、小腿灰色色素沉着
+可以表现为雨滴状的色素沉着过度或色素减退（“雨滴”色素减退）
+指甲的白色横纹（米氏线 [白甲纹]）
+面、颈、手部蓝灰色色素沉着
+眼周蓝灰色物质沉着（金质沉着病）
+皮肤皱褶处石板灰色色素沉着
+弥漫性石板灰色色素沉着（银质沉着病），尤其是曝光部位
+固定性药疹是每次服药后出现在同一部位的红斑或水疱，消退后留有较持久的炎症后色素沉着斑，尤其是深色皮肤。典型皮损位于面部（尤其是唇部）、手、足和生殖器部位皮肤。典型的刺激性药物包括抗生素（磺胺类，四环素，甲氧苄啶和氟喹诺酮类药物），非甾体类抗炎药和巴比妥类药物。
+药物或物质引起的色素沉着的治疗包括停药。 在某些情况下（即使不是所有情况），色素沉着消退也非常缓慢。
+因为许多引起皮肤色素沉着的药物和物质也会引起光敏反应, 患者应避免日晒。肤色较深的人更容易出现炎症后色素沉着，也应该采取严格的防晒措施以限制炎症后色素沉着的加剧。
+局部色素沉着的常见原因包括损伤、炎症、植物日光性皮炎、雀斑、黄褐斑、café-au-lait 斑和黑棘皮病。
+局部色素沉着的常见原因包括损伤、炎症、植物日光性皮炎、雀斑、黄褐斑、café-au-lait 斑和黑棘皮病。
+弥散性色素沉着的常见原因包括黄褐斑、药物、物质、癌症和其他全身性疾病。
+弥散性色素沉着的常见原因包括黄褐斑、药物、物质、癌症和其他全身性疾病。
+排除非药物或物质引起的弥散性色素沉着患者是否患有原发性胆汁性肝硬化、血色沉着病和Addison病。
+排除非药物或物质引起的弥散性色素沉着患者是否患有原发性胆汁性肝硬化、血色沉着病和Addison病。
+黄褐斑的初步治疗为2〜4％氢醌，0.05〜1％维A酸和V至VII级局部皮质类固醇。
+黄褐斑的初步治疗为2〜4％氢醌，0.05〜1％维A酸和V至VII级局部皮质类固醇。
+如果雀斑影响美容，则采取冷冻或激光治疗。
+如果雀斑影响美容，则采取冷冻或激光治疗。
+通过停止接触有害物质来治疗药物或物质引起的色素沉着。
+通过停止接触有害物质来治疗药物或物质引起的色素沉着。

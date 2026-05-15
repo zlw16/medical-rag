@@ -1,0 +1,28 @@
+标题：Klebsiella（克雷伯菌属）、Enterobacter（肠杆菌属）和Serratia（沙雷氏菌属）感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-negative-bacilli/klebsiella-enterobacter-and-serratia-infections
+============================================================
+
+Klebsiella（克雷伯菌属）、Enterobacter（肠杆菌属）和Serratia（沙雷氏菌属）都属于肠杆菌目（以前称为肠杆菌科）。
+这 3 种细菌的感染通常是医院获得性的，主要发生在抵抗感染能力下降的患者身上（例如，潜在的疾病、留置导管和设备）。这种细菌通常引起多种类型感染，包括菌血症、手术部位感染，血管内导管感染，呼吸道和泌尿道感染，表现为肺炎、膀胱炎或肾盂炎，可进展至肺脓肿、脓胸、菌血症和败血症，如下所述：
+Klebsiella（克雷伯菌属）肺炎是一种罕见且严重的疾病，常表现为咳深棕色或红醋栗果冻状痰、肺脓肿形成和脓胸，最常见于糖尿病和酒精使用障碍患者。它还可导致原发性社区获得性肝脓肿。
+Klebsiella（克雷伯菌属）肺炎是一种罕见且严重的疾病，常表现为咳深棕色或红醋栗果冻状痰、肺脓肿形成和脓胸，最常见于糖尿病和酒精使用障碍患者。它还可导致原发性社区获得性肝脓肿。
+Serratia（沙雷氏菌属），特别是S. marcescens（粘质沙雷氏菌），对泌尿道有较大的亲和力，但也经常从呼吸道和伤口中分离出来。
+Serratia（沙雷氏菌属），特别是S. marcescens（粘质沙雷氏菌），对泌尿道有较大的亲和力，但也经常从呼吸道和伤口中分离出来。
+Enterobacter（肠杆菌属）最常引起院内感染（呼吸道、泌尿道和血流感染），但也可能导致中耳炎、蜂窝织炎和新生儿败血症。
+Enterobacter（肠杆菌属）最常引起院内感染（呼吸道、泌尿道和血流感染），但也可能导致中耳炎、蜂窝织炎和新生儿败血症。
+诊断依据是对血液和/或其他受感染组织或体液进行培养。同时进行药敏试验。
+根据药敏结果选择抗生素
+根据药敏结果选择抗生素
+治疗使用三代头孢菌素、头孢吡肟、碳青霉烯类、氟喹诺酮类、哌拉西林/他唑巴坦或氨基糖苷类。然而，由于某些分离株对多种抗生素耐药，故药敏试验是必需的。
+产生超广谱β-内酰胺酶（ESBL）的Klebsiella（克雷伯菌属）菌株在治疗过程中可能会对头孢菌素产生耐药性，尤其是在使用头孢他啶治疗时；这些产ESBL的菌株受到β-内酰胺酶抑制剂（如舒巴坦、他唑巴坦、克拉维酸、法硼巴坦、阿维巴坦）不同程度的抑制。产碳青霉烯酶的K. pneumoniae（肺炎克雷伯菌）菌种（KPC）已在世界范围内被分离出来，这使得某些感染的治疗变得非常困难。头孢他啶 / 阿维巴坦、亚胺培南 / 雷利巴坦、美罗培南 / 瓦博巴坦（这些复方制剂含新型 β- 内酰胺酶抑制剂，且此类抑制剂对 KPC 型碳青霉烯酶同样具有抑制作用），以及厄他培南环素、头孢地尔，均对产 KPC 酶菌株具有抗菌活性。
+Enterobacter肠杆菌属细菌可能对多数beta-内酰胺类抗生素变得耐药，包括第三代头孢菌素；它们产生的beta-内酰酶（AmpC beta-内酰胺酶）不能被通常的beta-内酰胺酶抑制剂所抑制（克拉维酸、他唑巴坦，舒巴坦）。 然而，这些Enterobacter菌株可能对碳青霉烯类敏感（例如，亚胺培南，美罗培南，多利培南、厄他培南）。耐碳青霉烯类肠杆菌属细菌也已被检测出。在某些情况下，头孢他啶/阿维巴坦、美罗培南/瓦博巴坦、亚胺培南/ 雷利巴坦、替加环素、厄他培南环素、头孢地尔，或许还有粘菌素可能是唯一可用的活性抗生素（1)。
+(另请参阅美国传染病学会2023年Guidance on the Treatment of Antimicrobial Resistant Gram-Negative Infections（抗菌药物耐药性革兰氏阴性菌感染治疗指南）。)
+
+【治疗参考文献】
+1.Thaden JT, Pogue JM, Kaye KS: Role of newer and re-emerging older agents in the treatment of infections caused by carbapenem-resistant Enterobacteriaceae.Virulence8(4):403–416, 2017.doi: 10.1080/21505594.2016.1207834
+1.Thaden JT, Pogue JM, Kaye KS: Role of newer and re-emerging older agents in the treatment of infections caused by carbapenem-resistant Enterobacteriaceae.Virulence8(4):403–416, 2017.doi: 10.1080/21505594.2016.1207834
+
+【更多信息】
+以下英语资源可能会有用。请注意，本系列手册对这些资源的内容不承担任何责任。
+Infectious Diseases Society of America (IDSA):Guidance on the Treatment of Antimicrobial Resistant Gram-Negative Infections(2023)
+Infectious Diseases Society of America (IDSA):Guidance on the Treatment of Antimicrobial Resistant Gram-Negative Infections(2023)

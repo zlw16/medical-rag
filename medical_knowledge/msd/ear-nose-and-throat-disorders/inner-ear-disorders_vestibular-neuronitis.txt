@@ -1,0 +1,79 @@
+标题：前庭神经元炎
+来源：https://www.msdmanuals.cn/professional/ear-nose-and-throat-disorders/inner-ear-disorders/vestibular-neuronitis
+============================================================
+
+前庭神经炎是一种影响第八脑神经前庭分支的急性炎症，由于内耳向大脑传递的脉冲紊乱而导致不平衡。有时前庭神经元炎与病毒性迷路炎同义。然而，前庭神经元炎仅表现为眩晕，而病毒性迷路炎则表现为耳鸣、听力丧失或两者兼而有之。
+在一项研究中，年发病率在每10万人11.7至15.5例之间，平均发病年龄为52.3岁(1)。前庭神经元炎通常由病毒感染或病毒感染后炎症引起。通常为单侧发生。
+
+【参考文献】
+1.Adamec I, Krbot Skorić M, Handžić J, Habek M.Incidence, seasonality and comorbidity in vestibular neuritis.Neurol Sci.2015;36(1):91-95.doi:10.1007/s10072-014-1912-4
+1.Adamec I, Krbot Skorić M, Handžić J, Habek M.Incidence, seasonality and comorbidity in vestibular neuritis.Neurol Sci.2015;36(1):91-95.doi:10.1007/s10072-014-1912-4
+
+【前庭神经元炎的症状和体征】
+前庭神经元炎的症状包括1次严重的眩晕发作，伴有恶心、呕吐，持续存在朝向健侧的眼震，可持续7~10天。眼震是单向的、水平性、自发性，伴有方向向健耳的快速摆动。
+缺乏伴随的耳鸣和听力损失是前庭神经元炎的特点，有助于将其与梅尼埃病以及迷路炎区别开来。
+步态不稳但行走能力保留可能由平衡失调引起。
+首次发作后该病在数天至数周内慢慢缓解。有些病人，特别在快速头位运动时残留平衡障碍，这可能是永久性的前庭损害引起的。
+
+【前庭神经元炎的诊断】
+主要是病史和体格检查
+主要是病史和体格检查
+听力评估、眼震电图和MRI
+听力评估、眼震电图和MRI
+若临床医生怀疑前庭神经炎，通常可根据病史和体格检查作出诊断。头脉冲、眼震、偏斜试验（HINTS）可在急诊环境中进行，以区分前庭神经炎和中枢性原因（例如，中风）(1)。由熟练检查者执行时，这可能比影像学检查更准确(2)；它还具有高灵敏度和特异性(3)。
+HINTS测试包含以下3个组成部分：
+头部脉冲测试：检查者让患者直视前方目标（如检查者的鼻尖）。然后，在观察患者眼睛的同时，检查人员迅速将患者的头部向一侧旋转15至30°。当头部旋转到一侧时，如果患者的眼睛保持固定在目标上，则该侧的前庭功能正常。当前庭功能受损时，前庭-眼反射（一种协调眼球运动与头部运动的反射，确保头部运动期间视觉稳定性）消失，患者的眼睛无法持续注视目标，而是短暂跟随头部转动方向移动，随后快速自主地重新回到目标位置（称为延迟性追赶性扫视）。
+头部脉冲测试：检查者让患者直视前方目标（如检查者的鼻尖）。然后，在观察患者眼睛的同时，检查人员迅速将患者的头部向一侧旋转15至30°。当头部旋转到一侧时，如果患者的眼睛保持固定在目标上，则该侧的前庭功能正常。当前庭功能受损时，前庭-眼反射（一种协调眼球运动与头部运动的反射，确保头部运动期间视觉稳定性）消失，患者的眼睛无法持续注视目标，而是短暂跟随头部转动方向移动，随后快速自主地重新回到目标位置（称为延迟性追赶性扫视）。
+眼球震颤：观察患者双眼正、侧注视，寻找眼球震颤方向及不同体位的变化。
+眼球震颤：观察患者双眼正、侧注视，寻找眼球震颤方向及不同体位的变化。
+垂直偏斜试验：检查时遮盖患者一眼后，要求其注视检查者的鼻尖，随后迅速揭开遮盖物；若为阳性，双眼会出现垂直方向的重新对准。
+垂直偏斜试验：检查时遮盖患者一眼后，要求其注视检查者的鼻尖，随后迅速揭开遮盖物；若为阳性，双眼会出现垂直方向的重新对准。
+如果这3项测试中的任何1项涉及中枢病因，或有任何相关的神经系统症状，则需要进一步的紧急检查。
+
+【头部脉冲、眼球震颤、偏斜试验】
+头部脉冲、眼球震颤、偏斜试验
+周围性眩晕
+中枢性眩晕
+头脉冲试验
+异常（头部转向患侧时出现矫正性扫视）
+眼球震颤
+单向、水平
+水平与方向变换、垂直、扭转
+垂直偏斜试验
+无偏斜偏差
+存在偏斜偏差
+*如果这3项检查中的任何1项涉及中枢病因，或有任何相关的神经系统症状，则需要进一步的紧急检查。
+*如果这3项检查中的任何1项涉及中枢病因，或有任何相关的神经系统症状，则需要进一步的紧急检查。
+在非紧急情况下，检查应包括听力学评估、眼震电图检查（含冷热试验）以及钆增强头部磁共振成像，重点观察内耳道以排除其他诊断（例如桥小脑角肿瘤）。MRI上可见前庭神经增强，与炎症性神经炎一致。
+
+【诊断参考】
+1.Edlow JA, Carpenter C, Akhter M, et al.Guidelines for reasonable and appropriate care in the emergency department 3 (GRACE-3): Acute dizziness and vertigo in the emergency department.Acad Emerg Med.2023;30(5):442-486.doi:10.1111/acem.14728
+1.Edlow JA, Carpenter C, Akhter M, et al.Guidelines for reasonable and appropriate care in the emergency department 3 (GRACE-3): Acute dizziness and vertigo in the emergency department.Acad Emerg Med.2023;30(5):442-486.doi:10.1111/acem.14728
+2.Tarnutzer AA, Gold D, Wang Z, et al.Impact of Clinician Training Background and Stroke Location on Bedside Diagnostic Test Accuracy in the Acute Vestibular Syndrome - A Meta-Analysis.Ann Neurol.2023;94(2):295-308.doi:10.1002/ana.26661
+2.Tarnutzer AA, Gold D, Wang Z, et al.Impact of Clinician Training Background and Stroke Location on Bedside Diagnostic Test Accuracy in the Acute Vestibular Syndrome - A Meta-Analysis.Ann Neurol.2023;94(2):295-308.doi:10.1002/ana.26661
+3.Gottlieb M, Peksa GD, Carlson JN.Head impulse, nystagmus, and test of skew examination for diagnosing central causes of acute vestibular syndrome. CochraneDatabase Syst Rev.2023;11(11):CD015089.Published 2023 Nov 2.doi:10.1002/14651858.CD015089.pub2
+3.Gottlieb M, Peksa GD, Carlson JN.Head impulse, nystagmus, and test of skew examination for diagnosing central causes of acute vestibular syndrome. CochraneDatabase Syst Rev.2023;11(11):CD015089.Published 2023 Nov 2.doi:10.1002/14651858.CD015089.pub2
+
+【前庭神经元炎的治疗】
+止吐、抗组胺及苯并二氮䓬类药物缓解症状
+止吐、抗组胺及苯并二氮䓬类药物缓解症状
+前庭康复治疗
+前庭康复治疗
+前庭神经炎急性期症状的短期对症处理与梅尼埃病相同，即使用抗胆碱能止吐药（例如：每6至8小时直肠或口服给予丙氯拉嗪或异丙嗪）、抗组胺药或苯二氮䓬类药物；可选治疗方案为糖皮质激素冲击治疗后逐渐减量（1）。如果呕吐持续，需要静脉补充液体和电解质。长期使用（即超过数周）前庭抑制剂是极不推荐的，因为这些药物会延缓前庭代偿过程，并增加跌倒风险，尤其对老年患者而言。
+前庭康复治疗（通常由物理治疗师实施）有助于中枢神经系统对残余前庭功能缺损产生代偿性调节（2）。
+
+【治疗参考文献】
+1.Sjögren J, Magnusson M, Tjernström F, Karlberg M.Steroids for Acute Vestibular Neuronitis-the Earlier the Treatment, the Better the Outcome?.Otol Neurotol. 2019;40(3):372-374.doi:10.1097/MAO.0000000000002106
+1.Sjögren J, Magnusson M, Tjernström F, Karlberg M.Steroids for Acute Vestibular Neuronitis-the Earlier the Treatment, the Better the Outcome?.Otol Neurotol. 2019;40(3):372-374.doi:10.1097/MAO.0000000000002106
+2.Huang HH, Chen CC, Lee HH, et al.Efficacy of Vestibular Rehabilitation in Vestibular Neuritis: A Systematic Review and Meta-analysis.Am J Phys Med Rehabil.2024;103(1):38-46.doi:10.1097/PHM.0000000000002301
+2.Huang HH, Chen CC, Lee HH, et al.Efficacy of Vestibular Rehabilitation in Vestibular Neuritis: A Systematic Review and Meta-analysis.Am J Phys Med Rehabil.2024;103(1):38-46.doi:10.1097/PHM.0000000000002301
+前庭神经炎患者会出现严重且持续的眩晕，伴有恶心呕吐，眼球震颤偏向健侧。症状可持续数日至数周。
+前庭神经炎患者会出现严重且持续的眩晕，伴有恶心呕吐，眼球震颤偏向健侧。症状可持续数日至数周。
+前庭神经元炎不会导致听力损失或耳鸣。
+前庭神经元炎不会导致听力损失或耳鸣。
+做检查以排除其他疾病
+做检查以排除其他疾病
+治疗针对症状，包括止吐药和抗组胺药或苯二氮䓬类 。
+治疗针对症状，包括止吐药和抗组胺药或苯二氮䓬类 。
+前庭康复有助于中枢性代偿任何前庭功能缺损。
+前庭康复有助于中枢性代偿任何前庭功能缺损。

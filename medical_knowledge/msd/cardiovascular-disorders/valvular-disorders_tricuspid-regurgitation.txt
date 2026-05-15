@@ -1,0 +1,144 @@
+标题：三尖瓣反流
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/valvular-disorders/tricuspid-regurgitation
+============================================================
+
+(参见心脏瓣膜疾病概述。）
+
+【三尖瓣反流的病因】
+三尖瓣反流可以是：
+继发性（＞80%病例）（1）
+继发性（＞80%病例）（1）
+原发性三尖瓣反流较少见。这可能是由于：
+钝性胸部外伤
+钝性胸部外伤
+类癌综合征
+类癌综合征
+先天性缺陷（例如，三尖瓣裂、心内膜垫缺损)
+先天性缺陷（例如，三尖瓣裂、心内膜垫缺损)
+艾伯斯坦异常（先天畸形的三尖瓣向下移位到右心室 [RV]）
+艾伯斯坦异常（先天畸形的三尖瓣向下移位到右心室 [RV]）
+特发性粘液瘤样变性
+特发性粘液瘤样变性
+马方综合征
+马方综合征
+药物（如麦角胺、芬氟拉明、芬特明）
+药物（如麦角胺、芬氟拉明、芬特明）
+由感染性心内膜炎引起的瓣膜异常
+由感染性心内膜炎引起的瓣膜异常
+继发性三尖瓣反流是由于瓣叶被牵拉固定，这是由瓣环扩张（通常是慢性房颤引起的右心房扩张[房性继发]）和/或乳头肌移位（最常见的原因是左心疾病[心室性继发]导致肺动脉高压，进而引起右心室扩张或几何结构变形）引起的瓣叶闭合不良所致。医源性病因包括穿过三尖瓣的起搏器导线，以及右心室心内膜活检或其他右心导管插入术中造成的瓣膜损伤（起搏器导线相关继发性反流）（见表三尖瓣反流的机制）。
+长期存在的严重三尖瓣反流可能导致右心室功能不全诱发的心力衰竭和心房颤动。
+
+【三尖瓣反流的机制】
+三尖瓣反流的机制
+典型机制
+右心室大小、收缩功能
+潜在治疗*
+异常瓣叶
+最初正常
+通常置换
+扩大的瓣环
+最初正常
+三尖瓣环成形术
+瓣叶牵拉（受限）
+扩张伴功能受损
+边缘对合修复（研发中）或置换
+起搏器导线相关
+导线干扰瓣膜功能或损伤瓣叶
+导线拔除和三尖瓣置换
+*基于患者特征进行患者选择至关重要，且治疗方案的个体化是必要的。
+*基于患者特征进行患者选择至关重要，且治疗方案的个体化是必要的。
+
+【病因参考文献】
+1.Badano LP, Tomaselli M, Muraru D, Galloo X, Li CHP, Ajmone Marsan N.Advances in the Assessment of Patients With Tricuspid Regurgitation: A State-of-the-Art Review on the Echocardiographic Evaluation Before and After Tricuspid Valve Interventions.J Am Soc Echocardiogr2024;37(11):1083-1102.doi:10.1016/j.echo.2024.07.008
+1.Badano LP, Tomaselli M, Muraru D, Galloo X, Li CHP, Ajmone Marsan N.Advances in the Assessment of Patients With Tricuspid Regurgitation: A State-of-the-Art Review on the Echocardiographic Evaluation Before and After Tricuspid Valve Interventions.J Am Soc Echocardiogr2024;37(11):1083-1102.doi:10.1016/j.echo.2024.07.008
+
+【三尖瓣反流的症状和体征】
+三尖瓣反流通常不引起症状，但有些患者由于颈静脉压增高出现颈部静脉搏动。严重三尖瓣反流的症状包括外周水肿、乏力、腹胀、腹水和纳差。病人也可能发生心房颤动或心房扑动的症状。
+中度至重度三尖瓣反流的体征包括颈静脉扩张，伴有明显融合的c-v波和陡峭的y下降，有时还会有肝大及外周水肿。在严重三尖瓣反流中，触诊可及右颈静脉震颤，并可能扪及收缩性肝脏搏动以及胸骨左下缘的右心室搏动。
+全收缩期杂音（通常听不到）在胸骨左中下缘听诊最清晰
+全收缩期杂音（通常听不到）在胸骨左中下缘听诊最清晰
+听诊时，若存在三尖瓣反流杂音，第一心音（S1）可能正常或几乎听不见；第二心音（S2）可能呈分裂音（肺动脉高压时伴有响亮的肺动脉瓣音[P2]），或因肺动脉瓣迅速关闭而与主动脉瓣音（A2）合并，表现为单一音。当存在右心室功能不全引起的心力衰竭时，可能在胸骨附近听到右心室第三心音（S3）。
+三尖瓣反流的杂音经常不容易被听到。当明显时，可闻及在胸骨左缘中下部最清晰的全收缩期杂音，或患者坐直或站立时用钟型听诊器在剑突下闻及。如果三尖瓣反流程度较轻且由肺动脉高压所致，杂音可能是高调的；如果三尖瓣反流严重且由其他原因引起，杂音可能是中调的。杂音随呼吸而变化，吸气时增强（卡瓦洛征）。
+当完全听不到杂音时，最佳诊断依据是颈静脉波动形态的表现和肝脏收缩期搏动的存在。
+
+【三尖瓣反流的诊断】
+超声心动图
+超声心动图
+轻度三尖瓣反流最常因其他原因作超声心动图时被检出。低于轻度（“轻微”或“生理性”）三尖瓣反流是正常现象。
+中度或重度三尖瓣反流可能为病史和体格检查所提示。根据超声心动图可以确诊。
+重度三尖瓣反流的超声心动图特征需满足下列≥1项 (1)：
+二维瓣叶对合不良或连枷样瓣叶
+二维瓣叶对合不良或连枷样瓣叶
+三尖瓣反流射流的连续波多普勒频谱呈浓密、三角形、早期达峰形态。
+三尖瓣反流射流的连续波多普勒频谱呈浓密、三角形、早期达峰形态。
+瓣膜近端可见大量血流汇聚区
+瓣膜近端可见大量血流汇聚区
+彩色多普勒提示大量返流 （≥50%的右心房面积）
+彩色多普勒提示大量返流 （≥50%的右心房面积）
+在肝静脉收缩期逆向血流（重度TR特征性表现）
+在肝静脉收缩期逆向血流（重度TR特征性表现）
+缩流颈宽度 > 7 mm
+缩流颈宽度 > 7 mm
+缩流颈是异常瓣膜孔下游血流最窄的直径；它比解剖上的瓣膜孔略小。
+当三尖瓣反流为中度或重度时，峰值反流速度会低估肺动脉压力。二维超声心动图可检测原发性三尖瓣反流中存在的结构异常。评估右心室收缩功能具有挑战性；在成人中，超声心动图提示右心室功能不全的标准为三尖瓣环平面收缩期位移（TAPSE）<16毫米或三尖瓣环收缩期速度<10厘米/秒。
+心脏MRI是用于评估RV大小和功能的首选方法。
+也常作心电图和胸部Ｘ线检查。
+心电图通常正常但可能显示由右心房扩大所致的高尖P波，V1导联出现高R或QR波（为右心室肥厚的特征性表现），或心房颤动。
+胸部Ｘ线一般正常，但在伴有右心室肥厚或右心室功能不全诱发心力衰竭的进展期病例可能显示扩大的上腔静脉、扩大的右心房或右心室阴影（在侧面投照位中上胸骨后面）或胸膜积液。
+通常无需实验室检查，但若进行检查，可能显示重度三尖瓣反流患者存在肝功能障碍。
+心导管检查适用于：当存在重度三尖瓣反流时，用于精确测量肺动脉压力；以及计划手术时，用于评估冠脉解剖。心导管检查可见心室收缩期出现明显的右心房c-v压波。
+
+【心脏杂音的心音图特征】
+心脏杂音的心音图特征
+
+【诊断参考文献】
+1.Otto CM, Nishimura RA, Bonow RO, et al.2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears in Circulation. 2021 Feb 2;143(5):e229. doi: 10.1161/CIR.0000000000000955.] [published correction appears in Circulation. 2023 Aug 22;148(8):e8. doi: 10.1161/CIR.0000000000001177.] [published correction appears in Circulation. 2023 Nov 14;148(20):e185. doi: 10.1161/CIR.0000000000001190.] [published correction appears in Circulation. 2024 Sep 17;150(12):e267. doi: 10.1161/CIR.0000000000001284.]. Circulation.2021;143(5):e72-e227.doi:10.1161/CIR.0000000000000923
+1.Otto CM, Nishimura RA, Bonow RO, et al.2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears in Circulation. 2021 Feb 2;143(5):e229. doi: 10.1161/CIR.0000000000000955.] [published correction appears in Circulation. 2023 Aug 22;148(8):e8. doi: 10.1161/CIR.0000000000001177.] [published correction appears in Circulation. 2023 Nov 14;148(20):e185. doi: 10.1161/CIR.0000000000001190.] [published correction appears in Circulation. 2024 Sep 17;150(12):e267. doi: 10.1161/CIR.0000000000001284.]. Circulation.2021;143(5):e72-e227.doi:10.1161/CIR.0000000000000923
+
+【三尖瓣反流的治疗】
+对因治疗
+对因治疗
+有时可行瓣环成形术、瓣膜修复或置换术
+有时可行瓣环成形术、瓣膜修复或置换术
+极轻度三尖瓣反流是正常表现，无需处理。需针对病因进行内科治疗（例如，心力衰竭、心内膜炎）。
+用袢利尿剂药物治疗可以缓解充血。醛固酮拮抗剂可能具有附加益处，因为它们可以对抗因肝充血引起的继发性醛固酮增多症。治疗继发性三尖瓣反流的病因至关重要，可能包括抗心律失常药物、心力衰竭药物以及肺动脉高压治疗。
+三尖瓣反流的干预时机取决于患者的症状和右室功能 (1)。 重度三尖瓣反流患者若经药物治疗后症状仍然存在，或右心室进行性扩大、有中等程度的功能障碍，均需尽早手术治疗。严重的左室功能不全或严重的肺动脉高压可能使手术风险过高。
+在左侧心脏病变的手术期间，中度或轻度三尖瓣反流且瓣环扩张大于40 mm的患者可接受三尖瓣环成形术，从而减缓病情发展至重度三尖瓣反流。然而，三尖瓣环成形术将需要永久起搏的风险增加了五倍 (2)。
+术式选择包括：
+瓣环成形术
+瓣环成形术
+瓣膜修补术
+瓣膜修补术
+瓣膜置换术
+瓣膜置换术
+瓣环成形术是指将三尖瓣瓣环缝合到人工环上或通过特定方式将瓣环周径缩小，当三尖瓣反流是由瓣环扩张所致时适用此术式。
+当三尖瓣反流是由主要瓣膜异常所致或当瓣环成形术技术上不能施行时宜行瓣膜修补或瓣膜置换术。（见表三尖瓣反流的机制。）
+三尖瓣修复通常优于置换。先天性心脏病采用特殊技术，如针对埃布斯坦畸形患者的锥形重建术。
+当三尖瓣反流由类癌综合征或埃布斯坦畸形引起时，可能需行三尖瓣置换术。生物瓣膜用于降低与右心低压相关的血栓栓塞风险；与左心不同，在右心，生物三尖瓣瓣膜的使用寿命可达>10年（3，4）。生物瓣膜需要进行临时的抗凝治疗（另请参见人工心脏瓣膜或自体瓣膜疾病患者的抗凝治疗）。
+经皮瓣膜修复程序正在取得进展。早期研究表明，反流程度和右侧血流动力学均有所改善 (5)。经皮修复手术的开发将使严重 TR 自然史中的早期修复风险更低 (6)。
+
+【治疗参考文献】
+1.Dreyfus J, Juarez-Casso F, Sala A, et al: Benefit of isolated surgical valve repair or replacement for functional tricuspid regurgitation and long-term outcomes stratified by the TRI-SCORE.Eur Heart J.45(42):4512–4522, 2024.doi:10.1093/eurheartj/ehae578
+1.Dreyfus J, Juarez-Casso F, Sala A, et al: Benefit of isolated surgical valve repair or replacement for functional tricuspid regurgitation and long-term outcomes stratified by the TRI-SCORE.Eur Heart J.45(42):4512–4522, 2024.doi:10.1093/eurheartj/ehae578
+2.Gammie JS, Chu MWA, Falk V, et al: Concomitant tricuspid repair in patients with degenerative mitral regurgitation.N Engl J Med386(4):327–339, 2022. doi: 10.1056/NEJMoa2115961
+2.Gammie JS, Chu MWA, Falk V, et al: Concomitant tricuspid repair in patients with degenerative mitral regurgitation.N Engl J Med386(4):327–339, 2022. doi: 10.1056/NEJMoa2115961
+3.Anselmi A, Ruggieri VG, Harmouche M, et al: Appraisal of Long-Term Outcomes of Tricuspid Valve Replacement in the Current Perspective.Ann Thorac Surg101(3):863–871, 2016.doi:10.1016/j.athoracsur.2015.09.081
+3.Anselmi A, Ruggieri VG, Harmouche M, et al: Appraisal of Long-Term Outcomes of Tricuspid Valve Replacement in the Current Perspective.Ann Thorac Surg101(3):863–871, 2016.doi:10.1016/j.athoracsur.2015.09.081
+4.Burri M, Vogt MO, Hörer J, et al: Durability of bioprostheses for the tricuspid valve in patients with congenital heart disease.Eur J Cardiothorac Surg50(5):988–993, 2016.doi:10.1093/ejcts/ezw094
+4.Burri M, Vogt MO, Hörer J, et al: Durability of bioprostheses for the tricuspid valve in patients with congenital heart disease.Eur J Cardiothorac Surg50(5):988–993, 2016.doi:10.1093/ejcts/ezw094
+5.Dreyfus J, Galloo X, Taramasso M, et al: TRI-SCORE and benefit of intervention in patients with severe tricuspid regurgitation.Eur Heart J45(8):586–597, 2024.doi:10.1093/eurheartj/ehad585
+5.Dreyfus J, Galloo X, Taramasso M, et al: TRI-SCORE and benefit of intervention in patients with severe tricuspid regurgitation.Eur Heart J45(8):586–597, 2024.doi:10.1093/eurheartj/ehad585
+6.Vahanian A, Beyersdorf F, Praz F, et al: 2021 ESC/EACTS Guidelines for the management of valvular heart disease [published correction appears inEur Heart J2022 Jun 1;43(21):2022. doi: 10.1093/eurheartj/ehac051].Eur Heart J43(7):561–632, 2022.doi:10.1093/eurheartj/ehab395
+6.Vahanian A, Beyersdorf F, Praz F, et al: 2021 ESC/EACTS Guidelines for the management of valvular heart disease [published correction appears inEur Heart J2022 Jun 1;43(21):2022. doi: 10.1093/eurheartj/ehac051].Eur Heart J43(7):561–632, 2022.doi:10.1093/eurheartj/ehab395
+
+【三尖瓣反流的预后】
+重度三尖瓣反流最终预后不良，即使早期可以耐受数年。不太严重的 TR 也会影响预后，尽管没有研究明确表明早期干预可以降低死亡率。
+与左心瓣膜反流类似，容量超负荷的心室最终会发生不可逆性失代偿。然而，与左侧瓣膜反流相比，没有可靠的方法来辨别 RV 何时开始失代偿。鉴于此，患者通常会延迟进行手术。在手术风险很大的情况下，总体结果很差。
+三尖瓣反流通常发生于受右心室扩张影响的正常瓣膜；较少见的是原发性瓣膜病变（如因感染性心内膜炎、类癌综合征或某些药物所致）。
+三尖瓣反流通常发生于受右心室扩张影响的正常瓣膜；较少见的是原发性瓣膜病变（如因感染性心内膜炎、类癌综合征或某些药物所致）。
+可能会出现颈静脉怒张；重度三尖瓣反流可能引起腹胀、肝大和外周水肿。
+可能会出现颈静脉怒张；重度三尖瓣反流可能引起腹胀、肝大和外周水肿。
+听诊可闻及全收缩期杂音，在胸骨左缘中下部或上腹部（患者坐直或站立位时）听诊最佳。吸气时杂音增强。
+听诊可闻及全收缩期杂音，在胸骨左缘中下部或上腹部（患者坐直或站立位时）听诊最佳。吸气时杂音增强。
+TR通常耐受性良好，但严重的情况下，可能需要瓣膜成形术，瓣膜修补或瓣膜置换术。
+TR通常耐受性良好，但严重的情况下，可能需要瓣膜成形术，瓣膜修补或瓣膜置换术。

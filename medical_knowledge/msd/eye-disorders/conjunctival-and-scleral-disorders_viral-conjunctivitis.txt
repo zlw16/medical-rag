@@ -1,0 +1,82 @@
+标题：病毒性结膜炎
+来源：https://www.msdmanuals.cn/professional/eye-disorders/conjunctival-and-scleral-disorders/viral-conjunctivitis
+============================================================
+
+
+【病毒性结膜炎的病因】
+结膜炎可能伴随普通感冒和其它全身病毒感染（尤其是麻疹，也见于水痘、风疹和腮腺炎）。无全身表现的局部病毒性结膜炎通常由腺病毒引起（占病毒性结膜炎的90%），有时也由肠道病毒或单纯疱疹病毒引起（占病毒性结膜炎的1.3%至4.8%）（1）。
+流行性角结膜炎是一种严重的病毒性结膜炎，通常由腺病毒血清型Ad 5、8、11、13、19和37引起。腺病毒也可以通过基因型来鉴定。基因型 HAdV-D 与结膜炎有关，而 HAdV-D53 和 HAdV-D54 与流行性角结膜炎有关。咽结膜热通常是血清型Ad 3，4和7感染。
+暴发性急性出血性结膜炎是70型肠道病毒感染造成的一种罕见的结膜炎，曾见于非洲和亚洲。埃博拉病毒（可引发具有高度传染性且可能致命的埃博拉出血热）和SARS-CoV-2感染（可导致具有高度传染性且可能致命的COVID-19）均可表现出双侧结膜充血、流泪和全身症状（2）。在检查患有结膜炎、全身症状和来自高危地区的患者时，应谨慎并使用适当的个人防护装备。
+
+【病因参考文献】
+1.Azari AA, Barney NP.Conjunctivitis: a systematic review of diagnosis and treatment [published correction appears inJAMA. 2014 Jan 1;311(1):95. Dosage error in article text].JAMA.2013;310(16):1721-1729.doi:10.1001/jama.2013.280318
+1.Azari AA, Barney NP.Conjunctivitis: a systematic review of diagnosis and treatment [published correction appears inJAMA. 2014 Jan 1;311(1):95. Dosage error in article text].JAMA.2013;310(16):1721-1729.doi:10.1001/jama.2013.280318
+2.Navel V, Chiambaretta F, Dutheil F.Haemorrhagic conjunctivitis with pseudomembranous related to SARS-CoV-2.Am J Ophthalmol Case Rep.2020;19:100735.Published 2020 May 6.doi:10.1016/j.ajoc.2020.100735
+2.Navel V, Chiambaretta F, Dutheil F.Haemorrhagic conjunctivitis with pseudomembranous related to SARS-CoV-2.Am J Ophthalmol Case Rep.2020;19:100735.Published 2020 May 6.doi:10.1016/j.ajoc.2020.100735
+
+【病毒性结膜炎的症状和体征】
+潜伏期约为5～12天，通常开始出现单眼的结膜充血、水样分泌物和眼部刺激感，很快传染到对侧眼。睑结膜可出现滤泡。耳前淋巴结常常肿大并伴有疼痛。
+许多患者之前有结膜炎患者接触史，和（或）有上呼吸道感染史。
+这张照片显示了一名病毒性结膜炎患者的双侧结膜红斑（左眼更多）。 也可能有分泌物，通常是清澈的。 瘙痒通常不是特征性表现。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+严重的流行性角结膜炎患者由于角膜受累可伴有明显的畏光和异物感。可存在球结膜水肿。由纤维蛋白和炎症细胞所形成的睑结膜假膜和（或）角膜局部炎症，可导致视力模糊。即使结膜炎完全缓解，裂隙灯下仍可观察到遗留的角膜上皮下混浊（多灶性，钱币状，直径0.5～1.0mm），可持续两年之久 (1)。角膜混浊偶尔会导致视力下降，并引起明显的眩光和星芒感。
+
+【症状和体征】
+1.Jonas RA, Ung L, Rajaiya J, Chodosh J.Mystery eye: Human adenovirus and the enigma of epidemic keratoconjunctivitis.Prog Retin Eye Res.2020;76:100826.doi:10.1016/j.preteyeres.2019.100826
+1.Jonas RA, Ung L, Rajaiya J, Chodosh J.Mystery eye: Human adenovirus and the enigma of epidemic keratoconjunctivitis.Prog Retin Eye Res.2020;76:100826.doi:10.1016/j.preteyeres.2019.100826
+
+【病毒性结膜炎的诊断】
+眼科检查
+眼科检查
+结膜炎的诊断以及细菌性、病毒性和非感染性结膜炎(见表急性结膜炎的鉴别诊断要点) 间的鉴别诊断通常依靠临床；然而，病毒性结膜炎和细菌性结膜炎之间的区分可能不精确，因为症状可能重叠。特殊的组织培养对病毒的生长是必要的，但很少适用。核酸扩增试验（NAAT）和其他快速、可在诊室进行的免疫诊断检测是有用的，尤其当炎症严重且需排除其他诊断（如眼眶蜂窝织炎）时（1）。
+可以帮助鉴别细菌性和病毒性结膜炎的表现包括眼部脓性分泌物、耳前淋巴结是否肿大以及在流行性角结膜炎中出现的球结膜水肿。
+有畏光症状的患者需进行荧光素染色角膜并在裂隙灯下检查。流行性角结膜炎可能出现角膜的点状着染。单纯疱疹性角膜炎也可通过荧光素染色和裂隙灯检查进行诊断。
+病毒性结膜炎很少出现继发细菌感染。 但是，如果出现符合细菌性结膜炎的体征时（如脓性分泌物），进行细菌学培养或者其它检测有助于明确。
+
+【急性结膜炎的鉴别诊断要点】
+急性结膜炎的鉴别诊断要点
+分泌物/细胞类型
+眼睑水肿
+淋巴结受累
+脓性/多形核白细胞
+通常不需要治疗
+清晰的/单核细胞
+通常存在
+通常不需要治疗
+清晰的，黏液性，丝状/嗜酸细胞
+中到重度
+轻微至强烈
+
+【诊断参考文献】
+1.Azari AA, Barney NP.Conjunctivitis: a systematic review of diagnosis and treatment [published correction appears inJAMA. 2014 Jan 1;311(1):95. Dosage error in article text].JAMA.2013;310(16):1721-1729.doi:10.1001/jama.2013.280318
+1.Azari AA, Barney NP.Conjunctivitis: a systematic review of diagnosis and treatment [published correction appears inJAMA. 2014 Jan 1;311(1):95. Dosage error in article text].JAMA.2013;310(16):1721-1729.doi:10.1001/jama.2013.280318
+
+【病毒性结膜炎的治疗】
+支持性措施
+支持性措施
+病毒性结膜炎具有高度传染性，必须做好传染预防工作。
+医师采取以下预防措施以避免传播感染：
+使用消毒擦手液或正确洗手（完全起泡手，至少20秒钟洗手，冲洗干净，然后用纸巾关掉水）
+使用消毒擦手液或正确洗手（完全起泡手，至少20秒钟洗手，冲洗干净，然后用纸巾关掉水）
+检查患者后消毒设备
+检查患者后消毒设备
+患者需要进一步检查：
+触摸眼睛或鼻腔分泌物后，使用消毒擦手液和/或彻底洗手
+触摸眼睛或鼻腔分泌物后，使用消毒擦手液和/或彻底洗手
+触摸受感染的眼睛后，避免触摸未感染的眼睛
+触摸受感染的眼睛后，避免触摸未感染的眼睛
+避免共用毛巾或枕头
+避免共用毛巾或枕头
+避免在泳池中游泳
+避免在泳池中游泳
+眼部应该及时祛除分泌物，避免遮盖。 患有结膜炎的患儿应该留在家里不去上学，以免感染进一步传播。
+病毒性结膜炎具有自限性，轻度病例持续1周，严重的病例持续达3周。只需要局部冷敷以缓解症状。然而，患有严重畏光或视力受到影响的患者可能会受益于局部使用皮质类固醇（例如，1％醋酸泼尼松龙滴剂，每天 4 次）。皮质类固醇通常需要有眼科医生的处方。首先必须排除单纯疱疹病毒性角膜炎（通过荧光素染色和裂隙灯检查法），因为皮质类固醇可能使其加重。外用环孢素 A 滴眼液总体上效果较差，但如果皮质类固醇滴眼液的使用受到不良反应的限制，则很有帮助。
+在严重的情况下，应在裂隙灯检查时去除任何结膜假膜，以减少结膜瘢痕形成和睑球粘连形成的机会。
+大多数病毒性结膜炎是由腺病毒和肠道病毒引起的高度传染性感染。
+大多数病毒性结膜炎是由腺病毒和肠道病毒引起的高度传染性感染。
+可以帮助辨别病毒性和细菌性结膜炎的特征包括眼分泌物为脓性，存在耳前淋巴结病和在流行的角膜结膜炎中出现球结膜水肿。
+可以帮助辨别病毒性和细菌性结膜炎的特征包括眼分泌物为脓性，存在耳前淋巴结病和在流行的角膜结膜炎中出现球结膜水肿。
+诊断通常是基于临床。
+诊断通常是基于临床。
+通常治疗方法为冷敷和采取措施防止传播。
+通常治疗方法为冷敷和采取措施防止传播。

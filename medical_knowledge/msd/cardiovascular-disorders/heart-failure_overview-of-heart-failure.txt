@@ -1,0 +1,228 @@
+标题：心力衰竭概述
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/heart-failure/overview-of-heart-failure
+============================================================
+
+心力衰竭影响着全球超过6400万人（1）。在美国，目前约有 670 万人患有心力衰竭，每年新增病例约 100 万例；预计到 2030 年，心力衰竭患者人数将达到约 870 万（2,3）。
+（另见表格儿童心力衰竭的常见病因。）
+
+【参考文献】
+1.Savarese G, Becher PM, Lund LH, Seferovic P, Rosano GMC, Coats AJS.Global burden of heart failure: a comprehensive and updated review of epidemiology [published correction appears inCardiovasc Res.2023 Jun 13;119(6):1453. doi: 10.1093/cvr/cvad026.].Cardiovasc Res.2023;118(17):3272-3287.doi:10.1093/cvr/cvac013
+1.Savarese G, Becher PM, Lund LH, Seferovic P, Rosano GMC, Coats AJS.Global burden of heart failure: a comprehensive and updated review of epidemiology [published correction appears inCardiovasc Res.2023 Jun 13;119(6):1453. doi: 10.1093/cvr/cvad026.].Cardiovasc Res.2023;118(17):3272-3287.doi:10.1093/cvr/cvac013
+2.Bozkurt B, Ahmad T, Alexander K, et al.HF STATS 2024: Heart Failure Epidemiology and Outcomes Statistics An Updated 2024 Report from the Heart Failure Society of America.J Card Fail.2025;31(1):66-116.doi:10.1016/j.cardfail.2024.07.001
+2.Bozkurt B, Ahmad T, Alexander K, et al.HF STATS 2024: Heart Failure Epidemiology and Outcomes Statistics An Updated 2024 Report from the Heart Failure Society of America.J Card Fail.2025;31(1):66-116.doi:10.1016/j.cardfail.2024.07.001
+3.Virani SS, Alonso A, Benjamin EJ, et al.Heart Disease and Stroke Statistics-2020 Update: A Report From the American Heart Association.Circulation.2020;141(9):e139-e596.doi:10.1161/CIR.0000000000000757
+3.Virani SS, Alonso A, Benjamin EJ, et al.Heart Disease and Stroke Statistics-2020 Update: A Report From the American Heart Association.Circulation.2020;141(9):e139-e596.doi:10.1161/CIR.0000000000000757
+
+【心血管生理学】
+心肌收缩力（收缩强度和速度）、心室功能和心肌耗氧需求量取决于以下因素:
+底物可用性（如氧、脂肪酸、葡萄糖）
+底物可用性（如氧、脂肪酸、葡萄糖）
+心率和心律
+心率和心律
+存活心肌的量
+存活心肌的量
+心输出量是每搏输出量和心率的乘积；它还受到静脉回流、外周血管张力和神经体液因素的影响。
+前负荷是心脏在舒张末期（放松和充盈阶段的结束）收缩前的负荷状态。前负荷反映了舒张末期心肌纤维的拉伸程度与心室容积，其受心室舒张期容积与压力以及心肌壁结构组成的影响。一般来说，左室舒张末压力，尤其是高于正常时，是衡量前负荷的合理指标。左室扩张，肥厚，心肌延展力（顺应性）的变化都会改变前负荷。前负荷并不等同于但主要取决于身体总体血管内容量状态。
+后负荷是心肌收缩开始时抵抗心肌纤维收缩的阻力。它取决于主动脉瓣开放时左心室的腔内压力、室腔半径和室壁厚度。 临床上，相当于主动脉瓣开放时或其后瞬间，全身收缩压与收缩期室壁应力峰值相关，并接近后负荷。
+Frank-Starling 定律描述了前负荷与心脏功能之间的关系。通常认为，在正常生理范围内，收缩功能（常通过每搏输出量评估）与前负荷呈正相关（见图Frank-Starling定律）。在心力衰竭患者中，与心脏健康的患者相比，在相同的预负荷下，收缩性能和心肌收缩力降低。临床上心肌收缩力很难测量（因为它需要心导管检查以及压力-容积分析），但是射血分数（EF）可以较合理地反映心肌收缩力，EF是指每次心搏周期射出的舒张末期容积的百分比（心搏量/舒张末期容积）。 EF通常可以通过无创方法如超声心动图、核成像或MRI来充分评估。
+力-频率关系是指在一定频率范围内重复刺激肌肉导致收缩力增加的现象。正常心率下的正常心肌表现出正的力-频率关系，因此更快的心率会导致更强的收缩（以及相应的更大的底物需求）。在某些类型的心力衰竭期间，力-频关系可能会变为负值，因此当心率增加到一定速率以上时，心肌收缩力会降低。
+心储备指心脏在情绪或身体应激状态下，能够将机能提升至静息水平以上的能力；在极限运动时，机体耗氧量可从 250 mL/min增加到≥1500 mL/min。机制包括:
+增加心率
+增加心率
+舒张期充盈容量增加
+舒张期充盈容量增加
+增强心肌收缩力与每搏输出量
+增强心肌收缩力与每搏输出量
+选择性改变全身血管阻力，以引导血流流向特定器官（例如运动时的骨骼肌）
+选择性改变全身血管阻力，以引导血流流向特定器官（例如运动时的骨骼肌）
+增加组织对氧气的提取（动脉血和混合静脉或肺动脉血中氧含量的差值）
+增加组织对氧气的提取（动脉血和混合静脉或肺动脉血中氧含量的差值）
+在训练有素的成年人，进行最大运动时，心率可以从休息时的每分钟55～70次增加到每分钟180次，心排血量可以从6L/min增加到≥25L/min。静息时，动脉血含氧量约为 18 mL/dL，混合静脉或肺动脉血含氧量约为 14 mL/dL。 因此氧摄取量约4mL/dL。当需求增加时，氧气提取量可能会增加到 12 至 14 mL/dL。这种机制也有助于代偿心衰时组织血供的减少。
+
+【Frank-Starling定律】
+Frank-Starling定律
+正常情况下（最上端曲线），随着前负荷增加，心脏做功也增加。然而达到某一点后，做功进入平台期，然后下降。心力衰竭（HF）时，由于收缩功能障碍（底部曲线），整体曲线下移，反映了在给定前负荷下心功能的降低；随着前负荷增加，心功能增加的幅度变小。治疗后（中间曲线）心脏做功虽未完全正常，但有改善。
+
+【心衰的病理生理学】
+心衰时，心脏可能无法为组织提供足够的血液来满足代谢需求，与心脏相关的肺循环和体循环静脉压力升高可能导致器官充血。这种情况可由收缩或舒张功能异常引起，通常两者均有。虽然原发异常可能是心肌细胞功能的改变，但细胞外基质的胶原蛋白转换也会发生变化。 心脏结构异常（如先天性缺损，瓣膜异常），节律异常（包括持续性心率过高），和高代谢需求（如甲亢）也可以引起心衰。
+
+【心力衰竭的分类】
+心力衰竭可分为主要为左心或右心衰竭，或依据左心室射血分数采用通用定义和分类（1）。
+传统的左心衰和右心衰的区分有些令人误解，因为心脏是一个完整的泵，任何一个腔室的变化最终都会影响到整个心脏。 然而，这些术语表明了导致心衰的主要病理部位，并可用于初步评估和治疗。用于区分心衰类型和病因的其他常用术语包括急性或慢性；高输出量或低输出量；扩张型或非扩张型；以及缺血性、高血压性或特发性扩张型心肌病。治疗方案亦因临床表现属于急性心力衰竭或慢性心力衰竭而异。
+
+【左心室衰竭】
+心力衰竭最常由左心室功能障碍引起（2）。因此，通用心力衰竭分类已根据左心室收缩功能将心力衰竭分为射血分数降低、保留、轻度降低和改善的类型（1）。左心衰竭时，心输出量减少，肺静脉压力升高。当肺毛细血管压力超过血浆蛋白的胶体渗透压（约 24 mmHg）时，液体会从毛细血管渗出到间质和肺泡中，从而降低肺顺应性并增加呼吸功。淋巴液引流增加但不能代偿肺内液体的增加。肺泡内明显积液（肺水肿）显著改变通气-灌注（V/Q）比值关系。缺氧的肺动脉血通过通气不良的肺泡，降低全身动脉氧合（动脉氧分压[PaO2]），引起呼吸困难。然而，呼吸困难可出现在V/Q比发生异常之前，可能是由于肺静脉压升高和呼吸功的增加；其确切的机制还不清楚。
+在严重的或慢性左心衰竭患者中，常出现胸腔积液，进一步加重呼吸困难。分钟通气量增加；因此，动脉血二氧化碳分压（PaCO2）降低，血液pH值升高（呼吸性碱中毒）。明显的小气道间质水肿可以阻碍通气，PaCO2升高——预示呼吸衰竭即将发生的一个体征。
+
+【射血分数降低的心力衰竭（HFrEF）】
+在HFrEF中（亦称收缩性心力衰竭），整体左心室收缩功能障碍为主要病理特征。左心室收缩不良，不能充分排空，导致:
+舒张容积和压力增加
+舒张容积和压力增加
+射血分数降低（≤ 40%）
+射血分数降低（≤ 40%）
+能量利用、能量供应、电生理功能及收缩元件相互作用方面出现多种缺陷，同时伴有细胞内钙调节和环磷酸腺苷（cAMP）生成的异常。
+显著的收缩功能障碍通常见于由心肌梗死、心肌炎和扩张型心肌病引起的心力衰竭。收缩功能障碍常首先影响左室或右室；左室衰竭常导致右室衰竭。
+
+【射血分数保留型心力衰竭（HFpEF）】
+在 HFpEF（也称为舒张性心力衰竭）中，LV 充盈受损，导致
+静息或运动时左室舒张末压升高
+静息或运动时左室舒张末压升高
+通常，正常的 LV 舒张末期容积
+通常，正常的 LV 舒张末期容积
+整体收缩功能及左心室射血分数维持在正常水平（≥ 50%）。
+然而，在部分患者中，左室充盈受限导致左心室舒张末期容积减少，从而导致低心输出量和全身症状。左房压升高可引起肺动脉高压和肺淤血。
+舒张功能障碍常起因于心室松弛（一个主动过程）受损，心室僵硬度增高，瓣膜病，或缩窄性心包炎。急性心肌缺血也是舒张功能障碍的一个病因。对充盈的抵抗随年龄的增长而增加，反映了心肌细胞的功能异常、心肌细胞的丢失以及间质胶原沉积增多；因此舒张功能障碍在老年人更常见。舒张功能障碍在肥厚型心肌病，伴有心室肥厚的疾病（如高血压，严重的主动脉瓣狭窄），以及心肌的淀粉样变中更多见。如果右室压力明显升高推动室间隔向左侧移动也会造成左室的充盈和功能受损。
+舒张功能障碍被认为是心力衰竭的重要病因。约50%的心力衰竭患者患有射血分数保留型心衰；其患病率随年龄增长及糖尿病患者群体而增加（3）。HFpEF是一种复杂的、异质性的、多器官受累的全身性综合征，常伴随多种并存的病理生理机制。数据表明，多种合并症（如肥胖、高血压、糖尿病、慢性肾病）导致全身性炎症、广泛血管内皮功能障碍、心脏微血管功能障碍，最终，这些心脏的分子变化导致心肌纤维化和心室僵硬增加。因此，虽然HFrEF通常与原发性心肌损伤相关，但HFpEF可能与心脏外异常导致继发性心肌损伤有关。
+
+【射血分数轻度降低的心力衰竭（HFmrEF）】
+射血分数轻度降低的心力衰竭（HFmrEF）定义为左心室射血分数在41%至49%之间。目前尚不清楚该组是一个独特的人群还是由患有 HFpEF 或 HFrEF 的患者混合组成。
+
+【射血分数改善型心力衰竭（HFimpEF）】
+心衰患者左室射血分数比先前值提高10%以上，且测量值超过40%，则归类为HFimpEF。
+
+【右室衰竭】
+右心室衰竭通常作为左心室衰竭的后果或伴随发生。孤立性右心衰竭较为罕见。在涉及右心室功能障碍的心力衰竭中（参见右心衰竭），全身静脉压升高导致液体外渗，继而引发水肿，主要出现在下垂部位（能活动患者的下肢与足踝）及腹腔脏器。肝脏受影响最严重，但胃和肠也会充血；腹膜腔内可积聚液体，形成腹水。右心室衰竭通常会导致中度肝功能障碍，通常伴有结合胆红素和非结合胆红素、凝血酶原时间 (PT) 以及肝酶（尤其是碱性磷酸酶和 γ-谷氨酰转肽酶 [GGT]）的轻微升高。受损的肝脏降解醛固酮减少，进一步加剧液体潴留。慢性的内脏淤血可以产生食欲减退，营养和药物吸收不良，蛋白质丢失性肠病（主要表现为腹泻和明显低白蛋白血症），慢性胃肠道出血，和罕见的缺血性肠梗死。
+
+【心力衰竭的反应】
+
+【心肌反应】
+当左心室收缩功能受损时（如HFrEF患者），需要更高的前负荷来维持心输出量。因此，心室会随时间发生重构。在重构期间，左室不再是卵圆形，而接近球形，并有扩张和肥厚；右室也可出现扩张或肥厚。重构在初期起代偿作用，但最终与不良结果相关，因为这些改变最终会增加心室舒张期的僵硬度和室壁的张力（即，舒张功能障碍随之发生），损害心脏功能，尤其是在体力活动的时候。 室壁压力增加，使心肌对氧的需求增加，加速了心肌细胞的凋亡（细胞程序性死亡）。扩张的心室还可以引起二尖瓣或三尖瓣反流（由于瓣环扩张），并进一步增加舒张末容积。
+
+【血流动力学反应】
+随着心排血量的减少，组织氧供的维持是通过增加血液中氧的摄取，有时也通过氧合血红蛋白解离曲线 (见图氧合血红蛋白解离曲线) 右移以促进氧气释放来实现的。
+心排血量减少伴随着全身血压下降，激活动脉压力反射，增加交感神经张力，降低副交感神经张力。 结果，心率增加、心肌收缩力增强，选择性小动脉血管床收缩，静脉也收缩，引起水钠潴留。这些变化弥补了心室功能下降，有助于维持心衰早期的血流动力学稳态。 然而，这些代偿性改变增加了心脏做功、前负荷和后负荷；减少了冠脉和肾脏的灌注；引起液体积聚导致瘀血；增加钾排泄；并可能会引起心肌细胞坏死和心律失常。
+
+【肾脏反应】
+当心功能恶化时，肾血流量减少（由于心输出量低）。 另外，肾静脉压增高，导致肾静脉充血。这些改变都会导致GFR（肾小球滤过率）降低、肾脏内血流重新分布。 滤过分数和钠滤过减少，但肾小管对钠的重吸收增加，导致水钠潴留。在运动时血流的再分布使肾脏血流更加减少，但休息时血供却反而增加。
+肾脏灌注减少（以及可能由于心室功能下降而导致的动脉收缩期牵张降低）会激活肾素-血管紧张素-醛固酮系统，从而增加钠和水的潴留以及肾和外周血管张力。 与心衰同时发生的强烈交感神经激活放大了这些效应。
+肾素-血管紧张素-醛固酮-血管加压素（抗利尿激素[ADH]）系统引起一系列潜在有害的长期效应。血管紧张素II通过引起血管收缩，包括肾小球出球动脉的收缩，以及增加醛固酮产生而加重心衰，醛固酮不仅增加远端肾单位对钠的重吸收，也使心肌和血管发生胶原沉积和纤维化。血管紧张素II增加去甲肾上腺素的释放，刺激血管加压素的释放，并触发细胞凋亡。血管紧张素II可能涉及血管和心肌肥厚，因而参与心脏和周围血管的重构，可能使心衰加重。醛固酮可以在心脏和血管中合成，而与血管紧张素II 无关（可能由促皮质素、一氧化氮、自由基和其他刺激物介导），并且可能对这些器官产生有害影响。
+心力衰竭导致进行性肾功能不全（包括治疗心衰药物引起的肾功能不全），会加重心力衰竭，被称为心肾综合征。
+
+【神经激素反应】
+在应激状态下，神经体液反应有助于增强心脏功能，维持血压和器官灌注。这些反应的慢性激活会破坏心肌刺激激素与血管收缩激素之间，以及心肌松弛激素与血管舒张激素之间的正常平衡。
+心脏含有许多神经激素受体（如α-1、β-1、β-2、β-3、血管紧张素II 1型[AT1]和2型[AT2]受体、毒蕈碱受体、内皮素受体、血清素受体、腺苷受体、细胞因子受体、利钠肽受体）；所有这些受体的作用尚未完全明确。在心力衰竭患者中，β-1 受体（占心脏 β 受体的 70%）会下调，这可能是对强烈的交感神经激活的反应。下调的结果是心肌细胞收缩力受损和心率加快。
+血浆去甲肾上腺素水平升高，很大程度上反映了交感神经激活，因为血浆肾上腺素水平并不升高。其有害作用包括血管收缩引起前负荷和后负荷增加，包括细胞凋亡在内的直接心肌损害，肾脏血流减少，激活其他神经激素系统，包括肾素-血管紧张素-醛固酮-血管加压素系统。
+血管升压素的释放是由于血压下降，通过各种神经激素刺激所引起的一种反应。血管加压素增加，降低肾脏对自由水的排泄，可能是心衰患者发生低钠血症的原因。血压正常的心衰患者血管加压素水平存在差异。
+心房利钠肽的释放是对心房容积和压力增加的反应；心室分泌的B型利钠肽（BNP）是对心室牵张的反应。 这些肽可促进肾脏的排钠作用，但在心衰患者，由于肾脏灌注压降低、受体下调，可能还有酶的降解作用增强，从而使这一作用被削弱了。 此外，利钠肽水平升高对肾素 - 血管紧张素 - 醛固酮系统和儿茶酚胺的刺激具有反馈调节作用。
+由于心衰患者的内皮功能障碍，内源性的血管舒张因子（如，一氧化氮，前列腺素）分泌减少，而内源性血管收缩因子（如内皮素）生成增加，因而增加了后负荷。
+衰竭的心脏和其他器官产生肿瘤坏死因子（TNF）-alpha。这种细胞因子增加了分解代谢，可能导致心性恶病质（肌肉组织丧失≥10%），这可能伴随严重症状性心衰，以及其他有害变化。衰竭的心脏也会发生代谢变化，表现为游离脂肪酸利用增加和葡萄糖利用减少；这些变化可能会成为治疗靶点。
+
+【年龄的变化】
+与年龄相关的心脏和心血管系统的变化降低了心衰的表现阈值。心肌间质胶原蛋白增加，心肌僵硬，心肌舒张时间延长。 这些变化导致了左室舒张功能显著降低，即使是健康的老年人也是如此。随年龄增长心脏收缩功能也有中等程度降低。 与年龄相关的心肌和血管对beta肾上腺素能刺激的反应性下降进一步损害了心血管系统对增加做功需求的反应能力。
+这些变化的结果是最大运动能力下降（30岁以后每10年下降8%），在运动顶点时心输出量也有一定的降低。有规律的体育锻炼可以减慢这种衰退。因此，老年患者比年轻患者更容易在全身性疾病的应激或相对轻微的心血管损害下出现心衰症状。应激因素包括感染（尤其是肺炎），甲亢，贫血，高血压，心肌缺血，缺氧，高热，肾衰竭，围术期静脉输液负荷，药物治疗依从性差或低盐饮食依从性差，和使用某些特定药物（尤其NSAIDs[非甾体抗炎药物]）。
+
+【病理生理学参考文献】
+1.Bozkurt B, Coats AJ, Tsutsui H, et al.Universal Definition and Classification of Heart Failure: A Report of the Heart Failure Society of America, Heart Failure Association of the European Society of Cardiology, Japanese Heart Failure Society and Writing Committee of the Universal Definition of Heart Failure.J Card Fail.Published online March 1, 2021.doi:10.1016/j.cardfail.2021.01.022
+1.Bozkurt B, Coats AJ, Tsutsui H, et al.Universal Definition and Classification of Heart Failure: A Report of the Heart Failure Society of America, Heart Failure Association of the European Society of Cardiology, Japanese Heart Failure Society and Writing Committee of the Universal Definition of Heart Failure.J Card Fail.Published online March 1, 2021.doi:10.1016/j.cardfail.2021.01.022
+2.Heidenreich PA, Bozkurt B, Aguilar D, et al.2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inJ Am Coll Cardiol.2023 Apr 18;81(15):1551. doi: 10.1016/j.jacc.2023.03.002.].J Am Coll Cardiol.2022;79(17):e263-e421.doi:10.1016/j.jacc.2021.12.012
+2.Heidenreich PA, Bozkurt B, Aguilar D, et al.2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inJ Am Coll Cardiol.2023 Apr 18;81(15):1551. doi: 10.1016/j.jacc.2023.03.002.].J Am Coll Cardiol.2022;79(17):e263-e421.doi:10.1016/j.jacc.2021.12.012
+3.Campbell P, Rutten FH, Lee MM, Hawkins NM, Petrie MC.Heart failure with preserved ejection fraction: everything the clinician needs to know [published correction appears inLancet.2024 Mar 16;403(10431):1026. doi: 10.1016/S0140-6736(24)00494-X.].Lancet.2024;403(10431):1083-1092.doi:10.1016/S0140-6736(23)02756-3
+3.Campbell P, Rutten FH, Lee MM, Hawkins NM, Petrie MC.Heart failure with preserved ejection fraction: everything the clinician needs to know [published correction appears inLancet.2024 Mar 16;403(10431):1026. doi: 10.1016/S0140-6736(24)00494-X.].Lancet.2024;403(10431):1083-1092.doi:10.1016/S0140-6736(23)02756-3
+
+【心衰的病因】
+心脏和全身性因素均可损害心脏功能，导致或加重心力衰竭（参见表格心力衰竭的病因）。
+
+【心衰的病因】
+心衰的病因
+心肌损害
+心肌梗死
+某些化疗药
+主动脉瓣狭窄
+二尖瓣返流
+三尖瓣反流
+心律失常
+心动过缓
+心动过速
+传导缺陷
+房室传导阻滞
+左束支传导阻滞
+可利用的基质物减少（如，游离脂肪酸或葡萄糖）
+渗透性或基质异常
+淀粉样变性
+慢性纤维化（例如，系统性硬化）
+血色沉着病
+增加心输出量需求的疾病
+甲状腺功能亢进
+佩吉特病
+泵血阻力（后负荷）增加的疾病
+主动脉瓣狭窄
+左心衰主要发生在缺血性心脏病、高血压、二尖瓣反流、主动脉瓣反流、主动脉瓣狭窄、大多数类型的心肌病，以及先天性心脏病（如伴有大量分流的室间隔缺损和动脉导管未闭）。
+右心衰最常见的是由左心衰所引起（左心衰引起肺静脉压力升高，继而肺动脉高压，因而使右心室负荷增加）或由严重的肺部疾病（称肺源性心脏病）所致。其他的病因还有多发肺栓塞，右室梗死，肺动脉高压，三尖瓣关闭不全，三尖瓣狭窄，二尖瓣狭窄，肺动脉狭窄，肺动脉瓣狭窄，肺静脉闭塞性疾病，致心律失常右室心肌病，或先天性疾病例如Ebstein畸形或Eisenmenger综合征等。 某些疾病类似右心衰，但本身心功能可能正常；这些疾病包括红细胞增多症或过量输血引起的容量超负荷和体循环静脉压升高、急性肾损伤伴水钠潴留、腔静脉阻塞，以及任何原因所致的低蛋白血症引起血浆胶体渗透压下降和周围性水肿。
+双心室衰竭源于累及全部心肌的疾病所引起（如病毒性心肌炎、淀粉样变性、恰加斯病）或长期左心衰后引起右心衰。
+高输出量心衰源于持续的心排血量增加，可能最终使正常的心脏无法维持足够的心输出量。可致 心输出量 增高的情况包括严重贫血、终末期肝病、脚气病、甲状腺毒症、晚期佩吉特病、动静脉瘘和持续性心动过速。
+心肌病是反映心肌病变的一个广义词。这个名词最常用以代表一种原发性心室肌疾病，而不是由先天性解剖缺陷；瓣膜、全身性或肺血管疾病；孤立性心包、传导结或传导系统疾病；或心外膜冠状动脉疾病（CAD）所引起。 这个词有时用于病因学（如缺血性对高血压性心肌病）。心肌病并不一定都产生有症状的心衰。它常是特发性的，可分为扩张型、充血性、肥厚型、浸润-限制型，或心尖球形综合征（又称takotsubo心肌病或应激性心肌病）。
+
+【心力衰竭分期】
+国际共识定义了心力衰竭（HF）的分期系统，以强调HF预防的必要性（1、2）：
+A：HF的高危人群，但无结构或功能上的心脏异常或症状
+A：HF的高危人群，但无结构或功能上的心脏异常或症状
+B：心脏结构或功能异常但无HF症状
+B：心脏结构或功能异常但无HF症状
+C：存在器质性心脏病且伴有心衰症状
+C：存在器质性心脏病且伴有心衰症状
+D：难治性HF需要高级治疗（如机械循环支持、心脏移植）或姑息治疗
+D：难治性HF需要高级治疗（如机械循环支持、心脏移植）或姑息治疗
+临床严重程度（或功能分级）差异显著，通常依据纽约心脏协会（NYHA）分级系统进行划分（参见表格NYHA心力衰竭功能分级）；对于年老体弱的患者，日常活动示例可酌情调整。鉴于心力衰竭的严重程度范围广泛，部分专家将NYHA心功能III级细分为IIIA级或IIIB级（3、4）。IIIB级通常适用于近期出现心力衰竭加重的患者，尽管该定义尚未标准化。
+
+【纽约心脏协会（NYHA）心力衰竭功能分级】
+纽约心脏协会（NYHA）心力衰竭功能分级
+NYHA分级
+日常体力活动不会导致过度疲劳、呼吸困难或心悸
+能完成任何需要≥7 MET的活动：
+携带超过11公斤（24磅）物品上楼
+携带超过11公斤（24磅）物品上楼
+承载重量为23公斤（50磅）
+承载重量为23公斤（50磅）
+打壁球，手球，或篮球
+打壁球，手球，或篮球
+以≥6.9公里/小时（≥4.3英里/小时）的速度慢跑或快走
+以≥6.9公里/小时（≥4.3英里/小时）的速度慢跑或快走
+休息时尚可；日常体力活动会引起疲劳、呼吸困难、心悸或心绞痛
+能够完成需要≥5但≤7个代谢当量的活动：
+剧烈的性活动
+剧烈的性活动
+可完成花园工作
+可完成花园工作
+在平地上以最高7公里/小时（4.4英里/小时）的速度进行快走
+在平地上以最高7公里/小时（4.4英里/小时）的速度进行快走
+携带11公斤（24磅）的负荷上楼梯
+携带11公斤（24磅）的负荷上楼梯
+休息时尚可；轻微的体力活动可引起乏力，呼吸困难，心悸或心绞痛
+IIIa级：无近期心力衰竭加重或近期静息时呼吸困难
+IIIb级：伴有近期心力衰竭加重或近期静息时呼吸困难
+能够完成需要≥2且≤5个代谢当量的活动：
+站立淋浴或穿衣
+站立淋浴或穿衣
+中度的家务清洁（例如擦窗、扫地、吸尘、厨房活动）
+中度的家务清洁（例如擦窗、扫地、吸尘、厨房活动）
+打高尔夫球
+打高尔夫球
+在平地上以最高5.4公里/小时（3.4英里/小时）的速度行走
+在平地上以最高5.4公里/小时（3.4英里/小时）的速度行走
+缓慢爬楼梯
+缓慢爬楼梯
+静息状态下即出现症状；任何体力活动均会加重不适感。
+所有活动均伴随症状
+无法完成任何需要≥2个代谢当量的活动（包括上述所有活动）
+HF = 心力衰竭，MET = 代谢当量，用于衡量与静息状态相比所消耗能量的单位；mph = 英里/小时。
+Heidenreich PA, Bozkurt B, Aguilar D, et al.2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inJ Am Coll Cardiol. 2023 Apr 18;81(15):1551. doi: 10.1016/j.jacc.2023.03.002.].J Am Coll Cardiol.2022;79(17):e263-e421.doi:10.1016/j.jacc.2021.12.012;Yancy CW, Jessup M, Bozkurt B, et al.2013 ACCF/AHA guideline for the management of heart failure: executive summary: a report of the American College of Cardiology Foundation/American Heart Association Task Force on practice guidelines.Circulation.2013;128(16):1810-1852.doi:10.1161/CIR.0b013e31829e8807; and Dolgin M, Association NYH, Fox AC, Gorlin R, Levin RI, New York Heart Association.Criteria Committee.Nomenclature and criteria for diagnosis of diseases of the heart and great vessels.9th ed.Boston, MA: Lippincott Williams and Wilkins; March 1, 1994.
+各项活动的代谢当量值来源于：赫尔曼・S.D.、威利斯・E.A.、安斯沃思・B.E. 等。2024 Adult Compendium of Physical Activities: A third update of the energy costs of human activities.J Sport Health Sci.2024;13(1):6-12.doi:10.1016/j.jshs.2023.10.010
+HF = 心力衰竭，MET = 代谢当量，用于衡量与静息状态相比所消耗能量的单位；mph = 英里/小时。
+Heidenreich PA, Bozkurt B, Aguilar D, et al.2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inJ Am Coll Cardiol. 2023 Apr 18;81(15):1551. doi: 10.1016/j.jacc.2023.03.002.].J Am Coll Cardiol.2022;79(17):e263-e421.doi:10.1016/j.jacc.2021.12.012;Yancy CW, Jessup M, Bozkurt B, et al.2013 ACCF/AHA guideline for the management of heart failure: executive summary: a report of the American College of Cardiology Foundation/American Heart Association Task Force on practice guidelines.Circulation.2013;128(16):1810-1852.doi:10.1161/CIR.0b013e31829e8807; and Dolgin M, Association NYH, Fox AC, Gorlin R, Levin RI, New York Heart Association.Criteria Committee.Nomenclature and criteria for diagnosis of diseases of the heart and great vessels.9th ed.Boston, MA: Lippincott Williams and Wilkins; March 1, 1994.
+各项活动的代谢当量值来源于：赫尔曼・S.D.、威利斯・E.A.、安斯沃思・B.E. 等。2024 Adult Compendium of Physical Activities: A third update of the energy costs of human activities.J Sport Health Sci.2024;13(1):6-12.doi:10.1016/j.jshs.2023.10.010
+
+【分期参考文献】
+1.Bozkurt B, Coats AJ, Tsutsui H, et al.Universal Definition and Classification of Heart Failure: A Report of the Heart Failure Society of America, Heart Failure Association of the European Society of Cardiology, Japanese Heart Failure Society and Writing Committee of the Universal Definition of Heart Failure.J Card Fail.Published online March 1, 2021.doi:10.1016/j.cardfail.2021.01.022
+1.Bozkurt B, Coats AJ, Tsutsui H, et al.Universal Definition and Classification of Heart Failure: A Report of the Heart Failure Society of America, Heart Failure Association of the European Society of Cardiology, Japanese Heart Failure Society and Writing Committee of the Universal Definition of Heart Failure.J Card Fail.Published online March 1, 2021.doi:10.1016/j.cardfail.2021.01.022
+2.Heidenreich PA, Bozkurt B, Aguilar D, et al.2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation.2022;145:e895–e1032.doi: 10.1161/CIR.0000000000001062
+2.Heidenreich PA, Bozkurt B, Aguilar D, et al.2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation.2022;145:e895–e1032.doi: 10.1161/CIR.0000000000001062
+3.Levy WC, Mozaffarian D, Linker DT, et al.The Seattle Heart Failure Model: prediction of survival in heart failure.Circulation.2006;113(11):1424-1433.doi:10.1161/CIRCULATIONAHA.105.584102
+3.Levy WC, Mozaffarian D, Linker DT, et al.The Seattle Heart Failure Model: prediction of survival in heart failure.Circulation.2006;113(11):1424-1433.doi:10.1161/CIRCULATIONAHA.105.584102
+4.Thibodeau JT, Mishkin JD, Patel PC, Mammen PP, Markham DW, Drazner MH.IIIB or not IIIB: a previously unanswered question.J Card Fail.2012;18(5):367-372.doi:10.1016/j.cardfail.2012.01.016
+4.Thibodeau JT, Mishkin JD, Patel PC, Mammen PP, Markham DW, Drazner MH.IIIB or not IIIB: a previously unanswered question.J Card Fail.2012;18(5):367-372.doi:10.1016/j.cardfail.2012.01.016
+心力衰竭是指心脏无法为组织提供足够的血液以满足代谢需求。
+心力衰竭是指心脏无法为组织提供足够的血液以满足代谢需求。
+心力衰竭最常影响左心室，但可累及右心室或双心室。
+心力衰竭最常影响左心室，但可累及右心室或双心室。
+根据左心室射血分数将心力衰竭分为射血分数降低、最小程度降低、保留或改善的心力衰竭。
+根据左心室射血分数将心力衰竭分为射血分数降低、最小程度降低、保留或改善的心力衰竭。

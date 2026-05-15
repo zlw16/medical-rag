@@ -1,0 +1,54 @@
+标题：导管相关性尿路感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/urinary-tract-infections/catheter-associated-urinary-tract-infections
+============================================================
+
+(参见尿路感染(UTIs)介绍。）
+细菌可通过导管插入、导管内腔、或外周进入膀胱。导管外周与尿路上皮之间可形成一层生物膜。细菌可进入该生物膜内，使其免于尿液冲刷、宿主防御、和抗生素的作用，从而难以被清除。即使导管插入和护理完全无菌，导管留置期间每天出现严重菌尿的可能性仍约为5% (1)。在出现菌尿的患者中，高达 24％ 的患者会出现有症状的尿路感染（2、3）。很少出现脓毒血症。
+尿路感染的危险因素包括长时间留置导管、女性、糖尿病患者、打开封闭系统、未达标准的无菌措施。膀胱留置导管也易诱发真菌性尿路感染。
+在女性患者，尿路感染也可发生于导管移除后。
+
+【参考文献】
+1.Warren JW, Platt R, Thomas RJ, et al: Antibiotic irrigation and catheter-associated urinary-tract infections.N Engl J Med299(11):570-573, 1978.doi: 10.1056/NEJM197809142991103
+1.Warren JW, Platt R, Thomas RJ, et al: Antibiotic irrigation and catheter-associated urinary-tract infections.N Engl J Med299(11):570-573, 1978.doi: 10.1056/NEJM197809142991103
+2.Saint S: Clinical and economic consequences of nosocomial catheter-related bacteriuria.Am J Infect Control28(1):68-75, 2000.doi: 10.1016/s0196-6553(00)90015-4
+2.Saint S: Clinical and economic consequences of nosocomial catheter-related bacteriuria.Am J Infect Control28(1):68-75, 2000.doi: 10.1016/s0196-6553(00)90015-4
+3.Leuck AM, Wright D, Ellingson L, et al: Complications of Foley catheters--Is infection the greatest risk?J Urol187(5):1662-1666, 2012.doi: 10.1016/j.juro.2011.12.113
+3.Leuck AM, Wright D, Ellingson L, et al: Complications of Foley catheters--Is infection the greatest risk?J Urol187(5):1662-1666, 2012.doi: 10.1016/j.juro.2011.12.113
+
+【导管相关性尿路感染的症状和体征】
+导管相关性尿路感染（CAUTI）患者没有一些典型的尿路感染（排尿困难、尿频）的症状，但他们可能会抱怨需要小便的感觉或耻骨上不适。然而，此类下尿路UTI症状，也可以由导管梗阻或膀胱出现的结石.引起急性或慢性肾盂肾炎患者也可缺乏尿路感染的典型症状。患者可能具有不典型症状如不适，发热，腰痛，厌食、精神状态改变、和败血症症状。
+
+【导管相关性尿路感染的诊断】
+对有症状或败血症危险倾向的患者进行尿液分析和培养
+对有症状或败血症危险倾向的患者进行尿液分析和培养
+检测仅在可能需要治疗的患者，包括有症状及败血症的高危人群，如
+粒细胞缺乏患者
+粒细胞缺乏患者
+器官移植患者服用免疫抑制剂
+器官移植患者服用免疫抑制剂
+怀孕期妇女
+怀孕期妇女
+进行泌尿外科手术的患者
+进行泌尿外科手术的患者
+诊断性检查包括尿液分析和尿液培养。若怀疑菌血症，应进行血液培养。尿液培养最好在换管后进行（避免培养定植细菌），应用无菌措施直接针刺导管收集标本，使标本污染减少到最小。
+
+【导管相关性尿路感染的治疗】
+无症状，低危患者不治疗。症状者和高危病人予抗感染治疗和支持疗法。治疗开始时，应更换导管。经验性抗生素的选择与急性肾盂肾炎一样有时万古霉素加入治疗方案。随后根据培养和药敏结果，选择最窄谱活性的抗生素。最佳持续时间没有很好地明确，但是7至14天是合理的，患者有满意的临床反应，包括全身表现缓解。
+近期拔除导尿管后无症状但尿液培养结果诊断尿路感染的患者应该根据培养结果进行治疗。治疗的最佳持续时间尚不清楚。
+
+【导管相关性尿路感染的预防】
+最有效的预防措施是尽量减少不必要的导尿和尽早拔除导管。严格无菌操作及保持封闭的排泄系统同样可减少感染的危险。多久甚至是否每日更换留置导管尚未知。间歇性导尿比使用留置导管的风险较小，可能时应采用。预防性抗生素治疗和涂抗生素导管不再推荐应用于长期留置导尿患者。尿路感染是美国国家医疗保健安全网络 (NHSN) 报告的最常见的医疗保健相关感染类型，减少尿路感染的策略是美国疾病控制与预防中心 (1）。
+
+【预防参考文献】
+1.Centers for Disease Control and Prevention: Catheter-associated urinary tract infections (CAUTI).Accessed November 2, 2023.
+1.Centers for Disease Control and Prevention: Catheter-associated urinary tract infections (CAUTI).Accessed November 2, 2023.
+长期使用留置导尿管的膀胱会增加菌尿的风险，虽然通常无症状。
+长期使用留置导尿管的膀胱会增加菌尿的风险，虽然通常无症状。
+UTI症状可表现全身性（如发热，精神状态改变，BP下降），并很少或根本没有尿路感染的典型表现。
+UTI症状可表现全身性（如发热，精神状态改变，BP下降），并很少或根本没有尿路感染的典型表现。
+对有症状或败血症危险倾向的患者进行尿液分析和培养（如，免疫缺陷患者）。
+对有症状或败血症危险倾向的患者进行尿液分析和培养（如，免疫缺陷患者）。
+治疗与其他复杂尿路感染相似。
+治疗与其他复杂尿路感染相似。
+只要有可能，应避免使用导管或一有机会予以拔除。
+只要有可能，应避免使用导管或一有机会予以拔除。

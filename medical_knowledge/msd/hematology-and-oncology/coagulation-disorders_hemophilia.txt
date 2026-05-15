@@ -1,0 +1,115 @@
+标题：血友病
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/coagulation-disorders/hemophilia
+============================================================
+
+(参见于凝血功能障碍性疾病的概述。)
+血友病A（Ⅷ因子缺乏）约占血友病的80%，它和血友病B（Ⅸ因子缺乏）具有相同的临床表现及异常的筛检试验结果。均为X连锁遗传性疾病。需要进行特定的凝血因子检测以相鉴别。
+
+【血友病的病因】
+血友病是一种遗传性疾病，常由Ⅷ因子或Ⅸ因子基因的突变、缺失或倒置所致。因为这些基因位于X染色体上，血友病最常影响男性。血友病患者的女儿是携带者，而儿子是正常的。携带者的每个男孩都有50%的几率患血友病，每个女孩都有50%的几率成为携带者。
+一些 A 型或 B 型血友病女性携带者在侵入性操作或分娩期间出现症状。在这些情况下，未受影响或正常的 X 染色体（具有正常因子 VIII 或 IX 基因）优先失活。这些女性的因子水平通常与患有轻度血友病的男性处于相同范围（因子 VIII 或 IX > 5%，但<50%）。在接受手术的患者中，因子 VIII 或 IX 的水平过低可能会影响正常止血。
+
+【血友病的病理生理学】
+正常止血（见图血液凝固途径）当因子 VIII 和 IX 水平为≥正常值的50%。严重血友病的基因异常（因子水平<1%）通常是破坏基因表达的大缺失或倒置或点突变。相反，轻度或中度血友病通常涉及导致氨基酸变化（错义突变）的点突变。
+A 型和 B 型血友病（母方不是携带者）的零星病例并不罕见。在一项研究中，55%的严重A型血友病患者和43%的严重B型血友病患者是散发病例。在轻度和中度血友病 A 和 B 中，30% 的病例是散发性的（1）。
+
+【凝血途径】
+凝血途径
+在80年代早期，大多数接受治疗的血友病患者，由于接受了污染的血浆或VIII或IX因子浓缩物(在开发出有效的病毒灭活剂之前)而导致HIV、乙型肝炎或丙型肝炎感染。偶见继发于HIV感染的免疫性血小板减少的患者，其出血较重。
+
+【病理生理学参考文献】
+1.Kasper CK, Lin JC.Prevalence of sporadic and familial haemophilia.Haemophilia.2007;13(1):90-92.doi:10.1111/j.1365-2516.2006.01397.x
+1.Kasper CK, Lin JC.Prevalence of sporadic and familial haemophilia.Haemophilia.2007;13(1):90-92.doi:10.1111/j.1365-2516.2006.01397.x
+
+【血友病的症状和体征】
+血友病患者可出现组织内出血（如，关节出血，肌肉出血，后腹膜出血）。出血可立即发生，也可缓慢发生，取决于创伤的程度和血浆VIII因子或IX因子的水平。出血开始时常伴发疼痛，有时疼痛的出现早于出血。慢性或反复关节出血可导致滑膜炎和关节病。即使轻微打击头部也可导致颅内出血。舌基底部出血可引起危及生命的气道压迫。
+在轻度血友病(VIII或IX因子水平为正常值的5 - 49%)中，手术或拔牙后可能出现大量出血。
+中度血友病(VIII或IX因子水平为正常值的1 - 5%)通常在轻微创伤后引起出血。
+重度血友病（Ⅷ因子或Ⅸ因子水平<正常水平的1%）患者一生中均可出现严重的出血，通常在出生后迅速发生（如，分娩后头皮血肿或包皮环切术后大量出血）。
+
+【血友病的诊断】
+血小板计数、凝血酶原时间(PT)、部分凝血酶原时间(PTT)、VIII因子和IX因子检测
+血小板计数、凝血酶原时间(PT)、部分凝血酶原时间(PTT)、VIII因子和IX因子检测
+有时检测von Willebrand因子活性、抗原和凝血复合物。
+有时检测von Willebrand因子活性、抗原和凝血复合物。
+反复出血、不明原因的关节出血，或PTT延长的患者应怀疑血友病。如果怀疑血友病，需检测PTT、PT、血小板计数、Ⅷ因子和Ⅸ因子水平。在血友病中，PTT延长，而PT和血小板计数正常。
+Ⅷ因子和Ⅸ因子检测可以确定血友病的类型和严重程度。在血管性血友病中，Ⅷ因子水平也可能会降低，新诊断的血友病A，特别是症状轻微和有家族史的患者，尤其是男女均有累积的患者，应测定von Willebrand因子（VWF）活性、抗原和凝血复合物。通过测定Ⅷ因子水平，有时可能判断女性是否真正为血友病A的携带者。同样，测量因子IX的水平通常可以发现血友病B的携带者。确诊需要基因检测。
+可通过专门的检测中心进行VIII因子orIX因子基因组成的DNA聚合酶链反应（PCR）分析，用于诊断血友病A或B携带者状态和通过12周的绒毛膜绒毛取样或16周的羊膜穿刺术来产前诊断血友病A或B。该过程有0.5%~1%的流产风险。对母体血液中胎儿游离 DNA 的研究显示，这种无创血友病筛查方法有望筛查血友病 (1)。
+反复的VIII因子或 IX因子替代治疗，30%的严重A型血友病(1)和3%的血友病B(2)患者会产生Ⅷ因子或IX因子抗体（异体自身抗体），可抑制输注的任何Ⅷ因子或IX因子的凝血活性。 因此，患者应进行Ⅷ因子同型抗体的筛查（如，将病人的血浆与同等体积的正常血浆混合，立即测定PTT的缩短程度，在室温下孵育1小时后重复测量），特别是在需要选择替代治疗前。如果存在同种抗体，可通过连续稀释患者血浆以衡量VIII因子或IX因子的抑制程度从而测量抗体滴度。
+
+【经验与提示】
+经验与提示
+因为在血管性血友病（VWD）病中因子VIII水平也可能降低，测量von新诊断的血友病A患者的血管性血友病因子（VWF）活性、抗原和多聚体组成。
+因为在血管性血友病（VWD）病中因子VIII水平也可能降低，测量von新诊断的血友病A患者的血管性血友病因子（VWF）活性、抗原和多聚体组成。
+
+【诊断参考】
+1.Tsui NB, Kadir RA, Chan KC, et al.Noninvasive prenatal diagnosis of hemophilia by microfluidics digital PCR analysis of maternal plasma DNA [published correction appears inBlood.2012 May 10;119(19):4577].Blood.2011;117(13):3684-3691.doi:10.1182/blood-2010-10-310789
+1.Tsui NB, Kadir RA, Chan KC, et al.Noninvasive prenatal diagnosis of hemophilia by microfluidics digital PCR analysis of maternal plasma DNA [published correction appears inBlood.2012 May 10;119(19):4577].Blood.2011;117(13):3684-3691.doi:10.1182/blood-2010-10-310789
+2.Iorio A, Fischer K, Makris M.Large scale studies assessing anti-factor VIII antibody development in previously untreated haemophilia A: what has been learned, what to believe and how to learn more.Br J Haematol.2017;178(1):20-31.doi:10.1111/bjh.14610
+2.Iorio A, Fischer K, Makris M.Large scale studies assessing anti-factor VIII antibody development in previously untreated haemophilia A: what has been learned, what to believe and how to learn more.Br J Haematol.2017;178(1):20-31.doi:10.1111/bjh.14610
+3.Puetz J, Soucie JM, Kempton CL, Monahan PE.Hemophilia Treatment Center Network (HTCN) Investigators.Prevalent inhibitors in haemophilia B subjects enrolled in the Universal Data Collection database.Haemophilia.2014;20(1):25-31.doi:10.1111/hae.12229
+3.Puetz J, Soucie JM, Kempton CL, Monahan PE.Hemophilia Treatment Center Network (HTCN) Investigators.Prevalent inhibitors in haemophilia B subjects enrolled in the Universal Data Collection database.Haemophilia.2014;20(1):25-31.doi:10.1111/hae.12229
+
+【血友病的治疗】
+缺乏因子的替代治疗
+缺乏因子的替代治疗
+有时也使用其他药物进行预防（如艾美珠单抗、菲妥司坦、康珠单抗）
+有时也使用其他药物进行预防（如艾美珠单抗、菲妥司坦、康珠单抗）
+有时需使用抗纤溶药
+有时需使用抗纤溶药
+如果有症状提示出血，应立即开始治疗，甚至在诊断试验完成之前。例如，头痛可能提示颅内出血，在CT完成之前即应给予治疗。
+缺乏因子的替代治疗是主要的治疗手段。
+在血友病A，因子 VIII 谷值（即在下一次给药前立即测量的因子 VIII 水平）应提高至：
+正常水平的50%，以防止拔牙后出血或早期关节出血
+正常水平的50%，以防止拔牙后出血或早期关节出血
+严重关节或肌肉内出血为正常值的 50% 至 80%
+严重关节或肌肉内出血为正常值的 50% 至 80%
+大手术前或颅内、心内、眼内或其他危及生命的出血时，应维持正常值的100%
+大手术前或颅内、心内、眼内或其他危及生命的出血时，应维持正常值的100%
+在大手术或危及生命的出血后的7至14天内，应每8至12小时进行一次初始计算因子VIII剂量的重复输注，以使最低水平保持在正常水平的50%至80%。神经外科或心脏手术后，术后前 3 天因子谷水平应维持在正常值的 100%。术后第 4 至 7 天的目标是 80 至 100% 的低谷水平，其次是术后第 8 至 14 天的 目标是50 至 80% 。颅内出血后，前 7 天谷zhi因子水平应维持在正常值的 100%。第 8 至 14 天的目标应为 80% 至 100%，第 15 至 21 天的目标应为 50% 至 80%。颅内出血后，建议终生使用因子预防。1U/kg的Ⅷ因子可使其水平升高约2%。因此需要25U/kg的Ⅷ因子才可使其水平从0%升至50%。
+因子VIII可作为纯化血浆衍生因子VIII浓缩物给予，该浓缩物来自多个供者。然后需对其进行病毒灭活，但微小病毒或甲型肝炎病毒可能无法被灭活。重组Ⅷ因子是无病毒的，因此它更具优势。
+针对血友病B，应每12-24小时给予纯化或重组病毒灭活的 IX因子。该因子纠正的目标水平与血友病A相似。然而，为了达到上述水平，Ⅸ因子要比血友病A所需的剂量高，因为IX因子要比VIII因子分子量小，与 VIII因子相比，IX因子有较广泛的血管外分布。每单位/公斤因子IX增加了因子IX水平 1%。由于血管外分布，初始剂量因子IX一般比后续剂量高 25%。
+新鲜的冷冻血浆包含Ⅷ因子和Ⅸ因子。然而，除非进行血浆置换，否则通常不能给予严重血友病患者足够的全血浆，以将因子VIII或因子Ⅸ提高到预防或控制出血的水平。因此，只有在无法获得浓缩因子时，才应使用新鲜冷冻血浆。
+冷沉淀含有因子 VIII，如果没有因子 VIII 浓缩物，可以用作替代产品。每个单位的冷沉淀物含有 80 个单位的因子 VIII。由于血浆和冷沉淀通常未经过病毒灭活，因此这些血液制品仅应在无法获得浓缩因子的紧急情况下使用。
+重组长效凝血因子VIII和凝血因子IX浓缩物，以及替代凝血因子VIII功能或抑制内源性抗血栓蛋白（如组织因子途径抑制物和抗凝血酶）合成或功能的非因子疗法已被研发出来。重组长效凝血因子浓缩物将凝血因子VIII或IX分子与聚乙二醇（PEG）、免疫球蛋白Fc片段或白蛋白融合，其消除半衰期是标准半衰期浓缩物的1.5至5倍，从而可减少给药频率。
+替代药物有时也用于治疗血友病（1）。
+对于A型血友病，emicizumab是一种重组人源化双特异性单克隆抗体，可与IX因子和X因子结合，将它们连接成因子Xase样的活性复合物，从而抵消了对VIII因子的需求，可能是A型血友病的有效治疗方法（2)。艾美珠单抗每 1、2 或 4 周皮下注射一次。半衰期为28天。
+用于治疗血友病 A 和 B 的其他治疗药物包括 菲图西兰、康赛珠单抗和马塔西单抗（3，4）。Fitusiran是一种小的抑制性RNA，可抑制天然抗凝蛋白、抗凝血酶的产生，以补偿因子VIII或IX的缺乏。Concizumab是一种人源化单克隆抗体，可阻断另一种天然抗凝蛋白组织因子途径抑制剂（TFPI），并增加血友病A和B中的凝血酶产生。康珠单抗也可用于治疗伴抑制物的A型或B型血友病（即接触过凝血因子替代疗法患者可能产生的中和抗体）。马司他单抗是一种靶向TFPI的人源化单克隆抗体，已获批用于治疗无抑制物的A型和B型血友病。
+临床试验表明，使用腺相关病毒 (AAV) 载体的基因治疗可产生持续的因子 VIII 和因子IX表达式 (5, 6)。针对A型和B型血友病的AAV载体基因治疗产品已上市（7）。
+VWF和VIII因子均储存在内皮细胞的Weibel-Palade小体内，可在内皮细胞受到相应刺激后分泌（8)。因此，轻度A型血友病的辅助治疗包括用合成的加压素类似物DDAVP（去氨基 -D-精氨酸加压素, 也被称为去氨加压素）刺激患者内皮细胞。正如所描述的血管性血友病,去氨加压素可能会暂时提高因子 VIII 水平。在治疗性应用去氨升压素之前，应对患者的应答反应进行检测。在轻微创伤后或择期牙科手术前使用它可以避免替代治疗的需要去氨升压素仅应用于有应答的轻度血友病A患者（Ⅷ因子基础水平≥5%）。
+抗纤维蛋白溶解剂（氨基己酸或氨甲环酸）也可用作血友病 A 或 B 的辅助治疗，以抑制纤维蛋白溶解并预防拔牙或其他口咽粘膜创伤（例如舌头撕裂伤）后的晚期出血。
+
+【治疗参考文献】
+1.Chowdary P, Carcao M, Kenet G, Pipe SW.Haemophilia.Lancet.2025;405(10480):736-750.doi:10.1016/S0140-6736(24)02139-1
+1.Chowdary P, Carcao M, Kenet G, Pipe SW.Haemophilia.Lancet.2025;405(10480):736-750.doi:10.1016/S0140-6736(24)02139-1
+2.Nuto A, Yoshihashi K, Takeda M, et al.Anti-factor IXa/X bispecific antibody (ACE910): Hemostatic potency against ongoing bleeds in a hemophilia A model and the possibility of routine supplementation.J Thromb Haemost.12:206–213, 2014.
+2.Nuto A, Yoshihashi K, Takeda M, et al.Anti-factor IXa/X bispecific antibody (ACE910): Hemostatic potency against ongoing bleeds in a hemophilia A model and the possibility of routine supplementation.J Thromb Haemost.12:206–213, 2014.
+3.Young G, Srivastava A, Kavakli K, et al.Efficacy and safety offitusiranprophylaxis in people with haemophilia A or haemophilia B with inhibitors (ATLAS-INH): a multicentre, open-label, randomised phase 3 trial.Lancet.2023;401(10386):1427-1437.doi:10.1016/S0140-6736(23)00284-2
+3.Young G, Srivastava A, Kavakli K, et al.Efficacy and safety offitusiranprophylaxis in people with haemophilia A or haemophilia B with inhibitors (ATLAS-INH): a multicentre, open-label, randomised phase 3 trial.Lancet.2023;401(10386):1427-1437.doi:10.1016/S0140-6736(23)00284-2
+4.Shapiro AD, Angchaisuksiri P, Astermark J, et al.Subcutaneousconcizumabprophylaxis in hemophilia A and hemophilia A/B with inhibitors: phase 2 trial results.Blood.2019;134(22):1973-1982.doi:10.1182/blood.2019001542
+4.Shapiro AD, Angchaisuksiri P, Astermark J, et al.Subcutaneousconcizumabprophylaxis in hemophilia A and hemophilia A/B with inhibitors: phase 2 trial results.Blood.2019;134(22):1973-1982.doi:10.1182/blood.2019001542
+5.Perrin GQ, Herzog RW, Markusic DM.Update on clinical gene therapy for hemophilia.Blood.2019;133(5):407-414.doi:10.1182/blood-2018-07-820720
+5.Perrin GQ, Herzog RW, Markusic DM.Update on clinical gene therapy for hemophilia.Blood.2019;133(5):407-414.doi:10.1182/blood-2018-07-820720
+6.Samelson-Jones BJ, George LA.Adeno-Associated Virus Gene Therapy for Hemophilia.Annu Rev Med.2023;74:231-247.doi:10.1146/annurev-med-043021-033013
+6.Samelson-Jones BJ, George LA.Adeno-Associated Virus Gene Therapy for Hemophilia.Annu Rev Med.2023;74:231-247.doi:10.1146/annurev-med-043021-033013
+7.George LA.Hemophilia gene therapy comes of age.Blood Adv.1:2591–2599, 2017.doi: 10.1182/bloodadvances.2017009878
+7.George LA.Hemophilia gene therapy comes of age.Blood Adv.1:2591–2599, 2017.doi: 10.1182/bloodadvances.2017009878
+8.Turner NA and Moake JL.Factor VIII is synthesized in human endothelial cells, packaged in Weibel-Palade bodies and secreted bound to ULVWF strings.PLoS ONE.10(10): e0140740, 2015.doi: 10.1371/journal.pone.0140740
+8.Turner NA and Moake JL.Factor VIII is synthesized in human endothelial cells, packaged in Weibel-Palade bodies and secreted bound to ULVWF strings.PLoS ONE.10(10): e0140740, 2015.doi: 10.1371/journal.pone.0140740
+
+【预防血友病】
+应查明携带者的家庭成员，以便为他们提供遗传咨询。
+为防止出血，患者应避免使用阿司匹林和非甾体类抗炎药（两者均可抑制血小板功能）。定期的牙齿护理很重要，这样可避免拔牙和其他牙科手术。药物应口服或静脉注射，因肌肉注射可引起血肿。
+血友病患者应该接种甲型肝炎疫苗和乙型肝炎。
+血友病是X连锁隐性遗传性凝血功能障碍性疾病。
+血友病是X连锁隐性遗传性凝血功能障碍性疾病。
+血友病A（约80％的患者）涉及VIII因子的缺乏，血友病B涉及IX因子的缺乏。
+血友病A（约80％的患者）涉及VIII因子的缺乏，血友病B涉及IX因子的缺乏。
+轻微创伤后，患者可发生组织出血（如，关节积血、肌肉血肿、后腹膜出血）；且可能发生致命性颅内出血。
+轻微创伤后，患者可发生组织出血（如，关节积血、肌肉血肿、后腹膜出血）；且可能发生致命性颅内出血。
+部分凝血活酶时间延长但凝血酶原时间和血小板计数正常；检测Ⅷ因子和Ⅸ因子可以确定血友病的类型和严重程度。
+部分凝血活酶时间延长但凝血酶原时间和血小板计数正常；检测Ⅷ因子和Ⅸ因子可以确定血友病的类型和严重程度。
+出血或可能发生出血的患者（如，外科手术或拔牙之前）应给予凝血因子替代治疗，优选使用重组制剂；剂量根据具体情况而定。
+出血或可能发生出血的患者（如，外科手术或拔牙之前）应给予凝血因子替代治疗，优选使用重组制剂；剂量根据具体情况而定。
+30％需要反复输注VIII因子的严重A型血友病患者可产生VIII因子抗体。
+30％需要反复输注VIII因子的严重A型血友病患者可产生VIII因子抗体。

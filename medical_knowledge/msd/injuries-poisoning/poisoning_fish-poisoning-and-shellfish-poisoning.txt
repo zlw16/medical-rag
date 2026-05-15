@@ -1,0 +1,52 @@
+标题：鱼类中毒和贝类中毒
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/poisoning/fish-poisoning-and-shellfish-poisoning
+============================================================
+
+(参见中毒的一般原则。)
+
+【雪卡毒素鱼中毒】
+雪卡毒素中毒占所有鱼类相关食源性疾病的20%（美国每年约16,000例，其中300例需住院治疗），其致病原因是摄食了来自佛罗里达、西印度群岛或太平洋热带礁区的>400种鱼类中的任意一种，这些鱼类因摄食产毒甲藻而导致其肌肉组织中蓄积雪卡毒素（1）。 老年鱼和大鱼（例如石斑鱼、鲷鱼、石首鱼）中含有的毒素更多。已知的任何加工处理方法包括烹煮都没有作用，并且其口味是不受影响的。食用新鲜或冷冻鱼后可能发生中毒。目前尚无市售产品可用于检测鱼肉中的雪卡毒素。
+可能发生围产期传播，且雪卡毒素会分泌至母乳中。妊娠期及哺乳期妇女应避免食用可疑鱼类。
+在食用后2～8小时会产生症状。 腹部绞痛、恶心、呕吐和腹泻会持续6～17小时，然后出现瘙痒症、感觉异常、头痛、肌痛、冷热感觉逆转，可能会发生颜面部疼痛。数月之后，异常感觉现象和精神紧张可能导致身体虚弱 (2)。诊断是基于临床的。
+静脉注射甘露醇被建议作为治疗方法，但尚未显示明确的疗效(3,4)。加巴喷丁、阿米替林、硝苯地平和普瑞巴林已被用于治疗长期神经症状，疗效不一（5、6、7、8）。
+
+【鲭鱼中毒】
+鲭鱼肉中毒是由于鱼被捕捞后鱼肉内的细菌分解代谢导致的高组胺水平所引起。常见的受影响物种包括：
+这些鱼尝起来可能会有辣味或者苦味。 在食用后数分钟内即会产生颜面部潮红并且可能有恶心、呕吐、上腹部疼痛和荨麻疹，可在24小时内缓解。这些症状经常会被误诊为海鲜过敏反应。与其他鱼类中毒不同的是，这种中毒可以通过对捕捞后的鱼类进行正确的保存来避免 (9)。也有报道称因加工前生牛乳受细菌污染导致食用瑞士奶酪后发生组胺中毒（10）。
+诊断是基于临床的。如果可以对剩余鱼类进行检测，组胺水平高于100 mg/100 g即可确认诊断。
+治疗可能包括H1阻滞剂和H2阻滞剂。严重症状（气道水肿、支气管痉挛或分布性休克）可能需要按过敏反应使用肾上腺素和升压药治疗。
+
+【河豚毒素中毒】
+河豚毒素中毒最常见的原因是食用河豚鱼（河豚），这是一种日本美食，但>100种淡水和海水物种都含有河豚毒素（11）。早期症状包括面部和四肢感觉异常，随后出现流涎增加、恶心、呕吐、腹泻和腹痛。 也可能发生可能致命的呼吸麻痹。 治疗以支持为主并注意通气支持，直至毒素被代谢，这可能需要数天。病例报告提示抗胆碱酯酶药（如依酚氯铵、新斯的明）可能有助于逆转部分麻痹性神经症状，但数据尚无定论（12）。
+这种毒素无法通过清洗、烹饪或冷冻来破坏。
+
+【贝类中毒】
+从 6 月到 10 月，特别是在太平洋和新英格兰海岸，当贻贝、蛤蜊、牡蛎和扇贝被引起赤潮的有毒甲藻污染时，可能会发生麻痹性贝类中毒。这种甲藻能产生神经毒素石房蛤毒素，这种毒素可以抵抗烹饪、冷冻或腌制。受污染海产品在外观、气味及口感方面均表现正常。口周的感觉异常发生于食用后5～30分钟内。然后发生恶心、呕吐、腹部绞痛，继之出现肌无力。治疗是支持性的。未经治疗的呼吸麻痹可能是致命的；对于幸存者，通常可以完全康复 (13)。
+
+【参考文献】
+1.Glaziou P, Legrand AM.The epidemiology of ciguatera fish poisoning.Toxicon.1994;32(8):863-873.doi:10.1016/0041-0101(94)90365-4
+1.Glaziou P, Legrand AM.The epidemiology of ciguatera fish poisoning.Toxicon.1994;32(8):863-873.doi:10.1016/0041-0101(94)90365-4
+2.Pearn J.Neurology of ciguatera.J Neurol Neurosurg Psychiatry.2001;70(1):4-8.doi:10.1136/jnnp.70.1.4
+2.Pearn J.Neurology of ciguatera.J Neurol Neurosurg Psychiatry.2001;70(1):4-8.doi:10.1136/jnnp.70.1.4
+3.Friedman MA, Fleming LE, Fernandez M, et al.Ciguatera fish poisoning: treatment, prevention and management.Mar Drugs.2008;6(3):456-479.doi:10.3390/md20080022
+3.Friedman MA, Fleming LE, Fernandez M, et al.Ciguatera fish poisoning: treatment, prevention and management.Mar Drugs.2008;6(3):456-479.doi:10.3390/md20080022
+4.Mullins ME, Hoffman RS.Is mannitol the treatment of choice for patients with ciguatera fish poisoning?Clin Toxicol (Phila).2017;55(9):947-955.doi:10.1080/15563650.2017.1327664
+4.Mullins ME, Hoffman RS.Is mannitol the treatment of choice for patients with ciguatera fish poisoning?Clin Toxicol (Phila).2017;55(9):947-955.doi:10.1080/15563650.2017.1327664
+5.Perez CM, Vasquez PA, Perret CF.Treatment of ciguatera poisoning with gabapentin.N Engl J Med.2001;344(9):692-693.doi:10.1056/NEJM200103013440919
+5.Perez CM, Vasquez PA, Perret CF.Treatment of ciguatera poisoning with gabapentin.N Engl J Med.2001;344(9):692-693.doi:10.1056/NEJM200103013440919
+6.Davis RT, Villar LA.Symptomatic improvement with amitriptyline in ciguatera fish poisoning.N Engl J Med.1986;315(1):65.
+6.Davis RT, Villar LA.Symptomatic improvement with amitriptyline in ciguatera fish poisoning.N Engl J Med.1986;315(1):65.
+7.Calvert GM, Hryhorczuk DO, Leikin JB.Treatment of ciguatera fish poisoning with amitriptyline and nifedipine.J Toxicol Clin Toxicol.1987;25(5):423-428.doi:10.3109/15563658708992645
+7.Calvert GM, Hryhorczuk DO, Leikin JB.Treatment of ciguatera fish poisoning with amitriptyline and nifedipine.J Toxicol Clin Toxicol.1987;25(5):423-428.doi:10.3109/15563658708992645
+8.Brett J, Murnion B.Pregabalin to treat ciguatera fish poisoning.Clin Toxicol (Phila).2015;53(6):588.doi:10.3109/15563650.2015.1052499
+8.Brett J, Murnion B.Pregabalin to treat ciguatera fish poisoning.Clin Toxicol (Phila).2015;53(6):588.doi:10.3109/15563650.2015.1052499
+9.Hungerford JM.Scombroid poisoning: a review.Toxicon.2010;56(2):231-243.doi:10.1016/j.toxicon.2010.02.006
+9.Hungerford JM.Scombroid poisoning: a review.Toxicon.2010;56(2):231-243.doi:10.1016/j.toxicon.2010.02.006
+10.Taylor SL, Stratton JE, Nordlee JA.Histamine poisoning (scombroid fish poisoning): an allergy-like intoxication.J Toxicol Clin Toxicol.1989;27(4-5):225-240.doi:10.3109/15563658908994420
+10.Taylor SL, Stratton JE, Nordlee JA.Histamine poisoning (scombroid fish poisoning): an allergy-like intoxication.J Toxicol Clin Toxicol.1989;27(4-5):225-240.doi:10.3109/15563658908994420
+11.Bane V, Lehane M, Dikshit M, et al.Tetrodotoxin: chemistry, toxicity, source, distribution and detection.Toxins (Basel).2014;6(2):693-755.Published 2014 Feb 21.doi:10.3390/toxins6020693
+11.Bane V, Lehane M, Dikshit M, et al.Tetrodotoxin: chemistry, toxicity, source, distribution and detection.Toxins (Basel).2014;6(2):693-755.Published 2014 Feb 21.doi:10.3390/toxins6020693
+12.Liu SH, Tseng CY, Lin CC.Is neostigmine effective in severe pufferfish-associated tetrodotoxin poisoning?.Clin Toxicol (Phila).2015;53(1):13-21.doi:10.3109/15563650.2014.980581
+12.Liu SH, Tseng CY, Lin CC.Is neostigmine effective in severe pufferfish-associated tetrodotoxin poisoning?.Clin Toxicol (Phila).2015;53(1):13-21.doi:10.3109/15563650.2014.980581
+13.Etheridge SM.Paralytic shellfish poisoning: seafood safety and human health perspectives.Toxicon.2010;56(2):108-122.doi:10.1016/j.toxicon.2009.12.013
+13.Etheridge SM.Paralytic shellfish poisoning: seafood safety and human health perspectives.Toxicon.2010;56(2):108-122.doi:10.1016/j.toxicon.2009.12.013

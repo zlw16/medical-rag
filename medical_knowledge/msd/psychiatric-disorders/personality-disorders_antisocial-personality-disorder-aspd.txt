@@ -1,0 +1,96 @@
+标题：反社会型人格障碍（ASPD）
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/personality-disorders/antisocial-personality-disorder-aspd
+============================================================
+
+(参见人格障碍概述。）
+反社会型人格障碍的患者常为了个人利益进行非法，欺骗，剥削，鲁莽的行为，缺乏悔恨。具体包括：
+他们会为自己的行为辩解或合理化（例如，“失败者就应该失败”，“只需要为自己争取最大利益”）。
+他们会为自己的行为辩解或合理化（例如，“失败者就应该失败”，“只需要为自己争取最大利益”）。
+责怪受害人是愚蠢或无助的
+责怪受害人是愚蠢或无助的
+无视自己的行为对他人的剥削和有害影响
+无视自己的行为对他人的剥削和有害影响
+根据美国和英国的几项大型流行病学调查，反社会人格障碍的终生患病率估计为 2% 至 5%（1, 2）。反社会型人格障碍男性比女性更常见（3:1） (3)，并且有很强的遗传性。患病率随年龄下降(4)，提示患者随着时间适应不良的行为有所改善。
+共病常见。大多数患者同时存在物质使用障碍（且约有一半物质使用障碍患者符合反社会型人格障碍的诊断标准）(3)。反社会人格障碍患者通常也有冲动控制障碍,情绪障碍,焦虑症, 赌博障碍,注意力缺陷/多动症， 或者边缘性人格障碍。
+
+【参考文献】
+1.Lenzenweger MF, Lane MC, Loranger AW, et al: DSM-IV personality disorders in the National Comorbidity Survey Replication.Biol Psychiatry62(6):553-564, 2007. doi: 10.1016/j.biopsych.2006.09.019
+1.Lenzenweger MF, Lane MC, Loranger AW, et al: DSM-IV personality disorders in the National Comorbidity Survey Replication.Biol Psychiatry62(6):553-564, 2007. doi: 10.1016/j.biopsych.2006.09.019
+2.Trull TJ, Jahng S, Rachel L Tomko, et al: Revised NESARC personality disorder diagnoses: Gender, prevalence, and comorbidity with substance dependence disorders.J Pers Disord24(4):412-426, 2010. doi: 10.1521/pedi.2010.24.4.412
+2.Trull TJ, Jahng S, Rachel L Tomko, et al: Revised NESARC personality disorder diagnoses: Gender, prevalence, and comorbidity with substance dependence disorders.J Pers Disord24(4):412-426, 2010. doi: 10.1521/pedi.2010.24.4.412
+3.Regier DA, Farmer ME, Rae DS, et al: Comorbidity of mental disorders with alcohol and other drug abuse.Results from the Epidemiologic Catchment Area (ECA) Study.JAMA264(19):2511-2518, 1990.PMID: 2232018.
+3.Regier DA, Farmer ME, Rae DS, et al: Comorbidity of mental disorders with alcohol and other drug abuse.Results from the Epidemiologic Catchment Area (ECA) Study.JAMA264(19):2511-2518, 1990.PMID: 2232018.
+4.d'Huart D, Seker S, Burgin D, et al: The stability of personality disorders and personality disorder criteria: A systematic review and meta-analysis.Clin Psychol Rev102:102284, 2023. doi: 10.1016/j.cpr.2023.102284
+4.d'Huart D, Seker S, Burgin D, et al: The stability of personality disorders and personality disorder criteria: A systematic review and meta-analysis.Clin Psychol Rev102:102284, 2023. doi: 10.1016/j.cpr.2023.102284
+
+【反社会型人格障碍的病因学】
+遗传和环境因素（例如在儿童期遭受虐待）有助于反社会人格障碍的发展。一个可能的机制是冲动而不是有计划的攻击，这与血清素转运体功能异常有关。儿童早期对他人痛苦的漠视与青少年晚期的反社会行为存在关联。
+患者的一级亲属发生该障碍的机会比普通人群高(1)。父母患有该障碍时，其养子女和亲生子女的患病风险均会增加。
+如果在10岁之前出现品行障碍伴随着注意力缺失/多动症，成年后发展为反社会型人格障碍的风险升高 (2)。当父母虐待、忽视孩子，或教养方式不一致时，品行障碍发展为反社会型人格障碍的风险可能增加（例如，对孩子忽冷忽热 [3]）。
+
+【病因参考文献】
+1.Polderman TJC, Benyamin B,  de Leeuw CA, et al: Meta-analysis of the heritability of human traits based on fifty years of twin studies.Nat Genet47(7):702-709, 2015. doi: 10.1038/ng.3285
+1.Polderman TJC, Benyamin B,  de Leeuw CA, et al: Meta-analysis of the heritability of human traits based on fifty years of twin studies.Nat Genet47(7):702-709, 2015. doi: 10.1038/ng.3285
+2.Storebø OJ, Simonsen EJ: The association between ADHD and antisocial personality disorder (ASPD): A review.Atten Disord: 20(10):815-24, 2016.doi: 10.1177/1087054713512150
+2.Storebø OJ, Simonsen EJ: The association between ADHD and antisocial personality disorder (ASPD): A review.Atten Disord: 20(10):815-24, 2016.doi: 10.1177/1087054713512150
+3.Reti IM, Samuels JF, Eaton WW, et al: Adult antisocial personality traits are associated with experiences of low parental care and maternal overprotection.Acta Psychiatr Scand106(2):126-133, 2002. doi: 10.1034/j.1600-0447.2002.02305.x
+3.Reti IM, Samuels JF, Eaton WW, et al: Adult antisocial personality traits are associated with experiences of low parental care and maternal overprotection.Acta Psychiatr Scand106(2):126-133, 2002. doi: 10.1034/j.1600-0447.2002.02305.x
+
+【反社会人格障碍的症状和体征】
+反社会型人格障碍患者可能通过破坏财产、骚扰他人或偷窃等行为，表现出对他人和法律的漠视。他们可能通过欺骗、剥削、欺诈或操纵他人，来获取金钱、权力、性等自身需求。他们可能使用化名。
+这些病人很冲动；他们不会提前计划或考虑对自己或他人的后果或安全。因此，他们可能会突然改变工作，家庭，或人际关系。他们可能会在醉酒的情况下超速驾驶，有时会导致撞车。他们可能会过量饮酒或服用违禁药物。
+反社会型人格障碍的患者常在社会和经济上不负责任。他们可能经常毫无计划地换工作。可能在有条件时不去工作。他们可能不支付账单，拖欠贷款，或者不支付子女抚养费。
+这些患者往往容易被挑衅具有攻击性，他们可能会打架或虐待配偶或伴侣。在性关系中，他们可能不负责任、剥削伴侣，且无法保持忠诚。
+对自身行为毫无悔意。反社会型人格障碍患者可能通过指责受害者（例如 “他们活该”）或抱怨生活不公，来合理化自身行为。他们不愿被人摆布，并为自己的利益不惜任何代价。
+这类患者对他人缺乏同理心，可能轻视或漠视他人的感受、权利和痛苦。
+反社会人格障碍患者可能非常固执己见、自信或傲慢。他们为达目的，可能表现得富有魅力、健谈且言语表达流畅。
+
+【反社会人格障碍的诊断】
+精神障碍诊断与统计手册，第5版，文本修订，(DSM-5-TR)标准
+精神障碍诊断与统计手册，第5版，文本修订，(DSM-5-TR)标准
+反社会人格障碍的诊断 (1)，患者必须有
+长期无视他人权利
+长期无视他人权利
+这种漠视可通过存在以下≥3项表现来体现：
+无视法律规定，表现为反复出现犯法行为
+无视法律规定，表现为反复出现犯法行为
+具有欺骗性的，表现为反复说谎、使用化名，或为个人利益或乐趣欺骗他人
+具有欺骗性的，表现为反复说谎、使用化名，或为个人利益或乐趣欺骗他人
+冲动行事或不提前规划
+冲动行事或不提前规划
+易被激怒或具攻击性，表现为频繁参与肢体冲突或攻击他人。
+易被激怒或具攻击性，表现为频繁参与肢体冲突或攻击他人。
+鲁莽漠视自身或他人的安全
+鲁莽漠视自身或他人的安全
+持续的不负责任，表现工作不稳定，无计划，不支付账单
+持续的不负责任，表现工作不稳定，无计划，不支付账单
+毫无悔意，表现为对伤害或虐待他人漠不关心或进行合理化辩解
+毫无悔意，表现为对伤害或虐待他人漠不关心或进行合理化辩解
+此外，患者必须有证据表明15岁之前就有品行障碍。反社会型人格障碍仅在≥18岁的人群中诊断。
+
+【鉴别诊断】
+反社会型人格障碍必须和以下相鉴别：
+物质使用障碍:有时很难确定冲动和不负责任的结果是因为物质使用障碍还是反社会型人格障碍，但可根据患者的病史进行判断，包括早期症状以及是否存在清醒期。有时，在共病的物质使用障碍得到治疗后，反社会型人格障碍可能更容易被诊断，但即使存在物质使用障碍，反社会型人格障碍也可被诊断。
+物质使用障碍:有时很难确定冲动和不负责任的结果是因为物质使用障碍还是反社会型人格障碍，但可根据患者的病史进行判断，包括早期症状以及是否存在清醒期。有时，在共病的物质使用障碍得到治疗后，反社会型人格障碍可能更容易被诊断，但即使存在物质使用障碍，反社会型人格障碍也可被诊断。
+品行障碍: 品行障碍有持续的违反社会规范和法律的行为，但必须在15岁之前出现。
+品行障碍: 品行障碍有持续的违反社会规范和法律的行为，但必须在15岁之前出现。
+自恋型人格障碍:患者同样存在剥削和同情缺乏，但他们往往没有反社会型人格障碍的攻击性和欺骗性。
+自恋型人格障碍:患者同样存在剥削和同情缺乏，但他们往往没有反社会型人格障碍的攻击性和欺骗性。
+边缘性人格障碍:患者同样具有操纵性，但他们的操纵是为了获得关怀，而非像反社会型人格障碍患者那样为了获取金钱、权力等利益。
+边缘性人格障碍:患者同样具有操纵性，但他们的操纵是为了获得关怀，而非像反社会型人格障碍患者那样为了获取金钱、权力等利益。
+
+【诊断参考文献】
+1. American Psychiatric Association:Diagnostic and Statistical Manual of Mental Disorders, 5th ed, Text Revision (DSM-5-TR).Washington, DC, American Psychiatric Association, 2022, pp 748-752.
+1. American Psychiatric Association:Diagnostic and Statistical Manual of Mental Disorders, 5th ed, Text Revision (DSM-5-TR).Washington, DC, American Psychiatric Association, 2022, pp 748-752.
+
+【反社会人格障碍的治疗】
+应急管理
+应急管理
+特定病例的药物治疗
+特定病例的药物治疗
+没有证据表明某种特定的治疗可以长期的改善。因此，治疗目的是到达某些短期目标，比如避免法律后果，而不是改变患者。应急管理（即根据患者的行为给予或拒绝给予他们想要的东西）可能效果有限（1）。共病症（例如，情绪障碍,物质使用障碍）也应根据他们的首选方法进行治疗。
+具有明显冲动性和不稳定情绪的攻击性患者可能会受益于药物治疗（例如非典型抗精神病药、锂和丙戊酸盐[参见双相情感障碍的药物治疗],选择性血清素再摄取抑制剂）。
+
+【治疗参考文献】
+1.Gibbon S, Khalifa NR,  Cheung NH-Y, et al: Psychological interventions for antisocial personality disorder.Cochrane Database Syst Rev9(9):CD007668, 2020. doi: 10.1002/14651858.CD007668.pub3
+1.Gibbon S, Khalifa NR,  Cheung NH-Y, et al: Psychological interventions for antisocial personality disorder.Cochrane Database Syst Rev9(9):CD007668, 2020. doi: 10.1002/14651858.CD007668.pub3

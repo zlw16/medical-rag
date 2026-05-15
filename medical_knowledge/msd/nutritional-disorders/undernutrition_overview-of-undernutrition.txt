@@ -1,0 +1,245 @@
+标题：营养不良概述
+来源：https://www.msdmanuals.cn/professional/nutritional-disorders/undernutrition/overview-of-undernutrition
+============================================================
+
+营养不良是一个全球性的问题（1）。联合国粮食及农业组织报告指出，2022年全球约7.35亿人（占全球人口的9.2%）面临饥饿问题，该数据以营养不良发生率进行衡量。这一数字比 2019 年 COVID-19 大流行前报告的人数多出 1.22 亿人。疫情对全球各地区的影响程度不同，随后经济增长与复苏速度亦存在差异，从而进一步影响了世界不同地区营养不良的发生率。例如，非洲地区营养不良的患病率从2021年的19.4%上升至2022年的19.7%，增加了1100万人。相比之下，在亚洲，营养不良发生率从2021年的8.8%下降到2022年的8.5%，减少了超过1200万人。
+
+【参考文献】
+1.Food and Agriculture Organization of the United Nations.Food Security and Nutrition Around the World.Accessed September 15, 2025.
+1.Food and Agriculture Organization of the United Nations.Food Security and Nutrition Around the World.Accessed September 15, 2025.
+
+【营养不良的危险因素】
+营养不良是由社会、文化和政治因素造成的。贫困仍然是低收入、中等收入和高收入国家营养不良的主要原因。战争、内乱、人口过剩、不安全的住房条件、传染病、流行病和城市化都可能导致营养不良。
+营养不良在某些时期（即婴儿期、幼儿期、青春期、怀孕期、母乳喂养期和老年期）尤其值得关注，因为这些情况涉及快速生长和/或增加对营养的需求。
+
+【婴幼儿期】
+婴幼儿需要比较多的热量和必需营养素，因此特别容易罹患营养不足。根据世界卫生组织（WHO）的数据，2022 年估计有 1.49 亿 5 岁以下儿童发育迟缓（身高低于年龄标准），4500 万儿童消瘦（体重低于身高标准[1]）。蛋白质-能量营养不良（PEU—以前称为蛋白质-能量营养不良）是新生儿和1至4岁儿童死亡的重要原因（2）。全球范围内喂养不足的婴幼儿也存在铁、碘、叶酸、维生素A和锌缺乏的风险（3）。
+纯母乳喂养的婴儿应补充维生素 D，因为母乳中通常不含足够水平的维生素 D（4）；此外，如母亲为严格素食者（纯素饮食），婴儿还可能发生维生素 B12 缺乏（5）。
+由于生长发育加速，处于青春期儿童的营养素需要量也相应增加。神经性厌食症尤其易影响青春期女性。
+
+【妊娠期和哺乳期】
+怀孕期间（以支持怀孕和胎儿生长的代谢需求）和母乳喂养期间对营养的需求增加。同时在妊娠期间可能发生诸如异食癖（摄入没有营养价值的物质，如粘土和木炭等）这样的饮食不当行为。缺铁性贫血是妊娠期贫血最常见的原因（6）。叶酸缺乏引起的贫血在服用口服避孕药的女性中也较为常见（7）。在妊娠后期，维生素D缺乏比较常见，可以导致儿童先天性的骨密度低下 (8)。对于怀孕或哺乳的女性，临床医生可能需要推荐饮食计划或膳食补充剂，特别是在营养状况受损的情况下。
+老年人患营养不良的风险较高，因为他们的营养需求在增加，而能量需求却通常在减少。这种差异需要食用营养丰富的食物。
+衰老（即使无疾病或膳食缺乏）会导致肌少症（瘦体重进行性丢失），通常从 40 岁后开始。营养不良会导致肌肉减少症（9）。
+肌少症的病因包括：
+生理活动减少
+生理活动减少
+膳食摄入量的减少
+膳食摄入量的减少
+血清中白介素（特别是白介素-6）的水平上升
+血清中白介素（特别是白介素-6）的水平上升
+生长激素和辅助生长因子（胰岛素样生长因子-3）的水平下降
+生长激素和辅助生长因子（胰岛素样生长因子-3）的水平下降
+就男性老年人而言，男性激素的水平下降
+就男性老年人而言，男性激素的水平下降
+基础代谢率在新生儿期通常逐渐升高，持续至约1岁，随后下降，并在成年期（20～60岁）趋于稳定（10）。60 岁以后，基础代谢率下降（主要由于去脂体重减少所致）。
+老年人营养不良常由食物摄入减少所致，其原因广泛，主要包括以下因素（11，12）：
+降低胃底平滑肌的容受性舒张
+降低胃底平滑肌的容受性舒张
+增加胆囊收缩素的释放和活性（产生饱腹感）
+增加胆囊收缩素的释放和活性（产生饱腹感）
+增加瘦素（脂肪细胞产生的一种促使机体减少摄食的激素）
+增加瘦素（脂肪细胞产生的一种促使机体减少摄食的激素）
+味觉和嗅觉减退也影响食欲，但通常只轻微减少食物摄取量。
+味觉和嗅觉减退也影响食欲，但通常只轻微减少食物摄取量。
+抑郁症（常见病因）及其他情绪障碍
+抑郁症（常见病因）及其他情绪障碍
+药物副作用
+药物副作用
+偶尔，神经性厌食症（有时在老年患者中称为迟发性厌食症）会干扰进食（11）。 牙科疾病限制了咀嚼和消化食物的能力。吞咽困难是常见的（例如，由于中风、食管念珠菌病或口腔干燥症）。贫困导致的食物不安全亦可能限制营养素的获取。
+在养老机构中的老年人也非常容易罹患蛋白质－热量营养不良（13）。他们（老年人）可能出现认知混乱，可能无法表达饥饿感或食物偏好。他们中某些人可能已经丧失自己进食的能力。同时他们的咀嚼和吞咽能力非常低下，常使得护理人员没有足够的耐心在冗长单调的过程中喂给足够的食物。
+
+【某些疾病和处理措施】
+糖尿病可能减慢胃排空并降低吸收（14）。
+肠道切除术以及某些其他胃肠道手术（例如胃肠道旁路手术）也可能会影响脂溶性维生素、维生素 B12、钙和铁的吸收（15）。
+此外，麦麸性肠病、胰腺功能低下等也可能引起吸收不良。吸收障碍可能会导致铁缺乏和骨质疏松症。
+某些慢性疾病（如癌症、晚期HIV感染）可引起厌食。
+感染、创伤、甲亢、重度烧伤和长期发热都可能由于代谢增强而增加营养的需要量。任何引起各种细胞因子水平上升的疾病状态都可以导致肌肉萎缩、脂肪分解、血浆白蛋白水平下降和食欲下降。
+
+【素食和纯素食饮食】
+遵循素食或纯素饮食的人可能出现维生素B12、维生素B2、烟酸、碘、锌、钙、钾和硒缺乏（16）。
+
+【时尚膳食】
+许多流行饮食法因不摄入特定食物或食物类别而导致维生素、矿物质和蛋白质缺乏（17）。
+
+【药物和营养添加剂】
+许多药物（例如食欲抑制剂、地高辛、胰高血糖素样肽-1 [GLP-1] 受体激动剂）会降低食欲；其他会损害营养吸收或新陈代谢。一些药物和其他物质（例如兴奋剂）具有分解代谢作用。 还有些药物可以影响许多营养素的吸收，例如抗癫痫药物可以造成多种维生素的吸收障碍。
+
+【酒精或物质依赖】
+有酒精或物质依赖的病人可能会忽视他们的营养需求 (18)。同时他们的营养吸收和代谢功能常常受到损害。酒精使用障碍可导致镁、锌以及包括维生素B1在内的某些维生素缺乏。
+
+【风险因素参考文献】
+1.World Health Organization (WHO).Infant and young child feeding, 2021.December 20, 2023.Accessed September 15, 2025.
+1.World Health Organization (WHO).Infant and young child feeding, 2021.December 20, 2023.Accessed September 15, 2025.
+2.Global Burden of Disease Child and Adolescent Health Collaboration, Kassebaum N, Kyu HH, et al.Child and Adolescent Health From 1990 to 2015: Findings From the Global Burden of Diseases, Injuries, and Risk Factors 2015 Study.JAMA Pediatr.2017;171(6):573-592.doi:10.1001/jamapediatrics.2017.0250
+2.Global Burden of Disease Child and Adolescent Health Collaboration, Kassebaum N, Kyu HH, et al.Child and Adolescent Health From 1990 to 2015: Findings From the Global Burden of Diseases, Injuries, and Risk Factors 2015 Study.JAMA Pediatr.2017;171(6):573-592.doi:10.1001/jamapediatrics.2017.0250
+3.Bailey RL, West Jr KP, Black RE.The epidemiology of global micronutrient deficiencies.Ann Nutr Metab.2015;66(Suppl 2):22-23.
+3.Bailey RL, West Jr KP, Black RE.The epidemiology of global micronutrient deficiencies.Ann Nutr Metab.2015;66(Suppl 2):22-23.
+4.Tan ML, Abrams SA, Osborn DA.Vitamin D supplementation for term breastfed infants to prevent vitamin D deficiency and improve bone health.Cochrane Database Syst Rev.2020;12(12):CD013046.Published 2020 Dec 11.doi:10.1002/14651858.CD013046.pub2
+4.Tan ML, Abrams SA, Osborn DA.Vitamin D supplementation for term breastfed infants to prevent vitamin D deficiency and improve bone health.Cochrane Database Syst Rev.2020;12(12):CD013046.Published 2020 Dec 11.doi:10.1002/14651858.CD013046.pub2
+5.Wirthensohn M, Wehrli S, Ljungblad UW, Huemer M.Biochemical, Nutritional, and Clinical Parameters of Vitamin B12 Deficiency in Infants: A Systematic Review and Analysis of 292 Cases Published between 1962 and 2022.Nutrients.2023;15(23):4960.Published 2023 Nov 29.doi:10.3390/nu15234960
+5.Wirthensohn M, Wehrli S, Ljungblad UW, Huemer M.Biochemical, Nutritional, and Clinical Parameters of Vitamin B12 Deficiency in Infants: A Systematic Review and Analysis of 292 Cases Published between 1962 and 2022.Nutrients.2023;15(23):4960.Published 2023 Nov 29.doi:10.3390/nu15234960
+6.James AH.Iron Deficiency Anemia in Pregnancy.Obstet Gynecol.2021;138(4):663-674.doi:10.1097/AOG.0000000000004559
+6.James AH.Iron Deficiency Anemia in Pregnancy.Obstet Gynecol.2021;138(4):663-674.doi:10.1097/AOG.0000000000004559
+7.Shere M, Bapat P, Nickel C, et al.Association Between Use of Oral Contraceptives and Folate Status: A Systematic Review and Meta-Analysis.J Obstetric Gynaecol Canada.2015;37(5):430-438.https://doi.org/10.1002/jbmr.2138
+7.Shere M, Bapat P, Nickel C, et al.Association Between Use of Oral Contraceptives and Folate Status: A Systematic Review and Meta-Analysis.J Obstetric Gynaecol Canada.2015;37(5):430-438.https://doi.org/10.1002/jbmr.2138
+8.Zhu K, Whitehouse A, Hart P, et al.Maternal vitamin D status during pregnancy and bone mass offspring at 20 years of age: A prospective cohort study.J Bone Mineral Res.2014;29(5):1088-1095.https://doi.org/10.1002/jbmr.2138
+8.Zhu K, Whitehouse A, Hart P, et al.Maternal vitamin D status during pregnancy and bone mass offspring at 20 years of age: A prospective cohort study.J Bone Mineral Res.2014;29(5):1088-1095.https://doi.org/10.1002/jbmr.2138
+9.Beaudart C, Sanchez-Rodriguez D, Locquet M, et al.Malnutrition as a Strong Predictor of the Onset of Sarcopenia.Nutrients.2019, 11(12), 2883; https://doi.org/10.3390/nu11122883
+9.Beaudart C, Sanchez-Rodriguez D, Locquet M, et al.Malnutrition as a Strong Predictor of the Onset of Sarcopenia.Nutrients.2019, 11(12), 2883; https://doi.org/10.3390/nu11122883
+10.Pontzer H, Yamada Y, Sagayama H, et al.Daily energy expenditure through the human life course.Science.2021;373(6556):808-812.DOI: 10.1126/science.abe5017
+10.Pontzer H, Yamada Y, Sagayama H, et al.Daily energy expenditure through the human life course.Science.2021;373(6556):808-812.DOI: 10.1126/science.abe5017
+11.Cruz-Jentoft AJ, Volkert D.Malnutrition in Older Adults.N Engl J Med.2025;392(22):2244-2255.doi:10.1056/NEJMra2412275
+11.Cruz-Jentoft AJ, Volkert D.Malnutrition in Older Adults.N Engl J Med.2025;392(22):2244-2255.doi:10.1056/NEJMra2412275
+12.Morley JE.Decreased food intake with aging.J Gerontol: Series A.2001;56:81-88.https://doi.org/10.1093/gerona/56.suppl_2.81
+12.Morley JE.Decreased food intake with aging.J Gerontol: Series A.2001;56:81-88.https://doi.org/10.1093/gerona/56.suppl_2.81
+13.Volkert D, Beck AM, Cederholm T, et al.ESPEN guideline on clinical nutrition and hydration in geriatrics.Clin Nutr.2019;38(1):10-47.doi:10.1016/j.clnu.2018.05.024
+13.Volkert D, Beck AM, Cederholm T, et al.ESPEN guideline on clinical nutrition and hydration in geriatrics.Clin Nutr.2019;38(1):10-47.doi:10.1016/j.clnu.2018.05.024
+14.Goyal RK.Gastric Emptying Abnormalities in Diabetes Mellitus.N Engl J Med.2021;384(18):1742-1751.doi:10.1056/NEJMra2020927
+14.Goyal RK.Gastric Emptying Abnormalities in Diabetes Mellitus.N Engl J Med.2021;384(18):1742-1751.doi:10.1056/NEJMra2020927
+15.Utrilla Fornals A, Costas-Batlle C, Medlin S, et al.Metabolic and Nutritional Issues after Lower Digestive Tract Surgery: The Important Role of the Dietitian in a Multidisciplinary Setting.Nutrients.2024;16(2):246.Published 2024 Jan 12.doi:10.3390/nu16020246
+15.Utrilla Fornals A, Costas-Batlle C, Medlin S, et al.Metabolic and Nutritional Issues after Lower Digestive Tract Surgery: The Important Role of the Dietitian in a Multidisciplinary Setting.Nutrients.2024;16(2):246.Published 2024 Jan 12.doi:10.3390/nu16020246
+16.Yannakoulia M, Scarmeas N.Diets.N Engl J Med.2024;390(22):2098-2106.doi:10.1056/NEJMra2211889
+16.Yannakoulia M, Scarmeas N.Diets.N Engl J Med.2024;390(22):2098-2106.doi:10.1056/NEJMra2211889
+17.Anderson K.Popular fad diets: An evidence-based perspective.Prog Cardiovasc Dis.2023;77:78-85.doi:10.1016/j.pcad.2023.02.001
+17.Anderson K.Popular fad diets: An evidence-based perspective.Prog Cardiovasc Dis.2023;77:78-85.doi:10.1016/j.pcad.2023.02.001
+18.Jeynes KD, Gibson EL.The importance of nutrition in aiding recovery from substance use disorders: A review.Drug Alcohol Depend.2017;179:229-239.doi:10.1016/j.drugalcdep.2017.07.006
+18.Jeynes KD, Gibson EL.The importance of nutrition in aiding recovery from substance use disorders: A review.Drug Alcohol Depend.2017;179:229-239.doi:10.1016/j.drugalcdep.2017.07.006
+
+【营养不良的症状和体征】
+症状因营养不足的病因与类型而异（例如蛋白质-能量营养不良、维生素缺乏症）。
+
+【营养不良的评估】
+应该依据临床病史和膳食调查、体格检查、身体成分测定，以及某些特殊实验室检验的结果进行诊断。已经提出了明确的共识标准，但尚未得到普遍采纳（1)。
+病史应包括关于
+膳食摄入量——见简易营养评估 (MNA)，这是一种营养筛查和评估工具，可以识别年龄≥65岁的营养不良或有营养不良风险的患者（2)
+膳食摄入量——见简易营养评估 (MNA)，这是一种营养筛查和评估工具，可以识别年龄≥65岁的营养不良或有营养不良风险的患者（2)
+慢性疾病：参见Global Diet Quality Score (GDQS)（全球饮食质量评分），这是一种快速评估非妊娠、非哺乳期育龄妇女营养不良和慢性疾病风险的方法（3）
+慢性疾病：参见Global Diet Quality Score (GDQS)（全球饮食质量评分），这是一种快速评估非妊娠、非哺乳期育龄妇女营养不良和慢性疾病风险的方法（3）
+近期的体重变化
+近期的体重变化
+营养不良的危险因素包括药物和酒精摄入。
+营养不良的危险因素包括药物和酒精摄入。
+3 个月内非故意性体重丢失≥10％（相对于日常体重），提示存在营养不足的可能性极高 (1,4)。社会史采集应包含：食物安全相关问题，以及患者购物与烹饪的能力。
+系统回顾应注重了解是否存在各种营养缺乏的临床表现（见表营养不良的症状和体征）。例如夜间视力下降可能反映维生素A缺乏的可能。
+
+【营养缺乏症的临床症状和体征】
+营养缺乏症的临床症状和体征
+部位/系统
+症状和体征
+缺乏的营养素
+一般表现
+多种维生素、锌、必需脂肪酸
+暴露于阳光下的皮肤出现皮疹
+烟酸（糙皮病）
+容易出血、瘀伤
+维生素C或维生素K
+毛发和指甲
+毛发稀疏或脱落
+白发早现
+指甲匙状变（向上卷曲）
+维生素A
+角膜软化（角膜干燥和云翳）
+维生素A
+唇炎和舌炎
+核黄素，烟酸，吡哆醇，铁
+齿龈出血
+维生素C、核黄素
+神经系统
+袜套 - 手套样分布的感觉异常或麻木
+硫胺（脚气病）
+手足搐愵
+认知与感觉功能障碍
+硫胺素，烟酸，吡哆醇，维生素B12
+硫胺素、烟酸，维生素B12
+骨骼肌肉
+肌肉萎缩
+骨骼畸形（如膝内翻、膝外翻、脊柱弯曲）
+维生素D、钙
+维生素D
+关节痛或水肿
+维生素C
+蛋白质、烟酸、叶酸、维生素B12
+腹泻和味觉障碍
+吞咽困难或吞咽痛（由于Plummer-Vinson综合征所致）
+内分泌系统
+甲状腺肿大
+
+【体格检查】
+体格检查应常规进行
+测量身高和体重
+测量身高和体重
+检查身体的脂肪分布
+检查身体的脂肪分布
+瘦体重的人体测量学评估
+瘦体重的人体测量学评估
+体质指数（BMI=体重[kg]/身高[m]2）通过身高调整体重。如果BMI < 18.5，应怀疑营养不良（5）。虽然这些研究结果对诊断营养不良很有用，并且敏感度也是可接受的，但它们都缺乏特异性。
+上臂中部肌肉面积可用于估算瘦体重。这个指标由三头肌的皮下脂肪厚度（TSF）和中上臂围长度二者计算得出。测定方法应在患者肌肉松弛的状态下，测定右臂三头肌的皮下脂肪厚度以及同侧上臂中点的臂围周长。男性的平均上臂围约为34.1厘米，女性为31.9厘米（6）。上臂中部肌肉面积（cm2）的计算公式如下：
+这个公式校正了测定时脂肪和骨骼对上臂围的干扰影响，上臂中部肌肉面积的平均值，男性为54±11 cm2，女性为30±7 cm2。若测量值低于该标准的 75%（依年龄而异），提示瘦体重耗竭(见表成人上臂中部肌肉面积)。测定值可以因生理活动、遗传因素和年龄的影响而出现个体差异。
+
+【成人上臂中部肌肉面积】
+成人上臂中部肌肉面积
+标准（%）
+男性（cm2）
+女性（cm2）
+100±20*
+54±11
+30±7
+*上臂中部肌肉量均值±1个标准差。
+数据来源于美国国家健康与营养调查（NHANES）I和II。
+*上臂中部肌肉量均值±1个标准差。
+数据来源于美国国家健康与营养调查（NHANES）I和II。
+体格检查应重点关注特定营养缺乏症的体征。 应寻找如水肿、肌肉萎缩和皮肤改变等蛋白质－热量营养不良的体征。同时也应该注意某些营养缺乏的诱发因素，例如牙齿问题。应评估精神状态，因为抑郁或者认知能力损害可以导致体重下降。
+以下评估工具可能有用：
+营养不良筛查工具(MST)是一种两题筛查工具，旨在识别住院老年患者的营养不良。评分≥2分表示有营养不良风险,而评分 0～1 表示无风险（7）。
+营养不良筛查工具(MST)是一种两题筛查工具，旨在识别住院老年患者的营养不良。评分≥2分表示有营养不良风险,而评分 0～1 表示无风险（7）。
+营养不良通用筛查工具(MUST)由英国肠外肠内营养协会设计。该工具根据患者的BMI、非故意性体重减轻史以及因急性疾病导致未来体重减轻的可能性,将患者分为营养不良低、中、高风险(4)。
+营养不良通用筛查工具(MUST)由英国肠外肠内营养协会设计。该工具根据患者的BMI、非故意性体重减轻史以及因急性疾病导致未来体重减轻的可能性,将患者分为营养不良低、中、高风险(4)。
+广泛使用的主观全面评估（SGA）综合了来自患者病史（如体重减轻、摄入量变化、胃肠道症状）、体格检查结果（如肌肉和皮下脂肪减少、水肿、腹水）以及临床医生对患者营养状况的判断。
+广泛使用的主观全面评估（SGA）综合了来自患者病史（如体重减轻、摄入量变化、胃肠道症状）、体格检查结果（如肌肉和皮下脂肪减少、水肿、腹水）以及临床医生对患者营养状况的判断。
+简易营养评价量表 (MNA®)已通过验证，并得到广泛应用，尤其是在老年患者群体中。MNA 包含 18 个计分问题，分为四个部分：人体测量、综合评估、饮食史和代谢压力。可能的总分是30分；分数≥24表示营养状况正常，分数在17到23.5之间表示营养不良风险，分数<17分表示营养不良（8–10）。微型营养评定简表（MNA-SF）仅包含 6 项内容，因此使用更快捷简便。如果得分≤11分（总分14分），则表明存在营养不良的风险，此时应进行进一步的评估以确诊营养不良的情况（11）。
+简易营养评价量表 (MNA®)已通过验证，并得到广泛应用，尤其是在老年患者群体中。MNA 包含 18 个计分问题，分为四个部分：人体测量、综合评估、饮食史和代谢压力。可能的总分是30分；分数≥24表示营养状况正常，分数在17到23.5之间表示营养不良风险，分数<17分表示营养不良（8–10）。微型营养评定简表（MNA-SF）仅包含 6 项内容，因此使用更快捷简便。如果得分≤11分（总分14分），则表明存在营养不良的风险，此时应进行进一步的评估以确诊营养不良的情况（11）。
+简化的营养状态评估问卷（SNAQ）是一种预测社区居住老年人未来体重丢失的简单、有效的评价方法，可以使用（12）。
+简化的营养状态评估问卷（SNAQ）是一种预测社区居住老年人未来体重丢失的简单、有效的评价方法，可以使用（12）。
+
+【简化的营养状态评估问卷（SNAQ）】
+简化的营养状态评估问卷（SNAQ）
+很难规定哪些实验室的检验内容是必需的，应该根据病人的具体情况来决定。若病因明确且可纠正（如野外生存情境），检查可能无明显获益。其他患者可能需要更详细的评估。
+血清白蛋白测定是一项常用的实验室检查项目,尽管尚未证实其是营养状况的可靠指标(13)。白蛋白和其他蛋白质（如前白蛋白[运甲状腺素蛋白]、转铁蛋白、视黄醇结合蛋白）水平下降可能提示蛋白质缺乏或蛋白质-能量营养不良（PEU）。在营养不良的发展过程中，白蛋白水平缓慢下降，随之前白蛋白、转铁蛋白和视黄醇结合蛋白迅速下降。血清白蛋白测定是一种比较廉价而有效的方法，比测定其他蛋白质能更好地预测发病和死亡。然而，白蛋白与发病率和死亡率的相关性可能与非营养因素和营养因素有关。炎症会产生细胞因子，导致白蛋白和其他营养性蛋白质标志物外渗，从而降低其血清水平。由于前白蛋白、转铁蛋白、视黄醇结合蛋白在饥饿时的下降速度快于白蛋白，这些指标的检测有时用于诊断或评估急性饥饿的严重程度。但是这些指标是否比白蛋白更灵敏或更具有特异性尚无定论。
+尿肌酐与肌肉质量有关。24 小时尿肌酐排泄量可用于计算肌酐身高指数（CHI [%]），该指数可反映瘦肌肉量。CHI 的计算方式为（24 小时尿肌酐 x 100）/理想身高肌酐排泄量（从标准表格中获得）。CHI 表示肌肉损耗的程度如下：> 30% 为严重，15 至 30% 为中度，5 至 15% 为轻度（14）。
+其他实验室检查（如维生素与矿物质水平检测）会被选择性用于诊断特定营养素缺乏。
+
+【评估参考文献】
+1.Cederholm T, Jensen GL, Correia MITD, et al.GLIM (Global Leadership Initiative on Malnutrition) criteria for the diagnosis of malnutrition: a consensus report from the global clinical nutrition community.Clin Nutr.38(1):1–9, 2019.doi: 10.1016/j.clnu.2018.08.002
+1.Cederholm T, Jensen GL, Correia MITD, et al.GLIM (Global Leadership Initiative on Malnutrition) criteria for the diagnosis of malnutrition: a consensus report from the global clinical nutrition community.Clin Nutr.38(1):1–9, 2019.doi: 10.1016/j.clnu.2018.08.002
+2.Guigoz Y, Vellas B.Nutritional assessment in older adults: MNA® 25 years of a screening tool and a reference standard for care and research; What next?J Nutr Health Aging.25(4):528–583, 2021.doi: 10.1007/s12603-021-1601-y
+2.Guigoz Y, Vellas B.Nutritional assessment in older adults: MNA® 25 years of a screening tool and a reference standard for care and research; What next?J Nutr Health Aging.25(4):528–583, 2021.doi: 10.1007/s12603-021-1601-y
+3.Bromage S, Batis C, Bhupathiraju SN, et al.Development and validation of a novel food-based Global Diet Quality Score (GDQS).J Nutr.151(12 Suppl 2):75S–92S, 2021.doi: 10.1093/jn/nxab244
+3.Bromage S, Batis C, Bhupathiraju SN, et al.Development and validation of a novel food-based Global Diet Quality Score (GDQS).J Nutr.151(12 Suppl 2):75S–92S, 2021.doi: 10.1093/jn/nxab244
+4.Stratton RJ, Hackston A, Longmore D, et al.Malnutrition in hospital outpatients and inpatients: prevalence, concurrent validity and ease of use of the 'malnutrition universal screening tool' ('MUST') for adults.Br J Nutr.2004;92(5):799-808.doi:10.1079/bjn20041258
+4.Stratton RJ, Hackston A, Longmore D, et al.Malnutrition in hospital outpatients and inpatients: prevalence, concurrent validity and ease of use of the 'malnutrition universal screening tool' ('MUST') for adults.Br J Nutr.2004;92(5):799-808.doi:10.1079/bjn20041258
+5.Jensen GL, Cederholm T, Correia ITD, et al.GLIM criteria for the diagnosis of malnutrition: A consensus report from the global clinical nutrition community.J Parenteral Enteral Nutr.2018; Accessed September 16, 2025.
+5.Jensen GL, Cederholm T, Correia ITD, et al.GLIM criteria for the diagnosis of malnutrition: A consensus report from the global clinical nutrition community.J Parenteral Enteral Nutr.2018; Accessed September 16, 2025.
+6.Fryar CD, Gu Q, Ogden CL, Flegal KM.Anthropometric reference data for children and adults: United States, 2011–2014.National Center for Health Statistics.Vital Health Stat.3(39), 2016.
+6.Fryar CD, Gu Q, Ogden CL, Flegal KM.Anthropometric reference data for children and adults: United States, 2011–2014.National Center for Health Statistics.Vital Health Stat.3(39), 2016.
+7.Thanh XLT, Thi PD, Thi HL, et al.Validity of NRS-2002, MUST, MST, and MNA-SF as first-step screening tools for malnutrition based on GLIM criteria in older adults.Clin Nutr Open Sci.2025;63:99-112.doi.org/10.1016/j.nutos.2025.07.008
+7.Thanh XLT, Thi PD, Thi HL, et al.Validity of NRS-2002, MUST, MST, and MNA-SF as first-step screening tools for malnutrition based on GLIM criteria in older adults.Clin Nutr Open Sci.2025;63:99-112.doi.org/10.1016/j.nutos.2025.07.008
+8.Laporte M, Keller HH, Payette H. et al.Validity and reliability of the new Canadian Nutrition Screening Tool in the ‘real-world’ hospital setting.Eur J Clin Nutr.69(5):558–564, 2015.doi: 10.1038/ejcn.2014.270 Epub 2014 Dec 17.
+8.Laporte M, Keller HH, Payette H. et al.Validity and reliability of the new Canadian Nutrition Screening Tool in the ‘real-world’ hospital setting.Eur J Clin Nutr.69(5):558–564, 2015.doi: 10.1038/ejcn.2014.270 Epub 2014 Dec 17.
+9.Kaiser MJ, Bauer JM, Rämsch C, et al.Frequency of malnutrition in older adults: A multinational perspective using the mini nutritional assessment.J Am Geriatr Soc.58(9):1734–1738, 2010.doi: 10.1111/j.1532-5415.2010.03016.x
+9.Kaiser MJ, Bauer JM, Rämsch C, et al.Frequency of malnutrition in older adults: A multinational perspective using the mini nutritional assessment.J Am Geriatr Soc.58(9):1734–1738, 2010.doi: 10.1111/j.1532-5415.2010.03016.x
+10.Guigoz Y.The Mini Nutritional Assessment (MNA) review of the literature—What does it tell us?J Nutr Health Aging.10(6):466–485; discussion 485–487, 2006.
+10.Guigoz Y.The Mini Nutritional Assessment (MNA) review of the literature—What does it tell us?J Nutr Health Aging.10(6):466–485; discussion 485–487, 2006.
+11.Soysal P, Veronese N, Arik F, et al.Mini Nutritional Assessment Scale-Short Form can be useful for frailty screening in older adults.Clin Interv Aging.14:693–699, 2019.doi: 10.2147/CIA.S196770 eCollection 2019.
+11.Soysal P, Veronese N, Arik F, et al.Mini Nutritional Assessment Scale-Short Form can be useful for frailty screening in older adults.Clin Interv Aging.14:693–699, 2019.doi: 10.2147/CIA.S196770 eCollection 2019.
+12.Lau S, Pek K, Chew J, et al.The Simplified Nutritional Appetite Questionnaire (SNAQ) as a Screening Tool for Risk of Malnutrition: Optimal Cutoff, Factor Structure, and Validation in Healthy Community-Dwelling Older Adults.Nutrients.2020;12(9):2885.Published 2020 Sep 21.doi:10.3390/nu12092885
+12.Lau S, Pek K, Chew J, et al.The Simplified Nutritional Appetite Questionnaire (SNAQ) as a Screening Tool for Risk of Malnutrition: Optimal Cutoff, Factor Structure, and Validation in Healthy Community-Dwelling Older Adults.Nutrients.2020;12(9):2885.Published 2020 Sep 21.doi:10.3390/nu12092885
+13.Evans DC, Corkins MR, Malone A, et al.The Use of Visceral Proteins as Nutrition Markers: An ASPEN Position Paper.Nutr Clin Pract.2021;36(1):22-28.doi:10.1002/ncp.10588
+13.Evans DC, Corkins MR, Malone A, et al.The Use of Visceral Proteins as Nutrition Markers: An ASPEN Position Paper.Nutr Clin Pract.2021;36(1):22-28.doi:10.1002/ncp.10588
+14.Hamada Y.Objective data assessment (ODA) methods as nutritional assessment tools.J Med Invest.62(3–4):119–122, 2015.doi: 10.2152/jmi.62.119
+14.Hamada Y.Objective data assessment (ODA) methods as nutritional assessment tools.J Med Invest.62(3–4):119–122, 2015.doi: 10.2152/jmi.62.119
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+The State of Food Security and Nutrition in the World 2023
+The State of Food Security and Nutrition in the World 2023

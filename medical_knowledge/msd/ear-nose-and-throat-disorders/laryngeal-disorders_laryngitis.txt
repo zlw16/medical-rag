@@ -1,0 +1,49 @@
+标题：喉炎
+来源：https://www.msdmanuals.cn/professional/ear-nose-and-throat-disorders/laryngeal-disorders/laryngitis
+============================================================
+
+喉炎可为急性（通常1周内消退，有时长达3周）或慢性（超过3周）（1）。急性喉炎的最常见的原因是病毒性上呼吸道感染。细菌或真菌感染较少见，但可能在病毒性疾病后继发感染。
+支气管炎、肺炎、流感、百日咳、麻疹和白喉同样可出现咳嗽引起的喉炎。 用声过度（尤其是大声说话或唱歌），过敏反应，胃食管反流，贪食症或吸入刺激性物质（如香烟烟雾或某些雾化药物）可能会引起急性或慢性喉炎。更罕见的是，药物可引起潜在危及生命的喉部水肿，例如血管紧张素转换酶（ACE）抑制剂引起的气道血管性水肿 (2)。吸烟和暴露于其他受热后的烟雾会导致Reinke水肿，即声带的水样肿胀。
+
+【参考文献】
+1.Dworkin JP.Laryngitis: types, causes, and treatments.Otolaryngol Clin North Am.2008;41(2):419-ix.doi:10.1016/j.otc.2007.11.011
+1.Dworkin JP.Laryngitis: types, causes, and treatments.Otolaryngol Clin North Am.2008;41(2):419-ix.doi:10.1016/j.otc.2007.11.011
+2.Wilkerson RG, Winters ME.Angiotensin-Converting Enzyme Inhibitor-Induced Angioedema.Immunol Allergy Clin North Am.2023;43(3):513-532.doi:10.1016/j.iac.2022.10.013
+2.Wilkerson RG, Winters ME.Angiotensin-Converting Enzyme Inhibitor-Induced Angioedema.Immunol Allergy Clin North Am.2023;43(3):513-532.doi:10.1016/j.iac.2022.10.013
+
+【喉炎的症状和体征】
+喉炎最突出的症状
+声音的持续变化
+声音的持续变化
+音量可能会降低；一些患者有失音（不能发声）。可出现发音困难、瘙痒感、粗糙感和不断清嗓。症状随着炎症的轻重而不同。
+在更严重的感染中，可能会出现吞咽困难和咽喉疼痛，并伴有发热和乏力等全身症状。喉头水肿虽然罕见，但可能发生并导致喘鸣和呼吸困难。
+内窥镜显示喉炎患者喉部发炎，声带（V形，左下方）肿胀。
+CNRI/SCIENCE PHOTO LIBRARY
+
+【喉炎的诊断】
+主要是病史和体格检查
+主要是病史和体格检查
+有时进行间接或直接柔性喉镜检查
+有时进行间接或直接柔性喉镜检查
+喉炎的诊断通常基于出现的症状。
+对于症状持续>2周者 (1)，推荐进行间接或直接软管喉镜检查，以发现轻度至重度的黏膜充血、水肿。有反流症状的患者，喉黏膜内侧水肿，杓状软骨发红。随着长期刺激（例如，由于吸烟），可能会形成白斑病。不建议临床医生未进行喉部可视检查时，常规为声嘶患者开具糖皮质激素。
+感染后遗症可能在咽部或喉部形成假膜；其存在应警惕白喉的可能性（2）。
+喉内窥镜显示喉炎引起的声带白斑（角化病，白色，中央）。白斑是机体组织的增厚，是对慢性刺激的反应。
+CNRI/SCIENCE PHOTO LIBRARY
+
+【诊断参考】
+1.Stachler RJ, Francis DO, Schwartz SR, et al.Clinical Practice Guideline: Hoarseness (Dysphonia) (Update) [published correction appears in Otolaryngol Head Neck Surg. 2018 Aug;159(2):403. doi: 10.1177/0194599818766900.].Otolaryngol Head Neck Surg.2018;158(1_suppl):S1-S42.doi:10.1177/0194599817751030
+1.Stachler RJ, Francis DO, Schwartz SR, et al.Clinical Practice Guideline: Hoarseness (Dysphonia) (Update) [published correction appears in Otolaryngol Head Neck Surg. 2018 Aug;159(2):403. doi: 10.1177/0194599818766900.].Otolaryngol Head Neck Surg.2018;158(1_suppl):S1-S42.doi:10.1177/0194599817751030
+2.Dworkin JP.Laryngitis: types, causes, and treatments.Otolaryngol Clin North Am.2008;41(2):419-ix.doi:10.1016/j.otc.2007.11.011
+2.Dworkin JP.Laryngitis: types, causes, and treatments.Otolaryngol Clin North Am.2008;41(2):419-ix.doi:10.1016/j.otc.2007.11.011
+
+【治疗喉炎】
+对症治疗（例如，镇咳剂、声带休息、水合作用、雾化吸入）
+对症治疗（例如，镇咳剂、声带休息、水合作用、雾化吸入）
+镇咳剂、声带休息、水合作用和雾化吸入可缓解症状，并促进急性喉炎好转。停止吸烟和治疗急性或慢性支气管炎可减轻喉炎。
+根据推测的病因，控制胃食管反流或药物引起的喉炎的特定治疗可能有益。
+病毒性喉炎尚无特殊治疗。除非怀疑由细菌或真菌感染引起，否则抗生素或抗真菌药物治疗对改善急性喉炎的客观临床结局似乎无效（1）。
+
+【治疗参考文献】
+1.Reveiz L, Cardona AF.Antibiotics for acute laryngitis in adults. CochraneDatabase Syst Rev.2015;2015(5):CD004783.Published 2015 May 23.doi:10.1002/14651858.CD004783.pub5
+1.Reveiz L, Cardona AF.Antibiotics for acute laryngitis in adults. CochraneDatabase Syst Rev.2015;2015(5):CD004783.Published 2015 May 23.doi:10.1002/14651858.CD004783.pub5

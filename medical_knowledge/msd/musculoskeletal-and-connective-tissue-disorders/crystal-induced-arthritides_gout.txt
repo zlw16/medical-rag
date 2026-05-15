@@ -1,0 +1,260 @@
+标题：痛风
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/crystal-induced-arthritides/gout
+============================================================
+
+男性痛风比女性多见。通常，痛风发生于男性中年和女性绝经后（雌激素有部分保护作用）。青年人中痛风较少见，但如在30岁前发病则病情较为严重。高尿酸血症和痛风的发病具有显著的遗传倾向。患有代谢综合征的患者亦有较高的痛风风险。
+
+【痛风的病理生理学】
+高尿酸血症的程度越严重、持续时间越长，发生痛风的可能性就越大（1）。尿酸水平因以下因素增高：
+肾脏（最常见）或胃肠道排泄减少 (2)
+肾脏（最常见）或胃肠道排泄减少 (2)
+合成增加 （shao'jian）
+合成增加 （shao'jian）
+嘌呤摄入量增加（通常伴随排泄量减少）一般只是次要因素
+嘌呤摄入量增加（通常伴随排泄量减少）一般只是次要因素
+但为何仅有部分血尿酸（尿酸盐）水平增高的人发生痛风目前仍不清楚。
+肾脏排泄减少是目前高尿酸血症最常见的原因(2)。可能具有遗传性（例如，由尿酸转运体效率变异引起），也常见于接受噻嗪类和袢利尿剂治疗的患者，以及肾小球滤过率（GFR）下降的疾病状态中。乙醇增加肝脏嘌呤代谢和乳酸合成，阻碍肾小管排泌尿酸盐，乙醇也可能刺激肝脏合成尿酸盐 (3)。
+尿酸生成增加可能是由于血液系统疾病（如淋巴瘤、白血病、溶血性贫血）中核蛋白周转率增加，以及细胞增殖和细胞死亡速率增加的情况（如牛皮癣、细胞毒性癌症治疗、肿瘤溶解综合征[4]、放射治疗）引起的。原发性遗传异常和肥胖也可能引起尿酸盐合成量增加，因为尿酸盐产生与体表面积有关 (5)。大多数病例尿酸过度产生的病因不明，但很少能归因于酶异常；次黄嘌呤-鸟嘌呤磷酸核糖基转移酶缺陷（完全缺乏是莱施-奈恩综合征）是一个可能的原因，磷酸核糖焦磷酸合成酶(6)的过度活性也是一个可能原因。
+增加摄入高嘌呤食物（如贝类、红肉、肝脏、肾脏、鳀鱼、芦笋、肉汤、鲱鱼、调味肉汁和肉汤、蘑菇、蚌、沙丁鱼、牛杂碎）可引起高尿酸血症（7）。啤酒，包括无酒精啤酒，特别富含鸟苷，一种嘌呤核苷 (8)。然而，严格的低嘌呤饮食仅能将血清尿酸降低约 1 mg/dL（0.1 mmol/L），因此对于痛风患者来说很少有足够的治疗方法。高果糖玉米糖浆还会刺激肝脏合成尿酸盐。虽然大多数患者的饮食对血清尿酸盐水平的影响较小，但过量摄入果糖可能改变炎症环境，增加免疫系统对尿酸沉积产生反应的可能，从而引发病情发作。
+尿酸盐沉淀为针状尿酸单钠（MSU）晶体，在细胞外沉积在无血管组织（如软骨）或相对无血管组织中（如肌腱、肌腱鞘、韧带、囊壁）和较冷远端关节和组织周围的皮肤（如耳朵、指垫）。在严重及患病时间长的病人中，单尿酸钠晶体可在中枢大关节及实质器官如肾脏中沉积。由于尿液pH呈酸性，尿酸易形成小盘状结构或菱形尿酸晶体，并聚集成结石，可导致泌尿道的梗阻。痛风石是MSU结晶聚集物，大多形成于关节或皮下组织中。它们通常被包裹在纤维肉芽肿基质中，从而防止它们引起急性炎症。
+急性痛风性关节炎可由创伤、医疗应激（如感染）、手术、使用噻嗪类利尿剂或具有降尿酸作用的药物（如别嘌呤醇、非布司他、丙磺舒、硝酸甘油）、或摄入富含嘌呤的食物或酒精引发（9）。痛风急性发作常由血尿酸水平的突然升高诱发，更多是由尿酸水平的突然降低引起 (10)。为何这些因素诱发急性发作尚不清楚。关节内或关节周围的痛风结节能限制关节活动，导致残疾，产生慢性痛风石痛风性关节炎。痛风增加继发性骨关节炎的风险 (11)。
+
+【病理生理学参考文献】
+1.Choi HK, Mount DB, Reginato AM; American College of Physicians; American Physiological Society. Pathogenesis of gout.Ann Intern Med.2005;143(7):499-516.doi:10.7326/0003-4819-143-7-200510040-00009
+1.Choi HK, Mount DB, Reginato AM; American College of Physicians; American Physiological Society. Pathogenesis of gout.Ann Intern Med.2005;143(7):499-516.doi:10.7326/0003-4819-143-7-200510040-00009
+2.Perez-Ruiz F, Calabozo M, Erauskin GG, Ruibal A, Herrero-Beites AM.Renal underexcretion of uric acid is present in patients with apparent high urinary uric acid output.Arthritis Rheum.2002;47(6):610-613.doi:10.1002/art.10792
+2.Perez-Ruiz F, Calabozo M, Erauskin GG, Ruibal A, Herrero-Beites AM.Renal underexcretion of uric acid is present in patients with apparent high urinary uric acid output.Arthritis Rheum.2002;47(6):610-613.doi:10.1002/art.10792
+3.Yamamoto T, Moriwaki Y, Takahashi S.Effect of ethanol on metabolism of purine bases (hypoxanthine, xanthine, and uric acid).Clin Chim Acta.2005;356(1-2):35-57.doi:10.1016/j.cccn.2005.01.024
+3.Yamamoto T, Moriwaki Y, Takahashi S.Effect of ethanol on metabolism of purine bases (hypoxanthine, xanthine, and uric acid).Clin Chim Acta.2005;356(1-2):35-57.doi:10.1016/j.cccn.2005.01.024
+4.Howard SC, Jones DP, Pui CH.The tumor lysis syndrome [published correction appears inN Engl J Med.2018 Sep 13;379(11):1094.].N Engl J Med.2011;364(19):1844-1854.doi:10.1056/NEJMra0904569
+4.Howard SC, Jones DP, Pui CH.The tumor lysis syndrome [published correction appears inN Engl J Med.2018 Sep 13;379(11):1094.].N Engl J Med.2011;364(19):1844-1854.doi:10.1056/NEJMra0904569
+5.Choi HK, Ford ES.Prevalence of the metabolic syndrome in individuals with hyperuricemia.Am J Med.2007;120(5):442-447.doi:10.1016/j.amjmed.2006.06.040
+5.Choi HK, Ford ES.Prevalence of the metabolic syndrome in individuals with hyperuricemia.Am J Med.2007;120(5):442-447.doi:10.1016/j.amjmed.2006.06.040
+6.Torres RJ, Puig JG.Hypoxanthine-guanine phosophoribosyltransferase (HPRT) deficiency: Lesch-Nyhan syndrome.Orphanet J Rare Dis.2007;2:48.Published 2007 Dec 8.doi:10.1186/1750-1172-2-48
+6.Torres RJ, Puig JG.Hypoxanthine-guanine phosophoribosyltransferase (HPRT) deficiency: Lesch-Nyhan syndrome.Orphanet J Rare Dis.2007;2:48.Published 2007 Dec 8.doi:10.1186/1750-1172-2-48
+7.Choi HK, Atkinson K, Karlson EW, Willett W, Curhan G.Purine-rich foods, dairy and protein intake, and the risk of gout in men.N Engl J Med.2004;350(11):1093-1103.doi:10.1056/NEJMoa035700
+7.Choi HK, Atkinson K, Karlson EW, Willett W, Curhan G.Purine-rich foods, dairy and protein intake, and the risk of gout in men.N Engl J Med.2004;350(11):1093-1103.doi:10.1056/NEJMoa035700
+8.Choi HK, Atkinson K, Karlson EW, Willett W, Curhan G.Alcohol intake and risk of incident gout in men: a prospective study.Lancet.2004;363(9417):1277-1281.doi:10.1016/S0140-6736(04)16000-5
+8.Choi HK, Atkinson K, Karlson EW, Willett W, Curhan G.Alcohol intake and risk of incident gout in men: a prospective study.Lancet.2004;363(9417):1277-1281.doi:10.1016/S0140-6736(04)16000-5
+9.Helget LN, Mikuls TR.Environmental Triggers of Hyperuricemia and Gout.Rheum Dis Clin North Am.2022;48(4):891-906.doi:10.1016/j.rdc.2022.06.009
+9.Helget LN, Mikuls TR.Environmental Triggers of Hyperuricemia and Gout.Rheum Dis Clin North Am.2022;48(4):891-906.doi:10.1016/j.rdc.2022.06.009
+10.Urano W, Yamanaka H, Tsutani H, et al.The inflammatory process in the mechanism of decreased serum uric acid concentrations during acute gouty arthritis.J Rheumatol.2002;29(9):1950-1953.
+10.Urano W, Yamanaka H, Tsutani H, et al.The inflammatory process in the mechanism of decreased serum uric acid concentrations during acute gouty arthritis.J Rheumatol.2002;29(9):1950-1953.
+11.Yokose C, Chen M, Berhanu A, Pillinger MH, Krasnokutsky S.Gout and Osteoarthritis: Associations, Pathophysiology, and Therapeutic Implications.Curr Rheumatol Rep.2016;18(10):65.doi:10.1007/s11926-016-0613-9
+11.Yokose C, Chen M, Berhanu A, Pillinger MH, Krasnokutsky S.Gout and Osteoarthritis: Associations, Pathophysiology, and Therapeutic Implications.Curr Rheumatol Rep.2016;18(10):65.doi:10.1007/s11926-016-0613-9
+
+【痛风的症状和体征】
+足痛风，即第一跖趾关节的急性疼痛，伴有红肿，压痛和肿胀，是急性痛风的常见表现。
+© Springer Science+Business Media
+急性痛风性关节炎常以突发疼痛起病（一般为单关节）。第一跖趾关节最常见（足痛风），足弓、踝关节、膝关节、腕关节和肘关节等也是常见发病部位。髋关节、肩关节、骶髂关节、胸锁关节、颈椎关节很少累及。疼痛进行性加重，持续数小时，呈剧痛。体征类似于急性感染，有肿胀、局部发热、红及明显触痛等，局部皮肤紧张、发热、有光泽，外观呈暗红色或紫红色。可发生包括发热、心悸、寒战及不适等全身表现。
+最初几次发作通常仅影响单个关节，并会在 7 至 10 天内自行缓解（1）。但后来则可同时或相继侵犯多个关节，若未经治疗可持续3周。随着病情的进展无症状间歇期愈来愈短，随后发作。最后，每年会发作多次。如果不开始持续的降尿酸治疗，患者可能会因持续的尿酸盐沉积而从痛风石发展为慢性变形性关节炎。
+上图显示了由痛风石引起的手指硬结节、肿胀和浆液性引流物。下图显示了手部屈曲畸形的痛风石，还可能伴有多关节骨和软骨的破坏性侵蚀。
+© Springer Science+Business Media
+该图像显示了右膝髌前滑囊中突出的石质沉积物。
+© Springer Science+Business Media
+痛风患者会出现可触及的痛风石，而从未患过急性痛风性关节炎的患者很少会出现痛风石。 痛风石表现为单个或多发坚硬的黄色或白色突起或结节。可在不同的部位形成，多见于手指、手、足或鹰嘴、跟腱周围。痛风石亦可发生于肾脏及其它脏器，或者耳朵皮下。有Heberden结节的骨关节炎患者可在结节处形成痛风石。这种发展最常发生在服用利尿剂的老年妇女身上，她们可能会严重发炎并被误诊为炎性骨关节炎。平常无痛，尤其是位于鹰嘴滑囊处的痛风石可发生急性炎症和疼痛，常在轻微的或不适当的损伤后出现。痛风石可以通过皮肤向外溃破，分解成由尿酸盐结晶构成的白垩石碎块。 这些窦道可能会被感染。 关节内和周围的痛风石最终能导致关节畸形和继发性骨关节炎。
+
+【痛风的并发症】
+痛风性关节炎可引起疼痛、残疾和关节活动受限。关节炎症在一些关节消退的同时也可以在另一些关节出现。痛风患者发展为尿酸性结石或草酸钙结石所致的尿石症。
+痛风的并发症包括泌尿系统梗阻和感染，从而继发肾小管间质性疾病。如未经治疗肾功能不全进一步发展，往往与并发高血压有关，其次导致肾病，进一步影响尿酸盐的排泄，加速组织中晶体的析出。
+急性发作后心肌梗死的发生率增加（2）。心血管疾病、阻塞性睡眠呼吸暂停、代谢功能障碍相关性肝病（MASLD）以及代谢综合征的各项组成成分在痛风患者中较为常见。
+
+【症状和体征参考】
+1.Neogi T.Clinical practice.Gout.N Engl J Med.2011;364(5):443-452.doi:10.1056/NEJMcp1001124
+1.Neogi T.Clinical practice.Gout.N Engl J Med.2011;364(5):443-452.doi:10.1056/NEJMcp1001124
+2.Cipolletta E, Tata LJ, Nakafero G, Avery AJ, Mamas MA, Abhishek A.Association Between Gout Flare and Subsequent Cardiovascular Events Among Patients With Gout.JAMA.2022;328(5):440-450.doi:10.1001/jama.2022.11390
+2.Cipolletta E, Tata LJ, Nakafero G, Avery AJ, Mamas MA, Abhishek A.Association Between Gout Flare and Subsequent Cardiovascular Events Among Patients With Gout.JAMA.2022;328(5):440-450.doi:10.1001/jama.2022.11390
+
+【痛风的诊断】
+病史和体格检查
+病史和体格检查
+滑液分析
+滑液分析
+当患者出现急性单关节炎或寡关节炎时就应怀疑痛风，尤其是老年人或具有痛风危险因素者。足痛风或反复足背关节炎特别要考虑痛风。既往关节炎的急性发作并在7至10天内自发性缓解也具有特异性。相似的症状见于：
+急性焦磷酸钙关节炎（二羟焦磷酸钙（CPPD）晶体沉积病）（但是焦磷酸钙沉积一般侵犯大关节，无痛风石，临床病程较缓和但持续时间较长）
+急性焦磷酸钙关节炎（二羟焦磷酸钙（CPPD）晶体沉积病）（但是焦磷酸钙沉积一般侵犯大关节，无痛风石，临床病程较缓和但持续时间较长）
+急性风湿热伴关节受累和青少年特发性关节炎（然而，这些疾病主要发生在年轻人中，他们很少患痛风，前者通常是游走性的，关节积液极少）
+急性风湿热伴关节受累和青少年特发性关节炎（然而，这些疾病主要发生在年轻人中，他们很少患痛风，前者通常是游走性的，关节积液极少）
+类风湿关节炎(RA)（但RA通常呈对称性、持续性：发作时累及更多关节，发作持续时间更长，所有关节症状同步消退；而痛风通常在部分关节发作的同时其他关节症状已消退）
+类风湿关节炎(RA)（但RA通常呈对称性、持续性：发作时累及更多关节，发作持续时间更长，所有关节症状同步消退；而痛风通常在部分关节发作的同时其他关节症状已消退）
+无法提供受伤史的患者的急性骨折（尤其是跖骨应力性骨折）
+无法提供受伤史的患者的急性骨折（尤其是跖骨应力性骨折）
+急性感染性关节炎和慢性感染性关节炎（需关节滑液分析进行鉴别）
+急性感染性关节炎和慢性感染性关节炎（需关节滑液分析进行鉴别）
+回纹型风湿症
+回纹型风湿症
+碱性磷酸钙引起的急性钙化性关节周围炎
+碱性磷酸钙引起的急性钙化性关节周围炎
+回纹型风湿病的特征是关节内或关节周围（偶尔为多个关节或腱鞘）出现急性、反复发作的炎症，且可自发缓解；疼痛程度可与痛风相当。发作通常自行且完全消退，但可能持续数天至数周。此类发作可能预示着 RA 的发生，类风湿因子和抗环瓜氨酸肽（抗 CCP）抗体的存在有助于鉴别；约 50% 的患者呈阳性（1）。
+这张照片显示了由痛风石引起的大面积侵蚀，涉及大脚趾的远端跖骨和近端指骨。
+Image courtesy of N.Lawrence Edwards, MD.
+这张照片显示了左第三脚趾的一个大痛风石，它已经分解并释放出硬化的尿酸。The radiograph on the right shows erosion of the middle phalanx and distal interphalangeal joint.
+Images courtesy of Brian F.Mandell, MD.
+
+【滑膜液分析】
+如果怀疑有急性痛风性关节炎，在症状初发时应该行关节穿刺术和关节液分析 (2)。既往有记录的痛风患者的典型复发不需要进行关节穿刺，但如果诊断有任何问题，或者患者的风险因素或任何临床特征提示感染性关节炎，则应进行关节穿刺 (3, 4)。在某些情况下，可以根据患者的病史和临床特征或在无法获得关节液的情况下根据影像学结果合理推测痛风的诊断；但是，应尽一切努力记录受累关节滑液中是否存在 MSU 晶体。
+用偏光显微镜和红色补偿滤光片拍摄的这张图像中可以看到，从痛风结节中吸出的明亮双折射的针状尿酸盐晶体。负双折射晶体平行于补偿器的光轴时呈黄色，而垂直于补偿器光轴时则呈蓝色。
+By permission of the publisher.From Myers S:Atlas of Rheumatology.Edited by G Hunder.Philadelphia, Current Medicine, 2005.
+滑液分析发现针状强负性双折射尿酸盐结晶游离在关节炎中，或被吞噬细胞所吞噬可帮助明确诊断。发作时关节液具有炎症特点（参见表关节晶体的显微镜检查），白细胞计数通常为2,000～100,000个/μL，其中多形核白细胞占>80%(5)。这些表现很大程度上与感染性关节炎重叠，但后者可通过革兰氏染色（不敏感）和细菌培养排除 (4)。
+
+【关节内结晶的显微镜检查】
+关节内结晶的显微镜检查
+晶体种类
+双折射性
+伸展度*
+长度（微米）
+单尿酸钠
+针形或杆状
+2–15
+二羟焦磷酸钙
+弱或通常没有双侧折射
+菱形或杆状
+2–15
+草酸钙（罕见）†
+正性或中性
+5–30
+碱性磷酸钙
+偏振光下无双折射性
+有光泽、硬币状或略微不规则的团块（通常因太小而无法描绘）
+3-65（聚集）
+* 伸长率是通过在显微镜的两个偏光板之间插入额外的红色板或补偿器并将晶体与表示慢振动轴的定向箭头对齐来确定的。具有负性伸展性的结晶呈黄色，正性伸展性的结晶呈蓝色。在临床实践中，这些也被称为负或正双折射。
+†此类晶体原发于肾衰患者
+* 伸长率是通过在显微镜的两个偏光板之间插入额外的红色板或补偿器并将晶体与表示慢振动轴的定向箭头对齐来确定的。具有负性伸展性的结晶呈黄色，正性伸展性的结晶呈蓝色。在临床实践中，这些也被称为负或正双折射。
+†此类晶体原发于肾衰患者
+
+【血清尿酸水平】
+血清尿酸盐水平升高支持痛风的诊断，但其敏感性和特异性都不高。至少30%患者在急性发作时血尿酸正常，部分原因是促炎细胞因子白细胞介素 6 (IL-6) 的促尿酸排泄特性，或者是因为血清尿酸盐的突然降低导致了发作 (6)。 但是，间歇期血尿酸水平反映细胞外可溶性尿酸盐池的容积。 在患者初诊痛风时，应测定血尿酸水平2~3次，以确定基线水平。开始治疗后血清尿酸盐水平可能立即降低，但只要组织沉积物仍然存在，就会继续发生痛风。开始治疗后，尿酸盐沉积物的溶解可能需要数月时间。
+
+【慢性痛风性关节炎的诊断】
+受累关节慢性积液中的滑液检测通常具有诊断性。如果通过滑液分析已确诊急性痛风，则不必进行受累关节的X光检查，且很少在第一次发作时就能显示骨侵蚀。
+有持续性不明原因关节疾病或皮下、骨性痛风石的患者应考虑慢性痛风性关节炎。第一跖趾关节或其他受累关节的X线平片有助诊断。受累关节的X线检查可显示出软骨下骨的穿凿样病变，通常见于第一跖趾关节。这种现象只有在骨破坏直径≥5mm时才能在X线片上显示出来。关节间隙通常保留，直到病程晚期。
+诊断性超声被越来越多地用于检测一种典型的提示尿酸盐晶体沉积的双轨征，但灵敏度依赖于操作者，最后可能更难以与焦磷酸钙晶体沉积相鉴别。尿酸沉积在关节软骨（双边征）和临床上不显示的痛风石是特征性变化。 这些结果甚至可在痛风初次发作前出现。 双能 CT 扫描 (DECT) 也可以显示尿酸沉积，如果基于标准临床评估和测试的诊断不明确 (7)，尤其是无法进行滑液抽吸和分析时，双能 CT 扫描会很有用。没有任何影像学检查是完全准确的，尤其是在评估首次发作时。
+
+【诊断参考】
+1.Salvador G, Gomez A, Vinas O, et al.Prevalence and clinical significance of anti-cyclic citrullinated peptide and antikeratin antibodies in palindromic rheumatism.An abortive form of rheumatoid arthritis?.Rheumatology (Oxford).2003;42(8):972-975.doi:10.1093/rheumatology/keg268
+1.Salvador G, Gomez A, Vinas O, et al.Prevalence and clinical significance of anti-cyclic citrullinated peptide and antikeratin antibodies in palindromic rheumatism.An abortive form of rheumatoid arthritis?.Rheumatology (Oxford).2003;42(8):972-975.doi:10.1093/rheumatology/keg268
+2.Qaseem A, McLean RM, Starkey M, et al.Diagnosis of Acute Gout: A Clinical Practice Guideline From the American College of Physicians.Ann Intern Med.2017;166(1):52-57.doi:10.7326/M16-0569
+2.Qaseem A, McLean RM, Starkey M, et al.Diagnosis of Acute Gout: A Clinical Practice Guideline From the American College of Physicians.Ann Intern Med.2017;166(1):52-57.doi:10.7326/M16-0569
+3.Horowitz DL, Katzap E, Horowitz S, Barilla-LaBarca ML.Approach to septic arthritis.Am Fam Physician.2011;84(6):653-660.
+3.Horowitz DL, Katzap E, Horowitz S, Barilla-LaBarca ML.Approach to septic arthritis.Am Fam Physician.2011;84(6):653-660.
+4.Becker JA, Daily JP, Pohlgeers KM.Acute Monoarthritis: Diagnosis in Adults.Am Fam Physician.2016;94(10):810-816.
+4.Becker JA, Daily JP, Pohlgeers KM.Acute Monoarthritis: Diagnosis in Adults.Am Fam Physician.2016;94(10):810-816.
+5.Dore RK.The gout diagnosis.Cleve Clin J Med.2008;75 Suppl 5:S17-S21.doi:10.3949/ccjm.75.suppl_5.s17
+5.Dore RK.The gout diagnosis.Cleve Clin J Med.2008;75 Suppl 5:S17-S21.doi:10.3949/ccjm.75.suppl_5.s17
+6.Zhang J, Sun W, Gao F, et al.Changes of serum uric acid level during acute gout flare and related factors.Front Endocrinol (Lausanne).2023;14:1077059.Published 2023 Feb 21.doi:10.3389/fendo.2023.1077059
+6.Zhang J, Sun W, Gao F, et al.Changes of serum uric acid level during acute gout flare and related factors.Front Endocrinol (Lausanne).2023;14:1077059.Published 2023 Feb 21.doi:10.3389/fendo.2023.1077059
+7.Singh JA, Budzik JF, Becce F, Pascart T.Dual-energy computed tomography vs ultrasound, alone or combined, for the diagnosis of gout: a prospective study of accuracy.Rheumatology (Oxford).2021;60(10):4861-4867.doi:10.1093/rheumatology/keaa923
+7.Singh JA, Budzik JF, Becce F, Pascart T.Dual-energy computed tomography vs ultrasound, alone or combined, for the diagnosis of gout: a prospective study of accuracy.Rheumatology (Oxford).2021;60(10):4861-4867.doi:10.1093/rheumatology/keaa923
+
+【痛风的治疗】
+使用非甾体抗炎药 (NSAID)、秋水仙碱、糖皮质激素或白介素-1 (IL-1) 抑制剂终止急性发作
+使用非甾体抗炎药 (NSAID)、秋水仙碱、糖皮质激素或白介素-1 (IL-1) 抑制剂终止急性发作
+通过降低血清尿酸盐水平（通过用别嘌呤醇或非布司他减少尿酸盐产生，用尿酸酶替代疗法溶解沉积物或用丙磺舒增加尿酸盐排泄）来防止尿酸单钠（MSU）晶体的进一步沉积，减少急性发作发生率和溶解已有的痛风石
+通过降低血清尿酸盐水平（通过用别嘌呤醇或非布司他减少尿酸盐产生，用尿酸酶替代疗法溶解沉积物或用丙磺舒增加尿酸盐排泄）来防止尿酸单钠（MSU）晶体的进一步沉积，减少急性发作发生率和溶解已有的痛风石
+每天预防性应用秋水仙碱或一种NSAIDs以防止反复急性发作
+每天预防性应用秋水仙碱或一种NSAIDs以防止反复急性发作
+治疗高血压、高脂血症和肥胖症等并发症，并避免过量摄入嘌呤
+治疗高血压、高脂血症和肥胖症等并发症，并避免过量摄入嘌呤
+
+【急性fa'z的治疗】
+急性痛风发作的治疗方法是快速启动抗炎治疗以缓解疼痛并恢复功能，一线选择包括秋水仙碱、非甾体抗炎药和糖皮质激素（1,2）。这些药物的选择需个体化，主要取决于合并症和禁忌症。白细胞介素-1（IL-1）抑制剂（如阿那白滞素）可用于无法耐受一线治疗、存在一线治疗禁忌证或一线治疗无效的患者。
+非甾体抗炎药（NSAIDs）可有效治疗急性发作并且通常耐受性良好。但NSAIDs可引起许多并发症，包括胃肠道不适及出血，高钾血症，肌酐上升和体液潴留。老年人和脱水者使用NSAID有风险，尤其是有肾脏病史者。实际上使用任何一种抗炎剂量（高剂量）的NSAID都有效，并且可能在几小时内开始发挥镇痛作用。治疗应持续数天，待疼痛和炎症体征消失以避免病情反复。
+口服秋水仙碱，是一种传统疗法，如果在发病的早期使用则疗效显著；如果在急性发作的12-24小时内使用效果尤其显著。起始剂量0.6mg，可以在1小时后再给1.2mg的剂量；关节疼痛往往在给药12~24小时后改善，有时疼痛会在3~7天内停止，但通常需要持续给药才能达到缓解，这可能需要一些时间。 如患者对秋水仙碱能耐受，可持续使用0.6mg~1.2mg，1次/日，直至症状缓解。 肾功能不全和药物相互作用，特别是与CYP3A4抑制剂（如克拉霉素、抗真菌药和葡萄柚汁）以及某些他汀类药物的相互作用，可能需要减少剂量或使用其他治疗方法。胃肠道不适和腹泻是常见的不良反应。
+糖皮质激素用于治疗急性发作。对受累关节进行抽吸，随后进行关节内糖皮质激素注射（针对非疑似化脓性关节炎患者），此方法非常有效，特别是对于单关节症状；可以使用曲安奈德或醋酸甲泼尼龙，剂量取决于受累关节的大小。口服泼尼松（约 0.5 mg/kg，每日一次，逐渐减量）或甲泼尼龙、肌肉注射或静脉注射糖皮质激素可能有效，特别是当多个关节受累时。与非甾体抗炎药（NSAID）治疗类似，糖皮质激素应在病情完全缓解后继续使用几天，以防止复发。
+如果单药治疗无效，或者由于毒性限制了剂量（例如，非甾体抗炎药的剂量），可以将秋水仙碱与非甾体抗炎药或糖皮质激素联合使用。
+除了非甾体抗炎药（NSAIDs）或糖皮质激素外，补充镇痛药、休息、冰敷以及对炎症关节进行夹板固定也可能有帮助。如果患者在急性发作期正在服用降尿酸药物，应继续维持原剂量；症状消失后再考虑调整剂量。如果提供适当的抗炎治疗，那么在急性发作期间开始降尿酸治疗没有禁忌症
+如果糖皮质激素、秋水仙碱和非甾体抗炎药存在禁忌或无效，可以使用白细胞介素-1抑制剂，如阿那白滞素（3）。 阿那白滞素可尽快缓解症状，对多种并发症并有其它药物使用限制的患者还可以缩短住院时间。 阿那白滞素一般每天给予100 mg 皮下注射，直到症状消失。Anakinra 具有不影响葡萄糖水平或肾功能或导致液体潴留的优点，可用于正在接受适当治疗的活动性感染患者。由于考虑到成本因素，阿那白滞素通常不用于门诊治疗急性痛风发作。
+
+【预防急性发作复发】
+通过每天服用0.6mg秋水仙碱一次或两次（根据耐受性和肾功能，每天最多1.2mg）来减少急性发作的频率。 当发现急性发作的第一征兆时，立即额外服用一次秋水仙碱0.6mg，常能制止痛风发作。 若患者正在服用预防剂量的秋水仙碱，并且在过去 2 周内已使用较高剂量的秋水仙碱治疗急性发作，则应改用 NSAID 或糖皮质激素，以尝试终止此次发作。
+长期服用秋水仙碱可发生可逆性神经病和/或肌病。这种情况更有可能发生在肾功能不全的患者中，以及同时接受某些他汀类药物或大环内酯类药物治疗的患者中，但在没有任何这些危险因素的患者中很少发生。对于肾功能不全的患者或正在服用 CYP3A4 抑制剂的患者，应减少秋水仙碱的剂量或避免使用。
+如果肾功能情况较好，每日服用低剂量NSAIDs可降低发作频率。长期应用糖皮质激素并非理想的预防性治疗措施，因为其可能带来不良反应。
+
+【降低血尿酸水平】
+秋水仙碱、非甾体抗炎药和糖皮质激素都不能延缓痛风石引起的进行性关节损伤，因为它们不能降低血清尿酸水平或溶解尿酸单钠结晶。降尿酸药物可以预防关节损伤，如果已有关节损伤，该药物则可以减轻关节损伤痛风石沉积物通过降低血清尿酸盐或用尿酸酶替代疗法溶解而被再吸收。将血清尿酸水平维持在饱和点以下（目标通常为 < 6 mg/dL [< 0.35 mmol/L]）最终会随着沉积物的溶解而降低急性关节炎发作的频率。可通过以下途径达到这一作用：
+通过黄嘌呤氧化酶抑制剂（别嘌醇或非布索坦）阻断尿酸合成
+通过黄嘌呤氧化酶抑制剂（别嘌醇或非布索坦）阻断尿酸合成
+通过促尿酸排泄剂增加尿酸的排出（丙磺舒或洛sha'tan）
+通过促尿酸排泄剂增加尿酸的排出（丙磺舒或洛sha'tan）
+在严重的痛风石痛风或不能耐受较高剂量 XOI 的患者中同时使用两种类型的药物
+在严重的痛风石痛风或不能耐受较高剂量 XOI 的患者中同时使用两种类型的药物
+通过将尿酸盐转化为更易溶解且更容易排出的尿囊素来增加尿酸盐排泄，对患有严重痛风石或对其他降尿酸疗法无反应的患者进行尿酸酶替代疗法
+通过将尿酸盐转化为更易溶解且更容易排出的尿囊素来增加尿酸盐排泄，对患有严重痛风石或对其他降尿酸疗法无反应的患者进行尿酸酶替代疗法
+降尿酸治疗适用以下患者：
+痛风石沉积
+痛风石沉积
+影像学检查显示痛风导致关节损伤的证据
+影像学检查显示痛风导致关节损伤的证据
+痛风性关节炎的频繁发作或致残性发作（例如，≥ 2 次发作/年）
+痛风性关节炎的频繁发作或致残性发作（例如，≥ 2 次发作/年）
+尿酸性尿路结石
+尿酸性尿路结石
+不常发作但血清尿酸水平 > 9mg/dL (> 0.5 mmol/L) 或任何发作都会造成特别困难的患者
+不常发作但血清尿酸水平 > 9mg/dL (> 0.5 mmol/L) 或任何发作都会造成特别困难的患者
+存在多种合并症（如：消化性溃疡、慢性肾脏病）是治疗复发性急性发作药物（NSAIDs或糖皮质激素）的相对禁忌证
+存在多种合并症（如：消化性溃疡、慢性肾脏病）是治疗复发性急性发作药物（NSAIDs或糖皮质激素）的相对禁忌证
+在没有痛风发作或尿酸肾结石的情况下，通常不需要治疗高尿酸血症。
+降尿酸治疗的目标是降低血清尿酸水平。如无痛风石，合理的降尿酸目标是血尿酸水平<6mg/dl（< 0.35mmol/L），这低于尿酸的饱和度（>6.8mg/dL[>0.40mmol/L]正常中心体温和pH值条件下）。令人信服的数据表明，当血清尿酸盐水平降低至 < 6 mg/dL 时，使用这种靶向治疗策略可降低发作频率。两项随机对照试验已证实，血尿酸水平低于 6 mg/dL 的患者发生痛风发作的显著几率低于血尿酸水平较高的患者。具有目标血清尿酸（<6 mg/dL）的痛风患者比高于目标血清尿酸阈值（<6 mg/dL）的痛风患者痛风发作几率少（4)。
+如果存在可触及的痛风石，或者痛风石沉积物能造成明显的功能障碍，则合理的目标是更快地溶解它们，并且需要达到较低的目标水平。血清尿酸盐水平越低，痛风石溶解越快。在假定沉积物完全溶解后，可以允许血清尿酸盐增加到 < 6 mg/dL 的水平。
+药物可有效降低血尿酸，限制嘌呤饮食的效果一般，但应避免大量摄入高嘌呤食物，应避免食用酒（尤其是啤酒）和非酒精性啤酒。限制碳水化合物（尤其是避免高果糖玉米糖浆）和减轻体重可以降低血清尿酸盐水平，尤其是在胰岛素抵抗患者中，因为高胰岛素水平会抑制尿酸排泄。应鼓励食用低脂奶制品。由于在降尿酸治疗开始的最初几个月内易发生痛风急性发作，因此治疗同时也应联用秋水仙碱或NSAIDs预防发作，1~2次/日。
+即使持续低水平血尿酸，痛风石也需要数月才能溶解。应定期检测血尿酸，一般每月一次定期检测血清尿酸盐浓度来调节药物的剂量，其后如果有药物变化或体重增加，应至少每年检测一次或更频繁以确认疗效。如果患者出现发作，不应停止降尿酸治疗。
+别嘌呤醇，是尿酸盐合成的黄嘌呤氧化酶抑制剂，是最常用的处方和优选的初始降尿酸治疗。尿酸结石能通过别嘌呤醇治疗得到溶解。治疗通常始于每天一次，每次50~100mg口服，剂量可以缓慢递增至800mg口服，每天一次。如果单次每日给药会导致胃肠道不适，则可以分开服用。部分临床医生建议在肾功能不全患者中降低起始剂量（如肌酐清除率 <60 mL/min/1.73 m2时口服 50 mg，每日一次），以期降低罕见但严重的全身性超敏反应发生率；然而，支持这一策略有效性的证据有限。别嘌呤醇的最终剂量应由目标血清尿酸水平来确定。最常用的日剂量为300mg，该剂量仅能使不到40%的痛风患者血尿酸值降至＜6mg/dL (< 0.35mmol/L)。在剂量高于300mg时，别嘌醇的吸收可能会降低，因此应考虑分次给药（例如，每天两次给药）。
+别嘌醇的不良反应主要有轻度胃肠道不适、皮疹（可能是Steven-Johnson综合征的前兆）、致命性的肝炎、血管炎和白细胞减少。不良反应在肾功能不全患者中更常见。HLA-B*5801 携带者有更高的风险患别嘌呤醇过敏综合征（包括严重的皮肤不良反应），且HLA-B*5801 患病率因种族而异（5）。因此，专家指导建议在东南亚裔（例如，汉族人、韩国人、泰国人）和非裔美国患者接受治疗前进行 HLA B*5801 等位基因检测，如果存在该基因标记，则使用替代药物（6）。别嘌呤醇禁用于服用硫唑嘌呤或巯基嘌呤的患者，因为它可以减少这些药物的代谢，从而增强其免疫抑制和细胞溶解作用。肝转氨酶水平可能升高，应定期测量。
+非布司他是一个更加昂贵（在美国）但强效的尿酸合成的黄嘌呤氧化酶抑制剂。它可在病人不耐受别嘌醇，或存在别嘌醇禁忌，或别嘌呤醇降尿酸效果不佳时使用。非布司他似乎与别嘌醇(7) 一样有效地预防急性痛风发作。非布司他开始时每天口服一次20–40mg，如果尿酸盐没有降至<6 mg/dL (< 0.35 mmol/L)，则增加到每天口服一次80至120mg。非布司他（同别嘌呤醇一样）在服用硫唑嘌呤或巯基嘌呤的患者禁忌，因为它可以减少这些药物的代谢。在一项针对已知心血管疾病患者的研究中显示，和别嘌醇相比，非布司他增加了死亡风险（8)，但其他几项研究尚未证实这一观察结果 (9）。非布索坦可导致转氨酶可升高，需定期监测。
+聚乙二醇重组尿酸氧化酶是重组尿酸酶的聚乙二醇化形式。尿酸酶是一种人体中不存在的酶，可将尿酸盐转化为尿囊素，尿囊素更易溶。Pegloticase昂贵，主要用于其他治疗未能成功降低血清尿酸水平的痛风患者。聚乙二醇化酶也可用于具有高负担的痛风石沉积物的患者，这些沉积物在合理的时间内不可能通过其他降尿酸疗法溶解。每2周静脉给药一次，疗程数月（通常给要6~9个月），以至完全清除过量尿酸盐沉积；它往往使血清尿酸水平降低至<1mg/dL (< 0.1 mmol/L)。聚乙二醇重组尿酸酶是G6PD缺乏患者的禁忌，因为它可以导致溶血和高铁血红蛋白血症。聚乙二醇化尿酸氧化酶静脉输注罕见可伴有与过敏性休克相符的症状。目前可用的制剂的有效性受到药物中和抗体的高速发展的限制。聚乙二醇重组尿酸酶治疗后，尿酸水平未能降低至<6mg/dL（< 0.35 mmol/L），则表明可能存在抗聚乙二醇（抗PEG）抗体，并增加未来过敏反应的风险，出现这种情况硬停止输注。为了防止其他降尿酸药物影响培戈洛酶的疗效，不应将这些降尿酸药物与培戈洛酶合用。免疫抑制剂（如甲氨蝶呤）与聚乙二醇化酶可能会阻止中和抗体的产生。
+促尿酸排泄治疗可能对那些尿酸排泄不足（大多数高尿酸血症患者）、肾功能正常且未患过肾结石的患者有用。丙磺舒是美国唯一可用的促尿酸排泄药物。如果别嘌呤醇和非布索坦都禁忌使用或不能耐受，丙磺舒可用作单药治疗。丙磺舒在肾功能减退时失效，并且通常不适用于肾小球滤过率<50 mL/min/1.73 m2的情况。当与黄嘌呤氧化酶抑制剂联合使用时，其效果显著，但很少需要。苯溴马隆是一种在美国以外地区可获得的更有效的促尿酸排泄药。
+抗高血压药氯沙坦和甘油三酯降低药非诺贝特均具有促尿酸排泄的效果，故可用于那些合并其他病因患者，从而降低尿酸。低剂量的水杨酸盐可能会减少尿酸排泄并加重高尿酸血症，但作用很小，如果在心血管疾病的二级预防中另有说明，则不应避免使用。
+
+【其他治疗】
+所有患者液体摄入最好≥3L/d，特别是那些长期患有尿酸盐结石的患者。
+除降低血尿酸治疗和充分水化外，碱化尿液（枸橼酸钾20~40mEq，口服，2次/日；或乙酰唑胺500mg，睡前口服）也是经降尿酸和充分水化治疗失败的顽固性尿酸盐结石患者的有效治疗方法。 但是，尿液过度碱化可能导致磷酸钙和草酸钙晶体的沉积。利用体外震波碎石粉碎肾结石。利用体外震波碎石粉碎肾结石。
+对于皮肤健康部位的大型痛风石，可考虑手术切除；其余痛风石则应通过积极的降尿酸治疗逐渐消退。
+
+【治疗参考文献】
+1.FitzGerald JD, Dalbeth N, Mikuls T, et al.2020 American College of Rheumatology Guideline for the Management of Gout [published correction appears in Arthritis Rheumatol. 2021 Mar;73(3):413. doi: 10.1002/art.41688.].Arthritis Rheumatol.2020;72(6):879-895.doi:10.1002/art.41247
+1.FitzGerald JD, Dalbeth N, Mikuls T, et al.2020 American College of Rheumatology Guideline for the Management of Gout [published correction appears in Arthritis Rheumatol. 2021 Mar;73(3):413. doi: 10.1002/art.41688.].Arthritis Rheumatol.2020;72(6):879-895.doi:10.1002/art.41247
+2.Qaseem A, Harris RP, Forciea MA, et al.Management of Acute and Recurrent Gout: A Clinical Practice Guideline From the American College of Physicians.Ann Intern Med.2017;166(1):58-68.doi:10.7326/M16-0570
+2.Qaseem A, Harris RP, Forciea MA, et al.Management of Acute and Recurrent Gout: A Clinical Practice Guideline From the American College of Physicians.Ann Intern Med.2017;166(1):58-68.doi:10.7326/M16-0570
+3.Schlesinger N, Pillinger MH, Simon LS, Lipsky PE.Interleukin-1β inhibitors for the management of acute gout flares: a systematic literature review.Arthritis Res Ther.2023;25(1):128.Published 2023 Jul 25.doi:10.1186/s13075-023-03098-4
+3.Schlesinger N, Pillinger MH, Simon LS, Lipsky PE.Interleukin-1β inhibitors for the management of acute gout flares: a systematic literature review.Arthritis Res Ther.2023;25(1):128.Published 2023 Jul 25.doi:10.1186/s13075-023-03098-4
+4.Stamp LK, Frampton C, Morillon MB, et al.Association between serum urate and flares in people with gout and evidence for surrogate status: a secondary analysis of two randomised controlled trials.Lancet Rheumatol4: e53-e60, 2022.doi.org/10.1016/S2665-9913(21)00319-2
+4.Stamp LK, Frampton C, Morillon MB, et al.Association between serum urate and flares in people with gout and evidence for surrogate status: a secondary analysis of two randomised controlled trials.Lancet Rheumatol4: e53-e60, 2022.doi.org/10.1016/S2665-9913(21)00319-2
+5.Jutkowitz E, Dubreuil M, Lu N, et al:.The cost-effectiveness of HLA-B*5801 screening to guide initial urate-lowering therapy for gout in the United States.Semin Arth Rheum46:594-600, 2017.doi: 10.1016/j.semarthrit.2016.10.009
+5.Jutkowitz E, Dubreuil M, Lu N, et al:.The cost-effectiveness of HLA-B*5801 screening to guide initial urate-lowering therapy for gout in the United States.Semin Arth Rheum46:594-600, 2017.doi: 10.1016/j.semarthrit.2016.10.009
+6.FitzGerald JD, Dalbeth N, Mikuls T, et al.2020 American College of Rheumatology Guideline for the Management of Gout [published correction appears in Arthritis Care Res (Hoboken). 2020 Aug;72(8):1187. doi: 10.1002/acr.24401.] [published correction appears in Arthritis Care Res (Hoboken). 2021 Mar;73(3):458. doi: 10.1002/acr.24566.].Arthritis Care Res (Hoboken).2020;72(6):744-760.doi:10.1002/acr.24180.Erratum.Arthritis Care Res (Hoboken).2021;73(3):458.doi:10.1002/acr.24566
+6.FitzGerald JD, Dalbeth N, Mikuls T, et al.2020 American College of Rheumatology Guideline for the Management of Gout [published correction appears in Arthritis Care Res (Hoboken). 2020 Aug;72(8):1187. doi: 10.1002/acr.24401.] [published correction appears in Arthritis Care Res (Hoboken). 2021 Mar;73(3):458. doi: 10.1002/acr.24566.].Arthritis Care Res (Hoboken).2020;72(6):744-760.doi:10.1002/acr.24180.Erratum.Arthritis Care Res (Hoboken).2021;73(3):458.doi:10.1002/acr.24566
+7.O'Dell JR, Brophy MT, Pillinger MH, et al.Comparative effectiveness ofallopurinolandfebuxostatin gout management.NEJM Evid1(3):10.1056/evidoa2100028, 2022.doi: 10.1056/evidoa2100028.
+7.O'Dell JR, Brophy MT, Pillinger MH, et al.Comparative effectiveness ofallopurinolandfebuxostatin gout management.NEJM Evid1(3):10.1056/evidoa2100028, 2022.doi: 10.1056/evidoa2100028.
+8.White WR, Saag KG, Becker MA, et al.Cardiovascular safety of febuxostat or allopurinol in patients with gout.N Engl J Med.378:1200-1210, 2018.doi: 10.1056/NEJMoa1710895
+8.White WR, Saag KG, Becker MA, et al.Cardiovascular safety of febuxostat or allopurinol in patients with gout.N Engl J Med.378:1200-1210, 2018.doi: 10.1056/NEJMoa1710895
+9.Mackenzie IS, Ford I, Nuki G, et al.Long-term cardiovascular safety offebuxostatcompared withallopurinolin patients with gout (FAST): a multicentre, prospective, randomised, open-label, non-inferiority trial.Lancet.396(10264):1745-1757, 2020.doi: 10.1016/S0140-6736(20)32234-0
+9.Mackenzie IS, Ford I, Nuki G, et al.Long-term cardiovascular safety offebuxostatcompared withallopurinolin patients with gout (FAST): a multicentre, prospective, randomised, open-label, non-inferiority trial.Lancet.396(10264):1745-1757, 2020.doi: 10.1016/S0140-6736(20)32234-0
+
+【痛风的预后】
+通过早期痛风诊断，终生降尿酸治疗使大多数患者能够实现症状控制和保持关节功能。对进展期患者，积极降低血尿酸水平能溶解痛风石和改善关节功能。30岁以前出现首发症状的痛风患者和血尿酸水平>9mg/dL (> 0.5 mmol/L)的患者，其病情更为严重。然而，代谢综合征和心血管疾病的高患病率与痛风患者死亡率升高有关（1）。
+一部分人经过治疗不能完全缓解。通常的原因包括对患者的教育不足、不依从、酗酒，并且主要是由于医生对高尿酸血症的治疗不足。
+
+【预后参考】
+1.Schlesinger N, Elsaid MI, Rustgi VK.The relationship between metabolic syndrome severity and the risk of mortality in gout patients: a population-based study.Clin Exp Rheumatol.2022;40(3):631-633.doi:10.55563/clinexprheumatol/2rn9fv
+1.Schlesinger N, Elsaid MI, Rustgi VK.The relationship between metabolic syndrome severity and the risk of mortality in gout patients: a population-based study.Clin Exp Rheumatol.2022;40(3):631-633.doi:10.55563/clinexprheumatol/2rn9fv
+
+【无症状性高尿酸血症】
+无症状性高尿酸血症是指血尿酸升高>7mg/dL（>0.42mmol/L），但临床上无痛风发作。
+无症状性高尿酸血症通常无需治疗。大多数血清尿酸水平高达 10 mg/dL (0.6 mmol/L) 的无症状高尿酸血症患者在 10 年内不会出现痛风发作。然而，尿酸排泄过多和复发性尿酸肾结石患者可以接受别嘌呤醇治疗。
+累积的数据表明，高尿酸血症可能促进慢性肾脏疾病和心血管疾病的发展，以及促进青少年中原发性高血压的发生。高质量的证据并未一致证明降低血清尿酸水平可以减缓肾脏疾病的进展（1）。
+
+【参考文献】
+1.Sampson AL, Singer RF, Walters GD.Uric acid lowering therapies for preventing or delaying the progression of chronic kidney disease.Cochrane Database Syst Rev.2017;10(10):CD009460.Published 2017 Oct 30.doi:10.1002/14651858.CD009460.pub2
+1.Sampson AL, Singer RF, Walters GD.Uric acid lowering therapies for preventing or delaying the progression of chronic kidney disease.Cochrane Database Syst Rev.2017;10(10):CD009460.Published 2017 Oct 30.doi:10.1002/14651858.CD009460.pub2
+尽管嘌呤摄入量增加和产量增加可能导致高尿酸血症，但痛风最常见的原因是继发于肾脏疾病的尿酸排泄减少或尿酸转运蛋白效率的遗传变异。
+尽管嘌呤摄入量增加和产量增加可能导致高尿酸血症，但痛风最常见的原因是继发于肾脏疾病的尿酸排泄减少或尿酸转运蛋白效率的遗传变异。
+不明原因的急性单关节炎或少关节炎（特别是如果大脚趾或中足受到影响，或者有7至10天内自发缓解的突发的不明原因的急性关节炎发作史）需要怀疑痛风。
+不明原因的急性单关节炎或少关节炎（特别是如果大脚趾或中足受到影响，或者有7至10天内自发缓解的突发的不明原因的急性关节炎发作史）需要怀疑痛风。
+在关节液中发现针状强负性双折射尿酸盐结晶可确诊痛风;或通过双能 CT 扫描或超声成像。 高尿酸血症的记录不足以确认痛风性关节炎的诊断。
+在关节液中发现针状强负性双折射尿酸盐结晶可确诊痛风;或通过双能 CT 扫描或超声成像。 高尿酸血症的记录不足以确认痛风性关节炎的诊断。
+痛风急性发作时可选用口服秋水仙碱、NSAID、糖皮质激素、秋水仙碱联合NSAID或糖皮质激素进行治疗，或使用白细胞介素-1（IL-1）抑制剂。
+痛风急性发作时可选用口服秋水仙碱、NSAID、糖皮质激素、秋水仙碱联合NSAID或糖皮质激素进行治疗，或使用白细胞介素-1（IL-1）抑制剂。
+降低尿酸水平可治愈痛风并减少未来发作的风险，通常通过单独开具别嘌呤醇或非布索坦或与促尿酸排泄药物联合使用，目标是血清尿酸<6 mg / dL
+降低尿酸水平可治愈痛风并减少未来发作的风险，通常通过单独开具别嘌呤醇或非布索坦或与促尿酸排泄药物联合使用，目标是血清尿酸<6 mg / dL
+无症状高尿酸血症一般不需要治疗。
+无症状高尿酸血症一般不需要治疗。

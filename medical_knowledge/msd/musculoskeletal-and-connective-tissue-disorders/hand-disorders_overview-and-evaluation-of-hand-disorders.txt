@@ -1,0 +1,50 @@
+标题：手部疾病的概述与评估
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/hand-disorders/overview-and-evaluation-of-hand-disorders
+============================================================
+
+常见的手部疾病包括各种畸形、腱鞘囊肿、感染、金伯克（Kienböck ）病、神经压迫综合征、非感染性腱鞘炎和骨关节炎。（参见复杂的局限性疼痛综合征[反射性交感神经性营养不良]，和 手外伤）。
+在这个视图中，三角骨与豌豆骨重叠（背侧）并且没有标记。
+MEDICAL RF.COM/SCIENCE PHOTO LIBRARY
+
+【手部畸形】
+全身性疾病（如关节炎）或脱臼、骨折等关节局部病变均可导致手部畸形。大多数非创伤性局部关节病变可以通过体格检查确诊。一旦手部畸形定型，夹板、运动或其他非手术治疗方法均无法对畸形起到明显改善作用。
+
+【手部感染】
+手部感染通常分为表皮感染或深层感染。浅表感染涉及皮肤和皮下组织。深部感染可能涉及腱鞘、肌腱、深筋膜平面、关节间隙和骨骼。未经治疗的手部浅表感染可能发展为深部感染。及时评估和治疗疑似手部感染对于避免严重感染和残疾至关重要。
+常见的手部细菌感染包括甲沟炎、咬伤后感染、瘭疽、手掌脓肿和感染性的屈肌腱鞘炎。疱疹性瘭疽是一种病毒性的手部感染。感染常以持续性的、强烈的、搏动性的疼痛起病，通常可以通过体格检查进行诊断。 某些感染可以行X线检查（例如咬伤、感染性的屈肌腱鞘炎）来检测体内隐藏的异物，但无法检测到小的或射线可以通过的物体。如果怀疑感染来自血源性感染，应进行血培养，如果化脓性关节炎被怀疑。
+大多数手部感染的治疗包括外科治疗和抗生素。 发病率升高的社区获得性和院内感染性耐甲氧西林的金黄色葡萄球菌（MRSA）值得重视(1)。不复杂的MRSA感染最好通过切开引流治疗 (2)。如果耐甲氧西林金黄色葡萄球菌(MRSA)发病率高且感染严重，建议住院进行静脉抗生素治疗，并咨询传染病专家。对于门诊患者也可以选择甲氧苄啶/磺胺甲噁唑、克林霉素、多西环素或利奈唑胺口服治疗。一旦培养和药敏排除了MRSA，则可换用萘夫西林、氯唑西林、双氯西林或第1/2代头孢菌素治疗。对于亚急性炎症较重的患者，尤其是免疫抑制患者，应考虑非结核分枝杆菌感染。
+其他治疗措施包括抬高手以帮助减少水肿，有时还包括夹板。
+
+【手部神经压迫综合征】
+常见的神经压迫综合征包括腕管综合征、肘管综合征和桡管综合征。神经压迫常引起感觉异常；这些感觉异常经常在检查者指尖轻叩受压神经时被诱发（Tinel征）。通过神经传导速度和远端潜伏期检测可以明确受压的神经，该检测可以精确地测定运动和感觉神经的传导。 最初常采取保守治疗（包括休息、改善工作环境、夹板固定、皮质类固醇注射），但如果保守治疗无效或出现了明显的运动或感觉缺失，则必须行手术减压。
+
+【非感染性腱鞘炎】
+（也可以看看肌腱炎和腱鞘炎。
+腱鞘炎可能累及手中或手周围的任何肌腱。 常见情况包括指屈肌腱炎和腱鞘炎（触发手指）和De Quervain综合征。
+
+【参考文献】
+1.O'Malley M, Fowler J, Ilyas AM: Community-acquired methicillin-resistantStaphylococcus aureusinfections of the hand: Prevalence and timeliness of treatment.J Hand Surg Am34(3):504–508, 2009.doi: 10.1016/j.jhsa.2008.11.021.
+1.O'Malley M, Fowler J, Ilyas AM: Community-acquired methicillin-resistantStaphylococcus aureusinfections of the hand: Prevalence and timeliness of treatment.J Hand Surg Am34(3):504–508, 2009.doi: 10.1016/j.jhsa.2008.11.021.
+2.Chen WA, Plate JF, Li Z: Effect of setting of initial surgical drainage on outcome of finger infections.J Surg Orthop Adv24(1):36–41, 2015.PMID: 25830261.
+2.Chen WA, Plate JF, Li Z: Effect of setting of initial surgical drainage on outcome of finger infections.J Surg Orthop Adv24(1):36–41, 2015.PMID: 25830261.
+
+【手部疾病的概述与评估】
+病史和体格检查结果在手部疾病具有诊断意义。
+病史应包括任何可能与症状相关的创伤或其他事件的信息。要注明畸形出现、持续时间以及出现运动困难的具体情况。列出疼痛的出现、持续时间、严重程度和加重或缓解疼痛的因素。相关症状，如发烧、肿胀、皮疹、雷诺综合征、感觉异常、晨僵、其他关节受累、腰痛和虚弱等症状也被记录下来。
+
+【体格检查】
+体格检查应包括视诊有无红斑、肿胀、畸形和触诊有无压痛。检查主动运动范围明确可能的肌腱损伤。被动运动范围可以评估是否存在固定的畸形及特异性的动作是否会加重疼痛。用回形针的两头测两点辨别距可以检查感觉神经系统。运动功能检查应包括由桡神经、正中神经和尺神经支配的肌肉。血管检查应包括毛细血管充盈的评估、桡动脉和尺动脉搏动以及艾伦试验。应力测试在怀疑存在特定韧带损伤时（例如，猎场看守人拇指的尺侧副韧带）很有帮助。激发试验将有助于腱鞘炎和神经压迫综合征的诊断。
+实验室检查可以帮助炎性关节疾病（如类风湿关节炎）的诊断，但在其他方面的作用有限。滑液分析仍然是确诊的结晶性关节炎（例如，痛风或者焦磷酸钙关节炎） 和传染性关节炎的金标准。
+对于疑似痛风的患者，超声和双能 CT 成像可提供尿酸沉积的放射学证据，特别是在无法进行关节抽吸或关节抽吸不成功的情况下。
+X 光和 MRI 有助于检测损伤、某些类型的关节炎（例如骨关节炎，侵蚀性类风湿性关节炎）， 和金伯克病或者排除可能成为感染源的隐藏异物。
+MRI和超声检查可以帮助评估肌腱结构和完整性，并探测深部脓肿。高分辨率超声允许实时运动成像，特别有助于评估肌腱和滑膜炎。
+神经传导检查有助于诊断神经压迫综合征。MRI 和超声是可以确认周围神经受压的替代诊断测试，尽管它们不能提供有关神经功能的直接信息（1-3）。
+骨扫描在诊断隐匿性骨折时可作为MRI的替代检查手段，也可以帮助复合性局部疼痛综合征的诊断。
+
+【评估参考文献】
+1.Park JS, Won HC, Oh JY, Kim DH, et al: Value of cross-sectional area of median nerve by MRI in carpal tunnel syndrome.Asian J Surg43(6):654-659, 2020.doi: 10.1016/j.asjsur.2019.08.001.Epub 2019 Aug 28.PMID: 31473048.
+1.Park JS, Won HC, Oh JY, Kim DH, et al: Value of cross-sectional area of median nerve by MRI in carpal tunnel syndrome.Asian J Surg43(6):654-659, 2020.doi: 10.1016/j.asjsur.2019.08.001.Epub 2019 Aug 28.PMID: 31473048.
+2.Wiesler ER, Chloros GD, Cartwright MS, et al: Ultrasound in the diagnosis of ulnar neuropathy at the cubital tunnel.J Hand Surg Am31(7):1088-93, 2006.doi: 10.1016/j.jhsa.2006.06.007.PMID: 16945708.
+2.Wiesler ER, Chloros GD, Cartwright MS, et al: Ultrasound in the diagnosis of ulnar neuropathy at the cubital tunnel.J Hand Surg Am31(7):1088-93, 2006.doi: 10.1016/j.jhsa.2006.06.007.PMID: 16945708.
+3.Fowler JR, Munsch M, Tosti R, et al: Comparison of ultrasound and electrodiagnostic testing for diagnosis of carpal tunnel syndrome: study using a validated clinical tool as the reference standard.J Bone Joint Surg Am96(17):e148, 2014.doi: 10.2106/JBJS.M.01250.PMID: 25187592.
+3.Fowler JR, Munsch M, Tosti R, et al: Comparison of ultrasound and electrodiagnostic testing for diagnosis of carpal tunnel syndrome: study using a validated clinical tool as the reference standard.J Bone Joint Surg Am96(17):e148, 2014.doi: 10.2106/JBJS.M.01250.PMID: 25187592.

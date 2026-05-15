@@ -1,0 +1,39 @@
+标题：紫锥菊
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/echinacea
+============================================================
+
+紫锥菊，一种北美产的野花，含有一系列生物活性物质。
+
+【紫锥菊的宣称功效】
+紫锥菊据说可启动免疫系统。据说在感冒初期服用紫锥菊可缩短感冒症状的病程。设计良好的试验并未证明这一点。
+局部使用的制剂被用于促进伤口愈合。
+
+【紫锥菊的证据】
+紫锥菊对普通感冒的预防和/或治疗作用的研究是不一致的。不一致最大的因素是植物制剂（包括不同的植物部分和种类）和最终的补充组合物的可变性。
+2014年，Cochrane对24项研究（4631名参与者）进行了回顾，评估了多种用于预防或治疗感冒的紫锥菊产品 (1)。尽管事后汇总的预防研究表明相对危险度降低了10％至20％，但没有证据显示预防有任何益处。作者得出结论：部分产品疗效有限。一项后续的随机试验荟萃分析评估了紫锥菊对上呼吸道感染的预防效果、病程缩短作用及安全性（2）。对预防效果显著，但对症状持续时间无改良作用且未发现安全性风险。然而，局限性在于纳入研究的异质性。
+一项包含200名健康儿童的随机试验发现，紫锥菊的使用可预防呼吸道感染，并使抗生素处方减少76.3%（3）。
+体外研究评估了紫锥菊植物固有的蛋白细菌活性对其免疫细胞的影响，以及其生长土壤成分的影响（4, 5）。然而，需要更多研究来评估对人类的影响。
+
+【紫锥菊的不良反应】
+大多数不良反应是温和的和短暂的；它们包括头晕、疲劳、头痛和胃肠道症状。紫锥菊应避免用于自身免疫性疾病、多发性硬化症、晚期HIV感染、结核病和器官移植患者，因为它可能刺激T细胞。过敏患者对豚草，菊花，万寿菊，雏菊，或相关的过敏原都是可能的发生过敏反应。
+
+【紫锥菊的药物相互作用】
+紫锥菊可抑制细胞色素P-450酶并诱导一些酶；因此它可能与通过同样代谢通路的药物（如，合成代谢类固醇、唑类抗真菌药、甲氨蝶呤、依托泊苷和其他化疗药物）具有潜在的相互作用。
+(参考表一些可能的膳食补充剂-药物相互作用。）
+
+【参考文献】
+1.Karsch-Volk M, Barrett B, Kiefer D, et al.Echinaceafor preventing and treating the common cold.Cochrane Database Syst Rev.(2) CD000530, 2014.doi: 10.1002/14651858.CD000530.pub3
+1.Karsch-Volk M, Barrett B, Kiefer D, et al.Echinaceafor preventing and treating the common cold.Cochrane Database Syst Rev.(2) CD000530, 2014.doi: 10.1002/14651858.CD000530.pub3
+2.David S, Cunningham R: Echinacea for the prevention and treatment of upper respiratory tract infections: a systematic review and meta-analysis.Complement Ther Med44:18-26, 2019.doi: 10.1016/j.ctim.2019.03.011
+2.David S, Cunningham R: Echinacea for the prevention and treatment of upper respiratory tract infections: a systematic review and meta-analysis.Complement Ther Med44:18-26, 2019.doi: 10.1016/j.ctim.2019.03.011
+3.Ogal M, Johnston SL, Klein P, Schoop R.Echinacea reduces antibiotic usage in children through respiratory tract infection prevention: a randomized, blinded, controlled clinical trial.Eur J Med Res.2021 Apr 8;26(1):33.doi: 10.1186/s40001-021-00499-6
+3.Ogal M, Johnston SL, Klein P, Schoop R.Echinacea reduces antibiotic usage in children through respiratory tract infection prevention: a randomized, blinded, controlled clinical trial.Eur J Med Res.2021 Apr 8;26(1):33.doi: 10.1186/s40001-021-00499-6
+4.Haron MH, Tyler HL, Pugh ND, Moraes RM, Maddox VL, Jackson CR, Pasco DS.Activities and Prevalence of Proteobacteria Members Colonizing Echinacea purpurea Fully Account for Macrophage Activation Exhibited by Extracts of This Botanical.Planta Med.2016 Sep;82(14):1258-65.doi: 10.1055/s-0042-108590.
+4.Haron MH, Tyler HL, Pugh ND, Moraes RM, Maddox VL, Jackson CR, Pasco DS.Activities and Prevalence of Proteobacteria Members Colonizing Echinacea purpurea Fully Account for Macrophage Activation Exhibited by Extracts of This Botanical.Planta Med.2016 Sep;82(14):1258-65.doi: 10.1055/s-0042-108590.
+5.Haron MH, Tyler HL, Chandra S, Moraes RM, Jackson CR, Pugh ND, Pasco DS.Plant microbiome-dependent immune enhancing action of Echinacea purpurea is enhanced by soil organic matter content.Sci Rep.2019 Jan 15;9(1):136.doi: 10.1038/s41598-018-36907-x
+5.Haron MH, Tyler HL, Chandra S, Moraes RM, Jackson CR, Pugh ND, Pasco DS.Plant microbiome-dependent immune enhancing action of Echinacea purpurea is enhanced by soil organic matter content.Sci Rep.2019 Jan 15;9(1):136.doi: 10.1038/s41598-018-36907-x
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Echinacea
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Echinacea

@@ -1,0 +1,17 @@
+标题：颞下颌关节（TMJ）强直
+来源：https://www.msdmanuals.cn/professional/dental-disorders/temporomandibular-disorders/ankylosis-of-the-temporomandibular-joint-tmj
+============================================================
+
+(参见颞下颌关节疾病概述。）
+颞下颌关节强直 (TMJ) 最常由创伤或感染引起，但也可能是先天性的或由于全身性疾病引起，例如类风湿关节炎。出现慢性、无痛性的下颌运动受限（通常最大张口度小于3厘米）。当关节强直导致髁突生长受阻时，常出现面部不对称（见髁突增生）。
+关节内（真性）强直必须与喙突肥大、颧骨塌陷性骨折、手术瘢痕、放射或感染引起的关节外强直相鉴别。大多数真性关节强直的病例，关节的X线显示骨性结构发生变化。
+治疗采用手术方法，如果病变位于关节内，切除髁突；如果喙突和颧弓也受累，则切除部分下颌升支 (1, 2)。术后必须继续进行张口练习以保持活动度(3)。
+由于颞下颌关节已经发生融合，通常无需手术强行张口是无效的。
+
+【参考文献】
+1.Khanna JN, Ramaswami R.Protocol for the management of ankylosis of the temporomandibular joint.Br J Oral Maxillofac Surg.2019;57(10):1113-1118.doi:10.1016/j.bjoms.2019.10.298
+1.Khanna JN, Ramaswami R.Protocol for the management of ankylosis of the temporomandibular joint.Br J Oral Maxillofac Surg.2019;57(10):1113-1118.doi:10.1016/j.bjoms.2019.10.298
+2.Bi R, Jiang N, Yin Q, et al.A new clinical classification and treatment strategies for temporomandibular joint ankylosis.Int J Oral Maxillofac Surg.2020;49(11):1449-1458.doi:10.1016/j.ijom.2020.02.020
+2.Bi R, Jiang N, Yin Q, et al.A new clinical classification and treatment strategies for temporomandibular joint ankylosis.Int J Oral Maxillofac Surg.2020;49(11):1449-1458.doi:10.1016/j.ijom.2020.02.020
+3.Zhi K, Ren W, Zhou H, et al.Management of temporomandibular joint ankylosis: 11 years' clinical experience.Oral Surg Oral Med Oral Pathol Oral Radiol Endod.2009;108(5):687-692.doi:10.1016/j.tripleo.2009.06.041
+3.Zhi K, Ren W, Zhou H, et al.Management of temporomandibular joint ankylosis: 11 years' clinical experience.Oral Surg Oral Med Oral Pathol Oral Radiol Endod.2009;108(5):687-692.doi:10.1016/j.tripleo.2009.06.041

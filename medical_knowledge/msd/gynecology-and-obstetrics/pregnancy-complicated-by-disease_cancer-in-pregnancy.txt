@@ -1,0 +1,34 @@
+标题：妊娠期癌症
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/pregnancy-complicated-by-disease/cancer-in-pregnancy
+============================================================
+
+妊娠不应该延迟癌症治疗。 除了直肠和妇科肿瘤外，妊娠期癌症的治疗方法经常与非妊娠期女性相似。
+因为胚胎组织生长迅速，并且具有高DNA周转率，它们类似于肿瘤组织，因此非常容易受到抗肿瘤药物的影响。 许多抗代谢物和烷化剂类药物（如白消安、苯丁酸氮芥、环磷酰胺、6-巯基嘌呤、甲氨蝶呤）能造成胎儿畸形。  甲氨蝶呤特别成问题；早孕期使用该药会增加自然流产的风险，如果继续妊娠，会发生多发性先天性畸形。 尽管癌症治疗期间妊娠通常能顺利完成，但治疗对胎儿造成的损伤风险导致一些女性选择终止妊娠。
+怀孕期间或产后期间癌症的诊断和治疗需要包括肿瘤学家和母胎医学专家在内的多学科团队。患者教育和共同决策对于确保患者能够做出知情决定非常重要。
+妊娠期乳腺癌被定义为妊娠期间、产后第一年和/或哺乳期间发生的乳腺癌。妊娠期乳房肥大和充血可能使识别乳腺癌变得困难。任何实性或囊性的乳房肿块都应进行评估。
+通常，乳腺癌应立即治疗。 关于怀孕期间被诊断出患有乳腺癌是否会对预后产生负面影响的数据不一（1,2）。
+
+【子宫颈癌】
+怀孕似乎不会使宫颈癌的预后恶化 （3）。
+宫颈癌可在怀孕期间发展，而异常的巴氏试验不应归因于怀孕本身。 巴氏试验异常，应进行阴道镜检查和直接活检。  阴道镜检查不增加不良妊娠结局的风险。 仅当怀疑患有高级别宫颈上皮内瘤变或宫颈癌时才进行活检。如果需要活检，建议进行专家阴道镜评估并咨询病理学家，因为活检可能会导致出血和早产。
+对于原位癌（妇产科联合会[Federation of Gynecology and Obstetrics， FIGO]0期—参阅表 宫颈癌临床分期）和微浸润性癌（IA1期），治疗通常推迟到分娩后，因为在这些阶段，癌症进展非常缓慢，可以安全地完成妊娠，而不会影响女性的预后。
+如果诊断为浸润性癌（FIGO IA2期或更高），应咨询妇科肿瘤专家来管理妊娠。如果在怀孕早期诊断出浸润性癌症，通常建议立即进行适合癌症的治疗。如果在20周后诊断出浸润性癌症，并且孕妇接受这种无法量化的风险增加，治疗可以推迟到妊娠晚期（如32周），以最大限度地提高胎儿成熟度，但不要过度延迟治疗。对于浸润性癌症患者，采用剖宫产加根治性子宫切除术，而不是阴道分娩。
+
+【其他妇科肿瘤】
+怀孕12周后，卵巢癌、输卵管癌和腹膜癌很难察觉，因为妊娠 12 周后，卵巢和子宫一起从骨盆中升起，不再容易触及。如果晚期，妊娠期间的卵巢癌可能在妊娠结束前致命。 患病的女性需要尽早进行双侧卵巢切除术。
+子宫癌怀孕期间很少发生。
+直肠癌可能需要子宫切除术以确保完全切除肿瘤。剖宫产最早可在妊娠28周进行，随后进行子宫切除术，以便开始积极的癌症治疗。
+
+【白血病和霍奇金淋巴瘤】
+白血病和霍奇金淋巴瘤在妊娠期并不常见。
+通常用于治疗淋巴瘤的抗肿瘤药物会增加胎儿丢失和先天性畸形的风险。
+因为白血病可能迅速致命，所以一旦确诊就尽快给予治疗，不会为了让胎儿成熟而有任何明显延迟。
+如果霍奇金淋巴瘤仅限于膈肌之上，也可采用放射治疗；但腹部必须予以屏蔽。如果淋巴瘤位于膈下，可能建议终止妊娠。
+
+【参考文献】
+1.Amant F, von Minckwitz G, Han SN, et al: Prognosis of women with primary breast cancer diagnosed during pregnancy: results from an international collaborative study.J Clin Oncol31(20):2532-2539, 2013.doi:10.1200/JCO.2012.45.6335
+1.Amant F, von Minckwitz G, Han SN, et al: Prognosis of women with primary breast cancer diagnosed during pregnancy: results from an international collaborative study.J Clin Oncol31(20):2532-2539, 2013.doi:10.1200/JCO.2012.45.6335
+2.Shao C, Yu Z, Xiao J, et al: Prognosis of pregnancy-associated breast cancer: a meta-analysis.BMC Cancer20(1):746, 2020.doi:10.1186/s12885-020-07248-8
+2.Shao C, Yu Z, Xiao J, et al: Prognosis of pregnancy-associated breast cancer: a meta-analysis.BMC Cancer20(1):746, 2020.doi:10.1186/s12885-020-07248-8
+3.Johansson ALV, Fredriksson I, Mellemkjaer L, et al.Cancer survival in women diagnosed with pregnancy-associated cancer: An overview using nationwide registry data in Sweden 1970-2018.Eur J Cancer155:106-115, 2021.doi:10.1016/j.ejca.2021.07.008
+3.Johansson ALV, Fredriksson I, Mellemkjaer L, et al.Cancer survival in women diagnosed with pregnancy-associated cancer: An overview using nationwide registry data in Sweden 1970-2018.Eur J Cancer155:106-115, 2021.doi:10.1016/j.ejca.2021.07.008

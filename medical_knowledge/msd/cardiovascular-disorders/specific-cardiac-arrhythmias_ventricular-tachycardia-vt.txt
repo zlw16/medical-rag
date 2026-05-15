@@ -1,0 +1,114 @@
+标题：室性心动过速（VT）
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/ventricular-tachycardia-vt
+============================================================
+
+(参见心律失常概述。）
+有些专家对室性心动过速采用≥100次/分作为界定速率。较慢速率的重复性室性心律被称为加速性室性自主心律或缓慢型室性心动过速；它们通常是良性的，除非患者有血流动力学症状，否则不进行治疗。
+大多数室性心动过速患者有明显的心脏病，特别是既往有心肌梗死或心肌病。电解质异常（特别是低钾血症或低镁血症）、酸血症、低氧血症和药物不良作用可促发室速 (1)。长QT综合征（先天性或获得性）与一种特殊类型的室性心动过速，即尖端扭转型室速有关。
+室性心动过速可以是单形性或多形性的，也可以是非持续性的或持续性的。
+单型室性心动过速：单一异常病灶或折返通路，因此出现规则、相同的QRS复合波
+单型室性心动过速：单一异常病灶或折返通路，因此出现规则、相同的QRS复合波
+多形性室性心动过速：几个不同的病灶或途径，因此是不规则的、不同的QRS复合波
+多形性室性心动过速：几个不同的病灶或途径，因此是不规则的、不同的QRS复合波
+非持续性室速：持续时间<30秒
+非持续性室速：持续时间<30秒
+持续性室性心动过速：持续时间≥30秒或因血流动力学崩溃而需提前终止。
+持续性室性心动过速：持续时间≥30秒或因血流动力学崩溃而需提前终止。
+左右心室流出道室性心动过速 (RVOT-VT 和 LVOT-VT) 是特发性室性心动过速的类型，发生时没有明显的潜在结构性心脏疾病 (2）。它们是由 cAMP 介导的延迟后去极化引起的，通常伴随运动或情绪应激而发生（2）。它们的形态通常类似于左束支传导阻滞（LBBB）和垂直向下的电轴（V1 导联中的正 QRS、AVL 导联中的负 QRS 和 I 导联中的近等电 QRS）（见室性早搏）。
+维拉帕米敏感的左束支室性心动过速（Belhassen VT，左间隔室性心动过速）是一种特发性室性心动过速，发生在没有明显的潜在结构性心脏疾病的情况下（3）。这是由于异常浦肯野组织的一个慢传导区，这部分可通过心室心肌和左束支的左（通常为后束支）半束支来支持大折返。它通常由临界心率自发或快速心房起搏引起，其形态通常类似于右束支传导阻滞伴电轴左偏（3）。
+束支折返性室性心动过速 (VT) 是一种室性心动过速，发生于晚期心肌病或孤立性传导系统疾病患者（3）。这是由于通过束支形成的大折返引起的，通常顺行分支为右束支，逆行支为左束支。因此，这种室性心动过速通常具有类似 LBBB 的 QRS 波形态（3）。
+儿茶酚胺能多形性室性心动过速是一种影响心脏组织细胞内钙调节的遗传性疾病。患者易患心房和/或心室快速性心律失常和心源性猝死，尤其是在肾上腺素能活动增加的过程中。（参见致心律失常性心脏疾病。）
+室性心动过速常会恶化成心室颤动，引起心脏骤停。
+
+【参考文献】
+1.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al:  2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.J Am Coll Cardiol72:e91–e220, 2018.doi: 10.1016/j.jacc.2017.10.054
+1.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al:  2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.J Am Coll Cardiol72:e91–e220, 2018.doi: 10.1016/j.jacc.2017.10.054
+2.Lerman BB: Mechanism, diagnosis, and treatment of outflow tract tachycardia.Nat Rev Cardiol12(10):597–608, 2015.doi: 10.1038/nrcardio.2015.121
+2.Lerman BB: Mechanism, diagnosis, and treatment of outflow tract tachycardia.Nat Rev Cardiol12(10):597–608, 2015.doi: 10.1038/nrcardio.2015.121
+3.Sung RK, Boyden PA, Scheinman M: Cellular Physiology and Clinical Manifestations of Fascicular Arrhythmias in Normal Hearts.JACC Clin Electrophysiol3(12):1343–1355, 2017.doi: 10.1016/j.jacep.2017.07.011
+3.Sung RK, Boyden PA, Scheinman M: Cellular Physiology and Clinical Manifestations of Fascicular Arrhythmias in Normal Hearts.JACC Clin Electrophysiol3(12):1343–1355, 2017.doi: 10.1016/j.jacep.2017.07.011
+
+【室性心动过速的症状和体征】
+短时的或缓慢心率的室性心动过速可能无症状。持续室性心动过速几乎总是有症状，引起心悸、血流动力学损害的症状或心源性猝死。
+
+【室性心动过速的诊断】
+心电图 (ECG)
+心电图 (ECG)
+室性心动过速的诊断依赖心电图（见图宽QRS波群室性心动过速）。任何宽QRS波群心动过速（QRS≥0.12秒）都应考虑为室性心动过速，直到证明它不是。
+
+【经验与提示】
+经验与提示
+任何宽QRS波群心动过速（QRS≥0.12秒）都应考虑为室性心动过速，直到证明它不是。
+任何宽QRS波群心动过速（QRS≥0.12秒）都应考虑为室性心动过速，直到证明它不是。
+诊断由心电图结果来支持
+分离的P波活动
+分离的P波活动
+融合心搏（一个传导的窦性心搏与心室心搏动融合，形成 QRS 复合波，其形态、持续时间和电轴介于正常传导心搏和宽 QRS 复合波心室性心搏动之间）
+融合心搏（一个传导的窦性心搏与心室心搏动融合，形成 QRS 复合波，其形态、持续时间和电轴介于正常传导心搏和宽 QRS 复合波心室性心搏动之间）
+夺获心搏（正常传导的窦性心搏中断宽QRS波群心动过速）
+夺获心搏（正常传导的窦性心搏中断宽QRS波群心动过速）
+V 导联中 QRS 向量的一致性（同向）与不一致的 T 波向量（相反的 QRS 向量）
+V 导联中 QRS 向量的一致性（同向）与不一致的 T 波向量（相反的 QRS 向量）
+额平面 QRS 电轴位于西北象限
+额平面 QRS 电轴位于西北象限
+鉴别诊断包括室上性心动过速伴束支阻滞或经附加旁道传导（见图室性心动过速的改良Brugada标准）(1)。有些患者对室性心动过速耐受性极好，因此将耐受性良好的宽QRS波群心动过速断定为室上性起源是错误的。在室性心动过速患者中应用适合于治疗室上性心动过速的药物（如维拉帕米、地尔硫卓）可能引起血流动力学崩溃和死亡(2)。尽管如此，由于其半衰期非常短，静脉注射腺苷可以作为稳定且有规律、单形宽 QRS 波心动过速的患者的一种诊断手段（如果心律失常是室上性的，则可能是一种治疗方法）（3），尽管其存在稳定的室性心动过速转变为不稳定的心室颤动的微小风险。
+
+【室性心动过速的改良Brugada标准】
+室性心动过速的改良Brugada标准
+*伴有右束支传导阻滞的QRS：
+在V1导联中，单相R、或QR、或RS
+在V1导联中，单相R、或QR、或RS
+在V6导联中，R/S<1或单相R或QR
+在V6导联中，R/S<1或单相R或QR
+*伴有左束支传导阻滞的QRS：
+V1导联，R波宽度>30ms或RS波宽度>60ms
+V1导联，R波宽度>30ms或RS波宽度>60ms
+在V6导联中，QR或QS
+在V6导联中，QR或QS
+AV=房室的；LBBB=左束支传导阻滞；msec= 毫秒；RBBB=右束支传导阻滞；VT=室性心动过速。
+Data fromBrugada P, Brugada J, Mont L, Smeets J, Andries EW.A new approach to the differential diagnosis of a regular tachycardia with a wide QRS complex. Circulation.1991;83(5):1649-1659.doi:10.1161/01.cir.83.5.1649
+
+【经验与提示】
+经验与提示
+由于有些患者对室性心动过速耐受性极好，因此将耐受性良好的宽QRS波群心动过速断定为室上性起源是错误的。
+由于有些患者对室性心动过速耐受性极好，因此将耐受性良好的宽QRS波群心动过速断定为室上性起源是错误的。
+
+【宽QRS室性心动过速】
+宽QRS室性心动过速
+QRS间期是160ms。在II导联上可见到无关的P波（箭头）。平均额面电轴左偏。
+
+【诊断参考】
+1.Vereckei A, Simon A, Szénási G, et al: The Application of a New, Modified Algorithm for the Differentiation of Regular Ventricular and Pre-Excited Tachycardias.Heart Lung Circ32(6):719–725, 2023.doi: 10.1016/j.hlc.2023.03.0162.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al:  2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.J Am Coll Cardiol72:e91–e220, 2018.doi: 10.1016/j.jacc.2017.10.054
+1.Vereckei A, Simon A, Szénási G, et al: The Application of a New, Modified Algorithm for the Differentiation of Regular Ventricular and Pre-Excited Tachycardias.Heart Lung Circ32(6):719–725, 2023.doi: 10.1016/j.hlc.2023.03.016
+2.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al:  2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.J Am Coll Cardiol72:e91–e220, 2018.doi: 10.1016/j.jacc.2017.10.054
+3.Marill KA, Wolfram S, Desouza IS, et al:Adenosinefor wide-complex tachycardia: efficacy and safety.Crit Care Med37:2512–2518, 2009.doi: 10.1097/CCM.0b013e3181a93661
+3.Marill KA, Wolfram S, Desouza IS, et al:Adenosinefor wide-complex tachycardia: efficacy and safety.Crit Care Med37:2512–2518, 2009.doi: 10.1097/CCM.0b013e3181a93661
+
+【室性心动过速的治疗】
+急性：或使用同步直流电复律，或者用Ⅰ类和Ⅲ类抗心律失常药物。
+急性：或使用同步直流电复律，或者用Ⅰ类和Ⅲ类抗心律失常药物。
+长期：通常使用植入性心脏复律除颤器
+长期：通常使用植入性心脏复律除颤器
+急性室速治疗取决于症状和室性心动过速持续的时间。
+无脉性室性心动过速需要除颤从双相 120 到 200 焦耳（或单相 360 焦耳）开始。
+稳定的持续性室性心动过速可以通过同步直流电复律以≥100 焦耳的电流来治疗，采用清醒镇静或短暂全身麻醉。
+稳定的持续性室性心动过速也可以通过静脉注射I类或III类抗心律失常药物进行治疗(1) （见表抗心律失常药物）。利多卡因起效快但常常无效。如果利多卡因无效，可静脉给予普鲁卡因胺，但此药可能1小时才起作用。静脉胺碘酮经常使用，但也不会马上起效。静脉用普鲁卡因胺或胺碘酮无效是心脏电复律的指征。左右心室流出道室性心动过速 (RVOT-VT 和 LVOT-VT) 对静脉注射腺苷有反应。维拉帕米敏感的左束支室性心动过速对静脉注射维拉帕米有反应（1）。
+非持续性室性心动过速不需要立即治疗，除非室性心动过速频繁发作或时间长到足以引起症状。在这种病例中可像持续性室性心动过速一样应用抗心律失常药物。
+主要的目标是预防猝死，而非简单地抑制心律失常。最好是采用植入性心脏复律-除颤器来实现这一目的。然而，如何选择患者是一个复杂的问题，取决于对室性心动过速致命可能性的估计和基础心脏病的严重程度 (1) （见表植入式心律转复除颤器的指征）。
+若室性心动过速的本次发作是由短暂性原因（如心肌梗死发作后48小时内）或可逆性原因（酸碱失衡、电解质紊乱、药物致心律失常作用）所致，不需要长期治疗。
+在无暂时的或可逆转的原因时，发生过持续性室性心动过速的患者通常需要ICD (1)。大多数有持续性室性心动过速和明显结构性心脏病的患者也应接受β-受体阻滞剂治疗。如果不能应用ICD，胺碘酮可能是预防猝死的优选抗心律失常药。
+因为非持续性室性心动过速是有结构性心脏病患者猝死危险性增高的一个标志，需对此类患者（特别是射血分数<0.35的病人）进一步评估。此类患者应接受ICD。
+室性心动过速的预防非常重要（通常是在已植入ICD的患者仍频繁发作室性心动过速），此时需要抗心律失常药，或者对致心律失常的基质施行经导管或外科手术消融(1)。任何Ⅰa类、Ⅰb类、Ⅰc类、Ⅱ类或Ⅲ类抗心律失常药物都可应用。因为β-受体阻滞剂（Ⅱ类）是安全的，除非有禁忌证，它们可作为首选。如果需要附加药物，常应用索他洛尔，然后是胺碘酮(1)。
+经导管消融对于患有明确综合征的室性心动过速患者疗效尤为显著（如右心室或左心室流出道室性心动过速、维拉帕米敏感的左分支室性心动过速或束支折返性室性心动过速）(1)。
+
+【治疗参考文献】
+1.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al:  2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.J Am Coll Cardiol72:e91–e220, 2018.doi: 10.1016/j.jacc.2017.10.054
+1.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al:  2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.J Am Coll Cardiol72:e91–e220, 2018.doi: 10.1016/j.jacc.2017.10.054
+任何宽QRS波群心动过速（QRS≥0.12秒）都应考虑为室性心动过速（VT），直到证明不是。
+任何宽QRS波群心动过速（QRS≥0.12秒）都应考虑为室性心动过速（VT），直到证明不是。
+没有脉搏的患者应该进行心脏复律。
+没有脉搏的患者应该进行心脏复律。
+如果患者病情稳定，可以尝试心脏同步电复律或抗心律失常药物。
+如果患者病情稳定，可以尝试心脏同步电复律或抗心律失常药物。
+对于没有一过性或可逆性原因的持续性VT发作患者，通常需要植入式心律转复除颤器（ICD）。
+对于没有一过性或可逆性原因的持续性VT发作患者，通常需要植入式心律转复除颤器（ICD）。

@@ -1,0 +1,81 @@
+标题：超声疗法
+来源：https://www.msdmanuals.cn/professional/special-subjects/principles-of-radiologic-imaging/ultrasound
+============================================================
+
+在超声检查中，信号发生器与转换器相结合。信号发生器中的压电晶体将电转换成高频声波，这些高频声波被送入组织中。组织散射、反射和吸收不同程度的声波。反射回来的声波（回声）被转换成电信号。计算机分析信号，并在屏幕上显示一个解剖图像。
+超声检查是一种便携、普及、相对经济且安全的成像方式，因为它不涉及电离辐射。在它的实际优点中，它可以由卫生保健专业人员在相对短暂的集中培训后执行。在许多临床环境中，超声检查可以在没有放射科医生或专业超声医师的直接监督下进行，从而实现快速的即时评估。
+Procedure demonstrated by Robert Strony, DO, MBA, RDCS, FACEP, Medical Director, Point of Care Ultrasound, Geisinger; Clinical Associate Professor of Medicine, Geisinger Commonwealth School of Medicine; Associate Professor (Adjunct) Lewis Katz School of Medicine, Temple University.
+Procedure demonstrated by Robert Strony, DO, MBA, RDCS, FACEP, Medical Director, Point of Care Ultrasound, Geisinger; Clinical Associate Professor of Medicine, Geisinger Commonwealth School of Medicine; Associate Professor (Adjunct) Lewis Katz School of Medicine, Temple University.
+Procedure demonstrated by Robert Strony, DO, MBA, RDCS, FACEP, Medical Director, Point of Care Ultrasound, Geisinger; Clinical Associate Professor of Medicine, Geisinger Commonwealth School of Medicine; Associate Professor (Adjunct) Lewis Katz School of Medicine, Temple University.
+Procedure demonstrated by Robert Strony, DO, MBA, RDCS, FACEP, Medical Director, Point of Care Ultrasound, Geisinger; Clinical Associate Professor of Medicine, Geisinger Commonwealth School of Medicine; Associate Professor (Adjunct) Lewis Katz School of Medicine, Temple University.
+Procedure demonstrated by Robert Strony, DO, MBA, RDCS, FACEP, Medical Director, Point of Care Ultrasound, Geisinger; Clinical Associate Professor of Medicine, Geisinger Commonwealth School of Medicine; Associate Professor (Adjunct) Lewis Katz School of Medicine, Temple University.
+Procedure demonstrated by Robert Strony, DO, MBA, RDCS, FACEP, Medical Director, Point of Care Ultrasound, Geisinger; Clinical Associate Professor of Medicine, Geisinger Commonwealth School of Medicine; Associate Professor (Adjunct) Lewis Katz School of Medicine, Temple University.
+
+【超声的用途】
+超声可以识别浅表生长物和异物（例如，甲状腺，乳房，睾丸，四肢，一些淋巴结）。 对更深的结构，其他组织和密度（例如，骨，气体）可以干扰图像。
+超声常用于评估以下内容：
+心脏（超声心动图）：例如，检测瓣膜和腔室大小异常并估算射血分数和心肌应变力（参见超声心动图)
+心脏（超声心动图）：例如，检测瓣膜和腔室大小异常并估算射血分数和心肌应变力（参见超声心动图)
+胆囊和胆道：例如，检测胆结石和胆道梗阻（参见肝胆影像学检查：超声检查)
+胆囊和胆道：例如，检测胆结石和胆道梗阻（参见肝胆影像学检查：超声检查)
+泌尿道：例如，在肾脏区分囊肿（通常是良性）和坚实的肿块（常常为恶性），或检测梗阻，例如在肾脏，输尿管或膀胱结石或其它结构异常（参加泌尿生殖系统影像学检查:超声检查)
+泌尿道：例如，在肾脏区分囊肿（通常是良性）和坚实的肿块（常常为恶性），或检测梗阻，例如在肾脏，输尿管或膀胱结石或其它结构异常（参加泌尿生殖系统影像学检查:超声检查)
+女性生殖器官：例如，检测在卵巢、输卵管或子宫肿瘤和炎症（参见妇科肿瘤概论)
+女性生殖器官：例如，检测在卵巢、输卵管或子宫肿瘤和炎症（参见妇科肿瘤概论)
+怀孕：例如，评估胎儿的生长和发育，并检测胎盘异常（例如，前置胎盘—参见产科患者评价:超声检查)
+怀孕：例如，评估胎儿的生长和发育，并检测胎盘异常（例如，前置胎盘—参见产科患者评价:超声检查)
+肌肉骨骼：评估肌肉、肌腱和神经
+肌肉骨骼：评估肌肉、肌腱和神经
+这张照片显示了胎儿的超声图像。
+IAN HOOTON/SCIENCE PHOTO LIBRARY
+床旁超声检查（亦称即时超声 [POCUS]）常用于急诊或重症环境，以辅助诊断（如评估容量状态、低血压原因、异物）及治疗（如静脉置管、关节穿刺）。
+超声检查也可用于指导活检取样和放置静脉导管。
+超声有时在体内完成，在内窥镜或血管导管前端装一个小探头。
+
+【超声检查的变化】
+超声信息可以通过几种形式显示。
+
+【A型超声】
+A型是最简单的；信号在图表上记录为尖峰。显示图像的垂直轴（Y轴）表示回声振幅，横轴（X轴）表示患者的深度或距离。
+这种类型的超声成像主要用于眼科扫描。
+
+【B型超声（灰阶）】
+B型模式是最常用的诊断成像；信号显示为一个二维的解剖图像。此外，B超还可以生成三维（体积）和四维（具有时间的三维）图像。三维超声常用于在产科/妇科检查中可视化胎儿解剖结构。四维超声可以对运动结构进行动态成像，如胎儿运动或心脏运动。
+B超通常用于评估发育中的胎儿，并评估器官，包括肝，脾，肾，甲状腺，睾丸，乳房，子宫，卵巢，以及前列腺。
+B超成像的速度足够快，可以显示实时的运动，例如心脏跳动或血管搏动。实时动态显像可以提供解剖和功能信息。
+
+【M型超声】
+M模式用于显示运动的结构成像；运动的结构反射的信号被转换成沿一垂直轴的连续的波形。
+M 型超声主要用于胎心率评估及心脏影像学中瓣膜病变的检测。
+
+【多普勒超声】
+多普勒超声检查用于评估血流。它利用多普勒效应（通过移动物体的反射改变声音频率）。移动的物体为血液中的红细胞。
+通过分析声波频率的变化来确定血流的方向和速度：
+如果反射波的频率低于发射波，说明血流方向背离传感器。
+如果反射波的频率低于发射波，说明血流方向背离传感器。
+如果反射波的频率高于发射波，说明血流方向朝向传感器。
+如果反射波的频率高于发射波，说明血流方向朝向传感器。
+频率的变化的幅度与血流速度成正比。
+频率的变化的幅度与血流速度成正比。
+反射的声波频率的变化被转换成图像显示血流方向和速度。
+左颈动脉彩色多普勒超声显示动脉血流正常，无明显狭窄。
+Image courtesy of Hakan Ilaslan, MD.
+多普勒超声也用于
+评估肿瘤和器官的血管
+评估肿瘤和器官的血管
+评估心脏功能（例如，作为超声心动图）
+评估心脏功能（例如，作为超声心动图）
+检测血管闭塞和狭窄
+检测血管闭塞和狭窄
+检测血管内血凝块（例如，深静脉血栓）
+检测血管内血凝块（例如，深静脉血栓）
+检测关节滑膜炎
+检测关节滑膜炎
+频谱多普勒超声显示血流信息，以速度作为垂直轴、时间作为水平轴的图形显示。如果多普勒角（超声波束的方向与血流方向之间的角度）能被确定，可以测量特定的速度。速度测量和频谱多普勒追踪的外观可以提示血管狭窄的严重性。
+双功多普勒超声将频谱多普勒的图形显示与B型超声图像相结合。
+彩色多普勒超声将多普勒血流信息转换为彩色血流图像；该图像叠加在灰阶解剖超声图像上显示。 血流方向由颜色深浅显示（例如，红色血流朝向探头，蓝色血流背离探头）。 平均血流速度是由颜色的亮度显示（例如，明亮的红色代表朝向探头的高速血流;暗的蓝色代表背离探头的低速血流）。
+
+【超声的缺点】
+图像的质量取决于操作者的技术。
+对于脂肪组织过多的患者，获取目标结构的清晰图像在技术上可能很困难。
+超声波不能通过骨骼或气体，因此超声检查很难获取这些图像。

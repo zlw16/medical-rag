@@ -1,0 +1,61 @@
+标题：环孢子虫病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/intestinal-protozoa-and-microsporidia/cyclosporiasis
+============================================================
+
+（参见肠道原虫和微孢子虫感染概述。）
+环孢子虫病是由专性细胞内原生动物引起的。主要是通过污染的食品或水经粪-口途径感染传播。这种感染在卫生条件较差的温暖气候下最为常见。前往疫区的居民和旅行者都面临感染危险。
+卡耶坦环孢子虫爆发在美国、加拿大和欧洲越来越多地被记录下来。在美国，每年约有 1000 至 2000 例环孢子虫病病例报告给疾病控制和预防中心 (CDC)（见疾病预防控制中心: 疫情调查和最新情况)，而且可能还有更多案件没有被报告。圆孢子虫病通常发生在夏季，与食用新鲜农产品有关，例如覆盆子、黑莓、草莓、蓝莓、罗勒、香菜、荷兰豆、豌豆、加工蔬菜和各种生菜（1）。2019年，美国食品药品监督管理局(FDA)和CDC成立了Cyclospora特别工作组，以应对疫情的增加以及C. cayetanensis（环孢子虫）在美国国内种植的农产品中的出现（见FDA:环孢子虫预防、应对和研究行动计划）。
+Cyclospora随粪便排出的环孢子虫卵囊是非孢子化的（即不具有感染性）。因此，不会发生粪 - 口直接传播。
+1.无孢子的卵囊从受感染宿主的粪便中排出。
+2–3.1~2周后，卵囊在22℃~32℃的环境温度下形成孢子。
+4.孢子化的卵囊污染食物或水。污染机制尚未证实。
+5.孢子化的卵囊随受污染的食物或水摄入。
+6.这些卵囊在胃肠道中脱囊，释放出侵入小肠上皮细胞的子孢子。
+7.在细胞内，它们无性繁殖并有性发育成卵囊，这些卵囊随粪便排出。
+Image from the Centers for Disease Control and Prevention, Global Health, Division of Parasitic Diseases and Malaria.
+C. cayetanensis的生活史与隐孢子虫相似，所不同的是随粪排出的卵囊尚未孢子化。因此，新排出粪便中的卵囊不具感染性，并且不会发生直接的粪 - 口传播。卵囊需要几天到几周的时间才能在环境中形成孢子，因此不太可能发生人与人之间的直接传播。孢子化的卵囊通过受污染的食物或水被摄入人体，并在胃肠道中脱囊，释放孢子体。子孢子侵入小肠的上皮细胞，增殖并成熟成卵囊，并从粪便中排出。
+
+【参考文献】
+1.Mathison BA, Pritt BS.Cyclosporiasis-Updates on Clinical Presentation, Pathology, Clinical Diagnosis, and Treatment.Microorganisms.2021;9(9):1863.Published 2021 Sep 2.doi:10.3390/microorganisms9091863
+1.Mathison BA, Pritt BS.Cyclosporiasis-Updates on Clinical Presentation, Pathology, Clinical Diagnosis, and Treatment.Microorganisms.2021;9(9):1863.Published 2021 Sep 2.doi:10.3390/microorganisms9091863
+
+【环孢子虫病的症状和体征】
+环孢子虫病的主要症状为急性非血性的水样腹泻，伴有发热、腹痛、恶心、厌食、不适感和体重减轻。对于免疫正常者，该病常常可自行缓解，但可持续数周。症状改善后可能会复发。
+在细胞介导免疫力低下的宿主中，例如患有终末期人类免疫缺陷病毒 (HIV) 的患者，环孢子虫病可能导致类似于隐孢子虫病的严重、难治性、大量腹泻。HIV终末期患者的肠外疾病可能包括胆囊炎和播散性感染。
+
+【环孢子虫病的诊断】
+粪便显微镜检查有无卵囊
+粪便显微镜检查有无卵囊
+粪便中寄生虫DNA的检测
+粪便中寄生虫DNA的检测
+环孢子虫病的诊断通过粪便检测，包括寄生虫DNA的分子检测或显微镜检查卵囊。改良版Ziehl-Neelsen或Kinyoun抗酸染色技术可以帮助鉴别Cyclospora环孢子虫。Cyclospora环孢子虫的卵囊都是自荧光的。Cyclospora环孢子虫卵囊是球形的，形态类似于但大于Cryptosporidium隐孢子虫卵囊。
+由于卵囊的排出是间歇性的，需行多次粪检（≥ 3次）。
+C. cayetanensis（环孢子虫）的分子诊断主要通过针对多种胃肠道病原体的多重检测方法进行。
+有些时候，只有通过肠组织活检发现细胞内期的寄生虫，才能诊断。
+
+【环孢子虫病的治疗】
+甲氧苄氨嘧啶/磺胺甲恶唑(TMP / SMX)
+甲氧苄氨嘧啶/磺胺甲恶唑(TMP / SMX)
+或者，环丙沙星或硝唑尼特
+或者，环丙沙星或硝唑尼特
+大多数健康人无需治疗即可康复。如果不治疗，病情可能持续几天到一个月甚至更长时间，并可能复发。
+治疗环孢子虫病的首选方法是使用双倍强度的TMP/SMX，疗程为7至10天。
+对于晚期HIV患者，可能需要更大的剂量和更长的疗程，急性感染的治疗通常需要长期抑制性治疗（每周3次，每次服用一片双倍强度160毫克/800毫克TMP/SMX片剂）以防止复发。启动或优化抗反转录病毒治疗（ART）非常重要。
+环丙沙星是 TMP/SMX 的替代品。
+在磺胺不耐受和环丙沙星耐药感染患者中，硝唑尼特是TMP/SMX的替代品。据报道，硝唑尼特对环孢子虫病的疗效在 71% 至 87% 之间。
+
+【预防环孢子虫病】
+避免食用可能被粪便污染的食物或水是预防环孢子虫病的最佳方法。
+前往环孢子虫病流行地区（如热带和亚热带地区）的旅行者应该注意，通过常规化学消毒或消毒方法处理水或食物不太可能杀死环孢子虫。(见Centers for Disease Control and Prevention [CDC]: Parasites - Cyclosporiasis: Prevention & ControlandCDC Yellow Book: Cyclosporiasis).针对国际旅客的详细建议请参阅疾病预防控制中心黄皮书： 食物和水预防措施。
+在流行地区，饮用水应煮沸，避免未去皮的水果，彻底煮熟蔬菜。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+U.S. Food & Drug Administration: Cyclospora Prevention, Response and Research Action Plan
+U.S. Food & Drug Administration: Cyclospora Prevention, Response and Research Action Plan
+Centers for Disease Control and Prevention (CDC) Yellow Book: Food & Water Precautions
+Centers for Disease Control and Prevention (CDC) Yellow Book: Food & Water Precautions
+CDC Yellow Book: Cyclosporiasis
+CDC Yellow Book: Cyclosporiasis
+CDC: Cyclosporiasis (Cyclospora Infection): Resources for Health Professionals
+CDC: Cyclosporiasis (Cyclospora Infection): Resources for Health Professionals

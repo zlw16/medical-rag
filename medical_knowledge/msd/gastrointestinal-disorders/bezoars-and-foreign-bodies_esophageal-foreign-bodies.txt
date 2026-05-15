@@ -1,0 +1,59 @@
+标题：食管异物
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/bezoars-and-foreign-bodies/esophageal-foreign-bodies
+============================================================
+
+（参见消化道异物概述。）
+食管是异物嵌顿最常见的部位。食物嵌顿是食管异物最常见的原因。大块、质地顺滑的食物（如牛排、热狗）在充分咀嚼前，尤其容易被不慎咽下如果肉块未被充分咀嚼，可能会将其中包含的骨头吞下，尤其是鱼骨。
+婴幼儿的口咽部协调功能尚未发育成熟，常误吞葡萄、花生、糖果等小型圆形食物，此类异物可能嵌顿于消化道。 此外，婴幼儿和蹒跚学步的孩子经常会因意外或好奇而吞食各种各样不可食用的物体（例如硬币，电池），其中一些会嵌塞在食道中。引起嵌顿的圆盘电池尤其令人担忧，因为它们可能会导致食管烧伤，穿孔或气管食管瘘。
+食道异物通常嵌塞于存在生理或病理性管腔狭窄的部位。管腔狭窄可由括约肌（食管下括约肌、食管上括约肌）、外部血管结构（如血管环）、食管蹼、食管狭窄、良性肿瘤、恶性肿瘤、贲门失弛缓症、远端食管痉挛、既往手术史及嗜酸性粒细胞性食管炎引发。
+食管异物的主要并发症有：
+梗阻可能是部分的（例如，患者可以吞咽液体或至少口腔分泌物）或完全梗阻。不全性梗阻的紧急程度较低，除非是锐器嵌顿于管壁（可能导致穿孔）。临床上完全梗阻的耐受性很差，即使是一个光滑的物体，如果嵌顿严重，在食管中超过约24小时，可能会导致压力性坏死和穿孔风险。
+并发症还取决于嵌顿物体的性质。尽管嵌顿的圆盘或纽扣电池体积较小，但仍然需要特别重视，因为可能会迅速发生液化坏死和穿孔。
+
+【食管异物的症状和体征】
+主要症状表现为急性吞咽困难。食管完全阻塞的患者，唾液分泌过量，并无法吞咽口腔分泌物。其他症状包括胸骨后胀满，反流，吞咽痛，血性唾液、呛咳和窒息。焦虑与不适导致的过度通气常表现为呼吸窘迫，但实际出现呼吸困难，或听诊闻及喘鸣 / 哮鸣音，强烈提示异物位于气道而非食管。
+有时异物可刮伤食管，但并未卡住。此时，患者会有异物感，但实际并无异物存在。
+
+【食管异物的诊断】
+临床评估
+临床评估
+有时需影像学检查
+有时需影像学检查
+常用内镜评估
+常用内镜评估
+许多患者有明确的异物摄入史；那些明显具有完全阻塞症状的患者应该立即进行内镜治疗。症状轻微、无高危因素（例如吞食尖锐物体、圆盘或纽扣电池或非法药物包）且吞咽功能正常的患者，可能不存在异物嵌顿，可观察等待症状缓解。其他患者可能需要影像学检查。
+一些患者，如幼儿、智力受损的成年人、老年人和精神疾病患者，可能无法提供充分的摄入史。这些患者可能表现为窒息，拒绝进食，呕吐，流涎，气喘，血性唾液或呼吸窘迫。这些患者也可能需要影像学检查。
+普通X线可以检测到一些异物（宜进行正侧位片）。 X射线最适合检测金属异物和牛排中的骨头，以及检测穿孔征象（例如，纵隔或腹腔游离气体）。其他异物（如鱼刺、细小的鸡骨、木片、塑料、玻璃及薄金属等）在X线平片中往往难以显影。如果怀疑存在异物摄入，或者怀疑故意吞食了危险的（例如非法药物包）异物，应该在内镜检查前进行CT等影像学检查，以明确和定位异物。疑似异物摄入且影像学结果阴性但症状持续的患者，通常需要内镜评估。
+不常规进行经口造影检查，因为存在吸入风险，以及穿孔患者造影剂泄漏的风险。此外，残留的造影剂会增加后续内镜取出异物的难度。
+
+【食管异物的治疗】
+有时可尝试观察和 / 或静脉给予胰高血糖素
+有时可尝试观察和 / 或静脉给予胰高血糖素
+主要通过内镜取出。
+主要通过内镜取出。
+一些异物会自发进入胃，然后它们通常会完全通过胃肠道排出体外。没有重度梗阻症状且未吞食尖锐物体、圆盘或纽扣电池的患者，通常可以安全观察至多24小时，以待异物通过，症状缓解即提示异物已排出 （1）。胰高血糖素曾被用于松弛远端食管，但与其他方法相比效果似乎并不显著（2，3）。不推荐使用其他方法，如产泡剂、嫩肉剂、探条扩张等。
+24小时内未排出的异物（4）应主动取出，因为延迟取出会增加穿孔等并发症的风险，并降低成功取出的可能性。
+首选治疗为内镜下处理，可采用将食团推入胃内或取出的方法。内镜推进前，需尝试使内镜绕过食物团块，检查团块远端的食管（如排查管腔狭窄或梗阻性病变），然后对食物团块中部施加轻柔压力以推进内镜。为了最大程度地减少穿孔的风险，此操作仅应由经验丰富的内镜医师完成。异物取出最好使用异物钳、多爪抓钳、取物网、取物篮或圈套器，最好在食管中放置一根外套管或经口气管插管，以防止误吸并保护气道（5）。
+尖锐的异物、圆盘或纽扣电池以及任何引起严重梗阻症状的异物，都需要行急诊内镜取出。
+建议对食管食物嵌塞患者进行结构和功能异常评估的随访护理。
+非法药物包导致的梗阻需手术治疗，因为内镜干预可能导致包装破裂与药物过量，因此属于禁忌。在特定病例中，可在多学科协作、且有手术备用方案（以防包装破裂）的情况下，考虑内镜下取出。
+
+【治疗参考文献】
+1.Ismail A, Beran A, Saadat S, Veraza DI, Guardiola JJ:Glucagonfor Esophageal Foreign Body Impaction: A Systematic Review and Meta-analysis of Randomized Controlled Trials.Am J Ther31(5):e605–e607, 2024.doi:10.1097/MJT.0000000000001747
+1.Ismail A, Beran A, Saadat S, Veraza DI, Guardiola JJ:Glucagonfor Esophageal Foreign Body Impaction: A Systematic Review and Meta-analysis of Randomized Controlled Trials.Am J Ther31(5):e605–e607, 2024.doi:10.1097/MJT.0000000000001747
+2.Bodkin RP, Weant KA, Baker Justice S, Spencer MT, Acquisto NM: Effectiveness ofglucagonin relieving esophageal foreign body impaction: a multicenter study.Am J Emerg Med34(6):1049–1052, 2016.doi:10.1016/j.ajem.2016.03.016
+2.Bodkin RP, Weant KA, Baker Justice S, Spencer MT, Acquisto NM: Effectiveness ofglucagonin relieving esophageal foreign body impaction: a multicenter study.Am J Emerg Med34(6):1049–1052, 2016.doi:10.1016/j.ajem.2016.03.016
+3.Peksa GD, DeMott JM, Slocum GW, Burkins J, Gottlieb M:Glucagonfor Relief of Acute Esophageal Foreign Bodies and Food Impactions: A Systematic Review and Meta-Analysis.Pharmacotherapy39(4):463–472, 2019.doi:10.1002/phar.2236
+3.Peksa GD, DeMott JM, Slocum GW, Burkins J, Gottlieb M:Glucagonfor Relief of Acute Esophageal Foreign Bodies and Food Impactions: A Systematic Review and Meta-Analysis.Pharmacotherapy39(4):463–472, 2019.doi:10.1002/phar.2236
+4.ASGE Standards of Practice Committee, Ikenberry SO, Jue TL, Anderson MA, et al: Management of ingested foreign bodies and food impactions.Gastrointest Endosc73:1085–1091, 2011.doi: 10.1016/j.gie.2010.11.010
+4.ASGE Standards of Practice Committee, Ikenberry SO, Jue TL, Anderson MA, et al: Management of ingested foreign bodies and food impactions.Gastrointest Endosc73:1085–1091, 2011.doi: 10.1016/j.gie.2010.11.010
+5.Fung BM, Sweetser S, Wong Kee Song LM, Tabibian JH: Foreign object ingestion and esophageal food impaction: An update and review on endoscopic management.World J Gastrointest Endosc11(3):174–192, 2019.doi: 10.4253/wjge.v11.i3.174
+5.Fung BM, Sweetser S, Wong Kee Song LM, Tabibian JH: Foreign object ingestion and esophageal food impaction: An update and review on endoscopic management.World J Gastrointest Endosc11(3):174–192, 2019.doi: 10.4253/wjge.v11.i3.174
+食管是异物嵌顿的最常见部位。
+食管是异物嵌顿的最常见部位。
+主要表现症状是急性吞咽困难；食管完全梗阻的患者会大量流涎，无法咽下口腔分泌物。
+主要表现症状是急性吞咽困难；食管完全梗阻的患者会大量流涎，无法咽下口腔分泌物。
+如果完全阻塞存在超过24小时，可能导致压力性坏死并增加穿孔风险。
+如果完全阻塞存在超过24小时，可能导致压力性坏死并增加穿孔风险。
+尖锐的物体、盘状物或纽扣电池，以及任何引起明显阻塞症状的异物，都需要行急诊内镜取出。
+尖锐的物体、盘状物或纽扣电池，以及任何引起明显阻塞症状的异物，都需要行急诊内镜取出。

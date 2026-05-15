@@ -1,0 +1,50 @@
+标题：过度通气综合征
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/symptoms-of-pulmonary-disorders/hyperventilation-syndrome
+============================================================
+
+换气过度综合征是一种功能性呼吸障碍，常伴有焦虑，其特征是肺泡换气超过代谢需要，在没有其他器质性病因的情况下导致发作性或持续性低碳酸血症和呼吸性碱中毒。它最常见于年轻女性，但可以影响任何年龄的任何性别（1）。有时发病前有致情绪紧张的事件。过度通气综合征与惊恐障碍不同，尽管两者有重叠；约50%患有每种疾病的患者表现出另一种疾病的证据（2）。哮喘也在很大比例的患者中并存，可能被误诊或表现不典型（3）。
+
+【参考文献】
+1.Pfortmueller CA, Pauchard-Neuwerth SE, Leichtle AB, Fiedler GM, Exadaktylos AK, Lindner G: Primary Hyperventilation in the Emergency Department: A First Overview.PLoS One10(6):e0129562, 2015.doi:10.1371/journal.pone.0129562
+1.Pfortmueller CA, Pauchard-Neuwerth SE, Leichtle AB, Fiedler GM, Exadaktylos AK, Lindner G: Primary Hyperventilation in the Emergency Department: A First Overview.PLoS One10(6):e0129562, 2015.doi:10.1371/journal.pone.0129562
+2.Cowley DS, Roy-Byrne PP: Hyperventilation and panic disorder.Am J Med83(5):929-937, 1987.doi:10.1016/0002-9343(87)90654-1
+2.Cowley DS, Roy-Byrne PP: Hyperventilation and panic disorder.Am J Med83(5):929-937, 1987.doi:10.1016/0002-9343(87)90654-1
+3.Tiotiu A, Ioan I, Poussel M, Schweitzer C, Kafi SA: Comparative analysis between available challenge tests in the hyperventilation syndrome.Respir Med179:106329, 2021.doi:10.1016/j.rmed.2021.106329
+3.Tiotiu A, Ioan I, Poussel M, Schweitzer C, Kafi SA: Comparative analysis between available challenge tests in the hyperventilation syndrome.Respir Med179:106329, 2021.doi:10.1016/j.rmed.2021.106329
+
+【过度通气综合征的症状和体征】
+过度换气综合征患者存在呼吸困难，有时如此严重，他们可能把它比作窒息。它可伴有躁动、恐怖或恐惧感、胸痛、震颤、感觉异常（周围性和口周性）、周围性手足搐搦（如手指或手臂僵硬）、晕厥前期（伴有头晕）或晕厥，有时伴有所有这些症状的组合。手足搐搦的发生是因为呼吸性碱中毒可同时导致低磷血症和低钙血症。查体方面，患者表现为焦虑、呼吸急促、或兼有两者；肺部查体一般正常。
+
+【过度通气综合征的诊断】
+通过检查排除其他诊断（胸片、心电图、脉搏血氧饱和度检测）
+通过检查排除其他诊断（胸片、心电图、脉搏血氧饱和度检测）
+过度通气综合征是排除性诊断；难点在于如何明智地使用检查和资源，以区分该综合征与其他更严重的疾病。
+基础检查包括:
+脉搏血氧饱和度
+脉搏血氧饱和度
+胸部X光检查
+胸部X光检查
+过度通气综合征的脉搏血氧饱和度接近或等于100％。胸部X线检查通常正常。尽管过度通气综合征本身可导致ST段下降、T波倒置和QT间期延长，但仍应通过ECG检测心脏缺血。在门诊环境中，可进行心肺运动试验（1）。过度换气激发试验（要求患者在一段时间内自愿过度换气以诱发低碳酸血症，然后观察症状和生理反应）可能优于运动试验（2）。奈梅亨问卷是一种量化和评估与过度通气一致的主观症状的工具，尽管分数升高可能不能诊断特定综合征（3）。
+当怀疑过度换气的其他原因时，需要进行动脉血气 (ABG) 测量，例如代谢性酸中毒。
+有时过度通气综合征不易与急性肺栓塞鉴别，此时可行肺栓塞相关检查以资鉴别（如D-二聚体、通气/灌注扫描、CT血管成像）。
+
+【诊断参考】
+1.Brat K, Stastna N, Merta Z, Olson LJ, Johnson BD, Cundrle I Jr: Cardiopulmonary exercise testing for identification of patients with hyperventilation syndrome.PLoS One14(4):e0215997, 2019.doi:10.1371/journal.pone.0215997
+1.Brat K, Stastna N, Merta Z, Olson LJ, Johnson BD, Cundrle I Jr: Cardiopulmonary exercise testing for identification of patients with hyperventilation syndrome.PLoS One14(4):e0215997, 2019.doi:10.1371/journal.pone.0215997
+2.Tiotiu A, Ioan I, Poussel M, Schweitzer C, Kafi SA: Comparative analysis between available challenge tests in the hyperventilation syndrome.Respir Med179:106329, 2021.doi:10.1016/j.rmed.2021.106329
+2.Tiotiu A, Ioan I, Poussel M, Schweitzer C, Kafi SA: Comparative analysis between available challenge tests in the hyperventilation syndrome.Respir Med179:106329, 2021.doi:10.1016/j.rmed.2021.106329
+3.van Dixhoorn J, Folgering H.The Nijmegen Questionnaire and dysfunctional breathing.ERJ Open Res1(1):00001-2015, 2015.doi:10.1183/23120541.00001-2015
+3.van Dixhoorn J, Folgering H.The Nijmegen Questionnaire and dysfunctional breathing.ERJ Open Res1(1):00001-2015, 2015.doi:10.1183/23120541.00001-2015
+
+【过度通气综合征的治疗】
+支持性心理咨询
+支持性心理咨询
+有时需要精神或心理治疗
+有时需要精神或心理治疗
+急性过度通气的治疗主要是教育和安抚（1）。由于缺乏充分的临床证据，急性期的治疗通常是经验性的。
+一些医生提倡教病人结构化的呼吸技巧（嵌入认知行为疗法中），包括最大呼气、缓慢呼气和横膈膜呼吸。
+可能需要认知行为疗法，因为大多数过度通气综合征患者需要治疗潜在的情绪或焦虑障碍；适当的治疗还包括减压技术、心理治疗（如抗焦虑药、抗抑郁药、锂盐）或这些方式的结合。
+
+【治疗参考文献】
+1.Wheatley CE: Hyperventilation syndrome: a frequent cause of chest pain.Chest68(2):195–199, 1975.doi:10.1378/chest.68.2.195
+1.Wheatley CE: Hyperventilation syndrome: a frequent cause of chest pain.Chest68(2):195–199, 1975.doi:10.1378/chest.68.2.195

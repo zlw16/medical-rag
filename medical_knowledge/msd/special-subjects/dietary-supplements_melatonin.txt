@@ -1,0 +1,67 @@
+标题：褪黑素
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/melatonin
+============================================================
+
+褪黑素是松果体分泌的一种激素，具有调节生理节律的作用。可从动物体内提取，但大多数为人工合成。在有些国家，褪黑素被视为药物，按照药物进行管理。
+
+【褪黑素的功效宣称】
+褪黑激素是用于睡眠模式的短期调控，包括时差和失眠。关于使用褪黑激素治疗季节性情感障碍，在夜班人员的睡眠模式调节以及早期阿尔茨海默病人睡眠/觉醒周期的重新同步的研究目前正在评估当中。
+标准剂量尚未确定，剂量范围从0.5～5mg，于旅行当天和之后2～4天睡前1小时口服。
+褪黑激素还可用于控制手术前后的焦虑；80%的手术病人会出现焦虑。
+
+【褪黑素的证据】
+有证据表明褪黑素可减轻时差反应，尤其当旅行者向东跨越2～5个时区(1、2)。
+对19个研究（1683个受试者）的荟萃分析发现，褪黑素用于治疗儿童和成人原发性睡眠障碍，可使入睡时间缩短7分钟，使整体睡眠时间延长8分钟，并改善睡眠质量 (3)。 一项随机试验的荟萃分析提供了证据，表明褪黑素可以缩短原发性失眠患者的睡眠潜伏期，对睡眠相位延迟综合征患者有益，并有助于调节盲人的睡眠-觉醒模式（4）。另一项荟萃分析发现，褪黑激素对继发性睡眠障碍（由睡眠限制引起的继发性失眠）有益——特别是它可以减少入睡潜伏期并增加总睡眠时间，尽管它不会提高睡眠效率 (5)。
+一项针对轮班工作引起的嗜睡和睡眠障碍的药物干预的Cochrane系统性综述发现，与安慰剂相比，夜班后的褪黑激素（1至10毫克）可能会使白天的睡眠时间增加24分钟，夜间的睡眠时间增加17分钟，这是低质量证据（6)。
+作为成人和神经精神障碍儿童（如广泛性发育障碍）的助眠剂使用，其依据尚不足。然而，在 19 项随机对照研究中，褪黑激素显著改善了神经发育障碍儿童的入睡潜伏期、睡眠持续时间和入睡后清醒时间 (7)。
+2015 年的一项 Cochrane 系统评价包括 12 项随机试验，涉及 774 名患者，发现褪黑素在减轻术前焦虑方面优于安慰剂。然而，褪黑素对减轻术后焦虑的益处的结果喜忧参半（8个)。
+褪黑激素也可能有助于减轻与日落综合征相关的行为症状（9）。一项包含462名阿尔茨海默病患者的7项随机试验的荟萃分析报告称，褪黑素可能改善此类患者的睡眠质量（10）。
+不同产品的褪黑激素含量不同（11)。
+
+【褪黑素的不良反应】
+可能会出现头痛、头晕、恶心、嗜睡和短暂的抑郁。褪黑激素可能会加重现有的抑郁症。
+美国睡眠医学会2015年指南建议老年痴呆症患者不要使用褪黑激素，因为证据不足(12)。一份关于老年人使用褪黑素的报告表明，总体而言褪黑素的使用可能是安全的，但长期使用的效果尚不明确（13）。重要的是要考虑褪黑激素在老年人中的活跃时间可能比年轻人长，并导致白天嗜睡。因此，需要更多研究来评估褪黑激素在老年人以及痴呆症患者中的安全性。
+由于褪黑激素在家庭中广泛使用和可得，儿童可能无意中摄入（14）。
+
+【褪黑素的药物相互作用】
+有证据表明褪黑激素可增加华法林的效果，增加了出血的危险。
+褪黑素可能会降低抗癫痫药物的作用，并增加癫痫发作的风险。
+褪黑激素可能会增强药物的镇静作用，如苯二氮卓类药物。
+褪黑激素可能会增加甲基苯丙胺的副作用。
+氟伏沙明、雌激素和喹诺酮类抗生素可能增加褪黑激素水平。卡马西平和利福平可能会降低褪黑激素水平。
+(参考表一些可能的膳食补充剂-药物相互作用。）
+
+【参考文献】
+1.Melatonin for jet lag.Drug Ther Bull.58(2):21-24, 2020.doi: 10.1136/dtb.2019.000074
+1.Melatonin for jet lag.Drug Ther Bull.58(2):21-24, 2020.doi: 10.1136/dtb.2019.000074
+2.Buscemi N, Vandermeer B, Pandya R, et al.Melatonin for treatment of sleep disorders.Evid Rep Technol Assess (Summ).(108):1-7, 2004.doi:10.1037/e439412005-001
+2.Buscemi N, Vandermeer B, Pandya R, et al.Melatonin for treatment of sleep disorders.Evid Rep Technol Assess (Summ).(108):1-7, 2004.doi:10.1037/e439412005-001
+3.Ferracioli-Oda E, Qawasmi A, Bloch MH.Meta-analysis: melatonin for the treatment of primary sleep disorders.PLoS One.8(5):e63773, 2013.doi: 10.1371/journal.pone.0063773
+3.Ferracioli-Oda E, Qawasmi A, Bloch MH.Meta-analysis: melatonin for the treatment of primary sleep disorders.PLoS One.8(5):e63773, 2013.doi: 10.1371/journal.pone.0063773
+4.Auld F, Maschauer EL, Morrison I, et al.Evidence for the efficacy of melatonin in the treatment of primary adult sleep disorders.Sleep Med Rev.34:10-22, 2017.doi: 10.1016/j.smrv.2016.06.005
+4.Auld F, Maschauer EL, Morrison I, et al.Evidence for the efficacy of melatonin in the treatment of primary adult sleep disorders.Sleep Med Rev.34:10-22, 2017.doi: 10.1016/j.smrv.2016.06.005
+5.Li T, Jiang S, Han M, et al.Exogenous melatonin as a treatment for secondary sleep disorders: a systematic review and meta-analysis.Front Neuroendocrinol.52:22-28, 2019.doi: 10.1016/j.yfrne.2018.06.004
+5.Li T, Jiang S, Han M, et al.Exogenous melatonin as a treatment for secondary sleep disorders: a systematic review and meta-analysis.Front Neuroendocrinol.52:22-28, 2019.doi: 10.1016/j.yfrne.2018.06.004
+6.Liira J, Verbeek JH, Costa G, et al.Pharmacological interventions for sleepiness and sleep disturbances caused by shift work.Cochrane Database Syst Rev.(8):CD009776, 2014.doi:10.1002/14651858.CD009776.pub2
+6.Liira J, Verbeek JH, Costa G, et al.Pharmacological interventions for sleepiness and sleep disturbances caused by shift work.Cochrane Database Syst Rev.(8):CD009776, 2014.doi:10.1002/14651858.CD009776.pub2
+7.McDonagh MS, Holmes R, Hsu F.Pharmacologic treatments for sleep disorders in children: a systematic review.J Child Neurol.34(5):237-247, 2019.doi: 10.1177/0883073818821030
+7.McDonagh MS, Holmes R, Hsu F.Pharmacologic treatments for sleep disorders in children: a systematic review.J Child Neurol.34(5):237-247, 2019.doi: 10.1177/0883073818821030
+8.Hansen MV, Halladin NL, Rosenberg J, Gögenur I, Møller AM.Melatonin for pre- and postoperative anxiety in adults.Cochrane Database Syst Rev.(4):CD009861, 2015.doi:10.1002/14651858.CD009861.pub2
+8.Hansen MV, Halladin NL, Rosenberg J, Gögenur I, Møller AM.Melatonin for pre- and postoperative anxiety in adults.Cochrane Database Syst Rev.(4):CD009861, 2015.doi:10.1002/14651858.CD009861.pub2
+9.de Jonghe A, Korevaar JC, van Munster BC, de Rooij SE.Effectiveness of melatonin treatment on circadian rhythm disturbances in dementia.Are there implications for delirium?A systematic review.Int J Geriatr Psychiatry.2010 Dec;25(12):1201-8.doi: 10.1002/gps.2454.PMID: 21086534.
+9.de Jonghe A, Korevaar JC, van Munster BC, de Rooij SE.Effectiveness of melatonin treatment on circadian rhythm disturbances in dementia.Are there implications for delirium?A systematic review.Int J Geriatr Psychiatry.2010 Dec;25(12):1201-8.doi: 10.1002/gps.2454.PMID: 21086534.
+10.Wang YY, Zheng W, Ng CH, Ungvari GS, Wei W, Xiang YT.Meta-analysis of randomized, double-blind, placebo-controlled trials of melatonin in Alzheimer's disease.Int J Geriatr Psychiatry.2017 Jan;32(1):50-57.doi: 10.1002/gps.4571.Epub 2016 Sep 19.PMID: 27645169.
+10.Wang YY, Zheng W, Ng CH, Ungvari GS, Wei W, Xiang YT.Meta-analysis of randomized, double-blind, placebo-controlled trials of melatonin in Alzheimer's disease.Int J Geriatr Psychiatry.2017 Jan;32(1):50-57.doi: 10.1002/gps.4571.Epub 2016 Sep 19.PMID: 27645169.
+11.Erland LA, Saxena PK.Melatonin natural health products and supplements: presence of serotonin and significant variability of melatonin content.J Clin Sleep Med.13(2):275-281, 2017.doi:10.5664/jcsm.6462
+11.Erland LA, Saxena PK.Melatonin natural health products and supplements: presence of serotonin and significant variability of melatonin content.J Clin Sleep Med.13(2):275-281, 2017.doi:10.5664/jcsm.6462
+12.Auger RR, Burgess HJ, Emens JS, Deriy LV, Thomas SM, Sharkey KM.Clinical Practice Guideline for the Treatment of Intrinsic Circadian Rhythm Sleep-Wake Disorders: Advanced Sleep-Wake Phase Disorder (ASWPD), Delayed Sleep-Wake Phase Disorder (DSWPD), Non-24-Hour Sleep-Wake Rhythm Disorder (N24SWD), and Irregular Sleep-Wake Rhythm Disorder (ISWRD).An Update for 2015: An American Academy of Sleep Medicine Clinical Practice Guideline.J Clin Sleep Med.11(10):1199-1236, 2015 doi:10.5664/jcsm.5100
+12.Auger RR, Burgess HJ, Emens JS, Deriy LV, Thomas SM, Sharkey KM.Clinical Practice Guideline for the Treatment of Intrinsic Circadian Rhythm Sleep-Wake Disorders: Advanced Sleep-Wake Phase Disorder (ASWPD), Delayed Sleep-Wake Phase Disorder (DSWPD), Non-24-Hour Sleep-Wake Rhythm Disorder (N24SWD), and Irregular Sleep-Wake Rhythm Disorder (ISWRD).An Update for 2015: An American Academy of Sleep Medicine Clinical Practice Guideline.J Clin Sleep Med.11(10):1199-1236, 2015 doi:10.5664/jcsm.5100
+13.Tuft C, Matar E, Menczel Schrire Z, Grunstein RR, Yee BJ, Hoyos CM.Current Insights into the Risks of Using Melatonin as a Treatment for Sleep Disorders in Older Adults.Clin Interv Aging.2023 Jan 12;18:49-59.doi: 10.2147/CIA.S361519
+13.Tuft C, Matar E, Menczel Schrire Z, Grunstein RR, Yee BJ, Hoyos CM.Current Insights into the Risks of Using Melatonin as a Treatment for Sleep Disorders in Older Adults.Clin Interv Aging.2023 Jan 12;18:49-59.doi: 10.2147/CIA.S361519
+14.Lelak K, Vohra V, Neuman MI, et al.Pediatric melatonin ingestions - United States, 2012-2021.MMWR Morb Mortal Wkly Rep.71(22):725-729, 2022.doi:10.15585/mmwr.mm7122a1
+14.Lelak K, Vohra V, Neuman MI, et al.Pediatric melatonin ingestions - United States, 2012-2021.MMWR Morb Mortal Wkly Rep.71(22):725-729, 2022.doi:10.15585/mmwr.mm7122a1
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Melatoninin as a dietary supplement
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Melatoninin as a dietary supplement

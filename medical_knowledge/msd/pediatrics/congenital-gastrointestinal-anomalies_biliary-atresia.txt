@@ -1,0 +1,108 @@
+标题：胆道闭锁
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-gastrointestinal-anomalies/biliary-atresia
+============================================================
+
+(参见先天性胃肠道畸形概述。)
+全世界胆道闭锁的发病率约为每5000至20000例活产婴儿中有1例；发病率最高的是亚洲（1，2）。仅在美国，其发病率约为每12,000例活产婴儿中出现1例（3）。
+在大多数情况下，胆道闭锁在出生后数周至数月出现，可能是在肝外（有时是肝内）胆管发炎和瘢痕形成之后（4）。 它在出生时很少存在于早产儿或新生儿中 （或在新生儿中未被识别）。
+炎症反应的原因尚不清楚。已有多种感染性微生物被认为与该病相关，包括巨细胞病毒、EB病毒、呼肠孤病毒和轮状病毒，但目前尚未发现明确关联（5）。此外，可能存在遗传因素和多个相关基因（ADD3、EFEMP1、AFAP1、TUSC3、MAN1A2、ARF6、CRIPTO、NODAL、LEFTY、GPC）（2）。
+胆道闭锁可导致肝硬化，并伴有进行性、不可逆的肝脏疤痕。鉴别诊断需考虑多种病因，但胆道闭锁的早期诊断至关重要——因为在出生后45至60天内实施肝门空肠吻合术（Kasai手术），能为患儿提供最大机会实现自体肝存活(6)。肝硬化可以在2个月大时发展，如果不治疗缺陷，就会发展。
+许多患有胆道闭锁的婴儿还患有其他先天性疾病，包括多脾/无脾（胆道闭锁脾脏畸形 [BASM] 综合征），占 50%，先天性心脏病约占 15%，肠闭锁高达 5%，内脏反位和肾脏异常（2）。
+
+【参考文献】
+1.Harpavat S, Garcia-Prats JA, Anaya C, et al.Diagnostic yield of newborn screening for biliary atresia using direct or conjugated bilirubin measurements.JAMA.2020;323(12):1141–1150.doi:10.1001/jama.2020.0837
+1.Harpavat S, Garcia-Prats JA, Anaya C, et al.Diagnostic yield of newborn screening for biliary atresia using direct or conjugated bilirubin measurements.JAMA.2020;323(12):1141–1150.doi:10.1001/jama.2020.0837
+2.Tam PKH, Wells RG, Tang CSM, et al.Biliary atresia.Nat Rev Dis Primers.2024;10(1):47.Published 2024 Jul 11.doi:10.1038/s41572-024-00533-x
+2.Tam PKH, Wells RG, Tang CSM, et al.Biliary atresia.Nat Rev Dis Primers.2024;10(1):47.Published 2024 Jul 11.doi:10.1038/s41572-024-00533-x
+3.Fawaz R, Baumann U, Ekong U, et al.Guideline for the Evaluation of Cholestatic Jaundice in Infants: Joint Recommendations of the North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition and the European Society for Pediatric Gastroenterology, Hepatology, and Nutrition.J Pediatr Gastroenterol Nutr.2017;64(1):154-168.doi:10.1097/MPG.0000000000001334
+3.Fawaz R, Baumann U, Ekong U, et al.Guideline for the Evaluation of Cholestatic Jaundice in Infants: Joint Recommendations of the North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition and the European Society for Pediatric Gastroenterology, Hepatology, and Nutrition.J Pediatr Gastroenterol Nutr.2017;64(1):154-168.doi:10.1097/MPG.0000000000001334
+4.Lendahl U, Lui VCH, Chung PHY.Biliary Atresia - emerging diagnostic and therapy opportunities.EBioMedicine.2021;74:103689.doi:10.1016/j.ebiom.2021.103689
+4.Lendahl U, Lui VCH, Chung PHY.Biliary Atresia - emerging diagnostic and therapy opportunities.EBioMedicine.2021;74:103689.doi:10.1016/j.ebiom.2021.103689
+5.Miller PN, Baskaran S, Nijagal A.Immunology of Biliary Atresia.Semin Pediatr Surg.2024;33(6):151474.doi:10.1016/j.sempedsurg.2025.151474
+5.Miller PN, Baskaran S, Nijagal A.Immunology of Biliary Atresia.Semin Pediatr Surg.2024;33(6):151474.doi:10.1016/j.sempedsurg.2025.151474
+6.Robie DK, Overfelt SR, Xie L.Differentiating biliary atresia from other causes of cholestatic jaundice.Am Surg.2014;80(9):827-831.
+6.Robie DK, Overfelt SR, Xie L.Differentiating biliary atresia from other causes of cholestatic jaundice.Am Surg.2014;80(9):827-831.
+
+【胆道闭锁的症状和体征】
+胆道闭锁婴儿的临床表现是黄疸，并且经常有深色尿液（含有结合胆红素），无胆色便和肝脾肿大。健康婴儿在2周大时出现胆汁淤积性黄疸，需要进行调查以确定根本原因。
+2~3个月大时，婴儿可能生长发育不良、营养不良、瘙痒、易怒和脾肿大。
+未经治疗，肝纤维化进展为肝硬化，导致门静脉高压症、腹水引起腹胀、腹壁静脉扩张，以及食管静脉曲张引起的上消化道出血。
+
+【胆道闭锁的诊断】
+总胆红素和直接胆红素
+总胆红素和直接胆红素
+肝功能检查
+肝功能检查
+血清α-1抗胰蛋白酶水平（排除α-1抗蛋白酶缺乏症）
+血清α-1抗胰蛋白酶水平（排除α-1抗蛋白酶缺乏症）
+汗液氯化物测试（排除囊性纤维化）
+汗液氯化物测试（排除囊性纤维化）
+如果超声阳性或无法诊断，进行空气灌肠或造影剂灌肠（除非患者出现腹膜炎或穿孔表现）。
+如果超声阳性或无法诊断，进行空气灌肠或造影剂灌肠（除非患者出现腹膜炎或穿孔表现）。
+肝胆扫描
+肝胆扫描
+通常需要肝活检和术中胆管造影
+通常需要肝活检和术中胆管造影
+胆道闭锁通过总胆红素和直接胆红素的升高来识别。应该确定血清alpha-1抗胰蛋白酶水平，因为alpha-1抗胰蛋白酶缺乏症是胆汁淤积的另一个相对常见的原因。 评估肝功能所需的测试包括白蛋白，肝酶，凝血酶原时间/部分凝血酶时间(PT/PTT)和氨水平。 基质金属蛋白酶-7对胆道闭锁也高度敏感（94%） (1)。
+还应确定汗液氯化物浓度以排除囊性纤维化(2)。通常，需要进行额外的测试来评估新生儿胆汁淤积的其他代谢，感染，遗传和内分泌原因 (3)。血清丙氨酸转氨酶 (ALT)、天冬氨酸转氨酶 (AST) 和 γ-谷氨酰转移酶 (GGT) 水平升高支持胆道闭锁的诊断，但不排除其他形式的胆汁淤积。
+腹部超声检查是无创的，可以评估肝脏大小和胆囊和胆总管的某些异常。患有胆道闭锁的婴儿通常有一个小的收缩胆囊或一个无法看到的胆囊。然而，这些发现是非特异性的。
+还应使用羟基亚氨基二乙酸（HIDA）进行肝胆扫描；造影剂排泄入肠排除了胆道闭锁，但排泄不足不能诊断胆道闭锁，因为严重的新生儿肝炎和其他原因的胆汁淤积也可能导致很少或没有排泄。
+胆道闭锁通过肝活检和术中胆道造影明确诊断 (4)。有时，可以进行 ERCP（内镜逆行胰胆管造影）来帮助诊断。经典的组织学检查结果是门脉扩张伴纤维化和胆管增生。 胆管内可见胆栓。术中胆管造影显示肝外胆管未通。
+鉴别诊断包括新生儿胆汁淤积性黄疸的其他原因，包括 Alagille 综合征、α-1-抗胰蛋白酶缺乏症、囊性纤维化、代谢紊乱（例如，半乳糖血症、酪氨酸血症、先天性感染和新生儿肝炎）（4）。
+
+【诊断参考】
+1.Pandurangi S, Mourya R, Nalluri S, et al.Diagnostic accuracy of serum matrix metalloproteinase-7 as a biomarker of biliary atresia in a large North American cohort.Hepatology.2024;80(1):152-162.doi:10.1097/HEP.0000000000000827
+1.Pandurangi S, Mourya R, Nalluri S, et al.Diagnostic accuracy of serum matrix metalloproteinase-7 as a biomarker of biliary atresia in a large North American cohort.Hepatology.2024;80(1):152-162.doi:10.1097/HEP.0000000000000827
+2.Kobelska-Dubiel N, Klincewicz B, Cichy W.Liver disease in cystic fibrosis.Prz Gastroenterol.2014;9(3):136-141.doi:10.5114/pg.2014.43574
+2.Kobelska-Dubiel N, Klincewicz B, Cichy W.Liver disease in cystic fibrosis.Prz Gastroenterol.2014;9(3):136-141.doi:10.5114/pg.2014.43574
+3.Heinz N, Vittorio J.Treatment of Cholestasis in Infants and Young Children.Curr Gastroenterol Rep.2023;25(11):344-354.doi:10.1007/s11894-023-00891-8
+3.Heinz N, Vittorio J.Treatment of Cholestasis in Infants and Young Children.Curr Gastroenterol Rep.2023;25(11):344-354.doi:10.1007/s11894-023-00891-8
+4.Tam PKH, Wells RG, Tang CSM, et al.Biliary atresia.Nat Rev Dis Primers.2024;10(1):47.Published 2024 Jul 11.doi:10.1038/s41572-024-00533-x
+4.Tam PKH, Wells RG, Tang CSM, et al.Biliary atresia.Nat Rev Dis Primers.2024;10(1):47.Published 2024 Jul 11.doi:10.1038/s41572-024-00533-x
+
+【胆道闭锁的治疗】
+术中胆管造影
+术中胆管造影
+肝门肠吻合术（Kasai手术）
+肝门肠吻合术（Kasai手术）
+常需进行肝移植
+常需进行肝移植
+推测婴儿有胆道闭锁需要用术中胆道造影进行手术探查。如果确认胆道闭锁，则应在同一外科手术中进行门空肠吻合术（Kasai 手术）。理想的情况是，该手术应该在婴儿出生后的第一个月进行。如果手术在出生后< 30天进行，长期预后最好；如果在出生后≥60天进行，预后明显恶化 (1)。
+术后许多患者会出现明显的慢性问题，包括持续性胆汁淤积、复发性上行性胆管炎，以及生长发育迟缓与体重增长不佳（以前称为发育不良）。如果术后胆汁淤积持续≥ 3 个月，应考虑转诊至移植中心 (2)。术后通常会预防性使用抗生素（如复方新诺明或新霉素）长达一年，以预防上行性胆管炎的发生。术后常使用增加胆汁分泌的药物（利胆剂），如熊去氧胆酸。营养疗法包括补充脂溶性维生素（A, D, E和K）对于确保足够的摄入以支持生长是非常重要的（3,4）。
+无法接受肝门空肠吻合术的婴儿通常需要进行肝移植。
+
+【治疗参考文献】
+1.Hoshino E, Muto Y, Sakai K, Shimohata N, Urayama KY, Suzuki M.Age at surgery and native liver survival in biliary atresia: a systematic review and meta-analysis.Eur J Pediatr.2023;182(6):2693-2704.doi:10.1007/s00431-023-04925-1
+1.Hoshino E, Muto Y, Sakai K, Shimohata N, Urayama KY, Suzuki M.Age at surgery and native liver survival in biliary atresia: a systematic review and meta-analysis.Eur J Pediatr.2023;182(6):2693-2704.doi:10.1007/s00431-023-04925-1
+2.Squires RH, Ng V, Romero R, et al.Evaluation of the pediatric patient for liver transplantation: 2014 practice guideline by the American Association for the Study of Liver Diseases, American Society of Transplantation and the North American Society for Pediatric Gastroenterology, Hepatology and Nutrition.Hepatology.2014;60(1):362-398.doi:10.1002/hep.27191
+2.Squires RH, Ng V, Romero R, et al.Evaluation of the pediatric patient for liver transplantation: 2014 practice guideline by the American Association for the Study of Liver Diseases, American Society of Transplantation and the North American Society for Pediatric Gastroenterology, Hepatology and Nutrition.Hepatology.2014;60(1):362-398.doi:10.1002/hep.27191
+3.Mouzaki M, Bronsky J, Gupte G, et al.Nutrition support of children with chronic liver diseases: A joint position paper of the North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition and the European Society for Pediatric Gastroenterology, Hepatology, and Nutrition.J Pediatr Gastroenterol Nutr. 2019;69(4):498–511. doi:10.1097/MPG.0000000000002443
+3.Mouzaki M, Bronsky J, Gupte G, et al.Nutrition support of children with chronic liver diseases: A joint position paper of the North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition and the European Society for Pediatric Gastroenterology, Hepatology, and Nutrition.J Pediatr Gastroenterol Nutr. 2019;69(4):498–511. doi:10.1097/MPG.0000000000002443
+4.Heinz N, Vittorio J.Treatment of Cholestasis in Infants and Young Children.Curr Gastroenterol Rep.2023;25(11):344-354.doi:10.1007/s11894-023-00891-8
+4.Heinz N, Vittorio J.Treatment of Cholestasis in Infants and Young Children.Curr Gastroenterol Rep.2023;25(11):344-354.doi:10.1007/s11894-023-00891-8
+
+【胆道闭锁的预后】
+胆道闭锁是进行性的，如果不治疗，会在几个月大时导致肝硬化和门脉高压，然后在1岁时导致肝功能衰竭和死亡。
+门空肠吻合术对某些婴儿无效，对大多数婴儿仅起到缓解作用。肝门空肠吻合术后，30% 的患者需要在中位年龄 6 岁时进行肝移植，而高达 80% 的患者需要在 20 岁时进行移植 (1，2)。肝移植术后（无论是否曾行门肠吻合术）的长期生存率约为80%（3,4）。
+
+【预后参考】
+1.Squires RH, Ng V, Romero R, et al.Evaluation of the pediatric patient for liver transplantation: 2014 practice guideline by the American Association for the Study of Liver Diseases, American Society of Transplantation and the North American Society for Pediatric Gastroenterology, Hepatology and Nutrition.Hepatology.2014;60(1):362-398.doi:10.1002/hep.27191
+1.Squires RH, Ng V, Romero R, et al.Evaluation of the pediatric patient for liver transplantation: 2014 practice guideline by the American Association for the Study of Liver Diseases, American Society of Transplantation and the North American Society for Pediatric Gastroenterology, Hepatology and Nutrition.Hepatology.2014;60(1):362-398.doi:10.1002/hep.27191
+2.Chung PHY, Chan EKW, Yeung F, et al.Life long follow up and management strategies of patients living with native livers after Kasai portoenterostomy.Sci Rep.2021;11(1):11207.Published 2021 May 27.doi:10.1038/s41598-021-90860-w
+2.Chung PHY, Chan EKW, Yeung F, et al.Life long follow up and management strategies of patients living with native livers after Kasai portoenterostomy.Sci Rep.2021;11(1):11207.Published 2021 May 27.doi:10.1038/s41598-021-90860-w
+3.Lendahl U, Lui VCH, Chung PHY.Biliary Atresia - emerging diagnostic and therapy opportunities.EBioMedicine.2021;74:103689.doi:10.1016/j.ebiom.2021.103689
+3.Lendahl U, Lui VCH, Chung PHY.Biliary Atresia - emerging diagnostic and therapy opportunities.EBioMedicine.2021;74:103689.doi:10.1016/j.ebiom.2021.103689
+4.Sundaram SS, Mack CL, Feldman AG, et al.Biliary atresia: Indications and timing of liver transplantation and optimization of pretransplant care.Liver Transpl.2017;23(1):96-109.doi:10.1002/lt.24640
+4.Sundaram SS, Mack CL, Feldman AG, et al.Biliary atresia: Indications and timing of liver transplantation and optimization of pretransplant care.Liver Transpl.2017;23(1):96-109.doi:10.1002/lt.24640
+在大多数情况下，胆道闭锁在出生后数周出现，可能是在肝外（有时是肝内）胆管发炎和瘢痕形成之后。
+在大多数情况下，胆道闭锁在出生后数周出现，可能是在肝外（有时是肝内）胆管发炎和瘢痕形成之后。
+婴儿出现黄疸，常伴有深色尿液（含结合胆红素）、陶土样大便及肝脾肿大。
+婴儿出现黄疸，常伴有深色尿液（含结合胆红素）、陶土样大便及肝脾肿大。
+到2至3个月，婴儿可能因营养不良，瘙痒，易怒和脾肿大而生长不良。
+到2至3个月，婴儿可能因营养不良，瘙痒，易怒和脾肿大而生长不良。
+通过血检、超声检查、肝胆扫描、肝活检和术中胆道造影诊断。
+通过血检、超声检查、肝胆扫描、肝活检和术中胆道造影诊断。
+治疗采用尽早实施的肝门空肠吻合术（Kasai手术），理想情况下应在出生后30天内完成；若在出生60天或更晚进行手术，该手术的成功率将显著降低。
+治疗采用尽早实施的肝门空肠吻合术（Kasai手术），理想情况下应在出生后30天内完成；若在出生60天或更晚进行手术，该手术的成功率将显著降低。
+通常后续需要进行肝移植。
+通常后续需要进行肝移植。

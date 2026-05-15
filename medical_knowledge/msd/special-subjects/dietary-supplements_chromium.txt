@@ -1,0 +1,41 @@
+标题：铬
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/chromium
+============================================================
+
+铬是一种矿物质，可增强胰岛素的作用。营养来源包括胡萝卜、马铃薯、椰菜、全谷物和蜜糖。吡啶甲酸是一种色氨酸的副产物，在补充剂中与铬配对，被认为可以帮助人体更有效的吸收铬。
+
+【铬功效宣称】
+吡啶甲酸铬据称可以帮助减轻体重，构造肌肉，减少体脂，降低胆固醇和甘油三酯水平，增强胰岛功能。虽然铬的 缺乏损害胰岛素功能，但几乎没有证据表明补充铬有助于糖尿病患者，也没有证据表明铬对身体成分或血脂水平有好处。
+
+【铬的证据】
+补充铬的作用是有争议的，且临床结果也不一致。
+2002年的一项荟萃分析评估了20项随机临床试验，得出的结论是，数据表明铬对非糖尿病患者的葡萄糖或胰岛素水平没有影响；糖尿病患者的结果没有定论 (1)。
+对涉及 2 型糖尿病患者的随机对照试验的严格分析评估了具有临床意义的结果（例如糖化血红蛋白 < 7% 或糖化血红蛋白下降 0.5% 或更多），并发现补充铬充其量只能提供很小的益处。具体而言，在14项试验中，只有3项试验的血红蛋白A1C下降到<7%，而在14项实验中，有5项试验的HbA1C下降了0.5%或更大（2）。一项对28项研究的不同荟萃分析报告称，空腹血浆葡萄糖和血红蛋白A1C显著下降，尽管纳入的研究存在异质性，如铬的剂量和类型不同。(3个)。
+2019年一项评估铬对超重或肥胖受试者人体测量指数影响的荟萃分析发现，体重、体重指数和体脂百分比略有但显著下降。作者表示效果中等，体重减轻的临床相关性尚不确定 (4)。
+值得注意的是，Cochrane对吡啶甲酸铬在超重或肥胖成年人中的随机对照试验的审查发现，其体重略有但显著下降；然而，研究人员表示，没有全面的证据支持吡啶甲酸铬的使用 (5)。
+随机，对照临床试验对确定铬是否可以影响糖尿病，脂质代谢，或体重减轻是必要的。这些研究应当控制或调整铬基线水平，以及铬制剂的形式，同时被研究的高危人群的食物摄取应严格监测。
+
+【铬的不良反应】
+若干研究已经表明，每日剂量高达1000 mg铬是安全的。有些形式的铬可能与消化道激惹和溃疡有关。有肝肾功能受损的孤立病例报告，因此，肝肾疾病患者应避免补充。补充铬会干扰铁的吸收。
+
+【铬的药物相互作用】
+铬与胰岛素或磺脲类药物联合使用可能会降低血糖，但不包括二甲双胍的治疗。
+铬可能会降低左旋甲状腺素的血清水平，因此，使用补充铬的患者可能需要调整甲状腺替代疗法的剂量。
+由于铁蛋白的结合，使用铬可能导致铁的缺乏。
+
+【参考文献】
+1.Althuis MD, Jordan NE, Ludington EA, et al.Glucose and insulin responses to dietarychromiumsupplements: a meta-analysis.Am J Clin Nutr.76(1):148-155, 2002.doi:10.1093/ajcn/76.1.148
+1.Althuis MD, Jordan NE, Ludington EA, et al.Glucose and insulin responses to dietarychromiumsupplements: a meta-analysis.Am J Clin Nutr.76(1):148-155, 2002.doi:10.1093/ajcn/76.1.148
+2.Costello RB, Dwyer JT, Bailey RL.Chromiumsupplements for glycemic control in type 2 diabetes: limited evidence of effectiveness.Nutr Rev.74(7):455-68, 2016.doi: 10.1093/nutrit/nuw011
+2.Costello RB, Dwyer JT, Bailey RL.Chromiumsupplements for glycemic control in type 2 diabetes: limited evidence of effectiveness.Nutr Rev.74(7):455-68, 2016.doi: 10.1093/nutrit/nuw011
+3.Asbaghi O, Fatemeh N, Mahnaz RK, et al.Effects ofchromiumsupplementation on glycemic control in patients with type 2 diabetes: a systematic review and meta-analysis of randomized controlled trials.Pharmacol Res.161:105098, 2020.doi:10.1016/j.phrs.2020.105098
+3.Asbaghi O, Fatemeh N, Mahnaz RK, et al.Effects ofchromiumsupplementation on glycemic control in patients with type 2 diabetes: a systematic review and meta-analysis of randomized controlled trials.Pharmacol Res.161:105098, 2020.doi:10.1016/j.phrs.2020.105098
+4.Tsang C, Taghizadeh M, Aghabagheri E, et al.A meta-analysis of the effect ofchromiumsupplementation on anthropometric indices of subjects with overweight or obesity.Clin Obes.9(4):e12313, 2019.doi: 10.1111/cob.12313
+4.Tsang C, Taghizadeh M, Aghabagheri E, et al.A meta-analysis of the effect ofchromiumsupplementation on anthropometric indices of subjects with overweight or obesity.Clin Obes.9(4):e12313, 2019.doi: 10.1111/cob.12313
+5.Tian H, Guo X, Wang X, et al.Chromiumpicolinate supplementation for overweight or obese adults.Cochrane Database Syst Rev.(11):CD010063, 2013.doi: 10.1002/14651858.CD010063.pub2
+5.Tian H, Guo X, Wang X, et al.Chromiumpicolinate supplementation for overweight or obese adults.Cochrane Database Syst Rev.(11):CD010063, 2013.doi: 10.1002/14651858.CD010063.pub2
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Chromium
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Chromium

@@ -1,0 +1,57 @@
+标题：心房扑动
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/atrial-flutter
+============================================================
+
+(参见心律失常概述。）
+心房扑动比心房颤动少见得多，但其原因和血流动力学结果是相似的。许多心房扑动病人也有心房颤动的阶段。在一项以人群为基础的研究中，首次诊断为心房扑动的患者中，69% 已知患有心房颤动，而在那些未知患有心房颤动的患者中，40% 被发现在未来 3 年内患有心房颤动（1）。
+典型的心房扑动是由于涉及大部分右心房的大型折返环，需要通过下腔静脉口和三尖瓣环之间的传导（即腔三尖瓣峡部）。心房以250~350次/分的速率（一般是300次/分）除极。因为房室结通常不能在这种速率时传导，通常情况下一半的冲动可以下传（2∶1阻滞），导致150次/分的规则的心室率。有时传导阻滞的情况时时变化，导致不规则的节律。少见情况下，可能出现固定的3：1、4：1或5：1阻滞。
+单独心房扑动发生血栓栓塞事件的概率被认为约为心房颤动的一半（2）。然而，许多患有心房扑动的患者也有（或将会发展为）心房颤动。因此，抗凝治疗指南并未区分心房扑动患者和心房颤动患者（3）。
+
+【参考文献】
+1.Gula LJ, Redfearn DP, Jenkyn KB, et al: Elevated Incidence of Atrial Fibrillation and Stroke in Patients With Atrial Flutter—A Population-Based Study.Can J Cardiol34(6):774–783, 2018.doi: 10.1016/j.cjca.2018.01.001
+1.Gula LJ, Redfearn DP, Jenkyn KB, et al: Elevated Incidence of Atrial Fibrillation and Stroke in Patients With Atrial Flutter—A Population-Based Study.Can J Cardiol34(6):774–783, 2018.doi: 10.1016/j.cjca.2018.01.001
+2.Biblo LA, Yuan Z, Quan KJ, et al: Risk of stroke in patients with atrial flutter.Am J Cardiol87(3):346–349, 2001.doi: 10.1016/s0002-9149(00)01374-6
+2.Biblo LA, Yuan Z, Quan KJ, et al: Risk of stroke in patients with atrial flutter.Am J Cardiol87(3):346–349, 2001.doi: 10.1016/s0002-9149(00)01374-6
+3.Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation149(1):e1–e156, 2024.doi: 10.1161/CIR.0000000000001193
+3.Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation149(1):e1–e156, 2024.doi: 10.1161/CIR.0000000000001193
+
+【心房扑动的症状和体征】
+心房扑动的症状主要取决于心室率和任何潜在基础心脏病的性质。如果心室率<120次/分并且规则，可能很少有或没有症状。心率过快和房室传导不稳定通常会引起心悸。心输出量减少可能引起血流动力学损害的症状（例如胸部不适、呼吸困难、虚弱、晕厥）。密切观察颈静脉搏动可发现扑动的a波。
+
+【心房扑动的诊断】
+心电图（ECG）可诊断心房扑动。典型的房扑，其心电图可显示连续的和规则的心房激动伴有锯齿状波形，在Ⅱ、Ⅲ、aVF导联最明显（见图房扑）。
+
+【心房扑动】
+心房扑动
+（注：下传伴右束支传导阻滞）
+颈动脉窦按摩可增加房室传导阻滞和更好地显露典型的扑动波。类似的反应可见于应用房室结阻滞药物（如，用腺苷）后出现，但这种药物治疗不能终止心房扑动。
+
+【心房扑动的治疗】
+药物控制心室率
+药物控制心室率
+心脏电复律、药物或消融法控制节律
+心脏电复律、药物或消融法控制节律
+预防血栓栓塞
+预防血栓栓塞
+房扑的治疗重点在于心室率控制、心律控制和血栓栓塞的预防。
+用药物控制房扑的心室率比房颤更困难。因而，大多数病人用电学方法复律（应用同步心脏电复律或超速起搏）是初始发作后的首选治疗，伴有1∶1房室传导或血流动力学损害时必须强制性作上述治疗。通常，低能量（50焦耳）即可有效复律。在复律之前，房颤及房扑均需要抗凝治疗(1)。
+如果用药物转复窦性心律，必须首先用beta-阻断剂或非二氢吡啶类钙通道阻断剂（如维拉帕米，地尔硫卓）控制心率。许多有助于转复窦性心律的抗心律失常药（尤其是Ⅰa和Ⅰc类）能够减慢心房扑动频率，缩短房室结不应期（通过其去迷走神经作用），或者两种效应都存在，足以实现1∶1房室传导，导致心室率矛盾性增加和血流动力学损害。这些药物可根据需要与延长房室结不应期的药物（II、III、IV 类或地高辛）联合用于长期维持治疗，以防止复发（1）。
+抗心动过速起搏系统可作为长期使用抗心律失常药物的替代方案，是一种较少用的治疗手段，适用于以下患者：合并心房扑动，且存在独立起搏指征（如心动过缓），同时不适合采用其他节律控制方案或其他节律控制方案已失败的患者。
+消融治疗旨在阻断心房折返环，可有效地预防心房扑动，特别是典型的心房扑动。由于典型的心房扑动依赖于通过相对较窄的腔三尖瓣峡部的传导，因此在峡部放置阻滞消融线将治愈 95% 以上的患者的典型心房扑动。然而，在心房扑动消融成功后 10 年内，高达 60% 的患者可能会出现心房颤动复发（2）。
+为了预防血栓栓塞，慢性或复发性心房扑动的患者需要口服抗凝药（华法林治疗，维持INR2~3，或直接凝血酶抑制剂或Xa因子抑制剂）。各种治疗方案的选择基于与心房颤动治疗相同的考量 (1)。
+
+【治疗参考文献】
+1.Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation149(1):e1–e156, 2024.doi: 10.1161/CIR.0000000000001193
+1.Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation149(1):e1–e156, 2024.doi: 10.1161/CIR.0000000000001193
+2.Seara JG, Roubin SR, Sampedro FG, et al: Risk of atrial fibrillation, stroke, and death after radiofrequency catheter ablation of typical atrial flutter.Clin Res Cardiol103(7):543–552, 2014.doi: 10.1007/s00392-014-0682-6
+2.Seara JG, Roubin SR, Sampedro FG, et al: Risk of atrial fibrillation, stroke, and death after radiofrequency catheter ablation of typical atrial flutter.Clin Res Cardiol103(7):543–552, 2014.doi: 10.1007/s00392-014-0682-6
+心房扑动是一种快速、有规律的心房节律，可引起有规律、不规则、心动过速或无心动过速的QRS反应，这取决于传导阻滞的程度和类型。
+心房扑动是一种快速、有规律的心房节律，可引起有规律、不规则、心动过速或无心动过速的QRS反应，这取决于传导阻滞的程度和类型。
+在用β-受体阻滞剂和非二氢吡啶钙通道阻滞剂（如维拉帕米、地尔硫卓）等药物控制初始心率后，大多数患者应进行药物或直流电复律。
+在用β-受体阻滞剂和非二氢吡啶钙通道阻滞剂（如维拉帕米、地尔硫卓）等药物控制初始心率后，大多数患者应进行药物或直流电复律。
+复律之前通常需要抗凝治疗。
+复律之前通常需要抗凝治疗。
+慢性或复发性心房扑动的患者需要长期口服抗凝药以预防卒中。
+慢性或复发性心房扑动的患者需要长期口服抗凝药以预防卒中。
+可以使用 Ia、Ic 或 III 类抗心律失常药物以及房室结抑制来预防复发，或者更有效的方法是进行三尖瓣峡部消融。
+可以使用 Ia、Ic 或 III 类抗心律失常药物以及房室结抑制来预防复发，或者更有效的方法是进行三尖瓣峡部消融。

@@ -1,0 +1,34 @@
+标题：纵隔炎
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/mediastinal-and-pleural-disorders/mediastinitis
+============================================================
+
+急性纵隔炎最常见的两项病因是：
+食管穿孔
+食管穿孔
+正中胸骨切开术后胸骨伤口感染
+正中胸骨切开术后胸骨伤口感染
+
+【食管穿孔】
+食管穿孔可并发于食管镜检查或因食管静脉曲张出血而置三腔二囊管时。偶尔也可继发于剧烈呕吐（Boerhaave综合征）。 另外一些可能的诱因是吞食腐蚀性物质（如碱液、某些钮扣电池）。某些药片或食管溃疡（例如，在患有严重HIV感染和食管炎的患者中）也可能导致穿孔。
+食管穿孔的病人通常几小时内急性起病，因纵隔炎症出现严重胸痛和呼吸困难。
+通过临床表现、手术史和一些危险因素可以进行诊断。在病情严重、有胸痛并且可能有无法描述的危险因素的患者（如醉酒并可能强烈呕吐但不记得的患者，或者不会说话的婴幼儿误服了钮扣电池），应考虑食管穿孔可能。胸部X线检查显示纵隔有气体，并通过CT证实，可提示诊断，但其他疾病（例如自发性纵隔气肿）也可能导致纵隔积气。
+治疗需采用肠外抗生素，所选药物应能有效对抗口腔和胃肠道菌群（例如静脉注射克林霉素联合头孢曲松至少2周）。有严重纵隔炎症，伴有胸腔积液或气胸的病人需要急诊纵隔探查，修复食管破口，行胸膜腔和纵隔引流。
+
+【正中胸骨切开术】
+大约1%的正中胸骨切开术病例并发纵隔炎 (1)。这些病人最常表现为伤口排脓或脓毒血症，经胸骨针吸穿刺发现感染性液体可诊断。治疗包括立即进行外科引流术、清创术、静脉使用广谱抗生素。正中胸骨切开术后纵隔炎的死亡率很高 (2)。
+
+【慢性纤维性纵隔炎】
+该病通常由结核病(TB)或组织胞浆菌病引起，但也可能由结节病、矽肺或免疫球蛋白G4(IgG4)相关疾病导致。其他真菌病也可能引起慢性纤维化纵隔炎。
+病人纤维化病变严重，导致纵隔结构受压迫而出现上腔静脉综合征、气管狭窄或肺动脉/静脉阻塞。
+根据胸部CT扫描来诊断。
+如果病因是结核或真菌，则需要进行抗菌治疗。糖皮质激素可能对结节病所致的纤维化性纵隔炎有益。此外，有报道显示利妥昔单抗对IgG4相关纤维化性纵隔炎病例（3）及难治性进展性疾病患者（4）也有疗效良好。可以考虑置入血管或气道支架。
+
+【参考文献】
+1.De Feo M, Renzulli A, Ismeno G, et al.Variables predicting adverse outcome in patients with deep sternal wound infection.Ann Thorac Surg2001;71(1):324-331.doi:10.1016/s0003-4975(00)02137-8
+1.De Feo M, Renzulli A, Ismeno G, et al.Variables predicting adverse outcome in patients with deep sternal wound infection.Ann Thorac Surg2001;71(1):324-331.doi:10.1016/s0003-4975(00)02137-8
+2.Goh SSC.Post-sternotomy mediastinitis in the modern era.J Card Surg2017;32(9):556-566.doi:10.1111/jocs.13189
+2.Goh SSC.Post-sternotomy mediastinitis in the modern era.J Card Surg2017;32(9):556-566.doi:10.1111/jocs.13189
+3.Zhang P, Han X, Li J, et al.IgG4-related fibrosing mediastinitis: clinical presentation, treatment efficacy and comparison with IgG4-RD without fibrosing mediastinitis.Clin Exp Rheumatol2020;38(6):1206-1214.
+3.Zhang P, Han X, Li J, et al.IgG4-related fibrosing mediastinitis: clinical presentation, treatment efficacy and comparison with IgG4-RD without fibrosing mediastinitis.Clin Exp Rheumatol2020;38(6):1206-1214.
+4.Varghese C, Johnson GB, Eiken PW, et al.A Retrospective Evaluation of the Treatment Effects ofRituximabin Patients with Progressive and Symptomatic Fibrosing Mediastinitis.Ann Am Thorac Soc2024;21(11):1533-1541.doi:10.1513/AnnalsATS.202405-533OC
+4.Varghese C, Johnson GB, Eiken PW, et al.A Retrospective Evaluation of the Treatment Effects ofRituximabin Patients with Progressive and Symptomatic Fibrosing Mediastinitis.Ann Am Thorac Soc2024;21(11):1533-1541.doi:10.1513/AnnalsATS.202405-533OC

@@ -1,0 +1,408 @@
+标题：系统性红斑狼疮（SLE）
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/systemic-rheumatic-diseases/systemic-lupus-erythematosus-sle
+============================================================
+
+女性（通常是育龄妇女）的系统性红斑狼疮 (SLE) 发病率比男性高出约10倍（1）。系统性红斑狼疮（SLE）在黑人和亚裔患者中比白人患者更为常见和严重 (2,3)。可见于任何年龄的人群，包括新生儿。在一些国家，系统性红斑狼疮的患病率与类风湿性关节炎的患病率相当。
+SLE的发病可能是某些未知的环境因素导致遗传易感人群发生自身免疫反应所致。一些药物（如肼嗪、普鲁卡因胺、异烟肼、肿瘤坏死因子抑制剂）可引起可逆性狼疮样综合征。
+
+【参考文献】
+1.Somers EC, Marder W, Cagnoli P, et al.Population-based incidence and prevalence of systemic lupus erythematosus: the Michigan Lupus Epidemiology and Surveillance program.Arthritis Rheumatol.2014;66(2):369-378.doi:10.1002/art.38238
+1.Somers EC, Marder W, Cagnoli P, et al.Population-based incidence and prevalence of systemic lupus erythematosus: the Michigan Lupus Epidemiology and Surveillance program.Arthritis Rheumatol.2014;66(2):369-378.doi:10.1002/art.38238
+2.DeQuattro K, Trupin L, Murphy LB, et al.High Disease Severity Among Asian Patients in a US Multiethnic Cohort of Individuals With Systemic Lupus Erythematosus.Arthritis Care Res (Hoboken).2022;74(6):896-903.doi:10.1002/acr.24544
+2.DeQuattro K, Trupin L, Murphy LB, et al.High Disease Severity Among Asian Patients in a US Multiethnic Cohort of Individuals With Systemic Lupus Erythematosus.Arthritis Care Res (Hoboken).2022;74(6):896-903.doi:10.1002/acr.24544
+3.Rees F, Doherty M, Grainge MJ, Lanyon P, Zhang W.The worldwide incidence and prevalence of systemic lupus erythematosus: a systematic review of epidemiological studies.Rheumatology (Oxford).2017;56(11):1945-1961.doi:10.1093/rheumatology/kex260
+3.Rees F, Doherty M, Grainge MJ, Lanyon P, Zhang W.The worldwide incidence and prevalence of systemic lupus erythematosus: a systematic review of epidemiological studies.Rheumatology (Oxford).2017;56(11):1945-1961.doi:10.1093/rheumatology/kex260
+
+【SLE的症状和体征】
+临床表现多变。SLE的发展可能突然伴有发热和多系统受累，也可能在数月或数年内伴有关节痛和不适的发作。任何器官系统均可累及。处于相对缓慢发展期的病例可在短时期内恶化。
+
+【关节表现】
+关节症状，从间歇性多关节痛到急性多关节炎，见于90%患者，并在数年后可发生关节外其他症状。多数狼疮引起的关节炎无破坏性和致畸性。然而，在长期疾病中，由于韧带松弛，可能会出现无骨侵蚀的畸形（例如，掌指关节和指间关节很少会出现可复位的尺骨漂移或无骨或软骨侵蚀的鹅颈样畸形[Jacoud关节炎]）。在SLE和类风湿性关节炎重叠(有时称为 rhupus综合征)的患者中可能会检测到骨侵蚀。
+与许多其他慢性疾病一样，纤维肌痛的患病率增加，这可能导致有关节周围、全身疼痛和疲劳患者的诊断混乱
+
+【皮肤和黏膜表现】
+皮肤病变包括持续的颧蝴蝶状红斑（扁平或凸起），通常不影响鼻唇沟。无丘疹和脓疱以及皮肤萎缩有助于区分SLE和红斑痤疮。
+其他皮疹包括面部和颈部暴露区域、前胸和肘部的坚硬的红斑样或斑丘疹样损害。皮肤水疱和溃疡少见，有时表现为中毒性表皮坏死松解症，但是黏膜溃疡（特别是在硬腭软腭交界附近的硬腭中央部位，颊、龈黏膜及鼻中隔前部）常见 。
+全身性或局灶性可逆脱发在SLE活动期很常见。脂膜炎可引起皮下结节性病变（有时称为狼疮性脂膜炎或深部狼疮）。血管炎性皮sun包括手掌和手指上的斑驳红斑，甲周红斑，甲襞梗塞，荨麻疹和可触及的紫癜。瘀点可能继发于血小板减少症。光敏是常见的。
+红斑狼疮的特征是在光照区域出现粉红色到紫色的无瘢痕斑块和/或结节，有些是环状的。
+狼疮性冻疮的特点是在寒冷气候下，脚趾、手指、鼻子或耳朵出现鲜红色到品蓝色柔软的结节。部分SLE患者还具有扁平苔藓的特征。
+雷诺综合征由于手指和脚趾的血管痉挛引起特征性的苍白和发绀，并可能与指部缺血有关；然而，与系统性硬化症不同，指溃疡在SLE中并不常见。
+(参见亚急性皮肤型红斑狼疮)
+这种凸起的、红斑的、急性颧骨皮疹出现在光照区域（光敏分布）。这种蝴蝶图案包括鼻梁、颧骨区域和眉毛上暴露在阳光下的区域。重要的是，鼻唇沟得以保留。
+这种凸起的、红斑的、急性颧骨皮疹出现在光照区域（光敏分布）。这种蝴蝶图案包括鼻梁、颧骨区域和眉毛上暴露在阳光下的区域。重要的是，鼻唇沟得以保留。
+© Springer Science+Business Media
+这张照片显示脸颊和嘴唇的盘状水肿性病变呈红棕色。
+这张照片显示脸颊和嘴唇的盘状水肿性病变呈红棕色。
+Photo courtesy of Karen McKoy, MD.
+这是一名系统性红斑狼疮患者的照片，患者手掌和手指出现盘状病变，并有环状红斑或色素沉着的鳞状斑块，多处伴有中心色素减退。
+这是一名系统性红斑狼疮患者的照片，患者手掌和手指出现盘状病变，并有环状红斑或色素沉着的鳞状斑块，多处伴有中心色素减退。
+Photo courtesy of Karen McKoy, MD.
+该图像显示了盘状病变，中央区域色素减退，鳞状区域周围有红斑。
+该图像显示了盘状病变，中央区域色素减退，鳞状区域周围有红斑。
+Photo courtesy of Karen McKoy, MD.
+这张照片显示淡粉色的水肿斑块。
+这张照片显示淡粉色的水肿斑块。
+Photo courtesy of Kinanah Yaseen, MD.
+这种凸起的、红斑的、急性颧骨皮疹出现在光照区域（光敏分布）。这种蝴蝶图案包括鼻梁、颧骨区域和眉毛上暴露在阳光下的区域。重要的是，鼻唇沟得以保留。
+这种凸起的、红斑的、急性颧骨皮疹出现在光照区域（光敏分布）。这种蝴蝶图案包括鼻梁、颧骨区域和眉毛上暴露在阳光下的区域。重要的是，鼻唇沟得以保留。
+© Springer Science+Business Media
+这张照片显示脸颊和嘴唇的盘状水肿性病变呈红棕色。
+这张照片显示脸颊和嘴唇的盘状水肿性病变呈红棕色。
+Photo courtesy of Karen McKoy, MD.
+这是一名系统性红斑狼疮患者的照片，患者手掌和手指出现盘状病变，并有环状红斑或色素沉着的鳞状斑块，多处伴有中心色素减退。
+这是一名系统性红斑狼疮患者的照片，患者手掌和手指出现盘状病变，并有环状红斑或色素沉着的鳞状斑块，多处伴有中心色素减退。
+Photo courtesy of Karen McKoy, MD.
+该图像显示了盘状病变，中央区域色素减退，鳞状区域周围有红斑。
+该图像显示了盘状病变，中央区域色素减退，鳞状区域周围有红斑。
+Photo courtesy of Karen McKoy, MD.
+这张照片显示淡粉色的水肿斑块。
+这张照片显示淡粉色的水肿斑块。
+Photo courtesy of Kinanah Yaseen, MD.
+
+【心肺表现】
+心肺系统症状包括复发性胸膜炎，伴或不伴胸膜渗出。虽然常可发生轻度肺功能障碍，但狼疮性肺炎少见。弥漫性肺泡出血偶尔发生，预后较差。其他并发症包括肺栓塞、肺动脉高压和肺萎馅综合征。
+心脏并发症包括心包炎（最常见）和心肌炎。严重的，罕见的并发症是冠状动脉血管炎和瓣膜受累，包括Libman-Sacks心内膜炎。加速动脉粥样硬化导致发病率和死亡率上升的一个日益被认可的原因(1)。先天性心脏传导阻滞可发生在母亲有抗Ro抗体（SSA）的新生儿中，如果母亲只有抗La抗体（SSB），则不太常见。
+
+【淋巴组织】
+全身性腺病是常见的，特别是在儿童、年轻人和非裔美国患者中。脾肿大也可能发生。
+
+【神经系统表现】
+中枢或周围神经系统或脑脊膜的任一部分受累可导致神经症状。轻度认知障碍常见。症状包括头痛、性格改变、脑缺血发作、蛛网膜下隙出血、癫痫、精神病，无菌性脑膜炎、周围和颅神经病变、横断性脊髓炎，舞蹈症或小脑功能障碍。
+皮质类固醇引起的精神病与神经精神性狼疮之间的区分可能具有挑战性，因为两者在脑脊液（CSF）或常规影像学检查中均未显示出明显的异常。
+
+【肾脏表现】
+肾受累可随时发生，可能是SLE的唯一表现(见狼疮性肾炎)。它可能是无症状的，也可能是进行性的和致命的。
+肾脏疾病的严重程度可从局灶性肾小球炎到弥漫性、可能致命的膜增生性肾小球肾炎。常见的表现包括蛋白尿（最常见）、以红细胞铸型、高血压和水肿为表现的异常尿液沉积物。早期狼疮性肾小球肾炎可误诊为无症状尿路感染。
+
+【产科表现】
+产科表现包括早期和晚期的流产。在有抗磷脂抗体的患者中，复发性晚期流产的风险增加。可以成功怀孕（见妊娠期SLE）尤其是在6到12个月的缓解期后，但SLE发作在怀孕期间很常见，尤其是产后期间。计划妊娠应在疾病缓解时进行。
+怀孕期间，患者可通过包括高危妊娠产科在内的多学科合作，密切关注疾病的复发或血栓事件的形成。SSA抗体阳性妇女应在18周和26周之间进行一次胎儿超声检查以评估先天性心脏传导阻滞。
+
+【血液系统表现】
+血液学表现包括贫血（慢性病性贫血、自身免疫性溶血性贫血)、白细胞减少 (通常是淋巴细胞减少，中性粒细胞减少，或两者兼而有之）和血小板减少（通常轻微但有时危及生命的自身免疫性血小板减少症)。抗磷脂抗体综合征患者表现为复发性动脉或静脉血栓、血小板减少和高发生率的产科并发症。血栓形成是SLE的一些并发症，包括产科并发症。
+巨噬细胞活化综合征是一种罕见但可能危及生命的并发症。
+
+【消化系统表现】
+消化系统表现是由于肠道血管炎或肠道功能受影响。此外，胰腺炎很少由SLE引起。
+表现可能包括浆液炎引起的腹痛、恶心、呕吐、肠穿孔、蛋白质丢失性肠病和假性梗阻。
+SLE患者偶可发生肝实质病变。
+
+【症状和体征】
+1.Bello N, Meyers KJ, Workman J, Hartley L, McMahon M.Cardiovascular events and risk in patients with systemic lupus erythematosus: Systematic literature review and meta-analysis.Lupus.2023;32(3):325-341.doi:10.1177/09612033221147471
+1.Bello N, Meyers KJ, Workman J, Hartley L, McMahon M.Cardiovascular events and risk in patients with systemic lupus erythematosus: Systematic literature review and meta-analysis.Lupus.2023;32(3):325-341.doi:10.1177/09612033221147471
+
+【SLE的诊断】
+临床标准
+临床标准
+血细胞减少
+血细胞减少
+自身抗体
+自身抗体
+有任何以上症状和体征的患者，尤其是年轻女性，应怀疑本病可能。然而，早期 SLE 的表现可能类似于其他系统性风湿病，包括类风湿关节炎，如果关节症状占主导地位。混合结缔组织病根据定义，包括 SLE 的特征，也可能包括系统性硬化症、类风湿样多关节炎和肌炎的特征。 感染（如细菌性心内膜炎，组织胞浆菌病）可出现与SLE相似的症状，并进一步发展为治疗引起的免疫抑制。此外，结节和副肿瘤综合征亦可与SLE混淆。
+实验室检查可将SLE与其他系统性风湿病区分开来。初步实验室测试应包括以下内容：
+抗核抗体 (ANA)
+抗核抗体 (ANA)
+如果 ANA 检测呈阳性，则可提取核抗原 (ENA)，包括抗双链 (ds) DNA (抗 dsDNA)、抗Smith、抗U1 RNP、抗 Ro/SSA 和抗 La/SSB 抗体
+如果 ANA 检测呈阳性，则可提取核抗原 (ENA)，包括抗双链 (ds) DNA (抗 dsDNA)、抗Smith、抗U1 RNP、抗 Ro/SSA 和抗 La/SSB 抗体
+补体C3和C4水平
+补体C3和C4水平
+全血细胞计数（CBC）
+全血细胞计数（CBC）
+尿液沉淀物分析
+尿液沉淀物分析
+生化检查包括肝肾功能检查
+生化检查包括肝肾功能检查
+在临床实践中，一些临床医生依赖欧洲抗风湿病联盟/美国风湿病学会 (EULAR/ACR；见表) 制定的 SLE 分类标准EULAR/ACR 系统性红斑狼疮分类标准）。只有ANA阳性≥1:80的患者才符合这些标准。2019 年 EULAR/ACR 分类标准包括临床和免疫学领域，每个标准的权重为 2 到 10。如果患者的评分为 10 分或更高，并且至少满足一项临床标准，则该疾病被归类为 SLE。然而，ANA阳性并不意味着狼疮的诊断。在没有其他临床或实验室发现的情况下，在存在疲劳和全身性肌筋膜疼痛的情况下ANA检测呈阳性很少有意义 (1)。
+
+【EULAR/ACR 系统性红斑狼疮分类标准[a]】
+EULAR/ACR 系统性红斑狼疮分类标准[a]
+范围[b]
+重量[c]
+临床领域
+全身性:
+发烧 (> 38° C)
+发烧 (> 38° C)
+血液系统:
+白细胞减少症 (< 4000/mcL)
+白细胞减少症 (< 4000/mcL)
+严重血小板减少（如，血小板计数< 100,000/mcL）
+严重血小板减少（如，血小板计数< 100,000/mcL）
+自身免疫性溶血[d]
+自身免疫性溶血[d]
+神经精神症状:
+癫痫发作（全身性或部分性/局灶性）
+癫痫发作（全身性或部分性/局灶性）
+非瘢痕性脱发[e]
+非瘢痕性脱发[e]
+口腔溃疡[e]
+口腔溃疡[e]
+亚急性皮肤红斑狼疮或者盘状红斑狼疮
+亚急性皮肤红斑狼疮或者盘状红斑狼疮
+急性皮肤红斑狼疮
+急性皮肤红斑狼疮
+胸腔积液或心包积液
+胸腔积液或心包积液
+急性心包炎
+急性心包炎
+肌肉骨骼:
+联合参与[f]
+联合参与[f]
+蛋白尿（>0.5 g/24h)
+蛋白尿（>0.5 g/24h)
+肾活检 II 级或 V 级狼疮性肾炎
+肾活检 II 级或 V 级狼疮性肾炎
+肾活检 III 级或 IV 级狼疮性肾炎
+肾活检 III 级或 IV 级狼疮性肾炎
+免疫学域
+抗磷脂抗体:
+抗心磷脂抗体或者
+抗心磷脂抗体或者
+抗 beta2 糖蛋白 1 抗体或者
+抗 beta2 糖蛋白 1 抗体或者
+狼疮抗凝剂
+狼疮抗凝剂
+补体成分:
+低C3 ,或C4
+低C3 ,或C4
+低C3和低C4
+低C3和低C4
+SLE 特异性抗体：
+抗双链DNA抗体或者
+抗双链DNA抗体或者
+抗史密斯抗体
+抗史密斯抗体
+[a] 患者只有在 ANA ≥ 1:80 阳性时才符合这些标准。
+[b] 标准不需要同时出现。仅应使用单个域中权重最高的标准分数。SLE 必须是每个标准最可能的解释。
+[c] 每个标准的权重为 2 到 10。如果患者的评分为 10 分或更高，并且至少满足一项临床标准，则该疾病被归类为 SLE。
+[d] 自身免疫性溶血的证据（如存在网织红细胞增多症、结合珠蛋白低、间接胆红素升高、乳酸脱氢酶升高）和阳性直接抗球蛋白（直接 Coombs）试验。
+[e] 该标准可能会在体检或审查照片时注明。
+[f] 关节受累定义为涉及 ≥ 2 个关节的滑膜炎，其特征是肿胀或积液或者≥ 2 个关节的压痛和至少 30 分钟的晨僵。
+ANA = 抗核抗体； anti-dsDNA = 抗双链 (ds) DNA； EULAR/ACR = 欧洲抗风湿病联盟/美国风湿病学会； SLE = 系统性红斑狼疮。
+Data fromAringer M, Costenbader K, Daikh D, et al: 2019 European League Against Rheumatism/American College of Rheumatology Classification Criteria for Systemic Lupus Erythematosus.Arthritis Rheumatol71(9):1400–1412, 2019.doi: 10.1002/art.40930
+[a] 患者只有在 ANA ≥ 1:80 阳性时才符合这些标准。
+[b] 标准不需要同时出现。仅应使用单个域中权重最高的标准分数。SLE 必须是每个标准最可能的解释。
+[c] 每个标准的权重为 2 到 10。如果患者的评分为 10 分或更高，并且至少满足一项临床标准，则该疾病被归类为 SLE。
+[d] 自身免疫性溶血的证据（如存在网织红细胞增多症、结合珠蛋白低、间接胆红素升高、乳酸脱氢酶升高）和阳性直接抗球蛋白（直接 Coombs）试验。
+[e] 该标准可能会在体检或审查照片时注明。
+[f] 关节受累定义为涉及 ≥ 2 个关节的滑膜炎，其特征是肿胀或积液或者≥ 2 个关节的压痛和至少 30 分钟的晨僵。
+ANA = 抗核抗体； anti-dsDNA = 抗双链 (ds) DNA； EULAR/ACR = 欧洲抗风湿病联盟/美国风湿病学会； SLE = 系统性红斑狼疮。
+Data fromAringer M, Costenbader K, Daikh D, et al: 2019 European League Against Rheumatism/American College of Rheumatology Classification Criteria for Systemic Lupus Erythematosus.Arthritis Rheumatol71(9):1400–1412, 2019.doi: 10.1002/art.40930
+
+【ANA检测】
+对于疑似 SLE 的患者，ANA 检测（首选间接免疫荧光法，而不是固相测定法）是适当的初始检测；ANA 检测呈阳性（通常为高滴度：>1:80）发生在>95% 的 SLE 患者（2）。然而，ANA检测阳性也可发生在类风湿关节炎、其他系统性风湿疾病、自身免疫性甲状腺疾病、多发性硬化症、癌症，甚至在一般人群中。 在健康对照中，ANA的假阳性率从3%（滴度为1：320）到30%（滴度为1：40）不等。药物如肼嗪、普鲁卡因酰胺和肿瘤坏死因子抑制剂可导致ANA阳性结果以及药物性狼疮；这些症状通常在停药后消失。ANA阳性应提示更多的特异性检测，如抗dsDNA抗体；抗dsDNA对SLE具有高度特异性（3）。
+
+【其他抗核抗体和抗细胞浆抗体】
+ANA的检测敏感性高，但针对SLE是非特异性的；因此，在确诊疾病的过程中还需要其他自身抗体辅助。其他自身抗体通常被称为可提取核抗原，包括双链 DNA、Smith (Sm)、核糖核蛋白 (RNP)、Ro (SSA) 和 La (SSB)。
+Ro主要是细胞质；抗RO抗体偶尔出现在以亚急性皮肤红斑狼疮为表现的ANA阴性SLE患者中。该抗体是新生儿狼疮和先天性心脏传导阻滞的主要抗体。
+抗Sm抗体与抗DNA抗体一样，对SLE具特异性，但敏感性较低。
+抗RNP见于SLE、混合性结缔组织病，偶尔也见于其他系统性风湿病和系统性硬化症患者。
+
+【其他检测】
+白细胞减少症（通常是淋巴细胞减少症和中性粒细胞减少症）很常见。溶血性贫血可能会发生，但血红蛋白和红细胞计数低更多是由于慢性病性贫血。  血小板减少则较少见，很难与特发性血小板减少性紫癜相鉴别，除非患者有其他明显的SLE特征和/或 SLE 特异性抗体（抗 dsDNA 或抗 Sm）。 5%～10%SLE患者梅毒血清试验呈假阳性 这些测试结果可能与狼疮抗凝剂和部分凝血活酶时间 (PTT) 延长有关。  这些检查结果一项或多项异常提示需测定抗磷脂抗体（如抗心磷脂抗体），该抗体可用酶联免疫吸附试验（ELISA）直接检测。抗磷脂抗体与动脉或静脉血栓形成、轻度血小板减少、妊娠期自然流产或晚期胎儿死亡有关，但也可能出现在无症状患者中。
+其他血液检查有助于监测疾病的严重程度并确定是否需要治疗。血清补体水平（C3、C4）在活动期降低，尤其合并活动性肾炎时水平最低。 红细胞沉降率在疾病活动期明显增快。 C反应蛋白水平不一定升高；高水平提高了对感染和/或浆膜炎的关注。
+建议对有呼吸道症状的患者进行完整的肺活量测试和心电图检查。
+
+【肾脏受累】
+肾脏受累的筛查从尿沉渣分析开始。尿内见红细胞和/或白细胞提示肾炎处于活动期。应定期（如每3 - 6个月）进行尿液分析，即使是明显缓解且既往无肾脏受累的患者也应如此，因为肾脏疾病通常无症状。蛋白尿可以通过尿蛋白/肌酐比率来估计，也可以在24小时尿液采集中测量。
+肾活检适用于蛋白质排泄量为500mg /天且有血尿（被认为是肾小球）或红细胞铸型的患者，有助于评估肾脏疾病的状态（即活动性炎症vs慢性变化）和指导治疗。狼疮肾炎的分型依据肾活检的组织学结果 (见表狼疮性肾炎的分类)。对于某些患者，应考虑重复进行肾活检，因为 SLE 患者中从一类狼疮性肾炎转换为另一类的情况很常见。
+对已有慢性肾功能不全及肾小球硬化的患者不主张积极的免疫抑制治疗。
+
+【诊断参考】
+1.Nashi RA, Shmerling RH.Antinuclear Antibody Testing for the Diagnosis of Systemic Lupus Erythematosus.Med Clin North Am.2021;105(2):387-396.doi:10.1016/j.mcna.2020.10.003
+1.Nashi RA, Shmerling RH.Antinuclear Antibody Testing for the Diagnosis of Systemic Lupus Erythematosus.Med Clin North Am.2021;105(2):387-396.doi:10.1016/j.mcna.2020.10.003
+2.Tan EM, Feltkamp TE, Smolen JS, et al.Range of antinuclear antibodies in "healthy" individuals.Arthritis Rheum.1997;40(9):1601-1611.doi:10.1002/art.1780400909
+2.Tan EM, Feltkamp TE, Smolen JS, et al.Range of antinuclear antibodies in "healthy" individuals.Arthritis Rheum.1997;40(9):1601-1611.doi:10.1002/art.1780400909
+3.Kavanaugh AF, Solomon DH; American College of Rheumatology Ad Hoc Committee on Immunologic Testing Guidelines.Guidelines for immunologic laboratory testing in the rheumatic diseases: anti-DNA antibody tests.Arthritis Rheum.2002;47(5):546-555.doi:10.1002/art.10558
+3.Kavanaugh AF, Solomon DH; American College of Rheumatology Ad Hoc Committee on Immunologic Testing Guidelines.Guidelines for immunologic laboratory testing in the rheumatic diseases: anti-DNA antibody tests.Arthritis Rheum.2002;47(5):546-555.doi:10.1002/art.10558
+
+【SLE的治疗】
+适用于所有 SLE 患者的羟氯喹（一种抗疟药）
+适用于所有 SLE 患者的羟氯喹（一种抗疟药）
+除治疗轻度疾病的抗疟药外，还应根据需要提供非甾体类抗炎药
+除治疗轻度疾病的抗疟药外，还应根据需要提供非甾体类抗炎药
+皮质类固醇、其他免疫抑制剂和治疗严重疾病的抗疟药
+皮质类固醇、其他免疫抑制剂和治疗严重疾病的抗疟药
+为指导治疗，SLE应分为轻中度（如发热、关节炎、胸膜炎、心包炎、皮疹）或重度（如溶血性贫血、重度血小板减少性紫癜、大量胸膜和心包受累、弥漫性肺泡出血或肺炎、肾炎、四肢或胃肠道急性血管炎、中枢神经系统红肿受累）。
+无论疾病严重程度如何，所有患有SLE的患者均可使用抗疟药羟氯喹，因为它能减少疾病的复发并降低死亡率 (1,2)。羟氯喹也可能减少血栓事件，特别是在患有相关抗磷脂综合征的患者中 。如果因不良事件（例如眼毒性）而存在绝对禁忌症，则必须避免使用。此外，如果有葡萄糖-6-磷酸脱氢酶（G6PD）缺乏症的病史，应谨慎使用（3）。
+患者在治疗期间需要进行常规监测以评估疾病活动性和对治疗的反应。除了临床随访外，评估疾病活动度还可以使用系统性红斑狼疮疾病活动指数 2000 (SLEDAI-2K) （4) 和不列颠群岛狼疮评估小组 (BILAG) 指数 (5）。
+
+【轻度至中度病例】
+关节痛可用非甾体消炎药控制。然而，由于胃肠道不良反应（如消化性溃疡病）和潜在的冠状动脉和肾毒性（如间质性肾炎、乳头状坏死），不鼓励长期使用NSAID。外用药物（如皮质类固醇、他克莫司）可用于治疗皮肤病，通常在皮肤科的指导下使用。
+抗疟药，如羟氯喹，可用于治疗关节和皮肤症状。羟氯喹可降低系统性红斑狼疮发作的频率并降低死亡率，因此几乎所有系统性红斑炎患者都使用羟氯喹。剂量按实际体重5mg /kg口服，每日1次，最大剂量400mg /天。在开始治疗前应进行基线眼科检查以排除视网膜病变，因为慢性使用羟氯喹会增加中毒性视网膜病变的风险。每年应进行眼科检查以评估视网膜毒性。羟氯喹很少引起骨骼或心肌毒性。替代方案包括每天一次口服氯喹 250 毫克和每天一次口服奎纳克林 50 至 100 毫克 (6)。
+在患有未控制的轻中度疾病的患者中，可以在羟氯喹中添加甲氨蝶呤（15至20 mg口服或皮下注射，每周一次）、硫唑嘌呤（2 mg/kg口服，每天一次）或霉酚酸酯（1至1.5克口服，每天两次），否则这些患者将成为皮质类固醇疗程的候选者。最终目标是在不需要皮质类固醇或仅使用尽可能低的剂量的情况下保持疾病缓解。
+如果患者疾病不受控制或频繁发作，特别是关节、皮肤、肾脏或非严重血液学表现，应考虑使用Belimumab（每2周10mg /kg静脉注射3次，然后每月10mg /kg静脉注射一次或每周200mg皮下注射一次）（2)。根据所涉及的特定系统和疾病的严重程度，它可以与羟氯喹一起使用，也可以与其他药物联合使用。开始贝利尤单抗治疗时需要筛查和监测抑郁症，因为可能存在新发或恶化抑郁症和自杀倾向的风险。
+
+【重型患者】
+治疗包括诱导缓解控制急性重症病情后维持治疗。糖皮质激素是一线治疗药物。皮质类固醇和其他免疫抑制剂的组合通常用于活动性严重疾病（如狼疮性肾炎伴肾功能受损、心肌炎或中枢神经系统受累）。
+并发症治疗有效循证依据最强的是狼疮性肾炎。初治常用甲强龙1g连续缓慢（1小时）静脉滴注三天, 尽管缺乏这种皮质类固醇冲击疗法的试验证据。然后开始口服泼尼松0.5～1mg/kg，每天一次（通常40～60mg每天一次），根据SLE的表现调整剂量。皮质类固醇应在疾病允许的情况下尽快减量，通常在6个月内，以限制不良反应。环磷酰胺（见表系统性红斑狼疮静脉注射环磷酰胺方案）或霉酚酸酯（每日最多3克，口服2剂）也与皮质类固醇一起用于诱导治疗。使用霉酚酸酯和环磷酰胺时需要有效的避孕措施（宫内节育器通常比激素避孕方法更受欢迎），因为存在先天畸形的风险。
+与单独使用皮质类固醇和麦考酚酸酯或皮质类固醇和环磷酰胺相比，在6个月时，将belimumab以每月10 mg/kg的剂量加入皮质类固醇和麦考酚酸酯或皮质类固醇和环磷酰胺相比，可产生更好的肾脏反应和完全的肾脏反应，特别是在肾外表现活跃的情况下（7)。伏环孢素的剂量为 23.7 毫克口服，每天2次，与霉酚酸酯和快速减量的皮质类固醇联合使用，已被证明在一年后比单独使用皮质类固醇和霉酚酸酯能带来更好的肾脏结果（8）。贝利单抗和伏环孢素现在经常与霉酚酸酯联合用于治疗狼疮性肾炎（III， IV和V级），但尚未有明确的使用指南（9)。
+由于潜在的毒性，包括不孕症和癌症风险增加，不建议使用环磷酰胺超过6个月。一旦疾病得到控制，患者将转用吗替麦考酚酯（每天 2 次口服 1 至 1.5 g）或硫唑嘌呤（每天一次口服 0.5 至 1.5 mg/kg）进行维持。应告知正在考虑环磷酰胺的育龄妇女性腺毒性的风险，并在可能的情况下为其提供卵巢保护或卵子采集的生育咨询。
+
+【用于系统性红斑狼疮的 IV 环磷酰胺方案】
+用于系统性红斑狼疮的 IV 环磷酰胺方案
+疾病并发症
+方案[a]
+狼疮性肾炎[b]
+狼疮性肾炎的诱导治疗：第 0、2、4、6、8 和 10 周 500 毫克[c]
+器官或危及生命的疾病
+0.75 至 1 克/平方米2BSA/月 6 个月[d,e]
+[a] 环磷酰胺与皮质类固醇（例如，甲泼尼龙 1 g 每天静脉注射 3 天，随后每天口服 40 至 60 毫克泼尼松）和美司钠联合给药。美司钠的剂量与环磷酰胺相同。美司钠与丙烯醛结合，丙烯醛是刺激膀胱的环磷酰胺代谢物。
+[b]见表狼疮性肾炎的分类
+[c] 欧洲狼疮方案。
+[d] 在此期间之后不应使用环磷酰胺。
+[e] 美国国立卫生研究院的养生之道。
+BSA =体表面积
+Adapted fromFanouriakis A, Kostopoulou M, Alunno A, et al: 2019 update of the EULAR recommendations for the management of systemic lupus erythematosus.Ann Rheum Dis78(6):736–745, 2019.doi: 10.1136/annrheumdis-2019-215089
+[a] 环磷酰胺与皮质类固醇（例如，甲泼尼龙 1 g 每天静脉注射 3 天，随后每天口服 40 至 60 毫克泼尼松）和美司钠联合给药。美司钠的剂量与环磷酰胺相同。美司钠与丙烯醛结合，丙烯醛是刺激膀胱的环磷酰胺代谢物。
+[b]见表狼疮性肾炎的分类
+[c] 欧洲狼疮方案。
+[d] 在此期间之后不应使用环磷酰胺。
+[e] 美国国立卫生研究院的养生之道。
+BSA =体表面积
+Adapted fromFanouriakis A, Kostopoulou M, Alunno A, et al: 2019 update of the EULAR recommendations for the management of systemic lupus erythematosus.Ann Rheum Dis78(6):736–745, 2019.doi: 10.1136/annrheumdis-2019-215089
+对于包括横贯性脊髓炎在内的神经精神性狼疮，治疗建议基于传闻证据，除了皮质类固醇外，还包括静脉注射环磷酰胺或静脉注射利妥昔单抗（例如，第1天和第15天各1克，每隔6个月给药一次）。
+血小板减少症和溶血性贫血的一线治疗包括中等或高剂量皮质类固醇（通常为强的松，1mg/kg，每天口服一次，每天最多 80mg）以及免疫抑制剂 （硫唑嘌呤2 mg/kg，口服，每天一次或霉酚酸酯 1 g，每 12 小时口服一次）。 静脉注射免疫球蛋白 400 mg/kg 每天一次，连续 5 天或 1 g/kg 每天一次，连续 2 天可能有用，特别是在禁忌使用大剂量皮质类固醇的情况下（例如，对于活动性感染的患者）。利妥昔单抗是难治性病例的替代选择 (2)。
+终末期肾病患者可行肾移植，透析作为替代治疗的方法，尤其对缓解期肾病，预后较好。
+严重SLE患者用药4～12周后病情可有改善。血栓形成或脑、肺或胎盘血管栓塞需短期使用肝素并长期使用华法林治疗。若诊断为抗磷脂综合征，通常需要终身治疗（通常为华法林）。初始目标国际标准化比率通常为 2至3。
+Anifrolumab（抗I型干扰素受体IgG1κ单克隆抗体），剂量为300mg IV，每4周，可添加到中度至重度SLE的标准治疗中，特别是严重皮肤病患者。然而，患有活动性和严重神经精神或肾脏疾病的患者未被纳入关键试验（10)。
+使用 CD19 嵌合抗原受体 (CAR) T 细胞疗法治疗难治性SLE显示出良好的前景（11）。
+
+【维持治疗】
+对慢性疾病应使用最小剂量的激素(例如，口服强的松≤7.5 mg /天或同等剂量)及其他可控制炎症的药物（如抗疟药、小剂量免疫抑制剂[霉酚酸酯或硫唑嘌呤]）来维持缓解 (2)。治疗应主要以临床特征为指导，但抗dsDNA抗体滴度或血清补体水平也可作为参照，特别是当它们既往与疾病活动相关时。但在没有肾脏疾病复发的情况下，抗双链DNA抗体滴度或血清补体水平可不平行。其他血液和尿液的检查可被用于评估特异性的器官受累。
+同时对长期服用激素的患者应予钙、维生素D和双膦酸盐补充治疗（见骨质疏松的预防）。
+如果使用联合免疫抑制治疗，患者应预防机会性感染，例如乙氏肺囊虫（见卡氏肺囊虫肺炎的预防)，以及接种针对常见感染的疫苗（例如肺炎链球菌、人乳头瘤病毒、流感、新冠肺炎)。
+光保护也是防止耀斑发生的一项重要措施。建议使用防晒系数 (SPF) > 50 且可阻挡紫外线A(UVA)和紫外线B(UVB)的防晒霜。
+
+【合并症和怀孕】
+应密切监测所有患者的动脉粥样硬化，降低心血管风险是管理的关键部分 (见治疗冠状动脉粥样硬化)。长期抗凝对于同时患有抗磷脂综合征和血栓病史的患者至关重要（参见抗凝剂）。
+孕妇在整个怀孕期间应维持服用羟氯喹，并建议使用低剂量阿司匹林。当存在临床抗磷脂综合征时，如曾有血栓事件，建议使用低分子肝素或普通肝素充分抗凝治疗。如果孕妇有抗磷脂抗体阳性并且既往有孕晚期胎儿丢失或妊娠早期反复流产时，可在孕期和产后6周考虑预防性应用低分子肝素或普通肝素。当患者血清学检查阳性但没有先前的产科或血栓事件时，治疗指南中明确推荐较少。在管理这些患者时，应考虑由血液科医生、专门研究高危妊娠的产科医生和风湿病学家共同管理。
+霉酚酸酯具有致畸作用。由于这种致畸性和与妊娠期间活动性 SLE 相关的已知不良结局，理想情况下，女性应该在疾病缓解 6 个月或更长时间后怀孕。 如果患者需要继续接受免疫抑制治疗（例如狼疮性肾炎的持续维持治疗），通常在受孕前至少 6 个月将霉酚酸酯换成硫唑嘌呤。硫唑嘌呤和他克莫司在怀孕期间被认为是安全的。
+避孕方法的选择通常基于多种因素，包括疾病活动度、血栓形成风险和患者偏好（12）。
+
+【治疗参考文献】
+1.Alarcón GS, McGwin G, Bertoli AM, et al.Effect ofhydroxychloroquineon the survival of patients with systemic lupus erythematosus: Data from LUMINA, a multiethnic US cohort (LUMINA L).Ann Rheum Dis.2007;66(9):1168–1172.doi:10.1136/ard.2006.068676
+1.Alarcón GS, McGwin G, Bertoli AM, et al.Effect ofhydroxychloroquineon the survival of patients with systemic lupus erythematosus: Data from LUMINA, a multiethnic US cohort (LUMINA L).Ann Rheum Dis.2007;66(9):1168–1172.doi:10.1136/ard.2006.068676
+2.Fanouriakis A, Kostopoulou M, Alunno A, et al.2019 update of the EULAR recommendations for the management of systemic lupus erythematosus.Ann Rheum Dis.2019;78(6):736-745.doi:10.1136/annrheumdis-2019-215089
+2.Fanouriakis A, Kostopoulou M, Alunno A, et al.2019 update of the EULAR recommendations for the management of systemic lupus erythematosus.Ann Rheum Dis.2019;78(6):736-745.doi:10.1136/annrheumdis-2019-215089
+3.Kane M.HydroxychloroquineTherapy and G6PD Genotype.In: Pratt VM, Scott SA, Pirmohamed M, Esquivel B, Kattman BL, Malheiro AJ, eds.Medical Genetics Summaries.Bethesda (MD): National Center for Biotechnology Information (US); May 2, 2023.
+3.Kane M.HydroxychloroquineTherapy and G6PD Genotype.In: Pratt VM, Scott SA, Pirmohamed M, Esquivel B, Kattman BL, Malheiro AJ, eds.Medical Genetics Summaries.Bethesda (MD): National Center for Biotechnology Information (US); May 2, 2023.
+4.Touma Z, Urowitz MB, Gladman DD.SLEDAI-2K for a 30-day window.Lupus.2010;19(1):49-51.doi:10.1177/0961203309346505
+4.Touma Z, Urowitz MB, Gladman DD.SLEDAI-2K for a 30-day window.Lupus.2010;19(1):49-51.doi:10.1177/0961203309346505
+5.Romero-Diaz J, Isenberg D, Ramsey-Goldman R.Measures of adult systemic lupus erythematosus: updated version of British Isles Lupus Assessment Group (BILAG 2004), European Consensus Lupus Activity Measurements (ECLAM), Systemic Lupus Activity Measure, Revised (SLAM-R), Systemic Lupus Activity Questionnaire for Population Studies (SLAQ), Systemic Lupus Erythematosus Disease Activity Index 2000 (SLEDAI-2K), and Systemic Lupus International Collaborating Clinics/American College of Rheumatology Damage Index (SDI).Arthritis Care Res (Hoboken).2011;63 Suppl 11(0 11):S37-S46.doi:10.1002/acr.20572
+5.Romero-Diaz J, Isenberg D, Ramsey-Goldman R.Measures of adult systemic lupus erythematosus: updated version of British Isles Lupus Assessment Group (BILAG 2004), European Consensus Lupus Activity Measurements (ECLAM), Systemic Lupus Activity Measure, Revised (SLAM-R), Systemic Lupus Activity Questionnaire for Population Studies (SLAQ), Systemic Lupus Erythematosus Disease Activity Index 2000 (SLEDAI-2K), and Systemic Lupus International Collaborating Clinics/American College of Rheumatology Damage Index (SDI).Arthritis Care Res (Hoboken).2011;63 Suppl 11(0 11):S37-S46.doi:10.1002/acr.20572
+6.Marmor MF, Kellner U, Lai TY, Melles RB, Mieler WF; American Academy of Ophthalmology.Recommendations on Screening forChloroquineandHydroxychloroquineRetinopathy (2016 Revision).Ophthalmology.2016;123(6):1386-1394.doi:10.1016/j.ophtha.2016.01.058
+6.Marmor MF, Kellner U, Lai TY, Melles RB, Mieler WF; American Academy of Ophthalmology.Recommendations on Screening forChloroquineandHydroxychloroquineRetinopathy (2016 Revision).Ophthalmology.2016;123(6):1386-1394.doi:10.1016/j.ophtha.2016.01.058
+7.Furie R, Rovin BH, Houssiau F, et al: Two-year, randomized, controlled trial ofbelimumabin lupus nephritis.N Engl J Med383(12):1117-1128, 2020.doi:10.1056/NEJMoa2001180
+7.Furie R, Rovin BH, Houssiau F, et al: Two-year, randomized, controlled trial ofbelimumabin lupus nephritis.N Engl J Med383(12):1117-1128, 2020.doi:10.1056/NEJMoa2001180
+8.Rovin BH, Teng YKO, Ginzler EM, et al: Efficacy and safety ofvoclosporinversus placebo for lupus nephritis (AURORA 1): a double-blind, randomised, multicentre, placebo-controlled, phase 3 trial.Lancet397(10289):2070-2080, 2021.doi:10.1016/S0140-6736(21)00578-X.Erratum in:Lancet397(10289):2048, 2021.
+8.Rovin BH, Teng YKO, Ginzler EM, et al: Efficacy and safety ofvoclosporinversus placebo for lupus nephritis (AURORA 1): a double-blind, randomised, multicentre, placebo-controlled, phase 3 trial.Lancet397(10289):2070-2080, 2021.doi:10.1016/S0140-6736(21)00578-X.Erratum in:Lancet397(10289):2048, 2021.
+9.Bajema IM, Wilhelmus S, Alpers CE, et al.Revision of the International Society of Nephrology/Renal Pathology Society classification for lupus nephritis: clarification of definitions, and modified National Institutes of Health activity and chronicity indices.Kidney Int93(4):789-796, 2018.doi:10.1016/j.kint.2017.11.023
+9.Bajema IM, Wilhelmus S, Alpers CE, et al.Revision of the International Society of Nephrology/Renal Pathology Society classification for lupus nephritis: clarification of definitions, and modified National Institutes of Health activity and chronicity indices.Kidney Int93(4):789-796, 2018.doi:10.1016/j.kint.2017.11.023
+10.Morand EF, Furie R, Tanaka Y, et al: Trial ofanifrolumabin active systemic lupus erythematosus.N Engl J Med382(3):211-221, 2020.doi:10.1056/NEJMoa1912196
+10.Morand EF, Furie R, Tanaka Y, et al: Trial ofanifrolumabin active systemic lupus erythematosus.N Engl J Med382(3):211-221, 2020.doi:10.1056/NEJMoa1912196
+11.Müller F, Taubmann J, Bucci L, et al.CD19 CAR T-Cell Therapy in Autoimmune Disease - A Case Series with Follow-up.N Engl J Med.2024;390(8):687-700.doi:10.1056/NEJMoa2308917
+11.Müller F, Taubmann J, Bucci L, et al.CD19 CAR T-Cell Therapy in Autoimmune Disease - A Case Series with Follow-up.N Engl J Med.2024;390(8):687-700.doi:10.1056/NEJMoa2308917
+12.Sammaritano LR.Contraception in patients with systemic lupus erythematosus and antiphospholipid syndrome.Lupus.2014;23(12):1242-1245.doi:10.1177/0961203314528062
+12.Sammaritano LR.Contraception in patients with systemic lupus erythematosus and antiphospholipid syndrome.Lupus.2014;23(12):1242-1245.doi:10.1177/0961203314528062
+
+【SLE的预后】
+本病的病程通常是慢性、反复和难以预测的。可有数年的长期缓解。 只要最初的急性期得以控制，即使当时病情严重（如脑血栓形成或严重的肾炎），长期预后仍较好。
+在大多数资源丰富的国家，10年生存率接近90%（1）。预后的改善有赖于早期诊断和有效的治疗。然而，尽管采用了先进的治疗方法且死亡率有所降低，但由于早发性心血管疾病、疾病活动、终末期肾病和感染，其存活率仍被认为低于一般人群（2）。
+
+【预后参考】
+1.Tektonidou MG, Lewandowski LB, Hu J, Dasgupta A, Ward MM.Survival in adults and children with systemic lupus erythematosus: a systematic review and Bayesian meta-analysis of studies from 1950 to 2016 [published correction appears inAnn Rheum Dis. 2018 Mar;77(3):472. doi: 10.1136/annrheumdis-2017-211663corr1].Ann Rheum Dis.2017;76(12):2009-2016.doi:10.1136/annrheumdis-2017-211663
+1.Tektonidou MG, Lewandowski LB, Hu J, Dasgupta A, Ward MM.Survival in adults and children with systemic lupus erythematosus: a systematic review and Bayesian meta-analysis of studies from 1950 to 2016 [published correction appears inAnn Rheum Dis. 2018 Mar;77(3):472. doi: 10.1136/annrheumdis-2017-211663corr1].Ann Rheum Dis.2017;76(12):2009-2016.doi:10.1136/annrheumdis-2017-211663
+2.Yen EY, Shaheen M, Woo JMP, et al.46-Year Trends in Systemic Lupus Erythematosus Mortality in the United States, 1968 to 2013: A Nationwide Population-Based Study.Ann Intern Med.2017;167(11):777-785.doi:10.7326/M17-0102
+2.Yen EY, Shaheen M, Woo JMP, et al.46-Year Trends in Systemic Lupus Erythematosus Mortality in the United States, 1968 to 2013: A Nationwide Population-Based Study.Ann Intern Med.2017;167(11):777-785.doi:10.7326/M17-0102
+关节和皮肤表现在SLE中很常见，但这种疾病也可以影响各种器官系统，如心脏、肺、淋巴组织、肾脏以及胃肠道、血液、生殖和神经系统。
+关节和皮肤表现在SLE中很常见，但这种疾病也可以影响各种器官系统，如心脏、肺、淋巴组织、肾脏以及胃肠道、血液、生殖和神经系统。
+欧洲抗风湿病联盟/美国风湿病学会（EULAR/ACR）标准可用于支持SLE的诊断。
+欧洲抗风湿病联盟/美国风湿病学会（EULAR/ACR）标准可用于支持SLE的诊断。
+在测试中，使用高灵敏度的ANA进行筛选，但使用临床结果和其他实验室测试（例如抗dsDNA，抗Sm）来帮助支持诊断。
+在测试中，使用高灵敏度的ANA进行筛选，但使用临床结果和其他实验室测试（例如抗dsDNA，抗Sm）来帮助支持诊断。
+评估所有患者肾脏受累情况。
+评估所有患者肾脏受累情况。
+使用羟氯喹治疗所有患者，对于轻度疾病，根据需要使用非甾体抗炎药。
+使用羟氯喹治疗所有患者，对于轻度疾病，根据需要使用非甾体抗炎药。
+对中度或重度SLE使用皮质类固醇，对活动性狼疮肾炎、神经精神性狼疮、对羟基氯无反应的皮肤表现、弥漫性肺泡出血、血管炎、复发性浆液炎或心脏表现使用额外的免疫抑制剂。
+对中度或重度SLE使用皮质类固醇，对活动性狼疮肾炎、神经精神性狼疮、对羟基氯无反应的皮肤表现、弥漫性肺泡出血、血管炎、复发性浆液炎或心脏表现使用额外的免疫抑制剂。
+尽量使用最低剂量的皮质类固醇，并使用其他药物维持缓解。
+尽量使用最低剂量的皮质类固醇，并使用其他药物维持缓解。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+American Academy of Ophthalmology:Recommendations on Screening for Chloroquine and Hydroxychloroquine Retinopathy (2016 Revision)
+American Academy of Ophthalmology:Recommendations on Screening for Chloroquine and Hydroxychloroquine Retinopathy (2016 Revision)
+European League Against Rheumatism (EULAR) and the American College of Rheumatology (ACR):2019 European League Against Rheumatism/American College of Rheumatology Classification Criteria for Systemic Lupus Erythematosus
+European League Against Rheumatism (EULAR) and the American College of Rheumatology (ACR):2019 European League Against Rheumatism/American College of Rheumatology Classification Criteria for Systemic Lupus Erythematosus
+
+【皮肤型红斑狼疮】
+
+【盘状红斑狼疮（DLE）】
+DLE是一种慢性皮肤红斑狼疮。其特征是一系列皮肤变化，这些变化可以单独发生或作为系统性红斑狼疮 (SLE) 的一部分发生。
+皮肤病变从红斑样丘疹发展至萎缩性瘢痕。皮损好发于暴露的部位如面部头皮和耳部。如不经治疗，病变扩展并在皮损中央区出现萎缩和瘢痕，最终出现广泛的瘢痕性秃头症。黏膜受累可十分突出，尤其是见于口腔。有时皮损肥厚，类似扁平苔藓（称为肥厚性或疣状狼疮）。
+该图像显示了盘状红斑斑块，导致头皮上出现萎缩性疤痕和脱发。
+该图像显示了盘状红斑斑块，导致头皮上出现萎缩性疤痕和脱发。
+Photo courtesy of Karen McKoy, MD.
+这张照片显示慢性盘状红斑狼疮，特征性的角化过度和红斑。
+这张照片显示慢性盘状红斑狼疮，特征性的角化过度和红斑。
+© Springer Science+Business Media
+该图像显示由盘状红斑狼疮引起的面部红斑鳞屑斑块和萎缩性疤痕。
+该图像显示由盘状红斑狼疮引起的面部红斑鳞屑斑块和萎缩性疤痕。
+Photo courtesy of Karen McKoy, MD.
+该图像显示由盘状红斑狼疮引起的面部红斑鳞屑斑块。
+该图像显示由盘状红斑狼疮引起的面部红斑鳞屑斑块。
+Photo courtesy of Karen McKoy, MD.
+这张照片显示红斑和色素沉着的鳞屑斑块，背部有一些中央萎缩性瘢痕。
+这张照片显示红斑和色素沉着的鳞屑斑块，背部有一些中央萎缩性瘢痕。
+Photo courtesy of Karen McKoy, MD.
+这张照片显示面部和嘴唇有多处环状、色素沉着、脱屑和淡红色斑块。
+这张照片显示面部和嘴唇有多处环状、色素沉着、脱屑和淡红色斑块。
+Photo courtesy of Karen McKoy, MD.
+这张照片显示多个环状、色素沉着、脱屑斑块和中央凹陷性疤痕。
+这张照片显示多个环状、色素沉着、脱屑斑块和中央凹陷性疤痕。
+Photo courtesy of Karen McKoy, MD.
+此图显示面部和颈部多发色素沉着斑，其中一些有轻微的滤泡突出和鳞屑。耳朵受累很常见。
+此图显示面部和颈部多发色素沉着斑，其中一些有轻微的滤泡突出和鳞屑。耳朵受累很常见。
+Photo courtesy of Karen McKoy, MD.
+该图像显示了盘状红斑斑块，导致头皮上出现萎缩性疤痕和脱发。
+该图像显示了盘状红斑斑块，导致头皮上出现萎缩性疤痕和脱发。
+Photo courtesy of Karen McKoy, MD.
+这张照片显示慢性盘状红斑狼疮，特征性的角化过度和红斑。
+这张照片显示慢性盘状红斑狼疮，特征性的角化过度和红斑。
+© Springer Science+Business Media
+该图像显示由盘状红斑狼疮引起的面部红斑鳞屑斑块和萎缩性疤痕。
+该图像显示由盘状红斑狼疮引起的面部红斑鳞屑斑块和萎缩性疤痕。
+Photo courtesy of Karen McKoy, MD.
+该图像显示由盘状红斑狼疮引起的面部红斑鳞屑斑块。
+该图像显示由盘状红斑狼疮引起的面部红斑鳞屑斑块。
+Photo courtesy of Karen McKoy, MD.
+这张照片显示红斑和色素沉着的鳞屑斑块，背部有一些中央萎缩性瘢痕。
+这张照片显示红斑和色素沉着的鳞屑斑块，背部有一些中央萎缩性瘢痕。
+Photo courtesy of Karen McKoy, MD.
+这张照片显示面部和嘴唇有多处环状、色素沉着、脱屑和淡红色斑块。
+这张照片显示面部和嘴唇有多处环状、色素沉着、脱屑和淡红色斑块。
+Photo courtesy of Karen McKoy, MD.
+这张照片显示多个环状、色素沉着、脱屑斑块和中央凹陷性疤痕。
+这张照片显示多个环状、色素沉着、脱屑斑块和中央凹陷性疤痕。
+Photo courtesy of Karen McKoy, MD.
+此图显示面部和颈部多发色素沉着斑，其中一些有轻微的滤泡突出和鳞屑。耳朵受累很常见。
+此图显示面部和颈部多发色素沉着斑，其中一些有轻微的滤泡突出和鳞屑。耳朵受累很常见。
+Photo courtesy of Karen McKoy, MD.
+出现典型盘状病变的患者应评估系统性红斑狼疮 (SLE)。 抗dsDNA抗体在DLE中通常为阴性。尽管抗双链DNA抗体不能用来鉴别DLE和SLE，但活检可用于排除其他疾病（如淋巴瘤、肉状瘤病）。需要对处于急性期的皮肤病变处进行活检。
+早期治疗DLE可防止皮肤出现萎缩。 应尽量避免暴露于阳光或紫外线（外出使用防晒用品）。
+对于有限的疾病，每天3 - 4次外用皮质类固醇软膏（特别是干燥皮肤）或乳膏（比软膏油少）（例如，曲安奈德0.1或0.5%，氟西诺酮0.025或0.2%，氟兰德内酯0.05%，戊酸倍他米松0.1%，特别是二丙酸倍他米松0.05%）通常会引起小病变的复发；它们不应该过度使用或在脸上使用（它们会导致皮肤萎缩）。对顽固性皮损，用丙酮缩氟氢羟龙塑料带封包疗法常可奏效。也可皮内注射0.1%醋酸去炎松混悬液（每个部位<0.1mL），但常可导致继发性皮肤萎缩。局部钙调神经磷酸酶抑制剂（例如他克莫司）可用于面部等部位或对外用皮质类固醇有抗药性的病变。
+对于更广泛的疾病或对外用或病灶内注射皮质类固醇没有反应的病变，建议使用抗疟药（例如，口服羟氯喹 5 毫克/千克，每天一次），包括面部病变。
+如果最初的方法失败，联合使用羟氯喹200mg /天加口服奎纳克林 50 ~ 100mg /天1次或羟氯喹加氨苯砜、甲氨蝶呤、霉酚酸酯或硫唑嘌呤。
+
+【亚急性皮肤型红斑狼疮（SCLE）】
+该病患者有广泛的反复发生的皮疹。环状的或覆有磷屑的丘疹（银屑病样病变）常见于面部、手臂和躯干。皮损常伴有光敏并使局部皮肤褪色，但很少遗留瘢痕。SCLE 可以是药物诱导的，例如由抗高血压药（如利尿剂、钙通道阻滞剂、beta 受体阻滞剂）、质子泵抑制剂（如奥美拉唑、泮托拉唑）、抗肿瘤坏死因子 (TNF) 生物制剂（如阿达木单抗）触发) 和抗真菌药物（如特比萘芬 。
+抗核抗体（ANA）可阳性亦可阴性。 患者通常有抗 Ro（SSA）抗体。  母亲有抗Ro抗体的婴儿可能患有先天性SCLE或先天性心脏传导阻滞。
+少数SCLE患者可能发展为SLE，一项研究报告称，接近 10% 的患者（1）。因此，SCLE患者应定期监测是否累及全身。
+SCLE的治疗与DLE相似。
+该图像显示暴露在阳光下的部位出现弥漫性红斑疹。
+这张图片显示了典型的亚急性皮肤红斑狼疮的丘疹样鳞状病变。
+
+【亚急性皮肤红斑狼疮（SCLE）参考】
+1.Alniemi DT, Gutierrez A Jr, Drage LA, Wetter DA.Subacute Cutaneous Lupus Erythematosus: Clinical Characteristics, Disease Associations, Treatments, and Outcomes in a Series of 90 Patients at Mayo Clinic, 1996-2011.Mayo Clin Proc.2017;92(3):406-414.doi:10.1016/j.mayocp.2016.10.030
+1.Alniemi DT, Gutierrez A Jr, Drage LA, Wetter DA.Subacute Cutaneous Lupus Erythematosus: Clinical Characteristics, Disease Associations, Treatments, and Outcomes in a Series of 90 Patients at Mayo Clinic, 1996-2011.Mayo Clin Proc.2017;92(3):406-414.doi:10.1016/j.mayocp.2016.10.030

@@ -1,0 +1,155 @@
+标题：肠道病毒感染概述
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/enteroviruses/overview-of-enterovirus-infections
+============================================================
+
+肠道病毒、鼻病毒（见普通感冒）和人类副肠孤病毒都属于小RNA病毒属（微小，即小RNA病毒）。肠道病毒血清型有 100 多种（包括脊髓灰质炎病毒、A 组柯萨奇病毒、B 组柯萨奇病毒、埃可病毒和编号肠道病毒），可引发多种疾病，且地理分布广泛（1）。
+肠道病毒通过粪便、呼吸道分泌物以及皮肤/粘膜病变排出，主要通过粪口或呼吸道途径传播。不太常见的是，肠道病毒通过直接接触皮肤/粘膜病变传播。在某些侵袭性或神经系统疾病病例中，可以在血液和脑脊液中检测到肠道病毒。
+在温带地区，夏季和秋季肠道病毒的传播和相关疾病的流行更为常见（2）。
+妊娠晚期感染可导致围产期传播并引起严重的新生儿播散性感染和败血症，并伴有多器官系统功能障碍，包括肝炎、脑膜脑炎、心肌炎和肺炎，并具有高死亡率。
+完整的体液免疫对于控制肠道病毒感染非常重要。严重的慢性肠道病毒感染（包括脑膜脑炎、皮肌炎和/或肝炎）可能发生在体液免疫缺陷患者中，例如丙种球蛋白缺乏症或低丙种球蛋白血症或服用针对 B 细胞功能的免疫抑制药物（例如利妥昔单抗）的患者。患有其他免疫缺陷症的患者通常不会患上慢性肠道病毒感染（3）。
+
+【副肠病毒】
+人副肠病毒是一种小核糖核酸病毒，以前被归类为肠道病毒（例如埃可病毒 22 和 23），但现已重新归类为单独的属（4）。副肠病毒 A 可感染人类，至少有 19 种类型；大多数引起轻微的胃肠道和呼吸道疾病，但有些类型，特别是副肠病毒 A3，可引起婴儿病毒性脓毒症和/或脑膜脑炎（5）。标准的肠道病毒逆转录聚合酶链反应 (RT-PCR) 检测无法检测出人类副肠病毒；需要进行特定的副肠病毒RT-PCR检测（6，7）。
+
+【肠道病毒所致疾病】
+肠道病毒可致多种综合征（见表肠道病毒引起的综合征）。
+以下几乎完全由肠道病毒引起：
+流行性胸膜痛
+流行性胸膜痛
+手足口病
+手足口病
+疱疹性咽峡炎
+疱疹性咽峡炎
+脊髓灰质炎
+脊髓灰质炎
+急性弛缓性脊髓炎
+急性弛缓性脊髓炎
+
+【肠道病毒所致综合征】
+肠道病毒所致综合征
+常见血清型
+无菌性脑膜炎
+柯萨奇病毒A2、4、7、9及其他A型，以及B2–5型；
+脊髓灰质炎病毒1-3；
+埃可病毒4、6、7、9、11，30 以及其他型；
+无菌性脑膜炎伴皮疹
+柯萨奇病毒A9以及B4；
+埃可病毒4和16；
+肠道病毒A71
+结膜炎（出血性）
+肠道病毒D70；
+柯萨奇病毒A24
+流行性胸膜痛（Bornholm病）
+柯萨奇病毒B1-6
+手足口病
+柯萨奇病毒A6、9、16及其他A型；
+柯萨奇病毒B2-5；
+肠道病毒A71
+疱疹性咽峡炎
+柯萨奇病毒A2、A4-A6、A8、A10；
+柯萨奇病毒B3或其他型可能亦可致病
+心肌心包炎
+柯萨奇病毒B1-B5、A4、A16；
+埃可病毒9与人类副肠孤病毒1型
+脊髓灰质炎、急性弛缓性脊髓炎
+脊髓灰质炎病毒1-3；
+柯萨奇病毒A7及其他A型；
+埃可病毒4、6, 9和其他型；
+肠道病毒A71，D68，D70
+柯萨奇病毒A9、B1、B3、B4、B5；柯萨奇病毒A4-A6、A16也可能致病；
+埃可病毒9、16；（及埃可病毒2、4、11、14、19、25）
+呼吸系统疾病
+埃可病毒4、8、9、11、20及其他埃可病毒型
+柯萨奇病毒A21、A24、B1、B3-B5
+肠道病毒D68
+
+【无菌性脑膜炎】
+无菌性脑膜炎在婴儿和儿童中最为常见，但可发生在任何年龄。
+该病程通常是自限性的和良性的，但可能是双相的，症状在最初的改善后复发。肠道病毒性无菌性脑膜炎时可伴发皮疹。脑炎，虽然少见，但也可能很严重。
+
+【急性弛缓性脊髓炎】
+肠道病毒D68（EV-D68）引起的呼吸系统疾病，主要发生于儿童；症状通常类似感冒（如流涕、咳嗽、全身不适、少数出现发热）。有些孩子，特别是那些患有哮喘的孩子，会出现更严重的哮喘样的症状，涉及下呼吸道（例如，喘息、呼吸困难）（8）。健康的成年人也可能被感染，但他们通常会出现较轻的症状。免疫功能低下的成年人可能病情更严重。
+自 2014 年开始，美国 EV-D68 的传播增加，并引发了大规模呼吸道疾病，这种现象呈现出季节性（夏末至初秋）和两年一次的模式（2014 年、2016 年、2018 年）（9）。2014 年 8 月至 10 月，在 EV-D68 呼吸道疾病暴发期间，还报告了多起儿童病例，这些儿童出现局部肢体无力和脊髓病变（MRI 检查显示），该病症现称为 AFM（10）。随后通过流行病学、病毒学、免疫学和实验室动物模型数据，证实了 EV-D68 在 AFM 麻痹中的因果作用（11）。
+美国疾病控制与预防中心 (CDC) 正在进行的监测发现，2014 年、2016 年和 2018 年急性弛缓性麻痹（AFM）病例数分别出现激增，每年向CDC报告的病例数分别为120例、153例和238例，而在间隔年份仅报告了22例和38例。这些2年1次的峰值对应于 EV-D68 活性增加的时期（参见美国疾病控制与预防中心：急性弛缓性脊髓炎病例和爆发）2019 年至 2021 年间，未报告 EV-D68 显著传播或 AFM 病例激增，这可能是由于对 COVID-19 大流行采取了非药物干预措施，同时也限制了其他呼吸道病毒的传播。2022 年，EV-D68 呼吸道疾病大规模爆发，但 AFM 病例并未显著增加。与 COVID-19 脱钩的原因仍不清楚，目前正在调查中。
+当患者出现无法解释的、严重的、类似哮喘的呼吸道感染，特别是与夏末至秋季的一组病例相关联时，应将肠病毒D68（EV-D68）视为一种病因（12；参见美国疾病控制与预防中心：急性弛缓性脊髓炎急性医学治疗的临床指南）。建议在潜在的呼吸道疾病爆发时进行特定的 EV-D68 RT-PCR 检测，可通过公共卫生官员安排。
+AFM 的诊断需要体格检查发现急性弛缓性肢体无力，大约 30% 的病例可伴有脑神经功能障碍（13）。应进行腰椎穿刺，通常可发现淋巴细胞性脑脊液细胞增多。确诊是通过脊髓 MRI 检查，显示灰质纵向病变，可能伴有脑干病变（14）。及时采集生物样本（鼻咽拭子和口咽拭子、粪便、血液和脑脊液），并通过公共卫生官员安排进行检测，对于发现致病病原体和排除脊髓灰质炎病毒至关重要。
+AFM的管理应包括神经病学和传染病专家。支持治疗仍然是治疗的主要手段。虽然已经考虑了多种治疗方法，包括静脉注射免疫球蛋白，用于治疗急性弛缓性脊髓炎（AFM），但目前人体试验证据不足，无法支持任何治疗AFM的特定方法（见美国疾病控制与预防中心：急性弛缓性麻痹急性医学治疗的临床指南）。
+
+【出血性结膜炎】
+肠道病毒引起的出血性结膜炎在美国很少流行，在热带地区更为常见。
+出血性结膜炎与普通结膜炎不同，常导致结膜下出血或角膜炎，引起疼痛、流泪和畏光。发病后眼睑迅速水肿。发病后1~2周即可完全恢复。全身性疾病不常见。然而，当出血性结膜炎是由肠道病毒D70引起时，可能会出现类似于脊髓灰质炎和急性弛缓性脊髓炎的瘫痪，但这种情况较为罕见（15）。
+柯萨奇病毒A24也可引起该病，但结膜下出血在该病毒感染时不常见，且未见神经系统并发症的描述。大多数患者在1到2周内康复。
+
+【心肌心包炎】
+肠病毒引起的心脏感染可能发生在任何年龄。患者可能出现胸痛、心律失常、心力衰竭或猝死。多数患者可痊愈，少数发展为扩张性心肌病。可以通过检测血液中或非无菌部位（粪便、呼吸道）脱落的肠道病毒来诊断心肌心包炎是否由肠道病毒引起，但可能需要对心肌组织进行 RT-PCR 检测。
+
+【呼吸道感染】
+呼吸道感染可能由某些肠道病毒引起。症状包括发热、鼻炎、咽炎，在某些婴儿和儿童中，还会出现更严重的哮喘样症状，如喘息和呼吸费力。在成人和儿童中，有时可出现支气管炎和间质性肺炎。
+病程通常是轻微的，但也可以是严重的，如2014年肠道病毒D68疫情爆发所证实。
+某些柯萨奇病毒、某些埃可病毒和人副肠病毒可引起皮疹，常在流行期间出现。皮疹通常无瘙痒，不脱屑，可出现在面部、颈部、胸部和四肢。皮疹有时为斑丘疹或麻疹样，但偶可见出血性、瘀点状或水疱性皮疹。常伴发热。有时可并发无菌性脑膜炎。
+本病多较轻微。
+
+【新生儿感染】
+在妊娠晚期感染肠道病毒的母亲所生的婴儿或出生后几天内感染肠道病毒的婴儿，可出现类似于脓毒症的综合征，伴有体温不稳定、嗜睡、弥散性血管内凝血、出血和多器官(包括心脏)衰竭。中枢神经系统、肝脏、心肌、肺、胰腺或肾上腺可能同时受累。
+可能在几周内恢复，但也可能因循环衰竭或（如累及肝脏）肝衰竭而死亡。
+新生儿心肌炎（围产期心脏感染）主要由B组柯萨奇病毒、某些埃可病毒和人副肠病毒引起（16）。导致发热和心力衰竭，具有较高的病死率。
+
+【参考文献】
+1.Simmonds P, Gorbalenya AE, Harvala H, et al: Recommendations for the nomenclature of enteroviruses and rhinoviruses [published correction appears inArch Virol. 2020 Jun;165(6):1515. doi: 10.1007/s00705-020-04558-x].Arch Virol.2020;165(3):793-797.doi:10.1007/s00705-019-04520-6
+1.Simmonds P, Gorbalenya AE, Harvala H, et al: Recommendations for the nomenclature of enteroviruses and rhinoviruses [published correction appears inArch Virol. 2020 Jun;165(6):1515. doi: 10.1007/s00705-020-04558-x].Arch Virol.2020;165(3):793-797.doi:10.1007/s00705-019-04520-6
+2.Pons-Salort M, Oberste MS, Pallansch MA, et al: The seasonality of nonpolio enteroviruses in the United States: Patterns and drivers.Proc Natl Acad Sci U S A.2018;115(12):3078-3083.doi:10.1073/pnas.1721159115
+2.Pons-Salort M, Oberste MS, Pallansch MA, et al: The seasonality of nonpolio enteroviruses in the United States: Patterns and drivers.Proc Natl Acad Sci U S A.2018;115(12):3078-3083.doi:10.1073/pnas.1721159115
+3.McKinney RE Jr, Katz SL, Wilfert CM: Chronic enteroviral meningoencephalitis in agammaglobulinemic patients.Rev Infect Dis.1987;9(2):334-356.doi:10.1093/clinids/9.2.334
+3.McKinney RE Jr, Katz SL, Wilfert CM: Chronic enteroviral meningoencephalitis in agammaglobulinemic patients.Rev Infect Dis.1987;9(2):334-356.doi:10.1093/clinids/9.2.334
+4.Sridhar A, Karelehto E, Brouwer L, et al: Parechovirus A Pathogenesis and the Enigma of Genotype A-3.Viruses11(11):1062, 2019.Published 2019 Nov 14.doi:10.3390/v11111062
+4.Sridhar A, Karelehto E, Brouwer L, et al: Parechovirus A Pathogenesis and the Enigma of Genotype A-3.Viruses11(11):1062, 2019.Published 2019 Nov 14.doi:10.3390/v11111062
+5.Harvala H, Wolthers KC, Simmonds P: Parechoviruses in children: understanding a new infection.Curr Opin Infect Dis.2010;23(3):224-230.doi:10.1097/qco.0b013e32833890ca
+5.Harvala H, Wolthers KC, Simmonds P: Parechoviruses in children: understanding a new infection.Curr Opin Infect Dis.2010;23(3):224-230.doi:10.1097/qco.0b013e32833890ca
+6.de Crom SC, Rossen JW, van Furth AM, et al: Enterovirus and parechovirus infection in children: a brief overview.Eur J Pediatr175(8):1023-9, 2016.Epub 2016 May 7.PMID: 27156106; PMCID: PMC4930465.doi: 10.1007/s00431-016-2725-7
+6.de Crom SC, Rossen JW, van Furth AM, et al: Enterovirus and parechovirus infection in children: a brief overview.Eur J Pediatr175(8):1023-9, 2016.Epub 2016 May 7.PMID: 27156106; PMCID: PMC4930465.doi: 10.1007/s00431-016-2725-7
+7.Nix WA, Maher K, Johansson ES, et al: Detection of all known parechoviruses by real-time PCR.J Clin Microbiol.2008;46(8):2519-2524.doi:10.1128/JCM.00277-08
+7.Nix WA, Maher K, Johansson ES, et al: Detection of all known parechoviruses by real-time PCR.J Clin Microbiol.2008;46(8):2519-2524.doi:10.1128/JCM.00277-08
+8.Rao S, Messacar K, Torok MR, et al: Enterovirus D68 in Critically Ill Children: A Comparison With Pandemic H1N1 Influenza.Pediatr Crit Care Med.2016;17(11):1023-1031.doi:10.1097/PCC.0000000000000922
+8.Rao S, Messacar K, Torok MR, et al: Enterovirus D68 in Critically Ill Children: A Comparison With Pandemic H1N1 Influenza.Pediatr Crit Care Med.2016;17(11):1023-1031.doi:10.1097/PCC.0000000000000922
+9.Park SW, Pons-Salort M, Messacar K, et al: Epidemiological dynamics of enterovirus D68 in the United States and implications for acute flaccid myelitis.Sci Transl Med.2021;13(584):eabd2400.doi:10.1126/scitranslmed.abd2400
+9.Park SW, Pons-Salort M, Messacar K, et al: Epidemiological dynamics of enterovirus D68 in the United States and implications for acute flaccid myelitis.Sci Transl Med.2021;13(584):eabd2400.doi:10.1126/scitranslmed.abd2400
+10.Messacar K, Schreiner TL, Maloney JA, et al: A cluster of acute flaccid paralysis and cranial nerve dysfunction temporally associated with an outbreak of enterovirus D68 in children in Colorado, USA.Lancet.2015;385(9978):1662-1671.doi:10.1016/S0140-6736(14)62457-0
+10.Messacar K, Schreiner TL, Maloney JA, et al: A cluster of acute flaccid paralysis and cranial nerve dysfunction temporally associated with an outbreak of enterovirus D68 in children in Colorado, USA.Lancet.2015;385(9978):1662-1671.doi:10.1016/S0140-6736(14)62457-0
+11.Greninger AL, Naccache SN, Messacar K, et al: A novel outbreak enterovirus D68 strain associated with acute flaccid myelitis cases in the USA (2012-14): A retrospective cohort study.Lancet Infect Dis15(6):671–682, 2015.doi: 10.1016/S1473-3099(15)70093-9
+11.Greninger AL, Naccache SN, Messacar K, et al: A novel outbreak enterovirus D68 strain associated with acute flaccid myelitis cases in the USA (2012-14): A retrospective cohort study.Lancet Infect Dis15(6):671–682, 2015.doi: 10.1016/S1473-3099(15)70093-9
+12.Dinov D, Donowitz JR: Acute flaccid myelitis a review of the literature.Front Neurol13:1034607, 2022.Published 2022 Dec 20.doi:10.3389/fneur.2022.1034607
+12.Dinov D, Donowitz JR: Acute flaccid myelitis a review of the literature.Front Neurol13:1034607, 2022.Published 2022 Dec 20.doi:10.3389/fneur.2022.1034607
+13.Murphy OC, Messacar K, Benson L, et al: Acute flaccid myelitis: cause, diagnosis, and management.Lancet.2021;397(10271):334-346.doi:10.1016/S0140-6736(20)32723-9
+13.Murphy OC, Messacar K, Benson L, et al: Acute flaccid myelitis: cause, diagnosis, and management.Lancet.2021;397(10271):334-346.doi:10.1016/S0140-6736(20)32723-9
+14.Maloney JA, Mirsky DM, Messacar K, Dominguez SR, Schreiner T, Stence NV: MRI findings in children with acute flaccid paralysis and cranial nerve dysfunction occurring during the 2014 enterovirus D68 outbreak.AJNR Am J Neuroradiol.2015;36(2):245-250.doi:10.3174/ajnr.A4188
+14.Maloney JA, Mirsky DM, Messacar K, Dominguez SR, Schreiner T, Stence NV: MRI findings in children with acute flaccid paralysis and cranial nerve dysfunction occurring during the 2014 enterovirus D68 outbreak.AJNR Am J Neuroradiol.2015;36(2):245-250.doi:10.3174/ajnr.A4188
+15.Neurovirulence of enterovirus 70: Lancet.1982;1(8268):373-374.
+15.Neurovirulence of enterovirus 70: Lancet.1982;1(8268):373-374.
+16.Ng KF, Gibb J, Struik S, et al: Remember the heart: neonatal myocarditis. Arch Dis Child.2023;108(5):417-419.doi:10.1136/archdischild-2023-325316
+16.Ng KF, Gibb J, Struik S, et al: Remember the heart: neonatal myocarditis. Arch Dis Child.2023;108(5):417-419.doi:10.1136/archdischild-2023-325316
+
+【肠道病毒感染的诊断】
+病史和体格检查
+病史和体格检查
+反转录聚合酶链反应（RT-PCR）
+反转录聚合酶链反应（RT-PCR）
+肠病毒引起的综合征的诊断通常是临床诊断。
+肠道病毒引起的疾病的实验室诊断通常可以通过
+采用RT-PCR检测病毒RNA
+采用RT-PCR检测病毒RNA
+不太常见的是，培养病毒或显示血清转化
+不太常见的是，培养病毒或显示血清转化
+可以使用 RT-PCR 检测来自无菌部位（血液、脑脊液）的样本或来自非无菌部位（粪便、呼吸道、皮肤/粘膜病变）的脱落样本来检测肠道病毒。识别病原体对于神经系统疾病尤其重要（无菌性脑膜炎，AFM，脊髓灰质炎)或重症疾病（新生儿败血症、体液免疫缺陷中的慢性感染）。
+市售的用于呼吸道病原体的多重PCR试剂盒通常不能区分鼻病毒和肠道病毒，而且可能无法检测到所有的肠道病毒。需要通过分子测序或肠病毒特异性RT-PCR进行额外分型，以区分鼻病毒和肠病毒的种类及型别特异性。
+
+【肠道病毒感染的治疗】
+支持治疗
+支持治疗
+肠道病毒性疾病的治疗主要以对症支持为主。
+体液免疫缺陷患者，如无丙种球蛋白血症，可以接受静脉注射免疫球蛋白（IVIG），这可以降低慢性肠道病毒感染的风险，并可用于治疗新诊断的疾病（1，2）。
+
+【治疗参考文献】
+1.Stiehm ER, Orange JS, Ballow M, Lehman H: Therapeutic use of immunoglobulins.Adv Pediatr.2010;57(1):185-218.doi:10.1016/j.yapd.2010.08.005
+1.Stiehm ER, Orange JS, Ballow M, Lehman H: Therapeutic use of immunoglobulins.Adv Pediatr.2010;57(1):185-218.doi:10.1016/j.yapd.2010.08.005
+2.Planitzer CB, Farcet MR, Schiff RI, Ochs HD, Kreil TR: Neutralization of different echovirus serotypes by individual lots of intravenous immunoglobulin.J Med Virol.2011;83(2):305-310.doi:10.1002/jmv.21980
+2.Planitzer CB, Farcet MR, Schiff RI, Ochs HD, Kreil TR: Neutralization of different echovirus serotypes by individual lots of intravenous immunoglobulin.J Med Virol.2011;83(2):305-310.doi:10.1002/jmv.21980

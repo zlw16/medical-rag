@@ -1,0 +1,81 @@
+标题：溶血尿毒综合征（HUS）
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/thrombocytopenia-and-platelet-dysfunction/hemolytic-uremic-syndrome-hus
+============================================================
+
+(参见于血小板疾病的概述。）
+
+【HUS的病理生理学】
+溶血尿毒综合征与血栓性血小板减少性紫癜（TTP）一样，是非免疫性血小板破坏。内皮损伤很常见。松散的血小板或纤维蛋白沉积于众多的小血管内，损伤流过的血小板和红细胞，引起明显的血小板减少和贫血（微血管病性溶血性贫血）。许多小血栓也会消耗血小板，导致血小板减少。
+多脏器形成的血小板-血管性血友病因子（VWF）血栓主要局限于小动脉毛细血管交接处，称为血栓性微血管病。极易累及大脑、心脏和肾脏。微血栓不包括红细胞或纤维蛋白（与弥散性血管内凝血中的血栓不同），并且不表现出血管壁的粒细胞浸润特征血管炎)。 大血管血栓形成不常见。
+
+【HUS的病因】
+大多数病例发生于儿童及青少年。
+急性感染
+急性感染
+大多数情况下(大约90%的病例)，感染是由产生志贺毒素的细菌所引起（如，大肠埃希菌O157:H7和痢疾志贺菌菌株）引起的急性出血性结肠炎。有时，原因是肺炎球菌感染，很少是HIV感染。在因急性感染引起的HUS患儿中，补体系统激活的情况很常见。
+少数病例与感染无关，并涉及
+补体系统突变：这些突变涉及控制补体蛋白或补体因子的基因，但有时来自针对某些补体因子的获得性自身抗体。先天性补体疾病也可能增加感染后罹患 HUS 的风险。
+补体系统突变：这些突变涉及控制补体蛋白或补体因子的基因，但有时来自针对某些补体因子的获得性自身抗体。先天性补体疾病也可能增加感染后罹患 HUS 的风险。
+
+【HUS的症状和体征】
+志贺毒素相关的溶血性尿毒综合征儿童常有呕吐、腹痛和腹泻（常为血性）等前驱症状，通常还有感染史。肺炎球菌相关HUS患者通常表现为肺炎，脑膜炎或败血症。很少出现发热。术后约一周，出现溶血性贫血，血小板减少和急性肾损伤等表现。
+由于补体因子突变而导致的 HUS 通常没有感染前驱症状，但可能因感染而加剧。
+许多脏器缺血的表现严重程度不一。约四分之一的患者出现神经系统疾病表现，包括无力，意识不清和癫痫发作。肾脏损伤可能会导致血尿，排尿减少或无尿和/或高血压。尽管血小板减少，紫癜和明显出血并不常见，但胃肠道缺血可能会导致严重的出血性结肠炎，伴有腹痛，恶心，呕吐和血性腹泻。累及心脏可导致心律失常。
+
+【HUS的诊断】
+全血细胞计数 (CBC) 和血小板、外周血涂片、直接抗球蛋白 (Coombs) 试验、LDH、凝血酶原时间 (PT)、部分凝血活酶时间 (PTT)、纤维蛋白原
+全血细胞计数 (CBC) 和血小板、外周血涂片、直接抗球蛋白 (Coombs) 试验、LDH、凝血酶原时间 (PT)、部分凝血活酶时间 (PTT)、纤维蛋白原
+除外其他血小板减少性疾病
+除外其他血小板减少性疾病
+伴有提示性症状、血小板减少和微血管病性贫血和急性肾损伤征象的患者，应怀疑溶血尿毒综合征。
+如果怀疑该病，需要进行尿液分析、外周血涂片、网织红细胞计数、血清乳酸脱氢酶（LDH）、结合珠蛋白、肾功能、血清胆红素（直接和间接胆红素）PT（凝血酶原时间）、PTT（凝血活酶时间）、纤维蛋白原、直接球蛋白试验。
+ADAMTS13酶活性水平可能会有帮助。在 TTP 中，ADAMTS13的活性较低，但在 HUS 中通常不会降低。这种酶是一种血浆蛋白酶，可以裂解血管性血友病因子；缺陷导致血栓性血小板减少性紫癜(TTP）和ADAMT S13活性降低，可以将TTP的非典型病例与HUS区分开来。
+药物性血栓性微血管病与 HUS 的血栓性微血管病类似，可由多种药物引发，包括奎宁、环孢菌素、他克莫司和癌症化疗药物（如丝裂霉素 C、吉西他滨）。在大多数情况下，药物被认为会损伤小血管并引起微血栓。在药物诱发的血栓性微血管病中，ADAMTS13始终处于正常状态，并且患者对血浆置换、皮质类固醇或补体抑制没有反应。
+溶血性尿毒症（HUS）的诊断建议如下：
+血小板减少和贫血
+血小板减少和贫血
+外周血涂片可见破碎红细胞提示微血管病性溶血（裂细胞：头盔状细胞、三角形红细胞、扭曲状红细胞-见图片碎裂细胞）。
+外周血涂片可见破碎红细胞提示微血管病性溶血（裂细胞：头盔状细胞、三角形红细胞、扭曲状红细胞-见图片碎裂细胞）。
+溶血的证据（血红蛋白水平降低、幼红细胞增多、网织细胞数增多、血清乳酸脱氢酶水平增高、珠蛋白水平下降）
+溶血的证据（血红蛋白水平降低、幼红细胞增多、网织细胞数增多、血清乳酸脱氢酶水平增高、珠蛋白水平下降）
+直接抗人球蛋白试验阴性
+直接抗人球蛋白试验阴性
+未使用可引起血栓性微血管病的药物
+未使用可引起血栓性微血管病的药物
+ADAMT S13活性正常
+ADAMT S13活性正常
+
+【病因诊断】
+粪便检测（志贺毒素酶联免疫吸附测定或E. coli[大肠杆菌]O157:H7的特定培养基）用于患有腹泻的儿童以及出现血性腹泻前驱症状的成人（1）；然而，病原体和毒素可能在就诊时已被清除。
+也就是说，在非典型病例中，在以前没有感染或复发疾病的患者中，建议检测补体因子基因突变。然而，突变并不总是非典型 HUS 所特有的（2)，并且至少一半的患者没有补体因子基因突变（3）。
+
+【诊断参考】
+1.Gould LH, Bopp C, Strockbine N, et al.Recommendations for diagnosis of shiga toxin--producingEscherichia coliinfections by clinical laboratories.MMWR Recomm Rep2009;58(RR-12):1-14.
+1.Gould LH, Bopp C, Strockbine N, et al.Recommendations for diagnosis of shiga toxin--producingEscherichia coliinfections by clinical laboratories.MMWR Recomm Rep2009;58(RR-12):1-14.
+2.Timmermans SAMEG, Wérion A, Damoiseaux JGMC, Morelle J, Reutelingsperger CP, van Paassen P.Diagnostic and Risk Factors for Complement Defects in Hypertensive Emergency and Thrombotic Microangiopathy.Hypertension2020;75(2):422-430.doi:10.1161/HYPERTENSIONAHA.119.13714
+2.Timmermans SAMEG, Wérion A, Damoiseaux JGMC, Morelle J, Reutelingsperger CP, van Paassen P.Diagnostic and Risk Factors for Complement Defects in Hypertensive Emergency and Thrombotic Microangiopathy.Hypertension2020;75(2):422-430.doi:10.1161/HYPERTENSIONAHA.119.13714
+3.Maga TK, Nishimura CJ, Weaver AE, Frees KL, Smith RJ.Mutations in alternative pathway complement proteins in American patients with atypical hemolytic uremic syndrome.Hum Mutat2010;31(6):E1445-E1460.doi:10.1002/humu.21256
+3.Maga TK, Nishimura CJ, Weaver AE, Frees KL, Smith RJ.Mutations in alternative pathway complement proteins in American patients with atypical hemolytic uremic syndrome.Hum Mutat2010;31(6):E1445-E1460.doi:10.1002/humu.21256
+
+【HUS的治疗】
+支持治疗，常包括血液透析
+支持治疗，常包括血液透析
+对于涉及补体失调的病例，有时可使用依库珠单抗、雷维珠单抗或培吉西他普兰
+对于涉及补体失调的病例，有时可使用依库珠单抗、雷维珠单抗或培吉西他普兰
+在儿童中，由肠出血性大肠杆菌感染引起的典型的腹泻相关性溶血尿毒综合征通常可自发缓解，仅给予支持治疗；不使用抗生素。超过一半的患者需要进行肾透析，在这种情况下，通常会使用依库珠单抗或雷夫利珠单抗。 与血栓性血小板减少性紫癜不同，不使用血浆置换和皮质类固醇。
+对于因补体失调引起的 HUS 患者（包括大多数儿童），使用依库珠单抗、雷维珠单抗或培吉西他普兰进行补体抑制通常可以逆转肾衰竭（1）。（Iptacopan 是另一种口服补体因子 B 抑制剂，尚未在此病症中进行研究。）已知或推测患有补体调节蛋白（例如因子 H）遗传性缺乏的儿童特别有可能对依库珠单抗、雷维珠单抗或可能的培吉西他普兰产生反应。
+对于没有已知补体因子缺乏的患者，当疾病活动迹象消失时通常可以停止使用补体抑制药物。
+
+【治疗参考文献】
+1.Loirat C, Fakhouri F, Ariceta G, et al.An international consensus approach to the management of atypical hemolytic uremic syndrome in children.Pediatr Nephrol2016;31(1):15-39.doi:10.1007/s00467-015-3076-8
+1.Loirat C, Fakhouri F, Ariceta G, et al.An international consensus approach to the management of atypical hemolytic uremic syndrome in children.Pediatr Nephrol2016;31(1):15-39.doi:10.1007/s00467-015-3076-8
+血小板和红细胞因非免疫性原因被破坏，导致血小板减少和贫血；肾衰竭在溶血性尿毒症综合征(HUS)的儿童和成人中很常见。
+血小板和红细胞因非免疫性原因被破坏，导致血小板减少和贫血；肾衰竭在溶血性尿毒症综合征(HUS)的儿童和成人中很常见。
+儿童常见病因是产志贺毒素的细菌导致的出血性肠炎。
+儿童常见病因是产志贺毒素的细菌导致的出血性肠炎。
+不太常见的原因包括各种遗传和获得性原因引起的补体失调
+不太常见的原因包括各种遗传和获得性原因引起的补体失调
+儿童中，典型的腹泻相关性溶血尿毒综合征给予支持治疗后可自发缓解，但超过一半的受累儿童需要肾脏透析 以及使用补体抑制。
+儿童中，典型的腹泻相关性溶血尿毒综合征给予支持治疗后可自发缓解，但超过一半的受累儿童需要肾脏透析 以及使用补体抑制。
+由于补体因子突变/缺乏导致的 HUS 可能对使用依库珠单抗、雷维珠单抗进行补体抑制有反应。
+由于补体因子突变/缺乏导致的 HUS 可能对使用依库珠单抗、雷维珠单抗进行补体抑制有反应。

@@ -1,0 +1,206 @@
+标题：慢性心力衰竭
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/heart-failure/chronic-heart-failure
+============================================================
+
+除美国目前约670万名心力衰竭患者外，约有三分之一的成年人存在罹患心力衰竭的风险；总体而言，每四名成年人中就有一人将在其一生中的某个阶段发展为心力衰竭（1）。心力衰竭的定义、病理生理学及原因，包括慢性心力衰竭，在心力衰竭概述中详述。
+慢性心力衰竭分期如下（2）：
+A: 存在心力衰竭风险，但无结构性或功能性心脏异常或症状
+A: 存在心力衰竭风险，但无结构性或功能性心脏异常或症状
+B: 存在结构性或功能性心脏异常但无症状
+B: 存在结构性或功能性心脏异常但无症状
+C: 结构性心脏病伴有症状
+C: 结构性心脏病伴有症状
+D：需要高级治疗或姑息治疗的难治性心衰
+D：需要高级治疗或姑息治疗的难治性心衰
+B至D期患者的功能状态可根据症状使用纽约心脏协会功能分级系统进一步分类。心力衰竭的类型可以进一步根据左心室射血分数进行分类。
+
+【参考文献】
+1.Bozkurt B, Ahmad T, Alexander K, et al.HF STATS 2024: Heart Failure Epidemiology and Outcomes Statistics An Updated 2024 Report from the Heart Failure Society of America.J Card Fail.2025;31(1):66-116.doi:10.1016/j.cardfail.2024.07.001
+1.Bozkurt B, Ahmad T, Alexander K, et al.HF STATS 2024: Heart Failure Epidemiology and Outcomes Statistics An Updated 2024 Report from the Heart Failure Society of America.J Card Fail.2025;31(1):66-116.doi:10.1016/j.cardfail.2024.07.001
+2.Bozkurt B, Coats AJ, Tsutsui H, et al.Universal Definition and Classification of Heart Failure: A Report of the Heart Failure Society of America, Heart Failure Association of the European Society of Cardiology, Japanese Heart Failure Society and Writing Committee of the Universal Definition of Heart Failure.J Card Fail.Published online March 1, 2021.doi:10.1016/j.cardfail.2021.01.022
+2.Bozkurt B, Coats AJ, Tsutsui H, et al.Universal Definition and Classification of Heart Failure: A Report of the Heart Failure Society of America, Heart Failure Association of the European Society of Cardiology, Japanese Heart Failure Society and Writing Committee of the Universal Definition of Heart Failure.J Card Fail.Published online March 1, 2021.doi:10.1016/j.cardfail.2021.01.022
+
+【慢性心力衰竭的症状与体征】
+常见的慢性心力衰竭症状包括运动性呼吸困难、运动不耐受和周围水肿（尤其是脚踝和足部）（1）。其他症状可能包括厌食或早饱，恶心，晕厥前期或晕厥，咳嗽或喘息（心源性哮喘的一部分）。
+在疾病早期或症状较轻阶段，呼吸困难会在不同程度的体力活动时出现。当心衰加重时，休息时及夜间也会发生呼吸困难，有时会引起夜间咳嗽。当心衰加重时，平卧后即刻或平卧后不久发生的呼吸困难，坐起后可迅速缓解（端坐呼吸）是常见的。有夜间阵发性呼吸困难（paroxysmal nocturnal dyspnea）者，患者一般在躺下后几个小时，被呼吸困难惊醒，要坐起15~20分钟后才能缓解。在严重的心力衰竭（HF）中，可能会出现周期性的呼吸循环（陈-施呼吸—从短暂的呼吸暂停开始，患者的呼吸逐渐加快和加深，然后变慢和变浅，直到出现呼吸暂停并重复循环）—可能发生在白天或晚上；突然的呼吸过度期可能会将患者从睡眠中唤醒。陈-施呼吸与阵发性夜间呼吸困难的区别在于，陈-施呼吸的呼吸增强期持续时间较短，仅为10至15秒，但其周期规律性地反复出现，持续时间为30秒至2分钟。阵发性夜间呼吸困难与肺充血有关，而陈-施呼吸则与低心输出量有关。
+严重的脑血流减少和低氧血症能引起慢性易怒和心智功能损害。
+与睡眠相关的呼吸障碍，例如睡眠呼吸暂停（中枢性与阻塞性），在心力衰竭中较为常见，既可能加重心衰，也可能因心衰而恶化。
+心力衰竭的特异性体征包括颈静脉怒张或颈静脉搏动升高、第三心音（S3）或叠加奔马律、心脏扩大导致的心尖搏动移位，以及肝颈静脉反流征（1）。也可能出现肺水肿（咯吱声、低氧血症）、灌注不良（四肢冰凉、毛细血管再充盈延迟）、搏量减少（脉压狭窄）或代偿反应（心动过速、高血压）。体重减轻和心脏恶病质可能出现在晚期心力衰竭中。
+
+【症状和体征】
+1.Bozkurt B, Coats AJ, Tsutsui H, et al.Universal Definition and Classification of Heart Failure: A Report of the Heart Failure Society of America, Heart Failure Association of the European Society of Cardiology, Japanese Heart Failure Society and Writing Committee of the Universal Definition of Heart Failure.J Card Fail.Published online March 1, 2021.doi:10.1016/j.cardfail.2021.01.022
+1.Bozkurt B, Coats AJ, Tsutsui H, et al.Universal Definition and Classification of Heart Failure: A Report of the Heart Failure Society of America, Heart Failure Association of the European Society of Cardiology, Japanese Heart Failure Society and Writing Committee of the Universal Definition of Heart Failure.J Card Fail.Published online March 1, 2021.doi:10.1016/j.cardfail.2021.01.022
+
+【慢性心力衰竭的诊断】
+心力衰竭的诊断技术在急性心力衰竭中有详细讨论。关注症状、体重、系列影像（如超声心动图）、利钠肽和其他生物标志物的测量可以帮助指导治疗和识别急性代偿。
+
+【慢性心力衰竭的治疗】
+饮食和生活方式改变
+饮食和生活方式改变
+对因治疗
+对因治疗
+药物治疗
+药物治疗
+多学科管理
+多学科管理
+有时器械治疗（如植入式心律转复除颤器、心脏再同步化治疗、机械循环支持）
+有时器械治疗（如植入式心律转复除颤器、心脏再同步化治疗、机械循环支持）
+必要时心脏移植
+必要时心脏移植
+慢性心力衰竭的治疗目标包括纠正高血压、预防心肌梗死和动脉粥样硬化进展、改善心功能、减少住院次数、提高生活质量和延长生存期。
+治疗包括饮食和生活方式的改变、药物治疗、器械治疗，有时还需经皮冠状动脉介入治疗或外科手术。
+治疗需采取多学科协作模式，并应根据患者的具体情况进行个体化方案制定，需综合考虑病因、临床症状、对药物的治疗反应及药物不良反应等因素。对于慢性射血分数降低型心力衰竭（HFrEF），目前存在多种循证治疗方案（1、2）。目前针对慢性射血分数保留型心力衰竭（HFpEF）、慢性射血分数轻度降低型及改善型心力衰竭（HFmrEF 和 HFimpEF）、以及慢性右心室衰竭的循证治疗方案相对较少（3）。
+
+【Medications（药物应用史）】
+有关特定药物和类别的详细信息，请参阅心力衰竭用药。
+
+【射血分数降低型心力衰竭（HFrEF）的指南指导性药物治疗】
+指南指导的药物治疗包括基于证据的药物，这些药物已被证实能改善心力衰竭患者的临床结局。对于所有患者，慢性HRrEF的医学治疗通常包括4个基本治疗类别，因为所有类别都已被证明可以降低死亡率（1、2、4）。包括：
+β受体阻滞剂
+β受体阻滞剂
+血管紧张素受体/脑啡肽酶抑制剂（ARNI）
+血管紧张素受体/脑啡肽酶抑制剂（ARNI）
+盐皮质激素受体拮抗剂（MRA）
+盐皮质激素受体拮抗剂（MRA）
+钠 - 葡萄糖转运体2（SGLT2）抑制剂
+钠 - 葡萄糖转运体2（SGLT2）抑制剂
+这些药理学类别药物的剂量通常滴定至最大耐受剂量，以达最佳效益。
+β受体阻滞剂（如比索洛尔、卡维地洛、美托洛尔）可降低交感神经系统张力及整体神经激素激活，并一直是慢性心力衰竭治疗的基石（1、2）。β-受体阻滞剂除了作为缺血性心肌病患者的抗心绞痛药物外，还可以帮助控制与心力衰竭相关的心律失常。基础心率的降低已被证实是预后的重要标志。由于其负性肌力作用，β受体阻滞剂在心力衰竭急性失代偿期避免使用；当病人病情稳定并得到充分补偿时，就开始进行治疗。β受体阻滞剂是慢性心力衰竭药物治疗的唯一基础药物类别，其疗效仅在射血分数降低型患者中得到证实，而对左心室射血分数保留的患者未显示获益。对于无法耐受β受体阻滞剂或静息心率控制不理想（窦性心律患者静息心率＞77 次/分）的患者，可使用窦房结抑制剂伊伐布雷定以进一步降低心率。
+使用血管紧张素受体/脑啡肽酶抑制剂（沙库巴曲/缬沙坦）治疗是慢性心力衰竭患者的标准方案（1、2、5、6、7）。这种药物组合是一种强效血管扩张剂，可能引发症状性低血压。因此，在开始或增加沙库巴曲/缬沙坦剂量时建议谨慎，特别是对于收缩压低于100毫米汞柱的患者。沙库巴曲/缬沙坦较血管紧张素转换酶抑制剂或血管紧张素 II受体阻滞剂相比，在降低死亡率方面具有更显著的优势。尽管如此，这两类药物仍被常规应用，尤其是在对沙库巴曲/缬沙坦不耐受的患者中。
+螺内酯和依普利酮是盐皮质激素受体拮抗剂，用于治疗慢性心力衰竭（1、2、8）。诸如非奈利酮等药物正在不同患者亚群中进行研究，包括患有严重糖尿病或显著肾功能不全的患者。螺内酯利尿作用相对较弱，但具有保钾特性，可能引发高钾血症。在开始使用螺内酯或增加剂量时，必须监测患者的钾水平。螺内酯也可能导致男性乳房发育，若出现此不良反应应停药。依普利酮的副作用更为有利，包括相对较少的高钾血症和男性乳房发育。
+SGLT2抑制剂（如达格列净、恩格列净）已证明能为心力衰竭患者带来显著生存获益，无论射血分数如何（1、2、9、10）。它们通常耐受性良好且利尿作用相对较弱。最初作为口服降糖药物开发，它们能降低血糖水平。
+其他药物治疗可用于慢性心力衰竭患者的特定人群，特别是那些尽管进行了最佳剂量的基础药物治疗仍有症状的患者（1、2）。
+地高辛可用于降低射血分数降低患者的心力衰竭住院风险。地高辛在中度至重度慢性肾病患者中禁忌使用，因存在毒性风险。
+地高辛可用于降低射血分数降低患者的心力衰竭住院风险。地高辛在中度至重度慢性肾病患者中禁忌使用，因存在毒性风险。
+额外的利尿剂治疗，特别是循环利尿剂，经常用于持续充血症状的患者，尽管慢性心力衰竭的最佳药物治疗。
+额外的利尿剂治疗，特别是循环利尿剂，经常用于持续充血症状的患者，尽管慢性心力衰竭的最佳药物治疗。
+伊伐布雷定可用于窦性心律患者的静息心率控制，尤其适用于对β受体阻滞剂耐受性差或使用后静息心率控制仍不理想者。伊伐布雷定被推荐用于射血分数（EF）<35%、静息心率≥70次/分且已接受β受体阻滞剂治疗的射血分数降低型心力衰竭（HFrEF）患者（11）。
+伊伐布雷定可用于窦性心律患者的静息心率控制，尤其适用于对β受体阻滞剂耐受性差或使用后静息心率控制仍不理想者。伊伐布雷定被推荐用于射血分数（EF）<35%、静息心率≥70次/分且已接受β受体阻滞剂治疗的射血分数降低型心力衰竭（HFrEF）患者（11）。
+维利西呱是一种口服可溶性鸟苷酸环化酶激动剂，具有血管扩张作用。对于射血分数降低型心力衰竭患者，如其症状持续存在且在过去 6 个月内出现过急性失代偿，可在既有心衰治疗方案的基础上加用该药物（12）。
+维利西呱是一种口服可溶性鸟苷酸环化酶激动剂，具有血管扩张作用。对于射血分数降低型心力衰竭患者，如其症状持续存在且在过去 6 个月内出现过急性失代偿，可在既有心衰治疗方案的基础上加用该药物（12）。
+血管扩张剂，如硝酸异山梨酯与肼屈嗪的联合使用，可用于持续有充血症状的患者，特别是那些无法耐受ARNIs或因肾功能差而禁忌使用的患者。
+血管扩张剂，如硝酸异山梨酯与肼屈嗪的联合使用，可用于持续有充血症状的患者，特别是那些无法耐受ARNIs或因肾功能差而禁忌使用的患者。
+钙通道阻滞剂、非甾体抗炎药、噻唑烷二酮类药物及1C类抗心律失常药物可能加重心力衰竭，除非无其他替代治疗方案，否则应避免使用；必须使用此类药物的患者需密切随访。
+
+【心力衰竭伴轻度降低或改善射血分数的药物治疗（HRmrEF和HRimpEF）】
+总体而言，射血分数中间范围心力衰竭和射血分数改善心力衰竭的治疗方法与射血分数降低心力衰竭相似，尽管支持特定药物或类别的证据远为不足（1、2）。推荐使用利尿剂进行抗充血治疗。SGLT2抑制剂可能对预防HRmrEF患者住院有益。目前缺乏直接支持β阻断剂、血管紧张素-肾素系统抑制剂和矿皮质激素拮抗剂的数据，建议基于观察性或事后分析。
+
+【保留射血分数心力衰竭（HRpEF）的药物治疗】
+对于射血分数保留型心力衰竭（HFpEF），推荐的治疗包括：所有患者均应使用 SGLT2 抑制剂；有充血和症状的患者应使用利尿剂；部分患者可考虑加用盐皮质激素受体拮抗剂及肾素-血管紧张素系统抑制剂（1,2,13）。心血管合并症，包括高血压、动脉粥样硬化性疾病和心房颤动，均应予以治疗。与射血分数中间范围心力衰竭类似，可考虑使用SGLT2抑制剂、β受体阻滞剂、血管紧张素-肾素系统抑制剂和盐皮质激素受体拮抗剂。
+有关特定药物类别的更详细信息，请参阅心力衰竭用药。
+
+【疾病管理】
+一般措施，特别是对患者和护理人员的教育，以及饮食和生活方式的调整，对所有心力衰竭患者都非常重要 (1)。
+合适的体重和体能水平
+合适的体重和体能水平
+纠正基础疾病
+纠正基础疾病
+患者和护理者教育对长期治疗的成功至关重要。患者和家属都应该参与对治疗的选择。他们应该被告知坚持服药的重要性、病情恶化的预警体征，以及如何将因果关系联系起来（例如，饮食中摄入钠盐增加与体重增加或出现症状之间的关系）。
+许多中心（例如，专科门诊）已将来自不同学科的医疗保健从业者（例如，心衰护士、药剂师、社会工作者、康复专家）整合到多学科团队或心力衰竭门诊管理项目中。这些措施能改善预后、减少住院次数，并且对病情最重的患者最为有效。
+饮食中限制钠的摄入有助于减少液体的潴留。所有患者应在烹饪和餐桌上避免加盐，并避免食用腌制食品；病情最严重的患者应将每日钠摄入量限制在<2g/d，仅食用低钠食物(1,2)。
+每天早上检测体重可以帮助早期发现钠和水的积聚 (1,2)。如果几天里体重增加>2kg，患者自己就应调整利尿剂的剂量，如果体重持续增加或出现症状，他们就应该就医。
+强化病例管理，特别是通过监测药物依从性以及计划外就诊（包括医生访视或急诊）和住院的频率，可以确定何时需要干预 (1,2)。专门从事HF患者护理的护士在健康教育、随访以及依据既定方案调整用药剂量方面具有重要价值。
+患有动脉粥样硬化或糖尿病的患者应严格遵守与其疾病相符的饮食规定。肥胖可能引起并总是加重心衰症状；患者的体重指数（BMI）应保持在 ≤ 30 kg/m2（理想水平是21~25 kg/m2）。
+鼓励患者根据症状采取有规律的轻微活动（如散步）（1，2）。活动可防止骨骼肌失用性萎缩，从而改善功能状态；然而，运动似乎不能改善生存率或减少住院率(1,2)。在急性病情加重时休息是合适的。通过心脏康复进行正规锻炼对慢性HFrEF患者有益，并可能对慢性HFpEF患者有所帮助。
+患者应每年接种流感疫苗，因为流感可导致心衰加重，尤其是在机构养老的患者或老年患者。患者应接种SARS-CoV-2疫苗。
+如果高血压、持续性心动过速、严重贫血、血色病、未控制的糖尿病、甲状腺毒症、脚气病、酒精使用障碍或弓形虫病等病因得到有效治疗，患者可能会得到显著改善。
+贫血在慢性心力衰竭患者中很常见，并且通常是多因素的。 贫血与 HF 更严重的症状和结果相关，因此应寻找和治疗可逆的原因。缺铁是心衰贫血最常见的原因之一，一旦排除可治疗的原因，如失血（胃肠道或其他），应考虑铁替代疗法 (2)。由于吸收不良等原因，口服补铁往往效果较差，因此首选静脉补铁。
+广泛心肌浸润（如淀粉样变性）的治疗有了相当大的改善。针对淀粉样变性病的治疗显著改善了许多患者的预后。
+
+【器械治疗】
+部分患者可接受心脏转复除颤器（ICD）植入或心脏再同步化治疗(CRT)。
+对于预期寿命良好的患者，若出现症状性持续性室性心动过速或心室颤动，或在接受指南指导的药物治疗期间仍有症状且左心室射血分数持续<35%，则建议植入植入式心脏复律除颤器（2）。在HFrEF中，缺血性心肌病的使用证据比非缺血性心肌病强。1项纳入非缺血性心肌病的HFrEF患者的临床试验表明，预防性（一级预防）ICD植入不能降低死亡率 (14)。
+心脏再同步疗法是一种通过同步起搏左心室相对壁以协调其收缩、从而提高每搏输出量的起搏模式。心脏再同步治疗可缓解心力衰竭患者的症状并降低其因心衰住院的风险，适用于左心室射血分数<35%、QRS波群增宽伴左束支传导阻滞形态（>0.15秒——QRS波群越宽，潜在获益越大）的患者（2）。许多CRT设备含有ICD功能。
+一种可远程监测有创血流动力学（例如，肺动脉压力）以指导治疗的植入式装置，有助于降低特定患者心力衰竭急性加重及再住院的发生频率（4，15）。
+耐用或可移动左心室辅助装置(LVAD) 是可增加左心室输出量的长期植入式泵。它们通常用于维持等待心脏移植的严重心力衰竭患者，在某些不适合移植的患者中，也被用作"终点治疗"（即长期或永久性解决方案）。
+
+【手术和经皮手术】
+存在某些基础疾病的病例可能适合外科治疗。 晚期HF患者的手术应在专科医学中心进行。
+先天性或后天性心内分流术的手术闭合可以是治愈性的。
+冠状动脉旁路移植术（CABG）对于继发于冠状动脉疾病的左心室收缩功能障碍且有心肌存活证据的患者可能有益 (1,2)；然而，既往有心肌梗死且心肌无存活性的患者从CABG中获益的可能性较小。因此，对于心力衰竭合并多支冠状动脉病变的患者，是否进行血运重建治疗应基于个体化决策。
+如果心衰主要是由于瓣膜病症，应考虑瓣膜修复或更换 (1,2)。 原发性二尖瓣反流患者比继发于左心室扩张的二尖瓣反流患者更可能获益，后者术后心肌功能可能仍然较差。 所以在心肌扩张和发生不可逆的损害前做手术更好。经皮二尖瓣修复术（也称为经导管缘对缘修复[TEER]），即使用夹子使二尖瓣前叶和后叶对合，已被证明在精心选择的患者中可减少死亡和心力衰竭住院率，这些患者尽管接受了最佳药物治疗，仍有症状性心力衰竭和中重度或重度二尖瓣反流，且左心室大小保持不变（收缩末期尺寸≤70毫米）（16）。
+心脏移植是治疗年龄<70岁且对指南指导的药物治疗无效的严重心力衰竭患者的首选方案（1，2）。健康状况良好的老年患者，若符合其他移植标准，也可纳入考虑范围。
+
+【持续性心力衰竭症状的治疗】
+若治疗后症状持续存在，可能需调整管理方案。原因及相应措施包括：
+尽管接受治疗，但基础疾病（如高血压、缺血或梗死、瓣膜病）持续存在：需优化基础疾病的治疗方案
+尽管接受治疗，但基础疾病（如高血压、缺血或梗死、瓣膜病）持续存在：需优化基础疾病的治疗方案
+心力衰竭治疗欠佳：升级或优化心力衰竭治疗方案
+心力衰竭治疗欠佳：升级或优化心力衰竭治疗方案
+药物依从性不足：依从性提升策略
+药物依从性不足：依从性提升策略
+饮食中钠或酒精摄入过量：减少钠或酒精摄入量，或两者兼而有之；如有必要，咨询营养师或成瘾专家
+饮食中钠或酒精摄入过量：减少钠或酒精摄入量，或两者兼而有之；如有必要，咨询营养师或成瘾专家
+存在未确诊的甲状腺疾病、贫血或并发性心律失常（例如：快速心室率房颤、间歇性室性心动过速）：需进行检测并治疗未确诊的疾病
+存在未确诊的甲状腺疾病、贫血或并发性心律失常（例如：快速心室率房颤、间歇性室性心动过速）：需进行检测并治疗未确诊的疾病
+
+【临终关怀】
+所有的患者和家庭成员都应该被告知有关疾病的进程及猝死的风险。对某些患者来说，提高生活质量与延长患者的寿命一样重要。因此，如果患者情况恶化，确定患者是否希望接受复苏（如气管插管、心肺复苏[CPR]）非常重要，尤其是在心衰已严重时。
+应向所有患者保证症状将得到缓解，并鼓励他们在症状发生显著变化时尽早寻求医疗帮助。对终末期照护患者，药剂师、护士、社会工作者和神职人员（如需要）的参与尤其重要，他们可能是现有跨学科团队或疾病管理计划的一部分。
+
+【治疗参考文献】
+1.McDonagh TA, Metra M, Adamo M, et al: 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) with the special contribution of the Heart Failure Association (HFA) of the ESC.Eur Heart J42(36):3599-3726, 2021.doi: 10.1093/eurheartj/ehab368
+1.McDonagh TA, Metra M, Adamo M, et al: 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) with the special contribution of the Heart Failure Association (HFA) of the ESC.Eur Heart J42(36):3599-3726, 2021.doi: 10.1093/eurheartj/ehab368
+2.Heidenreich PA, Bozkurt B, Aguilar D, et al: 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation145:e895–e1032, 2022, doi: 10.1161/CIR.0000000000001063
+2.Heidenreich PA, Bozkurt B, Aguilar D, et al: 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation145:e895–e1032, 2022, doi: 10.1161/CIR.0000000000001063
+3.Shah SJ, Kitzman D, Borlaug B, et al: Phenotype-specific treatment of heart failure with preserved ejection fraction: A multiorgan roadmap.Circulation134(1):73–90, 2016.doi: 10.1161/CIRCULATIONAHA.116.021884
+3.Shah SJ, Kitzman D, Borlaug B, et al: Phenotype-specific treatment of heart failure with preserved ejection fraction: A multiorgan roadmap.Circulation134(1):73–90, 2016.doi: 10.1161/CIRCULATIONAHA.116.021884
+4.Maddox TM, Januzzi JL Jr, Allen LA, et al: 2024 ACC Expert Consensus Decision Pathway for Treatment of Heart Failure With Reduced Ejection Fraction: A Report of the American College of Cardiology Solution Set Oversight Committee.J Am Coll Cardiol83(15):1444–1488, 2024.doi:10.1016/j.jacc.2023.12.024
+4.Maddox TM, Januzzi JL Jr, Allen LA, et al: 2024 ACC Expert Consensus Decision Pathway for Treatment of Heart Failure With Reduced Ejection Fraction: A Report of the American College of Cardiology Solution Set Oversight Committee.J Am Coll Cardiol83(15):1444–1488, 2024.doi:10.1016/j.jacc.2023.12.024
+5.McMurray JJ, Packer M, Desai AS, et al: Angiotensin-neprilysin inhibition versusenalaprilin heart failure.N Engl J Med371(11):993–1004, 2014.doi:10.1056/NEJMoa1409077
+5.McMurray JJ, Packer M, Desai AS, et al: Angiotensin-neprilysin inhibition versusenalaprilin heart failure.N Engl J Med371(11):993–1004, 2014.doi:10.1056/NEJMoa1409077
+6.Solomon SD, McMurray JJ, Anand IS, et al: Angiotensin-neprilysin inhibition in heart failure with preserved ejection fraction.N Engl J Med381:1609–1620, 2019.doi:10.1056/NEJMoa1908655
+6.Solomon SD, McMurray JJ, Anand IS, et al: Angiotensin-neprilysin inhibition in heart failure with preserved ejection fraction.N Engl J Med381:1609–1620, 2019.doi:10.1056/NEJMoa1908655
+7.McMurray JJV, Jackson AM, Lam CSP, et al: Effects ofSacubitril-ValsartanVersusValsartanin Women Compared With Men With Heart Failure and Preserved Ejection Fraction: Insights From PARAGON-HF.Circulation141(5):338–351, 2020.doi:10.1161/CIRCULATIONAHA.119.044491
+7.McMurray JJV, Jackson AM, Lam CSP, et al: Effects ofSacubitril-ValsartanVersusValsartanin Women Compared With Men With Heart Failure and Preserved Ejection Fraction: Insights From PARAGON-HF.Circulation141(5):338–351, 2020.doi:10.1161/CIRCULATIONAHA.119.044491
+8.Pitt B, Pfeffer MA, Assmann SF, et al:Spironolactonefor heart failure with preserved ejection fraction.N Engl J Med370(15):1383–1392, 2014.doi:10.1056/NEJMoa1313731
+8.Pitt B, Pfeffer MA, Assmann SF, et al:Spironolactonefor heart failure with preserved ejection fraction.N Engl J Med370(15):1383–1392, 2014.doi:10.1056/NEJMoa1313731
+9.McMurray JJV, Solomon SD, Inzucchi SE, et al:Dapagliflozinin Patients with Heart Failure and Reduced Ejection Fraction.N Engl J Med381(21):1995–2008, 2019.doi:10.1056/NEJMoa191130
+9.McMurray JJV, Solomon SD, Inzucchi SE, et al:Dapagliflozinin Patients with Heart Failure and Reduced Ejection Fraction.N Engl J Med381(21):1995–2008, 2019.doi:10.1056/NEJMoa191130
+10.Anker SD, Butler J, Filippatos G, et al:Empagliflozinin Heart Failure with a Preserved Ejection Fraction.N Engl J Med385(16):1451–1461, 2021.doi:10.1056/NEJMoa2107038
+10.Anker SD, Butler J, Filippatos G, et al:Empagliflozinin Heart Failure with a Preserved Ejection Fraction.N Engl J Med385(16):1451–1461, 2021.doi:10.1056/NEJMoa2107038
+11.Swedberg K, Komajda M, Böhm M, et al:Ivabradineand outcomes in chronic heart failure (SHIFT): a randomised placebo-controlled study.Lancet376(9744):875–885, 2010.doi:10.1016/S0140-6736(10)61198-1
+11.Swedberg K, Komajda M, Böhm M, et al:Ivabradineand outcomes in chronic heart failure (SHIFT): a randomised placebo-controlled study.Lancet376(9744):875–885, 2010.doi:10.1016/S0140-6736(10)61198-1
+12.Armstrong PW, Pieske B, Anstrom KJ, et al:Vericiguatin Patients with Heart Failure and Reduced Ejection Fraction.N Engl J Med382(20):1883–1893, 2020.doi:10.1056/NEJMoa1915928
+12.Armstrong PW, Pieske B, Anstrom KJ, et al:Vericiguatin Patients with Heart Failure and Reduced Ejection Fraction.N Engl J Med382(20):1883–1893, 2020.doi:10.1056/NEJMoa1915928
+13.Kittleson MM, Panjrath GS, Amancherla K, et al: 2023 ACC Expert Consensus Decision Pathway on Management of Heart Failure With Preserved Ejection Fraction: A Report of the American College of Cardiology Solution Set Oversight Committee.J Am Coll Cardiol81(18):1835–1878, 2023.doi:10.1016/j.jacc.2023.03.393
+13.Kittleson MM, Panjrath GS, Amancherla K, et al: 2023 ACC Expert Consensus Decision Pathway on Management of Heart Failure With Preserved Ejection Fraction: A Report of the American College of Cardiology Solution Set Oversight Committee.J Am Coll Cardiol81(18):1835–1878, 2023.doi:10.1016/j.jacc.2023.03.393
+14.Kober L, Thune JJ, Nielsen JC, et al: Defibrillator implantation in patients with nonischemic systolic heart failure.N Engl J Med375(13):1221–2130, 2016.doi: 10.1056/NEJMoa1608029
+14.Kober L, Thune JJ, Nielsen JC, et al: Defibrillator implantation in patients with nonischemic systolic heart failure.N Engl J Med375(13):1221–2130, 2016.doi: 10.1056/NEJMoa1608029
+15.Clephas PRD, Radhoe SP, Boersma E, et al: Efficacy of pulmonary artery pressure monitoring in patients with chronic heart failure: a meta-analysis of three randomized controlled trials.Eur Heart J44(37):3658–3668, 2023.doi:10.1093/eurheartj/ehad346
+15.Clephas PRD, Radhoe SP, Boersma E, et al: Efficacy of pulmonary artery pressure monitoring in patients with chronic heart failure: a meta-analysis of three randomized controlled trials.Eur Heart J44(37):3658–3668, 2023.doi:10.1093/eurheartj/ehad346
+16.Stone GW, Lindenfield J, Abraham WT, et al: Transcatheter mitral-valve repair in patients with heart failure.N Engl J Med379(24):2307–2318, 2018.doi: 10.1056/NEJMoa1806640
+16.Stone GW, Lindenfield J, Abraham WT, et al: Transcatheter mitral-valve repair in patients with heart failure.N Engl J Med379(24):2307–2318, 2018.doi: 10.1056/NEJMoa1806640
+
+【慢性心力衰竭的预后】
+心衰通常逐渐恶化，其间会为数次严重的失代偿发作所打断，尽管经过现代治疗疾病存活期延长，但患者最终会死亡。然而，死亡也可能突然且意外地发生，此前并无症状恶化。慢性心力衰竭患者的总体1年死亡率约为7%至14%（1、2、3）。
+提示预后不良的特定因素包括：诊断时年龄较大、男性、纽约心脏病学会（NYHA）Ⅲ或Ⅳ级症状、射血分数<30%、频繁或近期住院史、合并慢性肾脏、肺或肺血管疾病、糖尿病、运动耐量低（如峰值耗氧量或6分钟步行距离降低）、利钠肽水平升高及低钠血症（4,5,6）。
+虽然患者个体间存在显著的生存差异，但是BNP、NTproBNP，以及Meta-Analysis Global Group in Chronic Heart Failure (MAGGIC) Risk Score和Seattle Heart Failure model等风险评分模型，有助于预测HF患者的整体预后 (7,8)。
+
+【预后参考】
+1.Crespo-Leiro MG, Anker SD, Maggioni AP, et al.European Society of Cardiology Heart Failure Long-Term Registry (ESC-HF-LT): 1-year follow-up outcomes and differences across regions [published correction appears inEur J Heart Fail.2017 Mar;19(3):438. doi: 10.1002/ejhf.772].Eur J Heart Fail.2016;18(6):613-625.doi:10.1002/ejhf.566
+1.Crespo-Leiro MG, Anker SD, Maggioni AP, et al.European Society of Cardiology Heart Failure Long-Term Registry (ESC-HF-LT): 1-year follow-up outcomes and differences across regions [published correction appears inEur J Heart Fail.2017 Mar;19(3):438. doi: 10.1002/ejhf.772].Eur J Heart Fail.2016;18(6):613-625.doi:10.1002/ejhf.566
+2.Jones NR, Roalfe AK, Adoki I, Hobbs FDR, Taylor CJ.Survival of patients with chronic heart failure in the community: a systematic review and meta-analysis.Eur J Heart Fail.2019;21(11):1306-1325.doi:10.1002/ejhf.1594
+2.Jones NR, Roalfe AK, Adoki I, Hobbs FDR, Taylor CJ.Survival of patients with chronic heart failure in the community: a systematic review and meta-analysis.Eur J Heart Fail.2019;21(11):1306-1325.doi:10.1002/ejhf.1594
+3.Pongiglione B, Torbica A, Gale CP, Tavazzi L, Vardas P, Maggioni AP.Patient, hospital and country-level risk factors of all-cause mortality among patients with chronic heart failure: Prospective international cohort study.PLoS One.2021;16(5):e0250931.Published 2021 May 10.doi:10.1371/journal.pone.0250931
+3.Pongiglione B, Torbica A, Gale CP, Tavazzi L, Vardas P, Maggioni AP.Patient, hospital and country-level risk factors of all-cause mortality among patients with chronic heart failure: Prospective international cohort study.PLoS One.2021;16(5):e0250931.Published 2021 May 10.doi:10.1371/journal.pone.0250931
+4.Hollenberg SM, Warner Stevenson L, Ahmad T, et al.2019 ACC Expert Consensus Decision Pathway on Risk Assessment, Management, and Clinical Trajectory of Patients Hospitalized With Heart Failure: A Report of the American College of Cardiology Solution Set Oversight Committee [published correction appears inJ Am Coll Cardiol. 2020 Jan 7;75(1):132. doi: 10.1016/j.jacc.2019.11.020].J Am Coll Cardiol.2019;74(15):1966-2011.doi:10.1016/j.jacc.2019.08.001
+4.Hollenberg SM, Warner Stevenson L, Ahmad T, et al.2019 ACC Expert Consensus Decision Pathway on Risk Assessment, Management, and Clinical Trajectory of Patients Hospitalized With Heart Failure: A Report of the American College of Cardiology Solution Set Oversight Committee [published correction appears inJ Am Coll Cardiol. 2020 Jan 7;75(1):132. doi: 10.1016/j.jacc.2019.11.020].J Am Coll Cardiol.2019;74(15):1966-2011.doi:10.1016/j.jacc.2019.08.001
+5.Peura JL, Colvin-Adams M, Francis GS, et al.Recommendations for the use of mechanical circulatory support: device strategies and patient selection: a scientific statement from the American Heart Association.Circulation.2012;126(22):2648-2667.doi:10.1161/CIR.0b013e3182769a54
+5.Peura JL, Colvin-Adams M, Francis GS, et al.Recommendations for the use of mechanical circulatory support: device strategies and patient selection: a scientific statement from the American Heart Association.Circulation.2012;126(22):2648-2667.doi:10.1161/CIR.0b013e3182769a54
+6.Pocock SJ, Wang D, Pfeffer MA, et al.Predictors of mortality and morbidity in patients with chronic heart failure.Eur Heart J.2006;27(1):65-75.doi:10.1093/eurheartj/ehi555
+6.Pocock SJ, Wang D, Pfeffer MA, et al.Predictors of mortality and morbidity in patients with chronic heart failure.Eur Heart J.2006;27(1):65-75.doi:10.1093/eurheartj/ehi555
+7.Rich JD, Burns J, Freed BH, Maurer MS, Burkhoff D, Shah SJ.Meta-Analysis Global Group in Chronic (MAGGIC) Heart Failure Risk Score: Validation of a Simple Tool for the Prediction of Morbidity and Mortality in Heart Failure With Preserved Ejection Fraction.J Am Heart Assoc.2018;7(20):e009594.doi:10.1161/JAHA.118.009594
+7.Rich JD, Burns J, Freed BH, Maurer MS, Burkhoff D, Shah SJ.Meta-Analysis Global Group in Chronic (MAGGIC) Heart Failure Risk Score: Validation of a Simple Tool for the Prediction of Morbidity and Mortality in Heart Failure With Preserved Ejection Fraction.J Am Heart Assoc.2018;7(20):e009594.doi:10.1161/JAHA.118.009594
+8.Levy WC, Mozaffarian D, Linker DT, et al.The Seattle Heart Failure Model: prediction of survival in heart failure.Circulation.2006;113(11):1424-1433.doi:10.1161/CIRCULATIONAHA.105.584102
+8.Levy WC, Mozaffarian D, Linker DT, et al.The Seattle Heart Failure Model: prediction of survival in heart failure.Circulation.2006;113(11):1424-1433.doi:10.1161/CIRCULATIONAHA.105.584102
+慢性心力衰竭影响着美国超过600万人。
+慢性心力衰竭影响着美国超过600万人。
+慢性心力衰竭是根据结构和功能异常以及症状的存在和程度来分期的。
+慢性心力衰竭是根据结构和功能异常以及症状的存在和程度来分期的。
+慢性心力衰竭伴射血分数降低的药物治疗包括4个关键药物类别：-受体阻滞剂、肾素-血管紧张素系统-neprilysin拮抗剂、钠-葡萄糖共转运蛋白2 （SGLT2）抑制剂和矿皮质激素受体拮抗剂。
+慢性心力衰竭伴射血分数降低的药物治疗包括4个关键药物类别：-受体阻滞剂、肾素-血管紧张素系统-neprilysin拮抗剂、钠-葡萄糖共转运蛋白2 （SGLT2）抑制剂和矿皮质激素受体拮抗剂。
+多学科协作护理和生活方式调整是慢性心力衰竭治疗的重要组成部分。
+多学科协作护理和生活方式调整是慢性心力衰竭治疗的重要组成部分。
+植入式心律转复除颤器与心脏再同步化治疗适用于特定患者群体。
+植入式心律转复除颤器与心脏再同步化治疗适用于特定患者群体。

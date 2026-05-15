@@ -1,0 +1,23 @@
+标题：热痉挛
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/heat-illness/heat-cramps
+============================================================
+
+尽管在凉快环境中活动也可引起痉挛，但这种痉挛与热无关，可能反映了缺乏锻炼。相反，热痉挛可能发生在大量出汗的健壮人群中，可能与血管内容量不足（脱水）、电解质异常（包括运动中仅补水不补盐导致的低钠血症）及疲劳的综合作用有关(1)。热痉挛常见于以下情况：
+体力劳动者（如发动机房工作人员、钢铁工人、盖顶工、矿工）
+体力劳动者（如发动机房工作人员、钢铁工人、盖顶工、矿工）
+痉挛发作突然，通常发生于四肢或腹部的肌肉。通常在锻炼期间或锻炼后发生痉挛。剧烈的疼痛和手足痉挛可使手脚无法活动。体温正常，其他检查结果无异常。痉挛常持续数分钟至数小时。由病史及临床评估可诊断。
+
+【参考文献】
+1.Casa DJ, DeMartini JK, Bergeron MF, et al.National Athletic Trainers' Association Position Statement: Exertional Heat Illnesses [published correction appears inJ Athl Train.2017 Apr;52(4):401. doi: 10.4085/1062-6050-52.4.07.].J Athl Train.2015;50(9):986-1000.doi:10.4085/1062-6050-50.9.07
+1.Casa DJ, DeMartini JK, Bergeron MF, et al.National Athletic Trainers' Association Position Statement: Exertional Heat Illnesses [published correction appears inJ Athl Train.2017 Apr;52(4):401. doi: 10.4085/1062-6050-52.4.07.].J Athl Train.2015;50(9):986-1000.doi:10.4085/1062-6050-50.9.07
+
+【热痉挛的治疗】
+患者应尽可能在阴凉环境休息(1, 2)。应根据世界卫生组织“降低渗透压”的配方，使用口服补液盐补充液体和电解质，该配方略微低渗且可商购 (3)，或者使用其他等渗（或高渗）含盐溶液，或使用足够量的商业运动饮料。为了更迅速的缓解或当口服补充是不可能的，静脉等渗盐水溶液可以使用。与特定肌肉重复运动相关的热痉挛可以通过对受累肌肉进行有力的被动拉伸（例如，小腿痉挛时的踝关节背屈）立即缓解。适当的体能调节、热适应和盐平衡管理有助于预防热痉挛。
+
+【治疗参考文献】
+1.Eifling KP, Gaudio FG, Dumke C, et al.Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update.Wilderness Environ Med.2024;35(1 suppl):112S-127S.doi:10.1177/10806032241227924
+1.Eifling KP, Gaudio FG, Dumke C, et al.Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update.Wilderness Environ Med.2024;35(1 suppl):112S-127S.doi:10.1177/10806032241227924
+2.Casa DJ, DeMartini JK, Bergeron MF, et al.National Athletic Trainers' Association Position Statement: Exertional Heat Illnesses [published correction appears inJ Athl Train.2017 Apr;52(4):401. doi: 10.4085/1062-6050-52.4.07.].J Athl Train.2015;50(9):986-1000.doi:10.4085/1062-6050-50.9.07
+2.Casa DJ, DeMartini JK, Bergeron MF, et al.National Athletic Trainers' Association Position Statement: Exertional Heat Illnesses [published correction appears inJ Athl Train.2017 Apr;52(4):401. doi: 10.4085/1062-6050-52.4.07.].J Athl Train.2015;50(9):986-1000.doi:10.4085/1062-6050-50.9.07
+3.Alam NH, Yunus M, Faruque ASG, et al.Symptomatic Hyponatremia During Treatment of Dehydrating Diarrheal Disease With Reduced Osmolarity Oral Rehydration Solution.JAMA.2006;296(5):567–573.doi:10.1001/jama.296.5.567
+3.Alam NH, Yunus M, Faruque ASG, et al.Symptomatic Hyponatremia During Treatment of Dehydrating Diarrheal Disease With Reduced Osmolarity Oral Rehydration Solution.JAMA.2006;296(5):567–573.doi:10.1001/jama.296.5.567

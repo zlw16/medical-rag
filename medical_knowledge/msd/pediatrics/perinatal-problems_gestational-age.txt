@@ -1,0 +1,76 @@
+标题：胎龄
+来源：https://www.msdmanuals.cn/professional/pediatrics/perinatal-problems/gestational-age
+============================================================
+
+胎龄、产前病史及生长参数有助于识别新生儿病理风险。胎龄是器官成熟的主要决定因素。
+新生儿胎龄的标准定义是从孕妇末次正常月经来潮的第一天到分娩日期的周数。根据末次月经确定孕龄是产科医生和新生儿科医生讨论胎儿成熟度时使用的通用标准，但它并不是衡量胎儿发育周数的准确方法。这是因为排卵和受孕发生在月经周期的中期，因此孕龄的计算从受孕前大约2周开始。此外，如果孕妇的月经不规律，那么根据末次月经日期来确定孕周可能会更加不准确。
+胚胎发育年龄是从受孕到分娩的时间，比孕龄少2周。女性可通过家用激素检测和/或基础体温测量推算排卵时间，进而估算受孕日期。然而，只有在使用体外受精或其他辅助生殖技术时才能确定受孕日期。
+除了通过末次月经来估算孕龄的标准方法外，孕龄也可以根据以下因素进行估算：
+排卵或受孕日期
+排卵或受孕日期
+胎儿超声检查
+胎儿超声检查
+出生后的体格参数（如使用新Ballard评分）
+出生后的体格参数（如使用新Ballard评分）
+预产期（EDD）是预计的出生日期（截止日）。预产期可以计算为
+受孕日期+ 266天
+受孕日期+ 266天
+对于周期28天、月经规律的女性：末次月经时间（LMP）+ 280天（40周）
+对于周期28天、月经规律的女性：末次月经时间（LMP）+ 280天（40周）
+对于月经周期规律但周期并非28天的女性：LMP + 280天 +（周期长度 - 28天）
+对于月经周期规律但周期并非28天的女性：LMP + 280天 +（周期长度 - 28天）
+当月经规律时，月经史是确定预产期的相对可靠的方法。
+当缺乏其他信息时，超声测量在妊娠第一孕期对胎儿的检查可以最准确地估计胎龄。当受孕日期未知，月经周期不规则或无法获得有关月经周期的信息时，超声检查可能是估计分娩日期的唯一来源。
+比较基于末次月经和当前妊娠第一次胎儿超声检查的胎龄。如果这些年龄估计不一致，则估计分娩日期（以及估计孕龄）可能会发生变化，具体取决于周数和不一致程度。美国妇产科医师学会（ACOG）(1)建议，若超声推算的预产期与月经日期不同，应以超声检测结果为准。
+≤ 8 6/7 周妊娠： > 5 天
+≤ 8 6/7 周妊娠： > 5 天
+妊娠 9 至 15 6/7 周：> 7 天
+妊娠 9 至 15 6/7 周：> 7 天
+妊娠 16 至 21 6/7 周：> 10 天
+妊娠 16 至 21 6/7 周：> 10 天
+妊娠 22 至 27 6/7 周：> 14 天
+妊娠 22 至 27 6/7 周：> 14 天
+≥ 28 周妊娠： > 21 天
+≥ 28 周妊娠： > 21 天
+月经日期与超声日期仅在当前妊娠的首次超声检查后进行校准——预产期不会根据后续的超声检查结果而改变。由于超声检查估计在妊娠后期不太准确，因此妊娠中期和晚期超声检查结果很少用于改变估计孕龄，并且，如果考虑改变预产期（EDD），应咨询胎儿超声检查专家。通过在评估中纳入>1项胎儿测量指标（例如，股骨长度和头围）可以提高孕中期和孕晚期胎龄评估的准确性 (2)。
+新生儿体格检查结果也被临床医生用于通过新Ballard评分来估算胎龄。新的巴拉德评分取代了巴拉德成熟度评分，经过改进和扩展，以提高准确性并纳入极早产的新生儿（3）；但是，新的巴拉德评分的准确度仅在正负2周之内。研究发现，新生儿对胎龄的临床评估高估了早产儿的胎龄，低估了小于胎龄婴儿的胎龄（4)。因此，只有当没有关于估计分娩日期的可靠产科信息，或者产科定义的胎龄与体检结果之间存在重大差异时，才应使用胎龄体检评估来确定胎龄并决定护理。
+新Ballard评分基于新生儿的身体和神经肌肉成熟度，可以在出生后4天内使用（实际上，新Ballard评分通常在出生后24小时内使用）。神经肌肉组分随时间更一致，因为物理组分在出生后迅速成熟。 然而，神经肌肉组分可能受到疾病和药物（如分娩时给予硫酸镁）的影响。
+
+【评估胎龄—新Ballard评分】
+评估胎龄—新Ballard评分
+将神经肌肉和体格的评分相加得到总分。
+(Adapted fromBallard JL, Khoury JC, Wedig K, et al. New Ballard score, expanded to include extremely premature infants.Pediatrics. 1991;119(3):417–423.doi:10.1016/s0022-3476(05)82056-6; used with permission of the CV Mosby Company.)
+根据胎龄，美国妇产科医师学会将新生儿分类为(5)
+早产：<37周妊娠
+早产：<37周妊娠
+晚期早产：34-36 6/7周
+晚期早产：34-36 6/7周
+早期足月：37周0/7至38周6/7
+早期足月：37周0/7至38周6/7
+足月：39周0/7〜40周6/7
+足月：39周0/7〜40周6/7
+晚产：41周0/7〜41周6/7
+晚产：41周0/7〜41周6/7
+过期产:≥42周0/7
+过期产:≥42周0/7
+世界卫生组织(WHO)进一步将早产儿分类为(6)
+极早产：妊娠<28周
+极早产：妊娠<28周
+非常早产：28周0/7至31周6/7
+非常早产：28周0/7至31周6/7
+中度早产：32周0天至33周6天
+中度早产：32周0天至33周6天
+
+【参考文献】
+1.Committee Opinion No 700: Methods for Estimating the Due Date.Obstet Gynecol.2017;129(5):e150-e154.doi:10.1097/AOG.0000000000002046.Reaffirmed 2022.
+1.Committee Opinion No 700: Methods for Estimating the Due Date.Obstet Gynecol.2017;129(5):e150-e154.doi:10.1097/AOG.0000000000002046.Reaffirmed 2022.
+2.Self A, Schlussel M, Collins GS, et al.External validation of models to estimate gestational age in the second and third trimester using ultrasound: A prospective multicentre observational study.BJOG.2024;131(13):1862-1873.doi:10.1111/1471-0528.17922
+2.Self A, Schlussel M, Collins GS, et al.External validation of models to estimate gestational age in the second and third trimester using ultrasound: A prospective multicentre observational study.BJOG.2024;131(13):1862-1873.doi:10.1111/1471-0528.17922
+3.Ballard JL, Khoury JC, Wedig K, Wang L, Eilers-Walsman BL, Lipp R.New Ballard Score, expanded to include extremely premature infants.J Pediatr.1991;119(3):417-423.doi:10.1016/s0022-3476(05)82056-6
+3.Ballard JL, Khoury JC, Wedig K, Wang L, Eilers-Walsman BL, Lipp R.New Ballard Score, expanded to include extremely premature infants.J Pediatr.1991;119(3):417-423.doi:10.1016/s0022-3476(05)82056-6
+4.Lee AC, Panchal P, Folger L, et al.Diagnostic accuracy of neonatal assessment for gestational age determination: A systematic review.Pediatrics.2017;140(6):e20171423.doi:10.1542/peds.2017-1423
+4.Lee AC, Panchal P, Folger L, et al.Diagnostic accuracy of neonatal assessment for gestational age determination: A systematic review.Pediatrics.2017;140(6):e20171423.doi:10.1542/peds.2017-1423
+5.ACOG Committee Opinion No 579.Definition of term pregnancy.Obstet Gynecol.2013;122(5):1139-1140.doi:10.1097/01.AOG.0000437385.88715.4a
+5.ACOG Committee Opinion No 579.Definition of term pregnancy.Obstet Gynecol.2013;122(5):1139-1140.doi:10.1097/01.AOG.0000437385.88715.4a
+6.Quinn JA, Munoz FM, Gonik B, et al.Preterm birth: Case definition & guidelines for data collection, analysis, and presentation of immunisation safety data.Vaccine.2016;34(49):6047-6056.doi:10.1016/j.vaccine.2016.03.045
+6.Quinn JA, Munoz FM, Gonik B, et al.Preterm birth: Case definition & guidelines for data collection, analysis, and presentation of immunisation safety data.Vaccine.2016;34(49):6047-6056.doi:10.1016/j.vaccine.2016.03.045

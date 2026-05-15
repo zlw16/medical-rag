@@ -1,0 +1,96 @@
+标题：四环素
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/bacteria-and-antibacterial-medications/tetracyclines
+============================================================
+
+四环素类药物为抑菌抗生素，与细菌核糖体30S亚单位结合，从而抑制细菌蛋白质的合成。特殊的四环素是
+多西环素
+多西环素
+埃拉环素（仅限静脉注射）
+埃拉环素（仅限静脉注射）
+米诺环素
+米诺环素
+奥马环素（新型氨甲基环素）
+奥马环素（新型氨甲基环素）
+
+【四环素类药物的药代动力学】
+口服给药后，60%～80％四环素和≥90%的多西环素和米诺环素被吸收。然而，金属阳离子（如铝、钙、镁和铁）会减少药物的吸收；因此，四环素类药物不能与含有这些物质的制剂同时服用（如抗酸剂、多种维生素和矿物质补充剂）。四环素和奥马环素应空腹用大量水送服。食物也会减少其他四环素类药物的吸收，但这种影响对多西环素和米诺环素的影响较小。
+四环素类药物渗入机体大部分组织和体液中。聚集在没有梗阻的胆汁中。但是脑脊液中达不到可靠治疗浓度。米诺环素是唯一一种在泪液和唾液中能达到高浓度的四环素类药物。
+四环素和米诺环素主要是通过尿液排出。多西环素、埃拉环素和奥马环素主要在肠道中排泄。
+
+【四环素类药物的适应症】
+四环素类药物对以下感染有抗菌活性：
+立克次体
+立克次体
+螺旋体（如Treponema pallidum,Borrelia burgdorferi）
+螺旋体（如Treponema pallidum,Borrelia burgdorferi）
+幽门螺杆菌
+幽门螺杆菌
+鼠疫耶尔森菌
+鼠疫耶尔森菌
+土拉弗朗西斯菌
+土拉弗朗西斯菌
+布鲁氏菌属
+布鲁氏菌属
+炭疽杆菌
+炭疽杆菌
+间日疟原虫
+间日疟原虫
+Plasmodium falciparum
+Plasmodium falciparum
+支原体属
+支原体属
+Chlamydia和Chlamydophila属感染
+Chlamydia和Chlamydophila属感染
+一些耐甲氧西林金黄色葡萄球菌
+一些耐甲氧西林金黄色葡萄球菌
+5%～10％肺炎球菌株和许多A型beta-溶血性链球菌，许多革兰阴性杆菌尿路病原菌和产青霉素酶的淋球菌对其耐药。
+尽管米诺环素对耐甲氧西林S. aureus（金黄色葡萄球菌）感染的研究最多，但四环素类药物在大多数适应证上可相互替代使用。
+多西环素通常为以下感染的首选，因为它耐受性更好且可以每日两次给药：
+由rickettsiae（立克次体）或Anaplasma（无浆体属）、Chlamydia（衣原体属）、Chlamydophila（嗜衣原体属）、Ehrlichia（埃里希体属）、Mycoplasma（支原体属）或Vibrio（弧菌）属引起的感染。
+由rickettsiae（立克次体）或Anaplasma（无浆体属）、Chlamydia（衣原体属）、Chlamydophila（嗜衣原体属）、Ehrlichia（埃里希体属）、Mycoplasma（支原体属）或Vibrio（弧菌）属引起的感染。
+慢性支气管炎急性加重
+慢性支气管炎急性加重
+布氏菌病
+布氏菌病
+腹股沟肉芽肿
+腹股沟肉芽肿
+预防由氯喹耐药的P. falciparum（恶性疟原虫）引起的疟疾
+预防由氯喹耐药的P. falciparum（恶性疟原虫）引起的疟疾
+
+【四环素类药物的禁忌症】
+四环素类药物禁用于既往有过敏反应病史的患者。
+由于担心牙齿染色，8 岁以下儿童曾限制使用该药物，但短期使用多西环素的临床研究并未证实这一点。因此，目前大多数专家认为短期（< 21 天）使用多西环素对所有年龄段都是可接受的（1）。一项针对 8 岁以下因疑似患有落基山斑疹热而接受短疗程多西环素治疗的儿童的研究显示，与未接受多西环素治疗的儿童相比，未发现牙齿染色或牙釉质缺损的证据(2,3)。
+
+【禁忌症的参考文献】
+1.Stultz JS, Eiland LS:Doxycyclineand Tooth Discoloration in Children: Changing of Recommendations Based on Evidence of Safety.Ann Pharmacother53(11):1162-1166, 2019.doi: 10.1177/1060028019863796
+1.Stultz JS, Eiland LS:Doxycyclineand Tooth Discoloration in Children: Changing of Recommendations Based on Evidence of Safety.Ann Pharmacother53(11):1162-1166, 2019.doi: 10.1177/1060028019863796
+2.Todd SR, Dahlgren FS, Traeger MS, et al: No visible dental staining in children treated withdoxycyclinefor suspected Rocky Mountain spotted fever.J Pediatr166(5):1246–1251, 2015.doi: 10.1016/j.jpeds.2015.02.015
+2.Todd SR, Dahlgren FS, Traeger MS, et al: No visible dental staining in children treated withdoxycyclinefor suspected Rocky Mountain spotted fever.J Pediatr166(5):1246–1251, 2015.doi: 10.1016/j.jpeds.2015.02.015
+3.Centers for Disease Control and Prevention (CDC): Research ondoxycyclineand tooth staining.Accessed February 20, 2024.
+3.Centers for Disease Control and Prevention (CDC): Research ondoxycyclineand tooth staining.Accessed February 20, 2024.
+
+【怀孕和哺乳期间使用四环素类药物】
+由于四环素类药物存在在胎儿骨骼和牙齿中蓄积的风险，因此在怀孕期间应避免使用；然而，短期使用多西环素（≤10 天）似乎不会增加牙齿变色的风险。尽管如此，当有更安全的替代品时，孕妇和哺乳期妇女应该避免使用四环素类药物。
+孕妇可能出现肝毒性，尤其是在静脉给药后以及合并氮质血症或肾盂肾炎的患者中。怀孕期间服用高剂量药物可导致肝脏脂肪变性，这可能是致命的。
+
+【四环素类药物的不良反应】
+四环素类药物的不良反应包括
+肠胃不适
+肠胃不适
+念珠菌病
+念珠菌病
+儿童骨骼和牙齿不良反应
+儿童骨骼和牙齿不良反应
+前庭功能紊乱（米诺环素）
+前庭功能紊乱（米诺环素）
+所有口服四环素类药物都会引起恶心、呕吐和腹泻，并可能导致念珠菌二重感染。如果不用水吞服，四环素类药物会引起食道侵蚀。
+四环素类引起光敏感可能表现为晒伤反应加重。
+对骨骼和牙齿的影响包括牙齿染色（短期使用多西环素不会出现这种情况；见禁忌症)、牙釉质发育不全以及8岁以下儿童的骨骼生长异常。在婴儿，四环素类可以发生特发性颅内高血压和囟门膨出。
+大剂量给药或肾功能不全引起的血药浓度增高，可能导致致命性肝脏急性脂肪变性，尤其在妊娠期。
+米诺环素通常引起前庭功能紊乱，限制其使用。米诺环素的使用与自身免疫紊乱的发生有关，如系统性红斑狼疮和结节性多动脉炎，这些不良反应是可逆的。米诺环素也可引起药物伴嗜酸性粒细胞增多和全身症状（DRESS），其特点是发热、皮疹、淋巴结肿大、肝炎、非典型性淋巴细胞增多症、嗜酸性粒细胞增多症和血小板减少症。
+四环素类（强力霉素除外）可加重肾功能不全患者的氮质血症、高磷血症和代谢性酸中毒。尽管多西环素具有四环素类的许多代谢特性，但由于其肾外排泄途径，通常不会导致毒性血药浓度。
+过期的四环素片会变性，如摄入会引起范科尼综合征。应指导患者在抗生素过期时将其丢弃。
+
+【四环素的给药注意事项】
+多西环素、埃拉瓦环素和奥马环素主要在肠道中排泄，肾功能不全时不需要减少剂量，而四环素和米诺环素在肾功能减退的患者中需要调整剂量。
+四环素能降低口服避孕药效果和增强口服抗凝剂的作用。

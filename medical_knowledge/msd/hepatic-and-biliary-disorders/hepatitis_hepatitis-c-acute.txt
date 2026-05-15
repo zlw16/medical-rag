@@ -1,0 +1,103 @@
+标题：急性丙型肝炎
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/hepatitis/hepatitis-c-acute
+============================================================
+
+（参见肝炎的原因,急性肝炎概述, 和慢性丙型肝炎.)
+2021 年，美国报告了 5023 例急性丙型肝炎感染病例（1）。然而，由于很多病例没有被诊断或上报，疾病预防控制中心（CDC）估计69年实际新增感染人数超过800,2021人 (1)。自 2013 年以来，美国的急性丙型肝炎病例数一直在上升。
+丙型肝炎病毒（HCV）是单链RNA黄病毒，引起急性病毒性肝炎并且引起慢性病毒性肝炎常见的原因。目前根据氨基酸序列可分为6个HCV亚型（基因型），不同亚型具有不同的地域分布、菌株毒力和治疗反应。HCV感染宿主以后，经过一定时期，可以通过改变氨基酸序列形成突变株。
+HCV感染有时同时伴发特异的系统性疾病，包括：
+混合性冷凝球蛋白血症
+混合性冷凝球蛋白血症
+迟发性皮肤卟啉症（卟啉症患者约60％～80％感染HCV，但仅少数HCV感染患者出现卟啉病）。
+迟发性皮肤卟啉症（卟啉症患者约60％～80％感染HCV，但仅少数HCV感染患者出现卟啉病）。
+肾小球肾炎
+肾小球肾炎
+机制不明
+高达20％的酒精性肝病患者感染HCV。酒精性肝病与丙型肝炎之间高度相关性的原因尚不清楚，因为仅有一小部分患者同时有嗜酒和注射毒品。在这些患者中，HCV感染和饮酒的协同作用可加速肝脏炎症和纤维化。
+
+【丙型肝炎的传播】
+血液传播是最常见传播途径，主要是静脉药物使用者共用注射器和针头，还可以通过共用鼻吸入毒品的导管、纹身和使用非无菌设备进行身体穿孔等方式传播。
+丙肝经性传播和母婴垂直传播相对比较少见。
+自从对献血员进行抗-HCV筛查以来，经输血传播丙型肝炎已经非常少见。
+部分散发病例的发生常无明确的危险因素。
+HCV患病率随地域和危险因素的不同而存在差异。
+
+【参考文献】
+1.Centers for Disease Control and Prevention: Viral Hepatitis Surveillance — United States.Accessed June 17, 2024.
+1.Centers for Disease Control and Prevention: Viral Hepatitis Surveillance — United States.Accessed June 17, 2024.
+
+【急性丙型肝炎的症状和体征】
+丙型肝炎急性期感染可无症状。其严重程度往往波动，有时复发性肝炎和氨基转移酶水平会波动几年甚至几十年。暴发性肝炎是极其罕见的。
+HCV感染的慢性化率最高（大约75％）。发生的慢性肝炎一般无症状或为良性的，20％~30％的患者在几十年后会发展成肝硬化。HCV感染相关肝硬化也可发展成肝细胞肝癌，但很少不经过肝硬化阶段直接转化成肝细胞肝癌（与HBV感染不同）。
+
+【急性丙型肝炎的诊断】
+血清学检测
+血清学检测
+HCV RNA测量
+HCV RNA测量
+在急性肝炎的初步诊断中, 病毒性肝炎应与引起黄疸的其他疾病鉴别（见图急性病毒性肝炎的简易诊断流程)。
+疑似急性病毒性肝炎的患者，需要进行以下检测以筛查HAV、HBV和HCV的感染：
+检测甲型肝炎病毒的IgM抗体（抗-HAV IgM）
+检测甲型肝炎病毒的IgM抗体（抗-HAV IgM）
+检测乙肝病毒表面抗原（HBsAg）
+检测乙肝病毒表面抗原（HBsAg）
+乙肝病毒核心抗原IgM型抗体（anti-HBc IgM）
+乙肝病毒核心抗原IgM型抗体（anti-HBc IgM）
+HCV抗体（anti-HCV）和HCV-RNA
+HCV抗体（anti-HCV）和HCV-RNA
+如果抗HCV检测为阳性，需要测定HCV-RNA，以区分既往HCV感染还是有活动性（见表丙型肝炎血清学)。
+丙肝的血清抗体（抗-HCV）见于慢性感染、既往感染和急性感染，它是一种非保护性抗体。当诊断不清或高度疑似丙型肝炎时，检测HCV-RNA。抗-HCV抗体一般在急性感染后2周内出现，有时也会延迟出现，但HCV-RNA更快为阳性。
+
+【丙型肝炎血清学】
+丙型肝炎血清学
+急性丙型肝炎
+慢性丙型肝炎
+既往感染丙肝*
+抗-HCV
+HCV RNA
+*既往感染HCV已经自行恢复或成功治愈的患者
+Anti-HCV=丙型肝炎病毒抗体；HCV=丙型肝炎病毒
+*既往感染HCV已经自行恢复或成功治愈的患者
+Anti-HCV=丙型肝炎病毒抗体；HCV=丙型肝炎病毒
+
+【其他检测】
+如果以前未进行过肝功能检查，则需要检测肝功能，包括丙氨酸转氨酶（ALT）、天冬氨酸转氨酶（AST）、碱性磷酸酶。
+评估肝功能和疾病严重程度的其它检测包括血清白蛋白，胆红素、血小板计数，和PT/INR。
+
+【急性丙型肝炎的治疗】
+抗病毒治疗
+抗病毒治疗
+对于丙型肝炎，有一些高效的直接作用的抗病毒药物(DAAs)，可能降低其发展为慢性感染的可能性。DAA 还有助于防止传播给他人。目前的建议是在急性 HCV 的初步诊断后开始治疗，无需等待自然消退。
+饮酒和肝毒性药物(如扑热息痛)会加重肝脏损伤，应避免。 限制饮食和活动包括通常处方的卧床休息没有可靠的科学依据。
+发现病毒性肝炎应及时传报当地或国家卫生防疫部门。
+
+【治疗参考文献】
+1.American Association for the Study of Liver Diseases (AASLD)–Infectious Diseases Society of America (IDSA): HCV Guidance: Recommendations for Testing, Managing, and Treating Hepatitis C: Management of Acute HCV Infection.Accessed May 8, 2024.
+1.American Association for the Study of Liver Diseases (AASLD)–Infectious Diseases Society of America (IDSA): HCV Guidance: Recommendations for Testing, Managing, and Treating Hepatitis C: Management of Acute HCV Infection.Accessed May 8, 2024.
+
+【预防急性丙型肝炎】
+应建议患者避免高危行为（例如共用针头注射药物、纹身、在身体上穿孔打洞）。
+血液、其他体液（如唾液、 精液）具有传染性。单次针刺暴露后感染的风险大约是1.8％ (1)。推荐屏障保护，但隔离患者对预防丙肝无益。
+HCV感染的医务人员传播的风险似乎很低，CDC没有建议限制感染丙型肝炎的医护人员工作。
+减少不必要的输血和对献血员进行乙型肝炎和丙型肝炎筛查可减少输血后感染。筛查已经降低了输血后乙型肝炎和丙型肝炎的发病率，这两种疾病现在在美国极为罕见。
+没有对HCV进行免疫预防的产品。HCV基因多态性影响HCV疫苗的研制。
+不推荐使用抗病毒治疗进行暴露前或暴露后预防。
+
+【预防参考文献】
+1.Centers for Disease Control and Prevention: Updated U.S. public health service guidelines for the management of occupational exposures to HBV, HCV, and HIV and recommendations for postexposure prophylaxis.MMWR Recommen Rep50(RR11):1-42, 2001.PMID: 11442229
+1.Centers for Disease Control and Prevention: Updated U.S. public health service guidelines for the management of occupational exposures to HBV, HCV, and HIV and recommendations for postexposure prophylaxis.MMWR Recommen Rep50(RR11):1-42, 2001.PMID: 11442229
+丙型肝炎通常是通过接触受污染的血液肠外传播;罕 见由粘膜接触 其他体液而感染及由受感染母亲围产期传播。
+丙型肝炎通常是通过接触受污染的血液肠外传播;罕 见由粘膜接触 其他体液而感染及由受感染母亲围产期传播。
+急性丙肝中75％可发展为慢性丙肝，其中约20%～30%进展为肝硬化，有些的肝硬化患者可发生肝细胞肝癌。
+急性丙肝中75％可发展为慢性丙肝，其中约20%～30%进展为肝硬化，有些的肝硬化患者可发生肝细胞肝癌。
+通过检测抗HCV抗体和HCV RNA诊断。
+通过检测抗HCV抗体和HCV RNA诊断。
+丙型肝炎初步诊断后用抗病毒药物治疗，无需等待自然消退。
+丙型肝炎初步诊断后用抗病毒药物治疗，无需等待自然消退。
+没有丙肝疫苗
+没有丙肝疫苗
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Bhattacharya D, Aronsohn A, Price J, et al: Hepatitis C Guidance 2023 Update: American Association for the Study of Liver Diseases– Infectious Diseases Society of America Recommendations for testing, managing, and treating hepatitis C virus infection.Clin Infectious Dis2023. https://doi.org/10.1093/cid/ciad319
+Bhattacharya D, Aronsohn A, Price J, et al: Hepatitis C Guidance 2023 Update: American Association for the Study of Liver Diseases– Infectious Diseases Society of America Recommendations for testing, managing, and treating hepatitis C virus infection.Clin Infectious Dis2023. https://doi.org/10.1093/cid/ciad319

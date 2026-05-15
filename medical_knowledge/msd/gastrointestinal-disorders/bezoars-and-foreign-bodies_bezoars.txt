@@ -1,0 +1,72 @@
+标题：胃石
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/bezoars-and-foreign-bodies/bezoars
+============================================================
+
+（参见消化道异物概述。）
+胃石根据其组成可进行分类：
+植物性胃石（最常见）由不可消化的果蔬成分组成，如纤维、果皮与种子。
+植物性胃石（最常见）由不可消化的果蔬成分组成，如纤维、果皮与种子。
+毛胃石是由毛发组成的。
+毛胃石是由毛发组成的。
+药物性胃石是口服药物的结石（尤其常见于硫糖铝、氢氧化铝凝胶）。
+药物性胃石是口服药物的结石（尤其常见于硫糖铝、氢氧化铝凝胶）。
+柿石是植物性胃石的一种，由过量摄入柿子引起，最常发生于柿子种植地区。
+柿石是植物性胃石的一种，由过量摄入柿子引起，最常发生于柿子种植地区。
+乳凝块胃石由乳蛋白组成。
+乳凝块胃石由乳蛋白组成。
+其他胃石由多种物质组成，包括纸巾与聚苯乙烯泡沫制品（如杯子）。
+其他胃石由多种物质组成，包括纸巾与聚苯乙烯泡沫制品（如杯子）。
+
+【胃石的病因】
+植物性胃石常见于成人患者，为胃旁路术或部分胃切除术的术后并发症，尤其是部分胃切除术伴迷走神经切断术后。
+{}毛胃石{}最常见于 2-6 岁儿童，以及青少年或年轻成年女性（常合并精神疾病，会咀嚼并吞咽自己的头发）（1）。
+乳胃石可能发生于牛奶喂养的婴儿。
+由于糖尿病、混合性结缔组织病、其他系统性疾病、药物（如阿片类药物）或毒品（如大麻）引起的胃排空延迟，会增加胃石形成的风险。
+其他诱因包括胃酸过少、胃动力减弱及咀嚼不完全；上述因素主要发生在老年人中，因此老年人是胃石发生的高危人群 (2)。
+
+【病因参考文献】
+1.Sehgal VN, Srivastava G.Trichotillomania +/- trichobezoar: revisited. J Eur Acad Dermatol Venereol.2006;20(8):911-915.doi:10.1111/j.1468-3083.2006.01590.x
+1.Sehgal VN, Srivastava G.Trichotillomania +/- trichobezoar: revisited. J Eur Acad Dermatol Venereol.2006;20(8):911-915.doi:10.1111/j.1468-3083.2006.01590.x
+2.Iwamuro M, Okada H, Matsueda K, et al: Review of the diagnosis and management of gastrointestinal bezoars.World J Gastrointest Endosc7(4):336–345, 2015.doi: 10.4253/wjge.v7.i4.336
+2.Iwamuro M, Okada H, Matsueda K, et al: Review of the diagnosis and management of gastrointestinal bezoars.World J Gastrointest Endosc7(4):336–345, 2015.doi: 10.4253/wjge.v7.i4.336
+
+【胃石的症状和体征】
+胃石通常无症状。当症状出现时，最常见的包括餐后饱胀、腹痛、恶心、呕吐、厌食和体重下降。
+胃石很少引起严重并发症，包括：
+胃出口梗阻
+胃出口梗阻
+继发于溃疡的胃肠道出血
+继发于溃疡的胃肠道出血
+肠麻痹和肠梗阻
+肠麻痹和肠梗阻
+穿孔和腹膜炎
+穿孔和腹膜炎
+
+【胃石的诊断】
+胃石可在影像学检查（如 X 线、超声、CT）中表现为团块病变 —— 这些检查常用于评估患者非特异性的上消化道症状。 这些结果可能被误认为是肿瘤。
+在左侧的 X 线片图像中，中线中上腹部的大软组织团块（内部气体呈斑驳状，星号标注）提示胃石。右侧的冠状位CT扫描图像中，异质团块表示胃石（箭头）。这两幅图像中，肠管都有向下的挤压移位。
+上消化道内镜常用于确诊。内镜下可见胃石表面极不规则，颜色可由黄绿到灰黑。内镜活检发现有毛发或植物类纤维，即可诊断。
+这张照片显示一位糖尿病性胃轻瘫患者体内的植物性胃石。
+
+【胃石的治疗】
+化学溶解
+化学溶解
+内镜下切除
+内镜下切除
+有时需手术治疗
+有时需手术治疗
+最佳治疗方法是有争议的，因为比较不同治疗选择的随机对照试验尚未完成。有时需要联合治疗。
+对于症状较轻的患者，可采用口服可乐或纤维素酶等化学溶解疗法。可乐已被证明是大多数与胃动力差相关的植物性胃石的成功一线治疗方法（1，2）。甲氧氯普胺口服或红霉素口服/静脉注射，通常作为促进胃动力的辅助手段。过去曾使用木瓜蛋白酶进行酶解治疗，但该方法与显著不良事件相关（1）。"药物碎石术"包括直接将化学制剂（如碳酸氢钠或可乐）通过鼻胃管等方式注入胃内，对于植物性胃石尤其有效（3）。
+内镜下取出适用于胃石无法溶解、因大胃石出现中重度症状，或两者兼具的患者。如果由内镜首诊，则可在诊断内镜下取出胃石。内镜下用活检钳、钢丝套网、喷注、氩气等离子体凝固甚至激光 (4) 都可使胃石破碎，使之排出或被取出。
+手术适用于无法进行或已经尝试化学溶解和内镜介入治疗失败的病例，以及存在并发症或肠道结石的患者。
+柿子果实含有单宁酸柿涩醇，这种物质在胃中会聚合。因此，柿子胃石通常非常坚硬；其对保守治疗或内镜治疗的反应不一，且常需手术切除。
+
+【治疗参考文献】
+1.Iwamuro M, Okada H, Matsueda K, et al: Review of the diagnosis and management of gastrointestinal bezoars.World J Gastrointest Endosc7(4):336–345, 2015.doi: 10.4253/wjge.v7.i4.336
+1.Iwamuro M, Okada H, Matsueda K, et al: Review of the diagnosis and management of gastrointestinal bezoars.World J Gastrointest Endosc7(4):336–345, 2015.doi: 10.4253/wjge.v7.i4.336
+2.Ladas SD, Kamberoglou D, Karamanolis G, Vlachogiannakos J, Zouboulis-Vafiadis I: Systematic review: Coca-Cola can effectively dissolve gastric phytobezoars as a first-line treatment.Aliment Pharmacol Ther.37(2):169–173, 2013.doi:10.1111/apt.12141
+2.Ladas SD, Kamberoglou D, Karamanolis G, Vlachogiannakos J, Zouboulis-Vafiadis I: Systematic review: Coca-Cola can effectively dissolve gastric phytobezoars as a first-line treatment.Aliment Pharmacol Ther.37(2):169–173, 2013.doi:10.1111/apt.12141
+3.Zheng X, Qiu B, Jin XW, et al.Endoscopic lithotripsy combined with drug lithotripsy vs. drug lithotripsy for the treatment of phytobezoars: analysis of 165 cases.Surg Endosc38(5):2788–2794, 2024.doi:10.1007/s00464-024-10741-x
+3.Zheng X, Qiu B, Jin XW, et al.Endoscopic lithotripsy combined with drug lithotripsy vs. drug lithotripsy for the treatment of phytobezoars: analysis of 165 cases.Surg Endosc38(5):2788–2794, 2024.doi:10.1007/s00464-024-10741-x
+4.Mao Y, Qiu H, Liu Q, et al: Endoscopic lithotripsy for gastric bezoars by Nd:YAG laser-ignited mini-explosive technique.Lasers Med Sci29:1237–1240, 2014.doi: 10.1007/s10103-013-1512-1
+4.Mao Y, Qiu H, Liu Q, et al: Endoscopic lithotripsy for gastric bezoars by Nd:YAG laser-ignited mini-explosive technique.Lasers Med Sci29:1237–1240, 2014.doi: 10.1007/s10103-013-1512-1

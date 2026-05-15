@@ -1,0 +1,346 @@
+标题：急性冠状动脉综合征（ACS）概述
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/coronary-artery-disease/overview-of-acute-coronary-syndromes-acs
+============================================================
+
+(参见冠状动脉疾病概述。）
+
+【急性冠脉综合征的分类】
+急性冠状动脉综合征包括
+不稳定型心绞痛
+不稳定型心绞痛
+非ST段抬高型心肌梗死（NSTEMI）
+非ST段抬高型心肌梗死（NSTEMI）
+ST段抬高型心肌梗死（STEMI）
+ST段抬高型心肌梗死（STEMI）
+以上均为急性冠脉缺血，根据症状、心电图表现以及心肌标志物水平进行区分。由于不同类型ACS的预后及治疗措施不同，临床中有必要进行分型。
+不稳定型心绞痛（急性冠状动脉功能不全、梗死前心绞痛、中间综合征）定义为以下一项或多项情况，且患者的心脏生物标志物不符合心肌梗死 (MI) 标准：
+静息心绞痛持续时间延长（通常>20分钟）
+静息心绞痛持续时间延长（通常>20分钟）
+加拿大心血管学会（CCS）分类严重程度至少为3级的初发心绞痛（见表加拿大心血管学会心绞痛分类系统）
+加拿大心血管学会（CCS）分类严重程度至少为3级的初发心绞痛（见表加拿大心血管学会心绞痛分类系统）
+恶化性心绞痛，指心绞痛的频率增加、程度加剧、持续时间延长或阈值降低（CCS分级增加≥1级或至少CCS 3级）。
+恶化性心绞痛，指心绞痛的频率增加、程度加剧、持续时间延长或阈值降低（CCS分级增加≥1级或至少CCS 3级）。
+心电图表现包括心绞痛发作期间ST段压低，ST段抬高或T波倒置，这些改变均为暂时性的。心肌标志物中，肌酸激酶MB亚型（CK-MB）通常不升高，但心肌肌钙蛋白，尤其是使用高敏肌钙蛋白检测（hs-cTn）时，可能轻度升高。不稳定型心绞痛可能进展为心肌梗死、心律失常甚至猝死。
+非ST段抬高型MI（NSTEMI，心内膜下心肌梗死）：指不伴有急性ST段抬高的心肌坏死（通过血液中心肌生物标志物证实；肌钙蛋白I或肌钙蛋白T和CK-MB将升高）。心电图可能表现为ST段压低，T波倒置或二者兼而有之。
+ST段抬高型MI（STEMI，透壁性心肌梗死）：指伴有ST段抬高（不能由硝酸甘油迅速逆转）或新发左束支传导阻滞的心肌坏死。肌钙蛋白I或肌钙蛋白T和CK-MB升高。
+以上两种心肌梗死类型均可能产生或不产生病理性Q波（依据心电图分为Q波型心梗，非Q波型心梗）。
+
+【急性冠脉综合征的病因】
+ACS最常见病因为
+粥样硬化冠状动脉内急性血栓形成。
+粥样硬化冠状动脉内急性血栓形成。
+粥样斑块有时会变得不稳定或存在炎症，诱发斑块破裂或撕裂，促血栓形成物质暴露，激活血小板及凝血瀑布，导致急性血栓形成。血小板激活可引起细胞膜上糖蛋白GPⅡb/Ⅲa受体结构的改变，促使血小板交联进一步聚集。甚至引起微小阻塞的粥样瘤亦可能破裂而诱发血栓形成。在>50％的病例中，其发生事件前的血管狭窄程度<40％。因此尽管血管狭窄严重程度有助于预测症状，它并不总是能预测急性血栓事件。形成的血栓可迅速影响部分心肌的血供。自发溶栓发生在多达三分之一的患者中(1)；24小时后，血栓性梗阻仅占30%左右。然而，在几乎所有病例中，梗阻持续时间长到足以引起不同程度的组织坏死。
+ACS罕见病因包括
+冠状动脉栓塞
+冠状动脉栓塞
+冠状动脉痉挛
+冠状动脉痉挛
+自发性冠状动脉夹层
+自发性冠状动脉夹层
+冠状动脉栓塞可能发生于二尖瓣狭窄、主动脉瓣狭窄、感染性心内膜炎、非细菌性血栓性心内膜炎（消耗性心内膜炎）或心房颤动。
+使用可卡因和其他原因引起的冠状动脉痉挛有时也可能导致心肌梗死。冠脉痉挛所致心肌梗死可发生于正常或有粥样硬化的冠脉。
+自发性冠状动脉夹层是指冠状动脉内膜的非创伤性撕裂，并形成假腔。流经假腔的血液会使其扩张，从而限制流经真腔的血液，有时会导致冠状动脉缺血或梗死。动脉粥样硬化或非动脉粥样硬化的冠状动脉可发生夹层。孕妇或产后妇女和/或患有纤维肌发育异常或其他结缔组织疾病的患者更容易发生非动脉粥样硬化性夹层。
+
+【冠状动脉非阻塞性急性心肌梗死（MINOCA）】
+在接受冠状动脉造影的急性心肌梗死患者中，约有5%至6%的患者出现了冠状动脉非阻塞性心肌梗死（MINOCA）(2)。MINOCA 患者多为年轻女性，无血脂异常，她们有心肌坏死而无明显冠状动脉粥样硬化。MINOCA常见斑块破裂和冠状动脉血管痉挛。冠状动脉血栓形成或栓塞和自发性冠状动脉夹层是 MINOCA 的原因。
+
+【病因参考文献】
+1.Kanji R, Gue YX, Memtsas V, Spencer NH, Gorog DA: Biomarkers of Thrombotic Status Predict Spontaneous Reperfusion in Patients With ST-Segment Elevation Myocardial Infarction.J Am Coll Cardiol81(19):1918–1932, 2023.doi:10.1016/j.jacc.2023.03.388
+1.Kanji R, Gue YX, Memtsas V, Spencer NH, Gorog DA: Biomarkers of Thrombotic Status Predict Spontaneous Reperfusion in Patients With ST-Segment Elevation Myocardial Infarction.J Am Coll Cardiol81(19):1918–1932, 2023.doi:10.1016/j.jacc.2023.03.388
+2.Tamis-Holland JE, Jneid H, Reynolds HR, et al: Contemporary diagnosis and management of patients with myocardial infarction in the absence of obstructive coronary artery disease: A scientific statement from the American Heart Association.Circulation139:e891–e908, 2019.doi: 10.1161/CIR.0000000000000670
+2.Tamis-Holland JE, Jneid H, Reynolds HR, et al: Contemporary diagnosis and management of patients with myocardial infarction in the absence of obstructive coronary artery disease: A scientific statement from the American Heart Association.Circulation139:e891–e908, 2019.doi: 10.1161/CIR.0000000000000670
+
+【急性冠脉综合征的病理生理学】
+最初结局因血管阻塞的大小、部位、持续时间而不同，从一过性心肌缺血到心肌梗死。高敏肌钙蛋白的检测表明，即使是轻度缺血，也可能发生一定程度的细胞坏死；因此，缺血事件是一个连续的过程，尽管将其分为不同亚组具有临床实用性，但这种划分在一定程度上是人为的。急性事件结局主要取决于梗死心肌组织的面积及类型。
+
+【心肌功能障碍】
+缺血（而不是梗死）心肌组织的收缩和舒张功能受损，导致心肌节段活动减弱或消失；这些节段可在收缩期延展或膨出（称为矛盾运动）。受损区域大小决定了对心功能的影响，从轻微至轻度心力衰竭到心源性休克；通常大面积心肌缺血会造成心功能严重受损。约2/3急性心肌梗死住院患者发生不同程度的心力衰竭。如心排血量低和心力衰竭持续存在，则被称为缺血性心肌病。缺血累及乳头肌可造成二尖瓣反流。室壁运动障碍可导致室壁血栓形成。
+
+【心肌梗死】
+心肌梗死是部分心肌供血的冠脉血流突然减少所致的心肌坏死。梗死组织的功能障碍是永久性的，梗死组织附近存在潜在可逆性缺血区域。心肌梗死主要影响左室功能，但损伤亦可延展至右室或心房。
+梗死可能是
+透壁的：透壁性梗死累及从心外膜至心内膜的心肌全层，通常以ECG上有异常Q波为特征。
+透壁的：透壁性梗死累及从心外膜至心内膜的心肌全层，通常以ECG上有异常Q波为特征。
+非透壁性(心内膜下)：非透壁或内膜下梗死不贯穿整个心室壁，仅引起ST段和T波（ST-T）异常。
+非透壁性(心内膜下)：非透壁或内膜下梗死不贯穿整个心室壁，仅引起ST段和T波（ST-T）异常。
+由于临床上无法精确测量坏死心肌的透壁深度，因此根据心电图上是否存在ST段抬高或异常Q波分为STEMI或NSTEMI。
+室间隔或心室壁坏死可能造成穿孔或破裂，导致严重后果；也可能形成室壁瘤或假性动脉瘤。
+
+【电活动障碍】
+电活动障碍可出现在任何形式的急性冠脉综合征中。缺血和坏死细胞不能产生正常的电活动，导致不同的ECG改变（主要是ST-T异常）、心律失常和传导障碍。心肌缺血的ST-T异常包括ST段压低（通常是从J点下斜型压低）、T波倒置、ST段抬高（通常被称为损伤电流）以及在心肌梗死超急性期时的T波高尖。传导障碍反映了窦房结、房室（AV）结或特殊传导组织受损。大多数改变都是一过性的，少数是永久性的。
+
+【急性冠脉综合征的症状和体征】
+急性冠脉综合征的症状部分取决于血管阻塞的程度和部位，其变异相当大。来自胸腔器官（包括心脏）的疼痛刺激，可造成各种不适，患者可描述为压迫感、撕裂感、想打嗝的胀气感、消化不良感、烧灼感、酸痛感、刺痛感，有时是尖锐的针刺样疼痛。许多患者将他们的症状描述为不适而不是疼痛。除非是大面积梗死，否则仅根据症状难以判断心肌缺血的范围。
+ACS症状同心绞痛症状类似，在不稳定型心绞痛和急性心肌梗死章节有更具体的描述。值得注意的是，一些患有冠状动脉疾病的患者（尤其是糖尿病患者）患有无症状心肌缺血，这通常在压力测试期间检测到。
+急性事件后，可能发生许多并发症。通常包括
+电活动异常（如传导障碍、心律失常）、
+电活动异常（如传导障碍、心律失常）、
+心肌功能障碍（如心力衰竭、室间隔或游离壁破裂、室壁瘤、假性动脉瘤、室壁血栓形成、心源性休克）
+心肌功能障碍（如心力衰竭、室间隔或游离壁破裂、室壁瘤、假性动脉瘤、室壁血栓形成、心源性休克）
+瓣膜功能障碍（典型的是二尖瓣反流）
+瓣膜功能障碍（典型的是二尖瓣反流）
+电活动异常可出现在任何形式的ACS中，通常须有大面积心肌缺血才会导致明显的心肌功能障碍。ACS的其他并发症还包括复发性心肌缺血和心包炎。心包炎发生于心梗后2-10周，被称为心肌梗死后综合征或Dressler综合征。
+
+【急性冠脉综合征的诊断】
+系列心电图
+系列心电图
+系列心脏标志物
+系列心脏标志物
+STEMI或出现并发症（如持续胸痛、低血压、心脏标志物明显升高、不稳定心律失常）患者行急诊冠状动脉造影
+STEMI或出现并发症（如持续胸痛、低血压、心脏标志物明显升高、不稳定心律失常）患者行急诊冠状动脉造影
+无以上并发症的NSTEMI或不稳定型心绞痛患者行延迟（24-48小时）冠状动脉造影
+无以上并发症的NSTEMI或不稳定型心绞痛患者行延迟（24-48小时）冠状动脉造影
+通常年龄>30岁的男性和>40岁的女性（糖尿病患者更年轻）、主诉为胸痛或胸部不适时应考虑急性冠脉综合征。疼痛必须与下列疾病引起的疼痛相鉴别：肺炎、肺栓塞、心包炎、肋骨骨折、肋骨软骨分离、食管痉挛、急性主动脉夹层、肾结石、脾梗死或各种腹部疾病。对于以往被诊断为裂孔疝、消化性溃疡或胆囊疾病的患者，临床医师必须注意这些新发症状是否由这些疾病所致。（诊断方法，参阅胸痛）
+当怀疑有任何类型的ACS时，需进行进一步检查：启动和进行一系列的ECG和心脏标志物的检测，以鉴别不稳定型心绞痛、NSTEMI和STEMI。每个急诊室必须具备分诊系统，以便立即识别胸痛患者，进行快速评估和心电图检查。另外还需进行指脉氧测定和胸部X线检查（特别关注是否有纵隔增宽，这提示主动脉夹层）。
+心电图是最重要的测试，应尽快完成（例如，在就诊后10分钟内）。由于溶栓治疗有益于STEMI患者但可能增加NSTEMI患者的风险，因此ECG结果是治疗决策的核心。急诊心导管检查适用于急性STEMI患者，但不适用于NSTEMI患者。
+对于STEMI，第一份ECG常有诊断意义，表现为损伤区域2个及2个以上相邻导联ST段抬高≥1mm（见图急性左室外侧壁梗死）。
+
+【急性左室侧壁心肌梗死（发病数小时内记录）】
+急性左室侧壁心肌梗死（发病数小时内记录）
+Ⅰ、aVL、V4、V6导联有明显的超急性期ST段抬高，其他导联有对应压低。
+病理性Q波并非诊断所必须。必须仔细阅读ECG，因为ST 段抬高可能是轻微的，尤其在下壁导联（Ⅱ、Ⅲ、aVF），有时阅图者的注意力可能错误地集中到ST段压低的导联上。如果症状具有特征性，心电图ST段抬高诊断心肌梗死的特异性可达94%，敏感性可达55%(1)。连续追踪（第一天每8小时1次，之后每天1次）显示心电图逐渐演变成稳定的、更趋正常的形态或几天内出现异常Q波（见图左室下壁(膈面)梗死），有助于确诊。
+
+【左室下壁（膈面）心肌梗死（发病最初24小时后）。】
+左室下壁（膈面）心肌梗死（发病最初24小时后）。
+Ⅱ、Ⅲ、aVF导联出现显著Q波伴有ST段抬高程度的降低。
+由于非透壁（非Q波）心肌梗死常发生在心内膜下或心肌中层，故其ECG上不出现诊断性Q波或特征性ST段抬高。它们通常仅出现程度不同的ST-T异常，这种变化不明显、多变、非特异，有时难以解释（NSTEMI）。如重复ECG检查时这些异常恢复正常（或恶化），则很有可能是心肌缺血。但如果重复ECG检查结果无变化，则不可能是急性心肌梗死；如临床上仍怀疑，则需要其他证据来作出诊断。疼痛缓解时ECG 正常不能排除不稳定型心绞痛。胸痛时ECG正常，虽然不能排除心绞痛，但常提示胸痛不是心肌缺血所致。
+如怀疑右心室（RV）心肌梗死，通常应记录15导联ECG，附加的导联放在V4R，而要发现后壁心肌梗死，则记录V8和V9导联。
+当存在左束支传导阻滞图形时，心肌梗死的ECG诊断较困难，因为它与STEMI的ECG变化类似（见图左束支传导阻滞）。与QRS波同向的ST段抬高，以及至少2个胸前导联出现>5mm 的ST段抬高，均强烈提示心肌梗死。但是一般来说，有疑似症状和新出现（或不知既往是否已经存在）的左束支传导阻滞应按STEMI进行治疗。
+
+【左束支传导阻滞】
+左束支传导阻滞
+
+【心脏标志物】
+心脏标志物（心肌细胞损伤的血清标志物）指
+心肌酶谱（如CK-MB [肌酸激酶MB同工酶]）
+心肌酶谱（如CK-MB [肌酸激酶MB同工酶]）
+心肌细胞内容物（如肌钙蛋白I、肌钙蛋白T、肌红蛋白）
+心肌细胞内容物（如肌钙蛋白I、肌钙蛋白T、肌红蛋白）
+这些物质在心肌细胞坏死后释放入血。心脏标志物在心肌损伤后的不同时间出现，并以不同速率衰减。这些生物标志物对心肌细胞损伤的敏感性和特异性存在很大差异。测量心脏肌钙蛋白 (cTn) 的检测方法已经使用多年，具有敏感性和特异性。更新的、高度灵敏的心肌肌钙蛋白（hs-cTn）测定也非常精确，是首选方法。这些检测方法可以精确地测量cTn水平（T或I）低至 0.003-0.006ng/mL（3-6pg/mL），甚至有些可精确至0.001ng/mL（1pg/mL）。
+敏感性较低的 cTn 测试不太可能检测到心脏肌钙蛋白，除非患者患有急性心脏病。因此，一个“阳性”cTn结果（即，高于检测上限）特异性很高。然而，hs-cTn 测试可以在许多健康人体内检测到少量的肌钙蛋白。因此，通过hs-cTn检测测得的肌钙蛋白水平需要以正常参考范围为基准，并且仅当高于参考人群的99%时才定义为“升高”。此外，尽管肌钙蛋白水平升高表示存在心肌损伤，但不提示心肌损伤的原因（虽然任何肌钙蛋白升高增加许多疾病不良事件风险）。除了急性冠状动脉综合征，许多其他心脏和非心脏疾病可引起肌钙蛋白水平增高（见表肌钙蛋白水平升高的原因）；不是所有的高敏肌钙蛋白升高都代表心肌梗死，也不是所有的心肌坏死是由急性冠脉综合征事件引起（即便病因是缺血）。然而，通过检出较低水平的肌钙蛋白，高敏肌钙蛋白比其他检测手段能更早识别心肌梗死，在许多中心已取代其它心脏标记物检测。
+通常情况下，疑诊ACS的患者在出现症状时即刻进行高敏肌钙蛋白检测，并在2-3小时后重复检测。 如果使用标准cTn测定，则应在起病0和6小时测量cTn。
+患者的高敏肌钙蛋白水平必须结合其疾病的验前概率进行解释，该概率根据以下因素进行临床评估：
+ACS的危险因素
+ACS的危险因素
+心电图检查结果
+心电图检查结果
+高验前概率加上hs-cTn检测到的肌钙蛋白水平升高高度提示ACS，而低验前概率加上hs-cTn检测结果正常则不太可能代表ACS(2)。当检测结果与验前概率不一致时，诊断极具挑战性，此时多次检测hs-cTn检测常对诊断有所帮助。低验前概率和初次hs-cTn略高、且在重复检测中保持稳定的患者可能是非ACS心脏疾病（如心力衰竭、稳定性冠状动脉疾病）。然而，如果随访肌钙蛋白水平显著上升（即>20～50％），则ACS可能性增高。如果高验前概率患者的高敏肌钙蛋白检测结果正常，但重复检测时升高＞50%，则ACS可能性大；若持续为正常水平（通常在高度怀疑ACS时需检测6小时或更久），建议考虑其他诊断。
+
+【肌钙蛋白水平升高的原因】
+肌钙蛋白水平升高的原因
+心肌缺血
+典型急性心肌梗死
+STEMI
+STEMI
+NSTEMI
+NSTEMI
+非ACS（冠心病）
+需求增加（稳定的冠状动脉疾病病变）
+冠状动脉痉挛，栓塞，或夹层
+手术相关（PCI，CABG）
+可卡因或甲基苯丙胺
+非ACS（非冠心病）
+全心缺血
+灌注不足
+心胸外科手术
+心源性猝死
+直接心肌损伤（非缺血性）
+心脏疾病
+心力衰竭
+心肌病（如肥厚型、病毒性）
+损伤（消融手术，心脏挫伤，复律，电击）
+浸润性疾病（如淀粉样变性）
+全身疾病
+毒性（如蒽环类药物）
+创伤（如，严重烧伤）
+剧烈活动
+蛛网膜下腔出血
+基于检测的
+性能不佳
+校准误差
+基于样本的
+嗜异性抗体
+物质干扰
+ACS=急性冠脉综合征；AMI=急性心肌梗死；CABG=冠状动脉旁路移植术；MI=心肌梗死；NSTEMI=非ST段抬高型心肌梗死；PCI=经皮介入治疗；STEMI=ST段抬高型心肌梗死。
+ACS=急性冠脉综合征；AMI=急性心肌梗死；CABG=冠状动脉旁路移植术；MI=心肌梗死；NSTEMI=非ST段抬高型心肌梗死；PCI=经皮介入治疗；STEMI=ST段抬高型心肌梗死。
+
+【冠状动脉造影】
+冠状动脉造影常与经皮冠脉介入治疗（PCI-血管成形术、支架置入等）同时进行。如果可能，急诊冠脉造影和PCI应在急性心肌梗死发病后尽快完成（急诊PCI）。在很多三级医疗中心，这种方法显著降低了发病率和死亡率，并改善了长期预后。从疼痛发生至PCI的时间较短（<3-4小时）时，实际上心肌梗死是被中止了。
+STEMI患者、经最大限度药物治疗后仍持续胸痛的患者，以及有并发症(如心脏生物标志物明显升高、存在心源性休克、急性二尖瓣反流、室间隔缺损、不稳定心律失常)的患者，均需紧急进行冠状动脉造影。无并发症的NSTEMI或症状已经缓解的不稳定型心绞痛患者通常在住院最初24-48小时内进行冠状动脉造影，以发现可能需要治疗的病变。
+
+【其他检查】
+常规实验室检查没有诊断意义，但如果检查结果异常，常表明存在与组织坏死相对应的非特异性异常（如红细胞沉降率加快、白细胞计数中度升高伴核左移）。 所有ACS住院患者应在最初24小时内完善空腹血脂检测。
+心肌影像学检查：如心脏标志物或ECG阳性，则诊断时不需要进行心肌影像学检查。但对于心肌梗死患者，床旁超声心动图对于发现机械性并发症非常有价值。对于出院前或出院后短期内出现症状提示ACS但心电图无诊断意义且心脏标志物水平正常的患者，应接受负荷影像学检查（药物或运动负荷的放射性核素显像或超声心动图检查）。影像学检查异常的患者提示之后3-6个月内出现并发症风险增加，建议进行血管造影检查 (3)，该检查应在出院前或者之后尽快进行，必要时行PCI或CABG。
+右心导管术用带球囊的肺动脉导管可测定右心压力、肺动脉压、肺动脉楔压以及心排血量。此项检查并不常规推荐，通常只在出现严重并发症（如重度心力衰竭、缺氧、低血压）时，由有丰富导管操作和管理经验的临床医生进行操作。
+
+【诊断参考】
+1.Menown IB, Mackenzie G, Adgey AA.Optimizing the initial 12-lead electrocardiographic diagnosis of acute myocardial infarction.Eur Heart J2000;21(4):275-283.doi:10.1053/euhj.1999.1748
+1.Menown IB, Mackenzie G, Adgey AA.Optimizing the initial 12-lead electrocardiographic diagnosis of acute myocardial infarction.Eur Heart J2000;21(4):275-283.doi:10.1053/euhj.1999.1748
+2.Badertscher P, Boeddinghaus J, Nestelberger T, et al.Effect of Acute Coronary Syndrome Probability on Diagnostic and Prognostic Performance of High-Sensitivity Cardiac Troponin.Clin Chem2018;64(3):515-525.doi:10.1373/clinchem.2017.279513
+2.Badertscher P, Boeddinghaus J, Nestelberger T, et al.Effect of Acute Coronary Syndrome Probability on Diagnostic and Prognostic Performance of High-Sensitivity Cardiac Troponin.Clin Chem2018;64(3):515-525.doi:10.1373/clinchem.2017.279513
+3.Møller JE, Hillis GS, Oh JK, Reeder GS, Gersh BJ, Pellikka PA.Wall motion score index and ejection fraction for risk stratification after acute myocardial infarction.Am Heart J2006;151(2):419-425.doi:10.1016/j.ahj.2005.03.042
+3.Møller JE, Hillis GS, Oh JK, Reeder GS, Gersh BJ, Pellikka PA.Wall motion score index and ejection fraction for risk stratification after acute myocardial infarction.Am Heart J2006;151(2):419-425.doi:10.1016/j.ahj.2005.03.042
+
+【急性冠脉综合征的治疗】
+院前治疗：吸氧，阿司匹林，硝酸酯类，转运至合适的医疗中心
+院前治疗：吸氧，阿司匹林，硝酸酯类，转运至合适的医疗中心
+药物治疗：抗血小板药物，抗心绞痛药物，抗凝药，某些情况下其他药物
+药物治疗：抗血小板药物，抗心绞痛药物，抗凝药，某些情况下其他药物
+冠脉造影常常用于评估冠脉解剖学特点
+冠脉造影常常用于评估冠脉解剖学特点
+再灌注治疗：溶栓药物，PCI或CABG
+再灌注治疗：溶栓药物，PCI或CABG
+支持治疗
+支持治疗
+出院后心脏康复和冠心病慢性管理
+出院后心脏康复和冠心病慢性管理
+治疗（包括药物治疗）的目的是缓解病痛、阻止血栓形成、逆转心肌缺血、减少心肌梗死面积、减轻心脏负荷、预防和治疗并发症。急性冠脉综合征属于内科急症，治疗结局主要取决于快速诊断和治疗。
+治疗与诊断应同时进行。
+其他合并症（包括贫血、心衰等）需要积极治疗。
+由于心肌梗死的胸痛通常在12到24小时内消退，因此应调查任何持续或复发的胸痛。可能提示并发症，如复发性缺血、心包炎、肺栓塞、肺炎、胃炎或溃疡。
+
+【院前治疗】
+阿司匹林
+阿司匹林
+硝酸酯类
+硝酸酯类
+转运至合适的医疗中心
+转运至合适的医疗中心
+必须建立可靠的静脉输注途径，如果患者缺氧，则给予氧气（通常通过鼻导管给予 2 L），并开始连续单导联心电图监测。急救医护人员进行的院前干预（包括心电图检查、嚼服阿司匹林[160～325 mg]、使用硝酸酯类药物(见治疗急性冠状动脉综合征的药物)进行疼痛管理、如有适应证且条件许可进行早期溶栓并转运至可行急诊PCI的医院）可降低死亡率和并发症风险(1, 2)。
+尽管阿片类药物长期以来一直被用于治疗急性冠脉综合征患者的疼痛，但数据表明吗啡会减弱某些P2Y12受体抑制剂的活性，并可能导致患者预后较差 (3, 4)。
+若无条件行急诊PCI，早期诊断的资料和治疗反应有助于确定血运重建的必要性和时机。
+
+【住院管理】
+基于再灌注策略的药物治疗（包括抗血小板、抗凝及其他药物）
+基于再灌注策略的药物治疗（包括抗血小板、抗凝及其他药物）
+对患者进行危险分层并选择再灌注策略（STEMI患者进行溶栓或冠状动脉造影及PCI/CABG治疗，UA/NSTEMI患者进行冠状动脉造影及PCI/CABG）
+对患者进行危险分层并选择再灌注策略（STEMI患者进行溶栓或冠状动脉造影及PCI/CABG治疗，UA/NSTEMI患者进行冠状动脉造影及PCI/CABG）
+一到达急诊室，患者的诊断即应明确。药物治疗及再血管化策略的选择取决于ACS类型及临床情况（见图治疗急性冠脉综合征的方法)。药物治疗的选择详见急性冠脉综合征药物，有关再灌注策略的选择将在急性冠状动脉综合征血管重建治疗中进一步讨论。
+
+【急性冠脉综合征的处理方法】
+急性冠脉综合征的处理方法
+*吗啡应谨慎使用（例如，如果硝酸甘油有使用禁忌或患者尽管使用硝酸甘油治疗仍有症状）。数据表明，吗啡能减弱一些P2Y12受体抑制剂的活性，并可能导致更差的患者预后（Kubica J, Adamski P, Ostrowska M, et al:吗啡延迟并减弱了心肌梗死患者替格瑞洛的暴露和作用：随机、双盲、安慰剂对照IMPRESSION试验。Eur Heart J37(3): 245–252, 2016）。doi: 10.1093/eurheartj/ehv547 andMeine TJ, Roe MT, Chen AY, et al: Association of intravenousmorphineuse and outcomes in acute coronary syndromes: results from the CRUSADE Quality Improvement Initiative.Am Heart149(6):1043-1049, 2005.doi: 10.1016/j.ahj.2005.02.010).
+†复杂表示存在复发性心绞痛或再次梗塞，心力衰竭或持续性复发性室性心律失常。没有以上事件发生表示“不复杂”
+‡发生下列情况推荐CABG而不是PCI：
+左主干或左主干等同病变
+左主干或左主干等同病变
+左室功能不全
+左室功能不全
+长病变或分叉病变，不适合行PCI。
+CABG = 冠状动脉旁路移植术；GP = 糖蛋白；NSTEMI = 非ST段抬高型心肌梗死；MI = 心肌梗死；PCI = 经皮冠状动脉介入治疗；STEMI = ST段抬高型心肌梗死。
+诊断不明确时，床旁心脏标志物的检测能有助于识别怀疑ACS的低危患者（如首次心脏标志物阴性和ECG无诊断提示的患者），这些患者可在24小时观察室或胸痛中心接受处理。高风险患者应入住带有监控的住院病房或重症监护病房（CCU）。已证实有些方法助于危险分层。其中，TIMI危险评分应用最为广泛。
+怀疑NSTEMI和中高危患者应收入住院或CCU。STEMI患者应收入CCU。
+常规连续监测中，单导联ECG记录到的信息仅心率和心律是有用的。然而，有些临床医师建议常规多导联、有连续ST段记录的监测，可识别一过性、复发性ST段抬高或压低。对于无症状患者，这些发现常提示心肌缺血并可识别需要更积极评估和治疗的较高危患者。
+一名合格的护士能识别ECG上的心律失常并启动心律失常的治疗方案。 所有医务人员都应了解如何进行心肺复苏（CPR）。
+
+【支持治疗】
+成功接受直接PCI术且无并发症的急性心肌梗死患者可尽快下床活动，并在2-4天后安全出院。
+如果再灌注不成功或出现并发症，患者需要更长时间监测血流动力学和电不稳定性，同时开始活动。卧床时间过长会导致躯体迅速失健，并发展为体位性低血压、工作能力下降、运动心率加快以及深静脉血栓形成风险增加。卧床时间延长还会加重抑郁感和无助感。
+焦虑、情绪变化和否定感是常见的。通常应用温和的镇静剂（通常使用苯二氮䓬类），但许多专家认为罕有需要应用这类药物者。发病第三天常出现反应性抑郁，而且在康复的某些时间段几乎普遍存在。
+疾病急性期过后的首要任务是管理抑郁、康复以及制订长期预防计划。过分强调卧床休息、不活动以及疾病严重性会增加焦虑和抑郁倾向，因此应鼓励患者尽早坐起、下床和进行适当活动。应向病人解释疾病的影响、预后和个体化康复计划。
+用大便软化剂（如多库酯）维持正常肠道功能以避免过度用力是非常重要的。老年患者常出现尿潴留，尤其是卧床几天或接受阿托品治疗后。需要留置导尿管，但一旦病人能够站立或坐起解尿，即应拔除。
+对于吸烟的患者，戒烟应在住院期间处理。医护人员应作出最大努力帮助患者永久戒烟。
+虽然急性病患者都少有食欲，但是适量可口的食物有利于恢复元气。通常每天给患者提供1500～1800热卡的软食，钠的摄入减少至2～3g。发病2-3天后如无心力衰竭证据可不必限制钠的摄入。应给患者提供低胆固醇和低饱和脂肪酸饮食，并用以教育病人健康饮食。
+对于合并糖尿病的STEMI患者，不推荐强化血糖控制；指南要求采用基于胰岛素的方案，使血糖水平达到和维持在<180mg/dL (9.9 mmol/L)，同时应避免低血糖。
+
+【治疗参考文献】
+1.Nakayama N, Yamamoto T, Kikuchi M, et al: Prehospital Administration ofAspirinandNitroglycerinfor Patients With Suspected Acute Coronary Syndrome— A Systematic Review.Circ Rep4(10):449–457, 2022.Published 2022 Jul 28.doi:10.1253/circrep.CR-22-0060
+1.Nakayama N, Yamamoto T, Kikuchi M, et al: Prehospital Administration ofAspirinandNitroglycerinfor Patients With Suspected Acute Coronary Syndrome— A Systematic Review.Circ Rep4(10):449–457, 2022.Published 2022 Jul 28.doi:10.1253/circrep.CR-22-0060
+2.Savage ML, Hay K, Vollbon W, et al: Prehospital Activation of the Cardiac Catheterization Laboratory in ST-Segment-Elevation Myocardial Infarction for Primary Percutaneous Coronary Intervention.J Am Heart Assoc12(14):e029346, 2023.doi:10.1161/JAHA.122.029346
+2.Savage ML, Hay K, Vollbon W, et al: Prehospital Activation of the Cardiac Catheterization Laboratory in ST-Segment-Elevation Myocardial Infarction for Primary Percutaneous Coronary Intervention.J Am Heart Assoc12(14):e029346, 2023.doi:10.1161/JAHA.122.029346
+3.Kubica J, Adamski P, Ostrowska M, et al:Morphinedelays and attenuatesticagrelorexposure and action in patients with myocardial infarction: the randomized, double-blind, placebo-controlled IMPRESSION trial.Eur Heart J37(3): 245–252, 2016.doi: 10.1093/eurheartj/ehv547
+3.Kubica J, Adamski P, Ostrowska M, et al:Morphinedelays and attenuatesticagrelorexposure and action in patients with myocardial infarction: the randomized, double-blind, placebo-controlled IMPRESSION trial.Eur Heart J37(3): 245–252, 2016.doi: 10.1093/eurheartj/ehv547
+4.Meine TJ, Roe MT, Chen AY, et al: Association of intravenousmorphineuse and outcomes in acute coronary syndromes: results from the CRUSADE Quality Improvement Initiative.Am Heart149(6):1043-1049, 2005.doi: 10.1016/j.ahj.2005.02.010
+4.Meine TJ, Roe MT, Chen AY, et al: Association of intravenousmorphineuse and outcomes in acute coronary syndromes: results from the CRUSADE Quality Improvement Initiative.Am Heart149(6):1043-1049, 2005.doi: 10.1016/j.ahj.2005.02.010
+
+【康复和出院后治疗】
+功能评估
+功能评估
+生活方式改变：规律运动、饮食调整、减轻体重、戒烟
+生活方式改变：规律运动、饮食调整、减轻体重、戒烟
+药物：抗血小板药物、β受体阻滞剂、ACE抑制剂和他汀类药物的持续治疗
+药物：抗血小板药物、β受体阻滞剂、ACE抑制剂和他汀类药物的持续治疗
+
+【功能评估】
+住院期间未行冠状动脉造影的患者，如没有高危特征（如心力衰竭、复发性心绞痛、24小时后的室性心动过速或心室颤动、机械并发症如新出现的杂音、休克），且射血分数>≤40%（无论是否接受溶栓治疗），通常应在出院前或出院后不久进行某种形式的负荷试验（见表心肌梗死后的功能评估）。
+
+【心肌梗死后的功能评估】
+心肌梗死后的功能评估
+运动能力
+如ECG可以判断
+如ECG不能判断
+出院前或出院后做次极量或症状限制的负荷运动
+运动超声心动图或核素扫描
+不能运动
+药物负荷试验（超声心动图或核素扫描）
+药物负荷试验（超声心动图或核素扫描）
+出院后最初3-6周应逐步增加体力活动强度。鼓励患者恢复其和伴侣的性生活以及其他中等强度体力活动。如急性心梗后6周仍能保持较好的心功能，大多数患者都能恢复其所有日常活动。与生活方式、年龄和心脏状况相匹配的有规律的运动计划可降低缺血事件发生风险，改善总体健康状况。受监督的心脏康复计划降低血运重建后的死亡率（1)。
+
+【纠正危险因素】
+应借助ACS急性起病和紧急治疗强力地促使患者改变其危险因素。评估患者的身体和情绪状况并与患者讨论这些情况、建议生活方式（例如吸烟、饮食、工作和娱乐习惯、锻炼）以及积极管理风险因素可能会改善预后。
+多种药物可明确降低心梗后死亡风险，除非有禁忌证或不能耐受，都应使用：
+阿司匹林和其他抗血小板药物
+阿司匹林和其他抗血小板药物
+β受体阻滞剂
+β受体阻滞剂
+血管紧张素转换酶（ACE）抑制剂
+血管紧张素转换酶（ACE）抑制剂
+其他可以减少心血管事件的药物包括：
+在需要进一步降低血脂水平时，可在他汀类药物治疗基础上加用PCSK9抑制剂。
+在需要进一步降低血脂水平时，可在他汀类药物治疗基础上加用PCSK9抑制剂。
+阿司匹林和其他抗血小板药物可降低心梗后患者的死亡率和再梗率。推荐长期应用肠溶阿司匹林81mg，每天一次。建议使用阿司匹林和一种 P2Y12 受体阻滞剂（如替格瑞洛、氯吡格雷）双重抗血小板治疗长达 1 年（2, 3）。
+β受体阻滞剂被认为是标准治疗。大多数可用的β-阻滞剂（如醋丁洛尔、阿替洛尔、美托洛尔、普萘洛尔、噻吗洛尔）可使心梗后死亡率降低约25%（4）。
+ACE抑制剂也被认为是标准治疗，如果可能应在所有心肌梗死后患者中使用，特别是MI后射血分数<40%时。这些药物通过改善内皮功能，提供长期心脏保护作用。如因咳嗽和皮疹（但不是血管神经性水肿或肾功能不全）不能耐受ACEI，可采用血管紧张素Ⅱ受体拮抗剂来替代。
+他汀类药物也是标准疗法，常规用于治疗患有冠状动脉疾病的心肌梗死（MI）患者，无论血脂水平如何（5）。降低心肌梗死患者的胆固醇水平，无论其胆固醇水平是升高还是正常，均可降低缺血事件再发率和死亡率。他汀类药物应无限期地持续使用，除非发生严重不良反应，剂量应增加到最大耐受剂量。对于接受最大耐受剂量他汀类药物治疗4-8周后LDL仍≥70mg/dL（≥1.81mmol/L）的患者，应加用非他汀类降脂药物。
+盐皮质激素受体拮抗剂（螺内酯或依普利酮）适用于心肌梗死（MI）后伴左心室功能障碍的患者，尤其是有症状者，以降低发病率和死亡率（6）。
+
+【康复和出院后治疗参考文献】
+1.Dibben G, Faulkner J, Oldridge N, et al: Exercise-based cardiac rehabilitation for coronary heart disease.Cochrane Database Syst Rev11(11):CD001800, 2011.doi:10.1002/14651858.CD001800.pub4
+1.Dibben G, Faulkner J, Oldridge N, et al: Exercise-based cardiac rehabilitation for coronary heart disease.Cochrane Database Syst Rev11(11):CD001800, 2011.doi:10.1002/14651858.CD001800.pub4
+2.Visseren FLJ, Mach F, Smulders YM, et al: 2021 ESC Guidelines on cardiovascular disease prevention in clinical practice: Developed by the Task Force for cardiovascular disease prevention in clinical practice with representatives of the European Society of Cardiology and 12 medical societies With the special contribution of the European Association of Preventive Cardiology (EAPC).Eur Heart J42 (34): 3227–3337 2021. doi: 10.1093/eurheartj/ehab484
+2.Visseren FLJ, Mach F, Smulders YM, et al: 2021 ESC Guidelines on cardiovascular disease prevention in clinical practice: Developed by the Task Force for cardiovascular disease prevention in clinical practice with representatives of the European Society of Cardiology and 12 medical societies With the special contribution of the European Association of Preventive Cardiology (EAPC).Eur Heart J42 (34): 3227–3337 2021. doi: 10.1093/eurheartj/ehab484
+3.Wallentin L, Becker RC, Budaj A, et al:Ticagrelorversusclopidogrelin patients with acute coronary syndromes.N Engl J Med361:1045–1057, 2009.doi: 10.1056/NEJMoa0904327
+3.Wallentin L, Becker RC, Budaj A, et al:Ticagrelorversusclopidogrelin patients with acute coronary syndromes.N Engl J Med361:1045–1057, 2009.doi: 10.1056/NEJMoa0904327
+4.Pedersen SB, Nielsen JC, Bøtker HE, Udupi A, Goldberger JJ: Long-Term Follow-Up After Acute Myocardial Infarction According to Beta-Blocker Dose.Am J Med136(5):458–465.e3, 2023.doi:10.1016/j.amjmed.2023.02.006
+4.Pedersen SB, Nielsen JC, Bøtker HE, Udupi A, Goldberger JJ: Long-Term Follow-Up After Acute Myocardial Infarction According to Beta-Blocker Dose.Am J Med136(5):458–465.e3, 2023.doi:10.1016/j.amjmed.2023.02.006
+5.Rao SV, O'Donoghue ML, Ruel M, et al: 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears in J Am Coll Cardiol. 2025 May 13;85(18):1800. doi: 10.1016/j.jacc.2025.03.500.].J Am Coll CardiolFeb 27:S0735-1097(24)10424-X.doi:10.1016/j.jacc.2024.11.009
+5.Rao SV, O'Donoghue ML, Ruel M, et al: 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears in J Am Coll Cardiol. 2025 May 13;85(18):1800. doi: 10.1016/j.jacc.2025.03.500.].J Am Coll CardiolFeb 27:S0735-1097(24)10424-X.doi:10.1016/j.jacc.2024.11.009
+6.Pitt B, Remme W, Zannad F, et al:Eplerenone, a selective aldosterone blocker, in patients with left ventricular dysfunction after myocardial infarction [published correction appears in N Engl J Med. 2003 May 29;348(22):2271].N Engl J Med348(14):1309-1321, 2003.doi:10.1056/NEJMoa030207
+6.Pitt B, Remme W, Zannad F, et al:Eplerenone, a selective aldosterone blocker, in patients with left ventricular dysfunction after myocardial infarction [published correction appears in N Engl J Med. 2003 May 29;348(22):2271].N Engl J Med348(14):1309-1321, 2003.doi:10.1056/NEJMoa030207
+
+【急性冠脉综合征的预后】
+总体风险评估应依据正规临床风险评分进行（心肌梗死溶栓[TIMI]，急性冠脉事件全球注册[GRACE]，不稳定型心绞痛血小板糖蛋白IIb/IIIa：应用整合素拮抗受体治疗[PURSUIT]—1）或结合以下高危因素：
+在休息或低强度活动中心绞痛/缺血复发
+在休息或低强度活动中心绞痛/缺血复发
+心力衰竭
+心力衰竭
+二尖瓣反流恶化
+二尖瓣反流恶化
+负荷试验提示高风险（因症状、明显心电图异常、低血压或复杂室性心律失常在测试开始5分钟内停止测试）
+负荷试验提示高风险（因症状、明显心电图异常、低血压或复杂室性心律失常在测试开始5分钟内停止测试）
+血流动力学不稳定
+血流动力学不稳定
+持续性室性心动过速
+持续性室性心动过速
+6月内接受PCI
+6月内接受PCI
+既往CABG史
+既往CABG史
+左室射血分数<0.40
+左室射血分数<0.40
+
+【预后参考】
+1.Boersma E, Pieper KS, Steyerberg EW, et al: Predictors of outcome in patients with acute coronary syndromes without persistent ST-segment elevation.Results from an international trial of 9461 patients.The PURSUIT Investigators.Circulation101(22): 2557–2567, 2000.
+1.Boersma E, Pieper KS, Steyerberg EW, et al: Predictors of outcome in patients with acute coronary syndromes without persistent ST-segment elevation.Results from an international trial of 9461 patients.The PURSUIT Investigators.Circulation101(22): 2557–2567, 2000.
+不稳定性心绞痛、非ST段抬高型心肌梗死（NSTEMI）、ST段抬高型心肌梗死（STEMI）代表心肌缺血、坏死程度的加重，区分它们有助于判断预后、指导治疗。
+不稳定性心绞痛、非ST段抬高型心肌梗死（NSTEMI）、ST段抬高型心肌梗死（STEMI）代表心肌缺血、坏死程度的加重，区分它们有助于判断预后、指导治疗。
+诊断基于连续心电图和心脏生物标志物水平，特别是使用高敏心脏肌钙蛋白 (hs-cTn) 检测。
+诊断基于连续心电图和心脏生物标志物水平，特别是使用高敏心脏肌钙蛋白 (hs-cTn) 检测。
+即刻药物治疗取决于具体的综合征类型和患者特点，通常包括抗血小板药物、抗凝药、β受体阻滞剂，并根据需要使用硝酸酯类（如胸痛、高血压，肺水肿患者），以及他汀类药物改善预后。
+即刻药物治疗取决于具体的综合征类型和患者特点，通常包括抗血小板药物、抗凝药、β受体阻滞剂，并根据需要使用硝酸酯类（如胸痛、高血压，肺水肿患者），以及他汀类药物改善预后。
+对于不稳定型心绞痛和非ST段抬高心肌梗死患者，住院后24至48小时内进行血管造影以识别需要经皮冠状动脉介入治疗（PCI）或冠状动脉旁路移植术（CABG）的冠状动脉病变；不主张溶栓治疗。
+对于不稳定型心绞痛和非ST段抬高心肌梗死患者，住院后24至48小时内进行血管造影以识别需要经皮冠状动脉介入治疗（PCI）或冠状动脉旁路移植术（CABG）的冠状动脉病变；不主张溶栓治疗。
+对于ST段抬高型心肌梗死，当入院至球囊扩张时间<90分钟时进行急诊PCI；如果无及时PCI条件，进行溶栓治疗。
+对于ST段抬高型心肌梗死，当入院至球囊扩张时间<90分钟时进行急诊PCI；如果无及时PCI条件，进行溶栓治疗。
+康复后，大多数情况下开始或继续服用阿司匹林和其他抗血小板药物、β受体阻滞剂、血管紧张素转换酶抑制剂和他汀类药物，除非有禁忌症。
+康复后，大多数情况下开始或继续服用阿司匹林和其他抗血小板药物、β受体阻滞剂、血管紧张素转换酶抑制剂和他汀类药物，除非有禁忌症。

@@ -1,0 +1,103 @@
+标题：甲状腺结节患者疗法
+来源：https://www.msdmanuals.cn/professional/endocrine-and-metabolic-disorders/thyroid-disorders/approach-to-the-patient-with-a-thyroid-nodule
+============================================================
+
+(参见肾上腺功能概述。）
+报告的甲状腺结节发生率因评估方法而异。5％的中年和老年患者，触诊可发现结节。超声检查和尸检结果显示，约50%的老年人存在结节 (1)。许多结节是因其他疾病做头颈部成像时偶然发现的。
+
+【参考文献】
+1.Haugen BR, Alexander EK, Bible KC, et al.2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer: The American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer.Thyroid2016;26(1):1-133.doi:10.1089/thy.2015.0020
+1.Haugen BR, Alexander EK, Bible KC, et al.2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer: The American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer.Thyroid2016;26(1):1-133.doi:10.1089/thy.2015.0020
+
+【甲状腺结节的病因】
+大多数甲状腺结节是良性的。其良性病因包括：
+甲状腺胶质增生
+甲状腺胶质增生
+甲状腺囊肿
+甲状腺囊肿
+甲状腺炎
+甲状腺炎
+甲状腺腺瘤
+甲状腺腺瘤
+恶性病因包括
+甲状腺癌
+甲状腺癌
+
+【甲状腺结节的评估】
+甲状腺结节大多无症状，但偶尔会出现疼痛或引起颈部压迫症状。疼痛提示甲状腺炎或囊肿出血。无症状结节可能是恶性的，但通常是良性的。压迫症状，包括吞咽困难、呼吸困难或声音嘶哑，会增加结节恶性的风险。
+甲状腺功能亢进症的症状（即心悸、热不耐受、体重减轻、震颤）提示功能亢进的腺瘤或甲状腺炎，而甲状腺功能减退的症状（即不耐寒、体重增加、疲劳）提示桥本甲状腺炎。
+甲状腺癌的危险因素包括
+甲状腺部位放疗，特别是在婴儿和儿童期
+甲状腺部位放疗，特别是在婴儿和儿童期
+年龄> 55岁
+年龄> 55岁
+女性 (1)
+女性 (1)
+甲状腺癌或多发性内分泌腺体肿瘤2型家族史
+甲状腺癌或多发性内分泌腺体肿瘤2型家族史
+孤立性结节或甲状腺肿
+孤立性结节或甲状腺肿
+吞咽困难
+吞咽困难
+甲状腺体积增大（尤其是迅速增大，或甲状腺抑制治疗期间仍增大）
+甲状腺体积增大（尤其是迅速增大，或甲状腺抑制治疗期间仍增大）
+促甲状腺激素 (TSH) 水平升高
+促甲状腺激素 (TSH) 水平升高
+虽然女性是甲状腺癌的风险因素，但男性，特别是老年男性更容易患上恶性疾病。
+
+【体格检查】
+提示甲状腺癌的体征有质地坚硬如石或固定于周围组织结构中，颈部淋巴结肿大，喉返神经麻痹所致声音嘶哑。
+
+【实验室检查】
+甲状腺结节的初步实验室评估包括测量
+如果 TSH 较低（与甲状腺功能亢进一致），则进行放射性碘摄取和扫描。摄取同位素增加的结节（热结节）很少为恶性。
+如果甲状腺功能检查未表明甲状腺功能亢进，下一步是用甲状腺超声检查结节。
+
+【甲状腺成像】
+超声检查有助于确定结节的大小并检测可疑的超声特征，包括
+内部血管明显
+内部血管明显
+边界不规则
+边界不规则
+结节高度大于宽度
+结节高度大于宽度
+不规则大钙化
+不规则大钙化
+细小的斑点状砂粒状微钙化（甲状腺乳头状癌）
+细小的斑点状砂粒状微钙化（甲状腺乳头状癌）
+致密、均匀的不规则钙化（甲状腺髓样癌）
+致密、均匀的不规则钙化（甲状腺髓样癌）
+甲状腺成像和报告系统 (TI-RADS) 是一种主要基于超声检查结果的甲状腺癌风险分层系统。根据结节大小、回声强度、成分、形状、边缘和回声灶进行 TI-RADS 分类，有助于决定何时进行细针穿刺活检（2）。
+对于> 1 cm的可疑结节(TI-RADS 5级)或> 1.5 cm的中度可疑结节(TI-RADS 4级)，超声引导下细针穿刺活检(FNAB)是鉴别良恶性结节的首选方法。FNAB通常不建议用于<1cm的结节或完全囊性的结节。
+
+【细针抽吸活检】
+Bethesda 甲状腺细胞病理学报告系统是另一个有用的风险分层工具。对FNAB获得的细胞进行细胞学检查可以区分良性(Bethesda II)、可疑恶性(Bethesda V)或恶性(Bethesda VI)病变。对于细胞学上不确定的病变（Bethesda III或IV） (3)，对FNAB抽吸物进行分子分析以检测突变和重排，或测量降钙素以检测可能的甲状腺髓样癌，可以增加足够的诊断清晰度，从而提供最佳知情治疗建议。
+
+【评估参考文献】
+1.Lim H, Devesa SS, Sosa JA, Check D, Kitahara CM.Trends in Thyroid Cancer Incidence and Mortality in the United States, 1974-2013.JAMA2017;317(13):1338-1348.doi:10.1001/jama.2017.2719
+1.Lim H, Devesa SS, Sosa JA, Check D, Kitahara CM.Trends in Thyroid Cancer Incidence and Mortality in the United States, 1974-2013.JAMA2017;317(13):1338-1348.doi:10.1001/jama.2017.2719
+2.Tessler FN, Middleton WD, Grant EG, et al.ACR Thyroid Imaging, Reporting and Data System (TI-RADS): White Paper of the ACR TI-RADS Committee.J Am Coll Radiol2017;14(5):587-595.doi:10.1016/j.jacr.2017.01.046
+2.Tessler FN, Middleton WD, Grant EG, et al.ACR Thyroid Imaging, Reporting and Data System (TI-RADS): White Paper of the ACR TI-RADS Committee.J Am Coll Radiol2017;14(5):587-595.doi:10.1016/j.jacr.2017.01.046
+3.Ali SZ, Baloch ZW, Cochand-Priollet B, Schmitt FC, Vielh P, VanderLaan PA.The 2023 Bethesda System for Reporting Thyroid Cytopathology.Thyroid2023;33(9):1039-1044.doi:10.1089/thy.2023.0141
+3.Ali SZ, Baloch ZW, Cochand-Priollet B, Schmitt FC, Vielh P, VanderLaan PA.The 2023 Bethesda System for Reporting Thyroid Cytopathology.Thyroid2023;33(9):1039-1044.doi:10.1089/thy.2023.0141
+
+【甲状腺结节的治疗】
+甲状腺素
+甲状腺素
+射频消融
+射频消融
+甲状腺切除术
+甲状腺切除术
+放射性碘
+放射性碘
+恶性结节的治疗将在下文讨论甲状腺癌。
+治疗针对潜在的疾病，并取决于细胞学结果 (1)。
+患有桥本甲状腺炎或其他导致甲状腺肿的病因的患者，其良性结节在给予足量甲状腺素替代治疗后可能会稳定或缩小，使患者达到正常甲状腺功能状态。对于与甲状腺功能减退无关的小型良性结节（通常≤1.5cm），用甲状腺素抑制TSH能有效缩小结节的病例不超过一半，而且很少这样做。甲状腺素不用于治疗癌症性结节。
+射频消融后，压迫周围颈部结构的大型良性结节可能会变小。
+部分或完全甲状腺切除术对于治疗持续生长或引起压迫症状的结节是有效的。
+毒性结节(产生甲状腺激素并引起有症状的甲状腺功能亢进)可用放射性碘治疗，以控制甲状腺功能亢进并缩小结节大小。
+非甲状腺癌引起的结节，不会引起压迫症状，也不会与甲状腺功能减退或甲状腺功能亢进症相关，可安全地进行定期颈部检查，如果怀疑结节生长，可进行重复超声评估。
+
+【治疗参考文献】
+1.Haugen BR, Alexander EK, Bible KC, et al: 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer: The American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer.Thyroid26(1): 1–133, 2016.doi: 10.1089/thy.2015.0020
+1.Haugen BR, Alexander EK, Bible KC, et al: 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer: The American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer.Thyroid26(1): 1–133, 2016.doi: 10.1089/thy.2015.0020

@@ -1,0 +1,919 @@
+标题：儿童高血压
+来源：https://www.msdmanuals.cn/professional/pediatrics/hypertension-in-children/hypertension-in-children
+============================================================
+
+现有研究已明确证实，成人高血压受宫内环境及新生儿期状况影响，且常始发于儿童阶段。此外，成年期高血压的后遗症在儿童期高血压患者中发生得更早。此外，有证据表明，儿童期和青春期高血压与成年期心血管疾病风险增加直接相关（1、2、3）。 因此，识别和治疗儿童高血压非常重要。
+在美国，儿童高血压的患病率在2%到4%之间，血压升高（以前称为高血压前期）发生率为16%。在世界范围内，由于定义、参考数据和方法的区域差异，流行率不太清楚，但估计约为 4%。此外，患病率似乎正在增加，可能是由于儿童超重和肥胖的发生率增加；现在青少年肥胖的比例是60年前的四倍（4）（见青少年肥胖）。肥胖青少年比同龄人更容易患高血压（5）。
+
+【儿童高血压的定义】
+由于儿童高血压的结果数据有限，13 岁以下儿童的高血压是按照规范进行分类的，即与一大群儿童的血压测量结果进行比较。< 13 岁儿童的正常血压值因年龄、性别和身高而异（见男孩和女孩血压百分位水平表） (6)。较大儿童及青年（大于13岁）的血压值解读与美国心脏病学会/美国心脏协会成人指南一致（7）。
+
+【按年龄和身高划分的男孩的血压 (BP) 百分位水平（测量值和百分位）】
+按年龄和身高划分的男孩的血压 (BP) 百分位水平（测量值和百分位）
+收缩压(mmHg)
+舒张压（毫米汞柱）
+年龄（岁）
+BP 百分位*
+测量高度（粗体）或高度百分位
+测量高度（粗体）或高度百分位
+50th
+90th
+95th
+50th
+90th
+95th
+测量高度（厘米）
+77.2
+78.3
+80.2
+82.4
+84.6
+86.7
+87.9
+77.2
+78.3
+80.2
+82.4
+84.6
+86.7
+87.9
+50th
+90th
+95th
+95th + 12 mm Hg
+测量高度（厘米）
+86.1
+87.4
+89.6
+92.1
+94.7
+97.1
+98.5
+86.1
+87.4
+89.6
+92.1
+94.7
+97.1
+98.5
+50th
+90th
+95th
+95th + 12 mm Hg
+测量高度（厘米）
+92.5
+93.9
+96.3
+101.8
+104.3
+105.8
+92.5
+93.9
+96.3
+101.8
+104.3
+105.8
+50th
+90th
+95th
+95th + 12 mm Hg
+测量高度（厘米）
+98.5
+100.2
+102.9
+105.9
+108.9
+111.5
+113.2
+98.5
+100.2
+102.9
+105.9
+108.9
+111.5
+113.2
+50th
+90th
+95th
+95th + 12 mm Hg
+测量高度（厘米）
+104.4
+106.2
+109.1
+112.4
+115。
+118.6
+120.3
+104.4
+106.2
+109.1
+112.4
+115.7
+118.6
+120.3
+50th
+90th
+95th
+95th + 12 mm Hg
+测量高度（厘米）
+110.3
+112.2
+115.3
+118.9
+122.4
+125.6
+127.5
+110.3
+112.2
+115.3
+118.9
+122.4
+125.6
+127.5
+50th
+90th
+95th
+95th + 12 mm Hg
+测量高度（厘米）
+116.1
+121.4
+125.1
+128.9
+123.4
+134.5
+116.1
+121.4
+125.1
+128.9
+132.4
+134.5
+50th
+90th
+95th
+95th + 12 mm Hg
+测量高度（厘米）
+121.4
+123.5
+135.1
+138.8
+121.4
+123.5
+135.1
+138.8
+50th
+90th
+95th
+95th + 12 mm Hg
+测量高度（厘米）
+128.3
+132.1
+136.3
+140.7
+144.7
+147.1
+128.3
+132.1
+136.3
+140.7
+144.7
+147.1
+50th
+90th
+95th
+95th + 12 mm Hg
+测量高度（厘米）
+130.2
+132.7
+136.7
+141.3
+145.9
+150.1
+152.7
+130.2
+132.7
+136.7
+141.3
+145.9
+150.1
+152.7
+50th
+90th
+95th
+95th + 12 mm Hg
+测量高度（厘米）
+134.7
+137.3
+141.5
+146.4
+151.3
+155.8
+158.6
+134.7
+137.3
+141.5
+146.4
+151.3
+155.8
+158.6
+50th
+90th
+95th
+95th + 12 mm Hg
+测量高度（厘米）
+140.3
+147.5
+152.7
+157.9
+162.6
+165.5
+140.3
+147.5
+152.7
+157.9
+162.6
+165.5
+50th
+90th
+95th
+95th + 12 mm Hg
+测量高度（厘米）
+154.9
+160.3
+165.7
+170.5
+173.4
+154.9
+160.3
+165.7
+170.5
+173.4
+50th
+90th
+95th
+95th + 12 mm Hg
+测量高度（厘米）
+153.8
+156.9
+167.5
+172.7
+177.4
+180.1
+153.8
+156.9
+167.5
+172.7
+177.4
+180.1
+50th
+90th
+95th
+95th + 12 mm Hg
+测量高度（厘米）
+166.9
+172.2
+177.2
+181.6
+184.2
+166.9
+172.2
+177.2
+181.6
+184.2
+50th
+90th
+95th
+95th + 12 mm Hg
+测量高度（厘米）
+162.1
+169.6
+174.6
+179.5
+183.8
+186.4
+162.1
+169.6
+174.6
+179.5
+183.8
+186.4
+50th
+90th
+95th
+95th + 12 mm Hg
+测量高度（厘米）
+163.8
+166.5
+170.9
+175.8
+180.7
+184.9
+187.5
+163.8
+166.5
+170.9
+175.8
+180.7
+184.9
+187.5
+50th
+90th
+95th
+95th + 12 mm Hg
+* 第 90 个百分位数是 1.28 个标准差 (SD)，第 95 个百分位数是平均值的 1.645 个 SD。
+Adapted fromFlynn JT, Kaelber DC, Baker-Smith CM, et al: Clinical practice guideline for screening and management of high blood pressure in children and adolescents.Pediatrics140(3):e20171904, 2017. doi: 10.1542/peds.2017-1904
+* 第 90 个百分位数是 1.28 个标准差 (SD)，第 95 个百分位数是平均值的 1.645 个 SD。
+Adapted fromFlynn JT, Kaelber DC, Baker-Smith CM, et al: Clinical practice guideline for screening and management of high blood pressure in children and adolescents.Pediatrics140(3):e20171904, 2017. doi: 10.1542/peds.2017-1904
+
+【按年龄和身高划分的女孩的血压 (BP) 百分位水平（测量值和百分位）】
+按年龄和身高划分的女孩的血压 (BP) 百分位水平（测量值和百分位）
+收缩压 (mmHg)
+舒张压 （mmHg）
+年龄（岁）
+BP 百分位数*
+测量高度（粗体）或高度百分位
+测量高度（粗体）或高度百分位
+50th
+90th
+95th
+50th
+90th
+95th
+测量高度（厘米）
+75.4
+76.6
+78.6
+80.8
+84.9
+86.1
+75.4
+76.6
+78.6
+80.8
+84.9
+86.1
+50th
+90th
+95th
+95th + 12 mm Hg
+测量高度（厘米）
+84.9
+86.3
+88.6
+91.1
+93.7
+97.4
+84.9
+86.3
+88.6
+91.1
+93.7
+97.4
+50th
+90th
+95th
+95th + 12 mm Hg
+测量高度（厘米）
+92.4
+94.9
+97.6
+100.5
+103.1
+104.6
+92.4
+94.9
+97.6
+100.5
+103.1
+104.6
+第95 + 12 mm Hg
+测量高度（厘米）
+97.2
+98.8
+101.4
+104.5
+107.6
+110.5
+112.2
+97.2
+98.8
+101.4
+104.5
+107.6
+110.5
+112.2
+第95 + 12 mm Hg
+测量高度（厘米）
+103.6
+105.3
+108.2
+111.5
+114.9
+118.1
+103.6
+105.3
+108.2
+111.5
+114.9
+118.1
+第95 + 12 mm Hg
+测量高度（厘米）
+111.8
+114.9
+118.4
+122.1
+125.6
+127.7
+111.8
+114.9
+118.4
+122.1
+125.6
+127.7
+第95 + 12 mm Hg
+测量高度（厘米）
+115.9
+117.8
+121.1
+124.9
+128.8
+132.5
+134.7
+115.9
+117.8
+121.1
+124.9
+128.8
+132.5
+134.7
+第95 + 12 mm Hg
+测量高度（厘米）
+126.5
+130.6
+134.7
+138.5
+140.9
+126.5
+130.6
+134.7
+138.5
+140.9
+第95 + 12 mm Hg
+测量高度（厘米）
+125.3
+127.6
+131.3
+135.6
+140.1
+144.1
+146.6
+125.3
+127.6
+131.3
+135.6
+140.1
+144.1
+146.6
+第95 + 12 mm Hg
+测量高度（厘米）
+129.7
+132.2
+136.3
+145.8
+150.2
+152.8
+129.7
+132.2
+136.3
+145.8
+150.2
+152.8
+第95 + 12 mm Hg
+测量高度（厘米）
+135.6
+138.3
+142.8
+147.8
+152.8
+157.3
+135.6
+138.3
+142.8
+147.8
+152.8
+157.3
+第95 + 12 mm Hg
+测量高度（厘米）
+142.8
+145.5
+149.9
+154.8
+159.6
+163.8
+166.4
+142.8
+145.5
+149.9
+154.8
+159.6
+163.8
+166.4
+第95 + 12 mm Hg
+测量高度（厘米）
+148.1
+150.6
+154.7
+159.2
+163.7
+167.8
+170.2
+148.1
+150.6
+154.7
+159.2
+163.7
+167.8
+170.2
+第95 + 12 mm Hg
+测量高度（厘米）
+150.6
+156.9
+161.3
+165.7
+169.7
+172.1
+150.6
+156.9
+161.3
+165.7
+169.7
+172.1
+第95 + 12 mm Hg
+测量高度（厘米）
+151.7
+157.9
+162.3
+166.7
+170.6
+151.7
+157.9
+162.3
+166.7
+170.6
+第95 + 12 mm Hg
+测量高度（厘米）
+152.1
+154.5
+158.4
+162.8
+167.1
+171.1
+173.4
+152.1
+154.5
+158.4
+162.8
+167.1
+171.1
+173.4
+第95 + 12 mm Hg
+测量高度（厘米）
+152.4
+154.7
+158.7
+163.0
+167.4
+171.3
+173.7
+152.4
+154.7
+158.7
+163.0
+167.4
+171.3
+173.7
+第95 + 12 mm Hg
+* 第 90 个百分位数是 1.28 个标准差 (SD)，第 95 个百分位数是平均值的 1.645 个 SD。
+Adapted fromFlynn JT, Kaelber DC, Baker-Smith CM, et al: Clinical practice guideline for screening and management of high blood pressure in children and adolescents.Pediatrics140(3):e20171904, 2017. doi: 10.1542/peds.2017-1904
+* 第 90 个百分位数是 1.28 个标准差 (SD)，第 95 个百分位数是平均值的 1.645 个 SD。
+Adapted fromFlynn JT, Kaelber DC, Baker-Smith CM, et al: Clinical practice guideline for screening and management of high blood pressure in children and adolescents.Pediatrics140(3):e20171904, 2017. doi: 10.1542/peds.2017-1904
+13 岁及以上儿童的血压根据实际血压值进行分类（见表儿童血压（BP）分类）。
+
+【儿童血压的分类】
+儿童血压的分类
+1 至 < 13 岁，BP
+年龄 ≥ 13 岁，BP
+< 第90百分位*
+< 120/< 80
+≥ 第90百分位（或≥ 120/80，以较低者为准）至 < 第95百分位
+120–129/< 80
+1级高血压
+95%及以上至小于 95% + 12 mmHg
+130/80 到 139/89，以较低者为准
+130/80 至 139/89
+2期高血压
+≥ 第95百分位 + 12 毫米汞柱
+≥ 140/90，以较低者为准
+≥ 140/90
+* 百分位数是指收缩压。
+Adapted fromFlynn JT, Kaelber DC, Baker-Smith CM, et al: Clinical practice guideline for screening and management of high blood pressure in children and adolescents, table 3.Pediatrics140(3):e20171904, 2017. doi: 10.1542/peds.2017-1904
+* 百分位数是指收缩压。
+Adapted fromFlynn JT, Kaelber DC, Baker-Smith CM, et al: Clinical practice guideline for screening and management of high blood pressure in children and adolescents, table 3.Pediatrics140(3):e20171904, 2017. doi: 10.1542/peds.2017-1904
+
+【参考文献】
+1.Jacobs DR Jr, Woo JG, Sinaiko AR, et al.Childhood Cardiovascular Risk Factors and Adult Cardiovascular Events.N Engl J Med2022;386(20):1877-1888.doi:10.1056/NEJMoa2109191
+1.Jacobs DR Jr, Woo JG, Sinaiko AR, et al.Childhood Cardiovascular Risk Factors and Adult Cardiovascular Events.N Engl J Med2022;386(20):1877-1888.doi:10.1056/NEJMoa2109191
+2.Robinson CH, Hussain J, Jeyakumar N, et al.Long-Term Cardiovascular Outcomes in Children and Adolescents With Hypertension [published correction appears inJAMA Pediatr. 2024 Oct 1;178(10):1086. doi: 10.1001/jamapediatrics.2024.3393.].JAMA Pediatr2024;178(7):688-698.doi:10.1001/jamapediatrics.2024.1543
+2.Robinson CH, Hussain J, Jeyakumar N, et al.Long-Term Cardiovascular Outcomes in Children and Adolescents With Hypertension [published correction appears inJAMA Pediatr. 2024 Oct 1;178(10):1086. doi: 10.1001/jamapediatrics.2024.3393.].JAMA Pediatr2024;178(7):688-698.doi:10.1001/jamapediatrics.2024.1543
+3.Yang L, Magnussen CG, Yang L, Bovet P, Xi B.Elevated Blood Pressure in Childhood or Adolescence and Cardiovascular Outcomes in Adulthood: A Systematic Review.Hypertension2020;75(4):948-955.doi:10.1161/HYPERTENSIONAHA.119.14168
+3.Yang L, Magnussen CG, Yang L, Bovet P, Xi B.Elevated Blood Pressure in Childhood or Adolescence and Cardiovascular Outcomes in Adulthood: A Systematic Review.Hypertension2020;75(4):948-955.doi:10.1161/HYPERTENSIONAHA.119.14168
+4.Hampl SE, Hassink SG, Skinner AC, et al.Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity [published correction appears inPediatrics2024 Jan 1;153(1):e2023064612. doi: 10.1542/peds.2023-064612].Pediatrics2023;151(2):e2022060640.doi:10.1542/peds.2022-060640
+4.Hampl SE, Hassink SG, Skinner AC, et al.Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity [published correction appears inPediatrics2024 Jan 1;153(1):e2023064612. doi: 10.1542/peds.2023-064612].Pediatrics2023;151(2):e2022060640.doi:10.1542/peds.2022-060640
+5Bell CS, Samuel JP, Samuels JA.Prevalence of Hypertension in Children.Hypertension2019;73(1):148-152.doi:10.1161/HYPERTENSIONAHA.118.11673
+5Bell CS, Samuel JP, Samuels JA.Prevalence of Hypertension in Children.Hypertension2019;73(1):148-152.doi:10.1161/HYPERTENSIONAHA.118.11673
+6.Flynn JT, Kaelber DC, Baker-Smith CM, et al.Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and Adolescents [published correction appears inPediatrics2017 Dec;140(6):e20173035. doi: 10.1542/peds.2017-3035.] [published correction appears inPediatrics2018 Sep;142(3):e20181739. doi: 10.1542/peds.2018-1739.].Pediatrics2017;140(3):e20171904.doi:10.1542/peds.2017-1904
+6.Flynn JT, Kaelber DC, Baker-Smith CM, et al.Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and Adolescents [published correction appears inPediatrics2017 Dec;140(6):e20173035. doi: 10.1542/peds.2017-3035.] [published correction appears inPediatrics2018 Sep;142(3):e20181739. doi: 10.1542/peds.2018-1739.].Pediatrics2017;140(3):e20171904.doi:10.1542/peds.2017-1904
+7.Whelton PK, Carey RM, Aronow WS, et al.2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines [published correction appears inHypertension2018 Jun;71(6):e140-e144. doi: 10.1161/HYP.0000000000000076.].Hypertension2018;71(6):e13-e115.doi:10.1161/HYP.0000000000000065
+7.Whelton PK, Carey RM, Aronow WS, et al.2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines [published correction appears inHypertension2018 Jun;71(6):e140-e144. doi: 10.1161/HYP.0000000000000076.].Hypertension2018;71(6):e13-e115.doi:10.1161/HYP.0000000000000065
+
+【儿童高血压的病因】
+高血压可分为
+原发性（无已知原因，排除性诊断）
+原发性（无已知原因，排除性诊断）
+继发性（由另一种疾病引起，例如肾脏疾病）
+继发性（由另一种疾病引起，例如肾脏疾病）
+6岁后，原发性高血压成为主要病因，在青少年及年轻成人中这一趋势更为显著。6岁之前，继发性高血压更常见（1）。
+
+【原发性高血压】
+根据定义，原发性高血压的病因尚不清楚，这就是为什么它是一种排除性诊断。然而，这在有以下情况的儿童中更为常见 （2，3）：
+超重或肥胖（原发性高血压的最重要危险因素）
+超重或肥胖（原发性高血压的最重要危险因素）
+有高血压家族史
+有高血压家族史
+西班牙裔、非西班牙裔黑人或亚裔美国人（在美国）
+西班牙裔、非西班牙裔黑人或亚裔美国人（在美国）
+有久坐的生活方式
+有久坐的生活方式
+有不健康的饮食习惯（例如，高盐和卡路里摄入量）
+有不健康的饮食习惯（例如，高盐和卡路里摄入量）
+有各种宫内因素（例如，导致低出生体重，早产，或者小于胎龄儿）
+有各种宫内因素（例如，导致低出生体重，早产，或者小于胎龄儿）
+有社会风险因素（例如，虐待儿童、家庭和/或人际暴力、食物和/或住房不安全——这些因素的数量、持续时间和严重程度具有累积效应）
+有社会风险因素（例如，虐待儿童、家庭和/或人际暴力、食物和/或住房不安全——这些因素的数量、持续时间和严重程度具有累积效应）
+吸烟和二手烟暴露（4）
+吸烟和二手烟暴露（4）
+
+【继发性高血压】
+继发性高血压有明确的原因；如果病因得到解决，高血压可能是可逆的。
+儿童继发性高血压的最常见原因是：
+肾实质疾病（例如，肾小球肾炎、肾盂肾炎、反流性肾病）或肾脏和泌尿道先天性异常（例如，梗阻性尿路病、多囊肾病、发育不良的肾脏）
+肾实质疾病（例如，肾小球肾炎、肾盂肾炎、反流性肾病）或肾脏和泌尿道先天性异常（例如，梗阻性尿路病、多囊肾病、发育不良的肾脏）
+肾血管疾病（例如，肾动脉狭窄,肾静脉血栓形成)
+肾血管疾病（例如，肾动脉狭窄,肾静脉血栓形成)
+心血管疾病（如胸主动脉缩窄、中主动脉综合征【罕见血管疾病，特征为胸腹主动脉节段性或弥漫性狭窄，常累及肾动脉和肠系膜动脉】、动静脉瘘）
+心血管疾病（如胸主动脉缩窄、中主动脉综合征【罕见血管疾病，特征为胸腹主动脉节段性或弥漫性狭窄，常累及肾动脉和肠系膜动脉】、动静脉瘘）
+内分泌疾病（例如，甲亢,盐皮质激素过量,皮质类固醇过量,儿茶酚胺过量)
+内分泌疾病（例如，甲亢,盐皮质激素过量,皮质类固醇过量,儿茶酚胺过量)
+继发性高血压的其他病因包括以下内容：
+睡眠呼吸障碍
+睡眠呼吸障碍
+神经系统的原因（如颅内压升高）
+神经系统的原因（如颅内压升高）
+药物及物质（如糖皮质激素、合成代谢类固醇、钙调磷酸酶抑制剂、兴奋剂、口服避孕药、尼古丁、咖啡因及某些违禁药物）
+药物及物质（如糖皮质激素、合成代谢类固醇、钙调磷酸酶抑制剂、兴奋剂、口服避孕药、尼古丁、咖啡因及某些违禁药物）
+心理压力或疼痛
+心理压力或疼痛
+其他原因（例如，神经母细胞瘤、肾母细胞瘤）
+其他原因（例如，神经母细胞瘤、肾母细胞瘤）
+与高血压相关的综合征通常包括：
+1型神经纤维瘤病（肾血管疾病、中主动脉综合征、嗜铬细胞瘤）
+1型神经纤维瘤病（肾血管疾病、中主动脉综合征、嗜铬细胞瘤）
+威廉姆斯综合征（肾血管疾病、中主动脉综合征）
+威廉姆斯综合征（肾血管疾病、中主动脉综合征）
+Alagille综合征（与肾血管疾病相关）
+Alagille综合征（与肾血管疾病相关）
+结节性硬化症（肾血管平滑肌脂肪瘤）
+结节性硬化症（肾血管平滑肌脂肪瘤）
+
+【病因参考文献】
+1.Flynn JT, Kaelber DC, Baker-Smith CM, et al.Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and Adolescents [published correction appears inPediatrics2017 Dec;140(6):e20173035. doi: 10.1542/peds.2017-3035.] [published correction appears inPediatrics2018 Sep;142(3):e20181739. doi: 10.1542/peds.2018-1739.].Pediatrics2017;140(3):e20171904.doi:10.1542/peds.2017-1904
+1.Flynn JT, Kaelber DC, Baker-Smith CM, et al.Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and Adolescents [published correction appears inPediatrics2017 Dec;140(6):e20173035. doi: 10.1542/peds.2017-3035.] [published correction appears inPediatrics2018 Sep;142(3):e20181739. doi: 10.1542/peds.2018-1739.].Pediatrics2017;140(3):e20171904.doi:10.1542/peds.2017-1904
+2.Hampl SE, Hassink SG, Skinner AC, et al.Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity [published correction appears inPediatrics2024 Jan 1;153(1):e2023064612. doi: 10.1542/peds.2023-064612.].Pediatrics2023;151(2):e2022060640.doi:10.1542/peds.2022-060640
+2.Hampl SE, Hassink SG, Skinner AC, et al.Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity [published correction appears inPediatrics2024 Jan 1;153(1):e2023064612. doi: 10.1542/peds.2023-064612.].Pediatrics2023;151(2):e2022060640.doi:10.1542/peds.2022-060640
+3.Rao G.Diagnosis, Epidemiology, and Management of Hypertension in Children.Pediatrics2016;138(2):e20153616.doi:10.1542/peds.2015-3616
+3.Rao G.Diagnosis, Epidemiology, and Management of Hypertension in Children.Pediatrics2016;138(2):e20153616.doi:10.1542/peds.2015-3616
+4.Levy RV, Brathwaite KE, Sarathy H, Reidy K, Kaskel FJ, Melamed ML.Analysis of Active and Passive Tobacco Exposures and Blood Pressure in US Children and Adolescents.JAMA Netw Open2021;4(2):e2037936.doi:10.1001/jamanetworkopen.2020.37936
+4.Levy RV, Brathwaite KE, Sarathy H, Reidy K, Kaskel FJ, Melamed ML.Analysis of Active and Passive Tobacco Exposures and Blood Pressure in US Children and Adolescents.JAMA Netw Open2021;4(2):e2037936.doi:10.1001/jamanetworkopen.2020.37936
+
+【儿童高血压的病理生理学】
+与成人一样，血压由心输出量（受心肌收缩力、心率和血管容量影响）和血管阻力（受血管张力、结构和功能影响）之间的平衡决定。肾素-血管紧张素-醛固酮系统、交感神经系统、钠转运和其他因素起作用（更多信息，请参见高血压的病理生理）。在儿童、青少年和年轻人中，心输出量和容量状态比老年人更可能是高血压的主要驱动力；随着年龄的增长，血管结构变化，血管壁厚度和僵硬程度增加（从而增加血管阻力），起着更重要的作用。
+
+【小儿高血压并发症】
+小儿高血压的并发症可能是
+儿童高血压的急性并发症相对少见，通常与高血压急症有关，其中存在靶器官（也称为终末器官）功能障碍或损伤。受影响的器官包括中枢神经系统（导致脑病，包括癫痫、嗜睡和/或昏迷）、心脏（导致心力衰竭）、眼睛（导致视乳头水肿、视网膜出血）和肾脏（导致肾功能不全和/或蛋白尿）。
+儿童高血压慢性并发症的发生率很少见，并且通常直到青春期晚期或成年早期才会发生。成人慢性高血压的并发症，包括冠状动脉疾病、心力衰竭、缺血性中风、外周血管疾病和高血压终末期肾病，很少发生在儿童身上。然而，这些并发症的前兆，包括颈动脉内膜中层厚度（cIMT）、脉搏波传导速度、左心室肥厚（LVH）和神经认知功能的不良改变——可在高血压患儿中发现。对于慢性肾脏病患儿，高血压程度与肾功能下降加速及尿白蛋白排泄增加（肾损伤标志物）相关。除儿童期和青春期高血压与前兆或替代标志物相关外，越来越多的证据表明，高血压与成年期心血管疾病、事件甚至死亡率直接相关（1、2、3）。
+
+【病理生理学参考文献】
+1.Jacobs DR Jr, Woo JG, Sinaiko AR, et al.Childhood Cardiovascular Risk Factors and Adult Cardiovascular Events.N Engl J Med2022;386(20):1877-1888.doi:10.1056/NEJMoa2109191
+1.Jacobs DR Jr, Woo JG, Sinaiko AR, et al.Childhood Cardiovascular Risk Factors and Adult Cardiovascular Events.N Engl J Med2022;386(20):1877-1888.doi:10.1056/NEJMoa2109191
+2.Robinson CH, Hussain J, Jeyakumar N, et al.Long-Term Cardiovascular Outcomes in Children and Adolescents With Hypertension [published correction appears inJAMA Pediatr2024 Oct 1;178(10):1086. doi: 10.1001/jamapediatrics.2024.3393].JAMA Pediatr2024;178(7):688-698.doi:10.1001/jamapediatrics.2024.1543
+2.Robinson CH, Hussain J, Jeyakumar N, et al.Long-Term Cardiovascular Outcomes in Children and Adolescents With Hypertension [published correction appears inJAMA Pediatr2024 Oct 1;178(10):1086. doi: 10.1001/jamapediatrics.2024.3393].JAMA Pediatr2024;178(7):688-698.doi:10.1001/jamapediatrics.2024.1543
+3.Yang L, Magnussen CG, Yang L, Bovet P, Xi B.Elevated Blood Pressure in Childhood or Adolescence and Cardiovascular Outcomes in Adulthood: A Systematic Review.Hypertension2020;75(4):948-955.doi:10.1161/HYPERTENSIONAHA.119.14168
+3.Yang L, Magnussen CG, Yang L, Bovet P, Xi B.Elevated Blood Pressure in Childhood or Adolescence and Cardiovascular Outcomes in Adulthood: A Systematic Review.Hypertension2020;75(4):948-955.doi:10.1161/HYPERTENSIONAHA.119.14168
+
+【儿童高血压的症状和体征】
+儿童高血压，除了罕见的高血压急症，通常是无症状的。
+体格检查可能正常（血压升高除外），但有时会出现高血压和/或其原因的体征，应特别寻找，包括：
+眼睛：眼球突出（甲亢), 高血压性视网膜病变（小动脉痉挛、出血、渗出液和罕见的视乳头水肿）
+眼睛：眼球突出（甲亢), 高血压性视网膜病变（小动脉痉挛、出血、渗出液和罕见的视乳头水肿）
+头面部：满月脸（皮质类固醇过量，如库欣综合征），扁桃体肥大（睡眠呼吸暂停）
+头面部：满月脸（皮质类固醇过量，如库欣综合征），扁桃体肥大（睡眠呼吸暂停）
+颈部：甲状腺肿大和/或压痛（甲亢)
+颈部：甲状腺肿大和/或压痛（甲亢)
+心脏：杂音或下肢脉搏减弱（主动脉缩窄）、摩擦音（胶原血管病）、心尖搏动增强（左心室肥厚）
+心脏：杂音或下肢脉搏减弱（主动脉缩窄）、摩擦音（胶原血管病）、心尖搏动增强（左心室肥厚）
+腹部：肿块（肿瘤，囊性肾病，肾积水），杂音（中主动脉综合征，肾血管疾病）
+腹部：肿块（肿瘤，囊性肾病，肾积水），杂音（中主动脉综合征，肾血管疾病）
+四肢：水肿（肾脏疾病）、关节肿胀（胶原血管疾病）、下肢牵引或石膏（骨科相关高血压）、下肢脉搏减弱或延迟（主动脉缩窄）
+四肢：水肿（肾脏疾病）、关节肿胀（胶原血管疾病）、下肢牵引或石膏（骨科相关高血压）、下肢脉搏减弱或延迟（主动脉缩窄）
+生殖器：两性化/男性化（肾上腺增生)、青春期晚期（颅内肿瘤）
+生殖器：两性化/男性化（肾上腺增生)、青春期晚期（颅内肿瘤）
+皮肤：苍白/潮红（儿茶酚胺过量）、痤疮/多毛症/条纹（库欣综合征、皮质类固醇治疗、多囊卵巢综合征）、咖啡牛奶斑/神经纤维瘤（神经纤维瘤病）、灰叶斑/皮脂腺瘤（结节性硬化症）、皮疹（系统性红斑狼疮，免疫球蛋白A相关血管炎）
+皮肤：苍白/潮红（儿茶酚胺过量）、痤疮/多毛症/条纹（库欣综合征、皮质类固醇治疗、多囊卵巢综合征）、咖啡牛奶斑/神经纤维瘤（神经纤维瘤病）、灰叶斑/皮脂腺瘤（结节性硬化症）、皮疹（系统性红斑狼疮，免疫球蛋白A相关血管炎）
+神经系统：肌肉无力（醛固酮增多症,利德尔综合征)
+神经系统：肌肉无力（醛固酮增多症,利德尔综合征)
+一般：肥胖（原发性高血压）、生长迟缓（慢性肾病）
+一般：肥胖（原发性高血压）、生长迟缓（慢性肾病）
+生命体征：心动过速（甲亢、儿茶酚胺过量）、四肢血压差（主动脉缩窄、中主动脉综合征）
+生命体征：心动过速（甲亢、儿茶酚胺过量）、四肢血压差（主动脉缩窄、中主动脉综合征）
+
+【儿童高血压的诊断】
+血压计（听诊）
+血压计（听诊）
+示波装置
+示波装置
+动态血压监测
+动态血压监测
+由于血压 (BP) 值因年龄、性别和身高而异，因此高血压的定义基于规范值（参见男孩和女孩BP 百分位水平表）。通常不应在三次独立就诊中均发现血压值升高（定义见儿童血压分类表）后才诊断高血压，以排除短暂性血压升高的原因，如近期摄入含咖啡因饮料或白大衣高血压（即因就诊焦虑导致的血压升高）。动态血压监测也有助于诊断白大褂高血压和隐匿性高血压（诊室血压正常但其他场景下升高）。
+必须使用正确的技术测量血压。测量前，儿童应安静地坐在椅子上，背部支撑，双脚放在地板上 3 至 5 分钟。使用尺寸正确的袖带至关重要；应提供一系列袖带尺寸，包括大腿袖带。袖带宽度应至少为上臂中部周长的 40%，充气气囊的长度应为该周长的 80% 至 100%。袖带过小会导致测量值虚高。若患儿处于两种袖带尺寸之间，应选用较大尺寸以减少测量误差。一般来说，每次访问至少应进行两次测量，特别是如果初始测量值很高。
+
+【血压筛查】
+儿童血压正常值基于人工听诊法测定。目前大多数 BP 筛查是使用示波法设备完成的，因为它们易于使用，减少了观察者偏差，并且更容易被年幼的儿童和婴儿接受。用示波仪测得的测量值通常高于听诊测得的值，因此任何≥第90百分位的测量值都需要通过听诊确认。
+根据美国儿科学会（AAP）指南，应从3岁开始每年进行常规血压监测（1）。如果 BP 低于第90百分位或低于需要额外评估的 BP 值根据 AAP 指南，每年都会继续测量。应在每次就诊时更早、更频繁地评估有高血压危险因素的儿童，例如肾脏疾病、心脏病或有明显的新生儿病史。
+儿童高血压通常诊断不足（2,3,4）。对于 < 13 岁的儿童，血压值的解读尤为重要，因为其正常血压值因年龄、性别和体型差异很大，显著的血压升高可能不太明显。为简化筛查，美国儿科学会（AAP）指南提供了各年龄段的血压值 —— 这些数值虽非高血压诊断标准，但提示需要进一步评估（见表儿童需进一步评估的血压筛查值）。这些值代表了1至12岁各年龄段中身高最矮人群的第90百分位数血压，因此临床医生无需为每个儿童确定精确的血压百分位数。进一步的评估通常从重复测量和计算实际血压百分位开始（见表儿童血压 (BP) 的分类），然后由医生跟进（即如果筛查由其他人员完成）。健康信息技术可提高血压筛查、药物处方和血压管理方面的临床指南依从性。（5）。对于小于1岁的婴儿，有相对于孕龄、出生体重和概念后年龄的标准血压值（6）。
+
+【筛查需要额外评估的儿童的血压值*】
+筛查需要额外评估的儿童的血压值*
+年龄（岁）
+≥ 13
+* 请注意，这些值并非用于诊断或分类高血压，仅应用于筛查以识别需要更彻底评估血压的儿童。
+Adapted fromFlynn JT, Kaelber DC, Baker-Smith CM, et al: Clinical practice guideline for screening and management of high blood pressure in children and adolescents, table 6.Pediatrics140(3):e20171904, 2017. doi: 10.1542/peds.2017-1904
+* 请注意，这些值并非用于诊断或分类高血压，仅应用于筛查以识别需要更彻底评估血压的儿童。
+Adapted fromFlynn JT, Kaelber DC, Baker-Smith CM, et al: Clinical practice guideline for screening and management of high blood pressure in children and adolescents, table 6.Pediatrics140(3):e20171904, 2017. doi: 10.1542/peds.2017-1904
+血压处于第 90 至 95 百分位数之间的儿童应在 6 个月内通过听诊重新检查，因为 50% 至 70% 的病例血压会恢复到正常范围。 如果 6 个月后血压仍然升高，应建议改变生活方式（例如，饮食、活动、必要时减轻体重），并应进行上肢和下肢血压测量。如果在接下来的 6 个月内血压仍然升高，则可以进行 24 小时动态血压监测（如果可能），或者可以将患者转诊给专科医生。但是，如果在此期间 BP 恢复到第 90 个百分位以下，则可以恢复年度监测计划。
+如果测量值始终≥第95百分位数，但小于第95百分位数+12 mmhg，则应认为儿童患有一级高血压（参考表儿童血压分类）。大于等于95% + 12 mmHg 或大于等于 140/90（以较低者为准）的测量值代表 2 期高血压。
+患有 1 期高血压的儿童应在 1 至 2 周内复查。如果血压保持在 1 期，则应进行上肢和下肢血压测量，进行尿液分析，并建议改变生活方式。应在 2 至 3 个月内重新检查血压，如果仍处于 1 期，应将儿童转诊给专科医生进行评估，包括确定病因。患有 2 期高血压或 1 期高血压并出现症状的儿童应立即转诊至急诊科或儿科专家，以便可能住院。
+
+【动态血压监测 （ABPM）】
+临床实践指南强调使用ABPM评估血压持续升高的儿童和青少年。所有诊室血压处于升高状态1年或3次门诊达到1级高血压的儿童及青少年均应进行ABPM。ABPM有助于识别测量焦虑导致的假性高血压，并评估昼夜血压模式，这对鉴别白大褂或隐匿性高血压都很重要（7、8）。
+强烈建议对以下高危情况患儿常规实施ABPM：
+慢性肾病
+慢性肾病
+实体器官移植
+实体器官移植
+睡眠呼吸障碍
+睡眠呼吸障碍
+与高血压相关的遗传综合征
+与高血压相关的遗传综合征
+儿童及青年动态血压监测操作与解读指南是可用的。ABPM已验证适用于大于5岁的儿童，且存在基于年龄和身高的正常值数据。
+
+【病因诊断】
+对于确诊高血压的患者，应根据病史和体格检查对可疑疾病进行针对性检查（如怀疑甲状腺功能亢进时需做甲状腺功能检查）。
+大多数临床医生还会进行初步实验室评估，包括测量血清尿素氮 (BUN)、肌酐和电解质；空腹血脂谱；尿液分析；尤其是对于年轻患有高血压或有尿液分析或肾功能异常病史的人，还需要进行肾脏超声检查。然而，可以根据年龄、症状和风险因素采取更有针对性的方法（1）。
+6岁及以上儿童和青少年若存在无症状的1级高血压、高血压阳性家族史、超重或肥胖，且无提示性病史或体格检查结果，则无需对继发性高血压进行广泛评估。可以简化对这些儿童的初始测试，包括测量 BUN、肌酐、电解质和钙以及办公室内筛查尿液试纸测试。 如果这些结果正常并且上下肢血压测量值之间没有差异，则应开始改变饮食和生活方式（例如，活动、必要时减轻体重），并应在 6 个月后重新评估儿童。如果 6 个月后血压仍然升高且体重没有变化或增加，则应进一步评估以寻找其他引起高血压的因素。对于连续 3 次测量显示无症状 1 期高血压、无家族史且不超重的儿童，应在一至两个月内完成此项评估。患有 2 期高血压或 1 期高血压并有症状的儿童和青少年应立即进行评估。
+进一步的评估包括以下测试：
+空腹完整代谢组（包括葡萄糖、肝酶和脂质组）和糖化血红蛋白（HbA1c——用于糖尿病前期）
+空腹完整代谢组（包括葡萄糖、肝酶和脂质组）和糖化血红蛋白（HbA1c——用于糖尿病前期）
+超声心动图（左心室肥厚）
+超声心动图（左心室肥厚）
+尿白蛋白：肌酐比值和尿液分析
+尿白蛋白：肌酐比值和尿液分析
+肾脏超声
+肾脏超声
+如果测试结果正常，饮食和生活方式的改变再持续 6 个月，并建议咨询营养师。然而，如果有合并症的证据，血压仍然升高，体重没有下降，则应考虑药物治疗。
+小于 6 岁的儿童未超重且无明显高血压家族史，所有有症状的 1 期高血压或 2 期高血压、年龄 ≤ 3 岁的儿童均应进行更完整的初步评估，记住血压越高孩子越小，就越有可能发现导致继发性高血压的原因。 这些孩子应该进行以下测试：
+综合代谢检查
+综合代谢检查
+全血细胞计数
+全血细胞计数
+尿液分析
+尿液分析
+尿白蛋白：肌酐比值
+尿白蛋白：肌酐比值
+血浆肾素活性和醛固酮水平
+血浆肾素活性和醛固酮水平
+甲状腺功能检查
+甲状腺功能检查
+儿茶酚胺活性的评估（例如，通过测量血浆游离变肾上腺素）
+儿茶酚胺活性的评估（例如，通过测量血浆游离变肾上腺素）
+多普勒血流肾超声检查
+多普勒血流肾超声检查
+超声心动图
+超声心动图
+这些儿童的另一个选择是尽早转诊至儿科肾病专家，因为儿童继发性高血压的大多数常见原因与肾脏有关。儿科肾脏科医师将与其他肾脏成像一起进行相同的评估，例如锝 99m 标记的二巯基琥珀酸 (DMSA) 肾脏扫描（以寻找肾脏瘢痕形成）和/或数字减影血管造影术（以评估肾血管疾病）。
+
+【诊断参考】
+1.Flynn JT, Kaelber DC, Baker-Smith CM, et al.Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and Adolescents [published correction appears inPediatrics2017 Dec;140(6):e20173035. doi: 10.1542/peds.2017-3035] [published correction appears inPediatrics2018 Sep;142(3):e20181739. doi: 10.1542/peds.2018-1739].Pediatrics2017;140(3):e20171904.doi:10.1542/peds.2017-1904
+1.Flynn JT, Kaelber DC, Baker-Smith CM, et al.Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and Adolescents [published correction appears inPediatrics2017 Dec;140(6):e20173035. doi: 10.1542/peds.2017-3035] [published correction appears inPediatrics2018 Sep;142(3):e20181739. doi: 10.1542/peds.2018-1739].Pediatrics2017;140(3):e20171904.doi:10.1542/peds.2017-1904
+2.Beacher DR, Chang SZ, Rosen JS, et al.Recognition of elevated blood pressure in an outpatient pediatric tertiary care setting.J Pediatr2015;166(5):1233-1239.e1.doi:10.1016/j.jpeds.2015.02.006
+2.Beacher DR, Chang SZ, Rosen JS, et al.Recognition of elevated blood pressure in an outpatient pediatric tertiary care setting.J Pediatr2015;166(5):1233-1239.e1.doi:10.1016/j.jpeds.2015.02.006
+3.Brady TM, Solomon BS, Neu AM, Siberry GK, Parekh RS.Patient-, provider-, and clinic-level predictors of unrecognized elevated blood pressure in children.Pediatrics2010;125(6):e1286-e1293.doi:10.1542/peds.2009-0555
+3.Brady TM, Solomon BS, Neu AM, Siberry GK, Parekh RS.Patient-, provider-, and clinic-level predictors of unrecognized elevated blood pressure in children.Pediatrics2010;125(6):e1286-e1293.doi:10.1542/peds.2009-0555
+4.Hansen ML, Gunn PW, Kaelber DC.Underdiagnosis of hypertension in children and adolescents.JAMA2007;298(8):874-879.doi:10.1001/jama.298.8.874
+4.Hansen ML, Gunn PW, Kaelber DC.Underdiagnosis of hypertension in children and adolescents.JAMA2007;298(8):874-879.doi:10.1001/jama.298.8.874
+5.Zachariah JP, Singh T, Collinson S, et al.Pediatric High Blood Pressure Recognition Associated With Electronic Decision Support: A Cohort Analysis.Hypertension2024;81(12):2501-2509.doi:10.1161/HYPERTENSIONAHA.124.23532
+5.Zachariah JP, Singh T, Collinson S, et al.Pediatric High Blood Pressure Recognition Associated With Electronic Decision Support: A Cohort Analysis.Hypertension2024;81(12):2501-2509.doi:10.1161/HYPERTENSIONAHA.124.23532
+6.Dionne JM, Abitbol CL, Flynn JT.Hypertension in infancy: diagnosis, management and outcome [published correction appears in Pediatr Nephrol. 2012 Jan;27(1):159-60].Pediatr Nephrol2012;27(1):17-32.doi:10.1007/s00467-010-1755-z
+6.Dionne JM, Abitbol CL, Flynn JT.Hypertension in infancy: diagnosis, management and outcome [published correction appears in Pediatr Nephrol. 2012 Jan;27(1):159-60].Pediatr Nephrol2012;27(1):17-32.doi:10.1007/s00467-010-1755-z
+7.Flynn JT, Daniels SR, Hayman LL, et al.Update: ambulatory blood pressure monitoring in children and adolescents: a scientific statement from the American Heart Association.Hypertension2014;63(5):1116-1135.doi:10.1161/HYP.0000000000000007
+7.Flynn JT, Daniels SR, Hayman LL, et al.Update: ambulatory blood pressure monitoring in children and adolescents: a scientific statement from the American Heart Association.Hypertension2014;63(5):1116-1135.doi:10.1161/HYP.0000000000000007
+8.Flynn JT, Urbina EM, Brady TM, et al.Ambulatory Blood Pressure Monitoring in Children and Adolescents: 2022 Update: A Scientific Statement From the American Heart Association.Hypertension2022;79(7):e114-e124.doi:10.1161/HYP.0000000000000215
+8.Flynn JT, Urbina EM, Brady TM, et al.Ambulatory Blood Pressure Monitoring in Children and Adolescents: 2022 Update: A Scientific Statement From the American Heart Association.Hypertension2022;79(7):e114-e124.doi:10.1161/HYP.0000000000000215
+
+【儿童高血压的治疗】
+治疗性生活方式调整（包括饮食控制、减重和运动）
+治疗性生活方式调整（包括饮食控制、减重和运动）
+有时需要药物治疗
+有时需要药物治疗
+建议所有血压升高的儿童采取有助于降压的治疗性生活方式调整，包括饮食改善和运动干预。减少儿童体重的关键是健康的饮食习惯和增加体育锻炼。富含水果、蔬菜、豆类和低脂乳制品、且盐含量较低的饮食，例如 DASH（停止高血压的饮食方法）饮食，与降低血压相关 （1,2）。饮食变化还应包括基于活动水平、年龄和性别的卡路里限制。13 岁以上儿童的盐摄入量应 < 2300 毫克/天，年幼儿童的盐摄入量应 < 2 至 3 毫当量/千克/天。6 至 17 岁的儿童应该每天或每周至少进行 30 至 60 分钟的中等至剧烈体育活动。年幼的孩子应该全天进行身体活动。
+治疗目标通常是将血压控制在低于第90百分位数，或者对于年龄较大的儿童，低于130/80，以较低者为准；有时治疗目标是低于120/80。对于患有肾病的儿童，目标是将 24 小时血压控制在第 50 个百分位以下。患有 2 期高血压或 1 期高血压且出现症状、靶器官损害证据、糖尿病或肾脏疾病的儿童应转诊给专科医生，以开始更快速和/或有针对性的治疗。
+
+【儿童高血压的药物治疗】
+对于符合以下情况的儿童，通常需启动立即药物治疗（同时进行治疗性生活方式的改变）：
+任何阶段或水平的症状性高血压
+任何阶段或水平的症状性高血压
+1期高血压，伴有任何靶器官功能障碍或损害的证据
+1期高血压，伴有任何靶器官功能障碍或损害的证据
+2 期高血压，即使有明显的、可改变的危险因素（如肥胖），应在控制血压的同时加以解决
+2 期高血压，即使有明显的、可改变的危险因素（如肥胖），应在控制血压的同时加以解决
+任何阶段的高血压，如果他们患有慢性肾病、糖尿病或心脏病
+任何阶段的高血压，如果他们患有慢性肾病、糖尿病或心脏病
+若高血压严重程度危及生命，且可能导致（或已导致）显著靶器官损害，则将其归类并作为急性重度高血压进行治疗。
+对于血压升高或1期高血压（参见儿童血压分类）但无症状或靶器官功能障碍的儿童，首先改变生活方式，如果约6个月内血压未充分下降，可能需要药物治疗（3）。
+当需要降压治疗时，通常建议采用阶梯给药和剂量调整策略。应首选最低推荐剂量起始治疗，并持续监测血压。如果血压持续高于目标范围，应逐渐增加剂量直至血压得到充分控制或达到推荐的最大剂量，此时应加用另一种不同类别的药物。
+尽管根据推测的益处或预期的反应，在个体临床环境中可能优先选择特定药物，但一线药物的选择存在相当大的差异。大多数临床医生会从血管紧张素转换酶（ACE）抑制剂、血管紧张素II受体阻滞剂（ARB）、钙通道阻滞剂或噻嗪类利尿剂开始治疗。这些类药物可以每日单次给药。慢性肾病或糖尿病患者应使用ACE抑制剂和/或ARB，因为这些药物已被证明可延缓肾病进展（3）。由于ACE抑制剂和ARBs具有显著的致畸作用，对于已经到达月经初潮且正在或可能处于性活跃且没有可靠避孕措施的女孩，应考虑使用其他药物。所有患者均需监测疗效及药物相关不良反应，这些不良反应可能是剂量限制性的，需加用第二种药物或完全替换第一种药物。
+用于治疗高血压的口服药物类别包括：
+肾上腺素调节剂（beta-和alpha-拮抗剂、alpha-2-激动剂、beta-受体阻滞剂）
+肾上腺素调节剂（beta-和alpha-拮抗剂、alpha-2-激动剂、beta-受体阻滞剂）
+血管紧张素转换酶（ACE）抑制剂
+血管紧张素转换酶（ACE）抑制剂
+血管紧张素II受体阻断剂(ARBs)
+血管紧张素II受体阻断剂(ARBs)
+钙通道阻滞剂
+钙通道阻滞剂
+噻嗪利尿剂
+噻嗪利尿剂
+血管扩张剂
+血管扩张剂
+如需了解各类降压药物及其具体用药的详细讨论，请参阅儿童高血压治疗药物。
+
+【治疗参考文献】
+1.Couch SC, Saelens BE, Khoury PR, et al.Dietary Approaches to Stop Hypertension Dietary Intervention Improves Blood Pressure and Vascular Health in Youth With Elevated Blood Pressure.Hypertension2021;77(1):241-251.doi:10.1161/HYPERTENSIONAHA.120.16156
+1.Couch SC, Saelens BE, Khoury PR, et al.Dietary Approaches to Stop Hypertension Dietary Intervention Improves Blood Pressure and Vascular Health in Youth With Elevated Blood Pressure.Hypertension2021;77(1):241-251.doi:10.1161/HYPERTENSIONAHA.120.16156
+2.Zafarmand MH, Spanjer M, Nicolaou M, et al.Influence of Dietary Approaches to Stop Hypertension-Type Diet, Known Genetic Variants and Their Interplay on Blood Pressure in Early Childhood: ABCD Study.Hypertension2020;75(1):59-70.doi:10.1161/HYPERTENSIONAHA.118.12292
+2.Zafarmand MH, Spanjer M, Nicolaou M, et al.Influence of Dietary Approaches to Stop Hypertension-Type Diet, Known Genetic Variants and Their Interplay on Blood Pressure in Early Childhood: ABCD Study.Hypertension2020;75(1):59-70.doi:10.1161/HYPERTENSIONAHA.118.12292
+3.Flynn JT, Kaelber DC, Baker-Smith CM, et al.Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and Adolescents [published correction appears inPediatrics2017 Dec;140(6):e20173035. doi: 10.1542/peds.2017-3035] [published correction appears inPediatrics2018 Sep;142(3):e20181739. doi: 10.1542/peds.2018-1739].Pediatrics2017;140(3):e20171904.doi:10.1542/peds.2017-1904
+3.Flynn JT, Kaelber DC, Baker-Smith CM, et al.Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and Adolescents [published correction appears inPediatrics2017 Dec;140(6):e20173035. doi: 10.1542/peds.2017-3035] [published correction appears inPediatrics2018 Sep;142(3):e20181739. doi: 10.1542/peds.2018-1739].Pediatrics2017;140(3):e20171904.doi:10.1542/peds.2017-1904
+减轻重量
+减轻重量
+减少盐的摄取
+减少盐的摄取
+减少发生心血管疾病的危险因素
+减少发生心血管疾病的危险因素
+儿童肥胖是高血压的重要诱因。临床医生应鼓励所有儿科患者保持健康饮食和定期锻炼。多吃水果、蔬菜、豆类和低脂乳制品，少吃钠（如DASH[膳食方法阻止高血压]饮食）（1），可能有助于预防和治疗肥胖及高血压。建议儿童每日钠摄入量低于2300毫克（13岁以下儿童应更少）（2）。
+6 至 17 岁的儿童每周至少 3 至 5 天进行 30 至 60 分钟的中等至剧烈强度体育活动。年幼的孩子应该全天进行身体活动。
+筛查儿童吸烟情况很重要，并在必要时帮助实施戒烟计划。 此外，筛查咖啡因（包括能量饮料）、酒精和药物的使用也很重要，所有这些都可能导致高血压。
+
+【预防参考文献】
+1.U.S. Department of Agriculture and U.S. Department of Health and Human Services:2020–2025 Dietary Guidelines for Americans.Accessed March 4, 2025.
+1.U.S. Department of Agriculture and U.S. Department of Health and Human Services:2020–2025 Dietary Guidelines for Americans.Accessed March 4, 2025.
+2.Yang Q, Zhang Z, Kukline EV, et al: Sodium intake and blood pressure among US children and adolescents.Pediatrics130(4): 611–619, 2012.doi: 10.1542/peds.2011-3870
+2.Yang Q, Zhang Z, Kukline EV, et al: Sodium intake and blood pressure among US children and adolescents.Pediatrics130(4): 611–619, 2012.doi: 10.1542/peds.2011-3870
+大多数儿童高血压是原发性的。
+大多数儿童高血压是原发性的。
+通过3次不同就诊时的血压测量或动态血压监测来确认高血压诊断。
+通过3次不同就诊时的血压测量或动态血压监测来确认高血压诊断。
+应通过体格检查排除高血压的继发性病因，并根据患者特征进行相应的实验室检测和影像学诊断。
+应通过体格检查排除高血压的继发性病因，并根据患者特征进行相应的实验室检测和影像学诊断。
+通过改变生活方式开始治疗，主要是饮食和锻炼。
+通过改变生活方式开始治疗，主要是饮食和锻炼。
+如果生活方式改变不足，或存在症状或靶器官损害，应开始药物治疗，首选钙通道阻滞剂、血管紧张素转换酶抑制剂/血管紧张素II受体阻滞剂或噻嗪类利尿剂。
+如果生活方式改变不足，或存在症状或靶器官损害，应开始药物治疗，首选钙通道阻滞剂、血管紧张素转换酶抑制剂/血管紧张素II受体阻滞剂或噻嗪类利尿剂。
+逐步调整药物剂量并修改治疗方案，直至达到最佳血压。
+逐步调整药物剂量并修改治疗方案，直至达到最佳血压。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+American Academy of Pediatrics:Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and Adolescents(2017)
+American Academy of Pediatrics:Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and Adolescents(2017)
+U.S. Department of Agriculture and U.S. Department of Health and Human Services:2020–2025 Dietary Guidelines for Americans
+U.S. Department of Agriculture and U.S. Department of Health and Human Services:2020–2025 Dietary Guidelines for Americans

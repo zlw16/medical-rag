@@ -1,0 +1,59 @@
+标题：巨噬细胞活化综合征
+来源：https://www.msdmanuals.cn/professional/pediatrics/rheumatologic-disorders-in-children/macrophage-activation-syndrome
+============================================================
+
+巨噬细胞活化综合征（MAS）是由不受控制的巨噬细胞和T淋巴细胞扩张引起的严重的，势不可挡的，威胁生命的细胞因子炎症风暴综合征。10%的全身型幼年特发性关节炎（JIA）患儿会出现此症（1）。
+
+【参考文献】
+1.Ravelli A, Grom AA, Behrens EM, Cron RQ.Macrophage activation syndrome as part of systemic juvenile idiopathic arthritis: diagnosis, genetics, pathophysiology and treatment.Genes Immun.2012;13(4):289-298.doi:10.1038/gene.2012.3
+1.Ravelli A, Grom AA, Behrens EM, Cron RQ.Macrophage activation syndrome as part of systemic juvenile idiopathic arthritis: diagnosis, genetics, pathophysiology and treatment.Genes Immun.2012;13(4):289-298.doi:10.1038/gene.2012.3
+
+【巨噬细胞活化综合征的症状和体征】
+巨噬细胞活化综合征的特征包括
+持续高热
+持续高热
+肝脾肿大
+肝脾肿大
+全身淋巴结病
+全身淋巴结病
+出血性表现
+出血性表现
+中枢神经系统功能障碍（包括癫痫发作和昏迷）
+中枢神经系统功能障碍（包括癫痫发作和昏迷）
+
+【巨噬细胞活化综合征的诊断】
+病史和体格检查
+病史和体格检查
+临床标准
+临床标准
+巨噬细胞活化综合征的诊断需要高度的临床警惕性，尤其是在已有系统性风湿病（如系统性红斑狼疮或JIA）的患者中。分类标准主要是为研究目的而制定的，但临床医生经常使用它们来帮助确定诊断（1）。
+巨噬细胞活化综合征可能难以与活动性全身型幼年特发性关节炎区分，因为这两种疾病有许多重叠的临床特征。有助于区分巨噬细胞激活综合征与全身性JIA的特征包括持续发烧（不同于JIA的每日间歇性发烧）、持续的皮疹（不同于全身性JIA的短暂性皮疹）、出血表现、癫痫发作、昏迷和休克。。尽管存在明显的全身性炎症，但由于纤维蛋白原水平低，红细胞沉降率（ESR）反而降低。
+符合幼年特发性关节炎患者巨噬细胞活化综合征诊断标准的分类标准包括：铁蛋白水平大于 684 ng/mL（ 大于 684 mcg/L）加上以下任意 2 项（1）：
+血小板 ≤ 181,000/mcL (≤ 181 × 109/L)
+血小板 ≤ 181,000/mcL (≤ 181 × 109/L)
+天冬氨酸氨基转移酶 > 48 单位/L (> 0.80 microkat/L)
+天冬氨酸氨基转移酶 > 48 单位/L (> 0.80 microkat/L)
+甘油三酯 > 156 mg/dL (> 1.76 mmol/L)
+甘油三酯 > 156 mg/dL (> 1.76 mmol/L)
+纤维蛋白原小于等于360 mg/dL（小于等于10.58 g/L）
+纤维蛋白原小于等于360 mg/dL（小于等于10.58 g/L）
+
+【诊断参考文献】
+1.Ravelli A, Minoia F, Davì S, et al.2016 Classification Criteria for Macrophage Activation Syndrome Complicating Systemic Juvenile Idiopathic Arthritis: A European League Against Rheumatism/American College of Rheumatology/Paediatric Rheumatology International Trials Organisation Collaborative Initiative.Arthritis Rheumatol.2016;68(3):566-576.doi:10.1002/art.39332
+1.Ravelli A, Minoia F, Davì S, et al.2016 Classification Criteria for Macrophage Activation Syndrome Complicating Systemic Juvenile Idiopathic Arthritis: A European League Against Rheumatism/American College of Rheumatology/Paediatric Rheumatology International Trials Organisation Collaborative Initiative.Arthritis Rheumatol.2016;68(3):566-576.doi:10.1002/art.39332
+
+【巨噬细胞活化综合征的治疗】
+大剂量皮质类固醇
+大剂量皮质类固醇
+其他免疫抑制剂
+其他免疫抑制剂
+具体治疗尚无共识。
+巨噬细胞活化综合征可能对潜在风湿病的成功治疗反应良好。
+该综合征作为全身型幼年特发性关节炎或系统性红斑狼疮并发症的治疗通常包括大剂量皮质类固醇，也可能包含其他药物（如环孢素、白介素[IL]-1抑制剂、Janus激酶抑制剂、依马利尤单抗）（1）。
+
+【治疗参考文献】
+1.Baldo F, Erkens RGA, Mizuta M, et al.Current treatment in macrophage activation syndrome worldwide: a systematic literature review to inform the METAPHOR project.Rheumatology (Oxford).Published online July 26, 2024.doi:10.1093/rheumatology/keae391
+1.Baldo F, Erkens RGA, Mizuta M, et al.Current treatment in macrophage activation syndrome worldwide: a systematic literature review to inform the METAPHOR project.Rheumatology (Oxford).Published online July 26, 2024.doi:10.1093/rheumatology/keae391
+
+【巨噬细胞活化综合征的预后】
+巨噬细胞活化综合征因多器官衰竭而具有较高的死亡率。

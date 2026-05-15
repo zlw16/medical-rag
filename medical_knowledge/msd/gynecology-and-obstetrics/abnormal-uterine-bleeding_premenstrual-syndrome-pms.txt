@@ -1,0 +1,164 @@
+标题：经前期综合征(PMS)
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/abnormal-uterine-bleeding/premenstrual-syndrome-pms
+============================================================
+
+在美国，约13%至18%的育龄期女性患有经前期综合征；约2%至6%的女性患有经前期综合征的严重类型，即经前期烦躁障碍（PMDD）（1）。全球范围内，女性PMS患病率的估计值在1%到50%之间，PMDD的估计值高达18%（2）。
+
+【参考文献】
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, 2022, pp 367-370.
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, 2022, pp 367-370.
+2.Carlini SV, Lanza di Scalea T, McNally ST, Lester J, Deligiannidis KM.Management of Premenstrual Dysphoric Disorder: A Scoping Review.Int J Womens Health.2022;14:1783-1801.Published 2022 Dec 21.doi:10.2147/IJWH.S297062
+2.Carlini SV, Lanza di Scalea T, McNally ST, Lester J, Deligiannidis KM.Management of Premenstrual Dysphoric Disorder: A Scoping Review.Int J Womens Health.2022;14:1783-1801.Published 2022 Dec 21.doi:10.2147/IJWH.S297062
+
+【PMS的病因】
+目前经前综合征的病因尚不明确。病理生理学是复杂的，涉及神经递质、神经类固醇和卵巢激素（1）。
+可能的病因或影响因素包括：
+多种内分泌因素引起（如低血糖、碳水化合物代谢的其他变化、高泌乳素血症、循环雌激素和孕激素水平波动、对雌激素和孕激素的反应异常、醛固酮或抗利尿激素[ADH]过多）。
+多种内分泌因素引起（如低血糖、碳水化合物代谢的其他变化、高泌乳素血症、循环雌激素和孕激素水平波动、对雌激素和孕激素的反应异常、醛固酮或抗利尿激素[ADH]过多）。
+与神经递质相关的症状（例如，涉及GABA能和血清素能系统）
+与神经递质相关的症状（例如，涉及GABA能和血清素能系统）
+遗传倾向
+遗传倾向
+可能肠道菌群发生变化（2）
+可能肠道菌群发生变化（2）
+镁和钙的不足
+镁和钙的不足
+与醛固酮或ADH过多一样，雌激素和孕激素可以引起暂时性的体液潴留。别孕烷酮，孕激素的代谢物，正在研究中（3）。
+5-羟色胺缺乏被认为是一个影响因素，因为最受PMS影响的女性其5-羟色胺水平较低，且选择性5-羟色胺再摄取抑制剂（SSRIs）可增加5-羟色胺水平，有时能缓解PMS症状。
+GABA神经递质对中枢神经系统具有抑制作用。
+正在研究一种过度的免疫炎症反应（4）。
+
+【病因参考文献】
+1.Rapkin AJ, Akopians AL.Pathophysiology of premenstrual syndrome and premenstrual dysphoric disorder.Menopause Int.2012;18(2):52-59.doi:10.1258/mi.2012.012014
+1.Rapkin AJ, Akopians AL.Pathophysiology of premenstrual syndrome and premenstrual dysphoric disorder.Menopause Int.2012;18(2):52-59.doi:10.1258/mi.2012.012014
+2.Takeda T, Yoshimi K, Kai S, Ozawa G, Yamada K, Hiramatsu K.Characteristics of the gut microbiota in women with premenstrual symptoms: A cross-sectional study.PLoS One.2022;17(5):e0268466.Published 2022 May 27.doi:10.1371/journal.pone.0268466
+2.Takeda T, Yoshimi K, Kai S, Ozawa G, Yamada K, Hiramatsu K.Characteristics of the gut microbiota in women with premenstrual symptoms: A cross-sectional study.PLoS One.2022;17(5):e0268466.Published 2022 May 27.doi:10.1371/journal.pone.0268466
+3.Modzelewski S, Oracz A, Żukow X, Iłendo K, Śledzikowka Z, Waszkiewicz N.Premenstrual syndrome: new insights into etiology and review of treatment methods.Front Psychiatry.2024;15:1363875.Published 2024 Apr 23.doi:10.3389/fpsyt.2024.1363875
+3.Modzelewski S, Oracz A, Żukow X, Iłendo K, Śledzikowka Z, Waszkiewicz N.Premenstrual syndrome: new insights into etiology and review of treatment methods.Front Psychiatry.2024;15:1363875.Published 2024 Apr 23.doi:10.3389/fpsyt.2024.1363875
+4.Tiranini L, Nappi RE.Recent advances in understanding/management of premenstrual dysphoric disorder/premenstrual syndrome.Fac Rev.2022;11:11.Published 2022 Apr 28.doi:10.12703/r/11-11
+4.Tiranini L, Nappi RE.Recent advances in understanding/management of premenstrual dysphoric disorder/premenstrual syndrome.Fac Rev.2022;11:11.Published 2022 Apr 28.doi:10.12703/r/11-11
+
+【PMS的症状和体征】
+PMS症状的类型和强度因女性和月经周期而异。症状通常在月经前5天开始，在月经开始后几小时内结束。在压力或围绝经期，症状可能会变得更严重。围绝经期妇女的症状可持续到月经后。
+最常见的经前期综合征（PMS）症状包括易怒、焦虑、激动、愤怒、失眠、注意力难以集中、头痛、倦怠、抑郁及明显疲乏。体液潴留造成水肿、暂时的体重增加和乳房胀痛。盆腔胀痛及背痛也可能发生。一些妇女，尤其是年轻的妇女在月经开始时有痛经。
+其他非特异性症状可能包括眩晕、四肢麻木、晕厥、心悸、便秘、恶心、呕吐以及食欲改变。痤疮和神经性皮炎也可能发生。
+当 PMS 症状出现时，先前存在的疾病可能会恶化。这些疾病包括：
+皮肤疾病（例如，痤疮、外阴瘙痒、色素沉着过度、丘疹性皮疹和特应性皮炎的加重）
+皮肤疾病（例如，痤疮、外阴瘙痒、色素沉着过度、丘疹性皮疹和特应性皮炎的加重）
+癫痫发作障碍（发作频率增加）
+癫痫发作障碍（发作频率增加）
+结缔组织疾病（例如，系统性红斑狼疮 [SLE，或狼疮]、类风湿性关节炎突然发作）
+结缔组织疾病（例如，系统性红斑狼疮 [SLE，或狼疮]、类风湿性关节炎突然发作）
+呼吸系统疾病（如过敏、感染）
+呼吸系统疾病（如过敏、感染）
+情绪障碍（如抑郁、焦虑）
+情绪障碍（如抑郁、焦虑）
+睡眠障碍（如失眠、嗜睡）
+睡眠障碍（如失眠、嗜睡）
+
+【经前烦躁障碍 (PMDD)】
+有些女性患有经前烦躁障碍（PMDD——参见抑郁症症状和体征下的经前烦躁障碍），这是一种严重的 PMS。对于PMDD患者，这些症状有规律地在月经的后半期发生，月经开始或开始后不久消失。患者有明显的抑郁，也有焦虑、易怒和情绪不稳。可能有自杀念头。对日常活动的兴趣明显下降。
+相较于PMS, PMDD引起的症状严重影响日常活动或整体功能。PMDD是一种非常令人痛苦、致残，且经常被漏诊的疾病。
+
+【经验与提示】
+经验与提示
+如果女性恰在月经开始前具有非特异但是严重的症状并且影响了她们的日常生活，那么考虑经前烦躁障碍。
+如果女性恰在月经开始前具有非特异但是严重的症状并且影响了她们的日常生活，那么考虑经前烦躁障碍。
+
+【经前综合症的诊断】
+对PMS，主要依靠患者主诉
+对PMS，主要依靠患者主诉
+有时抑郁量表
+有时抑郁量表
+对PMDD，临床标准
+对PMDD，临床标准
+根据身体症状诊断PMS（如腹胀、体重增加、乳房胀痛、手脚肿胀）。可以要求患者每天记录她们的症状。体格检查和实验室检测没有帮助。
+如果怀疑PMDD，应要求患者每天评分她们的症状，至少持续≥2个月经周期，以确定严重症状是否规律发生。
+患者经前一周的大部分时间里必须具有以下症状中的≥5个，且症状在经后缓解或消失，才能诊断为PMDD：症状必须包括以下≥1项：
+明显的情绪波动（如突然的悲伤）
+明显的情绪波动（如突然的悲伤）
+明显的易激惹、愤怒或人际冲突增加
+明显的易激惹、愤怒或人际冲突增加
+情绪明显压抑，感到无助或有自我贬低想法。
+情绪明显压抑，感到无助或有自我贬低想法。
+明显的焦虑、紧张，或烦躁不安感。
+明显的焦虑、紧张，或烦躁不安感。
+另外，具备≥1项下列表现：
+对日常活动缺乏兴趣，可能导致社交回避
+对日常活动缺乏兴趣，可能导致社交回避
+注意力集中困难
+注意力集中困难
+乏力或疲劳
+乏力或疲劳
+食欲明显变化、暴饮暴食或对特定食物的渴望
+食欲明显变化、暴饮暴食或对特定食物的渴望
+失眠或嗜睡
+失眠或嗜睡
+压倒感或失控感
+压倒感或失控感
+与PMS有关的躯体症状（如，乳房胀痛、水肿）
+与PMS有关的躯体症状（如，乳房胀痛、水肿）
+在之前的12个月的周期中的大部分时间里已经有了症状，症状严重到影响日常活动和功能的程度。
+使用抑郁症量表对有抑郁症状的患者进行评估，或将其转介给心理健康护理专业人员进行正式评估。
+
+【经前综合症的治疗】
+睡眠卫生、运动和健康饮食
+睡眠卫生、运动和健康饮食
+有时选择性5-羟色胺再摄取抑制剂（SSRIs）或激素药物
+有时选择性5-羟色胺再摄取抑制剂（SSRIs）或激素药物
+PMS治疗很难。没有证实哪一种单一疗法对所有女性都有效，并且很少有女性的症状从任何类型的单一治疗中完全缓解。因此，治疗需要试错和耐心。
+
+【一般措施】
+PMS的治疗针对症状进行，首先要有充分的休息和睡眠，进行有规律的锻炼以及相应的休闲活动。规律运动可帮助缓解腹胀、易激惹、焦虑和失眠。瑜伽可能有一定帮助。
+饮食习惯的改变——增加蛋白质、减少糖分、摄入复合碳水化合物、少食多餐——可能有助于缓解症状；同样，心理咨询、避免压力活动、放松训练、光疗、睡眠调整和认知行为治疗也可能改善症状。其他可选策略包括避免食用某些食物和饮料（例如可乐、咖啡、热狗、薯片、罐头食品），以及多吃其他食物（例如水果、蔬菜、牛奶、高纤维食物、低脂肉类、富含钙和维生素D的食物）。补钙（600mg，每天两次）可以减轻负面情绪和躯体症状。
+一些膳食补充剂对减轻症状有轻微的疗效；包括从贞洁树果实中提取的贞洁浆果提取物（似乎可以减轻身体症状）、维生素B6（每天不超过100毫克）和维生素E。
+如果情绪问题是一个主要问题，认知行为疗法可能会有所帮助，尤其对PMDD女性而言。生物反馈和引导性想象也可能有所帮助。心理治疗可以帮助女性学会更好地应对症状；减压和放松技巧以及冥想可以帮助缓解紧张和压力(1)。
+
+【药物治疗】
+非甾体抗炎药（NSAIDs）能够缓解酸痛、疼痛和痛经。
+选择性5-羟色胺再摄取抑制剂（SSRIs）已在随机对照试验中被证实可改善经前期综合征（PMS）和经前期烦躁障碍（PMDD）患者的情绪，并减轻乳房胀痛和食欲变化等身体症状（2）。选择性 5-羟色胺再摄取抑制剂（SSRIs）是缓解焦虑、易怒及其他心理症状的首选药物，尤其在无法避免应激因素时更为适用。没有哪一种特定的SSRI疗效优于其他同类药物。SSRIs 可持续服用，或仅在月经周期的黄体期（后 14 天）服用，亦可在黄体期后半段增加剂量。它们对严重的PMS和PMDD的影响是快速的（1，3）。
+全周期或半周期服用克罗米帕明可以有效缓解情绪症状，奈法佐酮和文拉法辛也是如此，文拉法辛是一种血清素去甲肾上腺素再摄取抑制剂（SNRI）。
+抗焦虑药是有用的，但是由于可能会产生依赖和成瘾而通常不建议使用。丁螺环酮，它可以在整个周期或在黄体期后期使用，有助于减轻经前综合症和PMDD的症状。副作用包括恶心，头痛，焦虑，头晕等。
+对某些女性来说，激素类药物是有效的。选择包括：
+雌激素-孕激素口服避孕药，可阻断性类固醇的排卵高峰；最有效的是屈螺酮和炔雌醇的组合，以及无激素间隔较短（4天而不是7天）的方案（4）
+雌激素-孕激素口服避孕药，可阻断性类固醇的排卵高峰；最有效的是屈螺酮和炔雌醇的组合，以及无激素间隔较短（4天而不是7天）的方案（4）
+孕酮阴道栓剂(200～400mg qd)
+孕酮阴道栓剂(200～400mg qd)
+月经前10～12天口服孕激素（如睡前服用微粒化黄体酮100 mg）
+月经前10～12天口服孕激素（如睡前服用微粒化黄体酮100 mg）
+长效孕激素（如甲羟孕酮200mg肌内注射，每2～3个月1次）
+长效孕激素（如甲羟孕酮200mg肌内注射，每2～3个月1次）
+正在研究的治疗方法包括醋酸乌利司他，一种选择性孕酮受体调节剂，以及度他雄胺，它可能调节孕酮和别孕烷酮的平衡（1）。
+使用口服避孕药避孕可以选择屈螺酮加炔雌醇。然而，第三代孕激素（如屈螺酮）可能会增加静脉血栓栓塞的风险。
+在症状非常严重或难治的少见情况时，可用促性腺激素释放激素激动剂（GnRH）（如，亮丙瑞林3.75mg im 或戈舍瑞林3.6mg 皮下注射，每月一次）加低剂量的雌/孕激素（如雌二醇0.5mg po qd 加睡前服用微粒化孕酮100mg），将激素周期性波动降到最低水平。
+在预期症状出现前，减少盐的摄入及使用利尿剂（如安体舒通，100mg口服，一次/天）有助于缓解体液潴留。尽管如此，把体液潴留程度减轻到最低程度并不能缓解所有的症状，有时甚至无效。
+
+【手术治疗】
+对于其他干预措施无效的重度经前烦躁症患者，双侧卵巢切除术可能会缓解症状，因为它消除了月经周期（5）。因此，建议使用更年期激素疗法直至约51岁（更年期的平均年龄）。
+
+【治疗参考文献】
+1.Tiranini L, Nappi RE.Recent advances in understanding/management of premenstrual dysphoric disorder/premenstrual syndrome.Fac Rev.2022;11:11.Published 2022 Apr 28.doi:10.12703/r/11-11
+1.Tiranini L, Nappi RE.Recent advances in understanding/management of premenstrual dysphoric disorder/premenstrual syndrome.Fac Rev.2022;11:11.Published 2022 Apr 28.doi:10.12703/r/11-11
+2.Shah NR, Jones JB, Aperi J, Shemtov R, Karne A, Borenstein J.Selective serotonin reuptake inhibitors for premenstrual syndrome and premenstrual dysphoric disorder: a meta-analysis.Obstet Gynecol.2008;111(5):1175-1182.doi:10.1097/AOG.0b013e31816fd73b
+2.Shah NR, Jones JB, Aperi J, Shemtov R, Karne A, Borenstein J.Selective serotonin reuptake inhibitors for premenstrual syndrome and premenstrual dysphoric disorder: a meta-analysis.Obstet Gynecol.2008;111(5):1175-1182.doi:10.1097/AOG.0b013e31816fd73b
+3.Marjoribanks J, Brown J, O'Brien PM, Wyatt K.Selective serotonin reuptake inhibitors for premenstrual syndrome.Cochrane Database Syst Rev.2013;2013(6):CD001396.Published 2013 Jun 7.doi:10.1002/14651858.CD001396.pub3
+3.Marjoribanks J, Brown J, O'Brien PM, Wyatt K.Selective serotonin reuptake inhibitors for premenstrual syndrome.Cochrane Database Syst Rev.2013;2013(6):CD001396.Published 2013 Jun 7.doi:10.1002/14651858.CD001396.pub3
+4.Lopez LM, Kaptein AA, Helmerhorst FM.Oral contraceptives containingdrospirenonefor premenstrual syndrome.Cochrane Database Syst Rev.2012;(2):CD006586.Published 2012 Feb 15.doi:10.1002/14651858.CD006586.pub4
+4.Lopez LM, Kaptein AA, Helmerhorst FM.Oral contraceptives containingdrospirenonefor premenstrual syndrome.Cochrane Database Syst Rev.2012;(2):CD006586.Published 2012 Feb 15.doi:10.1002/14651858.CD006586.pub4
+5.Reid RL.When should surgical treatment be considered for premenstrual dysphoric disorder?.Menopause Int.2012;18(2):77-81.doi:10.1258/mi.2012.012009
+5.Reid RL.When should surgical treatment be considered for premenstrual dysphoric disorder?.Menopause Int.2012;18(2):77-81.doi:10.1258/mi.2012.012009
+
+【经前综合征指南】
+以下是关于此医疗问题的专业医学协会或政府临床实践指南的列表（这并非完整列表）：
+American College of Obstetricians and Gynecologists (ACOG) Clinical Practice Guideline.Management of Premenstrual Disorders.2023.
+American College of Obstetricians and Gynecologists (ACOG) Clinical Practice Guideline.Management of Premenstrual Disorders.2023.
+经前期综合征（PMS）的症状是非特异性的，并且每个女性之间都有差异。
+经前期综合征（PMS）的症状是非特异性的，并且每个女性之间都有差异。
+仅根据症状诊断经前期综合征。
+仅根据症状诊断经前期综合征。
+如果症状严重且影响正常功能，需考虑经前烦躁障碍（PMDD），PMDD经常存在诊断不足的情况，并要求患者记录至少2个周期的症状；PMDD的确诊须符合临床标准。
+如果症状严重且影响正常功能，需考虑经前烦躁障碍（PMDD），PMDD经常存在诊断不足的情况，并要求患者记录至少2个周期的症状；PMDD的确诊须符合临床标准。
+通常，治疗需尝试不同的策略以决定什么方法能够帮助特定患者；首先从生活方式干预开始，然后尝试SSRIs或口服避孕药，有时是认知行为疗法。
+通常，治疗需尝试不同的策略以决定什么方法能够帮助特定患者；首先从生活方式干预开始，然后尝试SSRIs或口服避孕药，有时是认知行为疗法。
+症状严重的患者可选择GnRH激动剂和卵巢切除术。
+症状严重的患者可选择GnRH激动剂和卵巢切除术。

@@ -1,0 +1,86 @@
+标题：儿童阻塞性睡眠呼吸暂停
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/sleep-apnea/obstructive-sleep-apnea-osa-in-children
+============================================================
+
+(参见阻塞性睡眠呼吸暂停。)
+儿童阻塞性睡眠呼吸暂停的患病率约为2% (1)。该病诊断不足，并可导致严重的后遗症。
+
+【参考文献】
+1.Lumeng JC, Chervin RD: Epidemiology of pediatric obstructive sleep apnea.Proc Am Thorac Soc5(2):242–252, 2008.doi:10.1513/pats.200708-135MG
+1.Lumeng JC, Chervin RD: Epidemiology of pediatric obstructive sleep apnea.Proc Am Thorac Soc5(2):242–252, 2008.doi:10.1513/pats.200708-135MG
+
+【儿童 OSA 的病因】
+儿童阻塞性睡眠呼吸暂停的危险因素包括以下几点：
+肥胖（目前最常见的原因）
+肥胖（目前最常见的原因）
+扁桃体或腺样体肿大
+扁桃体或腺样体肿大
+过敏性鼻炎（即引起明显鼻塞）
+过敏性鼻炎（即引起明显鼻塞）
+颅面部畸形（如小颌畸形、后退颌，中面部发育不全，扁平颅底）
+颅面部畸形（如小颌畸形、后退颌，中面部发育不全，扁平颅底）
+某些药物（如镇静剂，阿片类药物）
+某些药物（如镇静剂，阿片类药物）
+黏多糖贮积病
+黏多糖贮积病
+引起肌张力减退或亢进的疾病（如唐氏综合征，脑性瘫痪，肌营养不良）
+引起肌张力减退或亢进的疾病（如唐氏综合征，脑性瘫痪，肌营养不良）
+可能的遗传因素（如先天性中枢性低通气障碍，可同时包括阻塞性和中枢性睡眠呼吸暂停，以及Prader-Willi综合征等）
+可能的遗传因素（如先天性中枢性低通气障碍，可同时包括阻塞性和中枢性睡眠呼吸暂停，以及Prader-Willi综合征等）
+
+【儿童 OSA 的症状和体征】
+在大多数患有OSA的儿童中，父母会注意到打鼾；然而，即使OSA很严重，也可能不会报告有打鼾。其他睡眠时的症状包括睡眠不安、盗汗及可观察到的窒息。患病儿童还可有遗尿症状。
+白天的体征和症状可能包括鼻塞、张口呼吸、早晨头痛、注意力不集中和多动（即作为困倦的表现）。 日间嗜睡的发生率低于成年OSA患者。
+
+【经验与提示】
+经验与提示
+与成年人相比，患有阻塞性睡眠呼吸暂停的儿童在醒来时嗜睡的情况较少。
+与成年人相比，患有阻塞性睡眠呼吸暂停的儿童在醒来时嗜睡的情况较少。
+OSA的并发症可能包括学习问题、行为问题、肺心病、肺动脉高压和生长障碍。
+检查可能表现为正常或仅有面部、鼻部或口部解剖异常而导致的气道堵塞，或肺动脉瓣区第二心音增高，或生长迟滞。
+
+【儿童OSA的诊断】
+配备血氧测定和呼气末二氧化碳监测的儿童友好型多导睡眠图
+配备血氧测定和呼气末二氧化碳监测的儿童友好型多导睡眠图
+有睡眠时打鼾或存在危险因素的儿童要考虑阻塞性睡眠呼吸暂停 (1)。如果存在OSA的症状，诊断测试应在睡眠实验室使用过夜多导睡眠监测进行，监测内容包括血氧测定和呼气末二氧化碳监测。多导睡眠图诊断标准（呼吸暂停低通气指数> 2/小时）低于成人。也可以使用家庭多导睡眠图检查，但成功获取准确数据的可能性较小。
+多导睡眠图证实了OSA的诊断，但诊断也要求儿童没有可以解释多导睡眠异常的心脏或肺部疾病。对多导睡眠监测过程中的睡眠分期和体位影响进行分析，有助于明确上气道阻塞的贡献程度。因此，多导睡眠图的结果可以帮助确定初始治疗（如扁桃体切除术、持续气道正压通气[CPAP]）。
+根据临床对合并症的怀疑，对OSA患者进行其他检查评估。其他检查可能包括心电图、胸部x光片、动脉血气测量和上呼吸道成像或鼻咽镜检查。
+
+【诊断参考文献】
+1.Gulotta G, Iannella G, Vicini C, et al: Risk factors for obstructive sleep apnea syndrome in children: state of the art.Int J Environ Res Public Health16(18):3235, 2019.doi:10.3390/ijerph16183235
+1.Gulotta G, Iannella G, Vicini C, et al: Risk factors for obstructive sleep apnea syndrome in children: state of the art.Int J Environ Res Public Health16(18):3235, 2019.doi:10.3390/ijerph16183235
+
+【儿童OSA的治疗】
+有时需要警惕等待
+有时需要警惕等待
+腺样体扁桃体切除术，或矫正先天性的小颌畸形
+腺样体扁桃体切除术，或矫正先天性的小颌畸形
+CPAP 和/或强化支持下的体重减轻
+CPAP 和/或强化支持下的体重减轻
+警惕等待对于患有轻度 OSA 但没有日间症状或多导睡眠图显示严重异常的健康儿童，长达 6 个月的治疗可能是合适的。
+腺样体扁桃体切除术通常对其他方面健康的，扁桃体和/或腺样体肥大的阻塞性睡眠呼吸暂停患儿有效。与观察等待相比，腺样体扁桃体切除术还可改善某些行为、生活质量和血压（1）。腺样体切除术通常效果不佳。患有OSA的儿童在接受腺样体扁桃体切除术时，发生围手术期气道梗阻的风险高于未患OSA的儿童；因此，密切监测至关重要。
+对于健康状况不佳的患儿，比如有复杂的解剖结构异常，或遗传因素引起呼吸控制异常，或伴发心肺综合征者，需要咨询对儿童OSA治疗非常有经验的医生。腺样体扁桃体切除术对这些患儿可能有效，或可缓解部分症状 (2)。基于造成OSA的解剖异常，需要进行相应的手术治疗（如悬雍垂腭咽成形术、舌部及中面部手术）。
+持续气道正压通气（CPAP）可应用于不宜行矫形手术的患儿或已行腺样体扁桃体切除术但仍有OSA的患儿 (3)。
+由于肥胖是儿童OSA的危险因素，因此减轻体重可以降低肥胖儿童OSA的严重程度，并带来其他健康益处，但长期作为单一疗法，很少能充分治疗OSA。
+夜间氧气补充可能有助于防止低氧血症的发生，直到完成最后的治疗 (4)。
+过敏性鼻炎的治疗应该是强化的。糖皮质激素和抗生素不是常规治疗策略。
+
+【治疗参考文献】
+1.Redline S, Cook K, Chervin RD, et al: Adenotonsillectomy for Snoring and Mild Sleep Apnea in Children: A Randomized Clinical Trial.JAMA330(21):2084–2095, 2023.doi:10.1001/jama.2023.22114
+1.Redline S, Cook K, Chervin RD, et al: Adenotonsillectomy for Snoring and Mild Sleep Apnea in Children: A Randomized Clinical Trial.JAMA330(21):2084–2095, 2023.doi:10.1001/jama.2023.22114
+2.Bitners AC, Arens R: Evaluation and management of children with obstructive sleep apnea syndrome.Lung198(2):257-270, 2020.doi:10.1007/s00408-020-00342-5
+2.Bitners AC, Arens R: Evaluation and management of children with obstructive sleep apnea syndrome.Lung198(2):257-270, 2020.doi:10.1007/s00408-020-00342-5
+3.Waters KA, Everett FM, Bruderer JW, Sullivan CE: Obstructive sleep apnea: the use of nasal CPAP in 80 children.Am J Respir Crit Care Med152(2):780–785, 1995.doi:10.1164/ajrccm.152.2.7633742
+3.Waters KA, Everett FM, Bruderer JW, Sullivan CE: Obstructive sleep apnea: the use of nasal CPAP in 80 children.Am J Respir Crit Care Med152(2):780–785, 1995.doi:10.1164/ajrccm.152.2.7633742
+4.Aljadeff G, Gozal D, Bailey-Wahl SL, Burrell B, Keens TG, Ward SL: Effects of overnight supplemental oxygen in obstructive sleep apnea in children.Am J Respir Crit Care Med153(1):51–55, 1996.doi:10.1164/ajrccm.153.1.8542162
+4.Aljadeff G, Gozal D, Bailey-Wahl SL, Burrell B, Keens TG, Ward SL: Effects of overnight supplemental oxygen in obstructive sleep apnea in children.Am J Respir Crit Care Med153(1):51–55, 1996.doi:10.1164/ajrccm.153.1.8542162
+儿童阻塞性睡眠呼吸暂停（OSA）的危险因素包括肥胖、扁桃体或腺样体肿大、解剖（包括颅面部）异常、遗传异常、药物，以及引起肌张力增高或减低的疾病。
+儿童阻塞性睡眠呼吸暂停（OSA）的危险因素包括肥胖、扁桃体或腺样体肿大、解剖（包括颅面部）异常、遗传异常、药物，以及引起肌张力增高或减低的疾病。
+学习和行为问题是潜在的严重并发症。
+学习和行为问题是潜在的严重并发症。
+根据护理人员确诊症状，多导睡眠监测的结果诊断儿童OSA。
+根据护理人员确诊症状，多导睡眠监测的结果诊断儿童OSA。
+矫正导致气道梗阻的解剖结构异常（例如，通过扁桃体切除术或小颌畸形校正）。
+矫正导致气道梗阻的解剖结构异常（例如，通过扁桃体切除术或小颌畸形校正）。
+如果手术无指征或不完全有效，考虑持续气道正压通气和/或减轻体重。
+如果手术无指征或不完全有效，考虑持续气道正压通气和/或减轻体重。

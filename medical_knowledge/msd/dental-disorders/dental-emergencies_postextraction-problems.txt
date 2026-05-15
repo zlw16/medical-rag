@@ -1,0 +1,36 @@
+标题：拔牙后的并发症
+来源：https://www.msdmanuals.cn/professional/dental-disorders/dental-emergencies/postextraction-problems
+============================================================
+
+拔牙后问题是牙科紧急情况的子集之一，需要立即治疗。这些问题包括
+疼痛和肿胀
+疼痛和肿胀
+颌骨坏死
+颌骨坏死
+
+【疼痛和肿胀】
+拔牙手术后肿胀是正常现象，肿胀程度与操作时间和创伤成正比。术后第一天需使用冰袋（或一塑料袋冰豌豆或玉米，与面部充分贴合）。每1或2小时进行25分钟的冰敷。如果肿胀在 3 天后持续或加剧，或者疼痛加剧，则应将患者转回牙医或外科医生处（1）。
+中度至重度手术后疼痛，应使用镇痛药治疗（见疼痛治疗）。
+拔牙后出血通常发生在小血管。牙槽窝外的血凝块应用纱布去除，然后在牙槽窝上放置4英寸的纱布垫（折叠后）或茶包（含有单宁酸）。患者咬纱布一小时以持续加压。该过程可能要重复2或3次。检查出血是否停止需要等待至少1小时，以免破坏血凝块形成。同时，需要告知患者，少量血液混合唾液后看上去比原有出血量更大。
+如果继续出血，可用2%利多卡因（含1：100000肾上腺素）行神经阻滞或局部浸润麻醉。牙槽窝需刮除原有血凝块，使周围为新鲜骨，并用生理盐水冲洗。然后在平缓张力下缝合。缝合前可在牙槽窝内放置局部止血剂，如氧化纤维素、明胶海绵上的外用凝血酶和微原纤维胶原。
+在大多数情况下，服用抗凝剂（如阿司匹林、氯吡格雷、华法林、直接作用口服抗凝剂）的患者不需要在牙科手术前停止治疗（2)。对于那些因合并症而出血风险增加的患者或正在接受更广泛手术的患者，建议咨询患者的医生抗血小板或抗凝剂给药的时间，或短暂中断24至48小时的治疗
+
+【拔牙后牙槽炎（干槽症）】
+拔牙后牙槽骨炎的疼痛从血凝块溶解的牙槽窝裸露骨面发出。 虽然这种情况是自限性的，但过程很痛苦，通常需要某种类型的干预。它在吸烟或使用口服避孕药的人中更为常见，主要发生在拔除下颌磨牙后（通常是智齿）。典型情况为，手术后第二或第三天开始疼痛，放射至耳部，持续时间由一周至数周。
+应用生理盐水冲洗套管（氯己定可仅用于清创）。为了缓解疼痛，可以涂抹局部麻醉凝胶或注射局部麻醉剂。缓解症状的另一种选择是将1- 2英寸的碘仿纱布条浸入丁香酚（一种镇痛药）或涂上麻醉软膏，如2.5%利多卡因或0.5%丁卡因，放入眼窝（3）。每隔1～3天更换一次纱布，直至纱布条祛除数小时后症状不再复发。最近，一种市售的对氨苯ding'zhi（麻醉剂）、丁香酚和碘仿（抗微生物剂）的混合物已变得更常用。尽管不可吸收，但几天后这种混合物会自发地排出拔牙窝。这些手术通常不需要全身止痛剂，但如果需要额外的止痛，也可以使用非甾体抗炎药(NSAIDs)。患者应在24小时内复诊。
+少见的骨髓炎, 易与干槽症相混淆，其鉴别点在于发热、局部触痛和肿胀。如果症状持续一个月，则应通过专门的牙科x光片或CT扫描寻找骨髓炎的诊断，即骨屑（即局部坏死骨）。骨髓炎需要长期使用对革兰氏阳性和革兰氏阴性菌均有效的抗生素治疗，并转诊给口腔外科医生进行监测和/或最终护理。
+X线片显示左下颌象限骨髓炎伴明显的骨骺（无活骨）（箭头）。
+Image courtesy of Byron (Pete) Benson, DDS, MS, Texas A&M University Baylor College of Dentistry.
+
+【颌骨坏死（ONJ）】
+颌骨坏死是一种持续性下颌骨或上颌骨暴露的口腔疾病，常表现为疼痛、牙齿松动和出现脓性分泌物。ONJ可发生于拔牙后，也可发生于损伤或后。
+药物相关的ONJ（MRONJ）是指使用抗骨吸收药物与ONJ之间发现的关联。这些药物包括抗吸收药物（例如双膦酸盐、地诺单抗）和抗血管生成药物（例如西罗莫司、贝伐单抗）。尽管临床病程与颌骨坏死相似，但MRONJ并不总是在拔牙或其他口腔手术之前发生。
+颌骨坏死的处理困难，需止痛、局部清创、使用抗生素和漱口。
+
+【参考文献】
+1.Lockhart PB, Tampi MP, Abt E, et al.Evidence-based clinical practice guideline on antibiotic use for the urgent management of pulpal- and periapical-related dental pain and intraoral swelling: A report from the American Dental Association.J Am Dent Assoc.2019;150(11):906-921.e12.doi:10.1016/j.adaj.2019.08.020
+1.Lockhart PB, Tampi MP, Abt E, et al.Evidence-based clinical practice guideline on antibiotic use for the urgent management of pulpal- and periapical-related dental pain and intraoral swelling: A report from the American Dental Association.J Am Dent Assoc.2019;150(11):906-921.e12.doi:10.1016/j.adaj.2019.08.020
+2.American Dental Association Library & Archives, Research Services and Scientific Information.Oral anticoagulant and antiplatelet medications and dental procedures.关键点Accessed November 1, 2024.
+2.American Dental Association Library & Archives, Research Services and Scientific Information.Oral anticoagulant and antiplatelet medications and dental procedures.关键点Accessed November 1, 2024.
+3.Daly BJ, Sharif MO, Jones K, Worthington HV, Beattie A.Local interventions for the management of alveolar osteitis (dry socket).Cochrane Database Syst Rev.2022;9(9):CD006968.Published 2022 Sep 26.doi:10.1002/14651858.CD006968.pub3
+3.Daly BJ, Sharif MO, Jones K, Worthington HV, Beattie A.Local interventions for the management of alveolar osteitis (dry socket).Cochrane Database Syst Rev.2022;9(9):CD006968.Published 2022 Sep 26.doi:10.1002/14651858.CD006968.pub3

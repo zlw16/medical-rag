@@ -1,0 +1,352 @@
+标题：精神分裂症
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/schizophrenia-and-related-disorders/schizophrenia
+============================================================
+
+精神病是指诸如妄想、幻觉、思维和言语紊乱以及怪异且不恰当的运动行为（包括紧张症）等症状，这些症状表明患者与现实失去联系。
+全世界范围内，精神分裂症的终生患病率约为 0.7%（1，2）。男女比例接近，且在不同文化中也相对恒定。都市生活，贫穷，童年创伤，疏忽和产前感染是危险因素，并且有遗传易感性。 该病始于青春期晚期，并持续一生，通常自始至终心理社会功能较差。
+女性平均发病年龄是20多岁到30多岁，30多岁会出现第二个诊断高峰(3,4)。在男性中，虽然平均发病年龄在20岁出头到25岁左右，但高达40%的男性在20岁之前就出现了第一次发作。童年期发病很少，可在青春早期或老年期（有时称为妄想症）发病。
+
+【参考文献】
+1.McGrath J, Saha S, Chant D, Welham J.Schizophrenia: a concise overview of incidence, prevalence, and mortality.Epidemiol Rev.2008;30:67-76.doi:10.1093/epirev/mxn001
+1.McGrath J, Saha S, Chant D, Welham J.Schizophrenia: a concise overview of incidence, prevalence, and mortality.Epidemiol Rev.2008;30:67-76.doi:10.1093/epirev/mxn001
+2.Keepers GA, Fochtmann LJ, Anzia JM, et al.The American Psychiatric Association Practice Guideline for the Treatment of Patients With Schizophrenia.Am J Psychiatry.2020;177(9):868-872.doi:10.1176/appi.ajp.2020.177901
+2.Keepers GA, Fochtmann LJ, Anzia JM, et al.The American Psychiatric Association Practice Guideline for the Treatment of Patients With Schizophrenia.Am J Psychiatry.2020;177(9):868-872.doi:10.1176/appi.ajp.2020.177901
+3.van der Werf M, Hanssen M, Köhler S, et al.Systematic review and collaborative recalculation of 133,693 incident cases of schizophrenia.Psychol Med.2014;44(1):9-16.doi:10.1017/S0033291712002796
+3.van der Werf M, Hanssen M, Köhler S, et al.Systematic review and collaborative recalculation of 133,693 incident cases of schizophrenia.Psychol Med.2014;44(1):9-16.doi:10.1017/S0033291712002796
+4.Ballageer T, Malla A, Manchanda R, Takhar J, Haricharan R.Is adolescent-onset first-episode psychosis different from adult onset?.J Am Acad Child Adolesc Psychiatry.2005;44(8):782-789.doi:10.1097/01.chi.0000164591.55942.ea
+4.Ballageer T, Malla A, Manchanda R, Takhar J, Haricharan R.Is adolescent-onset first-episode psychosis different from adult onset?.J Am Acad Child Adolesc Psychiatry.2005;44(8):782-789.doi:10.1097/01.chi.0000164591.55942.ea
+
+【精神分裂症的病因】
+尽管其具体原因和机制尚不清楚，但精神分裂症有生物学基础
+大脑结构的改变（如脑室扩大、皮质变薄、前海马及其他脑区体积缩小）
+大脑结构的改变（如脑室扩大、皮质变薄、前海马及其他脑区体积缩小）
+神经化学的变化，特别是多巴胺和谷氨酸递质标志物的活性改变
+神经化学的变化，特别是多巴胺和谷氨酸递质标志物的活性改变
+显著遗传性(60%-80%)，具有多重遗传和环境风险因素(1,2)
+显著遗传性(60%-80%)，具有多重遗传和环境风险因素(1,2)
+有学者提出，精神分裂症与神经发育易感性相关，其症状的发生、缓解及复发均源于上述长期存在的易感性与环境压力因素之间的交互作用。
+
+【神经发育易感性】
+尽管精神分裂症很少在儿童早期出现，但儿童时期的因素会影响成年期的疾病发作。这些因素包括
+遗传倾向
+遗传倾向
+孕期，出生或产后并发症
+孕期，出生或产后并发症
+病毒性中枢神经系统感染
+病毒性中枢神经系统感染
+童年的创伤和忽视
+童年的创伤和忽视
+尽管许多精神分裂症患者没有该病的家族史，但遗传因素与之密切相关。与一般人群相比，有一级亲属患有精神分裂症的人患此病的几率增加5至11倍（3）。同卵双胞胎患精神分裂症的一致率(另一双胞胎患病风险)为41%-79%(4)。全基因组关联研究显示，主要在神经元表达的多个兴奋性和抑制性基因存在关联(2)。
+多种家族性、产前和围产期因素与精神分裂症风险增加相关；保护性因素也有记载(5)。
+强风险因素（比值比≥2）包括：
+任何母系或父系精神病理学(母系精神病是最强的因素，比值比>7)
+任何母系或父系精神病理学(母系精神病是最强的因素，比值比>7)
+母体应激
+母体应激
+胎膜早破
+胎膜早破
+羊水过多
+羊水过多
+先天畸形
+先天畸形
+较弱但仍显著的风险因素(比值比>1但<2)包括：
+母亲年龄<20岁或30至34岁
+母亲年龄<20岁或30至34岁
+父亲年龄 < 20 或 > 35 岁
+父亲年龄 < 20 或 > 35 岁
+经产妇（妊娠≥3次）
+经产妇（妊娠≥3次）
+母体高血压
+母体高血压
+母体感染(包括单纯疱疹病毒2型)
+母体感染(包括单纯疱疹病毒2型)
+产前护理欠佳
+产前护理欠佳
+怀孕期间饥荒或营养不良
+怀孕期间饥荒或营养不良
+在北半球冬季或早春出生
+在北半球冬季或早春出生
+围产期缺氧及其他产科并发症
+围产期缺氧及其他产科并发症
+出生体重＜3公斤、身长＜49厘米或小于胎龄儿
+出生体重＜3公斤、身长＜49厘米或小于胎龄儿
+保护性因素（比值比＜1）包括：
+母亲年龄 20 至 24 岁或 25 至 29 岁
+母亲年龄 20 至 24 岁或 25 至 29 岁
+出生体重≥3.5公斤
+出生体重≥3.5公斤
+神经生物学和神经精神学检测提示，精神分裂症患者中异常的平稳追踪眼动、认知和注意力受损以及感觉门控缺陷的发生比普通人群更常见 (6)。这些发现也可出现在精神分裂症患者的一级亲属中，实际上在许多其他精神病性障碍患者中也会出现，可能代表了遗传易感性成分。这些发现在精神病性障碍中的共性表明，我们常规的诊断分类并未反映出精神病之间潜在的生物学差异。
+
+【环境应激源】
+环境应激源可以诱发易感者出现精神病症状或者复发。应激原可能主要是药物相关（如物质使用，特别是大麻）（7）或与社会因素相关（如失业或贫穷、离家上大学、恋爱关系破裂、参军）。越来越多的证据表明环境事件可以引发表观遗传改变，从而影响基因转录和疾病发作 (8)。
+可能减轻应激对症状形成或加重影响的保护因素包括强大的社会心理支持、良好的应对技能以及抗精神病药物。
+
+【病因参考文献】
+1.Schizophrenia Working Group of the Psychiatric Genomics Consortium.Biological insights from 108 schizophrenia-associated genetic loci.Nature.511(7510):421-427, 2014.doi: 10.1038/nature13595
+1.Schizophrenia Working Group of the Psychiatric Genomics Consortium.Biological insights from 108 schizophrenia-associated genetic loci.Nature.511(7510):421-427, 2014.doi: 10.1038/nature13595
+2.Trubetskoy V, Pardiñas AF, Qi T, et al.Mapping genomic loci implicates genes and synaptic biology in schizophrenia.Nature.2022;604(7906):502-508.doi:10.1038/s41586-022-04434-5
+2.Trubetskoy V, Pardiñas AF, Qi T, et al.Mapping genomic loci implicates genes and synaptic biology in schizophrenia.Nature.2022;604(7906):502-508.doi:10.1038/s41586-022-04434-5
+3.Huang J, Perlis RH, Lee PH, et al.Cross-disorder genomewide analysis of schizophrenia, bipolar disorder, and depression.Am J Psychiatry.2010;167(10):1254-1263.doi:10.1176/appi.ajp.2010.09091335
+3.Huang J, Perlis RH, Lee PH, et al.Cross-disorder genomewide analysis of schizophrenia, bipolar disorder, and depression.Am J Psychiatry.2010;167(10):1254-1263.doi:10.1176/appi.ajp.2010.09091335
+4.Stern S, Zhang L, Wang M, et al.Monozygotic twins discordant for schizophrenia differ in maturation and synaptic transmission.Mol Psychiatry.2024;29(10):3208-3222.doi:10.1038/s41380-024-02561-1
+4.Stern S, Zhang L, Wang M, et al.Monozygotic twins discordant for schizophrenia differ in maturation and synaptic transmission.Mol Psychiatry.2024;29(10):3208-3222.doi:10.1038/s41380-024-02561-1
+5.Davies C, Segre G, Estradé A, et al.Prenatal and perinatal risk and protective factors for psychosis: a systematic review and meta-analysis.Lancet Psychiatry.2020 May;7(5):399-410.doi: 10.1016/S2215-0366(20)30057-2
+5.Davies C, Segre G, Estradé A, et al.Prenatal and perinatal risk and protective factors for psychosis: a systematic review and meta-analysis.Lancet Psychiatry.2020 May;7(5):399-410.doi: 10.1016/S2215-0366(20)30057-2
+6.Keshavan MS, Tandon R, Boutros NN, Nasrallah HA.Schizophrenia, "just the facts": what we know in 2008 Part 3: neurobiology.Schizophr Res.2008;106(2-3):89-107.doi:10.1016/j.schres.2008.07.020
+6.Keshavan MS, Tandon R, Boutros NN, Nasrallah HA.Schizophrenia, "just the facts": what we know in 2008 Part 3: neurobiology.Schizophr Res.2008;106(2-3):89-107.doi:10.1016/j.schres.2008.07.020
+7.D'Souza DC, DiForti M, Ganesh S, et al.Consensus paper of the WFSBP task force on cannabis, cannabinoids and psychosis.World J Biol Psychiatry.2022;23(10):719-742.doi:10.1080/15622975.2022.2038797
+7.D'Souza DC, DiForti M, Ganesh S, et al.Consensus paper of the WFSBP task force on cannabis, cannabinoids and psychosis.World J Biol Psychiatry.2022;23(10):719-742.doi:10.1080/15622975.2022.2038797
+8.Smigielski L, Jagannath V, Rössler W, et al.Epigenetic mechanisms in schizophrenia and other psychotic disorders: a systematic review of empirical human findings.Mol Psychiatry.2020;25(8):1718-1748.doi:10.1038/s41380-019-0601-3
+8.Smigielski L, Jagannath V, Rössler W, et al.Epigenetic mechanisms in schizophrenia and other psychotic disorders: a systematic review of empirical human findings.Mol Psychiatry.2020;25(8):1718-1748.doi:10.1038/s41380-019-0601-3
+
+【精神分裂症的症状和体征】
+精神分裂症是一种慢性疾病，其进展有几个阶段，尽管各个阶段持续的时间和模式不同。精神分裂症患者在就诊前往往已经出现精神病症状数月甚至数年。
+精神分裂症症状通常会损害患者执行复杂和困难的认知和运动功能的能力;因此，症状往往明显干扰工作、社会关系和自我照顾。失业、社交孤立、人际关系负面影响以及生活质量下降是常见的结果。
+
+【精神分裂症的分期】
+在病前阶段，个体可能无任何症状，或存在社会能力受损、轻度认知紊乱或感知扭曲、体验快乐的能力下降（快感缺失）以及其他一般性应对缺陷。这些前兆症状可能很轻微，只有在回顾时才发现；也可以很明显，存在社会、学业和职业功能受损。
+在前驱期，可能出现亚临床症状，包括退缩或孤立、易激惹、多疑、异常思维、感知扭曲及思维混乱等（1）。明显的精神分裂症（妄想和幻觉）发作可以突然出现（几天内或者几周），也可以是缓慢、隐匿的（几年内）。但是，即使在晚期前驱期，也只有一小部分具有亚临床症状的患者（20至40%）倾向于转变为完全精神分裂症（2, 3）。
+在精神病早期, 症状很活跃，往往是最严重的。
+在疾病中期，症状可以是发作性的（有着明显的加剧或缓解），也可以是持续的；功能损害加重。
+疾病晚期，疾病模式可能已经固定，但有相当大的可变性，功能损害可以变得稳定、恶化甚至减轻。
+
+【精神分裂症的症状分类】
+通常，症状分类如下：
+思维和言语混乱
+思维和言语混乱
+运动行为紊乱（包括紧张症）
+运动行为紊乱（包括紧张症）
+阴性症状：正常功能和情感的减退或丧失
+阴性症状：正常功能和情感的减退或丧失
+认知功能障碍：表现为记忆、信息处理和解决问题能力的缺陷
+认知功能障碍：表现为记忆、信息处理和解决问题能力的缺陷
+妄想是即使存在相反证据仍坚信不疑的错误信念。 妄想有几种不同类型：
+迫害妄想：患者认为自己正遭受折磨、被跟踪、被欺骗或被监视。
+迫害妄想：患者认为自己正遭受折磨、被跟踪、被欺骗或被监视。
+关系妄想：患者认为书籍、报纸、歌词或其他环境线索中的内容都是针对他们的。
+关系妄想：患者认为书籍、报纸、歌词或其他环境线索中的内容都是针对他们的。
+思维被撤走或被插入妄想：患者认为他人能读懂自己的思想，自己的思维正被传递给他人，或思维和冲动正被外界力量强加于自己
+思维被撤走或被插入妄想：患者认为他人能读懂自己的思想，自己的思维正被传递给他人，或思维和冲动正被外界力量强加于自己
+精神分裂症中的妄想往往是很奇怪的 - 显然是不可信，并不能从日常的生活经验获得（例如，他们相信有人在没有留下疤痕的情况下取走了他们的内脏）。
+幻觉是他人无法感受到的感知。它们可能是听觉、视觉、嗅觉、味觉或触觉，但幻听是最常见的。病人听到有声音在评论他的行为，互相交谈，或者是批评、辱骂的评论。妄想和幻觉可能令患者极其苦恼。
+思维紊乱表现为思维散漫、言谈无特定主题、话题不断地变换。言语可以从轻度的混乱到不连贯甚至令人无法理解。
+紊乱行为可表现为孩子般的傻笑、躁动不安，以及不适当的外表、个人卫生或举止。紧张症是怪异行为的极端例子，可表现为保持僵硬姿势、抗拒被移动的企图，或进行无目的且无刺激的运动行为。
+阴性（缺陷）症状包括
+情感迟钝：患者面部表情呆板、眼神接触减少且缺乏表现力。
+情感迟钝：患者面部表情呆板、眼神接触减少且缺乏表现力。
+语言贫乏（言语贫乏）：患者很少说话，回答问题也很简洁，给人一种内心空虚的印象
+语言贫乏（言语贫乏）：患者很少说话，回答问题也很简洁，给人一种内心空虚的印象
+快感缺失：表现为对活动缺乏兴趣，同时无目的性活动增多。
+快感缺失：表现为对活动缺乏兴趣，同时无目的性活动增多。
+社交冷漠：表现为对人际关系缺乏兴趣。
+社交冷漠：表现为对人际关系缺乏兴趣。
+意志缺乏：表现为动机缺失和目标导向活动欲望减退。
+意志缺乏：表现为动机缺失和目标导向活动欲望减退。
+阴性症状常导致动机不足，目的感和目标感减弱。
+认知缺陷 包括以下方面：
+处理速度
+处理速度
+工作记忆和陈述记忆
+工作记忆和陈述记忆
+抽象思维
+抽象思维
+问题解决
+问题解决
+对社会互动的理解
+对社会互动的理解
+患者的思维僵化，其问题解决能力、理解他人观点的能力以及从经验中学习的能力下降。认知功能损害的严重程度是整体功能残疾的一个主要决定因素。
+
+【精神分裂症的亚型】
+部分专家根据是否存在阴性症状及其严重程度，如情感迟钝、意志缺乏、动机下降等，把精神分裂症划分为缺陷型和非缺陷型两种 (4)。
+缺陷型的 患者其严重的阴性症状不是由其他因素导致（如抑郁、焦虑、毫无刺激的环境，药物不良反应）。
+非缺陷型的患者存在妄想，幻觉和思维障碍，阴性症状相对较少。
+原先的精神分裂症亚型（偏执、瓦解、紧张、残留、未分化）都没有证明有效或可靠已经不再使用。
+
+【自杀风险】
+大约4%至10%的精神分裂症患者死于自杀（5），约35%尝试自杀；更多的人有显著的自杀意念（6）。自杀是精神分裂症病人过早死亡的主要原因，也部分说明了为何该病患者的平均寿命缩短约15年（7）。
+合并物质使用障碍的年轻男性精神分裂症患者自杀风险可能尤其高。存在抑郁症状或绝望感、失业，或刚经历精神病性发作或刚出院的患者，自杀风险也会增加。
+起病晚且病前功能良好的患者 —— 即恢复预后最好的患者 —— 自杀风险也最高。由于这些患者保留了悲伤和痛苦的能力，当他们现实地认识到该病对自己的影响时，更容易在绝望中自杀。
+
+【暴力风险】
+令人惊讶的是，精神分裂症是暴力行为的中度危险因素。威胁要采取暴力行为以及爆发的攻击行为远比严重的危险行为更常见。确实，精神分裂症患者的暴力行为总体上比没有精神分裂症的患者少。
+更可能实施严重暴力的患者包括那些合并物质使用障碍、存在被害妄想或命令性幻觉，以及未按医嘱服药的患者。 严重抑郁、孤立、偏执的病人会去攻击或杀死他认为的引起自己困境的人（如上级、名人、配偶），但是这种情况少见。
+
+【症状参考文献】
+1.Tsuang MT, Van Os J, Tandon R, et al: Attenuated psychosis syndrome in DSM-5.Schizophr Res.150(1):31–35, 2013.doi: 10.1016/j.schres.2013.05.004
+1.Tsuang MT, Van Os J, Tandon R, et al: Attenuated psychosis syndrome in DSM-5.Schizophr Res.150(1):31–35, 2013.doi: 10.1016/j.schres.2013.05.004
+2.Brucato G, Masucci MD, Arndt LY, et al.Baseline demographics, clinical features and predictors of conversion among 200 individuals in a longitudinal prospective psychosis-risk cohort.Psychol Med.2017;47(11):1923-1935.doi:10.1017/S0033291717000319
+2.Brucato G, Masucci MD, Arndt LY, et al.Baseline demographics, clinical features and predictors of conversion among 200 individuals in a longitudinal prospective psychosis-risk cohort.Psychol Med.2017;47(11):1923-1935.doi:10.1017/S0033291717000319
+3.Raballo A, Poletti M, Preti A, et al.Clinical high risk for psychosis in children and adolescents: A meta-analysis of transition prevalences.Schizophr Res.2022;243:254-261.doi:10.1016/j.schres.2020.03.063
+3.Raballo A, Poletti M, Preti A, et al.Clinical high risk for psychosis in children and adolescents: A meta-analysis of transition prevalences.Schizophr Res.2022;243:254-261.doi:10.1016/j.schres.2020.03.063
+4.Carpenter WT Jr, Heinrichs DW, Wagman AM.Deficit and nondeficit forms of schizophrenia: the concept.Am J Psychiatry.1988;145(5):578-583.doi:10.1176/ajp.145.5.578
+4.Carpenter WT Jr, Heinrichs DW, Wagman AM.Deficit and nondeficit forms of schizophrenia: the concept.Am J Psychiatry.1988;145(5):578-583.doi:10.1176/ajp.145.5.578
+5.Keepers GA, Fochtmann LJ, Anzia JM, et al.The American Psychiatric Association Practice Guideline for the Treatment of Patients With Schizophrenia.Am J Psychiatry.2020 Sep 1;177(9):868-872.doi: 10.1176/appi.ajp.2020.177901
+5.Keepers GA, Fochtmann LJ, Anzia JM, et al.The American Psychiatric Association Practice Guideline for the Treatment of Patients With Schizophrenia.Am J Psychiatry.2020 Sep 1;177(9):868-872.doi: 10.1176/appi.ajp.2020.177901
+6.Lieberman JA, First MB.Psychotic Disorders.N Engl J Med.2018 Jul 19;379(3):270-280.doi: 10.1056/NEJMra1801490
+6.Lieberman JA, First MB.Psychotic Disorders.N Engl J Med.2018 Jul 19;379(3):270-280.doi: 10.1056/NEJMra1801490
+7.Hjorthøj C, Stürup AE, McGrath JJ, et al.Years of potential life lost and life expectancy in schizophrenia: a systematic review and meta-analysis.Lancet Psychiatry.2017 Apr;4(4):295-301.doi: 10.1016/S2215-0366(17)30078-0.Epub 2017 Feb 22.Erratum in:Lancet Psychiatry.2017 Sep;4(9):e19.doi: 10.1016/S2215-0366(17)30326-7
+7.Hjorthøj C, Stürup AE, McGrath JJ, et al.Years of potential life lost and life expectancy in schizophrenia: a systematic review and meta-analysis.Lancet Psychiatry.2017 Apr;4(4):295-301.doi: 10.1016/S2215-0366(17)30078-0.Epub 2017 Feb 22.Erratum in:Lancet Psychiatry.2017 Sep;4(9):e19.doi: 10.1016/S2215-0366(17)30326-7
+
+【精神分裂症的诊断】
+《精神障碍诊断与统计手册》第 5 版，文本修订版(DSM-5-TR) 标准(1)
+《精神障碍诊断与统计手册》第 5 版，文本修订版(DSM-5-TR) 标准(1)
+一般医学评估以排除其他病因
+一般医学评估以排除其他病因
+疾病过程中越早诊断和治疗，预后越好（2）。
+精神分裂症没有明确的实验室或影像学检查。诊断要根据对病史、症状和体征进行完整的评估。从间接途径，如家人、朋友、老师、同事等获得的信息通常很重要。
+根据 DSM-5-TR，诊断精神分裂症需具备以下所有条件：
+特征性症状：≥2 个特征性症状（妄想、幻觉、言语混乱、行为混乱、阴性症状）至少持续 1 个月（症状必须至少包括以下其中 1 个：妄想、幻觉或言语混乱）
+特征性症状：≥2 个特征性症状（妄想、幻觉、言语混乱、行为混乱、阴性症状）至少持续 1 个月（症状必须至少包括以下其中 1 个：妄想、幻觉或言语混乱）
+社交/职业功能障碍：自我照料、社交或职业功能较病前显著下降（或未能达到预期功能水平）。
+社交/职业功能障碍：自我照料、社交或职业功能较病前显著下降（或未能达到预期功能水平）。
+病程：症状持续至少6个月。
+病程：症状持续至少6个月。
+
+【鉴别诊断】
+必须通过病史采集和体格检查（包括实验室检查和神经影像学检查）来排除其他躯体疾病导致的精神病或物质使用障碍（见精神症状的医学评估）。尽管有些精神分裂症患者在影像上存在大脑结构的异常，但并没有特异的诊断学价值。
+具有类似症状的其他精神障碍包括几种与精神分裂症相关的疾病，其程度、时间过程和相关症状各不相同：
+妄想障碍
+妄想障碍
+短暂精神病性障碍
+短暂精神病性障碍
+精神分裂样障碍
+精神分裂样障碍
+分裂情感性障碍
+分裂情感性障碍
+分裂型人格障碍
+分裂型人格障碍
+此外，情绪障碍（即重度抑郁症、双相情感障碍）和自闭症谱系障碍可能与某些人的精神病有关。
+神经心理学测试，脑成像，脑电图和其他脑功能测试（例如眼动追踪）无助于区分主要的精神病性疾病。然而，早期研究（3）表明，此类测试结果可用于将精神病患者分为3种不同的生物型，这些类型与当前的临床诊断分类并不对应。
+某些人格障碍（特别是分裂型）也表现出与精神分裂症类似的症状，尽管其严重程度通常比较轻，也不是真正的精神病。
+
+【诊断参考】
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, 2022, pp pp 114-122.
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, 2022, pp pp 114-122.
+2.Larsen TK, Melle I, Auestad B, Haahr U, Joa I, Johannessen JO, Opjordsmoen S, Rund BR, Rossberg JI, Simonsen E, Vaglum P, Friis S, McGlashan T.Early detection of psychosis: positive effects on 5-year outcome.Psychol Med.2011 Jul;41(7):1461-9.doi: 10.1017/S0033291710002023
+2.Larsen TK, Melle I, Auestad B, Haahr U, Joa I, Johannessen JO, Opjordsmoen S, Rund BR, Rossberg JI, Simonsen E, Vaglum P, Friis S, McGlashan T.Early detection of psychosis: positive effects on 5-year outcome.Psychol Med.2011 Jul;41(7):1461-9.doi: 10.1017/S0033291710002023
+3.Clementz BA, Sweeney JA, Hamm JP, et al: Identification of distinct psychosis biotypes using brain-based biomarkers.Am J Psychiatry.173(4):373-384, 2016.doi: 10.1176/appi.ajp.2015.14091200
+3.Clementz BA, Sweeney JA, Hamm JP, et al: Identification of distinct psychosis biotypes using brain-based biomarkers.Am J Psychiatry.173(4):373-384, 2016.doi: 10.1176/appi.ajp.2015.14091200
+
+【精神分裂症的治疗】
+抗精神病药物
+抗精神病药物
+康复，包括认知补救、社区培训和支持服务
+康复，包括认知补救、社区培训和支持服务
+以韧性训练为导向的心理治疗
+以韧性训练为导向的心理治疗
+协调专科治疗
+协调专科治疗
+精神症状出现和首次治疗的时间间隔与治疗起效快慢、疗效有关。如果及早治疗，患者的反应会更快、更充分。如首次发作后没有使用抗精神病药巩固治疗，65％到80％的患者在1年内会有第2次发作。持续使用抗精神病药物可将 1 年复发率降至约 30% 或更低，长效药物效果更显著 (1, 2)。第一次发作后药物治疗应至少持续1到2年。如果患者的病程已有多年，则持续更长时间。
+早期发现和多方面治疗已经改变了对精神分裂症等精神病患者的护理。协调专科治疗是促进社会心理康复的重要干预手段，其内容包括团队协作式照护、韧性训练、个人与家庭治疗、认知功能障碍干预以及支持性就业服务（3）。
+精神分裂症治疗的总体目标是
+减轻精神病性症状的严重程度
+减轻精神病性症状的严重程度
+维持社会心理功能
+维持社会心理功能
+预防复发和相关功能受损
+预防复发和相关功能受损
+减少消遣性药物的使用
+减少消遣性药物的使用
+抗精神病药、社区支持下的康复和心理治疗是主要的治疗手段 (3)。由于精神分裂症是长期的复发性疾病，教会患者疾病自我管理技能是一个非常重要的目标。向年轻患者的父母提供有关疾病的信息(心理教育)可降低复发率 (4, 5)。(参见《美国精神病学协会精神分裂症患者治疗实践指南》第 3 版)
+根据特定的神经递质受体亲和力和活性，抗精神病药物分为第一代抗精神病药和第二代抗精神病药。第二代抗精神病药物可能具有一定优势，其疗效略微优于传统药物（尽管最新证据对第二代抗精神病药物作为一个药物类别所具有的优势提出了质疑），而且减少了不自主运动障碍及相关不良反应的概率。但第二代抗精神病药物的代谢综合征（腹部脂肪过多、胰岛素抵抗、血脂异常和高血压）的风险高于第一代（或传统）抗精神病药物。两类抗精神病药物中都存在可能会导致长QT综合征的药物，并最终增加致命性心律失常的风险，这些药物包括硫利达嗪，氟哌啶醇，奥氮平，利培酮和齐拉西酮。
+美国精神医学学会专门推荐氯氮平用于治疗耐药性精神分裂症，或者那些自杀和攻击性风险增加的患者。长效注射剂是部分患者的选择。所有抗精神病药物的使用都应监测其疗效和副作用。副作用，包括肌张力障碍、帕金森综合征、静坐不能和严重的迟发性运动障碍，可以通过调整抗精神病方案或在某些情况下使用药物来治疗（6）。
+
+【康复和社区支持服务】
+社会心理技能训练和职业康复项目帮助很多患者工作、购物和照顾自己；料理家务；与他人相处以及配合医疗人员治疗。
+支持性就业模式对患者可能特别有价值，即让患者进入竞争性工作环境，并配备现场就业教练以促进其适应工作。随着时间推移，就业教练仅在解决问题或与雇主沟通时作为后备支持。
+支持服务帮助很多精神分裂症患者在社区中生活。尽管大多数人能够独立生活，但有些人需要住在有监督的公寓里，在那里有工作人员在场以确保他们遵循治疗方案。项目根据不同的居住场所提供不同水平的监督服务，从24小时支持到定期家访。这些项目帮助提高病人的独立自主性，同时又提供给他们足够的照顾以把复发的可能性和住院需求降到最低。主动社区治疗项目在患者家中或其他住所提供服务，基于高医护人员与患者比例；治疗团队直接提供全部或几乎全部所需的治疗服务。
+严重复发期间可能需要住院治疗或医院替代机构的危机护理，若患者对自身或他人构成危险，可能需要非自愿住院。即便有最好的康复和社区支持服务，一小部分患者，特别是有严重认知功能障碍和药物治疗无效者，还是需要长期在精神病院或其他机构接受治疗或需要其他的支持性照顾 (6)。
+认知补救疗法（cognitive remediation therapy）有助于某些患者。该疗法旨在改善神经认知功能（如，注意力、工作记忆、执行功能、社会认知），并帮助患者学习或重新学习如何完成任务。这种治疗可能使患者功能改善。
+药物滥用是许多精神分裂症患者的一个严重问题。有证据表明，使用大麻或迷幻药对精神分裂症患者具有高度破坏性，如果使用了，应严厉劝阻患者并积极治疗。合并物质滥用是预后差的重要预测因素，而且可以导致服药依从性差、反复复发、经常住院、功能下降、缺乏社会支持甚至无家可归 (7)。
+
+【心理治疗】
+精神分裂症心理治疗的目标是在患者、家庭成员和医生之间建立协作关系，以便患者能够学会管理自己的疾病，按照规定服用药物，并更有效地处理压力。
+尽管个体心理治疗联合药物治疗是常见方法，但实证指南较少。从解决患者基本社会服务需求入手，提供支持和关于疾病本质的教育，促进适应性活动，且基于同理心和对精神分裂症合理的动力学理解的心理治疗，可能最有效。很多患者需要共情和心理支持来适应这个持续一生且使功能严重受限的疾病。
+在个体心理治疗的方法中，针对精神分裂症的认知行为治疗已有显著发展。这种疗法可以在个人或团体环境中进行，可以专注于减少妄想、幻觉和负面症状的方法。
+对于与家人生活在一起的病人，心理教育性的家庭干预能降低复发的概率。支持和倡导团体，如美国心理疾病联盟,常常会对家庭有帮助。
+
+【疾病进展】
+确诊后第一年内的预后情况与患者服用处方精神药物的依从性及避免使用非法药物密切相关。
+症状出现后的前5年，患者的功能会恶化，社会和工作能力下降并疏于对自己的料理。阴性症状会逐渐加重，认知功能下降。此后，功能残疾的水平趋于稳定。疾病严重程度可能在晚年减轻，尤其女性患者(8)。有严重阴性症状和认知功能缺损的病人会出现自主运动功能障碍，即便没有应用抗精神病药。
+
+【治疗参考文献】
+1.Marder SR, Cannon TD.精神分裂症。N Engl J Med.2019 Oct 31;381(18):1753-1761.doi: 10.1056/NEJMra1808803
+1.Marder SR, Cannon TD.精神分裂症。N Engl J Med.2019 Oct 31;381(18):1753-1761.doi: 10.1056/NEJMra1808803
+2.Zipursky RB, Menezes NM, Streiner DL.Risk of symptom recurrence with medication discontinuation in first-episode psychosis: a systematic review.Schizophr Res.2014 Feb;152(2-3):408-14.doi: 10.1016/j.schres.2013.08.001
+2.Zipursky RB, Menezes NM, Streiner DL.Risk of symptom recurrence with medication discontinuation in first-episode psychosis: a systematic review.Schizophr Res.2014 Feb;152(2-3):408-14.doi: 10.1016/j.schres.2013.08.001
+3.Keepers GA, Fochtmann LJ, Anzia JM, et al.The American Psychiatric Association Practice Guideline for the Treatment of Patients With Schizophrenia.Am J Psychiatry.2020 Sep 1;177(9):868-872.doi: 10.1176/appi.ajp.2020.177901
+3.Keepers GA, Fochtmann LJ, Anzia JM, et al.The American Psychiatric Association Practice Guideline for the Treatment of Patients With Schizophrenia.Am J Psychiatry.2020 Sep 1;177(9):868-872.doi: 10.1176/appi.ajp.2020.177901
+4.Correll CU, Rubio JM, Inczedy-Farkas G, et al.Efficacy of 42 pharmacologic cotreatment strategies added to antipsychotic monotherapy in schizophrenia: Systematic overview and quality appraisal of the meta-analytic evidence.JAMA Psychiatry74(7):675-684, 2017.doi: 10.1001/jamapsychiatry.2017.0624
+4.Correll CU, Rubio JM, Inczedy-Farkas G, et al.Efficacy of 42 pharmacologic cotreatment strategies added to antipsychotic monotherapy in schizophrenia: Systematic overview and quality appraisal of the meta-analytic evidence.JAMA Psychiatry74(7):675-684, 2017.doi: 10.1001/jamapsychiatry.2017.0624
+5.Wang SM, Han C, Lee SJ.Investigational dopamine antagonists for the treatment of schizophrenia.Expert Opin Investig Drugs26(6):687-698, 2017. doi: 10.1080/13543784.2017.1323870
+5.Wang SM, Han C, Lee SJ.Investigational dopamine antagonists for the treatment of schizophrenia.Expert Opin Investig Drugs26(6):687-698, 2017. doi: 10.1080/13543784.2017.1323870
+6.Uggerby P, Nielsen RE, Correll CU, et al.Characteristics and predictors of long-term institutionalization in patients with schizophrenia.Schizophr Res.2011 Sep;131(1-3):120-6.doi: 10.1016/j.schres.2011.03.001
+6.Uggerby P, Nielsen RE, Correll CU, et al.Characteristics and predictors of long-term institutionalization in patients with schizophrenia.Schizophr Res.2011 Sep;131(1-3):120-6.doi: 10.1016/j.schres.2011.03.001
+7.Patel R, Chan KMY, Palmer EOC, et al.Associations of comorbid substance use disorders with clinical outcomes in schizophrenia using electronic health record data.Schizophr Res.2023 Oct;260:191-197.doi: 10.1016/j.schres.2023.08.023
+7.Patel R, Chan KMY, Palmer EOC, et al.Associations of comorbid substance use disorders with clinical outcomes in schizophrenia using electronic health record data.Schizophr Res.2023 Oct;260:191-197.doi: 10.1016/j.schres.2023.08.023
+8.Grossman LS, Harrow M, Rosen C, Faull R, Strauss GP.Sex differences in schizophrenia and other psychotic disorders: a 20-year longitudinal study of psychosis and recovery.Compr Psychiatry.2008;49(6):523-529.doi:10.1016/j.comppsych.2008.03.004
+8.Grossman LS, Harrow M, Rosen C, Faull R, Strauss GP.Sex differences in schizophrenia and other psychotic disorders: a 20-year longitudinal study of psychosis and recovery.Compr Psychiatry.2008;49(6):523-529.doi:10.1016/j.comppsych.2008.03.004
+
+【精神分裂症的预后】
+一些精神分裂症患者 (15% 至 25%) 实现了康复，完全或接近完全恢复功能。约1/3患者症状部分改善但会复发和/或遗留功能障碍。高达40%患者长期预后不良。复发和缓解的模式很常见。约10%死于自杀，平均预期寿命缩短约15年（1–4）。关于精神分裂症结果预测因素的全面综述，请参见 Van Dee 等人（5）。
+预后良好的因素包括以下（5）：
+良好的病前功能（如学业成绩或工作业绩良好）
+良好的病前功能（如学业成绩或工作业绩良好）
+发病年龄晚和（或）急性起病
+发病年龄晚和（或）急性起病
+家族史为心境障碍而非精神分裂症
+家族史为心境障碍而非精神分裂症
+认知功能受损程度轻微
+认知功能受损程度轻微
+阴性症状较少
+阴性症状较少
+未经治疗的精神病病程较短
+未经治疗的精神病病程较短
+预后不良的因素包括：
+发病年龄早
+发病年龄早
+病前功能不良
+病前功能不良
+精神分裂症家族史
+精神分裂症家族史
+较多的阴性症状
+较多的阴性症状
+未经治疗的精神病持续时间较长
+未经治疗的精神病持续时间较长
+来自RAISE计划（首发精神分裂症发作后康复）的研究表明，越早开始治疗，治疗越密集，效果越好 (6)。
+据报道，男性的结果比女性更差（7)，尽管这在所有研究中并不一致；女性对抗精神病药物治疗的反应更好（8，9）。
+同时出现的精神疾病可能与较差的预后有关。精神分裂症可能与其他精神疾病共病。存在明显强迫症状，预后尤其差；存在边缘性人格障碍的症状时，预后则较好。约30%的精神分裂症患者会有一次或以上的重度抑郁发作 (10)。
+
+【预后参考】
+1.Molstrom IM, Nordgaard J, Urfer-Parnas A, Handest R, Berge J, Henriksen MG.The prognosis of schizophrenia: A systematic review and meta-analysis with meta-regression of 20-year follow-up studies.Schizophr Res.2022 Dec;250:152-163.doi: 10.1016/j.schres.2022.11.010
+1.Molstrom IM, Nordgaard J, Urfer-Parnas A, Handest R, Berge J, Henriksen MG.The prognosis of schizophrenia: A systematic review and meta-analysis with meta-regression of 20-year follow-up studies.Schizophr Res.2022 Dec;250:152-163.doi: 10.1016/j.schres.2022.11.010
+2.Jääskeläinen E, Juola P, Hirvonen N, McGrath JJ, Saha S, Isohanni M, Veijola J, Miettunen J.A systematic review and meta-analysis of recovery in schizophrenia.Schizophr Bull.2013 Nov;39(6):1296-306.doi: 10.1093/schbul/sbs130
+2.Jääskeläinen E, Juola P, Hirvonen N, McGrath JJ, Saha S, Isohanni M, Veijola J, Miettunen J.A systematic review and meta-analysis of recovery in schizophrenia.Schizophr Bull.2013 Nov;39(6):1296-306.doi: 10.1093/schbul/sbs130
+3.Hjorthøj C, Stürup AE, McGrath JJ, Nordentoft M.Years of potential life lost and life expectancy in schizophrenia: a systematic review and meta-analysis.Lancet Psychiatry.2017 Apr;4(4):295-301.doi: 10.1016/S2215-0366(17)30078-0.Epub 2017 Feb 22.Erratum in:Lancet Psychiatry2017 Sep;4(9):e19.doi: 10.1016/S2215-0366(17)30326-7
+3.Hjorthøj C, Stürup AE, McGrath JJ, Nordentoft M.Years of potential life lost and life expectancy in schizophrenia: a systematic review and meta-analysis.Lancet Psychiatry.2017 Apr;4(4):295-301.doi: 10.1016/S2215-0366(17)30078-0.Epub 2017 Feb 22.Erratum in:Lancet Psychiatry2017 Sep;4(9):e19.doi: 10.1016/S2215-0366(17)30326-7
+4.Keepers GA, Fochtmann LJ, Anzia JM, et al.The American Psychiatric Association Practice Guideline for the Treatment of Patients With Schizophrenia.Am J Psychiatry.2020;177(9):868-872.doi:10.1176/appi.ajp.2020.177901
+4.Keepers GA, Fochtmann LJ, Anzia JM, et al.The American Psychiatric Association Practice Guideline for the Treatment of Patients With Schizophrenia.Am J Psychiatry.2020;177(9):868-872.doi:10.1176/appi.ajp.2020.177901
+5.van Dee V, Schnack HG, Cahn W.Systematic review and meta-analysis on predictors of prognosis in patients with schizophrenia spectrum disorders: An overview of current evidence and a call for prospective research and open access to datasets.Schizophr Res.2023;254:133-142.doi:10.1016/j.schres.2023.02.024
+5.van Dee V, Schnack HG, Cahn W.Systematic review and meta-analysis on predictors of prognosis in patients with schizophrenia spectrum disorders: An overview of current evidence and a call for prospective research and open access to datasets.Schizophr Res.2023;254:133-142.doi:10.1016/j.schres.2023.02.024
+6.Kane JM, Robinson DG, Schooler NR, et al.Comprehensive Versus Usual Community Care for First-Episode Psychosis: 2-Year Outcomes From the NIMH RAISE Early Treatment Program.Am J Psychiatry.2016;173(4):362-372.doi:10.1176/appi.ajp.2015.15050632
+6.Kane JM, Robinson DG, Schooler NR, et al.Comprehensive Versus Usual Community Care for First-Episode Psychosis: 2-Year Outcomes From the NIMH RAISE Early Treatment Program.Am J Psychiatry.2016;173(4):362-372.doi:10.1176/appi.ajp.2015.15050632
+7.Ochoa S, Usall J, Cobo J, Labad X, Kulkarni J.Gender differences in schizophrenia and first-episode psychosis: a comprehensive literature review.Schizophr Res Treatment.2012;2012:916198.doi:10.1155/2012/916198
+7.Ochoa S, Usall J, Cobo J, Labad X, Kulkarni J.Gender differences in schizophrenia and first-episode psychosis: a comprehensive literature review.Schizophr Res Treatment.2012;2012:916198.doi:10.1155/2012/916198
+8.Storosum BWC, Mattila T, Wohlfarth TD, Gispen-de Wied CC, Roes KCB, den Brink WV, de Haan L, Denys DAJP, Zantvoord JB.Gender differences in the response to antipsychotic medication in patients with schizophrenia: An individual patient data meta-analysis of placebo-controlled studies.Psychiatry Res.2023 Feb;320:114997.doi: 10.1016/j.psychres.2022.114997
+8.Storosum BWC, Mattila T, Wohlfarth TD, Gispen-de Wied CC, Roes KCB, den Brink WV, de Haan L, Denys DAJP, Zantvoord JB.Gender differences in the response to antipsychotic medication in patients with schizophrenia: An individual patient data meta-analysis of placebo-controlled studies.Psychiatry Res.2023 Feb;320:114997.doi: 10.1016/j.psychres.2022.114997
+9.Giordano GM, Bucci P, Mucci A, Pezzella P, Galderisi S.Gender Differences in Clinical and Psychosocial Features Among Persons With Schizophrenia: A Mini Review.Front Psychiatry.2021 Dec 22;12:789179.doi: 10.3389/fpsyt.2021.789179
+9.Giordano GM, Bucci P, Mucci A, Pezzella P, Galderisi S.Gender Differences in Clinical and Psychosocial Features Among Persons With Schizophrenia: A Mini Review.Front Psychiatry.2021 Dec 22;12:789179.doi: 10.3389/fpsyt.2021.789179
+10.Etchecopar-Etchart D, Korchia T, Loundou A, Llorca PM, Auquier P, Lançon C, Boyer L, Fond G.Comorbid Major Depressive Disorder in Schizophrenia: A Systematic Review and Meta-Analysis.Schizophr Bull.2021 Mar 16;47(2):298-308.doi: 10.1093/schbul/sbaa153
+10.Etchecopar-Etchart D, Korchia T, Loundou A, Llorca PM, Auquier P, Lançon C, Boyer L, Fond G.Comorbid Major Depressive Disorder in Schizophrenia: A Systematic Review and Meta-Analysis.Schizophr Bull.2021 Mar 16;47(2):298-308.doi: 10.1093/schbul/sbaa153
+精神分裂症的特征是精神病性症状、幻觉、妄想、言语和行为紊乱、情感平淡、认知缺陷，以及职业和社会功能障碍。
+精神分裂症的特征是精神病性症状、幻觉、妄想、言语和行为紊乱、情感平淡、认知缺陷，以及职业和社会功能障碍。
+自杀是导致过早死亡的常见原因。
+自杀是导致过早死亡的常见原因。
+暴力威胁和轻微的攻击性爆发远比严重的危险行为更常见，但这些行为可能在滥用药物的偏执型精神病患者中更常见。
+暴力威胁和轻微的攻击性爆发远比严重的危险行为更常见，但这些行为可能在滥用药物的偏执型精神病患者中更常见。
+早期使用抗精神病药物，药物的选择根据药物的不良反应、所需的服用方式以及患者既往对药物的治疗反应。
+早期使用抗精神病药物，药物的选择根据药物的不良反应、所需的服用方式以及患者既往对药物的治疗反应。
+心理治疗让病人学习理解和管理自己的疾病，遵医嘱服药，能更有效地应对压力。
+心理治疗让病人学习理解和管理自己的疾病，遵医嘱服药，能更有效地应对压力。
+经过治疗，多达四分之一的患者康复；三分之一有所改善，但有间歇性复发和残障；多达40%严重残疾。
+经过治疗，多达四分之一的患者康复；三分之一有所改善，但有间歇性复发和残障；多达40%严重残疾。

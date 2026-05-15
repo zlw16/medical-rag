@@ -1,0 +1,26 @@
+标题：短吻鳄，鳄鱼，鬣蜥，以及毒蜥咬伤
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/bites-and-stings/alligator-crocodile-iguana-and-venomous-lizard-bites
+============================================================
+
+毒蜥、短吻鳄和鳄鱼以及鬣蜥会导致临床上严重的咬伤。应该给予破伤风预防（见表常规伤口处理中的破伤风预防）。
+
+【毒蜥（venomous lizards）】
+毒蜥（venomous lizards）包含以下几种：
+Heloderma suspectum(希拉毒蜥)，分布于美国西南部和墨西哥
+Heloderma suspectum(希拉毒蜥)，分布于美国西南部和墨西哥
+墨西哥珠毒蜥（H. horridum[墨西哥毒蜥]）
+墨西哥珠毒蜥（H. horridum[墨西哥毒蜥]）
+毒蜥毒液成分复杂，包含5-羟色胺、精氨酸酯酶、透明质酸酶、磷脂酶A2和一种或多种唾液激肽释放酶，但不含神经毒或凝固酶成分。咬伤很少致命。巨蜥（例如，Varanus komodoensis[科莫多龙]，Varanus salvadorii[鳄鱼巨蜥]）也是有毒的，但对人类的威胁很小。当毒蜥咬人时，紧紧咬住，毒液随之注入受害者。
+毒蜥咬伤的症状和体征包括剧烈疼痛、肿胀、瘀斑、淋巴管炎和淋巴结病。中度或重度中毒者会出现全身症状，包括乏力、出汗、口渴、头痛和耳鸣等。心血管衰竭极少发生。临床过程类似于被较大型响尾蛇轻微至中度咬伤的情况（参见蛇咬伤症状与体征），但不伴凝血功能障碍。
+野外的现场处理：可用钳子、火刺激其颏部、或将其完全溺入水中使蜥蜴松口。任何伴有全身症状的咬伤都应在医院接受评估。住院期间治疗以支持疗法为主（观察与伤口处理）。无抗毒血清可用。先应用探针检查伤口内是否有断裂或脱落的蜥齿，然后清洁伤口。若伤口较深，可进行X光检查以排除异物残留或骨折。一般不推荐预防性抗生素治疗。
+鬣蜥越来越多被作为宠物饲养，其咬伤和抓伤日趋增多。由于伤口表浅，只需局部处理。软组织感染少见，但发生感染时，Salmonella（沙门氏菌）较为常见，可用氟喹诺酮类抗生素治疗。其次，需要更多关注的是Serratia marcescens（粘质沙雷菌）感染，该菌通常对甲氧苄啶/磺胺甲恶唑敏感。
+
+【短吻鳄和鳄鱼】
+短吻鳄和鳄鱼咬伤通常是由人为接触引起的；然而，野外遭遇的情况有时也会发生。此类咬伤无毒性，但值得注意的是，由Aeromonas（气单胞菌属）菌种（通常是Aeromonas hydrophila[嗜水气单胞菌]）引起的软组织感染发生率很高。通常会有严重的软组织和骨科损伤，患者可能需要进行彻底的评估（1）。
+对伤口进行冲洗和清创，允许延迟一期闭合，也可二期愈合。短吻鳄口腔菌群的最佳抗生素覆盖可能包括甲氧苄啶/磺胺甲恶唑、氟喹诺酮类、第三代头孢菌素、氨基糖苷类或其组合(2)。
+
+【参考文献】
+1.Flandry F, Lisecki EJ, Domingue GJ, Nichols RL, Greer DL, Haddad RJ Jr.Initial antibiotic therapy for alligator bites: characterization of the oral flora of Alligator mississippiensis.South Med J.1989;82(2):262-266.doi:10.1097/00007611-198902000-00027
+1.Flandry F, Lisecki EJ, Domingue GJ, Nichols RL, Greer DL, Haddad RJ Jr.Initial antibiotic therapy for alligator bites: characterization of the oral flora of Alligator mississippiensis.South Med J.1989;82(2):262-266.doi:10.1097/00007611-198902000-00027
+2.Abrahamian FM, Goldstein EJ.Microbiology of animal bite wound infections.Clin Microbiol Rev.2011 Apr;24(2):231-46.doi: 10.1128/CMR.00041-10.PMID: 21482724; PMCID: PMC3122494.
+2.Abrahamian FM, Goldstein EJ.Microbiology of animal bite wound infections.Clin Microbiol Rev.2011 Apr;24(2):231-46.doi: 10.1128/CMR.00041-10.PMID: 21482724; PMCID: PMC3122494.

@@ -1,0 +1,182 @@
+标题：肺脓肿
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/lung-abscess/lung-abscess
+============================================================
+
+
+【肺脓肿的病因】
+口腔分泌物的吸入（最常见）
+口腔分泌物的吸入（最常见）
+支气管内阻塞
+支气管内阻塞
+直接扩散
+直接扩散
+肺的血行播散（较少见）
+肺的血行播散（较少见）
+肺脓肿大多由有牙龈炎或口腔卫生差的患者吸入口腔分泌物引起。通常，患者因饮酒或使用娱乐性药物，或使用麻醉剂、镇静剂或阿片类药物而出现意识障碍。高龄及那些因神经系统疾病不能自行处理口腔分泌物的患者也是高危人群。肺脓肿可因局部肺炎发展为坏死并形成充满脓液的空洞性病变（1）。
+肺脓肿也可能继发于气管内阻塞（例如，由于支气管肺癌或异物）或免疫抑制（例如，由于晚期HIV感染或移植后使用免疫抑制剂）。
+极少情况下见于由化脓性血栓栓塞（如静脉用药或勒米尔综合征所致脓毒性栓塞）或右侧心内膜炎产生的脓毒性栓子经血行播散引起的坏死性肺炎所致的肺脓肿。与误吸和梗阻相反，这些疾病通常表现为急性，并导致多发性而非孤立性肺脓肿。
+某些化脓性细菌（例如金黄色葡萄球菌）可能通过直接感染（如脓胸、膈下或纵隔脓肿的连续扩散）而非血行播散。
+
+【病因参考文献】
+1.Vaarst JK, Sperling S, Dahl VN, et al.Lung abscess: Clinical characteristics of 222 Danish patients diagnosed from 2016 to 2021.Respir Med2023;216:107305.doi:10.1016/j.rmed.2023.107305
+1.Vaarst JK, Sperling S, Dahl VN, et al.Lung abscess: Clinical characteristics of 222 Danish patients diagnosed from 2016 to 2021.Respir Med2023;216:107305.doi:10.1016/j.rmed.2023.107305
+
+【肺脓肿的病理生理学】
+由误吸引起的肺脓肿最常见的病原体是厌氧菌，但约有50%的病例为厌氧菌和需氧菌混合感染（见表肺空洞性病变的感染性病因）。
+最常见的厌氧性病原体是
+Peptostreptococcus消化链球菌
+Peptostreptococcus消化链球菌
+Fusobacterium梭形杆菌
+Fusobacterium梭形杆菌
+Prevotella普雷沃菌属
+Prevotella普雷沃菌属
+Bacteroides类杆菌属
+Bacteroides类杆菌属
+最常见的需氧性病原体是
+葡萄球菌--有时耐甲氧西林葡萄球菌（MRSA）
+葡萄球菌--有时耐甲氧西林葡萄球菌（MRSA）
+肺脓肿也可由革兰氏阴性菌引起，尤其是克雷伯杆菌(1)。免疫受损患者的肺脓肿最常见的病原体为铜绿假单胞菌及其它革兰阴性菌，其它病原体如诺卡菌、分枝杆菌或真菌亦应考虑。
+这些病原体进入肺内后首先引起炎症，1-2周后导致组织坏死脓肿形成。脓肿破入支气管，脓性物咳出后常形成一个充满气体和液体的空腔。约10%的病例直接或间接蔓延（经支气管胸膜瘘）进入胸膜腔形成脓胸。较少见情况下，长期未治疗或治疗不充分的脓胸可连续扩散至肺实质并局限化，导致脓肿形成。
+肺脓肿可由坏死性肺炎或肺坏疽引起。坏死性肺炎是肺炎的严重并发症，以肺组织迅速坏死并形成导致脓肿的空洞性病变为特征。相反肺坏疽则是坏死性肺炎罕见而严重的并发症，表现为肺组织广泛坏死。已有报告称，由MRSA、Pneumococcus（肺炎球菌）和Klebsiella（克雷伯氏菌）等病原体引起的罕见病例可发生肺坏疽（累及肺叶或全肺的广泛坏死）或伴败血症的暴发性肺炎。一些患者因结核分枝杆菌感染而有形成脓肿的风险，少数病例则由阿米巴感染（例如Entamoeba histolytica（溶组织内阿米巴））、包虫囊肿、肺吸虫病或Burkholderia pseudomallei（类鼻疽伯克霍尔德菌）感染引起。
+
+【肺空洞形成的病因】
+肺空洞形成的病因
+举例（疾病）
+Burkholderia pseudomallei类鼻疽假单胞菌*, †
+Klebsiella pneumoniae（肺炎克雷伯杆菌）*
+Nocardia奴卡菌‡
+Pseudomonas aeruginosa铜绿假单胞菌*
+Staphylococcus aureus金黄色葡萄球菌§
+Streptococcus milleri米勒链球菌§
+其他链球菌§
+Actinomyces（放线菌）‡
+Bacteroides拟杆菌属*
+Clostridium梭状芽胞杆菌属‡
+Fusobacterium（梭杆菌属）*
+Peptostreptococcus消化链球菌属§
+Prevotella普雷沃菌属*
+Aspergillus（曲霉菌）（曲霉菌病）
+Blastomyces dermatitidis皮炎芽生菌（芽生菌病）
+Coccidioides immitis球孢子菌（球孢子菌病）
+Cryptococcus neoformans新型隐球菌（隐球菌病）
+Histoplasma capsulatum荚膜组织胞浆菌（组织胞浆菌病）
+Pneumocystis jirovecii（耶氏肺孢子菌肺炎）
+Rhizomucor（根毛霉菌）(毛霉菌病)
+Rhizopus（根霉菌）（毛霉菌病）
+Sporothrix schenckii申克孢子丝菌（孢子丝菌病）
+分枝杆菌
+Mycobacterium avium-cellulare鸟-胞内分枝杆菌
+Mycobacterium kansasii堪萨斯分枝杆菌
+Mycobacterium tuberculosis（结核分枝杆菌）(结核病)†
+Entamoeba histolytica溶组织内阿米巴（阿米巴病）†
+Echinococcus granulosus细粒棘球绦虫（棘球蚴病）†
+Echinococcus multilocularis（多房棘球绦虫）（棘球蚴病）†
+Paragonimus westermani（卫氏并殖吸虫）（并殖吸虫病）†
+*革兰阴性杆菌
+†这些病因通常只在某些流行率高的地区或旅行到这些地区后才会出现。
+‡革兰氏阳性杆菌。
+§革兰氏阳性球菌。
+*革兰阴性杆菌
+†这些病因通常只在某些流行率高的地区或旅行到这些地区后才会出现。
+‡革兰氏阳性杆菌。
+§革兰氏阳性球菌。
+
+【病理生理学参考文献】
+1.Takayanagi N, Kagiyama N, Ishiguro T, Tokunaga D, Sugita Y.Etiology and outcome of community-acquired lung abscess.Respiration2010;80(2):98-105.doi:10.1159/000312404
+1.Takayanagi N, Kagiyama N, Ishiguro T, Tokunaga D, Sugita Y.Etiology and outcome of community-acquired lung abscess.Respiration2010;80(2):98-105.doi:10.1159/000312404
+
+【肺脓肿的症状和体征】
+由厌氧菌或混合性厌氧菌和需氧菌引起的脓肿，其症状通常是慢性的，会在数周或数月内逐渐发展，包括咳痰、发热、寒战、盗汗和体重减轻 (1，2）。可能出现杵状指。患者也可出现咯血和胸膜炎性胸痛。痰可以是脓性的，也可以带血丝，通常有恶臭。患者可能有恶臭的呼吸。可能存在慢性炎症引起的厌食和疲劳。
+由需氧细菌引起的脓肿症状发展较急（数小时至数天），类似细菌性肺炎。由非厌氧菌（例如，分枝杆菌、诺卡菌）引起的脓肿缺乏腐臭的呼吸道分泌物，可能更容易发生在非依赖性肺区域，并可能亚急性（数周至数月）发展。
+肺脓肿的体征是非特异性的，与肺炎相似：呼吸音减低提示实变或渗出，体温≥38°C，病变部位湿啰音，支气管羊鸣音，当有渗出时叩诊呈浊音。典型的病例往往有牙周疾病的体征和易发生误吸的病史，如吞咽困难或意识障碍 (3)。
+
+【症状和体征参考】
+1.Montméat V, Bonny V, Urbina T, et al.Epidemiology and Clinical Patterns of Lung Abscesses in ICU: A French Multicenter Retrospective Study.Chest2024;165(1):48-57.doi:10.1016/j.chest.2023.08.020
+1.Montméat V, Bonny V, Urbina T, et al.Epidemiology and Clinical Patterns of Lung Abscesses in ICU: A French Multicenter Retrospective Study.Chest2024;165(1):48-57.doi:10.1016/j.chest.2023.08.020
+2.Vaarst JK, Sperling S, Dahl VN, et al.Lung abscess: Clinical characteristics of 222 Danish patients diagnosed from 2016 to 2021.Respir Med2023;216:107305.doi:10.1016/j.rmed.2023.107305
+2.Vaarst JK, Sperling S, Dahl VN, et al.Lung abscess: Clinical characteristics of 222 Danish patients diagnosed from 2016 to 2021.Respir Med2023;216:107305.doi:10.1016/j.rmed.2023.107305
+3.Moreira Jda S, Camargo Jde J, Felicetti JC, Goldenfun PR, Moreira AL, Porto Nda S.Lung abscess: analysis of 252 consecutive cases diagnosed between 1968 and 2004.J Bras Pneumol2006;32(2):136-143.doi:10.1590/s1806-37132006000200009
+3.Moreira Jda S, Camargo Jde J, Felicetti JC, Goldenfun PR, Moreira AL, Porto Nda S.Lung abscess: analysis of 252 consecutive cases diagnosed between 1968 and 2004.J Bras Pneumol2006;32(2):136-143.doi:10.1590/s1806-37132006000200009
+
+【肺脓肿的诊断】
+胸部X光检查
+胸部X光检查
+通常进行胸部计算机断层扫描（CT）以获得更佳显像，或在怀疑存在支气管内阻塞时进行
+通常进行胸部计算机断层扫描（CT）以获得更佳显像，或在怀疑存在支气管内阻塞时进行
+需氧菌的革兰染色和痰培养；以及需氧菌和厌氧菌的血液培养和革兰染色
+需氧菌的革兰染色和痰培养；以及需氧菌和厌氧菌的血液培养和革兰染色
+如果临床需要，送检真菌和分枝杆菌痰培养
+如果临床需要，送检真菌和分枝杆菌痰培养
+根据临床需求实施支气管镜检查，主要用于以下情况：排除（支气管内）肿瘤；检测真菌或分枝杆菌等特殊病原体；培养结果呈阴性患者；临床表现不典型者；以及免疫功能受损患者
+根据临床需求实施支气管镜检查，主要用于以下情况：排除（支气管内）肿瘤；检测真菌或分枝杆菌等特殊病原体；培养结果呈阴性患者；临床表现不典型者；以及免疫功能受损患者
+任何胸腔积液的革兰氏染色和培养
+任何胸腔积液的革兰氏染色和培养
+根据患者有误吸风险（如因意识障碍或吞咽困难而易误吸，或处于免疫抑制状态）的病史可疑诊肺脓肿，胸部X线显示空洞则可确诊。
+由误吸引起的厌氧菌感染，胸部X线典型表现为实变影伴单个空洞，其内可见气液平面，位于患者卧位时的重力依赖肺区（例如，上叶后段或下叶上段或外基底段）。这有助于区分是厌氧菌感染引起的肺脓肿还是其他肺部空洞性病变，因为弥散性或栓塞性肺部疾病常引起多发空洞，而典型的肺结核常累及肺尖部。
+此图显示右肺下叶大脓肿，可见一个含气液平面的空洞。白色箭头指出脓肿的边界，显示脓肿壁与肺实质分离。黑色箭头标记了上方空气和下方流体相遇的水平。
+By permission of the publisher.摘自 Leaf H.InAtlas of Infectious Diseases: Pleuropulmonary and Bronchial Infections.由GL Mandell（系列编辑）和MS Simberkoff编辑。Philadelphia, Current Medicine, 1996.
+CT并非必需（例如，对于具有肺脓肿危险因素的患者，若胸部X线已清晰显示空洞）。然而，当怀疑有空化但胸片上看不清楚时，当怀疑有潜在的肺肿块阻碍肺段引流时，或者当脓肿需要与脓胸或含气液面的大疱相区分时，CT可能是有用的。
+该轴位CT显示右肺和左肺的前部各有2个轮廓清晰的肺实质脓肿。黑色区域代表脓液积聚。
+ZEPHYR/SCIENCE PHOTO LIBRARY
+支气管癌可导致气道阻塞，从而引起肺炎和脓肿形成。对抗菌治疗无反应或有非典型表现（如无周围实变的空洞性病变或无发热等感染症状和体征）的患者，应怀疑空洞性支气管癌。
+有时需行支气管镜检查以除外肺癌或异物或协助诊断少见病原体感染，如真菌或者分枝杆菌。免疫功能低下者应行支气管镜检查，且初始经验性抗生素治疗无效者也需考虑此检查。
+多发性肺脓肿患者需行经胸或经食道超声心动图检查以排除感染性心内膜炎。
+
+【革兰氏染色及培养】
+应对痰液和血液样本进行革兰氏染色和培养，以确定病原体。血液样本应送去进行需氧和厌氧培养。但是痰标本通常只需要送需氧培养；痰培养常受口腔菌群污染，影响厌氧培养结果解读。如果痰有腐臭味，提示厌氧菌感染。如果出现脓胸，胸腔积液可作为良好的厌氧菌培养样本（1）。支气管镜样本的口咽污染较少，应送做厌氧培养。
+如临床表现考虑厌氧菌感染的可能性很小，则要考虑需氧菌、真菌或分枝杆菌感染，并设法明确病原体。痰培养和经支气管镜采样均有助于明确病原体。
+
+【鉴别诊断】
+空洞性肺部病变并非总是由肺脓肿引起（2）。引起肺空洞性病变的其他原因包括：
+有气液平的脓胸或肺大疱
+有气液平的脓胸或肺大疱
+囊性（囊状）支气管扩张
+囊性（囊状）支气管扩张
+结节状矽肺伴中央坏死
+结节状矽肺伴中央坏死
+肺隔离症
+肺隔离症
+肉芽肿性多血管炎
+肉芽肿性多血管炎
+类风湿性肺结节
+类风湿性肺结节
+
+【诊断参考】
+1.Bartlett JG.Anaerobic bacterial infections of the lung.Chest1987;91(6):901-909.doi:10.1378/chest.91.6.901
+1.Bartlett JG.Anaerobic bacterial infections of the lung.Chest1987;91(6):901-909.doi:10.1378/chest.91.6.901
+2.Gadkowski LB, Stout JE.Cavitary pulmonary disease.Clin Microbiol Rev2008;21(2):305-333.doi:10.1128/CMR.00060-07
+2.Gadkowski LB, Stout JE.Cavitary pulmonary disease.Clin Microbiol Rev2008;21(2):305-333.doi:10.1128/CMR.00060-07
+
+【肺脓肿的治疗】
+静脉用抗生素，病情轻的患者可以口服治疗
+静脉用抗生素，病情轻的患者可以口服治疗
+对抗生素治疗无反应或者出现脓胸，行经皮、气管内或手术引流。
+对抗生素治疗无反应或者出现脓胸，行经皮、气管内或手术引流。
+首选方案是β-内酰胺/β-内酰胺酶抑制剂的组合，例如氨苄西林/舒巴坦（1）。替代方案包括碳青霉烯类（如亚胺培南/西司他丁）或甲硝唑联合头孢曲松的联合疗法，尤其是对于怀疑革兰阴性菌感染的患者。对青霉素过敏的患者，可选用莫西沙星，或者左氧氟沙星与甲硝唑的联合治疗方案作为替代选择。克林霉素现在很少使用，因为担心艰难梭菌感染和抗生素的耐药性。
+病情较轻的患者可给予口服抗生素治疗，如阿莫西林/克拉维酸；若患者存在青霉素过敏史，则可选用莫西沙星。当患者退热并临床稳定时，静脉方案可转换为口服方案（2）。
+对于涉及耐甲氧西林金黄色葡萄球菌 (MRSA) 的感染，最佳治疗方法是利奈唑胺或万古霉素。
+如果从痰或血液中培养出显著浓度的革兰阴性杆菌，并在革兰染色中发现，除了厌氧菌外，还应修改抗生素方案以覆盖该特定病原体。
+最佳疗程尚不确定，一般认为需治疗至胸部X线提示病灶完全消失或仅残留较小稳定的瘢痕，这通常需要3到6周或更长时间。一般来说，脓肿越大，X线上病灶消散的时间越长。
+虽然过去曾推荐使用胸部物理治疗和体位引流，但由于这些方法可能导致感染扩散至其他支气管，从而加重感染或导致急性气道阻塞，因此大多数权威专家目前不再建议使用。
+如果患者在治疗7至10天后仍未退烧或临床症状未改善，应对其进行全面评估，以排除耐药或罕见病原体感染、气道阻塞，以及非感染性原因导致的肺部空洞形成。这通常需要对受累肺部区域进行支气管镜检查。CT扫描有助于发现脓胸等并发症，并确定针对脓肿本身的最佳介入治疗方法。并发脓胸须引流。约10%对抗生素治疗无效的肺脓肿患者以及形成肺坏疽的患者，需要进行手术切除或引流。抗生素耐药最常见于脓腔大及阻塞后脓肿(3)。
+经皮导管引流胸膜下脓肿，或者在影像引导（超声、CT或透视）下通过支气管镜在中央型脓肿内置入猪尾导管，都有助于促进引流（4、5）。当有必要手术时，肺叶切除术是最常采取的手术方式；对于小的病灶，肺段切除术即可满足要求。对药物治疗无反应的多发性肺脓肿或肺坏疽需行肺切除术。
+
+【治疗参考文献】
+1.Reinhardt JF, Johnston L, Ruane P, et al.A randomized, double-blind comparison ofsulbactam/ampicillinandclindamycinfor the treatment of aerobic and aerobic-anaerobic infections.Rev Infect Dis1986;8 Suppl 5:S569-S575.doi:10.1093/clinids/8.supplement_5.s569
+1.Reinhardt JF, Johnston L, Ruane P, et al.A randomized, double-blind comparison ofsulbactam/ampicillinandclindamycinfor the treatment of aerobic and aerobic-anaerobic infections.Rev Infect Dis1986;8 Suppl 5:S569-S575.doi:10.1093/clinids/8.supplement_5.s569
+2.Ott SR, Allewelt M, Lorenz J, Reimnitz P, Lode H; German Lung Abscess Study Group.Moxifloxacinvsampicillin/sulbactamin aspiration pneumonia and primary lung abscess.Infection2008;36(1):23-30.doi:10.1007/s15010-007-7043-6
+2.Ott SR, Allewelt M, Lorenz J, Reimnitz P, Lode H; German Lung Abscess Study Group.Moxifloxacinvsampicillin/sulbactamin aspiration pneumonia and primary lung abscess.Infection2008;36(1):23-30.doi:10.1007/s15010-007-7043-6
+3.Kuhajda I, Zarogoulidis K, Tsirgogianni K, et al.Lung abscess-etiology, diagnostic and treatment options.Ann Transl Med2015;3(13):183.doi:10.3978/j.issn.2305-5839.2015.07.08
+3.Kuhajda I, Zarogoulidis K, Tsirgogianni K, et al.Lung abscess-etiology, diagnostic and treatment options.Ann Transl Med2015;3(13):183.doi:10.3978/j.issn.2305-5839.2015.07.08
+4.Herth F, Ernst A, Becker HD.Endoscopic drainage of lung abscesses: technique and outcome.Chest2005;127(4):1378-1381.doi:10.1378/chest.127.4.1378
+4.Herth F, Ernst A, Becker HD.Endoscopic drainage of lung abscesses: technique and outcome.Chest2005;127(4):1378-1381.doi:10.1378/chest.127.4.1378
+5.Kelogrigoris M, Tsagouli P, Stathopoulos K, Tsagaridou I, Thanos L.CT-guided percutaneous drainage of lung abscesses: review of 40 cases.JBR-BTR2011;94(4):191-195.doi:10.5334/jbr-btr.583
+5.Kelogrigoris M, Tsagouli P, Stathopoulos K, Tsagaridou I, Thanos L.CT-guided percutaneous drainage of lung abscesses: review of 40 cases.JBR-BTR2011;94(4):191-195.doi:10.5334/jbr-btr.583
+肺脓肿大多为意识障碍的病人吸入口腔分泌物引起，因此厌氧菌是最常见的病原体。
+肺脓肿大多为意识障碍的病人吸入口腔分泌物引起，因此厌氧菌是最常见的病原体。
+对有误吸风险，且表现出亚急性全身症状和呼吸道症状，并伴有胸部X线片提示空洞性病变等兼容病灶的患者，应怀疑其患有肺脓肿。
+对有误吸风险，且表现出亚急性全身症状和呼吸道症状，并伴有胸部X线片提示空洞性病变等兼容病灶的患者，应怀疑其患有肺脓肿。
+初始用抗生素治疗;如果患者经治疗7至10天无反应，应考虑特殊或耐药病原体、支气管阻塞以及非感染性因素形成的肺空洞性病变的可能。
+初始用抗生素治疗;如果患者经治疗7至10天无反应，应考虑特殊或耐药病原体、支气管阻塞以及非感染性因素形成的肺空洞性病变的可能。
+引流脓胸，并考虑对药物治疗无效的肺脓肿以及出现肺坏疽的患者进行手术切除或引流。
+引流脓胸，并考虑对药物治疗无效的肺脓肿以及出现肺坏疽的患者进行手术切除或引流。

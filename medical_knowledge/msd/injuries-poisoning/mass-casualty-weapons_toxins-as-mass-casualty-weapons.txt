@@ -1,0 +1,46 @@
+标题：毒素作为大规模杀伤性武器
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/mass-casualty-weapons/toxins-as-mass-casualty-weapons
+============================================================
+
+“毒素”通常指代任何毒物，但在技术上特指由某种生物产生的有毒化学物质（尽管某些毒素也可通过合成产生）。因为用作大规模伤亡武器的毒素不包括从中衍生的感染性毒剂，它们不会在体内复制且不是从人到人传播（见表美国疾病控制和预防中心高优先级生物制剂和毒素）。因此毒素更像化学制剂而不是生物制剂；它们引起中毒而不是感染 (1)。
+已知有数百种毒素。然而由于存在分离足够剂量的困难，以及传播或环境适应性差的问题，相比造成大规模伤亡大部分毒素更适合暗杀。 美国疾病预防控制中心（CDC）认为只有四种毒素是高威胁性制剂：
+肉毒杆菌毒素
+肉毒杆菌毒素
+Clostridium perfringens（产气荚膜梭菌）产生的ε毒素
+Clostridium perfringens（产气荚膜梭菌）产生的ε毒素
+蓖麻毒素
+蓖麻毒素
+金黄色葡萄球菌肠毒素B
+金黄色葡萄球菌肠毒素B
+其中只有肉毒杆菌毒素被归类为最高优先级制剂。来自C. perfringens（产气荚膜梭菌）的ε毒素据报道是由伊拉克在20世纪80年代开发的毒剂；其主要作用是增加毛细血管的通透性，尤其是在肠道中。
+（参见大规模杀伤性武器事件概述。）
+
+【参考文献】
+1.Madsen JM.Toxins as weapons of mass destruction.A comparison and contrast with biological-warfare and chemical-warfare agents.Clin Lab Med.2001;21(3):593-605.
+1.Madsen JM.Toxins as weapons of mass destruction.A comparison and contrast with biological-warfare and chemical-warfare agents.Clin Lab Med.2001;21(3):593-605.
+
+【肉毒杆菌毒素作为大规模杀伤性武器】
+肉毒杆菌毒素，或称肉毒神经毒素，是指由Clostridium botulinum（肉毒梭菌）产生的8种已知神经毒素中的任何一种，其中5种会影响人类。它是浓度最高的毒药之一，其LD50（会导致接触群体中一半人死亡的剂量）从口服的1000纳克/千克到通过吸入的低至10纳克/千克，以及1纳克/千克的IM或IV。即使是口服的毒性也远远大于通常遇到的大多数毒药。
+肉毒中毒是指接触肉毒杆菌毒素引起的中毒；并不需要感染C. botulinum（肉毒梭菌）。食源性、伤口型和婴儿肉毒中毒详见其他章节（参见肉毒中毒）。食物或水的肉毒素大面积污染可能导致大量人员肉毒杆菌毒素中毒伤亡，或来源于吸入雾化的肉毒杆菌毒素(1)。
+肉毒杆菌毒素可阻断乙酰胆碱在平滑肌和外分泌腺中与毒蕈碱受体的作用，但无法穿透血脑屏障进入中枢神经系统。与伤口型肉毒中毒类似，暴露后 12~36 小时（范围 2 小时至 8 天）会出现神经症状（典型表现为双侧对称性下行性麻痹伴瞳孔散大），而无恶心、呕吐、痉挛或腹泻。感觉和心理状态不受影响。
+通过临床诊断决定是否使用抗毒素，药效随着症状和体征逐步进展而下降。缓慢静脉注射一小瓶在0.9%盐水溶液中以1:10稀释的马七价肉毒杆菌抗毒素。抗毒素只与循环中的毒素结合，因此不能缓解已经附着在受体上的毒素引起的现有表现。
+
+【肉毒杆菌毒素参考】
+1.Arnon SS, Schechter R, Inglesby TV, et al. Botulinum toxin as a biological weapon: medical and public health management [published correction appears inJAMA2001 Apr 25;285(16):2081].JAMA.2001;285(8):1059-1070.doi:10.1001/jama.285.8.1059
+1.Arnon SS, Schechter R, Inglesby TV, et al. Botulinum toxin as a biological weapon: medical and public health management [published correction appears inJAMA2001 Apr 25;285(16):2081].JAMA.2001;285(8):1059-1070.doi:10.1001/jama.285.8.1059
+
+【作为大规模杀伤性武器的蓖麻毒素和相思子毒素】
+蓖麻毒素（取自{蓖麻植物豆}）和相思子毒素（取自{相思子}或念珠豌豆）都能够灭活核糖体；任一毒素分子能够使细胞内所有的核糖体中毒。虽然注射蓖麻毒素被用于暗杀，但吸入雾化毒素可能会造成大规模人员伤亡 (1)。
+蓖麻毒素中毒的临床表现因暴露途径而异。吸入后有4到8小时的潜伏期，随后出现咳嗽、呼吸窘迫和发热。在未来12到24小时内多个器官系统逐渐受到影响，最终导致呼吸衰竭。临床诊断为主，尚无特效解毒剂或抗毒素，目前是支持治疗。
+
+【蓖麻毒素和相思豆毒素参考文献】
+1.Chen HY, Foo LY, Loke WK.Ricin and abrin: A comprehensive review of their toxicity, diagnosis, and treatment.Toxinology.2014:1-20.doi: 10.1007/978-94-007-6645-7_1-1
+1.Chen HY, Foo LY, Loke WK.Ricin and abrin: A comprehensive review of their toxicity, diagnosis, and treatment.Toxinology.2014:1-20.doi: 10.1007/978-94-007-6645-7_1-1
+
+【作为大规模杀伤性武器的金黄色葡萄球菌肠毒素B（SEB）】
+金黄色葡萄球菌肠毒素B（SEB）是金黄色葡萄球菌产生的7种肠毒素（毒素作用于肠道）中的一种。摄入SEB是葡萄球菌食物中毒的主要原因。食品中掺杂和吸入雾化的毒素同样也会造成大量人员伤亡；SEB被开发作为气溶胶用于造成军事人员失能 (1)。
+潜伏期通常为摄入后1到12小时和吸入后2到12小时（范围为1.5到24小时）。最初出现发热、寒战、头痛、肌痛等流感样症状，随后的症状和体征取决于暴露接触的途径。摄入会导致恶心、呕吐和腹泻1到2天。吸入会导致干咳、胸骨后疼痛，常伴鼻腔刺激和充血。气溶胶接触眼睛会导致结膜炎。虽然SEB主要是作为失能性毒剂，但吸入后可因肺水肿和循环衰竭导致死亡。幸存者中发烧可能持续长达5天，咳嗽持续4周。专门的毒素检测可能有助于确诊。支持治疗。
+
+【葡萄球菌肠毒素 B 参考】
+1.Ahanotu EN, Alvelo-Ceron D, Ravita TD, Gaunt EE.Staphylococcal Enterotoxin B as a Biological Weapon: Recognition, Management, and Surveillance of Staphylococcal Enterotoxin.Applied Biosafety, 11, 120 - 126, 2006.
+1.Ahanotu EN, Alvelo-Ceron D, Ravita TD, Gaunt EE.Staphylococcal Enterotoxin B as a Biological Weapon: Recognition, Management, and Surveillance of Staphylococcal Enterotoxin.Applied Biosafety, 11, 120 - 126, 2006.

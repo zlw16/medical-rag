@@ -1,0 +1,69 @@
+标题：肾脏畸形
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-renal-and-genitourinary-anomalies/renal-anomalies
+============================================================
+
+尿路是各种不同显著度先天性异常的共同表现部位。许多异常是无症状的，通过产前超声检查进行诊断，或是作为其它先天异常的常规评估的一部分进行诊断。其他异常现象在尿路梗阻，尿路感染或创伤的评估中诊断出来。
+（参见先天性肾脏囊性发育不良。)
+
+【常染色体隐性多囊肾病】
+常染色体隐性多囊肾病（ARPKD）的发病率约为1/10,000至1/20,000活产婴儿（1）；它是由位于6p21号染色体上的PKHD1基因突变引起的。相比之下，常染色体显性遗传性多囊肾病更为常见，约占活产婴儿1/400至1/1000 (2)。
+常染色体显性遗传性多囊肾病的症状通常要到成年后才会出现。很少有症状在婴儿期以更具侵略性的形式出现。当囊肿偶然发现或通过家族史发现时，儿童可能更早被诊断。
+在常染色体隐性多囊肾病中，肾脏和肝脏受到影响。 肾脏通常明显扩大且包含小囊泡；儿童肾衰竭常见。肝脏肿大，可见门管区纤维化、胆管增生及散在囊肿；其余肝实质正常。于5～10岁时，纤维化产生门脉高压，但肝功能正常或仅轻微异常。
+疾病的严重程和进展程度不同。严重病例可能在产前、出生后不久或幼儿期就出现肾脏相关症状；而受影响较轻的患者则在儿童晚期或青春期出现肝脏相关症状。
+受累新生儿因双侧对称、巨大坚硬而表面光滑的肾脏而引起腹部膨隆。病情严重的新生儿通常肺发育不良，系因宫内肾功能不全、羊水过少所致。
+至5～10岁，患儿出现门脉高压的征象，如食管、胃底静脉曲张和脾功能亢进。如果患儿青春期出现症状，则患肾增大并不明显，肾功能不全呈轻度或中度，症状以进行性肝纤维化门脉高压为主。
+常染色体隐性多囊肾的诊断有一定难度，特别对无阳性家族史的患者。超声检查可显示肾或肝的囊肿，明确诊断须通过病理活检。妊娠后期超声波是最好的诊断工具，宫内诊断可以此为依据。如果产后超声不确定，MRI或CT可作为诊断。如临床标准未满足，必要时可进行PKHD1基因分子检测。
+大部分病儿在生后数天到数周因肺功能不全而死亡。大多数存活者出现进行性肾衰竭，需行肾移植。儿童肾脏联合或不联合肝脏移植的经验有限。进行移植手术时，必须控制脾功能亢进，以避免因脾功能亢进导致的白细胞减少，从而降低全身感染的风险。门腔或脾肾分流只能减少病症发生而不能降低死亡率。
+
+【常染色体隐性遗传性多囊肾（ARPKD）参考资料】
+1.National Institute of Diabetes and Digestive and Kidney Diseases: Autosomal Recessive Polycystic Kidney Disease.Accessed July 31, 2024.
+1.National Institute of Diabetes and Digestive and Kidney Diseases: Autosomal Recessive Polycystic Kidney Disease.Accessed July 31, 2024.
+2.National Organization for Rare Disorders: Autosomal Dominant Polycystic Kidney Disease.Accessed August 6, 2024.
+2.National Organization for Rare Disorders: Autosomal Dominant Polycystic Kidney Disease.Accessed August 6, 2024.
+
+【重复畸形】
+多余的集合管系统可为单侧或双侧，可涉及肾盂和输尿管（副肾盂、双或三肾盂及输尿管）、肾盏、输尿管开口。重复肾仅有一个单一的肾单位，但是有着超过1个的集合系统。这种异常不同于融合肾，融合肾涉及维护各自单独集合系统的两个肾实质单位融合。一些重复畸形输尿管易出现异位开口，可伴或不伴输尿管囊肿和/或膀胱输尿管返流（VUR）。
+其治疗方式取决于畸形的解剖和每一集合管系统引流部分的肾功能。手术对于纠正输尿管梗阻和膀胱输尿管反流可能是有必要的。
+
+【融合畸形】
+伴有融合异常，肾融合，但输尿管在两侧分别进入膀胱。这些异常会增加肾盂输尿管连接部梗阻、膀胱输尿管返流、先天性肾囊性发育不良，以及由于前腹部外伤造成损伤的风险。
+马蹄肾 是最常见的肾脏融合畸形，脊柱两侧的肾实质在相对应的上极或下极融合（通常是下极），在中线的融合部分即为肾实质或纤维组织构成的峡部。两侧输尿管从峡部前内侧跨越，通常尿液引流良好。如有梗阻，则常为继发于肾盂内输尿管高位开口，而非因峡部压迫。
+肾盂成形术可解除梗阻，且无需切除峡部。
+
+【交叉融合肾异位】
+交叉融合肾异位是第二常见的肾融合畸形。肾实质（两个肾脏）位于脊柱的同一侧。其中一条输尿管横跨中线，在融合肾的对侧进入膀胱。
+当存在肾盂输尿管连接部梗阻时，肾盂成形术是首选治疗方法。
+
+【融合盆腔肾（薄饼肾）】
+融合肾（盆腔融合肾）较为罕见。一个单侧的肾脏由两个收集系统和输尿管服务。
+如果存在阻塞现象，就需要进行重建。
+
+【肾旋转不良】
+肾脏旋转不良通常没有临床意义。
+超声检查经常提示肾积水。当临床医生怀疑可能存在梗阻时，可能会进一步通过磁共振尿路造影或肾扫描进行评估。
+
+【多囊性肾发育不良】
+在多囊性发育不良肾（MCDK）中，存在一个无功能的肾单位，由互不相通的囊肿和其间由纤维组织、原始小管和软骨灶组成的实性组织构成。通常情况下，也存在输尿管闭锁。对侧肾脏通常是正常的，但多达10%的患者可能有膀胱输尿管返流或肾盂输尿管连接部梗阻。通常情况下，肾脏进行性退化，最终在超声上再也看不到。肿瘤、感染和/或高血压的发生较为罕见。
+大多数专家建议随访观察以监测退化。 若存在实体组织、进行性增大、罕见高血压，或导致疼痛的囊肿破裂，可考虑肾切除术。
+双侧肾发育不全作为羊水过少、肺发育不全及四肢和面部畸形综合征（典型波特综合征）的一部分，由于肺发育不全及随之而来的呼吸窘迫，患儿通常在数分钟至数小时内死亡。胎儿死亡是常见的。
+单侧肾发育不全的发生率约为每1/2000 至3000（1，2）。由于许多病例是由于多囊发育不良肾在宫内完全退化所致，因此真实发病率很难确定。常合并输尿管不发育，以及同侧膀胱三角区和输尿管开口缺如。然而，同侧肾上腺并不受影响。因代偿增生的独肾可维持正常肾功能，不需治疗。
+肾脏与输精管和子宫具有共同的胚胎起源。男孩可能有输精管发育不全，女孩可能有子宫异常。女孩可能出现半子宫阻塞。在青春期，对于有严重痛经、盆腔痛和/或盆腔肿块（因积血引起）的女孩，应考虑通过盆腔超声检查子宫异常（3）。
+
+【肾缺如参考文献】
+1.Laurichesse Delmas H, Kohler M, Doray B, et al.Congenital unilateral renal agenesis: Prevalence, prenatal diagnosis, associated anomalies.Data from two birth-defect registries.Birth Defects Res.2017;109(15):1204-1211.doi:10.1002/bdr2.1065
+1.Laurichesse Delmas H, Kohler M, Doray B, et al.Congenital unilateral renal agenesis: Prevalence, prenatal diagnosis, associated anomalies.Data from two birth-defect registries.Birth Defects Res.2017;109(15):1204-1211.doi:10.1002/bdr2.1065
+2.The Fetal Medicine Foundation.Renal agenesis.Accessed August 7, 2024.
+2.The Fetal Medicine Foundation.Renal agenesis.Accessed August 7, 2024.
+3.Tan YG, Laksmi NK, Yap TL, Sadhana N, Ong CCP.Preventing the O in OHVIRA (Obstructed Hemivagina Ipsilateral Renal Agenesis): Early Diagnosis and Management of Asymptomatic Herlyn-Werner-Wunderlich Syndrome.J Pediatr Surg.2020;55(7):1377-1380.doi:10.1016/j.jpedsurg.2019.06.006
+3.Tan YG, Laksmi NK, Yap TL, Sadhana N, Ong CCP.Preventing the O in OHVIRA (Obstructed Hemivagina Ipsilateral Renal Agenesis): Early Diagnosis and Management of Asymptomatic Herlyn-Werner-Wunderlich Syndrome.J Pediatr Surg.2020;55(7):1377-1380.doi:10.1016/j.jpedsurg.2019.06.006
+
+【肾发育不良】
+在肾发育不良（一种组织学诊断）中，肾脏血管、肾小管、集合管或排泄结构会出现发育异常。
+肾发育不良的诊断依靠活组织检查。
+如果发育不良是部分性的，通常不必要治疗。如为广泛发育不良，可能需要保护其肾功能，包括肾替代治疗。
+异位肾（肾位置异常），通常是由于肾脏无法从真性骨盆内的发源部位提升；有一种较为罕见的例外情况是肾脏过度提升（胸腔内）。盆腔异位肾会增加肾盂输尿管连接部梗阻、膀胱输尿管反流和多囊性肾发育不良的发生率。
+指征明确时（例如，引起高血压、反复感染或肾生长障碍），梗阻和严重的返流可以通过手术纠治。
+
+【肾发育不全】
+发育不良通常是由于输尿管芽分支不足，导致肾脏发育不全、体积较小，但肾单位在组织学上表现正常。
+若发育不全呈节段性，则可能引发高血压，此时可能需要行消融手术。应对患者的膀胱输尿管返流程度进行评估。

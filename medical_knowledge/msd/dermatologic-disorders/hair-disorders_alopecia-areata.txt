@@ -1,0 +1,57 @@
+标题：斑秃
+来源：https://www.msdmanuals.cn/professional/dermatologic-disorders/hair-disorders/alopecia-areata
+============================================================
+
+(参见脱发。）
+这张照片显示斑秃头皮上的头发出现斑片状脱落。
+© Springer Science+Business Media
+这张照片显示与斑秃一致的椭圆形脱发斑块。
+Photo courtesy of Karen McKoy, MD.
+发病部位通常为头皮和胡须，但理论上说可涉及所有毛发区域。脱发可能影响整个头皮(完全性脱发)或大部分或全部身体(全身性脱发)。 斑秃被认为是一种自身免疫疾病，影响处于不明环境诱因下的遗传易感人群。它偶尔与自身免疫性白癜风或甲状腺炎.相伴发生。
+
+【斑秃的诊断】
+诊断斑秃需要活检。斑秃通常表现为分散的斑片状脱发区，且边缘区头发碎而短，呈现“惊叹号”的形状。患者的指甲有时会有凹点，或表现为甲营养不良合并甲沟炎，扁平苔藓患者的指甲粗糙。 也可见到红色半月痕。
+鉴别诊断包括头癣、拔毛癖、拉扯性脱发、狼疮和二期梅毒。如果结果是模棱两可的，可用氢氧化钾制剂，真菌培养，筛查梅毒或活检来进行进一步的检测。对于那些临床研究结果表明与自身免疫疾病（特别是甲状腺病）有关联的患者，已对其自身免疫疾病进行了检测。
+偶尔需要huo'jian。
+
+【斑秃的治疗】
+皮质激素
+皮质激素
+有时外用蒽林、米诺地尔或两者合用。
+有时外用蒽林、米诺地尔或两者合用。
+有时采取局部免疫治疗
+有时采取局部免疫治疗
+有时使用巴瑞替尼、利曲替尼或甲氨蝶呤
+有时使用巴瑞替尼、利曲替尼或甲氨蝶呤
+很少光化学疗法或补骨脂素+紫外线A (PUVA)
+很少光化学疗法或补骨脂素+紫外线A (PUVA)
+使用假发和伪装技术
+使用假发和伪装技术
+若要考虑治疗，对于成年人可选择病灶内注射皮质类固醇。若为轻度症状，可用曲安奈德注射液（标准剂量为0.1~3mL，浓度2.5~5mg/mL，用4~8周）进行皮内注射。 可外用强效皮质类固醇（如0.05%泡沫的丙酸氯倍他索、胶体或药膏，每天2次，用时4周），但是该类药物通常无法穿透并到达炎症所在的毛球深度。口服激素常有效，但停药后症状会复发以及不良反应，都限制了该药物的使用。
+外敷蒽林霜（涂抹0.5%至1%，每日10至20分钟，然后冲洗，滴定耐受高达1小时/天的接触时间）可用于刺激轻度刺激性反应。5%米诺地尔溶液可作为皮质类固醇或蒽林疗法的佐剂使用。
+出于未明的机理，通过人工诱导过敏性接触性皮炎，使用二苯基环丙烯酮或如方形酸二丁酯（外用免疫疗法）会导致毛发生长，但该疗法最好预留给其他疗法未见效的扩散型脱发病患。
+巴瑞替尼和利曲替尼是 Janus 激酶 (JAK) 抑制剂，有利于治疗严重斑秃（1–4）。
+口服甲氨蝶呤已成功用于治疗成人和儿童的全秃和普秃。 每周用量为15~25mg。甲氨蝶呤也可以与口服皮质类固醇联合使用。其典型适应症为标准治疗失败的难治性斑秃患者(♦5, 6♦)。
+传统疗法失败的患者全身性和局部应用PUVA（补骨脂素和紫外线 A 光疗法）的有效率有限。然而，由于复发率高，缺乏随机对照试验，及PUVA有增加患癌风险，这是一种不太受欢迎的治疗方案。
+假发和伪装技术可以用来掩盖脱发的影响。
+
+【治疗参考文献】
+1.King B, Ohyama M, Kwon O, et al: Two phase 3 trials of baricitinib for alopecia areata.N Engl J Med386(18):1687-1699, 2022.doi: 10.1056/NEJMoa2110343
+1.King B, Ohyama M, Kwon O, et al: Two phase 3 trials of baricitinib for alopecia areata.N Engl J Med386(18):1687-1699, 2022.doi: 10.1056/NEJMoa2110343
+2.Ko JM, Mayo TT, Bergfeld WF, et al: Clinical outcomes for uptitration of baricitinib therapy in patients with severe alopecia areata: A pooled analysis of the BRAVE-AA1 and BRAVE-AA2 trials.JAMA Dermatol159(9):970-976, 2023.doi: 10.1001/jamadermatol.2023.2581
+2.Ko JM, Mayo TT, Bergfeld WF, et al: Clinical outcomes for uptitration of baricitinib therapy in patients with severe alopecia areata: A pooled analysis of the BRAVE-AA1 and BRAVE-AA2 trials.JAMA Dermatol159(9):970-976, 2023.doi: 10.1001/jamadermatol.2023.2581
+3.King BA, Craiglow BG: Janus kinase inhibitors for alopecia areata.J Am Acad Dermatol89(2S):S29-S32, 2023.doi: 10.1016/j.jaad.2023.05.049
+3.King BA, Craiglow BG: Janus kinase inhibitors for alopecia areata.J Am Acad Dermatol89(2S):S29-S32, 2023.doi: 10.1016/j.jaad.2023.05.049
+4.King B, Zhang X, Harcha WG, et al: Efficacy and safety of ritlecitinib in adults and adolescents with alopecia areata: A randomised, double-blind, multicentre, phase 2b-3 trial.Lancet401(10387):1518-1529, 2023.doi: 10.1016/S0140-6736(23)00222-2.Erratum in:Lancet401(10392):1928, 2023
+4.King B, Zhang X, Harcha WG, et al: Efficacy and safety of ritlecitinib in adults and adolescents with alopecia areata: A randomised, double-blind, multicentre, phase 2b-3 trial.Lancet401(10387):1518-1529, 2023.doi: 10.1016/S0140-6736(23)00222-2.Erratum in:Lancet401(10392):1928, 2023
+5.Meah N, Wall D, York K: The Alopecia Areata Consensus of Experts (ACE) study: Results of an international expert opinion on treatments for alopecia areata.J Am Acad Dermatol83(1):123-130, 2020.doi: 10.1016/j.jaad.2020.03.004
+5.Meah N, Wall D, York K: The Alopecia Areata Consensus of Experts (ACE) study: Results of an international expert opinion on treatments for alopecia areata.J Am Acad Dermatol83(1):123-130, 2020.doi: 10.1016/j.jaad.2020.03.004
+6.Strazzulla LC, Wang EHC, Avila L, et al: Alopecia areata: An appraisal of new treatment approaches and overview of current therapies.J Am Acad Dermatol78(1):15-24, 2018.doi: 10.1016/j.jaad.2017.04.1142
+6.Strazzulla LC, Wang EHC, Avila L, et al: Alopecia areata: An appraisal of new treatment approaches and overview of current therapies.J Am Acad Dermatol78(1):15-24, 2018.doi: 10.1016/j.jaad.2017.04.1142
+
+【斑秃的预后】
+斑秃可同时发生倒退、转变为慢性化或脱发面积弥散现象。慢性化的危险因素包括大面积脱发、青春期前发病、遗传性和外缘暂时的匐行性脱发(1)。
+
+【预后参考】
+1.Strazzulla LC, Wang EHC, Avila L, et al: Alopecia areata: Disease characteristics, clinical evaluation, and new perspectives on pathogenesis.J Am Acad Dermatol78(1):1-12, 2018.doi: 10.1016/j.jaad.2017.04.1141
+1.Strazzulla LC, Wang EHC, Avila L, et al: Alopecia areata: Disease characteristics, clinical evaluation, and new perspectives on pathogenesis.J Am Acad Dermatol78(1):1-12, 2018.doi: 10.1016/j.jaad.2017.04.1141

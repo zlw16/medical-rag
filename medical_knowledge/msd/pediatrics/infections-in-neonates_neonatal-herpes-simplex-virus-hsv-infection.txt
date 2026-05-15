@@ -1,0 +1,94 @@
+标题：新生儿单纯疱疹病毒感染(HSV）
+来源：https://www.msdmanuals.cn/professional/pediatrics/infections-in-neonates/neonatal-herpes-simplex-virus-hsv-infection
+============================================================
+
+（参见成人Herpes Simplex Virus （单纯疱疹病毒）[HSV]感染和新生儿感染概述。）
+新生儿Herpes Simplex Virus （单纯疱疹病毒，HSV）感染的死亡率和发病率都很高。美国的发病率高达约每2000个活产婴儿中有1例(1)。HSV 2型比HSV 1型导致更多的病例。
+HSV通常是在分娩过程中通过感染的母体生殖道或接触感染的阴道分泌物传播的。病毒经胎盘传播和医院人员或家属从一个新生儿到另一个新生儿的医院获得性传播可能是某些病例的原因。单纯疱疹病毒感染的新生儿的母亲往往有新获得的生殖器感染，但许多在分娩时没有症状。
+
+【参考文献】
+1.Committee on Infectious Diseases, American Academy of Pediatrics:Herpes SimplexinRed Book: 2024–2027 Report of the Committee on Infectious Diseases, ed.33, edited by Kimberlin DW, Banerjee R, Barnett ED, Lynfield R, and Sawyer MH.Itasca, American Academy of Pediatrics, 2024.
+1.Committee on Infectious Diseases, American Academy of Pediatrics:Herpes SimplexinRed Book: 2024–2027 Report of the Committee on Infectious Diseases, ed.33, edited by Kimberlin DW, Banerjee R, Barnett ED, Lynfield R, and Sawyer MH.Itasca, American Academy of Pediatrics, 2024.
+
+【新生儿单纯疱疹病毒感染的症状和体征】
+临床表现常发生在出生后1～3周，少数也可迟至出生后4周才出现症状。新生儿发病可为局灶性也可呈播散性。
+两种类型的新生儿均常见皮肤水疱，约 70% 的新生儿会出现该情况。没有皮肤水疱的新生儿通常有眼部病变、口腔病变或中枢神经系统(CNS)感染。在患有孤立性皮肤或粘膜疾病的新生儿中，如果不治疗，进行性或更严重的疾病形式通常在7至10天内出现(1)。
+新生儿口腔特写镜头显示由HSV-1引起的上唇下大型红色溃疡。
+新生儿口腔特写镜头显示由HSV-1引起的上唇下大型红色溃疡。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+这名患有晚期HIV感染的新生儿也有播散性HSV-2感染，病变覆盖全身。
+这名患有晚期HIV感染的新生儿也有播散性HSV-2感染，病变覆盖全身。
+DR M.A.ANSARY/SCIENCE PHOTO LIBRARY
+红斑基底上的簇状小泡具有特征性，可能出现在身体的任何部位。
+红斑基底上的簇状小泡具有特征性，可能出现在身体的任何部位。
+By permission of the publisher.From Demmler G: Congenital and perinatal infections.在《传染病图谱：儿科传染病》中。Edited by CM Wilfert.Philadelphia, Current Medicine, 1998.
+新生儿口腔特写镜头显示由HSV-1引起的上唇下大型红色溃疡。
+新生儿口腔特写镜头显示由HSV-1引起的上唇下大型红色溃疡。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+这名患有晚期HIV感染的新生儿也有播散性HSV-2感染，病变覆盖全身。
+这名患有晚期HIV感染的新生儿也有播散性HSV-2感染，病变覆盖全身。
+DR M.A.ANSARY/SCIENCE PHOTO LIBRARY
+红斑基底上的簇状小泡具有特征性，可能出现在身体的任何部位。
+红斑基底上的簇状小泡具有特征性，可能出现在身体的任何部位。
+By permission of the publisher.From Demmler G: Congenital and perinatal infections.在《传染病图谱：儿科传染病》中。Edited by CM Wilfert.Philadelphia, Current Medicine, 1998.
+
+【局灶性病变】
+局灶性病变的新生儿可分成两组：第一组为有神经系统表现的脑炎，脑脊液淋巴细胞增多和蛋白质含量增高，伴或不伴皮肤、眼睛和口腔病变；第二组仅有皮肤、眼睛和口腔的病变，而无中枢神经系统和其他器官病变的症状。
+
+【播散性病变】
+播散性病变和内脏器官受累的新生儿有肝炎、肺炎和（或）弥漫性血管内凝血，伴或不伴脑炎或皮肤病变。
+单独或同时出现的其他体征包括体温不稳、嗜睡、肌张力低下、呼吸困难、呼吸暂停和抽搐。
+
+【症状和体征】
+1.Kimberlin DW.Neonatal herpes simplex infection.Clin Microbiol Rev.2004;17(1):1-13.doi:10.1128/CMR.17.1.1-13.2004
+1.Kimberlin DW.Neonatal herpes simplex infection.Clin Microbiol Rev.2004;17(1):1-13.doi:10.1128/CMR.17.1.1-13.2004
+
+【新生儿单纯疱疹病毒感染的诊断】
+HSV培养或聚合酶链反应（PCR）检测
+HSV培养或聚合酶链反应（PCR）检测
+有时采用病灶的免疫荧光检查或电镜检查
+有时采用病灶的免疫荧光检查或电镜检查
+病毒培养和HSV PCR检测对新生儿单纯疱疹病毒感染做出快速诊断是非常重要的。最常见的取样部位是皮肤水疱。还应检测鼻咽、眼睛、直肠、血液和脑脊液。在一些表现为脑炎的新生儿，病毒仅在中枢神经系统发现。新生儿HSV的诊断也可通过病变刮片的免疫荧光检查，特别是使用单克隆抗体，以及电子显微镜进行。
+如果无病毒学诊断设备，用病损基底部细胞做帕氏涂片可显示特征性组织病理学依据（多核巨细胞和核内包涵体），但这一检查的敏感性比病毒培养差，可有假阳性。
+所有HSV感染患儿均应接受眼科检查和神经影像学检查。
+
+【新生儿单纯疱疹病毒感染的治疗】
+静脉注射阿昔洛韦
+静脉注射阿昔洛韦
+支持性治疗
+支持性治疗
+在疑似病例中应立即开始使用阿昔洛韦，同时等待确诊检测结果。对于播散性和/或CNS疾病的婴儿，给予阿昔洛韦治疗21天。在该治疗方案之后，给予任何形式HSV疾病的婴儿口服阿昔洛韦6个月；这种长期方案改善1岁时的神经发育结果，但可能导致中性粒细胞减少。
+需要积极的支持疗法，包括适当的静脉输液、营养支持、呼吸支持、纠正凝血异常和控制癫痫发作。
+对于局灶性病变（皮肤、口腔或结膜），使用阿昔洛韦持续治疗14天。
+疱疹性角结膜炎需要同时使用局部药物治疗，如三氟尿苷或更昔洛韦（见疱疹性角结膜炎的治疗）。
+
+【新生儿单纯疱疹病毒感染的预后】
+未经治疗的播散性单纯疱疹病毒感染的死亡率为85%，脑炎未经治疗的新生儿死亡率为50%。播散性疾病或脑炎中至少65%的存活者有严重的神经系统后遗症。适当的治疗，包括肠外阿昔洛韦，可以将中枢神经系统和播散性疾病的死亡率降低50%，并显著提高正常发育儿童的比例。然而，即使经过治疗，13%的播散性疾病患儿及40%-70%的中枢神经系统疾病患儿仍会出现神经和发育后遗症（1、2）。
+局限于皮肤、眼睛或口腔的局部疾病的新生儿死亡很少见。然而，若不治疗，许多此类新生儿会进展为播散性疾病或可能未被识别的中枢神经系统疾病。
+
+【预后参考】
+1.Kimberlin DW.Neonatal herpes simplex infection.Clin Microbiol Rev.2004;17(1):1-13.doi:10.1128/CMR.17.1.1-13.2004
+1.Kimberlin DW.Neonatal herpes simplex infection.Clin Microbiol Rev.2004;17(1):1-13.doi:10.1128/CMR.17.1.1-13.2004
+2.Malm G.Neonatal herpes simplex virus infection.Semin Fetal Neonatal Med.2009;14(4):204-208.doi:10.1016/j.siny.2009.01.005
+2.Malm G.Neonatal herpes simplex virus infection.Semin Fetal Neonatal Med.2009;14(4):204-208.doi:10.1016/j.siny.2009.01.005
+
+【预防新生儿单纯疱疹病毒感染】
+预防新生儿传播的一些举措已经被证实是并不十分有效的。普遍性的筛查并不受到推荐，也并未证实是有效的，大多数有传播风险的母体感染是无症状的。
+为预防新生儿疱疹感染，有生殖器疱疹史的孕妇应在妊娠36周或36周之后接受抑制性抗病毒治疗（1）。对于分娩时有活动性生殖器单纯疱疹病变或前驱症状的孕妇，建议行剖宫产。
+在阴道分娩时出现活跃生殖器损伤的妇女所生的新生儿应进行HSV感染的评估和检测*2）。
+
+【预防参考文献】
+1.Management of Genital Herpes in Pregnancy: ACOG Practice Bulletin, Number 220.Obstet Gynecol.2020;135(5):e193-e202.doi:10.1097/AOG.0000000000003840
+1.Management of Genital Herpes in Pregnancy: ACOG Practice Bulletin, Number 220.Obstet Gynecol.2020;135(5):e193-e202.doi:10.1097/AOG.0000000000003840
+2.Kimberlin DW, Baley J, Committee on infectious diseases, Committee on fetus and newborn.Guidance on management of asymptomatic neonates born to women with active genital herpes lesions.Pediatrics.2013;131(2):e635-646.doi:10.1542/peds.2012-3216
+2.Kimberlin DW, Baley J, Committee on infectious diseases, Committee on fetus and newborn.Guidance on management of asymptomatic neonates born to women with active genital herpes lesions.Pediatrics.2013;131(2):e635-646.doi:10.1542/peds.2012-3216
+新生儿疱疹感染可以局限于皮肤、眼睛或口腔、中枢神经系统，或可以发生播散性感染。
+新生儿疱疹感染可以局限于皮肤、眼睛或口腔、中枢神经系统，或可以发生播散性感染。
+脑炎和播散性疾病具有高死亡率，并且神经系统后遗症在幸存者中是常见的。
+脑炎和播散性疾病具有高死亡率，并且神经系统后遗症在幸存者中是常见的。
+在疑似病例中，推定治疗和通过HSV PCR快速诊断脑脊液、血液或病变对于优化结果至关重要。
+在疑似病例中，推定治疗和通过HSV PCR快速诊断脑脊液、血液或病变对于优化结果至关重要。
+对局部和播散性疾病都应给予静脉阿昔洛韦治疗。
+对局部和播散性疾病都应给予静脉阿昔洛韦治疗。
+如果母亲在足月时有活动性生殖器疱疹病变或前驱症状，应进行剖宫产。
+如果母亲在足月时有活动性生殖器疱疹病变或前驱症状，应进行剖宫产。

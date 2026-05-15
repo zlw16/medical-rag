@@ -1,0 +1,64 @@
+标题：缺血性视神经病变
+来源：https://www.msdmanuals.cn/professional/eye-disorders/optic-nerve-disorders/ischemic-optic-neuropathy
+============================================================
+
+视神经梗死有两种类型：动脉炎型和非动脉炎型。
+非动脉炎型的比例更高，典型的见于50岁以上的人群。视力下降往往不像动脉炎型那样严重，其通常见于年龄较大的老年人，典型的约70岁及以上。
+大部分缺血性视神经病变为单侧发病。约 15% 的非动脉炎性缺血性视神经病变患者在 5 年内会出现双侧、连续性病变（1)，但双侧同时受累的情况并不常见。双侧累及在动脉炎型中比非动脉炎型的更加多见。
+睫状后动脉粥样硬化性狭窄易导致非动脉性视神经梗塞，特别是在低血压发作后。任何一种炎症性动脉炎，尤其是巨细胞动脉炎能够促发动脉炎型缺血性视神经病变。
+急性缺血造成视神经水肿，又进一步加重缺血。杯盘比值小是非动脉炎性缺血性视神经病变的危险因素，但是不增加动脉炎型的危险。 虽然有部分患者合并有动脉粥样硬化（如糖尿病，吸烟，高血压）、阻塞性睡眠呼吸暂停、某些药物（如胺碘酮，可能是磷酸二酯酶-5抑制剂）和高凝性疾病等，被认为是相关的危险因素，但通常认为全身状况与非动脉炎型缺血性视神经病变的发生无直接关系。由于视力下降多发生在晨间清醒时，导致研究者怀疑夜间低血压可能是非动脉炎型缺血性视神经病变的潜在病因。
+
+【参考文献】
+1.Newman NJ, Scherer R, Langenberg P, et al: The fellow eye in NAION: Report from the ischemic optic neuropathy decompression trial follow-up study.Am J Ophthalmol134(3):317-328, 2002.doi: 10.1016/s0002-9394(02)01639-2
+1.Newman NJ, Scherer R, Langenberg P, et al: The fellow eye in NAION: Report from the ischemic optic neuropathy decompression trial follow-up study.Am J Ophthalmol134(3):317-328, 2002.doi: 10.1016/s0002-9394(02)01639-2
+
+【缺血性视神经病变的症状和体征】
+两种类型视神经梗死引起的视力下降典型地都表现为发病快（数分钟、数小时至数天）和无痛性。有些患者的视力下降发生在清晨觉醒时。在动脉炎缺血性视神经病变中，由于巨细胞动脉炎通常会出现全身不适、肌肉酸痛、太阳穴头痛、梳头时疼痛、下颌跛行和颞动脉压痛等症状；然而，在多达 20% 的病例中可能没有这些症状（1）。视力通常会下降，并伴有传入性瞳孔缺陷。
+视盘水肿和隆起，水肿的神经纤维掩盖了视神经表面的微小血管。常有视盘周围的出血。动脉炎型的视盘可表现为苍白，而非动脉炎型的表现为充血。两种类型的视野检查常常显示垂直的和/或中心视野的缺损。
+
+【症状和体征】
+1.Chen JJ, Leavitt JA, Fang C, et al: Evaluating the incidence of arteritic ischemic optic neuropathy and other causes of vision loss from giant cell arteritis.Ophthalmology123(9):1999-2003, 2016.doi: 10.1016/j.ophtha.2016.05.008
+1.Chen JJ, Leavitt JA, Fang C, et al: Evaluating the incidence of arteritic ischemic optic neuropathy and other causes of vision loss from giant cell arteritis.Ophthalmology123(9):1999-2003, 2016.doi: 10.1016/j.ophtha.2016.05.008
+
+【缺血性视神经病变的诊断】
+ESR 红细胞沉降率（ESR）、C反应蛋白和全血细胞计数（CBC）
+ESR 红细胞沉降率（ESR）、C反应蛋白和全血细胞计数（CBC）
+如果视力丧失是渐进性的，则对大脑和眼眶进行计算机断层扫描（CT）或磁共振成像（MRI）
+如果视力丧失是渐进性的，则对大脑和眼眶进行计算机断层扫描（CT）或磁共振成像（MRI）
+视神经梗死的诊断主要依据临床，但可能需要进行一些辅助检查。最重要的是排除动脉炎，因为如果不迅速开始皮质类固醇治疗，另一只眼也有危险。立即检查包括ESR，CBC和C反应蛋白。通常动脉炎型的血沉（ESR）显著升高，常超过100mm/h，而非动脉炎型的正常。C-反应蛋白也升高，在诊断巨细胞动脉炎时比 ESR 更敏感。经活检证实的 GCA 中，只有 4% 的 C 反应蛋白和 ESR 值均正常。CBC是为了辨别血小板增多症（>400×103/mcL），这补充了单独使用ESR的阳性和阴性预测值 (1)。
+如果怀疑巨细胞动脉炎，应立即开始使用皮质类固醇，并尽快进行颞动脉活检（至少在1至2周内，因为泼尼松治疗的效果可能会降低组织病理学的诊断率）。C反应蛋白水平变化用于监测疾病的活动性和对治疗的效果。对于进行性视力丧失的病例，应对大脑和眼眶进行CT或MRI检查，以排除压迫性病变。
+对于非动脉炎型缺血性视神经病变，可根据怀疑的病因或危险因素进行额外的检查。例如，如果患者白天睡眠过多或打鼾或肥胖，应考虑做多导睡眠监测以诊断阻塞性睡眠呼吸暂停。
+
+【诊断参考文献】
+1.Walvick MD, Walvick MP: Giant cell arteritis: Laboratory predictors of a positive temporal artery biopsy.Ophthalmology118(6):1201-1204, 2011.doi:10.1016/j.ophtha.2010.10.002
+1.Walvick MD, Walvick MP: Giant cell arteritis: Laboratory predictors of a positive temporal artery biopsy.Ophthalmology118(6):1201-1204, 2011.doi:10.1016/j.ophtha.2010.10.002
+
+【缺血性视神经病变的治疗】
+动脉炎型需要口服皮质类固醇和tocilizumab单抗
+动脉炎型需要口服皮质类固醇和tocilizumab单抗
+动脉炎用口服皮质类固醇治疗（泼尼松80mg，每天口服一次，根据红细胞沉降率和C反应蛋白逐渐减少），以保护另一只眼睛。如果视力丧失，应考虑静脉注射皮质类固醇。等待活检或其结果的同时应该进行治疗。临床试验结果表明，在巨细胞动脉炎中，与单独使用皮质类固醇相比，在逐渐减少皮质类固醇时给予托珠单抗可改善无糖皮质激素缓解（1）。目前尚无针对非动脉炎类型的有效方法。应优化血管危险因素。 低视力助视治疗（如放大镜、大字体设备、语音手表）对两种类型均可能有帮助。
+
+【经验与提示】
+经验与提示
+如果怀疑巨细胞动脉炎，对55岁及以上突然无痛性视力丧失的患者，应尽快给予全身皮质类固醇治疗。
+如果怀疑巨细胞动脉炎，对55岁及以上突然无痛性视力丧失的患者，应尽快给予全身皮质类固醇治疗。
+
+【治疗参考文献】
+1.Stone JH, Tuckwell K, Dimonaco S, et al: Trial of tocilizumab in giant-cell arteritis.N Engl J Med377(4):317-328, 2017.doi: 10.1056/NEJMoa1613849
+1.Stone JH, Tuckwell K, Dimonaco S, et al: Trial of tocilizumab in giant-cell arteritis.N Engl J Med377(4):317-328, 2017.doi: 10.1056/NEJMoa1613849
+
+【缺血性视神经病变的预后】
+对于非动脉炎性视神经梗塞，目前尚无有效治疗方法；然而，高达 40% 的患者视力可自行轻度恢复（1）。
+在由巨细胞动脉炎引起的动脉炎型中，视力和视野的损失通常较大。即时治疗不会恢复受累眼的视力，但保护未受累的眼睛。治疗不充分会导致复发和额外的视力丧失。
+
+【预后参考】
+1.Singh S, Zimmerman MB: Nonarteritic anterior ischemic optic neuropathy: natural history of visual outcome.Ophthalmology115(2):298-305.e2, 2008.PMID: 17698200
+1.Singh S, Zimmerman MB: Nonarteritic anterior ischemic optic neuropathy: natural history of visual outcome.Ophthalmology115(2):298-305.e2, 2008.PMID: 17698200
+缺血性视神经病变通常由动脉粥样硬化引起，但应始终排除巨细胞动脉炎的可能性。
+缺血性视神经病变通常由动脉粥样硬化引起，但应始终排除巨细胞动脉炎的可能性。
+55岁及以上患者有突然的、无痛性视力下降，应疑为缺血性视神经病变。
+55岁及以上患者有突然的、无痛性视力下降，应疑为缺血性视神经病变。
+如果怀疑巨细胞动脉炎，用皮质类固醇治疗，以降低对侧受累的风险。
+如果怀疑巨细胞动脉炎，用皮质类固醇治疗，以降低对侧受累的风险。
+视力预后不良。
+视力预后不良。

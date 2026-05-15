@@ -1,0 +1,225 @@
+标题：心绞痛
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/coronary-artery-disease/angina-pectoris
+============================================================
+
+(参见冠状动脉疾病概述。）
+
+【心绞痛的病因】
+心绞痛发生于
+心脏负荷和由此产生的心肌耗氧量超过冠脉的充足供氧能力时。
+心脏负荷和由此产生的心肌耗氧量超过冠脉的充足供氧能力时。
+当动脉狭窄时，就会出现这种供需之间的不平衡。狭窄通常是由于
+冠状动脉粥样硬化
+冠状动脉粥样硬化
+冠状动脉狭窄也可能是由于
+冠状动脉痉挛
+冠状动脉痉挛
+冠状动脉栓塞（罕见）
+冠状动脉栓塞（罕见）
+急性冠状动脉血栓形成通常会导致心肌梗死，但如果管腔部分或一过性阻塞则会引起心绞痛。
+心率、收缩期室壁张力和心肌收缩力是心肌需氧量的主要决定因素，所以冠状动脉狭窄可导致典型的劳力型心绞痛，休息后缓解。
+除劳累之外，一些疾病也会增加心脏做功，如高血压、主动脉瓣狭窄、主动脉瓣反流或肥厚型心肌病。此时，无论动脉粥样硬化存在与否，均会发生心绞痛。这些疾病还可降低相对心肌灌注，因为心肌质量增加（导致舒张期血流减少）。
+在严重贫血或低氧时氧供减少亦可诱发或加重心绞痛。
+
+【心绞痛的病理生理学】
+心绞痛可分为
+不稳定型
+不稳定型
+在稳定型心绞痛中，心脏做功或需氧量与心肌缺血之间的关系通常相对可预测。
+不稳定的心绞痛临床常表现为恶化型心绞痛（如静息心绞痛或发作频率增加或疼痛程度加剧）。
+动脉粥样硬化的血管狭窄程度并不完全固定，它会随生理性血管张力的正常波动而变化。因此，大多数患者在清晨发生心绞痛，因为此时动脉张力相对较高。 另外，内皮功能异常也可引起血管张力变化：如在粥样斑块引起的内皮受损中，儿茶酚胺分泌过多可引起血管收缩而不是扩张（正常反应）。
+心肌缺血引起冠状窦血液pH降低、细胞内钾丢失、乳酸堆积，进而导致心电图异常和心功能（包括收缩和舒张功能）恶化。心绞痛时左室舒张压升高，可引起肺淤血和呼吸困难。心肌缺血引起不适的确切机制尚不明确，可能是缺氧性代谢产物刺激神经所致。
+
+【心绞痛的症状和体征】
+心绞痛可以是一种模糊不清、仅仅有不适感的隐痛，也可迅速变为严重而剧烈的心前区压榨感。它很少被描述为“疼痛”。 不适感可发生在不同部位，最常见于胸骨后，可放射到左肩，下行至左臂内侧，甚至到达手指；也可放射 至后背、咽喉、下颌和牙齿，偶尔可至右臂内侧；也可位于上腹部。心绞痛从不发生在耳以上或脐以下部位。
+非典型心绞痛在一些患者中可能表现为腹胀、胀气、腹部不适、背部、肩部、手臂或下巴灼热或压痛等症状，且在女性患者中更为常见。这些患者通常将症状归因于消化不良；甚至打嗝可以缓解症状。一些患者表现为呼吸困难，是由伴随心肌缺血发生的左室充盈压急剧、可逆性升高所致。患者的描述常常不是很精确，究竟是心绞痛或是呼吸困难，还是两者兼而有之很难判断。由于心肌缺血的症状需要一分钟或更长时间来缓解，一过性不适通常不是心绞痛。
+心绞痛发作间期甚至发作时，体征可以是正常的。心绞痛发作时，心率可轻微加快，血压常升高，心音更遥远， 心尖搏动更弥散。缺血发作时左心室射血时间延长，第二心音（S2）可出现反常分裂。第四心音（S4）常见，第三心音（S3）也可出现。 如果局部缺血引起乳头肌功能障碍，导致二尖瓣反流，心尖区可出现尖锐的或吹风样的收缩中晚期杂音，但不是特别大声的杂音。
+典型的心绞痛由体力活动或强烈情绪所诱发，通常持续不过数分钟，休息后可缓解。对体力活动的反应常可预测。但一些患者某日能够耐受而不引起症状的运动量，却可在翌日出现心绞痛，这是因为动脉张力变化所致。餐后或寒冷中进行体力活动可使症状加重；风中行走或离开温室外出接触冷空气可诱发心绞痛。根据引起心绞痛的体力活动强度可对症状的严重程度进行分类（见表加拿大心血管学会心绞痛分级系统）。
+
+【加拿大心血管学会心绞痛分级系统】
+加拿大心血管学会心绞痛分级系统
+触发胸痛的体力活动量
+高强度、快速或长时间体力活动
+非日常体力活动（如步行、上楼）
+快速行走
+快速上楼
+餐后步行或上楼
+情绪激动
+常速、平地步行1或2个街区
+上楼梯，即使只有一层
+任何体力活动
+有时在静息时
+Adapted fromBraunwald E, Antman EM, Beasley JW, et al: ACC/AHA Guidelines for the management of patients with unstable angina and non-ST segment elevation myocardial infarction: A report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (Committee on the management of patients with unstable angina).Circulation102(10):1193–209, 2000. doi: 10.1161/01.cir.102.10.1193
+Adapted fromBraunwald E, Antman EM, Beasley JW, et al: ACC/AHA Guidelines for the management of patients with unstable angina and non-ST segment elevation myocardial infarction: A report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (Committee on the management of patients with unstable angina).Circulation102(10):1193–209, 2000. doi: 10.1161/01.cir.102.10.1193
+心绞痛发作次数不等，可一天数次，亦可间隔数周、数月或数年。发作频率可能增加（称为渐强型心绞痛），导致心肌梗死或死亡。相反，如果出现足够的侧支冠状动脉循环、缺血区梗塞、心力衰竭或继发间歇性跛行并限制活动，则发作可能会逐渐减少或消失。
+做梦引起呼吸、心率和血压的显著变化，可发生夜间心绞痛。夜间心绞痛也可能是复发性左心衰竭的信号，而后者（复发性左心衰竭）等同于夜间阵发性呼吸困难。卧位会增加静脉回流，延展心肌、增加室壁应力，从而增加心肌需氧。
+卧位性心绞痛是一种在人躺下时自发发生的心绞痛，但不一定在晚上发生。常伴有心率轻微加快，有时血压显著升高，从而增加心肌耗氧。这些变化可能是静息型心绞痛的原因，也可能是斑块破裂和血栓形成所致心肌缺血的结果。如果心绞痛不缓解，未满足的心肌需氧量进一步增加，心肌梗死风险升高。
+
+【不稳定型心绞痛】
+由于对于特定患者，心绞痛的特征通常是可以预测的，因此任何变化（即静息时心绞痛、新发心绞痛、加重性心绞痛、新发夜间心绞痛或新发卧位心绞痛）都应被视为严重情况，尤其是当心绞痛严重时（即加拿大心血管协会 3 级或 4 级）。这些变化称为不稳定型心绞痛，需要迅速评估和治疗。
+
+【心绞痛的诊断】
+典型症状
+典型症状
+心电图 （ECG）
+心电图 （ECG）
+使用ECG或成像（使用超声心动图、放射性核素成像、正电子放射断层造影术[PET]或MRI）进行压力测试
+使用ECG或成像（使用超声心动图、放射性核素成像、正电子放射断层造影术[PET]或MRI）进行压力测试
+CT 血管造影或 CT 血流储备分数 (CT FFR)
+CT 血管造影或 CT 血流储备分数 (CT FFR)
+对于有明显症状、负荷试验阳性或CT FFR显示明显病变的患者，需行冠状动脉造影。
+对于有明显症状、负荷试验阳性或CT FFR显示明显病变的患者，需行冠状动脉造影。
+如果症状典型，并且可由体力活动诱发，休息后缓解，应怀疑心绞痛。病史中如有冠心病危险因素可进一步支持该诊断。若患者胸部不适持续时间>20分钟或在静息时发生或出现晕厥或心力衰竭，则需考虑急性冠脉综合征。
+胸部不适也可由胃肠道疾病（如胃食管反流、食管痉挛、消化不良、胆结石）、肋软骨炎、焦虑、惊恐发作、过度通气以及其他心脏疾病（如主动脉夹层、心包炎、二尖瓣脱垂、室上性心动过速、心房颤动）引发。
+应常规行心电图检查。更具体的辅助检查包括心电图或心肌成像（如超声心动图、放射性核素成像、PET、MRI）负荷试验以及冠脉造影。优先考虑无创性检查。
+如存在典型劳力型心绞痛，有指征完善ECG检查。因为这种类型心绞痛休息后可迅速缓解，发作时很少能获得ECG记录，除非是在负荷试验时。
+如果在心绞痛发作期间进行心电图检查，可能显示可逆的缺血性改变：
+T波与QRS波方向不一致
+T波与QRS波方向不一致
+ST段压低（典型的）
+ST段压低（典型的）
+ST段抬高
+ST段抬高
+R波高度降低
+R波高度降低
+心室内或束支传导阻滞
+心室内或束支传导阻滞
+心律失常（通常是室性期前收缩）
+心律失常（通常是室性期前收缩）
+在心绞痛发作间期，约30%有典型心绞痛病史的患者，即使是广泛的三支血管病变患者，静息状态下的心电图（以及通常的左室功能）也是正常的。另外70％患者中，ECG可显示既往心肌梗死、心肌肥厚或非特异性ST段和T波（ST-T）异常的证据。仅有静息ECG异常不能建立或排除诊断。
+
+【负荷试验】
+负荷试验用于
+确认诊断
+确认诊断
+评估疾病严重程度
+评估疾病严重程度
+确定适合患者的运动水平
+确定适合患者的运动水平
+帮助预测预后
+帮助预测预后
+若临床诊断为不稳定型心绞痛，早期负荷试验为禁忌。
+如果患者的静息心电图正常且可以运动，则进行运动负荷心电图检查。对于胸部不适提示心绞痛的男性，压力心电图测试的敏感性约为 70%，特异性约为 80%（1）。对于女性来说，这一估计值略低。然而，女性冠心病患者较男性更易出现静息心电图的异常（32% vs 23%）。尽管敏感性很高，负荷心电图仍可漏诊严重冠脉病变（甚至左主干或三支病变）。对于症状不典型的患者，负荷心电图阴性通常可排除心绞痛和冠心病；阳性结果可能提示冠状动脉缺血，需要进一步检查确认。
+当静息ECG异常时进行心肌成像压力测试，因为在应力ECG上，假阳性ST段移位很常见。 负荷试验中多采用运动或药物（如多巴酚丁胺或双嘧达莫）诱发。成像选择包括应激超声心动图、单光子发射CT (SPECT)或PET心肌灌注成像和应激MRI。具体的影像学检查手段由中心可获取设备及专长决定。影像学检查可评估左室功能及其对应激的反应；区分缺血、梗死及存活的心肌；发现存在风险的心肌位点及范围。负荷超声心动图可同时发现缺血诱发的二尖瓣反流。
+
+【冠状动脉造影】
+冠状动脉造影是诊断冠状动脉疾病的金标准，但并非确诊的必要手段。主要用于在考虑血运重建（经皮冠状动脉介入治疗[PCI]或冠状动脉旁路移植术[CABG]）时定位和评估冠状动脉病变的严重程度。当需要了解冠状动脉解剖情况以提供工作或生活方式建议时（如停止工作或体育活动），也可能需要进行血管造影。尽管血管造影结果不能直接显示冠脉病变的血流动力学意义，但当管腔直径狭窄>70%时被认为具有生理学意义。除非存在痉挛或血栓形成，否则当直径狭窄<70%时，通常不会出现心绞痛。
+血管内超声检查(IVUS)能够展示冠状动脉结构图像，通过冠脉造影过程中导管头端的超声探头伸入冠脉血管内获得。该检查能够提供冠脉解剖的更多信息，特别是在病变性质不明或冠脉病变程度与症状严重程度不相符时。在血管成形术中，结合血管内超声可确保支架的恰当植入。
+带有压力或血流传感器的导丝可用于评估通过狭窄部位的血流。血流用血流储备分数（FFR）表示，即通过狭窄区域的最大血流与正常最大血流的比值。当评估病变严重程度存疑（40%至70%的狭窄）的患者是否需要进行血管成形术或CABG时，这些血流测量最为有用。FFR值为1.0被认为是正常的，而FFR＜0.75至0.8则与心肌缺血相关。FFR>0.8时支架植入的获益有限。
+光学相干断层扫描（OCT）是冠状动脉造影期间可以使用的另一种成像方式，它使用近红外光提供冠状动脉的高分辨率横截面图像，其分辨率高于 IVUS（2、3）。OCT 已用于帮助优化 PCI 期间支架的放置和尺寸调整。然而，其在接受血管造影的 CAD 患者常规临床护理中的作用尚未完全确定。
+
+【冠状动脉成像】
+静息时进行的无创影像研究可以评估冠状动脉。
+电子束CT可测定冠脉斑块的钙含量，钙化评分与后续冠状动脉事件的风险大致成正比。然而，由于在没有显著狭窄的情况下也可能存在钙化，因此该评分与PCI或CABG的必要性相关性不佳。因此，美国心脏协会建议，电子束CT筛查应仅针对特定患者群体进行，并且当与病史和临床数据结合以评估死亡或非致命性心肌梗死风险时，最具价值 (4)。这些人群可能包括10年动脉粥样硬化性心血管疾病（ASCVD）风险估计为中度（10%至20%）的无症状患者，以及负荷试验结果不明确的有症状患者。电子束CT对于排除急诊室中症状不典型、肌钙蛋白正常、以及血流动力学上显著冠状动脉疾病可能性较低的患者时非常有用。这些患者可至门诊进一步完善无创检查。
+多排CT（MDRCT）冠状动脉造影可准确识别冠状动脉狭窄，并具有多项优势。该检查无创，可排除冠脉狭窄，检测支架或桥血管是否通畅，展示心脏及冠脉解剖，评估钙化及非钙化斑块负荷。也可以估计重要病灶的血流储备分数 (FFR) 和病灶特异性缺血的估计 (5) 。然而，辐射暴露是显著的，因此对心率>65次/分钟的患者、心律不齐者、肾功能不全者以及孕妇，必须慎重使用MDRCT。同时在检查过程中要求患者能够屏住呼吸15-20秒，重复3-4次。
+MDRCT冠脉成像的适应证包括：
+无症状高危患者
+无症状高危患者
+运动负荷试验结果不明确、无法耐受运动负荷试验、或需要接受非心脏大手术的不典型或典型心绞痛患者
+运动负荷试验结果不明确、无法耐受运动负荷试验、或需要接受非心脏大手术的不典型或典型心绞痛患者
+有创性冠脉造影检查无法定位冠脉主要血管或桥血管的患者。
+有创性冠脉造影检查无法定位冠脉主要血管或桥血管的患者。
+心脏磁共振成像（核磁共振）对于评估许多心脏和大血管异常非常有价值。心脏MRI可通过多项技术评估冠脉病变，包括直观显示冠脉狭窄，评估冠脉血流，检测心肌灌注及代谢，评估应激状态下室壁运动异常，以及区分梗死及存活心肌。
+心脏MRI的适应症包括评估心脏结构和功能以及评估心肌活力。心脏MRI，特别是负荷灌注MRI和心肌血流定量分析，也可用于诊断和评估已知或疑似CAD患者的风险。
+
+【诊断参考】
+1.Fletcher GF, Ades PA, Kligfield P, et al: Exercise standards for testing and training: a scientific statement from the American Heart Association.Circulation128(8):873–934, 2013.doi:10.1161/CIR.0b013e31829b5b44
+1.Fletcher GF, Ades PA, Kligfield P, et al: Exercise standards for testing and training: a scientific statement from the American Heart Association.Circulation128(8):873–934, 2013.doi:10.1161/CIR.0b013e31829b5b44
+2.Araki M, Park SJ, Dauerman HL, et al: Optical coherence tomography in coronary atherosclerosis assessment and intervention.Nat Rev Cardiol19(10):684–703, 2022.doi:10.1038/s41569-022-00687-9
+2.Araki M, Park SJ, Dauerman HL, et al: Optical coherence tomography in coronary atherosclerosis assessment and intervention.Nat Rev Cardiol19(10):684–703, 2022.doi:10.1038/s41569-022-00687-9
+3.Wulandari AP, Pintaningrum Y, Adheriyani R.Outcomes of optical coherence tomography guided percutaneous coronary intervention against angiography guided in patients with coronary artery disease: A systematic reviews and meta-analyses.Indian Heart J2023;75(2):108-114.doi:10.1016/j.ihj.2023.01.009
+3.Wulandari AP, Pintaningrum Y, Adheriyani R.Outcomes of optical coherence tomography guided percutaneous coronary intervention against angiography guided in patients with coronary artery disease: A systematic reviews and meta-analyses.Indian Heart J2023;75(2):108-114.doi:10.1016/j.ihj.2023.01.009
+4.Taylor AJ, Cerqueira M, Hodgson J McB, et al: ACCF/SCCT/ACR/AHA/ASE/ASNC/SCAI/SCMR 2010 Appropriate Use Criteria for Cardiac Computed Tomography.J Am Coll Cardiol56: 1864–1894, 2010.doi: 10.1016/j.jacc.2010.07.005
+4.Taylor AJ, Cerqueira M, Hodgson J McB, et al: ACCF/SCCT/ACR/AHA/ASE/ASNC/SCAI/SCMR 2010 Appropriate Use Criteria for Cardiac Computed Tomography.J Am Coll Cardiol56: 1864–1894, 2010.doi: 10.1016/j.jacc.2010.07.005
+5.Gulati M, Levy PD, Mukherjee D, et al: 2021 AHA/ACC Guideline for Evaluation and Diagnosis of Chest Pain:  A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation144:e368–e454, 2021.https://www.ahajournals.org/doi/epdf/10.1161/CIR.0000000000001029
+5.Gulati M, Levy PD, Mukherjee D, et al: 2021 AHA/ACC Guideline for Evaluation and Diagnosis of Chest Pain:  A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation144:e368–e454, 2021.https://www.ahajournals.org/doi/epdf/10.1161/CIR.0000000000001029
+
+【治疗心绞痛】
+危险因素的改变（吸烟、血压、血脂）
+危险因素的改变（吸烟、血压、血脂）
+抗血小板药物（阿司匹林，有时联合氯吡格雷、普拉格雷或替格瑞洛）
+抗血小板药物（阿司匹林，有时联合氯吡格雷、普拉格雷或替格瑞洛）
+beta受体阻滞剂
+beta受体阻滞剂
+硝酸酯类和钙通道阻滞剂用以控制症状
+硝酸酯类和钙通道阻滞剂用以控制症状
+血管紧张素转换酶（ACE）抑制剂和他汀类药物
+血管紧张素转换酶（ACE）抑制剂和他汀类药物
+如药物治疗症状持续存在则血运重建
+如药物治疗症状持续存在则血运重建
+尽可能改变可逆性的危险因素。吸烟者应戒烟；戒烟2年或更长时间后，心肌梗死风险可降至与从不吸烟者相当的水平。高血压（CAD患者血压>130/80 mmHg）需要认真治疗，因为即使是轻度高血压也会增加心脏负荷。单纯减轻体重常可减轻心绞痛严重程度。有时治疗轻度左心衰竭可显著减少心绞痛发作。然而，洋地黄偶尔会加重心绞痛，推测是因为增加心肌收缩力从而增加氧需求、增加动脉张力，或两者兼有。强化降低总胆固醇和 LDL胆固醇 （通过饮食治疗，加用他汀类药物）可延缓冠心病的进展，逆转某些病变，改善内皮功能，从而改善血管对应激的反应性。一份强调步行的运动方案常可提高幸福感，降低急性缺血事件风险，同时提高运动耐量。
+
+【治疗心绞痛的药物】
+主要目的是
+缓解急性症状；
+缓解急性症状；
+预防或减轻缺血；
+预防或减轻缺血；
+预防未来的缺血事件
+预防未来的缺血事件
+（另见表格冠状动脉疾病药物治疗。）
+为了在急性发作时缓解症状，舌下硝酸甘油是最有效的药物。
+硝酸甘油是一种强效的平滑肌松弛剂和血管扩张剂。其主要作用位点是外周血管树，特别是静脉或容量血管系统以及冠脉血管，甚至严重粥样硬化血管的非粥样硬化区亦可发挥作用。硝酸甘油可降低收缩压并扩张全身静脉，从而降低心肌壁张力，而心肌壁张力是心肌需氧量的主要决定因素。舌下含服硝酸甘油用于心绞痛急性发作或用力活动前预防心绞痛。通常1.5-3分钟内显著缓解，大约5分钟完全缓解，作用持续30分钟。如果缓解不完全，可于4-5分钟后重复该剂量，最多重复3次。患者在任何时间都应随身携带硝酸甘油片剂或气雾剂，以便在心绞痛发作时能立即使用。应把该药存放在密闭、避光的玻璃容器中，以免失效。由于药物保质期短，应经常、少量地加以补充。
+预防缺血，使用了几类药物：
+抗血小板药物：所有诊断冠心病的患者或冠心病高危患者
+抗血小板药物：所有诊断冠心病的患者或冠心病高危患者
+beta受体阻滞剂：适用于大多数患者，除非有禁忌症或不耐受
+beta受体阻滞剂：适用于大多数患者，除非有禁忌症或不耐受
+长效硝酸盐：如果需要
+长效硝酸盐：如果需要
+钙通道阻滞剂：如果需要
+钙通道阻滞剂：如果需要
+抗血小板药可抑制血小板聚集。阿司匹林与血小板不可逆性结合，抑制环氧化酶和血小板聚集。其他抗血小板药物（如氯吡格雷、普拉格雷和替格瑞洛）可阻断二磷酸腺苷诱导的血小板聚集。这些药物可以降低缺血性事件（心肌梗死、猝死）的风险，但这些药物与阿司匹林一起服用时最有效。不能耐受一种抗血小板药物的患者应接受另一种抗血小板药物治疗。
+β-受体阻滞剂在减轻症状、预防心梗和猝死方面优于其他药物。除拉贝洛尔和卡维地洛之外的其他β受体阻滞剂不应用于血管痉挛性心绞痛患者，因为它们可能因α受体活性未被拮抗而引起冠状动脉血管痉挛。β受体阻滞剂可阻断心脏的交感神经刺激，降低收缩压，减慢心率，减弱心肌收缩力，减少心输出量，从而降低心肌需氧量、提高运动耐量。β-受体阻滞剂还能提高室颤阈值。绝大多数患者均能很好地耐受这些药物。许多有效的β-受体阻滞剂可供选择。药物剂量根据需要增加直至出现心动过缓或不良反应。不能耐受β受体阻滞剂的患者可给予具有负性变时作用的钙通道阻滞剂（如地尔硫䓬、维拉帕米）。β-受体阻滞剂不耐受高危人群（如哮喘患者）可尝试心脏选择性β-受体阻滞剂（如比索洛尔），也可在服药前后测定肺功能以明确是否存在药物诱导的支气管痉挛。
+长效硝酸酯类药物（口服或经皮给药）用于β受体阻滞剂剂量增至最大后仍有症状的患者。如果心绞痛发作时间可预测，硝酸酯类药物给药应覆盖这些时间。口服硝酸酯类包括二硝酸异山梨酯和单硝酸异山梨酯（二硝酸异山梨酯的活性代谢产物）。 它们在1-2小时内起效，作用持续4-6小时。缓释单硝酸异山梨酯全天均有效。至于经皮给药，硝酸甘油皮肤贴剂已经大部分取代了硝酸甘油软膏，因为膏剂很不方便而且易弄脏衣服。贴片缓慢释放药物以产生持久效果；贴片使用4小时后运动能力改善，18至24小时内效果减弱。硝酸酯类可产生耐药性，尤其在血药浓度保持稳定时。由于清晨心肌梗死风险最高，下午或傍晚期间停用硝酸酯类是合理的，除非患者在此时间段内常常有心绞痛发作。对于硝酸甘油，停用8-10小时就足够了。二硝酸异山梨酯需要 12 小时的休息期，以最大限度地降低耐受性风险。如果每天给药一次，单硝酸异山梨酯缓释剂似乎不易产生耐药性。
+钙通道阻滞剂可用于使用硝酸酯类症状持续或硝酸酯类不耐受的患者。特别适用于合并高血压或冠状动脉痉挛的患者。不同类型钙通道阻滞剂具有不同作用。 二氢吡啶类（如硝苯地平、氨氯地平、非洛地平）不具有变时作用，其负性变力作用也各不相同。短效二氢吡啶类可引起急性低血压和反射性心动过速，并增加冠心病患者死亡率，因此不单独应用于稳定型心绞痛。长效二氢吡啶类很少引起心动过速；最常与β-受体阻滞剂合用。在长效二氢吡啶类中，氨氯地平的负性变力作用最弱，可用于左心收缩功能不全的患者。地尔硫䓬、维拉帕米以及其他类型的钙通道阻滞剂具有负性变时和变力作用，它们可单独用于β受体阻滞剂不耐受或哮喘且左心室收缩功能正常的患者，但可能增加左心室收缩功能不全患者的心血管死亡率。
+雷诺嗪（Ranolazine）是一种钠通道阻断剂，可用于治疗慢性心绞痛。由于雷诺嗪可能延长QTc间期，故通常保留用于经其他抗心绞痛药物优化治疗后症状仍持续的患者。头晕、头痛、便秘、恶心是最常见的不良反应。
+伊伐布雷定是一种窦房结抑制剂，抑制窦房结细胞中某个门控通道（f通道）中的钠/钾电流，从而在不降低收缩力的情况下减慢心率。可用于不能服用β受体阻滞剂的窦性心律正常患者的慢性稳定型心绞痛的对症治疗，或对于单用β受体阻滞剂心绞痛控制不充分且心率大于60次/分的患者，与β受体阻滞剂联合应用。
+
+【血运重建】
+血运重建术，无论是通过PCI（如血管成形术和支架置入术）还是CABG，如果心绞痛在药物治疗后仍持续存在并导致生活质量下降，或如果血管造影发现的解剖病变使患者处于高死亡风险中，则应考虑血运重建术。PCI和CABG的选择取决于解剖病变的范围和位置，操作者和医疗中心的经验，以及在一定程度上患者的偏好(1)。
+PCI通常更适合于具有合适解剖病变的单支或二支血管病变患者，近来越来越多应用于三支病变。随着支架技术的进步，PCI 正用于更复杂的病变（例如，较长的病变或靠近分叉点的病变）。PCI 也可用于适当的临床环境中的左主干冠状动脉疾病（LMCA）的治疗（2、3、4）。
+CABG对某些特定的心绞痛患者是非常有效的。合并糖尿病和适合行搭桥术的多支血管病变患者，CABG优于PCI (5, 6, 7)。理想的候选者是有严重心绞痛和局部病变，或者患有糖尿病的患者。大约85％患者术后症状完全消失或显著减轻。运动负荷试验显示桥血管通畅程度与运动耐量的改善呈正相关，但有时尽管桥血管已经闭塞运动耐量仍有改善。
+CABG能改善左主干病变、三支血管病变和左心室功能降低以及部分两支血管病变者的生存率 (8)。然而，对于轻中度心绞痛（CCS 1级或2级）或三支血管病变而心室功能良好的患者，CABG似乎只能轻微改善生存率。一些研究表明，对于糖尿病和近端左前降支病变患者，CABG后的长期预后优于PCI（8）。对于单支病变患者，药物治疗、PCI及CABG的获益类似，除了左主干病变和前降支近端病变，进行血运重建获益更大。
+
+【治疗参考文献】
+1.Lawton JS, Tamis-Holland JE, Bangalore S, et al: 2021 ACC/AHA/SCAI guideline for coronary artery revascularization: a report of the ACC/AHA Joint Committee on Clinical Practice Guidelines.J Am Coll Cardiol79(2):e21–e129, 2022. doi: 10.1016/j.jacc.2021.09.006
+1.Lawton JS, Tamis-Holland JE, Bangalore S, et al: 2021 ACC/AHA/SCAI guideline for coronary artery revascularization: a report of the ACC/AHA Joint Committee on Clinical Practice Guidelines.J Am Coll Cardiol79(2):e21–e129, 2022. doi: 10.1016/j.jacc.2021.09.006
+2.Nerlekar N, Ha FJ, Verma KP, et al: Percutaneous Coronary Intervention Using Drug-Eluting Stents Versus Coronary Artery Bypass Grafting for Unprotected Left Main Coronary Artery Stenosis: A Meta-Analysis of Randomized Trials.Circ Cardiovasc Interv9(12):e004729, 2016.doi:10.1161/CIRCINTERVENTIONS.116.004729
+2.Nerlekar N, Ha FJ, Verma KP, et al: Percutaneous Coronary Intervention Using Drug-Eluting Stents Versus Coronary Artery Bypass Grafting for Unprotected Left Main Coronary Artery Stenosis: A Meta-Analysis of Randomized Trials.Circ Cardiovasc Interv9(12):e004729, 2016.doi:10.1161/CIRCINTERVENTIONS.116.004729
+3.Stone GW, Sabik JF, Serruys PW, et al.Everolimus-Eluting Stents or Bypass Surgery for Left Main Coronary Artery Disease [published correction appears inN Engl J Med2019 Oct 31;381(18):1789].N Engl J Med2016;375(23):2223-2235.doi:10.1056/NEJMoa1610227
+3.Stone GW, Sabik JF, Serruys PW, et al.Everolimus-Eluting Stents or Bypass Surgery for Left Main Coronary Artery Disease [published correction appears inN Engl J Med2019 Oct 31;381(18):1789].N Engl J Med2016;375(23):2223-2235.doi:10.1056/NEJMoa1610227
+4.Stone GW, Kappetein AP, Sabik JF, et al.Five-Year Outcomes after PCI or CABG for Left Main Coronary Disease [published correction appears in N Engl J Med. 2020 Mar 12;382(11):1078]. N Engl J Med.2019;381(19):1820-1830.doi:10.1056/NEJMoa1909406
+4.Stone GW, Kappetein AP, Sabik JF, et al.Five-Year Outcomes after PCI or CABG for Left Main Coronary Disease [published correction appears in N Engl J Med. 2020 Mar 12;382(11):1078]. N Engl J Med.2019;381(19):1820-1830.doi:10.1056/NEJMoa1909406
+5.Farkouh ME, Domanski M, Sleeper LA, et al: Strategies for multivessel revascularization in patients with diabetes.N Engl J Med367(25):2375–2384, 2012.doi:10.1056/NEJMoa1211585
+5.Farkouh ME, Domanski M, Sleeper LA, et al: Strategies for multivessel revascularization in patients with diabetes.N Engl J Med367(25):2375–2384, 2012.doi:10.1056/NEJMoa1211585
+6.Influence of diabeteson 5-year mortality and morbidity in a randomized trial comparing CABG and PTCA in patients with multivessel disease: the Bypass Angioplasty Revascularization Investigation (BARI).Circulation1997;96(6):1761-1769.doi:10.1161/01.cir.96.6.1761
+6.Influence of diabeteson 5-year mortality and morbidity in a randomized trial comparing CABG and PTCA in patients with multivessel disease: the Bypass Angioplasty Revascularization Investigation (BARI).Circulation1997;96(6):1761-1769.doi:10.1161/01.cir.96.6.1761
+7.BARI 2D Study Group, Frye RL, August P, et al.A randomized trial of therapies for type 2 diabetes and coronary artery disease.N Engl J Med2009;360(24):2503-2515.doi:10.1056/NEJMoa0805796
+7.BARI 2D Study Group, Frye RL, August P, et al.A randomized trial of therapies for type 2 diabetes and coronary artery disease.N Engl J Med2009;360(24):2503-2515.doi:10.1056/NEJMoa0805796
+8.Serruys PW, Morice MC, Kappetein AP, et al.Percutaneous coronary intervention versus coronary-artery bypass grafting for severe coronary artery disease [published correction appears inN Engl J Med2013 Feb 7;368(6):584].N Engl J Med2009;360(10):961-972.doi:10.1056/NEJMoa0804626
+8.Serruys PW, Morice MC, Kappetein AP, et al.Percutaneous coronary intervention versus coronary-artery bypass grafting for severe coronary artery disease [published correction appears inN Engl J Med2013 Feb 7;368(6):584].N Engl J Med2009;360(10):961-972.doi:10.1056/NEJMoa0804626
+
+【心绞痛的预后】
+心绞痛的主要不良结局为不稳定型心绞痛、心肌梗死及由心律失常导致的猝死。无心梗史、静息心电图正常、血压正常的心绞痛患者年死亡率为1.4% (1)。然而，患有冠心病的女性患者往往预后更差。收缩期高血压患者的死亡率比心电图异常患者的死亡率高，而收缩期高血压和心电图异常同时存在时患者的死亡率更高。2 型糖尿病还会增加每种情况下的死亡率。
+随着年龄增长、心绞痛症状加剧、解剖学病变进展以及左室功能减低，预后则更差 (2)。左主干或前降支近端病变属高危病变。尽管预后与受累冠状动脉的数目和严重程度有关，心功能正常的稳定型心绞痛病人，即便存在三支病变，其预后也不差。
+
+【预后参考文献】
+1.Fox K, Garcia MA, Ardissino D, et al.Guidelines on the management of stable angina pectoris: executive summary: The Task Force on the Management of Stable Angina Pectoris of the European Society of Cardiology.Eur Heart J2006;27(11):1341-1381.doi:10.1093/eurheartj/ehl001
+1.Fox K, Garcia MA, Ardissino D, et al.Guidelines on the management of stable angina pectoris: executive summary: The Task Force on the Management of Stable Angina Pectoris of the European Society of Cardiology.Eur Heart J2006;27(11):1341-1381.doi:10.1093/eurheartj/ehl001
+2.Virani SS, Newby LK, Arnold SV, et al.2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Guideline for the Management of Patients With Chronic Coronary Disease: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines [published correction appears inCirculation2023 Sep 26;148(13):e148] [published correction appears inCirculation2023 Dec 5;148(23):e186].Circulation2023;148(9):e9-e119.doi:10.1161/CIR.0000000000001168
+2.Virani SS, Newby LK, Arnold SV, et al.2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Guideline for the Management of Patients With Chronic Coronary Disease: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines [published correction appears inCirculation2023 Sep 26;148(13):e148] [published correction appears inCirculation2023 Dec 5;148(23):e186].Circulation2023;148(9):e9-e119.doi:10.1161/CIR.0000000000001168
+心绞痛发生于心脏负荷超过冠脉供氧能力时。
+心绞痛发生于心脏负荷超过冠脉供氧能力时。
+稳定型心绞痛的症状范围很广，从模糊的、几乎难以察觉的隐痛到严重、剧烈的心前区挤压感；这些症状通常由劳累诱发，持续时间不超过几分钟，休息后可缓解。
+稳定型心绞痛的症状范围很广，从模糊的、几乎难以察觉的隐痛到严重、剧烈的心前区挤压感；这些症状通常由劳累诱发，持续时间不超过几分钟，休息后可缓解。
+对静息心电图正常的患者进行心电图负荷试验，或对静息心电图异常的患者进行心肌显像（如超声心动图、放射性核素显像、PET、MRI）。
+对静息心电图正常的患者进行心电图负荷试验，或对静息心电图异常的患者进行心肌显像（如超声心动图、放射性核素显像、PET、MRI）。
+考虑行血管重建术（经皮介入治疗或冠状动脉旁路移植术）时应做冠状动脉造影。
+考虑行血管重建术（经皮介入治疗或冠状动脉旁路移植术）时应做冠状动脉造影。
+给予硝酸甘油紧急缓解心绞痛。
+给予硝酸甘油紧急缓解心绞痛。
+患者需长期使用抗血小板药物、β受体阻滞剂和他汀类药物，必要时加用钙通道阻滞剂以进一步预防症状发生。
+患者需长期使用抗血小板药物、β受体阻滞剂和他汀类药物，必要时加用钙通道阻滞剂以进一步预防症状发生。
+如果药物治疗心绞痛仍然明显存在，或血管造影所见病变提示高死亡风险，则考虑血管重建。
+如果药物治疗心绞痛仍然明显存在，或血管造影所见病变提示高死亡风险，则考虑血管重建。

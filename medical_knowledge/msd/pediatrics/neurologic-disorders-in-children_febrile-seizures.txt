@@ -1,0 +1,134 @@
+标题：热性惊厥
+来源：https://www.msdmanuals.cn/professional/pediatrics/neurologic-disorders-in-children/febrile-seizures
+============================================================
+
+（参见新生儿惊厥。）
+在6个月～5岁的儿童中，约有2～5%（1）会发生热性惊厥，大多数发生在12个月至18个月之间。
+热性惊厥可以表现为简单型和复杂型：
+单纯性热性惊厥持续时间<15分钟，没有局灶性特征，并且在24小时内不会再次发作；大多数热性惊厥属于单纯性热性惊厥。
+单纯性热性惊厥持续时间<15分钟，没有局灶性特征，并且在24小时内不会再次发作；大多数热性惊厥属于单纯性热性惊厥。
+复杂热性惊厥持续≥15分钟（连续或间断）；或有局灶性特征；或有局灶性起始；或24小时内复发。
+复杂热性惊厥持续≥15分钟（连续或间断）；或有局灶性特征；或有局灶性起始；或24小时内复发。
+发热性惊厥的风险因素包括以下几点：
+可发生于非中枢神经系统病毒感染期间，较少见于细菌感染（主要是因为某些感染如人类疱疹病毒6型[HHV-6]、流感等与高热相关）
+可发生于非中枢神经系统病毒感染期间，较少见于细菌感染（主要是因为某些感染如人类疱疹病毒6型[HHV-6]、流感等与高热相关）
+有时在接种某些疫苗后会发生，例如麻疹/腮腺炎/风疹（2）。
+有时在接种某些疫苗后会发生，例如麻疹/腮腺炎/风疹（2）。
+遗传和家族因素可增加热性惊厥发生的敏感性。同卵双胞胎的一致性比双卵双胞胎高得多。已经鉴定出几个与热性惊厥相关的基因(3)。
+遗传和家族因素可增加热性惊厥发生的敏感性。同卵双胞胎的一致性比双卵双胞胎高得多。已经鉴定出几个与热性惊厥相关的基因(3)。
+发育迟缓史与热性惊厥后癫痫发作风险增加有关（4）。
+发育迟缓史与热性惊厥后癫痫发作风险增加有关（4）。
+
+【参考文献】
+1.Christensen KJ, Dreier JW, Skotte L, et al.Birth characteristics and risk of febrile seizures.Acta Neurol Scand.2021;144(1):51-57.doi:10.1111/ane.13420
+1.Christensen KJ, Dreier JW, Skotte L, et al.Birth characteristics and risk of febrile seizures.Acta Neurol Scand.2021;144(1):51-57.doi:10.1111/ane.13420
+2.Klein NP, Fireman B, Yih WK, et al.Measles-mumps-rubella-varicella combination vaccine and the risk of febrile seizures.Pediatrics.2010;126(1):e1-e8.doi:10.1542/peds.2010-0665
+2.Klein NP, Fireman B, Yih WK, et al.Measles-mumps-rubella-varicella combination vaccine and the risk of febrile seizures.Pediatrics.2010;126(1):e1-e8.doi:10.1542/peds.2010-0665
+3.Saghazadeh A, Mastrangelo M, Rezaei N.Genetic background of febrile seizures.Rev Neurosci.2014;25(1):129-161.doi:10.1515/revneuro-2013-0053
+3.Saghazadeh A, Mastrangelo M, Rezaei N.Genetic background of febrile seizures.Rev Neurosci.2014;25(1):129-161.doi:10.1515/revneuro-2013-0053
+4.Nelson KB, Ellenberg JH.Predictors of epilepsy in children who have experienced febrile seizures.N Engl J Med.1976;295(19):1029–1033.doi:10.1056/NEJM197611042951901
+4.Nelson KB, Ellenberg JH.Predictors of epilepsy in children who have experienced febrile seizures.N Engl J Med.1976;295(19):1029–1033.doi:10.1056/NEJM197611042951901
+
+【热性惊厥的症状和体征】
+热性惊厥通常发生在体温升高的初期，多数发生在体温升高的24小时内。一般而言，体温绝对值升高比升温速率对诱发癫痫的影响更为显著。典型症状是全身性的，多数表现为阵挛，部分表现为肌张力低下和强直相交替。
+发作后期通常持续几分钟，但可能长达几小时。在这段时间嗜睡常见；意识混乱与躁动较少见但可能发生。如果发作后期超过一小时，或者在此期间儿童出现局灶性表现（如一侧运动减弱），应评估是否存在潜在的急性中枢神经系统（CNS）障碍。神经功能通常迅速恢复至基线水平。
+发热性癫痫持续状态持续 ≥ 30 分钟的连续或间歇性癫痫发作。当癫痫持续状态表现为间歇性癫痫发作时，癫痫发作之间没有神经系统恢复。热性惊厥持续状态患儿存在脑损伤风险，尤其是急性海马损伤可能进展为硬化，最终导致颞叶癫痫（1）。
+
+【症状和体征参考文献】
+1.Hesdorffer DC, Shlomo S, Lax DN, et al: Risk factors for subsequent febrile seizures in the FEBSTAT study.Epilepsia57(7):1042–1047, 2016.doi: 10.1111/epi.13418
+1.Hesdorffer DC, Shlomo S, Lax DN, et al: Risk factors for subsequent febrile seizures in the FEBSTAT study.Epilepsia57(7):1042–1047, 2016.doi: 10.1111/epi.13418
+
+【热性惊厥的诊断】
+评估以排除其他病因
+评估以排除其他病因
+发热性惊厥的诊断需在排除其他病因后确立。发烧可能会引发以前发生非发热性癫痫发作的儿童癫痫发作；这些事件不被称为热性惊厥，因为这些儿童本身就有发生癫痫发作的潜在倾向。
+除了确定发热源外，单纯性热性惊厥不需要常规检查，但如果患儿有复杂的发热性惊厥、神经功能缺损或严重潜在疾病的征兆（例如，脑膜炎，代谢紊乱），应进行进一步评估（1，2）。
+排除其他疾病的评估应基于以下临床背景：
+脑脊液（CSF）检查：仅在临床特征高度提示存在脑膜炎或脑炎时（如出现脑膜刺激征或中枢神经系统抑制体征者），或热性惊厥持续数天后仍反复发作者，才需对较小婴儿进行该项检查以排除这两种疾病（仅限上述情况）；若儿童未完成免疫接种或正在使用抗生素，亦需考虑进行该项检查。
+脑脊液（CSF）检查：仅在临床特征高度提示存在脑膜炎或脑炎时（如出现脑膜刺激征或中枢神经系统抑制体征者），或热性惊厥持续数天后仍反复发作者，才需对较小婴儿进行该项检查以排除这两种疾病（仅限上述情况）；若儿童未完成免疫接种或正在使用抗生素，亦需考虑进行该项检查。
+血清葡萄糖、钠、钙、镁和磷以及肝肾功能检查：进行这些检查旨在排除代谢紊乱，特别是当病史包括近期呕吐、腹泻或液体摄入受损时；或存在脱水或水肿迹象时；或发生复杂性热性惊厥时。
+血清葡萄糖、钠、钙、镁和磷以及肝肾功能检查：进行这些检查旨在排除代谢紊乱，特别是当病史包括近期呕吐、腹泻或液体摄入受损时；或存在脱水或水肿迹象时；或发生复杂性热性惊厥时。
+血培养与尿培养：明确发热的可能病因（3）
+血培养与尿培养：明确发热的可能病因（3）
+脑部MRI检查指征：若神经系统查体发现局灶性异常、发作期或发作后期出现局灶性特征，或发作后意识抑制期延长；单纯性热性惊厥患儿不建议进行此项检查。
+脑部MRI检查指征：若神经系统查体发现局灶性异常、发作期或发作后期出现局灶性特征，或发作后意识抑制期延长；单纯性热性惊厥患儿不建议进行此项检查。
+脑电图（EEG）检查指征：若热性惊厥表现为局灶性发作或反复发作（EEG通常无法识别特异性异常或预测复发风险，因此对于神经系统检查正常的单纯性热性惊厥初发患儿不建议常规进行）。
+脑电图（EEG）检查指征：若热性惊厥表现为局灶性发作或反复发作（EEG通常无法识别特异性异常或预测复发风险，因此对于神经系统检查正常的单纯性热性惊厥初发患儿不建议常规进行）。
+如果儿童已确诊发育或神经系统疾病，则应根据其基础疾病进行诊断评估（通常，在这种情况下诊断为热性惊厥是不正确的）。
+
+【诊断参考】
+1.Smith DK, Sadler KP, Benedum M.Febrile Seizures: Risks, Evaluation, and Prognosis.Am Fam Physician.2019;99(7):445-450.
+1.Smith DK, Sadler KP, Benedum M.Febrile Seizures: Risks, Evaluation, and Prognosis.Am Fam Physician.2019;99(7):445-450.
+2.Subcommittee on Febrile Seizures; American Academy of Pediatrics.Neurodiagnostic evaluation of the child with a simple febrile seizure.Pediatrics.2011;127(2):389-394.doi:10.1542/peds.2010-3318
+2.Subcommittee on Febrile Seizures; American Academy of Pediatrics.Neurodiagnostic evaluation of the child with a simple febrile seizure.Pediatrics.2011;127(2):389-394.doi:10.1542/peds.2010-3318
+3.Pantell RH, Roberts KB, Adams WG, et al.Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old [published correction appears inPediatrics. 2021 Nov;148(5):e2021054063. doi: 10.1542/peds.2021-054063.].Pediatrics.2021;148(2):e2021052228.doi:10.1542/peds.2021-052228
+3.Pantell RH, Roberts KB, Adams WG, et al.Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old [published correction appears inPediatrics. 2021 Nov;148(5):e2021054063. doi: 10.1542/peds.2021-054063.].Pediatrics.2021;148(2):e2021052228.doi:10.1542/peds.2021-052228
+
+【治疗热性惊厥】
+退热治疗
+退热治疗
+癫痫持续时间为<5分钟的支持性治疗
+癫痫持续时间为<5分钟的支持性治疗
+抗癫痫药物治疗，有时对于持续≥5 分钟的癫痫发作需要插管。
+抗癫痫药物治疗，有时对于持续≥5 分钟的癫痫发作需要插管。
+可以给有热性惊厥的儿童进行退热疗法，以缓解症状。常规使用退热药可能对预防癫痫复发没有帮助（1）。
+如果热性惊厥持续<5分钟，则应进行支持治疗。
+发作持续≥5分钟可能需要药物终止，同时需仔细监测循环和呼吸状况。如果惊厥在治疗后仍然持续，或者抗惊厥治疗导致呼吸暂停，可能需要进行气管插管。
+通常通过静脉注射给药，可采用短效苯二氮䓬类药物（例如劳拉西泮，每5至10分钟重复给药一次，最多3次）。如果癫痫持续发作，可在 15 至 30 分钟内给予磷苯妥英钠静脉输注。
+如果无法静脉注射，或者孩子在院前环境中且年龄超过2岁，可以给予地西泮直肠凝胶或鼻内咪达唑仑。
+苯巴比妥、丙戊酸钠或左乙拉西坦也可用于治疗持续性癫痫发作。
+一些临床医生开出地西泮直肠凝胶用于治疗复发性热性惊厥患儿（见预防热性惊厥），供父母在家中在长时间热性惊厥发作时使用。
+
+【治疗参考文献】
+1.Corsello A, Marangoni MB, Macchi M, et al.Febrile Seizures: A Systematic Review of Different Guidelines.Pediatr Neurol.2024;155:141-148.doi:10.1016/j.pediatrneurol.2024.03.024
+1.Corsello A, Marangoni MB, Macchi M, et al.Febrile Seizures: A Systematic Review of Different Guidelines.Pediatr Neurol.2024;155:141-148.doi:10.1016/j.pediatrneurol.2024.03.024
+
+【高热惊厥的预后】
+
+【复发和随后的癫痫】
+热性惊厥的整体复发率为20 ～ 35% (1)。如果儿童出现以下情况，复发风险更高：首次癫痫发作时年龄<1 岁，且热性癫痫发作次数不断增加，或儿童的一级亲属曾发生过热性癫痫。
+发生≥1次单纯热性惊厥后，发展为无热性癫痫发作障碍的风险约为2～6%——略高于患癫痫的基线风险（儿童总体约为2%）（2）。大多数风险增加的情况出现在同时存在其他危险因素的儿童中（例如：复杂性热性惊厥、癫痫家族史、发育迟缓等）；这类儿童的风险最高可达10%。（3）。尚不清楚是否有发热性癫痫发作本身可以永久降低癫痫发作阈值，或者某些潜在因素是否会使儿童发生发热和非发热性发作。
+
+【神经系统后遗症】
+简单的发热性癫痫发作本身不被认为会导致神经系统异常。然而，在一些儿童中，热性惊厥可能是潜在的惊厥障碍或尚未被识别的神经障碍的第一表现。该疾病的体征可能是回顾性的，或者晚些时候才出现。在任一情况下，热性惊厥不被认为是因果性的。
+热性惊厥持续状态可能导致大脑易损区域（如海马体）受损。
+
+【预后参考】
+1.Berg AT, Shinnar S, Darefsky AS, et al.Predictors of recurrent febrile seizures.A prospective cohort study.Arch Pediatr Adolesc Med.1997;151(4):371-378.doi:10.1001/archpedi.1997.02170410045006
+1.Berg AT, Shinnar S, Darefsky AS, et al.Predictors of recurrent febrile seizures.A prospective cohort study.Arch Pediatr Adolesc Med.1997;151(4):371-378.doi:10.1001/archpedi.1997.02170410045006
+2.Kim JS, Woo H, Kim WS, Sung WY.Clinical Profile and Predictors of Recurrent Simple Febrile Seizure.Pediatr Neurol.2024;156:4-9.doi:10.1016/j.pediatrneurol.2024.04.001
+2.Kim JS, Woo H, Kim WS, Sung WY.Clinical Profile and Predictors of Recurrent Simple Febrile Seizure.Pediatr Neurol.2024;156:4-9.doi:10.1016/j.pediatrneurol.2024.04.001
+3.Nelson KB, Ellenberg JH.Predictors of epilepsy in children who have experienced febrile seizures.N Engl J Med.1976;295(19):1029–1033.doi:10.1056/NEJM197611042951901
+3.Nelson KB, Ellenberg JH.Predictors of epilepsy in children who have experienced febrile seizures.N Engl J Med.1976;295(19):1029–1033.doi:10.1056/NEJM197611042951901
+
+【热性惊厥的预防】
+对于曾发生热性惊厥的患儿，应告知其父母在孩子患病期间密切监测患儿体温。尽管对照研究尚未证实该疗法能预防热性惊厥复发，但多数临床医师建议在体温升高时使用解热剂。
+通常不建议维持抗惊厥药物治疗以预防热性惊厥复发或发展为无热性惊厥 (1)。但考虑使用抗癫痫药物治疗的情况（2) 包括有
+复杂的热性惊厥和神经功能缺损
+复杂的热性惊厥和神经功能缺损
+强烈的癫痫家族史和复发性简单或复杂的热性惊厥
+强烈的癫痫家族史和复发性简单或复杂的热性惊厥
+发热性癫痫持续状态
+发热性癫痫持续状态
+每季度至少发生一次热性惊厥
+每季度至少发生一次热性惊厥
+
+【预防参考文献】
+1.Steering Committee on Quality Improvement and Management, Subcommittee on Febrile Seizures American Academy of Pediatrics.Febrile seizures: clinical practice guideline for the long-term management of the child with simple febrile seizures.Pediatrics.2008;121(6):1281-1286.doi:10.1542/peds.2008-0939
+1.Steering Committee on Quality Improvement and Management, Subcommittee on Febrile Seizures American Academy of Pediatrics.Febrile seizures: clinical practice guideline for the long-term management of the child with simple febrile seizures.Pediatrics.2008;121(6):1281-1286.doi:10.1542/peds.2008-0939
+2.Piña-Garza J, James K: Paroxysmal Disorders: Febrile seizures.InFenichel's Clinical Pediatric Neurology: A Signs and Symptoms Approach, ed.8.Philadelphia, Elsevier, 2019, p.18.
+2.Piña-Garza J, James K: Paroxysmal Disorders: Febrile seizures.InFenichel's Clinical Pediatric Neurology: A Signs and Symptoms Approach, ed.8.Philadelphia, Elsevier, 2019, p.18.
+热性惊厥是指发生在6个月至5岁神经系统发育正常的儿童中，由发热（体温>38°C）引发而非中枢神经系统感染所致，且既往未发生过无热惊厥发作。
+热性惊厥是指发生在6个月至5岁神经系统发育正常的儿童中，由发热（体温>38°C）引发而非中枢神经系统感染所致，且既往未发生过无热惊厥发作。
+单纯热性惊厥持续时间<15分钟，没有局灶性特征，24小时内不复发。
+单纯热性惊厥持续时间<15分钟，没有局灶性特征，24小时内不复发。
+复杂性热性惊厥表现为：持续发作≥15分钟连续或暂停，或具有局灶性特征；或局灶性起始；或在24小时内复发。
+复杂性热性惊厥表现为：持续发作≥15分钟连续或暂停，或具有局灶性特征；或局灶性起始；或在24小时内复发。
+对于单纯性热性惊厥患儿无需常规检查，但若出现复杂性惊厥、神经系统异常或严重基础疾病征象（如脑膜炎、代谢性疾病），则应进行相关检查。
+对于单纯性热性惊厥患儿无需常规检查，但若出现复杂性惊厥、神经系统异常或严重基础疾病征象（如脑膜炎、代谢性疾病），则应进行相关检查。
+癫痫发作持续≥5 分钟或以上需要用药（例如，每 5 至 10 分钟重复服用劳拉西泮，最多服用 3 次）。
+癫痫发作持续≥5 分钟或以上需要用药（例如，每 5 至 10 分钟重复服用劳拉西泮，最多服用 3 次）。
+发生≥1次单纯热性惊厥后发生无热性惊厥障碍的风险约为2% ~ 6%。
+发生≥1次单纯热性惊厥后发生无热性惊厥障碍的风险约为2% ~ 6%。
+在发热性疾病初期使用退烧药，并未被证实可预防热性惊厥。
+在发热性疾病初期使用退烧药，并未被证实可预防热性惊厥。

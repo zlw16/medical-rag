@@ -1,0 +1,11 @@
+标题：红细胞生成
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/approach-to-the-patient-with-anemia/red-blood-cell-production
+============================================================
+
+红细胞（RBC）是在促红细胞生成素（EPO）的调控下在骨髓中生成的。肾脏中的小管周围间质成纤维细胞产生促红细胞生成素以应对氧气输送减少（如贫血或缺氧）。除了促红细胞生成素以外，红细胞生成还需要充足的原料，主要是铁，维生素B12和叶酸、亚铁血红素。
+红细胞的存活时间大约为120天 (1)。然后，它们失去细胞膜，大部分被脾脏和肝脏的吞噬细胞从循环中清除。血红蛋白在这些细胞及肝细胞中主要经血红素氧化酶系统的作用降解为亚铁血红素，随后其在一系列酶的作用下降解为胆红素，同时伴有铁元素的及蛋白质的再利用。维持红细胞数量稳定需要每天新产生约1/120的红细胞；持续释放的不成熟红细胞（网织红细胞）约占外周血红细胞总数的0.5%~2.5%。
+随年龄增长，血红蛋白和血细胞比容（Hct）略有下降，但一般不低于正常值。在经期妇女中，红细胞水平降低的最常见原因是由于经期慢性失血导致铁缺乏。
+
+【参考文献】
+1.Mock DM, Lankford GL, Widness JA, Burmeister LF, Kahn D, Strauss RG: Measurement of red cell survival using biotin-labeled red cells: validation against 51Cr-labeled red cells.Transfusion1999;39(2):156-162.doi:10.1046/j.1537-2995.1999.39299154729.x
+1.Mock DM, Lankford GL, Widness JA, Burmeister LF, Kahn D, Strauss RG: Measurement of red cell survival using biotin-labeled red cells: validation against 51Cr-labeled red cells.Transfusion1999;39(2):156-162.doi:10.1046/j.1537-2995.1999.39299154729.x

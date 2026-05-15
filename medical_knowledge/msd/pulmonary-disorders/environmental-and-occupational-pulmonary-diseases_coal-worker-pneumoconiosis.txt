@@ -1,0 +1,81 @@
+标题：煤工尘肺
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/environmental-and-occupational-pulmonary-diseases/coal-worker-pneumoconiosis
+============================================================
+
+（也可以看看环境和职业性肺病概述。)
+煤工尘肺是一种结节性间质性肺病，由接触煤矿粉尘引起。煤工尘肺可表现为
+单纯性尘肺病
+单纯性尘肺病
+复杂性尘肺病，也称为进行性大规模纤维化
+复杂性尘肺病，也称为进行性大规模纤维化
+单纯性煤工尘肺病的特点是上叶以小圆形结节性混浊为主，通常不伴有症状或肺功能障碍。
+在复杂的煤工尘肺或进行性大块纤维化中，结节合并形成较大的实质肿块，通常位于上后肺野，症状突出。
+1969年《煤矿健康与安全法》颁布后，美国煤工尘肺病发病率有所下降。然而，自20世纪90年代末以来，煤工尘肺病有所回升，尤其是严重的进行性疾病（1）。这种回升很可能是由于二氧化硅暴露的增加（1）。二氧化硅暴露增加的可能解释包括：无视健康和安全法规、煤矿粉尘中二氧化硅含量较高、煤层不易开采（需要切割更多岩石）以及工作方式的改变，例如使用大功率设备会产生更多颗粒更细的粉尘。
+
+【参考文献】
+1.Cohen RA, Rose CS, Go LHT, et al.Pathology and Mineralogy Demonstrate Respirable Crystalline Silica Is a Major Cause of Severe Pneumoconiosis in U.S. Coal Miners.Ann Am Thorac Soc2022; 19(9), 1469-1478.doi:10.1513/AnnalsATS.202109-1064OC
+1.Cohen RA, Rose CS, Go LHT, et al.Pathology and Mineralogy Demonstrate Respirable Crystalline Silica Is a Major Cause of Severe Pneumoconiosis in U.S. Coal Miners.Ann Am Thorac Soc2022; 19(9), 1469-1478.doi:10.1513/AnnalsATS.202109-1064OC
+
+【煤工尘肺的病因】
+煤工尘肺是由于长期吸入煤矿粉尘引起的，通常为≥10年。累积粉尘暴露是煤工尘肺病发生的最重要危险因素。煤矿粉尘中可吸入结晶二氧化硅含量也是进行性疾病的重要危险因素。在靠近开采点的地下矿井工作的矿工以及参与切割或钻孔的矿工患煤工尘肺的风险更大。
+
+【煤工尘肺的病理生理学】
+除其他成分外，煤矿粉尘还含有不同数量的二氧化硅。在煤工尘肺病中，肺泡巨噬细胞吞噬煤尘颗粒，导致细胞死亡并激活炎症和纤维化途径。效应细胞促进煤尘颗粒周围的炎症和纤维化，导致煤斑和结节的形成，其周围可能被肺泡的气肿性破坏所包围。
+结节可以合并成更大的病变，这是进行性大面积纤维化的特征。进行性大面积纤维化的风险随着二氧化硅暴露程度的增加而增加。即使停止接触煤尘后，进行性的大规模纤维化也会发展并继续扩大（1）。
+
+【病理生理学参考文献】
+1.Hall NB, Blackley DJ, Markle T, et al.Postexposure progression of pneumoconiosis among former Appalachian coal miners.Am J Ind Med2022; 65(12), 953-958.doi:10.1002/ajim.23431
+1.Hall NB, Blackley DJ, Markle T, et al.Postexposure progression of pneumoconiosis among former Appalachian coal miners.Am J Ind Med2022; 65(12), 953-958.doi:10.1002/ajim.23431
+
+【煤工尘肺的症状和体征】
+煤工尘肺的临床表现多种多样，从有限的尘肺到进行性大块纤维化。症状通常包括呼吸困难、咳嗽和咳痰。发病通常是隐匿性的，即使在停止接触后疾病也会进展。进行性大规模纤维化可进展为终末期肺病。
+煤尘会导致慢性阻塞性肺疾病(COPD)，与吸烟无关。即使没有煤工尘肺病，煤矿工人也会患阻塞性肺病。伴有咳嗽和咳痰症状的慢性支气管炎也很常见。肺功能的下降随着累积粉尘暴露的增加而加剧。
+煤矿工人也面临着患类风湿关节炎的风险增加。类风湿性关节炎可能在肺部疾病出现之前或之后发生。类风湿性关节炎可有多种肺部表现，包括出现类风湿结节（称为类风湿性尘肺病或卡普兰综合征）。临床上，区分类风湿结节与癌症和感染非常重要。
+肺癌接触煤尘的工人的风险会升高。采矿环境包含多种导致肺癌风险的因素，包括二氧化硅和柴油机废气。由于煤尘中含有不同量的二氧化硅，煤工尘肺病患者患结核的风险增加。
+
+【煤工尘肺的诊断】
+煤矿开采暴露史
+煤矿开采暴露史
+胸部CT或X线
+胸部CT或X线
+煤工尘肺的诊断基于煤矿接触史以及与煤工尘肺一致的胸部X线或CT表现，无论患者是否有症状。
+单纯性煤工尘肺患者胸部 CT 或 X 线检查显示弥漫性、小而圆形的阴影或结节。胸部CT在发现合并性结节、早期进展性巨大纤维化、肺气肿和癌症方面比胸部x线更敏感和特异。
+深色肺野呈斑驳状，伴有白色纤维块，与晚期煤工尘肺相符。
+STEVE ALLEN/SCIENCE PHOTO LIBRARY
+肺功能检查可表现出阻塞性、限制性或混合性异常。一氧化碳 (DLCO) 扩散能力受损很常见。即使没有放射线检查结果也可能存在异常（1）。
+
+【诊断参考文献】
+1.Go LHT, Almberg KS, Rose CS, et al.Prevalence and severity of abnormal lung function among US former coal miners with and without radiographic coal workers' pneumoconiosis.Occup Environ Med2022; 79(8), 527-532.doi:10.1136/oemed-2021-107872
+1.Go LHT, Almberg KS, Rose CS, et al.Prevalence and severity of abnormal lung function among US former coal miners with and without radiographic coal workers' pneumoconiosis.Occup Environ Med2022; 79(8), 527-532.doi:10.1136/oemed-2021-107872
+
+【煤工尘肺的治疗】
+减少进一步暴露
+减少进一步暴露
+支持性治疗
+支持性治疗
+患有较严重煤工尘肺病的工人，特别是患有进行性大块纤维化的工人，应限制进一步接触。对于早期和轻度疾病，在考虑避免接触时应考虑失业的影响。
+针对煤工尘肺的临床表现进行治疗。早期和无症状的煤工尘肺不需要治疗。患有阻塞性肺病的工人可能会从慢性阻塞性肺病（COPD）的治疗中获益。
+肺动脉高压、低氧血症或两者兼有的患者应给予补充氧疗。肺康复可以帮助更严重病人进行日常生活活动。
+对于进行性呼吸衰竭的患者，应考虑肺移植。
+即使停止接触后，病情进展也很常见，因此应继续对前煤矿工人进行监测。医学监测可以识别煤尘暴露结束后出现的新的或进展性的放射学结果。
+戒烟和对所有接触过的工人进行结核病监测是推荐的。煤工尘肺患者应及时接种推荐的疫苗，包括针对肺炎球菌、COVID和流感的疫苗。
+
+【煤工尘肺的预防】
+预防措施从消除或减少接触开始。最有效的一级预防是实施工程控制来限制可吸入的粉尘。尽管有长期规定，但在采矿贸易中仍继续发生接触，导致疾病持续发生，包括严重形式的疾病。
+呼吸面罩仅提供有限的保护，应与全面的暴露控制计划结合使用。
+对当前矿工的医疗监测有助于在早期阶段发现疾病。
+长期吸入煤矿粉尘（其中还含有不同量的二氧化硅）会导致煤工尘肺和慢性阻塞性肺病，并可能发展为终末期肺病。
+长期吸入煤矿粉尘（其中还含有不同量的二氧化硅）会导致煤工尘肺和慢性阻塞性肺病，并可能发展为终末期肺病。
+诊断基于接触史、胸部影像学和肺功能测试。
+诊断基于接触史、胸部影像学和肺功能测试。
+治疗是支持性的，包括减少进一步暴露。
+治疗是支持性的，包括减少进一步暴露。
+对煤炭工人的监测可以实现早期诊断并采取预防措施，包括减少接触、戒烟、结核病筛查和常规疫苗接种。
+对煤炭工人的监测可以实现早期诊断并采取预防措施，包括减少接触、戒烟、结核病筛查和常规疫苗接种。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+GoLHT, Almberg KS, Rose CS, et al.Prevalence and severity of abnormal lung function among US former coal miners with and without radiographic coal workers' pneumoconiosis.Occup Environ Med2022; 79(8), 527-532.doi:10.1136/oemed-2021-107872
+GoLHT, Almberg KS, Rose CS, et al.Prevalence and severity of abnormal lung function among US former coal miners with and without radiographic coal workers' pneumoconiosis.Occup Environ Med2022; 79(8), 527-532.doi:10.1136/oemed-2021-107872
+Weissman DN.Progressive massive fibrosis: An overview of the recent literature.Pharmacol Ther2022; 240:108232.doi:10.1016/j.pharmthera.2022.108232
+Weissman DN.Progressive massive fibrosis: An overview of the recent literature.Pharmacol Ther2022; 240:108232.doi:10.1016/j.pharmthera.2022.108232

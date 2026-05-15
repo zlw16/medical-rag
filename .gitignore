@@ -1,0 +1,34 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+*.egg
+
+# Environment
+.env
+
+# Cache
+cache/
+*.pkl
+
+# Logs
+logs/
+*.log
+
+# Git portable
+portable_git/
+
+# Crawler progress
+_crawl_progress.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store

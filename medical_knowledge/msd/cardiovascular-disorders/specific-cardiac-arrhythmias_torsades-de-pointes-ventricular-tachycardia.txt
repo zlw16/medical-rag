@@ -1,0 +1,109 @@
+标题：尖端扭转型室速
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/torsades-de-pointes-ventricular-tachycardia
+============================================================
+
+导致尖端扭转性室性心动过速（TdeP-VT）的长QT间期可以是后天性的、先天性的或两者皆有。
+QT 间期延长易导致早期后去极化和心室不应性的空间离散，这会导致心律失常。（关于先天性原因的讨论，见长 QT 间期综合征；另见心律失常概述。）
+
+【尖端扭转型室性心动过速的病理生理学】
+TdeP室性心动过速是由任何延长心室肌细胞动作电位持续时间的心脏离子通道功能或调节障碍引起的，如心电图上速率校正的QT间期（QTc，通常使用Bazett公式计算）的延长所证明的。TdeP室性心动过速的风险取决于QTc延长的程度，尤其是当QTc > 0.50秒时。
+TdeP-VT可能是由于
+复极化钾电流通道功能丧失或
+复极化钾电流通道功能丧失或
+去极化钠或去极化钙电流通道的功能增益
+去极化钠或去极化钙电流通道的功能增益
+这些因素中的每一个都通过延长复极化来诱发 TdeP VT，这会导致早期后去极化（动作电位平稳期的二次去极化事件）和心室不应期的空间离散。不应期的离散允许早期后去极化的传播和尖端扭转型室性心动过速的发生。
+
+【诱发因素】
+在获得性 TdeP VT 中，最常见的诱发因素是
+QT 间期延长药物，尤其是 Ia 类、Ic 类或 III 类抗心律失常药物
+QT 间期延长药物，尤其是 Ia 类、Ic 类或 III 类抗心律失常药物
+其他可以诱导TdeP-VT的药物包括三环类抗抑郁药、吩噻嗪类药物以及某些抗病毒和抗真菌药物（见CredibleMeds获取最新信息）。
+在大多数情况下，有几种诱因，可能包括（1）：
+低钾血症
+低钾血症
+低镁血症
+低镁血症
+甲状腺功能减退症
+甲状腺功能减退症
+心室率缓慢
+心室率缓慢
+心室率不齐
+心室率不齐
+严重急性脑损伤（例如出血，中风，创伤性脑损伤）
+严重急性脑损伤（例如出血，中风，创伤性脑损伤）
+进食障碍
+进食障碍
+有机磷中毒
+有机磷中毒
+结构性心脏病（尤其是急性缺血、心肌炎和心室肥大）
+结构性心脏病（尤其是急性缺血、心肌炎和心室肥大）
+
+【病理生理学参考文献】
+1.El-Sherif N, Turitto G, Boutjdir M: Acquired Long QT Syndrome and Electrophysiology of Torsade de Pointes.Arrhythm Electrophysiol Rev8(2):122–130, 2019.doi: 10.15420/aer.2019.8.3
+1.El-Sherif N, Turitto G, Boutjdir M: Acquired Long QT Syndrome and Electrophysiology of Torsade de Pointes.Arrhythm Electrophysiol Rev8(2):122–130, 2019.doi: 10.15420/aer.2019.8.3
+
+【尖端扭转型室性心动过速的症状和体征】
+TdeP VT通常会引起晕厥，因为基础心率（200至250次/分）无法有效灌注。在神志清醒的患者中，心悸很常见。
+由于QT间期随着心室率增加而缩短，因此TdeP VT通常会自行终止。然而，它反而可能退化为心室颤动并导致猝死。有时在复苏之后会发现 QT 间期延长。
+
+【尖端扭转型室性心动过速的诊断】
+心电图 （ECG）
+心电图 （ECG）
+通过心电图表现为QRS电轴呈波浪状起伏，QRS波群的极性围绕基线移动可诊断（见图尖端扭转型室性心动过速）。在发作之间的心电图显示心率校正后的QT间期（QTc）延长。正常 QTc 值男性为 < 0.43 秒，女性为 < 0.45 秒。当男性的数值 > 0.45 秒或女性的数值 > 0.47 秒时，则认为该值延长了（1）。有家族史的患者可能提示为先天性综合征。
+除 QT 间期延长外，即将发生的 TdeP VT 的心电图警告标志包括
+T波和U波融合（有时伴有巨大的TU波）
+T波和U波融合（有时伴有巨大的TU波）
+期外收缩后复极模式的变化
+期外收缩后复极模式的变化
+宏观 T 波交替（两个不同出现的 T 波的可见交替）
+宏观 T 波交替（两个不同出现的 T 波的可见交替）
+频繁多形性室性早搏，代表单次TdeP（通常为二联律）
+频繁多形性室性早搏，代表单次TdeP（通常为二联律）
+重复性短时间多形性室性心动过速
+重复性短时间多形性室性心动过速
+（第一条节律带）与患者通常的 T 波和 U 波形态（点）相比，暂停后复极化发生变化。一对室性早搏产生的暂停之后，下一个窦性心搏表现出不同的复极化模式，T 波和 U 波融合且 QTU 间期延长。（第二条节律带）宏观 T 波交替。每隔一个窦性心搏显示的T波和U波形态（点）与其他窦性心搏（星号）略有不同（波幅较低且持续时间较短）（第三节律带）频繁的多形性室性早搏（箭头），如图所示，呈二联律模式。该节律带还显示了与患者通常的 T 波和 U 波（点下方）相比，暂停后复极模式（星号下方的 T 波和 U 波）的变化。（第四条节律带）巨型 TU 波，伴随 QTU 间隔延长（箭头）。该节律带还显示室性早搏二联律，随后是由典型的短-长-短起始序列引发的一系列尖端扭转型室性心动过速。
+Images courtesy of L.Brent Mitchell, MD.
+通过识别快速、多形性室性心动过速 (VT)（通常会自行终止），可以怀疑存在 TdeP 室性心动过速 (VT)。发作通常遵循短-长-短RR间期起始序列（尽管该序列对TdeP-VT不特定）：第一个短RR间期介于基线搏动（通常为正常搏动）和早搏（通常为室性早搏）之间。长RR间期是收缩后暂停，以基线搏动（通常为正常搏动）结束。暂停进一步延长了该基线搏动的QT间期，随后是TdeP VT开始时的短RR间期。尽管患者在其他时间可能具有正常的QTc，但QTc通常在TdeP VT前后显著延长，并且TdeP VT前最后一个QRS波群的QT间期必须较长（通常具有巨大的TU波）。
+
+【经验与提示】
+经验与提示
+尖端扭转型室性心动过速通常遵循短-长-短RR间期起始序列，并且TdeP VT之前最后一个QRS波群的QT间期必须较长。
+尖端扭转型室性心动过速通常遵循短-长-短RR间期起始序列，并且TdeP VT之前最后一个QRS波群的QT间期必须较长。
+
+【尖端扭转型室速】
+尖端扭转型室速
+
+【诊断参考文献】
+1.Goldenberg I, Moss AJ, Zareba W:  QT interval: how to measure it and what is "normal".J Cardiovasc Electrophysiol17(3):333–336, 2006.doi: 10.1111/j.1540-8167.2006.00408.x
+1.Goldenberg I, Moss AJ, Zareba W:  QT interval: how to measure it and what is "normal".J Cardiovasc Electrophysiol17(3):333–336, 2006.doi: 10.1111/j.1540-8167.2006.00408.x
+
+【尖端扭转型室性心动过速的治疗】
+室颤采用非同步直流电复律
+室颤采用非同步直流电复律
+纠正电解质异常，尤其是低钾血症
+纠正电解质异常，尤其是低钾血症
+硫酸镁（MgSO4）IV
+硫酸镁（MgSO4）IV
+增加基础心率的治疗方法，包括起搏或静脉注射异丙肾上腺素
+增加基础心率的治疗方法，包括起搏或静脉注射异丙肾上腺素
+对因治疗
+对因治疗
+如果急性发作持续时间足够长，导致血流动力学受损，则用非同步心脏复律进行治疗，从双相 120 至 200 焦耳（或单相 360 焦耳）开始。然而，早期复发是常见情况
+电解质异常（例如,低钾血症），这可能会加剧室性心律不齐的风险，应予以纠正。患者常对镁剂治疗有效：可给予硫酸镁2g，IV 1～2min。如果此治疗不成功，在5～10分钟后给予第2次注射，并可在无肾功能不全的患者中开始滴注硫酸镁3～20mg/min (1)。利多卡因（Ⅰb类抗心律失常药物）可缩短QT间期，可能对药物诱发的尖端扭转型室性心动过速尤其有效 (2)。应该避免用Ⅰa、Ⅰc或Ⅲ类抗心律失常药。
+如果药物是病因，则停药，但在药物完全清除之前，频繁或长时间发生TdeP型VT的患者需要治疗以缩短QT间期。因为增快心率可缩短QT间期，所以临时起搏、静滴异丙基肾上腺素、或两者共用常有效。增加心率也会缩短 TdeP VT 的“短-长-短”启动序列中的“长” (1)。
+长期治疗是避免导致QT间期延长的因素。一些获得性长QT间期综合征患者有潜在的亚临床先天性长QT间期综合征，其表现为在消除外源性QTc延长影响后持续的QTc间期延长 (2)。
+
+【治疗参考文献】
+1.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.J Am Coll Cardiol72:e91–e220, 2018.doi: 10.1016/j.jacc.2017.10.054
+1.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.J Am Coll Cardiol72:e91–e220, 2018.doi: 10.1016/j.jacc.2017.10.054
+2.Davies RA, Ladouceur VB, Green MS, et al: The 2023 Canadian Cardiovascular Society Clinical Practice Update on Management of the Patient With a Prolonged QT Interval.Can J Cardiol39(10):1285–1301, 2023.doi: 10.1016/j.cjca.2023.06.011
+2.Davies RA, Ladouceur VB, Green MS, et al: The 2023 Canadian Cardiovascular Society Clinical Practice Update on Management of the Patient With a Prolonged QT Interval.Can J Cardiol39(10):1285–1301, 2023.doi: 10.1016/j.cjca.2023.06.011
+导致尖端扭转型室性心动过速的长QT间期可以是先天性的，也可以是后天性的。
+导致尖端扭转型室性心动过速的长QT间期可以是先天性的，也可以是后天性的。
+尖端扭转型室性心动过速发作通常可自行终止，但经常复发。
+尖端扭转型室性心动过速发作通常可自行终止，但经常复发。
+如果尖端扭转型室性心动过速发作引起心室颤动，则需要非同步除颤。
+如果尖端扭转型室性心动过速发作引起心室颤动，则需要非同步除颤。
+扭转室速用硫酸镁 2 g IV 治疗 1 至 2 分钟，纠正低钾血症、起搏或异丙肾上腺素以增加心率，并纠正病因。
+扭转室速用硫酸镁 2 g IV 治疗 1 至 2 分钟，纠正低钾血症、起搏或异丙肾上腺素以增加心率，并纠正病因。

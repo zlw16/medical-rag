@@ -1,0 +1,81 @@
+标题：Acinetobacter不动杆菌属感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-negative-cocci-and-coccobacilli/acinetobacter-infections
+============================================================
+
+Acinetobacter（不动杆菌）为革兰氏阴性需氧杆菌或球杆菌，属于莫拉菌科。不动杆菌属在自然界中普遍存在，干燥的表面环境中可以存活长达1个月。卫生工作者皮肤表面通常携带该病原体，由此增加患者定植及医疗设备污染的可能性。
+不动杆菌Acinetobacter属菌种较多，几乎均可以致病，其中鲍曼不动杆菌Acinetobacter baumannii占了大约80% (1)。世界卫生组织 (WHO) 和美国疾病控制与预防中心 (CDC) 将碳青霉烯耐药A. baumannii（不动杆菌）(CRAB) 列为抗生素耐药威胁名单上的高优先级病原体 (2)。
+
+【参考文献】
+1.Wong D, Nielsen TB, Bonomo RA, et al.Clinical and pathophysiological overview ofAcinetobacterinfections: A century of challenges.Clin Microbiol Rev. 2017;30(1):409–447.doi:10.1128/CMR.00058-16
+1.Wong D, Nielsen TB, Bonomo RA, et al.Clinical and pathophysiological overview ofAcinetobacterinfections: A century of challenges.Clin Microbiol Rev. 2017;30(1):409–447.doi:10.1128/CMR.00058-16
+2.De Oliveira DMP, Forde BM, Kidd TJ, et al.Antimicrobial Resistance in ESKAPE Pathogens.Clin Microbiol Rev.2020;33(3):e00181-19.Published 2020 May 13.doi:10.1128/CMR.00181-19
+2.De Oliveira DMP, Forde BM, Kidd TJ, et al.Antimicrobial Resistance in ESKAPE Pathogens.Clin Microbiol Rev.2020;33(3):e00181-19.Published 2020 May 13.doi:10.1128/CMR.00181-19
+
+【由Acinetobacter（不动杆菌）引起的疾病】
+Acinetobacter（不动杆菌）疾病的最常见表现是
+呼吸道感染
+呼吸道感染
+鲍曼不动杆菌(AB) 感染通常发生在重病住院患者身上。 社区获得性感染（主要是肺炎）在热带气候地区更常见。当感染是由抗生素耐药菌株引起时，与 AB 感染相关的病死率可能接近 70%（1）。
+不动杆菌可导致健康儿童出现社区获得性毛细支气管炎和气管支气管炎，以及免疫力低下的成年人气管支气管炎。不动杆菌容易定植气管切开部位。医院获得性Acinetobacter（不动杆菌）肺炎通常累及多个肺叶 ，病情复杂。 继发性菌血症和感染性休克与预后不良有关。
+Acinetobacter不动杆菌属还可以引起全身各个器官的伤口感染和化脓性感染（如，脓肿），包括肺、泌尿道、皮肤以及软组织。此外，还可能发生细菌血症。
+另外，少数情况下，不动杆菌还可以引起脑膜炎（主要见于神经外科手术后）、蜂窝织炎或静脉炎（因留置静脉导管）、眼部感染、天然或人工瓣膜心内膜炎、骨髓炎、化脓性关节炎，或胰腺和肝脏脓肿等。
+从临床样本中分离出的Acinetobacter（不动杆菌），例如插管患者的呼吸道分泌物或开放性伤口的样本，其临床意义难以确定，因为这些通常是定植。
+
+【危险因素】
+Acinetobacter（不动杆菌）感染的易感因素主要因感染类型不同（院内感染、社区获得性及多重耐药）而不尽相同——见表不动杆菌感染的危险因素。
+
+【Acinetobacter（不动杆菌）感染的易感因素】
+Acinetobacter（不动杆菌）感染的易感因素
+感染类型
+危险因素
+院内感染
+Acinetobacter（不动杆菌）在粪便中定值
+体内留置导管或其他器材
+入住重症监护室
+住院时间长度
+机械通气
+肠外营养
+既往感染
+手术治疗
+广谱抗生素的使用
+社区获得性
+酒精使用障碍
+慢性肺病
+居住在热带气候中，特别是在自然灾害之后
+多重耐药
+接触被定植或感染的患者
+创伤性手术或操作
+长时间机械通气
+住院时间延长（特别是在重症监护室）
+输注血制品
+广谱抗生素的使用（如第三代头孢菌素、碳青霉烯类、氟喹诺酮类）
+
+【不动杆菌的耐药性】
+多重耐药不动杆菌A. baumannii（MDR-AB），尤其是碳青霉烯耐药不动杆菌（CRAB），已经出现，特别是在免疫抑制患者、患有严重基础疾病的患者以及在有创操作后接受广谱抗生素治疗的患者的重症监护病房（ICU）中。在重症监护病房中的传播归因于定植的医护人员、受污染的通用设备和受污染的肠外营养液。
+从历史上看，革兰氏阴性菌感染与越南和朝鲜战争有关，但最近与伊拉克和阿富汗战争有关，其中很大一部分涉及抗生素耐药菌株。
+
+【由Acinetobacter（不动杆菌）引起的疾病参考文献】
+1.Wong D, Nielsen TB, Bonomo RA, et al.Clinical and pathophysiological overview ofAcinetobacterinfections: A century of challenges.Clin Microbiol Rev. 2017;30(1):409–447.doi:10.1128/CMR.00058-16
+1.Wong D, Nielsen TB, Bonomo RA, et al.Clinical and pathophysiological overview ofAcinetobacterinfections: A century of challenges.Clin Microbiol Rev. 2017;30(1):409–447.doi:10.1128/CMR.00058-16
+
+【不动杆菌感染的治疗】
+基于药敏试验的抗生素治疗
+基于药敏试验的抗生素治疗
+由异物引起的局部蜂窝织炎或静脉炎（如：静脉导管或缝线），将异物移除后进行局部处理即可。气管插管引起的气管支气管炎可通过肺部卫生措施自行消退。严重感染患者则需要接受抗生素治疗，必要时需进行清创。
+非多重耐药性病原体的轻度感染通常对单一疗法有反应。
+中度至重度鲍曼不动杆菌(AB) 非 MDR 病原体感染，通常采用联合疗法，直至出现临床反应。一个典型的联合方案包括碳青霉烯类药物（亚胺培南或美罗培南）或氨苄西林/舒巴坦，加上氟喹诺酮类或氨基糖苷类药物。根据抗生素敏感性，可能需要考虑其他组合。
+AB 长期以来对许多抗菌药物具有内在耐药性；因此，经验性治疗应根据耐药的可能性（包括局部抗生素图谱）来决定。MDR-AB 是指对≥3类抗菌药物具有耐药性的菌株；一些分离株，包括许多CRAB菌种，对几乎所有药物均有耐药性。常用于经验疗法的潜在活性抗菌药物包括β-内酰胺类（特别是氨苄西林/舒巴坦、头孢吡肟、哌拉西林/他唑巴坦、头孢他啶和新型抗菌药物舒巴坦/杜洛巴坦）、碳青霉烯类（美罗培南和亚胺培南）和氟喹诺酮类。可用于治疗对这些抗生素耐药的轻度感染，或可与这些抗生素联合使用的其他抗菌药物包括四环素衍生物（替加环素和米诺环素）、多粘菌素（多粘菌素 B 优于粘菌素）、头孢地尔，有时还包括氨基糖苷类（1）。
+严重的CRAB感染通常仍采用氨苄西林/舒巴坦并联合额外的抗菌药物进行治疗（2）。舒巴坦/杜洛巴坦是一种替代方案。
+为防止传播，医务人员应对定植或感染MDR-AB的患者，采取接触预防措施（洗手、屏障预防）并进行适当的呼吸机护理和清洁。
+
+【治疗参考文献】
+1.Abdul-Mutakabbir JC, Griffith NC, Shields RK, Tverdek FP, Escobar ZK.Contemporary Perspective on the Treatment ofAcinetobacter baumanniiInfections: Insights from the Society of Infectious Diseases Pharmacists.Infect Dis Ther.2021 Dec;10(4):2177-2202.doi:10.1007/s40121-021-00541-4
+1.Abdul-Mutakabbir JC, Griffith NC, Shields RK, Tverdek FP, Escobar ZK.Contemporary Perspective on the Treatment ofAcinetobacter baumanniiInfections: Insights from the Society of Infectious Diseases Pharmacists.Infect Dis Ther.2021 Dec;10(4):2177-2202.doi:10.1007/s40121-021-00541-4
+2.Tamma PD, Aitken SL, Bonomo RA, Mathers AJ, van Duin D, Clancy CJ.Infectious Diseases Society of America 2023 Guidance on the Treatment of Antimicrobial Resistant Gram-Negative Infections.Clin Infect Dis.Published online July 18, 2023.doi:10.1093/cid/ciad428
+2.Tamma PD, Aitken SL, Bonomo RA, Mathers AJ, van Duin D, Clancy CJ.Infectious Diseases Society of America 2023 Guidance on the Treatment of Antimicrobial Resistant Gram-Negative Infections.Clin Infect Dis.Published online July 18, 2023.doi:10.1093/cid/ciad428
+A. baumannii（鲍曼不动杆菌）（AB）约占Acinetobacter（不动杆菌）感染总数的80％，并且往往发生在病情危重的住院患者。
+A. baumannii（鲍曼不动杆菌）（AB）约占Acinetobacter（不动杆菌）感染总数的80％，并且往往发生在病情危重的住院患者。
+感染最常见的部位是呼吸系统，但Acinetobacter不动杆菌属也可引起其他任何器官系统化脓性感染。
+感染最常见的部位是呼吸系统，但Acinetobacter不动杆菌属也可引起其他任何器官系统化脓性感染。
+多重耐药不动杆菌已成为一个问题；可能需要根据药敏试验结果选择多药联合治疗。
+多重耐药不动杆菌已成为一个问题；可能需要根据药敏试验结果选择多药联合治疗。

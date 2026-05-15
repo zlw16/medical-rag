@@ -1,0 +1,101 @@
+标题：排卵功能障碍
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/infertility-and-recurrent-pregnancy-loss/ovulatory-dysfunction
+============================================================
+
+（参见不孕不育概述）
+
+【排卵功能障碍的病因】
+绝经前女性慢性排卵功能障碍最常见的原因是
+多囊卵巢综合征(PCOS)
+多囊卵巢综合征(PCOS)
+但也包括其它多种病因：
+高泌乳素血症
+高泌乳素血症
+下丘脑-垂体功能障碍（最常见的是功能性下丘脑性闭经）
+下丘脑-垂体功能障碍（最常见的是功能性下丘脑性闭经）
+其他可能导致无排卵的情况(如糖尿病、甲状腺功能减退或亢进、抑郁、某些抗抑郁药、肥胖、过度运动、过度减重、使用含有雌激素或孕激素的药物)
+其他可能导致无排卵的情况(如糖尿病、甲状腺功能减退或亢进、抑郁、某些抗抑郁药、肥胖、过度运动、过度减重、使用含有雌激素或孕激素的药物)
+
+【排卵功能障碍的症状和体征】
+排卵功能障碍的女性可能会闭经或者异常子宫出血。
+
+【排卵功能障碍的诊断】
+家庭排卵测试套件
+家庭排卵测试套件
+有时监测基础体温
+有时监测基础体温
+尿或血清激素的检验或者超声检查
+尿或血清激素的检验或者超声检查
+根据月经史无排卵通常很容易判断。
+每天测量晨间体温可以帮助确定排卵是否发生以及何时发生。然而这种方法通常不够准确。
+更精确的方法包括
+家用测排卵试剂盒，其主要监测尿中黄体生成素（LH），其在排卵前24～36小时分泌增加（需要在月经中期左右的一段时间内每天连续检测，大约在月经第9天或之后开始）。
+家用测排卵试剂盒，其主要监测尿中黄体生成素（LH），其在排卵前24～36小时分泌增加（需要在月经中期左右的一段时间内每天连续检测，大约在月经第9天或之后开始）。
+盆腔超声检查，用于监测卵巢卵泡直径的增加和卵泡的塌陷（监测应在卵泡后期开始）
+盆腔超声检查，用于监测卵巢卵泡直径的增加和卵泡的塌陷（监测应在卵泡后期开始）
+检测血清孕酮或尿孕二醇葡糖醛酸（孕酮的尿代谢产物)
+检测血清孕酮或尿孕二醇葡糖醛酸（孕酮的尿代谢产物)
+血清孕酮水平≥3ng/mL(≥9.75nmol/l)，或者尿孕二醇葡糖醛酸水平的升高（尽可能在下次月经来潮前1周检测），表明有排卵。
+间断排卵或不排卵应检查脑垂体、下丘脑、或卵巢是否功能异常（特别是PCOS）。
+
+【排卵功能障碍的治疗】
+潜在疾病的治疗
+潜在疾病的治疗
+来曲唑或克罗米芬
+来曲唑或克罗米芬
+如果体重指数≥35kg/m2可服用二甲双胍
+如果体重指数≥35kg/m2可服用二甲双胍
+如果克罗米芬无效，可使用促性腺激素
+如果克罗米芬无效，可使用促性腺激素
+用激素或代谢药物诱导排卵。PCOS 患者的治疗研究最为广泛，PCOS 是排卵功能障碍的常见病因（1）。
+许多临床医生更喜欢芳香酶抑制剂来曲唑，而不是克罗米芬。来曲唑在血浆中的半衰期比克罗米芬短得多。有证据表明，对于患有肥胖和多囊卵巢综合征的女性来说，来曲唑比克罗米芬更容易诱发排卵，并且这种效果也可能发生在没有肥胖的多囊卵巢综合征女性身上（2）。尚无证据表明，对于多囊卵巢综合征以外的排卵障碍原因，来曲唑比克罗米芬更有效，但似乎至少同样有效。
+来曲唑在月经出血开始后的第三天至第五天开始服用。最初，口服2.5毫克一次/天，连续服用5天。若未发生排卵，剂量每周期可增加2.5mg，每次最大剂量可达7.5mg。
+来曲唑的最常见不良反应是疲乏和头晕。
+来曲唑不应该给妊娠妇女，因为理论上可能会导致生殖器先天缺陷。
+
+【克罗米芬】
+非高催乳素血症引起的慢性无排卵也可以用抗雌激素药物克罗米芬治疗。
+当病因是多囊卵巢综合征(PCOS) 时，克罗米芬最有效。氯米芬50毫克 po qd，于出血开始后的第三至第五天之间开始服用；出血可能是自发性发生，也可能是人为诱导（例如通过孕激素撤退）。克罗米芬连续服用5天。排卵通常发生在末次克罗米芬给药后的5～10天（平均7天）；如果发生排卵，诱导出血发作后35天内会来月经。
+如果没有出现月经，则进行妊娠试验。如果女性没有怀孕，则重复治疗周期。根据促排卵需要，每个月经周期每天口服剂量最多可增加50mg，最高剂量可达200mg。根据需要可以连续4个促进排卵周期的治疗。大多数怀孕的妇女是在排卵发生的第四个周期时怀孕的。克罗米芬治疗的女性中有75%～80%会发生排卵，但妊娠率最高为40%～50%(3)。
+克罗米芬的不良反应包括血管舒缩性潮红（10％）、腹胀（6％）、乳房触痛（2％）、恶心（3％）、视觉症状（1%～2％）和头痛（1%～2％）。多胎妊娠（主要是双胞胎）发生率约5％，卵巢过度刺激综合征的发生率为≤1%。卵巢囊肿是常见的。既往提出的服用克罗米芬时间>12个周期与卵巢癌之间的关联性尚未得到证实。
+妊娠妇女不应该服用克罗米芬，因为从理论上说，它可能会导致生殖器先天缺陷。
+
+【二甲双胍】
+PCOS患者可以服用二甲双胍辅助促排卵（750到1000mg，每天两次），特别是患有胰岛素抵抗的患者，而PCOS大多数患有胰岛素抵抗。然而，单药服用克罗米芬比单独服用二甲双胍更有效，且与二甲双胍和克罗米芬联合服用同样有效 (4)。对于患有PCOS有妊娠意愿的妇女，二甲双胍不是一线治疗用药。
+
+【外源性促性腺激素】
+对于所有对来曲唑或克罗米芬无反应的排卵功能障碍的女性，可以使用人促性腺激素（即含有纯化或重组促卵泡激素[FSH]和不同量促黄体生成激素[LH]的制剂）。也有一些可肌肉和皮下用药、效果相似的制剂；这些制剂含有75IU的FSH活性，含或不含LH活性。一般一天给药1次，诱发或者自发月经出血的第3～5天开始用药；理想情况下，超声监测可见7～14天内有1～3个卵泡发育成熟。
+卵泡成熟后，可用肌注5000～10000 IU人绒毛膜促性腺激素（hCG）促排卵，促排卵时机的选择标准可能不同，但至少一个卵泡直径应达>16毫米。或者，促性腺激素释放激素（GnRH）激动剂可用于引发排卵，特别是在卵巢过度刺激综合征高风险的女性。
+虽然当GnRH激动剂用于诱发排卵时，高风险的女性患有卵巢过度刺激综合征的风险较低，但如果女性处于卵巢过度刺激综合征或多胎妊娠的高风险中，不诱发排卵是更安全的。高危因素包括
+直径大于16mm的卵泡多于3个
+直径大于16mm的卵泡多于3个
+排卵前血清雌二醇水平>1500 pg/mL（或>1000pg/mL）而卵巢内有多个小卵泡的妇女。
+排卵前血清雌二醇水平>1500 pg/mL（或>1000pg/mL）而卵巢内有多个小卵泡的妇女。
+当合理使用外源性促性腺激素后，>95%的患者会排卵，但受孕率仅约50% (5)。
+促性腺激素治疗后，成功妊娠中有10%至30%为多胎妊娠。
+10%～20%的患者会发生卵巢过度刺激综合征 (6)；卵巢可明显增大，血管内液体容量会转移到腹腔，导致可能危及生命的腹水和低血容量血症。(参见American Society for Reproductive Medicine: Prevention and treatment of moderate and severe ovarian hyperstimulation syndrome: A guideline (2016).)
+
+【潜在疾病的治疗】
+潜在疾病（如，高催乳素血症）应予以治疗。
+如果闭经的原因是功能性下丘脑性闭经，脉冲式静脉注射合成GnRH激动剂——醋酸戈那瑞林可以促发排卵。每隔60～90分钟规则给予2.5～5.0微克的推注（脉冲剂量）最有效。醋酸戈那瑞林不太可能引起多胎妊娠。
+由于美国已不再提供戈那瑞林，因此来曲唑或克罗米芬是治疗功能性下丘脑闭经的首选药物，如果任何一种口服药物诱导排卵不成功，则使用外源性促性腺激素。
+
+【治疗参考文献】
+1.Teede HJ, Tay CT, Laven JJE, et al.Recommendations From the 2023 International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome.J Clin Endocrinol Metab.2023;108(10):2447-2469.doi:10.1210/clinem/dgad463
+1.Teede HJ, Tay CT, Laven JJE, et al.Recommendations From the 2023 International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome.J Clin Endocrinol Metab.2023;108(10):2447-2469.doi:10.1210/clinem/dgad463
+2.Legro RS, Brzyski RG, Diamond MP, et al:Letrozoleversusclomiphenefor infertility in the polycystic ovary syndrome.N Engl J Med371:119-129, 2014.doi:10.1056/NEJMoa1313517
+2.Legro RS, Brzyski RG, Diamond MP, et al:Letrozoleversusclomiphenefor infertility in the polycystic ovary syndrome.N Engl J Med371:119-129, 2014.doi:10.1056/NEJMoa1313517
+3.Gysler M, March CM, Mishell DR Jr, Bailey EJ: A decade's experience with an individualizedclomiphenetreatment regimen including its effect on the postcoital test.Fertil Steril37(2):161-167, 1982.doi:10.1016/s0015-0282(16)46033-4
+3.Gysler M, March CM, Mishell DR Jr, Bailey EJ: A decade's experience with an individualizedclomiphenetreatment regimen including its effect on the postcoital test.Fertil Steril37(2):161-167, 1982.doi:10.1016/s0015-0282(16)46033-4
+4.Legro RS, Barnhart HX, Schlaff WD, et al:Clomiphene,metformin, or both for infertility in the polycystic ovary syndrome.N Engl J Med356 (6):551–566, 2007.doi: 10.1056/NEJMoa063971
+4.Legro RS, Barnhart HX, Schlaff WD, et al:Clomiphene,metformin, or both for infertility in the polycystic ovary syndrome.N Engl J Med356 (6):551–566, 2007.doi: 10.1056/NEJMoa063971
+5.White DM, Polson DW, Kiddy D, et al.Induction of ovulation with low-dose gonadotropins in polycystic ovary syndrome: an analysis of 109 pregnancies in 225 women.J Clin Endocrinol Metab.1996;81(11):3821-3824.doi:10.1210/jcem.81.11.8923819
+5.White DM, Polson DW, Kiddy D, et al.Induction of ovulation with low-dose gonadotropins in polycystic ovary syndrome: an analysis of 109 pregnancies in 225 women.J Clin Endocrinol Metab.1996;81(11):3821-3824.doi:10.1210/jcem.81.11.8923819
+6.Schirmer DA 3rd, Kulkarni AD, Zhang Y, Kawwass JF, Boulet SL, Kissin DM.Ovarian hyperstimulation syndrome after assisted reproductive technologies: trends, predictors, and pregnancy outcomes.Fertil Steril.2020;114(3):567-578.doi:10.1016/j.fertnstert.2020.04.004
+6.Schirmer DA 3rd, Kulkarni AD, Zhang Y, Kawwass JF, Boulet SL, Kissin DM.Ovarian hyperstimulation syndrome after assisted reproductive technologies: trends, predictors, and pregnancy outcomes.Fertil Steril.2020;114(3):567-578.doi:10.1016/j.fertnstert.2020.04.004
+绝经前妇女排卵功能障碍的最常见原因是PCOS;其它的原因包括下丘脑和垂体功能障碍。
+绝经前妇女排卵功能障碍的最常见原因是PCOS;其它的原因包括下丘脑和垂体功能障碍。
+排卵障碍的诊断是根据月经史，盆腔超声结果，和/或血清孕酮和尿孕二醇葡萄糖醛酸苷的测量。
+排卵障碍的诊断是根据月经史，盆腔超声结果，和/或血清孕酮和尿孕二醇葡萄糖醛酸苷的测量。
+通常使用来曲唑或克罗米芬来诱导大多数女性排卵。
+通常使用来曲唑或克罗米芬来诱导大多数女性排卵。

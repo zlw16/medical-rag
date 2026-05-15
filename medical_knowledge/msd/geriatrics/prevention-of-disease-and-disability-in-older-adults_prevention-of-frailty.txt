@@ -1,0 +1,17 @@
+标题：衰弱预防
+来源：https://www.msdmanuals.cn/professional/geriatrics/prevention-of-disease-and-disability-in-older-adults/prevention-of-frailty
+============================================================
+
+衰弱是指生理储备功能的减退，这使得个体在承受轻微应激时即易出现失能状态（1）。常见的衰弱特征包括乏力、活动功能减慢、体重减轻、肌肉萎缩（肌肉减少症）、运动不耐受、频繁跌倒、行动不便、大小便失禁以及慢性病的频繁加重。
+锻炼和健康饮食被推荐用于预防或减轻衰弱(2)。 定期参加有氧运动（如散步、游泳、跑步）的老年人能寿命更长，比久坐的老年人功能下降得少。情绪和认知功能也可能得到改善。力量训练有助于增加骨骼和肌肉质量，降低跌倒和骨折的风险。健康饮食可预防或降低许多导致身体虚弱的疾病风险，包括乳腺癌、结肠癌、骨质疏松症、肥胖症和营养不良；同时也能降低发病率和死亡率。
+营养咨询和补充似乎对衰弱患者有益(3)。结合运动时也推荐摄入充足的蛋白质。最佳蛋白质摄入量尚不明确，但部分专家建议无慢性肾脏病的健康老年人每日摄入量为1.0至1.2g/kg（4）。
+
+【参考文献】
+1.Veronese N, Custodero C, Cella A, et al.Prevalence of multidimensional frailty and pre-frailty in older people in different settings: A systematic review and meta-analysis. Ageing Res Rev.2021;72:101498.doi:10.1016/j.arr.2021.101498
+1.Veronese N, Custodero C, Cella A, et al.Prevalence of multidimensional frailty and pre-frailty in older people in different settings: A systematic review and meta-analysis. Ageing Res Rev.2021;72:101498.doi:10.1016/j.arr.2021.101498
+2.Ni Lochlainn M, Cox NJ, Wilson T, et al.Nutrition and Frailty: Opportunities for Prevention and Treatment.Nutrients.2021;13(7):2349.Published 2021 Jul 9.doi:10.3390/nu13072349
+2.Ni Lochlainn M, Cox NJ, Wilson T, et al.Nutrition and Frailty: Opportunities for Prevention and Treatment.Nutrients.2021;13(7):2349.Published 2021 Jul 9.doi:10.3390/nu13072349
+3.Kim DH, Rockwood K.Frailty in Older Adults.N Engl J Med.2024;391(6):538-548.doi:10.1056/NEJMra2301292
+3.Kim DH, Rockwood K.Frailty in Older Adults.N Engl J Med.2024;391(6):538-548.doi:10.1056/NEJMra2301292
+4.Bauer J, Biolo G, Cederholm T, et al.Evidence-based recommendations for optimal dietary protein intake in older people: a position paper from the PROT-AGE Study Group. JAm Med Dir Assoc.2013;14(8):542-559.doi:10.1016/j.jamda.2013.05.021
+4.Bauer J, Biolo G, Cederholm T, et al.Evidence-based recommendations for optimal dietary protein intake in older people: a position paper from the PROT-AGE Study Group. JAm Med Dir Assoc.2013;14(8):542-559.doi:10.1016/j.jamda.2013.05.021

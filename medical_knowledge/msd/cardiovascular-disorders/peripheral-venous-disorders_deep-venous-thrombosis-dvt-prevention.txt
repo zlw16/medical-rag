@@ -1,0 +1,114 @@
+标题：深静脉血栓形成（DVT）的预防
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/peripheral-venous-disorders/deep-venous-thrombosis-dvt-prevention
+============================================================
+
+最好也是更安全地预防深静脉血栓形成（DVT）比治疗更重要，特别是对于高危患者（见表深静脉血栓和肺栓塞的风险）。DVT的预防从风险评估开始。风险连同其他的因素一起，影响合适的预防方式的选择。预防措施包括
+避免制动
+避免制动
+预防性抗凝（例如，低分子量肝素、磺达肝癸钠、调整剂量华法林、直接口服抗凝剂）
+预防性抗凝（例如，低分子量肝素、磺达肝癸钠、调整剂量华法林、直接口服抗凝剂）
+间歇充气加压
+间歇充气加压
+下腔静脉（IVC）滤器不能预防DVT，但有时会尝试用于防止肺栓塞（PE）。对于有抗凝治疗禁忌症的下肢深静脉血栓患者或尽管接受充分抗凝治疗但仍发生复发性深静脉血栓（或栓塞）的患者，下腔静脉滤器可用于帮助预防肺栓塞。尽管下腔静脉滤器广泛使用，但其预防肺栓塞的功效尚未得到充分研究和证实。
+(参见深静脉血栓形成。)
+
+【DVT 预防中的风险评估】
+深静脉血栓低风险患者（如进行小手术但无深静脉血栓临床危险因素的患者；因长途旅行如航班导致长时间[>6小时]暂时不能活动者）应鼓励他们行走或定期活动腿部；无需药物治疗。足背屈曲10次/小时可能已足够。
+DVT高危患者包括存在DVT临床危险因素进行小手术的患者；所有进行大手术的患者，特别是骨科手术患者，即使无危险因素；以及伴有严重疾病的卧床患者（如大多数ICU患者，其他如心力衰竭、慢性阻塞性肺疾病[COPD]、慢性肝病、脑卒中患者）。这些患者需要附加预防性治疗 (见表深静脉血栓形成和肺栓塞的风险)。这些患者中的大多数可以被识别并应接受预防深静脉血栓。住院本身不被视为危险因素，住院但不属于这些类别之一的患者不需要常规 DVT 预防。
+
+【外科病人DVT和PE的危险度】
+外科病人DVT和PE的危险度
+危险度分层
+深静脉血栓/肺栓塞的近似风险（%）
+Caprini评分
+Rogers评分
+预防措施
+<0.5
+无危险因素且年龄<40岁患者的短时间手术（<30–45分钟）
+未采取机械或药物预防
+低度危险
+7～10
+<40岁患者的大手术（>45分钟）
+40-74岁无其他危险因素的患者
+妊娠期或产后患者
+间歇充气加压装置（IPC）
+中危险度
+≥75岁无其他危险因素的患者
+静脉血栓栓塞症家族史
+已知血栓形成倾向
+<40岁、无危险因素的患者接受大手术
+低分子量肝素、普通肝素或间歇充气加压装置
+高危险度
+主要骨科手术（关节置换术、髋部或骨盆骨折）>急性脊髓损伤
+多种危险因素
+低分子量肝素（LMWH）或普通肝素（LDUH）以及间歇充气加压装置（IPC）
+癌症腹部/盆腔手术后延长低分子量肝素（LMWH）使用
+如果出血风险高：使用间歇性气压泵（IPC）；如果肝素禁用：阿司匹林 + 方达帕林或 IPC
+DVT = 深静脉血栓；IPC = 间歇性气动加压；LDUH = 小剂量普通肝素；LMWH = 低分子量肝素；PE = 肺栓塞。
+Data fromGould MK, Garcia DA, Wren SM, et al.Prevention of VTE in nonorthopedic surgical patients: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines.Chest.2012;141(2 Suppl):e227S-e277S.doi:10.1378/chest.11-2297Ada
+DVT = 深静脉血栓；IPC = 间歇性气动加压；LDUH = 小剂量普通肝素；LMWH = 低分子量肝素；PE = 肺栓塞。
+Data fromGould MK, Garcia DA, Wren SM, et al.Prevention of VTE in nonorthopedic surgical patients: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines.Chest.2012;141(2 Suppl):e227S-e277S.doi:10.1378/chest.11-2297Ada
+
+【DVT预防中的治疗】
+DVT的预防包括了以下一项或多项：
+机械治疗（例如压力装置或弹力袜，静脉滤网）
+机械治疗（例如压力装置或弹力袜，静脉滤网）
+药物治疗（如低剂量普通肝素、低分子肝素、华法林、磺达肝癸钠及直接口服抗凝药）
+药物治疗（如低剂量普通肝素、低分子肝素、华法林、磺达肝癸钠及直接口服抗凝药）
+选择何种方式预防取决于患者的风险水平、手术类型、预防治疗的计划时间、禁忌征、不良反应、相对成本、易用性及地方经验。
+
+【DVT预防的机械治疗】
+手术后，抬高腿和避免延长时间制动可有帮助，因为腿置于被动体位时将妨碍静脉回流。
+除了低危手术患者及特定住院患者外，应用弹力袜的获益仍未获确证。但其他预防措施联合弹力袜则可能比单一措施取得更大的保护作用。
+间歇性加压充气装置（IPC）应用一个泵周期性地扩张和萎陷中空的塑料绑腿，提供对小腿或大腿的外部压迫。外科术后可使用IPC替代或联合抗凝治疗。IPC推荐应用于进行外科手术但出血高危存在抗凝禁忌的患者。间歇充气加压装置可能比预防近端深静脉血栓更有效地预防小腿深静脉血栓一些肥胖患者因无法正确地安装，因而不适用IPC。
+对DVT及出血风险非常高的患者（如严重创伤后），推荐应用IPC，直至出血危险降低或可以开始应用抗凝药物治疗。
+除非深静脉血栓已确诊，否则应避免使用下腔静脉滤器，除非是经过严格筛选的患者
+
+【DVT预防的药物治疗】
+药物血栓预防涉及使用抗凝剂。
+阿司匹林在深静脉血栓预防中的作用主要局限于行全髋关节或膝关节置换手术的患者（1）。
+手术前2小时给予低剂量普通肝素（UFH） 5000U皮下注射，此后每8-12小时给药1次，持续7-10天，直到患者能充分步行。长期卧床的非手术患者应予UFH 5000U皮下注射，每12小时1次， 直到危险因素被纠正。
+LMWHs在预防DVT和PE时较低剂量UFH更有效 (2, 3, 4)，但 广泛应用受到费用限制。依诺肝素30 mg皮下注射，每12小时1次；达肝素钠5000 U皮下注射，每日1次；亭扎肝素4500 U皮下注射，每日1 次有着相同的效果。磺达肝癸钠2.5mg 皮下注射，qd，在接受非骨科手术的患者中至少与低分子肝素同样有效，在骨科手术后可能比低分子肝素更有效（5）
+当目标国际标准化比值（INR）控制于2.0到3.0，华法林被证实在骨科手术中同样有效。但因可替代方案如LMWHs、直接口服抗凝药更易于管理而较少使用。
+直接口服抗凝剂（如达比加群、利伐沙班、阿哌沙班）在髋关节或膝关节置换术后预防深静脉血栓及肺栓塞的效果和安全性至少与低分子肝素相当，但比华法林昂贵，其成本效益需要进一步研究（3）
+预防DVT始终存在以下风险： 在使用抗凝剂时出血。
+
+【特殊人群的DVT预防】
+对于髋关节和其他下肢骨科手术，建议选择直接口服抗凝剂（例如利伐沙班、阿哌沙班）、LMWH、磺达肝癸钠或调整剂量的华法林。对于接受全膝关节置换术的患者和其他一些因出血风险高而不能给予抗凝剂的高危患者，IPC也是有益的。对矫形外科手术，在术前或术后即应 开始预防性治疗，并持续使用至少14天。对于接受骨科手术的患者，每日一次皮下注射Fondaparinux 2.5 mg似乎比低分子肝素更有效地预防深静脉血栓形成，但可能与出血风险增加有关(5)。
+对于选择性神经外科手术、脊髓损伤或多发性创伤，建议首选低剂量 LMWH，或低剂量 UFH。
+对神经手术患者，因为需要考虑到颅内出血的问题，物理措施（IPC、弹力袜）常被使用。然而，LMWH似乎是一个可接受的替代。有限的资料支持在脊柱损伤或多处创伤病人中联用IPC、弹力袜和LMWH。
+对伴有严重内科疾病需要卧床休息的病人（如心肌梗死、缺血性卒中、心力衰竭）也推荐行预防性治疗。对未 接受静脉肝素或溶栓治疗的病人使用低剂量UFH或LMWH是有效的；当抗凝存在禁忌时，可应用IPC、弹 力袜或两者联用。对于特定的高危癌症患者（例如晚期胰腺癌患者）正在接受化疗者，可考虑使用低分子量肝素或某些直接口服抗凝剂（阿哌沙班或利伐沙班）进行一级预防（6,7,8,9）。
+
+【预防血栓形成后综合征】
+对出现血栓后综合征症状（如下肢水肿、疼痛、酸痛）的症状性深静脉血栓患者，推荐使用可提供30～40 mmHg压力的及膝加压袜；若患者无法耐受，可考虑使用较低压力（20～30 mmHg）的加压袜。然而，随机试验荟萃分析的数据对所有深静脉血栓（DVT）患者常规使用加压袜的做法提出了质疑，其中与安慰剂（无加压袜或假加压袜）相比，使用加压袜并未显著降低血栓后综合征的发生（10）。
+
+【治疗参考文献】
+1.Ludwick L, Shohat N, Van Nest D, Paladino J, Ledesma J, Parvizi J:AspirinMay Be a Suitable Prophylaxis for Patients with a History of Venous Thromboembolism Undergoing Total Joint Arthroplasty.J Bone Joint Surg Am104(16):1438–1446, 2022.doi:10.2106/JBJS.21.00601
+1.Ludwick L, Shohat N, Van Nest D, Paladino J, Ledesma J, Parvizi J:AspirinMay Be a Suitable Prophylaxis for Patients with a History of Venous Thromboembolism Undergoing Total Joint Arthroplasty.J Bone Joint Surg Am104(16):1438–1446, 2022.doi:10.2106/JBJS.21.00601
+2.McGarry LJ, Stokes ME, Thompson D: Outcomes of thromboprophylaxis withenoxaparinvs. unfractionatedheparinin medical inpatients.Thromb J4:17, 2006.doi:10.1186/1477-9560-4-17
+2.McGarry LJ, Stokes ME, Thompson D: Outcomes of thromboprophylaxis withenoxaparinvs. unfractionatedheparinin medical inpatients.Thromb J4:17, 2006.doi:10.1186/1477-9560-4-17
+3.Laporte S, Liotier J, Bertoletti L, et al: Individual patient data meta-analysis ofenoxaparinvs. unfractionatedheparinfor venous thromboembolism prevention in medical patients.J Thromb Haemost9(3):464–472, 2011.doi:10.1111/j.1538-7836.2011.04182.x
+3.Laporte S, Liotier J, Bertoletti L, et al: Individual patient data meta-analysis ofenoxaparinvs. unfractionatedheparinfor venous thromboembolism prevention in medical patients.J Thromb Haemost9(3):464–472, 2011.doi:10.1111/j.1538-7836.2011.04182.x
+4.Neumann I, Rada G, Claro JC, et al: Oral directFactor Xainhibitors versus low-molecular-weightheparinto prevent venous thromboembolism in patients undergoing total hip or knee replacement: a systematic review and meta-analysis.Ann Intern Med156(10):710–719, 2012.doi:10.7326/0003-4819-156-10-201205150-00421
+4.Neumann I, Rada G, Claro JC, et al: Oral directFactor Xainhibitors versus low-molecular-weightheparinto prevent venous thromboembolism in patients undergoing total hip or knee replacement: a systematic review and meta-analysis.Ann Intern Med156(10):710–719, 2012.doi:10.7326/0003-4819-156-10-201205150-00421
+5.Dong K, Song Y, Li X, et al: Pentasaccharides for the prevention of venous thromboembolism.Cochrane Database Syst Rev10(10):CD005134, 2016.doi:10.1002/14651858.CD005134.pub3
+5.Dong K, Song Y, Li X, et al: Pentasaccharides for the prevention of venous thromboembolism.Cochrane Database Syst Rev10(10):CD005134, 2016.doi:10.1002/14651858.CD005134.pub3
+6.Carrier M, Abou-Nassar K, Mallick R, et al:Apixabanto prevent venous thromboembolism in patients with cancer.N Engl J Med380:711–719, 2019.doi: 10.1056/NEJMoa1814468
+6.Carrier M, Abou-Nassar K, Mallick R, et al:Apixabanto prevent venous thromboembolism in patients with cancer.N Engl J Med380:711–719, 2019.doi: 10.1056/NEJMoa1814468
+7.Farge D, Frere C, Connors JM, et al: 2019 international clinical practice guidelines for the treatment and prophylaxis of venous thromboembolism in patients with cancer.Lancet Oncol20 (10): e566–e581, 2019.doi: 10.1016/S1470-2045(19)30336-5
+7.Farge D, Frere C, Connors JM, et al: 2019 international clinical practice guidelines for the treatment and prophylaxis of venous thromboembolism in patients with cancer.Lancet Oncol20 (10): e566–e581, 2019.doi: 10.1016/S1470-2045(19)30336-5
+8.Key NS, Khorana AA, Kuderer NM, et al: Venous thromboembolism prophylaxis and treatment in patients with cancer: ASCO Clinical Practice Guideline Update.J Clin Oncol38:496–520, 2020.doi: 10.1200/JCO.19.01461
+8.Key NS, Khorana AA, Kuderer NM, et al: Venous thromboembolism prophylaxis and treatment in patients with cancer: ASCO Clinical Practice Guideline Update.J Clin Oncol38:496–520, 2020.doi: 10.1200/JCO.19.01461
+9.Khorana AA, Soff GA, Kakkar AK, et al:Rivaroxabanfor thromboprophylaxis in high-risk ambulatory patients with cancer.N Engl J Med380:720–728, 2019.doi: 10.1056/NEJMoa1814630
+9.Khorana AA, Soff GA, Kakkar AK, et al:Rivaroxabanfor thromboprophylaxis in high-risk ambulatory patients with cancer.N Engl J Med380:720–728, 2019.doi: 10.1056/NEJMoa1814630
+10.Subbiah R, Aggarwal V, Zhao H, Kolluri R, Chatterjee S, Bashir R: Effect of compression stockings on post thrombotic syndrome in patients with deep vein thrombosis: a meta-analysis of randomised controlled trials.Lancet Haematol3(6):e293–e300, 2016.doi:10.1016/S2352-3026(16)30017-5
+10.Subbiah R, Aggarwal V, Zhao H, Kolluri R, Chatterjee S, Bashir R: Effect of compression stockings on post thrombotic syndrome in patients with deep vein thrombosis: a meta-analysis of randomised controlled trials.Lancet Haematol3(6):e293–e300, 2016.doi:10.1016/S2352-3026(16)30017-5
+患有重大疾病卧床不起和/或接受某些外科手术的患者需要进行预防深静脉血栓形成的治疗。
+患有重大疾病卧床不起和/或接受某些外科手术的患者需要进行预防深静脉血栓形成的治疗。
+早期活动、抬高下肢及抗凝药治疗是常用的预防措施；无法接受抗凝的患者可从使用间歇加压充气装置、弹力袜或两者中获益
+早期活动、抬高下肢及抗凝药治疗是常用的预防措施；无法接受抗凝的患者可从使用间歇加压充气装置、弹力袜或两者中获益
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+Farge D, Frere C, Connors JM, et al: 2019 international clinical practice guidelines for the treatment and prophylaxis of venous thromboembolism in patients with cancer.Lancet Oncol20 (10): e566–e581, 2019.doi: 10.1016/S1470-2045(19)30336-5
+Farge D, Frere C, Connors JM, et al: 2019 international clinical practice guidelines for the treatment and prophylaxis of venous thromboembolism in patients with cancer.Lancet Oncol20 (10): e566–e581, 2019.doi: 10.1016/S1470-2045(19)30336-5

@@ -1,0 +1,50 @@
+标题：眼部带状疱疹
+来源：https://www.msdmanuals.cn/professional/eye-disorders/corneal-disorders/herpes-zoster-ophthalmicus
+============================================================
+
+初次感染后，在感觉神经节中建立潜伏期。 VZV 特异性 T 细胞介导的免疫将 VZV 维持在潜伏状态。当免疫力因年龄、疾病或免疫抑制而下降时，会导致病毒重新激活。额头带状疱疹累及鼻睫神经（鼻尖病变提示）的患者，发生眼部病变的风险比未发生鼻尖病变的患者高 3 倍（1）。总体上，约有一半的患者会累及眼球 (2)。水痘带状疱疹病毒具有高度传染性，可通过直接接触溃疡性皮肤病变或空气中的气溶胶传播。
+
+【参考文献】
+1.Zaal MJ, Völker-Dieben HJ, D'Amaro J: Prognostic value of Hutchinson's sign in acute herpes zoster ophthalmicus.Graefes Arch Clin Exp Ophthalmol241(3):187-191, 2003.doi: 10.1007/s00417-002-0609-1
+1.Zaal MJ, Völker-Dieben HJ, D'Amaro J: Prognostic value of Hutchinson's sign in acute herpes zoster ophthalmicus.Graefes Arch Clin Exp Ophthalmol241(3):187-191, 2003.doi: 10.1007/s00417-002-0609-1
+2.Liesegang TJ: Herpes zoster ophthalmicus natural history, risk factors, clinical presentation, and morbidity.Ophthalmology115(2 Suppl):S3-12, 2008.doi: 10.1016/j.ophtha.2007.10.009
+2.Liesegang TJ: Herpes zoster ophthalmicus natural history, risk factors, clinical presentation, and morbidity.Ophthalmology115(2 Suppl):S3-12, 2008.doi: 10.1016/j.ophtha.2007.10.009
+
+【眼部带状疱疹的症状和体征】
+前驱期可能会有前额部的麻刺感。急性期除了疼痛性前额部红斑外，还可表现为严重的眼痛、显著的眼睑水肿；结膜、表层巩膜和角膜周围的结膜充血；角膜水肿和畏光。
+带状疱疹皮疹通常出现在所涉及的神经路径上。在这张图片中，部分三叉神经分支的路径使皮疹在囊泡（肿块）出现的位置和不出现的位置之间形成了清晰的边界。鼻尖出现水泡表明严重眼部病变的风险增加。
+© Springer Science+Business Media
+角膜炎和/或葡萄膜炎病情严重，并且愈合后留有瘢痕。晚期常见并发症有青光眼、白内障、慢性或者复发性葡萄膜炎、角膜瘢痕、角膜新生血管和知觉减退，这些并发症会损害视力。带状疱疹后神经痛可能会在以后出现。患者可能会出现巩膜炎（不会增加视力丧失的风险）和/或视网膜炎（有严重视力丧失的风险）。
+
+【眼部带状疱疹的诊断】
+前额部或者眼睑的带状红斑以及眼部表现
+前额部或者眼睑的带状红斑以及眼部表现
+诊断基于前额，眼睑和鼻尖上典型的急性带状疱疹皮疹，或基于特征性疼痛加上先前带状疱疹皮疹（例如萎缩性色素减退性瘢痕）的迹象。两种皮肤发现都是单侧的（即不越过中线）。这种分布中尚未明显累及眼睛的水疱或大疱性病变仍应进行眼科咨询，以确定是否累及眼睛。当病变不典型或者诊断不明确时，才需在初期进行皮肤的培养和免疫学检测或PCR(polymerase chain reaction)分析，或者连续血清学检测。
+
+【眼部带状疱疹的治疗】
+口服抗病毒药物（如阿昔洛韦、泛昔洛韦、伐昔洛韦）
+口服抗病毒药物（如阿昔洛韦、泛昔洛韦、伐昔洛韦）
+有时需要局部皮质类固醇
+有时需要局部皮质类固醇
+早期使用阿昔洛韦、泛昔洛韦或伐昔洛韦治疗可减少眼部并发症。患有葡萄膜炎或角膜炎的患者需要局部使用皮质类固醇（例如醋酸泼尼松龙）。应予1%阿托品滴眼液或者0.25%东莨菪碱滴眼液1di，每日3次扩瞳治疗。应该监测眼压，眼压高于正常时应该治疗。
+全身健康状况良好、>60岁的患者是否应该短期口服大剂量皮质类固醇素以预防疱疹后遗神经痛还存在争议。
+治疗神经性疼痛的药物（例如加巴喷丁或三环类抗抑郁药）可以帮助缓解带状疱疹后神经痛的症状。
+
+【眼部带状疱疹的预防】
+对于年龄≥50岁具有免疫能力的成人，无论是否感染过带状疱疹或者接受过减活疫苗接种，推荐接种重组带状疱疹病毒疫苗。这种重组疫苗可将 50 至 69 岁的成年人感染带状疱疹的几率降低约 97%（1）成人为 90%≥70年（2）。
+
+【预防参考文献】
+1.Lal H, Cunningham AL, Godeaux O, et al: Efficacy of an adjuvanted herpes zoster subunit vaccine in older adults.N Engl J Med372(22):2087-2096, 2015.doi: 10.1056/NEJMoa1501184
+1.Lal H, Cunningham AL, Godeaux O, et al: Efficacy of an adjuvanted herpes zoster subunit vaccine in older adults.N Engl J Med372(22):2087-2096, 2015.doi: 10.1056/NEJMoa1501184
+2.Cunningham AL, Lal H, Kovac M, et al: Efficacy of the herpes zoster subunit vaccine in adults 70 years of age or older.N Engl J Med375(11):1019-1032,2016.doi: 10.1056/NEJMoa1603800
+2.Cunningham AL, Lal H, Kovac M, et al: Efficacy of the herpes zoster subunit vaccine in adults 70 years of age or older.N Engl J Med375(11):1019-1032,2016.doi: 10.1056/NEJMoa1603800
+大约半数的三叉神经第一分支水痘-带状疱疹病毒感染激活会累及眼睛。
+大约半数的三叉神经第一分支水痘-带状疱疹病毒感染激活会累及眼睛。
+角膜炎和/或结膜炎可能严重和导致发病。
+角膜炎和/或结膜炎可能严重和导致发病。
+典型的带状疱疹性红斑通常可以作出诊断。
+典型的带状疱疹性红斑通常可以作出诊断。
+治疗用口服抗病毒药物，通常局部应用皮质类固醇药物及扩瞳。
+治疗用口服抗病毒药物，通常局部应用皮质类固醇药物及扩瞳。
+给所有≥50岁的具免疫力的成年人接种重组带状疱疹疫苗。
+给所有≥50岁的具免疫力的成年人接种重组带状疱疹疫苗。

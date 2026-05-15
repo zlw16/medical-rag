@@ -1,0 +1,251 @@
+标题：唐氏综合征（21-三体）
+来源：https://www.msdmanuals.cn/professional/pediatrics/chromosome-and-gene-abnormalities/down-syndrome-trisomy-21
+============================================================
+
+（参见染色体异常概述。)
+唐氏综合症是最常见的染色体异常。它是由一条额外的21号染色体（21三体）引起的，其特征是智力残疾和可变表型，通常包括张力低下、独特的颅面特征和一系列先天性异常（1）。智力障碍的程度通常为轻度或中度，但极少数情况下可能很严重。受影响的人患多种医学合并症的风险增加。
+美国的总体发病率约为每700名活产婴儿中有1例（2），且风险随着母亲年龄的增加而逐渐升高。基于一项大规模研究，母亲年龄为20岁时，预测发生几率为1/1476；35岁时为1/352；40岁时为1/85（3）。然而，由于大多数分娩发生在年轻女性中，绝大多数唐氏综合征儿童的母亲年龄＜35岁，仅20%的唐氏综合征婴儿由年龄＞35岁的母亲所生。
+
+【参考文献】
+1.Bull MJ.Down Syndrome.N Engl J Med.2020;382(24):2344-2352.doi:10.1056/NEJMra1706537
+1.Bull MJ.Down Syndrome.N Engl J Med.2020;382(24):2344-2352.doi:10.1056/NEJMra1706537
+2.Mai CT, Isenburg JL, Canfield MA, et al.National population-based estimates for major birth defects, 2010-2014.Birth Defects Res.2019;111(18):1420-1435.doi:10.1002/bdr2.1589
+2.Mai CT, Isenburg JL, Canfield MA, et al.National population-based estimates for major birth defects, 2010-2014.Birth Defects Res.2019;111(18):1420-1435.doi:10.1002/bdr2.1589
+3.Morris JK, Mutton DE, Alberman E.Revised estimates of the maternal age specific live birth prevalence of Down's syndrome.J Med Screen.2002;9(1):2-6.doi:10.1136/jms.9.1.2
+3.Morris JK, Mutton DE, Alberman E.Revised estimates of the maternal age specific live birth prevalence of Down's syndrome.J Med Screen.2002;9(1):2-6.doi:10.1136/jms.9.1.2
+
+【唐氏综合症的病因】
+在大约 95% 的病例中，唐氏综合症是由不分离导致额外的 21 号染色体（21 三体）引起的，该染色体通常是母体衍生的（1）。不分离是指在配子减数分裂过程中同源染色体或姐妹染色单体不能正确分离。受影响者具有 47 条染色体，而非正常的 46 条。
+唐氏综合征的特征是21三体，即多出一条21号染色体（见箭头）。
+约 4% 的唐氏综合征病例由遗传性易位引起（2）。在平衡易位中，遗传物质与来自另一条非同源染色体的物质交换，染色体计数维持在 46。在不平衡的易位中，遗传物质的增加或减少，造成遗传不平衡和随后的临床异常。
+最常见的易位是 t(14;21)，其中 21 号染色体附着在 14 号染色体上；这是一种不平衡易位，导致染色体计数为 45。约半数t(14;21)易位患者的父母均为正常核型，表明该易位为新发突变。在另一半中，父母一方(几乎总是母亲)虽未患唐氏综合症，但其染色体核型只有45条，其中一条是t(14;21)。理论上，携带者母亲生下唐氏综合症孩子的几率是1:3，但实际几率较低（约为1:10）。若由父亲携带致病基因，传递的几率仅为 1:20。
+下一个最常见的易位为t（21; 22）。在这些情况下，携带染色体易位的母亲约有 1:10 的几率生下患唐氏综合征的孩子；而携带染色体易位的父亲风险更低。
+21q;21q易位，即额外的21号染色体附着在另一条21号染色体上时发生的情况，是非常罕见的。确定亲本是否是 21q;21q 易位的携带者或嵌合体，这对于了解他们孩子的风险很重要。携带基因的父母（即有平衡易位的父母）有100%的几率生出唐氏综合症的孩子，因为所有能存活的后代要么患有唐氏综合症，要么患有单体21。21 单体综合征通常与生命不相容。
+唐氏综合征嵌合体据推测是在胚胎期细胞分裂时染色体未分离所致 。唐氏综合征嵌合体患者拥有两种细胞系：一种为正常的46条染色体，另一种为47条染色体（包括一条额外的21号染色体），或根据易位情况呈现不同数量的染色体。尽管他们生育唐氏综合征患儿的风险显著增加，但父母也可能生育染色体正常的孩子。嵌合型唐氏综合征患者的智力预后与医疗并发症风险，通常取决于包括大脑在内的各组织中异常细胞（如21三体细胞）的比例。然而，在实践中，风险是无法预测的，这是因为无法确定身体内每一个细胞的核型。一些患有唐氏综合征嵌合体的患者临床症状非常轻微，可能智力正常；然而，即使是未患嵌合体的唐氏综合征患者，其临床表现也可能存在差异。对于非嵌合体的受影响者也是如此。
+
+【病因参考文献】
+1.Antonarakis SE: Parental origin of the extra chromosome in trisomy 21 as indicated by analysis of DNA polymorphisms.Down Syndrome Collaborative Group.N Engl J Med324(13):872-876, 1991.doi: 10.1056/NEJM199103283241302
+1.Antonarakis SE: Parental origin of the extra chromosome in trisomy 21 as indicated by analysis of DNA polymorphisms.Down Syndrome Collaborative Group.N Engl J Med324(13):872-876, 1991.doi: 10.1056/NEJM199103283241302
+2.Mutton D, Alberman E, Hook EB: Cytogenetic and epidemiological findings in Down syndrome, England and Wales 1989 to 1993.National Down Syndrome Cytogenetic Register and the Association of Clinical Cytogeneticists.J Med Genet33(5):387-394, 1996.doi: 10.1136/jmg.33.5.387
+2.Mutton D, Alberman E, Hook EB: Cytogenetic and epidemiological findings in Down syndrome, England and Wales 1989 to 1993.National Down Syndrome Cytogenetic Register and the Association of Clinical Cytogeneticists.J Med Genet33(5):387-394, 1996.doi: 10.1136/jmg.33.5.387
+
+【唐氏综合征的病理生理学】
+与大多数由染色体失衡引起的疾病一样，唐氏综合症会影响多个系统并导致结构和功能缺陷（见表唐氏综合症的一些并发症）。并不是所有的缺陷都存在于每个人。
+
+【唐氏综合征的一些并发症*】
+唐氏综合征的一些并发症*
+先天性心脏病，最常见的室间隔缺损和房室间隔缺损
+二尖瓣脱垂和主动脉瓣关闭不全（成人更为常见）风险增加
+中枢神经系统
+认知功能障碍（轻度到重度）
+运动和语言发育迟缓
+与自闭症谱系障碍相关的行为
+早发性阿尔茨海默病
+十二指肠闭锁或者十二指肠狭窄
+先天性巨结肠
+内分泌系统
+甲状腺功能减退症
+眼睛、耳朵、鼻子和喉咙
+眼科疾病（如先天性白内障、青光眼、斜视、屈光不正）
+听力损失
+中耳炎的发生率增加
+气管异常（例如，气管软化症、气管和声门下狭窄）
+进食困难
+慢性鼻炎
+身材矮小
+血液系统
+血小板减少症
+新生儿红细胞增多症
+暂发性骨髓增生异常
+急性巨核细胞白血病
+急性淋巴细胞性白血病
+肌肉骨骼
+寰枢椎和寰枕不稳
+关节松弛
+呼吸系统
+阻塞性睡眠呼吸暂停
+*并非所有并发症都会出现在某个特定患者身上，但与健康人群相比，发病率有所增加。
+*并非所有并发症都会出现在某个特定患者身上，但与健康人群相比，发病率有所增加。
+大多数受累患者都有一定程度的认知功能障碍，从严重（IQ 20～35）到轻度（IQ 50～75）不等。在生命早期，粗大运动和语言发育迟缓也很明显。身高通常降低，并且肥胖的风险增加。
+约50%的受影响新生儿患有先天性心脏病；室间隔缺损和房室间隔缺损（也称为心内膜垫缺损或房室通道缺损）最为常见（1、2）。
+大约有6％的受累患者有胃肠道异常，特别是十二指肠闭锁，有时伴有环状胰腺。先天性巨结肠病和乳糜泻也更为常见（3）。
+很多人发生了内分泌疾病，包括甲状腺疾病（最常见的甲状腺功能减退症）和糖尿病。
+寰枕关节和寰枢椎关节活动度异常增大，加之颈椎骨结构异常，可导致寰枕及颈椎不稳，进而引起肢体无力和瘫痪。
+约60%的人存在眼部问题，包括先天性白内障、青光眼、斜视和屈光不正（4）；但该患病率可能因人群差异而有所不同（5）。
+大多数人有听力损失，耳部感染也很常见。
+
+【病理生理学参考文献】
+1.Irving CA, Chaudhari MP.Cardiovascular abnormalities in Down's syndrome: Spectrum, management and survival over 22 years.Arch Dis Child.2012;97(4):326-330.doi:10.1136/adc.2010.210534
+1.Irving CA, Chaudhari MP.Cardiovascular abnormalities in Down's syndrome: Spectrum, management and survival over 22 years.Arch Dis Child.2012;97(4):326-330.doi:10.1136/adc.2010.210534
+2.de Groot-van der Mooren MD, Scheerman BC, Rammeloo LAJ, et al.Neonatal mortality and morbidity in Down syndrome in the time of prenatal aneuploidy testing: A retrospective cohort study.Eur J Pediatr.2023;182(1):319-328.doi:10.1007/s00431-022-04686-3
+2.de Groot-van der Mooren MD, Scheerman BC, Rammeloo LAJ, et al.Neonatal mortality and morbidity in Down syndrome in the time of prenatal aneuploidy testing: A retrospective cohort study.Eur J Pediatr.2023;182(1):319-328.doi:10.1007/s00431-022-04686-3
+3.Stoll C, Dott B, Alembik Y, Roth MP.Associated congenital anomalies among cases with Down syndrome.Eur J Med Genet.2015;58(12):674-680.doi:10.1016/j.ejmg.2015.11.003
+3.Stoll C, Dott B, Alembik Y, Roth MP.Associated congenital anomalies among cases with Down syndrome.Eur J Med Genet.2015;58(12):674-680.doi:10.1016/j.ejmg.2015.11.003
+4.Afifi HH, Abdel Azeem AA, El-Bassyouni HT, Gheith ME, Rizk A, Bateman JB.Distinct ocular expression in infants and children with Down syndrome in Cairo, Egypt: myopia and heart disease.JAMA Ophthalmol.2013;131(8):1057-1066.doi:10.1001/jamaophthalmol.2013.644
+4.Afifi HH, Abdel Azeem AA, El-Bassyouni HT, Gheith ME, Rizk A, Bateman JB.Distinct ocular expression in infants and children with Down syndrome in Cairo, Egypt: myopia and heart disease.JAMA Ophthalmol.2013;131(8):1057-1066.doi:10.1001/jamaophthalmol.2013.644
+5.Bermudez BEBV, de Souza do Amaral ME, da Silva Gomes C, Novadzki IM, de Oliveira CM, Serpe CC.Ophthalmological abnormalities in Down syndrome among Brazilian patients.Am J Med Genet A.2020;182(11):2641-2645.doi:10.1002/ajmg.a.61845
+5.Bermudez BEBV, de Souza do Amaral ME, da Silva Gomes C, Novadzki IM, de Oliveira CM, Serpe CC.Ophthalmological abnormalities in Down syndrome among Brazilian patients.Am J Med Genet A.2020;182(11):2641-2645.doi:10.1002/ajmg.a.61845
+
+【唐氏综合征的症状和体征】
+
+【一般状况】
+唐氏综合征的新生儿较安静，很少哭，肌肉松弛。多数患者有平坦的面部轮廓（特别是扁平的鼻梁），但某些患者在出生时并不具有明显的异常特性，然后在婴儿期逐渐出现更为明显的面部特征。较为常见的特征是扁平的枕部，小头畸形，围绕颈部后的额外皮肤。
+唐氏综合症患者的典型身体特征包括 (1)：
+外眦向上倾斜，通常有内眦赘皮，并可见Brushfield斑（虹膜周边类似盐粒的灰白色斑点）。
+外眦向上倾斜，通常有内眦赘皮，并可见Brushfield斑（虹膜周边类似盐粒的灰白色斑点）。
+常呈现张口状态，且可能伴有舌体突出、表面沟裂及中央裂隙缺失的特征。
+常呈现张口状态，且可能伴有舌体突出、表面沟裂及中央裂隙缺失的特征。
+耳朵往往小而圆。
+耳朵往往小而圆。
+双手通常短而宽，常有单一掌横纹，手指通常较短且第5指有弯曲（内弯），该指节通常只有2节指骨。
+双手通常短而宽，常有单一掌横纹，手指通常较短且第5指有弯曲（内弯），该指节通常只有2节指骨。
+第1和第2脚趾之间的间距可能较大(凉鞋间隙脚趾)，足底沟经常向后延伸。
+第1和第2脚趾之间的间距可能较大(凉鞋间隙脚趾)，足底沟经常向后延伸。
+这张照片显示了一个患有唐氏综合症的孩子，他的鼻梁扁平，眼睛上斜，眼睛内角有上眦褶皱。
+这张照片显示了一个患有唐氏综合症的孩子，他的鼻梁扁平，眼睛上斜，眼睛内角有上眦褶皱。
+© Springer Science+Business Media
+这张照片显示了一个患有唐氏综合症的婴儿的颈部皮肤皱褶。
+这张照片显示了一个患有唐氏综合症的婴儿的颈部皮肤皱褶。
+© Springer Science+Business Media
+此照片显示唐氏综合征患者虹膜上的白色斑点（箭头所示）。
+此照片显示唐氏综合征患者虹膜上的白色斑点（箭头所示）。
+© Springer Science+Business Media
+RALPH C.EAGLE, JR./SCIENCE PHOTO LIBRARY
+这张照片显示了一个患唐氏综合征的年轻人，他有许多典型的身体特征例如身材矮小，前额秃顶，头发稀疏，内眦赘皮，脖子粗大和躯干轻度肥胖。
+这张照片显示了一个患唐氏综合征的年轻人，他有许多典型的身体特征例如身材矮小，前额秃顶，头发稀疏，内眦赘皮，脖子粗大和躯干轻度肥胖。
+By permission of the publisher.From Bird T, Sumi S:Atlas of Clinical Neurology.Edited by RN Rosenberg.Philadelphia, Current Medicine, 2002.
+这张照片显示了一个患有唐氏综合症的孩子，他的鼻梁扁平，眼睛上斜，眼睛内角有上眦褶皱。
+这张照片显示了一个患有唐氏综合症的孩子，他的鼻梁扁平，眼睛上斜，眼睛内角有上眦褶皱。
+© Springer Science+Business Media
+这张照片显示了一个患有唐氏综合症的婴儿的颈部皮肤皱褶。
+这张照片显示了一个患有唐氏综合症的婴儿的颈部皮肤皱褶。
+© Springer Science+Business Media
+此照片显示唐氏综合征患者虹膜上的白色斑点（箭头所示）。
+此照片显示唐氏综合征患者虹膜上的白色斑点（箭头所示）。
+© Springer Science+Business Media
+RALPH C.EAGLE, JR./SCIENCE PHOTO LIBRARY
+这张照片显示了一个患唐氏综合征的年轻人，他有许多典型的身体特征例如身材矮小，前额秃顶，头发稀疏，内眦赘皮，脖子粗大和躯干轻度肥胖。
+这张照片显示了一个患唐氏综合征的年轻人，他有许多典型的身体特征例如身材矮小，前额秃顶，头发稀疏，内眦赘皮，脖子粗大和躯干轻度肥胖。
+By permission of the publisher.From Bird T, Sumi S:Atlas of Clinical Neurology.Edited by RN Rosenberg.Philadelphia, Current Medicine, 2002.
+
+【生长和发育】
+随着唐氏综合征患儿的成长，其身体和智力发育迟缓变得明显。身材往往很矮。平均智商约为 50，但差异很大。提示注意力缺陷/多动障碍的行为通常在童年时期就已存在，而自闭症谱系障碍相关行为的发生率也有所增加（尤其是在患有重度智力障碍的儿童中）。
+患有唐氏综合症的儿童和成人罹患抑郁症的风险增加。
+
+【心脏症状】
+心脏疾病的症状由心脏畸形的类型和程度决定。
+患有先天性心脏缺陷的婴儿，其中最常见的是室间隔缺损和房室间隔缺损，可能无症状或出现心力衰竭的迹象（例如，呼吸困难、呼吸频率加快、进食困难、出汗、体重增加不良）。
+并非所有病例都能听到心杂音；然而，可能出现多种不同类型的杂音。
+
+【消化系统表现】
+患有先天性巨结肠症的婴儿通常有胎粪排出延迟。病情严重的婴儿可能有肠梗阻的迹象（例如，胆汁性呕吐、不排便、腹胀）。
+十二指肠闭锁或狭窄可表现为胆汁性呕吐或无任何症状，具体取决于狭窄的程度。这些缺陷可以通过产前超声检查（双泡征）检测到。
+此放射影像显示了典型的“双泡征”，为完全性十二指肠梗阻的特征性表现。较小的气泡代表近端扩张的十二指肠（白色箭头）；较大的气泡代表胃（黑色箭头）。该征象可见于十二指肠闭锁、十二指肠膜性狭窄、环状胰腺以及十二指肠前位门静脉等情况。罕见情况下，肠旋转不良患者因Ladd索带（Ladd韧带）形成可导致完全性十二指肠梗阻。
+
+【症状和体征】
+1.Bull MJ, Trotter T, Santoro SL, et al: Health supervision for children and adolescents with Down syndrome.Pediatrics149(5):e2022057010, 2022.doi: 10.1542/peds.2022-057010
+1.Bull MJ, Trotter T, Santoro SL, et al: Health supervision for children and adolescents with Down syndrome.Pediatrics149(5):e2022057010, 2022.doi: 10.1542/peds.2022-057010
+
+【唐氏综合症的诊断】
+胎儿超声检查
+胎儿超声检查
+母体血清筛查
+母体血清筛查
+无创产前筛查(NIPS)
+无创产前筛查(NIPS)
+产前绒毛膜绒毛取样和/或羊膜穿刺术与核型分析
+产前绒毛膜绒毛取样和/或羊膜穿刺术与核型分析
+经皮脐带血取样（脐带穿刺术）及核型分析
+经皮脐带血取样（脐带穿刺术）及核型分析
+产后核型分析
+产后核型分析
+（参见下一代测序。）
+在资源丰富的环境中，向所有孕妇提供胎儿超声和母体血清检测以及NIPS，作为包括唐氏综合症在内的染色体异常的筛查试验。
+胎儿超声检查可以检测出包括颈部透明带增加、房室间隔缺损和十二指肠闭锁在内的异常，但并非所有患有 21 三体的胎儿都会出现这些异常。
+母体血清检测可能会在妊娠晚期第一孕期显示血浆蛋白A水平异常，在妊娠早期第二孕期（妊娠15至16周）显示甲胎蛋白、β-hCG（人绒毛膜促性腺激素）、非结合雌三醇和抑制素水平异常。
+NIPS（通过检测母体循环中游离胎儿DNA进行非整倍体筛查）因其良好的敏感性和特异性（1），现已成为高资源环境下唐氏综合征的首选筛查方案。
+如果根据母体血清筛查测试、超声检查或 NIPS 怀疑患有唐氏综合征，则建议进行胎儿或出生后的诊断性确诊测试。胎儿确诊方法包括首选检测方法为核型分析的绒毛膜绒毛取样和/或羊膜穿刺术，但也可通过FISH和染色体微阵列分析进行确认。
+经皮脐带血取样(PUBS)，也称为脐带穿刺术，是一种侵入性手术，用于直接从脐带获取胎儿血液，从而可以快速进行核型分析并确认 21 三体综合征。PUBS 通常用于其他诊断方法无法确定或需要快速结果的情况，但它具有较高的风险，通常在妊娠后期（18周后）进行。
+核型分析是一种排除相关易位的检测方法，由此家长可以收到有关复发的风险的适当遗传咨询。向所有 NIPS 结果异常、不确定或不清楚的患者提供产前确认性检测选项。管理决策不应仅基于NIPS结果。
+染色体微阵列分析能够在亚显微水平上检测到缺失和重复，并且在许多国家/地区已取代传统的核型分析（2）；但是，当怀疑非整倍性时，核型分析仍然是首选的测试。
+在资源丰富的环境中，无论孕妇年龄如何，所有在妊娠 20 周前接受产前护理的女性通常都可以进行唐氏综合症母体血清筛查和诊断检测。
+美国妇产科医师学会实践公告委员会建议，无论年龄或额外风险因素如何，所有孕妇都应接受无创产前DNA检测（3）。
+如果产前未明确诊断，那么新生儿的诊断基于身体异常，并通过细胞遗传学检测（优选核型分析）确诊。
+
+【伴随的疾病】
+对受影响的婴儿及儿童进行按年龄分层的常规筛查，有助于发现与唐氏综合征相关的疾病（4）。
+超声心动图：在产前检查或分娩时
+超声心动图：在产前检查或分娩时
+甲状腺筛查（促甲状腺激素[TSH]水平）：出生时、6个月、12个月及以后每年一次。
+甲状腺筛查（促甲状腺激素[TSH]水平）：出生时、6个月、12个月及以后每年一次。
+全血细胞计数 (CBC) 以及铁蛋白和 C 反应蛋白 (CRP) 的组合或血清铁和总铁结合力 (TIBC) 的组合：1 年时以及此后每年
+全血细胞计数 (CBC) 以及铁蛋白和 C 反应蛋白 (CRP) 的组合或血清铁和总铁结合力 (TIBC) 的组合：1 年时以及此后每年
+听力评估：出生时进行，此后每6个月一次，直至听力正常（约4岁），然后每年一次（如有需要可更频繁）。
+听力评估：出生时进行，此后每6个月一次，直至听力正常（约4岁），然后每年一次（如有需要可更频繁）。
+眼科评估：6个月时进行，然后每年一次直至5岁；之后每2年一次直至13岁，再每3年一次直至21岁（如有指征，可更频繁地评估）
+眼科评估：6个月时进行，然后每年一次直至5岁；之后每2年一次直至13岁，再每3年一次直至21岁（如有指征，可更频繁地评估）
+生长：身高，体重和头围，在健康管理就诊时，使用唐氏综合征的生长散点图绘制
+生长：身高，体重和头围，在健康管理就诊时，使用唐氏综合征的生长散点图绘制
+阻塞性睡眠呼吸暂停的睡眠研究：4岁前完成
+阻塞性睡眠呼吸暂停的睡眠研究：4岁前完成
+不建议常规筛查寰枢椎不稳定和乳糜泻;儿童是根据临床怀疑进行检测的。建议有颈部疼痛、放射性疼痛、无力或其他任何提示脊髓病的神经症状的患者进行颈椎中立位X光检查；如果未发现可疑异常，则应进行颈椎屈伸位X光检查。
+专家小组发布的成人唐氏综合症医疗保健指南包括筛查以下相关疾病的建议（建议开始筛查的年龄）（5）：
+糖尿病：从 30 岁开始每 2 至 3 年检测一次糖化血红蛋白或空腹血糖，对于合并肥胖症的患者则从 21 岁开始检测
+糖尿病：从 30 岁开始每 2 至 3 年检测一次糖化血红蛋白或空腹血糖，对于合并肥胖症的患者则从 21 岁开始检测
+甲状腺功能减退症：从21岁开始，每1至2年检测一次促甲状腺激素（TSH）水平。
+甲状腺功能减退症：从21岁开始，每1至2年检测一次促甲状腺激素（TSH）水平。
+阿尔茨海默型痴呆：从 40 岁开始每年进行一次评估
+阿尔茨海默型痴呆：从 40 岁开始每年进行一次评估
+
+【诊断参考】
+1.Kagan KO, Sonek J, Kozlowski P.Antenatal screening for chromosomal abnormalities.Arch Gynecol Obstet.2022;305(4):825-835.doi:10.1007/s00404-022-06477-5
+1.Kagan KO, Sonek J, Kozlowski P.Antenatal screening for chromosomal abnormalities.Arch Gynecol Obstet.2022;305(4):825-835.doi:10.1007/s00404-022-06477-5
+2.Bedei I, Wolter A, Weber A, Signore F, Axt-Fliedner R.Chances and Challenges of New Genetic Screening Technologies (NIPT) in Prenatal Medicine from a Clinical Perspective: A Narrative Review.Genes (Basel).2021;12(4):501.Published 2021 Mar 29.doi:10.3390/genes12040501
+2.Bedei I, Wolter A, Weber A, Signore F, Axt-Fliedner R.Chances and Challenges of New Genetic Screening Technologies (NIPT) in Prenatal Medicine from a Clinical Perspective: A Narrative Review.Genes (Basel).2021;12(4):501.Published 2021 Mar 29.doi:10.3390/genes12040501
+3.American College of Obstetricians and Gynecologists’ Committee on Practice Bulletins—Obstetrics; Committee on Genetics; Society for Maternal-Fetal Medicine. Screening for Fetal Chromosomal Abnormalities: ACOG Practice Bulletin, Number 226.Obstet Gynecol.2020;136(4):e48-e69.doi:10.1097/AOG.0000000000004084
+3.American College of Obstetricians and Gynecologists’ Committee on Practice Bulletins—Obstetrics; Committee on Genetics; Society for Maternal-Fetal Medicine. Screening for Fetal Chromosomal Abnormalities: ACOG Practice Bulletin, Number 226.Obstet Gynecol.2020;136(4):e48-e69.doi:10.1097/AOG.0000000000004084
+4.Bull MJ, Trotter T, Santoro SL, et al.Health supervision for children and adolescents with Down syndrome.Pediatrics.2022;149(5):e2022057010.doi:10.1542/peds.2022-057010
+4.Bull MJ, Trotter T, Santoro SL, et al.Health supervision for children and adolescents with Down syndrome.Pediatrics.2022;149(5):e2022057010.doi:10.1542/peds.2022-057010
+5.Tsou AY, Bulova P, Capone G, et al.Medical Care of Adults With Down Syndrome: A Clinical Guideline.JAMA.2020;324(15):1543-1556.doi:10.1001/jama.2020.17024
+5.Tsou AY, Bulova P, Capone G, et al.Medical Care of Adults With Down Syndrome: A Clinical Guideline.JAMA.2020;324(15):1543-1556.doi:10.1001/jama.2020.17024
+
+【唐氏综合症的治疗】
+针对具体表现的治疗
+针对具体表现的治疗
+筛查并发症和相关疾病
+筛查并发症和相关疾病
+遗传咨询
+遗传咨询
+潜在的遗传异常无法治愈。所有儿童的治疗策略均侧重于特定临床表现的处理以及对并发症或相关疾病的监测，且方案基本一致（参见伴随的医疗状况）。
+一些先天性心脏或胃肠道异常可以通过手术修复。其他疾病（例如甲状腺功能减退症、乳糜泻、白血病）根据情况进行治疗。
+唐氏综合症儿童及其家庭的护理还应包括家庭遗传咨询、社会支持和适合智力功能水平的教育计划（参见智力残疾）。
+
+【唐氏综合症的预后】
+衰老过程可能会加速（1）。近几十年来，根据对高资源环境人群的研究显示，患者中位预期寿命已延长至约60岁，且有记录表明部分患者可存活至80余岁（2）。导致预期寿命缩短的合并症包括心脏病、感染易感性增加和白血病。早发性阿尔茨海默病的风险增加，且尸检显示唐氏综合征成年患者的大脑呈现典型微观病理改变（例如脑淀粉样血管病）（3）。研究表明，患有唐氏综合症的黑人的寿命比白人短得多（4,5）。这一发现可能是健康的社会决定因素的结果，包括卫生保健机会、质量和利用率下降的影响。
+受影响女性生育唐氏综合征胎儿的风险约为 50%；但其自然流产的风险似乎也有所升高。患有唐氏综合征的男性通常因精子发生受损而不育，嵌合体患者除外。
+
+【预后参考】
+1.Horvath S, Garagnani P, Bacalini MG, et al.Accelerated epigenetic aging in Down syndrome.Aging Cell.2015;14(3):491-495.doi:10.1111/acel.12325
+1.Horvath S, Garagnani P, Bacalini MG, et al.Accelerated epigenetic aging in Down syndrome.Aging Cell.2015;14(3):491-495.doi:10.1111/acel.12325
+2.Englund A, Jonsson B, Zander CS, et al.Changes in mortality and causes of death in the Swedish Down syndrome population.Am J Med Genet A.2013;161A(4):642-649.doi:10.1002/ajmg.a.35706
+2.Englund A, Jonsson B, Zander CS, et al.Changes in mortality and causes of death in the Swedish Down syndrome population.Am J Med Genet A.2013;161A(4):642-649.doi:10.1002/ajmg.a.35706
+3.Davidson YS, Robinson A, Prasher VP, Mann DMA.The age of onset and evolution of Braak tangle stage and Thal amyloid pathology of Alzheimer's disease in individuals with Down syndrome.Acta Neuropathol Commun.2018;6(1):56.doi:10.1186/s40478-018-0559-4
+3.Davidson YS, Robinson A, Prasher VP, Mann DMA.The age of onset and evolution of Braak tangle stage and Thal amyloid pathology of Alzheimer's disease in individuals with Down syndrome.Acta Neuropathol Commun.2018;6(1):56.doi:10.1186/s40478-018-0559-4
+4.Kucik JE, Shin M, Siffel C, Marengo L, Correa A; Congenital Anomaly Multistate Prevalence and Survival Collaborative.Trends in survival among children with Down syndrome in 10 regions of the United States.Pediatrics.2013;131(1):e27-e36.doi:10.1542/peds.2012-1616
+4.Kucik JE, Shin M, Siffel C, Marengo L, Correa A; Congenital Anomaly Multistate Prevalence and Survival Collaborative.Trends in survival among children with Down syndrome in 10 regions of the United States.Pediatrics.2013;131(1):e27-e36.doi:10.1542/peds.2012-1616
+5.Santoro SL, Esbensen AJ, Hopkin RJ, et al.Contributions to Racial Disparity in Mortality among Children with Down Syndrome.J Pediatr.2016;174:240-246.e1.doi:10.1016/j.jpeds.2016.03.023
+5.Santoro SL, Esbensen AJ, Hopkin RJ, et al.Contributions to Racial Disparity in Mortality among Children with Down Syndrome.J Pediatr.2016;174:240-246.e1.doi:10.1016/j.jpeds.2016.03.023
+唐氏综合征包括额外的21号染色体，可能是一条独立的染色体，或者是易位至另一个染色体。
+唐氏综合征包括额外的21号染色体，可能是一条独立的染色体，或者是易位至另一个染色体。
+嵌合现象是可能的，一些患者的细胞中有21号染色体受到影响，而另一些细胞的基因特征是正常的；这类患者可能有更细微的特征，但表现非常多变。
+嵌合现象是可能的，一些患者的细胞中有21号染色体受到影响，而另一些细胞的基因特征是正常的；这类患者可能有更细微的特征，但表现非常多变。
+产前诊断包括：胎儿超声检查异常（例如，颈项透明层增厚、心脏缺陷、十二指肠闭锁），或基于母体血液的游离胎儿DNA分析，以及孕早期末妊娠相关血浆蛋白A水平联合孕早期中段甲胎蛋白、β-人绒毛膜促性腺激素（β-hCG）、非结合雌三醇和抑制素水平的多标志物筛查。
+产前诊断包括：胎儿超声检查异常（例如，颈项透明层增厚、心脏缺陷、十二指肠闭锁），或基于母体血液的游离胎儿DNA分析，以及孕早期末妊娠相关血浆蛋白A水平联合孕早期中段甲胎蛋白、β-人绒毛膜促性腺激素（β-hCG）、非结合雌三醇和抑制素水平的多标志物筛查。
+核型分析是首选的确诊检测，可在产前通过绒毛膜取样（孕早期）或羊膜穿刺（孕中期）进行；产后则可通过脐带穿刺或新生儿血样完成。
+核型分析是首选的确诊检测，可在产前通过绒毛膜取样（孕早期）或羊膜穿刺（孕中期）进行；产后则可通过脐带穿刺或新生儿血样完成。
+进行常规年龄特异性筛查以检测相关的医疗状况（例如心脏异常、甲状腺功能减退症）。
+进行常规年龄特异性筛查以检测相关的医疗状况（例如心脏异常、甲状腺功能减退症）。
+对症治疗，并提供社会和教育的支持及遗传咨询。
+对症治疗，并提供社会和教育的支持及遗传咨询。
+预期寿命减少主要是因为心脏病，在较小程度上是由于对感染、急性髓细胞白血病和早发性阿尔茨海默病的易感性增加；然而，近几十年来预期寿命显著延长，一些患者可活到80多岁。
+预期寿命减少主要是因为心脏病，在较小程度上是由于对感染、急性髓细胞白血病和早发性阿尔茨海默病的易感性增加；然而，近几十年来预期寿命显著延长，一些患者可活到80多岁。

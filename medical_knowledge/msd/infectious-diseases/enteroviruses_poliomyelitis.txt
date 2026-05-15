@@ -1,0 +1,113 @@
+标题：脊髓灰质炎
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/enteroviruses/poliomyelitis
+============================================================
+
+脊髓灰质炎病毒有3种血清型。Ⅰ型是导致瘫痪的主要类型，也是造成流行的主要类型。
+人类是该病毒的唯一自然宿主。感染极易通过粪口途径传播，或不太常见的呼吸道途径传播。无症状和轻微感染比无菌性脑膜炎或麻痹性脊髓灰质炎（<1％）更常见，并且是主要传播源。(参见肠道病毒感染概述。)
+广泛接种疫苗已在世界范围内几乎消灭了由野生型脊髓灰质炎病毒引起的疾病。三种野生型脊髓灰质炎病毒中有两种（2 型和 3 型）已被消灭。根除 1 型脊髓灰质炎病毒的努力仍在进行中，因为该病毒仍在巴基斯坦和阿富汗流行，2023 年在马拉维和莫桑比克也出现了病例。相比之下，在包括美国、英国和以色列在内的其他 31 个国家/地区也报告了循环疫苗衍生脊髓灰质炎病毒（主要是萨宾口服脊灰减毒活疫苗2型）病例。(另请参阅脊髓灰质炎根除行动.)
+在美国，2022 年 7 月在纽约州一名未接种疫苗的人中发现了一例疫苗衍生麻痹性脊髓灰质炎病例（1)。废水监测在纽约多个县的样本中检测到了该病毒，表明存在本地传播，但此次疫情爆发后没有发现其他病例（2；另请参阅纽约州卫生部：废水监测）。美国最后一例野生型脊髓灰质炎病毒感染病例是在1979年。
+
+【参考文献】
+1.Link-Gelles R, Lutterloh E, Schnabel Ruppert P, et al: Public Health Response to a Case of Paralytic Poliomyelitis in an Unvaccinated Person and Detection of Poliovirus in Wastewater - New York, June-August 2022.MMWR Morb Mortal Wkly Rep71(33):1065-1068, 2022.Published 2022 Aug 19.doi:10.15585/mmwr.mm7133e2
+1.Link-Gelles R, Lutterloh E, Schnabel Ruppert P, et al: Public Health Response to a Case of Paralytic Poliomyelitis in an Unvaccinated Person and Detection of Poliovirus in Wastewater - New York, June-August 2022.MMWR Morb Mortal Wkly Rep71(33):1065-1068, 2022.Published 2022 Aug 19.doi:10.15585/mmwr.mm7133e2
+2.Ryerson AB, Lang D, Alazawi MA, et al: Wastewater Testing and Detection of Poliovirus Type 2 Genetically Linked to Virus Isolated from a Paralytic Polio Case - New York, March 9-October 11, 2022.MMWR Morb Mortal Wkly Rep.71(44):1418-1424, 2022.Published 2022 Nov 4.doi:10.15585/mmwr.mm7144e2
+2.Ryerson AB, Lang D, Alazawi MA, et al: Wastewater Testing and Detection of Poliovirus Type 2 Genetically Linked to Virus Isolated from a Paralytic Polio Case - New York, March 9-October 11, 2022.MMWR Morb Mortal Wkly Rep.71(44):1418-1424, 2022.Published 2022 Nov 4.doi:10.15585/mmwr.mm7144e2
+
+【脊髓灰质炎的病理生理】
+脊髓灰质炎病毒随粪便和唾液排出，通过粪口或呼吸道传播。然后它在口咽和下消化道粘膜中复制并进入颈部和肠系膜淋巴结。随后发生原发性（轻微）病毒血症，病毒扩散到网状内皮系统。感染可能在此时得到控制，或者病毒可能进一步繁殖并引起持续数日的继发性病毒血症，最终导致症状出现和抗体产生。
+在麻痹性感染中，脊髓灰质炎病毒会进入中枢神经系统，这一过程可能通过继发性病毒血症或通过周围神经的逆行迁移来实现。脊髓和脑干，尤其是控制运动和自主功能的区域，会遭受严重损伤。炎症加重了原发性病毒入侵造成的损伤。诱发严重的神经系统损害的因素包括：
+年龄增长
+年龄增长
+近期扁桃体切除术或肌内注射
+近期扁桃体切除术或肌内注射
+体液免疫缺陷
+体液免疫缺陷
+在中枢神经系统期发病时同时进行的体力活动
+在中枢神经系统期发病时同时进行的体力活动
+从潜伏期开始，病毒就可存在于患者的口咽及排泄物中，并可持续至症状发生后。口咽部在起病后1~2周内可存在病毒；在排泄物中，起病后≥3~6周仍可检出病毒。
+
+【经验与提示】
+经验与提示
+大多数脊髓灰质炎病毒感染不累及中枢神经系统或导致瘫痪。
+大多数脊髓灰质炎病毒感染不累及中枢神经系统或导致瘫痪。
+
+【脊髓灰质炎的症状和体征】
+大多数（70% 至 75%）脊髓灰质炎病毒感染不会引起任何症状（参见疾病控制和预防中心：流行病学和预防疫苗可预防疾病，脊髓灰质炎）有症状的疾病可分为：
+轻微感染
+轻微感染
+非瘫痪性脊髓灰质炎病毒无菌性脑膜炎
+非瘫痪性脊髓灰质炎病毒无菌性脑膜炎
+麻痹性脊髓灰质炎
+麻痹性脊髓灰质炎
+
+【轻微的脊髓灰质炎病毒感染】
+大多数有症状的感染，特别是幼儿感染，症状较轻，接触后3至5天出现，持续1至3天，表现为轻微发热、不适、头痛、咽痛和呕吐。无神经系统症状或体征，体格检查除发热外无异常。
+
+【非瘫痪性脊髓灰质炎病毒无菌性脑膜炎】
+约有 1% 至 5% 的脊髓灰质炎病毒感染患者会出现伴有无菌性脑膜炎的非麻痹性中枢神经系统受累（参见疾病控制和预防中心：流行病学和预防疫苗可预防疾病，脊髓灰质炎）。患者通常会出现颈部和/或背部僵硬，以及头痛，这些症状通常在出现类似轻微感染的前驱症状几天后出现。 表现持续2至10天。
+
+【麻痹性脊髓灰质炎】
+所有脊髓灰质炎病毒感染中，麻痹性脊髓灰质炎的发生率<1％。在婴幼儿中，它可能表现为一种双相疾病，在轻微症状消退几天后出现瘫痪期。潜伏期通常是7至21天。
+除无菌性脑膜炎外，麻痹性脊髓灰质炎的常见表现还包括深部肌肉疼痛、感觉过敏、感觉异常，以及在活动性脊髓炎期间出现的尿潴留和肌肉痉挛。非对称性弛缓性瘫痪可能在2至3天内发展和加重。
+吞咽困难和发音困难通常是延髓受累的最早迹象，但有些患者会出现咽麻痹，无法控制口腔分泌物。与骨骼肌麻痹类似，延髓受累可能在2至3天内恶化，在某些患者中，还会影响脑干的呼吸和循环中枢，导致呼吸功能受损。当膈肌或肋间肌受累时，呼吸衰竭的发生并不常见。
+有些麻痹性脊髓灰质炎患者在感染脊髓灰质炎多年或数十年后可发展为脊髓灰质炎后综合征。此综合征的特征是肌肉疲劳和耐力降低，往往表现为无力，肌束震颤，和肌萎缩。
+
+【脊髓灰质炎的诊断】
+脊髓和脑部MRI
+脊髓和脑部MRI
+腰椎穿刺
+腰椎穿刺
+病毒培养和检测（粪便、咽部分泌物和脑脊液）
+病毒培养和检测（粪便、咽部分泌物和脑脊液）
+检测其他非脊髓灰质炎肠道病毒和西尼罗河病毒
+检测其他非脊髓灰质炎肠道病毒和西尼罗河病毒
+当没有中枢神经系统表现时，症状轻微的脊髓灰质炎与其他全身性病毒感染类似，除非在流行期间，通常不考虑或诊断。
+脊髓灰质炎病毒无菌性脑膜炎与其他病毒性脑膜炎相似。在此类患者中，通常进行腰椎穿刺；典型的脑脊液检查结果是葡萄糖水平正常、蛋白质轻度升高，细胞计数为10至500/mcL（主要为淋巴细胞）。通过咽拭子、粪便或脑脊液检测出病毒可以确诊感染脊髓灰质炎病毒。
+麻痹性脊髓灰质炎在未接种儿童或成人出现急性发热，伴随非对称弛缓性麻痹或延髓麻痹而无感觉消失时需考虑本病。脊髓和脑部的 MRI 可以确认脊髓灰质脊髓炎和/或脑干病变的存在。然而，非脊髓灰质炎肠道病毒（D68、A71及其他）和西尼罗河病毒可能会产生类似的发现。格林-巴利综合征导致弛缓性麻痹，但可以区分，因为格林-巴利综合征通常不会引起发烧，但会引起
+对称性肌无力
+对称性肌无力
+70%的患者出现感觉障碍
+70%的患者出现感觉障碍
+通常脑脊液蛋白升高，但脑脊液细胞计数正常
+通常脑脊液蛋白升高，但脑脊液细胞计数正常
+流行病学线索（例如免疫接种史、近期旅行、年龄、季节）可有助于怀疑脊髓灰质炎病毒感染。由于确定脊髓灰质炎病毒或其他肠道病毒引起急性弛缓性麻痹对于公共卫生而言非常重要，因此应立即向当地或州卫生部门报告疑似病例，以协助进行诊断检测。应采集鼻咽、口咽拭子、血液和脑脊液样本。应至少间隔 24 小时采集两组粪便样本来评估脊髓灰质炎病毒。应与公共卫生部门联合对这些样本进行针对脊髓灰质炎病毒、其他肠道病毒和西尼罗河病毒的专门检测。
+
+【脊髓灰质炎的治疗】
+支持治疗
+支持治疗
+脊髓灰质炎支持治疗为标准治疗手段，包括卧床休息、止痛、退热治疗。针对性的抗病毒治疗尚不可得。
+在急性脊髓炎症期需注意预防长期卧床的并发症（如深静脉血栓、肺不张、尿路感染），长期不活动的并发症（如挛缩）。呼吸衰竭可能需要采用机械通气。机械通气或延髓麻痹的患者要强化呼吸治疗。
+
+【脊髓灰质炎病毒感染的预后】
+在无瘫痪的无菌性脑膜炎中，可完全康复。
+麻痹型脊髓灰质炎，患者约2/3留有永久性无力。延髓麻痹相较周围性麻痹更容易恢复或消退。据报道，儿童死亡率为 2％ 至 5％，青少年和成年人死亡率高达 15％ 至 30％，而患有延髓疾病的患者死亡率则上升至 25％ 至 75％（1）。随着支持性护理技术的进步，死亡率得到改善（2）。
+
+【预后参考】
+1.Centers for Disease Control and Prevention: Epidemiology and Preventionof Vaccine-P reventable Diseases.Hall E., Wodi A.P., Hamborsky J., et al., eds: 14th ed.Washington, D.C.Public Health Foundation, 2021.
+1.Centers for Disease Control and Prevention: Epidemiology and Preventionof Vaccine-P reventable Diseases.Hall E., Wodi A.P., Hamborsky J., et al., eds: 14th ed.Washington, D.C.Public Health Foundation, 2021.
+2.Murphy OC, Messacar K, Benson L, et al: Acute flaccid myelitis: cause, diagnosis, and management.Lancet.2021;397(10271):334-346.doi:10.1016/S0140-6736(20)32723-9
+2.Murphy OC, Messacar K, Benson L, et al: Acute flaccid myelitis: cause, diagnosis, and management.Lancet.2021;397(10271):334-346.doi:10.1016/S0140-6736(20)32723-9
+
+【预防脊髓灰质炎】
+所有的婴儿及儿童都应该进行接种脊髓灰质炎疫苗。美国儿科学会建议，在婴儿2个月、4个月以及6至18个月大时接种索尔克灭活脊灰病毒疫苗（IPV），并在4至6岁时接种加强剂（参见疾病控制和预防中心:常规脊髓灰质炎疫苗接种）。儿童接种后，>95%的接种者可获得免疫。
+在美国，索尔克IPV比萨宾减毒口服脊髓灰质炎疫苗 (OPV) 更受青睐。OPV中的减毒病毒在受体的肠道中复制，并通过粪便短暂排泄，因此能够通过粪口途径传播给其他个体，从而使一些没有直接接种疫苗的人获得免疫。然而，这种通过多个个体的传播可能导致疫苗病毒发生突变，很少出现可导致麻痹性脊髓灰质炎的毒株（疫苗衍生的脊髓灰质炎病毒），每240万口服OPV剂量约有1例发生。这种突变通常发生在2型脊髓灰质炎病毒疫苗的成分中。因此，口服脊髓灰质炎疫苗在美国已不再可用。此外，2016年从OPV中除去了2型脊髓灰质炎病毒，因为尽管正式根除了2型野生型脊髓灰质炎病毒，但疫情暴发源于基因序列不同的流行性疫苗衍生病毒。而IPV尚未发现严重的不良反应。
+由于在美国发现了循环的疫苗衍生 2 型脊髓灰质炎病毒，免疫实践咨询委员会 (ACIP) 于 2023 年更新了成人脊髓灰质炎病毒疫苗接种建议（1）。未接种或未完全接种疫苗的成年人应接种IPV作为初次疫苗，包括两剂，两剂之间相隔4至8周，第三剂在6至12个月后接种。已接种疫苗的成年人如果接触脊髓灰质炎病毒的风险较高，例如前往脊髓灰质炎病毒流行地区旅行，可以终生接种 1 剂 IPV 加强剂。免疫受损的人，包括其共同生活的家庭成员均不应接种OPV。
+
+【预防参考文献】
+1.Kidd S, Clark T, Routh J, Cineas S, Bahta L, Brooks O.Use of Inactivated Polio Vaccine Among U.S. Adults: Updated Recommendations of the Advisory Committee on Immunization Practices - United States, 2023.MMWR Morb Mortal Wkly Rep.2023;72(49):1327-1330.Published 2023 Dec 8.doi:10.15585/mmwr.mm7249a3
+1.Kidd S, Clark T, Routh J, Cineas S, Bahta L, Brooks O.Use of Inactivated Polio Vaccine Among U.S. Adults: Updated Recommendations of the Advisory Committee on Immunization Practices - United States, 2023.MMWR Morb Mortal Wkly Rep.2023;72(49):1327-1330.Published 2023 Dec 8.doi:10.15585/mmwr.mm7249a3
+大多数脊髓灰质炎病毒感染者无症状或引起非特异性轻微疾病或无瘫痪性无菌性脑膜炎；<1%的患者会出现典型的弛缓性无力综合征（麻痹性脊髓灰质炎）。
+大多数脊髓灰质炎病毒感染者无症状或引起非特异性轻微疾病或无瘫痪性无菌性脑膜炎；<1%的患者会出现典型的弛缓性无力综合征（麻痹性脊髓灰质炎）。
+非免疫儿童或青年在急性发热性疾病期间无感觉丧失的非对称弛缓性肢体麻痹或球麻痹可能提示麻痹性脊髓灰质炎。
+非免疫儿童或青年在急性发热性疾病期间无感觉丧失的非对称弛缓性肢体麻痹或球麻痹可能提示麻痹性脊髓灰质炎。
+应立即向当地和州卫生部门通报疑似脊髓灰质炎病毒病例。配合卫生健康部门采集口咽拭子、鼻咽拭子、粪便（2次样本间隔24小时）、血液、脑脊液等进行检测。
+应立即向当地和州卫生部门通报疑似脊髓灰质炎病毒病例。配合卫生健康部门采集口咽拭子、鼻咽拭子、粪便（2次样本间隔24小时）、血液、脑脊液等进行检测。
+麻痹型脊髓灰质炎患者约2/3留有永久性无力。
+麻痹型脊髓灰质炎患者约2/3留有永久性无力。
+所有婴儿和儿童都应接种疫苗。未接种疫苗或免疫不完全的成年人应接种疫苗。
+所有婴儿和儿童都应接种疫苗。未接种疫苗或免疫不完全的成年人应接种疫苗。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+Polio Eradication Initiative: Information about The Global Polio Eradication Initiative, which intends to eradicate polio worldwide through a public-private partnership
+Polio Eradication Initiative: Information about The Global Polio Eradication Initiative, which intends to eradicate polio worldwide through a public-private partnership

@@ -1,0 +1,126 @@
+标题：孤立性肺结节
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/symptoms-of-pulmonary-disorders/solitary-pulmonary-nodule
+============================================================
+
+肺结节是一个局灶性的、明显的x线密度，大小< 3cm，完全被肺组织包围。在美国，每年大约有160万患者偶然发现肺结节（1）。关于纵膈肿块的评估在其他部分论述。
+孤立性肺结节通常在因其他原因进行CT或胸片检查时，或在肺癌筛查期间偶然发现。它们出现在约30%的胸部CT扫描中（1）。由乳头阴影、疣、皮肤结节和骨骼异常引起的非肺软组织密度在胸片上常被误认为是结节。
+
+【参考文献】
+1.Mazzone PJ, Lam L: Evaluating the Patient With a Pulmonary Nodule: A Review.JAMA327(3):264–273, 2022.doi:10.1001/jama.2021.24287
+1.Mazzone PJ, Lam L: Evaluating the Patient With a Pulmonary Nodule: A Review.JAMA327(3):264–273, 2022.doi:10.1001/jama.2021.24287
+
+【孤立性肺结节的病因】
+孤立性肺结节有许多病因（见表孤立性肺结节的部分病因）。尽管临床上最重要的是要排除，但应该注意的是，所有< 6mm的结节的恶性概率小于1%，6 - 8mm的结节的恶性概率为1 - 2%（1）。根据年龄和危险因素的不同，最常见的病因包括:
+支气管囊肿
+支气管囊肿
+
+【引起孤立性肺结节的部分病因】
+引起孤立性肺结节的部分病因
+恶性病因*
+原发性肺癌
+小细胞肺癌
+转移性癌症
+黑色素瘤
+头颈部恶性肿瘤
+非恶性病因
+自身免疫性疾病
+肉芽肿性多血管炎
+类风湿结节
+良性肿瘤
+肉芽肿性感染
+非典型分枝杆菌感染
+芽生菌病
+球孢子菌病
+隐球菌病
+组织胞浆菌病
+结核（TB）
+细菌性脓肿
+恶丝虫病（犬心丝虫感染）
+棘球绦虫囊肿
+耶氏肺孢子菌感染
+肺血管异常
+海绵状血管瘤
+肺动静脉畸形
+肺毛细血管扩张
+淀粉样变
+支气管囊肿
+肺内淋巴结
+包裹性积液
+圆形肺不张
+*恶性病因的可能性随着年龄的增长而升高。
+*恶性病因的可能性随着年龄的增长而升高。
+
+【病因参考文献】
+1.Mazzone PJ, Lam L: Evaluating the Patient With a Pulmonary Nodule: A Review.JAMA327(3):264–273, 2022.doi:10.1001/jama.2021.24287
+1.Mazzone PJ, Lam L: Evaluating the Patient With a Pulmonary Nodule: A Review.JAMA327(3):264–273, 2022.doi:10.1001/jama.2021.24287
+
+【孤立性肺结节的评估】
+评估的首要目的在于发现恶性肿瘤和活动性感染。已制定了多项学会指南用于此目的（1、2、3）；建议也因地理区域而异（4、5、6）。
+通过病史可以提供信息来鉴别导致孤立性肺结节的原因是恶性的还是良性的，包括:
+现在或既往吸烟史
+现在或既往吸烟史
+恶性肿瘤病史或自身免疫疾病史
+恶性肿瘤病史或自身免疫疾病史
+恶性肿瘤的职业危险因素（如暴露于石棉、氯乙烯、氡）
+恶性肿瘤的职业危险因素（如暴露于石棉、氯乙烯、氡）
+前往地方性真菌病或结核病（TB）高发地区旅行或居住
+前往地方性真菌病或结核病（TB）高发地区旅行或居住
+机会性感染的危险因素（如HIV、免疫缺陷）
+机会性感染的危险因素（如HIV、免疫缺陷）
+年龄较大、吸烟和个人癌症病史都会增加患癌症的可能性，并与结节直径一起用于估计患癌症的似然比。
+
+【体格检查】
+详细的全身体格检查可能发现提示肺结节病因的体征（例如，提示癌症的乳房肿块或皮肤病变），但通常不能明确病因。
+最初的检查目的是评估孤立肺结节恶性的可能性。第一步是查看X线平片，接下来通常是使用CT检查。
+放射学特征可用来确定孤立肺结节的恶性可能。
+生长速率通过与前次胸片或CT相比较来确定。如果病灶在≥2年的时间里没有增大，多提示良性病变。如果肿块的体积倍增时间为21～400天，则为恶性疾病的可能性较大。
+生长速率通过与前次胸片或CT相比较来确定。如果病灶在≥2年的时间里没有增大，多提示良性病变。如果肿块的体积倍增时间为21～400天，则为恶性疾病的可能性较大。
+钙化提示非恶性疾病，尤其是表现为中心性钙化（结核瘤、组织胞浆菌病）、同心性钙化（愈合后的组织胞浆菌病），或呈爆玉米花状（错构瘤）。
+钙化提示非恶性疾病，尤其是表现为中心性钙化（结核瘤、组织胞浆菌病）、同心性钙化（愈合后的组织胞浆菌病），或呈爆玉米花状（错构瘤）。
+边缘呈毛刺状或不规则（扇贝状）更提示为癌症。
+边缘呈毛刺状或不规则（扇贝状）更提示为癌症。
+直径<1.5cm强烈提示良性病变；直径>5.3cm强烈提示恶性病变。然而，非恶性例外包括肺脓肿、肉芽肿性多血管炎和包虫囊肿。
+直径<1.5cm强烈提示良性病变；直径>5.3cm强烈提示恶性病变。然而，非恶性例外包括肺脓肿、肉芽肿性多血管炎和包虫囊肿。
+位置位于上叶的结节，其恶性风险更高。
+位置位于上叶的结节，其恶性风险更高。
+这些特征有时在胸部平片上比较明显，但仍常需做CT扫描。CT也能分辨肺部与胸膜的不透光病变。CT发现恶性疾病的敏感性为70%、特异性为60%。
+孤立性肺结节诊断的主要手段是间隔成像。具体的影像学建议取决于结节的大小、结节是磨玻璃状、半实性还是实性，以及个体危险因素（重度吸烟史、石棉接触史、肺癌家族史、年龄较大 [1]）。
+正电子发射断层扫描 (PET) 成像可以帮助区分癌性结节和良性结节。PET最常用于对恶性概率为中或高的结节进行成像评估。用于诊断癌症的敏感性>90%、特异性约为78%PET活性通过（18）F-2-脱氧-2-氟-D-葡萄糖（FDG）的标准摄取值（SUV）进行量化。SUV>2.5提示恶性可能，而SUV<2.5的结节则更可能为良性。如果结节<8毫米，假阴性结果可能性更大。代谢不活跃的肿瘤可导致PET扫描假阴性，而各种感染性和炎症性病变则可能导致假阳性结果。
+培养在病史提示可能为感染性病因（如结核病、球孢子菌病）时可能有用。
+侵入性检查包括：
+CT或超声引导下经胸壁针刺抽吸
+CT或超声引导下经胸壁针刺抽吸
+灵活的支气管镜检查
+灵活的支气管镜检查
+手术活检
+手术活检
+虽然可通过活检诊断癌症，但根治性治疗是手术切除。因此，对于高度怀疑为癌症且病灶可切除的患者，应进行手术切除。 然而，临床越来越多地应用超声引导经支气管镜纵隔淋巴结活检，一些专家推荐其作为一种微创手段用于肺癌结节的术前诊断和分期。
+经胸壁针刺抽吸最适合外周病变，当高度怀疑感染性病因时尤其有用，因为与支气管镜检查相比，经胸入路可避免标本被上呼吸道菌群污染。经皮肺穿刺的缺点在于有10％气胸的风险。
+纤维支气管镜可进行支气管冲洗、刷检、细针抽吸、经支气管活检。对于较大、位置更靠近中央的病灶，其诊断阳性率更高；但对于直径<1cm的外周病灶，需要经验非常丰富的操作者使用特制的细支气管镜才能成功活检。
+如果通过上述微创方法无法触及结节，则需要进行开放性手术活检。
+
+【评估参考文献】
+1.Christensen J, Prosper AE, Wu CC, et al: ACR Lung-RADS v2022: Assessment Categories and Management Recommendations.J Am Coll Radiol21(3):473–488., 2024 doi:10.1016/j.jacr.2023.09.009
+1.Christensen J, Prosper AE, Wu CC, et al: ACR Lung-RADS v2022: Assessment Categories and Management Recommendations.J Am Coll Radiol21(3):473–488., 2024 doi:10.1016/j.jacr.2023.09.009
+2.Gould MK, Donington J, Lynch WR, et al: Evaluation of individuals with pulmonary nodules: when is it lung cancer?Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines.Chest143(5 Suppl):e93S–e120S, 2013.doi:10.1378/chest.12-2351
+2.Gould MK, Donington J, Lynch WR, et al: Evaluation of individuals with pulmonary nodules: when is it lung cancer?Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines.Chest143(5 Suppl):e93S–e120S, 2013.doi:10.1378/chest.12-2351
+3.MacMahon H, Naidich DP, Goo JM, et al: Guidelines for Management of Incidental Pulmonary Nodules Detected on CT Images: From the Fleischner Society 2017.Radiology284(1):228–243, 2017.doi:10.1148/radiol.2017161659
+3.MacMahon H, Naidich DP, Goo JM, et al: Guidelines for Management of Incidental Pulmonary Nodules Detected on CT Images: From the Fleischner Society 2017.Radiology284(1):228–243, 2017.doi:10.1148/radiol.2017161659
+4.Bai C, Choi CM, Chu CM, et al: Evaluation of Pulmonary Nodules: Clinical Practice Consensus Guidelines for Asia.Chest150(4):877–893, 2016.doi:10.1016/j.chest.2016.02.650
+4.Bai C, Choi CM, Chu CM, et al: Evaluation of Pulmonary Nodules: Clinical Practice Consensus Guidelines for Asia.Chest150(4):877–893, 2016.doi:10.1016/j.chest.2016.02.650
+5.Callister ME, Baldwin DR, Akram AR, et al: British Thoracic Society guidelines for the investigation and management of pulmonary nodules.Thorax70 Suppl 2:ii1–ii54, 2015.doi:10.1136/thoraxjnl-2015-207168
+5.Callister ME, Baldwin DR, Akram AR, et al: British Thoracic Society guidelines for the investigation and management of pulmonary nodules.Thorax70 Suppl 2:ii1–ii54, 2015.doi:10.1136/thoraxjnl-2015-207168
+6.Lam S, Bryant H, Donahoe L, et al: Management of screen-detected lung nodules: A Canadian partnership against cancer guidance document.Canadian Journal of Respiratory, Critical Care, and Sleep Medicine4(4):236–265, 2020.doi:10.1080/24745332.2020.1819175
+6.Lam S, Bryant H, Donahoe L, et al: Management of screen-detected lung nodules: A Canadian partnership against cancer guidance document.Canadian Journal of Respiratory, Critical Care, and Sleep Medicine4(4):236–265, 2020.doi:10.1080/24745332.2020.1819175
+
+【孤立性肺结节的治疗】
+部分采取手术
+部分采取手术
+部分随访观察
+部分随访观察
+如果患者患恶性疾病的可能性极低，病变直径很小（<1cm），患者拒绝手术或不适宜进行手术的话，对其进行系列CT扫描随访观察是合理的。随访CT 扫描的时间和持续时间主要取决于结节的大小和形态（1）。影响监测频率的其他因素包括结节的位置、CT 扫描中肺气肿或纤维化的存在、年龄、性别、种族、家族史和烟草使用史（1)。
+当病变为恶性肿瘤的可能性最大或基本排除良性病变的情况下，如患者无肺功能差、存在合并症等禁忌证或拒绝手术，应行手术切除病灶。
+
+【治疗参考文献】
+1.MacMahon H, Naidich DP, Goo JM, et al: Guidelines for Management of Incidental Pulmonary Nodules Detected on CT Images: From the Fleischner Society 2017.Radiology284(1):228–243, 2017.doi:10.1148/radiol.2017161659
+1.MacMahon H, Naidich DP, Goo JM, et al: Guidelines for Management of Incidental Pulmonary Nodules Detected on CT Images: From the Fleischner Society 2017.Radiology284(1):228–243, 2017.doi:10.1148/radiol.2017161659

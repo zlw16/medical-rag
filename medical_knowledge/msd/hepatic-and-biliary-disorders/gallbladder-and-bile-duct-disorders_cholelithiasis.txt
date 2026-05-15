@@ -1,0 +1,135 @@
+标题：胆石症
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/gallbladder-and-bile-duct-disorders/cholelithiasis
+============================================================
+
+（参见胆管功能概述）
+大多数胆道疾病由胆结石引起。胆结石的危险因素包括（1–4):
+肥胖（尤其在男性中）
+肥胖（尤其在男性中）
+体力活动缺乏
+体力活动缺乏
+胰岛素抵抗
+胰岛素抵抗
+脂质异常
+脂质异常
+动脉粥样硬化性心脏病
+动脉粥样硬化性心脏病
+胆结石家族史
+胆结石家族史
+在美国，胆结石患病率估计为20岁以上人口的14%，在1988年至2020年的30年间翻了一番。在一些北欧国家，患病率可能高达约20%（5）。患病率通常随年龄增长而增加，并可能在六十岁时趋于平稳。
+
+【参考文献】
+1.Colvin HS, Kimura T, Iso H, et al.Risk Factors for Gallstones and Cholecystectomy: A Large-Scale Population-Based Prospective Cohort Study in Japan.Dig Dis.2022;40(3):385-393.doi:10.1159/000517270
+1.Colvin HS, Kimura T, Iso H, et al.Risk Factors for Gallstones and Cholecystectomy: A Large-Scale Population-Based Prospective Cohort Study in Japan.Dig Dis.2022;40(3):385-393.doi:10.1159/000517270
+2.Shabanzadeh DM, Sørensen LT, Jørgensen T.Determinants for gallstone formation - a new data cohort study and a systematic review with meta-analysis.Scand J Gastroenterol.2016;51(10):1239-1248.doi:10.1080/00365521.2016.1182583
+2.Shabanzadeh DM, Sørensen LT, Jørgensen T.Determinants for gallstone formation - a new data cohort study and a systematic review with meta-analysis.Scand J Gastroenterol.2016;51(10):1239-1248.doi:10.1080/00365521.2016.1182583
+3.Unalp-Arida A, Ruhl CE.Increasing gallstone disease prevalence and associations with gallbladder and biliary tract mortality in the US.Hepatology.2023;77(6):1882-1895.doi:10.1097/HEP.0000000000000264
+3.Unalp-Arida A, Ruhl CE.Increasing gallstone disease prevalence and associations with gallbladder and biliary tract mortality in the US.Hepatology.2023;77(6):1882-1895.doi:10.1097/HEP.0000000000000264
+4.Lammert F, Gurusamy K, Ko CW, et al.Gallstones.Nat Rev Dis Primers.2016;2:16024.doi:10.1038/nrdp.2016.24
+4.Lammert F, Gurusamy K, Ko CW, et al.Gallstones.Nat Rev Dis Primers.2016;2:16024.doi:10.1038/nrdp.2016.24
+5.Aerts R, Penninckx F.The burden of gallstone disease in Europe.Aliment Pharmacol Ther.2003;18 Suppl 3:49-53.doi:10.1046/j.0953-0673.2003.01721.x
+5.Aerts R, Penninckx F.The burden of gallstone disease in Europe.Aliment Pharmacol Ther.2003;18 Suppl 3:49-53.doi:10.1046/j.0953-0673.2003.01721.x
+
+【胆石症的病理生理】
+（见图肝脏和胆囊视图。）
+微结石或胆泥常为胆结石形成的前驱阶段。 它由胆红素钙（一种胆红素聚合物）、胆固醇微晶和黏蛋白组成。胆泥通常在胆囊排空停滞时出现，如妊娠期或接受肠外营养期间。大部分胆泥没有症状，可随原发情况的缓解而消失。另外，胆泥可以演变为胆结石或移行到胆管，阻塞胆管引起胆绞痛、胆管炎或胰腺炎。
+胆结石有几种不同类型。
+胆固醇结石在西方国家中占所有胆石的>85% (1)。胆固醇结石的形成必须具备下列条件。
+胆汁必须被胆固醇过饱和。通常情况下，不溶于水的胆固醇与胆汁酸盐和卵磷脂结合形成胶粒，变成水溶性。 胆汁被胆固醇过饱和最常见是由于胆固醇分泌过多（发生于肥胖或糖尿病），也可以由于胆汁酸盐分泌减少（如胆盐吸收不良导致的囊性纤维化）或卵磷脂缺乏（如少见的遗传性疾病造成进行性家族肝内胆汁淤积）引起。
+胆汁必须被胆固醇过饱和。通常情况下，不溶于水的胆固醇与胆汁酸盐和卵磷脂结合形成胶粒，变成水溶性。 胆汁被胆固醇过饱和最常见是由于胆固醇分泌过多（发生于肥胖或糖尿病），也可以由于胆汁酸盐分泌减少（如胆盐吸收不良导致的囊性纤维化）或卵磷脂缺乏（如少见的遗传性疾病造成进行性家族肝内胆汁淤积）引起。
+过多的胆固醇必须从胆汁中沉淀出来形成固态的微晶。黏蛋白（一种糖蛋白）或胆汁中的其他蛋白可加速胆囊内的胆固醇的沉淀。
+过多的胆固醇必须从胆汁中沉淀出来形成固态的微晶。黏蛋白（一种糖蛋白）或胆汁中的其他蛋白可加速胆囊内的胆固醇的沉淀。
+微晶必须能够凝聚和增长。促进凝聚的因素有黏蛋白的结合作用形成支架、胆囊收缩功能受损（胆汁中胆固醇过多造成）引起微晶的存留。
+微晶必须能够凝聚和增长。促进凝聚的因素有黏蛋白的结合作用形成支架、胆囊收缩功能受损（胆汁中胆固醇过多造成）引起微晶的存留。
+WEBPATHOLOGY/SCIENCE PHOTO LIBRARY
+WEBPATHOLOGY/SCIENCE PHOTO LIBRARY
+黑色的色素结石小而坚硬，含有胆红素钙和无机钙盐（如碳酸钙、磷酸钙）。加速其形成的因素有酒精性肝病、慢性溶血和高龄。
+棕色色素结石质地柔软、表面油腻，主要由胆红素钙盐及脂肪酸钙盐（如棕榈酸钙或硬脂酸钙）组成。这些结石多在感染、炎症或寄生虫感染（如肝吸虫）时形成。
+胆结石的生长速度约为每年 1～2 毫米，通常需要 5 至 20 年才会增大到足以引起症状或疾病的程度。大部分胆结石在胆囊中形成，但棕色素结石在胆管内形成。胆囊切除术后，结石可 移行到胆管中，或者尤其是棕色素结石，其淤滞于胆管引起感染造成随后胆管狭窄。
+
+【病理生理学参考文献】
+1.European Association for the Study of the Liver (EASL).EASL Clinical Practice Guidelines on the prevention, diagnosis and treatment of gallstones.J Hepatol.2016;65(1):146-181. doi: 10.1016/j.jhep.2016.03.005
+1.European Association for the Study of the Liver (EASL).EASL Clinical Practice Guidelines on the prevention, diagnosis and treatment of gallstones.J Hepatol.2016;65(1):146-181. doi: 10.1016/j.jhep.2016.03.005
+
+【胆石症的症状和体征】
+多数（可达 80%）胆结石患者无症状（1）。其余者表现为特征性疼痛（胆绞痛）、胆囊炎或危及生命的胆管炎。胆绞痛是最常见的临床表现。
+结石偶然可通过胆囊管而不引起症状。然而，多数胆结石的迁移可引起胆囊管梗阻，即使是暂时的，导致胆绞痛。疼痛可位于右上腹，也可在腹部其他部位。疼痛常定位不清，尤其在老年患者或糖尿病患者中更为常见。疼痛可放射至背部或上肢。
+发作通常突然开始，在 15 分钟至 1 小时内迅速达到高峰，并维持恒定强度（非阵发性疼痛），通常持续约<6 小时，但偶尔可延长至 12 小时，随后在 30～90 分钟内逐渐缓解，遗留钝痛感。疼痛程度通常剧烈，致使患者至急诊就诊。常伴恶心呕吐，但一般无寒战发热，除非发生胆囊炎。可有右上腹或上腹部轻压痛，但没有腹膜炎体征。发作间期患者无不适。
+虽然胆绞痛常在进食油腻食物后发生，但脂肪摄入并非唯一诱因。非特异性的消化道症状，如嗳气、腹胀、饱胀感和恶心，归因于胆囊疾病是不准确的。These symptoms are common, having approximately equal prevalence in cholelithiasis,peptic ulcer disease, and functional gastrointestinal disorders.
+
+【经验与提示】
+经验与提示
+脂肪的食物并不是胆绞痛特异性原因，胀气，膨胀，恶心并不是胆囊疾病非特异性的症状。
+脂肪的食物并不是胆绞痛特异性原因，胀气，膨胀，恶心并不是胆囊疾病非特异性的症状。
+胆绞痛的严重度和发生频率与胆囊的病理变化之间不存在相关性 (1)。在没有胆囊炎时，也可发生胆绞痛。但是如果胆绞痛时间>12h，特别是伴呕吐或发热，则有急性胆囊炎或胰腺炎可能。
+
+【症状和体征】
+1.Lammert F, Gurusamy K, Ko CW, et al.Gallstones.Nat Rev Dis Primers.2016;2:16024.doi:10.1038/nrdp.2016.24
+1.Lammert F, Gurusamy K, Ko CW, et al.Gallstones.Nat Rev Dis Primers.2016;2:16024.doi:10.1038/nrdp.2016.24
+
+【胆石症的诊断】
+超声检查
+超声检查
+有时进行 CT、MRI 或内镜超声检查
+有时进行 CT、MRI 或内镜超声检查
+有胆绞痛的患者应怀疑胆石症。腹部超声是检测胆囊结石可选的影像学检查，敏感性和特异性达95％ (1)。超声检查也可准确地发现胆泥。也可以选择CT和MRI。在其他检查不能确定时，需要进行超声内镜，其能准确发现小结石（<3mm)。
+在左侧，腹部超声显示多个胆结石（箭头）。在右侧，腹部平片显示不透射线的胆结石（箭头）。
+© Springer Science+Business Media
+实验室检查通常没有什么帮助; 通常情况下，结果是正常的，除非发生并发症。
+无症状的胆结石和胆泥通常在因其他原因进行影像学检查时偶然发现。约10％～15％的胆结石是钙化的，在X线平片上可见。
+
+【诊断参考文献】
+1.Lammert F, Gurusamy K, Ko CW, et al.Gallstones.Nat Rev Dis Primers.2016;2:16024.doi:10.1038/nrdp.2016.24
+1.Lammert F, Gurusamy K, Ko CW, et al.Gallstones.Nat Rev Dis Primers.2016;2:16024.doi:10.1038/nrdp.2016.24
+
+【胆石症的治疗】
+对于有症状的结石：腹腔镜胆囊切除术或有时使用熊去氧胆酸溶石。
+对于有症状的结石：腹腔镜胆囊切除术或有时使用熊去氧胆酸溶石。
+对于无症状的结石：期待疗法
+对于无症状的结石：期待疗法
+大多数无症状的胆结石患者，权衡不适感、费用和择期手术的风险后，并不值得为了可能永远不会发作的疾病切除一个器官。在既往无症状的胆结石患者中，每年约有 1%～4% 出现症状；一旦出现症状，应行胆囊切除术（胆囊切除术），因为疼痛极易复发，且可能发展为严重并发症（1）。
+手术包括开放性或腹腔镜胆囊切除术。
+开放性胆囊切除术，包括腹部切开和直接探查，是安全有效的。在无并发症时择期手术，总死亡率约为0.1％。
+腹腔镜胆囊切除术是首选治疗 (2, 3)。通过腹部的小切口使用视频内镜和设备进行操作，其创伤小于开放性胆囊切除术，采用腹腔镜手术与传统开腹术相比，可显著缩短康复时间，减轻术后不适，并改善外观效果，同时并不会增加发病率或死亡率。腹腔镜胆囊切除术转为剖腹的发生率为4％～8％ (2) ，通常是因为无法识别胆道解剖结构或无法处理并发症。高龄会增加任何手术的风险。
+胆囊切除术可有效预防今后再次发生胆绞痛，但对防止其他胃肠道症状（如消化不良）的效果较差（1）。胆囊切除术不会引起营养问题，术后没有特殊饮食限制。一些患者出现腹泻，通常是回肠胆盐吸收不良的表现。
+对于无症状胆结石患者，如结石较大（>≥3 cm）或存在钙化胆囊（瓷样胆囊），可考虑预防性胆囊切除术，因为这些情况会显著增加发生胆囊癌的风险（4）。关于瓷化胆囊作为预防性胆囊切除术指征存在争议（5，6）。此外，对于接受减重手术的无症状胆结石患者，可能进行预防性胆囊切除术。
+对于拒绝手术治疗或手术风险高者（如伴有其他内科疾病或高龄），可予胆酸口服数月以溶解胆囊结石。适合溶石治疗的条件是在一个有功能无梗阻的胆囊（胆管闪烁显像完全正常，或胆囊颈部无结石），结石小且可透光（多数为胆固醇结石）。
+口服熊去氧胆酸（又称熊脱氧胆酸，ursodiol）可溶解直径约<0.5 cm 的微小结石（7）。然而，对于体积较大的结石（占多数），即使采用较高剂量的熊去氧胆酸治疗，其溶石成功率仍显著降低。此外，50%的患者在成功溶解后5年内结石复发。因此，除非手术风险较高，否则首选胆囊切除术（4）。然而，在病态肥胖患者中，若术后或极低热量饮食期间体重迅速下降，或使用胰高血糖素-样肽-1（GLP-1）受体激动剂时，口服熊去氧胆酸可有助于预防新结石形成（1, 8）。
+碎石（体外冲击波碎石术）帮助结石溶解和消除, 现在已很少应用 (1, 4)。
+
+【治疗参考文献】
+1.Lammert F, Gurusamy K, Ko CW, et al.Gallstones.Nat Rev Dis Primers.2016;2:16024.doi:10.1038/nrdp.2016.24
+1.Lammert F, Gurusamy K, Ko CW, et al.Gallstones.Nat Rev Dis Primers.2016;2:16024.doi:10.1038/nrdp.2016.24
+2.European Association for the Study of the Liver (EASL).EASL Clinical Practice Guidelines on the prevention, diagnosis and treatment of gallstones.J Hepatol2016;65(1):146-181. doi: 10.1016/j.jhep.2016.03.005
+2.European Association for the Study of the Liver (EASL).EASL Clinical Practice Guidelines on the prevention, diagnosis and treatment of gallstones.J Hepatol2016;65(1):146-181. doi: 10.1016/j.jhep.2016.03.005
+3.Pisano M, Allievi N, Gurusamy K, et al.2020 World Society of Emergency Surgery updated guidelines for the diagnosis and treatment of acute calculus cholecystitis.World J Emerg Surg.2020;15(1):61.doi:10.1186/s13017-020-00336-x
+3.Pisano M, Allievi N, Gurusamy K, et al.2020 World Society of Emergency Surgery updated guidelines for the diagnosis and treatment of acute calculus cholecystitis.World J Emerg Surg.2020;15(1):61.doi:10.1186/s13017-020-00336-x
+4.Lammert F, Wittenburg H.Gallstones: Prevention, Diagnosis, and Treatment.Semin Liver Dis.2024;44(3):394-404.doi:10.1055/a-2378-9025
+4.Lammert F, Wittenburg H.Gallstones: Prevention, Diagnosis, and Treatment.Semin Liver Dis.2024;44(3):394-404.doi:10.1055/a-2378-9025
+5.Chen GL, Akmal Y, DiFronzo AL, et al.Porcelain Gallbladder: No Longer an Indication for Prophylactic Cholecystectomy.Am Surg.2015;81(10):936-940.
+5.Chen GL, Akmal Y, DiFronzo AL, et al.Porcelain Gallbladder: No Longer an Indication for Prophylactic Cholecystectomy.Am Surg.2015;81(10):936-940.
+6.DesJardins H, Duy L, Scheirey C, et al.Porcelain Gallbladder: Is Observation a Safe Option in Select Populations?.J Am Coll Surg.2018;226(6):1064-1069.doi:10.1016/j.jamcollsurg.2017.11.026
+6.DesJardins H, Duy L, Scheirey C, et al.Porcelain Gallbladder: Is Observation a Safe Option in Select Populations?.J Am Coll Surg.2018;226(6):1064-1069.doi:10.1016/j.jamcollsurg.2017.11.026
+7.Portincasa P, Di Ciaula A, Bonfrate L, et al.Therapy of gallstone disease: What it was, what it is, what it will be.World J Gastrointest Pharmacol Ther.2012;3(2):7-20. doi: 10.4292/wjgpt.v3.i2.7
+7.Portincasa P, Di Ciaula A, Bonfrate L, et al.Therapy of gallstone disease: What it was, what it is, what it will be.World J Gastrointest Pharmacol Ther.2012;3(2):7-20. doi: 10.4292/wjgpt.v3.i2.7
+8.He L, Wang J, Ping F, et al.Association ofGlucagon-Like Peptide-1 Receptor Agonist Use With Risk of Gallbladder and Biliary Diseases: A Systematic Review and Meta-analysis of Randomized Clinical Trials.JAMA Intern Med.2022;182(5):513-519.doi:10.1001/jamainternmed.2022.0338
+8.He L, Wang J, Ping F, et al.Association ofGlucagon-Like Peptide-1 Receptor Agonist Use With Risk of Gallbladder and Biliary Diseases: A Systematic Review and Meta-analysis of Randomized Clinical Trials.JAMA Intern Med.2022;182(5):513-519.doi:10.1001/jamainternmed.2022.0338
+
+【胆石症的预后】
+无症状胆结石患者每年约有 2% 出现症状（1），5 年累计发病率约为 10% （2）。最常见的症状是胆绞痛，而不是胆道并发症。一旦出现症状，每年20％～40％的患者胆绞痛会复发，1％～2％可发生并发症如胆囊炎、胆总管结石、胆管炎和胆石性胰腺炎(3)。
+
+【预后参考】
+1.European Association for the Study of the Liver (EASL).EASL Clinical Practice Guidelines on the prevention, diagnosis and treatment of gallstones.J Hepatol.2016;65(1):146-181. doi: 10.1016/j.jhep.2016.03.005
+1.European Association for the Study of the Liver (EASL).EASL Clinical Practice Guidelines on the prevention, diagnosis and treatment of gallstones.J Hepatol.2016;65(1):146-181. doi: 10.1016/j.jhep.2016.03.005
+2.Morris-Stiff G, Sarvepalli S, Hu B, et al.The Natural History of Asymptomatic Gallstones: A Longitudinal Study and Prediction Model.Clin Gastroenterol Hepatol.2023;21(2):319-327.e4.doi:10.1016/j.cgh.2022.04.010
+2.Morris-Stiff G, Sarvepalli S, Hu B, et al.The Natural History of Asymptomatic Gallstones: A Longitudinal Study and Prediction Model.Clin Gastroenterol Hepatol.2023;21(2):319-327.e4.doi:10.1016/j.cgh.2022.04.010
+3.Friedman GD, Raviola CA, Fireman B.Prognosis of gallstones with mild or no symptoms: 25 years of follow-up in a health maintenance organization.J Clin Epidemiol.1989;42(2):127-36.doi: 10.1016/0895-4356(89)90086-3
+3.Friedman GD, Raviola CA, Fireman B.Prognosis of gallstones with mild or no symptoms: 25 years of follow-up in a health maintenance organization.J Clin Epidemiol.1989;42(2):127-36.doi: 10.1016/0895-4356(89)90086-3
+胆结石很常见，但80%是无症状的。
+胆结石很常见，但80%是无症状的。
+腹部超声检测胆囊结石的敏感性和特异性为95%。
+腹部超声检测胆囊结石的敏感性和特异性为95%。
+一旦症状发生（通常胆绞痛），每年20％至40％的患者疼痛复发。
+一旦症状发生（通常胆绞痛），每年20％至40％的患者疼痛复发。
+大多数有症状的胆结石患者行腹腔镜胆囊切除术。
+大多数有症状的胆结石患者行腹腔镜胆囊切除术。

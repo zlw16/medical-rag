@@ -1,0 +1,109 @@
+标题：水痘疫苗
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/immunization/varicella-vaccine
+============================================================
+
+美国有两种水痘疫苗：单抗原水痘疫苗和麻疹、腮腺炎、风疹和水痘 (MMRV) 疫苗。MMRV四联疫苗是美国常规儿童免疫接种项目之一。
+根据疾病控制与预防中心 (CDC) 的数据，水痘疫苗的整体有效性在 1 剂后为 82%,2 剂后为 92% 至 98%; 对严重水痘的有效性在 1 剂后为 100%（1）。在一项关于儿童水痘疫苗有效性的长期队列研究中，在超过 90% 的研究参与者中，接种疫苗在 14 年后继续提供长期免疫力（2）。
+(参见疫苗接种概述。）
+
+【参考文献】
+1.Centers for Disease Control and Prevention.About the Varicella Vaccines.Accessed April 30, 2025.
+1.Centers for Disease Control and Prevention.About the Varicella Vaccines.Accessed April 30, 2025.
+2.Baxter R, Ray P, Tran TN, et al.Long-term effectiveness of varicella vaccine: a 14-Year, prospective cohort study.Pediatrics.2013;131(5):e1389-e1396.doi:10.1542/peds.2012-3303
+2.Baxter R, Ray P, Tran TN, et al.Long-term effectiveness of varicella vaccine: a 14-Year, prospective cohort study.Pediatrics.2013;131(5):e1389-e1396.doi:10.1542/peds.2012-3303
+
+【水痘疫苗制剂】
+水痘疫苗含有减毒野生水痘病毒株、微量明胶和新霉素。它可作为单一抗原疫苗（水痘-带状疱疹病毒疫苗），或作为含有麻疹、腮腺炎、风疹的组合疫苗（MMRV，即麻疹病毒/腮腺炎病毒/风疹病毒/水痘病毒疫苗）使用。
+
+【水痘疫苗的适应症】
+水痘疫苗是儿童常规接种疫苗。各专家机构的给药指南存在差异（参见美国儿科学会（AAP）建议和美国疾病控制与预防中心建议）。
+对于所有年龄≥13岁且没有证据表明对水痘具有免疫力的人群，也建议接种单抗原水痘疫苗（2）。
+能证明有免疫力的依据包括以下任意一条：
+接种记录显示水痘疫苗间隔≥4周（12月龄至3岁儿童接种1剂，较大儿童接种2剂）
+接种记录显示水痘疫苗间隔≥4周（12月龄至3岁儿童接种1剂，较大儿童接种2剂）
+由医师证实有水痘或带状疱疹病史
+由医师证实有水痘或带状疱疹病史
+实验室确认，体内存在具有保护能力的水痘抗体
+实验室确认，体内存在具有保护能力的水痘抗体
+1980 年以前在美国出生的人，医护人员、免疫功能低下患者和孕妇除外
+1980 年以前在美国出生的人，医护人员、免疫功能低下患者和孕妇除外
+水痘疫苗尤其推荐用于可能接触或传播水痘病毒却没有确切依据表明存在水痘免疫力的人，具体包括：
+医护人员
+医护人员
+居家的免疫力低下人群
+居家的免疫力低下人群
+对于居住或工作场所可能会暴露或传播水痘病毒的人群（例如，教师、学生、托幼机构工作者、集体机构的居民和雇员，以及惩教机构的被拘留者和雇员、军人）
+对于居住或工作场所可能会暴露或传播水痘病毒的人群（例如，教师、学生、托幼机构工作者、集体机构的居民和雇员，以及惩教机构的被拘留者和雇员、军人）
+未怀孕的育龄期妇女
+未怀孕的育龄期妇女
+与儿童居住在一起的青少年和成年人
+与儿童居住在一起的青少年和成年人
+国际旅行者
+国际旅行者
+暴露后预防接种对于无证据证实具有水痘免疫力的儿童推荐接种；对于同样状况的成人，也应当接种。 在暴露后的3天内甚至可能在暴露5天后接种水痘疫苗，均可有效防止感染或减轻感染症状 (3); 但还是应该尽快接种疫苗。即使暴露于水痘病毒未导致感染，暴露后疫苗接种仍应能对随后的暴露产生保护，即便疫苗是在暴露5天后才接种。
+水痘-带状疱疹免疫球蛋白（见表格美国可用的免疫球蛋白和抗毒素）建议用于没有确切水痘免疫力证据、易患水痘感染和/或有水痘疫苗接种禁忌的人群的暴露后预防。这些人群包括：
+对水痘无免疫证据的免疫功能低下者
+对水痘无免疫证据的免疫功能低下者
+无确切依据证明具有水痘免疫力的孕妇
+无确切依据证明具有水痘免疫力的孕妇
+自产前5天至产后2天内出现水痘的母亲的新生儿
+自产前5天至产后2天内出现水痘的母亲的新生儿
+妊娠≥28周出生且母亲无水痘免疫证据的住院早产儿
+妊娠≥28周出生且母亲无水痘免疫证据的住院早产儿
+妊娠<28周的早产住院婴儿，或出生时体重≤1000 g的住院婴儿，无论其母亲是否有水痘免疫力。
+妊娠<28周的早产住院婴儿，或出生时体重≤1000 g的住院婴儿，无论其母亲是否有水痘免疫力。
+
+【适应症参考文献】
+1.CDC.Child and Adolescent Immunization Schedule by Age.Accessed September 23, 2025.
+1.CDC.Child and Adolescent Immunization Schedule by Age.Accessed September 23, 2025.
+2.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+2.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+3.CDC.Varicella: Postexposure Prophylaxis.CDC Pink Book.2021.Accessed April 30, 2025.
+3.CDC.Varicella: Postexposure Prophylaxis.CDC Pink Book.2021.Accessed April 30, 2025.
+
+【水痘疫苗的禁忌症和注意事项】
+水痘疫苗的禁忌证如下：
+曾有此类疫苗接种后严重过敏史（如过敏性休克）或对疫苗某一成分严重过敏（包括新霉素和/或明胶）
+曾有此类疫苗接种后严重过敏史（如过敏性休克）或对疫苗某一成分严重过敏（包括新霉素和/或明胶）
+已知严重的原发性或获得性免疫缺陷（例如，由于白血病、淋巴瘤、实体瘤、影响骨髓或淋巴系统的肿瘤、严重HIV感染、化疗或长期使用免疫抑制剂）
+已知严重的原发性或获得性免疫缺陷（例如，由于白血病、淋巴瘤、实体瘤、影响骨髓或淋巴系统的肿瘤、严重HIV感染、化疗或长期使用免疫抑制剂）
+一级亲属有先天性遗传性免疫缺陷病的家族史
+一级亲属有先天性遗传性免疫缺陷病的家族史
+确诊或疑似怀孕
+确诊或疑似怀孕
+艾滋病病毒感染任何严重程度的患者不应接种联合 MMRV 疫苗。单抗原水痘疫苗可用于1至8岁HIV感染儿童（CD4百分比≥15）；对于＞8岁者，若CD4百分比≥15且CD4计数≥200/微升且无免疫证据，亦可接种。
+水痘疫苗的注意事项如下：
+伴或不伴发热的中度或重度急性疾病（接种应推迟到疾病缓解后进行）
+伴或不伴发热的中度或重度急性疾病（接种应推迟到疾病缓解后进行）
+近期（11个月内）接受过含抗体的血液制品治疗（具体间隔时间取决于制品类型）
+近期（11个月内）接受过含抗体的血液制品治疗（具体间隔时间取决于制品类型）
+对于特定的抗病毒药物：阿昔洛韦、泛昔洛韦或伐昔洛韦（如果可能，应在接种前24小时停用这些药物，接种后14天内不得恢复使用）
+对于特定的抗病毒药物：阿昔洛韦、泛昔洛韦或伐昔洛韦（如果可能，应在接种前24小时停用这些药物，接种后14天内不得恢复使用）
+使用阿司匹林或含阿司匹林成分的药品
+使用阿司匹林或含阿司匹林成分的药品
+哺乳不是接种的禁忌证。 哺乳期女性如无免疫证据，可在产后接种疫苗，并可继续母乳喂养。
+
+【水痘疫苗的剂量和给药】
+水痘疫苗剂量为0.5 mL，皮下注射，分2剂接种：在12至15个月龄和4至6岁时，通常与麻腮风疫苗（MMR）联合接种。 如果儿童、青少年或成人只接种过1剂，建议再补接种一次。  两次接种的推荐间隔时间如下：年龄≤12岁的儿童，第1剂与第2剂间隔3月；年龄≥13岁的人群，两剂之间间隔4周。第二剂可以在长于此推荐间隔时间的任何时间点接种。
+如果有成人认为他们之前未曾感染水痘，或可能暴露于水痘病毒或传播水痘（例如，医护人员），则应测定保护性抗体的水平，以检查免疫证据并确定是否需要接种疫苗。
+疫苗接种的前5个月和接种后2个月不应使用免疫球蛋白，尤其是水痘-带状疱疹免疫球蛋白，因为免疫球蛋白可能阻碍保护性抗体的产生。
+符合接种条件的HIV感染儿童，予以接种2剂单一抗原的水痘疫苗，两剂之间间隔3个月。  由于受损的细胞免疫会增加活疫苗接种后发生并发症的风险，所以应鼓励他们在接种后出现水痘样皮疹时返回接种点进行评估。
+建议妇女在产前评估时检测一下水痘免疫力的情况。  对于孕妇来讲，在1980年前出生的情况不能算作具备水痘免疫力的证据。  完成或终止妊娠后，对于不具备能证明拥有水痘免疫力的依据的妇女，应该出院前给予1剂水痘疫苗接种，随后的4至8周，通常在产后访视时给予第2剂疫苗接种。  建议妇女在每次疫苗接种后的1月内避免怀孕。
+
+【水痘疫苗的不良反应】
+大多数不良反应很小，包括注射部位的短暂疼痛、压痛、肿胀和红斑。
+有时，在接种疫苗一个月内，1-3% 的接种者会出现轻微的丘疹或类似水痘的皮疹。出现此类皮疹的接种者应严格避免接触免疫功能低下者直至皮疹消退。
+病毒从疫苗接种者传播到易感人群的情况很少见，但可能导致严重问题，包括肺炎、肝炎、严重皮疹和伴有脑膜炎的带状疱疹。然而，这样的问题很少发生。
+因可能引发瑞氏综合征，<16 岁以下接种者应在接种后 6 周内避免使用水杨酸类药物（如阿司匹林）。
+有关这些疫苗不良反应的更多信息，请参阅处方信息。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Varicella (Chickenpox) Vaccine
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Varicella (Chickenpox) Vaccine
+American Academy of Pediatrics (AAP):Recommended Child and Adolescent Immunization Schedule for Ages 18 Years or Younger, United States, 2025
+American Academy of Pediatrics (AAP):Recommended Child and Adolescent Immunization Schedule for Ages 18 Years or Younger, United States, 2025
+Centers for Disease Control and Prevention (CDC):Centers for Disease Control and Prevention (CDC): Varicella (Chickenpox)
+Centers for Disease Control and Prevention (CDC):Centers for Disease Control and Prevention (CDC): Varicella (Chickenpox)
+European Centre for Disease Prevention and Control (ECDC):Varicella: Recommended vaccinations
+European Centre for Disease Prevention and Control (ECDC):Varicella: Recommended vaccinations

@@ -1,0 +1,76 @@
+标题：束支传导阻滞和分支传导阻滞
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/bundle-branch-block-and-fascicular-block
+============================================================
+
+(参见心律失常概述）。
+传导阻滞（见图通过心脏的电传导通路）可由许多心脏病变引起，包括内在的退行性变而无其他有关的心脏疾病。
+
+【心脏的电传导通路】
+心脏的电传导通路
+窦房结（1）启动流经左右心房（2）的电脉冲，使其收缩。当电脉冲到达房室结（3）时，它会稍微延迟。然后，脉冲沿着His束（4）向下传播，His束分为供应右心室的右束支（5）和供应左心室的左束支（5）。然后，冲动通过心室传播，使心室收缩。
+在成人中，两个心室通常同时激活，因此 QRS 持续时间 ≤ 0.11 秒。当心室依次激活时，QRS 持续时间 > 0.12 秒。宽 QRS 波可由一个心室早期激活引起，如起源于心室的节律（心室节律或心室起搏节律）或心室预激（见图沃尔夫-帕金森-怀特模式）；或由一个心室延迟激活引起，例如右束支传导阻滞或左束支传导阻滞。
+右束支传导阻滞（RBBB—见图右束支传导阻滞) 成人心电图标准 (1) 如下：
+QRS 持续时间 ≥ 0.12 秒
+QRS 持续时间 ≥ 0.12 秒
+V1 或 V2 导联中的 rsr'、rsR' 或 rSR' QRS 模式
+V1 或 V2 导联中的 rsr'、rsR' 或 rSR' QRS 模式
+右心室激活时间延迟，表现为 V1 导联 QRS 起始至最后一个 R 波峰值时间 > 0.05 秒
+右心室激活时间延迟，表现为 V1 导联 QRS 起始至最后一个 R 波峰值时间 > 0.05 秒
+左心室激活时间正常，表现为 V5 和 V6 导联中 QRS 起始至最后一个 R 波峰值时间小于 0.045 秒
+左心室激活时间正常，表现为 V5 和 V6 导联中 QRS 起始至最后一个 R 波峰值时间小于 0.045 秒
+I 和 V6 导联中 S 波时限大于 R 波时限或 S 波时限 > 0.04 秒
+I 和 V6 导联中 S 波时限大于 R 波时限或 S 波时限 > 0.04 秒
+RBBB 会产生继发性复极变化，包括 ST 段压低和 T 波倒置，尤其是在 V1 中。不完全性右束支传导阻滞（也称为右心室传导延迟）具有与 RBBB 相同的心电图标准，即 QRS 持续时间 > 0.11 秒但 < 0.12 秒。当 V1 导联呈现 qR 模式，且满足 RBBB 的其他标准时，可诊断为 RBBB 和室间隔心肌梗死（或其他室间隔损伤）。
+RBBB 可能发生在无心脏病迹象的人群中（2）。也可能发生在前壁心肌梗死的病人中，提示有广泛的心肌损伤。短暂性右束支传导阻滞可能发生于肺栓塞并表明右心室功能障碍严重。RBBB的存在应促使寻找潜在的心脏病理变化(2)，但通常找不到任何病变虽然RBBB使QRS波群畸形，但它对既往心肌梗死的心电图诊断标准没有明显干扰。
+在没有心脏病或更严重的心室间传导障碍的证据的情况下，RBBB 似乎并不表示未来发生心血管事件的风险更高。此外，单独的 RBBB 不会产生任何症状。因此，单独的 RBBB 不需要特殊治疗（3）。
+
+【右束支传导阻滞】
+右束支传导阻滞
+左束支传导阻滞（LBBB—见图左束支传导阻滞) 成人心电图检查标准为（1）
+QRS 持续时间 ≥ 0.12 秒
+QRS 持续时间 ≥ 0.12 秒
+I、aVL、V5 和 V6 导联中出现宽切迹或模糊的 R 波，且 Q 波缺失。
+I、aVL、V5 和 V6 导联中出现宽切迹或模糊的 R 波，且 Q 波缺失。
+左心室激活时间延迟，表现为 V5 和 V6 导联中 QRS 起始至最后一个 R 波峰值时间 > 0.06 秒
+左心室激活时间延迟，表现为 V5 和 V6 导联中 QRS 起始至最后一个 R 波峰值时间 > 0.06 秒
+右心室激活时间正常，表现为 V1 导联中 QRS 起始至最后一个 R 波峰值时间小于 0.035 秒
+右心室激活时间正常，表现为 V1 导联中 QRS 起始至最后一个 R 波峰值时间小于 0.035 秒
+LBBB 产生二次复极变化，包括 QRS 复合波相反方向的 ST 和 T 波偏差。不完全性左束支传导阻滞 (也称为左心室传导延迟) 具有与 LBBB 相同的心电图标准，即 QRS 持续时间 > 0.11 秒但 < 0.12 秒。当 aVL 导联出现显著的 q 波，同时满足 LBBB 的其他标准时，可诊断为 LBBB 和室间隔心肌梗死（或其他室间隔损伤）。否则，LBBB 会妨碍使用既往心肌梗死的心电图常规诊断标准。
+LBBB 与结构性心脏疾病的关系比 RBBB 更密切，并且与 RBBB 相反，LBBB 与未来心脏事件和死亡的更高风险相关。也可能发生在前壁心肌梗死的病人中，提示有广泛的心肌损伤。LBBB 的存在应促使寻找潜在的心脏病理；与 RBBB 患者相比，LBBB 患者更常伴有基础心脏病理（3）。
+单独的 LBBB 很少产生症状，但可能产生心室间机械不同步，从而降低左心室收缩功能的效率，并可能导致心力衰竭，特别是与其他降低左心室收缩功能的心脏疾病有关时。再同步起搏治疗是有益的（4）。
+
+【左束支传导阻滞】
+左束支传导阻滞
+分支阻滞涉及左束支的前或后分支。左前分支中断导致左前半传导阻滞，其特征是（1）
+轻度 QRS 延长（<0.12秒）
+轻度 QRS 延长（<0.12秒）
+额面 QRS 电轴小于−45°（电轴左偏）
+额面 QRS 电轴小于−45°（电轴左偏）
+aVL 导联中的 qR 模式
+aVL 导联中的 qR 模式
+左前侧心室激活时间延迟，表现为 aVL 导联 QRS 起始至最后一个 R 波峰值时间 > 0.045 秒
+左前侧心室激活时间延迟，表现为 aVL 导联 QRS 起始至最后一个 R 波峰值时间 > 0.045 秒
+左后分支阻滞导致左后半传导阻滞，其特征是（1）
+轻度 QRS 延长（< 0.12 秒）
+轻度 QRS 延长（< 0.12 秒）
+额平面 QRS 电轴大于+120°
+额平面 QRS 电轴大于+120°
+aVL 导联中的 rS 模式
+aVL 导联中的 rS 模式
+II 和 aVF 导联中的 qR 模式
+II 和 aVF 导联中的 qR 模式
+分支阻滞和结构性心脏病之间的关系与LBBB相同。单独的左后半传导阻滞很少见。单独的左前半传导阻滞更为常见，但似乎并不与未来心脏事件或死亡风险的增加独立相关。
+半阻滞可与其他传导障碍共存：RBBB和左前或后半阻滞（双束阻滞）；以及RBBB、左前半阻滞或左后半阻滞，以及一级房室（AV）阻滞（有时被错误地称为三束阻滞；不正确，因为一级阻滞通常起源于房室结)。
+三分支阻滞指RBBB伴有交替性左前和左后分支阻滞或交替性LBBB和RBBB。心肌梗死后双分支或三分支阻滞的存在提示广泛的心肌损害。
+双分支阻滞不需要直接治疗，除非存在有间歇性Ⅱ度或Ⅲ度房室传导阻滞。真正的三分支阻滞需要立即起搏治疗，然后永久起搏(3)。
+当QRS波群增宽（>0.12 秒），但QRS图形不是典型的LBBB或RBBB时，诊断为非特异性心室内传导障碍(1)。传导延迟可能发生在浦肯野纤维更远端，为细胞至细胞间的缓慢传导所致。非特异性心室内传导缺陷导致的后续心脏事件和死亡风险与 LBBB 相似。因此，需要评估潜在的结构性心脏疾病。单独的心室内传导延迟不会产生任何症状。没有具体的治疗指征 (3)。
+
+【参考文献】
+1.Surawicz B, Childers R, Deal BJ, et al: AHA/ACCF/HRS recommendations for the standardization and interpretation of the electrocardiogram: part III: intraventricular conduction disturbances: a scientific statement from the American Heart Association Electrocardiography and Arrhythmias Committee, Council on Clinical Cardiology; the American College of Cardiology Foundation; and the Heart Rhythm Society.Endorsed by the International Society for Computerized Electrocardiology.J Am Coll Cardiol53(11):976–981, 2009.doi: 10.1016/j.jacc.2008.12.013
+1.Surawicz B, Childers R, Deal BJ, et al: AHA/ACCF/HRS recommendations for the standardization and interpretation of the electrocardiogram: part III: intraventricular conduction disturbances: a scientific statement from the American Heart Association Electrocardiography and Arrhythmias Committee, Council on Clinical Cardiology; the American College of Cardiology Foundation; and the Heart Rhythm Society.Endorsed by the International Society for Computerized Electrocardiology.J Am Coll Cardiol53(11):976–981, 2009.doi: 10.1016/j.jacc.2008.12.013
+2.MacLachlan H, Antonakaki A, Bhatia R, et al: Prevalence and Clinical Significance of Electrocardiographic Complete Right Bundle Branch Block in Young Individuals.Eur J Prev Cardiol2024 Feb 27:zwae082, 2024.doi: 10.1093/eurjpc/zwae082
+2.MacLachlan H, Antonakaki A, Bhatia R, et al: Prevalence and Clinical Significance of Electrocardiographic Complete Right Bundle Branch Block in Young Individuals.Eur J Prev Cardiol2024 Feb 27:zwae082, 2024.doi: 10.1093/eurjpc/zwae082
+3.Kusumoto FM, Schoenfeld MH, Barrett C, et al: 2018 ACC/AHA/HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Heart Rhythm16(9):e128–e226, 2019.doi: 10.1016/j.hrthm.2018.10.037
+3.Kusumoto FM, Schoenfeld MH, Barrett C, et al: 2018 ACC/AHA/HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Heart Rhythm16(9):e128–e226, 2019.doi: 10.1016/j.hrthm.2018.10.037
+4.Wells G, Parkash R, Healey JS, et al: Cardiac resynchronization therapy: a meta-analysis of randomized controlled trials.CMAJ183(4):421–429, 2011.doi: 10.1503/cmaj.101685
+4.Wells G, Parkash R, Healey JS, et al: Cardiac resynchronization therapy: a meta-analysis of randomized controlled trials.CMAJ183(4):421–429, 2011.doi: 10.1503/cmaj.101685

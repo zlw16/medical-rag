@@ -1,0 +1,308 @@
+标题：糖尿病的急性并发症
+来源：https://www.msdmanuals.cn/professional/endocrine-and-metabolic-disorders/diabetes-mellitus-and-hypoglycemia/acute-complications-of-diabetes-mellitus
+============================================================
+
+糖尿病的急性并发症包括糖尿病酮症酸中毒和高渗高血糖状态。酒精性酮症酸中毒虽非糖尿病并发症，但因其生理机制和治疗方法与糖尿病部分重叠，故在此讨论。
+
+【糖尿病性酮症酸中毒】
+糖尿病酮症酸中毒是一种糖尿病的急性代谢性并发症，以高血糖、高酮血症和代谢性酸中毒为特征。 高血糖引起渗透性利尿，伴有明显的体液和电解质流食。DKA主要发生于1型糖尿病，可出现恶心、呕吐和腹痛，并可发展为脑水肿、昏迷甚至死亡。诊断主要根据高血糖伴有高酮血症和高阴离子间隙代谢性酸中毒。治疗措施包括扩容、胰岛素替代和预防低钾血症。
+糖尿病酮症酸中毒是一种糖尿病的急性代谢性并发症，以高血糖、高酮血症和代谢性酸中毒为特征。 高血糖引起渗透性利尿，伴有明显的体液和电解质流食。DKA主要发生于1型糖尿病，可出现恶心、呕吐和腹痛，并可发展为脑水肿、昏迷甚至死亡。诊断主要根据高血糖伴有高酮血症和高阴离子间隙代谢性酸中毒。治疗措施包括扩容、胰岛素替代和预防低钾血症。
+糖尿病酮症酸中毒（DKA）主要发生于1型糖尿病患者，在2型糖尿病患者中较少见。当胰岛素水平不足以满足身体的基本代谢需求时，就会发生这种情况。在大约三分之一的患者中，DKA（糖尿病酮症酸中毒）是 1 型糖尿病的最初症状表现（1）。胰岛素缺乏可以是绝对的（例如外源性胰岛素中断期间）也可以是相对的（例如急性感染、外伤或其他生理应激情况下平时的胰岛素用量不能满足代谢需要）。
+诱发糖尿病酮症酸中毒（DKA）的常见生理应激包括：
+急性感染（例如，肺炎,尿路感染,新冠肺炎）
+急性感染（例如，肺炎,尿路感染,新冠肺炎）
+心肌梗死
+心肌梗死
+胰岛素漏注射
+胰岛素漏注射
+引起DKA的一些药物包括:
+钠-葡萄糖共转运蛋白2（SGLT2）抑制剂
+钠-葡萄糖共转运蛋白2（SGLT2）抑制剂
+糖皮质激素
+糖皮质激素
+噻嗪利尿剂
+噻嗪利尿剂
+拟交感类药物
+拟交感类药物
+2型糖尿病中DKA较少见，但在严重的生理应激情况下也可能发生。酮症倾向的 2 型糖尿病（也称为 Flatbush 糖尿病）是 2 型糖尿病的一种变体，有时会发生在肥胖患者中，通常是具有非洲（包括非裔美国人或非裔加勒比人）血统的患者 (2)。酮症倾向糖尿病 患者可能有beta细胞功能显著损害所致的高血糖症，因此更有可能在显著高血糖的情况下发展为DKA。
+SGLT-2抑制剂已被证实可导致 1 型和 2 型糖尿病患者出现DKA（3）。对于孕妇患者以及正在服用 SGLT2 抑制剂的患者而言，糖尿病酮症酸中毒（DKA）可能在较低的血糖水平（甚至正常血糖水平）下发生（即血糖正常型糖尿病酮症酸中毒）。血糖正常型糖尿病酮症酸中毒（即血糖水平正常但伴有酮体积聚的酮症酸中毒）也可能由过度饮酒或肝硬化引起。
+
+【参考文献】
+1.Dovc K, Neuman V, Gita G, et al.Association of Diabetic Ketoacidosis at Onset, Diabetes Technology Uptake, and Clinical Outcomes After 1 and 2 Years of Follow-up: A Collaborative Analysis of Pediatric Registries Involving 9,269 Children With Type 1 Diabetes From Nine Countries.Diabetes Care.2025;48(4):648-654.doi:10.2337/dc24-2483
+1.Dovc K, Neuman V, Gita G, et al.Association of Diabetic Ketoacidosis at Onset, Diabetes Technology Uptake, and Clinical Outcomes After 1 and 2 Years of Follow-up: A Collaborative Analysis of Pediatric Registries Involving 9,269 Children With Type 1 Diabetes From Nine Countries.Diabetes Care.2025;48(4):648-654.doi:10.2337/dc24-2483
+2.Lebovitz HE, Banerji MA.Ketosis-Prone Diabetes (Flatbush Diabetes): an Emerging Worldwide Clinically Important Entity.Curr Diab Rep.2018;18(11):120.Published 2018 Oct 2.doi:10.1007/s11892-018-1075-4
+2.Lebovitz HE, Banerji MA.Ketosis-Prone Diabetes (Flatbush Diabetes): an Emerging Worldwide Clinically Important Entity.Curr Diab Rep.2018;18(11):120.Published 2018 Oct 2.doi:10.1007/s11892-018-1075-4
+3.Wang Y, Qin Y, Zhang J, et al.Sodium-Glucose Cotransporter-2 Inhibitors and Diabetic-Ketoacidosis in T2DM Patients: An Updated Meta-Analysis and a Mendelian Randomization Analysis.Clin Pharmacol Ther.2025;117(6):1661-1669.doi:10.1002/cpt.3615
+3.Wang Y, Qin Y, Zhang J, et al.Sodium-Glucose Cotransporter-2 Inhibitors and Diabetic-Ketoacidosis in T2DM Patients: An Updated Meta-Analysis and a Mendelian Randomization Analysis.Clin Pharmacol Ther.2025;117(6):1661-1669.doi:10.1002/cpt.3615
+
+【DKA的病理生理】
+胰岛素缺乏和反调节激素增加（胰高血糖素、儿茶酚胺、皮质醇）导致身体代谢甘油三酯和氨基酸来获取能量，而不是葡萄糖。由于不受限制的脂肪分解，血清甘油和游离脂肪酸水平升高。由于肌肉分解代谢，丙氨酸水平升高。甘油和丙氨酸为肝糖异生提供底物，这种过程由伴随胰岛素缺乏的胰高血糖素过量所刺激。
+胰高糖素也可刺激线粒体将游离脂肪酸转化为酮体。胰岛素通常通过抑制游离脂肪酸衍生物转运进入线粒体而阻断酮体生成，但胰岛素缺乏时酮体可不断生成。 产生的酮体主要包括乙酰乙酸和beta-羟丁酸，两者均是可引起代谢性酸中毒的强有机酸。由乙酰乙酸代谢生成的丙酮在血液中不断堆积，通过呼吸缓慢清除。
+由胰岛素缺乏引起的高血糖会诱发渗透性利尿作用，使水和电解质大量丢失。 尿酮排泄造成钠和钾的额外丢失。 血清钠可因尿钠排泄而降低，也可因游离水大量排泄而升高。
+钾也大量丢失。 尽管总体钾水平明显下降，但由于酸中毒时钾离子转移至细胞外，初期的血钾水平通常正常或者升高。治疗过程中，血钾水平会进一步下降，因为胰岛素促使钾离子进入细胞内。 如果不监测血钾并按需补钾，可发生致命性的低血钾。
+
+【DKA的症状和体征】
+DKA的临床表现包括高血糖的症状和体征，加上恶心、呕吐以及腹痛（特别是儿童）。失代偿更严重时，可出现嗜睡。 患者可因脱水和酸中毒而发生低血压和心动过速；他们以呼吸深、快来代偿酸中毒（Kussmaul呼吸）。呼出气体因含丙酮而有烂苹果味。DKA本身不会引起发热，如果出现，说明有隐蔽感染。如不及时治疗，可导致昏迷和死亡。
+急性脑水肿是DKA患者中发生率低于1%的并发症（1，2），主要发生在儿童，其次是青少年和年轻成人。尽管头痛和意识水平的波动是某些患者发生脑水肿的先兆，但另一些患者一开始即表现为呼吸停止。原因还不清楚，可能与血液渗透压下降过快或脑缺血有关。主要针对儿童的研究显示，就诊时血尿素氮水平最高且动脉血二氧化碳分压最低者风险最大。低钠血症的纠正延误以及在糖尿病酮症酸中毒治疗过程中使用碳酸氢盐，也是其他可能的风险因素(3)。
+
+【症状和体征参考】
+1.Edge JA, Hawkins MM, Winter DL, Dunger DB.The risk and outcome of cerebral oedema developing during diabetic ketoacidosis.Arch Dis Child.2001;85(1):16-22.doi:10.1136/adc.85.1.16
+1.Edge JA, Hawkins MM, Winter DL, Dunger DB.The risk and outcome of cerebral oedema developing during diabetic ketoacidosis.Arch Dis Child.2001;85(1):16-22.doi:10.1136/adc.85.1.16
+2.Lawrence SE, Cummings EA, Gaboury I, Daneman D.Population-based study of incidence and risk factors for cerebral edema in pediatric diabetic ketoacidosis.J Pediatr.2005;146(5):688-692.doi:10.1016/j.jpeds.2004.12.041
+2.Lawrence SE, Cummings EA, Gaboury I, Daneman D.Population-based study of incidence and risk factors for cerebral edema in pediatric diabetic ketoacidosis.J Pediatr.2005;146(5):688-692.doi:10.1016/j.jpeds.2004.12.041
+3.Nigrovic LE, Kuppermann N, Ghetti S, et al.Emergency Department Presentations of Diabetic Ketoacidosis in a Large Cohort of Children.Pediatr Diabetes.2023;2023:6693226.doi:10.1155/2023/6693226
+3.Nigrovic LE, Kuppermann N, Ghetti S, et al.Emergency Department Presentations of Diabetic Ketoacidosis in a Large Cohort of Children.Pediatr Diabetes.2023;2023:6693226.doi:10.1155/2023/6693226
+
+【DKA的诊断】
+动脉血气分析（血pH）
+动脉血气分析（血pH）
+血清葡萄糖
+血清葡萄糖
+血清和尿液中的酮体
+血清和尿液中的酮体
+计算阴离子间隙
+计算阴离子间隙
+血清电解质、BUN、肌酐
+血清电解质、BUN、肌酐
+疑诊糖尿病酮症酸中毒的患者，应检测血电解质、血尿素氮（BUN）、肌酐、血糖、酮体和血浆渗透压。同时检测尿酮体。 一般状况差且酮体阳性的患者应进行动脉血气分析。
+糖尿病酮症酸中毒诊断标准包括（1、2、3）：
+动脉或静脉pH值<7.30
+动脉或静脉pH值<7.30
+阴离子间隙>> 10至12 mEq/L（10至12 mmol/L）
+阴离子间隙>> 10至12 mEq/L（10至12 mmol/L）
+血清碳酸氢根＜15至18mEq/L（15至18mmol/L）
+血清碳酸氢根＜15至18mEq/L（15至18mmol/L）
+血清或尿液酮体阳性
+血清或尿液酮体阳性
+血糖＞200至250mg/dL（11.1至13.8mmol/L）
+血糖＞200至250mg/dL（11.1至13.8mmol/L）
+部分指南在诊断 DKA 时不要求必须达到特定血糖阈值，对于已明确诊断糖尿病的患者，可不设定具体血糖下限，这是因为 DKA 可发生于血糖正常或仅轻度升高的患者（即正常血糖性 DKA）（1,2,3）。
+当尿液葡萄糖和酮类在尿液分析中呈阳性时，可作出推定诊断。 尿液检测试纸和一些血酮测定方法可能会低估酮症的程度，因为这些方法检测的是乙酰乙酸而不是beta-羟丁酸，而后者通常是主要的酮酸。如果血清或尿液酮含量低，可测量血β-羟丁酸，或根据临床怀疑和阴离子间隙酸中毒的存在开始治疗。
+除此之外，应排查DKA的诱发因素，注意相关病史、症状、体征，视情况行相关检查，如培养、影像学检查。 成年患者应检查心电图筛查急性心肌梗死，并帮助评估血钾异常的意义。
+其他实验室异常包括：
+低钠血症
+低钠血症
+血清肌酐升高
+血清肌酐升高
+血浆渗透压升高
+血浆渗透压升高
+酸中毒纠正后出现低钾血症
+酸中毒纠正后出现低钾血症
+血清淀粉酶及脂肪酶升高
+血清淀粉酶及脂肪酶升高
+高血糖可能会导致稀释性低钠血症，因此，血糖每升高100 mg/dL（5.6 mmol/L），测得的血清钠可通过添加1.6 mEq/L（1.6 mmol/L）来校正。
+随着酸中毒得到纠正，血清钾会下降。初始钾水平<4.5 mEq/L (< 4.5 mmol/L) 表示明显的钾耗竭，需要立即补充钾。
+血清淀粉酶和脂肪酶通常升高，即使没有胰腺炎（可能见于酒精性酮症酸中毒患者和合并高甘油三酯血症的患者）。
+
+【诊断参考】
+1.Buse JB, Wexler DJ, Tsapas A, et al: 2019 Update to: Management of Hyperglycemia in Type 2 Diabetes, 2018.A Consensus Report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD).Diabetes Care43(2):487–493, 2020. doi: 10.2337/dci19-0066
+1.Buse JB, Wexler DJ, Tsapas A, et al: 2019 Update to: Management of Hyperglycemia in Type 2 Diabetes, 2018.A Consensus Report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD).Diabetes Care43(2):487–493, 2020. doi: 10.2337/dci19-0066
+2.Garber AJ, Handelsman Y, Grunberger G, et al: Consensus statement by the American Association of Clinical Endocrinologists and American College of Endocrinology on the comprehensive type 2 diabetes management algorithm--2020 executive summary.Endocrine Practice26:107–139, 2020.
+2.Garber AJ, Handelsman Y, Grunberger G, et al: Consensus statement by the American Association of Clinical Endocrinologists and American College of Endocrinology on the comprehensive type 2 diabetes management algorithm--2020 executive summary.Endocrine Practice26:107–139, 2020.
+
+【DKA的治疗】
+静脉输注0.9%生理盐水进行液体复苏
+静脉输注0.9%生理盐水进行液体复苏
+纠正低血钾
+纠正低血钾
+静脉输注胰岛素（前提是血钾≥3.3mEq/L [3.3 mmol/L]）
+静脉输注胰岛素（前提是血钾≥3.3mEq/L [3.3 mmol/L]）
+极少静脉应用碳酸氢钠（除非治疗1小时后血pH值仍<7）
+极少静脉应用碳酸氢钠（除非治疗1小时后血pH值仍<7）
+糖尿病酮症酸中毒最迫切的治疗是快速扩容，纠正高血糖和酸中毒，预防低钾血症(1,2,3)。鉴别诱因也非常重要。
+大多数糖尿病酮症酸中毒（DKA）病例的治疗应在重症监护环境中进行，因为最初需要每小时或每隔一小时进行一次临床和实验室评估，并据此调整治疗方案。病情较轻者可在分级治疗病房或急诊室每 1～2 小时皮下注射胰岛素进行管理。
+
+【液体复苏】
+应迅速恢复血管内的血容量，以升高血压并确保肾小球的灌注（1，2，3）。成人初始的液体复苏通常是在第一个小时内通过静脉快速输注 1 至 1.5 升 0.9%的生理盐水溶液来实现的，之后则以每小时 250 至 500 毫升的速度持续输注生理盐水。可能需要额外快速输注液体或加快输液速度来纠正低血压。心力衰竭患者或有容量超负荷风险的患者可能需要较慢的输注速度。如果血清钠水平正常或高，在初始容积复苏后，用0.45%的生理盐水代替生理盐水一旦血容量恢复，剩余的全身水分不足会以更缓慢的速度进行纠正，通常需大约 24 小时。当血糖降到<200mg/dL(<11.1 mmol/L)时，应更换静脉输液，并将5%至10%的葡萄糖加入0.45%的盐水中。
+
+【纠正高血糖和酸中毒】
+成人患者可给予常规胰岛素0.1单位/公斤的初始静脉推注剂量。无论是否已给予推注剂量，成人患者均应持续静脉输注普通胰岛素0.1单位/kg/小时,溶于0.9%生理盐水中。当血钾≥3.3mEq/L(≥ 3.3 mmol/L)时应停止使用胰岛素。胰岛素吸附到输液管上会导致药效不稳定，用胰岛素溶液预冲洗输液管可以避免这一影响。如果第1小时内血糖的下降不到50～75 mg/dL（2.8～4.2 mmol/L），胰岛素剂量应加倍。
+如果给予足量胰岛素，酮体应在数小时内开始清除。 然而，酸中毒纠正时beta-羟丁酸转化为乙酰乙酸（大多数医院实验室所测定的“酮体”），可能使酮体的清除出现延迟。
+血清pH和碳酸氢钠水平可迅速改善，但血清碳酸氢钠要恢复到正常水平可能需要24小时。不应常规给予碳酸氢盐，因为它可能导致急性脑水肿（主要是儿童）。如果使用碳酸氢盐，仅当pH值<7 (4), 时才应开始，并且仅应在2小时内以50至100 mEq（50至100 mmol）的剂量尝试适度升高pH值，然后重复测量动脉pH值和血清钾。
+当成年患者的血糖水平降至<250 mg/dL (<13.9 mmol/L)时，应加用5-10%葡萄糖静滴以减少低血糖的发生风险(2,4)。可以调节葡萄糖浓度并降低胰岛素剂量，以维持葡萄糖150至200 mg/dL（8.3至11.1 mmol/L），但应维持常规胰岛素的连续静脉输注，直到连续2次血液检查中阴离子间隙缩小，血液和尿液中酮体始终为阴性。在使用 SGLT-2 抑制剂相关的DKA中，可能需要延长胰岛素和葡萄糖的治疗时间。
+当患者稳定并能进食时，开始典型的基础胰岛素治疗方案。静脉注射胰岛素应在给予初始剂量的基础皮下胰岛素后持续2小时。
+
+【低钾血症预防】
+预防低血钾需在每升静脉补液中加入20～30mEq (20～30 mmol)的钾，以使血钾维持在4～5mEq/L(4 ~ 5 mmol/L)。如果血钾<3.3 mEq/L (<3.3 mmol/L)，应停用（或暂时停用）胰岛素并以40 mEq/h的速率补钾直到血钾≥3.3 mEq/L (≥3.3 mmol/L)；如果血钾>5 mEq/L (>5 mmol/L)，应停止补钾。
+疾病开始时正常或增高的血钾可能反映了酸中毒时细胞内钾向细胞外转移，可能掩盖几乎所有糖尿病酮症酸中毒患者都存在的真实钾缺乏。胰岛素替代治疗会迅速将钾转移到细胞内，因此在治疗的初始阶段，应每小时或每隔1小时检查钾水平。
+
+【其他措施】
+糖尿病酮症酸中毒治疗期间常出现低磷血症，但除严重低磷血症（＜0.78mg/dL[＜0.32mmol/L]）外，补磷似无获益（5）。 如有必要（如出现横纹肌溶解、溶血或神经功能恶化），可输注磷酸钾盐1~2 mmol/kg持续超过6~12小时。 如给予磷酸钾，血清钙水平通常会降低，应监测。
+疑似脑水肿的治疗包括过度通气、糖皮质激素和甘露醇，但这些措施在患者出现呼吸停止后常无效。
+
+【治疗参考文献】
+1.American Diabetes Association Professional Practice Committee.6.Glycemic Goals and Hypoglycemia: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S128-S145.doi:10.2337/dc25-S006
+1.American Diabetes Association Professional Practice Committee.6.Glycemic Goals and Hypoglycemia: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S128-S145.doi:10.2337/dc25-S006
+2.Dhatariya KK; Joint British Diabetes Societies for Inpatient Care.The management of diabetic ketoacidosis in adults-An updated guideline from the Joint British Diabetes Society for Inpatient Care.Diabet Med.2022;39(6):e14788.doi:10.1111/dme.14788
+2.Dhatariya KK; Joint British Diabetes Societies for Inpatient Care.The management of diabetic ketoacidosis in adults-An updated guideline from the Joint British Diabetes Society for Inpatient Care.Diabet Med.2022;39(6):e14788.doi:10.1111/dme.14788
+3.Wolfsdorf JI, Glaser N, Agus M, et al.ISPAD Clinical Practice Consensus Guidelines 2018: Diabetic ketoacidosis and the hyperglycemic hyperosmolar state.Pediatr Diabetes.2018;19 Suppl 27:155-177.doi:10.1111/pedi.12701
+3.Wolfsdorf JI, Glaser N, Agus M, et al.ISPAD Clinical Practice Consensus Guidelines 2018: Diabetic ketoacidosis and the hyperglycemic hyperosmolar state.Pediatr Diabetes.2018;19 Suppl 27:155-177.doi:10.1111/pedi.12701
+4.American Diabetes Association Professional Practice Committee.16.Diabetes Care in the Hospital: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S321-S334.doi:10.2337/dc25-S016
+4.American Diabetes Association Professional Practice Committee.16.Diabetes Care in the Hospital: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S321-S334.doi:10.2337/dc25-S016
+5.Tran TTT, Pease A, Wood AJ, et al.Review of Evidence for Adult Diabetic Ketoacidosis Management Protocols.Front Endocrinol (Lausanne).2017;8:106.doi:10.3389/fendo.2017.00106
+5.Tran TTT, Pease A, Wood AJ, et al.Review of Evidence for Adult Diabetic Ketoacidosis Management Protocols.Front Endocrinol (Lausanne).2017;8:106.doi:10.3389/fendo.2017.00106
+
+【DKA 的预后】
+糖尿病酮症酸中毒的总体死亡率<1％ (1)；但老年人和其他致命疾病患者的死亡率更高。与1型糖尿病相比，2型糖尿病、脓毒症、意识水平改变以及肥胖亦与死亡风险增加显著相关（2，3）。成人糖尿病酮症酸中毒（DKA）患者发生脑水肿被认为非常罕见。
+
+【预后参考】
+1.Umpierrez G, Korytkowski M.Diabetic emergencies - ketoacidosis, hyperglycaemic hyperosmolar state and hypoglycaemia.Nat Rev Endocrinol.2016;12(4):222-232.doi:10.1038/nrendo.2016.15
+1.Umpierrez G, Korytkowski M.Diabetic emergencies - ketoacidosis, hyperglycaemic hyperosmolar state and hypoglycaemia.Nat Rev Endocrinol.2016;12(4):222-232.doi:10.1038/nrendo.2016.15
+2.Eledrisi MS, Alkabbani H, Aboawon M, et al.Clinical characteristics and outcomes of care in patients hospitalized with diabetic ketoacidosis.Diabetes Res Clin Pract.2022;192:110041.doi:10.1016/j.diabres.2022.110041
+2.Eledrisi MS, Alkabbani H, Aboawon M, et al.Clinical characteristics and outcomes of care in patients hospitalized with diabetic ketoacidosis.Diabetes Res Clin Pract.2022;192:110041.doi:10.1016/j.diabres.2022.110041
+3.Sato Y, Morita K, Okada A, Matsui H, Fushimi K, Yasunaga H.Factors affecting in-hospital mortality of diabetic ketoacidosis patients: A retrospective cohort study.Diabetes Res Clin Pract.2021;171:108588.doi:10.1016/j.diabres.2020.108588
+3.Sato Y, Morita K, Okada A, Matsui H, Fushimi K, Yasunaga H.Factors affecting in-hospital mortality of diabetic ketoacidosis patients: A retrospective cohort study.Diabetes Res Clin Pract.2021;171:108588.doi:10.1016/j.diabres.2020.108588
+糖尿病酮症酸中毒是一种糖尿病的急性代谢性并发症，以高血糖、高酮血症和代谢性酸中毒为特征。
+糖尿病酮症酸中毒是一种糖尿病的急性代谢性并发症，以高血糖、高酮血症和代谢性酸中毒为特征。
+当急性生理应激因素（例如感染、心肌梗死）引发酸中毒、血糖适度升高、脱水以及严重的钾流失时，就可能会出现糖尿病酮症酸中毒（DKA），这种情况在 1 型糖尿病患者中尤为常见。
+当急性生理应激因素（例如感染、心肌梗死）引发酸中毒、血糖适度升高、脱水以及严重的钾流失时，就可能会出现糖尿病酮症酸中毒（DKA），这种情况在 1 型糖尿病患者中尤为常见。
+诊断依据包括动脉血 pH<7.30、存在血清或尿酮体、血糖升高、血清碳酸氢盐降低和/或阴离子间隙升高。
+诊断依据包括动脉血 pH<7.30、存在血清或尿酮体、血糖升高、血清碳酸氢盐降低和/或阴离子间隙升高。
+通过静脉输液和胰岛素纠正酸中毒和高血糖。
+通过静脉输液和胰岛素纠正酸中毒和高血糖。
+暂停胰岛素，直到血钾≥3.3 mEq/L（≥3.3 mmol/L）。
+暂停胰岛素，直到血钾≥3.3 mEq/L（≥3.3 mmol/L）。
+急性脑水肿是一种罕见但致命的并发症。
+急性脑水肿是一种罕见但致命的并发症。
+
+【（高渗性高血糖状态HHS）】
+高渗高血糖综合征是糖尿病的一种代谢性并发症，以严重高血糖、严重脱水、血液高渗和意识改变为特点常发生于2型糖尿病患者，特别是在应激情况下。高渗性高血糖状态的诊断包括严重的高血糖和血浆高渗透压，但无明显酮症。治疗方法是静脉输注生理盐水和胰岛素。并发症包括昏迷，癫痫和死亡。
+高渗高血糖综合征是糖尿病的一种代谢性并发症，以严重高血糖、严重脱水、血液高渗和意识改变为特点常发生于2型糖尿病患者，特别是在应激情况下。高渗性高血糖状态的诊断包括严重的高血糖和血浆高渗透压，但无明显酮症。治疗方法是静脉输注生理盐水和胰岛素。并发症包括昏迷，癫痫和死亡。
+高渗性高血糖状态（以前称为高血糖高渗性非酮症昏迷[HHNK]和非酮症高渗性综合征[NKHS]）是2型糖尿病的并发症，估计死亡率高达约2%，高于糖尿病酮症酸中毒的死亡率（目前<1%）（1）。
+通常在出现高血糖症状一段时间以后才发生，因在此期间摄取的液体量不足以阻止高血糖渗透性利尿所致的极度脱水。
+诱发因素包括:
+急性感染及其他内科情况
+急性感染及其他内科情况
+药物引起的糖耐量受损（糖皮质激素）或液体丢失增加（利尿剂）
+药物引起的糖耐量受损（糖皮质激素）或液体丢失增加（利尿剂）
+糖尿病治疗的依从性差
+糖尿病治疗的依从性差
+血清酮是不存在的，因为大多数2型糖尿病患者体内的胰岛素量足以抑制酮体生成。由于没有酸中毒症状，大多数患者的渗透性利尿时间明显更长（肾小管中葡萄糖的溶质浓度高，导致水分流失过多）。这会导致症状出现前有更严重的脱水，因此血浆葡萄糖水平（>600 毫克/分升[>33.3mmol/L]) 和渗透压 (>320mOsm/L) 通常远高于糖尿病酮症酸中毒。
+
+【参考文献】
+1.American Diabetes Association Professional Practice Committee.6.Glycemic Goals and Hypoglycemia: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S128-S145.doi:10.2337/dc25-S006
+1.American Diabetes Association Professional Practice Committee.6.Glycemic Goals and Hypoglycemia: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S128-S145.doi:10.2337/dc25-S006
+
+【高渗性高血糖状态的症状和体征】
+高渗性高血糖状态的主要症状是意识改变，从意识混乱或定向障碍到昏迷，通常是极度脱水，伴或不伴肾前性氮质血症、高血糖和高渗透压的结果。与糖尿病酮症酸中毒不同，NKHS可出现局部或全身性癫痫发作，以及短暂性偏瘫。
+
+【高渗性高血糖状态的诊断】
+HHS的诊断标准为（1）：
+血糖≥600mg/dL（33.3mmol/L）
+血糖≥600mg/dL（33.3mmol/L）
+血清渗透压 > 300 mOsm/kg
+血清渗透压 > 300 mOsm/kg
+无酮症:尿酮体 < 2+或β-羟丁酸 < 3.0 mmol/L
+无酮症:尿酮体 < 2+或β-羟丁酸 < 3.0 mmol/L
+无酸中毒：pH ≥ 7.3 且血清碳酸氢盐 ≥ 15 mEq/L（15 mmol/L）
+无酸中毒：pH ≥ 7.3 且血清碳酸氢盐 ≥ 15 mEq/L（15 mmol/L）
+在精神状态改变的检查过程中，采得指尖血样中的血糖水平显著升高时，初步怀疑高渗透压高血糖状态。如果尚未获得测量值，则应检测尿液中的酮体，并应在血样中测量以下内容：
+血电解质
+血电解质
+血尿素氮 （BUN）
+血尿素氮 （BUN）
+血浆渗透压
+血浆渗透压
+血清钾水平通常正常，但血清钠可能降低或升高，取决于容量不足的情况。
+高血糖可能会导致稀释性低钠血症，因此，血糖每升高100 mg/dL（5.6 mmol/L），测得的血清钠可通过添加1.6 mEq/L（1.6 mmol/L）来校正。
+BUN和血清肌酐水平显著升高。
+动脉血pH通常>7.3；但是由于乳酸堆积，偶尔可发生轻微的代谢性酸中毒。
+液体缺失量超过10L，急性循环衰竭是常见的死亡原因。尸检中常可见到广泛的血栓形成，一些患者可能因弥漫性血管内凝血（DIC）而发生出血。其他并发症包括吸入性肺炎、急性肾衰和急性呼吸窘迫综合征。
+DKA和HHS的特征同时存在并不罕见。例如,高渗性高血糖状态（HHS）患者常出现轻度酮血症。然而，如果高血糖高渗状态/糖尿病酮症酸中毒（HHS/DKA）重叠综合征患者存在显著酮血症和酸中毒，则应按照DKA方案给予胰岛素治疗。
+
+【诊断参考文献】
+1.American Diabetes Association Professional Practice Committee.6.Glycemic Goals and Hypoglycemia: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S128-S145.doi:10.2337/dc25-S006
+1.American Diabetes Association Professional Practice Committee.6.Glycemic Goals and Hypoglycemia: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S128-S145.doi:10.2337/dc25-S006
+
+【高渗性高血糖状态的治疗】
+静脉输注0.9%生理盐水
+静脉输注0.9%生理盐水
+纠正低血钾
+纠正低血钾
+静脉输注胰岛素（前提是血钾≥3.3mEq/L [≥3.3 mmol/L]）
+静脉输注胰岛素（前提是血钾≥3.3mEq/L [≥3.3 mmol/L]）
+所有高渗高血糖状态患者均应住院并在重症监护环境中管理。
+治疗包括静脉输注盐水、纠正低血钾和静脉输注胰岛素（1，2，3）。
+治疗是0.9%（等渗）盐水溶液；第一小时给药1000 mL。如果有心力衰竭加重或容量过大的风险，可以使用更小的剂量（500mL）。低血压患者可能需要额外的推注。
+第一小时后，应根据血流动力学和电解质状态调整静脉内液体，但通常应以250至500毫升/小时的速度继续。
+应计算校正后的钠。如果校正后钠<135mEq/升（<135 mmol/L)，然后可以继续使用等渗盐水。 如果校正后的钠正常或升高，则应使用0.45％盐水（半浓度生理盐水）。
+葡萄糖浓度达到250~300mg/dL(13.9 ~16.7 mmol/L)时，应添加葡萄糖。
+应根据血压，心功能状态和液体出入量来调整静脉输液速率。
+在输注第一升盐水并纠正低钾血症后，以0.05单位/kg/小时输注胰岛素。单独补充水分有时会急剧降低血糖，因此胰岛素可能需要减量。血浆渗透压的急剧下降可以导致中枢神经水肿。偶尔有胰岛素抵抗的2型糖尿病患者出现高渗性高血糖状态，需要加大胰岛素剂量。一旦血糖水平降到300mg/dL（16.7 mmol/L）时，胰岛素用量应减至基础水平（1～2U/h），直到补液完成且患者能够进食。
+如果高血糖高渗状态/糖尿病酮症酸中毒（HHS/DKA）重叠综合征患者存在显著酮血症和酸中毒，则应按照DKA方案给予胰岛素治疗。
+自急性发作期恢复后，患者通常换用胰岛素皮下注射，剂量需经调整,目标血糖水平介于250到300mg/dL(13.9-16.7mmol/L)。  从急性发作恢复后，患者通常换用调整剂量的皮下胰岛素。
+补钾与糖尿病酮症酸中毒相似：血清钾40 mmol/h<3.3 mmol/L （<3.3 mmol/L）;血清钾在3.3-4.9 mmol/L（3.3-4.9 mmol/L）之间，为20-30 mmol/h;血清钾≥5 mmol/L （≥5 mmol/L）时无。
+
+【治疗参考文献】
+1.American Diabetes Association Professional Practice Committee.16.Diabetes Care in the Hospital: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S321-S334.doi:10.2337/dc25-S016
+1.American Diabetes Association Professional Practice Committee.16.Diabetes Care in the Hospital: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S321-S334.doi:10.2337/dc25-S016
+2.Gosmanov AR, Gosmanova EO, Kitabchi AE.Hyperglycemic Crises: Diabetic Ketoacidosis and Hyperglycemic Hyperosmolar State.收录于: Feingold KR、Anawalt B、Blackman MR 等主编。Endotext。South Dartmouth (MA): MDText.com, Inc.; May 9, 2021.
+2.Gosmanov AR, Gosmanova EO, Kitabchi AE.Hyperglycemic Crises: Diabetic Ketoacidosis and Hyperglycemic Hyperosmolar State.收录于: Feingold KR、Anawalt B、Blackman MR 等主编。Endotext。South Dartmouth (MA): MDText.com, Inc.; May 9, 2021.
+3.French EK, Donihi AC, Korytkowski MT: Diabetic ketoacidosis and hyperosmolar hyperglycemic syndrome: review of acute decompensated diabetes in adult patients.BMJ.365:l1114, 2019.doi: 10.1136/bmj.l1114
+3.French EK, Donihi AC, Korytkowski MT: Diabetic ketoacidosis and hyperosmolar hyperglycemic syndrome: review of acute decompensated diabetes in adult patients.BMJ.365:l1114, 2019.doi: 10.1136/bmj.l1114
+高渗性高血糖状态 (HHS) 是糖尿病的一种代谢并发症，其特征是严重的高血糖、极度脱水、高渗性血浆和意识改变。
+高渗性高血糖状态 (HHS) 是糖尿病的一种代谢并发症，其特征是严重的高血糖、极度脱水、高渗性血浆和意识改变。
+如果2型糖尿病患者存在感染、依从性差、某些药物引发明显的血糖升高、脱水和意识改变，就会发生HHS。
+如果2型糖尿病患者存在感染、依从性差、某些药物引发明显的血糖升高、脱水和意识改变，就会发生HHS。
+患者体内有足够的胰岛素以预防酮症酸中毒。
+患者体内有足够的胰岛素以预防酮症酸中毒。
+体液不足量可超过10升；治疗方法为生理盐水加胰岛素静脉输液。
+体液不足量可超过10升；治疗方法为生理盐水加胰岛素静脉输液。
+急性期治疗的血糖目标是250~300mg/dL（13.9~16.7mmol/l）。
+急性期治疗的血糖目标是250~300mg/dL（13.9~16.7mmol/l）。
+根据血钾水平补钾。
+根据血钾水平补钾。
+
+【酒精性酮症酸中毒】
+酒精性酮症酸中毒是饮酒和饥饿后的一种代谢并发症，以高血酮和高阴离子间隙代谢性酸中毒而无明显高血糖为特征。酒精性酮症酸中毒可引起恶心、呕吐和腹痛。诊断依靠病史以及检验结果显示有酮症酸中毒而无高血糖。治疗方法为静脉输注生理盐水和葡萄糖输注。
+酒精性酮症酸中毒是饮酒和饥饿后的一种代谢并发症，以高血酮和高阴离子间隙代谢性酸中毒而无明显高血糖为特征。酒精性酮症酸中毒可引起恶心、呕吐和腹痛。诊断依靠病史以及检验结果显示有酮症酸中毒而无高血糖。治疗方法为静脉输注生理盐水和葡萄糖输注。
+酒精性酮症酸中毒主要由酒精和饥饿在葡萄糖代谢中的共同作用所致。
+
+【酒精性酮症酸中毒的病理生理】
+酒精可减少肝糖原异生并导致胰岛素分泌减少、脂解作用增强、脂肪酸向线粒体的转运受损、脂肪酸氧化以及随后的酮体生成，导致阴离子间隙升高的代谢性酸中毒。生长激素、肾上腺素、皮质醇和胰高血糖素都增加了。血糖水平通常降低或正常，但有时可有轻度高血糖。
+
+【酒精性酮症酸中毒的症状和体征】
+典型病史是大量饮酒引起呕吐，中止饮酒或进食≥24小时，在此饥饿期间，患者因反复呕吐和出现腹痛而就诊，有可能发生胰腺炎。有可能发生胰腺炎。
+
+【酒精性酮症酸中毒的诊断】
+阴离子间隙
+阴离子间隙
+排除其他相关疾病
+排除其他相关疾病
+诊断需要高度怀疑；酒精使用障碍患者的类似症状可能由急性胰腺炎、甲醇或乙二醇中毒（ 见表特定毒物的症状和治疗）或糖尿病酮症酸中毒（DKA）引起。当患者出现酒精性酮症酸中毒时，血液中的酒精含量通常不再升高。
+对于疑似酒精性酮症酸中毒的患者，应检测血清电解质（包括镁）、血尿素氮（BUN）和肌酐、葡萄糖、酮体、淀粉酶、脂肪酶和血浆渗透压。同时检测尿酮体。 重症患者，且酮体阳性，应查动脉血气分析和血清乳酸测量。
+没有高血糖使糖尿病酮症酸中毒是不可能的。轻度高血糖患者可能有潜在的糖尿病，可通过升高的糖化血红蛋白（HbA1C）水平来识别。
+典型的实验室检查结果包括:
+高阴离子间隙性酸中毒
+高阴离子间隙性酸中毒
+酮症和酮尿症
+酮症和酮尿症
+低钾血症
+低钾血症
+低镁血症
+低镁血症
+低磷酸盐血症
+低磷酸盐血症
+当酸中毒伴有呕吐所致的代谢性碱中毒时，血pH可能趋于正常，使得诊断较为困难。如果病史不能排除有毒酒精摄入作为阴离子间隙升高的原因，应检测血清甲醇和乙二醇水平。
+尿液中存在草酸钙晶体这一现象也表明可能是乙二醇中毒所致。
+由于低灌注与肝内氧化还原反应失衡，患者体内乳酸水平常升高。
+
+【酒精性酮症酸中毒的治疗】
+静脉用硫胺素及其他维生素加镁
+静脉用硫胺素及其他维生素加镁
+IV 5％葡萄糖0.9％生理盐水
+IV 5％葡萄糖0.9％生理盐水
+通常给予0.9%氯化钠溶液静脉输注，并加入5%葡萄糖。低血糖患者初始可给予更高浓度的葡萄糖。初始的静脉输液应添加水溶性维生素和镁元素，同时根据需要补充钾和磷酸盐。患者另予硫胺素100至200mg静脉注射（高风险韦尼克脑病患者予500mg），以预防韦尼克脑病或柯萨可夫精神病发生（1、2）。
+酮症酸中毒和胃肠道症状通常会迅速好转。应密切监测血清钾水平；与糖尿病酮症酸中毒类似，全身总钾量常处于耗竭状态，且通过液体复苏纠正酸中毒时钾离子向细胞内转移，可进一步降低血清钾水平（1）。胰岛素仅在疑为非典型糖尿病酮症酸中毒或血糖>300 mg/dL(>16.7 mmol/L) 时方可使用。
+
+【治疗参考文献】
+1.Knight-Dunn L, Gorchynski J.Alcohol-Related Metabolic Emergencies.Emerg Med Clin North Am.2023;41(4):809-819.doi:10.1016/j.emc.2023.07.003
+1.Knight-Dunn L, Gorchynski J.Alcohol-Related Metabolic Emergencies.Emerg Med Clin North Am.2023;41(4):809-819.doi:10.1016/j.emc.2023.07.003
+2.Long B, Lentz S, Gottlieb M.Alcoholic Ketoacidosis: Etiologies, Evaluation, and Management.J Emerg Med.2021;61(6):658-665.doi:10.1016/j.jemermed.2021.09.007
+2.Long B, Lentz S, Gottlieb M.Alcoholic Ketoacidosis: Etiologies, Evaluation, and Management.J Emerg Med.2021;61(6):658-665.doi:10.1016/j.jemermed.2021.09.007
+酒精性酮症酸中毒是饮酒和饥饿对葡萄糖代谢的联合作用，以高血酮和高阴离子间隙代谢性酸中毒而无明显高血糖为特征。
+酒精性酮症酸中毒是饮酒和饥饿对葡萄糖代谢的联合作用，以高血酮和高阴离子间隙代谢性酸中毒而无明显高血糖为特征。
+测量血清和尿酮和电解质，并计算血清阴离子间隙。
+测量血清和尿酮和电解质，并计算血清阴离子间隙。
+先静脉滴注硫胺素以预防Wernicke脑病或Korsakoff精神病，然后用0.9％生理盐水注射葡萄糖。
+先静脉滴注硫胺素以预防Wernicke脑病或Korsakoff精神病，然后用0.9％生理盐水注射葡萄糖。

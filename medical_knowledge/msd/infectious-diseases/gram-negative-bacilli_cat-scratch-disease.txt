@@ -1,0 +1,54 @@
+标题：猫抓病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-negative-bacilli/cat-scratch-disease
+============================================================
+
+（参见巴尔通体感染概述。）
+家猫，尤其是小猫，是Bartonella henselae（汉塞巴尔通体）的主要宿主。在美国的猫中，汉氏巴尔通体抗体的流行率在温暖潮湿的地区较高，在野生动物中更高（1）。
+几乎所有患有猫抓病的患者都报告与猫接触过，通常是幼猫或小猫，其中大多数都是健康的。细菌在猫体内具体的寄植部位不清；然而，无症状菌血症期循环发生。通过咬伤、舔舐或抓伤感染人。
+猫蚤在猫之间传播感染，也可能在没有接触猫的人体引起感染 。其他节肢动物（例如蜱虫、虱子、蚊子）也可能携带多种巴尔通体，并已被证明是人类疾病的媒介。儿童最易感染。
+
+【参考文献】
+1.Chomel BB, Abbott RC, Kasten RW, et al.Bartonella henselaeprevalence in domestic cats in California: risk factors and association between bacteremia and antibody titers.J Clin Microbiol.1995;33(9):2445-2450.doi:10.1128/jcm.33.9.2445-2450.1995
+1.Chomel BB, Abbott RC, Kasten RW, et al.Bartonella henselaeprevalence in domestic cats in California: risk factors and association between bacteremia and antibody titers.J Clin Microbiol.1995;33(9):2445-2450.doi:10.1128/jcm.33.9.2445-2450.1995
+
+【猫抓病的症状和体征】
+在咬伤或抓伤后的3至10天内，大多数猫抓病患者在抓伤部位出现红斑、结痂、无痛丘疹（很少是脓疱）。
+局部淋巴结病在2周内发生。淋巴结初期质地坚硬且有压痛，后期会变得有波动感，并且可能形成瘘管并排出分泌物。淋巴结病的同时可伴有发热、乏力、头痛和厌食。
+这张照片显示了在猫抓痕部位出现一个红斑和结痂丘疹。
+CAVALLINI JAMES / BSIP/SCIENCE PHOTO LIBRARY
+不寻常的表现发生于11%至12%的患者，且更常见于成年人：
+Parinaud 眼腺综合征（与可触及的耳前淋巴结相关的结膜炎）（约占非典型病例的 50%）
+Parinaud 眼腺综合征（与可触及的耳前淋巴结相关的结膜炎）（约占非典型病例的 50%）
+神经系统表现（脑病、癫痫、神经视网膜炎[引起急性单侧视力丧失]、神经根炎、脊髓炎、截瘫、脑动脉炎）占2%
+神经系统表现（脑病、癫痫、神经视网膜炎[引起急性单侧视力丧失]、神经根炎、脊髓炎、截瘫、脑动脉炎）占2%
+<1%的患者出现肝脾肉芽肿性疾病
+<1%的患者出现肝脾肉芽肿性疾病
+患者也可能出现不明原因的发热。B. henselae（汉塞巴尔通体）是培养阴性心内膜炎最常见的原因之一，通常出现在具有潜在瓣膜性心脏病的患者。在免疫抑制患者中，B. henselae（汉塞巴尔通体）可引起杆菌性血管瘤病和肝紫癜病。艾滋病患者可出现严重的播散性疾病。
+淋巴结病在2～5个月内自发消退。该病通常可完全康复，但严重的神经或肝脾疾病可致命或留下后遗症。
+
+【猫抓病的诊断】
+急性和恢复期血清学检测或聚合酶链反应 (PCR) 检测
+急性和恢复期血清学检测或聚合酶链反应 (PCR) 检测
+有时可行淋巴结活检
+有时可行淋巴结活检
+猫抓病诊断通常通过血清抗体阳性滴度（推荐检测急性期和间隔6周的恢复期血清）或淋巴结穿刺标本的PCR检测来确诊。
+由于其他感染也可能引起类似的淋巴结病（如兔热病、分枝杆菌感染、布鲁氏菌病、真菌感染、性病性淋巴肉芽肿），如果不能明确诊断为猫抓病，则可进行这些病原体的检测。
+如果怀疑癌症或需要确诊猫抓病，可进行淋巴结活检。 典型的组织病理学表现（例如化脓性肉芽肿），或通过免疫荧光法检测病原体可提示诊断。Warthin-Starry 银染也可用于显示细菌；染色与免疫组织化学的结合具有高度敏感性（1）。
+对于免疫缺陷者和具有全身症状的患者应同时做血培养 （需延长培养时间）。淋巴结穿刺液培养阳性结果罕见。 然而,Bartonella属可以从淋巴结活检标本的培养物中分离出来。 通常需要特殊的培养基。
+
+【诊断参考文献】
+1.Peng J, Fan Z, Zheng H, Lu J, Zhan Y.Combined Application of Immunohistochemistry and Warthin-Starry Silver Stain on the Pathologic Diagnosis of Cat Scratch Disease.Appl Immunohistochem Mol Morphol.2020;28(10):781-785.doi:10.1097/PAI.0000000000000829
+1.Peng J, Fan Z, Zheng H, Lu J, Zhan Y.Combined Application of Immunohistochemistry and Warthin-Starry Silver Stain on the Pathologic Diagnosis of Cat Scratch Disease.Appl Immunohistochem Mol Morphol.2020;28(10):781-785.doi:10.1097/PAI.0000000000000829
+
+【猫抓病的治疗】
+局部热疗及止痛
+局部热疗及止痛
+对于免疫功能低下的患者，以及有时对于患有全身性疾病的患者，可使用抗生素。
+对于免疫功能低下的患者，以及有时对于患有全身性疾病的患者，可使用抗生素。
+猫抓病通常呈自限性，对于免疫功能正常的患者，治疗可予以局部热敷和止痛对症处理。如触诊淋巴结有波动，用针抽吸可缓解疼痛。
+对于免疫功能正常的患者的局部感染，通常不进行抗生素治疗。然而，阿奇霉素可以潜在地减少症状和淋巴结肿大的持续时间（1) 并可能降低系统性传播的风险。
+建议免疫功能低下的患者进行抗生素治疗，通常用于患有全身性疾病的患者。通常使用阿奇霉素或强力霉素，其他选择包括氟喹诺酮类药物、利福平和甲氧苄啶/磺胺甲恶唑；神经视网膜炎常采用联合疗法，如果有心内膜炎则给予静脉注射庆大霉素 2 周。通常需要长期治疗（例如数周至数月）。体外抗生素敏感性往往与临床结果不相关。
+
+【治疗参考文献】
+1.Stevens DL, Bisno AL, Chambers HF, et al.Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America [published correction appears inClin Infect Dis. 2015 May 1;60(9):1448. Dosage error in article text].Clin Infect Dis.2014;59(2):e10-e52.doi:10.1093/cid/ciu444
+1.Stevens DL, Bisno AL, Chambers HF, et al.Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America [published correction appears inClin Infect Dis. 2015 May 1;60(9):1448. Dosage error in article text].Clin Infect Dis.2014;59(2):e10-e52.doi:10.1093/cid/ciu444

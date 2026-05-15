@@ -1,0 +1,131 @@
+标题：Bartter综合征和Gitelman 综合征
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-renal-transport-abnormalities/bartter-syndrome-and-gitelman-syndrome
+============================================================
+
+巴特氏综合症和吉特曼氏综合症是罕见的疾病，关于它们的发病率的数据很少。在瑞典的一项数据库研究中，巴特氏症候群的年发病率为1.2/1000000（1）。吉特尔曼综合征在美国的发病率估计约为1/40,000（2），在日本和中国约为3%（3）。
+
+【参考文献】
+1.Rudin A.Bartter's syndrome.A review of 28 patients followed for 10 years.Acta Med Scand.1988;224(2):165-171.
+1.Rudin A.Bartter's syndrome.A review of 28 patients followed for 10 years.Acta Med Scand.1988;224(2):165-171.
+2.Ji W, Foo JN, O'Roak BJ, et al.Rare independent mutations in renal salt handling genes contribute to blood pressure variation.Nat Genet.2008;40(5):592-599.doi:10.1038/ng.118
+2.Ji W, Foo JN, O'Roak BJ, et al.Rare independent mutations in renal salt handling genes contribute to blood pressure variation.Nat Genet.2008;40(5):592-599.doi:10.1038/ng.118
+3.Hsu YJ, Yang SS, Chu NF, Sytwu HK, Cheng CJ, Lin SH.Heterozygous mutations of the sodium chloride cotransporter in Chinese children: prevalence and association with blood pressure.Nephrol Dial Transplant.2009;24(4):1170-1175.doi:10.1093/ndt/gfn619
+3.Hsu YJ, Yang SS, Chu NF, Sytwu HK, Cheng CJ, Lin SH.Heterozygous mutations of the sodium chloride cotransporter in Chinese children: prevalence and association with blood pressure.Nephrol Dial Transplant.2009;24(4):1170-1175.doi:10.1093/ndt/gfn619
+
+【Bartter 综合征和 Gitelman 综合征的病理生理学】
+Bartter 综合征和 Gitelman 综合征是由以下原因引起的：
+氯化钠重吸收紊乱
+氯化钠重吸收紊乱
+在巴特综合征中，缺陷位于肾小管升支粗段（亨利氏袢升支粗段）。在吉特尔曼综合征中，病变部位位于远端肾小管。
+在这两种综合征中，氯化钠重吸收受损会导致轻度血容量不足，进而促使肾素和醛固酮释放增加，最终造成钾离子和氢离子的丢失。钠丢失导致慢性轻度血浆容量收缩，表现为尽管肾素和血管紧张素水平升高，血压却维持在正常至偏低水平。
+在巴特综合征中，由于髓质浓度梯度生成受损，不仅会出现前列腺素分泌增加，还会导致尿液浓缩功能障碍。
+在吉特尔曼综合征中，低镁血症和尿钙排泄减少较为常见。
+临床表现的特征各不相同（见表格Bartter 综合征与 Gitelman 综合征之间的一些区别）。
+
+【Bartter综合征和Gitelman综合征的某些差异】
+Bartter综合征和Gitelman综合征的某些差异
+Bartter综合征
+Gitelman综合征
+肾缺陷的位置
+升支粗段（模拟袢利尿剂的效果）
+远曲小管（模拟噻嗪类利尿剂的效果）
+尿钙排泄
+正常或增高，通常伴有肾钙质沉着症
+血清镁浓度
+正常或减少
+降低，有时降低程度巨大
+肾前列腺素E2产生
+常见发病年龄
+出生前至儿童早期，常伴智力障碍和生长发育障碍
+儿童晚期至成年期
+神经肌肉症状（例如，肌肉痉挛，虚弱）
+不常见或轻度
+
+【Bartter 综合征和 Gitelman 综合征的病因】
+这两种综合征通常呈常染色体隐性遗传，但也可出现散发病例或其他家族遗传模式。值得注意的是，在MAGED2基因有一个X连锁的突变，可引起严重的产前巴氏综合征，这种突变是一过性的，到出生后1至2年就会消失。
+两种综合征都有数种基因型 (见表Bartter综合征的亚型)；不同基因型可以有不同的表现形式(1)。
+
+【巴特综合征的亚型】
+巴特综合征的亚型
+基因（蛋白质）†
+发病年龄
+临床特征
+SLC12A1(NKCC2)†
+产前/新生儿
+羊水过多，早产，低钾血症/碱中毒，多尿，高钙尿，肾钙质沉着
+KCNJ1(ROMK1)†
+产前/新生儿
+与I型相似
+CLCNKB(ClC-Kb)†
+后期发作（童年）
+与I型相似，可能不太严重
+一些儿童表现为Gitelman表型，可在远曲小管和连接小管中发现ClC-Kb
+BSND(Barttin)†
+产前/新生儿
+与I型相似，肾钙质沉着较少见
+与感音神经性听力丧失有关
+CLCNKA(ClC-Ka)† andCLCNKB(ClC-Kb)†
+产前/新生儿
+类似于IV型
+与感音神经性听力丧失有关
+CASR(CaSR)*
+后期发作
+Bartter表型伴有低/正常的完整甲状旁腺激素，低血钙，高钙尿症和肾钙质沉着症
+由于钙敏感受体（CaSR）功能获得性增强，可能导致ROMK和NKCC2活性降低。
+* Protein abbreviations: Barttin = beta subunit of ClC-Ka and ClC-Kb; CaSR = calcium-sensing receptor; ClC-Kb = basolateral chloride channel kidney B; ClC-Ka = basolateral chloride channel kidney A; NKCC2 = Na-K-2Cl channel; ROMK = luminal potassium channel.
+* Protein abbreviations: Barttin = beta subunit of ClC-Ka and ClC-Kb; CaSR = calcium-sensing receptor; ClC-Kb = basolateral chloride channel kidney B; ClC-Ka = basolateral chloride channel kidney A; NKCC2 = Na-K-2Cl channel; ROMK = luminal potassium channel.
+
+【病因参考文献】
+1.Fulchiero R, Seo-Mayer P: Bartter syndrome and Gitelman syndrome.Pediatr Clin North Am66(1):121–134, 2019.doi: 10.1016/j.pcl.2018.08.010
+1.Fulchiero R, Seo-Mayer P: Bartter syndrome and Gitelman syndrome.Pediatr Clin North Am66(1):121–134, 2019.doi: 10.1016/j.pcl.2018.08.010
+
+【Bartter 综合征和 Gitelman 综合征的症状和体征】
+患有 Bartter 综合征的患者往往在产前、婴儿期或幼儿期出现症状。患有 Gitelman 综合征的患者通常出现在儿童晚期至成年期。
+值得注意的是，一些患者，尤其是Gitelman综合征患者，没有症状，在验血后偶然被诊断出来。
+巴特综合征可在产前表现为胎儿宫内生长受限及羊水过多。不同形式的 Bartter综合征可以有具体表现，包括听力丧失，低血钙，和肾钙化，这取决于潜在的遗传缺陷。Bartter综合征的儿童，比Gitelman综合症更常见，可能会早产，出生后可能生长发育不良，有的孩子有智力障碍。
+无法保留钾、钙或镁可能会导致肌肉无力、痉挛、抽搐、手足搐搦或疲劳。这在吉特曼综合征中尤其明显。多饮、多尿、嗜盐及呕吐症状可能同时出现在两种综合征中。
+大多数巴特综合征或吉特尔曼综合征患者血压偏低或处于正常低限，并可能出现容量不足的体征。
+一般而言，Bartter综合征和 Gitelman 综合征通常都不会导致慢性肾功能不全。
+
+【Bartter 综合征和 Gitelman 综合征的诊断】
+血清和尿液电解质浓度
+血清和尿液电解质浓度
+排除类似疾病
+排除类似疾病
+基因检测
+基因检测
+如果孩子有特征性症状，或偶然注意到有实验室检查的异常，如代谢性碱中毒及低血钾，那就应怀疑巴特综合征和吉特尔曼综合征。尿液电解质检测显示钠、钾和氯水平显著升高，与患者处于血容量正常或低血容量状态的情况不符。
+诊断是通过排除其他疾病：
+原发性和继发性醛固酮增多，通常可以通过高血压和正常或低血浆肾素的存在加以区分(见表区分原发性和继发性醛固酮增多症)。
+原发性和继发性醛固酮增多，通常可以通过高血压和正常或低血浆肾素的存在加以区分(见表区分原发性和继发性醛固酮增多症)。
+通过检测尿氯水平（通常<20mmol/L）可以区分出隐蔽性呕吐或滥用泻药。
+通过检测尿氯水平（通常<20mmol/L）可以区分出隐蔽性呕吐或滥用泻药。
+滥用利尿剂，通常可以通过尿氯浓度低和尿液检测利尿剂加以区分。
+滥用利尿剂，通常可以通过尿氯浓度低和尿液检测利尿剂加以区分。
+通过24小时尿钙测定或尿钙/肌酐比值检测有助于鉴别这2种综合征：巴特综合征患者的尿钙水平通常正常或升高，而吉特尔曼综合征患者的尿钙水平则偏低。
+明确诊断包括疾病亚型的鉴定，通过基因检测实现。基因检测现在正变得越来越普遍。
+携带者的孩子有25%的机会受到隐性形式的影响，因此无症状的兄弟姐妹应该筛查电解质紊乱，主要是低钾血症和代谢性碱中毒，以及低镁血症。受影响孩子的父母可以考虑咨询遗传咨询师，了解有关后续怀孕的产前和植入前遗传筛查的信息。
+
+【Bartter 综合征和 Gitelman 综合征的治疗】
+对于Bartter综合征，非甾体抗炎药(NSAIDs)
+对于Bartter综合征，非甾体抗炎药(NSAIDs)
+钠、钾和镁补充剂
+钠、钾和镁补充剂
+由于肾脏前列腺素 E2 分泌是 Bartter 综合征发病机制的一部分，因此可以使用 NSAID（例如口服吲哚美辛或布洛芬）（1，2）。选择性环氧合酶（COX）-2抑制剂（如塞来昔布）也可用于Bartter综合征患者。如果使用COX-2抑制剂，患者应给予抑制胃酸的药物 （1,2)。
+电解质补充是管理的重要步骤。治疗方案通常包括氯化钠，通常为5至10 mEq/kg/天。此外，应补充氯化钾，初始剂量约为1至3 mEq/kg/天。镁缺乏的病人应给予镁盐 ，但这种治疗可能因腹泻的发生而受到限制。一些镁盐，如天冬氨酸盐、柠檬酸盐或乳酸盐，具有更好的生物利用率。对于存在尿液浓缩功能障碍、继发性肾性尿崩症或两者兼有的患者，应避免高溶质负荷（如因钠补充剂导致的情况），因为这会加剧因强制性水分丢失引发的多尿和多饮症状，并可能诱发严重的高钠血症。一般来说，电解质补充应尽量保持足够的血清水平，并使其波动最小，因此，只要不明显增加不依从的风险，就应分散给药。
+虽然保钾利尿剂、血管紧张素转换酶抑制剂和血管紧张素受体阻断剂已用于一些患者，但目前的共识是，这些疗法在很大程度上尚未得到证实（1)。
+一般不推荐使用噻嗪类利尿剂来治疗高钙尿症。它们可能会使钠的补充变得复杂，从而增加肾结石和肾钙化的风险。
+营养优化很重要，尤其是对婴幼儿而言。
+外源性生长激素可以用于治疗身材矮小。
+
+【治疗参考文献】
+1.Konrad M, Nijenhuis T, Ariceta G, et al: Diagnosis and management of Bartter syndrome: Executive summary of the consensus and recommendations from the European Rare Kidney Disease Reference Network Working Group for Tubular Disorders.Kidney Int99(2):324–335, 2021.doi: 10.1016/j.kint.2020.10.035
+1.Konrad M, Nijenhuis T, Ariceta G, et al: Diagnosis and management of Bartter syndrome: Executive summary of the consensus and recommendations from the European Rare Kidney Disease Reference Network Working Group for Tubular Disorders.Kidney Int99(2):324–335, 2021.doi: 10.1016/j.kint.2020.10.035
+Bartter和Gitelman综合征都有氯化钠重吸收受损，这会导致轻度血容量不足，从而导致肾素和醛固酮释放增加，导致尿钾和氢的损失。
+Bartter和Gitelman综合征都有氯化钠重吸收受损，这会导致轻度血容量不足，从而导致肾素和醛固酮释放增加，导致尿钾和氢的损失。
+表现因基因型而各不相同，但生长发育可能受到影响，电解质紊乱可引起肌肉无力，抽筋，痉挛，手足抽搐或疲劳。
+表现因基因型而各不相同，但生长发育可能受到影响，电解质紊乱可引起肌肉无力，抽筋，痉挛，手足抽搐或疲劳。
+诊断包括血，尿电解质的测定；基因检测越来越多地用于确认和识别Bartter亚型。
+诊断包括血，尿电解质的测定；基因检测越来越多地用于确认和识别Bartter亚型。
+治疗包括电解质置换；对于Bartter综合征，也给予非甾体抗炎药。
+治疗包括电解质置换；对于Bartter综合征，也给予非甾体抗炎药。

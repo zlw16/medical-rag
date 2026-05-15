@@ -1,0 +1,75 @@
+标题：声带麻痹
+来源：https://www.msdmanuals.cn/professional/ear-nose-and-throat-disorders/laryngeal-disorders/vocal-fold-paralysis
+============================================================
+
+
+【声带麻痹的病因】
+声带麻痹可源于疑核、核上束、迷走神经主干或喉返神经的病灶或功能紊乱。左侧声带比右侧更容易麻痹，因为左喉返神经从脑干到喉部的路径更长，更容易受到挤压、牵引或手术损伤（1）。
+声带麻痹可以是
+单侧（最常见）
+单侧（最常见）
+单侧声带麻痹最常见。约三分之一的单侧瘫痪是肿瘤引起的，三分之一是医源性的，其余的是特发性、感染性或中枢性原因引起（2）。中枢性原因包括颅内肿瘤、血管性损伤以及导致疑核麻痹的脱髓鞘疾病。颅底肿瘤和颈部创伤导致迷走神经麻痹。喉返神经麻痹由颈部或胸部病变（例如主动脉瘤、二尖瓣狭窄、纵隔结核性淋巴结炎、甲状腺、食管、肺或纵隔结构肿瘤），以及创伤、甲状腺切除术、神经毒素（例如铅、砷、汞）、神经毒性感染（例如白喉）、颈椎损伤或手术、莱姆病和病毒性疾病等引起。神经炎可能是大多数特发性病例的病因（3）。女性发病率似乎高于男性，比例约为3:2（4）。
+双侧声带麻痹是一种威胁生命的疾患，由甲状腺和颈部手术、气管插管、创伤、神经变性和神经肌肉疾病引起。
+反常声带运动（又称反常声带功能障碍）在《手册》其他部分有论述。
+
+【病因参考文献】
+1.Williams MJ, Ayylasomayajula A, Behkam R, et al.A computational study of the role of the aortic arch in idiopathic unilateral vocal-fold paralysis.J Appl Physiol (1985).2015;118(4):465-474.doi:10.1152/japplphysiol.00638.2014
+1.Williams MJ, Ayylasomayajula A, Behkam R, et al.A computational study of the role of the aortic arch in idiopathic unilateral vocal-fold paralysis.J Appl Physiol (1985).2015;118(4):465-474.doi:10.1152/japplphysiol.00638.2014
+2.Ramadan HH, Wax MK, Avery S.Outcome and changing cause of unilateral vocal cord paralysis.Otolaryngol Head Neck Surg.1998;118(2):199-202.doi:10.1016/S0194-5998(98)80014-4
+2.Ramadan HH, Wax MK, Avery S.Outcome and changing cause of unilateral vocal cord paralysis.Otolaryngol Head Neck Surg.1998;118(2):199-202.doi:10.1016/S0194-5998(98)80014-4
+3.Mau T, Husain S, Sulica L.Pathophysiology of iatrogenic and idiopathic vocal fold paralysis may be distinct.Laryngoscope.2020;130(6):1520-1524.doi:10.1002/lary.28281
+3.Mau T, Husain S, Sulica L.Pathophysiology of iatrogenic and idiopathic vocal fold paralysis may be distinct.Laryngoscope.2020;130(6):1520-1524.doi:10.1002/lary.28281
+4.Cantarella G, Dejonckere P, Galli A, et al.A retrospective evaluation of the etiology of unilateral vocal fold paralysis over the last 25 years.Eur Arch Otorhinolaryngol.2017;274(1):347-353.doi:10.1007/s00405-016-4225-9
+4.Cantarella G, Dejonckere P, Galli A, et al.A retrospective evaluation of the etiology of unilateral vocal fold paralysis over the last 25 years.Eur Arch Otorhinolaryngol.2017;274(1):347-353.doi:10.1007/s00405-016-4225-9
+
+【声带麻痹的症状和体征】
+声带麻痹导致声带不能外展和内收。麻痹可影响发声、呼吸和吞咽，食物和液体可能误吸入气管。患侧声带一般位于中线外侧2~3mm。
+喉部（声带）的内窥镜视图显示右侧声带（灰色，左侧中央）麻痹。
+CNRI/SCIENCE PHOTO LIBRARY
+喉返神经麻痹时，声带可随发声运动，但吸气时声带不动。
+单侧麻痹时，可出现声嘶和气声，但由于健侧声带外展充分，通常无气道阻塞。
+双侧麻痹时，双侧声带一般位于中线2 ~ 3mm范围内，声音质量较好，但强度和音高调节有限。然而，气道会变得不足，导致喘鸣和中等强度运动时呼吸困难，因为每条声带被吸气时的伯努利效应拉向中线声门。还存在误吸的危险。
+
+【声带麻痹的诊断】
+喉镜检查（特指频闪喉镜检查）
+喉镜检查（特指频闪喉镜检查）
+针对可能病因的各类检查（CT、MRI、甲状腺扫描、钡餐、上消化道内镜）
+针对可能病因的各类检查（CT、MRI、甲状腺扫描、钡餐、上消化道内镜）
+声带麻痹的诊断基于喉镜检查，这是诊断声带麻痹的金标准。频闪喉镜检查作为该诊断技术的高度专业化版本，因能提供声带振动和黏膜波特征的详细信息而受喉科医师青睐（1）。
+必须始终寻找根本原因。根据病史和体检的异常进行评估。询问病史时，医生应询问外周神经病变的所有可能病因，包括慢性重金属暴露（砷、铅、汞）、苯妥英和长春新碱的药物不良反应、系统性风湿性疾病史（如系统性红斑狼疮、类风湿关节炎）、莱姆病、结节病、糖尿病和酒精使用障碍。进一步评估可能包括头部、颈部和胸部的增强 CT 或 MRI，以识别肿瘤、血管异常或炎症过程。甲状腺扫描、钡餐或支气管镜检查，以及食管镜检查，也有助于确认潜在病因。
+环杓关节固定必须与神经肌肉病因区分开来。全麻下硬管喉镜检查缺乏被动运动是环杓关节固定的最佳佐证。环杓关节固定可由类风湿关节炎、外部钝器伤、长期气管内插管等情况引起。
+
+【诊断参考文献】
+1.Wu AP, Sulica L.Diagnosis of vocal fold paresis: current opinion and practice.Laryngoscope.2015;125(4):904-908.doi:10.1002/lary.25004
+1.Wu AP, Sulica L.Diagnosis of vocal fold paresis: current opinion and practice.Laryngoscope.2015;125(4):904-908.doi:10.1002/lary.25004
+
+【声带麻痹的治疗】
+对于单侧声带麻痹，可采用手术治疗使声带靠拢
+对于单侧声带麻痹，可采用手术治疗使声带靠拢
+双侧声带麻痹，采用手术等方式以保持气道通畅
+双侧声带麻痹，采用手术等方式以保持气道通畅
+对于单侧麻痹，治疗目的是通过声带填充术，内移术或神经再支配改善发声质量。若能实现足够闭合度，语音治疗是有效的辅助手段（1）。
+声带填充术是将含有可塑性颗粒、胶原蛋白、透明质酸、微化真皮或自体脂肪的糊状材料注射到麻痹的声带中；该操作有助于声带内收时使两侧声带靠拢，从而改善发声功能并防止误吸。
+内移术是指通过在患侧声带外侧植入可调节假体，使声带向中线移位。可在手术室局麻下进行，以便根据患者的声音“调整”植入物的大小和位置。
+神经再支配可以恢复瘫痪声带的音调和位置，但不能恢复运动，越来越多地用于患有不可恢复性麻痹的儿童和成人（<55岁）患者（2,3)。
+对于双侧麻痹，必须重建适宜的气道。由于气道阻塞，在上呼吸道感染期间可能需要永久或临时气管切开术。杓状软骨切除术伴真声带外移可开放声门并改善气道，但可能影响发声质量。后位激光声带切除术可打开声门后部，可能比杓状软骨切除术更受青睐。采用激光有效建立声门后部气道往往可避免长期气管切开，同时保留实用嗓音。选择性神经再支配手术在特定患者中越来越成功（4）。
+
+【治疗参考文献】
+1.Chen X, Wan P, Yu Y, et al.Types and timing of therapy for vocal fold paresis/paralysis after thyroidectomy: a systematic review and meta-analysis.J Voice.2014;28(6):799-808.doi:10.1016/j.jvoice.2014.02.003
+1.Chen X, Wan P, Yu Y, et al.Types and timing of therapy for vocal fold paresis/paralysis after thyroidectomy: a systematic review and meta-analysis.J Voice.2014;28(6):799-808.doi:10.1016/j.jvoice.2014.02.003
+2.Espinosa MC, Ongkasuwan J.Recurrent laryngeal nerve reinnervation: is this the standard of care for pediatric unilateral vocal cord paralysis?Curr Opin Otolaryngol Head Neck Surg.26(6):431-436, 2018.doi:10.1097/MOO.0000000000000499
+2.Espinosa MC, Ongkasuwan J.Recurrent laryngeal nerve reinnervation: is this the standard of care for pediatric unilateral vocal cord paralysis?Curr Opin Otolaryngol Head Neck Surg.26(6):431-436, 2018.doi:10.1097/MOO.0000000000000499
+3.Anthony, B., Parker, N., Patel, R. et al.Surgical considerations for laryngeal reinnervation and future research directions.Curr Otorhinolaryngol Rep.8, 224–229, 2020.https://doi.org/10.1007/s40136-020-00294-7
+3.Anthony, B., Parker, N., Patel, R. et al.Surgical considerations for laryngeal reinnervation and future research directions.Curr Otorhinolaryngol Rep.8, 224–229, 2020.https://doi.org/10.1007/s40136-020-00294-7
+4.Dunya, G., Orb, Q.T., Smith, M.E. et al. A review of treatment of bilateral vocal fold movement impairment.Curr Otorhinolaryngol Rep.9, 7–15, 2021.https://doi.org/10.1007/s40136-020-00320-8
+4.Dunya, G., Orb, Q.T., Smith, M.E. et al. A review of treatment of bilateral vocal fold movement impairment.Curr Otorhinolaryngol Rep.9, 7–15, 2021.https://doi.org/10.1007/s40136-020-00320-8
+声带麻痹可由喉部神经通路上的任何地方的病变或功能障碍所引发（疑核、核上束、迷走神经主干或喉返神经）。
+声带麻痹可由喉部神经通路上的任何地方的病变或功能障碍所引发（疑核、核上束、迷走神经主干或喉返神经）。
+大多数麻痹为单侧性，主要影响声音，双侧性麻痹发作可阻塞气道。
+大多数麻痹为单侧性，主要影响声音，双侧性麻痹发作可阻塞气道。
+麻痹通过喉镜检查诊断，但确定病因通常需要影像学检查（如MRI）和其他测试。
+麻痹通过喉镜检查诊断，但确定病因通常需要影像学检查（如MRI）和其他测试。
+双侧麻痹患者在尝试矫正手术之前，通常首先需要气管插管/气管切开术。
+双侧麻痹患者在尝试矫正手术之前，通常首先需要气管插管/气管切开术。
+各种手术可改善单侧声带麻痹患者的声音质量或改善长期双侧声带麻痹患者的呼吸道通畅性。
+各种手术可改善单侧声带麻痹患者的声音质量或改善长期双侧声带麻痹患者的呼吸道通畅性。

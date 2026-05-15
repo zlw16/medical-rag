@@ -1,0 +1,68 @@
+标题：登革热
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/arboviruses-arenaviridae-and-filoviridae/dengue
+============================================================
+
+登革热在非洲、美洲、地中海、东南亚和西太平洋的100多个国家流行（1），主要位于北纬约35°至南纬35°的世界热带地区。该病在东南亚地区最为流行，但也发生在加勒比地区（包括波多黎各和美国维尔京群岛）、大洋洲、印度次大陆以及中美洲和南美洲。2024年，据报道约有3500例登革热病例通过返回的游客输入美国，但全球估计发生5000万至1亿例病例，造成约2万人死亡（2，3）。
+病原体是来自黄病毒属的包膜单链RNA病毒，有4种血清型，通过伊蚊叮咬传播。个别蚊子可能会反复叮咬，从而可能使多人受到感染。病毒在患者血液中循环2～7天。在此期间，如伊蚊叮咬患者则可获得病毒。垂直传播可能发生在怀孕期间或出生前后，或通过输血和器官移植发生，但发生率较低（1、2、4）。
+
+【参考文献】
+1.World Health Organization: Dengue and severe dengue.Geneva, WHO.April 23, 2024.Accessed June 16, 2025.
+1.World Health Organization: Dengue and severe dengue.Geneva, WHO.April 23, 2024.Accessed June 16, 2025.
+2.Centers for Disease Control and Prevention: Dengue: Historic Data (2-10-2024).June 11, 2025.Accessed June 16, 2025.
+2.Centers for Disease Control and Prevention: Dengue: Historic Data (2-10-2024).June 11, 2025.Accessed June 16, 2025.
+3.Clarke J, Lim A, Gupte P, Pigott DM, van Panhuis WG, Brady OJ: A global dataset of publicly available dengue case count data.Sci Data11(1):296, 2024.Published 2024 Mar 14.doi:10.1038/s41597-024-03120-7
+3.Clarke J, Lim A, Gupte P, Pigott DM, van Panhuis WG, Brady OJ: A global dataset of publicly available dengue case count data.Sci Data11(1):296, 2024.Published 2024 Mar 14.doi:10.1038/s41597-024-03120-7
+4.Paz-Bailey G, Adams LE, Deen J, Anderson KB, Katzelnick LC: Dengue.Lancet403(10427):667-682, 2024.doi: 10.1016/S0140-6736(23)02576-X
+4.Paz-Bailey G, Adams LE, Deen J, Anderson KB, Katzelnick LC: Dengue.Lancet403(10427):667-682, 2024.doi: 10.1016/S0140-6736(23)02576-X
+
+【登革热的症状和体征】
+潜伏期3至15天后，突然出现发热、寒战、头痛、眼球运动时眼眶后疼痛、腰痛和严重虚脱。在病初的数小时，患者可以感到双腿及全身多处关节极度的疼痛，曾有“断骨热”之称。患者体温常迅速上升至40°C，伴有相对性心动过缓。可能出现球结膜和睑结膜充血，以及短暂性潮红或斑疹（特别是面部）。颈部、滑车上和腹股沟淋巴结常肿大。
+发热和其他症状持续48至96小时，随后大汗后迅速热退。患者随后感觉良好约24小时，之后可能再次发热（呈鞍型热/双峰热），通常峰值温度低于第一次。同时，变白性斑丘疹从躯干扩散到四肢和面部。
+可能出现喉咙痛、胃肠道症状（如恶心、呕吐）和出血症状。登革热感染的第4至7天被认为是关键阶段。在关键阶段出现某些警示体征（腹痛或压痛、持续呕吐、黏膜出血、肝肿大、嗜睡或烦躁不安，或血液浓缩）的患者，发生登革出血热的风险更高，其特征是血小板计数下降、血浆渗漏和出血。如果出现休克，这种复合病症被称为登革热休克综合征。
+神经系统症状并不常见，可包括脑病和癫痫发作;一些患者出现格林巴利综合征。
+轻症病例多无淋巴结肿大，可在<72小时缓解。在更严重的疾病中，乏力可能持续数周。死亡少见。对感染病毒株的免疫是持久的，而对其他毒株的更广泛免疫则仅持续2至12个月。
+感染的抗体依赖性增强可能导致更严重的疾病，在这种情况下，患者先前感染一种登革热血清型产生非中和抗体，然后再感染另一种不同的登革热血清型。
+
+【登革热的诊断】
+急性期和恢复期血清学检查
+急性期和恢复期血清学检查
+对于生活在或曾前往流行区的患者，如果出现突然发热、严重眼眶后头痛、肌肉痛和淋巴结肿大，特别是伴有特征性皮疹或反复发热，应怀疑登革热。评估应排除其他诊断，尤其是疟疾、寨卡病毒感染、基孔肯雅病和钩端螺旋体病。
+诊断研究包括急性和恢复期血清学检测、登革热非结构蛋白1（NS1）抗原检测以及通过血液样本的聚合酶链反应（PCR）进行病毒基因组检测（1，2）。血清学检测涉及使用配对血清进行血凝抑制或补体结合试验，但可能与其他黄病毒抗体发生交叉反应，尤其是寨卡病毒。空斑减少中和试验更特异，被认为是血清学诊断的金标准。抗原检测只在世界的某些地区（不是美国）开展，PCR检测则通常只在具有特殊专长的实验室开展。
+尽管很少进行，也很困难，但可以在专门的实验室中使用接种的巨蚊属蚊子或专门的细胞系进行培养。
+全血细胞计数可能在发热第二天显示白细胞减少；到第四或第五天，白细胞计数可能为2000至4000/mcL（2至4 × 109/L），粒细胞仅占20%至40%。重症登革热患者可能在发病第4至6天出现血细胞比容急剧升高，同时血小板计数下降。尿检可见中等程度蛋白尿及少量管型。
+
+【诊断参考】
+1.World Health Organization: Dengue and severe dengue.Geneva, WHO.April 23, 2024.Accessed June 16, 2025.
+1.World Health Organization: Dengue and severe dengue.Geneva, WHO.April 23, 2024.Accessed June 16, 2025.
+2.Paz-Bailey G, Adams LE, Deen J, Anderson KB, Katzelnick LC: Dengue.Lancet403(10427):667-682, 2024.doi: 10.1016/S0140-6736(23)02576-X
+2.Paz-Bailey G, Adams LE, Deen J, Anderson KB, Katzelnick LC: Dengue.Lancet403(10427):667-682, 2024.doi: 10.1016/S0140-6736(23)02576-X
+
+【登革热的治疗】
+对症治疗
+对症治疗
+登革热治疗主要为对症治疗。 可以使用对乙酰氨基酚，但应避免使用 NSAID（非甾体类抗炎药），包括阿司匹林，因为有出血风险。 此外，阿司匹林增加儿童发生瑞氏综合征的风险。
+
+【预防登革热】
+流行地区的人们应尽量防止蚊虫叮咬。为了防止通过蚊虫的进一步传播，登革热患者应待在蚊帐内，直到第二次发热缓解。
+在美国，登革热疫苗CYD-TDV被批准用于9至16岁的儿童和青少年，这些儿童和青少年以前有实验室证实的登革热病毒感染，并且生活在登革热流行地区（1,2）。然而，这种疫苗仅在登革热流行的波多黎各提供。该疫苗降低了血清阳性接受者住院和严重疾病的风险，但似乎增加了从未患过登革热的患者随后感染时发生更严重疾病的风险。世界卫生组织（3）和美国食品和药物管理局（FDA）建议对既往登革热感染的血清学证据进行疫苗接种前筛查，并仅对血清阳性患者进行疫苗接种（4）。每 6 个月给予三剂。
+另一种登革热候选疫苗（TAK-003）用于预防任何血清型引起的病毒性疾病，已在阿根廷、巴西、印度尼西亚、欧盟和英国上市，并正在美国进行评估。
+
+【预防参考文献】
+1.Paz-Bailey G, Adams L, Wong JM, et al.Dengue Vaccine: Recommendations of the Advisory Committee on Immunization Practices, United States, 2021.MMWR Recomm Rep70(6):1-16, 2021.doi:10.15585/mmwr.rr7006a1
+1.Paz-Bailey G, Adams L, Wong JM, et al.Dengue Vaccine: Recommendations of the Advisory Committee on Immunization Practices, United States, 2021.MMWR Recomm Rep70(6):1-16, 2021.doi:10.15585/mmwr.rr7006a1
+2.Paz-Bailey G, Adams LE, Deen J, Anderson KB, Katzelnick LC: Dengue.Lancet403(10427):667-682, 2024.doi: 10.1016/S0140-6736(23)02576-X
+2.Paz-Bailey G, Adams LE, Deen J, Anderson KB, Katzelnick LC: Dengue.Lancet403(10427):667-682, 2024.doi: 10.1016/S0140-6736(23)02576-X
+3.World Health Organization: WHO position paper on Dengue vaccines—May 2024.Accessed June 16, 2025.
+3.World Health Organization: WHO position paper on Dengue vaccines—May 2024.Accessed June 16, 2025.
+4.Centers for Disease Control and Prevention: Dengue: Dengue Vaccine.May 15, 2025.Accessed June 16, 2025.
+4.Centers for Disease Control and Prevention: Dengue: Dengue Vaccine.May 15, 2025.Accessed June 16, 2025.
+登革热病毒是通过伊蚊叮咬传播的。
+登革热病毒是通过伊蚊叮咬传播的。
+登革热通常会在头几个小时内引起突然发热、严重的眼眶后头痛、肌痛、腺病、特征性皮疹和腿和关节剧痛。
+登革热通常会在头几个小时内引起突然发热、严重的眼眶后头痛、肌痛、腺病、特征性皮疹和腿和关节剧痛。
+登革热可能导致具有出血倾向和休克的潜在致命出血热（登革出血热和登革休克综合征）。
+登革热可能导致具有出血倾向和休克的潜在致命出血热（登革出血热和登革休克综合征）。
+如果居住在或曾到访流行地区的患者有典型症状，应怀疑其患有登革热；可通过血清学检测、抗原检测或血液PCR进行诊断。
+如果居住在或曾到访流行地区的患者有典型症状，应怀疑其患有登革热；可通过血清学检测、抗原检测或血液PCR进行诊断。
+登革热的治疗重点是支持性护理和症状缓解。
+登革热的治疗重点是支持性护理和症状缓解。

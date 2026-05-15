@@ -1,0 +1,124 @@
+标题：代谢功能障碍相关性肝病 (MASLD)
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/approach-to-the-patient-with-liver-disease/metabolic-dysfunction-associated-liver-disease-masld
+============================================================
+
+脂肪性肝病的术语从NAFLD和NASH更改为MASLD和MASH，更好地反映了这些疾病的潜在病理生理学与代谢综合征和代谢风险因素的存在相关，而不仅仅是肥胖（1）。在没有肝脏活检的情况下，区分MASLD和MASH很困难，而肝酶升高并不是识别MASH的敏感预测指标。MASH的存在增加了进展为晚期纤维化或肝硬化的风险。 发病机制尚不清楚，但显然与胰岛素抵抗相关（正如肥胖或代谢综合征与胰岛素抵抗相关一样）。MASLD最常在约50至60岁的患者中被诊断出来，但由于肥胖流行，该病在包括青少年在内的年轻群体中也越来越常见（2, 3, 4）。受累患者至少存在一种心脏代谢风险因素，如肥胖、2型糖尿病或糖耐量异常、血脂异常、高血压和/或代谢综合征。多数患者无症状。尽管通常无创诊断就足够了，但肝活检仍是金标准。治疗包括消除病因和风险因素以及减轻体重。在特定F2至F3期（中度至重度）纤维化患者中，可以使用一种名为瑞美替罗的药物。
+
+【参考文献】
+1.Rinella ME, Lazarus JV, Ratziu V, et al.A multisociety Delphi consensus statement on new fatty liver disease nomenclature. Ann Hepatol.2024;29(1):101133.doi:10.1016/j.aohep.2023.101133
+1.Rinella ME, Lazarus JV, Ratziu V, et al.A multisociety Delphi consensus statement on new fatty liver disease nomenclature. Ann Hepatol.2024;29(1):101133.doi:10.1016/j.aohep.2023.101133
+2.Harrison SA, Gawrieh S, Roberts K, et al.Prospective evaluation of the prevalence of non-alcoholic fatty liver disease and steatohepatitis in a large middle-aged US cohort.J Hepatol.2021;75(2):284-291.doi:10.1016/j.jhep.2021.02.034
+2.Harrison SA, Gawrieh S, Roberts K, et al.Prospective evaluation of the prevalence of non-alcoholic fatty liver disease and steatohepatitis in a large middle-aged US cohort.J Hepatol.2021;75(2):284-291.doi:10.1016/j.jhep.2021.02.034
+3.Williams CD, Stengel J, Asike MI, et al.Prevalence of nonalcoholic fatty liver disease and nonalcoholic steatohepatitis among a largely middle-aged population utilizing ultrasound and liver biopsy: a prospective study.Gastroenterology.2011;140(1):124-131.doi:10.1053/j.gastro.2010.09.038
+3.Williams CD, Stengel J, Asike MI, et al.Prevalence of nonalcoholic fatty liver disease and nonalcoholic steatohepatitis among a largely middle-aged population utilizing ultrasound and liver biopsy: a prospective study.Gastroenterology.2011;140(1):124-131.doi:10.1053/j.gastro.2010.09.038
+4.Perumpail BJ, Manikat R, Wijarnpreecha K, et al.The prevalence and predictors of metabolic dysfunction-associated steatotic liver disease and fibrosis/cirrhosis among adolescents/young adults.J Pediatr Gastroenterol Nutr.2024;79(1):110-118.doi:10.1002/jpn3.12219
+4.Perumpail BJ, Manikat R, Wijarnpreecha K, et al.The prevalence and predictors of metabolic dysfunction-associated steatotic liver disease and fibrosis/cirrhosis among adolescents/young adults.J Pediatr Gastroenterol Nutr.2024;79(1):110-118.doi:10.1002/jpn3.12219
+
+【MASLD的病理生理学】
+脂肪变性肝病的发展有多种原因，涉及许多不同的生化机制，并导致不同类型的肝损伤。病理生理涉及脂肪沉积（脂肪变性）、炎症并可出现纤维化。由于肝甘油三酯积聚导致脂肪变性。MASLD和MASH的潜在机制较为复杂；然而，胰岛素抵抗是发病机制中的一个关键因素，会导致肝脏中游离脂肪酸释放增加和肝脏内源性脂肪生成。其他潜在机制包括极低密度脂蛋白（VLDL）合成减少、肝脏甘油三酯合成增加、脂质代谢相关的遗传因素，以及可能存在的肝脏尿酸生成改变（1）。持续的炎症可刺激肝星状细胞，导致纤维化。如果病情恶化，MASH可导致肝硬化（有时会进展为肝细胞癌）和门静脉高压。MASH也可逆转为单纯性脂肪变性（2, 3）。
+
+【病理生理学参考文献】
+1.Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al.AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease.Hepatology.2023;77(5):1797-1835.doi:10.1097/HEP.0000000000000323
+1.Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al.AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease.Hepatology.2023;77(5):1797-1835.doi:10.1097/HEP.0000000000000323
+2.Lekakis V, Papatheodoridis GV.Natural history of metabolic dysfunction-associated steatotic liver disease.Eur J Intern Med.2024;122:3-10.doi:10.1016/j.ejim.2023.11.005
+2.Lekakis V, Papatheodoridis GV.Natural history of metabolic dysfunction-associated steatotic liver disease.Eur J Intern Med.2024;122:3-10.doi:10.1016/j.ejim.2023.11.005
+3.Diehl AM, Day C.Cause, Pathogenesis, and Treatment of Nonalcoholic Steatohepatitis.N Engl J Med.2017;377(21):2063-2072.doi:10.1056/NEJMra1503519
+3.Diehl AM, Day C.Cause, Pathogenesis, and Treatment of Nonalcoholic Steatohepatitis.N Engl J Med.2017;377(21):2063-2072.doi:10.1056/NEJMra1503519
+
+【MASLD的症状和体征】
+大多数患者无症状，特别是那些患有单纯性脂肪变的患者。有些患者可感觉疲劳、不适或右上腹不适。约75%的代谢相关脂肪性肝炎患者会出现肝肿大（1）。如果存在进展性肝纤维化，可以发生脾肿大，其常常是已经发生门静脉高压的第一个迹象。MASH引起的肝硬化患者可以是无症状的，并且可能缺乏慢性肝病的常见体征。
+
+【症状和体征】
+1.Reid AE.Nonalcoholic steatohepatitis.Gastroenterology.2001;121(3):710-723.doi:10.1053/gast.2001.27126
+1.Reid AE.Nonalcoholic steatohepatitis.Gastroenterology.2001;121(3):710-723.doi:10.1053/gast.2001.27126
+
+【MASLD的诊断】
+肝脏脂肪变性（通过影像学、生物标志物或活检诊断）
+肝脏脂肪变性（通过影像学、生物标志物或活检诊断）
+至少存在1个心脏代谢风险因素
+至少存在1个心脏代谢风险因素
+饮酒史有限（女性每日不超过2杯，男性每日不超过3杯）
+饮酒史有限（女性每日不超过2杯，男性每日不超过3杯）
+血清学检查以排除乙型和丙型肝炎
+血清学检查以排除乙型和丙型肝炎
+MASLD的诊断应考虑以下情况：患者存在代谢综合征或代谢危险因素（通常为肥胖、2型糖尿病或高空腹血糖水平、高血压及血脂异常）、有限的饮酒史，以及出现提示肝病的无法解释的实验室异常指标。
+MASLD的正式诊断需要肝脏脂肪变性的证据，以及至少1个心脏代谢风险因素（1）。符合诊断标准的重要心脏代谢风险因素包括以下5项中至少1项：
+体重指数>25 kg/m2(亚洲人群体重指数>23)或腰围>94cm（男性）或80cm（女性）
+体重指数>25 kg/m2(亚洲人群体重指数>23)或腰围>94cm（男性）或80cm（女性）
+空腹血糖>100mg/dL或糖化血红蛋白>5.7%或2型糖尿病或目前正在接受2型糖尿病治疗
+空腹血糖>100mg/dL或糖化血红蛋白>5.7%或2型糖尿病或目前正在接受2型糖尿病治疗
+血压>130/85mm/Hg或目前正在接受降压药治疗
+血压>130/85mm/Hg或目前正在接受降压药治疗
+甘油三酯>150或目前正在接受降脂治疗
+甘油三酯>150或目前正在接受降脂治疗
+高密度脂蛋白胆固醇40mg/dL（男性）或高密度脂蛋白50mg/dL（女性）或目前正在接受降脂药物治疗（2）
+高密度脂蛋白胆固醇40mg/dL（男性）或高密度脂蛋白50mg/dL（女性）或目前正在接受降脂药物治疗（2）
+MASH的诊断需要肝脏炎症和脂肪变的证据，且需活检显示有或无纤维化的肝细胞损伤及炎症组织学依据（1, 2）。也可能出现肝硬化。
+区分代谢相关脂肪性肝病（MASLD）与代谢相关脂肪性肝炎（MASH）可能较为困难，而肝酶升高对于识别 MASH 的敏感性并不高。代谢综合征（特别是2型糖尿病）以及铁蛋白水平升高，增加了患者罹患MASH而非单纯性脂肪肝的可能性。此外，临床评分系统，如 FIB4 评分、MASLD 纤维化评分计算器或实验室 FibroTestTM（在美国称为 FibroSure®）可以识别有纤维化风险的患者，从而识别出更有可能患有 MASH 并有进展至肝硬化风险的患者。肝酶升高最常见的实验室异常是氨基转移酶水平的升高。与酒精性肝病不同，MASH中天冬氨酸转氨酶（AST）/丙氨酸转氨酶（ALT）的比值通常<1。碱性磷酸酶和gamma–谷氨酰转肽酶（GGT）偶尔升高。高胆红素血症、凝血酶原时间PT延长和低白蛋白血症少见。
+诊断时，需要提供酒精摄入量未过量（例如女性每日<20克、男性每日<30克）的佐证（如经亲友核实的饮酒史），同时血清学检测显示乙型及丙型肝炎阴性（即乙型肝炎表面抗原与丙型肝炎病毒抗体检测结果为阴性）具有辅助诊断价值，但并非必需条件。MASH的肝脏活检显示，超过5%的肝细胞中存在大的脂肪滴（大泡性脂肪浸润），受损的（“气球样”）肝细胞，以及肝小叶内以淋巴细胞为主的慢性炎症。部分患者可能出现纤维化，通常呈细胞周围或"鸡笼状"纤维化模式。活检的指征包括诊断或分期存在不明确或差异，或出现无法解释的门静脉高压迹象（例如脾肿大、血细胞减少）。
+肝脏的影像学检查，包括超声、CT，特别是MRI，可以识别肝脂肪变性。非侵入性的纤维化测量方法，如瞬时弹性成像（一种同时使用超声和低频弹性波的测试）,超声弹性成像, 或MR弹性成像可以评估脂肪变性的严重程度并评估纤维化，从而在许多情况下避免肝活检的需要(3, 4)。瞬时弹性成像和超声弹性成像可能受体型限制（例如超声波可能无法充分穿透肥胖患者），而磁共振弹性成像则无此限制。然而，这些检查不能识别MASH的炎症表现并且不能区分MASH和其他原因引起的肝脂肪变性。
+
+【诊断参考】
+1.Rinella ME, Lazarus JV, Ratziu V, et al.A multisociety Delphi consensus statement on new fatty liver disease nomenclature.Hepatology.2023;78(6):1966-1986.doi:10.1097/HEP.0000000000000520
+1.Rinella ME, Lazarus JV, Ratziu V, et al.A multisociety Delphi consensus statement on new fatty liver disease nomenclature.Hepatology.2023;78(6):1966-1986.doi:10.1097/HEP.0000000000000520
+2.Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al.AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease.Hepatology.2023;77(5):1797-1835.doi:10.1097/HEP.0000000000000323
+2.Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al.AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease.Hepatology.2023;77(5):1797-1835.doi:10.1097/HEP.0000000000000323
+3.Cassinotto C, Boursier J, de Ledinghen V, et al.Liver stiffness in nonalcoholic fatty liver disease: A comparison of supersonic shear imaging, FibroScan, and ARFI with liver biopsy.Hepatology.63(6):1817-1827, 2016.doi: 10.1002/hep.28394
+3.Cassinotto C, Boursier J, de Ledinghen V, et al.Liver stiffness in nonalcoholic fatty liver disease: A comparison of supersonic shear imaging, FibroScan, and ARFI with liver biopsy.Hepatology.63(6):1817-1827, 2016.doi: 10.1002/hep.28394
+4.Lee MS, Bae JM, Joo SK, et al.Prospective comparison among transient elastography, supersonic shear imaging and ARFI for predicting fibrosis in nonalcoholic fatty liver disease.PLoS One.2017;12(11)e:0188321.doi: 10.1371/journal.pone.0188321.eCollection 2017.Erratumin:PLoS One3(6):e0200055, 2018.doi: 10.1371/journal.pone.0200055.eCollection 2018.
+4.Lee MS, Bae JM, Joo SK, et al.Prospective comparison among transient elastography, supersonic shear imaging and ARFI for predicting fibrosis in nonalcoholic fatty liver disease.PLoS One.2017;12(11)e:0188321.doi: 10.1371/journal.pone.0188321.eCollection 2017.Erratumin:PLoS One3(6):e0200055, 2018.doi: 10.1371/journal.pone.0200055.eCollection 2018.
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对该资源的内容不承担任何责任。
+MASHCAN.com.A collection of clinical calculators for the evaluation of MASLD status.
+MASHCAN.com.A collection of clinical calculators for the evaluation of MASLD status.
+
+【MASLD的治疗】
+祛除病因和控制危险因素
+祛除病因和控制危险因素
+有时使用瑞斯美替罗姆（适用于中度至重度纤维化患者）
+有时使用瑞斯美替罗姆（适用于中度至重度纤维化患者）
+大多数患者治疗的基础仍然是侧重于消除潜在病因和控制代谢风险因素（1）。这样的目标包括停止使用药物或毒物、减肥和治疗血脂紊乱或高血糖。通过实验室指标和组织学检查，减重干预可以减轻肝脏炎症、脂肪变性和纤维化（2, 3, 4）。初步证据表明，噻唑烷二酮和维生素 E 可以帮助纠正 MASH 中的生化和组织学异常，但可能无法减少纤维化（1）。此外，高剂量维生素 E 在糖尿病患者中禁用，从而限制了其临床应用价值。许多其他治疗方法（如熊去氧胆酸、甲硝唑、二甲双胍、无水甜菜碱、胰高血糖素及 L-谷氨酰胺输注）尚未被证实具有确切疗效。
+一种甲状腺β受体激动剂瑞美替罗可用于治疗患有MASLD和中度至重度（F2和F3）纤维化的患者（5）。在一项随机试验中，瑞美替罗的使用导致30%的患者脂肪变性和MASH逆转，25%的患者纤维化程度至少改善一个阶段（6）。临床试验表明该药物具有良好的耐受性和不良反应特征（最常见的是腹泻和恶心）。建议在开始治疗前检查血脂谱、促甲状腺激素水平和肝功能检查（包括血清转氨酶）；应在治疗开始后的第3、6和12个月时重复进行肝功能监测。
+针对MASLD的新兴靶向疗法针对多种不同分子通路，包括过氧化物酶体增殖物激活受体α（PPAR-α）、胰高血糖素样肽-1（GLP-1）调节剂及法尼醇X受体（FXR）配体。这些疗法在实现MASH组织学缓解及逆转已形成的肝纤维化方面均展现出潜在疗效。进一步的研究正在进行。
+
+【治疗参考文献】
+1.Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al.AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease.Hepatology.2023;77(5):1797-1835.doi:10.1097/HEP.0000000000000323
+1.Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al.AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease.Hepatology.2023;77(5):1797-1835.doi:10.1097/HEP.0000000000000323
+2.Koutoukidis DA, Koshiaris C, Henry JA, et al.The effect of the magnitude of weight loss on non-alcoholic fatty liver disease: A systematic review and meta-analysis.Metabolism.2021;115:154455.doi:10.1016/j.metabol.2020.154455
+2.Koutoukidis DA, Koshiaris C, Henry JA, et al.The effect of the magnitude of weight loss on non-alcoholic fatty liver disease: A systematic review and meta-analysis.Metabolism.2021;115:154455.doi:10.1016/j.metabol.2020.154455
+3.American Diabetes Association Professional Practice Committee.4.Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S59-S85.doi:10.2337/dc25-S004
+3.American Diabetes Association Professional Practice Committee.4.Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S59-S85.doi:10.2337/dc25-S004
+4.Koutoukidis DA, Astbury NM, Tudor KE, et al.Association of Weight Loss Interventions With Changes in Biomarkers of Nonalcoholic Fatty Liver Disease: A Systematic Review and Meta-analysis [published correction appears in JAMA Intern Med.2019 Sep 1;179(9):1303-1304. doi: 10.1001/jamainternmed.2019.4091.].JAMA Intern Med.2019;179(9):1262-1271.doi:10.1001/jamainternmed.2019.2248
+4.Koutoukidis DA, Astbury NM, Tudor KE, et al.Association of Weight Loss Interventions With Changes in Biomarkers of Nonalcoholic Fatty Liver Disease: A Systematic Review and Meta-analysis [published correction appears in JAMA Intern Med.2019 Sep 1;179(9):1303-1304. doi: 10.1001/jamainternmed.2019.4091.].JAMA Intern Med.2019;179(9):1262-1271.doi:10.1001/jamainternmed.2019.2248
+5.Chen VL, Morgan TR, Rotman Y, et al.Resmetiromtherapy for metabolic dysfunction-associated steatotic liver disease: October 2024 updates to AASLD Practice Guidance.Hepatology.2025;81(1):312-320.doi:10.1097/HEP.0000000000001112
+5.Chen VL, Morgan TR, Rotman Y, et al.Resmetiromtherapy for metabolic dysfunction-associated steatotic liver disease: October 2024 updates to AASLD Practice Guidance.Hepatology.2025;81(1):312-320.doi:10.1097/HEP.0000000000001112
+6.Harrison SA, Bedossa P, Guy CD, et al.A Phase 3, Randomized, Controlled Trial ofResmetiromin NASH with Liver Fibrosis.N Engl J Med.2024;390(6):497-509.doi:10.1056/NEJMoa2309000
+6.Harrison SA, Bedossa P, Guy CD, et al.A Phase 3, Randomized, Controlled Trial ofResmetiromin NASH with Liver Fibrosis.N Engl J Med.2024;390(6):497-509.doi:10.1056/NEJMoa2309000
+
+【MASLD 的预后】
+预后取决于纤维化程度，这是唯一与肝脏相关死亡率和肝移植需求相关的指标 (1, 2)。单纯性脂肪肝在12%至40%的患者中进展为MASH（3）。尽管代谢相关脂肪性肝病患者在组织学检查中发现代谢相关脂肪性肝炎，并有证据表明纤维化发病率和死亡率较高，但预后仍然难以预测（4）。据估计，有10％的MASLD患者在20年后逐渐进展为肝硬化(5)。酒精、部分药物（如细胞毒性药物）以及代谢性疾病（如胰岛素抵抗、高血压、肥胖），均与代谢功能障碍相关性脂肪性肝炎（MASH）的病情进展加速有关。因此，考虑到加速进展为肝纤维化的风险，即使是适度饮酒也应避免。 除非出现并发症（如静脉曲张出血），否则预后通常是好的。
+
+【预后参考】
+1.Okubo S, Takaki A, Sato I, et al.Clinical Variables that Predict Liver-related Events in Steatotic Liver Disease Diagnosed by a Liver Biopsy.Intern Med.Published online February 8, 2025.doi:10.2169/internalmedicine.4770-24
+1.Okubo S, Takaki A, Sato I, et al.Clinical Variables that Predict Liver-related Events in Steatotic Liver Disease Diagnosed by a Liver Biopsy.Intern Med.Published online February 8, 2025.doi:10.2169/internalmedicine.4770-24
+2.Angulo P, Kleiner DE, Dam-Larsen S, et al.Liver fibrosis, but no other histologic features, is associated with long-term outcomes of patients with nonalcoholic fatty liver disease.Gastroenterology.2015;149(2):389-398.e10.doi: 10.1053/j.gastro.2015.04.043
+2.Angulo P, Kleiner DE, Dam-Larsen S, et al.Liver fibrosis, but no other histologic features, is associated with long-term outcomes of patients with nonalcoholic fatty liver disease.Gastroenterology.2015;149(2):389-398.e10.doi: 10.1053/j.gastro.2015.04.043
+3.Lekakis V, Papatheodoridis GV.Natural history of metabolic dysfunction-associated steatotic liver disease.Eur J Intern Med.2024;122:3-10.doi:10.1016/j.ejim.2023.11.005
+3.Lekakis V, Papatheodoridis GV.Natural history of metabolic dysfunction-associated steatotic liver disease.Eur J Intern Med.2024;122:3-10.doi:10.1016/j.ejim.2023.11.005
+4.Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al.AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease.Hepatology.2023;77(5):1797-1835.doi:10.1097/HEP.0000000000000323
+4.Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al.AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease.Hepatology.2023;77(5):1797-1835.doi:10.1097/HEP.0000000000000323
+5.Nasr P, Ignatova S, Kechagias E, et al.Natural history of nonalcoholic fatty liver disease: A prospective follow-up study with serial biopsies.Hepatol Commun2(2);199-210, 2017.doi: 10.1002/hep4.1134.eCollection 2018 Feb.
+5.Nasr P, Ignatova S, Kechagias E, et al.Natural history of nonalcoholic fatty liver disease: A prospective follow-up study with serial biopsies.Hepatol Commun2(2);199-210, 2017.doi: 10.1002/hep4.1134.eCollection 2018 Feb.
+代谢功能障碍相关肝病（MASLD）包括一种称为脂肪肝的良性疾病以及代谢功能障碍相关脂肪性肝炎 （MASH）。
+代谢功能障碍相关肝病（MASLD）包括一种称为脂肪肝的良性疾病以及代谢功能障碍相关脂肪性肝炎 （MASH）。
+代谢相关脂肪性肝炎的特征是组织学上的肝损伤与酒精性肝炎相似，但发生于患有肥胖、2型糖尿病或血脂异常等代谢性疾病的患者中。
+代谢相关脂肪性肝炎的特征是组织学上的肝损伤与酒精性肝炎相似，但发生于患有肥胖、2型糖尿病或血脂异常等代谢性疾病的患者中。
+大多数患者没有症状，有些患者可感觉右上部不适、疲劳或乏力。
+大多数患者没有症状，有些患者可感觉右上部不适、疲劳或乏力。
+最终会出现门静脉高压和肝硬化，但也许为首发症状。
+最终会出现门静脉高压和肝硬化，但也许为首发症状。
+评估酒精使用障碍（基于证实的病史）和乙型和丙型肝炎（通过血清学测试），并进行非侵入性影像扫描以评估脂肪浸润和纤维化程度。
+评估酒精使用障碍（基于证实的病史）和乙型和丙型肝炎（通过血清学测试），并进行非侵入性影像扫描以评估脂肪浸润和纤维化程度。
+可能的情况下，消除病因并控制危险因素。
+可能的情况下，消除病因并控制危险因素。

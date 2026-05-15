@@ -1,0 +1,32 @@
+标题：颞下颌关节（TMJ）炎
+来源：https://www.msdmanuals.cn/professional/dental-disorders/temporomandibular-disorders/arthritis-of-the-temporomandibular-joint-tmj
+============================================================
+
+(参见颞下颌关节疾病概述。）
+
+【感染性关节炎】
+颞下颌关节（TMJ）感染可以由邻近感染直接扩散或血行播散引起（见急性感染性关节炎）。关节区域出现炎症反应、疼痛和下颌活动受限。局部感染体征伴或不伴全身感染提示该诊断。早期X光片可能呈阴性，但晚期可能显示骨质破坏。如果怀疑为化脓性关节炎，可进行穿刺检查以明确诊断和确定病原菌。诊断必须迅速确定以防止永久性关节损伤。
+治疗包括使用抗生素、适当饮水、控制疼痛和限制应使用广谱抗生素，直到根据培养和药敏试验明确具体的细菌学诊断（1）。对于口腔结构的耐甲氧西林金黄色葡萄球菌(MRSA)感染，可选抗生素有静滴万古霉素。化脓性感染需要抽吸或引流处理。一旦感染控制，早期被动张口训练有助于预防瘢痕形成和避免活动受限。
+
+【创伤性关节炎】
+罕见情况下，急性损伤（如困难拔牙手术或气管插管）可能引起TMJ炎症。表现为疼痛、触痛和下颌活动受限。诊断主要依据病史。除了关节内水肿或出血使关节间隙增加外，X线检查无特殊变化。治疗包括口服糖皮质激素、非甾体抗炎药（NSAIDs）、局部热敷、无痛饮食以及限制下颌活动。
+
+【骨关节炎】
+TMJ 可能受骨关节炎（退行性关节病）影响，通常在>50 岁的患者中。有时，患者会抱怨僵硬、下颌运动时发出刺耳的声音或轻微疼痛。骨摩擦音可能是由于关节盘退变或穿孔导致骨头相互摩擦而产生的。骨关节炎常涉及双侧TMJ。X光片、常规CT或锥形束CT可能显示髁状突变平、唇状突起、骨刺或糜烂和/或软骨下囊肿，这是由于关节过度负重所致。治疗是对症治疗。在睡眠时（有时清醒时）佩戴口腔矫治器（牙合垫或护齿器）可有助于缓解疼痛并减少关节摩擦声。非甾体抗炎药可缓解疼痛。
+
+【继发性退行性关节炎】
+颞下颌关节继发性退行性关节炎通常发生于患有系统性风湿病（如类风湿关节炎、幼年特发性关节炎）的患者，或有外伤史、内部紊乱（如关节盘或解剖异常）的患者。其特征是张口受限，下颌活动时单侧TMJ疼痛、压痛和嘎嘎弹响。
+单侧关节受累有助于区分继发性退行性关节炎与原发性骨关节炎。诊断依据是X线或锥形束CT，例如骨关节炎的影像学检查通常表现为患侧髁突扁平化、唇化、骨刺形成或骨质侵蚀。
+治疗以保守为主，但可能需要进行关节成形术或高位髁突切除术。口腔矫治器可能有助于缓解症状。除了在用餐、口腔卫生和设备清洁期间外，该设备会一直佩戴。当症状改善时，逐渐减少每天佩戴矫治器的时间。关节内注射糖皮质激素可缓解症状，但若频繁重复可能加速软骨流失和关节间隙变窄（2）。
+
+【类风湿关节炎】
+类风湿关节炎成人患者与儿童患者的颞下颌关节均可能受累，但通常仅见于病情较严重的患者（3）。最常见的表现为TMJ疼痛、肿胀和活动受限，后期可能引起前牙开合畸形。儿童患者，其髁突破坏干扰下颌骨的生长发育并引起面部畸形。随后可能继发关节强直。早期颞下颌关节紊乱的X线表现通常为阴性，但通常显示为晚期骨破坏，这可能导致前牙张开咬合错位。诊断依据是颞下颌关节炎症伴随多关节炎，并通过活动性类风湿关节炎的其他典型表现（例如多关节炎）加以确认。
+治疗采取与其他关节的风湿性关节炎相同的方法。在急性期，可给予非甾体抗炎药镇痛，并限制下颌功能。睡眠期间佩戴的口腔矫治器通常很有帮助。症状消退后，适度的下颌活动有利于防止下颌运动障碍。如果发生关节强直，则需要采用外科手术，但手术需等待病情稳定后进行。
+
+【参考文献】
+1.Omiunu A, Talmor G, Nguyen B, et al.Septic Arthritis of the Temporomandibular Joint: A Systematic Review.J Oral Maxillofac Surg.2021;79(6):1214-1229.doi:10.1016/j.joms.2021.01.004
+1.Omiunu A, Talmor G, Nguyen B, et al.Septic Arthritis of the Temporomandibular Joint: A Systematic Review.J Oral Maxillofac Surg.2021;79(6):1214-1229.doi:10.1016/j.joms.2021.01.004
+2.Derwich M, Mitus-Kenig M, Pawlowska E.Mechanisms of Action and Efficacy of Hyaluronic Acid, Corticosteroids and Platelet-Rich Plasma in the Treatment of Temporomandibular Joint Osteoarthritis-A Systematic Review.Int J Mol Sci.2021;22(14):7405.Published 2021 Jul 9.doi:10.3390/ijms22147405
+2.Derwich M, Mitus-Kenig M, Pawlowska E.Mechanisms of Action and Efficacy of Hyaluronic Acid, Corticosteroids and Platelet-Rich Plasma in the Treatment of Temporomandibular Joint Osteoarthritis-A Systematic Review.Int J Mol Sci.2021;22(14):7405.Published 2021 Jul 9.doi:10.3390/ijms22147405
+3.Hysa E, Lercara A, Cere A, et al.Temporomandibular disorders in immune-mediated rheumatic diseases of the adult: A systematic review.Semin Arthritis Rheum.2023;61:152215.doi:10.1016/j.semarthrit.2023.152215
+3.Hysa E, Lercara A, Cere A, et al.Temporomandibular disorders in immune-mediated rheumatic diseases of the adult: A systematic review.Semin Arthritis Rheum.2023;61:152215.doi:10.1016/j.semarthrit.2023.152215

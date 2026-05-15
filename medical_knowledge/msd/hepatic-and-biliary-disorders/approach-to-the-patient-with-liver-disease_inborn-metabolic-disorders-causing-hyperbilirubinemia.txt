@@ -1,0 +1,43 @@
+标题：先天代谢性疾病引起的高胆红素血症
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/approach-to-the-patient-with-liver-disease/inborn-metabolic-disorders-causing-hyperbilirubinemia
+============================================================
+
+遗传性或先天代谢性疾病可以引起高非结合胆红素血症或高结合胆红素血症（见胆红素代谢概述）。
+非结合性高胆红素血症：吉尔伯特综合征、克里格勒-纳贾尔综合征及原发性分流性高胆红素血症
+非结合性高胆红素血症：吉尔伯特综合征、克里格勒-纳贾尔综合征及原发性分流性高胆红素血症
+结合型高胆红素血症：Dubin-Johnson综合征和Rotor综合征
+结合型高胆红素血症：Dubin-Johnson综合征和Rotor综合征
+（参见肝脏结构和功能和肝脏疾病患者的评估）。
+
+【Gilbert综合征】
+Gilbert综合征推测是一种终身的疾病，其中唯一显著异常是无症状的、轻度的、高非结合胆红素血症。它可被误诊为慢性肝炎或其他肝脏疾病。
+吉尔伯特综合征影响3%～10%的人群（1、2、3）。它是由编码葡萄糖醛酸转移酶的UGT1A1基因发生多种突变引起的。根据具体的基因突变类型，其可能以常染色体显性或常染色体隐性方式遗传。
+发病机制涉及复杂的肝脏摄取胆红素的缺陷。葡萄糖醛酸转移酶的活性降低，但不如Ⅱ型的Crigler-Najjar综合征那么低。在许多患者中，红细胞破坏也轻微加快，但这不会引起贫血或高胆红素血症。肝脏病理正常。
+吉尔伯特综合征最常见于年轻人，通过发现黄疸或发现胆红素水平升高而偶然发现，胆红素水平通常在 2～5 mg/dL（34～86 μmol/L）之间波动，并在禁食或其他应激状态下升高。
+Gilbert综合征与肝炎的鉴别点为显示的成分主要是非结合胆红素，其他还有正常的肝脏检查结果，和不存在尿胆红素。它与溶血不同，没有贫血和网织红细胞增多。
+不需要治疗。应该向患者保证他们没有肝脏疾病。
+
+【Gilbert综合征参考文献】
+1.Kamal S, Abdelhakam S, Ghoraba D, et al.The frequency, clinical course, and health related quality of life in adults with Gilbert's syndrome: a longitudinal study.BMC Gastroenterol.2019;19(1):22.Published 2019 Feb 4.doi:10.1186/s12876-019-0931-2
+1.Kamal S, Abdelhakam S, Ghoraba D, et al.The frequency, clinical course, and health related quality of life in adults with Gilbert's syndrome: a longitudinal study.BMC Gastroenterol.2019;19(1):22.Published 2019 Feb 4.doi:10.1186/s12876-019-0931-2
+2.Wagner KH, Shiels RG, Lang CA, Seyed Khoei N, Bulmer AC.Diagnostic criteria and contributors to Gilbert's syndrome.Crit Rev Clin Lab Sci.2018;55(2):129-139.doi:10.1080/10408363.2018.1428526
+2.Wagner KH, Shiels RG, Lang CA, Seyed Khoei N, Bulmer AC.Diagnostic criteria and contributors to Gilbert's syndrome.Crit Rev Clin Lab Sci.2018;55(2):129-139.doi:10.1080/10408363.2018.1428526
+3.National Library of Medicine.Medline.Gilbert Syndrome.Accessed April 13, 2025.
+3.National Library of Medicine.Medline.Gilbert Syndrome.Accessed April 13, 2025.
+
+【Crigler-Najjar综合征】
+这种罕见的遗传性肝病是由于葡萄糖醛酸转移酶（UGT1A1）缺乏引起的，该酶催化胆红素的结合（主要与胆红素二葡糖苷酸结合），使胆红素可溶于水。编码该酶的基因各种缺陷会导致该酶完全（1型）或部分（2型）失活。
+常染色体隐性Ⅰ型（完全性）疾病患者有严重的非结合高胆红素血症，通常在出生后不久出现。他们通常在1岁前死于核黄疸，但也可以活到成年。治疗包括光疗法和肝移植。
+染色体隐性Ⅱ型（部分性）疾病（有不同的外显率）患者常有更轻的非结合型高胆红素血症（<20mg/dL[<342micromol/L]），通常活到成年，不伴有神经系统的破坏。苯巴比妥可诱导部分缺乏的葡萄糖醛酸转移酶，1.5～2mg/kg，每天3次口服可能有效。
+
+【Dubin-Johnson综合征和Rotor综合征】
+杜宾-约翰逊综合征与罗托综合征是由基因突变引起的结合型高胆红素血症，但不伴有胆汁淤积；除黄疸外，不引发其他症状或后遗症。与Gilbert综合征（也不引起其他症状）的非结合型高胆红素血症相比，Dubin-Johnson综合征和Rotor综合征患者的尿液中没有胆红素。氨基转移酶和碱性磷酸酶的水平常是正常的。不需要治疗。
+
+【Dubin-Johnson综合征】
+这是一种罕见的常染色体隐性遗传性疾病，涉及胆红素葡萄糖醛酸的分泌受损。常通过肝活检诊断；由于细胞内黑色素样物质聚积使得肝脏呈深黑色，但其他病理表现正常。
+
+【Rotor综合征】
+这种罕见的疾病临床表现与Dubin-Johnson综合征相似，但肝脏没有色素沉着并存在其他轻微的代谢异常。
+
+【原发性分流性高胆红素血症】
+这是一种罕见的家族性良性疾病，它与早期标记的胆红素生成过多有关（其胆红素来自无效的红细胞生成和非血红蛋白的血红素而不是来自正常红细胞的替换）。

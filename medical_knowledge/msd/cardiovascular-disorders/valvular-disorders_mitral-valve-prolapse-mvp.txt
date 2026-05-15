@@ -1,0 +1,89 @@
+标题：（MVP）二尖瓣脱垂
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/valvular-disorders/mitral-valve-prolapse-mvp
+============================================================
+
+(参见心脏瓣膜疾病概述。）
+二尖瓣脱垂是常见的，根据超声心动图筛查标准，其他方面正常的人群患病率为2.4%(1)。女性和男性受影响程度相等；发病通常在青春期生长突增之后。
+
+【参考文献】
+1.Freed LA, Levy D, Levine RA, et al.Prevalence and clinical outcome of mitral-valve prolapse.N Engl J Med1999;341(1):1-7.doi:10.1056/NEJM199907013410101
+1.Freed LA, Levy D, Levine RA, et al.Prevalence and clinical outcome of mitral-valve prolapse.N Engl J Med1999;341(1):1-7.doi:10.1056/NEJM199907013410101
+
+【二尖瓣脱垂的病因】
+二尖瓣脱垂最常见的病因是：
+二尖瓣瓣叶和腱索的黏液样变性
+二尖瓣瓣叶和腱索的黏液样变性
+在黏液样变性时，瓣膜的纤维胶原层变薄，并积聚黏液样物质。腱索变得更长、更薄，瓣叶则扩大并呈橡胶样。这些变化导致瓣叶松弛，在左心室收缩时，可向后膨出（脱垂）进入左心房。退化的腱索断裂可能导致部分瓣叶呈连枷样运动进入心房，通常引起严重反流。
+通常为特发性退行性变，但也可能通过常染色体显性遗传或罕见的Ｘ-连锁的隐性方式遗传。黏液样变性也可能由结缔组织病或系统性风湿性疾病引起（如马凡综合征、埃勒斯-当洛综合征、成人多囊肾病、成骨不全、假性黄色瘤性弹性纤维病、系统性红斑狼疮、结节性多动脉炎），以及肌营养不良。二尖瓣脱垂在Graves病、乳房发育不良、血管性血友病、镰状细胞病和风湿性心脏病患者中较为常见。
+黏液样变性较少累及主动脉瓣或三尖瓣，若发生可导致主动脉瓣或三尖瓣脱垂。
+二尖瓣环分离(MAD) 是指收缩期二尖瓣环与相邻心室心肌的部分脱离，导致二尖瓣过度活动。MAD 与二尖瓣脱垂和室性心律失常密切相关。MAD 的识别可以改变用于二尖瓣修复的手术技术。
+由于缺血性乳头肌功能不全或风湿性腱索断裂，二尖瓣瓣叶看似正常（即非黏液样变性）的患者也可能发生二尖瓣反流（MR）。当血管内容量明显降低时，如严重脱水或有时在妊娠期间（当孕妇取卧位时，妊娠子宫压迫下腔静脉，减少静脉回流），也可能发生暂时性的二尖瓣脱垂。
+二尖瓣反流是二尖瓣脱垂最常见的并发症。二尖瓣反流可能是急性（由于腱索断裂造成二尖瓣瓣叶呈连枷样运动）或慢性。
+伴有二尖瓣反流的二尖瓣脱垂后遗症包括心力衰竭、感染性心内膜炎以及伴血栓栓塞的房颤。MVP是否独立于MR和心房颤动引起中风或心内膜炎尚不清楚。
+心室异位常见于二尖瓣脱垂。严重室性心律失常或高异位负荷发生于<10%的病例中，并与心源性猝死相关 (1)。与严重心律失常相关的特征包括瓣叶严重黏液样变性、重度二尖瓣反流、心肌纤维化和二尖瓣环分离(2)。二尖瓣环分离需外科手术修复，而非经导管缘对缘修复术（TEER）。
+
+【病因参考文献】
+1.Essayagh B, Sabbag A, Antoine C, et al.Presentation and Outcome of Arrhythmic Mitral Valve Prolapse.J Am Coll Cardiol2020;76(6):637-649.doi:10.1016/j.jacc.2020.06.029
+1.Essayagh B, Sabbag A, Antoine C, et al.Presentation and Outcome of Arrhythmic Mitral Valve Prolapse.J Am Coll Cardiol2020;76(6):637-649.doi:10.1016/j.jacc.2020.06.029
+2.Essayagh B, Sabbag A, El-Am E, Cavalcante JL, Michelena HI, Enriquez-Sarano M.Arrhythmic mitral valve prolapse and mitral annular disjunction: pathophysiology, risk stratification, and management.Eur Heart J2023;44(33):3121-3135.doi:10.1093/eurheartj/ehad491
+2.Essayagh B, Sabbag A, El-Am E, Cavalcante JL, Michelena HI, Enriquez-Sarano M.Arrhythmic mitral valve prolapse and mitral annular disjunction: pathophysiology, risk stratification, and management.Eur Heart J2023;44(33):3121-3135.doi:10.1093/eurheartj/ehad491
+
+【二尖瓣脱垂的症状和体征】
+大多数二尖瓣脱垂患者没有症状。一些患者会出现非特异性症状（如胸痛、呼吸困难、心悸、头晕、近乎晕厥、偏头痛、焦虑），这些症状被认为更多与交感神经信号传导及敏感性异常有关，而非由二尖瓣病变本身引起。在部分患者中，情绪应激可诱发心悸，这可能是良性心律失常的表现（房性早搏、阵发性房性心动过速、室性早搏、复杂性室性异位搏动）。
+患者偶尔有二尖瓣反流的表现。罕见有心内膜炎的表现（如，发热、消瘦、血栓栓塞现象）或脑卒中。猝死发生在<1%患者中，最常发生于腱索断裂或存在其他异常，以及/或连枷样二尖瓣瓣叶的患者中。室性心律失常致死被认为较为罕见，但心源性猝死患者中相当比例无相关心脏结构异常（1、2）。
+其他与二尖瓣脱垂相关但不能诊断为二尖瓣脱垂的体征包括乳房发育不良、漏斗胸、脊柱后凸减少（如直背综合征）和胸廓前后径狭窄。
+清脆的收缩中期喀喇音
+清脆的收缩中期喀喇音
+典型的二尖瓣脱垂不产生心脏视诊或触诊的阳性体征。
+单独的MVP通常会导致清脆的中期收缩期卡嗒声，这是因为瓣下结构突然收紧。病人取左侧卧位时用听诊器的膜型胸件在左胸心尖听诊最容易识别。MVP伴MR引起一次点击，伴随收缩晚期MR杂音。通过减少左心室容量的动作（如，坐起、站立、瓦尔萨尔瓦动作）可使喀喇音更靠近第一心音（S1）；相同的动作引起二尖瓣返流杂音出现或变得更响、持续时间更长。这些效应的发生是因为左心室容量减少导致乳头肌和腱索在瓣膜下方更向中心牵拉，从而引起更快速、更有力的瓣膜脱垂，并导致更早、更严重的反流。相反，下蹲或等长握力练习可以延迟喀喇音（使其更靠近S1），并缩短二尖瓣反流杂音。
+收缩期喀喇音可能与先天性主动脉瓣狭窄的喀喇音相混淆，后者可以被鉴别，因为它发生在收缩期的非常早期，且不随体位或左心室容量改变而移动。其他发现包括收缩期雁鸣音或喘鸣声，认为是由于瓣叶震动所引起；这些发现通常是暂时的和可能随呼吸相而改变。由脱垂瓣膜回到其正常位置所引起的舒张早期开瓣音甚少闻及。在部分患者，特别是儿童，MVP的发现可能是劳累后更加明显。
+
+【症状和体征参考】
+1.Han HC, Ha FJ, Teh AW, et al.Mitral Valve Prolapse and Sudden Cardiac Death: A Systematic Review.J Am Heart Assoc2018;7(23):e010584.doi:10.1161/JAHA.118.010584
+1.Han HC, Ha FJ, Teh AW, et al.Mitral Valve Prolapse and Sudden Cardiac Death: A Systematic Review.J Am Heart Assoc2018;7(23):e010584.doi:10.1161/JAHA.118.010584
+2.Nalliah CJ, Mahajan R, Elliott AD, et al.Mitral valve prolapse and sudden cardiac death: a systematic review and meta-analysis.Heart2019;105(2):144-151.doi:10.1136/heartjnl-2017-312932
+2.Nalliah CJ, Mahajan R, Elliott AD, et al.Mitral valve prolapse and sudden cardiac death: a systematic review and meta-analysis.Heart2019;105(2):144-151.doi:10.1136/heartjnl-2017-312932
+
+【二尖瓣脱垂的诊断】
+超声心动图
+超声心动图
+这张超声心动图显示二尖瓣后叶脱垂到左心房 (LA)。
+© Springer Science+Business Media
+二尖瓣脱垂的诊断由临床表现提示，由超声心动图确诊。增厚（≥5mm）、赘生的二尖瓣瓣叶提示更广泛的黏液样变性，患心内膜炎和二尖瓣反流的风险更大。
+当经胸胸骨旁长轴视图中后外侧环的逐帧分析显示环和心室心肌在收缩期分离几毫米到一厘米时，通过超声心动图诊断二尖瓣环分离。
+二尖瓣环分离与心律失常所致猝死风险增加相关，建议行动态心律监测。
+
+【二尖瓣脱垂的治疗】
+通常不需要治疗
+通常不需要治疗
+有时使用beta-受体阻滞剂
+有时使用beta-受体阻滞剂
+二尖瓣脱垂通常不需要治疗。
+β-受体阻滞剂（例如阿替洛尔、普萘洛尔）和钙通道阻滞剂（例如维拉帕米）可减轻相关异位引起的症状，但没有证据表明它们可以改善预后。
+可能需要心房颤动的治疗。
+二尖瓣反流的治疗取决于其严重程度以及伴随的左心房和左心室的改变。
+不建议使用抗生素预防心内膜炎，除非在瓣膜置换后。
+预防血栓栓塞的抗凝剂仅推荐用于心房颤动或短暂性缺血发作或中风的患者。（另见人工心脏瓣膜或自体瓣膜疾病患者的抗凝治疗。）
+
+【二尖瓣脱垂的预后】
+二尖瓣脱垂通常为良性，但瓣膜严重黏液样变性可导致二尖瓣反流。进展为重度二尖瓣反流的风险与初诊时严重程度及二尖瓣具体解剖因素相关（1、2）。二尖瓣脱垂致显著二尖瓣反流患者的心脏事件（心内膜炎、卒中、心源性栓塞）的年发生率可高达4%（3）。心源性猝死患者中二尖瓣脱垂患病率也高于普通人群，提示二者之间存在关联（4）。
+
+【预后参考】
+1.Delling FN, Rong J, Larson MG, et al.Evolution of Mitral Valve Prolapse: Insights From the Framingham Heart Study.Circulation2016;133(17):1688-1695.doi:10.1161/CIRCULATIONAHA.115.020621
+1.Delling FN, Rong J, Larson MG, et al.Evolution of Mitral Valve Prolapse: Insights From the Framingham Heart Study.Circulation2016;133(17):1688-1695.doi:10.1161/CIRCULATIONAHA.115.020621
+2.Ma JI, Igata S, Strachan M, et al.Predictive Factors for Progression of Mitral Regurgitation in Asymptomatic Patients With Mitral Valve Prolapse.Am J Cardiol2019;123(8):1309-1313.doi:10.1016/j.amjcard.2019.01.026
+2.Ma JI, Igata S, Strachan M, et al.Predictive Factors for Progression of Mitral Regurgitation in Asymptomatic Patients With Mitral Valve Prolapse.Am J Cardiol2019;123(8):1309-1313.doi:10.1016/j.amjcard.2019.01.026
+3.Mecarocci V, Mori F.P210Long- term outcome of primary mitral valve prolapse: results from a population of 250 patients referred to a tertiary cardiovascular center.Eur Heart J Cardiovasc Imaging2016;17(suppl_2):ii29-ii37.doi:10.1093/ehjci/jew236.001
+3.Mecarocci V, Mori F.P210Long- term outcome of primary mitral valve prolapse: results from a population of 250 patients referred to a tertiary cardiovascular center.Eur Heart J Cardiovasc Imaging2016;17(suppl_2):ii29-ii37.doi:10.1093/ehjci/jew236.001
+4.Nalliah CJ, Mahajan R, Elliott AD, et al.Mitral valve prolapse and sudden cardiac death: a systematic review and meta-analysis.Heart2019;105(2):144-151.doi:10.1136/heartjnl-2017-312932
+4.Nalliah CJ, Mahajan R, Elliott AD, et al.Mitral valve prolapse and sudden cardiac death: a systematic review and meta-analysis.Heart2019;105(2):144-151.doi:10.1136/heartjnl-2017-312932
+二尖瓣脱垂最常由二尖瓣和腱索的特发性黏液样变性所致。
+二尖瓣脱垂最常由二尖瓣和腱索的特发性黏液样变性所致。
+二尖瓣反流（MR）是最常见的并发症。
+二尖瓣反流（MR）是最常见的并发症。
+心音通常包括一个尖锐的收缩期中期喀喇音，其出现时间在行瓦尔萨尔瓦动作时会提前。
+心音通常包括一个尖锐的收缩期中期喀喇音，其出现时间在行瓦尔萨尔瓦动作时会提前。
+预后通常是良性的，除非发生二尖瓣反流，这种情况下心力衰竭、心房颤动、卒中和感染性心内膜炎的风险会增加。
+预后通常是良性的，除非发生二尖瓣反流，这种情况下心力衰竭、心房颤动、卒中和感染性心内膜炎的风险会增加。
+通常不需要治疗，除非MR显著发展。
+通常不需要治疗，除非MR显著发展。

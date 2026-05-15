@@ -1,0 +1,70 @@
+标题：术后护理
+来源：https://www.msdmanuals.cn/professional/special-subjects/care-of-the-surgical-patient/postoperative-care
+============================================================
+
+术后护理从手术结束后开始，在恢复室继续进行，并在住院和门诊期间持续进行。当务之急是保护呼吸道、管理液体和血压、预防血栓栓塞、控制疼痛、精神状态和伤口愈合。术后恶心、呕吐、尿潴留和便秘也是值得关注的问题。 对于糖尿病患者应该每1～4小时监测指尖血糖直至患者苏醒和恢复进食，血糖的控制直接影响恢复。
+
+【气道和呼吸功能】
+大部分患者在离开手术室的时候就已经拔除气管插管并很快就能清除气道分泌物。除了即将进入重症监护室（ICU）的患者而外，其他手术患者在离开苏醒室之前应当能够自己清洁气道并保护气道的通畅。 在气管插管后，肺部正常患者也可能有轻微的咳嗽，这个现象在吸烟者和支气管炎患者可能持续更长。大多数接受气管插管的患者，尤其是吸烟者和患有肺部疾病的患者，受益于激励性呼吸训练器。
+术后的呼吸困难可能来自胸部或腹部的手术切口牵扯痛（非低氧性呼吸困难）或者低氧血症（低氧性呼吸困难——可见血氧饱和度下降) 血氧不足导致肺功能障碍通常伴随着呼吸困难,呼吸急促,或两者兼而有之；然而过度镇静可能导致血氧不足但迟钝的呼吸困难,呼吸急促,或两者兼而有之。 因此接受麻醉镇静的患者应该给予脉搏血氧测定仪或者血气监测。低氧性呼吸困难常常源于肺不张，尤其是有心功能不全或者肾脏疾病伴随液体潴留的患者。 无论是非低氧性还是低氧性呼吸困难的患者，都应该进行血氧饱和度或者血气含量的检测。胸部X线检查可以区分肺不张和胸腔积液。
+使用O2气治疗低氧性呼吸困难非低氧性呼吸困难可以使用抗焦虑药或止痛药治疗。
+
+【液体和血流动力学状态】
+液体管理和血流动力学监测是围手术期护理的重要方面，影响手术后患者的结果。充足的液体平衡对于维持组织灌注、氧气输送和器官功能至关重要。最新指南强调根据患者特征、手术因素和血流动力学监测进行个体化液体治疗。目标是实现血容量正常并避免血容量不足和液体超负荷。胸外科医师协会 (STS) 和欧洲麻醉学会 (ESA) 指南推荐采用微创技术进行血流动力学监测，例如脉搏轮廓分析（例如动脉波形分析）和经食管超声心动图 (TEE)（1，2）。还建议使用动态参数，例如每搏输出量变异度（SVV）和脉压变异度（PPV）。这些参数有助于识别液体反应性并指导液体管理，从而降低急性肾损伤和呼吸系统并发症等并发症的风险。
+
+【血栓栓塞预防】
+术后出现DVT的风险较小，但是由于结局可能较为严重，且风险仍然较普通人群高，通常需要预防。手术本身增强了凝血功能，而且通常需要长时间的制动，这是另一个DVT的危险因素（常见Pulmonary Embolism和Deep Venous Thrombosis）。深静脉血栓的预防通常在手术室或更早的时候就开始了（见表格外科患者深静脉血栓形成和肺栓塞的风险）。在术后出血风险降低后，即可选择使用肝素(3)。患者应该走动或接受物理疗法在安全的情况下尽快促进动员。
+
+【疼痛管理】
+患者恢复意识后即应进行疼痛的控制。阿片类药物为一线用药，可以口服或静脉应用。通常采用多模式疼痛管理，包括阿片类药物和非阿片类镇痛药。阿片类药物应以最短时间、最低剂量使用，通常通过口服给药来缓解中度疼痛。对于剧烈疼痛，有时采用静脉注射，患者自控，按需给药（见剂量和滴定）。如果患者没有肾功能异常和消化道出血史，定时给与非甾体抗炎药物（NSAIDS）能减轻持续性疼痛并减少阿片类药物的用量。
+为了应对日益流行的阿片类药物使用障碍，美国医疗机构已经提供了术后阿片类药物使用的共识指南美国和国际医疗小组。
+
+【精神状态】
+所有的患者在麻醉苏醒后有暂时的精神错乱。术后使用阿片类药物也可能导致谵妄，抗胆碱药物和高剂量的 H2 阻滞剂也会产生同样的作用。
+年老者，尤其是伴痴呆者存在者出现术后谵妄的风险，这会延长住院时间，增加病死率。抗胆碱能药物有时在手术前或手术期间用于减少上呼吸道分泌物，但应尽可能避免使用。在术后应当频繁评价年老患者的精神状态。如果发生谵妄，应予吸氧，并停用所有非必须的药物。
+应尽可能地动员患者，并纠正任何的电解质或液体紊乱。
+
+【尿潴留和便秘】
+尿潴留和便秘术后常见。其病因包括：
+抗胆碱能药
+抗胆碱能药
+饮食摄入量的减少
+饮食摄入量的减少
+尿量必须监测。通常膀胱扩张、不舒服或手术后6〜8小时无尿的患者必需使用导尿管 。手术后，许多患者都会留置膀胱导管，直到他们能够走动为止。但是，应尽快移除留置导管以降低感染风险。
+慢性尿潴留的最佳治疗方法是避免使用致病药物，并让患者尽可能多采取坐姿。
+便秘很常见，通常继发于麻醉药物，肠道手术，术后不动，和阿片类药物。 便秘的处理方法是：减少使用阿片类和其他导致便秘的药物；术后早期开始步行活动，如果患者未曾行胃肠道手术的话，可予刺激性泻药（如比沙可定、番泻叶、药鼠李）。
+
+【伤口护理】
+手术医生必须个体化处理每个创伤。在手术室里于术后敷用的消毒纱布一般应该保持原状24-48小时，除非发现有感染征象，如疼痛加剧、红肿、渗出。手术敷料移除后，每天应该检查两遍伤口以便发现感染的征象。如果有感染征象的话，应进行伤口引流、全身应用抗生素或两者都应用。局部使用抗生素通常是无效的。
+缝线、皮肤钉和其他闭合物一般在7天至三周内拆除，这取决于其位置和患者情况。脸部和颈部创伤3天内可初步愈合，肢端则需要数周以达到相当程度的愈合。
+如果存在引流管的话，必须监测引流物的量和性状。然而，应尽快移除引流管，因为它们可以作为感染的病灶，并且可能不会出现出血或吻合口漏等不良反应的迹象。
+术后发热的一个常见原因是炎性或手术高代谢反应。其他原因包括肺炎、尿路感染 (UTI)、伤口感染和静脉血栓栓塞症 (深静脉血栓形成[DVT] 或肺栓塞[体育]）。其他可能性是药物引起的发热，植入物或导管感染。在手术后的几天或几周发热的常见原因包括所谓的“六Ws”：
+W伤口感染
+W伤口感染
+W水（如尿路感染）
+W水（如尿路感染）
+W呼吸（例如，肺不张，肺炎）
+W呼吸（例如，肺不张，肺炎）
+W步行（如，深静脉血栓症）
+W步行（如，深静脉血栓症）
+W药物（如药物引起的发热）
+W药物（如药物引起的发热）
+W小部件（例如，可植入装置，漏极）
+W小部件（例如，可植入装置，漏极）
+最佳的术后护理（如，早期下床活动和去除膀胱导管，细致的伤口和排泄护理）可以减少深静脉血栓，尿路感染和伤口感染的风险。 使用激发吸气测量计和间歇性咳嗽可以降低肺炎发生的危险性并应鼓励最多 10 次每小时一次。
+
+【恢复正常活动】
+应鼓励患者在自身手术和医疗条件安全的情况下，尽可能多且尽可能快地在床上坐起、转移到椅子上、站立和锻炼。物理疗法或者某些患者可能需要更广泛的康复治疗，这取决于手术过程和患者术前的身体状况。
+肌肉含量的减少（肌容量减少）和肌力降低缘于术后长期卧床。完全卧床的话，青年人每天会丢失1％的肌肉含量，而老年人每天会丢失高达5％的肌肉含量，因为生长激素含量随年龄增长而减少。避免肌肉减少的出现对于康复是必要的。营养缺乏也可能导致肌肉减少症。因此，完全卧床患者的营养摄入应进行优化。应鼓励经口摄入，少数胃管营养或肠外营养也是必要的。
+
+【出院条件】
+出院或其他手术机构前，患者应没有剧烈疼痛，并且能够清晰思考、正常呼吸、饮水、行走和排尿。
+如果使用了镇静剂（如阿片类、苯二氮䓬类），患者在术后不能马上离开医院。尽管麻醉苏醒，镇静剂的残留作用仍然有可能使患者虚弱和无法胜任驾驶。许多患者需要使用阿片类药物来止痛。有些老年人在麻醉药物和手术应激的双重作用下有可能失去认识能力，也可能因较长时间的体位固定或者抗胆碱能类药物的作用出现尿潴留。
+
+【参考文献】
+1.Society of Thoracic Surgeons Blood Conservation Guideline Task Force, Ferraris VA, Brown JR, et al.2011 update to the Society of Thoracic Surgeons and the Society of Cardiovascular Anesthesiologists blood conservation clinical practice guidelines.Ann Thorac Surg.2011;91(3):944-982.doi:10.1016/j.athoracsur.2010.11.078
+1.Society of Thoracic Surgeons Blood Conservation Guideline Task Force, Ferraris VA, Brown JR, et al.2011 update to the Society of Thoracic Surgeons and the Society of Cardiovascular Anesthesiologists blood conservation clinical practice guidelines.Ann Thorac Surg.2011;91(3):944-982.doi:10.1016/j.athoracsur.2010.11.078
+2.Navarro LH, Bloomstone JA, Auler JO Jr, et al: Perioperative fluid therapy: a statement from the international Fluid Optimization Group.Perioper Med (Lond).2015;4:3.Published 2015 Apr 10.doi:10.1186/s13741-015-0014-z
+2.Navarro LH, Bloomstone JA, Auler JO Jr, et al: Perioperative fluid therapy: a statement from the international Fluid Optimization Group.Perioper Med (Lond).2015;4:3.Published 2015 Apr 10.doi:10.1186/s13741-015-0014-z
+3.Garcia DA, Baglin TP, Weitz JI, Samama MM: Parenteral anticoagulants: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears inChest141(5):1369, 2012. Dosage error in article text] [published correction appears inChest144(2):721, 2013. Dosage error in article text].Chest141(2 Suppl):e24S-e43S, 2012.doi:10.1378/chest.11-2291
+3.Garcia DA, Baglin TP, Weitz JI, Samama MM: Parenteral anticoagulants: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears inChest141(5):1369, 2012. Dosage error in article text] [published correction appears inChest144(2):721, 2013. Dosage error in article text].Chest141(2 Suppl):e24S-e43S, 2012.doi:10.1378/chest.11-2291

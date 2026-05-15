@@ -1,0 +1,20 @@
+标题：微血管性心绞痛
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/coronary-artery-disease/microvascular-angina
+============================================================
+
+(参见冠状动脉疾病概述。）
+微血管性心绞痛患者有
+具有典型心绞痛症状即休息或含服硝酸甘油可缓解；
+具有典型心绞痛症状即休息或含服硝酸甘油可缓解；
+冠脉造影是正常的（如无动脉粥样硬化、栓塞或可诱发的冠脉痉挛）
+冠脉造影是正常的（如无动脉粥样硬化、栓塞或可诱发的冠脉痉挛）
+其中一些患者在负荷试验时可出现缺血表现；而另一些则没有。在一些患者中，缺血的原因似乎是反射性心肌内冠状动脉收缩，从而降低了冠状动脉血流储备。另一些患者则是因为心肌内微血管功能障碍，异常血管对运动或其他心血管负荷因素不能作出扩张反应；对心脏疼痛的敏感性也可能增加。
+这种疾病不应与心外膜冠脉痉挛引起的变异型心绞痛混淆。
+虽然缺血的症状可反复发作数年，但其预后比确诊的冠心病良好。此外，微血管性心绞痛患者发生重大心血管事件的风险似乎比一般人群更高（1）。
+治疗的主要目的是通过降脂治疗和血糖控制来控制危险因素。在许多患者中，包括beta受体阻滞剂和钙通道阻滞剂在内的传统抗缺血治疗有助于缓解症状 (2)。
+
+【参考文献】
+1.Shimokawa H, Suda A, Takahashi J, et al: Clinical characteristics and prognosis of patients with microvascular angina: an international and prospective cohort study by the Coronary Vasomotor Disorders International Study (COVADIS) Group.Eur Heart J42(44):4592–4600, 2021.doi:10.1093/eurheartj/ehab282
+1.Shimokawa H, Suda A, Takahashi J, et al: Clinical characteristics and prognosis of patients with microvascular angina: an international and prospective cohort study by the Coronary Vasomotor Disorders International Study (COVADIS) Group.Eur Heart J42(44):4592–4600, 2021.doi:10.1093/eurheartj/ehab282
+2.Crea F, Camici PG, Bairey Merz CN: Coronary microvascular dysfunction: an update.Eur Heart J35:1101–1111, 2014.doi: 10.1093/eurheartj/eht513
+2.Crea F, Camici PG, Bairey Merz CN: Coronary microvascular dysfunction: an update.Eur Heart J35:1101–1111, 2014.doi: 10.1093/eurheartj/eht513

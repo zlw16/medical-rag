@@ -1,0 +1,74 @@
+标题：闪电伤
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/electrical-and-lightning-injuries/lightning-injuries
+============================================================
+
+虽然雷击所致伤亡人数在过去的50年显著下降，但在美国，雷击每年仍造成约30人死亡，数百人受伤（1）。雷击死亡率约为10%（2）。
+闪电往往会击中高大或孤立的物体，包括树木、塔、遮蔽物、旗杆、看台和栅栏。在空旷的野外，人可能就是最高的物体了。金属和水不吸引闪电，但一旦被击中很容易导电。闪电可直接击中受害者，也可经由地面或附近物体将电流传至受害者。
+据观察，即使在天空晴朗的地区，闪电也可能在距风暴10英里或10英里以外的地方发生，从而产生意外的风险 (3)。闪电亦可经由户外电力设备或电缆线传输至室内电器设备或电话线。这种闪电力量能将受害者甩出几米远。
+由于雷电伤害的物理原理与产生的电能不同，因此不能将接触家用电流或高压电的影响推断至雷电伤害。例如闪电伤造成的损害无法用电压或电流量来判定。虽然闪电电流蕴含大量电能量，但它只流经极其短暂的时间（1/10,000—1/1,000秒）。因而闪电伤即便有也是罕见严重的皮肤损伤且很少引起横纹肌溶解症或严重的内脏组织损伤，不像人造高压电或高流量电所致的电击伤。患者可能因继发性损伤导致颅内出血，或罕见情况下由闪电本身引起。
+闪电可影响心脏，但主要是影响神经系统，破坏大脑、自主神经系统以及周围神经。
+
+【经验与提示】
+经验与提示
+与由产生源（如电线、电池）引起的高电压和高电流电击伤不同，闪电很少（如果有的话）会导致严重的皮肤伤口，也很少导致横纹肌溶解症或严重的内部组织损伤。
+与由产生源（如电线、电池）引起的高电压和高电流电击伤不同，闪电很少（如果有的话）会导致严重的皮肤伤口，也很少导致横纹肌溶解症或严重的内部组织损伤。
+
+【参考文献】
+1.Centers for Disease Control and Prevention: National Center for Environmental Health: Lightening Strike Victim Data.Reviewed Spetember 16, 2022.Accessed July 26, 2024.
+1.Centers for Disease Control and Prevention: National Center for Environmental Health: Lightening Strike Victim Data.Reviewed Spetember 16, 2022.Accessed July 26, 2024.
+2.National Weather Service: National Safety Program: How Dangerous is Lightening?Accessed May 9, 2024.
+2.National Weather Service: National Safety Program: How Dangerous is Lightening?Accessed May 9, 2024.
+3.Davis C, Engeln A, Johnson EL: Wilderness Medical Society practice guidelines for the prevention and treatment of lightning injuries: 2014 Update.Wilderness Environ Med25(4 Suppl):S86-S95, 2014.doi: 10.1016/j.wem.2014.08.011
+3.Davis C, Engeln A, Johnson EL: Wilderness Medical Society practice guidelines for the prevention and treatment of lightning injuries: 2014 Update.Wilderness Environ Med25(4 Suppl):S86-S95, 2014.doi: 10.1016/j.wem.2014.08.011
+
+【闪电击伤的症状和体征】
+雷击产生的电荷可能导致心搏停止或其他心律失常或中枢神经系统症状，例如失去意识、精神错乱或记忆丧失。
+闪电性麻痹（也称为闪电性瘫痪）表现为下肢（有时也包括上肢）的麻痹、斑驳、发冷、无脉搏以及感觉缺失；其病因可能是交感神经系统受损。闪电性瘫痪很常见，一般在几小时内消退，虽然偶尔会有某种程度的永久性轻瘫。其他闪电伤表现可能包括
+轻微的皮肤烧灼伤，出现点状、羽翼状、分枝状图案
+轻微的皮肤烧灼伤，出现点状、羽翼状、分枝状图案
+鼓膜穿孔
+鼓膜穿孔
+白内障（数天内出现）
+白内障（数天内出现）
+在闪电电击时，由于心室颤动导致的心肺骤停是最常见的死亡原因（参见心脏骤停和呼吸骤停概述[1]）。
+神经系统损伤包括意识模糊、认知障碍和外周神经病变。还可能出现神经心理问题（例如睡眠障碍、注意力不集中及记忆障碍）。
+认知缺陷、疼痛综合征和交感神经系统损害（如勃起功能障碍[2]）是最常见的长期后遗症。
+
+【症状和体征参考】
+1.Christophides T, Khan S, Ahmad M, Fayed H, Bogle R: Cardiac Effects of Lightning Strikes.Arrhythm Electrophysiol Rev6(3):114-117, 2017.doi:10.15420/aer.2017:7:3
+1.Christophides T, Khan S, Ahmad M, Fayed H, Bogle R: Cardiac Effects of Lightning Strikes.Arrhythm Electrophysiol Rev6(3):114-117, 2017.doi:10.15420/aer.2017:7:3
+2.Kim HJ, Choi SH, Shin TS, et al: Erectile dysfunction in patients with electrical injury.Urology70(6):1200-1203, 2007.doi: 10.1016/j.urology.2007.06.1125
+2.Kim HJ, Choi SH, Shin TS, et al: Erectile dysfunction in patients with electrical injury.Urology70(6):1200-1203, 2007.doi: 10.1016/j.urology.2007.06.1125
+
+【电击伤与闪电击伤的诊断】
+识别心脏和脑部并发症
+识别心脏和脑部并发症
+闪电伤可能被目击也可能无人目击。发生暴风雨或暴风雨之后在户外发现失忆或意识丧失者，应怀疑其被闪电击伤。所有被雷击的患者应进行外伤评估。
+如果损伤严重并且怀疑有心血管影响，则可能进行心电图检查。发生以下情况需行心肌酶谱检测：
+心电图异常
+心电图异常
+意识状态改变
+意识状态改变
+患者如果最初出现异常或恶化的精神状态，或与中枢神经系统损伤相符的局部神经功能缺失，需要进行头部CT或MRI检查。
+
+【闪电击伤的治疗】
+支持治疗
+支持治疗
+罕见情况下，心肺复苏
+罕见情况下，心肺复苏
+如果发生心脏或呼吸骤停或两者同时发生，则启动心肺复苏(CPR)。如果能拿到体外自动除颤仪，对于心跳骤停的患者应予使用。闪电击中后导致心脏骤停的患者，心肺复苏后预后很好，此不同于其他类型创伤所致的心脏骤停。因此，与典型的大规模伤亡事件不同——在那种情况下，心脏骤停患者通常被赋予较低的检伤分类优先级——当多人因雷击受伤时，这类患者会被赋予高优先级。因雷击大规模伤亡事件而导致心脏骤停的患者比其他大规模伤亡事件（例如多人车祸）中的患者更有可能被复苏，因为成功复苏可能需要更少的资源（用于治疗心室颤动的AED与复杂的多步骤创伤患者评估）。
+提供支持治疗。通常需限制补液量以减轻可能存在的脑水肿。除非怀疑有心脏病变和脑部损害，大部分雷击伤患者均可安全出院。
+
+【闪电击伤的预防】
+若谨遵雷电安全指示，大部分雷击伤均可避免。人们需要了解天气预报，并制定逃生计划，包括逃离至安全地带（大型居住建筑最理想）。在户外应随时注意天气变化，以便在出现暴风雨时能实施逃生计划。听到雷声时，人们已处于危险中，应立即寻找庇护所（如建筑物或完全封闭的车辆）。小型开放建筑，如凉亭是不安全的。需在最后一次闪电或雷声结束后 30 分钟，方可外出。
+当发生雷暴时，在室内人们应避免使用水管和电器，远离门窗，不要使用硬线电话、视频游戏机、计算机或通过电缆连接到音响系统的耳机。当使用电池电源时，手机、其他手持设备、笔记本电脑是安全的，因为它们不吸引闪电。
+闪电伤趋于引起心律失常和脑功能障碍，而人造电设备电击后往往造成皮肤灼伤和内脏组织损伤。
+闪电伤趋于引起心律失常和脑功能障碍，而人造电设备电击后往往造成皮肤灼伤和内脏组织损伤。
+若患者在风暴后被发现于室外意识不清或失忆，应怀疑雷击伤。
+若患者在风暴后被发现于室外意识不清或失忆，应怀疑雷击伤。
+评估受害者时，需警惕创伤性损伤、心律失常、脑损伤和心脏损伤。
+评估受害者时，需警惕创伤性损伤、心律失常、脑损伤和心脏损伤。
+对患者进行支持治疗。
+对患者进行支持治疗。
+若谨遵雷电安全指示，大部分雷击伤均可避免。
+若谨遵雷电安全指示，大部分雷击伤均可避免。

@@ -1,0 +1,59 @@
+标题：产程延长或产程停滞
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/labor-and-delivery/protracted-or-arrested-labor
+============================================================
+
+在第一产程中，潜伏期宫颈扩张可能比较缓慢，但活跃期宫颈扩张会加快，开始于≥4至6厘米（1）。
+
+【参考文献】
+1.Zhang J, Landy HJ, Branch DW, et al: Contemporary patterns of spontaneous labor with normal neonatal outcomes.Obstet Gynecol116 (6):1281–1287, 2010. doi: 10.1097/AOG.0b013e3181fdef6e
+1.Zhang J, Landy HJ, Branch DW, et al: Contemporary patterns of spontaneous labor with normal neonatal outcomes.Obstet Gynecol116 (6):1281–1287, 2010. doi: 10.1097/AOG.0b013e3181fdef6e
+
+【产程延长或产程停滞的病因】
+产程延长可能由于胎盆比例失调（胎儿无法通过母亲骨盆），这可能因为母亲盆腔异常狭小，胎儿特别大或胎位异常（胎先露异常、胎产式异常或胎位异常）。
+另一个原因是子宫收缩过弱或不频繁（低张性子宫功能失调）或偶尔过强或过密（高张性子宫功能失调）。
+
+【产程延长或停滞的诊断】
+宫颈检查
+宫颈检查
+子宫收缩评估
+子宫收缩评估
+产程延长的诊断应基于临床。
+如果确定了原因，可能有助于决定继续分娩或进行阴道手术分娩或剖腹产。
+在孕妇处于第一产程时，通过体格检查或超声检查估计胎儿体重有助于判断是否存在胎儿巨大症（胎儿体重>5000克[糖尿病女性为>4500克]）。胎儿巨大症除了会造成产程延长外，也是肩难产和严重会阴裂伤的危险因素，应做好适当的准备。
+通过触摸子宫或使用宫内压力导管评估宫缩强度和频率来诊断宫缩乏力。
+确定每个产程阶段产程延长或停滞的标准一直存在争议，并且没有标准定义。每个阶段或时期的常用延长或停止标准包括：
+第一阶段，潜伏期：初产妇产程延长>20小时或经产妇>14小时（一些研究报告的持续时间更长）（1）。
+第一阶段，潜伏期：初产妇产程延长>20小时或经产妇>14小时（一些研究报告的持续时间更长）（1）。
+第一期，活跃期：宫颈扩张至 6 cm 后，初产妇宫颈扩张速度 < 1.2 cm/小时，经产妇宫颈扩张速度 < 1.5 cm/小时。活跃期停滞 通常定义为宫颈扩张在 2 至 4 小时内没有变化。
+第一期，活跃期：宫颈扩张至 6 cm 后，初产妇宫颈扩张速度 < 1.2 cm/小时，经产妇宫颈扩张速度 < 1.5 cm/小时。活跃期停滞 通常定义为宫颈扩张在 2 至 4 小时内没有变化。
+第二产程：未产妇屏气用力至少 3 小时，或经产妇屏气用力至少 2 小时（使用硬膜外麻醉时，需在这些定义上增加 1 小时），即为停滞（2）。
+第二产程：未产妇屏气用力至少 3 小时，或经产妇屏气用力至少 2 小时（使用硬膜外麻醉时，需在这些定义上增加 1 小时），即为停滞（2）。
+第三产程：正常持续时间≤30分钟。
+第三产程：正常持续时间≤30分钟。
+
+【诊断参考】
+1.Tilden EL, Phillippi JC, Ahlberg M, et al: Describing latent phase duration and associated characteristics among 1281 low-risk women in spontaneous labor.Birth46(4):592-601, 2019.doi:10.1111/birt.12428
+1.Tilden EL, Phillippi JC, Ahlberg M, et al: Describing latent phase duration and associated characteristics among 1281 low-risk women in spontaneous labor.Birth46(4):592-601, 2019.doi:10.1111/birt.12428
+2.Obstetric care consensus no. 1: safe prevention of the primary cesarean delivery.Obstet Gynecol.123(3):693-711, 2014.doi:10.1097/01.AOG.0000444441.04111.1d
+2.Obstetric care consensus no. 1: safe prevention of the primary cesarean delivery.Obstet Gynecol.123(3):693-711, 2014.doi:10.1097/01.AOG.0000444441.04111.1d
+
+【产程延长或停滞的处理】
+如果第二产程延长，有时可手术分娩
+如果第二产程延长，有时可手术分娩
+如果第一产程或第二产程进展太慢，胎儿体重<5000g（糖尿病孕妇<4500g），可使用催产素催产，这是治疗低张力功能障碍的方法。如果恢复正常进展，可继续产程。如果不恢复正常的产程进展，可能需要进行剖宫产。
+如果第二产程延长，在评估胎儿大小、先露、胎头高低（胎头位于坐骨棘下2cm[+2]或更低）以及盆腔条件后，产钳或真空吸引助产可能更合适。
+高张性子宫功能失调处理困难，但改变体位、短效宫缩抑制剂（如特布他林0.25mg静脉注射一次）、如在使用催产素则停用、以及镇痛药可能有效。
+
+【治疗参考文献】
+1.Spong CY, Berghella V, Wenstrom KD, et al: Preventing the first cesarean delivery: Summary of a Joint Eunice Kennedy Shriver National Institute of Child Health and Human Development, Society for Maternal-Fetal Medicine, and American College of Obstetricians and Gynecologists Workshop.Obstet Gynecol120 (5):1181–1193, 2012.doi: http://10.1097/AOG.0b013e3182704880
+1.Spong CY, Berghella V, Wenstrom KD, et al: Preventing the first cesarean delivery: Summary of a Joint Eunice Kennedy Shriver National Institute of Child Health and Human Development, Society for Maternal-Fetal Medicine, and American College of Obstetricians and Gynecologists Workshop.Obstet Gynecol120 (5):1181–1193, 2012.doi: http://10.1097/AOG.0b013e3182704880
+产程延长可能由于胎头骨盆不称，或宫缩过弱过稀，偶为过频过强等原因引起。
+产程延长可能由于胎头骨盆不称，或宫缩过弱过稀，偶为过频过强等原因引起。
+评估胎儿和盆腔的尺寸和胎儿的位置，并通过触诊子宫或使用子宫内压力导管评估宫缩。
+评估胎儿和盆腔的尺寸和胎儿的位置，并通过触诊子宫或使用子宫内压力导管评估宫缩。
+如果第一或第二产程进展过慢，而胎儿体重与胎龄相符，可使用催产素催产；如果治疗不成功，原因可能是头盆不称或难治性低张性子宫功能障碍，可能需要剖宫产。
+如果第一或第二产程进展过慢，而胎儿体重与胎龄相符，可使用催产素催产；如果治疗不成功，原因可能是头盆不称或难治性低张性子宫功能障碍，可能需要剖宫产。
+如果第二产程延长，在评估胎儿的大小、胎位、胎头位置（station）和母体骨盆后，若条件适宜可考虑使用产钳或胎吸助产。
+如果第二产程延长，在评估胎儿的大小、胎位、胎头位置（station）和母体骨盆后，若条件适宜可考虑使用产钳或胎吸助产。
+对于高张性子宫功能失调，可考虑复位术、短效宫缩抑制剂（如在使用催产素时则停用）以及止痛药等治疗措施。
+对于高张性子宫功能失调，可考虑复位术、短效宫缩抑制剂（如在使用催产素时则停用）以及止痛药等治疗措施。

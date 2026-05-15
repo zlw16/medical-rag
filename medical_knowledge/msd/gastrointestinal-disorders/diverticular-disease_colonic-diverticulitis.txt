@@ -1,0 +1,180 @@
+标题：结肠憩室炎
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/diverticular-disease/colonic-diverticulitis
+============================================================
+
+结肠憩室是指结肠粘膜和粘膜下层经肠壁肌层向外突出的囊状袋；因其不包含肠壁全层，被认为是假性憩室（参见憩室病的定义)。
+许多人有多个结肠憩室（憩室病)。 在 50 岁以上的人群中，急性憩室炎在女性中最为常见；在 50 岁以下的人群中，这种情况在男性中最为常见。远端憩室炎在白人中更为常见（1）。
+HIV 感染者和接受化疗的患者发生急性憩室炎的风险增加（2)。
+憩室通常无症状，但有时可出现炎症（憩室炎）。一项研究报告指出，在确诊为憩室病的患者中，有4.3%在11年随访期内发展为憩室炎（3）。
+非手术治疗的憩室炎可复发为急性或慢性过程。急性复发的风险高达39%，尽管报告的发生率差异很大（4）。一项基于人群的大型研究发现，急性憩室炎发作后，1年复发率为8％，10年复发率为22％（5)。然而，在一些患者中，憩室炎复发表现为慢性持续性腹痛；这可能在一次或多次急性发作后发生。
+
+【参考文献】
+1.Gunby SA, Strate LL.Acute Colonic Diverticulitis.Ann Intern Med.2024;177(3):ITC33-ITC48.doi:10.7326/AITC202403190
+1.Gunby SA, Strate LL.Acute Colonic Diverticulitis.Ann Intern Med.2024;177(3):ITC33-ITC48.doi:10.7326/AITC202403190
+2.Francis NK, Sylla P, Abou-Khalil M, et al.EAES and SAGES 2018 consensus conference on acute diverticulitis management: Evidence-based recommendations for clinical practice.Surg Endosc.2019;33(9):2726–2741.doi:10.1007/s00464-019-06882-z
+2.Francis NK, Sylla P, Abou-Khalil M, et al.EAES and SAGES 2018 consensus conference on acute diverticulitis management: Evidence-based recommendations for clinical practice.Surg Endosc.2019;33(9):2726–2741.doi:10.1007/s00464-019-06882-z
+3.Shahedi K, Fuller G, Bolus R, et al.Long-term risk of acute diverticulitis among patients with incidental diverticulosis found during colonoscopy.Clin Gastroenterol Hepatol.2013;11(12):1609–1613.doi:10.1016/j.cgh.2013.06.020
+3.Shahedi K, Fuller G, Bolus R, et al.Long-term risk of acute diverticulitis among patients with incidental diverticulosis found during colonoscopy.Clin Gastroenterol Hepatol.2013;11(12):1609–1613.doi:10.1016/j.cgh.2013.06.020
+4.Sallinen V, Mali J, Leppäniemi A, Mentula P.Assessment of risk for recurrent diverticulitis: A proposal of risk score for complicated recurrence.Medicine (Baltimore).2015;94(8):e557.doi:10.1097/MD.0000000000000557
+4.Sallinen V, Mali J, Leppäniemi A, Mentula P.Assessment of risk for recurrent diverticulitis: A proposal of risk score for complicated recurrence.Medicine (Baltimore).2015;94(8):e557.doi:10.1097/MD.0000000000000557
+5.Bharucha AE, Parthasarathy G, Ditah I, et al.Temporal trends in the incidence and natural history of diverticulitis: A population-based study.Am J Gastroenterol. 2015;110(11):1589–1596.doi:10.1038/ajg.2015.302
+5.Bharucha AE, Parthasarathy G, Ditah I, et al.Temporal trends in the incidence and natural history of diverticulitis: A population-based study.Am J Gastroenterol. 2015;110(11):1589–1596.doi:10.1038/ajg.2015.302
+
+【结肠憩室炎的病因】
+憩室炎的病因和病理生理学机制尚未完全清楚，且可能因人而异。长期以来，人们一直认为，当憩室出现微小穿孔或大穿孔时会发生憩室炎，导致肠道细菌释放并引发炎症。 然而，新出现的数据表明，在某些患者中，急性憩室炎更像是一种炎症而不是感染过程。 此外，巨细胞病毒可能是这种炎症的诱因；超过2/3的憩室炎患者的病变结肠组织中发现了活跃的病毒复制。
+研究表明，每周的红肉消耗量、吸烟、肥胖和憩室炎的发病率之间有直接关系（1,2)。非甾体抗炎药、阿司匹林、皮质类固醇和阿片类药物也会增加憩室病和憩室炎的风险（3,4)。进食坚果、种子、玉米或爆米花与憩室炎的发生之间没有以前认为的相关性。
+体育活动和膳食纤维已被证明有助于预防憩室的形成和憩室炎的发展（3,4）。
+
+【病因学参考】
+1.Cao Y, Strate LL, Keeley BR, et al: Meat intake and risk of diverticulitis among men.Gutpii: gutjnl-2016-313082, 2017.doi: 10.1136/gutjnl-2016-313082
+1.Cao Y, Strate LL, Keeley BR, et al: Meat intake and risk of diverticulitis among men.Gutpii: gutjnl-2016-313082, 2017.doi: 10.1136/gutjnl-2016-313082
+2.Strate LL, Keeley BR, Cao Y, et al: Western dietary pattern increases, and prudent dietary pattern decreases, risk of incident diverticulitis in a prospective cohort study.Gastroenterology152(5):1023–1030.e2, 2017.doi: 10.1053/j.gastro.2016.12.038
+2.Strate LL, Keeley BR, Cao Y, et al: Western dietary pattern increases, and prudent dietary pattern decreases, risk of incident diverticulitis in a prospective cohort study.Gastroenterology152(5):1023–1030.e2, 2017.doi: 10.1053/j.gastro.2016.12.038
+3.Bohm SK, Kruis W: Lifestyle and other risk factors for diverticulitis.Minerva Gastroenterol Dietol63(2):110–118, 2017.doi: 10.23736/S1121-421X.17.02371-6
+3.Bohm SK, Kruis W: Lifestyle and other risk factors for diverticulitis.Minerva Gastroenterol Dietol63(2):110–118, 2017.doi: 10.23736/S1121-421X.17.02371-6
+4.Schultz JK, Azhar N, Binda GA, et al: European Society of Coloproctology: Guidelines for the management of diverticular disease of the colon.Colorectal Dis22 (supplement 2):S5–S28, 2020.doi: 10.1111/codi.15140
+4.Schultz JK, Azhar N, Binda GA, et al: European Society of Coloproctology: Guidelines for the management of diverticular disease of the colon.Colorectal Dis22 (supplement 2):S5–S28, 2020.doi: 10.1111/codi.15140
+
+【结肠憩室炎的分类】
+急性憩室炎可分为以下几类：
+急性单纯性憩室炎：这是急性憩室炎最常见的表现。
+急性单纯性憩室炎：这是急性憩室炎最常见的表现。
+急性复杂性憩室炎：此类型定义为存在脓肿、瘘管、梗阻或游离性穿孔；存在两种分类系统（例如，参见表格急性复杂性憩室炎分类）。约 12% 的憩室炎患者病情复杂（1）。
+急性复杂性憩室炎：此类型定义为存在脓肿、瘘管、梗阻或游离性穿孔；存在两种分类系统（例如，参见表格急性复杂性憩室炎分类）。约 12% 的憩室炎患者病情复杂（1）。
+憩室发炎穿孔后可发生并发症。
+大约15%的急性复杂性憩室炎患者有结肠周围或肠系膜内脓肿（2）。
+如果急性憩室炎没有完全愈合，就会发展为慢性憩室炎。
+慢性憩室炎可分为以下几类
+慢性单纯性憩室炎：定义为在无狭窄的情况下，出现结肠壁增厚或慢性黏膜炎症。
+慢性单纯性憩室炎：定义为在无狭窄的情况下，出现结肠壁增厚或慢性黏膜炎症。
+慢性复杂性憩室炎：包括可能导致急性结肠梗阻和瘘管形成的狭窄性疾病（最常见于膀胱）
+慢性复杂性憩室炎：包括可能导致急性结肠梗阻和瘘管形成的狭窄性疾病（最常见于膀胱）
+
+【分类参考】
+1.Gunby SA, Strate LL.Acute Colonic Diverticulitis.Ann Intern Med.2024;177(3):ITC33-ITC48.doi:10.7326/AITC202403190
+1.Gunby SA, Strate LL.Acute Colonic Diverticulitis.Ann Intern Med.2024;177(3):ITC33-ITC48.doi:10.7326/AITC202403190
+2.Lambrichts DPV, Bolkenstein HE, van der Does DCHE, et al: Multicentre study of non-surgical management of diverticulitis with abscess formation.Br J Surg.2019;106(4):458-466.doi:10.1002/bjs.11129
+2.Lambrichts DPV, Bolkenstein HE, van der Does DCHE, et al: Multicentre study of non-surgical management of diverticulitis with abscess formation.Br J Surg.2019;106(4):458-466.doi:10.1002/bjs.11129
+
+【结肠憩室炎的症状和体征】
+患者有左下腹部疼痛和压痛，并常有可触及乙状结肠；偶然可有耻骨上疼痛。然而，亚洲的憩室炎患者往往由于右结肠受累而表现为右侧疼痛。 疼痛可伴恶心、呕吐、发热，有时甚至伴发膀胱刺激症，出现泌尿系症状。
+可有腹膜炎体征（如反跳痛或肌卫），尤其当合并脓肿或游离穿孔时。
+瘘管可表现为气尿、粪尿(尿液中的粪便)、阴道溢粪，或腹壁、会阴、大腿的皮肤或肌筋膜感染。肠梗阻患者表现为恶心、呕吐和腹胀。出血少见。
+急性憩室炎复发的表现与最初发作表现类似；并不一定会更严重。
+这张图片显示了一个因憩室炎发炎的单个憩室中突出的肉芽组织（箭头）。
+Photo courtesy of Drs.Joel A.Baum and Rafael A.Ching Companioni.
+
+【结肠憩室炎的诊断】
+腹部与盆腔CT
+腹部与盆腔CT
+床旁超声检测
+床旁超声检测
+症状缓解后行结肠镜检查
+症状缓解后行结肠镜检查
+对于已知患有憩室病的患者表现出典型的腹部症状，临床上应高度怀疑。 但因其他疾病（如阑尾炎、结肠或卵巢肿瘤，炎症性肠病）也可有类似临床表现，故需进一步检查。
+憩室炎患者腹部轴向（横截面）CT图像中，降结肠壁增厚。在相邻的结肠周围脂肪中有密度增加的炎性纹理。
+LIVING ART ENTERPRISES, LLC/SCIENCE PHOTO LIBRARY
+通过口服和直肠给予水溶性造影剂进行腹部和骨盆CT检查，从而评估憩室炎；当没有禁忌症时也可给予静脉造影剂。然而，约10％的患者仍不能因此区分憩室炎和结肠癌。对于孕妇和儿童，可选用MRI作为替代 (1,2)。
+对于患有憩室炎的患者来说，急诊室或紧急护理机构的床旁超声检查可能是一种选择。尽管超声检查对憩室炎的诊断比 CT 检查具有更高的敏感性（95%）和特异性（76%），但在区分复杂性憩室炎和单纯性憩室炎方面，超声检查的敏感性较低（55%）(3)。
+推荐在急性憩室炎发作缓解1~3个月后进行结肠镜检查，以评估是否有癌症。然而，在没有高危体征（例如，复杂性憩室炎、具有影像学异常或非典型病程的单纯性憩室炎、结直肠癌家族史、贫血、体重减轻）的情况下，在急性单纯性憩室炎发作后，发生恶性病变或晚期腺瘤的可能性很低（2）。
+
+【诊断参考】
+1.Stewart DB.Review of the American Society of Colon and Rectal Surgeons clinical practice guidelines for the treatment of left-sided colonic diverticulitis.JAMA Surg.2021;156(1):94–95.doi:10.1001/jamasurg.2020.5019
+1.Stewart DB.Review of the American Society of Colon and Rectal Surgeons clinical practice guidelines for the treatment of left-sided colonic diverticulitis.JAMA Surg.2021;156(1):94–95.doi:10.1001/jamasurg.2020.5019
+2.Francis NK, Sylla P, Abou-Khalil M, et al.EAES and SAGES 2018 consensus conference on acute diverticulitis management: Evidence-based recommendations for clinical practice.Surg Endosc.2019;33(9):2726–2741.doi:10.1007/s00464-019-06882-z
+2.Francis NK, Sylla P, Abou-Khalil M, et al.EAES and SAGES 2018 consensus conference on acute diverticulitis management: Evidence-based recommendations for clinical practice.Surg Endosc.2019;33(9):2726–2741.doi:10.1007/s00464-019-06882-z
+3.Shokoohi H, Selame LA, Loesche MA, et al.Accuracy of "TICS" ultrasound protocol in detecting simple and complicated diverticulitis: A prospective cohort study.Acad Emerg Med.2023;30(3):172-179.doi:10.1111/acem.14628
+3.Shokoohi H, Selame LA, Loesche MA, et al.Accuracy of "TICS" ultrasound protocol in detecting simple and complicated diverticulitis: A prospective cohort study.Acad Emerg Med.2023;30(3):172-179.doi:10.1111/acem.14628
+
+【结肠憩室炎的治疗】
+根据严重程度而异
+根据严重程度而异
+有时用抗生素
+有时用抗生素
+CT引导下经皮脓肿引流
+CT引导下经皮脓肿引流
+有时需手术治疗
+有时需手术治疗
+病情不严重的病人在家通过休息进行治疗。症状常很快缓解。
+对于无并发症的憩室炎患者，建议进行 2 至 3 天的清流质饮食，当疼痛减轻时，再进行低纤维饮食（1）。
+症状较重的患者（如中度至重度疼痛、发热、白细胞明显增多）应住院治疗，服用泼尼松的患者也应住院治疗（他们发生穿孔和全身腹膜炎的风险较高）。治疗方法是卧床休息、禁食（针对急性复杂性憩室炎患者）和静脉输液。
+对于急性憩室炎，无论是否复杂，传统上均推荐使用抗生素。然而，数据表明抗生素可能无法改善无并发症憩室炎的预后；因此，身体健康且患有无并发症的乙状结肠憩室炎的患者有时可以在不使用抗生素的情况下安全治疗；抗生素治疗应根据具体情况考虑（1，2）。
+抗生素治疗应保留用于急性复杂性憩室炎、免疫抑制、败血症或严重合并症的患者。
+如果使用抗生素，应覆盖革兰氏阴性杆菌和厌氧菌。
+选择接受治疗的门诊病人可服用7至10天的口服抗生素方案，疗程包括下列其中一种：
+甲硝唑加氟喹诺酮类药物（如环丙沙星）
+甲硝唑加氟喹诺酮类药物（如环丙沙星）
+甲硝唑加头孢菌素（如头孢氨苄）
+甲硝唑加头孢菌素（如头孢氨苄）
+甲硝唑加甲氧苄啶/磺胺甲恶唑
+甲硝唑加甲氧苄啶/磺胺甲恶唑
+阿莫西林加克拉维酸
+阿莫西林加克拉维酸
+莫西沙星（对于不能服用青霉素或甲硝唑的患者）
+莫西沙星（对于不能服用青霉素或甲硝唑的患者）
+住院患者的静脉抗生素治疗方案的选择基于多种因素，包括疾病严重程度、不良结局风险（例如，由于其他疾病、高龄、免疫抑制）以及耐药菌的可能性。存在多种治疗方案，例如甲硝唑与头孢菌素或氟喹诺酮类药物的组合。单一抗生素方案包括厄他培南、莫西沙星、替卡西林/克拉维酸、亚胺培南/西司他丁、美罗培南、多利培南和哌拉西林/他唑巴坦。
+没有明确的标准将脓肿大小与手术或介入（超声或 CT 引导）引流的需要联系起来。但小型结肠周围脓肿（直径不足2至3厘米）通常仅通过广谱抗生素和肠道休息即可消退。
+如果反应良好，患者仍需住院直至症状缓解；并根据耐受情况恢复软食。发作消退后，患者应食用高纤维饮食，避免常规使用非甾体抗炎药 (NSAID) 或阿司匹林镇痛以防止复发。
+
+【经皮引流或超声内镜引导下引流】
+CT引导下经皮引流或超声内镜引导下引流正在成为较大脓肿（直径超过3厘米）、抗生素治疗无效和/或临床恶化脓肿的治疗标准。然而，对于多房性脓肿、无法进行引流的脓肿或引流后无明显改善的脓肿，则需要手术干预。
+对于有游离穿孔的患者或根据临床检查或影像学怀疑有粪便性腹膜炎时，需要立即进行手术。手术的其他适应证包括：症状严重，在3至5天内对非手术治疗无反应，以及疼痛、压痛和发热加剧。入院时约15％至20％的急性憩室炎患者需要手术 (3)。
+对于无并发症的憩室炎，以往基于复发次数会建议手术切除。目前，美国结肠直肠外科学会（ASCRS）和其他实践指南建议在第二次发作后进行个案评估，而不是强制性的选择性结肠切除术(4–8；另见日本胃肠病学协会2019年结肠憩室出血和结肠憩室炎指南)。反复发作导致死亡或并发症风险较高的患者通常被认为是手术的候选者。
+对于复杂性憩室炎，手术建议有所不同。保守治疗急性复杂憩室炎后，不建议患者常规进行选择性节段性结肠切除术 (9)。建议对有瘘管和持续脓肿的慢性复杂憩室炎患者进行手术治疗。
+需切除受累的肠段。在无穿孔、脓肿或显著炎症的健康患者中，断端可立即进行再吻合。其他患者则先行临时结肠造瘘术，待炎症消退和一般状况改善后，再行吻合术。
+
+【治疗参考文献】
+1.Gunby SA, Strate LL.Acute Colonic Diverticulitis.Ann Intern Med.2024;177(3):ITC33-ITC48.doi:10.7326/AITC202403190
+1.Gunby SA, Strate LL.Acute Colonic Diverticulitis.Ann Intern Med.2024;177(3):ITC33-ITC48.doi:10.7326/AITC202403190
+2.Peery AF, Shaukat A, Strate LL.AGA Clinical Practice Update on Medical Management of Colonic Diverticulitis: Expert Review.Gastroenterology.2021;160(3):906-911.e1.doi:10.1053/j.gastro.2020.09.059
+2.Peery AF, Shaukat A, Strate LL.AGA Clinical Practice Update on Medical Management of Colonic Diverticulitis: Expert Review.Gastroenterology.2021;160(3):906-911.e1.doi:10.1053/j.gastro.2020.09.059
+3.Wieghard N, Geltzeiler CB, Tsikitis VL.Trends in the surgical management of diverticulitis.Ann Gastroenterol.2015;28(1):25–30.
+3.Wieghard N, Geltzeiler CB, Tsikitis VL.Trends in the surgical management of diverticulitis.Ann Gastroenterol.2015;28(1):25–30.
+4.Feingold D, Steele SR, Lee S, et al.Practice parameters for the treatment of sigmoid diverticulitis.Dis Colon Rectum.2014;57:284–294.doi:10.1097/DCR.0000000000000075
+4.Feingold D, Steele SR, Lee S, et al.Practice parameters for the treatment of sigmoid diverticulitis.Dis Colon Rectum.2014;57:284–294.doi:10.1097/DCR.0000000000000075
+5.Regenbogen SE, Hardiman KM, Hendren S, Morris AM.Surgery for diverticulitis in the 21st century: A systematic review.JAMA Surg.2014;149(3):292–303.doi:10.1001/jamasurg.2013.5477
+5.Regenbogen SE, Hardiman KM, Hendren S, Morris AM.Surgery for diverticulitis in the 21st century: A systematic review.JAMA Surg.2014;149(3):292–303.doi:10.1001/jamasurg.2013.5477
+6.Comparato G, Di Mario F.Recurrent diverticulitis.J Clin Gastroenterol.2008;42(10):1130–1134.doi:10.1097/MCG.0b013e3181886ee4
+6.Comparato G, Di Mario F.Recurrent diverticulitis.J Clin Gastroenterol.2008;42(10):1130–1134.doi:10.1097/MCG.0b013e3181886ee4
+7.Young-Fadok TM.Diverticulitis.N Engl J Med. 2018;379(17):1635–1642.doi:10.1056/NEJMcp1800468
+7.Young-Fadok TM.Diverticulitis.N Engl J Med. 2018;379(17):1635–1642.doi:10.1056/NEJMcp1800468
+8.Hall J, Hardiman K, Lee S, et al.The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Treatment of Left-Sided Colonic Diverticulitis.Dis Colon Rectum.2020;63(6):728-747.doi:10.1097/DCR.0000000000001679
+8.Hall J, Hardiman K, Lee S, et al.The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Treatment of Left-Sided Colonic Diverticulitis.Dis Colon Rectum.2020;63(6):728-747.doi:10.1097/DCR.0000000000001679
+9.Schultz JK, Azhar N, Binda GA, et al.European Society of Coloproctology: Guidelines for the management of diverticular disease of the colon.Colorectal Dis.2020;22(supplement 2):S5–S28.doi:10.1111/codi.15140
+9.Schultz JK, Azhar N, Binda GA, et al.European Society of Coloproctology: Guidelines for the management of diverticular disease of the colon.Colorectal Dis.2020;22(supplement 2):S5–S28.doi:10.1111/codi.15140
+憩室炎是憩室的炎症和/或感染。
+憩室炎是憩室的炎症和/或感染。
+大约75%的患者的炎症没有并发症；其余的患者出现脓肿、腹膜炎、肠梗阻或瘘管。
+大约75%的患者的炎症没有并发症；其余的患者出现脓肿、腹膜炎、肠梗阻或瘘管。
+诊断方法为：口服、直肠和静脉注射造影剂后，进行腹部和盆腔CT检查；在发作后1至3个月进行结肠镜检查以排查癌症。
+诊断方法为：口服、直肠和静脉注射造影剂后，进行腹部和盆腔CT检查；在发作后1至3个月进行结肠镜检查以排查癌症。
+治疗方法取决于疾病严重程度，主要包括保守治疗，通常使用抗生素，有时经皮或超声内镜下引流，或者手术切除。
+治疗方法取决于疾病严重程度，主要包括保守治疗，通常使用抗生素，有时经皮或超声内镜下引流，或者手术切除。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Japan Gastroenterological Association:Guidelines for colonic diverticular bleeding and colonic diverticulitis(2019)
+Japan Gastroenterological Association:Guidelines for colonic diverticular bleeding and colonic diverticulitis(2019)
+American Society of Colon and Rectal Surgeons:Guidelines for the treatment of left-sided colonic diverticulitis(2020)
+American Society of Colon and Rectal Surgeons:Guidelines for the treatment of left-sided colonic diverticulitis(2020)
+
+【憩室病相关的节段性结肠炎（SCAD）】
+与憩室病相关的节段性结肠炎是指憩室间粘膜的慢性结肠炎症。诊断依赖内镜检查。治疗是对症治疗。
+与憩室病相关的节段性结肠炎是指憩室间粘膜的慢性结肠炎症。诊断依赖内镜检查。治疗是对症治疗。
+（参见结肠憩室病）
+憩室病相关的节段性结肠炎（SCAD）和慢性复发憩室炎是用来描述由憩室病引起的慢性结肠炎症的术语。SCAD通常影响憩室间粘膜，通常存在于左侧，不影响直肠和升结肠。
+SCAD的病因不明，可能是多因素的。 粘膜脱垂、粪便停滞、局部缺血、肠道微生态改变，和/或慢性炎症可能在其病机中发挥作用。目前尚不清楚憩室病与结肠炎之间的因果关系，是由于共同的潜在因素还是巧合：其与炎症性肠病、感染性结肠炎和缺血性结肠炎具有相似的组织学特征。 憩室病患者的SCAD患病率非常低（1％）。SCAD通常影响年龄 > 60岁的男性 (1)。
+
+【参考文献】
+1.Sbarigia C, Ritieni C, Annibale B, Carabotti M.Common Diagnostic Challenges and Pitfalls in Segmental Colitis Associated with Diverticulosis (SCAD).J Clin Med.2023;12(18):6084.Published 2023 Sep 20.doi:10.3390/jcm12186084
+1.Sbarigia C, Ritieni C, Annibale B, Carabotti M.Common Diagnostic Challenges and Pitfalls in Segmental Colitis Associated with Diverticulosis (SCAD).J Clin Med.2023;12(18):6084.Published 2023 Sep 20.doi:10.3390/jcm12186084
+
+【症状和体征】
+SCAD 的症状包括便血、下腹部疼痛、排便习惯改变和腹泻。
+发烧、恶心、呕吐和体重减轻是罕见症状。
+当内镜检查显示黏膜呈红斑状、质脆、呈颗粒样改变，呈弥漫性或斑片状分布，并累及憩室间黏膜时，可提示SCAD的诊断。
+缓解症状
+缓解症状
+SCAD的治疗是对症治疗；迄今为止，尚未进行高质量的随机临床试验。
+建议使用口服抗生素环丙沙星和甲硝唑进行初始治疗。对于不能通过抗生素改善病情的患者，可以使用5-氨基水杨酸（5-ASA）口服制剂。皮质类固醇（如泼尼松）用于难治性病例。
+皮质类固醇难治性或皮质类固醇依赖型SCAD患者可以选择手术（节段结肠切除术）。

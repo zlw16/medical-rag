@@ -1,0 +1,32 @@
+标题：照顾患病新生儿
+来源：https://www.msdmanuals.cn/professional/pediatrics/caring-for-sick-children-and-their-families/caring-for-sick-neonates
+============================================================
+
+患病或早产的新生儿常需与家人分离，在特殊护理病房或新生儿重症监护室接受治疗。这种分离常使父母在情感、生活安排及生理（如乳房胀痛）上承受压力，因为他们可能无法在病情稳定期间探视危重或早产儿，或因转运至其他科室或医院或需后续操作而长期分离。
+虽然许多婴儿需在重症监护病房接受治疗，一旦病情稳定，他们通常无需继续与家人分离。几乎没有婴儿，即使是戴着呼吸机的婴儿，病情严重到父母无法看到和触摸的地步。证据不仅支持而且鼓励婴儿与家庭的接触；直接皮肤接触（有时被称为“袋鼠式护理”）对生存率、生理稳定性、体重增长及神经发育有益（1–6）。
+专家建议，新生儿转运团队应鼓励父母在将患病婴儿转运至专科护理中心前与婴儿进行身体接触，前提是这种接触不会使婴儿面临感染风险。多数医院鼓励父母尽可能多的与他们的患儿互动，同时采取适当的防护措施以减少感染传播风险，并在探视及怀抱时密切监测婴儿心肺稳定性。婴儿可采用母乳喂养或经鼻饲管接受挤出的母乳喂养。多数医院对父母实行无限制探视制度，部分医院还设有家长陪护区以便长期陪伴婴儿。鼓励家长直接护理婴儿，以了解婴儿，做好带婴儿回家的准备。
+
+【经验与提示】
+经验与提示
+在几乎所有临床场景中，采取适当防护措施后，婴儿与家庭的接触均可安全且有益。
+在几乎所有临床场景中，采取适当防护措施后，婴儿与家庭的接触均可安全且有益。
+当婴儿患有先天性异常时，无论其医疗状况如何，父母都应在出生后尽快见到婴儿。否则，他们可能会想象疾病的外观和严重程度比现实严重得多。儿科医生、社工或其他心理健康临床医生提供的强化父母支持至关重要。应为父母提供充足的心理咨询，助其了解患儿病情及治疗建议，应对先天异常患儿带来的情感压力与不确定性，并为出院后照护做好准备。为了平衡对儿童异常情况的讨论，医生应当强调婴儿的正常之处以及婴儿在生活质量方面的潜力。与有类似病情患儿的家庭或互助群体联系也可能有益。
+当新生儿死亡且父母未曾见过或触摸过他们时，父母以后可能会觉得自己从未真正拥有过孩子。经历新生儿死亡的父母常报告有强烈的空虚感，并可能因未能充分哀悼这一“真实”孩子的失去，而发展为长期的抑郁。（7，8）。一般来说，所有的父母，无论他们是否能够在婴儿活着时看到或抱着他们，包括死产后，如果允许在婴儿死后这样做，通常都会在长期内受益。在所有新生儿死亡案例中，医生和社会工作者的后续访问有助于回顾婴儿的死亡情况，回答后来经常出现的问题，并评估和减轻内疚感。医生还可以评估父母的悲痛过程，并在必要时提供适当的指导或转诊，以获得更广泛的支持。
+
+【参考文献】
+1.Baley J; COMMITTEE ON FETUS AND NEWBORN.Skin-to-Skin Care for Term and Preterm Infants in the Neonatal ICU.Pediatrics.2015;136(3):596-599.doi:10.1542/peds.2015-2335
+1.Baley J; COMMITTEE ON FETUS AND NEWBORN.Skin-to-Skin Care for Term and Preterm Infants in the Neonatal ICU.Pediatrics.2015;136(3):596-599.doi:10.1542/peds.2015-2335
+2.WHO Immediate KMC Study Group, Arya S, Naburi H, et al.Immediate "Kangaroo Mother Care" and Survival of Infants with Low Birth Weight.N Engl J Med.2021;384(21):2028-2038.doi:10.1056/NEJMoa2026486
+2.WHO Immediate KMC Study Group, Arya S, Naburi H, et al.Immediate "Kangaroo Mother Care" and Survival of Infants with Low Birth Weight.N Engl J Med.2021;384(21):2028-2038.doi:10.1056/NEJMoa2026486
+3.Pineda R, Bender J, Hall B, Shabosky L, Annecca A, Smith J.Parent participation in the neonatal intensive care unit: Predictors and relationships to neurobehavior and developmental outcomes.Early Hum Dev.2018;117:32-38.doi:10.1016/j.earlhumdev.2017.12.008
+3.Pineda R, Bender J, Hall B, Shabosky L, Annecca A, Smith J.Parent participation in the neonatal intensive care unit: Predictors and relationships to neurobehavior and developmental outcomes.Early Hum Dev.2018;117:32-38.doi:10.1016/j.earlhumdev.2017.12.008
+4.Lazarus MF, Marchman VA, Brignoni-Pérez E, et al.Inpatient Skin-to-skin Care Predicts 12-Month Neurodevelopmental Outcomes in Very Preterm Infants.J Pediatr.2024;274:114190.doi:10.1016/j.jpeds.2024.114190
+4.Lazarus MF, Marchman VA, Brignoni-Pérez E, et al.Inpatient Skin-to-skin Care Predicts 12-Month Neurodevelopmental Outcomes in Very Preterm Infants.J Pediatr.2024;274:114190.doi:10.1016/j.jpeds.2024.114190
+5.Lee J, Parikka V, Lehtonen L, Soukka H.Parent-infant skin-to-skin contact reduces the electrical activity of the diaphragm and stabilizes respiratory function in preterm infants.Pediatr Res.2022;91(5):1163-1167.doi:10.1038/s41390-021-01607-2
+5.Lee J, Parikka V, Lehtonen L, Soukka H.Parent-infant skin-to-skin contact reduces the electrical activity of the diaphragm and stabilizes respiratory function in preterm infants.Pediatr Res.2022;91(5):1163-1167.doi:10.1038/s41390-021-01607-2
+6.Charpak N, Montealegre-Pomar A, Bohorquez A.Systematic review and meta-analysis suggest that the duration of Kangaroo mother care has a direct impact on neonatal growth.Acta Paediatr.2021;110(1):45-59.doi:10.1111/apa.15489
+6.Charpak N, Montealegre-Pomar A, Bohorquez A.Systematic review and meta-analysis suggest that the duration of Kangaroo mother care has a direct impact on neonatal growth.Acta Paediatr.2021;110(1):45-59.doi:10.1111/apa.15489
+7.Kingdon C, Givens JL, O'Donnell E, Turner M.Seeing and Holding Baby: Systematic Review of Clinical Management and Parental Outcomes After Stillbirth.Birth.2015;42(3):206-218.doi:10.1111/birt.12176
+7.Kingdon C, Givens JL, O'Donnell E, Turner M.Seeing and Holding Baby: Systematic Review of Clinical Management and Parental Outcomes After Stillbirth.Birth.2015;42(3):206-218.doi:10.1111/birt.12176
+8.Redshaw M, Henderson J, Bevan C.'This is time we'll never get back': a qualitative study of mothers' experiences of care associated with neonatal death.BMJ Open.2021;11(9):e050832.Published 2021 Sep 13.doi:10.1136/bmjopen-2021-050832
+8.Redshaw M, Henderson J, Bevan C.'This is time we'll never get back': a qualitative study of mothers' experiences of care associated with neonatal death.BMJ Open.2021;11(9):e050832.Published 2021 Sep 13.doi:10.1136/bmjopen-2021-050832

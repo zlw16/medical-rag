@@ -1,0 +1,125 @@
+标题：变应性支气管肺曲菌病（ABPA）
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/asthma-and-related-disorders/allergic-bronchopulmonary-aspergillosis-abpa
+============================================================
+
+当哮喘或囊性纤维化患者的气道被Aspergillus（曲霉菌）属（土壤中普遍存在的真菌）定植时，就会发生过敏性支气管肺曲霉病。基于全球数据的系统综述，变应性支气管肺曲霉病（ABPA）的合并患病率在成人哮喘患者中约为11%，在成人囊性纤维化患者中约为10%（1,2）。大多数估算数据来源于哮喘或囊性纤维化患者群体，而在一般人群中，过敏性支气管肺曲菌病（ABPA）较为罕见。
+
+【参考文献】
+1.Agarwal R, Muthu V, Sehgal IS, et al.Prevalence of Aspergillus Sensitization and Allergic Bronchopulmonary Aspergillosis in Adults With Bronchial Asthma: A Systematic Review of Global Data.J Allergy Clin Immunol Pract.2023;11(6):1734-1751.e3.doi:10.1016/j.jaip.2023.04.009
+1.Agarwal R, Muthu V, Sehgal IS, et al.Prevalence of Aspergillus Sensitization and Allergic Bronchopulmonary Aspergillosis in Adults With Bronchial Asthma: A Systematic Review of Global Data.J Allergy Clin Immunol Pract.2023;11(6):1734-1751.e3.doi:10.1016/j.jaip.2023.04.009
+2.Maturu VN, Agarwal R.Prevalence of Aspergillus sensitization and allergic bronchopulmonary aspergillosis in cystic fibrosis: systematic review and meta-analysis.Clin Exp Allergy.2015;45(12):1765-1778.doi:10.1111/cea.12595
+2.Maturu VN, Agarwal R.Prevalence of Aspergillus sensitization and allergic bronchopulmonary aspergillosis in cystic fibrosis: systematic review and meta-analysis.Clin Exp Allergy.2015;45(12):1765-1778.doi:10.1111/cea.12595
+
+【ABPA的病理生理学】
+ABPA患者中的Aspergillus（曲霉菌）定植会引发针对Aspergillus（曲霉菌）抗原的强烈抗体（IgE和IgG）和细胞介导的免疫反应（Ⅰ、Ⅲ、Ⅳ型超敏反应），导致频繁的哮喘急性发作。随后，免疫反应伴真菌直接毒性作用致气道扩张损伤，最后发展为支气管扩张和纤维化。组织学表现以气道黏液栓为特征，嗜酸粒细胞性肺炎，肺泡间隔浆细胞和单核细胞浸润，支气管黏液腺体和杯状细胞数量增加。
+极少数情况下，其他真菌如Penicillium（青霉菌）、Candida（念珠菌）、Curvularia（弯孢菌）、Helminthosporium（蠕孢菌）和Drechslera（德雷克斯勒菌），可在无潜在哮喘或囊性纤维化的情况下引起相同的综合征，称为变应性支气管肺真菌病。
+Aspergillus（曲霉菌）存在于管腔内，但不具有侵袭性。因此，ABPA必须和以下疾病鉴别：
+侵袭性曲霉病，后者常发生于免疫缺陷患者
+侵袭性曲霉病，后者常发生于免疫缺陷患者
+曲霉肿是已确定存在空洞性病变或囊性气腔的患者体内Aspergillus（曲霉菌）的菌落集合
+曲霉肿是已确定存在空洞性病变或囊性气腔的患者体内Aspergillus（曲霉菌）的菌落集合
+Aspergillus（曲霉菌）肺炎，这是一种罕见疾病，并且见于长期服用低剂量泼尼松的患者（如慢性阻塞性肺疾病患者）
+Aspergillus（曲霉菌）肺炎，这是一种罕见疾病，并且见于长期服用低剂量泼尼松的患者（如慢性阻塞性肺疾病患者）
+ABPA与其他疾病的重叠综合征也有报道（1）。
+
+【病理生理学参考文献】
+1.Li L, Jiang Z, Shao C.Pulmonary Aspergillus Overlap Syndromes.Mycopathologia.2018;183(2):431-438.doi:10.1007/s11046-017-0212-y
+1.Li L, Jiang Z, Shao C.Pulmonary Aspergillus Overlap Syndromes.Mycopathologia.2018;183(2):431-438.doi:10.1007/s11046-017-0212-y
+
+【ABPA的症状和体征】
+症状与哮喘或肺囊性纤维化加重的症状一样（即呼吸困难、喘息和胸闷），另外排痰性咳嗽，痰中可含深绿色或褐色黏液栓子，偶有咯血。病情严重者可出现发热、头痛和食欲缺乏等常见的全身症状。体征表现为气道阻塞的迹象，具体表现为听诊时的哮鸣声以及呼吸延长的现象，这些体征与哮喘发作的体征并无区别。
+
+【ABPA的诊断】
+哮喘或囊性纤维化病史
+哮喘或囊性纤维化病史
+胸片或高分辨CT
+胸片或高分辨CT
+Aspergillus（曲霉菌）皮肤点刺试验
+Aspergillus（曲霉菌）皮肤点刺试验
+血清Aspergillus（曲霉菌）沉淀素
+血清Aspergillus（曲霉菌）沉淀素
+痰培养Aspergillus（曲霉菌）属（或其他罕见真菌）阳性
+痰培养Aspergillus（曲霉菌）属（或其他罕见真菌）阳性
+血清IgE水平
+血清IgE水平
+血嗜酸性粒细胞计数
+血嗜酸性粒细胞计数
+哮喘或囊性纤维化患者反复发作，X线胸片中出现游走性或不易吸收的浸润影（常由于痰栓和支气管阻塞导致肺不张）及支气管扩张的影像学特征，痰培养A. fumigatus（烟曲霉菌）为阳性，或外周血嗜酸性粒细胞明显增多时应怀疑此诊断。
+后前胸X线显示“手套手指”阴影（箭头），表现为分支的管状密度，代表支气管内渗出物、支气管壁增厚。
+By permission of the publisher.摘自 Groll A, Walsh T.InAtlas of Infectious Diseases: Fungal Infections.Edited by GL Mandell and RD Diamond.Philadelphia, Current Medicine, 2000.
+胸部增强CT显示肺中叶严重支气管扩张、严重气道扩张和囊性改变。气道扩张的特征是气道与相邻血管的比率 > 1。
+By permission of the publisher.摘自Coakley R, Boucher R, Fiel S, et al.InBone's Atlas of Pulmonary and Critical Care Medicine.Edited by J Crapo.Philadelphia, Current Medicine, 2005.
+ABPA的诊断已提出多项标准（参见变应性支气管肺曲霉病诊断标准表），但在实际临床中并非所有病例均评估全部标准。
+一般而言，当临床高度怀疑变应性支气管肺曲霉病时，建议进行曲霉菌抗原皮肤点刺试验。若皮肤点刺试验呈速发型风团红斑反应（或无法进行皮肤点刺试验时），应进一步检测血清总IgE、通过酶联免疫吸附试验（ELISA）检测的烟曲霉特异性IgE及烟曲霉特异性IgG抗体（或通过免疫扩散技术等检测曲霉菌沉淀素）。总IgE水平升高超过1000 ng/mL（或417 IU/mL）且沉淀素阳性支持诊断（1）。通过检测升高的烟曲霉特异性IgE（＞0.35 kU/L）以及存在烟曲霉特异性IgG抗体可确诊。A. fumigatus（烟曲霉菌）特异性IgE具有高度敏感性，而A. fumigatus（烟曲霉菌）特异性IgG对ABPA具有高度特异性（2）。直接检测A. fumigatus（烟曲霉）特异性IgG优于检测曲霉菌沉淀素 (3) 。
+痰培养和支气管镜下取样培养的Aspergillus（曲霉菌）对ABPA的诊断敏感性和特异性低，因此不作为诊断标准。
+外周嗜酸性粒细胞增多在未经治疗的患者中常见，未接受口服糖皮质激素的患者血液中嗜酸性粒细胞占白细胞分类计数的约10%至25%4。每当检测结果出现差异时，例如当血清IgE水平升高但未发现A. fumigatus（烟曲霉菌）特异性免疫球蛋白时，应重复检测并长期随访监测患者以最终确诊或排除诊断。
+
+【变应性支气管肺曲霉病诊断标准】
+变应性支气管肺曲霉病诊断标准
+主要标准
+哮喘或囊性纤维化
+哮喘或囊性纤维化
+Aspergillus（曲霉菌）特异性IgE升高或Aspergillus（曲霉菌）皮试阳性
+Aspergillus（曲霉菌）特异性IgE升高或Aspergillus（曲霉菌）皮试阳性
+血清IgE升高（>1000ng/mL或 > 417 IU/mL）*
+血清IgE升高（>1000ng/mL或 > 417 IU/mL）*
+其他标准
+用免疫分析法测定A. fumigatus（烟曲霉菌）血清沉淀素或血清Aspergillus（曲霉菌）IgG升高。
+用免疫分析法测定A. fumigatus（烟曲霉菌）血清沉淀素或血清Aspergillus（曲霉菌）IgG升高。
+符合过敏性支气管肺曲霉病的放射影像学肺部混浊
+符合过敏性支气管肺曲霉病的放射影像学肺部混浊
+使用糖皮质激素前，既往或目前血嗜酸性粒细胞增多（> 500个细胞/微升 [> 0.5 × 109/升]）
+使用糖皮质激素前，既往或目前血嗜酸性粒细胞增多（> 500个细胞/微升 [> 0.5 × 109/升]）
+*如果患者符合所有其他诊断标准，可能会更低
+Adapted fromAgarwal R, Chakrabarti A, Shah A, et al: Allergic bronchopulmonary aspergillosis: review of literature and proposal of new diagnostic and classification criteria.Clin Exp Allergy43:850, 2013.
+*如果患者符合所有其他诊断标准，可能会更低
+Adapted fromAgarwal R, Chakrabarti A, Shah A, et al: Allergic bronchopulmonary aspergillosis: review of literature and proposal of new diagnostic and classification criteria.Clin Exp Allergy43:850, 2013.
+
+【诊断参考】
+1.Giavina-Bianchi P, Kalil J.Diagnosis of Allergic Bronchopulmonary Aspergillosis Exacerbations.J Allergy Clin Immunol Pract.2017;5(6):1599-1600.doi:10.1016/j.jaip.2017.06.024
+1.Giavina-Bianchi P, Kalil J.Diagnosis of Allergic Bronchopulmonary Aspergillosis Exacerbations.J Allergy Clin Immunol Pract.2017;5(6):1599-1600.doi:10.1016/j.jaip.2017.06.024
+2.Agarwal R, Maskey D, Aggarwal AN, et al.Diagnostic performance of various tests and criteria employed in allergic bronchopulmonary aspergillosis: a latent class analysis.PLoS One.2013;8(4):e61105.Published 2013 Apr 12.doi:10.1371/journal.pone.0061105
+2.Agarwal R, Maskey D, Aggarwal AN, et al.Diagnostic performance of various tests and criteria employed in allergic bronchopulmonary aspergillosis: a latent class analysis.PLoS One.2013;8(4):e61105.Published 2013 Apr 12.doi:10.1371/journal.pone.0061105
+3.Sehgal IS, Dhooria S, Prasad KT, Muthu V, Aggarwal AN, Agarwal R.Comparative diagnostic accuracy of immunoprecipitation versus immunoassay methods for detecting Aspergillus fumigatus-specific IgG in allergic bronchopulmonary aspergillosis: A systematic review and meta-analysis.Mycoses.2022;65(9):866-876.doi:10.1111/myc.13488
+3.Sehgal IS, Dhooria S, Prasad KT, Muthu V, Aggarwal AN, Agarwal R.Comparative diagnostic accuracy of immunoprecipitation versus immunoassay methods for detecting Aspergillus fumigatus-specific IgG in allergic bronchopulmonary aspergillosis: A systematic review and meta-analysis.Mycoses.2022;65(9):866-876.doi:10.1111/myc.13488
+4.Greenberger PA.变应性支气管肺曲霉病。In Grammer LC, Greenberger PA (eds).Patterson's Allergic Diseases, 7th edition.Philadelphia, Wolters Kluwer, 2010.
+4.Greenberger PA.变应性支气管肺曲霉病。In Grammer LC, Greenberger PA (eds).Patterson's Allergic Diseases, 7th edition.Philadelphia, Wolters Kluwer, 2010.
+
+【ABPA的治疗】
+全身性糖皮质激素
+全身性糖皮质激素
+有时用抗真菌药物
+有时用抗真菌药物
+治疗需根据疾病分期进行（见表变应性支气管肺曲霉病的分期）。治疗的主要方法是系统性（口服）糖皮质激素及长期使用抗真菌药物（唑类），后者可作为糖皮质激素的节省剂（1）。
+第一阶段采用口服泼尼松的方式进行治疗，每日一次，持续 2 至 4 周，之后在 4 至 6 个月内逐渐减量。每三个月检查一次X线胸片、血嗜酸性粒细胞计数和IgE水平来评估改善情况，改善定义为浸润影吸收、嗜酸性粒细胞减少≥50%、IgE降低33％。Ⅱ期病人只需每年监测一次。
+对于II期变应性支气管肺曲霉病复发（进入III期）的患者，应再次给予泼尼松治疗。对于患有 I 期或 III 期疾病但使用泼尼松治疗无效（即 IV 期）的患者，可以考虑采用抗真菌治疗。伊曲康唑每日2次口服，持续16周，作为泼尼松替代药物并具糖皮质激素减量作用如果伊曲康唑无效或不能耐受，可考虑替代抗真菌药物（伏立康唑、泊沙康唑或吸入性两性霉素 B）。对于处于第五阶段的患者，其症状和并发症通常会采取支持性治疗措施。
+伊曲康唑治疗时需监测药物浓度和血清中转氨酶、甘油三酯及钾离子浓度。
+新兴研究数据显示，生物制剂治疗（如奥马珠单抗、度普利尤单抗及美泊利单抗）在过敏性支气管肺曲菌病（ABPA）中具有临床获益（2）。
+
+【变应性支气管肺曲霉病分级】
+变应性支气管肺曲霉病分级
+出现所有诊断标准
+症状缓解>6个月
+≥1项诊断标准再次出现
+糖皮质激素依赖或难治性
+纤维化期
+弥散性纤维化和支气管扩张
+*各期不是连续性地进展。
+数据来自Greenberger PA。变应性支气管肺曲霉病。In Grammer LC, Greenberger PA (eds).Patterson's Allergic Diseases, 7th edition.Philadelphia, Wolters Kluwer, 2010.
+*各期不是连续性地进展。
+数据来自Greenberger PA。变应性支气管肺曲霉病。In Grammer LC, Greenberger PA (eds).Patterson's Allergic Diseases, 7th edition.Philadelphia, Wolters Kluwer, 2010.
+所有患者的潜在性哮喘或囊性纤维化要给予最佳治疗。另外，长期应用糖皮质激素的病人要监测并发症，如白内障、糖尿病、骨质疏松症，并可能需要接受治疗以预防骨量减少和Pneumocystis jirovecii（耶氏肺孢子菌）肺部感染。
+
+【治疗参考文献】
+1.Patterson TF, Thompson GR 3rd, Denning DW, et al.Practice Guidelines for the Diagnosis and Management of Aspergillosis: 2016 Update by the Infectious Diseases Society of America.Clin Infect Dis.2016;63(4):e1-e60.doi:10.1093/cid/ciw326
+1.Patterson TF, Thompson GR 3rd, Denning DW, et al.Practice Guidelines for the Diagnosis and Management of Aspergillosis: 2016 Update by the Infectious Diseases Society of America.Clin Infect Dis.2016;63(4):e1-e60.doi:10.1093/cid/ciw326
+2.Chen X, Zhi H, Wang X, et al.Efficacy of Biologics in Patients with Allergic Bronchopulmonary Aspergillosis: A Systematic Review and Meta-Analysis.Lung.2024;202(4):367-383.doi:10.1007/s00408-024-00717-y
+2.Chen X, Zhi H, Wang X, et al.Efficacy of Biologics in Patients with Allergic Bronchopulmonary Aspergillosis: A Systematic Review and Meta-Analysis.Lung.2024;202(4):367-383.doi:10.1007/s00408-024-00717-y
+如果哮喘或囊性纤维化患者出现原因不明的频繁发作，胸片检查发现游走或不缓解的浸润，影像学检查有支气管扩张的表现，有持续性血嗜酸细胞，或者如果痰培养示 Aspergillus（曲霉菌）时，则考虑为ABPA。
+如果哮喘或囊性纤维化患者出现原因不明的频繁发作，胸片检查发现游走或不缓解的浸润，影像学检查有支气管扩张的表现，有持续性血嗜酸细胞，或者如果痰培养示 Aspergillus（曲霉菌）时，则考虑为ABPA。
+开始使用Aspergillus（曲霉菌）抗原做皮肤点刺试验，血清学检测通常紧随其后。
+开始使用Aspergillus（曲霉菌）抗原做皮肤点刺试验，血清学检测通常紧随其后。
+首先使用全身性糖皮质激素进行治疗。
+首先使用全身性糖皮质激素进行治疗。
+如果使用全身性糖皮质激素治疗后变应性支气管肺曲霉病仍持续存在，则应使用抗真菌药物，如伊曲康唑进行治疗。
+如果使用全身性糖皮质激素治疗后变应性支气管肺曲霉病仍持续存在，则应使用抗真菌药物，如伊曲康唑进行治疗。

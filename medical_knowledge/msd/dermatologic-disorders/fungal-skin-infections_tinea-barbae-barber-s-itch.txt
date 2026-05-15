@@ -1,0 +1,33 @@
+标题：颜面xuan（须癣）
+来源：https://www.msdmanuals.cn/professional/dermatologic-disorders/fungal-skin-infections/tinea-barbae-barber-s-itch
+============================================================
+
+这张照片显示了由皮肤癣菌感染引起的面部胡须区域的毛囊丘疹（有些是聚结的）和脓疱。
+Image provided by Thomas Habif, MD.
+须癣是一种皮肤癣菌病，表现为胡须区域的浅表环状皮损，但亦可累及深层皮肤形成类似毛囊炎的感染灶，此类病变常由金黄色葡萄球菌引起（1）。须癣的危险因素包括近期在理发店剃须、直接接触受感染动物（奶牛或宠物）、免疫功能低下（2），以及既往使用外用糖皮质激素治疗浅表真菌感染的病史，后者反而可能促进真菌生长。其他皮肤病变包括炎性丘疹、结节或斑块，伴或不伴结痂，以及可能留下疤痕。须癣有时也可表现为脓癣(对皮肤真菌的严重炎症反应引起的大而多瘤的头皮肿块)，导致瘢痕性胡须脱落。
+此照片显示须癣患者胡须部位的大的环状红斑性皮损。
+
+【参考文献】
+1.Kaiser M, Abdin R, Yaghi M, et al.Beard Alopecia: An Updated and Comprehensive Review of Etiologies, Presentation and Treatment.J Clin Med.2023;12(14):4793.doi:10.3390/jcm12144793
+1.Kaiser M, Abdin R, Yaghi M, et al.Beard Alopecia: An Updated and Comprehensive Review of Etiologies, Presentation and Treatment.J Clin Med.2023;12(14):4793.doi:10.3390/jcm12144793
+2.Bonifaz A, Ramírez-Tamayo T, Saúl A.Tinea barbae (tinea sycosis): experience with nine cases.J Dermatol.2003;30(12):898-903.doi:10.1111/j.1346-8138.2003.tb00345.x
+2.Bonifaz A, Ramírez-Tamayo T, Saúl A.Tinea barbae (tinea sycosis): experience with nine cases.J Dermatol.2003;30(12):898-903.doi:10.1111/j.1346-8138.2003.tb00345.x
+
+【xu癣的诊断】
+主要体格检查
+主要体格检查
+KOH湿片
+KOH湿片
+罕见情况下，会进行真菌培养或活检
+罕见情况下，会进行真菌培养或活检
+应根据具有相关危险因素（例如，动物接触、最近在理发店剃须、免疫抑制）的患者中的特征性临床表现怀疑须癣。
+须癣的诊断依据是在氢氧化钾湿片检查拔出的毛发、培养或活检中发现真菌成分（菌丝）来确定的。
+胡须区域的滤泡性丘疹和脓疱的鉴别诊断包括细菌性毛囊炎。
+
+【须癣的治疗】
+口服抗真菌药物
+口服抗真菌药物
+有时口服糖皮质激素
+有时口服糖皮质激素
+须癣的治疗采用口服抗真菌药物。特比萘芬和伊曲康唑是首选药物，通常使用4至6周，取决于临床反应。微粉化灰黄霉素是一种合理的替代选择。（见表治疗浅部真菌感染的选择.)
+若皮损存在严重炎症反应，应短期联用口服糖皮质激素（如泼尼松），以缓解症状并可能降低瘢痕形成风险，并在2周内逐步减量停药。

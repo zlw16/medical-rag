@@ -1,0 +1,107 @@
+标题：霍乱
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-negative-bacilli/cholera
+============================================================
+
+病原菌为霍乱弧菌，这是一种短小、弯曲，能活动的革兰阴性需氧杆菌，可产生肠毒素，其为可引起小肠黏膜大量分泌等渗电解质溶液的一种蛋白质。人类是V. cholerae（霍乱弧菌）唯一已知的自然宿主。在穿透粘液层后，霍乱弧菌定植于肠道的上皮内层并分泌霍乱毒素。这些微生物不会侵入肠壁;因此，大便中有少量或没有白细胞。
+霍乱疫情仅由V. cholerae（霍乱弧菌）血清群O1和O139引起。V. cholerae（霍乱弧菌）O1型的El Tor和经典生物型均可引起严重疾病。然而，轻型或无症状感染多由目前主要流行的ElTor生物型以及非O1和非O139血清型的V. cholerae（霍乱弧菌）引起。
+霍乱是通过摄入有症状或无症状感染者粪便污染的水、贝类或其他食物传播的。霍乱患者的家庭接触者感染风险高，这可能通过共同的受污染食物和水源发生。人与人之间的传播不易发生，因为需要大量的病原菌在人体接种才可导致感染传播。
+本病在亚洲某些地区、中东、非洲、中美洲、南美洲和美国的墨西哥湾沿岸呈地方性流行。2010年，海地爆发疫情，并持续至2017年。它后来传播到多米尼加共和国和古巴。在这次疫情爆发期间，超过 82 万人患病，近 1 万人死亡。欧洲、日本和澳大利亚的输入病例曾引起局部地区暴发流行。也门的疫情始于 2016 年，至今尚未结束。这次爆发造成了更大的破坏性影响。也门有超过 250 万人患病，近 4,000 人死亡。该疫情被认为是现代史上规模最大、传播速度最快的霍乱疫情，在 2019 年的高峰期，占全球霍乱病例的 90% 以上。海地也于 2022 年底爆发了新的疫情，此前该国已宣布 3 年无霍乱疫情（1）。它仍在进行中。
+2021 年以来，全球霍乱疫情有所增加，世卫组织报告的病例数从 2021 年到 2022 年增加了一倍。2022 年，非洲和亚洲有 7 个国家报告疫情，各有超过 10,000 例病例（2，3）。
+流行地区的流行暴发通常发生在温暖季节。发病率在儿童中最高，尤其是幼儿和/或营养不良的儿童。在新受累地区，任何季节均可流行，任何年龄人群同样易感。
+一种较轻的肠胃炎是由不产生霍乱毒素的O1和O139群非霍乱V. cholerae（霍乱弧菌）引起的。
+人群的易感性是不同的，O型血的人易于感染。因为霍乱弧菌对胃酸很敏感，低胃酸或无胃酸是易感因素，包括正在服用胃酸抑制药物的患者。
+生活在流行区的人逐渐获得自然免疫力。
+
+【参考文献】
+1.Vega Ocasio D, Juin S, Berendes D, et al.Cholera Outbreak - Haiti, September 2022-January 2023.MMWR Morb Mortal Wkly Rep.2023;72(2):21-25.Published 2023 Jan 13.doi:10.15585/mmwr.mm7202a1
+1.Vega Ocasio D, Juin S, Berendes D, et al.Cholera Outbreak - Haiti, September 2022-January 2023.MMWR Morb Mortal Wkly Rep.2023;72(2):21-25.Published 2023 Jan 13.doi:10.15585/mmwr.mm7202a1
+2.Larkin H.WHO Report: Cholera Resurgent in 2022 After Years of Decline.JAMA.2023;329(3):200.doi:10.1001/jama.2022.23551
+2.Larkin H.WHO Report: Cholera Resurgent in 2022 After Years of Decline.JAMA.2023;329(3):200.doi:10.1001/jama.2022.23551
+3.World Health Organization = Organisation mondiale de la Santé: Weekly Epidemiological Record, 2023, vol.98, 38 [‎full issue]‎. Weekly Epidemiological Record = Relevé épidémiologique hebdomadaire, 98 (‎38)‎, 431-452.
+3.World Health Organization = Organisation mondiale de la Santé: Weekly Epidemiological Record, 2023, vol.98, 38 [‎full issue]‎. Weekly Epidemiological Record = Relevé épidémiologique hebdomadaire, 98 (‎38)‎, 431-452.
+
+【霍乱的症状和体征】
+霍乱的潜伏期为1～3天。霍乱可以呈亚临床表现，也可以表现为轻度无并发症的腹泻发作，或是潜在致死的暴发性疾病。
+初期表现常为突然发生的无痛水样泻和呕吐。通常不伴明显恶心。成人大便量可能超过1L/h，但通常比这少得多。通常，大便为缺少粪质的白色水样便（米泔水样便）。
+腹泻引起水和电解质大量丢失，从而导致强烈口渴、少尿、肌肉痉挛、乏力、组织明显脱水、眼窝凹陷和手指皮肤皱纹增加。可发生低血容量、血液浓缩、少尿和无尿，并伴有缺钾的严重代谢性酸中毒（但血清钠浓度正常）。若不予治疗，接着可发生循环衰竭、发绀和木僵。长期低血容量可引起急性肾小管坏死。
+未经治疗的霍乱会导致 50％ 以上的患者死亡，但如果及时补液，大约 1％ 的患者会死亡（1）。
+大部分患者在腹泻停止2周后体内V. cholerae（霍乱弧菌）可消失；慢性胆道带菌者罕见。
+
+【症状和体征参考】
+1.Fournier JM, Quilici ML.Choléra [Cholera].Presse Med.2007;36(4 Pt 2):727-739.doi:10.1016/j.lpm.2006.11.029
+1.Fournier JM, Quilici ML.Choléra [Cholera].Presse Med.2007;36(4 Pt 2):727-739.doi:10.1016/j.lpm.2006.11.029
+
+【霍乱的诊断】
+粪便培养和血清分型/亚型
+粪便培养和血清分型/亚型
+通过粪便培养（推荐选用选择性培养基）和血清群/血清学分型可明确霍乱诊断。
+V. cholerae的检测可在参考实验室进行; PCR(polymerase chain reaction)检测也是一种选择。 霍乱快速检测试纸可用于实验室检测条件受限地区的公共卫生防控，但该测试的特异性并不理想，因此如果可能，应通过培养确认试纸阳性标本。
+霍乱应与临床症状相似的、由产肠毒素的大肠杆菌菌株，以及偶尔由沙门菌和志贺菌引起的疾病进行鉴别。
+应监测血清电解质、尿素氮、肌酐。
+
+【霍乱的治疗】
+根据药敏试验结果，选择多西环素、阿奇霉素、呋喃唑酮（美国没有）、甲氧苄啶/磺胺甲噁唑 (TMP/SMX) 或环丙沙星。
+根据药敏试验结果，选择多西环素、阿奇霉素、呋喃唑酮（美国没有）、甲氧苄啶/磺胺甲噁唑 (TMP/SMX) 或环丙沙星。
+补充液体丢失至关重要。轻症者可以给予标准的口服补液治疗。快速纠正严重的低血容量可挽救生命。预防和纠正代谢性酸中毒和低钾血症非常重要。对低血容量和严重脱水患者，应使用等渗液体进行静脉补液（参见口服补液）。随意口服饮水。
+为补充钾的丢失，可将10～15mEq/L (10～15 mmol/L) 氯化钾加入静脉溶液，或给予1 mL/kg 的 100g/L 碳酸氢钾溶液口服，每日四次。补钾对儿童特别重要，因为儿童对低钾的耐受差。
+一旦血容量恢复后（补水期），为补充持续丢失的液体，补液量应相当于粪便排泄量（维持期）。应经常用临床指标（脉率和强度，皮肤的饱满度和排尿量）来判断补液量是否足够。不应该使用血浆、血液扩容剂和血管升压素来替代水和电解质。
+口服葡萄糖-电解质溶液有效地补充随大便丢失的水分，可在初始静脉补液后使用，在流行区肠外液体供应有限的情况下，它可能是唯一的补液方式。轻度或中度脱水且能饮水的患者，可口服补液（约4小时内75mL/kg）。那些脱水更为严重的患者需要更多的补液，可能需要留置鼻胃管补充液体。
+世界卫生组织（World Health organization, WHO）推荐的口服补液盐（ORS）每升饮用水中含葡萄糖13.5g，氯化钠2.6g，二水枸橼酸三钠2.9g（或2.5g 碳酸氢钾）和氯化钾1.5g。这种补液采用广泛使用的，提前配制好的，由糖和盐组成的密封包装；每袋与1L纯净水混合。使用此类预制口服补液盐（ORS）包装，可最大限度降低未经过培训人员在配制溶液时出现失误的可能性。如果没有ORS包，可将半小匙盐和6小勺糖混合加入1L清水中作为替代方案。补液后，ORS应继续随意使用，用量至少等于持续的粪便和呕吐物丢失量。
+
+【经验与提示】
+经验与提示
+为了最大限度地减少由未经培训的人员造成混合错误的可能性，尽可能使用配制的口服补液盐来治疗霍乱引起的脱水；如果没有，请将半小勺盐和 6 小勺糖混合在 1 升清水中。
+为了最大限度地减少由未经培训的人员造成混合错误的可能性，尽可能使用配制的口服补液盐来治疗霍乱引起的脱水；如果没有，请将半小勺盐和 6 小勺糖混合在 1 升清水中。
+呕吐停止和食欲好转后可给予固体食物。
+早期使用有效的口服抗菌药物治疗可消灭弧菌，减少粪便量50%，48小时内可使腹泻停止。应根据从社区分离所得的V. cholerae对药物的敏感性来选用抗菌药物 (1) 。
+多西环素被推荐作为成人（包括孕妇）和儿童的一线治疗。如果对多西环素具有耐药性，阿奇霉素和环丙沙星是替代选择（参见疾病控制和预防中心[CDC]的Recommendations for the Use of Antibiotics for the Treatment of Cholera（使用抗生素治疗霍乱的建议））。
+建议口服剂量（另见疾病预防控制中心的recommendations（建议））对敏感菌株包括
+多西环素：对于≥12岁的患者，包括孕妇，单次剂量300毫克；对于<12岁的儿童，单次剂量2至4毫克/千克
+多西环素：对于≥12岁的患者，包括孕妇，单次剂量300毫克；对于<12岁的儿童，单次剂量2至4毫克/千克
+阿奇霉素：对于≥12岁的患者，包括孕妇，1次剂量1g；对于<12岁的儿童，1次剂量20mg/kg（最大1g）
+阿奇霉素：对于≥12岁的患者，包括孕妇，1次剂量1g；对于<12岁的儿童，1次剂量20mg/kg（最大1g）
+环丙沙星：对于≥12岁的患者，包括孕妇，1次剂量1g；对于<12岁的儿童，1次剂量20mg/kg（最大1g）
+环丙沙星：对于≥12岁的患者，包括孕妇，1次剂量1g；对于<12岁的儿童，1次剂量20mg/kg（最大1g）
+补充锌可以降低世界上资源匮乏地区儿童的疾病严重程度和持续时间（2）。
+
+【治疗参考文献】
+1.Leibovici-Weissman Y, Neuberger A, Bitterman R, Sinclair D, Salam MA, Paul M.Antimicrobial drugs for treating cholera.Cochrane Database Syst Rev.2014;2014(6):CD008625.Published 2014 Jun 19.doi:10.1002/14651858.CD008625.pub2
+1.Leibovici-Weissman Y, Neuberger A, Bitterman R, Sinclair D, Salam MA, Paul M.Antimicrobial drugs for treating cholera.Cochrane Database Syst Rev.2014;2014(6):CD008625.Published 2014 Jun 19.doi:10.1002/14651858.CD008625.pub2
+2.Roy SK, Hossain MJ, Khatun W, et al.Zinc supplementation in children with cholera in Bangladesh: randomised controlled trial.BMJ.2008;336(7638):266-268.doi:10.1136/bmj.39416.646250.AE
+2.Roy SK, Hossain MJ, Khatun W, et al.Zinc supplementation in children with cholera in Bangladesh: randomised controlled trial.BMJ.2008;336(7638):266-268.doi:10.1136/bmj.39416.646250.AE
+
+【预防霍乱】
+为控制霍乱，必须妥善处理人的排泄物，净化供水。在疫区，应将饮用水煮沸或氯化处理，蔬菜和贝类应彻底煮熟。
+鉴于缺乏数据支持，对于霍乱患者的家庭接触者不推荐采用抗生素预防。此外，在以前的流行病中，当对霍乱患者的家庭接触者进行抗生素预防时，就会出现抗生素耐药性。
+
+【霍乱疫苗】
+目前有数种口服霍乱疫苗可用：
+减毒活、单剂量、单价霍乱疫苗，冻干霍乱弧菌CVD 103-HgR（Vaxchora）在美国可供前往霍乱疫区的 2 至 64 岁人群使用。它可以预防由V. cholerae（霍乱弧菌）O1引起的疾病，接种后10天发生中度和重度腹泻的几率降低90％，接种后3个月发生中度和重度腹泻的几率降低80％（1）。这种疫苗在3至6个月后的有效性尚不清楚。
+三种灭活全细胞口服疫苗在国际上可用于儿童和成人，但在美国还无法获得：
+一种单价疫苗（旅行者腹泻和霍乱疫苗[杜库拉尔]）仅含有V. cholera（霍乱弧菌）O1和El Tor细菌以及少量无毒的b亚基霍乱毒素；服用前，必须将其混合到缓冲液中（缓冲液溶解在150毫升[5盎司]冷水中）。
+一种单价疫苗（旅行者腹泻和霍乱疫苗[杜库拉尔]）仅含有V. cholera（霍乱弧菌）O1和El Tor细菌以及少量无毒的b亚基霍乱毒素；服用前，必须将其混合到缓冲液中（缓冲液溶解在150毫升[5盎司]冷水中）。
+两种二价疫苗（ShanChol和Euvichol）含有V. cholera（霍乱弧菌）的O1和O139血清群，且不添加任何成分，无需在接种疫苗时摄入液体。
+两种二价疫苗（ShanChol和Euvichol）含有V. cholera（霍乱弧菌）的O1和O139血清群，且不添加任何成分，无需在接种疫苗时摄入液体。
+这3种疫苗在2-3年的时间内提供60%至85%的保护（2）。它们需要2剂，对于有霍乱持续风险的人，建议在2年后接种加强剂。
+一种以前由苯酚-灭活的V. cholerae（霍乱弧菌）菌株制备的注射用全细胞静脉疫苗，因疗效低下和副作用已不再使用。
+
+【预防参考文献】
+1.Collins JP, Ryan ET, Wong KK, et al.Cholera Vaccine: Recommendations of the Advisory Committee on Immunization Practices, 2022.MMWR Recomm Rep.2022;71(2):1-8.Published 2022 Sep 30.doi:10.15585/mmwr.rr7102a1
+1.Collins JP, Ryan ET, Wong KK, et al.Cholera Vaccine: Recommendations of the Advisory Committee on Immunization Practices, 2022.MMWR Recomm Rep.2022;71(2):1-8.Published 2022 Sep 30.doi:10.15585/mmwr.rr7102a1
+2.Song KR, Lim JK, Park SE, et al.Oral Cholera Vaccine Efficacy and Effectiveness.Vaccines (Basel).2021;9(12):1482.Published 2021 Dec 15.doi:10.3390/vaccines9121482
+2.Song KR, Lim JK, Park SE, et al.Oral Cholera Vaccine Efficacy and Effectiveness.Vaccines (Basel).2021;9(12):1482.Published 2021 Dec 15.doi:10.3390/vaccines9121482
+V. cholerae血清型O1和O139可分泌肠毒素，这种毒素可引起严重的有时可致命的腹泻，常见于人群暴露于受污染的水或食物而发生大规模暴发时。
+V. cholerae血清型O1和O139可分泌肠毒素，这种毒素可引起严重的有时可致命的腹泻，常见于人群暴露于受污染的水或食物而发生大规模暴发时。
+其他V. cholerae血清型可引起轻微、非流行性疾病。
+其他V. cholerae血清型可引起轻微、非流行性疾病。
+诊断采用大便培养和血清分型;快速试纸测试对确定偏远地区疾病暴发很有帮助。
+诊断采用大便培养和血清分型;快速试纸测试对确定偏远地区疾病暴发很有帮助。
+补液是至关重要的;大多数病例仅需口服补液，但对于血容量减少严重的患者需要静脉补液。
+补液是至关重要的;大多数病例仅需口服补液，但对于血容量减少严重的患者需要静脉补液。
+在等待药敏试验结果期间，对≥12岁的感染患者（包括孕妇）给予多西环素、阿奇霉素或环丙沙星。
+在等待药敏试验结果期间，对≥12岁的感染患者（包括孕妇）给予多西环素、阿奇霉素或环丙沙星。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Centers for Disease Control and Prevention (CDC):Recommendations for the Use of Antibiotics for the Treatment of Cholera
+Centers for Disease Control and Prevention (CDC):Recommendations for the Use of Antibiotics for the Treatment of Cholera

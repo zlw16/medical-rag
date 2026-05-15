@@ -1,0 +1,109 @@
+标题：巨细胞动脉炎
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/vasculitis/giant-cell-arteritis
+============================================================
+
+（参见血管炎概述。）
+在美国和欧洲，巨细胞动脉炎比其他血管炎疾病更为常见。发病率根据种族不同而有所差异。尸检结果显示大量无症状患者。女性较多见。平均发病年龄为70岁左右，在50～>90岁之间 (1) 。大约有40%～60%的巨细胞动脉炎患者合并风湿性多肌痛症状(2)。颅内血管通常不受累。
+
+【参考文献】
+1.Monti S, Milanesi A, Klersy C, et al.Age at diagnosis influences the clinical phenotype, treatment strategies and outcomes in patients with giant cell arteritis: results from the observational GCAGE study on a large cohort of 1004 patients.Ann Rheum Dis82(8):1098-1106, 2023.doi:10.1136/ard-2023-223895
+1.Monti S, Milanesi A, Klersy C, et al.Age at diagnosis influences the clinical phenotype, treatment strategies and outcomes in patients with giant cell arteritis: results from the observational GCAGE study on a large cohort of 1004 patients.Ann Rheum Dis82(8):1098-1106, 2023.doi:10.1136/ard-2023-223895
+2.Gonzalez-Gay MA, Barros S, Lopez-Diaz MJ, Garcia-Porrua C, Sanchez-Andrade A, Llorca J.Giant cell arteritis: disease patterns of clinical presentation in a series of 240 patients.Medicine(Baltimore) 2005;84(5):269-276.doi:10.1097/01.md.0000180042.42156.d1
+2.Gonzalez-Gay MA, Barros S, Lopez-Diaz MJ, Garcia-Porrua C, Sanchez-Andrade A, Llorca J.Giant cell arteritis: disease patterns of clinical presentation in a series of 240 patients.Medicine(Baltimore) 2005;84(5):269-276.doi:10.1097/01.md.0000180042.42156.d1
+
+【巨细胞动脉炎的病理生理】
+血管炎可能是局部，多灶或者广泛的。该病倾向于影响含有弹性组织的动脉，绝大多数是颞动脉、脑动脉或其他颈动脉系统的动脉。大动脉弓的分支、冠状动脉和外周动脉也可能受累。动脉外膜出现单核细胞浸润而形成包含有活化的T细胞和巨噬细胞的肉芽肿。可出现多核巨细胞，沿着破碎的弹性动脉膜呈簇状分布。血管内膜明显增厚，中央狭窄，腔内栓塞。
+
+【巨细胞动脉炎的症状和体征】
+巨细胞动脉炎的症状可能在几周内逐渐出现或突然出现。
+患者可能出现全身症状比如发热（通常低热）、乏力、身体不适、无法解释的体重减轻以及盗汗。某些患者初诊为不明原因的发热。最终，大部分患者产生了与受累动脉相关的症状。
+严重时，有时跳动性头痛（颞动脉的、枕骨的、前额的或者弥漫的）是最常见的症状。可与触摸头皮或梳头时引起的头皮疼痛伴发。
+视力损害包括复视、暗点、视力模糊、视野缺损（警示症状）。单眼短期内部分或全部视野缺损（一过性黑朦）之后可能很快出现永久性不可逆的视力丧失。如果不及时治疗，另外一只眼睛也可受累。尽管，完全的双侧失明很少见。视力减退是由于眼动脉分支动脉炎或后睫状体动脉炎，导致视神经缺血。眼底镜检查可见缺血性视神经炎的表现，如视神经乳头苍白和水肿、棉絮状渗出斑或者小的出血。后期，视神经萎缩。由于脑远端颈动脉区或基底部动脉病变导致的枕骨皮质梗死引起的中央区盲点，很少见。
+间歇性运动障碍（缺血性肌肉疼痛）可发生在下颌肌肉和舌头或舌尖的肌肉。当咀嚼坚硬的食物时，下颌间歇性运动障碍尤其明显。间歇性下颌运动障碍与复视的高风险相关。
+当出现颈动脉或脊柱基底动脉及其分支狭窄或阻塞时，可出现卒中、短暂性一过性缺血等神经系统表现。
+胸主动脉瘤和主动脉夹层是严重的，通常是主动脉炎的晚期并发症，在没有其他症状的情况下可能会进展。
+
+【巨细胞动脉炎的诊断】
+ESR 红细胞沉降率（ESR）、C反应蛋白和全血细胞计数（CBC）
+ESR 红细胞沉降率（ESR）、C反应蛋白和全血细胞计数（CBC）
+动脉活检，通常用颞动脉
+动脉活检，通常用颞动脉
+有时，颞动脉超声
+有时，颞动脉超声
+在年龄>50岁的患者中，如果出现以下任何症状都应怀疑巨细胞动脉炎，尤其是他们有全身性炎症表现和实验室检查证据时：
+新发的头痛
+新发的头痛
+颈部以上动脉缺血而新发的症状或体征
+颈部以上动脉缺血而新发的症状或体征
+咀嚼时出现下颌肌肉疼痛
+咀嚼时出现下颌肌肉疼痛
+颞动脉或头皮压痛
+颞动脉或头皮压痛
+无法解释的慢性发热或贫血
+无法解释的慢性发热或贫血
+如果患者伴有风湿性多肌痛的症状则诊断巨细胞动脉炎更明确。
+体格检查可检测到颞动脉上的肿胀和压痛，有无结节或红斑，有时可触摸到脉搏消失。颞动脉可突起。颞动脉在检查者手指下呈现为饱满而不是塌陷状态，则提示异常。颈部大动脉和主动脉分支应评估是否受累。
+如果怀疑该诊断时，可查ESR、C反应蛋白和CBC。大多数患者的ESR、C反应蛋白水平升高；慢性病性贫血亦常见。有时，血小板水平增高，而若检查血清白蛋白和总蛋白水平时，可发现蛋白水平低下。可见轻微的白细胞碎裂，但并不特异。
+如果巨细胞动脉炎还不确诊，推荐活检一支动脉。因为炎症段与正常段经常交替，应该取材于看似异常的血管段。通常选择颞动脉症状部位进行活检，如果枕骨动脉看起来异常也可进行活检。颞动脉取材的最佳长度还不明确，但是长一些，约5cm长，可提高阳性率。对侧活检的附加诊断价值较小，一项研究发现其检出率提高了7%（1）。无需等到活检后才治疗。由于炎症消退缓慢，颞动脉活检可在皮质类固醇治疗开始后2周内完成 (2)。
+由专家操作的颞动脉彩色多普勒超声可检测到血管壁水肿，表现为光晕，在某些病例中可替代颞动脉活检用于巨细胞动脉炎的诊断（3）。颞动脉超声应在治疗开始前或 5 天内进行，因为皮质类固醇会降低检测灵敏度。在众多优点中，该测试是无创的，不涉及辐射，并且可以对其他颅血管进行成像。然而，颞动脉超声的诊断有效性在很大程度上取决于超声操作者的技能和设备。
+应在诊断时诊断后周期进行主动脉及其分支的影像学检查，即使在没有提示的症状或体征时也需随访（见表用于大动脉炎的影像学检查）。
+
+【诊断参考】
+1.Butendieck R Jr, Calamia K, Sandin A: A study of temporal artery biopsy for the diagnosis of giant cell arteritis.Clin Rheumatol42(1):159-166, 2023.doi:10.1007/s10067-022-06371-0
+1.Butendieck R Jr, Calamia K, Sandin A: A study of temporal artery biopsy for the diagnosis of giant cell arteritis.Clin Rheumatol42(1):159-166, 2023.doi:10.1007/s10067-022-06371-0
+2.Achkar AA, Lie JT, Hunder GG, O'Fallon WM, Gabriel SE: How does previous corticosteroid treatment affect the biopsy findings in giant cell (temporal) arteritis?Ann Intern Med120(12):987-992, 1994.doi:10.7326/0003-4819-120-12-199406150-00003
+2.Achkar AA, Lie JT, Hunder GG, O'Fallon WM, Gabriel SE: How does previous corticosteroid treatment affect the biopsy findings in giant cell (temporal) arteritis?Ann Intern Med120(12):987-992, 1994.doi:10.7326/0003-4819-120-12-199406150-00003
+3.Chrysidis S, Døhn UM, Terslev L, et al: Diagnostic accuracy of vascular ultrasound in patients with suspected giant cell arteritis (EUREKA): a prospective, multicentre, non-interventional, cohort study.Lancet Rheumatol3(12):e865-e873, 2021.doi.org/10.1016/S2665-9913(21)00246-0
+3.Chrysidis S, Døhn UM, Terslev L, et al: Diagnostic accuracy of vascular ultrasound in patients with suspected giant cell arteritis (EUREKA): a prospective, multicentre, non-interventional, cohort study.Lancet Rheumatol3(12):e865-e873, 2021.doi.org/10.1016/S2665-9913(21)00246-0
+
+【巨细胞动脉炎的治疗】
+糖皮质激素
+糖皮质激素
+托珠单抗
+托珠单抗
+部分患者服用小剂量阿司匹林
+部分患者服用小剂量阿司匹林
+从开始怀疑颞动脉炎开始，就应该治疗。即使活检报告延迟了2周，病理学特点仍是显而易见的。
+
+【经验与提示】
+经验与提示
+如果>50岁的患者有新发头痛、间歇性下颌运动障碍、突发视力障碍和/或颞动脉压痛，应考虑立即用糖皮质激素治疗巨细胞动脉炎。
+如果>50岁的患者有新发头痛、间歇性下颌运动障碍、突发视力障碍和/或颞动脉压痛，应考虑立即用糖皮质激素治疗巨细胞动脉炎。
+糖皮质激素是治疗的基础。糖皮质激素可快速缓解症状，防止大多数患者视力丧失。最佳的起始剂量、减量方式及总疗程还没有定论。泼尼松的开始剂量40～60mg，每天1次口服（或等效的激素）连续4周，然后逐渐减少，对于大多数患者来说都有效 (1,2)。
+如果患者伴有视力损害，应开始静脉注射甲泼尼龙500～1000mg/d，连续3～5天，以尽力防止视力进一步下降，特别是对侧眼睛。挽救视力可能更多地取决于皮质类固醇治疗的启动速度，而不是剂量。一旦发生视神经梗死，无论糖皮质激素的剂量多少，都不能恢复。
+如果患者在单药泼尼松治疗几周后症状消退，可以根据患者的反应逐渐减量，从每日约60毫克开始，每周减少5至10毫克，减至每日40毫克，然后每周减少2.5至5毫克，减至每日10至20毫克，之后继续逐渐减量直至停药。不能单用ESR评价患者对治疗的反应（和疾病活动性）。例如，在老年患者中、单克隆丙种球蛋白病等其他因素也可升高ESR。应该用临床症状来评价。C-反应蛋白有时可能比ESR更为有用。
+大多数患者至少需要激素治疗2年。长期服用激素有明显的不良反应，因此如果可行的话，应该减量。超过一半使用糖皮质激素的患者会出现药物相关并发症。
+托珠单抗，一种白细胞介素（IL）-6受体拮抗剂，应在开始使用皮质类固醇治疗时考虑使用，这样可以加速皮质类固醇的减量方案。托珠单抗已被证明能减少糖皮质激素的使用量（3，4）。接受糖皮质激素联合托珠单抗治疗的患者，在停用糖皮质激素后，也有更高的持续缓解率（3，4，5）。然而，托珠单抗的最佳治疗时长尚未确定（6，7），且由于存在肠憩室穿孔的风险，使用该药物时应谨慎对待有憩室炎病史的患者。
+当需要类固醇节省剂且托珠单抗禁用时，低剂量甲氨蝶呤被建议作为托珠单抗的替代品。然而，支持疗效的数据有限（8）。肿瘤坏死因子（TNF）抑制剂如英夫利昔单抗尚未被证明有效，并可能具有潜在的危害（9）。
+对于长期服用泼尼松的老年患者应给予双膦酸盐化合物抗吸收药物以增加骨量，预防骨质疏松。
+低剂量阿司匹林（每日口服81至100毫克）可能有助于预防缺血性事件，应考虑用于脊椎动脉或颈动脉存在严重或限制血流的患者。
+
+【治疗参考文献】
+1.Maz M, Chung SA, Abril A, et al: 2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of Giant Cell Arteritis and Takayasu Arteritis.Arthritis Rheumatol73(8):1349-1365, 2021.doi:10.1002/art.41774
+1.Maz M, Chung SA, Abril A, et al: 2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of Giant Cell Arteritis and Takayasu Arteritis.Arthritis Rheumatol73(8):1349-1365, 2021.doi:10.1002/art.41774
+2.Hellmich B, Agueda A, Monti S, et al: 2018 Update of the EULAR recommendations for the management of large vessel vasculitis.Ann Rheum Dis79(1):19-30, 2020.doi:10.1136/annrheumdis-2019-215672
+2.Hellmich B, Agueda A, Monti S, et al: 2018 Update of the EULAR recommendations for the management of large vessel vasculitis.Ann Rheum Dis79(1):19-30, 2020.doi:10.1136/annrheumdis-2019-215672
+3.Villiger PM, Adler S, Kuchen S, et al:Tocilizumabfor induction and maintenance of remission in giant cell arteritis: A phase 2, randomised, double-blind, placebo-controlled trial.Lancet387:1921–1927, 2016.doi: 10.1016/S0140-6736(16)00560-2
+3.Villiger PM, Adler S, Kuchen S, et al:Tocilizumabfor induction and maintenance of remission in giant cell arteritis: A phase 2, randomised, double-blind, placebo-controlled trial.Lancet387:1921–1927, 2016.doi: 10.1016/S0140-6736(16)00560-2
+4.Stone JH, Tuckwell K, Dimonaco S, et al: Trial oftocilizumabin giant-cell arteritis.N Engl J Med377:317–328, 2017.doi: 10.1056/NEJMoa1613849
+4.Stone JH, Tuckwell K, Dimonaco S, et al: Trial oftocilizumabin giant-cell arteritis.N Engl J Med377:317–328, 2017.doi: 10.1056/NEJMoa1613849
+5.Adler S, Reichenbach S, Gloor A, et al: Risk of relapse after discontinuation oftocilizumabtherapy in giant cell arteritis.Rheumatology (Oxford)58(9):1639-1643, 2019.doi:10.1093/rheumatology/kez0913
+5.Adler S, Reichenbach S, Gloor A, et al: Risk of relapse after discontinuation oftocilizumabtherapy in giant cell arteritis.Rheumatology (Oxford)58(9):1639-1643, 2019.doi:10.1093/rheumatology/kez0913
+6.Samec MJ, Rakholiya J, Langenfeld H, et al: Relapse Risk and Safety of Long-TermTocilizumabUse Among Patients With Giant Cell Arteritis: A Single-Enterprise Cohort Study.J Rheumatol50(10):1310-1317, 2023.doi:10.3899/jrheum.2022-1214
+6.Samec MJ, Rakholiya J, Langenfeld H, et al: Relapse Risk and Safety of Long-TermTocilizumabUse Among Patients With Giant Cell Arteritis: A Single-Enterprise Cohort Study.J Rheumatol50(10):1310-1317, 2023.doi:10.3899/jrheum.2022-1214
+7.Stone JH, Han J, Aringer M, et al: Long-term effect oftocilizumabin patients with giant cell arteritis: open-label extension phase of the Giant Cell Arteritis Actemra (GiACTA) trial.Lancet Rheumatol3(5):e328-e336, 2021.doi:10.1016/S2665-9913(21)00038-2
+7.Stone JH, Han J, Aringer M, et al: Long-term effect oftocilizumabin patients with giant cell arteritis: open-label extension phase of the Giant Cell Arteritis Actemra (GiACTA) trial.Lancet Rheumatol3(5):e328-e336, 2021.doi:10.1016/S2665-9913(21)00038-2
+8.Mahr AD, Jover JA, Spiera RF, et al: Adjunctivemethotrexatefor treatment of giant cell arteritis: an individual patient data meta-analysis.Arthritis Rheum56(8):2789-2797, 2007.doi:10.1002/art.22754
+8.Mahr AD, Jover JA, Spiera RF, et al: Adjunctivemethotrexatefor treatment of giant cell arteritis: an individual patient data meta-analysis.Arthritis Rheum56(8):2789-2797, 2007.doi:10.1002/art.22754
+9.Hoffman GS, Cid MC, Rendt-Zagar KE, et al:Infliximabfor maintenance of glucocorticosteroid-induced remission of giant cell arteritis: a randomized trial.Ann Intern Med146(9):621-30, 2007.doi: 10.7326/0003-4819-146-9-200705010-00004
+9.Hoffman GS, Cid MC, Rendt-Zagar KE, et al:Infliximabfor maintenance of glucocorticosteroid-induced remission of giant cell arteritis: a randomized trial.Ann Intern Med146(9):621-30, 2007.doi: 10.7326/0003-4819-146-9-200705010-00004
+巨细胞动脉炎是一个主要累及主动脉及主要分支的常见大型血管炎。
+巨细胞动脉炎是一个主要累及主动脉及主要分支的常见大型血管炎。
+患者可能表现出多发性肌痛的症状。
+患者可能表现出多发性肌痛的症状。
+特征有视力下降、复视、头痛、下颌运动障碍、颞动脉压痛和全身症状。
+特征有视力下降、复视、头痛、下颌运动障碍、颞动脉压痛和全身症状。
+需查全血细胞计数分析、血沉、C反应蛋白，并做颞动脉活检或超声。
+需查全血细胞计数分析、血沉、C反应蛋白，并做颞动脉活检或超声。
+治疗包括立即开始使用糖皮质激素、托珠单抗，有时还包括低剂量阿司匹林。
+治疗包括立即开始使用糖皮质激素、托珠单抗，有时还包括低剂量阿司匹林。

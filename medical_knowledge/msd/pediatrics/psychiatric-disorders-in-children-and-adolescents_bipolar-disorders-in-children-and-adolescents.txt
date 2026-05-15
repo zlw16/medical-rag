@@ -1,0 +1,224 @@
+标题：儿童和青少年双相情感障碍
+来源：https://www.msdmanuals.cn/professional/pediatrics/psychiatric-disorders-in-children-and-adolescents/bipolar-disorders-in-children-and-adolescents
+============================================================
+
+双相情感障碍的特征是明显的情绪障碍，包括躁狂（或轻躁狂）和重度抑郁症的发作，与正常情绪的时期相穿插。双相情感障碍的发作在症状（即抑郁、躁狂或两者兼有）、严重程度及持续时间上均可存在差异。其发病高峰约在15岁左右，10%的病例始于10岁以前，31%始于18岁前，69%始于25岁前（1）。在许多儿童中，最初的表现是一次或多次抑郁症。(参见成人双相情感障碍。）
+童年与青少年时期早发双相障碍关联抑郁与焦虑症状更重、治疗延误（2）及物质滥用（3）。纵向研究表明双相情感障碍在青少年和成人发病形式之间具有连续性（4），具有相似的神经学发现（5, 6）和合并症。
+过去，青春期前儿童若为强烈、不稳定情绪所困，可诊断为双相情感障碍。然而，因为这样的孩子通常发展为抑郁而非双相情感障碍，他们现在被归类为具有破坏性情绪调节障碍。
+
+【参考文献】
+1.Solmi M, Radua J, Olivola M, et al.Age at onset of mental disorders worldwide: large-scale meta-analysis of 192 epidemiological studies.Mol Psychiatry.2022;27(1):281-295.doi:10.1038/s41380-021-01161-7
+1.Solmi M, Radua J, Olivola M, et al.Age at onset of mental disorders worldwide: large-scale meta-analysis of 192 epidemiological studies.Mol Psychiatry.2022;27(1):281-295.doi:10.1038/s41380-021-01161-7
+2.Joslyn C, Hawes DJ, Hunt C, Mitchell PB.Is age of onset associated with severity, prognosis, and clinical features in bipolar disorder?A meta-analytic review.Bipolar Disord.2016;18(5):389-403.doi:10.1111/bdi.12419
+2.Joslyn C, Hawes DJ, Hunt C, Mitchell PB.Is age of onset associated with severity, prognosis, and clinical features in bipolar disorder?A meta-analytic review.Bipolar Disord.2016;18(5):389-403.doi:10.1111/bdi.12419
+3.Hunt GE, Malhi GS, Cleary M, Lai HM, Sitharthan T.Comorbidity of bipolar and substance use disorders in national surveys of general populations, 1990-2015: Systematic review and meta-analysis.J Affect Disord.2016;206:321-330.doi:10.1016/j.jad.2016.06.051
+3.Hunt GE, Malhi GS, Cleary M, Lai HM, Sitharthan T.Comorbidity of bipolar and substance use disorders in national surveys of general populations, 1990-2015: Systematic review and meta-analysis.J Affect Disord.2016;206:321-330.doi:10.1016/j.jad.2016.06.051
+4.Hafeman DM, Goldstein TR, Strober M, et al.Prospectively ascertained mania and hypomania among young adults with child- and adolescent-onset bipolar disorder.Bipolar Disord.2021;23(5):463-473.doi:10.1111/bdi.13034
+4.Hafeman DM, Goldstein TR, Strober M, et al.Prospectively ascertained mania and hypomania among young adults with child- and adolescent-onset bipolar disorder.Bipolar Disord.2021;23(5):463-473.doi:10.1111/bdi.13034
+5.Phillips ML, Swartz HA.A critical appraisal of neuroimaging studies of bipolar disorder: toward a new conceptualization of underlying neural circuitry and a road map for future research.Am J Psychiatry.2014;171(8):829-843.doi:10.1176/appi.ajp.2014.13081008
+5.Phillips ML, Swartz HA.A critical appraisal of neuroimaging studies of bipolar disorder: toward a new conceptualization of underlying neural circuitry and a road map for future research.Am J Psychiatry.2014;171(8):829-843.doi:10.1176/appi.ajp.2014.13081008
+6.Adler CM, Adams J, DelBello MP, et al.Evidence of white matter pathology in bipolar disorder adolescents experiencing their first episode of mania: a diffusion tensor imaging study.Am J Psychiatry.2006;163(2):322-324.doi:10.1176/appi.ajp.163.2.322
+6.Adler CM, Adams J, DelBello MP, et al.Evidence of white matter pathology in bipolar disorder adolescents experiencing their first episode of mania: a diffusion tensor imaging study.Am J Psychiatry.2006;163(2):322-324.doi:10.1176/appi.ajp.163.2.322
+
+【双相情感障碍的病因】
+环境、社会、遗传（如家族性双相障碍）、围产期因素（低出生体重、母体感染）及线粒体功能异常（1, 2）均参与双相障碍的病因与发病机制。“点燃”假说表明，环境压力因素和早期生活逆境可以与先前存在的遗传倾向相互作用，从而引发双相情感障碍的发作。双生子研究显示，双相障碍具有超过70%的高遗传度（3，4）。若干基因变异已被证实与双向情感障碍（5）存在关联，但目前尚无可用于诊断双相情感障碍的生物学标志物。然而，年轻人的神经影像学研究报告显示，杏仁核（6–8）和前额叶皮层（9）体积较小，以及杏仁核（10）和前白质 在青春期正常对照中出现的体积正常增加缺失。杏仁核的相对过度激活可能起一定作用。研究还表明，使用大麻产品的青少年患特定精神障碍（即双相情感障碍和精神分裂症）的风险会增高。额外因素或涉胰岛素分泌途径及内源性大麻素信号传导的缺陷（11）。
+某些药物（如可卡因、安非他命、苯环利定、某些抗抑郁药）和环境毒素（如铅）可加重或模拟该障碍。某些疾病（例如甲状腺疾病）也可能引发类似症状。感染也可能是诱发因素之一；在青少年群体中，躁狂发作已被发现与新型冠状病毒肺炎（COVID-19）感染相关。12。
+
+【病因参考文献】
+1.Lam XJ, Xu B, Yeo PL, Cheah PS, Ling KH.Mitochondria dysfunction and bipolar disorder: From pathology to therapy.IBRO Neurosci Rep.2023;14:407-418.Published 2023 Apr 11.doi:10.1016/j.ibneur.2023.04.002
+1.Lam XJ, Xu B, Yeo PL, Cheah PS, Ling KH.Mitochondria dysfunction and bipolar disorder: From pathology to therapy.IBRO Neurosci Rep.2023;14:407-418.Published 2023 Apr 11.doi:10.1016/j.ibneur.2023.04.002
+2.Freyberg Z, Andreazza AC, McClung CA, Phillips ML.Linking Mitochondrial Dysfunction, Neurotransmitter, and Neural Network Abnormalities and Mania: Elucidating Neurobiological Mechanisms of the Therapeutic Effect of the Ketogenic Diet in Bipolar Disorder.Biol Psychiatry Cogn Neurosci Neuroimaging.2025;10(3):267-277.doi:10.1016/j.bpsc.2024.07.011
+2.Freyberg Z, Andreazza AC, McClung CA, Phillips ML.Linking Mitochondrial Dysfunction, Neurotransmitter, and Neural Network Abnormalities and Mania: Elucidating Neurobiological Mechanisms of the Therapeutic Effect of the Ketogenic Diet in Bipolar Disorder.Biol Psychiatry Cogn Neurosci Neuroimaging.2025;10(3):267-277.doi:10.1016/j.bpsc.2024.07.011
+3.Gordovez FJA, McMahon FJ.The genetics of bipolar disorder. Mol Psychiatry.2020;25(3):544-559.doi:10.1038/s41380-019-0634-7
+3.Gordovez FJA, McMahon FJ.The genetics of bipolar disorder. Mol Psychiatry.2020;25(3):544-559.doi:10.1038/s41380-019-0634-7
+4.Smoller JW, Finn CT.Family, twin, and adoption studies of bipolar disorder.Am J Med Genet C Semin Med Genet.2003;123C(1):48-58.doi:10.1002/ajmg.c.20013
+4.Smoller JW, Finn CT.Family, twin, and adoption studies of bipolar disorder.Am J Med Genet C Semin Med Genet.2003;123C(1):48-58.doi:10.1002/ajmg.c.20013
+5.Craddock N, Sklar P.Genetics of bipolar disorder.Lancet.2013;381(9878):1654-1662.doi:10.1016/S0140-6736(13)60855-7
+5.Craddock N, Sklar P.Genetics of bipolar disorder.Lancet.2013;381(9878):1654-1662.doi:10.1016/S0140-6736(13)60855-7
+6.Phillips ML, Swartz HA.A critical appraisal of neuroimaging studies of bipolar disorder: Toward a new conceptualization of underlying neural circuitry and a road map for future research.Am J Psychiatry.171(8):829-843, 2014.doi: 10.1176/appi.ajp.2014.13081008
+6.Phillips ML, Swartz HA.A critical appraisal of neuroimaging studies of bipolar disorder: Toward a new conceptualization of underlying neural circuitry and a road map for future research.Am J Psychiatry.171(8):829-843, 2014.doi: 10.1176/appi.ajp.2014.13081008
+7.Hafeman D, Bebko G, Bertocci MA, et al.Amygdala-prefrontal cortical functional connectivity during implicit emotion processing differentiates youth with bipolar spectrum from youth with externalizing disorders.J Affect Disord.208:94-100, 2017.doi: 10.1016/j.jad.2016.09.064
+7.Hafeman D, Bebko G, Bertocci MA, et al.Amygdala-prefrontal cortical functional connectivity during implicit emotion processing differentiates youth with bipolar spectrum from youth with externalizing disorders.J Affect Disord.208:94-100, 2017.doi: 10.1016/j.jad.2016.09.064
+8.Mwangi B, Spiker D, Zunta-Soares JC, et al.Prediction of pediatric bipolar disorder using neuroanatomical signatures of the amygdala.Bipolar Disord.16(7):713-721, 2014.
+8.Mwangi B, Spiker D, Zunta-Soares JC, et al.Prediction of pediatric bipolar disorder using neuroanatomical signatures of the amygdala.Bipolar Disord.16(7):713-721, 2014.
+9.Najt P, Wang F, Spencer L, et al.Anterior cortical development during adolescence in bipolar disorder.Biol Psychiatry.79(4):303-310, 2016.
+9.Najt P, Wang F, Spencer L, et al.Anterior cortical development during adolescence in bipolar disorder.Biol Psychiatry.79(4):303-310, 2016.
+10.Bitter SM, Mills NP, Adler CM, et al.Progression of amygdala volumetric abnormalities in adolescents following their first manic episode.J Am Acad Child Adolesc Psychiatry.50(10):1017-1026, 2011.
+10.Bitter SM, Mills NP, Adler CM, et al.Progression of amygdala volumetric abnormalities in adolescents following their first manic episode.J Am Acad Child Adolesc Psychiatry.50(10):1017-1026, 2011.
+11.Carvalho AF, Firth J, Vieta E.Bipolar Disorder.N Engl J Med.2020;383(1):58-66.doi:10.1056/NEJMra1906193
+11.Carvalho AF, Firth J, Vieta E.Bipolar Disorder.N Engl J Med.2020;383(1):58-66.doi:10.1056/NEJMra1906193
+12.Meeder R, Adhikari S, Sierra-Cintron, et al.New-onset mania and psychosis in adolescents in the context of COVID-19 infection.Cureus14(4):e24322, 2022. doi: 10.7759/cureus.24322
+12.Meeder R, Adhikari S, Sierra-Cintron, et al.New-onset mania and psychosis in adolescents in the context of COVID-19 infection.Cureus14(4):e24322, 2022. doi: 10.7759/cureus.24322
+
+【双相障碍的症状和体征】
+双相情感障碍的特征是反复发作的情绪升高（躁狂或轻躁狂）。躁狂发作通常与抑郁发作交替出现，后者可能更为频繁。青少年躁狂发作期间，情绪可能极度高涨或极度易怒，且常随社交情境变化而交替出现。躁狂发作时语速快且紧迫，睡眠减少，自尊心膨胀。 躁狂可能达到精神病的程度(例如，“我已与上帝合而为一”)。 判断力可能严重受损，青少年可能会做出危险的行为（如，滥交、鲁莽驾驶）。可能还会出现精力旺盛、易怒、情绪高涨甚至欣快感等表现。
+青春期前的儿童可能会经历情绪剧烈波动，但这些情绪的持续时间比青少年要短得多（通常仅持续几分钟）。
+起病通常隐袭，患儿常有脾气暴躁、难以管束的既往史。
+抑郁症状可表现为持续性抑郁或易激惹情绪、对活动明显失去兴趣、体重或食欲显著改变、睡眠障碍、精神运动性激越或迟滞、疲乏、无价值感或过度罪恶感、注意力难以集中、反复出现死亡或自杀意念，以及在日常功能方面造成临床显著的痛苦或损害。若这些症状为首发表现，则需排除物质滥用或其他躯体疾病。
+
+【双相障碍的诊断】
+精神评估
+精神评估
+精神障碍诊断与统计手册, 第5版，文本修订（DSM-5-TR）标准
+精神障碍诊断与统计手册, 第5版，文本修订（DSM-5-TR）标准
+毒理学原因检查
+毒理学原因检查
+双相情感障碍的诊断是基于对上述躁狂症状的识别，加上缓解和复发的病史 (1)。
+进行恰当的医学评价以排除大量的医学疾病（如，甲状腺疾病、脑感染或肿瘤）和药物中毒，其中包括排除药物滥用和环境中毒的毒性筛查。访谈者还应探寻诱发事件，例如严重的心理压力，包括儿童虐待。
+I型双相情感障碍的诊断标准是至少出现一次躁狂发作，可伴或不伴重性抑郁发作。躁狂发作表现为情绪异常高涨或易激惹，并伴随精力和活动量显著增加，持续至少1周，通常造成明显的功能损害，有时甚至需住院治疗。
+双相II型障碍需具备重度抑郁发作，且从未出现躁狂发作。可能会有一些不太严重的情绪升高（如轻躁狂），包括精力增加、睡眠减少、思维敏捷和注意力不集中。
+循环型障碍包括长期（> 2年）的轻躁狂和抑郁发作期；然而，这些发作不符合双相障碍或重度抑郁障碍的具体诊断标准。
+未特定型双相情感障碍（未另作说明）包括未达到上述任何障碍诊断标准的亚阈值症状。约50%至75%的青少年未特定型双相障碍可转变为双相I型或II型障碍（2）。
+
+【诊断参考】
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), Washington: American Psychiatric Association, 2022.
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), Washington: American Psychiatric Association, 2022.
+2.Birmaher B, Merranko JA, Goldstein TR, et al.A Risk Calculator to Predict the Individual Risk of Conversion From Subthreshold Bipolar Symptoms to Bipolar Disorder I or II in Youth.J Am Acad Child Adolesc Psychiatry.2018;57(10):755-763.e4.doi:10.1016/j.jaac.2018.05.023
+2.Birmaher B, Merranko JA, Goldstein TR, et al.A Risk Calculator to Predict the Individual Risk of Conversion From Subthreshold Bipolar Symptoms to Bipolar Disorder I or II in Youth.J Am Acad Child Adolesc Psychiatry.2018;57(10):755-763.e4.doi:10.1016/j.jaac.2018.05.023
+
+【双相障碍的治疗】
+心理治疗
+心理治疗
+躁狂症：第二代抗精神病药物，有时可加用情绪稳定剂
+躁狂症：第二代抗精神病药物，有时可加用情绪稳定剂
+抑郁症：第二代抗精神病药加 SSRI，有时是锂
+抑郁症：第二代抗精神病药加 SSRI，有时是锂
+心理治疗中，聚焦家庭的干预有助于患儿及家人应对疾病影响，降低情绪发作频次(1)。个体心理治疗也能为青少年提供支持与安抚，并增强用药依从性。
+对于急性躁狂症，第二代抗精神病药物是首选治疗方案（2–5）。一项荟萃分析报告了利培酮、奥氮平、阿立哌唑、喹硫平和阿塞那平的疗效和反应，支持按顺序对这些药物进行试验。锂盐亦可在急性期启用，旨在实现维持治疗疗效。对于经2或3次抗精神病药物试验无效的患者，可考虑使用其他情绪稳定剂（双丙戊酸钠、拉莫三嗪、卡马西平）（6）。
+对于急性抑郁症，第二代抗精神病药物（如奎硫平、鲁拉西酮）单用或与选择性5-羟色胺再摄取抑制剂（SSRI）联用是首选治疗方案。奥氮平-氟西汀组合也被用于治疗双相抑郁症，但没有比较数据表明氟西汀比短效SSRIs更有效。锂是一种替代方法，也可以与 SSRI 结合使用。与其他情绪稳定剂和抗精神病药相比，锂能降低自杀风险，减少抑郁，改善社会心理功能。这些发现与成人中发现的相似（7）。抗抑郁药不应单独使用，而应与抗精神病药或锂盐联合使用。抗抑郁药并不会增加治疗抵抗性躁狂的风险（过去曾有此误解），但可能使患有双相障碍的儿童和青少年的情绪状态不稳定（8, 9）。 心理治疗也很重要。
+维持治疗涵盖持续应用急性期有效的药物。单用第二代抗精神病药或联用锂盐治疗能减少复发几率。锂仍然是预防双相情感障碍患者抑郁和躁狂复发最有效的药物之一。
+所有这些药物都存在轻微但严重的风险，可能引发多种不良反应。（参见表双相情感障碍/精神病常用药物。）因此，必须仔细评估治疗价值和潜在的危险。第二代抗精神病药需关注体重增加及代谢综合征的风险。据报道，齐拉西酮的代谢不良反应较少，但与大多数其他抗精神病药物相比，其QTc延长时间更长(5,10)。
+细胞色素P450 (CYP) 酶代谢关乎双相障碍治疗药物的剂量确定与安全性（参见基因检测组合）。CYP2D6代谢不良者因副作用风险增高（如体重增加、镇静、运动障碍）而需减半常用剂量(11)。
+主要经CYP1A2代谢的药物，强抑制剂（如氟伏沙明、环丙沙星）可提升其血药浓度。经CYP3A4代谢的药物，强抑制剂（如酮康唑、克拉霉素、红霉素、葡萄柚汁）会增高血药浓度，诱导剂（如卡马西平、利福平、苯妥英）则降低之。经2D6代谢的药物，强抑制剂（如氟西汀、帕罗西汀）能提升血药浓度。帕利哌酮多经肾脏以原形排泄，CYP2D6与3A4涉入甚微。
+成人生酮饮食的初步数据显示双相症状和代谢结果的改善(12,13)。该饮食方案的假定作用机制是：减少碳水化合物摄入可促进脂肪来源的酮体生成，从而为脑组织提供替代能量。尚需进一步研究早期预防性干预对延缓疾病进程的重要作用（14）。
+
+【经验与提示】
+经验与提示
+第二代抗精神病药(如利培酮)是儿童双相情感障碍的一线治疗药物。
+第二代抗精神病药(如利培酮)是儿童双相情感障碍的一线治疗药物。
+锂可以减少自杀意念。
+锂可以减少自杀意念。
+
+【双相障碍与精神分裂症精选药物*†】
+双相障碍与精神分裂症精选药物*†
+药物治疗
+CYP底物
+锂缓释剂用于儿童≥12岁‡
+急性和维持期
+逐渐增加剂量到血药浓度0.8～1.2mEq/L (或 mmol/L)
+与降低儿童双相情感障碍患者的自杀风险、减轻抑郁症状及改善社会心理功能相关
+监测肾功能、甲状腺功能及血清钙水平
+锂剂，儿童速释剂型≥7岁‡,§
+急性和维持期
+逐渐增加剂量到血药浓度0.8～1.2mEq/L (或 mmol/L)
+每日最大剂量为40 mg/kg
+与降低儿童双相情感障碍患者的自杀倾向、减轻抑郁症状及改善社会心理功能相关
+监测肾功能、甲状腺功能及血清钙水平
+抗精神病药
+阿立哌唑用于儿童（双相I型障碍≥10岁以上；精神分裂症≥13岁以上）‡。
+精神分裂症
+2D6, 3A4
+唯一不致催乳素水平升高的抗精神病药物
+儿童≥10岁适用阿塞那平
+双相 I
+舌下给药可使药物迅速进入体循环
+镇静与嗜睡，短暂的舌部麻木和刺痛感
+鲁拉西酮用于儿童（双相I型障碍≥10岁以上；精神分裂症≥13岁以上）。
+双相 I
+精神分裂症
+成人及10-17岁人群中，CRP水平升高者其双相I型抑郁症状改善更为明显¶
+奥氮平用于年龄≥13岁的儿童‡
+双相 I
+精神分裂症
+IA2, 2D6, 3A4
+对某些患者，体重增加可能是一种限制的副作用
+可能导致肝转氨酶升高
+年龄>10岁的儿童， 奥氮平/氟西汀结合‡,§
+双相 I
+IA2, 2D6, 3A4
+有限的儿童用药经验
+帕潘立酮用于≥12岁儿童‡,§
+精神分裂症
+经肾脏以原形清除 2D6, 3A4
+与利培酮密切相关
+非常有限的儿童用药经验
+富马酸喹硫平，速释剂型，用于儿童（治疗双相I型障碍≥10岁起；治疗精神分裂症≥13岁起）‡
+精神分裂症
+镇静状态可能限制了剂量的增加
+利培酮在儿童中的使用（用于双相I型障碍≥10岁；用于精神分裂症≥13岁）‡
+精神分裂症
+与不可逆性男性乳房发育症风险相关
+维持剂量存在显著差异性
+已经研究了高达6 mg/d的剂量，但是它们没有提供额外的获益，反而增加了神经系统不良反应的风险
+齐拉西酮用于年龄≥10岁的儿童‡
+急性躁狂
+非常有限的儿童用药经验
+QTc间期延长
+抗癫痫药
+卡马西平
+由于代谢酶诱导，可能需要调整剂量
+可能导致史蒂文斯-约翰逊综合征及中毒性表皮坏死松解症（SJS/TEN），尤其在携带HLA-B*15:02基因型的患者中（东亚人群更常见）；同时可能引发斑丘疹（MPE）、伴嗜酸性粒细胞增多的药疹（DRESS）及SJS/TEN，多见于携带HLA-A*31:01基因型的患者（欧洲及西班牙裔人群更常见）
+双丙戊酸钠
+双相 I
+逐渐增加剂量到血药浓度50～125mcg/mL
+避免在育龄人群中使用
+拉莫三嗪
+应严格按包装里的剂量指南用药
+*这些药物虽然剂量小，但存在各种严重不良反应的风险。因此，必须仔细评估治疗价值和潜在的危险。
+†此表不能替代完整的处方信息。
+‡这些药物会增加体重、对血脂产生负面影响、升高血糖和催乳素水平，以及延长QT间期的风险。
+§这些药物尚未在儿童中进行研究。
+双相情感障碍I是双相情感障碍的一种表现，其特征总是躁狂症，有时也可能伴有抑郁。
+CRP=C反应蛋白；CYP=细胞色素P450。
+*这些药物虽然剂量小，但存在各种严重不良反应的风险。因此，必须仔细评估治疗价值和潜在的危险。
+†此表不能替代完整的处方信息。
+‡这些药物会增加体重、对血脂产生负面影响、升高血糖和催乳素水平，以及延长QT间期的风险。
+§这些药物尚未在儿童中进行研究。
+双相情感障碍I是双相情感障碍的一种表现，其特征总是躁狂症，有时也可能伴有抑郁。
+CRP=C反应蛋白；CYP=细胞色素P450。
+
+【治疗参考文献】
+1.Miklowitz DJ, Schneck CD, Walshaw PD, et al.Effects of Family-Focused Therapy vs Enhanced Usual Care for Symptomatic Youths at High Risk for Bipolar Disorder: A Randomized Clinical Trial.JAMA Psychiatry.2020;77(5):455-463.doi:10.1001/jamapsychiatry.2019.4520
+1.Miklowitz DJ, Schneck CD, Walshaw PD, et al.Effects of Family-Focused Therapy vs Enhanced Usual Care for Symptomatic Youths at High Risk for Bipolar Disorder: A Randomized Clinical Trial.JAMA Psychiatry.2020;77(5):455-463.doi:10.1001/jamapsychiatry.2019.4520
+2.Kendall T, Morriss R, Mayo-Wilson E, et al.Assessment and management of bipolar disorder: Summary of updated NICE guidance.BMJ.349:g5673, 2014.doi: https://doi.org/10.1136/bmj.g5673
+2.Kendall T, Morriss R, Mayo-Wilson E, et al.Assessment and management of bipolar disorder: Summary of updated NICE guidance.BMJ.349:g5673, 2014.doi: https://doi.org/10.1136/bmj.g5673
+3.Yatham LN, Kennedy SH, Parikh SV, et al.Canadian Network for mood and anxiety treatments (CANMAT) and International Society for Bipolar Disorders (ISBD) collaborative update of CANMAT guidelines for the management of patients with bipolar disorder: Update 2013.Bipolar Disord.15(1):1-44, 2013.doi: 10.1111/bdi.12025
+3.Yatham LN, Kennedy SH, Parikh SV, et al.Canadian Network for mood and anxiety treatments (CANMAT) and International Society for Bipolar Disorders (ISBD) collaborative update of CANMAT guidelines for the management of patients with bipolar disorder: Update 2013.Bipolar Disord.15(1):1-44, 2013.doi: 10.1111/bdi.12025
+4.Walkup JT, Wagner KD, Miller L.Treatment of early-age mania: Outcomes for partial and nonresponders to initial treatment.J Am Acad Child Adolesc Psychiatry54(12):10081019, 2015.
+4.Walkup JT, Wagner KD, Miller L.Treatment of early-age mania: Outcomes for partial and nonresponders to initial treatment.J Am Acad Child Adolesc Psychiatry54(12):10081019, 2015.
+5.Vita G, Nöhles VB, Ostuzzi G, et al.Systematic Review and Network Meta-Analysis: Efficacy and Safety of Antipsychotics vs Antiepileptics or Lithium for Acute Mania in Children and Adolescents.J Am Acad Child Adolesc Psychiatry.2025;64(2):143-157.doi:10.1016/j.jaac.2024.07.920
+5.Vita G, Nöhles VB, Ostuzzi G, et al.Systematic Review and Network Meta-Analysis: Efficacy and Safety of Antipsychotics vs Antiepileptics or Lithium for Acute Mania in Children and Adolescents.J Am Acad Child Adolesc Psychiatry.2025;64(2):143-157.doi:10.1016/j.jaac.2024.07.920
+6.Kowatch RA, Suppes T, Carmody TJ, et al.Effect size of lithium, divalproex sodium, and carbamazepine in children and adolescents with bipolar disorder.J Am Acad Child Adolesc Psychiatry.39(6):713-720, 2000.doi: 10.1097/00004583-200006000-00009
+6.Kowatch RA, Suppes T, Carmody TJ, et al.Effect size of lithium, divalproex sodium, and carbamazepine in children and adolescents with bipolar disorder.J Am Acad Child Adolesc Psychiatry.39(6):713-720, 2000.doi: 10.1097/00004583-200006000-00009
+7.Hafeman DM, Rooks B, Merranko J, et al.Lithium versus other mood-stabilizing medications in a longitudinal study of youth diagnosed with bipolar disorder.J Am Acad Child Adolesc Psychiatry.59(10):1146-1155, 2020. doi: 10.1016/j.jaac.2019.06.013
+7.Hafeman DM, Rooks B, Merranko J, et al.Lithium versus other mood-stabilizing medications in a longitudinal study of youth diagnosed with bipolar disorder.J Am Acad Child Adolesc Psychiatry.59(10):1146-1155, 2020. doi: 10.1016/j.jaac.2019.06.013
+8.Biederman J, Mick E, Spencer TJ, et al.Therapeutic dilemmas in the pharmacotherapy of bipolar depression in the young.J Child Adolesc Psychopharmacol.10(3):185-192, 2000. doi: 10.1089/10445460050167296
+8.Biederman J, Mick E, Spencer TJ, et al.Therapeutic dilemmas in the pharmacotherapy of bipolar depression in the young.J Child Adolesc Psychopharmacol.10(3):185-192, 2000. doi: 10.1089/10445460050167296
+9.Scheffer RE, Tripathi A, Kirkpatrick FG, et al.Guidelines for treatment-resistant mania in children with bipolar disorder.J Psychiatr Pract.17(3):186-193, 2011. doi: 10.1097/01.pra.0000398411.59491.8c
+9.Scheffer RE, Tripathi A, Kirkpatrick FG, et al.Guidelines for treatment-resistant mania in children with bipolar disorder.J Psychiatr Pract.17(3):186-193, 2011. doi: 10.1097/01.pra.0000398411.59491.8c
+10.Jensen KG, Juul K, Fink-Jensen A, Correll CU, Pagsberg AK.Corrected QT changes during antipsychotic treatment of children and adolescents: a systematic review and meta-analysis of clinical trials. JAm Acad Child Adolesc Psychiatry.2015;54(1):25-36.doi:10.1016/j.jaac.2014.10.002
+10.Jensen KG, Juul K, Fink-Jensen A, Correll CU, Pagsberg AK.Corrected QT changes during antipsychotic treatment of children and adolescents: a systematic review and meta-analysis of clinical trials. JAm Acad Child Adolesc Psychiatry.2015;54(1):25-36.doi:10.1016/j.jaac.2014.10.002
+11.Oshikoya KA, Neely KM, Carroll RJ, et al.CYP2D6 genotype and adverse events to risperidone in children and adolescents.Pediatr Res.2019;85(5):602-606.doi:10.1038/s41390-019-0305-z
+11.Oshikoya KA, Neely KM, Carroll RJ, et al.CYP2D6 genotype and adverse events to risperidone in children and adolescents.Pediatr Res.2019;85(5):602-606.doi:10.1038/s41390-019-0305-z
+12.Sethi S, Wakeham D, Ketter T, et al.Ketogenic Diet Intervention on Metabolic and Psychiatric Health in Bipolar and Schizophrenia: A Pilot Trial.Psychiatry Res.2024;335:115866.doi:10.1016/j.psychres.2024.115866
+12.Sethi S, Wakeham D, Ketter T, et al.Ketogenic Diet Intervention on Metabolic and Psychiatric Health in Bipolar and Schizophrenia: A Pilot Trial.Psychiatry Res.2024;335:115866.doi:10.1016/j.psychres.2024.115866
+13.Campbell I, Campbell H.Mechanisms of insulin resistance, mitochondrial dysfunction and the action of the ketogenic diet in bipolar disorder.Focus on the PI3K/AKT/HIF1-a pathway.Med Hypotheses.2020;145:110299.doi:10.1016/j.mehy.2020.110299
+13.Campbell I, Campbell H.Mechanisms of insulin resistance, mitochondrial dysfunction and the action of the ketogenic diet in bipolar disorder.Focus on the PI3K/AKT/HIF1-a pathway.Med Hypotheses.2020;145:110299.doi:10.1016/j.mehy.2020.110299
+14.Post RM, Goldstein BI, Birmaher B, et al.Toward prevention of bipolar disorder in at-risk children: Potential strategies ahead of the data.J Affect Disord.2020;272:508-520.doi:10.1016/j.jad.2020.03.025
+14.Post RM, Goldstein BI, Birmaher B, et al.Toward prevention of bipolar disorder in at-risk children: Potential strategies ahead of the data.J Affect Disord.2020;272:508-520.doi:10.1016/j.jad.2020.03.025
+
+【双相情感障碍的预后】
+青少年双相情感障碍的预后因人而异，但往往随着每次复发而恶化。增加复发风险的因素包括发病年龄早、发作严重程度高、家族精神病理史以及缺乏治疗和/或治疗依从性差（1）。症状轻微至中度、对治疗反应良好且持续坚持治疗的患者预后极佳。然而，治疗反应时常是不完善的。众所周知，青少年对治疗的依从性和配合很差。对于这类青少年，长期预后并不理想。
+目前对基于高度不稳定和强烈情绪而被诊断为双相情感障碍的青春期前儿童，其长期预后知之甚少。
+
+【预后参考】
+1.Birmaher B, Merranko JA, Gill MK.Predicting personalized risk of mood recurrences in youths and young adults with bipolar spectrum disorder.J Am Acad Child Adolesc Psychiatry.59(10):1156-1164, 2020.doi:https://doi.org/10.1016/j.jaac.2019.12.005
+1.Birmaher B, Merranko JA, Gill MK.Predicting personalized risk of mood recurrences in youths and young adults with bipolar spectrum disorder.J Am Acad Child Adolesc Psychiatry.59(10):1156-1164, 2020.doi:https://doi.org/10.1016/j.jaac.2019.12.005
+双相情感障碍的特征是躁狂、抑郁和正常情绪交替出现，每种状态持续数周到数月。
+双相情感障碍的特征是躁狂、抑郁和正常情绪交替出现，每种状态持续数周到数月。
+双相情感障碍通常始于青少年中期至二十多岁；在年幼儿童中较为罕见。
+双相情感障碍通常始于青少年中期至二十多岁；在年幼儿童中较为罕见。
+通常，发病是潜伏的;孩子们有喜怒无常、难以管教的历史。
+通常，发病是潜伏的;孩子们有喜怒无常、难以管教的历史。
+对于青少年和青春期前儿童，首先使用抗精神病药治疗躁狂或激越发作，因为这些药物起效快，其次是情绪稳定剂以防止复发，以及 SSRIs 和心理治疗来治疗抑郁发作。
+对于青少年和青春期前儿童，首先使用抗精神病药治疗躁狂或激越发作，因为这些药物起效快，其次是情绪稳定剂以防止复发，以及 SSRIs 和心理治疗来治疗抑郁发作。

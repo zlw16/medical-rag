@@ -1,0 +1,63 @@
+标题：自身免疫性化生性萎缩性胃炎
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/gastritis-and-peptic-ulcer-disease/autoimmune-metaplastic-atrophic-gastritis
+============================================================
+
+（参见酸分泌概述和胃炎概述。)
+
+【AMAG的病因】
+自身免疫性化生性萎缩性胃炎（AMAG）患者具有抗壁细胞及其成分的抗体（包括内因子和质子泵H+,K+‑ATP酶）。AMAG是常染色体显性遗传病。
+一些患者也会发展为桥本甲状腺炎；相反，高达三分之一的自身免疫性甲状腺疾病患者也患有自身免疫性胃炎(1)。
+
+【病因参考文献】
+1.Shah SC, Piazuelo MB, Kuipers EJ, Li D: AGA Clinical Practice Update on the Diagnosis and Management of Atrophic Gastritis: Expert Review.Gastroenterology161(4):1325–1332.e7, 2021.doi:10.1053/j.gastro.2021.06.078
+1.Shah SC, Piazuelo MB, Kuipers EJ, Li D: AGA Clinical Practice Update on the Diagnosis and Management of Atrophic Gastritis: Expert Review.Gastroenterology161(4):1325–1332.e7, 2021.doi:10.1053/j.gastro.2021.06.078
+
+【AMAG的并发症】
+AMAG的并发症包括
+维生素B12缺乏
+维生素B12缺乏
+神经内分泌肿瘤
+神经内分泌肿瘤
+内因子缺乏导致维生素B12缺乏，可引起巨幼红细胞性贫血（恶性贫血）或神经症状（亚急性联合变性）。
+萎缩性胃炎的胃体和胃底可表现为化生。胃上皮的肠化生是指胃上皮细胞被具有肠细胞特征的细胞所取代的一种状态。AMAG患者发生胃腺癌的相对危险性增加。
+患者的腺体萎缩和/或肠上皮化生呈多灶性分布，包括胃体和胃底的小弯侧，该表型称为多灶性萎缩性胃炎。多灶性受累被认为是“广泛的”，而“显著的”是指在特定部位的严重程度。多灶性萎缩性胃炎的患者发生胃腺癌的风险较高。
+胃酸过少可引起G细胞增生和血清胃泌素水平增高（常>1000 pg/mL [> 481 pmol/L]）。增高的胃泌素引起肠嗜铬样细胞增生，后者有时可发展为神经内分泌肿瘤。
+
+【AMAG的症状和体征】
+自身免疫性化生性萎缩性胃炎 (AMAG) 本身的表现很少且非特异性，尽管一些患者有上腹部不适。
+B12缺乏的症状和体征起初可能很少，因为贫血发展缓慢，但最终会出现疲劳和虚弱。 神经系统表现的发生与贫血无关，但通常以四肢位置和振动感觉下降开始，伴有轻度至中度虚弱和反射减弱。
+
+【AMAG的诊断】
+内窥镜活检
+内窥镜活检
+没有指向这种疾病的特定症状。 最常在患者接受内窥镜检查以评估上腹部不适或不明原因贫血时发现。 内窥镜活检证实了诊断。 应检测血清维生素B12水平。壁细胞抗体通常存在，但并非常规检查。
+该内窥镜视图显示胃底的萎缩内层。全层黏膜变薄萎缩。
+美国胃肠病协会（AGA）建议对胃肠上皮化生患者进行幽门螺杆菌检测与治疗（1）。然而，AGA指南还建议，对于所有患有自身免疫性化生性萎缩性胃炎和胃肠化生的患者，不建议进行常规内镜检查。患有萎缩性胃炎和胃化生的胃癌风险增加的患者可以选择接受监测，但应让他们意识到监测的价值低和反复上消化道内镜检查的潜在不良反应。 增加胃癌风险的因素包括
+不完全化生
+不完全化生
+广泛的化生
+广泛的化生
+胃癌家族史
+胃癌家族史
+来自韩国、日本、南美等胃癌高发地区的移民
+来自韩国、日本、南美等胃癌高发地区的移民
+不建议常规短间隔（1 年内）重复内镜检查与活检，除非基线内镜检查不充分、显示高危组织学表现，或患者胃癌风险升高。同样，应在患者了解监测的低价值和重复上消化道内镜的潜在不良反应后，决定在 1 年内重复内镜检查。如果共同决策有利于监测，则对偶然发现的胃肠化生的患者进行较长时间间隔（每 3 至 5 年）的内镜监测可能是合理的。对于无肠化生的自身免疫性胃炎患者的监测尚未达成共识。一项指南建议每 3 至 5 年对胃肿瘤进行一次内镜监测，但没有证据表明这是一种经济有效的方法（2)。
+欧洲指南强调在对具有上述胃癌风险因素的患者进行内镜评估时，使用高清内镜结合染色内镜 (3)。该指南建议晚期萎缩性胃炎或肠化生患者每3年进行一次内镜检查。一项小型纵向研究报告，在一组自身免疫性和多灶性萎缩性胃炎患者中，3年时胃肿瘤的发生率为10%，这些患者在3年时按照指南的建议接受了内窥镜检查（4)。
+2021年萎缩性胃炎临床实践更新建议，对于组织学与自身免疫性胃炎相符的患者，医生应考虑检测抗壁细胞抗体和抗内因子抗体，以协助诊断自身免疫性胃炎。他们还建议自身免疫性胃炎患者进行自身免疫性甲状腺疾病筛查(5)。
+
+【诊断参考】
+1.Gupta S, Li D, El Serag HB, et al: AGA Clinical Practice Guidelines on Management of Gastric Intestinal Metaplasia.Gastroenterology158(3):693–702, 2020.doi:10.1053/j.gastro.2019.12.003
+1.Gupta S, Li D, El Serag HB, et al: AGA Clinical Practice Guidelines on Management of Gastric Intestinal Metaplasia.Gastroenterology158(3):693–702, 2020.doi:10.1053/j.gastro.2019.12.003
+2.Lahner E, Zagari RM, Zullo A, et al: Chronic atrophic gastritis: Natural history, diagnosis and therapeutic management.A position paper by the Italian Society of Hospital Gastroenterologists and Digestive Endoscopists [AIGO], the Italian Society of Digestive Endoscopy [SIED], the Italian Society of Gastroenterology [SIGE], and the Italian Society of Internal Medicine [SIMI].Dig Liver Dis51(12):1621–1632, 2019.doi: 10.1016/j.dld.2019.09.016
+2.Lahner E, Zagari RM, Zullo A, et al: Chronic atrophic gastritis: Natural history, diagnosis and therapeutic management.A position paper by the Italian Society of Hospital Gastroenterologists and Digestive Endoscopists [AIGO], the Italian Society of Digestive Endoscopy [SIED], the Italian Society of Gastroenterology [SIGE], and the Italian Society of Internal Medicine [SIMI].Dig Liver Dis51(12):1621–1632, 2019.doi: 10.1016/j.dld.2019.09.016
+3.Pimentel-Nunes P, Libânio D, Marcos-Pinto R, et al: Management of epithelial precancerous conditions and lesions in the stomach (MAPS II): European Society of Gastrointestinal Endoscopy (ESGE), European Helicobacter and Microbiota Study Group (EHMSG), European Society of Pathology (ESP), and Sociedade Portuguesa de Endoscopia Digestiva (SPED) guideline update 2019.Endoscopy51(4):365–388, 2019.doi:10.1055/a-0859-1883
+3.Pimentel-Nunes P, Libânio D, Marcos-Pinto R, et al: Management of epithelial precancerous conditions and lesions in the stomach (MAPS II): European Society of Gastrointestinal Endoscopy (ESGE), European Helicobacter and Microbiota Study Group (EHMSG), European Society of Pathology (ESP), and Sociedade Portuguesa de Endoscopia Digestiva (SPED) guideline update 2019.Endoscopy51(4):365–388, 2019.doi:10.1055/a-0859-1883
+4.Esposito G, Dilaghi E, Cazzato M, et al: Endoscopic surveillance at 3 years after diagnosis, according to European guidelines, seems safe in patients with atrophic gastritis in a low-risk region.Dig Liver Dis53(4):467–473, 2021.doi: 10.1016/j.dld.2020.10.038
+4.Esposito G, Dilaghi E, Cazzato M, et al: Endoscopic surveillance at 3 years after diagnosis, according to European guidelines, seems safe in patients with atrophic gastritis in a low-risk region.Dig Liver Dis53(4):467–473, 2021.doi: 10.1016/j.dld.2020.10.038
+5.Shah SC, Piazuelo MB, Kuipers EJ, Li D: AGA Clinical Practice Update on the Diagnosis and Management of Atrophic Gastritis: Expert Review.Gastroenterology161(4):1325–1332.e7, 2021.doi:10.1053/j.gastro.2021.06.078
+5.Shah SC, Piazuelo MB, Kuipers EJ, Li D: AGA Clinical Practice Update on the Diagnosis and Management of Atrophic Gastritis: Expert Review.Gastroenterology161(4):1325–1332.e7, 2021.doi:10.1053/j.gastro.2021.06.078
+
+【AMAG的治疗】
+注射用维生素B12
+注射用维生素B12
+除补充肠外维生素B12以外不需要治疗。

@@ -1,0 +1,75 @@
+标题：衣原体
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/chlamydiae-and-mycoplasmas/chlamydiae
+============================================================
+
+衣原体是革兰氏阴性、不能运动、专性细胞内细菌。菌体由DNA、RNA、核糖体组成，可生成其自身蛋白及核酸。然而，它们依赖宿主细胞提供4种核苷三磷酸中的3种（胞苷、尿苷和鸟苷），并直接利用宿主细胞预先合成的腺苷三磷酸（ATP）作为能量来源来合成衣原体蛋白。
+衣原体具有独特的两阶段生命周期：感染性颗粒原体与复制型网状体。原体附着到宿主细胞的表面，并通过内吞作用进入细胞，形成一个称为吞噬体的液泡。进入细胞后，会抑制吞噬体-溶酶体融合。约8-10小时后，原体分化为网状体，开始进行二分裂。复制过程形成衣原体感染特征性胞浆内包涵体。从最初附着到细胞表面起约36小时后，网状体重新分化为原体。每个包涵体可能含超过100个原体。原体可通过三种方式释放：胞吐、包涵体整体挤出或细胞裂解。在特定条件下，衣原体可能会进入一种称为异常体的持续状态。此状态可由某些营养（如葡萄糖）的限制或某些药物（如干扰素）诱发。
+Chlamydia（衣原体属）有14种；其中3种会引起人类疾病：
+Chlamydia trachomatis
+Chlamydia trachomatis
+Chlamydia pneumoniae
+Chlamydia pneumoniae
+Chlamydia psittaci
+Chlamydia psittaci
+Chlamydia（衣原体属）可引起持续性感染，且常为亚临床表现。它们是美国最常报告的细菌感染，报告的平均患病率为150万至200万例，估计每年的实际感染负担约为300万例（1）。
+
+【参考文献】
+1.Centers for Disease Control and Prevention: Sexually Transmitted Infections Treatment Guidelines, 2021: Chlamydial Infections.Accessed January 3, 2025.
+1.Centers for Disease Control and Prevention: Sexually Transmitted Infections Treatment Guidelines, 2021: Chlamydial Infections.Accessed January 3, 2025.
+
+【Chlamydia trachomatis】
+C. trachomatis（沙眼衣原体）根据免疫学特征可分为18种血清型（血清变种）：
+A，B，Ba，和C可导致眼病沙眼。
+A，B，Ba，和C可导致眼病沙眼。
+D 至 K 可引起局限于粘膜表面的性传播感染 (STI)（例如，包涵体结膜炎）。
+D 至 K 可引起局限于粘膜表面的性传播感染 (STI)（例如，包涵体结膜炎）。
+L1、L2 和 L3 生物型可引发性传播感染，从而导致侵袭性淋巴结疾病（性病淋巴肉芽肿） 和直肠炎。
+L1、L2 和 L3 生物型可引发性传播感染，从而导致侵袭性淋巴结疾病（性病淋巴肉芽肿） 和直肠炎。
+在美国,C. trachomatis沙眼衣原体是STIs最常见的细菌病原，包括
+男性中的非淋菌性尿道炎和附睾炎
+男性中的非淋菌性尿道炎和附睾炎
+反应性关节炎在男性和女性中
+反应性关节炎在男性和女性中
+女性中的宫颈炎、尿道炎和盆腔炎
+女性中的宫颈炎、尿道炎和盆腔炎
+建议根据风险因素，将泌尿生殖道衣原体感染筛查作为常规预防保健的一部分。C. trachomatis（沙眼衣原体）母婴传播导致新生儿结膜炎和新生儿肺炎。在美国，疾病控制与预防中心(CDC)建议对<25岁的妊娠患者及≥26岁且具有特定危险因素的患者进行普遍产前筛查(1)。筛查大大降低了新生儿C. trachomatis（沙眼衣原体）结膜炎和肺炎的发病率。新生儿眼部预防性使用红霉素或其他制剂并不能预防新生儿衣原体性结膜炎，但该措施仍被用于预防淋球菌性结膜炎（2）。
+另请参阅泌尿生殖道衣原体感染筛查，了解筛查建议摘要。另请参阅泌尿生殖道衣原体感染的诊断以了解诊断方法概述，以及泌尿生殖道衣原体感染的治疗以获取疑似衣原体黏膜感染患者抗菌药物选择的指导。
+C. trachomatis（沙眼衣原体）可引起称为沙眼的慢性结膜炎，该病在资源有限的地区呈地方性流行。
+
+【C. trachomatis（沙眼衣原体）参考文献】
+1.Centers for Disease Control and Prevention: Sexually Transmitted Infections Treatment Guidelines, 2021: Screening Recommendations and Considerations Referenced in Treatment Guidelines and Original Sources.Accessed January 3, 2025.
+1.Centers for Disease Control and Prevention: Sexually Transmitted Infections Treatment Guidelines, 2021: Screening Recommendations and Considerations Referenced in Treatment Guidelines and Original Sources.Accessed January 3, 2025.
+2.Kohlhoff S, Roblin PM, Clement S, et al.Universal prenatal screening and testing andChlamydia trachomatisconjunctivitis in infants.Sex Transm Dis.2021;48(9):e122–e123. doi:10.1097/OLQ.0000000000001344
+2.Kohlhoff S, Roblin PM, Clement S, et al.Universal prenatal screening and testing andChlamydia trachomatisconjunctivitis in infants.Sex Transm Dis.2021;48(9):e122–e123. doi:10.1097/OLQ.0000000000001344
+
+【Chlamydia pneumoniae】
+C. pneumoniae（肺炎衣原体）可引发肺炎（尤其在儿童和青少年中），其临床表现与Mycoplasma pneumoniae所致肺炎可能难以鉴别（1）。在一些C. pneumoniae（肺炎衣原体）引起的肺炎患者中，嗓子嘶哑和喉咙痛可能先于咳嗽，这可能是持续性的，并伴有支气管痉挛。
+C. pneumoniae（肺炎衣原体）引起的肺炎暴发对聚集环境（如养老院、学校、军事设施、监狱）中的人构成特别危险。尚未发现发病率的季节性变化。
+C. pneumoniae（肺炎衣原体）也被认为是反应性气道疾病和急性支气管炎的感染触发因素。
+
+【Chlamydia pneumoniae（肺炎衣原体）参考】
+1.Hammerschlag MR, Kohlhoff S, Dean D.Chlamydia pneumoniae.InMandell, Douglas, and Bennett’s Principles and Practice of Infectious Diseases, ed.10, edited by Blaser MJ, Cohen JI, Holland SM.Philadelphia, Elsevier.Expected release date June 27, 2025.
+1.Hammerschlag MR, Kohlhoff S, Dean D.Chlamydia pneumoniae.InMandell, Douglas, and Bennett’s Principles and Practice of Infectious Diseases, ed.10, edited by Blaser MJ, Cohen JI, Holland SM.Philadelphia, Elsevier.Expected release date June 27, 2025.
+
+【Chlamydia psittaci】
+（另见 CDC 的鹦鹉热临床概述。）
+C. psittaci鹦鹉热衣原体可导致鹦鹉热。引起人类疾病的菌株通常来自鹦鹉目鸟类（例如，鹦鹉、长尾小鹦鹉、玄凤鹦鹉），这些菌株引起以肺炎为特征的疾病。
+鹦鹉热是一种罕见的感染。自2010年以来，向美国疾病控制与预防中心报告的病例通常每年少于10例（1）。然而，鹦鹉热可能被漏诊，因为轻微的病例确实会发生。接触史非常重要，例如，宠物鸟的主人、兽医和家禽业工人。
+常见症状包括持续高热、干咳和肌痛。患者也可能出现严重的头痛和肝功能异常。重症病例可能出现呼吸窘迫。诊断C. psittaci（鹦鹉热衣原体）感染的主要线索是有与鸟类密切接触史，通常是鹦鹉或长尾鹦鹉等宠物鸟，包括兽医以及在火鸡和鸭子加工厂的工人，已知这些人中发生过疫情。诊断需通过血清学检测确认，包括IgG抗体和IgM抗体的效价测定。培养通常不可行。目前尚无商业化的核酸扩增检测用于C. psittaci（鹦鹉热衣原体），但美国疾病控制与预防中心及一些专业实验室可以进行PCR检测。（另请参见美国疾病控制与预防中心Laboratory Testing for Psittacosis。）
+阿奇霉素、左氧氟沙星、莫西沙星和多西环素是治疗鹦鹉热的常用抗生素。推荐治疗方案为多西环素。若患者存在多西环素禁忌或无法耐受，或在妊娠患者中，可使用阿奇霉素作为替代药物。对于严重鹦鹉热病例，例如出现重症肺炎或呼吸衰竭的患者，需住院并接受静脉抗生素治疗。
+
+【Chlamydia psittaci（鹦鹉热衣原体）参考文献】
+1.Centers for Disease Control and Prevention: Psittacosis Surveillance and Trends.Accessed January 3, 2025.
+1.Centers for Disease Control and Prevention: Psittacosis Surveillance and Trends.Accessed January 3, 2025.
+C. trachomatis（沙眼衣原体）导致沙眼或STIs；经母婴传播可引起新生儿结膜炎和/或肺炎。
+C. trachomatis（沙眼衣原体）导致沙眼或STIs；经母婴传播可引起新生儿结膜炎和/或肺炎。
+建议对所有25岁以下的妊娠期患者进行筛查，以预防新生儿（衣原体性）结膜炎，并筛查其他高风险、无症状的患者是否存在性传播的衣原体感染。
+建议对所有25岁以下的妊娠期患者进行筛查，以预防新生儿（衣原体性）结膜炎，并筛查其他高风险、无症状的患者是否存在性传播的衣原体感染。
+C. pneumoniae（肺炎衣原体）可导致肺炎（尤其在儿童和年轻人中，以及封闭环境中的人群）。
+C. pneumoniae（肺炎衣原体）可导致肺炎（尤其在儿童和年轻人中，以及封闭环境中的人群）。
+C. psittaci（鹦鹉热衣原体）是肺炎（鹦鹉热）的罕见病因，通常从鹦形目鸟类（如鹦鹉）获得。
+C. psittaci（鹦鹉热衣原体）是肺炎（鹦鹉热）的罕见病因，通常从鹦形目鸟类（如鹦鹉）获得。
+进行血清学检测以确认C. psittaci（鹦鹉热衣原体）感染。
+进行血清学检测以确认C. psittaci（鹦鹉热衣原体）感染。
+使用抗生素治疗鹦鹉热，包括大环内酯类（如阿奇霉素）、氟喹诺酮类和四环素类（如多西环素）。
+使用抗生素治疗鹦鹉热，包括大环内酯类（如阿奇霉素）、氟喹诺酮类和四环素类（如多西环素）。

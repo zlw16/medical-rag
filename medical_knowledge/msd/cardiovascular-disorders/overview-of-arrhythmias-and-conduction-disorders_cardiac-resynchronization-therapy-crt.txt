@@ -1,0 +1,30 @@
+标题：心脏再同步治疗（CRT）
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/cardiac-resynchronization-therapy-crt
+============================================================
+
+治疗心律失常的决定取决于其症状及其潜在的严重程度。直接对因治疗。如果必要，直接抗心律失常治疗包括抗心律失常药物、心脏电复律-除颤、植入型心脏转复除颤器（ICDs），起搏器（其中包括一种特殊类型的起搏器，心脏再同步治疗）、心导管消融、外科治疗，或采用联合治疗。
+在某些患者中，心腔收缩之间正常、有序、连续的关系会被破坏（变得不同步）。不同步可能是
+房室：心房和心室收缩之间
+房室：心房和心室收缩之间
+心室间：左，右心室收缩之间
+心室间：左，右心室收缩之间
+心室内：左心室不同节段收缩之间
+心室内：左心室不同节段收缩之间
+有心脏不同步风险的患者包括如下：
+患有缺血性或非缺血性扩张型心肌病
+患有缺血性或非缺血性扩张型心肌病
+QRS间期延长（≥130毫秒），特别是典型的左束支传导阻滞
+QRS间期延长（≥130毫秒），特别是典型的左束支传导阻滞
+舒张末期左室内径≥55毫米
+舒张末期左室内径≥55毫米
+左心室射血分数≤35%且为窦性心律
+左心室射血分数≤35%且为窦性心律
+根据心电图（ECG）参数（例如，左束支传导阻滞）和先进的超声心动图技术（例如，组织多普勒指数，应变率）可以怀疑心脏不同步。
+心脏再同步治疗（CRT）使用心脏起搏系统，通过恢复不同心腔电激动的生理节律来实现心脏收缩同步化。这种系统通常包括右心房导线，右心室导线，左心室导线。双心室心脏再同步化治疗 (BiV-CRT) 是一种 CRT 形式，通常涉及右心室和左心室的同时起搏。起搏导线可以通过开胸手术或者经静脉途径放置 (1)。心脏再同步化也可以通过传导系统起搏（希氏束或左束支区域）(2)来实现。
+对于有纽约心脏病协会（NYHA）II、III或IV级症状的心力衰竭患者（见表NYHA心功能分级），CRT可减少因心衰住院次数，降低全因死亡率（1）。然而，对于永久性房颤、右束支传导阻滞、非特异性室内传导延迟或仅有轻微QRS波时间延长的患者（<150毫秒），获益甚微或无获益。
+
+【参考文献】
+1.McAloon CJ, Theodoreson MD, Hayat S, Osman F.Cardiac resynchronization therapy and its role in the management of heart failure.Br J Hosp Med(Lond) 2017;78(6):312-319.doi:10.12968/hmed.2017.78.6.312
+1.McAloon CJ, Theodoreson MD, Hayat S, Osman F.Cardiac resynchronization therapy and its role in the management of heart failure.Br J Hosp Med(Lond) 2017;78(6):312-319.doi:10.12968/hmed.2017.78.6.312
+2.Derndorfer M, Kollias G, Martinek M, Pürerfellner H.Is Conduction System Pacing Going to Be the New Gold Standard for Cardiac Resynchronization Therapy?J Clin Med2024;13(15):4320.Published 2024 Jul 24.doi:10.3390/jcm13154320
+2.Derndorfer M, Kollias G, Martinek M, Pürerfellner H.Is Conduction System Pacing Going to Be the New Gold Standard for Cardiac Resynchronization Therapy?J Clin Med2024;13(15):4320.Published 2024 Jul 24.doi:10.3390/jcm13154320

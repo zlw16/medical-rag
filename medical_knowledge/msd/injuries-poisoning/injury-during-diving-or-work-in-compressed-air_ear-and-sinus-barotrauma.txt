@@ -1,0 +1,64 @@
+标题：耳和窦气压伤
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/injury-during-diving-or-work-in-compressed-air/ear-and-sinus-barotrauma
+============================================================
+
+深水潜水可影响外耳、中耳和内耳。通常潜水者在下潜过程中觉耳胀和耳痛；如果压力不能很快平衡就可能出现中耳出血和鼓膜破裂。潜水时冷水流入中耳可导致眩晕、恶心和丧失方向。检查耳道时，鼓膜可能显示充血、鼓室积血、穿孔或在耳镜下充气时活动度消失；通常为传导性听力损失。若潜水上升期间或之后中耳压力持续升高，面神经可能受压（面神经麻痹），导致同侧面部上下部无力。面部上下部均无力可将气压伤性面瘫与卒中或动脉气体栓塞相鉴别(1)。
+中耳气压伤（MEBT）在潜水员中很常见，是由于中耳和外部环境之间的压力不平衡引起的（2）。这种压力差可导致耳痛、听力下降及鼓膜破裂。
+内耳气压伤 (IEBT)由于迷路窗（圆形或椭圆形窗）破裂或赖斯纳膜、基底膜或盖膜撕裂而发生。症状包括耳鸣、听力损失、头晕、不平衡、眩晕、眼球震颤、共济失调、恶心和呕吐，通常在活动和大声喧哗时加重，休息后好转。症状通常在潜水员下潜过程中开始出现，当时常会因难以平衡中耳压力而感到不适，但在上浮过程中也可能出现，这可能是因为耳蜗或前庭器官内的空气膨胀所致。潜水后几天也会出现症状，通常是由举重或用力引起的（3）。可能出现神经性听力损失和鼓膜破裂。
+窦气压伤大多影响额窦，其次筛窦和上颌窦 (4)。在上升或下潜过程中，潜水者可感觉到轻微的压力到剧烈疼痛，并有受累窦腔充血的感觉，有时出现鼻出血。疼痛可以很剧烈，有时伴有面部压痛。上颌窦压力过高可压迫三叉神经上颌支，导致面颊部感觉过敏。蝶窦的过度压迫偶尔会压迫视神经，导致视力下降或失明（5)。
+少数情况下，鼻窦可能破裂导致气颅，伴有面部或口腔疼痛、恶心、眩晕或头痛。上颌窦破裂可导致眶后血肿，引起复视（因动眼神经功能障碍）。上颌窦三叉神经受压可引起面部感觉异常。体格检查可发现鼻窦压痛或鼻出血。
+气压伤也可发生在海拔上升时环境压力降低的情况下，但这种情况罕见。
+
+【参考文献】
+1.Molvaer OI, Eidsvik S.Facial baroparesis: A review.Undersea Biomed Res.14(30):277-295, 1987.PMID 3307083
+1.Molvaer OI, Eidsvik S.Facial baroparesis: A review.Undersea Biomed Res.14(30):277-295, 1987.PMID 3307083
+2.Lindfors OH, Raisanen-Sokolowski AK, Suvilehto J, et al.Middle Ear Barotrauma in Diving.Diving Hyperb Med.51(1): Mar 31, 2021: 44-52.
+2.Lindfors OH, Raisanen-Sokolowski AK, Suvilehto J, et al.Middle Ear Barotrauma in Diving.Diving Hyperb Med.51(1): Mar 31, 2021: 44-52.
+3.Elliott EJ, Smart DR.The assessment and management of inner ear barotrauma in divers and recommendations for returning to diving.Diving Hyperb Med.44(4):208-22, 2014.PMID: 25596834
+3.Elliott EJ, Smart DR.The assessment and management of inner ear barotrauma in divers and recommendations for returning to diving.Diving Hyperb Med.44(4):208-22, 2014.PMID: 25596834
+4.Schipke JD, Cleveland S, Drees M, Sphenoid sinus barotrauma in diving: Case series and review of the literature.Res Sports Med.26(1):124-137.doi: 10.1080/15438627.2017.1365292
+4.Schipke JD, Cleveland S, Drees M, Sphenoid sinus barotrauma in diving: Case series and review of the literature.Res Sports Med.26(1):124-137.doi: 10.1080/15438627.2017.1365292
+5.Hanasono MM, Norbash AM, Shepard K, et al.Sphenoid pneumoceles cause episodic pressure-related blindness.West J Med.169(5):295-299, 1998.PMID: 9830365 PMCID: PMC1305327
+5.Hanasono MM, Norbash AM, Shepard K, et al.Sphenoid pneumoceles cause episodic pressure-related blindness.West J Med.169(5):295-299, 1998.PMID: 9830365 PMCID: PMC1305327
+
+【耳和鼻窦气压伤的诊断】
+主要是病史和体格评估
+主要是病史和体格评估
+有时，听力测试和前庭测试
+有时，听力测试和前庭测试
+气压伤仅导致耳部或鼻窦疼痛，通常通过临床诊断。
+有内耳气压伤症状(如耳鸣、听力丧失或眩晕)的患者需检查是否有前庭功能障碍体征，并进行紧急的正规听力测试、前庭检查，可能还需要手术(1)。这些患者应转诊给耳鼻喉科医生，因为及时手术治疗迷路窗撕裂可以逆转听力损失。
+不复杂的窦气压伤无需影像检查（如X线胶片、CT）来确诊但若怀疑窦破裂或脑神经受压CT会有帮助。
+
+【诊断参考文献】
+1.Rozycki SW, Brown MJ, Camacho M.Inner ear barotrauma in divers: an evidence-based tool for evaluation and treatment.Diving Hyperb Med.48(3):186–193, 2018.PMID 30199891.
+1.Rozycki SW, Brown MJ, Camacho M.Inner ear barotrauma in divers: an evidence-based tool for evaluation and treatment.Diving Hyperb Med.48(3):186–193, 2018.PMID 30199891.
+
+【耳部和鼻窦气压伤的治疗】
+解充血药和镇痛药
+解充血药和镇痛药
+有时需口服糖皮质激素，有时需手术修复，或两者都需要
+有时需口服糖皮质激素，有时需手术修复，或两者都需要
+大部分耳和窦气压伤能自行缓解，只需要对症治疗和门诊随访。
+减充血剂（通常为羟甲唑啉鼻喷剂或口服伪麻黄碱）有助于打开阻塞的腔室。对减充血剂没有反应的患者可以用鼻用皮质类固醇治疗。可使用非甾体类消炎药或阿片类药物缓解疼痛。
+如果出现出血或有迹象表明存在渗出，需给予抗生素治疗（如阿莫西林500mg口服，每12小时1次，连续治疗10天；甲氧苄胺嘧啶/磺胺甲噁唑双强度片剂口服，每天两次，连续10天）。
+如果症状严重或持久应求助耳鼻喉科专家。对于严重的内耳、中耳或鼻窦损伤，可能需要手术治疗（如为修补破裂的圆窗或卵圆窗行鼓室切开术、为引流中耳积液行鼓膜切开术，或行鼻窦减压术）。
+
+【耳部和鼻窦气压伤的预防】
+在潜水过程中，通过频繁吞咽或捏紧鼻孔呼气来开放咽鼓管，平衡中耳与环境的压力来预防耳气压伤。耳塞后面的压力不能达到平衡，因此在潜水时不能使用。
+对于鼻塞或中耳压力平衡困难的人，在潜水前 12 至 24 小时开始使用 0.05% 羟甲唑啉鼻喷雾剂进行预防，每天两次，每个鼻孔喷两次，可以降低耳部和鼻窦气压伤的发生率。如果充血没有缓解，或存在上呼吸道感染，或过敏性鼻炎未得到控制者，不能潜水。
+如果病人有耳鸣、听力丧失或眩晕，应紧急安排行听力检查和前庭测试。
+如果病人有耳鸣、听力丧失或眩晕，应紧急安排行听力检查和前庭测试。
+如果临床评估不确定，或鼻窦损伤并发颅神经受压，请考虑 CT检查。
+如果临床评估不确定，或鼻窦损伤并发颅神经受压，请考虑 CT检查。
+如果症状严重，给予止痛药和解充血药。
+如果症状严重，给予止痛药和解充血药。
+当鼻子充血时，建议不要潜水，有时通过开预防性的氧美唑啉或鼻用伪麻黄碱，以降低耳和窦气压伤的风险。
+当鼻子充血时，建议不要潜水，有时通过开预防性的氧美唑啉或鼻用伪麻黄碱，以降低耳和窦气压伤的风险。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Divers Alert Network: 24-hour emergency hotline, 919-684-9111
+Divers Alert Network: 24-hour emergency hotline, 919-684-9111
+Duke Dive Medicine: Physician-to-physician consultation, 919-684-8111
+Duke Dive Medicine: Physician-to-physician consultation, 919-684-8111

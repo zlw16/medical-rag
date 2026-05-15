@@ -1,0 +1,72 @@
+标题：呼吸道合胞病毒 (RSV) 疫苗
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/immunization/respiratory-syncytial-virus-rsv-vaccine
+============================================================
+
+建议孕妇接种呼吸道合胞病毒（RSV）疫苗，以保护婴儿（1）以及老年人预防RSV感染（2），这可能导致这些人群出现严重疾病，需要住院治疗。
+(参见免疫接种概述。)
+
+【参考文献】
+1.Kampmann B, Madhi SA, Munjal I, et al.Bivalent Prefusion F Vaccine in Pregnancy to Prevent RSV Illness in Infants.N Engl J Med.2023;388(16):1451-1464.doi:10.1056/NEJMoa2216480
+1.Kampmann B, Madhi SA, Munjal I, et al.Bivalent Prefusion F Vaccine in Pregnancy to Prevent RSV Illness in Infants.N Engl J Med.2023;388(16):1451-1464.doi:10.1056/NEJMoa2216480
+2.Wilson E, Goswami J, Baqui AH, et al.Efficacy and Safety of an mRNA-Based RSV PreF Vaccine in Older Adults.N Engl J Med.2023;389(24):2233-2244.doi:10.1056/NEJMoa2307079
+2.Wilson E, Goswami J, Baqui AH, et al.Efficacy and Safety of an mRNA-Based RSV PreF Vaccine in Older Adults.N Engl J Med.2023;389(24):2233-2244.doi:10.1056/NEJMoa2307079
+
+【RSV疫苗的制备】
+有3种呼吸道合胞病毒疫苗：
+非佐剂RSV疫苗
+非佐剂RSV疫苗
+佐剂RSV疫苗
+佐剂RSV疫苗
+非佐剂基于mRNA的呼吸道合胞病毒疫苗
+非佐剂基于mRNA的呼吸道合胞病毒疫苗
+非佐剂RSV疫苗和佐剂RSV疫苗是灭活的重组呼吸道合胞病毒糖蛋白抗原组分。
+非佐剂mRNA呼吸道合胞病毒疫苗是一种核苷修饰的mRNA，编码RSV F糖蛋白（preF蛋白）。
+
+【RSV 疫苗的适应症】
+非佐剂RSV疫苗适用于妊娠32至36周末的孕妇，在美国大陆大部分地区的9月至1月期间接种（1）。不建议在同一妊娠期或随后的妊娠期间额外使用剂量。由之前怀孕期间接种过 RSV 疫苗的孕妇所生的婴儿应改为接种 RSV 单克隆抗体。在 RSV 季节性与美国大陆大部分地区不同的地区（例如阿拉斯加、热带气候地区），建议临床医生遵循公共卫生当局（例如 CDC [Centers for Disease Control and Prevention]、州和地方卫生部门）或区域医疗中心的指导，根据当地 RSV 季节性来确定给药时间。无论之前是否感染过 RSV，都应接种疫苗。
+基于共同的临床决策，所有3种RSV疫苗适用于所有60岁及以上成年人和部分50岁及以上成年人。具体而言，≥50 岁的成年人中最可能从疫苗中获益者为被认为严重 RSV 疾病高风险人群，包括合并以下慢性疾病的患者：
+肺部疾病
+肺部疾病
+心血管疾病
+心血管疾病
+神经系统或神经肌肉疾病
+神经系统或神经肌肉疾病
+肝脏疾病
+肝脏疾病
+中度或重度免疫功能低下（由医疗状况或接受免疫抑制药物或治疗引起）
+中度或重度免疫功能低下（由医疗状况或接受免疫抑制药物或治疗引起）
+体弱者、≥75 岁人群，以及居住在养老院或其他长期护理机构的人群，同样属于严重 RSV 感染的高风险人群。
+
+【适应症参考文献】
+1.Centers for Disease Control and Prevention.RSV Vaccine Guidance for Pregnant Women.Accessed April 18, 2025.
+1.Centers for Disease Control and Prevention.RSV Vaccine Guidance for Pregnant Women.Accessed April 18, 2025.
+
+【RSV疫苗的禁忌症和注意事项】
+RSV疫苗的主要禁忌证是：
+对疫苗成分的严重过敏反应（例如，过敏反应）
+对疫苗成分的严重过敏反应（例如，过敏反应）
+RSV 疫苗的主要注意事项是：
+伴或不伴发热的中度或重度急性疾病
+伴或不伴发热的中度或重度急性疾病
+
+【RSV疫苗的剂量与接种】
+RSV 疫苗以单剂量 0.5 mL IM 的形式施用。
+
+【RSV疫苗的不良反应】
+不良反应包括注射部位疼痛、疲劳、肌痛、头痛和关节痛。
+有关这些疫苗不良反应的更多信息，请参阅处方信息。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Respiratory Syncytial Virus (RSV) Vaccine Immunizations
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Respiratory Syncytial Virus (RSV) Vaccine Immunizations
+Centers for Disease Control and Prevention (CDC):RSV (Respiratory Syncytial Virus)
+Centers for Disease Control and Prevention (CDC):RSV (Respiratory Syncytial Virus)
+CDC:Healthcare Providers: RSV Vaccination for Adults 60 Years of Age and Over
+CDC:Healthcare Providers: RSV Vaccination for Adults 60 Years of Age and Over
+CDC:Clinical Guidance for RSV Immunizations and Vaccines
+CDC:Clinical Guidance for RSV Immunizations and Vaccines
+CDC:Healthcare Providers: RSV Immunization for Infants and Young Children
+CDC:Healthcare Providers: RSV Immunization for Infants and Young Children
+European Centre for Disease Prevention and Control (ECDC):RSV: Recommended vaccinations
+European Centre for Disease Prevention and Control (ECDC):RSV: Recommended vaccinations

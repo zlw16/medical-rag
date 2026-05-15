@@ -1,0 +1,71 @@
+标题：急性支气管炎
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/acute-bronchitis/acute-bronchitis
+============================================================
+
+（参阅儿童咳嗽.)
+急性支气管炎为上呼吸道感染的一部分，常由鼻病毒、副流感病毒、甲型或乙型流感病毒、呼吸道合胞病毒、冠状病毒或人偏肺病毒引起（1）。细菌，例如肺炎支原体、百日咳博德特氏菌和肺炎衣原体，引起的病例不到5%；这些情况有时会集中暴发。成人百日咳杆菌感染可表现为急性支气管炎，被认为与儿童期接种疫苗后免疫力减弱有关（2）。急性支气管炎是SARS-CoV-2感染可能发生的一系列疾病的一部分，对这种病毒进行检测是适当的。发热、肌痛以及咽痛、胃肠道症状、嗅觉和味觉丧失等症状在SARS-CoV-2感染中比其他病毒感染更为常见。
+有慢性支气管疾病（如哮喘、慢性阻塞性肺病，支气管扩张，囊性纤维化）的患者气管支气管树的急性炎症被认为是原发病的急性加重而不是急性支气管炎。在这些患者中，其病因、治疗和预后与急性支气管炎不同。由于急性加重常先于潜在慢性支气管疾病的诊断，对急性支气管炎患者的临床评估应包括评估其在急性疾病发作前是否存在慢性呼吸道症状（如呼吸困难、伴或不伴痰的慢性咳嗽、喘息）。
+
+【要点与误区】
+要点与误区
+哮喘、COPD、支气管扩张症，或囊性纤维化患者急性咳嗽通常应被认为是原先疾病的急性加重，而不是简单的急性支气管炎。
+哮喘、COPD、支气管扩张症，或囊性纤维化患者急性咳嗽通常应被认为是原先疾病的急性加重，而不是简单的急性支气管炎。
+
+【一般参考文献】
+1.Miller JM, Binnicker MJ, Campbell S, et al.A Guide to Utilization of the Microbiology Laboratory for Diagnosis of Infectious Diseases: 2018 Update by the Infectious Diseases Society of America and the American Society for Microbiology.Clin Infect Dis2018;67(6):e1-e94.doi:10.1093/cid/ciy381
+1.Miller JM, Binnicker MJ, Campbell S, et al.A Guide to Utilization of the Microbiology Laboratory for Diagnosis of Infectious Diseases: 2018 Update by the Infectious Diseases Society of America and the American Society for Microbiology.Clin Infect Dis2018;67(6):e1-e94.doi:10.1093/cid/ciy381
+2.Mattoo S, Cherry JD.Molecular pathogenesis, epidemiology, and clinical manifestations of respiratory infections due to Bordetella pertussis and other Bordetella subspecies.Clin Microbiol Rev2005;18(2):326-382.doi:10.1128/CMR.18.2.326-382.2005
+2.Mattoo S, Cherry JD.Molecular pathogenesis, epidemiology, and clinical manifestations of respiratory infections due to Bordetella pertussis and other Bordetella subspecies.Clin Microbiol Rev2005;18(2):326-382.doi:10.1128/CMR.18.2.326-382.2005
+
+【急性支气管炎的症状和体征】
+症状为咳嗽无痰或少痰，伴随或继发于上呼吸道感染症状。典型症状在就诊前通常持续5天或更长时间（1）。主观呼吸困难是由咳嗽引起的肌肉骨骼不适导致的胸痛或与支气管痉挛相关的胸闷引起的，而不是由缺氧引起的。
+常无体征，但也可有散在干啰音和哮鸣音。痰可能是透明的或脓性的。痰液的性状并不能明确对应某一特定病因（如病毒性或细菌性），也无法预测对抗生素治疗的反应。有时可有低热，若出现高热或持续发热常提示流感，肺炎，或COVID-19。
+在康复过程中，咳嗽是最后一个消退的症状，通常需要2到3周，但很少需要更长时间。
+
+【症状和体征参考文献】
+1.Ebell MH, Merenstein DJ, Barrett B, et al.Acute cough in outpatients: what causes it, how long does it last, and how severe is it for different viruses and bacteria?[published correction appears inClin Microbiol Infect2025 Jan;31(1):142. doi: 10.1016/j.cmi.2024.09.013.].Clin Microbiol Infect2024;30(12):1569-1575.doi:10.1016/j.cmi.2024.06.031
+1.Ebell MH, Merenstein DJ, Barrett B, et al.Acute cough in outpatients: what causes it, how long does it last, and how severe is it for different viruses and bacteria?[published correction appears inClin Microbiol Infect2025 Jan;31(1):142. doi: 10.1016/j.cmi.2024.09.013.].Clin Microbiol Infect2024;30(12):1569-1575.doi:10.1016/j.cmi.2024.06.031
+
+【急性支气管炎的诊断】
+临床评估
+临床评估
+有时需行胸部X线检查排除其他疾病
+有时需行胸部X线检查排除其他疾病
+诊断主要基于临床表现。
+有呼吸困难主诉的患者应行指尖氧饱和度检测以除外低氧血症。
+若临床发现提示肺炎或其他严重疾病（如病容、意识改变、高热、呼吸急促、低氧血症、听诊异常如呼吸音改变或湿啰音），需进行胸片检查。老年患者是一个特殊人群，对于是否进行影像检查应适当降低阈值，因为他们可能在没有发热和听诊异常的情况下患有肺炎，临床上反而表现为意识状态改变和呼吸急促。
+通常情况下，微生物学检测（如痰液革兰染色和培养）是不必要的。但是，有COVID-19体征或症状的患者应进行SARS-CoV-2检测。如根据接触史和/或临床表现高度怀疑，应考虑对鼻咽拭子标本进行流感和百日咳的病原学检测。症状持续10至14天的患者应评估百日咳可能，尤其是未接种疫苗、存在持续性阵发性咳嗽或间歇性特征性鸡鸣样咳嗽和/或干呕，或接触确诊病例者。除非是疫情调查的一部分，否则无需检测支原体和衣原体感染。 通常不建议进行病毒检测，因为结果不影响治疗。
+80%患者的咳嗽在2周内消失；其余20%的患者可能需要长达8周咳嗽才能消失（1）。咳嗽在初始改善后恶化的患者和咳嗽持续 > 8 周的患者应接受进一步评估，包括胸部 X 光检查。慢性咳嗽的非感染性原因，如哮喘（包括咳嗽变异性哮喘）、鼻后滴涕和胃食管反流病，通常可以根据临床表现进行评估。咳嗽变异性哮喘的鉴别诊断可能需要肺功能检测。
+
+【诊断参考文献】
+1.Hounkpatin H, Stuart B, Zhu S, et al.Post-consultation acute respiratory tract infection recovery: a latent class-informed analysis of individual patient data.Br J Gen Pract2023;73(728):e196-e203.doi:10.3399/BJGP.2022.0229
+1.Hounkpatin H, Stuart B, Zhu S, et al.Post-consultation acute respiratory tract infection recovery: a latent class-informed analysis of individual patient data.Br J Gen Pract2023;73(728):e196-e203.doi:10.3399/BJGP.2022.0229
+
+【急性支气管炎的治疗】
+缓解症状（对乙酰氨基酚，大量饮水，可能需用镇咳药）
+缓解症状（对乙酰氨基酚，大量饮水，可能需用镇咳药）
+有喘息者可吸入β2受体激动剂
+有喘息者可吸入β2受体激动剂
+几乎所有病人仅需对症治疗，如给予对乙酰氨基酚、大量饮水。常规使用的其它对症治疗措施，如镇咳药，粘液溶解药和支气管扩张剂的循证医学证据不足。通常不推荐布洛芬，因其尚未被发现有助于缓解症状（1）。仅在咳嗽症状令人困扰或影响睡眠时，方可考虑使用镇咳药（右美沙芬），联用或不用祛痰药（愈创甘油醚）。有喘息者可吸入β2受体激动剂（如沙丁胺醇）数天。不推荐广泛使用β2受体激动剂，因为其不良反应如震颤、紧张和颤抖很常见（2）。
+既往体健的急性支气管炎患者是过度使用抗生素的主要原因。由于细菌性病因的低发生率、急性支气管炎的自限性特征以及抗生素不良反应风险，广泛使用抗生素缺乏合理性依据（3）。限制抗生素滥用，全球滥用率可能高达45%，是预防抗生素耐药性的关键（4）。患者教育和延迟处方（即，只有在至少几天后没有改善的情况下才能配药）有助于限制不必要的抗生素使用。口服抗生素仅用于百日咳患者或已知细菌感染（支原体、衣原体）爆发期间。首选大环内酯类药物如阿奇霉素或克拉霉素。
+
+【要点与误区】
+要点与误区
+既往健康的急性支气管炎患者大多数情况下无需使用抗生素。
+既往健康的急性支气管炎患者大多数情况下无需使用抗生素。
+
+【治疗参考文献】
+1.Kinkade S, Long NA.Acute Bronchitis.Am Fam Physician2016;94(7):560-565.
+1.Kinkade S, Long NA.Acute Bronchitis.Am Fam Physician2016;94(7):560-565.
+2.Becker LA, Hom J, Villasis-Keever M, van der Wouden JC.Beta2-agonists for acute cough or a clinical diagnosis of acute bronchitis.Cochrane Database Syst Rev2015;2015(9):CD001726.Published 2015 Sep 3.doi:10.1002/14651858.CD001726.pub5
+2.Becker LA, Hom J, Villasis-Keever M, van der Wouden JC.Beta2-agonists for acute cough or a clinical diagnosis of acute bronchitis.Cochrane Database Syst Rev2015;2015(9):CD001726.Published 2015 Sep 3.doi:10.1002/14651858.CD001726.pub5
+3.Llor C, Moragas A, Bayona C, et al.Efficacy of anti-inflammatory or antibiotic treatment in patients with non-complicated acute bronchitis and discoloured sputum: randomised placebo controlled trial.BMJ2013;347:f5762.doi:10.1136/bmj.f5762
+3.Llor C, Moragas A, Bayona C, et al.Efficacy of anti-inflammatory or antibiotic treatment in patients with non-complicated acute bronchitis and discoloured sputum: randomised placebo controlled trial.BMJ2013;347:f5762.doi:10.1136/bmj.f5762
+4.Kasse GE, Cosh SM, Humphries J, Islam MS.Antimicrobial prescription pattern and appropriateness for respiratory tract infection in outpatients: a systematic review and meta-analysis.Syst Rev2024;13(1):229.Published 2024 Sep 6.doi:10.1186/s13643-024-02649-3
+4.Kasse GE, Cosh SM, Humphries J, Islam MS.Antimicrobial prescription pattern and appropriateness for respiratory tract infection in outpatients: a systematic review and meta-analysis.Syst Rev2024;13(1):229.Published 2024 Sep 6.doi:10.1186/s13643-024-02649-3
+急性支气管炎在95%的病例中是病毒性的，通常是上呼吸道感染的一部分。
+急性支气管炎在95%的病例中是病毒性的，通常是上呼吸道感染的一部分。
+急性支气管炎的诊断主要通过临床评估；对于病情更为严重或症状持续未缓解甚至加重的患者，应进行胸部 X 光检查和/或其他检查。
+急性支气管炎的诊断主要通过临床评估；对于病情更为严重或症状持续未缓解甚至加重的患者，应进行胸部 X 光检查和/或其他检查。
+对大多数患者进行对症治疗。
+对大多数患者进行对症治疗。

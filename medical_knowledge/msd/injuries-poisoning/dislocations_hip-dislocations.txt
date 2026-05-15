@@ -1,0 +1,71 @@
+标题：髋关节脱位
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/dislocations/hip-dislocations
+============================================================
+
+并发症包括:
+坐骨神经损伤
+坐骨神经损伤
+迟发的股骨头坏死
+迟发的股骨头坏死
+合并伤包括:
+髌骨骨折
+髌骨骨折
+后交叉韧带损伤
+后交叉韧带损伤
+髋臼和股骨头骨折
+髋臼和股骨头骨折
+后脱位时患肢短缩，内收且内旋。前脱位较少见，导致下肢外展和外旋。
+（见脱位概述。）
+
+【髋关节脱位的诊断】
+常规髋关节X光片具有诊断价值。
+
+【髋关节脱位的治疗】
+闭合复位
+闭合复位
+髋关节脱位治疗应尽快闭合复位，最佳时间在≤6小时内，延迟复位增加股骨头坏死的风险(1)。
+髋关节复位可使用以下技术
+Allis 技术
+Allis 技术
+Captain Morgan复位法
+Captain Morgan复位法
+Rocket launcher复位法
+Rocket launcher复位法
+采用这些技术时，患者需进行程序性镇静以实现肌肉松弛，并应保持仰卧位。（有关详细说明，另请参阅《如何复位髋关节后脱位》。）
+对于Allis复位法，需将髋关节轻柔屈曲至90度，并对股骨施加垂直牵引；若将患者暂时置于硬质背板上，操作医师实施复位时此法最为简便安全。可使用绑在担架上的带子或布单固定患者髋部（为股骨垂直牵引提供反作用力）。
+对于Captain Morgan复位法，需用束带或布单固定患者骨盆，同时屈曲脱位的髋关节。随后，临床医生将膝盖置于患者膝下，向上提起的同时对股骨施加垂直牵引力。Captain Morgan复位法的首次成功率可能高于Allis复位法（2)。
+
+【Captain Morgan复位法】
+Captain Morgan复位法
+对于火箭发射技术（3），医生站在受影响的髋关节侧面并面向患者的脚。脱位的髋关节和膝关节弯曲至90°。患者的髋部用一张床单或由第二位医生按住（提供对骨盆的反牵引力）。临床医生蹲下，将患者膝盖置于自己肩部；医生如同托举火箭筒般稳固支撑腿部。通过向内按压膝盖使髋关节内收，并通过将脚转出使髋关节内旋；然后医生从蹲下位置站起，以自身肩膀为支点，轻轻向患者脚的方向牵拉股骨。
+对于 rocket launcher技术，医生站在受影响的髋关节侧面并面向患者的脚。脱位的髋关节和膝关节弯曲至90°。 患者的臀部通常被床单或第二位医生压住。 临床医生蹲下，将患者的膝盖置于其肩部。通过向内按压膝盖使髋关节内收，并通过将脚转出使髋关节内旋；然后医生从蹲下位置站起，以自身肩膀为支点，轻轻向患者脚的方向牵拉股骨。
+Image courtesy of Danielle Campagne, MD.
+复位后，所有原生髋关节均需要进行CT检查，以识别髋臼和股骨头骨折，以及关节内碎屑或游离体（骨或软骨碎片）。约 70% 的髋关节后脱位患者伴有髋臼骨折（4）。如果发现骨折或游离体，应咨询骨科医生关于可能的手术干预。如果CT没有显示任何骨折或游离体，患者可携带拐杖回家，并告知脚可以着地（例如，以保持平衡），但不应承重（脚趾接触负重），至少在骨科随访后获得许可才能这样做。
+
+【治疗参考文献】
+1.Kellam P, Ostrum RF: Systematic review and meta-analysis of avascular necrosis and posttraumatic arthritis after traumatic hip dislocation.J Orthop Trauma30 (1):10–16, 2016.doi: 10.1097/BOT.0000000000000419
+1.Kellam P, Ostrum RF: Systematic review and meta-analysis of avascular necrosis and posttraumatic arthritis after traumatic hip dislocation.J Orthop Trauma30 (1):10–16, 2016.doi: 10.1097/BOT.0000000000000419
+2.Hendey GW, Avila A: The Captain Morgan technique for the reduction of the dislocated hip.Ann Emerg Med58 (6):536–540, 2011.doi: 10.1016/j.annemergmed.2011.07.010
+2.Hendey GW, Avila A: The Captain Morgan technique for the reduction of the dislocated hip.Ann Emerg Med58 (6):536–540, 2011.doi: 10.1016/j.annemergmed.2011.07.010
+3.Dan M, Phillips A, Simonian M, et al: Rocket launcher: A novel reduction technique for posterior hip dislocations and review of current literature.Emerg Med Australas27 (3):192–195, 2015.doi: 10.1111/1742-6723.12392
+3.Dan M, Phillips A, Simonian M, et al: Rocket launcher: A novel reduction technique for posterior hip dislocations and review of current literature.Emerg Med Australas27 (3):192–195, 2015.doi: 10.1111/1742-6723.12392
+4.Hak DJ, Goulet JA: Severity of injuries associated with traumatic hip dislocation as a result of motor vehicle collisions.J Trauma47(1):60–63, 1999.doi: 10.1097/00005373-199907000-00014
+4.Hak DJ, Goulet JA: Severity of injuries associated with traumatic hip dislocation as a result of motor vehicle collisions.J Trauma47(1):60–63, 1999.doi: 10.1097/00005373-199907000-00014
+
+【人工髋关节脱位】
+全髋关节置换术后，高达2%的患者会发生非创伤性人工髋关节脱位 (1)。后脱位较常见。
+闭合复位通常是有效的，尤其是对首发患者，但有时需要行髋部翻修手术。
+这种错位是向后的。
+DU CANE MEDICAL IMAGING LTD/SCIENCE PHOTO LIBRARY
+
+【人工髋关节脱位参考】
+1.van Erp JHJ, Hüsken MFT, Filipe MD, et al.Did the dislocation risk after primary total hip arthroplasty decrease over time?A meta-analysis across six decades.Arch Orthop Trauma Surg.2023;143(7):4491-4500.doi:10.1007/s00402-022-04678-w
+1.van Erp JHJ, Hüsken MFT, Filipe MD, et al.Did the dislocation risk after primary total hip arthroplasty decrease over time?A meta-analysis across six decades.Arch Orthop Trauma Surg.2023;143(7):4491-4500.doi:10.1007/s00402-022-04678-w
+多数髋关节脱位呈后脱位，导致患肢短缩，内收且内旋。
+多数髋关节脱位呈后脱位，导致患肢短缩，内收且内旋。
+使用常规X光片进行诊断。
+使用常规X光片进行诊断。
+尽快复位，最好在6小时内，可使用多种技术中的一种；延迟复位会增加骨坏死的风险。
+尽快复位，最好在6小时内，可使用多种技术中的一种；延迟复位会增加骨坏死的风险。
+复位后，进行CT检查以确认所有原生髋部是否存在骨折、关节内碎屑或游离骨片。
+复位后，进行CT检查以确认所有原生髋部是否存在骨折、关节内碎屑或游离骨片。

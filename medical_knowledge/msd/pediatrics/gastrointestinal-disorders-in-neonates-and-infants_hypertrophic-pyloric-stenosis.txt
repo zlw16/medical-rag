@@ -1,0 +1,73 @@
+标题：肥厚性幽门狭窄
+来源：https://www.msdmanuals.cn/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/hypertrophic-pyloric-stenosis
+============================================================
+
+肥厚性幽门狭窄可引起几乎完全性的胃出口梗阻。
+每1000名婴儿中就有2至5名患有这种疾病，男性患病率更高，男女比例约为5:1，尤其是头胎男婴（1）。该病最常见于 3～6 周龄，极少发生于 12 周龄后。
+
+【参考文献】
+1.MacMahon B.The continuing enigma of pyloric stenosis of infancy: a review.Epidemiology.2006;17(2):195-201.doi:10.1097/01.ede.0000192032.83843.c9
+1.MacMahon B.The continuing enigma of pyloric stenosis of infancy: a review.Epidemiology.2006;17(2):195-201.doi:10.1097/01.ede.0000192032.83843.c9
+
+【肥厚性幽门狭窄的病因】
+肥厚性幽门狭窄的确切病因尚不明确，但该疾病具有高度遗传性，关联研究已发现多个相关基因（1–3）。母亲孕期吸烟也增加患病风险 (4)。目前所提出的致病机制包括神经性的一氧化氮合成缺乏，以及肌肉层的神经支配异常和高胃泌素血症。
+在生后数周内，暴露于某些大环内酯类抗生素（例如，红霉素）的婴儿，其危险度明显升高 (5,6)。
+研究表明，与纯母乳喂养的婴儿相比，奶瓶喂养和配方奶喂养的婴儿风险增加，但目前尚不清楚这种风险是否与喂养方式的改变有关，抑或与喂养类型相关。（7–9）。
+
+【病因参考文献】
+1.Krogh C, Fischer TK, Skotte L, et al.Familial aggregation and heritability of pyloric stenosis.JAMA.2010;303(23):2393-2399.doi:10.1001/jama.2010.784
+1.Krogh C, Fischer TK, Skotte L, et al.Familial aggregation and heritability of pyloric stenosis.JAMA.2010;303(23):2393-2399.doi:10.1001/jama.2010.784
+2.Feenstra B, Geller F, Krogh C, et al.Common variants near MBNL1 and NKX2-5 are associated with infantile hypertrophic pyloric stenosis.Nat Genet.2012;44(3):334-337.Published 2012 Feb 5.doi:10.1038/ng.1067
+2.Feenstra B, Geller F, Krogh C, et al.Common variants near MBNL1 and NKX2-5 are associated with infantile hypertrophic pyloric stenosis.Nat Genet.2012;44(3):334-337.Published 2012 Feb 5.doi:10.1038/ng.1067
+3.Fadista J, Skotte L, Geller F, et al.Genome-wide meta-analysis identifies BARX1 and EML4-MTA3 as new loci associated with infantile hypertrophic pyloric stenosis.Hum Mol Genet.2019;28(2):332-340.doi:10.1093/hmg/ddy347
+3.Fadista J, Skotte L, Geller F, et al.Genome-wide meta-analysis identifies BARX1 and EML4-MTA3 as new loci associated with infantile hypertrophic pyloric stenosis.Hum Mol Genet.2019;28(2):332-340.doi:10.1093/hmg/ddy347
+4.Obaid YY, Toubasi AA, Albustanji FH, Al-Qawasmeh AR.Perinatal risk factors for infantile hypertrophic pyloric stenosis: A systematic review and meta-analysis.J Pediatr Surg.2023;58(3):458-466.doi:10.1016/j.jpedsurg.2022.08.016
+4.Obaid YY, Toubasi AA, Albustanji FH, Al-Qawasmeh AR.Perinatal risk factors for infantile hypertrophic pyloric stenosis: A systematic review and meta-analysis.J Pediatr Surg.2023;58(3):458-466.doi:10.1016/j.jpedsurg.2022.08.016
+5.Abdellatif M, Ghozy S, Kamel MG, et al.Association between exposure to macrolides and the development of infantile hypertrophic pyloric stenosis: a systematic review and meta-analysis.Eur J Pediatr.2019;178(3):301-314.doi:10.1007/s00431-018-3287-7
+5.Abdellatif M, Ghozy S, Kamel MG, et al.Association between exposure to macrolides and the development of infantile hypertrophic pyloric stenosis: a systematic review and meta-analysis.Eur J Pediatr.2019;178(3):301-314.doi:10.1007/s00431-018-3287-7
+6.Eberly MD, Eide MB, Thompson JL, Nylund CM.Azithromycinin early infancy and pyloric stenosis.Pediatrics.2015;135(3):483-488.doi:10.1542/peds.2014-2026
+6.Eberly MD, Eide MB, Thompson JL, Nylund CM.Azithromycinin early infancy and pyloric stenosis.Pediatrics.2015;135(3):483-488.doi:10.1542/peds.2014-2026
+7.Krogh C, Biggar RJ, Fischer TK, et al.Bottle-feeding and the Risk of Pyloric Stenosis.Pediatrics.2012;130(4):e943-e949.doi:10.1542/peds.2011-2785
+7.Krogh C, Biggar RJ, Fischer TK, et al.Bottle-feeding and the Risk of Pyloric Stenosis.Pediatrics.2012;130(4):e943-e949.doi:10.1542/peds.2011-2785
+8.McAteer JP, Ledbetter DJ, Goldin AB.Role of bottle feeding in the etiology of hypertrophic pyloric stenosis.JAMA Pediatr.2013;167(12):1143-1149.doi:10.1001/jamapediatrics.2013.2857
+8.McAteer JP, Ledbetter DJ, Goldin AB.Role of bottle feeding in the etiology of hypertrophic pyloric stenosis.JAMA Pediatr.2013;167(12):1143-1149.doi:10.1001/jamapediatrics.2013.2857
+9.Wayne C, Hung JH, Chan E, Sedgwick I, Bass J, Nasr A.Formula-feeding and hypertrophic pyloric stenosis: is there an association?A case-control study.J Pediatr Surg.2016;51(5):779-782.doi:10.1016/j.jpedsurg.2016.02.021
+9.Wayne C, Hung JH, Chan E, Sedgwick I, Bass J, Nasr A.Formula-feeding and hypertrophic pyloric stenosis: is there an association?A case-control study.J Pediatr Surg.2016;51(5):779-782.doi:10.1016/j.jpedsurg.2016.02.021
+
+【肥厚性幽门狭窄的症状和体征】
+肥厚性幽门狭窄的症状通常在生后3～6周进展。进食后不久出现剧烈或喷射性非胆汁性呕吐。出现脱水前，患儿反复呕吐后食欲仍较强，一般情况好，这与其他全身性疾病引起的呕吐不同。
+上腹部可见从左向右横跨的胃蠕动波。深压右上腹可扪及一孤立的、质地硬、活动性橄榄样肿块，大小2～3cm。
+随着病情的进展，儿童会出现体重不增、营养不良，并发生脱水，同时伴随电解质紊乱与酸碱失衡（表现为低氯性、低钾性代谢性碱中毒）。
+
+【肥厚性幽门狭窄的诊断】
+超声疗法
+超声疗法
+对于出生后头几个月出现喷射性呕吐的所有婴儿，应怀疑肥厚性幽门狭窄，特别是当他们有食欲且其他方面表现良好时。
+诊断可通过腹部超声进行，超声会显示幽门肌增厚（典型厚度≥3mm；正常情况下<3mm），同时伴有幽门管延长 （1）。
+
+【经验与提示】
+经验与提示
+对于出生后头几个月出现喷射性呕吐的所有婴儿，应怀疑肥厚性幽门狭窄，特别是当他们有食欲且其他方面表现良好时。
+对于出生后头几个月出现喷射性呕吐的所有婴儿，应怀疑肥厚性幽门狭窄，特别是当他们有食欲且其他方面表现良好时。
+如果诊断仍不确定，可以连续重复超声检查，或进行上消化道（GI）系列检查。上消化道系列检查通常显示胃排空延迟，以及明显变窄、延长的幽门管呈现“线状征”或“轨道征”。极少情况需要行胃镜检查明确诊断。
+幽门狭窄婴儿的经典电解质模式是低氯/低钾代谢性碱中毒，这是由于盐酸直接丢失和血管内容量减少导致肾素-血管紧张素-醛固酮系统激活，从而导致肾脏钾排泄增加以换取钠。高达14%的婴儿患有黄疸（幽门黄疸综合征）。
+
+【诊断参考文献】
+1.Expert Panel on Pediatric Imaging, Alazraki AL, Rigsby CK, et al.ACR Appropriateness Criteria® Vomiting in Infants.J Am Coll Radiol.2020;17(11S):S505-S515.doi:10.1016/j.jacr.2020.09.002
+1.Expert Panel on Pediatric Imaging, Alazraki AL, Rigsby CK, et al.ACR Appropriateness Criteria® Vomiting in Infants.J Am Coll Radiol.2020;17(11S):S505-S515.doi:10.1016/j.jacr.2020.09.002
+
+【肥厚性幽门狭窄的治疗】
+幽门肌切开术
+幽门肌切开术
+肥厚性幽门狭窄的初始治疗重点在于液体复苏及纠正电解质紊乱。
+决定性治疗：幽门环肌纵形切开术，分开切开的肌纤维，保留完整的黏膜。术后当天患儿通常就能正常喂养。一些中心现在成功地进行内窥镜幽门肌切开术（1）。幽门肌切开术安全有效。
+
+【Treatment reference】
+1.Zhang H, Liu Z, Ma L, et al.Gastric Peroral Endoscopic Pyloromyotomy for Infants With Congenital Hypertrophic Pyloric Stenosis.Am J Gastroenterol.2023;118(3):465-474.doi:10.14309/ajg.0000000000001973
+1.Zhang H, Liu Z, Ma L, et al.Gastric Peroral Endoscopic Pyloromyotomy for Infants With Congenital Hypertrophic Pyloric Stenosis.Am J Gastroenterol.2023;118(3):465-474.doi:10.14309/ajg.0000000000001973
+<3个月大的婴儿喂养后不久发生喷射性呕吐，通常在3周至6周龄之间，除非脱水严重，食欲通常正常，婴儿看起来状况良好。
+<3个月大的婴儿喂养后不久发生喷射性呕吐，通常在3周至6周龄之间，除非脱水严重，食欲通常正常，婴儿看起来状况良好。
+诊断是基于超声检查。
+诊断是基于超声检查。
+治疗方法是手术切开肥厚的幽门肌（幽门肌切开术）。
+治疗方法是手术切开肥厚的幽门肌（幽门肌切开术）。

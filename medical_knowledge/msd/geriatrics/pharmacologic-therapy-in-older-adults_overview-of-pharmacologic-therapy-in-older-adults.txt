@@ -1,0 +1,28 @@
+标题：老年人药物治疗概述
+来源：https://www.msdmanuals.cn/professional/geriatrics/pharmacologic-therapy-in-older-adults/overview-of-pharmacologic-therapy-in-older-adults
+============================================================
+
+处方药的使用随着患者年龄增长而大幅增加。2010—2011年的调查数据显示，近90%的门诊老年患者定期服用至少1种处方药物，近80%定期服用至少2种处方药物，36%的患者服用至少5种处方药物（多药联用）（1）。从2020年开始的后续调查数据显示，老年人平均处方药使用量已增加至约4种（2）。2017至2020年间，老年人多重用药率上升至43%，过度用药（服用至少10种处方药）率达6.1%。如果将非处方药和膳食补充剂包括在内，这些患病率会大幅增加。在体弱的老年人、住院患者和疗养院居民中，药物使用最多。
+为老年人提供安全有效的药物治疗具有挑战性，原因如下：
+他们比其他年龄组服用更多的药物，增加了药物不良反应以及药物相互作用的风险，也更难坚持服药。
+他们比其他年龄组服用更多的药物，增加了药物不良反应以及药物相互作用的风险，也更难坚持服药。
+他们常有慢性病，可能由于药物因素加重，或者影响药物反应。
+他们常有慢性病，可能由于药物因素加重，或者影响药物反应。
+他们的生理储备总体而言是降低的，由于急、慢性疾病，可能进一步降低。
+他们的生理储备总体而言是降低的，由于急、慢性疾病，可能进一步降低。
+老化会改变药物的药效学和药代动力学。
+老化会改变药物的药效学和药代动力学。
+他们可能不太能够获得或负担药物。
+他们可能不太能够获得或负担药物。
+有2个主要途径优化老年人的药物治疗：
+根据指征使用适当药物以最大限度地提高成本效益
+根据指征使用适当药物以最大限度地提高成本效益
+通过确保药物剂量正确、停用不必要的药物以及避免药物-药物、药物-疾病相互作用来避免药物不良反应
+通过确保药物剂量正确、停用不必要的药物以及避免药物-药物、药物-疾病相互作用来避免药物不良反应
+因为药物不良反应的风险高，处方用药过量（多重用药）是老年人的主要问题。然而，还必须解决未开出适当且具有治疗效果的药物的问题。（参见老年人中与药物有关的问题和老年人关注的药物类别。)
+
+【参考文献】
+1.Qato DM, Wilder J, Schumm LP, et al.Changes in prescription and over-the-counter medication and dietary supplement use among older adults in the United States, 2005 vs 2011.JAMA Intern Med176(4):473-82, 2016.doi: 10.1001/jamainternmed.2015.8581
+1.Qato DM, Wilder J, Schumm LP, et al.Changes in prescription and over-the-counter medication and dietary supplement use among older adults in the United States, 2005 vs 2011.JAMA Intern Med176(4):473-82, 2016.doi: 10.1001/jamainternmed.2015.8581
+2.Innes GK, Ogden CL, Crentsil V, Concato J, Fakhouri TH.Prescription Medication Use Among Older Adults in the US.JAMA Intern Med.2024;184(9):1121-1123.doi:10.1001/jamainternmed.2024.2781
+2.Innes GK, Ogden CL, Crentsil V, Concato J, Fakhouri TH.Prescription Medication Use Among Older Adults in the US.JAMA Intern Med.2024;184(9):1121-1123.doi:10.1001/jamainternmed.2024.2781

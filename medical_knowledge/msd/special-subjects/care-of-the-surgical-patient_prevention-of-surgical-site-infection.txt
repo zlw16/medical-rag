@@ -1,0 +1,51 @@
+标题：预防手术部位感染
+来源：https://www.msdmanuals.cn/professional/special-subjects/care-of-the-surgical-patient/prevention-of-surgical-site-infection
+============================================================
+
+预防手术部位感染对于避免感染相关并发症非常重要。此外，一些患者罹患以下疾病的风险较高：心内膜炎遵循程序。大部分的外科手术并不需要预防性或术后应用抗生素。然而，应评估患者相关因素和手术相关因素，以确定是否应采取预防措施。
+患者相关的危险因素建议需要抗生素包括
+心脏瓣膜疾病
+心脏瓣膜疾病
+免疫抑制治疗
+免疫抑制治疗
+操作危险因素涉及在有细菌定植区域的侵入性操作，主要包括：
+泌尿生殖道
+泌尿生殖道
+就无菌手术而言，如果涉及植入人工修复材料、或者一旦发生感染将有严重后果的手术，抗生素的预防性使用是可以带来益处的 (1,2)。
+抗生素的选择取决于药物对特定操作过程中最有可能污染伤口的细菌的活性（见表格某些外科手术的抗生素覆盖范围）。 抗生素一般在手术前1小时内给予（万古霉素和氟喹诺酮2小时内）。术后是否继续给药，目前尚有争议。 对于大多数头孢菌素，如果手术持续> 4小时，需再次给药。对于清洁程序，不需要额外的剂量，然而对于其它情况下，目前还不清楚额外剂量是否是有益的。 术后24小时以后的抗生素使用仅限于存在活动的感染灶，而这种应用已经属于治疗的范畴而不是预防性应用。
+这美国疾病控制与预防中心手术部位感染预防指南讨论局部和非药物防腐措施（例如沐浴、封闭剂、灌溉、假肢预防）。
+根据手术类型，具有某些风险因素的患者可能需要使用抗生素来预防感染性心内膜炎。心内膜炎预防指南已由美国心脏协会和欧洲心脏病学会提供。
+手术前使用不同消毒剂对受污染或不洁净的伤口进行感染的有效性尚未得到广泛研究（3）。
+
+【某些外科手术的抗生素覆盖范围】
+某些外科手术的抗生素覆盖范围
+手术过程
+批准的抗生素
+心脏或血管
+头孢唑啉，头孢呋辛，或万古霉素
+如果beta-内酰类过敏：万古霉素或克林霉素
+髋/膝关节成形术
+头孢唑啉，头孢呋辛，或万古霉素
+如果beta-内酰类过敏：万古霉素或克林霉素
+头孢替坦、头孢西丁、氨苄西林/舒巴坦或厄他培南或头孢唑啉加甲硝唑或头孢呋辛加甲硝唑或头孢曲松加甲硝唑
+如果beta内酰胺类过敏：克林霉素加庆大霉素或克林霉素环丙沙星加或克林霉素加氨曲南或甲硝唑加庆大霉素或甲硝唑加环丙沙星
+子宫切除术
+头孢替坦、头孢唑啉、头孢西丁、头孢呋辛或氨苄西林/舒巴坦
+如果beta内酰胺类过敏：克林霉素加庆大霉素或克林霉素加环丙沙星或克林霉素加氨曲南或甲硝唑加庆大霉素或甲硝唑加环丙沙星或万古霉素加氨基糖苷类或万古霉素加氨曲南或万古霉素加喹诺酮类
+Adapted from theSpecifications Manual for Joint Commission National Quality Core Measures.
+Adapted from theSpecifications Manual for Joint Commission National Quality Core Measures.
+
+【参考文献】
+1.Mioton LM, Jordan SW, Hanwright PJ, Bilimoria KY, Kim JY: The Relationship between Preoperative Wound Classification and Postoperative Infection: A Multi-Institutional Analysis of 15,289 Patients.Arch Plast Surg.2013;40(5):522-529.doi:10.5999/aps.2013.40.5.522
+1.Mioton LM, Jordan SW, Hanwright PJ, Bilimoria KY, Kim JY: The Relationship between Preoperative Wound Classification and Postoperative Infection: A Multi-Institutional Analysis of 15,289 Patients.Arch Plast Surg.2013;40(5):522-529.doi:10.5999/aps.2013.40.5.522
+2.Levy SM, Holzmann-Pazgal G, Lally KP, Davis K, Kao LS, Tsao K: Quality check of a quality measure: surgical wound classification discrepancies impact risk-stratified surgical site infection rates in pediatric appendicitis.J Am Coll Surg.2013;217(6):969-973.doi:10.1016/j.jamcollsurg.2013.07.398
+2.Levy SM, Holzmann-Pazgal G, Lally KP, Davis K, Kao LS, Tsao K: Quality check of a quality measure: surgical wound classification discrepancies impact risk-stratified surgical site infection rates in pediatric appendicitis.J Am Coll Surg.2013;217(6):969-973.doi:10.1016/j.jamcollsurg.2013.07.398
+3.PREP-IT Investigators: Aqueous skin antisepsis before surgical fixation of open fractures (Aqueous-PREP): a multiple-period, cluster-randomised, crossover trial [published correction appears inLancet400(10369):2198, 2023].Lancet400(10360):1334-1344, 2022.doi:10.1016/S0140-6736(22)01652-X
+3.PREP-IT Investigators: Aqueous skin antisepsis before surgical fixation of open fractures (Aqueous-PREP): a multiple-period, cluster-randomised, crossover trial [published correction appears inLancet400(10369):2198, 2023].Lancet400(10360):1334-1344, 2022.doi:10.1016/S0140-6736(22)01652-X
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Centers for Disease Control and Prevention Guideline for the Prevention of Surgical Site Infection, 2017
+Centers for Disease Control and Prevention Guideline for the Prevention of Surgical Site Infection, 2017
+Global Guidelines for the Prevention of Surgical Site Infection. Geneva: World Health Organization; 2018
+Global Guidelines for the Prevention of Surgical Site Infection. Geneva: World Health Organization; 2018

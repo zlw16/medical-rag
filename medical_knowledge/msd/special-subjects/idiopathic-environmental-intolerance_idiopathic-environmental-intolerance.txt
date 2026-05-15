@@ -1,0 +1,78 @@
+标题：不明原因的环境不耐受
+来源：https://www.msdmanuals.cn/professional/special-subjects/idiopathic-environmental-intolerance/idiopathic-environmental-intolerance
+============================================================
+
+对此病症尚无普遍接受的定义，通常被定义为特发性环境不耐受，即任何数目可鉴定或不可鉴定物质（吸入、接触或摄入）或其他形式的暴露可促发多种症状，但没有临床上可被检测到的器官功能异常或躯体体征 (1) 。
+
+【参考文献】
+1.Idiopathic environmental intolerances.American Academy of Allergy, Asthma and Immunology (AAAAI) Board of Directors.J Allergy Clin Immunol.1999;103(1 Pt 1):36-40.
+1.Idiopathic environmental intolerances.American Academy of Allergy, Asthma and Immunology (AAAAI) Board of Directors.J Allergy Clin Immunol.1999;103(1 Pt 1):36-40.
+
+【特发性环境不耐受的病因】
+
+【触发因素】
+特异性环境不耐受的触发因素如下：
+酒精和毒品
+酒精和毒品
+咖啡因及其食品添加剂
+咖啡因及其食品添加剂
+地毯或者家具的气味
+地毯或者家具的气味
+汽油味或者发动机尾气
+汽油味或者发动机尾气
+油漆物件
+油漆物件
+香水或者其他芳香产品
+香水或者其他芳香产品
+杀虫剂或者除草剂
+杀虫剂或者除草剂
+移动通讯设备
+移动通讯设备
+免疫性的或非免疫性的，被提出用来解释。由于对可疑的致病物缺乏持续稳定的剂量反应，这些理论遇到了障碍，如接触高剂量物质后没有复制出症状，而其之前接触低剂量物质时即能促发反应。另外，也缺乏与症状有关的系统性炎症、细胞因子分泌或免疫系统活化等稳定的证据。许多医师认为其病因是心理性的，是躯体感觉异常的一种。其他迹象表明这种症状可能是广场恐怖或恐慌发作）的一种。
+特发性环境不耐受症在40%的慢性疲劳综合征（也称为肌痛性脑脊髓炎/慢性疲劳综合征[ME/CFS]）患者和16%的纤维肌痛患者中发生（1）。不明原因的环境不耐受在女性中发病率更高
+尽管少有实验室检测结果异常（例如B淋巴细胞较少，而IgE较高），也确有部分患者有如此表现。然而，这些异常的出现没有一个统一的模式，它们的意义是不确定的，而且不应该通过检测这些异常来建立疾病的免疫学基础。
+
+【病因参考文献】
+1.Jason LA, Taylor RR, Kennedy CL: Chronic fatigue syndrome, fibromyalgia, and multiple chemical sensitivities in a community-based sample of persons with chronic fatigue syndrome-like symptoms.Psychosom Med.2000;62(5):655-663.doi:10.1097/00006842-200009000-00009
+1.Jason LA, Taylor RR, Kennedy CL: Chronic fatigue syndrome, fibromyalgia, and multiple chemical sensitivities in a community-based sample of persons with chronic fatigue syndrome-like symptoms.Psychosom Med.2000;62(5):655-663.doi:10.1097/00006842-200009000-00009
+
+【特发性环境不耐受的症状和体征】
+特发性环境不耐受的症状（如心悸，胸痛，出汗，气短，疲劳，潮红，头晕，恶心，窒息，颤抖，麻木，咳嗽，声音嘶哑，注意力难以集中）很多，通常涉及多个器官系统。
+大多数患者有自我认定或医师认定（在他既往发作时）的可疑物质清单。他们为了避免接触这些物质可以进行长期不懈的努力，包括更换住所或工作，不吃可能含有“化学物”的食品，有时在公众场合戴口罩或避免参加公众活动聚会等。然而他们的体格检查的结果常无特征性。
+
+【特发性环境不耐受的诊断】
+排除其他原因
+排除其他原因
+特发性环境不耐受的诊断最初包括排除具有相似表现的已知疾病：
+过敏（例如，过敏性鼻炎，食物过敏）
+过敏（例如，过敏性鼻炎，食物过敏）
+特应性疾病（如哮喘、，血管神经性水肿）
+特应性疾病（如哮喘、，血管神经性水肿）
+建筑物相关性疾病
+建筑物相关性疾病
+内分泌性疾病（如类癌综合征、嗜铬细胞瘤、肥大细胞增多症）
+内分泌性疾病（如类癌综合征、嗜铬细胞瘤、肥大细胞增多症）
+依据典型的病史资料、皮肤点刺试验、血清特异性IgE或者以上所有三点，可除外特应性疾病。咨询变态反应科专家可能会有帮助。建筑物相关的疾病也应该被考虑，包括许多人由于在同一个建筑物内花费时间可出现症状。
+如果没有强烈提示结缔组织或系统性自身免疫风湿性疾病的症状或体征（如，关节、皮肤和/或黏膜的临床表现），不应广泛的检测自身抗体（例如，抗核抗体[ANA]、类风湿因子、可溶性抗原[ENA]）。在这种情况下，预测概率很低，且假阳性结果远比真阳性结果的可能性大。
+
+【特发性环境不耐受的治疗】
+有时候，避免可以的触发因素
+有时候，避免可以的触发因素
+心理治疗
+心理治疗
+尽管因果关系不确定，但特发性环境不耐受的治疗有时旨在避免可疑的诱发因素，但这可能很困难，因为许多因素无处不在。但不提倡社会隔离、或昂贵的破坏性的“躲避”行为。与初级保健医生保持联系是有帮助的，可确保患者免受不必要的检测和程序。
+心理评估和干预可能有助于患者克服一些回避行为（1)，但很多患者的特点是抵制这种方法。然而寻求心理治疗并不是告诉患者本病症的病因是心理源性的，而是帮助他们处理疾患，提高生活质量 (2)。有用的技术包括心理脱敏（通常作为认知行为疗法的一部分）（2）和分级曝光（见特定恐惧症的治疗）。精神活性药物针对同时存在的精神疾病（如严重抑郁、惊恐障碍）。
+
+【治疗参考文献】
+1.Binkley KE: Multiple Chemical Sensitivity/Idiopathic Environmental Intolerance: A Practical Approach to Diagnosis and Management.J Allergy Clin Immunol Pract.2023;11(12):3645-3649.doi:10.1016/j.jaip.2023.08.039
+1.Binkley KE: Multiple Chemical Sensitivity/Idiopathic Environmental Intolerance: A Practical Approach to Diagnosis and Management.J Allergy Clin Immunol Pract.2023;11(12):3645-3649.doi:10.1016/j.jaip.2023.08.039
+2.Hauge CR, Rasmussen A, Piet J, et al: Mindfulness-based cognitive therapy (MBCT) for multiple chemical sensitivity (MCS): Results from a randomized controlled trial with 1 year follow-up.J Psychosom Res79(6):628-634, 2015.doi: 10.1016/jpsychores.2015.06.010
+2.Hauge CR, Rasmussen A, Piet J, et al: Mindfulness-based cognitive therapy (MBCT) for multiple chemical sensitivity (MCS): Results from a randomized controlled trial with 1 year follow-up.J Psychosom Res79(6):628-634, 2015.doi: 10.1016/jpsychores.2015.06.010
+特发性环境不耐受无法用非心理因素来解释。
+特发性环境不耐受无法用非心理因素来解释。
+对于诊断，应排除可能具有类似间歇性表现的疾病（例如，过敏性疾病），并考虑与建筑相关的疾病。
+对于诊断，应排除可能具有类似间歇性表现的疾病（例如，过敏性疾病），并考虑与建筑相关的疾病。
+仅在客观临床或实验室检查结果提示时，才进行免疫异常检测。
+仅在客观临床或实验室检查结果提示时，才进行免疫异常检测。
+鼓励心理治疗（例如脱敏、分级暴露）和应对技巧；对共存的精神疾病进行药物治疗和行为治疗也可能有益。
+鼓励心理治疗（例如脱敏、分级暴露）和应对技巧；对共存的精神疾病进行药物治疗和行为治疗也可能有益。

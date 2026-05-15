@@ -1,0 +1,54 @@
+标题：水飞蓟
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/milk-thistle
+============================================================
+
+水飞蓟（Silybum marianum）是一种开紫花的植物。它的汁液和种子含有活性成分水飞蓟素，一种有效的抗氧化剂，也是可以与水飞蓟互换使用的名词。水飞蓟素，可以进一步分成3个主要的类黄酮：水飞蓟宾，异水飞蓟素，和水飞蓟亭。水飞蓟提取物应标准化为含有80％的水飞蓟素。
+
+【奶蓟草的功效宣称】
+水飞蓟被认为可用于治疗肝硬化，对病毒、酒精、肝毒性药物的肝脏损伤也有保护作用(1)。水飞蓟有助于2型糖尿病(2)的血糖控制，降低蘑菇中毒的死亡率，同时有个别报道并无降低蘑菇中毒的作用(3)。
+
+【奶蓟草的证据】
+2007年对13个随机临床试验进行了Cochrane系统评价，评估水飞蓟在915例酒精和/或乙型或丙型肝炎病毒引起的肝脏疾病中的作用 (4)。 该分析结果发现干预因素对全因死亡率，肝脏疾病并发症，或肝组织学没有显著影响。当所有的试验都纳入分析，肝脏相关的死亡率显著减少;然而，在限于高质量的研究分析中，这种减少并不显著。水飞蓟与显著增加的不良影响无关。这些临床试验的设计也存在问题，作者质疑水飞蓟的益处，建议需要更多精心设计的安慰剂对照研究。
+一项关于奶蓟草治疗丙型肝炎的随机对照研究的荟萃分析报告说，虽然耐受性良好，但并没有提供整体益处 (5)。 在体外，水飞蓟素能增加肝内谷胱甘肽水平，后者是一种抗氧化剂，具有重要解毒作用 (6)。
+一项针对52名等待减重手术的病态肥胖患者进行的为期8周的奶蓟草试验，用于治疗代谢功能障碍相关脂肪性肝病（MASLD；曾称非酒精性脂肪性肝病），结果显示肝酶指标有所改善，但FibroScan分期和Fib-4评分未见变化（7）。
+一项包含 2375 名患者的 26 项随机试验的荟萃分析评估了奶蓟草对非酒精性脂肪性肝病患者的影响，报告显示其降低了脂肪肝指数水平、脂肪肝评分和肝酶水平，并在肝脏组织学上减少了肝脂肪变性 (8)。
+多项综述显示，水飞蓟对血糖和血脂水平的改善作用显著。一项对7项研究（370名患者）的荟萃分析发现，水飞蓟可使空腹血糖显著降低37.9mg/dL（2.1mmol/L），糖化血红蛋白降低1.4%（2）。另一项纳入 16 项研究（1358 例患者）的 Meta 分析报道，奶蓟草可降低空腹血糖、糖化血红蛋白（HbA1C）、总胆固醇及低密度脂蛋白胆固醇（9）。
+病例报告中，有 2 例鹅膏菌中毒病例（3) 在用水飞蓟宾治疗后显示出良好的效果，水飞蓟宾被认为可以促进肝细胞生长并抑制肝脏氧化。
+
+【水飞蓟的不良反应】
+尽管可能会出现胃肠不适，但尚未报告严重不良反应。此外，对菊花、万寿菊和雏菊过敏的人也可能对水飞蓟产生过敏反应。
+处于激素敏感状态的女性（如乳腺、子宫和卵巢肿瘤;子宫内膜异位;子宫肌瘤）需避免服用水飞蓟的地上部分。
+
+【奶蓟的药物相互作用】
+水飞蓟可能会增强抗高血糖药物的作用（10)，并可能干扰蛋白酶抑制剂（如茚地那韦、沙奎那韦）（11)。奶蓟草可能会增加服用华法林的病人的国际正常化比率（INR）。
+奶蓟草也可能降低肝功能受损的肾移植患者对西罗莫司的清除率。
+(参考表一些可能的膳食补充剂-药物相互作用。）
+
+【参考文献】
+1.Abenavoli L, Izzo AA, Milic N, et al.Milk thistle (Silybum marianum): a concise overview on its chemistry, pharmacological, and nutraceutical uses in liver diseases.Phytother Res.32(11):2202-2213, 2018.doi: 10.1002/ptr.6171
+1.Abenavoli L, Izzo AA, Milic N, et al.Milk thistle (Silybum marianum): a concise overview on its chemistry, pharmacological, and nutraceutical uses in liver diseases.Phytother Res.32(11):2202-2213, 2018.doi: 10.1002/ptr.6171
+2.Hadi A, Pourmasoumi M, Mohammadi H, et al.The effects of silymarin supplementation on metabolic status and oxidative stress in patients with type 2 diabetes mellitus: a systematic review and meta-analysis of clinical trials.Complement Ther Med.41:311-319, 2018.doi: 10.1016/j.ctim.2018.08.010
+2.Hadi A, Pourmasoumi M, Mohammadi H, et al.The effects of silymarin supplementation on metabolic status and oxidative stress in patients with type 2 diabetes mellitus: a systematic review and meta-analysis of clinical trials.Complement Ther Med.41:311-319, 2018.doi: 10.1016/j.ctim.2018.08.010
+3.Ward J, Kapadia K, Brush E, et al.Amatoxin poisoning: case reports and review of current therapies.J Emerg Med.44(1):116-121, 2013. doi: 10.1016/j.jemermed.2012.02.020
+3.Ward J, Kapadia K, Brush E, et al.Amatoxin poisoning: case reports and review of current therapies.J Emerg Med.44(1):116-121, 2013. doi: 10.1016/j.jemermed.2012.02.020
+4.Rambaldi A, Jacobs BP, Gluud C.Milk thistle for alcoholic and/or hepatitis B or C virus liver diseases.Cochrane Database Syst Rev.(4)CD003620, 2007.doi: 10.1002/14651858.CD003620.pub3
+4.Rambaldi A, Jacobs BP, Gluud C.Milk thistle for alcoholic and/or hepatitis B or C virus liver diseases.Cochrane Database Syst Rev.(4)CD003620, 2007.doi: 10.1002/14651858.CD003620.pub3
+5.Yang Z, Zhuang L, Lu Y, et al.Effects and tolerance of silymarin (milk thistle) in chronic hepatitis C virus infection patients: a meta-analysis of randomized controlled trials.Biomed Res Int.941085, 2014.doi: 10.1155/2014/941085
+5.Yang Z, Zhuang L, Lu Y, et al.Effects and tolerance of silymarin (milk thistle) in chronic hepatitis C virus infection patients: a meta-analysis of randomized controlled trials.Biomed Res Int.941085, 2014.doi: 10.1155/2014/941085
+6.Valenzuela A, Aspillaga M, Vial S, et al.Selectivity of silymarin on the increase of the glutathione content in different tissues of the rat.Planta Med.55(5):420-422, 1989.doi: 10.1055/s-2006-962056
+6.Valenzuela A, Aspillaga M, Vial S, et al.Selectivity of silymarin on the increase of the glutathione content in different tissues of the rat.Planta Med.55(5):420-422, 1989.doi: 10.1055/s-2006-962056
+7.Mirhashemi SH, Hakakzadeh A, Yeganeh FE, Oshidari B, Rezaee SP.Effect of 8 Weeks milk thistle powder (silymarin extract) supplementation on fatty liver disease in patients candidates for bariatric surgery.Metabol Open.2022 May 21;14:100190.doi: 10.1016/j.metop.2022.100190
+7.Mirhashemi SH, Hakakzadeh A, Yeganeh FE, Oshidari B, Rezaee SP.Effect of 8 Weeks milk thistle powder (silymarin extract) supplementation on fatty liver disease in patients candidates for bariatric surgery.Metabol Open.2022 May 21;14:100190.doi: 10.1016/j.metop.2022.100190
+8.Li S, Duan F, Li S, Lu B.Administration of silymarin in NAFLD/NASH: A systematic review and meta-analysis.Ann Hepatol.2024 Mar-Apr;29(2):101174.doi: 10.1016/j.aohep.2023.101174
+8.Li S, Duan F, Li S, Lu B.Administration of silymarin in NAFLD/NASH: A systematic review and meta-analysis.Ann Hepatol.2024 Mar-Apr;29(2):101174.doi: 10.1016/j.aohep.2023.101174
+9.Xiao F, Gao F, Zhou S, et al.The therapeutic effects of silymarin for patients with glucose/lipid metabolic dysfunction: a meta-analysis.Medicine (Baltimore).99(40):e22249, 2020.doi:10.1097/MD.0000000000022249
+9.Xiao F, Gao F, Zhou S, et al.The therapeutic effects of silymarin for patients with glucose/lipid metabolic dysfunction: a meta-analysis.Medicine (Baltimore).99(40):e22249, 2020.doi:10.1097/MD.0000000000022249
+10.Wu JW, Lin LC, Tsai TH.Drug-drug interactions of silymarin on the perspective of pharmacokinetics.J Ethnopharmacol.121(2):185-193, 2009.doi: 10.1016/j.jep.2008.10.036
+10.Wu JW, Lin LC, Tsai TH.Drug-drug interactions of silymarin on the perspective of pharmacokinetics.J Ethnopharmacol.121(2):185-193, 2009.doi: 10.1016/j.jep.2008.10.036
+11.Jalloh MA, Gregory PJ, Hein D, et al.Dietary supplement interactions with antiretrovirals: a systematic review.Int J STD AIDS.28(1):4-15, 2017.doi: 10.1177/0956462416671087
+11.Jalloh MA, Gregory PJ, Hein D, et al.Dietary supplement interactions with antiretrovirals: a systematic review.Int J STD AIDS.28(1):4-15, 2017.doi: 10.1177/0956462416671087
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Milk Thistle
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Milk Thistle

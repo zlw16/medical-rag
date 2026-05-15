@@ -1,0 +1,38 @@
+标题：颅内感染介绍
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/brain-infections/introduction-to-brain-infections
+============================================================
+
+脑部感染可由病毒、细菌、真菌或偶尔由原生动物或寄生虫引起。
+脑炎最常见的原因是病毒，如单纯疱疹病毒、带状疱疹病毒、肠病毒（1）或西尼罗病毒。
+感染如JC病毒引起的进行性多灶性白质脑病或麻疹病毒引起的亚急性硬化性全脑炎的特征是潜伏期和病程均较长。
+SARS-CoV-2 感染可导致脑病，尽管这种病毒在大多数情况下不会发生神经入侵（2）。
+某些非传染性疾病的表现类似脑炎。例如，自身免疫性疾病抗NMDA（N-甲基-d- 天冬氨酸）受体脑炎，这是一种针对神经元膜蛋白的自身免疫攻击。
+脑部感染通常还涉及中枢神经系统 (CNS) 的其他部分，包括脊髓。大脑和脊髓通常受到保护，不会受到感染，但一旦受到感染，后果往往非常严重。
+感染可能会导致脑膜发炎（脑膜炎）。  通常，细菌性脑膜炎会扩散到大脑，引起脑炎，主要感染脑实质。 同样，引起脑炎的病毒感染通常也会引起脑膜炎。从技术上讲，当大脑和脑膜都被感染时，这种疾病被称为脑膜脑炎。然而，脑膜炎一词通常用来指主要影响脑膜的感染，而脑炎一词通常用来指主要影响脑实质的感染。
+CNS感染可表现为
+弥漫性脑实质感染，导致脑炎，有时会影响大脑的特定区域
+弥漫性脑实质感染，导致脑炎，有时会影响大脑的特定区域
+大脑炎症继发于脑膜感染或传染性感染
+大脑炎症继发于脑膜感染或传染性感染
+局灶性或多灶性感染（例如，由于脑脓肿、脓胸或真菌或寄生虫脑感染，如猪带绦虫导致的神经囊尾蚴病)
+局灶性或多灶性感染（例如，由于脑脓肿、脓胸或真菌或寄生虫脑感染，如猪带绦虫导致的神经囊尾蚴病)
+HIV感染和朊病毒病也会累及大脑。
+大脑受累也可能是感染后机制的一种表现，例如急性播散性脑脊髓炎。
+细菌和其他传染性生物可以通过多种方式到达大脑和脑膜：
+血行播散
+血行播散
+脑贯通伤（包括神经外科手术）
+脑贯通伤（包括神经外科手术）
+颅内感染的直接扩展（例如，鼻窦炎,骨髓炎)
+颅内感染的直接扩展（例如，鼻窦炎,骨髓炎)
+沿感觉神经元的逆向运输（3）
+沿感觉神经元的逆向运输（3）
+多种脑部感染（例如脑脓肿、颅内硬膜外脓肿、硬膜下脓肿）可出现脑部感染的许多症状和体征（例如急性或亚急性迟钝、癫痫发作、局灶性神经功能缺损、颅内压升高的体征）；因此，神经影像学通常是区分感染所必需的。
+
+【参考文献】
+1.Chen BS, Lee HC, Lee KM, et al: Enterovirus and encephalitis.Front Microbiol1:261, 2020.doi: 10.3389/fmicb.2020.00261
+1.Chen BS, Lee HC, Lee KM, et al: Enterovirus and encephalitis.Front Microbiol1:261, 2020.doi: 10.3389/fmicb.2020.00261
+2.Meinhardt J, Streit S, Dittmayer C, et al: The neurobiology of SARS-CoV-2 infection.Nat Rev Neurosci5(1):30-42, 2024.doi: 10.1038/s41583-023-00769-8
+2.Meinhardt J, Streit S, Dittmayer C, et al: The neurobiology of SARS-CoV-2 infection.Nat Rev Neurosci5(1):30-42, 2024.doi: 10.1038/s41583-023-00769-8
+3.Cain MD, Salimi H, Diamond MS, et al: Mechanisms of pathogen invasion into the central nervous system.Neuron103(5):771-783, 2019.doi: 10.1016/j.neuron.2019.07.015
+3.Cain MD, Salimi H, Diamond MS, et al: Mechanisms of pathogen invasion into the central nervous system.Neuron103(5):771-783, 2019.doi: 10.1016/j.neuron.2019.07.015

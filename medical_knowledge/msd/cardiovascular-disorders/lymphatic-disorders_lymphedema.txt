@@ -1,0 +1,127 @@
+标题：淋巴水肿
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/lymphatic-disorders/lymphedema
+============================================================
+
+(参见淋巴系统的概述。）
+
+【淋巴水肿的病因】
+淋巴水肿可能是
+原发性：由于淋巴管发育不良
+原发性：由于淋巴管发育不良
+继发性：由于淋巴管阻塞或破裂
+继发性：由于淋巴管阻塞或破裂
+
+【原发性淋巴水肿】
+原发性淋巴水肿具有遗传性，仅占淋巴水肿病例的一小部分。它们的表型和患者发病年龄各不相同，但主要累及下肢 (1)。
+先天性淋巴水肿在2岁前就有表现，系淋巴管不发育或发育不全所致。Milroy 病是一种常染色体显性遗传的家族性先天性淋巴水肿，与血管内皮生长因子受体-3 (VEGFR-3) 基因突变有关，有时伴有胆汁淤积性黄疸，以及因肠淋巴管扩张引起的蛋白丢失性肠病导致的水肿或腹泻 (2)。
+早发性淋巴水肿出现在年龄2岁至35岁之间，典型地发生在女性的月经初潮或妊娠时。
+Meige病是一种常染色体显性遗传的家族性早发性淋巴水肿，由转录因子基因 (FOXC2) 突变引起，该基因会导致额外的睫毛（双行睫毛）、腭裂以及腿部、手臂，有时还会影响面部的水肿 (3)。
+缓发性淋巴水肿发生在35岁以后。有家族型和散发型；两者的遗传基础不明。临床发现类似于早发性淋巴水肿，但可能较不严重。
+淋巴水肿是在其他一些遗传综合征的突出体征，其中包括
+Turner综合征
+Turner综合征
+黄甲综合征，特点是胸腔积液和黄色的指甲
+黄甲综合征，特点是胸腔积液和黄色的指甲
+Hennekam综合征，一种罕见的先天性综合征，表现为肠道和其他部位淋巴管扩张、面部异常和智力障碍
+Hennekam综合征，一种罕见的先天性综合征，表现为肠道和其他部位淋巴管扩张、面部异常和智力障碍
+
+【继发性淋巴水肿】
+继发性淋巴水肿占>95%的病例。
+最常见的病因为：
+手术（尤其是淋巴结清扫术，常用于治疗乳腺癌）
+手术（尤其是淋巴结清扫术，常用于治疗乳腺癌）
+放射治疗（尤其是腋窝或腹股沟）
+放射治疗（尤其是腋窝或腹股沟）
+肿瘤引起淋巴阻塞
+肿瘤引起淋巴阻塞
+淋巴丝虫病（存在于一些热带和亚热带地区）
+淋巴丝虫病（存在于一些热带和亚热带地区）
+在患有慢性静脉功能不全的患者中，淋巴液渗漏到间质组织也可能导致轻度淋巴水肿。
+
+【病因参考文献】
+1.Schook CC, Mulliken JB, Fishman SJ, Grant FD, Zurakowski D, Greene AK.Primary lymphedema: clinical features and management in 138 pediatric patients.Plast Reconstr Surg2011;127(6):2419-2431.doi:10.1097/PRS.0b013e318213a218
+1.Schook CC, Mulliken JB, Fishman SJ, Grant FD, Zurakowski D, Greene AK.Primary lymphedema: clinical features and management in 138 pediatric patients.Plast Reconstr Surg2011;127(6):2419-2431.doi:10.1097/PRS.0b013e318213a218
+2.Van Zanten M, Mansour S, Ostergaard P, et al.Milroy Disease.2006 Apr 27 [Updated 2021 Feb 18].In: Adam MP, Feldman J, Mirzaa GM, et al., editors.GeneReviews® [Internet].Seattle (WA): University of Washington, Seattle; 1993-2024. Available from: https://www.ncbi.nlm.nih.gov/books/NBK1239/
+2.Van Zanten M, Mansour S, Ostergaard P, et al.Milroy Disease.2006 Apr 27 [Updated 2021 Feb 18].In: Adam MP, Feldman J, Mirzaa GM, et al., editors.GeneReviews® [Internet].Seattle (WA): University of Washington, Seattle; 1993-2024. Available from: https://www.ncbi.nlm.nih.gov/books/NBK1239/
+3.Wheeler ES, Chan V, Wassman R, Rimoin DL, Lesavoy MA.Familial lymphedema praecox: Meige's disease.Plast Reconstr Surg1981;67(3):362-364.doi:10.1097/00006534-198103000-00016
+3.Wheeler ES, Chan V, Wassman R, Rimoin DL, Lesavoy MA.Familial lymphedema praecox: Meige's disease.Plast Reconstr Surg1981;67(3):362-364.doi:10.1097/00006534-198103000-00016
+
+【淋巴水肿的症状和体征】
+淋巴水肿的症状包括疼痛不适和沉重或饱胀感。
+主要的体征是软组织水肿，被分成3期。
+第1期：水肿呈凹陷性，受累区域常到早晨时恢复正常。
+第1期：水肿呈凹陷性，受累区域常到早晨时恢复正常。
+第2期：水肿为非凹陷性，慢性软组织炎症引起早期纤维化。
+第2期：水肿为非凹陷性，慢性软组织炎症引起早期纤维化。
+第3期：水肿是密实、不可逆的，很大程度上是因为软组织纤维化。
+第3期：水肿是密实、不可逆的，很大程度上是因为软组织纤维化。
+肿胀常为单侧的，可能在天气温暖、月经来临前和肢体长时间处于下垂位置后加重。它可影响肢体的任何部位（局限于近侧或远侧）或整个肢体；当肿胀在关节周围时它可能限制肢体活动的范围。功能障碍和情绪困扰可能很显著，特别是当淋巴水肿是由内科或外科治疗所引起时。
+这张图片显示了一名右（上）臂淋巴水肿患者的手臂。这是乳腺癌手术的结果。
+SCIENCE PHOTO LIBRARY
+常见的皮肤变化包括过度角化、色素沉着、疣、乳头瘤和真菌感染。
+© Springer Science+Business Media
+罕见情况下，受影响的肢体变得非常粗大，并且严重过度角化，呈象皮样外观（象皮病）。这种表现在丝虫病中比其他原因的淋巴水肿更为常见。
+可能发生淋巴管炎，通常是由于细菌通过足趾之间的皮肤裂口（由真菌感染引起）或手部伤口进入。淋巴管炎通常是链球菌引起的丹毒；有时是葡萄球菌引起的。患肢出现红斑（深色皮肤患者可能仅表现为局部暗沉）并感觉发热；红斑条纹可能从入口处向近端延伸，并且可能发生淋巴结肿大。很少有皮肤破裂，这可能导致局部感染或蜂窝织炎。
+极少数情况下，长期淋巴水肿会导致淋巴管肉瘤（Stewart-Treves 综合征），通常见于乳房切除术后的患者(1)和丝虫病患者(2)。
+
+【症状和体征参考】
+1.Taşdemir A, Karaman H, Ünal D, Mutlu H.Stewart-Treves Syndrome after Bilateral Mastectomy and Radiotherapy for Breast Carcinoma: Case Report.J Breast Health2015;11(2):92-94.Published 2015 Apr 1.doi:10.5152/tjbh.2015.1604
+1.Taşdemir A, Karaman H, Ünal D, Mutlu H.Stewart-Treves Syndrome after Bilateral Mastectomy and Radiotherapy for Breast Carcinoma: Case Report.J Breast Health2015;11(2):92-94.Published 2015 Apr 1.doi:10.5152/tjbh.2015.1604
+2.Kamat A, Chinder PS, Hindiskere S, Gopurathingal AA.Angiosarcoma in Chronic Filarial Lymphedema - A Report of Two Cases.J Orthop Case Rep2022;12(8):110-114.doi:10.13107/jocr.2022.v12.i08.2988
+2.Kamat A, Chinder PS, Hindiskere S, Gopurathingal AA.Angiosarcoma in Chronic Filarial Lymphedema - A Report of Two Cases.J Orthop Case Rep2022;12(8):110-114.doi:10.13107/jocr.2022.v12.i08.2988
+
+【淋巴水肿的诊断】
+临床诊断
+临床诊断
+病因不明时行CT或MRI
+病因不明时行CT或MRI
+根据全身特征性的软组织水肿以及病史和体格检查的其他信息，通常可以明确诊断出原发性淋巴水肿。
+继发性淋巴水肿的诊断通过体格检查也常易发现。当怀疑继发性淋巴水肿时有指征作进一步检查，除非诊断和病因很明确。CT和MRI可确定淋巴阻塞的部位；放射性核素淋巴闪烁检查可确定淋巴发育不全或淋巴液流动缓慢。
+可以通过测量肢体周长、测量浸没肢体排出的水量或使用皮肤或软组织张力测定法（测量抗压性）来监测病情进展；但这些检查尚未得到验证。
+在存在感染性微丝蚴的热带和亚热带地区，应进行淋巴丝虫病的检测。
+如果淋巴水肿比预期严重得多（例如，在淋巴结清扫的基础上）或出现在女性乳腺癌治疗延迟后，需要考虑癌症复发。
+
+【淋巴水肿的治疗】
+有时对原发性淋巴水肿进行手术软组织缩小和重建
+有时对原发性淋巴水肿进行手术软组织缩小和重建
+促进液体回流（例如，通过抬高患肢和加压、按摩、压力绷带、间歇性气动加压）
+促进液体回流（例如，通过抬高患肢和加压、按摩、压力绷带、间歇性气动加压）
+如果生活质量明显降低，原发性淋巴水肿的治疗可能包括手术软组织减缩术（祛除皮下脂肪和纤维组织）和重建术。
+继发性淋巴水肿的治疗涉及处理原发原因。
+对淋巴水肿本身，可采用数种干预措施以使液体流动（复合消肿疗法）这些措施包括
+手法淋巴引流，即将肢体抬高并向心脏方向进行按压（"挤奶"式操作）
+手法淋巴引流，即将肢体抬高并向心脏方向进行按压（"挤奶"式操作）
+梯度压力绷带或套筒
+梯度压力绷带或套筒
+肢体训练
+肢体训练
+肢体按摩，包括间歇充气加压
+肢体按摩，包括间歇充气加压
+外科软组织修复术，有时进行试验性淋巴管再吻合和引流通道成形术，但还未进行大规模的研究 (1)。
+预防措施包括避免热敷、剧烈运动、长时间久坐以及在患肢周围穿戴紧身衣物（包括血压袖带）。皮肤和指甲护理需要仔细的注意；应避免在受累肢体进行预防接种、静脉切开术和静脉内插管。
+
+【经验与提示】
+经验与提示
+避免在受淋巴水肿影响的肢体进行疫苗接种、静脉穿刺和静脉置管操作。
+避免在受淋巴水肿影响的肢体进行疫苗接种、静脉穿刺和静脉置管操作。
+蜂窝织炎和淋巴管炎用耐β-内酰胺酶且对革兰氏阳性菌有效的抗生素（如双氯西林）治疗。
+
+【治疗参考文献】
+1.Executive Committee of the International Society of Lymphology.The diagnosis and treatment of peripheral lymphedema: 2020 Consensus Document of the International Society of Lymphology. Lymphology.2020;53(1):3-19.
+1.Executive Committee of the International Society of Lymphology.The diagnosis and treatment of peripheral lymphedema: 2020 Consensus Document of the International Society of Lymphology. Lymphology.2020;53(1):3-19.
+
+【淋巴水肿的预后】
+一旦发生淋巴水肿，常不能治愈。细致的治疗和可能的预防措施可减轻症状、减慢或阻止疾病的进展和预防并发症。
+继发性淋巴水肿（由于淋巴管阻塞或破裂）比原发性淋巴水肿（归因于淋巴发育不全）更常见。
+继发性淋巴水肿（由于淋巴管阻塞或破裂）比原发性淋巴水肿（归因于淋巴发育不全）更常见。
+象皮病（受淋巴水肿影响的肢体皮肤极度角化过度）是淋巴水肿的严重表现，通常由淋巴丝虫病引起。
+象皮病（受淋巴水肿影响的肢体皮肤极度角化过度）是淋巴水肿的严重表现，通常由淋巴丝虫病引起。
+淋巴水肿治愈率不高，但是治疗可以减轻症状，减缓或阻止疾病进展并预防并发症。
+淋巴水肿治愈率不高，但是治疗可以减轻症状，减缓或阻止疾病进展并预防并发症。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Lymphedema Network.Position papers intended to standardize clinical education and practice
+National Lymphedema Network.Position papers intended to standardize clinical education and practice
+McLaughlin SA, Staley AC, Vicini F, et al.Considerations for Clinicians in the Diagnosis, Prevention, and Treatment of Breast Cancer-Related Lymphedema: Recommendations from a Multidisciplinary Expert ASBrS Panel : Part 1: Definitions, Assessments, Education, and Future Directions.Ann Surg Oncol2017;24(10):2818-2826.doi:10.1245/s10434-017-5982-4
+McLaughlin SA, Staley AC, Vicini F, et al.Considerations for Clinicians in the Diagnosis, Prevention, and Treatment of Breast Cancer-Related Lymphedema: Recommendations from a Multidisciplinary Expert ASBrS Panel : Part 1: Definitions, Assessments, Education, and Future Directions.Ann Surg Oncol2017;24(10):2818-2826.doi:10.1245/s10434-017-5982-4

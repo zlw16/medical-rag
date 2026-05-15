@@ -1,0 +1,197 @@
+标题：危重病人的监护和检测
+来源：https://www.msdmanuals.cn/professional/critical-care-medicine/approach-to-the-critically-ill-patient/monitoring-and-testing-the-critical-care-patient
+============================================================
+
+对重症患者的监测可为间断性，主要依赖直接观察与体格检查，其监测频率取决于患者病情的严重程度。其他类型的监测是连续的，由无创（如脉搏血氧仪）或有创（如中心静脉导管）设备提供。监测设备在检测到异常生理参数时通常会发出警报。每个重症监护室（ICU）都应遵循严格的规范，以确定适当的监测，以确保及时响应警报（1）。随着重症监护设备的不断进步以及警报数量与频率的增加，“警报疲劳”现象逐渐被认识到——其指 ICU 医护人员长期过度暴露于监护警报之下，导致对警报的反应性下降，出现麻木，从而可能造成警报漏听或反应延迟（2）。
+监测内容一般包括：生命体征（体温、血压、脉搏、呼吸频率）、血氧饱和度（通常通过经皮脉搏血氧仪测定）、所有液体的摄入与排出量统计、每日体重记录，以及根据临床情况选择的其他监测指标（例如颅内压、肺循环或心脏血压等）。 血压可以通过自动血压计记录，也可以使用动脉导管进行连续血压监测。
+
+【参考文献】
+1.Sandau KE, Funk M, Auerbach A, et al.Update to Practice Standards for Electrocardiographic Monitoring in Hospital Settings: A Scientific Statement From the American Heart Association.Circulation.2017;136(19):e273-e344.doi:10.1161/CIR.0000000000000527
+1.Sandau KE, Funk M, Auerbach A, et al.Update to Practice Standards for Electrocardiographic Monitoring in Hospital Settings: A Scientific Statement From the American Heart Association.Circulation.2017;136(19):e273-e344.doi:10.1161/CIR.0000000000000527
+2.Lewandowska K, Weisbrot M, Cieloszyk A, Mędrzycka-Dąbrowska W, Krupa S, Ozga D.Impact of Alarm Fatigue on the Work of Nurses in an Intensive Care Environment-A Systematic Review.Int J Environ Res Public Health.2020;17(22):8409.Published 2020 Nov 13.doi:10.3390/ijerph17228409
+2.Lewandowska K, Weisbrot M, Cieloszyk A, Mędrzycka-Dąbrowska W, Krupa S, Ozga D.Impact of Alarm Fatigue on the Work of Nurses in an Intensive Care Environment-A Systematic Review.Int J Environ Res Public Health.2020;17(22):8409.Published 2020 Nov 13.doi:10.3390/ijerph17228409
+
+【血液检测】
+重症监护病房（ICU）患者通常每日常规进行血液检查。一般来说，实验室检查的重点是临床情况，可能包括全血细胞计数（CBC）、肾功能和肝功能以及电解质（如钠、钾、镁、磷酸盐和电离钙）（1）。接受肠外营养的患者需要监测肝功能和凝血情况，以监测肠外营养相关的肝脏疾病（2）。其他检查（如怀疑感染时的血培养）则根据需要进行。然而，频繁的静脉采血会引起疼痛，并可能导致医源性贫血。置入中心静脉导管或动脉导管可方便采血，避免多次外周静脉穿刺，但必须权衡其潜在并发症风险。
+即时检测（POCT）设备可用于部分血液检查，使检测与结果判读可在患者床旁或病区（尤其是重症监护室、急诊科及手术室）快速完成。常用的床旁检测项目包括血液生化、血糖、动脉血气（ABG）、全血细胞计数（CBC）、心脏标志物以及凝血功能检测。多数此类设备可在<2 分钟内提供检测结果，仅需<0.5毫升血液样本。
+
+【血液检测参考】
+1.Eaton KP, Levy K, Soong C, et al.Evidence-Based Guidelines to Eliminate Repetitive Laboratory Testing.JAMA Intern Med.2017;177(12):1833-1839.doi:10.1001/jamainternmed.2017.5152
+1.Eaton KP, Levy K, Soong C, et al.Evidence-Based Guidelines to Eliminate Repetitive Laboratory Testing.JAMA Intern Med.2017;177(12):1833-1839.doi:10.1001/jamainternmed.2017.5152
+2.Nowak K.Parenteral Nutrition-Associated Liver Disease.Clin Liver Dis (Hoboken).2020;15(2):59-62.doi:10.1002/cld.888
+2.Nowak K.Parenteral Nutrition-Associated Liver Disease.Clin Liver Dis (Hoboken).2020;15(2):59-62.doi:10.1002/cld.888
+
+【心脏监护】
+重症患者的心电监测通常采用三导联系统，信号由患者佩戴的小型无线发射装置传输至中央监护站。自动系统会对异常心率和节律发出报警，并存储异常波形供后续查阅。
+一些专门的心脏监护仪器可以追踪冠脉缺血指标，但临床效果尚不清楚。这些指标包括连续ST段监测和心率变异性。正常的逐拍变异性消失预示自主神经活动降低和可能冠脉缺血，死亡风险增加。
+
+【肺动脉导管（PAC）监测】
+在血流动力学复杂且不稳定的重症监护病房患者中，尤其是伴有心力衰竭的患者，使用肺动脉导管（PAC, 又称 Swan-Ganz 导管）可能具有重要的临床价值。肺动脉导管顶端有球囊，插入中心静脉后，经右心漂浮到达肺动脉。通常导管有数个接口，可用于监测压力或输注液体。有些导管还配有传感器可以测量（混合）静脉血氧饱和度。PAC获取的数据主要用于确定心输出量和前负荷。前负荷通常由肺动脉楔压估测。然而，前负荷可能通过右心室舒张末容积来更准确地确定，该容积使用与心率同步的快反应热敏电阻仪进行测量。
+常规使用肺动脉导管（PAC）并未显示可降低发病率和病死率（1）。这个结果可能与导管并发症以及误读数据有关。尽管如此，仍有医生相信，结合其他客观和临床数据，PAC有助于某些危重病人的治疗。和许多生理学检测一样，数值的动态趋势比单次测定的异常值更有临床意义。肺动脉导管的指征见表肺动脉导管的潜在适应症。
+
+【肺动脉导管的潜在适应症】
+肺动脉导管的潜在适应症
+心脏疾病
+急性瓣膜反流
+心脏填塞
+复杂性心力衰竭
+复杂性心肌梗死
+室间隔破裂
+血流动力学不稳定*
+评估容量状况
+血流动力学监护
+心脏手术
+危重病人的术后监护
+心脏病人的手术及术后监护
+肺部疾病
+复杂性肺栓塞
+肺动脉高压
+*特别是需要正性肌力药物者。
+*特别是需要正性肌力药物者。
+箭头指向正确放置在右肺动脉的Swan-Ganz（肺动脉）导管尖端。
+© 2017 Elliot K.Fishman, MD.
+肺动脉导管 (PAC)经锁骨下静脉（通常为左侧）、颈内静脉（通常为右侧）或较少情况下经股静脉置入。置入时球囊（位于导管尖端）处于放气状态。当导管尖端到达上腔静脉时，将球囊充气，使血流引导导管前行。导管尖端的位置通常通过监测心腔及大血管内压力确定（见表心脏与大血管的正常压力），必要时可借助透视确认。
+当收缩压突然升至约30mmHg而舒张压维持在右心房或腔静脉水平时，提示导管已进入右心室。导管进入肺动脉时，收缩压不变，但舒张压上升并高于右心室舒张末压或中心静脉压（CVP）；即脉压（收缩压与舒张压之差）变窄。导管继续前移使球囊楔入肺动脉远端。一旦置入肺动脉，将气囊放气。行胸部X线检查确认导管位置。
+
+【心脏和大血管压力正常值】
+心脏和大血管压力正常值
+压力类型
+平均压（mmHg）
+范围（mmHg）
+收缩期峰压
+15–30
+9–16
+收缩期峰压
+15–30
+4–14
+肺动脉闭塞（肺动脉楔压）
+2–12
+2–12
+4–16
+6–12
+收缩期峰压
+90–140
+5–12
+70–150
+收缩期峰压
+90–140
+60–90
+Adapted from Fowler NO:Cardiac Diagnosis and Treatment, ed 3.Philadelphia, JB Lippincott, 1980, p.11.
+Adapted from Fowler NO:Cardiac Diagnosis and Treatment, ed 3.Philadelphia, JB Lippincott, 1980, p.11.
+将导管球囊放气后测量收缩压（正常15~30mmHg）和舒张压（正常5~13mmHg）。舒张压与肺动脉楔压通常吻合良好，但当肺血管阻力因原发性肺病（如肺纤维化、肺动脉高压）而升高时，舒张压可能超过楔压。
+
+【肺动脉闭塞压（肺动脉楔压）】
+在球囊充盈状态下，肺动脉导管尖端测得的压力可反映肺静脉的静态回压。球囊充气时间不得超过>30秒，以防止肺梗死。通常情况下，PAOP接近平均左心房压力，后者约等于左心室舒张末期压力（left ventricular end-diastolic pressure，LVEDP）。LVEDP可反映左心室舒张末容积（left ventricular end-diastolic volume，LVEDV）。LVEDV代表了前负荷，这是实际的目标参数。PAOP受到很多因素影响，不能准确反映LVEDV。这些因素包括:
+二尖瓣狭窄
+二尖瓣狭窄
+二尖瓣返流
+二尖瓣返流
+高水平的呼气末正压（>10cmH₂O）
+高水平的呼气末正压（>10cmH₂O）
+左心室顺应性改变（例如由心肌梗死、心包积液或后负荷增加所致）
+左心室顺应性改变（例如由心肌梗死、心包积液或后负荷增加所致）
+球囊过度充气、导管位置不当、肺泡压高于肺静脉压或严重肺动脉高压（致使球囊难以楔入）会造成操作困难。
+PAOP升高见于左心衰。PAOP下降见于容量不足或前负荷降低。
+
+【混合静脉血氧饱和度】
+混合静脉血指上下腔静脉血经右心到达肺动脉的血液。可从肺动脉导管远端口采血以测定混合静脉血氧饱和度（SvO₂），部分导管内置光纤传感器可直接连续监测血氧饱和度。SvO2正常范围为65%至75%（2）。
+SvO₂降低的原因包括氧输送不足（如贫血、肺部疾病、碳氧血红蛋白血症、心输出量降低）以及组织代谢需求增加。动脉血氧饱和度减去混合静脉血氧饱和度（SaO2-SvO2）代表组织提取的氧量。动脉血氧饱和度与混合静脉血氧饱和度之间的差异决定了氧输送和外周组织氧利用的充分性（3）。
+
+【心输出量（CO）】
+心排出量可通过冰盐水间歇推注或连续热稀释法测定（见心输出量与血流量的测定）。为了纠正病人身材大小的影响，通常用心输出量除以体表面积计算心脏指数 (见表心脏指数及相关指标正常值)。
+用心输出量还可计算其他变量值。包括：
+体循环血管阻力
+体循环血管阻力
+肺血管阻力
+肺血管阻力
+右心室每搏作功（RVSW）
+右心室每搏作功（RVSW）
+左心室每搏作功（LVSW）
+左心室每搏作功（LVSW）
+
+【心脏指数及相关指标的正常值】
+心脏指数及相关指标的正常值
+测量指标
+单位值±标准差（SD）
+氧气摄取
+143±14.3mL/min/m2
+动静脉氧差
+4.1±0.6dL
+心脏指数
+3.5±0.7 升/分钟/平方米2
+心搏指数
+46±8.1 毫升/搏动/平方米2
+体循环总阻力
+1130±178 达因-秒-厘米-5
+总肺循环阻力
+205±51 达因-秒-厘米-5
+肺小动脉阻力
+67±23 达因-秒-厘米-5
+SD=标准差
+Adapted fromBarratt-Boyes BG, Wood EH.Cardiac output and related measurements and pressure values in the right heart and associated vessels, together with an analysis of the hemodynamic response to the inhalation of high oxygen mixtures in healthy subjects.Journal of Laboratory and Clinical Medicine.51:72–90, 1958.
+SD=标准差
+Adapted fromBarratt-Boyes BG, Wood EH.Cardiac output and related measurements and pressure values in the right heart and associated vessels, together with an analysis of the hemodynamic response to the inhalation of high oxygen mixtures in healthy subjects.Journal of Laboratory and Clinical Medicine.51:72–90, 1958.
+肺动脉导管可能难以置入。心律失常，尤其是室性心律失常是最常见的并发症。可能发生继发于球囊过度充气或持续楔嵌的肺梗死、肺动脉穿孔、心内穿孔、瓣膜损伤和心内膜炎。罕见情况下，导管可能在右心室内盘绕成结（尤其见于心力衰竭、心肌病或肺动脉压力增高的患者）。
+肺动脉破裂约发生于 0.03%～0.2% 的肺动脉导管（PAC）置入病例中（4）。这种灾难性的并发症往往致命，且在首次楔入导管或随后检查堵闭压时立即发生。因此，许多临床医师倾向于监测肺动脉舒张压，以作为肺动脉楔压的替代测量指标（5）。
+
+【肺动脉导管监测参考文献】
+1.Hadian M, Pinsky MR.Evidence-based review of the use of the pulmonary artery catheter: impact data and complications.Crit Care.2006;10 Suppl 3(Suppl 3):S8.doi:10.1186/cc4834
+1.Hadian M, Pinsky MR.Evidence-based review of the use of the pulmonary artery catheter: impact data and complications.Crit Care.2006;10 Suppl 3(Suppl 3):S8.doi:10.1186/cc4834
+2.Squara P.Central venous oxygenation: when physiology explains apparent discrepancies.Crit Care.2014;18(6):579.doi:10.1186/s13054-014-0579-9
+2.Squara P.Central venous oxygenation: when physiology explains apparent discrepancies.Crit Care.2014;18(6):579.doi:10.1186/s13054-014-0579-9
+3.Shepherd SJ, Pearse RM.Role of central and mixed venous oxygen saturation measurement in perioperative care.Anesthesiology.2009;111(3):649-656.doi:10.1097/ALN.0b013e3181af59aa
+3.Shepherd SJ, Pearse RM.Role of central and mixed venous oxygen saturation measurement in perioperative care.Anesthesiology.2009;111(3):649-656.doi:10.1097/ALN.0b013e3181af59aa
+4.American Society of Anesthesiologists Task Force on Pulmonary Artery Catheterization.Practice guidelines for pulmonary artery catheterization: an updated report by the American Society of Anesthesiologists Task Force on Pulmonary Artery Catheterization.Anesthesiology.2003;99(4):988-1014.doi:10.1097/00000542-200310000-00036
+4.American Society of Anesthesiologists Task Force on Pulmonary Artery Catheterization.Practice guidelines for pulmonary artery catheterization: an updated report by the American Society of Anesthesiologists Task Force on Pulmonary Artery Catheterization.Anesthesiology.2003;99(4):988-1014.doi:10.1097/00000542-200310000-00036
+5.Papolos AI, Kenigsberg BB, Singam NSV, et al.Pulmonary Artery Diastolic Pressure as a Surrogate for Pulmonary Capillary Wedge Pressure in Cardiogenic Shock.J Card Fail.2024;30(6):853-856.doi:10.1016/j.cardfail.2024.02.021
+5.Papolos AI, Kenigsberg BB, Singam NSV, et al.Pulmonary Artery Diastolic Pressure as a Surrogate for Pulmonary Capillary Wedge Pressure in Cardiogenic Shock.J Card Fail.2024;30(6):853-856.doi:10.1016/j.cardfail.2024.02.021
+
+【无创心输出量评估】
+其他检测心输出量的方法可用于避免肺动脉导管（PAC）的并发症，如床旁超声检查、食道多普勒监测和胸部生物阻抗。虽然其他监测方法也具有潜在价值，但其可靠性均不及肺动脉导管监测。
+
+【床旁超声检测】
+床旁超声在重症监护中至关重要，可用于快速诊断功能性及解剖学异常。手持式超声设备具有良好的便携性，可显著节省时间，并避免将危重患者转运出监护病房的风险。它们有时可以省去对传统成像技术的需求。明智地使用超声检查可减少暴露于电离辐射的机会。在急症护理中，床旁超声对于评估腹部、胸部和心脏特别有用。有时可用于诊断深静脉血栓形成。
+腹部超声检查可用于识别游离（血管外）液体，通常作为创伤超声重点评估（FAST-通常在创伤评估和复苏时进行）。在低血压的创伤患者中，游离液体很可能是血液。当患者对输血只有短暂反应或无反应时，游离液体可作为手术干预的指征。超声还可用于评估其他腹部器官。
+心脏超声是评估心脏结构及血流动力学状态的关键工具，可通过测定心腔大小、壁运动、收缩力及射血分数进行综合判断。其中，“快速聚焦超声心动图评估（FREE）”是一种结构化、动态的超声评估方式。FREE 使用 4 个标准超声心动图窗口完成：胸骨旁长轴、胸骨旁短轴、心尖和剑突下窗口。FREE 评估左心室射血分数 (EF)、每搏输出量 (SV)、心输出量 (CO) 和心脏指数 (CI)，并允许评估低血压患者（1）。在评估低血压患者时，超声检查对于确认以下内容是必不可少的：
+低血容量：即使下腔静脉看上去已充盈（低血容量的通气患者也可能发生这种情况），低血容量的表现是左室高动力，收缩末期几乎没有血液，舒张末期也几乎没有血液。
+低血容量：即使下腔静脉看上去已充盈（低血容量的通气患者也可能发生这种情况），低血容量的表现是左室高动力，收缩末期几乎没有血液，舒张末期也几乎没有血液。
+左心功能不全：心室壁运动异常和射血分数降低提示左心功能不全（由经验丰富的操作员通过评估左心室壁各节段的整体大小、表观收缩力以及向内运动和增厚情况进行测定或估算）。
+左心功能不全：心室壁运动异常和射血分数降低提示左心功能不全（由经验丰富的操作员通过评估左心室壁各节段的整体大小、表观收缩力以及向内运动和增厚情况进行测定或估算）。
+右心衰竭时：正常情况下，右心室的大小约为左心室的 60%，呈三角形，且内壁粗糙（由心肉梁和乳头肌形成）。右心室扩张提示右心功能衰竭，亦可能提示存在肺栓塞。
+右心衰竭时：正常情况下，右心室的大小约为左心室的 60%，呈三角形，且内壁粗糙（由心肉梁和乳头肌形成）。右心室扩张提示右心功能衰竭，亦可能提示存在肺栓塞。
+心包积液及由此导致的心脏压塞会因静脉回流和前负荷减少而降低心输出量。
+心包积液及由此导致的心脏压塞会因静脉回流和前负荷减少而降低心输出量。
+胸部超声可用于检测胸腔积液（如血胸）及气胸，其敏感性和阴性预测值均高于普通X线片。例如，当在连续3个前肋间隙范围内观察到肺滑动征消失及出现A线（水平伪影）时，两者各自的敏感性接近100%，而二者同时存在时，对气胸的特异性极高。胸膜积液的回声特征，以及后外侧区域胸膜及邻近肺实质的改变，也有助于判断胸腔积液的病因。（见如何实施E-FAST检查。）
+床旁超声同样可用于检查深静脉血栓，有时还可用于识别腹部实质器官损伤（如脾破裂）。
+
+【食管多普勒监测仪（EDM）】
+这是一种柔性导管，经口或经鼻插入食管，定位于心脏后方。利用导管顶部的多普勒血流探头连续监测心输出量和心搏出量 (2,3)。与侵入性肺动脉导管不同，食管多普勒监测仪（EDM）置入不会引起气胸、心律失常或感染。在某些伴有心脏瓣膜病变、间隔缺损、心律失常或肺动脉高压的患者中，EDM的准确性可能优于PAC（4）。然而，由于患者体位或导管位置的轻微变化可导致波形减弱，从而产生不准确读数，EDM所得信息可能不一致。
+
+【胸部生物阻抗图法】
+胸部生物阻抗系统通过置于前胸及颈部的表面电极测量胸腔电阻抗值。该电阻抗会随每搏胸腔血容量的变化而波动，因此可用于估算心输出量（5）。该系统为非侵入性监测装置，可在 2 至 5 分钟内快速获得数值结果；然而，该技术对电极与患者皮肤接触情况的变化极为敏感。使用胸廓生物阻抗法识别特定患者心输出量的变化趋势比精确测量其绝对值更有价值。
+
+【无创心输出量评估参考】
+1.Murthi SB, Hess JR, Hess A, et al.Focused rapid echocardiographic evaluation versus vascular catheter-based assessment of cardiac output and function in critically ill trauma patients.J Trauma Acute Care Surg.2012;72 (5):1158–1164.doi: 10.1097/TA.0b013e31824d1112
+1.Murthi SB, Hess JR, Hess A, et al.Focused rapid echocardiographic evaluation versus vascular catheter-based assessment of cardiac output and function in critically ill trauma patients.J Trauma Acute Care Surg.2012;72 (5):1158–1164.doi: 10.1097/TA.0b013e31824d1112
+2.Cholley BP, Singer M.Esophageal Doppler: noninvasive cardiac output monitor.Echocardiography.2003;20(8):763-769.doi:10.1111/j.0742-2822.2003.03033.x
+2.Cholley BP, Singer M.Esophageal Doppler: noninvasive cardiac output monitor.Echocardiography.2003;20(8):763-769.doi:10.1111/j.0742-2822.2003.03033.x
+3.Dark PM, Singer M.The validity of trans-esophageal Doppler ultrasonography as a measure of cardiac output in critically ill adults.Intensive Care Med.2004;30(11):2060-2066.doi:10.1007/s00134-004-2430-2
+3.Dark PM, Singer M.The validity of trans-esophageal Doppler ultrasonography as a measure of cardiac output in critically ill adults.Intensive Care Med.2004;30(11):2060-2066.doi:10.1007/s00134-004-2430-2
+4.Eachempati SR, Barie PS.Minimally invasive and noninvasive diagnosis and therapy in critically ill and injured patients.Arch Surg.1999;134(11):1189-1196.doi:10.1001/archsurg.134.11.1189
+4.Eachempati SR, Barie PS.Minimally invasive and noninvasive diagnosis and therapy in critically ill and injured patients.Arch Surg.1999;134(11):1189-1196.doi:10.1001/archsurg.134.11.1189
+5.Moshkovitz Y, Kaluski E, Milo O, Vered Z, Cotter G.Recent developments in cardiac output determination by bioimpedance: comparison with invasive cardiac output and potential cardiovascular applications.Curr Opin Cardiol.2004;19(3):229-237.doi:10.1097/00001573-200405000-00008
+5.Moshkovitz Y, Kaluski E, Milo O, Vered Z, Cotter G.Recent developments in cardiac output determination by bioimpedance: comparison with invasive cardiac output and potential cardiovascular applications.Curr Opin Cardiol.2004;19(3):229-237.doi:10.1097/00001573-200405000-00008
+
+【颅内压（ICP）监测】
+颅内压监测是重度闭合性颅脑损伤患者的标准监测手段，偶尔也用于其他一些脑部疾病，例如特定病例的脑积水和特发性颅内高压（假性脑瘤），或用于动静脉畸形术后或栓塞术后的管理。 这些设备用于监测 ICP（通常为 5 至 15 毫米汞柱）和优化脑灌注压（平均动脉压减去颅内压）。 通常脑灌注压须保持在>60mmHg。
+有几种型号的颅内压监护仪可供使用。脑室外引流（EVD）是最有用的方法；将一根导管穿过颅骨置入脑室（脑室造口导管）。这种装置是首选，因为导管既可引流脑脊液（CSF），从而降低颅内压。然而，EVD也是侵入性最强、感染率最高、最难放置的方法。偶尔，EVD会因严重的脑水肿而堵塞。
+其他类型的颅内压监测装置包括脑实质内监测仪、蛛网膜下腔螺栓、硬膜下螺栓，以及插入颅骨与硬脑膜之间并穿有压力传感器的硬膜外螺栓。其中脑实质监护仪使用更普遍。为避免感染，所有颅内压测量装置通常应在5~7天后更换或撤除。
+
+【近红外光谱（NIRS）】
+近红外光谱是一种连续监测末端器官氧合和灌注的非侵入性方法。近红外光谱（NIRS）传感器通常置于目标组织表面皮肤上（例如：用于经颅脑氧合与灌注监测的头皮，或用于评估外周组织氧合的腓肠肌）（1）。NIRS可用于确定脑自动调节指数，如脑氧合指数（Cox）、组织氧指数（Tox）和血红蛋白体积指数（HVx）（2）。NIRS 还可辅助诊断急性筋膜间室综合征（如创伤所致）或游离组织移植术后的缺血，并有助于术后下肢血管旁路移植的监测。近红外光谱（NIRS）用于小肠pH监测可判断复苏是否充分。
+
+【近红外光谱参考文献】
+1.Ali J, Cody J, Maldonado Y, Ramakrishna H.Near-Infrared Spectroscopy (NIRS) for Cerebral and Tissue Oximetry: Analysis of Evolving Applications.J Cardiothorac Vasc Anesth.2022;36(8 Pt A):2758-2766.doi:10.1053/j.jvca.2021.07.015
+1.Ali J, Cody J, Maldonado Y, Ramakrishna H.Near-Infrared Spectroscopy (NIRS) for Cerebral and Tissue Oximetry: Analysis of Evolving Applications.J Cardiothorac Vasc Anesth.2022;36(8 Pt A):2758-2766.doi:10.1053/j.jvca.2021.07.015
+2.Viderman D, Abdildin YG.Near-Infrared Spectroscopy in Neurocritical Care: A Review of Recent Updates.World Neurosurg.2021;151:23-28.doi:10.1016/j.wneu.2021.04.054
+2.Viderman D, Abdildin YG.Near-Infrared Spectroscopy in Neurocritical Care: A Review of Recent Updates.World Neurosurg.2021;151:23-28.doi:10.1016/j.wneu.2021.04.054

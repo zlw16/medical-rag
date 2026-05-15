@@ -1,0 +1,72 @@
+标题：碳水化合物耐受不良
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/malabsorption-syndromes/carbohydrate-intolerance
+============================================================
+
+碳水化合物耐受不良属于吸收不良综合征。
+
+【碳水化合物耐受不良的病理生理】
+正常情况下，双糖被位于小肠细胞刷状缘的双糖酶分解为单糖，这些双糖酶包括乳糖酶、麦芽糖酶、异麦芽糖酶和蔗糖酶（转化酶）等。未被消化的双糖使肠道渗透压增加，水和电解质吸出至肠腔，导致水样泻。碳水化合物在结肠内发酵产生大量气体（氢气、二氧化碳、甲烷），导致患者胃肠胀气、腹胀和腹痛。
+
+【碳水化合物耐受不良的病因】
+酶缺乏可能是
+获得性酶缺乏（原发性）
+获得性酶缺乏（原发性）
+获得性乳糖酶缺乏（原发性成人乳糖酶缺乏症）导致乳糖吸收不良，也称为乳糖不耐受，是碳水化合物不耐受最常见的形式。新生儿的乳糖酶水平很高，可以消化牛奶。在世界上大多数人群中，乳糖酶水平在断奶后逐渐下降，导致年长儿童和成人无法消化大量乳糖。然而，西北欧、东非和中东的某些人群，他们中的许多人历来以饲养动物获取食物和奶类为生，终生都能产生乳糖酶，因此能够消化牛奶和奶制品。这种酶的持续性，被称为乳糖酶持续性，是由基因介导的，并且发生在世界范围内的少数人群中，而乳糖酶缺乏是世界上大多数成年人的正常状态（1–3）。
+继发性乳糖酶缺乏症见于小肠黏膜受损后（如，乳糜泻、热带口炎性腹泻、急性肠道感染[见胃肠炎]）。婴幼儿肠道感染或腹部手术后可并发短暂继发性双糖酶缺乏。原发病好转后，酶活性增加。
+先天性酶缺乏症是罕见的，包括缺乏：乳糖酶或蔗糖酶-异麦芽糖酶。
+
+【病因参考文献】
+1.Fernández-Bañares F.Carbohydrate Maldigestion and Intolerance.Nutrients.2022;14(9):1923.Published 2022 May 4.doi:10.3390/nu14091923
+1.Fernández-Bañares F.Carbohydrate Maldigestion and Intolerance.Nutrients.2022;14(9):1923.Published 2022 May 4.doi:10.3390/nu14091923
+2.Montgomery RK, Krasinski SD, Hirschhorn JN, Grand RJ.Lactose and lactase--who is lactose intolerant and why?.J Pediatr Gastroenterol Nutr.2007;45 Suppl 2:S131-S137.doi:10.1097/MPG.0b013e31812e68f6
+2.Montgomery RK, Krasinski SD, Hirschhorn JN, Grand RJ.Lactose and lactase--who is lactose intolerant and why?.J Pediatr Gastroenterol Nutr.2007;45 Suppl 2:S131-S137.doi:10.1097/MPG.0b013e31812e68f6
+3.Swallow DM.Genetics of lactase persistence and lactose intolerance.Annu Rev Genet.2003;37:197-219.doi:10.1146/annurev.genet.37.110801.143820
+3.Swallow DM.Genetics of lactase persistence and lactose intolerance.Annu Rev Genet.2003;37:197-219.doi:10.1146/annurev.genet.37.110801.143820
+
+【碳水化合物耐受不良的症状和体征】
+所有双糖酶缺乏症患者，糖类不耐受的症状和体征均相似。
+乳糖不耐受患儿表现为大量牛奶摄入后的腹泻及体重不增。
+成人进食含乳糖的食物后可出现水样泻、腹胀、过度排气、恶心、肠鸣音异常和腹部绞痛。
+患者常幼时就意识到乳制品会导致肠胃问题，因此避免食用乳制品。
+当食用超过250～375 mL（8～12盎司）牛奶或等价乳制品后可出现典型症状。严重腹泻时，其他营养物质未被吸收就随腹泻一起排出。
+该病临床表现与肠易激综合征相似，且易被混淆。
+
+【经验与提示】
+经验与提示
+大多数乳糖酶缺乏的人可耐受最多250～375 mL(8到12盎司)牛奶；食用少量乳制品即引起临床症状者需考虑其他诊断可能。
+大多数乳糖酶缺乏的人可耐受最多250～375 mL(8到12盎司)牛奶；食用少量乳制品即引起临床症状者需考虑其他诊断可能。
+
+【碳水化合物耐受不良的诊断】
+临床诊断
+临床诊断
+氢呼气试验
+氢呼气试验
+乳糖不耐受通常可通过仔细询问病史，并辅以饮食激发试验或无乳糖饮食进行诊断。若患者有进食牛奶和奶制品后腹泻和/或排气的病史，伴随皮疹，哮喘或其他过敏症状（尤其在婴幼儿和儿童中），常提示牛奶蛋白过敏。牛奶蛋白过敏在成人中少见，可引起呕吐和食管反流表现，但这些并不是碳水化合物不耐受的表现。
+如果慢性或间歇性腹泻患者的粪便呈酸性（pH<6），则提示乳糖不耐受的诊断，并可通过氢呼气试验或显示吸收不良的乳糖耐量试验来确诊。这些测试结果应与乳糖不耐受的症状相关联以进行评估；目前已有一些标准化的问卷可用。
+氢呼气试验（也称乳糖呼气试验）：测试者口服50g乳糖，通过呼吸测量仪在服药后2、3、4小时测量未被消化的乳糖经细菌代谢产生的氢气。大多数受累患者呼出氢气较基线增加>百万分之二十。 灵敏度为 78%，特异性为>95% (1)。
+乳糖耐受测试的敏感性约为90%，特异性在90%到95%之间（2, 3）。口服乳糖（每公斤体重1.0至1.5克）。在摄入前以及摄入后60分钟和120分钟测量血糖。乳糖不耐受患者在服用后20～30分钟内可出现腹泻、腹胀和不适，且血糖水平较基线升高未达>20 mg/dL（<1.1mmol/L）。
+
+【诊断参考】
+1.Gasbarrini A, Corazza GR, Gasbarrini G, et al.Methodology and indications of H2-breath testing in gastrointestinal diseases: The Rome Consensus Conference.Aliment Pharmacol Ther.29 (supplement 1):1–49, 2009.doi: 10.1111/j.1365-2036.2009.03951.x
+1.Gasbarrini A, Corazza GR, Gasbarrini G, et al.Methodology and indications of H2-breath testing in gastrointestinal diseases: The Rome Consensus Conference.Aliment Pharmacol Ther.29 (supplement 1):1–49, 2009.doi: 10.1111/j.1365-2036.2009.03951.x
+2.Marton A, Xue X, Szilagyi A.Meta-analysis: the diagnostic accuracy of lactose breath hydrogen or lactose tolerance tests for predicting the North European lactase polymorphism C/T-13910.Aliment Pharmacol Ther.2012;35(4):429-440.doi:10.1111/j.1365-2036.2011.04962.x
+2.Marton A, Xue X, Szilagyi A.Meta-analysis: the diagnostic accuracy of lactose breath hydrogen or lactose tolerance tests for predicting the North European lactase polymorphism C/T-13910.Aliment Pharmacol Ther.2012;35(4):429-440.doi:10.1111/j.1365-2036.2011.04962.x
+3.Szilagyi A, Malolepszy P, Hamard E, et al.Comparison of a real-time polymerase chain reaction assay for lactase genetic polymorphism with standard indirect tests for lactose maldigestion.Clin Gastroenterol Hepatol.2007;5(2):192-196.doi:10.1016/j.cgh.2006.06.009
+3.Szilagyi A, Malolepszy P, Hamard E, et al.Comparison of a real-time polymerase chain reaction assay for lactase genetic polymorphism with standard indirect tests for lactose maldigestion.Clin Gastroenterol Hepatol.2007;5(2):192-196.doi:10.1016/j.cgh.2006.06.009
+
+【碳水化合物耐受不良的治疗】
+饮食限制
+饮食限制
+避免摄入不能被吸收的糖类，可很好控制碳水化合物吸收不良（如乳糖酶缺乏的患者，选择无乳糖饮食）。然而，由于乳糖吸收不良的程度差异很大，许多患者每天最多可摄入375毫升牛奶（含18克乳糖）而不出现症状。患者通常可耐受酸奶，因为酸奶中的乳酸菌可产生大量的乳糖酶。奶酪的乳糖含量比牛奶低，因此通常可以耐受，具体取决于摄入量。
+对希望饮用牛奶但有症状的患者，可以在牛奶中添加市售的乳糖酶来消化牛奶中的乳糖。还提供预处理牛奶和其他乳制品。
+酶补充剂应作为饮食限制的辅助手段，而非替代治疗。乳糖不耐受患者应补充钙剂。
+双糖酶缺乏（通常是乳糖酶缺乏）可以是后天获得性、继发性或罕见的先天性。
+双糖酶缺乏（通常是乳糖酶缺乏）可以是后天获得性、继发性或罕见的先天性。
+未消化的双糖（如乳糖）导致渗透压升高，引起腹泻。
+未消化的双糖（如乳糖）导致渗透压升高，引起腹泻。
+双糖经肠道细菌代谢产生气体，引起腹胀和排气。
+双糖经肠道细菌代谢产生气体，引起腹胀和排气。
+临床评估碳水化合物不耐受，并通过氢呼气试验确认诊断。
+临床评估碳水化合物不耐受，并通过氢呼气试验确认诊断。
+饮食限制疗法通常是充足的治疗。
+饮食限制疗法通常是充足的治疗。

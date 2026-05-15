@@ -1,0 +1,94 @@
+标题：腹水
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/approach-to-the-patient-with-liver-disease/ascites
+============================================================
+
+
+【腹水的病因】
+慢性肝病可以引起腹水，有时急性肝病也可以引起。与肝脏无关的情况也能引起腹水。
+肝脏原因引起腹水包括下列情况：
+门静脉高压（占所有腹水的80%）（1），通常由肝硬化所致
+门静脉高压（占所有腹水的80%）（1），通常由肝硬化所致
+慢性肝炎
+慢性肝炎
+不伴有肝硬化的严重的酒精性肝炎
+不伴有肝硬化的严重的酒精性肝炎
+肝静脉阻塞（Budd-Chiari综合征）
+肝静脉阻塞（Budd-Chiari综合征）
+门静脉血栓形成通常不引起腹水，除非同时存在肝细胞破坏。
+非肝脏原因引起腹水包括下列情况：
+与全身性疾病（如心力衰竭、肾病综合征、严重低白蛋白血症、缩窄性心包炎）相关的全身性液体潴留
+与全身性疾病（如心力衰竭、肾病综合征、严重低白蛋白血症、缩窄性心包炎）相关的全身性液体潴留
+腹膜疾病（如肿瘤性或感染性腹膜炎、由于手术或其他医疗操作造成的胆漏）
+腹膜疾病（如肿瘤性或感染性腹膜炎、由于手术或其他医疗操作造成的胆漏）
+较少见的原因，如肾脏透析、胰腺炎、系统性红斑狼疮、淋巴管阻塞或损伤，以及内分泌疾病（例如黏液性水肿）
+较少见的原因，如肾脏透析、胰腺炎、系统性红斑狼疮、淋巴管阻塞或损伤，以及内分泌疾病（例如黏液性水肿）
+
+【病因参考文献】
+1.Tonon M, Piano S.Cirrhosis and Portal Hypertension: How Do We Deal with Ascites and Its Consequences.Med Clin North Am.2023;107(3):505-516.doi:10.1016/j.mcna.2022.12.004
+1.Tonon M, Piano S.Cirrhosis and Portal Hypertension: How Do We Deal with Ascites and Its Consequences.Med Clin North Am.2023;107(3):505-516.doi:10.1016/j.mcna.2022.12.004
+
+【腹水的病理生理学】
+发病机制很复杂，尚未完全明确。腹水的发病机制包括NO诱导的内脏血管扩张、门静脉系统的Starling力的改变（低白蛋白血症引起低胶体渗透压合并有门静脉血管压力升高）、肾脏钠潴留（通常尿钠浓度<5 mEq/L[5 mmol/L]）、可能伴有肝脏淋巴液生成的增加。
+造成肾脏钠潴留的机制包括肾素－血管紧张素－醛固酮系统的激活、交感神经活性增强、肾内的血液分流使得肾皮质血流量减少、一氧化氮合成的增加和抗利尿激素[ADH]、激肽、前列腺素及心房利肽素生成或代谢的改变。内脏动脉循环中血管的扩张可能是促发因素，但是其特定的作用以及这些异常之间的相互关系仍不清楚。
+
+【腹水的症状和体征】
+少量的腹水没有症状。中等量的腹水引起腹围的增大和体重的增加。大量腹水可能会引起非特异性的弥漫性腹部压迫感，但通常不会引发明显疼痛，若出现疼痛，则提示可能存在感染，例如自发性细菌性腹膜炎（SBP）或其他可导致急性腹痛的病因。如果腹水引起横膈抬高，可以出现呼吸困难。
+液体量<1500mL可能不会产生明显的体征。若存在，体征包括移动性浊音（通过腹部叩诊检测）和液波震颤。大量腹水造成腹壁紧张和脐部变平。
+在肝病和门静脉高压患者中，腹水的体积通常远大于全身性疾病（如心力衰竭）患者。在门静脉高压患者中，腹水可伴有或不伴有下肢水肿。
+
+【腹水的诊断】
+除非体格检查已明确诊断，否则需进行超声或CT检查
+除非体格检查已明确诊断，否则需进行超声或CT检查
+有时进行腹水实验室检测以确定腹水病因
+有时进行腹水实验室检测以确定腹水病因
+若积液量较大，可根据体格检查进行诊断；但超声与CT检查所显示的积液量（100~200mL）远少于体格检查所测得的体积。 如果腹水患者同时出现腹痛、发热或不明原因的恶化，则应怀疑自发性细菌性腹膜炎(SBP)。 但SBP 也可以是无症状的，唯一的迹象是肝脏合成功能恶化或急性肾损伤。 并且因为治疗延误会导致高死亡率，所以治疗阈值应该很低 (1, 2)。
+出现下列情况需进行诊断性腹腔穿刺：
+初次诊断的腹水
+初次诊断的腹水
+腹水病因不明
+腹水病因不明
+怀疑SBP
+怀疑SBP
+通常会先抽取少量液体以评估腹水的病因并排除感染（自发性细菌性腹膜炎）。抽取的液体需进行以下分析：外观性状、白蛋白、蛋白质含量、细胞计数与分类、病原体培养，以及根据临床指征进行细胞学检查、抗酸染色和/或淀粉酶检测。与炎症或感染所致的腹水不同，门静脉高压所致腹水通常为清亮的草黄色液体，蛋白浓度低，中性粒细胞（多形核白细胞）计数低（<250 个细胞/mcL），最具诊断价值的特征是血清-腹水白蛋白浓度梯度（SAAG）升高，即血清白蛋白浓度减去腹水白蛋白浓度。SAAG≥1.1g/dL（11g/L）和低液体蛋白对于门静脉高压引起的腹水具有相对特异性。在腹水中，中性粒细胞计数>250 个细胞/微升即提示自发性细菌性腹膜炎（SBP），而血性腹水则可提示肿瘤或结核。罕见的牛奶样（乳糜样）腹水最常见于淋巴瘤或淋巴管堵塞。
+
+【诊断参考】
+1.Kim JJ, Tsukamoto MM, Mathur AK, et al.Delayed paracentesis is associated with increased in-hospital mortality in patients with spontaneous bacterial peritonitis.Am J Gastroenterol.2014;109(9):1436-1442.doi:10.1038/ajg.2014.212
+1.Kim JJ, Tsukamoto MM, Mathur AK, et al.Delayed paracentesis is associated with increased in-hospital mortality in patients with spontaneous bacterial peritonitis.Am J Gastroenterol.2014;109(9):1436-1442.doi:10.1038/ajg.2014.212
+2.Biggins SW, Angeli P, Garcia-Tsao G, et al.Diagnosis, Evaluation, and Management of Ascites, Spontaneous Bacterial Peritonitis and Hepatorenal Syndrome: 2021 Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology.2021;74(2):1014-1048.doi:10.1002/hep.31884
+2.Biggins SW, Angeli P, Garcia-Tsao G, et al.Diagnosis, Evaluation, and Management of Ascites, Spontaneous Bacterial Peritonitis and Hepatorenal Syndrome: 2021 Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology.2021;74(2):1014-1048.doi:10.1002/hep.31884
+
+【腹水的治疗】
+限钠饮食
+限钠饮食
+药物（螺内酯，可能加用呋塞米）
+药物（螺内酯，可能加用呋塞米）
+治疗性穿刺术
+治疗性穿刺术
+对于门静脉高压引起的腹水，限钠饮食（2000 mg/d）是首要并且安全的治疗措施。如果在数天内严格的限钠不能引起利尿，则应使用利尿剂。口服螺内酯通常有效，并与袢利尿剂（如呋塞米）联合使用。螺内酯可以引起钾潴留，而呋塞米促进钾排泄，所以这两种药物联合使用能提供最佳的利尿效果并降低引起钾异常的危险。仅在治疗低钠血症（血钠<125 mEq/L [125 mmol/L]）时才需要控制液体入量。
+体重和尿钠的变化反映对治疗的反应情况。每日减重约0.5公斤为最佳，因为腹水腔室无法以更快的速度被动员。过度利尿会使血管内液体减少，尤其在无周围水肿的情况下；这种减少可能导致急性肾损伤或电解质异常（如低钾血症），进而诱发肝性脑病。如果存在周围性水肿，更积极的利尿方案上限是每天排尿1kg，通常耐受性较好(1)。饮食中限钠不充分是腹水持续存在的常见原因。
+治疗性穿刺可与利尿剂联合使用。 如果引流腹水超过 5 升，则每放出一升应给予 6 至 8 克 25% 的白蛋白。白蛋白有助于降低穿刺后低血压（穿刺后循环功能障碍）的风险，但ye可能会导致肝肾综合征。 治疗性腹腔穿刺术可以比利尿剂更快地减少腹水；但患者需要持续使用利尿剂以防止腹水再次积聚。
+经颈静脉肝内门－体分流（transjugular intrahepatic portal-systemic shunting, TIPS）可以降低门静脉压力，成功地治疗其他方法无效的腹水，但是TIPS是有创的，可以引起并发症，包括门－体分流性脑病和肝细胞功能恶化。 腹水自体回输的方法（如Le Veen腹腔静脉分流）常出现并发症，目前基本不再使用。
+顽固性腹水定义为尽管使用了最大剂量的利尿剂（呋塞米 160 毫克和螺内酯 400 毫克，每日）或由于急性肾损伤或低血压无法耐受利尿剂，腹水仍持续存在并需要腹腔穿刺术。顽固性腹水是行经颈静脉肝内门体分流术（TIPS）或肝移植的指征。
+复发性腹水被AASLD定义为一生中有超过3次大容量腹腔穿刺放液术（LVP）（定义为单次手术中移除≥5升液体）（2）。对于复发性腹水的患者，可能更早地从TIPS或移植中获益，而不是等到达到严格的传统难治性腹水定义（3）。具体而言，一项研究指出接受TIPS治疗的复发性腹水患者的1年无移植生存率（93%）显著优于接受持续LVP和利尿剂治疗的患者（53%）（4）。
+
+【治疗参考文献】
+1.European Association for the Study of the Liver.EASL Clinical Practice Guidelines for the management of patients with decompensated cirrhosis [published correction appears inJ Hepatol.2018 Nov;69(5):1207. doi: 10.1016/j.jhep.2018.08.009.].J Hepatol.2018;69(2):406-460.doi:10.1016/j.jhep.2018.03.024
+1.European Association for the Study of the Liver.EASL Clinical Practice Guidelines for the management of patients with decompensated cirrhosis [published correction appears inJ Hepatol.2018 Nov;69(5):1207. doi: 10.1016/j.jhep.2018.08.009.].J Hepatol.2018;69(2):406-460.doi:10.1016/j.jhep.2018.03.024
+2.Biggins SW, Angeli P, Garcia-Tsao G, et al.Diagnosis, Evaluation, and Management of Ascites, Spontaneous Bacterial Peritonitis and Hepatorenal Syndrome: 2021 Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology.2021;74(2):1014-1048.doi:10.1002/hep.31884
+2.Biggins SW, Angeli P, Garcia-Tsao G, et al.Diagnosis, Evaluation, and Management of Ascites, Spontaneous Bacterial Peritonitis and Hepatorenal Syndrome: 2021 Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology.2021;74(2):1014-1048.doi:10.1002/hep.31884
+3.García-Pagán JC, Saffo S, Mandorfer M, et al.Where does TIPS fit in the management of patients with cirrhosis?.JHEP Rep.2020;2(4):100122.Published 2020 May 23.doi:10.1016/j.jhepr.2020.100122
+3.García-Pagán JC, Saffo S, Mandorfer M, et al.Where does TIPS fit in the management of patients with cirrhosis?.JHEP Rep.2020;2(4):100122.Published 2020 May 23.doi:10.1016/j.jhepr.2020.100122
+4.Bureau C, Thabut D, Oberti F, et al.Transjugular Intrahepatic Portosystemic Shunts With Covered Stents Increase Transplant-Free Survival of Patients With Cirrhosis and Recurrent Ascites [published correction appears inGastroenterology.2017 Sep;153(3):870. doi: 10.1053/j.gastro.2017.08.025.]Gastroenterology.2017;152(1):157-163.
+4.Bureau C, Thabut D, Oberti F, et al.Transjugular Intrahepatic Portosystemic Shunts With Covered Stents Increase Transplant-Free Survival of Patients With Cirrhosis and Recurrent Ascites [published correction appears inGastroenterology.2017 Sep;153(3):870. doi: 10.1053/j.gastro.2017.08.025.]Gastroenterology.2017;152(1):157-163.
+腹水是腹腔内的游离液体，通常由门静脉高压引起，有时由其它肝脏或非肝脏因素引起。
+腹水是腹腔内的游离液体，通常由门静脉高压引起，有时由其它肝脏或非肝脏因素引起。
+中等数量的液体能增加腹围、体重，大量时可引起腹胀、压迫和呼吸困难。当腹水<1500mL时，这些迹象可以不明显。
+中等数量的液体能增加腹围、体重，大量时可引起腹胀、压迫和呼吸困难。当腹水<1500mL时，这些迹象可以不明显。
+除非诊断明确，否则应使用超声或CT确诊腹水存在。
+除非诊断明确，否则应使用超声或CT确诊腹水存在。
+如果初诊腹水，原因不明或怀疑是自发性细菌性腹膜炎，则应做穿刺以检测腹水。
+如果初诊腹水，原因不明或怀疑是自发性细菌性腹膜炎，则应做穿刺以检测腹水。
+建议饮食限制钠盐，如果这一措施不够有效，可以考虑使用利尿剂和治疗性穿刺。
+建议饮食限制钠盐，如果这一措施不够有效，可以考虑使用利尿剂和治疗性穿刺。
+应及时将顽固性腹水患者转诊行经颈静脉肝内门体分流术（TIPS）或肝移植。
+应及时将顽固性腹水患者转诊行经颈静脉肝内门体分流术（TIPS）或肝移植。

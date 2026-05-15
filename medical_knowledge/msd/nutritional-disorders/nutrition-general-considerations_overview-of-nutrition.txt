@@ -1,0 +1,218 @@
+标题：营养概述
+来源：https://www.msdmanuals.cn/professional/nutritional-disorders/nutrition-general-considerations/overview-of-nutrition
+============================================================
+
+营养学是一门研究食物及其各种成分对健康影响的科学。营养素是指食物中可被机体用于生长、维持和能量代谢的化学物质。
+不能由人体合成或合成不足，必须从食物中摄取的营养素，称为必需营养素。它们包括
+某些氨基酸
+某些氨基酸
+某些脂肪酸
+某些脂肪酸
+虽然也可通过膳食获取，但能够由其他化合物在体内合成的营养素则称为非必需营养素。但在患病、应激等特定情况下，正常状态下的非必需营养素的合成过程可能受阻，进而转变为必需营养素。这类条件性必需营养素必须通过膳食补充。
+宏量营养素（碳水化合物、蛋白质和脂肪）是机体需要量相对较大的营养物质；微量营养素（维生素及部分微量矿物质）的人体需求量则极少。
+营养素的缺乏可以导致营养不良，进而导致营养不良综合征（如恶性营养不良、糙皮病）。宏量营养素摄入过多可以造成肥胖病及相关疾病；微量营养素摄入过多则可能导致中毒。此外，不同类型营养素的平衡状态也会影响疾病的发生发展，如不饱和脂肪与饱和脂肪的摄入比例。
+
+【宏量营养素】
+宏量营养素是食物中营养成分的主要部分，包括供能营养素和许多必需营养素。碳水化合物、蛋白质（包括各种必需氨基酸）、脂肪（包括各种必需脂肪酸）、常量元素和水属于宏量营养素。碳水化合物、脂肪和蛋白质可作为能量来源相互替代；脂肪的产能为 9 千卡 / 克（37.8 千焦 / 克），蛋白质与碳水化合物的产能均为 4 千卡 / 克（16.8 千焦 / 克）。每天对热量、碳水化合物、脂肪和蛋白质的需要量因患者的年龄和体重而异(1)。
+
+【碳水化合物】
+食物中的碳水化合物被分解为葡萄糖及其他的单糖。碳水化合物能够提高血糖水平，并提供热量。
+简单碳水化合物由小分子的单糖或双糖构成，能够迅速地提高血糖水平。
+复合碳水化合物由三个及以上的单糖结合而成，然后在消化过程中分解成单糖。复合碳水化合物升高血糖的速度较慢但持续时间更长。
+葡萄糖和蔗糖是简单的碳水化合物；淀粉、纤维和糖原是复合碳水化合物。
+升糖指数是一种对食物进行分类的方法，其依据是摄入碳水化合物使血浆葡萄糖水平相对于某一标准的增加速度。数值范围从1（最慢的升高速度）到100（最快的升高速度，相当于纯葡萄糖）。然而，实际升糖速率还受到碳水化合物同时摄入的食物种类的影响。食物的升糖指数有多种来源(2)。
+具有较高升糖指数的碳水化合物能够迅速将血浆葡萄糖提高到很高水平。据推测，由此导致胰岛素分泌增加，引起血糖降低和饥饿感，从而导致过量卡路里摄入和体重增加 (3) 。低升糖指数碳水化合物可使血浆葡萄糖水平缓慢升高，进而降低餐后胰岛素水平、减轻饥饿感，这或许能减少过量热量的摄入。预计这些效果将导致更有利的血脂状况，并降低肥胖症、糖尿病和糖尿病并发症（如果存在）的风险。
+
+【膳食纤维】
+膳食纤维是一种复杂的碳水化合物，以各种形式存在（如纤维素、半纤维素、果胶、树胶）。膳食纤维可以是可溶的或不溶的。不溶性纤维增加胃肠蠕动，预防便秘，增加粪便体积，并有助于控制憩室病。不溶性纤维被认为可以加速消除大肠中细菌产生的致癌物质。流行病学证据表明结肠癌与膳食纤维摄入不足存在关联 (4)，并且膳食纤维对肠易激综合征及便秘患者具有改善作用 (5)。可溶性纤维（存在于水果、蔬菜、燕麦、大麦和豆类中）可以减少餐后血糖和胰岛素的升高，并且降低胆固醇水平 (6) 。
+在美国，典型的膳食由于大量摄入精制小麦粉以及较少摄入水果和蔬菜，因此膳食纤维的摄入量是比较低的（大约每天 15 克）（7）。每日纤维素摄入的一般建议约为女性25克/天，男性38克/天。建议每天至少摄入30克纤维，这很容易通过食用蔬菜、水果和高纤维谷物获得(8)。但需注意，过量摄入膳食纤维可能会降低部分矿物质的吸收率。
+蛋白质是一种含有碳、氢、氧和氮的复杂有机分子。蛋白质是组织维持、更换、功能和生长所必需的。特定的蛋白质充当酶，构成某些激素，并在维持体液平衡方面发挥重要作用。当人体无法通过膳食摄入或组织储存（尤其是脂肪储存）获取充足热量时，蛋白质可能会被分解供能。膳食蛋白质会被分解为肽段与氨基酸。
+当食物中的蛋白质被用于合成机体组织时，体内蛋白质成分呈净增长状态（正氮平衡）。 当体内蛋白质处于分解代谢状态时（饥饿、感染、烧伤），蛋白质的消耗大于吸收（因为机体组织被分解），从而导致蛋白质净丢失（负氮平衡）。氮平衡的最佳测定方式是：用摄入的氮量减去尿液与粪便中排出的氮量。
+蛋白质由20种氨基酸组成。11种非必需氨基酸(丙氨酸、精氨酸、天冬酰胺、天冬氨酸、半胱氨酸、谷氨酸、谷酰胺、甘氨酸、脯氨酸、丝氨酸、酪氨酸)可由体内合成。9种必需氨基酸(EAAs)——组氨酸、异亮氨酸、亮氨酸、赖氨酸、蛋氨酸、苯丙氨酸、苏氨酸、色氨酸和缬氨酸——无法由体内合成，必须从饮食中获得。所有人群都需要这8种必需氨基酸；婴儿由于合成途径尚不成熟，还需要组氨酸。
+经体重校正的膳食蛋白质需求量与生长速率相关，而生长速率会从婴儿期持续下降至成年期。每日膳食蛋白质的需求量从婴儿（0至6个月大）约1.5克/公斤，降至儿童（1至3岁）的1.0克/公斤，再到成年人的0.8克/公斤（1）。此外，某些患者对蛋白质的需求更高。例如，在怀孕和哺乳期间，以及在快速生长和疾病康复期间，蛋白质需求急剧增加。还有一些建议表明老年人需要增加蛋白质摄入以维持和恢复瘦体重(9、10)。试图增加肌肉质量的成年人需要额外的蛋白质（例如，1.4至2.0克/公斤/天），超出平均每日必需氨基酸的需求（11）。
+蛋白质的氨基酸组成差异很大。根据定义，蛋白质的生物价（biological value， BV）反映了蛋白质氨基酸组成与动物组织的相似度，因此BV可用于评估膳食蛋白质为人体提供必需氨基酸（EAAs）的百分比：
+蛋类的蛋白质氨基酸组成是最适宜的，BV值为100。
+蛋类的蛋白质氨基酸组成是最适宜的，BV值为100。
+牛奶和肉中的动物蛋白质也具有很高的BV值（约为90）。
+牛奶和肉中的动物蛋白质也具有很高的BV值（约为90）。
+谷物与蔬菜中的蛋白质生物价（BV）较低（约 40）
+谷物与蔬菜中的蛋白质生物价（BV）较低（约 40）
+一些衍生蛋白（例如明胶）的BV值为0。
+一些衍生蛋白（例如明胶）的BV值为0。
+食物中各种蛋白质相互补充缺失氨基酸的程度（互补性）决定了饮食的整体生物价值（BV）。蛋白质的推荐膳食供给量（RDA）假定：普通混合膳食的生物价为 70。
+脂肪在体内被分解为脂肪酸和甘油。脂肪是提供组织生长和激素产生的必需营养物质。饱和脂肪酸常见于动物脂肪中，在室温下通常为固体。除了棕榈油和椰子油之外，从植物中提取的脂肪在室温下往往呈液态；这些脂肪含有高水平的单不饱和脂肪酸或多不饱和脂肪酸（PUFA）。
+在食品加工的过程中，部分不饱和脂肪酸氢化后可以成为反式脂肪酸，反式脂肪酸在室温下是固体或半固体。直到最近，在美国，反式脂肪酸的主要膳食来源是部分氢化植物油，用于生产某些食品（例如，饼干、薄脆饼干、薯片）以延长保质期。然而，在2015年，美国食品药品监督管理局（FDA）将部分氢化油从其“普遍认为安全”类别中移除（12），原因是担心反式脂肪酸会升高低密度脂蛋白胆固醇，降低高密度脂蛋白胆固醇，并增加患冠状动脉疾病的风险（13, 14）。自2018年6月以来，美国禁止使用人造反式脂肪。
+必需脂肪酸（EFAs）是
+亚油酸，一种omega-6 (n-6) 脂肪酸
+亚油酸，一种omega-6 (n-6) 脂肪酸
+亚麻酸，一种omega-3 (n-3) 脂肪酸
+亚麻酸，一种omega-3 (n-3) 脂肪酸
+其他的omega-6脂肪酸（如花生四烯酸）和omega-3脂肪酸（如二十碳五烯酸和二十二碳六烯酸）也是人体代谢所必需，但是可以在体内由EFAs合成。
+EFAs是合成各种二十烷花生烯酸类（具有生物活性的脂类）所必需的，包括前列腺素、血栓烷素、前列环素和白三烯。摄取omega-3脂肪酸可降低罹患冠状动脉疾病的风险 (15) 。
+EFAs的需要量随年龄而不同，α-亚麻酸的适当摄入量男性为1.6克/天，女性为1.1克/天（16）。亚油酸的适宜摄入量为19至50岁男性每天17克，女性每天12克。（适宜摄入量的定义是：健康人群日常摄入的营养素平均水平。）植物油能够提供亚油酸和亚麻酸。由红花、向日葵、玉米、大豆、月见草、南瓜及小麦胚芽制成的油类，可提供大量亚油酸。深海鱼油，以及由亚麻籽、南瓜、大豆和芥花籽制成的油类，可提供大量亚麻酸。深海鱼油富含大量其他类型的omega-3脂肪酸。EFAs的推荐摄入量可以通过每天2至3汤匙植物脂肪，或者每周两次食用约3至3.5盎司煮熟的高脂肪鱼类（如鲑鱼）来满足。
+
+【常量元素】
+钠、氯、钾、钙、磷、镁每天的需要量相对较高（见表常量矿物质、膳食营养素参考摄入量、每日摄入指南）。
+
+【常量矿物质】
+常量矿物质
+主要来源
+牛奶和乳制品、肉类、鱼类、蛋类、谷类、豆类、水果、蔬菜
+骨骼和牙齿的形成，参与凝血过程，神经传导、肌肉收缩、心肌传导
+多种食物（以动物制品为主，也包括部分蔬菜）；与钠的来源类似
+维持血液及细胞内的酸碱平衡、渗透压，以及肾脏功能
+多种食物，包括全脂 / 脱脂牛奶、香蕉、西梅、葡萄干及肉类
+肌肉收缩、神经传导、细胞内的酸碱平衡，水平衡
+绿叶蔬菜、坚果、谷类、谷物、海鲜
+（参与）骨骼与牙齿形成、神经传导、肌肉收缩、酶激活
+多数食物都含有，包括牛肉、猪肉、沙丁鱼、乳酪、橄榄、玉米面包、土豆片、泡菜
+血液和细胞内酸碱平衡、渗透压、肌肉收缩、神经传递、细胞膜梯度的维持
+牛奶，乳酪，肉类、家禽、鱼类、粮食、果仁和豆类
+骨骼和牙齿形成、血液和细胞内酸碱平衡、能量产生
+
+【美国国家科学院医学研究所食品与营养委员会制定的《部分宏量营养素推荐膳食参考摄入量》*】
+美国国家科学院医学研究所食品与营养委员会制定的《部分宏量营养素推荐膳食参考摄入量》*
+年龄或时段（岁）
+蛋白质（g/kg）
+能量(千卡/公斤)
+钙（mg/kg）
+磷（mg/kg）
+镁（mg/kg）
+0.0～0.5
+108.3
+66.7
+50.0
+0.5～1.0
+94.4
+66.7
+55.6
+100.0
+61.5
+61.5
+90.0
+40.0
+40.0
+7～10
+71.4
+28.6
+28.6
+11–14
+55.6
+26.7
+26.7
+15–18
+45.5
+18.2
+18.2
+19～24
+40.3
+16.7
+16.7
+25～50
+36.7
+10.1
+10.1
+29.9
+10.4
+10.4
+11–14
+47.8
+26.1
+26.1
+15–18
+40.0
+21.8
+21.8
+19～24
+37.9
+20.7
+20.7
+25～50
+34.9
+12.7
+12.7
+29.2
+12.3
+12.3
+18.5
+18.5
+母乳喂养
+19.0
+19.0
+*这些摄入量旨在为在正常环境条件下生活的大多数健康美国人提供各年龄阶段的体现个体差异的每日摄入量。
+Adapted from U.S. Department of Agriculture and U.S. Department of Health and Human Services.Dietary Guidelines for Americans, 2020-2025.9th Edition.December 2020.Available atDietaryGuidelines.govandHeymsfield SB, Shapses SA.Guidance on Energy and Macronutrients across the Life Span.N Engl J Med.2024;390(14):1299-1310.doi:10.1056/NEJMra2214275.
+*这些摄入量旨在为在正常环境条件下生活的大多数健康美国人提供各年龄阶段的体现个体差异的每日摄入量。
+Adapted from U.S. Department of Agriculture and U.S. Department of Health and Human Services.Dietary Guidelines for Americans, 2020-2025.9th Edition.December 2020.Available atDietaryGuidelines.govandHeymsfield SB, Shapses SA.Guidance on Energy and Macronutrients across the Life Span.N Engl J Med.2024;390(14):1299-1310.doi:10.1056/NEJMra2214275.
+水被认为是一种常量营养素，因为它需要量为每消耗1千卡能量需要1毫升（0.24毫升/千焦）的水，或大约每天2500毫升。水的需要量随发热、生理活动量，或者气候冷热和环境湿度而变化。总水量的充足摄入量女性为2.7升，男性为3.7升 (1)。
+
+【常量营养素参考】
+1.Heymsfield SB, Shapses SA.Guidance on Energy and Macronutrients across the Life Span.N Engl J Med.2024;390(14):1299-1310.doi:10.1056/NEJMra2214275
+1.Heymsfield SB, Shapses SA.Guidance on Energy and Macronutrients across the Life Span.N Engl J Med.2024;390(14):1299-1310.doi:10.1056/NEJMra2214275
+2.Atkinson FS, Brand-Miller JC, Foster-Powell K, Buyken AE, Goletzke J.International tables of glycemic index and glycemic load values 2021: a systematic review.Am J Clin Nutr.2021;114(5):1625-1632.doi:10.1093/ajcn/nqab233
+2.Atkinson FS, Brand-Miller JC, Foster-Powell K, Buyken AE, Goletzke J.International tables of glycemic index and glycemic load values 2021: a systematic review.Am J Clin Nutr.2021;114(5):1625-1632.doi:10.1093/ajcn/nqab233
+3.Riccardi G, Rivellese AA, Giacco R.Role of glycemic index and glycemic load in the healthy state, in prediabetes, and in diabetes.Am J Clin Nutr.2008;87(1):269S-274S.doi:10.1093/ajcn/87.1.269S
+3.Riccardi G, Rivellese AA, Giacco R.Role of glycemic index and glycemic load in the healthy state, in prediabetes, and in diabetes.Am J Clin Nutr.2008;87(1):269S-274S.doi:10.1093/ajcn/87.1.269S
+4.Bingham SA, Day NE, Luben R, et al; European Prospective Investigation into Cancer and Nutrition.Dietary fibre in food and protection against colorectal cancer in the European Prospective Investigation into Cancer and Nutrition (EPIC): an observational study.Lancet.2003 May 3;361(9368):1496-501.doi: 10.1016/s0140-6736(03)13174-1.Erratum in:Lancet.2003 Sep 20;362(9388):1000.
+4.Bingham SA, Day NE, Luben R, et al; European Prospective Investigation into Cancer and Nutrition.Dietary fibre in food and protection against colorectal cancer in the European Prospective Investigation into Cancer and Nutrition (EPIC): an observational study.Lancet.2003 May 3;361(9368):1496-501.doi: 10.1016/s0140-6736(03)13174-1.Erratum in:Lancet.2003 Sep 20;362(9388):1000.
+5.Singh P, Tuck C, Gibson PR, Chey WD.The Role of Food in the Treatment of Bowel Disorders: Focus on Irritable Bowel Syndrome and Functional Constipation.Am J Gastroenterol.2022 Jun 1;117(6):947-957.doi: 10.14309/ajg.0000000000001767.Epub 2022 Apr 8.Erratum in:Am J Gastroenterol.2024 Jul 1;119(7):1442-1444.doi: 10.14309/ajg.0000000000002297
+5.Singh P, Tuck C, Gibson PR, Chey WD.The Role of Food in the Treatment of Bowel Disorders: Focus on Irritable Bowel Syndrome and Functional Constipation.Am J Gastroenterol.2022 Jun 1;117(6):947-957.doi: 10.14309/ajg.0000000000001767.Epub 2022 Apr 8.Erratum in:Am J Gastroenterol.2024 Jul 1;119(7):1442-1444.doi: 10.14309/ajg.0000000000002297
+6.Giacosa A, Rondanelli M.The right fiber for the right disease: an update on the psyllium seed husk and the metabolic syndrome.J Clin Gastroenterol.2010;44 Suppl 1:S58-S60.doi:10.1097/MCG.0b013e3181e123e7
+6.Giacosa A, Rondanelli M.The right fiber for the right disease: an update on the psyllium seed husk and the metabolic syndrome.J Clin Gastroenterol.2010;44 Suppl 1:S58-S60.doi:10.1097/MCG.0b013e3181e123e7
+7.King DE, Mainous AG, Lambourne CA.Trends in dietary fiber intake in the United States, 199–2008.J Acad Nutr Dietetics.112;5:P642-648.doi.org/10.1016/j.jand.2012.01.019
+7.King DE, Mainous AG, Lambourne CA.Trends in dietary fiber intake in the United States, 199–2008.J Acad Nutr Dietetics.112;5:P642-648.doi.org/10.1016/j.jand.2012.01.019
+8.Dahl WJ, Stewart ML.Position of the Academy of Nutrition and Dietetics: Health implications of dietary fiber.J Acad Nutr Dietetics.115;11: P1861-1870.doi.org/10.1016/j.jand.2015.09.003
+8.Dahl WJ, Stewart ML.Position of the Academy of Nutrition and Dietetics: Health implications of dietary fiber.J Acad Nutr Dietetics.115;11: P1861-1870.doi.org/10.1016/j.jand.2015.09.003
+9.Bauer J, Biolo G, Cederholm T, et al.Evidence-based recommendations for optimal dietary protein intake in older people: a position paper from the PROT-AGE Study Group.J Am Med Dir Assoc.14(8):542-559, 2013.doi:10.1016/j.jamda.2013.05.021
+9.Bauer J, Biolo G, Cederholm T, et al.Evidence-based recommendations for optimal dietary protein intake in older people: a position paper from the PROT-AGE Study Group.J Am Med Dir Assoc.14(8):542-559, 2013.doi:10.1016/j.jamda.2013.05.021
+10.Baum JI, Kim IY, Wolfe RR.Protein consumption and the elderly: What is the optimal level of intake?Nutrients.8(6):359, 2016.doi:10.3390/nu8060359
+10.Baum JI, Kim IY, Wolfe RR.Protein consumption and the elderly: What is the optimal level of intake?Nutrients.8(6):359, 2016.doi:10.3390/nu8060359
+11.Campbell B, Kreider RB, Ziegenfuss T, et al.International Society of Sports Nutrition position stand: protein and exercise.J Int Soc Sports Nutr.4:8, 2007.doi:10.1186/1550-2783-4-8
+11.Campbell B, Kreider RB, Ziegenfuss T, et al.International Society of Sports Nutrition position stand: protein and exercise.J Int Soc Sports Nutr.4:8, 2007.doi:10.1186/1550-2783-4-8
+12.U.S. Food and Drug Administration.Trans Fat.Accessed July 22, 2025.
+12.U.S. Food and Drug Administration.Trans Fat.Accessed July 22, 2025.
+13.Ascherio A, Willett WC.Health effects of trans fatty acids.Am J Clin Nutr.1997;66(4 Suppl):1006S-1010S.doi:10.1093/ajcn/66.4.1006S
+13.Ascherio A, Willett WC.Health effects of trans fatty acids.Am J Clin Nutr.1997;66(4 Suppl):1006S-1010S.doi:10.1093/ajcn/66.4.1006S
+14.Lichtenstein AH, Appel LJ, Vadiveloo M, et al.2021 Dietary Guidance to Improve Cardiovascular Health: A Scientific Statement From the American Heart Association.Circulation.2021;144(23):e472-e487.doi:10.1161/CIR.0000000000001031
+14.Lichtenstein AH, Appel LJ, Vadiveloo M, et al.2021 Dietary Guidance to Improve Cardiovascular Health: A Scientific Statement From the American Heart Association.Circulation.2021;144(23):e472-e487.doi:10.1161/CIR.0000000000001031
+15.Michos ED, McEvoy JW, Blumenthal RS.Lipid Management for the Prevention of Atherosclerotic Cardiovascular Disease.N Engl J Med.2019;381(16):1557-1567.doi:10.1056/NEJMra1806939
+15.Michos ED, McEvoy JW, Blumenthal RS.Lipid Management for the Prevention of Atherosclerotic Cardiovascular Disease.N Engl J Med.2019;381(16):1557-1567.doi:10.1056/NEJMra1806939
+16.Institute of Medicine (IOM).Dietary fats: Total fat and fatty acids.InDietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids; National Academics Press: Washington, DC, USA, 2005 DOI 10.17226/10490
+16.Institute of Medicine (IOM).Dietary fats: Total fat and fatty acids.InDietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids; National Academics Press: Washington, DC, USA, 2005 DOI 10.17226/10490
+
+【微量营养素】
+需求量极微的维生素和矿物质（微量矿物质）属于微量营养素。
+水溶性维生素包括维生素C以及8种维生素B族的成员：生物素、叶酸、烟酸、泛酸、核黄素（维生素 B2）、硫胺素（维生素 B1）、维生素 B6（吡哆醇）和维生素 B12（钴胺素）。
+脂溶性维生素包括维生素A（视黄醇）、维生素D（胆钙化醇和麦角钙化醇）、维生素E（α-生育酚）、维生素K（叶绿醌和甲萘醌）。
+只有维生素A、E和B12能在体内大量储存；其他维生素必须定期摄入才能维持组织健康。
+必需的微量元素包括铬、铜、碘、铁、锰、钼、硒、锌。除了铬以外，上述其他元素在代谢过程中都同相关的酶或激素结合，成为其中的组成成分。在食物安全风险较低的国家，除铁与锌缺乏外，其他微量矿物质缺乏并不常见。
+其他矿物质（例如，铝、砷、硼、钴、氟化物、镍、硅、钒）尚未被证实对人类是必需的。氟虽然不是必需的微量元素，但它能通过与钙结合形成稳定牙齿中矿物质基质的氟化钙（CaF2），从而防止龋齿的发生。
+所有微量矿物质在高剂量下均具有毒性，部分矿物质（砷、镍、铬）还可能致癌。
+
+【其他的食物成分】
+人类的日常食物中含有数以十万计的化学成分（例如，咖啡中含有1000种），然而仅300种具有营养价值，其中部分才是人体必需的。但食物中的许多非营养成分也具有实用价值。 例如食物添加剂（包括防腐剂、乳化剂、抗氧化剂和稳定剂等）能够改善食品的质量和保存，微量成分（如香料、风味物质、气味物质、色素、植物化学物及其他多种天然产物）可改善食物的外观与口感。
+
+【加工食品、有机食品和生物工程或转基因食品】
+
+【加工食品】
+美国农业部（USDA）将加工食品定义为经过清洗、清洁、研磨、切割、切碎、加热、巴氏杀菌、杀青、烹饪、罐装、冷冻、干燥、脱水、混合、包装或任何其他改变食物天然状态的程序的任何原始农产品。根据这个定义，几乎所有的食物都经过一定程度的加工。一些现代的食品加工，会剥夺食物中的营养。例如，碾磨会去除麸皮和胚芽，从而使谷物失去纤维、铁以及多种B族维生素。食品加工过程通常还会添加各类添加剂，例如防腐剂（如苯甲酸盐、山梨酸盐、亚硝酸盐、亚硫酸盐、柠檬酸）；人工色素、香精、甜味剂；稳定剂；乳化剂；人工合成的维生素与矿物质；以及盐、味精（MSG）、糖、脂肪、精炼油等其他添加剂。一些食品添加剂尤其会对儿童产生不利影响。
+超加工食品（如糖果、咸味零食、含糖饮料、重组肉和鱼、即食食品和快餐）越来越常见，占许多国家食品供应的近一半。它们由廉价成分（包括不健康的脂肪、精制谷物和淀粉，以及添加的糖和盐）制成，这些成分通常与食品添加剂（包括人工色素、香料和防腐剂）结合使用，使它们价格低廉且非常美味，并延长保质期。大多数含有很少或不含全食物。这些食物会促进暴饮暴食和体重增加，并且相对缺乏有价值的营养物质，从而增加胰岛素抵抗以及其他疾病（例如，冠状动脉疾病、抑郁症、肠易激综合征、癌症，甚至过早死亡）的风险。
+
+【有机食品】
+要获得美国农业部（USDA）认证的有机标签，必须根据联邦指导方针种植和加工有机食品，这些指导方针涉及许多因素，包括土壤质量、动物饲养做法、病虫害和杂草控制以及添加剂的使用。例如，要将肉类标记为有机食品，动物必须在适应其自然行为（例如能够在牧场放牧）的环境中饲养，必须喂食 100% 的有机饲料和草料，并且不得使用抗生素或激素。要贴上美国农业部有机认证标志，产品必须含有 95% 的有机成分。
+尽管有机食品对健康益处的确定性和程度尚不清楚，但不含抗生素有助于防止抗生素耐药性。合成农药也可能增加儿童自闭症(1),注意力缺陷/多动症(2)（ADHD）和认知能力受损的风险。控制有机食品成本上升的策略之一是参考环境工作组织（EWG）每年发布的农药残留水平清单，其中农药残留十二大高风险蔬果清单指农药残留量高于其他作物的农产品和农药残留十五大低风险蔬果清单指农药残留量最低的农产品。
+
+【生物工程或转基因食品】
+生物工程或转基因食品是指含有转基因生物 (GMOs) 的食品。根据世界卫生组织（WHO）的说法，这些食品含有通过实验室技术修饰的DNA，这些DNA不能通过传统育种产生，也不能在自然界中发现。自20世纪90年代初以来，转基因食品就存在于美国食品供应中，其对人类和动物的安全由美国食品药品监督管理局（FDA）、环境保护局（EPA）和美国农业部监督。
+自 2022 年 1 月起，食品需要贴上标签，表明其是否为生物工程食品。这些食物往往是常见的成分，可能难以识别。
+尽管食用生物工程食品对人体健康无风险，但食品安全倡导组织仍提出了一些担忧：例如（若转入的 DNA 来自致敏食物）可能引发过敏，以及食用除草剂改良作物可能使抗生素耐药基因转移至人体消化道，进而导致抗生素耐药性。世界卫生组织表示，这种抗生素耐药性的风险很小，但并非微不足道。
+
+【微量营养素参考值】
+1.von Ehrenstein OS, Ling C, Cui X, et al.Prenatal and infant exposure to ambient pesticides and autism spectrum disorder in children: population based case-control study.BMJ.2019; 364 doi: https://doi.org/10.1136/bmj.l962
+1.von Ehrenstein OS, Ling C, Cui X, et al.Prenatal and infant exposure to ambient pesticides and autism spectrum disorder in children: population based case-control study.BMJ.2019; 364 doi: https://doi.org/10.1136/bmj.l962
+2.Tessari L, Angriman M, Díaz-Román A, Zhang J, Conca A, Cortese S.Association Between Exposure to Pesticides and ADHD or Autism Spectrum Disorder: A Systematic Review of the Literature.J Atten Disord.2022;26(1):48-71.doi:10.1177/1087054720940402
+2.Tessari L, Angriman M, Díaz-Román A, Zhang J, Conca A, Cortese S.Association Between Exposure to Pesticides and ADHD or Autism Spectrum Disorder: A Systematic Review of the Literature.J Atten Disord.2022;26(1):48-71.doi:10.1177/1087054720940402
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+U.S. Department of Health and Human Services and US Department of Agriculture. Dietary Guidelines for Americans, 2020-2025
+U.S. Department of Health and Human Services and US Department of Agriculture. Dietary Guidelines for Americans, 2020-2025

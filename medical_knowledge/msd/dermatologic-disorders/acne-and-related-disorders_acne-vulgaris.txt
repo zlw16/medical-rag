@@ -1,0 +1,328 @@
+标题：寻常型痤疮
+来源：https://www.msdmanuals.cn/professional/dermatologic-disorders/acne-and-related-disorders/acne-vulgaris
+============================================================
+
+痤疮是美国最常见的皮肤病，至少 70% 的人口在一生中的某个阶段会患上痤疮（1）。
+
+【参考文献】
+1.Collier CN, Harper JC, Cafardi JA, et al: The prevalence of acne in adults 20 years and older.J Am Acad Dermatol58(1):56-59, 2008.doi: 10.1016/j.jaad.2007.06.045
+1.Collier CN, Harper JC, Cafardi JA, et al: The prevalence of acne in adults 20 years and older.J Am Acad Dermatol58(1):56-59, 2008.doi: 10.1016/j.jaad.2007.06.045
+
+【寻常型痤疮的病理生理学】
+痤疮发生于4个主要因素的相互作用：
+过剩的皮脂分泌
+过剩的皮脂分泌
+毛囊被皮脂和角质形成细胞堵塞
+毛囊被皮脂和角质形成细胞堵塞
+卵泡的定植Cutibacterium acnes（以前Propionibacterium acnes), 正常人体厌氧菌
+卵泡的定植Cutibacterium acnes（以前Propionibacterium acnes), 正常人体厌氧菌
+多种炎症介质的释放
+多种炎症介质的释放
+痤疮可分为下列几种类型：
+非炎性：主要为粉刺
+非炎性：主要为粉刺
+炎性痤疮：主要表现为丘疹、脓疱、结节和囊肿。
+炎性痤疮：主要表现为丘疹、脓疱、结节和囊肿。
+
+【非炎性痤疮】
+粉刺由脂栓阻塞毛孔所致。根据开口于皮肤的毛囊口是扩张还是闭合状态，粉刺又可分为开放性粉刺和闭合性粉刺。角栓很容易从开放粉刺挤出，但难以从闭合粉刺中拔出。闭合粉刺是炎性痤疮的前身。
+
+【炎症性痤疮】
+当C. acnes（痤疮丙酸杆菌）在闭合粉刺中定植时，将皮脂分解为游离脂肪酸，刺激毛囊上皮，引发中性粒细胞和淋巴细胞的炎症反应，进一步破坏上皮，就会出现丘疹和脓疱。当发生炎症的毛囊破裂（通常为物理摩擦或用力擦洗所致），粉刺样内容物进入真皮，进一步诱发局部炎症，临床上便形成了丘疹。如果炎症剧烈，便会产生化脓性脓疱。
+结节和囊肿是炎症性痤疮的其他表现。结节是更深在的皮疹，可能累及超过一个毛囊，而囊肿是较大的具有波动感的结节。
+
+【寻常痤疮的病因】
+此类疾病最常见病因是
+在青春期，此时体内骤增的雄激素可刺激皮脂腺分泌以及毛囊上皮过度角化。
+其他可能的触发因素包括：
+怀孕或月经周期可伴随有激素水平的变化。
+怀孕或月经周期可伴随有激素水平的变化。
+可致毛孔堵塞的化妆品、清洁剂、洗剂和衣物
+可致毛孔堵塞的化妆品、清洁剂、洗剂和衣物
+高湿度和出汗
+高湿度和出汗
+痤疮加重与洗脸不充分、手淫、吃巧克力和性活动之间的关联是没有根据的。一些研究表明，这可能与乳制品(1)和高血糖负荷饮食(2)有关。由于日光的抗炎作用，痤疮在夏季会有所缓解。高胰岛素血症亦可能与痤疮的发病有关 (3, 4) ，但仍需进一步研究。 某些药物（如糖皮质激素、锂、苯妥英钠、异烟肼）可加重粉刺或诱发痤疮样疹。
+
+【病因参考文献】
+1.Adebamowo CA, Spiegelman D, Berkey CS, et al: Milk consumption and acne in teenaged boys.J Am Acad Dermatol58(5):787-793, 2008.doi: 10.1016/j.jaad.2007.08.049
+1.Adebamowo CA, Spiegelman D, Berkey CS, et al: Milk consumption and acne in teenaged boys.J Am Acad Dermatol58(5):787-793, 2008.doi: 10.1016/j.jaad.2007.08.049
+2.Smith RN, Mann NJ, Braue A, et al: The effect of a high-protein, low glycemic-load diet versus a conventional, high glycemic-load diet on biochemical parameters associated with acne vulgaris: A randomized, investigator-masked, controlled trial.J Am Acad Dermatol57(2):247-256, 2007.doi: 10.1016/j.jaad.2007.01.046
+2.Smith RN, Mann NJ, Braue A, et al: The effect of a high-protein, low glycemic-load diet versus a conventional, high glycemic-load diet on biochemical parameters associated with acne vulgaris: A randomized, investigator-masked, controlled trial.J Am Acad Dermatol57(2):247-256, 2007.doi: 10.1016/j.jaad.2007.01.046
+3.Vora S, Ovhal A, Jerajani H, et al: Correlation of facial sebum to serum insulin-like growth factor-1 in patients with acne.Br J Dermatol159(4):990-991, 2008.doi: 10.1111/j.1365-2133.2008.08764.x
+3.Vora S, Ovhal A, Jerajani H, et al: Correlation of facial sebum to serum insulin-like growth factor-1 in patients with acne.Br J Dermatol159(4):990-991, 2008.doi: 10.1111/j.1365-2133.2008.08764.x
+4.Nagpal M, De D, Handa S, et al: Insulin resistance and metabolic syndrome in young men with acne.JAMA Dermatol152(4):399-404, 2016.doi: 10.1001/jamadermatol.2015.4499
+4.Nagpal M, De D, Handa S, et al: Insulin resistance and metabolic syndrome in young men with acne.JAMA Dermatol152(4):399-404, 2016.doi: 10.1001/jamadermatol.2015.4499
+
+【寻常痤疮的症状和体征】
+痤疮皮疹和疤痕会给患者带来不容忽视的负面情绪。结节和囊肿可伴疼痛。不同阶段的皮损常常共存。
+粉刺分为白头和黑头粉刺。白头粉刺（闭合性粉刺）表现为肉色或白色的丘疹，直径1～3mm；黑头粉刺（开放性粉刺）与其大小形态类似，但中央呈黑色。
+© Springer Science+Business Media
+© Springer Science+Business Media
+脓疱是隆起的，通常是带有脓液的黄色顶部病变。 这个长痘痘的人脸上会出现散落的脓疱。
+脓疱是隆起的，通常是带有脓液的黄色顶部病变。 这个长痘痘的人脸上会出现散落的脓疱。
+图片由医学博士Thomas Habif提供。
+痤疮通常表现为粉刺（白头或黑头），也表现为丘疹（蓝色箭头）和脓疱（黑色箭头）。
+痤疮通常表现为粉刺（白头或黑头），也表现为丘疹（蓝色箭头）和脓疱（黑色箭头）。
+图片由医学博士Thomas Habif提供。
+丘疹和痂也可见。
+丘疹和痂也可见。
+© Springer Science+Business Media
+存在丘疹和粉刺。
+存在丘疹和粉刺。
+© Springer Science+Business Media
+面部出现红斑脓疱和丘疹以及炎症后色素沉着和疤痕。
+面部出现红斑脓疱和丘疹以及炎症后色素沉着和疤痕。
+© Springer Science+Business Media
+© Springer Science+Business Media
+© Springer Science+Business Media
+脓疱是隆起的，通常是带有脓液的黄色顶部病变。 这个长痘痘的人脸上会出现散落的脓疱。
+脓疱是隆起的，通常是带有脓液的黄色顶部病变。 这个长痘痘的人脸上会出现散落的脓疱。
+图片由医学博士Thomas Habif提供。
+痤疮通常表现为粉刺（白头或黑头），也表现为丘疹（蓝色箭头）和脓疱（黑色箭头）。
+痤疮通常表现为粉刺（白头或黑头），也表现为丘疹（蓝色箭头）和脓疱（黑色箭头）。
+图片由医学博士Thomas Habif提供。
+丘疹和痂也可见。
+丘疹和痂也可见。
+© Springer Science+Business Media
+存在丘疹和粉刺。
+存在丘疹和粉刺。
+© Springer Science+Business Media
+面部出现红斑脓疱和丘疹以及炎症后色素沉着和疤痕。
+面部出现红斑脓疱和丘疹以及炎症后色素沉着和疤痕。
+© Springer Science+Business Media
+丘疹和脓疱表现为2～5mm大小的红色皮损。丘疹相对比较深在。脓疱的部位要浅些。
+结节较丘疹更大、更深，触之更坚实。形态与炎性表皮样囊肿类似，但实际上痤疮结节缺乏真正的囊壁结构。
+囊肿是化脓的结节。极少的囊肿会形成深在脓肿。长期的囊肿型痤疮会导致疤痕的形成，表现多样，如小而深的凹陷（冰锥形瘢痕）、较大的凹陷、表浅的凹陷，增生性瘢痕及瘢痕疙瘩。
+炎症性痤疮病变消退后可能会导致色素沉着。
+该图像显示与囊性痤疮一致的化脓性结节。
+聚合性痤疮是寻常型痤疮最严重的一种表现，多发于男性。患者出现脓肿、窦道、瘘管，以及增生性或萎缩性瘢痕。胸、背部常严重受累，手臂、腹部、臀部亦可累及，严重病例皮损可累及头皮。
+这张照片显示了面部融合性痤疮，这是最严重的寻常痤疮形式。可见脓肿和瘢痕疙瘩。
+暴发性痤疮是一种急性、发热性、溃疡性痤疮，特征表现为突发的融合性脓肿所致的出血性坏死。出现白细胞增多、关节肿痛等系统症状。
+这张照片显示了痤疮引起的融合和非融合溃疡。
+面部脓皮病（亦称为“暴发性酒渣鼻”）常突发于年轻女性的面中部，可能是暴发性痤疮的同型。皮损表现为分布在下颌、面颊和前额的红斑性斑块、脓疱。 丘疹和结节可能发展并融合。
+这张照片显示面部脓皮病有红斑、丘疹、脓疱和融合结节。
+这张图片显示了在怀孕期间出现的带有红斑、丘疹和脓疱的面部脓皮病。
+
+【寻常痤疮的诊断】
+评估诱发因素（如激素水平、物理机械因素或药物相关等）
+评估诱发因素（如激素水平、物理机械因素或药物相关等）
+明确严重程度分级（轻度、中度、重度）
+明确严重程度分级（轻度、中度、重度）
+评估心理社会状态
+评估心理社会状态
+根据临床表现即可诊断痤疮。
+鉴别诊断包括玫瑰痤疮（不会出现粉刺）、激素诱发性痤疮（不会出现粉刺，脓疱形态较均一）、口周皮炎（通常分布于口周和眼周），以及痤疮样药疹 （见表药物反应类型和常见诱发药物)。根据皮损的数量和类型，痤疮可分为轻度、中度和重度痤疮；标准分级系统之一详见表痤疮的严重程度分类。
+
+【痤疮的严重程度分级】
+痤疮的严重程度分级
+严重程度
+粉刺<20个，或炎性皮损<15或皮损总计数<30
+粉刺20～100个，或炎性皮损15～50个，或皮损总计数30～125个
+囊肿>5个，或粉刺总数>100个，或炎性皮损总计数>50，或皮损总计数>125
+
+【治疗寻常痤疮】
+粉刺：外用维A酸
+粉刺：外用维A酸
+轻度炎症性痤疮：单独外用维A酸，或者联合抗生素或（和）过氧化苯甲酰
+轻度炎症性痤疮：单独外用维A酸，或者联合抗生素或（和）过氧化苯甲酰
+中度痤疮：口服抗生素联合轻度痤疮所用的局部治疗
+中度痤疮：口服抗生素联合轻度痤疮所用的局部治疗
+重度痤疮：口服异维A酸
+重度痤疮：口服异维A酸
+囊肿性痤疮：皮损内使用曲安奈德
+囊肿性痤疮：皮损内使用曲安奈德
+控制痤疮病情、减少疤痕形成、进行心理干预对于痤疮治疗是十分重要的。
+痤疮治疗囊括了一系列的外用和系统用药，作用靶点包括降低皮脂腺分泌、抑制粉刺形成、抗炎、抗菌以及改善上皮角化过度（ 见图不同药物治疗痤疮的机制) 。一般根据痤疮的严重程度来选择相应的治疗，方案总结见表治疗痤疮的药物。另见2016年寻常痤疮治疗护理指南2024年寻常痤疮治疗护理指南美国皮肤病学会制定的。
+皮损处应该每天清洗一到两次，但过度清洁、使用抗菌皂以及搓洗，只会适得其反。
+对于难治性青春期痤疮，可以考虑降低血糖饮食和适量牛奶摄入，但这些措施在治疗痤疮方面的有效性仍存在争议 (1)。
+去皮剂（如硫磺、水杨酸、乙醇酸、对苯二酚）是有效的辅助治疗剂。
+联合（雌激素加孕激素）口服避孕药可有效治疗炎症性和非炎症性痤疮（2)，而螺内酯是另一种常对女性有用的抗雄激素（3、4）。
+各种光疗法，使用和不使用外用光敏剂，可有效治疗痤疮，尤其是炎性痤疮，但支持证据质量不高（5）。
+治疗应包括宣教和给患者制定切实可行的治疗方案。治疗失败通常是因为患者依从性不够，或随访时间尚不足。专科医生的会诊亦十分必要。
+
+【不同药物治疗痤疮的机制】
+不同药物治疗痤疮的机制
+
+【治疗痤疮的药物】
+治疗痤疮的药物
+药物治疗
+不良反应
+外用抗菌制剂
+2.5%、5%、10%过氧化苯甲酰凝胶、水粉剂、洗剂
+皮肤干燥
+可能使衣物、毛发漂白
+过敏反应（极少）
+溶解粉刺和抗菌作用，极少甚至无耐药性形成
+如能耐受可用于所有的痤疮患者
+凝胶制剂最常用
+过氧化苯甲酰/克林霉素凝胶
+皮肤干燥
+可能使衣物、毛发漂白
+过敏反应（极少）
+美国皮肤病学会2024年寻常痤疮治疗护理指南提到的一种组合产品2024 guidelines of care for the management of acne vulgaris
+过氧化苯甲酰/红霉素凝胶
+皮肤干燥
+可能使衣物、毛发漂白
+过敏反应（极少）
+部分剂型必须冷藏保存
+1% 克林霉素凝胶、溶液或洗剂
+腹泻（极少）
+合并炎症性肠病的患者禁用
+氨苯砜 5% 和 7.5% 凝胶
+与过氧化苯甲酰合用时皮肤暂时变黄
+极少引起高铁血红蛋白血症
+1.5%～2.0%红霉素（多种基质媒介）
+局部刺激（极少）
+耐受性佳，但易产生耐药性
+米诺环素泡沫 4%
+刺激、皮肤干燥、发红
+泡沫推进剂是易燃的。应用后立即避免火灾/火焰和吸烟。
+外用粉刺溶解剂和表皮剥脱剂
+0.1%阿达帕林凝胶、霜、溶液； 0.3%阿达帕林凝胶
+局部发红、烧灼感光敏性增加
+与维A酸作用效果等同，但刺激性更小
+加强防晒（衣物遮盖和防晒霜）
+20%壬二酸霜
+可能会提亮肤色
+刺激性极小
+单用或联合维A酸药物
+深色肤色的人群慎用，因其有提亮肤色的效果
+5%～10%乙醇酸
+轻微刺激
+乳霜、乳液或溶液中的非处方产品；辅助治疗但不再常用
+0.05%或0.1%他扎罗汀霜、凝胶
+局部刺激
+光敏性增加
+使用该类药物后，可能会出现皮损加重，一般3～4周可缓解
+加强防晒（衣物遮盖和防晒霜）
+孕妇禁用
+维A酸 0.025%、0.05%、0.1%霜剂，0.05%溶液；0.01%、0.025%、0.1%凝胶
+皮肤刺激（干燥、红斑和脱屑）
+光敏性增加
+起始治疗从低浓度如0.025%乳霜开始，若无效，逐渐增加浓度；若有刺激感出现，降低浓度和（或）使用频率
+使用该类药物后，可能会出现皮损加重，一般3～4周可缓解
+加强防晒（衣物遮盖和防晒霜）
+孕妇禁用
+Trifarotene 0.005% 乳膏
+干燥、红斑及皮肤脱屑
+光敏性增加
+加强防晒（衣物遮盖和防晒霜）
+口服抗生素
+阿奇霉素
+胃部不适
+易产生耐药性
+多西环素
+光敏性增加
+性价比最高
+加强防晒（衣物遮盖和防晒霜）
+胃部不适
+易产生耐药性
+米诺环素
+皮肤褪色
+有时被认为是更有效的抗生素，但目前尚不清楚，而且价格昂贵（6)
+Sarecycline
+与其他四环素类药物相似
+针对痤疮特异性细菌的窄谱活性
+光敏性增加
+经济且安全，必须空腹口服
+加强防晒（衣物遮盖和防晒霜）
+磺胺甲恶唑/甲氧苄啶、SMX-TMP、复方新诺明
+很少有药物不良反应
+细菌耐药性的产生
+口服维甲酸
+异维A酸
+可能对发育中的胎儿造成伤害（怀孕期间禁用）
+可能影响血细胞、肝功能、血脂（甘油三酯和胆固醇）水平
+眼干、口唇干裂、黏膜干燥等
+大剂量可引起大关节及低位脊椎的疼痛和僵硬
+与抑郁、自杀念想、试图自杀以及（极少）自杀有关
+是否有新发或恶化的炎性肠病（克罗恩病和溃疡性结肠炎）有关联尚不明确。
+对性活跃期的女性，在使用异维A酸前须行妊娠测试以排除妊娠；在用药前1个月、用药期间、停药后1个月，月经间期须使用两种避孕措施或节制性欲以避免怀孕
+需要定期随访全血细胞计数、肝功能、空腹血糖和血脂。
+抗雄激素
+Clascoterone 1% 乳膏
+发红、脱屑或干燥，以及瘙痒
+用于治疗12岁及以上患者的痤疮
+联合（雌激素加孕激素）口服避孕药
+高血压、血栓栓塞事件
+体重增加
+突破性出血
+用于治疗女性痤疮
+安体舒通
+排尿增多
+乳房胀痛
+用于治疗女性痤疮
+
+【轻度痤疮】
+轻微痤疮治疗须持续6～12周，或直到皮损消退。为巩固疗效，维持治疗也十分必要。
+对于粉刺型痤疮，一般单药治疗足矣。治疗粉刺，最主要的就是在耐受的前提下每天外用维A酸制剂；对此不能耐受的患者，可换用阿达帕林凝胶、他扎罗汀霜/凝胶、壬二酸霜、乙醇酸或水杨酸等。副作用包括红斑、灼烧感、刺痛和脱屑。阿达帕林和他扎罗汀都是维A酸类药物，与维A酸一样，都有轻微的刺激和光敏性。壬二酸有粉刺溶解和抗菌作用，机制不明，与维A酸类药物有协同作用。
+双药联合治疗（例如，如维甲酸联合过氧化苯甲酰或外用抗生素，或后两者联合）用于治疗轻度丘疹脓疱性（炎症）痤疮。外用抗生素通常是红霉素或克林霉素。抗生素制剂联合过氧化苯甲酰外用可以减少耐药性的发生。 乙醇酸可以代替维甲酸或除维甲酸外使用，但不再普遍使用。 除了可引起干燥和刺激（以及罕见的对过氧化苯甲酰的过敏反应），这些治疗并无严重的不良反应。
+对外用治疗无反应的患者，用粉刺提取器物理性地剔除粉刺亦是不错的选择。粉刺剔除术可由医师、护士或医师助手完成。粉刺提取器的一端类似于刀片或刺刀，可刺破闭合性粉刺，另一端施压于患处，挤出粉刺内容物。
+当皮损泛发，外用治疗无法控制时，可考虑予以口服抗生素（如四环素、米诺环素、多西环素、红霉素等）。
+Clascoterone是第一个治疗痤疮的外用雄激素受体抑制剂。它可用于12岁及以上的患者。1%克拉司酮乳膏每天使用2次。不良反应包括发红、脱屑或干燥、瘙痒；虽然根据其机制预测了高钾血症和下丘脑-垂体-肾上腺轴抑制，但这些影响在临床上尚未发现(7）。
+
+【中度痤疮】
+口服抗生素全身治疗 是治疗中度痤疮的最佳方式。对痤疮有效的抗生素有四环素、米诺环素、强力霉素和萨瑞环素，最好连续使用≥12周。
+局部治疗轻度痤疮通常与口服抗生素同时进行。
+多西环素和米诺环素是一线药物；两者都可以与食物一起服用。四环素也是一种很好的首选药物，但它不能与食物同服，且疗效可能低于多西环素和米诺环素。多西环素和米诺环素的使用剂量为50~100mg 口服， 每日2次。多西环素可引起光敏，长期使用米诺环素可引起更多不良反应，包括药物诱发性狼疮和色素沉着。 病情控制后，为减少抗生素耐药的发生（通常2~3个月），应尽可能减少剂量以维持病情控制状态。Sarecycline 是一种新型四环素抗生素。 若局部治疗维持在病情控制良好的状态，可停用抗生素。
+红霉素和阿奇霉素是其他的选择，但它们可能会导致胃肠道不良反应，也更常发生抗生素耐药。一些医生还使用磺胺甲恶唑/甲氧苄啶、SMX-TMP、复方新诺明。然而，抗生素耐药性可能会产生，并且这种组合可能会导致罕见的药物不良反应。
+长期使用抗生素可能引起鼻部和面中部的革兰氏阴性菌脓疱性毛囊炎。这种并不常见的二重感染治疗起来比较棘手，最好在停用口服抗生素后续服异维A酸。氨苄西林亦是治疗革兰氏阴性菌毛囊炎的选择之一。长期使用抗生素的女性，易继发念珠菌性阴道炎；若局部和系统用药均不能治愈阴道炎，须停用治疗痤疮的抗生素。
+对口服抗生素无效的女性患者，可以考虑予以口服抗雄激素治疗（口服避孕药和/或安体舒通）。
+
+【重度痤疮】
+对于抗生素治疗无效的中度痤疮和炎症严重的痤疮，口服异维A酸是最佳选择。剂量通常为1mg/（kg•d），可增加至2mg/（kg•d），疗程16～20周。若该剂量下出现严重的副反应，则减量至0.5mg/（kg•d）。停止用药后，痤疮仍会继续改善。
+许多患者不需要第二疗程；如若需要，须在停药4个月后再开始第二疗程的用药，但严重情况下可以更早复用。如果初始剂量较低（0.5 mg/kg），则更需要再次治疗。使用这种剂量（在欧洲非常流行），不良反应较少发生，但通常需要延长治疗时间。累积剂量获得研究支持; 120至150mg/kg的总剂量导致较低的复发率，一些专家建议累积剂量更高，为220mg/kg (8)。
+异维A酸治疗痤疮效果极佳，但临床运用受限于其副作用，包括睑结膜和生殖器黏膜的干燥、口唇干裂、关节痛、抑郁、血脂升高等，孕期用药还有导致胎儿畸形的风险。外用凡士林产生的水合作用可以缓解黏膜和皮肤的干燥。关节痛（主要是大关节或下背部）经常发生。不少文献均认为口服异维A酸可增加抑郁和自杀的风险，但这仍是小概率事件。新发或恶化的炎症性肠病（克罗恩病和溃疡性结肠炎）的风险是否增加仍不明确（9）。
+治疗前应检测全血细胞计数、肝功能、甘油三酯和胆固醇水平。治疗4周后须重新评估上述指标，若未发现异常，直至治疗结束无需再重复检查。甘油三酯很少升高到需要停药的水平。肝功能很少受到影响。 由于异维A酸具有致畸性，须告知育龄期妇女在用药前1月、用药期间以及停药后1个月均须使用两种避孕措施以防止怀孕。 治疗前直到治疗后1个月，每月均须行妊娠测试。
+
+【囊肿性痤疮】
+皮损内注射0.1 mL浓度为2.5mg/mL（浓度为10mg/mL的悬液需先进行稀释）的曲安奈德悬浊液适用于渴望迅速改善皮损并减少瘢痕形成的囊肿性痤疮患者。可能会出现局部萎缩，但多为暂时性的。对于孤立的、湿软的皮损，切开引流效果佳，但会留有永久性瘢痕。
+
+【其他类型痤疮】
+面部脓皮病须用口服糖皮质激素和异维A酸治疗。
+暴发性痤疮常需口服糖皮质激素和系统使用抗生素进行治疗。
+如果很严重且全身性抗生素无效，则合并性痤疮可用口服异维jia酸和全身性皮质类固醇治疗。
+由内分泌异常引发的痤疮（例如，多囊性卵巢综合征，女性的男性化肾上腺肿瘤），需使用抗雄激素治疗。螺内酯具有一定的抗雄激素作用，有时用于治疗痤疮。环丙孕酮在欧洲运用广泛。当其他措施均无效时，可尝试含有雌孕激素的避孕药，疗程≥6个月方可显效。
+小的瘢痕可用化学剥脱、激光换肤、磨削术等治疗。深而散的瘢痕可予以切除。 宽而浅的凹坑可采用皮下切除，或注射胶原蛋白或其他填充物来治疗。包括胶原蛋白，透明质酸和聚甲基丙烯酸甲酯在内的填充物的功效是暂时的，必须定期重复使用。
+
+【治疗参考文献】
+1.Dall'Oglio F, Nasca M, Fiorentini F, Micali G: Diet and acne: Review of the evidence from 2009 to 2020.Int J Dermatol60(6):672–685, 2021. doi: 10.1111/ijd.15390
+1.Dall'Oglio F, Nasca M, Fiorentini F, Micali G: Diet and acne: Review of the evidence from 2009 to 2020.Int J Dermatol60(6):672–685, 2021. doi: 10.1111/ijd.15390
+2.Koltun W, Maloney JM, Marr J, et al:Treatment of moderate acne vulgaris using a combined oral contraceptive containing ethinylestradiol 20 μg plus drospirenone 3 mg administered in a 24/4 regimen: a pooled analysis.Eur J Obstet Gynecol Reprod Biol2011 Apr;155(2):171-5.doi: 10.1016/j.ejogrb.2010.12.027.Epub 2011 Feb 2.
+2.Koltun W, Maloney JM, Marr J, et al:Treatment of moderate acne vulgaris using a combined oral contraceptive containing ethinylestradiol 20 μg plus drospirenone 3 mg administered in a 24/4 regimen: a pooled analysis.Eur J Obstet Gynecol Reprod Biol2011 Apr;155(2):171-5.doi: 10.1016/j.ejogrb.2010.12.027.Epub 2011 Feb 2.
+3.Grandhi R, Alikhan A: Spironolactone for the Treatment of Acne: A 4-Year Retrospective Study.Dermatology233(2-3):141-144, 2017.doi: 10.1159/000471799
+3.Grandhi R, Alikhan A: Spironolactone for the Treatment of Acne: A 4-Year Retrospective Study.Dermatology233(2-3):141-144, 2017.doi: 10.1159/000471799
+4.Roberts EE, Nowsheen S, Davis MDP, et al: Treatment of acne with spironolactone: A retrospective review of 395 adult patients at Mayo Clinic, 2007-2017.J Eur Acad Dermatol Venereol34(9):2106-2110, 2020.doi: 10.1111/jdv.16302
+4.Roberts EE, Nowsheen S, Davis MDP, et al: Treatment of acne with spironolactone: A retrospective review of 395 adult patients at Mayo Clinic, 2007-2017.J Eur Acad Dermatol Venereol34(9):2106-2110, 2020.doi: 10.1111/jdv.16302
+5.Barbaric J, Abbott R, Posadzki P, et al: Light therapies for acne.Cochrane Database Syst Rev9(9):CD007917, 2016.doi: 10.1002/14651858.CD007917.pub2
+5.Barbaric J, Abbott R, Posadzki P, et al: Light therapies for acne.Cochrane Database Syst Rev9(9):CD007917, 2016.doi: 10.1002/14651858.CD007917.pub2
+6.Bienenfeld A, Nagler AR, Orlow SJ: Oral antibacterial therapy for acne vulgaris: An evidence-based review.Am J Clin Dermatol18(4):469–490, 2017.doi: 10.1007/s40257-017-0267-z
+6.Bienenfeld A, Nagler AR, Orlow SJ: Oral antibacterial therapy for acne vulgaris: An evidence-based review.Am J Clin Dermatol18(4):469–490, 2017.doi: 10.1007/s40257-017-0267-z
+7.Hebert A, Thiboutot D, Stein Gold L, et al: Efficacy and safety of topical clascoterone cream, 1%, for treatment in patients with facial acne: Two phase 3 randomized clinical trials.JAMA Dermatol156(6):621–630, 2020.doi:10.1001/jamadermatol.2020.0465
+7.Hebert A, Thiboutot D, Stein Gold L, et al: Efficacy and safety of topical clascoterone cream, 1%, for treatment in patients with facial acne: Two phase 3 randomized clinical trials.JAMA Dermatol156(6):621–630, 2020.doi:10.1001/jamadermatol.2020.0465
+8.Blasiak RC, Stamey CR, Burkhart CN, et al: High-doseisotretinointreatment and the rate of retrial, relapse, and adverse effects in patients with acne vulgaris.JAMA Dermatol149(12):1392–1398, 2013.doi: 10.1001/jamadermatol.2013.6746
+8.Blasiak RC, Stamey CR, Burkhart CN, et al: High-doseisotretinointreatment and the rate of retrial, relapse, and adverse effects in patients with acne vulgaris.JAMA Dermatol149(12):1392–1398, 2013.doi: 10.1001/jamadermatol.2013.6746
+9.Lee SY, Jamal MM, Nguyen ET, et al: Does exposure to isotretinoin increase the risk for the development of inflammatory bowel disease?A meta-analysis.Eur J Gastroenterol Hepatol28(2):210–216, 2016. doi: 10.1097/MEG.0000000000000496
+9.Lee SY, Jamal MM, Nguyen ET, et al: Does exposure to isotretinoin increase the risk for the development of inflammatory bowel disease?A meta-analysis.Eur J Gastroenterol Hepatol28(2):210–216, 2016. doi: 10.1097/MEG.0000000000000496
+
+【寻常痤疮的预后】
+各种类型的痤疮20岁以后往往能自然减轻，个别患者，特别是妇女可迁延至40岁以上；由于生育原因，治疗选择受限。许多成人患者偶然也发生非炎症性及轻度炎症性痤疮。非炎性痤疮和轻度痤疮往往愈后不留瘢痕。中至重度炎症性痤疮痊愈后易留有瘢痕。痤疮对患者产生的影响并非仅仅身体上，也会对患者产生巨大精神压力，青少年往往以此为借口逃避复杂的人际交往。对于一些严重病例，需加强患者心理咨询，其父母也需加以重视。
+非炎性痤疮表现为粉刺，而炎性痤疮主要表现为丘疹、脓疱、结节和囊肿。
+非炎性痤疮表现为粉刺，而炎性痤疮主要表现为丘疹、脓疱、结节和囊肿。
+在20岁中期之前，轻度和中度痤疮通常愈后不留疤痕。
+在20岁中期之前，轻度和中度痤疮通常愈后不留疤痕。
+建议患者避免诱发因素（如可阻塞毛囊的化妆品和衣物、清洁剂、乳液、高湿度、一些药物和化学品，以及大量摄入牛奶或高血糖饮食）。
+建议患者避免诱发因素（如可阻塞毛囊的化妆品和衣物、清洁剂、乳液、高湿度、一些药物和化学品，以及大量摄入牛奶或高血糖饮食）。
+不仅要考虑到痤疮给患者生理上带来的影响，还要考虑到心理上的负面影响。
+不仅要考虑到痤疮给患者生理上带来的影响，还要考虑到心理上的负面影响。
+可以处方粉刺溶解剂（如维甲酸），对于炎症性痤疮，可加用过氧化苯甲酰、外用抗生素，或两者联合。
+可以处方粉刺溶解剂（如维甲酸），对于炎症性痤疮，可加用过氧化苯甲酰、外用抗生素，或两者联合。
+中度痤疮可处方口服抗生素，重度痤疮可处方异维A酸。
+中度痤疮可处方口服抗生素，重度痤疮可处方异维A酸。
+皮损内注射曲安奈德治疗囊性痤疮的急性病变
+皮损内注射曲安奈德治疗囊性痤疮的急性病变
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+American Academy of Dermatology:Guidelines of Care for the Management of Acne Vulgaris(2024)
+American Academy of Dermatology:Guidelines of Care for the Management of Acne Vulgaris(2024)

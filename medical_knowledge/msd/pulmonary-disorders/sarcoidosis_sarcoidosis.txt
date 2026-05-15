@@ -1,0 +1,510 @@
+标题：结节病
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/sarcoidosis/sarcoidosis
+============================================================
+
+
+【结节病的流行病学】
+结节病常见于20~40岁人群，偶有儿童和老年病人。结节病具有全球分布的特点，但其发病率在非裔美国人和北欧民族中最高，尤其是斯堪的纳维亚人。不同种族和族裔背景的患者疾病表现差异很大，非裔美国患者具有更严重且频繁的胸外表现(1)。女性发病率高于男性。
+
+【流行病学 参考文献】
+1.Baughman RP, Field S, Costabel U, et al.Sarcoidosis in America.Analysis Based on Health Care Use.Ann Am Thorac Soc2016;13(8):1244-1252.doi:10.1513/AnnalsATS.201511-760OC
+1.Baughman RP, Field S, Costabel U, et al.Sarcoidosis in America.Analysis Based on Health Care Use.Ann Am Thorac Soc2016;13(8):1244-1252.doi:10.1513/AnnalsATS.201511-760OC
+
+【结节病的病因】
+结节病被认为是由于遗传易感人群对某些抗原触发的过度炎症反应所致（1、2）。可能的触发因素包括：
+感染因子：痤疮丙酸杆菌和分枝杆菌（潜在的结核分枝杆菌过氧化氢酶及过氧化物酶[mKatG]蛋白）
+感染因子：痤疮丙酸杆菌和分枝杆菌（潜在的结核分枝杆菌过氧化氢酶及过氧化物酶[mKatG]蛋白）
+环境暴露：霉菌或霉斑以及有霉味的工作场所中存在某些未鉴定的物质（有机物和无机物）
+环境暴露：霉菌或霉斑以及有霉味的工作场所中存在某些未鉴定的物质（有机物和无机物）
+职业暴露：从事金属（铍）加工、农业和使用农药的行业，以及应对世界贸易中心袭击事件的船舶工人、消防员和救援人员（3）
+职业暴露：从事金属（铍）加工、农业和使用农药的行业，以及应对世界贸易中心袭击事件的船舶工人、消防员和救援人员（3）
+烟草使用与结节病的发生呈负相关 (2)。
+下列证据支持遗传易感性 (4)：
+同卵双生比异卵双生发病一致性要高；
+同卵双生比异卵双生发病一致性要高；
+结节病患者一级或二级亲属患病率增加
+结节病患者一级或二级亲属患病率增加
+结节病患者的兄弟姐妹罹患结节病的相对风险显著增加
+结节病患者的兄弟姐妹罹患结节病的相对风险显著增加
+已鉴定出与结节病相关的几种可能的人类白细胞抗原（HLA）和非HLA基因。
+已鉴定出与结节病相关的几种可能的人类白细胞抗原（HLA）和非HLA基因。
+例如，与预测持续性疾病的HLA-DRB1*15/HLA-DQB1*0602相比，HLA-DRB1*03/DQB1*02单倍型与Löfgren综合征相关并预测良好的预后 。
+
+【病因参考文献】
+1.Chen ES, Moller DR.Etiologies of Sarcoidosis.Clin Rev Allergy Immunol2015;49(1):6-18.doi:10.1007/s12016-015-8481-z
+1.Chen ES, Moller DR.Etiologies of Sarcoidosis.Clin Rev Allergy Immunol2015;49(1):6-18.doi:10.1007/s12016-015-8481-z
+2.Newman LS, Rose CS, Bresnitz EA, et al.A case control etiologic study of sarcoidosis: environmental and occupational risk factors.Am J Respir Crit Care Med2004;170(12):1324-1330.doi:10.1164/rccm.200402-249OC
+2.Newman LS, Rose CS, Bresnitz EA, et al.A case control etiologic study of sarcoidosis: environmental and occupational risk factors.Am J Respir Crit Care Med2004;170(12):1324-1330.doi:10.1164/rccm.200402-249OC
+3.Newman KL, Newman LS.Occupational causes of sarcoidosis.Curr Opin Allergy Clin Immunol2012;12(2):145-150.doi:10.1097/ACI.0b013e3283515173
+3.Newman KL, Newman LS.Occupational causes of sarcoidosis.Curr Opin Allergy Clin Immunol2012;12(2):145-150.doi:10.1097/ACI.0b013e3283515173
+4.Iannuzzi MC.Advances in the genetics of sarcoidosis.Proc Am Thorac Soc2007;4(5):457-460.doi:10.1513/pats.200606-136MS
+4.Iannuzzi MC.Advances in the genetics of sarcoidosis.Proc Am Thorac Soc2007;4(5):457-460.doi:10.1513/pats.200606-136MS
+
+【结节病的病理生理】
+未知抗原触发细胞免疫反应，表现为T细胞和巨噬细胞的聚集、细胞因子及趋化因子（包括肿瘤坏死因子α）的释放以及反应细胞组织形成肉芽肿（1、2）。疾病的家族和社区聚集性提示存在遗传易感性、共同暴露因素，或（可能性较小）人际传播。
+炎症反应导致形成非干酪性肉芽肿，此为结节病的病理标志。肉芽肿由单核细胞和巨噬细胞聚集而成，这些细胞分化为上皮样细胞和多核巨细胞，周围环绕着淋巴细胞、浆细胞、成纤维细胞和胶原蛋白。肉芽肿发生最常见于肺和淋巴结，但可累及任何器官，并引起显著功能障碍。肺部肉芽肿沿淋巴系统分布，最多发于细支气管周围、胸膜下和小叶旁区。肉芽肿积累扭曲了受影响器官的结构。结节病肉芽肿可能持续存在、自行消退，或进展为纤维化。肉芽肿是直接导致纤维化还是并行发展尚不清楚。
+由于巨噬细胞将维生素D转化为活性形式（1,25-二羟基维生素D）增加，可能会发生高钙血症。 即使血清钙水平正常的患者也可能出现高钙尿。可能发生肾结石和肾钙化，有时会导致慢性肾脏疾病。
+在这张图像中，结节病患者的肺活检显示沿支气管血管束分布的肉芽肿（苏木精和伊红染色，低倍镜；左图），以及肉芽肿中心含有多核巨细胞的结节病肉芽肿（高倍镜；右图）。
+Image courtesy of Birendra P.Sah, MD, FCCP.
+
+【病理生理学参考文献】
+1.Baughman RP, Culver DA, Judson MA.A concise review of pulmonary sarcoidosis.Am J Respir Crit Care Med2011;183(5):573-581.doi:10.1164/rccm.201006-0865CI
+1.Baughman RP, Culver DA, Judson MA.A concise review of pulmonary sarcoidosis.Am J Respir Crit Care Med2011;183(5):573-581.doi:10.1164/rccm.201006-0865CI
+2.Soler P, Basset F.Morphology and distribution of the cells of a sarcoid granuloma: ultrastructural study of serial sections.Ann N Y Acad Sci1976;278:147-160.doi:10.1111/j.1749-6632.1976.tb47026.x
+2.Soler P, Basset F.Morphology and distribution of the cells of a sarcoid granuloma: ultrastructural study of serial sections.Ann N Y Acad Sci1976;278:147-160.doi:10.1111/j.1749-6632.1976.tb47026.x
+
+【结节病的症状和体征】
+症状和体征取决于受累部位及程度，并随时间变化，范围可从自发缓解到慢性惰性疾病不等。因此有必要经常对发生在不同脏器的症状加以评价。大多数结节病病人可能因无症状而被漏诊。在患有结节病的成年人中>90%会出现肺部疾病（1,2）。
+症状体征可包括呼吸困难、咳嗽、胸部不适和啰音 (3)。疲劳、不适、乏力、厌食、体重减轻和低热也很常见。结节病可表现是不明原因的发热。
+全身性侵犯表现不一（见表结节病的全身受累表现），因种族、性别、年龄而有所不同。与白人相比，黑人更易出现眼、肝、骨髓、外周淋巴结和皮肤受累；但结节性红斑例外（在白人中更常见）。女性较易出现结节性红斑，以及眼或神经系统的侵犯。男性和老年病人易发生高钙血症。
+
+【结节病各系统侵犯】
+结节病各系统侵犯
+预计发生率
+>90%
+肉芽肿形成于肺泡隔和细支气管及支气管壁，导致弥漫性肺部疾病。
+罕见情况下也可累及肺动脉和肺静脉，引发肺动脉高压
+通常无症状，通过胸部影像（X线或CT）偶然发现
+许多病人可自行缓解，但也可引起进行性肺功能受损，导致身体功能受限、空洞性病变、呼吸衰竭，少数患者甚至死亡
+疲劳、慢性疼痛与纤维肌痛
+结节性红斑：
+胫前出现红色或变色、硬结、触痛的结节
+胫前出现红色或变色、硬结、触痛的结节
+在欧洲人、波多黎各人或墨西哥人后裔中更常见
+在欧洲人、波多黎各人或墨西哥人后裔中更常见
+通常会在 3-6 个月内缓解，但可能会复发
+通常会在 3-6 个月内缓解，但可能会复发
+周围关节常伴关节炎（Löfgren综合征）
+周围关节常伴关节炎（Löfgren综合征）
+可能为良性预后因素
+可能为良性预后因素
+结节性红斑病变的活检是不必要的，因为其不具备结节病的特征性肉芽肿。
+结节性红斑病变的活检是不必要的，因为其不具备结节病的特征性肉芽肿。
+常见皮肤病变：
+斑疹和丘疹
+斑疹和丘疹
+皮下结节
+皮下结节
+色素减退
+色素减退
+过多色素沉着
+过多色素沉着
+狼疮性冻疮：
+鼻、颊、唇、耳部位紫色斑块
+鼻、颊、唇、耳部位紫色斑块
+在美国黑种人和波多黎各患者中较多见
+在美国黑种人和波多黎各患者中较多见
+常与肺纤维化有关
+常与肺纤维化有关
+不良预后因素
+不良预后因素
+胸部淋巴结
+胸部淋巴结
+胸腔外淋巴结
+胸腔外淋巴结
+胸腔淋巴结：90%
+胸腔外淋巴结：15%
+多数患者的肺门或纵隔受累
+少数患者出现腹腔内或外周（颈部、腋窝或腹股沟）淋巴结病变，淋巴结可无触痛或有触痛。
+通常无症状
+可表现为肝功能检查结果轻度升高，增强CT显示肝内低密度影
+极少数病人可有明显的胆汁淤积或肝硬化的临床表现
+当结节病仅累及肝脏时，其与肉芽肿性肝炎难以明确区分。
+葡萄膜炎（最常见），可导致视力模糊、畏光和流泪。
+可能导致失明
+大多自行缓解
+可能表现为结膜炎、虹膜睫状体炎、脉络膜视网膜炎、泪囊炎、泪腺浸润导致的眼干、视神经炎、青光眼、白内障
+眼受累更常见于非裔美国患者及日裔患者
+每年1次筛查有助疾病早期发现
+抑郁症（常见），但不确定它是结节病的原发性表现，还是对疾病长期病程和频繁复发的反应。
+通常无症状
+可表现为左上腹疼痛、血小板减少症，或偶经超声检查或CT发现
+神经系统
+<10%
+脑神经病变，尤其是第7（导致面神经瘫痪）和第8对神经（导致听力丧失）
+视神经和周围神经病变（常见）
+任何脑神经都可能受影响
+中枢神经系统受累，尤其在小脑和脑干区的特征性结节性病变或播散性脑膜炎症
+下丘脑和垂体柄侵犯可导致全垂体功能减退症
+精氨酸加压素缺乏、多食和肥胖，以及体温调节与性欲改变
+上呼吸道
+<10%
+鼻及鼻窦黏膜急慢性肉芽肿性炎症，其症状与普通过敏性及感染性鼻窦炎无法区分；多见于冻疮样狼疮患者
+喉部受累表现为声带结节及声音嘶哑
+气管受累可导致气管狭窄（罕见）
+经活检可确诊
+血液系统
+<5–30%
+淋巴细胞减少症
+肉芽肿浸润骨髓引起的贫血，偶尔导致全细胞减少症
+脾隔离症引起血小板减少
+白细胞减少
+溶骨性或囊性病变，大多无症状
+骨量减少
+< 5%
+传导阻滞与心律失常（最常见），并可能致猝死（心脏结节病）
+因限制性心肌病（原发性）或肺动脉高压（继发性）导致心力衰竭
+短暂性乳头肌功能失调和心包炎（罕见）
+日本人最常见，该人群中心肌病为结节病相关死亡的最常见原因
+无症状性腮腺肿大（最常见）
+腮腺炎伴口腔干燥
+Heerfordt综合征（葡萄膜腮腺炎），以眼葡萄膜炎、双侧腮腺肿大、面神经瘫痪，以及慢性发热为主要表现
+口腔狼疮性冻疮可导致硬腭毁形，也可能侵犯颊、舌和牙龈
+大多无症状，伴或不伴酶的升高
+有时隐匿，有时呈急性肌病伴肌无力
+< 1%
+踝、膝、腕、肘关节炎（最常见）
+可引起慢性关节炎伴Jaccoud畸形或指（趾）炎
+Löfgren综合征（急性多发性关节炎，结节性红斑和肺门淋巴结肿大）
+无症状性高尿钙（最常见）
+间质性肾炎
+部分患者因慢性高钙尿症导致肾结石及肾钙质沉着症引发慢性肾病，需接受肾脏替代治疗（透析或移植）。
+最常见的胃部肉芽肿表现（无症状或对质子泵抑制剂无反应的胃炎）
+因肉芽肿累及相关肌肉所致的口咽部或食管吞咽困难。
+罕见累及阑尾、结肠或直肠
+肠系膜淋巴结肿大可能引起腹痛
+下丘脑和垂体柄侵犯可导致全垂体功能减退症
+可发生甲状腺浸润而不伴功能障碍
+高钙血症引起的继发性甲状旁腺功能减退症
+引起淋巴细胞渗出性胸腔积液，常为双侧
+生殖系统
+偶见子宫内膜、卵巢、附睾和睾丸侵犯的个例报道
+不影响生育
+孕期可自动消退，产后可能复发
+CT=计算机断层扫描；PPI=质子泵抑制剂
+Data fromBaughman RP, Teirstein AS, Judson MA, et al.Clinical characteristics of patients in a case control study of sarcoidosis.Am J Respir Crit Care Med2001;164(10 Pt 1):1885-1889.doi:10.1164/ajrccm.164.10.2104046;Carmona EM, Kalra S, Ryu JH.Pulmonary Sarcoidosis: Diagnosis and Treatment.Mayo Clin Proc2016;91(7):946-954.doi:10.1016/j.mayocp.2016.03.004; andIannuzzi MC, Fontana JR.Sarcoidosis: clinical presentation, immunopathogenesis, and therapeutics.JAMA2011;305(4):391-399.doi:10.1001/jama.2011.10
+CT=计算机断层扫描；PPI=质子泵抑制剂
+Data fromBaughman RP, Teirstein AS, Judson MA, et al.Clinical characteristics of patients in a case control study of sarcoidosis.Am J Respir Crit Care Med2001;164(10 Pt 1):1885-1889.doi:10.1164/ajrccm.164.10.2104046;Carmona EM, Kalra S, Ryu JH.Pulmonary Sarcoidosis: Diagnosis and Treatment.Mayo Clin Proc2016;91(7):946-954.doi:10.1016/j.mayocp.2016.03.004; andIannuzzi MC, Fontana JR.Sarcoidosis: clinical presentation, immunopathogenesis, and therapeutics.JAMA2011;305(4):391-399.doi:10.1001/jama.2011.10
+该图像显示了结节病患者双侧上眼睑泪腺睑叶的炎症，表现为泪囊炎。
+这张照片显示了一名结节病患者的面部红斑斑块。
+这张照片显示了一名结节病患者的面部红斑斑块。
+© Springer Science+Business Media
+这张照片显示患有结节性红斑的患者小腿上特征性的疼痛性红斑皮下结节。
+这张照片显示患有结节性红斑的患者小腿上特征性的疼痛性红斑皮下结节。
+图片由医学博士Thomas Habif, MD.提供。
+这张照片显示了一名结节病患者鼻子上的紫色斑块。
+这张照片显示了一名结节病患者鼻子上的紫色斑块。
+© Springer Science+Business Media
+该图像显示了结节病患者的皮肤结节。
+该图像显示了结节病患者的皮肤结节。
+Image courtesy of Karen McKoy, MD.
+该图像显示了结节病患者嘴唇上的多个丘疹。
+该图像显示了结节病患者嘴唇上的多个丘疹。
+Image courtesy of Karen McKoy, MD.
+结节病患者的色素减退区域和皮下结节。
+结节病患者的色素减退区域和皮下结节。
+Image courtesy of Karen McKoy, MD.
+这张照片显示了一名结节病患者的面部红斑斑块。
+这张照片显示了一名结节病患者的面部红斑斑块。
+© Springer Science+Business Media
+这张照片显示患有结节性红斑的患者小腿上特征性的疼痛性红斑皮下结节。
+这张照片显示患有结节性红斑的患者小腿上特征性的疼痛性红斑皮下结节。
+图片由医学博士Thomas Habif, MD.提供。
+这张照片显示了一名结节病患者鼻子上的紫色斑块。
+这张照片显示了一名结节病患者鼻子上的紫色斑块。
+© Springer Science+Business Media
+该图像显示了结节病患者的皮肤结节。
+该图像显示了结节病患者的皮肤结节。
+Image courtesy of Karen McKoy, MD.
+该图像显示了结节病患者嘴唇上的多个丘疹。
+该图像显示了结节病患者嘴唇上的多个丘疹。
+Image courtesy of Karen McKoy, MD.
+结节病患者的色素减退区域和皮下结节。
+结节病患者的色素减退区域和皮下结节。
+Image courtesy of Karen McKoy, MD.
+
+【Löfgren综合征】
+Löfgren综合征以急性多关节炎、结节性红斑和肺门淋巴结肿大三联症为特征 (3)。 也可能出现发烧、不适、葡萄膜炎和腮腺炎。 Löfgren 综合征在欧洲血统的人群中更为常见。Löfgren综合征是自限性的。患者通常可单独使用非甾体类抗炎药（NSAIDS）治疗。 复发率低。
+
+【Heerfordt综合征】
+Heerfordt综合征（葡萄膜腮腺热）表现为腮腺肿胀（因结节病肉芽肿浸润所致）、葡萄膜炎、慢性发热，较少出现面神经麻痹。 Heerfordt综合征呈自限性。治疗与结节病相同。
+
+【Blau综合征】
+Blau综合征是一种在儿童时期发病的常染色体显性遗传的结节病样疾病。 目前尚不清楚Blau综合征是否与成人结节病的发病机制相同。在Blau综合征中，患儿在4岁前发病，表现为关节炎、皮疹和葡萄膜炎。Blau综合征往往是自限性的。NSAIDs治疗后通常症状缓解。
+
+【症状和体征参考】
+1.Baughman RP, Teirstein AS, Judson MA, et al.Clinical characteristics of patients in a case control study of sarcoidosis.Am J Respir Crit Care Med2001;164(10 Pt 1):1885-1889.doi:10.1164/ajrccm.164.10.2104046
+1.Baughman RP, Teirstein AS, Judson MA, et al.Clinical characteristics of patients in a case control study of sarcoidosis.Am J Respir Crit Care Med2001;164(10 Pt 1):1885-1889.doi:10.1164/ajrccm.164.10.2104046
+2.Iannuzzi MC, Fontana JR.Sarcoidosis: clinical presentation, immunopathogenesis, and therapeutics.JAMA2011;305(4):391-399.doi:10.1001/jama.2011.10
+2.Iannuzzi MC, Fontana JR.Sarcoidosis: clinical presentation, immunopathogenesis, and therapeutics.JAMA2011;305(4):391-399.doi:10.1001/jama.2011.10
+3.Carmona EM, Kalra S, Ryu JH.Pulmonary Sarcoidosis: Diagnosis and Treatment.Mayo Clin Proc2016;91(7):946-954.doi:10.1016/j.mayocp.2016.03.004
+3.Carmona EM, Kalra S, Ryu JH.Pulmonary Sarcoidosis: Diagnosis and Treatment.Mayo Clin Proc2016;91(7):946-954.doi:10.1016/j.mayocp.2016.03.004
+
+【结节病的诊断】
+胸部影像学表现
+胸部影像学表现
+排除其他肉芽肿性疾病
+排除其他肉芽肿性疾病
+胸部X线检查偶然发现肺门淋巴结肿大（伴或不伴肺部浸润）时，最常怀疑结节病。 双侧肺门淋巴结肿大是最常见的异常。
+若怀疑结节病且尚未进行过胸部X线检查，则应首先进行X线检查（1）。胸部X线可大致预测肺结节病自发缓解的可能性（见表结节病的胸部X线分期）。然而，通过胸部X线检查对结节病进行分期在预测疾病严重程度方面可能具有误导性；比如，肺外结节病，如心脏结节病或神经系统结节病，在无肺部受累证据的情况下，可能预示预后不良。此外，胸部X线检查结果与肺功能测试相关性较差，因此可能无法准确反映肺结节病的严重程度。
+
+【结节病的胸部X线分期】
+结节病的胸部X线分期
+自发缓解率
+胸部X光正常
+双侧肺门淋巴结肿大，无肺部浸润
+60–80%
+双侧肺门淋巴结肿大伴肺部浸润
+50–65%
+肺部浸润影，无双侧肺门淋巴结肿大
+<30%
+肺纤维化
+Data fromConsensus conference: activity of sarcoidosis.Third WASOG meeting, Los Angeles, USA, September 8-11, 1993.Eur Respir J1994;7(3):624-627
+Data fromConsensus conference: activity of sarcoidosis.Third WASOG meeting, Los Angeles, USA, September 8-11, 1993.Eur Respir J1994;7(3):624-627
+正常的胸部X线片（0期）并不排除结节病诊断，尤其是怀疑累及心脏或神经系统时。高分辨率CT对检测肺门和纵隔淋巴结肿大，肺实质异常更为敏感。肺实质受累主要发生在肺上叶，但也可能发生在肺的任何部位。更晚期影像学分期（II-IV）的CT表现（另见图肺结节病的胸部CT扫描）包括以下内容：
+支气管血管束和支气管壁增厚
+支气管血管束和支气管壁增厚
+小叶间隔的串珠状结构
+小叶间隔的串珠状结构
+磨玻璃影
+磨玻璃影
+实质结节、囊肿或空洞
+实质结节、囊肿或空洞
+牵拉性支气管扩张
+牵拉性支气管扩张
+I 期结节病中的双侧肺门淋巴结肿大。
+I 期结节病中的双侧肺门淋巴结肿大。
+By permission of the publisher.摘自 Tanoue L, Elias J.InBone's Atlas of Pulmonary and Critical Care Medicine.Edited by J Crapo.Philadelphia, Current Medicine, 2005.
+II 期结节病的双侧肺门淋巴结肿大伴间质混浊。
+II 期结节病的双侧肺门淋巴结肿大伴间质混浊。
+By permission of the publisher.摘自 Tanoue L, Elias J.InBone's Atlas of Pulmonary and Critical Care Medicine.Edited by J Crapo.Philadelphia, Current Medicine, 2005.
+III 期结节病中无肺门淋巴结肿大的弥漫性间质混浊。
+III 期结节病中无肺门淋巴结肿大的弥漫性间质混浊。
+By permission of the publisher.摘自 Tanoue L, Elias J.InBone's Atlas of Pulmonary and Critical Care Medicine.Edited by J Crapo.Philadelphia, Current Medicine, 2005.
+IV 期结节病中，严重的弥漫性纤维化伴肺门淋巴结肿大和上叶囊性改变。
+IV 期结节病中，严重的弥漫性纤维化伴肺门淋巴结肿大和上叶囊性改变。
+By permission of the publisher.From: Tanoue L, Elias J.InBone's Atlas of Pulmonary and Critical Care Medicine.Edited by J Crapo.Philadelphia, Current Medicine, 2005.
+肺结节病患者胸部的高分辨率CT显示支气管血管束增厚和小叶间隔串珠。
+肺结节病患者胸部的高分辨率CT显示支气管血管束增厚和小叶间隔串珠。
+图片由 Birendra P. 提供。Sah, MD, FCCP.
+I 期结节病中的双侧肺门淋巴结肿大。
+I 期结节病中的双侧肺门淋巴结肿大。
+By permission of the publisher.摘自 Tanoue L, Elias J.InBone's Atlas of Pulmonary and Critical Care Medicine.Edited by J Crapo.Philadelphia, Current Medicine, 2005.
+II 期结节病的双侧肺门淋巴结肿大伴间质混浊。
+II 期结节病的双侧肺门淋巴结肿大伴间质混浊。
+By permission of the publisher.摘自 Tanoue L, Elias J.InBone's Atlas of Pulmonary and Critical Care Medicine.Edited by J Crapo.Philadelphia, Current Medicine, 2005.
+III 期结节病中无肺门淋巴结肿大的弥漫性间质混浊。
+III 期结节病中无肺门淋巴结肿大的弥漫性间质混浊。
+By permission of the publisher.摘自 Tanoue L, Elias J.InBone's Atlas of Pulmonary and Critical Care Medicine.Edited by J Crapo.Philadelphia, Current Medicine, 2005.
+IV 期结节病中，严重的弥漫性纤维化伴肺门淋巴结肿大和上叶囊性改变。
+IV 期结节病中，严重的弥漫性纤维化伴肺门淋巴结肿大和上叶囊性改变。
+By permission of the publisher.From: Tanoue L, Elias J.InBone's Atlas of Pulmonary and Critical Care Medicine.Edited by J Crapo.Philadelphia, Current Medicine, 2005.
+肺结节病患者胸部的高分辨率CT显示支气管血管束增厚和小叶间隔串珠。
+肺结节病患者胸部的高分辨率CT显示支气管血管束增厚和小叶间隔串珠。
+图片由 Birendra P. 提供。Sah, MD, FCCP.
+当影像学提示结节病时，需通过活检证实为非干酪性肉芽肿，并排除其他肉芽肿性疾病（见表结节病的鉴别诊断）方可确诊。只要患者没有提示结核病的危险因素，洛夫格伦综合征通常不需要通过活检来确诊。
+因此，疾病的诊断与评估需要以下几个方面 (1)：
+活检部位的选择
+活检部位的选择
+排除其他肉芽肿性疾病
+排除其他肉芽肿性疾病
+评估疾病的严重程度和范围以决定是否具有治疗指征
+评估疾病的严重程度和范围以决定是否具有治疗指征
+
+【结节病的鉴别诊断】
+结节病的鉴别诊断
+特定疾病
+分枝杆菌感染
+非典型分枝杆菌
+真菌感染
+曲霉菌病
+芽生菌病
+球孢子菌病
+隐球菌病
+组织胞浆菌病
+其他感染
+布鲁菌病
+猫抓病（仅累及淋巴结）
+支原体感染
+耶氏肺孢子菌感染
+风湿性疾病
+肉芽肿血管炎
+青少年特发性关节炎（青少年风湿性关节炎）
+Kikuchi-Fujimoto病（仅有淋巴结病变）
+类风湿关节炎
+干燥综合征
+血液系统恶性肿瘤
+Castleman病（与感染艾滋病病毒或人类疱疹病毒8相关的淋巴增殖性疾病）
+霍奇金淋巴瘤
+非霍奇金淋巴瘤
+超敏反应
+职业环境中遇到的金属：铝（电器和设备制造、建筑业）、二氧化硅（建筑、采矿、铸造厂）、铍（航空航天工业、核反应堆）、钛（医疗植入物、化妆品、涂料工业）、锆（外科器械、玻璃、汞合金工业）
+有机抗原导致过敏性肺炎：放线菌、非典型分枝杆菌抗原、真菌、蕈类孢子、其他生物气溶胶
+无机抗原导致过敏性肺炎：异氰酸酯、除虫菊酯
+药物反应（如二甲胺四环素、博来霉素、呋喃妥因）
+电子烟诱导
+异物吸入或接种
+肉芽肿性肝炎
+炎症性肠病
+淋巴细胞间质性肺炎
+
+【活检部位】
+根据体格检查和疾病初次评估可选择合适的活检部位，周围淋巴结、病变皮肤和结膜这些部位的组织标本都很容易获得。纵隔或肺门淋巴结的超声内镜引导下的经支气管针吸活检术（EBUS-TBNA）诊断率约为90%，是胸内受累患者的首选诊断方法（2）。
+当怀疑肺结节病且EBUS-TBNA不能诊断时，可以使用支气管肺泡灌洗（BAL）的支气管镜经支气管进行肺活检。它也可以用于没有任何肺实质浸润的患者，因为I期结节病经支气管肺活检的诊断率约为50% (3)。如果支气管镜经支气管活检无法诊断，可以尝试第二次。
+如果EBUS-TBNA和支气管镜经支气管活检均无法获得诊断，或者支气管镜不能耐受，可以行纵隔镜活检纵隔或肺门淋巴结，或胸腔镜（VAT）肺活检或开胸肺活检以获得肺组织。若高度怀疑患有结节病，但基于检查或影像学结果无法确定活检部位，正电子发射断层扫描（PET）可帮助识别隐匿的活跃部位，如骨骼、肌肉、肝脏或脾脏。
+
+【鉴别诊断】
+排除其他诊断至关重要，尤其是当症状和影像学表现不显著时，因为许多其他疾病及病理过程可导致肉芽肿性炎症（见表结节病的鉴别诊断）。活检组织应进行真菌和分枝杆菌检测。寻找职业 （例如，硅酸盐、铍）、环境 （例如发霉的干草、鸟类，和其他过敏性肺炎的抗原性触发因素）以及感染性 （例如结核、球孢子菌病、组织胞浆菌）抗原暴露史。 应在评估的早期进行纯化蛋白衍生物 (PPD) 皮肤试验或干扰素 γ 释放试验。
+
+【疾病严重度评估】
+根据器官受累程度评估疾病严重程度，如只有肺部受累
+肺功能试验
+肺功能试验
+疾病早期肺功能试验结果常正常，进展期则显示限制性通气障碍及一氧化碳弥散能力（DLCO）下降。也可出现气流阻塞，这可能提示支气管黏膜受累。增加6分钟步行试验可能比单独的肺功能测试结果更全面地表征功能障碍。肺部广泛受累的患者在静息时可能有正常的氧饱和度，但可能会在用力时表现出氧饱和度下降。
+推荐用于肺外疾病的常规筛查检查包括：
+基线12导联心电图、超声心动图检查，仅在出现心悸或晕厥症状时进行动态心电图（Holter）监测
+基线12导联心电图、超声心动图检查，仅在出现心悸或晕厥症状时进行动态心电图（Holter）监测
+眼科裂隙灯检查
+眼科裂隙灯检查
+常规血肝肾功能检查
+常规血肝肾功能检查
+血清钙水平和24小时尿钙排出量测定
+血清钙水平和24小时尿钙排出量测定
+全血细胞计数及分类
+全血细胞计数及分类
+
+【影像学检查】
+肺外结节病通常需要进行影像学检查。
+有或没有钆造影剂的心脏磁共振成像(MRI)可能适合于有心脏症状的患者。
+对于有神经系统症状的患者，可能需要有或没有钆的脑或脊柱 MRI。
+肌电图可能适用于患有周围神经病症状的患者。
+PET扫描似乎是检测骨和其它肺外结节病最敏感的方法，并与MRI联合用于心脏受累患者。
+通常不推荐常规行腹部增强CT检查，但对于肝脾受累的病例可提供一定的诊断依据（如肿大、低透亮的病灶）。
+全身镓扫描已经在很大程度上被PET扫描取代。在缺乏组织学确诊的情况下，若条件允许，镓扫描可提供有用的支持性证据。纵隔和肺门淋巴结（lambda征）以及泪腺、腮腺和唾液腺（panda征）的对称摄取增加强烈提示结节病。服用泼尼松的患者的阴性结果是不可靠的。
+
+【实验室检查】
+实验室检查在确立诊断和判断器官受累程度方面起辅助作用。
+全血细胞计数及分类可能显示贫血、嗜酸性粒细胞增多、白细胞减少或血小板减少。应测定血清钙以检测是否有高钙血症。
+血尿素氮（BUN）、肌酐以及肝功能指标在肾脏或肝脏结节病中可以增高。高丙球蛋白血症者血总蛋白可以升高。
+红细胞沉降率升高和C反应蛋白升高常见但不具特异性。对于有肾结石病史的患者，即使血钙水平正常，也建议检测24小时尿钙以排除高钙尿症。
+血清血管紧张素转换酶（ACE）水平升高也提示结节病，但非特异性，并且可以在其他情况下升高（例如，甲状腺功能亢进症，糖尿病,Gaucher病，矽肺，分枝杆菌病，真菌感染，过敏性肺炎，淋巴瘤）。血管紧张素转换酶（ACE）水平，若升高，可能有助于监测皮质类固醇治疗的依从性。ACE水平骤降，即使病人正在服用低剂量的皮质类固醇。
+
+【支气管肺泡灌洗液】
+支气管肺泡灌洗应与支气管镜活检一同进行，以排除疑似感染（例如，当影像学等侵入性较小的检查结果不典型时），并且如果对结节病的诊断存疑，应排除其他形式的间质性肺病。支气管肺泡灌洗检查结果变异相当大，但淋巴细胞增多（淋巴细胞比例>15%）、灌洗液细胞分类显示CD4+/CD8+比值>3.5，或两者兼有，在适当的临床背景下可提示诊断。但结果阴性并不能排除诊断。
+
+【诊断参考】
+1.Crouser ED, Maier LA, Wilson KC, et al.Diagnosis and Detection of Sarcoidosis.An Official American Thoracic Society Clinical Practice Guideline.Am J Respir Crit Care Med2020;201(8):e26-e51.doi:10.1164/rccm.202002-0251ST
+1.Crouser ED, Maier LA, Wilson KC, et al.Diagnosis and Detection of Sarcoidosis.An Official American Thoracic Society Clinical Practice Guideline.Am J Respir Crit Care Med2020;201(8):e26-e51.doi:10.1164/rccm.202002-0251ST
+2.Tremblay A, Stather DR, MacEachern P, Khalil M, Field SK.A randomized controlled trial of standard vs endobronchial ultrasonography-guided transbronchial needle aspiration in patients with suspected sarcoidosis.Chest2009;136(2):340-346.doi:10.1378/chest.08-2768
+2.Tremblay A, Stather DR, MacEachern P, Khalil M, Field SK.A randomized controlled trial of standard vs endobronchial ultrasonography-guided transbronchial needle aspiration in patients with suspected sarcoidosis.Chest2009;136(2):340-346.doi:10.1378/chest.08-2768
+3.Akten HS, Kilic H, Celik B, et al.Diagnostic Yield of Transbronchial Biopsy in Comparison to High Resolution Computerized Tomography in Sarcoidosis Cases.Asian Pac J Cancer Prev2018;19(4):1029-1033.doi:10.22034/APJCP.2018.19.4.1029
+3.Akten HS, Kilic H, Celik B, et al.Diagnostic Yield of Transbronchial Biopsy in Comparison to High Resolution Computerized Tomography in Sarcoidosis Cases.Asian Pac J Cancer Prev2018;19(4):1029-1033.doi:10.22034/APJCP.2018.19.4.1029
+
+【结节病的治疗】
+非甾体类抗炎药(NSAIDs)
+非甾体类抗炎药(NSAIDs)
+皮质激素
+皮质激素
+其他免疫抑制剂
+其他免疫抑制剂
+肿瘤坏死因子抗体
+肿瘤坏死因子抗体
+因结节病常自发缓解，无症状及症状轻微患者无需治疗，但需监测病情恶化的征象。 可予连续随访胸部X线片、肺功能试验（包括弥散功能）和各项肺外侵犯指标（如肝肾功能常规检查、每年裂隙灯眼部检查）。后续随访检测的频率由疾病的严重程度来确定。
+出现以下情况的病人无论胸部X线检查提示疾病处于何期都应给予治疗：
+症状加重
+症状加重
+活动能力受限
+活动能力受限
+肺功能明显异常或恶化
+肺功能明显异常或恶化
+令人担忧的X线改变（例如，空洞、纤维化、堆聚性团块、肺动脉高压征象）
+令人担忧的X线改变（例如，空洞、纤维化、堆聚性团块、肺动脉高压征象）
+心脏、神经系统或眼部侵犯
+心脏、神经系统或眼部侵犯
+肾或肝功能衰竭
+肾或肝功能衰竭
+中至重度高钙血症
+中至重度高钙血症
+皮肤毁损（例如狼疮性冻疮）或关节病变
+皮肤毁损（例如狼疮性冻疮）或关节病变
+轻度高钙血症可通过低钙饮食、补水和减少阳光照射来治疗。
+非甾体抗炎药用于治疗结节性红斑和轻度肌肉骨骼不适。
+
+【皮质类固醇】
+症状管理通常以糖皮质激素开始（1）。 仅有胸部影像学结果异常而没有明显临床症状或器官功能下降的证据，不能作为开展治疗的指征。
+标准的治疗方案是：根据症状和检查结果的严重程度，给予泼尼松20～40mg，每日1次口服治疗。也可采取隔日给药方案：如泼尼松40 mg 口服，隔日1次。虽然很少有病人需要>40 mg/d的剂量，但为减轻严重神经系统和心脏病变的并发症可能需要更高剂量。
+治疗应答通常在6至12周内出现，因此可在6至12周时重新评估症状、其他疾病严重程度标志物以及肺功能测试结果。慢性，隐匿性病变患者可能起效更慢。 起效后，皮质激素逐渐减量至维持量（ 如泼尼松10~15mg/天），额外再应用6-9个月。
+治疗的最佳持续时间是未知的。过早的减量可导致复发。如果无效或疗效模棱两可，应缓慢停药。大多数患者可以最终停用皮质类固醇，但由于复发率高达50%，通常应每3至6个月重复进行监测。对于症状和体征的复发，应恢复皮质类固醇治疗。由于低剂量的皮质类固醇可抑制血管紧张素转换酶（ACE）的生成，连续检测血清ACE水平有助于评估ACE水平增高患者对皮质类固醇治疗的依从性。
+吸入糖皮质激素可缓解支气管内受累患者的咳嗽。阻塞性气道疾病患者可以加用吸入性支气管扩张剂。
+糖皮质激素局部治疗可能对部分皮肤、鼻窦和眼部病变病人有效。
+建议对以下患者进行Pneumocystis jirovecii（耶氏肺孢子菌）肺炎的预防：每日服用>20mg泼尼松（或等效药物）超过一个月者，以及正在服用其他免疫抑制剂者。
+阿仑膦酸盐或另一种双膦酸盐可能是预防皮质类固醇诱发的骨质疏松症的首选疗法。 因为结节肉芽肿会内源性产生活性维生素D（1，25二羟基维生素D) ），所以补充钙或维生素D可能会引起高钙血症。 开始服用此类营养补充剂之前，血清和24小时尿钙测量应正常。
+
+【经验与提示】
+经验与提示
+仅有胸部影像学结果异常而没有明显临床症状或器官功能下降的迹象，不适合用皮质类固醇药物治疗。
+仅有胸部影像学结果异常而没有明显临床症状或器官功能下降的迹象，不适合用皮质类固醇药物治疗。
+
+【其他免疫抑制剂】
+其他免疫抑制剂用于以下情况：
+患者不能耐受强的松
+患者不能耐受强的松
+结节病对中等至高剂量的泼尼松治疗无效
+结节病对中等至高剂量的泼尼松治疗无效
+泼尼松剂量不能在3个月后逐渐减少至每天10～15 mg以下
+泼尼松剂量不能在3个月后逐渐减少至每天10～15 mg以下
+在加用其他免疫抑制剂之前，应考虑导致临床改善不佳的可能原因，如不依从性、合并症（如哮喘、心力衰竭、贫血）、肺动脉高压和终末期纤维化。
+甲氨蝶呤是最常用的免疫抑制剂。患者应接受为期6个月的甲氨蝶呤试验，10～15mg/周。开始使用甲氨蝶呤前，应检测患者是否感染乙型肝炎病毒和丙型肝炎病毒。
+治疗之初，联用甲氨蝶呤和皮质类固醇药物；在6至8周内，皮质类固醇的剂量可以逐渐减少，并且在许多情况下可以停药。然而，甲氨蝶呤治疗可能需要6到12个月才能发挥最大的药物效能。这类病人中糖皮质激素减量应更加缓慢。开始治疗时每隔2~4周应行血常规和肝功能检查，达到稳定治疗剂量后每6~12周复查一次。建议接受甲氨蝶呤治疗的患者服用叶酸（每天口服 1 毫克），以降低不良反应的风险。
+其他非生物免疫抑制剂包括硫唑嘌呤、霉酚酸酯、环磷酰胺、来氟米特和羟氯喹。羟氯喹通常对治疗高钙血症、关节痛、皮肤结节病或增大的不适或畸形的外周淋巴结有效。应在开始使用羟氯喹之前以及治疗期间每12个月进行眼科评估，以监测其眼毒性。
+停用免疫抑制剂后复发是常见的。
+
+【肿瘤坏死因子抑制剂】
+英夫利昔单抗通常用于治疗难治性结节病及对糖皮质激素和上述非生物免疫抑制剂均不耐受的患者。在开始治疗之前，患者应进行纯化蛋白衍生物（PPD）或干扰素γ释放测定，以筛查潜伏性结核病。英夫利昔单抗需静脉给药，达到最大疗效可能需要3至6个月。英夫利昔单抗通常与低剂量甲氨蝶呤或硫唑嘌呤联合使用，以防止形成针对它的抗体。
+阿达木单抗可考虑用于眼部或皮肤结节病患者，以及已接受英夫利昔单抗成功治疗但出现抗体或输注反应的患者。
+
+【其他治疗注意事项】
+因心脏受累导致心脏传导阻滞或室性心律失常的患者除药物治疗外，还应接受植入型心律转复除颤器和起搏器。
+四环素类抗生素如多西环素或米诺环素可用于治疗皮肤结节病（2）。
+尚无可持续预防肺纤维化的药物。
+结节病相关的肺动脉高压的治疗以利尿和补充氧气为主。肺血管舒张剂在治疗SPAH中的作用尚未得到很好的证实；一些小规模的研究表明了疗效，但还需要更大规模的研究来证实（3)。
+终末期肺、心以及肝脏部病变病人可选择脏器移植手术治疗，但术后移植器官仍可能复发结节病。
+接受免疫抑制剂治疗且存在中重度肺或心功能损害的结节病患者，发生严重病毒感染（如流感、呼吸道合胞病毒[RSV]、COVID-19）及肺炎链球菌肺炎的风险增加。在结节病患者中，强烈建议接种针对这些感染的疫苗，因为这些疫苗可以降低死亡率和疾病的严重程度。
+
+【治疗参考文献】
+1.Baughman RP, Valeyre D, Korsten P, et al: ERS clinical practice guidelines on treatment of sarcoidosis.Eur Respir J58(6):2004079, 2021.doi:10.1183/13993003.04079-2020
+1.Baughman RP, Valeyre D, Korsten P, et al: ERS clinical practice guidelines on treatment of sarcoidosis.Eur Respir J58(6):2004079, 2021.doi:10.1183/13993003.04079-2020
+2.Bachelez H, Senet P, Cadranel J, Kaoukhov A, Dubertret L: The use of tetracyclines for the treatment of sarcoidosis.Arch Dermatol137(1):69-73, 2001.doi:10.1001/archderm.137.1.69
+2.Bachelez H, Senet P, Cadranel J, Kaoukhov A, Dubertret L: The use of tetracyclines for the treatment of sarcoidosis.Arch Dermatol137(1):69-73, 2001.doi:10.1001/archderm.137.1.69
+3.Humbert M, Kovacs G, Hoeper MM, et al: 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension.Eur Respir J61(1): 1-144, 2023.doi:10.1183/13993003.00879-2022
+3.Humbert M, Kovacs G, Hoeper MM, et al: 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension.Eur Respir J61(1): 1-144, 2023.doi:10.1183/13993003.00879-2022
+
+【结节病的预后】
+虽然自发缓解很常见，但疾病表现和严重程度差异很大，许多患者在病程中的某个时间点需要使用皮质类固醇来缓解症状或延缓进行性器官功能下降。故而须连续监测疾病是否复发。几乎三分之二的结节病患者最终获得缓解，很少或没有后遗症 (1)。在自发性缓解的患者中，约50%的人在诊断后的头3年内发生缓解。这些患者中不到 10% 会在 2 年后复发。而2-3年内未缓解者可能为慢性病变。
+多达30%的结节病患者表现为慢性病变，10%~20%的患者有永久性的后遗症(1)。该疾病在不到10%的患者中是致命的，通常是由于肺部并发症引起的呼吸衰竭，随后出现严重的心脏受累（2）。浸润性心肌病引起心律失常和心力衰竭是常见的死亡原因。
+肺外结节病和黑种人病人预后更差。
+良性预后因素包括
+Löfgren综合征（急性多发性关节炎，结节性红斑和，肺门淋巴结肿大三联征）
+Löfgren综合征（急性多发性关节炎，结节性红斑和，肺门淋巴结肿大三联征）
+不良预后因素包括
+慢性葡萄膜炎
+慢性葡萄膜炎
+狼疮性冻疮
+狼疮性冻疮
+慢性高钙血症
+慢性高钙血症
+神经系统结节病
+神经系统结节病
+心脏受累
+心脏受累
+广泛的肺部受累和/或肺动脉高压的发展
+广泛的肺部受累和/或肺动脉高压的发展
+治疗和未治疗病人的远期预后并未发现显著差异，治疗停止后常见复发。
+
+【预后参考】
+1.Iannuzzi MC, Rybicki BA, Teirstein AS.Sarcoidosis.N Engl J Med2007;357(21):2153-2165.doi:10.1056/NEJMra071714
+1.Iannuzzi MC, Rybicki BA, Teirstein AS.Sarcoidosis.N Engl J Med2007;357(21):2153-2165.doi:10.1056/NEJMra071714
+2.Drent M, Crouser ED, Grunewald J.Challenges of Sarcoidosis and Its Management.N Engl J Med2021;385(11):1018-1032.doi:10.1056/NEJMra2101555
+2.Drent M, Crouser ED, Grunewald J.Challenges of Sarcoidosis and Its Management.N Engl J Med2021;385(11):1018-1032.doi:10.1056/NEJMra2101555
+全身和肺外脏器受累常见于结节病，但> 90％的成年患者有肺部受累。
+全身和肺外脏器受累常见于结节病，但> 90％的成年患者有肺部受累。
+获得胸部影像学诊断，但通过活检确诊，通常采用支气管内超声引导下经支气管针吸纵隔或肺门淋巴结。
+获得胸部影像学诊断，但通过活检确诊，通常采用支气管内超声引导下经支气管针吸纵隔或肺门淋巴结。
+通过肺功能检查和运动时脉搏血氧饱和度监测评估肺部疾病严重程度。
+通过肺功能检查和运动时脉搏血氧饱和度监测评估肺部疾病严重程度。
+应用心电图，裂隙灯检查，肾和肝功能测定，血清和尿钙测定评估肺外受累。
+应用心电图，裂隙灯检查，肾和肝功能测定，血清和尿钙测定评估肺外受累。
+对有指征患者（如严重的症状，高钙血症，脏器功能进行性下降，心脏或神经系统受累）应用全身皮质类固醇治疗。
+对有指征患者（如严重的症状，高钙血症，脏器功能进行性下降，心脏或神经系统受累）应用全身皮质类固醇治疗。
+如果患者不能耐受中等剂量糖皮质激素，结节病对皮质类固醇耐药，或需要长期应用皮质类固醇，可应用其他免疫抑制剂治疗。
+如果患者不能耐受中等剂量糖皮质激素，结节病对皮质类固醇耐药，或需要长期应用皮质类固醇，可应用其他免疫抑制剂治疗。

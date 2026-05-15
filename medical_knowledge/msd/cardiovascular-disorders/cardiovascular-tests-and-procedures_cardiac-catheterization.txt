@@ -1,0 +1,235 @@
+标题：心导管术
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/cardiovascular-tests-and-procedures/cardiac-catheterization
+============================================================
+
+心导管检查可以用来做各种测试，包括
+血管造影
+血管造影
+检测和量化心内缺损的分流
+检测和量化心内缺损的分流
+心内膜心肌活检
+心内膜心肌活检
+血管内超声检查（IVUS）
+血管内超声检查（IVUS）
+心排血量测定
+心排血量测定
+心肌代谢的测量
+心肌代谢的测量
+这些检查可明确冠状动脉解剖、心脏解剖、心脏功能以及肺动脉血流动力学，以确立诊断并帮助临床医师选择治疗。
+心脏导管术也是多种治疗干预措施的基础（参见冠心病治疗中的经皮冠状动脉介入治疗）。
+
+【心导管检查程序】
+许多（但并非全部）术前方案要求患者在心导管插入术前禁食4至6小时。如果没有接受介入治疗，大多数病人无需留院过夜。
+
+【左心导管术】
+左心脏导管术是最常用的评估
+冠状动脉解剖以及冠状动脉疾病的存在
+冠状动脉解剖以及冠状动脉疾病的存在
+左心脏导管术也可以用来评估
+主动脉血压
+主动脉血压
+主动脉瓣功能
+主动脉瓣功能
+左心室压力和功能
+左心室压力和功能
+二尖瓣功能
+二尖瓣功能
+体循环血管阻力
+体循环血管阻力
+左心导管通过股动脉、锁骨下动脉、桡动脉或肱动脉穿刺进行，导管进入冠状动脉口和/或穿过主动脉瓣进入左心室。
+偶尔在进行右心导管术时穿刺房间隔将导管插入到左心房（LA）和左心室（LV）。
+
+【右心脏导管插入术】
+右心导管术常用于测量
+右心房压力
+右心房压力
+右心室压力
+右心室压力
+肺动脉压
+肺动脉压
+肺动脉楔压(PAOP—见图心脏周期图解)
+肺动脉楔压(PAOP—见图心脏周期图解)
+右心导管插入术最常见的适应症是评估血流动力学、诊断肺动脉高压、指导治疗以及评估是否需要心脏移植或机械心脏支持（例如心室辅助装置）。
+PAOP接近左心房和左心室舒张末期压力。对于病情严重的患者，PAOP有助于评估容量状态，与心输出量同时测定可帮助指导治疗。
+右心导管术也有助于评估心脏充盈压、肺血管阻力、三尖瓣和肺动脉瓣功能、心内缺损的分流以及右心室压。
+非侵入性检查不能提供诊断价值时，右心脏压力检测则可以有助于心肌病、缩窄性心包炎和心包填塞的诊断，并且它还是评估心脏移植或机械心脏支持的一个重要部分（例如，使用心室辅助装置）。
+该程序可经股静脉，锁骨下静脉，颈内静脉或肘静脉穿刺完成。导管可经右房、三尖瓣进入右室，然后跨肺动脉瓣进入肺动脉。
+也可以将导管选择性插入冠状静脉窦。
+运动期间通过右心导管插入的血流动力学评估越来越多地作为病因不明的呼吸困难检查的一部分进行。该测试可以与心肺运动测试同时进行，称为有创心肺运动测试。这被认为是诊断心脏运动受限的标准，但目前在相对较少的中心可用。如果初步评估后诊断不确定，对于射血分数保留的心力衰竭具有中等预检概率的患者，应考虑进行运动右心导管检查。当患者有心衰的体征和症状时，无论左心室射血分数如何，PAOP升高> 25 mm Hg证实了诊断。
+
+【心动周期图,图示心腔压力曲线、心音、颈静脉波和心电图（ECG）】
+心动周期图,图示心腔压力曲线、心音、颈静脉波和心电图（ECG）
+心动周期的各个时相为：心房收缩期（a）、等容收缩期（b）、最大射血期（c）、减慢射血期（d）、舒张早期（e）、等容舒张期（f）、快速充盈期（g）和舒张中期（或缓慢左心室充盈期）（h）。为了说明的目的，瓣膜事件之间的时间间隔有改动，z点延长。
+在颈静脉搏动描记中，A波代表舒张末期心房收缩，C波代表收缩早期颈动脉搏动或三尖瓣向右心房膨出，V波代表收缩晚期和舒张早期右心房充盈时压力和容积的增加，X和X'下降代表右心房下部向心室移动（X'出现在收缩末期），Y下降代表舒张期三尖瓣开放和心室充盈。
+AO=主动脉瓣开放，AC=主动脉瓣关闭，LV=左心室，LA=左心房，RV=右心室，RA=右心房，MO=二尖瓣开放。
+
+【心导管术中的特殊检查方法】
+
+【血管造影】
+在某些情况下将不透X线的对比剂注入冠状动脉、肺动脉、主动脉以及心腔内进行造影有助于诊断。数字减影血管造影可用于不移动的动脉造影或心腔电影血管造影。
+经左心导管施行的冠状动脉造影用于在各种临床情况下评估冠状动脉解剖，例如怀疑有冠状动脉粥样硬化性或先天性疾病的患者，瓣膜置换术前的瓣膜病，或不明原因的心力衰竭。
+导管（左上）放置在左冠状动脉主干的开口处。 然后在透视下将造影剂注入冠状动脉以检测任何异常，例如狭窄。
+Astier/BSIP/SCIENCE PHOTO LIBRARY
+经右心导管施行的肺动脉造影可被用来诊断肺栓塞。腔内充盈缺损或动脉截断征象具有诊断意义。不透X线的对比剂选择性地注入一侧或双侧肺动脉或它们的分支。计算机断层肺动脉造影（computed tomographic pulmonary angiography,CTPA）已在很大程度上取代右心导管术用于肺栓塞的诊断。 通过右心导管进行肺血管造影仍然常用于确定疑似慢性血栓栓塞性疾病的管理计划。
+经左心导管施行的主动脉造影用于评估主动脉瓣反流、主动脉缩窄、动脉导管未闭和动脉夹层。
+导管（中间）插入左心室（LV）。在透视下将造影剂注入左心室，直观估计射血分数。
+PETER MENZEL/SCIENCE PHOTO LIBRARY
+心室造影用于观察室壁运动和心室流出道，包括瓣下、瓣膜和瓣上区域。它也可以用来评估二尖瓣反流的严重程度，并确定其病理生理学机制。从单平面或双平面心室造影测得左心室质量和容积后，即可算出收缩末期容积和舒张末期容积以及射血分数。
+
+【冠状动脉血流测定】
+冠状动脉造影可以显示冠状动脉狭窄的存在和程度，但不能说明病变的功能意义（例如，有多少血流通过狭窄部位），也不能确定某个特定的病变是否是症状的原因。
+可提供带有压力传感器或多普勒流量传感器的极细导丝。 这些传感器的数据可用于估计冠状动脉血流，以血流储备分数（FFR）表示。FFR是通过狭窄区域的最大流量与充血期间（最常见使用腺苷）获得的正常最大流量之比；FFR值为<0.75到0.8被认为是异常的。已经开发了测量冠状动脉血流量的更新技术，包括瞬时无波比 (iFR) 和舒张期无充血比 (DFR)。 这些技术的优点是不需要充血。 iFR 和 DFR 都测量在舒张期期间狭窄处的梯度； iFR 或 DFR ≤ 0.89 被视为异常（1、2）。
+这些血流评估与是否需干预以及长期预后密切相关；若患者病变FFR > 0.8、 iFR > 0.89, 或 DFR > 0.89可能不能从支架植入中获益。这种血流测定方法对临界病变（40%～70%狭窄）和多处病变（确定临床上最重要的病变）特别有用。
+
+【血管内超声（IVUS）】
+应用置于导管顶端的微型超声换能器可获得冠脉内腔和管壁的图像以及冠脉血流情况。血管内超声检查在多种临床情况下越来越多地与冠状动脉造影同时使用，包括指导经皮冠状动脉介入治疗期间的最佳支架放置、检测心脏移植后的心脏同种异体移植血管病变以及识别冠状动脉夹层。
+
+【光学相干断层扫描（OCT）】
+光学相干断层扫描（OCT）是一种光学模拟冠状动脉内超声显像的技术，通过测量反向散射光的振幅来评估冠状动脉斑块的组成和结构，并可以帮助判断病变斑块未来是否存在高破裂风险（导致急性冠脉综合征）。与血管内超声不同，需要注射造影剂才能获得图像。OCT与IVUS的适应症和适当使用目前尚不确定。
+
+【心脏分流检查】
+连续在心脏和大血管的不同水平上测定氧含量可帮助确定中心性分流的存在、分流的方向和分流量。不同结构之间的氧含量的最大正常差值如下：
+肺动脉和右心室：0.5毫升/分升（0.5 vol%）
+肺动脉和右心室：0.5毫升/分升（0.5 vol%）
+右心室和右心房：0.9毫升/分升(0.9 vol%)
+右心室和右心房：0.9毫升/分升(0.9 vol%)
+右心房和上腔静脉：1.9毫升/分升(1.9 vol%)
+右心房和上腔静脉：1.9毫升/分升(1.9 vol%)
+如果某处心腔的血氧含量与其上游心腔的血氧含量之差超过上述数值，则可能在该心腔水平存在左向右分流。当左心房、左心室或动脉血氧饱和度降低（≤92%）且吸入纯氧（吸入氧分数=1.0）后无法改善时，则强烈提示存在右向左分流。左侧心脏或动脉血O2饱和度降低并且分流部位远侧的右侧心腔血氧含量增加提示双向分流。
+
+【心排血量和血流测定】
+心排血量（CO）指心脏每分钟的排血量（静息状态下正常值：4～8 L/min）。用于计算心排血量的技术(见表心输出量方程)包括
+菲克心输出法
+菲克心输出法
+指示剂稀释法
+指示剂稀释法
+热稀释法
+热稀释法
+
+【心排血量计算公式】
+心排血量计算公式
+Fick法
+分子是耗氧量（肺部每分钟吸收的氧气量，单位为mL/min）。
+指示剂稀释法
+分母是每个时间间隔（t）的对比剂浓度（C）之和。
+热稀释法
+TB–TI是机体与注射物之间的温度差，注射物通常用葡萄糖或生理盐水。分母是每个时间间隔（t）内温度变化的总和。
+SaO2=动脉血氧饱和度（%）；SvO2=混合静脉血氧饱和度（%），在肺动脉内测量。
+SaO2=动脉血氧饱和度（%）；SvO2=混合静脉血氧饱和度（%），在肺动脉内测量。
+应用Fick法时，CO与氧耗量除以动脉静脉氧差成正比。
+稀释法依据这样的假设，即将指示剂注入循环后它的出现与消失与CO成比例。
+通常，CO 与体表面积（BSA）的关系表示为心脏指数（CI），单位为 L/min/m2（即 CI=CO/BSA——参见表心脏指数和相关指标的正常值）。BSA用DuBois的身高（ht）－体重（wt）公式计算：
+
+【心脏指数及其相关测量的正常值】
+心脏指数及其相关测量的正常值
+测定指标
+143mL/min/m2*
+14.3
+动静脉氧差
+4.1dL
+心脏指数
+3.5L/min/m2
+心搏指数
+46mL/心搏/m2
+体循环总阻力
+1130 dynes·second·cm⁻⁵-5
+肺循环总阻力
+205 dynes·second·cm-5
+肺小动脉阻力
+67 dynes·second·cm-5
+*随体质指数变化
+SD=标准差
+Adapted from Barratt-Boyes BG, Wood EH: Cardiac output and related measurements and pressure values in the right heart and associated vessels, together with an analysis of the hemodynamic response to the inhalation of high oxygen mixtures in healthy subjects.Journal of Laboratory and Clinical Medicine51:72–90, 1958.
+*随体质指数变化
+SD=标准差
+Adapted from Barratt-Boyes BG, Wood EH: Cardiac output and related measurements and pressure values in the right heart and associated vessels, together with an analysis of the hemodynamic response to the inhalation of high oxygen mixtures in healthy subjects.Journal of Laboratory and Clinical Medicine51:72–90, 1958.
+
+【心内膜心肌活检】
+心内膜心肌活检可帮助评估心脏移植排斥反应以及由感染和浸润性疾病引起的心肌疾病。可将活检导管（bioptome）置入任何一个心室，通常是右心室。从室间隔心内膜取3～5块心肌组织。心内膜心肌活检主要的并发症是心脏穿孔，发生率为0.3%～0.5%；它可引起心包积血，进而导致心脏压塞。也可能会发生三尖瓣和腱索的损伤，并可能导致三尖瓣关闭不全。
+
+【心导管检查参考文献】
+1.Gotberg M, Christiansen EH, Gudmundsdottir IJ, et al: Instantaneous wave-free ratio versus fractional flow reserve to guide PCI.New Engl J Med376:1813–1823, 2017.doi: 10.1056/NEJMoa1616540
+1.Gotberg M, Christiansen EH, Gudmundsdottir IJ, et al: Instantaneous wave-free ratio versus fractional flow reserve to guide PCI.New Engl J Med376:1813–1823, 2017.doi: 10.1056/NEJMoa1616540
+2.Johnson NP, Li W, Chen X, et al: Diastolic pressure ratio: new approach and validation vs. the instantaneous wave-free ratio.Eur Heart J40:2585–2594, 2019.
+2.Johnson NP, Li W, Chen X, et al: Diastolic pressure ratio: new approach and validation vs. the instantaneous wave-free ratio.Eur Heart J40:2585–2594, 2019.
+
+【心导管术禁忌症】
+心导管术的相对禁忌症包括
+急性肾损伤
+急性肾损伤
+慢性肾病
+慢性肾病
+凝血功能障碍
+凝血功能障碍
+未经适当预处理的对放射不透性造影剂过敏的患者。
+未经适当预处理的对放射不透性造影剂过敏的患者。
+全身感染
+全身感染
+未控制的心律失常
+未控制的心律失常
+未控制的高血压
+未控制的高血压
+失代偿性心力衰竭
+失代偿性心力衰竭
+相对禁忌症需要权衡手术的紧迫性（例如，急性心肌梗塞与择期病例）和禁忌症的严重程度。抗凝药或抗血小板药物的围手术期管理是根据手术类型（即动脉与静脉通路）、手术的紧急程度、药物适应症以及患者出血风险来个体化的。导管介入室经常有针对这些药物围手术期管理的政策。
+
+【心导管术的并发症】
+心导管术并发症的发生率从0.8％至8％不等，这取决于病人的因素，技术因素，和操作者的经验。病人方面的因素包括
+慢性肾脏病
+慢性肾脏病
+慢性阻塞性肺病（COPD）
+慢性阻塞性肺病（COPD）
+心脏衰竭
+心脏衰竭
+年龄增长
+年龄增长
+外周动脉病变
+外周动脉病变
+心瓣膜病变
+心瓣膜病变
+大多数并发症是轻微的，可以很容易地处理。严重的并发症（如心脏骤停、过敏反应、休克、癫痫发作、肾毒性）少见。死亡率是0.1〜0.2％。心肌梗死（0.1%）和脑卒中（0.1%）可能导致显著发病率。年龄>80岁的患者卒中的发生率比较高。
+总体说来，并发症包括
+导管的影响
+导管的影响
+穿刺部位
+穿刺部位
+
+【造影剂并发症】
+大多数病人在注射造影剂时产生短暂的全身发热的感觉。也可发生心动过速、血压轻度下降、心输出量增加、恶心、呕吐和咳嗽。偶尔，在注射大量对比剂时发生心动过缓，嘱病人咳嗽常可恢复正常节律。
+更严重反应（参见放射性造影剂和造影剂反应）包括
+过敏性造影剂反应
+过敏性造影剂反应
+造影剂肾损伤
+造影剂肾损伤
+对放射造影剂的过敏反应包括荨麻疹和结膜炎，静注50mg苯海拉明常可奏效。全身过敏反应和类过敏反应，伴有支气管痉挛、喉头水肿和呼吸困难，是罕见的反应，发生频率约为1/5000次检查（1）。这些反应应立即用肾上腺素治疗。对造影剂有过敏反应史的患者可在术前服用口服泼尼松（如果研究紧急，则可肠外注射氢化可的松）和苯海拉明。
+造影剂引起的肾损伤定义为静脉注射造影剂后 24 至 48 小时内肾功能受损（血清肌酐较基线增加 25% 或绝对值增加 0.5 mg/dL [44 微摩尔/L]），判断为由造影剂引起而不是其他原因。对于高风险患者，使用最低剂量的低渗或等渗造影剂，避免短时间内的多重造影检查，并在血管造影术前4至6小时开始，持续至术后6至12小时，静脉输注总量为10至15 mL/kg的生理盐水，可大幅降低此风险。 有肾功能损害风险的患者，注射造影剂48小时后需检测血肌酐。
+
+【造影剂并发症参考】
+1.Wang CL, Cohan RH, Ellis JH, et al: Frequency, outcome, and appropriateness of treatment of nonionic iodinated contrast media reactions.AJR Am J Roentgenol191:409–415, 2008.doi: 10.2214/AJR.07.3421
+1.Wang CL, Cohan RH, Ellis JH, et al: Frequency, outcome, and appropriateness of treatment of nonionic iodinated contrast media reactions.AJR Am J Roentgenol191:409–415, 2008.doi: 10.2214/AJR.07.3421
+
+【导管相关的并发症】
+如果导管头接触到心内膜，诱发室性心律失常还是常见的，但室颤比较罕见。 如果发生室颤, 立即执行直流电复律（DC心脏电复律）。
+导管接触可致斑块的破裂，可释放出粥样硬化栓子。从主动脉脱落栓子可能造成中风或肾病。阻塞冠状动脉近端至远端的栓子可能导致心肌梗塞。
+冠状动脉夹层也是可能发生的。
+
+【穿刺相关的并发症】
+穿刺相关的并发症包括
+假性动脉瘤
+假性动脉瘤
+动静脉瘘
+动静脉瘘
+肢体缺血
+肢体缺血
+穿刺部位出血，通常用压迫止血即可。轻微瘀伤和小血肿比较常见，一般不需要特殊的检查或处理。
+一个大的或者不断扩大肿块应行超声检查，以区分血肿及假性动脉瘤。穿刺部位的血管杂音（伴有或不伴有疼痛）往往提示有动静脉瘘，这点超声可以明确。血肿通常可以自愈，一般不需要特殊治疗。假性动脉瘤和动静脉瘘通常通过压迫即可消退；如果持续存在则可能需要手术修复。
+与经股动脉途径相比，经桡动脉途径介入总体上让病人更舒适，并且血肿、假性动脉瘤或动静脉瘘形成的风险要低得多。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+《ACR 对比剂手册》：2021年ACR药物和造影剂委员会为安全有效地使用造影剂提供了指南。
+《ACR 对比剂手册》：2021年ACR药物和造影剂委员会为安全有效地使用造影剂提供了指南。
+Bashore TM, Balter S, Barac A, et al.2012 American College of Cardiology Foundation/Society for Cardiovascular Angiography and Interventions expert consensus document on cardiac catheterization laboratory standards update: A report of the American College of Cardiology Foundation Task Force on Expert Consensus documents developed in collaboration with the Society of Thoracic Surgeons and Society for Vascular Medicine. J Am Coll Cardiol.2012;59(24):2221-2305.doi:10.1016/j.jacc.2012.02.010
+Bashore TM, Balter S, Barac A, et al.2012 American College of Cardiology Foundation/Society for Cardiovascular Angiography and Interventions expert consensus document on cardiac catheterization laboratory standards update: A report of the American College of Cardiology Foundation Task Force on Expert Consensus documents developed in collaboration with the Society of Thoracic Surgeons and Society for Vascular Medicine. J Am Coll Cardiol.2012;59(24):2221-2305.doi:10.1016/j.jacc.2012.02.010
+2012 American College of Cardiology Foundation/Society for Cardiovascular Angiography and Interventions expert consensus document on cardiac catheterization laboratory standards update: A report of the American College of Cardiology Foundation Task Force on Expert Consensus documents developed in collaboration with the Society of Thoracic Surgeons and Society for Vascular Medicine: Provides the most recent consensus opinions on standards for cardiac catheterization labs
+2012 American College of Cardiology Foundation/Society for Cardiovascular Angiography and Interventions expert consensus document on cardiac catheterization laboratory standards update: A report of the American College of Cardiology Foundation Task Force on Expert Consensus documents developed in collaboration with the Society of Thoracic Surgeons and Society for Vascular Medicine: Provides the most recent consensus opinions on standards for cardiac catheterization labs

@@ -1,0 +1,36 @@
+标题：组织细胞病概述
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/histiocytic-syndromes/overview-of-histiocytic-disorders
+============================================================
+
+组织细胞病是一组临床异质性疾病，由组织细胞异常增殖所引起，即
+树突细胞（抗原呈递细胞）
+树突细胞（抗原呈递细胞）
+单核 - 巨噬细胞（抗原提呈细胞）
+单核 - 巨噬细胞（抗原提呈细胞）
+这类疾病的分类很困难（见表组织细胞病），因为分类会随着对这些细胞生物学特性的进一步理解而发生变化(1)。朗格汉斯细胞组织细胞增多症是最常见的组织细胞疾病。还有其他罕见的组织细胞疾病，例如埃尔德海姆-切斯特病病和幼年黄色肉芽肿，其中一些现在被认为是朗格汉斯细胞组织细胞增多症 （2）的变体。
+
+【组织细胞病】
+组织细胞病
+常见疾病*
+树突状细胞–相关的
+朗格汉斯细胞组织细胞增多症(LCH)†
+青少年黄色肉芽肿(JXG)
+Erdheim-Chester病 (ECD)
+巨噬细胞–相关的
+原发性噬血细胞综合征
+继发性噬血细胞综合征
+Rosai-Dorfman病(RDD)‡
+* 其他罕见疾病存在于每个类别中。
+†包括以前所谓的嗜酸性肉芽肿，Letterer-Siwe病和Hand-Schüller-Christian病
+‡ 也称为伴有巨大淋巴结肿大的窦组织细胞增生症或 Rosai-Dorfman-Destombes 病
+See alsoEmile JF, Abla O, Fraitag S, et al: Revised classification of histiocytoses and neoplasms of the macrophage-dendritic cell lineages.Blood127(22):2672–2681, 2016.doi: 10.1182/blood-2016-01-690636 andHöck, M., Zelger, B., Schweigmann, G. et al: The various clinical spectra of juvenile xanthogranuloma: Imaging for two case reports and review of the literature.BMC Pediatr19, 128, 2019.doi: 10.1186/s12887-019-1490-y
+* 其他罕见疾病存在于每个类别中。
+†包括以前所谓的嗜酸性肉芽肿，Letterer-Siwe病和Hand-Schüller-Christian病
+‡ 也称为伴有巨大淋巴结肿大的窦组织细胞增生症或 Rosai-Dorfman-Destombes 病
+See alsoEmile JF, Abla O, Fraitag S, et al: Revised classification of histiocytoses and neoplasms of the macrophage-dendritic cell lineages.Blood127(22):2672–2681, 2016.doi: 10.1182/blood-2016-01-690636 andHöck, M., Zelger, B., Schweigmann, G. et al: The various clinical spectra of juvenile xanthogranuloma: Imaging for two case reports and review of the literature.BMC Pediatr19, 128, 2019.doi: 10.1186/s12887-019-1490-y
+
+【参考文献】
+1.Emile JF, Abla O, Fraitag S, et al: Revised classification of histiocytoses and neoplasms of the macrophage-dendritic cell lineages.Blood127(22):2672–2681, 2016.doi: 10.1182/blood-2016-01-690636
+1.Emile JF, Abla O, Fraitag S, et al: Revised classification of histiocytoses and neoplasms of the macrophage-dendritic cell lineages.Blood127(22):2672–2681, 2016.doi: 10.1182/blood-2016-01-690636
+2.Höck, M., Zelger, B., Schweigmann, G. et al: The various clinical spectra of juvenile xanthogranuloma: Imaging for two case reports and review of the literature.BMC Pediatr19, 128, 2019.doi: 10.1186/s12887-019-1490-y
+2.Höck, M., Zelger, B., Schweigmann, G. et al: The various clinical spectra of juvenile xanthogranuloma: Imaging for two case reports and review of the literature.BMC Pediatr19, 128, 2019.doi: 10.1186/s12887-019-1490-y

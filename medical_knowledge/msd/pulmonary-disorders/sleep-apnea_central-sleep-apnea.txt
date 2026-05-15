@@ -1,0 +1,84 @@
+标题：中枢性睡眠呼吸暂停
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/sleep-apnea/central-sleep-apnea
+============================================================
+
+中枢性睡眠呼吸暂停 (CSA) 比阻塞性睡眠呼吸暂停要少得多，但并不罕见。社区中有0.9%的人存在中枢性睡眠呼吸暂停（1）。CSA 在老年人、男性和患有心血管疾病（例如心力衰竭）的患者中更常见。中枢性睡眠呼吸暂停也可能发生在儿童身上（2）。
+
+【参考文献】
+1.Donovan LM, Kapur VK: Prevalence and characteristics of central compared to obstructive sleep apnea: analyses from the sleep heart health study cohort.Sleep39(7):1353–1359, 2016.doi: 10.5665/sleep.5962
+1.Donovan LM, Kapur VK: Prevalence and characteristics of central compared to obstructive sleep apnea: analyses from the sleep heart health study cohort.Sleep39(7):1353–1359, 2016.doi: 10.5665/sleep.5962
+2.McLaren AT, Bin-Hasan S, Narang I: Diagnosis, management and pathophysiology of central sleep apnea in children.Paediatr Respir Rev30:49–57, 2019.doi:10.1016/j.prrv.2018.07.005
+2.McLaren AT, Bin-Hasan S, Narang I: Diagnosis, management and pathophysiology of central sleep apnea in children.Paediatr Respir Rev30:49–57, 2019.doi:10.1016/j.prrv.2018.07.005
+
+【中枢性睡眠呼吸暂停的病理生理学】
+与阻塞性睡眠呼吸暂停不同的是，气道阻塞限制了气流，中枢性睡眠呼吸暂停（CSA）是由呼吸驱动的改变引起的，在睡眠期间，呼吸驱动高度依赖于二氧化碳水平。区分两种机制：
+低通气相关的 CSA：减少通气驱动导致呼吸暂时减少和/或暂停。
+低通气相关的 CSA：减少通气驱动导致呼吸暂时减少和/或暂停。
+与过度通气相关的CSA：睡眠期间通气驱动力增加导致低碳酸血症，引起通气量的代偿性下降，如果异常延长，会导致反复出现的中枢性呼吸暂停与觉醒。
+与过度通气相关的CSA：睡眠期间通气驱动力增加导致低碳酸血症，引起通气量的代偿性下降，如果异常延长，会导致反复出现的中枢性呼吸暂停与觉醒。
+低通气相关性 CSA 可能是由于呼吸中枢的解剖或功能性损伤所致，直接损害通气，导致二氧化碳 (CO2) 水平升高（高碳酸血症）。患有中枢神经系统或神经肌肉疾病的患者可能会发生低通气相关的 CSA。阿片类药物和其他药物是导致低通气相关 CSA 的常见原因。
+矛盾的是，在高通气相关的 CSA 中，过度通气导致随后的呼吸暂停。无论出于何种原因，通气量的短暂增加都可能超过目标二氧化碳水平，导致低碳酸血症。低碳酸血症会引起随后的一段时间的低通气和/或呼吸暂停，最终导致高碳酸血症，并随后重复这一循环。患者可能会周期性地在高通气和低通气之间交替，如在陈-施呼吸中，患者会有短暂的呼吸暂停，随后呼吸逐渐加快加深，然后又变慢变浅，直至再次出现呼吸暂停，如此循环往复。
+通气紊乱主要发生在睡眠期间，因为在清醒期间有额外的外部刺激进行呼吸。
+
+【中枢性睡眠呼吸暂停的病因】
+通气不足相关的 CSA伴高碳酸血症的原因包括甲状腺功能减退、神经病变（例如，脑干梗塞、脑炎、Chiari II 型畸形）和某些药物（最常见的是阿片类药物——包括美沙酮）(1)。
+先天性中枢性低通气综合征（翁丹诅咒）是一种罕见的特发性中枢性睡眠呼吸暂停，见于新生儿，部分病例与先天性巨结肠症相关。80% 到 90% 的病例是由PHOX2基因突变引起的（2）。这种突变会产生不同的表型，其中一些可能在以后的生活中变得可识别（3）。临床明显的病例是以显性模式遗传的。睡眠通气不足可以在父母身上发现。
+一种极为罕见的可导致CSA的疾病是一种快速发作型肥胖综合征（<1年内体重显著增加），伴有下丘脑功能障碍、通气不足和自主神经调节障碍（ROHHAD）；原因是多因素的。患者出现在第二个或第三个十年，通常是在感染或手术等压力之后 (4)。
+由于低压缺氧，健康人在高海拔地区发生与高通气相关的CSA。它也发生于患有心力衰竭且出现陈-施呼吸的患者，偶尔也见于使用气道正压（PAP）治疗阻塞性呼吸暂停的过程中。
+
+【病因参考文献】
+1.Javaheri S, Cao M: Chronic Opioid Use and Sleep Disorders.Sleep Med Clin17(3):433–444, 2022.doi:10.1016/j.jsmc.2022.06.008
+1.Javaheri S, Cao M: Chronic Opioid Use and Sleep Disorders.Sleep Med Clin17(3):433–444, 2022.doi:10.1016/j.jsmc.2022.06.008
+2.Genetic and Rare Diseases Information Center: Congenital central hypoventilation syndrome.National Institutes of Health, National Center for Advancing Translational Medicine, Genetic and Rare Diseases Information Center.Updated June 2024.Accessed July 2024.Congenital central hypoventilation syndrome - About the Disease - Genetic and Rare Diseases Information Center (nih.gov)
+2.Genetic and Rare Diseases Information Center: Congenital central hypoventilation syndrome.National Institutes of Health, National Center for Advancing Translational Medicine, Genetic and Rare Diseases Information Center.Updated June 2024.Accessed July 2024.Congenital central hypoventilation syndrome - About the Disease - Genetic and Rare Diseases Information Center (nih.gov)
+3.Antic NA, Malow BA, Lange N, et al: PHOX2B mutation-confirmed congenital central hypoventilation syndrome: presentation in adulthood.Am J Respir Crit Care Med174(8):923–927, 2006.doi:10.1164/rccm.200605-607CR
+3.Antic NA, Malow BA, Lange N, et al: PHOX2B mutation-confirmed congenital central hypoventilation syndrome: presentation in adulthood.Am J Respir Crit Care Med174(8):923–927, 2006.doi:10.1164/rccm.200605-607CR
+4.Chew HB, Ngu LH, Keng WT: Rapid-onset obesity with hypothalamic dysfunction, hypoventilation and autonomic dysregulation (ROHHAD): a case with additional features and review of the literature.BMJ Case Rep2011:bcr0220102706, 2011.doi:10.1136/bcr.02.2010.2706
+4.Chew HB, Ngu LH, Keng WT: Rapid-onset obesity with hypothalamic dysfunction, hypoventilation and autonomic dysregulation (ROHHAD): a case with additional features and review of the literature.BMJ Case Rep2011:bcr0220102706, 2011.doi:10.1136/bcr.02.2010.2706
+
+【中枢性睡眠呼吸暂停的症状和体征】
+中枢性睡眠呼吸暂停可能无症状，由看护人或同床者发现，他们注意到患者有长时间、无声的呼吸暂停和浅呼吸，随后出现呼吸过度或睡眠不安。或者可能出现夜间睡眠觉醒（睡眠维持性失眠）或白天过度嗜睡（有时称为清醒时嗜睡）、嗜睡或早晨头痛。
+
+【中枢性睡眠呼吸暂停的诊断】
+病史和体格检查
+病史和体格检查
+多导睡眠描记法
+多导睡眠描记法
+CSA 的诊断基于对病史、用药史的仔细回顾以及临床表现，必要时，可通过在家使用便携设备进行睡眠测试或在睡眠实验室使用多导睡眠监测（1, 2）来确诊。但是，如果病因明显且可逆（例如，前往高海拔地区，心脏衰竭) ，可能就没有必要进行检测。
+清醒时的动脉血气和碳酸氢盐水平有助于区分高碳酸血症和低碳酸血症的病理生理学。为了诊断呼吸暂停伴高碳酸血症的中枢神经系统原因，可能需要进行脑部或脑干影像学检查。如果观察到 Cheyne-Stokes 模式，也可能需要进行心脏评估，包括超声心动图检查。
+
+【诊断参考】
+1.Baillieul S, Revol B, Jullian-Desayes I, Joyeux-Faure M, Tamisier R, Pépin JL: Diagnosis and management of central sleep apnea syndrome.Expert Rev Respir Med13(6):545–557, 2019.doi:10.1080/17476348.2019.1604226
+1.Baillieul S, Revol B, Jullian-Desayes I, Joyeux-Faure M, Tamisier R, Pépin JL: Diagnosis and management of central sleep apnea syndrome.Expert Rev Respir Med13(6):545–557, 2019.doi:10.1080/17476348.2019.1604226
+2.The American Association of Sleep Medicine: The AASM International Classification of Sleep Disorders – Third Edition, Text Revision (ICSD-3-TR).AASM Darien, IL.2023.
+2.The American Association of Sleep Medicine: The AASM International Classification of Sleep Disorders – Third Edition, Text Revision (ICSD-3-TR).AASM Darien, IL.2023.
+
+【中枢性睡眠呼吸暂停的治疗】
+治疗潜在疾病
+治疗潜在疾病
+支持治疗
+支持治疗
+药物和设备
+药物和设备
+症状性中枢性睡眠呼吸暂停的主要治疗通常是对潜在疾病（如心力衰竭）的最佳管理，以及避免或减少阿片类药物、酒精和其他镇静剂的使用（1)。对有症状的 CSA 患者的二级治疗可以尝试补充氧气或呼吸兴奋剂。其他患者可能使用气道正压通气或其他设备，这取决于潜在的疾病。症状轻微的患者可能不需要特殊治疗。
+对于尽管心脏功能已优化但仍患有 CSA 和 Cheyne-Stokes 呼吸的患者，补充氧气可能会减少呼吸暂停和低通气发作。同样，持续气道正压通气（CPAP）有时可以通过减少低氧血症和减少前负荷和后负荷有效治疗心力衰竭和 Cheyne-Stokes 呼吸。
+还使用了更先进的 PAP 通气策略，例如自适应伺服通气 (ASV)。这些通气算法在呼吸暂停期间提供呼吸支持或呼吸，然后当患者自行呼吸时减少支持。总体效果是调节每分钟通气量。然而，根据临床试验结果，ASV 对于射血分数降低的患者是禁用的（2，3）。
+乙酰唑胺可增加碳酸氢盐排泄并引起代谢性酸中毒，从而刺激呼吸，对高海拔引起的CSA有效，对一些心力衰竭患者也有用。
+膈肌电起搏是一种选择，通常通过经静脉膈神经刺激来完成，例如可用于2岁以上的患有先天性中枢性低通气综合征的儿童，或患有症状性复发性CSA的成人。可编程的膈神经或膈肌刺激系统可以产生有节奏的呼吸模式，稳定潮气量、气流和氧合作用，在睡眠期间促进呼吸，并可能改变疾病进展（4）。
+
+【治疗参考文献】
+1.Dempsey JA: Central sleep apnea: misunderstood and mistreated!F1000Res.8:F1000 Faculty Rev-981, 2019.doi: 10.12688/f1000research.18358.1
+1.Dempsey JA: Central sleep apnea: misunderstood and mistreated!F1000Res.8:F1000 Faculty Rev-981, 2019.doi: 10.12688/f1000research.18358.1
+2.Cowie MR, Woehrle H, Wegscheider K, et al: Adaptive Servo-Ventilation for Central Sleep Apnea in Systolic Heart Failure.N Engl J Med373(12):1095–1105, 2015.doi:10.1056/NEJMoa1506459
+2.Cowie MR, Woehrle H, Wegscheider K, et al: Adaptive Servo-Ventilation for Central Sleep Apnea in Systolic Heart Failure.N Engl J Med373(12):1095–1105, 2015.doi:10.1056/NEJMoa1506459
+3.Bradley TD, Logan AG, Lorenzi Filho G, et al: Adaptive servo-ventilation for sleep-disordered breathing in patients with heart failure with reduced ejection fraction (ADVENT-HF): a multicentre, multinational, parallel-group, open-label, phase 3 randomised controlled trial.Lancet Respir Med12(2):153–166, 2024.doi:10.1016/S2213-2600(23)00374-0
+3.Bradley TD, Logan AG, Lorenzi Filho G, et al: Adaptive servo-ventilation for sleep-disordered breathing in patients with heart failure with reduced ejection fraction (ADVENT-HF): a multicentre, multinational, parallel-group, open-label, phase 3 randomised controlled trial.Lancet Respir Med12(2):153–166, 2024.doi:10.1016/S2213-2600(23)00374-0
+4.Schwartz AR, Sgambati FP, James KJ, et al: Novel phrenic nerve stimulator treats Cheyne-Stokes respiration: polysomnographic insights.J Clin Sleep Med16(5):817–820, 2020.doi: 10.5664/jcsm.8328
+4.Schwartz AR, Sgambati FP, James KJ, et al: Novel phrenic nerve stimulator treats Cheyne-Stokes respiration: polysomnographic insights.J Clin Sleep Med16(5):817–820, 2020.doi: 10.5664/jcsm.8328
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+American Thoracic Society: What is Central Sleep Apnea in Adults?: Brief central sleep apnea summary for patients
+American Thoracic Society: What is Central Sleep Apnea in Adults?: Brief central sleep apnea summary for patients
+American Academy of Sleep Medicine: Detailed patient information explaining the importance of healthy sleep and treatment options for sleep disorders
+American Academy of Sleep Medicine: Detailed patient information explaining the importance of healthy sleep and treatment options for sleep disorders

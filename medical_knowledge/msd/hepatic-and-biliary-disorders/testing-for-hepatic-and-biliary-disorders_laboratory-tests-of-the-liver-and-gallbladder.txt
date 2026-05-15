@@ -1,0 +1,312 @@
+标题：实验室检查
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/testing-for-hepatic-and-biliary-disorders/laboratory-tests-of-the-liver-and-gallbladder
+============================================================
+
+实验室检查一般对于下列情况是有用的：
+检测肝合成及肝胆功能障碍
+检测肝合成及肝胆功能障碍
+评估肝脏损害的严重程度
+评估肝脏损害的严重程度
+监测疾病进程和评价疗效
+监测疾病进程和评价疗效
+完善诊断
+完善诊断
+( 参见American College of Gastroenterology [ACG] Clinical Guideline: Evaluation of Abnormal Liver Chemistries和 the European Association for Study of Liver–Asociación Latinoamericana para el Estudio del HígadoClinical Practice Guidelines.)
+许多肝脏生化试验测量肝细胞或肝脏其他细胞释放到血液中的酶（例如，受损肝细胞释放的转氨酶或胆汁淤积引起的碱性磷酸酶），或通过评估肝胆排泄来评估肝功能（例如，胆红素）。其他检测用于评估肝脏的合成能力（例如，凝血酶原时间[PT]，通常以国际标准化比值[INR]报告）和白蛋白。
+筛查肝脏疾病的最有用的实验室检查是血清氨基转移酶（最常用的肝脏检测）、胆红素和碱性磷酸酶。某些类型的生化异常能帮助识别肝细胞损伤和胆汁分泌功能受损（胆汁淤积—见表实验室检测异常的常见模式）。病毒性肝炎和免疫调节紊乱的检查包括肝炎血清学检查和免疫球蛋白、抗体及自身抗体的检测。
+确定肝脏检查异常的病因需要结合病史和实验室检查。应采用系统方法，包括实验室检查、影像学研究和肝活检。
+一些实验室检查本身具有诊断性或高度暗示性:
+检测甲型肝炎病毒（抗-HAV）的IgM抗体诊断急性甲型肝炎
+检测甲型肝炎病毒（抗-HAV）的IgM抗体诊断急性甲型肝炎
+检测乙肝病毒表面抗原（HBsAg）诊断急性和/或慢性乙型肝炎
+检测乙肝病毒表面抗原（HBsAg）诊断急性和/或慢性乙型肝炎
+检测丙型肝炎病毒抗体（抗-HCV）和HCV-RNA诊断急性和/或慢性丙型肝炎
+检测丙型肝炎病毒抗体（抗-HCV）和HCV-RNA诊断急性和/或慢性丙型肝炎
+检测抗线粒体抗体诊断原发性胆汁性胆管炎（旧称原发性胆汁性肝硬化）
+检测抗线粒体抗体诊断原发性胆汁性胆管炎（旧称原发性胆汁性肝硬化）
+检测血浆铜蓝蛋白（降低）和尿铜（升高）诊断肝豆状核变性
+检测血浆铜蓝蛋白（降低）和尿铜（升高）诊断肝豆状核变性
+血清alpha-1抗胰蛋白酶水平（降低）和表型/遗传学检测以诊断alpha-1抗胰蛋白酶缺乏
+血清alpha-1抗胰蛋白酶水平（降低）和表型/遗传学检测以诊断alpha-1抗胰蛋白酶缺乏
+肝病的其他病因是排除性诊断，是通过实验室结果的特征模式以及患者病史和排除其他病因进行诊断。
+
+【实验室检查指标异常的常见类型】
+实验室检查指标异常的常见类型
+氨基转移酶升高
+碱性磷酸酶升高
+凝血酶原时间(PT)延长
+急性坏死或损伤
+常出现但程度轻微
+肝功能严重受损时延长
+慢性肝细胞性疾病
+轻度~中度
+常出现但程度轻微
+在肝硬化的情况下延长
+胆汁淤积
+常出现但程度轻微
+慢性脂肪泻致维生素K吸收不良时延长
+可以通过注射（皮下或静脉内注射）维生素K纠正
+浸润性疾病
+轻度~中度
+通常不延长
+
+【肝脏损伤的检查】
+
+【氨基转移酶】
+丙氨酸氨基转移酶（alanine aminotransferase, ALT）和天门冬氨酸氨基转移酶（aspartate aminotransferase, AST）会从损伤的肝细胞内溢出，因此它们是检测肝细胞损害的敏感指标。ALT 的真实正常值男性为 29-33 IU/L，女性为 19-25 IU/L，低于许多商业实验室报告的值 (1)。
+氨基转移酶显著升高（>500IU/L），提示急性肝细胞坏死或损伤，常由下列情况引起：
+急性病毒性肝炎（通常为甲型或乙型肝炎）
+急性病毒性肝炎（通常为甲型或乙型肝炎）
+毒物或药物诱导的肝炎
+毒物或药物诱导的肝炎
+缺血/缺氧性肝炎或肝脏梗死
+缺血/缺氧性肝炎或肝脏梗死
+自身免疫性肝炎（偶尔）
+自身免疫性肝炎（偶尔）
+根据损伤的病因，高水平通常会持续数天到数周。 升高的程度不能反映肝损伤的程度。与单次检测相比，系列检测能更好地反映肝脏损害的严重程度和预后。氨基转移酶下降至正常提示肝脏损伤的恢复，但若同时伴有胆红素升高和凝血酶原时间（PT）或国际化标准比值（INR）上升则预示急性肝衰竭，也称暴发性肝衰竭。在急性肝功能衰竭中，酶水平可以恢复正常，因为剩余的肝细胞较少；因此，这种正常化并不表明肝功能得到改善。
+在下列情况时氨基转移酶的水平也明显升高：
+自身免疫性肝炎急性恶化
+自身免疫性肝炎急性恶化
+慢性乙型肝炎再激活
+慢性乙型肝炎再激活
+药物或毒素诱发的肝病
+药物或毒素诱发的肝病
+胆总管内结石通过
+胆总管内结石通过
+急性布-加综合征
+急性布-加综合征
+妊娠急性脂肪肝
+妊娠急性脂肪肝
+急性Wilson病
+急性Wilson病
+中等程度的氨基转移酶升高（300～500 IU/L）见于慢性肝病（例如慢性肝炎）和胆道梗阻，但是胆总管结石的通过可以暂时导致氨基转移酶显zhu升高。
+氨基转移酶轻度升高（<300IU/L）不具有特异性，常见于下列疾病：
+慢性病毒性肝炎
+慢性病毒性肝炎
+代谢功能障碍相关的脂肪性肝病 (MASLD)
+代谢功能障碍相关的脂肪性肝病 (MASLD)
+胆汁淤积性肝病
+胆汁淤积性肝病
+肝细胞癌、胆管癌和肝转移癌
+肝细胞癌、胆管癌和肝转移癌
+酒精相关性肝病和酒精性肝炎
+酒精相关性肝病和酒精性肝炎
+药物诱发gan疾病
+药物诱发gan疾病
+在某些肝脏疾病中，氨基转移酶可能会轻度升高甚至正常，例如
+药物性肝病（如甲氨蝶呤或胺碘酮引起的肝损伤）
+药物性肝病（如甲氨蝶呤或胺碘酮引起的肝损伤）
+慢性乙型肝炎和慢性丙型肝炎
+慢性乙型肝炎和慢性丙型肝炎
+代谢功能障碍相关脂肪性肝病
+代谢功能障碍相关脂肪性肝病
+浸润性肝病（如肝结节病、淀粉样变性）
+浸润性肝病（如肝结节病、淀粉样变性）
+alpha1-抗胰蛋白酶缺乏
+alpha1-抗胰蛋白酶缺乏
+原发性胆汁性胆管炎
+原发性胆汁性胆管炎
+原发性硬化性胆管炎
+原发性硬化性胆管炎
+在某种程度上，ALT升高是肝脏损害的特异性指标。由于AST存在于心脏、骨骼肌、肾脏、红细胞和胰腺中，AST升高可能反映心肌梗死或缺血、横纹肌溶解症，或这些组织的其他损伤。在大多数肝脏疾病中，AST与ALT的比值<1。然而，在酒精相关肝病中，该比率特征性地为>2(尽管可能更高)，因为ALT合成所必需的吡哆醛-5′-磷酸(但对AST合成不太必需)在酒精使用障碍患者中通常缺乏。这也解释了为什么这些患者ALT和AST的升高通常较低（<300 IU/L）。
+
+【乳酸脱氢酶(LDH)】
+常规检查通常包括乳酸脱氢酶（LDH），它存在于许多其他组织中，对于肝细胞损伤不敏感并缺乏特异性。LDH的升高常见于缺血/缺氧性肝炎和广泛浸润肝脏的癌症。
+
+【肝损伤检测参考】
+1.Kwo PY, Cohen SM, Lim JK.ACG Clinical Guideline: Evaluation of Abnormal Liver Chemistries.Am J Gastroenterol.2017;112(1):18-35.doi:10.1038/ajg.2016.517
+1.Kwo PY, Cohen SM, Lim JK.ACG Clinical Guideline: Evaluation of Abnormal Liver Chemistries.Am J Gastroenterol.2017;112(1):18-35.doi:10.1038/ajg.2016.517
+
+【胆汁淤积的检查】
+胆红素是胆汁中的一种色素，由血红蛋白降解生成，主要来自衰老红细胞内血红蛋白的亚铁血红素部分。非结合（游离，或间接）胆红素不溶于水，因此不能通过尿液排泄；绝大部分非结合胆红素在血浆中与白蛋白结合。在肝脏，胆红素与葡萄糖醛酸结合形成更溶于水的胆红素葡萄糖二醛酸。结合（或直接）胆红素通过胆道排泄到十二指肠，在那里被代谢成尿胆原（其中一些被重吸收并重新分泌到胆汁中），然后变成橙色的尿胆素（大部分在粪便中被消除）。这些胆汁的色素使得粪便呈黄色。
+高胆红素血症由下列一种或多种原因引起：
+胆红素生成增加
+胆红素生成增加
+肝脏摄取或结合减少
+肝脏摄取或结合减少
+胆汁的分泌减少（见黄疸）
+胆汁的分泌减少（见黄疸）
+正常情况下，总胆红素绝大部分是非结合胆红素，值<1.2mg/dL（<20micromol/L）。胆红素的成分分析可以检测结合胆红素（因为它可以被直接检测不需要溶媒，所以又称为直接胆红素）的比例。胆红素的成分分析对于评价新生儿黄疸和评价胆红素升高而其他肝脏检查结果均正常的情况是很有帮助的，后一种情况表明胆红素升高不是由于肝胆系统功能障碍引起。
+高非结合胆红素血症（间接胆红素的比例>85%）反映胆红素生成增加（如溶血）或肝脏摄取或结合胆红素出现缺陷（如Gilbert综合征）。在这种情况下，除非同时伴有肝脏损伤，否则非结合胆红素的增加通常<5倍正常值（<6mg/dL[<100micromol/L]）。
+高结合胆红素血症（直接胆红素的比例>50%）是由于胆汁的生成或者分泌减少（胆汁淤积）所致。当同时出现其他肝脏检查异常时，高血清胆红素提示肝细胞和/或胆道功能障碍。血清胆红素在某种程度上对于肝脏功能障碍缺乏敏感性。然而，在原发性胆汁性胆管炎（也称原发性胆汁性肝硬化）、原发性硬化性胆管炎、酒精性肝炎和急性肝衰竭时出现严重的高胆红素血症提示预后不佳 (1–3) 。
+混合高胆红素血症不能完全归入典型的非偶联或偶联类别，通常表明过程重叠（例如，同时发生的肝细胞损伤和胆红素偶联或排泄受损）。
+胆红素尿反映了尿液中结合胆红素的存在;因为血液水平显着升高，胆红素溢出进入尿液，表明有严重的疾病。非结合胆红素不溶于水，结合于白蛋白，所以不能排泄到尿液。在急性病毒性肝炎或其他肝胆系统疾病，在黄疸出现前，胆红素尿可以在床旁通过商业的尿液检测试纸检测出来。但是，这种尿液检查诊断的准确性有限。 当尿液标本放置时间过长、摄入维生素C或尿液含有硝酸盐（如由于尿路感染）时它可能出现假阴性。同样的，尿胆原升高既无特异性又缺乏敏感性。
+
+【碱性磷酸酶（ALP）】
+这种肝酶水平的升高提示胆汁淤积。 但是这不具有特异性，因为碱性磷酸酶由几种同工酶组成，在肝外有广泛的分布（如在胎盘、小肠、白细胞、肾脏，特别是骨骼）。儿童和青少年的碱性磷酸酶正常值高于成人，这是由于骨生长和骨转换。
+在胆道梗阻发生后1～2天，无论梗阻的部位，碱性磷酸酶水平都将升高到≥4倍正常值。在梗阻解除后数日，碱性磷酸酶的水平仍然是高的，因为它的半衰期大约是7天。
+在许多肝脏疾病碱性磷酸酶水平高达正常值的3倍，这些疾病包括
+慢性胆汁淤积性肝病伴肝炎(即，病毒性肝炎、原发性胆汁性胆管炎、原发性硬化性胆管炎、药物性肝损害）
+慢性胆汁淤积性肝病伴肝炎(即，病毒性肝炎、原发性胆汁性胆管炎、原发性硬化性胆管炎、药物性肝损害）
+占位性病变（如癌症、脓肿）
+占位性病变（如癌症、脓肿）
+浸润性疾病（如淀粉样变性、结节病、结核、转移瘤）
+浸润性疾病（如淀粉样变性、结节病、结核、转移瘤）
+梅毒性肝炎（与其他肝脏检查指标轻微变化相比，碱性磷酸酶不成比例地升高）
+梅毒性肝炎（与其他肝脏检查指标轻微变化相比，碱性磷酸酶不成比例地升高）
+肝移植后排斥反应
+肝移植后排斥反应
+单独碱性磷酸酶升高（如其他肝脏检查结果正常）可出现于
+局部的肝脏病变（如脓肿、肿瘤）
+局部的肝脏病变（如脓肿、肿瘤）
+部分或间歇性的胆道梗阻（如结石、狭窄、硬化性胆管炎、胆管癌）
+部分或间歇性的胆道梗阻（如结石、狭窄、硬化性胆管炎、胆管癌）
+梅毒性肝炎
+梅毒性肝炎
+浸润性疾病
+浸润性疾病
+慢性胆汁淤积性肝病(即原发性胆汁性胆管炎、原发性硬化性胆管炎、药物性肝损伤等)
+慢性胆汁淤积性肝病(即原发性胆汁性胆管炎、原发性硬化性胆管炎、药物性肝损伤等)
+肝移植后排斥反应
+肝移植后排斥反应
+单独碱性磷酸酶的升高也见于不存在任何明显的肝脏或胆道疾病的情况，这些情况包括：
+一些不涉及肝脏的癌症（如支气管癌、霍奇金淋巴瘤、肾细胞癌）
+一些不涉及肝脏的癌症（如支气管癌、霍奇金淋巴瘤、肾细胞癌）
+脂肪餐后（碱性磷酸酶来自小肠）
+脂肪餐后（碱性磷酸酶来自小肠）
+妊娠（碱性磷酸酶来自胎盘）
+妊娠（碱性磷酸酶来自胎盘）
+发育中的儿童和青少年（由于骨骼生长）
+发育中的儿童和青少年（由于骨骼生长）
+慢性肾衰竭（碱性磷酸酶来自肠道和骨骼）
+慢性肾衰竭（碱性磷酸酶来自肠道和骨骼）
+充血性肝病（导致肝窦压力增加和胆汁流动受损）
+充血性肝病（导致肝窦压力增加和胆汁流动受损）
+因为碱性磷酸酶的分类在技术上是困难的，所以与碱性磷酸酶的分类相比，对肝脏更有特异性的gamma-谷氨酰转肽酶或5′-核苷酸酶水平的升高能够更好地区分肝脏来源和肝外来源的碱性磷酸酶。在其他无症状的老年人中，碱性磷酸酶的增加通常起源于骨（例如，在Paget病中），可能不需要进一步调查肝损伤。同样，由于骨骼生长，儿童和青少年的碱性磷酸酶正常值高于成人。
+
+【gamma‑谷氨酰转肽酶（GGT）】
+在肝胆疾病，特别是胆汁淤积时，GGT水平升高，并且与碱性磷酸酶和5′-核苷酸酶水平弱相关。GGT对胆汁淤积肝源性的敏感性高于碱性磷酸酶，在面对升高的筛查碱性磷酸酶时可用作确认试验(4)。然而，单独使用它对胆汁淤积性肝病没有特异性。在碱性磷酸酶正常的情况下，GGT升高可见于酒精相关性肝炎。GGT的水平在骨骼病变、儿童期或妊娠时都不升高。然而饮酒和某些药物（如某些抗惊厥药物、华法林）草药和食物能诱导肝脏的微粒体（细胞色素P-450）酶，从而显著升高GGT，这样在一定程度上限制了它的特异性。
+
+【5′-核苷酸酶】
+5'-核苷酸酶水平升高对检测胆汁淤积和胆管梗阻的敏感性与碱性磷酸酶相似，但它更具特异性，几乎都提示肝胆疾病。因为血清碱性磷酸酶和5′-核苷酸酶水平并不一直相关，所以可能表现为一种升高而另一种正常。5'核苷酸酶在临床中应用不广泛。
+
+【胆汁淤积检测参考】
+1.Bowlus CL, Arrivé L, Bergquist A, et al.AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma.Hepatology.2023;77(2):659-702.doi:10.1002/hep.32771
+1.Bowlus CL, Arrivé L, Bergquist A, et al.AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma.Hepatology.2023;77(2):659-702.doi:10.1002/hep.32771
+2.Qiao L, Tan W, Wang X, et al.Different Effects of Total Bilirubin on 90-Day Mortality in Hospitalized Patients With Cirrhosis and Advanced Fibrosis: A Quantitative Analysis.Front Med (Lausanne).2021;8:704452.Published 2021 Jun 23.doi:10.3389/fmed.2021.704452
+2.Qiao L, Tan W, Wang X, et al.Different Effects of Total Bilirubin on 90-Day Mortality in Hospitalized Patients With Cirrhosis and Advanced Fibrosis: A Quantitative Analysis.Front Med (Lausanne).2021;8:704452.Published 2021 Jun 23.doi:10.3389/fmed.2021.704452
+3.Shingina A, Mukhtar N, Wakim-Fleming J, et al.Acute Liver Failure Guidelines.Am J Gastroenterol.2023;118(7):1128-1153.doi:10.14309/ajg.0000000000002340
+3.Shingina A, Mukhtar N, Wakim-Fleming J, et al.Acute Liver Failure Guidelines.Am J Gastroenterol.2023;118(7):1128-1153.doi:10.14309/ajg.0000000000002340
+4.Kwo PY, Cohen SM, Lim JK.ACG Clinical Guideline: Evaluation of Abnormal Liver Chemistries.Am J Gastroenterol.2017;112(1):18-35.doi:10.1038/ajg.2016.517
+4.Kwo PY, Cohen SM, Lim JK.ACG Clinical Guideline: Evaluation of Abnormal Liver Chemistries.Am J Gastroenterol.2017;112(1):18-35.doi:10.1038/ajg.2016.517
+
+【肝脏合成功能的检查】
+
+【凝血酶原时间（PT）和国际标准化比值 (INR)】
+PT可表示为时间（秒），或更恰当地表示为患者被检测的PT值与实验室参考值的比值（INR—见检验）。在监测抗凝的疗效方面，INR比PT更精确。PT或INR是检测肝脏合成纤维蛋白原和维生素K依赖的凝血因子（包括因子Ⅱ[凝血酶原]、Ⅴ、II、IⅩ、X）能力的有效指标。 由于其中的一些凝血因子的生物半衰期短（例如，凝血因子Ⅶ的半衰期为6小时），所以当这些因子缺乏时PT和INR很快出现变化。PT和INR异常提示严重的肝细胞功能障碍，是急性肝病预后不佳的征兆 (1)。在慢性肝病中，PT或INR升高提示疾病进展为肝衰竭。在轻度肝细胞功能障碍时，PT或INR不升高，在代偿性肝硬化时也常是正常。
+PT延长和INR异常也可由凝血功能障碍引起，如消耗性凝血功能障碍或维生素K缺乏。脂肪吸收不良，包括胆汁淤积，可引起维生素K缺乏。在慢性胆汁淤积时，如果维生素K替代治疗（10毫克皮下注射或静脉注射）能在24小时内使凝血酶原时间（PT）改善≥30%，则可排除明显的肝细胞功能障碍（2）。
+
+【血清蛋白】
+肝细胞合成绝大部分血清蛋白，包括α-和β-球蛋白、白蛋白、大部分凝血因子（除外血管内皮细胞产生的Ⅷ因子，或B淋巴细胞产生的γ-球蛋白）。肝细胞也合成一些对特殊疾病有诊断意义的蛋白：
+alpha-1抗胰蛋白酶（在alpha-1抗胰蛋白酶缺乏症时缺乏或下降)
+alpha-1抗胰蛋白酶（在alpha-1抗胰蛋白酶缺乏症时缺乏或下降)
+血浆铜蓝蛋白（在肝豆状核变性中该蛋白水平降低）
+血浆铜蓝蛋白（在肝豆状核变性中该蛋白水平降低）
+转铁蛋白（血色病时该蛋白被铁饱和）
+转铁蛋白（血色病时该蛋白被铁饱和）
+铁蛋白（血色病和酒精相关性肝病时该蛋白明显升高）
+铁蛋白（血色病和酒精相关性肝病时该蛋白明显升高）
+这些蛋白通常在对炎症或各种组织损伤的反应中增加，因此升高可能不是肝脏疾病的特异性反映。相反，肝硬化患者血清中这些蛋白质的水平可能会降低。
+血清白蛋白的下降在慢性肝病中是常见的，这是因为分布的容量增加（如由于腹水），或肝脏合成功能下降，或两者皆有。血清白蛋白的值<3g/dL（<30g/L）提示合成减少，可由下列任何一种情况引起：
+失代偿期肝硬化（最常见的原因）
+失代偿期肝硬化（最常见的原因）
+酒精相关性肝病
+酒精相关性肝病
+慢性炎症
+慢性炎症
+蛋白质营养不良
+蛋白质营养不良
+低白蛋白血症也可能由于白蛋白从肾脏（例如肾病综合征）、消化道（例如由于蛋白丢失性胃肠病）或皮肤（例如烧伤或剥脱性皮炎）大量丢失所致。
+因为白蛋白半衰期约为 20 天，血清白蛋白水平通常需要数周时间才能增加或减少，但在危重疾病中变化可能很快。
+
+【肝脏合成功能检测参考】
+1.Koch DG, Speiser JL, Durkalski V, et al.The Natural History of Severe Acute Liver Injury.Am J Gastroenterol.2017;112(9):1389-1396.doi:10.1038/ajg.2017.98
+1.Koch DG, Speiser JL, Durkalski V, et al.The Natural History of Severe Acute Liver Injury.Am J Gastroenterol.2017;112(9):1389-1396.doi:10.1038/ajg.2017.98
+2.Raj G, Kumar R, McKinney WP.Time course of reversal of anticoagulant effect of warfarin by intravenous and subcutaneous phytonadione.Arch Intern Med.1999;159(22):2721-2724.doi:10.1001/archinte.159.22.2721
+2.Raj G, Kumar R, McKinney WP.Time course of reversal of anticoagulant effect of warfarin by intravenous and subcutaneous phytonadione.Arch Intern Med.1999;159(22):2721-2724.doi:10.1001/archinte.159.22.2721
+
+【其他实验室检查】
+进入结肠的含氮复合物（如摄食的蛋白，分泌的尿素）被结肠内细菌降解，释放出氨。氨随后被重吸收并经门静脉转运到肝脏。健康的肝脏很容易从门静脉中清除氨并将其转化为谷氨酰胺，谷氨酰胺被肾脏代谢为排泄的尿素。
+在急性肝衰竭中，动脉血氨水平升高是由于严重的急性肝细胞功能障碍和/或坏死所致，而非门体系统分流所致 。急性肝功能衰竭时氨水平升高可导致严重的脑水肿，急性肝功能衰竭时持续的高氨血症预示并发症和死亡的风险增加(1, 2)。
+虽然不是直接由门静脉系统分流引起的，但肝性脑病可发生氨水平升高。然而，这一水平在诊断或监测治疗反应方面用处有限，因为在慢性肝病中，氨水平升高的程度与肝性脑病的严重程度相关性较差(3, 4)。
+在进展性肝病中，下列情况可能升高氨的水平：
+高蛋白饮食
+高蛋白饮食
+胃肠道出血
+胃肠道出血
+低钾血症
+低钾血症
+代谢性碱中毒
+代谢性碱中毒
+某些药物（如酒精、巴比妥类、利尿剂、阿片类、丙戊酸盐）
+某些药物（如酒精、巴比妥类、利尿剂、阿片类、丙戊酸盐）
+大剂量的化疗
+大剂量的化疗
+肠外营养
+肠外营养
+肾功能不全
+肾功能不全
+肌肉用力过度和肌肉消耗过度
+肌肉用力过度和肌肉消耗过度
+水杨酸盐（salicylate）的毒性
+水杨酸盐（salicylate）的毒性
+输尿管乙状结肠吻合术
+输尿管乙状结肠吻合术
+尿路感染尿素酶产生生物（如奇异变形杆菌）
+尿路感染尿素酶产生生物（如奇异变形杆菌）
+
+【血清免疫球蛋白】
+血清免疫球蛋白在慢性肝病时往往会升高。然而血清免疫球蛋白升高没有特异性，可能没有临床意义。血清免疫球蛋白浓度一般在急性肝炎时轻度升高，在慢性活动性肝炎时中度升高，而在自身免疫性肝炎时则明显升高。尽管在不同疾病中常有不同的免疫球蛋白明显升高，但是升高的免疫球蛋白的类型没有太大的意义：
+IgM在原发性胆汁性胆管炎的作用（也称为原发性胆汁性肝硬化）
+IgM在原发性胆汁性胆管炎的作用（也称为原发性胆汁性肝硬化）
+在酒精性肝病中IgA明显升高
+在酒精性肝病中IgA明显升高
+自身免疫性肝炎和病毒性肝炎的IgG
+自身免疫性肝炎和病毒性肝炎的IgG
+
+【抗线粒体抗体】
+>90%的原发性胆汁性胆管炎患者该类抗体阳性，而且往往是呈高滴度 (5) 。该类抗体偶尔也出现于下列情况：
+自身免疫性肝炎
+自身免疫性肝炎
+药物诱导的肝炎
+药物诱导的肝炎
+其他自身免疫疾病，例如结缔组织疾病、重症肌无力、自身免疫性甲状腺炎、Addison病和自身免疫性溶血性贫血
+其他自身免疫疾病，例如结缔组织疾病、重症肌无力、自身免疫性甲状腺炎、Addison病和自身免疫性溶血性贫血
+抗线粒体抗体可帮助识别胆汁淤积的原因，因为在肝外胆道梗阻和原发性硬化性胆管炎中抗线粒体抗体往往为阴性。
+
+【其他抗体】
+其他抗体可帮助诊断下列疾病：
+自身免疫性肝炎：平滑肌肌动蛋白抗体、呈现均匀（弥漫）荧光的抗核抗体（antinuclear antibody, ANA）和Ⅰ型肝/肾微粒体抗体（antibodies to liver-kidney microsome type 1, anti-LKM1）常为阳性。
+自身免疫性肝炎：平滑肌肌动蛋白抗体、呈现均匀（弥漫）荧光的抗核抗体（antinuclear antibody, ANA）和Ⅰ型肝/肾微粒体抗体（antibodies to liver-kidney microsome type 1, anti-LKM1）常为阳性。
+原发性胆汁性胆管炎：抗线粒体抗体是诊断的关键。抗gp210和抗sp100有时也可呈阳性。
+原发性胆汁性胆管炎：抗线粒体抗体是诊断的关键。抗gp210和抗sp100有时也可呈阳性。
+原发性硬化性胆管炎：核周抗中性粒细胞胞浆抗体（perinuclear antineutrophil cytoplasmic antibody, p-ANCA）可帮助提示该疾病。
+原发性硬化性胆管炎：核周抗中性粒细胞胞浆抗体（perinuclear antineutrophil cytoplasmic antibody, p-ANCA）可帮助提示该疾病。
+IgG4胆管病：免疫球蛋白G4通常升高。
+IgG4胆管病：免疫球蛋白G4通常升高。
+这些抗体中任何一种单独异常并不具有诊断意义，也不能解释发病机制。
+
+【甲胎蛋白（AFP）】
+AFP是一种糖蛋白，通常由胚胎期的卵黄囊和随后的胎肝合成，所以在新生儿和孕妇中AFP会升高。在出生后的第一年，AFP水平迅速下降，在一周岁时降至成人水平（正常情况下，<10～20ng/mL或<10～20mg/L，这取决于实验室的检测）。
+AFP升高，无论升高多少，应该考虑原发性肝细胞性肝癌（HCC的可能。一般情况下，血清AFP与肿瘤的大小、分化和转移相关。 因为小的肿瘤可能产生低水平的AFP，所以AFP值持续升高提示可能存在HCC，尤其是肿瘤直径>3cm时。AFP也帮助预测预后情况。
+急性和慢性肝炎也会出现轻微的AFP升高，可能反映肝脏的再生；在急性（暴发性）肝衰竭中，AFP偶可升高至500 ng/mL（500 mcg/L）。 少数其他疾病（如胚胎畸胎瘤，儿童肝母细胞瘤，胃肠癌肝转移，某些胆管癌等）也可出现高AFP水平，但这些情况并不常见，并且通常可根据临床和组织病理学特征鉴别。
+在HCC患者中AFP检测的敏感性、特异性和峰值水平常根据人群的不同而变化，这反映影响因素如肝炎的患病情况和种族等的差异。在肝炎流行率相对较低的地区（如北美、西欧），AFP的临界值为20 ng/mL至100 ng/mL (20 mcg/L至100 mcg/L)，敏感性为61%，特异性为86%（6）。然而，所有肝细胞癌中仅约60%至70%会产生甲胎蛋白。因此，AFP不是一个理想的筛查指标，但是它对于识别HCC有一定的作用，并可用于监测对治疗的反应。AFP的水平超过正常值（>20ng/mL[20 mcg/L]），特别是当AFP水平持续升高时，高度提示HCC。 当肝硬化患者出现肝脏肿块伴高AFP值（如>200ng/mL[200 mcg/L]），需要高度怀疑HCC。目前联合AFP和超声检查通常能提供足够的筛查。
+
+【肝纤维化检查】
+肝纤维化的程度可以通过多种非侵入性血液测试来评估。这些包括基于常见实验室结果的检测，如AST、ALT和血小板，例如APRI、FIB4和代谢功能障碍相关脂肪性肝病纤维化评分，以及专有评分，如FibroTest（在美国称为FibroSure），包含多个参数，和增强肝纤维化评分（ELF），包含细胞外基质成分。这些血液检测可以区分无纤维化患者和晚期纤维化患者，但在很大程度上无法区分纤维化的分期 (7) 。这些血液检测组合通常与超声弹性成像或振动控制瞬时弹性成像联合使用以评估肝纤维化，特别是对于慢性丙型肝炎和代谢相关脂肪性肝病（MASLD）患者。
+
+【其他实验室测试参考】
+1.Kumar R, Shalimar, Sharma H, et al.Persistent hyperammonemia is associated with complications and poor outcomes in patients with acute liver failure.Clin Gastroenterol Hepatol.2012;10(8):925-931.doi:10.1016/j.cgh.2012.04.011
+1.Kumar R, Shalimar, Sharma H, et al.Persistent hyperammonemia is associated with complications and poor outcomes in patients with acute liver failure.Clin Gastroenterol Hepatol.2012;10(8):925-931.doi:10.1016/j.cgh.2012.04.011
+2.Cardoso FS, Kim M, Pereira R, et al.Early serum ammonia variation in critically ill patients with cirrhosis: A multicentre cohort study.Aliment Pharmacol Ther.2023;58(7):715-724.doi:10.1111/apt.17650
+2.Cardoso FS, Kim M, Pereira R, et al.Early serum ammonia variation in critically ill patients with cirrhosis: A multicentre cohort study.Aliment Pharmacol Ther.2023;58(7):715-724.doi:10.1111/apt.17650
+3.Haj M, Rockey DC.Ammonia Levels Do Not Guide Clinical Management of Patients With Hepatic Encephalopathy Caused by Cirrhosis.Am J Gastroenterol.2020;115(5):723-728.doi:10.14309/ajg.0000000000000343
+3.Haj M, Rockey DC.Ammonia Levels Do Not Guide Clinical Management of Patients With Hepatic Encephalopathy Caused by Cirrhosis.Am J Gastroenterol.2020;115(5):723-728.doi:10.14309/ajg.0000000000000343
+4.Vilstrup H, Amodio P, Bajaj J, et al.Hepatic encephalopathy in chronic liver disease: 2014 Practice Guideline by the American Association for the Study of Liver Diseases and the European Association for the Study of the Liver.Hepatology.2014;60(2):715-735.doi:10.1002/hep.27210
+4.Vilstrup H, Amodio P, Bajaj J, et al.Hepatic encephalopathy in chronic liver disease: 2014 Practice Guideline by the American Association for the Study of Liver Diseases and the European Association for the Study of the Liver.Hepatology.2014;60(2):715-735.doi:10.1002/hep.27210
+5.Xu Q, Zhu W, Yin Y.Diagnostic value of anti-mitochondrial antibody in patients with primary biliary cholangitis: A systemic review and meta-analysis.Medicine (Baltimore).2023;102(45):e36039.doi:10.1097/MD.0000000000036039
+5.Xu Q, Zhu W, Yin Y.Diagnostic value of anti-mitochondrial antibody in patients with primary biliary cholangitis: A systemic review and meta-analysis.Medicine (Baltimore).2023;102(45):e36039.doi:10.1097/MD.0000000000036039
+6.Zhang J, Chen G, Zhang P, et al: The threshold of alpha-fetoprotein (AFP) for the diagnosis of hepatocellular carcinoma: A systematic review and meta-analysis. PLoS One15(2):e0228857, 2020. doi: 10.1371/journal.pone.0228857
+6.Zhang J, Chen G, Zhang P, et al: The threshold of alpha-fetoprotein (AFP) for the diagnosis of hepatocellular carcinoma: A systematic review and meta-analysis. PLoS One15(2):e0228857, 2020. doi: 10.1371/journal.pone.0228857
+7.Sterling RK, Patel K, Duarte-Rojo A, et al.AASLD Practice Guideline on blood-based noninvasive liver disease assessment of hepatic fibrosis and steatosis.Hepatology.2025;81(1):321-357.doi:10.1097/HEP.0000000000000845
+7.Sterling RK, Patel K, Duarte-Rojo A, et al.AASLD Practice Guideline on blood-based noninvasive liver disease assessment of hepatic fibrosis and steatosis.Hepatology.2025;81(1):321-357.doi:10.1097/HEP.0000000000000845

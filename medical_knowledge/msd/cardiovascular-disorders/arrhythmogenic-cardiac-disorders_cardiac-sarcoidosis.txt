@@ -1,0 +1,110 @@
+标题：心脏结节病
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/cardiac-sarcoidosis
+============================================================
+
+(参见致心律失常性心肌病概述和心律失常概述。)
+系统性结节病在手册的其他地方进行了概述。本专题重点关注结节病对心脏的影响。
+结节病的炎症过程会导致任何组织中形成非无菌肉芽肿和纤维化。在临床表现明显的心脏结节病患者中，传导系统和/或心肌通常受到影响，但也可能出现瓣膜、乳头肌和心包受累。几乎所有的心脏结节病患者都有其他器官（通常是肺部）受累，但心脏结节病可能很少单独发生。大约25%的系统性结节病患者有可通过影像技术识别的心脏受累，但其中只有约20%（占所有结节病患者的5%）出现症状（1）。系统性结节病的发病率存在明显的地区差异，北欧或非洲裔患者，尤其是非裔美国女性的发病率较高。尽管如此，在患有系统性结节病的患者中，男性更容易出现心脏结节病，并且在北美的研究中，心脏结节病没有明显的种族差异（2）。
+由于心脏结节病常累及室间隔，许多患者会出现房室 (AV) 传导阻滞。传导系统的受累可能导致一度、二度或三度房室传导阻滞、左前或左后半传导阻滞以及左或右束支传导阻滞。窦房结动脉的受累可能导致窦房结功能障碍的缓慢性心律失常。
+心肌受累可能会产生快速性心律失常，主要是室性心动过速（VT），但也可能发生房性心动过速、房扑和心房颤动。
+心肌浸润可能导致孤立左心室、孤立右心室、双心室、扩张或限制性心肌病。心包受累可能导致心包积液或引起限制性生理改变。多因素肺动脉高压也很常见。
+
+【参考文献】
+1.Birnie D, Ha AC, Gula LJ, et al:Cardiac Sarcoidosis.Clin Chest Med2015;36(4):657-668.doi:10.1016/j.ccm.2015.08.008
+1.Birnie D, Ha AC, Gula LJ, et al:Cardiac Sarcoidosis.Clin Chest Med2015;36(4):657-668.doi:10.1016/j.ccm.2015.08.008
+2.Duvall C, Pavlovic N, Rosen NS, et al: Sex and Race Differences in Cardiac Sarcoidosis Presentation, Treatment and Outcomes.J Card Fail29(8):1135–1145, 2023.doi:10.1016/j.cardfail.2023.03.022
+2.Duvall C, Pavlovic N, Rosen NS, et al: Sex and Race Differences in Cardiac Sarcoidosis Presentation, Treatment and Outcomes.J Card Fail29(8):1135–1145, 2023.doi:10.1016/j.cardfail.2023.03.022
+
+【心脏结节病的症状和体征】
+大多数心脏结节病患者没有症状，但伴随的心动过缓和快速性心律失常可能会导致心悸、晕厥，有时还会导致心脏骤停或猝死。
+系统性结节病导致的死亡中，相当一部分是心源性猝死，包括许多此前无心脏受累迹象的患者。
+心肌病可引起任何心力衰竭症状，包括劳力性呼吸困难、疲劳和周围水肿。
+在大多数患者中，疾病出现在 25 至 60 岁之间。
+
+【心脏结节病的诊断】
+临床怀疑
+临床怀疑
+心电图、超声心动图，以及必要时行延迟钆增强心脏磁共振和/或氟代脱氧葡萄糖（FDG）-正电子发射断层成像检查（PET）
+心电图、超声心动图，以及必要时行延迟钆增强心脏磁共振和/或氟代脱氧葡萄糖（FDG）-正电子发射断层成像检查（PET）
+系统性结节病影响的非心脏组织活检
+系统性结节病影响的非心脏组织活检
+罕见情况下进行心脏活检
+罕见情况下进行心脏活检
+约 35% 的心脏结节病患者在就诊时已知患有系统性结节病或有心脏外结节病的临床证据（1）。患有已知结节病且无心脏症状的患者通常应定期进行心电图和超声心动图检查，以筛查心脏受累。如果出现心脏症状、体征或测试异常，还应使用钆进行心脏MRI检查 。如果症状表明心律或传导紊乱，应进行动态心电图监测。FDG-PET扫描可提供有关活动性炎症的额外信息，通常也会进行此检查。
+在尚未诊断为系统性结节病的病人中，孤立性心脏结节病的诊断通常很困难。患有心脏传导阻滞、室性快速性心律失常和/或心力衰竭且无明显病因的年轻患者应怀疑患有心脏结节病。所有此类患者都应进行心电图和超声心动图检查。患有不明原因心肌病的患者也应进行心脏核磁共振检查。
+当这些检查结果提示心脏结节病或高度怀疑时（如不明原因房室传导阻滞的年轻患者），需进一步检查心脏结节病（动态心电图监测、FDG-PET扫描）和心外结节病（胸部X线、胸部CT、全身FDG-PET扫描）。广泛研究发现，80%以上的明显孤立性心脏结节病患者也患有心外结节病。
+国际共识文件（2）指出，心脏结节病的诊断需满足：心脏活检显示无非其他原因可解释的非干酪样肉芽肿，或心外组织活检显示无非其他原因可解释的非干酪样肉芽肿，并加上以下≥1项（且无其他解释）：
+皮质类固醇反应性心肌病或心脏传导阻滞
+皮质类固醇反应性心肌病或心脏传导阻滞
+不明原因的左心室射血分数降低<40%
+不明原因的左心室射血分数降低<40%
+不明原因的自发性或诱发性室性心动过速
+不明原因的自发性或诱发性室性心动过速
+莫氏II型二度房室传导阻滞或三度房室传导阻滞
+莫氏II型二度房室传导阻滞或三度房室传导阻滞
+心脏 PET 扫描显示片状摄取
+心脏 PET 扫描显示片状摄取
+心脏 MRI 显示晚期钆增强
+心脏 MRI 显示晚期钆增强
+核扫描显示镓摄取阳性
+核扫描显示镓摄取阳性
+最常见的是，在非侵入性检查中发现有提示性的心脏异常，并结合非心脏组织活检进行诊断。心脏活检敏感性低，因为疾病过程是斑片状的，病理组织可能无法被采样到。然而，如果心脏活检是由先进的心脏成像技术引导或针对低电压区域进行定位，其敏感性会有所提高。
+世界结节病和其他肉芽肿性疾病协会（WASOG）（3）和日本循环学会（JCS）（4）发布了类似但不完全相同的诊断标准。
+
+【诊断参考】
+1.Kandolin R, Lehtonen J, Airaksinen J, et al: Cardiac sarcoidosis: epidemiology, characteristics, and outcome over 25 years in a nationwide study.Circulation131(7):624–632, 2015.doi: 10.1161/CIRCULATIONAHA.114.011522
+1.Kandolin R, Lehtonen J, Airaksinen J, et al: Cardiac sarcoidosis: epidemiology, characteristics, and outcome over 25 years in a nationwide study.Circulation131(7):624–632, 2015.doi: 10.1161/CIRCULATIONAHA.114.011522
+2.Birnie DH, Sauer WH, Gogun F, et al: HRS Expert Consensus Statement on the Diagnosis and Management of Arrhythmias Associated with Cardiac Sarcoidosis.Heart Rhythm11:1304–1323, 2014.doi: 10.1016/j.hrthm.2014.03.043
+2.Birnie DH, Sauer WH, Gogun F, et al: HRS Expert Consensus Statement on the Diagnosis and Management of Arrhythmias Associated with Cardiac Sarcoidosis.Heart Rhythm11:1304–1323, 2014.doi: 10.1016/j.hrthm.2014.03.043
+3.Judson MA, Costabel U, Drent M, et al: The WASOG sarcoidosis organ assessment instrument: An update of a previous clinical tool.Sarcoidosis Vasc Diffuse Lung Dis31:19‒27, 2014.
+3.Judson MA, Costabel U, Drent M, et al: The WASOG sarcoidosis organ assessment instrument: An update of a previous clinical tool.Sarcoidosis Vasc Diffuse Lung Dis31:19‒27, 2014.
+4.Terasaki F, Azuma A, Anzai T, et al: JCS 2016 guideline on diagnosis and treatment of cardiac sarcoidosis‒digest version.Circ J83:2329‒2388, 2019.doi 10.1253/circj.CJ-19-0508
+4.Terasaki F, Azuma A, Anzai T, et al: JCS 2016 guideline on diagnosis and treatment of cardiac sarcoidosis‒digest version.Circ J83:2329‒2388, 2019.doi 10.1253/circj.CJ-19-0508
+
+【心脏结节病的治疗】
+皮质类固醇
+皮质类固醇
+有时使用其他免疫抑制药物
+有时使用其他免疫抑制药物
+有时需要永久性起搏器和/或植入式心律转复除颤器（ICD）
+有时需要永久性起搏器和/或植入式心律转复除颤器（ICD）
+有时使用抗心律失常药物（避免使用I类药物）
+有时使用抗心律失常药物（避免使用I类药物）
+有时进行经导管消融术
+有时进行经导管消融术
+根据需要进行心力衰竭治疗（包括移植）
+根据需要进行心力衰竭治疗（包括移植）
+采用结节病的标准治疗，包括皮质类固醇，有时使用其他免疫抑制剂（如甲氨蝶呤）。对于难治性病例，可以使用肿瘤坏死因子α抑制剂。这些方式通常也能改善心脏异常，并应进行优化 (1) 。
+心脏治疗的重点是心律失常的治疗和预防。治疗心动过缓或心动过速的建议遵循治疗其他致心律失常性心肌病的建议。具体来说，对于心脏结节病，建议使用起搏器（推荐 IIa 类）来治疗房室传导阻滞，即使房室传导阻滞可自行逆转（2）。
+何时需要植入永久性起搏器（见表格永久起搏器的适应症），优先考虑使用ICD（IIa类建议）。心律学会心脏结节病共识文件建议对既往有持续性室性心动过速、心脏骤停复苏后或尽管采取了最佳药物治疗（包括对有活动性炎症的患者进行一段时间的免疫抑制治疗）但左心室射血分数仍≤35%的患者植入植入型心律转复除颤器（均为I类建议）（2）（见表植入型心律转复除颤器的适应症）。心律学会心脏结节病共识文件还建议，对于患有不明原因晕厥或近乎晕厥且病因被认为是心律失常的心脏结节病患者，以及在程序刺激电生理检查中可诱发持续性室性心动过速/室颤的患者（均为 IIa 类建议），ICD 是有用的（IIa 类建议）（2）。该文件进一步建议，对于左心室射血分数在 35% 至 49% 范围内和/或右心室射血分数<40%的心脏结节病患者，尽管对心力衰竭患者采取了最佳药物治疗，并且对有活动性炎症的患者使用了免疫抑制剂，仍可考虑植入植入型心律转复除颤器（IIb类建议）（2）。日本循环学会（3）、美国心脏协会/美国心脏病学会/心律学会（4）和欧洲心脏病学会（5）提出了类似但不完全相同的植入型心律转复除颤器治疗建议。由于心脏核磁共振上的心室延迟钆增强 (LGE)（心室瘢痕的标志）可预测危及生命的室性心律失常，因此建议对左室射血分数> 35% 但仍存在显著心室延迟钆增强 的患者植入植入型心律转复除颤器（IIa 类建议）（4，5）。
+必要时可给予胺碘酮和索他洛尔等抗心律失常药物，以控制经常复发的室性心动过速和/或其他快速性心律失常。如果药物（和适当的抗炎治疗）不能控制室性心动过速，可以进行电生理研究来确定心律失常的起源（通常是折返性部位），然后可以使用经导管消融。
+心力衰竭治疗通常包括β受体阻滞剂（注意AV传导恶化的可能性）、血管紧张素转换酶抑制剂或血管紧张素II受体阻滞剂和盐皮质激素受体拮抗剂。对于扩张型心肌病的药物治疗，包括血管紧张素受体脑啡肽酶抑制剂和钠-葡萄糖协同转运蛋白2抑制剂，在心脏结节病患者中的研究较少。在患有结节病相关扩张型心肌病的患者中，左束支传导阻滞的频繁出现使得心脏再同步化治疗具有吸引力。可以考虑进行心脏移植。
+
+【治疗参考文献】
+1.Ribeiro Neto ML, Jellis CL, Cremer PC, et al: Cardiac Sarcoidosis.Clin Chest Med45(1):105–118, 2024.doi: 10.1016/j.ccm.2023.08.006.
+1.Ribeiro Neto ML, Jellis CL, Cremer PC, et al: Cardiac Sarcoidosis.Clin Chest Med45(1):105–118, 2024.doi: 10.1016/j.ccm.2023.08.006.
+2.Birnie DH, Sauer WH, Gogun F, et al: HRS Expert Consensus Statement on the Diagnosis and Management of Arrhythmias Associated with Cardiac Sarcoidosis.Heart Rhythm11:1304–1323, 2014.doi: 10.1016/j.hrthm.2014.03.043
+2.Birnie DH, Sauer WH, Gogun F, et al: HRS Expert Consensus Statement on the Diagnosis and Management of Arrhythmias Associated with Cardiac Sarcoidosis.Heart Rhythm11:1304–1323, 2014.doi: 10.1016/j.hrthm.2014.03.043
+3.Terasaki F, Azuma A, Anzai T, et al: JCS 2016 guideline on diagnosis and treatment of cardiac sarcoidosis‒digest version.Circ J83:2329‒2388, 2019.doi 10.1253/circj.CJ-19-0508
+3.Terasaki F, Azuma A, Anzai T, et al: JCS 2016 guideline on diagnosis and treatment of cardiac sarcoidosis‒digest version.Circ J83:2329‒2388, 2019.doi 10.1253/circj.CJ-19-0508
+4.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Circulation138(13):e272–e391, 2018.doi: 10.1161/CIR.0000000000000549
+4.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Circulation138(13):e272–e391, 2018.doi: 10.1161/CIR.0000000000000549
+5.Zeppenfeld K, Tfelt-Hansen J, De Riva M, et al: 2022 ESC Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death.Eur Heart J43(40):3997–4126, 2022.doi.org/10.1093/eurheartj/ehac262
+5.Zeppenfeld K, Tfelt-Hansen J, De Riva M, et al: 2022 ESC Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death.Eur Heart J43(40):3997–4126, 2022.doi.org/10.1093/eurheartj/ehac262
+大约25%的系统性结节病患者有心脏受累，但只有大约5%的患者有心脏症状。
+大约25%的系统性结节病患者有心脏受累，但只有大约5%的患者有心脏症状。
+心脏受累导致结节病患者死亡率不成比例地增加。
+心脏受累导致结节病患者死亡率不成比例地增加。
+诊断需要结合临床、心电图和影像学检查结果；心脏活检可作为确诊手段，但通常不会进行。
+诊断需要结合临床、心电图和影像学检查结果；心脏活检可作为确诊手段，但通常不会进行。
+心脏表现通常需要起搏器/植入式心律转复除颤器 (ICD)，有时还需要抗心律失常药物。
+心脏表现通常需要起搏器/植入式心律转复除颤器 (ICD)，有时还需要抗心律失常药物。
+结节病本身用皮质类固醇治疗，有时用免疫抑制剂治疗。
+结节病本身用皮质类固醇治疗，有时用免疫抑制剂治疗。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Malhi JK, Ibecheozor C, Chrispin J, et al: Diagnostic and management strategies in cardiac sarcoidosis.Int J Cardiol403:131853, 2024.doi: 10.1016/j.ijcard.2024.131853
+Malhi JK, Ibecheozor C, Chrispin J, et al: Diagnostic and management strategies in cardiac sarcoidosis.Int J Cardiol403:131853, 2024.doi: 10.1016/j.ijcard.2024.131853
+Ribeiro Neto ML, Jellis CL, Cremer PC, et al: Cardiac Sarcoidosis.Clin Chest Med45(1):105–118, 2024.doi: 10.1016/j.ccm.2023.08.006.
+Ribeiro Neto ML, Jellis CL, Cremer PC, et al: Cardiac Sarcoidosis.Clin Chest Med45(1):105–118, 2024.doi: 10.1016/j.ccm.2023.08.006.

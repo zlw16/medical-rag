@@ -1,0 +1,226 @@
+标题：儿童和青少年自杀行为
+来源：https://www.msdmanuals.cn/professional/pediatrics/psychiatric-disorders-in-children-and-adolescents/suicidal-behavior-in-children-and-adolescents
+============================================================
+
+（参见成人自杀行为。）
+1999年至2019年间，美国印第安人/阿拉斯加原住民、白人、黑人、亚裔/太平洋岛民和西班牙裔青年（15至24岁的男性和女性）的自杀率分别为每10万人中23例、6.1例、4.3例、5.1例和4.4例。在此期间的后期，黑人和亚太岛民青年的比率分别增加了 30% 和 16%（1)。在最近的一份详细介绍美国自杀死亡率上升趋势的报告中（NCHS简报第398号，2021年2月），女性（10至14岁）的自杀死亡率从1999年的0.5%增加到2019年的3.1%；男性（10至14岁）的自杀率从1.9%增加到3.1%。
+多种因素可能导致自杀尝试增加，包括青少年抑郁症发病率上升（尤其女性群体）（2）；父母类阿片药物处方量及物质使用障碍增多（3）；成人自杀率上升使青少年更易接触自杀概念（4）；亲子关系日趋紧张；以及学业压力加重（5, 6）。在新冠疫情高峰期间，12～17 岁青少年的疑似自杀未遂急诊就诊率较以往上升了 22%～39%，且女性的报告率更高（7）。
+许多专家认为抗抑郁药处方率的变化可能是影响因素（参见儿童和青少年的抑郁障碍：自杀风险与抗抑郁药）。一些专家假设，抗抑郁药具有矛盾效应，使儿童和青少年更强烈的表达自杀想法，但却不太可能自杀。尽管青春期前儿童中自杀较少见，但自杀仍是10至24岁人群的第2大死因，以及5至11岁儿童的第9大死因（8）。这仍然是一个相当大的公共卫生问题，尤其是在少数群体中，因为 1993 年至 2012 年间，黑人小学生的自杀率几乎翻了一番（9）。Race and sex continue to impact the rate of suicide.Child suicides increased for Black (95%), White (158%), male (95%), and female (300%) children during 2010 to 2019 (10).
+
+【参考文献】
+1.Rachmand R, Gordon JA, Pearson JL.Trends in suicide rates by race and ethnicity in the United States.JAMA Netw Open.2021:4(5):e2111563.doi: 10.1001/jamanetworkopen.2021.11563
+1.Rachmand R, Gordon JA, Pearson JL.Trends in suicide rates by race and ethnicity in the United States.JAMA Netw Open.2021:4(5):e2111563.doi: 10.1001/jamanetworkopen.2021.11563
+2.Mojtabai R, Olfson M, Han B.National trends in the prevalence and treatment of depression in adolescents and young adults.Pediatrics.138(6):e20161878, 2016.doi: 10.1542/peds.2016-1878
+2.Mojtabai R, Olfson M, Han B.National trends in the prevalence and treatment of depression in adolescents and young adults.Pediatrics.138(6):e20161878, 2016.doi: 10.1542/peds.2016-1878
+3.Brent DA, Hur K, Gibbons RD.Association between parental medical claims for opioid prescriptions and risk of suicide attempt by their children.JAMA Psychiatry.76(9):941-947, 2019.doi: 10.1001/jamapsychiatry.2019.0940
+3.Brent DA, Hur K, Gibbons RD.Association between parental medical claims for opioid prescriptions and risk of suicide attempt by their children.JAMA Psychiatry.76(9):941-947, 2019.doi: 10.1001/jamapsychiatry.2019.0940
+4.Wang J, Sumner SA, Simon TR, et al.Trends in the incidence and lethality of suicidal acts in the United States, 2006 to 2015.JAMA Psychiatry.77(7):684-693, 2020.doi: 10.1001/jamapsychiatry.2020.0596
+4.Wang J, Sumner SA, Simon TR, et al.Trends in the incidence and lethality of suicidal acts in the United States, 2006 to 2015.JAMA Psychiatry.77(7):684-693, 2020.doi: 10.1001/jamapsychiatry.2020.0596
+5.Shain B, Committee on Adolescence.Suicide and suicide attempts in adolescents.Pediatrics.138(1):e20161420, 2016.doi: https://doi.org/10.1542/peds.2016-1420
+5.Shain B, Committee on Adolescence.Suicide and suicide attempts in adolescents.Pediatrics.138(1):e20161420, 2016.doi: https://doi.org/10.1542/peds.2016-1420
+6.Bilsen J.Suicide and youth: Risk factors.Front Psychiatry.9:540, 2018.doi: https://doi.org/10.3389/fpsyt.2018.00540
+6.Bilsen J.Suicide and youth: Risk factors.Front Psychiatry.9:540, 2018.doi: https://doi.org/10.3389/fpsyt.2018.00540
+7.Yard E, Radhakrishnan L, Ballesteros MF, et al.Emergency department visits for suspected suicide attempts among persons aged 12–15 years before and during the COVID-19 pandemic—United States, January 2019–May 2021.MMWR Morbid Mortal Wkly Rep.70; 888-894, 2021.doi: 10.15585/mmwr.mm7024e1
+7.Yard E, Radhakrishnan L, Ballesteros MF, et al.Emergency department visits for suspected suicide attempts among persons aged 12–15 years before and during the COVID-19 pandemic—United States, January 2019–May 2021.MMWR Morbid Mortal Wkly Rep.70; 888-894, 2021.doi: 10.15585/mmwr.mm7024e1
+8.Centers for Disease Control and Prevention.WISQARSTM: Web-based Injury Statistics Query and Reporting Systems.2020.Accessed March 12, 2021.
+8.Centers for Disease Control and Prevention.WISQARSTM: Web-based Injury Statistics Query and Reporting Systems.2020.Accessed March 12, 2021.
+9.Bridge JA, Asti L, Horowitz LM, et al.Suicide trends among elementary school-aged children in the United States from 1993 to 2012.JAMA Pediatr.169(7):673-677, 2015.doi: 10.1001/jamapediatrics.2015.0465
+9.Bridge JA, Asti L, Horowitz LM, et al.Suicide trends among elementary school-aged children in the United States from 1993 to 2012.JAMA Pediatr.169(7):673-677, 2015.doi: 10.1001/jamapediatrics.2015.0465
+10.Price JH, Khubchandani J.Childhood Suicide Trends in the United States, 2010-2019.J Community Health.2022;47(2):232-236.doi:10.1007/s10900-021-01040-w
+10.Price JH, Khubchandani J.Childhood Suicide Trends in the United States, 2010-2019.J Community Health.2022;47(2):232-236.doi:10.1007/s10900-021-01040-w
+
+【自杀行为的病因学】
+在儿童和青少年中，自杀行为的风险受影响其他精神障碍和影响大脑，家族史，心理社会因素和环境因素的其他障碍的影响 (见表儿童和青少年自杀行为的危险因素)。
+
+【儿童和青少年自杀行为的危险因素】
+儿童和青少年自杀行为的危险因素
+影响大脑的精神障碍与一般医学障碍
+情绪障碍*（例如，精神分裂症，抑郁障碍）
+物质使用，尤其是酒精和 THC† 和/或青少年物质使用
+进取性，冲动倾向（行为障碍）
+之前有自杀未遂
+脑外伤 (TBI)
+创伤后应激障碍（PTSD）
+焦虑障碍
+自杀行为家族史
+成人自杀身亡
+父母使用阿片类药物‡
+有情感障碍的的母亲
+有违法记录史的父亲
+与父母沟通不畅
+心理因素
+近期的纪律处分§ （最常见的，停课）
+人际损失（丧失女朋友或男朋友，尤其是男孩；与父母分离）
+上学困难
+社会孤立（尤其是不工作或未上大学）
+欺凌受害者
+媒体报道自杀（模仿自杀）
+认定为LGBTQ+群体（女同性恋、男同性恋、双性恋、跨性别者、酷儿/疑性恋）
+环境因素
+容易获得致命手段（例如，枪支）
+与获得精神卫生服务相关的障碍和/或耻辱
+孟鲁司特a
+加巴喷丁b
+选择性5-羟色胺再摄取抑制剂c, d
+泼尼松d
+苯二氮卓类d（阿普唑仑、地西泮）
+*超过一半的自杀青少年存在情绪障碍。
+†Gobbi G, Atkin T, Zytynski, et al.Association of cannabis use in adolescence and risk of depression, anxiety, and suicidality in young adulthood: A systematic review and meta-analysis.JAMA Psychiatry.76(4):426-434, 2019.doi: 10.1001/jamapsychiatry.2018.4500
+‡Turecki G, Brent DA, Gunnell D, et al.Suicide and suicide risk.Nat Rev Dis Primers.5(1):74, 2019.doi: 10.1038/s41572-019-0121-0
+§近一半的已完成自杀发生在最近的纪律处分之后。
+aBenard B, Bastein V, Vinet B, et al.Neurosychiatric adverse drug reactions in children initiated on montelukast in real-life practice.Eur Respir J.50(2):1700148.doi: 10.1183/13993003.00148-2017
+bMolero Y, Larsson H, D'Onofrio B, et al.Associations between gabapentinoids and suicidal behaviour, unintentional overdoses, injuries, road traffic incidents, and violent crime: Population based cohort study in Sweden.BMJ Clin Res.365:12147, 2019.doi: 10.1136/bmj.l2147
+cGibbons RD, Brown CH, Hur K, et al.Early evidence on the effects of regulators' suicidality warnings on SSRI prescriptions and suicide in children and adolescents.Am J Psychiatry.164(9);1356-1363, 2007.doi: 10.1176/appi.ajp.2007.07030454
+dGibbons R, Hur K, Lavigne J, et al.Medications and suicide: High dimensional empirical Bayes screening (iDeas).Harvard Data Sci Rev.1.2 2019 (revised 2020).doi: 10.1162/99608f92.6fdaa9d
+*超过一半的自杀青少年存在情绪障碍。
+†Gobbi G, Atkin T, Zytynski, et al.Association of cannabis use in adolescence and risk of depression, anxiety, and suicidality in young adulthood: A systematic review and meta-analysis.JAMA Psychiatry.76(4):426-434, 2019.doi: 10.1001/jamapsychiatry.2018.4500
+‡Turecki G, Brent DA, Gunnell D, et al.Suicide and suicide risk.Nat Rev Dis Primers.5(1):74, 2019.doi: 10.1038/s41572-019-0121-0
+§近一半的已完成自杀发生在最近的纪律处分之后。
+aBenard B, Bastein V, Vinet B, et al.Neurosychiatric adverse drug reactions in children initiated on montelukast in real-life practice.Eur Respir J.50(2):1700148.doi: 10.1183/13993003.00148-2017
+bMolero Y, Larsson H, D'Onofrio B, et al.Associations between gabapentinoids and suicidal behaviour, unintentional overdoses, injuries, road traffic incidents, and violent crime: Population based cohort study in Sweden.BMJ Clin Res.365:12147, 2019.doi: 10.1136/bmj.l2147
+cGibbons RD, Brown CH, Hur K, et al.Early evidence on the effects of regulators' suicidality warnings on SSRI prescriptions and suicide in children and adolescents.Am J Psychiatry.164(9);1356-1363, 2007.doi: 10.1176/appi.ajp.2007.07030454
+dGibbons R, Hur K, Lavigne J, et al.Medications and suicide: High dimensional empirical Bayes screening (iDeas).Harvard Data Sci Rev.1.2 2019 (revised 2020).doi: 10.1162/99608f92.6fdaa9d
+其他药物也被报告会增加自杀风险，因此美国食品药品监督管理局要求加注黑框警告。然而，在某些情况下，例如使用抗癫痫药物，在任何特定情况下风险增加的确切原因都很难确定，因为正在治疗的疾病（即癫痫）本身在没有抗癫痫药物的情况下与自杀风险增加 5 倍相关（1）。同样，根据MarketScan在2003年至2014年间对超过1.5亿人收集的私人保险公司的医疗索赔数据，阿奇霉素与自杀风险增加有关 (2)。然而，后续研究发现自杀风险增加可能源于感染所导致的额外风险（3）。利拉鲁肽和伐尼克兰（分别用于治疗肥胖和戒烟）也被发现与自杀风险增加有关；在这两种情况下，增加的风险可能是由处方药所针对的潜在病症引起的。随机试验将是确定这些药物实际风险所必需的。
+其他成因包括
+缺乏结构和界限，导致缺乏方向感
+缺乏结构和界限，导致缺乏方向感
+父母要求孩子取得成功的巨大压力，同时又觉得自己没有达到预期目标
+父母要求孩子取得成功的巨大压力，同时又觉得自己没有达到预期目标
+自杀企图的一个常见动机是试图通过幻想“我死后你会后悔的”来操纵或惩罚他人。
+与减少自杀事件相关的保护性因素包括：
+针对精神障碍、一般躯体疾病及物质使用障碍的有效临床护理
+针对精神障碍、一般躯体疾病及物质使用障碍的有效临床护理
+容易获得临床干预
+容易获得临床干预
+家庭和社区支持（连通性）
+家庭和社区支持（连通性）
+解决冲突的技巧
+解决冲突的技巧
+阻止自杀的文化和宗教信仰
+阻止自杀的文化和宗教信仰
+药物：44 种药物，其中许多是精神药物（包括抗抑郁药、抗精神病药、情绪稳定剂、锂剂、α受体激动剂、抗癫痫药）以及叶酸（2）。
+药物：44 种药物，其中许多是精神药物（包括抗抑郁药、抗精神病药、情绪稳定剂、锂剂、α受体激动剂、抗癫痫药）以及叶酸（2）。
+叶酸的保护作用在 2021 年至 2022 年的其他数据中得到重复验证（4)。因为L-甲基叶酸是一种无需处方即可轻易获得的补充剂，故随机试验难以完成。然而，鉴于现有研究证据（5），可考虑将能够通过血脑屏障的L-甲基叶酸补充作为抑郁症及其他伴有自杀风险疾病治疗的辅助措施。
+
+【病因参考文献】
+1.Hesdorffer DC, Ishihara L, Webb DJ, Mynepalli L, Galwey NW, Hauser WA.Occurrence and Recurrence of Attempted Suicide Among People With Epilepsy.JAMA Psychiatry.2016;73(1):80-86.doi:10.1001/jamapsychiatry.2015.2516
+1.Hesdorffer DC, Ishihara L, Webb DJ, Mynepalli L, Galwey NW, Hauser WA.Occurrence and Recurrence of Attempted Suicide Among People With Epilepsy.JAMA Psychiatry.2016;73(1):80-86.doi:10.1001/jamapsychiatry.2015.2516
+2.Gibbons R, Hur K, Lavigne J, et al.Medications and suicide: High dimensional empirical Bayes screening (iDeas).Harvard Data Sci Rev1.2 2019 (revised 2020).doi: 10.1162/99608f92.6fdaa9de
+2.Gibbons R, Hur K, Lavigne J, et al.Medications and suicide: High dimensional empirical Bayes screening (iDeas).Harvard Data Sci Rev1.2 2019 (revised 2020).doi: 10.1162/99608f92.6fdaa9de
+3.Lund-Sorensen H, Benros ME, Madsen T, et al.A nationwide cohort study of the association between hospitalization with infection and risk of death by suicide.JAMA Psychiatry.73:912-919, 2016.doi: 10.1001/jamapsychiatry.2016.1594
+3.Lund-Sorensen H, Benros ME, Madsen T, et al.A nationwide cohort study of the association between hospitalization with infection and risk of death by suicide.JAMA Psychiatry.73:912-919, 2016.doi: 10.1001/jamapsychiatry.2016.1594
+4.Gibbons RD,  Hur K, Lavigne HE, et al.Association between folic acid prescription fills and suicide attempts and intentional self-harm among privately insured US adults.JAMA Psychiatry.79(11):1118-1123, 2022. doi: 10.1001/jamapsychiatry.2022.2990
+4.Gibbons RD,  Hur K, Lavigne HE, et al.Association between folic acid prescription fills and suicide attempts and intentional self-harm among privately insured US adults.JAMA Psychiatry.79(11):1118-1123, 2022. doi: 10.1001/jamapsychiatry.2022.2990
+5.Liwinski T, Lang UE.Folate and Its Significance in Depressive Disorders and Suicidality: A Comprehensive Narrative Review.Nutrients.2023;15(17):3859.Published 2023 Sep 4.doi:10.3390/nu15173859
+5.Liwinski T, Lang UE.Folate and Its Significance in Depressive Disorders and Suicidality: A Comprehensive Narrative Review.Nutrients.2023;15(17):3859.Published 2023 Sep 4.doi:10.3390/nu15173859
+
+【自杀行为的治疗】
+危机干预，可能包括住院治疗
+危机干预，可能包括住院治疗
+转诊精神科
+转诊精神科
+心理治疗
+心理治疗
+可能的药物治疗潜在疾病，通常与心理治疗相结合。
+可能的药物治疗潜在疾病，通常与心理治疗相结合。
+每一次自杀企图都是严重事件，需要经过深思熟虑且恰当的危机干预（1）。一旦祛除了对生命的即刻威胁就应该决定是否需要住院治疗。这一决定需要在风险程度与家庭提供支持及安全环境的能力之间取得平衡。住院治疗（即使是在有特别护理的开放的医疗或儿科病房）是最可靠的保护措施，通常适用于怀疑有严重抑郁和（或）精神病者。
+自杀意图的致死可以基于以下评估：
+预谋证据的程度（如写自杀留言）
+预谋证据的程度（如写自杀留言）
+采取措施阻止发现
+采取措施阻止发现
+使用的方法（例如，枪支比药片更致命）
+使用的方法（例如，枪支比药片更致命）
+持续自伤的程度
+持续自伤的程度
+围绕自杀尝试的环境因素或突然的促发因素
+围绕自杀尝试的环境因素或突然的促发因素
+发作时的精神状态（急性激动状态尤其需引起警惕）
+发作时的精神状态（急性激动状态尤其需引起警惕）
+最近从住院治疗中出院
+最近从住院治疗中出院
+最近停用精神药物
+最近停用精神药物
+美国预防服务工作组认为，目前缺乏充分证据支持对自杀行为进行普遍筛查；然而，其建议对 12～18 岁青少年进行重度抑郁障碍筛查（2）。抑郁及其他情绪障碍与自杀之间的关联已得到充分证实。因此，针对任何潜在障碍（例如抑郁症、双相情感障碍、品行障碍、精神病性障碍）可能需要药物治疗，但无法预防自杀（参见儿童与青少年抑郁障碍：自杀风险与抗抑郁药物）。药物使用应严格监控，仅可开具并提供亚致死剂量。
+通常需要精神科转诊来提供适当的药物治疗和心理治疗。认知行为治疗自杀预防和辩证行为治疗可能是首选 (3)。如果主治医生继续参与，治疗最为成功。
+重建信心和在家庭内恢复情感平衡极为重要。父母的消极或不支持的反应是一个严重的问题，建议有必要加强干涉如安置在家庭外。如果家庭对此表示爱和关心，则更可获得较好的结局。
+
+【治疗参考文献】
+1.Hua LL, Lee J, Rahmandar MH, Sigel EJ; COMMITTEE ON ADOLESCENCE; COUNCIL ON INJURY, VIOLENCE, AND POISON PREVENTION.Suicide and Suicide Risk in Adolescents.Pediatrics.2024;153(1):e2023064800.doi:10.1542/peds.2023-064800
+1.Hua LL, Lee J, Rahmandar MH, Sigel EJ; COMMITTEE ON ADOLESCENCE; COUNCIL ON INJURY, VIOLENCE, AND POISON PREVENTION.Suicide and Suicide Risk in Adolescents.Pediatrics.2024;153(1):e2023064800.doi:10.1542/peds.2023-064800
+2.US Preventive Services Task Force, Mangione CM, Barry MJ, et al.Screening for Depression and Suicide Risk in Children and Adolescents: US Preventive Services Task Force Recommendation Statement.JAMA.2022;328(15):1534-1542.doi:10.1001/jama.2022.16946
+2.US Preventive Services Task Force, Mangione CM, Barry MJ, et al.Screening for Depression and Suicide Risk in Children and Adolescents: US Preventive Services Task Force Recommendation Statement.JAMA.2022;328(15):1534-1542.doi:10.1001/jama.2022.16946
+3.Asarnow JR, Mehlum L.Practitioner Review: Treatment for suicidal and self-harming adolescents - advances in suicide prevention care [published correction appears inJ Child Psychol Psychiatry. 2019 Dec;60(12):1357. doi: 10.1111/jcpp.13166.].J Child Psychol Psychiatry.2019;60(10):1046-1054.doi:10.1111/jcpp.13130
+3.Asarnow JR, Mehlum L.Practitioner Review: Treatment for suicidal and self-harming adolescents - advances in suicide prevention care [published correction appears inJ Child Psychol Psychiatry. 2019 Dec;60(12):1357. doi: 10.1111/jcpp.13166.].J Child Psychol Psychiatry.2019;60(10):1046-1054.doi:10.1111/jcpp.13130
+
+【应对自杀】
+儿童和青少年自杀身亡者的家庭成员对此有着复杂的反应，包括悲伤、内疚和抑郁。心理咨询可以帮助他们了解自杀的精神背景，并在自杀前反思和承认孩子的困难。
+自杀后，自杀的风险可能会在社区的其他人中增加，尤其是自杀者的朋友和同学。资源（例如，应对自杀走失的指南）可用于帮助自杀后的学校和社区。学校和社区官员可以安排精神卫生保健从业者提供信息和咨询。
+
+【自杀行为的预防】
+自杀事件前常常有行为改变（如情绪沮丧、低自尊、睡眠和食欲紊乱、注意力不集中、逃学、躯体不适、对自杀的关注），这些常使儿童或青少年就诊。像“我不该出生”，“我真想大睡一觉不再醒来”的话，应视作自杀意图的征兆，严肃对待。一个自杀的威胁或尝试代表了对强烈的失望体验的一种重要的表示。
+早期识别上述危险因素可能有助于阻止自杀尝试。对这些早期的暗示，或当面临自杀或危险行为的威胁或尝试时，必须进行有力的干预。应直接询问青少年他们的不快或自毁情绪；这种直接提问可能降低自杀风险。医生不应提供没有根据的安慰，这可能会损害医生的可信度并进一步降低青少年的自尊心。
+医生应该在医疗环境中筛查自杀。 2017 年发表的研究表明，由于与自杀无关的医疗原因到急诊室就诊的儿科患者中有 53% 的自杀倾向筛查呈阳性（1)。还有证据表明，大多数最终死于自杀的成人和儿童在死亡前一年接受过医疗护理（2、3）。从 2019 年 7 月开始，联合委员会一直要求医院将自杀评估作为标准医疗护理的一部分（4、5）。然而，据报道，在成年人中，近40%的自杀未遂和超过30%的自杀死亡发生在阴性患者健康问卷（PHQ）筛查的30天内（6)。正在开发更好的筛查工具。据报道，包含自杀倾向讨论及生命价值评估问题的"开源自杀风险评估量表"（7），在13岁及以上各人口群体中均展现出较高的预测能力（7）。
+医生应该询问枪支，枪支是美国青少年死亡的主要原因（60% 是他杀，35% 是自杀，4% 是无意）（8)。据报道，医生咨询与提供电缆枪锁相结合可以提高枪支存放的安全性（9）。
+除了筛查自杀外，医生还应帮助患者做以下事情，这可能有助于降低自杀风险：
+获得针对精神、一般医疗及物质使用障碍的有效照护
+获得针对精神、一般医疗及物质使用障碍的有效照护
+获取心理健康护理服务
+获取心理健康护理服务
+获得家庭和社区的支持
+获得家庭和社区的支持
+学习和平解决冲突的方法
+学习和平解决冲突的方法
+限制媒体接触自杀相关的内容(10)
+限制媒体接触自杀相关的内容(10)
+预防自杀项目也可以提供帮助。最有效的项目是那些努力确保儿童拥有以下能力的项目 (11):
+一个支持性的培养环境
+一个支持性的培养环境
+为所有青少年提供及时、公平的心理健康服务
+为所有青少年提供及时、公平的心理健康服务
+尊重个人、种族和文化差异的社会环境
+尊重个人、种族和文化差异的社会环境
+2022年，美国启用了一个新的3位数代码（988），称为988自杀和危机生命线。来自988的电话、短信或聊天会将呼叫者转接到国家预防自杀生命线（其之前的生命线电话号码1-800-273-8255将继续可用）。受过培训的英语和西班牙语咨询师将24小时全天候提供支持，并在必要时将呼叫者与资源联系起来。这项服务是免费且保密的。
+
+【预防参考文献】
+1.Ballard ED, Cwik M, Van Eck K, et al.Identification of at-risk youth by suicide screening in a pediatric emergency department.Prev Sci.18(2);174-182, 2017.doi: 10.1007/s11121-016-0717-5
+1.Ballard ED, Cwik M, Van Eck K, et al.Identification of at-risk youth by suicide screening in a pediatric emergency department.Prev Sci.18(2);174-182, 2017.doi: 10.1007/s11121-016-0717-5
+2.Ahmedani BI, Simon GE, Stewart C, et al.Health care contacts in the year before suicide death.J Gen Intern Med.29(6):870-877, 2014.
+2.Ahmedani BI, Simon GE, Stewart C, et al.Health care contacts in the year before suicide death.J Gen Intern Med.29(6):870-877, 2014.
+3.Oein-Odegaard C, Reneflot A, Haugue LI.Use of primary healthcare services prior to suicide in Norway: A descriptive comparison of immigrants and the majority population.BMC Health Serv Res.19(1):508, 2019.
+3.Oein-Odegaard C, Reneflot A, Haugue LI.Use of primary healthcare services prior to suicide in Norway: A descriptive comparison of immigrants and the majority population.BMC Health Serv Res.19(1):508, 2019.
+4.The Joint Commission.Detecting and treating suicide ideation in all settings.Sentinel Alert Event.56:1-7, 2016.
+4.The Joint Commission.Detecting and treating suicide ideation in all settings.Sentinel Alert Event.56:1-7, 2016.
+5.Brahmbhatt K, Kurtz BP, Afzal KI, et al.Suicide risk screening in pediatric hospitals: Clinical pathways to address a global health crisis.Psychosomatics.60(1):1-9, 2019.doi: 10.1016/j.psym.2018.09.003
+5.Brahmbhatt K, Kurtz BP, Afzal KI, et al.Suicide risk screening in pediatric hospitals: Clinical pathways to address a global health crisis.Psychosomatics.60(1):1-9, 2019.doi: 10.1016/j.psym.2018.09.003
+6.Simon GE, Coleman KJ, Rossom RC, et al.Risk of suicide attempt and suicide death following completion of the PHQ depression module in community practice.JClin Psychiatry.77; 221-227, 2016.doi: 10.4088/JCP.15m09776
+6.Simon GE, Coleman KJ, Rossom RC, et al.Risk of suicide attempt and suicide death following completion of the PHQ depression module in community practice.JClin Psychiatry.77; 221-227, 2016.doi: 10.4088/JCP.15m09776
+7.Harris KM, Wang L, Mu GM, et al.Measuring the suicidal mind: The "open source"Suicidality Scale, for adolescents and adults.PLoS ONE.18(2): e0282009.https://doi.org/10.1371/journal.pone.0282009
+7.Harris KM, Wang L, Mu GM, et al.Measuring the suicidal mind: The "open source"Suicidality Scale, for adolescents and adults.PLoS ONE.18(2): e0282009.https://doi.org/10.1371/journal.pone.0282009
+8.Cunningham RM, Walten MA, Carter PM.The major causes of death in children and adolescents in the United States.N Engl J Med.Dec 379(25):2468-2475, 2018. doi: 10.1056/NEJMsr1804754
+8.Cunningham RM, Walten MA, Carter PM.The major causes of death in children and adolescents in the United States.N Engl J Med.Dec 379(25):2468-2475, 2018. doi: 10.1056/NEJMsr1804754
+9.Barkin SL, Finch SA, Ip EH, et al.Is office-based counseling about media use, timeouts, and firearm storage effective?Results from a cluster-randomized, controlled trial.Pediatrics.122(1)e15-25, 2008.doi: 10.1542/peds.2007-2611
+9.Barkin SL, Finch SA, Ip EH, et al.Is office-based counseling about media use, timeouts, and firearm storage effective?Results from a cluster-randomized, controlled trial.Pediatrics.122(1)e15-25, 2008.doi: 10.1542/peds.2007-2611
+10.Bridge JA, Greenhouse JB, Ruch D, et al.Association between the release of Netflix's13 Reasons Whyand suicide rates in the US: An interrupted time series analysis.J Am Acad Child Adolesc Psychiatry.59(2):236-243.doi:https://doi.org/10.1016/j.jaac.2019.04.020
+10.Bridge JA, Greenhouse JB, Ruch D, et al.Association between the release of Netflix's13 Reasons Whyand suicide rates in the US: An interrupted time series analysis.J Am Acad Child Adolesc Psychiatry.59(2):236-243.doi:https://doi.org/10.1016/j.jaac.2019.04.020
+11.Brent DA.Master clinician review: Saving Holden Caulfield: Suicide prevention in children and adolescents.J Am Acad Child Adolesc Psychiatry.58(1):25-35, 2019.https://doi.org/10.1016/j.jaac.2018.05.030
+11.Brent DA.Master clinician review: Saving Holden Caulfield: Suicide prevention in children and adolescents.J Am Acad Child Adolesc Psychiatry.58(1):25-35, 2019.https://doi.org/10.1016/j.jaac.2018.05.030
+自杀在青春期前儿童中很少见，但在15至19岁的青少年中，自杀是第二大或第三大死因。
+自杀在青春期前儿童中很少见，但在15至19岁的青少年中，自杀是第二大或第三大死因。
+考虑针对任何潜在疾病（如情绪障碍、精神病）进行药物治疗；但需注意抗抑郁药可能增加部分青少年自杀风险，应密切监测用药情况，并仅开具低于致死剂量的处方药物。
+考虑针对任何潜在疾病（如情绪障碍、精神病）进行药物治疗；但需注意抗抑郁药可能增加部分青少年自杀风险，应密切监测用药情况，并仅开具低于致死剂量的处方药物。
+寻找行为上的早期预警变化（例如，逃课、睡眠或饮食过多或过少、声明有自杀意图、从事非常危险的行为）。
+寻找行为上的早期预警变化（例如，逃课、睡眠或饮食过多或过少、声明有自杀意图、从事非常危险的行为）。
+
+【更多信息】
+以下是一些可能有用的医疗环境中自杀的英语筛查工具。请注意，本手册对这些资源的内容不承担任何责任。
+The SPRC Suicide Prevention Resource Center
+The SPRC Suicide Prevention Resource Center
+988Lifeline.org
+988Lifeline.org
+Ask Suicide-Screening Questions (ASQ) Toolkit
+Ask Suicide-Screening Questions (ASQ) Toolkit
+Columbia Suicide Severity Rating Scale (C-SSRS)
+Columbia Suicide Severity Rating Scale (C-SSRS)
+Patient Health Questionnaire (PHQ-9) Tool
+Patient Health Questionnaire (PHQ-9) Tool

@@ -1,0 +1,165 @@
+标题：儿童听力障碍
+来源：https://www.msdmanuals.cn/professional/pediatrics/miscellaneous-ear-nose-and-throat-disorders-in-children/hearing-impairment-in-children
+============================================================
+
+2020年在美国，经筛查的婴儿中检测到儿童听力损失的比率为1.8/1000（1）。平均1.9%的儿童报告有听力问题。听力障碍在男孩中比女孩中稍微常见；平均男性：女性比例为1.24:1。
+听力损失对儿童的发育、社交、教育及经济有重大影响。早期识别和早期干预听力损失以促进口语交流，对个人和社会发展至关重要（2）。
+（参见听力损失的评估。）
+
+【参考文献】
+1.Centers for Disease Control and Prevention (CDC): Hearing Loss in Children: Data and Statistics About Hearing Loss in Children.Accessed January 3, 2025.
+1.Centers for Disease Control and Prevention (CDC): Hearing Loss in Children: Data and Statistics About Hearing Loss in Children.Accessed January 3, 2025.
+2.Lieu JEC, Kenna M, Anne S, Davidson L.Hearing Loss in Children: A Review.JAMA.2020;324(21):2195-2205.doi:10.1001/jama.2020.17647
+2.Lieu JEC, Kenna M, Anne S, Davidson L.Hearing Loss in Children: A Review.JAMA.2020;324(21):2195-2205.doi:10.1001/jama.2020.17647
+
+【儿童听力障碍的病因】
+COVID-19感染可能影响任何年龄段儿童的听力（1）。
+新生儿听力损失最常见的病因是
+先天性巨细胞病毒（CMV）感染（2）
+先天性巨细胞病毒（CMV）感染（2）
+遗传缺陷（见表听力损失的一些遗传原因)
+遗传缺陷（见表听力损失的一些遗传原因)
+先天性 CMV 感染是美国最常见的宫内感染。CMV 感染可能占出生时所有感音神经性听力损失的 21%。此外，由于CMV感染也可能导致迟发性听力损失，CMV可能占4岁时存在的感音神经性听力损失的25%（3，4，5）。
+巨细胞病毒筛查正逐步纳入美国及国际的新生儿筛查方案（6）。
+
+【听力损失的一些遗传原因】
+听力损失的一些遗传原因
+遗传方式
+临床表现
+鳃-耳-肾综合征（Melnick-Fraser综合征）
+大多数人有听力损失和耳畸形
+伴有肾脏异常和腮裂囊肿或瘘管
+Jervell和Lange-Nielsen综合征
+严重的先天性听力损失
+心律异常（例如，QTc间期延长）
+晕厥和猝死的风险增加
+Pendred综合征
+进行性听力损失
+伴有单纯非毒症性甲状腺肿（甲状腺机能正常的甲状腺肿）,先天性甲状腺肿, 和前庭症状
+Stickler 综合征
+听力损失的程度不同，并且随着时间的推移可能会变得更加严重
+伴有骨骼和骨骼异常
+许多患者有严重的近视
+Usher综合征
+占所有失聪儿童的3％~6％，另外3％~6％是听力受损的儿童
+与视网膜色素变性有关
+三种临床类型
+Waardenburg综合征
+发生听力损失时，是先天性的
+伴有头发，眼睛和皮肤的色素沉着
+四种公认的类型，每一种都具有不同的身体特征
+AD=常染色体显性；AR=常染色体隐性。
+AD=常染色体显性；AR=常染色体隐性。
+新生儿听力损失的危险因素包括下面几点：
+低出生体重（例如，<1.5kg）
+低出生体重（例如，<1.5kg）
+Apgar评分<5（1分钟）或< 7（5分钟）
+Apgar评分<5（1分钟）或< 7（5分钟）
+难产导致低氧血症或癫痫发作
+难产导致低氧血症或癫痫发作
+产前感染风疹，梅毒，疱疹，巨细胞病毒或弓形虫病
+产前感染风疹，梅毒，疱疹，巨细胞病毒或弓形虫病
+颅面异常，尤其是涉及外耳道的异常
+颅面异常，尤其是涉及外耳道的异常
+高胆红素血症
+高胆红素血症
+败血症或脑膜炎
+败血症或脑膜炎
+呼吸机依赖
+呼吸机依赖
+使用耳毒性药物
+使用耳毒性药物
+新生儿期听力损失的家族史
+新生儿期听力损失的家族史
+
+【婴儿和儿童】
+婴儿和儿童耳聋最常见的原因是
+耵聍栓塞
+耵聍栓塞
+中耳积液，包括分泌性中耳炎。
+中耳积液，包括分泌性中耳炎。
+年长儿童的其它原因包括头部外伤、噪音（包括音乐），使用耳毒性药物（如氨基糖苷类、噻嗪类）、病毒感染（如流行性腮腺炎）、肿瘤或损伤影响听觉神经，耳道异物，以及罕见的自身免疫性疾病。
+儿童听力损失的危险因素包括新生儿的危险因素外加如下几点：
+颅骨骨折或创伤性意识丧失
+颅骨骨折或创伤性意识丧失
+神经变性疾病，包括神经纤维瘤病
+神经变性疾病，包括神经纤维瘤病
+噪声暴露
+噪声暴露
+鼓膜穿孔
+鼓膜穿孔
+
+【病因参考文献】
+1.Swain SK, Panda S, Jena PP. Hearing loss and tinnitus among pediatric patients with COVID-19 infection: our experience.MGM J Med Sci.2022;9(1):66-71.doi:10.4103/mgmj.mgmj_61_21
+1.Swain SK, Panda S, Jena PP. Hearing loss and tinnitus among pediatric patients with COVID-19 infection: our experience.MGM J Med Sci.2022;9(1):66-71.doi:10.4103/mgmj.mgmj_61_21
+2.Goderis J, De Leenheer E, Smets K, et al.Hearing loss and congenital CMV infection: A systematic review.Pediatrics.2014;134(5):972–982.doi10.1542/peds.2014-1173
+2.Goderis J, De Leenheer E, Smets K, et al.Hearing loss and congenital CMV infection: A systematic review.Pediatrics.2014;134(5):972–982.doi10.1542/peds.2014-1173
+3.Kimani JW, Buchman CA, Booker JK, et al.Sensorineural hearing loss in a pediatric population: Association of congenital cytomegalovirus infection with intracranial abnormalities.Arch Otolaryngol Head Neck Surg.2010;136(10):999–1004. doi:10.1001/archoto.2010.156
+3.Kimani JW, Buchman CA, Booker JK, et al.Sensorineural hearing loss in a pediatric population: Association of congenital cytomegalovirus infection with intracranial abnormalities.Arch Otolaryngol Head Neck Surg.2010;136(10):999–1004. doi:10.1001/archoto.2010.156
+4.Lo TH, Lin PH, Hsu WC, et al.Prognostic determinants of hearing outcomes in children with congenital cytomegalovirus infection.Sci Rep.2022;12(1):5219.Published 2022 Mar 25.doi:10.1038/s41598-022-08392-w
+4.Lo TH, Lin PH, Hsu WC, et al.Prognostic determinants of hearing outcomes in children with congenital cytomegalovirus infection.Sci Rep.2022;12(1):5219.Published 2022 Mar 25.doi:10.1038/s41598-022-08392-w
+5.Pinninti SG, Britt WJ, Boppana SB.Auditory and Vestibular Involvement in Congenital Cytomegalovirus Infection.Pathogens.2024;13(11):1019.Published 2024 Nov 20.doi:10.3390/pathogens13111019
+5.Pinninti SG, Britt WJ, Boppana SB.Auditory and Vestibular Involvement in Congenital Cytomegalovirus Infection.Pathogens.2024;13(11):1019.Published 2024 Nov 20.doi:10.3390/pathogens13111019
+6.Therrell BL, Padilla CD, Borrajo GJC, et al.Current Status of Newborn Bloodspot Screening Worldwide 2024: A Comprehensive Review of Recent Activities (2020-2023).Int J Neonatal Screen.2024;10(2):38.Published 2024 May 23.doi:10.3390/ijns10020038
+6.Therrell BL, Padilla CD, Borrajo GJC, et al.Current Status of Newborn Bloodspot Screening Worldwide 2024: A Comprehensive Review of Recent Activities (2020-2023).Int J Neonatal Screen.2024;10(2):38.Published 2024 May 23.doi:10.3390/ijns10020038
+
+【儿童听力障碍的症状和体征】
+如果听力损失严重，婴儿或儿童可能对声音无反应，或者可能出现言语或语言理解发育迟缓。如果听力损失不太严重，儿童可能会间歇性忽略他人与他们交谈。儿童可能会出现在某些环境中听力良好，但在其他环境中则存在听力问题。例如，由于教室的背景噪声可以使语音识别困难，孩子可能仅仅在学校有听力问题。
+未识别和未治疗可能严重影响语言理解和语言能力。听力障碍可导致教育、社交及心理挑战，并可能影响未来就业能力。
+
+【儿童听力障碍的诊断】
+电诊断检查（新生儿）
+电诊断检查（新生儿）
+临床检查和鼓室导抗测试（儿童）
+临床检查和鼓室导抗测试（儿童）
+通常推荐对所有小于3个月的婴儿进行筛查，在美国的大多数州都是法定的（1)。初步筛选试验是使用手持装置软点击，诱发性耳声发射试验。如果结果是异常或可疑的，则对听觉脑干诱发反应进行测试，可以在睡眠时完成；不正常的结果应该在1个月后重复检测再次确认。
+如果怀疑有遗传原因，可以进行基因检测。
+对于儿童，可以使用其他方法。语音和全面的发育进行临床评估。对耳朵进行检查，针对鼓膜运动对不同的频率的反应进行测试，以筛查中耳积液。儿童为6个月至2岁时，检查对声音的反应。年龄> 2岁时，可以评估遵循简单的听觉命令的能力，可以使用耳机对声音做出反应。中央听觉处理评估可用于> 7岁，不存在神经识别障碍的儿童，这些孩子似乎能听到，但并不理解。
+通常有指征行影像学检查，以识别病因并指导预后。在大多数情况下，包括神经系统检查异常，认字差，和/或听力损失不对称，均需完成钆增强MRI检查。如果怀疑骨异常，则完成CT检查。
+持续监测听力受损儿童的听力状况对追踪和管理听力恶化至关重要（2）。
+
+【诊断参考】
+1.Bower C, Reilly BK, Richerson J, Hecht JL; COMMITTEE ON PRACTICE & AMBULATORY MEDICINE; SECTION ON OTOLARYNGOLOGY–HEAD AND NECK SURGERY.Hearing Assessment in Infants, Children, and Adolescents: Recommendations Beyond Neonatal Screening.Pediatrics.2023;152(3):e2023063288.doi:10.1542/peds.2023-063288
+1.Bower C, Reilly BK, Richerson J, Hecht JL; COMMITTEE ON PRACTICE & AMBULATORY MEDICINE; SECTION ON OTOLARYNGOLOGY–HEAD AND NECK SURGERY.Hearing Assessment in Infants, Children, and Adolescents: Recommendations Beyond Neonatal Screening.Pediatrics.2023;152(3):e2023063288.doi:10.1542/peds.2023-063288
+2.Joint Committee on Infant Hearing.Year 2019 position statement: principles and guidelines for early hearing detection and intervention programs.J Early Hear Detect Interv. 2019;4(2):1–44.doi:10.15142/fptk-b748
+2.Joint Committee on Infant Hearing.Year 2019 position statement: principles and guidelines for early hearing detection and intervention programs.J Early Hear Detect Interv. 2019;4(2):1–44.doi:10.15142/fptk-b748
+
+【儿童听力损失的治疗】
+助听器、人工耳蜗植入或骨锚式助听器
+助听器、人工耳蜗植入或骨锚式助听器
+某些类型的暂时性听力损失使用助听器
+某些类型的暂时性听力损失使用助听器
+有时教授非听觉语言
+有时教授非听觉语言
+治疗可逆的病因和异常情况。治疗可能包括耵聍清除及中耳积液的药物和/或手术处理，如鼓膜置管术。某些类型的暂时性听力损失可以使用助听器。
+如果听力损失是不可逆的，通常可以使用助听器。它们可用于婴儿和儿童。如果听力损失是轻度或中度，或只影响一只耳朵，可使用助听器或耳机。在课堂上，可以使用调频听觉训练器。使用调频听觉训练器时，老师对着麦克风讲话，信号发送给学生佩戴或放置附近的调频接收器。
+如果听力损失是感音神经性的且无法通过助听器改善，可能需要人工耳蜗植入。12月龄以下儿童的人工耳蜗植入日益普遍，并已显示对沟通及发育有益（1）。
+如果是传导性听力损失且无法通过助听器改善，5岁以上人群可使用骨锚式助听器（BAHA）（2）。
+儿童也可能需要治疗，以支持他们的语言发展，例如被教导一种基于视觉的手语。
+COVID-19 大流行要求听力专家开发远程监控和与听力损失儿童互动的方法。其中一些方法，例如远程监测和设备编程以及在线或应用程序内语言治疗技术，在大多数大流行限制已经解除的情况下，可能对患者仍然有用（3，4）。
+尽管目前对COVID-19感染相关的听力损失尚未完全明确，但据报道接种SARS-CoV-2病毒疫苗可预防儿童平衡及听力障碍（5、6）。
+植入物由安装在耳后的声音处理器组成，它将声音信号传递到连接在头皮上的发射器（圆形）。发射器将信息发送到植入内耳耳蜗的电极。来自耳蜗的电脉冲传递到大脑，使人能够听到声音。
+
+【治疗参考文献】
+1.Culbertson SR, Dillon MT, Richter ME, et al.Younger Age at Cochlear Implant Activation Results in Improved Auditory Skill Development for Children With Congenital Deafness.J Speech Lang Hear Res.2022;65(9):3539-3547.doi:10.1044/2022_JSLHR-22-00039
+1.Culbertson SR, Dillon MT, Richter ME, et al.Younger Age at Cochlear Implant Activation Results in Improved Auditory Skill Development for Children With Congenital Deafness.J Speech Lang Hear Res.2022;65(9):3539-3547.doi:10.1044/2022_JSLHR-22-00039
+2.Azevedo C, Breda M, Ribeiro D, Mar FM, Vilarinho S, Dias L.Functional and patient-reported outcomes of bone-anchored hearing aids (BAHA): A prospective case series study.J Otol.2023;18(1):7-14.doi:10.1016/j.joto.2022.11.002
+2.Azevedo C, Breda M, Ribeiro D, Mar FM, Vilarinho S, Dias L.Functional and patient-reported outcomes of bone-anchored hearing aids (BAHA): A prospective case series study.J Otol.2023;18(1):7-14.doi:10.1016/j.joto.2022.11.002
+3.Brotto D, Sorrentino F, Favaretto N, et al.Pediatric hearing loss management in the COVID-19 era: Possible consequences and resources for the next future.Otolaryngol Head Neck Surg. 2021;166(2):217–218. doi:10.1177/01945998211012677
+3.Brotto D, Sorrentino F, Favaretto N, et al.Pediatric hearing loss management in the COVID-19 era: Possible consequences and resources for the next future.Otolaryngol Head Neck Surg. 2021;166(2):217–218. doi:10.1177/01945998211012677
+4.Marom T, Pitaro J, Shah UK, et al.Otitis media practice during the COVID-19 pandemic.Front Cell Infect Microbiol.2022;11:749911.doi:10.3389/fcimb.2021.749911
+4.Marom T, Pitaro J, Shah UK, et al.Otitis media practice during the COVID-19 pandemic.Front Cell Infect Microbiol.2022;11:749911.doi:10.3389/fcimb.2021.749911
+5.Kaliyappan K, Chen YC, Krishnan Muthaiah VP.Vestibular Cochlear Manifestations in COVID-19 Cases.Front Neurol.2022;13:850337.Published 2022 Mar 18.doi:10.3389/fneur.2022.850337
+5.Kaliyappan K, Chen YC, Krishnan Muthaiah VP.Vestibular Cochlear Manifestations in COVID-19 Cases.Front Neurol.2022;13:850337.Published 2022 Mar 18.doi:10.3389/fneur.2022.850337
+6.Aldè M, Di Berardino F, Ambrosetti U, et al.Audiological and vestibular symptoms following SARS-CoV-2 infection and COVID-19 vaccination in children aged 5-11 years.Am J Otolaryngol.2023;44(1):103669.doi:10.1016/j.amjoto.2022.103669
+6.Aldè M, Di Berardino F, Ambrosetti U, et al.Audiological and vestibular symptoms following SARS-CoV-2 infection and COVID-19 vaccination in children aged 5-11 years.Am J Otolaryngol.2023;44(1):103669.doi:10.1016/j.amjoto.2022.103669
+新生儿听力损失的常见原因是巨细胞病毒感染或遗传缺陷，而婴儿和较大儿童的常见原因是耵聍积聚和中耳积液。
+新生儿听力损失的常见原因是巨细胞病毒感染或遗传缺陷，而婴儿和较大儿童的常见原因是耵聍积聚和中耳积液。
+如果儿童对声音的反应或言语和语言发展异常，应怀疑听力损失。
+如果儿童对声音的反应或言语和语言发展异常，应怀疑听力损失。
+筛查婴幼儿听力损失，从诱发耳声发射测试开始。
+筛查婴幼儿听力损失，从诱发耳声发射测试开始。
+根据临床检查和鼓室测压法的结果诊断儿童。
+根据临床检查和鼓室测压法的结果诊断儿童。
+用助听器、人工耳蜗或骨锚式助听器治疗不可逆的听力损失，并根据需要提供语言支持（例如，教授手语）。
+用助听器、人工耳蜗或骨锚式助听器治疗不可逆的听力损失，并根据需要提供语言支持（例如，教授手语）。

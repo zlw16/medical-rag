@@ -1,0 +1,184 @@
+标题：脑膜炎球菌病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-negative-cocci-and-coccobacilli/meningococcal-diseases
+============================================================
+
+脑膜炎球菌是属于奈瑟菌科的革兰氏阴性需氧双球菌。有13个血清型；人类疾病多由其中6种（血清组A，B，C，W135，X和Y）导致。
+目前，全球地方流行性脑膜炎球菌感染的发病率为0.5～5/10万，冬季和春季发病率较高 (1)。局部暴发多见于冈比亚和塞内加尔之间的撒哈拉以南非洲地区以及东部的埃塞俄比亚、厄立特里亚和肯尼亚北部之间，该地区又被称为撒哈拉以南(非洲)脑膜炎带，包括26个国家。 在非洲大流行中（通常由A群引起的），发病率为100～800/10万并且每年影响多达 200,000 人。 在非洲脑膜炎带广泛使用脑膜炎球菌A疫苗接种后，血清A型的脑膜炎球菌已被其他脑膜炎球菌血清群和肺炎链球菌Streptococcus pneumoniae取代了。
+在美国，奈瑟菌导致的脑膜炎年发病率为0.12～1.1/10万。在过去 20 年中，脑膜炎球菌病的发病率逐年下降，但自 2021 年以来，发病率急剧上升，目前已超过疫情前的水平 (2)。多数病例为散发， 年龄<1岁儿童发病率最高。脑膜炎球菌病在美国很少爆发，大约每 20 例病例中只有 1 例（5%）与爆发有关（3）。疫情往往发生在半封闭的社区（例如，新兵营、矫正机构、大学宿舍、学校、日托中心），且大多数患者年龄在16至23岁之间。血清群B和C导致25%至40%的侵袭性疾病（3）。Y 血清群在最近报告的病例增加中占很大比例（4）。血清型A在美国较罕见。
+
+【参考文献】
+1.Parikh SR, Campbell H, Bettinger JA, et al.The everchanging epidemiology of meningococcal disease worldwide and the potential for prevention through vaccination.J Infect.2020;81(4):483-498.doi:10.1016/j.jinf.2020.05.079
+1.Parikh SR, Campbell H, Bettinger JA, et al.The everchanging epidemiology of meningococcal disease worldwide and the potential for prevention through vaccination.J Infect.2020;81(4):483-498.doi:10.1016/j.jinf.2020.05.079
+2.Centers for Disease Control and Prevention: Meningococcal Disease Surveillance and Trends.Accessed May 29, 2024.
+2.Centers for Disease Control and Prevention: Meningococcal Disease Surveillance and Trends.Accessed May 29, 2024.
+3.Centers for Disease Control and Prevention: The Pink Book: Meningococcal Disease.Accessed May 29, 2024.
+3.Centers for Disease Control and Prevention: The Pink Book: Meningococcal Disease.Accessed May 29, 2024.
+4.Centers for Disease Control and Prevention: Increase in Invasive Serogroup Y Meningococcal Disease in the United States.Accessed May 29, 2024.
+4.Centers for Disease Control and Prevention: Increase in Invasive Serogroup Y Meningococcal Disease in the United States.Accessed May 29, 2024.
+
+【脑膜炎球菌导致的疾病】
+超过90%的侵袭性脑膜炎球菌感染涉及 (1)
+脑膜炎（约占50%的病例）
+脑膜炎（约占50%的病例）
+脑膜炎球菌血症（败血症）（约占35%至40%的病例）
+脑膜炎球菌血症（败血症）（约占35%至40%的病例）
+（参见3个月以上婴儿的细菌性脑膜炎。）
+可能发生肺部、关节、呼吸道、泌尿生殖器官、直肠、眼部、心内膜和心包的感染，但较为少见。
+脑膜炎奈瑟菌据报道会引起尿道炎和宫颈炎。最近，脑膜炎球菌性尿道炎的发病率在男男性行为者中不断增加，通常发生在与口咽脑膜炎球菌携带者发生口-生殖器接触后。N. meningitidis在鼻咽部定植。N. meningitidis脑膜炎奈瑟菌也可引起直肠炎，主要发生在男性性行为者中。
+
+【参考文献】
+1.Centers for Disease Control and Prevention: The Pink Book: Meningococcal Disease.Accessed May 29, 2024.
+1.Centers for Disease Control and Prevention: The Pink Book: Meningococcal Disease.Accessed May 29, 2024.
+
+【流行性脑膜炎球菌病的病理生理】
+N. meningitidis（脑膜炎奈瑟菌）通常作为正常鼻咽微生物群（携带状态）的共生部分存在，并有可能导致严重且往往具有破坏性的侵袭性疾病。然而，尽管有记录显示存在高比例的定植（健康人群的5% ~ 40%），且这种定植可能是暂时、短暂或长期的，但发展为侵袭性疾病的情况非常罕见（< 1%） (1)。特定于定植脑膜炎球菌菌株的遗传决定的毒力特征与诱发宿主易感因素的组合，对侵袭性疾病的发展具有最大的影响，这种疾病主要发生在先前未感染的患者身上。
+携带者（和受感染的患者）可能会将有机体传播给直接接触呼吸道分泌物或从携带者或患者身上吸入大飞沫核的人。鼻咽部的携带率在青少年和年轻人中最高，他们是N. meningitidis）（脑膜炎奈瑟菌）的传播源。在流行期间携带率大幅上升。
+脑膜炎奈瑟菌侵入人体后，会导致儿童和成人脑膜炎和严重菌血症，从而产生严重的血管反应。病情进展非常迅速。总体病死率为10%至15%；对于单独的脑膜炎，病死率为5%至18%，但若伴有感染性休克，脑膜炎球菌血症的病死率可能高达40%（2，3）。
+
+【危险因素】
+最常见的感染人群是
+6个月至3岁的儿童
+6个月至3岁的儿童
+其余高危人群包括
+青少年和青年（16至20岁）
+青少年和青年（16至20岁）
+部队新兵
+部队新兵
+住在宿舍的大一新生
+住在宿舍的大一新生
+前往脑膜炎球菌病流行的地方旅行（如非洲的某些国家和朝觐期间的沙特阿拉伯）
+前往脑膜炎球菌病流行的地方旅行（如非洲的某些国家和朝觐期间的沙特阿拉伯）
+患有功能性或解剖性无脾症的人或补体缺陷（C3、C5–C9、备解素、因子 H 或因子 D）
+患有功能性或解剖性无脾症的人或补体缺陷（C3、C5–C9、备解素、因子 H 或因子 D）
+接受依库珠单抗或者雷维珠单抗（终末补体活化阻断剂）治疗的人
+接受依库珠单抗或者雷维珠单抗（终末补体活化阻断剂）治疗的人
+HIV感染者
+HIV感染者
+男男性行为者
+男男性行为者
+从事N. meningitidis（脑膜炎奈瑟菌）分离株相关工作的微生物学家
+从事N. meningitidis（脑膜炎奈瑟菌）分离株相关工作的微生物学家
+侵袭性脑膜炎球菌病患者的密切接触者
+侵袭性脑膜炎球菌病患者的密切接触者
+感染或接种疫苗后可获得血清群特异性免疫力。
+先前有病毒感染、家庭居住拥挤、慢性潜在疾病以及主动和被动吸烟均与脑膜炎球菌致病风险增加相关。
+
+【病理生理学参考文献】
+1.Caugant DA, Maiden MC.Meningococcal carriage and disease--population biology and evolution.Vaccine.2009;27 Suppl 2(4):B64-B70.doi:10.1016/j.vaccine.2009.04.061
+1.Caugant DA, Maiden MC.Meningococcal carriage and disease--population biology and evolution.Vaccine.2009;27 Suppl 2(4):B64-B70.doi:10.1016/j.vaccine.2009.04.061
+2.Mbaeyi SA, Bozio CH, Duffy J, et al.Meningococcal Vaccination: Recommendations of the Advisory Committee on Immunization Practices, United States, 2020.MMWR Recomm Rep.2020;69(9):1-41.Published 2020 Sep 25.doi:10.15585/mmwr.rr6909a1
+2.Mbaeyi SA, Bozio CH, Duffy J, et al.Meningococcal Vaccination: Recommendations of the Advisory Committee on Immunization Practices, United States, 2020.MMWR Recomm Rep.2020;69(9):1-41.Published 2020 Sep 25.doi:10.15585/mmwr.rr6909a1
+3.MacNeil JR, Blain AE, Wang X, Cohn AC.Current Epidemiology and Trends in Meningococcal Disease-United States, 1996-2015.Clin Infect Dis.2018;66(8):1276-1281.doi:10.1093/cid/cix993
+3.MacNeil JR, Blain AE, Wang X, Cohn AC.Current Epidemiology and Trends in Meningococcal Disease-United States, 1996-2015.Clin Infect Dis.2018;66(8):1276-1281.doi:10.1093/cid/cix993
+
+【脑膜炎球菌病的症状和体征】
+脑膜炎球菌脑膜炎患者经常会出现发烧、头痛和颈部僵硬等症状，这些症状与其他病原体引起的急性细菌性脑膜炎的症状难以区分。其他还包括恶心、呕吐、畏光以及嗜睡等。体格检查可发现脑膜刺激征比较明显。
+脑膜炎球菌血症常表现为急性全身性疾病，包括发烧、发冷、肌痛和关节痛。疾病发作后不久常常出现斑丘疹或出血性点状皮疹。
+暴发性脑膜炎球菌综合征包括Waterhouse-Friderichsen综合征（败血症、深度休克、皮肤紫癜、肾上腺出血）、败血症伴多器官衰竭、休克和弥散性血管内凝血。罕见的、慢性脑膜炎球菌败血症可反复出现轻中度临床症状（主要是关节和皮肤病变）。
+脑膜炎球菌性脑膜炎的并发症和脑膜炎球菌血症常见且严重。并且存活者中，还有10％～20％的患者会留有严重的后遗症，例如永久性听力丧失、智力障碍、趾指或四肢功能障碍等。
+暴发性脑膜炎球菌血症最初会引起瘀点，瘀点会融合并迅速进展为瘀斑。
+暴发性脑膜炎球菌血症最初会引起瘀点，瘀点会融合并迅速进展为瘀斑。
+Photo courtesy of Mr. Gust via the Public Health Image Library of the Centers for Disease Control and Prevention.
+孩子的脸上可见瘀点和紫癜。鼻胃管反流的出血与弥散性血管内凝血相一致，也可继发于脑膜炎球菌血症。
+孩子的脸上可见瘀点和紫癜。鼻胃管反流的出血与弥散性血管内凝血相一致，也可继发于脑膜炎球菌血症。
+© Springer Science+Business Media
+© Springer Science+Business Media
+Photo courtesy of Karen McKoy, MD.
+继发于脑膜炎球菌血症的瘀点和紫癜很广泛。病变往往在躯干和下肢常见。
+继发于脑膜炎球菌血症的瘀点和紫癜很广泛。病变往往在躯干和下肢常见。
+© Springer Science+Business Media
+在某些区域出现孤立的瘀点，在其他区域则融合并发生坏死（左）。可见大面积坏死（右）。
+在某些区域出现孤立的瘀点，在其他区域则融合并发生坏死（左）。可见大面积坏死（右）。
+© Springer Science+Business Media
+暴发性脑膜炎球菌血症最初会引起瘀点，瘀点会融合并迅速进展为瘀斑。
+暴发性脑膜炎球菌血症最初会引起瘀点，瘀点会融合并迅速进展为瘀斑。
+Photo courtesy of Mr. Gust via the Public Health Image Library of the Centers for Disease Control and Prevention.
+孩子的脸上可见瘀点和紫癜。鼻胃管反流的出血与弥散性血管内凝血相一致，也可继发于脑膜炎球菌血症。
+孩子的脸上可见瘀点和紫癜。鼻胃管反流的出血与弥散性血管内凝血相一致，也可继发于脑膜炎球菌血症。
+© Springer Science+Business Media
+© Springer Science+Business Media
+Photo courtesy of Karen McKoy, MD.
+继发于脑膜炎球菌血症的瘀点和紫癜很广泛。病变往往在躯干和下肢常见。
+继发于脑膜炎球菌血症的瘀点和紫癜很广泛。病变往往在躯干和下肢常见。
+© Springer Science+Business Media
+在某些区域出现孤立的瘀点，在其他区域则融合并发生坏死（左）。可见大面积坏死（右）。
+在某些区域出现孤立的瘀点，在其他区域则融合并发生坏死（左）。可见大面积坏死（右）。
+© Springer Science+Business Media
+
+【流行性脑膜炎奈瑟菌病的诊断】
+脑脊液 (CSF) 革兰氏染色和培养
+脑脊液 (CSF) 革兰氏染色和培养
+有时基于核酸的检测 (NAAT)，例如聚合酶链反应 (PCR)
+有时基于核酸的检测 (NAAT)，例如聚合酶链反应 (PCR)
+奈瑟菌是一种小型革兰氏阴性双球菌，很容易用革兰氏染色法和其他标准细菌学鉴定方法鉴定。从无菌体液（例如血液、脑脊液或滑液）中分离出细菌可确诊。
+对脑脊液、血液和其他通常无菌部位进行脑膜炎奈瑟菌PCR检测比培养更敏感和更特异，当脑脊液革兰氏染色阴性，以及之前的抗生素给药干扰分离微生物时，PCR检测可能有用。
+血清学方法，例如乳胶凝集试验和协同凝集试验，可以对血液、脑脊液、滑液以及尿液中的N. meningitidis（脑膜炎奈瑟菌）作出快速的推定诊断。
+由于脑膜炎奈瑟菌和淋病奈瑟菌在革兰染色上的表现相似，如果男性尿道分泌物显示革兰阴性双球菌，但淋病奈瑟菌核酸扩增检测(NAAT)结果为阴性，则应考虑脑膜炎奈瑟菌性尿道炎；在这种情况下，需要对尿道分泌物进行培养，以鉴定引起感染的Neisseria（奈瑟菌）菌种（参见美国疾病控制与预防中心以尿道炎和宫颈炎为特征的疾病的信息）。
+
+【流行性脑膜炎奈瑟菌病的治疗】
+头孢曲松
+头孢曲松
+地塞米松
+地塞米松
+在尚未明确病原体之前，对于免疫功能正常的疑似脑膜炎球菌感染成人，应给予第三代头孢菌素（如头孢噻肟2g，每4~6小时静脉注射一次；或头孢曲松2g，每12小时静脉注射一次）或美罗培南（2g，每8小时静脉注射一次）联合万古霉素15～20mg/kg，每8~12小时静脉注射一次。对于免疫功能低下的患者以及年龄>50岁的患者，应考虑通过加用氨苄西林2g，每4小时静脉注射一次覆盖Listeria monocytogenes（李斯特菌）抗菌谱。氟喹诺酮类抗生素莫西沙星是对青霉素和头孢菌素过敏的患者的替代品。
+一旦N. meningitidis脑膜炎奈瑟菌确诊，首选的治疗方案如下：
+头孢曲松2g IV q12h
+头孢曲松2g IV q12h
+青霉素4百万单位 静脉滴注 每4小时一次
+青霉素4百万单位 静脉滴注 每4小时一次
+在许多国家，青霉素G仍是侵袭性脑膜炎球菌病的首选。但是，由于包括美国在内的许多国家/地区对青霉素敏感性降低的分离株发生率不断增加，因此这些国家通常使用第三代头孢菌素进行初始治疗，例如头孢曲松或头孢噻肟。此外，当使用青霉素时，需要用头孢曲松、环丙沙星或利福平进行后续治疗以消除鼻咽部携带。有报道称，分离株对青霉素和第三代头孢菌素都有耐药性 (1,2)。
+对于由B型Haemophilus influenzae（流感嗜血杆菌）或S. pneumoniae（肺炎链球菌）引起的疑似细菌性脑膜炎的儿童和成人，皮质类固醇可以降低神经系统并发症的发生率。当N. meningitidis是病因时，依据尚不清楚。大剂量皮质类固醇会使无脑膜炎的脑膜炎球菌性休克的预后恶化，在这种情况下不应使用。 然而，低剂量的皮质类固醇可用于肾上腺功能不全的患者。糖皮质激素应在抗生素使用之前或同时开始使用。儿童每6小时静脉注射地塞米松0.15 mg/kg，成人每6小时注射10 mg/kg，持续4天。
+脑膜炎球菌性尿道炎的治疗方法与淋球菌性尿道炎相同。脑膜炎球菌性尿道炎的性传播风险尚不清楚；但是，可以考虑对其性伴侣进行治疗（参见美国疾病预防控制中心指南中的以尿道炎和宫颈炎为特征的疾病)。
+
+【治疗参考文献】
+1.Spiliopoulou I, Xirogianni A, Simantirakis S, Tzanakaki G.Meningococcal Antibiotic Resistance: Molecular Characterization of Isolates from Patients with Invasive Meningococcal Disease (IMD) in Greece.Antibiotics (Basel).2023;12(7):1136.Published 2023 Jun 30.doi:10.3390/antibiotics12071136
+1.Spiliopoulou I, Xirogianni A, Simantirakis S, Tzanakaki G.Meningococcal Antibiotic Resistance: Molecular Characterization of Isolates from Patients with Invasive Meningococcal Disease (IMD) in Greece.Antibiotics (Basel).2023;12(7):1136.Published 2023 Jun 30.doi:10.3390/antibiotics12071136
+2.Willerton L, Lucidarme J, Walker A, et al.Antibiotic resistance among invasiveNeisseria meningitidisisolates in England, Wales and Northern Ireland (2010/11 to 2018/19).PLoS One.2021;16(11):e0260677.Published 2021 Nov 29.doi:10.1371/journal.pone.0260677
+2.Willerton L, Lucidarme J, Walker A, et al.Antibiotic resistance among invasiveNeisseria meningitidisisolates in England, Wales and Northern Ireland (2010/11 to 2018/19).PLoS One.2021;16(11):e0260677.Published 2021 Nov 29.doi:10.1371/journal.pone.0260677
+
+【流行性脑膜炎奈瑟菌病的预防】
+
+【抗生素预防】
+与脑膜炎球菌病患者密切接触的人员感染风险升高，因此需接受预防性抗菌药物治疗。
+可选的药物包括利福平、头孢曲松和氟喹诺酮类药物（环丙沙星或左氧氟沙星）。
+阿奇霉素并非常规推荐药物，但对于对推荐药物有禁忌症的患者可以作为一种替代药物。
+耐环丙沙星的脑膜炎球菌病很罕见，但在几个国家（希腊、英国、威尔士、澳大利亚、西班牙、阿根廷、法国和印度）以及美国的两个州（北达科他州和明尼苏达州）都有报告。在选择用于暴露后预防的抗生素时，临床医生应考虑当地对环丙沙星耐药的脑膜炎球菌的报道 (1)。
+
+【疫苗接种】
+见脑膜炎球菌疫苗了解更多信息，包括适应症、禁忌症和注意事项、剂量和给药以及不良反应。另请参阅疾病控制和预防中心（CDC）的儿童和青少年和成人疫苗时间表，以及免疫实践咨询委员会（ACIP）的脑膜炎球菌疫苗建议。。
+所有的孩子都应该在11岁到12岁时接种四价结合疫苗（MenACWY-D、MenACWY-CRM或MenACWY-TT），并在16岁时接种加强剂（另见儿童常规免疫接种计划）。这些疫苗也推荐给风险增加的成年人。
+对于罹患 B 群脑膜炎球菌病风险较高的 10 岁以上人群，建议接种 MenB-4C 或 MenB-FHbp（针对 B 群脑膜炎球菌的重组蛋白单价疫苗）。
+对于年龄≥10岁且在同一次就诊时接种MenACWY和MenB疫苗的人，可以选择MenABCWY联合疫苗接种（2）。
+
+【预防参考文献】
+1.Berry I, Rubis AB, Howie RL, et al.Selection of Antibiotics as Prophylaxis for Close Contacts of Patients with Meningococcal Disease in Areas withCiprofloxacinResistance - United States, 2024.MMWR Morb Mortal Wkly Rep.2024;73(5):99-103.Published 2024 Feb 8.doi:10.15585/mmwr.mm7305a2
+1.Berry I, Rubis AB, Howie RL, et al.Selection of Antibiotics as Prophylaxis for Close Contacts of Patients with Meningococcal Disease in Areas withCiprofloxacinResistance - United States, 2024.MMWR Morb Mortal Wkly Rep.2024;73(5):99-103.Published 2024 Feb 8.doi:10.15585/mmwr.mm7305a2
+2.Collins JP, Crowe SJ, Ortega-Sanchez IR, et al.Use of the Pfizer Pentavalent Meningococcal Vaccine Among Persons Aged ≥10 Years: Recommendations of the Advisory Committee on Immunization Practices - United States, 2023.MMWR Morb Mortal Wkly Rep.2024;73:345–350.Published 2024 Apr 18.doi:10.15585/mmwr.mm7315a4
+2.Collins JP, Crowe SJ, Ortega-Sanchez IR, et al.Use of the Pfizer Pentavalent Meningococcal Vaccine Among Persons Aged ≥10 Years: Recommendations of the Advisory Committee on Immunization Practices - United States, 2023.MMWR Morb Mortal Wkly Rep.2024;73:345–350.Published 2024 Apr 18.doi:10.15585/mmwr.mm7315a4
+超过90%的侵袭性脑膜炎球菌感染涉及脑膜炎或脑膜炎球菌血症。
+超过90%的侵袭性脑膜炎球菌感染涉及脑膜炎或脑膜炎球菌血症。
+无症状鼻咽部携带状态很常见；传播途径多为直接接触无症状携带者的呼吸道分泌物。
+无症状鼻咽部携带状态很常见；传播途径多为直接接触无症状携带者的呼吸道分泌物。
+在美国，大多数病例是散发性的，多见于<2岁的儿童，但也可能发生暴发，主要发生在半封闭社区（如新兵训练营、宿舍、托儿所），且常见于16至23岁的患者。
+在美国，大多数病例是散发性的，多见于<2岁的儿童，但也可能发生暴发，主要发生在半封闭社区（如新兵训练营、宿舍、托儿所），且常见于16至23岁的患者。
+头孢曲松或青霉素治疗；脑膜炎患者加用地塞米松。
+头孢曲松或青霉素治疗；脑膜炎患者加用地塞米松。
+密切接触者需预防性抗生素治疗。
+密切接触者需预防性抗生素治疗。
+11至12岁儿童开始接种疫苗，可在高感染风险的其他年龄群体中进行选择性接种。
+11至12岁儿童开始接种疫苗，可在高感染风险的其他年龄群体中进行选择性接种。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Centers for Disease Control and Prevention (CDC):Child and Adolescent Immunization Schedule by Age
+Centers for Disease Control and Prevention (CDC):Child and Adolescent Immunization Schedule by Age
+CDC:Adult Immunization Schedule by Age
+CDC:Adult Immunization Schedule by Age
+CDC:Infant Meningococcal Vaccination
+CDC:Infant Meningococcal Vaccination
+CDC:Public Health Response for Outbreaks
+CDC:Public Health Response for Outbreaks
+CDC:STI Treatment Guidelines 2021: Diseases Characterized by Urethritis and Cervicitis
+CDC:STI Treatment Guidelines 2021: Diseases Characterized by Urethritis and Cervicitis
+Advisory Committee on Immunization Practices (ACIP):Meningococcal ACIP Vaccine Recommendations
+Advisory Committee on Immunization Practices (ACIP):Meningococcal ACIP Vaccine Recommendations

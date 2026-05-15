@@ -1,0 +1,36 @@
+标题：异形吸虫病及相关的吸虫感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/trematodes-flukes/heterophyiasis-and-related-trematode-infections
+============================================================
+
+吸虫为一类可感染人体不同部位（如血管、胃肠道、肺或肝脏）的扁平状的寄生虫，不同种类感染部位不同。
+异形吸虫是东亚、中东（尤其是苏丹和埃及）和东南欧的特有种。
+异形吸虫感染主要通过食用感染的、生的或未煮熟的含有囊蚴（成囊期）的淡水鱼或半咸水鱼所致 (1)。 误食后，囊蚴会脱囊并附着于小肠黏膜上。在那里发育为成虫，体长约1.0至1.7毫米，体宽0.3至0.4毫米。吸虫可能会穿透粘膜并通过淋巴管沉积卵子进入血液。据报道，虫卵可随血液循环沉积于心脏及其他器官。
+据报道，食用生的或未煮熟的淡水或微咸水鱼后，会在俄罗斯远东地区、韩国、日本、中国、台湾、巴尔干国家、以色列和西班牙发生Metagonimus yokogawai（横川后殖吸虫）感染，横川后殖吸虫是一种相关的吸虫。据报道，在美国西北太平洋地区（华盛顿州、俄勒冈州和加利福尼亚州北部）和加拿大不列颠哥伦比亚省，因摄入生或未煮熟的鲑鱼后发生鲑居吸虫的肠道感染（2）。
+1.在宿主体内，成虫释放出受精卵； 每个虫卵都含有发育完全的毛蚴。虫卵随宿主粪便排出。
+1.在宿主体内，成虫释放出受精卵； 每个虫卵都含有发育完全的毛蚴。虫卵随宿主粪便排出。
+2.虫卵被螺类（第一中间宿主）摄取后，孵化并释放出毛蚴，毛蚴会穿透螺的肠道。毛蚴发育成胞蚴，然后雷蚴，再然后变成尾蚴。每个雷蚴都会产生许多尾蚴。
+2.虫卵被螺类（第一中间宿主）摄取后，孵化并释放出毛蚴，毛蚴会穿透螺的肠道。毛蚴发育成胞蚴，然后雷蚴，再然后变成尾蚴。每个雷蚴都会产生许多尾蚴。
+3.尾蚴从钉螺中释放出来。
+3.尾蚴从钉螺中释放出来。
+4.尾蚴在淡水或咸水鱼（第二中间宿主）的组织中成囊形成囊蚴。
+4.尾蚴在淡水或咸水鱼（第二中间宿主）的组织中成囊形成囊蚴。
+5.最终宿主通过摄入含有囊蚴的生鱼，未煮熟的鱼或咸鱼而感染。
+5.最终宿主通过摄入含有囊蚴的生鱼，未煮熟的鱼或咸鱼而感染。
+6.误食后，囊蚴会脱囊并附着于小肠黏膜上。
+6.误食后，囊蚴会脱囊并附着于小肠黏膜上。
+7.在那里，他们发育为成虫。
+7.在那里，他们发育为成虫。
+8. 除了人类以外，各种以鱼为食的哺乳动物（例如猫，狗）和鸟类也可能被异形吸虫感染。
+8. 除了人类以外，各种以鱼为食的哺乳动物（例如猫，狗）和鸟类也可能被异形吸虫感染。
+Image from the Centers for Disease Control and Prevention Image Library.
+感染通常是无症状的。  症状在严重感染或免疫功能低下的患者中更常见。 通常在摄入受污染的鱼后约 9 天出现症状，可能包括厌食、恶心、腹痛、吸收不良、体重减轻、消化不良和腹泻。 可能存在嗜酸性粒细胞增多症。
+成虫可导致腹痛和腹泻。
+异形血吸虫病的诊断依据是在粪便中检测到虫卵（呈黄褐色，大小约为30mcm×15mcm）。H. heterophyes（异形吸虫）的虫卵无法与M. yokogawai（橫川后殖吸虫）区别，也和Clonorchis（支睾吸虫）和Opisthorchis（后睾吸虫）的虫卵类似。
+治疗异形吸虫病的方法，吡喹酮 po tid 连续1天，针对H. heterophyes（异形吸虫）、M. yokogawai和N. salmincola（鲑隐孔吸虫）。
+预防包括不吃可能含有这些肠道吸虫的生鱼或未煮熟的鱼。
+
+【参考文献】
+1.Centers for Disease Control and Prevention: DPDx–Laboratory Identification of Parasites of Public Health Concern: Heterophyiasis.January 3, 2018.Accessed July 11, 2025.
+1.Centers for Disease Control and Prevention: DPDx–Laboratory Identification of Parasites of Public Health Concern: Heterophyiasis.January 3, 2018.Accessed July 11, 2025.
+2.Fritsche TR, Eastburn RL, Wiggins LH, Terhune CA Jr.Praziquantelfor treatment of human Nanophyetus salmincola (Troglotrema salmincola) infection.J Infect Dis.1989;160(5):896-899.doi:10.1093/infdis/160.5.896
+2.Fritsche TR, Eastburn RL, Wiggins LH, Terhune CA Jr.Praziquantelfor treatment of human Nanophyetus salmincola (Troglotrema salmincola) infection.J Infect Dis.1989;160(5):896-899.doi:10.1093/infdis/160.5.896

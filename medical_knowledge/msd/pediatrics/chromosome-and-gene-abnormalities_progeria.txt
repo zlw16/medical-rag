@@ -1,0 +1,39 @@
+标题：早老症
+来源：https://www.msdmanuals.cn/professional/pediatrics/chromosome-and-gene-abnormalities/progeria
+============================================================
+
+早衰症，也称为哈钦森-吉尔福德综合征，是一种罕见的遗传病，会导致儿童迅速衰老，从而导致早衰症状和寿命缩短。
+早老是由于LMNA基因的自然突变所致，该基因编码一种作为细胞核分子支架的核纤层蛋白A ( lamin A)。该蛋白的缺乏导致了细胞分裂时细胞核不稳定，引起细胞早期死亡。
+患者的平均生存期为14.6岁；死因通常为冠状动脉疾病和脑血管疾病（1）。可以发生胰岛素抵抗和动脉粥样硬化。 众所周知的与正常衰老相关问题（如癌症风险增高、退行性关节炎）在该病是不存在的。
+早衰症的症状和体征在2岁内出现，包括：
+生长停滞（如，身材矮小症、牙萌出延迟）
+生长停滞（如，身材矮小症、牙萌出延迟）
+异常面容（颅面部不对称、小颌症、钩形鼻）
+异常面容（颅面部不对称、小颌症、钩形鼻）
+衰老的体征（如，皮肤皱纹、秃头、关节活动范围减小、类似于硬皮病的坚韧皮肤）
+衰老的体征（如，皮肤皱纹、秃头、关节活动范围减小、类似于硬皮病的坚韧皮肤）
+诊断早衰症通常通过外貌即可明确，但需与节段性早衰症（如肢端早老症、成人早衰症）及其他导致生长迟缓的疾病相鉴别。
+洛那法尼是一种口服药物，可阻止缺陷性早老蛋白或类早老蛋白的异常积聚。一项多中心前瞻性队列研究表明，经过2.2年的随访，与安慰剂相比，它降低了死亡率（3.7% vs 33.3%）（2）。
+可进行支持治疗。
+
+【其他早老综合征】
+过早老化也是其他早老综合征的一个表现，包括：
+Werner综合征是一种青春期后出现的早衰症，表现为头发稀疏及多种老年性疾病（如白内障、糖尿病、骨质疏松症、动脉粥样硬化）的发展。Rothmund-Thomson 综合征是一种早老症，对癌症的易感性增加。基因的突变导致具有修复DNA功能的RecQ DNA解螺旋酶缺陷。
+Cockayne综合征是一种由ERCC8基因突变引起的常染色体隐性遗传病，该基因在DNA的切除修复中起重要作用。临床特征包括：严重生长障碍、恶病质、视网膜病、高血压、肾功能不全、皮肤光敏感性增加和智力障碍。
+新生儿早老症（Wiedemann-Rautenstrauch综合征）是一种隐性遗传的衰老综合征，通常导致患者在2岁前死亡。
+其他综合征（例如，唐氏综合征，Ehlers-Danlos综合征）偶尔会有早衰特征。
+
+【参考文献】
+1.Gordon LB, Massaro J, D'Agostino RB Sr, et al.Impact of farnesylation inhibitors on survival in Hutchinson-Gilford progeria syndrome.Circulation.2014;130(1):27-34.doi:10.1161/CIRCULATIONAHA.113.008285
+1.Gordon LB, Massaro J, D'Agostino RB Sr, et al.Impact of farnesylation inhibitors on survival in Hutchinson-Gilford progeria syndrome.Circulation.2014;130(1):27-34.doi:10.1161/CIRCULATIONAHA.113.008285
+2.Gordon LB, Shappell H, Massaro J, et al.Association ofLonafarnibTreatment vs No Treatment With Mortality Rate in Patients With Hutchinson-Gilford Progeria Syndrome.JAMA.2018;319(16):1687-1695.doi:10.1001/jama.2018.3264
+2.Gordon LB, Shappell H, Massaro J, et al.Association ofLonafarnibTreatment vs No Treatment With Mortality Rate in Patients With Hutchinson-Gilford Progeria Syndrome.JAMA.2018;319(16):1687-1695.doi:10.1001/jama.2018.3264
+
+【更多信息】
+以下是一些可能对父母或看护人有用的英语支持资源。 请注意，本手册对这些资源的内容不承担任何责任。
+Progeria Research Foundation
+Progeria Research Foundation
+Share and Care Cockayne Syndrome Network
+Share and Care Cockayne Syndrome Network
+Rothmund-Thomson Syndrome Foundation
+Rothmund-Thomson Syndrome Foundation

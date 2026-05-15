@@ -1,0 +1,65 @@
+标题：周期性肢体活动障碍（PLMD）和不宁腿综合征(RLS)
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/sleep-and-wakefulness-disorders/periodic-limb-movement-disorder-plmd-and-restless-legs-syndrome-rls
+============================================================
+
+（参见睡眠和觉醒障碍患者的解决方法。）
+PLMD在中老年人中较常见。>30%的RLS患者同时伴有PLMD (1)。
+致病机制不明，但可能与中枢神经系统（CNS）的多巴胺的神经传递异常相关。PLMD 和 RLS 可能发生
+单独发生
+单独发生
+在撤药期间
+在撤药期间
+在使用兴奋剂，抗抑郁药或某些多巴胺拮抗剂时
+在使用兴奋剂，抗抑郁药或某些多巴胺拮抗剂时
+有慢性肝肾功能衰竭、缺铁、贫血、糖尿病、神经系统疾病（如多发性硬化、帕金森病）或其它疾病的患者
+有慢性肝肾功能衰竭、缺铁、贫血、糖尿病、神经系统疾病（如多发性硬化、帕金森病）或其它疾病的患者
+遗传因素可能与原发性RLS相关，超过1/3原发性RLS患者有家族史 (2)。危险因素还包括静坐的生活方式、吸烟及肥胖。
+周期性肢体运动障碍在发作性睡病和快速眼动（REM）睡眠行为障碍患者身上常见。
+可能导致该病的疾病包括缺铁性贫血、尿毒症、神经病变、妊娠、帕金森病、多发性硬化症和脊髓疾病。
+
+【参考文献】
+1.Doan TT, Koo BB, Ogilvie RP, et al: Restless legs syndrome and periodic limb movements during sleep in the Multi-Ethnic Study of Atherosclerosis.Sleep41(8):zsy106, 2018.doi: 10.1093/sleep/zsy106
+1.Doan TT, Koo BB, Ogilvie RP, et al: Restless legs syndrome and periodic limb movements during sleep in the Multi-Ethnic Study of Atherosclerosis.Sleep41(8):zsy106, 2018.doi: 10.1093/sleep/zsy106
+2.Ondo W, Jankovic J: Restless legs syndrome: Clinicoetiologic correlates.Neurology47(6):1435-1441, 1996.doi: 10.1212/wnl.47.6.1435
+2.Ondo W, Jankovic J: Restless legs syndrome: Clinicoetiologic correlates.Neurology47(6):1435-1441, 1996.doi: 10.1212/wnl.47.6.1435
+
+【PLMD 和 RLS 的症状和体征】
+周期性肢体运动障碍的特征为睡眠时远端肢体重复（通常为每20～40秒）的抽搐或踢腿样动作。患者通常抱怨夜间睡眠不良或日间过度嗜睡。他们通常对这些动作和之后短暂的觉醒没有记忆，也没有肢体的感觉障碍。床伴可能会抱怨被踢。
+不宁腿综合征是一种以不可抗拒的动腿、手臂或其他身体部分欲望为特征的运动感觉障碍，常伴有感觉障碍（如爬行或蠕动的感觉）；症状在病人不活动或躺下时更显著，睡眠前后最显著。为了减轻这些感觉，病人会不断的屈伸患肢、踢腿或行走。致使难以入睡，反复夜间觉醒，或两者兼有。压力可能会使症状恶化。发作可能偶尔发生，造成的问题很少，或者每天发生。
+
+【PLMD和RLS的诊断】
+RLS通过病史即可诊断
+RLS通过病史即可诊断
+对于 PLMD，多导睡眠图
+对于 PLMD，多导睡眠图
+RLS或PLMD的诊断可依据病人或其同床者提供的病史。 例如，PLMD患者通常具有失眠、EDS和/或入睡前或睡时的过度抽搐。
+PLMD需多导睡眠描记图以确诊，与肌电图上的反复放电一样明显。RLS诊断明确的患者也可行导睡眠描记图以排除合并PLMD，但其并非RLS诊断所必须的检查。
+对于两种疾病的患者，都应对可能致病的疾病进行评估（怀疑贫血和铁缺乏的进行血液学及肝肾功能的检查）。
+
+【PLMD 和 RLS 的治疗】
+针对不宁腿综合征：加巴喷丁酯，若铁蛋白＜50ng/mL则联合铁剂
+针对不宁腿综合征：加巴喷丁酯，若铁蛋白＜50ng/mL则联合铁剂
+对于PLMD：治疗方法通常与RLS相同
+对于PLMD：治疗方法通常与RLS相同
+对于不宁腿综合征与周期性肢体运动障碍，补充铁剂是一线治疗；应检测铁蛋白水平，若水平偏低（<50mcg/L），需在睡前补充硫酸亚铁及100～200mg维生素C。加巴喷丁酯是治疗症状的首选药物，但仅当补铁无效时（1）或患者非缺铁的情况下使用。不建议常规使用其他药物（苯二氮类药物、阿片类药物和多巴胺激动剂）。
+加巴喷丁依那卡比是加巴喷丁的前药，可能有助于缓解RLS症状。建议每日一次，在睡前几小时随食物服用。常见的副反应有嗜睡、头晕。与多巴胺能药物相比，它引起症状加剧（药物剂量增加导致症状严重程度增加）的可能性要小得多（1, 2）。
+加巴喷丁可能有助于缓解RLS症状，当RLS伴有疼痛时使用。
+普瑞巴林，一种非多巴胺能α-2-δ配体，可能对伴疼痛的不宁腿综合征有效，但该药用于治疗不宁腿综合征的研究尚不充分。最常见不良反应为嗜睡和头晕。
+多巴胺能药物（普拉克索、罗匹尼罗、罗替高汀及左旋多巴/卡比多巴）虽常有效，但存在多种不良反应，包括症状加重（下次给药前不宁腿综合征症状恶化并累及其他部位如手臂）、反跳（停药或药效消退后症状恶化）、恶心、体位性低血压、强迫性活动及失眠。尽管这些药物能有效缓解症状，但不推荐用于RLS的长期治疗(2)。
+苯二氮䓬类可能改善睡眠连续性，但不能减少肢体活动；应谨慎使用以防耐受、加剧睡眠呼吸暂停(如果存在)和白天困倦。
+阿片类也适用于严重RLS伴疼痛的患者，但因其耐药性、不良反应和滥用的可能性而谨慎使用。
+患者需要养成良好的睡眠卫生习惯。
+
+【治疗参考文献】
+1.Silber MH, Buchfuhrer MJ, Earley CJ, et al: The management of restless legs syndrome: An updated algorithm.Mayo Clin Proc96(7):1921-1937, 2021.doi: 10.1016/j.mayocp.2020.12.026
+1.Silber MH, Buchfuhrer MJ, Earley CJ, et al: The management of restless legs syndrome: An updated algorithm.Mayo Clin Proc96(7):1921-1937, 2021.doi: 10.1016/j.mayocp.2020.12.026
+2.Winkelman JW, Berkowski JA, DelRosso LM, et al: Treatment of restless legs syndrome and periodic limb movement disorder: an American Academy of Sleep Medicine clinical practice guideline.J Clin Sleep Med21(1):137-152, 2025.doi:10.5664/jcsm.11390
+2.Winkelman JW, Berkowski JA, DelRosso LM, et al: Treatment of restless legs syndrome and periodic limb movement disorder: an American Academy of Sleep Medicine clinical practice guideline.J Clin Sleep Med21(1):137-152, 2025.doi:10.5664/jcsm.11390
+PLMD是睡眠时上下肢的重复的抽搐或踢动，常影响到夜间睡眠并导致日间过度嗜睡。
+PLMD是睡眠时上下肢的重复的抽搐或踢动，常影响到夜间睡眠并导致日间过度嗜睡。
+RLS的特点是一种不可抗拒的动腿、手臂或其他身体部分冲动，通常伴有感觉异常，往往造成入睡困难和/或反复夜间觉醒。
+RLS的特点是一种不可抗拒的动腿、手臂或其他身体部分冲动，通常伴有感觉异常，往往造成入睡困难和/或反复夜间觉醒。
+RLS的诊断主要依靠临床，但如果考虑是PLMD，应做多导睡眠监测。
+RLS的诊断主要依靠临床，但如果考虑是PLMD，应做多导睡眠监测。
+对于RLS或PLMD，根据需要补充铁，然后使用加巴喷丁酯。
+对于RLS或PLMD，根据需要补充铁，然后使用加巴喷丁酯。

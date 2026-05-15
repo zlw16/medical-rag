@@ -1,0 +1,420 @@
+标题：肥胖
+来源：https://www.msdmanuals.cn/professional/endocrine-and-metabolic-disorders/obesity-and-the-metabolic-syndrome/obesity
+============================================================
+
+(参见青少年肥胖。)
+美国各年龄组中基于体质指数（BMI）的肥胖患病率均较高，自20世纪70年代末肥胖流行以来几乎增加了三倍（1, 2）；目前成人肥胖率约为40%（3）。全球成人与儿童青少年群体均报告了相似趋势（4）。
+在美国，肥胖及其并发症每年可导致多达50万例过早死亡（5）。此外，肥胖还与更高的缺勤率、生产力下降和更高的医疗费用有关。世界肥胖联合会估计，到 2060 年，超重与肥胖对全球经济的影响将上升至全球国内生产总值（GDP）的 3% 以上，其中低资源国家所承受的压力将尤为突出（6）。
+尽管肥胖传统上以体重指数（BMI）界定，但其临床诊断标准正在不断发展，现已逐步纳入与器官功能受损及功能状态异常相关的其他过度脂肪堆积指标（7）。
+
+【参考文献】
+1.Hales CM, Carroll MD, Fryar CD, et al.Prevalence of obesity and severe obesity among adults: United States, 2017–2018.NCHS Data Brief.2020;(360):1-8.
+1.Hales CM, Carroll MD, Fryar CD, et al.Prevalence of obesity and severe obesity among adults: United States, 2017–2018.NCHS Data Brief.2020;(360):1-8.
+2.Hales CM, Fryar CD, Carroll MD, et al: Trends in obesity and severe obesity prevalence in US youth and adults by sex and age, 2007-2008 to 2015-2016.JAMA319 (16):1723–1725, 2018.doi:10.1001/jama.2018.3060.
+2.Hales CM, Fryar CD, Carroll MD, et al: Trends in obesity and severe obesity prevalence in US youth and adults by sex and age, 2007-2008 to 2015-2016.JAMA319 (16):1723–1725, 2018.doi:10.1001/jama.2018.3060.
+3.Emmerich SD, Fryar CD, Stierman B, et al.Obesity and Severe Obesity Prevalence in Adults: United States, August 2021-August 2023.NCHS Data Brief.2024;(508):10.15620/cdc/159281.doi:10.15620/cdc/159281
+3.Emmerich SD, Fryar CD, Stierman B, et al.Obesity and Severe Obesity Prevalence in Adults: United States, August 2021-August 2023.NCHS Data Brief.2024;(508):10.15620/cdc/159281.doi:10.15620/cdc/159281
+4.NCD Risk Factor Collaboration (NCD-RisC).Worldwide trends in underweight and obesity from 1990 to 2022: a pooled analysis of 3663 population-representative studies with 222 million children, adolescents, and adults.Lancet.2024;403(10431):1027-1050.doi:10.1016/S0140-6736(23)02750-2
+4.NCD Risk Factor Collaboration (NCD-RisC).Worldwide trends in underweight and obesity from 1990 to 2022: a pooled analysis of 3663 population-representative studies with 222 million children, adolescents, and adults.Lancet.2024;403(10431):1027-1050.doi:10.1016/S0140-6736(23)02750-2
+5.Ward ZJ, Willett WC, Hu FB, et al.Excess mortality associated with elevated body weight in the USA by state and demographic subgroup: A modelling study.EClinicalMedicine.2022;48:101429.Published 2022 Apr 28.doi:10.1016/j.eclinm.2022.101429
+5.Ward ZJ, Willett WC, Hu FB, et al.Excess mortality associated with elevated body weight in the USA by state and demographic subgroup: A modelling study.EClinicalMedicine.2022;48:101429.Published 2022 Apr 28.doi:10.1016/j.eclinm.2022.101429
+6.World Obesity Federation.The economic impact of overweight & obesity 2nd edition with estimates for 161 countries.Global Obesity Observatory.Published 2022.Accessed May 29, 2025.
+6.World Obesity Federation.The economic impact of overweight & obesity 2nd edition with estimates for 161 countries.Global Obesity Observatory.Published 2022.Accessed May 29, 2025.
+7.Rubino F, Cummings DE, Eckel RH, et al.Definition and diagnostic criteria of clinical obesity [published correction appears inLancet Diabetes Endocrinol.2025;13(3):221-262.doi:10.1016/S2213-8587(24)00316-4
+7.Rubino F, Cummings DE, Eckel RH, et al.Definition and diagnostic criteria of clinical obesity [published correction appears inLancet Diabetes Endocrinol.2025;13(3):221-262.doi:10.1016/S2213-8587(24)00316-4
+
+【肥胖的病因】
+肥胖的原因是多因素的，包括遗传倾向以及行为、代谢和激素的影响 (1)。肥胖本质上是能量摄入与能量消耗长期失衡的结果，能量消耗包括基础代谢过程的能量利用与体力活动的能量消耗。 然而，许多其他因素似乎也有增加肥胖发生风险的影响，包括内分泌干扰物（例如双酚A [BPA]），肠道微生物群，睡眠/觉醒周期和环境因素。
+
+【基因因素】
+BMI在不同年龄组的遗传率均较高，从40%至60%不等（2）。除了少数例外，肥胖并不遵循简单的孟德尔遗传模式，而是多个基因座的复杂的相互作用。遗传因素可能影响下丘脑和胃肠道部分用于调控食物摄入的信号分子和受体表达水平（见边栏调节食物摄取的途径）。例如，ob基因编码的瘦素可调控食欲与能量消耗（3）。基因组研究有助于确定与肥胖倾向有关的信号通路。瘦素-黑皮质素通路内信号分子（例如黑皮质素-4 受体）表达的差异与食欲的中枢控制特别相关。遗传因素可以遗传，基因表达可能因胎儿发育期间母亲条件的不同而变化（4）。营养、睡眠模式、饮酒等环境因素可通过表观遗传改变多种代谢通路的基因表达；这种作用提示环境因素具有可逆性，治疗靶点也可进一步优化。
+
+【调节食物摄入的途径】
+调节食物摄入的途径
+来自胃肠道的吸收前和吸收后信号以及血浆中营养素水平的变化共同提供短期和长期反馈，来调节食物摄入：
+胃肠激素（如胰高血糖素样肽1[GLP-1]、胆囊收缩素[CCK]、肽YY[PYY]）减少食物摄入。
+胃肠激素（如胰高血糖素样肽1[GLP-1]、胆囊收缩素[CCK]、肽YY[PYY]）减少食物摄入。
+饥饿素主要由胃分泌，可增加食物摄入。
+饥饿素主要由胃分泌，可增加食物摄入。
+由脂肪组织分泌的瘦素具有将脂肪存贮的信息传导给大脑的作用。对于正常体重的健康人而言，瘦素具有抑制食欲的作用；但是，瘦素水平升高和体内脂肪增加有关。当体重丢失时瘦素水平会降低，并且发送饥饿信号至大脑。
+由脂肪组织分泌的瘦素具有将脂肪存贮的信息传导给大脑的作用。对于正常体重的健康人而言，瘦素具有抑制食欲的作用；但是，瘦素水平升高和体内脂肪增加有关。当体重丢失时瘦素水平会降低，并且发送饥饿信号至大脑。
+下丘脑具有综合处理各种能量平衡调控信号的功能，继而激活各种途径来增加或减少食物的摄入：
+神经肽Y（NPY）、刺鼠相关肽（ARP）、alpha-促黑素细胞激素（alpha-MSH）、可卡因和安非他明相关的转录因子（CART）、食欲肽和黑色素浓集激素（MCH）都能增加食物摄入量。
+神经肽Y（NPY）、刺鼠相关肽（ARP）、alpha-促黑素细胞激素（alpha-MSH）、可卡因和安非他明相关的转录因子（CART）、食欲肽和黑色素浓集激素（MCH）都能增加食物摄入量。
+促肾上腺皮质激素（CRH）和尿皮质醇则减少食物摄入。
+促肾上腺皮质激素（CRH）和尿皮质醇则减少食物摄入。
+边缘系统（杏仁核，海马体和前额叶皮层）调节食物摄取的享受性途径，包括渴望，习惯和奖赏。进食欲望可突破稳态通路，因为情绪与压力已被证实会影响饥饿素等调节肽。这些作用是由多巴胺介导的。
+遗传因素也调节体内能量消耗，包括基础代谢率、食物产热作用以及和产热有关的非自主运动。遗传因素对体脂分布（尤其是增加代谢综合症风险的腹部脂肪）的影响，可能大于对体脂总量的影响。
+
+【生活方式和行为因素】
+在热量摄入超过需要量的情况下，体重增加。影响热量摄入的重要因素包括：
+食物的能量密度
+食物的能量密度
+生活方式和行为因素的系统性驱动因素植根于社区文化和经济体系。社区层面的研究显示，缺乏新鲜水果和蔬菜供应、含糖饮料（如汽水）消费率较高的地区，其肥胖患病率通常也更高（5）。高热量、高能量的食物(如加工食品)、富含精制碳水化合物的饮食、软饮料、果汁和酒精的摄入都会导致体重增加。
+获得安全的休闲空间（例如步行和自行车基础设施、公园）以及公共交通的可用性可以鼓励身体活动并有助于预防肥胖。
+
+【调节因素】
+产前母亲肥胖，产前母亲吸烟，怀孕期间体重增加过多（6）（见表怀孕期间体重增加指南）， 和宫内生长受限会扰乱体重调节并导致儿童期及以后的体重增加。儿童早期持续存在的肥胖，会增加后续生活中减重的难度。
+肠道微生物组构成也是重要因素；早期使用抗生素及其他改变肠道微生物组的因素，可能促进后续体重增加与肥胖（7)。
+早期暴露于致肥胖物（一类内分泌干扰物，如香烟烟雾、双酚 A、空气污染、阻燃剂、邻苯二甲酸盐、多氯联苯），可通过表观遗传或核激活改变代谢设定点，增加肥胖易感性（8)。
+儿童时期的不良事件或儿童期的虐待增加了包括肥胖症在内的多种疾病的风险。美国疾病控制与预防中心的儿童不良事件研究表明，儿童时期的言语、身体或性虐待史预示着BMI≥30的风险增加8%，BMI≥40的风险增加17.3%。某些类型的虐待带来的风险最大。例如，频繁的言语虐待会使BMI> 40的风险增加最大（88％）。经常被打和受伤会使BMI> 30的风险增加71％（9)。虐待与肥胖相关性的可能机制包括神经生物学及表观遗传学变化（10）。
+睡眠不足（通常指每晚少于7小时）可通过改变调节饱腹感与食欲的激素水平而导致体重增加（11）。在涉及 1024 名健康成年人的威斯康星州睡眠队列研究中，睡眠时间减少与 BMI 的增加成正比。在成年人中，当平均睡眠时间从8小时减少到5小时时，BMI会增加3.6%（12）
+戒烟与体重增加有关，可以阻止患者戒烟 (13)。
+某些药物亦可引起体重增加，包括糖皮质激素、部分抗抑郁药（如三环类、单胺氧化酶抑制剂〔MAOI〕）、部分抗惊厥药（如丙戊酸），以及非典型抗精神病药（如利培酮）（14）。
+罕见情况下，体重增加由以下疾病之一导致：
+肿瘤（尤其是颅咽管瘤）或感染（尤其是累及下丘脑的感染）导致的脑结构与功能改变，可刺激过量热量摄入
+肿瘤（尤其是颅咽管瘤）或感染（尤其是累及下丘脑的感染）导致的脑结构与功能改变，可刺激过量热量摄入
+胰腺肿瘤导致的高胰岛素血症
+胰腺肿瘤导致的高胰岛素血症
+因库欣综合征导致的高皮质醇血症，主要引起腹型肥胖。
+因库欣综合征导致的高皮质醇血症，主要引起腹型肥胖。
+甲状腺功能减退（极少会导致体重大幅度增加）
+甲状腺功能减退（极少会导致体重大幅度增加）
+性腺功能减退症
+性腺功能减退症
+
+【进食障碍】
+至少有两种病理性进食异常与肥胖症有关：
+暴食障碍表现为快速进食大量食物，发作时主观感觉失控，发作后感到痛苦。这种病症不包括补偿性行为，如呕吐。全球范围内，暴食障碍的终生患病率约为女性 1.5%、男性 0.3%（15）。肥胖通常较严重，体重频繁大幅增减，且存在明显心理障碍。
+暴食障碍表现为快速进食大量食物，发作时主观感觉失控，发作后感到痛苦。这种病症不包括补偿性行为，如呕吐。全球范围内，暴食障碍的终生患病率约为女性 1.5%、男性 0.3%（15）。肥胖通常较严重，体重频繁大幅增减，且存在明显心理障碍。
+夜食综合征表现为早晨食欲减退，晚上食欲旺盛和失眠，午夜进食。每日至少 25%-50% 的摄入量发生在晚餐后。因肥胖寻求治疗的人约有10%可能患有此症 (16)。罕见情况下，使用唑吡坦等催眠药可诱发类似障碍。
+夜食综合征表现为早晨食欲减退，晚上食欲旺盛和失眠，午夜进食。每日至少 25%-50% 的摄入量发生在晚餐后。因肥胖寻求治疗的人约有10%可能患有此症 (16)。罕见情况下，使用唑吡坦等催眠药可诱发类似障碍。
+类似但较轻的模式可能导致多数人体重超重。例如，即使在未患夜食综合征的人群中，晚餐后进食的行为也可能导致体重过度增加。
+
+【病因参考文献】
+1.Mahmoud AM: An overview of epigenetics in obesity: The role of lifestyle and therapeutic interventions.Int J Mol Sci2022;23(3):1341.doi: 10.3390/ijms23031341
+1.Mahmoud AM: An overview of epigenetics in obesity: The role of lifestyle and therapeutic interventions.Int J Mol Sci2022;23(3):1341.doi: 10.3390/ijms23031341
+2.Nan C, Guo B, Warner C, et al.Heritability of body mass index in pre-adolescence, young adulthood and late adulthood.Eur J Epidemiol.2012;27(4):247–253.doi: 10.1007/s10654-012-9678-6
+2.Nan C, Guo B, Warner C, et al.Heritability of body mass index in pre-adolescence, young adulthood and late adulthood.Eur J Epidemiol.2012;27(4):247–253.doi: 10.1007/s10654-012-9678-6
+3.Núñez-Sánchez MÁ, Jiménez-Méndez A, Suárez-Cortés M, et al.Inherited Epigenetic Hallmarks of Childhood Obesity Derived from Prenatal Exposure to Obesogens.Int J Environ Res Public Health.2023;20(6):4711.Published 2023 Mar 7.doi:10.3390/ijerph20064711
+3.Núñez-Sánchez MÁ, Jiménez-Méndez A, Suárez-Cortés M, et al.Inherited Epigenetic Hallmarks of Childhood Obesity Derived from Prenatal Exposure to Obesogens.Int J Environ Res Public Health.2023;20(6):4711.Published 2023 Mar 7.doi:10.3390/ijerph20064711
+4.Shehab MJ, Al-Mofarji ST, Mahdi BM, et al.The correlation between obesity and leptin signaling pathways.Cytokine.2025;192:156970.doi:10.1016/j.cyto.2025.156970
+4.Shehab MJ, Al-Mofarji ST, Mahdi BM, et al.The correlation between obesity and leptin signaling pathways.Cytokine.2025;192:156970.doi:10.1016/j.cyto.2025.156970
+5.Althoff T, Nilforoshan H, Hua J, et al.Large-scale diet tracking data reveal disparate associations between food environment and diet.Nat Commun.2022;13(1):267.Published 2022 Jan 18.doi:10.1038/s41467-021-27522-y
+5.Althoff T, Nilforoshan H, Hua J, et al.Large-scale diet tracking data reveal disparate associations between food environment and diet.Nat Commun.2022;13(1):267.Published 2022 Jan 18.doi:10.1038/s41467-021-27522-y
+6.Mannino A, Sarapis K, Moschonis G.The Effect of Maternal Overweight and Obesity Pre-Pregnancy and During Childhood in the Development of Obesity in Children and Adolescents: A Systematic Literature Review.Nutrients.2022;14(23):5125.Published 2022 Dec 2.doi:10.3390/nu14235125
+6.Mannino A, Sarapis K, Moschonis G.The Effect of Maternal Overweight and Obesity Pre-Pregnancy and During Childhood in the Development of Obesity in Children and Adolescents: A Systematic Literature Review.Nutrients.2022;14(23):5125.Published 2022 Dec 2.doi:10.3390/nu14235125
+7.Ajslev TA, Andersen CS, Gamborg M, et al, Childhood overweight after establishment of the gut microbiota: The role of delivery mode, pre-pregnancy weight and early administration of antibiotics.Int J Obes.2011;35(4): 522–529.doi: 10.1038/ijo.2011.27
+7.Ajslev TA, Andersen CS, Gamborg M, et al, Childhood overweight after establishment of the gut microbiota: The role of delivery mode, pre-pregnancy weight and early administration of antibiotics.Int J Obes.2011;35(4): 522–529.doi: 10.1038/ijo.2011.27
+8.Heindel JJ, Newbold R, Schug TT, Endocrine disruptors and obesity.Nat Rev Endocrinol.2015;11(11):653–661.doi: 10.1038/nrendo.2015.163
+8.Heindel JJ, Newbold R, Schug TT, Endocrine disruptors and obesity.Nat Rev Endocrinol.2015;11(11):653–661.doi: 10.1038/nrendo.2015.163
+9.Williamson DF, Thompson TJ, Anda RF, et al: Body weight and obesity in adults and self-reported abuse in childhood.Int J Obes Relat Metab Disord.2022;26(8):1075–1082.doi: 10.1038/sj.ijo.0802038
+9.Williamson DF, Thompson TJ, Anda RF, et al: Body weight and obesity in adults and self-reported abuse in childhood.Int J Obes Relat Metab Disord.2022;26(8):1075–1082.doi: 10.1038/sj.ijo.0802038
+10.Anda RF, Felitti VJ, Bremner JD, et al.The enduring effects of abuse and related adverse experiences in childhood.A convergence of evidence from neurobiology and epidemiology.Eur Arch Psychiatry Clin Neurosci.2006;256(3):174–186, 2006.doi: 10.1007/s00406-005-0624-4
+10.Anda RF, Felitti VJ, Bremner JD, et al.The enduring effects of abuse and related adverse experiences in childhood.A convergence of evidence from neurobiology and epidemiology.Eur Arch Psychiatry Clin Neurosci.2006;256(3):174–186, 2006.doi: 10.1007/s00406-005-0624-4
+11.St-Onge MP, Grandner MA, Brown D, et al.Sleep Duration and Quality: Impact on Lifestyle Behaviors and Cardiometabolic Health: A Scientific Statement From the American Heart Association.Circulation.2016;134(18):e367-e386.doi:10.1161/CIR.0000000000000444
+11.St-Onge MP, Grandner MA, Brown D, et al.Sleep Duration and Quality: Impact on Lifestyle Behaviors and Cardiometabolic Health: A Scientific Statement From the American Heart Association.Circulation.2016;134(18):e367-e386.doi:10.1161/CIR.0000000000000444
+12.Taheri S, Lin L, Austin D, et al.Short sleep duration is associated with reduced leptin, elevated ghrelin, and increased body mass index.PLoS Med.2004;1(3):e62.doi: 10.1371/journal.pmed.0010062
+12.Taheri S, Lin L, Austin D, et al.Short sleep duration is associated with reduced leptin, elevated ghrelin, and increased body mass index.PLoS Med.2004;1(3):e62.doi: 10.1371/journal.pmed.0010062
+13.Aubin HJ, Farley A, Lycett D, et al.Weight gain in smokers after quitting cigarettes: meta-analysis. BMJ.2012;345:e4439.Published 2012 Jul 10.doi:10.1136/bmj.e4439
+13.Aubin HJ, Farley A, Lycett D, et al.Weight gain in smokers after quitting cigarettes: meta-analysis. BMJ.2012;345:e4439.Published 2012 Jul 10.doi:10.1136/bmj.e4439
+14.Domecq JP, Prutsky G, Leppin A, et al.Clinical review: Drugs commonly associated with weight change: a systematic review and meta-analysis.J Clin Endocrinol Metab.2015;100(2):363-370.doi:10.1210/jc.2014-3421
+14.Domecq JP, Prutsky G, Leppin A, et al.Clinical review: Drugs commonly associated with weight change: a systematic review and meta-analysis.J Clin Endocrinol Metab.2015;100(2):363-370.doi:10.1210/jc.2014-3421
+15.Keski-Rahkonen A.Epidemiology of binge eating disorder: prevalence, course, comorbidity, and risk factors. Curr Opin Psychiatry.2021;34(6):525-531.doi:10.1097/YCO.0000000000000750
+15.Keski-Rahkonen A.Epidemiology of binge eating disorder: prevalence, course, comorbidity, and risk factors. Curr Opin Psychiatry.2021;34(6):525-531.doi:10.1097/YCO.0000000000000750
+16.Cleator J, Abbott J, Judd P, et al.Night eating syndrome: implications for severe obesity.Nutr Diabetes.2012;2(9):e44.Published 2012 Sep 10.doi:10.1038/nutd.2012.16
+16.Cleator J, Abbott J, Judd P, et al.Night eating syndrome: implications for severe obesity.Nutr Diabetes.2012;2(9):e44.Published 2012 Sep 10.doi:10.1038/nutd.2012.16
+
+【肥胖症的并发症】
+肥胖的并发症几乎可累及所有器官系统，导致多种功能障碍，包括：
+心血管系统疾病（如高血压、冠状动脉粥样硬化性心脏病、脑卒中）
+心血管系统疾病（如高血压、冠状动脉粥样硬化性心脏病、脑卒中）
+呼吸系统疾病（如阻塞性睡眠呼吸暂停〔OSA〕）；
+呼吸系统疾病（如阻塞性睡眠呼吸暂停〔OSA〕）；
+内分泌疾病（如糖尿病、甲状腺功能减退、代谢综合征、不孕、男性血清睾酮水平降低、女性多囊卵巢综合征）
+内分泌疾病（如糖尿病、甲状腺功能减退、代谢综合征、不孕、男性血清睾酮水平降低、女性多囊卵巢综合征）
+肌肉骨骼系统疾病（如骨关节炎）
+肌肉骨骼系统疾病（如骨关节炎）
+胃肠道与肝脏系统（如胃食管反流、胆石症、代谢功能障碍相关脂肪肝病）
+胃肠道与肝脏系统（如胃食管反流、胆石症、代谢功能障碍相关脂肪肝病）
+脂肪组织是一种活跃的内分泌器官，可分泌脂肪因子和游离脂肪酸，从而在多个器官系统中促进全身性炎症反应并增加胰岛素抵抗（1）。
+内脏脂肪细胞直接释放瘦素和血管紧张素，并主要通过肾素-血管紧张素-醛固酮系统的激活引起肥胖相关的高血压（2）。此外，胰岛素抵抗的代偿机制会导致胰岛素水平升高，刺激交感神经系统，进而增加血管收缩，这也是高血压的诱因之一。肥胖引发的血脂异常进一步加速动脉粥样硬化，从而增加心血管疾病（如冠心病、脑卒中）风险（3）。肥胖亦被证实是静脉血栓栓塞的独立危险因素（4），而与其相关的慢性全身性炎症被认为是导致血栓前状态的原因（5）。
+肥胖可机械地引起阻塞性睡眠呼吸暂停，因为舌头和咽部脂肪组织增加，气道尺寸减小，导致睡眠时气道塌陷（6, 7）。阻塞性睡眠呼吸暂停的反复间歇性缺氧与睡眠紊乱还会增加高血压、冠心病及脑卒中风险（8）。肥胖亦可导致肥胖低通气综合征（匹克威克综合征）（9）。
+多种内分泌失调似乎与胰岛素抵抗引起的下丘脑-垂体-肾上腺轴的改变有关（10）。肥胖也被认为是多种内分泌疾病（如甲状腺功能减退、皮质醇增多症、性腺功能减退或亢进）的危险因素（11）。
+肥胖除通过生物力学机制（即体重过重增加关节负荷）（12）外，还可因脂肪因子引起的炎症破坏关节软骨，从而促进骨关节炎的发生（13）。
+由于偏见、歧视、不良身体形象和自卑，肥胖会导致社会、经济和心理问题。 例如，人们可能处于就业不足或失业状态。
+肥胖与心理社会问题相关，包括抑郁与心理压力增加（14）。
+
+【并发症参考文献】
+1.Boden G.Obesity and free fatty acids.Endocrinol Metab Clin North Am.2008;37(3):635-ix.doi:10.1016/j.ecl.2008.06.007
+1.Boden G.Obesity and free fatty acids.Endocrinol Metab Clin North Am.2008;37(3):635-ix.doi:10.1016/j.ecl.2008.06.007
+2.Landsberg L, Aronne LJ, Beilin LJ, et al.Obesity-related hypertension: pathogenesis, cardiovascular risk, and treatment: a position paper of The Obesity Society and the American Society of Hypertension.J Clin Hypertens(Greenwich).2013;15(1):14-33.doi:10.1111/jch.12049
+2.Landsberg L, Aronne LJ, Beilin LJ, et al.Obesity-related hypertension: pathogenesis, cardiovascular risk, and treatment: a position paper of The Obesity Society and the American Society of Hypertension.J Clin Hypertens(Greenwich).2013;15(1):14-33.doi:10.1111/jch.12049
+3.Powell-Wiley TM, Poirier P, Burke LE, et al.Obesity and Cardiovascular Disease: A Scientific Statement From the American Heart Association.Circulation.2021;143(21):e984-e1010.doi:10.1161/CIR.0000000000000973
+3.Powell-Wiley TM, Poirier P, Burke LE, et al.Obesity and Cardiovascular Disease: A Scientific Statement From the American Heart Association.Circulation.2021;143(21):e984-e1010.doi:10.1161/CIR.0000000000000973
+4.Rahmani J, Haghighian Roudsari A, Bawadi H, et al.Relationship between body mass index, risk of venous thromboembolism and pulmonary embolism: A systematic review and dose-response meta-analysis of cohort studies among four million participants.Thromb Res.2020;192:64-72.doi:10.1016/j.thromres.2020.05.014
+4.Rahmani J, Haghighian Roudsari A, Bawadi H, et al.Relationship between body mass index, risk of venous thromboembolism and pulmonary embolism: A systematic review and dose-response meta-analysis of cohort studies among four million participants.Thromb Res.2020;192:64-72.doi:10.1016/j.thromres.2020.05.014
+5.Vilahur G, Ben-Aicha S, Badimon L.New insights into the role of adipose tissue in thrombosis.Cardiovasc Res.2017;113(9):1046-1054.doi:10.1093/cvr/cvx086
+5.Vilahur G, Ben-Aicha S, Badimon L.New insights into the role of adipose tissue in thrombosis.Cardiovasc Res.2017;113(9):1046-1054.doi:10.1093/cvr/cvx086
+6.Veasey SC, Rosen IM.Obstructive Sleep Apnea in Adults.N Engl J Med.2019;380(15):1442-1449.doi:10.1056/NEJMcp1816152
+6.Veasey SC, Rosen IM.Obstructive Sleep Apnea in Adults.N Engl J Med.2019;380(15):1442-1449.doi:10.1056/NEJMcp1816152
+7.Schwartz AR, Patil SP, Squier S, et al.Obesity and upper airway control during sleep.J Appl Physiol(1985).2010;108(2):430-435.doi:10.1152/japplphysiol.00919.2009
+7.Schwartz AR, Patil SP, Squier S, et al.Obesity and upper airway control during sleep.J Appl Physiol(1985).2010;108(2):430-435.doi:10.1152/japplphysiol.00919.2009
+8.Yeghiazarians Y, Jneid H, Tietjens JR, et al.Obstructive Sleep Apnea and Cardiovascular Disease: A Scientific Statement From the American Heart Association [published correction appears inCirculation.2021;144(3):e56-e67.doi:10.1161/CIR.0000000000000988
+8.Yeghiazarians Y, Jneid H, Tietjens JR, et al.Obstructive Sleep Apnea and Cardiovascular Disease: A Scientific Statement From the American Heart Association [published correction appears inCirculation.2021;144(3):e56-e67.doi:10.1161/CIR.0000000000000988
+9.Mokhlesi B, Masa JF, Brozek JL, et al.Evaluation and Management of Obesity Hypoventilation Syndrome.An Official American Thoracic Society Clinical Practice Guideline 2019;200(3):e6-e24.doi:10.1164/rccm.201905-1071ST
+9.Mokhlesi B, Masa JF, Brozek JL, et al.Evaluation and Management of Obesity Hypoventilation Syndrome.An Official American Thoracic Society Clinical Practice Guideline 2019;200(3):e6-e24.doi:10.1164/rccm.201905-1071ST
+10.Janssen JAMJL.New Insights into the Role of Insulin and Hypothalamic-Pituitary-Adrenal (HPA) Axis in the Metabolic Syndrome.Int J Mol Sci.2022;23(15):8178.Published 2022 Jul 25.doi:10.3390/ijms23158178
+10.Janssen JAMJL.New Insights into the Role of Insulin and Hypothalamic-Pituitary-Adrenal (HPA) Axis in the Metabolic Syndrome.Int J Mol Sci.2022;23(15):8178.Published 2022 Jul 25.doi:10.3390/ijms23158178
+11.van Hulsteijn LT, Pasquali R, Casanueva F, et al.Prevalence of endocrine disorders in obese patients: systematic review and meta-analysis.Eur J Endocrinol.2020;182(1):11-21.doi:10.1530/EJE-19-0666
+11.van Hulsteijn LT, Pasquali R, Casanueva F, et al.Prevalence of endocrine disorders in obese patients: systematic review and meta-analysis.Eur J Endocrinol.2020;182(1):11-21.doi:10.1530/EJE-19-0666
+12.Thijssen E, van Caam A, van der Kraan PM.Obesity and osteoarthritis, more than just wear and tear: pivotal roles for inflamed adipose tissue and dyslipidaemia in obesity-induced osteoarthritis.Rheumatology(Oxford).2015;54(4):588-600.doi:10.1093/rheumatology/keu464
+12.Thijssen E, van Caam A, van der Kraan PM.Obesity and osteoarthritis, more than just wear and tear: pivotal roles for inflamed adipose tissue and dyslipidaemia in obesity-induced osteoarthritis.Rheumatology(Oxford).2015;54(4):588-600.doi:10.1093/rheumatology/keu464
+13.Nedunchezhiyan U, Varughese I, Sun AR, et al.Obesity, Inflammation, and Immune System in Osteoarthritis.Front Immunol.2022;13:907750.Published 2022 Jul 4.doi:10.3389/fimmu.2022.907750
+13.Nedunchezhiyan U, Varughese I, Sun AR, et al.Obesity, Inflammation, and Immune System in Osteoarthritis.Front Immunol.2022;13:907750.Published 2022 Jul 4.doi:10.3389/fimmu.2022.907750
+14.Steptoe A, Frank P.Obesity and psychological distress.Philos Trans R Soc Lond B Biol Sci.2023;378(1888):20220225.doi:10.1098/rstb.2022.0225
+14.Steptoe A, Frank P.Obesity and psychological distress.Philos Trans R Soc Lond B Biol Sci.2023;378(1888):20220225.doi:10.1098/rstb.2022.0225
+
+【肥胖的诊断】
+体质指数（BMI）
+体质指数（BMI）
+腰围测量
+腰围测量
+身体成分分析
+身体成分分析
+在成年人中，体质指数（BMI）定义为体重（kg）除以身高平方（m2），用于筛查超重或肥胖：
+超重= 25至29.9 kg/m2
+超重= 25至29.9 kg/m2
+I 级肥胖 = 30 至 34.9 kg/m2
+I 级肥胖 = 30 至 34.9 kg/m2
+II 级肥胖 = 35 至 39.9 kg/m2
+II 级肥胖 = 35 至 39.9 kg/m2
+III 级肥胖 = ≥ 40 kg/m2
+III 级肥胖 = ≥ 40 kg/m2
+此类肥胖分类有助于识别前述重大健康风险的人群，但其本身无法判定过度脂肪堆积何时构成健康隐患。
+BMI 是常用工具，计算简便，且在人群研究中与代谢疾病及脂肪量相关疾病存在相关性。7.但 BMI 是粗略的筛查工具，在许多亚人群中存在局限性，尤其是无法区分瘦体重与脂肪量。它容易高估肌肉发达患者的超重 / 肥胖情况，同时低估肌少症患者的超重 / 肥胖情况。有专家认为，BMI临界值应基于种族、性别和年龄而有所不同。世界卫生组织（WHO）与国际糖尿病联盟建议，亚裔人群的 BMI 临界值应低于其他种族（1）。
+为更全面诊断与分类临床肥胖，建议在BMI基础上补充其他人体测量指标（如腰围、腰臀比或腰高比），或在条件允许时直接测量体脂含量（如双能X线吸收法）（2）。此外，若BMI > 40 kg/m²，可推定体脂过量而无需额外进行人体测量确认。
+建议的肥胖分类包括（2）：
+临床前期肥胖：指体脂过多但伴随的健康风险程度可变的状态，此阶段虽尚无器官或组织功能受损的证据，但已增加心血管疾病、部分肿瘤及 2 型糖尿病的发生风险。
+临床前期肥胖：指体脂过多但伴随的健康风险程度可变的状态，此阶段虽尚无器官或组织功能受损的证据，但已增加心血管疾病、部分肿瘤及 2 型糖尿病的发生风险。
+临床肥胖：因过度脂肪堆积引发的慢性疾病；以器官功能改变和/或日常活动能力下降为特征
+临床肥胖：因过度脂肪堆积引发的慢性疾病；以器官功能改变和/或日常活动能力下降为特征
+腰围和代谢综合征的存在似乎比BMI更能预测代谢和心血管并发症的风险（3）。在不同的种族和性别人群中，判断肥胖症并发症高危因素的腰围值有所不同 (4)。
+
+【身体成分分析】
+诊断肥胖时，也会考虑身体成分（体脂与肌肉的百分比）。此方法不是常规临床工作的内容，但是当医生置疑BMI的高值是否缘于肌肉或者脂肪过多时，可以采用人体成分分析进一步诊断。
+当男性体内脂肪水平> 25%时，就被认为患有肥胖症。在女性中，临界值> 32%。
+体脂百分比可以通过测量皮褶厚度（通常是肱三头肌）或计算上臂中部肌肉面积来估算。
+通过生物电阻分析（BIA）可测定体脂的百分比，此方法简单且无创伤性。BIA可直接测量体内水总量，并间接测得体脂百分比。生物电阻抗分析（BIA）在健康人群，以及仅患少数不改变总体水百分比的慢性疾病（如中度肥胖、糖尿病）的人群中最可靠。生物电阻抗分析对植入除颤器的人群是否有风险尚不明确。
+水下称重（流体静力学）是测量体脂百分比最准确的方法。因其费用大而耗时，更多是用于研究而非临床医疗。水下称重时，需先完全呼气才能获得准确体重。
+影像学方法，包括CT、MRI和双能X线骨密度仪（DXA），也能估计体脂的分布和百分比，但通常只用于研究。
+
+【其他检查】
+肥胖患者应筛查常见共病，例如阻塞性睡眠呼吸暂停（OSA）、糖尿病、血脂异常、高血压、脂肪性肝病及抑郁症。筛查工具可以提供帮助；例如，对于阻塞性睡眠呼吸暂停（OSA），临床医师可以使用诸如STOP-BANG问卷（见表阻塞性睡眠呼吸暂停的风险评分）和常使用的呼吸暂停低通气指数（每小时睡眠中发生的呼吸暂停或低通气事件总数）。阻塞性睡眠呼吸暂停常被忽视，肥胖症增加了其发生的危险性。
+
+【诊断参考】
+1.WHO Expert Consultation: Appropriate body-mass index for Asian populations and its implications for policy and intervention strategies.Lancet.2004;363(9403):157-163.doi:10.1016/S0140-6736(03)15268-3
+1.WHO Expert Consultation: Appropriate body-mass index for Asian populations and its implications for policy and intervention strategies.Lancet.2004;363(9403):157-163.doi:10.1016/S0140-6736(03)15268-3
+2.Rubino F, Cummings DE, Eckel RH, et al.Definition and diagnostic criteria of clinical obesity [published correction appears inLancet Diabetes Endocrinol.2025;13(3):221-262.doi:10.1016/S2213-8587(24)00316-4
+2.Rubino F, Cummings DE, Eckel RH, et al.Definition and diagnostic criteria of clinical obesity [published correction appears inLancet Diabetes Endocrinol.2025;13(3):221-262.doi:10.1016/S2213-8587(24)00316-4
+3.Ross R, Neeland IJ, Yamashita S, et al: Waist circumference as a vital sign in clinical practice: a Consensus Statement from the IAS and ICCR Working Group on Visceral Obesity.Nat Rev Endocrinol.2020;16(3):177-189.doi:10.1038/s41574-019-0310-7
+3.Ross R, Neeland IJ, Yamashita S, et al: Waist circumference as a vital sign in clinical practice: a Consensus Statement from the IAS and ICCR Working Group on Visceral Obesity.Nat Rev Endocrinol.2020;16(3):177-189.doi:10.1038/s41574-019-0310-7
+4.Luo J,  Hendryx M, Laddu D, et al.Racial and ethnic differences in anthropometric measures as risk factors for diabetes.Diabetes Care.2019;42(1):126-133.doi:10.2337/dc18-1413
+4.Luo J,  Hendryx M, Laddu D, et al.Racial and ethnic differences in anthropometric measures as risk factors for diabetes.Diabetes Care.2019;42(1):126-133.doi:10.2337/dc18-1413
+
+【肥胖症的治疗】
+膳食调整
+膳食调整
+体育运动
+体育运动
+行为干预
+行为干预
+抗肥胖药物
+抗肥胖药物
+减肥的外科治疗
+减肥的外科治疗
+即使体重减轻5%至10%，也能改善整体健康状况，有助于降低心血管并发症（如高血压、血脂异常、胰岛素抵抗）的发生风险并减轻其严重程度（1），还可能缓解其他并发症和共病（如阻塞性睡眠呼吸暂停、脂肪性肝病、不孕症及抑郁症）的严重程度。
+患者从健康保健专业人员、同伴、家庭成员处获得支持和各种程序计划，有助于他们的体重减轻和体重保持。强调肥胖是一种慢性疾病，而不是由于缺乏自控力而导致的美容问题，有助于使患者寻求可持续的护理，并使临床医生能够提供此类护理。使用 “以人为先” 的语言（如 “肥胖患者” 而非 “肥胖的人”），有助于避免以疾病给患者贴标签，减少病耻感。
+平衡的饮食是减肥和维护的重要措施。
+策略包括：
+减少餐食进量，避免或谨慎选择零食
+减少餐食进量，避免或谨慎选择零食
+多食新鲜水果、蔬菜和沙拉，以替代精制碳水化合物和加工食品
+多食新鲜水果、蔬菜和沙拉，以替代精制碳水化合物和加工食品
+多饮水，以替代软饮料或果汁
+多饮水，以替代软饮料或果汁
+尽量限制饮酒
+尽量限制饮酒
+摄入脱脂或低脂乳制品，属于健康饮食，并有助于提供足量的维生素D。
+摄入脱脂或低脂乳制品，属于健康饮食，并有助于提供足量的维生素D。
+减肥的最佳饮食方案长期备受争议。低热量、高膳食纤维、适度能量限制并结合优质瘦蛋白的饮食模式，被认为在长期体重控制方面效果最佳（2）。低升糖指数的食物 和海洋鱼油或植物来源的单不饱和脂肪（如橄榄油）可降低患心血管疾病和糖尿病的风险。
+膳食替代有助减轻体重并维持，可以持续进行或者间断进行。
+过度限制的饮食难以坚持，也无法实现长期减重。限制热量摄入低于基础能量消耗的50％（BEE）的膳食，称作极低热量膳食，可以低至800卡/天。
+能量消耗和代谢率随饮食和活动而变化。限制性饮食可能实现短期小幅减重；但瘦素、胰岛素、胃抑制多肽（GIP）、饥饿素等激素水平会发生变化，促进体重反弹。在对低热量饮食的长期分析中，三分之一到三分之二的节食者恢复的体重比最初减掉的体重还要多（3）。
+
+【体育运动】
+运动可增加能量消耗、基础代谢率与饮食诱导的产热。运动似乎还能调节食欲，使其更贴合热量需求。与体育运动有关的其他优点包括
+增加胰岛素敏感性
+增加胰岛素敏感性
+改善血脂成分结构
+改善血脂成分结构
+降低血压
+降低血压
+更好的有氧适能
+更好的有氧适能
+促进心理健康
+促进心理健康
+减少乳腺癌和结肠癌的风险
+减少乳腺癌和结肠癌的风险
+延长寿命
+延长寿命
+运动（包括力量训练）可增加肌肉量。因为在休息时肌肉要比脂肪燃烧更多的热量，增加肌肉重量能导致基础代谢率持续增加。体育锻炼令人愉快且有趣，因此更容易坚持。有氧与力量训练结合的效果优于单一训练。指南建议150分钟/周的体育运动对健康有益；300至360分钟/周的体育运动有助于减肥和维持体重。制定更多体育运动的生活方式可以有助于减肥和维持体重。
+
+【行为干预】
+临床医生可以推荐不同的行为干预措施，帮助患者减轻体重 (4)。这些措施包括:
+支持措施
+支持措施
+自我监控
+自我监控
+压力管理
+压力管理
+应急管理
+应急管理
+解决问题
+解决问题
+控制刺激
+控制刺激
+支持可能来自一个团体，朋友或家庭成员。参与支持小组可提高生活方式改变的依从性，进而增加减重效果。参加小组会议越频繁，获得的支持、动力、监督越多，责任感越强，减重效果越好。患者可以通过社交媒体与临床医生联系来获得支持。
+自我监控包括保持膳食记录（包括食品中热量的数量），定期称重，观察和记录行为模式。需记录的其他有用信息包括：进食的时间与地点、是否有他人在场、情绪状态。临床医生可提供反馈，指导患者如何改善饮食习惯。
+压力管理教会病人找出造成压力的原因，并制定相应的缓解措施，这些措施并不涉及饮食（如散步，冥想，深呼吸）。
+应急管理包括对积极的行为给予具体的激励（例如，增加步行时间或减少某些食物的消费）。激励措施可由他人提供（如支持小组成员或医护人员），也可由个人给予自己（如购买新衣服或音乐会门票）。口头奖惩（赞美）也可能是有用的。
+解决问题包括识别并提前规划可能增加不健康饮食风险的场景（如旅行、外出就餐），或减少体力活动机会的场景（如长途驾驶）。
+控制刺激包括确定影响患者实现健康的膳食和积极生活方式的障碍，并且制定相应的措施战略来克服这些困难。例如，人们可通过避免经过快餐店或不在家中储存甜食来减少暴饮暴食的诱因。为养成更活跃的生活方式，可培养活跃的爱好（如园艺）、参加固定的集体活动（如健身课、运动队）、增加步行、养成爬楼梯而非乘电梯的习惯、将车停在停车场远端（增加步行距离）。
+基于技术的资源，如移动设备和其他的技术设备也可能有助于坚持改变生活方式和达到减肥目的。这些设备和方法可以帮助患者建立减肥的目标，监测其进展情况，跟踪食物摄入量和记录体育运动量。
+
+【抗肥胖药物】
+对于 BMI > 27 kg/m² 且伴有合并症或 BMI ≥ 30 kg/m² 不伴有合并症的患者，应考虑采用药物治疗肥胖（5）。在开具处方前，临床医生必须识别可能受药物影响的合并症（例如，糖尿病、癫痫症、阿片类药物使用障碍）以及可能促进体重增加的合并用药。患者应始终接受有关改变生活方式的建议，并应咨询营养师，同时进行医学减肥治疗。
+大多数抗肥胖药物属于以下类别之一：
+营养刺激激素类（NuSH）药物
+营养刺激激素类（NuSH）药物
+中枢神经系统兴奋剂或厌食剂（例如芬特明）
+中枢神经系统兴奋剂或厌食剂（例如芬特明）
+抗抑郁药、多巴胺再摄取抑制剂或阿片类拮抗剂（例如安非他酮、纳曲酮）
+抗抑郁药、多巴胺再摄取抑制剂或阿片类拮抗剂（例如安非他酮、纳曲酮）
+胃肠道药物（例如奥利司他、胰高血糖素样肽 1 [GLP-1] 激动剂）
+胃肠道药物（例如奥利司他、胰高血糖素样肽 1 [GLP-1] 激动剂）
+其他（例如托吡酯、二甲双胍、钠-葡萄糖协同转运蛋白 2 [SGLT2] 抑制剂）
+其他（例如托吡酯、二甲双胍、钠-葡萄糖协同转运蛋白 2 [SGLT2] 抑制剂）
+模拟或增强自然产生的激素来调节食欲和体内平衡的药物（如GLP-1激动剂）被归类为“营养刺激激素”（NuSH）药物。
+不同药物的体重减轻、对合并症的影响和不良反应情况差异很大。
+必须警告患者，停止长期抗肥胖药物可能会导致体重反弹。
+具体药物包括：
+奥利司他
+奥利司他
+芬特明/托吡酯
+芬特明/托吡酯
+纳曲酮/安非他酮。
+纳曲酮/安非他酮。
+利拉鲁肽
+利拉鲁肽
+索马鲁肽
+索马鲁肽
+Tirzepatide
+Tirzepatide
+奥利司他抑制胰脂肪酶，减少肠道对脂肪的吸收，改善血糖和血脂。由于奥利司他不被吸收，因此全身性副作用很少见。常见的副作用有肠胀气、大便油腻和腹泻，但往往在治疗的第二年症状缓解。每天应服用 3 次，与含脂肪的膳食一起服用。应在服用奥利司他之前或之后至少2小时服用维生素补充剂，每天服用三次。禁忌证为吸收不良和胆汁淤积。患有肠易激综合征和其他胃肠道疾病的患者可能难以耐受奥利司他。奥利司他是非处方药。
+芬特明是一种中枢性食欲抑制剂。常见的副作用包括血压和心率升高、失眠、焦虑和便秘。芬特明不应用于既往存在心血管疾病、控制不佳的高血压、甲状腺功能亢进或有物质使用障碍史的患者。每天两次的剂量可以很好地控制全天的食欲。
+芬特明联合托吡酯（用于治疗癫痫和偏头痛）已获准长期使用。由于存在出生缺陷风险，育龄女性仅在采取避孕措施且每月进行妊娠检测的情况下，才能使用该联合方案。其他潜在的不良反应包括便秘、睡眠障碍、认知功能受损、味觉异常以及心率增快。长期数据显示，合并症整体有所改善，包括心血管和代谢指标的提升（6）。
+纳曲酮/安非他酮缓释片剂可以用作减肥辅助剂。纳曲酮（常用于帮助戒酒）是一种阿片类拮抗剂，被认为可以阻断对大脑饱腹感通路的负面反馈。安非他酮（用于治疗抑郁症、辅助戒烟）可通过下丘脑的肾上腺素能与多巴胺能活性，减少食欲。最常见的不良反应安非他酮包括恶心、呕吐、头痛以及收缩压和舒张压轻度升高。安非他酮的禁忌症包括难以控制的高血压，以及癫痫发作史或危险因素，因为安非他酮可以降低癫痫的发作阈值。
+利拉鲁肽是一种胰高血糖素样肽 1 (GLP-1) 受体激动剂，最初用于治疗 2 型糖尿病 (7)。利拉鲁肽通过增强葡萄糖介导的胰腺胰岛素释放来控制血糖；利拉鲁肽还能刺激饱腹感并减少食物摄入。利拉鲁肽每天注射一次，并在 5 周内逐渐增加剂量。常见不良反应包括恶心和呕吐；利拉鲁肽的警示内容包括急性胰腺炎及甲状腺C细胞肿瘤的风险。利拉鲁肽不应用于有髓样甲状腺癌个人或家族病史，或患有多发性内分泌腺瘤2型综合征的患者。
+司马鲁肽是一种 GLP-1 受体激动剂，被批准用于治疗 2 型糖尿病。 司美鲁肽增强葡萄糖介导的胰岛素释放，并通过影响下丘脑的食欲中枢来减少食欲和能量摄入。皮下注射司美格鲁肽2.4 mg，68 周时平均体重减轻 14.9%，而安慰剂组为 2.4%（8）。服用司美格鲁肽的患者在心血管危险因素以及患者报告的身体机能方面也有更大的改善。与利拉鲁肽一样，索马鲁肽最常见的不良反应包括恶心和腹泻，这些不良反应通常是短暂的，严重程度为轻度至中度。司美格鲁肽的警示包括甲状腺C细胞肿瘤、低血糖及胰腺炎的风险。此外，有2型多发性内分泌瘤变综合征（MEN 2）或甲状腺髓样癌个人或家族史的患者不应服用本品。
+替尔泊肽是一种联合胃抑肽（GIP）及GLP-1受体激动剂，用于治疗2型糖尿病。Ⅲ期临床试验显示，该药可在无糖尿病患者中显著且持久地降低体重（9）。还观察到心脏代谢疾病有所改善 (10)。该药可能导致胰腺炎、低血糖，以及潜在的甲状腺C细胞肿瘤（基于动物研究结果，而非人体数据），因此不应用于有髓样甲状腺癌个人或家族病史，或患有多发性内分泌腺瘤2型综合征的患者（11）。
+所有 GLP-1 激动剂均与恶心、呕吐和胃排空延迟等不良反应有关，这会增加误吸的风险。这些症状通常会随着时间逐渐改善。此前，美国麻醉医师学会术前禁食工作组建议：每日给药的GLP-1受体激动剂应于手术当日停用，而每周给药的制剂应于手术前一周停用（12）。更新后的指南现建议，大多数患者可在手术前继续服用这些药物并延长禁食时间，权衡误吸风险与潜在高血糖(13, 14)。
+研究表明，如果减肥手术后体重恢复，抗肥胖药物可以安全有效地减轻体重。研究使用抗肥胖药物（例如 GLP-1 受体激动剂）作为过渡疗法代谢和减肥手术正在进行 （15）。许多医疗中心通过多学科项目，提供全面的减重医疗与手术诊疗服务。
+大多数非处方减肥疗法不被推荐，因为它们没有被证明是有效的。此类治疗的例子包括藤黄果、左旋肉碱、壳聚糖、果胶、葡萄籽提取物、七叶树、吡啶甲酸铬、墨角藻、银杏叶。部分物质（如咖啡因、麻黄碱、瓜拉纳、苯丙醇胺）的不良反应大于其益处。此外，其中一些治疗方法是掺假的或含有美国食品和药物管理局禁止的有害物质(例如，麻黄，苦橙，西布曲明)。
+
+【手术治疗】
+对于重度肥胖症患者，减肥手术是最有效的治疗方法。
+
+【治疗参考文献】
+1.Arnett DK, Blumenthal RS, Albert, MA, et al.2019 ACC/AHA guideline on the primary prevention of cardiovascular disease: A report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.Circulation.2019;140(11):e596-e646.doi: 10.1161/CIR.0000000000000678
+1.Arnett DK, Blumenthal RS, Albert, MA, et al.2019 ACC/AHA guideline on the primary prevention of cardiovascular disease: A report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.Circulation.2019;140(11):e596-e646.doi: 10.1161/CIR.0000000000000678
+2.Kim JY.Optimal Diet Strategies for Weight Loss and Weight Loss Maintenance.J Obes Metab Syndr.2021;30(1):20-31.doi:10.7570/jomes20065
+2.Kim JY.Optimal Diet Strategies for Weight Loss and Weight Loss Maintenance.J Obes Metab Syndr.2021;30(1):20-31.doi:10.7570/jomes20065
+3.Mann T, Tomiyama AJ, Westling E, et al.Medicare's search for effective obesity treatments: Diets are not the answer.Am Psychol.2007;62(3):220–233.doi: 10.1037/0003-066X.62.3.220
+3.Mann T, Tomiyama AJ, Westling E, et al.Medicare's search for effective obesity treatments: Diets are not the answer.Am Psychol.2007;62(3):220–233.doi: 10.1037/0003-066X.62.3.220
+4.US Preventive Services Task Force.Behavioral weight loss interventions to prevent obesity-related morbidity and mortality in adults.JAMA.2018;320 (11):1163–1171.doi: 10.1001/jama.2018.13022
+4.US Preventive Services Task Force.Behavioral weight loss interventions to prevent obesity-related morbidity and mortality in adults.JAMA.2018;320 (11):1163–1171.doi: 10.1001/jama.2018.13022
+5.Garvey WT, Mechanick JI, Brett EM, et al.American Association of Clinical Endocrinologists and the American College of Endocrinology comprehensive clinical practice guidelines for medical care of patients with obesity.Endocr Pract.2016;22 Suppl 3:1–203.doi: 10.4158/EP161365.GL
+5.Garvey WT, Mechanick JI, Brett EM, et al.American Association of Clinical Endocrinologists and the American College of Endocrinology comprehensive clinical practice guidelines for medical care of patients with obesity.Endocr Pract.2016;22 Suppl 3:1–203.doi: 10.4158/EP161365.GL
+6.Garvey WT, Ryan DH, Look M, et al.Two-year sustained weight loss and metabolic benefits with controlled-release phentermine/topiramate in obese and overweight adults (SEQUEL): a randomized, placebo-controlled, phase 3 extension study.Am J Clin Nutr.2012;95(2):297-308.doi:10.3945/ajcn.111.024927
+6.Garvey WT, Ryan DH, Look M, et al.Two-year sustained weight loss and metabolic benefits with controlled-release phentermine/topiramate in obese and overweight adults (SEQUEL): a randomized, placebo-controlled, phase 3 extension study.Am J Clin Nutr.2012;95(2):297-308.doi:10.3945/ajcn.111.024927
+7.Mehta A, Marso SP, Neeland, IJ.Liraglutide for weight management: A critical review of the evidence.Obes Sci Pract.2017;3(1):3–14.doi: 10.1002/osp4.84
+7.Mehta A, Marso SP, Neeland, IJ.Liraglutide for weight management: A critical review of the evidence.Obes Sci Pract.2017;3(1):3–14.doi: 10.1002/osp4.84
+8.Wilding JPH, Batterham RL, Calanna S, et al.Once-weekly semaglutide in adults with overweight or obesity.N Engl J Med.2021;18;384(11):989.doi: 10.1056/NEJMoa2032183
+8.Wilding JPH, Batterham RL, Calanna S, et al.Once-weekly semaglutide in adults with overweight or obesity.N Engl J Med.2021;18;384(11):989.doi: 10.1056/NEJMoa2032183
+9.Aronne LJ, Sattar N, Horn DB, et al.Continued Treatment With Tirzepatide for Maintenance of Weight Reduction in Adults With Obesity: The SURMOUNT-4 Randomized Clinical Trial.JAMA.2024;331(1):38-48.doi:10.1001/jama.2023.24945
+9.Aronne LJ, Sattar N, Horn DB, et al.Continued Treatment With Tirzepatide for Maintenance of Weight Reduction in Adults With Obesity: The SURMOUNT-4 Randomized Clinical Trial.JAMA.2024;331(1):38-48.doi:10.1001/jama.2023.24945
+10.Jastreboff AM, Aronne LJ, Ahmad NN, et al.Tirzepatide once weekly for the treatment of obesity.N Engl J Med.2022;21;387 (3):205–216.doi: 10.1056/NEJMoa2206038
+10.Jastreboff AM, Aronne LJ, Ahmad NN, et al.Tirzepatide once weekly for the treatment of obesity.N Engl J Med.2022;21;387 (3):205–216.doi: 10.1056/NEJMoa2206038
+11.Bezin J, Gouverneur A, Pénichon M, et al.GLP-1 Receptor Agonists and the Risk of Thyroid Cancer.Diabetes Care.2023;46(2):384-390.doi:10.2337/dc22-1148
+11.Bezin J, Gouverneur A, Pénichon M, et al.GLP-1 Receptor Agonists and the Risk of Thyroid Cancer.Diabetes Care.2023;46(2):384-390.doi:10.2337/dc22-1148
+12.Joshi GP, Abdelmalak BB, Weigel WA, et al.American Society of Anesthesiologists consensus-based guidance on preoperative management of patients (adults and children) on glucagon-like peptide-1 (GLP-1) receptor agonists.American Society of Anesthesiologists 2023.
+12.Joshi GP, Abdelmalak BB, Weigel WA, et al.American Society of Anesthesiologists consensus-based guidance on preoperative management of patients (adults and children) on glucagon-like peptide-1 (GLP-1) receptor agonists.American Society of Anesthesiologists 2023.
+13.El-Boghdadly K, Dhesi J, Fabb P, et al.Elective peri-operative management of adults taking glucagon-like peptide-1 receptor agonists, glucose-dependent insulinotropic peptide agonists and sodium-glucose cotransporter-2 inhibitors: a multidisciplinary consensus statement: A consensus statement from the Association of Anaesthetists, Association of British Clinical Diabetologists, British Obesity and Metabolic Surgery Society, Centre for Perioperative Care, Joint British Diabetes Societies for Inpatient Care, Royal College of Anaesthetists, Society for Obesity and Bariatric Anaesthesia and UK Clinical Pharmacy Association.Anaesthesia.2025;80(4):412-424.doi:10.1111/anae.16541
+13.El-Boghdadly K, Dhesi J, Fabb P, et al.Elective peri-operative management of adults taking glucagon-like peptide-1 receptor agonists, glucose-dependent insulinotropic peptide agonists and sodium-glucose cotransporter-2 inhibitors: a multidisciplinary consensus statement: A consensus statement from the Association of Anaesthetists, Association of British Clinical Diabetologists, British Obesity and Metabolic Surgery Society, Centre for Perioperative Care, Joint British Diabetes Societies for Inpatient Care, Royal College of Anaesthetists, Society for Obesity and Bariatric Anaesthesia and UK Clinical Pharmacy Association.Anaesthesia.2025;80(4):412-424.doi:10.1111/anae.16541
+14.Kindel TL, Wang AY, Wadhwa A, et al.Multisociety clinical practice guidance for the safe use of glucagon-like peptide-1 receptor agonists in the perioperative period.Surg Obes Relat Dis.2024;20(12):1183-1186.doi:10.1016/j.soard.2024.08.033
+14.Kindel TL, Wang AY, Wadhwa A, et al.Multisociety clinical practice guidance for the safe use of glucagon-like peptide-1 receptor agonists in the perioperative period.Surg Obes Relat Dis.2024;20(12):1183-1186.doi:10.1016/j.soard.2024.08.033
+15.Mok J, Mariam OA, Brown A, et al.Safety and efficacy of liraglutide, 3.0 mg, once daily vs placebo in patients with poor weight loss following metabolic surgery: The BARI-OPTIMISE randomized clinical trial.JAMA Surg.2023;158(10):1003–1011.doi:10.1001/jamasurg.2023.2930
+15.Mok J, Mariam OA, Brown A, et al.Safety and efficacy of liraglutide, 3.0 mg, once daily vs placebo in patients with poor weight loss following metabolic surgery: The BARI-OPTIMISE randomized clinical trial.JAMA Surg.2023;158(10):1003–1011.doi:10.1001/jamasurg.2023.2930
+
+【特殊肥胖人群】
+应特别关注儿童和老年人的肥胖问题。
+儿童肥胖的定义是 BMI 大于第 95 个百分位。对于肥胖儿童，由于疾病持续时间较长，因此更容易出现并发症。许多儿童和青少年符合超重或肥胖的诊断标准。（参见青少年肥胖。）与成人类似，儿童肥胖相关的并发症包括高血压、血脂异常、糖尿病和关节问题。
+婴儿肥胖症的高危因素包括低出生体重(1) 以及孕妇肥胖症、糖尿病和吸烟。
+青春发育期后，食物摄入量增加，多余的热量在男孩被用来增加蛋白质的储存，但在女孩则用于增加脂肪的储存。
+肥胖症儿童在早期就可能出现心理并发症（如自卑感、社交困难、抑郁）和肌肉骨骼方面的并发症。一些肌肉骨骼并发症，如股骨头骨骺滑脱，是儿童特有的。其他早期并发症可能包括阻塞性睡眠呼吸暂停、胰岛素抵抗、高脂血症以及代谢功能障碍相关脂肪性肝病（MASLD）（原称非酒精性脂肪性肝炎）。此外，肥胖症儿童在成年期发生心血管系统、呼吸系统、代谢和肝脏等与肥胖相关并发症的风险增加。
+儿童肥胖症持续进入成人期的可能性与其初始发生的时间有关。在对几项大型队列研究的荟萃分析中，55%的肥胖儿童在青春期继续肥胖，70%在30岁以上继续肥胖（2）。
+儿童和青少年肥胖的治疗涉及生活方式的改变，以及对于严重肥胖儿童的代谢和减肥手术。儿童期参加体育活动能养成长期热爱运动的生活方式。 限制久坐的活动（如看电视，使用电脑或手持设备）也有帮助。通常应避免使用药物和手术，但如果肥胖并发症危及生命，则可能有必要采用。
+儿童期控制体重和预防肥胖的措施对公共健康具有深远意义。这些措施应在家庭、学校和初级保健中实施。然而，生活方式的改变通常不会带来永久性体重减轻。
+美国儿科学会（AAP）指南建议，对于患有重度肥胖（定义为BMI ≥ 40，或BMI > 35且伴有与肥胖相关的严重健康并发症）的儿童和青少年，应考虑采用代谢及减重手术治疗，并应由多学科团队共同管理。主要的代谢和减肥外科学会也有类似的建议；然而，代谢和减肥手术并不常用于儿童和青少年。障碍包括：该人群对减重手术的病耻感，以及缺乏可接诊肥胖儿童与青少年的机构和受训临床医生 (3）。
+在美国，老年肥胖人口的百分比一直在增加。
+随着年龄增长，体脂增加并重新分布至腹部，肌肉量减少，这主要由缺乏体力活动导致，但肥胖时产生的合成代谢激素（雄激素、生长激素）减少及炎症细胞因子，也可能起作用。
+老年人肥胖症并发症的危险性根据以下情况有所不同：
+体内脂肪分布（腹部脂肪分布增加）
+体内脂肪分布（腹部脂肪分布增加）
+肥胖症持续的时间和严重程度
+肥胖症持续的时间和严重程度
+肌肉瘦缩的情况
+肌肉瘦缩的情况
+在老年人中，腰围增加可预测并发症（例如高血压、糖尿病和冠心病）的发病率和死亡风险，比BMI更好。随着年龄的增长，脂肪往往在腰部堆积更多。
+对于老年人，医生可能建议减少热量摄入、增加体力活动。然而，如果老年患者希望大幅度减少热量摄入，他们的饮食调整应当在医生监护下进行。体育活动还能增进肌力、耐力和改善全身健康状态；体育活动也能降低慢病（如糖尿病）的发生风险。体育活动应包括力量训练、平衡训练及耐力锻炼。
+代谢和减肥手术历来较少用于老年患者。一项大型回顾性研究比较了＜65 岁与≥65 岁接受袖状胃切除术或胃旁路术患者的结局，两组并发症发生率相似。尽管老年患者的美国麻醉医师协会 (ASA) 评分往往较高且基线合并症较多，但手术后的发病率和死亡率在各组之间没有差异。在≥65 岁组中，减重手术对减重及肥胖相关合并症的积极作用存在，但不如＜65 岁组显著。总体而言，数据提示年龄本身不应被视为代谢与减重手术的禁忌证（4）。
+
+【特殊人群参考】
+1.Jornayvaz FR, Vollenweider P, Bochud M, et al.Low birth weight leads to obesity, diabetes and increased leptin levels in adults: The CoLaus study.Cardiovasc Diabetol.2016;15:73.doi: 10.1186/s12933-016-0389-2
+1.Jornayvaz FR, Vollenweider P, Bochud M, et al.Low birth weight leads to obesity, diabetes and increased leptin levels in adults: The CoLaus study.Cardiovasc Diabetol.2016;15:73.doi: 10.1186/s12933-016-0389-2
+2.Simmonds M, Llewellyn A, Owen ACG, Woolacott N.Predicting adult obesity from childhood obesity: A systematic review and meta-analysis.Obes Rev.2016;17(2):95–107. doi: 10.1111/obr.12334 Epub 2015 Dec 23.
+2.Simmonds M, Llewellyn A, Owen ACG, Woolacott N.Predicting adult obesity from childhood obesity: A systematic review and meta-analysis.Obes Rev.2016;17(2):95–107. doi: 10.1111/obr.12334 Epub 2015 Dec 23.
+3.Elkhoury D, Elkhoury C, Gorantla VR.Improving access to child and adolescent weight loss surgery: A review of updated National and International Practice Guidelines.Cureus.2023;15 (4):e38117.doi: 10.7759/cureus.38117
+3.Elkhoury D, Elkhoury C, Gorantla VR.Improving access to child and adolescent weight loss surgery: A review of updated National and International Practice Guidelines.Cureus.2023;15 (4):e38117.doi: 10.7759/cureus.38117
+4.Iranmanesh P, Boudreau V, Ramji K, et al. Outcomes of bariatric surgery in elderly patients: A registry-based cohort study with 3-year follow-up.Int J Obes (Lond).2022;46(3):574-580.doi:10.1038/s41366-021-01031-w
+4.Iranmanesh P, Boudreau V, Ramji K, et al. Outcomes of bariatric surgery in elderly patients: A registry-based cohort study with 3-year follow-up.Int J Obes (Lond).2022;46(3):574-580.doi:10.1038/s41366-021-01031-w
+
+【肥胖的预后】
+如果不及时治疗，肥胖就会恶化。肥胖症并发症的发生率和严重性同以下因素有关:
+脂肪的绝对量
+脂肪的绝对量
+脂肪分布
+脂肪分布
+净肌肉量
+净肌肉量
+减重后，大多数人会在 5 年内恢复至治疗前体重，因此肥胖需要像其他慢性疾病一样，进行终身管理。此外，当停止服用抗肥胖药物时，患者的体重往往会反弹。
+
+【预防肥胖】
+有规律的体育锻炼和健康的饮食方式能促进全面健康和控制体重，也有助于预防糖尿病和肥胖症。即或是体重下降不明显，但是能降低患心血管疾病的危险性。摄入膳食纤维可以降低患结肠癌和心血管疾病的危险性。
+此外，充足和高质量的睡眠、调整紧张情绪、适量控制酒类等也是重要的预防措施。然而，许多生物和社会经济因素是人无法控制的。
+如果可能，患者应避免服用与体重增加相关的药物。常见的促体重增加药物包括部分抗精神病药（如利培酮、锂剂、喹硫平、奥氮平）、抗抑郁药（如西酞普兰、度洛西汀）、助眠药（如唑吡坦、曲唑酮）、抗癫痫药（如加巴喷丁）以及糖皮质激素。
+在美国，肥胖症及其并发症每年导致多达30万人过早死亡，使其成为仅次于吸烟的可预防性死亡原因。
+在美国，肥胖症及其并发症每年导致多达30万人过早死亡，使其成为仅次于吸烟的可预防性死亡原因。
+热量摄入过多和体育运动过少是大多数肥胖症发生的原因，但是遗传易感性和各种疾病（包括进食障碍）也可能是影响因素。
+热量摄入过多和体育运动过少是大多数肥胖症发生的原因，但是遗传易感性和各种疾病（包括进食障碍）也可能是影响因素。
+采用BMI和腰围测量的方法筛查肥胖症，必要时可以通过测量皮褶厚度，或使用生物电阻抗分析进行身体成分分析。
+采用BMI和腰围测量的方法筛查肥胖症，必要时可以通过测量皮褶厚度，或使用生物电阻抗分析进行身体成分分析。
+筛查肥胖患者常见的合并症，如阻塞性睡眠呼吸暂停、糖尿病、血脂异常、高血压、脂肪肝病和抑郁症。
+筛查肥胖患者常见的合并症，如阻塞性睡眠呼吸暂停、糖尿病、血脂异常、高血压、脂肪肝病和抑郁症。
+鼓励患者通过改变自己的膳食、增加体育运动，以及行为干预等途径，争取减轻体重5％至10％。
+鼓励患者通过改变自己的膳食、增加体育运动，以及行为干预等途径，争取减轻体重5％至10％。
+若 BMI≥30，或 BMI≥27 且合并并发症（如高血压、胰岛素抵抗），可考虑抗肥胖药物；但对于重度肥胖，手术效果最佳。
+若 BMI≥30，或 BMI≥27 且合并并发症（如高血压、胰岛素抵抗），可考虑抗肥胖药物；但对于重度肥胖，手术效果最佳。
+同时，应该鼓励所有患者进行体育锻炼、健康饮食、保障充足睡眠，以及缓解心理压力。
+同时，应该鼓励所有患者进行体育锻炼、健康饮食、保障充足睡眠，以及缓解心理压力。

@@ -1,0 +1,54 @@
+标题：十二指肠梗阻
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-gastrointestinal-anomalies/duodenal-obstruction
+============================================================
+
+(参见先天性胃肠道畸形概述。）
+
+【十二指肠闭锁】
+十二指肠闭锁是第二常见的胃肠道闭锁。估计发病率为万分之一（1)。十二指肠闭锁是由于胚胎时期十二指肠导管化失败所致。 这种失败可能与缺血事件或遗传因素有关。
+与其他肠闭锁不同，十二指肠闭锁通常与其他先天性异常相关。大约 25% 至 40% 的十二指肠闭锁婴儿患有唐氏综合症（1）。其他相关畸形包括VACTERL综合征（v椎体异常、a肛门闭锁、c心脏畸形、t食管气管瘘、e食管闭锁、r肾脏异常和r桡骨发育不全、以及l肢体异常）、肠旋转不良、环状胰腺、胆道畸形、以及下颌面畸形。
+产前若发现羊水过多和/或胃扩张，应怀疑十二指肠闭锁的可能。产前超声检查可以在高达80%的病例中检测到双泡征（大胃泡和小十二指肠近端泡）（2）。
+该超声显示胎儿十二指肠闭锁的双泡征。
+DR NAJEEB LAYYOUS/SCIENCE PHOTO LIBRARY
+此放射影像显示了典型的“双泡征”，为完全性十二指肠梗阻的特征性表现。较小的气泡代表近端扩张的十二指肠（白色箭头）；较大的气泡代表胃（黑色箭头）。该征象可见于十二指肠闭锁、十二指肠膜性狭窄、环状胰腺以及十二指肠前位门静脉等情况。罕见情况下，肠旋转不良患者因Ladd索带（Ladd韧带）形成可导致完全性十二指肠梗阻。
+产后，患有十二指肠闭锁的婴儿会出现喂养困难和呕吐症状，呕吐物可能呈胆汁样。根据症状和经典的双泡 X 光片结果怀疑存在该诊断，即一个气泡位于胃中，另一个气泡位于近端十二指肠中，且远端肠道中几乎没有空气。虽然上消化道造影检查可提供确诊依据，但必须由具有儿童检查经验的放射科医师谨慎操作以避免误吸；若需立即手术，则通常无需进行此项检查。如果手术延迟（例如，由于其他的医疗问题，如呼吸窘迫综合征，需要稳定病情），应行造影灌肠，以确认该双泡征不是由于旋转不良所引起。
+一旦可疑该疾病，婴儿不能经口喂养，需要置入鼻胃管以给胃减压。
+手术是根治性治疗方法。
+
+【十二指肠狭窄】
+发生率低于十二指肠闭锁，但具有相似的临床表现，需要手术治疗。也常伴有唐氏综合征。
+
+【胆总管囊肿】
+胆总管囊肿能够从外部压迫十二指肠。发病率从美国或欧洲的约十万分之一到日本的一万三千分之一不等（3）。超过一半的报告病例发生在日本。有证据表明，胆总管囊肿的发病率正在增加 (4)。
+先天性胆总管囊肿典型者可表现为腹痛（在新生儿一个非常难以推断的发现）、肿块、黄疸三联征。若囊肿较大，亦可表现为不同程度的十二指肠梗阻。新生儿可出现胆汁淤积。在某些婴儿中，可伴发胰腺炎。
+超声可以诊断胆总管囊肿。这些囊肿可以通过使用磁共振胰胆管造影术，内镜下逆行胰胆管造影术或内窥镜超声波检查进一步明确诊断。
+胆总管囊肿的治疗是手术治疗，需要完全切除囊肿，因为囊肿残留物中发生癌症的风险很高（7％~30％）(5,6)。最常采用的外科手术是Roux-en-Y肝空肠吻合术。该手术通常在腹腔镜下完成。最近的一些研究指出，机器人辅助手术可能会改善结果。完全切除可降低癌症风险，但不能完全消除（7）。
+
+【环状胰腺】
+环状胰腺是一种罕见的先天性异常（5至15/100,000活产）（8），并且通常与唐氏综合征有关。胰腺组织包围十二指肠第二段，引起十二指肠梗阻。
+大约三分之二的受影响者仍无症状。在出现症状的患者中，大多数于新生儿期发病，但临床表现也可能延迟至成年期才出现。新生儿存在喂养问题和可能出现胆汁性呕吐。
+X线片上出现十二指肠闭锁患儿可见的相同双泡征，那么就可以考虑环状胰腺的诊断。 也可以通过上消化道造影，更确切地是通过CT或磁共振胰胆管造影来做出诊断。年龄较大的儿童可行ERCP检查
+环状胰腺的治疗是通过十二指肠吻合术、十二指肠空肠吻合术或胃空肠吻合术绕开环状胰腺。 由于可引起胰腺炎并发症和胰瘘形成，应避免切除胰腺。
+
+【肠旋转不良】
+由于肠旋转不良引起的十二指肠梗阻很少见，仅占“有症状”肠旋转不良婴儿的一部分（1/2500至6000）（9）。
+
+【参考文献】
+1.Bethell GS, Long AM, Knight M, Hall NJ; BAPS-CASS.Congenital duodenal obstruction in the UK: a population-based study.Arch Dis Child Fetal Neonatal Ed.2020;105(2):178-183.doi:10.1136/archdischild-2019-317085
+1.Bethell GS, Long AM, Knight M, Hall NJ; BAPS-CASS.Congenital duodenal obstruction in the UK: a population-based study.Arch Dis Child Fetal Neonatal Ed.2020;105(2):178-183.doi:10.1136/archdischild-2019-317085
+2.Engwall-Gill AJ, Zhou AL, Penikis AB, et al.Prenatal sonography in suspected proximal gastrointestinal obstructions: Diagnostic accuracy and neonatal outcomes.J Pediatr Surg.2023;58(6):1090-1094.doi: 10.1016/j.jpedsurg.2023.02.029
+2.Engwall-Gill AJ, Zhou AL, Penikis AB, et al.Prenatal sonography in suspected proximal gastrointestinal obstructions: Diagnostic accuracy and neonatal outcomes.J Pediatr Surg.2023;58(6):1090-1094.doi: 10.1016/j.jpedsurg.2023.02.029
+3.Soares KC, Kim Y, Spolverato G, et al.Presentation and clinical outcomes of choledochal cysts in children and adults: a multi-institutional analysis.JAMA Surg.2015;150(6):577-584.doi:10.1001/jamasurg.2015.0226
+3.Soares KC, Kim Y, Spolverato G, et al.Presentation and clinical outcomes of choledochal cysts in children and adults: a multi-institutional analysis.JAMA Surg.2015;150(6):577-584.doi:10.1001/jamasurg.2015.0226
+4.Ohashi T, Wakai T, Kubota M, et al.Risk of subsequent biliary malignancy in patients undergoing cyst excision for congenital choledochal cysts.J Gastroenterol Hepatol.2013;28(2):243-247.doi:10.1111/j.1440-1746.2012.07260.x
+4.Ohashi T, Wakai T, Kubota M, et al.Risk of subsequent biliary malignancy in patients undergoing cyst excision for congenital choledochal cysts.J Gastroenterol Hepatol.2013;28(2):243-247.doi:10.1111/j.1440-1746.2012.07260.x
+5.Søreide K, Søreide JA.Bile duct cyst as precursor to biliary tract cancer.Ann Surg Oncol.2007;14(3):1200-1211.doi:10.1245/s10434-006-9294-3
+5.Søreide K, Søreide JA.Bile duct cyst as precursor to biliary tract cancer.Ann Surg Oncol.2007;14(3):1200-1211.doi:10.1245/s10434-006-9294-3
+6.Frenette C, Mendiratta-Lala M, Salgia R, Wong RJ, Sauer BG, Pillai A.ACG Clinical Guideline: Focal Liver Lesions.Am J Gastroenterol.2024;119(7):1235-1271.doi:10.14309/ajg.0000000000002857
+6.Frenette C, Mendiratta-Lala M, Salgia R, Wong RJ, Sauer BG, Pillai A.ACG Clinical Guideline: Focal Liver Lesions.Am J Gastroenterol.2024;119(7):1235-1271.doi:10.14309/ajg.0000000000002857
+7.Bloomfield GC, Nigam A, Calvo IG, et al.Characteristics and malignancy rates of adult patients diagnosed with choledochal cyst in the West: a systematic review.J Gastrointest Surg.2024;28(1):77-87.doi:10.1016/j.gassur.2023.11.007
+7.Bloomfield GC, Nigam A, Calvo IG, et al.Characteristics and malignancy rates of adult patients diagnosed with choledochal cyst in the West: a systematic review.J Gastrointest Surg.2024;28(1):77-87.doi:10.1016/j.gassur.2023.11.007
+8.Alkhayyat M, Bachour S, Abou Saleh M, et al.The epidemiology of annular pancreas in the United States: a population-based study.J Clin Gastroenterol.2022;56(2):186-191.doi:10.1097/MCG.0000000000001531
+8.Alkhayyat M, Bachour S, Abou Saleh M, et al.The epidemiology of annular pancreas in the United States: a population-based study.J Clin Gastroenterol.2022;56(2):186-191.doi:10.1097/MCG.0000000000001531
+9.Salehi Karlslätt K, Husberg B, Ullberg U, Nordenskjöld A, Wester T.Intestinal Malrotation in Children: Clinical Presentation and Outcomes.Eur J Pediatr Surg.2024;34(3):228-235.doi:10.1055/s-0043-1764239
+9.Salehi Karlslätt K, Husberg B, Ullberg U, Nordenskjöld A, Wester T.Intestinal Malrotation in Children: Clinical Presentation and Outcomes.Eur J Pediatr Surg.2024;34(3):228-235.doi:10.1055/s-0043-1764239

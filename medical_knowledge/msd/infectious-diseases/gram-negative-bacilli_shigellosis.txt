@@ -1,0 +1,115 @@
+标题：志贺菌病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-negative-bacilli/shigellosis
+============================================================
+
+Shigella（志贺菌）属分布于世界各地。它是炎症性痢疾的典型病因，在许多地区，5% 至 20% 的腹泻疾病是由炎症性痢疾引起的（1）。
+美国每年约有45万例（每10万人中5.7例）志贺菌病，导致5400人住院和38例死亡。5 岁以下儿童的感染率最高（2）。全球范围内，Shigella（志贺菌）每年导致约8000万至1.65亿例感染和60万例死亡，其中大部分病例和死亡为儿童（1）。
+Shigella分为4个主要的亚群：
+A （S. dysenteriae)
+A （S. dysenteriae)
+B（S. flexneri)
+B（S. flexneri)
+C (S. boydii博伊德志贺菌)
+C (S. boydii博伊德志贺菌)
+D（S. sonnei)
+D（S. sonnei)
+各亚群又进一步分为不同的血清型。S. flexneri和S. sonnei比S. boydii分布广泛，特别是毒力很强的S. dysenteriae. S. sonnei。S. sonnei是美国最常见的分离株 (3)。
+感染者和恢复期带菌者的粪便是传染源；人是Shigella（志贺菌）的唯一自然宿主。可通过粪-口途径直接传播。经污染的食物或污染物可间接传播。苍蝇可作为传播媒介。性传播也发生在男男性行为者之间（4）。
+因为Shigella对胃酸有相对较强的抵抗力，食入10个-100个病菌即可引起疾病。疫情最易发生在卫生设施不足人口众多的区域。志贺氏菌痢在流行地区的年轻儿童中特别常见。成人患者病情通常较轻。
+恢复期和亚临床带菌者是重要传染源，但真正的长期带菌者罕见。
+一次志贺菌病发作可产生至少数年的血清型特异性免疫。但患者可能会发生其他血清型志贺菌引起的感染。
+Shigella志贺菌可侵入结肠黏膜，引起黏液分泌、充血、白细胞浸润、水肿，并常有表浅黏膜溃疡。Shigella dysenteriae（痢疾志贺菌）1型（美国罕见，仅见于从流行区返回的旅行者）产生的志贺毒素可导致显著水样泻，有时引发溶血性尿毒综合征。
+
+【参考文献】
+1.Centers for Disease Control and Prevention: Shigellosis: CDC Yellow Book 2024.Accessed January 25, 2024.
+1.Centers for Disease Control and Prevention: Shigellosis: CDC Yellow Book 2024.Accessed January 25, 2024.
+2.Centers for Disease Control and Prevention: AboutShigellaInfection.Accessed January 25, 2024.
+2.Centers for Disease Control and Prevention: AboutShigellaInfection.Accessed January 25, 2024.
+3.Shad AA, Shad WA.Shigella sonnei: virulence and antibiotic resistance.Arch Microbiol.2021;203(1):45-58.doi:10.1007/s00203-020-02034-3
+3.Shad AA, Shad WA.Shigella sonnei: virulence and antibiotic resistance.Arch Microbiol.2021;203(1):45-58.doi:10.1007/s00203-020-02034-3
+4.McNeil CJ, Kirkcaldy RD, Workowski K.Enteric Infections in Men Who Have Sex With Men.Clin Infect Dis.2022;74(Suppl_2):S169-S178.doi:10.1093/cid/ciac061
+4.McNeil CJ, Kirkcaldy RD, Workowski K.Enteric Infections in Men Who Have Sex With Men.Clin Infect Dis.2022;74(Suppl_2):S169-S178.doi:10.1093/cid/ciac061
+
+【细菌性痢疾的症状和体征】
+痢疾Shigella的潜伏期为1～4天。临床上最常见的表现水样泻无法与其他引起肠上皮细胞分泌活性的细菌、病毒和原虫感染区别。可能出现发热。
+在成人， 细菌性痢疾初始症状可能为
+发作性腹部剧痛
+发作性腹部剧痛
+排便急迫感（里急后重）
+排便急迫感（里急后重）
+排出成形粪便后可暂时缓解疼痛。
+排出成形粪便后可暂时缓解疼痛。
+以后反复发作，并且日趋严重和频繁。腹泻症状加剧，排出含有黏液、脓液并常带血的软便或稀便。严重的里急后重可造成直肠脱垂和大便失禁。
+然而，成人可无发热、无血性黏液性腹泻，有轻度的或没有里急后重。
+成人患病常可自愈：轻者4～8日，重者3～6周。严重脱水和电解质丢失导致循环衰竭和死亡主要发生在免疫功能低下的成人和<2岁的儿童中。
+罕见志贺菌病以米汤样或浆液样（偶尔血性）腹泻起病。患者可有呕吐而快速脱水。感染表现为谵妄、癫痫发作和昏迷，但很少或没有腹泻。 在12～24小时内可发生死亡。
+幼儿的起病突然，表现为发热、烦躁不安、嗜睡、厌食、恶心或呕吐、腹泻、腹痛和腹胀以及里急后重。3日内大便中出现血液、脓液和黏液。大便次数可增加到≥20次/天，体重下降和脱水严重。若不治疗，患儿可在12日内死亡；若患儿存活，则在第2周急性症状消退。
+
+【志贺氏菌病的并发症】
+溶血尿毒综合征（HUS）可能会并发由1型S. dysenteriae（痢疾志贺菌）引起的儿童志贺氏菌病。如果发生HUS，则在志贺氏菌病首次症状出现后约7天（但最多3周）内发展，此时腹泻症状正处于缓解期。HUS 表现为嗜睡和尿量减少。
+可能会发生菌血症，尤其是在 5 岁以下儿童和 65 岁以上患有基础疾病的成年人中。
+严重的黏膜溃疡可引起明显的急性失血。
+患者（特别是那些具有人类白细胞抗原[HLA]-B27基因型的患者）在细菌性痢疾（主要是S. flexneri[福氏志贺菌]及其他肠炎）后可出现反应性关节炎（关节炎、结膜炎、尿道炎）。
+其他并发症不多见，包括儿童惊厥、心肌炎和罕见的肠穿孔。
+本病不会变成慢性，也并非溃疡性结肠炎的致病因素。
+
+【志贺氏菌病的诊断】
+粪便培养
+粪便培养
+聚合酶链反应（PCR）检测
+聚合酶链反应（PCR）检测
+在暴发期间或流行区保持高度警惕性以及粪便涂片经甲基蓝或瑞特染色可见白细胞有助于痢疾的诊断。大便培养可确诊，应采集标本进行检测；对于重症或高危患者应行药敏试验。还可以使用高灵敏度和特异性的多重 NAAT 进行 PCR 检测（1）。
+具有痢疾症状（血性和黏液便）的患者应与肠出血性大肠杆菌、沙门菌、耶尔森杆菌、弯曲杆菌感染、阿米巴病、艰难梭菌感染进行鉴别。
+直肠镜检可见黏膜表面弥散性充血并有大量小溃疡。尽管可能出现白细胞减少或显著升高，但白细胞计数平均为13,000/mcL(13 × 109/L)。血液浓缩常见，腹泻还可引起代谢性酸中毒。
+
+【诊断参考文献】
+1.Beal SG, Tremblay EE, Toffel S, Velez L, Rand KH.A Gastrointestinal PCR Panel Improves Clinical Management and Lowers Health Care Costs.J Clin Microbiol.2017;56(1):e01457-17.Published 2017 Dec 26.doi:10.1128/JCM.01457-17
+1.Beal SG, Tremblay EE, Toffel S, Velez L, Rand KH.A Gastrointestinal PCR Panel Improves Clinical Management and Lowers Health Care Costs.J Clin Microbiol.2017;56(1):e01457-17.Published 2017 Dec 26.doi:10.1128/JCM.01457-17
+
+【志贺氏菌病的治疗】
+支持治疗
+支持治疗
+对于重症患者或高危患者给予一种氟喹诺酮类、阿奇霉素或三代头孢菌素
+对于重症患者或高危患者给予一种氟喹诺酮类、阿奇霉素或三代头孢菌素
+痢疾引起的体液丢失需给予口服或静脉补液对症治疗。
+不应使用止泻药物（如，洛派丁胺），因为可延长病程。
+抗生素可减轻症状和Shigella志贺菌的排出，但对于健康的成人不是必须的。然而，如下一些患者通常需要接受抗生素治疗：
+免疫功能低下患者
+免疫功能低下患者
+中重度感染的患者
+中重度感染的患者
+对于成人，可使用以下抗生素治疗：
+口服氟喹诺酮类药物（如环丙沙星）
+口服氟喹诺酮类药物（如环丙沙星）
+口服阿奇霉素
+口服阿奇霉素
+静脉注射头孢曲松
+静脉注射头孢曲松
+对于儿童，可使用以下抗生素治疗：
+静脉注射头孢曲松
+静脉注射头孢曲松
+口服阿奇霉素
+口服阿奇霉素
+许多Shigella分离株对氨苄西林、复方新诺明（TMP/SMX）和四环素耐药，但耐药特点随地理分布而异。美国疾病控制与预防中心 (CDC) 报告称，美国广泛耐药 (XDR) 志贺氏菌病有所增加，从而限制了抗菌药物的选择，尤其是对于男男性行为者、艾滋病毒感染者、国际旅行者和无家可归者。在所涉及的病例中，占比最大的是S. sonnei（宋内志贺菌）和S. flexneri（福氏志贺菌）（1）。XDR 志贺氏菌病的治疗通常需要碳青霉烯类抗生素，但通常应由传染病专科医生会诊指导。
+
+【治疗参考文献】
+1.Centers for Disease Control and Prevention (CDC): Increase in Extensively Drug-Resistant Shigellosis in the United States, February 24, 2023.
+1.Centers for Disease Control and Prevention (CDC): Increase in Extensively Drug-Resistant Shigellosis in the United States, February 24, 2023.
+
+【预防志贺氏菌病】
+处理食物前应彻底洗手。脏衣服、床单和毯子应浸入装有肥皂、水和消毒剂的有盖桶中，直到可以用热水清洗为止。对病人和带菌者应采取相应的隔离措施（特别是粪便隔离）。
+疫苗正在研发中，在流行地区的实地试验也有望取得成果（1）。然而，免疫力通常是血清型特异性的，因此疫苗应需是多价的或含有多种血清型共有的抗原。
+
+【预防参考文献】
+1.MacLennan CA, Grow S, Ma LF, Steele AD.TheShigellaVaccines Pipeline.Vaccines (Basel).2022;10(9):1376.Published 2022 Aug 24.doi:10.3390/vaccines10091376
+1.MacLennan CA, Grow S, Ma LF, Steele AD.TheShigellaVaccines Pipeline.Vaccines (Basel).2022;10(9):1376.Published 2022 Aug 24.doi:10.3390/vaccines10091376
+Shigella（志贺菌属）是引起痢疾的具有高度传染性的病原体；人类是唯一宿主。
+Shigella（志贺菌属）是引起痢疾的具有高度传染性的病原体；人类是唯一宿主。
+水样腹泻可伴腹部疼痛和明显的排便紧迫感；粪便可能含有黏液、脓液，常带血。
+水样腹泻可伴腹部疼痛和明显的排便紧迫感；粪便可能含有黏液、脓液，常带血。
+S. dysenteriae（痢疾志贺菌）I型（美国不常见，除返程的旅游者外）可以产生志贺毒素，从而导致溶血尿毒综合征的发生。
+S. dysenteriae（痢疾志贺菌）I型（美国不常见，除返程的旅游者外）可以产生志贺毒素，从而导致溶血尿毒综合征的发生。
+严重脱水和电解质丢失导致循环衰竭和死亡主要发生在免疫功能低下的成人和年龄<2岁的儿童中。
+严重脱水和电解质丢失导致循环衰竭和死亡主要发生在免疫功能低下的成人和年龄<2岁的儿童中。
+支持性护理通常就足够了，但对于幼儿、老年患者、重症患者或免疫功能受损的患者，应给予抗生素（氟喹诺酮、阿奇霉素、头孢曲松）；对氨苄青霉素、甲氧苄啶/磺胺甲恶唑（TMP/SMX）和四环素耐药性很常见。
+支持性护理通常就足够了，但对于幼儿、老年患者、重症患者或免疫功能受损的患者，应给予抗生素（氟喹诺酮、阿奇霉素、头孢曲松）；对氨苄青霉素、甲氧苄啶/磺胺甲恶唑（TMP/SMX）和四环素耐药性很常见。

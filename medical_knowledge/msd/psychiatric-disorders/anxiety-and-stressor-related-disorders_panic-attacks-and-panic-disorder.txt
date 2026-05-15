@@ -1,0 +1,79 @@
+标题：惊恐发作和惊恐障碍
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/anxiety-and-stressor-related-disorders/panic-attacks-and-panic-disorder
+============================================================
+
+(参见焦虑障碍概述。)
+惊恐发作非常普遍，普通人群的年患病率约为11％ (1)。多数患者无需处理便可自行缓解，少数发展为惊恐障碍。
+12 个月内惊恐障碍的患病率为 2% 至 3% (2)。通常起病于青少年期或成人早期，女性是男性的2倍多。
+
+【参考文献】
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition,Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 244.
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition,Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 244.
+2.Kessler RC,WT Chiu, Jin R, et al: The epidemiology of panic attacks, panic disorder, and agoraphobia in the National Comorbidity Survey Replication.Arch Gen Psychiatry63(4):415-424, 2006. doi: 10.1001/archpsyc.63.4.415
+2.Kessler RC,WT Chiu, Jin R, et al: The epidemiology of panic attacks, panic disorder, and agoraphobia in the National Comorbidity Survey Replication.Arch Gen Psychiatry63(4):415-424, 2006. doi: 10.1001/archpsyc.63.4.415
+
+【惊恐障碍的症状和体征】
+惊恐发作表现为突然出现强烈恐惧或不适感，且至少伴随惊恐发作症状表中 13 项症状中的 4 项。惊恐症状可持续数分钟至 1 小时。尽管发作时患者感到极不舒服，但并不构成医疗危险。
+
+【惊恐发作的症状】
+惊恐发作的症状
+死亡恐惧
+担心发疯或失去控制
+非真实感、陌生感（现实解体）、感觉像离开了自己的身体（人格解体）
+躯体症状
+胸痛或不适
+头晕、摇晃感、虚弱感
+潮红或寒战
+恶心或腹部不适
+麻木或刺痛感
+心悸或心率加快
+气促或呼吸困难
+震颤或发抖
+惊恐发作可发生于任何精神疾病中，通常与疾病核心特征相关的场景下（如恐蛇症患者看到蛇时可能出现惊恐发作）。这样的惊恐发作为预期性发作。 意想不到的惊恐发作是那些自发进行，缺乏明显触发事件的发作。
+大多数惊恐障碍患者会担心下一次（预期性焦虑）并回避上一次发作时的场所和情形。惊恐障碍患者常担心自己患有严重的心脏、肺部或神经系统疾病，会反复就诊于初级保健医生或急诊科寻求帮助。然而，这些医疗机构往往关注躯体症状而不能做出正确诊断。
+惊恐障碍通常伴有至少一种其他共病。其他焦虑症、严重抑郁症、躁郁症、轻度酒精使用障碍是最常见的精神疾病。常见共病躯体疾病包括心脏心律失常、甲状腺功能亢进症、哮喘和慢性阻塞性肺疾病（COPD）。
+
+【惊恐障碍的诊断】
+《精神障碍诊断与统计手册》，第五版文本修订版（DSM-5-TR）标准
+《精神障碍诊断与统计手册》，第五版文本修订版（DSM-5-TR）标准
+排除某种物质的生理影响或一般医疗状况的医学评估
+排除某种物质的生理影响或一般医疗状况的医学评估
+惊恐障碍的诊断需排除可模拟焦虑的一般性躯体疾病，且症状符合 DSM-5-TR 规定的诊断标准。
+患者反复惊恐发作（并无特定频率），持续时间≥1个月，并存在以下≥1项情况 (1)：
+对于惊恐再次发作的恐惧以及对惊恐发作后果的恐惧（如失去控制，感觉要疯了）持续忧虑
+对于惊恐再次发作的恐惧以及对惊恐发作后果的恐惧（如失去控制，感觉要疯了）持续忧虑
+存在适应不良的反应（如避免常规活动，回避运动或社交场合以防再次发作）
+存在适应不良的反应（如避免常规活动，回避运动或社交场合以防再次发作）
+
+【诊断参考文献】
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision DSM-5-TR.American Psychiatric Association Publishing, Washington, DC, pp 235-250.
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision DSM-5-TR.American Psychiatric Association Publishing, Washington, DC, pp 235-250.
+
+【惊恐障碍的治疗】
+抗抑郁药，苯二氮卓类药物，或两者兼而有之
+抗抑郁药，苯二氮卓类药物，或两者兼而有之
+心理治疗
+心理治疗
+部分患者无需治疗即可康复，尤其是持续暴露于曾诱发发作的场景时。对于其他患者，惊恐障碍可能成为波动的慢性病程。
+应告知患者治疗有助于控制症状。若尚未出现回避行为，仅需给予安慰、焦虑相关知识科普，并鼓励患者持续返回并停留于曾发生惊恐发作的场景即可。但对于病程较长、频繁发作且伴随回避行为的患者，治疗可能需要药物治疗联合更强化的心理治疗。
+
+【药物治疗】
+多种药物可预防或大幅减轻预期性焦虑、恐怖性回避，以及惊恐发作的频率和强度 (1)。
+抗抑郁药物：不同抗抑郁药物的疗效是相似的，如选择性5 -羟色胺再摄取抑制剂(SSRIs)、5-羟色胺-去甲肾上腺素再摄取抑制剂（SNRIs）、5-羟色胺调节剂、三环类（TCAs）、单胺氧化酶抑制剂（MAOIs）。然而，与其他抗抑郁药相比，SSRIs 和 SNRIs 的潜在不良反应更少。
+抗抑郁药物：不同抗抑郁药物的疗效是相似的，如选择性5 -羟色胺再摄取抑制剂(SSRIs)、5-羟色胺-去甲肾上腺素再摄取抑制剂（SNRIs）、5-羟色胺调节剂、三环类（TCAs）、单胺氧化酶抑制剂（MAOIs）。然而，与其他抗抑郁药相比，SSRIs 和 SNRIs 的潜在不良反应更少。
+苯二氮䓬类：抗焦虑剂 比抗抑郁剂起效作用快，但容易引起躯体依赖以及嗜睡、共济失调、记忆障碍等不良反应。对于一些患者来说，长期使用苯二氮卓类药物是成功的，并且没有明显的副作用。
+苯二氮䓬类：抗焦虑剂 比抗抑郁剂起效作用快，但容易引起躯体依赖以及嗜睡、共济失调、记忆障碍等不良反应。对于一些患者来说，长期使用苯二氮卓类药物是成功的，并且没有明显的副作用。
+抗抑郁药物加用苯二氮䓬类：初期有时会联合使用这两类药物；待抗抑郁药起效后，逐渐减少苯二氮䓬类药物剂量（部分患者仅对联合治疗有效）。
+抗抑郁药物加用苯二氮䓬类：初期有时会联合使用这两类药物；待抗抑郁药起效后，逐渐减少苯二氮䓬类药物剂量（部分患者仅对联合治疗有效）。
+惊恐发作在停药后常复发。
+
+【心理治疗】
+针对焦虑障碍（包括惊恐障碍）的心理治疗，多涉及教授放松技巧。这些策略是治疗的重要组成部分，因为它们既能减少焦虑，又能继续进行可能引发焦虑的心理治疗。放松策略包括正念、冥想、催眠、锻炼和缓慢、稳定的呼吸。
+认知行为疗法（CBT）是一个通用术语，指聚焦于功能失调性思维（认知）和 / 或功能失调性行为的谈话疗法。CBT 已被证明对惊恐障碍有效（2）。
+患者可能有自己独特但功能失调的思维循环，会引发焦虑和/或恐慌。例如，一个人可能对心脏病发作有基线担忧，他们可能会花费过多的时间扫描身体以寻找心脏病发作的迹象。如果他们感到胸口刺痛，他们可能会开始一个循环，很快导致恐慌，错误地认为自己即将死亡。CBT 包括阐明这些循环，然后教导患者识别和控制其扭曲的思维和错误信念。然后，他们能够更好地修改自己的行为，使其更具适应性。此外，治疗会鼓励患者逐步暴露于可能诱发惊恐的场景，从而降低其对 “场景与症状相关联” 的固有认知敏感性。
+
+【治疗参考文献】
+1.Quagliato LA, Freire RC, Nardi AE: Risks and benefits of medications for panic disorder: A comparison of SSRIs and benzodiazepines.Expert Opin Drug Saf17(3):315-324, 2018.doi: 10.1080/14740338.2018.1429403
+1.Quagliato LA, Freire RC, Nardi AE: Risks and benefits of medications for panic disorder: A comparison of SSRIs and benzodiazepines.Expert Opin Drug Saf17(3):315-324, 2018.doi: 10.1080/14740338.2018.1429403
+2.Papola D, Ostuzzi G, Tedeschi F, et al: Comparative efficacy and acceptability of psychotherapies for panic disorder with or without agoraphobia: Systematic review and network meta-analysis of randomised controlled trials.Br J Psychiatry221(3):507-519, 2022. doi: 10.1192/bjp.2021.148
+2.Papola D, Ostuzzi G, Tedeschi F, et al: Comparative efficacy and acceptability of psychotherapies for panic disorder with or without agoraphobia: Systematic review and network meta-analysis of randomised controlled trials.Br J Psychiatry221(3):507-519, 2022. doi: 10.1192/bjp.2021.148

@@ -1,0 +1,317 @@
+标题：先天性心血管畸形概述
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-cardiovascular-anomalies/overview-of-congenital-cardiovascular-anomalies
+============================================================
+
+先天性心脏疾病是最常见的先天性畸形，活产婴儿中的发生率近1％ (1)。在出生缺陷中，先天性心脏病是婴儿死亡的主要原因。
+婴儿期最常见的心脏先天性畸形诊断包括肌部与膜周部室间隔缺损其次为继发孔型房间隔缺损, 总患病率为每10000名活产儿48.4例 (2, 3, 4)。最常见的紫绀型先天性心脏病是法洛四联征, 其发病率是大动脉转位的两倍（分别为4.7例/10000例活产 vs. 2.3例/10000例活产）。总体，二叶主动脉瓣是最常见的先天性缺陷，据报道其患病率高达 0.5% 至 2.0%。
+
+【参考文献】
+1.Reller MD, Strickland MJ, Riehle-Colarusso T, et al: Prevalence of congenital heart defects in metropolitan Atlanta, 1998–2005.J Pediatr153(6):807–813, 2008.
+1.Reller MD, Strickland MJ, Riehle-Colarusso T, et al: Prevalence of congenital heart defects in metropolitan Atlanta, 1998–2005.J Pediatr153(6):807–813, 2008.
+2.Freeze SL, Landis BJ, Ware SM, Helm BM: Bicuspid aortic valve: a review with recommendations for genetic counseling.J Genet Couns25(6):1171–1178, 2016.
+2.Freeze SL, Landis BJ, Ware SM, Helm BM: Bicuspid aortic valve: a review with recommendations for genetic counseling.J Genet Couns25(6):1171–1178, 2016.
+3.van der Linde D, Konings EEM, Slager MA, et al: Birth prevalence of congenital heart disease worldwide: a systematic review and meta-analysis.J Am Coll Cardiol58(21):2241–2247, 2011. doi: 10.1016/j.jacc.2011.08.025
+3.van der Linde D, Konings EEM, Slager MA, et al: Birth prevalence of congenital heart disease worldwide: a systematic review and meta-analysis.J Am Coll Cardiol58(21):2241–2247, 2011. doi: 10.1016/j.jacc.2011.08.025
+4.Daubeney PEF, Rigby ML, Niwa K, Gatzoulis MA (eds):Pediatric Heart Disease: A Practical Guide.Wiley-Blackwell 2012 .
+4.Daubeney PEF, Rigby ML, Niwa K, Gatzoulis MA (eds):Pediatric Heart Disease: A Practical Guide.Wiley-Blackwell 2012 .
+
+【先天性心脏病的病因】
+环境和遗传因素共同导致先天性心脏病的发生。
+常见的环境因素包括母亲疾病（如糖尿病、风疹、系统性红斑狼疮）或母体摄入致畸剂（如锂剂、异维A酸、抗癫痫药物）。产妇年龄是某些遗传疾病的已知危险因素，尤其是唐氏综合征, 可能伴有心脏缺陷。尚不清楚产妇年龄是否是先天性心脏病的独立危险因素。父亲年龄也可能是危险因素 (1)。
+某些数字染色体异常（非整倍体），如21三体（唐氏综合征）、18三体、13三体和X单体（特纳综合征），与先天性心脏病显著相关。然而，这些异常仅占先天性心脏病患者的5~6％。
+许多其他案例涉及亚染色体缺失(显微缺失)、亚染色体复制或单基因突变。这些突变通常会导致先天性综合征，在心脏之外还影响诸多器官。例子包括DiGeorge综合征（22q11.2微缺失）和威廉姆斯综合征（有时称为威廉姆斯-博伊伦综合征）（7p11.23微缺失）。引起与先天性心脏病相关的综合征的单基因缺陷包括原纤蛋白-1（马凡综合征）、TXB5（Holt-Oram综合征）、PTPN11（Noonan综合征）基因突变。单基因缺陷也可能引起孤立的（即，非综合征的）先天性心脏缺陷。
+约72%的先天性心脏病患者未检测到可识别的遗传病因（2、3、4）。
+先天性心脏病在一个家庭内的复发风险因病因不同而各不相同。新发突变中风险可以忽略，非综合征性多因素先天性心脏病的风险为2%-5%，当为常染色体显性突变时，风险为50％。鉴于报道的家族患病率为 9%，因此在个体中识别出二叶主动脉瓣值得进行家庭筛查（5）。确定遗传因素很重要，因为更多的先天性心脏病患者可存活到成年，并可组建家庭。
+
+【病因参考文献】
+1.Materna-Kiryluk A, Wiśniewska K, Badura-Stronka M, et al: Parental age as a risk factor for isolated congenital malformations in a Polish population.Paediatr Perinat Epidemiol23(1):29-40, 2009.doi: 10.1111/j.1365-3016.2008.00979.x
+1.Materna-Kiryluk A, Wiśniewska K, Badura-Stronka M, et al: Parental age as a risk factor for isolated congenital malformations in a Polish population.Paediatr Perinat Epidemiol23(1):29-40, 2009.doi: 10.1111/j.1365-3016.2008.00979.x
+2.Russell MW, Chung WK, Kaltman JR, Miller TA: Advances in the understanding of the genetic determinants of congenital heart disease and their impact on clinical outcomes.J Am Heart Assoc7(6):e006906, 2018.doi:10.1161/JAHA.117.006906
+2.Russell MW, Chung WK, Kaltman JR, Miller TA: Advances in the understanding of the genetic determinants of congenital heart disease and their impact on clinical outcomes.J Am Heart Assoc7(6):e006906, 2018.doi:10.1161/JAHA.117.006906
+3.van der Linde D, Konings EEM, Slager MA, et al: Birth prevalence of congenital heart disease worldwide: a systematic review and meta-analysis.J Am Coll Cardiol58(21):2241–2247, 2011. doi: 10.1016/j.jacc.2011.08.025
+3.van der Linde D, Konings EEM, Slager MA, et al: Birth prevalence of congenital heart disease worldwide: a systematic review and meta-analysis.J Am Coll Cardiol58(21):2241–2247, 2011. doi: 10.1016/j.jacc.2011.08.025
+4.Pierpont ME, Brueckner M, Chung WK, et al: Genetic Basis for Congenital Heart Disease: Revisited: A Scientific Statement From the American Heart Association [published correction appears inCirculation2018 Nov 20;138(21):e713].Circulation138(21):e653–e711, 2018.doi:10.1161/CIR.0000000000000606
+4.Pierpont ME, Brueckner M, Chung WK, et al: Genetic Basis for Congenital Heart Disease: Revisited: A Scientific Statement From the American Heart Association [published correction appears inCirculation2018 Nov 20;138(21):e713].Circulation138(21):e653–e711, 2018.doi:10.1161/CIR.0000000000000606
+5.Freeze SL, Landis BJ, Ware SM, Helm BM: Bicuspid aortic valve: a review with recommendations for genetic counseling.J Genet Couns25(6):1171–1178, 2016.
+5.Freeze SL, Landis BJ, Ware SM, Helm BM: Bicuspid aortic valve: a review with recommendations for genetic counseling.J Genet Couns25(6):1171–1178, 2016.
+
+【正常胎儿血液循环】
+胎儿血液循环的特征是
+血液通过未闭的动脉导管（连接肺动脉与主动脉）和卵圆孔（连接左右心房），绕过未通气的肺部形成右向左分流。
+血液通过未闭的动脉导管（连接肺动脉与主动脉）和卵圆孔（连接左右心房），绕过未通气的肺部形成右向左分流。
+高肺动脉血管阻力及体循环（包括胎盘循环）相对较低的血流阻力会促使血液发生分流。大约90%～95%的右心输出量绕过肺循环而直接进入体循环中。胎儿体循环的低动脉血PaO2（约25mmHg）与局部产生的前列腺素一起使胎儿动脉导管处于扩张状态。两心房间的压力差使卵圆孔膜帘保持开放：从肺回到左心房的血液很少，左心房压力在胎儿期很低；同时由于大量血液从胎盘回到右心房，因此右心房压力较高。
+
+【胎儿正常血液循环】
+胎儿正常血液循环
+在胎儿体内，进入心脏右侧的血液已经通过胎盘被补充氧。因为肺不通气，只有少量的血液需要通过肺动脉。大部分来自心脏右侧的血液通过以下结构绕过肺部
+动脉导管
+动脉导管
+通常，这两种结构在出生后不久就会关闭。
+红色箭头代表氧合程度最高的胎儿血液（氧饱和度≥65%）。蓝色箭头代表氧合程度最低的血液（氧饱和度≤45%）。紫色箭头代表中等氧饱和度（氧饱和度50–60%）。 需注意，整个胎儿期的血氧饱和度显著低于出生后水平。
+
+【围产期变化】
+出生后在最初的几次呼吸后，循环系统发生了显著的改变，导致
+肺血流量增加
+肺血流量增加
+卵圆孔功能性关闭
+卵圆孔功能性关闭
+肺动脉小动脉阻力因肺扩张、动脉血氧分压（PaO₂）升高及动脉血二氧化碳分压（PaCO₂）降低所引发的血管舒张作用而急剧下降。肋骨与胸壁的弹性回缩力可降低肺间质压力，从而进一步促进肺毛细血管内的血流。从肺部回流的静脉血流增加，会提高左房压力，这样就会降低左房和右房之间的压力差；这种影响有助于卵圆孔功能性闭合。
+当肺循环血流建立以后，肺的静脉回流量增加，左心房压力升高。空气吸入使PaO2增加，导致脐动脉收缩。胎盘血流量减少或停止，回到右心房的血流量减少。因此，右心房压力下降而左心房压力升高；结果，房间隔的2个胎儿组成部分（原发隔和继发隔）被挤压在一起，阻断了卵圆孔的血流。在大多数人中，2块隔膜最终融合，卵圆孔随之闭合。然而，在 25% 的成年人中，卵圆孔可能保持通畅，只有极少量或没有残余分流（1)。
+出生后不久，体循环阻力就高于肺循环，与胎儿期的情况正相反。因此通过动脉导管的血流方向逆反，产生了左向右的分流（称为过渡性循环）。这一状态从出生后数分钟（此时肺血流增加，卵圆孔功能性闭合）持续至出生后约24至72小时，届时动脉导管开始收缩。从主动脉进入动脉导管及其滋养血管的血流PO2很高，与前列腺素代谢的改变一起导致动脉导管的收缩和关闭。一旦动脉导管关闭，就形成了成人型循环。两个心室相继泵血，在肺循环和体循环之间没有大的分流。
+出生后头几天，若有新生儿窘迫发生，可再回复到胎儿型循环。窒息时的低氧血症和高二氧化碳血症引起肺动脉收缩和动脉导管扩张，使以上描述的过程逆转，通过开放的动脉导管或（和）重新开放的卵圆孔，再次出现右向左的分流。结果使新生儿产生严重的低氧血症，这种情况称为持续性肺动脉高压或持续胎儿循环（虽然没有脐循环）。治疗的目标是消除产生肺血管收缩的因素。
+
+【胎儿正常循环参考值】
+1.Koutroulou I, Tsivgoulis G, Tsalikakis D, et al: Epidemiology of Patent Foramen Ovale in General Population and in Stroke Patients: A Narrative Review.Front Neurol11:281, 2020.Published 2020 Apr 28.doi:10.3389/fneur.2020.00281
+1.Koutroulou I, Tsivgoulis G, Tsalikakis D, et al: Epidemiology of Patent Foramen Ovale in General Population and in Stroke Patients: A Narrative Review.Front Neurol11:281, 2020.Published 2020 Apr 28.doi:10.3389/fneur.2020.00281
+
+【先天性心脏异常的病理生理学】
+先天性心脏病分为 (见表先天性心脏异常分类)：
+非青紫型（左向右分流型或梗阻型）
+非青紫型（左向右分流型或梗阻型）
+先天性心脏异常的生理结局差异很大，从心脏杂音或无症状儿童脉搏的差异到严重的紫绀，心力衰竭或循环衰竭。
+
+【先天性心脏病的分类*】
+先天性心脏病的分类*
+法洛四联症
+大动脉转位
+三尖瓣闭锁
+肺动脉闭锁
+永存动脉干
+完全性肺静脉异位
+非青紫型
+左向右分流
+室间隔缺损
+房间隔缺损
+动脉导管未闭
+房室隔缺损
+肺动脉瓣狭窄
+主动脉瓣狭窄
+主动脉缩窄
+左心发育不良综合征（通常也表现出发绀，可能是轻度的）
+*以发病率递减的近似顺序。
+*以发病率递减的近似顺序。
+
+【青紫型先心病】
+不同量的去氧静脉血通过右向左分流进入左心，导致体循环动脉血氧饱和度降低。
+不同量的去氧静脉血通过右向左分流进入左心，导致体循环动脉血氧饱和度降低。
+如果脱氧血红蛋白≥5 g/dL (≥50 g/L)，则出现紫绀。持续发绀可并发红细胞增多症、杵状指、血栓栓塞（包括脑卒中）、出血性疾病、脑脓肿及高尿酸血症。紫绀危象可发生于未修复的法洛氏四联症婴儿，或其他存在动态肺动脉瓣下狭窄合并室间隔缺损的复杂先天性心脏病患儿。
+根据畸形的不同，肺血流量可能减少、正常或增加（常导致心力衰竭和发绀），引起严重程度不一的发绀。可以听到各种心脏杂音，但杂音不具有特异性。
+
+【左向右分流】
+来自左心（左心房或左心室）或主动脉的含氧血液通过左右心之间的开口或通道分流至右心（右心房或右心室）或肺动脉。
+来自左心（左心房或左心室）或主动脉的含氧血液通过左右心之间的开口或通道分流至右心（右心房或右心室）或肺动脉。
+出生后的短时间内，肺血管阻力高，流过这种管道的血流可能是最小的或双向的。但是，出生后24至48小时之内，肺血管阻力逐步下降，此时血液会越来越多地从左至右分流。向右分流的血液在不同程度上增加了肺血流量和肺动脉压力。分流越多，症状越重；小的左向右分流通常不会引起症状或体征。
+高压性分流（室间隔或大血管水平）多在生后几天至数周被发现，而低压性分流（房间隔缺损）则明显出现得更晚。若不加以治疗，肺血流量增加及肺动脉压力升高可能导致肺血管病变，最终引发艾森曼格综合征。大的左向右分流（例如，大型室间隔缺损[VSD]，动脉导管未闭[PDA]）导致肺血流过多和左心室容量超负荷，可能引起心力衰竭体征，在婴儿期常导致生长发育迟缓。大的左向右分流导致肺顺应性降低和气道阻力升高。这些因素增加了婴幼儿因呼吸道合胞病毒或其他上或下呼吸道感染住院的可能性。
+
+【阻塞性病变】
+血流受阻，血流通过梗阻部位时形成压力梯度。
+血流受阻，血流通过梗阻部位时形成压力梯度。
+梗阻近端压力负荷可导致心室肥厚和心力衰竭。最为明显的表现是心脏杂音，是由于血流通过梗阻（狭窄）部形成湍流所致。如先天性主动脉瓣狭窄占先天性心脏畸形的3%～6％，先天性肺动脉狭窄约占8%～12％ (1, 2)。
+
+【心力衰竭】
+有些先天性心脏畸形（如二叶式主动脉瓣、轻度主动脉瓣狭窄）没有血流动力学改变。其他畸形可引起压力和容量负荷增加，有时引起心力衰竭。当心输出量不能满足代谢需要或心脏不能充分处理静脉回流时，会导致肺循环淤血（左心衰竭）、主要在下垂组织和腹腔内脏出现水肿（右心衰竭）或两者兼有。婴幼儿心力衰竭除先天性心脏畸形外还有许多其他原因（见表儿童心力衰竭的常见原因）。
+
+【小儿心力衰竭的常见原因】
+小儿心力衰竭的常见原因
+发病年龄
+在子宫内
+慢性贫血继发的高输出量心力衰竭
+巨大的体循环动静脉瘘（例如，Galen大脑静脉分流术）
+继发于心肌炎的心肌功能障碍
+持续的宫内心动过速
+生后数日
+上述任一项
+重度主动脉瓣狭窄或重度主动脉缩窄
+Ebstein畸形伴有严重三尖瓣和/或肺动脉反流
+左心发育不良综合征
+宫内的或新生儿的阵发性室上性心动过速
+代谢紊乱（例如，低血糖、低体温、严重的代谢性酸中毒）
+新生儿脓毒血症
+伴心肌损伤的围产期窒息
+严重的宫内贫血（胎儿水肿）
+完全性肺静脉异位引流伴重度梗阻（通常是心下型）
+最多 1 个月
+上述任一项
+主动脉缩窄伴有或不伴有其他畸形
+完全性心脏传导阻滞，伴有或不伴有相关的心脏结构异常
+早产儿左向右分流（例如，动脉导管未闭）
+大动脉换位合并大型室间隔缺损
+婴儿期（尤其是6～8周）
+支气管肺发育不良（右心室衰竭）
+完全性房室间隔缺损
+动脉导管未闭
+永存动脉干
+少见的代谢性疾病（例如，糖原累积病II型，又称庞贝氏症）
+室上性心动过速
+室间隔缺损
+急性肺源性心脏病（由上呼吸道梗阻所致，如巨大扁桃体）
+急性风湿热伴心肌炎
+急性严重高血压（如伴急性肾小球肾炎）
+全肺静脉回流异常（无梗阻）
+感染性心内膜炎
+严重慢性贫血
+扩张性心肌病
+由于铁代谢改变而导致的铁超负荷（遗传性血色病），或由于频繁输血导致的铁超负荷（例如，重型地中海贫血）
+营养缺乏
+由先天或获得性心脏病导致的心脏瓣膜疾病（例如，风湿热）
+病毒性心肌炎
+非心源性疾病引起的容量过度负荷
+
+【导管依赖性先天性心脏病】
+动脉导管是连接肺动脉与主动脉的正常结构，动脉导管的开放在胎儿循环中是非常必要的。 出生时，PaO2的升高和前列腺素水平的下降引起动脉导管的关闭，多见于生后10～15小时。
+一些先天性心脏病依赖于动脉导管保持开放以维持全身血流（例如，左心发育不全综合征，严重主动脉瓣狭窄，主动脉缩窄），或肺血流量（发绀型病变，如肺动脉闭锁或严重的法洛氏四联症）。因此，在最终修复（通常为手术）之前，通过外源性前列腺素输注保持动脉导管开放对这些疾病至关重要。
+
+【病理生理学参考文献】
+1.Daubeney PEF, Rigby ML, Niwa K, Gatzoulis MA (eds):Pediatric Heart Disease: A Practical Guide.Wiley-Blackwell 2012 .
+1.Daubeney PEF, Rigby ML, Niwa K, Gatzoulis MA (eds):Pediatric Heart Disease: A Practical Guide.Wiley-Blackwell 2012 .
+2.Hoffman JI, Kaplan S: The incidence of congenital heart disease.J Am Coll Cardiol39(12):1890-1900, 2002.doi:10.1016/s0735-1097(02)01886-7
+2.Hoffman JI, Kaplan S: The incidence of congenital heart disease.J Am Coll Cardiol39(12):1890-1900, 2002.doi:10.1016/s0735-1097(02)01886-7
+
+【先天性心脏病的症状和体征】
+先天性心脏病的临床表现各异，但是通常包括
+心力衰竭
+心力衰竭
+脉搏减弱或无法触及
+脉搏减弱或无法触及
+其他体格检查异常可能包括循环性休克，灌注不良，异常第二心音（S2- 单音或泛分裂S2），收缩期喀喇音，奔马律，或异常慢、快或不规则的心律。
+多数左向右分流和梗阻性心脏病产生收缩期杂音。收缩期心脏杂音和震颤，在距其最近的体表最明显，有助于定位诊断。增加的通过肺动脉瓣和主动脉瓣的血流产生收缩中期递增递减型（喷射性收缩期）杂音。房室瓣反流或室间隔缺损部位反流引起的全收缩期杂音，其响度的增强常掩盖第一心音(S1)。
+动脉导管未闭通常表现为一种不受S2（第二心音）中断的连续性杂音，因为血液在收缩期和舒张期均会通过未闭的动脉导管流动。这段杂音为双音调，在收缩期（由较高压力驱动时）比舒张期更为明显。
+这张照片显示了与正常匹配的手指相比，患者手指的杵状指。
+© Springer Science+Business Media
+中央发绀的特点是嘴唇和舌头和/或甲床变为蓝色；当脱氧血红蛋白升高(至少5 g/dL [50 g/L])，提示低氧水平（通常氧饱和度<85％）时发生。外周性发绀和手足发绀（手和脚的发绀），不伴有口唇或甲床青紫，这是由于末梢血管收缩，而不是低氧血症引起的，是新生儿常见的，正常的现象。年长儿的长期发绀往往进展为甲床的杵状指。
+
+【心力衰竭】
+婴儿心力衰竭的症状或体征包括
+心动过速
+心动过速
+呼吸急促
+呼吸急促
+喂养时呼吸困难
+喂养时呼吸困难
+发汗，尤其是喂养时
+发汗，尤其是喂养时
+烦躁，易怒
+烦躁，易怒
+发育不良
+发育不良
+喂养时呼吸困难会导致摄入不足和生长发育不良，而心力衰竭时代谢需求增加及频繁呼吸道感染而恶化。与成人和年长儿童不同，大多数婴儿不会出现颈静脉怒张和下肢水肿；但偶尔可见眼周区域出现水肿。"肝肿大是婴儿心力衰竭的一个尤为显著的特征，因为此年龄段肝包膜具有可扩张性。"年长儿童的心力衰竭与成人相似。
+
+【心脏缺陷的其他表现】
+在新生儿，循环性休克可能是先天性心脏畸形的首发表现（例如，左心发育不全综合征，严重主动脉瓣狭窄，主动脉弓离断，主动脉缩窄）。 新生儿病情严重，粘膜苍白或发绀，四肢发冷，脉搏减弱，血压低，对刺激的反应减弱。
+儿童胸部疼痛通常不是心源性的。婴儿的胸痛可能表现为原因不明的明显易激惹，尤其在进食期间或进食后更为显著，这种情况可能由左冠状动脉异常起源于肺动脉引起。在年龄较大的儿童和青少年中，由于心脏病因引起的胸痛通常与劳累相关，可能由冠状动脉异常，心包炎、心肌炎、肥厚性心肌病或严重主动脉瓣狭窄引起。
+晕厥通常无预警症状，且多与体力活动相关，可能发生于以下特定心脏异常情况：心肌病（肥厚型或扩张型）、冠状动脉起源异常或遗传性心律失常综合征（例如，长QT综合征、儿茶酚胺能多形性室性心动过速[CPVT]、布鲁格达综合征）。高中年龄段的运动员最常受到影响。
+
+【先天性心脏病的诊断】
+通过脉搏氧饱和度仪进行筛查
+通过脉搏氧饱和度仪进行筛查
+心脏体检
+心脏体检
+胸片和心电图
+胸片和心电图
+超声心动图
+超声心动图
+有时心脏MRI或CT血管造影，心脏导管插入术与心血管造影
+有时心脏MRI或CT血管造影，心脏导管插入术与心血管造影
+当出现心脏杂音、发绀、脉搏异常或心力衰竭表现时，提示可能存在先天性心脏病。在这些新生儿中，超声心动图可以明确诊断先天性心脏病。如果紫绀是仅有的异常，高铁血红蛋白血症也应排除。
+尽管超声心动图通常是诊断性的，但在特定情况下，心脏MRI或CT血管造影可以阐明重要的解剖学细节。有时需通过心导管检查及心血管造影来确诊或评估病变严重程度，但通常仅用于治疗目的。
+
+【新生儿先天性心脏病筛查】
+先天性心脏病的临床表现可能在新生儿期较为隐匿甚至完全缺失。若未能及时发现危重型先天性心脏病（尤其是占新生儿总数10%至15%、需在出生后数小时或数日内接受外科手术或住院治疗的那部分患儿），可能导致新生儿死亡或严重后遗症。因此，建议所有新生儿在出院前使用脉搏血氧仪进行危重先天性心脏病的普遍筛查 (1)。当婴儿≥24小时时进行筛查，如果存在以下任1情况则被认为是阳性：
+任何氧饱和度测量值<90％。
+任何氧饱和度测量值<90％。
+右手和脚氧饱和度测量值同时<95％，要求3个独立的测量，间隔1小时。
+右手和脚氧饱和度测量值同时<95％，要求3个独立的测量，间隔1小时。
+右手（导管前）和脚（导管后）的氧饱和度测量值相差> 3％，要求3次独立配对的测量，间隔1小时。
+右手（导管前）和脚（导管后）的氧饱和度测量值相差> 3％，要求3次独立配对的测量，间隔1小时。
+所有具有阳性筛查结果的新生儿应对先天性心脏病和其他原因的低血氧症（例如，各种呼吸系统疾病，中枢神经系统抑郁，败血症）进行综合评估，通常包括胸部X线检查，心电图，超声心动图检查以及经常进行血液检测。脉搏血氧筛查的灵敏度略高于75%；最常被漏诊的先天性心脏病类型是左心梗阻性病变（例如，主动脉缩窄）。
+
+【新生儿筛查参考】
+1.Martin GR, Ewer AK, Gaviglio A, et al: Updated Strategies for Pulse Oximetry Screening for Critical Congenital Heart Disease.Pediatrics146(1):e20191650, 2020.doi:10.1542/peds.2019-1650
+1.Martin GR, Ewer AK, Gaviglio A, et al: Updated Strategies for Pulse Oximetry Screening for Critical Congenital Heart Disease.Pediatrics146(1):e20191650, 2020.doi:10.1542/peds.2019-1650
+
+【先天性心脏病的治疗】
+心力衰竭的药物稳定治疗（例如，使用利尿剂，血管紧张素转化酶[ACE]抑制剂，β-受体阻滞剂，地高辛，螺内酯，限盐，在某些情况下吸氧或补充前列腺素E1）
+心力衰竭的药物稳定治疗（例如，使用利尿剂，血管紧张素转化酶[ACE]抑制剂，β-受体阻滞剂，地高辛，螺内酯，限盐，在某些情况下吸氧或补充前列腺素E1）
+外科手术修复或介入干预治疗
+外科手术修复或介入干预治疗
+心力衰竭的治疗因病因而异。确定性治疗通常需要纠正病因。
+在急性心衰症状或发绀获得医学上的稳定后，大多数儿童需要手术或经导管修复；某些室间隔缺损可能是例外，随着时间的推移会变小或关闭，或遗留轻度瓣膜功能不全。 经导管的手术方法包括
+球囊房间隔造口术治疗重度紫绀并伴大动脉转位的新生儿
+球囊房间隔造口术治疗重度紫绀并伴大动脉转位的新生儿
+球囊扩张术治疗严重的主动脉瓣狭窄或肺动脉瓣狭窄
+球囊扩张术治疗严重的主动脉瓣狭窄或肺动脉瓣狭窄
+经导管封堵心脏分流术（最常见的是房间隔缺损和动脉导管未闭）
+经导管封堵心脏分流术（最常见的是房间隔缺损和动脉导管未闭）
+肺动脉瓣经导管置入术
+肺动脉瓣经导管置入术
+球囊扩张，伴或不伴血管狭窄支架置入术，最常见的是肺动脉狭窄
+球囊扩张，伴或不伴血管狭窄支架置入术，最常见的是肺动脉狭窄
+
+【新生儿心脏衰竭】
+新生儿出生后第一周内出现急性严重心衰或紫绀属于急症。应建立安全的血管通路，最好是通过脐静脉导管。
+当怀疑或确诊患有严重先天性心脏病时，应开始静脉注射前列腺素 E1，剂量以0.05~0.1mcg/kg/min开始。 保持动脉导管开放是很重要的，因为大多数心脏的病变，表现在这个年龄段是导管相关的全身血流量（例如，左心发育不全综合征，严重主动脉瓣狭窄，主动脉缩窄），或肺血流量（发绀型病变，如严重肺动脉瓣狭窄、肺动脉闭锁或严重的法洛氏四联症）。
+机械通气对于危重新生儿往往是必要的治疗措施。由于补充氧气会降低肺血管阻力，这对患有某些缺陷（如左心发育不全综合症）的婴儿有害，因此应谨慎给氧，甚至不给氧。
+新生儿心力衰竭的其他治疗包括利尿剂，正性肌力药物以及减少后负荷的药物。初始利尿剂呋塞米的初始剂量为1 mg/kg，随后根据尿量调整剂量。多巴胺或多巴酚丁胺等正性肌力药物的输注可维持血压，但其缺点在于会增加心率及后负荷，从而导致心肌耗氧量上升。它们很少用于先天性心脏病的患儿。 米力农，常用于先天性心脏病术后患者，是一种正性肌力药物和血管扩张剂。多巴胺，多巴酚丁胺和米力农都有增加心律失常风险的潜能。硝普钠，是一种纯血管扩张剂，可用于术后高血压。硝普钠的起始剂量为0.3～0.5mcg/kg/min，并滴定到所需的效果（通常的维持剂量约3mcg/kg/min）。
+
+【较大婴儿和儿童的心力衰竭】
+治疗通常包含一种利尿剂（例如，呋塞米0.5～1mg/kg静脉注射，或1～3mg/kg口服，每8至24小时一次，根据需要调整剂量），和血管紧张素转换酶抑制剂（例如，卡托普利0.1～0.3mg/kg口服，每日3次）。保钾利尿剂（例如，螺内酯1mg/kg口服，每日一次或两次，必要时可调整至2mg/kg/次）可能有用，尤其是在需要高剂量呋塞米时。 beta-受体阻滞剂（例如，卡维地洛，美托洛尔）通常用于慢性充血性心力衰竭的儿童。用于成人治疗心力衰竭的较新药物，如沙库比曲/缬沙坦和钠-葡萄糖协同转运蛋白-2（SGLT-2）抑制剂，可能是有用的，但在儿科人群中的数据有限（1)。
+地高辛的使用频率较过去有所降低，但对于有巨大左向右分流的心力衰竭患儿、某些先天性心脏病术后患者（剂量根据年龄而变化； 见表儿童口服地高辛剂量）仍有一定作用。值得注意的是，已证明地高辛可降低单心室患者Norwood术后和二期手术之前的死亡率（2)。 地高辛作为治疗新生儿室上性心动过速的一线应用有所减少，因为它导致的死亡率比普萘洛尔高（3）。但如果沃尔夫-帕金森-怀特综合征不存在，且普萘洛尔无效时，地高辛可作为一线药物使用；或者可以与普萘洛尔或其他抗心律失常药物联合使用，作为二线药物。
+
+【儿童地高辛口服剂量*】
+儿童地高辛口服剂量*
+洋地黄化剂量†（mcg/kg）
+维持量‡
+2.5 微克/公斤，每日两次
+4–5mcg/kg，每天两次
+1个月-2年
+30–50
+5–6mcg/kg，每天两次
+2–5岁
+30–40
+4–5 mcg/kg，每天两次
+6-10岁
+20–35
+2.5–4 mcg/kg，每天两次
+>10岁或体重>30 kg§
+10–15
+0.125 mg每日两次或0.25 mg每日一次
+* 所有剂量均基于肾功能正常儿童的理想体重。静脉注射剂量为口服剂量的 75%。
+† 现在很少使用洋地黄化剂量。它最常用于治疗心律失常或急性心力衰竭。总洋地黄化剂量通常在24小时内给予，先给予一半剂量作为初始剂量，随后给予四分之一剂量两次，间隔8至12小时；需要进行ECG监测。
+‡ 初始维持量是洋地黄化剂量的25%，分2次给予。根据临床反应和药物水平调整剂量。
+§ 不超过成人口服洋地黄化剂量1–1.5 mg。
+* 所有剂量均基于肾功能正常儿童的理想体重。静脉注射剂量为口服剂量的 75%。
+† 现在很少使用洋地黄化剂量。它最常用于治疗心律失常或急性心力衰竭。总洋地黄化剂量通常在24小时内给予，先给予一半剂量作为初始剂量，随后给予四分之一剂量两次，间隔8至12小时；需要进行ECG监测。
+‡ 初始维持量是洋地黄化剂量的25%，分2次给予。根据临床反应和药物水平调整剂量。
+§ 不超过成人口服洋地黄化剂量1–1.5 mg。
+吸氧可以减轻低氧血症，缓解心力衰竭时的呼吸窘迫; 在可能的情况下，分数吸入氧气（FiO2）应保持<40%，以尽量减少肺上皮损伤的风险。对于患有左向右分流病变或左心阻塞性疾病的患者，必须谨慎使用吸氧，因为它可能会加剧肺部过度循环。
+尽管也取决于具体的病症和临床表现而需要进行饮食调整，但一般情况下，建议健康饮食，包括限盐。心力衰竭增加代谢需求和相关的呼吸困难，使得喂养更加困难。对于患有危重先天性心脏病的婴儿，尤其是患有左心梗阻性疾病的婴儿，应控制喂养，以减少发生坏死性肠炎的风险。对于因左向右分流病变导致心力衰竭的婴儿，建议采用热量含量更高的喂食方式；这种喂食方式可增加热量供应，并降低容量超负荷的风险。有些孩子需要管饲，以维持体重增长。如果这些措施没有导致体重增加，则表明需要手术修复畸形。
+
+【感染性心内膜炎的预防】
+目前美国心脏协会关于预防心内膜炎(4) 的指南指出先天性心脏病患儿需要进行抗生素预防，具体如下：
+未修复的紫绀型先天性心脏病（包括接受姑息性分流和导管治疗的儿童）
+未修复的紫绀型先天性心脏病（包括接受姑息性分流和导管治疗的儿童）
+如果使用人工材料或装置，完全修复的先天性心脏病在术后最初 6 个月内
+如果使用人工材料或装置，完全修复的先天性心脏病在术后最初 6 个月内
+已修复的先天性心脏病，在人工补片或修复装置部位或附近有残余缺陷
+已修复的先天性心脏病，在人工补片或修复装置部位或附近有残余缺陷
+机械瓣膜或生物瓣膜
+机械瓣膜或生物瓣膜
+既往心内膜炎病史
+既往心内膜炎病史
+
+【治疗参考文献】
+1.Loss KL, Shaddy RE, Kantor PF: Recent and Upcoming Drug Therapies for Pediatric Heart Failure.Front Pediatr9:681224, 2021.Published 2021 Nov 11.doi:10.3389/fped.2021.681224
+1.Loss KL, Shaddy RE, Kantor PF: Recent and Upcoming Drug Therapies for Pediatric Heart Failure.Front Pediatr9:681224, 2021.Published 2021 Nov 11.doi:10.3389/fped.2021.681224
+2.Oster ME, Kelleman M, McCracken C, et al: Association ofdigoxinwith interstage mortality: Results from the Pediatric Heart Network Single Ventricle Reconstruction Trial Public Use Dataset.J Am Heart Assoc5(1): e002566., 2016.
+2.Oster ME, Kelleman M, McCracken C, et al: Association ofdigoxinwith interstage mortality: Results from the Pediatric Heart Network Single Ventricle Reconstruction Trial Public Use Dataset.J Am Heart Assoc5(1): e002566., 2016.
+3.Bolin EH, Lang SM, Tang X, et al:Propranololversusdigoxinin the neonate for supraventricular tachycardia (from the Pediatric Health Information System).Am J Cardiol119(10): 1605–1610, 2017.
+3.Bolin EH, Lang SM, Tang X, et al:Propranololversusdigoxinin the neonate for supraventricular tachycardia (from the Pediatric Health Information System).Am J Cardiol119(10): 1605–1610, 2017.
+4.Baltimore RS, Gewitz M, Baddour LM, et al: Infective Endocarditis in Childhood: 2015 Update: A Scientific Statement From the American Heart Association.Circulation132(15):1487–1515, 2015.doi:10.1161/CIR.0000000000000298
+4.Baltimore RS, Gewitz M, Baddour LM, et al: Infective Endocarditis in Childhood: 2015 Update: A Scientific Statement From the American Heart Association.Circulation132(15):1487–1515, 2015.doi:10.1161/CIR.0000000000000298
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+American Heart Association: Common Heart Defects: Provides overview of common congenital heart defects for parents and caregivers
+American Heart Association: Common Heart Defects: Provides overview of common congenital heart defects for parents and caregivers
+American Heart Association: Infective Endocarditis: Provides an overview of infective endocarditis, including summarizing prophylactic antibiotic use, for patients and caregivers
+American Heart Association: Infective Endocarditis: Provides an overview of infective endocarditis, including summarizing prophylactic antibiotic use, for patients and caregivers

@@ -1,0 +1,272 @@
+标题：多发性骨髓瘤
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/plasma-cell-disorders/multiple-myeloma
+============================================================
+
+（参见浆细胞疾病概述。）
+在美国，终身患多发性骨髓瘤的风险为1/132（0.76%）(1)。平均年龄约为70岁。黑人的患病率是白人的两倍。男性略占优势。病因不明，但染色体、基因、放射线以及化学物质与之有关。
+美国癌症协会估计，2024 年美国将诊断出约 35,780 例多发性骨髓瘤新病例，约有 12,540 例死亡（1）。生存率持续提高，最近的报告显示中位生存期超过 10 年（2）。
+
+【参考文献】
+1.American Cancer Society.Key Statistics About Multiple Myeloma.Atlanta, Ga., American Cancer Society; 2024.
+1.American Cancer Society.Key Statistics About Multiple Myeloma.Atlanta, Ga., American Cancer Society; 2024.
+2.Jew S, Bujarski S, Rgidor B, et al: Clinical outcomes and serum B-cell maturation antigen levels in a real-world unselected population of newly diagnosed multiple myeloma patients.Target Oncol18(5):735–747, 2023.doi:10.1007/s11523-023-00990-6
+2.Jew S, Bujarski S, Rgidor B, et al: Clinical outcomes and serum B-cell maturation antigen levels in a real-world unselected population of newly diagnosed multiple myeloma patients.Target Oncol18(5):735–747, 2023.doi:10.1007/s11523-023-00990-6
+
+【多发性骨髓瘤的病理生理学】
+恶性浆细胞产生的M蛋白（单克隆免疫球蛋白），在约50～55%的骨髓瘤患者中为IgG型，在约20%的患者中为IgA型 (1)。在产生IgG或IgA的患者中，40%的患者还患有Bence Jones蛋白尿，这是尿液中游离单克隆kappa（κ）或lambda（λ）轻链。15%~20%的患者，浆细胞只分泌本-周蛋白。IgD型骨髓瘤约占1～ 2% 并且在亚裔患者中更为常见。IgE骨髓瘤极为罕见。
+很少有患者的血液和尿液中没有 M 蛋白。然而，血清游离轻链测定显示，许多以前被认为患有非分泌性骨髓瘤的患者存在单克隆轻链。
+弥散性骨质疏松症常常存在离散的溶骨性病变，最常见的部位是骨盆、脊柱、肋骨、股骨、肱骨和颅骨。病变是由增殖的浆细胞肿瘤取代骨质，或恶性浆细胞分泌的细胞因子激活破骨细胞并抑制成骨细胞引起的骨质流失引起的。溶骨性病灶常是多发性的；偶可表现为孤立的髓内肿块。骨丢失的增加也可能导致高钙血症。
+髓外孤立性浆细胞瘤不常见，但可发生于任何器官组织，特别是上呼吸道。
+许多患者，在诊断时出现肾功能衰竭，或在疾病的病程中出现。肾功能衰竭有很多原因，最常见的原因是轻链沉积于远端肾小管(骨髓瘤相关肾病)或高钙血症而引起。
+患者经常会出现贫血，这通常是由于肾脏疾病或癌细胞抑制红细胞生成所致。多发性骨髓瘤患者的贫血也可能由其他不相关原因引起，包括缺铁或者维生素 B12 缺乏。
+由于缺乏正常抗体和其他免疫功能障碍，一些患者更容易受到细菌感染。病毒感染，尤其是带状疱疹感染，由于蛋白酶体抑制剂（例如，硼替佐米、伊沙佐米、卡非佐米）和单克隆抗体（例如，达雷妥尤单抗、埃洛妥珠单抗、伊沙妥昔单抗）等治疗方式而发生。
+10%的骨髓瘤患者可发生淀粉样变，常见于伴有2λ-型M蛋白的患者中。
+多发性骨髓瘤出现变异表达 (见表多发性骨髓瘤的多种表现)。
+
+【多发性骨髓瘤的多种表现】
+多发性骨髓瘤的多种表现
+髓外浆细胞瘤
+浆细胞瘤发生于髓外系统
+骨内孤立性浆细胞瘤
+骨内单个浆细胞瘤，通常不产生M蛋白
+骨硬化型骨髓瘤（POEMS综合征）
+多发性神经病（慢性炎性多发神经病）
+器官肿大（肝大、脾大或淋巴结肿大）
+内分泌疾病（如，男性乳腺发育、睾丸萎缩）
+皮肤改变（如色素沉着、多毛）
+不分泌型骨髓瘤
+血清和尿液中无M蛋白
+无血清游离轻链升高
+
+【病理生理学参考文献】
+1.Kyle RA, Gertz MA, Witzig TE, et al.Review of 1027 patients with newly diagnosed multiple myeloma.Mayo Clin Proc2003;78(1):21-33.doi:10.4065/78.1.21
+1.Kyle RA, Gertz MA, Witzig TE, et al.Review of 1027 patients with newly diagnosed multiple myeloma.Mayo Clin Proc2003;78(1):21-33.doi:10.4065/78.1.21
+2.Ríos-Tamayo R, Krsnik I, Gómez-Bueno M, et al.AL Amyloidosis and Multiple Myeloma: A Complex Scenario in Which Cardiac Involvement Remains the Key Prognostic Factor. Life (Basel).2023;13(7):1518.Published 2023 Jul 6.doi:10.3390/life13071518
+2.Ríos-Tamayo R, Krsnik I, Gómez-Bueno M, et al.AL Amyloidosis and Multiple Myeloma: A Complex Scenario in Which Cardiac Involvement Remains the Key Prognostic Factor. Life (Basel).2023;13(7):1518.Published 2023 Jul 6.doi:10.3390/life13071518
+
+【多发性骨髓瘤的症状和体征】
+持续性骨骼疼痛（特别是在背部或胸廓）、肾衰竭、反复的细菌感染是最常出现的症状，但很多患者是在常规实验室检查发现血液总蛋白水平增高，蛋白尿或不明原因贫血或肾衰竭而确诊。
+贫血症状明显，在中某些患者可能是唯一进行评估的原因，少数患者有高黏滞综合征的表现。
+常见病理性骨折(例如，轻微或无外伤的骨折)，椎骨压缩可能导致脊髓受压迫和截瘫。
+周围神经病变、腕管综合征（尤其是淀粉样变性患者）、异常出血和高钙血症症状（如渴渴、脱水）是常见的。
+淋巴结和肝脾大不常见。
+
+【多发性骨髓瘤的诊断】
+包含血小板的全血细胞计数（CBC）、外周血涂片、 和生化检查（血尿素氮[BUN]、肌酐、血钙、尿酸、乳酸脱氢酶[LDH]）
+包含血小板的全血细胞计数（CBC）、外周血涂片、 和生化检查（血尿素氮[BUN]、肌酐、血钙、尿酸、乳酸脱氢酶[LDH]）
+血、尿蛋白(24小时收集尿液)电泳后进行免疫固定电泳；免疫蛋白定量分析；血清游离轻链检测。
+血、尿蛋白(24小时收集尿液)电泳后进行免疫固定电泳；免疫蛋白定量分析；血清游离轻链检测。
+X 射线（骨骼检查）和正电子发射断层扫描 (PET)-CT 扫描或全身 MRI
+X 射线（骨骼检查）和正电子发射断层扫描 (PET)-CT 扫描或全身 MRI
+骨髓检查，包括常规细胞遗传学和荧光原位杂交试验（FISH）
+骨髓检查，包括常规细胞遗传学和荧光原位杂交试验（FISH）
+年龄>40岁伴持续性不明原因的骨痛，多见于夜间或休息时，或出现其他典型症状，或无法解释的实验室检查异常（如血清蛋白或尿蛋白升高、高钙血症、肾功能不全或贫血），或x射线显示病理性骨折或溶解性病变，应怀疑多发性骨髓瘤。
+实验室检查包括常规血液学检查、血清beta-2微球蛋白，尿和血清免疫和蛋白电泳，血清自由轻链。患者还应接受骨骼检查和 PET-CT 扫描或全身 MRI 检查，因为这些测试对骨病比射线照相更敏感。除了常规的细胞遗传学和 FISH 研究外，还需要进行骨髓检查（综述见1, 2）。
+常规血液学检查包括血细胞计数和血生化检测。80%患者有贫血，常为正细胞正色素性贫血并呈缗钱样排列，即3～12个红细胞堆叠成线状 (3)。白细胞与血小板计数正常。血尿素氮、血肌酐、乳酸脱氢酶、beta-2微球蛋白和尿酸可能增高。阴离子间隙有时是降低的。大约有10%的患者在诊断时有高钙血症。
+对血清样本和 24 小时收集的浓缩尿液样本进行蛋白质和免疫固定电泳，以识别、量化和表征 M 蛋白。大约有80%～90%的患者血清蛋白电泳可出现M蛋白。其余 10% 到 20% 中的大多数是仅具有游离单克隆轻链（本周蛋白）的患者，可以使用游离轻链测定在血液中检测到，或使用尿蛋白和免疫固定电泳在尿液中检测到。单克隆蛋白在一小部分患者的诊断中不明显；然而，在疾病的过程中，越来越多的患者有单克隆蛋白的证据。
+免疫固定电泳可明确M蛋白的类型（IgG、IgA或不常见的IgD、 IgM或IgE），如果血清免疫电泳出现假阴性，常可检测到轻链蛋白；如果强烈怀疑多发性骨髓瘤，即使血清学检查是阴性，也应进行免疫固定电泳。
+血清游离轻链分析，描述kappa和lambda比率或参与和未参与轻链之间的差异，有助于确认诊断，也可用于监测治疗效果并提供预后数据。
+如果确诊或高度怀疑本病，则应行血清beta2-微球蛋白的检测，其和血清白蛋白均为国际分期系统的一部分以对患者进行分期(见表修订后的国际分期系统)。beta-2微球蛋白是所有细胞膜上的一种小蛋白。其浓度与肿瘤大小和肾功能不全的严重程度直接相关。
+
+【多发性骨髓瘤的改良国际分期系统】
+多发性骨髓瘤的改良国际分期系统
+Beta-2 微球蛋白<3.5mcg/mL(< 297 nmol/L)
+血清白蛋白≥ 3.5 g/dL(≥ 35 g/L)
+LDH正常
+通过FISH检测评估细胞遗传学异常为标准风险*
+不是I期或III期
+beta-2微球蛋白≥5.5 mcg/mL (≥ 466 nmol/L)
+FISH† 检测出高风险细胞遗传学异常和/或 LDH 升高
+* 标准风险细胞遗传异常包括 t(11;14)、t(6;14) 和三体性。
+† 高风险细胞遗传学异常包括 t(4;14)、t(14;16) 或 17p-。
+FISH= 荧光原位杂交； LDH =乳酸脱氢酶
+Data fromPalumbo A, Avet-Loiseau H, Oliva S, et al.Revised International Staging System for Multiple Myeloma: A Report From International Myeloma Working Group.J Clin Oncol2015;33(26):2863-2869.doi:10.1200/JCO.2015.61.2267
+* 标准风险细胞遗传异常包括 t(11;14)、t(6;14) 和三体性。
+† 高风险细胞遗传学异常包括 t(4;14)、t(14;16) 或 17p-。
+FISH= 荧光原位杂交； LDH =乳酸脱氢酶
+Data fromPalumbo A, Avet-Loiseau H, Oliva S, et al.Revised International Staging System for Multiple Myeloma: A Report From International Myeloma Working Group.J Clin Oncol2015;33(26):2863-2869.doi:10.1200/JCO.2015.61.2267
+X射线包括骨骼检查（即，头骨、长骨、脊柱、骨盆和肋骨普通X射线检查）。80%病例有凿孔状溶骨性破坏或弥漫性骨质疏松(3)。放射线核素骨扫描通常无助于诊断。全身MRI可提供更多的详细情况，如果患者出现特定区域的骨痛或神经症状，应行磁共振检查。PET-CT扫描可提供预后信息，并可以帮助确定患者是否存在孤立性浆细胞病或多发性骨髓瘤。
+这张颅骨 X 光片显示骨骼中有多个穿孔病变（箭头），这是多发性骨髓瘤的典型特征。
+Image courtesy of Michael J.Joyce, MD, and Hakan Ilaslan, MD.
+骨髓涂片和活检可发现成片或成簇的浆细胞；诊断骨髓瘤时要求这类细胞≥10%。 然而，骨髓受累是散在的；因此骨髓瘤患者的一些骨髓样本可能显示浆细胞比例<10%。骨髓中浆细胞数比例很少是正常的。浆细胞的形态与所合成的免疫球蛋白的种类无关。骨髓染色体检查（如，应用细胞遗传学方法，如FISH及免疫组化方法）可能揭示浆细胞中与生存差异相关的特定核型异常。
+其他恶性肿瘤（如，转移性癌、淋巴瘤、白血病）和意义不明的单克隆丙种球蛋白血症的诊断和鉴别，通常需要多个标准。
+骨髓克隆性浆细胞或浆细胞瘤。
+骨髓克隆性浆细胞或浆细胞瘤。
+血清和尿液中无M蛋白
+血清和尿液中无M蛋白
+器官损害（高钙血症、肾功能不全、贫血、骨骼损害）
+器官损害（高钙血症、肾功能不全、贫血、骨骼损害）
+不伴M蛋白的患者，诊断骨髓瘤的证据有本-周蛋白尿>200mg/24h或血清异常的游离轻链，溶骨性损害（排除转移性肿瘤或肉芽肿性疾病）以及骨髓中成片或成簇的浆细胞。
+
+【诊断参考】
+1.Sive J, Cuthill K, Hunter H, Kazmi M, Pratt G, Smith D and on behalf of British Society of Haematology: Guidelines on the diagnosis, investigation and initial treatment of myeloma: a British Society for Haematology/UK Myeloma Forum Guideline.Brit J Haematol193:245–268, 2021.doi:10.1111/bjh.17410
+1.Sive J, Cuthill K, Hunter H, Kazmi M, Pratt G, Smith D and on behalf of British Society of Haematology: Guidelines on the diagnosis, investigation and initial treatment of myeloma: a British Society for Haematology/UK Myeloma Forum Guideline.Brit J Haematol193:245–268, 2021.doi:10.1111/bjh.17410
+2.Rajkumar SV: Multiple myeloma: 2022 update on diagnosis, risk-stratification and management.Am J Hematol97(8):1086-1107, 2022.doi:10.1002/ajh.26590
+2.Rajkumar SV: Multiple myeloma: 2022 update on diagnosis, risk-stratification and management.Am J Hematol97(8):1086-1107, 2022.doi:10.1002/ajh.26590
+3.Kyle RA, Gertz MA, Witzig TE, et al.Review of 1027 patients with newly diagnosed multiple myeloma. Mayo Clin Proc.2003;78(1):21-33.doi:10.4065/78.1.21
+3.Kyle RA, Gertz MA, Witzig TE, et al.Review of 1027 patients with newly diagnosed multiple myeloma. Mayo Clin Proc.2003;78(1):21-33.doi:10.4065/78.1.21
+
+【多发性骨髓瘤的治疗】
+对有症状的患者进行常规化疗和皮质类固醇治疗
+对有症状的患者进行常规化疗和皮质类固醇治疗
+免疫调节剂和单克隆抗体的附加治疗
+免疫调节剂和单克隆抗体的附加治疗
+可进行自体干细胞移植
+可进行自体干细胞移植
+可对全身性治疗无效的特定的有症状的区域给予放射治疗。
+可对全身性治疗无效的特定的有症状的区域给予放射治疗。
+治疗并发症，如贫血、高钙血症、肾功能障碍、感染和骨病
+治疗并发症，如贫血、高钙血症、肾功能障碍、感染和骨病
+使用免疫调节剂、单克隆抗体、蛋白酶体抑制剂和较新的细胞疗法治疗复发或难治性疾病
+使用免疫调节剂、单克隆抗体、蛋白酶体抑制剂和较新的细胞疗法治疗复发或难治性疾病
+治疗包括有症状的患者或伴骨髓瘤相关的器官功能不全（贫血、肾功能不全、高钙血症或骨骼疾病）的患者针对恶性细胞进行直接治疗。
+对于最初没有器官功能障碍的患者，需要快速治疗的骨髓瘤危险因素包括
+骨髓中有> 60%的浆细胞
+骨髓中有> 60%的浆细胞
+MRI 发现 > 1 个病变部位
+MRI 发现 > 1 个病变部位
+血清游离轻链水平>100 mg/L
+血清游离轻链水平>100 mg/L
+具有这些风险因素的患者被认为患有活动性骨髓瘤并需要立即治疗，尽管这些患者的早期治疗并未被证明可以提高他们的总体生存率。没有这些危险因素或终末器官功能障碍的患者可能不能从立即治疗中获益，故通常在出现症状或发生并发症时再给予治疗。
+
+【恶性细胞的治疗】
+常规化疗该方案由口服美法仑和泼尼松组成，每 4 至 6 周为一个周期，共 8 至 12 个周期，每月评估疗效，是多发性骨髓瘤的初始治疗方法。然而，添加蛋白酶体抑制剂（如硼替佐米、卡非佐米或伊沙唑米）或免疫调节剂（来那度胺或沙利度胺）后，效果更佳。
+其他的化疗药物，包括环磷酰胺、苯达莫司汀、阿霉素及其类似物聚乙二醇脂质体（阿霉素脂质体），联合免疫调节剂（沙利度胺，来那度胺或硼替佐米）也很有效。研究表明，初始治疗包括硼替佐米和来那度胺，与皮质类固醇同时治疗时，生存率更高。
+在初始治疗中加入抗 CD38 单克隆抗体（达雷木单抗或伊沙妥昔单抗）与硼替佐米和地塞米松（联合或不联合来那度胺）似乎可以改善疗效（1）。
+对治疗的反应（见表定义对癌症治疗的反应) 表示为
+血清和尿液M蛋白减少
+血清和尿液M蛋白减少
+相关血清游离轻链水平降低
+相关血清游离轻链水平降低
+红细胞数量增加
+红细胞数量增加
+肾功能衰竭患者肾功能的改善
+肾功能衰竭患者肾功能的改善
+钙水平升高者的钙水平正常化
+钙水平升高者的钙水平正常化
+减轻骨痛
+减轻骨痛
+减少疲劳
+减少疲劳
+伴有心、肺、肝肾功能正常的患者，尤其是疾病处于稳定状态或几个疗程的初始治疗有效的患者，可考虑进行自体外周血干细胞移植。然而，新的治疗方案是非常有效的，且可使移植不再作为通常必须的治疗方法或完全没有必要。最近的临床试验显示，当患者接受干细胞移植作为初始治疗的一部分时，无进展生存期更长，但总生存期没有改善 (2）。
+非清髓性化疗（如低剂量环磷酰胺和氟达拉滨）后异体干细胞移植或低剂量放疗可使部分患者获得5~10年的无髓瘤生存期。然而，由于移植物抗宿主病的高发病率和高死亡率，同种异体干细胞移植联合清髓性或非清髓性化疗仍处于实验阶段。
+
+【复发性或难治性骨髓瘤的治疗】
+对于复发或难治性骨髓瘤患者，有效的组合包括
+皮质类固醇
+皮质类固醇
+蛋白酶体抑制剂（硼替佐米、伊沙佐米、卡非佐米）
+蛋白酶体抑制剂（硼替佐米、伊沙佐米、卡非佐米）
+免疫调节剂（沙利度胺、来那度胺、泊马度胺）
+免疫调节剂（沙利度胺、来那度胺、泊马度胺）
+单克隆抗体（达雷木单抗、伊沙妥昔单抗、埃罗妥珠单抗）
+单克隆抗体（达雷木单抗、伊沙妥昔单抗、埃罗妥珠单抗）
+这些药物通常与患者尚未接受过治疗的其他有效药物联合使用。
+长期缓解的患者可能会对采用最初缓解时相同的治疗方案进行再次治疗产生反应。 对联合药物治疗失败的患者或可在相同情况下对由其他药物（如，蛋白酶体抑制剂、免疫调节剂、化疗药物）取代的治疗有应答。
+靶向骨髓瘤细胞上蛋白质的单克隆抗体也可能对复发或难治性骨髓瘤非常有效。可用的单克隆抗体包括针对
+CD38（达雷木单抗、伊沙妥昔单抗）
+CD38（达雷木单抗、伊沙妥昔单抗）
+信号淋巴细胞活化分子 F7 (SLAMF7—埃罗妥珠单抗)
+信号淋巴细胞活化分子 F7 (SLAMF7—埃罗妥珠单抗)
+这些单克隆抗体可提高用于治疗多发性骨髓瘤的其他药物的疗效，包括免疫调节剂沙利度胺、来那度胺和泊马度胺，以及蛋白酶体抑制剂硼替佐米和卡非佐米（3、4）。然而，使用任何一种单克隆抗体和地塞米松治疗对许多患者都是有效的，特别是那些病情进展仅仅以测量的肿瘤标志物升高为标志的患者。这种方法避免了额外药物的不良影响。
+下列药物与其他活性治疗骨髓瘤药物（尤其是硼替佐米）联合使用时特别有效：
+核输出选择性抑制剂 selinexor
+核输出选择性抑制剂 selinexor
+组蛋白去乙酰化酶抑制剂帕比司他
+组蛋白去乙酰化酶抑制剂帕比司他
+目前有三种针对 B 细胞成熟抗原 (BCMA) 的有效免疫疗法。这些处理方法包括
+骨髓瘤细胞疗法，包括嵌合抗原受体 (CAR)-T 细胞疗法 idecabtagene、vicleucel 和 ciltacabtagene autoleucel
+骨髓瘤细胞疗法，包括嵌合抗原受体 (CAR)-T 细胞疗法 idecabtagene、vicleucel 和 ciltacabtagene autoleucel
+同时靶向 T 细胞上的 CD3的双特异性抗体（teclistamab 和 elranatamab）（5、6）
+同时靶向 T 细胞上的 CD3的双特异性抗体（teclistamab 和 elranatamab）（5、6）
+针对多发性骨髓瘤细胞上的 G 蛋白偶联受体 C 类、第 5 组、成员 D (GPRC5D) 以及 CD3 (talquetamab) 的双特异性抗体（6）
+针对多发性骨髓瘤细胞上的 G 蛋白偶联受体 C 类、第 5 组、成员 D (GPRC5D) 以及 CD3 (talquetamab) 的双特异性抗体（6）
+尽管这些治疗有效，但它们可能会引起严重的急性副作用（细胞因子释放综合征、神经系统问题）和持续严重感染的高风险。
+口服 BCL-2 抑制剂维奈克拉已被证实可有效治疗骨髓瘤细胞显示遗传标记 t(11;14) 的患者，并可与蛋白酶体抑制剂和单克隆抗体联合使用（7）。
+
+【维持治疗】
+维持治疗可以试用非化疗药物，包括alpha干扰素，它可以延长缓解期但不能改善生存期，并且与明显的不良反应有关。对糖皮质激素为基础的方案有应答的患者，维持治疗时单用糖皮质激素是有效的。
+沙利度胺作为维持治疗也可能是有效的，单用来那度胺或联合皮质类固醇进行维持治疗也是有效的。然而，接受长期来那度胺治疗的患者存在继发性恶性肿瘤的担忧，特别是在自体干细胞移植后。因此，发展为继发性癌症的风险必须与提高生存率进行权衡。
+口服蛋白酶体抑制剂伊沙佐米作为单一药物维持治疗是有效的。伊莎佐米联合来那度胺是否更有效还不得而知。
+抗体作为维持治疗的作用仍有待确定。
+
+【并发症的治疗】
+除了针对恶性细胞的直接治疗外，还必须针对并发症进行治疗，包括
+高钙血症
+高钙血症
+高尿酸血症
+高尿酸血症
+高黏血症
+高黏血症
+肾功能不全
+肾功能不全
+骨骼病变
+骨骼病变
+贫血化疗无法充分缓解的疾病可用重组促红细胞生成素进行治疗。如果贫血引起心血管或明显的全身症状，可输注浓缩红细胞进行治疗。通常患者缺铁的原因与骨髓瘤无关，需要静脉注射铁。贫血患者应定期检测血清铁、转铁蛋白及铁蛋白水平以监测铁储备和维生素B12水平。
+如果出现高粘滞血症在患有骨髓瘤的患者中很少发生这种情况，应进行血浆置换。
+高钙血症可给予补液和水化后静脉注射双磷酸盐(最好是唑来膦酸)进行治疗，有时可给予降钙素或强的松进行治疗。地诺单抗也可用于治疗高钙血症，尤其是患有严重肾功能衰竭的患者。患者应避免含钙食物，钙补充剂和维生素D。
+高尿酸血症可发生于高肿瘤负荷和伴有潜在的代谢性疾病的患者中。然而，大多数患者不需要服用别嘌呤醇。伴高尿酸血症或高肿瘤负荷的患者，以及治疗后存在高风险肿瘤溶解综合征的患者，是应用别嘌呤醇或拉布立酶的指征。
+感染更容易发生在化疗引起中性粒细胞减少的患者中。此外，接受新型抗骨髓瘤药物治疗，特别是蛋白酶体抑制剂硼替佐米、卡非佐米、伊莎佐米及单克隆抗体达雷木单抗、艾妥昔单抗、艾洛珠单抗的患者，更容易发生带状疱疹病毒感染。较新的 B 细胞成熟抗原 (BCMA) 定向治疗与非常高的严重感染风险相关。
+有记录的细菌感染应使用抗生素治疗。不常规建议预防使用抗生素。
+对于接受蛋白酶体抑制剂（硼替佐米、卡非佐米、伊沙佐米）、单克隆抗体（达雷木单抗、伊沙妥昔单抗、埃罗妥珠单抗）、双特异性抗体（替利妥昔单抗、埃拉那单抗、塔尔奎单抗）或 CAR T 细胞疗法（idecabtagene vicleucel、ciltacabtagene autoleucel）的患者，需要预防性使用抗病毒药物（如阿昔洛韦、缬更昔洛韦、泛昔洛韦）。
+预防性静脉注射免疫球蛋白可降低感染风险，但通常只适用于免疫球蛋白水平低且经常复发感染的患者。
+肺炎球菌疫苗及流感疫苗可用于预防感染，但由于与疾病和治疗相关的免疫缺陷，对大多数患者无效。不建议免疫系统受损的患者使用活疫苗。为了预防带状疱疹感染，带状疱疹疫苗，但效果有限。
+肾脏损害常可通过充分水化得到改善。伴有长期大量本周蛋白（每天≥10～30g）的患者，如果保持每天尿量>2000mL，仍可能具有良好的肾功能。伴有本周蛋白尿的患者，脱水治疗联合高渗液静脉输注可诱发急性少尿性肾衰竭。某些患者，血浆置换可能是有效的。应避免使用肾毒性药物。对潜在的骨髓瘤进行快速和积极的治疗，以降低肾毒性单克隆免疫球蛋白的水平，对于逆转这种情况很重要。
+骨骼病变需要多种支持治疗。维持行走能力和补充钙和维生素D，如上所述，有助于保持没有疾病相关性高钙血症的患者的骨密度。诊断时，应测定维生素D的水平，并定期监测及相应调整维生素D的剂量。镇痛剂和姑息剂量的放疗（18～24Gy）可缓解骨痛。然而，放疗可引起明显的毒性，因为它可以抑制骨髓功能，降低患者对全身性化疗细胞毒性药物的耐受性。
+大部分患者，尤其是那些伴溶骨性损害或全身性骨质疏松或骨质减少的患者，应每月予静脉注射双膦酸盐（帕米膦酸或唑来膦酸）进行治疗。双膦酸盐可减少骨骼并发症，减轻骨痛，并可能具有抗肿瘤效应。对于因骨髓瘤导致的潜在可逆性肾功能衰竭（与高钙血症或双膦酸盐输注后的持续输注反应无关）患者，可选择每月使用地诺单抗（皮下给药），其与双膦酸盐不同，不通过肾脏清除，也不会引起输注反应。双膦酸盐和denosumab均罕见导致颌骨坏死。保持良好的牙齿健康，避免牙移植和种植牙，是最大程度地降低这种并发症风险的重要方法。
+
+【治疗参考文献】
+1.Abdallah N, Kumar SK.Daratumumabin untreated newly diagnosed multiple myeloma.Ther Adv Hematol2019;10:2040620719894871.doi:10.1177/2040620719894871
+1.Abdallah N, Kumar SK.Daratumumabin untreated newly diagnosed multiple myeloma.Ther Adv Hematol2019;10:2040620719894871.doi:10.1177/2040620719894871
+2.Richardson PG, Jacobus SJ, Weller EA, et al.Triplet Therapy, Transplantation, and Maintenance until Progression in Myeloma.N Engl J Med2022;387(2):132-147.doi:10.1056/NEJMoa2204925
+2.Richardson PG, Jacobus SJ, Weller EA, et al.Triplet Therapy, Transplantation, and Maintenance until Progression in Myeloma.N Engl J Med2022;387(2):132-147.doi:10.1056/NEJMoa2204925
+3.Palumbo A, Chanan-Khan A, Weisel K, et al.Daratumumab,Bortezomib, andDexamethasonefor Multiple Myeloma.N Engl J Med2016;375(8):754-766.doi:10.1056/NEJMoa1606038
+3.Palumbo A, Chanan-Khan A, Weisel K, et al.Daratumumab,Bortezomib, andDexamethasonefor Multiple Myeloma.N Engl J Med2016;375(8):754-766.doi:10.1056/NEJMoa1606038
+4.Arnall JR, Maples KT, Harvey RD, et al.Daratumumabfor the treatment of multiple myeloma: A review of clinical applicability and operational considerations.AnnalsPharmacother2022;56(8):927-940.doi: 10.1177/10600280211058754
+4.Arnall JR, Maples KT, Harvey RD, et al.Daratumumabfor the treatment of multiple myeloma: A review of clinical applicability and operational considerations.AnnalsPharmacother2022;56(8):927-940.doi: 10.1177/10600280211058754
+5.Yang J, Zhou W, Li D, et al.BCMA-targeting chimeric antigen receptor T-cell therapy for multiple myeloma.Cancer Lett2023;553:215949.doi: 10.1016/j.canlet.2022.215949
+5.Yang J, Zhou W, Li D, et al.BCMA-targeting chimeric antigen receptor T-cell therapy for multiple myeloma.Cancer Lett2023;553:215949.doi: 10.1016/j.canlet.2022.215949
+6.Lee H, Neri P, Bahlis NJ.BCMA- or GPRC5D-targeting bispecific antibodies in multiple myeloma: efficacy, safety, and resistance mechanisms.Blood2024;143(13):1211-1217.doi: 10.1182/blood.2023022499
+6.Lee H, Neri P, Bahlis NJ.BCMA- or GPRC5D-targeting bispecific antibodies in multiple myeloma: efficacy, safety, and resistance mechanisms.Blood2024;143(13):1211-1217.doi: 10.1182/blood.2023022499
+7.He W, He F, Hu H.Efficacy and safety ofvenetoclax-based regimens in relapsed or refractory multiple myeloma: a systematic review and meta-analysis of prospective trials.Ann Med2023;55(1):1029-1036.doi:10.1080/07853890.2023.2186480
+7.He W, He F, Hu H.Efficacy and safety ofvenetoclax-based regimens in relapsed or refractory multiple myeloma: a systematic review and meta-analysis of prospective trials.Ann Med2023;55(1):1029-1036.doi:10.1080/07853890.2023.2186480
+
+【多发性骨髓瘤的预后】
+尽管多发性骨髓瘤是一种进行性疾病且无法治愈，但最近的一项研究表明，未经筛选的患者中，平均总生存期已提高至 11 年以上（1）。
+诊断时不利的预后迹象包括分期较高、血清白蛋白水平较低、β-2微球蛋白水平较高、LDH水平升高、肿瘤细胞中特定的细胞遗传学异常以及血液中恶性细胞水平较高。起病初伴有肾衰竭的患者预后很差，除非治疗（主要发生于当前的治疗方案中）后肾功能得到改善。
+因为多发性骨髓瘤最终是致命性的，患者或可从包含医生、家属和朋友关于临终关怀的讨论中获益。讨论的要点可能包括预立遗嘱、胃管的使用和疼痛的缓解。
+
+【预后参考】
+1.Jew S, Bujarski S, Regidor B, et al.Clinical outcomes and serum B-cell maturation antigen levels in a real-world unselected population of newly diagnosed multiple myeloma patients.Target Oncol2023;18:735-747.doi: 10.1007/s11523-023-00990-6
+1.Jew S, Bujarski S, Regidor B, et al.Clinical outcomes and serum B-cell maturation antigen levels in a real-world unselected population of newly diagnosed multiple myeloma patients.Target Oncol2023;18:735-747.doi: 10.1007/s11523-023-00990-6
+恶性浆细胞产生单克隆免疫球蛋白，侵犯并破坏骨组织。
+恶性浆细胞产生单克隆免疫球蛋白，侵犯并破坏骨组织。
+迅速进展的浆细胞瘤和过度分泌的细胞因子导致多发的、弥漫的、溶骨性病变（通常在骨盆、脊柱、肋骨、颅骨）和弥漫性骨质疏松症；常见疼痛，骨折和高钙血症。
+迅速进展的浆细胞瘤和过度分泌的细胞因子导致多发的、弥漫的、溶骨性病变（通常在骨盆、脊柱、肋骨、颅骨）和弥漫性骨质疏松症；常见疼痛，骨折和高钙血症。
+常见肾衰竭和贫血。
+常见肾衰竭和贫血。
+约10％的患者有淀粉样变，主要见于 λ 轻链产生过多的患者。
+约10％的患者有淀粉样变，主要见于 λ 轻链产生过多的患者。
+行血、尿蛋白电泳后进行免疫固定电泳、免疫蛋白定量分析，测量血清游离轻链。
+行血、尿蛋白电泳后进行免疫固定电泳、免疫蛋白定量分析，测量血清游离轻链。
+做骨髓穿刺活检
+做骨髓穿刺活检
+有症状的患者和器官功能障碍的患者应接受药物治疗，包括皮质类固醇、化疗药物、蛋白酶体抑制剂、免疫调节剂、单克隆抗体、选择性核输出抑制剂、组蛋白去乙酰化酶抑制剂以及靶向B细胞成熟抗原的细胞和抗体免疫疗法。
+有症状的患者和器官功能障碍的患者应接受药物治疗，包括皮质类固醇、化疗药物、蛋白酶体抑制剂、免疫调节剂、单克隆抗体、选择性核输出抑制剂、组蛋白去乙酰化酶抑制剂以及靶向B细胞成熟抗原的细胞和抗体免疫疗法。
+干细胞移植是稳定患者的一种选择，但新的、高效的治疗方案可能会使其他患者不需要干细胞移植。
+干细胞移植是稳定患者的一种选择，但新的、高效的治疗方案可能会使其他患者不需要干细胞移植。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+Bal S, Giri S, Godby KN, Costa LJ: New regimens and directions in the management of newly diagnosed multiple myeloma.Am J Hematol96:367–378, 2021.doi:10.1002/ajh.26080
+Bal S, Giri S, Godby KN, Costa LJ: New regimens and directions in the management of newly diagnosed multiple myeloma.Am J Hematol96:367–378, 2021.doi:10.1002/ajh.26080
+Cook G, Morris CTCM: Evolution or revolution in multiple myeloma therapy and the role of the UK.Brit J Haematol191:542–551, 2020.doi:10.1111/bjh.17148
+Cook G, Morris CTCM: Evolution or revolution in multiple myeloma therapy and the role of the UK.Brit J Haematol191:542–551, 2020.doi:10.1111/bjh.17148
+Cowan AJ, Green DJ, Kwok M, et al.Diagnosis and management of multiple myeloma: A review.JAMA327:464-477, 2022.doi: 10.1001/jama.2022.0003
+Cowan AJ, Green DJ, Kwok M, et al.Diagnosis and management of multiple myeloma: A review.JAMA327:464-477, 2022.doi: 10.1001/jama.2022.0003
+Gulla A, Anderson KC: Multiple myeloma: the (r)evolution of current therapy and a glance into the future.Haematologica105:2358–2367, 2020.doi:10.3324/haematol.2020.247015
+Gulla A, Anderson KC: Multiple myeloma: the (r)evolution of current therapy and a glance into the future.Haematologica105:2358–2367, 2020.doi:10.3324/haematol.2020.247015
+Rafae A., Rhee FV, Hadidi SA: Perspectives on the treatment of multiple myeloma.Oncologist29:200-212, 2024.doi: 10.1093/oyad306
+Rafae A., Rhee FV, Hadidi SA: Perspectives on the treatment of multiple myeloma.Oncologist29:200-212, 2024.doi: 10.1093/oyad306
+Rajkumar SV: Multiple Myeloma: 2022 update on diagnosis, risk stratification, and management.Am J Hematol97:1086–1107, 2022.doi: 10.1002/ajh.26590
+Rajkumar SV: Multiple Myeloma: 2022 update on diagnosis, risk stratification, and management.Am J Hematol97:1086–1107, 2022.doi: 10.1002/ajh.26590

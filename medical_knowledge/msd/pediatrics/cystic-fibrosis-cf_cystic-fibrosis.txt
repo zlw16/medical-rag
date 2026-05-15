@@ -1,0 +1,311 @@
+标题：囊性纤维化
+来源：https://www.msdmanuals.cn/professional/pediatrics/cystic-fibrosis-cf/cystic-fibrosis
+============================================================
+
+囊性纤维化（CF）是一种危及生命的遗传性疾病，截至2021年，在美国，白人婴儿的发病率约为1/3300，黑人婴儿约为1/15300，亚裔美国婴儿约为 1/32000（1）。美国约有4万人患有囊性纤维化（CF），据估计全球94个国家共有约10.5万人被确诊患有该疾病（2）。由于治疗方法和预期寿命的改善，美国约 60% 的 CF 患者现已成年 。
+
+【参考文献】
+1.Cystic Fibrosis Foundation Patient Registry2021 Annual Data Report Bethesda, Maryland 2025 Cystic Fibrosis Foundation.Accessed July 30, 2025.
+1.Cystic Fibrosis Foundation Patient Registry2021 Annual Data Report Bethesda, Maryland 2025 Cystic Fibrosis Foundation.Accessed July 30, 2025.
+2Cystic Fibrosis Foundation: About Cystic Fibrosis.Accessed July 30, 2025.
+2Cystic Fibrosis Foundation: About Cystic Fibrosis.Accessed July 30, 2025.
+
+【囊性纤维化的病因】
+囊性纤维化是一种常染色体隐性遗传疾病，在白人人群中的遗传携带率约为4%（27分之一）（1）。导致 CF 的基因已定位于 7 号染色体的长臂上。它编码膜相关蛋白，该蛋白称为囊性纤维化跨膜调节因子（CFTR）。最常见的基因变异是F508del，约占85%的CF等位基因；已鉴定出>2000种较少见的CFTR变异（2）。
+CFTR 是一种环磷酸腺苷(cAMP) 调节的氯通道，调节氯、钠和碳酸氢盐跨上皮膜的转运。它在多个器官系统中表达，包括呼吸道、胰腺、肠道和汗腺（参见囊性纤维化病理生理学）。还可能存在许多其他功能。疾病仅在纯合子（即双等位基因致病性变异）人群中显现。杂合子虽然存在上皮细胞电解质转运的轻度异常，但是并无异常的临床症状。
+CFTR变体可能涉及移码（DNA 序列中的缺失或插入，改变读取序列的方式）或无义（终止）突变。根据变异如何影响 CFTR 蛋白的功能或加工，这些变异被分为 6 类（3）。I类，II类或III类变异的患者被认为有一个更严重的基因型，该基因型可导致CFTR功能很少或缺乏，而具有1或2个IV类、V类或VI类变异的患者被认为具有一个较轻度的基因型，该基因型导致CFTR功能仍有残余。然而，特定基因变异与疾病表现之间并不存在严格的对应关系，因此，相较于基因分型，临床检测（即器官功能检测）被认为是更可靠的预后判断依据。
+
+【病因参考文献】
+1.Zvereff VV, Faruki H, Edwards M, Friedman KJ: Cystic fibrosis carrier screening in a North American population.Genet Med16(7):539-546, 2014.doi: 10.1038/gim.2013.188
+1.Zvereff VV, Faruki H, Edwards M, Friedman KJ: Cystic fibrosis carrier screening in a North American population.Genet Med16(7):539-546, 2014.doi: 10.1038/gim.2013.188
+2.Grasemann H, Ratjen F: Cystic Fibrosis.N Engl J Med389(18):1693-1707, 2023.doi:10.1056/NEJMra2216474
+2.Grasemann H, Ratjen F: Cystic Fibrosis.N Engl J Med389(18):1693-1707, 2023.doi:10.1056/NEJMra2216474
+3.Ong T, Ramsey BW: Cystic Fibrosis: A Review.JAMA329(21):1859-1871, 2023.doi:10.1001/jama.2023.8120
+3.Ong T, Ramsey BW: Cystic Fibrosis: A Review.JAMA329(21):1859-1871, 2023.doi:10.1001/jama.2023.8120
+
+【囊性纤维化的病理生理学】
+病人的外分泌腺几乎都受影响，但在分布和严重程度上差异很大。受侵犯的腺体可分为三类：
+被腔内(胰腺、肠腺、肝内胆管、胆囊和颌下腺)的黏液阻塞
+被腔内(胰腺、肠腺、肝内胆管、胆囊和颌下腺)的黏液阻塞
+组织学异常，但产生过量分泌物的腺体（气管支气管腺和十二指肠腺）。
+组织学异常，但产生过量分泌物的腺体（气管支气管腺和十二指肠腺）。
+组织学正常，但分泌过量的钠和氯离子的腺体（汗腺、腮腺、小的唾液腺）
+组织学正常，但分泌过量的钠和氯离子的腺体（汗腺、腮腺、小的唾液腺）
+图示A部分显示可能受囊性纤维化影响的器官。
+B图显示正常气道，气道上皮壁有一薄层粘液。
+C部分显示了一个患有囊性纤维化的气道。拓宽的气道被粘稠的粘液堵塞，粘液中含有血性或化脓性物质，通常包括感染性微生物，如细菌。
+Source: National Heart, Lung, and Blood Institute; National Institutes of Health; U.S. Department of Health and Human Services.
+
+【呼吸系统】
+尽管新生儿时期肺组织在组织学上通常正常，但多数患者自婴儿期或幼儿早期开始即出现肺部疾病的体征或症状。粘液堵塞和慢性细菌感染，伴随明显的炎症反应，损伤气道，最终导致支气管扩张症和呼吸功能不全。该疾病的临床病程特点是感染引发的偶发性加重以及肺功能进行性下降。
+肺损伤可能由异常稠厚的粘液分泌物弥漫性阻塞小气道引发。气道的细支气管炎和黏液脓性栓子继发于阻塞和感染。由气道细胞释放蛋白酶和促炎细胞因子引起的慢性炎症也会导致肺损伤。气道的改变比肺实质改变更为常见，肺气肿表现不突出。约40%的患者存在支气管高反应性，可能对支气管扩张剂部分有效，也可能完全无效（1，2）。
+对于晚期肺疾病患者，慢性低氧血症导致肺动脉肌层肥厚、肺动脉高压和右心室肥大。
+大多数患者的肺部被致病菌定植。在病程早期，分离到的最常见病原菌是金黄色葡萄球菌，随着疾病进展，包括耐多药菌株在内的绿脓假单胞菌被频繁分离到。P. aeruginosa（铜绿假单胞菌）的黏液样变体是唯一与囊性纤维化相关的类型，其预后比非黏液型P. aeruginosa（铜绿假单胞菌）更差。
+在美国，耐甲氧西林金黄色葡萄球菌（MRSA）在呼吸道的感染率约为25%（3）。与非 MRSA 慢性感染患者相比，MRSA 慢性感染患者通常肺功能下降更快，生存率更低。
+截至2023年，在美国约1.2%的患者存在Burkholderia cepacia（洋葱伯克霍尔德菌）复合群定植情况，且这种定植可能与肺部功能更快恶化相关（4）。
+非结核分枝杆菌，包括Mycobacterium avium（鸟分枝杆菌）复合体和M. abscessus（脓肿分枝杆菌），是潜在的呼吸道病原体。鉴别定植与感染是具有挑战性的。
+其他常见的呼吸道病原体包括嗜麦芽窄食单胞菌、木糖氧化无色杆菌和曲霉菌属。
+厌氧菌和常见的呼吸道病毒在CF患者的呼吸道中经常出现，但它们在疾病进展中的作用尚未确定。
+胰腺，小肠和肝胆系统最常受到影响。约85%的患者存在胰腺外分泌功能受损（5）。例外情况是一部分携带具有残余功能的特定CFTR变体（即IV类、V类或VI类变体）的患者，其胰腺功能得以保留。胰腺功能不全的患者存在脂肪、脂溶性维生素和蛋白质吸收不良，导致脂肪泻、营养不良及儿童生长发育迟缓。十二指肠液异常粘稠，酶活性缺失或减少，碳酸氢盐浓度降低；粪便胰蛋白酶和糜蛋白酶也缺失或减少。内分泌性胰腺功能障碍较为少见，但大约 20% 的青少年和多达 50% 的成人会出现葡萄糖耐量受损或糖尿病（6）。
+约 30% 的患者发生囊性纤维化相关肝病 (包括肝脂肪变性)（7）。胆管受累伴胆汁淤积和胆栓形成，可导致肝纤维化。大约 3%～4% 的患者会在 12 岁前进展为伴有静脉曲张和门脉高压的不可逆性多结节性肝硬化。肝细胞衰竭是一种罕见的晚期事件。胆石症的发病率有所增加，但这通常是无症状的。
+异常粘性的肠道分泌物常引起新生儿胎粪性肠梗阻，有时可引起结肠胎粪堵塞。大龄儿童和成人也有可能发展为间歇性或慢性便秘与肠梗阻。
+其他胃肠道问题包括肠套叠、肠扭转、直肠脱垂、阑尾周围脓肿、胰腺炎、肝胆管癌症以及胃肠道（包括胰腺）癌症的风险增加，胃食管反流、食道炎，以及克罗恩病和乳糜泻的患病率增加。
+约98%的成年男性因输精管发育不良、先天性输精管缺如，或其他类型的梗阻性无精子症而导致不育（8）。然而，精子生成通常得以保留。成年女性患者由于子宫颈分泌物黏稠，生育力降低，但许多患囊性纤维化的妇女仍能妊娠到分娩期。母亲和婴儿的妊娠预后情况与母亲的健康情况相关。
+其他并发症包括慢性鼻窦炎、骨质减少/骨质疏松症、抑郁和焦虑、慢性疼痛、阻塞性睡眠呼吸暂停, 其他睡眠障碍、肾结石、依赖透析的慢性肾病（可能与治疗以及 CF 有关），缺铁性贫血,感音神经性听力损失和耳鸣由暴露于耳毒性药物（尤其是氨基糖苷类）和发作性关节痛/关节炎。
+
+【病理生理学参考文献】
+1.Levine H, Cohen-Cymberknoh M, Klein N, et al: Reversible airway obstruction in cystic fibrosis: Common, but not associated with characteristics of asthma.J Cyst Fibros15(5):652-659, 2016.doi:10.1016/j.jcf.2016.01.003
+1.Levine H, Cohen-Cymberknoh M, Klein N, et al: Reversible airway obstruction in cystic fibrosis: Common, but not associated with characteristics of asthma.J Cyst Fibros15(5):652-659, 2016.doi:10.1016/j.jcf.2016.01.003
+2.McCuaig S, Martin JG: How the airway smooth muscle in cystic fibrosis reacts in proinflammatory conditions: implications for airway hyper-responsiveness and asthma in cystic fibrosis.Lancet Respir Med1(2):137-147, 2013.doi:10.1016/S2213-2600(12)70058-9
+2.McCuaig S, Martin JG: How the airway smooth muscle in cystic fibrosis reacts in proinflammatory conditions: implications for airway hyper-responsiveness and asthma in cystic fibrosis.Lancet Respir Med1(2):137-147, 2013.doi:10.1016/S2213-2600(12)70058-9
+3.Chmiel JF, Aksamit TR, Chotirmall SH, et al: Antibiotic management of lung infections in cystic fibrosis.一、The microbiome, methicillin-resistantStaphylococcus aureus, gram-negative bacteria, and multiple infections.Ann Am Thorac Soc11(7):1120-1129, 2014.doi:10.1513/AnnalsATS.201402-050AS
+3.Chmiel JF, Aksamit TR, Chotirmall SH, et al: Antibiotic management of lung infections in cystic fibrosis.一、The microbiome, methicillin-resistantStaphylococcus aureus, gram-negative bacteria, and multiple infections.Ann Am Thorac Soc11(7):1120-1129, 2014.doi:10.1513/AnnalsATS.201402-050AS
+4.Cystic Fibrosis Foundation: Patient Registry: 2023 Patient Registry and Annual Data Report.September 2024.Accessed August 7, 2025.
+4.Cystic Fibrosis Foundation: Patient Registry: 2023 Patient Registry and Annual Data Report.September 2024.Accessed August 7, 2025.
+5.Ritivoiu ME, Drăgoi CM, Matei D, et al: Current and Future Therapeutic Approaches of Exocrine Pancreatic Insufficiency in Children with Cystic Fibrosis in the Era of Personalized Medicine.Pharmaceutics15(1):162, 2023.doi:10.3390/pharmaceutics15010162
+5.Ritivoiu ME, Drăgoi CM, Matei D, et al: Current and Future Therapeutic Approaches of Exocrine Pancreatic Insufficiency in Children with Cystic Fibrosis in the Era of Personalized Medicine.Pharmaceutics15(1):162, 2023.doi:10.3390/pharmaceutics15010162
+6.Mason KA, Marks BE, Wood CL, Le TN: Cystic fibrosis-related diabetes: The patient perspective.J Clin Transl Endocrinol26:100279, 2021.doi:10.1016/j.jcte.2021.100279
+6.Mason KA, Marks BE, Wood CL, Le TN: Cystic fibrosis-related diabetes: The patient perspective.J Clin Transl Endocrinol26:100279, 2021.doi:10.1016/j.jcte.2021.100279
+7.Coman DE, Vincent C, Lavoie A, Bilodeau M, Hercun J: A82 PREVALENCE AND NON-INVASIVE SCREENING FOR CYSTIC FIBROSIS RELATED LIVER DISEASE IN A COHORT FOLLOWED AT A CYSTIC FIBROSIS REFERENCE CENTER.J Can Assoc Gastroenterol6(Suppl 1):44-45, 2023.doi:10.1093/jcag/gwac036.082
+7.Coman DE, Vincent C, Lavoie A, Bilodeau M, Hercun J: A82 PREVALENCE AND NON-INVASIVE SCREENING FOR CYSTIC FIBROSIS RELATED LIVER DISEASE IN A COHORT FOLLOWED AT A CYSTIC FIBROSIS REFERENCE CENTER.J Can Assoc Gastroenterol6(Suppl 1):44-45, 2023.doi:10.1093/jcag/gwac036.082
+8.Cystic Fibrosis Foundation: Fertility in Men with CF.Accessed July 30, 2025.
+8.Cystic Fibrosis Foundation: Fertility in Men with CF.Accessed July 30, 2025.
+
+【囊性纤维化的症状和体征】
+
+【呼吸系统】
+以咳嗽、咳痰和喘息为表现的复发性或慢性感染十分常见。咳嗽是最常见的慢性症状，常伴有咳痰。随着疾病的进展，会出现肋间凹陷、使用呼吸辅助肌、桶状胸、杵状指、发绀和运动耐量降低。上呼吸道受累可能包括鼻息肉、慢性鼻窦炎或反复发作的急性鼻窦炎。
+肺部并发症包括气胸，非结核分枝杆菌感染，咯血，过敏性支气管肺曲霉病（ABPA）和肺心病（继发于肺动脉高压的右心衰竭）。
+胎粪性肠梗阻由于粘稠的胎粪阻塞回肠，可能是最早的征象，约20%的CF患儿存在胎粪性肠梗阻 (1)。它通常表现为腹胀，呕吐，胎粪无法排出。有些婴儿还可能出现肠穿孔，并出现腹膜炎和休克的症状。胎粪堵塞综合征的婴儿有胎粪排出延迟。他们可能会有相似的梗阻体征，或是非常轻微和短暂的症状，容易被忽视。对于无胎粪性肠梗阻的婴儿，发病常由恢复出生体重的延迟，以及4〜6周龄时体重增加不足所预示。
+有时候，营养不良的婴幼儿，特别是采用低过敏配方或大豆配方喂养的婴儿，会出现继发于蛋白质吸收不良的全身水肿。
+胰腺功能不全通常是在生命的早期，就出现临床上明显的表现，其病程可能是渐进式的。临床表现包括频繁排出脂肪泻性粪便（体积大、气味恶臭、油腻），腹部膨隆，以及在食欲正常甚至亢进的情况下出现皮下脂肪及肌肉量减少的生长发育不良。临床表现可能继发于脂溶性维生素A、D、E和K的缺乏。有关更多信息，请参阅维生素概述。
+未经治疗的婴儿和幼儿可能会发生直肠脱垂，这是由于咳嗽引起的腹内压力增加和排便过程中的应激共同作用造成的。
+在儿童和成人患者中，胃食管反流是相对比较常见的。
+便秘是 CF 患者的另一个常见问题。此外，所有年龄的患者都有发生远端肠梗阻综合征的风险，其特征是反复发作，有时慢性发作部分或完全的小肠梗阻或大肠梗阻。便秘和远端肠梗阻综合征都可能是由于肠道内黏液分泌物积聚而引起的。症状包括痉挛性腹痛、大便形状改变、食欲降低，有时会有呕吐。
+在炎热的天气中或有发热的情况下，出汗过多可能会导致低钠/低氯性脱水和循环衰竭。在干旱的气候条件下，婴儿可能会出现慢性代谢性碱中毒。在皮肤上的盐晶体的形成和有咸味，都强烈提示患有囊性纤维化的可能。
+由于睡眠质量和效率差，儿童可能会出现睡眠障碍（2）。睡眠障碍的原因可能包括夜间咳嗽、慢性疼痛、睡眠呼吸障碍和睡眠呼吸暂停。
+青少年可能有生长迟缓，和青春期启动延迟。
+
+【症状和体征参考】
+1.Sathe M, Houwen R: Meconium ileus in Cystic Fibrosis.J Cyst Fibros16 Suppl 2:S32-S39, 2017.doi:10.1016/j.jcf.2017.06.007
+1.Sathe M, Houwen R: Meconium ileus in Cystic Fibrosis.J Cyst Fibros16 Suppl 2:S32-S39, 2017.doi:10.1016/j.jcf.2017.06.007
+2.Reiter J, Breuer O, Cohen-Cymberknoh M, Forno E, Gileles-Hillel A: Sleep in children with cystic fibrosis: More under the covers.Pediatr Pulmonol57(8):1944-1951, 2022.doi:10.1002/ppul.25462
+2.Reiter J, Breuer O, Cohen-Cymberknoh M, Forno E, Gileles-Hillel A: Sleep in children with cystic fibrosis: More under the covers.Pediatr Pulmonol57(8):1944-1951, 2022.doi:10.1002/ppul.25462
+
+【囊性纤维化的诊断】
+新生儿筛查
+新生儿筛查
+可能通过阳性产前筛查结果、家族史或症状表现提示诊断
+可能通过阳性产前筛查结果、家族史或症状表现提示诊断
+通过排汗试验显示2次汗氯升高可证实诊断。
+通过排汗试验显示2次汗氯升高可证实诊断。
+识别2个引起囊性纤维化的突变（每个染色体上1个）与诊断是一致的
+识别2个引起囊性纤维化的突变（每个染色体上1个）与诊断是一致的
+在非典型情况下，通过显示异常的离子在鼻上皮细胞的转运或异常的肠电流检测，可能很少被证实
+在非典型情况下，通过显示异常的离子在鼻上皮细胞的转运或异常的肠电流检测，可能很少被证实
+在提供并充分利用新生儿筛查的地区，大多数囊性纤维化病例最初是通过该筛查发现的。在新生儿筛查不广泛的地区，患者有时可能直到青春期或成年早期才被正式诊断为囊性纤维化。尽管基因检查取得很大进展，但发汗试验仍然是大多数病例确诊CF的标准方法，因为其具有敏感性和特异性，并且简单和易操作 (1)。
+
+【新生儿筛查】
+在美国，新生儿囊性纤维化普遍筛查现已成为标准（2）。在美国，强制性新生儿囊性纤维化筛查导致囊性纤维化检出率增加，占所有新诊断病例的 54.1%，占 6 个月以下婴儿诊断病例的 85.1%（3）。筛查是基于检测血液中免疫反应性胰蛋白酶原（IRT）浓度的升高。美国的新生儿筛查与改善的结局相关，包括改善至 10 岁的营养状况、肺功能更快地增长以及慢性P. aeruginosa（铜绿假单胞菌）感染的年龄更大（4）。
+有2种方法可用于跟进IRT水平升高的情况。一种方法是进行第二次IRT检测，若结果仍偏高，则接着进行CFTR基因突变的DNA检测（亦称IRT-IRT-DNA法），最后进行汗液氯离子测试（2）。另一种更常用的方法是先检测到免疫反应性胰蛋白酶水平升高，随后直接进行囊性纤维化跨膜传导调节因子基因的DNA突变检测，若检出1个或2个变异型，则进一步行汗液氯化物检测（也称为IRT-DNA法）。IRT-IRT-DNA 方法比 IRT-DNA 方法具有更高的灵敏度（5）。
+新生儿筛查或产前基因检测阳性的新生儿最好在4周时进行汗液氯化物检测，以确保任何相关疾病的表现都能及早发现并迅速治疗（6）。
+
+【汗液氯化物检查】
+进行该测试时，通过毛果芸香碱离子电渗疗法刺激局部出汗，并测量收集到的汗液中的氯离子浓度。尽管汗液氯离子浓度随年龄增长略有升高，汗液检测仍可在几乎所有年龄段实施：
+正常：≤30mEq/L （≤30 mmol/L）（不太可能出现CF）。
+正常：≤30mEq/L （≤30 mmol/L）（不太可能出现CF）。
+中级：30~59 mEq/L（30~59 mmol/L）（可能出现CF.）
+中级：30~59 mEq/L（30~59 mmol/L）（可能出现CF.）
+不正常：≥60mEq/L （≥60 mmol/L）（此结果与CF一致）
+不正常：≥60mEq/L （≥60 mmol/L）（此结果与CF一致）
+该测试不应在出生后48小时前进行，最好在2至4周龄之间进行。在2周龄之前难以获得足够的汗液样本（滤纸上样本需>75mg，微导管中样本需>15mcL。假阴性结果少见，但可见于水肿和低蛋白血症，或汗液量不足的情况下。假阳性结果归因于技术性错误。 暂时性的汗液氯离子浓度升高可能归因于社会心理环境丧失（虐待、忽视儿童），也可见于有神经性厌食的患者中。汗液试验结果若为阳性，应通过第二次汗液试验或检测出 2 个导致囊性纤维化的基因突变予以确证。
+
+【临界汗液试验结果】
+有一小部分患者具有轻度或部分性的囊性纤维化表征，其汗液氯值持续位于临界范围或甚至是正常的范围内。此外，有些患者具有单一器官的表现，例如，慢性或反复发作的胰腺炎、孤立性支气管扩张或先天性双侧输精管缺失，并提示CFTR功能异常。此类患者不符合囊性纤维化（CF）的诊断标准，被归类为 CFTR 相关疾病。在某些情况下，囊性纤维化的诊断可通过检出2个致囊性纤维化基因突变（变异型）来确认，两条染色体上各有1个。若未检测到两个致病性 CF（囊性纤维化）基因变异，可通过辅助评估进行诊断补充，包括胰腺功能检测与影像学检查、高分辨率胸部 CT、鼻窦 CT、肺功能测试、男性泌尿生殖系统评估，以及支气管肺泡灌洗液分析（包括微生物群检测）。
+其他可能有助于诊断的检测包括扩大的CFTR遗传分析和鼻粘膜跨膜电位差测定（基于跨上皮钠重吸收增高的观察结果，患有囊性纤维化的患者的上皮对于Cl离子的通透性相对较差）和肠电流检测。
+
+【CFTR 相关代谢综合征和 CF 筛查阳性，诊断不确定】
+新生儿筛查结果呈阳性的婴儿，以及具有可能性的CFTR功能障碍依据的婴儿，但不符合囊性纤维化的诊断标准的婴儿，被归类为CFTR相关代谢综合征（CRMS），也称为CF筛查阳性，无结论性诊断(CFSPID)。CRMS/CFSPID是在新生儿筛查呈阳性，无症状的婴儿中诊断出来的，并且具有以下两种类型的任一表现 (7)：
+汗液氯化物浓度在中间范围，0或1个CF致病变异。
+汗液氯化物浓度在中间范围，0或1个CF致病变异。
+汗液氯化物浓度处于正常值范围，并且具有2个CFTR突变体，其中至少1个的突变具有不明确的表型后果。
+汗液氯化物浓度处于正常值范围，并且具有2个CFTR突变体，其中至少1个的突变具有不明确的表型后果。
+大多数患有 CRMS/CFSPID 的儿童保持健康，但随时间的推移，< 10% 的患儿可能会出现症状（如肺部疾病）并达到 CF 或 CF 相关疾病的诊断标准（1）。CRMS/CFSPID 患者应在 CF 护理中心定期进行评估和监测。
+
+【胰腺功能检测】
+在诊断时，应评估胰腺功能，通常是通过测定粪便中人胰腺弹性蛋白酶的浓度。即使存在外源性胰酶，也可进行人胰弹性蛋白酶测定。最初胰腺功能正常且携带2个“严重”变异的婴儿，应大约每6至12个月进行一次胰腺酶的系列检测，以监测胰腺功能不全的进展情况（8）。
+
+【呼吸评估】
+在肺恶化或急性加重时，以及常规每1~2年，都要进行胸部影像学检查。高分辨率CT可能有助于更精确地确定肺损伤的程度，并检测轻微的气道异常。胸部X线片和CT可能显示通气过度、粘液嵌塞和支气管壁增厚作为最早的表现。随后的改变包括有肺部浸润、肺不张和肺门淋巴结肿大；晚期疾病可出现节段性或肺叶性肺不张、囊肿形成、支气管扩张以及肺动脉和右心室肥厚。分支的指状阴影表示扩张的支气管已被黏液嵌塞，具有特征性。
+鼻窦CT检查适用于具有显著鼻窦症状或鼻息肉的患者，对于这些患者而言，正考虑行鼻窦内窥镜手术。这些检查几乎总能显示鼻窦持续浑浊，提示存在慢性鼻窦炎。
+胸片显示右下叶塌陷。结果呈典型的CF表现，但并不特异。
+胸片显示右下叶塌陷。结果呈典型的CF表现，但并不特异。
+By permission of the publisher.From Berman L:Atlas of Anesthesia: Critical Care.Edited by R Miller (series editor) and RR Kirby.Philadelphia, Current Medicine, 1997.
+囊性纤维化男性患者胸部X线片显示与支气管扩张一致的肺纹理增加。
+囊性纤维化男性患者胸部X线片显示与支气管扩张一致的肺纹理增加。
+PHOTOSTOCK-ISRAEL/SCIENCE PHOTO LIBRARY
+CT扫描显示整个肺部支气管扩张。CF表现很典型，但并不特异。
+CT扫描显示整个肺部支气管扩张。CF表现很典型，但并不特异。
+By permission of the publisher.From Berman L:Atlas of Anesthesia: Critical Care.Edited by R Miller (series editor) and RR Kirby.Philadelphia, Current Medicine, 1997.
+胸片显示右下叶塌陷。结果呈典型的CF表现，但并不特异。
+胸片显示右下叶塌陷。结果呈典型的CF表现，但并不特异。
+By permission of the publisher.From Berman L:Atlas of Anesthesia: Critical Care.Edited by R Miller (series editor) and RR Kirby.Philadelphia, Current Medicine, 1997.
+囊性纤维化男性患者胸部X线片显示与支气管扩张一致的肺纹理增加。
+囊性纤维化男性患者胸部X线片显示与支气管扩张一致的肺纹理增加。
+PHOTOSTOCK-ISRAEL/SCIENCE PHOTO LIBRARY
+CT扫描显示整个肺部支气管扩张。CF表现很典型，但并不特异。
+CT扫描显示整个肺部支气管扩张。CF表现很典型，但并不特异。
+By permission of the publisher.From Berman L:Atlas of Anesthesia: Critical Care.Edited by R Miller (series editor) and RR Kirby.Philadelphia, Current Medicine, 1997.
+肺功能检查是临床状态和治疗反应的最佳指标。对于5岁以上的患者，应常规进行肺功能检查，并在怀疑临床状况恶化时随时实施。在婴儿中，可以通过使用增加容量的快速胸腹按压技术来监测呼吸状态，该技术会生成部分流量-容量曲线。对于 3 至 6 岁的儿童，多次呼气冲洗程序可用于生成肺清除指数作为通气不均匀性的衡量标准（9)。
+通过肺活量测定法进行的肺功能测试表明:
+用力肺活量（FVC）、1秒钟用力呼气量（FEV1），25%～75%间的最大呼气流量（FEF25-75）以及FEV1/FVC的比值减低。
+用力肺活量（FVC）、1秒钟用力呼气量（FEV1），25%～75%间的最大呼气流量（FEF25-75）以及FEV1/FVC的比值减低。
+而肺残气量以及残气量/肺总容量比值增加。
+而肺残气量以及残气量/肺总容量比值增加。
+每年应至少完成4次的口咽或痰培养，尤其是对于尚未被P. aeruginosa（铜绿假单胞菌）定植的患者。当精确明确患者下呼吸道微生物菌群（例如，指导抗生素的选择）或清除浓缩的粘液栓塞较为重要时，适宜进行支气管镜检查/支气管肺泡灌洗。
+
+【携带者筛查】
+在美国，是能够进行囊性纤维化携带者筛查的，并且建议计划怀孕的夫妇或寻求产前护理的夫妇进行囊性纤维化携带者筛查。如果两个潜在的家长都携带了一个CFTR突变体，可以通过绒毛膜绒毛取样或羊膜穿刺术来进行胎儿的产前筛查。在这种情况下，囊性纤维化的表型的广泛变异和通过筛查所测定的许多CFTR突变体的临床结局的不完整信息，使得产前咨询复杂化。在母胎筛查呈阳性或不确定的婴儿中，通常进行汗液氯化物分析的确证试验以确定诊断。
+
+【诊断参考】
+1.Green DM, Lahiri T, Raraigh KS, et al: Cystic Fibrosis Foundation Evidence-Based Guideline for the Management of CRMS/CFSPID.Pediatrics153(5):e2023064657, 2024.doi:10.1542/peds.2023-064657
+1.Green DM, Lahiri T, Raraigh KS, et al: Cystic Fibrosis Foundation Evidence-Based Guideline for the Management of CRMS/CFSPID.Pediatrics153(5):e2023064657, 2024.doi:10.1542/peds.2023-064657
+2.McGarry ME, Raraigh KS, Farrell P, et al: Cystic Fibrosis Newborn Screening: A Systematic Review-Driven Consensus Guideline from the United States Cystic Fibrosis Foundation.Int J Neonatal Screen11(2):24, 2025.doi:10.3390/ijns11020024
+2.McGarry ME, Raraigh KS, Farrell P, et al: Cystic Fibrosis Newborn Screening: A Systematic Review-Driven Consensus Guideline from the United States Cystic Fibrosis Foundation.Int J Neonatal Screen11(2):24, 2025.doi:10.3390/ijns11020024
+3.Cystic Fibrosis Foundation: Patient Registry.2023 Annual Data Report Bethesda, Maryland.September 2024.Accessed August 7, 2025
+3.Cystic Fibrosis Foundation: Patient Registry.2023 Annual Data Report Bethesda, Maryland.September 2024.Accessed August 7, 2025
+4.Rosenfeld M, Ostrenga J, Cromwell EA, et al: Real-world Associations of US Cystic Fibrosis Newborn Screening Programs With Nutritional and Pulmonary Outcomes.JAMA Pediatr176(10):990-999, 2022.doi:10.1001/jamapediatrics.2022.2674
+4.Rosenfeld M, Ostrenga J, Cromwell EA, et al: Real-world Associations of US Cystic Fibrosis Newborn Screening Programs With Nutritional and Pulmonary Outcomes.JAMA Pediatr176(10):990-999, 2022.doi:10.1001/jamapediatrics.2022.2674
+5.Sontag MK, Lee R, Wright D, Freedenberg D, Sagel SD: Improving the Sensitivity and Positive Predictive Value in a Cystic Fibrosis Newborn Screening Program Using a Repeat Immunoreactive Trypsinogen and Genetic Analysis.J Pediatr175:150-158.e1, 2016.doi:10.1016/j.jpeds.2016.03.046
+5.Sontag MK, Lee R, Wright D, Freedenberg D, Sagel SD: Improving the Sensitivity and Positive Predictive Value in a Cystic Fibrosis Newborn Screening Program Using a Repeat Immunoreactive Trypsinogen and Genetic Analysis.J Pediatr175:150-158.e1, 2016.doi:10.1016/j.jpeds.2016.03.046
+6.Cystic Fibrosis Foundation: Newborn Screening for CF.Accessed July 30, 2025.
+6.Cystic Fibrosis Foundation: Newborn Screening for CF.Accessed July 30, 2025.
+7.Cystic Fibrosis Foundation: CFTR-Related Metabolic Syndrome (CRMS).Accessed July 30, 2025.
+7.Cystic Fibrosis Foundation: CFTR-Related Metabolic Syndrome (CRMS).Accessed July 30, 2025.
+8.Abu-El-Haija M, Uc A, Werlin SL, et al: Nutritional Considerations in Pediatric Pancreatitis: A Position Paper from the NASPGHAN Pancreas Committee and ESPGHAN Cystic Fibrosis/Pancreas Working Group.J Pediatr Gastroenterol Nutr67(1):131-143, 2018.doi:10.1097/MPG.0000000000002023
+8.Abu-El-Haija M, Uc A, Werlin SL, et al: Nutritional Considerations in Pediatric Pancreatitis: A Position Paper from the NASPGHAN Pancreas Committee and ESPGHAN Cystic Fibrosis/Pancreas Working Group.J Pediatr Gastroenterol Nutr67(1):131-143, 2018.doi:10.1097/MPG.0000000000002023
+9.Stanojevic S, Davis SD, Retsch-Bogart G, et al: Progression of lung disease in preschool patients with cystic fibrosis.Am J Respir Crit Care Med195:1216–1225, 2017.doi: 10.1164/rccm.201610-2158OC
+9.Stanojevic S, Davis SD, Retsch-Bogart G, et al: Progression of lung disease in preschool patients with cystic fibrosis.Am J Respir Crit Care Med195:1216–1225, 2017.doi: 10.1164/rccm.201610-2158OC
+
+【囊性纤维化的治疗】
+全面的，多学科的支持
+全面的，多学科的支持
+抗生素，稀释气道分泌物的吸入药物和清除气道分泌物的物理手法
+抗生素，稀释气道分泌物的吸入药物和清除气道分泌物的物理手法
+对有反应者使用吸入支气管扩张剂，有时使用糖皮质激素
+对有反应者使用吸入支气管扩张剂，有时使用糖皮质激素
+通常是胰酶和维生素补充剂
+通常是胰酶和维生素补充剂
+高热量饮食（有时需要补充肠内管饲）
+高热量饮食（有时需要补充肠内管饲）
+在具有特定变异的患者中，CFTR 调节剂由 CFTR 增效剂或 CFTR 校正剂和 CFTR 增效剂的组合组成
+在具有特定变异的患者中，CFTR 调节剂由 CFTR 增效剂或 CFTR 校正剂和 CFTR 增效剂的组合组成
+辅助措施（如手术、肝移植）
+辅助措施（如手术、肝移植）
+应由有经验的医生指导，联合包括其他医生、护士、营养师、物理和呼吸治疗师、心理健康专家、药剂师及社会工作者的多学科团队进行综合强化治疗。治疗的目的是维持适当的营养状况，预防或积极治疗肺部和其他并发症，鼓励进行体格锻炼，提供适当的精神和社会支持。治疗方案很复杂，每天可能需要长达 2 小时。在适当的帮助下，大多数患者在家庭和学校中的表现能与相应的年龄适配。
+
+【呼吸道症状的治疗】
+肺部表现的治疗应着重于预防气道阻塞以及预防和控制肺部感染。在美国，预防肺部感染的措施包括保持对百日咳、流感嗜血杆菌、水痘、肺炎链球菌和麻疹的免疫力；每年接种流感疫苗；以及进行适龄的新冠疫苗接种。
+对暴露于流感的患者，可在感染的早期或作为预防措施使用神经氨酸酶抑制剂（如奥司他韦）。对于患有囊性纤维化的婴儿，给予nirsevimab，或在无法获得时给予palivizumab，可能提供针对呼吸道合胞病毒感染的额外保护。囊性纤维化患者RSV预防药物的临床数据有限；因此，在给药之前，需要仔细的临床判断。
+推荐长期每日吸入重组人脱氧核糖核酸酶或 7% 高渗盐水（1,2）；此治疗可减缓肺功能下降速率，并降低呼吸道急性加重的发生频率（3）。
+推荐在诊断时进行包括体位引流、叩击、振动和辅助咳嗽（胸部物理治疗）的气道清除措施，并应定期进行。在年长患者中，其他气道清除措施（如主动呼吸循环、自我控制引流、呼气正压装置及高频胸壁振荡背心治疗）可能有效。在条件允许的情况下，建议进行规律的有氧运动以促进气道廓清。 对于阻塞性睡眠呼吸暂停患者，持续气道正压通气可能是有益的。
+对于可逆性气道阻塞的患者，可通过吸入给予支气管扩张剂。吸入皮质类固醇（糖皮质激素）通常无效。若有严重肺功能不足和低氧血症者给予氧疗。
+有时可使用口服祛痰剂，但其疗效缺乏充分数据支持。不应使用止咳药物。
+口服糖皮质激素适用于长期细支气管炎的婴儿以及难治性支气管痉挛、过敏性支气管肺曲霉病（ABPA）或炎症并发症（例如关节炎、血管炎）患者。隔日使用糖皮质激素的长期治疗可减缓肺功能下降，但由于其相关并发症，不推荐常规使用。接受糖皮质激素治疗的患者必须密切监测是否有糖尿病和线性生长发育迟缓的迹象。过敏性支气管肺曲霉病还需口服或静脉注射抗真菌药物治疗；有时治疗周期可能较长。
+布洛芬的剂量应使血浆药物浓度高峰达到50～100mcg/mL(242.4和484.8 micromol/L) ，连续几年应用显示有延缓肺功能下降的作用，尤其对5～13岁的儿童。适宜的剂量必须根据药代动力学研究进行个体化应用。
+慢性鼻窦炎可通过鼻腔盐水冲洗、低压等渗鼻腔冲洗、鼻腔内阿法链道酶雾化吸入和/或鼻窦局部抗生素进行治疗。鼻窦手术可能对药物治疗无效的病例有所帮助。推荐使用鼻用糖皮质激素喷雾剂治疗过敏性鼻炎。
+无创正压通气经鼻或面罩对适当选择的急性呼吸衰竭患者有益。机械通气或体外膜氧合（ECMO）通常不适用于终末期慢性呼吸衰竭，除非它用作肺移植的桥梁，或用于基线状态良好或中等的患者，而这些患者出现了急性可逆性呼吸并发症。
+气胸病人可以通过闭式胸腔引流管引流治疗。开胸手术或胸腔镜切除胸膜水泡和胸膜表面机械磨损可有效治疗复发性气胸。
+轻度至中度咯血用抗生素（口服/气雾剂或静脉注射，取决于咯血的严重程度和感染的严重程度）和气道清除治疗。大量的反复咯血可行支气管动脉栓塞术进行治疗，很少用局灶性肺切除术治疗。
+
+【CFTR调节剂】
+囊性纤维化跨膜传导调节因子校正和增效药物（尤其是三联疗法）适用于约 90%的囊性纤维化患者所携带的囊性纤维化跨膜传导调节因子基因变异类型。CFTR 调节剂不适用于 I 类移码和无义突变的患者。
+伊伐卡托是一种小分子口服维持治疗药物，可增强携带特定CFTR变异的患者 CFTR 离子通道的功能。它可用于携带至少1个伊伐卡托增强的特定变异体的1个月及以上的患者。
+Lumacaftor、tezacaftor 和 elexacaftor 是小分子口服药物，它们通过改变携带 F508del 变体或其他特定变体的患者的蛋白质错误折叠来部分纠正有缺陷的 CFTR 蛋白质。
+lumacaftor和ivacaftor的组合可用于携带2个F508del变体拷贝的1岁及以上患者。
+替扎卡托和伊伐卡托的组合可用于携带2个F508del变异或其他特定变异的6岁及以上患者。
+依来卡泊、替扎卡托和依伐卡托的三重组合可用于携带至少 1 个 F508del 变异拷贝或 1 个某些罕见变异拷贝的 2 岁及以上患者（4，5）。
+此外，还有凡扎卡托（vanzacaftor）、特扎卡托（tezacaftor）与氘代依伐卡托（deuterated ivacaftor）组成的三联疗法可供选择。该方案适用于年龄在6岁及以上、携带至少1个F508del变异或1个特定罕见变异的患者（6）。
+这些药物可以改善肺功能、增加体重、改善胰腺外分泌功能、减少肺部恶化和住院的频率、提高生活质量，并降低汗液氯化物浓度，有时使其正常化 (7)。依伐卡托、鲁玛卡托/依伐卡托、替扎卡托/依伐卡托以及依来卡托/替扎卡托/依伐卡托的用药指征，需根据患者的囊性纤维化跨膜传导调节因子变异类型和年龄来确定，且会随着随机试验数据支持指征扩大而发生变化。尽管所有这些药物均可能有效，但单独使用依伐卡托或与依来沙卡托及替扎卡托联用，被视为高效调节剂疗法。
+
+【感染的治疗和预防】
+对于轻度肺部急性加重，应根据培养和药敏结果给予短期口服抗生素。对甲氧西林敏感的金黄色葡萄球菌，首选药物为耐青霉素酶的青霉素（如双氯西林）、头孢菌素（如头孢氨苄）或甲氧苄啶/磺胺甲恶唑。可使用红霉素、阿莫西林/克拉维酸钾、四环素或利奈唑胺。对于耐甲氧西林S. aureus（金黄色葡萄球菌）（MRSA）定植的患者，口服甲氧苄啶/磺胺甲恶唑、克林霉素、利奈唑胺或四环素可能有效。对于P. aeruginosa（铜绿假单胞菌）定植的患者，短期吸入妥布霉素或氨曲南（如4周）和/或口服氟喹诺酮（如2至3周）可能有效。氟喹诺酮类药物可能需要调整剂量，但已在幼儿中安全使用（8）。
+对中度至重度的肺部恶化，尤其是有P. aeruginosa（铜绿假单胞菌）感染的病人，推荐静脉用抗生素。应住院接受住院治疗，但一些经选择的病人也可在家安全地接受一些治疗。 氨基糖苷类妥布霉素（或有时阿米卡星）加头孢菌素、超广谱青霉素、氟喹诺酮或具有抗假单胞菌活性的单菌胺的组合静脉注射，通常持续 2 周。 可能需要更高剂量才能达到疗效所需的血清浓度。由于囊性纤维化患者的肾清除率增强，可能需要更高剂量的青霉素才能达到足够的血清水平。 对于 MRSA 定植的患者，可在 IV 方案中加入万古霉素或利奈唑胺。
+根除慢性P. aeruginosa（铜绿假单胞菌）定植是困难的。但是，有研究显示，在气道首次被P. aeruginosa（铜绿假单胞菌）感染时期进行早期抗生素治疗可能在一段时间内有效地根除这种微生物。对长期被铜绿假单胞菌定植的患者，吸入抗生素（如妥布霉素）可改善临床指标，并可能减少气道细菌负荷（9）。长期使用隔月吸入妥布霉素或阿曲南治疗，同时连续(每月)口服阿奇霉素，每周3次，可有效改善或稳定肺功能，减少肺恶化的频率。
+具有临床显著非结核分枝杆菌感染的患者可能需要口服、吸入和静脉用抗生素联合的长期治疗。
+
+【胃肠道症状的治疗】
+新生儿肠梗阻有时可通过含高渗或等渗放射性造影剂的灌肠缓解；否则，可能需要外科肠造瘘术以冲洗肠腔内黏稠的胎粪。新生儿期后，部分性肠梗阻发作（远端肠梗阻综合征）可用含有高渗或等渗性放射性造影剂或乙酰半胱氨酸的灌肠，或口服平衡肠道灌洗液治疗。这些灌肠剂通常通过增加肠道容量来起作用。如果使用高渗透压灌肠，高渗透压会使液体进入肠腔并促进排空。大便软化剂如二辛基磺基琥珀酸钠（多库酯）或乳果糖也可能有助于预防此类事件。
+熊去氧胆酸是一种亲水性胆汁酸，通常用于因囊性纤维化导致的肝病患者，但几乎没有证据支持其能有效防止胆汁淤积发展为肝硬化。
+对于胰腺功能不全的患者，应在所有正餐和点心时给予胰酶替代疗法。最有效的酶制剂含有pH敏感的肠溶包衣微球或微片，其中含有胰脂肪酶。对于婴儿，将胶囊打开，把内容物与酸性食物混合。婴儿期之后，则按照体重给药。应避免使用高剂量，因为它们与纤维化结肠病有关。对于酶需要量高的患者，用H2受体阻滞剂或质子泵抑制剂抑制胃酸可以提高酶的效能。
+饮食治疗需提供充足热量和蛋白质以促进正常生长——所需摄入量可能比常规推荐膳食供给量高出30%至50%，用以代偿因呼吸急促、吸收不良及与免疫反应增强相关的慢性炎症状态导致的能量消耗增加（参见表格部分常量营养素推荐膳食参考摄入量）。饮食治疗还包括正常至高水平的总脂肪摄入，以增加饮食的热量密度；双倍于推荐日需要量的水溶性多种维生素补充剂；对于维生素D缺乏或不足的患者，给予维生素D3（胆钙化醇）补充；在婴儿期和热应激及大量出汗期间补充盐分。接受广谱抗生素治疗的婴儿及患有肝病和咯血的患者应额外补充维生素K。对有严重吸收不良的婴儿，可用含蛋白水解产物和中链甘油三酯的配方奶代替改良的全奶配方。葡萄糖聚合物和中链三酰甘油补充剂也可用于增加热量摄入。
+不能维持正常营养状况的病人，可经胃造瘘、空肠造瘘补充营养，以改善生长和稳定肺功能 （参见营养支持概述）。对于某些患儿而言，增进食欲类药可能有助于增强其发育。
+
+【其他表现的治疗】
+囊性纤维化相关糖尿病（CFRD）由胰岛素不足引起，兼具1型和2型糖尿病的特征。胰岛素是唯一推荐的治疗药物。 管理包括胰岛素方案、营养咨询、糖尿病自我管理教育计划、微血管并发症的监测。治疗方案应与具备囊性纤维化（CF）及糖尿病治疗经验的内分泌科医师和营养师共同制定。
+有症状的右心衰竭的病人需给予利尿剂治疗、限盐和吸氧。
+重组人生长激素（rhGH）虽罕用，但可能改善肺功能、增加身高与体重、提高骨矿含量，并减少住院率。
+手术适用于：药物治疗无效的局限性支气管扩张或肺不张、鼻息肉、慢性鼻窦炎、门脉高压继发的食管静脉曲张出血、胆囊疾病，以及无法通过内科手段复位的肠扭转或肠套叠导致的肠梗阻。
+肝移植已经在终末期肝病患者身上成功实施。
+通常情况下，需要进行肺移植的讨论。在考虑移植时，患者需要权衡移植带来的更长生存期与移植的不确定性及移植器官所带来的持续（但不同的）生活负担。对于晚期肺部疾病患者，双侧尸体供肺移植及活体供者肺叶移植均已成功实施。对终末期肝病和肺病患者进行了肝肺联合移植。
+对于患有严重肺病的患者，应考虑进行双侧肺移植。在患有 CF 的成年人中，移植后的中位生存期为 9.5 年（10）。
+
+【治疗参考文献】
+1.Flume PA, O'Sullivan BP, Robinson KA, et al.Cystic fibrosis pulmonary guidelines: chronic medications for maintenance of lung health.Am J Respir Crit Care Med2007;176(10):957-969.doi:10.1164/rccm.200705-664OC
+1.Flume PA, O'Sullivan BP, Robinson KA, et al.Cystic fibrosis pulmonary guidelines: chronic medications for maintenance of lung health.Am J Respir Crit Care Med2007;176(10):957-969.doi:10.1164/rccm.200705-664OC
+2.Mogayzel PJ Jr, Naureckas ET, Robinson KA, et al.Cystic fibrosis pulmonary guidelines.Chronic medications for maintenance of lung health.Am J Respir Crit Care Med2013;187(7):680-689.doi:10.1164/rccm.201207-1160oe
+2.Mogayzel PJ Jr, Naureckas ET, Robinson KA, et al.Cystic fibrosis pulmonary guidelines.Chronic medications for maintenance of lung health.Am J Respir Crit Care Med2013;187(7):680-689.doi:10.1164/rccm.201207-1160oe
+3.Stahl M, Wielpütz MO, Ricklefs I, et al.Preventive Inhalation of Hypertonic Saline in Infants with Cystic Fibrosis (PRESIS).A Randomized, Double-Blind, Controlled Study.Am J Respir Crit Care Med2019;199(10):1238-1248.doi:10.1164/rccm.201807-1203OC
+3.Stahl M, Wielpütz MO, Ricklefs I, et al.Preventive Inhalation of Hypertonic Saline in Infants with Cystic Fibrosis (PRESIS).A Randomized, Double-Blind, Controlled Study.Am J Respir Crit Care Med2019;199(10):1238-1248.doi:10.1164/rccm.201807-1203OC
+4.Heijerman HGM, McKone EF, Downey DG, et al.Efficacy and safety of theelexacaftorplustezacaftorplusivacaftorcombination regimen in people with cystic fibrosis homozygous for the F508del mutation: a double-blind, randomised, phase 3 trial [published correction appears inLancet2020 May 30;395(10238):1694].Lancet2019;394(10212):1940-1948.doi:10.1016/S0140-6736(19)32597-8
+4.Heijerman HGM, McKone EF, Downey DG, et al.Efficacy and safety of theelexacaftorplustezacaftorplusivacaftorcombination regimen in people with cystic fibrosis homozygous for the F508del mutation: a double-blind, randomised, phase 3 trial [published correction appears inLancet2020 May 30;395(10238):1694].Lancet2019;394(10212):1940-1948.doi:10.1016/S0140-6736(19)32597-8
+5.Middleton PG, Mall MA, Dřevínek P, et al.Elexacaftor-Tezacaftor-Ivacaftorfor Cystic Fibrosis with a Single Phe508del Allele.N Engl J Med2019;381(19):1809-1819.doi:10.1056/NEJMoa1908639
+5.Middleton PG, Mall MA, Dřevínek P, et al.Elexacaftor-Tezacaftor-Ivacaftorfor Cystic Fibrosis with a Single Phe508del Allele.N Engl J Med2019;381(19):1809-1819.doi:10.1056/NEJMoa1908639
+6.Keating C, Yonker LM, Vermeulen F, et al.Vanzacaftor-tezacaftor-deutivacaftorversuselexacaftor-tezacaftor-ivacaftorin individuals with cystic fibrosis aged 12 years and older (SKYLINE Trials VX20-121-102 and VX20-121-103): results from two randomised, active-controlled, phase 3 trials.Lancet Respir Med2025;13(3):256-271.doi:10.1016/S2213-2600(24)00411-9
+6.Keating C, Yonker LM, Vermeulen F, et al.Vanzacaftor-tezacaftor-deutivacaftorversuselexacaftor-tezacaftor-ivacaftorin individuals with cystic fibrosis aged 12 years and older (SKYLINE Trials VX20-121-102 and VX20-121-103): results from two randomised, active-controlled, phase 3 trials.Lancet Respir Med2025;13(3):256-271.doi:10.1016/S2213-2600(24)00411-9
+7.Taylor-Cousar JL, Robinson PD, Shteinberg M, Downey DG.CFTR modulator therapy: transforming the landscape of clinical care in cystic fibrosis.Lancet2023;402(10408):1171-1184.doi:10.1016/S0140-6736(23)01609-4
+7.Taylor-Cousar JL, Robinson PD, Shteinberg M, Downey DG.CFTR modulator therapy: transforming the landscape of clinical care in cystic fibrosis.Lancet2023;402(10408):1171-1184.doi:10.1016/S0140-6736(23)01609-4
+8.Patel K, Goldman JL.Safety Concerns SurroundingQuinoloneUse in Children.J Clin Pharmacol2016;56(9):1060-1075.doi:10.1002/jcph.715
+8.Patel K, Goldman JL.Safety Concerns SurroundingQuinoloneUse in Children.J Clin Pharmacol2016;56(9):1060-1075.doi:10.1002/jcph.715
+9.Mogayzel PJ Jr, Naureckas ET, Robinson KA, et al.Cystic Fibrosis Foundation pulmonary guideline.pharmacologic approaches to prevention and eradication of initial Pseudomonas aeruginosa infection.Ann Am Thorac Soc2014;11(10):1640-1650.doi:10.1513/AnnalsATS.201404-166OC
+9.Mogayzel PJ Jr, Naureckas ET, Robinson KA, et al.Cystic Fibrosis Foundation pulmonary guideline.pharmacologic approaches to prevention and eradication of initial Pseudomonas aeruginosa infection.Ann Am Thorac Soc2014;11(10):1640-1650.doi:10.1513/AnnalsATS.201404-166OC
+10.Chambers DC, Cherikh WS, Goldfarb SB, et al.The International Thoracic Organ Transplant Registry of the International Society for Heart and Lung Transplantation: Thirty-fifth adult lung and heart-lung transplant report-2018; Focus theme: Multiorgan Transplantation.J Heart Lung Transplant2018;37(10):1169-1183.doi:10.1016/j.healun.2018.07.020
+10.Chambers DC, Cherikh WS, Goldfarb SB, et al.The International Thoracic Organ Transplant Registry of the International Society for Heart and Lung Transplantation: Thirty-fifth adult lung and heart-lung transplant report-2018; Focus theme: Multiorgan Transplantation.J Heart Lung Transplant2018;37(10):1169-1183.doi:10.1016/j.healun.2018.07.020
+
+【囊性纤维化的预后】
+囊性纤维化的病程很大程度上是由肺部受累的程度所决定的。随着时间的推移，肺功能恶化，通常以进行性支气管扩张为特征，导致虚弱并最终增加死亡风险，通常是由于以下因素的综合作用：呼吸衰竭和肺心病。
+在过去的50年中，由于在出现肺部不可逆病变前早期诊断和积极治疗，预后逐步改善。2023 年的死亡年龄中位数为 36.9 岁。然而，在美国，2023 年出生儿童的中位预期生存年龄为 68 岁。没有胰腺功能不足的患者长期存活率较高 (1)。预后还受CFTR变异特征、修饰基因、气道微生物、性别、环境温度、空气污染暴露（包括烟草烟雾）、遵守处方治疗及社会经济状况的影响。经年龄和性别调整后的FEV1是最好的生存预测指标。如果 CFTR 调节剂治疗的健康结果得以维持，预期寿命可能会进一步增加。
+
+【临终关怀】
+在疾病的整个过程中，尤其当肺功能逐渐下降时，应与患者及其家属进行富有同理心的沟通，讨论预后及护理偏好（2）。
+囊性纤维化患者应该有足够的信息和机会来做出重要的人生选择，包括积极参与临终决策。
+在适当的时候，姑息治疗应提供包括充分的症状管理在内的服务，以确保平静的临终关怀。患者可以考虑的一个有用策略是，在需要时接受有时间限制的全面积极治疗，但事先同意确定何时停止积极措施的参数（参见拒绝心肺复苏指令及便携式医疗指令）。
+
+【预后参考】
+1.Cystic Fibrosis Foundation.Understanding Changes in Life Expectancy.Accessed July 31, 2025.
+1.Cystic Fibrosis Foundation.Understanding Changes in Life Expectancy.Accessed July 31, 2025.
+2.Kavalieratos D, Georgiopoulos AM, Dhingra L, et al.Models of Palliative Care Delivery for Individuals with Cystic Fibrosis: Cystic Fibrosis Foundation Evidence-Informed Consensus Guidelines.J Palliat Med2021;24(1):18-30.doi:10.1089/jpm.2020.0311
+2.Kavalieratos D, Georgiopoulos AM, Dhingra L, et al.Models of Palliative Care Delivery for Individuals with Cystic Fibrosis: Cystic Fibrosis Foundation Evidence-Informed Consensus Guidelines.J Palliat Med2021;24(1):18-30.doi:10.1089/jpm.2020.0311
+囊性纤维化是由携带囊性纤维化跨膜电导调节因子（CFTR）蛋白基因的两种突变体造成的，CFTR能够调节氯、钠和碳酸氢盐跨上皮细胞膜的转运。
+囊性纤维化是由携带囊性纤维化跨膜电导调节因子（CFTR）蛋白基因的两种突变体造成的，CFTR能够调节氯、钠和碳酸氢盐跨上皮细胞膜的转运。
+主要并发症累及肺，有小气道和大气道损伤、慢性炎症、慢性及复发性细菌感染，尤其是铜绿假单胞菌感染。
+主要并发症累及肺，有小气道和大气道损伤、慢性炎症、慢性及复发性细菌感染，尤其是铜绿假单胞菌感染。
+其他主要后果包括胰腺功能不全，导致营养和维生素吸收不良，从而损害生长发育，在年龄较大的患者中有患糖尿病的风险。
+其他主要后果包括胰腺功能不全，导致营养和维生素吸收不良，从而损害生长发育，在年龄较大的患者中有患糖尿病的风险。
+气道清除措施（例如体位引流、叩击、振动、辅助咳嗽）、粘液溶解剂和气道水合剂通常在幼儿期开始；建议定期进行有氧运动。
+气道清除措施（例如体位引流、叩击、振动、辅助咳嗽）、粘液溶解剂和气道水合剂通常在幼儿期开始；建议定期进行有氧运动。
+纠正或增强 CFTR 的药物（CFTR 调节剂）可以改善患有某些 CFTR 变异的患者的健康结果。
+纠正或增强 CFTR 的药物（CFTR 调节剂）可以改善患有某些 CFTR 变异的患者的健康结果。
+在任何肺疾病加重早期就应给予抗生素；药物选择要基于细菌培养和敏感性检查。
+在任何肺疾病加重早期就应给予抗生素；药物选择要基于细菌培养和敏感性检查。
+饮食应补充胰酶、大剂量维生素，以及主要来自脂肪的额外30%～50%热量。
+饮食应补充胰酶、大剂量维生素，以及主要来自脂肪的额外30%～50%热量。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Cystic Fibrosis Foundation:Age-specific care guidelines for cystic fibrosis
+Cystic Fibrosis Foundation:Age-specific care guidelines for cystic fibrosis
+Cystic Fibrosis Foundation:Clinical Care Guidelines
+Cystic Fibrosis Foundation:Clinical Care Guidelines
+Green DM, Lahiri T, Raraigh KS, et al.Cystic Fibrosis Foundation Evidence-Based Guideline for the Management of CRMS/CFSPID.Pediatrics2024;153(5):e2023064657.doi:10.1542/peds.2023-064657
+Green DM, Lahiri T, Raraigh KS, et al.Cystic Fibrosis Foundation Evidence-Based Guideline for the Management of CRMS/CFSPID.Pediatrics2024;153(5):e2023064657.doi:10.1542/peds.2023-064657

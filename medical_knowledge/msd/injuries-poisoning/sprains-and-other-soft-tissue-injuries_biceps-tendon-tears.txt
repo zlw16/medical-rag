@@ -1,0 +1,42 @@
+标题：二头肌肌腱撕裂
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/sprains-and-other-soft-tissue-injuries/biceps-tendon-tears
+============================================================
+
+(参见扭伤和其他软组织损伤概述。)
+肱二头肌有两条近端肌腱附着在肩胛骨（肩关节盂上结节和喙突）和一条远端肌腱附着在肘部桡骨处（桡骨粗隆）。近端二头肌腱撕裂比远端二头肌腱撕裂更常见。
+二头肌腱撕裂是由突然的暴力事件（例如，举起重物）或肘部强行拉伸或扭转引起的。 这些撕裂通常发生在肌腱因过度使用而已经变弱时（例如举重），这会导致肌腱炎，有时会导致肌腱磨损。在老年患者中，退行性肌腱病会削弱肱二头肌肌腱，增加撕裂的风险。其他可能削弱肌腱的因素（例如注射糖皮质激素或氟喹诺酮类药物 (1）可能会增加肌腱撕裂的风险，但它们对肱二头肌腱撕裂的具体影响尚未得到充分研究。
+撕裂二头肌腱的损伤也可能损伤肩部的其他结构（如肩袖）。
+二头肌腱撕裂可能是部分的或完全的。
+
+【一般参考文献】
+1.Morales DR, Slattery J, Pacurariu A, et al.Relative and Absolute Risk of Tendon Rupture with Fluoroquinolone and Concomitant Fluoroquinolone/Corticosteroid Therapy: Population-Based Nested Case-Control Study.Clin Drug Investig.2019;39(2):205-213.doi:10.1007/s40261-018-0729-y
+1.Morales DR, Slattery J, Pacurariu A, et al.Relative and Absolute Risk of Tendon Rupture with Fluoroquinolone and Concomitant Fluoroquinolone/Corticosteroid Therapy: Population-Based Nested Case-Control Study.Clin Drug Investig.2019;39(2):205-213.doi:10.1007/s40261-018-0729-y
+
+【二头肌肌腱撕裂的症状和体征】
+二头肌腱撕裂会导致上臂、肩膀或肘部附近突然剧烈疼痛，具体取决于撕裂的位置。抬起或拉扯会使疼痛加剧。其他症状包括淤青、肿胀和无力。此外，撕脱的肌肉可能在手臂上形成凸起（Popeye畸形）。
+
+【二头肌肌腱撕裂的诊断】
+主要是病史和体格检查
+主要是病史和体格检查
+超声检查
+超声检查
+通常可以根据病史和体格检查来诊断二头肌腱撕裂。体格检查和特殊检查（例如钩试验）可以提示哪条肌腱受伤以及肌腱是否撕裂。对于钩试验，屈肘并使前臂旋后，检查者试图从外侧将食指钩入完整的二头肌腱下方。如果二头肌腱撕裂（远端撕脱），则没有可触及或钩住的绳状结构。
+Hook试验用于确定患者是否有远端二头肌腱撕裂。肘部弯曲掌面朝上，检查者尝试用食指从外侧钩在二头肌腱下方。如果二头肌腱撕裂（远端撕脱），则没有可触及的或钩住的绳索状结构。
+© Springer Science+Business Media
+肌肉骨骼超声检查通常用于检查肩膀，并且可以准确地诊断出近端二头肌腱完全撕裂。超声检查对于二头肌腱部分撕裂和远端腱撕裂的诊断价值较低。
+MRI可以确诊，但通常并非必需。
+
+【二头肌腱撕裂的治疗】
+通常外科手术修复
+通常外科手术修复
+远端肱二头肌腱撕裂的治疗通常采用手术修复（1）。
+近端二头肌腱撕裂有时采用保守治疗，因为如果肩膀的两个二头肌腱之一完好无损，则该肌腱可以维持功能 (2)。
+但是，近端肌腱撕裂通常需要手术来修复，尤其是当有其他肩部结构受伤时（例如，肩袖撕裂）(3)。
+
+【治疗参考文献】
+1.Allen J, Donoghue S, Rankin S, et al.Distal biceps injuries: an overview.Injury.2025;56(8):112556.doi:10.1016/j.injury.2025.112556
+1.Allen J, Donoghue S, Rankin S, et al.Distal biceps injuries: an overview.Injury.2025;56(8):112556.doi:10.1016/j.injury.2025.112556
+2.McDonald LS, Dewing CB, Shupe PG, et al.Disorders of the proximal and distal aspects of the biceps muscle.J Bone Joint Surg Am.2013;95(13):1235-1245.doi:10.2106/JBJS.L.00221
+2.McDonald LS, Dewing CB, Shupe PG, et al.Disorders of the proximal and distal aspects of the biceps muscle.J Bone Joint Surg Am.2013;95(13):1235-1245.doi:10.2106/JBJS.L.00221
+3.Virk MS, Cole BJ.Proximal Biceps Tendon and Rotator Cuff Tears.Clin Sports Med.2016;35(1):153-161.doi:10.1016/j.csm.2015.08.010
+3.Virk MS, Cole BJ.Proximal Biceps Tendon and Rotator Cuff Tears.Clin Sports Med.2016;35(1):153-161.doi:10.1016/j.csm.2015.08.010

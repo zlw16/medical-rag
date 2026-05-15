@@ -1,0 +1,214 @@
+标题：物质使用障碍
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/substance-related-disorders/substance-use-disorders
+============================================================
+
+“物质使用障碍”一词比“成瘾”、“滥用”或“依赖”更准确、定义更清晰，且负面含义更少。与物质使用障碍相关的物质包含在与物质相关障碍相关的十大药物类别中。
+使用非法药物并不总是表明存在物质使用障碍。相反，酒精和处方药物（以及某些州或国家的大麻）等合法物质也可能导致物质使用障碍（1）。
+娱乐性吸毒虽然通常不受社会认可，但并不是一种新现象，几个世纪以来一直以某种形式存在。人们使用药物有各种各样的原因（2），包括以下几点：
+改变或增强情绪
+改变或增强情绪
+作为宗教仪式的一部分
+作为宗教仪式的一部分
+获得精神上的启迪
+获得精神上的启迪
+提升表现
+提升表现
+一些使用者倾向于间断性使用相对小剂量的药物，且未产生临床毒性、耐受性和身体依赖性。许多娱乐性药物（如鸦片、酒精、大麻、咖啡因、致幻蘑菇、古柯叶）是“天然的”（即接近植物来源）；从历史上看，它们含有相对较低浓度的精神活性化合物的混合物，而不是分离的精神活性化合物。然而，一些被认为是“天然”和低剂量的物质以更高的剂量被消耗，并且比过去具有更大的危害风险。例如，随着时间的推移，大麻（无论是植物形式还是合成形式）的效力越来越强，具有更大的危害潜力（3, 4）。同样，咖啡因以高剂量存在于针对青少年的能量饮料中（5, 6）。
+
+【物质使用的生理效应】
+这些物质直接激活大脑奖赏系统并产生愉快感。这种激活可能极为强烈，导致患者对该物质产生强烈渴求，并为获取和使用该物质而忽视正常活动。这些物质也具有直接的生理效应（7)，包括以下方面：
+物质滥用所致的精神障碍
+物质滥用所致的精神障碍
+中毒与戒断的具体生物学机制、临床表现及治疗方法因物质或物质类别而异。
+中毒指出现特定于该物质的可逆性精神与行为改变综合征，可能表现为感知异常、欣快感、认知损害、判断力受损、生理及社会功能障碍、情绪波动、攻击性增强，或上述表现的组合。极端情况下，中毒可导致过量用药、严重发病甚至死亡风险。
+戒断是指停用或减少特定物质后产生的生理变化，症状以及行为变化。如诊断物质戒断综合征，戒断必须引起患者明显的痛苦和/或损害功能（如社会，职业）(8)。多数戒断患者发现重新服用物质会减轻症状。
+虽然有些戒断综合征患者有物质使用障碍，但某些药物，尤其是阿片类、镇静/安眠药和兴奋剂，即使在合法医疗用途下按处方使用且时间相对较短（阿片类药物<1周），也可能导致戒断症状。如戒断症状产生于合理的医疗使用则不认为是物质使用障碍的诊断标准（8）。
+
+【参考文献】
+1.Wu LT, McNeely J, Subramaniam GA, et al.DSM-5 substance use disorders among adult primary care patients: Results from a multisite study.Drug Alcohol Depend.2017;179:42-46.doi:10.1016/j.drugalcdep.2017.05.048
+1.Wu LT, McNeely J, Subramaniam GA, et al.DSM-5 substance use disorders among adult primary care patients: Results from a multisite study.Drug Alcohol Depend.2017;179:42-46.doi:10.1016/j.drugalcdep.2017.05.048
+2.Lojszczyk A, Wilson R, Wood J, Hutton A.Motivational characteristics of recreational drug use among emerging adults in social settings: an integrative literature review.Front Public Health.2023;11:1235387.Published 2023 Oct 31.doi:10.3389/fpubh.2023.1235387
+2.Lojszczyk A, Wilson R, Wood J, Hutton A.Motivational characteristics of recreational drug use among emerging adults in social settings: an integrative literature review.Front Public Health.2023;11:1235387.Published 2023 Oct 31.doi:10.3389/fpubh.2023.1235387
+3.Chandra S, Radwan MM, Majumdar CG, Church JC, Freeman TP, ElSohly MA.New trends in cannabis potency in USA and Europe during the last decade (2008-2017) [published correctionappears inEur Arch Psychiatry Clin Neurosci.2019 Dec;269(8):997. doi: 10.1007/s00406-019-01020-1.].Eur Arch Psychiatry Clin Neurosci.2019;269(1):5-15.doi:10.1007/s00406-019-00983-5
+3.Chandra S, Radwan MM, Majumdar CG, Church JC, Freeman TP, ElSohly MA.New trends in cannabis potency in USA and Europe during the last decade (2008-2017) [published correctionappears inEur Arch Psychiatry Clin Neurosci.2019 Dec;269(8):997. doi: 10.1007/s00406-019-01020-1.].Eur Arch Psychiatry Clin Neurosci.2019;269(1):5-15.doi:10.1007/s00406-019-00983-5
+4.Testai FD, Gorelick PB, Aparicio HJ, et al.Use of Marijuana: Effect on Brain Health: A Scientific Statement From the American Heart Association.Stroke.2022;53(4):e176-e187.doi:10.1161/STR.0000000000000396
+4.Testai FD, Gorelick PB, Aparicio HJ, et al.Use of Marijuana: Effect on Brain Health: A Scientific Statement From the American Heart Association.Stroke.2022;53(4):e176-e187.doi:10.1161/STR.0000000000000396
+5.Soós R, Gyebrovszki Á, Tóth Á, Jeges S, Wilhelm M.Effects of Caffeine and Caffeinated Beverages in Children, Adolescents and Young Adults: Short Review.Int J Environ Res Public Health.2021;18(23):12389.Published 2021 Nov 25.doi:10.3390/ijerph182312389
+5.Soós R, Gyebrovszki Á, Tóth Á, Jeges S, Wilhelm M.Effects of Caffeine and Caffeinated Beverages in Children, Adolescents and Young Adults: Short Review.Int J Environ Res Public Health.2021;18(23):12389.Published 2021 Nov 25.doi:10.3390/ijerph182312389
+6.van Dam RM, Hu FB, Willett WC.Coffee, Caffeine, and Health.N Engl J Med.2020;383(4):369-378.doi:10.1056/NEJMra1816604
+6.van Dam RM, Hu FB, Willett WC.Coffee, Caffeine, and Health.N Engl J Med.2020;383(4):369-378.doi:10.1056/NEJMra1816604
+7.Testa A, Giannuzzi R, Sollazzo F, Petrongolo L, Bernardini L, Dain S.Psychiatric emergencies (part II): psychiatric disorders coexisting with organic diseases.Eur Rev Med Pharmacol Sci.2013;17 Suppl 1:65-85.
+7.Testa A, Giannuzzi R, Sollazzo F, Petrongolo L, Bernardini L, Dain S.Psychiatric emergencies (part II): psychiatric disorders coexisting with organic diseases.Eur Rev Med Pharmacol Sci.2013;17 Suppl 1:65-85.
+8.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders.5th ed, Text Revision.American Psychiatric Association Publishing; 2022:543-553.
+8.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders.5th ed, Text Revision.American Psychiatric Association Publishing; 2022:543-553.
+
+【物质使用障碍的病因】
+具有物质使用障碍的人通常会经历一个从尝试性使用到偶尔使用，再到大量使用的过程，最终发展为物质使用障碍（1）。这个过程非常复杂，仅能部分理解。该过程受到药物、服用者和所在环境的影响。
+这10类药物在滥用可能性或导致物质使用障碍的风险上各不相同。这种滥用的可能性取决于多种因素的组合，包括以下几点：
+给药途径
+给药途径
+药物穿过血脑屏障和刺激奖赏系统的速率
+药物穿过血脑屏障和刺激奖赏系统的速率
+作用发生的时间
+作用发生的时间
+导致耐受和/或戒断症状的能力
+导致耐受和/或戒断症状的能力
+此外，合法和/或容易获得的物质（例如酒精、烟草）更容易获得，因此发展为滥用的风险会增加。此外，随着对使用特定物质的风险认知的降低，可能会随后尝试和/或娱乐性地使用该药物，从而增加接触可能导致使用障碍的物质的机会。风险感知的波动受多种因素影响，包括对物质使用的一般医学与精神后果及其社会影响的研究结果（2）。
+在治疗疾病或进行外科或牙科手术期间，可能会给患者开阿片类药物处方。这些药物中有相当一部分未被使用，但可能仍存留于家中，成为儿童、青少年及成人误服或企图用于非医疗目的的重要来源（3）。对此，人们日益强调需要采取以下措施：
+在适当时建议使用或开具非成瘾性镇痛药（例如，对乙酰氨基酚、非甾体抗炎药）
+在适当时建议使用或开具非成瘾性镇痛药（例如，对乙酰氨基酚、非甾体抗炎药）
+根据循证指南处方阿片类药物剂量（4）
+根据循证指南处方阿片类药物剂量（4）
+促进成瘾性或潜在毒性药物的安全储存和处置
+促进成瘾性或潜在毒性药物的安全储存和处置
+扩大处方药回收计划
+扩大处方药回收计划
+成为使用者的危险因素包括：
+心理特征
+心理特征
+环境和疾病
+环境和疾病
+通常没有证据表明个体的心理特征是物质使用障碍的危险因素，而且对各种描述过的成瘾人格的概念很少有数据支持。然而，自我控制能力较低（冲动）或冒险和追求新奇程度较高的人可能会增加患物质使用障碍的风险（5）。
+多种情况及共病似乎会增加患病风险。例如，悲伤、情绪困扰或社交孤立的人群可能会发现，某种药物能暂时缓解这些感受；这可能导致用药量增加，有时还会引发物质使用障碍。不安全的依恋（指一种与他人交往的方式，涉及恐惧、不信任或难以在亲密关系中感到安全，通常是由于早年经历），尤其是在童年或青春期建立时，与发展物质使用障碍的风险增加存在前瞻性关联（6）。焦虑型和回避型依恋风格都有牵连，情绪失调经常调节这种关系。
+患有其他精神疾病的患者发展为物质使用障碍的风险增加（7），尤其是情绪障碍、焦虑症、注意力缺陷障碍、人格障碍和精神分裂症（8, 9）。
+慢性疼痛患者常服用阿片类药物缓解症状；许多患者随后会发展为物质使用障碍 (10)。但对于很多这样的患者，非阿片类或者其他治疗措施可以有效缓解疼痛。
+所有物质使用障碍本质上可能都是多基因性的（11）。存在许多遗传和表观遗传因素，这些因素因特定物质而异，会影响发展物质使用障碍及其进展的可能性。
+
+【经验与提示】
+经验与提示
+成瘾人格的概念几乎没有科学证据支持。
+成瘾人格的概念几乎没有科学证据支持。
+文化和社会因素在物质使用的启动、维持（或复吸）过程中起着至关重要的作用。观察到家庭成员（如父母、年长兄弟姐妹）或同龄人滥用物质，会增加个体开始滥用物质的风险。同辈是青少年一个特别重要的影响因素（见青少年吸毒和药物滥用)。 试图戒断某种物质的人，若身边有其他使用该物质的人，戒断难度会大幅增加 (12)。
+医生可能会在不经意间过度开处方来缓解疼痛或压力，从而导致精神活性药物的滥用 (13)。许多社会因素，包括社交媒体，助长了患者期望通过药物和消遣性毒品来缓解所有痛苦的观念。
+
+【病因参考文献】
+1.Strickland JC, Acuff SF.Role of social context in addiction etiology and recovery.Pharmacol Biochem Behav.2023;229:173603.doi:10.1016/j.pbb.2023.173603
+1.Strickland JC, Acuff SF.Role of social context in addiction etiology and recovery.Pharmacol Biochem Behav.2023;229:173603.doi:10.1016/j.pbb.2023.173603
+2.Clay JM, Parker MO.The role of stress-reactivity, stress-recovery and risky decision-making in psychosocial stress-induced alcohol consumption in social drinkers.Psychopharmacology (Berl).2018;235(11):3243-3257.doi:10.1007/s00213-018-5027-0
+2.Clay JM, Parker MO.The role of stress-reactivity, stress-recovery and risky decision-making in psychosocial stress-induced alcohol consumption in social drinkers.Psychopharmacology (Berl).2018;235(11):3243-3257.doi:10.1007/s00213-018-5027-0
+3.Stone AL, Qu'd D, Luckett T, et al.Leftover Opioid Analgesics and Disposal Following Ambulatory Pediatric Surgeries in the Context of a Restrictive Opioid-Prescribing Policy.Anesth Analg.2022;134(1):133-140.doi:10.1213/ANE.0000000000005503
+3.Stone AL, Qu'd D, Luckett T, et al.Leftover Opioid Analgesics and Disposal Following Ambulatory Pediatric Surgeries in the Context of a Restrictive Opioid-Prescribing Policy.Anesth Analg.2022;134(1):133-140.doi:10.1213/ANE.0000000000005503
+4.Zhang DDQ, Dossa F, Arora A, et al.Recommendations for the Prescription of Opioids at Discharge After Abdominopelvic Surgery: A Systematic Review.JAMA Surg.2020;155(5):420-429.doi:10.1001/jamasurg.2019.5875
+4.Zhang DDQ, Dossa F, Arora A, et al.Recommendations for the Prescription of Opioids at Discharge After Abdominopelvic Surgery: A Systematic Review.JAMA Surg.2020;155(5):420-429.doi:10.1001/jamasurg.2019.5875
+5.Arenas MC, Aguilar MA, Montagud-Romero S, et al.Influence of the Novelty-Seeking Endophenotype on the Rewarding Effects of Psychostimulant Drugs in Animal Models.Curr Neuropharmacol.2016;14(1):87-100.doi:10.2174/1570159x13666150921112841
+5.Arenas MC, Aguilar MA, Montagud-Romero S, et al.Influence of the Novelty-Seeking Endophenotype on the Rewarding Effects of Psychostimulant Drugs in Animal Models.Curr Neuropharmacol.2016;14(1):87-100.doi:10.2174/1570159x13666150921112841
+6.Schindler A.Attachment and Substance Use Disorders-Theoretical Models, Empirical Evidence, and Implications for Treatment.Front Psychiatry.2019;10:727.Published 2019 Oct 15.doi:10.3389/fpsyt.2019.00727
+6.Schindler A.Attachment and Substance Use Disorders-Theoretical Models, Empirical Evidence, and Implications for Treatment.Front Psychiatry.2019;10:727.Published 2019 Oct 15.doi:10.3389/fpsyt.2019.00727
+7.Groenman AP, Janssen TWP, Oosterlaan J.Childhood Psychiatric Disorders as Risk Factor for Subsequent Substance Abuse: A Meta-Analysis.J Am Acad Child Adolesc Psychiatry.2017;56(7):556-569.doi:10.1016/j.jaac.2017.05.004
+7.Groenman AP, Janssen TWP, Oosterlaan J.Childhood Psychiatric Disorders as Risk Factor for Subsequent Substance Abuse: A Meta-Analysis.J Am Acad Child Adolesc Psychiatry.2017;56(7):556-569.doi:10.1016/j.jaac.2017.05.004
+8.Volkow ND, Blanco C.Substance use disorders: a comprehensive update of classification, epidemiology, neurobiology, clinical aspects, treatment and prevention.World Psychiatry.2023;22(2):203-229.doi:10.1002/wps.21073
+8.Volkow ND, Blanco C.Substance use disorders: a comprehensive update of classification, epidemiology, neurobiology, clinical aspects, treatment and prevention.World Psychiatry.2023;22(2):203-229.doi:10.1002/wps.21073
+9.Grant BF, Saha TD, Ruan WJ, et al.Epidemiology of DSM-5 Drug Use Disorder: Results From the National Epidemiologic Survey on Alcohol and Related Conditions-III. JAMA Psychiatry.2016;73(1):39-47.doi:10.1001/jamapsychiatry.2015.2132
+9.Grant BF, Saha TD, Ruan WJ, et al.Epidemiology of DSM-5 Drug Use Disorder: Results From the National Epidemiologic Survey on Alcohol and Related Conditions-III. JAMA Psychiatry.2016;73(1):39-47.doi:10.1001/jamapsychiatry.2015.2132
+10.Stalter N, Ma S, Simon G, Pruinelli L.Psychosocial problems and high amount of opioid administration are associated with opioid dependence and abuse after first exposure for chronic pain patients.Addict Behav.2023;141:107657.doi:10.1016/j.addbeh.2023.107657
+10.Stalter N, Ma S, Simon G, Pruinelli L.Psychosocial problems and high amount of opioid administration are associated with opioid dependence and abuse after first exposure for chronic pain patients.Addict Behav.2023;141:107657.doi:10.1016/j.addbeh.2023.107657
+11.Miller AP, Bogdan R, Agrawal A, Hatoum AS.Generalized genetic liability to substance use disorders.J Clin Invest.2024;134(11):e172881.Published 2024 Jun 3.doi:10.1172/JCI172881
+11.Miller AP, Bogdan R, Agrawal A, Hatoum AS.Generalized genetic liability to substance use disorders.J Clin Invest.2024;134(11):e172881.Published 2024 Jun 3.doi:10.1172/JCI172881
+12.Webster LR.Risk Factors for Opioid-Use Disorder and Overdose.Anesth Analg.2017;125(5):1741-1748.doi:10.1213/ANE.0000000000002496
+12.Webster LR.Risk Factors for Opioid-Use Disorder and Overdose.Anesth Analg.2017;125(5):1741-1748.doi:10.1213/ANE.0000000000002496
+13.Barnett ML, Olenski AR, Jena AB.Opioid-Prescribing Patterns of Emergency Physicians and Risk of Long-Term Use.N Engl J Med.2017;376(7):663-673.doi:10.1056/NEJMsa1610524
+13.Barnett ML, Olenski AR, Jena AB.Opioid-Prescribing Patterns of Emergency Physicians and Risk of Long-Term Use.N Engl J Med.2017;376(7):663-673.doi:10.1056/NEJMsa1610524
+
+【物质使用障碍的诊断】
+病史和/或精神评估
+病史和/或精神评估
+有时进行尿液或血清药物筛查试验
+有时进行尿液或血清药物筛查试验
+实验室检查、心电图检查或影像学研究以评估毒性
+实验室检查、心电图检查或影像学研究以评估毒性
+物质使用障碍的临床表现差异很大。许多物质使用障碍患者并无功能损害或损害程度轻微，即便存在损害，也可能仅其最亲近的家人或朋友知晓。然而，一些患者因药物过量或药物引起的严重毒性而接受紧急护理。患者可能会寻求医疗护理，或者临床医生、家人或朋友、同事、执法人员可能会提出担忧，或者由于某些工作场所和其他场所要求的药物筛查测试而提出担忧。重点在于准确识别物质使用障碍患者，并转诊至专科治疗，这将极大有助于减少对个人的不良后果及对社会的影响。
+就诊后，对患者进行评估并确定初始护理级别。（另请参见非法物质的毒性。）
+对于与物质相关障碍相关的每类药物（参见与物质相关障碍相关的十大药物类别），,《精神疾病诊断与统计手册》第 5 版，文本修订版 (DSM-5-TR)（1）定义了使用障碍，并在适当情况下，定义了中毒和戒断综合征，以及与该物质或药物类别相关的不明原因障碍的标准。
+
+【特定物质使用障碍】
+物质使用障碍的诊断基于识别一种病理性行为模式，即患者尽管因使用该物质而出现显著功能损害，仍持续使用该物质。DSM-5-TR 分类分为 4 个类别，共包含 11 项标准。12 个月内符合上述标准中 2 项或以上者，可诊断为物质使用障碍。
+控制受损
+个体使用该物质的剂量或时长超出最初计划
+个体使用该物质的剂量或时长超出最初计划
+人们希望停止或减少使用该物质
+人们希望停止或减少使用该物质
+个体花费大量时间用于获取、使用该物质，或从其作用中恢复
+个体花费大量时间用于获取、使用该物质，或从其作用中恢复
+有强烈愿望（渴求）使用物质
+有强烈愿望（渴求）使用物质
+社交受损
+个体未能履行工作、学习或家庭中的主要角色职责
+个体未能履行工作、学习或家庭中的主要角色职责
+即便该物质导致（或加重）了社交或人际关系问题，个体仍持续使用
+即便该物质导致（或加重）了社交或人际关系问题，个体仍持续使用
+个体因使用该物质而放弃或减少重要的社交、职业或娱乐活动
+个体因使用该物质而放弃或减少重要的社交、职业或娱乐活动
+使用风险
+个体在具有生理危险性的场景中使用该物质（如驾驶时或处于危险的社交环境中）
+个体在具有生理危险性的场景中使用该物质（如驾驶时或处于危险的社交环境中）
+即便知晓该物质会加重某种躯体或心理问题，个体仍持续使用。
+即便知晓该物质会加重某种躯体或心理问题，个体仍持续使用。
+药理症状
+耐受性：个体需要逐步增加药物剂量才能达到中毒状态或获得期望效果，或固定剂量的药效会随时间逐渐减弱。
+耐受性：个体需要逐步增加药物剂量才能达到中毒状态或获得期望效果，或固定剂量的药效会随时间逐渐减弱。
+戒断反应：当停用药物或使用特定拮抗剂抵消药物作用时出现的不良生理效应
+戒断反应：当停用药物或使用特定拮抗剂抵消药物作用时出现的不良生理效应
+物质使用障碍的严重程度根据症状的数目：
+轻度：2到3条
+轻度：2到3条
+中度：4至5条
+中度：4至5条
+重度：符合≥6项标准
+重度：符合≥6项标准
+对于每个严重程度级别，还设有早期或持续缓解的说明。
+
+【特定物质中毒综合征】
+中毒综合征的诊断通常需要最近使用过某种物质、临床上显著的行为或心理变化、该物质特有的体征或症状，并且这些体征或症状不能归因于其他疾病（1）。
+除烟草外，所有类别物质的中毒综合征均有明确界定。
+
+【特定物质戒断综合征】
+戒断综合征的诊断通常需要长期使用该物质并最近停止使用，以及该物质戒断综合征特有的体征或症状，这些体征或症状会导致临床上显著的功能障碍，并且不能更好地归因于其他疾病（1）。
+请注意，某些药物，尤其是阿片类药物，镇静/安眠药和兴奋剂，即使短期合理的使用（阿片类药物<1周）也会导致耐受性和/或戒断症状。在适当的医学使用后出现的戒断症状不应作为诊断物质使用障碍的依据。
+除吸入剂和致幻剂外，所有类别物质的戒断综合征均有明确界定。
+
+【诊断参考文献】
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders.5th ed, Text Revision. American Psychiatric Association Publishing; 2022:543-553.
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders.5th ed, Text Revision. American Psychiatric Association Publishing; 2022:543-553.
+
+【物质使用障碍的治疗】
+根据物质和环境而异
+根据物质和环境而异
+治疗物质使用障碍是具有挑战性的，包括一个或多个以下内容：
+急性解毒
+急性解毒
+戒断的预防和管理
+戒断的预防和管理
+停止（或很少，减少）使用
+停止（或很少，减少）使用
+维持禁欲
+维持禁欲
+随着对强迫性用药背后生物学过程的科学认知不断加深，物质使用障碍已被视为一类医学疾病。这些疾病适用于各种形式的治疗。治疗阶段可以通过咨询和支持、药物治疗以及对一般医疗并发症的支持性治疗来管理。在许多不同的临床环境中提供治疗，包括门诊或住院的一般医疗护理环境（初级保健、精神保健、急诊科）、住院或门诊物质使用康复计划、社区或在线支持团体或监狱。
+过量用药、毒性和戒断的评估和管理将针对特定物质单独讨论。（另见非法物质的毒性。）
+咨询与支持可通过多种形式提供，且许多患者会同时接受不止一种形式的干预，或先后接受多种形式的干预。这些包括心理疗法（例如，动机增强疗法、复发预防、认知行为疗法和辩证行为疗法）和支持团体（例如，匿名戒酒会、匿名戒毒会和其他十二步计划）。
+药物治疗包括激动剂治疗（例如，用于烟草使用障碍的尼古丁替代疗法，用于阿片类药物使用障碍的美沙酮或纳曲酮）、混合激动剂-拮抗剂治疗（用于阿片类药物使用障碍的丁丙诺啡）、改变或恢复神经递质平衡以减少渴望的药物（用于酒精使用障碍的阿坎酸钙）、改变神经递质释放以减少愉悦效应的药物（用于酒精使用障碍的托吡酯）以及在复发期间引起有害症状的药物（用于酒精使用障碍的二硫仑）（1, 2）。
+
+【治疗参考文献】
+1.Ray LA, Meredith LR, Kiluk BD, Walthers J, Carroll KM, Magill M.Combined Pharmacotherapy and Cognitive Behavioral Therapy for Adults With Alcohol or Substance Use Disorders: A Systematic Review and Meta-analysis.JAMA Netw Open.2020;3(6):e208279.Published 2020 Jun 1.doi:10.1001/jamanetworkopen.2020.8279
+1.Ray LA, Meredith LR, Kiluk BD, Walthers J, Carroll KM, Magill M.Combined Pharmacotherapy and Cognitive Behavioral Therapy for Adults With Alcohol or Substance Use Disorders: A Systematic Review and Meta-analysis.JAMA Netw Open.2020;3(6):e208279.Published 2020 Jun 1.doi:10.1001/jamanetworkopen.2020.8279
+2.Perry C, Liberto J, Milliken C, et al.The Management of Substance Use Disorders: Synopsis of the 2021 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline.Ann Intern Med.2022;175(5):720-731.doi:10.7326/M21-4011
+2.Perry C, Liberto J, Milliken C, et al.The Management of Substance Use Disorders: Synopsis of the 2021 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline.Ann Intern Med.2022;175(5):720-731.doi:10.7326/M21-4011
+常规筛查物质使用障碍是初级保健的重要组成部分，因为早期识别和干预可以显著改善健康状况。筛查应以非评判性、保密的方式进行，并且可以纳入常规的健康维护访问。
+建议进行普遍筛查，而不是依赖临床怀疑，因为物质使用及其相关的耻辱感通常是隐藏的。有效的筛查包括询问常见物质类别的使用情况，包括酒精、烟草/尼古丁、大麻、处方药（例如，阿片类药物、苯二氮卓类药物、兴奋剂）和非法药物。经过验证的工具，例如AUDIT-C（酒精使用障碍识别测试-消费）（1）、DAST-10（药物滥用筛查测试）（2）和单问题筛查（例如，“在过去一年中，你有多少次非法使用药物或出于非医疗原因使用处方药？”）提供了快速、循证的方法。
+当筛查后进行简短评估以确定风险级别以及是否需要进一步评估或治疗时，筛查最有效。如果患者的筛查结果呈阳性，临床医生应评估严重程度、功能影响和共病精神健康状况，并在适当的时候考虑转诊进行专业护理。结合动机访谈技巧可以增强患者的参与度和改变的意愿。
+
+【筛查参考文献】
+1.Bush K, Kivlahan DR, McDonell MB, Fihn SD, Bradley KA.The AUDIT alcohol consumption questions (AUDIT-C): an effective brief screening test for problem drinking.Ambulatory Care Quality Improvement Project (ACQUIP).Alcohol Use Disorders Identification Test.Arch Intern Med.1998;158(16):1789-1795.doi:10.1001/archinte.158.16.1789
+1.Bush K, Kivlahan DR, McDonell MB, Fihn SD, Bradley KA.The AUDIT alcohol consumption questions (AUDIT-C): an effective brief screening test for problem drinking.Ambulatory Care Quality Improvement Project (ACQUIP).Alcohol Use Disorders Identification Test.Arch Intern Med.1998;158(16):1789-1795.doi:10.1001/archinte.158.16.1789
+2.Tiet QQ, Leyva YE, Moos RH, Frayne SM, Osterberg L, Smith B.Screen of Drug Use: Diagnostic Accuracy of a New Brief Tool for Primary Care.JAMA Intern Med.2015;175(8):1371-1377.doi:10.1001/jamainternmed.2015.2438
+2.Tiet QQ, Leyva YE, Moos RH, Frayne SM, Osterberg L, Smith B.Screen of Drug Use: Diagnostic Accuracy of a New Brief Tool for Primary Care.JAMA Intern Med.2015;175(8):1371-1377.doi:10.1001/jamainternmed.2015.2438
+预防物质使用障碍包括有针对性的和普遍的策略，旨在减轻发展阶段的风险因素并加强保护因素。在临床实践中，预防工作应尽早开始，尤其是在青少年时期，因为此时最有可能开始使用物质，并且神经生物学对成瘾的脆弱性会增加。提供者应评估已知的风险因素，包括物质使用障碍的家族史、创伤暴露、共发精神疾病和早期行为问题，并考虑预防性干预，例如心理教育、认知和行为技能发展以及基于家庭的支持。
+在人群层面，预防措施包括监管和环境相关策略，例如征税、年龄限制以及受控的药物处方规范。在临床环境中，医疗保健提供者通过提供预期指导、向患者咨询与物质相关的风险以及筛查滥用的早期迹象，发挥着关键作用。处方监测数据的常规审查、谨慎的阿片类药物处方以及关于药物安全性的患者教育是预防的重要组成部分。
+过量使用预防是预防物质使用障碍的关键环节，尤其在阿片类药物相关死亡率上升的背景下。临床医生应教育患者及其家属有关过量的风险，尤其是在开具阿片类药物处方时，并向高危人群共同开具或分发纳洛酮（例如，鼻内纳洛酮/Narcan）。为患者和社区配备纳洛酮以及关于其使用的说明，是一种基于证据的危害降低策略，可以挽救生命并促进与护理的联系。
+物质使用障碍是指即使物质使用导致明显的问题仍继续使用，并伴有病态的行为方式。
+物质使用障碍是指即使物质使用导致明显的问题仍继续使用，并伴有病态的行为方式。
+临床表现可分为：控制受损，社交受损，危险使用和药理症状。
+临床表现可分为：控制受损，社交受损，危险使用和药理症状。
+“成瘾”、“滥用” 和 “依赖” 这类术语表述模糊且带有价值判断；更推荐使用 “物质使用障碍” 这一表述，并聚焦于具体临床表现及其严重程度。
+“成瘾”、“滥用” 和 “依赖” 这类术语表述模糊且带有价值判断；更推荐使用 “物质使用障碍” 这一表述，并聚焦于具体临床表现及其严重程度。
+物质使用障碍的后果和治疗方式差异很大，取决于使用的物质。
+物质使用障碍的后果和治疗方式差异很大，取决于使用的物质。

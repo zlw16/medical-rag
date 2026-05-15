@@ -1,0 +1,27 @@
+标题：累及视网膜的恶性肿瘤
+来源：https://www.msdmanuals.cn/professional/eye-disorders/retinal-disorders/cancers-affecting-the-retina
+============================================================
+
+累及视网膜的恶性肿瘤通常开始在脉络膜，巩膜和视网膜之间的血管组织层。由于视网膜依赖于脉络膜的支撑和提供一半的血供，恶性肿瘤对脉络膜的损害有可能会影响视力。
+
+【脉络膜黑色素瘤】
+脉络膜黑色素瘤起源于脉络膜的黑色素细胞。脉络膜黑色素瘤是源于眼内的最常见的恶性肿瘤，白种人的发病率为1/2500。深肤色的人种较少见。发病年龄最多见于55～60岁 (1)。可以发生局部和远处的转移，有致命性。
+症状一般在晚期出现，包括视力下降和视网膜脱离的相关表现。
+此图像显示脉络膜黑色素瘤与上覆视网膜下液。
+© Springer Science+Business Media
+诊断依据眼底镜检查，必要时包括超声波、CT、荧光血管造影和系列眼底照相可以辅助诊断。
+小的肿瘤病灶可以通过激光、放疗或者有放射活性的植入物来治疗，并且可保存视力和眼球。很少情况下进行局部切除术。大的肿瘤病灶一般需要施行眼球摘除术。
+
+【参考文献】
+1.Aronow ME, Topham AK, Singh AD: Uveal melanoma: 5-year update on incidence, treatment, and survival (SEER 1973-2013).Ocul Oncol Pathol4:145–151.Ocul Oncol Pathol4:145–151, 2018.doi: 10.1159/000480640
+1.Aronow ME, Topham AK, Singh AD: Uveal melanoma: 5-year update on incidence, treatment, and survival (SEER 1973-2013).Ocul Oncol Pathol4:145–151.Ocul Oncol Pathol4:145–151, 2018.doi: 10.1159/000480640
+
+【脉络膜转移性肿瘤】
+由于脉络膜的血管丰富，因此转移性肿瘤常见。最常见的原发恶性肿瘤女性为乳腺癌，男性为肺癌和前列腺癌。(1)
+症状一般在晚期出现，包括视力下降和 视网膜脱离 的相关表现。
+诊断一般在常规眼底镜检查中提示。通常需行超声波检查，细针活检可以确诊。
+治疗通常依据原发肿瘤，有全身化疗、放疗或者两者联合。
+
+【参考文献】
+1.Arepalli S, Kaliki S, Shields CL: Choroidal metastases: Origin, features, and therapy.Indian J Ophthalmol63(2):122-127, 2015.doi: 10.4103/0301-4738.154380
+1.Arepalli S, Kaliki S, Shields CL: Choroidal metastases: Origin, features, and therapy.Indian J Ophthalmol63(2):122-127, 2015.doi: 10.4103/0301-4738.154380

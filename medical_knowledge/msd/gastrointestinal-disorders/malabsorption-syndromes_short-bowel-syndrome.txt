@@ -1,0 +1,39 @@
+标题：短肠综合征
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/malabsorption-syndromes/short-bowel-syndrome
+============================================================
+
+短肠综合征属于吸收不良综合征。
+广泛切除的常见原因包括克罗恩病、肠系膜梗死、放射性肠炎、癌症、肠扭转以及先天性异常。在儿童中，坏死性小肠结肠炎也是短肠综合征的重要病因（1）。
+由于空肠是大多数营养素的主要消化和吸收部位，空肠切除会导致吸收面积减少，并显著降低营养吸收。作为代偿，回肠通过增加其绒毛的长度和吸收功能来适应，从而逐步改善营养吸收。
+维生素B12和胆酸的吸收主要发生在回肠。如果回肠切除>100 cm，可导致严重的腹泻和胆汁酸吸收不良。但剩余空肠并不能产生代偿性改变（不同于空肠切除后回肠的代偿性改变）。因此可有脂肪、脂溶性维生素和维生素B12的吸收不良。另外，未被吸收的胆汁酸在结肠内会引起分泌性腹泻。保留结肠能够显著减少水和电解质的丢失。末端回肠和回盲瓣切除者容易发生小肠细菌过度生长。
+
+【参考文献】
+1.Sparks EA, Khan FA, Fisher JG, Fullerton BS, Hall A, Raphael BP, Duggan C, Modi BP, Jaksic T.Necrotizing enterocolitis is associated with earlier achievement of enteral autonomy in children with short bowel syndrome.J Pediatr Surg.2016 Jan;51(1):92-5.doi: 10.1016/j.jpedsurg.2015.10.023.
+1.Sparks EA, Khan FA, Fisher JG, Fullerton BS, Hall A, Raphael BP, Duggan C, Modi BP, Jaksic T.Necrotizing enterocolitis is associated with earlier achievement of enteral autonomy in children with short bowel syndrome.J Pediatr Surg.2016 Jan;51(1):92-5.doi: 10.1016/j.jpedsurg.2015.10.023.
+
+【短肠综合征的治疗】
+全肠外营养（TPN）
+全肠外营养（TPN）
+如果小肠残留 > 100 cm，最终可经口喂养
+如果小肠残留 > 100 cm，最终可经口喂养
+止泻药、消胆胺、质子泵抑制剂、补充维生素
+止泻药、消胆胺、质子泵抑制剂、补充维生素
+术后早期可发生严重腹泻并伴有显著电解质丢失。患者通常需要全肠外营养，并严密监测水、电解质（包括钙、镁）水平。若患者术后病情稳定且排便量<2 L/日，可逐渐口服含钠和葡萄糖的等渗液（类似于世界卫生组织推荐的口服补液配方—见口服补液）。
+对于进行了广泛切除（剩余小肠长度为<100厘米）的患者以及存在过度液体和电解质流失的患者，需要终身接受全肠外营养支持。
+空肠长度>100 cm的患者可通过经口喂养获得足够的营养。与能产生显著渗透负荷的碳水化合物不同，饮食中的脂肪和蛋白质通常耐受良好。小剂量喂养可降低肠道渗透压。理想状态下，40%的热量由脂肪提供。
+餐后腹泻患者需要在餐前1小时服用止泻药（如洛哌丁胺）。进餐时服用考来烯胺2至4克，可减轻因回肠切除导致的胆汁酸吸收不良相关腹泻。如果明确存在维生素B12缺乏，需要每月肌注维生素B12。大多数患者都需补充维生素、钙和镁。
+该病可有胃酸分泌过多，从而使胰酶灭活。因此大多数患者需服用质子泵抑制剂。
+对于不适合长期全肠外营养和肠道没有术后适应性改变的患者，建议小肠移植。
+需要肠外支持的≥1岁的患者可能受益于替杜鲁肽或阿普鲁肽（胰高血糖素样肽-2[GLP-2]类似物）（1、2）。
+
+【治疗参考文献】
+1.Verbiest A, Hvistendahl MK, Bolognani F, et al.Efficacy and safety of apraglutide in short bowel syndrome with intestinal failure and colon-in-continuity: A multicenter, open-label, metabolic balance study.Clin Nutr.2024;43(12):158-166.doi:10.1016/j.clnu.2024.10.011
+1.Verbiest A, Hvistendahl MK, Bolognani F, et al.Efficacy and safety of apraglutide in short bowel syndrome with intestinal failure and colon-in-continuity: A multicenter, open-label, metabolic balance study.Clin Nutr.2024;43(12):158-166.doi:10.1016/j.clnu.2024.10.011
+2.Schwartz LK, O'Keefe SJ, Fujioka K, et al.Long-Term Teduglutide for the Treatment of Patients With Intestinal Failure Associated With Short Bowel Syndrome.Clin Transl Gastroenterol.2016;7(2):e142.Published 2016 Feb 4.doi:10.1038/ctg.2015.69
+2.Schwartz LK, O'Keefe SJ, Fujioka K, et al.Long-Term Teduglutide for the Treatment of Patients With Intestinal Failure Associated With Short Bowel Syndrome.Clin Transl Gastroenterol.2016;7(2):e142.Published 2016 Feb 4.doi:10.1038/ctg.2015.69
+广泛的小肠切除可引起严重腹泻和吸收不良。
+广泛的小肠切除可引起严重腹泻和吸收不良。
+空肠残余长度<100 cm的患者需终身全肠外营养治疗；空肠残余长度>100 cm的患者可能通过小剂量、高脂高蛋白、低碳水化合物的饮食存活。
+空肠残余长度<100 cm的患者需终身全肠外营养治疗；空肠残余长度>100 cm的患者可能通过小剂量、高脂高蛋白、低碳水化合物的饮食存活。
+并需服用止泻药、消胆胺、质子泵抑制剂和补充维生素。
+并需服用止泻药、消胆胺、质子泵抑制剂和补充维生素。

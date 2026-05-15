@@ -1,0 +1,87 @@
+标题：产前遗传咨询
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/prenatal-genetic-counseling-and-evaluation/prenatal-genetic-counseling
+============================================================
+
+为所有准父母提供产前遗传咨询，最好是在受孕前，以评估遗传病的危险因素。此外，产前咨询还为准父母提供有关可采取的预防措施的信息，以帮助预防导致出生缺陷的其他原因（例如，避免致畸剂、服用补充叶酸、管理慢性病）。
+在遗传咨询中提供的信息应尽可能简单、非指示性且不含专业术语，以便帮助焦虑的准父母理解。必要时需要反复说明。应该给患者一些时间单独提出问题。患者可能被告知有关额外资源（例如，美国妇产科医师学会：遗传性疾病与妊娠），这些资源针对许多可能与遗传异常相关的常见问题，如高龄产妇、反复性自然流产、既往有神经管缺陷的子女以及既往有染色体三体综合征的子女（参见妊娠并发症的风险因素）。
+许多潜在的父母（例如，那些有已知或疑似风险因素的人）从被转介给遗传专家那里获益，他们可以获得信息和测试选项的介绍。有遗传异常风险因素的父母被告知可能的结果和基因评估的选择。如果测试确定了一种疾病，就会讨论生殖选择。
+遗传病患者孕前的生育选择包括
+如果男性是携带者，则选择供体精子
+如果男性是携带者，则选择供体精子
+若女性为携带者，则使用供体卵子
+若女性为携带者，则使用供体卵子
+体外受精(IVF) 结合胚胎植入前基因检测
+体外受精(IVF) 结合胚胎植入前基因检测
+胚胎植入前遗传学检测(PGT)用于在胚胎植入前识别那些通过体外受精产生的遗传缺陷。如果夫妻任何一方有某些孟德尔遗传病或染色体异常的高风险，则可考虑进行。
+孕后生殖选择包括
+先天性异常的产前检查
+先天性异常的产前检查
+终止妊娠如果存在遗传疾病
+终止妊娠如果存在遗传疾病
+转入三级医疗中心分娩，可提供更广泛的新生儿服务
+转入三级医疗中心分娩，可提供更广泛的新生儿服务
+(参见医学遗传学的一般原则。）
+
+【遗传性疾病或先天性异常的危险因素】
+所有妊娠中都存在一定的基因异常风险。在活产儿中，基因异常的发生率(1)
+由染色体数目异常或结构性异常的发生率为0.5%
+由染色体数目异常或结构性异常的发生率为0.5%
+单基因（孟德尔）异常为1%
+单基因（孟德尔）异常为1%
+多基因异常占1%
+多基因异常占1%
+在自然流产或死产中，异常发生率较高。
+大多数涉及单一器官系统的畸形（例如，神经管缺陷、多数先天性心脏缺陷）源于多基因或多因素（即同时受环境因素影响）遗传。
+对于大多数曾孕育过染色体异常胎儿或婴儿（已确诊或漏诊）的夫妇来说，其胎儿罹患染色体疾病的风险会增加，但少数特定类型（如45,X染色体、三倍体、新生染色体重排）除外。曾经有过唐氏综合症孩子的夫妇可能会面临更高的复发风险，具体取决于染色体异常的类型。对于最常见的非整倍体型21三体综合征，若女性伴侣年龄＜35岁，再次怀有21三体胎儿的风险将增加3.5倍；若年龄≥35岁，风险则增加1.7倍（2）。
+染色体异常更可能出现在以下情况：
+妊娠早期自然流产的发生率（50% 至 80%）（3）
+妊娠早期自然流产的发生率（50% 至 80%）（3）
+胎儿有严重畸形（30%）（4）
+胎儿有严重畸形（30%）（4）
+死产（8% 至 16%）（5，6）
+死产（8% 至 16%）（5，6）
+一小部分父母可能患有染色体疾病，这会增加胎儿患染色体疾病的风险。无症状的亲代染色体异常（例如某些易位和倒置等平衡性异常，它们不会破坏基因，也不会丢失或添加遗传物质）可能不被怀疑。如果有反复的自发流产、不育、或畸形患儿生育史，应怀疑亲代染色体有平衡重排异常。
+随着孕妇年龄的增加，胎儿患染色体疾病的机会也随之增加，因为减数分裂期间不分离率（染色体不能正常分离）会增高。（见表母亲年龄与生下染色体异常婴儿的风险。）按孕产妇年龄划分的常见非整倍体的风险为（7）
+< 35岁： 21三体综合征（1/591），18三体综合征（1/2862）和13三体综合征（1/4651）。
+< 35岁： 21三体综合征（1/591），18三体综合征（1/2862）和13三体综合征（1/4651）。
+≥35岁： 21三体综合征（1/100）、18三体综合征（1/454）和13三体综合征（1/1438）。
+≥35岁： 21三体综合征（1/100）、18三体综合征（1/454）和13三体综合征（1/1438）。
+与高龄孕妇有关的染色体异常大多数涉及额外染色体（三体），尤其是21三体综合征（唐氏综合征）。父亲年龄>35～50岁会增加下一代自发性显性致病基因变异（以前称为突变）的风险，如后代的软骨发育不全(8)。
+
+【母亲年龄与生出染色体异常婴儿的风险*】
+母亲年龄与生出染色体异常婴儿的风险*
+女性年龄
+任何染色体异常的风险
+0.2%
+0.3%
+0.6%
+1.6%
+5.4%
+* 此表仅包括可通过标准染色体检测检测出的染色体异常。不包括生下患有亚显微染色体异常（只能通过特殊测试检测出来）婴儿的风险。
+Hook EB.Rates of chromosome abnormalities at different maternal ages.Obstet Gynecol.1981 Sep;58(3):282–285.
+* 此表仅包括可通过标准染色体检测检测出的染色体异常。不包括生下患有亚显微染色体异常（只能通过特殊测试检测出来）婴儿的风险。
+Hook EB.Rates of chromosome abnormalities at different maternal ages.Obstet Gynecol.1981 Sep;58(3):282–285.
+某些染色体异常是亚显微结构的，因此不能通过传统的核型分析鉴定。 亚显微染色体异常，有时称为拷贝数变异，其发生独立于年龄相关的非分离机制。这些异常的准确发病率是不清楚的，但其发病率在结构异常胎儿中更高。一项多中心研究表明，无论检测指征如何，正常核型的胎儿中临床相关的拷贝数变异的发生率为 1%，而结构异常的胎儿中临床相关的拷贝数变异的发生率为 6%（9）。
+既往一代以上有家族史的，应怀疑常染色体显性异常；常染色体疾病对男性和女性胎儿的影响是相同的。如果夫妻一方患有常染色体显性疾病，这种疾病传给下一代的风险为50%。
+要使常染色体隐性疾病得到表达，下一代必须从父母双方各遗传一个致病性基因变异才会发病。父母可能是杂合子（携带者），如果是这样，他们不受影响，但携带异常基因（表型正常）。平均而言，若父母双方均为携带者，后代（无论男女）有25%的概率为致病基因变异的纯合子从而患病，50%可能成为杂合子携带者，另有25%既不受影响也非携带者（基因型正常）。如果父母中只有一人是携带者，那么后代为杂合子的风险为 50%，为基因型正常的可能性为 50%。如果仅有兄弟姐妹而没有其他亲属患病，应怀疑患有常染色体隐性疾病。如果父母双方有血缘关系，则他们携带相同常染色体隐性特征的可能性更大。
+因为女性具有两条X染色体而男性只有一条，所以X连锁隐性遗传病在所有携带致病基因变异的男性中都有表达。此类疾病通常通过表型正常的杂合（携带）女性传播。女性携带者的儿子患病的可能性为50%，她的女儿成为携带者的可能性为50%。男性患者不会将该基因遗传给他们的儿子，但会遗传给他们的所有女儿，而她们因此成为携带者。未患病的男性不会遗传这种基因。
+
+【先天性疾病的危险因素参考】
+1.Korf BR, Pyeritz RE, Grody WW: 3-Nature and frequency of genetic disease.In Emery and Rimoin's Principles and Practice of Medical Genetics and Genomics, 7th ed.Academic Press, 2019, Pages 47-51,ISBN 9780128125373,https://doi.org/10.1016/B978-0-12-812537-3.00003-2
+1.Korf BR, Pyeritz RE, Grody WW: 3-Nature and frequency of genetic disease.In Emery and Rimoin's Principles and Practice of Medical Genetics and Genomics, 7th ed.Academic Press, 2019, Pages 47-51,ISBN 9780128125373,https://doi.org/10.1016/B978-0-12-812537-3.00003-2
+2.Sheets KB, Crissman BG, Feist CD, et al: Practice guidelines for communicating a prenatal or postnatal diagnosis of Down syndrome: recommendations of the national society of genetic counselors.J Genet Couns20(5):432-441, 2011.doi:10.1007/s10897-011-9375-8
+2.Sheets KB, Crissman BG, Feist CD, et al: Practice guidelines for communicating a prenatal or postnatal diagnosis of Down syndrome: recommendations of the national society of genetic counselors.J Genet Couns20(5):432-441, 2011.doi:10.1007/s10897-011-9375-8
+3.Hardy K, Hardy PJ, Jacobs PA, et al: Temporal changes in chromosome abnormalities in human spontaneous abortions: Results of 40 years of analysis.Am J Med Genet A170(10):2671-2680, 2016.doi:10.1002/ajmg.a.37795
+3.Hardy K, Hardy PJ, Jacobs PA, et al: Temporal changes in chromosome abnormalities in human spontaneous abortions: Results of 40 years of analysis.Am J Med Genet A170(10):2671-2680, 2016.doi:10.1002/ajmg.a.37795
+4.Donnelly JC, Platt LD, Rebarber A, et al: Association of copy number variants with specific ultrasonographically detected fetal anomalies.Obstet Gynecol124(1):83-90, 2014.doi:10.1097/AOG.0000000000000336
+4.Donnelly JC, Platt LD, Rebarber A, et al: Association of copy number variants with specific ultrasonographically detected fetal anomalies.Obstet Gynecol124(1):83-90, 2014.doi:10.1097/AOG.0000000000000336
+5.Reddy UM, Page GP, Saade GR, et al: Karyotype versus microarray testing for genetic abnormalities after stillbirth.N Engl J Med367(23):2185-2193, 2012.doi:10.1056/NEJMoa1201569
+5.Reddy UM, Page GP, Saade GR, et al: Karyotype versus microarray testing for genetic abnormalities after stillbirth.N Engl J Med367(23):2185-2193, 2012.doi:10.1056/NEJMoa1201569
+6.Dalton SE, Workalemahu T, Allshouse AA, et al: Copy number variants and fetal growth in stillbirths.Am J Obstet Gynecol228(5):579.e1-579.e11, 2023.doi:10.1016/j.ajog.2022.11.1274
+6.Dalton SE, Workalemahu T, Allshouse AA, et al: Copy number variants and fetal growth in stillbirths.Am J Obstet Gynecol228(5):579.e1-579.e11, 2023.doi:10.1016/j.ajog.2022.11.1274
+7.Forabosco A, Percespe A, Santucci S: Incidence of non-age-dependent chromosomal abnormalities: a population-based study on 88965 amniocenteses.Eur J Hum Genet17 (7): 897–903, 2009.doi:10.1038/ejhg.2008.265
+7.Forabosco A, Percespe A, Santucci S: Incidence of non-age-dependent chromosomal abnormalities: a population-based study on 88965 amniocenteses.Eur J Hum Genet17 (7): 897–903, 2009.doi:10.1038/ejhg.2008.265
+8.Sharma R, Agarwal A, Rohra VK, et al: Effects of increased paternal age on sperm quality, reproductive outcome and associated epigenetic risks to offspring.Reprod Biol Endocrinol13:35, 2015.Published 2015 Apr 19.doi:10.1186/s12958-015-0028-x
+8.Sharma R, Agarwal A, Rohra VK, et al: Effects of increased paternal age on sperm quality, reproductive outcome and associated epigenetic risks to offspring.Reprod Biol Endocrinol13:35, 2015.Published 2015 Apr 19.doi:10.1186/s12958-015-0028-x
+9.Wapner RJ, Martin CL, Levy B: Chromosomal microarray versus karyotyping for prenatal diagnosis.N Engl J Med367:2175-2184, 2012.doi:10.1056/NEJMoa1203382
+9.Wapner RJ, Martin CL, Levy B: Chromosomal microarray versus karyotyping for prenatal diagnosis.N Engl J Med367:2175-2184, 2012.doi:10.1056/NEJMoa1203382

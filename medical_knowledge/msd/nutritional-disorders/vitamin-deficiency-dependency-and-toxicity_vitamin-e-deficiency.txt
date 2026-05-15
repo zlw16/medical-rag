@@ -1,0 +1,54 @@
+标题：维生素E缺乏症
+来源：https://www.msdmanuals.cn/professional/nutritional-disorders/vitamin-deficiency-dependency-and-toxicity/vitamin-e-deficiency
+============================================================
+
+维生素E缺乏可导致红细胞脆性增加和神经元变性，特别是外周轴突和后柱的神经元。
+维生素E是一组具有相似生物活性的化合物（包括生育酚与生育三烯酚）。最具生物活性的是alpha‑生育酚，但beta-、gamma-、delta-生育酚，以及4种生育三烯酚和一些立体异构体也可能具有重要的生物活性。这些化合物具有抗氧化作用，能防止细胞膜上多不饱和脂肪酸发生脂质过氧化反应 (见表维生素的来源、功能和作用)。维生素E的饮食来源包括植物油和坚果。
+血浆中生育酚水平伴随总血浆脂质水平而变化。 正常情况下，血浆alpha-生育酚水平是5～20mcg/mL（11.6mcmol/L～46.4mcmol/L）。
+大剂量维生素 E 补充剂不能预防癌症或心血管疾病，美国预防服务工作组建议避免为此类目的服用维生素E（1）；补充剂是否可以预防迟发性运动障碍仍存在争议。尚无确凿证据表明，每日摄入高达 2000 国际单位的天然维生素 E（相当于 1340 毫克 α- 生育酚 / 天）可延缓阿尔茨海默病进展或降低前列腺癌风险；有研究提示补充维生素E可能增加前列腺癌风险（2）。
+虽然许多强化食品和补充剂中的维生素E含量都是以国际单位（IU）表示的，但当前推荐以毫克 α- 生育酚为单位。
+(参见维生素概述。)
+
+【参考文献】
+1.Moyer VA; U.S. Preventive Services Task Force.Vitamin, mineral, and multivitamin supplements for the primary prevention of cardiovascular disease and cancer: U.S. Preventive services Task Force recommendation statement.Ann Intern Med.2014;160(8):558-564.doi:10.7326/M14-0198
+1.Moyer VA; U.S. Preventive Services Task Force.Vitamin, mineral, and multivitamin supplements for the primary prevention of cardiovascular disease and cancer: U.S. Preventive services Task Force recommendation statement.Ann Intern Med.2014;160(8):558-564.doi:10.7326/M14-0198
+2.Klein EA, Thompson IM Jr, Tangen CM, et al:Vitamin Eand the risk of prostate cancer: TheSeleniumandVitamin ECancer Prevention Trial (SELECT).JAMA306(14):1549-56, 2011.doi: 10.1001/jama.2011.1437
+2.Klein EA, Thompson IM Jr, Tangen CM, et al:Vitamin Eand the risk of prostate cancer: TheSeleniumandVitamin ECancer Prevention Trial (SELECT).JAMA306(14):1549-56, 2011.doi: 10.1001/jama.2011.1437
+
+【维生素E缺乏症的病因】
+在食品不安全率高的国家，维生素E缺乏症的最常见原因是
+维生素E摄入不足，
+维生素E摄入不足，
+在粮食不安全率较低的国家，最常见的原因是
+各种疾病导致的脂肪吸收障碍，包括无beta-脂蛋白血症（Bassen-Kornzweig综合征，由于先天缺乏载脂蛋白B造成）、慢性胆汁淤积性肝胆疾病、胰腺炎、短肠综合征和囊肿性纤维化
+各种疾病导致的脂肪吸收障碍，包括无beta-脂蛋白血症（Bassen-Kornzweig综合征，由于先天缺乏载脂蛋白B造成）、慢性胆汁淤积性肝胆疾病、胰腺炎、短肠综合征和囊肿性纤维化
+曾报道有一种比较罕见的遗传性维生素E缺乏症，其发病机制不是由于脂肪吸收不良，而是因肝脏中维生素E代谢缺陷引起。
+
+【维生素E缺乏的症状和体征】
+维生素E缺乏的主要症状是轻度溶血性贫血和非特异性神经系统损害。 无beta-脂蛋白血症会使患者在20岁前出现进行性的神经病变和视网膜病变。
+维生素E缺乏症会引起早产儿出现早产性视网膜病变（也称为晶状体后纤维素增生）以及新生儿心室内和室管膜下出血。此外，早产儿患者会出现肌无力。
+在儿童中，慢性胆汁淤积性肝胆疾病或囊性纤维化损害脂肪和维生素的吸收，缺乏导致神经功能缺陷，包括脊髓小脑性共济失调伴深肌腱反射丧失、躯干和肢体共济失调、振动和位置感觉丧失、眼麻痹、肌肉无力、眼睑下垂、构音障碍。
+在吸收不良导致维生素E缺乏症的成人患者中，脊髓小脑性共济失调非常罕见，因为成人在脂肪组织中储存了大量维生素E。
+
+【维生素E缺乏症的诊断】
+alpha-生育酚水平下降或血浆alpha-生育酚与血脂的比值下降
+alpha-生育酚水平下降或血浆alpha-生育酚与血脂的比值下降
+若无摄入不足史或易感因素，维生素E缺乏的可能性极低。确诊通常需要测量维生素水平。测量对过氧化物反应的红细胞溶血可提示诊断，但无特异性。由于维生素E缺乏会损害红细胞的稳定性，溶血效应增加。
+检测血清alpha-生育酚水平是最直接的诊断方法。 若成人alpha-生育酚水平<5mcg/mL（<11.6mcmol/L），提示维生素E缺乏。 由于异常的血脂水平会影响维生素E的状态，所以成人高脂血症患者血清alpha-生育酚/脂质比降低（<0.8mg/g总脂质）是更精准的指标。
+无beta-脂蛋白血症的儿童和成人患者，血清alpha-生育酚水平通常无法检测。
+
+【维生素E缺乏症的治疗】
+补充 alpha-生育酚或混合生育酚制剂（alpha-、beta-和gamma生育酚）
+补充 alpha-生育酚或混合生育酚制剂（alpha-、beta-和gamma生育酚）
+若吸收障碍导致临床明显的缺乏表现，应该给予α-生育酚15～25mg/kg口服，每日1次。也可给予混合生育酚（200 IU）。 在神经病变的早期阶段，或为了克服无beta-脂蛋白血症的吸收和转运缺陷，需要注射更大剂量的alpha-生育酚。
+
+【维生素E缺乏症的预防】
+尽管早产儿可能需要补充，但母乳与市售配方奶中的维生素E含量足以满足足月儿需求。
+维生素E缺乏通常是由粮食不安全发生率高的国家的饮食摄入不足或粮食不安全发生率低的国家的疾病导致脂肪吸收不良引起的。
+维生素E缺乏通常是由粮食不安全发生率高的国家的饮食摄入不足或粮食不安全发生率低的国家的疾病导致脂肪吸收不良引起的。
+缺乏导致轻度的溶血性贫血和非特异性神经系统缺陷。
+缺乏导致轻度的溶血性贫血和非特异性神经系统缺陷。
+对于存在摄入不足或易感因素且表现相符的患者，需检测 α- 生育酚水平以确诊。
+对于存在摄入不足或易感因素且表现相符的患者，需检测 α- 生育酚水平以确诊。
+治疗措施为补充alpha-生育酚。
+治疗措施为补充alpha-生育酚。

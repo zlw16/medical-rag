@@ -1,0 +1,101 @@
+标题：复杂区域疼痛综合征（CRPS）
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/pain/complex-regional-pain-syndrome-crps
+============================================================
+
+(参见疼痛概述。）
+CRPS I型以前被称为反射性交感神经营养不良，而II型被称为灼痛。两者均在年轻患者中多见，女性多于男性，较男性多2～3倍 (1)。
+
+【参考文献】
+1.Harden RN, McCabe CS, Goebel A, et al.Complex Regional Pain Syndrome: Practical Diagnostic and Treatment Guidelines, 5th Edition.Pain Med.2022;23(Suppl 1):S1-S53.doi:10.1093/pm/pnac046
+1.Harden RN, McCabe CS, Goebel A, et al.Complex Regional Pain Syndrome: Practical Diagnostic and Treatment Guidelines, 5th Edition.Pain Med.2022;23(Suppl 1):S1-S53.doi:10.1093/pm/pnac046
+
+【复合性的局部疼痛综合征的病因】
+CRPS分为2种类型。CRPSⅠ型占病例的大多数，定义为未知神经损伤的CRPS。
+CRPSⅡ型与Ⅰ型类似，但有明显的周围神经损害。
+一些专家根据症状模式描述了中枢型、周围型和混合型，但这些分类的临床相关性仍不清楚（1）。
+
+【病因参考文献】
+1.Ferraro MC, O'Connell NE, Sommer C, et al.Complex regional pain syndrome: advances in epidemiology, pathophysiology, diagnosis, and treatment.Lancet Neurol.2024;23(5):522-533.doi:10.1016/S1474-4422(24)00076-0
+1.Ferraro MC, O'Connell NE, Sommer C, et al.Complex regional pain syndrome: advances in epidemiology, pathophysiology, diagnosis, and treatment.Lancet Neurol.2024;23(5):522-533.doi:10.1016/S1474-4422(24)00076-0
+
+【复杂性区域疼痛综合征的病理生理学】
+具体病理生理机制还不是很清楚，但是周围疼痛感受器和中枢疼痛敏感性的上调和神经肽类（P物质，钙调素基因相关肽）的释放与疼痛和炎症的发生有关。与其他神经性疼痛综合征相比，交感神经系统更多地参与CRPS。中枢交感神经活动增加，外周伤害感受器对去甲肾上腺素（交感神经递质）敏感；由于血管收缩，这些变化可能导致出汗异常和血液流动不良。然而，只有一些患者对交感神经操作有效（即中央或周围交感神经阻滞）。
+
+【复杂性区域疼痛综合征的症状和体征】
+复杂的局部疼痛综合征的症状均不相同，没有一个固定的模式；其症状包括：感觉、局部自主神经（血管舒缩和出汗）和运动障碍。 症状是单方面的；发病时的双侧症状提示不同的诊断。
+疼痛（通常表现为灼烧感或酸痛感）是核心诊断特征，其程度往往与体格检查结果不相符。它不需要遵循单个周围神经的分布；它是区域性的，即使是由特定神经损伤引起的，就像 CRPS 类型 II 中发生的那样。环境变化或情绪压力可能会使病情恶化。通常存在异常疼痛和/或痛觉过敏，表明中枢致敏。疼痛往往导致患肢运动受限。
+可表现为皮肤血管舒缩变化（例如，红色，斑点状，或铁青色；升高或降低温度）和排汗异常（干燥或多汗皮肤）。局限性水肿也可能存在。
+其他症状包括营养异常（如，有光泽或萎缩的皮肤，开裂或生长过剩的指甲；骨萎缩；脱发）和运动障碍（虚弱，震颤，痉挛，伴手指屈曲位固定或马蹄内翻足的肌张力障碍）。患者的关节活动度常常受限，有时甚至可引起关节挛缩。这些症状可能影响到患肢切除术后患者的义肢安装。
+心理压力（如抑郁、焦虑、愤怒等）在这类患者中十分常见，而且常常因为病因不明、缺乏有效治疗、疾病迁延不愈而加剧。
+
+【复杂性区域疼痛综合征的诊断】
+病史和体格检查
+病史和体格检查
+当存在以下情况时，可诊断为复杂区域疼痛综合征 （1）：
+患者的持续疼痛超出了单个神经功能障碍所解释的范围，并且与任何原始组织损伤不成比例。
+患者的持续疼痛超出了单个神经功能障碍所解释的范围，并且与任何原始组织损伤不成比例。
+符合某些临床标准（布达佩斯标准）。
+符合某些临床标准（布达佩斯标准）。
+布达佩斯标准有四个类别。 根据标准，患者必须在以下4个类别中的3个类别中至少报告1个症状，且临床医生必须在相同的4个类别中的2个类别中至少发现1个体征（症状和体征有重叠）（1）。
+感觉：感觉过敏（作为标志，针刺）或异常性疼痛（作为标志，轻触、深部躯体压力和/或关节运动）
+感觉：感觉过敏（作为标志，针刺）或异常性疼痛（作为标志，轻触、深部躯体压力和/或关节运动）
+血管舒缩性：体温不对称（> 1°C为标志）或肤色变化不对称
+血管舒缩性：体温不对称（> 1°C为标志）或肤色变化不对称
+肌肉运动或浮肿：出汗变化，出汗不对称或水肿
+肌肉运动或浮肿：出汗变化，出汗不对称或水肿
+运动或营养：皮肤，头发或指甲的营养变化，运动范围减少或运动功能障碍（虚弱，震颤，肌张力障碍）
+运动或营养：皮肤，头发或指甲的营养变化，运动范围减少或运动功能障碍（虚弱，震颤，肌张力障碍）
+而且一定没有其他疾病可以解释上述症状如果合并其他可解释上述症状的疾病，则只能诊断CRPS可能。
+骨骼改变（例如X线片显示的骨矿物质减少、三相放射性核素骨扫描显示的摄取增加）可被检测到。除非诊断不明确，否则通常不进行影像学检查。然而，在影像学检查中，没有复杂性区域疼痛综合征的患者在创伤后也可能出现骨组织异常表现，这使得X线平片和骨扫描检测到的异常改变缺乏特异性。
+
+【诊断参考文献】
+1.Harden RN, Bruehl S, Stanton-Hicks M, Wilson PR.Proposed new diagnostic criteria for complex regional pain syndrome.Pain Med.8 (4):326–331, 2007.
+1.Harden RN, Bruehl S, Stanton-Hicks M, Wilson PR.Proposed new diagnostic criteria for complex regional pain syndrome.Pain Med.8 (4):326–331, 2007.
+
+【复杂性区域疼痛综合征的治疗】
+多模式治疗（如药物治疗、物理治疗、交感神经阻滞、心理治疗、神经调节及镜像治疗。）
+多模式治疗（如药物治疗、物理治疗、交感神经阻滞、心理治疗、神经调节及镜像治疗。）
+CRPS的治疗很复杂，通常不能完全缓解症状，特别是如果开始较晚。包括药物治疗、物理疗法、干预措施和心理治疗（1）。所有复杂局部疼痛综合征治疗的首要目标是增加患肢的活动性和使用能力。因此CRPS患者教育至关重要。 临床医生应该强调，虽然疼痛很可能源于神经和中枢机制，而不是组织损伤，但参与物理和作业治疗对于恢复肢体功能非常重要，即使持续疼痛带来挑战。
+药物治疗的目标是促进患者参与康复治疗。可以尝试用于神经性疼痛的许多药物，包括三环类抗抑郁药和抗癫痫药物；目前没有一种被认为更优。NSAIDs常被用作CRPS的初始治疗，尽管其有效性尚未得到充分研究；通常短期使用，并且可以与其他治疗方法联合使用。对于不能耐受非选择性NSAIDs的患者，选择性COX-2抑制剂可以作为替代。神经轴注射用药中，齐考诺肽和/或可乐定可能有助于缓解症状，鞘内注射巴克洛芬则可能减轻肌张力障碍。
+双膦酸盐可以考虑用于缓解早期CRPS的疼痛，特别是对于骨扫描异常的患者，尽管其确切的作用机制尚不清楚，并且可能与其抗骨吸收特性无关。几项小型随机试验表明，双膦酸盐（如阿仑膦酸盐、奈立膦酸盐和氯膦酸盐）可以减轻CRPS患者的疼痛（2），副作用通常较轻微，但需要考虑严重风险如下颌骨坏死和食管溃疡等。局部利多卡因或辣椒素乳膏可用于治疗轻中度症状的早期CRPS的神经病理性疼痛，但疗效证据有限，且局部副作用如灼烧感和刺激可能限制其使用。
+阿片类药物、降钙素和口服糖皮质激素的疗效证据通常较弱。降钙素的不良反应风险可能低于糖皮质激素。
+物理治疗的目标包括脱敏、强化、增加运动范围和职业康复。对某些由自主神经异常引起的疼痛患者，局部自主神经阻滞能有效缓解疼痛；这样这类患者可进一步行物理治疗。
+异常疼痛肢体的脱敏包括首先施加相对无刺激性的刺激（如丝绸），然后随着时间的推移，增加到更刺激的刺激（例如牛仔布）。脱敏还包括热对比浴，即将患肢置于冷水浴中，然后置于温水浴中。
+镜像疗法已被报道对由于幻肢疼痛或脑卒中导致的CRPS I型患者有效。患者坐在一面大镜子前，使镜子正对健侧肢体，并遮挡患侧（疼痛或缺失的）肢体，从而产生“双侧肢体正常”的视觉错觉。 指导患者在观察镜子中反射的图像时移动正常肢体。 这项运动欺骗大脑，让它以为受影响或缺失的肢体在活动没有疼痛。大多数每天练习30分钟的患者4周后疼痛大幅减轻(3)。
+CRPS的其他干预措施包括交感神经阻滞、神经调控及触发点注射，但支持证据有限且质量较低（4）。使用局部麻醉剂（可联用或不联用糖皮质激素）进行触发点注射有时对早期CRPS有效，特别是肩部区域，并且被认为比侵入性治疗更安全。交感神经阻滞用于标准治疗无反应的患者，需在交感神经节附近浸润麻醉，但其疗效证据相互矛盾。
+对于神经调控，通常使用植入式脊髓刺激器；对于严重的功能损害患者，应尽早考虑。刺激背根神经节可能改善局部症状。外周神经刺激在CRPS治疗中的应用日益增多，效果良好（5）。
+经皮神经电刺激(TENS)，其在多个位置应用不同的刺激参数，可能会有效。然而，经皮神经电刺激需长期试验才能确定其有效性。使用体表电极刺激神经的Scrambler疗法，是另一种选择。然而其治疗CRPS的疗效证据有限，更多用于治疗神经病理性疼痛（5）。
+针灸可能有助于缓解疼痛。
+在复杂区域疼痛综合征患者中，心理治疗可用于治疗抑郁和焦虑；它还可以帮助患者成功地改善功能和控制生活，尽管患有慢性疼痛障碍。
+
+【治疗参考文献】
+1.Harden RN, Bruehl S, Stanton-Hicks M, Wilson PR.Proposed new diagnostic criteria for complex regional pain syndrome.Pain Med.8 (4):326–331, 2007.
+1.Harden RN, Bruehl S, Stanton-Hicks M, Wilson PR.Proposed new diagnostic criteria for complex regional pain syndrome.Pain Med.8 (4):326–331, 2007.
+2.Chevreau M, Romand X, Gaudin P, Juvin R, Baillet A.Bisphosphonates for treatment of Complex Regional Pain Syndrome type 1: A systematic literature review and meta-analysis of randomized controlled trials versus placebo.Joint Bone Spine.2017;84(4):393-399.doi:10.1016/j.jbspin.2017.03.009
+2.Chevreau M, Romand X, Gaudin P, Juvin R, Baillet A.Bisphosphonates for treatment of Complex Regional Pain Syndrome type 1: A systematic literature review and meta-analysis of randomized controlled trials versus placebo.Joint Bone Spine.2017;84(4):393-399.doi:10.1016/j.jbspin.2017.03.009
+3.Pervane Vural S, Nakipoglu Yuzer GF, Sezgin Ozcan D, Demir Ozbudak S, Ozgirgin N.Effects of Mirror Therapy in Stroke Patients With Complex Regional Pain Syndrome Type 1: A Randomized Controlled Study.Arch Phys Med Rehabil.2016;97(4):575-581.doi:10.1016/j.apmr.2015.12.008
+3.Pervane Vural S, Nakipoglu Yuzer GF, Sezgin Ozcan D, Demir Ozbudak S, Ozgirgin N.Effects of Mirror Therapy in Stroke Patients With Complex Regional Pain Syndrome Type 1: A Randomized Controlled Study.Arch Phys Med Rehabil.2016;97(4):575-581.doi:10.1016/j.apmr.2015.12.008
+4.Ferraro MC, O'Connell NE, Sommer C, et al.Complex regional pain syndrome: advances in epidemiology, pathophysiology, diagnosis, and treatment.Lancet Neurol.2024;23(5):522-533.doi:10.1016/S1474-4422(24)00076-0
+4.Ferraro MC, O'Connell NE, Sommer C, et al.Complex regional pain syndrome: advances in epidemiology, pathophysiology, diagnosis, and treatment.Lancet Neurol.2024;23(5):522-533.doi:10.1016/S1474-4422(24)00076-0
+5.Chmiela MA, Hendrickson M, Hale J, et al.Direct Peripheral Nerve Stimulation for the Treatment of Complex Regional Pain Syndrome: A 30-Year Review. Neuromodulation.2021;24(6):971-982.doi:10.1111/ner.13295
+5.Chmiela MA, Hendrickson M, Hale J, et al.Direct Peripheral Nerve Stimulation for the Treatment of Complex Regional Pain Syndrome: A 30-Year Review. Neuromodulation.2021;24(6):971-982.doi:10.1111/ner.13295
+
+【复杂性区域疼痛综合症的预后】
+各个患者的预后不同而且很难预测。CRPS可以在几年内缓解或保持稳定；但在有些病人中，症状可以持续发展，迁移至身体的其他部位。
+
+【复杂性区域疼痛综合征的预防】
+维生素C被建议作为CRPS的低风险预防措施，特别是有桡骨远端骨折的老年患者。其潜在的抗氧化作用可能有助于骨折愈合和减少软组织损伤，但支持此说法的证据并不一致（1、2）。早期活动与物理治疗被发现对预防疑似早期CRPS病例进展具有重要作用（2）。
+
+【预防参考文献】
+1.Aïm F, Klouche S, Frison A, Bauer T, Hardy P.Efficacy of vitamin C in preventing complex regional pain syndrome after wrist fracture: A systematic review and meta-analysis.Orthop Traumatol Surg Res.2017;103(3):465-470.doi:10.1016/j.otsr.2016.12.021
+1.Aïm F, Klouche S, Frison A, Bauer T, Hardy P.Efficacy of vitamin C in preventing complex regional pain syndrome after wrist fracture: A systematic review and meta-analysis.Orthop Traumatol Surg Res.2017;103(3):465-470.doi:10.1016/j.otsr.2016.12.021
+2.Evaniew N, McCarthy C, Kleinlugtenbelt YV, Ghert M, Bhandari M.Vitamin C to Prevent Complex Regional Pain Syndrome in Patients With Distal Radius Fractures: A Meta-Analysis of Randomized Controlled Trials.J Orthop Trauma.2015;29(8):e235-e241.doi:10.1097/BOT.0000000000000305
+2.Evaniew N, McCarthy C, Kleinlugtenbelt YV, Ghert M, Bhandari M.Vitamin C to Prevent Complex Regional Pain Syndrome in Patients With Distal Radius Fractures: A Meta-Analysis of Randomized Controlled Trials.J Orthop Trauma.2015;29(8):e235-e241.doi:10.1097/BOT.0000000000000305
+CRPS可以在损伤（到软组织，骨，或神经）、截肢、急性心肌梗死、中风或癌症后发生或没有明显的沉淀。
+CRPS可以在损伤（到软组织，骨，或神经）、截肢、急性心肌梗死、中风或癌症后发生或没有明显的沉淀。
+如果患者的神经性疼痛，异常性疼痛或痛觉过敏和局灶性植物神经失调不能其他原因解释，则可诊断CRPS。
+如果患者的神经性疼痛，异常性疼痛或痛觉过敏和局灶性植物神经失调不能其他原因解释，则可诊断CRPS。
+预后是无法预测的，且治疗效果往往不尽人意。
+预后是无法预测的，且治疗效果往往不尽人意。
+尽早进行多模式治疗（如药物治疗、物理治疗、交感神经阻滞、心理治疗、神经调节、镜像治疗）。
+尽早进行多模式治疗（如药物治疗、物理治疗、交感神经阻滞、心理治疗、神经调节、镜像治疗）。

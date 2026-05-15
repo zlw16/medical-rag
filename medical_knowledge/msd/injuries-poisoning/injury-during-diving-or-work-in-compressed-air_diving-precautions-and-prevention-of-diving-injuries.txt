@@ -1,0 +1,71 @@
+标题：潜水注意事项和潜水损伤预防措施
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/injury-during-diving-or-work-in-compressed-air/diving-precautions-and-prevention-of-diving-injuries
+============================================================
+
+对于事先已接受潜水训练和安全教育的健康人来说，潜水是一项相对安全的娱乐活动。可在国家潜水组织提供的潜水训练中接受安全教育。
+
+【安全须知】
+通过积极平衡各个气腔压力可减少气压伤发生率，包括面罩（通过从鼻腔将气体吹入面罩）和中耳（通过打哈欠、吞咽、或Valsalva 方法）。潜水者在上升时应避免屏气，并正常呼吸，上升速度应不超过0.15～0.3m/s（0.5～1英尺/秒），该速度可以使氮气缓慢释放，同时使充气腔隙（如肺和窦腔）中的气体逐渐排空。潜水员应按照已公布指南中的规定进行减压停留（例如美国海军潜水手册中《减压病和动脉气体栓塞的诊断与治疗》一章中的减压表）。目前推荐在3 ~ 4米（10 ~ 15英尺）深处安全停留3～5min，使气道进一步平衡。同样，潜水员在一次不间断潜水后12个小时内不得飞行，或者在多次潜水、在需要减压的潜水后18-24小时内不得飞行。
+潜水者应当熟知且避免一些潜水问题，包括以下内容：
+能见度差
+能见度差
+需要过度用力的水流
+需要过度用力的水流
+单独潜水
+单独潜水
+使用非法药物、镇静剂或酒精后
+使用非法药物、镇静剂或酒精后
+低温是一个特别的危险因素，因为体温过低可能会迅速发生，并影响判断力和灵活性，或在易感人群中诱发致命的心律失常。不建议在没有同伴陪同的情况下潜水。
+任何剂量的非法或镇静药物及酒精都可能产生不可预测或意外的影响，应严格避免。此外，处方药很少对潜水活动有影响，但如果患者正在接受治疗的疾病是潜水的禁忌证，那不应潜水。
+
+【潜水禁忌证】
+由于潜水可能涉及剧烈运动，潜水员不应存在有功能意义的心血管或肺部疾病，并应具备与所进行的潜水类型相适应的有氧能力。如疾病影响了意识、警觉或判断者，应禁止潜水。如对某些特殊疾病是否禁忌潜水，应咨询专家。具体的潜水禁忌证，见表潜水的特殊医疗禁忌证。
+
+【具体的潜水禁忌证】
+具体的潜水禁忌证
+特殊举例或不良反应
+活动性哮喘
+支气管扩张
+慢性阻塞性肺病（COPD）
+囊性纤维化
+有自发性气胸病史
+间质性肺病
+肺囊肿或大泡
+马方综合征
+慢性高碳酸血症
+心血管疾病
+心力衰竭
+有显著室性心律失常病史
+血液动力学显著的心内分流或任何从右到左的分流（例如,房间隔缺损,法洛四联症)
+未经治疗的冠心病
+心理疾病
+惊恐或恐惧症
+结构异常
+未修补的疝（相对禁忌证）
+神经性疾病
+反复发作性晕厥
+代谢性疾病
+极度肥胖
+正接受胰岛素治疗的1型或2型糖尿病（相对禁忌证）
+耳、鼻和喉疾病
+未经治疗的过敏性鼻炎
+鼓膜穿孔
+上呼吸道感染
+可能由减压病引起的先天畸形和胎儿损伤风险
+习惯性吞咽气体
+由于在深处吞咽加压气体导致上升时消化道过度膨胀
+运动耐力差
+不利潜水条件下生理反应不足
+严重胃食道返流
+下潜时由于腹部重力作用消失而加重
+年龄<10岁的儿童
+对安全潜水所需的物理和生理知识理解不充分
+Wendling J, vanden Eede R, Elliott D, et al.Medical Assessment for Work Under Pressure: Fitness to Dive Standards.Biel-Bienne, Switzerland: International Marine Contractors Association; 2024.
+Wendling J, vanden Eede R, Elliott D, et al.Medical Assessment for Work Under Pressure: Fitness to Dive Standards.Biel-Bienne, Switzerland: International Marine Contractors Association; 2024.
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Divers Alert Network: 24-hour emergency hotline, 919-684-9111
+Divers Alert Network: 24-hour emergency hotline, 919-684-9111
+Duke Dive Medicine: Physician-to-physician consultation, 919-684-8111
+Duke Dive Medicine: Physician-to-physician consultation, 919-684-8111

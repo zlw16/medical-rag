@@ -1,0 +1,41 @@
+标题：肛门闭锁
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-gastrointestinal-anomalies/anal-atresia
+============================================================
+
+(参见先天性胃肠道畸形概述。)
+肛门闭锁的发病率约为每3000至5000个活产婴儿中 出现1例（1-3）。这种异常通常与其他先天性异常（一半或更多的病例）有关，例如 VACTERL（脊椎异常，肛门闭锁，心脏畸形，气管食管瘘，食管闭锁，肾脏异常和桡骨发育不全，以及肢体异常）（2，3）。
+在单纯性肛门闭锁病例中，肛管盲端止于肛膜处，后者形成于肛管的内胚层与外胚层部分之间的隔膜。在更严重的情况下，由于肛门窝发育失败或直肠壶腹部分闭锁（直肠闭锁），在直肠末端和表面之间可能会发现一层厚厚的结缔组织 (2)。
+在高位（提肛肌上）病变中（闭锁结束于盆底肛提肌上方），瘘管通常从肛门袋延伸至男性的会阴或尿道，以及女性的阴道、阴唇系带或罕见于膀胱。皮肤瘘通常见于低位（提肛肌下）病变。
+肛门闭锁是肛门直肠畸形的一部分，后者还包括肛门或直肠狭窄、肛门前移、瘘管和泄殖腔。
+
+【参考文献】
+1.Ford K, Peppa M, Zylbersztejn A, Curry JI, Gilbert R.Birth prevalence of anorectal malformations in England and 5-year survival: a national birth cohort study.Arch Dis Child.2022;107(8):758-766.doi:10.1136/archdischild-2021-323474
+1.Ford K, Peppa M, Zylbersztejn A, Curry JI, Gilbert R.Birth prevalence of anorectal malformations in England and 5-year survival: a national birth cohort study.Arch Dis Child.2022;107(8):758-766.doi:10.1136/archdischild-2021-323474
+2.de Blaauw I, Stenström P, Yamataka A, et al.Anorectal malformations.Nat Rev Dis Primers.2024;10(1):88.Published 2024 Nov 21.doi:10.1038/s41572-024-00574-2
+2.de Blaauw I, Stenström P, Yamataka A, et al.Anorectal malformations.Nat Rev Dis Primers.2024;10(1):88.Published 2024 Nov 21.doi:10.1038/s41572-024-00574-2
+3.Ambartsumyan L.Medical management of anorectal malformations.Aliment Pharmacol Ther.2024;60 Suppl 1:S77-S84.doi:10.1111/apt.17897
+3.Ambartsumyan L.Medical management of anorectal malformations.Aliment Pharmacol Ther.2024;60 Suppl 1:S77-S84.doi:10.1111/apt.17897
+
+【肛门闭锁的诊断】
+体格检查
+体格检查
+产前超声诊断肛门直肠畸形（包括肛门闭锁）是可能的，但不常见（1）。
+肛门闭锁在新生儿全面体格检查中应易于被观察到，因其肛门开口并未贯通。如果遗漏肛门闭锁的诊断而进食，可导致低位肠梗阻表现。
+应检查尿液中是否有胎粪，这表明存在尿路瘘。腹部平片和侧位瘘管造影片能显示病变水平的高低。超声还有助于对病变类型进行分类和评估任何其他相关异常。一种皮肤瘘通常意味着低位闭锁。如不存在会阴瘘，可能是高位病变。
+
+【诊断参考文献】
+1.de Blaauw I, Stenström P, Yamataka A, et al.Anorectal malformations.Nat Rev Dis Primers.2024;10(1):88.Published 2024 Nov 21.doi:10.1038/s41572-024-00574-2
+1.de Blaauw I, Stenström P, Yamataka A, et al.Anorectal malformations.Nat Rev Dis Primers.2024;10(1):88.Published 2024 Nov 21.doi:10.1038/s41572-024-00574-2
+
+【肛门闭锁的治疗】
+初次会阴修复或临时结肠造口术，然后进行延期修复
+初次会阴修复或临时结肠造口术，然后进行延期修复
+手术前，肛门闭锁的新生儿应针对其他先天性异常进行评估。
+决定进行会阴初次修复还是进行临时结肠造口后延期修复取决于婴儿的性别、瘘管的存在和位置、直肠袋的位置（高或低病变）、会阴结构的发展以及外科医生的经验。对于存在皮肤瘘管且病变位置较低的新生儿，可行会阴部一期修复术。几种畸形可以通过一步手术进行修复（1）。
+术后长期护理的重点是控制便秘和失禁。护理可以包括关注排便训练、药物（例如，大便软化剂、泻药、纤维补充剂）和灌肠技术（2）。
+
+【治疗参考文献】
+1.Hartford L, Brisighelli G, Gabler T, et al.Single-stage procedures for anorectal malformations: A systematic review and meta-analysis.J Pediatr Surg.2022;57(9):75-84.doi:10.1016/j.jpedsurg.2021.12.024
+1.Hartford L, Brisighelli G, Gabler T, et al.Single-stage procedures for anorectal malformations: A systematic review and meta-analysis.J Pediatr Surg.2022;57(9):75-84.doi:10.1016/j.jpedsurg.2021.12.024
+2.Ambartsumyan L.Medical management of anorectal malformations.Aliment Pharmacol Ther.2024;60 Suppl 1:S77-S84.doi:10.1111/apt.17897
+2.Ambartsumyan L.Medical management of anorectal malformations.Aliment Pharmacol Ther.2024;60 Suppl 1:S77-S84.doi:10.1111/apt.17897

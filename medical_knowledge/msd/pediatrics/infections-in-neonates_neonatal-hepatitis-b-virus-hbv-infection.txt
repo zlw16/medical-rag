@@ -1,0 +1,76 @@
+标题：新生儿乙型肝炎病毒(HBV)感染
+来源：https://www.msdmanuals.cn/professional/pediatrics/infections-in-neonates/neonatal-hepatitis-b-virus-hbv-infection
+============================================================
+
+(参见成人急性病毒性肝炎概述和新生儿感染概述。)
+乙型肝炎病毒（HBV）是唯一已知可引起新生儿肝炎的病毒性肝炎类型。新生儿感染其他病毒（例如，巨细胞病毒，单纯疱疹病毒）可能引起肝脏炎症以及其他临床表现。
+
+【新生儿HBV感染的病因】
+新生儿乙型肝炎病毒感染源于受感染母亲分娩时。如果女性在分娩时乙型肝炎表面抗原（HBsAg）和乙型肝炎e抗原（HBeAg——见血清学）呈阳性，母婴传播的风险为70%到90%。没有e抗原的妇女传播感染的几率仅为5至20%（1） 。
+母婴HBV传播主要通过分娩时的母胎微量输血或新生儿接触感染的阴道分泌物，胎盘传播较少见。在<2％的感染病例中鉴定到胎盘传播。产后传播很少通过接触具有传染性的母体血液、唾液、粪便、尿液或母乳发生。高达90％的围产期感染的婴儿会发展成慢性感染，而围产期获得性HBV感染可能是某些社区的重要病毒库 (1)。
+
+【病因参考文献】
+1.Wong F, Pai R, Van Schalkwyk J, Yoshida EM.Hepatitis B in pregnancy: a concise review of neonatal vertical transmission and antiviral prophylaxis.Ann Hepatol.2014;13(2):187-195.
+1.Wong F, Pai R, Van Schalkwyk J, Yoshida EM.Hepatitis B in pregnancy: a concise review of neonatal vertical transmission and antiviral prophylaxis.Ann Hepatol.2014;13(2):187-195.
+
+【新生儿HBV感染的症状和体征】
+大多数被乙型肝炎病毒感染的新生儿无症状，但发展为慢性亚临床型感染，表现为持续性乙肝表面抗原（HBsAg）血症和不同程度的转氨酶升高。无论是否受到乙型肝炎病毒的感染，许多妊娠期患急性乙型肝炎母亲所生的新生儿为低出生体重儿。
+受感染的新生儿很少发生急性、有症状的乙型肝炎，通常是轻度和自限性的。他们会出现黄疸、嗜睡、体重和生长迟缓、腹胀及陶土色大便。
+在少数情况下，感染症状较为严重，可表现为肝肿大、腹水及结合型高胆红素血症。
+暴发型肝炎和危及生命者罕见。暴发型肝炎更多见于慢性带病毒母亲的新生儿。
+
+【新生儿HBV感染的诊断】
+血清学检测
+血清学检测
+实验室检查（HBsAg、HBeAg、e抗体、HBV DNA定量、含血小板的全血细胞计数、肝功能检测）
+实验室检查（HBsAg、HBeAg、e抗体、HBV DNA定量、含血小板的全血细胞计数、肝功能检测）
+肝脏超声
+肝脏超声
+新生儿乙肝病毒感染的诊断是血清学检测包括测定HBsAg，HBeAg，乙型肝炎抗原抗体（抗HBe）和血液中HBV DNA的定量。其他初步检查包括全血细胞计数（CBC）和血小板、丙氨酸氨基转移酶（ALT）和甲胎蛋白水平测定，以及肝脏超声检查。
+由于肝细胞癌的长期风险，注意到肝癌或肝病的家族史。如果测试表明HBV感染，建议咨询儿科肝病学家。
+
+【新生儿HBV感染的治疗】
+支持性治疗
+支持性治疗
+有时使用核苷类药物（需咨询儿科肝病专家）
+有时使用核苷类药物（需咨询儿科肝病专家）
+对急性乙型肝炎新生儿应给予对症治疗和适当的营养。皮质类固醇和乙型肝炎免疫球蛋白（HBIG）都不能有助于急性感染。一旦获得感染，任何治疗都不会降低发生慢性亚临床肝炎的可能性。
+所有慢性HBV感染的儿童应接种甲型肝炎疫苗。
+患有慢性HBV感染的儿童可能受益于核苷或核苷酸类似物，但这些药物应仅在与儿科肝病专家协商后使用。
+极少数情况下，重症患儿可能需要肝移植。
+
+【新生儿HBV感染的预后】
+长期预后不可预测。然而，生命早期的慢性HBV感染确实增加了随后肝脏疾病（包括慢性肝炎、肝硬化、终末期肝病和肝细胞癌）的风险。
+
+【预防新生儿HBV感染】
+孕妇应在早期产前检查时检测HBsAg。若此时未进行检测，则应在入院待产时完成相关检测。一些HBsAg阳性女性在第三妊娠期接受抗病毒治疗（替诺福韦酯或替诺福韦艾拉酚胺），这可能预防HBV的围产期传播(1)。
+母亲已知HBsAg阳性或有其他HBV感染证据（如存在HBV DNA、HBeAg阳性或已知慢性HBV感染）的新生儿应在出生12小时内接受：1剂肌注乙肝免疫球蛋白（HBIG）及首剂肌注重组HBV疫苗（HBIG与首剂疫苗需同时接种但注射部位不同）（2）。HBV疫苗接种系列随后完成，第2剂在第1至2个月时接种，第3剂在第1剂后6至18个月接种。若婴儿体重<2 kg，首剂疫苗的效果可能降低，因此应按照制造商的指南在出生1-2个月后额外接种3剂疫苗。
+建议对所有HBsAg阳性母亲所生婴儿在9至12个月（或完成接种后1至2个月）检测HBsAg和抗HBs（3）。
+母亲 HBsAg 状态不明的新生儿分娩时也应在出生后 12 小时内接种第一剂疫苗。对于<2kg的婴儿，在不同部位与HBIG 同时给予第一剂。对于≥2公斤的婴儿，其母亲可以测试HBsAg，并确保其随访，HBIG可延迟多达7天，如果母亲HBsAg检测呈阳性则给予。
+已知母亲为HBsAg阴性的新生儿如果身体状况稳定且体重≥2 kg，则应在出生后24小时内接种第一剂HBV疫苗。对于体重 < 2 公斤的婴儿，应在 1 月龄时或出院前接种 1 剂疫苗（4）。
+（参见美国疾病控制与预防中心关于乙型肝炎疫苗接种的说明。）
+并不提倡将新生儿与其HBsAg阳性的母亲隔离，母乳喂养并不明显增加生后乙型肝炎病毒传播的危险性，特别在给予乙型肝炎免疫球蛋白和乙型肝炎病毒疫苗后 (1)。若母乳喂养者乳头出血，受影响一侧乳房乳汁应被废弃，同时继续用未受影响的乳房哺乳或泵奶，直至出血乳头愈合以避免新生儿直接接触血液（5）。
+
+【预防参考文献】
+1.Viral Hepatitis in Pregnancy: ACOG Clinical Practice Guideline No. 6.Obstet Gynecol.2023;142(3):745-759.doi:10.1097/AOG.0000000000005300
+1.Viral Hepatitis in Pregnancy: ACOG Clinical Practice Guideline No. 6.Obstet Gynecol.2023;142(3):745-759.doi:10.1097/AOG.0000000000005300
+2.Schillie S, Vellozzi C, Reingold A, et al.Prevention of Hepatitis B Virus Infection in the United States: Recommendations of the Advisory Committee on Immunization Practices.MMWR Recomm Rep.2018;67(1):1-31.Published 2018 Jan 12.doi:10.15585/mmwr.rr6701a1
+2.Schillie S, Vellozzi C, Reingold A, et al.Prevention of Hepatitis B Virus Infection in the United States: Recommendations of the Advisory Committee on Immunization Practices.MMWR Recomm Rep.2018;67(1):1-31.Published 2018 Jan 12.doi:10.15585/mmwr.rr6701a1
+3.Centers for Disease Control and Prevention (CDC): Clinical Guidance for Perinatal Hepatitis B Testing.Screening and testing guidelines: Infants and children.Accessed January 27, 2025.
+3.Centers for Disease Control and Prevention (CDC): Clinical Guidance for Perinatal Hepatitis B Testing.Screening and testing guidelines: Infants and children.Accessed January 27, 2025.
+4.COMMITTEE ON INFECTIOUS DISEASES; COMMITTEE ON FETUS AND NEWBORN.Elimination of Perinatal Hepatitis B: Providing the First Vaccine Dose Within 24 Hours of Birth.Pediatrics.2017;140(3):e20171870.doi:10.1542/peds.2017-1870
+4.COMMITTEE ON INFECTIOUS DISEASES; COMMITTEE ON FETUS AND NEWBORN.Elimination of Perinatal Hepatitis B: Providing the First Vaccine Dose Within 24 Hours of Birth.Pediatrics.2017;140(3):e20171870.doi:10.1542/peds.2017-1870
+5.Society for Maternal-Fetal Medicine (SMFM).Electronic address: pubs@smfm.org, Badell ML, Prabhu M, et al.Society for Maternal-Fetal Medicine Consult Series #69: Hepatitis B in pregnancy: updated guidelines.Am J Obstet Gynecol.2024;230(4):B2-B11.doi:10.1016/j.ajog.2023.12.023
+5.Society for Maternal-Fetal Medicine (SMFM).Electronic address: pubs@smfm.org, Badell ML, Prabhu M, et al.Society for Maternal-Fetal Medicine Consult Series #69: Hepatitis B in pregnancy: updated guidelines.Am J Obstet Gynecol.2024;230(4):B2-B11.doi:10.1016/j.ajog.2023.12.023
+乙型肝炎病毒（HBV）是病毒性新生儿肝炎的唯一已知原因；它通常在分娩期间被传染。
+乙型肝炎病毒（HBV）是病毒性新生儿肝炎的唯一已知原因；它通常在分娩期间被传染。
+大多数新生儿无症状，但发展成慢性亚临床HBsAg抗原血症和转氨酶水平升高。
+大多数新生儿无症状，但发展成慢性亚临床HBsAg抗原血症和转氨酶水平升高。
+有些婴儿发展为轻度肝炎，少数患有暴发性肝病。
+有些婴儿发展为轻度肝炎，少数患有暴发性肝病。
+做婴儿和母亲的血清学检测。
+做婴儿和母亲的血清学检测。
+HBV感染儿童应接种甲型肝炎疫苗；抗HBV药物（如干扰素α）可能有益，但应仅在儿科肝病专家指导下使用。
+HBV感染儿童应接种甲型肝炎疫苗；抗HBV药物（如干扰素α）可能有益，但应仅在儿科肝病专家指导下使用。
+母亲HBsAg阳性的新生儿应在出生后12小时内肌注1剂HBIG及同时接种首剂HBV疫苗。
+母亲HBsAg阳性的新生儿应在出生后12小时内肌注1剂HBIG及同时接种首剂HBV疫苗。

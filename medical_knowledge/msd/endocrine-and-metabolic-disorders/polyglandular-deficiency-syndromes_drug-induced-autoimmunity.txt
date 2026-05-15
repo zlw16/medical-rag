@@ -1,0 +1,13 @@
+标题：药物诱发的自身免疫
+来源：https://www.msdmanuals.cn/professional/endocrine-and-metabolic-disorders/polyglandular-deficiency-syndromes/drug-induced-autoimmunity
+============================================================
+
+接受被称为免疫检查点抑制剂的新型抗癌药物治疗的患者, 发生自身免疫性疾病包括内分泌失调的风险增加。垂体炎，自身免疫性甲状腺疾病（甲状腺功能亢进和甲状腺功能减退），1型糖尿病, 和原发性肾上腺皮质功能减退症已有报道（1,2)。
+诊断是通过测量作为临床指示的葡萄糖，电解质和激素水平。
+治疗使用已证实缺乏的激素替代疗法。这些激素可能包括甲状腺激素,胰岛素, 或糖皮质激素。
+
+【参考文献】
+1.Chang L-S, Barroso-Sousa R, Tolaney SM, et al: Endocrine toxicity of cancer immunotherapy targeting immune checkpoints.Endocr Rev40(1):17–65, 2019.doi: 10.1210/er.2018-00006
+1.Chang L-S, Barroso-Sousa R, Tolaney SM, et al: Endocrine toxicity of cancer immunotherapy targeting immune checkpoints.Endocr Rev40(1):17–65, 2019.doi: 10.1210/er.2018-00006
+2.Elia G, Ferrari SM, Galdiero MR, et al: New insight in endocrine-related adverse events associated to immune checkpoint blockade.Best Pract Res Clin Endocrinol Metab34(1):101370, 2020.doi:10.1016/j.beem.2019.101370
+2.Elia G, Ferrari SM, Galdiero MR, et al: New insight in endocrine-related adverse events associated to immune checkpoint blockade.Best Pract Res Clin Endocrinol Metab34(1):101370, 2020.doi:10.1016/j.beem.2019.101370

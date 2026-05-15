@@ -1,0 +1,49 @@
+标题：高IgD综合征
+来源：https://www.msdmanuals.cn/professional/pediatrics/hereditary-periodic-fever-syndromes/hyper-igd-syndrome
+============================================================
+
+高免疫球蛋白D综合征的病因包括：
+MVK基因发生突变，该基因编码甲羟戊酸激酶，这是一种对胆固醇合成至关重要的酶（1，2）。
+MVK基因发生突变，该基因编码甲羟戊酸激酶，这是一种对胆固醇合成至关重要的酶（1，2）。
+抗炎异戊烯酰化蛋白合成的减少可能引发先天免疫反应失调和促炎细胞因子的过度产生，特别是白细胞介素(IL)-1 β，以及IL-6和肿瘤坏死因子（TNF）。
+高 IgD 综合征多见于具有荷兰、法国及其他北欧血统的儿童。
+
+【参考文献】
+1.Touitou I.Twists and turns of the genetic story of mevalonate kinase-associated diseases: A review.Genes Dis.2021;9(4):1000-1007.doi:10.1016/j.gendis.2021.05.002
+1.Touitou I.Twists and turns of the genetic story of mevalonate kinase-associated diseases: A review.Genes Dis.2021;9(4):1000-1007.doi:10.1016/j.gendis.2021.05.002
+2.Drenth JP, Cuisset L, Grateau G, et al.Mutations in the gene encoding mevalonate kinase cause hyper-IgD and periodic fever syndrome.International Hyper-IgD Study Group.Nat Genet.1999;22(2):178-181.doi:10.1038/9696
+2.Drenth JP, Cuisset L, Grateau G, et al.Mutations in the gene encoding mevalonate kinase cause hyper-IgD and periodic fever syndrome.International Hyper-IgD Study Group.Nat Genet.1999;22(2):178-181.doi:10.1038/9696
+
+【高 IgD 综合征的症状和体征】
+除了寒战、发热，高IgD综合征还包括：腹痛、呕吐、腹泻、头痛和关节痛。
+高IgD综合征的体征包括颈部淋巴结肿大、脾肿大、关节炎、皮肤损害（斑丘疹、淤点和瘀斑）和口-生殖器阿弗他溃疡。
+
+【高IgD综合征的诊断】
+病史和体格检查
+病史和体格检查
+血清IgD水平
+血清IgD水平
+有时需进行基因检测
+有时需进行基因检测
+高IgD综合征的诊断根据病史、体格检查和血清IgD水平>100U/L；然而，高达20%的患者血清IgD水平正常 (1)。非特异性异常包括发热期间白细胞增多和急性期反应物升高；发作时尿甲羟戊酸升高有助于确诊。
+可进行基因检测，但约 25% 的患者检测结果为阴性（2）。
+
+【诊断参考】
+1.Gattorno M, Hofer M, Federici S, et al.Classification criteria for autoinflammatory recurrent fevers.Ann Rheum Dis.2019;78(8):1025–1032.doi:10.1136/annrheumdis-2019-215048
+1.Gattorno M, Hofer M, Federici S, et al.Classification criteria for autoinflammatory recurrent fevers.Ann Rheum Dis.2019;78(8):1025–1032.doi:10.1136/annrheumdis-2019-215048
+2.Simon A, Cuisset L, Vincent MF, et al.Molecular analysis of the mevalonate kinase gene in a cohort of patients with the hyper-igd and periodic fever syndrome: its application as a diagnostic tool.Ann Intern Med.2001;135(5):338-343.doi:10.7326/0003-4819-135-5-200109040-00010
+2.Simon A, Cuisset L, Vincent MF, et al.Molecular analysis of the mevalonate kinase gene in a cohort of patients with the hyper-igd and periodic fever syndrome: its application as a diagnostic tool.Ann Intern Med.2001;135(5):338-343.doi:10.7326/0003-4819-135-5-200109040-00010
+
+【高IgD综合征的治疗】
+为预防发作，可使用卡那单抗或阿那白滞素。
+为预防发作，可使用卡那单抗或阿那白滞素。
+针对症状治疗，可采用非甾体抗炎药（NSAIDs）、糖皮质激素以及阿那白滞素。
+针对症状治疗，可采用非甾体抗炎药（NSAIDs）、糖皮质激素以及阿那白滞素。
+每4周注射一次卡那单抗被认为是一线治疗，已被证明可以预防发作(1)。阿那白滞素是一种替代方案，但需要每日给药。尽管到青春期后发作的频率减少，但反复发热仍可持续终生。
+非甾体类抗炎药和糖皮质激素治疗有助于缓解发作期的症状。用阿那白滞素按需治疗症状也已成功使用（2）。
+
+【治疗参考文献】
+1.De Benedetti F, Gattorno M, Anton J, et al:Canakinumabfor the treatment of autoinflammatory recurrent fever syndromes.N Engl J Med378(20):1908–1919, 2018.doi: 10.1056/NEJMoa1706314
+1.De Benedetti F, Gattorno M, Anton J, et al:Canakinumabfor the treatment of autoinflammatory recurrent fever syndromes.N Engl J Med378(20):1908–1919, 2018.doi: 10.1056/NEJMoa1706314
+2.Ashari KA, Hausmann JS, Dedeoglu F: Update on autoinflammatory diseases.Curr Opin Rheumatol35(5):285-292, 2023.doi: 10.1097/BOR.0000000000000953
+2.Ashari KA, Hausmann JS, Dedeoglu F: Update on autoinflammatory diseases.Curr Opin Rheumatol35(5):285-292, 2023.doi: 10.1097/BOR.0000000000000953

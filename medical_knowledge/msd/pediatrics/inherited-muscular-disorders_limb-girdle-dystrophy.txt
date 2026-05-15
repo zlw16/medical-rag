@@ -1,0 +1,44 @@
+标题：肢带型肌营养不良
+来源：https://www.msdmanuals.cn/professional/pediatrics/inherited-muscular-disorders/limb-girdle-dystrophy
+============================================================
+
+肌营养不良是由于正常肌肉的结构和功能所需的一个或几个基因功能缺陷造成的遗传性进行性的肌肉疾病;活检标本可见营养不良性改变（如肌纤维坏死和再生）。
+作为一个群体，肢带营养不良是第四大最常见的遗传性肌肉疾病。总体患病率因具体亚型和研究人群而异，估计范围为每 100,000 人中 2 至 10 人（1）。男性和女性受到同等影响。
+来自分子生物学的见解重新定义了这些疾病的分类方式，并且命名法正在转变 (2)。常染色体显性型分为肢带型肌营养不良症（LGMD）1A、-1B、-1C等，隐性型分为LGMD 2A、-2B、-2C等。然而，在 2016 年使用字母 Z 命名 LGMD 的隐性形式之后，没有留下任何字母来命名下一个要被发现的形式。此后，命名法将以字母 D 开头，表示显性，R 表示隐性，后跟一个数字，表示描绘基因座的顺序，然后是疾病的蛋白质产物。例如，以前称为 LGMD1F 现在是 LGMD D2 transportin 3。
+根据新命名法，肢带型营养不良症有 29 种已知亚型，其中 24常染色体隐性和 5常染色体显性。
+
+【参考文献】
+1.Johnson NE, Statland JM: The Limb-Girdle Muscular Dystrophies.Continuum (Minneap Minn)28(6):1698-1714, 2022.doi: 10.1212/CON.0000000000001178
+1.Johnson NE, Statland JM: The Limb-Girdle Muscular Dystrophies.Continuum (Minneap Minn)28(6):1698-1714, 2022.doi: 10.1212/CON.0000000000001178
+2.Wicklund MP: The Limb-Girdle Muscular Dystrophies.Continuum (Minneap Minn)25(6):1599-1618, 2019.doi: 10.1212/CON.0000000000000809
+2.Wicklund MP: The Limb-Girdle Muscular Dystrophies.Continuum (Minneap Minn)25(6):1599-1618, 2019.doi: 10.1212/CON.0000000000000809
+
+【肢带营养不良的症状和体征】
+患者的典型表现为缓慢进行性，对称性，近端肌无力伴或不伴面部累及和腱反射减弱或消失。骨盆或肩胛带肌可能先受到影响。
+常染色体显性遗传型发病症状的年龄范围从幼儿到成年。常染色体隐性遗传型发病症状往往是在儿童时期，而这些类型主要有骨盆带分布。
+
+【肢带型肌营养不良的诊断】
+DNA突变分析
+DNA突变分析
+有时需作肌肉活检
+有时需作肌肉活检
+肢带型营养不良症的诊断是通过特有的临床表现，发病年龄，家族史提示，并需要对外周血白细胞DNA进行突变分析作为主要的确诊试验。
+可以进行肌肉组织学，免疫细胞化学和蛋白质印迹分析。
+
+【肢带型肌营养不良的治疗】
+保持功能和预防挛缩
+保持功能和预防挛缩
+肢带型肌营养不良症的治疗关注于维持功能和防止挛缩。
+美国神经病学学会发布的指南，建议新诊断的LGMD患者，即使没有心脏症状，在心脏并发症高风险时也应进行心脏评估 (1)。对于呼吸衰竭的高危人群应进行肺功能检测。所有LGMD患者最好应就诊于专长神经肌肉疾病的多专业诊室。
+基因治疗、成肌细胞移植、中和肌肉生长抑制素抗体或生长激素目前仅限于研究阶段，尚无临床应用（1）。
+
+【治疗参考文献】
+1.Narayanaswami P, Weiss M, Selcen D, et al: Evidence-based guideline summary: Diagnosis and treatment of limb-girdle and distal dystrophies: Report of the Guideline Development Subcommittee of the American Academy of Neurology and the Practice Issues Review Panel of the American Association of Neuromuscular & Electrodiagnostic Medicine.Neurology83:1453–1463, 2014.doi: 10.1212/WNL.0000000000000892
+1.Narayanaswami P, Weiss M, Selcen D, et al: Evidence-based guideline summary: Diagnosis and treatment of limb-girdle and distal dystrophies: Report of the Guideline Development Subcommittee of the American Academy of Neurology and the Practice Issues Review Panel of the American Association of Neuromuscular & Electrodiagnostic Medicine.Neurology83:1453–1463, 2014.doi: 10.1212/WNL.0000000000000892
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Muscular Dystrophy Association:Information on research, treatment, technology, and support for patients living with limb-girdle dystrophy
+Muscular Dystrophy Association:Information on research, treatment, technology, and support for patients living with limb-girdle dystrophy
+肌营养不良症今日新闻:一个关于肌营养不良症的新闻和信息网站
+肌营养不良症今日新闻:一个关于肌营养不良症的新闻和信息网站

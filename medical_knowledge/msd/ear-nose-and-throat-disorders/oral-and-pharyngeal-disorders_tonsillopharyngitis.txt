@@ -1,0 +1,79 @@
+标题：扁桃体咽炎
+来源：https://www.msdmanuals.cn/professional/ear-nose-and-throat-disorders/oral-and-pharyngeal-disorders/tonsillopharyngitis
+============================================================
+
+扁桃体参与系统免疫监视功能。此外，局部扁桃体防御机制还包括一层能够进行抗原处理并涉及B细胞和T细胞反应的鳞状上皮。
+各种类型的扁桃体咽炎是所有初级保健医生就诊的常见原因。
+(参见链球菌感染。)
+
+【扁桃体咽炎的病因】
+扁桃体咽炎主要致病微生物是病毒，大多为感冒病毒（如腺病毒、鼻病毒、流感病毒、冠状病毒和呼吸道合孢病毒），有时也可为EB病毒、疱疹病毒、巨细胞病毒或人类免疫缺陷病毒。
+在所有病例中，致病微生物为细菌约占30％(1)。A 组β溶血性链球菌最为常见(见链球菌感染)，但Streptococcus pneumoniae（金黄色葡萄球菌）、Streptococcus pneumoniae（肺炎链球菌）、Mycoplasma pneumoniae（肺炎支原体）和Chlamydia pneumoniae（肺炎衣原体）有时也会涉及。极少数情况下可由百日咳、Fusobacterium（梭杆菌），白喉、梅毒和淋病引起。
+A组beta溶血性链球菌感染最好发于5～15岁之间，在3岁以前很少见。在老年人中较少见。
+
+【病因参考文献】
+1.Pichichero ME: Group A streptococcal tonsillopharyngitis: cost-effective diagnosis and treatment.Ann Emerg Med25 (3):390–403, 1995. doi: 10.1016/s0196-0644(95)70300-4
+1.Pichichero ME: Group A streptococcal tonsillopharyngitis: cost-effective diagnosis and treatment.Ann Emerg Med25 (3):390–403, 1995. doi: 10.1016/s0196-0644(95)70300-4
+
+【扁桃体咽炎的症状和体征】
+吞咽疼痛是扁桃体咽炎的特征，疼痛常放射至耳部。幼儿无法表达，常表现为拒绝进食。其他常见症状还包括高热、不适、头痛、胃肠道不适、口臭和说话含糊。扁桃体充血、肿胀，常伴脓性渗出。颈淋巴结肿大并有压痛。发热、淋巴结病、腭部瘀点及渗出物在A组β-溶血性链球菌感染中比病毒性扁桃体咽炎稍常见，但两者重叠很大；扁桃体咽炎和GABHS均可引起瘀点。伴有GABHS，可能会出现猩红热样皮疹（猩红热）。
+这张照片显示了伴有渗出液和红斑的急性扁桃体炎。
+图片由Clarence T.提供Sasaki, MD.
+A组beta溶血性链球菌通常在发病7天内可缓解，无论是否使用抗生素。未经治疗的A组β-溶血性链球菌感染可能导致局部化脓性并发症（如扁桃体周围脓肿或蜂窝织炎），有时可能导致风湿热或肾小球肾炎。
+
+【扁桃体咽炎的诊断】
+临床评估
+临床评估
+通过快速抗原检测、培养或两者，常规或选择性地排除A组β-溶血性链球菌（GABHS）
+通过快速抗原检测、培养或两者，常规或选择性地排除A组β-溶血性链球菌（GABHS）
+临床上咽炎是很容易被诊断的。然而，其病因却不易被发现。流鼻涕和咳嗽通常提示致病微生物为病毒。颈后或全身淋巴结病、肝脾肿大、疲劳和不适持续>1周；软腭瘀点伴颈部饱满；以及扁桃体渗出物浓厚，提示传染性单核细胞增多症。咽部出现灰白色、厚重、韧性强，剥离时易出血的伪膜，则提示白喉的可能（在美国罕见）。
+因为A组beta溶血性链球菌必须使用抗生素治疗，所以要求早期明确诊断。测试标准存在争议。许多专家建议对患儿采用快速抗原检测或细菌培养来明确。快速抗原检测特异性强但敏感性不够，常需要结合细菌培养。细菌培养的特异性和敏感性均为90％。对于成人，许多专家推荐采用以下4条诊断标准(1)：
+发热病史
+发热病史
+扁桃体渗出
+扁桃体渗出
+没有咳嗽
+没有咳嗽
+颈前部淋巴结肿大并有压痛
+颈前部淋巴结肿大并有压痛
+当患者仅符合一条或完全不符合以上诊断标准时，不考虑A组beta溶血性链球菌，不需要行抗原检测和细菌培养。符合2条诊断标准的患者可行抗原检测和细菌培养。当患者符合3或4条诊断标准时，可行抗原检测和细菌培养，也可凭经验使用抗生素治疗。
+
+【诊断参考文献】
+1.Fine AM, Nizet V, Mandl KD: Large-scale validation of the Centor and McIsaac scores to predict group A streptococcal pharyngitis.Arch Intern Med172 (11):847–852, 2012.doi: 10.1001/archinternmed.2012.950
+1.Fine AM, Nizet V, Mandl KD: Large-scale validation of the Centor and McIsaac scores to predict group A streptococcal pharyngitis.Arch Intern Med172 (11):847–852, 2012.doi: 10.1001/archinternmed.2012.950
+
+【扁桃体咽炎的治疗】
+对症治疗
+对症治疗
+抗生素治疗A组beta溶血性链球菌感染
+抗生素治疗A组beta溶血性链球菌感染
+反复发作的A组beta溶血性链球菌感染考虑扁桃体切除术
+反复发作的A组beta溶血性链球菌感染考虑扁桃体切除术
+扁桃体咽炎的辅助治疗包括镇痛、补液和休息。止痛药可以是全身性或局部性的。 非甾体抗炎药 (NSAID) 通常是有效的全身镇痛药。  有些医生也给予单剂量皮质类固醇（如地塞米松10mg IM），这可能有助于缩短症状的持续时间，并且不影响疾病复发或不良反应(1)。皮质类固醇通常用于治疗扁桃体咽炎，因为它们有助于缓解疼痛并增加食物消耗。一些临床医生不使用皮质类固醇，因为它们有副作用。
+外用止痛药可使用锭剂和喷雾剂，其成分包括苯佐卡因、苯酚、利多卡因和其他物质。这些外用止痛药可以减轻疼痛，但需反复使用且通常会影响味觉。苯佐卡因用于咽炎可罕见引起高铁血红蛋白症。有时必须限制局部镇痛药的剂量。
+青霉素V通常被认为是GABHS扁桃体咽炎的首选药物（2）；对于体重<27kg的患者，剂量为250mg口服，每日2次，疗程10天；对于体重>27kg的患者，剂量为500mg口服，每日2次。阿莫西林是有效的，如果需要的话液体制剂会更可口。如果依从性是个问题，单剂苄星青霉素120万单位肌注（对于体重≤27 kg的儿童，按60万单位用药）是有效的。其他口服抗生素包括：大环内酯类抗生素（用于青霉素过敏患者）、第一代头孢菌素和克林霉素。 以1：1的比例用水混合稀释非处方双氧水，并漱口可促进清创，改善口咽卫生。
+治疗可在诊断后立即开始，也可在细菌培养结果出来后开始。如果抗生素使用是凭经验推测下进行的，那么当细菌培养结果阴性时要停止使用。再次做咽喉部细菌培养并非常规使用。只有当A组beta溶血性链球菌感染反复发生或咽炎在学校或家庭接触者中扩散时才需再次做咽喉部细菌培养。
+
+【扁桃体切除术】
+当A组beta溶血性链球菌扁桃体炎反复发作（>6次/年，>4次/年、持续2年，或>3次/年、持续3年），或在使用抗生素后急性感染仍然非常严重并持续时，可考虑行扁桃体切除术。扁桃体切除术的其他标准包括阻塞性睡眠呼吸暂停、复发性扁桃体周围脓肿和怀疑癌症。(参见American Academy of Otolaryngology–Head and Neck Surgery Clinical Practice Guideline: Tonsillectomy in Children [Update]。）应根据患者年龄、多种危险因素和对感染复发的反应做出个体化决策(3)。
+有许多有效的扁桃体切除术方法，包括电凝解剖、电动切割法、射频消融和锐性解剖。≤3％的患者需要术后静脉补液，而对于术前充分补液、围术期使用抗生素、止痛药和皮质类固醇激素治疗的患者，可能需要补液的比例更低。<2％的患者会出现明显的术中和术后出血，通常在术后24小时内或术后7天，术后7天出血多是伪膜脱落造成。当患者出血时必须要到医院就诊。如果患者到医院后仍在出血，则通常在手术室检查并止血。如果扁桃体窝内有血块附着需除去，患者应观察24小时。
+术后气道阻塞多出现在<2岁的患儿，这些患儿术前也多有严重的阻塞性睡眠呼吸疾病；在病态肥胖、神经性疾病、颅面部畸形及术前严重阻塞性睡眠呼吸暂停综合征的成人患者也可出现术后气道阻塞。成人更易出现并发症且更严重。
+越来越多的证据表明，扁桃体切开术（部分囊内切除扁桃体组织）在治疗各种疾病时与传统的扁桃体切除术一样有效，并且更可取，因为与疼痛、术后并发症和患者满意度相关的结果更好（4,5）。
+
+【治疗参考文献】
+1.Hayward G, Thompson MJ, Perera R, et al: Corticosteroids as standalone or add-on treatment for sore throat.Cochrane Database Syst Rev., 2012.doi: 10.1002/14651858.CD008268.pub2
+1.Hayward G, Thompson MJ, Perera R, et al: Corticosteroids as standalone or add-on treatment for sore throat.Cochrane Database Syst Rev., 2012.doi: 10.1002/14651858.CD008268.pub2
+2.Shulman ST, Bisno AL, Clegg HW, et al: Clinical practice guideline for the diagnosis and management of group A streptococcal pharyngitis: 2012 update by the Infectious Diseases Society of America.Clin Infect Dis15;55 (10):e86-102, 2012.doi: 10.1093/cid/cis629 Epub 2012 Sep 9.
+2.Shulman ST, Bisno AL, Clegg HW, et al: Clinical practice guideline for the diagnosis and management of group A streptococcal pharyngitis: 2012 update by the Infectious Diseases Society of America.Clin Infect Dis15;55 (10):e86-102, 2012.doi: 10.1093/cid/cis629 Epub 2012 Sep 9.
+3.Ruben RJ: Randomized controlled studies and the treatment of middle-ear effusions and tonsillar pharyngitis: how random are the studies and what are their limitations?Otolaryngol Head Neck Surg.139(3):333-9, 2008.doi: 10.1016
+3.Ruben RJ: Randomized controlled studies and the treatment of middle-ear effusions and tonsillar pharyngitis: how random are the studies and what are their limitations?Otolaryngol Head Neck Surg.139(3):333-9, 2008.doi: 10.1016
+4.Wong Chung JERE, van Benthem PPG, Blom HM: Tonsillotomy versus tonsillectomy in adults suffering from tonsil-related afflictions: a systematic review.Acta Otolaryngol138(5):492-501, 2018.doi: 10.1080/00016489.2017.1412500
+4.Wong Chung JERE, van Benthem PPG, Blom HM: Tonsillotomy versus tonsillectomy in adults suffering from tonsil-related afflictions: a systematic review.Acta Otolaryngol138(5):492-501, 2018.doi: 10.1080/00016489.2017.1412500
+5.Blackshaw H, Springford LR, Zhang L-Y, et al: Tonsillectomy versus tonsillotomy for obstructive sleep-disordered breathing in children.Cochrane Database Syst Rev4 (4):CD011365, 2020.doi: 10.1002/14651858.CD011365.pub2
+5.Blackshaw H, Springford LR, Zhang L-Y, et al: Tonsillectomy versus tonsillotomy for obstructive sleep-disordered breathing in children.Cochrane Database Syst Rev4 (4):CD011365, 2020.doi: 10.1002/14651858.CD011365.pub2
+咽炎本身在临床上很容易识别；然而，在 25％ 至 30％ 的病例中，可能需要进行测试以确定感染是否为链球菌感染（即链球菌性咽喉炎）。
+咽炎本身在临床上很容易识别；然而，在 25％ 至 30％ 的病例中，可能需要进行测试以确定感染是否为链球菌感染（即链球菌性咽喉炎）。
+尽管有些权威人士推荐在所有儿童患者中使用快速抗原检测和细菌培养，临床诊断标准（改良Centor评分）有助于筛选患者是进行进一步的检测或是进行经验性抗生素治疗。
+尽管有些权威人士推荐在所有儿童患者中使用快速抗原检测和细菌培养，临床诊断标准（改良Centor评分）有助于筛选患者是进行进一步的检测或是进行经验性抗生素治疗。
+青霉素仍然是链球菌咽炎的首选药物，头孢菌素或大环内酯类抗生素则是青霉素过敏患者的替代治疗药物。
+青霉素仍然是链球菌咽炎的首选药物，头孢菌素或大环内酯类抗生素则是青霉素过敏患者的替代治疗药物。

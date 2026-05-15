@@ -1,0 +1,118 @@
+标题：Clostridioides difficile（艰难梭菌）感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/anaerobic-bacteria/clostridioides-difficile-infection
+============================================================
+
+(参见厌氧菌概述和梭菌感染概述。)
+C. difficile（艰难梭菌）是抗生素相关性结肠炎最常见病因，且通常为医疗相关感染。然而，医疗机构相关病例正在减少，而社区相关病例随时间缓慢增加 (1,2)。
+C. difficile（艰难梭菌）感染（CDI）的风险因素包括：
+抗生素暴露
+抗生素暴露
+住院时间延长
+住院时间延长
+住在养老院
+住在养老院
+严重的基础疾病
+严重的基础疾病
+使用质子泵抑制剂和 H2 受体阻滞剂
+使用质子泵抑制剂和 H2 受体阻滞剂
+腹部手术
+腹部手术
+C. difficile（艰难梭菌）在4%至15%的健康成年人、高达21%的住院成年人以及15%至30%的长期护理机构居民中无症状携带（3)。它在环境中很常见（如土壤、水、家庭宠物）。疾病可能继发于肠道内源性C. difficile（艰难梭菌）的过度生长或外源性感染。医疗工作者是主要传染源。
+一种毒性更强的菌株——BI/NAP1/027（二元/北美脉冲场型 1 [NAP1] / 027 类型），在医院爆发疫情中较为常见。此菌株产生更多毒素，导致更严重的疾病，复发几率更高，传播性更强，且对抗生素治疗反应不佳。
+
+【参考文献】
+1.Centers for Disease Control and Prevention (CDC).Clostridioides difficileInfection (CDI) Surveillance.June 24, 2025.Accessed August 15, 2025.
+1.Centers for Disease Control and Prevention (CDC).Clostridioides difficileInfection (CDI) Surveillance.June 24, 2025.Accessed August 15, 2025.
+2.Guh AY, Mu Y, Winston LG, et al.Trends in U.S. Burden ofClostridioides difficileInfection and Outcomes.N Engl J Med.2020;382(14):1320-1330.doi:10.1056/NEJMoa1910215
+2.Guh AY, Mu Y, Winston LG, et al.Trends in U.S. Burden ofClostridioides difficileInfection and Outcomes.N Engl J Med.2020;382(14):1320-1330.doi:10.1056/NEJMoa1910215
+3.Kelly CR, Fischer M, Allegretti JR, et al.ACG Clinical Guidelines: Prevention, diagnosis, and treatment ofClostridioides difficileinfections.Am J Gastroenterol.2021;116(6):1124–1147.doi:10.14309/ajg.0000000000001278
+3.Kelly CR, Fischer M, Allegretti JR, et al.ACG Clinical Guidelines: Prevention, diagnosis, and treatment ofClostridioides difficileinfections.Am J Gastroenterol.2021;116(6):1124–1147.doi:10.14309/ajg.0000000000001278
+
+【Clostridioides difficile（艰难梭菌）感染的病理生理学】
+抗生素引起的胃肠道菌群改变是主要的易感因素。尽管大多数抗生素都有致病风险，但以下风险最高：
+头孢菌素（特别是第三代）
+头孢菌素（特别是第三代）
+青霉素（特别是氨苄西林和阿莫西林）
+青霉素（特别是氨苄西林和阿莫西林）
+克林霉素
+克林霉素
+氟喹诺酮
+氟喹诺酮
+CDI（艰难梭菌感染）也可能在使用某些抗肿瘤药物后发生。
+艰难梭菌可分泌肠毒素和细胞毒素，通常被称为毒素A和B。但是，并非所有C. difficile菌株都能产生毒素，有些人是产毒菌株的无症状携带者。这种携带状态在婴儿中尤为常见（1）。毒素主要作用于结肠，导致其分泌液体并形成特征性的假膜——即易剥脱的黄白色斑块。部分严重者斑块可以融合。
+中毒性巨结肠虽然较为罕见，但在使用止泻药物后发生的可能性会稍大一些。局部组织播散以及败血症和急腹症非常罕见。
+在艰难梭菌感染（CDI）后，很少会出现反应性关节炎。
+
+【病理生理学参考文献】
+1.Tougas SR, Lodha N, Vandermeer B, et al.Prevalence of Detection ofClostridioides difficileAmong Asymptomatic Children: A Systematic Review and Meta-analysis.JAMA Pediatr.2021;175(10):e212328.doi:10.1001/jamapediatrics.2021.2328
+1.Tougas SR, Lodha N, Vandermeer B, et al.Prevalence of Detection ofClostridioides difficileAmong Asymptomatic Children: A Systematic Review and Meta-analysis.JAMA Pediatr.2021;175(10):e212328.doi:10.1001/jamapediatrics.2021.2328
+
+【Clostridioides difficile（艰难梭菌）感染的症状和体征】
+症状通常在开始使用抗生素后的 5 至 10 天内出现，但也可能在第一天就显现，甚至在 2 个月后才会出现。
+腹泻可能为轻度半成形便，或频繁水样便，有时带血。肠绞痛较多见，恶心或呕吐很少见。腹部可有轻度压痛。可能会出现发热和白细胞增多的情况。
+暴发性结肠炎的特点是结肠严重急性炎症和全身毒性，患者疼痛更严重，病情严重，伴有心动过速、腹胀和压痛。如果发生结肠穿孔，则会出现腹膜刺激征。
+
+【Clostridioides difficile（艰难梭菌）感染的诊断】
+粪便谷氨酸脱氢酶（GDH）抗原检测
+粪便谷氨酸脱氢酶（GDH）抗原检测
+C. difficile（艰难梭菌）毒素粪便检测
+C. difficile（艰难梭菌）毒素粪便检测
+毒素基因的核酸扩增检测
+毒素基因的核酸扩增检测
+有时进行乙状结肠镜检查
+有时进行乙状结肠镜检查
+在任何患者使用抗生素后 2 个月内，或住院 72 小时内出现新发且持续性腹泻，且排除其他病因（如泻药或经管肠内营养）时，应怀疑C. difficile感染。
+所有C. difficile菌株均可产生谷氨酸脱氢酶（GDH）抗原。通过酶联免疫吸附试验对粪便中的抗原进行检测是十分灵敏的，并且操作起来也非常迅速。但是，阳性结果仅表明该微生物的存在，而不能表明其是否具有毒性（1)。
+使用酶联免疫吸附试验（ELISA）的毒素检测也可快速完成。该检测针对活动性疾病具有特异性，但敏感性不高，因此可能出现假阴性结果。
+使用聚合酶链反应（PCR）检测毒素基因的核酸扩增试验（NAAT）对产毒菌株的存在非常敏感，但无法检测微生物是否正在主动产生毒素。在成功治疗后，该检测通常仍保持阳性，因此对于既往感染史明确的患者，其结果可能难以解释。
+鉴于定植率较高，仅应对有症状患者（即出现多次水样便者）进行检测，且检测结果需结合相应的临床背景加以解读。通常会进行其中的几项或全部测试，这些测试要么依次进行，要么一次性完成。一种策略是首先进行GDH和毒素检测。如果这些是一致的（即两者均为阳性或阴性），则认为疾病已确认或排除。不一致的检测结果（即一个阳性，一个阴性）需根据NAAT检测结果来判定 (1)。
+单个粪便样本通常就足够了。如果第一个样本为阴性，则至少 7 天内不应重复提交样本，除非出现临床变化且高度怀疑。粪便白细胞常常存在但不具特异性。
+如果患者有肠梗阻或毒素检测无诊断价值，应进行乙状结肠镜检查，可以确认伪膜的存在。
+如果怀疑存在暴发性结肠炎、穿孔或巨结肠的情况，就会进行腹部 X 光检查、计算机断层扫描（CT 扫描）或者两者同时进行。
+
+【诊断参考文献】
+1.Kelly CR, Fischer M, Allegretti JR, et al: ACG Clinical Guidelines: Prevention, diagnosis, and treatment ofClostridioides difficileinfections.Am J Gastroenterol116(6):1124–1147, 2021.doi: 10.14309/ajg.0000000000001278
+1.Kelly CR, Fischer M, Allegretti JR, et al: ACG Clinical Guidelines: Prevention, diagnosis, and treatment ofClostridioides difficileinfections.Am J Gastroenterol116(6):1124–1147, 2021.doi: 10.14309/ajg.0000000000001278
+
+【Clostridioides difficile（艰难梭菌）感染的治疗】
+口服万古霉素或口服非达霉素
+口服万古霉素或口服非达霉素
+美国胃肠病学会推荐口服万古霉素或口服非达霉素（1）用于治疗非重度C. difficile（艰难梭菌）诱发性腹泻的原发性发作。
+美国传染病学会（IDSA）和美国医疗保健流行病学学会（SHEA）优先推荐非达霉素作为C. difficile（艰难梭菌）感染的一线治疗（2）。非达霉素在降低复发风险方面优于万古霉素，但万古霉素仍可作为替代方案。硝唑尼特似乎与口服万古霉素相当，但在美国并不常用。
+甲硝唑不再被推荐作为C. difficile（艰难梭菌）引起的腹泻的一线治疗。然而，如果万古霉素或非达霉素不可用，可以使用口服甲硝唑。
+ISDA/SHEA 推荐口服或经鼻胃管给予万古霉素 500 mg，每天 4 次，以及甲硝唑 500 mg，每 8 小时静脉注射一次，用于治疗无肠梗阻的爆发性疾病。
+如果存在肠梗阻，可采用万古霉素 500 mg 溶于 10 mL 生理盐水，经直肠每天 4 次的剂量进行保留灌肠（1）。
+应尽快停用最可能引起C. difficile（艰难梭菌）诱导性腹泻的抗生素，或将患者转为使用不易导致C. difficile（艰难梭菌）诱导性腹泻的抗生素方案。
+考来烯胺树脂、Saccharomyces boulardii（布拉氏酵母菌）和益生菌尚未被证明是有益的，但常被添加。
+有少数患者因病情严重需要进行全结肠切除手术。
+
+【复发治疗】
+C. difficile（艰难梭菌）诱发性腹泻约15%至20%的患者出现复发，通常发生于停止治疗后的数周内。复发通常由再感染（相同或不同的菌株）引起，但是某些情况下由原发感染的孢子所致。对于复发性感染的患者，ISDA指南建议使用非达霉素（标准或延长脉冲方案），而不是标准疗程的万古霉素。万古霉素逐渐减少和脉冲治疗方案或作为标准疗程是首次复发的替代方案。对于多次复发的患者，除了非达霉素外，还可以选择逐渐减少和脉冲式给药的万古霉素、万古霉素序贯利福昔明治疗，以及粪便微生物群移植（2）。
+输注供体粪便（粪便移植，通常通过结肠镜检查进行）可增加频繁复发患者消退的可能性，据推测，其机制是恢复正常粪便微生物群。需使用约200至300毫升供体粪便；捐助者需接受肠道和全身的病原体检测。粪便可通过鼻十二指肠管、结肠镜或灌肠输注；最佳方法尚未明确。
+目前已上市口服粪便微生物群移植胶囊（粪便微生物群孢子，活菌-brpk）及用于直肠给药的粪便微生物群悬液（粪便微生物群，活菌）。可以在对复发性C. difficile（艰难梭菌）感染进行抗生素治疗几天后给予，以防止复发。
+贝洛妥珠单抗是一种人单克隆抗体,可结合并中和C. difficile毒素B,曾用于预防复发性疾病，但目前已停止生产。
+感染控制措施对于减少C. difficile（艰难梭菌）在患者和医务工作者之间的传播至关重要。在美国，如果怀疑或确诊艰难梭菌感染，必须使用环保局（EPA）批准的杀孢子消毒剂清洁患者环境（3）。
+践行合理抗生素管理并避免不必要的抗生素使用，可降低患者发生艰难梭菌相关腹泻的风险。
+对因接受全身抗生素治疗而处于发生艰难梭菌相关性腹泻高风险的患者，口服万古霉素作为一级或二级预防用药可能具有一定疗效（4）。治疗剂量和疗程仍有待最终确定（5）。
+
+【治疗参考文献】
+1.Kelly CR, Fischer M, Allegretti JR, et al.ACG Clinical Guidelines: Prevention, diagnosis, and treatment ofClostridioides difficileinfections.Am J Gastroenterol.2021;116(6):1124–1147.doi:10.14309/ajg.0000000000001278
+1.Kelly CR, Fischer M, Allegretti JR, et al.ACG Clinical Guidelines: Prevention, diagnosis, and treatment ofClostridioides difficileinfections.Am J Gastroenterol.2021;116(6):1124–1147.doi:10.14309/ajg.0000000000001278
+2.Johnson S, Lavergne V, Skinner AM, et al.Clinical practice guideline by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA): 2021 Focused update guidelines on management ofClostridioides difficileinfection in adults.Clin Infect Dis.2021;73(5):e1029–e1044.doi:10.1093/cid/ciab549
+2.Johnson S, Lavergne V, Skinner AM, et al.Clinical practice guideline by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA): 2021 Focused update guidelines on management ofClostridioides difficileinfection in adults.Clin Infect Dis.2021;73(5):e1029–e1044.doi:10.1093/cid/ciab549
+3.United States Environmental Protection Agency(EPA).Registered Antimicrobial Products Effective AgainstClostridioides difficile(C. diff) Spores [List K].Accessed August 15, 2025.
+3.United States Environmental Protection Agency(EPA).Registered Antimicrobial Products Effective AgainstClostridioides difficile(C. diff) Spores [List K].Accessed August 15, 2025.
+4.Van Hise NW, Bryant AM, Hennessey EK, Crannage AJ, Khoury JA, Manian FA.Efficacy of OralVancomycinin Preventing RecurrentClostridium difficileInfection in Patients Treated With Systemic Antimicrobial Agents.Clin Infect Dis.2016;63(5):651-653.doi:10.1093/cid/ciw401
+4.Van Hise NW, Bryant AM, Hennessey EK, Crannage AJ, Khoury JA, Manian FA.Efficacy of OralVancomycinin Preventing RecurrentClostridium difficileInfection in Patients Treated With Systemic Antimicrobial Agents.Clin Infect Dis.2016;63(5):651-653.doi:10.1093/cid/ciw401
+5.Prosty C, Bortolussi-Courval E, Dubé LR, Lee TC, McDonald EG.Oralvancomycinprophylaxis for the prevention of recurrentClostridioides difficileinfection during re-exposure to systemic antibiotics: A systematic review and meta-analysis.CMI Communications.2024;1(2):105041.doi:10.1016/j.cmicom.2024.105041
+5.Prosty C, Bortolussi-Courval E, Dubé LR, Lee TC, McDonald EG.Oralvancomycinprophylaxis for the prevention of recurrentClostridioides difficileinfection during re-exposure to systemic antibiotics: A systematic review and meta-analysis.CMI Communications.2024;1(2):105041.doi:10.1016/j.cmicom.2024.105041
+抗生素治疗可引起分泌毒素的艰难梭菌在肠道中过度生长, 导致严重且难治的伪膜性肠炎。
+抗生素治疗可引起分泌毒素的艰难梭菌在肠道中过度生长, 导致严重且难治的伪膜性肠炎。
+头孢菌素类（特别是第3代）、青霉素类、克林霉素和氟喹诺酮类药物引起本病的风险最高。
+头孢菌素类（特别是第3代）、青霉素类、克林霉素和氟喹诺酮类药物引起本病的风险最高。
+粪便中检测C. difficile抗原和毒素，有时用PCR检测毒素基因，可作为诊断依据。
+粪便中检测C. difficile抗原和毒素，有时用PCR检测毒素基因，可作为诊断依据。
+口服非达霉素或万古霉素治疗。
+口服非达霉素或万古霉素治疗。
+复发是常见的；再次使用抗生素治疗，并考虑粪便移植治疗难治性复发。
+复发是常见的；再次使用抗生素治疗，并考虑粪便移植治疗难治性复发。

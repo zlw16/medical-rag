@@ -1,0 +1,91 @@
+标题：肺康复治疗
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/pulmonary-rehabilitation/pulmonary-rehabilitation
+============================================================
+
+对很多慢性呼吸系统疾病病人而言，药物治疗仅能部分缓解症状和并发症。肺康复的综合方案可能通过以下方式产生显著的临床改善
+减轻呼吸短促
+减轻呼吸短促
+提高运动耐力
+提高运动耐力
+在较小程度上，肺康复似乎也能减少住院次数，并降低因慢性阻塞性肺病 (COPD) 病情加重而住院的患者的死亡率。来自小型随机试验荟萃分析的证据（2) 得到了来自大量 COPD 患者回顾性队列分析的支持，结果表明，出院后 3 个月内开始肺康复可显著降低 1 年内死亡风险和再入院次数 (3、4）。由于可能存在偏差，这些研究结果需要在更大规模的随机试验中进一步验证。
+
+【肺康复计划】
+尽管肺康复通常在医院或诊所进行，但替代策略包括家庭护理、远程康复、基于互联网的计划以及需要最少资源的计划。一些计划结合了心脏康复和肺部康复。临床试验正在进行，以证明这些模型的有效性（1)。
+无论使用哪种模式，专家共识都确立了肺康复的基本组成部分，分为 4 个领域（1):
+患者评估
+患者评估
+程序组件
+程序组件
+输注方式
+输注方式
+质量保证
+质量保证
+在肺康复开始之前，医疗服务提供者会对患者的基础功能状态和肺康复需求进行初步评估。该评估在医院或肺康复中心进行，包括以下内容：
+基于实验室的运动测试（增量式自行车测功机测试、耐力式自行车测功机测试、增量式跑步机测试或耐力跑步机测试）
+基于实验室的运动测试（增量式自行车测功机测试、耐力式自行车测功机测试、增量式跑步机测试或耐力跑步机测试）
+场地运动测试（6分钟或12分钟步行测试、增量或耐力往返步行测试）
+场地运动测试（6分钟或12分钟步行测试、增量或耐力往返步行测试）
+生活质量测量
+生活质量测量
+呼吸困难评估
+呼吸困难评估
+营养状况评估
+营养状况评估
+职业状况评估
+职业状况评估
+适当的肺康复计划包括耐力训练和阻力训练。处方根据患者的状态和目标量身定制，并定期评估进展情况。理想情况下，护理团队包括具有运动专业知识的个人，以及接受过康复培训的医疗保健提供者。
+过去，肺康复只留给患有
+严重慢阻肺（慢性阻塞性肺疾病）
+严重慢阻肺（慢性阻塞性肺疾病）
+然而，越来越多的证据表明，肺康复对患有以下疾病的患者有益：
+支气管扩张
+支气管扩张
+COVID-19
+COVID-19
+囊性纤维化（CF）
+囊性纤维化（CF）
+间质性肺病(ILD)
+间质性肺病(ILD)
+神经肌肉疾病
+神经肌肉疾病
+肺动脉高压
+肺动脉高压
+肺动脉高压患者从运动康复中受益，运动能力提高（5）。在一项针对 COVID-19 患者的研究中，肺康复加速了肺功能的恢复（6）。
+大多数 COPD 患者在疾病的任何阶段都可以从肺康复中受益。指南建议病情稳定、中度至重度 COPD 患者参与肺康复（7、8）。此外，因急性加重而住院的 COPD 患者也应在出院后 3 周内转诊。在COPD患者中进行的研究表明，肺康复应在COPD变得严重之前（即，根据气流阻塞程度来判定）就开始，因为疾病严重程度与运动表现之间似乎相关性较差。此外，即使是病情较轻的患者，也可从减轻呼吸困难、提高运动耐力、增强肌肉力量、调理身体素质、改善心肺生理功能、降低肺动态过度充气中获益，并获得肺康复后随之而来的社会心理效益(9)。
+禁忌证是相对的，包括可能使增加患者运动水平的尝试复杂化的合并症（例如，未治疗的心绞痛、左心室功能障碍）。然而，这些合并症并不妨碍实施肺康复的其他组成部分。
+除了预期的体力运动和锻炼外，肺康复没有并发症。
+肺康复最好作为综合方案的一部分进行管理
+运动训练
+运动训练
+吸气肌训练
+吸气肌训练
+心理社会和行为干预
+心理社会和行为干预
+肺康复项目由医生、护士、呼吸治疗师、理疗师和职业治疗师、心理学家或社会工作者组成的团队来实施。 干预措施应该个体化并针对患者的需求。 肺康复可以在疾病的任何阶段开始，目标是尽量减少疾病负担和症状。
+运动训练包括有氧运动以及呼吸肌和上下肢的力量训练。 越来越多的证据支持联合进行肢体力量训练和间歇训练。间歇训练是指短时间的剧烈运动（例如 30 秒）与较长时间（例如 2 分钟）的强度较低的运动交替进行。
+吸气肌训练（IMT）通常是肺康复的一个组成部分。IMT使用能施加阻力负荷的设备，该负荷设定为个人最大吸气压的一小部分。当与肺康复结合时，IMT可能会改善患者的吸气肌压力，但这种改善并不会减少呼吸短促，或改善生活质量或功能参数（10）。
+教育包括多项内容。戒烟咨询是重要的。如有需要，可给予营养咨询。教授呼吸技巧（例如缩唇呼吸：呼气时缩拢嘴唇以降低呼吸频率，从而减少气体陷闭）和保存体能的原理对患者很有帮助。关于治疗的教育，包括指征、适当使用和正确的吸入药物输送，非常重要。
+心理干预包括对抑郁、焦虑、恐惧的心理咨询和反馈，这些心理问题阻碍了病人充分参与各项活动。 行为矫正策略和强调自我管理是肺康复的重要组成部分。策略包括目标设定和问题解决技巧、决策、用药依从性以及维持日常锻炼和体育活动（1）。
+虽然最优的维持策略尚不清楚，但持续参与锻炼计划对维持肺康复的益处至关重要。
+
+【参考文献】
+1.Holland AE, Cox NS, Houchen-Wolloff L, et al: Defining Modern Pulmonary Rehabilitation.An Official American Thoracic Society Workshop Report.Ann Am Thorac Soc18(5):e12–e29, 2021. doi: 10.1513/AnnalsATS.202102-146ST
+1.Holland AE, Cox NS, Houchen-Wolloff L, et al: Defining Modern Pulmonary Rehabilitation.An Official American Thoracic Society Workshop Report.Ann Am Thorac Soc18(5):e12–e29, 2021. doi: 10.1513/AnnalsATS.202102-146ST
+2.Ryrsø CK, Godtfredsen NS, Kofod LM, et al: Lower mortality after early supervised pulmonary rehabilitation following COPD exacerbations: A systematic review and meta-analysis.BMC Pulm Med18(1):154, 2018.doi: 10.1186/s12890-018-0718-1
+2.Ryrsø CK, Godtfredsen NS, Kofod LM, et al: Lower mortality after early supervised pulmonary rehabilitation following COPD exacerbations: A systematic review and meta-analysis.BMC Pulm Med18(1):154, 2018.doi: 10.1186/s12890-018-0718-1
+3.Lindenauer PK, Stefan MS, Pekow PS, et al: Association between initiation of pulmonary rehabilitation after hospitalization for COPD and 1-year survival among Medicare beneficiaries.JAMA323(18):1813–1823, 2020. doi: 10.1001/jama.2020.4437
+3.Lindenauer PK, Stefan MS, Pekow PS, et al: Association between initiation of pulmonary rehabilitation after hospitalization for COPD and 1-year survival among Medicare beneficiaries.JAMA323(18):1813–1823, 2020. doi: 10.1001/jama.2020.4437
+4.Stefan MS, Pekow PS, Priya A, et al: Association between initiation of pulmonary rehabilitation and rehospitalizations in patients hospitalized with chronic obstructive pulmonary disease.Am J Respir Crit Care Med204(9):1015-1023, 2021.doi: 10.1164/rccm.202012-4389OC
+4.Stefan MS, Pekow PS, Priya A, et al: Association between initiation of pulmonary rehabilitation and rehospitalizations in patients hospitalized with chronic obstructive pulmonary disease.Am J Respir Crit Care Med204(9):1015-1023, 2021.doi: 10.1164/rccm.202012-4389OC
+5.Morris NR, Kermeen FD, Holland AE: Exercise-based rehabilitation programmes for pulmonary hypertension.Cochrane Database Syst Rev1(1):CD011285, 2017. doi: 10.1002/14651858.CD011285.pub2
+5.Morris NR, Kermeen FD, Holland AE: Exercise-based rehabilitation programmes for pulmonary hypertension.Cochrane Database Syst Rev1(1):CD011285, 2017. doi: 10.1002/14651858.CD011285.pub2
+6.Zhu P, Wang Z, Guo X, et al: Pulmonary rehabilitation accelerates the recovery of pulmonary function in patients With COVID-19.Front Cardiovasc Med8:691609, 2021. doi: 10.3389/fcvm.2021.691609
+6.Zhu P, Wang Z, Guo X, et al: Pulmonary rehabilitation accelerates the recovery of pulmonary function in patients With COVID-19.Front Cardiovasc Med8:691609, 2021. doi: 10.3389/fcvm.2021.691609
+7.Global Initiative for Chronic Obstructive Lung Disease:Global Strategy for Prevention, Diagnosis and Management, and Prevention of COPD (2024 GOLD report).
+7.Global Initiative for Chronic Obstructive Lung Disease:Global Strategy for Prevention, Diagnosis and Management, and Prevention of COPD (2024 GOLD report).
+8.Rochester CL, Alison JA, Carlin B, et al: Pulmonary Rehabilitation for Adults With Chronic Respiratory Disease: An Official American Thoracic Society Clinical Practice Guideline.Am J Respir Crit Care Med208(4):e7-e26, 2023.doi:10.1164/rccm.202306-1066ST
+8.Rochester CL, Alison JA, Carlin B, et al: Pulmonary Rehabilitation for Adults With Chronic Respiratory Disease: An Official American Thoracic Society Clinical Practice Guideline.Am J Respir Crit Care Med208(4):e7-e26, 2023.doi:10.1164/rccm.202306-1066ST
+9.Rochester CL, Vogiatzis I, Holland AE, et al: An Official American Thoracic Society/European Respiratory Society Policy Statement: Enhancing Implementation, Use, and Delivery of Pulmonary Rehabilitation.Am J Respir Crit Care Med192:1373–1386, 2015.doi: 10.1164/rccm.201510-1966ST
+9.Rochester CL, Vogiatzis I, Holland AE, et al: An Official American Thoracic Society/European Respiratory Society Policy Statement: Enhancing Implementation, Use, and Delivery of Pulmonary Rehabilitation.Am J Respir Crit Care Med192:1373–1386, 2015.doi: 10.1164/rccm.201510-1966ST
+10.Beaumont M, Mialon P, Le Ber C, et al: Effects of inspiratory muscle training on dyspnoea in severe COPD patients during pulmonary rehabilitation: Controlled randomised trial.Eur Respir J51:1701107, 2018. doi: 10.1183/13993003.01107-2017
+10.Beaumont M, Mialon P, Le Ber C, et al: Effects of inspiratory muscle training on dyspnoea in severe COPD patients during pulmonary rehabilitation: Controlled randomised trial.Eur Respir J51:1701107, 2018. doi: 10.1183/13993003.01107-2017

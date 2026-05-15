@@ -1,0 +1,114 @@
+标题：班氏丝虫性淋巴丝虫病和布鲁格氏淋巴丝虫病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/nematodes-roundworms/bancroftian-lymphatic-filariasis-and-brugian-lymphatic-filariasis
+============================================================
+
+班氏丝虫病分布于非洲、亚洲、太平洋和美洲的热带及亚热带地区，包括海地。布鲁线虫病主要在南亚和东南亚地区流行。
+2000年，世界卫生组织启动了其消除淋巴丝虫病全球方案。因此，通过在存在感染的地区对符合条件的人进行大规模的年度治疗，在阻止感染的传播方面已经取得了实质性进展。截至2018年，大约有5100万人感染，这比该计划启动时减少了74%（1）。2023年，39个国家的6.57亿人需要年度预防性治疗以阻止感染传播（1）。
+淋巴丝虫病由班氏丝虫（约占90%病例）、马来丝虫或帝汶丝虫引起。蚊为传播媒介。通过蚊子感染到的幼虫移行到淋巴管，6到12个月后发育成线状成虫。怀孕的雌虫产出微丝蚴，后者进入血液循环。班氏丝虫雌虫长约80至100毫米；雄虫长约40毫米。
+（参见寄生虫感染途径和丝状线虫感染概述。)
+1.当受感染的蚊子叮咬人类宿主时，会将第三期（L3）丝虫幼虫传播到宿主的皮肤上。幼虫随后经咬伤处进入体内。
+1.当受感染的蚊子叮咬人类宿主时，会将第三期（L3）丝虫幼虫传播到宿主的皮肤上。幼虫随后经咬伤处进入体内。
+2.感染性幼虫迁移至淋巴系统，在那里发育成线状的成虫。
+2.感染性幼虫迁移至淋巴系统，在那里发育成线状的成虫。
+3.妊娠成年雌虫产生带鞘的微丝蚴，在淋巴和血液中循环。
+3.妊娠成年雌虫产生带鞘的微丝蚴，在淋巴和血液中循环。
+4.蚊子在叮咬受感染的宿主时会摄入微丝蚴。
+4.蚊子在叮咬受感染的宿主时会摄入微丝蚴。
+5.微丝蚴被摄入后脱去鞘膜。部分微丝蚴穿过蚊虫的中肠，迁移至胸肌。
+5.微丝蚴被摄入后脱去鞘膜。部分微丝蚴穿过蚊虫的中肠，迁移至胸肌。
+6 和 7。在胸肌中，微丝蚴发育为第一期（L1）幼虫，随后成为第三期（L3）感染性幼虫。
+6 和 7。在胸肌中，微丝蚴发育为第一期（L1）幼虫，随后成为第三期（L3）感染性幼虫。
+8.三期感染性幼虫迁移至蚊子的喙部。当蚊子叮咬宿主后，生命周期就完成了。
+8.三期感染性幼虫迁移至蚊子的喙部。当蚊子叮咬宿主后，生命周期就完成了。
+Image from the Centers for Disease Control and Prevention, Global Health, Division of Parasitic Diseases and Malaria.
+
+【参考文献】
+1.World Health Organization (WHO): Lymphatic filariasis.Accessed October 21, 2024.
+1.World Health Organization (WHO): Lymphatic filariasis.Accessed October 21, 2024.
+
+【淋巴丝虫病的症状和体征】
+感染常导致无临床症状的微丝蚴血症。临床症状和体征主要由成虫导致。在离开疫源地后，微丝蚴可逐渐从人体内清除。
+急性炎症性丝虫病包括持续4~7日的发作性发热（常为复发性的）、伴有淋巴管炎的淋巴结炎（也称为急性淋巴腺管炎）或急性附睾炎和精索炎；继发性细菌感染是常见的。肢体局部感染可能引起脓肿，脓肿破溃后形成窦道并留下瘢痕。腺淋巴管炎通常在慢性病发作前≥20年左右发作。以前未曾感染而新到流行区的移民所患的急性丝虫病比本地居民患者要更为严重。
+慢性丝虫病常在多年后隐匿发生。多数患者发生无症状的淋巴管扩张，但对成虫的慢性炎症性应答和继发的细菌感染可导致受累部位的慢性淋巴水肿。局部对细菌和真菌感染的易感性增加进一步促进了病情发展。下肢慢性凹陷性淋巴水肿可进展为象皮病（慢性淋巴阻塞）。W. bancrofti（班氏吴策线虫）可引起鞘膜积液和阴囊象皮肿。其他类型的慢性丝虫病包括淋巴管破裂或导致乳糜尿和鞘膜乳糜积液的淋巴液异位引流。
+© Springer Science+Business Media
+© Springer Science+Business Media
+淋巴外体征包括慢性镜下血尿、蛋白尿和轻度多发性关节炎，这些都被认为是免疫复合物沉积导致的。
+热带肺嗜酸性粒细胞增多症是一种罕见表现，特征为反复支气管痉挛、一过性肺部浸润影、低热及显著嗜酸性粒细胞增多。最有可能的解释是由于对微丝蚴的变态反应所致。慢性肺部受累可导致肺纤维化。
+
+【淋巴丝虫病的诊断】
+血样显微镜检查或淋巴组织活检
+血样显微镜检查或淋巴组织活检
+W. bancrofti抗原检测（在国际上有售，但在美国没有）
+W. bancrofti抗原检测（在国际上有售，但在美国没有）
+抗体检测
+抗体检测
+显微镜查见血中的微丝蚴就可确诊淋巴丝虫病。血液过滤或离心浓集法的敏感性明显大于厚涂片法。必须在微丝蚴血症高峰期采集血液样本—绝大多数流行区域的高峰期在夜间，而很多太平洋岛屿的高峰期则在白天。通过超声检查可发现扩张的淋巴管内的活成虫，它们的活动被称为丝虫舞（filarial dance）。
+多种血清学检测方法可供选择。
+抗体检测:酶免疫检测抗丝虫抗体IgG1和IgG4
+抗体检测:酶免疫检测抗丝虫抗体IgG1和IgG4
+抗原检测：快速免疫层析法检测W. bancrofti（班氏吴策线虫）抗原
+抗原检测：快速免疫层析法检测W. bancrofti（班氏吴策线虫）抗原
+活动性丝虫感染的患者血清抗丝虫抗体IgG4水平通常升高。但是，丝虫之间以及与其他蠕虫之间存在抗原交叉反应，而且不能区分现症丝虫感染或既往感染。一种快速诊断测试W. bancrofti（班氏吴策线虫）抗原在国际上用于消除丝虫病计划，但在美国未获得许可。
+聚合酶链反应 (PCR) 检测W. bancrofti和B. malayi可在研究实验室获得。
+在淋巴组织活检标本中可以识别出班氏丝虫和马来布鲁线虫的成虫。
+
+【淋巴丝虫病的治疗】
+乙胺嗪（DEC）可以杀死微丝蚴和相当一部分成虫。在美国，DEC只有在实验室确认丝虫病后才能从美国疾病控制和预防中心(CDC)获取。
+
+【经验与提示】
+经验与提示
+在使用二乙基卡马嗪（DEC）治疗前，评估患者是否同时感染罗阿丝虫或旋盘尾丝虫，因为DEC可引起这些感染患者的严重反应。
+在使用二乙基卡马嗪（DEC）治疗前，评估患者是否同时感染罗阿丝虫或旋盘尾丝虫，因为DEC可引起这些感染患者的严重反应。
+
+【急性淋巴丝虫病的治疗】
+治疗习惯上给予DEC2mg/kg口服，每天3次，共12天；也可选择6mg/kg每天一次顿服。一般来说，1天方案似乎与12天方案一样有效 (1)。
+DEC的不良反应通常较轻微，其严重程度取决于血液中微丝蚴的数量。最常见的是头晕、恶心、发热、头痛和肌肉关节痛，这些症状与丝虫抗原的释放有关。
+治疗前，应评估患者是否有罗阿丝虫（罗阿丝虫病）或盘尾丝虫（盘尾丝虫病）的合并感染，因DEC可能引发此类患者的严重反应。在同时流行盘尾丝虫病的地区，可采用单次口服400毫克阿苯达唑加200mcg/kg伊维菌素的治疗方案；伊维菌素单独使用并不能杀死导致淋巴丝虫病的成虫。由于存在危及生命的不良反应风险（包括脑病），DEC 不应用于高循环罗阿丝虫微丝蚴水平的患者。
+多西环素200毫克/天，口服4至6周，可减轻成虫负荷，减轻轻度至中度患者的病理症状(2)。多西环素可以杀灭丝虫体内的Wolbachia（沃尔巴克氏体）属胞内共生细菌，从而导致成虫的死亡。它可以单独使用，也可以与DEC（3）或阿苯达唑（4）联合使用。
+急性腺淋巴管炎的发作一般能自发缓解，但可能需要应用抗生素控制继发的细菌感染。
+
+【慢性淋巴水肿的治疗】
+慢性淋巴水肿需要进行细致的皮肤护理，包括全身应用抗生素治疗继发的细菌感染，这些方法减慢或防止进展为象皮病。
+DEC治疗是否能预防或减轻慢性淋巴水肿仍存在争议。有证据表明，口服多西环素200毫克/天，持续4至6周可以减轻淋巴水肿，建议对晚期患者进行定期治疗(5)。
+受累肢体应用弹性绷带等保护性措施也能减轻肿胀。
+外科减压性淋巴结-静脉分流通过改善淋巴引流，对于晚期象皮病病例也可长期获益。大量的阴囊积水也可进行外科治疗，但复发是常见的。
+
+【热带肺嗜酸性粒细胞增多症的治疗】
+热带性肺嗜酸性粒细胞浸润症 对于DEC治疗（2mg/kg每日3次，共14～21天）也有反应，但25%以上的患者会复发，需要重复疗程治疗。
+
+【治疗参考文献】
+1.Meyrowitsch DW, Simonsen PE, Makunde WH.Massdiethylcarbamazinechemotherapy for control of bancroftian filariasis: comparative efficacy of standard treatment and two semi-annual single-dose treatments.Trans R Soc Trop Med Hyg.1996;90(1):69-73.doi:10.1016/s0035-9203(96)90484-8
+1.Meyrowitsch DW, Simonsen PE, Makunde WH.Massdiethylcarbamazinechemotherapy for control of bancroftian filariasis: comparative efficacy of standard treatment and two semi-annual single-dose treatments.Trans R Soc Trop Med Hyg.1996;90(1):69-73.doi:10.1016/s0035-9203(96)90484-8
+2.Taylor MJ, Makunde WH, McGarry HF, Turner JD, Mand S, Hoerauf A.Macrofilaricidal activity afterdoxycyclinetreatment ofWuchereria bancrofti: a double-blind, randomised placebo-controlled trial.Lancet.2005;365(9477):2116-2121.doi:10.1016/S0140-6736(05)66591-9
+2.Taylor MJ, Makunde WH, McGarry HF, Turner JD, Mand S, Hoerauf A.Macrofilaricidal activity afterdoxycyclinetreatment ofWuchereria bancrofti: a double-blind, randomised placebo-controlled trial.Lancet.2005;365(9477):2116-2121.doi:10.1016/S0140-6736(05)66591-9
+3.Mand S, Pfarr K, Sahoo PK, et al.Macrofilaricidal activity and amelioration of lymphatic pathology in bancroftian filariasis after 3 weeks ofdoxycyclinefollowed by single-dose diethylcarbamazine.Am J Trop Med Hyg.2009;81(4):702-711.doi:10.4269/ajtmh.2009.09-0155
+3.Mand S, Pfarr K, Sahoo PK, et al.Macrofilaricidal activity and amelioration of lymphatic pathology in bancroftian filariasis after 3 weeks ofdoxycyclinefollowed by single-dose diethylcarbamazine.Am J Trop Med Hyg.2009;81(4):702-711.doi:10.4269/ajtmh.2009.09-0155
+4.Gayen P, Nayak A, Saini P, et al.A double-blind controlled field trial ofdoxycyclineandalbendazolein combination for the treatment of bancroftian filariasis in India.Acta Trop.2013;125(2):150-156.doi:10.1016/j.actatropica.2012.10.011
+4.Gayen P, Nayak A, Saini P, et al.A double-blind controlled field trial ofdoxycyclineandalbendazolein combination for the treatment of bancroftian filariasis in India.Acta Trop.2013;125(2):150-156.doi:10.1016/j.actatropica.2012.10.011
+5.Mand S, Debrah AY, Klarmann U, et al.Doxycyclineimproves filarial lymphedema independent of active filarial infection: a randomized controlled trial.Clin Infect Dis.2012;55(5):621-630.doi:10.1093/cid/cis486
+5.Mand S, Debrah AY, Klarmann U, et al.Doxycyclineimproves filarial lymphedema independent of active filarial infection: a randomized controlled trial.Clin Infect Dis.2012;55(5):621-630.doi:10.1093/cid/cis486
+
+【淋巴丝虫病的预防】
+在流行区域避免蚊虫叮咬是旅行者最有效的保护措施（例如，在暴露的皮肤上使用二乙基甲苯酰胺[避蚊胺]，穿着氯菊酯浸泡过的衣服，使用蚊帐）。
+世界卫生组织于2000年启动了全球消除淋巴丝虫病计划，以绘制流行地区的地图并治疗所有面临风险的人群。使用多种药物方案（1）。这些方案减少了微丝蚴血症，从而减少了蚊子对寄生虫的传播。
+
+【预防参考文献】
+1.World Health Organization: Alternative mass drug administration regimens to eliminate lymphatic filariasis.2017.Accessed October 28, 2024.
+1.World Health Organization: Alternative mass drug administration regimens to eliminate lymphatic filariasis.2017.Accessed October 28, 2024.
+淋巴丝虫病是由蚊子传播的;感染性幼虫移行到淋巴管，在那里发育为成虫。
+淋巴丝虫病是由蚊子传播的;感染性幼虫移行到淋巴管，在那里发育为成虫。
+淋巴管内的成虫可引起急性淋巴管炎症或附睾炎或慢性淋巴管阻塞，在一些患者中可发展为象皮病或阴囊水肿。
+淋巴管内的成虫可引起急性淋巴管炎症或附睾炎或慢性淋巴管阻塞，在一些患者中可发展为象皮病或阴囊水肿。
+在血液标本的离心沉淀物中通过显微镜观察到微丝蚴可以诊断，血样应在微丝蚴处于峰值时采集（因虫种而异）。
+在血液标本的离心沉淀物中通过显微镜观察到微丝蚴可以诊断，血样应在微丝蚴处于峰值时采集（因虫种而异）。
+抗原、抗体和寄生虫的DNA测试可作为显微镜检的替代。
+抗原、抗体和寄生虫的DNA测试可作为显微镜检的替代。
+排除罗阿丝虫和Onchocerca volvulus合并感染后可应用乙胺嗪治疗。
+排除罗阿丝虫和Onchocerca volvulus合并感染后可应用乙胺嗪治疗。
+世卫组织消除淋巴丝虫病全球计划已经在许多流行地区减少了传播。
+世卫组织消除淋巴丝虫病全球计划已经在许多流行地区减少了传播。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+WHO:The Global Programme to Eliminate Lymphatic Filariasis
+WHO:The Global Programme to Eliminate Lymphatic Filariasis

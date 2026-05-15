@@ -1,0 +1,89 @@
+标题：纵隔肿块
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/mediastinal-and-pleural-disorders/mediastinal-masses
+============================================================
+
+纵隔肿块可分为前、中、后纵隔肿块。前纵隔从胸骨延伸到下区域的心包，以及从上区域的胸骨延伸到头臂血管。中纵隔位于前后纵隔之间。后纵隔的前界是心包和气管，后界是脊柱。
+
+【纵隔肿块的病因】
+在成人中，最常见的纵隔肿块的原因因部位而异 (1,2,3)：
+前（血管前）纵隔：胸腺瘤、良性囊肿和淋巴瘤（霍奇金和非霍奇金）
+前（血管前）纵隔：胸腺瘤、良性囊肿和淋巴瘤（霍奇金和非霍奇金）
+中（内脏）纵隔：良性囊肿、淋巴结肿大（如淋巴瘤、结节病、结核病、肺癌）和血管性肿块
+中（内脏）纵隔：良性囊肿、淋巴结肿大（如淋巴瘤、结节病、结核病、肺癌）和血管性肿块
+后（椎旁）纵隔：神经源性肿瘤与食管异常
+后（椎旁）纵隔：神经源性肿瘤与食管异常
+关于其他病因，见图成人纵隔肿块的常见病因。慢性纤维性纵隔炎（如由肺结核、组织胞浆菌病引起）是纵隔肿块的罕见原因。
+
+【成人纵隔肿块的常见病因】
+成人纵隔肿块的常见病因
+儿童最常见的纵隔肿块是神经源性肿瘤和囊肿。至于其他病因，见表儿童纵隔肿块的常见病因。
+
+【儿童纵隔肿块的常见病因】
+儿童纵隔肿块的常见病因
+前（血管前）
+异位甲状腺
+胸腺病变
+中（内脏）
+支气管囊肿
+心脏肿瘤
+囊状水瘤
+淋巴结病（由于感染、恶性肿瘤或炎症）
+心包囊肿
+血管异常
+后（椎旁）
+食管重复畸形
+脊膜脊髓膨出
+神经管原肠异常
+神经源性肿瘤
+Data fromBiko DM, Lichtenberger JP 3rd, Rapp JB, Khwaja A, Huppmann AR, Chung EM.Mediastinal Masses in Children: Radiologic-Pathologic Correlation [published correction appears inRadiographics2021 Sep-Oct;41(5):E164. doi: 10.1148/rg.2021219008].Radiographic2021;41(4):1186-1207.doi:10.1148/rg.2021200180 andGerber TS, Porubsky S.Benign lesions of the mediastinum.Histopathology2024;84(1):183-195.doi:10.1111/his.15088
+Data fromBiko DM, Lichtenberger JP 3rd, Rapp JB, Khwaja A, Huppmann AR, Chung EM.Mediastinal Masses in Children: Radiologic-Pathologic Correlation [published correction appears inRadiographics2021 Sep-Oct;41(5):E164. doi: 10.1148/rg.2021219008].Radiographic2021;41(4):1186-1207.doi:10.1148/rg.2021200180 andGerber TS, Porubsky S.Benign lesions of the mediastinum.Histopathology2024;84(1):183-195.doi:10.1111/his.15088
+
+【病因参考文献】
+1.Gerber TS, Porubsky S.Benign lesions of the mediastinum.Histopathology2024;84(1):183-195.doi:10.1111/his.15088
+1.Gerber TS, Porubsky S.Benign lesions of the mediastinum.Histopathology2024;84(1):183-195.doi:10.1111/his.15088
+2.Jiang Y, Lin Y, Yang C, et al.Spatiotemporal distribution of mediastinal neoplasms: A comprehensive multi-center study.Lung Cancer2024;191:107558.doi:10.1016/j.lungcan.2024.107558
+2.Jiang Y, Lin Y, Yang C, et al.Spatiotemporal distribution of mediastinal neoplasms: A comprehensive multi-center study.Lung Cancer2024;191:107558.doi:10.1016/j.lungcan.2024.107558
+3.Roden AC, Fang W, Shen Y, et al.Distribution of Mediastinal Lesions Across Multi-Institutional, International, Radiology Databases.J Thorac Oncol2020;15(4):568-579.doi:10.1016/j.jtho.2019.12.108
+3.Roden AC, Fang W, Shen Y, et al.Distribution of Mediastinal Lesions Across Multi-Institutional, International, Radiology Databases.J Thorac Oncol2020;15(4):568-579.doi:10.1016/j.jtho.2019.12.108
+
+【纵隔肿块的症状和体征】
+多数纵隔肿块无临床症状。总体而言，儿童的恶性病变和肿块更可能引起症状。最常见的症状是胸痛和体重减轻。淋巴瘤可表现为发热和体重减轻。
+在儿童，纵隔肿块更可能引起气管支气管压迫和喘鸣，或反复支气管炎或肺炎的症状。
+纵隔肿块的症状和体征取决于肿块的位置。前纵隔的巨大肿块可引起仰卧位呼吸困难。中纵隔肿块可压迫血管和气道，产生上腔静脉综合征或气道阻塞。后纵隔肿块可侵犯食管，产生吞咽困难或吞咽痛。
+
+【纵隔肿物的诊断】
+胸部X光检查
+胸部X光检查
+CT，有时MRI
+CT，有时MRI
+必要时组织活检
+必要时组织活检
+纵隔肿块最常因胸部症状行胸部X线或其他影像学检查时偶然发现。其他诊断性检查如影像学和活检，适于明确病因。
+增强CT扫描是最有价值的影像学技术。通过胸部CT，可将正常变异和良性肿瘤，如脂肪和液体充填的囊肿，与其他病变区分开。 若为囊性结构，则行MRI检查。MRI可能有助于确定肿块是否压迫或侵入相邻结构。
+针吸细胞学检查或穿刺活检可以确诊许多纵隔肿块。细针抽吸技术通常足以诊断癌性病变，但当怀疑淋巴瘤、胸腺瘤或神经源性肿块时，应进行切割针活检，以提供足够的组织用于诊断分析。
+如果异位甲状腺组织被认为是病因，则需要测量促甲状腺激素。
+当根据影像学或其他检查结果高度怀疑恶性肿瘤时，以及当可以实现完全切除时，才进行手术切除。
+
+【纵隔肿物的治疗】
+治疗因病因而异
+治疗因病因而异
+治疗取决于病因。
+一些良性病变如心包囊肿，可以观察。多数的恶性病变应手术摘除，但是某些病变如淋巴瘤，最好进行化疗。
+肉芽肿性疾病，例如结核病或组织胞浆菌病，应使用适当的抗菌药物进行治疗。
+对前纵隔肿块患者，尤其是儿童，进行气道管理需要谨慎、周密计划和专业知识。因仰卧位可能加重气道压迫和血流动力学恶化，尤其使用镇静剂时，传统麻醉和气道管理方法可能具有危险性(1)。患者可保持清醒且直立状态下转运至专科救治。在患者直立或半直立位时，进行活检等操作仅需少量镇静剂。需建立确定气道时，通常对清醒患者进行插管并保留自主呼吸。
+
+【治疗参考文献】
+1.Blank RS, de Souza DG.Anesthetic management of patients with an anterior mediastinal mass: continuing professional development.Can J Anaesth2011;58(9):853-867.doi:10.1007/s12630-011-9539-x
+1.Blank RS, de Souza DG.Anesthetic management of patients with an anterior mediastinal mass: continuing professional development.Can J Anaesth2011;58(9):853-867.doi:10.1007/s12630-011-9539-x
+在成人中，胸腺瘤、良性囊肿和淋巴瘤（霍奇金和非霍奇金）是最常见的前纵隔病变；良性囊肿、淋巴结肿大和血管性肿块是最常见的中纵隔病变；神经源性肿瘤和食管异常是最常见的后纵隔病变。
+在成人中，胸腺瘤、良性囊肿和淋巴瘤（霍奇金和非霍奇金）是最常见的前纵隔病变；良性囊肿、淋巴结肿大和血管性肿块是最常见的中纵隔病变；神经源性肿瘤和食管异常是最常见的后纵隔病变。
+在儿童中，最常见的纵隔肿瘤是神经源性肿瘤、淋巴瘤、生殖细胞肿瘤和囊肿。
+在儿童中，最常见的纵隔肿瘤是神经源性肿瘤、淋巴瘤、生殖细胞肿瘤和囊肿。
+常见的症状是胸痛和体重减轻，但很多是无症状的。
+常见的症状是胸痛和体重减轻，但很多是无症状的。
+阻塞性呼吸道症状和全身症状可能发生在儿童身上，很少发生在成人身上。
+阻塞性呼吸道症状和全身症状可能发生在儿童身上，很少发生在成人身上。
+CT静脉造影是最有价值的影像学技术。
+CT静脉造影是最有价值的影像学技术。
+治疗取决于肿块的病因。
+治疗取决于肿块的病因。

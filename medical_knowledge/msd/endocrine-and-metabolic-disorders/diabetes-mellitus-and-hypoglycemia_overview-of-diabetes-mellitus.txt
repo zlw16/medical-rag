@@ -1,0 +1,211 @@
+标题：糖尿病概述
+来源：https://www.msdmanuals.cn/professional/endocrine-and-metabolic-disorders/diabetes-mellitus-and-hypoglycemia/overview-of-diabetes-mellitus
+============================================================
+
+糖尿病是一种以血糖升高为特征的代谢性疾病，其特征在于胰岛素分泌不足，无法满足机体的需求。
+全球约有 11% 至 14% 的成年人患有糖尿病（1，2）。糖尿病主要分为 2 型，即1 型糖尿病（约占所有确诊糖尿病的 5%～10%）和2 型糖尿病（约占 90%～95%）（3）。其他较少见的类型占剩余的糖尿病病例。
+
+【参考文献】
+1.International Diabetes Federation.About diabetes: Facts and Figures.Accessed November 30, 2025.
+1.International Diabetes Federation.About diabetes: Facts and Figures.Accessed November 30, 2025.
+2.World Healh Organization.Diabetes: Key Facts.November 14, 2024.Accessed November 30, 2025.
+2.World Healh Organization.Diabetes: Key Facts.November 14, 2024.Accessed November 30, 2025.
+3.American Diabetes Association Professional Practice Committee.2.Diagnosis and Classification of Diabetes: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S27-S49.doi:10.2337/dc25-S002
+3.American Diabetes Association Professional Practice Committee.2.Diagnosis and Classification of Diabetes: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S27-S49.doi:10.2337/dc25-S002
+
+【糖尿病类型】
+
+【1型与2型糖尿病】
+1 型糖尿病的主要特征为由于自身免疫性破坏胰腺 β 细胞而导致胰岛素生成不足；而 2 型糖尿病则主要表现为胰岛素抵抗及胰岛素的相对不足。这两种类型的糖尿病可以通过多种特征来区分（见表1型和2型糖尿病的一般特征）。然而，1 型糖尿病与 2 型糖尿病之间存在显著重叠。因此基于年龄（青少年或成人）或者治疗类型（胰岛素依赖或非胰岛素依赖）的病名不再使用，因为年龄组和治疗方法存在重叠。
+糖尿病前期，又称糖调节受损或糖耐量受损，是正常葡萄糖代谢与糖尿病之间的中间状态，可能具有过渡性特征，最常进展为2 型糖尿病（见表糖尿病与糖尿病前期的诊断标准）。
+
+【1型及2型糖尿病的一般特征】
+1型及2型糖尿病的一般特征
+发病年龄
+最常见<30岁
+最常见>30岁
+酮症酸中毒倾向需用胰岛素治疗控制
+内源性胰岛素的血浆水平
+极低到低于可测范围
+不定；可为降低、正常或增高，取决于胰岛素抵抗及胰岛素分泌缺陷的程度
+双生（子）一致性
+≤50%
+>90%
+与特异HLA-D抗原相关
+诊断时胰岛细胞抗体
+是的，但也可以不存在
+胰岛病理学
+胰岛炎，大多数beta细胞选择性缺失
+胰岛体积缩小，外观正常；淀粉样（支链淀粉）沉积常见
+易发生糖尿病并发症（视网膜病变，肾病，神经病变，动脉粥样硬化性心血管病）
+高血糖症对非胰岛素类降糖药物有反应
+开始时对许多患者有效
+HLA = 人类白细胞抗原。
+HLA = 人类白细胞抗原。
+
+【糖尿病的其他类型和病因】
+其他类型的糖尿病病例所占比例较小。其病因包括：
+妊娠期糖尿病
+妊娠期糖尿病
+单基因糖尿病
+单基因糖尿病
+成人隐匿性自身免疫性糖尿病
+成人隐匿性自身免疫性糖尿病
+囊性纤维化相关糖尿病
+囊性纤维化相关糖尿病
+胰源性糖尿病(由于胰腺破坏或切除,包括慢性胰腺炎,有时称为3c型糖尿病)
+胰源性糖尿病(由于胰腺破坏或切除,包括慢性胰腺炎,有时称为3c型糖尿病)
+影响胰腺的其他疾病（如血色病）
+影响胰腺的其他疾病（如血色病）
+移植后糖尿病
+移植后糖尿病
+营养不良相关性糖尿病
+营养不良相关性糖尿病
+内分泌疾病（例如，库欣综合征,肢端肥大症)
+内分泌疾病（例如，库欣综合征,肢端肥大症)
+药物，尤其是糖皮质激素、β受体阻滞剂、蛋白酶抑制剂、非典型抗精神病药、免疫检查点抑制剂和钙调神经磷酸酶抑制剂
+药物，尤其是糖皮质激素、β受体阻滞剂、蛋白酶抑制剂、非典型抗精神病药、免疫检查点抑制剂和钙调神经磷酸酶抑制剂
+
+【妊娠期糖尿病】
+妊娠期糖尿病发生于某些孕妇,因为妊娠会诱发胰岛素抵抗。
+
+【单基因糖尿病】
+单基因糖尿病由影响β细胞功能、胰岛素作用或线粒体DNA的基因缺陷引起（如新生儿糖尿病）。
+
+【成人隐匿性自身免疫性糖尿病】
+潜伏性自身免疫性糖尿病是一种在成年期发生的变异类型，其特征为存在一种或多种自身抗体。其进展较典型1型糖尿病缓慢，部分成年患者在血糖异常初期无需胰岛素治疗。这种类型的糖尿病常因进展缓慢且临床特征与2型糖尿病重叠而被误诊为2型糖尿病。
+
+【糖尿病的的诊断】
+糖尿病可因典型的症状和体征而受到怀疑，而确诊则需检测血糖 (1,2)。它通常通过筛查被发现。
+符合以下任一条件即可诊断糖尿病：
+糖化血红蛋白(HbA1C)≥ 6.5% (≥ 48 mmol/mol)
+糖化血红蛋白(HbA1C)≥ 6.5% (≥ 48 mmol/mol)
+空腹血糖水平≥126mg/dL（≥7.0 mmol/L）
+空腹血糖水平≥126mg/dL（≥7.0 mmol/L）
+两小时血糖耐量测试结果（OGTT）≥ 200 毫克/分升（≥ 11.1 毫摩尔/升）
+两小时血糖耐量测试结果（OGTT）≥ 200 毫克/分升（≥ 11.1 毫摩尔/升）
+随机血糖≥200 mg/dL（≥11.1 mmol/L），伴有高血糖危象或低血糖危象的症状。
+随机血糖≥200 mg/dL（≥11.1 mmol/L），伴有高血糖危象或低血糖危象的症状。
+糖尿病的诊断根据患者的临床表现以及遗传学、免疫学和相关背景因素，分为1 型糖尿病、2 型糖尿病、妊娠期糖尿病或其他类型糖尿病（1）。
+HbA1C是血红蛋白与葡萄糖发生化学结合的产物，其水平随血糖升高而增加，并与前3个月的平均血糖水平存在确证的相关性。糖化血红蛋白（HbA1C）检测结果也被纳入糖尿病的诊断标准之中：
+HbA1C≥6.5%（≥ 48 mmol/mol）=糖尿病
+HbA1C≥6.5%（≥ 48 mmol/mol）=糖尿病
+HbA1C介于5.7～6.4%者为糖尿病前期，或是糖尿病的高危人群
+HbA1C介于5.7～6.4%者为糖尿病前期，或是糖尿病的高危人群
+然而，HbA1C 是血糖的间接测量；值可能假高或假低（见监测）并且可能因种族或民族而异。检测必须在获得认证的临床实验室进行，使用经过认证，并与参考分析方法保持标准化一致。即时指棒式HbA1C测量虽然可用于监测糖尿病控制，但不应用于诊断目的。
+血糖的检测最好是在禁食8～12小时后（FPG），或服用浓缩葡萄糖液2小时后（OGTT）进行（见表糖尿病和糖尿病前期的诊断标准）。
+口服葡萄糖耐量试验（OGTT）是指在液体中溶解75g葡萄糖负荷后2小时测量血浆葡萄糖。它在诊断糖尿病和糖耐量受损方面更为灵敏，但不如空腹血糖检测那样方便且具有可重复性。因此，它很少常规使用，除了诊断妊娠糖尿病并用于研究目的。
+实际上，糖尿病或空腹血糖调节受损常采用随机检测血糖或者糖化血红蛋白（HbA1C）来诊断。随机血糖>200mg/dL（>11.1mmol/L）有诊断意义，但是该值可能受到近期进餐影响，因此须经复查才可确诊；但如已出现糖尿病症状，则无需重复。
+在患病或住院患者中，血糖升高可能由应激性高血糖所致。住院期间出现血糖升高的患者，应在病情稳定且出院后评估是否患有糖尿病。
+曾经被广泛应用的尿糖的检测由于缺少敏感性和特异性，目前已经不再作为糖尿病的诊断或监测方法。
+
+【经验与提示】
+经验与提示
+即时指插式HbA1C检测不够准确，不能用于糖尿病的初步诊断。
+即时指插式HbA1C检测不够准确，不能用于糖尿病的初步诊断。
+糖尿病前期的诊断标准为 HbA1c、口服葡萄糖耐量试验（OGTT）或空腹血糖（FPG）介于正常范围与糖尿病诊断范围之间。（参见糖尿病及糖尿病前期诊断标准表）。
+
+【糖尿病及糖尿病前期诊断标准*】
+糖尿病及糖尿病前期诊断标准*
+糖尿病前期（血糖调节异常）
+空腹血糖(mg/dL[mmol/L])
+<100（<5.6）
+100～125（5.6～6.9）
+≥126（≥7.0）
+口服葡萄糖耐量试验(mg/dL[mmol/L])
+<140（<7.8）
+140～199（7.8～11.0）
+≥200（≥11.1）
+HbA1C (%)
+< 5.7
+5.7–6.4
+≥ 6.5
+随机血糖（mg/dL [mmol/L]）
+<200 (<11.1)
+>200 (>11.1) 在有症状的患者中
+* See alsoAmerican Diabetes Association Professional Practice Committee.2.Diagnosis and Classification of Diabetes: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1Suppl 1):S27-S49.doi:10.2337/dc25-S002
+FPG=空腹血糖；HbA1C = 糖化血红蛋白；OGTT=口服葡萄糖耐量试验，2小时血糖。
+* See alsoAmerican Diabetes Association Professional Practice Committee.2.Diagnosis and Classification of Diabetes: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1Suppl 1):S27-S49.doi:10.2337/dc25-S002
+FPG=空腹血糖；HbA1C = 糖化血红蛋白；OGTT=口服葡萄糖耐量试验，2小时血糖。
+
+【诊断参考文献】
+1.American Diabetes Association Professional Practice Committee.2.Diagnosis and Classification of Diabetes: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(Supplement_1):S27-S49.doi:10.2337/dc25-S002
+1.American Diabetes Association Professional Practice Committee.2.Diagnosis and Classification of Diabetes: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(Supplement_1):S27-S49.doi:10.2337/dc25-S002
+
+【糖尿病的并发症】
+糖尿病的急性并发症包括代谢紊乱，如糖尿病酮症酸中毒、低血糖及高渗高血糖状态。
+长期并发症主要因慢性高血糖引起，包括影响小血管（微血管）、大血管（大血管）或两者的血管并发症。
+微血管疾病是糖尿病 3 种常见且严重并发症的基础：
+视网膜病变
+视网膜病变
+糖尿病肾病
+糖尿病肾病
+神经病变
+神经病变
+微血管病变也可以明显减慢皮肤伤口的愈合，因此即使伤口很小，也可能发展成为深溃疡并且容易感染。强化血糖控制可以预防或延缓这些并发症的发生，但一旦发生就无法逆转。
+大血管疾病涉及大血管的动脉粥样硬化，可导致心绞痛和心肌梗死、短暂性脑缺血发作与卒中，以及外周动脉疾病。
+免疫功能受损是另外一个主要并发症，因高血糖可直接影响机体的细胞免疫。 糖尿病患者特别容易感染细菌和真菌。
+
+【特殊人群】
+糖尿病护理需要仔细调整患者因素，包括与年龄和生活方式、合并症以及其他急性或慢性疾病治疗的需要相关的因素。
+
+【难以维持目标血糖水平的患者】
+脆弱糖尿病是指患者血糖反复出现明显波动而无明显原因。1型糖尿病患者更容易出现血糖水平不稳定，因为内源性胰岛素分泌几乎完全缺失，并且在一些患者中，对低血糖的反调节反应受损。血浆葡萄糖水平不稳定的其他原因包括隐匿性感染，胃轻瘫（使饮食中碳水化合物的吸收不稳定）和其他内分泌失调（如艾迪生病）。
+对于长期难以维持可接受的血糖水平的患者，应评估影响血糖控制的情境因素。这些因素包括对患者的教育或理解不足，从而导致胰岛素管理错误、食物选择不理想以及以不一致的药物使用和食物摄入模式表现出来的心理社会压力。
+首要措施是全面复核其自我护理技术，包括胰岛素的准备与注射，以及血糖监测。增加自我监测次数可能发现先前未察觉的问题，并提供患者一些有用的信息。应取得患者的详尽饮食情况，包括进食时间，以寻找血糖控制不佳的可能原因。应通过体格检查和相应的实验室检测来排除诸如库欣综合征之类的潜在疾病。
+对于一些正在使用胰岛素治疗的患者而言，采用一种更强化的治疗方案（该方案允许根据血糖检测结果频繁调整剂量）会有所帮助。具有报警功能的持续葡萄糖监测以及传感器增强型或混合闭环胰岛素泵疗法对于在低血糖与高血糖之间剧烈波动的患者来说，是有效的治疗工具。
+
+【儿童和青少年】
+儿童与青少年糖尿病的详细讨论见其他章节。
+
+【心力衰竭患者】
+因心力衰竭住院的2型糖尿病患者，在急性病情改善后应使用钠-葡萄糖共转运蛋白2抑制剂（SGLT-2抑制剂）1。然而，对于重症疾病患者、处于禁食状态者，或存在酮血症或酮尿症者，应避免使用 SGLT2 抑制剂，因为上述情况会增加 SGLT2 抑制剂诱发糖尿病酮症酸中毒的风险。噻唑烷二酮类药物（如吡格列酮）亦应避免用于合并心力衰竭的患者。
+
+【住院患者】
+
+【糖尿病住院治疗】
+糖尿病可能是患者住院的主要原因，但也可能是由于伴发其他需要住院治疗的疾病。因磺酰脲类药物引起的低血糖、高血糖控制不佳或糖尿病并发症急性恶化的糖尿病患者可能从短期住院治疗中获益。
+
+【患有糖尿病的住院患者】
+当其他疾病需要住院治疗时，一些糖尿病患者仍可以按照他们在家中所采用的治疗方案继续进行治疗。然而，如果因为其他疾病较为紧急而血糖控制常被忽视时，血糖控制通常较为困难。 一些患者由于体力活动受限和急性疾病而使得血糖增高，而另一些患者则因饮食限制和其他疾病的症状（如恶心、呕吐、腹泻、食欲减退）而发生低血糖－特别是在降糖药物剂量没有进行相应调整时。 另外，相对于糖尿病治疗方案，医院的作息时间（如进餐、服药及其他安排）较为固定，所以住院患者血糖较难得到充分控制。
+对于住院患者，通常需要停止口服降血糖药物。二甲双胍可能会导致终末期肾病患者出现乳酸性酸中毒的情况，因此在需要使用造影剂时必须停止使用该药物。因此，除病情最稳定的住院患者外，所有患者均停用二甲双胍。磺脲类可导致低血糖，必须停用。
+大部分住院患者可用基础胰岛素治疗，可加用或不加用短效胰岛素。
+滑动剂量胰岛素不应该是纠正高血糖的唯一干预措施；它是一种反应性而非主动性干预，与基础-餐时胰岛素相比，其血糖控制效果较差。应调整长效胰岛素来预防高血糖，而不是仅用短效胰岛素纠正高血糖。
+使用胰岛素泵的患者在医院就诊期间应在可行和适当的情况下继续使用，同时配合血糖确认测定。已在进行连续血糖监测的患者，尤其是存在低血糖风险者，应继续使用连续血糖监测设备，并结合床旁指尖血糖检测，以确认低血糖并指导胰岛素剂量调整（1,2）。这种方法可能减少夜间低血糖（3）。
+支持在住院患者中使用胰高血糖素样肽-1（GLP-1）受体激动剂治疗的证据有限（1）。
+二肽基肽酶-4抑制剂（如西格列汀、沙格列汀、利格列汀、阿格列汀）相对安全，即使是肾病患者亦可使用（4），且可用于降低餐后血糖（1）。
+
+【重症患者的高血糖症】
+住院患者高血糖与感染率和死亡率增加有关 (1,5)。严重疾病可引起胰岛素抵抗和高血糖，即使是无糖尿病病史的患者。这种应激性高血糖症与不良预后有关，包括死亡率增加。胰岛素输注以维持血糖在140至180mg/dL（7.8至10.0 mmol/L）之间：
+防止诸如器官衰竭等不良后果
+防止诸如器官衰竭等不良后果
+可能促进中风的恢复
+可能促进中风的恢复
+提高需要长期（>5天）重症监护的患者的生存率
+提高需要长期（>5天）重症监护的患者的生存率
+维持不太严格的胰岛素目标可能已足以预防不良结局 (1)。重症患者，尤其是接受糖皮质激素或升压药治疗的患者和接受胃肠外营养的患者，由于胰岛素抵抗，可能需要非常高剂量的胰岛素（>5至10单位/小时）。对于病情危重的患者，可以采用胰岛素输注方案或计算机算法来调整胰岛素滴注量，以维持血糖正常水平。
+
+【接受手术的患者】
+相当比例的接受手术治疗患者合并糖尿病或糖尿病前期（部分病例尚未被诊断）。手术的生理压力会增加糖尿病患者的血糖，并在1型糖尿病患者中诱发糖尿病酮症酸中毒。
+对于耗时较短的手术，可采用皮下胰岛素注射。在1型糖尿病患者中，中效胰岛素的通常早晨剂量的二分之一或长效胰岛素（甘精胰岛素或地特胰岛素）剂量的75%至80%可以在手术前的晚上或早上（在长效胰岛素给药的通常时间）给予（1）。
+术中及术后应至少每2至4小时测一次血糖（如血糖过高还应检测酮体）（1）。葡萄糖输注，或按需每4～6小时皮下注射常规或短效胰岛素，使血糖维持在100～180mg/dL（5.5～10.0mmol/L），直至患者能够经口进食再恢复平时的胰岛素治疗方案。应加用额外剂量的中效或长效胰岛素，如果恢复常规治疗方案的时间出现大幅延迟（>24小时）。此方法也适用于胰岛素治疗的2型糖尿病患者，但可省略频繁检测酮体。
+有些医生主张手术当日停用皮下注射或吸入胰岛素，转而通过静脉输注胰岛素。对于正在进行长时间手术或大手术的患者，优选持续胰岛素泵注，特别是因为手术应激导致胰岛素的需求量增加。静脉输注胰岛素可以在静脉输注葡萄糖溶液的同时进行，以维持血糖。一种常见的做法是分别注射胰岛素与葡萄糖。胰岛素可以用1~2U/h的速度输注，同时5％的葡萄糖溶液以75~150mL/h的速度输注。对于胰岛素敏感性较高的1型糖尿病患者，可能需要降低胰岛素用量；而对于胰岛素抵抗性较高的2型糖尿病患者，则需要增加胰岛素用量。亦可使用10%葡萄糖输注。继续输注胰岛素以避免糖尿病酮症酸中毒的发生很重要，尤其是在1型糖尿病患者中，即使以低速率输注也应继续。
+胰岛素吸附到输液管上会导致药效不稳定，用胰岛素溶液预冲洗输液管可以最大限度地减少这一影响。在恢复过程中应持续滴注胰岛素，根据在康复室测定的血糖水平及以后每隔1～2小时测定的血糖水平调整胰岛素剂量。对于处于重症监护病房的术后患者，可以采用胰岛素输注方案来维持血糖正常水平。
+在手术时间少于2小时的情况下，可继续通过胰岛素泵及自动化胰岛素输注系统进行胰岛素给药（6）。持续葡萄糖监测仪（CGM）在手术期间仍可继续运行，但测量准确性可能会受到附近荧光透视或电凝术的影响。如果泵注入装置或连续血糖监测（CGM）设备位于手术区域内，可能需要移除。若患者在手术期间停用其胰岛素泵，可给予静脉胰岛素或皮下胰岛素以覆盖停泵期间的胰岛素需求。静脉或皮下胰岛素给药对于1型糖尿病患者尤为重要，此类患者不应出现任何胰岛素治疗覆盖中断的时间段。
+非胰岛素类糖尿病药物应在手术前停用。二甲双胍增加乳酸酸中毒的风险，必须在手术当日停用。SGLT-2抑制剂应在术前3至4天停用，以避免糖尿病酮症酸中毒。GLP-1受体激动剂可延迟胃排空，增加全身麻醉患者误吸的风险。专业学会建议患者在手术或操作当天停用每日一次的GLP-1受体激动剂(1)。每周一次给药的 GLP-1 受体激动剂使用者，以及使用双重葡萄糖依赖性促胰岛素多肽（GIP）/GLP-1 受体激动剂的患者，在接受操作或手术前至少 7 天应停用上述药物（7）。择期手术的HbA1C目标应<8%(<64.0 mmol/L)。
+
+【特殊人群参考】
+1.American Diabetes Association Professional Practice Committee.16.Diabetes Care in the Hospital: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(Supplement_1):S321-S334.doi:10.2337/dc25-S016
+1.American Diabetes Association Professional Practice Committee.16.Diabetes Care in the Hospital: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(Supplement_1):S321-S334.doi:10.2337/dc25-S016
+2.McCall AL, Lieb DC, Gianchandani R, et al.Management of Individuals With Diabetes at High Risk for Hypoglycemia: An Endocrine Society Clinical Practice Guideline.J Clin Endocrinol Metab.2023;108(3):529-562.doi:10.1210/clinem/dgac596
+2.McCall AL, Lieb DC, Gianchandani R, et al.Management of Individuals With Diabetes at High Risk for Hypoglycemia: An Endocrine Society Clinical Practice Guideline.J Clin Endocrinol Metab.2023;108(3):529-562.doi:10.1210/clinem/dgac596
+3.Singh LG, Satyarengga M, Marcano I, et al.Reducing Inpatient Hypoglycemia in the General Wards Using Real-time Continuous Glucose Monitoring: The Glucose Telemetry System, a Randomized Clinical Trial.Diabetes Care.2020;43(11):2736-2743.doi:10.2337/dc20-0840
+3.Singh LG, Satyarengga M, Marcano I, et al.Reducing Inpatient Hypoglycemia in the General Wards Using Real-time Continuous Glucose Monitoring: The Glucose Telemetry System, a Randomized Clinical Trial.Diabetes Care.2020;43(11):2736-2743.doi:10.2337/dc20-0840
+4.Kidney Disease: Improving Global Outcomes (KDIGO) Diabetes Work Group.KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease.Kidney Int.2022;102(5S):S1-S127.doi:10.1016/j.kint.2022.06.008
+4.Kidney Disease: Improving Global Outcomes (KDIGO) Diabetes Work Group.KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease.Kidney Int.2022;102(5S):S1-S127.doi:10.1016/j.kint.2022.06.008
+5.Barmanray RD, Kyi M, Worth LJ, et al.Hyperglycemia in Hospital: An Independent Marker of Infection, Acute Kidney Injury, and Stroke for Hospital Inpatients.J Clin Endocrinol Metab.2024;109(11):e2048-e2056.doi:10.1210/clinem/dgae051
+5.Barmanray RD, Kyi M, Worth LJ, et al.Hyperglycemia in Hospital: An Independent Marker of Infection, Acute Kidney Injury, and Stroke for Hospital Inpatients.J Clin Endocrinol Metab.2024;109(11):e2048-e2056.doi:10.1210/clinem/dgae051
+6.Cruz P, McKee AM, Chiang HH, et al.Perioperative Care of Patients Using Wearable Diabetes Devices.Anesth Analg.2025;140(1):2-12.doi:10.1213/ANE.0000000000007115
+6.Cruz P, McKee AM, Chiang HH, et al.Perioperative Care of Patients Using Wearable Diabetes Devices.Anesth Analg.2025;140(1):2-12.doi:10.1213/ANE.0000000000007115
+7.Kindel TL, Wang AY, Wadhwa A, et al.Multisociety clinical practice guidance for the safe use of glucagon-like peptide-1 receptor agonists in the perioperative period.Surg Obes Relat Dis.2024;20(12):1183-1186.doi:10.1016/j.soard.2024.08.033
+7.Kindel TL, Wang AY, Wadhwa A, et al.Multisociety clinical practice guidance for the safe use of glucagon-like peptide-1 receptor agonists in the perioperative period.Surg Obes Relat Dis.2024;20(12):1183-1186.doi:10.1016/j.soard.2024.08.033

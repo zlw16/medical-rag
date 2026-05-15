@@ -1,0 +1,65 @@
+标题：右室双出口
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-cardiovascular-anomalies/double-outlet-right-ventricle
+============================================================
+
+(参见先天性心血管畸形概述。)
+
+【右心室双出口的病理生理学】
+DORV 在解剖学和生理学方面有很大的差异，这取决于室间隔缺损 (VSD) 的大小和位置（VSD 无一例外都存在），以及肺动脉瓣狭窄存在及其程度。 （1)。
+
+【右心室双出口 (DORV) 的主要变异】
+右心室双出口 (DORV) 的主要变异
+AO=主动脉； LA = 左心房； LV = 左心室； PA = 肺动脉； RA = 右心房； RV = 右心室； VSD = 室间隔缺损。
+由于两根大血管都来自一个心室，因此通过左心房、左心室和 VSD 进入右心室的去饱和全身静脉血和高饱和肺静脉回流血会在一定程度上混合。然而，全身动脉血氧不饱和的程度在很大程度上受到流经心室缺损的血流以及肺动脉是否存在阻塞的影响。
+如果缺损是主动脉下的，则VSD分流进入主动脉和肺动脉，从而形成有效的大的左向右分流。生理学和临床表现与大型VSD几乎相同。如果主动脉下室间隔缺损伴有肺动脉狭窄，右心室中更多未饱和的血液会流向主动脉，导致紫绀和类似于法洛四联症的临床表现。
+如果VSD是肺下性的，来自左心室的高度饱和的血液主要流向肺动脉，而右心室的不饱和血液主要流向主动脉，导致中度至重度发绀，其生理学与大动脉转位(d-TGA)相同。当室间隔缺损是肺下性的，并且肺瓣膜紧邻缺损或部分覆盖室间隔缺损时，该缺损被称为Taussig-Bing异常。
+室间隔缺损位置的最后一种主要变体是不与任何大血管相连的肌肉缺损。临床发现介于其他类型的 VSD 之间，具有过多的肺血流和全身去饱和。
+DORV可能与其他多种先天性缺陷有关，但最常见的是伴有Taussig-Bing畸形的主动脉缩窄。
+
+【病理生理学参考文献】
+1.Yim D, Dragulescu A, Ide H, et al: Essential modifiers of double outlet right ventricle: Revisit with endocardial surface images and 3-dimensional print models.Circ Cardiovasc Imaging11(3):e006891, 2018.doi:10.1161/CIRCIMAGING.117.006891
+1.Yim D, Dragulescu A, Ide H, et al: Essential modifiers of double outlet right ventricle: Revisit with endocardial surface images and 3-dimensional print models.Circ Cardiovasc Imaging11(3):e006891, 2018.doi:10.1161/CIRCIMAGING.117.006891
+
+【右心室双出口的症状和体征】
+DORV 的临床表现从严重紫绀（Taussig-Bing 异常或任何 VSD 类型伴有肺动脉狭窄）到充血性心力衰竭和肺动脉高压（主动脉瓣下 VSD 且无肺流出道阻塞）不等。
+体格检查可能显示肺动脉高压的一个响亮的第二心音（S2），肺动脉狭窄引起的基底部收缩性射血杂音，发绀伴杵状指，如果出现缩窄，股动脉脉冲减少。
+
+【右心室双出口的诊断】
+胸片和心电图
+胸片和心电图
+超声心动图
+超声心动图
+MRI和CT
+MRI和CT
+心导管检查
+心导管检查
+心电图一致显示右心室肥厚且电轴右偏。如果肺流出道和肺动脉瓣畅通无阻，胸部X光检查可显示心脏扩大和肺血管增多。相反，在存在肺动脉狭窄的情况下，心脏大小可能正常，肺血管纹理正常或减少。
+超声心动图很好地显示了解剖结构，显示了VSD的大小和位置、主动脉和肺动脉的排列，以及肺动脉狭窄的存在或程度，无论是在瓣膜下方还是在瓣膜处。
+MRI或CT通过提供VSD和大血管的空间关系的细节，在计划手术干预方面是有价值的。
+心导管插入术可能在定义血液动力学方面发挥作用，包括VSD的任何梯度、肺动脉压力和血管阻力。
+
+【右心室双出口的治疗】
+治疗发绀和心力衰竭的药物
+治疗发绀和心力衰竭的药物
+手术治疗
+手术治疗
+在新生儿期，如果存在严重的肺动脉狭窄，可能需要前列腺素治疗严重的紫绀。如果肺血流量大大增加，就需要进行心力衰竭治疗。然而，手术干预总是需要的。
+对于最常见的DORV合并主动脉下室间隔缺损，通过关闭室间隔缺损，用心脏内补片将左室流出道血液直接射入主动脉，可以实现完全修复。如果存在肺动脉狭窄，则需要予以治疗缓解。
+在Taussig-Bing异常中，修复更为复杂，涉及动脉转换和VSD闭合，将左心室流出引导至主动脉。在室间隔缺损不适用于任何一条大血管的情况下，手术矫正更加困难，可能需要姑息手术，如主-肺分流术 或 Fontan 操作的分阶段手术。
+在双出口右心室 (DORV) 中，主动脉瓣和肺动脉瓣都连接到右心室。
+在双出口右心室 (DORV) 中，主动脉瓣和肺动脉瓣都连接到右心室。
+DORV 具有广泛的解剖学和生理学特征，具体取决于室间隔缺损 (VSD) 的大小和位置以及肺动脉瓣狭窄的存在和程度。
+DORV 具有广泛的解剖学和生理学特征，具体取决于室间隔缺损 (VSD) 的大小和位置以及肺动脉瓣狭窄的存在和程度。
+通过胸部 X 光检查、MRI、CT、心电图、超声心动图和心导管检查进行诊断。
+通过胸部 X 光检查、MRI、CT、心电图、超声心动图和心导管检查进行诊断。
+在新生儿时期，严重紫绀可能需要前列腺素治疗；也可能需要心力衰竭治疗。
+在新生儿时期，严重紫绀可能需要前列腺素治疗；也可能需要心力衰竭治疗。
+手术几乎不可避免；最常见的类型是可以完全修复的。
+手术几乎不可避免；最常见的类型是可以完全修复的。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+American Heart Association: Common Heart Defects: Provides overview of common congenital heart defects for parents and caregivers
+American Heart Association: Common Heart Defects: Provides overview of common congenital heart defects for parents and caregivers
+American Heart Association: Infective Endocarditis: Provides an overview of infective endocarditis, including summarizing prophylactic antibiotic use, for patients and caregivers
+American Heart Association: Infective Endocarditis: Provides an overview of infective endocarditis, including summarizing prophylactic antibiotic use, for patients and caregivers

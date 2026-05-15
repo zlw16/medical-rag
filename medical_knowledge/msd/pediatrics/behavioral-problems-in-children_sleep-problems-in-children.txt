@@ -1,0 +1,53 @@
+标题：儿童睡眠问题
+来源：https://www.msdmanuals.cn/professional/pediatrics/behavioral-problems-in-children/sleep-problems-in-children
+============================================================
+
+对于大多数孩子来说，睡眠问题是间歇性的或暂时的，通常不需要治疗。
+（另见儿童行为问题概述。）
+
+【正常的睡眠】
+约三分之二的婴儿能在6月龄时规律性整夜安睡（1）。在生命的最初几年，儿童可能会经历夜间醒来的时期，通常与疾病或日常生活的其他变化有关。随着发育成熟，快速眼动（REM）睡眠时间增加，睡眠阶段之间的转换也愈发复杂。对大多数人来说，夜间早期以非快速眼动睡眠为主，随着夜晚的推移，快速眼动睡眠逐渐增多。因此，非快速眼动现象集中于前半夜，快速眼动相关现象则出现于后半夜。区分真正的睡眠（快速眼动或非快速眼动）相关的现象和清醒的行为，可以帮助指导治疗。有时儿童时期的非快速眼动睡眠现象与以后偏头痛的出现有关（2）。
+如果孩子睡在父母（或照顾者）的床上，临床医生必须确定父母是否认为孩子与他们一起睡觉是个问题，因为睡眠习惯存在很大的文化差异（3，4）。美国儿科学会建议，婴儿应与父母睡在同一个房间，但不要睡在同一张床上；这被认为可以降低与睡眠有关的婴儿死亡风险，该风险属于婴儿意外猝死（SUID）的一个子类（5）。
+
+【正常睡眠参考】
+1.Stanford Medicine Children's Health.Infant Sleep.Accessed April 23, 2025.
+1.Stanford Medicine Children's Health.Infant Sleep.Accessed April 23, 2025.
+2.Pavkovic IM, Kothare SV.Migraine and Sleep in Children: A Bidirectional Relationship.Pediatr Neurol.2020;109:20-27.doi:10.1016/j.pediatrneurol.2019.12.013
+2.Pavkovic IM, Kothare SV.Migraine and Sleep in Children: A Bidirectional Relationship.Pediatr Neurol.2020;109:20-27.doi:10.1016/j.pediatrneurol.2019.12.013
+3.Mindell JA, Sadeh A, Wiegand B, et al.Cross-cultural differences in infant and toddler sleep.Sleep Med.2010;11(3):274–280.doi:10.1016/j.sleep.2009.04.012
+3.Mindell JA, Sadeh A, Wiegand B, et al.Cross-cultural differences in infant and toddler sleep.Sleep Med.2010;11(3):274–280.doi:10.1016/j.sleep.2009.04.012
+4.Willoughby A, Alikhani I, Karsikas M, Chua XY, Chee MWL.Country differences in nocturnal sleep variability: Observations from a large-scale, long-term sleep wearable study.Sleep Med.2023;110:155-165.doi:10.1016/j.sleep.2023.08.010
+4.Willoughby A, Alikhani I, Karsikas M, Chua XY, Chee MWL.Country differences in nocturnal sleep variability: Observations from a large-scale, long-term sleep wearable study.Sleep Med.2023;110:155-165.doi:10.1016/j.sleep.2023.08.010
+5.Moon RY, Carlin RF, Hand I; TASK FORCE ON SUDDEN INFANT DEATH SYNDROME AND THE COMMITTEE ON FETUS AND NEWBORN.Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment.Pediatrics.2022;150(1):e2022057990.doi:10.1542/peds.2022-057990
+5.Moon RY, Carlin RF, Hand I; TASK FORCE ON SUDDEN INFANT DEATH SYNDROME AND THE COMMITTEE ON FETUS AND NEWBORN.Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment.Pediatrics.2022;150(1):e2022057990.doi:10.1542/peds.2022-057990
+梦魇是REM睡眠过程中发生的可怕的噩梦。做噩梦的孩子有时能完全清醒并生动回忆梦境细节。
+噩梦通常无需引起警觉，除非它们频繁出现。在压力时期，甚至当孩子看到包含恐怖内容的电影或电视节目时，这些情况可能更频繁发生。如果噩梦经常发生，父母可以在噩梦发生前，特别是接近就寝时间，记录孩子白天的活动，看看是否能找出原因。
+
+【夜惊和梦游】
+夜惊是非快速眼动睡眠期的不完全觉醒现象，伴随极度焦虑，通常发生在入睡后的最初几小时内；最常见于3至8岁儿童。
+孩子尖叫并显得害怕，伴有心率加快和呼吸急促。孩子似乎没有意识到父母的存在，可能会剧烈地挣扎，对安慰没有反应。孩子可能会说话，但无法回答问题。通常，孩子几分钟后重新入睡。与噩梦不同，孩子无法详细回忆夜惊发作的细节。夜惊是很戏剧性的，因为孩子可能尖叫，并且在发作期间无法安抚。
+大约三分之一的夜惊儿童同时伴有梦游（即在睡着时起床走动，也称为梦游症）。约13%的儿童（高峰年龄为10岁）至少有过1次梦游发作(1)。
+夜惊和梦游几乎总是会自行停止，尽管偶尔的发作可能会持续多年。通常情况下不需要治疗，但如果该问题持续到青春期或成年期且/或情况严重，则可能需要治疗。在需要治疗的儿童中，夜惊有时可能对镇静剂或某些抗抑郁药有反应。有一些证据表明，患有周期性肢体运动相关睡眠障碍的儿童通常对铁剂补充有反应（2，3），即使在没有贫血的情况下。如果孩子打鼾和翻滚，也应考虑阻塞性睡眠呼吸暂停的评估。
+
+【夜惊和梦游】
+1.Petit D, Pennestri MH, Paquet J, et al.Childhood Sleepwalking and Sleep Terrors: A Longitudinal Study of Prevalence and Familial Aggregation.JAMA Pediatr.2015;169(7):653-658.doi:10.1001/jamapediatrics.2015.127
+1.Petit D, Pennestri MH, Paquet J, et al.Childhood Sleepwalking and Sleep Terrors: A Longitudinal Study of Prevalence and Familial Aggregation.JAMA Pediatr.2015;169(7):653-658.doi:10.1001/jamapediatrics.2015.127
+2.Leung W, Singh I, McWilliams S, et al.Iron deficiency and sleep—A scoping review.Sleep Med Rev. 2020;51:101274. doi:10.1016/j.smrv.2020.101274
+2.Leung W, Singh I, McWilliams S, et al.Iron deficiency and sleep—A scoping review.Sleep Med Rev. 2020;51:101274. doi:10.1016/j.smrv.2020.101274
+3.Peirano PD, Algarin CR, Chamorro RA, et al.Sleep alterations and iron deficiency anemia in infancy.Sleep Med.2020;11(7):637–642.doi:10.1016/j.sleep.2010.03.014
+3.Peirano PD, Algarin CR, Chamorro RA, et al.Sleep alterations and iron deficiency anemia in infancy.Sleep Med.2020;11(7):637–642.doi:10.1016/j.sleep.2010.03.014
+
+【抗拒上床】
+儿童（尤其是1至2岁之间的幼儿）常因分离焦虑而抗拒入睡，而年长一些的儿童则可能是在试图控制其所处环境的某些方面。年幼的孩子独自留在床上时常哭泣，或者爬出床去找父母。
+另一个常见的抗拒上床原因是入睡时间推迟。这些情况出现在儿童被允许比平时晚睡和晚起床的时候，持续足够多的夜晚后，他们的内部生物钟会重置为较晚的入睡时间。每晚将就寝时间提前几分钟是推荐的重置生物钟的干预措施；如有需要，可短期使用非处方助眠药物（如抗组胺药或褪黑素），帮助儿童重置生物钟。
+当父母长时间呆在房间里给孩子提供安慰或把孩子从床上抱起来时，他们对上床睡觉的抗拒可能会加剧。事实上，这些父母的反应会强化孩子们夜间醒来的行为，使孩子们试图重现他们入睡时的条件。为了避免这些问题，家长可以静静地坐在走廊上，让孩子能看到自己，并确保孩子待在床上。然后，这个孩子就学会了独自入睡，并且知道父母是不鼓励他们下床的。孩子也明白了，父母在身边，但是也不会给他们讲故事或一起玩耍。最终，孩子安静下来并入睡。给孩子提供一个依恋物（如泰迪熊）通常会有所帮助。小夜灯、白噪音或两者结合也能起到安抚作用。一些父母通过给孩子一张"睡眠通行证"来设置限制，孩子可以用这张通行证换取一次下床的机会。
+如果儿童习惯于在与父母有身体接触的情况下入睡，那么建立不同睡前习惯的第一步就是要逐渐减少接触，从全身接触到手部接触，再到父母坐在孩子床边。一旦孩子习惯了父母在床边时入睡，父母就可以离开房间，并逐渐增加离开的时间。
+
+【在夜间觉醒】
+所有人每晚都会醒来多次，而且大多数人每次都在没有干预的情况下重新入睡。儿童在搬家、患病或经历其他压力事件后，常反复出现夜间觉醒且难以重新入睡。如果孩子在下午晚些时候睡得太久，或是睡前玩得过度兴奋，那么睡眠问题可能会更加严重。
+因夜间醒来而允许孩子与父母同睡会强化这一行为。在夜间与孩子玩耍或喂食，或因其夜间醒来而责骂、惩罚孩子，同样是适得其反的做法。简单地安抚并送孩子回床通常更有效。包括阅读简短故事、提供喜欢的洋娃娃或毯子，以及使用小夜灯（适用于>3岁的儿童）的就寝习惯通常是有帮助的。为了防止觉醒，孩子夜间醒来的环境与入睡时的环境相同是非常重要的。家长和其他照顾者应尽量每晚保持例行程序，让孩子了解什么是被期望的。如果孩子身体健康，让他们哭几分钟，常常使他们能够安定下来，从而减少夜间觉醒。但过度哭闹适得其反，因为父母可能觉得需要恢复亲密接触的习惯。一些3到10岁孩子的父母使用红灯/绿灯时钟，告诉孩子什么时候可以起床（1）。
+睡眠障碍可能由不宁腿综合征引起，部分动作剧烈且打鼾的儿童可能患有阻塞性睡眠呼吸暂停。患有不宁腿综合症的儿童可能受益于补铁，即使他们没有缺铁性贫血。对动作剧烈伴打鼾的儿童，临床医生还应考虑睡眠呼吸暂停评估。
+
+【夜醒参考】
+1.Mindell JA, Meltzer LJ, Carskadon MA, Chervin RD.Developmental aspects of sleep hygiene: findings from the 2004 National Sleep Foundation Sleep in America Poll.Sleep Med.2009;10(7):771-779.doi:10.1016/j.sleep.2008.07.016
+1.Mindell JA, Meltzer LJ, Carskadon MA, Chervin RD.Developmental aspects of sleep hygiene: findings from the 2004 National Sleep Foundation Sleep in America Poll.Sleep Med.2009;10(7):771-779.doi:10.1016/j.sleep.2008.07.016

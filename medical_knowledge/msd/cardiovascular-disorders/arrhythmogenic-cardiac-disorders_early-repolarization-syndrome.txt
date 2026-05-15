@@ -1,0 +1,55 @@
+标题：早期复极综合征
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/early-repolarization-syndrome
+============================================================
+
+（参见心律失常概述和离子通道病概述。)
+早期复极指心电图表现通常包括 J 点升高≥0.1 mV，常伴有 QRS 波末端模糊或切迹，随后在除 V1 至 V3 之外的≥2 个连续导联中出现ST段升高。这种心电图模式并不罕见，因为它发生在约5%至10%的人群中 (1,2,3)，尤其是男性、年轻患者和运动员。大多数有这种早期复极心电图模式的人不会出现心律失常。然而，早期复极化在明显特发性心室颤动（VF）幸存者中更为常见（1，2，3）。早期复极综合征是指心电图在下壁或侧壁导联显示早期复极（提示更高的心律失常风险），且曾出现症状性室性心律失常的患者（4）。
+早期复极综合征似乎是由产生
+外向型钾离子电流通道的功能增益或
+外向型钾离子电流通道的功能增益或
+内部钠或钙电流通道功能丧失
+内部钠或钙电流通道功能丧失
+在动作电位的平台阶段，这些离子通道的变化放大了正常的小跨壁电压梯度。这些梯度在心电图上产生 J 波和 J 点升高，并容易导致多形性室性心动过速，这种心动过速可能会恶化为心室颤动，在没有其他早期复极原因的情况下（例如，体温过高或过低，低钙血症，高钾血症）。心电图变化类似于布鲁格达综合征但出现在早期复极综合征的下壁或外侧导联中，而不是出现在 Brugada 综合征的右胸前导联中。由于这一原因和其他相似之处，布鲁格达综合征和早期复极综合征被归类为 J 波综合征（4）。在VT/VF之前，早期复极模式可能变得更加夸张，并且VT/VF可能由心肌缺血发作引起。-
+早期复极化综合征似乎是可遗传的，但疾病的特异性基因突变很少被发现，这表明该疾病往往是多基因的。
+室性心律失常可能导致心悸和/或心脏骤停。可能会发生晕厥，但并不常见，因为早期复极综合征发生的室性心动过速很少自行终止（与其他一些导致室性心动过速的疾病不同，那些疾病中晕厥更常见）。
+
+【参考文献】
+1.Haïssaguerre M, Derval N, Sacher F, et al: Sudden cardiac arrest associated with early repolarization.N Engl J Med358(19):2016–2023, 2008.doi: 10.1056/NEJMoa071968
+1.Haïssaguerre M, Derval N, Sacher F, et al: Sudden cardiac arrest associated with early repolarization.N Engl J Med358(19):2016–2023, 2008.doi: 10.1056/NEJMoa071968
+2.Rosso R, Kogan E, Belhassen B, et al: J-point elevation in survivors of primary ventricular fibrillation and matched control subjects: incidence and clinical significance.J Am Coll Cardiol52(15):1231–1238, 2008.doi: 10.1016/j.jacc.2008.07.010
+2.Rosso R, Kogan E, Belhassen B, et al: J-point elevation in survivors of primary ventricular fibrillation and matched control subjects: incidence and clinical significance.J Am Coll Cardiol52(15):1231–1238, 2008.doi: 10.1016/j.jacc.2008.07.010
+3.Tikkanen JT, Anttonen O, Junttila MJ, et al: Long-term outcome associated with early repolarization on electrocardiography.N Engl J Med361(26):2529–2537, 2009.doi: 10.1056/NEJMoa0907589
+3.Tikkanen JT, Anttonen O, Junttila MJ, et al: Long-term outcome associated with early repolarization on electrocardiography.N Engl J Med361(26):2529–2537, 2009.doi: 10.1056/NEJMoa0907589
+4.Antzelevitch C, Yan GX, Ackerman MJ, et al: J-Wave syndromes expert consensus conference report: Emerging concepts and gaps in knowledge.Heart Rhythm13(10):e295–324, 2016.doi: 10.1016/j.hrthm.2016.05.024
+4.Antzelevitch C, Yan GX, Ackerman MJ, et al: J-Wave syndromes expert consensus conference report: Emerging concepts and gaps in knowledge.Heart Rhythm13(10):e295–324, 2016.doi: 10.1016/j.hrthm.2016.05.024
+
+【早期复极综合征的诊断】
+特征性临床和心电图表现
+特征性临床和心电图表现
+一级亲属的临床筛查
+一级亲属的临床筛查
+对于有多态性室性心动过速、室颤或心脏骤停（或在没有结构性心脏病的情况下有这些事件的家族史）的患者，以及心电图变化显示下部和/或侧面早期复极模式的患者，应考虑诊断。早期复极的典型心电图表现是 J 点升高≥1 毫米 (≥0.1 mV)，随后在≥2相邻的下导联和/或侧导联出现ST段升高。已经提出了针对早期复极综合征的概率诊断评分系统（上海早期复极综合征评分系统）（1）。
+由于很少发现特定的基因缺陷，通常不建议对患者或家庭成员进行基因检测。然而，一级家庭成员应通过临床和心电图进行评估。
+
+【诊断参考文献】
+1.Antzelevitch C, Yan GX, Ackerman MJ, et al: J-Wave syndromes expert consensus conference report: Emerging concepts and gaps in knowledge.Heart Rhythm13(10):e295–324, 2016.doi: 10.1016/j.hrthm.2016.05.024
+1.Antzelevitch C, Yan GX, Ackerman MJ, et al: J-Wave syndromes expert consensus conference report: Emerging concepts and gaps in knowledge.Heart Rhythm13(10):e295–324, 2016.doi: 10.1016/j.hrthm.2016.05.024
+
+【早期复极综合征的治疗】
+有症状时可植入心律转复除颤器（ICD）
+有症状时可植入心律转复除颤器（ICD）
+对于无症状具有早期复极心电图模式且无猝死家族史的患者，不建议进行治疗，因为此类患者的风险非常低。
+曾发生心脏骤停或出现心室颤动 (VF) 或多形性室性心动过速 (VT) 的患者处于高风险状态且有 ICD 的 I 类指征（1）。对于某些具有早期复极心电图模式和某些其他高危特征的患者，应考虑植入ICD（2)。
+当需要抑制频繁的ICD放电时，奎尼丁可能是有效的，它可以阻断早期复极综合征中可能增加的外向钾电流。静脉注射异丙肾上腺素可能对快速连续发生多发室性心律失常（电风暴）的患者有用。
+
+【治疗参考文献】
+1.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Circulation138(13):e272–e391, 2018.doi: 10.1161/CIR.0000000000000549
+1.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Circulation138(13):e272–e391, 2018.doi: 10.1161/CIR.0000000000000549
+2.Priori SG, Wilde AA, Horie M, et al: HRS/EHRA/APHRS expert consensus statement on the diagnosis and management of patients with inherited primary arrhythmia syndromes: document endorsed by HRS, EHRA, and APHRS in May 2013 and by ACCF, AHA, PACES, and AEPC in June 2013.Heart Rhythm10:1932–1963, 2013.doi: 10.1016/j.hrthm.2013.05.014
+2.Priori SG, Wilde AA, Horie M, et al: HRS/EHRA/APHRS expert consensus statement on the diagnosis and management of patients with inherited primary arrhythmia syndromes: document endorsed by HRS, EHRA, and APHRS in May 2013 and by ACCF, AHA, PACES, and AEPC in June 2013.Heart Rhythm10:1932–1963, 2013.doi: 10.1016/j.hrthm.2013.05.014
+早期复极综合征是一种遗传性疾病，容易导致多形性室性心动过速 (VT)、心室颤动 (VF) 和猝死。
+早期复极综合征是一种遗传性疾病，容易导致多形性室性心动过速 (VT)、心室颤动 (VF) 和猝死。
+对于出现无法解释的多形性室性心动过速、心室颤动、心脏骤停以及心电图下壁或外侧导联出现早期复极的患者，应考虑该诊断。
+对于出现无法解释的多形性室性心动过速、心室颤动、心脏骤停以及心电图下壁或外侧导联出现早期复极的患者，应考虑该诊断。
+对发生心脏骤停、心室颤动或多形性室性心动过速的患者放置 ICD。
+对发生心脏骤停、心室颤动或多形性室性心动过速的患者放置 ICD。

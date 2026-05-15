@@ -1,0 +1,95 @@
+标题：婴儿痉挛症
+来源：https://www.msdmanuals.cn/professional/pediatrics/neurologic-disorders-in-children/infantile-spasms
+============================================================
+
+婴儿痉挛症持续几秒钟，每天可多次重复。该症状通常出现在<1岁的儿童中，发病高峰期为4至6月龄（1）。癫痫发作可能在5岁左右自行缓解，但常被其他类型的癫痫发作所替代；特别是婴儿痉挛症可能进展为其他形式的癫痫，例如Lennox-Gastaut综合征（2）。
+婴儿痉挛症罕见，全球年发病率约1.5/10万儿童（3）。
+West综合征是婴儿痉挛症的一种类型，属于更广泛的癫痫性痉挛亚群，被称为婴儿癫痫性痉挛综合征。该术语用于描述脑电图显示高度节律紊乱的婴儿痉挛症患儿（4）。部分不符合West综合征全部诊断标准的婴儿痉挛症患儿仍可被诊断为婴儿癫痫性痉挛综合征。如果婴儿痉挛症的临床表现在婴儿期后出现或持续存在，则称为癫痫性痉挛。
+
+【参考文献】
+1.Cowan LD, Hudson LS.The epidemiology and natural history of infantile spasms.J Child Neurol.1991;6(4):355-364.doi:10.1177/088307389100600412
+1.Cowan LD, Hudson LS.The epidemiology and natural history of infantile spasms.J Child Neurol.1991;6(4):355-364.doi:10.1177/088307389100600412
+2.Riikonen R.Infantile Spasms: Outcome in Clinical Studies.Pediatr Neurol.2020;108:54-64.doi:10.1016/j.pediatrneurol.2020.01.015
+2.Riikonen R.Infantile Spasms: Outcome in Clinical Studies.Pediatr Neurol.2020;108:54-64.doi:10.1016/j.pediatrneurol.2020.01.015
+3.Jia JL, Chen S, Sivarajah V, Stephens D, Cortez MA.Latitudinal differences on the global epidemiology of infantile spasms: systematic review and meta-analysis.Orphanet J Rare Dis.2018;13(1):216.Published 2018 Nov 29.doi:10.1186/s13023-018-0952-x
+3.Jia JL, Chen S, Sivarajah V, Stephens D, Cortez MA.Latitudinal differences on the global epidemiology of infantile spasms: systematic review and meta-analysis.Orphanet J Rare Dis.2018;13(1):216.Published 2018 Nov 29.doi:10.1186/s13023-018-0952-x
+4.Pavone P, Polizzi A, Marino SD, et al.West syndrome: a comprehensive review.Neurol Sci.2020;41(12):3547-3562.doi:10.1007/s10072-020-04600-5
+4.Pavone P, Polizzi A, Marino SD, et al.West syndrome: a comprehensive review.Neurol Sci.2020;41(12):3547-3562.doi:10.1007/s10072-020-04600-5
+
+【婴儿痉挛症的病因】
+通常，婴儿痉挛发生在患有严重脑部疾病和发育异常的婴儿中，这些异常通常已被识别。这些疾病可能包括：
+围产期大脑损伤
+围产期大脑损伤
+代谢性障碍
+代谢性障碍
+结节性硬化症是婴儿痉挛症的常见原因，可导致药物难治性癫痫。Sturge-Weber综合征及神经纤维瘤病为其他神经皮肤病因。
+少数情况下，染色体异常（如唐氏综合征）、中枢神经系统结构畸形（如Aicardi综合征）及先天性嗜神经感染（如梅毒、寨卡病毒感染、巨细胞病毒感染）可导致婴儿痉挛症。
+有时无法确定婴儿痉挛症的病因。
+
+【婴儿痉挛症的病理生理学】
+导致婴儿痉挛症的神经损伤病理机制被认为受多种因素影响。先天性代谢缺陷及遗传易感性可导致与结构性病变（器质性病变）相似的神经损伤。此外，缺氧缺血及感染等后天因素也可能在出生后引起神经损伤。 因此，皮质与脑干的异常相互作用可能表现为婴儿痉挛症。
+
+【婴儿痉挛症的症状和体征】
+痉挛起始于躯干和四肢突然、快速、强直性的收缩，有时可持续数秒。痉挛症状从轻微的点头到全身肌肉收缩不等。
+痉挛分为3种类型：屈曲型、伸展型，或更常见的混合型（兼具2种特征）。屈肌痉挛会导致颈部、躯干、手臂和腿部突然弯曲。伸肌痉挛通常引发中轴（颈部及躯干）痉挛。混合性痉挛通常引起上半身屈曲伴下肢伸展。在所有这3种类型中，痉挛通常成群发生，通常是几十次，连续发生，通常在儿童醒来后发生，偶尔在入睡时发生。有时，婴儿痉挛初期易被误认为惊跳反射。发作后状态可表现为运动无反应性。
+发育迟缓（参见童年发展）可能在婴儿痉挛发作之前就存在。在发育正常的婴儿中，婴儿痉挛症发作后可能会出现发育倒退（例如，婴儿可能会停止微笑，或者失去坐起或翻滚的能力）。
+
+【婴儿痉挛症的诊断】
+清醒和睡眠阶段的脑电图（EEG）
+清醒和睡眠阶段的脑电图（EEG）
+神经影像学，优选MRI。
+神经影像学，优选MRI。
+如果尚未确诊，需进行病因学评估
+如果尚未确诊，需进行病因学评估
+既往史（例如，新生儿缺氧缺血性脑病）和/或症状和体征提示一些儿童婴儿痉挛症的诊断。会进行体格检查和神经系统检查，但通常除了患有结节性硬化症或其他神经皮肤综合征的儿童外，很少能发现具有诊断意义的特征性体征。
+脑电图用于确认诊断并检查特定异常。典型情况下，发作间期脑电图表现为高度失律（一种混乱的、高电压的多形性δ波和θ波，其上叠加有多灶性棘波放电）。可能的多种变异形式（例如，局灶性或不对称性高度失律）。癫痫发作期的典型脑电模式通常表现为突然、显著且弥漫性的脑电活动衰减。
+如果最近没有做过，最好进行神经影像学检查，首选MRI。
+
+【检查确定病因】
+如果神经影像学检查或以前的病史不清楚，用于确定原因的检查可包括
+如果怀疑有代谢紊乱但在新生儿筛查中未诊断，则进行实验室检查（例如，全血细胞计数及分类；测量血糖、电解质、血尿素氮、肌酐、钠、钙、镁、磷、血清氨基酸和尿液有机酸；肝功能检查）
+如果怀疑有代谢紊乱但在新生儿筛查中未诊断，则进行实验室检查（例如，全血细胞计数及分类；测量血糖、电解质、血尿素氮、肌酐、钠、钙、镁、磷、血清氨基酸和尿液有机酸；肝功能检查）
+基因检测（可提供癫痫基因组）
+基因检测（可提供癫痫基因组）
+脑脊液分析检查代谢紊乱
+脑脊液分析检查代谢紊乱
+（参见可疑遗传性代谢病的诊断程序。)
+
+【婴儿痉挛症的治疗】
+肌内促肾上腺皮质激素（ACTH）
+肌内促肾上腺皮质激素（ACTH）
+口服糖皮质激素
+口服糖皮质激素
+氨己烯酸（尤其用于结节性硬化症）
+氨己烯酸（尤其用于结节性硬化症）
+婴儿痉挛症对典型的抗癫痫药无效。
+婴儿痉挛症的标准治疗方案通常采用ACTH和皮质类固醇，部分病例可选用氨己烯酸(1)。
+ACTH可采用每日肌肉注射给药方式，分为高剂量与低剂量两种治疗方案。小儿癫痫研究联盟 (PERC) 建议使用更高的剂量，给药 2 周，然后每 3 天逐渐减少，直到完成 29 天的治疗。如果尝试了低剂量治疗并且在 2 周内没有停止痉挛，则使用较高剂量(2)。
+皮质类固醇（例如口服泼尼松）持续 4 至 7 周。
+氨己烯酸是当痉挛由结节性硬化症引起时的首选药物。它也经常用于已存在严重脑损伤或畸形的儿童，以及不耐受或对ACTH无反应的儿童。如需增加口服氨己烯酸剂量，应在约一周内逐渐调整用药方案。没有足够的证据表明任何其他抗癫痫药或生酮饮食是有效的。
+对于一些抵抗性痉挛或局灶性皮质畸形的患者，癫痫手术可以消除癫痫发作。
+有证据表明，越快开始有效的治疗，神经发育的结果越好，特别是在没有确定病因的情况下。
+
+【治疗参考文献】
+1.Go CY, Mackay MT, Weiss SK, et al.Evidence-based guideline update: medical treatment of infantile spasms.Report of the Guideline Development Subcommittee of the American Academy of Neurology and the Practice Committee of the Child Neurology Society.Neurology.2012;78(24):1974-1980.doi:10.1212/WNL.0b013e318259e2cf
+1.Go CY, Mackay MT, Weiss SK, et al.Evidence-based guideline update: medical treatment of infantile spasms.Report of the Guideline Development Subcommittee of the American Academy of Neurology and the Practice Committee of the Child Neurology Society.Neurology.2012;78(24):1974-1980.doi:10.1212/WNL.0b013e318259e2cf
+2.Knupp KG, Coryell J, Nickels KC, et al.Response to treatment in a prospective national infantile spasms cohort.Ann Neurol.2016;79(3):475–484. doi:10.1002/ana.24594
+2.Knupp KG, Coryell J, Nickels KC, et al.Response to treatment in a prospective national infantile spasms cohort.Ann Neurol.2016;79(3):475–484. doi:10.1002/ana.24594
+
+【脑瘫的预后】
+婴儿痉挛症的过早死亡率为5～31%（1），且与病因相关。
+芬兰一项对214名婴儿痉挛症患儿的纵向研究显示（随访率100%），常见长期结局包括自闭症、多动行为，且大部分存在智力障碍。约三分之一患儿存在癫痫持续发作。经过35年完整随访期后，约三分之一患儿死亡（2）。需在其他人群中进行进一步的纵向研究以验证普适性。
+
+【预后参考】
+1.Riikonen R.Long-term outcome of West syndrome: A study of adults with a history of infantile spasms.Epilepsia.1996;37(4):367–372.doi:10.1111/j.1528-1157.1996.tb00573.x
+1.Riikonen R.Long-term outcome of West syndrome: A study of adults with a history of infantile spasms.Epilepsia.1996;37(4):367–372.doi:10.1111/j.1528-1157.1996.tb00573.x
+2.Riikonen R.Infantile Spasms: Outcome in Clinical Studies.Pediatr Neurol.2020;108:54-64.doi:10.1016/j.pediatrneurol.2020.01.015
+2.Riikonen R.Infantile Spasms: Outcome in Clinical Studies.Pediatr Neurol.2020;108:54-64.doi:10.1016/j.pediatrneurol.2020.01.015
+婴儿痉挛持续几秒钟，可以每天复发许多次；它们可以在约5岁时自然消退，但通常被其他类型的癫痫发作所取代。
+婴儿痉挛持续几秒钟，可以每天复发许多次；它们可以在约5岁时自然消退，但通常被其他类型的癫痫发作所取代。
+通常，婴儿痉挛发生在有潜在的脑部疾病和发育异常的婴儿身上，这些疾病通常已经被发现；结节性硬化症是常见的病因。
+通常，婴儿痉挛发生在有潜在的脑部疾病和发育异常的婴儿身上，这些疾病通常已经被发现；结节性硬化症是常见的病因。
+做脑电图检查以确诊，并进行其他检查（例如脑部MRI和代谢及基因检查）以评估婴儿痉挛的原因。
+做脑电图检查以确诊，并进行其他检查（例如脑部MRI和代谢及基因检查）以评估婴儿痉挛的原因。
+婴儿痉挛症可采用促肾上腺皮质激素（ACTH）、口服糖皮质激素或氨己烯酸（结节性硬化症所致痉挛的首选药物）治疗。
+婴儿痉挛症可采用促肾上腺皮质激素（ACTH）、口服糖皮质激素或氨己烯酸（结节性硬化症所致痉挛的首选药物）治疗。

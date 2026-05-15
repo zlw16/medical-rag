@@ -1,0 +1,155 @@
+标题：重症患者中的躁动、意识模糊和神经肌肉阻滞问题
+来源：https://www.msdmanuals.cn/professional/critical-care-medicine/approach-to-the-critically-ill-patient/agitation-confusion-and-neuromuscular-blockade-in-critically-ill-patients
+============================================================
+
+重症监护室（ICU）中的患者常出现躁动、意识混乱及不适感。他们会出现谵妄（ICU 谵妄）。这会造成患者不适并妨碍治疗和安全。 严重者会危及患者生命，如拔除气管插管和静脉输液管。
+
+【躁动和意识模糊的病因】
+对危重病人而言，躁动、意识模糊或两者兼有，可能是由原发病、医疗并发症、治疗措施或ICU环境引起的（见表格重症监护患者躁动或意识模糊的一些原因）。尤其要牢记，神经肌肉阻滞仅仅掩盖疼痛和躁动，并不能防止其发生；被麻痹的患者可能承受着巨大的痛苦。
+
+【重症监护患者躁动或意识模糊的一些原因】
+重症监护患者躁动或意识模糊的一些原因
+潜在的疾病
+头部外伤
+毒素摄入
+电解质异常（例如，高钙血症、低钙血症、低镁血症、高钠血症、低钠血症、低磷血症）
+疼痛和不适（诸如外伤、外科手术、气管插管、静脉输液、抽血或鼻胃管）
+器官衰竭（如，肝性脑病）
+药物或物质
+镇静剂和其它中枢神经系统活性药物，特别是阿片类药物、苯二氮䓬类药物、H2受体阻滞剂和抗组胺药
+酒精、违禁药物或两者的戒断
+重症监护室 (ICU) 环境*
+睡眠剥夺（如噪声、强光或全天候医疗干预）
+对死亡的恐惧
+操作不适引起的焦虑
+*尤其是老年患者的问题。
+*尤其是老年患者的问题。
+
+【躁动与意识模糊的评估】
+针对“激惹”使用镇静剂前要回顾病史和体格检查。
+首先要考虑已有的外伤或疾病是主要的原因。查阅护理记录并与医护人员交谈，可能发现血压和尿量呈下降趋势（提示中枢神经系统[CNS]灌注不足）以及睡眠模式紊乱。对用药记录进行审查，以识别镇痛和镇静不足或过度的情况。
+从既往病史中了解有无潜在病因。 潜在肝病提示可能门体性脑病（肝性脑病）。 已知药物成瘾或滥用，则需考虑戒断综合征。
+当患者清醒配合时，询问有何不适，特别是疼痛、呼吸困难及未报的药物成瘾。
+
+【体格检查】
+氧饱和度<90%提示低氧性病因。低血压、尿量少提示中枢神经系统灌注不足。发热和心动过速提示脓毒症、药物戒断或震颤性谵妄。颈项强直提示脑膜炎，但对激惹病人很难确定该体征。神经系统定位体征见于脑卒中、颅内出血或颅内压增高。
+持续评估躁动的程度和镇静的必要性是预防发病率增加的关键。最常用的两种镇静评分量表是里士满躁动-镇静量表（RASS）和赖克镇静-躁动量表（SAS）。有时也会使用拉姆齐镇静量表。使用量表允许不同观察者对病情趋势的评估方法更具一致性。接受神经肌肉阻滞的患者很难评估，因为他们尽管看起来静止不动，但可能处于高度躁动和不适的状态。 因此，必须有规律地（例如每天）中止肌松，使评估顺利进行。
+意识模糊评估法（见表用于诊断谵妄的意识模糊评估法）可用于筛查作为躁动原因的谵妄。
+
+【Richmond躁动-镇静量表】
+Richmond躁动-镇静量表
+过度好斗的或暴力的；对工作人员的直接危险
+明显激惹
+拉扯或移除气管插管或导管，或对医护人员有攻击性行为
+频繁无目的运动或患者-呼吸机不同步
+焦虑或忧虑，但动作无攻击性或不剧烈
+清醒且安静
+昏昏欲睡
+并非完全警觉，但对声音刺激能保持（超过10秒）清醒，并有眼神交流。
+轻度镇静
+对声音刺激有短暂（少于10秒）的觉醒及眼神接触
+中度镇静
+对声音刺激有任何动作（但无眼神接触）
+深度镇静
+对声音没有反应，但对身体刺激有任何动作
+不能唤醒
+对声音或物理刺激没有反应
+Adapted fromSessler CN, Gosnell MS, Grap MJ, et al: The Richmond Agitation-Sedation Scale: Validity and reliability in adult intensive care unit patients.American Journal of Respiratory and Critical Care Medicine166(10)1338–1344, 2002.doi: 10.1164/rccm.2107138
+Adapted fromSessler CN, Gosnell MS, Grap MJ, et al: The Richmond Agitation-Sedation Scale: Validity and reliability in adult intensive care unit patients.American Journal of Respiratory and Critical Care Medicine166(10)1338–1344, 2002.doi: 10.1164/rccm.2107138
+
+【Riker镇静-激惹量表】
+Riker镇静-激惹量表
+带有危险的激惹
+试图移除监护仪及有关设备或爬出床外，翻来覆去，攻击医护人员
+明显激惹
+尽管频繁给予口头安抚，仍躁动不安；咬气管插管；需要约束。
+焦虑或不安，试图移动，劝说后能安静
+安静、合作
+安静，易唤醒，能按指引行事
+难以唤醒，对口头指令或轻轻摇动有反应，但很快入睡
+深度镇静
+无法交流，对身体刺激有反应，对语言指令无反应，可以自发移动
+不能唤醒
+无法交流，对疼痛刺激几乎无反应
+Riker RR, Picard JT, Fraser GL.Prospective evaluation of the Sedation-Agitation Scale for adult critically ill patients.Crit Care Med.1999;27(7):1325-1329.doi:10.1097/00003246-199907000-00022
+Riker RR, Picard JT, Fraser GL.Prospective evaluation of the Sedation-Agitation Scale for adult critically ill patients.Crit Care Med.1999;27(7):1325-1329.doi:10.1097/00003246-199907000-00022
+
+【Ramsay镇静量表】
+Ramsay镇静量表
+临床评分
+患者特征
+清醒；躁动或不安，或两者兼有
+清醒；合作、定向力完整、安静
+觉醒，但仅对命令作出响应
+睡眠状态；对轻微的眉间敲击或大声的听觉刺激有快速反应
+睡眠状态；对轻微的眉间敲击或大声的听觉刺激反应迟钝
+睡眠状态；对眉间敲击或大声的听觉刺激没有反应
+Adapted fromRamsay MA, Savage TM, Simpson B, et al: Controlled sedation withalphaxalone-alphadolone.British Medical Journal2(5920):656–659, 1974. doi: 10.1136/bmj.2.5920.656
+Adapted fromRamsay MA, Savage TM, Simpson B, et al: Controlled sedation withalphaxalone-alphadolone.British Medical Journal2(5920):656–659, 1974. doi: 10.1136/bmj.2.5920.656
+
+【用于诊断谵妄的意识混乱评估方法（CAM）*】
+用于诊断谵妄的意识混乱评估方法（CAM）*
+所需的特点
+急性发作和病情波动
+以下问题的肯定回答反映了该特点：
+“是否病人的精神状态突然和平日不同？“
+“是否异常行为在日内有波动（即，时有时无，或忽重忽轻）？“
+注意力不集中
+以下问题的肯定回答反映了该特点：
+“病人有注意力集中的困难么（例如，容易分神，无法对交谈内容保持专注）？“
+需要一条下面的特征
+思维凌乱
+以下问题的肯定回答反映了该特点：
+“是否病人思维凌乱没有条理 （例如，散漫或无关的谈话，模糊或毫无逻辑的思维，毫无征兆的话题跳跃）？“
+意识水平改变
+“警觉”之外的回答反映了意识改变：
+“总体而言，你如何评价这个病人的意识水平？“
+正常=警觉
+正常=警觉
+高度警觉=警醒
+高度警觉=警醒
+打瞌睡但易唤醒=嗜睡
+打瞌睡但易唤醒=嗜睡
+难以唤醒=昏睡
+难以唤醒=昏睡
+不能唤醒=昏迷
+不能唤醒=昏迷
+* 谵妄的诊断需要具备前2项特征加上后2项特征中的1项。
+†这些信息通常由家庭成员或护士收集。
+Inouye SK, van Dyck CH, Alessi CA, Balkin S, Siegal AP, Horwitz RI.澄清意识混乱：意识混乱评估方法。A new method for detection of delirium.Ann Intern Med.1990;113(12):941-948.doi:10.7326/0003-4819-113-12-941
+* 谵妄的诊断需要具备前2项特征加上后2项特征中的1项。
+†这些信息通常由家庭成员或护士收集。
+Inouye SK, van Dyck CH, Alessi CA, Balkin S, Siegal AP, Horwitz RI.澄清意识混乱：意识混乱评估方法。A new method for detection of delirium.Ann Intern Med.1990;113(12):941-948.doi:10.7326/0003-4819-113-12-941
+选用恰当检查进一步分析临床的异常情况（如，低氧、低血压和发热）。无需常规做头颅CT，除非有神经定位体征，或已排除其他病因。在头部放置双频指数（BIS）监测仪（专用脑电图监测设备）以捕捉大脑皮层电活动，有助于判断接受神经肌肉阻滞治疗患者的镇静或躁动程度。
+
+【治疗躁动和意识模糊】
+应处理基础病情（例如，低氧血症、休克、脓毒症、创伤性脑损伤的进展）。 优化环境，使之与诊疗相适宜（如，光线暗淡、安静，尽可能减少夜间睡眠干扰）。时钟、日历、窗外环境、电视和广播节目能帮助患者维系与外面世界的连接，减少意识紊乱的发生。家人陪伴与固定的护理人员会使患者平静。
+药物治疗应针对导致症状的原因。例如，疼痛使用镇痛药治疗；焦虑与失眠使用镇静剂治疗；而精神错乱及谵妄则用小剂量抗精神病药物治疗。当需要大剂量镇静镇痛，以至于危及气道和抑制呼吸驱动时，需要气管插管。多种药物可选；通常，对于需要频繁进行神经系统检查或正在尝试拔管的患者，更倾向于使用短效药物。
+静脉适量使用阿片类药物镇痛；对神志清醒但无法交流的病人，如果有骨折或手术等疼痛因素，同样需予镇痛治疗。机械通气会给病人带来不适感，通常联合使用阿片类药物和镇静剂。芬太尼具有作用强效、持续时间短和心血管系统副作用小的优点，常作为首选的阿片类镇痛剂。芬太尼的常用剂量为每小时30至100微克；个体差异很大。
+尽管使用了镇痛药物，许多插管的危重病人仍会躁动不安，因此还需辅以镇静措施。镇静剂可使患者在允许使用较低剂量镇痛剂的同时获得舒适感。
+对于短期镇静，可使用镇静催眠药丙泊酚（例如，年轻、健康的患者每分钟5至50微克/公斤）。长期（≥48小时）大剂量使用丙泊酚会增加丙泊酚输注综合征（PRIS）风险，该综合征以代谢性酸中毒、横纹肌溶解、高脂血症、急性肾损伤、心力衰竭及胰腺炎为特征，常可致命（1，2）。由于甘油三酯水平升高（例如，>400 mg/dL [4.52 mmol/L]）可能预示着PRIS (3)，因此在使用大剂量丙泊酚2至3天后必须检测甘油三酯水平。
+右美托咪定具有抗焦虑、镇静和某些镇痛作用，并且不影响呼吸驱动。右美托咪定常用于需要机械通气的患者。右美托咪定所产生的镇静特性与深度，可使接受机械通气的患者在保持舒适状态的同时，仍能进行交流或易被唤醒。最常见的副作用是低血压和心动过缓。常用剂量为0.2至0.7mcg/kg/h，但是一些患者需要剂量高达1.5mcg/kg/h。右美托咪定通常仅短期使用（例如，<48小时）。
+氯胺酮是一种解离性麻醉剂，可提供镇痛和镇静作用。氯胺酮是一种 NMDA（N-甲基-D-天冬氨酸）受体非竞争性拮抗剂。氯胺酮的优点包括维持呼吸驱动以及对心血管抑制作用极小。氯胺酮还具有支气管扩张作用，这可能对哮喘患者有益。 最常见的副作用包括喉痉挛和幻视。 典型剂量为静脉注射1至2毫克/公斤，然后根据需要静脉注射0.5至1毫克/公斤。
+苯二氮䓬类药物（如劳拉西泮、咪达唑仑）可在某些情况下使用（如急性癫痫发作/癫痫持续状态、酒精戒断）。劳拉西泮常用的镇静方案是：每1～2小时静脉注射1～2mg；如为插管患者，可按每小时1～2mg连续输注。这些药物可能导致呼吸抑制、低血压、谵妄等风险，部分患者甚至在停药后仍会出现持久的生理效应。长效苯二氮䓬类药物如地西泮、氟西泮和氯氮䓬应避免使用，因为与其他药物（如丙泊酚）相比，这些药物可能延迟拔管并延长ICU住院时间（4）。抗胆碱能作用较弱的抗精神病药物如氟哌丁醇1～3mg静注，与苯二氮䓬类药物合用效果较好。
+
+【神经肌肉阻滞】
+对于插管患者，神经肌肉阻滞（如持续输注维库溴铵）不能替代充分镇静；它仅消除问题（躁动）的表征而未解决根本问题。然而，在需要患者保持不动的检查（如CT、MRI）或操作（如中心静脉置管）期间，或对于尽管已给予充分镇痛和镇静但仍无法进行有效通气的患者，可能需要使用神经肌肉阻滞剂。使用镇静药（包括右美托咪定）时，神经肌肉阻滞剂极少使用。
+应避免长时间使用神经肌肉阻滞剂，除非患者有严重肺损伤且无法安全地进行自主呼吸。使用>1至2天可能导致持续性肌无力，尤其在同时给予糖皮质激素时更为明显。
+
+【治疗参考文献】
+1.Li WK, Chen XJC, Altshuler D, et al.The incidence ofpropofolinfusion syndrome in critically-ill patients.J Crit Care.2022;71:154098.doi:10.1016/j.jcrc.2022.154098
+1.Li WK, Chen XJC, Altshuler D, et al.The incidence ofpropofolinfusion syndrome in critically-ill patients.J Crit Care.2022;71:154098.doi:10.1016/j.jcrc.2022.154098
+2.Smith HAB, Besunder JB, Betters KA, et al.2022 Society of Critical Care Medicine Clinical Practice Guidelines on Prevention and Management of Pain, Agitation, Neuromuscular Blockade, and Delirium in Critically Ill Pediatric Patients With Consideration of the ICU Environment and Early Mobility.Pediatr Crit Care Med.2022;23(2):e74-e110.doi:10.1097/PCC.0000000000002873
+2.Smith HAB, Besunder JB, Betters KA, et al.2022 Society of Critical Care Medicine Clinical Practice Guidelines on Prevention and Management of Pain, Agitation, Neuromuscular Blockade, and Delirium in Critically Ill Pediatric Patients With Consideration of the ICU Environment and Early Mobility.Pediatr Crit Care Med.2022;23(2):e74-e110.doi:10.1097/PCC.0000000000002873
+3.Diaz JH,  Prabhakar A, Urman RD, et al.Propofolinfusion syndrome: A retrospective analysis at a level 1 trauma center.Crit Care Res Pract. 2014;2014:346968. doi: 10.1155/2014/346968
+3.Diaz JH,  Prabhakar A, Urman RD, et al.Propofolinfusion syndrome: A retrospective analysis at a level 1 trauma center.Crit Care Res Pract. 2014;2014:346968. doi: 10.1155/2014/346968
+4.Devlin JW, Skrobik Y, Gélinas C, et al.Clinical Practice Guidelines for the Prevention and Management of Pain, Agitation/Sedation, Delirium, Immobility, and Sleep Disruption in Adult Patients in the ICU.Crit Care Med.2018;46(9):e825-e873.doi:10.1097/CCM.0000000000003299
+4.Devlin JW, Skrobik Y, Gélinas C, et al.Clinical Practice Guidelines for the Prevention and Management of Pain, Agitation/Sedation, Delirium, Immobility, and Sleep Disruption in Adult Patients in the ICU.Crit Care Med.2018;46(9):e825-e873.doi:10.1097/CCM.0000000000003299
+原发病、急性疾病的并发症、治疗和ICU环境都可以导致躁动和意识紊乱。
+原发病、急性疾病的并发症、治疗和ICU环境都可以导致躁动和意识紊乱。
+病史和体检常提示病因和指导后续检查。
+病史和体检常提示病因和指导后续检查。
+治疗病因（包括使用镇痛药缓解疼痛及优化环境以减少意识混乱），并对残余的躁动采用镇静药物处理，如丙泊酚、右美托咪定、氯胺酮或劳拉西泮。
+治疗病因（包括使用镇痛药缓解疼痛及优化环境以减少意识混乱），并对残余的躁动采用镇静药物处理，如丙泊酚、右美托咪定、氯胺酮或劳拉西泮。
+神经肌肉阻滞剂仅仅是掩盖疼痛和躁动；肌松患者可能正承受着巨大的痛苦。
+神经肌肉阻滞剂仅仅是掩盖疼痛和躁动；肌松患者可能正承受着巨大的痛苦。

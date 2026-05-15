@@ -1,0 +1,15 @@
+标题：心电图检查（ECG）在肺部疾病的应用
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/diagnostic-and-therapeutic-pulmonary-procedures/electrocardiography-ecg-in-pulmonary-disorders
+============================================================
+
+心电图（ECG）是其他肺部检查的有用辅助手段，因为它能提供右心信息，从而有助于诊断慢性肺动脉高压和肺栓塞等肺部疾病。
+（参见心血管疾病中的心电图检查。）
+慢性肺动脉高压可导致慢性右心房扩张及右心室肥厚与扩张，其心电图表现可能包括：P波振幅增高（肺性P波）、II、III和aVF导联ST段压低；QRS轴右偏；P波向量下移；以及胸前导联R波递增不良。
+慢性阻塞性肺疾病（COPD）患者因肺脏扩张导致心脏和心电图电极间距离增大而表现为低电压 (1)。
+肺栓塞（次大面积或大面积）可能引起急性右心室负荷过重或衰竭，其典型（但不常见）心电图表现为：电轴右偏（QRS轴在90至180度之间，V1导联R波>S波，见于约28%的肺栓塞患者），I导联S波加深，III导联Q波加深，以及III导联和胸前导联ST段抬高与T波倒置（S1Q3T3型，见于约15%的肺栓塞患者）（2）。右束支阻滞和V1 - V3导联T波反转也时有发生。窦性心动过速是肺栓塞中最常见的心电图表现，约30%的肺栓塞患者出现窦性心动过速。
+
+【参考文献】
+1.Ichikawa A, Matsumura Y, Ohnishi H, et al.Identification of electrocardiographic values that indicate chronic obstructive pulmonary disease.Heart Lung.2016;45(4):359-362.doi:10.1016/j.hrtlng.2016.04.004
+1.Ichikawa A, Matsumura Y, Ohnishi H, et al.Identification of electrocardiographic values that indicate chronic obstructive pulmonary disease.Heart Lung.2016;45(4):359-362.doi:10.1016/j.hrtlng.2016.04.004
+2.Krintratun S, Srichuachom W, Wongtanasarasin W.Prevalence of Electrocardiographic Abnormalities in Patients with Acute Pulmonary Embolism: A Systematic Review and Meta-Analysis.J Clin Med.2025;14(13):4750.doi:10.3390/jcm14134750
+2.Krintratun S, Srichuachom W, Wongtanasarasin W.Prevalence of Electrocardiographic Abnormalities in Patients with Acute Pulmonary Embolism: A Systematic Review and Meta-Analysis.J Clin Med.2025;14(13):4750.doi:10.3390/jcm14134750

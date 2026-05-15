@@ -1,0 +1,29 @@
+标题：肠重复畸形
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-gastrointestinal-anomalies/intestinal-duplication
+============================================================
+
+(参见先天性胃肠道畸形概述。)
+根据其长度，重复可以是囊性的或管状的。
+肠道重复畸形较为罕见，发生率为每 4500 例活产中 1 例（1）。男性似乎更常受到影响。 大约三分之一的受影响儿童患有胃肠道或泌尿道的先天性异常。 结肠重复多伴有泌尿生殖系统畸形。椎体缺损也是常见的。
+肠重复畸形的病因是未知的。理论包括再通的异常，血管损伤，胚胎憩室的持续存在和部分孪生。这些重复畸形的内衬最常与相邻胃肠道部分的黏膜相似，但也可出现异位组织，包含胃或胰腺黏膜。
+重复畸形最常见的部位是回肠，其次是食管、结肠、胃、空肠和十二指肠（1）。肠重复畸形症状常出现在1岁或2岁之内。
+重复可以在产前通过超声波检测，出生后偶然发现，或者一旦孩子出现阻塞性症状（如腹痛、呕吐、无法排便、腹胀）、慢性疼痛、胃肠道出血或腹部肿块（1，2）。胸部重复畸形可导致呼吸系统症状或喂养问题。含有异位胃或胰腺粘膜的重复可能导致穿孔。
+
+【参考文献】
+1.Sangüesa Nebot C, Llorens Salvador R, Carazo Palacios E, et al.Enteric duplication cysts in children: varied presentations, varied imaging findings.Insights Imaging.2018;9(6):1097-1106.doi:10.1007/s13244-018-0660-z
+1.Sangüesa Nebot C, Llorens Salvador R, Carazo Palacios E, et al.Enteric duplication cysts in children: varied presentations, varied imaging findings.Insights Imaging.2018;9(6):1097-1106.doi:10.1007/s13244-018-0660-z
+2.Rattan KN, Bansal S, Dhamija A.Gastrointestinal duplication presenting as neonatal intestinal obstruction: An experience of 15 years at tertiary care centre.J Neonatal Surg.2017;6(1):5. doi:10.21699/jns.v5i4.432
+2.Rattan KN, Bansal S, Dhamija A.Gastrointestinal duplication presenting as neonatal intestinal obstruction: An experience of 15 years at tertiary care centre.J Neonatal Surg.2017;6(1):5. doi:10.21699/jns.v5i4.432
+手术切除
+手术切除
+症状性肠重复畸形的治疗是及早手术切除重复的肠段。
+对于无症状重复畸形，手术的必要性和时机尚不清楚（1）。
+对于近端病变，当有高技能的内镜医生可用时，可以考虑内镜方法 (2,3)。
+
+【治疗参考文献】
+1.Sangüesa Nebot C, Llorens Salvador R, Carazo Palacios E, et al.Enteric duplication cysts in children: varied presentations, varied imaging findings.Insights Imaging.2018;9(6):1097-1106.doi:10.1007/s13244-018-0660-z
+1.Sangüesa Nebot C, Llorens Salvador R, Carazo Palacios E, et al.Enteric duplication cysts in children: varied presentations, varied imaging findings.Insights Imaging.2018;9(6):1097-1106.doi:10.1007/s13244-018-0660-z
+2.Özcan R, Hakalmaz AE, Emre Ş, et al.Endoscopic septum division of tubular esophageal duplication in two children and systematic review.Pediatr Surg Int.2022;38(11):1525-1531.doi:10.1007/s00383-022-05205-z
+2.Özcan R, Hakalmaz AE, Emre Ş, et al.Endoscopic septum division of tubular esophageal duplication in two children and systematic review.Pediatr Surg Int.2022;38(11):1525-1531.doi:10.1007/s00383-022-05205-z
+3.Gjeorgjievski M, Manickam P, Ghaith G, Cappell MS.Safety and Efficacy of Endoscopic Therapy for Nonmalignant Duodenal Duplication Cysts: Case Report and Comprehensive Review of 28 Cases Reported in the Literature.Medicine (Baltimore).2016;95(22):e3799.doi:10.1097/MD.0000000000003799
+3.Gjeorgjievski M, Manickam P, Ghaith G, Cappell MS.Safety and Efficacy of Endoscopic Therapy for Nonmalignant Duodenal Duplication Cysts: Case Report and Comprehensive Review of 28 Cases Reported in the Literature.Medicine (Baltimore).2016;95(22):e3799.doi:10.1097/MD.0000000000003799

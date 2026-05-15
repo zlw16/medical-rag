@@ -1,0 +1,109 @@
+标题：细菌概述
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/bacteria-and-antibacterial-medications/overview-of-bacteria
+============================================================
+
+细菌是具有环状双链 DNA 的微生物（少数Streptomyces（链霉菌属）除外），且具有细胞壁（支原体种除外）。大多数细菌生活在细胞外，但有些细菌优先在细胞内生存和复制。
+专性细胞内病原体只能在宿主细胞内生长、繁殖和引起疾病。这些病原体的例子包括衣原体和立克次体。
+兼性细胞内病原体能够在宿主细胞内外生存和繁殖。这些病原体的例子包括伤寒沙门氏菌、布鲁氏菌、土拉弗朗西斯菌、淋病奈瑟菌、脑膜炎奈瑟菌、军团菌、李斯特菌和结核分枝杆菌。
+许多细菌作为正常菌群存在于人体内，通常数量大，且在体内许多部位存在（如在胃肠道和皮肤）。其中仅小部分是人类的致病菌。
+可以根据以下标准将细菌进行分类（参考表常见病原菌的分类）。
+细菌可能是
+圆柱形（杆菌）
+圆柱形（杆菌）
+球状（球菌）
+球状（球菌）
+螺旋（螺旋体）
+螺旋（螺旋体）
+少数球菌、多数杆菌以及大部分螺旋体是能动的。
+鉴别普通细菌最常用的染色法为革兰染色。革兰阳性菌在经过碘固定、乙醇脱色和番红复染后能保留紫色的染料结晶（表现为深蓝色），革兰阴性菌则不能保留紫色结晶，呈现红色。革兰阴性菌多一层含脂多糖（内毒素）的外膜，增加了这些细菌的毒力和抗生素耐药性。（其他增强细菌的致病性的因素见促进微生物入侵的因素）。
+齐尔-尼尔森染色和金永染色是抗酸染色，主要用于鉴定分枝杆菌，尤其是M. tuberculosis（结合分岐杆菌）。它们还可以鉴定革兰阳性杆菌诺卡菌和原生动物隐孢子虫、环孢子虫以及囊孢子球虫病。石炭酸复红试剂初染，之后用盐酸和乙醇进行脱色，并且用亚甲基蓝进行复染色。
+荧光染色（例如，金胺-罗丹明）也可鉴定抗酸生物体，但此染色法需要特殊的荧光显微镜。
+（也可以看看显微镜。）
+一些细菌由荚膜包围，对于一些有荚膜的细菌（如，肺炎链球菌,流感嗜血杆菌），荚膜的存在可阻止吞噬细胞对细菌的吞噬。包膜增加了细菌的毒力。
+需氧菌（专性需氧）在培养基中生长和产能需要氧气。它们利用细胞有氧呼吸作用产生能量。
+厌氧菌（专性厌氧）则不需要氧气，在有空气存在的培养基中无法生长。它们通过发酵或者无氧呼吸来产生能量。厌氧菌通常位于胃肠道内、阴道内、牙缝中以及血供受损的慢性伤口内。
+兼性菌可以在有氧或无氧的环境中生长。它们在缺乏氧气时通过发酵或无氧呼吸产生能量，而在有氧的情况下通过有氧细胞呼吸作用产生能量。 微量需氧菌更适合在减少氧浓度的环境下（如2%～10%）生存。
+微需氧细菌可以在氧气缺乏的环境中生长。例子包括Campylobacter物种和Helicobacter pylori。
+专性细胞内寄生虫，例如衣原体，从宿主细胞获取能量，而不是自己产生能量。
+
+【常见致病菌的分类】
+常见致病菌的分类
+专性需氧菌
+革兰阴性球菌
+Moraxella catarrhalis
+Neisseria gonorrhoeae,*N. meningitidis*
+革兰阳性杆菌
+Corynebacterium jeikeium
+抗酸杆菌
+Mycobacterium avium复合群,M. kansasii,M. leprae,M. tuberculosis
+Nocardia（诺卡氏菌）种
+非发酵革兰氏阴性杆菌，非肠杆菌目（原肠杆菌科）
+Acinetobacter calcoaceticus
+伊丽莎白王国脑膜炎（旧称脑膜败血性黄杆菌）
+铜绿假单胞菌,*P. alcaligenes（产碱假单胞菌）, 其他Pseudomonas（假单胞菌）种
+Stenotrophomonas maltophilia
+营养要求高的革兰阴性球杆菌和杆菌
+布鲁氏菌属
+Bordetella（百日咳杆菌）属
+Francisella（弗朗西斯菌）属
+军团菌属
+螺旋体科（螺旋菌）
+专性厌氧菌
+革兰阴性杆菌
+Bacteroides fragilis（脆弱拟杆菌）种，其他拟杆菌种
+Fusobacterium梭形杆菌属
+Prevotella（普雷沃氏菌）属
+革兰阴性球菌
+Veillonella属
+革兰阳性球菌
+Peptococcus niger
+消化链球菌属
+无芽孢革兰阳性杆菌
+Actinomyces（放线菌属）zhong
+Bifidobacterium（双歧杆菌）属
+Eubacterium（真杆菌属）种
+Cutibacterium(棒状杆菌属) （旧称Propionibacterium（原丙酸杆菌属）菌种)
+产生内生孢子的革兰阳性杆菌
+肉毒杆菌、产气荚膜杆菌、破伤风梭菌、其他梭菌属
+兼性厌氧菌
+革兰阳性球菌，过氧化氢酶阳性
+金黄色葡萄球菌（凝固酶阳性），表皮葡萄球菌（凝固酶阴性），其他凝固酶阴性的葡萄球菌
+革兰阳性球菌，过氧化氢酶阴性
+Enterococcus faecalis,E. faecium
+Streptococcus agalactiae（无乳链球菌）（B组链球菌）、S. bovis（牛链球菌）、S. pneumoniae（肺炎链球菌）、S. pyogenes（化脓性链球菌）（A组链球菌）、viridans group streptococci（草绿色链球菌群）（S. mutans[变形链球菌]、S. mitis[缓症链球菌]、S. salivarius[唾液链球菌]、S. sanguis[血链球菌]）、S. anginosus（咽峡炎链球菌）群（S. anginosus[咽峡炎链球菌]、S. milleri[米勒链球菌]、S. constellatus[星座链球菌]）
+Gemella morbillorum
+革兰阳性杆菌
+炭疽杆菌
+Erysipelothrix rhusiopathiae
+加德纳阴道菌（革兰氏染色不定）
+革兰阴性杆菌
+肠杆菌目 (Citrobacter（柠檬酸杆菌）种，肠杆菌种、大肠杆菌、Klebsiella（克雷白氏杆菌）种、Morganella morganii（摩根菌）、Proteus（变形杆菌）种、Plesiomonas shigelloides（志贺氏菌）、Providencia rettgeri（志贺邻单胞菌）、伤寒沙门氏菌、其他Salmonella（沙门氏菌）种、Serratia marcescens（黏质沙雷菌）、志贺菌种、肠结肠炎耶尔森菌、鼠疫耶氏菌)
+发酵性非肠杆菌目
+Aeromonas hydrophila
+Chromobacterium violaceum
+Pasteurella multocida
+营养要求高的革兰阴性球杆菌和杆菌
+Aggregatibacter（聚集杆菌）（原Actinobacillus（放线杆菌））actinomycetemcomitans（（放线菌）
+Eikenella corrodens
+流感嗜血杆菌，其他Haemophilus（嗜血杆菌）属
+肺炎支原体
+微需氧菌
+弯曲杆菌
+Campylobacter jejuni
+幽门螺杆菌
+Vibrio cholerae,V. vulnificus
+螺旋体科（螺旋菌）
+伯氏疏螺旋体
+梅毒螺旋体
+专性胞内寄生菌
+衣原体科
+Chlamydia trachomatis,C. psittaci,Chlamydophila pneumoniae
+柯克斯体科
+贝氏柯克斯体
+立克次体目
+Rickettsia prowazekii,R. rickettsii,R. typhi
+Orientia tsutsugamushi
+查菲埃立克体
+Anaplasma phagocytophilum
+* 尽管这些细菌通常被认为是专性需氧菌，但通过使用亚硝酸盐作为另一种电子受体，它们能够在没有氧气的情况下生长。
+* 尽管这些细菌通常被认为是专性需氧菌，但通过使用亚硝酸盐作为另一种电子受体，它们能够在没有氧气的情况下生长。

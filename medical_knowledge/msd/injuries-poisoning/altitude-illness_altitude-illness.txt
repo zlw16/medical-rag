@@ -1,0 +1,246 @@
+标题：高原病
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/altitude-illness/altitude-illness
+============================================================
+
+随着海拔高度的增加，大气压力降低，而空气中的氧气百分比保持不变；因此，氧气的分压随海拔的增加而降低。在海拔5800米（19,000英尺）的地方，氧气的分压大约是海平面的一半，而在珠穆朗玛峰的顶峰（8848米，29,032英尺），它大约是海平面的三分之一（1）。
+大多数人可以在1天内爬到1500到2000米（5000到6500英尺）而不生病，但是大约25%的人爬到2500米（8000英尺）（2），40%的人爬到4340米（14,000英尺）（3）会患上某种形式的高原疾病，最常见的是AMS。在尼泊尔喜马拉雅山脉的宗教朝圣者中（4）以及攀登肯尼亚和坦桑尼亚的乞力马扎罗山的登山者中（5），已经报道了极高的发病率（> 60%），这些地方因过快的上升速度而闻名，这是高原病发展的主要危险因素。其他导致高原病发展的因素包括达到的最大海拔高度和睡眠海拔高度。
+
+【风险因素】
+高海拔的影响在个体之间差异很大。但一般而言，对于上升到海拔超过 2000 米（5000 至 6500 英尺）的人来说，危险因素包括以下一项或多项：
+高原病史
+高原病史
+达到的最大海拔高度
+达到的最大海拔高度
+生活在海平面附近
+生活在海平面附近
+海拔提升太高太快
+海拔提升太高太快
+用力过度
+用力过度
+在过高海拔地区睡觉
+在过高海拔地区睡觉
+虽然哮喘、高血压、糖尿病、冠状动脉疾病及轻度慢性阻塞性肺病等疾病不作为高原病风险因素，但在高海拔地区低氧血症可能会加剧其中一些疾病引起的症状（6)。
+体能训练不能防止高原病 (7)。
+
+【经验与提示】
+经验与提示
+体能训练不能预防高原病。
+体能训练不能预防高原病。
+在海拔低于 3000 米（10000 英尺）的地方停留不到几周似乎对孕妇或胎儿没有危险（8）。
+
+【参考文献】
+1.West JB, Boyer SJ, Graber DJ, et al: Maximal exercise at extreme altitudes on Mount Everest.J Appl Physiol Respir Environ Exerc Physiol55(3):688-698, 1983.doi: 10.1152/jappl.1983.55.3.688
+1.West JB, Boyer SJ, Graber DJ, et al: Maximal exercise at extreme altitudes on Mount Everest.J Appl Physiol Respir Environ Exerc Physiol55(3):688-698, 1983.doi: 10.1152/jappl.1983.55.3.688
+2.Honigman B, Theis MK, Koziol-McLain J, et al: Acute mountain sickness in a general tourist population at moderate altitudes.Ann Intern Med1993 Apr 15;118(8):587-92.doi: 10.7326/0003-4819-118-8-199304150-00003.Erratum in:Ann Intern Med120(8):698, 1994.
+2.Honigman B, Theis MK, Koziol-McLain J, et al: Acute mountain sickness in a general tourist population at moderate altitudes.Ann Intern Med1993 Apr 15;118(8):587-92.doi: 10.7326/0003-4819-118-8-199304150-00003.Erratum in:Ann Intern Med120(8):698, 1994.
+3.Hackett PH, Rennie D, Levine HD: The incidence, importance, and prophylaxis of acute mountain sickness.Lancet2(7996):1149-1155, 1976.doi: 10.1016/s0140-6736(76)91677-9
+3.Hackett PH, Rennie D, Levine HD: The incidence, importance, and prophylaxis of acute mountain sickness.Lancet2(7996):1149-1155, 1976.doi: 10.1016/s0140-6736(76)91677-9
+4.Basnyat B, Subedi D, Sleggs J, et al: Disoriented and ataxic pilgrims: An epidemiological study of acute mountain sickness and high-altitude cerebral edema at a sacred lake at 4300 m in the Nepal Himalayas.Wilderness Environ Med11(2):89-93, 2000.doi: 10.1580/1080-6032(2000)011[0089:daapae]2.3.co;2
+4.Basnyat B, Subedi D, Sleggs J, et al: Disoriented and ataxic pilgrims: An epidemiological study of acute mountain sickness and high-altitude cerebral edema at a sacred lake at 4300 m in the Nepal Himalayas.Wilderness Environ Med11(2):89-93, 2000.doi: 10.1580/1080-6032(2000)011[0089:daapae]2.3.co;2
+5.Davies AJ, Kalson NS, Stokes S, et al: Determinants of summiting success and acute mountain sickness on Mt Kilimanjaro (5895 m).Wilderness Environ Med20(4):311-317, 2009.doi: 10.1580/1080-6032-020.004.0311
+5.Davies AJ, Kalson NS, Stokes S, et al: Determinants of summiting success and acute mountain sickness on Mt Kilimanjaro (5895 m).Wilderness Environ Med20(4):311-317, 2009.doi: 10.1580/1080-6032-020.004.0311
+6.Luks AM, Hackett PH: Medical conditions and high-altitude travel.N Engl J Med386(4):364-373, 2022.doi: 10.1056/NEJMra2104829
+6.Luks AM, Hackett PH: Medical conditions and high-altitude travel.N Engl J Med386(4):364-373, 2022.doi: 10.1056/NEJMra2104829
+7.Sareban M, Schiefer LM, Macholz F, et al: Endurance athletes are at increased risk for early acute mountain sickness at 3450 m.Med Sci Sports Exerc52(5):1109-1115, 2020.doi: 10.1249/MSS.0000000000002232
+7.Sareban M, Schiefer LM, Macholz F, et al: Endurance athletes are at increased risk for early acute mountain sickness at 3450 m.Med Sci Sports Exerc52(5):1109-1115, 2020.doi: 10.1249/MSS.0000000000002232
+8.Jean D, Moore LG: Travel to high altitude during pregnancy: Frequently asked questions and recommendations for clinicians.High Alt Med Biol13(2):73-81, 2012.https://doi.org/10.1089/ham.2012.102
+8.Jean D, Moore LG: Travel to high altitude during pregnancy: Frequently asked questions and recommendations for clinicians.High Alt Med Biol13(2):73-81, 2012.https://doi.org/10.1089/ham.2012.102
+
+【高原病的病理生理学】
+严重的急性低氧血症可在几分钟内引起中枢神经系统功能的改变，但急性高原病的发展较慢，在攀登到给定海拔后1至5天。
+尽管在该领域进行了大量研究，但急性高原病（AMS）和高海拔脑水肿（HACE）的发病机制仍不清楚。这些疾病可能具有相同的病理生理学和严重程度的连续性，HACE代表了光谱的极端。
+这些疾病之间的一些特征存在差异。AMS可能涉及由于多种刺激而激活的三叉神经血管系统，而HACE则涉及血脑屏障渗漏和颅内压升高 (1)。
+高原肺水肿（HAPE）是缺氧引起肺动脉高压导致肺泡及间质水肿，导致氧合作用受损。肺小血管缺氧性收缩不协调，导致相对不收缩的区域充盈压升高，毛细血管壁损伤及毛细血管渗漏。其他因素，诸如交感神经过度兴奋有可能与此相关(2)。
+长期居住在高海拔地区的居民，当他们在低海拔地区短暂停留后回到高海拔地区时可能发生高原肺水肿。这种现象被称为再入性肺水肿。最近的报告表明，长期居住在高海拔地区的居民也可能发生非心源性肺水肿（即所谓的高海拔地区居民HAPE），即使他们没有下降到较低海拔地区，然后又从较低海拔地区返回 (3, 4)。
+
+【环境适应性】
+环境适应是一系列综合的反应，使身体能够忍受高海拔缺氧。这与适应过程不同，适应过程指的是受自然选择影响的表型特征，并增加了长期居民，如长期居住在青藏高原或埃塞俄比亚高原的人们，在高海拔地区生存的能力（5）。大多数人能在几天内较好的适应海拔高达3000米（10,000英尺）的环境。海拔越高，需要更多时间来适应环境。然而，没有人能完全适应并长期居住在海拔>5100米（>17,000英尺）的地方。
+适应环境出现持续过度通气，这会增加肺泡和动脉的PO2含量，但会导致呼吸性碱中毒。血液pH值往往在几天内随着碳酸氢盐从尿液中排出后恢复正常；当pH值恢复正常，通气会进一步增加。最初心输出量增加，随着时间的推移恢复到基线值；红细胞总量及有氧运动耐受力也会在几周内增加。
+
+【病理生理学参考文献】
+1.Luks AM, Ainslie PN, Lawley JS, et al: InHigh Altitude Medicine and Physiology, edited by Ward, Milledge, and West.6th Edition.Boca Raton, FL.CRC Press.
+1.Luks AM, Ainslie PN, Lawley JS, et al: InHigh Altitude Medicine and Physiology, edited by Ward, Milledge, and West.6th Edition.Boca Raton, FL.CRC Press.
+2.Swenson, ER, Bartsch P: High-altitude pulmonary edema.Compr Physiol2012.2(4): 2753-2773.
+2.Swenson, ER, Bartsch P: High-altitude pulmonary edema.Compr Physiol2012.2(4): 2753-2773.
+3.Scoggin CH, Hyers TM, Reeves JT, et al: High-altitude pulmonary edema in the children and young adults of Leadville, Colorado.N Engl J Med297(23):1269-1272, 1977.doi: 10.1056/NEJM197712082972309
+3.Scoggin CH, Hyers TM, Reeves JT, et al: High-altitude pulmonary edema in the children and young adults of Leadville, Colorado.N Engl J Med297(23):1269-1272, 1977.doi: 10.1056/NEJM197712082972309
+4.Ebert-Santos C: High-altitude pulmonary edema in mountain community residents.High Alt Med Biol18(3):278-284, 2017.doi: 10.1089/ham.2016.0100
+4.Ebert-Santos C: High-altitude pulmonary edema in mountain community residents.High Alt Med Biol18(3):278-284, 2017.doi: 10.1089/ham.2016.0100
+5.Simonson TS: Altitude adaptation: A glimpse through various lenses.High Alt Med Biol16(2):125-137, 2015.
+5.Simonson TS: Altitude adaptation: A glimpse through various lenses.High Alt Med Biol16(2):125-137, 2015.
+
+【高原反应的症状和体征】
+急性高原病无疑是高原病中最常见的形式。
+
+【急性高原病（AMS）】
+除非海拔高度在2400米（8000英尺）以上，否则急性高原病是不太可能发生，但是在一些高度敏感的人群中，它也可以在较低的海拔发生。 其特征为头痛加上以下至少一个症状：疲劳，胃肠道症状（食欲减退、恶心、呕吐）或持续头晕。 睡眠不足以前被认为是AMS的症状，但现在不再被认为是诊断标准之一。症状通常出现在海拔上升后6～10小时内，在大多数情况下，在24～48小时消退 (1)。AMS 在滑雪场很常见，部分受影响者会将其误认为是饮酒过量（宿醉）或病毒性疾病。
+
+【高原脑水肿 （HACE）】
+HACE很少发生，在上升后的1至5天内发生。显著的脑水肿表现为头痛和表现为意识不清、嗜睡以及昏迷的弥漫性脑病。步态共济失调是可靠的早期警惕信号(2, 3)。 癫痫发作，局灶性缺陷（如颅神经麻痹，偏瘫），发热和脑膜体征不常见，应考虑其他诊断。视乳头水肿可能存在，但对于诊断来说不是必需的。除非HACE得到及时治疗，否则昏迷和死亡可能发生在几小时内。
+
+【高原肺水肿（HAPE）】
+高原肺水肿通常在海拔快速上升至>2400米（>8000英尺）后24～96小时内发生，是高原病导致死亡的主要原因。它可能先于AMS发生，但也可能在未表现出其他高原疾病迹象的人群中单独发生。
+起初患者出现劳力性呼吸困难，活动耐量下降以及干咳。之后，呼吸困难出现在简单的活动或休息时。 粉红色或血性痰及呼吸困难是晚期表现。体检时，常见发绀、心动过速、呼吸急促和低热（<38.5° C）。通常可闻及局灶性或弥漫性啰音（有时无需听诊器即可闻及）。高原肺水肿可能迅速恶化；除非HAPE得到及时治疗，否则昏迷和死亡可能发生在几小时内 (4)。
+
+【其他表现】
+肢体和面部水肿在高原地区很常见，即使没有高原病。
+头痛，无其他AMS症状时也很常见。
+视网膜出血可发生在海拔低至2700米（9000英尺）中，在海拔>4 800米（>16,000英尺）中常见。它们并不是严重高原病的先兆，通常没有症状，除非它们发生在黄斑区域，在这种情况下它们通常表现为无痛视力丧失；它们会在数周内消退，不会留下后遗症（4、5）。有症状性出血时，应降低海拔高度，并且在出血症状消除之前禁止进一步向上攀升。所有有症状的高海拔视网膜出血患者在下降后需要进行眼科评估 (6)。
+在海拔>5000米（>16,000英尺），做过放射状角膜切开术或LASIK手术的人可能会出现显著的视力障碍。这些症状在海拔下降后迅速消失 (7)。
+慢性高原病（蒙格病）是影响高海拔地区长期居民的疾病；其特征是红细胞过度增多、疲劳、呼吸困难、疼痛和发绀 (5)。这种疾病往往与肺泡通气不足有关(8)。 如果可能的话，患者应下降到低海拔地区并在那里长期停留，但经济因素往往限制他们这样做。反复放血可缓解红细胞增多症。部分患者长期使用乙酰唑胺治疗可改善症状 (9)。
+安第斯病在安第斯山脉很常见，但在科罗拉多州的高海拔社区也有发现（10）。在其他地区（例如，西藏），迁往高海拔地区的低地居民会发展出一种不同的慢性高原病，其特征是肺动脉高压和右心室扩张和肥厚，而没有红细胞过度产生。
+
+【症状和体征参考】
+1.Roach RC, Hackett PH, Oelz O, et al: The 2018 Lake Louise acute mountain sickness score.High Alt Med Biol19(1):4-6, 2018.doi: 10.1089/ham.2017.0164
+1.Roach RC, Hackett PH, Oelz O, et al: The 2018 Lake Louise acute mountain sickness score.High Alt Med Biol19(1):4-6, 2018.doi: 10.1089/ham.2017.0164
+2.Dickinson JG: High-altitude cerebral edema: Cerebral acute mountain sickness.Semin Respir Med5:151-158, 1983.doi:10.1055/s-2007-1011445
+2.Dickinson JG: High-altitude cerebral edema: Cerebral acute mountain sickness.Semin Respir Med5:151-158, 1983.doi:10.1055/s-2007-1011445
+3.Houston CS, Dickinson J: Cerebral form of high-altitude illness.Lancet2(7938):758-761, 1975.doi: 10.1016/s0140-6736(75)90735-7
+3.Houston CS, Dickinson J: Cerebral form of high-altitude illness.Lancet2(7938):758-761, 1975.doi: 10.1016/s0140-6736(75)90735-7
+4.Swenson ER, Bartsch P: High-altitude pulmonary edema.Compr Physiol2012.2(4): 2753-2773
+4.Swenson ER, Bartsch P: High-altitude pulmonary edema.Compr Physiol2012.2(4): 2753-2773
+5.Barthelmes D, Bosch MM, Merz TM, et al:Delayed appearance of high altitude retinal hemorrhages.PLoS One6(2):e11532, 2011.doi: 10.1371/journal.pone.0011532
+5.Barthelmes D, Bosch MM, Merz TM, et al:Delayed appearance of high altitude retinal hemorrhages.PLoS One6(2):e11532, 2011.doi: 10.1371/journal.pone.0011532
+6.Bosch MM, Barthelmes D, Landau K: High altitude retinal hemorrhages--an update.High Alt Med Biol13(4):240-244, 2012.doi: 10.1089/ham.2012.1077
+6.Bosch MM, Barthelmes D, Landau K: High altitude retinal hemorrhages--an update.High Alt Med Biol13(4):240-244, 2012.doi: 10.1089/ham.2012.1077
+7.Mader TH, White LJ: Refractive surgery safety at altitude.High Alt Med Biol.2012 Mar;13(1):9-12.doi: 10.1089/ham.2011.1100
+7.Mader TH, White LJ: Refractive surgery safety at altitude.High Alt Med Biol.2012 Mar;13(1):9-12.doi: 10.1089/ham.2011.1100
+8.Penaloza D, Arias-Stella J: The heart and pulmonary circulation at high altitudes: Healthy highlanders and chronic mountain sickness.Circulation115(9):1132-1146, 2007.doi: 10.1161/CIRCULATIONAHA.106.624544
+8.Penaloza D, Arias-Stella J: The heart and pulmonary circulation at high altitudes: Healthy highlanders and chronic mountain sickness.Circulation115(9):1132-1146, 2007.doi: 10.1161/CIRCULATIONAHA.106.624544
+9.Richalet JP, Rivera M, Bouchet P, et al: Acetazolamide: A treatment for chronic mountain sickness.Am J Respir Crit Care Med172(11):1427-1433, 2005.doi: 10.1164/rccm.200505-807OC
+9.Richalet JP, Rivera M, Bouchet P, et al: Acetazolamide: A treatment for chronic mountain sickness.Am J Respir Crit Care Med172(11):1427-1433, 2005.doi: 10.1164/rccm.200505-807OC
+10.Winslow RM, Monge CC: Hypoxia, polycythemia and chronic mountain sickness.1987.Johns Hopkins University Press.
+10.Winslow RM, Monge CC: Hypoxia, polycythemia and chronic mountain sickness.1987.Johns Hopkins University Press.
+
+【高原病的诊断】
+病史和体格检查
+病史和体格检查
+对于高原性肺水肿（HAPE），如果可能的话，进行胸部 X 光片和血液氧气水平的检查
+对于高原性肺水肿（HAPE），如果可能的话，进行胸部 X 光片和血液氧气水平的检查
+及时诊断并开始治疗高海拔脑水肿（HACE）和高海拔肺水肿（HAPE）对防止昏迷和死亡至关重要.
+高原病的诊断通常基于病史和体格检查。通常不需要实验室检查，而且可能是不可用的，这取决于疾病发展的环境（例如，偏远的山谷与山区度假社区）。但是，影像学检查（如果可用）可能对HAPE或有时对HACE有用。
+在HAPE中，低氧血症通常很严重，脉搏血氧饱和度显示为40%至70%，这取决于患者患病的程度。胸部平片显示正常大小的心脏和斑片状肺水肿 (1, 2)。
+HACE 通常可通过病史和临床表现与其他原因引起的头痛和昏迷（如感染、脑出血、未控制的糖尿病）相鉴别；若不能鉴别，头颅 CT 或 MRI 检查有助于排除其他病因。脑部 MRI 显示细胞毒性水肿和血管源性水肿的证据。一些特征性表现，如微出血和含铁血黄素沉积，在患病后可持续数月，因此有助于在从高海拔地区旅行回来后确认 HACE（3、4）。
+路易斯湖急性高原病评分是一种可用于诊断AMS的工具，但其主要目的是为了研究而不是临床实践（5)。
+
+【诊断参考】
+1.Vock P, Fretz C, Franciolli M, et al: High-altitude pulmonary edema: findings at high-altitude chest radiography and physical examination.Radiology170(3 Pt 1):661-666, 1989.doi: 10.1148/radiology.170.3.2916019
+1.Vock P, Fretz C, Franciolli M, et al: High-altitude pulmonary edema: findings at high-altitude chest radiography and physical examination.Radiology170(3 Pt 1):661-666, 1989.doi: 10.1148/radiology.170.3.2916019
+2.Bärtsch P, Waber U, Haeberli A, et al: Enhanced fibrin formation in high-altitude pulmonary edema.J Appl Physiol63(2):752-775, 1985..doi: 10.1152/jappl.1987.63.2.752
+2.Bärtsch P, Waber U, Haeberli A, et al: Enhanced fibrin formation in high-altitude pulmonary edema.J Appl Physiol63(2):752-775, 1985..doi: 10.1152/jappl.1987.63.2.752
+3.Hackett PH, Yarnell PR, Weiland DA, et al: Acute and evolving MRI of high-altitude cerebral edema: Microbleeds, edema, and pathophysiology.AJNR Am J Neuroradiol40(3):464-469, 2019.doi: 10.3174/ajnr.A5897
+3.Hackett PH, Yarnell PR, Weiland DA, et al: Acute and evolving MRI of high-altitude cerebral edema: Microbleeds, edema, and pathophysiology.AJNR Am J Neuroradiol40(3):464-469, 2019.doi: 10.3174/ajnr.A5897
+4.Schommer K, Kallenberg K, Lutz K, et al: Hemosiderin deposition in the brain as footprint of high-altitude cerebral edema.Neurology81(20):1776-1779, 2013.doi: 10.1212/01.wnl.0000435563.84986.78
+4.Schommer K, Kallenberg K, Lutz K, et al: Hemosiderin deposition in the brain as footprint of high-altitude cerebral edema.Neurology81(20):1776-1779, 2013.doi: 10.1212/01.wnl.0000435563.84986.78
+5.Roach RC, Hackett PH, Oelz O, et al: The 2018 Lake Louise acute mountain sickness score.High Alt Med Biol19(1):4-6, 2018.doi: 10.1089/ham.2017.0164
+5.Roach RC, Hackett PH, Oelz O, et al: The 2018 Lake Louise acute mountain sickness score.High Alt Med Biol19(1):4-6, 2018.doi: 10.1089/ham.2017.0164
+
+【高原病的治疗】
+对于轻度或中度急性高原病(AMS)，停止爬升，予补液及非阿片类止痛剂治疗，必要时可予乙酰唑胺或地塞米松
+对于轻度或中度急性高原病(AMS)，停止爬升，予补液及非阿片类止痛剂治疗，必要时可予乙酰唑胺或地塞米松
+对于严重的AMS，降低海拔，补液，非阿片类镇痛药和乙酰唑胺或地塞米松
+对于严重的AMS，降低海拔，补液，非阿片类镇痛药和乙酰唑胺或地塞米松
+高原脑水肿(HACE)和高原肺水肿(HAPE)的患者，需立即转运至低海拔地区，予吸氧、药物及加压治疗
+高原脑水肿(HACE)和高原肺水肿(HAPE)的患者，需立即转运至低海拔地区，予吸氧、药物及加压治疗
+
+【急性高山病（AMS）】
+患者应停止上升并减少活动，直至症状缓解(1, 2)。头痛可用液体和非阿片类止痛药治疗。对于严重症状或采取适当的保守措施无法解决的症状，下降500～1000米（1650～3200英尺）海拔通常是快速有效的。乙酰唑胺（250mg口服，每天2次）可缓解症状和改善睡眠 (3)。每6小时口服、肌肉注射或静脉注射2至4 mg地塞米松对治疗AMS症状也非常有效，通常比乙酰唑胺更快地缓解症状 (4)。
+
+【高原脑水肿（HACE）和高原肺水肿（HAPE）】
+病人应立即转运至低海拔地区。使用直升机撤离是可挽救生命的措施(1)。如果转运延迟，患者应休息并吸氧。如果不能转运，吸氧（使O2氧饱和度至>90%）、药物及通过便携式高压氧袋加压给氧可帮助延长时间但不能取代也不应延迟转运至低海拔地区。
+对于高原脑水肿（和严重急性高原病）
+地塞米松
+地塞米松
+地塞米松首剂使用8mg，随后每6小时使用4mg可能有助于恢复。地塞米松应该口服，但如果情况不允许，可以通过肌注或静注。根据疾病的严重程度，HACE可能需要数小时到数周才能完全治愈 (5, 6)。
+对于高原肺水肿
+硝苯地平或磷酸二酯酶抑制剂。
+硝苯地平或磷酸二酯酶抑制剂。
+每12小时口服硝苯地平缓释制剂30mg能降低肺动脉压并且是有利的，尽管可能引起全身性不良反应如低血压(7)。磷酸二酯酶抑制剂（如西地那非 50 mg 口服，每 8 小时 1 次，或他达拉非 10 mg 口服，每 12 小时 1 次）可替代硝苯地平使用。 利尿剂（例如呋塞米）是禁用的;其没有疗效且许多患者出现循环容量下降。HAPE 患者的心脏通常正常，地高辛和血管紧张素转换酶（ACE）抑制剂对后负荷降低无价值 (8)。如果及时转运至低海拔地区，患者的高原肺水肿通常在24～48小时内缓解。转运至低海拔时应避免用力
+在医疗资源充足的地区（如滑雪场社区），部分 HAPE 患者在家人或朋友能够充分监测的情况下，可出院并接受补充氧疗 (9)。需警惕高原肺水肿患者有可能再次复发。
+
+【经验与提示】
+经验与提示
+高原肺水肿患者禁用利尿剂。
+高原肺水肿患者禁用利尿剂。
+
+【治疗参考文献】
+1.Luks AM, Beidleman BA, Freer L, et al: Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 Update.Wilderness Environ Med35(1_suppl):2S-19S, 2024.doi: 10.1016/j.wem.2023.05.013
+1.Luks AM, Beidleman BA, Freer L, et al: Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 Update.Wilderness Environ Med35(1_suppl):2S-19S, 2024.doi: 10.1016/j.wem.2023.05.013
+2.Bärtsch P, Swenson ER: Clinical practice: Acute high-altitude illnesses.N Engl J Med368:2294-2302, 2013.doi: 10.1056/NEJMcp1214870
+2.Bärtsch P, Swenson ER: Clinical practice: Acute high-altitude illnesses.N Engl J Med368:2294-2302, 2013.doi: 10.1056/NEJMcp1214870
+3.Grissom CK, Roach RC, Sarnquist FH, et al: Acetazolamide in the treatment of acute mountain sickness: Clinical efficacy and effect on gas exchange.Ann Intern Med116(6):461-465, 1992.doi: 10.7326/0003-4819-116-6-461
+3.Grissom CK, Roach RC, Sarnquist FH, et al: Acetazolamide in the treatment of acute mountain sickness: Clinical efficacy and effect on gas exchange.Ann Intern Med116(6):461-465, 1992.doi: 10.7326/0003-4819-116-6-461
+4.Levine BD, Yoshimura K, Kobayashi T, et al: Dexamethasone in the treatment of acute mountain sickness.N Engl J Med321(25):1707-1713, 1989.doi: 10.1056/NEJM198912213212504
+4.Levine BD, Yoshimura K, Kobayashi T, et al: Dexamethasone in the treatment of acute mountain sickness.N Engl J Med321(25):1707-1713, 1989.doi: 10.1056/NEJM198912213212504
+5.Dickinson J: High altitude cerebral edema: Cerebral acute mountain sickness.Semin Respir Med5:151-761, 1983.doi:10.1055/s-2007-1011445
+5.Dickinson J: High altitude cerebral edema: Cerebral acute mountain sickness.Semin Respir Med5:151-761, 1983.doi:10.1055/s-2007-1011445
+6.Houston CS, Dickinson J: Cerebral form of high-altitude illness.Lancet2(7938):758-61, 1975.doi: 10.1016/s0140-6736(75)90735-7
+6.Houston CS, Dickinson J: Cerebral form of high-altitude illness.Lancet2(7938):758-61, 1975.doi: 10.1016/s0140-6736(75)90735-7
+7.Oelz O, Maggiorini M, Ritter M, et al: Nifedipine for high altitude pulmonary oedema.Lancet2(8674):1241-1244, 1989.doi: 10.1016/s0140-6736(89)91851-5
+7.Oelz O, Maggiorini M, Ritter M, et al: Nifedipine for high altitude pulmonary oedema.Lancet2(8674):1241-1244, 1989.doi: 10.1016/s0140-6736(89)91851-5
+8.Maggiorini M, Mélot C, Pierre S, et al: High-altitude pulmonary edema is initially caused by an increase in capillary pressure.Circulation.2001;103(16):2078-2083.doi:10.1161/01.cir.103.16.2078
+8.Maggiorini M, Mélot C, Pierre S, et al: High-altitude pulmonary edema is initially caused by an increase in capillary pressure.Circulation.2001;103(16):2078-2083.doi:10.1161/01.cir.103.16.2078
+9.Zafren K, Reeves JT, Schoene R: Treatment of high-altitude pulmonary edema by bed rest and supplemental oxygen.Wilderness Environ Med7(2):127-132, 1996.doi: 10.1580/1080-6032(1996)007[0127:tohape]2.3.co;2
+9.Zafren K, Reeves JT, Schoene R: Treatment of high-altitude pulmonary edema by bed rest and supplemental oxygen.Wilderness Environ Med7(2):127-132, 1996.doi: 10.1580/1080-6032(1996)007[0127:tohape]2.3.co;2
+
+【高原病的预防】
+缓慢海拔上升
+缓慢海拔上升
+必要时使用乙酰唑胺或地塞米松
+必要时使用乙酰唑胺或地塞米松
+虽然体能训练可在高海拔地区提供更多体力消耗，但它并不能预防任何形式的急性高原疾病 (1, 2)。保持足够的液体摄入并不能预防急性高原病，但可以保持运动表现，防止脱水，其症状与高原病非常相似(3)。应避免阿片类药物、苯二氮卓类药物和大量饮酒，尤其是在睡觉前。
+
+【海拔上升】
+最重要的措施是缓慢上升高度 (4, 5)。在海拔3000米（10000英尺）以上，登山者每天的睡眠高度不应超过300至500米（1000至1600英尺），并且每3至4天应有一天休息（即在相同的高度睡觉）(6)。如果一天的上升必须超过 500 m（例如，由于后勤要求或地形特征），则他们应增加休息日，以实现整个上升过程中平均每日上升高度<500 m（1600 英尺）。在休息日，登山者可以进行体育活动并升到更高的海拔高度，但应该回到较低海拔处睡觉。登山者耐受高原反应的能力差异较大；登山团队应根据能力最低者决定登山速度。
+环境适应性在返回低海拔地区几天后逐渐丧失，登山者几天后再次回到高海拔地区应该再次遵循分段海拔上升的原则。
+乙酰唑胺125mg，每12小时口服一次，可降低高原病的发病率 (7)。应在海拔上升的前一晚开始使用乙酰唑胺；它的作用是抑制碳酸酐酶，从而增加通气 (8)。睡前口服乙酰唑胺125mg可减少周期性呼吸次数（在高海拔地区的睡眠期间普遍存在）从而抑制血氧大幅下降。
+对磺胺类药物过敏的患者发生乙酰唑胺交叉反应的风险很小。 在这些患者前往远离医疗机构的高原之前，应考虑对他们进行乙酰唑胺监督试验。乙酰唑胺不应给予有磺胺类药物严重过敏反应（如过敏性休克）史的患者。乙酰唑胺可能会导致手指麻木和感觉异常。 这些症状是良性的，但可能很烦人。碳酸饮料对服用乙酰唑胺的人来说味道平平。
+地塞米松每6小时口服2 mg (或每12小时口服4 mg)可作为乙酰唑胺的替代品 (9)。
+在高海拔地区睡眠时低流量吸氧是有效的，但不方便且可能出现供应方面的困难。
+除减缓上升速度外，既往有过高原肺水肿者应额外考虑预防性应用硝苯地平缓释剂30mg每天(10)口服2次或他达拉非每日两次10 mg口服(3)。
+镇痛药（如对乙酰氨基酚、布洛芬）可预防高原性头痛。
+
+【预防参考文献】
+1.Milledge JS, Beeley JM, Broome J, et al: Acute mountain sickness susceptibility, fitness and hypoxic ventilatory response.Eur Respir J4(8):1000-10003, 1991.
+1.Milledge JS, Beeley JM, Broome J, et al: Acute mountain sickness susceptibility, fitness and hypoxic ventilatory response.Eur Respir J4(8):1000-10003, 1991.
+2.Sareban M, Schiefer LM, Macholz F, et al: Endurance athletes are at increased risk for early acute mountain sickness at 3450 m.Med Sci Sports Exerc52(5):1109-1115, 2020.doi: 10.1249/MSS.0000000000002232
+2.Sareban M, Schiefer LM, Macholz F, et al: Endurance athletes are at increased risk for early acute mountain sickness at 3450 m.Med Sci Sports Exerc52(5):1109-1115, 2020.doi: 10.1249/MSS.0000000000002232
+3.Castellani JW, Muza SR, Cheuvront SN, et al: Effect of hypohydration and altitude exposure on aerobic exercise performance and acute mountain sickness.J Appl Physiol(1985) 109(6):1792-800, 2010.doi: 10.1152/japplphysiol.00517.2010.
+3.Castellani JW, Muza SR, Cheuvront SN, et al: Effect of hypohydration and altitude exposure on aerobic exercise performance and acute mountain sickness.J Appl Physiol(1985) 109(6):1792-800, 2010.doi: 10.1152/japplphysiol.00517.2010.
+4.Luks AM, Beidleman BA, Freer L, et al: Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 Update.Wilderness Environ Med35(1_suppl):2S-19S, 2024.doi: 10.1016/j.wem.2023.05.013
+4.Luks AM, Beidleman BA, Freer L, et al: Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 Update.Wilderness Environ Med35(1_suppl):2S-19S, 2024.doi: 10.1016/j.wem.2023.05.013
+5.Bartsch P, Swenson ER: Clinical practice: Acute high-altitude illnesses.N Engl J Med368:2294-2302, 2013.doi: 10.1056/NEJMcp1214870
+5.Bartsch P, Swenson ER: Clinical practice: Acute high-altitude illnesses.N Engl J Med368:2294-2302, 2013.doi: 10.1056/NEJMcp1214870
+6.Luks AM: Clinician's corner: What do we know about safe ascent rates at high altitude?High Alt Med Biol13(3):147-152, 2012.doi: 10.1089/ham.2012.1055
+6.Luks AM: Clinician's corner: What do we know about safe ascent rates at high altitude?High Alt Med Biol13(3):147-152, 2012.doi: 10.1089/ham.2012.1055
+7.Basnyat B, Gertsch JH, Holck PS, et al: Acetazolamide 125 mg BD is not significantly different from 375 mg BD in the prevention of acute mountain sickness: the prophylactic acetazolamide dosage comparison for efficacy (PACE) trial.High Alt Med Biol(1):17-27, 2006.doi: 10.1089/ham.2006.7.17
+7.Basnyat B, Gertsch JH, Holck PS, et al: Acetazolamide 125 mg BD is not significantly different from 375 mg BD in the prevention of acute mountain sickness: the prophylactic acetazolamide dosage comparison for efficacy (PACE) trial.High Alt Med Biol(1):17-27, 2006.doi: 10.1089/ham.2006.7.17
+8.Fischer R, Lang SM, Leitl M, et al: Theophylline and acetazolamide reduce sleep-disordered breathing at high altitude.Eur Respir J23(1):47-52, 2004.doi: 10.1183/09031936.03.00113102
+8.Fischer R, Lang SM, Leitl M, et al: Theophylline and acetazolamide reduce sleep-disordered breathing at high altitude.Eur Respir J23(1):47-52, 2004.doi: 10.1183/09031936.03.00113102
+9.Ellsworth AJ, Larson EB, Strickland D: A randomized trial of dexamethasone and acetazolamide for acute mountain sickness prophylaxis.Am J Med83(6):1024-1030, 1987.doi: 10.1016/0002-9343(87)90937-5
+9.Ellsworth AJ, Larson EB, Strickland D: A randomized trial of dexamethasone and acetazolamide for acute mountain sickness prophylaxis.Am J Med83(6):1024-1030, 1987.doi: 10.1016/0002-9343(87)90937-5
+10.Bärtsch P, Maggiorini M, Ritter M, et al: Prevention of high-altitude pulmonary edema by nifedipine.N Engl J Med325(18):1284-1289, 1991.doi: 10.1056/NEJM199110313251805
+10.Bärtsch P, Maggiorini M, Ritter M, et al: Prevention of high-altitude pulmonary edema by nifedipine.N Engl J Med325(18):1284-1289, 1991.doi: 10.1056/NEJM199110313251805
+11.Maggiorini M, Brunner-La Rocca HP, Peth S, et al: Bothtadalafilanddexamethasonemay reduce the incidence of high-altitude pulmonary edema: A randomized trial.Ann Intern Med145(7):497-506, 2006.doi: 10.7326/0003-4819-145-7-200610030-00007
+11.Maggiorini M, Brunner-La Rocca HP, Peth S, et al: Bothtadalafilanddexamethasonemay reduce the incidence of high-altitude pulmonary edema: A randomized trial.Ann Intern Med145(7):497-506, 2006.doi: 10.7326/0003-4819-145-7-200610030-00007
+约 20% 上升至 2500 米（8000 英尺）的人，以及 40% 在 1 天内上升至 3000 米（10,000 英尺）的人会出现某种形式的高原病，最常见的是急性高山病（AMS）。
+约 20% 上升至 2500 米（8000 英尺）的人，以及 40% 在 1 天内上升至 3000 米（10,000 英尺）的人会出现某种形式的高原病，最常见的是急性高山病（AMS）。
+AMS 的表现为头痛伴疲劳、胃肠道症状（食欲缺乏、恶心、呕吐）或持续性头晕。
+AMS 的表现为头痛伴疲劳、胃肠道症状（食欲缺乏、恶心、呕吐）或持续性头晕。
+高原脑水肿（HACE）会引起头痛、共济失调和脑病。
+高原脑水肿（HACE）会引起头痛、共济失调和脑病。
+高海拔肺水肿（HAPE）最初表现为活动耐量下降和干咳，随后可进展为轻微活动或静息时呼吸困难、极度疲劳、发绀，在更严重阶段可出现咳血性痰。
+高海拔肺水肿（HAPE）最初表现为活动耐量下降和干咳，随后可进展为轻微活动或静息时呼吸困难、极度疲劳、发绀，在更严重阶段可出现咳血性痰。
+根据临床表现诊断高原病。
+根据临床表现诊断高原病。
+补液，止痛剂，必要时乙酰唑胺或地塞米松来治疗轻度急性高原病，并停止进一步海拔上升。
+补液，止痛剂，必要时乙酰唑胺或地塞米松来治疗轻度急性高原病，并停止进一步海拔上升。
+安排高原脑水肿，高原肺水肿或极重度急性高原病的患者即刻转运至低海拔地区。
+安排高原脑水肿，高原肺水肿或极重度急性高原病的患者即刻转运至低海拔地区。
+通过分段海拔上升及服用乙酰唑胺来预防高原病。
+通过分段海拔上升及服用乙酰唑胺来预防高原病。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Luks AM: Physiology in medicine: A physiologic approach to prevention and treatment of acute high-altitude illnesses.J Appl Physiol(1985) 18(5):509-519, 2015.doi: 10.1152/japplphysiol.00955.2014
+Luks AM: Physiology in medicine: A physiologic approach to prevention and treatment of acute high-altitude illnesses.J Appl Physiol(1985) 18(5):509-519, 2015.doi: 10.1152/japplphysiol.00955.2014

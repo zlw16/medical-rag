@@ -1,0 +1,34 @@
+标题：热衰竭
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/heat-illness/heat-exhaustion
+============================================================
+
+繁重的劳动后出现严重热衰竭较为罕见，可表现为横纹肌溶解、肌红蛋白尿和急性肾损伤。 热衰竭不会导致脑功能障碍（如意识不清或共济失调），因此可以与热射病鉴别。
+
+【热衰竭的症状和体征】
+热衰竭的体征和症状常不典型，患者可能未意识到高温是病因。最初的体征包括口渴感加剧和肌肉痉挛。症状可包括无力、乏力、头晕、头痛、恶心，有时可发生呕吐。高温下站立时间过长可引起晕厥（热晕厥）。体检时患者可表现为乏力，大汗及心动过速，可能伴有直立性低血压。与热射病不同，热衰竭时精神状态如常。体温一般正常，即便升高通常也不会超过40°C。
+
+【热衰竭的诊断】
+临床评估
+临床评估
+热衰竭的诊断为临床诊断，并需排除其他可能原因（如低血糖、急性冠状动脉综合征、各种感染）。排除上述疾病需进行实验室检查。对于过量摄入游离水或大量出汗的患者，应尽可能检测电解质水平以排除严重低钠血症。
+
+【热衰竭的治疗】
+被动降温（遮阴、解开衣物、接触凉爽表面）
+被动降温（遮阴、解开衣物、接触凉爽表面）
+口服或静脉补液并补充电解质
+口服或静脉补液并补充电解质
+热衰竭的治疗包括停止一切活动，将患者移至凉爽的环境中，让其平躺（或抬高双腿），并尝试使用基于世界卫生组织“低渗透压”配方的口服补液盐进行口服补液，该配方具有轻微的低渗性，且有市售产品（1，2，3）。患者应该以1L/h的速度进行口服补液。如果有呕吐恶心无法口服补液，则应静脉给予0.9％生理盐水加电解质。 此外，如果口服补液30～60分钟后患者症状未缓解，应立即将其送往医院急诊进行静脉补液。可根据年龄、基础疾病和临床表现来调整静脉补液的速度和量。通常按500mL/h的速度补充1-2L的液体就已足够。老年人和患心脏疾病的患者可能需要降低补液速度。通常不需要对热衰竭采取快速的外部降温措施，但在偏远地区或核心体温达到≥40°C时，可以考虑外部降温措施，包括蒸发、对流或传导降温。详见热射病：治疗。
+
+【治疗参考文献】
+1.Eifling KP, Gaudio FG, Dumke C, et al.Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update.Wilderness Environ Med.2024;35(1_suppl):112S-127S.doi:10.1177/10806032241227924
+1.Eifling KP, Gaudio FG, Dumke C, et al.Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update.Wilderness Environ Med.2024;35(1_suppl):112S-127S.doi:10.1177/10806032241227924
+2.Casa DJ, DeMartini JK, Bergeron MF, et al.National Athletic Trainers' Association Position Statement: Exertional Heat Illnesses [published correction appears inJ Athl Train.2017 Apr;52(4):401. doi: 10.4085/1062-6050-52.4.07.].J Athl Train.2015;50(9):986-1000.doi:10.4085/1062-6050-50.9.07
+2.Casa DJ, DeMartini JK, Bergeron MF, et al.National Athletic Trainers' Association Position Statement: Exertional Heat Illnesses [published correction appears inJ Athl Train.2017 Apr;52(4):401. doi: 10.4085/1062-6050-52.4.07.].J Athl Train.2015;50(9):986-1000.doi:10.4085/1062-6050-50.9.07
+3.Alam NH, Yunus M, Faruque ASG, et al.Symptomatic Hyponatremia During Treatment of Dehydrating Diarrheal Disease With Reduced Osmolarity Oral Rehydration Solution.JAMA.2006;296(5):567–573.doi:10.1001/jama.296.5.567
+3.Alam NH, Yunus M, Faruque ASG, et al.Symptomatic Hyponatremia During Treatment of Dehydrating Diarrheal Disease With Reduced Osmolarity Oral Rehydration Solution.JAMA.2006;296(5):567–573.doi:10.1001/jama.296.5.567
+热衰竭的症状往往无特异性，体温常<40℃，中枢神经系统功能不受损害。
+热衰竭的症状往往无特异性，体温常<40℃，中枢神经系统功能不受损害。
+诊断热衰竭通过临床诊断，实验室检查的目的是除外临床怀疑的其他疾病。
+诊断热衰竭通过临床诊断，实验室检查的目的是除外临床怀疑的其他疾病。
+让患者在凉爽环境中休息并尝试口服补液，如果这些措施不成功，立即将患者转运至医院急诊。
+让患者在凉爽环境中休息并尝试口服补液，如果这些措施不成功，立即将患者转运至医院急诊。

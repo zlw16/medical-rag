@@ -1,0 +1,90 @@
+标题：儿童药物代谢动力学
+来源：https://www.msdmanuals.cn/professional/pediatrics/principles-of-drug-treatment-in-children/pharmacokinetics-in-children
+============================================================
+
+药物代谢动力学是指药物的吸收、分布、代谢和清除的过程。药代动力学中存在与年龄相关的重要变异。
+通过胃肠道吸收药物受以下因素的影响：
+胃酸分泌
+胃酸分泌
+胆盐生成
+胆盐生成
+胃排空时间
+胃排空时间
+肠管长度和有效吸收面积
+肠管长度和有效吸收面积
+肠道微生物菌群
+肠道微生物菌群
+所有这些因素都随着年龄而变化（1）。
+胃酸分泌下降会增加对酸敏感的药物（青霉素）的生物利用度，而降低弱酸性药物（如苯巴比妥）的生物利用度 (2)。 胆盐形成减少会降低亲脂性药物（如地西泮）的生物利用度。
+当给<3个月以下的婴儿肠内给药时，胃排空和肠蠕动减慢会增加药物达到治疗浓度所需的时间。小婴儿肠内的药物代谢酶是药物吸收较差的另一个原因。先天性肠闭锁、手术肠道切除或留置空肠营养管的婴幼儿可能有特定的吸收缺陷，这取决于肠道丢失的长度、旁路以及丢失肠段的位置。还应考虑所摄入的食物类型如何改变胃排空（例如，固体与液体）。
+肠道菌群可能有助于某些药物（如地高辛）的代谢。肠道菌群类型或数量的变化可能影响吸收和疗效（2）。
+注射的药物吸收通常缺乏规律，这是因为：
+药物化学性质不同
+药物化学性质不同
+注射部位不同（肌内注射或皮下注射）
+注射部位不同（肌内注射或皮下注射）
+不同婴儿肌肉的差异
+不同婴儿肌肉的差异
+疾病状况不同（如循环系统状况不佳）的缘故。
+疾病状况不同（如循环系统状况不佳）的缘故。
+注射深度的变异（过深或过浅）
+注射深度的变异（过深或过浅）
+骨骼肌血流及肌肉收缩
+骨骼肌血流及肌肉收缩
+由于会引起疼痛并可能导致组织损伤，儿童通常避免使用肌内注射，但如有需要，水溶性药物是最佳选择，因为它们不会在注射部位沉淀。
+因为新生儿角质层薄，体表面积和体重的比例比年长儿童和成人大得多，新生儿经皮给药吸收明显增强。 皮肤受损（如擦伤、湿疹、烧伤）会使任何年龄段儿童的药物吸收增加。局部应用糖皮质激素等药物应谨慎使用，因为可能增加全身暴露和吸收，特别是在新生儿中。
+经直肠给药通常只用于不能静脉给药的紧急情况（如癫痫持续状态经直肠给予地西泮）。因直肠内不同部位静脉回流系统的差异，直肠内给药的部位也会影响药物的吸收。小婴儿也可能在药物显著吸收前就排出固体药物。
+吸入药物从肺部的吸收（如哮喘的β-激动剂、呼吸窘迫综合征的肺表面活性物质）可能更多地受给药装置的可靠性和患者或护理人员使用技术的影响，而非生理参数。
+
+【吸收参考文献】
+1.van den Anker J, Reed MD, Allegaert K, Kearns GL: Developmental changes in pharmacokinetics and pharmacodynamics.J Clin Pharmacol58 (supplement 10):S10–S25, 2018. doi: 10.1002/jcph.1284
+1.van den Anker J, Reed MD, Allegaert K, Kearns GL: Developmental changes in pharmacokinetics and pharmacodynamics.J Clin Pharmacol58 (supplement 10):S10–S25, 2018. doi: 10.1002/jcph.1284
+2.Kearns GL, Abdel-Rahman SM, Alander SW, Blowey DL, Leeder JS, Kauffman RE: Developmental pharmacology--drug disposition, action, and therapy in infants and children.N Engl J Med349(12):1157–1167, 2003.doi:10.1056/NEJMra035092
+2.Kearns GL, Abdel-Rahman SM, Alander SW, Blowey DL, Leeder JS, Kauffman RE: Developmental pharmacology--drug disposition, action, and therapy in infants and children.N Engl J Med349(12):1157–1167, 2003.doi:10.1056/NEJMra035092
+儿童药物分布容积随年龄而变化。这些与年龄相关的变化是由于身体成分（尤其是细胞外间隙和总体水含量）、血浆蛋白结合以及药物固有特性（如水溶性或脂溶性、电离状态）的变化所致。
+年幼儿童由于体内水分占比更高(见图随生长和年龄改变的人体组成成分)，需要更高剂量（按每千克体重计算）的水溶性药物。反之，随着年龄增长，体内水分比例下降，水溶性药物的剂量应减少，以避免药物的毒性作用。此外，肥胖儿童与正常体重儿童相比，其身体总水分、身体体积、瘦体重和脂肪量的百分比显著更高。（1）。
+
+【随着生长和年龄人体组成成分的改变】
+随着生长和年龄人体组成成分的改变
+Adapted from Puig M: Body composition and growth.InNutrition in Pediatrics, ed.2, edited by WA Walker and JB Watkins.Hamilton, Ontario, BC Decker, 1996.
+许多药物会与蛋白质结合，主要是白蛋白，α1-酸糖蛋白和脂蛋白；蛋白结合限制了游离药物向全身各处的分布。新生儿白蛋白和总蛋白浓度较低，但会在10～12月龄时接近成人水平。新生儿蛋白结合力降低也与结合蛋白的性质差异（即胎儿白蛋白的存在）以及胆红素和游离脂肪酸等分子的竞争性结合有关，这些分子在新生儿和婴儿血液中的浓度较高。最终结果可能表现为游离药物浓度升高、靶点部位的药物可及性增强，以及在较低药物浓度下既出现更强的药理效应，也伴随更高频率的不良反应。
+
+【分布参考文献】
+1.Vaughns JD, Conklin LS, Long Y, et al: Obesity and pediatric drug development.J Clin Pharmacol58(5):650–661, 2018. doi: 10.1002/jcph.1054
+1.Vaughns JD, Conklin LS, Long Y, et al: Obesity and pediatric drug development.J Clin Pharmacol58(5):650–661, 2018. doi: 10.1002/jcph.1054
+
+【代谢和清除】
+药物的代谢与消除因年龄而异，并取决于底物或药物本身，但大多数药物（尤其是苯妥英、巴比妥类、镇痛药和强心苷）在新生儿中的血浆半衰期较成人延长 2～3 倍。
+小肠和肝脏中的细胞色素P450（CYP450）酶系统是目前已知最重要的药物代谢系统。细胞色素P450酶通过：
+氧化、还原、水解（Ⅰ期代谢）
+氧化、还原、水解（Ⅰ期代谢）
+羟基化和结合使药物失活（Ⅱ期代谢）
+羟基化和结合使药物失活（Ⅱ期代谢）
+Ⅰ期代谢活性在新生儿时降低，在生后6个月内逐渐升高，对某些药物来说可在生后数年超过成人水平，在青春期降低，通常在青春期后期达到成人水平。 然而，某些药物（如巴比妥酸盐、苯妥英）的代谢率在生后2～4周的婴儿也能达到成人水平。CYP450酶的活性可能因联合用药而被诱导（降低药物浓度和效应）或抑制（增加浓度和效应）。当CYP450活性受到抑制时，联合用药之间的药物相互作用可能引发药物毒性；当CYP450活性被诱导时，可能导致药物浓度不足。饮食也可能影响儿童CYP450活性的发育，与母乳喂养的婴儿相比，配方奶粉喂养的婴儿CYP1A2和CYP3A4活性的差异证明了这一点（1）。肾脏、肺脏和皮肤在某些药物的代谢中也起一定作用，新生儿期的肠内药物代谢酶也有一定作用。
+Ⅱ期代谢因底物不同，差异相当大。与胆红素和对乙酰氨基酚结合反应的酶成熟较迟，与吗啡结合反应的酶即使在早产儿也已完全成熟。
+药物代谢产物主要通过胆汁或尿液（即通过肾脏）排出。肾脏的排泄依赖于：
+血浆蛋白结合
+血浆蛋白结合
+肾血流量
+肾血流量
+肾小球滤过率
+肾小球滤过率
+肾小管分泌
+肾小管分泌
+这些在出生后2年都会变化。出生时肾血浆流量很低（12mL/min），在出生后1年达到成人的水平140mL/min。同样，新生儿出生时的肾小球滤过率为2～4mL/min（早产儿更低），出生后2～3天增至8～20mL/min，8～12个月时达到成人水平的120mL/min（2）。肾小管分泌也会在生命的最初几年成熟，随着儿童的成长，肾小管分泌电解质和药物的能力也会提高，并在出生后一年左右达到成人水平。
+
+【代谢和排泄参考文献】
+1.Blake JB, Abdel-Rahman SM, Pearce RE, et al: Effect of diet on the development of drug metabolism by cytochrome P-450 enzymes in healthy infants.Pediatr Res60(6):717–723, 2006. doi: 10.1203/01.pdr.0000245909.74166.00
+1.Blake JB, Abdel-Rahman SM, Pearce RE, et al: Effect of diet on the development of drug metabolism by cytochrome P-450 enzymes in healthy infants.Pediatr Res60(6):717–723, 2006. doi: 10.1203/01.pdr.0000245909.74166.00
+2.Kearns GL, Abdel-Rahman SM, Alander SW, Blowey DL, Leeder JS, Kauffman RE: Developmental pharmacology--drug disposition, action, and therapy in infants and children.N Engl J Med349(12):1157–1167, 2003.doi:10.1056/NEJMra035092
+2.Kearns GL, Abdel-Rahman SM, Alander SW, Blowey DL, Leeder JS, Kauffman RE: Developmental pharmacology--drug disposition, action, and therapy in infants and children.N Engl J Med349(12):1157–1167, 2003.doi:10.1056/NEJMra035092
+
+【药物剂量】
+基于以上因素，年龄<12岁的儿童用药剂量通常是年龄、体重或两者的函数。这种方法虽然可行，但并不理想。即便在年龄和体重相近的人群中，因吸收、分布、代谢和排泄方面的成熟度差异，药物需求量也可能不同。因此，如果条件允许，剂量调整应基于血浆药物浓度（需注意的是，血浆药物浓度可能无法反映目标器官中的药物浓度）。遗憾的是，对大多数药物来说难以做到。然而，在美国，由于2001年的《儿童最佳药品法》和2003年的《儿科研究公平法》（两者均于2012年永久化[1]），已有超过900种用于儿童的药物具备更完整的儿科用药剂量、药代动力学和安全性信息（2）。
+基于生理学的药代动力学建模是一种数学技术，它使用已知的生物化学和生理学原理来预测药物将如何被吸收、分布、代谢和排泄。这种建模的结果有助于支持关于是否、何时以及如何进行临床试验的决策，并有助于提高儿科临床试验的安全性和效率。
+
+【药物剂量参考文献】
+1.Bourgeois FT, Kesselheim AS: Promoting pediatric drug research and labeling—Outcomes of legislation.N Engl J Med381(9):875–881, 2019.doi: 10.1056/NEJMhle1901265
+1.Bourgeois FT, Kesselheim AS: Promoting pediatric drug research and labeling—Outcomes of legislation.N Engl J Med381(9):875–881, 2019.doi: 10.1056/NEJMhle1901265
+2.U.S. Food and Drug Administration (FDA): Best Pharmaceuticals for Children Act and Pediatric Research Equity Act status report (2020).Accessed June 4, 2025
+2.U.S. Food and Drug Administration (FDA): Best Pharmaceuticals for Children Act and Pediatric Research Equity Act status report (2020).Accessed June 4, 2025

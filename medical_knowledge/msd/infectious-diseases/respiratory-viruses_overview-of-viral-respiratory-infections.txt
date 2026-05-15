@@ -1,0 +1,103 @@
+标题：呼吸道病毒感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/respiratory-viruses/overview-of-viral-respiratory-infections
+============================================================
+
+病毒感染通常会影响上呼吸道和下呼吸道。  虽然呼吸道感染可以按照病源来分类（如流感），但是通常都是以临床症状来给疾病分类（如普通感冒、细支气管炎、喉炎、肺炎）。 特定病原体通常引起特征性临床表现（例如，鼻病毒通常引起普通感冒，呼吸道合胞病毒[RSV] 通常会导致细支气管炎），每种病原体也能导致病毒性呼吸道综合征的许多一般症状。
+呼吸道病毒导致疾病的严重程度大大不同，严重疾病更可能发生在老年人和婴儿中。发病可能直接由病毒感染引起，也可能是间接的，由于潜在心肺疾病的恶化或肺部、鼻旁窦或中耳的细菌继发感染。
+
+【常见病毒性呼吸道症状的病因】
+常见病毒性呼吸道症状的病因
+常见病毒原因
+不太常见的病毒原因
+细支气管炎
+流感病毒
+副流感病毒
+人类梅塔肺炎病毒
+普通感冒
+冠状病毒
+流感病毒
+副流感病毒
+人类梅塔肺炎病毒
+副流感病毒
+流感病毒
+流感样疾病
+流感病毒
+副流感病毒
+人类偏肺病毒
+冠状病毒（包含新冠病毒)
+流感病毒
+冠状病毒（包含新冠病毒)
+副流感病毒
+人类偏肺病毒
+RSV=respiratory syncytial virus（呼吸道合胞病毒）
+RSV=respiratory syncytial virus（呼吸道合胞病毒）
+
+【呼吸道病毒感染的诊断】
+通常是病史、体格检查和当地流行病学
+通常是病史、体格检查和当地流行病学
+有时使用诊断试验
+有时使用诊断试验
+通常根据症状和局部流行病学临床诊断病毒性呼吸道感染。  患者的诊疗通常只需诊断该综合征即可； 鉴别特定病原体几乎是没有必要的。
+下列情况需考虑进行诊断性试验：
+了解特定病原体影响临床管理的情况
+了解特定病原体影响临床管理的情况
+流行病学监测（即确诊和确定暴发原因）
+流行病学监测（即确诊和确定暴发原因）
+当需要进行特定的抗病毒治疗时，病原体鉴定非常重要。抗病毒治疗适用于以下病毒和适应症：
+流感：并发症风险高的患者或患者的密切接触者；可以给予症状持续时间<48小时的中等风险患者（1）
+流感：并发症风险高的患者或患者的密切接触者；可以给予症状持续时间<48小时的中等风险患者（1）
+新冠肺炎: 症状持续时间少于 5 天且患有严重疾病的风险较高的患者（2）
+新冠肺炎: 症状持续时间少于 5 天且患有严重疾病的风险较高的患者（2）
+RSV 感染：严重免疫功能低下的患者
+RSV 感染：严重免疫功能低下的患者
+识别特定病原体（特别是住院患者或居住在设施中的患者的流感病毒或呼吸道合胞病毒）对于感染预防和控制也很重要，包括识别和控制潜在的疫情。
+基于抗原和聚合酶链反应 (PCR) 的快速即时诊断检测可用于流感、RSV 和 SARS-CoV-2 。基于抗原的快速即时检测灵敏度低于基于 PCR 的实验室检测（3）。 现场诊断检测通常用于临床诊断不确定且
+正在考虑开始抗病毒治疗。
+正在考虑开始抗病毒治疗。
+病毒病原体的鉴定将阻止对细菌感染的进一步评估或治疗。
+病毒病原体的鉴定将阻止对细菌感染的进一步评估或治疗。
+病毒病原体的鉴定将有助于住院环境中的感染预防和控制。
+病毒病原体的鉴定将有助于住院环境中的感染预防和控制。
+基于聚合酶链反应（PCR）的多重检测（或流感、RSV和新冠病毒的单独检测）可在许多临床实验室中获得。这些测试比基于抗原的即时诊断测试更敏感，并且在可用时，是临床目的的首选。
+有时可以进行细胞培养或血清学测试，但比 PCR 测试慢。它们可能有助于流行病学监测。
+
+【诊断参考】
+1.Uyeki TM, Bernstein HH, Bradley JS, et al: Clinical Practice Guidelines by the Infectious Diseases Society of America: 2018 Update on Diagnosis, Treatment, Chemoprophylaxis, and Institutional Outbreak Management of Seasonal Influenza.Clin Infect Dis.2019;68(6):895-902.doi:10.1093/cid/ciy874
+1.Uyeki TM, Bernstein HH, Bradley JS, et al: Clinical Practice Guidelines by the Infectious Diseases Society of America: 2018 Update on Diagnosis, Treatment, Chemoprophylaxis, and Institutional Outbreak Management of Seasonal Influenza.Clin Infect Dis.2019;68(6):895-902.doi:10.1093/cid/ciy874
+2.Centers for Disease Control and Prevention (CDC): National Center for Immunization and Respiratory Diseases (NCIRD), Division of Viral Diseases: Interim Clinical Considerations for COVID-19 Treatment and Pre-exposure Prophylaxis in Outpatients, last updated April 12, 2024
+2.Centers for Disease Control and Prevention (CDC): National Center for Immunization and Respiratory Diseases (NCIRD), Division of Viral Diseases: Interim Clinical Considerations for COVID-19 Treatment and Pre-exposure Prophylaxis in Outpatients, last updated April 12, 2024
+3.Dinnes J, Sharma P, Berhane S, et al: Rapid, point-of-care antigen tests for diagnosis of SARS-CoV-2 infection. Cochrane Database Syst Rev.2022;7(7):CD013705.Published 2022 Jul 22.doi:10.1002/14651858.CD013705.pub3
+3.Dinnes J, Sharma P, Berhane S, et al: Rapid, point-of-care antigen tests for diagnosis of SARS-CoV-2 infection. Cochrane Database Syst Rev.2022;7(7):CD013705.Published 2022 Jul 22.doi:10.1002/14651858.CD013705.pub3
+
+【呼吸道病毒感染的治疗】
+有时需要抗病毒药物
+有时需要抗病毒药物
+对于呼吸道病毒感染的治疗一般都是支持治疗。
+抗菌药物对病毒病原体无效，不建议对继发性细菌感染采取预防措施。  只有在出现继发细菌感染才使用抗菌药物。
+疑似呼吸道病毒感染的≤18岁以下患者不应使用阿司匹林，因为存在导致瑞氏综合征的风险。
+有些患者在上呼吸道感染痊愈后仍持续咳嗽3到8周(1)；使用吸入支气管扩张剂或糖皮质激素可减轻这些症状。
+在有些情况下，抗病毒药物起到很大的作用：
+奥司他韦、巴洛沙韦玛波西酯和扎那米韦对治疗流感有效（2）。
+奥司他韦、巴洛沙韦玛波西酯和扎那米韦对治疗流感有效（2）。
+在出现 COVID-19 症状后，可考虑使用尼玛瑞韦与利托那韦、瑞德西韦或莫努匹韦联合治疗，以防止高危患者病情进展为重症，而瑞德西韦可考虑用于治疗重症 COVID-19 患者（3）。
+在出现 COVID-19 症状后，可考虑使用尼玛瑞韦与利托那韦、瑞德西韦或莫努匹韦联合治疗，以防止高危患者病情进展为重症，而瑞德西韦可考虑用于治疗重症 COVID-19 患者（3）。
+利巴韦林是一种鸟苷类似物，可抑制多种RNA和DNA病毒的复制，可考虑用于因RSV导致下呼吸道感染的严重免疫功能低下患者(4)。
+利巴韦林是一种鸟苷类似物，可抑制多种RNA和DNA病毒的复制，可考虑用于因RSV导致下呼吸道感染的严重免疫功能低下患者(4)。
+尼塞韦单抗和帕利珠单抗是用于在婴儿和幼儿中预防呼吸道合胞病毒感染(5, 6, 7)。Nirsevimab是首选，但某些婴儿可能无法使用；如果没有，符合条件的高危婴儿和儿童应接受帕利珠单抗。
+尼塞韦单抗和帕利珠单抗是用于在婴儿和幼儿中预防呼吸道合胞病毒感染(5, 6, 7)。Nirsevimab是首选，但某些婴儿可能无法使用；如果没有，符合条件的高危婴儿和儿童应接受帕利珠单抗。
+
+【治疗参考文献】
+1.Irwin RS, French CL, Chang AB, Altman KW; CHEST Expert Cough Panel*: Classification of Cough as a Symptom in Adults and Management Algorithms: CHEST Guideline and Expert Panel Report.Chest.2018;153(1):196-209.doi:10.1016/j.chest.2017.10.016
+1.Irwin RS, French CL, Chang AB, Altman KW; CHEST Expert Cough Panel*: Classification of Cough as a Symptom in Adults and Management Algorithms: CHEST Guideline and Expert Panel Report.Chest.2018;153(1):196-209.doi:10.1016/j.chest.2017.10.016
+2.Centers for Disease Control and Prevention (CDC): National Center for Immunization and Respiratory Diseases (NCIRD): Influenza Antiviral Medications: Summary for Clinicians, last updated December 8, 2023
+2.Centers for Disease Control and Prevention (CDC): National Center for Immunization and Respiratory Diseases (NCIRD): Influenza Antiviral Medications: Summary for Clinicians, last updated December 8, 2023
+3.Centers for Disease Control and Prevention (CDC): National Center for Immunization and Respiratory Diseases (NCIRD), Division of Viral Diseases: Interim Clinical Considerations for COVID-19 Treatment and Pre-exposure Prophylaxis in Outpatients, last updated April 12, 2024
+3.Centers for Disease Control and Prevention (CDC): National Center for Immunization and Respiratory Diseases (NCIRD), Division of Viral Diseases: Interim Clinical Considerations for COVID-19 Treatment and Pre-exposure Prophylaxis in Outpatients, last updated April 12, 2024
+4.Manothummetha K, Mongkolkaew T, Tovichayathamrong P, et al:Ribavirintreatment for respiratory syncytial virus infection in patients with haematologic malignancy and haematopoietic stem cell transplant recipients: a systematic review and meta-analysis.Clin Microbiol Infect.2023;29(10):1272-1279.doi:10.1016/j.cmi.2023.04.021
+4.Manothummetha K, Mongkolkaew T, Tovichayathamrong P, et al:Ribavirintreatment for respiratory syncytial virus infection in patients with haematologic malignancy and haematopoietic stem cell transplant recipients: a systematic review and meta-analysis.Clin Microbiol Infect.2023;29(10):1272-1279.doi:10.1016/j.cmi.2023.04.021
+5.Hammitt LL, Dagan R, Yuan Y, et al:Nirsevimabfor Prevention of RSV in Healthy Late-Preterm and Term Infants.N Engl J Med.2022;386(9):837-846.doi:10.1056/NEJMoa2110275
+5.Hammitt LL, Dagan R, Yuan Y, et al:Nirsevimabfor Prevention of RSV in Healthy Late-Preterm and Term Infants.N Engl J Med.2022;386(9):837-846.doi:10.1056/NEJMoa2110275
+6.Griffin MP, Yuan Y, Takas T, et al: Single-DoseNirsevimabfor Prevention of RSV in Preterm Infants [published correction appears in N Engl J Med. 2020 Aug 13;383(7):698]. N Engl J Med.2020;383(5):415-425.doi:10.1056/NEJMoa1913556
+6.Griffin MP, Yuan Y, Takas T, et al: Single-DoseNirsevimabfor Prevention of RSV in Preterm Infants [published correction appears in N Engl J Med. 2020 Aug 13;383(7):698]. N Engl J Med.2020;383(5):415-425.doi:10.1056/NEJMoa1913556
+7.Garegnani L, Styrmisdóttir L, Roson Rodriguez P, et al:Palivizumabfor preventing severe respiratory syncytial virus (RSV) infection in children.Cochrane Database Syst Rev.2021;11(11):CD013757.Published 2021 Nov 16.doi:10.1002/14651858.CD013757.pub2
+7.Garegnani L, Styrmisdóttir L, Roson Rodriguez P, et al:Palivizumabfor preventing severe respiratory syncytial virus (RSV) infection in children.Cochrane Database Syst Rev.2021;11(11):CD013757.Published 2021 Nov 16.doi:10.1002/14651858.CD013757.pub2

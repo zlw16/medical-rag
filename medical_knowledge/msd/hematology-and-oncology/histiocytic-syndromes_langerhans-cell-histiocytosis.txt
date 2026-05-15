@@ -1,0 +1,157 @@
+标题：朗格汉斯细胞组织细胞增多症
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/histiocytic-syndromes/langerhans-cell-histiocytosis
+============================================================
+
+(参见于肺朗格汉斯细胞肉芽肿。）
+朗格汉斯细胞组织细胞增生症（LCH）是一种髓源性树突状细胞（抗原呈递细胞）疾病。它可以引起不同的临床症状。历史上，这些综合征被描述为嗜酸性肉芽肿、汉德-许勒尔-克思斯琴病和朗格汉斯细胞组织细胞增生症。因为这些综合征可能是同一疾病的不同表现，而且大多数LCH患者有不止一种综合征的表现，故现在单个综合征的命名（除了嗜酸性肉芽肿）大多数只具有历史意义。 LCH的估计发病率变化很大（如从1/50,000～1/200,000）。发病率约为5例/百万儿童（1）。
+所有LCH患者都有证据表明丝裂原活化蛋白激酶（MAPK）通路激活，RAS-RAF-MEK-ERK信号异常（1，2）。该通路参与调节正常髓系细胞分化和成熟。该途径内的突变导致途径的组成性激活，并对细胞成熟和凋亡产生负面影响。异常细胞分化、无限制生长和凋亡丧失导致肿瘤发生。BRAFV600E突变是约三分之二的 LCH 患者中最常见的突变。此突变是单等位基因突变，其作用同占优势的驱动癌基因类似。大约 10%至 15%的患者在其编码 MAP2K1 基因中存在突变，MAP2K1 是通路中的一种酶。由于存在这些突变，LCH在被认为是癌基因驱动的髓系癌症。
+在LCH中，异常增殖的髓源性树突状细胞浸润一个或多个器官。骨、皮肤、牙齿、齿龈组织、耳、内分泌器官、肺、肝、脾、淋巴结和骨髓均可能累及。由于浸润或邻近增大的组织压迫，受累器官可发生功能障碍。大约一半的患者有多脏器受累。
+
+【参考文献】
+1.Allen CE, Merad M, McClain KL: Langerhans-cell histiocytosis.N Engl J Med379(9):856–868, 2018.doi: 10.1056/NEJMra1607548
+1.Allen CE, Merad M, McClain KL: Langerhans-cell histiocytosis.N Engl J Med379(9):856–868, 2018.doi: 10.1056/NEJMra1607548
+2.Sconocchia T, Foßelteder J, Sconocchia G, Reinisch A:Langerhans cell histiocytosis: current advances in molecular pathogenesis.Front Immunol2023 Oct 26;14:1275085.doi: 10.3389/fimmu.2023.1275085.PMID: 37965340; PMCID: PMC10642229.
+2.Sconocchia T, Foßelteder J, Sconocchia G, Reinisch A:Langerhans cell histiocytosis: current advances in molecular pathogenesis.Front Immunol2023 Oct 26;14:1275085.doi: 10.3389/fimmu.2023.1275085.PMID: 37965340; PMCID: PMC10642229.
+
+【朗格汉斯细胞组织细胞增生症的症状和体征】
+根据受累器官的不同，朗格汉斯细胞组织细胞增多症的症状和体征也有差异 (1)。
+根据器官受累情况可分为2组 (2)：
+单一系统受累
+单一系统受累
+多系统受累
+多系统受累
+单一系统疾病是指以下器官之一出现单个或多个病灶：骨骼、皮肤、淋巴结、肺、中枢神经系统或其他罕见部位（如甲状腺、胸腺）。嗜酸性肉芽肿是骨单系统疾病的一个例子。
+多系统疾病是指两种或两种以上的器官系统受累。危险器官是那些受累预示预后较差的器官，包括肝、脾和骨髓。无危险器官受累的多系统疾病被认为是低危险疾病，过去被称为汉德-许勒尔-克思斯琴病病。多系统疾病伴有高危器官受累被视为高危疾病，过去称为Letterer-Siwe病。
+这里，综合征以历史的命名来描述，但很少有患者出现典型的临床表现，除了嗜酸性肉芽肿，故这些命名已不再使用。
+这张图片显示了由组织细胞增生的皮肤表现引起的红斑丘疹。
+Image courtesy of Karen McKoy, MD.
+
+【嗜酸性肉芽肿（单个系统疾病）】
+单灶或多灶单系统病变主要发生在较大的儿童以及年轻的成年人中，一般为30岁左右，发病高峰为5～10岁。损害最常累及骨骼，常伴疼痛，负重无力，或两者均出现，并伴有突出表面的软性肿块（有时伴热感）。
+
+【先天性自愈网状组织细胞增多症（单系统疾病）】
+先天性自愈性网状血细胞增多症（以前称为桥本-普利兹克病）是一种单系统疾病，在新生儿中出现孤立的皮肤损伤。病变通常自行消退或对局部类固醇治疗有反应。应对患者进行评估，排除多系统疾病。
+
+【无危险器官受累的多系统疾病（汉德-许勒尔-克思斯琴病）】
+该综合征主要发生在2～5岁的儿童以及一些年龄较大的儿童和成人中。这种全身性疾病的典型表现包括累及颅骨、肋骨、骨盆、肩胛骨或两者兼有。长骨和腰椎骶骨较少受累；腕、手、膝、足或颈椎骨的累及很罕见。对于有典型表现的患者，可能存在眼球突出由眼眶肿瘤肿块引起。偶可发生视神经或眼肌受累导致视力减退或斜视。在老年患者中，由于齿龈和下颌浸润引起的牙齿脱落较为常见。
+由于颞骨乳突和岩状部位受累及耳道部分阻塞所引起的慢性中耳炎和外耳炎相当多见。抗利尿激素（ADH）缺乏（中枢性尿囊症），是经典三联症的一个组成部分，还包括扁平骨受累和突出，影响5%至50%的患者，在患有全身性疾病并累及眼眶和颅骨的儿童中所占比例更高。40%有系统疾病的儿童可出现身材矮小。下丘脑浸润可引起高催乳素血症和低促性腺激素血症。
+
+【伴有危险器官受累的多系统疾病（Letterer-Siwe 病）】
+此综合征是一种全身性疾病，也是最严重的一类朗格汉斯细胞组织细胞增生症。通常，<2岁的儿童表现为鳞屑脂溢性湿疹样皮疹，有时呈紫癜样皮疹，可累及头皮、耳道、腹部和颈面部的褶皱部位。皮肤损伤可促进微生物入侵，导致败血症。常见耳脓肿、淋巴结肿大、肝脾大，严重的患者可出现肝功能异常伴低蛋白血症及凝血因子合成减少。 也可能发生厌食、急躁、体重减轻和呼吸道症状（如咳嗽、呼吸急促、气胸）。可以有明显的贫血，有时发生中性粒细胞减少；血小板减少可提示预后不良。父母常描述孩子出牙过早，实际上是牙龈收缩暴露出了不成熟的牙齿。患者往往被误诊或漏诊。
+
+【症状和体征参考】
+1.Rodriguez-Galindo C: Clinical features and treatment of Langerhans cell histiocytosis.Acta Paediatr110(11):2892–2902, 2021.doi:10.1111/apa.16014
+1.Rodriguez-Galindo C: Clinical features and treatment of Langerhans cell histiocytosis.Acta Paediatr110(11):2892–2902, 2021.doi:10.1111/apa.16014
+2.Sconocchia T, Foßelteder J, Sconocchia G, Reinisch A:Langerhans cell histiocytosis: current advances in molecular pathogenesis.Front Immunol14:1275085, 2023.doi: 10.3389/fimmu.2023.1275085
+2.Sconocchia T, Foßelteder J, Sconocchia G, Reinisch A:Langerhans cell histiocytosis: current advances in molecular pathogenesis.Front Immunol14:1275085, 2023.doi: 10.3389/fimmu.2023.1275085
+
+【朗格汉斯细胞组织细胞增生症的诊断】
+有不能解释的肺部侵犯、骨骼损害、眼部或头面部异常的患者，要怀疑LCH（尤其是年轻患者）；在<2岁的儿童中，有典型的皮疹或严重而不能解释的多脏器疾病也应怀疑该病。
+颅骨典型单骨性单灶性 LCH 病变（嗜酸性肉芽肿）的 X 线表现。病变边缘明显，但没有斜角。
+By permission of the publisher.From Swearingen B, Schaefer P, Primavera J, Klibanski A.InAtlas of Clinical Endocrinology: Neuroendocrinology and Pituitary Disease.Edited by S Korenman (series editor) and ME Molitch.Philadelphia, Current Medicine, 2000.
+该图显示右额骨中的软组织损伤，伴有相关的骨破坏和软组织向硬脑膜空间的颅内延伸（红色箭头）。存在不对称的覆盖头皮软组织。活检诊断为朗格汉斯细胞组织细胞增生症。
+Image courtesy of Carolyn Fein Levy, MD, and Jeffrey M.Lipton, MD, PhD.
+这张图片显示了右髂翼内的一个大的侵袭性病变。MRI显示，肿块在T2上呈异质性，T1信号较低，肿块和周围肌肉组织呈异质性增强，右侧腰大肌向内侧偏移，表明存在侵袭性骨损伤（左侧）。在x光片上可见回肠前翼和外侧翼内的一个大的溶解性损伤，该损伤延伸至坐骨的前部和下部（右）。有扩大的皮质和皮质不规则。活检诊断为朗格汉斯细胞组织细胞增生症。
+Images courtesy of Carolyn Fein Levy, MD, and Jeffrey M.Lipton, MD, PhD.
+因出现的症状，常需进行X线检查。骨骼损害常表现为边缘清晰的圆形或椭圆形病灶，伴可体现深度的斜角形边缘。然而，有些损害在影像学上与尤文肉瘤、骨肉瘤、其他一些良恶性疾病或骨髓炎难以相鉴别。
+故诊断需依靠活检。除在陈旧性病灶中，朗格汉斯细胞通常是很明显的，。这些细胞可由诊断LCH经验丰富的病理科医师根据其免疫组化特征来识别，包括细胞表面的CD1、CD207（朗格汉特异蛋白）及S-100（尽管非特异）。应检测肿瘤组织BRAFV600E通过下一代测序（NGS）检测突变和其他 MAPK 通路突变。一旦确诊，必须通过适当的实验室研究和影像学检查来确定疾病的程度。
+用于明确疾病范围的实验室检查包括：
+全血细胞计数及分类计数（不明原因贫血或血小板减少症患者需进行骨髓穿刺）
+全血细胞计数及分类计数（不明原因贫血或血小板减少症患者需进行骨髓穿刺）
+综合代谢检查
+综合代谢检查
+凝血功能检查
+凝血功能检查
+清晨尿液分析和尿液渗透压
+清晨尿液分析和尿液渗透压
+影像学检查究包括：
+骨骼检查，包括胸部X线检查
+骨骼检查，包括胸部X线检查
+腹部超声检查
+腹部超声检查
+胸部 CT 检查（如果胸片异常或出现肺部症状）
+胸部 CT 检查（如果胸片异常或出现肺部症状）
+腹部CT或MRI（如果检查显示肝脾肿大或肝功能检查结果异常）
+腹部CT或MRI（如果检查显示肝脾肿大或肝功能检查结果异常）
+如果可能的话，可行PET/CT（因其可识别骨骼检查中未发现的骨骼病变）
+如果可能的话，可行PET/CT（因其可识别骨骼检查中未发现的骨骼病变）
+脊柱 MRI（如果有临床指征或骨骼检查或 PET/CT 发现病变）
+脊柱 MRI（如果有临床指征或骨骼检查或 PET/CT 发现病变）
+头部 MRI（评估垂体、颞骨和眼眶）
+头部 MRI（评估垂体、颞骨和眼眶）
+
+【肺朗格汉斯细胞肉芽肿的治疗】
+支持治疗
+支持治疗
+有时是垂体功能减退的激素替代疗法最常见的是抗利尿激素缺陷
+有时是垂体功能减退的激素替代疗法最常见的是抗利尿激素缺陷
+多系统受累的化疗，单系统多灶受累的化疗，以及某些中枢神经系统危险部位的化疗，如颅底病变
+多系统受累的化疗，单系统多灶受累的化疗，以及某些中枢神经系统危险部位的化疗，如颅底病变
+有时采用刮除手术、皮质类固醇注射，或极少采用放射治疗（通常用于单侧骨受累）。
+有时采用刮除手术、皮质类固醇注射，或极少采用放射治疗（通常用于单侧骨受累）。
+支持治疗是必要的，包括严格的卫生清洁以限制耳部、皮肤及牙齿等病灶的发展。清创或切除严重受损的牙龈组织以限制口腔累及。每周两次使用硒洗发水可能会减轻头皮的脂溢性皮炎。如果洗发无效，可局部少量的使用糖皮质激素。
+伴系统性疾病的患者应检测潜在的慢性疾病，如美容或功能性的矫形、皮肤病及神经损伤以及可能需要心理支持治疗的心理疾病。
+尿崩症和其他垂体功能低下的患者需要激素替代治疗。
+化疗适用于多系统受累、单系统多灶受累和某些中枢神经系统危险部位的疾病，如颅骨（包括颧骨、眼眶骨、蝶骨、颞骨和筛骨—1, 2)。中枢神经系统风险病变会增加罹患神经退行性疾病的风险。因此，即使这些病变表现为单个骨病变，也建议治疗（2，3）。一般使用组织细胞协会推荐的方案，治疗方案根据危险分层而异。
+在第 6 周和第 12 周重复成像研究以评估对治疗的反应。反应良好的患者将继续接受治疗（4）。治疗期间反应不佳或进展的患者应接受更强化的治疗。治疗反应较差的患者以达到早期缓解的治疗方案仍在研究之中 (5)。
+局部手术、皮质类固醇注射、刮除或极少情况下的放射治疗用于治疗涉及单骨的疾病。这些治疗应当由有治疗朗格汉斯细胞组织细胞增多症经验的专家进行。非重要部位的可见病灶，可行手术刮除。当可能导致严重的整形畸形、骨科畸形或功能丧失时，应避免手术。
+放射治疗有时用于因脊柱突出、脊柱塌陷导致的骨骼畸形、脊髓损伤或严重疼痛而有视力丧失风险的患者。但是，随着化学疗法和靶向药物的使用，这几乎是没有必要的。
+标准治疗后病情进展的朗格汉斯细胞组织细胞增生症患者，通常对强度更大的化疗有应答。对挽救性化疗反应差的患者可能需要进行低强度的造血干细胞移植、试验性化疗或免疫抑制及其他免疫调节治疗。多线治疗失败的BRAFV600E突变患者可能是BRAF抑制剂（例如，vemurafenib, dabrafenib）单独或与MEK抑制剂（例如，曲美替尼）联合（6）的候选人，并且具有其他突变或无突变的患者可以考虑使用MAPK抑制剂治疗（例如，曲美替尼，cobimetinib -7,8）。靶向治疗中使用达拉非尼和曲美替尼作为一线治疗的成功案例已有报道(9)，但需要进一步在大规模患者群体中进行研究。
+
+【治疗参考文献】
+1.Minkov M, Grois N, McClain K, et al: Langerhans cell histiocytosis: Histocyte Society evaluation and treatment guidelines.April 2009.
+1.Minkov M, Grois N, McClain K, et al: Langerhans cell histiocytosis: Histocyte Society evaluation and treatment guidelines.April 2009.
+2.Haupt R, Minkov M, Astigarraga I, et al: Langerhans cell histiocytosis (LCH): guidelines for diagnosis, clinical work-up, and treatment for patients till the age of 18 years.Pediatr Blood Cancer60(2):175–184, 2013. doi: 10.1002/pbc.24367
+2.Haupt R, Minkov M, Astigarraga I, et al: Langerhans cell histiocytosis (LCH): guidelines for diagnosis, clinical work-up, and treatment for patients till the age of 18 years.Pediatr Blood Cancer60(2):175–184, 2013. doi: 10.1002/pbc.24367
+3.Allen CE, Ladisch S, McClain KL: How I treat Langerhans cell histiocytosis.Blood126(1):26–35, 2015.doi:10.1182/blood-2014-12-569301
+3.Allen CE, Ladisch S, McClain KL: How I treat Langerhans cell histiocytosis.Blood126(1):26–35, 2015.doi:10.1182/blood-2014-12-569301
+4.Gadner H, Minkov M, Grois N, et al: Therapy prolongation improves outcome in multisystem Langerhans cell histiocytosis.Blood121(25):5006–5014, 2013.doi: 10.1182/blood-2012-09-455774
+4.Gadner H, Minkov M, Grois N, et al: Therapy prolongation improves outcome in multisystem Langerhans cell histiocytosis.Blood121(25):5006–5014, 2013.doi: 10.1182/blood-2012-09-455774
+5.Gulati N, Allen CE: Langerhans cell histiocytosis: Version 2021.Hematol Oncol39 Suppl 1(Suppl 1):15–23, 2021.doi:10.1002/hon.2857
+5.Gulati N, Allen CE: Langerhans cell histiocytosis: Version 2021.Hematol Oncol39 Suppl 1(Suppl 1):15–23, 2021.doi:10.1002/hon.2857
+6.Whitlock JA, Geoerger B, Dunkel IJ, et al:Dabrafenib, alone or in combination withtrametinib, in BRAF V600-mutated pediatric Langerhans cell histiocytosis.Blood Adv7(15):3806–3815, 2023.doi:10.1182/bloodadvances.2022008414
+6.Whitlock JA, Geoerger B, Dunkel IJ, et al:Dabrafenib, alone or in combination withtrametinib, in BRAF V600-mutated pediatric Langerhans cell histiocytosis.Blood Adv7(15):3806–3815, 2023.doi:10.1182/bloodadvances.2022008414
+7.Suh JK, Kang S, Kim H, et al: Recent advances in the understanding of the molecular pathogenesis and targeted therapy options in Langerhans cell histiocytosis.Blood Res56(S1):S65–S69, 2021.doi: 10.5045/br.2021.2021013
+7.Suh JK, Kang S, Kim H, et al: Recent advances in the understanding of the molecular pathogenesis and targeted therapy options in Langerhans cell histiocytosis.Blood Res56(S1):S65–S69, 2021.doi: 10.5045/br.2021.2021013
+8.Diamond EL, Durham BH, Ulaner GA, et al: Efficacy of MEK inhibition in patients with histiocytic neoplasms.Nature567(7749):521–524, 2019.doi:10.1038/s41586-019-1012-y
+8.Diamond EL, Durham BH, Ulaner GA, et al: Efficacy of MEK inhibition in patients with histiocytic neoplasms.Nature567(7749):521–524, 2019.doi:10.1038/s41586-019-1012-y
+9.Cournoyer E, Ferrell J, Sharp S, et al:Dabrafenibandtrametinibin Langerhans cell histiocytosis and other histiocytic disorders.Haematologica109(4):1137–1148, 2024.doi:10.3324/haematol.2023.283295
+9.Cournoyer E, Ferrell J, Sharp S, et al:Dabrafenibandtrametinibin Langerhans cell histiocytosis and other histiocytic disorders.Haematologica109(4):1137–1148, 2024.doi:10.3324/haematol.2023.283295
+
+【朗格汉斯细胞组织细胞增多症的预后】
+通常，单一系统疾病（单病灶、多病灶及中枢神经系统[CNS]风险病损）以及没有高风险器官受累的多系统疾病患者被认为是低风险的。多系统疾病和高风险器官参与的患者被认为是高风险的。对治疗的反应已被证明是比年龄更重要的危险因素。
+伴多器官累及且不伴高风险器官受累的患者经过治疗后的总生存率为100%，但无事件生存率约为70% (1)。对早期治疗无应答的、伴器官受累的患者，很少发生死亡事件。然而，疾病复发更常见于多系统疾病患者的危险器官受累。可能出现慢性缓解和复发的过程，特别是在成年人中。
+一些证据表明，BRAFV600E突变更有可能存在于高风险多系统疾病患者中，这些疾病涉及风险器官，并且增加了治疗失败和复发的风险 (2)。循环中的 BRAFV600E 水平已被证明能够准确反映疾病活动并影响对治疗的反应（3，4）。进一步的研究正在进行中，以评估循环无细胞 BRAFV600E 作为疾病生物标志物，并将这些发现纳入治疗决策中。
+
+【预后参考】
+1.Haupt R, Minkov M, Astigarraga I, et al: Langerhans cell histiocytosis (LCH): guidelines for diagnosis, clinical work-up, and treatment for patients till the age of 18 years.Pediatr Blood Cancer60(2):175–184, 2013. doi: 10.1002/pbc.24367
+1.Haupt R, Minkov M, Astigarraga I, et al: Langerhans cell histiocytosis (LCH): guidelines for diagnosis, clinical work-up, and treatment for patients till the age of 18 years.Pediatr Blood Cancer60(2):175–184, 2013. doi: 10.1002/pbc.24367
+2.Héritier S, Emile JF, Barkaoui MA, et al: BRAF Mutation Correlates With High-Risk Langerhans Cell Histiocytosis and Increased Resistance to First-Line Therapy.J Clin Oncol34(25):3023–3030, 2016.doi:10.1200/JCO.2015.65.9508
+2.Héritier S, Emile JF, Barkaoui MA, et al: BRAF Mutation Correlates With High-Risk Langerhans Cell Histiocytosis and Increased Resistance to First-Line Therapy.J Clin Oncol34(25):3023–3030, 2016.doi:10.1200/JCO.2015.65.9508
+3.Héritier S, Hélias-Rodzewicz Z, Lapillonne H, et al: Circulating cell-free BRAFV600E as a biomarker in children with Langerhans cell histiocytosis.Br J Haematol178(3):457–467, 2017.doi:10.1111/bjh.14695
+3.Héritier S, Hélias-Rodzewicz Z, Lapillonne H, et al: Circulating cell-free BRAFV600E as a biomarker in children with Langerhans cell histiocytosis.Br J Haematol178(3):457–467, 2017.doi:10.1111/bjh.14695
+4.Wang CJ, Zhu T, Zhao CZ, et al: BRAF-V600E mutations in plasma and peripheral blood mononuclear cells correlate with prognosis of pediatric Langerhans cell histiocytosis treated with first-line therapy.Pediatr Blood Cancer71(9):e31099, 2024.doi:10.1002/pbc.31099
+4.Wang CJ, Zhu T, Zhao CZ, et al: BRAF-V600E mutations in plasma and peripheral blood mononuclear cells correlate with prognosis of pediatric Langerhans cell histiocytosis treated with first-line therapy.Pediatr Blood Cancer71(9):e31099, 2024.doi:10.1002/pbc.31099
+朗格汉斯细胞组织细胞增生症（LCH）涉及骨髓来源的树突状细胞浸润一个或多个器官的增殖。
+朗格汉斯细胞组织细胞增生症（LCH）涉及骨髓来源的树突状细胞浸润一个或多个器官的增殖。
+根据累及的器官不同，临床表现多样。
+根据累及的器官不同，临床表现多样。
+骨骼病变可引起疼痛；颅底损害可影响视觉、听觉及垂体功能（特别是引起尿崩症）。
+骨骼病变可引起疼痛；颅底损害可影响视觉、听觉及垂体功能（特别是引起尿崩症）。
+可影响肝、脾、淋巴结及骨髓，导致预后较差。
+可影响肝、脾、淋巴结及骨髓，导致预后较差。
+手术、使用或不适用糖皮质激素进行刮除术适用于单个骨骼受累时。
+手术、使用或不适用糖皮质激素进行刮除术适用于单个骨骼受累时。
+对多系统、多病灶和颅底部位受累的患者使用化疗。
+对多系统、多病灶和颅底部位受累的患者使用化疗。
+使用下一代测序技术可识别的突变有助于诊断、预后和靶向治疗。
+使用下一代测序技术可识别的突变有助于诊断、预后和靶向治疗。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+Histiocyte Society: International society for research into treatment of histiocytic diseases
+Histiocyte Society: International society for research into treatment of histiocytic diseases
+North American Consortium for Histiocytosis: Conducts clinical and translational studies on histiocytosis and supports researchers and clinicians working in the field
+North American Consortium for Histiocytosis: Conducts clinical and translational studies on histiocytosis and supports researchers and clinicians working in the field
+PDQ® Pediatric Treatment Editorial Board:PDQ Langerhans Cell Histiocytosis Treatment.Bethesda, MD: National Cancer Institute.Updated June 14, 2024.Available at: https://www.cancer.gov/types/langerhans/hp/langerhans-treatment-pdq.[PMID: 26389240].
+PDQ® Pediatric Treatment Editorial Board:PDQ Langerhans Cell Histiocytosis Treatment.Bethesda, MD: National Cancer Institute.Updated June 14, 2024.Available at: https://www.cancer.gov/types/langerhans/hp/langerhans-treatment-pdq.[PMID: 26389240].

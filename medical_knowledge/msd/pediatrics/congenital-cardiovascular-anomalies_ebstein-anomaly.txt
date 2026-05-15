@@ -1,0 +1,44 @@
+标题：三尖瓣下移畸形
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-cardiovascular-anomalies/ebstein-anomaly
+============================================================
+
+(参见先天性心血管畸形概述。)
+
+【三尖瓣下移畸形的病理生理学】
+Ebstein异常的主要异常是间隔和下三尖瓣小叶的可变部分粘附在右心室的心内膜表面。瓣叶的粘连导致三尖瓣有效瓣口向远端移位，损害了右心室的功能性大小，右心室心房化的部分位于瓣口近端。这种异常与母亲在怀孕期间使用锂有关，并且经常是先天性矫正大动脉转位异常的一部分。
+Ebstein异常与异常相关，所述异常通常包括三尖瓣小叶的严重发育不良和可变功能障碍、房间隔缺损、肺动脉狭窄和Wolff-Parkinson-White综合征。多种因素可能导致右房扩大和右房压力升高，例如“房化的心室”、三尖瓣返流和/或狭窄、舒张期功能异常、以及三尖瓣起始处远端的有效右室容量有限。右心房压力通常会超过左心房的压力，并导致卵圆孔未闭或房间隔缺损从右向左分流，随后出现发绀。对于非常严重的异常情况，在新生儿期，右心室可能无法产生大于升高的肺动脉压的收缩压，从而导致 "功能性肺动脉闭锁"（正常肺动脉瓣在收缩期无法打开）。
+
+【三尖瓣下移畸形的症状和体征】
+临床表现范围非常广泛，从新生儿的严重发绀、心脏扩大、儿童期的轻度发绀、青少年的运动不耐受，到先前无症状的成年人的房性心律失常或阵发性室上性心动过速。
+症状的出现取决于三尖瓣畸形的程度、功能的紊乱以及旁路的出现（例如，Wolff-Parkinson-White综合征）。
+临床体征包括第一心音（S1）的明显分裂，这是由于三尖瓣前叶关闭延迟，产生“帆状音”（一种复杂的关闭音，包括收缩期三尖瓣前叶和/或其他瓣叶膨出后突然停止的声音）。经常出现多种其他听诊结果，如三尖瓣反流引起的收缩杂音、三尖瓣狭窄引起的舒张杂音，以及右心室舒张顺应性异常引起的第三或第四心音。患者可能有颈静脉压升高、慢性发绀和杵状指。
+
+【Ebstein畸形的诊断】
+胸片和心电图
+胸片和心电图
+超声心动图
+超声心动图
+心电图常有电轴右偏、低电压右束支传导阻滞和一度房室传导阻滞。20% 的患者存在沃尔夫-帕金森-怀特 (WPW) 综合征。
+胸部x光检查结果包括不同程度的心脏肥大，右心房边界突出。一部分患有严重 Ebstein 异常的婴儿有巨大的心脏肥大，称为壁对壁心脏阴影。
+超声心动图清楚地描绘了三尖瓣的解剖和功能异常以及任何相关的缺陷。
+MRI 提供了有关三尖瓣的有价值的额外细节，这有助于规划手术干预。
+
+【Ebstein畸形的治疗】
+手术治疗
+手术治疗
+介入导管术
+介入导管术
+药物在控制严重紫绀和肺血流不足的新生儿方面发挥着作用。用前列腺素维持导管通畅可以让肺血管阻力有下降的时间。肺动脉压力的降低使受损的右心室能够提供足够的肺血流量。有些新生儿患有非常严重的 Ebstein 异常和右心室功能受损，需要通过布洛克-托马斯-陶西（BTT）分流术或其他复杂的外科手术进行更长时间的姑息治疗。
+出生几个月后，如果出现任何症状，或有证据表明三尖瓣功能进行性障碍或右心腔扩大，则应考虑手术修复三尖瓣。多年来，随着锥形手术等技术的发展，这种异常的手术治疗已经取得进步（1)。这种修复三尖瓣的方法包括剥离和移动三尖瓣瓣叶，拼接右心室的心房化部分和瓣环，并将新形成的 "瓣叶锥 "重新连接到真正的三尖瓣瓣环上。这些进步大大提高了外科医生的能力，即使是变形最严重的三尖瓣也能实现出色的功能修复。任何心房缺陷都会同时闭合。
+当出现发绀时，介入导管技术可用于关闭心房交通，但三尖瓣功能障碍只是轻微的。
+
+【治疗参考文献】
+1.da Silva JP, Baumgratz JF, da Fonseca L, et al: The cone reconstruction of the tricuspid valve in Ebstein's anomaly.The operation: early and midterm results.J Thorac Cardiovasc Surg133(1):215–223, 2007.doi:10.1016/j.jtcvs.2006.09.018
+1.da Silva JP, Baumgratz JF, da Fonseca L, et al: The cone reconstruction of the tricuspid valve in Ebstein's anomaly.The operation: early and midterm results.J Thorac Cardiovasc Surg133(1):215–223, 2007.doi:10.1016/j.jtcvs.2006.09.018
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+American Heart Association: Common Heart Defects: Provides overview of common congenital heart defects for parents and caregivers
+American Heart Association: Common Heart Defects: Provides overview of common congenital heart defects for parents and caregivers
+American Heart Association: Infective Endocarditis: Provides an overview of infective endocarditis, including summarizing prophylactic antibiotic use, for patients and caregivers
+American Heart Association: Infective Endocarditis: Provides an overview of infective endocarditis, including summarizing prophylactic antibiotic use, for patients and caregivers

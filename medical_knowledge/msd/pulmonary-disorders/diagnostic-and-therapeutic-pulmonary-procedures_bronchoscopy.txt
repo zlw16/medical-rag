@@ -1,0 +1,167 @@
+标题：支气管镜检查
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/diagnostic-and-therapeutic-pulmonary-procedures/bronchoscopy
+============================================================
+
+柔性纤维支气管镜（而不是刚性支气管镜）几乎用于所有诊断和大多数治疗适应症。
+ANTONIA REEVE/SCIENCE PHOTO LIBRARY
+
+【支气管镜检查的适应症】
+柔性支气管镜有助于气道的可视化和结果的记录(见表柔性纤维支气管镜的适应证)。
+诊断方面，可弯曲纤维支气管镜可用于以下情况：
+气道的直视下观察（可到亚段支气管）
+气道的直视下观察（可到亚段支气管）
+通过支气管冲洗和刷检、周围气道和肺泡灌洗可采集到呼吸道分泌物和细胞样本
+通过支气管冲洗和刷检、周围气道和肺泡灌洗可采集到呼吸道分泌物和细胞样本
+对支气管内膜、肺实质和纵隔结构进行活检
+对支气管内膜、肺实质和纵隔结构进行活检
+治疗用途包括:
+吸出滞留的分泌物
+吸出滞留的分泌物
+放置支气管内管、支架或瓣膜
+放置支气管内管、支架或瓣膜
+清除异物
+清除异物
+使用球囊扩张缓解气道狭窄
+使用球囊扩张缓解气道狭窄
+指导气管内插管
+指导气管内插管
+
+【纤维支气管镜检查的适应症】
+纤维支气管镜检查的适应症
+治疗方法
+用于诊断
+胸片异常：诊断免疫功能低下宿主、免疫功能正常的复发性或未缓解的肺炎患者的病因*；气管/纵隔/肺门肿块、肺实质肿块或结节的患者，尤其当病灶靠近近端肺时。
+肺不张（持久性）*
+咳嗽（持久的，病因不明的）*
+弥漫性肺疾病（经支气管肺活检）
+对肺移植受体的排异反应进行评估
+对患有烧伤的患者的气道进行评估
+胸部外伤患者的支气管破裂评估
+肺癌的分期
+痰细胞学检查阳性，而胸部X线检查正常的患者*
+怀疑为气管食管瘘
+哮鸣音（局部的/固定的）
+用于治疗†
+滞留分泌液的吸引*, ‡
+支气管肺泡灌洗（肺泡蛋白沉积症）
+激光切除肿瘤§
+治疗支气管胸膜瘘
+光动力治疗§
+放置气管支架 §
+在困难的条件下进行气管内插管（颈椎损伤，解剖结构异常）
+支气管内瓣膜的放置
+取出异物§
+*可弯曲纤维支气管镜检查只适用于微创检查和治疗失败后。
+†Criner GJ, Eberhardt R, Fernandez-Bussy S, et al.Interventional Bronchoscopy.Am J Respir Crit Care Med.2020;202(1):29-50.doi:10.1164/rccm.201907-1292SO
+‡柔性纤维支气管镜检查不能替代胸部物理治疗、支气管扩张剂雾化和鼻气管吸引；它应该用于低氧血症（接受机械通气的患者）和/或常规治疗难治性分泌物阻塞引起的肺叶不张。
+§刚性支气管镜检查比柔性支气管镜检查提供了更多的器械控制。
+*可弯曲纤维支气管镜检查只适用于微创检查和治疗失败后。
+†Criner GJ, Eberhardt R, Fernandez-Bussy S, et al.Interventional Bronchoscopy.Am J Respir Crit Care Med.2020;202(1):29-50.doi:10.1164/rccm.201907-1292SO
+‡柔性纤维支气管镜检查不能替代胸部物理治疗、支气管扩张剂雾化和鼻气管吸引；它应该用于低氧血症（接受机械通气的患者）和/或常规治疗难治性分泌物阻塞引起的肺叶不张。
+§刚性支气管镜检查比柔性支气管镜检查提供了更多的器械控制。
+硬式支气管镜只需要更大的孔径和通道以便更好地进行可视化和腔内操作时使用，例如：
+大量活动性肺出血（硬质支气管镜能更好地判断出血部位，其较粗的吸引管道也能更好地抽吸血液以防窒息）
+大量活动性肺出血（硬质支气管镜能更好地判断出血部位，其较粗的吸引管道也能更好地抽吸血液以防窒息）
+观察并移除儿童误吸的异物（在某些情况下）(1)
+观察并移除儿童误吸的异物（在某些情况下）(1)
+观察阻塞性支气管内病变（可能需要激光消蚀或放置支架）
+观察阻塞性支气管内病变（可能需要激光消蚀或放置支架）
+通过扩张治疗气道阻塞
+通过扩张治疗气道阻塞
+
+【适应症参考文献】
+1.Safia A, Abd Elhadi U, Bader R, et al.Flexible versus Rigid Bronchoscopy for Tracheobronchial Foreign Body Removal in Children: A Comparative Systematic Review and Meta-Analysis.J Clin Med.2024;13(18):5652.doi:10.3390/jcm13185652
+1.Safia A, Abd Elhadi U, Bader R, et al.Flexible versus Rigid Bronchoscopy for Tracheobronchial Foreign Body Removal in Children: A Comparative Systematic Review and Meta-Analysis.J Clin Med.2024;13(18):5652.doi:10.3390/jcm13185652
+
+【支气管镜检查的禁忌症】
+支气管镜的绝对禁忌证包括：
+伴有高碳酸血症的急性呼吸衰竭（除非患者已气管插管并在机械通气中）
+伴有高碳酸血症的急性呼吸衰竭（除非患者已气管插管并在机械通气中）
+高度的气管阻塞
+高度的气管阻塞
+检查过程中氧合不足的患者
+检查过程中氧合不足的患者
+未经治疗的致命性心律失常
+未经治疗的致命性心律失常
+支气管镜的相对禁忌证包括:
+近期心肌梗死
+近期心肌梗死
+无法或不愿意在手术过程中保持静止
+无法或不愿意在手术过程中保持静止
+未纠正的凝血障碍
+未纠正的凝血障碍
+对于出血风险增加的患者，应谨慎进行经支气管活检。但在这些病人中，气道内视诊是安全的。
+
+【支气管镜检查】
+支气管镜检查只能由肺科医生或经过培训的外科医生操作，需要有监护设备，通常在支气管镜检查室、手术室或重症监护室中进行。
+除真正紧急情况外，患者在支气管镜检查前一段时间内（具体时间因中心而异）不应口服任何东西，并应建立静脉通路，间歇监测血压，连续进行脉搏血氧监测和心脏监测。应使用氧疗。
+检查前可给予患者清醒镇静，用短效苯二氮卓类、阿片类药物或两者合用以减轻焦虑不适和咳嗽。在一些中心，全身麻醉(如丙泊酚深度镇静和气管插管气道控制或使用喉罩气道)通常用于支气管镜检查前。右美托咪定最近被研究作为支气管镜检查的镇静剂。
+利多卡因（1%或2%）喷雾或雾化吸入（体重70kg患者最大剂量250～300mg）麻醉咽部和声带。 支气管镜润滑后，经鼻或经口（使用口腔导气管或咬器）或经人工气道（如气管内导管）进入气道。在检查了鼻咽和喉部之后，临床医生在吸气期间将支气管镜穿过声带，进入气管，然后进一步向远端进入支气管。
+按需在透视引导下进行一些辅助操作：
+支气管冲洗：气道内注入生理盐水后吸出。
+支气管冲洗：气道内注入生理盐水后吸出。
+支气管刷检：经支气管镜送入毛刷，刷擦可疑病变部位获得细胞。
+支气管刷检：经支气管镜送入毛刷，刷擦可疑病变部位获得细胞。
+支气管肺泡灌洗：将50至200 mL无菌生理盐水注入远端支气管肺泡树，随后吸出，以获取位于肺泡水平的细胞、蛋白质和微生物。灌洗造成的局部肺水肿可能引起一过性的低氧血症。
+支气管肺泡灌洗：将50至200 mL无菌生理盐水注入远端支气管肺泡树，随后吸出，以获取位于肺泡水平的细胞、蛋白质和微生物。灌洗造成的局部肺水肿可能引起一过性的低氧血症。
+支气管内和经支气管活检：支气管内活检从气道腔内可见的病变处获取组织样本。经支气管活检使用镊子通过支气管镜和气道从肺实质的一个或多个部位获取样本。经支气管活检可以在没有透视指导的情况下进行，尽管透视的使用可能与更高的诊断率和更低的严重气胸发生率相关（1，2）。
+支气管内和经支气管活检：支气管内活检从气道腔内可见的病变处获取组织样本。经支气管活检使用镊子通过支气管镜和气道从肺实质的一个或多个部位获取样本。经支气管活检可以在没有透视指导的情况下进行，尽管透视的使用可能与更高的诊断率和更低的严重气胸发生率相关（1，2）。
+经支气管细针抽吸：经支气管镜伸入可伸缩式细针，吸取纵隔内肿大的淋巴结或肿块组织进行活检。支气管内超声检查可以用于指导细针活检
+经支气管细针抽吸：经支气管镜伸入可伸缩式细针，吸取纵隔内肿大的淋巴结或肿块组织进行活检。支气管内超声检查可以用于指导细针活检
+非危重患者通常给予补充氧气，并在手术后观察2至4小时。吞咽反射恢复和在不吸氧的情况下维持血氧饱和度是患者恢复的主要指标。
+
+【程序参考文献】
+1.Gould MK, Donington J, Lynch WR, et al.Evaluation of individuals with pulmonary nodules: when is it lung cancer?Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines.Chest.2013;143(5 Suppl):e93S-e120S.doi:10.1378/chest.12-2351
+1.Gould MK, Donington J, Lynch WR, et al.Evaluation of individuals with pulmonary nodules: when is it lung cancer?Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines.Chest.2013;143(5 Suppl):e93S-e120S.doi:10.1378/chest.12-2351
+2.Smyth CM, Stead RJ.Survey of flexible fibreoptic bronchoscopy in the United Kingdom.Eur Respir J.2002;19(3):458-463.doi:10.1183/09031936.02.00103702
+2.Smyth CM, Stead RJ.Survey of flexible fibreoptic bronchoscopy in the United Kingdom.Eur Respir J.2002;19(3):458-463.doi:10.1183/09031936.02.00103702
+
+【导航支气管镜】
+支气管镜检查可使用导航技术，对可疑的外周病灶进行活检。导航可以是电磁的、虚拟的或机器人的。在这两种类型中，薄层 CT 图像都用于在活检之前使用软件准备通往病变的虚拟支气管镜路径。
+虚拟引导：支气管镜图像与虚拟图像相结合，帮助实时指导支气管镜检查。
+虚拟引导：支气管镜图像与虚拟图像相结合，帮助实时指导支气管镜检查。
+电磁引导：放置在患者下方的电磁场可提供额外信息，帮助实时引导支气管镜检查（1）。这种手术比虚拟支气管镜检查更常见。
+电磁引导：放置在患者下方的电磁场可提供额外信息，帮助实时引导支气管镜检查（1）。这种手术比虚拟支气管镜检查更常见。
+机器人辅助支气管镜检查：形状感应技术和控制器用于改善导航。
+机器人辅助支气管镜检查：形状感应技术和控制器用于改善导航。
+导航支气管镜检查已迅速发展，其使用已增加。在周围性肺结节患者中，导航活检的诊断产出率不逊于经胸穿刺活检，总体而言，与标准柔性支气管镜检查相比，导航活检的诊断产出率更高(2、3)。
+
+【导航支气管镜检查参考文献】
+1.Folch EE, Pritchett MA, Nead MA, et al.Electromagnetic Navigation Bronchoscopy for Peripheral Pulmonary Lesions: One-Year Results of the Prospective, Multicenter NAVIGATE Study.J Thorac Oncol.2019 Mar;14(3):445-458.doi: 10.1016/j.jtho.2018.11.013
+1.Folch EE, Pritchett MA, Nead MA, et al.Electromagnetic Navigation Bronchoscopy for Peripheral Pulmonary Lesions: One-Year Results of the Prospective, Multicenter NAVIGATE Study.J Thorac Oncol.2019 Mar;14(3):445-458.doi: 10.1016/j.jtho.2018.11.013
+2.Kops SEP, Heus P, Korevaar DA, et al.Diagnostic yield and safety of navigation bronchoscopy: A systematic review and meta-analysis.Lung Cancer.2023;180:107196.doi:10.1016/j.lungcan.2023.107196
+2.Kops SEP, Heus P, Korevaar DA, et al.Diagnostic yield and safety of navigation bronchoscopy: A systematic review and meta-analysis.Lung Cancer.2023;180:107196.doi:10.1016/j.lungcan.2023.107196
+3.Lentz RJ, Frederick-Dyer K, Planz VB, et al.Navigational Bronchoscopy or Transthoracic Needle Biopsy for Lung Nodules.N Engl J Med.2025;392(21):2100-2112.doi:10.1056/NEJMoa2414059
+3.Lentz RJ, Frederick-Dyer K, Planz VB, et al.Navigational Bronchoscopy or Transthoracic Needle Biopsy for Lung Nodules.N Engl J Med.2025;392(21):2100-2112.doi:10.1056/NEJMoa2414059
+
+【支气管镜检查并发症】
+严重并发症不常见；少于15%的患者出现活检部位轻微出血和发热 (1,2,3)。
+支气管肺泡灌洗后患者咳嗽加重。
+极少数情况下，局部麻醉会导致喉痉挛、支气管痉挛、癫痫发作或心律失常或骤停。
+支气管镜检查本身可能导致:
+心律失常（最常见的是房性早搏、室性早搏或心动过缓）
+心律失常（最常见的是房性早搏、室性早搏或心动过缓）
+气体交换功能受损患者的低氧血症
+气体交换功能受损患者的低氧血症
+喉部轻度水肿或损伤，伴声音嘶哑
+喉部轻度水肿或损伤，伴声音嘶哑
+设备消毒不当导致的交叉感染（罕见）
+设备消毒不当导致的交叉感染（罕见）
+死亡率为1/7500至1/25000例患者（1，4）。高危者包括老年人和有严重合并症者（重度慢性阻塞性肺疾病[COPD]、冠状动脉疾病、伴低氧血症的肺炎、肿瘤晚期）。
+经支气管活检可引起气胸（约 1%–6%）或明显出血（约 1%–4%），但实施该操作通常可避免进行开胸术（5，6）。一般来说，合并症患者和经支气管镜介入手术的患者并发症发生率较高(7)。
+
+【并发症参考文献】
+1.Asano F, Aoe M, Ohsaki Y, et al.Deaths and complications associated with respiratory endoscopy: a survey by the Japan Society for Respiratory Endoscopy in 2010.Respirology.2012;17(3):478-485.doi:10.1111/j.1440-1843.2011.02123.x
+1.Asano F, Aoe M, Ohsaki Y, et al.Deaths and complications associated with respiratory endoscopy: a survey by the Japan Society for Respiratory Endoscopy in 2010.Respirology.2012;17(3):478-485.doi:10.1111/j.1440-1843.2011.02123.x
+2.Carr IM, Koegelenberg CF, von Groote-Bidlingmaier F, et al.Blood loss during flexible bronchoscopy: a prospective observational study.Respiration.2012;84(4):312-318.doi:10.1159/000339507
+2.Carr IM, Koegelenberg CF, von Groote-Bidlingmaier F, et al.Blood loss during flexible bronchoscopy: a prospective observational study.Respiration.2012;84(4):312-318.doi:10.1159/000339507
+3.Hackner K, Riegler W, Handzhiev S, et al.Fever after bronchoscopy: serum procalcitonin enables early diagnosis of post-interventional bacterial infection.BMC Pulm Med2017;17(1):156.doi:10.1186/s12890-017-0508-1
+3.Hackner K, Riegler W, Handzhiev S, et al.Fever after bronchoscopy: serum procalcitonin enables early diagnosis of post-interventional bacterial infection.BMC Pulm Med2017;17(1):156.doi:10.1186/s12890-017-0508-1
+4.Jin F, Mu D, Chu D, Fu E, Xie Y, Liu T.Severe complications of bronchoscopy.Respiration2008;76(4):429-433.doi:10.1159/000151656
+4.Jin F, Mu D, Chu D, Fu E, Xie Y, Liu T.Severe complications of bronchoscopy.Respiration2008;76(4):429-433.doi:10.1159/000151656
+5.Gupta N, Finlay GA, Kotloff RM, et al.Lymphangioleiomyomatosis Diagnosis and Management: High-Resolution Chest Computed Tomography, Transbronchial Lung Biopsy, and Pleural Disease Management.An Official American Thoracic Society/Japanese Respiratory Society Clinical Practice Guideline.Am J Respir Crit Care Med.2017;196(10):1337-1348.doi:10.1164/rccm.201709-1965ST
+5.Gupta N, Finlay GA, Kotloff RM, et al.Lymphangioleiomyomatosis Diagnosis and Management: High-Resolution Chest Computed Tomography, Transbronchial Lung Biopsy, and Pleural Disease Management.An Official American Thoracic Society/Japanese Respiratory Society Clinical Practice Guideline.Am J Respir Crit Care Med.2017;196(10):1337-1348.doi:10.1164/rccm.201709-1965ST
+6.Tukey MH, Wiener RS.Population-based estimates of transbronchial lung biopsy utilization and complications.Respir Med.2012;106(11):1559-1565.doi:10.1016/j.rmed.2012.08.008
+6.Tukey MH, Wiener RS.Population-based estimates of transbronchial lung biopsy utilization and complications.Respir Med.2012;106(11):1559-1565.doi:10.1016/j.rmed.2012.08.008
+7.Stahl DL, Richard KM, Papadimos TJ.Complications of bronchoscopy: A concise synopsis.Int J Crit Illn Inj Sci.2015;5(3):189-195.doi:10.4103/2229-5151.164995
+7.Stahl DL, Richard KM, Papadimos TJ.Complications of bronchoscopy: A concise synopsis.Int J Crit Illn Inj Sci.2015;5(3):189-195.doi:10.4103/2229-5151.164995

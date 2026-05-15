@@ -1,0 +1,31 @@
+标题：小头畸形
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-craniofacial-anomalies/microcephaly
+============================================================
+
+(参见先天性颅面畸形概述。)
+小头畸形患者的头部相对于身体其他部位明显偏小。
+小头畸形的病因包括染色体异常和环境因素，如产前接触药物、酒精或辐射，产前感染（如TORCH综合征[t弓形虫病、o其他病原体、r风疹、c巨细胞病毒和h单纯疱疹]、寨卡病毒），以及母亲未控制的苯丙酮尿症。小头畸形也是＞400个遗传综合征的某一表现。
+小头畸形本身的预后包括神经系统发育障碍（例如，癫痫症，智力障碍，痉挛）。
+这张照片显示一名患有小头畸形的儿童，其头围比同龄平均值小于<2个标准差。他还有其他畸形，包括前额倾斜、小颌、相对较大的耳朵和四肢严重挛缩。
+
+【小头畸形的诊断】
+产前超声检查
+产前超声检查
+产后体检，包括测量头围和头颅成像
+产后体检，包括测量头围和头颅成像
+基因检测
+基因检测
+产前，小头畸形的诊断有时通过妊娠中晚期或晚期初的超声检查进行。
+产后评估应包括详细的产前病史（用于识别风险因素）、发育和神经系统评估，以及脑部MRI或CT检查。原发性孤立性常染色体隐性遗传小头畸形是指与其他脑外畸形无关的小头畸形。有几种不同的基因可以导致这种现象。
+即使在明显孤立的先天性异常的情况下，临床遗传学家也应评估受影响的患者。
+小头畸形可能伴有染色体异常。需考虑的遗传综合征包括Seckel综合征、Smith-Lemli-Opitz综合征、DNA修复缺陷相关综合征（如Fanconi综合征和Cockayne综合征）以及Angelman综合征。对受累的儿童的父母，随后的后代出现病症的风险可能会高达25％，这取决于存在何种综合征，因此临床遗传评估是有必要的。可通过几个诊断实验室获得特定于小头畸形的基因组测试。染色体微阵列分析，或更广泛的基因组测试也应考虑在小头畸形患者的评估中。如果这些测试的结果无法诊断，则建议进行全外显子组测序分析。
+
+【小头畸形的治疗】
+对症治疗
+对症治疗
+治疗脑损伤引起的症状。可以治疗一些导致小头畸形的疾病。
+总体而言，管理以症状为基础，发展服务最大化（1）。
+
+【治疗参考文献】
+1.Ashwal S, Michelson D, Plawner L, Dobyns WB; Quality Standards Subcommittee of the American Academy of Neurology and the Practice Committee of the Child Neurology Society.Practice parameter: Evaluation of the child with microcephaly (an evidence-based review): report of the Quality Standards Subcommittee of the American Academy of Neurology and the Practice Committee of the Child Neurology Society.Neurology.2009;73(11):887-897.doi:10.1212/WNL.0b013e3181b783f7
+1.Ashwal S, Michelson D, Plawner L, Dobyns WB; Quality Standards Subcommittee of the American Academy of Neurology and the Practice Committee of the Child Neurology Society.Practice parameter: Evaluation of the child with microcephaly (an evidence-based review): report of the Quality Standards Subcommittee of the American Academy of Neurology and the Practice Committee of the Child Neurology Society.Neurology.2009;73(11):887-897.doi:10.1212/WNL.0b013e3181b783f7

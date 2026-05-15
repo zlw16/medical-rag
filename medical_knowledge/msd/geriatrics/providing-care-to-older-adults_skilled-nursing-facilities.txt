@@ -1,0 +1,219 @@
+标题：专业护理机构
+来源：https://www.msdmanuals.cn/professional/geriatrics/providing-care-to-older-adults/skilled-nursing-facilities
+============================================================
+
+每个州根据联邦医疗保险标准，认证考核专业护理机构（SNF——也称为护理之家）。专业的护理机构通常为65岁及以上人群（以及年轻残疾人——参见表格养老院概览）提供广泛的健康相关服务。服务包括
+专业的护理（即由医生开具医嘱，且只能由注册护士或持照职业护士提供的护理）
+专业的护理（即由医生开具医嘱，且只能由注册护士或持照职业护士提供的护理）
+复健服务（如，物理、语言和职业治疗）
+复健服务（如，物理、语言和职业治疗）
+生活照料（即提供膳食、协助个人护理活动）
+生活照料（即提供膳食、协助个人护理活动）
+医学相关社会服务
+医学相关社会服务
+医药服务
+医药服务
+适合于每个人需要的饮食服务
+适合于每个人需要的饮食服务
+护理之家在护理类型方面可能不同。许多机构在患者受伤或患病后（如髋部骨折、心肌梗死、中风）提供短期急性后期护理（包括强化物理、职业、呼吸和言语治疗或强化护理服务）。医院（包括设有可转换病床的乡村医院）或可能隶属于医院也可能独立的独立机构，可以充当疗养院。几乎所有养老院都在一定程度上提供长期护理服务，许多养老院还提供额外的社区服务（例如，日间照料、临时护理）。
+如果社区长期照护服务（例如老年人独立住房、寄宿照料设施、辅助生活社区、终身照护社区）能够提供、可及且价格可负担，那么入住养老院可能并非必要。 安置完全取决于患者需要的护理或支持性护理的数量以及具体设施的能力，两者差异很大。
+部分因为大大依赖于非正式照护的辅助生活机构和家庭卫生保健使用得越来越多，入住长期疗养院的患者比例已经有所减少。
+大量≥65 岁的人至少会在养老院呆上一段时间；然而，只有5-10%的老年人在养老院生活（即至少呆上几年）（1)。疗养院安置的风险随着年龄的增长而显著增加。一个人在一生中被安置在养老院的可能性与慢性病数量、行动能力、认知状态和年龄密切相关（例如，65至74岁的人，可能性很高，但对于>85岁的人，可能性则显著更高）。
+然而，在社区生活的功能依赖的患者是护理之家中的2倍。许多居住在社区的老年人没有家庭成员来帮助他们照顾自己。特别关注社区居住老年人的健康和医疗保健需求，不仅能提升他们的生活质量和延长寿命，还能通过预防机构化来限制成本。
+
+【护理之家一览表】
+护理之家一览表
+认证养老院数量
+约15,300（2020年数据）*
+2020*年约为160万
+居民数目
+2020*年约为130万
+居民（患者）
+联邦医疗保险覆盖的需要
+必须需要每日专业的护理照护或每日复健治疗
+必须在最少住院3天后的30天内入住护理之家或复健服务中心 （在某些情况下可以免除 3 天的住院治疗，包括某些 Medicare Advantage 计划）
+安置护理之家的危险因素
+无法照顾自己
+精神状态受损（如痴呆）
+缺乏社会或非正规社会支援
+居民潜在获益
+结构性增加
+社会化机会
+营养鼓励
+运动与活动
+获得护理保健
+有助药物治疗的依从性
+居民的潜在问题
+不能离开机构
+很少的来访者
+因为居民生病或年事已高，投诉可能不被相信或认真对待
+虐待，可能是隐性的（例如，不当使用药物和身体约束来控制破坏性行为）或显性的（例如，掐、扇耳光、猛拉）
+功能能力的下降‡
+营养不良和体重下降‡
+压力性损伤†
+多重用药‡
+医疗保险报销要求
+一名注册护士在现场工作8小时/天，每周7天
+注册护士或持牌职业护士/执业护士，每周7天、每天 24小时
+经过认证的护理助理足以每周7天、每天24小时为居民提供护理
+如果该机构拥有>120张床位，则应配备一名全职社工
+一名医学指导和有执照的护理之家管理人
+一名有资质的康乐治疗师提供康乐活动
+一名复健治疗师
+一名营养师
+医生、药剂师、牙医及牧师服务应根据需要提供，但无需常驻现场
+注：2024年，美国医疗保险和医疗补助服务中心（CMS）发布了长期护理机构最低人员配备标准和医疗补助机构支付透明度报告最终规则，旨在为美国疗养院实施最低人员配置要求。这些要求的实施时间表从最终规则发布日期（2024年5月10日）开始计算，所有非农村设施将在3年内分阶段实施。
+可能的额外服务
+医学专科服务（如眼科、耳鼻喉科、神经科、精神科、心理科），可能需要将患者转入其他机构
+静脉治疗
+通过喂养管进行肠内营养
+长期 氧疗或呼吸机支持
+特别监护病房（如，Alzheimer病或癌症患者）§
+定期的团体康乐活动
+患者闲余时间活动的选择，特别是那些认知功能障碍或卧床的病人
+个人服务（如美容美发、化妆），常需要患者个人支付资金
+*Centers for Disease Control and Prevention(CDC): FastStats: Nursing Home Care.Accessed May 2024.
+†LongTermCare.gov: Costs of Care.Accessed June 2024.
+‡这些问题，在护理之家居民中通常进展或加重，有时可以通过细心照护预防。
+§特别监护病房必须有特别的流程和入院标准，特别为此病房训练工作人员，满足规章和报销需要，有一个明确的区域或独立的空间。
+*Centers for Disease Control and Prevention(CDC): FastStats: Nursing Home Care.Accessed May 2024.
+†LongTermCare.gov: Costs of Care.Accessed June 2024.
+‡这些问题，在护理之家居民中通常进展或加重，有时可以通过细心照护预防。
+§特别监护病房必须有特别的流程和入院标准，特别为此病房训练工作人员，满足规章和报销需要，有一个明确的区域或独立的空间。
+（参见老年保健概述。)
+
+【参考文献】
+1.Hurd MD, Michaud PC, Rohwedder S: Distribution of lifetime nursing home use and of out-of-pocket spending.Proc Natl Acad Sci U S A114(37):9838–9842, 2017.doi: 10.1073/pnas.1700618114
+1.Hurd MD, Michaud PC, Rohwedder S: Distribution of lifetime nursing home use and of out-of-pocket spending.Proc Natl Acad Sci U S A114(37):9838–9842, 2017.doi: 10.1073/pnas.1700618114
+
+【COVID-19大流行对疗养院护理的影响】
+COVID-19对美国养老院中的老年人造成了尤为严重的影响。截至2024年8月，已报告确诊的COVID-19病例超过 200万例，疗养院居民死亡人数超过170,000人。此外，还报告了近200万养老院工作人员确诊病例（1）。在新冠肺炎疫情期间，大量养老院工作人员遭受精神困扰和职业倦怠，离开了养老院，有些人甚至离开了这个行业。此外，在COVID-19大流行期间，约有300家疗养院关闭，预计未来会有更多的疗养院关闭。幸运的是，自从COVID-19疫苗上市以来，养老院居民和工作人员的死亡人数都有所减少。然而，尽管大多数养老院居民在疫情期间都接种了疫苗，但自疫情结束以来，疫苗接种率已下降至约 30%。此外，截至2024年7月底，只有约10%的养老院工作人员已完全接种COVID-19疫苗（见疾病预防控制中心：养老院COVID-19疫苗接种数据仪表板）。
+
+【新冠肺炎大流行与疗养院参考】
+1.Centers for Medicare and Medicaid Services: COVID-19 Nursing Home Data.Accessed August 2024.
+1.Centers for Medicare and Medicaid Services: COVID-19 Nursing Home Data.Accessed August 2024.
+
+【医疗监督】
+医生必须完成对养老院居民的初步入院手续。然后，他们可能会将居民的后续护理委托给执业护士或医生助理，他们与医生轮流探访居民。 医生必须根据医疗需要定期探诊护理之家的病人，在最初的90天内不低于每30天探诊一次，以后至少每60天探诊一次;但是，有些州要求每 30 天至少访问一次。 对于长期护理患者，执业护士可根据所在州是否允许独立执业，为住院患者提供独立护理（1，2）。
+在常规就诊期间，应检查患者，评估用药方案，并根据需要安排实验室检查。检查结果必须记录在患者的病历中，以便其他工作人员了解情况。一些医生、执业护士和医师助理将其执业范围限定在养老院。他们可以参与团队活动和员工教育，并与其他工作人员进行咨询，从而促进比每隔一个月匆忙探访所提供的更好的护理。一些执业护士和医生协作管理患者的疾病。通过适时给予抗生素治疗，并监测静脉输液管路、吸痰设备及呼吸机，执业护士可帮助预防患者住院（3）。许多医生与执业护士或医生助理密切合作，以提供基于团队的护理。
+检测和预防虐待也是医生、护士和其他医务工作者的职责。所有参与老年人护理的临床医生都应熟悉虐待或忽视的迹象，并在怀疑存在虐待行为时随时准备介入。存在公共倡导体系，养老院可能受到监管机构的传讯。
+联邦和州政府依法负责确保设施提供优质护理；检查员通过监测结果指标、观察护理过程、访谈患者和工作人员以及审查临床记录，试图评估设施的表现并发现不足之处。
+新冠肺炎疫情凸显了养老院护理质量方面的一系列问题（4）；这促使政府监管机构更加仔细地关注养老院的护理情况。作为回应，监管机构为疗养院工作人员提供了有关感染控制的强化培训，并且在一些州要求疗养院配备具有感染预防专业知识的全职工作人员 (5)。2022 年，美国国家科学、工程和医学院 (NASEM) 成立了养老院护理质量委员会，以研究美国养老院护理的现状。该委员会就改善养老院护理提出了以下建议（6)：
+提供全面的、以人为本的、公平的护理，确保疗养院住户的健康、生活质量和安全；促进住户的自主性；并管理风险。
+提供全面的、以人为本的、公平的护理，确保疗养院住户的健康、生活质量和安全；促进住户的自主性；并管理风险。
+确保有一支准备充分、有能力、有适当报酬的员工队伍
+确保有一支准备充分、有能力、有适当报酬的员工队伍
+增加财务、业务和所有权的透明度和问责制
+增加财务、业务和所有权的透明度和问责制
+打造更加合理稳健的融资体系
+打造更加合理稳健的融资体系
+设计一个更有效和反应迅速的质量保障体系
+设计一个更有效和反应迅速的质量保障体系
+扩大和加强质量测量和持续质量改进
+扩大和加强质量测量和持续质量改进
+在所有疗养院采用健康信息技术
+在所有疗养院采用健康信息技术
+在未来几年，必须集中精力实施这些建议，以确保弱势老年人获得他们应得的高质量和安全护理。
+
+【护理监督的参考】
+1.American Association of Nurse Practitioners: State Practice Environment.Accessed May 2024.
+1.American Association of Nurse Practitioners: State Practice Environment.Accessed May 2024.
+2.Katz PR, Ryskina K, Saliba D, et al: Medical care delivery in U.S. nursing homes: Current and future practice. The Gerontologist. 2021;61(4):595–604.
+2.Katz PR, Ryskina K, Saliba D, et al: Medical care delivery in U.S. nursing homes: Current and future practice. The Gerontologist. 2021;61(4):595–604.
+3.Kilpatrick K, Tchouaket É, Jabbour M, Hains S: A mixed methods quality improvement study to implement nurse practitioner roles and improve care for residents in long-term care facilities.BMC Nurs.2020;19:6.Published 2020 Jan 29.doi:10.1186/s12912-019-0395-2
+3.Kilpatrick K, Tchouaket É, Jabbour M, Hains S: A mixed methods quality improvement study to implement nurse practitioner roles and improve care for residents in long-term care facilities.BMC Nurs.2020;19:6.Published 2020 Jan 29.doi:10.1186/s12912-019-0395-2
+4.Ouslander JG, Grabowski DC: COVID-19 in Nursing Homes: Calming the Perfect Storm.J Am Geriatr Soc.2020;68(10):2153-2162.doi:10.1111/jgs.16784
+4.Ouslander JG, Grabowski DC: COVID-19 in Nursing Homes: Calming the Perfect Storm.J Am Geriatr Soc.2020;68(10):2153-2162.doi:10.1111/jgs.16784
+5.Bakerjian D, Boltz M, Bowers B, et al.Expert nurse response to workforce recommendations made by The Coronavirus Commission For Safety And Quality In Nursing Homes.Nurs Outlook.2021;69(5):735-743.doi:10.1016/j.outlook.2021.03.017
+5.Bakerjian D, Boltz M, Bowers B, et al.Expert nurse response to workforce recommendations made by The Coronavirus Commission For Safety And Quality In Nursing Homes.Nurs Outlook.2021;69(5):735-743.doi:10.1016/j.outlook.2021.03.017
+6.National Academies of Sciences, Engineering, and Medicine: The National Imperative to Improve Nursing Home Quality: Honoring Our Commitment to Residents, Families, and Staff.Washington, DC, The National Academies Press, 2022.doi: 10.17226/26526
+6.National Academies of Sciences, Engineering, and Medicine: The National Imperative to Improve Nursing Home Quality: Honoring Our Commitment to Residents, Families, and Staff.Washington, DC, The National Academies Press, 2022.doi: 10.17226/26526
+
+【住院治疗】
+如果需要住院治疗，在疗养院照顾患者的医生应与医院治疗该患者的医生协调。然而，考虑到住院可能带来的风险（如院内感染等），应尽可能避免让老年患者住院治疗。。
+当患者被转送入院，应随身携带他们的医疗记录、预先指示以及用于维持生命治疗的医嘱（MOLST或POLST表）。养老院护士致电医院护士，有助于解释诊断与转院原因，并描述患者的基础功能与精神状态、用药情况及预先指示。
+同样，当患者从医院返回疗养院时，医院护士应致电疗养院护士进行沟通。许多疗养院使用SBAR（情况，背景，评估，建议）表格进行所有转接，以确保向医院提供相关信息（见SBAR工具包Institute for Healthcare Improvement)。
+在美国，养老院护理费用昂贵，2016年半私人房间平均每天费用约为225美元或每月6,844美元，私人房间平均每天费用约为253美元或每月7,698美元（1）。养老院护理费用在1980年为210亿美元，2000年为700亿美元，2005年为1219亿美元，2015年则超过1570亿美元。联邦政府和州政府通过医疗保险，医疗补助和美国退伍军人事务部（VA）支付近75％的费用。
+
+【成本参考】
+1.LongTermCare.gov: Costs of Care.Accessed June 2024.
+1.LongTermCare.gov: Costs of Care.Accessed June 2024.
+
+【报销相关问题】
+批评者提出以下观点：
+报销比例可能过低，限制了患者获得康复及提升生活质量的服务，特别是对于痴呆症患者而言。
+报销比例可能过低，限制了患者获得康复及提升生活质量的服务，特别是对于痴呆症患者而言。
+为功能受限的患者提供康复护理和康复治疗的经济激励措施可能不足。
+为功能受限的患者提供康复护理和康复治疗的经济激励措施可能不足。
+护理之家可能被驱动去助长依赖性或保持高级别护理的需要，使得报销最大化。
+护理之家可能被驱动去助长依赖性或保持高级别护理的需要，使得报销最大化。
+2019 年 10 月，Medicare 将其专业护理机构的报销方式从资源利用组 (RUGS) 模式更改为患者驱动支付模式 (PDPM)。RUGS主要依据提供的治疗服务量作为支付分类的基础，这促使专业护理机构无论患者需求如何都倾向于提供服务。PDPM 衡量提供给患者的服务与疗养院整体提供的服务量。PDPM 包括 5 个病例组合调整组件（物理、职业和言语治疗，以及护理和非治疗辅助护理）和一个非病例组合调整组件，以解决所使用的资源不会因患者而异。
+
+【护理之家安置】
+通过全面的老年评估，包括对所有疾病的识别和评估以及对患者功能能力的评估，可以最有效地确定患者的偏好和需求。致残或增加负担的疾病——最常见的是痴呆、大小便失禁、行动不便——可能需要考虑安置入护理之家。然而，即使是轻微的病情改善，也可能避免入住疗养院的需求（参见表避免入住疗养院的策略）。老年人是长期护理服务的主要使用者，其中包括（1)
+83% 的养老院居民
+83% 的养老院居民
+92％的临终关怀患者
+92％的临终关怀患者
+99%的养老院居民
+99%的养老院居民
+81％的家庭健康患者
+81％的家庭健康患者
+44％的成人日间服务参与者
+44％的成人日间服务参与者
+
+【避免安置于护理之家的策略】
+避免安置于护理之家的策略
+出现的问题
+可能的解决方案
+治疗病因可使患者留在家中定时排尿可能有帮助。
+家庭成员或其他照顾者可以学习管理令人沮丧的或破坏性行为的策略。例如，使用购买或租赁的监测设备有助于应对夜间游走等行为。
+功能损伤
+物理和职业治疗师和家庭卫生护士能
+在患者家评估患者
+在患者家评估患者
+帮助确定是否需要搬至护理之家或生活辅助机构
+帮助确定是否需要搬至护理之家或生活辅助机构
+给出建议帮助患者功能恢复
+给出建议帮助患者功能恢复
+教患者使用适应装置
+教患者使用适应装置
+鼓励锻炼
+鼓励锻炼
+如果需要，提供耐用的医疗设备
+护理人员职业倦怠
+支持和短期服务可以帮助防止家属或其他照护者产生愤怒情绪或精疲力竭。
+医生可以通过倾听照顾者谈论他们的负担，并提供有关社区照顾支持小组以及付费临时看护选择的信息来提供帮助。
+
+【养老院的选择】
+护理之家在提供的医疗、护理和社会服务的类型方面差异很大。一些州政府设定的最小护士与患者的比例比联邦政府的条件严格；其他工作人员与患者的比例也有很大的不同。
+医生、执业护士和医师助理应协助家属选择与患者需求相匹配的养老院服务。从业者应该考虑以下情况：
+该养老院采用何种临床护理实践模式（例如，私人单医师执业模式、定期探访特定养老院的大型初级保健医师网络）
+该养老院采用何种临床护理实践模式（例如，私人单医师执业模式、定期探访特定养老院的大型初级保健医师网络）
+哪个医院与该护理之家有转运协议
+哪个医院与该护理之家有转运协议
+有什么特殊治疗服务、姑息治疗、临终关怀、急性期康复和其他服务是可用的
+有什么特殊治疗服务、姑息治疗、临终关怀、急性期康复和其他服务是可用的
+工作人员是全职还是兼职
+工作人员是全职还是兼职
+患者的医疗保险范围，特别是如果属于医疗保险按人头付费计划，该计划涵盖持续医疗护理的某些方面，但不包括长期监护护理
+患者的医疗保险范围，特别是如果属于医疗保险按人头付费计划，该计划涵盖持续医疗护理的某些方面，但不包括长期监护护理
+养老院提供哪些服务（例如物理治疗、职业治疗和言语治疗）
+养老院提供哪些服务（例如物理治疗、职业治疗和言语治疗）
+有哪些合适的休闲活动可供选择
+有哪些合适的休闲活动可供选择
+
+【选型参考】
+1.Lendon JP, Sengupta M, Rome V, et al: Long-Term Care Providers and Services Users in the United States—State Estimates Supplement: National Study of Long-Term Care Providers, 2015–2016.Hyattsville, MD: National Center for Health Statistics.2019.
+1.Lendon JP, Sengupta M, Rome V, et al: Long-Term Care Providers and Services Users in the United States—State Estimates Supplement: National Study of Long-Term Care Providers, 2015–2016.Hyattsville, MD: National Center for Health Statistics.2019.
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Nursing Home Compare：提供有关每个医疗保险和医疗补助认证疗养院的详细信息
+Nursing Home Compare：提供有关每个医疗保险和医疗补助认证疗养院的详细信息
+LongTermCare.gov：社区生活管理局结合了老龄化管理局、智力和发育障碍管理局以及卫生与公共服务部残疾办公室的信息，提供有关长期护理机会和费用的信息
+LongTermCare.gov：社区生活管理局结合了老龄化管理局、智力和发育障碍管理局以及卫生与公共服务部残疾办公室的信息，提供有关长期护理机会和费用的信息
+凯撒家庭基金会：提供者和服务使用指标：护理设施： 提供有关医疗保健设施的数据的资源，包括医院、疗养院和社区保健中心以及医疗保健人员，如医生、执业护士和医生助理。
+凯撒家庭基金会：提供者和服务使用指标：护理设施： 提供有关医疗保健设施的数据的资源，包括医院、疗养院和社区保健中心以及医疗保健人员，如医生、执业护士和医生助理。
+American Action Forum:The Ballooning Costs of Long-Term Care
+American Action Forum:The Ballooning Costs of Long-Term Care

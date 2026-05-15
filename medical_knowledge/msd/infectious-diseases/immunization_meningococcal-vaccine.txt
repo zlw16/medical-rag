@@ -1,0 +1,111 @@
+标题：脑膜炎球菌疫苗
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/immunization/meningococcal-vaccine
+============================================================
+
+在美国最常引起脑膜炎球菌病的是脑膜炎球菌B、C和Y血清群。 在可获得血清组信息的患者中，国家通报疾病监测系统的数据趋势显示，2006 年至 2015 年期间，血清 B 组占 35.8% 的病例，血清 Y 组占 28.5%, 血清 C 组占 22.8%（1）。血清群A和W在美国以外引起疾病。当前的疫苗能够直接预防其中的部分血清型。
+(参见疫苗接种概述。)
+
+【参考文献】
+1.MacNeil JR, Blain AE, Wang X, Cohn AC.Current Epidemiology and Trends in Meningococcal Disease-United States, 1996-2015.Clin Infect Dis.2018;66(8):1276-1281.doi:10.1093/cid/cix993
+1.MacNeil JR, Blain AE, Wang X, Cohn AC.Current Epidemiology and Trends in Meningococcal Disease-United States, 1996-2015.Clin Infect Dis.2018;66(8):1276-1281.doi:10.1093/cid/cix993
+
+【脑膜炎球菌疫苗制剂】
+美国有 6 种脑膜炎球菌疫苗可供使用。
+对于ACWY血清型的（四价疫苗）：
+脑膜炎球菌结合疫苗（四价）（MenACWY-CRM或MenACWY-TT）
+脑膜炎球菌结合疫苗（四价）（MenACWY-CRM或MenACWY-TT）
+对于B血清型（单价）：
+B 组脑膜炎球菌疫苗（3 株）(MenB-4C)
+B 组脑膜炎球菌疫苗（3 株）(MenB-4C)
+B 组脑膜炎球菌疫苗（4 株）(MenB-FHbp)
+B 组脑膜炎球菌疫苗（4 株）(MenB-FHbp)
+对于ABCWY血清群（五价）：
+脑膜炎球菌A、B、C、W和Y组疫苗（5株）（MenACWY-TT/MenB-FHbp）
+脑膜炎球菌A、B、C、W和Y组疫苗（5株）（MenACWY-TT/MenB-FHbp）
+脑膜炎球菌A、B、C、W和Y组疫苗（五价）（MenACWY-CRM/MenB-FHbp）
+脑膜炎球菌A、B、C、W和Y组疫苗（五价）（MenACWY-CRM/MenB-FHbp）
+
+【脑膜炎球菌疫苗的适应症】
+四价共轭脑膜炎球菌疫苗是一个儿童时期常规的接种疫苗，最好在11--12岁接种，然后在16岁时再接种一次加强剂 (1)。免疫实践咨询委员会（ACIP）还建议感染风险较高的幼儿接种该疫苗（2）。
+美国儿科学会（AAP）关于脑膜炎球菌疫苗的建议已发布（3）。
+脑膜炎球菌ACWY结合疫苗建议用于脑膜炎球菌感染风险增加的患者（4），例如：
+功能性无脾或解剖性无脾（包括镰状细胞病）
+功能性无脾或解剖性无脾（包括镰状细胞病）
+HIV感染
+HIV感染
+持续的补体成分缺乏
+持续的补体成分缺乏
+补体抑制剂的使用（例如，依库珠单抗、拉武利珠单抗）
+补体抑制剂的使用（例如，依库珠单抗、拉武利珠单抗）
+在微生物实验室工作，需要常规接触Neisseria meningitidis（脑膜炎奈瑟菌分离株）
+在微生物实验室工作，需要常规接触Neisseria meningitidis（脑膜炎奈瑟菌分离株）
+征兵入伍
+征兵入伍
+疫区旅行或居住
+疫区旅行或居住
+大学集体宿舍中年龄≤21岁且在16岁之后就未再接种此类疫苗的大一新生
+大学集体宿舍中年龄≤21岁且在16岁之后就未再接种此类疫苗的大一新生
+暴露于这种疫苗的血清组相对应的疫情的暴发
+暴露于这种疫苗的血清组相对应的疫情的暴发
+如果≤21岁的大一新生在16岁之前接种过一个剂量的疫苗，那么他们在入组前会被给予一个加强剂量。
+所有青少年包括HIV感染者（年龄11〜18岁）都建议MenACWY。
+MenACWY更适合11岁至55岁的人群，以及既往接种过MenACWY且需要再次接种或可能需要多剂次疫苗的55岁以上人群。MenACWY也适合年龄大于55岁、具有风险但之前未接种过MenACWY且仅需接种1剂的人群（例如旅行者）。
+建议之前接种过MenACWY疫苗且仍处于感染高风险中的成年人每5年重新接种一次MenACWY疫苗（参见上文适应症列表）。
+MenB-4C或MenB-FHbp适用于≥10岁且有某些高危情况的人群（包括功能性无脾或补体缺陷人群，服用依库珠单抗或拉武利珠单抗的人群，经常接触N. meningitidis(脑膜炎奈瑟菌)的微生物学家，以及因B群脑膜炎球菌病暴发而有风险的人群）。美国疾病控制与预防中心（CDC）不建议所有青少年常规接种B型脑膜炎球菌疫苗。然而，根据个体临床决策，可对16至23岁的任何人进行接种；疫苗接种的首选年龄为16至18岁。一般不建议使用加强剂量。
+脑膜炎球菌ACWY-TT/B型-FHbp（五价疫苗）适用于10至25岁人群。特别推荐给16至23岁之间的健康人群，当MenACWY和MenB-4C/MenB-FHbp疫苗适用，并且临床决策支持MenB疫苗接种时。此外，对于部分年龄≥10岁且存在脑膜炎球菌病风险增加的免疫功能低下人群（例如，患有慢性补体缺陷者、接受补体抑制剂治疗者，或存在功能性/解剖性无脾者），同样建议接种上述两种疫苗。
+脑膜炎球菌ACWY-CRM/B型-FHbp（五价疫苗）的适应症与脑膜炎球菌ACWY-TT/B型-FHbp相似。
+
+【适应症参考文献】
+1.Centers for Disease Control and Prevention (CDC).Child and Adolescent Immunization Schedule by Age.Accessed September 23, 2025.
+1.Centers for Disease Control and Prevention (CDC).Child and Adolescent Immunization Schedule by Age.Accessed September 23, 2025.
+2.Mbaeyi SA, Bozio CH, Duffy J, et al.Meningococcal Vaccination: Recommendations of the Advisory Committee on Immunization Practices, United States, 2020.MMWR Recomm Rep.2020;69(9):1-41.Published 2020 Sep 25.doi:10.15585/mmwr.rr6909a1
+2.Mbaeyi SA, Bozio CH, Duffy J, et al.Meningococcal Vaccination: Recommendations of the Advisory Committee on Immunization Practices, United States, 2020.MMWR Recomm Rep.2020;69(9):1-41.Published 2020 Sep 25.doi:10.15585/mmwr.rr6909a1
+3.American Academy of Pediatrics (AAP).Recommended Child and Adolescent Immunization Schedule for Ages 18 Years or Younger.Accessed September 23, 2025.
+3.American Academy of Pediatrics (AAP).Recommended Child and Adolescent Immunization Schedule for Ages 18 Years or Younger.Accessed September 23, 2025.
+4.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+4.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+
+【脑膜炎球菌疫苗的禁忌症和注意事项】
+脑膜炎双球菌疫苗的主要禁忌证是：
+既往接种史或对疫苗成分发生严重过敏反应（如过敏性休克）
+既往接种史或对疫苗成分发生严重过敏反应（如过敏性休克）
+脑膜炎球菌疫苗的主要注意事项如下：
+中度或重度疾病伴或不伴发烧（若可能的话可推迟接种到疾病治愈）
+中度或重度疾病伴或不伴发烧（若可能的话可推迟接种到疾病治愈）
+早产（仅MenACWY）
+早产（仅MenACWY）
+妊娠期（仅MenB）
+妊娠期（仅MenB）
+对乳胶过敏（仅限 MenB-4C）
+对乳胶过敏（仅限 MenB-4C）
+脑膜炎球菌结合疫苗可用于A，C，W或Y型脑膜炎球菌病风险增加的孕妇。
+目前建议，除非患者罹患B群血清型脑膜炎球菌疾病的风险增加、且疫苗接种的获益被认为大于潜在风险，妊娠期间应推迟接种B群脑膜炎球菌疫苗。
+对于功能性或解剖性无脾的儿童，MenACWY 和肺炎球菌结合疫苗不应在同一次就诊期间接种，但应相隔 ≥ 4 周。
+
+【脑膜炎球菌疫苗的剂量与接种】
+如果适用，年龄 ≥ 10 岁的患者可同时接种 MenB 疫苗和 MenACWY 疫苗，但如果可行，应在不同的解剖部位接种。当患者需在同一天接种脑膜炎球菌ACWY结合疫苗和脑膜炎球菌B疫苗时，可选择接种一剂五价脑膜炎球菌ACWY/B联合疫苗，以替代两种疫苗的分别接种。
+
+【MenACWY疫苗】
+剂量为 0.5 mL 肌注。
+解剖性或功能性无脾、HIV感染、持续性补体成分缺乏或使用依库珠单抗或瑞利珠单抗的成人需要接种两剂MenACWY，间隔 ≥ 8周，并每5年加强一次。青少年HIV感染者（11岁至18岁）常规的接种疫苗方法为连续接种两次，间隔8周。
+经常接触N. meningitidis（脑膜炎奈瑟菌分离株）的微生物学家、新兵、疫苗血清群引起的暴发期间的风险人群，以及前往流行地区旅行或生活在疫区的人，应接种单剂 MenACWY 脑膜炎球菌疫苗。如果风险持续存在（例如，对于长期接触N. meningitidis（脑膜炎奈瑟菌分离株）的微生物工作者），则应每 5 年接种一次加强剂。
+
+【MenB疫苗】
+剂量为 0.5 mL 肌注。
+根据共同的临床决策讨论，没有脑膜炎球菌感染高风险的年龄在16至23岁的青少年和年轻人（首选年龄为 16至18岁），至少间隔6个月接种2剂次MenB-4C或 MenB-FHbp（如果第2剂是在第1剂接种后不到6个月给予的，则第3剂应在第2剂后至少4个月给予）。所有剂次必须使用相同的B群脑膜炎球菌疫苗。
+≥10 岁的高危人群（包括解剖学或功能性无脾者、持续性补体成分缺陷者、使用补体抑制剂者〔如依库珠单抗、拉夫利珠单抗〕、常规接触N. meningitidis（脑膜炎奈瑟菌）的微生物学工作者），以及因 B 群脑膜炎球菌病暴发而被判定为高风险的人群，应接种 MenB-4C 或 MenB-FHbp 疫苗的 3 剂系列，接种时间为 0、1～2 和 6 个月（若第 2 剂在距第 1 剂 ≥6 个月时接种，则无需第 3 剂；若第 3 剂早于第 2 剂后 4 个月接种，则需在第 3 剂后至少 4 个月追加第 4 剂）。所有剂次必须使用相同的B群脑膜炎球菌疫苗。
+
+【脑膜炎球菌疫苗的不良反应】
+不良反应通常较轻。包括注射部位疼痛和红斑、发热、头痛和疲劳。
+有关这些疫苗不良反应的更多信息，请参阅处方信息。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Meningococcal Vaccine
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Meningococcal Vaccine
+Centers for Disease Control and Prevention (CDC):Meningococcal
+Centers for Disease Control and Prevention (CDC):Meningococcal
+American Academy of Pediatrics (AAP):Recommended Child and Adolescent Immunization Schedule for Ages 18 Years or Younger
+American Academy of Pediatrics (AAP):Recommended Child and Adolescent Immunization Schedule for Ages 18 Years or Younger
+European Centre for Disease Prevention and Control (ECDC):Meningococcal Disease: Recommended vaccinations
+European Centre for Disease Prevention and Control (ECDC):Meningococcal Disease: Recommended vaccinations

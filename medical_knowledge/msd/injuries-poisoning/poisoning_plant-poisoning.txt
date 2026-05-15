@@ -1,0 +1,111 @@
+标题：植物中毒
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/poisoning/plant-poisoning
+============================================================
+
+少数常见栽培植物具有剧毒，许多植物具有中等毒性（见表中等毒性植物）(1, 2)。很少植物中毒有特殊的解毒剂。大多数植物摄入（包括上述表格中列出的植物）导致的症状很轻，除非将叶子和其他成分浓缩成糊状或冲泡成茶。
+剧毒和可能致命的植物包括如下：
+蓖麻子和相思豆
+蓖麻子和相思豆
+夹竹桃和毛地黄
+夹竹桃和毛地黄
+(参见中毒基本原则。)
+
+【蓖麻子和相思豆】
+蓖麻子含有蓖麻毒素，一种极其浓缩的细胞毒素。相思豆含有相思豆毒素，一种相关的甚至更有效的毒素。两者均有相对不通透的壳，都必须经过嚼碎来释放毒素。相思豆种子的外层常是不完整的，简单的细菌消化即能释放出相思豆毒素。
+这两种中毒的症状可能包括延迟性胃肠炎，有时严重且可能为出血性，随后可导致多器官功能衰竭，包括肾衰竭和心血管衰竭。需要考虑进行全肠道灌洗，以期移除所有摄入的豆子(3, 4, 5)。
+
+【夹竹桃和毛地黄】
+这些植物和铃兰（相似但是毒性较低）含有洋地黄糖苷。毛地黄是药物洋地黄的原始来源。中毒表现有肠胃炎、意识错乱、高钾血症和心律失常。血清中地高辛的水平可以证实有上述植物的摄入，但是并没有定量测定那么有用。
+密切监测血钾水平。高钾血症可能只能通过血液透析处理。 使用钙剂治疗洋地黄苷中毒引起的心律失常存在争议（6）。地高辛特异性的分级抗体片段已经被应用于治疗室性心律失常。
+毒芹中毒（毒芹和水毒芹）一般在15分钟以内产生症状。
+毒芹会影响烟碱型胆碱受体，最初表现为口干，然后进展为心动过速、流涎、震颤、出汗、瞳孔放大和癫痫。严重病例可能出现心动过缓、昏迷及导致呼吸衰竭的上升性麻痹。横纹肌溶解症也可能发生。
+水毒芹会增强gamma-氨基丁酸（GABA）的活性。可能会产生胃肠炎、谵妄、难治性癫痫和昏迷。
+
+【中等毒性植物】
+中等毒性植物
+植物名称
+乌头碱（由附子中提炼得到）
+心动过缓、心律失常、感觉异常、四肢无力
+支持治疗
+碳酸氢钠
+肠胃炎，肾炎，皮肤刺激征
+支持治疗以及使用肥皂水冲洗皮肤
+马兜铃属（马兜铃，马兜铃）
+肾小管间质性肾病
+支持治疗
+胆碱能样症状
+支持治疗和阿托品
+杯芋属（海芋，天使翼）
+叶子中的草酸钙结晶导致的口腔黏膜破坏
+支持性护理与破乳处理（例如用牛奶或冰淇淋）
+辣椒属（如辣椒等）
+黏膜刺激症状和肿胀
+支持治疗，冲洗
+秋水仙碱（秋水仙、番红花、嘉兰）
+迟发肠胃炎、多器官衰竭
+骨髓抑制
+支持治疗，可能作为最后手段使用秋水仙碱特异性Fab片段*
+氰苷（例如，存在于李属[如桃、杏和野樱桃的果核]、苹果属植物[如苹果种子]及其他种子中）
+氰化物中毒的症状
+羟钴胺素
+氰化物解毒包（包括：亚硝酸戊酯、亚硝酸钠、硫代硫酸钠）
+抗胆碱能样症状、高热、惊厥、幻觉
+支持治疗
+严重的高热或惊厥可以使用毒扁豆碱
+花叶万年青属（花叶万年青）
+叶子中的草酸钙结晶导致的口腔黏膜破坏
+支持性护理与破乳处理（例如，使用牛奶或冰淇淋）
+葡萄糖-6-磷酸脱氢酶缺乏症患者，会出现胃肠炎、发热、头痛、溶血性贫血
+支持治疗
+严重的贫血和中毒可以考虑使用换血疗法
+绿色或发芽的土豆
+肠胃炎、幻觉、谵妄
+支持治疗
+冬青属植物的浆果
+支持治疗
+抗胆碱能样症状、高热、惊厥、幻觉
+支持治疗
+严重的高热或惊厥可以使用毒扁豆碱
+甘草（非人工香料甘草糖）
+低钾血症，高血压，以及水钠潴留（假性醛固酮增多）
+支持性治疗
+高钾血症、胃肠炎、意识障碍、心律失常
+见洋地黄制剂
+支持治疗
+局部的刺痛感和烧灼感
+支持治疗
+茄科类植物，常见的或木本的
+肠胃炎、幻觉、谵妄
+支持治疗
+肝脏毒性
+N-乙酰半胱氨酸
+喜林芋属
+叶子中的草酸钙结晶导致的口腔黏膜破坏
+支持性护理与破乳处理（例如，使用牛奶或冰淇淋）
+较小范围的粘膜刺激症状
+毒常春藤
+美洲商陆
+黏膜刺激症状，肠胃炎
+支持治疗
+叶子中的草酸钙结晶导致的口腔黏膜破坏
+支持性护理与破乳处理（例如，使用牛奶或冰淇淋）
+少见的有惊厥发作、心律失常、昏迷
+支持治疗
+*仅在法国可以获取。
+Fab=片段化抗体； sp/spp=物种。
+*仅在法国可以获取。
+Fab=片段化抗体； sp/spp=物种。
+
+【参考文献】
+1.Krenzelok EP, Mrvos R.Friends and foes in the plant world: a profile of plant ingestions and fatalities.Clin Toxicol (Phila).2011;49(3):142-149.doi:10.3109/15563650.2011.568945
+1.Krenzelok EP, Mrvos R.Friends and foes in the plant world: a profile of plant ingestions and fatalities.Clin Toxicol (Phila).2011;49(3):142-149.doi:10.3109/15563650.2011.568945
+2.Froberg B, Ibrahim D, Furbee RB.Plant poisoning.Emerg Med Clin North Am.2007;25(2):375-ix.doi:10.1016/j.emc.2007.02.013
+2.Froberg B, Ibrahim D, Furbee RB.Plant poisoning.Emerg Med Clin North Am.2007;25(2):375-ix.doi:10.1016/j.emc.2007.02.013
+3.Rasetti-Escargueil C, Avril A.Medical Countermeasures against Ricin Intoxication.Toxins (Basel).2023;15(2):100.Published 2023 Jan 20.doi:10.3390/toxins15020100
+3.Rasetti-Escargueil C, Avril A.Medical Countermeasures against Ricin Intoxication.Toxins (Basel).2023;15(2):100.Published 2023 Jan 20.doi:10.3390/toxins15020100
+4.Centers for Disease Control and Prevention.The National Institute for Occupational Safety and Health (NIOSH).Abrin: Biotoxin.Accessed January 30, 2025.
+4.Centers for Disease Control and Prevention.The National Institute for Occupational Safety and Health (NIOSH).Abrin: Biotoxin.Accessed January 30, 2025.
+5.Centers for Disease Control and Prevention.The National Institute for Occupational Safety and Health (NIOSH).Ricin: Biotoxin.Accessed January 30, 2025.
+5.Centers for Disease Control and Prevention.The National Institute for Occupational Safety and Health (NIOSH).Ricin: Biotoxin.Accessed January 30, 2025.
+6.Levine M, Nikkanen H, Pallin DJ.The effects of intravenous calcium in patients withdigoxintoxicity.J Emerg Med.2011;40(1):41-46.doi:10.1016/j.jemermed.2008.09.027
+6.Levine M, Nikkanen H, Pallin DJ.The effects of intravenous calcium in patients withdigoxintoxicity.J Emerg Med.2011;40(1):41-46.doi:10.1016/j.jemermed.2008.09.027

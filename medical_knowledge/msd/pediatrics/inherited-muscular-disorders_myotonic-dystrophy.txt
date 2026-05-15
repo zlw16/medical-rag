@@ -1,0 +1,53 @@
+标题：肌强直性营养不良
+来源：https://www.msdmanuals.cn/professional/pediatrics/inherited-muscular-disorders/myotonic-dystrophy
+============================================================
+
+肌强直是指肌肉收缩后松弛延迟，可导致肌肉僵硬。  肌营养不良是由于正常肌肉的结构和功能所需的一个或几个基因功能缺陷造成的遗传性进行性的肌肉疾病；活检标本上可见营养不良的改变(如肌纤维坏死和再生)。
+强直性肌营养不良症在普通人群中每 100,000 人中约有 10 例（1）。外显率各异的常染色体显性遗传。两种类型被识别，具有不同的遗传位点。1型DM（DM1）涉及位于19号染色体上的DMPK基因的CTG三核苷酸重复序列的扩增。2 型 DM (DM2) 较为温和，涉及细胞核酸结合蛋白基因的 CCTG 重复扩增突变CNBP（以前称为 ZFN9）在染色体 3q21.3 上。
+这两种类型都会影响随意肌，DM1 也会影响不随意肌（例如胃肠道、子宫）。
+
+【先天性肌强直性营养不良】
+肌强直性营养不良偶尔会在母亲携带DM1突变的孩子出生时出现，极少情况下，也出现在父亲携带DM1突变的孩子中。 后代可能患有严重的肌强直，称为先天性肌强直性营养不良。 这种类型的特点是严重的肌张力低下（松软婴儿）、喂养和呼吸困难、骨骼畸形、面部无力以及精神运动发育迟缓。
+高达40%的婴儿不能存活，通常是因为呼吸衰竭或心肌病。高达60%的存活者有智力障碍(2)。
+先天性肌强直性营养不良不应与先天性肌强直混淆，后者是另一种独立的疾病。
+
+【参考文献】
+1.Liao Q, Zhang Y, He J, Huang K: Global Prevalence of Myotonic Dystrophy: An Updated Systematic Review and Meta-Analysis.Neuroepidemiology56(3):163-173, 2022.doi: 10.1159/000524734
+1.Liao Q, Zhang Y, He J, Huang K: Global Prevalence of Myotonic Dystrophy: An Updated Systematic Review and Meta-Analysis.Neuroepidemiology56(3):163-173, 2022.doi: 10.1159/000524734
+2.Darras BT, Volpe JJ: Muscle involvement and restricted disorders.InVolpe's Neurology of the Newborn, ed.6, edited by Volpe JJ, Inder TE, Darras BT, et al.Elsevier, Philadephia, 2018, p.922.
+2.Darras BT, Volpe JJ: Muscle involvement and restricted disorders.InVolpe's Neurology of the Newborn, ed.6, edited by Volpe JJ, Inder TE, Darras BT, et al.Elsevier, Philadephia, 2018, p.922.
+
+【肌强直性营养不良的症状和体征】
+肌强直性营养不良的症状和体征始于青少年或青年期，包括肌强直（肌肉收缩后松弛延迟，可能无症状或表现为肌肉僵硬）、远端肢体肌肉（尤其是手和足，偶尔导致足下垂）及面部肌肉的无力和萎缩（睑下垂尤为常见），以及心肌病。还可以伴有智力障碍、白内障和内分泌紊乱。男性可能存在睾丸较小。男性和女性都可能出现过早前额秃顶的情况。
+由于不自主的肌肉受累，DM1患者也可能有吞咽困难和便秘的症状；而子宫肌层的异常可能导致女性患者在分娩过程中出现并发症。
+
+【肌强直性营养不良的诊断】
+DNA突变分析
+DNA突变分析
+肌强直性营养不良的诊断是通过特有的临床表现，发病年龄，家族史，并通过DNA检测证实。
+
+【肌强直性营养不良的治疗】
+膜稳定药物
+膜稳定药物
+肌强直可能对膜稳定药物（如美西律、拉莫三嗪、卡马西平、苯妥英钠）有效。这些药物中，美西律已被证明能显著降低非营养不良型肌强直，因此对于存在功能限制肌强直的强直性肌营养不良症患者，美西律已经成为一线药物 (1,2)。因为美西律在少数情况下能加重伴有室性心律失常的心律失常患者，因而药物禁用于第二或第三度房室传导阻滞患者；有专家建议在美西律治疗开始之前咨询心脏病专家，特别是对那些有异常心电图的患者。
+然而，通常使患者致残的是肌无力而非肌强直，而肌无力目前尚无有效治疗；随着疾病进展，通常需要使用支具来矫正足下垂。
+
+【治疗参考文献】
+1.Logigian EL, Martens WB, Moxley RT 4th, et al:Mexiletineis an effective antimyotonia treatment in myotonic dystrophy type 1.Neurology74(18):1441-1448, 2010.doi: 10.1212/WNL.0b013e3181dc1a3a
+1.Logigian EL, Martens WB, Moxley RT 4th, et al:Mexiletineis an effective antimyotonia treatment in myotonic dystrophy type 1.Neurology74(18):1441-1448, 2010.doi: 10.1212/WNL.0b013e3181dc1a3a
+2.Heatwole C, Luebbe E, Rosero S, et al:Mexiletinein Myotonic Dystrophy Type 1: A Randomized, Double-Blind, Placebo-Controlled Trial.Neurology96(2):e228-e240, 2021.doi: 10.1212/WNL.0000000000011002
+2.Heatwole C, Luebbe E, Rosero S, et al:Mexiletinein Myotonic Dystrophy Type 1: A Randomized, Double-Blind, Placebo-Controlled Trial.Neurology96(2):e228-e240, 2021.doi: 10.1212/WNL.0000000000011002
+
+【肌强直性营养不良的预后】
+死亡最常见的原因是呼吸和心脏疾病，年轻时就出现心律失常和严重肌无力的患者过早死亡的风险增加。平均死亡年龄为55岁 (1)。
+
+【预后参考】
+1.Mathieu J, Allard P, Potvin L, et al: A 10-year study of mortality in a cohort of patients with myotonic dystrophy.Neurology52(8):1658-1662, 1999.doi: 10.1212/wnl.52.8.1658
+1.Mathieu J, Allard P, Potvin L, et al: A 10-year study of mortality in a cohort of patients with myotonic dystrophy.Neurology52(8):1658-1662, 1999.doi: 10.1212/wnl.52.8.1658
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Muscular Dystrophy Association:Information on research, treatment, technology, and support for patients living with myotonic dystrophy
+Muscular Dystrophy Association:Information on research, treatment, technology, and support for patients living with myotonic dystrophy
+肌营养不良症今日新闻:一个关于肌营养不良症的新闻和信息网站
+肌营养不良症今日新闻:一个关于肌营养不良症的新闻和信息网站

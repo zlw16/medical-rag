@@ -1,0 +1,54 @@
+标题：涎石症
+来源：https://www.msdmanuals.cn/professional/ear-nose-and-throat-disorders/oral-and-pharyngeal-disorders/salivary-stones
+============================================================
+
+大的唾液腺是成对的腮腺、下颌下腺和舌下腺。唾液腺结石最常见于成年人。大多数（80%）结石源自下颌下腺并阻塞了沃顿管（Wharton duct）。其余大多源自腮腺并阻塞了斯滕森管（Stensen duct）。只有1％发生于舌下腺。多发性结石发生于25％的患者 (1)。
+
+【参考文献】
+1.Pachisia S, Mandal G, Sahu S, Ghosh S: Submandibular sialolithiasis: A series of three case reports with review of literature.Clin Pract9 (1):1119, 2019. doi: 10.4081/cp.2019.1119 Published online 2019 Mar 20.
+1.Pachisia S, Mandal G, Sahu S, Ghosh S: Submandibular sialolithiasis: A series of three case reports with review of literature.Clin Pract9 (1):1119, 2019. doi: 10.4081/cp.2019.1119 Published online 2019 Mar 20.
+
+【唾液腺结石的病因】
+大多数涎石由磷酸钙、少量的镁和碳酸盐构成。痛风的患者可以发生尿酸结石。涎石的形成需要在唾液淤滞期间有钙盐沉积的核心。唾液郁滞常发生于体弱、脱水、食物摄入量减少或服用抗胆碱能药物的患者。持续性或反复发生的涎石使受累的腺体易于感染（涎腺炎）。
+
+【涎石症的症状和体征】
+涎石阻塞引起腺体肿胀和疼痛，尤其是进食后，原因在于食物刺激促使唾液流量增加，而产生的唾液又不能及时排出。数小时后症状可能会逐渐消退。症状突然缓解可能由于唾液一下子涌出。有些涎石可能引起间歇症状或者无症状。
+如果结石位于导管远端，可在导管开口处看见或触及。
+
+【唾液腺结石的诊断】
+临床评估
+临床评估
+需要时影像学检查（如，CT、超声、涎腺造影）
+需要时影像学检查（如，CT、超声、涎腺造影）
+如果检查时唾液结石不明显，可以给予催涎剂（例如，柠檬汁、硬糖或其他诱导唾液分泌的物质）。症状再现者即可诊断为涎石症。
+CT 和超声波检查具有高度敏感性，在临床诊断不明确时可使用。对比涎管造影也具有高度敏感性，但已不再常用。由于90%的下颌下腺结石是射线不透性的（radiopaque），90%的腮腺结石是射线可透性的（radiolucent），X线平片并不总是准确（1）。超声波检查越来越多地被使用，并已报告所有结石（不透射线和透射线）的敏感度约为60％至95％，特异性在85％至100％之间(2)。MRI的作用正在发展。据报道，其敏感性和特异性均> 90%，在有限的研究中，MRI在检测小结石和远端导管结石方面似乎比超声检查或对比涎管造影术更敏感(3)。
+
+【诊断参考】
+1.Kraaij S, Karagozoglu KH, Forouzanfar T, et al: Salivary stones: Symptoms, aetiology, biochemical composition and treatment.Br Dent J217 (11):E23, 2014. doi: 10.1038/sj.bdj.2014.1054
+1.Kraaij S, Karagozoglu KH, Forouzanfar T, et al: Salivary stones: Symptoms, aetiology, biochemical composition and treatment.Br Dent J217 (11):E23, 2014. doi: 10.1038/sj.bdj.2014.1054
+2.Kim DH, Kang JM, Kim SW, et al: Utility of ultrasonography for diagnosis of salivary gland sialolithiasis: a meta-analysis.Laryngoscope.2022 Jan 19.doi: 10.1002/lary.30020.Epub ahead of print.PMID: 35043982.
+2.Kim DH, Kang JM, Kim SW, et al: Utility of ultrasonography for diagnosis of salivary gland sialolithiasis: a meta-analysis.Laryngoscope.2022 Jan 19.doi: 10.1002/lary.30020.Epub ahead of print.PMID: 35043982.
+3.Jäger L, Menauer, F Holzknecht N, et al: Sialolithiasis: MR sialography of the submandibular duct--An alternative to conventional sialography and US?Radiology216 (3):665–671, 2000. doi: 10.1148/radiology.216.3.r00se12665
+3.Jäger L, Menauer, F Holzknecht N, et al: Sialolithiasis: MR sialography of the submandibular duct--An alternative to conventional sialography and US?Radiology216 (3):665–671, 2000. doi: 10.1148/radiology.216.3.r00se12665
+
+【唾液腺结石的治疗】
+局部处理（如催涎剂、按摩）
+局部处理（如催涎剂、按摩）
+需要时手法引导结石排出或手术取出结石
+需要时手法引导结石排出或手术取出结石
+镇痛药、补水和按摩可以缓解唾液结石患者的症状。
+早期使用抗葡萄球菌的抗生素可用于预防急性涎腺炎的发生。
+涎石可能自发排出或在催涎剂刺激唾液大量分泌时排出，因此鼓励患者每2～3小时吮吸柠檬片或酸糖。涎石在导管口时可通过手指挤压而促使其排出。用小探针扩张导管可能有助于涎石排出。
+如果其他方法无效，手术取石可以成功。位于导管口或附近的涎石可经口取出，而位于腺体门部的涎石通常需要完全切除唾液腺。尺寸不超过5毫米的涎石可在内窥镜下移除（1，2）。
+
+【治疗参考文献】
+1.Marchal F, Becker M, Dulguerov P, et al: Interventional sialendoscopy.Laryngoscope110:318–320, 2000.doi: 10.1097/00005537-200002010-00026
+1.Marchal F, Becker M, Dulguerov P, et al: Interventional sialendoscopy.Laryngoscope110:318–320, 2000.doi: 10.1097/00005537-200002010-00026
+2.Koch M, Zenk J, Iro H: Algorithms for treatment of salivary gland obstructions.Otolaryngol Clin North Am.42 (6):1173–1192, 2009.doi: 10.1016/j.otc.2009.08.002
+2.Koch M, Zenk J, Iro H: Algorithms for treatment of salivary gland obstructions.Otolaryngol Clin North Am.42 (6):1173–1192, 2009.doi: 10.1016/j.otc.2009.08.002
+约80%的涎石发生在下颌下腺。
+约80%的涎石发生在下颌下腺。
+临床诊断通常就足够了，但有时需要CT或超声检查。
+临床诊断通常就足够了，但有时需要CT或超声检查。
+许多结石可自发或借助催涎剂和手指挤压清除，但有些需要内镜下或手术清除。
+许多结石可自发或借助催涎剂和手指挤压清除，但有些需要内镜下或手术清除。

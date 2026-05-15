@@ -1,0 +1,295 @@
+标题：多发性硬化(MS)
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/demyelinating-disorders/multiple-sclerosis-ms
+============================================================
+
+普遍认为多发性硬化（简称MS）的发生机制与免疫相关。 有种假说认为它是由一种潜伏的病毒（可能是人类疱疹病毒，如EB病毒）感染引起，当这种病毒被激活时能够引发自身免疫反应。
+在某些特定的家族以及某些人类白细胞抗原（简称HLA）亚型（HLA-DR2）的人群中，本病的发病率较高，提示本病存在遗传易感性。
+全球约有280万人患有多发性硬化症(1)。15岁前居住在温带地区的人群患病率（1/2000）比15岁前居住在热带地区的人群患病率（1/10000）高（2）。一种可能的解释是，较低水平的维生素D（如在日照减少的温带气候中发现）与多发性硬化症风险增加相关(3)。吸烟似乎也增加患病危险。
+发病年龄15~60岁，一般为20~40岁；女性更容易受到影响。
+
+【参考文献】
+1.Walton C, King R, Rechtman L, et al.Rising prevalence of multiple sclerosis worldwide: Insights from the Atlas of MS, third edition.Mult Scler.2020;26(14):1816-1821.doi:10.1177/1352458520970841
+1.Walton C, King R, Rechtman L, et al.Rising prevalence of multiple sclerosis worldwide: Insights from the Atlas of MS, third edition.Mult Scler.2020;26(14):1816-1821.doi:10.1177/1352458520970841
+2.Portaccio E, Magyari M, Havrdova EK, et al.Multiple sclerosis: emerging epidemiological trends and redefining the clinical course.Lancet Reg Health Eur.2024;44:100977.Published 2024 Aug 22.doi:10.1016/j.lanepe.2024.100977
+2.Portaccio E, Magyari M, Havrdova EK, et al.Multiple sclerosis: emerging epidemiological trends and redefining the clinical course.Lancet Reg Health Eur.2024;44:100977.Published 2024 Aug 22.doi:10.1016/j.lanepe.2024.100977
+3.Sintzel MB, Rametta M, Reder AT.Vitamin D and Multiple Sclerosis: A Comprehensive Review.Neurol Ther.2018;7(1):59-85.doi:10.1007/s40120-017-0086-4
+3.Sintzel MB, Rametta M, Reder AT.Vitamin D and Multiple Sclerosis: A Comprehensive Review.Neurol Ther.2018;7(1):59-85.doi:10.1007/s40120-017-0086-4
+
+【系统性硬化症的病理生理】
+局部发生脱髓鞘（斑块）改变时，常伴少突胶质细胞破坏、血管周围炎症及斑块内或周围构成髓鞘的脂质和蛋白的化学组分的改变。轴突损伤很常见，神经元细胞体也可能死亡或受损。
+星形胶质细胞增生出现于遍布中枢神经系统的斑块中，主要累及白质，尤其是侧柱与后柱（常见于颈段区域）、视神经及脑室周围区域。中脑、脑桥和小脑的传导束也常常受累。大脑和脊髓灰质也会受到影响。
+
+【系统性硬化症的症状和体征】
+多发性硬化的特点是可出现各种不同的中枢神经系统损害症状，并有反复的缓解和复发。 当 MS 不接受免疫调节药物治疗时，平均每 2 年恶化 1 次，但频率差异很大。
+尽管MS的进展与恢复无法预测，但是可以分为以下几种经典类型：
+复发缓解型:复发与缓解交替，缓解期部分或完全恢复，病情稳定。缓解期可持续数月或数年。可自然复发或由感染如流感等诱发。复发型多发性硬化包括活动性继发性多发性硬化（定义为临床复发、在脑或脊髓的MRI扫描中发现的新病变，或出现进行性残疾）。
+复发缓解型:复发与缓解交替，缓解期部分或完全恢复，病情稳定。缓解期可持续数月或数年。可自然复发或由感染如流感等诱发。复发型多发性硬化包括活动性继发性多发性硬化（定义为临床复发、在脑或脊髓的MRI扫描中发现的新病变，或出现进行性残疾）。
+继发进展型：开始为复发缓解交替（复发缓解性），后期疾病逐渐进展。
+继发进展型：开始为复发缓解交替（复发缓解性），后期疾病逐渐进展。
+原发进展型：疾病逐渐进展无缓解期，尽管可有短暂的平台期，期间病情不再进展。与复发缓解型不同，没有明显的复发缓解征象。
+原发进展型：疾病逐渐进展无缓解期，尽管可有短暂的平台期，期间病情不再进展。与复发缓解型不同，没有明显的复发缓解征象。
+进展复发型：疾病不断进展，进展过程中有明显的急性发作。此类型罕见。
+进展复发型：疾病不断进展，进展过程中有明显的急性发作。此类型罕见。
+多发性硬化最常见的首发症状有：
+单个或多个肢体远端、躯干或者半个颜面的感觉异常
+单个或多个肢体远端、躯干或者半个颜面的感觉异常
+单侧上肢或下肢的无力或者活动笨拙
+单侧上肢或下肢的无力或者活动笨拙
+视力障碍（如，视力部分丧失、球后视神经炎引起的单眼痛、核间性眼肌麻痹形成的复视及暗点等）
+视力障碍（如，视力部分丧失、球后视神经炎引起的单眼痛、核间性眼肌麻痹形成的复视及暗点等）
+MS其他常见的早期表现包括轻微的四肢僵硬、异乎寻常的单肢易疲劳、轻微的步态异常、眩晕、程度较轻的情感障碍；这些症状表明中枢神经系统受累部位散在而轻微。 大多数MS患者有膀胱控制困难（例如，频率，紧迫性，排尿犹豫,失禁,潴留)。 疲劳是常见的。 温度升高（如，天气炎热、热水浴、发热）可能会暂时性的加重患者的症状和体征。
+认知症状很常见。可出现情感淡漠、判断力差或注意力不集中。情感障碍很常见，可能包括抑郁（最常见）、情绪不稳定或欣快感。抑郁可能是反应性的或者部分由MS脑内病灶引起。少数患者会有癫痫发作。
+典型表现为单侧或双侧不对称的视神经炎以及双侧核间性眼肌麻痹。
+中央视觉受累远大于周边视觉。
+视神经炎可导致视力丧失（从出现暗点发展到失明）、眼痛等，有时候会出现异常视野、视乳头水肿、部分或完全性的瞳孔传入神经损害。
+核间性眼肌麻痹是由连接第Ⅲ对、第Ⅳ对、第Ⅵ对脑神经核团的内侧纵束的病变引起的。表现为水平侧视时，一侧眼球内收受限，另一侧眼球（外展位）出现眼震而辐辏反射存在。在MS中，核间性眼肌麻痹通常为双侧;单侧核间性眼肌麻痹通常由缺血性卒中引起。
+平视前方时出现快速、小幅度的眼球震颤（振动性眼震），是MS少见但特征性的表现。眩晕常见。阵发性单侧面部麻木或疼痛（类似于三叉神经痛）、面肌麻痹或痉挛亦可出现。延髓肌无力、小脑受损或皮层控制障碍可能会引起轻微的构音困难。其他脑神经缺损症状多不常见，但可继发于脑干病变。
+无力症状常见，通常反映脊髓中皮质脊髓束的损伤。无力症状主要影响下肢，并且是双侧性和痉挛性的。
+深肌腱反射（如，膝反射、踝反射）通常是亢进的，并且常常存在病理征阳性（Babinski征）和阵挛。痉挛性截瘫常导致一种强直的不平衡步态；晚期患者甚至需要依靠轮椅代步。可能出现对感觉刺激（如床单）产生反应的痛性屈肌痉挛。 大脑或颈部脊髓损伤可能导致偏瘫，有时是其表现症状。
+活动减少可能增加骨质疏松的风险。
+在较严重的MS病例中，小脑共济失调合并痉挛可造成严重功能丧失；其他小脑表现包括言语不清、吟诗样言语（发声缓慢，伴有字词或音节前的停顿）以及Charcot三联征（意向性震颤、吟诗样言语和眼球震颤）。
+感觉异常以及任何一种感觉的部分缺失是本病最常见的表现之一，其范围通常较局限（如，仅限于单侧或双侧的手或脚）。
+各种疼痛性感觉障碍（如，烧灼或电击样疼痛）可以自发或者通过触碰出现，尤其是当脊髓受累时。譬如Lhermitte征，它是一种电击样疼痛，当头颈屈曲时，疼痛可沿脊髓向下放射至双腿或手臂。
+神经系统检查所显示的客观感觉变化往往是短暂的，并且在疾病早期难以显现。
+多发性硬化脊髓受累最常引起膀胱功能障碍（如尿急或排尿困难、不完全性尿潴留、轻度尿失禁）。患者可有便秘，男性患者可有勃起障碍，女性患者则可有生殖器感觉麻木等症状。在严重的病例中，可能会出现大小便失禁。
+脊髓损伤（斑块）是神经性疼痛的常见来源。
+
+【多发性硬化症的诊断】
+基于病史、体格检查和影像学发现的临床标准
+基于病史、体格检查和影像学发现的临床标准
+头颅及脊髓MRI
+头颅及脊髓MRI
+有时脑脊液（CSF）IgG水平及诱发电位
+有时脑脊液（CSF）IgG水平及诱发电位
+如果患者有视神经炎、核间性眼肌麻痹或者其他提示MS的症状，均需怀疑MS，尤其是当病损多灶、病情反复发作时。如果怀疑MS，应进行脑和脊髓MRI检查。
+MRI是诊断MS最敏感的影像学检查，可排除其他可治疗的类似MS的疾病，如颅颈交界处的非脱髓鞘性病变（如，蛛网膜囊肿、枕骨大孔肿瘤）。增强MRI可以用来鉴别新旧病灶。此外，高磁场MRI（3〜7特斯拉）可以鉴别MS静脉周围斑块与非特异性白质病变。
+多发性硬化症患者脑部矢状面显示多个高信号脑白质病灶。这个发现有时被称为“道森手指征”。
+© 2017 Elliot K.Fishman, MD.
+MS必须和以下疾病鉴别：
+临床孤立综合征（仅有一次符合MS特点的临床发作）
+临床孤立综合征（仅有一次符合MS特点的临床发作）
+放射学孤立综合征（无临床表现的患者在MRI扫描中发现MS的典型病灶）
+放射学孤立综合征（无临床表现的患者在MRI扫描中发现MS的典型病灶）
+视神经脊髓炎谱系疾病（Devic病），之前被认为是MS的变异型，现在认为是独立的疾病。
+视神经脊髓炎谱系疾病（Devic病），之前被认为是MS的变异型，现在认为是独立的疾病。
+多发性硬化的诊断需要符合该疾病的临床表现（例如视神经炎、部分脊髓炎或核间性眼肌麻痹）并具备在时间和空间（位于中枢神经系统）上分离的中枢神经系统病变的证据。例如，以下任何一项可证明时间多发：
+复发与缓解的病史。
+复发与缓解的病史。
+一次MRI扫描中同时存在增强和非增强病灶，即使病人无症状
+一次MRI扫描中同时存在增强和非增强病灶，即使病人无症状
+已存在病灶的患者在MRI随访过程中出现新的病灶
+已存在病灶的患者在MRI随访过程中出现新的病灶
+在受MS影响的以下5个CNS区域中，找到≥2个病变，可建立空间分离（传播）（1):
+侧脑室周围：≥ 1 个病灶 (2)
+侧脑室周围：≥ 1 个病灶 (2)
+皮层/近皮层（皮层和/或皮层旁的白质）：≥1个病灶
+皮层/近皮层（皮层和/或皮层旁的白质）：≥1个病灶
+幕下：≥1个病灶
+幕下：≥1个病灶
+脊髓：≥1个病灶
+脊髓：≥1个病灶
+视神经：≥1个病变（通过MRI或临床评估）
+视神经：≥1个病变（通过MRI或临床评估）
+
+【进一步检查】
+如果MRI和临床资料无法明确诊断，可能需其他检查来提供多处神经功能缺损的客观证据。此类测试包括诱发电位，有时需要CSF检查或血液化验。
+诱发电位（对感觉刺激的电反应延迟）通常比MS的症状或体征更敏感。 视觉诱发电位对于诊断没有确切颅内病灶（如，只有脊髓病灶）的MS患者更敏感，更有意义。有时也可行体感诱发电位和脑干听力诱发电位检查。
+脑脊液检查并非常规进行，但当磁共振成像和临床表现不确定或需要排除感染（例如中枢神经系统莱姆病）时，该项检查可提供帮助。脑脊液检查需包括脑脊液压力、细胞分类计数、蛋白质、糖、IgG指数、寡克隆带及髓鞘碱性蛋白（myelin basic protein，MBP）、白蛋白检测。MS患者脑脊液IgG占脑脊液总蛋白的百分比增高（正常<11%），占脑脊液白蛋白的百分比也增高（正常<27%）。IgG水平与本病的严重程度有关。脑脊液电泳可以检测出IgG寡克隆带。MBP在脱髓鞘病变活动期可能升高。脑脊液淋巴细胞计数和蛋白含量可能有轻度升高。
+血液检查可能是必要的。在临床出现非典型症状或根据地理分布提示可能的情况下，应进行特异性血液检测以排除可模拟多发性硬化（MS）的疾病，包括炎症性疾病（如系统性红斑狼疮（SLE））及感染性疾病（如莱姆病）。血清视神经脊髓炎谱系疾病特异性IgG抗体（水通道蛋白-4抗体[又称NMO-IgG]和抗MOG[髓鞘少突胶质细胞糖蛋白]抗体）检测可将该疾病与MS进行鉴别。
+
+【诊断参考】
+1.Filippi M, Rocca MA, Ciccarelli O, et al.MRI criteria for the diagnosis of multiple sclerosis: MAGNIMS consensus guidelines.Lancet Neurol.15 (3):292–303, 2016.doi: 10.1016/S1474-4422(15)00393-2
+1.Filippi M, Rocca MA, Ciccarelli O, et al.MRI criteria for the diagnosis of multiple sclerosis: MAGNIMS consensus guidelines.Lancet Neurol.15 (3):292–303, 2016.doi: 10.1016/S1474-4422(15)00393-2
+2.Thompson AJ, Banwell BL, Barkhof F, et al.Diagnosis of multiple sclerosis: 2017 revisions of the McDonald criteria.Lancet Neurol.2018;17:162–173.
+2.Thompson AJ, Banwell BL, Barkhof F, et al.Diagnosis of multiple sclerosis: 2017 revisions of the McDonald criteria.Lancet Neurol.2018;17:162–173.
+
+【多发性硬化症的治疗】
+糖皮质激素用于急性加重期
+糖皮质激素用于急性加重期
+疾病改良疗法（DMTs）可防止病情恶化并延缓最终残疾
+疾病改良疗法（DMTs）可防止病情恶化并延缓最终残疾
+康复护理与症状管理
+康复护理与症状管理
+多发性硬化症的治疗目标包括：
+缩短急性发作持续时间
+缩短急性发作持续时间
+减少复发频率
+减少复发频率
+缓解症状
+缓解症状
+延迟残疾，特别是保持患者的行走能力
+延迟残疾，特别是保持患者的行走能力
+
+【对恶化和复发的治疗】
+口服或静脉注射的糖皮质激素，短疗程（3至5天）用于治疗症状急性发作或加重引起足以损害功能的客观缺陷（例如视力丧失、力量或协调能力下降）。糖皮质激素可口服（甲泼尼龙或泼尼松）或静脉注射（甲泼尼龙）给药。一些数据表明，口服或静脉注射甲泼尼龙具有相似的疗效（1，2）。
+短期大剂量糖皮质激素口服或静脉给药，或可缩短急性加重期、暂时延缓病情进展，并改善核磁共振显示的疾病指标。然而，糖皮质激素尚未被证明能延缓多发性硬化症患者长期残疾的进展（3）。
+如果糖皮质激素不能有效减轻病情恶化的程度，可采用血浆置换（4）。血浆置换可用于任何复发形式的MS（复发-缓解型、进展性复发、继发性进展），但不用于原发进展型MS。
+血浆置换及造血干细胞移植（5）可能对严重、难治性疾病有效。
+
+【疾病改善疗法】
+疾病修饰疗法（DMTs）靶向并控制免疫系统，以预防病情加重并延缓最终残疾。关于使用DMTs有全面的实践指南（6, 7）。有关DMTs的更多信息，请参阅实践指南建议摘要：成人多发性硬化症的疾病改善疗法（美国神经病学学会2018年，重申2024年）、国家多发性硬化症协会网站以及关于高效疗法使用的最新指南（8-11）。
+根据降低复发率、新的MRI病变和致残率的能力，治疗复发缓解型MS的疾病改善疗法被分类为中度有效或高效：
+中等疗效:干扰素β-1a、干扰素β-1b、醋酸格拉替雷、特立氟胺、二甲富马酸酯、单甲富马酸酯、地罗西美富马酸酯、芬戈莫德、西波尼莫德、奥扎尼莫德、波尼西莫德
+中等疗效:干扰素β-1a、干扰素β-1b、醋酸格拉替雷、特立氟胺、二甲富马酸酯、单甲富马酸酯、地罗西美富马酸酯、芬戈莫德、西波尼莫德、奥扎尼莫德、波尼西莫德
+高效药物：那他珠单抗、利妥昔单抗、奥瑞珠单抗、奥法木单抗、乌布利珠单抗、克拉屈滨和阿仑单抗部分专家还将芬戈莫德、西波尼莫德、奥扎尼莫德、波尼西莫德归入此类。
+高效药物：那他珠单抗、利妥昔单抗、奥瑞珠单抗、奥法木单抗、乌布利珠单抗、克拉屈滨和阿仑单抗部分专家还将芬戈莫德、西波尼莫德、奥扎尼莫德、波尼西莫德归入此类。
+许多DMTs也被批准用于临床孤立综合征和活动性继发进展型多发性硬化症。
+以下具有中等疗效的注射、自行给药的疾病修饰治疗：
+Interferon beta-1a
+Interferon beta-1a
+Interferon beta-1b
+Interferon beta-1b
+醋酸格拉替雷
+醋酸格拉替雷
+以下口服免疫调节药物，按疗效分组，可用于治疗复发性多发性硬化（MS）形式，包括活动性继发性多发性硬化（即患者由复发型缓解型MS转变为继发进展型MS，但仍表现出活动性疾病）。
+中等疗效：
+特立氟胺
+特立氟胺
+富马酸二甲酯
+富马酸二甲酯
+富马酸单甲酯
+富马酸单甲酯
+富马酸地罗西美中等疗效（尽管部分观点认为疗效显著）：
+富马酸地罗西美
+中等疗效（尽管部分观点认为疗效显著）：
+芬戈莫德
+芬戈莫德
+西尼莫德
+西尼莫德
+奥扎莫德
+奥扎莫德
+波内西莫德高效性：
+波内西莫德
+高效性：
+克拉屈滨
+克拉屈滨
+在开始治疗时，将高效疗法作为一线疗法的共识越来越多。若患者已在接受疾病修正治疗，许多专家建议继续原有治疗（即使该方案未被归类为“高效治疗”），直至出现病情恶化的证据，如新发复发、新的MRI病灶或残疾程度加重。治疗计划，包括何时开始改善疾病的治疗，最好在患者教育和患者和医生共同决策的情况下决定。如果一种药物无效，可以尝试另一种药物。治疗方案应个体化，并由多发性硬化症专家管理。
+随着用于治疗多发性硬化的单克隆抗体问世，免疫抑制剂米托蒽醌的使用已减少，但它可能仍然有效，特别是对于其他治疗难治的进展型多发性硬化。
+那他珠单抗是一种抗alpha4整合素单克隆抗体，它可抑制白细胞通进入血脑屏障，每月使用一次，可以减少复发的次数以及脑内新病灶的产生，但可能增加进行性多灶性白质脑病（PML）的风险。进行性多灶性白质脑病的症状包括失语、精神状态改变、偏盲以及共济失调。
+增加PML风险的药物包括以下几种（按风险降序排列）：
+那他珠单抗（Natalizumab）
+那他珠单抗（Natalizumab）
+芬戈莫德
+芬戈莫德
+西尼莫德
+西尼莫德
+利妥昔单抗
+利妥昔单抗
+奥曲珠单抗
+奥曲珠单抗
+奥法木单抗（Ofatumumab）
+奥法木单抗（Ofatumumab）
+富马酸二甲酯，很少发生
+富马酸二甲酯，很少发生
+在使用任何这些药物前，强烈建议咨询受过多发性硬化症培训的神经科医生。在开始疾病改良疗法之前，应进行血液检查以检查是否存在导致进行性多灶性白质脑病的雅各布-克罗伊茨费尔特病毒（雅各布-克罗伊茨费尔特病毒，JCV）抗体。根据结果，进行以下事项之一：
+如果结果为阳性，则应告知患者有关PML的风险。
+如果结果为阳性，则应告知患者有关PML的风险。
+如果结果为阴性，则在任一药物的用药期间每6个月进行一次抗体检测；血清转换是常见的。
+如果结果为阴性，则在任一药物的用药期间每6个月进行一次抗体检测；血清转换是常见的。
+如果检测结果呈阳性，则应再次告知患者相关风险，临床医生应考虑改用无进行性多灶性白质脑病风险的药物。
+如果检测结果呈阳性，则应再次告知患者相关风险，临床医生应考虑改用无进行性多灶性白质脑病风险的药物。
+如果继续使用高危药物，则应每6个月进行一次脑部MRI检查。
+PML症状 的发展需要即时行脑部MRI检查，用或不用钆对比剂。MRI通常可以区分PML和MS。MRI检查后应进行腰椎穿刺，通过聚合酶链反应（PCR）检测脑脊液中的JCV DNA。阳性结果表明患有PML，需要紧急咨询神经科医生和传染病专家。如果检测结果阳性的患者服用了那他珠单抗，可以进行血浆置换以快速清除药物，如果发生免疫重建炎症综合症（IRIS），则需给予糖皮质激素治疗。
+
+【经验与提示】
+经验与提示
+如果服用那他珠单抗、利妥昔单抗或芬戈莫德的患者出现意识改变、失语、偏盲或共济失调，立即做脑部MRI检查，然后行腰椎穿刺检查PML。
+如果服用那他珠单抗、利妥昔单抗或芬戈莫德的患者出现意识改变、失语、偏盲或共济失调，立即做脑部MRI检查，然后行腰椎穿刺检查PML。
+阿仑妥珠单抗是一种抗cd52人源化单克隆抗体，静脉给药治疗多发性硬化症有效，但它会增加自身免疫性疾病、严重输液反应和某些癌症的风险(12)。阿仑单抗通常仅在其他两种或以上药物治疗无效时使用。
+克拉屈滨或可作为高活性复发型多发性硬化的适用疗法。克拉屈滨在两个年度疗程中口服给药。应在治疗前、治疗中和治疗后监测淋巴细胞计数，并应密切监测患者是否出现与免疫抑制相关的不良反应。
+一种静脉用抗CD20（B细胞）人源化单克隆抗体（Ocrelizumab）每6个月输注一次，对复发性MS也有效 (13)。奥瑞珠单抗也可用于治疗原发性进行性MS，通常用于非卧床患者。
+奥法木单抗也是一种抗CD20（B细胞）人源化单克隆抗体，用于治疗复发型MS患者，包括临床孤立综合征。 以及活动性继发进行性疾病。它通过皮下注射给药（自行给药[14]）。
+乌妥昔单抗是一种抗CD20（B细胞）嵌合单克隆抗体，亦用于治疗复发型多发性硬化，包括临床孤立综合征和活动性继发进展型疾病。它以静脉输注的形式给予。
+利妥昔单抗作为一种抗CD20（B细胞）药物（在美国属于多发性硬化的超适应症用药），其疗效优于格拉替雷和干扰素（15）；该药物在整个欧洲和加拿大被广泛使用，因其价格远低于奥瑞珠单抗。
+除米托蒽醌以外的其他免疫抑制剂（如，甲氨蝶呤、硫唑嘌呤、麦考酚酯、环磷酰胺、克拉立滨）已被用于更为严重的进展性MS患者，但是该治疗方案仍然存在争议。
+
+【康复护理与症状管理】
+护理人员的鼓励和安慰有助于多发性硬化症患者。
+需要时应咨询物理、职业和语言治疗师，并将其纳入个体患者的护理计划。即使对于晚期多发性硬化患者，无论是否接受物理疗法，都建议进行规律运动（如固定自行车、跑步机、游泳、伸展运动、平衡运动）。运动可增强心脏与肌肉功能，减轻痉挛，预防关节挛缩与跌倒，并具有心理保健益处。
+一般建议补充维生素 D（例如每天600至4000IU，以达到血液中20至50ng/mL [50至125nmol/L] 的水平），因为有混合证据表明它们可能延缓疾病进展的风险；然而，这种效果尚未在临床试验中得到一致证实（16-18）。 应监测血清维生素D水平，以确保剂量充足。维生素D还能降低骨质疏松风险，对因活动能力下降或糖皮质激素治疗而风险增加的患者尤其重要。
+患者应该尽可能维持一种正常的、有活力的生活方式，但需避免过度劳动、疲劳和接触高温环境。应停止吸烟或其他尼古丁摄入。
+接种疫苗不一定会引起MS复发。
+对于体质虚弱的患者需预防压疮或泌尿道感染的发生；部分患者可能需要间歇导尿。
+
+【症状控制】
+其他的治疗方法可用于特定症状控制：
+痉挛用逐渐增加剂量的巴氯芬或替扎尼定治疗。若口服疗法无效，可在痉挛肌肉中注射肉毒杆菌毒素（19）。步态和关节活动度的训练对四肢强直无力有所帮助。
+痉挛用逐渐增加剂量的巴氯芬或替扎尼定治疗。若口服疗法无效，可在痉挛肌肉中注射肉毒杆菌毒素（19）。步态和关节活动度的训练对四肢强直无力有所帮助。
+步态问题可以使用缓释4-氨基吡啶（达法普丁）治疗。
+步态问题可以使用缓释4-氨基吡啶（达法普丁）治疗。
+痛性感觉异常通常使用加巴喷丁或普瑞巴林治疗。替代方案包括三环类抗抑郁药（如阿米替林或地昔帕明）、卡马西平或其他抗癫痫药物，以及阿片类药物。
+痛性感觉异常通常使用加巴喷丁或普瑞巴林治疗。替代方案包括三环类抗抑郁药（如阿米替林或地昔帕明）、卡马西平或其他抗癫痫药物，以及阿片类药物。
+抑郁症可通过心理咨询和抗抑郁药物进行治疗。
+抑郁症可通过心理咨询和抗抑郁药物进行治疗。
+膀胱功能障碍则可根据其潜在机制进行治疗。
+膀胱功能障碍则可根据其潜在机制进行治疗。
+便秘可以定期服用大便软化剂或泻药治疗。
+便秘可以定期服用大便软化剂或泻药治疗。
+疲劳可以用金刚烷胺莫达非尼、阿莫达非尼或缓释苯丙胺治疗。
+疲劳可以用金刚烷胺莫达非尼、阿莫达非尼或缓释苯丙胺治疗。
+震颤：与多发性硬化症相关的震颤很难治疗。经验性使用氯硝西泮或加巴喷丁治疗可能有效。对于重症病例，向症状肌肉注射A型肉毒毒素可能有所帮助（20）。
+震颤：与多发性硬化症相关的震颤很难治疗。经验性使用氯硝西泮或加巴喷丁治疗可能有效。对于重症病例，向症状肌肉注射A型肉毒毒素可能有所帮助（20）。
+
+【治疗参考文献】
+1.Le Page E, Veillard D, Laplaud DA, et al.Oral versus intravenous high-dose methylprednisolone for treatment of relapses in patients with multiple sclerosis (COPOUSEP): A randomised, controlled, double-blind, non-inferiority trial.Lancet.386 (9997):974–981, 2015.doi: 10.1016/S0140-6736(15)61137-0
+1.Le Page E, Veillard D, Laplaud DA, et al.Oral versus intravenous high-dose methylprednisolone for treatment of relapses in patients with multiple sclerosis (COPOUSEP): A randomised, controlled, double-blind, non-inferiority trial.Lancet.386 (9997):974–981, 2015.doi: 10.1016/S0140-6736(15)61137-0
+2.Burton JM, O'Connor PW, Hohol M, Beyene J.Oral versus intravenous steroids for treatment of relapses in multiple sclerosis.Cochrane Database Syst Rev.12:CD006921, 2012.doi: 10.1002/14651858.CD006921.pub3
+2.Burton JM, O'Connor PW, Hohol M, Beyene J.Oral versus intravenous steroids for treatment of relapses in multiple sclerosis.Cochrane Database Syst Rev.12:CD006921, 2012.doi: 10.1002/14651858.CD006921.pub3
+3.Ciccone A, Beretta S, Brusaferri F, Galea I, Protti A, Spreafico C.Corticosteroids for the long-term treatment in multiple sclerosis.Cochrane Database Syst Rev.2008;(1):CD006264.Published 2008 Jan 23.doi:10.1002/14651858.CD006264.pub2
+3.Ciccone A, Beretta S, Brusaferri F, Galea I, Protti A, Spreafico C.Corticosteroids for the long-term treatment in multiple sclerosis.Cochrane Database Syst Rev.2008;(1):CD006264.Published 2008 Jan 23.doi:10.1002/14651858.CD006264.pub2
+4.Tumani H.Corticosteroids and plasma exchange in multiple sclerosis.J Neurol.2008;255 Suppl 6:36-42.doi:10.1007/s00415-008-6007-9
+4.Tumani H.Corticosteroids and plasma exchange in multiple sclerosis.J Neurol.2008;255 Suppl 6:36-42.doi:10.1007/s00415-008-6007-9
+5.Burt RK, Balabanov R, Burman J, et al.Effect of Nonmyeloablative Hematopoietic Stem Cell Transplantation vs Continued Disease-Modifying Therapy on Disease Progression in Patients With Relapsing-Remitting Multiple Sclerosis: A Randomized Clinical Trial.JAMA.2019;321(2):165-174.doi:10.1001/jama.2018.18743
+5.Burt RK, Balabanov R, Burman J, et al.Effect of Nonmyeloablative Hematopoietic Stem Cell Transplantation vs Continued Disease-Modifying Therapy on Disease Progression in Patients With Relapsing-Remitting Multiple Sclerosis: A Randomized Clinical Trial.JAMA.2019;321(2):165-174.doi:10.1001/jama.2018.18743
+6.Rae-Grant A, Day GS, Ruth Ann Marrie RA, et al.Practice guideline recommendations summary: Disease-modifying therapies for adults with multiple sclerosis: Report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology.Neurology.90 (17):777–788, 2018.doi: 10.1212/WNL.0000000000005347.Correction:Neurology.92(2):112, 2019.
+6.Rae-Grant A, Day GS, Ruth Ann Marrie RA, et al.Practice guideline recommendations summary: Disease-modifying therapies for adults with multiple sclerosis: Report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology.Neurology.90 (17):777–788, 2018.doi: 10.1212/WNL.0000000000005347.Correction:Neurology.92(2):112, 2019.
+7.National Multiple Sclerosis Society.Disease-Modifying Therapies.Accessed July 7, 2025.
+7.National Multiple Sclerosis Society.Disease-Modifying Therapies.Accessed July 7, 2025.
+8.Filippi M, Amato MP, Centonze D, et al.Early use of high-efficacy disease-modifying therapies makes the difference in people with multiple sclerosis: an expert opinion.J Neurol.2022;269:5382-5394.
+8.Filippi M, Amato MP, Centonze D, et al.Early use of high-efficacy disease-modifying therapies makes the difference in people with multiple sclerosis: an expert opinion.J Neurol.2022;269:5382-5394.
+9.Buron MD, Chalmer TA, Sellebjerg F, et al.Initial high-efficacy disease-modifying therapy in multiple sclerosis: A nationwide cohort study.Neurology.2020;95(8):e1041-e1051.doi:10.1212/WNL.0000000000010135
+9.Buron MD, Chalmer TA, Sellebjerg F, et al.Initial high-efficacy disease-modifying therapy in multiple sclerosis: A nationwide cohort study.Neurology.2020;95(8):e1041-e1051.doi:10.1212/WNL.0000000000010135
+10.Freedman MS, Clift F, Devonshire V, et al.First-Line Use of Higher-Efficacy Disease-Modifying Therapies in Multiple Sclerosis: Canadian Consensus Recommendations.Can J Neurol Sci.Published online June 9, 2025.doi:10.1017/cjn.2025.10342
+10.Freedman MS, Clift F, Devonshire V, et al.First-Line Use of Higher-Efficacy Disease-Modifying Therapies in Multiple Sclerosis: Canadian Consensus Recommendations.Can J Neurol Sci.Published online June 9, 2025.doi:10.1017/cjn.2025.10342
+11.Freeman L, Longbrake EE, Coyle PK, et al.High-efficacy therapies for treatment-naive individuals with relapsing-remitting multiple sclerosis.CNS Drugs.2022;36;1285–1299.
+11.Freeman L, Longbrake EE, Coyle PK, et al.High-efficacy therapies for treatment-naive individuals with relapsing-remitting multiple sclerosis.CNS Drugs.2022;36;1285–1299.
+12.Coles AJ, Achiron A, Traboulsee A, et al.Safety and efficacy with alemtuzumab over 13 years in relapsing-remitting multiple sclerosis: final results from the open-label TOPAZ study.Ther Adv Neurol Disord.2023;16:17562864231194823.Published 2023 Sep 21.doi:10.1177/17562864231194823
+12.Coles AJ, Achiron A, Traboulsee A, et al.Safety and efficacy with alemtuzumab over 13 years in relapsing-remitting multiple sclerosis: final results from the open-label TOPAZ study.Ther Adv Neurol Disord.2023;16:17562864231194823.Published 2023 Sep 21.doi:10.1177/17562864231194823
+13.Hauser SL, Bar-Or A, Comi G, et al.Ocrelizumab versus interferon beta-1a in relapsing multiple sclerosis.N Engl J Med.2017;376(3):221-234.doi:10.1056/NEJMoa1601277
+13.Hauser SL, Bar-Or A, Comi G, et al.Ocrelizumab versus interferon beta-1a in relapsing multiple sclerosis.N Engl J Med.2017;376(3):221-234.doi:10.1056/NEJMoa1601277
+14.Hauser SL, Bar-Or A, Cohen JA, et al.Ofatumumab versus teriflunomide in multiple sclerosis.N Engl J Med.2020;383(6):546-557.doi:10.1056/NEJMoa1917246
+14.Hauser SL, Bar-Or A, Cohen JA, et al.Ofatumumab versus teriflunomide in multiple sclerosis.N Engl J Med.2020;383(6):546-557.doi:10.1056/NEJMoa1917246
+15.Granqvist M, Boremalm M , Poorghobad A, et al.Comparative effectiveness of rituximab and other initial treatment choices for multiple sclerosis.JAMA Neurol.2018;75(3):320-327.doi:10.1001/jamaneurol.2017.4011
+15.Granqvist M, Boremalm M , Poorghobad A, et al.Comparative effectiveness of rituximab and other initial treatment choices for multiple sclerosis.JAMA Neurol.2018;75(3):320-327.doi:10.1001/jamaneurol.2017.4011
+16.Thouvenot E, Laplaud D, Lebrun-Frenay C, et al.High-Dose Vitamin D in Clinically Isolated Syndrome Typical of Multiple Sclerosis: The D-Lay MS Randomized Clinical Trial.JAMA.2025;333(16):1413-1422.doi:10.1001/jama.2025.1604
+16.Thouvenot E, Laplaud D, Lebrun-Frenay C, et al.High-Dose Vitamin D in Clinically Isolated Syndrome Typical of Multiple Sclerosis: The D-Lay MS Randomized Clinical Trial.JAMA.2025;333(16):1413-1422.doi:10.1001/jama.2025.1604
+17.Jagannath VA, Filippini G, Di Pietrantonj C, et al.Vitamin D for the management of multiple sclerosis.Cochrane Database Syst Rev.2018;9(9):CD008422.Published 2018 Sep 24.doi:10.1002/14651858.CD008422.pub3
+17.Jagannath VA, Filippini G, Di Pietrantonj C, et al.Vitamin D for the management of multiple sclerosis.Cochrane Database Syst Rev.2018;9(9):CD008422.Published 2018 Sep 24.doi:10.1002/14651858.CD008422.pub3
+18.Feige J, Moser T, Bieler L, Schwenker K, Hauer L, Sellner J.Vitamin D Supplementation in Multiple Sclerosis: A Critical Analysis of Potentials and Threats.Nutrients.2020;12(3):783.Published 2020 Mar 16.doi:10.3390/nu12030783
+18.Feige J, Moser T, Bieler L, Schwenker K, Hauer L, Sellner J.Vitamin D Supplementation in Multiple Sclerosis: A Critical Analysis of Potentials and Threats.Nutrients.2020;12(3):783.Published 2020 Mar 16.doi:10.3390/nu12030783
+19.Safarpour Y, Mousavi T, Jabbari B. Botulinum Toxin Treatment in Multiple Sclerosis-a Review.Curr Treat Options Neurol.2017;19(10):33.Published 2017 Aug 17.doi:10.1007/s11940-017-0470-5
+19.Safarpour Y, Mousavi T, Jabbari B. Botulinum Toxin Treatment in Multiple Sclerosis-a Review.Curr Treat Options Neurol.2017;19(10):33.Published 2017 Aug 17.doi:10.1007/s11940-017-0470-5
+20.Makhoul K, Ahdab R, Riachi N, et al.Tremor in multiple sclerosis-An overview and future perspectives.Brain Sci.2020;10(10):722.Published 2020 Oct 12.doi:10.3390/brainsci10100722
+20.Makhoul K, Ahdab R, Riachi N, et al.Tremor in multiple sclerosis-An overview and future perspectives.Brain Sci.2020;10(10):722.Published 2020 Oct 12.doi:10.3390/brainsci10100722
+
+【系统性硬化症的预后】
+多发性硬化的病程是高度多变和不可预测的。在大多数患者中，尤其是以视神经炎起病的患者，本病的缓解期可以持续数月到>10年。
+大多数初发时为临床孤立综合征的患者（60%至80%[1]）最终会发展为多发性硬化，通常在初始症状出现后5年内出现第二处病灶并引发症状或可通过MRI检测到。疾病修饰治疗可延缓该病进展。如果患者有放射学孤立综合征而没有与脱髓鞘一致的临床发作史，则发生 MS 的风险为 19% 至 90%，具体取决于患者的年龄和脊髓或钆增强病变的存在（2)。
+如果初始脑部或脊髓MRI显示病灶范围较广，或者患者出现运动、肠道和/或膀胱症状，或者复发期间恢复不完全，则早期残疾的风险更高。部分患者可能出现快速功能丧失，例如中年发病且频繁加重的男性患者。吸烟可能加速病情进展。
+只在非常严重的病例中患者寿命缩短。
+
+【预后参考】
+1.National Multiple Sclerosis Society.Clinically isolated syndrome (CIS).Accessed June 29, 2025.
+1.National Multiple Sclerosis Society.Clinically isolated syndrome (CIS).Accessed June 29, 2025.
+2.Lebrun-Frénay C, Rollot F, Mondot L, et al.Risk factors and time to clinical symptoms of multiple sclerosis among patients with radiologically isolated syndrome.JAMA Netw Open.4(10):e2128271, 2021. doi: 10.1001/jamanetworkopen.2021.28271
+2.Lebrun-Frénay C, Rollot F, Mondot L, et al.Risk factors and time to clinical symptoms of multiple sclerosis among patients with radiologically isolated syndrome.JAMA Netw Open.4(10):e2128271, 2021. doi: 10.1001/jamanetworkopen.2021.28271
+MS是累及CNS的脱髓鞘疾病；MS的进展可能无法预测，但是具有几种典型的进展类型：
+MS是累及CNS的脱髓鞘疾病；MS的进展可能无法预测，但是具有几种典型的进展类型：
+最常见的症状是感觉异常，肢体无力或行动笨拙及视觉症状，但各种症状均可能出现。
+最常见的症状是感觉异常，肢体无力或行动笨拙及视觉症状，但各种症状均可能出现。
+如果MRI与临床表现具有MS典型的时间和空间多发特征，则可以确诊MS；但是，即便是单发的临床症状或影像学病灶的患者也可能进展为MS。
+如果MRI与临床表现具有MS典型的时间和空间多发特征，则可以确诊MS；但是，即便是单发的临床症状或影像学病灶的患者也可能进展为MS。
+使用糖皮质激素（针对严重恶化）和免疫调节药物（以延缓或预防恶化）治疗患者。
+使用糖皮质激素（针对严重恶化）和免疫调节药物（以延缓或预防恶化）治疗患者。
+给予病人支持治疗，使用康复服务和药物对症处理（如痉挛、痛性感觉异常、抑郁、膀胱功能障碍、疲劳、步态问题）。
+给予病人支持治疗，使用康复服务和药物对症处理（如痉挛、痛性感觉异常、抑郁、膀胱功能障碍、疲劳、步态问题）。

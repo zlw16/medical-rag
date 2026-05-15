@@ -1,0 +1,81 @@
+标题：如何进行针刺胸腔造口术
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/how-to-do-pulmonary-procedures/how-to-do-needle-thoracostomy
+============================================================
+
+针刺胸腔造口术是一种紧急的，可能挽救生命的手术，如果管状胸廓造口术不能在有限时间内完成时，可以采用这种手术。
+
+【针刺胸廓造口术适应症】
+张力性气胸在进行胸腔引流术之前必须先减压，这通常发生在因主要血管受压而导致血流动力学不稳定的患者中（1）。
+张力性气胸在进行胸腔引流术之前必须先减压，这通常发生在因主要血管受压而导致血流动力学不稳定的患者中（1）。
+
+【针刺胸廓造口术的禁忌症】
+没有禁忌症，因为只有在对生命的直接威胁（通常是血流动力学受损）的情况下才进行此项手术，而这优先于其他考虑因素，例如出血倾向或胸壁解剖异常。
+
+【针式胸廓造口术的并发症】
+肺脏和膈肌的裂伤
+肺脏和膈肌的裂伤
+肋骨下神经血管束损伤引起的肋间神经痛
+肋骨下神经血管束损伤引起的肋间神经痛
+医源性气胸（如因误诊气胸而进行操作）
+医源性气胸（如因误诊气胸而进行操作）
+还有极少见的胸腹部脏器穿孔
+还有极少见的胸腹部脏器穿孔
+
+【针式胸廓造口设备】
+14 号或 16 号针头（套管针最佳）；8 厘米长的针比 5 厘米长的针更容易成功（2），但会增加损伤下方结构的风险。
+14 号或 16 号针头（套管针最佳）；8 厘米长的针比 5 厘米长的针更容易成功（2），但会增加损伤下方结构的风险。
+无菌手术衣，口罩，手套
+无菌手术衣，口罩，手套
+用于清洁该区域的消毒溶液，例如 2% 氯己定溶液或聚维酮碘
+用于清洁该区域的消毒溶液，例如 2% 氯己定溶液或聚维酮碘
+皮肤标记笔（可选）
+皮肤标记笔（可选）
+
+【胸廓穿刺造口术的其他注意事项】
+手术的紧迫性取决于患者的状况。 低血压提示更严重的张力性气胸，需要更紧迫的治疗。
+手术的紧迫性取决于患者的状况。 低血压提示更严重的张力性气胸，需要更紧迫的治疗。
+
+【针式胸廓造口术的相关解剖】
+神经血管束位于每根肋骨下缘。 因此，穿刺针应置于肋骨上缘以避免损伤神经血管束。
+神经血管束位于每根肋骨下缘。 因此，穿刺针应置于肋骨上缘以避免损伤神经血管束。
+位于肋骨下缘的神经血管束包括肋间静脉、动脉和神经。
+
+【针式胸廓造口术的定位】
+患者应取仰卧位（背部朝下平躺）。
+患者应取仰卧位（背部朝下平躺）。
+
+【针胸造口术的分步说明】
+选择穿刺部位：传统上，首选穿刺部位是患侧胸廓的锁骨中线第二肋间，因其易于操作。然而，该部位对于胸壁较厚的患者失败率较高。由于失败率较低，已建议使用特定的替代部位，例如沿腋前线第四或第五肋间隙（3）。
+选择穿刺部位：传统上，首选穿刺部位是患侧胸廓的锁骨中线第二肋间，因其易于操作。然而，该部位对于胸壁较厚的患者失败率较高。由于失败率较低，已建议使用特定的替代部位，例如沿腋前线第四或第五肋间隙（3）。
+若时间允许，使用氯己定或聚维酮碘等消毒溶液对置管部位及周围区域进行消毒准备。
+若时间允许，使用氯己定或聚维酮碘等消毒溶液对置管部位及周围区域进行消毒准备。
+几乎没有时间提供局部麻醉，如果时间允许的话，可以将1％利多卡因注入皮肤，皮下组织，肋骨骨膜（插入部位下面的肋骨）和壁层胸膜。 在对疼痛高度敏感的骨膜和壁层胸膜周围注入大量局部麻醉药。注射利多卡因前先用注射器回抽以评估是否有血液；此步骤是为了避免注射入血管。 进入胸腔时，麻醉注射器内有空气回流可确认位置正确。
+几乎没有时间提供局部麻醉，如果时间允许的话，可以将1％利多卡因注入皮肤，皮下组织，肋骨骨膜（插入部位下面的肋骨）和壁层胸膜。 在对疼痛高度敏感的骨膜和壁层胸膜周围注入大量局部麻醉药。注射利多卡因前先用注射器回抽以评估是否有血液；此步骤是为了避免注射入血管。 进入胸腔时，麻醉注射器内有空气回流可确认位置正确。
+在目标肋间隙下方的肋骨上缘刺穿皮肤，插入胸腔穿刺针，然后将针尖朝向头部方向越过肋骨，直至刺穿胸膜（通常表现为落空感和/或阻力突然减小）。
+在目标肋间隙下方的肋骨上缘刺穿皮肤，插入胸腔穿刺针，然后将针尖朝向头部方向越过肋骨，直至刺穿胸膜（通常表现为落空感和/或阻力突然减小）。
+进行针刺胸腔造口术后，应尽快为胸腔管造口术做好准备。
+进行针刺胸腔造口术后，应尽快为胸腔管造口术做好准备。
+
+【针式胸廓造口术后护理】
+应当进行胸部X光检查以确认肺复张和正确放置胸管。
+应当进行胸部X光检查以确认肺复张和正确放置胸管。
+
+【针刺胸廓造口术的警示和常见错误】
+根据胸壁厚度，可能需要更长的针或选择不同的部位。
+根据胸壁厚度，可能需要更长的针或选择不同的部位。
+
+【针式胸廓造口术的技巧和窍门】
+拔针后，导管可能因管腔扭结而阻塞。较小的导管（包括14和16号导管）尤其容易发生弯曲。有些指南建议使用更大号的10G针及导管（4,5）。
+拔针后，导管可能因管腔扭结而阻塞。较小的导管（包括14和16号导管）尤其容易发生弯曲。有些指南建议使用更大号的10G针及导管（4,5）。
+
+【参考文献】
+1.Lyng JW, Ward C, Angelidis M, et al: Prehospital Trauma Compendium: Traumatic Pneumothorax Care: Position Statement and Resource Document of NAEMSP.Prehosp Emerg CarePublished online December 4, 2024.doi:10.1080/10903127.2024.2416978
+1.Lyng JW, Ward C, Angelidis M, et al: Prehospital Trauma Compendium: Traumatic Pneumothorax Care: Position Statement and Resource Document of NAEMSP.Prehosp Emerg CarePublished online December 4, 2024.doi:10.1080/10903127.2024.2416978
+2.Aho JM, Thiels CA, El Khatib MM, et al: Needle thoracostomy: Clinical effectiveness is improved using a longer angiocatheter.J Trauma Acute Care Surg80(2):272–277, 2016.doi: 10.1097/TA.0000000000000889
+2.Aho JM, Thiels CA, El Khatib MM, et al: Needle thoracostomy: Clinical effectiveness is improved using a longer angiocatheter.J Trauma Acute Care Surg80(2):272–277, 2016.doi: 10.1097/TA.0000000000000889
+3.Laan DV, Vu TD, Thiels CA, et al: Chest wall thickness and decompression failure: A systematic review and meta-analysis comparing anatomic locations in needle thoracostomy.Injury47(4):797–804, 2016.doi:10.1016/j.injury.2015.11.045
+3.Laan DV, Vu TD, Thiels CA, et al: Chest wall thickness and decompression failure: A systematic review and meta-analysis comparing anatomic locations in needle thoracostomy.Injury47(4):797–804, 2016.doi:10.1016/j.injury.2015.11.045
+4.Clemency BM, Tanski CT, Rosenberg M, et al: Sufficient catheter length for pneumothorax needle decompression: A meta-analysis.Prehosp Disaster Med30(3):249–253, 2015.doi: 10.1017/S1049023X15004653
+4.Clemency BM, Tanski CT, Rosenberg M, et al: Sufficient catheter length for pneumothorax needle decompression: A meta-analysis.Prehosp Disaster Med30(3):249–253, 2015.doi: 10.1017/S1049023X15004653
+5.Beckett A, Savage E, Pannell D, et al: Needle decompression for tension pneumothorax in Tactical Combat Casualty Care: Do catheters placed in the midaxillary line kink more often than those in the midclavicular line?J Trauma2011 71(5 Suppl 1):S408–S412, 2011.doi: 10.1097/TA.0b013e318232e558
+5.Beckett A, Savage E, Pannell D, et al: Needle decompression for tension pneumothorax in Tactical Combat Casualty Care: Do catheters placed in the midaxillary line kink more often than those in the midclavicular line?J Trauma2011 71(5 Suppl 1):S408–S412, 2011.doi: 10.1097/TA.0b013e318232e558

@@ -1,0 +1,84 @@
+标题：大于胎龄儿（LGA）
+来源：https://www.msdmanuals.cn/professional/pediatrics/perinatal-problems/large-for-gestational-age-lga-infant
+============================================================
+
+孕龄大致定义为母亲最后一次正常月经期的第一天与分娩日之间的周数。更准确地说，孕龄是受孕前14天与分娩日之间的差值。孕龄不是胎儿的实际胚胎年龄，而是产科医生和新生儿学家讨论胎儿成熟的普遍标准。
+芬顿生长图表提供了对生长与胎龄的更精确评估（参见图早产儿芬顿生长图和早产儿芬顿生长表）。
+
+【早产男孩Fenton生长曲线表】
+早产男孩Fenton生长曲线表
+Fenton T, Kim J: A systematic review and meta-analysis to revise the Fenton growth chart for preterm infants.BMC Pediatrics13:59, 2013.doi: 10.1186/1471-2431-13-59; used with permission.
+
+【早产女孩Fenton生长曲线图】
+早产女孩Fenton生长曲线图
+Fenton T, Kim J: A systematic review and meta-analysis to revise the Fenton growth chart for preterm infants.BMC Pediatrics13:59, 2013.doi: 10.1186/1471-2431-13-59; used with permission.
+
+【LGA婴儿的病因】
+除了遗传确定的大小之外，母亲的糖尿病是大于胎龄（LGA）儿的主要原因。大体型胎儿是由于妊娠期间母体过高的血糖水平而引起的胎儿胰岛素水平增高，从而产生的促合成作用所导致的，有时增加母亲的热量摄入，以补偿尿中葡萄糖的损失。怀孕期间母亲的糖尿病控制较差，胎儿大小就越大。另一促发因素是母体肥胖。
+罕见的胎儿巨大症的原因是Beckwith-Wiedemann综合征（特征是巨大胎儿，脐突出，巨头症和低血糖症）和Sotos综合征，Marshall综合征和Weaver综合征。
+
+【LGA 婴儿的症状、体征和治疗】
+LGA婴儿体型较大且多血质。5分钟阿普加评分可能偏低。这些婴儿可能表现为无精打采、软弱无力，且喂养不良。
+任何一个大于胎龄儿都可能发生分娩并发症。糖尿病母亲的大于胎龄儿特别容易发生先天性异常和一些代谢和心脏并发症。
+
+【分娩并发症】
+由于胎儿体格巨大，使经阴道分娩很困难并偶尔会造成产伤，尤其包括：
+锁骨或四肢骨折
+锁骨或四肢骨折
+围产期窒息
+围产期窒息
+当体重>4000g，出现其他并发症。由于以下原因，发病率和死亡率成比例增加：
+呼吸窘迫（和需要通气辅助）。
+呼吸窘迫（和需要通气辅助）。
+胎粪吸入综合征
+胎粪吸入综合征
+红细胞增多症
+红细胞增多症
+
+【患有糖尿病的母亲所生的婴儿】
+患有糖尿病的母亲所生的婴儿面临以下风险
+低钙血症和低镁血症
+低钙血症和低镁血症
+红细胞增多症
+红细胞增多症
+高胆红素血症
+高胆红素血症
+呼吸窘迫综合征
+呼吸窘迫综合征
+某些先天性异常
+某些先天性异常
+低血糖在分娩后的最初几个小时很可能是因为高胰岛素血症的状态和母体葡萄糖在脐带切断时的突然终止。通过对母亲的糖尿病进行严格的产前管理，以及对有低血糖风险的新生儿进行早期、频繁的喂养，可以降低新生儿低血糖的发生率（1）。血糖水平应该通过床边测试密切监测，至少从出生到最初的24小时 (2)。
+低血糖的治疗范围从口服肠内喂养或通过鼻胃管到静脉注射含葡萄糖液体。口服40%葡萄糖凝胶治疗可能避免因静脉输液而将新生儿与母亲分开，但如果低血糖持续存在，则需静脉注射含葡萄糖的液体。也有证据表明，预防性使用口服葡萄糖凝胶可以预防高危新生儿低血糖（3）。与其他低血糖疗法相比，需更多证据证明口腔凝胶对长期神经功能障碍的影响（4）。
+低钙血症和低镁血症可能发生，但通常是短暂的和无症状的。良好的产前血糖控制降低新生儿低钙血症的风险。低钙血症通常无需治疗，除非出现相关临床症状（如烦躁不安、抽搐、呼吸暂停）或足月儿的总血清钙水平<7 mg/dL（<1.75 mmol/L）或离子钙水平<4 mg/dL（<1 mmol/L）。治疗应基于离子钙水平，因为这些水平更准确地反映了可用钙。 治疗通常予静脉输注葡萄糖酸钙。低镁血症可干扰甲状旁腺激素的分泌，因此低钙血症可能对治疗无反应，直到血镁水平得到矫正。
+红细胞增多症在糖尿病母亲所生婴儿中略为常见。胰岛素水平升高增加了胎儿的新陈代谢，从而增大氧消耗。如果胎盘无法满足增加的氧需求，则胎儿出现缺氧，引发促红细胞生成素增加，从而导致红细胞压积增高。
+高胆红素血症的 发生有几个原因。患有糖尿病的母亲所生的婴儿在生命的早期通常对口服喂养的耐受性较低(尤其是早产儿)，这增加了胆红素的肠肝循环。此外，如果存在红细胞增多症，胆红素负荷增加。
+呼吸窘迫综合征（RDS）可能发生，因为胰岛素水平升高降低了表面活性物质的产生；肺成熟可能因此延迟至妊娠晚期。即使婴儿是晚期早产或足月，也可能发生RDS。呼吸窘迫综合征的治疗将在别处讨论。
+新生儿暂时性呼吸急促在糖尿病母亲的婴儿中的可能性为2至3倍，原因是胎儿肺液清除的延迟。
+先天性异常在糖尿病母亲的婴儿中更容易发生，因为器官形成时母亲的高血糖是有害的。特定的异常包括
+先天性心脏病（肥厚型心肌病，室间隔缺损，大动脉转位和主动脉瓣狭窄）
+先天性心脏病（肥厚型心肌病，室间隔缺损，大动脉转位和主动脉瓣狭窄）
+尾部退化综合症
+尾部退化综合症
+左小结肠综合征
+左小结肠综合征
+持续升高的胰岛素水平还可以导致糖原和脂肪沉积增加到心肌细胞中。这种沉积可引起暂时性肥厚性心肌病，主要影响心脏隔膜。
+
+【参考文献】
+1.Committee on Fetus and Newborn, Adamkin DH.Postnatal glucose homeostasis in late-preterm and term infants.Pediatrics.2011;127(3):575-579.doi:10.1542/peds.2010-3851
+1.Committee on Fetus and Newborn, Adamkin DH.Postnatal glucose homeostasis in late-preterm and term infants.Pediatrics.2011;127(3):575-579.doi:10.1542/peds.2010-3851
+2.Thornton PS, Stanley CA, De Leon DD, et al.Recommendations from the Pediatric Endocrine Society for Evaluation and Management of Persistent Hypoglycemia in Neonates, Infants, and Children.J Pediatr.2015;167(2):238-245.doi:10.1016/j.jpeds.2015.03.057
+2.Thornton PS, Stanley CA, De Leon DD, et al.Recommendations from the Pediatric Endocrine Society for Evaluation and Management of Persistent Hypoglycemia in Neonates, Infants, and Children.J Pediatr.2015;167(2):238-245.doi:10.1016/j.jpeds.2015.03.057
+3.Devarapalli V, Niven M, Canonigo J, et al.Prophylactic dextrose gel use in newborns at risk for hypoglycemia.J Perinatol.2024;44(11):1640-1646.doi:10.1038/s41372-024-02133-9
+3.Devarapalli V, Niven M, Canonigo J, et al.Prophylactic dextrose gel use in newborns at risk for hypoglycemia.J Perinatol.2024;44(11):1640-1646.doi:10.1038/s41372-024-02133-9
+4.Edwards T, Liu G, Battin M, et al.Oral dextrose gel for the treatment of hypoglycaemia in newborn infants.Cochrane Database Syst Rev.2022;3(3):CD011027.doi:10.1002/14651858.CD011027.pub3
+4.Edwards T, Liu G, Battin M, et al.Oral dextrose gel for the treatment of hypoglycaemia in newborn infants.Cochrane Database Syst Rev.2022;3(3):CD011027.doi:10.1002/14651858.CD011027.pub3
+母体糖尿病是大于胎龄儿的主要原因。
+母体糖尿病是大于胎龄儿的主要原因。
+体格大其本身增加了出生损伤（例如，锁骨或肢体长骨骨折）和围产期窒息的风险。
+体格大其本身增加了出生损伤（例如，锁骨或肢体长骨骨折）和围产期窒息的风险。
+糖尿病母亲的婴儿也可能在分娩后立即出现代谢性并发症，包括低血糖，低钙血症和红细胞增多症。
+糖尿病母亲的婴儿也可能在分娩后立即出现代谢性并发症，包括低血糖，低钙血症和红细胞增多症。
+糖尿病母亲的婴儿也有呼吸窘迫综合征和先天性异常的风险。
+糖尿病母亲的婴儿也有呼吸窘迫综合征和先天性异常的风险。
+对母体葡萄糖水平的良好控制使并发症的风险最小化。
+对母体葡萄糖水平的良好控制使并发症的风险最小化。

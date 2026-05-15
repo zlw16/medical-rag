@@ -1,0 +1,75 @@
+标题：巩膜炎
+来源：https://www.msdmanuals.cn/professional/eye-disorders/conjunctival-and-scleral-disorders/scleritis
+============================================================
+
+巩膜炎在30至50岁的女性中最常见（1），许多人还患有系统性风湿性疾病，如类风湿关节炎、系统性红斑狼疮、结节性多动脉炎、肉芽肿性多血管炎，或复发性多软骨炎。
+少数病例是原位感染。大约有一半的病例无法明确病因。
+巩膜炎可影响巩膜的前后段，但最常见的是前段。其可进一步分为3种亚型——弥漫型、结节型和坏死型。
+
+【参考文献】
+1.Galor A, Thorne JE.Scleritis and peripheral ulcerative keratitis.Rheum Dis Clin North Am.2007;33(4):835-vii.doi:10.1016/j.rdc.2007.08.002
+1.Galor A, Thorne JE.Scleritis and peripheral ulcerative keratitis.Rheum Dis Clin North Am.2007;33(4):835-vii.doi:10.1016/j.rdc.2007.08.002
+
+【巩膜炎的症状和体征】
+巩膜炎引起的疼痛，通常表现为深部钻痛，疼痛程度剧烈，足以影响睡眠和食欲。可有畏光和流泪症状。球结膜下深部的充血状斑块，较表层巩膜炎和结膜炎更偏紫红色。睑结膜正常。
+受累区域可为局限性（通常是眼球的一个象限受累）或者累及整个眼球，可表现为充血的、水肿的隆起结节（结节性巩膜炎），或表现为一无血管区（坏死性巩膜炎）。
+中间巩膜炎和后巩膜炎不太常见，也不太可能引起红眼，但更有可能引起飞蚊症、视力模糊或视力下降。
+此图显示充血、水肿的隆起结节（结节性巩膜炎）。
+© Springer Science+Business Media
+图示为伴有巩膜坏死的结膜溃疡（坏死性巩膜炎）。蓝色到灰色的区域是脉络膜，在巩膜严重缺失的地方可见。较小的白色三角形区域是一个没有变薄的无血管区域。
+© Springer Science+Business Media
+严重的坏死型巩膜炎导致眼球穿孔，甚至可能丧失眼球。
+一项研究表明，8% 至 25% 的弥漫性或结节性巩膜炎患者会罹患系统性风湿性疾病，86% 的坏死性巩膜炎患者会罹患系统性风湿性疾病（1）。系统性风湿性疾病患者坏死性巩膜炎的潜在信号是全身血管炎.。
+临床医生应仔细考虑坏死性巩膜炎患者的感染，因为感染性巩膜炎可能表现相似，并且感染可能使坏死性巩膜炎复杂化。
+
+【症状和体征】
+1.Bin Ismail MA, Lim RHF, Fang HM, et al.Ocular Autoimmune Systemic Inflammatory Infectious Study (OASIS)-report 4: analysis and outcome of scleritis in an East Asian population.J Ophthalmic Inflamm Infect.2017;7(1):6.doi:10.1186/s12348-017-0124-5
+1.Bin Ismail MA, Lim RHF, Fang HM, et al.Ocular Autoimmune Systemic Inflammatory Infectious Study (OASIS)-report 4: analysis and outcome of scleritis in an East Asian population.J Ophthalmic Inflamm Infect.2017;7(1):6.doi:10.1186/s12348-017-0124-5
+
+【巩膜炎的诊断】
+裂隙灯检查
+裂隙灯检查
+巩膜炎的诊断是通过临床进行的裂隙灯检查，通常会显示源自结膜深处的巩膜紫罗兰色。
+需要进行涂片或活检（很少见）来确认感染性巩膜炎。
+CT或者超声波可用于诊断后部巩膜炎。
+
+【治疗巩膜炎】
+口服非甾体抗炎药（NSAIDs）用于轻度病例
+口服非甾体抗炎药（NSAIDs）用于轻度病例
+全身应用皮质类固醇
+全身应用皮质类固醇
+有时会使用其他免疫抑制剂
+有时会使用其他免疫抑制剂
+少数情况下，非甾体抗炎药足以治疗轻度巩膜炎。局部皮质类固醇（如醋酸泼尼松龙、氟米龙）有时会与非甾体抗炎药联合使用，但它们在治疗巩膜炎的根本病因方面的疗效有限，但可减轻眼表炎症或充血。
+初始治疗通常为全身性皮质类固醇（例如，泼尼松1至2 mg/kg，每日口服一次，连续7天，然后根据耐受情况或临床表现每周递减10 mg）（1）。如果炎症复发，可以尝试长期口服皮质类固醇或脉冲剂量静脉注射皮质类固醇（例如，每天静脉注射 1000 毫克甲基强的松龙，连续 3 天）。
+如果患者对低剂量皮质类固醇的反应不佳且时间较长，或患有坏死性巩膜炎和系统性风湿病，则需要使用环磷酰胺、甲氨蝶呤、吗替麦考酚酯或生物制剂（如利妥昔单抗、阿达木单抗）进行系统免疫抑制，通常需要与风湿病学家或合格的眼科医生进行咨询。
+有发生穿孔危险时可行巩膜移植术(2)。
+如果怀疑感染性巩膜炎，应使用广谱局部及全身抗生素（3，4）。
+
+【治疗参考文献】
+1.Daniel Diaz J, Sobol EK, Gritz DC.Treatment and management of scleral disorders.Surv Ophthalmol.2016;61(6):702-717.doi:10.1016/j.survophthal.2016.06.002
+1.Daniel Diaz J, Sobol EK, Gritz DC.Treatment and management of scleral disorders.Surv Ophthalmol.2016;61(6):702-717.doi:10.1016/j.survophthal.2016.06.002
+2.Sainz de la Maza M, Tauber J, Foster CS.Scleral grafting for necrotizing scleritis.Ophthalmology.1989;96(3):306-310.doi:10.1016/s0161-6420(89)32892-2
+2.Sainz de la Maza M, Tauber J, Foster CS.Scleral grafting for necrotizing scleritis.Ophthalmology.1989;96(3):306-310.doi:10.1016/s0161-6420(89)32892-2
+3.Yu J, Syed ZA, Rapuano CJ.Infectious Scleritis: Pathophysiology, Diagnosis, and Management.Eye Contact Lens.2021;47(8):434-441.doi:10.1097/ICL.0000000000000813
+3.Yu J, Syed ZA, Rapuano CJ.Infectious Scleritis: Pathophysiology, Diagnosis, and Management.Eye Contact Lens.2021;47(8):434-441.doi:10.1097/ICL.0000000000000813
+4.Helm CJ, Holland GN, Webster RG Jr, Maloney RK, Mondino BJ.Combination intravenous ceftazidime and aminoglycosides in the treatment of pseudomonal scleritis.Ophthalmology.1997;104(5):838-843.doi:10.1016/s0161-6420(97)30225-5
+4.Helm CJ, Holland GN, Webster RG Jr, Maloney RK, Mondino BJ.Combination intravenous ceftazidime and aminoglycosides in the treatment of pseudomonal scleritis.Ophthalmology.1997;104(5):838-843.doi:10.1016/s0161-6420(97)30225-5
+
+【巩膜炎的预后】
+巩膜炎的预后取决于疾病的严重程度。眼部并发症更可能发生在病情更严重的患者中（如坏死性巩膜炎、后巩膜炎）。
+一项12年的纵向研究显示，16%的巩膜炎患者会出现视力下降（1）。
+
+【预后参考】
+1.Jabs DA, Mudun A, Dunn JP, Marsh MJ.Episcleritis and scleritis: clinical features and treatment results.Am J Ophthalmol.2000;130(4):469-476.doi:10.1016/s0002-9394(00)00710-8
+1.Jabs DA, Mudun A, Dunn JP, Marsh MJ.Episcleritis and scleritis: clinical features and treatment results.Am J Ophthalmol.2000;130(4):469-476.doi:10.1016/s0002-9394(00)00710-8
+巩膜炎是严重的、破坏性的、威胁视力的炎症。
+巩膜炎是严重的、破坏性的、威胁视力的炎症。
+症状包括纵深的钻孔样疼痛；畏光和流泪；局部性或弥漫性眼红。
+症状包括纵深的钻孔样疼痛；畏光和流泪；局部性或弥漫性眼红。
+诊断依据临床和裂隙灯检查。
+诊断依据临床和裂隙灯检查。
+大多数患者需要全身性皮质类固醇和/或全身性免疫抑制治疗，通常在咨询风湿病专家后开具处方。
+大多数患者需要全身性皮质类固醇和/或全身性免疫抑制治疗，通常在咨询风湿病专家后开具处方。
+有发生穿孔危险时可行巩膜移植术。
+有发生穿孔危险时可行巩膜移植术。

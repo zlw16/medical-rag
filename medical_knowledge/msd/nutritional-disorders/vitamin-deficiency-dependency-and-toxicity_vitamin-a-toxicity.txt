@@ -1,0 +1,53 @@
+标题：维生素A中毒
+来源：https://www.msdmanuals.cn/professional/nutritional-disorders/vitamin-deficiency-dependency-and-toxicity/vitamin-a-toxicity
+============================================================
+
+维生素A是形成视紫红质所必需的，视紫红质是视网膜中的一种感光色素（见表维生素的来源、功能和作用）。维生素A帮助维持上皮组织，对于溶酶体稳定性和糖蛋白合成很重要。
+形成维生素A的饮食来源包括鱼肝油，肝脏，蛋黄，黄油和维生素A强化乳制品。通常情况下，肝脏储存人体80％至90％的维生素A。人体利用维生素A时，会将其释放入循环，与前白蛋白（转甲状腺素蛋白）及视黄醇结合蛋白结合。绿叶蔬菜和黄色蔬菜、胡萝卜和深色或颜色鲜艳的水果中所含的beta-胡萝卜素和其他类胡萝卜素可以转换成维生素A。 蔬菜中的类胡萝卜素经脂类（如食用油）烹调和匀化后吸收更好。
+视黄醇活性当量（RAE）的提出，是因为维生素原A类胡萝卜素的维生素A活性低于预成维生素A；1 微克视黄醇 = 3.33单位。
+合成型类维生素A（视黄醇衍生物）越来越多地被应用于皮肤病学。β-胡萝卜素和类视黄酸对某些上皮癌的可能保护作用正在研究中，但不建议使用β-胡萝卜素和类视黄酸来预防癌症或心血管疾病（1）。
+当作为补充剂服用时，β -胡萝卜素与增加癌症(如肺癌)(2)和心血管风险(3)有关;当类胡萝卜素从水果和蔬菜中摄入时，风险似乎不会增加。
+(参见维生素概述)。
+
+【参考文献】
+1.Moyer VA; U.S. Preventive Services Task Force.Vitamin, mineral, and multivitamin supplements for the primary prevention of cardiovascular disease and cancer: U.S. Preventive services Task Force recommendation statement.Ann Intern Med.2014;160(8):558-564.doi:10.7326/M14-0198
+1.Moyer VA; U.S. Preventive Services Task Force.Vitamin, mineral, and multivitamin supplements for the primary prevention of cardiovascular disease and cancer: U.S. Preventive services Task Force recommendation statement.Ann Intern Med.2014;160(8):558-564.doi:10.7326/M14-0198
+2.O'Connor EA, Evans CV, Ivlev I, et al.Vitamin and Mineral Supplements for the Primary Prevention of Cardiovascular Disease and Cancer: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force.JAMA.2022;327(23):2334-2347.doi:10.1001/jama.2021.15650
+2.O'Connor EA, Evans CV, Ivlev I, et al.Vitamin and Mineral Supplements for the Primary Prevention of Cardiovascular Disease and Cancer: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force.JAMA.2022;327(23):2334-2347.doi:10.1001/jama.2021.15650
+3.Yang J, Zhang Y, Na X, Zhao A.β-Carotene Supplementation and Risk of Cardiovascular Disease: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.Nutrients.2022;14(6):1284.Published 2022 Mar 18.doi:10.3390/nu14061284
+3.Yang J, Zhang Y, Na X, Zhao A.β-Carotene Supplementation and Risk of Cardiovascular Disease: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.Nutrients.2022;14(6):1284.Published 2022 Mar 18.doi:10.3390/nu14061284
+
+【维生素A中毒的病因】
+{}急性维生素A中毒{}在儿童中可能由于服用大剂量的维生素A（>300,000国际单位[IU]或>100,000 微克 RAE）引起，通常是意外摄入。在成人中，北极探险者因食用北极熊或海豹肝发生过急性中毒，因为那些肝脏中含有几百万 IU 的维生素A。
+慢性维生素Ａ中毒, 常发生于年长儿童和成人，见于连续服用每天>100,000 IU （>30,000 mcg RAE ）剂量的维生素A数月之后。由于结节状粉刺或其他皮肤病而接受大剂量维生素A治疗也是导致维生素A中毒的原因，这些病人时常接受每日150,000～350,000 IU [50,000～120,000 mcg RAE ]）的大剂量维生素A或其代谢活性物。成人若每天服用>4500 IU （>1500 mcg RAE ）的维生素A可能引起骨质疏松症。婴儿如果被给予超剂量（18,000～60,000 IU 〔6,000～20,000 mcg RAE〕）的水溶性维生素A，可以在几周内发生中毒。接受异维 A 酸（与维生素A相关）治疗痤疮的女性，或妊娠期间服用大剂量维生素A的女性，其子女可能出现出生缺陷。大剂量维生素A会引起肝脏毒性。
+虽然胡萝卜素在体内能转换成维生素A，但是过量摄入胡萝卜素仅导致胡萝卜素血症，并不引起维生素A中毒。胡萝卜素血症常无症状，但也可以导致胡萝卜素黄皮病，患者皮肤呈现黄色。
+
+【维生素 A中毒的症状和体征】
+尽管维生素Ａ中毒的症状可能不同，但在急性或慢性中毒期间通常会出现头痛和皮疹。
+急性毒性引起颅内压升高。嗜睡、易激惹、腹痛、恶心、呕吐是常见表现。有时伴有皮肤褪脱现象。
+慢性毒性的早期症状包括：毛发稀疏、粗糙；眉毛脱落；皮肤干燥、粗糙；眼干；唇裂。随后，出现严重头痛、特发性颅内高压（假性脑肿瘤）和全身无力。
+还可能发生骨质增生和关节痛，特别是儿童。骨折易于发生，特别在老年人中。在儿童中，中毒可能导致瘙痒、畏食和生长发育不良。可能出现肝肿大和脾肿大；儿童受累最为严重。
+胡萝卜素血症患者中，其皮肤（但不是巩膜）变成深黄色，特别是手掌和足底的皮肤。
+
+【维生素A中毒的诊断】
+临床评估
+临床评估
+维生素A中毒的诊断基于临床表现血液维生素水平与毒性的相关性较差。但是，如果临床诊断不明确，可借助于实验室检查。维生素A中毒时，空腹血清视黄醇水平可从正常水平（28～86 微克 / 分升，即 1-3 微摩尔 / 升）升高至>100 微克 / 分升（>3.49 微摩尔 / 升），有时可达>2,000微克 / 分升（>69.8 微摩尔 / 升））。此外，高钙血症比较常见。
+维生素A中毒与其他疾病的鉴别比较困难。
+可能因为胡萝卜素向维生素A转化的速度变慢的缘故，胡萝卜素黄皮病也可发生于严重的甲低和神经性厌食症患者中。
+
+【维生素A中毒的治疗】
+停止使用维生素Ａ。
+
+【维生素A中毒的预后】
+停止摄入维生素A通常可以达到完全的康复。慢性中毒的症状和体征一般在1～4周内消失。然而，因母亲服用大剂量维生素A或异维a酸所导致的出生缺陷则无法逆转。
+维生素A中毒是由于摄入高剂量的维生素A引起，分为急性中毒（常常是儿童误服）或慢性中毒（例如，大量维生素治疗或治疗皮肤病）。
+维生素A中毒是由于摄入高剂量的维生素A引起，分为急性中毒（常常是儿童误服）或慢性中毒（例如，大量维生素治疗或治疗皮肤病）。
+急性中毒表现为皮疹、腹痛、颅内压增高和呕吐。
+急性中毒表现为皮疹、腹痛、颅内压增高和呕吐。
+慢性毒性会导致皮疹、颅内压升高、毛发稀疏粗糙、皮肤干燥粗糙、关节痛；骨折风险升高，尤其在老年人中。
+慢性毒性会导致皮疹、颅内压升高、毛发稀疏粗糙、皮肤干燥粗糙、关节痛；骨折风险升高，尤其在老年人中。
+根据临床表现进行诊断。
+根据临床表现进行诊断。
+停服维生素A后，症状（出生缺陷除外）通常在 1-4 周内缓解。
+停服维生素A后，症状（出生缺陷除外）通常在 1-4 周内缓解。

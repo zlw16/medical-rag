@@ -1,0 +1,66 @@
+标题：妊娠期尿路感染
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/approach-to-the-pregnant-woman-and-prenatal-care/urinary-tract-infection-in-pregnancy
+============================================================
+
+尿路感染（UTI）在妊娠期间的发生率更高（据报道占妊娠的18% [1]）。发病率增加是由于尿储留所致，尿储留是由于激素介导的输尿管扩张和蠕动减退以及扩张的子宫对输尿管的压力所致。
+无症状菌尿有时会发展为有症状的膀胱炎或者肾盂肾炎，尽管症状性尿路感染并不总是先于无症状菌尿出现。肾盂肾炎在怀孕期间可能迅速发展为全身感染，导致脓毒症、弥散性血管内凝血和急性呼吸窘迫综合征。
+无症状性细菌尿、UTI、肾盂肾炎能够增加以下风险（2）：
+低出生体重儿
+低出生体重儿
+
+【参考文献】
+1.Johnson CY, Rocheleau CM, Howley MM, Chiu SK, Arnold KE, Ailes EC: Characteristics of Women with Urinary Tract Infection in Pregnancy.J Womens Health (Larchmt).2021;30(11):1556-1564.doi:10.1089/jwh.2020.8946
+1.Johnson CY, Rocheleau CM, Howley MM, Chiu SK, Arnold KE, Ailes EC: Characteristics of Women with Urinary Tract Infection in Pregnancy.J Womens Health (Larchmt).2021;30(11):1556-1564.doi:10.1089/jwh.2020.8946
+2.Romero R, Oyarzun E, Mazor M, Sirtori M, Hobbins JC, Bracken M: Meta-analysis of the relationship between asymptomatic bacteriuria and preterm delivery/low birth weight.Obstet Gynecol.1989;73(4):576-582.PMID: 2927852
+2.Romero R, Oyarzun E, Mazor M, Sirtori M, Hobbins JC, Bracken M: Meta-analysis of the relationship between asymptomatic bacteriuria and preterm delivery/low birth weight.Obstet Gynecol.1989;73(4):576-582.PMID: 2927852
+
+【妊娠期尿路感染的症状和体征】
+膀胱炎的症状在孕妇和非孕妇中是相同的—尿频、尿急和/或排尿困难，有时还会出现夜尿。然而，有些症状是在怀孕期间发生的，但没有尿路感染。因此，治疗前应进行诊断测试。
+急性肾盂肾炎多发于妊娠中期或晚期。妊娠和非妊娠患者的症状相同，通常包括膀胱炎症状和上尿路或全身症状（发冷、发热、腰痛、绞痛性腹痛、恶心和呕吐）。对于怀孕的患者，对肾盂肾炎的怀疑指数应该很高，即使没有出现一些特征性体征和症状，也应该进行尿液检查。
+肾盂肾炎在体格检查中，感染侧通常出现肋脊角叩击痛。
+
+【妊娠期 UTI 的诊断】
+尿液试纸检测
+尿液试纸检测
+尿常规和尿培养
+尿常规和尿培养
+作为常规产前护理的一部分，所有孕妇都应在早期产前检查时接受无症状菌尿筛查。应通过尿培养来检测无症状菌尿。
+有症状的尿路感染的诊断在孕妇和非孕妇患者中是相同的。通常首先进行尿液试纸测试，然后将尿液分析和培养送到实验室。
+
+【妊娠期UTI的治疗】
+抗生素治疗
+抗生素治疗
+对于B组链球菌，分娩期间使用抗生素
+对于B组链球菌，分娩期间使用抗生素
+妊娠不会改变尿路感染的治疗，但应避免使用可能损害胎儿的药物（如氟喹诺酮类药物）（1）（见表妊娠期间特定药物的安全性）。
+抗生素的选择基于尿培养结果、局部敏感性和耐药模式。
+由于无症状菌尿可能导致肾盂肾炎，因此任何尿培养呈阳性的怀孕患者都应接受类似于急性尿路感染的抗生素治疗。
+口服抗生素适用于无症状菌尿或者急性膀胱炎。对于有症状的患者，如果尿液试纸检查呈阳性，应立即开始经验治疗，然后根据尿培养结果进行必要的调整。
+经验治疗的通常选择是头孢氨苄。如果没有合适的替代品，可以在妊娠早期使用呋喃妥因或甲氧苄啶/磺胺甲恶唑。这些药物的治疗时间通常为5至7天。只有当培养物显示出敏感性时，才可以选择单剂量给予磷霉素，因为耐药性很常见。
+足月、分娩期间或临产时，孕妇应禁用呋喃妥因，因为新生儿可能发生溶血性贫血。患有G6PD (glucose-6-phosphate dehydrogenase)缺乏症的孕妇不宜服用呋喃妥因。孕妇在妊娠最后30天内服用呋喃妥因，会增加新生儿黄疸的发生率。
+甲氧苄啶/磺胺甲噁唑（TMP/SMX）可导致新生儿先天性畸形（例如神经管缺陷）和新生儿核黄疸。 补充叶酸可以降低某些先天性畸形的风险。
+治疗后，一些临床医生会进行治愈测试培养。在一次膀胱炎或无症状菌尿发作后，无症状患者无需重复筛查。
+由于存在严重感染的风险，患有肾盂肾炎的孕妇应入院，并初步接受静脉注射抗生素治疗，包括以下药物之一：氨苄西林和庆大霉素；头孢曲松；头孢吡肟；或氨曲南（针对对β-内酰胺过敏的患者）。随着临床症状的改善，患者可以出院并接受口服抗生素治疗，完成14天的疗程。
+患有肾盂肾炎或曾患过一次以上尿路感染的女性可能需要抑制治疗，通常在妊娠剩余时间内每天服用头孢氨苄（口服250至500毫克）或呋喃妥因（口服100 毫克），直至产后4至6周。
+肾盂肾炎治疗后，应每月进行尿液培养。
+如果孕妇在怀孕期间任何时候尿液培养物中检测到B组链球菌（GBS）菌落计数（提示阴道-直肠重度定植），则应在分娩时给予抗生素预防（2）。
+
+【治疗参考文献】
+1.American College of Obstetricians and Gynecologists (ACOG) Committee on Clinical Consensus—Obstetrics: Urinary Tract Infections in Pregnant IndividualsObstet Gynecol.2023;142(2):435-445.doi:10.1097/AOG.0000000000005269
+1.American College of Obstetricians and Gynecologists (ACOG) Committee on Clinical Consensus—Obstetrics: Urinary Tract Infections in Pregnant IndividualsObstet Gynecol.2023;142(2):435-445.doi:10.1097/AOG.0000000000005269
+2.ACOG: Prevention of Group B Streptococcal Early-Onset Disease in Newborns: ACOG Committee Opinion, Number 797 [published correction appears inObstet Gynecol. 2020 Apr;135(4):978-979].Obstet Gynecol.2020;135(2):e51-e72.doi:10.1097/AOG.0000000000003668
+2.ACOG: Prevention of Group B Streptococcal Early-Onset Disease in Newborns: ACOG Committee Opinion, Number 797 [published correction appears inObstet Gynecol. 2020 Apr;135(4):978-979].Obstet Gynecol.2020;135(2):e51-e72.doi:10.1097/AOG.0000000000003668
+无症状菌尿、膀胱炎和肾盂肾炎会增加早产和低体重出生婴儿的风险。
+无症状菌尿、膀胱炎和肾盂肾炎会增加早产和低体重出生婴儿的风险。
+肾盂肾炎可能导致产妇脓毒症、弥漫性血管内凝血和急性呼吸窘迫综合征。
+肾盂肾炎可能导致产妇脓毒症、弥漫性血管内凝血和急性呼吸窘迫综合征。
+在妊娠早期通过尿培养筛查所有孕妇是否存在无症状菌尿。
+在妊娠早期通过尿培养筛查所有孕妇是否存在无症状菌尿。
+如果尿培养结果或抗生素可用性有限，则使用头孢氨苄、呋喃妥因、甲氧苄啶/磺胺甲恶唑或磷霉素治疗无症状菌尿或急性膀胱炎。
+如果尿培养结果或抗生素可用性有限，则使用头孢氨苄、呋喃妥因、甲氧苄啶/磺胺甲恶唑或磷霉素治疗无症状菌尿或急性膀胱炎。
+通过住院静脉注射抗生素（氨苄西林和庆大霉素、头孢曲松、头孢吡肟或氨曲南）治疗肾盂肾炎，并在临床症状改善时转为门诊治疗和口服抗生素。
+通过住院静脉注射抗生素（氨苄西林和庆大霉素、头孢曲松、头孢吡肟或氨曲南）治疗肾盂肾炎，并在临床症状改善时转为门诊治疗和口服抗生素。
+对于患有肾盂肾炎或一次以上尿路感染的女性，考虑进行抑制治疗，通常使用头孢氨苄或呋喃妥因。
+对于患有肾盂肾炎或一次以上尿路感染的女性，考虑进行抑制治疗，通常使用头孢氨苄或呋喃妥因。
+对于在怀孕期间任何时候尿培养物（任何菌落计数）检测出GBS的患者，在分娩期间可使用预防性抗生素治疗。
+对于在怀孕期间任何时候尿培养物（任何菌落计数）检测出GBS的患者，在分娩期间可使用预防性抗生素治疗。

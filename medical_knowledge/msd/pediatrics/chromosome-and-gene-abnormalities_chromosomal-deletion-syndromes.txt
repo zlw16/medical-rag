@@ -1,0 +1,26 @@
+标题：染色体缺失综合征
+来源：https://www.msdmanuals.cn/professional/pediatrics/chromosome-and-gene-abnormalities/chromosomal-deletion-syndromes
+============================================================
+
+(参见染色体异常概述。)
+染色体缺失综合征通常涉及更大片段的缺失，通常在核型分析上就能够观察到 (1)。涉及较小片段缺失（和增加）的综合征，影响一个染色体上的一个或多个连续基因，并且在核型分析上不可见，这类综合征称为微缺失和重复综合征(2)。 （参见下一代测序。）
+
+【参考文献】
+1.Shapira SK.An update on chromosome deletion and microdeletion syndromes.Curr Opin Pediatr.1998;10(6):622-627.doi:10.1097/00008480-199810060-00015
+1.Shapira SK.An update on chromosome deletion and microdeletion syndromes.Curr Opin Pediatr.1998;10(6):622-627.doi:10.1097/00008480-199810060-00015
+2.Wetzel AS, Darbro BW.A comprehensive list of human microdeletion and microduplication syndromes.BMC Genom Data.2022;23(1):82.Published 2022 Nov 26.doi:10.1186/s12863-022-01093-3
+2.Wetzel AS, Darbro BW.A comprehensive list of human microdeletion and microduplication syndromes.BMC Genom Data.2022;23(1):82.Published 2022 Nov 26.doi:10.1186/s12863-022-01093-3
+
+【5p-综合征（5p-综合征或猫叫综合征）】
+5号染色体短臂末端的缺失（5p-，通常是父源的）的特征是一种高音调的喵喵叫声，很像小猫的叫声，通常在新生儿期就能听到，持续数周，然后消失。然而，并不是所有受影响的新生儿都有这种不寻常的哭声。
+患者常为低出生体重儿，表现为：肌张力降低、有小头畸形、圆脸、眼距宽、睑裂下斜（伴或不伴内眦赘皮）、斜视和鼻梁宽。耳位偏低，耳廓形状异常，常伴有外耳道狭窄和耳前赘生物。常发生并指畸形、眼距过宽和心脏畸形。智力和身体发育明显迟缓。
+许多患者可存活到成人时期，但残疾程度严重。没有特定的治疗方法，但各种治疗方法（例如，职业、身体、言语、一般教育干预）可以帮助控制症状并改善生活质量。
+
+【4p-综合征（4p 综合征或Wolf-Hirschhorn 综合征）】
+染色体 4 短臂（4p）缺失可导致程度不一的智力障碍；缺失范围较大的患儿通常受累更为严重。
+临床表现还包括癫痫、宽鼻梁或钩状鼻、中线头皮缺失、眼睑下垂伴虹膜缺损、腭裂、骨龄发育落后。男性常有尿道下裂和隐睾症。一些Wolf-Hirschhorn综合征患者也有免疫缺陷。
+婴儿期死亡率较高；少数存活到二十余岁者常有严重的残疾。
+
+【亚端粒缺失】
+这些缺失可能在核型分析中显现，但有时缺失片段较小、属于亚显微水平，且恰好发生在染色体两端重复端粒序列的紧邻区域。表型改变可能较轻微。
+端粒的缺失可能与非特异性智力残疾和轻度畸形特征以及多种先天性畸形有关。

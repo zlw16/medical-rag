@@ -1,0 +1,147 @@
+标题：马尔堡和埃博拉病毒感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/arboviruses-arenaviridae-and-filoviridae/marburg-and-ebola-virus-infections
+============================================================
+
+马尔堡病毒和埃博拉病毒是两种不同的丝状病毒，但可引起相似的临床病症，以出血热和毛细血管渗漏为特征。埃博拉病毒感染的毒力略高于马尔堡病毒感染。
+埃博拉病毒株已分为5种：
+扎伊尔埃博拉病毒
+扎伊尔埃博拉病毒
+苏丹埃博拉病毒
+苏丹埃博拉病毒
+塔伊森林埃博拉病毒（以前叫科特迪瓦埃博拉病毒[塔伊森林地处科特迪瓦]）
+塔伊森林埃博拉病毒（以前叫科特迪瓦埃博拉病毒[塔伊森林地处科特迪瓦]）
+本迪布焦埃博拉病毒
+本迪布焦埃博拉病毒
+雷斯顿埃博拉病毒（存在于亚洲，但不会引起人类疾病）
+雷斯顿埃博拉病毒（存在于亚洲，但不会引起人类疾病）
+马尔堡和埃博拉病毒感染的大多数暴发起源于撒哈拉以南的中非和西非。疫情是罕见和零星的;它们之所以得到控制，部分原因是它们发生在偏远地区。当传播到其他地区时，通常是由来自非洲的旅行者造成的。
+2013年12月，扎伊尔埃博拉病毒在(西非)几内亚农村地区爆发大规模疫情，然后蔓延到几内亚人口稠密的城市地区以及邻国利比里亚和塞拉利昂。涉及数千人，病死率约59%。被感染的旅客已将埃博拉病毒传播到尼日利亚、欧洲和北美。2016年头几个月继续发生埃博拉病例；塞拉利昂于2016年3月、几内亚于2016年5月、利比里亚于2016年6月，均被宣布埃博拉疫情结束。
+2017年至2022年间，刚果民主共和国（DRC）又爆发了几次埃博拉疫情（1、2、3、4、5）。2020年研发了两种埃博拉扎伊尔疫苗（6），有助于控制疫情爆发。
+2022年9月，乌干达报告了一例由苏丹埃博拉病毒引起的埃博拉病例，这是十年来的首例；此次疫情导致142例病例中50%的死亡率，并于2023年1月宣布结束（7）。
+2025年2月，美国疾病控制与预防中心（CDC）发布健康警报网络健康公告，通报乌干达确认爆发由苏丹病毒（8）引起的埃博拉疫情。
+
+【马尔堡和埃博拉病毒的传播】
+多数首发病例多有与撒哈拉以南非洲的非人灵长类动物接触史。虽然已在蝙蝠体内检出马尔堡病毒，且接触过蝙蝠的人员（如矿工或洞穴探险者）中出现过病例，但确切传播媒介和储存宿主尚不明确。埃博拉病毒爆发与疫区食用野生动物肉类（丛林肉）或蝙蝠汤有关。处理受感染动物的组织后也可能发生埃博拉病毒和马尔堡病毒感染。
+丝状病毒具有高传染性。人际传播通过皮肤和黏膜接触有症状感染者的体液（唾液、血液、呕吐物、尿液、粪便、汗液、母乳、精液）发生，极少数情况下可通过接触非人灵长类动物传播。人类出现症状后才具有传染性。存活患者的症状和体征会持续存在，直至机体产生有效的免疫应答。通常情况下，存活的患者完全清除病毒，并且不再具有传染性。然而埃博拉病毒可在部分免疫豁免部位如眼、脑和睾丸等地方长期存在。 病毒可能会从这些部位重新出现并导致晚期后遗症或复发，并且怀疑从幸存者到易感个体的性传播。
+已证明马尔堡病毒在临床康复后长达7周仍可通过感染的精液传播（9）。埃博拉病毒的遗传物质在63％的感染后康复的男性患者精液中持续了一年或更长时间。但PCR检测无法确定是否存在活的并有传播能力的埃博拉病毒。但是，一名男子在首次出现感染症状后＞500天仍将该病毒传播给他的性伴侣，这表明这种传染性病毒可以持续存在并传播。埃博拉病毒可能通过性接触或其他接触精液的途径传播（10）。
+在少数情况下怀疑气溶胶传播；然而，即使发生，也可能是罕见的。
+在暴发流行中主要是人与人之间传染，因与受感染患者的血液，分泌物，其他体液，或器官密切接触所致。葬礼上的遗体清洗，哀悼者与死者有身体接触，在本病传播中发挥了重要作用。
+
+【参考文献】
+1.Centers for Disease Control and Prevention: Ebola: 2017 Democratic Republic of the Congo, Bas Uélé District.2017.
+1.Centers for Disease Control and Prevention: Ebola: 2017 Democratic Republic of the Congo, Bas Uélé District.2017.
+2.World Health Organization (WHO): New Ebola outbreak declared in Democratic Republic of the Congo, May 2018.
+2.World Health Organization (WHO): New Ebola outbreak declared in Democratic Republic of the Congo, May 2018.
+3.World Health Organization: Ebola virus disease – Democratic Republic of the Congo, December 2021
+3.World Health Organization: Ebola virus disease – Democratic Republic of the Congo, December 2021
+4.World Health Organization: Ebola outbreak 2022 - Équateur Province, DRC
+4.World Health Organization: Ebola outbreak 2022 - Équateur Province, DRC
+5.World Health Organization: Ebola Virus Disease –Democratic Republic of the Congo, September 2022
+5.World Health Organization: Ebola Virus Disease –Democratic Republic of the Congo, September 2022
+6.Centers for Disease Control and Prevention: Ebola: 2020 Democratic Republic of the Congo, Equateur Province.
+6.Centers for Disease Control and Prevention: Ebola: 2020 Democratic Republic of the Congo, Equateur Province.
+7.Centers for Disease Control and Prevention: Health Advisory Ebola Outbreak
+7.Centers for Disease Control and Prevention: Health Advisory Ebola Outbreak
+8.World Health Organization: Ebola disease caused by Sudan ebolavirus – Uganda
+8.World Health Organization: Ebola disease caused by Sudan ebolavirus – Uganda
+9.World Health Organization: Fact Sheet: Marburg virus disease.February 15, 2018.
+9.World Health Organization: Fact Sheet: Marburg virus disease.February 15, 2018.
+10.Bausch DG, Crozier I: The Liberia Men's Health Screening Program for Ebola virus: Win-win-win for survivor, scientist, and public health.Lancet Glob Health4 (10):e672–673, 2016.doi: 10.1016/S2214-109X(16)30207-8
+10.Bausch DG, Crozier I: The Liberia Men's Health Screening Program for Ebola virus: Win-win-win for survivor, scientist, and public health.Lancet Glob Health4 (10):e672–673, 2016.doi: 10.1016/S2214-109X(16)30207-8
+
+【马尔堡病毒和埃博拉病毒感染的症状和体征】
+马尔堡和埃博拉病毒感染的症状相似。
+潜伏期常在2~21天，出现发热、肌痛和头痛，常伴有腹痛、恶心以及上呼吸道症状（咳嗽、胸痛、咽炎）。畏光、结膜充血、黄疸以及淋巴结病也可发生。呕吐和腹泻会很快出现。出现谵妄、木僵和昏迷则提示累及中枢神经系统。
+出血热症状数天内出现，包括注射部位和黏膜的瘀点、瘀斑以及明显出血。疾病第5天前后出现斑丘疹，主要分布在躯干部。
+严重低血容量可能出现，原因为：
+因腹泻和呕吐导致大量体液流失
+因腹泻和呕吐导致大量体液流失
+毛细血管渗漏，导致低白蛋白血症和血管内液体渗出。
+毛细血管渗漏，导致低白蛋白血症和血管内液体渗出。
+电解质丢失可引起严重低钠血症、低钾血症和低钙血症。心律失常可出现。
+在症状出现的第2周，患者要么退热并开始恢复，要么发展为多器官衰竭，导致死亡。由于肝炎复发，横贯脊髓炎以及睾丸炎等的出现，使恢复期延长且更加复杂化。病死率介于25%至90%之间。
+埃博拉病毒感染的幸存者可能因关节疼痛而出现认知、视力和行动能力方面的障碍（1）。儿童可能出现严重的白内障，成人中也有葡萄膜炎的报道。
+埃博拉病毒可以在中枢神经系统中持续存在并最终导致复发。
+
+【症状和体征参考】
+1.Jagadesh S, Sevalie S, Fatoma R, et al: Disability among Ebola survivors and their close contacts in Sierra Leone: A retrospective case-controlled cohort study.Clin Infect Dis66 (1):131–133, 2018.doi: 10.1093/cid/cix705
+1.Jagadesh S, Sevalie S, Fatoma R, et al: Disability among Ebola survivors and their close contacts in Sierra Leone: A retrospective case-controlled cohort study.Clin Infect Dis66 (1):131–133, 2018.doi: 10.1093/cid/cix705
+
+【马尔堡和埃博拉病毒感染的诊断】
+根据疾病控制与预防中心指南进行评估和检测
+根据疾病控制与预防中心指南进行评估和检测
+酶联免疫吸附试验和RT-PCR
+酶联免疫吸附试验和RT-PCR
+患者有出血倾向、发热、其他符合早期丝状病毒感染的症状以及疫区旅行史，则需考虑马尔堡或埃博拉病毒感染。疾病控制与预防中心 (CDC) 发布了评估从流行地区返回的旅行者的指南（1）。如果怀疑马尔堡病毒感染，也可采用类似的方法（2）。
+检测包括血常规，血生化，肝功能，凝血功能和尿检。诊断性检测包括ELISA和RT-PCR。 金标准是通过电子显微镜在感染组织（尤其是肝脏）或血液中检测到特征性病毒颗粒。
+应与公共卫生机构讨论病例情况，他们可以在管理的所有方面提供协助，包括：
+决定是否明确诊断
+决定是否明确诊断
+安排标本送检
+安排标本送检
+治疗，包括转运至指定中心以及必要时使用新疗法
+治疗，包括转运至指定中心以及必要时使用新疗法
+追踪接触者
+追踪接触者
+
+【诊断参考】
+1.Centers for Disease Control and Prevention: Viral Hemorrhagic Fevers (VHFs): Guide for Clinicians Evaluating an Ill Person for VHF or Other High-Consequence Disease.May 13, 2024.Accessed June 18, 2025.
+1.Centers for Disease Control and Prevention: Viral Hemorrhagic Fevers (VHFs): Guide for Clinicians Evaluating an Ill Person for VHF or Other High-Consequence Disease.May 13, 2024.Accessed June 18, 2025.
+2.Centers for Disease Control and Prevention: Viral Hemorrhagic Fevers: Ebola: Clinical Guidance for Ebola Disease.January 30, 2025.Accessed July 7, 2025.
+2.Centers for Disease Control and Prevention: Viral Hemorrhagic Fevers: Ebola: Clinical Guidance for Ebola Disease.January 30, 2025.Accessed July 7, 2025.
+
+【马尔堡和埃博拉病毒感染的治疗】
+支持治疗
+支持治疗
+抗病毒治疗
+抗病毒治疗
+支持治疗包括以下：
+保持血容量和电解质平衡
+保持血容量和电解质平衡
+补充耗竭的凝血因子
+补充耗竭的凝血因子
+尽量减少侵入性操作
+尽量减少侵入性操作
+对症治疗，包括使用止痛药
+对症治疗，包括使用止痛药
+目前有两种单克隆抗体疗法（REGN-EB3 和 mAb114）可用于治疗由扎伊尔埃博拉病毒引起的埃博拉病毒感染（1）。REGN-EB3是3种单克隆抗体（阿托利韦单抗/马替韦单抗/奥德西韦单抗）的组合，而mAb114是单一单克隆抗体（安舒韦单抗）。这两种疗法在2018至2020年刚果民主共和国埃博拉疫情期间被证实有效，对病毒载量低的患者治愈率约90%（提示感染后数日内即开始治疗）。未经治疗和未接种疫苗的患者的死亡率超过70%。
+针对马尔堡病毒感染的实验性治疗方法，包括抗病毒药物（法匹拉韦、瑞德西韦）、多克隆免疫球蛋白G和单克隆抗体，正在研究中，但尚无明确有效的治疗方案（2）。
+
+【治疗参考文献】
+1.Tshiani Mbaya O, Mukumbayi P, Mulangu S.Review: Insights on Current FDA-Approved Monoclonal Antibodies Against Ebola Virus Infection.Front Immunol12:721328, 2021.doi:10.3389/fimmu.2021.721328
+1.Tshiani Mbaya O, Mukumbayi P, Mulangu S.Review: Insights on Current FDA-Approved Monoclonal Antibodies Against Ebola Virus Infection.Front Immunol12:721328, 2021.doi:10.3389/fimmu.2021.721328
+2.Kortepeter MG, Dierberg K, Shenoy ES, Cieslak TJ; Medical Countermeasures Working Group of the National Ebola Training and Education Center's (NETEC) Special Pathogens Research Network (SPRN)Marburg virus disease: A summary for clinicians.Int J Infect Dis99:233-242, 2020.doi:10.1016/j.ijid.2020.07.042
+2.Kortepeter MG, Dierberg K, Shenoy ES, Cieslak TJ; Medical Countermeasures Working Group of the National Ebola Training and Education Center's (NETEC) Special Pathogens Research Network (SPRN)Marburg virus disease: A summary for clinicians.Int J Infect Dis99:233-242, 2020.doi:10.1016/j.ijid.2020.07.042
+
+【预防马尔堡和埃博拉病毒感染】
+有两种埃博拉疫苗可供使用，即rVSV-ZEBOV以及Ad26.ZEBOV与MVA-BN-Filo的双剂量组合(1)。rVSV-ZEBOV 在2016年西非埃博拉疫情结束时和2018年刚果民主共和国疫情中使用，用于预防扎伊尔埃博拉病毒在18岁及以上的人群中引起的疾病。第二种疫苗分两剂，Ad26.ZEBOV 和 MVA-BN-Filo 各一剂，可用于预防1岁及以上人群由埃博拉病毒（扎伊尔埃博拉病毒种）引起的疾病。扎伊尔的埃博拉疫苗不能提供对抗苏丹埃博拉病毒疾病的交叉保护。在乌干达苏丹埃博拉病毒疫情期间，推荐了三种候选疫苗进行试验，但在疫苗试验开始之前疫情已经结束。
+所有疑似病例，包括尸体在内，都必须采取严格的隔离和特殊处理。可能感染埃博拉病毒或马尔堡病毒的有症状患者，必须在专用的防护设施进行隔离。公立医院的标准重症监护病房不适合。特别防护设施可确保对液体排出物和呼吸产物进行完全控制。
+与患者接触的工作人员必须完全穿戴防护服，防护服需具备内部呼吸气体密闭功能。训练有素的工作人员需帮助那些接触患者的工作人员脱防护服。必须遵循穿戴和摘除口罩、护目镜或面罩、防护服和手套的规程（2）。
+器具严格消毒、封闭医院以及社区教育等有助于缩短疫情的流行时间。
+由于马尔堡病毒和埃博拉病毒可在精液中持续存在并通过性传播，世卫组织建议已感染患者及其性伴侣应避免所有类型的性接触，或正确、持续使用安全套，直到出现以下情况之一（3、4、5）：
+两次病毒检测结果均为阴性
+两次病毒检测结果均为阴性
+如果无法进行测试，症状发作后≥12个月
+如果无法进行测试，症状发作后≥12个月
+
+【预防参考文献】
+1.Tomori O, Kolawole MO.Ebola virus disease: current vaccine solutions.Curr Opin Immunol71:27-33, 2021.doi:10.1016/j.coi.2021.03.008
+1.Tomori O, Kolawole MO.Ebola virus disease: current vaccine solutions.Curr Opin Immunol71:27-33, 2021.doi:10.1016/j.coi.2021.03.008
+2.Centers for Disease Control and Prevention: Viral Hemorrhagic Fevers (VHFs): Guidance for Personal Protective Equipment (PPE).May 2, 2024.Accessed June 18, 2025.
+2.Centers for Disease Control and Prevention: Viral Hemorrhagic Fevers (VHFs): Guidance for Personal Protective Equipment (PPE).May 2, 2024.Accessed June 18, 2025.
+3.World Health Organization: Interim infection prevention and control guidance for care of patients with suspected or confirmed filovirus haemorrhagic fever in health-care settings, with focus on Ebola.2014.Accessed June 18, 2025.
+3.World Health Organization: Interim infection prevention and control guidance for care of patients with suspected or confirmed filovirus haemorrhagic fever in health-care settings, with focus on Ebola.2014.Accessed June 18, 2025.
+4.World Health Organization: Marburg Virus Disease.January 20, 2025.Accessed June 18, 2025.
+4.World Health Organization: Marburg Virus Disease.January 20, 2025.Accessed June 18, 2025.
+5.World Health Organization: Interim advice on the sexual transmission of the Ebola virus disease.January 21, 2016; Accessed June 18, 2025.
+5.World Health Organization: Interim advice on the sexual transmission of the Ebola virus disease.January 21, 2016; Accessed June 18, 2025.
+埃博拉病毒和马尔堡病毒虽然不同，但会导致类似的出血热；疫情主要通过与感染者的体液、器官或尸体接触进行人际传播而持续蔓延。
+埃博拉病毒和马尔堡病毒虽然不同，但会导致类似的出血热；疫情主要通过与感染者的体液、器官或尸体接触进行人际传播而持续蔓延。
+对于有出血倾向、发热、其他符合症状以及疫区旅行史的患者，应怀疑马尔堡病毒或埃博拉病毒感染。
+对于有出血倾向、发热、其他符合症状以及疫区旅行史的患者，应怀疑马尔堡病毒或埃博拉病毒感染。
+在专门的隔离设施中对可能感染的患者进行隔离，并采取严格措施保护护理这些患者的工作人员。
+在专门的隔离设施中对可能感染的患者进行隔离，并采取严格措施保护护理这些患者的工作人员。
+目前有两种针对扎伊尔埃博拉病毒的埃博拉疫苗在刚果民主共和国常规使用。针对苏丹埃博拉病毒已开发出三种候选疫苗。
+目前有两种针对扎伊尔埃博拉病毒的埃博拉疫苗在刚果民主共和国常规使用。针对苏丹埃博拉病毒已开发出三种候选疫苗。
+应与公共卫生部门共同规划诊断、管理和传播预防措施。
+应与公共卫生部门共同规划诊断、管理和传播预防措施。

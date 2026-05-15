@@ -1,0 +1,65 @@
+标题：儿童和青少年的恐慌症
+来源：https://www.msdmanuals.cn/professional/pediatrics/psychiatric-disorders-in-children-and-adolescents/panic-disorder-in-children-and-adolescents
+============================================================
+
+(参见成人惊恐发作和惊恐障碍。）
+恐慌障碍是一种焦虑障碍，以反复和意外的恐慌发作为特征。惊恐发作是一种短时间的强烈恐惧或不适，在几分钟内达到顶峰，并伴有一系列身体和认知症状。惊恐发作可单独出现，也可作为其他焦虑障碍（如广场恐惧症、分离焦虑障碍）、其他精神障碍（如强迫症[OCD]）或特定躯体疾病（如哮喘）的组成部分发生。惊恐发作可诱发哮喘发作，反之亦然。
+在美国13至18岁青少年中，恐慌障碍的终生患病率为2.3%（1，2）。据报道，青春期女性比男性更频繁地经历恐慌发作。惊恐障碍在青春期前儿童中的发病率远低于青少年。
+
+【参考文献】
+1.Walter HJ, Bukstein OG, Abright AR, et al.Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders.J Am Acad Child Adolesc Psychiatry59(10):1107-1124, 2020.doi: https://doi.org/10.1016/j.jaac.2020.05.005
+1.Walter HJ, Bukstein OG, Abright AR, et al.Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders.J Am Acad Child Adolesc Psychiatry59(10):1107-1124, 2020.doi: https://doi.org/10.1016/j.jaac.2020.05.005
+2.Merikangas KR, He JP, Burstein M, et al.Lifetime prevalence of mental disorders in U.S. adolescents: results from the National Comorbidity Survey Replication--Adolescent Supplement (NCS-A).J Am Acad Child Adolesc Psychiatry.2010;49(10):980-989.doi:10.1016/j.jaac.2010.05.017
+2.Merikangas KR, He JP, Burstein M, et al.Lifetime prevalence of mental disorders in U.S. adolescents: results from the National Comorbidity Survey Replication--Adolescent Supplement (NCS-A).J Am Acad Child Adolesc Psychiatry.2010;49(10):980-989.doi:10.1016/j.jaac.2010.05.017
+
+【惊恐障碍的症状和体征】
+惊恐发作的症状包括突然激增的强烈恐惧，伴有躯体症状（如心悸、出汗、颤抖、呼吸短促或窒息、胸痛、恶心、眩晕）。 与成年人相比，儿童和青少年惊恐障碍的表现更为明显（如，尖叫、哭泣和过度换气）。年龄较大的儿童和青少年（能够清晰表达情感者）常描述一种即将来临的厄运感。这种表现可能会使父母和其他人感到惊慌。
+惊恐发作常为自发性，随时间推移而逐渐表现为在特定的情境和环境下发作。患儿试图避免这些可能导致广场恐惧症的发作情境。若回避行为严重损害日常功能，例如无法上学、逛商场或参与其他常规活动，则被视为广场恐惧症。
+
+【惊恐障碍的诊断】
+一般医疗状况评估
+一般医疗状况评估
+精神评估
+精神评估
+精神障碍诊断与统计手册, 第5版，文本修订（DSM-5-TR）标准
+精神障碍诊断与统计手册, 第5版，文本修订（DSM-5-TR）标准
+惊恐障碍基于病史中反复恐慌症发作来进行确诊，通常进行体格检查来排除躯体症状的物理原因 (1)。因此，这主要是一种排他性诊断。许多孩子在怀疑惊恐障碍之前要进行大量的诊断检查。其它病症的存在，特别是哮喘，也可以使诊断复杂化。有必要对其他障碍（例如，强迫症[OCD]、社交焦虑障碍）进行彻底筛查，因为其中任何一种障碍都可能是导致恐慌发作作为症状的主要问题。
+成人惊恐障碍，诊断标准的重要特征是对未来事件的忧虑和相应的暗示、行为改变。然而，儿童和青少年通常缺乏形成这些特征的洞察力和预见能力，除非他们可能改变行为以避免他们认为与惊恐发作相关的情境。
+
+【诊断参考文献】
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), Washington: American Psychiatric Association, 2022.
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), Washington: American Psychiatric Association, 2022.
+
+【惊恐障碍的治疗】
+选择性血清素再摄取抑制剂（SSRIs）用于长期管理
+选择性血清素再摄取抑制剂（SSRIs）用于长期管理
+苯二氮䓬类药物用于短期急性管理（直至SSRIs起效）
+苯二氮䓬类药物用于短期急性管理（直至SSRIs起效）
+认知行为治疗
+认知行为治疗
+恐慌症的治疗通常结合药物治疗与认知行为疗法。对于儿童而言，在药物充分控制惊恐发作之前，往往难以启动行为治疗。
+SSRIs是推荐的长期管理治疗方法；然而，患者可能需要数周才能体验到改善（1）。苯二氮卓类药物在控制惊恐发作时出现的急性焦虑方面工作迅速，并且在治疗的早期阶段有效，直到SSRIs开始起作用（2）。尽管关于苯二氮卓类药物在惊恐障碍中的研究数据有限，但研究表明，劳拉西泮在短期用于处理操作相关焦虑（其临床表现类似于惊恐发作）时具有良好的疗效与耐受性（3）。劳拉西泮可在恐慌发作时优先使用，或在必要时口服2 - 3次/天，直到同时处方的SSRIs生效。
+
+【治疗参考文献】
+1.Chawla N, Anothaisintawee T, Charoenrungrueangchai K, et al.Drug treatment for panic disorder with or without agoraphobia: systematic review and network meta-analysis of randomised controlled trials. BMJ.2022;376:e066084.Published 2022 Jan 19.doi:10.1136/bmj-2021-066084
+1.Chawla N, Anothaisintawee T, Charoenrungrueangchai K, et al.Drug treatment for panic disorder with or without agoraphobia: systematic review and network meta-analysis of randomised controlled trials. BMJ.2022;376:e066084.Published 2022 Jan 19.doi:10.1136/bmj-2021-066084
+2.Renaud J, Birmaher B, Wassick SC, Bridge J.Use of selective serotonin reuptake inhibitors for the treatment of childhood panic disorder: a pilot study.J Child Adolesc Psychopharmacol.1999;9(2):73-83.doi:10.1089/cap.1999.9.73
+2.Renaud J, Birmaher B, Wassick SC, Bridge J.Use of selective serotonin reuptake inhibitors for the treatment of childhood panic disorder: a pilot study.J Child Adolesc Psychopharmacol.1999;9(2):73-83.doi:10.1089/cap.1999.9.73
+3.Kuang H, Johnson JA, Mulqueen JM, Bloch MH.The efficacy of benzodiazepines as acute anxiolytics in children: A meta-analysis.Depress Anxiety.2017;34(10):888-896.doi:10.1002/da.22643
+3.Kuang H, Johnson JA, Mulqueen JM, Bloch MH.The efficacy of benzodiazepines as acute anxiolytics in children: A meta-analysis.Depress Anxiety.2017;34(10):888-896.doi:10.1002/da.22643
+
+【恐慌障碍的预后】
+治疗积极则预后良好。未经治疗的青少年患者辍学，不能很好地融入社会，变得沉默，有自杀倾向。
+惊恐障碍的严重程度常随时间推移而起伏波动。纵向研究表明，惊恐障碍是一种慢性疾病，表现为多年的间歇性缓解和复发，合并抑郁症及其他焦虑症等因素会增加病情的严重性及复发的可能性（1）。有些患者常在症状自发缓解数年后再次发作。
+
+【预后参考】
+1.Nay W, Brown R, Roberson-Nay R.Longitudinal course of panic disorder with and without agoraphobia using the National Epidemiologic Survey on Alcohol and Related Conditions (NESARC).Psychiatry Res.2013;208(1):54-61.doi:10.1016/j.psychres.2013.03.006
+1.Nay W, Brown R, Roberson-Nay R.Longitudinal course of panic disorder with and without agoraphobia using the National Epidemiologic Survey on Alcohol and Related Conditions (NESARC).Psychiatry Res.2013;208(1):54-61.doi:10.1016/j.psychres.2013.03.006
+惊恐发作的特征是突然产生强烈的恐惧，并伴有躯体症状。
+惊恐发作的特征是突然产生强烈的恐惧，并伴有躯体症状。
+儿童和青少年的恐慌发作通常比成人更为剧烈(如尖叫、哭泣和过度通气)。
+儿童和青少年的恐慌发作通常比成人更为剧烈(如尖叫、哭泣和过度通气)。
+恐慌症是一种慢性疾病，在严重程度上往往有增有减；同时出现的焦虑和抑郁会导致惊恐发作复发。
+恐慌症是一种慢性疾病，在严重程度上往往有增有减；同时出现的焦虑和抑郁会导致惊恐发作复发。
+长期使用ssri类药物治疗惊恐障碍以控制症状；在ssri类药物和CBT有效之前，短暂的苯二氮卓类药物治疗是有帮助的。
+长期使用ssri类药物治疗惊恐障碍以控制症状；在ssri类药物和CBT有效之前，短暂的苯二氮卓类药物治疗是有帮助的。

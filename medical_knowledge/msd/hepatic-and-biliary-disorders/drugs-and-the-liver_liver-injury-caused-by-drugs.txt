@@ -1,0 +1,145 @@
+标题：药物引起的肝脏损伤
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/drugs-and-the-liver/liver-injury-caused-by-drugs
+============================================================
+
+许多药物（例如，他汀类药物）常引起无症状的肝酶（丙氨酸转氨酶[ALT]、天冬氨酸转氨酶[AST]、碱性磷酸酶）升高。 然而，临床上明显的肝损伤（例如，伴有黄疸、腹痛或者瘙痒）或者肝功能受损,导致蛋白合成功能障碍（例如，伴有凝血酶原时间[PT]延长或伴有低白蛋白血症）是罕见的。
+不推荐对慢性肝病患者停止他汀类药物治疗。他汀类药物在慢性肝病患者中的使用与其在没有基线肝病的患者中的使用没有区别。相反，他汀类药物可能具有抗纤维化特性，可以使代谢功能障碍相关脂肪性肝炎（MASH）和代谢功能障碍相关脂肪性肝病（MASLD）患者受益 (1, 2)。美国肝病研究协会实践指南 (3) 指出，MASLD患者心血管发病率和死亡率较高，MASLD或MASH患者因他汀类药物导致严重肝损伤的风险不高。这些指南证实他汀类药物可用于治疗 MASLD、MASH 和 MASH 相关肝硬化患者的血脂异常。他汀类药物在总风险后失代偿期肝硬化患者中可谨慎低剂量使用：益处分析（4)。
+药物诱导的肝脏损伤（drug-induced liver injury, DILI）这一术语可以用来解释药物引起的临床上明显的肝损伤或者所有的肝损伤（包括无症状的）。DILI包括医用草药、植物和补充的营养物质引起的损伤以及药物引起的损伤 (5–7)。
+
+【参考文献】
+1.Athyros VG, Tziomalos K, Gossios TD, et al.Safety and efficacy of long-term statin treatment for cardiovascular events in patients with coronary heart disease and abnormal liver tests in the Greek Atorvastatin and Coronary Heart Disease Evaluation (GREACE) Study: A post-hoc analysis.Lancet.376(9756):1916-1922, 2010.doi: 10.1016/S0140-6736(10)61272-X
+1.Athyros VG, Tziomalos K, Gossios TD, et al.Safety and efficacy of long-term statin treatment for cardiovascular events in patients with coronary heart disease and abnormal liver tests in the Greek Atorvastatin and Coronary Heart Disease Evaluation (GREACE) Study: A post-hoc analysis.Lancet.376(9756):1916-1922, 2010.doi: 10.1016/S0140-6736(10)61272-X
+2.Tikkanen MJ, Fayyad R, Faergeman O, et al.Effect of intensive lipid lowering with atorvastatin on cardiovascular outcomes in coronary heart disease patients with mild-to-moderate baseline elevations in alanine aminotransferase levels.Int J Cardiol.168(4):3846-3852, 2013.doi: 10.1016/j.ijcard.2013.06.024
+2.Tikkanen MJ, Fayyad R, Faergeman O, et al.Effect of intensive lipid lowering with atorvastatin on cardiovascular outcomes in coronary heart disease patients with mild-to-moderate baseline elevations in alanine aminotransferase levels.Int J Cardiol.168(4):3846-3852, 2013.doi: 10.1016/j.ijcard.2013.06.024
+3.Chalasani N, Younossi Z, Lavine JE, et al.The diagnosis and management of non-alcoholic fatty liver disease: practice guideline by the American Gastroenterological Association, American Association for the Study of Liver Diseases, and American College of Gastroenterology [published correction appears inGastroenterology.2012 Aug;143(2):503].Gastroenterology.2012;142(7):1592-1609.doi:10.1053/j.gastro.2012.04.001)
+3.Chalasani N, Younossi Z, Lavine JE, et al.The diagnosis and management of non-alcoholic fatty liver disease: practice guideline by the American Gastroenterological Association, American Association for the Study of Liver Diseases, and American College of Gastroenterology [published correction appears inGastroenterology.2012 Aug;143(2):503].Gastroenterology.2012;142(7):1592-1609.doi:10.1053/j.gastro.2012.04.001)
+4.Fontana RJ, Liou I, Reuben A, et al.AASLD practice guidance on drug, herbal, and dietary supplement-induced liver injury.Hepatology.2023;77(3):1036-1065.doi:10.1002/hep.32689
+4.Fontana RJ, Liou I, Reuben A, et al.AASLD practice guidance on drug, herbal, and dietary supplement-induced liver injury.Hepatology.2023;77(3):1036-1065.doi:10.1002/hep.32689
+5.Chalasani N, Bonkovsky HL, Fontana R, et al.Features and outcomes of 899 patients with drug-induced liver injury: The DILIN prospective study.Gastroenterology.148(7):1340-1352, 2015.doi: 10.1053/j.gastro.2015.03.006
+5.Chalasani N, Bonkovsky HL, Fontana R, et al.Features and outcomes of 899 patients with drug-induced liver injury: The DILIN prospective study.Gastroenterology.148(7):1340-1352, 2015.doi: 10.1053/j.gastro.2015.03.006
+6.Navarro VJ, Barnhart H, Bonkovsky HL, et al.Liver injury from herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network.Hepatology.60(4):1399-1408, 2014.doi: 10.1002/hep.27317
+6.Navarro VJ, Barnhart H, Bonkovsky HL, et al.Liver injury from herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network.Hepatology.60(4):1399-1408, 2014.doi: 10.1002/hep.27317
+7.European Association for the Study of the Liver.Electronic address: easloffice@easloffice.eu; Clinical Practice Guideline Panel: Chair:; Panel members; EASL Governing Board representative:.EASL Clinical Practice Guidelines: Drug-induced liver injury.J Hepatol.2019;70(6):1222-1261.doi:10.1016/j.jhep.2019.02.014
+7.European Association for the Study of the Liver.Electronic address: easloffice@easloffice.eu; Clinical Practice Guideline Panel: Chair:; Panel members; EASL Governing Board representative:.EASL Clinical Practice Guidelines: Drug-induced liver injury.J Hepatol.2019;70(6):1222-1261.doi:10.1016/j.jhep.2019.02.014
+
+【药物相关肝损伤的病理生理学】
+药物性肝损伤（DILI）的病理生理方面是多变的，取决于药物（或其他的肝毒物），而且在许多病例中，尚未完全清楚。药物诱导的损伤机制包括药物共价地结合于细胞蛋白引起免疫损伤、抑制细胞代谢通路、阻断细胞转运泵、诱导凋亡和干扰线粒体功能。
+DILI的风险因素尚未被充分理解，不同的风险因素似乎与某些药物的风险增加有关，但并不一定与所有药物的风险增加有关（1）。例如:
+年龄≥18 岁：使用阿莫西林克拉维酸、异烟肼可能增加风险
+年龄≥18 岁：使用阿莫西林克拉维酸、异烟肼可能增加风险
+肥胖和糖尿病：使用某些药物可导致DILI的严重程度和发生率增加
+肥胖和糖尿病：使用某些药物可导致DILI的严重程度和发生率增加
+已有肝病：在接受甲氨蝶呤或抗结核治疗的患者中，可导致DILI风险增加
+已有肝病：在接受甲氨蝶呤或抗结核治疗的患者中，可导致DILI风险增加
+同时饮酒、吸烟：药物性肝损伤 (DILI) 的风险尚不明确
+同时饮酒、吸烟：药物性肝损伤 (DILI) 的风险尚不明确
+基因多态性（越来越受到重视）：PTPN22 基因，一种与多种药物引起的DILI相关的常见多态性
+基因多态性（越来越受到重视）：PTPN22 基因，一种与多种药物引起的DILI相关的常见多态性
+
+【肝损伤的模式】
+如果损伤常出现在用药后的短时间内并且是剂量-依赖的，这时DILI可能可预测；但是如果损伤出现前有一段潜伏期并且与剂量无关时，DILI不可预测。可预测的 DILI（通常，对乙酰氨基酚中毒）是急性发作的常见原因黄疸和急性肝衰竭在美国。不可预测的DILI是严重肝病的罕见原因。亚临床的DILI可能少报了。
+
+【具有潜在肝毒性的药物】
+具有潜在肝毒性的药物
+肝细胞性：ALT升高
+阿卡波糖
+对乙酰氨基酚
+别嘌呤醇
+抗逆转录病毒疗法
+丁氨苯丙酮
+石蚕属植物（germander）
+绿茶提取物
+卡瓦胡椒
+赖诺普利
+甲氨蝶呤
+非甾体类抗炎药
+奥美拉唑
+PD-1/PD-L1 抑制剂
+帕罗西丁
+吡嗪酰胺
+四环素类
+曲伐沙星（trovafloxacin）
+丙戊酸盐
+胆汁淤积性：碱性磷酸酶和总胆红素升高
+阿莫西林/克拉维酸
+合成代谢类的激素
+氯吡格雷
+口服避孕药
+厄贝沙坦
+特比萘芬
+三环类抗抑郁药
+混合性：碱性磷酸酶和ALT升高
+阿米替林
+硫唑嘌呤
+卡托普利
+卡马西平
+克林霉素
+依那普利
+呋喃妥因
+苯巴比妥
+磺胺类药（sulfonamides）
+复方新诺明
+维拉帕米
+ALT =丙氨酸转氨酶； AST =天冬氨酸转氨酶； NSAID =非甾体抗炎药。
+ALT =丙氨酸转氨酶； AST =天冬氨酸转氨酶； NSAID =非甾体抗炎药。
+在生化方面，肝损伤一般分为3种类型（见表潜在的肝毒性药物）：
+肝细胞性：肝细胞性肝损伤主要表现为不适和右上腹痛，这与氨基转移酶（丙氨酸转氨酶[ALT]、天冬氨酸转氨酶[AST]或者二者）的水平显著升高有关，在严重的病例随后可出现高胆红素血症。在这种情况下，高胆红素血症被称为肝细胞性黄疸，根据 Hy 定律，与 ALT 和 AST 水平升高一起，与高死亡率有关（2）。如果肝细胞性肝损伤伴有黄疸、肝脏合成功能受损和脑病，那么自我恢复的机会很小，这时需要考虑肝移植。这种类型的损伤可由药物如对乙酰氨基酚和异烟肼（isoniazid）引起。
+肝细胞性：肝细胞性肝损伤主要表现为不适和右上腹痛，这与氨基转移酶（丙氨酸转氨酶[ALT]、天冬氨酸转氨酶[AST]或者二者）的水平显著升高有关，在严重的病例随后可出现高胆红素血症。在这种情况下，高胆红素血症被称为肝细胞性黄疸，根据 Hy 定律，与 ALT 和 AST 水平升高一起，与高死亡率有关（2）。如果肝细胞性肝损伤伴有黄疸、肝脏合成功能受损和脑病，那么自我恢复的机会很小，这时需要考虑肝移植。这种类型的损伤可由药物如对乙酰氨基酚和异烟肼（isoniazid）引起。
+胆汁淤积性：胆汁淤积性肝损伤表现为瘙痒和伴有血清碱性磷酸酶显著升高的黄疸。通常，这种类型的损伤比严重的肝细胞损伤更轻，但恢复缓慢。已知引起这种类型损伤的药物包括阿莫西林/克拉维酸（amoxicillin/clavulanate）和氯丙嗪（chlorpromazine）。罕见地，胆汁淤积性肝损伤引起慢性肝病和胆管减少综合征（进展性的肝内胆管破坏）。
+胆汁淤积性：胆汁淤积性肝损伤表现为瘙痒和伴有血清碱性磷酸酶显著升高的黄疸。通常，这种类型的损伤比严重的肝细胞损伤更轻，但恢复缓慢。已知引起这种类型损伤的药物包括阿莫西林/克拉维酸（amoxicillin/clavulanate）和氯丙嗪（chlorpromazine）。罕见地，胆汁淤积性肝损伤引起慢性肝病和胆管减少综合征（进展性的肝内胆管破坏）。
+混合性：在这些临床综合征中，既不是以氨基转移酶升高为主也不是以碱性磷酸酶升高为主。症状也可能是合并存在的。药物如苯妥英（phenytoin）可引起这种类型的损伤。
+混合性：在这些临床综合征中，既不是以氨基转移酶升高为主也不是以碱性磷酸酶升高为主。症状也可能是合并存在的。药物如苯妥英（phenytoin）可引起这种类型的损伤。
+
+【病理生理学参考文献】
+1.Fontana RJ, Liou I, Reuben A, et al.AASLD practice guidance on drug, herbal, and dietary supplement–induced liver injury.Hepatology.00:1-29, 2022.doi: 10.1002/hep.32689
+1.Fontana RJ, Liou I, Reuben A, et al.AASLD practice guidance on drug, herbal, and dietary supplement–induced liver injury.Hepatology.00:1-29, 2022.doi: 10.1002/hep.32689
+2.Robles-Diaz M, Lucena MI, Kaplowitz N, et al.Use of Hy's law and a new composite algorithm to predict acute liver failure in patients with drug-induced liver injury.Gastroenterology.2014;147(1):109-118.e5.doi:10.1053/j.gastro.2014.03.050
+2.Robles-Diaz M, Lucena MI, Kaplowitz N, et al.Use of Hy's law and a new composite algorithm to predict acute liver failure in patients with drug-induced liver injury.Gastroenterology.2014;147(1):109-118.e5.doi:10.1053/j.gastro.2014.03.050
+
+【药物相关肝损伤的诊断】
+识别具有特征性的实验室检查异常的模式
+识别具有特征性的实验室检查异常的模式
+排除其他原因
+排除其他原因
+DILI的表现变化多样，范围从没有症状或者有非特异性症状（例如，乏力、恶心、畏食）至黄疸、肝脏合成功能损害和脑病。早期识别药物性肝损伤（DILI）可改善预后。
+诊断 DILI 的关键是识别潜在的肝毒素，这是一种具有该物质特征的肝脏检查的异常模式（其特征），以及损伤发作在时间上与致病肝毒素的典型特征一致。停止服用致病药物后肝功能检查的改善是另一个关键的诊断特征。可能的病原体可以使用LiverTox数据库进行评估。在美国，这个易于访问的互联网数据库是由美国国立卫生研究院资助的。它包括有关物质导致DILI的可能性、损伤模式、损伤的时间过程和疑似恢复期的信息。它还包括关于潜在病原体的病例报的告链接。
+因为缺乏明确诊断的检查，所以在诊断DILI时需要排除肝病的其他原因，特别是病毒性、胆汁性、酒精性、自身免疫性和代谢性原因 (1)。临床上显著的DILI通常被定义为至少符合以下1种情况（2)：
+天冬氨酸转氨酶（AST）或丙氨酸转氨酶（ALT）高于正常上限（ULN）的5倍，或碱性磷酸酶高于ULN的2倍，至少出现2次，且间隔至少24小时
+天冬氨酸转氨酶（AST）或丙氨酸转氨酶（ALT）高于正常上限（ULN）的5倍，或碱性磷酸酶高于ULN的2倍，至少出现2次，且间隔至少24小时
+总胆红素>2.5mg/dL，伴有转氨酶或碱性磷酸酶升高
+总胆红素>2.5mg/dL，伴有转氨酶或碱性磷酸酶升高
+转氨酶或碱性磷酸酶升高的国际标准化比值（INR）为1.5
+转氨酶或碱性磷酸酶升高的国际标准化比值（INR）为1.5
+应避免因任何原因再次使用药物。在美国，DILI 的疑似病例应该报告给美国食品和药物管理局（FDA）的药物不良反应监测项目MedWatch，以及 DILIN（药物性肝损伤网络），DILIN 是由美国国立卫生研究院（NIH）资助的一个研究组织，致力于提高对 DILI 病因和结果的了解。有关学习资格的信息，请访问DILIN的网站（DILIN's website)。
+
+【经验与提示】
+经验与提示
+不要做引起肝损伤可疑药物的激发试验。
+不要做引起肝损伤可疑药物的激发试验。
+
+【诊断参考】
+1.European Association for the Study of the Liver.EASL clinical practice guidelines: Drug-induced liver injury.J Hepatol.70(6):1222-1261, 2019.doi: 10.1016/j.jhep.2019.02.014
+1.European Association for the Study of the Liver.EASL clinical practice guidelines: Drug-induced liver injury.J Hepatol.70(6):1222-1261, 2019.doi: 10.1016/j.jhep.2019.02.014
+2.Fontana RJ, Liou I, Reuben A, et al.AASLD practice guidance on drug, herbal, and dietary supplement-induced liver injury.Hepatology.2023;77(3):1036-1065.doi:10.1002/hep.32689
+2.Fontana RJ, Liou I, Reuben A, et al.AASLD practice guidance on drug, herbal, and dietary supplement-induced liver injury.Hepatology.2023;77(3):1036-1065.doi:10.1002/hep.32689
+
+【药物相关肝损伤的治疗】
+尽早停止使用的药物
+尽早停止使用的药物
+DILI的治疗强调停止使用的药物，如果可以早期停止药物的使用，常可自行恢复。在严重的病例，特别是如果患者有肝细胞性黄疸和肝功能损害时，需到专业的医生那就诊，因为可能需要肝移植。针对药物性肝损伤（DILI）的解毒剂仅适用于少数几种肝毒素；这些解毒剂包括N-乙酰半胱氨酸，用于治疗对乙酰氨基酚中毒，以及水飞蓟素或青霉素用于鹅膏菌中毒。有时，皮质类固醇可以帮助治疗 DILI 伴 DRESS 综合征或自身免疫样损伤，如米诺环素或 PD-1/PD-L1 检查点抑制剂毒性。
+
+【药物相关肝损伤的预防】
+在药物研发过程中就应该努力避免药物诱导的肝损伤（DILI），即使在小型临床前试验中药物明显是安全的，但是并不能保证该药物在广泛使用时最终是安全的。美国食品和药物管理局（FDA）现在越来越多地要求上市后监督，可以引起对潜在肝毒性药物的关注。LiverTox数据库可能非常有用。
+肝酶的常规监测并不能降低药物肝毒性的发生。药物基因组学的使用可允许权衡药物的使用和避免易感患者的潜在毒性。
+与引起临床上有明显的肝损伤或功能障碍相比，药物更可能引起 无症状的肝功能异常。
+与引起临床上有明显的肝损伤或功能障碍相比，药物更可能引起 无症状的肝功能异常。
+药物性肝损伤（DILI）的危险因素可能包括年龄≥18岁、肥胖、伴随饮酒和某些遗传多态性。
+药物性肝损伤（DILI）的危险因素可能包括年龄≥18岁、肥胖、伴随饮酒和某些遗传多态性。
+DILI可能是可预测的并与剂量相关，也可能是不可预测的并与剂量无关。
+DILI可能是可预测的并与剂量相关，也可能是不可预测的并与剂量无关。
+DILI可以是肝细胞性，胆汁淤积（通常没有肝细胞性严重），或混合型。
+DILI可以是肝细胞性，胆汁淤积（通常没有肝细胞性严重），或混合型。
+为明确诊断，需要排除肝病的其他原因，特别是病毒性、胆汁性、酒精性、自身免疫性和代谢性原因。
+为明确诊断，需要排除肝病的其他原因，特别是病毒性、胆汁性、酒精性、自身免疫性和代谢性原因。
+怀疑导致DILI的药物不要再次使用。
+怀疑导致DILI的药物不要再次使用。

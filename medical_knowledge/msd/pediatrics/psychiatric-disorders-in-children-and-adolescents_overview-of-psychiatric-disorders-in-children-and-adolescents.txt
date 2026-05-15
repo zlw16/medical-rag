@@ -1,0 +1,64 @@
+标题：儿童和青少年精神疾病概述
+来源：https://www.msdmanuals.cn/professional/pediatrics/psychiatric-disorders-in-children-and-adolescents/overview-of-psychiatric-disorders-in-children-and-adolescents
+============================================================
+
+尽管人们有时认为童年和青春期是无忧无虑的幸福时光，但美国有多达20%的儿童及每4至5名青少年中就有1人患有可诊断的精神障碍，这些障碍会导致痛苦和功能损害（1, 2）。随着年龄的增长，精神疾病的患病率增加。此外，据报道，13至17岁的美国青少年中有27.9%符合两种或以上障碍的诊断标准（3）。对儿童从出生到成年跟踪的研究表明，大多数成人精神健康障碍始于儿童早期和青春期（4）。据报道，与精神健康障碍相关的基因在整个生命周期中都表现出高表达，从妊娠中期的胎儿便影响神经发育过程，这可能解释了早期发病的原因（5）。这些障碍大多可视为典型行为与情感的过度表现或扭曲。
+同成人一样，儿童和青少年的气质也各不相同。有些害羞和沉默寡言；另一些则社交活跃。有些有条不紊和谨慎，另一些则冲动和粗心。儿童的行为表现是正常儿童还是精神障碍，取决于症状相关的功能损害和痛苦程度。例如，一个12岁的女孩可能会对即将要在全班同学面前做一个读书报告而感到害怕。只有当她的恐惧严重到足以引起显著痛苦和回避行为时，这种恐惧才会被视为社交焦虑症。
+许多疾病的症状与无精神障碍儿童的挑战性行为和情绪之间存在大量重叠。因此，许多有助于管理儿童行为问题的策略也可用于患有精神障碍的儿童。此外，对儿童行为问题的适当管理可以减少性情脆弱的儿童发展成为临床疾病的风险。 此外，在儿童期期间有效治疗一些疾病（例如焦虑）可以减少以后生活中情绪障碍的风险。
+儿童和青少年最常见的精神障碍有以下类别：
+压力相关疾病
+压力相关疾病
+心情障碍
+心情障碍
+强迫障碍
+强迫障碍
+破坏性行为障碍（例如，注意力缺陷/多动障碍[ADHD]，行为障碍，以及对立违抗障碍）
+破坏性行为障碍（例如，注意力缺陷/多动障碍[ADHD]，行为障碍，以及对立违抗障碍）
+神经发育障碍
+神经发育障碍
+精神分裂症及相关的精神病性障碍较为少见。儿童紧张症比儿童精神分裂症更常见。它可能表现为精神障碍，但常见于内科疾病（如感染、代谢紊乱），且常被儿科医生漏诊（6）。
+但是，儿童和青少年的症状和问题往往超越诊断界限。例如，15%至35%的注意缺陷多动障碍患儿同时伴有焦虑障碍，12%至50%的患儿符合心境障碍（如抑郁症）的诊断标准（7）。
+神经发育障碍影响儿童的心理健康和整体发育。这些疾病包括：
+自闭症谱系障碍
+自闭症谱系障碍
+Rett综合征
+Rett综合征
+脆性X染色体综合征
+脆性X染色体综合征
+DiGeorge综合征
+DiGeorge综合征
+线粒体病
+线粒体病
+
+【参考文献】
+1.Merikangas KR, He JP, Burstein M, et al.Lifetime prevalence of mental disorders in US adolescents: Results from the National Comorbidity Study – Adolescent Supplement (NCS-A).J Am Acad Child Adolesc Psychiatry49(10):980-989, 2010.
+1.Merikangas KR, He JP, Burstein M, et al.Lifetime prevalence of mental disorders in US adolescents: Results from the National Comorbidity Study – Adolescent Supplement (NCS-A).J Am Acad Child Adolesc Psychiatry49(10):980-989, 2010.
+2.Elia J, Pajer K, Prasad R, et al.Electronic health records identify timely trends in childhood mental health conditions.Child Adolesc Psychiatry Ment Health.2023;17(1):107.Published 2023 Sep 14.doi:10.1186/s13034-023-00650-7
+2.Elia J, Pajer K, Prasad R, et al.Electronic health records identify timely trends in childhood mental health conditions.Child Adolesc Psychiatry Ment Health.2023;17(1):107.Published 2023 Sep 14.doi:10.1186/s13034-023-00650-7
+3.Kessler RC, Avenevoli S, McLaughlin KA, et al.Lifetime comorbidity of DSM-IV disorders in the National Comorbidity Survey – Replication Adolescent Supplement (NCS-A).Psychol Med.42(9)1997-2010, 2012.
+3.Kessler RC, Avenevoli S, McLaughlin KA, et al.Lifetime comorbidity of DSM-IV disorders in the National Comorbidity Survey – Replication Adolescent Supplement (NCS-A).Psychol Med.42(9)1997-2010, 2012.
+4.Solmi M, Radua J, Olivola M, et al.Age at onset of mental disorders worldwide: large-scale meta-analysis of 192 epidemiological studies.Mol Psychiatry.2022;27(1):281-295.doi:10.1038/s41380-021-01161-7
+4.Solmi M, Radua J, Olivola M, et al.Age at onset of mental disorders worldwide: large-scale meta-analysis of 192 epidemiological studies.Mol Psychiatry.2022;27(1):281-295.doi:10.1038/s41380-021-01161-7
+5.Lee PH, Anttila V, Won H, et al.Genome-wide meta-analysis identifies genomic relationships, novel loci, and pleiotropic mechanisms across eight psychiatric disorders.Cell.2019.doi.org/10.1101/528117
+5.Lee PH, Anttila V, Won H, et al.Genome-wide meta-analysis identifies genomic relationships, novel loci, and pleiotropic mechanisms across eight psychiatric disorders.Cell.2019.doi.org/10.1101/528117
+6.Dhossche DM, Wachtel LE.Catatonia is hidden in plain sight among different pediatric disorders: A review article.Pediatr Neurol.43(5):307-315, 2010.doi: 10.1016/j.pediatrneurol.2010.07.001
+6.Dhossche DM, Wachtel LE.Catatonia is hidden in plain sight among different pediatric disorders: A review article.Pediatr Neurol.43(5):307-315, 2010.doi: 10.1016/j.pediatrneurol.2010.07.001
+7.Gnanavel S, Sharma P, Kaushal P, Hussain S.Attention deficit hyperactivity disorder and comorbidity: A review of literature.World J Clin Cases.2019;7(17):2420-2426.doi:10.12998/wjcc.v7.i17.2420
+7.Gnanavel S, Sharma P, Kaushal P, Hussain S.Attention deficit hyperactivity disorder and comorbidity: A review of literature.World J Clin Cases.2019;7(17):2420-2426.doi:10.12998/wjcc.v7.i17.2420
+
+【精神障碍的评估】
+儿童和青少年精神方面的主诉和症状的评估与成人不同，主要表现在以下重要方面：
+发育背景（儿童随时间的发展情况以及与同龄人的比较）对儿童至关重要。年幼时期被视为正常的行为，若在年长后仍然存在，则可能预示着精神障碍。
+发育背景（儿童随时间的发展情况以及与同龄人的比较）对儿童至关重要。年幼时期被视为正常的行为，若在年长后仍然存在，则可能预示着精神障碍。
+儿童存在于家庭系统的背景之中，该系统对其症状与行为产生深远影响；生活在存在暴力或物质使用障碍家庭中的非精神障碍儿童，表面上可能呈现出一种或多种精神障碍的特征。
+儿童存在于家庭系统的背景之中，该系统对其症状与行为产生深远影响；生活在存在暴力或物质使用障碍家庭中的非精神障碍儿童，表面上可能呈现出一种或多种精神障碍的特征。
+儿童也存在于环境压力源的背景下，例如新冠肺炎疫情和军事冲突。由此造成的关键日常活动的中断以及与大家庭、同龄人、教师以及文化和宗教团体的隔离，产生了重大影响，尤其是对最弱势群体而言（1)。
+儿童也存在于环境压力源的背景下，例如新冠肺炎疫情和军事冲突。由此造成的关键日常活动的中断以及与大家庭、同龄人、教师以及文化和宗教团体的隔离，产生了重大影响，尤其是对最弱势群体而言（1)。
+儿童通常缺乏准确描述其症状所需的认知和语言能力。因此，临床医生必须高度依赖直接观察，并辅以父母、老师或其他照料者的观察结果作为佐证。
+儿童通常缺乏准确描述其症状所需的认知和语言能力。因此，临床医生必须高度依赖直接观察，并辅以父母、老师或其他照料者的观察结果作为佐证。
+在许多情况下，发展和行为问题(例如，学习成绩差，语言习得迟缓，社交技能缺陷)很难与精神障碍引起的问题区分开来。在此类情况下，正式的发育与神经系统检测应纳入评估流程。
+鉴于这些因素，对患有精神障碍儿童的评估通常比成人更为复杂，可能需要多学科协作，涵盖发育儿科、心理学、精神病学及遗传学等领域。与初级保健提供者（如儿科医生或家庭医生）协调护理至关重要。
+
+【评估参考标准】
+1.Walter HJ, Bukstein OG, Abright AR, et al.Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders.J Am Acad Child Adolesc Psychiatry59(10):1107-1124, 2020.doi: https://doi.org/10.1016/j.jaac.2020.05.005
+1.Walter HJ, Bukstein OG, Abright AR, et al.Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders.J Am Acad Child Adolesc Psychiatry59(10):1107-1124, 2020.doi: https://doi.org/10.1016/j.jaac.2020.05.005

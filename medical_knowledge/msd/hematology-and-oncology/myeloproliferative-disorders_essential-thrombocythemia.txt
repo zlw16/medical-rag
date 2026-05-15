@@ -1,0 +1,157 @@
+标题：原发性血小板增多症
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/myeloproliferative-disorders/essential-thrombocythemia
+============================================================
+
+(参见骨髓增殖性肿瘤概述。）
+
+【原发性血小板增多症的病因】
+原发性血小板增多症是造成血小板生成增加的克隆性造血干细胞疾病。原发性血小板增多症通常发生在 50 岁以后，女性发病率较高。
+Janus激酶2（JAK2）酶突变，（JAK2V617F），存在于大约50％的患者中; JAK2是酪氨酸激酶家族的成员，参与促红细胞生成素、促血小板生成素和粒细胞集落刺激因子（G-CSF）的信号转导。
+其他患者的钙网蛋白基因外显子 9 发生突变（卡拉尔）。钙网蛋白突变通常有 2 种类型，称为 1 型和 2 型。患者患有CALR突变血小板计数往往高于突变患者JAK2突变（1）。
+少数患者具有获得性体细胞血小板生成素受体基因（MPL）突变。
+
+【病因参考文献】
+1.Bellani V, Mora B, Iurlo A, Passamonti F. CALR-mutated myeloproliferative neoplasms.Leuk Lymphoma.2025;66(7):1198-1210.doi:10.1080/10428194.2025.2465551
+1.Bellani V, Mora B, Iurlo A, Passamonti F. CALR-mutated myeloproliferative neoplasms.Leuk Lymphoma.2025;66(7):1198-1210.doi:10.1080/10428194.2025.2465551
+
+【原发性血小板增多症的病理生理学】
+血小板增多可能导致:
+微血管阻塞
+微血管阻塞
+大血管血栓形成
+大血管血栓形成
+微血管闭塞累及四肢远端（引起红斑性肢痛）、眼睛（引起眼部偏头痛）或中枢神经系统（引起短暂性脑缺血发作）的小血管。即使血小板计数很高，也并非所有患者都出现微血管症状。
+目前尚不清楚大血管血栓形成的风险是否会导致深静脉血栓形成或肺栓塞在原发性血小板增多症中增加，特别是因为血小板主要参与动脉血栓形成，并且血小板计数与大血管血栓形成之间没有相关性。大血管血栓更容易发生在患有隐匿性真性红细胞增多症的患者中，这些患者，尤其是女性，可能被错误诊断为患有原发性血小板增多症。
+极度血小板增多（约 1,000,000 个血小板/mcL［1000×109/L］）时更易出血；其机制为获得性血管性血友病因子缺乏——血小板吸附并水解高分子量血管性血友病因子多聚体，导致继发性 2 型血管性血友病综合征。
+
+【原发性血小板增多症的症状和体征】
+常见的症状是:
+瘀伤和出血
+瘀伤和出血
+头痛（特别是眼型偏头痛）
+头痛（特别是眼型偏头痛）
+手脚感觉异常（表现为红斑性肢痛）
+手脚感觉异常（表现为红斑性肢痛）
+神经功能缺损
+神经功能缺损
+出血通常是轻微的，很少自发的，表现为鼻出血、易瘀伤，或胃肠道出血。然而，严重出血可能发生在一小部分患者的极端血小板增多。
+红斑性肢痛(手脚灼痛，伴有发热，红斑，有时指部缺血伴溃疡)。
+血栓事件可能为动脉或静脉。短暂性脑缺血发作可能会导致神经功能缺损，具体取决于大脑的哪个部分受到影响。
+脾脏可能可触及，但显着的脾肿大并不常见。显着的脾肿大应提示另一种骨髓增生性肿瘤或与血小板计数升高不直接相关的脾肿大的原因。
+
+【原发性血小板增多症的诊断】
+全血细胞计数和外周血涂片
+全血细胞计数和外周血涂片
+排除继发性血小板增多症和其他骨髓增生性肿瘤的原因
+排除继发性血小板增多症和其他骨髓增生性肿瘤的原因
+细胞遗传学检查
+细胞遗传学检查
+JAK2突变和BCR-APL检测，如果结果为阴性，则进行CALR或MPL突变分析
+JAK2突变和BCR-APL检测，如果结果为阴性，则进行CALR或MPL突变分析
+很少进行骨髓穿刺和活检
+很少进行骨髓穿刺和活检
+原发性血小板增多症是一种排除性诊断，当患者排除了常见的反应性血小板增多原因及其他骨髓增殖性肿瘤（如慢性髓系白血病）后，应考虑此诊断。
+如果怀疑原发性血小板增多症，应进行全血细胞计数 (CBC)、外周血涂片和铁检查（因为血小板增多可能由缺铁引起）。
+原发性血小板增多症的血小板计数 > 450,000 血小板/μL（>450×109/L)，但可能高达>1,000,000 血小板/微升（>1000×109/升）。妊娠期间血小板计数通常会下降。
+通过正常的血细胞比容、白细胞计数、平均红细胞体积 (MCV) 和铁检查，以及缺乏BCR-ABL易位，来提示诊断。
+外周血涂片可出现巨大血小板和巨核细胞碎片。
+某些骨髓增生异常综合征（例如伴环状铁粒幼细胞的难治性贫血及血小板增多症[RARS-T，现称为伴SF3B1突变和血小板增多的骨髓增生异常/骨髓增殖性肿瘤]，以及5q缺失综合征）（1）可能出现血小板计数升高。如果确认血细胞减少, 应考虑骨髓增生异常综合症。
+应进行遗传研究，包括定量JAK2 V617F基因测定（通过下一代测序[NGS]或定量聚合酶链反应），以及BCR-ABL基因测定以排除慢性粒细胞白血病 （CML，可单独表现为血小板增多症）。如果JAK2 V617F和BCR-ABL检测结果为阴性，CALR和MPL应进行突变试验。一些患者的3种突变检测均为阴性；许多人具有骨髓增生性肿瘤驱动突变的罕见变体，其他人具有种系突变 在MPL或JAK2中。没有的患者JAK2 V617F,CALR， 或者MPL基因突变（称为三阴性）很少见。
+突变分析应始终是定量的，因为JAK2 V617F-阳性原发性血小板增多症的驱动基因等位负担不超过50％。定量等位基因负担>50% 建议真性红细胞增多症或者原发性骨髓纤维化。 然而，定量等位基因负担<50%并不能绝对排除真性红细胞增多症或原发性骨髓纤维化，因为这些疾病可以单独出现血小板增多症，而真性红细胞增多症(特别是女性患者)的血浆容量扩大可以掩盖扩大的红细胞团的存在。同样，约25％的患者（主要是女性）在最初表现为原发性血小板增多症，但随着时间的推移(约12年)，后来转变为明显的真性红细胞增多症，导致血细胞比容增加，JAK2V617F等位基因负荷增加。
+世界卫生组织的指南表示，骨髓活检见到增大的成熟巨核细胞数量有所增加，是诊断原发性血小板增多症所必需的，但这一标准从未被前瞻性验证,骨髓检查不能区分原发性血小板增多和真性红细胞增多 (2, 3)。
+
+【诊断参考】
+1.Khoury JD, Solary E, Abla O, et al.The 5th edition of the World Health Organization Classification of Haematolymphoid Tumours: Myeloid and Histiocytic/Dendritic Neoplasms.Leukemia.2022;36(7):1703-1719.doi:10.1038/s41375-022-01613-1
+1.Khoury JD, Solary E, Abla O, et al.The 5th edition of the World Health Organization Classification of Haematolymphoid Tumours: Myeloid and Histiocytic/Dendritic Neoplasms.Leukemia.2022;36(7):1703-1719.doi:10.1038/s41375-022-01613-1
+2.Barbui T, Thiele J, Gisslinger H, et al.The 2016 WHO classification and diagnostic criteria for myeloproliferative neoplasms: document summary and in-depth discussion.Blood Cancer J.2018;8(2):15.doi:10.1038/s41408-018-0054
+2.Barbui T, Thiele J, Gisslinger H, et al.The 2016 WHO classification and diagnostic criteria for myeloproliferative neoplasms: document summary and in-depth discussion.Blood Cancer J.2018;8(2):15.doi:10.1038/s41408-018-0054
+3.Pasquer H, Kiladjian JJ, Benajiba L.Current myeloproliferative neoplasm scoring systems for clinical practice.Blood.2025;145(3):257-276.doi.org/10.1182/blood.2024025459
+3.Pasquer H, Kiladjian JJ, Benajiba L.Current myeloproliferative neoplasm scoring systems for clinical practice.Blood.2025;145(3):257-276.doi.org/10.1182/blood.2024025459
+
+【原发性血小板增多症的治疗】
+阿司匹林适用于大多数患者
+阿司匹林适用于大多数患者
+高危患者可使用降血小板药物（如聚乙二醇干扰素、阿那格雷）
+高危患者可使用降血小板药物（如聚乙二醇干扰素、阿那格雷）
+很少进行血小板单采术
+很少进行血小板单采术
+极少情况下，需使用羟基脲等细胞毒性药物
+极少情况下，需使用羟基脲等细胞毒性药物
+很少进行干细胞移植
+很少进行干细胞移植
+原发性血小板增多症患者的主要治疗目标是缓解血管舒缩症状，并预防血栓和出血并发症。目前尚无可靠疗法能够阻止疾病进展为骨髓纤维化或急性白血病，但这些并发症通常在初次诊断多年后发生，因此原发性血小板增多症患者需要持续接受监测。治疗方法的选择取决于症状的存在和血栓并发症的风险因素。
+血栓形成风险分层基于年龄、血栓形成史和JAK2突变状态，包括4个风险类别（1）：
+极低风险（年龄≤60岁，无血栓病史，JAK2野生型）
+极低风险（年龄≤60岁，无血栓病史，JAK2野生型）
+低风险（年龄≤60岁，无血栓病史，JAK2基因变异）
+低风险（年龄≤60岁，无血栓病史，JAK2基因变异）
+中等风险（年龄>60岁，无血栓病史，JAK2野生型）
+中等风险（年龄>60岁，无血栓病史，JAK2野生型）
+高风险（有血栓史或年龄>60岁且有JAK2基因变异）
+高风险（有血栓史或年龄>60岁且有JAK2基因变异）
+对于无症状且血栓风险极低的患者，通常适合观察，但如果出血风险较低，一些临床医生会建议使用阿司匹林。
+
+【低剂量阿司匹林】
+对于任何风险类别的血管舒缩症状患者，低剂量阿司匹林通常被视为治疗的基础。对于无心血管疾病或吸烟史的低危患者（无JAK2基因突变），若仅存在轻度血管运动症状（如头痛、轻度手指缺血、红斑性肢痛症等），通常口服阿司匹林81mg，每日1次即可，但必要时也可使用更高剂量。严重的偏头痛可能需要降低血小板数量来加以控制。
+怀孕期间阿司匹林的效用尚未得到证实，可能会导致原发性血小板增多症和CALR突变患者的出血。患有原发性血小板增多症的妇女被认为在妊娠早期胎儿丢失的发生率较高。
+使用烟草或患有心血管疾病或心血管危险因素的无症状患者也使用阿司匹林治疗。然而，使用阿司匹林对于年龄 > 65 岁的患者，在没有心血管疾病或风险因素的情况下进行心血管预防，会导致不可接受的不良反应发生率，尤其是胃肠道出血。没有证据表明 65 岁以上没有症状的患者可以受益阿司匹林治疗。
+
+【降低血小板的药物】
+因为预后通常良好，且血小板增多程度与血栓形成程度无相关性，因此在无症状的患者中不应仅为改善血小板计数而使用降低血小板数量的潜在细胞毒性药物。为降低血小板数量而给予治疗的一般指征有:
+年龄 > 60 岁且携带 JAK2 突变
+年龄 > 60 岁且携带 JAK2 突变
+血栓形成史
+血栓形成史
+微血管症状（阿司匹林无法控制），例如头痛
+微血管症状（阿司匹林无法控制），例如头痛
+心血管风险因素（例如：高血压、糖尿病、高脂血症、吸烟）
+心血管风险因素（例如：高血压、糖尿病、高脂血症、吸烟）
+严重出血
+严重出血
+需要对伴有极度血小板增多和低瑞斯托菌素辅因子活性的患者进行外科手术
+需要对伴有极度血小板增多和低瑞斯托菌素辅因子活性的患者进行外科手术
+然而，没有数据可证实细胞毒治疗降低血小板计数后可降低血栓形成风险或提高生存率。
+用于降低血小板计数的药物包括阿那格雷、聚乙二醇干扰素α-2a、聚乙二醇干扰素α-2b以及必要时使用的羟基脲。在CALR突变的原发性血小板增多症中，针对该突变的抗体正在被作为免疫治疗的靶点进行研究（2, 3）。
+羟基脲曾被视为治疗原发性血小板增多症的首选药物，但长期使用可能具有骨髓毒性。
+羟基脲只能由熟悉其使用和监测的专家开处方，切勿长期使用。患者需每周通过全血细胞计数（CBC）进行监测。如果白细胞 (WBC) 计数下降到<4000 个细胞/微升（<4×109/L)，则停止使用羟基脲，待数值恢复正常后，再以 50% 的剂量重新开始使用。当情病稳定后，全血细胞计数可延长到2周一次，然后延长到4周一次。目的是缓解症状，而不是使血小板计数正常化。羟基脲停药过快会导致血小板快速反弹至非常高的水平和血小板循环。
+由于阿那格雷和羟基脲可通过胎盘，因此妊娠期禁用；必要时可在孕妇中使用聚乙二醇干扰素α-2a或聚乙二醇干扰素α-2b。
+老年患者应谨慎使用阿那格雷，因为它对心血管系统（如心悸、心律失常）和肾脏（如液体潴留、肾功能衰竭）有影响。
+聚乙二醇干扰素α-2a和聚乙二醇干扰素α-2b能有效降低原发性血小板增多症的驱动突变等位基因负荷并缓解症状。 干扰素是治疗偏头痛最安全的药物 当专用的偏头痛药物无效时。
+JAK2抑制剂（如鲁索替尼）可能有效，但需要更多数据支持（4）。一项随机试验发现，在实现血液学反应、减少血栓或出血事件或预防疾病进展方面，鲁索替尼并不优于标准疗法（5）。然而，部分研究局限性包括对经部分治疗的原发性血小板增多症患者使用过高剂量的鲁索替尼。
+血小板去除（血小板去除法）已被用于严重出血或复发性血栓形成或紧急手术前需立即减少血小板数目的极少数患者中。然而，血小板去除法几乎是不必要的。其作用是短暂的，血小板计数迅速反弹。羟基脲或阿那格雷不能产生即时疗效，但应该与血小板去除法同时开始。
+
+【其他干预措施】
+同种异体干细胞移植在原发性血小板增多症中很少使用，但若疾病转化为急性白血病或继发骨髓纤维化，则可能有效。
+氨基己酸或氨甲环酸可有效控制获得性血管性血友病综合征的出血，故适用于如牙科工作等小操作中。大型手术可能需要降低血小板计数。可以通过测量瑞斯托菌素辅助因子活性来评估血小板功能。
+
+【治疗参考文献】
+1.Tefferi A, Barbui T.Polycythemia vera and essential thrombocythemia: 2021 update on diagnosis, risk-stratification and management.Am J Hematol.2020;95(12):1599-1613.doi:10.1002/ajh.26008
+1.Tefferi A, Barbui T.Polycythemia vera and essential thrombocythemia: 2021 update on diagnosis, risk-stratification and management.Am J Hematol.2020;95(12):1599-1613.doi:10.1002/ajh.26008
+2.Cimen Bozkus C, Roudko V, Finnigan JP, et al.Immune Checkpoint Blockade Enhances Shared Neoantigen-Induced T-cell Immunity Directed against Mutated Calreticulin in Myeloproliferative Neoplasms.Cancer Discov.2019;9(9):1192-1207.doi:10.1158/2159-8290.CD-18-1356
+2.Cimen Bozkus C, Roudko V, Finnigan JP, et al.Immune Checkpoint Blockade Enhances Shared Neoantigen-Induced T-cell Immunity Directed against Mutated Calreticulin in Myeloproliferative Neoplasms.Cancer Discov.2019;9(9):1192-1207.doi:10.1158/2159-8290.CD-18-1356
+3.Faiz M, Riedemann M, Jutzi JS, et al.Mutant Calreticulin in MPN: Mechanistic Insights and Therapeutic Implications.Curr Hematol Malig Rep.2025;20(1):4.Published 2025 Jan 8.doi:10.1007/s11899-024-00749-4
+3.Faiz M, Riedemann M, Jutzi JS, et al.Mutant Calreticulin in MPN: Mechanistic Insights and Therapeutic Implications.Curr Hematol Malig Rep.2025;20(1):4.Published 2025 Jan 8.doi:10.1007/s11899-024-00749-4
+4.Ferrer-Marín F, Hernández-Boluda JC, Alvarez-Larrán A. Essential thrombocythaemia: A contemporary approach with new drugs on the horizon.Br J Haematol.2024;204(5):1605-1616.doi:10.1111/bjh.19403
+4.Ferrer-Marín F, Hernández-Boluda JC, Alvarez-Larrán A. Essential thrombocythaemia: A contemporary approach with new drugs on the horizon.Br J Haematol.2024;204(5):1605-1616.doi:10.1111/bjh.19403
+5.Harrison CN, Mead AJ, Panchal A, et al.Ruxolitinib vs best available therapy for ET intolerant or resistant to hydroxycarbamide.Blood.2017;130(17):1889-1897.doi:10.1182/blood-2017-05-785790
+5.Harrison CN, Mead AJ, Panchal A, et al.Ruxolitinib vs best available therapy for ET intolerant or resistant to hydroxycarbamide.Blood.2017;130(17):1889-1897.doi:10.1182/blood-2017-05-785790
+
+【原发性血小板增多症的预后】
+预期寿命可达到正常水平。虽然症状很常见，但该疾病的进程通常是良性的，特别是在女性患者中（1）。
+严重的动脉血栓并发症很少见，但可以是致命性的。<2％的患者会发生白血病转化，但给予细胞毒药物治疗后，包括羟基脲，其发生率可能有所增加。
+一些患者可发生继发性骨髓纤维化，特别是男性患者且伴有JAK2V617F或CALR1型突变。
+在原发性血小板增多症患者中，同时对三种突变（JAK2 V617F、CALR、MPL）均为阴性的病例较为罕见，且通常预后良好。
+
+【预后参考】
+1.Tefferi A, Gangat N, Loscocco GG, et al.Essential Thrombocythemia: A Review.JAMA.2025;333(8):701-714.doi:10.1001/jama.2024.25349
+1.Tefferi A, Gangat N, Loscocco GG, et al.Essential Thrombocythemia: A Review.JAMA.2025;333(8):701-714.doi:10.1001/jama.2024.25349
+原发性血小板增多症是一种多能造血干细胞的克隆性异常，导致血小板生成增加。
+原发性血小板增多症是一种多能造血干细胞的克隆性异常，导致血小板生成增加。
+患者有微血管血栓形成和出血的风险。
+患者有微血管血栓形成和出血的风险。
+原发性血小板增多症是一种排除性诊断；特别是，必须除外其它骨髓增殖性肿瘤和反应性（继发性）血小板增多。
+原发性血小板增多症是一种排除性诊断；特别是，必须除外其它骨髓增殖性肿瘤和反应性（继发性）血小板增多。
+无症状的患者无需治疗。阿司匹林通常对微血管事件（眼部偏头痛、红斑性肢痛和短暂性脑缺血发作）有效。
+无症状的患者无需治疗。阿司匹林通常对微血管事件（眼部偏头痛、红斑性肢痛和短暂性脑缺血发作）有效。
+患有极度血小板增多症的患者可能需要更积极的治疗来控制血小板计数；此类措施包括聚乙二醇干扰素α-2a；聚乙二醇干扰素α-2b；羟基脲；阿那格雷；鲁索替尼；或者较少情况下采用血小板去除术。
+患有极度血小板增多症的患者可能需要更积极的治疗来控制血小板计数；此类措施包括聚乙二醇干扰素α-2a；聚乙二醇干扰素α-2b；羟基脲；阿那格雷；鲁索替尼；或者较少情况下采用血小板去除术。

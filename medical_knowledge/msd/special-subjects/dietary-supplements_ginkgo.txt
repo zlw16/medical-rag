@@ -1,0 +1,49 @@
+标题：银杏
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/ginkgo
+============================================================
+
+银杏（Ginkgo biloba）由银杏树的叶子制备而成（因其是该种属仅存的植物而在美国作为观赏用途广泛种植）。萜类银杏内酯和类黄酮是其可能的活性成分。
+银杏树的果实有臭味，不适用于制作银杏产品，人体接触到雌银杏树下的果肉，可引起严重的皮肤炎症（皮炎）。生的果实种子具有毒性并可引起癫痫，大剂量可致死。在亚洲，银杏种子经烹调后可食用，在美国的亚洲食物店中也有售。因为种子并不含有银杏内酯和类黄酮，所以它没有治疗作用。
+
+【银杏的功效宣称】
+银杏树叶制品可改善跛行症状，虽然锻炼和西洛他唑可能更有效。服用银杏的患者由于行走时疼痛的缓解，行走距离有所增加。
+长期以来，银杏被用于痴呆症患者。银杏还被用来缓解记忆丧失，焦虑，耳鸣，老年性黄斑变性，和高原反应。银杏可预防免疫抑制剂环孢霉素所致的肾脏损害。银杏还被用于治疗急性高山病和辅助治疗 2 型糖尿病。
+
+【银杏的证据】
+银杏被认为是一个血管活性剂。根据2013年Cochrane系统评价，虽然间歇性跛行患者服用银杏叶制品也许能够比安慰剂治疗的患者走更远，但是这样的作用是相当小的。这次综述评价包括14项试验，共739人参加，其中11个试验（477人参加）将Ginkgo biloba银杏和安慰剂进行了比较 (1)。
+较早的研究结果显示，银杏能暂时性地稳定轻中度智障患者的精神和社会适应能力。然而，随后的大型临床试验表明，银杏补充剂（EGb 761）并未延缓老年人痴呆和阿尔茨海默病的发生和发展(2–4)。对具有低至中等证据的银杏的 12 项系统评价（59 项随机对照试验）的概述报告说，当以高于 200 毫克的日剂量使用且持续 5 个月以上时，用于治疗痴呆症、认知能力、日常生活活动和临床整体印象得到改善 (5)此外，一项针对18项随机试验（包括1642名阿尔茨海默病患者）的系统回顾和荟萃分析报告称，与多奈哌齐单药治疗相比，银杏叶联合多奈哌齐治疗可能改善部分认知评分（例如，简易精神状态检查量表和蒙特利尔认知评估量表的评分）以及日常生活活动能力（6）。需要进一步研究这种补充剂在痴呆中的临床应用。
+较早的证据表明，银杏可以缓解耳鸣，但是一项针对4项研究（1543名受试者）的Cochrane综述显示，银杏对以耳鸣为主要疾病的患者没有帮助(7)。 银杏预防急性高山病的系统评价和荟萃分析发现了有益趋势，但数据不足以证明显著的预防效果 (8)。 新出现的证据报告了银杏治疗 2 型糖尿病的益处。银杏与二甲双胍联合用药可显著降低空腹血糖和血红蛋白A1C (9)。
+
+【银杏的不良反应】
+消费者应意识到，芦丁和槲皮素等物质可能被用于掺假低质量银杏制品，使其在消费者和监管机构眼中显得合格。
+可能发生恶心、消化不良、头痛、眩晕和心悸。孕妇不应使用该药，因为它可能导致早产或分娩时出血过多。银杏也应在手术前至少2周停止使用，因为有可能导致过度出血。
+
+【银杏的药物相互作用】
+银杏可能与阿司匹林、其他非甾体抗炎药 (NSAID) 和华法林相互作用；它还可能降低抗惊厥药的功效。 由于可能与单胺氧化酶抑制剂发生相互作用，银杏可能会使服用其他抗抑郁药物的患者出现血清素综合征（10）。(参考表一些可能的膳食补充剂-药物相互作用。）
+
+【参考文献】
+1.Nicolaï SP, Kruidenier LM, Bendermacher BL, et al.Gingko bilobafor intermittent claudication.Cochrane Database Syst Rev.6: CD006888, 2013.doi: 10.1002/14651858.CD006888.pub3
+1.Nicolaï SP, Kruidenier LM, Bendermacher BL, et al.Gingko bilobafor intermittent claudication.Cochrane Database Syst Rev.6: CD006888, 2013.doi: 10.1002/14651858.CD006888.pub3
+2.Vellas B, Coley N, Ousset PJ, et al; GuidAge Study Group.Long-term use of standardisedGingko bilobaextract for the prevention of Alzheimer's disease (GuidAge): a randomised placebo-controlled trial.Lancet Neurol.11(10):851-859, 2012.doi: 10.1016/S1474-4422(12)70206-5
+2.Vellas B, Coley N, Ousset PJ, et al; GuidAge Study Group.Long-term use of standardisedGingko bilobaextract for the prevention of Alzheimer's disease (GuidAge): a randomised placebo-controlled trial.Lancet Neurol.11(10):851-859, 2012.doi: 10.1016/S1474-4422(12)70206-5
+3.Snitz BE, O'Meara ES, Carlson MC, et al; Ginkgo Evaluation of Memory (GEM) Study Investigators.Gingko bilobafor preventing cognitive decline in older adults: a randomized trial.JAMA.302(24):2663-2670, 2009.doi: 10.1001/jama.2009.1913
+3.Snitz BE, O'Meara ES, Carlson MC, et al; Ginkgo Evaluation of Memory (GEM) Study Investigators.Gingko bilobafor preventing cognitive decline in older adults: a randomized trial.JAMA.302(24):2663-2670, 2009.doi: 10.1001/jama.2009.1913
+4.DeKosky ST, Williamson JD, Fitzpatrick AL, et al; Ginkgo Evaluation of Memory (GEM) Study Investigators.Gingko bilobafor prevention of dementia: a randomized controlled trial.JAMA.300(19):2253-2262, 2008.doi: 10.1001/jama.2008.683
+4.DeKosky ST, Williamson JD, Fitzpatrick AL, et al; Ginkgo Evaluation of Memory (GEM) Study Investigators.Gingko bilobafor prevention of dementia: a randomized controlled trial.JAMA.300(19):2253-2262, 2008.doi: 10.1001/jama.2008.683
+5.Yuan Q, Wang CW, Shi J, et al.Effects ofgingko bilobaon dementia: an overview of systematic reviews.J Ethnopharmacol.195:1-9, 2017. doi: 10.1016/j.jep.2016.12.005
+5.Yuan Q, Wang CW, Shi J, et al.Effects ofgingko bilobaon dementia: an overview of systematic reviews.J Ethnopharmacol.195:1-9, 2017. doi: 10.1016/j.jep.2016.12.005
+6.Li D, Ma J, Wei B, Gao S, Lang Y, Wan X.Effectiveness and safety of ginkgo biloba preparations in the treatment of Alzheimer's disease: A systematic review and meta-analysis.Front Aging Neurosci.2023 Mar 7;15:1124710.doi: 10.3389/fnagi.2023.1124710.
+6.Li D, Ma J, Wei B, Gao S, Lang Y, Wan X.Effectiveness and safety of ginkgo biloba preparations in the treatment of Alzheimer's disease: A systematic review and meta-analysis.Front Aging Neurosci.2023 Mar 7;15:1124710.doi: 10.3389/fnagi.2023.1124710.
+7.Hilton MP, Zimmermann EF, Hunt WT.Gingko bilobafor tinnitus.Cochrane Database Syst Rev.(3):CD003852, 2013.doi: 10.1002/14651858.CD003852.pub3
+7.Hilton MP, Zimmermann EF, Hunt WT.Gingko bilobafor tinnitus.Cochrane Database Syst Rev.(3):CD003852, 2013.doi: 10.1002/14651858.CD003852.pub3
+8.Tsai TY, Wang SH, Lee YK, et al: .Gingko bilobaextract for prevention of acute mountain sickness: a systematic review and meta-analysis of randomised controlled trials.BMJ Open.8(8):e022005, 2018. doi: 10.1136/bmjopen-2018-022005
+8.Tsai TY, Wang SH, Lee YK, et al: .Gingko bilobaextract for prevention of acute mountain sickness: a systematic review and meta-analysis of randomised controlled trials.BMJ Open.8(8):e022005, 2018. doi: 10.1136/bmjopen-2018-022005
+9.Aziz TA, Hussain SA, Mahwi TO, et al.The efficacy and safety ofGingko bilobaextract as an adjuvant in type 2 diabetes mellitus patients ineffectively managed withmetformin: a double-blind, randomized, placebo-controlled trial.Drug Des Devel Ther.12:735-742, 2018. doi: 10.2147/DDDT.S157113
+9.Aziz TA, Hussain SA, Mahwi TO, et al.The efficacy and safety ofGingko bilobaextract as an adjuvant in type 2 diabetes mellitus patients ineffectively managed withmetformin: a double-blind, randomized, placebo-controlled trial.Drug Des Devel Ther.12:735-742, 2018. doi: 10.2147/DDDT.S157113
+10.Diamond BJ, Bailey MR.Ginkgo biloba: indications, mechanisms, and safety.Psychiatr Clin North Am.2013 Mar;36(1):73-83.doi: 10.1016/j.psc.2012.12.006
+10.Diamond BJ, Bailey MR.Ginkgo biloba: indications, mechanisms, and safety.Psychiatr Clin North Am.2013 Mar;36(1):73-83.doi: 10.1016/j.psc.2012.12.006
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Gingko
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Gingko

@@ -1,0 +1,25 @@
+标题：食管感染性疾病
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/esophageal-and-swallowing-disorders/infectious-esophageal-disorders
+============================================================
+
+（参见食管和吞咽性疾病概述。）
+食管感染在机体防御功能正常的人群中罕见。食管主要的防御机制包括唾液、食管运动和细胞免疫。因此，感染高危人群包括AIDS、器官移植、酗酒、糖尿病、营养不良、癌症和食管运动障碍疾病患者。此外，吞咽或吸入皮质类固醇可能会增加感染性食管炎的风险。这些患者均有可能发生Candida（念珠菌）感染。单纯疱疹病毒 (HSV) 和巨细胞病毒 (CMV) 感染主要发生在 HIV 感染者或移植患者身上。
+
+【念珠菌性食管炎】
+患有念珠菌性食管炎的患者常诉吞咽痛，吞咽困难少见。
+约2/3患者有口腔鹅口疮（因此无鹅口疮时不能排除食管受累）。有吞咽痛和典型鹅口疮的患者，可经验性治疗，如果5～7天后症状没有明显改善，需内镜检查。钡餐检查准确性不高。
+弥漫性白色斑块是典型的Candida食道炎。
+Image provided by Kristle Lynch, MD.
+Candida（念珠菌）食管炎的治疗是氟康唑 200-400 毫克，口服或静脉给药，每日 1 次，疗程 14-21 天 (1)。替代方案包括其他唑类药物（如伊曲康唑、伏立康唑、泊沙康唑）或棘白菌素类药物（如卡泊芬净、米卡芬净、阿尼芬净）。局部治疗无效。
+
+【参考文献】
+1.Pappas PG, Kauffman CA, Andes DR, et al: Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America.Clin Infect Dis62(4):e1-e50, 2016.doi: 10.1093/cid/civ933
+1.Pappas PG, Kauffman CA, Andes DR, et al: Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America.Clin Infect Dis62(4):e1-e50, 2016.doi: 10.1093/cid/civ933
+
+【单纯疱疹病毒性食管炎与巨细胞病毒性食管炎】
+这些感染在移植患者中同样可能发生，但单纯疱疹病毒（HSV）食管炎在移植后早期发生（再激活），而巨细胞病毒（CMV）食管炎发生在移植后2至6个月。在 HIV 患者中，CMV 感染比 HSV 常见得多，病毒性食管炎主要发生于 CD4 + 细胞计数<200/微升时。两种感染均可导致严重的吞咽痛。
+局灶性溃疡是单纯疱疹病毒性食管炎的典型表现。
+Image provided by David M.Martin, MD.
+诊断通常需要内镜并行细胞学或活检检查。
+HSV 可通过口服或静脉注射阿昔洛韦、伐昔洛韦或泛昔洛韦来治疗。免疫功能低下患者的治疗时间通常（即 14 至 21 天）比免疫功能正常的患者（7 至 10 天）更长。
+对于免疫功能低下的患者，CMV 通常采用静脉注射更昔洛韦或口服缬更昔洛韦来治疗。其他药物包括膦甲酸钠和西多福韦。

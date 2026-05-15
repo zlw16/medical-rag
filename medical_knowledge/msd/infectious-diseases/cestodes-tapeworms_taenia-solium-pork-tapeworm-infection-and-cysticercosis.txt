@@ -1,0 +1,126 @@
+标题：猪带绦虫（猪肉绦虫）感染和囊尾蚴病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/cestodes-tapeworms/taenia-solium-pork-tapeworm-infection-and-cysticercosis
+============================================================
+
+T. solium（猪带绦虫）成虫肠道感染的临床表现、诊断和处理类似于牛带绦虫(牛肉绦虫）感染。
+当人类作为T. solium的中间宿主时，便会引发囊尾蚴病。人类通过摄入感染个体粪便中的猪带绦虫卵，或摄入自身绦虫的卵（外源性自身感染）而发展囊尾蚴病。妊娠先祖体胃内逆行性自身感染也被认为是自身感染的一种机制，但尚未得到证实。
+成虫可在小肠中定居多年。可达2～8m长，产生的孕节片近1000个；每个约含有约50,000个虫卵。
+
+【猪带绦虫生活史】
+猪带绦虫生活史
+人体摄入污染的猪肉可导致肠道猪带绦虫成虫感染，或摄入虫卵后发展为囊尾蚴病（从而使人类成为中间宿主）。
+1.人类摄入含有囊尾蚴（幼虫）的生猪肉或未煮熟的猪肉。
+1.人类摄入含有囊尾蚴（幼虫）的生猪肉或未煮熟的猪肉。
+2.摄入后，包囊外翻，通过头节附着在小肠上，并在大约 2 个月内成熟为成虫。
+2.摄入后，包囊外翻，通过头节附着在小肠上，并在大约 2 个月内成熟为成虫。
+3.成虫产生节片，节片随后变为孕节；它们脱离绦虫并移行到肛门。
+3.成虫产生节片，节片随后变为孕节；它们脱离绦虫并移行到肛门。
+4.分离的节片、虫卵或两者都通过粪便从最终宿主（人类）排出。
+4.分离的节片、虫卵或两者都通过粪便从最终宿主（人类）排出。
+5.猪或人类因摄入含胚卵或孕节（例如，在被粪便污染的食物中）而被感染。孕节片在人体反胃时可从肠道进入到胃发生自体再感染。
+5.猪或人类因摄入含胚卵或孕节（例如，在被粪便污染的食物中）而被感染。孕节片在人体反胃时可从肠道进入到胃发生自体再感染。
+6.虫卵被摄入后，它们在肠道中孵化并释放出六钩蚴，六钩蚴穿透肠壁。
+6.虫卵被摄入后，它们在肠道中孵化并释放出六钩蚴，六钩蚴穿透肠壁。
+7.六钩蚴通过血流到达横纹肌和大脑、肝脏和其他器官，在那里它们发育成囊尾蚴。可导致囊尾蚴病。
+7.六钩蚴通过血流到达横纹肌和大脑、肝脏和其他器官，在那里它们发育成囊尾蚴。可导致囊尾蚴病。
+绦虫病和囊尾蚴病呈全球性分布。囊尾蚴病十分普遍，在拉丁美洲，神经囊尾蚴病是癫痫发作的一个主要原因。囊尾蚴病在猪肉消费量低的国家很少见。在美国或加拿大，未出国旅行者感染罕见，但若接触曾到访流行区并携带T. solium成虫者粪便排出的虫卵，仍可能发生感染。
+罕见情况下，除T. solium（猪带绦虫）外的其他Taenia（绦虫）物种可引起神经囊尾蚴病。
+
+【症状和体征】
+
+【肠道感染】
+感染T. solium（猪带绦虫）成虫的人类无症状或仅有轻微的胃肠道不适。大便中可发现节片。
+
+【囊尾蚴病】
+大多数器官中的活囊尾蚴（幼虫形态）通常引起轻微或无组织反应。然而，当中枢神经系统、眼睛或脊髓中的囊虫开始退化时，它们会释放出能引发强烈炎症反应的抗原。这一过程通常发生在初次感染数年后。神经囊虫病（脑部感染）可引起严重的症状，由于囊肿的肿块效应和它们变性引起的炎症。
+因囊尾蚴所在位置及数量的不同，神经囊尾蚴病患者可出现癫痫发作、颅内压增高体征、脑积水、局灶性神经体征、精神状态改变、头痛或无菌性脑膜炎。
+囊尾蚴也可感染脊髓、肌肉、皮下组织和眼睛。
+幼虫感染后可产生显著的二次免疫。
+粪便显微镜检查虫卵及节片。
+粪便显微镜检查虫卵及节片。
+对有中枢神经系统症状的患者进行头颅CT和/或MRI检查及血清学检测
+对有中枢神经系统症状的患者进行头颅CT和/或MRI检查及血清学检测
+由T. solium（猪带绦虫）成虫引起的肠道感染通常可通过粪便标本的显微镜检查和虫卵及/或节片的鉴定来诊断。但是，其虫卵与T. saginata（牛带绦虫）和T. asiatica的虫卵无法区分。
+约10%至30%的囊尾蚴病患者粪便样本中可检出T. solium虫卵（1-3）。因此，虽然肠带绦虫病的存在可以支持神经囊虫病的诊断，但阴性结果不能排除神经囊虫病，粪便阳性结果也不能诊断。
+使用CT或MRI评估神经系统症状时，通常可诊断脑囊虫病。扫描可显示实性结节，囊尾蚴，钙化囊肿，环形强化病灶或脑积水。美国疾病控制和预防中心的免疫印迹检测(使用血清或脑脊液标本)具有高度特异性，比其他酶免疫检测更敏感(特别是当存在>2个中枢神经系统病变时；当只有一个囊肿时，敏感性较低)。请注意，基于抗体的检测（例如免疫印迹）无法区分活动性感染和非活动性感染。
+基于单克隆抗体的抗原检测试剂盒在欧洲已上市。与实质疾病相比，抗原检测分析似乎对蛛网膜下腔和室性神经囊尾蚴病具有更高的敏感性。使用脑脊液而不是血清时，抗原检测的灵敏度提高；然而，假阴性结果在实质疾病中可能很常见（4）。
+
+【经验与提示】
+经验与提示
+在猪囊尾蚴病患者的粪便样本中，≤50%存在T. solium（猪带绦虫）虫卵。
+在猪囊尾蚴病患者的粪便样本中，≤50%存在T. solium（猪带绦虫）虫卵。
+
+【诊断参考】
+1.Garcia HH, Del Brutto OH; Cysticercosis Working Group in Peru.Neurocysticercosis: updated concepts about an old disease.Lancet Neurol.2005;4(10):653-661.doi:10.1016/S1474-4422(05)70194-0
+1.Garcia HH, Del Brutto OH; Cysticercosis Working Group in Peru.Neurocysticercosis: updated concepts about an old disease.Lancet Neurol.2005;4(10):653-661.doi:10.1016/S1474-4422(05)70194-0
+2.Centers for Disease Control and Prevention.Clinical Overview of Taeniasis.May 3, 2024.Accessed September 18, 2025.
+2.Centers for Disease Control and Prevention.Clinical Overview of Taeniasis.May 3, 2024.Accessed September 18, 2025.
+3.White AC Jr.Neurocysticercosis: updates on epidemiology, pathogenesis, diagnosis, and management.Annu Rev Med.2000;51:187-206.doi:10.1146/annurev.med.51.1.187
+3.White AC Jr.Neurocysticercosis: updates on epidemiology, pathogenesis, diagnosis, and management.Annu Rev Med.2000;51:187-206.doi:10.1146/annurev.med.51.1.187
+4.Pineda-Reyes R, White AC Jr.Neurocysticercosis: an update on diagnosis, treatment, and prevention.Curr Opin Infect Dis.35(3):246-254, 2022.doi:10.1097/QCO.0000000000000831
+4.Pineda-Reyes R, White AC Jr.Neurocysticercosis: an update on diagnosis, treatment, and prevention.Curr Opin Infect Dis.35(3):246-254, 2022.doi:10.1097/QCO.0000000000000831
+肠道感染 （无神经囊尾蚴病）：吡喹酮或氯硝柳胺（美国尚无）
+肠道感染 （无神经囊尾蚴病）：吡喹酮或氯硝柳胺（美国尚无）
+囊尾蚴病：皮质激素、抗惊厥药物，有时需要阿苯达唑或吡喹酮和/或手术治疗
+囊尾蚴病：皮质激素、抗惊厥药物，有时需要阿苯达唑或吡喹酮和/或手术治疗
+
+【肠道感染的治疗】
+肠道感染可用吡喹酮治疗；或者在美国以外可用氯硝柳胺治疗（1）。
+治疗结束后三个月应重复检测粪便样本，以验证治愈情况。
+同时患有脑囊虫病（包括以前无症状或未被识别的疾病）的患者应谨慎使用抗寄生虫药物，因为杀死大脑中的囊肿可能会引发与癫痫或其他症状相关的炎症反应。
+
+【神经囊尾蚴病的治疗】
+脑囊虫病的治疗很复杂。临床实践指南可从美国传染病学会和美国热带医学与卫生学会（2017年）（1）以及世界卫生组织（2021年）（2）获得。
+症状性神经囊尾蚴病的初始治疗目标是
+减少囊尾蚴退变相关的炎症（经MRI记录）
+减少囊尾蚴退变相关的炎症（经MRI记录）
+防止癫痫发作，若存在癫痫或发作风险很高
+防止癫痫发作，若存在癫痫或发作风险很高
+缓解颅内压升高，如果存在
+缓解颅内压升高，如果存在
+糖皮质激素（泼尼松或地塞米松）用于减轻炎症及降低颅内压。长期接受糖皮质激素治疗者应评估是否合并潜伏结核病及类圆线虫病，并预防性使用抗生素以预防肺孢子菌肺炎（3，4）。
+对于癫痫发作患者可给予传统的抗惊厥药。这些药物可以预防性用于高癫痫发作风险的患者，特别是那些伴有炎症相关多发退行性病变的患者。
+高颅压或脑室内囊虫病患者可能需要进行神经外科干预。
+神经囊尾蚴病的驱虫治疗复杂，建议在专家的指导下进行。启动抗蠕虫治疗并非紧急事项，关键需在糖皮质激素控制炎症后再行抗蠕虫治疗。治疗的选择取决于囊尾蚴的位置、数量、生存力和大小，疾病阶段以及临床表现。 在进行驱虫治疗之前，应进行眼科检查以排除眼囊尾蚴的存在。 颅内压升高不受控制的患者切勿服用抗蠕虫药物，因为典型的强烈炎症反应可能产生潜在影响。
+并不是所有的患者都对治疗有反应，而且也并不是所有的患者都必须治疗（包囊可能已经死亡或钙化，或对治疗所产生的炎症反应可能比疾病本身还要严重），如患者有大量囊肿和广泛的脑部炎症时的囊尾蚴脑炎）。
+当使用驱虫治疗时，阿苯达唑似乎比吡喹酮更有效。据报道，对于超过 2 个实质囊肿的患者，阿苯达唑联合吡喹酮比单独使用阿苯达唑的影像学消退率更高 (5, 6)。 阿苯达唑单独或与吡喹酮联合给药 ≥ 30 天已用于治疗蛛网膜下腔囊肿（总状囊尾蚴病），这些囊肿对驱虫药的反应较差。 接受长期、高剂量阿苯达唑治疗的患者需要监测骨髓抑制和药物相关肝炎。抗蠕虫药物不会迅速缓解症状。因此，抗蠕虫药应与癫痫、炎症和/或脑积水的症状治疗结合使用。每 6 个月重复一次神经影像学检查，直到影像学发现消退。
+强的松或地塞米松应在驱虫药给药前几天开始使用，并贯穿整个给药过程，以减少因大脑中囊肿死亡引起的炎症。糖皮质激素可增加阿苯达唑活性代谢物在脑脊液中的浓度，但会降低吡喹酮在脑脊液中的浓度。甲氨蝶呤已被用作需要超过 2 周抗炎治疗的患者的皮质类固醇保留剂。
+阿苯达唑和吡喹酮禁用于眼或脊髓囊虫病患者，因为囊尾蚴死亡可能引起炎症反应。
+脑室内囊尾蚴是驱虫药物治疗的相对禁忌症，因为由垂死囊肿引发的炎症反应可导致阻塞性脑积水。
+阻塞性脑积水（由脑室内囊尾蚴导致，包括第4脑室）、脊髓或眼囊尾蚴病可能需外科手术治疗。可能的情况下，可通过内窥镜取出脑室内囊尾蚴。可行脑室分流术以降低颅内压力。
+
+【治疗参考文献】
+1.White AC Jr, Coyle CM, Rajshekhar V, et al.Diagnosis and Treatment of Neurocysticercosis: 2017 Clinical Practice Guidelines by the Infectious Diseases Society of America (IDSA) and the American Society of Tropical Medicine and Hygiene (ASTMH).Clin Infect Dis.2018;66(8):e49-e75.doi:10.1093/cid/cix1084
+1.White AC Jr, Coyle CM, Rajshekhar V, et al.Diagnosis and Treatment of Neurocysticercosis: 2017 Clinical Practice Guidelines by the Infectious Diseases Society of America (IDSA) and the American Society of Tropical Medicine and Hygiene (ASTMH).Clin Infect Dis.2018;66(8):e49-e75.doi:10.1093/cid/cix1084
+2.WHO guidelines on management of Taenia solium neurocysticercosis.Geneva: World Health Organization; 2021.
+2.WHO guidelines on management of Taenia solium neurocysticercosis.Geneva: World Health Organization; 2021.
+3.Winthrop KL, Baddley JW.Pneumocystis and glucocorticoid use: to prophylax or not to prophylax (and when?); that is the question.Ann Rheum Dis.77(5):631-633, 2018.doi:10.1136/annrheumdis-2017-212588
+3.Winthrop KL, Baddley JW.Pneumocystis and glucocorticoid use: to prophylax or not to prophylax (and when?); that is the question.Ann Rheum Dis.77(5):631-633, 2018.doi:10.1136/annrheumdis-2017-212588
+4.Park JW, Curtis JR, Moon J, Song YW, Kim S, Lee EB.Prophylactic effect oftrimethoprim-sulfamethoxazolefor pneumocystis pneumonia in patients with rheumatic diseases exposed to prolonged high-dose glucocorticoids.Ann Rheum Dis.77(5):644-649, 2018.doi:10.1136/annrheumdis-2017-211796
+4.Park JW, Curtis JR, Moon J, Song YW, Kim S, Lee EB.Prophylactic effect oftrimethoprim-sulfamethoxazolefor pneumocystis pneumonia in patients with rheumatic diseases exposed to prolonged high-dose glucocorticoids.Ann Rheum Dis.77(5):644-649, 2018.doi:10.1136/annrheumdis-2017-211796
+5.Garcia HH, Gonzales I, Lescano AG, et al.Efficacy of combined antiparasitic therapy with praziquantel and albendazole for neurocysticercosis: a double-blind, randomised controlled trial.Lancet Infect Dis.2014;14(8):687-695.doi:10.1016/S1473-3099(14)70779-0
+5.Garcia HH, Gonzales I, Lescano AG, et al.Efficacy of combined antiparasitic therapy with praziquantel and albendazole for neurocysticercosis: a double-blind, randomised controlled trial.Lancet Infect Dis.2014;14(8):687-695.doi:10.1016/S1473-3099(14)70779-0
+6.Garcia HH, Lescano AG, Gonzales I, et al.Cysticidal Efficacy of Combined Treatment With Praziquantel and Albendazole for Parenchymal Brain Cysticercosis.Clin Infect Dis.2016;62(11):1375-1379.doi:10.1093/cid/ciw134
+6.Garcia HH, Lescano AG, Gonzales I, et al.Cysticidal Efficacy of Combined Treatment With Praziquantel and Albendazole for Parenchymal Brain Cysticercosis.Clin Infect Dis.2016;62(11):1375-1379.doi:10.1093/cid/ciw134
+将整块猪肉烹饪至≥63°C（≥145°F），用食物温度计测量肉最厚的部分，然后将肉静置3分钟再切开或食用，可以预防肠T. solium感染。猪肉末应煮到≥71°C（≥160°F）。猪肉末不需要静置。
+发现并治疗绦虫成虫携带者是预防囊虫病的一项重要的公共卫生措施。在美国，传染源一般为在流行地区感染后的人群，他们的肠道中有绦虫成虫，通过他们的粪便污染食物。教育流行地区的食品处理人员并遵守良好的洗手习惯非常重要。
+当旅行到卫生条件差的流行地区时，人们应该小心避免食用那些可能被人排泄物污染的食物，避免食用生的、煮得不熟的猪肉。
+通过联合使用驱虫药物（猪用奥芬达唑和人用吡喹酮）、接种猪用疫苗TSOL18以及公共卫生教育，猪肉和人类带绦虫病的患病率已显著降低（1）。
+
+【预防参考文献】
+1.Gabriël S, Mwape KE, Hobbs EC, et al.Evidence for potential elimination of active Taenia solium transmission in Africa?.N Engl J Med.2020;383(4):396-397.doi:10.1056/NEJMc1909955
+1.Gabriël S, Mwape KE, Hobbs EC, et al.Evidence for potential elimination of active Taenia solium transmission in Africa?.N Engl J Med.2020;383(4):396-397.doi:10.1056/NEJMc1909955
+摄入T. solium的包囊可引起肠道感染；摄入虫卵可导致组织囊肿（囊尾蚴病），若病灶在颅内则可引起严重症状。
+摄入T. solium的包囊可引起肠道感染；摄入虫卵可导致组织囊肿（囊尾蚴病），若病灶在颅内则可引起严重症状。
+神经囊尾蚴病患者可有癫痫发作、颅内压增高的征象、神志改变、局灶神经系统体征或无菌性脑膜炎。
+神经囊尾蚴病患者可有癫痫发作、颅内压增高的征象、神志改变、局灶神经系统体征或无菌性脑膜炎。
+粪便发现成虫节片、显微镜检粪便标本发现虫卵可诊断成虫肠道感染。
+粪便发现成虫节片、显微镜检粪便标本发现虫卵可诊断成虫肠道感染。
+通过神经影像学和血清学检测诊断神经囊尾蚴病。
+通过神经影像学和血清学检测诊断神经囊尾蚴病。
+可用吡喹酮治疗肠道感染。
+可用吡喹酮治疗肠道感染。
+神经囊尾蚴病的诊治需咨询专家；通常对伴有癫痫发作或癫痫高风险患者联合使用糖皮质激素与抗癫痫药物。
+神经囊尾蚴病的诊治需咨询专家；通常对伴有癫痫发作或癫痫高风险患者联合使用糖皮质激素与抗癫痫药物。
+根据病灶位置、数量、大小，疾病阶段和临床表现选择驱虫药物和/或外科手术治疗神经囊尾蚴病。
+根据病灶位置、数量、大小，疾病阶段和临床表现选择驱虫药物和/或外科手术治疗神经囊尾蚴病。

@@ -1,0 +1,35 @@
+标题：感染性屈肌腱鞘炎
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/hand-disorders/infectious-flexor-tenosynovitis
+============================================================
+
+（参见手部疾病的概述与评估）。
+感染性屈肌腱鞘炎常见的病因为穿通伤和腱鞘内细菌滋生。
+
+【感染性屈肌腱鞘炎的诊断】
+Kanavel征
+Kanavel征
+射线照片
+射线照片
+引流或手术样本的培养
+引流或手术样本的培养
+感染性屈肌腱鞘炎可以引起Kanavel征：
+手指呈屈曲静止状态
+手指呈屈曲静止状态
+梭形肿胀
+梭形肿胀
+沿着屈肌腱鞘的触痛
+沿着屈肌腱鞘的触痛
+被动伸指时的疼痛感
+被动伸指时的疼痛感
+X线检查查找隐匿性异物。 急性钙化性肌腱炎和类风湿关节炎都可导致腱鞘活动受限和疼痛，但与感染性的屈肌腱鞘炎相比，前两者为慢性进展性发病，且无Kanavel征表现，以此可加以鉴别。
+播散性淋球菌感染可以引起腱鞘炎但常累及多关节（尤其是腕关节、指关节、踝关节和足趾关节），且患者近期多有发热、皮疹、游走性多关节痛，并通常有性传播疾病的危险因素。肌腱鞘的感染可能涉及非结核分枝杆菌，但这些感染通常无症状，尤其是免疫功能低下的患者（1)。应询问接触水族馆或其他积水的病史，以确定海洋分枝杆菌感染。
+
+【诊断参考文献】
+1.Kazmers NH, Fryhofer GW, Gittings D, et al: Acute deep infections of the upper extremity: The utility of obtaining atypical cultures in the presence of purulence.J Hand Surg Am42(8):663.e1-663.e8, 2017.doi: 10.1016/j.jhsa.2017.05.004.Epub 2017 May 25.PMID: 28550986.
+1.Kazmers NH, Fryhofer GW, Gittings D, et al: Acute deep infections of the upper extremity: The utility of obtaining atypical cultures in the presence of purulence.J Hand Surg Am42(8):663.e1-663.e8, 2017.doi: 10.1016/j.jhsa.2017.05.004.Epub 2017 May 25.PMID: 28550986.
+
+【感染性屈肌腱鞘炎的治疗】
+外科引流术和抗生素治疗
+外科引流术和抗生素治疗
+感染性屈肌腱炎的治疗方法是手术引流（如在腱鞘的一端插入一根套管，使灌洗液沿着肌腱鞘穿流到另一端；对于更严重的感染，进行广泛的开放性切口）。
+还需要进行抗生素治疗（从经验性使用头孢菌素开始）和培养。在耐甲氧西林金黄色葡萄球菌（MRSA）流行的地区，则以甲氧苄啶/磺胺甲噁唑、克林霉素、多西环素或利奈唑胺代替头孢菌素治疗。抗生素的选择最终应以微生物学和敏感性数据（如果有）为指导。如果怀疑存在分枝杆菌或真菌感染，应通知微生物学实验室。

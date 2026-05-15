@@ -1,0 +1,120 @@
+标题：儿童和青少年急性创伤后应激障碍（ASD和PTSD）
+来源：https://www.msdmanuals.cn/professional/pediatrics/psychiatric-disorders-in-children-and-adolescents/acute-and-posttraumatic-stress-disorders-asd-and-ptsd-in-children-and-adolescents
+============================================================
+
+(参见急性应激障碍和成人创伤后应激障碍。）
+急性应激障碍（ASD）与创伤后应激障碍（PTSD）均属于创伤及应激相关障碍。历史上曾被视为焦虑障碍，现已被确认为独立病症，因为许多患者并无焦虑症状，而是表现出其他征象。
+在美国，青少年中PTSD的终生患病率为5%，其中女性（7.3%）明显高于男性（2.2%）（1）。大多数人描述了至少一次潜在的创伤经历。在世界某些地区，战争和其他应激源可能导致患病率显著增高（2，3）。由于个体的脆弱性与性情各不相同，并非所有经历严重创伤事件的儿童最终都会发展出应激障碍。与这些障碍相关的创伤性事件通常包括身体和/或性侵犯、车祸、犬类袭击以及伤害（尤其是烧伤）。在幼儿中，家庭暴力（尤其是照顾者之间的亲密伴侣暴力）通常与创伤后应激障碍有关（4）。
+对于 6 岁及以下的儿童，需要直接体验创伤事件。6岁及以上的青少年不必直接经历创伤事件；如果他们目睹他人发生的创伤事件（即使是通过媒体接触，5）或者了解到某个亲密的家庭成员发生了这种事，他们可能会产生应激障碍。
+
+【参考文献】
+1.McLaughlin KA, Koenen KC, Hill ED, et al.Trauma exposure and posttraumatic stress disorder in a national sample of adolescents.J Am Acad Child Adolesc Psychiatry.2013;52(8):815-830.e14.doi:10.1016/j.jaac.2013.05.011
+1.McLaughlin KA, Koenen KC, Hill ED, et al.Trauma exposure and posttraumatic stress disorder in a national sample of adolescents.J Am Acad Child Adolesc Psychiatry.2013;52(8):815-830.e14.doi:10.1016/j.jaac.2013.05.011
+2.Agbaria N, Petzold S, Deckert A, et al.Prevalence of post-traumatic stress disorder among Palestinian children and adolescents exposed to political violence: A systematic review and meta-analysis.PLoS One.2021;16(8):e0256426.Published 2021 Aug 26.doi:10.1371/journal.pone.0256426
+2.Agbaria N, Petzold S, Deckert A, et al.Prevalence of post-traumatic stress disorder among Palestinian children and adolescents exposed to political violence: A systematic review and meta-analysis.PLoS One.2021;16(8):e0256426.Published 2021 Aug 26.doi:10.1371/journal.pone.0256426
+3.Kanan J, Leão T.Post-traumatic stress disorder in youth exposed to the Syrian conflict: A systematic review and meta-analysis of prevalence and determinants.J Health Psychol.2024;29(13):1433-1449.doi:10.1177/13591053221123141
+3.Kanan J, Leão T.Post-traumatic stress disorder in youth exposed to the Syrian conflict: A systematic review and meta-analysis of prevalence and determinants.J Health Psychol.2024;29(13):1433-1449.doi:10.1177/13591053221123141
+4.Woolgar F, Garfield H, Dalgleish T, Meiser-Stedman R.Systematic Review and Meta-analysis: Prevalence of Posttraumatic Stress Disorder in Trauma-Exposed Preschool-Aged Children.J Am Acad Child Adolesc Psychiatry.2022;61(3):366-377.doi:10.1016/j.jaac.2021.05.026
+4.Woolgar F, Garfield H, Dalgleish T, Meiser-Stedman R.Systematic Review and Meta-analysis: Prevalence of Posttraumatic Stress Disorder in Trauma-Exposed Preschool-Aged Children.J Am Acad Child Adolesc Psychiatry.2022;61(3):366-377.doi:10.1016/j.jaac.2021.05.026
+5.Comer JS, Kendall PC.Terrorism: The psychological impact on youth.Clin Psychol14:179-212, 2007.
+5.Comer JS, Kendall PC.Terrorism: The psychological impact on youth.Clin Psychol14:179-212, 2007.
+
+【急性应激障碍（ASD）与创伤后应激障碍（PTSD）的病因学】
+仅有约50%的创伤后应激障碍病例起源于急性应激障碍（1）。先前存在的焦虑和抑郁也是PTSD发展的危险因素，需要在评估中加以考虑。
+其它危险因素包括 (2):
+创伤的严重程度
+创伤的严重程度
+相关的身体伤害
+相关的身体伤害
+儿童和家庭成员潜在的韧性和气质
+儿童和家庭成员潜在的韧性和气质
+社会经济地位
+社会经济地位
+童年逆境（3）
+童年逆境（3）
+家庭功能障碍
+家庭功能障碍
+少数地位
+少数地位
+家族性精神疾病史
+家族性精神疾病史
+
+【病因参考文献】
+1.Bryant RA.Acute stress disorder as a predictor of posttraumatic stress disorder: a systematic review.J Clin Psychiatry.2011;72(2):233-239.doi:10.4088/JCP.09r05072blu
+1.Bryant RA.Acute stress disorder as a predictor of posttraumatic stress disorder: a systematic review.J Clin Psychiatry.2011;72(2):233-239.doi:10.4088/JCP.09r05072blu
+2.Trickey D, Siddaway AP, Meiser-Stedman R, et al.A meta-analysis of risk factors for post-traumatic stress disorder in children and adolescents.Clin Psychol Rev.32(2):122-138, 2012.doi: 10.1016/j.cpr.2011.12.001
+2.Trickey D, Siddaway AP, Meiser-Stedman R, et al.A meta-analysis of risk factors for post-traumatic stress disorder in children and adolescents.Clin Psychol Rev.32(2):122-138, 2012.doi: 10.1016/j.cpr.2011.12.001
+3.Adverse Childhood Experience (ACE) Response.Accessed September 26 2025.
+3.Adverse Childhood Experience (ACE) Response.Accessed September 26 2025.
+
+【ASD 与 PTSD 的症状与体征】
+急性应激障碍（ASD）与创伤后应激障碍（PTSD）的症状相似，通常包含以下表现的组合：
+侵入性症状（例如，害怕再次经历创伤事件）：反复出现、非自愿且令人痛苦的创伤事件记忆或梦境（对于<6岁以下的儿童，可能难以判断其痛苦梦境是否与事件相关）；分离性反应（通常表现为闪回，患者会再次体验创伤，但幼儿可能经常在游戏中重演该事件）；以及对与创伤某方面相似的内外部线索（如看到狗或与施害者相似的人）产生显著的生理反应
+侵入性症状（例如，害怕再次经历创伤事件）：反复出现、非自愿且令人痛苦的创伤事件记忆或梦境（对于<6岁以下的儿童，可能难以判断其痛苦梦境是否与事件相关）；分离性反应（通常表现为闪回，患者会再次体验创伤，但幼儿可能经常在游戏中重演该事件）；以及对与创伤某方面相似的内外部线索（如看到狗或与施害者相似的人）产生显著的生理反应
+回避症状：持续回避创伤的记忆、情感或外部提醒。
+回避症状：持续回避创伤的记忆、情感或外部提醒。
+对认知和/或情绪的负面影响：无法记住创伤事件的重要方面、对创伤原因和/或后果的扭曲认知（如自责或认为通过某些行动可避免事件）、积极情绪减少而消极情绪（恐惧、内疚、悲伤、羞耻、困惑）增加、普遍缺乏兴趣、社交退缩、主观麻木感，以及对未来的消极预期（如“我活不到20岁”）
+对认知和/或情绪的负面影响：无法记住创伤事件的重要方面、对创伤原因和/或后果的扭曲认知（如自责或认为通过某些行动可避免事件）、积极情绪减少而消极情绪（恐惧、内疚、悲伤、羞耻、困惑）增加、普遍缺乏兴趣、社交退缩、主观麻木感，以及对未来的消极预期（如“我活不到20岁”）
+改变的觉醒和/或反应（例如，反应过度）： 神经过敏，夸张的惊吓反应，难以放松，难以集中，中断睡眠（有时伴有频繁的噩梦）和侵略性或鲁莽行为。
+改变的觉醒和/或反应（例如，反应过度）： 神经过敏，夸张的惊吓反应，难以放松，难以集中，中断睡眠（有时伴有频繁的噩梦）和侵略性或鲁莽行为。
+分离症状：感到与身体分离（如置身梦境）或觉得世界不真实
+分离症状：感到与身体分离（如置身梦境）或觉得世界不真实
+通常情况下，ASD儿童处于恍惚状态，可能看起来与日常环境脱离。
+PTSD儿童有侵入性回忆，导致他们重新经历创伤事件。最显著的一种回忆形式是闪回。闪回可能是自发的，但通常由与原创伤相关的事物触发。例如，见到狗可能会在经历过狗攻击的儿童中引发闪回。在闪回期间，儿童可能处于恐惧状态，无法察觉当前环境，同时拼命寻找隐藏或逃跑的方式；他们可能暂时失去对现实的联系，认为自己处于极度危险之中。有些孩子也可能做噩梦。当儿童通过其他方式（如想法、心理意象或回忆）重历事件时，他们仍能感知当前环境，但可能极度痛苦。
+
+【ASD 和 PTSD 的诊断】
+精神评估
+精神评估
+精神障碍诊断与统计手册, 第5版，文本修订（DSM-5-TR）标准
+精神障碍诊断与统计手册, 第5版，文本修订（DSM-5-TR）标准
+急性应激障碍（ASD）的诊断依据为：有遭受极度恐惧与骇人创伤的经历，随后出现创伤再体验、情感麻木及过度警觉症状（1）。这些症状必须严重到足以造成损伤或痛苦。症状持续时间为3天至1个月。
+创伤后应激障碍（PTSD）的诊断依据与急性应激障碍（ASD）相同的症状，但症状持续超过1个月。部分创伤后应激障碍（PTSD）病例可视为急性应激障碍（ASD）的延续或在创伤后6个月内发病，但多数ASD病例会自行缓解（2）。另一个重要的诊断标准是评估该障碍是否造成显著的痛苦，或在社会、工作及其他重要生活功能方面造成损害。临床医师还需排除物质（例如药物或酒精）或其他医学状况的生理效应，以免误诊为创伤后应激障碍（PTSD）。
+
+【诊断参考】
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), Washington: American Psychiatric Association, 2022.
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), Washington: American Psychiatric Association, 2022.
+2.Meiser-Stedman R, McKinnon A, Dixon C, Boyle A, Smith P, Dalgleish T.Acute stress disorder and the transition to posttraumatic stress disorder in children and adolescents: Prevalence, course, prognosis, diagnostic suitability, and risk markers.Depress Anxiety.2017;34(4):348-355.doi:10.1002/da.22602
+2.Meiser-Stedman R, McKinnon A, Dixon C, Boyle A, Smith P, Dalgleish T.Acute stress disorder and the transition to posttraumatic stress disorder in children and adolescents: Prevalence, course, prognosis, diagnostic suitability, and risk markers.Depress Anxiety.2017;34(4):348-355.doi:10.1002/da.22602
+
+【ASD 和 PTSD 的治疗】
+及时、支持性的心理社会干预
+及时、支持性的心理社会干预
+基于创伤的心理治疗
+基于创伤的心理治疗
+选择性5-羟色胺再摄取抑制剂（SSRIs），有时使用抗肾上腺素能药物
+选择性5-羟色胺再摄取抑制剂（SSRIs），有时使用抗肾上腺素能药物
+对于患有急性应激障碍（ASD）的儿童和青少年，重点是早期筛查和提供简短的社会心理干预（例如，支持性咨询，以创伤为重点的认知行为治疗）。这些干预若适时执行，可促进自然康复，预防慢性化及向创伤后应激障碍（PTSD）发展。
+据报道，基于创伤的心理治疗对患有 PTSD 的儿童有效（1, 2）。这些疗法包括认知疗法、儿童-父母心理疗法、以创伤为重点的认知行为疗法和父母训练的结合，以及眼动脱敏和再处理（EMDR）。其中，眼动脱敏与再加工疗法（EMDR）通过在患者回忆创伤记忆时实施双侧刺激（通常为引导性眼球运动），被认为可帮助大脑重新处理创伤记忆及其相关的情绪反应。基于创伤的心理治疗涉及短期干预，使用认知行为技术来改变扭曲的思维、消极反应和行为。它还可以包括教授父母减压和沟通技巧。评估并治疗伴随的风险因素（如抑郁、焦虑）同样至关重要。
+精神支持疗法对存在创伤相关适应问题（灼伤）的患儿有益。行为疗法有助于对触发不良回忆的系统脱敏治疗（暴露疗法）。行为疗法在降低悲痛和PTSD儿童及青少年损伤上是有明确疗效的。
+由于尚未开展充分的临床试验，目前尚无获批用于儿童创伤后应激障碍（PTSD）的药物；现有证据表明，选择性5-羟色胺再摄取抑制剂（SSRIs）作为一线药物的作用有限（3）。然而，对于同时患有焦虑、抑郁和睡眠困难的青少年，SSRI 可能会有所帮助。
+抗肾上腺素能药物（如可乐定、胍法辛[4]、哌唑嗪[5]）或可缓解过度警觉症状，但支持数据尚属初步研究阶段。
+
+【治疗参考文献】
+1.Hoppen TH, Wessarges L, Jehn M, et al.Psychological Interventions for Pediatric Posttraumatic Stress Disorder: A Systematic Review and Network Meta-Analysis.JAMA Psychiatry.2025;82(2):130-141.doi:10.1001/jamapsychiatry.2024.3908
+1.Hoppen TH, Wessarges L, Jehn M, et al.Psychological Interventions for Pediatric Posttraumatic Stress Disorder: A Systematic Review and Network Meta-Analysis.JAMA Psychiatry.2025;82(2):130-141.doi:10.1001/jamapsychiatry.2024.3908
+2.Mavranezouli I, Megnin-Viggars O, Daly C, et al.Research Review: Psychological and psychosocial treatments for children and young people with post-traumatic stress disorder: a network meta-analysis. JChild Psychol Psychiatry.2020;61(1):18-29.doi:10.1111/jcpp.13094
+2.Mavranezouli I, Megnin-Viggars O, Daly C, et al.Research Review: Psychological and psychosocial treatments for children and young people with post-traumatic stress disorder: a network meta-analysis. JChild Psychol Psychiatry.2020;61(1):18-29.doi:10.1111/jcpp.13094
+3.Strawn JR, Keeshin BR, DelBello MP, et al.Psychopharmacologic treatment of posttraumatic stress disorder in children and adolescents: A review.J Clin Psychiatry.71(7):932-941, 2010.doi: 10.4088/JCP.09r05446blu
+3.Strawn JR, Keeshin BR, DelBello MP, et al.Psychopharmacologic treatment of posttraumatic stress disorder in children and adolescents: A review.J Clin Psychiatry.71(7):932-941, 2010.doi: 10.4088/JCP.09r05446blu
+4.Connor DF, Grasso DJ, Slivinsky MD, et al.An open-label study of guanfacine extended release for traumatic stress related symptoms in children and adolescents.J Child Adolesc Psychopharmacol.23(4):244-251, 2013.doi: 10.1089/cap.2012.0119
+4.Connor DF, Grasso DJ, Slivinsky MD, et al.An open-label study of guanfacine extended release for traumatic stress related symptoms in children and adolescents.J Child Adolesc Psychopharmacol.23(4):244-251, 2013.doi: 10.1089/cap.2012.0119
+5.Keeshin BR, Ding Q, Presson AP, et al.Use of prazosin for pediatric PTSD-associated nightmares and sleep disturbances: A retrospective chart review.Neurol Ther.6(2):247-257, 2017.doi: 10.1007/s40120-017-0078-4
+5.Keeshin BR, Ding Q, Presson AP, et al.Use of prazosin for pediatric PTSD-associated nightmares and sleep disturbances: A retrospective chart review.Neurol Ther.6(2):247-257, 2017.doi: 10.1007/s40120-017-0078-4
+
+【急性应激障碍（ASD）与创伤后应激障碍（PTSD）的预后】
+急性应激障碍（ASD）患儿的预后远优于创伤后应激障碍（PTSD）患者，但早期干预对两者均有裨益。多数罹患急性应激障碍（ASD）的儿童在创伤后数月内可自然康复，许多人在九周时症状已显著缓解（1）。然而，急性应激障碍（ASD）可预示后续发生创伤后应激障碍（PTSD），特别在早期即出现较多认知与情绪负面改变的个体中（2）。评估和治疗创伤后应激障碍中的焦虑与抑郁至关重要。
+创伤之前和之后的家庭和社会支持影响最终预后。
+
+【预后参考】
+1.Meiser-Stedman R, McKinnon A, Dixon C, Boyle A, Smith P, Dalgleish T.Acute stress disorder and the transition to posttraumatic stress disorder in children and adolescents: Prevalence, course, prognosis, diagnostic suitability, and risk markers.Depress Anxiety.2017;34(4):348-355.doi:10.1002/da.22602
+1.Meiser-Stedman R, McKinnon A, Dixon C, Boyle A, Smith P, Dalgleish T.Acute stress disorder and the transition to posttraumatic stress disorder in children and adolescents: Prevalence, course, prognosis, diagnostic suitability, and risk markers.Depress Anxiety.2017;34(4):348-355.doi:10.1002/da.22602
+2.Trickey D, Siddaway AP, Meiser-Stedman R, et al.A meta-analysis of risk factors for post-traumatic stress disorder in children and adolescents.Clin Psychol Rev.32(2):122-138, 2012.doi: 10.1016/j.cpr.2011.12.001
+2.Trickey D, Siddaway AP, Meiser-Stedman R, et al.A meta-analysis of risk factors for post-traumatic stress disorder in children and adolescents.Clin Psychol Rev.32(2):122-138, 2012.doi: 10.1016/j.cpr.2011.12.001
+急性应激障碍（ASD）通常在诱发创伤后立即发作，持续时间为3天至1个月；创伤后应激障碍（PTSD）则持续>1个月以上，既可能是ASD的延续，也可能在创伤发生6个月后才显现。
+急性应激障碍（ASD）通常在诱发创伤后立即发作，持续时间为3天至1个月；创伤后应激障碍（PTSD）则持续>1个月以上，既可能是ASD的延续，也可能在创伤发生6个月后才显现。
+应激障碍可能在儿童直接经历创伤事件、目击此类事件或得知亲近家庭成员遭遇此类事件后开始出现。
+应激障碍可能在儿童直接经历创伤事件、目击此类事件或得知亲近家庭成员遭遇此类事件后开始出现。
+ASD和PTSD的症状相似，通常包括侵入性症状(如重新经历事件)、回避性症状、对认知和/或情绪的负面影响(如情绪麻木)、觉醒和/或反应的改变，以及离解性症状。
+ASD和PTSD的症状相似，通常包括侵入性症状(如重新经历事件)、回避性症状、对认知和/或情绪的负面影响(如情绪麻木)、觉醒和/或反应的改变，以及离解性症状。
+采用以创伤为基础的心理疗法进行治疗，对于患有焦虑、抑郁和/或睡眠困难的儿童，使用 SSRIs；有时抗肾上腺素能药物可能会有所帮助。
+采用以创伤为基础的心理疗法进行治疗，对于患有焦虑、抑郁和/或睡眠困难的儿童，使用 SSRIs；有时抗肾上腺素能药物可能会有所帮助。

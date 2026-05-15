@@ -1,0 +1,99 @@
+标题：罗阿丝虫病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/nematodes-roundworms/loiasis
+============================================================
+
+罗阿丝虫病主要局限在西非和中非的雨林地带。人类是已知唯一一种罗阿罗阿寄生虫的自然宿主。
+（参见寄生虫感染途径和丝状线虫感染概述。)
+
+【罗阿丝虫病的病理生理学】
+罗阿罗阿微丝蚴是通过日间叮咬的虻科苍蝇（斑虻[鹿虻]）传播。微丝蚴在人类宿主的皮下组织成熟为成虫；雌虫体长40~70mm，雄虫体长30~34mm。成虫会生产微丝蚴。成虫在皮下组织和眼结膜下移行，而微丝蚴则在血流中循环。蝇虫在白天（微丝蚴水平最高时）叮咬人类可导致感染。
+1.当受感染的苍蝇叮咬人时，它会在人的皮肤上留下罗阿罗阿丝虫幼虫，幼虫随后进入咬伤处。
+1.当受感染的苍蝇叮咬人时，它会在人的皮肤上留下罗阿罗阿丝虫幼虫，幼虫随后进入咬伤处。
+2.幼虫在皮下组织中成熟为成虫。
+2.幼虫在皮下组织中成熟为成虫。
+3.成虫产生微丝蚴，白天在血液中循环，晚上在肺部被发现。微丝蚴可能出现在脊髓液、尿液和痰液中。
+3.成虫产生微丝蚴，白天在血液中循环，晚上在肺部被发现。微丝蚴可能出现在脊髓液、尿液和痰液中。
+4.蝇咬人时会摄取微丝蚴。
+4.蝇咬人时会摄取微丝蚴。
+5.在蝇体内，微丝蚴先到达中肠，然后到达胸肌。
+5.在蝇体内，微丝蚴先到达中肠，然后到达胸肌。
+6–7.在那里，微丝蚴发育成第一阶段（L1）幼虫，随后发育成第三阶段（L3）传染性幼虫。
+6–7.在那里，微丝蚴发育成第一阶段（L1）幼虫，随后发育成第三阶段（L3）传染性幼虫。
+8.幼虫移动到苍蝇的喙部，当苍蝇叮咬其他人时，幼虫可以传播给他们。
+8.幼虫移动到苍蝇的喙部，当苍蝇叮咬其他人时，幼虫可以传播给他们。
+Image from the Centers for Disease Control and Prevention, Global Health, Division of Parasitic Diseases and Malaria.
+感染有时可造成心肌病、肾病和脑炎。嗜酸性粒细胞增多常见，但不具有特异性。
+
+【罗阿丝虫病的症状和体征】
+多数感染者无症状。
+感染后产生的血管性水肿（Calabar肿胀）可见于人体的任何部位，但以肢体最为多见；这被认为是一种对移行成虫释放的变应原的过敏反应。对当地居民来说，肿胀通常持续1至3天；对游客来说，肿胀更为频繁且严重。虫体可穿过眼睛移行到结膜下。这种移行可能是令人不安的，但残留的眼睛损伤并不常见。
+肾病通常表现为蛋白尿，可伴有或不伴有轻度的血尿，这被认为是免疫复合物沉积导致的。
+脑病通常是轻度的，常伴有不明显的中枢神经系统（CNS）症状。
+
+【Loiasis的诊断】
+观察到结膜下有成虫横穿过眼球
+观察到结膜下有成虫横穿过眼球
+对从眼内或皮肤中取出的成虫进行鉴定
+对从眼内或皮肤中取出的成虫进行鉴定
+通过显微镜或定量聚合酶链反应（PCR）在血液中识别和定量微丝蚴
+通过显微镜或定量聚合酶链反应（PCR）在血液中识别和定量微丝蚴
+对有疾病流行地区接触史的移民或旅行者中，如眼部发现成虫，出现Calabar肿胀或原因不明的外周嗜酸性粒细胞增多症，应怀疑罗阿丝虫病。
+偶尔，通过观察在结膜下迁移的成虫或通过识别从眼睛或皮肤移除的虫体来确认罗阿丝虫病的诊断。
+显微镜下检测外周血中的微丝蚴可确定诊断；应量化每毫升血液中的微丝蚴数量。应在上午10点至下午2点之间采血，因为这时候的微丝蚴血症水平最高。
+但抗体血清学检测不能区分Loa loa罗阿丝虫和其他种丝虫感染。Loa loa罗阿丝虫特异性抗体检测已经开发应用，但在美国并不普及。此外，阳性血清学检测不能区分过去和当前的感染。国立卫生研究院的寄生虫实验室可以应用实时定量PCR（qPCR）进行明确诊断并确定微丝蚴的载量。
+在对来自非洲流行地区的人群应用乙胺嗪或伊维菌素治疗其他疾病时，应先检查是否有Loa loa（罗阿丝虫）感染，因为这些药物对患有罗阿丝虫病的患者有严重的不良反应。若使用乙胺嗪或伊维菌素治疗时，血液中Loa loa（罗阿丝虫）微丝蚴≥8000/mL的患者可能因微丝蚴死亡释放抗原引发潜在致命风险的脑病。
+
+【Loiasis的治疗】
+乙胺嗪 (DEC)
+乙胺嗪 (DEC)
+对于重度感染，用阿苯达唑和/或血浆分离术进行初始治疗
+对于重度感染，用阿苯达唑和/或血浆分离术进行初始治疗
+罗阿丝虫病的治疗很复杂。DEC是唯一能杀死微丝蚴和成虫的药物。在美国，只有在实验室确诊了罗阿丝虫病后才能从疾病控制与预防中心（CDC）获得治疗用药；临床医生在开始治疗前应寻求专家建议，在开始DEC治疗之前，他们应该做以下几点：
+检测血液中微丝蚴的数量，因为使用DEC治疗重度感染（＞8000微丝蚴/mL血液）时会导致潜在的致命性脑病
+检测血液中微丝蚴的数量，因为使用DEC治疗重度感染（＞8000微丝蚴/mL血液）时会导致潜在的致命性脑病
+排除合并盘尾丝虫感染，因为DEC可导致盘尾丝虫病患者的严重过敏反应(马佐提反应)，并可能会加重盘尾丝虫病患者的眼部和皮肤病变
+排除合并盘尾丝虫感染，因为DEC可导致盘尾丝虫病患者的严重过敏反应(马佐提反应)，并可能会加重盘尾丝虫病患者的眼部和皮肤病变
+临床医师在检测微丝蚴的数量时应寻求专家协助，从而确定感染的严重程度。
+
+【轻度感染的治疗】
+患有症状性罗阿丝虫病且血液中微丝蚴 < 8000条/毫升的患者，应给予 DEC 2.7 至 3.3 mg/kg，每日 3 次，共 21 天。
+接受≥2轮乙胺嗪（DEC）治疗未愈者，可给予阿苯达唑200 mg口服，每日2次，持续21天（1）。
+伊维菌素不是首选，因为重度感染的患者可能会出现严重不良反应（2）。
+
+【重度感染的治疗】
+在重度感染的患者中，丝虫抗原（随着乙胺嗪杀死微丝蚴而释放出来）可能会激发脑病，进而导致昏迷和死亡。血液中微丝蚴的量≥8000条/毫升的患者有出现这种不良反应的风险，可能受益于单采术或初始治疗，即口服阿苯达唑200毫克，每日2次，持续21天；目标是在开始DEC治疗前将微丝蚴负荷降至＜8000条/毫升。可能需要多个疗程的DEC治疗，并且在进行DEC治疗前应确认微丝蚴载量。
+
+【合并感染的治疗】
+同时感染罗阿丝虫病和盘尾丝虫病需要一种特殊的方法，因为Loa loa（罗阿丝虫）微丝蚴水平高的患者在接受治疗盘尾丝虫病的伊维菌素治疗后，可能会出现严重的不良反应。同样，DEC在患有盘尾丝虫病的患者中禁用，因为可能在皮肤和眼睛中引发严重的炎症反应（马佐蒂反应）。在两种寄生虫都流行的地区，估计约有31,000人面临共同感染的风险（3）。
+在轻度Loa loa（罗阿丝虫）合并感染（微丝蚴<8000条/毫升血液）的情况下，可以在使用乙胺嗪之前使用伊维菌素。伊维菌素和DEC治疗之间的最佳间隔时间尚不清楚；一项系统综述发现在单次使用伊维菌素后1周，微丝蚴负荷减少了85%（4）。
+在严重的Loa loa（罗阿丝虫）合并感染（微丝蚴>8000条/毫升血液）中，可以使用血浆置换术或阿苯达唑来降低微丝蚴负荷，然后再用伊维菌素和DEC进行序贯治疗。阿苯达唑对成虫的活性似乎大于对微丝蚴的活性，因此，只有在没有盘尾丝虫性眼病的患者中(5)，才应使用它来减少Loa loa（罗阿丝虫）微丝蚴。
+
+【治疗参考文献】
+1.Klion AD, Massougbodji A, Horton J, et al.Albendazolein human loiasis: results of a double-blind, placebo-controlled trial.J Infect Dis.1993;168(1):202-206.doi:10.1093/infdis/168.1.202
+1.Klion AD, Massougbodji A, Horton J, et al.Albendazolein human loiasis: results of a double-blind, placebo-controlled trial.J Infect Dis.1993;168(1):202-206.doi:10.1093/infdis/168.1.202
+2.Gardon J, Gardon-Wendel N, Demanga-Ngangue, Kamgno J, Chippaux JP, Boussinesq M.Serious reactions after mass treatment of onchocerciasis withivermectinin an area endemic forLoa loainfection.Lancet.1997;350(9070):18-22.doi:10.1016/S0140-6736(96)11094-1
+2.Gardon J, Gardon-Wendel N, Demanga-Ngangue, Kamgno J, Chippaux JP, Boussinesq M.Serious reactions after mass treatment of onchocerciasis withivermectinin an area endemic forLoa loainfection.Lancet.1997;350(9070):18-22.doi:10.1016/S0140-6736(96)11094-1
+3.Vinkeles Melchers NVS, Coffeng LE, Boussinesq M, et al.Projected Number of People With Onchocerciasis-Loiasis Coinfection in Africa, 1995 to 2025.Clin Infect Dis.2020;70(11):2281-2289.doi:10.1093/cid/ciz647
+3.Vinkeles Melchers NVS, Coffeng LE, Boussinesq M, et al.Projected Number of People With Onchocerciasis-Loiasis Coinfection in Africa, 1995 to 2025.Clin Infect Dis.2020;70(11):2281-2289.doi:10.1093/cid/ciz647
+4.Pion SD, Tchatchueng-Mbougua JB, Chesnais CB, et al.Effect of a Single Standard Dose (150-200 μg/kg) ofIvermectinonLoa loaMicrofilaremia: Systematic Review and Meta-analysis.Open Forum Infect Dis.2019;6(4):ofz019.Published 2019 Jan 11.doi:10.1093/ofid/ofz019
+4.Pion SD, Tchatchueng-Mbougua JB, Chesnais CB, et al.Effect of a Single Standard Dose (150-200 μg/kg) ofIvermectinonLoa loaMicrofilaremia: Systematic Review and Meta-analysis.Open Forum Infect Dis.2019;6(4):ofz019.Published 2019 Jan 11.doi:10.1093/ofid/ofz019
+5.Klion AD.Loiasis (Loa loainfection) In: UpToDate, Connor RF (Ed), Wolters Kluwer.Accessed January 6, 2025.
+5.Klion AD.Loiasis (Loa loainfection) In: UpToDate, Connor RF (Ed), Wolters Kluwer.Accessed January 6, 2025.
+
+【预防Loiasis】
+每周一次口服二乙基卡巴嗪 (DEC) 300 mg 可用于预防长期前往流行地区的旅行者的罗阿丝虫病。
+应用驱虫剂（包括氯菊酯浸泡过的衣服）以及穿着长袖衣裤可以减少感染斑虻的叮咬。因为虻多在白天叮咬，所以蚊帐的作用不大。
+人类是Loa loa（罗阿丝虫）的唯一已知自然宿主，该病由白天叮咬的斑虻传播。
+人类是Loa loa（罗阿丝虫）的唯一已知自然宿主，该病由白天叮咬的斑虻传播。
+大多数感染者无症状，但有些患者有血管性水肿（卡拉巴丝虫性肿块），主要发生在四肢，或者报告蠕虫在他们的眼睛上移动。
+大多数感染者无症状，但有些患者有血管性水肿（卡拉巴丝虫性肿块），主要发生在四肢，或者报告蠕虫在他们的眼睛上移动。
+通过显微镜检查外周血标本，应在上午10点至下午2点之间采血，因为这时候的微丝蚴血症水平最高。通过定量聚合酶链反应(qPCR)确诊和测定微丝虫的浓度。
+通过显微镜检查外周血标本，应在上午10点至下午2点之间采血，因为这时候的微丝蚴血症水平最高。通过定量聚合酶链反应(qPCR)确诊和测定微丝虫的浓度。
+偶尔，可通过观察在结膜下迁移的成虫或通过外科手术从眼睛或皮肤上移除并鉴定为罗阿丝虫来确诊罗阿丝虫病。
+偶尔，可通过观察在结膜下迁移的成虫或通过外科手术从眼睛或皮肤上移除并鉴定为罗阿丝虫来确诊罗阿丝虫病。
+二乙基卡巴嗪（DEC）是唯一能杀死微丝蚴和成虫的药物，但不应用于同时感染Onchocerca volvulus（盘尾丝虫）的患者； 在美国，该药物只能从疾病控制和预防中心获得。
+二乙基卡巴嗪（DEC）是唯一能杀死微丝蚴和成虫的药物，但不应用于同时感染Onchocerca volvulus（盘尾丝虫）的患者； 在美国，该药物只能从疾病控制和预防中心获得。
+在测量微丝蚴数量和确定感染严重程度时，请寻求专家帮助；在开始使用DEC治疗前，请咨询专家意见。
+在测量微丝蚴数量和确定感染严重程度时，请寻求专家帮助；在开始使用DEC治疗前，请咨询专家意见。
+对于重度感染的患者，推荐采用血浆置换或阿苯达唑预处理，因为在这些患者中，DEC杀死微丝蚴后释放的丝虫抗原可能引发脑病，导致昏迷和死亡。
+对于重度感染的患者，推荐采用血浆置换或阿苯达唑预处理，因为在这些患者中，DEC杀死微丝蚴后释放的丝虫抗原可能引发脑病，导致昏迷和死亡。

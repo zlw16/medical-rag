@@ -1,0 +1,39 @@
+标题：颅缝早闭
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-craniofacial-anomalies/craniosynostosis
+============================================================
+
+(参见先天性颅面畸形概述。)
+由于在垂直于闭合缝合线的方向上生长减少，颅缝的过早融合导致特征性颅骨畸形。它发生在1/2500的活产婴儿中 (1)。基于融合颅缝的不同，颅缝早闭可被分为几类。
+
+【颅骨（颅盖骨）缝合】
+颅骨（颅盖骨）缝合
+即使在明显孤立的先天性异常的情况下，临床遗传学家也应评估受影响的患者。
+染色体微阵列分析在评估先天性颅面畸形患者时，应考虑特定基因检测或更广泛的基因组检测。如果这些测试的结果无法诊断，建议进行全外显子组测序分析。
+
+【参考文献】
+1.Boulet SL, Rasmussen SA, Honein MA.A population-based study of craniosynostosis in metropolitan Atlanta, 1989-2003.Am J Med Genet A.2008;146A(8):984-991.doi:10.1002/ajmg.a.32208
+1.Boulet SL, Rasmussen SA, Honein MA.A population-based study of craniosynostosis in metropolitan Atlanta, 1989-2003.Am J Med Genet A.2008;146A(8):984-991.doi:10.1002/ajmg.a.32208
+
+【矢状缝早闭】
+矢状缝早闭是最常见的类型，导致颅骨窄而长（长头畸形）。大多数病例是孤立和散发的，传给后代的复发风险<3％ (1,2)。
+学习障碍在患病患者中很常见，报告显示患病率在20%至50%之间（1）。
+一些基因与矢状颅缝合症有关，但除非存在发育迟缓或其他先天性异常，否则通常不需要染色体微阵列分析。
+这张照片显示了一名患有矢状缝早闭的婴儿，导致颅骨又窄又长（长头畸形）。
+
+【矢状缝早闭参考文献】
+1.Greenwood J, Flodman P, Osann K, Boyadjiev SA, Kimonis V.Familial incidence and associated symptoms in a population of individuals with nonsyndromic craniosynostosis.Genet Med.2014;16(4):302-310.doi:10.1038/gim.2013.134
+1.Greenwood J, Flodman P, Osann K, Boyadjiev SA, Kimonis V.Familial incidence and associated symptoms in a population of individuals with nonsyndromic craniosynostosis.Genet Med.2014;16(4):302-310.doi:10.1038/gim.2013.134
+2.Lajeunie E, Le Merrer M, Bonaïti-Pellie C, Marchac D, Renier D.Genetic study of scaphocephaly.Am J Med Genet.1996;62(3):282-285.doi:10.1002/(SICI)1096-8628(19960329)62:3<282::AID-AJMG15>3.0.CO;2-G
+2.Lajeunie E, Le Merrer M, Bonaïti-Pellie C, Marchac D, Renier D.Genetic study of scaphocephaly.Am J Med Genet.1996;62(3):282-285.doi:10.1002/(SICI)1096-8628(19960329)62:3<282::AID-AJMG15>3.0.CO;2-G
+
+【冠状缝早闭】
+冠状缝早闭是第二常见的类型，可为双侧性（导致短而宽的颅骨，即短头畸形）或单侧性（导致颅骨斜形畸形，即斜头畸形）。真性斜头畸形（由颅缝早闭引起）常导致眼眶不对称，需与体位性斜头畸形（因斜颈或婴儿长期偏向一侧躺卧所致，不引起眼眶不对称）相鉴别。体位性斜头畸形中，颅骨后部一侧扁平，同侧前额突出，扁平侧的耳朵可能前移，但眼眶保持对称。
+约25%的冠状缝早闭病例为综合征性，由单基因致病性变异或染色体缺陷引起（1）。在孤立性非综合征性冠状颅骨闭合不全患者中，已发现多个基因存在致病性变异。基因诊断约占所有颅缝早闭病例的21%，并且与医疗并发症发生率增加有关（2）。即使在散发病例中，目前也建议进行基因组检测。
+冠状颅缝早闭通常与Crouzon综合征、Muenke综合征、Pfeiffer综合征、Saethre-Chotzen综合征、Carpenter综合征与Apert综合征中面部和颅外异常有关。这些综合征可以通过基因检测来确认。
+这张照片显示了一名患有左冠状颅缝早闭的婴儿，导致明显的矢状偏差、垂直眼球移位和严重的右额部隆起。
+
+【冠状颅缝早闭参考】
+1.Lattanzi W, Barba M, Di Pietro L, Boyadjiev SA.Genetic advances in craniosynostosis.Am J Med Genet A.2017;173(5):1406-1429.doi:10.1002/ajmg.a.38159
+1.Lattanzi W, Barba M, Di Pietro L, Boyadjiev SA.Genetic advances in craniosynostosis.Am J Med Genet A.2017;173(5):1406-1429.doi:10.1002/ajmg.a.38159
+2.Wilkie AO, Byren JC, Hurst JA, et al.Prevalence and complications of single-gene and chromosomal disorders in craniosynostosis.Pediatrics.2010;126(2):e391-e400.doi:10.1542/peds.2009-3491
+2.Wilkie AO, Byren JC, Hurst JA, et al.Prevalence and complications of single-gene and chromosomal disorders in craniosynostosis.Pediatrics.2010;126(2):e391-e400.doi:10.1542/peds.2009-3491

@@ -1,0 +1,9 @@
+标题：Oligella寡源杆菌属感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-negative-cocci-and-coccobacilli/oligella-infections
+============================================================
+
+Oligella（寡源杆菌）属包含2个种，Oligella urethralis（尿道寡源杆菌）和Oligella ureolytica（解尿寡源球菌）。
+O. urethralis（尿道寡源杆菌）是泌尿生殖道的共生菌，大多数临床分离株来自尿液，主要来自男性。尽管有症状的感染很少见，但与淋球菌性关节炎类似的菌血症、化脓性关节炎、腹膜炎在需要慢性非卧床腹膜透析的患者中已有报道。
+O. ureolytica（解尿寡源球菌）也主要存在于尿液中，通常见于长期留置导尿管或其他尿液引流系统的患者。另外，解尿寡源杆菌感染后的患者容易形成尿道结石，可能是细菌引起尿素分解并使尿液碱化导致磷酸盐沉淀。
+Oligella（寡源杆菌）的感染需通过细菌培养确诊。
+由于这些微生物很少被单独分离出来，因此抗菌药物敏感性数据有限；大多数菌株对β-内酰胺类抗生素敏感。不过，目前都已有报道产beta-内酰胺酶和环丙沙星耐药的菌株。

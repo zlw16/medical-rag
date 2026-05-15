@@ -1,0 +1,28 @@
+标题：Niemann-Pick病
+来源：https://www.msdmanuals.cn/professional/pediatrics/inherited-disorders-of-metabolism/niemann-pick-disease
+============================================================
+
+有关更多信息，见表某些神经鞘脂贮积病并见表其他脂类。
+也可参见可疑遗传性代谢病的诊断程序。
+Niemann-Pick病遗传是常染色体隐性遗传，多见于Ashkenazi犹太人，存在A和B两种类型。C型Niemann-Pick病是一种与酶缺陷无关的异常胆固醇沉积疾病。
+A型Niemann-Pick病患儿鞘磷脂酶活性<正常的5%。该病以肝脾肿大、生长发育滞缓和进行性神经变性为特征。通常在2或3岁死亡。
+B型Niemann-Pick病患儿鞘磷脂酶活性介于正常的5%～10％。该型的临床变化比A型更大。可能发生肝脾肿大和淋巴结病。全血细胞减少症很常见。大多数B型患者具有很少或没有神经系统受累，可能有智力障碍，并能存活到成年；它们在临床上可能与I型戈谢病相似。在B型患者中进行性肺浸润是主要的并发症。
+儿童C型通常在儿童时期出现症状，伴有癫痫和神经系统衰竭。C型总是致命的，大多数儿童在20岁之前死亡。
+
+【Niemann-Pick病的诊断】
+产前筛查
+产前筛查
+白细胞鞘磷脂酶测定
+白细胞鞘磷脂酶测定
+通过病史和检查，尤其是肝脾肿大，疑诊此病。通过DNA分析和/或白细胞鞘磷脂酶的分析来确诊Niemann-Pick 病，通过羊膜腔穿刺或绒膜绒毛取样可以产前诊断。
+也可进行DNA检查来诊断携带者。（参见疑似遗传性代谢紊乱的检测方法。）
+
+【Niemann-Pick病的治疗】
+治疗包括可能的骨髓移植，干细胞移植和酶替代疗法。
+治疗包括可能的骨髓移植，干细胞移植和酶替代疗法。
+骨髓移植，干细胞移植和酶替代疗法正在成为一个潜在的治疗选择。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information
+Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information

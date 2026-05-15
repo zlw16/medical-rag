@@ -1,0 +1,225 @@
+标题：注意力缺陷/多动症（ADHD）
+来源：https://www.msdmanuals.cn/professional/pediatrics/learning-and-developmental-disorders/attention-deficit-hyperactivity-disorder-adhd
+============================================================
+
+注意力缺陷/多动症（ADHD）被认为是神经发育障碍的一种。神经发育障碍是在儿童早期出现的基于神经的病症，通常在学校入学之前并且损害个人，社会，学术和/或职业功能的发展。他们通常涉及获取，保留或应用特定技能或信息集的困难。神经发育障碍可能涉及以下一种或多种功能障碍：注意力、记忆、感知、语言、解决问题或社会交往。 其他常见的神经发育障碍包括：自闭症谱系障碍，学习障碍（例如，阅读障碍），以及智力障碍。
+一些专家以前认为 ADHD 是一种行为障碍，可能是因为儿童通常表现出注意力不集中、冲动和过度活跃的行为，并且因为共存行为障碍，尤其是对立违抗性障碍和品行障碍， 是常见的。 然而，多动症具有完善的神经学基础，而不仅仅是“行为不端”。
+ADHD约影响5%至15%的儿童（1)。然而，许多专家认为ADHD被过度诊断，主要是因为诊断标准应用不准确。根据精神疾病诊断与统计手册第五版文本修订版（DSM-5-TR），精神障碍可分为三种类型:
+注意力不集中
+注意力不集中
+多动/冲动型
+多动/冲动型
+总体而言，ADHD在男孩中的发病率约为女孩的两倍（2），尽管比例因类型而异。多动/冲动型发病率主要多见于男孩（3）；而注意力不集中型的发病率男女大致相同。该病发病具有家族聚集性。
+目前，ADHD的病因并不明确，没有单一特定的病因。ADHD的潜在病因包括遗传、生化、感觉运动、生理和行为因素。一些危险因素包括出生体重<1500 克、头部外伤、缺铁、阻塞性睡眠呼吸暂停和铅暴露，以及产前接触酒精、烟草和可卡因（3）。ADHD 还与不良的童年经历有关（4）。少于5％的ADHD儿童有神经损伤的证据。有证据表明，多巴胺能和去甲肾上腺素能系统存在差异，脑干上部和额叶-中脑束的活动或刺激减少（5）。
+
+【参考文献】
+1.Boznovik K, McLamb F, O'Connell K, et al: U.S. national, regional, and state‑specific socioeconomic factors correlate with child and adolescent ADHD diagnoses.Sci Rep11:22008, 2021.doi: 10.1038/s41598-021-01233-2
+1.Boznovik K, McLamb F, O'Connell K, et al: U.S. national, regional, and state‑specific socioeconomic factors correlate with child and adolescent ADHD diagnoses.Sci Rep11:22008, 2021.doi: 10.1038/s41598-021-01233-2
+2.Ayano G, Demelash S, Gizachew Y, Tsegay L, Alati R: The global prevalence of attention deficit hyperactivity disorder in children and adolescents: An umbrella review of meta-analyses.J Affect Disord339:860–866, 2023.doi:10.1016/j.jad.2023.07.071
+2.Ayano G, Demelash S, Gizachew Y, Tsegay L, Alati R: The global prevalence of attention deficit hyperactivity disorder in children and adolescents: An umbrella review of meta-analyses.J Affect Disord339:860–866, 2023.doi:10.1016/j.jad.2023.07.071
+3.Morrow CE, Xue L, Manjunath S, et al: Estimated Risk of Developing Selected DSM-IV Disorders Among 5-Year-Old Children with PrenatalCocaineExposure.J Child Fam Stud18(3):356–364, 2009.doi:10.1007/s10826-008-9238-6
+3.Morrow CE, Xue L, Manjunath S, et al: Estimated Risk of Developing Selected DSM-IV Disorders Among 5-Year-Old Children with PrenatalCocaineExposure.J Child Fam Stud18(3):356–364, 2009.doi:10.1007/s10826-008-9238-6
+4.Brown N, Brown S, Briggs R, et al: Associations between adverse childhood experiences and ADHD diagnosis and severity.Acad Pediatr17(4):349–355, 2017.doi: 10.1016/j.acap.2016.08.013
+4.Brown N, Brown S, Briggs R, et al: Associations between adverse childhood experiences and ADHD diagnosis and severity.Acad Pediatr17(4):349–355, 2017.doi: 10.1016/j.acap.2016.08.013
+5.Del Campo N, Chamberlain SR, Sahakian BJ, Robbins TW: The roles ofdopamineandnoradrenalinein the pathophysiology and treatment of attention-deficit/hyperactivity disorder.Biol Psychiatry69(12):e145–e157, 2011.doi:10.1016/j.biopsych.2011.02.036
+5.Del Campo N, Chamberlain SR, Sahakian BJ, Robbins TW: The roles ofdopamineandnoradrenalinein the pathophysiology and treatment of attention-deficit/hyperactivity disorder.Biol Psychiatry69(12):e145–e157, 2011.doi:10.1016/j.biopsych.2011.02.036
+
+【成人ADHD】
+尽管 ADHD 被认为是儿童的一种疾病并且总是在儿童时期开始，但潜在的神经生理学差异会持续到成年期，并且在大约一半的情况下，成年后行为症状仍然很明显。 虽然诊断偶尔可能直到青春期或成年期才被识别，但一些表现应该在12岁之前出现。
+对于成人，症状包括
+注意力难以集中
+注意力难以集中
+完成任务困难（执行功能受损）
+完成任务困难（执行功能受损）
+情绪波动
+情绪波动
+难以维持关系
+难以维持关系
+成年人的多动症通常表现为不安和不适，而不是幼儿发生的明显运动多动症。患ADHD的成年人往往面临更高的失业风险、教育成就降低以及药物滥用和犯罪率增加。汽车碰撞和违规更为常见。
+ADHD在成年期可能更难以诊断。症状可能类似于情绪障碍，焦虑症和药物滥用。因为儿童症状的自我报告可能不可靠，临床医生可能需要检查学校记录或访问家庭成员以确认12岁之前的表现的存在。
+成人ADHD可能受益于与ADHD儿童相同类型的兴奋剂药物。他们还可以受益于咨询，以改善时间管理和其他应对技能。
+
+【ADHD的症状和体征】
+通常在4岁前发病，且不可避免地在12岁前发病。诊断本症的高峰年龄为8～10岁；然而，以注意力不集中为主要表现的患者可能直到青春期后才被诊断。
+ADHD的主要症状和体征表现为
+注意力不集中
+注意力不集中
+当小孩参与到需要集中精力、做出快速反应、进行视觉和感知搜索以及需要系统的、持续的倾听任务时，往往会出现注意力不集中。
+冲动是指可能导致负面后果的仓促行为（例如，儿童在过马路时不看路、青少年和成年人突然辍学或辞职而不考虑后果）。
+多动症涉及过度的运动活动。孩子，特别是年幼的孩子，可能难以在需要安静坐着的时候保持安静（例如，在学校或教堂）。年龄较大的患者可能仅表现为坐立不安、烦躁或多话——有时到了让旁观者感到疲惫的程度。
+注意力不集中和冲动会妨碍个人学习、思考、推理、学习动机和适应社会需要的发展。主要表现为注意力不集中型ADHD的儿童倾向于是动手学习者，他们在需要持续表现和完成任务的被动学习情境中有困难。
+总体而言，大约20%至60%的ADHD儿童存在学习障碍（1），但大多数ADHD儿童因注意力不集中（导致遗漏细节）和冲动（导致未经过思考即回答问题）而出现一定程度的学业功能障碍。
+行为史可显示耐挫折能力低、对抗行为、脾气暴躁、攻击性、社交技能差和同伴关系差、睡眠障碍、焦虑、心境低落、抑郁及情绪波动。
+尽管没有ADHD特异的体格检查和实验室检查，但是其在症状和体征上可有
+运动共济失调或动作笨拙
+运动共济失调或动作笨拙
+非局灶性的、"软"神经系统体征
+非局灶性的、"软"神经系统体征
+感知-运动功能失调
+感知-运动功能失调
+
+【症状和体征】
+1.Czamara D, Tiesler CM, Kohlböck G, et al: Children with ADHD symptoms have a higher risk for reading, spelling and math difficulties in the GINIplus and LISAplus cohort studies.PLoS One8(5):e63859, 2013.doi:10.1371/journal.pone.0063859
+1.Czamara D, Tiesler CM, Kohlböck G, et al: Children with ADHD symptoms have a higher risk for reading, spelling and math difficulties in the GINIplus and LISAplus cohort studies.PLoS One8(5):e63859, 2013.doi:10.1371/journal.pone.0063859
+
+【ADHD的诊断】
+基于DSM-5-TR的临床标准
+基于DSM-5-TR的临床标准
+ADHD 的诊断是基于临床的，并基于全面的医学、发育、教育和心理评估（1）。
+
+【ADHD的DSM-5-TR诊断标准】
+DSM-5-TR诊断标准包括9注种意力不集中的症状和体征，以及9种多动和冲动的症状和体征。使用这些标准进行诊断需要在任一组中至少有≥6种症状和体征。 此外，症状需要
+经常存在≥6个月
+经常存在≥6个月
+比孩子的发育水平预期的更明显
+比孩子的发育水平预期的更明显
+在至少2种情况下发生（例如，家庭和学校）
+在至少2种情况下发生（例如，家庭和学校）
+12岁以前出现（至少有一些症状）
+12岁以前出现（至少有一些症状）
+干扰在家庭，学校或工作中的运作
+干扰在家庭，学校或工作中的运作
+注意力不集中的症状：
+不注意细节，或在学校作业或其他活动中粗心犯错。
+不注意细节，或在学校作业或其他活动中粗心犯错。
+难以维持对学校或游戏中的任务的关注
+难以维持对学校或游戏中的任务的关注
+当直接与他讲话时，似乎没有在听。
+当直接与他讲话时，似乎没有在听。
+经常无法遵循指示和完成指定的任务
+经常无法遵循指示和完成指定的任务
+难以组织任务和活动。
+难以组织任务和活动。
+厌恶，不喜欢，或不愿意从事需要长时间持续的心理努力的任务
+厌恶，不喜欢，或不愿意从事需要长时间持续的心理努力的任务
+经常失去学校任务或活动所需的东西
+经常失去学校任务或活动所需的东西
+经常容易为外界的干扰而分心
+经常容易为外界的干扰而分心
+在日常活动中健忘
+在日常活动中健忘
+多动和冲动的症状：
+经常手足无措或坐立不安
+经常手足无措或坐立不安
+在教室或其他地方，常会离开座椅
+在教室或其他地方，常会离开座椅
+当这种活动不适当时，经常过度乱跑乱爬
+当这种活动不适当时，经常过度乱跑乱爬
+经常无法安静的玩耍
+经常无法安静的玩耍
+经常过度活动，表现得像被马达驱动一样。
+经常过度活动，表现得像被马达驱动一样。
+经常说话很多
+经常说话很多
+经常在问题还未被说完，就把答案冲口而出
+经常在问题还未被说完，就把答案冲口而出
+经常无法排队等待
+经常无法排队等待
+经常干扰或打断别人的谈话或活动
+经常干扰或打断别人的谈话或活动
+注意力不集中型的诊断需要≥6种注意力不集中的症状和体征。多动/冲动型的诊断需要≥6个多动和冲动的症状和体征。混合型的诊断需要≥6个注意力不集中症状和≥6个多动/冲动症状。
+
+【其他诊断注意事项】
+ADHD与其他疾病的鉴别有一定的难度，须避免过度诊断，而且对其他的疾病也应作出正确的诊断。必须避免过度诊断，并且必须准确识别其他疾病状况。学龄前表现的许多ADHD症状也可能指示其他神经发育障碍（如自闭症谱系障碍）或某些学习障碍、焦虑症、抑郁症或行为障碍中的沟通问题。
+临床医生应该考虑孩子是否被外部因素（即环境投入）或内部因素（即思想，焦虑，忧虑）分心。 然而，在童年后期，ADHD的症状性质变得更加明显；多动/冲动型或混合型儿童常常表现为下肢持续运动、运动保持困难（如无目的运动、双手不安）、冲动交谈以及似乎对周围环境缺乏意识。主要不注意类型的儿童可能没有身体征兆。
+医疗评估侧重于识别可能导致或加重症状和体征的潜在可治疗症状。 评估应包括了解产前接触史（例如违禁药物、酒精、烟草），围产期并发症或感染，中枢神经系统感染、创伤性脑损伤、心脏病、睡眠呼吸障碍、食欲不振和/或挑食的历史，以及多动症家族史。
+发育评估侧重于确定症状和体征的发作和过程。 评估包括检查发展里程碑，特别是语言里程碑和使用ADHD特定评级量表（例如，范德比尔特评估量表，综合行为评定量表，ADHD评级量表5）(2)。这些量表的版本可供家庭和学校工作人员使用，允许根据 DSM-5-TR 标准的要求在不同情况下进行评估。请注意，评估量表不应该单独用于诊断。
+教育评估侧重于记录核心症状和体征；它可能涉及审查教育记录和使用评级表或清单。然而，仅凭评定量表和检查表往往无法将ADHD与其他发育障碍或行为障碍区分开来。
+
+【诊断参考】
+1.Wolraich ML, Hagan JF Jr, Allan C, et al: Clinical Practice Guideline for the Diagnosis, Evaluation, and Treatment of Attention-Deficit/Hyperactivity Disorder in Children and Adolescents [published correction appears in Pediatrics 2020 Mar;145(3):].Pediatrics144(4):e20192528, 2019.doi:10.1542/peds.2019-2528
+1.Wolraich ML, Hagan JF Jr, Allan C, et al: Clinical Practice Guideline for the Diagnosis, Evaluation, and Treatment of Attention-Deficit/Hyperactivity Disorder in Children and Adolescents [published correction appears in Pediatrics 2020 Mar;145(3):].Pediatrics144(4):e20192528, 2019.doi:10.1542/peds.2019-2528
+2.Izzo VA, Donati MA, Novello F, Maschietto D, Primi C: The Conners 3-short forms: Evaluating the adequacy of brief versions to assess ADHD symptoms and related problems.Clin Child Psychol Psychiatry24(4):791–808, 2019.doi:10.1177/1359104519846602
+2.Izzo VA, Donati MA, Novello F, Maschietto D, Primi C: The Conners 3-short forms: Evaluating the adequacy of brief versions to assess ADHD symptoms and related problems.Clin Child Psychol Psychiatry24(4):791–808, 2019.doi:10.1177/1359104519846602
+
+【ADHD的治疗】
+行为疗法
+行为疗法
+药物疗法，通常用兴奋剂，如哌醋甲酯或右旋安非他明（短效和长效制剂）。
+药物疗法，通常用兴奋剂，如哌醋甲酯或右旋安非他明（短效和长效制剂）。
+对患有 ADHD 的儿童的治疗建议因年龄（1)而异：
+学龄前儿童：最初的治疗是行为疗法。如果行为干预的效果不佳或者症状为中度至重度（例如，冲动奔跑、攻击性爆发、其他使儿童或他人面临受伤风险的行为），则可以考虑使用药物。
+学龄前儿童：最初的治疗是行为疗法。如果行为干预的效果不佳或者症状为中度至重度（例如，冲动奔跑、攻击性爆发、其他使儿童或他人面临受伤风险的行为），则可以考虑使用药物。
+学龄儿童：初始治疗是行为疗法结合药物治疗。
+学龄儿童：初始治疗是行为疗法结合药物治疗。
+随机试验表明，对于学龄儿童，单独使用行为疗法的效果不如单独使用兴奋剂药物治疗，而联合使用则是最佳选择（2，3，4）。也有数据支持对仅接受行为疗法治疗无效的学龄前儿童使用哌甲酯，尽管总体益处似乎小于学龄儿童（5）。尽管药物治疗不能纠正ADHD患者潜在的神经生理学差异，但药物能有效缓解ADHD的症状，并且能让患者参与以前因注意力不集中和冲动行为而无法参与的活动。药物通常会中断行为症状，增强行为和学业干预的效果，提高动力和自尊心。
+成人多动症的治疗遵循类似的原则，但与儿童一样，药物的选择和剂量需要个性化，这取决于药物疗效、副作用和其他医疗条件（2）。
+
+【兴奋剂药物】
+最广泛使用的兴奋剂制剂包括哌甲酯或苯丙胺盐。反应差异很大，剂量取决于行为的严重程度和儿童对药物的耐受能力。 在频率和数量上调整剂量，直到达到反应和不良反应之间的最佳平衡。
+儿童服用哌甲酯时，通常从最低剂量开始，每天口服有一次（速释型），然后每周增加用药频率，通常增加到每天约2~3次或清醒时每4小时一次；许多临床医生尝试在早晨和中午给药。如果反应不充足，但是药物是耐受的，可以增加剂量。目标是在每个人的益处和不良影响之间找到最佳平衡点。剂量过低且不能提供足够的益处可能会导致家庭过早放弃治疗，而剂量过高可能会导致严重的副作用，无论是否具有足够的临床益处。哌甲酯的右旋异构体是活性部分，可按一半的剂量开具处方。
+右旋苯异丙胺（速释型）通常每天口服一次（通常与外消旋安非他命联合使用），然后可增加到每天2~3次或清醒时每4小时口服一次。剂量滴定应平衡有效性和不良反应；实际剂量因人而异，但一般而言，较高的剂量会增加不可接受的副作用的可能性。一般的，右旋苯异丙胺的剂量为哌甲酯的三分之二。
+哌甲酯或右旋苯丙胺一旦达到了最佳疗效，患者在上学期间多采用同种药物的等剂量缓释剂型，以消除上学服药的不便。长效制剂包括蜡基质缓释片、含有相当于2倍剂量的双相胶囊、渗透释放药片和可提供长达12小时覆盖的透皮贴片。短效和长效液体制剂现在都可使用。 纯的右旋制剂（例如，右旋甲基哌醋酯）经常用于最小化副作用，例如焦虑；剂量通常为混合制剂的一半。有时也使用前药制剂，因为它们释放更平稳、作用时间更长、副作用更少且滥用潜力更低。小剂量药物治疗通常能改善患者的学习能力，但行为症状的改善往往需要更大的剂量。
+兴奋剂的给药时间表可以根据特定日期和时间进行调整（例如，在校期间、做家庭作业时）。可以在周末、节假日或较长的学校假期期间尝试停药。建议采用安慰剂治疗期（持续 5 至 10 个上课日，以消除日常变化）以确定是否仍然需要用药。
+兴奋剂药物的常见不良反应包括
+睡眠障碍（如失眠）
+睡眠障碍（如失眠）
+食欲减退
+食欲减退
+心率加快、血压升高
+心率加快、血压升高
+抑郁症是一种不太常见的不良反应，通常可能表示无法轻松转移注意力（过度聚焦）。这可能表现为一种迟钝的举止（有时被家人描述为僵尸样），而不是实际的临床童年抑郁症。 事实上，兴奋剂药物有时被用作抑郁症的辅助治疗。有时可以通过减少兴奋剂剂量或尝试不同的药物来解决迟钝的举止。患有焦虑症的人也会经历焦虑症状的加剧。
+研究表明，使用兴奋剂 2 年以上后，身高增长速度会减慢，长期使用兴奋剂可能会降低成年身高的潜力（6）。
+
+【非中枢兴奋剂】
+阿托莫西汀，一种选择性去甲肾上腺素再摄取抑制剂，也可用于治疗。该药物有效，但与兴奋剂相比，其疗效的数据不一（7）。部分孩子服药后会出现恶心、嗜睡、易怒和脾气暴躁；极少数情况下会出现肝毒性和自杀意念。起始剂量每周滴定一次。其长半衰期允许每日1次给药，但需要持续使用以保持疗效。
+选择性去甲肾上腺素再摄取抑制剂抗抑郁药（如安非他酮和文拉法辛）、α-2激动剂（如可乐定和胍法辛）和其他精神活性药物有时用于兴奋剂无效或出现不良反应，但其疗效较差，不推荐作为一线药物。有时，这些药物与兴奋剂联合使用以产生协同作用；密切监测不良反应至关重要。
+药物不良相互作用是 ADHD 治疗的一个问题。抑制代谢酶 CYP2D6 的药物，包括有时用于 ADHD 患者的某些选择性 5-羟色胺再摄取抑制剂 (SSRIs)，可以增加兴奋剂药物的作用。审查潜在的药物相互作用是多动症患者药物治疗的重要组成部分。
+
+【行为治疗】
+给予咨询，认知－行为治疗（例如，设立目标，自我约束，树立模范，角色扮演等）较为有效，并能帮助患儿了解什么是ADHD以及如何应对。结构和日常规律至关重要。
+通过环境控制噪声和视觉刺激、适当的任务长度、新颖性、行为引导、教师的近距离指导，常常可以改善课堂行为。
+若在家中症状不能得到改善时，应鼓励家长进行专业咨询，并对其进行行为治疗培训。额外的鼓励和象征性的赞赏可增强行为治疗的疗效。对于以多动和冲动控制不良为主要表现的ADHD患者，可以通过在家里建立结构化的环境、一致的育儿技巧和明确的限制来获得帮助。
+排除饮食法、大量维生素治疗法 、抗氧化剂或其他化合物的使用，以及营养和生化干预疗法的效果最不稳定。生物反馈治疗在某些情况下可能有帮助，但由于缺乏持续效益的证据，不建议常规使用。
+
+【治疗参考文献】
+1.Wolraich ML, Hagan JF Jr, Allan C, et al: Clinical Practice Guideline for the Diagnosis, Evaluation, and Treatment of Attention-Deficit/Hyperactivity Disorder in Children and Adolescents [published correction appears inPediatrics2020 Mar;145(3):].Pediatrics144(4):e20192528, 2019.doi:10.1542/peds.2019-2528
+1.Wolraich ML, Hagan JF Jr, Allan C, et al: Clinical Practice Guideline for the Diagnosis, Evaluation, and Treatment of Attention-Deficit/Hyperactivity Disorder in Children and Adolescents [published correction appears inPediatrics2020 Mar;145(3):].Pediatrics144(4):e20192528, 2019.doi:10.1542/peds.2019-2528
+2.Cortese S, Adamo N, Del Giovane C, et al: Comparative efficacy and tolerability of medications for attention-deficit hyperactivity disorder in children, adolescents, and adults: a systematic review and network meta-analysis.Lancet Psychiatry5(9):727–738, 2018.doi:10.1016/S2215-0366(18)30269-4
+2.Cortese S, Adamo N, Del Giovane C, et al: Comparative efficacy and tolerability of medications for attention-deficit hyperactivity disorder in children, adolescents, and adults: a systematic review and network meta-analysis.Lancet Psychiatry5(9):727–738, 2018.doi:10.1016/S2215-0366(18)30269-4
+3.Storebø OJ, Storm MRO, Pereira Ribeiro J, et al:Methylphenidatefor children and adolescents with attention deficit hyperactivity disorder (ADHD).Cochrane Database Syst Rev3(3):CD009885, 2023.doi:10.1002/14651858.CD009885.pub3
+3.Storebø OJ, Storm MRO, Pereira Ribeiro J, et al:Methylphenidatefor children and adolescents with attention deficit hyperactivity disorder (ADHD).Cochrane Database Syst Rev3(3):CD009885, 2023.doi:10.1002/14651858.CD009885.pub3
+4.Pelham WE Jr, Fabiano GA: Evidence-based psychosocial treatments for attention-deficit/hyperactivity disorder.J Clin Child Adolesc Psychol37(1):184–214, 2008.doi:10.1080/15374410701818681
+4.Pelham WE Jr, Fabiano GA: Evidence-based psychosocial treatments for attention-deficit/hyperactivity disorder.J Clin Child Adolesc Psychol37(1):184–214, 2008.doi:10.1080/15374410701818681
+5.Greenhill L, Kollins S, Abikoff H, et al: Efficacy and safety of immediate-releasemethylphenidatetreatment for preschoolers with ADHD [published correction appears inJ Am Acad Child Adolesc Psychiatry2007 Jan;46(1):141].J Am Acad Child Adolesc Psychiatry45(11):1284–1293, 2006.doi:10.1097/01.chi.0000235077.32661.61
+5.Greenhill L, Kollins S, Abikoff H, et al: Efficacy and safety of immediate-releasemethylphenidatetreatment for preschoolers with ADHD [published correction appears inJ Am Acad Child Adolesc Psychiatry2007 Jan;46(1):141].J Am Acad Child Adolesc Psychiatry45(11):1284–1293, 2006.doi:10.1097/01.chi.0000235077.32661.61
+6.Greenhill LL, Swanson JM, Hechtman L, et al: Trajectories of Growth Associated With Long-Term Stimulant Medication in the Multimodal Treatment Study of Attention-Deficit/Hyperactivity Disorder.J Am Acad Child Adolesc Psychiatry59(8):978–989, 2020.doi:10.1016/j.jaac.2019.06.019
+6.Greenhill LL, Swanson JM, Hechtman L, et al: Trajectories of Growth Associated With Long-Term Stimulant Medication in the Multimodal Treatment Study of Attention-Deficit/Hyperactivity Disorder.J Am Acad Child Adolesc Psychiatry59(8):978–989, 2020.doi:10.1016/j.jaac.2019.06.019
+7.Schwartz S, Correll CU: Efficacy and safety ofatomoxetinein children and adolescents with attention-deficit/hyperactivity disorder: results from a comprehensive meta-analysis and metaregression.J Am Acad Child Adolesc Psychiatry53(2):174–187, 2014. doi: 10.1016/j.jaac.2013.11.005
+7.Schwartz S, Correll CU: Efficacy and safety ofatomoxetinein children and adolescents with attention-deficit/hyperactivity disorder: results from a comprehensive meta-analysis and metaregression.J Am Acad Child Adolesc Psychiatry53(2):174–187, 2014. doi: 10.1016/j.jaac.2013.11.005
+
+【ADHD的预后】
+传统的教室和学习活动常使那些未治疗或治疗不完全的ADHD患儿病情加重。社交能力和情感的不成熟可能会持续存在。不被同伴们接受和孤独感可随着年龄而增加，症状也会越明显。如果ADHD未得到诊断和充分治疗，可能会导致药物滥用，因为许多患有注意力缺陷多动症的青少年和成年人会自行服用合法（如咖啡因）和非法（如可卡因、安非他命）药物。
+尽管多动症易随年龄的增加而减轻，但青少年和成年人也会留有某些症状。青春期和成年期预后不良的标志包括
+伴随的智力低下
+伴随的智力低下
+有攻击性
+有攻击性
+社交和人际关系障碍
+社交和人际关系障碍
+父母的精神或行为健康障碍
+父母的精神或行为健康障碍
+青少年和成年期的问题主要表现为学业失败、低自尊和学习适当社会行为的困难。冲动型ADHD的青少年和成年人可能有较高的人格特质障碍和反社会行为发生率；许多人继续表现出冲动、烦躁不安和社交能力差。比起学校和家里，ADHD的患者在工作时调整得较好，特别是如果他们能找到不需要高度关注的工作。
+ADHD涉及注意力不集中、多动/冲动，或两者兼有；它通常在12岁之前出现，包括学龄前儿童。
+ADHD涉及注意力不集中、多动/冲动，或两者兼有；它通常在12岁之前出现，包括学龄前儿童。
+原因未知，但有许多疑似的危险因素。
+原因未知，但有许多疑似的危险因素。
+使用临床标准进行诊断，并警惕其他疾病（例如，自闭症谱系障碍、某些学习或行为障碍、焦虑、抑郁）以及最初可能表现类似的童年不良经历。
+使用临床标准进行诊断，并警惕其他疾病（例如，自闭症谱系障碍、某些学习或行为障碍、焦虑、抑郁）以及最初可能表现类似的童年不良经历。
+症状往往随年龄增长而减轻，但青少年和成年人可能仍有残留的困难。
+症状往往随年龄增长而减轻，但青少年和成年人可能仍有残留的困难。
+使用兴奋剂药物和认知行为疗法进行治疗；学龄前儿童可能适合单纯行为疗法。
+使用兴奋剂药物和认知行为疗法进行治疗；学龄前儿童可能适合单纯行为疗法。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+American Academy of Pediatrics:Clinical Practice Guideline for the Diagnosis, Evaluation, and Treatment of Attention-Deficit/Hyperactivity Disorder in Children and Adolescents(2019)
+American Academy of Pediatrics:Clinical Practice Guideline for the Diagnosis, Evaluation, and Treatment of Attention-Deficit/Hyperactivity Disorder in Children and Adolescents(2019)
+National Institute for Children's Health Quality:Vanderbilt Assessment Scale(used for diagnosing ADHD)
+National Institute for Children's Health Quality:Vanderbilt Assessment Scale(used for diagnosing ADHD)
+Attention Deficit Disorder Association(ADDA): An organization providing resources for adults with ADHD
+Attention Deficit Disorder Association(ADDA): An organization providing resources for adults with ADHD
+Children and Adults with Attention-Deficit/Hyperactivity Disorder(CHADD): An organization providing educational, support, and treatment resources for all people with ADHD
+Children and Adults with Attention-Deficit/Hyperactivity Disorder(CHADD): An organization providing educational, support, and treatment resources for all people with ADHD
+Learning Disabilities Association of America(LDA): An organization providing educational, support, and advocacy resources for people with learning disabilities
+Learning Disabilities Association of America(LDA): An organization providing educational, support, and advocacy resources for people with learning disabilities

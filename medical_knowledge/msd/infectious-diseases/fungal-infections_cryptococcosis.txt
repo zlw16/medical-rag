@@ -1,0 +1,125 @@
+标题：隐球菌病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/fungal-infections/cryptococcosis
+============================================================
+
+新生隐球菌分布于全球，而卵形隐球菌虽然主要发现于热带和亚热带地区，但在其他地区也有零星报道(1)。C. gattii（加蒂隐球菌）感染亦曾在加拿大不列颠哥伦比亚省、美国太平洋西北地区、巴布亚新几内亚、澳大利亚北部以及欧洲地中海地区发生散发性暴发。
+C. neoformans存在于被鸟粪污染的土壤中，尤其是鸽子的粪便。C. gattii从某些树种腐烂的空洞中分离出来。C. gattii（隐球菌病）与 50 多种树木有关，尤其是澳大利亚的桉树。不同于C. neoformans（新型隐球菌），C. gattii（加蒂隐球菌）不与鸟类相关，且更易在免疫功能正常的宿主中致病（2）。
+隐球菌病的高危因素包括:
+晚期 HIV 感染
+晚期 HIV 感染
+霍奇金淋巴瘤
+霍奇金淋巴瘤
+其他淋巴瘤
+其他淋巴瘤
+长期糖皮质激素治疗
+长期糖皮质激素治疗
+实体器官移植
+实体器官移植
+隐球菌病是晚期 HIV 感染患者的指征性机会性感染（通常与 CD4 细胞计数 <100 个/μL 相关）。在非HIV患者中，卵形隐球菌感染的死亡率低于新生隐球菌。
+(参见真菌感染概述。）
+
+【参考文献】
+1.Centers for Disease Control and Prevention (CDC).Cryptococcosis Facts and Stats.April 24, 2024.
+1.Centers for Disease Control and Prevention (CDC).Cryptococcosis Facts and Stats.April 24, 2024.
+2.Coussement J, Heath CH, Roberts MB, et al.Current Epidemiology and Clinical Features of Cryptococcus Infection in Patients Without Human Immunodeficiency Virus: A Multicenter Study in 46 Hospitals in Australia and New Zealand.Clin Infect Dis.2023;77(7):976-986.doi:10.1093/cid/ciad321
+2.Coussement J, Heath CH, Roberts MB, et al.Current Epidemiology and Clinical Features of Cryptococcus Infection in Patients Without Human Immunodeficiency Virus: A Multicenter Study in 46 Hospitals in Australia and New Zealand.Clin Infect Dis.2023;77(7):976-986.doi:10.1093/cid/ciad321
+
+【隐球菌病的病理生理】
+隐球菌病经吸入感染，通常首先累及肺部。很多患者表现为无症状的自限性原发肺部病灶。在免疫功能正常的患者中，孤立性肺部病灶即使不给抗真菌治疗通常也可以自愈而不发生播散。
+吸入后，Cryptococcus（隐球菌）可能会播散，通常播散到大脑和脑膜，表现为多灶性脑内微小病变。脑膜肉芽肿和大的脑部局部病灶有时也可出现。尽管肺部受累很少较为严重，但隐球菌性脑膜炎危及生命，需采取积极治疗。
+局部播散性病灶可发生在皮肤、长骨末端、关节、肝、脾、肾、前列腺及其他组织。除累及皮肤外，其他部位的病变很少或几乎不出现临床症状。罕见发生伴有肾乳头坏死的肾盂肾炎。
+典型的病变组织含有由酵母菌组成的囊性团块，由于团块内含大量的隐球菌荚膜多糖，故这些囊性团块外观呈胶冻状，但受累组织仅有轻微的急性炎性改变或无明显急性炎性改变。
+
+【隐球菌病的症状和体征】
+隐球菌病的临床表现取决于受累及的器官系统。
+
+【中枢神经系统】
+由于炎症不广泛，通常仅有低烧或无发热，且脑膜刺激征不常见。
+在晚期 HIV 感染患者中，隐球菌性脑膜炎可仅有轻微症状甚至无症状，但常出现头痛，且有时可见缓慢进展的意识状态改变。可能还会出现称为隐球菌瘤的局灶性脑病变。
+隐球菌性脑膜炎的症状多由脑水肿引起，这些症状通常是非特异性的，包括头痛、视觉模糊、意识模糊、抑郁、烦躁不安或其他行为改变。除眼肌或面神经麻痹外，局灶性体征很少出现，除非在病程的晚期。失明可由脑水肿或视束本身受损引起。
+在免疫抑制的宿主中，隐球菌感染可能表现为局灶性脑损伤，称为隐球菌瘤。
+许多隐球菌肺部感染的患者无症状。患有肺炎的患者通常有咳嗽和其他非特异的呼吸道症状。然而，与晚期 HIV 相关的隐球菌性肺部感染可表现为严重、进行性的肺炎，伴急性呼吸困难，影像学模式可提示Pneumocystis（肺孢子菌）感染。
+皮肤播散（即播散性隐球菌病）可表现为脓疱性、丘疹性、结节性或溃疡性皮损，其外观有时类似痤疮、传染性软疣或基底细胞癌。
+播散性隐球菌病可表现为脓疱性、丘疹性、结节性或溃疡性皮肤病变。病变可能类似于痤疮、传染性软疣或基底细胞癌。
+
+【隐球菌病的诊断】
+组织标本染色检查
+组织标本染色检查
+脑脊液（CSF）、痰、尿和血液培养
+脑脊液（CSF）、痰、尿和血液培养
+血清和脑脊液隐球菌抗原检测
+血清和脑脊液隐球菌抗原检测
+很少进行影像学检查
+很少进行影像学检查
+隐球菌病的临床诊断根据免疫功能正常患者出现惰性感染症状和免疫缺陷患者出现严重进行性感染症状时考虑本病可能。
+有经验的检验人员从体液、分泌物、渗出物或其他标本的涂片中检出有荚膜的出芽酵母菌，常是诊断隐球菌病的强有力证据。在固定组织标本中，包封酵母也可通过黏液氨基染色或马松-丰塔纳染色阳性鉴定并确认为隐球菌。
+通过在痰液或脑脊液培养中检出病原体可确诊（1）。血培养亦可呈阳性，尤其见于晚期 HIV 感染患者。在伴有脑膜炎的播散性隐球菌病中，隐球菌经常从尿液中培养出来(尽管中枢神经系统的真菌被成功清除，但前列腺感染灶有时仍然存在)。
+隐球菌性脑膜炎患者通常可见脑脊液蛋白升高及以淋巴细胞为主的细胞增多。脑脊液葡萄糖常降低；在印度墨汁染色中可见形成窄基芽生的被膜酵母，尤其常见于晚期 HIV 感染患者（其真菌负荷通常高于无 HIV 感染者）。在部分晚期 HIV 感染患者中，除印度墨汁制片可见大量酵母外，脑脊液其他参数可能正常。影像学检查（如脑MRI）是一种有用的辅助手段，有助于识别局灶性病变。
+此图像是印度墨汁染色的新型隐球菌的光学显微镜照片。印度墨汁染色使生物体周围的囊状物可见光环（发光的环）。
+CDC/Brinkman/SCIENCE PHOTO LIBRARY
+隐球菌荚膜抗原的横向流免疫色谱法(LFA)因其快速周转、易于使用和对新生隐球菌和卵形隐球菌感染都具有优异的性能特征（敏感性和特异性>99%），正在成为全球首选的诊断检测方法(2)。该检测可在血液或脑脊液中进行，即使在没有经典临床或实验室结果的情况下也有效，使其成为隐球菌病筛查和确诊的首选诊断方法。
+
+【诊断参考】
+1.Chang CC, Harrison TS, Bicanic TA, et al.Global guideline for the diagnosis and management of cryptococcosis: an initiative of the ECMM and ISHAM in cooperation with the ASM.Lancet Infect Dis.2024;24(8):e495-e512.doi:10.1016/S1473-3099(23)00731-4
+1.Chang CC, Harrison TS, Bicanic TA, et al.Global guideline for the diagnosis and management of cryptococcosis: an initiative of the ECMM and ISHAM in cooperation with the ASM.Lancet Infect Dis.2024;24(8):e495-e512.doi:10.1016/S1473-3099(23)00731-4
+2.Meya DB, Williamson PR.Cryptococcal Disease in Diverse Hosts.N Engl J Med.2024;390(17):1597-1610.doi:10.1056/NEJMra2311057
+2.Meya DB, Williamson PR.Cryptococcal Disease in Diverse Hosts.N Engl J Med.2024;390(17):1597-1610.doi:10.1056/NEJMra2311057
+
+【隐球菌病的治疗】
+隐球菌性脑膜炎的治疗为两性霉素 B联合氟胞嘧啶，随后序贯氟康唑。
+隐球菌性脑膜炎的治疗为两性霉素 B联合氟胞嘧啶，随后序贯氟康唑。
+非脑膜炎隐球菌病使用氟康唑治疗（通常有效）
+非脑膜炎隐球菌病使用氟康唑治疗（通常有效）
+（参见抗真菌药物。）
+
+【非晚期HIV感染患者】
+肺结节切除后偶然诊断出隐球菌感染的无症状患者，血清隐球菌抗原阴性，可能不需要抗真菌治疗。
+有肺部症状的患者应口服氟康唑治疗 6–12 个月。
+若无隐球菌脑膜炎时，皮肤、骨和其他部位的局限性病变需要全身性抗真菌治疗，通常口服氟康唑进行治疗，疗程为6～12个月。病情较重者需静脉注射脂质体两性霉素B联合口服氟胞嘧啶，随后以氟康唑进行巩固治疗。
+脑膜炎的标准疗法应包括以下内容：
+诱导治疗为静脉注射脂质体两性霉素 B 联合口服氟胞嘧啶，疗程 2–4 周（如无脂质制剂的两性霉素 B可用，可使用去氧胆酸盐两性霉素 B）。
+诱导治疗为静脉注射脂质体两性霉素 B 联合口服氟胞嘧啶，疗程 2–4 周（如无脂质制剂的两性霉素 B可用，可使用去氧胆酸盐两性霉素 B）。
+诱导后应进行巩固治疗，口服氟康唑，持续 8 周
+诱导后应进行巩固治疗，口服氟康唑，持续 8 周
+随后进行维持治疗，口服氟康唑 6–12 个月。
+随后进行维持治疗，口服氟康唑 6–12 个月。
+可能需要连续腰椎穿刺来降低颅内压。
+
+【晚期HIV感染患者】
+所有晚期HIV感染患者均需接受治疗（1）。
+对局限性肺部受累且症状轻至中度的患者（需证实脑脊液参数正常、脑脊液和尿液培养阴性，且无皮肤、骨或其他肺外病变证据），可口服氟康唑治疗 6–12 个月。
+脑膜炎或严重肺部疾病的标准治疗方案包括以下内容 (2)：
+诱导治疗为每日一次静脉注射脂质体两性霉素 B 联合口服氟胞嘧啶，疗程前 2 周（若临床反应缓慢或培养持续阳性，可能需要延长诱导治疗）（如无法获得脂质制剂两性霉素 B，则应使用去氧胆酸盐两性霉素 B）。
+诱导治疗为每日一次静脉注射脂质体两性霉素 B 联合口服氟胞嘧啶，疗程前 2 周（若临床反应缓慢或培养持续阳性，可能需要延长诱导治疗）（如无法获得脂质制剂两性霉素 B，则应使用去氧胆酸盐两性霉素 B）。
+替代诱导方案为单次大剂量静脉注射脂质体两性霉素 B（第 1 天）联合口服氟胞嘧啶和口服氟康唑（两种口服药物均用于治疗的前 2 周）（3）。
+替代诱导方案为单次大剂量静脉注射脂质体两性霉素 B（第 1 天）联合口服氟胞嘧啶和口服氟康唑（两种口服药物均用于治疗的前 2 周）（3）。
+诱导治疗后应以口服氟康唑进行8周的巩固治疗
+诱导治疗后应以口服氟康唑进行8周的巩固治疗
+完成诱导及巩固治疗后，需进行长期抑制（维持）治疗，采用口服氟康唑。
+完成诱导及巩固治疗后，需进行长期抑制（维持）治疗，采用口服氟康唑。
+可能需要连续腰椎穿刺来降低颅内压。
+几乎所有晚期 HIV 感染患者亦需要维持治疗，直至在抗逆转录病毒治疗下 CD4 细胞计数升至 >100 个/μL（4）。建议口服氟康唑进行维持治疗，但也可使用相同剂量的伊曲康唑进行治疗；但是，应监测伊曲康唑的血药浓度以确保患者有效吸收了此药。
+
+【治疗参考文献】
+1.McHale TC, Boulware DR, Kasibante J, Ssebambulidde K, Skipper CP, Abassi M.Diagnosis and management of cryptococcal meningitis in HIV-infected adults.Clin Microbiol Rev.2023;36(4):e0015622.doi:10.1128/cmr.00156-22
+1.McHale TC, Boulware DR, Kasibante J, Ssebambulidde K, Skipper CP, Abassi M.Diagnosis and management of cryptococcal meningitis in HIV-infected adults.Clin Microbiol Rev.2023;36(4):e0015622.doi:10.1128/cmr.00156-22
+2.Perfect JR, Dismukes WE, Dromer F, et al.Clinical practice guidelines for the management of cryptococcal disease: 2010 update by the Infectious Diseases Society of America.Clin Infect Dis.2010;50(3):291-322.doi:10.1086/649858
+2.Perfect JR, Dismukes WE, Dromer F, et al.Clinical practice guidelines for the management of cryptococcal disease: 2010 update by the Infectious Diseases Society of America.Clin Infect Dis.2010;50(3):291-322.doi:10.1086/649858
+3.Jarvis JN, Lawrence DS, Meya DB, et al.Single-Dose LiposomalAmphotericin BTreatment for Cryptococcal Meningitis.N Engl J Med.2022;386(12):1109-1120.doi:10.1056/NEJMoa2111904
+3.Jarvis JN, Lawrence DS, Meya DB, et al.Single-Dose LiposomalAmphotericin BTreatment for Cryptococcal Meningitis.N Engl J Med.2022;386(12):1109-1120.doi:10.1056/NEJMoa2111904
+4.ClinicalInfo.gov.Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents with HIV: Cryptococcosis. Accessed July 22, 2025.
+4.ClinicalInfo.gov.Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents with HIV: Cryptococcosis. Accessed July 22, 2025.
+C. neoformans（新型隐球菌）在全球范围内存在；C. gattii（加蒂隐球菌）主要分布于热带和亚热带地区。
+C. neoformans（新型隐球菌）在全球范围内存在；C. gattii（加蒂隐球菌）主要分布于热带和亚热带地区。
+隐球菌病经吸入感染获得，通常首先累及肺部。
+隐球菌病经吸入感染获得，通常首先累及肺部。
+免疫正常者中，隐球菌病表现为无症状的自限性感染。
+免疫正常者中，隐球菌病表现为无症状的自限性感染。
+在免疫功能低下者中，Cryptococcus（隐球菌属）可播散至多个部位，常累及脑和脑膜，以及皮肤。
+在免疫功能低下者中，Cryptococcus（隐球菌属）可播散至多个部位，常累及脑和脑膜，以及皮肤。
+诊断依据包括培养、染色和/或血清及脑脊液隐球菌抗原检测。
+诊断依据包括培养、染色和/或血清及脑脊液隐球菌抗原检测。
+局灶性肺部隐球菌病使用氟康唑进行治疗。
+局灶性肺部隐球菌病使用氟康唑进行治疗。
+对于脑膜炎或其他重症感染，应采用脂质体两性霉素 B（如无法获得，则使用去氧胆酸盐两性霉素 B）联合氟胞嘧啶治疗，随后序贯氟康唑。
+对于脑膜炎或其他重症感染，应采用脂质体两性霉素 B（如无法获得，则使用去氧胆酸盐两性霉素 B）联合氟胞嘧啶治疗，随后序贯氟康唑。

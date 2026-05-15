@@ -1,0 +1,192 @@
+标题：食物过敏
+来源：https://www.msdmanuals.cn/professional/immunology-allergic-disorders/allergic-autoimmune-and-other-hypersensitivity-disorders/food-allergy
+============================================================
+
+(参见过敏和过敏性疾病概述。）
+食物过敏应该与非免疫反应引起的食物不耐受（如：乳糖不耐受、肠易激综合征、炎症性肠炎）相鉴别，也应该与由添加剂（如：谷氨酸钠、偏亚硫酸氢盐、柠檬黄）或食品污染（如来自于操作工人所戴的橡胶手套的橡胶粉尘）引起的反应鉴别。真正的食物过敏发病率从1%～3%不等，因地域差异和确诊方法而有所不同。患者容易将不耐受与过敏混淆 (1)。
+
+【参考文献】
+1.Warren CM, Sehgal S, Sicherer SH, Gupta RS.Epidemiology and the Growing Epidemic of Food Allergy in Children and Adults Across the Globe.Curr Allergy Asthma Rep24(3):95-106, 2024.doi:10.1007/s11882-023-01120-y
+1.Warren CM, Sehgal S, Sicherer SH, Gupta RS.Epidemiology and the Growing Epidemic of Food Allergy in Children and Adults Across the Globe.Curr Allergy Asthma Rep24(3):95-106, 2024.doi:10.1007/s11882-023-01120-y
+
+【食物过敏的病因】
+几乎所有的食物或食物添加剂都有可能引发过敏反应，但是最常见诱发因素包括
+婴幼儿时期：牛奶、大豆、鸡蛋、花生和小麦
+婴幼儿时期：牛奶、大豆、鸡蛋、花生和小麦
+年长儿童和成人：坚果和海鲜
+年长儿童和成人：坚果和海鲜
+食物与非食物过敏原之间存在交叉反应，也可能对非肠道过敏原出现反应。例如，有口腔过敏（通常进食水果和蔬菜时出现口腔瘙痒、红斑和水肿）的患者可能因接触与食物抗原相似的花粉而致敏。对花生过敏的儿童可能会对用于治疗皮疹的含有花生油的外用药膏产生敏感。对乳胶过敏的患者也常对香蕉、奇异果、酪梨或几种都过敏。
+若父母患有食物过敏，过敏性鼻炎或过敏性哮喘，则儿童更易发生食物过敏。
+一般来说，食物过敏是由IgE、T细胞或两者共同介导的。
+IgE介导的过敏反应（如：荨麻疹、哮喘和过敏性休克）均急性起病，常自婴儿期起病，有特应性疾病家族史者易发。
+IgE介导的过敏反应（如：荨麻疹、哮喘和过敏性休克）均急性起病，常自婴儿期起病，有特应性疾病家族史者易发。
+T细胞介导的过敏反应（如：食物蛋白引起的胃肠病，乳糜泻）是逐渐表现出来的，是慢性的，通常发生在婴儿和儿童。
+T细胞介导的过敏反应（如：食物蛋白引起的胃肠病，乳糜泻）是逐渐表现出来的，是慢性的，通常发生在婴儿和儿童。
+IgE和T细胞共同介导的过敏反应（如：特应性皮炎、嗜酸性粒细胞性胃肠病）起病迟缓或为慢性。
+IgE和T细胞共同介导的过敏反应（如：特应性皮炎、嗜酸性粒细胞性胃肠病）起病迟缓或为慢性。
+
+【口腔过敏综合征（花粉食物过敏综合征）】
+口腔过敏综合征（花粉-食物过敏综合征）是由花粉和食物（通常是生水果、蔬菜和坚果）中的蛋白质引起的。当患者对特定的花粉蛋白过敏时，免疫系统会对食物中的类似蛋白产生反应，并产生过敏反应。如果食物经过烹饪或加热，患者通常可以耐受，因为食物蛋白质变性，改变了交叉反应蛋白质的结构。
+以下花粉和食物通常相关：
+桦树花粉： 苹果、杏仁、胡萝卜、芹菜、樱桃、榛子、猕猴桃、桃子、梨子和李子
+桦树花粉： 苹果、杏仁、胡萝卜、芹菜、樱桃、榛子、猕猴桃、桃子、梨子和李子
+草花粉：芹菜、甜瓜、橙子、桃子和西红柿
+草花粉：芹菜、甜瓜、橙子、桃子和西红柿
+豚草花粉：香蕉、黄瓜、甜瓜、葵花籽和西葫芦
+豚草花粉：香蕉、黄瓜、甜瓜、葵花籽和西葫芦
+典型的症状包括吃了致病的食物后口腔和喉咙发痒。尽管过敏性休克并不常见，但也可能发生（1)。
+口腔过敏综合症的诊断通常是临床诊断，但可以通过皮肤点刺试验来确认。
+口腔过敏综合征的治疗包括避免进食，彻底烹饪食物使蛋白质变性，并在出现过敏反应时携带预充式自行注射肾上腺素注射器。
+
+【嗜酸性粒细胞性胃肠病】
+一种较少见的疾病，表现为腹痛、痉挛、腹泻、血液中嗜酸性粒细胞增高、消化道嗜酸性粒细胞浸润、蛋白丢失性肠病，并有特应性疾病史。
+嗜酸性食管炎可能伴有嗜酸性肠胃病或孤立发生。嗜酸性食管炎以食管的慢性炎症为特征，可引起吞咽困难或食管运动障碍，或在儿童期引起食物不耐受和腹痛。嗜酸性食管炎可引起狭窄； 诊断是通过内镜活检。
+
+【α-半乳糖综合征】
+Alpha-gal 综合征是指最近发现的一种对红肉过敏的形式（2)。α-半乳糖是一种糖分子（半乳糖-α-1,3-半乳糖），除灵长类动物（包括人类）以外，大多数哺乳动物都有。此外，α-谷氨酰胺不会出现在鱼类、鸟类或爬行动物中。
+至少一种蜱（孤星蜱）的唾液中含有 alpha-gal。有证据表明，这种蜱虫的叮咬（尤其是多次叮咬）可能会使人对 alpha-谷氨酸过敏。由于α-谷氨酸存在于许多红肉（如猪肉、牛肉、羊肉、鹿肉）和来自哺乳动物的食品（如乳制品、明胶）中，受影响的人可能对这些食品产生IgE介导的过敏反应。
+过敏反应包括瘙痒性皮疹、消化不良、便秘、恶心和过敏反应。与其他食物过敏不同，α-半乳糖综合征的症状通常在进食后 3 至 8 小时才会出现。
+
+【病因参考文献】
+1.Skypala IJ: Can patients with oral allergy syndrome be at risk of anaphylaxis?Curr Opin Allergy Clin Immunol2020 20 (5):459–464, 2020.doi: 10.1097/ACI.0000000000000679
+1.Skypala IJ: Can patients with oral allergy syndrome be at risk of anaphylaxis?Curr Opin Allergy Clin Immunol2020 20 (5):459–464, 2020.doi: 10.1097/ACI.0000000000000679
+2.Hashizume H, Fujiyama T, Umayahara T, et al: RepeatedAmblyomma testudinariumtick bites are associated with increased galactose-α-1,3-galactose carbohydrate IgE antibody levels: A retrospective cohort study in a single institution.J Am Acad Dermatol78 (6):1135–1141.e3, 2018.doi: 10.1016/j.jaad.2017.12.028 Epub 2017 Dec 19.
+2.Hashizume H, Fujiyama T, Umayahara T, et al: RepeatedAmblyomma testudinariumtick bites are associated with increased galactose-α-1,3-galactose carbohydrate IgE antibody levels: A retrospective cohort study in a single institution.J Am Acad Dermatol78 (6):1135–1141.e3, 2018.doi: 10.1016/j.jaad.2017.12.028 Epub 2017 Dec 19.
+
+【食物过敏的症状和体征】
+食物过敏的症状和体征因过敏原、发病机制和患者年龄的不同而异。
+婴儿最常见的是表现是单一的特应性皮炎，或者同时伴有胃肠道（GI）症状（恶心、呕吐、腹泻）。儿童通常会表现为上述症状，并随着年龄的增长对越来越多的吸入性过敏原作出反应，出现哮喘和鼻炎症状;这个过程被称为特应性病程。到10岁时，即使皮肤试验仍然呈阳性，患者在食用过敏食物后很少出现呼吸系统症状。尽管就血清IgE水平而言，广泛皮炎的特应性患者比没有皮炎的特应性患者高得多，但是如果年长的儿童或成年患者持续出现特应性皮炎，其活动性似乎很大程度上与IgE介导的过敏反应无关，以T细胞介导的反应为主。
+持续存在食物过敏的年长儿和成人常有较严重的反应（如严重荨麻疹、血管性水肿，甚至全身过敏反应）。一些患者，特别是对小麦和芹菜过敏的患者，只有在进食相关食物后不久进行运动，才发生全身过敏反应，其机制不明。 食物也可能会引发非特异性症状（如，轻度头痛，晕厥）。偶尔唇炎，口腔溃疡，幽门痉挛，痉挛性便秘，肛门瘙痒，肛周湿疹与食物过敏有关。
+T细胞介导的过敏反应往往涉及胃肠道，引起亚急性或慢性腹痛，恶心，腹部绞痛，腹泻等症状。
+
+【经验与提示】
+经验与提示
+如果患者有不明原因的亚急性或慢性腹痛，恶心，呕吐，腹部绞痛，腹泻，通常考虑食物过敏。
+如果患者有不明原因的亚急性或慢性腹痛，恶心，呕吐，腹部绞痛，腹泻，通常考虑食物过敏。
+
+【食物过敏的诊断】
+过敏原特异性血清IgE检测
+过敏原特异性血清IgE检测
+皮肤试验
+皮肤试验
+试验性排除食谱法（单独进行或在皮肤试验或过敏原特异性血清IgE检测后进行）
+试验性排除食谱法（单独进行或在皮肤试验或过敏原特异性血清IgE检测后进行）
+严重的食物过敏通常在成年患者明显。当过敏原不明时，或对于多数儿童患者而言，诊断可能比较困难，需与其他胃肠道功能障碍相鉴别。麸质过敏症的诊断在别处讨论。
+检测（例如，过敏原特异性血清IgE检测，皮肤试验）和排除饮食对诊断IgE介导的反应是最有用的。患者应保持食物日记，并仔细列出他们食用的所有食物以及所产生的任何不良影响（特别是与进食有关的时间），以帮助指导有关排除可疑食物的决策。
+建议仅对引起临床反应的食物进行测试。由于存在从饮食中不必要地去除食物的风险，因此强烈不建议对多种食物或食物组进行广泛的小组测试。
+如果怀疑有食物反应，则执行以下操作之一：
+过敏原特异性血清IgE检测
+过敏原特异性血清IgE检测
+皮肤试验
+皮肤试验
+在这两种情况下，一个阳性结果并不能证实临床相关的过敏。两个检测都可以具有假阳性或假阴性结果。皮肤测试通常比过敏原特异性血清IgE测试更敏感，但更可能是假阳性结果。皮试在15至20分钟内提供结果，比特异性的过敏原血清IgE检测快速。
+如果任何一项测试为阳性，则从饮食中剔除该食物。如果去除食物症状有所缓解，可再次给予该食物（最好是双盲试验）来确定是否会再诱发症状。（参见 the National Institute of Allergy and Infectious Diseases (NIAID)药物声明：Guidelines for the diagnosis and management of food allergy in the United States.)
+如果没有皮肤测试来确认食物过敏，或者结果不确定，接下来的选择可能包括以下一种或两种：
+根据患者的饮食日记排除患者怀疑会引起症状的食物，然后评估症状的解决方案
+根据患者的饮食日记排除患者怀疑会引起症状的食物，然后评估症状的解决方案
+处方不含常见食物过敏原的特殊要素饮食（见表代表性排除饮食中允许食用的食物）。
+处方不含常见食物过敏原的特殊要素饮食（见表代表性排除饮食中允许食用的食物）。
+此时除了特定的食物外，不能进食其他食物或液体。必须始终使用单纯产品。 许多商用产品和膳食中含有大量的不需要的食物（例如，商业黑麦面包含有小麦粉）或痕迹调味剂或增稠剂，确定是否存在不需要的食品可能困难。
+与患者讨论并观察患者的食物日记，可以帮助选择最初消除的饮食。如果按照试验食谱进食一周后症状无改善，应该试用另一套食谱。然而，T细胞介导的反应可能需要数周才能解决。如果症状有所缓解，病人的症状不那么严重，可添加一种新的食物，并大量进食超过24小时或直至症状复发。但是，如果患者有特别严重的症状，在医生在场时，进食少量待检测食物，同时观察患者的反应。
+添加新食物后出现症状恶化或复发是对该食物过敏的最好证明。
+
+【代表性消除饮食中允许的食物*】
+代表性消除饮食中允许的食物*
+1号饮食
+（不含牛肉、猪肉、家禽、牛奶、黑麦、或玉米）
+2号饮食
+（不含牛肉、羊肉、牛奶或稻米）
+3号饮食
+（不含羊肉、家禽、黑麦、稻米、玉米、或牛奶）
+稻米产品
+玉米产品
+朝鲜蓟、甜菜、胡萝卜、莴苣、菠菜
+芦笋、玉米、豌豆、南瓜、青豆、番茄
+甜菜、利马豆、土豆（白色有甜味）、青豆、番茄
+熏猪肉、鸡肉
+熏猪肉、牛肉
+面粉（面包或饼干）
+玉米、100％黑麦（普通的黑麦面包都含有小麦粉）
+利马豆、土豆、大豆
+葡萄柚、柠檬、梨
+杏、桃、波萝、洋李
+杏、葡萄柚、柠檬、桃
+棉籽油、橄榄油
+玉米油、棉籽油
+棉籽油、橄榄油
+黑咖啡、柠檬水、茶
+黑咖啡、柠檬水、茶
+黑咖啡、柠檬水、果汁（食谱范围内的水果）、茶
+蔗糖、明胶、枫糖、橄榄、盐、树薯粉布丁
+蔗糖、玉米、糖浆、明胶、盐
+蔗糖、明胶、枫糖、橄榄、盐、树薯粉布丁
+* 4号饮食：如果患者在遵循上述 3 种消除饮食中的任何一种时症状持续存在并且仍然怀疑饮食所致，则日常饮食可能仅限于基本饮食（使用深度水解或基于氨基酸的配方）。
+* 4号饮食：如果患者在遵循上述 3 种消除饮食中的任何一种时症状持续存在并且仍然怀疑饮食所致，则日常饮食可能仅限于基本饮食（使用深度水解或基于氨基酸的配方）。
+
+【食物过敏的治疗】
+食物排除
+食物排除
+有时需要口服色甘酸
+有时需要口服色甘酸
+有时需要糖皮质激素治疗嗜酸性粒细胞肠炎
+有时需要糖皮质激素治疗嗜酸性粒细胞肠炎
+脱敏的口服或舌下免疫疗法
+脱敏的口服或舌下免疫疗法
+单克隆抗体（奥马珠单抗、度普利尤单抗）
+单克隆抗体（奥马珠单抗、度普利尤单抗）
+食物过敏的治疗包括祛除诱发过敏的食物。因此，诊断和治疗是交叉的。当评估一种要素饮食的作用时，临床医生必须考虑到食物过敏反应可能自发消失。
+有严重食物过敏应建议患者携带抗组胺剂，如果有症状，立即服用，当严重过敏反应时，应当使用自动肾上腺素注射笔。抗组胺药除了引起荨麻疹和血管性水肿的急性反应外，几乎没有价值。
+口服色甘酸似乎能有效减轻对食物的过敏反应。
+长期皮质类固醇治疗对有症状的嗜酸性肠病是有用的。口服布地奈德混悬液对治疗成人和11岁及以上儿童患者的嗜酸性食管炎有效。
+对于嗜酸性食管炎患者，可以采用要素饮食或经验性的 6 种食物消除饮食（1，2）。
+奥马珠单抗可用于帮助预防严重的 IgE 介导的食物过敏反应。
+
+【脱敏免疫疗法】
+花生脱敏口服免疫疗法使用脱脂花生（花生) 过敏原粉；它可用于治疗4至17岁对花生过敏的人。口服脱敏疗法包括数月内每两周增加一次每日剂量，直至 300 毫克。在剂量递增期间，脱敏治疗可以在医疗机构进行，而剂量递增之间的维持治疗则可以在家中进行。
+患者在医疗机构中成功耐受300毫克的剂量后，必须无限期地每天服用300毫克的剂量以维持脱敏。此外，他们仍然需要保持严格的无花生饮食，但可以降低无意中食用花生引起严重过敏反应（包括过敏反应）的风险。
+正在制定对各种其他食物的口服脱敏方案（3)。
+舌下免疫治疗IgE 介导的食物过敏，就是将甘油化的过敏原提取物滴入舌下，每天一次。已经研究过的过敏原包括花生（主要）、榛子、桃子、苹果和牛奶。II 期临床试验的早期结果有希望，尽管在在实践中广泛推荐这种治疗之前还需要进一步研究（4)。
+
+【单克隆抗体】
+奥马珠单抗（一种人源化重组单克隆抗 IgE 抗体）和其他抗 IgE 单克隆抗体已用于治疗对食物有严重过敏反应的人。在一项针对花生过敏儿童的研究中，奥马珠单抗使服药儿童的花生耐受性阈值提高（5)。
+使用其他单克隆抗体的治疗，如dupilumab（一种抗IL4R抗体），正在研究之中 (6)。
+
+【治疗参考文献】
+1.Hirano I, Chan ES, Rank MA, et al: AGA Institute and the Joint Task Force on Allergy-Immunology Practice Parameters Clinical Guidelines for the Management of Eosinophilic Esophagitis.Gastroenterology158(6):1776–1786, 2020.doi:10.1053/j.gastro.2020.02.038
+1.Hirano I, Chan ES, Rank MA, et al: AGA Institute and the Joint Task Force on Allergy-Immunology Practice Parameters Clinical Guidelines for the Management of Eosinophilic Esophagitis.Gastroenterology158(6):1776–1786, 2020.doi:10.1053/j.gastro.2020.02.038
+2.Kliewer KL, Gonsalves N, Dellon ES, et al: One-food versus six-food elimination diet therapy for the treatment of eosinophilic oesophagitis: a multicentre, randomised, open-label trial.Lancet Gastroenterol Hepatol8(5):408–421, 2023.doi:10.1016/S2468-1253(23)00012-2
+2.Kliewer KL, Gonsalves N, Dellon ES, et al: One-food versus six-food elimination diet therapy for the treatment of eosinophilic oesophagitis: a multicentre, randomised, open-label trial.Lancet Gastroenterol Hepatol8(5):408–421, 2023.doi:10.1016/S2468-1253(23)00012-2
+3.Anderson B, Wong L, Adlou B, et al: Oral immunotherapy in children: Clinical considerations and practical management.J Asthma Allergy14:1497–1510, 2021.doi: 10.2147/JAA.S282696 eCollection 2021
+3.Anderson B, Wong L, Adlou B, et al: Oral immunotherapy in children: Clinical considerations and practical management.J Asthma Allergy14:1497–1510, 2021.doi: 10.2147/JAA.S282696 eCollection 2021
+4.Schworer SA, Edwin H Kim EH: Sublingual immunotherapy for food allergy and its future directions.Immunotherapy12 (12):921–931, 2020.doi: 10.2217/imt-2020-0123
+4.Schworer SA, Edwin H Kim EH: Sublingual immunotherapy for food allergy and its future directions.Immunotherapy12 (12):921–931, 2020.doi: 10.2217/imt-2020-0123
+5.Sampson HA, Leung DY, Burks AW, et al: A phase II, randomized, double‑blind, parallel‑group, placebo‑controlled oral food challenge trial ofXolair(omalizumab) in peanut allergy.J Allergy Clin Immunol127 (5):1309–1310.e1, 2011.doi: 10.1016/j.jaci.2011.01.051
+5.Sampson HA, Leung DY, Burks AW, et al: A phase II, randomized, double‑blind, parallel‑group, placebo‑controlled oral food challenge trial ofXolair(omalizumab) in peanut allergy.J Allergy Clin Immunol127 (5):1309–1310.e1, 2011.doi: 10.1016/j.jaci.2011.01.051
+6.Sindher SB, Hillier C, Anderson B, Long A, Chinthrajah RS: Treatment of food allergy: Oral immunotherapy, biologics, and beyond.Ann Allergy Asthma Immunol131(1):29–36, 2023.doi:10.1016/j.anai.2023.04.02
+6.Sindher SB, Hillier C, Anderson B, Long A, Chinthrajah RS: Treatment of food allergy: Oral immunotherapy, biologics, and beyond.Ann Allergy Asthma Immunol131(1):29–36, 2023.doi:10.1016/j.anai.2023.04.02
+
+【预防食物过敏】
+多年来，避免给婴幼儿喂食可能导致过敏的食物（例如花生）一直是推荐用来预防食物过敏的方法。然而，一项研究（1）表明，早期摄入和经常食用含有花生的食物可以预防高风险婴儿（如鸡蛋过敏或湿疹婴儿）的花生过敏。因此，更多的临床医生正在放弃基于过敏问题的婴儿食物限制，而允许或鼓励食用此类食物。目前指南建议不要推迟将更多的食物——超过通常推荐给所有婴儿的食物——引入婴儿饮食，包括高危婴儿。因此，大多数推荐是在 4 到 6 个月大时引入鸡蛋和花生等食物（2)。
+
+【预防参考文献】
+1.Du Toit G, Roberts G, Sayre PH, et al: Randomized trial of peanut consumption in infants at risk for peanut allergy.N Engl J Med372 (9):803–813, 2015.doi: 10.1056/NEJMoa1414850
+1.Du Toit G, Roberts G, Sayre PH, et al: Randomized trial of peanut consumption in infants at risk for peanut allergy.N Engl J Med372 (9):803–813, 2015.doi: 10.1056/NEJMoa1414850
+2.Fleischer DM, Sicherer S, Greenhawt M, et al: Consensus communication on early peanut introduction and the prevention of peanut allergy in high-risk infants.Pediatr Dermatol33 (1):103–106, 2016.doi: 10.1111/pde.12685
+2.Fleischer DM, Sicherer S, Greenhawt M, et al: Consensus communication on early peanut introduction and the prevention of peanut allergy in high-risk infants.Pediatr Dermatol33 (1):103–106, 2016.doi: 10.1111/pde.12685
+食物过敏一般是由IgE（通常导致急性全身过敏反应）或T细胞（通常导致慢性胃肠道症状）介导的。
+食物过敏一般是由IgE（通常导致急性全身过敏反应）或T细胞（通常导致慢性胃肠道症状）介导的。
+食物过敏应区别于非免疫性的食物反应（如乳糖不耐症，肠易激综合症，传染性胃肠炎）和添加剂（如味精，焦亚硫酸钠，柠檬黄）或食品污染物引起的反应。
+食物过敏应区别于非免疫性的食物反应（如乳糖不耐症，肠易激综合症，传染性胃肠炎）和添加剂（如味精，焦亚硫酸钠，柠檬黄）或食品污染物引起的反应。
+当成人或儿童依据临床表现评估不能明确诊断时，可行皮肤测试、过敏原特异性的血清IgE检测或排除饮食法。
+当成人或儿童依据临床表现评估不能明确诊断时，可行皮肤测试、过敏原特异性的血清IgE检测或排除饮食法。
+在排除食谱期间，应确保患者了解，只能吃已确定的食物清单上的单一成分的食品（不包括许多经商业加工的食品）。
+在排除食谱期间，应确保患者了解，只能吃已确定的食物清单上的单一成分的食品（不包括许多经商业加工的食品）。
+其他治疗方法包括色甘酸、脱敏免疫疗法和单克隆抗体。
+其他治疗方法包括色甘酸、脱敏免疫疗法和单克隆抗体。
+
+【更多信息】
+以下英语资源可能会有所帮助。 请注意，本手册对这些资源的内容不承担任何责任。
+National Institute of Allergy and Infectious Diseases (NIAID): Guidelines for the diagnosis and management of food allergy in the United States.
+National Institute of Allergy and Infectious Diseases (NIAID): Guidelines for the diagnosis and management of food allergy in the United States.
+Sampson HA, Aceves S, Bock SA, et al.Food allergy: a practice parameter update-2014.J Allergy Clin Immunol134(5):1016-25.e43, 2014.doi:10.1016/j.jaci.2014.05.013
+Sampson HA, Aceves S, Bock SA, et al.Food allergy: a practice parameter update-2014.J Allergy Clin Immunol134(5):1016-25.e43, 2014.doi:10.1016/j.jaci.2014.05.013

@@ -1,0 +1,60 @@
+标题：特定恐惧症
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/anxiety-and-stressor-related-disorders/specific-phobias
+============================================================
+
+(参见焦虑障碍概述。)
+特定恐惧症是对某种特定的情况或物体产生过度的恐惧和焦虑，这种程度与实际的危险或风险不成比例。这种场景和物品一般情况下尽可能被回避，一旦遇到则很快加重焦虑。焦虑可能会加剧到惊恐发作的程度。特定恐怖症患者通常能意识到自己的恐惧是不合理且过度的。
+特定恐惧症是最常见的焦虑障碍。 最常见的有惧怕动物（动物恐惧症）、高处（恐高症）、雷暴（闪电或雷电恐惧症）。特定恐惧症在女性中的年患病率约为8％，男性中约为3％ (1)。有些症状很少引起不便，如在居住在城市的人怕蛇（恐蛇症），除非要求他去一个蛇虫出没的地方徒步旅行。但其他恐怖症会严重影响正常功能 —— 比如在摩天大楼高层工作的人若患有幽闭恐惧症（害怕电梯等封闭、受限空间）。对血液、针头或伤害有恐惧症的人是不寻常的，因为他们的焦虑会导致他们因过度的血管迷走反射而晕倒，从而导致心动过缓和体位性低血压。恐怖症还可能影响医疗服务的获取，比如对针头的恐惧会导致患者回避血液检查和 / 或疫苗接种。
+
+【参考文献】
+1.Wardenaar KJ, Lim CCW, Al-Hamzawi AO, et al: The cross-national epidemiology of specific phobia in the World Mental Health Surveys.Psychol Med47(10):1744-1760, 2017. doi: 10.1017/S0033291717000174
+1.Wardenaar KJ, Lim CCW, Al-Hamzawi AO, et al: The cross-national epidemiology of specific phobia in the World Mental Health Surveys.Psychol Med47(10):1744-1760, 2017. doi: 10.1017/S0033291717000174
+
+【特定恐惧症的症状和体征】
+患有特定恐惧症的患者会对特定的物体或情况产生明显的恐惧或焦虑，并伴有回避。
+
+【特定恐惧症的诊断】
+《精神障碍诊断与统计手册》，第五版文本修订版（DSM-5-TR）标准
+《精神障碍诊断与统计手册》，第五版文本修订版（DSM-5-TR）标准
+为了满足 DSM-5-TR 中针对特定恐惧症的诊断标准，患者必须具有（1）
+对特定场所或物体有显著的，持续的（≥6个月）恐惧或焦虑
+对特定场所或物体有显著的，持续的（≥6个月）恐惧或焦虑
+此外，患者具有以下所有情况：
+这种情况或物体几乎总是立即触发恐惧或焦虑。
+这种情况或物体几乎总是立即触发恐惧或焦虑。
+患者主动回避这些情境或物体。
+患者主动回避这些情境或物体。
+恐惧或焦虑是不符合实际危险（考虑到社会文化因素）。
+恐惧或焦虑是不符合实际危险（考虑到社会文化因素）。
+恐惧，焦虑，和/或回避造成显著的痛苦或显著损害社会或职业功能。
+恐惧，焦虑，和/或回避造成显著的痛苦或显著损害社会或职业功能。
+如果另一种诊断可以更好地描述临床情况，则不应该诊断为特定的恐惧症。值得注意的是，特定恐惧症通常与多种其他精神疾病共存，包括其他焦虑症、抑郁和双相情感障碍、物质相关疾病、躯体症状及相关疾病和人格障碍（特别是依赖型人格障碍)。
+
+【诊断参考文献】
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 224-229.
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 224-229.
+
+【特定恐惧症的治疗】
+暴露疗法
+暴露疗法
+放松和/或呼吸技巧（例如催眠）
+放松和/或呼吸技巧（例如催眠）
+可谨慎使用苯二氮䓬类药物或 β 受体阻滞剂
+可谨慎使用苯二氮䓬类药物或 β 受体阻滞剂
+如不经过治疗，特定恐惧症的预后各不相同，某些罕见的场所或物体（如蛇，岩洞）很容易回避，而常见场所或物体（如桥梁，雷雨）难以回避。
+
+【暴露疗法】
+针对特定恐惧症，研究最广泛、最有效的心理疗法是暴露疗法，旨在扭转焦虑和回避的循环(1)。
+作为暴露疗法的一部分，患者和治疗师制定一份可能引发焦虑的“暴露”清单。例如，患有与飞行相关的特定恐惧症的人可能会列出一个清单，其中乘坐小型飞机可能是最大的恐惧，但可能还有其他十几种不太引起焦虑的活动与飞行恐惧有关。这些场景可能包括：走进机场却无意登机、驾车经过机场不停留、查看飞机照片。临床医生和患者可以对列表进行排序。放松、正念、呼吸和/或其他放松技巧（如催眠）的指导也是暴露疗法的一个组成部分。在使用一些新学到的放松技巧时，患者可能会从列表中最不引起焦虑的项目开始（例如，看飞机的照片），然后继续浏览列表，努力扭转回避。通过这个暴露和逐渐脱敏的过程，患者习惯了引发焦虑的触发因素。
+一种替代的治疗方法包括使用催眠，通过想象处于舒适的地方来帮助患者感到身体平静，然后根据催眠的建议（例如，“感觉自己和飞机一起漂浮”，“把飞机想象成你身体的延伸，就像自行车一样”，“考虑可能性和概率之间的区别”）（2）。
+
+【药物治疗】
+当无法避免接触物体或情况时，苯二氮卓类药物（如劳拉西泮）或β受体阻滞剂（如普萘洛尔）的短期治疗可能会有所帮助(3）。例如，有飞行恐惧症的人可能在登机前1到2小时服用药物。
+
+【治疗参考文献】
+1.Wolitzky-Taylor KB, Horowitz JD, Powers MB, et al: Psychological approaches in the treatment of specific phobias: A meta-analysis.Clin Psychol Rev28(6):1021-1037, 2008. doi: 10.1016/j.cpr.2008.02.007
+1.Wolitzky-Taylor KB, Horowitz JD, Powers MB, et al: Psychological approaches in the treatment of specific phobias: A meta-analysis.Clin Psychol Rev28(6):1021-1037, 2008. doi: 10.1016/j.cpr.2008.02.007
+2.Spiegel H, Maruffi BL, Spiegel D, et al: Hypnotic responsivity and the treatment of flying phobia.Am J Clin Hypn23(4):239-247, 1982.https://pubmed.ncbi.nlm.nih.gov/25928602/
+2.Spiegel H, Maruffi BL, Spiegel D, et al: Hypnotic responsivity and the treatment of flying phobia.Am J Clin Hypn23(4):239-247, 1982.https://pubmed.ncbi.nlm.nih.gov/25928602/
+3.Wilhelm FH, Roth WT: Acute and delayed effects of alprazolam on flight phobics during exposure.Behav Res Ther, 35(9):831-841, 1997. doi: 10.1016/s0005-7967(97)00033-8
+3.Wilhelm FH, Roth WT: Acute and delayed effects of alprazolam on flight phobics during exposure.Behav Res Ther, 35(9):831-841, 1997. doi: 10.1016/s0005-7967(97)00033-8

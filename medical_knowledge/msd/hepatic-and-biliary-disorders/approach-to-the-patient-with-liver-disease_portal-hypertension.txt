@@ -1,0 +1,96 @@
+标题：门静脉高压
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/approach-to-the-patient-with-liver-disease/portal-hypertension
+============================================================
+
+（参见肝脏结构和功能和肝脏疾病患者的评估.)
+肠系膜上静脉和脾静脉汇合形成门静脉，将来自腹腔内消化道、脾脏和胰腺的血液引流入肝脏。在网状内皮细胞排列的血液通道（肝窦）内，来自门静脉末端的血液和肝动脉血液混合。血液通过肝静脉流出肝窦流入下腔静脉。
+正常门静脉压力为5～10mmHg（7～14cmH2O），比下腔静脉压高4～5mmHg（门静脉梯度）。高于这个值即定义为门静脉高压。
+
+【门静脉高压的病因】
+门静脉高压主要由回流到门静脉的血流阻力增加所致。病因可分为肝前性（如门静脉血栓形成）、肝内性（如肝硬化或血吸虫病）和肝后性（如肝静脉阻塞）（1）。肝硬化是肝内阻力增高最常见的原因（其他原因参见表门静脉高压最常见原因）。血流量增加是造成门静脉高压罕见的原因，虽然在肝硬化和重度脾大的血液系统疾病引起门静脉高压中起作用。
+
+【门静脉高压最常见的病因】
+门静脉高压最常见的病因
+发病机制或者发病部位
+脾静脉或门静脉血栓形成
+门静脉血流增加（罕见）
+动静脉瘘
+原发性血液系统疾病引起的重度脾大
+特发性门静脉高压
+其他门静脉周围疾病（如原发性胆汁性胆管炎、结节病、先天性肝纤维化）
+血吸虫病
+肝硬化（所有病因）
+肝窦阻塞综合征（肝静脉阻塞性疾病）
+肝静脉血栓形成（Budd-Chiari综合征）
+下腔静脉阻塞
+右心充盈受限
+缩窄性心包炎
+限制型心肌病
+
+【病因参考文献】
+1.Kaplan DE, Ripoll C, Thiele M, et al.AASLD Practice Guidance on risk stratification and management of portal hypertension and varices in cirrhosis.Hepatology.2024;79(5):1180-1211.doi:10.1097/HEP.0000000000000647
+1.Kaplan DE, Ripoll C, Thiele M, et al.AASLD Practice Guidance on risk stratification and management of portal hypertension and varices in cirrhosis.Hepatology.2024;79(5):1180-1211.doi:10.1097/HEP.0000000000000647
+
+【门脉高压的病理生理学】
+在肝硬化中，组织纤维化和细胞再生增加了肝窦和门静脉末端的阻力。 然而，其他潜在可逆的因素也增加阻力，包括窦周细胞的收缩、血管活性物质（如内皮素、一氧化氮）的生成、多种调节动脉阻力的系统介质的生成、可能还有肝细胞肿胀等。导致肝硬化的其他病因和促成因素可能涉及肝前血管（例如门静脉血栓形成）、肝脏内的窦前或窦后血管（例如血吸虫病中的窦前纤维化）或肝后血管或心脏本身（例如肝静脉血栓形成）。
+随着病情进展，门静脉高压引起门－体静脉侧支形成。 它们可能轻度降低门静脉压力，但也可导致并发症。食管远端以及有时出现在胃底的充盈的蛇样黏膜下静脉（曲张静脉）可以发生破裂，造成突发的严重的消化道出血。除非门静脉压力梯度>12mmHg，否则很少发生出血。胃黏膜血管充血（门静脉高压性胃病）也能引起急性或慢性出血，其独立于静脉曲张。腹壁静脉侧支显露常见；静脉由脐向四周放射（水母头样）则较少见，如有则表明脐静脉和脐周静脉有大量的血流。直肠周围的侧支静脉可以引起直肠静脉曲张造成出血。
+门－体侧支静脉分流使血液远离肝脏。这样，当门静脉血流增加时，到达肝脏的血液却减少（减少了肝脏的储备）。此外，肠道中的毒性物质（包括氨）可经分流直接进入体循环，从而导致肝性脑病的发生。门静脉高压造成的内脏静脉淤血通过改变Starling力引起腹水。脾静脉压力增加常引起脾肿大和脾功能亢进。可能造成血小板减少症、白细胞减少症，偶然可以引起溶血性贫血。
+门静脉高压常与高动力循环有关。 发生的机制复杂，可能涉及交感神经张力改变、一氧化氮和其他内源性扩血管物质的生成以及体液因子（如胰高糖素）活性的增加。
+
+【门脉高压的症状和体征】
+门静脉高压没有症状，症状和体征由它的并发症引起。最危险的是急性曲张静脉出血。典型的患者出现突发的无痛性上消化道出血，常是大出血。门静脉高压性胃病引起的出血常为亚急性或慢性的。还可出现腹水、脾大或门-体分流性脑病。
+
+【门静脉高压的诊断】
+主要是病史和体格检查
+主要是病史和体格检查
+有时会使用超声、CT、内窥镜检查或直接经颈静脉测量门静脉压力梯度
+有时会使用超声、CT、内窥镜检查或直接经颈静脉测量门静脉压力梯度
+当慢性肝病患者出现侧支循环、脾大、腹水或门－体分流性脑病时，提示存在门静脉高压。证实存在门静脉高压需要通过经颈静脉插入导管到肝静脉直接测量肝静脉压力梯度，即为门静脉压。它是有创的，通常不进行。当怀疑存在肝硬化时进行影像学检查可能有帮助。超声或者CT常发现扩张的腹腔内侧枝血管，Doppler超声可检测门静脉的通畅情况和血流。
+通过内镜了解是否存在食管胃底静脉曲张和门静脉高压性胃病，这是最好的诊断方法，还可以识别食管胃底曲张静脉出血的预测因素（如曲张静脉上红色征）。
+
+【门静脉高压的治疗】
+定期的内镜治疗和随访
+定期的内镜治疗和随访
+非选择性beta-受体阻滞剂联合或不联合单硝酸异山梨酯
+非选择性beta-受体阻滞剂联合或不联合单硝酸异山梨酯
+有时需要行门静脉分流
+有时需要行门静脉分流
+如果可能，应治疗基础疾病。
+对于已发生出血的食管胃底静脉曲张患者，内镜治疗与药物治疗相结合比单独使用任何一种疗法更能降低死亡率并减少再出血风险。通过一系列内窥镜套扎来消除残留的曲张静脉，然后进行定期的内窥镜随访检查以识别和治疗复发性静脉曲张。长期药物治疗通常包括非选择性beta-受体阻滞剂；尽管效果不确定，但是这些药物主要通过减少门静脉血流而降低门静脉压力。药物包括普萘洛尔、纳多洛尔、噻吗洛尔和卡维地洛，剂量调整至使心率降低约25%。对于代偿性肝硬化患者，卡维地洛是首选的一线β受体阻滞剂，初始剂量和剂量递增根据血压耐受进行调整（1）。除非伴有全身动脉高血压或心脏病，否则β受体阻滞剂的给药剂量通常低于用于心力衰竭的剂量。添加单硝酸异山梨酯可能会进一步降低门静脉压力（2，3）。
+对于尚未出血的食管胃底静脉曲张患者（即初级预防），其预后与beta受体阻滞剂治疗或内窥镜治疗相似。
+对任何一种治疗方法效果不佳的患者，应该考虑予经颈静脉肝内门体分流（transjugular intrahepatic portosystemic shunting, TIPS）或比较不常用的手术门腔静脉分流。TIPS在肝内门静脉和肝静脉血流之间放置支架建立分流道 (1)。尽管TIPS可能导致的即时死亡尤其是在急性出血时少于手术分流，但是维持其通畅可能需要再次手术，因为支架可能会随着时间的推移狭窄或闭塞。长期的好处还不清楚。肝移植对于某些患者是有指征的。
+对于门静脉高压性胃病引起的出血，可以用β阻滞剂降低门静脉压力。如果药物无效，应该考虑分流手术，但是与食管胃静脉曲张出血相比，手术效果可能更差。
+因为脾功能亢进很少引起临床问题，所以不需要特殊治疗，应该避免脾切除。
+
+【治疗参考文献】
+1.Boyer TD, Haskal ZJ; American Association for the Study of Liver Diseases.The Role of Transjugular Intrahepatic Portosystemic Shunt (TIPS) in the Management of Portal Hypertension: update 2009.Hepatology.2010 Jan;51(1):306.doi: 10.1002/hep.23383
+1.Boyer TD, Haskal ZJ; American Association for the Study of Liver Diseases.The Role of Transjugular Intrahepatic Portosystemic Shunt (TIPS) in the Management of Portal Hypertension: update 2009.Hepatology.2010 Jan;51(1):306.doi: 10.1002/hep.23383
+2.Albillos A, Zamora J, Martínez J, et al.Stratifying risk in the prevention of recurrent variceal hemorrhage: Results of an individual patient meta-analysis.Hepatology.2017;66:1219-1231. doi:10.1002/hep.29267
+2.Albillos A, Zamora J, Martínez J, et al.Stratifying risk in the prevention of recurrent variceal hemorrhage: Results of an individual patient meta-analysis.Hepatology.2017;66:1219-1231. doi:10.1002/hep.29267
+3.Kaplan DE, Ripoll C, Thiele M, et al. AASLD Practice Guidance on risk stratification and management of portal hypertension and varices in cirrhosis.Hepatology.2024;79(5):1180-1211.doi:10.1097/HEP.0000000000000647
+3.Kaplan DE, Ripoll C, Thiele M, et al. AASLD Practice Guidance on risk stratification and management of portal hypertension and varices in cirrhosis.Hepatology.2024;79(5):1180-1211.doi:10.1097/HEP.0000000000000647
+
+【门静脉高压的预后】
+急性静脉曲张出血期间的死亡率约为15%至20%，6周死亡率高达43%（1, 2, 3）。预后取决于肝脏储备和出血的程度。对于幸存者来说，如果不采取预防措施，未来1年内出血风险高达60%（4）。持续的内镜或药物治疗可降低再出血风险，但对长期死亡率（>5年时为60%[5]）仅略有改善。对于急性出血的治疗，请参阅胃肠道出血概述和静脉曲张：治疗。
+
+【预后参考】
+1.Reverter E, Tandon P, Augustin S, et al.A MELD-based model to determine risk of mortality among patients with acute variceal bleeding.Gastroenterology.2014;146(2):412-19.e3.doi:10.1053/j.gastro.2013.10.018
+1.Reverter E, Tandon P, Augustin S, et al.A MELD-based model to determine risk of mortality among patients with acute variceal bleeding.Gastroenterology.2014;146(2):412-19.e3.doi:10.1053/j.gastro.2013.10.018
+2.Mertens A, Essing T, Kunstein A, et al.Acute Variceal Hemorrhage in Germany-A Nationwide Study of 65,357 Hospitalized Cases: Variceal Hemorrhage in Germany.Can J Gastroenterol Hepatol.2024;2024:5453294.Published 2024 Oct 24.doi:10.1155/2024/545329
+2.Mertens A, Essing T, Kunstein A, et al.Acute Variceal Hemorrhage in Germany-A Nationwide Study of 65,357 Hospitalized Cases: Variceal Hemorrhage in Germany.Can J Gastroenterol Hepatol.2024;2024:5453294.Published 2024 Oct 24.doi:10.1155/2024/545329
+3.Garcia-Tsao G, Abraldes JG, Rich NE, et al.AGA Clinical Practice Update on the Use of Vasoactive Drugs and IntravenousAlbuminin Cirrhosis: Expert Review.Gastroenterology.2024;166(1):202-210.doi:10.1053/j.gastro.2023.10.016
+3.Garcia-Tsao G, Abraldes JG, Rich NE, et al.AGA Clinical Practice Update on the Use of Vasoactive Drugs and IntravenousAlbuminin Cirrhosis: Expert Review.Gastroenterology.2024;166(1):202-210.doi:10.1053/j.gastro.2023.10.016
+4.Kaplan DE, Ripoll C, Thiele M, et al.AASLD Practice Guidance on risk stratification and management of portal hypertension and varices in cirrhosis.Hepatology.2024;79(5):1180-1211.doi:10.1097/HEP.0000000000000647
+4.Kaplan DE, Ripoll C, Thiele M, et al.AASLD Practice Guidance on risk stratification and management of portal hypertension and varices in cirrhosis.Hepatology.2024;79(5):1180-1211.doi:10.1097/HEP.0000000000000647
+5.Cho H, Nagata N, Shimbo T, et al.Recurrence and prognosis of patients emergently hospitalized for acute esophageal variceal bleeding: A long-term cohort study.Hepatol Res.2016;46(13):1338-1346.doi:10.1111/hepr.12692
+5.Cho H, Nagata N, Shimbo T, et al.Recurrence and prognosis of patients emergently hospitalized for acute esophageal variceal bleeding: A long-term cohort study.Hepatol Res.2016;46(13):1338-1346.doi:10.1111/hepr.12692
+门脉高压通常由肝硬化（在欧洲和北美）、血吸虫病（在流行地区）或肝血管异常引起。
+门脉高压通常由肝硬化（在欧洲和北美）、血吸虫病（在流行地区）或肝血管异常引起。
+并发症包括急性静脉曲张破裂出血（死亡率高）、腹水、脾肿大及门体性脑病。
+并发症包括急性静脉曲张破裂出血（死亡率高）、腹水、脾肿大及门体性脑病。
+应基于临床表现来诊断门脉高压症。
+应基于临床表现来诊断门脉高压症。
+为预防急性静脉曲张破裂出血，应开始定期监测并采用内镜下套扎术。
+为预防急性静脉曲张破裂出血，应开始定期监测并采用内镜下套扎术。
+为防止再出血，使用非选择性beta-受体阻滞剂单用或联合单硝酸异山梨酯、经颈静脉肝内门体分流术（TIPS），或两者联合来治疗。
+为防止再出血，使用非选择性beta-受体阻滞剂单用或联合单硝酸异山梨酯、经颈静脉肝内门体分流术（TIPS），或两者联合来治疗。

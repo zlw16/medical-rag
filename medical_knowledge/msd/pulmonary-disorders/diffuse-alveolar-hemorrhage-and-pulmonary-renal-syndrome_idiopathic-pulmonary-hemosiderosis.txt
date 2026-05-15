@@ -1,0 +1,34 @@
+标题：特发性肺含铁血黄素沉着症
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/diffuse-alveolar-hemorrhage-and-pulmonary-renal-syndrome/idiopathic-pulmonary-hemosiderosis
+============================================================
+
+特发性肺含铁血黄素沉着症是一种罕见疾病，可引起复发性弥漫性肺泡出血，且未发现潜在疾病；主要发生于<10岁的儿童。特发性肺含铁血黄素沉着症患者反复的肺泡出血可最终导致肺含铁血黄素沉着和纤维化。
+由于该疾病罕见且主要发生在儿童中，而针对儿童的代表性研究匮乏，其确切的人群患病率在很大程度上尚不明确。在一项针对成人患者的系统回顾中，诊断时的中位年龄为34岁，且男性患病率约为女性的2倍（1）。
+该病被认为是由于在肺泡毛细血管内皮的缺陷所致，而这可能是因自身免疫损伤引起。许多受影响的患者还患有乳糜泻。
+
+【参考文献】
+1.Chen XY, Sun JM, Huang XJ: Idiopathic pulmonary hemosiderosis in adults: review of cases reported in the latest 15 years.Clin Respir J.2017;11(6):677-681.doi:10.1111/crj.12440
+1.Chen XY, Sun JM, Huang XJ: Idiopathic pulmonary hemosiderosis in adults: review of cases reported in the latest 15 years.Clin Respir J.2017;11(6):677-681.doi:10.1111/crj.12440
+
+【特发性肺含铁血黄素沉着症的症状和体征】
+IPH患儿症状和体征包括反复发作的呼吸困难和咳嗽，特别是初始时干咳。随后出现咯血。患有特发性肺含铁血黄素沉着症患儿可仅表现为生长和体重增长迟缓（发育停滞）和缺铁性贫血。成人患者最常见的症状是由于肺出血及缺铁性贫血所导致的劳力性呼吸困难和疲劳。
+
+【特发性肺含铁血黄素沉着症的诊断】
+胸部影像学检查（X线平片或CT）
+胸部影像学检查（X线平片或CT）
+支气管肺泡灌洗
+支气管肺泡灌洗
+极少情况下需进行肺活检
+极少情况下需进行肺活检
+特发性肺含铁血黄素沉着症被认为是排除性诊断，因为根据定义，只有在找不到弥漫性肺泡出血的其他潜在原因时才能确诊。可进行胸部影像学检查（X光或CT扫描），可能显示弥漫性肺部浸润。诊断需要证明特征性临床表现（例如咯血和弥漫性肺部浸润影）、缺铁性贫血、支气管肺泡灌洗液（BAL）或肺活检标本中含有含铁血黄素巨噬细胞，且没有小血管炎（肺毛细血管炎）或其他解释性诊断的证据。
+如果其他检查结果不确定，则可通过肺活检确诊。
+
+【特发性肺含铁血黄素沉着症的治疗】
+糖皮质激素
+糖皮质激素
+免疫抑制剂是治疗特发性肺含铁血黄素沉着症（1）的首选方法。糖皮质激素可降低急性肺泡出血发作的发病率和病死率，并可能控制疾病向肺纤维化的进展。部分患者可能需要额外的免疫抑制剂（如环磷酰胺、硫唑嘌呤）以改善治疗效果。
+患有乳糜泻的患者应坚持无麸质饮食。
+
+【治疗参考文献】
+1,Saha BK, Milman NT: Idiopathic pulmonary hemosiderosis: a review of the treatments used during the past 30 years and future directions.Clin Rheumatol.2021;40(7):2547-2557.doi:10.1007/s10067-020-05507-4
+1,Saha BK, Milman NT: Idiopathic pulmonary hemosiderosis: a review of the treatments used during the past 30 years and future directions.Clin Rheumatol.2021;40(7):2547-2557.doi:10.1007/s10067-020-05507-4

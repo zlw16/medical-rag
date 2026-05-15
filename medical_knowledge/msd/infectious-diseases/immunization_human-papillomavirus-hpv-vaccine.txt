@@ -1,0 +1,90 @@
+标题：人乳头瘤病毒（HPV）疫苗
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/immunization/human-papillomavirus-hpv-vaccine
+============================================================
+
+人乳头瘤病毒（HPV）感染是最常见的性传播感染。HPV可引起皮肤疣、生殖器疣或某些癌症，具体取决于HPV的类型。疫苗对于预防可导致肛门生殖器疣和宫颈癌的 HPV 病毒株感染具有很高的一级预防效果（1）。但是，使用HPV疫苗也需要巴氏（Pap）检测筛查，因为某些子宫颈癌是由疫苗中未包含的HPV类型引起的。接种疫苗通常可产生持久免疫力。
+(参见疫苗接种概述。)
+
+【参考文献】
+1.Markowitz LE, Unger ER.Human Papillomavirus Vaccination.N Engl J Med.2023;388(19):1790-1798.doi:10.1056/NEJMcp2108502
+1.Markowitz LE, Unger ER.Human Papillomavirus Vaccination.N Engl J Med.2023;388(19):1790-1798.doi:10.1056/NEJMcp2108502
+
+【HPV疫苗制剂】
+有三种疫苗可预防HPV：
+一种人类乳头瘤病毒9价疫苗，可预防HPV 6型和11型（导致>90%的可见生殖器疣）、16型和18型（导致约70%的宫颈癌和90%的肛门癌）以及31型、33型、45型、52型和58型（它们共同导致10%至20%的宫颈癌[1]）。
+一种人类乳头瘤病毒9价疫苗，可预防HPV 6型和11型（导致>90%的可见生殖器疣）、16型和18型（导致约70%的宫颈癌和90%的肛门癌）以及31型、33型、45型、52型和58型（它们共同导致10%至20%的宫颈癌[1]）。
+一种人乳头瘤病毒四价疫苗（4vHPV），可预防6、11、16和18型
+一种人乳头瘤病毒四价疫苗（4vHPV），可预防6、11、16和18型
+一种人乳头瘤病毒二价疫苗（2vHPV），可预防16型和18型
+一种人乳头瘤病毒二价疫苗（2vHPV），可预防16型和18型
+美国现在只有9价疫苗可供接种。
+利用重组DNA技术从HPV主要衣壳（L1）蛋白中制备HPV疫苗。  L1蛋白可自我组装成非感染性、非致瘤性的病毒类似颗粒（VLPs）。
+
+【制剂参考文献】
+1.National Cancer Institute.人乳头瘤病毒（HPV）疫苗。Accessed March 24, 2025.
+1.National Cancer Institute.人乳头瘤病毒（HPV）疫苗。Accessed March 24, 2025.
+
+【HPV 疫苗的适应症】
+HPV疫苗是常规的儿童接种疫苗 。九价疫苗的适用年龄已扩展至27至45岁成年人，用于预防某些人乳头瘤病毒相关癌症和疾病。
+免疫实践咨询委员会（ACIP）的建议如下（1-3）：
+针对26岁及以下的患者：建议在11岁或12岁时接种人乳头瘤病毒疫苗（可从9岁开始接种；如有性虐待或性侵史，建议从9岁开始接种），也适用于既往未接种或未完成全程接种的26岁以下患者。
+针对26岁及以下的患者：建议在11岁或12岁时接种人乳头瘤病毒疫苗（可从9岁开始接种；如有性虐待或性侵史，建议从9岁开始接种），也适用于既往未接种或未完成全程接种的26岁以下患者。
+针对27~45岁的成人：临床医生应与患者共同决策讨论是否应接种疫苗。
+针对27~45岁的成人：临床医生应与患者共同决策讨论是否应接种疫苗。
+美国儿科学会（AAP）建议在9至12岁之间进行人乳头瘤病毒（HPV）疫苗接种，具体接种年龄由儿科保健专业人员根据儿童及家长的接受程度及完成全程接种的可能性综合决定；对于此前未接种或接种未完成者，可延长至18岁前补种（4,5）。
+或者（出于美国以外地区的考虑），可以使用以下方法：
+女性接种4vHPV或2vHPV
+女性接种4vHPV或2vHPV
+男性，包括男男性行为者，接种4vHPV
+男性，包括男男性行为者，接种4vHPV
+
+【适应症参考文献】
+1.Centers for Disease Control and Prevention (CDC).HPV Vaccination Recommendations.Accessed September 23, 2025.
+1.Centers for Disease Control and Prevention (CDC).HPV Vaccination Recommendations.Accessed September 23, 2025.
+2.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+2.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+3.CDC.Human papillomavirus vaccination: Special situations.Accessed September 23, 2025.
+3.CDC.Human papillomavirus vaccination: Special situations.Accessed September 23, 2025.
+4.American Academy of Pediatrics (AAP).Recommended Child and Adolescent Immunization Schedule for Ages 18 Years or Younger.Accessed September 23, 2025.
+4.American Academy of Pediatrics (AAP).Recommended Child and Adolescent Immunization Schedule for Ages 18 Years or Younger.Accessed September 23, 2025.
+5.AAP.Human papillomavirus vaccination: Special situations.Accessed September 23, 2025.
+5.AAP.Human papillomavirus vaccination: Special situations.Accessed September 23, 2025.
+
+【HPV 疫苗的禁忌症及其注意事项】
+HPV疫苗的禁忌证包括：
+既往疫苗接种史或对疫苗成分有严重过敏反应（如过敏性休克）
+既往疫苗接种史或对疫苗成分有严重过敏反应（如过敏性休克）
+对酵母过敏
+对酵母过敏
+虽然不建议孕妇使用HPV疫苗，但接种疫苗前不需要孕检。  如果接种计划在启动之后才确诊怀孕，不需要干预接种，但后续的疫苗接种应延迟到妊娠结束后再进行。
+HPV疫苗的主要注意事项包括：
+伴或不伴发热的中度或重度急性疾病（接种应推迟到疾病缓解后进行）
+伴或不伴发热的中度或重度急性疾病（接种应推迟到疾病缓解后进行）
+
+【HPV 疫苗的剂量与接种】
+HPV疫苗剂量为0.5mL 肌注，根据初次接种HPV疫苗时的年龄分为3剂或2剂系列。
+9~14岁年龄段的初始剂量：在0和6~12个月时接种两剂次。  每剂次之间最小间隔期是5个月。 如果剂量给药过早（在＜5个月内），则应额外给药一剂。
+9~14岁年龄段的初始剂量：在0和6~12个月时接种两剂次。  每剂次之间最小间隔期是5个月。 如果剂量给药过早（在＜5个月内），则应额外给药一剂。
+≥15岁的初始剂量：在0、1~2个月和6个月接种3剂次。  最小间隔：第一剂和第二剂之间的最小间隔为4周，第二剂和第三剂之间的间隔为12周，第一剂和第三剂之间的间隔为5个月。 如果第 2 剂或第 3 剂给药过早，则应重复给药。
+≥15岁的初始剂量：在0、1~2个月和6个月接种3剂次。  最小间隔：第一剂和第二剂之间的最小间隔为4周，第二剂和第三剂之间的间隔为12周，第一剂和第三剂之间的间隔为5个月。 如果第 2 剂或第 3 剂给药过早，则应重复给药。
+部分 27 至 45 岁的成年人：根据共同临床决策的讨论，该年龄段的成年人可完成 2 剂系列接种（如果在 9 至 14 岁时开始接种）或 3 剂系列接种（如果在 ≥ 15 岁时开始接种）（见CDC: Shared Clinical Decision-Making: HPV Vaccination for Adults Aged 27-45 Years（疾病预防控制中心:共同的临床决策:27-45岁的成年人接种HPV疫苗））。
+部分 27 至 45 岁的成年人：根据共同临床决策的讨论，该年龄段的成年人可完成 2 剂系列接种（如果在 9 至 14 岁时开始接种）或 3 剂系列接种（如果在 ≥ 15 岁时开始接种）（见CDC: Shared Clinical Decision-Making: HPV Vaccination for Adults Aged 27-45 Years（疾病预防控制中心:共同的临床决策:27-45岁的成年人接种HPV疫苗））。
+免疫功能低下者，包括 HIV 感染者：免疫功能低下者无论初次接种疫苗时的年龄如何，均可接受上述 3 剂系列注射。
+免疫功能低下者，包括 HIV 感染者：免疫功能低下者无论初次接种疫苗时的年龄如何，均可接受上述 3 剂系列注射。
+
+【HPV疫苗的不良反应】
+常见的不良反应包括：
+注射部位反应，如疼痛、肿胀、红斑、瘙痒和淤青
+注射部位反应，如疼痛、肿胀、红斑、瘙痒和淤青
+有关这些疫苗不良反应的更多信息，请参阅prescribing information（药品说明书）。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Human Papillomavirus (HPV) Vaccine
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Human Papillomavirus (HPV) Vaccine
+Centers for Disease Control and Prevention (CDC):HPV (Human Papillomavirus)
+Centers for Disease Control and Prevention (CDC):HPV (Human Papillomavirus)
+American Academy of Pediatrics (AAP):Recommended Child and Adolescent Immunization Schedule for Ages 18 Years or Younger
+American Academy of Pediatrics (AAP):Recommended Child and Adolescent Immunization Schedule for Ages 18 Years or Younger
+European Centre for Disease Prevention and Control (ECDC):Human Papillomavirus Infection: Recommended vaccinations
+European Centre for Disease Prevention and Control (ECDC):Human Papillomavirus Infection: Recommended vaccinations

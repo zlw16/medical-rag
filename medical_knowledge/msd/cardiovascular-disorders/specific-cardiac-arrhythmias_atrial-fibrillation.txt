@@ -1,0 +1,239 @@
+标题：心房颤动
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/atrial-fibrillation
+============================================================
+
+(参见心律失常概述。）
+心房颤动是由多种电生理和结构机制引发和维持的。在其病程早期，主要机制是局灶性自律和微折返（驱动因素），主要源自心房附近静脉结构中的肌袖，尤其是肺静脉。心房电重塑促进功能性折返回路，包括前导环折返和转子（激活波前的时空组织为快速、局部折返螺旋波，具有离心扩散）。最后，心房结构重塑，包括心房纤维化，允许结构折返（折返激活波前环绕解剖屏障，如疤痕），除了其他现象之外，还会产生多个无序激活的心房小波。在心房颤动时，心房无收缩，大量的电刺激涌向房室（AV）传导系统，引起不一致的冲动传导和不规则的心室率，心室率通常在心动过速范围。
+心房颤动是最常见的心律失常之一，影响美国300万至600万成年人 (1)。男性和白人比女性和黑人更容易患心房颤动。男性一生中患心房颤动的风险约为 25%，女性约为 20%。发病率随年龄增长而增加；50 岁时发病率< 1%，65 岁时发病率 1% 至 4%，80 岁时发病率 6% 至 15%（2）。心房颤动倾向于发生在患潜在心脏病的病人中。
+
+【房颤的并发症】
+心房收缩缺失容易导致血栓形成；脑血管栓塞事件的总体年度风险为 3% 至 5%，心房颤动是所有中风的约 20% 至 25% 的病因（2）。老年患者和中重度二尖瓣狭窄、机械性心脏瓣膜、甲亢、高血压、糖尿病、左心室收缩功能障碍或既往有血栓栓塞事件的患者发生卒中的风险更高。这些因素都被纳入了预测未来血栓栓塞事件风险的评分系统中，例如 CHA(2)DS(2)-VASc 评分，该评分广泛应用于没有中度或重度二尖瓣狭窄或机械心脏瓣膜的患者（无论其 CHA(2)DS(2)-VASc 评分如何，这些患者都需要抗凝治疗）。 全身性栓塞也可引起其他器官（如，心、肾、胃肠道、眼）或肢体的功能异常或坏死
+心房颤动也可能损害心输出量；心房收缩丧失可使正常心率下的心输出量降低20%之多(3)。 这种幅度的减低通常仍能很好耐受，除非心室率变得太快（例如>140次/分），或患者心排血量处于边缘状态或较低。在这种情况下，可能发展为心力衰竭。
+
+【参考文献】
+1.Go AS, Hylek EM, Phillips KA, et al: Prevalence of diagnosed atrial fibrillation in adults: national implications for rhythm management and stroke prevention: the AnTicoagulation and Risk Factors in Atrial Fibrillation (ATRIA) Study.JAMA285(18):2370–2375, 2001.doi: 10.1001/jama.285.18.2370.
+1.Go AS, Hylek EM, Phillips KA, et al: Prevalence of diagnosed atrial fibrillation in adults: national implications for rhythm management and stroke prevention: the AnTicoagulation and Risk Factors in Atrial Fibrillation (ATRIA) Study.JAMA285(18):2370–2375, 2001.doi: 10.1001/jama.285.18.2370.
+2.Andrade J, Khairy P, Dobrev D, et al: The clinical profile and pathophysiology of atrial fibrillation: relationships among clinical features, epidemiology, and mechanisms.Circ Res114(9):1453–1468, 2014.doi: 10.1161/CIRCRESAHA.114.303211.
+2.Andrade J, Khairy P, Dobrev D, et al: The clinical profile and pathophysiology of atrial fibrillation: relationships among clinical features, epidemiology, and mechanisms.Circ Res114(9):1453–1468, 2014.doi: 10.1161/CIRCRESAHA.114.303211.
+3.Klavebäck S, Skúladóttir H, Olbers J, et al: Changes in cardiac output, rhythm regularity, and symptom severity after electrical cardioversion of atrial fibrillation.Scand Cardiovasc J57(1):2236341, 2023.doi: 10.1080/14017431.2023.2236341
+3.Klavebäck S, Skúladóttir H, Olbers J, et al: Changes in cardiac output, rhythm regularity, and symptom severity after electrical cardioversion of atrial fibrillation.Scand Cardiovasc J57(1):2236341, 2023.doi: 10.1080/14017431.2023.2236341
+
+【房颤的病因】
+房颤最常见的病因为
+冠状动脉疾病
+冠状动脉疾病
+心脏瓣膜疾病：二尖瓣狭窄,二尖瓣关闭不全,三尖瓣反流
+心脏瓣膜疾病：二尖瓣狭窄,二尖瓣关闭不全,三尖瓣反流
+甲状腺功能亢进
+甲状腺功能亢进
+狂饮酒精饮料（假日心脏病）
+狂饮酒精饮料（假日心脏病）
+房颤少见病因包括
+房间隔缺损和其他先天性心脏病
+房间隔缺损和其他先天性心脏病
+慢性阻塞性肺病（COPD）
+慢性阻塞性肺病（COPD）
+睡眠呼吸暂停
+睡眠呼吸暂停
+孤立性心房颤动是指年龄<60岁的患者无明确病因的心房颤动。
+
+【房颤的分类】
+阵发性房颤是指持续时间<1 周内，并自发或通过干预转为正常窦性心律的心房颤动。可阵发性复发 (1)。
+持续性房颤是指心房颤动持续时间>1周 (1)。
+长程持续性房颤是指持续时间> 1年，但仍有恢复窦性心律的可能性 (1)。
+永久性心房颤动不能转换为窦性心律（该术语还包括已决定不尝试转换为窦性心律的患者） (1)。心房颤动持续时间越长，其自行转复的可能性越低，且电复律的难度越大，这是由于心房重构（即快速心房率引发的心房电生理改变，包括心房不应期缩短、心房不应期空间离散度增加、心房传导速度减慢，或上述改变的组合）所致。(2)。
+
+【分类参考】
+1.Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation149(1):e1–e156, 2024.doi: 10.1161/CIR.0000000000001193
+1.Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation149(1):e1–e156, 2024.doi: 10.1161/CIR.0000000000001193
+2.Allessie M, Ausma J, Schotten U: Electrical, contractile and structural remodeling during atrial fibrillation.Cardiovasc Res54(2):230–246, 2002.doi: 10.1016/s0008-6363(02)00258-4
+2.Allessie M, Ausma J, Schotten U: Electrical, contractile and structural remodeling during atrial fibrillation.Cardiovasc Res54(2):230–246, 2002.doi: 10.1016/s0008-6363(02)00258-4
+
+【房颤的症状和体征】
+心房颤动常无症状，但许多病人有心悸、隐约胸部不适或心力衰竭的症状（如，疲乏、头晕、呼吸困难），特别是当心室率非常快时（常为140～160次/分）。病人也可能存在急性脑卒中或由于系统性栓塞所致的其他器官损害的症状和体征。
+脉搏完全不规则，且颈静脉搏动中的a波消失。可能出现脉搏短绌（心尖部心室率快于腕部触诊心率），这是因为在与前一次心搏紧密相连的心搏中，左心室每搏输出量并不总能足以产生可被外周感知的压力波。
+
+【房颤的诊断】
+心电图（ECG）
+心电图（ECG）
+超声心动图
+超声心动图
+甲状腺功能检查
+甲状腺功能检查
+通过心电图诊断房颤（见图心房颤动）。 表现包括
+P波消失
+P波消失
+QRS复合波群之间存在f波（颤动波）; f波持续时间不规则、形态不规则；基线波动频率>300次/分，通常在V1导联中最明显，但并非在所有导联中都显而易见
+QRS复合波群之间存在f波（颤动波）; f波持续时间不规则、形态不规则；基线波动频率>300次/分，通常在V1导联中最明显，但并非在所有导联中都显而易见
+绝对不规则的R-R间期
+绝对不规则的R-R间期
+
+【心房颤动】
+心房颤动
+其他不规则的心律可能在心电图上类似心房颤动，但由于存在离散的P波或扑动波而可做出鉴别，用刺激迷走神经的动作有时可使上述现象看得更清楚。肌肉震颤或电的干扰可能类似f波，但基础心律是规则的。
+心房颤动也可能引起类似于室性期外收缩或室性心动过速的现象（Ashman现象）。这种现象通常发生在长 R-R 间期后出现短 R-R 间期时；较长的间期延长了希氏束以下传导系统的不应期，而随后的短 R-R QRS 波群则出现传导异常，通常表现为右束支传导阻滞形态。 (1)。
+超声心动图和甲状腺功能检查在初始评估时是重要的 (2)。
+超声心动图检查是为了评估结构性心脏缺陷（如，左心房扩大、左心室室壁运动异常提示过去或现在存在心肌缺血、瓣膜病变、心肌病）以及确定脑卒中的附加危险因子（如，心房血液淤滞或血栓、复杂的主动脉斑块）。心房血栓最可能位于心耳，用经食管而非经胸壁超声心动图的方法最能检出该处的血栓。
+
+【经验与提示】
+经验与提示
+伴有宽 QRS 波群的心房颤动，可能提示存在沃 - 帕 - 怀综合征；在此类病例中，使用房室结阻滞剂可能导致致命后果。
+伴有宽 QRS 波群的心房颤动，可能提示存在沃 - 帕 - 怀综合征；在此类病例中，使用房室结阻滞剂可能导致致命后果。
+
+【诊断参考】
+1.Morton MB, Morton JB, Mond HG: Aberrant Ventricular Conduction: Revisiting an Old Concept.Heart Lung Circ32(5):555–566, 2023.doi: 10.1016/j.hlc.2023.03.001
+1.Morton MB, Morton JB, Mond HG: Aberrant Ventricular Conduction: Revisiting an Old Concept.Heart Lung Circ32(5):555–566, 2023.doi: 10.1016/j.hlc.2023.03.001
+2.Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation149(1):e1–e156, 2024.doi: 10.1161/CIR.0000000000001193
+2.Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation149(1):e1–e156, 2024.doi: 10.1161/CIR.0000000000001193
+
+【房颤的治疗】
+药物控制心室率或房室结消融
+药物控制心室率或房室结消融
+有时通过同步心脏电复律、药物或心房颤动基质消融进行节律控制。
+有时通过同步心脏电复律、药物或心房颤动基质消融进行节律控制。
+预防血栓栓塞
+预防血栓栓塞
+血流动力学不稳定的心房颤动患者可能受益于住院治疗。反复发作的患者不需要住院治疗，除非其他症状表明需要住院治疗。处理了诱发因素以后，心房颤动的治疗就集中在心室率的控制、心律控制和预防血栓栓塞上。
+
+【心室率控制】
+任何病程的心房颤动患者都需要心率控制（通常是达到静息时<100次/分）以控制症状和预防心动过速诱发的心肌病 (1)。
+对急性阵发性快速心率（如140~160次/分），静脉用房室结阻断剂（剂量见表抗心律失常药物）。警告：房室结阻断剂不应该用于房室附加通道参与（宽QRS波群可提示）的预激综合征病人；这些药物可增加经旁道传导的频率，可能导致心室颤动(1)。
+如果怀疑儿茶酚胺过多时（例如甲状腺疾病、运动触发的情况下），优选β受体阻滞剂（例如美托洛尔、艾司洛尔）(1)。
+非二氢吡啶类钙通道阻滞剂（如维拉帕米、地尔硫䓬）也有效。地高辛是效果最差的，但如果存在心力衰竭时可优先选择。这些药物可以口服以用作长期心率控制 (1)。
+当β受体阻滞剂、非二氢吡啶类钙通道阻滞剂和地高辛分别或联合应用无效时，可能需要应用胺碘酮 (1)。胺碘酮也可能将心房颤动转换为窦性心律；然而，对于一些未接受抗凝治疗的患者来说，这种转换可能并不理想（见预防血栓栓塞）。
+
+【心律控制】
+对于新发房颤直接导致心衰或其他血流动力学损害的患者，恢复正常窦性心律可改善心排血量 (1)。在其他病例中，心房颤动转复成正常窦性心律是最理想的选择，但是有此效果的抗心律失常药物（Ⅰa、Ⅰc、Ⅲ类）有副作用的风险并可能增加死亡率。转复成窦性心律并不能排除长期抗凝的需要。
+同步心脏电转复或药物都能用于急性复律。
+在尝试转换之前，应将心室率控制到<120 次/分钟，大多数患者应接受抗凝治疗（有关标准和方法，请参阅预防血栓栓塞），因为无论采用何种方法，心房颤动的转换都会暂时增加血栓栓塞的风险。
+同步心脏复律（双向波200焦耳，必要时随后使用双向波300焦耳和360焦耳）可使约90%的患者的心房颤动转为正常窦性心律，但复发率很高(2)。在操作前24~48小时应用Ⅰa、Ⅰc、Ⅲ类抗心律失常药物可提高复律和其后窦性心律维持的有效性。对于短期的心房颤动、孤立性心房颤动或有可逆因素的房颤，心脏复律更有效；当左心房扩大（>5cm）或有明显的基本的结构性心脏病存在时心脏复律较少有效。
+使心房颤动转复成窦性心律的药物包括Ia类（普鲁卡因胺、奎尼丁、丙吡胺），Ic类（氟卡尼、普罗帕酮）和III类（胺碘酮、多非利特、决奈德隆、伊布利特、索他洛尔、维纳卡兰）抗心律失常药（见表抗心律失常药物）。一项荟萃分析报告称，4 小时内特定药物的心脏复律率约为 25% 至 65%；最有效的药物是 IV维纳卡兰, IV氟卡尼, IV普罗帕酮, 口服氟卡尼和 IV伊布利特（3）。除胺碘酮和索他洛尔外（这些药物也会减慢心房颤动时的心室反应率），在心率得到控制之前不应使用这些药物。
+上述复律药物与口服剂型也可用于长期维持窦性心律（不论以往有无心脏复律史）。Cochrane 审查发现，抗心律失常药物的疗效为 33% 至 57%，其中胺碘酮最有效（4）。然而，为此目的使用抗心律失常药物会导致更多不良事件，包括死亡。对于仅在或几乎仅在休息或睡眠时迷走神经张力增高时发生的阵发性心房颤动，具有迷走神经抑制作用的药物（如丙吡胺）可能尤为有效。β受体阻滞剂可以更好地预防运动诱发的房颤。
+对一些反复发作阵发性房颤的患者而且若其能根据症状确定发作，一些医生建议患者准备药物，在心悸发作时自行服用单一负荷剂量的氟卡尼（≥70kg的患者使用300mg，其他患者使用200mg）或普罗帕酮（≥70kg患者使用600mg，其他患者使用450mg）以治疗（称为“随身携带药物”法）(5)。该方法仅限于没有窦房结或房室结功能障碍、束支传导阻滞、QT间期延长、Brugada综合征或器质性心脏病的患者。其主要风险（预计约1%）是可能使房颤转为相对缓慢的房扑，并出现1：1下传，心率在200～240次/分范围(5)。可以通过联用房室结抑制药物（如β受体阻滞剂或非二氢吡啶类钙通道阻滞剂）减少这种潜在并发症的发生频率。
+血管紧张素转换酶（ACE）抑制剂、血管紧张素Ⅱ受体阻滞剂（ARBs）和醛固酮阻滞剂可能减弱为心房颤动提供基质的心肌纤维化，但在心房颤动的常规治疗中，这些药物的作用还待确定。
+
+【房颤的消融治疗】
+对于不适合进行心率控制或心律控制或这些方法无效的患者，可进行房室结消融，以导致完全性心脏传导阻滞；随后需要植入永久性心脏起搏器。消融慢房室结通路（房室结改良）可减少到达心室的心房冲动数量，并可避免植入起搏器，但该方法被认为效果不如完全消融，因此很少使用。
+通过消融使肺静脉与左心房的电隔离，不引起房室传导阻滞就能起到预防房颤的作用。与治疗室上性心律失常的消融手术相比，肺静脉隔离的成功率较低（60% 至 80%），且主要并发症发生率较高（1% 至 5%）(6)。对未服用抗心律失常药物的患者进行的随机试验表明，经过 17 个月的随访，消融治疗房性心动过速的复发率（约 30%）低于药物治疗（约 50%），且主要不良事件无显著差异（7）。此外，荟萃分析表明，与药物治疗相比，导管消融可降低全因死亡率，这在合并心力衰竭的患者中最为明显，并可减少阵发性房颤患者和伴有或不伴有心力衰竭的持续性房颤患者的住院率（8）。因此，指南将导管消融作为 I 类适应症，适用于抗心律失常药物控制心律失败的房颤患者、同时存在射血分数降低的心力衰竭患者，以及房颤病程早期中可作为一线治疗的特定患者（1）。
+还有一种用于治疗心房颤动的开胸外科消融手术（迷宫手术），但它主要为有其他开胸外科手术指征的患者保留，而不是用作独立手术（9）。
+目前正在进行随机临床试验，以解决消融手术明显成功后持续长期口服抗凝的需求。指南建议消融后进行长期抗凝治疗，其指导原则与未进行消融的患者相同，无论手术是否成功（1）。
+
+【预防血栓栓塞】
+对于某些心房颤动患者，根据其估计的中风风险与出血风险，采取长期措施预防血栓栓塞（例如，根据CHA(2)DS(2)-VASc 评分[8] 和HAS-BLED工具[10]）。
+
+【CHA(2)DS(2)-VASc Score】
+CHA(2)DS(2)-VASc Score
+充血性心力衰竭病史
+高血压病史
+年龄 ≥ 75岁
+糖尿病史
+既往有脑卒中/短暂性脑缺血发作（TIA）
+血管疾病
+年龄65～74岁
+性别（女）
+不同地区的房颤抗栓治疗的指南不同。美国目前的指南如下（1）。
+对于以下情况的心房颤动患者，建议进行长期口服抗凝治疗（I 类建议）：
+中度至重度风湿性二尖瓣狭窄
+中度至重度风湿性二尖瓣狭窄
+机械人工心脏瓣膜（有或无心房颤动）
+机械人工心脏瓣膜（有或无心房颤动）
+非瓣膜性心房颤动（即无中至重度风湿性二尖瓣狭窄或机械心脏瓣膜），男性 CHA(2)DS(2)-VASc 评分≥ 2，女性 CHA(2)DS(2)-VASc 评分≥ 3
+非瓣膜性心房颤动（即无中至重度风湿性二尖瓣狭窄或机械心脏瓣膜），男性 CHA(2)DS(2)-VASc 评分≥ 2，女性 CHA(2)DS(2)-VASc 评分≥ 3
+肥厚型心肌病
+肥厚型心肌病
+这些患者发生血栓栓塞的年风险≥2%。
+长期口服抗凝治疗适合于以下情况（IIa 类建议）：
+患有非瓣膜性心房颤动且 CHA(2)DS(2)-VASc 评分男性为 1 分、女性为 2 分的患者
+患有非瓣膜性心房颤动且 CHA(2)DS(2)-VASc 评分男性为 1 分、女性为 2 分的患者
+这些患者发生血栓栓塞的年风险为1%至2%。
+不建议以下患者进行长期口服抗凝治疗：
+非瓣膜性心房颤动，且男性 CHA(2)DS(2)-VASc 评分为 0 分，女性为 1 分
+非瓣膜性心房颤动，且男性 CHA(2)DS(2)-VASc 评分为 0 分，女性为 1 分
+这些患者发生血栓栓塞的年风险为 < 1%。
+以下建议适用于抗凝治疗手段：
+心房颤动和机械心脏瓣膜患者用华法林治疗（一级推荐）。
+心房颤动和机械心脏瓣膜患者用华法林治疗（一级推荐）。
+房颤和中度至重度风湿性二尖瓣狭窄患者用华法林治疗（I类推荐）。
+房颤和中度至重度风湿性二尖瓣狭窄患者用华法林治疗（I类推荐）。
+对于接受口服抗凝剂治疗的非瓣膜性心房颤动患者，可给予华法林、阿哌沙班、达比加群、依度沙班或利伐沙班（I 类推荐）。
+对于接受口服抗凝剂治疗的非瓣膜性心房颤动患者，可给予华法林、阿哌沙班、达比加群、依度沙班或利伐沙班（I 类推荐）。
+当使用华法林时，目标国际标准化比率 (INR) 为 2.0 至 3.0。
+当使用华法林时，目标国际标准化比率 (INR) 为 2.0 至 3.0。
+对于适合使用华法林（或另一种维生素K拮抗剂）或非维生素K拮抗剂（如阿哌沙班、达比加群、依度沙班或利伐沙班）进行抗凝治疗的患者，首选非维生素K拮抗剂（I类推荐）。
+对于适合使用华法林（或另一种维生素K拮抗剂）或非维生素K拮抗剂（如阿哌沙班、达比加群、依度沙班或利伐沙班）进行抗凝治疗的患者，首选非维生素K拮抗剂（I类推荐）。
+不建议使用阿司匹林单一疗法来预防血栓栓塞。
+不建议使用阿司匹林单一疗法来预防血栓栓塞。
+对于肾功能不全程度超过中度的患者，这些一般指导原则会有所改变，随着肾功能不全从慢性肾病 1、2 和 3 期（eGFR > 30 mL/分钟 [I 类建议]）进展到慢性肾病 4 期（eGFR 15 至 30 mL/分钟 [IIa 类建议]）再到慢性肾病 5 期（eGFR < 15 mL/分钟或正在接受透析 [IIb 类建议]），患者对抗凝治疗的热情会降低。
+由于非瓣膜性心房颤动患者中 90% 的左心房血栓位于左心耳，因此此类患者的卒中预防可通过手术结扎左心耳或使用经导管装置封堵来实现。指南规定，对于患有心房颤动且 CHA(2)DS(2)-VASc 评分≥ 2 的患者，当有适当的抗血栓治疗禁忌时，左心耳封堵术为 IIa 类指征；对于此类患者，根据患者偏好，左心耳封堵术为 IIb 类指征（1）。
+患者的出血风险可以用一些预测工具来评估，其中最常用的是HAS-BLED评分 (11) （见表房颤患者出血风险预测HAS-BLED工具）。HAS-BLED对于确定以下情况最有价值，即纠正相关因素后，出血风险降低，而不是识别有出血高危风险而不宜抗凝治疗的患者。
+
+【HAS-BLED预测房颤患者出血风险工具】
+HAS-BLED预测房颤患者出血风险工具
+未控制的高血压
+肾功能异常
+肝功能异常
+既往卒中史
+既往出血史
+华法林治疗过程中国际标准化比值(INR)多变（定义为保持在治疗范围内的时间小于60％）
+老年人（> 65岁）
+药物使用（定义为伴随使用非甾体抗炎药[NSAID]或抗血小板药物）
+饮酒（定义为每周饮酒量 > 8个酒精单位）
+
+【心脏复律患者血栓栓塞的预防】
+指南建议在心脏复律期间采取以下预防措施（1)：
+
+【接受心脏复律治疗的患者的抗凝治疗】
+接受心脏复律治疗的患者的抗凝治疗
+* 如果 TEE 未显示心房血栓，可给予抗凝剂<3 周。
+TEE = 经食管超声心动图（排除左心房血栓）。
+如果心房颤动持续时间>48小时，患者通常应在药物或直流电复律前接受口服抗凝剂治疗>3周。如果需要立即进行心脏复律，建议在心脏复律前进行经食道超声心动图 (TEE) 以排除心房血栓。如果 TEE 未显示左心房血栓，则可以在转换前进行较短时间的抗凝治疗。抗凝治疗应在心律转复后至少持续4周（这是一项I类推荐）。
+如果心房颤动持续时间>48小时，患者通常应在药物或直流电复律前接受口服抗凝剂治疗>3周。如果需要立即进行心脏复律，建议在心脏复律前进行经食道超声心动图 (TEE) 以排除心房血栓。如果 TEE 未显示左心房血栓，则可以在转换前进行较短时间的抗凝治疗。抗凝治疗应在心律转复后至少持续4周（这是一项I类推荐）。
+如果心房颤动持续时间<48 小时，对于 CHA(2)DS(2)-VASc 评分≥ 2 分且未进行治疗性抗凝治疗 > 3 周的患者，应在复律前进行 TEE 以排除左心房血栓（IIb 类建议）。
+如果心房颤动持续时间<48 小时，对于 CHA(2)DS(2)-VASc 评分≥ 2 分且未进行治疗性抗凝治疗 > 3 周的患者，应在复律前进行 TEE 以排除左心房血栓（IIb 类建议）。
+如果心房颤动持续时间不到 12 小时，且患者的 CHA(2)DS(2)-VASc 评分为 0 至 1 分（见表格CHA(2)DS(2)-VASc 评分)，复律前 TEE 和复律前抗凝治疗的益处尚不确定（这意味着，虽然没有明说，但后一组患者可以在不进行复律前 TEE 或复律前抗凝治疗的情况下进行心脏复律。
+如果心房颤动持续时间不到 12 小时，且患者的 CHA(2)DS(2)-VASc 评分为 0 至 1 分（见表格CHA(2)DS(2)-VASc 评分)，复律前 TEE 和复律前抗凝治疗的益处尚不确定（这意味着，虽然没有明说，但后一组患者可以在不进行复律前 TEE 或复律前抗凝治疗的情况下进行心脏复律。
+
+【经验与提示】
+经验与提示
+如果可能的话，尝试房颤转换为窦性心律前应给予抗凝治疗。
+如果可能的话，尝试房颤转换为窦性心律前应给予抗凝治疗。
+对于符合抗凝标准的患者转复成窦性心律并不能排除长期抗凝的需要。
+对于符合抗凝标准的患者转复成窦性心律并不能排除长期抗凝的需要。
+
+【治疗参考文献】
+1.Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation149(1):e1–e156, 2024.doi: 10.1161/CIR.0000000000001193
+1.Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation149(1):e1–e156, 2024.doi: 10.1161/CIR.0000000000001193
+2.Crijns HJ, Weijs B, Fairley AM, et al: Contemporary real life cardioversion of atrial fibrillation: Results from the multinational RHYTHM-AF study.Int J Cardiol172(3):588–594, 2014.doi:10.1016/j.ijcard.2014.01.099
+2.Crijns HJ, Weijs B, Fairley AM, et al: Contemporary real life cardioversion of atrial fibrillation: Results from the multinational RHYTHM-AF study.Int J Cardiol172(3):588–594, 2014.doi:10.1016/j.ijcard.2014.01.099
+3.Tsiachris D, Doundoulakis I, Pagkalidou E, et al: Pharmacologic Cardioversion in Patients with Paroxysmal Atrial Fibrillation: A Network Meta-Analysis.Cardiovasc Drugs Ther35(2):293–308, 2021.doi: 10.1007/s10557-020-07127-1
+3.Tsiachris D, Doundoulakis I, Pagkalidou E, et al: Pharmacologic Cardioversion in Patients with Paroxysmal Atrial Fibrillation: A Network Meta-Analysis.Cardiovasc Drugs Ther35(2):293–308, 2021.doi: 10.1007/s10557-020-07127-1
+4.Valembois L, Audureau E, Takeda A, et al: Antiarrhythmics for maintaining sinus rhythm after cardioversion of atrial fibrillation.Cochrane Database Syst Rev9(9):CD005049, 2019.doi: 10.1002/14651858.CD005049.pub5
+4.Valembois L, Audureau E, Takeda A, et al: Antiarrhythmics for maintaining sinus rhythm after cardioversion of atrial fibrillation.Cochrane Database Syst Rev9(9):CD005049, 2019.doi: 10.1002/14651858.CD005049.pub5
+5.Ibrahim OA, Belley-Côté EP, Um KJ, et al: Single-dose oral anti-arrhythmic drugs for cardioversion of recent-onset atrial fibrillation: a systematic review and network meta-analysis of randomized controlled trials.Europace23(8):1200–1210, 2021.doi: 10.1093/europace/euab014
+5.Ibrahim OA, Belley-Côté EP, Um KJ, et al: Single-dose oral anti-arrhythmic drugs for cardioversion of recent-onset atrial fibrillation: a systematic review and network meta-analysis of randomized controlled trials.Europace23(8):1200–1210, 2021.doi: 10.1093/europace/euab014
+6.Voskoboinik A, Moskovitch JT, Harel N, Sanders P, Kistler PM, Kalman JM: Revisiting pulmonary vein isolation alone for persistent atrial fibrillation: A systematic review and meta-analysis.Heart Rhythm14(5):661–667, 2017.doi:10.1016/j.hrthm.2017.01.003
+6.Voskoboinik A, Moskovitch JT, Harel N, Sanders P, Kistler PM, Kalman JM: Revisiting pulmonary vein isolation alone for persistent atrial fibrillation: A systematic review and meta-analysis.Heart Rhythm14(5):661–667, 2017.doi:10.1016/j.hrthm.2017.01.003
+7.Razzack AA, Lak HM, Pothuru S, et al: Efficacy and Safety of Catheter Ablation vs Antiarrhythmic Drugs as Initial Therapy for Management of Symptomatic Paroxysmal Atrial Fibrillation: A Meta-Analysis.Rev Cardiovasc Med23(3):112, 2022.doi: 10.31083/j.rcm2303112
+7.Razzack AA, Lak HM, Pothuru S, et al: Efficacy and Safety of Catheter Ablation vs Antiarrhythmic Drugs as Initial Therapy for Management of Symptomatic Paroxysmal Atrial Fibrillation: A Meta-Analysis.Rev Cardiovasc Med23(3):112, 2022.doi: 10.31083/j.rcm2303112
+8.Ravi V, Poudyal A, Lin L, et al: Mortality benefit of catheter ablation versus medical therapy in atrial fibrillation: An RCT only meta-analysis.J Cardiovasc Electrophysiol33(2):178–193, 2022.doi: 10.1111/jce.15330
+8.Ravi V, Poudyal A, Lin L, et al: Mortality benefit of catheter ablation versus medical therapy in atrial fibrillation: An RCT only meta-analysis.J Cardiovasc Electrophysiol33(2):178–193, 2022.doi: 10.1111/jce.15330
+9.Guo Q, Yan F, Ouyang P, et al: Bi-atrial or left atrial ablation of atrial fibrillation during concomitant cardiac surgery: A Bayesian network meta-analysis of randomized controlled trials.J Cardiovasc Electrophysiol32(8):2316–2328, 2021.doi:10.1111/jce.15127
+9.Guo Q, Yan F, Ouyang P, et al: Bi-atrial or left atrial ablation of atrial fibrillation during concomitant cardiac surgery: A Bayesian network meta-analysis of randomized controlled trials.J Cardiovasc Electrophysiol32(8):2316–2328, 2021.doi:10.1111/jce.15127
+10.Lip GY, Nieuwlaat R, Pisters R, et al: Refining clinical risk stratification for predicting stroke and thromboembolism in atrial fibrillation using a novel risk factor-based approach: the Euro Hart Survey on atrial fibrillation.Chest137(2):263–272, 2010.doi: 10.1378/chest.09-1584
+10.Lip GY, Nieuwlaat R, Pisters R, et al: Refining clinical risk stratification for predicting stroke and thromboembolism in atrial fibrillation using a novel risk factor-based approach: the Euro Hart Survey on atrial fibrillation.Chest137(2):263–272, 2010.doi: 10.1378/chest.09-1584
+11.Pisters R, Lane DA, Nieuwlaat R, et al: A novel user-friendly score (HAS-BLED) to assess 1-year risk of major bleeding in patients with atrial fibrillation: the Euro Heart Survey.Chest138(5):1093–1100, 2010.doi: 10.1378/chest.10-0134
+11.Pisters R, Lane DA, Nieuwlaat R, et al: A novel user-friendly score (HAS-BLED) to assess 1-year risk of major bleeding in patients with atrial fibrillation: the Euro Heart Survey.Chest138(5):1093–1100, 2010.doi: 10.1378/chest.10-0134
+房颤是一种绝对不规则的心房节律，可以是发作性或者持续性的。
+房颤是一种绝对不规则的心房节律，可以是发作性或者持续性的。
+QRS波群通常是窄的；心室内传导缺陷或Wolff-Parkinson-White综合征时可能出现宽大QRS波群。
+QRS波群通常是窄的；心室内传导缺陷或Wolff-Parkinson-White综合征时可能出现宽大QRS波群。
+患者应该做心电图、超声心动图和甲状腺功能检测。
+患者应该做心电图、超声心动图和甲状腺功能检测。
+控制心室率（通常是静息时<100次/分）；一线药物包括beta受体阻滞剂和非二氢吡啶类钙离子通道阻滞剂（例如维拉帕米、地尔硫卓）。
+控制心室率（通常是静息时<100次/分）；一线药物包括beta受体阻滞剂和非二氢吡啶类钙离子通道阻滞剂（例如维拉帕米、地尔硫卓）。
+转复窦性心律并不消除抗凝的必要性，但可能有助于症状持续或血流动力学受损（如心力衰竭）的患者；可使用同步电复律或药物复律。
+转复窦性心律并不消除抗凝的必要性，但可能有助于症状持续或血流动力学受损（如心力衰竭）的患者；可使用同步电复律或药物复律。
+有血栓栓塞危险因素的患者需要长期口服抗凝药以预防卒中。
+有血栓栓塞危险因素的患者需要长期口服抗凝药以预防卒中。
+复律之前通常需要接受抗凝治疗。
+复律之前通常需要接受抗凝治疗。

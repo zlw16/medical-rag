@@ -1,0 +1,54 @@
+标题：短 QT 间期综合征
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/short-qt-interval-syndromes
+============================================================
+
+（参见心律失常概述和离子通道病概述。)
+心脏离子通道功能紊乱可能涉及
+复极钾电流通道功能增益
+复极钾电流通道功能增益
+去极化钠或去极化钙电流通道功能丧失
+去极化钠或去极化钙电流通道功能丧失
+Cl-/HCO3-交换器功能丧失
+Cl-/HCO3-交换器功能丧失
+请注意，复极化钾电流通道功能增益或去极化钠/钙电流通道功能丧失的变化，与长QT间期综合征中的变化相反。
+动作电位持续时间的缩短最明显出现在心室心外膜层，可能会导致多形性室性心动过速（VT）或心室颤动（VF），通常会导致猝死。室性心动过速的可能性随着心率校正 QT 间期 (QTc) 缩短程度的增加而增加。一些 SQTS 患者也容易出现心房颤动。有报道称，该综合征与早期复极化综合征存在重叠。
+短QT间期综合征的分类基于发生突变的特定基因最常见的异常基因包括KCNH2，KCNQ1，KCNJ2， 和SLC4A3。
+患者通常无症状，除非发生心房颤动或室性心动过速/心室颤动（VT/VF），这可能会引起心悸、近乎晕厥、晕厥或心脏骤停。
+
+【短QT 间期综合征的诊断】
+具体的临床和心电图标准
+具体的临床和心电图标准
+基因检测
+基因检测
+一级亲属筛查
+一级亲属筛查
+当患者没有结构性心脏病时，应考虑对不明原因的心脏骤停或晕厥或有此类家族史的患者进行诊断。在因其他原因做心电图时发现有短QT间期的人也应考虑此诊断。
+通过心电图显示 QTc 缩短即可诊断。QTc需要缩短至何种程度尚有争议，但通常范围从<0.30秒到≤0.36秒不等；当患者或其他家庭成员有已知的突变、有记录的室性心动过速 / 心室颤动或不明原因的心脏停搏时，较长的持续时间可能更合适 (1)。2017 年美国心脏协会/美国心脏病学会/心律学会指南采用 ≤ 0.34 秒 (2）。年龄小于 21 岁的人中，约有 5/10,000 符合这一标准（3）。基因检测的阳性率很低（大约20%）（4）。已提出了诊断标准（1、5）。额外的测试可能包括动态心律监测和心脏成像。
+患者的一级家属应进行临床评估（即检测提示心律失常的症状）和心电图当患者出现已识别的突变时，会对其家庭成员进行基因检测。
+
+【诊断参考】
+1.Priori SG, Blomstrom-Lundqvist C, Mazzanati A, et al: 2015 ESC Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: The Task Force for the Management of Patients with Ventricular Arrhythmias and the Prevention of Sudden Death of the European Society of Cardiology (ESC).Endorsed by: Association for European Paediatric and Congenital Cardiology (AEPC).Eur Heart J36:2793–2867, 2015.doi: 10.1093/eurheartj/ehv316
+1.Priori SG, Blomstrom-Lundqvist C, Mazzanati A, et al: 2015 ESC Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: The Task Force for the Management of Patients with Ventricular Arrhythmias and the Prevention of Sudden Death of the European Society of Cardiology (ESC).Endorsed by: Association for European Paediatric and Congenital Cardiology (AEPC).Eur Heart J36:2793–2867, 2015.doi: 10.1093/eurheartj/ehv316
+2.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Circulation138(13):e272–e391, 2018.doi: 10.1161/CIR.0000000000000549
+2.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Circulation138(13):e272–e391, 2018.doi: 10.1161/CIR.0000000000000549
+3.Guerrier K, Kwiatkowski D, Czosek RJ, et al: Short QT Interval Prevalence and Clinical Outcomes in a Pediatric Population.Circ Arrhythm Electrophysiol8(6):1460–1464, 2015.doi: 10.1161/CIRCEP.115.003256
+3.Guerrier K, Kwiatkowski D, Czosek RJ, et al: Short QT Interval Prevalence and Clinical Outcomes in a Pediatric Population.Circ Arrhythm Electrophysiol8(6):1460–1464, 2015.doi: 10.1161/CIRCEP.115.003256
+4.Giustetto C, Schimpf R, Mazzanti A, et al: Long-term follow-up of patients with short QT syndrome.J Am Coll Cardiol58(6):587–595, 2011.doi: 10.1016/j.jacc.2011.03.038
+4.Giustetto C, Schimpf R, Mazzanti A, et al: Long-term follow-up of patients with short QT syndrome.J Am Coll Cardiol58(6):587–595, 2011.doi: 10.1016/j.jacc.2011.03.038
+5.Gollob MH, Redpath CJ, Roberts JD: The short QT syndrome: proposed diagnostic criteria.J Am Coll Cardiol57:802–812.2011.doi: 10.1016/j.jacc.2010.09.048
+5.Gollob MH, Redpath CJ, Roberts JD: The short QT syndrome: proposed diagnostic criteria.J Am Coll Cardiol57:802–812.2011.doi: 10.1016/j.jacc.2010.09.048
+
+【短QT 间期综合征的治疗】
+任何室性心动过速/心室颤动的治疗
+任何室性心动过速/心室颤动的治疗
+有时使用奎尼丁
+有时使用奎尼丁
+通常使用植入式心律转复除颤器（ICD）
+通常使用植入式心律转复除颤器（ICD）
+有人建议使用奎尼丁（可延长QT间期）进行治疗，但大多数有症状的患者都接受了植入式心律转复除颤器（1）。专家共识认为，对于有猝死家族史的无症状患者，可考虑植入植入式心律转复除颤器（1,2）。
+
+【治疗参考文献】
+1.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Circulation138(13):e272–e391, 2018.doi: 10.1161/CIR.0000000000000549
+1.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Circulation138(13):e272–e391, 2018.doi: 10.1161/CIR.0000000000000549
+2.Priori SG, Wilde AA, Horie M, et al: HRS/EHRA/APHRS Expert Consensus Statement on the diagnosis and management of patients with inherited primary arrhythmia syndromes: : document endorsed by HRS, EHRA, and APHRS in May 2013 and by ACCF, AHA, PACES, and AEPC in June 2013.Heart Rhythm10:1932–1963, 2013.doi: 10.1016/j.hrthm.2013.05.014
+2.Priori SG, Wilde AA, Horie M, et al: HRS/EHRA/APHRS Expert Consensus Statement on the diagnosis and management of patients with inherited primary arrhythmia syndromes: : document endorsed by HRS, EHRA, and APHRS in May 2013 and by ACCF, AHA, PACES, and AEPC in June 2013.Heart Rhythm10:1932–1963, 2013.doi: 10.1016/j.hrthm.2013.05.014

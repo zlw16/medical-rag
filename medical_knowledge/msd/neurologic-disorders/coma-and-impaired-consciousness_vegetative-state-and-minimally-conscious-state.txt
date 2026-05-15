@@ -1,0 +1,112 @@
+标题：植物状态
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/coma-and-impaired-consciousness/vegetative-state-and-minimally-conscious-state
+============================================================
+
+植物状态（有时称为无反应觉醒综合征） 是一种慢性疾病，可以维持血压（BP）、呼吸和心脏功能，但不能维持认知功能。下丘脑和延髓脑干功能保持完整支持心肺功能和自主神经功能，如果医疗和护理是充分的足够维持生存。皮层受损严重（认知功能消失），但网状激活系统（RAS）功能保留（维持觉醒）。中脑或脑桥反射可能存在或不存在。患者通常没有自我意识，只能通过反射与环境互动。癫痫发作可能是存在的，但临床上不明显。
+传统上，持续时间> 1月植物状态被认为是一个持续性植物状态。（然而，有时根据原因，也提出了其他持续时间。）(1) 然而，持续性植物状态的诊断并不意味着永久性残疾，因为在非常罕见的情况下(如创伤性脑损伤后)，患者可以改善，达到最小意识状态或更高的意识水平。
+这植物人状态和最低意识状态的最常见原因是
+弥漫性脑缺氧
+弥漫性脑缺氧
+然而任何可致脑损伤的均能导致植物状态。一般而言，植物状态发生是因为昏迷后脑干和间脑功能继续保留而皮层功能已受损。
+最低意识状态并不像植物状态，有证据表明，患者能意识到其自己和/或环境。患者也会倾向于改善（即逐渐变得更有意识），但改善是有限的。这种状态可能是脑损伤的第一个迹象，也可能在植物状态后出现（当患者恢复一些功能时）。患者可以在植物状态和最低意识状态之间转换，有时在最初脑损伤后好多年都处于这个状态。
+
+【参考文献】
+1.Quiñones-Ossa GA, Durango-Espinosa YA, Janjua T, et al: Persistent vegetative state: an overview.Egypt J Neurosurg36:9, 2021.doi: 10.1186/s41984-021-00111-3
+1.Quiñones-Ossa GA, Durango-Espinosa YA, Janjua T, et al: Persistent vegetative state: an overview.Egypt J Neurosurg36:9, 2021.doi: 10.1186/s41984-021-00111-3
+
+【症状和体征】
+
+【植物状态】
+处于植物人状态的患者没有自我意识，对周围环境失去认知，也无法与他人交流。对外界刺激的有目的的反应、语言的理解和表达也消失。
+植物人患者存在以下情况：
+完整的网状结构系统（如睁眼）、脑干功能（瞳孔反射、头眼反射）体征
+完整的网状结构系统（如睁眼）、脑干功能（瞳孔反射、头眼反射）体征
+睡眠觉醒周期存在，但不一定反映特定的昼夜节律，也与环境无关
+睡眠觉醒周期存在，但不一定反映特定的昼夜节律，也与环境无关
+更复杂的脑干反射包括打哈欠、咀嚼、吞咽、以及非常罕见的喉音发声
+更复杂的脑干反射包括打哈欠、咀嚼、吞咽、以及非常罕见的喉音发声
+部分觉醒和惊吓反射（如响亮的声音或闪烁的明亮灯光可能令人睁开眼睛）
+部分觉醒和惊吓反射（如响亮的声音或闪烁的明亮灯光可能令人睁开眼睛）
+有时热泪盈眶和流泪
+有时热泪盈眶和流泪
+有时微笑或皱眉的表情
+有时微笑或皱眉的表情
+自发的眼球往复运动 - 通常是缓慢的、匀速的，且没有猝然的眼球跳视运动
+自发的眼球往复运动 - 通常是缓慢的、匀速的，且没有猝然的眼球跳视运动
+这种自发的眼球往复运动可能被误解为意志跟踪，也可能被家庭成员误解为有意识的证据。
+患者对视觉威胁无反应，无法听从指令。 肢体可能会活动，然而只存在最原始的目的性的运动反射，如紧握住与手接触的物品。疼痛可能引发某种运动反应（如典型的去皮质或去大脑姿势），或仅仅是半目的性的或无目的性的逃避动作。患者有二便失禁。脑神经和脊髓反射存在。
+大脑活动极少能通过功能性MRI或脑电图（EEG）监测到，它表明对问题和指令的反应，即使没有行为反应(秘密意识) (1,2)。患者实际意识的程度尚不清楚。在大多数有这样大脑活动的患者中，植物状态是由脑外伤导致的，而不是缺氧性脑病变。
+
+【最低意识状态】
+与环境之间有意义交流的最低意识状态的碎片可以保留。大多数最低意识状态患者可完成如下动作：
+建立目光接触
+建立目光接触
+有目的地抓住物体
+有目的地抓住物体
+以刻板的方式回应命令
+以刻板的方式回应命令
+用同一个词回答
+用同一个词回答
+
+【症状和体征参考】
+1.Owen AM, Coleman MR, Boly M, et al: Detecting awareness in the vegetative state.Science313 (5792):1402, 2006. doi: 10.1126/science.1130197
+1.Owen AM, Coleman MR, Boly M, et al: Detecting awareness in the vegetative state.Science313 (5792):1402, 2006. doi: 10.1126/science.1130197
+2.Monti MM, Rosenberg M, Finoia P, Kamau E, Pickard JD, Owen AM: Thalamo-frontal connectivity mediates top-down cognitive functions in disorders of consciousness.Neurology84(2):167–173, 2015.doi:10.1212/WNL.0000000000001123
+2.Monti MM, Rosenberg M, Finoia P, Kamau E, Pickard JD, Owen AM: Thalamo-frontal connectivity mediates top-down cognitive functions in disorders of consciousness.Neurology84(2):167–173, 2015.doi:10.1212/WNL.0000000000001123
+充分认识后确定临床分类
+充分认识后确定临床分类
+神经影像
+神经影像
+植物状态具有特征性临床表现（如无目的性活动或意识），网状系统完整。依据临床特点诊断。但需神经影像学辅助排除其他可治疗性疾病。
+植物状态须和较轻的意识障碍鉴别诊断。植物状态和较轻的意识障碍均可持续或暂时存在，体格检查无法区分二者。诊断依据仔细认真的临床观察。如果太粗略，意识存在可能被忽略。患有严重帕金森病的患者可能被误诊为植物状态。
+CT或MRI能区分缺血性梗死，脑出血及皮层或脑干巨大病变。磁共振血管造影用于排除脑出血后的脑脉管系统识别。除此之外，弥散加权MRI正成为观察脑缺血性改变进展的理想成像模式。
+正电子发射断层扫描（PET）、功能性MRI和单光子发射计算机断层扫描（SPECT）可用于评估脑功能（而非脑解剖）。若持续的植物状态诊断尚不确定，可行PET或SPECT或磁共振功能成像进一步明确诊断。在某些情况下，这些测试可以显示大脑的某些部分（例如皮层）是否仍在运作，即使在临床检查中并不明显。
+脑电图有助于皮层损伤评估和隐匿性癫痫活动诊断。
+支持治疗
+支持治疗
+植物状态或最低意识状态的患者主要采用支持治疗，包括如下：
+预防因长期卧床所致其他系统的疾病（如肺炎、泌尿系统感染等，血栓形成）
+预防因长期卧床所致其他系统的疾病（如肺炎、泌尿系统感染等，血栓形成）
+提供良好的营养
+提供良好的营养
+预防褥疮
+预防褥疮
+提供理疗以防肢体挛缩
+提供理疗以防肢体挛缩
+植物状态无特异性治疗。是否坚持治疗，应综合社会服务、医院伦理以及与家属的意见而决定。 那些长期处于植物状态而接受治疗的病人，尤其是没有得到明确指示决定终止治疗的，会引起社会学和其他如资源利用等问题。
+大多数最低意识状态患者对特定的治疗并无应答。然而，在很少的情况下，只要药物持续使用，通过唑吡坦(1)、阿普吗啡 (2)、金刚烷胺治(3)疗可以引起神经系统反应的不断改善。
+越来越多的研究正在评估在意识障碍期间提供音乐干预的效果（4)。一些研究表明，音乐疗法可能会导致积极的行为影响并恢复正常的生理反应。应谨慎解释结果，因为迄今为止该领域的研究还很有限。
+
+【治疗参考文献】
+1.Du B, Shan A, Zhang Y, et al:Zolpidemarouses patients in vegetative state after brain injury: Quantitative evaluation and indications.Am J Med Sci347 (3):178–182, 2014.doi: 10.1097/MAJ.0b013e318287c79c
+1.Du B, Shan A, Zhang Y, et al:Zolpidemarouses patients in vegetative state after brain injury: Quantitative evaluation and indications.Am J Med Sci347 (3):178–182, 2014.doi: 10.1097/MAJ.0b013e318287c79c
+2.Fridman EA, Krimchansky BZ, Bonetto M, et al: Continuous subcutaneousapomorphinefor severe disorders of consciousness after traumatic brain injury.Brain Inj24 (4):636–641, 2010. doi: 10.3109/02699051003610433
+2.Fridman EA, Krimchansky BZ, Bonetto M, et al: Continuous subcutaneousapomorphinefor severe disorders of consciousness after traumatic brain injury.Brain Inj24 (4):636–641, 2010. doi: 10.3109/02699051003610433
+3.Gao Y, Zhang Y, Li Z, Ma L, Yang J.Persistent vegetative state after severe cerebral hemorrhage treated with amantadine: A retrospective controlled study.Medicine (Baltimore).2020;99(33):e21822.doi:10.1097/MD.0000000000021822
+3.Gao Y, Zhang Y, Li Z, Ma L, Yang J.Persistent vegetative state after severe cerebral hemorrhage treated with amantadine: A retrospective controlled study.Medicine (Baltimore).2020;99(33):e21822.doi:10.1097/MD.0000000000021822
+4.Li X, Li C, Hu N, Wang T: Music interventions for disorders of consciousness: A systematic review and meta-analysis.J Neurosci Nurs52(4): 146–151, 2020.doi: 10.1097/JNN.0000000000000511
+4.Li X, Li C, Hu N, Wang T: Music interventions for disorders of consciousness: A systematic review and meta-analysis.J Neurosci Nurs52(4): 146–151, 2020.doi: 10.1097/JNN.0000000000000511
+
+【植物状态】
+预后因病因、植物状态持续时间不同而不同。 如病因为可逆性代谢性异常（如中毒性脑病）预后较好，而因广泛性缺血缺氧或其他损伤所致神经元死亡所致的植物状态预后多不好。同样，年轻患者较年老者运动功能恢复的更好，认知、行为或言语功能恢复情况无此趋势。
+从植物人状态恢复取决于病因。如果脑损伤是非创伤性的，1个月后不太可能，如果脑损伤是创伤性的，12个月后不太可能。
+即使患者获得一定程度的恢复，大多数患者重度残疾。很少有改善发生在晚期，3至5年后，很少有患者（例如，约3%至5%）(1)恢复交流和理解能力，但能独立生活的人更少；没有患者恢复正常功能。
+大多数处于持续植物状态的病人最终都在6个月内死于原发脑损伤。原因常为肺部感染、泌尿系统感染、多系统衰竭或其他不明原因猝死。其余大多数人的预期寿命大约是2到5年（1）。只有少数病人可以存活几十年。
+
+【最低意识状态】
+大多数患者倾向于恢复意识，但在一定程度上取决于最小意识状态已经持续了多长时间。它持续的时间越长，患者恢复高级皮层功能机会就越少。如果病因是创伤性脑损伤，预后可能更好。
+昏迷多年之后，患者极少能恢复清醒而仅有有限的意识，这被新闻媒体称为觉醒。
+
+【预后参考】
+1.Baricich A, de Sire A, Antoniono E, et al.Recovery from vegetative state of patients with a severe brain injury: a 4-year real-practice prospective cohort study.Funct Neurol.2017;32(3):131-136.doi:10.11138/fneur/2017.32.3.131
+1.Baricich A, de Sire A, Antoniono E, et al.Recovery from vegetative state of patients with a severe brain injury: a 4-year real-practice prospective cohort study.Funct Neurol.2017;32(3):131-136.doi:10.11138/fneur/2017.32.3.131
+由于大脑半球、完整脑干功能、意识模拟的严重功能障碍，植物状态通常表现为反应和意识的消失，
+由于大脑半球、完整脑干功能、意识模拟的严重功能障碍，植物状态通常表现为反应和意识的消失，
+最低意识状态与植物状态的不同之处在于，患者与环境之间有一些交流，并随着时间的推移趋向于改善。
+最低意识状态与植物状态的不同之处在于，患者与环境之间有一些交流，并随着时间的推移趋向于改善。
+诊断需要排除其他疾病,经常要长时间的观察,特别是区分植物状态、最低意识状态和帕金森病。
+诊断需要排除其他疾病,经常要长时间的观察,特别是区分植物状态、最低意识状态和帕金森病。
+预后往往较差，特别是对于处于植物状态的患者。
+预后往往较差，特别是对于处于植物状态的患者。
+治疗主要是支持性的。
+治疗主要是支持性的。

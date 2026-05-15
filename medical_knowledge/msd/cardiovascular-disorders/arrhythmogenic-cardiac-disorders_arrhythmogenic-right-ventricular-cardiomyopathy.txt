@@ -1,0 +1,107 @@
+标题：致心律失常性右心室心肌病
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/arrhythmogenic-right-ventricular-cardiomyopathy
+============================================================
+
+（参见致心律失常性心肌病概述和心律失常概述。）
+许多基因突变对连接心肌细胞的插入盘的结构和功能产生了不利影响。最常见的是，这些突变影响盘状结构中被称为桥粒的成分（将中间丝束缚到细胞膜的黏附性细胞间连接）。桥粒有助于连接承受机械应力的组织中的细胞，例如心肌细胞。可能受到影响的桥粒蛋白包括斑菲素蛋白、桥粒斑蛋白和桥粒芯蛋白。当出现异常时，这些蛋白质容易受到机械应力的损害（例如，由于长时间的运动导致心脏工作量增加）。损伤的愈合导致心肌细胞被纤维脂肪组织替代，主要发生在右心室流出道、右心室流入道和右心室尖端之间的三角区，但有时也主要或仅涉及左心室后外侧。疾病表现是电生理和结构变化的结果，最初表现为室性早搏和室性快速性心律失常，但最终导致右心室结构异常（如扩张和变薄），导致充血性右心室心肌病。左心室心肌病也可能发生，表现为双心室或以左心室为主的疾病。
+最常见的是，突变是以常染色体显性遗传模式遗传的，外显率可变；然而，常染色体隐性突变是已知的。ARVC 的发病率存在地区差异，从1/2000到1/5000不等 (1)。人们认为持续的剧烈运动（如耐力运动）会加速疾病的发作和发展。
+
+【参考文献】
+1.Krahn AD, Wilde AAM, Calkins H, et al.Arrhythmogenic Right Ventricular Cardiomyopathy.JACC Clin Electrophysiol2022;8(4):533-553.doi:10.1016/j.jacep.2021.12.002
+1.Krahn AD, Wilde AAM, Calkins H, et al.Arrhythmogenic Right Ventricular Cardiomyopathy.JACC Clin Electrophysiol2022;8(4):533-553.doi:10.1016/j.jacep.2021.12.002
+
+【致心律失常的右心室心肌病的症状和体征】
+患者可能无症状，但有症状的患者通常首先表现为室性心动过速（VT）、心室颤动（VF）或猝死。ARVC是年轻成人猝死的大约10%的原因 (1)。室性快速性心律失常特别容易在情绪或身体压力下发生。
+患者可能会出现心悸或晕厥，
+心房颤动和右心室和/或左心室收缩衰竭的征象通常是晚期疾病的表现。
+
+【症状和体征参考文献】
+1.Krahn AD, Wilde AAM, Calkins H, et al.Arrhythmogenic Right Ventricular Cardiomyopathy.JACC Clin Electrophysiol2022;8(4):533-553.doi:10.1016/j.jacep.2021.12.002
+1.Krahn AD, Wilde AAM, Calkins H, et al.Arrhythmogenic Right Ventricular Cardiomyopathy.JACC Clin Electrophysiol2022;8(4):533-553.doi:10.1016/j.jacep.2021.12.002
+
+【ARVC 的诊断】
+有时需要进行信号平均心电图
+有时需要进行信号平均心电图
+心脏成像（例如超声心动图、心脏磁共振成像、右心室血管造影）
+心脏成像（例如超声心动图、心脏磁共振成像、右心室血管造影）
+有时进行右心室活检
+有时进行右心室活检
+基因检测
+基因检测
+一级亲属筛查
+一级亲属筛查
+在没有晚期右心室收缩功能障碍的情况下，诊断致心律失常性右心室心肌病很困难，导致对该疾病的历史性认识不足。对于出现心悸、心源性晕厥、有记录的室性快速性心律失常，或者在无临床明显结构性心脏病的情况下因不明原因心脏停搏复苏的患者，尤其是年轻患者，应怀疑致心律失常性右室心肌病（ARVC）。
+当识别到患者的室性心律失常起源于右心室时，通常首先怀疑致心律失常性右室心肌病的诊断，通常表现为具有额面电轴向上的左束支传导阻滞型QRS波群（后者有助于将致心律失常性右室心肌病与更良性的特发性右心室流出道室性心动过速区分开来，后者通常具有额面电轴向下的QRS波群）。
+对疑似致心律失常性心肌病患者的初步评估包括病史、家族史、心电图、二维超声心动图和心脏MRI。如果没有发现自发性室性心律失常，可能需要进行运动测试、流动心电图监测和/或电生理测试。如果诊断仍有疑问，其他检查可能包括信号平均心电图、电生理检查和右心室心内膜心肌活检（1）。右心室血管造影不是常规检查，但如果做的话，可以发现特征性的结构异常，也可以进行右心室的活检；但是，活检结果往往是非特异性的，很少进行活检。
+因为没有单一的测试是诊断性的，国际工作组提出了主要和次要诊断标准（2)。标准包括
+右心室疾病的影像学证据
+右心室疾病的影像学证据
+右心室活检显示肌细胞被纤维组织、脂肪组织或两者替代
+右心室活检显示肌细胞被纤维组织、脂肪组织或两者替代
+心电图复极变化，包括右心前区T波倒置
+心电图复极变化，包括右心前区T波倒置
+心电图去极化改变包括右心前区ε波
+心电图去极化改变包括右心前区ε波
+显示晚期电位的信号平均心电图
+显示晚期电位的信号平均心电图
+记录到源自右心室的室性心律失常
+记录到源自右心室的室性心律失常
+ARVC或猝死的家族史
+ARVC或猝死的家族史
+鉴定与 ARVC 相关的基因突变
+鉴定与 ARVC 相关的基因突变
+鉴别诊断中需要考虑的关键因素是心脏结节病，运动员的心脏，心肌炎，以及特发性右心室流出道室性心动过速。
+基因检测通常在怀疑患有 ARVC 的患者中进行检测。在符合工作组标准的情况下，测试的检出率约为50% (3)。
+患者的一级家属有很大的患病风险。从10至12岁开始，此后每隔1至3年，应进行临床评估（即检测提示心律失常的症状）、心电图、流动心电图监测和超声心动图。如果指示病例发现突变，则进行基因检测。未携带先证者突变基因的家庭成员可免除后续检查。
+
+【诊断参考】
+1.Towbin JA, McKenna WJ, Abrams DJ, et al: 2019 HRS expert consensus statement on evaluation, risk stratification, and management of arrhythmogenic cardiomyopathy.Heart Rhythm16(11):e301–e372, 2019.doi:10.1016/j.hrthm.2019.05.007
+1.Towbin JA, McKenna WJ, Abrams DJ, et al: 2019 HRS expert consensus statement on evaluation, risk stratification, and management of arrhythmogenic cardiomyopathy.Heart Rhythm16(11):e301–e372, 2019.doi:10.1016/j.hrthm.2019.05.007
+2.Corrado D, Anastasakis A, Basso C, et al: Proposed diagnostic criteria for arrhythmogenic cardiomyopathy: European Task Force consensus report.Int J Cardiol395:131447, 2024.doi:10.1016/j.ijcard.2023.131447
+2.Corrado D, Anastasakis A, Basso C, et al: Proposed diagnostic criteria for arrhythmogenic cardiomyopathy: European Task Force consensus report.Int J Cardiol395:131447, 2024.doi:10.1016/j.ijcard.2023.131447
+3.Ackerman MJ, Priori SG, Willems S, et al: HRS/EHRA expert consensus statement on the state of genetic testing for the channelopathies and cardiomyopathies this document was developed as a partnership between the Heart Rhythm Society (HRS) and the European Heart Rhythm Association (EHRA).Heart Rhythm8(8):1308–1339, 2011.doi:10.1016/j.hrthm.2011.05.020
+3.Ackerman MJ, Priori SG, Willems S, et al: HRS/EHRA expert consensus statement on the state of genetic testing for the channelopathies and cardiomyopathies this document was developed as a partnership between the Heart Rhythm Society (HRS) and the European Heart Rhythm Association (EHRA).Heart Rhythm8(8):1308–1339, 2011.doi:10.1016/j.hrthm.2011.05.020
+
+【ARVC 的治疗】
+适度的体力活动
+适度的体力活动
+通常使用植入式心律转复除颤器 (ICD)
+通常使用植入式心律转复除颤器 (ICD)
+通常使用β受体阻滞剂
+通常使用β受体阻滞剂
+有时使用抗心律失常药物（特别是索他洛尔或胺碘酮）
+有时使用抗心律失常药物（特别是索他洛尔或胺碘酮）
+根据需要进行心力衰竭治疗（包括移植）
+根据需要进行心力衰竭治疗（包括移植）
+ARVC治疗重点是预防猝死和症状性室性快速性心律失常。
+患者应避免进行耐力运动，因为这些活动会促进疾病进展和危及生命的心律失常的发生。这些风险在男性和晚期疾病患者中更高（更多的工作组标准证明了这一点） (1)。
+首次发生危及生命的心律失常的 5 年风险约为 2% 至 50%，具体取决于年龄、性别、诊断后 1 年内的心源性晕厥、非持续性室性心动过速、室性早搏频率、T 波倒置的程度和右心室射血分数。对于尚未出现危及生命的心律失常的患者，可以使用在线风险计算器（https://www.ARVCrisk.com）。
+猝死的预防是通过ICD来实现的 (参考表ICD 的适应症)。建议对 ARVC 患者及以下患者使用 ICD（1)：
+心脏骤停复苏
+心脏骤停复苏
+既往有持续性室性心动过速且血流动力学不稳定
+既往有持续性室性心动过速且血流动力学不稳定
+严重的右心室（或左心室）收缩功能障碍
+严重的右心室（或左心室）收缩功能障碍
+可能存在持续性室性心动过速而无血流动力学不稳定（IIa 类指征]）
+可能存在持续性室性心动过速而无血流动力学不稳定（IIa 类指征]）
+可能因室性心律失常导致晕厥（IIa 类指征）
+可能因室性心律失常导致晕厥（IIa 类指征）
+可能存在多种导致室性心律失常的主要和次要危险因素组合（IIa 类和 IIb 类指征）
+可能存在多种导致室性心律失常的主要和次要危险因素组合（IIa 类和 IIb 类指征）
+严重的右心室或左心室功能障碍需要药物治疗。大多数患者应使用 β 受体阻滞剂 。
+使用氟卡尼或III类抗心律失常药（特别是索他洛尔或胺碘酮）进行抗心律失常治疗可能减少症状性室性快速性心律失常，但不能替代植入型心律转复除颤器。然而，这些药物可能使尽管接受足量β受体阻滞剂治疗但仍频繁发生植入型心律转复除颤器适当放电的患者获益。对于此类患者，经导管消融心律失常因素也可能有帮助（1）。
+
+【治疗参考文献】
+1.Towbin, JA, McKenna WJ, Abrams DJ, et al: 2019 HRS expert consensus statement on evaluation, risk stratification, and management of arrhythmogenic cardiomyopathy.Heart Rhythm16:e301–e372, 2019.doi: 10.1016/j.hrthm.2019.05.007
+1.Towbin, JA, McKenna WJ, Abrams DJ, et al: 2019 HRS expert consensus statement on evaluation, risk stratification, and management of arrhythmogenic cardiomyopathy.Heart Rhythm16:e301–e372, 2019.doi: 10.1016/j.hrthm.2019.05.007
+致心律失常性右心室心肌病是一种遗传性疾病，心肌细胞被纤维脂肪组织取代，导致心律失常和后来的右心室衰竭。
+致心律失常性右心室心肌病是一种遗传性疾病，心肌细胞被纤维脂肪组织取代，导致心律失常和后来的右心室衰竭。
+在进行耐力运动的患者中，这种疾病进展得更快。
+在进行耐力运动的患者中，这种疾病进展得更快。
+诊断是基于涉及临床和心电图因素、心脏成像和基因测试的共识标准。
+诊断是基于涉及临床和心电图因素、心脏成像和基因测试的共识标准。
+一级家庭成员有很大的患病风险，需要进行初步筛查和定期检测。
+一级家庭成员有很大的患病风险，需要进行初步筛查和定期检测。
+治疗需要限制体力活动、使用β受体阻滞剂，并通常需要植入植入型心律转复除颤器。
+治疗需要限制体力活动、使用β受体阻滞剂，并通常需要植入植入型心律转复除颤器。

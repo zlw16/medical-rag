@@ -1,0 +1,206 @@
+标题：偏头痛
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/headache/migraine
+============================================================
+
+(参见头痛患者的诊断路径。）
+
+【偏头痛的流行病学】
+偏头痛是反复发作的中到重度头痛最常见的原因；在美国，女性的1年患病率为18%，男性为6%（1）。偏头痛通常在青春期或成年早期开始发作，在随后的岁月里发作频率和严重程度时高时低；50岁后常逐渐减轻。研究显示偏头痛有家族聚集现象。
+证据表明，偏头痛常发生于轻度创伤性脑损伤后（2、3）。
+
+【流行病学参考】
+1.Lipton RB, Bigal ME, Diamond M, Freitag F, Reed ML, Stewart WF; AMPP Advisory Group.Migraine prevalence, disease burden, and the need for preventive therapy.Neurology.2007 Jan 30;68(5):343-9.doi: 10.1212/01.wnl.0000252808.97649.21
+1.Lipton RB, Bigal ME, Diamond M, Freitag F, Reed ML, Stewart WF; AMPP Advisory Group.Migraine prevalence, disease burden, and the need for preventive therapy.Neurology.2007 Jan 30;68(5):343-9.doi: 10.1212/01.wnl.0000252808.97649.21
+2.Ishii R, Schwedt TJ, Trivedi M, Dumkrieger G, Cortez MM, Brennan KC, Digre K, Dodick DW.Mild traumatic brain injury affects the features of migraine.J Headache Pain.2021 Jul 22;22(1):80.doi: 10.1186/s10194-021-01291-x
+2.Ishii R, Schwedt TJ, Trivedi M, Dumkrieger G, Cortez MM, Brennan KC, Digre K, Dodick DW.Mild traumatic brain injury affects the features of migraine.J Headache Pain.2021 Jul 22;22(1):80.doi: 10.1186/s10194-021-01291-x
+3.Couch JR, Stewart KE.Headache Prevalence at 4-11 Years After Deployment-Related Traumatic Brain Injury in Veterans of Iraq and Afghanistan Wars and Comparison to Controls: A Matched Case-Controlled Study.Headache.2016;56(6):1004-1021.doi:10.1111/head.12837
+3.Couch JR, Stewart KE.Headache Prevalence at 4-11 Years After Deployment-Related Traumatic Brain Injury in Veterans of Iraq and Afghanistan Wars and Comparison to Controls: A Matched Case-Controlled Study.Headache.2016;56(6):1004-1021.doi:10.1111/head.12837
+
+【偏头痛的病理生理学】
+偏头痛被认为是一种神经血管性疼痛综合征，其特征为中枢神经元处理过程发生改变（脑干核团激活、皮层兴奋性增高和皮层扩散性抑制）以及三叉神经血管系统受累（触发神经肽释放[如，降钙素基因相关肽]，导致颅内血管和硬脑膜发生疼痛性炎症）。
+多种偏头痛的潜在触发因素已被证实，他们包括以下内容（1）：
+不吃正餐
+不吃正餐
+过度的传入性刺激（如闪光、强烈的气味）
+过度的传入性刺激（如闪光、强烈的气味）
+天气改变
+天气改变
+睡眠剥夺
+睡眠剥夺
+激素水平，如月经期。
+激素水平，如月经期。
+某些食物
+某些食物
+食物诱因因人而异。
+脑外伤、颈部疼痛或颞颌关节功能异常有时会诱发或加重偏头痛。
+雌激素水平的波动也是偏头痛的一个诱发因素。许多女性病人在月经初潮时首次发作，在经期有严重的偏头痛发作（经期偏头痛），或在停经时加重。对于大多数女性来说，偏头痛在怀孕期间会缓解（但有时在妊娠早期或中期会加重）；分娩后头痛会加重，当雌激素水平迅速下降时。
+口服避孕药和其他激素偶尔会诱发或加重偏头痛，并与有先兆的偏头痛患者的卒中有关。
+家族性偏瘫性偏头痛是一种罕见的偏头痛亚型。该病与1，2和19号染色体基因缺失相关。常见类型中基因的作用正在研究中 (2)。在一些家庭中，偏头痛表型差异很大，主要引起一些家庭成员的头痛，其他人的眩晕，以及偏瘫或先兆。这一发现表明，偏头痛实际上可能是一种更广泛的疾病，而不仅仅是一种头痛疾病。
+
+【病理生理学参考文献】
+1.Kelman L.The triggers or precipitants of the acute migraine attack.Cephalalgia.2007 May;27(5):394-402.doi: 10.1111/j.1468-2982.2007.01303.x.
+1.Kelman L.The triggers or precipitants of the acute migraine attack.Cephalalgia.2007 May;27(5):394-402.doi: 10.1111/j.1468-2982.2007.01303.x.
+2.Grangeon L, Lange KS, Waliszewska-Prosół M, Onan D, Marschollek K, Wiels W, Mikulenka P, Farham F, Gollion C, Ducros A; European Headache Federation School of Advanced Studies (EHF-SAS).Genetics of migraine: where are we now?J Headache Pain.2023 Feb 20;24(1):12.doi: 10.1186/s10194-023-01547-8
+2.Grangeon L, Lange KS, Waliszewska-Prosół M, Onan D, Marschollek K, Wiels W, Mikulenka P, Farham F, Gollion C, Ducros A; European Headache Federation School of Advanced Studies (EHF-SAS).Genetics of migraine: where are we now?J Headache Pain.2023 Feb 20;24(1):12.doi: 10.1186/s10194-023-01547-8
+
+【偏头痛的症状和体征】
+通常，前驱症状（一种偏头痛开始的感觉）预示着发作。先兆包括情绪改变、颈痛、渴望食物、厌食、恶心或合并出现。
+在25%的患者中存在先兆。先兆可持续数分钟至1小时，表现为可影响感觉、平衡、肌肉协调性、语言或视觉的神经紊乱。先兆可持续至头痛出现后。 多数情况下，先兆表现为视觉症状（闪光－如双眼光点、弓形闪光、锯齿形闪光、暗点）。感觉异常和麻木（一般从一侧手开始，扩展到同侧前臂和面部）、言语障碍，一过性脑干功能障碍（可引起共济失调、意识混乱甚至意识不清）较视觉异常少见。也有些病人只有先兆症状而无偏头痛发作。
+疼痛的程度为中到重度不等，持续4小时到数天，通常睡眠后缓解。疼痛可以是单侧或双侧的，额颞叶较多见，以搏动性为主。
+偏头痛不仅仅是头痛。自主神经症状如恶心（有时有呕吐）、畏光、畏声、恐嗅等较明显。病人称头痛发作时无法集中注意力。常规的躯体活动通常使头痛加重，同时因病人畏光、畏声，使得大多数病人发作时喜欢静躺在一个黑暗而安静的房间里。严重发作时病人几乎失能，从而影响家庭和工作。
+在频率和严重程度上，偏头痛也有很大的差异。很多病人有几种头痛发作类型，包括没有恶心和畏光的轻度的头痛，此种头痛与紧张型头痛相似，是顿挫型偏头痛。
+
+【慢性偏头痛】
+发作性偏头痛患者可发展为慢性偏头痛（旧称混合型头痛），兼具偏头痛与紧张型头痛的特征。 患者每月发作≥15次。药物过度使用性头痛常促使间歇性偏头痛转变为慢性偏头痛。
+
+【其他症状】
+偏头痛的罕见类型可引发其他症状：
+伴有脑干先兆的偏头痛(以前称为基底动脉偏头痛)可引起眩晕、共济失调、视野缺失、感觉障碍、焦点无力和意识水平的改变。
+伴有脑干先兆的偏头痛(以前称为基底动脉偏头痛)可引起眩晕、共济失调、视野缺失、感觉障碍、焦点无力和意识水平的改变。
+偏瘫型偏头痛可能系家族性发作，可导致单侧肌无力。
+偏瘫型偏头痛可能系家族性发作，可导致单侧肌无力。
+
+【偏头痛的诊断】
+病史和体格检查
+病史和体格检查
+偏头痛诊断根据特征性症状和正常的体格检查（包括全面神经科检查）。
+需警惕其他诊断（即使患者存在偏头痛病史）的表现包括：
+疼痛在数秒钟或更短时间内达到高峰（雷击样头痛）
+疼痛在数秒钟或更短时间内达到高峰（雷击样头痛）
+发病年龄>50岁
+发病年龄>50岁
+在数周或更长时间内头痛强度和频率增加
+在数周或更长时间内头痛强度和频率增加
+肿瘤病史（脑转移）或免疫抑制性疾病（如HIV感染）
+肿瘤病史（脑转移）或免疫抑制性疾病（如HIV感染）
+发热、脑膜刺激征、意识改变或合并出现
+发热、脑膜刺激征、意识改变或合并出现
+持续神经功能缺损
+持续神经功能缺损
+视乳头水肿
+视乳头水肿
+已知的头痛类型改变
+已知的头痛类型改变
+典型的病例，神经科查体没有异常发现且无需警惕表现的，可不必进行检查。有警示表现的患者通常需行检查，包括MRI，有时需要腰穿检查。
+常见的误诊包括：
+未意识到偏头痛经常双侧发病，且并不总是搏动性的
+未意识到偏头痛经常双侧发病，且并不总是搏动性的
+由于偏头痛没有自主神经症状和视觉症状，经常导致误诊为鼻窦炎性头痛或用眼疲劳
+由于偏头痛没有自主神经症状和视觉症状，经常导致误诊为鼻窦炎性头痛或用眼疲劳
+把偏头痛病人的每一次头痛发作都当作偏头痛发作是一个危险的错误。雷击样的头痛或头痛类型的改变往往暗示着可能存在另一潜在的新发严重疾病。
+把偏头痛病人的每一次头痛发作都当作偏头痛发作是一个危险的错误。雷击样的头痛或头痛类型的改变往往暗示着可能存在另一潜在的新发严重疾病。
+将先兆型偏头痛误诊为短暂性脑缺血发作，特别是老年人仅有先兆而没有头痛发作时
+将先兆型偏头痛误诊为短暂性脑缺血发作，特别是老年人仅有先兆而没有头痛发作时
+将雷击样头痛诊断为偏头痛因为曲坦类药物可缓解它（曲坦类药物也可以缓解由于蛛网膜下腔出血引起的头痛）
+将雷击样头痛诊断为偏头痛因为曲坦类药物可缓解它（曲坦类药物也可以缓解由于蛛网膜下腔出血引起的头痛）
+一些不寻常的疾病可以类似先兆的偏头痛：
+颈动脉或椎动脉夹层
+颈动脉或椎动脉夹层
+脑血管炎
+脑血管炎
+烟雾病/脑底异常血管网病
+烟雾病/脑底异常血管网病
+CADASIL（伴皮质下梗塞和白质脑病的常染色体显性遗传性脑动脉病）
+CADASIL（伴皮质下梗塞和白质脑病的常染色体显性遗传性脑动脉病）
+MELAS（线粒体脑肌病，乳酸酸中毒和卒中样发作）症状
+MELAS（线粒体脑肌病，乳酸酸中毒和卒中样发作）症状
+
+【偏头痛的治疗】
+偏头痛治疗可包括以下方法（1, 2）：
+消除明显的诱因
+消除明显的诱因
+放松技巧、瑜伽或行为干预
+放松技巧、瑜伽或行为干预
+对于轻度头痛，使用对乙酰氨基酚或非甾体抗炎药 (NSAID)
+对于轻度头痛，使用对乙酰氨基酚或非甾体抗炎药 (NSAID)
+对于急性发作，可使用曲坦类药物、拉米地坦、吉泮类药物（小分子降钙素基因相关肽[CGRP]受体拮抗剂）或二氢麦角胺加多巴胺拮抗剂止吐药
+对于急性发作，可使用曲坦类药物、拉米地坦、吉泮类药物（小分子降钙素基因相关肽[CGRP]受体拮抗剂）或二氢麦角胺加多巴胺拮抗剂止吐药
+用于急性治疗和预防的神经调节装置
+用于急性治疗和预防的神经调节装置
+对病人详尽解释，尽管偏头痛不能治愈，却可以控制，可以鼓励他们更好地接受治疗。
+应鼓励病人认真地记头痛日记，记下头痛发作的次数、持续时间、可能的诱发因素，以及对治疗的反应。已确定的诱发因素需予以消除。然而，诱因常常被过度诊断，应该适度避免；消除所有可能的诱因可能会过度，并导致不必要的生活限制。
+用于治疗急性偏头痛的药物选择取决于发作频率、持续时间和严重程度。可使用镇痛药、止吐药、曲普坦类药物、拉米替坦、吉泮类药物或二氢麦角胺（3）。如果患者希望避免药物治疗或药物治疗无效，神经调节治疗有时可用于急性发作和预防。
+经常（例如，每周2天以上）使用药物治疗急性偏头痛发作的患者（尤其是含有丁胺醇、曲坦、麦角胺或阿片类药物的止痛药）应使用预防性偏头痛药物，并结合停止过度使用止痛药的计划进行治疗。
+临床医生有时会推荐行为干预(生物反馈、压力管理、心理治疗)来控制偏头痛，特别是当压力是主要的触发因素或过度使用镇痛药时。
+瑜伽可以减少头痛的频率和强度； 增强迷走神经张力，减少交感神经冲动，从而改善心脏自主神经平衡。放松技巧可以减少交感神经系统的活动，缓解肌肉紧张，并改变脑电波活动。
+
+【急性发作】
+新诊断的轻度至中度偏头痛发作的初步治疗是使用非甾体抗炎药或对乙酰氨基酚。对于反应不充分的患者，临床医生应添加曲坦类药物（3）。
+若这些药物无效，可使用二氢麦角胺或格潘类药物（小分子降钙素基因相关肽[CGRP]受体拮抗剂）。对曲普坦、二氢麦角胺或 gepant 的良好反应不应被解释为偏头痛的诊断依据，因为这些药物可能缓解蛛网膜下腔出血或其他结构异常引起的头痛。
+如果轻度发作加重或发作时很严重，可以使用曲坦类药物或双氢麦角胺。当头痛发作伴有明显呕吐时，可联合应用止吐剂。
+曲普坦类是选择性的5-HT 1B、1D受体激动剂。它们本身没有止痛作用，而是阻止激发头痛发作的神经肽的释放。曲普坦类药物在首次发作的时候使用效果最好。用法包括口服、经鼻吸入和皮下注射 ，其中皮下注射效果最好，但副作用也最多。过量使用曲普坦类药物可能导致药物过量性头痛。曲坦类和双氢麦角胺可导致冠状动脉收缩，因此有冠状动脉疾病或未控制高血压的患者禁用；老年患者和有血管危险因素的患者应慎用这些药物。
+当因心血管疾病而禁用曲坦类药物或双氢麦角胺时，可以使用 Lasmiditan（一种新型选择性血清素 [5-HT] 1F 受体激动剂）或 gepant，例如 ubrogepant 或 rimegepant。Lasmiditan 对血清素 1F 受体的亲和力比对 1B 受体的亲和力大得多，没有心血管禁忌症。（曲普坦类药物通过激活 5-HT1B 受体引起血管收缩。）
+格潘特是口服降钙素基因相关肽拮抗剂。与其他急性偏头痛药物不同，它们不会导致药物过度使用性头痛，并且可以用于偏头痛预防。吉潘类药物没有已知的严重心血管或胃肠道副作用，也没有心血管禁忌症。
+单用止吐药(如胃复安、普鲁氯嗪)也可用于缓解轻到中度头痛。 丙氯拉嗪栓剂（25mg）或片剂（10mg）可用于不能耐受曲普坦或其他缩血管药物的患者。
+证据支持使用神经调节装置治疗急性发作和预防偏头痛 (4, 5)。
+
+【棘手的攻击】
+静脉补液（如生理盐水）有助于缓解头痛并改善全身状态，尤其适用于因呕吐而脱水的患者。
+严重持续性发作可以采用静脉注射双氢麦角胺和多巴胺拮抗剂止吐药（如甲氧氯普胺或丙氯拉嗪）联合治疗。也可使用双氢麦角碱皮下注射剂和喷鼻剂。
+阿片类药物需在其他药物无效的严重头痛时作为终极使用（挽救性药物）。
+
+【慢性偏头痛】
+用于预防发作性偏头痛的相同药物，包括阻断 CGRP 的单克隆抗体，也用于治疗慢性偏头痛。 此外，有证据支持A型肉毒素、托吡酯有效。
+证据支持使用神经刺激来急性治疗和预防慢性偏头痛。无创选择包括眶上刺激、迷走神经刺激、单脉冲经颅磁刺激和远程电刺激。
+
+【神经调节治疗】
+神经调节疗法可用于治疗和预防发作。这些治疗通过电流或磁场影响大脑活动，可以使用市售设备进行无创治疗。
+无创经颅磁刺激，使用应用于头部后部的手持设备可以缓解急性偏头痛（4）。使用臂带传递无痛皮肤电刺激（称为远程电神经调节）的设备可以缓解急性偏头痛。一种提供非侵入性的手持设备迷走神经刺激也是有效的。
+三叉神经刺激，将装置应用于前额，可用于成年患者（≥18岁）治疗急性偏头痛发作（有或无先兆）或减少发作频率。
+无创神经调节装置没有明显的副作用。侵入性神经调控疗法仅在专科中心开展，且其风险高于非侵入性治疗。
+
+【治疗参考文献】
+1.Marmura MJ, Silberstein SD, Schwedt TJ.The acute treatment of migraine in adults: The American Headache Society evidence assessment of migraine pharmacotherapies.Headache.55(1):3–20, 2015.
+1.Marmura MJ, Silberstein SD, Schwedt TJ.The acute treatment of migraine in adults: The American Headache Society evidence assessment of migraine pharmacotherapies.Headache.55(1):3–20, 2015.
+2.Puledda F, Sacco S, Diener HC, et al.International Headache Society global practice recommendations for the acute pharmacological treatment of migraine.Cephalalgia.2024;44(8):3331024241252666.doi:10.1177/03331024241252666
+2.Puledda F, Sacco S, Diener HC, et al.International Headache Society global practice recommendations for the acute pharmacological treatment of migraine.Cephalalgia.2024;44(8):3331024241252666.doi:10.1177/03331024241252666
+3.Qaseem A, Tice JA, Etxeandia-Ikobaltzeta I, et al.Pharmacologic Treatments of Acute Episodic Migraine Headache in Outpatient Settings: A Clinical Guideline From the American College of Physicians.Ann Intern Med2025;178(4):571-578.doi:10.7326/ANNALS-24-03095
+3.Qaseem A, Tice JA, Etxeandia-Ikobaltzeta I, et al.Pharmacologic Treatments of Acute Episodic Migraine Headache in Outpatient Settings: A Clinical Guideline From the American College of Physicians.Ann Intern Med2025;178(4):571-578.doi:10.7326/ANNALS-24-03095
+4.Miller S, Sinclair AJ, Davies B, Matharu M.Neurostimulation in the treatment of primary headaches.Pract Neurol.16 (5):362–375, 2016.doi: 10.1136/practneurol-2015-001298
+4.Miller S, Sinclair AJ, Davies B, Matharu M.Neurostimulation in the treatment of primary headaches.Pract Neurol.16 (5):362–375, 2016.doi: 10.1136/practneurol-2015-001298
+5.Lipton RB, Dodick DW, Silberstein SD, et al.Single-pulse transcranial magnetic stimulation for acute treatment of migraine with aura: A randomised, double-blind, parallel-group, sham-controlled trial.Lancet Neurol.9:373–380, 2010. doi: 10.1016/S1474-4422(10)70054-5
+5.Lipton RB, Dodick DW, Silberstein SD, et al.Single-pulse transcranial magnetic stimulation for acute treatment of migraine with aura: A randomised, double-blind, parallel-group, sham-controlled trial.Lancet Neurol.9:373–380, 2010. doi: 10.1016/S1474-4422(10)70054-5
+
+【偏头痛的预后】
+对某些病人而言，偏头痛发作频率较低，尚可忍受。而对另一些病人，偏头痛却是一种破坏性疾病，导致经常丧失能力，降低生产力，严重影响生活质量。在一项来自美国数据库（国家医院门诊医疗护理调查和国家健康访谈调查）的研究中，偏头痛是急诊科就诊的第五大常见原因，40%的成年偏头痛患者失业且经济困难（1）。
+
+【预后参考】
+1.Burch R, Rizzoli P, Loder E.The prevalence and impact of migraine and severe headache in the United States: Updated age, sex, and socioeconomic-specific estimates from government health surveys.Headache.2021;61(1):60-68.doi:10.1111/head.14024
+1.Burch R, Rizzoli P, Loder E.The prevalence and impact of migraine and severe headache in the United States: Updated age, sex, and socioeconomic-specific estimates from government health surveys.Headache.2021;61(1):60-68.doi:10.1111/head.14024
+
+【预防偏头痛】
+当偏头痛在急性治疗后仍然经常发作并影响日常活动时，应每天给予预防性治疗。
+对经常使用止痛药的病人（超过每周2日），尤其有药物过量性头痛的患者，应予以预防性用药 和设定计划以逐步撤下过量使用的止痛药。同时，可以根据合并存在的疾病来选择用药 (1, 2)：
+抑郁与失眠的病人可睡前服用小剂量阿米替林
+抑郁与失眠的病人可睡前服用小剂量阿米替林
+焦虑或冠状动脉疾病的患者可予以beta-受体阻滞剂
+焦虑或冠状动脉疾病的患者可予以beta-受体阻滞剂
+丙戊酸钠、双丙戊酸钠或文拉法辛用于
+丙戊酸钠、双丙戊酸钠或文拉法辛用于
+如果其他药物无效，可口服降钙素基因相关肽 （CGRP）受体拮抗剂（阿托吉泮、瑞美吉泮）或注射 CGRP 单克隆抗体（例如依瑞奈尤单抗、瑞玛奈珠单抗、加卡奈珠单抗）
+如果其他药物无效，可口服降钙素基因相关肽 （CGRP）受体拮抗剂（阿托吉泮、瑞美吉泮）或注射 CGRP 单克隆抗体（例如依瑞奈尤单抗、瑞玛奈珠单抗、加卡奈珠单抗）
+肥胖的病人予托吡酯以减轻体重
+肥胖的病人予托吡酯以减轻体重
+部分专家推荐按照PREEMPT方案（3）注射A型肉毒毒素作为慢性偏头痛预防的首选治疗方法。 神经调节治疗也有帮助。 经皮眶上神经刺激，使用应用于前额的装置，可以减少偏头痛的频率（4）。经颅磁刺激，通过应用于颅骨后部的装置使用，适用于青少年（≥12 岁）和成人偏头痛的急性和预防性治疗。
+
+【预防参考文献】
+1.Qaseem A, Cooney TG, Etxeandia-Ikobaltzeta I, et al.Prevention of Episodic Migraine Headache Using Pharmacologic Treatments in Outpatient Settings: A Clinical Guideline From the American College of Physicians.Ann Intern Med2025;178(3):426-433.doi:10.7326/ANNALS-24-01052
+1.Qaseem A, Cooney TG, Etxeandia-Ikobaltzeta I, et al.Prevention of Episodic Migraine Headache Using Pharmacologic Treatments in Outpatient Settings: A Clinical Guideline From the American College of Physicians.Ann Intern Med2025;178(3):426-433.doi:10.7326/ANNALS-24-01052
+2.Jain S, Silberstein SD.Invited commentary on preventive anti-migraine therapy (PAMT).Curr Treat Options Neurol.21(4):14, 2019.doi:10.1007/s11940-019-0555-4.
+2.Jain S, Silberstein SD.Invited commentary on preventive anti-migraine therapy (PAMT).Curr Treat Options Neurol.21(4):14, 2019.doi:10.1007/s11940-019-0555-4.
+3.Shaterian N, Shaterian N, Ghanaatpisheh A, et al.Botox(OnabotulinumtoxinA) for Treatment of Migraine Symptoms: A Systematic Review.Pain Res Manag2022;2022:3284446.Published 2022 Mar 31.doi:10.1155/2022/3284446
+3.Shaterian N, Shaterian N, Ghanaatpisheh A, et al.Botox(OnabotulinumtoxinA) for Treatment of Migraine Symptoms: A Systematic Review.Pain Res Manag2022;2022:3284446.Published 2022 Mar 31.doi:10.1155/2022/3284446
+4.Schoenen J, Vandersmissen B, Jeangette S, et al.Migraine prevention with a supraorbital transcutaneous stimulator: A randomized controlled trial.Neurol.80(8):697–704, 2013.doi: https://doi.org/10.1212/WNL.0b013e3182825055
+4.Schoenen J, Vandersmissen B, Jeangette S, et al.Migraine prevention with a supraorbital transcutaneous stimulator: A randomized controlled trial.Neurol.80(8):697–704, 2013.doi: https://doi.org/10.1212/WNL.0b013e3182825055
+偏头痛是一种常见的原发性头痛疾病。
+偏头痛是一种常见的原发性头痛疾病。
+症状可以包括单侧或双侧悸动的疼痛、恶心、对感官刺激比较敏感（例如光线、声音、气味），非特异性前驱症状，以及先于头痛的暂时的神经症状（先兆）。
+症状可以包括单侧或双侧悸动的疼痛、恶心、对感官刺激比较敏感（例如光线、声音、气味），非特异性前驱症状，以及先于头痛的暂时的神经症状（先兆）。
+根据临床表现诊断偏头痛。如果患者有警示症状，需要影像学检查和其他检查。
+根据临床表现诊断偏头痛。如果患者有警示症状，需要影像学检查和其他检查。
+鼓励患者进行自我管理，包括避免触发因素和使用生物反馈、压力管理和适当的心理治疗。
+鼓励患者进行自我管理，包括避免触发因素和使用生物反馈、压力管理和适当的心理治疗。
+使用镇痛剂或曲坦类药物可治疗大多数头痛。
+使用镇痛剂或曲坦类药物可治疗大多数头痛。
+如果发作频繁并干扰活动，则使用预防疗法（例如，阿米替林，β受体阻滞剂，丙戊酸，阻断降钙素基因相关肽 [CGRP] 的单克隆抗体，gepant 或托吡酯），或有时注射肉毒杆菌毒素A，或神经调节治疗。
+如果发作频繁并干扰活动，则使用预防疗法（例如，阿米替林，β受体阻滞剂，丙戊酸，阻断降钙素基因相关肽 [CGRP] 的单克隆抗体，gepant 或托吡酯），或有时注射肉毒杆菌毒素A，或神经调节治疗。

@@ -1,0 +1,36 @@
+标题：纤维肌性发育不良
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/peripheral-artery-disorders/fibromuscular-dysplasia
+============================================================
+
+纤维肌性发育不良通常发生在年龄40~60岁的女性（1）。原因不明。然而，其病因可能有遗传成分，吸烟也可能是一个危险因子。纤维肌性发育不良在临床上与某些结缔组织疾病（如Ehlers-Danlos综合征4型、囊性中层坏死、遗传性肾炎以及神经纤维瘤病）存在重叠（2）。
+中层发育不良为最常见的类型，其特点为含有沿中层胶原的厚和薄的交替的纤维肌肉嵴。中外层周围发育不良可见外半层有广泛的胶原沉积。
+纤维肌性发育不良可能影响肾动脉（88%的患者）、颈动脉和颅内动脉（25%的患者）、腹内动脉（14%的患者）以及上肢（3%的患者）或下肢（10%的患者）动脉（3）。
+纤维肌性发育不良通常无症状，与部位无关。当出现体征和症状时，其表现会因部位不同而有所差异：
+颈动脉：短暂性脑缺血发作或者中风的症状（通常归因于自发性颈动脉夹层）
+颈动脉：短暂性脑缺血发作或者中风的症状（通常归因于自发性颈动脉夹层）
+腹内动脉：肠系膜缺血的症状（罕见）
+腹内动脉：肠系膜缺血的症状（罕见）
+颅内动脉：脑动脉瘤症状
+颅内动脉：脑动脉瘤症状
+腿部动脉：大腿和小腿跛行、股动脉杂音和股动脉搏动减弱
+腿部动脉：大腿和小腿跛行、股动脉杂音和股动脉搏动减弱
+肾动脉：肾血管性高血压
+肾动脉：肾血管性高血压
+超声波可能提示诊断，但纤维肌性发育不良的确诊需要通过血管造影术来显示局灶性或多灶性动脉狭窄，可能伴有动脉瘤或曲折。在中层或中外层发育不良时呈串珠样改变，其他类型可表现为同心圆带状或长段平滑狭窄（2）。
+初诊纤维肌性发育不良时，建议采用双功超声、CT血管造影或磁共振血管造影筛查其他血管床（2）。
+图示肾动脉纤维肌发育不良患者的典型“串珠”征（箭头）。
+纤维肌性发育不良的治疗因部位而异。可能包括单独经皮腔内血管成形术、经皮支架血管成形术、旁路手术或动脉瘤修复。戒烟是重要的。控制动脉粥样硬化的其他危险因素（高血压、血脂异常、糖尿病）有助于预防血流限制性动脉狭窄的加速发展。
+
+【参考文献】
+1.Olin JW, Froehlich J, Gu X, et al.The United States Registry for Fibromuscular Dysplasia: results in the first 447 patients.Circulation2012;125(25):3182-3190.doi:10.1161/CIRCULATIONAHA.112.091223
+1.Olin JW, Froehlich J, Gu X, et al.The United States Registry for Fibromuscular Dysplasia: results in the first 447 patients.Circulation2012;125(25):3182-3190.doi:10.1161/CIRCULATIONAHA.112.091223
+2.Gornik HL, Persu A, Adlam D, et al.First International Consensus on the diagnosis and management of fibromuscular dysplasia [published correction appears inVasc Med2019 Oct;24(5):475. doi: 10.1177/1358863X19865703] [published correction appears inVasc Med2021 Aug;26(4):NP1. doi: 10.1177/1358863X211035538].Vasc Med2019;24(2):164-189.doi:10.1177/1358863X18821816
+2.Gornik HL, Persu A, Adlam D, et al.First International Consensus on the diagnosis and management of fibromuscular dysplasia [published correction appears inVasc Med2019 Oct;24(5):475. doi: 10.1177/1358863X19865703] [published correction appears inVasc Med2021 Aug;26(4):NP1. doi: 10.1177/1358863X211035538].Vasc Med2019;24(2):164-189.doi:10.1177/1358863X18821816
+3.Warchol-Celinska E, Prejbisz A, Dobrowolski P, et al.Systematic and Multidisciplinary Evaluation of Fibromuscular Dysplasia Patients Reveals High Prevalence of Previously Undetected Fibromuscular Dysplasia Lesions and Affects Clinical Decisions: The ARCADIA-POL Study.Hypertension2020;75(4):1102-1109.doi:10.1161/HYPERTENSIONAHA.119.13239
+3.Warchol-Celinska E, Prejbisz A, Dobrowolski P, et al.Systematic and Multidisciplinary Evaluation of Fibromuscular Dysplasia Patients Reveals High Prevalence of Previously Undetected Fibromuscular Dysplasia Lesions and Affects Clinical Decisions: The ARCADIA-POL Study.Hypertension2020;75(4):1102-1109.doi:10.1161/HYPERTENSIONAHA.119.13239
+纤维肌性发育不良最常见于年龄40~60岁的女性。
+纤维肌性发育不良最常见于年龄40~60岁的女性。
+患有结缔组织病，吸烟或有家族史的患者风险较高。
+患有结缔组织病，吸烟或有家族史的患者风险较高。
+治疗取决于位置，包括经皮腔内血管成形术、搭桥手术或动脉瘤修补。
+治疗取决于位置，包括经皮腔内血管成形术、搭桥手术或动脉瘤修补。

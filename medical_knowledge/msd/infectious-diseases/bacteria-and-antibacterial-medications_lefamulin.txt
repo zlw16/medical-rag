@@ -1,0 +1,33 @@
+标题：来福莫林
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/bacteria-and-antibacterial-medications/lefamulin
+============================================================
+
+来福莫林是一种截短侧耳素抗生素，通过与细菌 50S 核糖体的肽基转移酶中心结合来抑制细菌蛋白质合成，从而阻止转移 RNA 的结合。
+
+【来法莫林的药代动力学】
+口服生物利用度约为 25%，因此口服剂量（每 12 小时 600 毫克）是静脉注射剂量（每 12 小时 150 毫克）的 4 倍。来福莫林具有最小的肾清除率，肾病患者不需要调整剂量。
+
+【来法莫林的适应症】
+来福莫林适用于治疗由以下敏感微生物引起的社区获得性细菌性肺炎 (CABP)：
+Streptococcus pneumoniae
+Streptococcus pneumoniae
+Staphylococcus aureus金黄色葡萄球菌
+Staphylococcus aureus金黄色葡萄球菌
+Haemophilus influenzae
+Haemophilus influenzae
+Legionella pneumophila
+Legionella pneumophila
+Mycoplasma pneumoniae
+Mycoplasma pneumoniae
+Chlamydophila pneumoniae
+Chlamydophila pneumoniae
+
+【来法莫林的禁忌症】
+来法莫林禁止与 经 CYP3A4 酶代谢且可延长 QT 间期的底物药物联用，如他克莫司、多非利特和喹硫平。
+
+【来法莫林在妊娠期和哺乳期的使用】
+来法莫林的动物生殖研究显示存在一定风险，且目前尚未在孕妇群体中开展充分、严格对照的临床研究。在获得更好的安全性数据之前，应考虑在孕妇中使用来法莫林的替代品。具有生殖潜力的女性应在治疗期间和最后一次给药后 2 天内采取避孕措施。
+动物哺乳期研究表明来法莫林在母乳中浓缩。建议哺乳期妇女在服用来法莫林期间以及末次服用来法莫林后两天内，采用泵吸方式排出并丢弃乳汁。
+
+【来福莫林的不良反应】
+来福莫林可能导致 QT 间期延长，尤其是与其他延长 QT 间期的药物联合使用时。

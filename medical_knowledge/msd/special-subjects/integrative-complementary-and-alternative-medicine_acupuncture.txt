@@ -1,0 +1,46 @@
+标题：针灸
+来源：https://www.msdmanuals.cn/professional/special-subjects/integrative-complementary-and-alternative-medicine/acupuncture
+============================================================
+
+针灸是中医的一种疗法，是西方世界最广泛接受的综合疗法之一。把针插入皮肤及皮下组织，以刺激身体的穴位。这些穴位的刺激被认为会影响气(一种普遍的生命力)沿着能量通道(经络)的流动，从而恢复平衡。
+治疗过程一般没有痛苦，但可能有麻刺感。有时为了增强刺激，可以旋转、加热针灸针。
+穴位刺激还可通过
+压力（称为穴位）
+压力（称为穴位）
+激光（也称为低强度激光疗法）
+激光（也称为低强度激光疗法）
+在针上加一个低压电流（电针）
+在针上加一个低压电流（电针）
+
+【针灸的证据和用途】
+针灸研究本来就很难进行。盲法极富挑战性，所谓的“假”针灸通常会在穴位上施加压力，从而创造出一种可能并非真正无效的不同治疗体验。在针灸文化更多的地区，特别是在中国，已发表的针灸研究更丰富，范围更广。显示疗效的结果应根据以下事实进行解释，即干预措施包括中医的完整模式，针灸只是其中的一个组成部分。
+在过去十年中，针对以下情况产生了最高质量的疗效证据（1，2）：
+慢性疼痛（腰痛、膝骨关节炎、偏头痛和紧张型头痛）
+慢性疼痛（腰痛、膝骨关节炎、偏头痛和紧张型头痛）
+术后恶心与呕吐
+术后恶心与呕吐
+癌症相关疲劳
+癌症相关疲劳
+更年期症状
+更年期症状
+女性不孕症（作为生殖治疗的辅助手段）
+女性不孕症（作为生殖治疗的辅助手段）
+男性慢性前列腺炎/慢性盆腔疼痛综合征
+男性慢性前列腺炎/慢性盆腔疼痛综合征
+
+【可能出现的不良反应和禁忌证】
+针灸的不良影响很难量化，尽管治疗通常是安全的，但从业者的技能和护理各不相同。世界卫生组织提供了一份参考文件，指导如何安全有效地实施针灸（参见世界卫生组织针灸实践基准）。
+2023 年对针灸后不良反应的系统回顾包括以下内容（3）：
+全身反应（例如头痛、头晕、嗜睡、恶心）
+全身反应（例如头痛、头晕、嗜睡、恶心）
+组织损伤
+组织损伤
+尽管其中一些不良反应很严重，但大多数是轻微的或临床上不显着的。
+
+【参考文献】
+1.Hempen M, Hummelsberger J.The state of evidence in acupuncture: A review of metaanalyses and systematic reviews of acupuncture evidence (update 2017-2022).Complement Ther Med.2025;89:103149.doi:10.1016/j.ctim.2025.103149
+1.Hempen M, Hummelsberger J.The state of evidence in acupuncture: A review of metaanalyses and systematic reviews of acupuncture evidence (update 2017-2022).Complement Ther Med.2025;89:103149.doi:10.1016/j.ctim.2025.103149
+2.Allen J, Mak SS, Begashaw M, et al.Use of Acupuncture for Adult Health Conditions, 2013 to 2021: A Systematic Review.JAMA Netw Open.2022;5(11):e2243665.Published 2022 Nov 1.doi:10.1001/jamanetworkopen.2022.43665
+2.Allen J, Mak SS, Begashaw M, et al.Use of Acupuncture for Adult Health Conditions, 2013 to 2021: A Systematic Review.JAMA Netw Open.2022;5(11):e2243665.Published 2022 Nov 1.doi:10.1001/jamanetworkopen.2022.43665
+3.Xu M, Yang C, Nian T, et al.Adverse effects associated with acupuncture therapies: An evidence mapping from 535 systematic reviews.Chin Med.18(1):38, 2023.Published 2023 Apr 10.doi:10.1186/s13020-023-00743-7
+3.Xu M, Yang C, Nian T, et al.Adverse effects associated with acupuncture therapies: An evidence mapping from 535 systematic reviews.Chin Med.18(1):38, 2023.Published 2023 Apr 10.doi:10.1186/s13020-023-00743-7

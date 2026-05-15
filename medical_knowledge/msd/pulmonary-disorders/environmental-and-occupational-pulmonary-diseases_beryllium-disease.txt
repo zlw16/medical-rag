@@ -1,0 +1,86 @@
+标题：铍病
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/environmental-and-occupational-pulmonary-diseases/beryllium-disease
+============================================================
+
+（也可以看看环境和职业性肺病概述。)
+
+【铍病的病理生理】
+急性铍病是一种化学性肺炎，引起肺实质弥散性炎性浸润和非特异性肺泡内水肿。急性铍病现在很少见，因为大多数行业都降低了接触水平。
+慢性铍病这种情况继续发生在使用铍和铍合金的行业中。它与大多数尘肺的不同之处在于它是一种细胞介导的过敏性疾病。T 细胞对铍过敏，然后在再次接触铍时增殖。这导致促炎细胞因子（如肿瘤坏死因子-α、白细胞介素-2 和干扰素-γ）的释放和肉芽肿性炎症。体外接触铍时，肺部或血液中 T 细胞的增殖形成了铍淋巴细胞增殖试验 [BeLPT] 试验的基础，该试验在临床上用于鉴定对铍的免疫致敏情况。
+典型病理特征是弥漫性肺部、肺门和/或纵隔淋巴结的肉芽肿反应，在组织学上与结节病无法区分。
+铍暴露进展为铍致敏的风险是多因素的，包括暴露剂量、暴露持续时间和遗传因素。
+研究表明，大约 1% 至 18% 接触铍的工人出现铍过敏（定义为体外对铍盐的血液淋巴细胞增殖呈阳性），其中 6% 至 8% 的工人进展为慢性铍病（1）。与旁观者接触的工作人员，如行政助理和保安，也可能以较低的比例发生过敏和疾病。
+
+【病理生理学参考文献】
+1.MacMurdo MG, Mroz MM, Culver DA, Dweik RA, Maier LA.Chronic Beryllium Disease: Update on a Moving Target.Chest2020;158(6):2458-2466.doi:10.1016/j.chest.2020.07.074
+1.MacMurdo MG, Mroz MM, Culver DA, Dweik RA, Maier LA.Chronic Beryllium Disease: Update on a Moving Target.Chest2020;158(6):2458-2466.doi:10.1016/j.chest.2020.07.074
+
+【铍病的病因】
+铍暴露可能发生在许多行业，包括铍开采和提取、合金生产、金属合金加工、电子、电信、核武器和国防工业、航空航天以及金属回收和再循环。也可添加少量铍铜、铝、镍和其他金属来制造铍合金。鉴于铍是一种致敏剂，相对较低水平的暴露可能会使易感人群患病。
+
+【铍病的症状和体征】
+慢性铍病患者表现为呼吸困难、咳嗽、盗汗、疲劳和体重减轻等症状。症状可能在首次接触后的几个月内或停止接触>30 年后出现。
+由于临床表现与肺为主的结节病难以区分，因此患者可能被误诊为结节病。因此，对于被诊断为结节病的患者，考虑慢性铍病非常重要（1）。
+
+【症状和体征参考文献】
+1.MacMurdo MG, Mroz MM, Culver DA, et al.Chronic Beryllium Disease: Update on a Moving Target.Chest2020;158(6):2458-2466.doi:10.1016/j.chest.2020.07.074
+1.MacMurdo MG, Mroz MM, Culver DA, et al.Chronic Beryllium Disease: Update on a Moving Target.Chest2020;158(6):2458-2466.doi:10.1016/j.chest.2020.07.074
+
+【铍病的诊断】
+慢性铍病的诊断通常基于（1）：
+胸部X线或CT
+胸部X线或CT
+铍致敏，通过使用外周血或支气管肺泡灌洗细胞进行异常铍淋巴细胞增殖试验 (BeLPT) 来确定
+铍致敏，通过使用外周血或支气管肺泡灌洗细胞进行异常铍淋巴细胞增殖试验 (BeLPT) 来确定
+通过肺活检记录肉芽肿性炎症
+通过肺活检记录肉芽肿性炎症
+胸部x线片可能正常，也可能显示肺上区弥漫性浸润，可呈结节状、网状或模糊的磨玻璃样，常伴有肺门和纵隔腺病变，与结节病相似。高分辨率胸部CT比X线检查更敏感，但即使在影像学检查结果正常的人群中，也可能出现经活检证实的病例。
+与结节病类似，肺功能检查结果各不相同，可以显示限制、一氧化碳 (DLCO) 扩散能力降低和/或阻塞。
+BeLPT（铍淋巴细胞增殖试验）是将从血液样本或支气管肺泡灌洗液中获得的淋巴细胞与硫酸铍共同培养，用于检测对铍的免疫致敏。建议对所有疑似铍病病例进行 BeLPT。它还用于检测接触铍的工人的过敏情况。
+铍病的诊断可能具有挑战性，因为 BeLPT 具有局限性且无法广泛使用，并且肺组织并不总是能够获得。然而，可以通过不同的诊断标准组合来诊断可能的铍病，包括接触史、胸部影像学检查结果与结节病一致、肺功能测试结果异常、BeLPT 结果异常、支气管肺泡灌洗 (BAL) 淋巴细胞增多、和肺活检的肉芽肿性炎症。值得注意的是，某些发现（例如异常 BeLPT）比其他发现（例如非特异性放射学变化）提供更高的诊断确定性。
+
+【诊断参考文献】
+1.Balmes JR, Abraham JL, Dweik RA, et al.An official American Thoracic Society statement: diagnosis and management of beryllium sensitivity and chronic beryllium disease.Am J Respir Crit Care Med2014;190(10):e34-e59.doi:10.1164/rccm.201409-1722ST
+1.Balmes JR, Abraham JL, Dweik RA, et al.An official American Thoracic Society statement: diagnosis and management of beryllium sensitivity and chronic beryllium disease.Am J Respir Crit Care Med2014;190(10):e34-e59.doi:10.1164/rccm.201409-1722ST
+
+【铍病的治疗】
+停止暴露
+停止暴露
+有时使用皮质类固醇和免疫抑制剂
+有时使用皮质类固醇和免疫抑制剂
+患有慢性铍病的患者应避免进一步接触铍。
+慢性铍病的自然病程各不相同，有些患者不需要治疗，因为疾病稳定或进展相对缓慢。除此之外，治疗与肺部疾病类似结节病。
+皮质类固醇通常在同时出现肺部症状和疾病进展临床证据的患者中开始使用（1, 2）。泼尼松的疗程通常为 3 至 6 个月。然后，重复肺生理学和气体交换测量以记录对治疗的反应。皮质类固醇剂量逐渐减少至维持症状和客观病情改善的最低剂量。根据结节病中使用的类似方法选择皮质类固醇节约疗法，例如甲氨蝶呤（或英夫利昔单抗）。
+慢性铍病自发缓解的情况并不常见。患有终末期疾病的患者可能有资格接受肺移植。支持性措施，例如补充氧疗、肺康复以及治疗右心室衰竭的药物，根据需要使用。
+
+【治疗参考文献】
+1.Balmes JR, Abraham JL, Dweik RA, et al.An official American Thoracic Society statement: diagnosis and management of beryllium sensitivity and chronic beryllium disease.Am J Respir Crit Care Med2014;190(10):e34-e59.doi:10.1164/rccm.201409-1722ST
+1.Balmes JR, Abraham JL, Dweik RA, et al.An official American Thoracic Society statement: diagnosis and management of beryllium sensitivity and chronic beryllium disease.Am J Respir Crit Care Med2014;190(10):e34-e59.doi:10.1164/rccm.201409-1722ST
+2.MacMurdo MG, Mroz MM, Culver DA, Dweik RA, Maier LA.Chronic Beryllium Disease: Update on a Moving Target.Chest2020;158(6):2458-2466.doi:10.1016/j.chest.2020.07.074
+2.MacMurdo MG, Mroz MM, Culver DA, Dweik RA, Maier LA.Chronic Beryllium Disease: Update on a Moving Target.Chest2020;158(6):2458-2466.doi:10.1016/j.chest.2020.07.074
+
+【铍病的预后】
+如同结节病，慢性铍病的临床病程各不相同。随着时间的推移，疾病可能保持稳定或缓慢进展，并伴有呼吸功能逐渐丧失。在一部分病例中，慢性铍病可能发展为终末期肺病。值得注意的是，在消除接触后，疾病经常会恶化（1）。
+
+【预后参考】
+1.MacMurdo MG, Mroz MM, Culver DA, Dweik RA, Maier LA.Chronic Beryllium Disease: Update on a Moving Target.Chest2020;158(6):2458-2466.doi:10.1016/j.chest.2020.07.074
+1.MacMurdo MG, Mroz MM, Culver DA, Dweik RA, Maier LA.Chronic Beryllium Disease: Update on a Moving Target.Chest2020;158(6):2458-2466.doi:10.1016/j.chest.2020.07.074
+
+【铍病的预防】
+使用含铍产品的设施应实施控制计划，以尽量减少铍暴露。美国职业安全与健康管理局 (OSHA) 将铍的允许暴露限值 (PEL) 设定为每立方米空气 0.2 微克，平均 8 小时以上（参见美国职业安全和健康管理局（OSHA）铍标准）。该标准预计将减少病例数量，但不能完全消除慢性铍病，因为在低于OSHA标准的暴露水平下，病例仍可能发生。考虑到皮肤接触后可能发生过敏，还应尽量减少皮肤接触。
+建议对接触过的工人进行医疗监测，包括血液 BeLPT 和肺功能测试。BeLPT 结果呈阳性的工人应接受胸部 CT 扫描和可能的支气管镜检查的进一步评估，以确定是否患有慢性铍病。
+铍病未被充分认识，并在许多行业中影响工人。
+铍病未被充分认识，并在许多行业中影响工人。
+鉴于其相似的临床特征，对于疑似结节病的患者应考虑慢性铍病。
+鉴于其相似的临床特征，对于疑似结节病的患者应考虑慢性铍病。
+使用血液或支气管肺泡灌洗细胞进行高分辨率CT和铍淋巴细胞增殖试验 (BeLPT) 有助于慢性铍病的诊断。
+使用血液或支气管肺泡灌洗细胞进行高分辨率CT和铍淋巴细胞增殖试验 (BeLPT) 有助于慢性铍病的诊断。
+有咳嗽和呼吸困难症状的患者可以使用皮质类固醇，有时还可以使用免疫抑制剂治疗。
+有咳嗽和呼吸困难症状的患者可以使用皮质类固醇，有时还可以使用免疫抑制剂治疗。
+预防包括尽量减少铍粉尘的暴露以及对接触铍粉尘的工人进行医疗监测。
+预防包括尽量减少铍粉尘的暴露以及对接触铍粉尘的工人进行医疗监测。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+Balmes JR, Abraham JL, Dweik RA, et al.An official American Thoracic Society statement: diagnosis and management of beryllium sensitivity and chronic beryllium disease.Am J Respir Crit Care Med2014;190(10):e34-e59.doi:10.1164/rccm.201409-1722ST
+Balmes JR, Abraham JL, Dweik RA, et al.An official American Thoracic Society statement: diagnosis and management of beryllium sensitivity and chronic beryllium disease.Am J Respir Crit Care Med2014;190(10):e34-e59.doi:10.1164/rccm.201409-1722ST

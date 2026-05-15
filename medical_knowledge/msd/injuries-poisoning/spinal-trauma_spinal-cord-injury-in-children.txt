@@ -1,0 +1,82 @@
+标题：儿童的脊髓损伤
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/spinal-trauma/spinal-cord-injury-in-children
+============================================================
+
+虽然≤5岁以下的儿童脊髓损伤率最低，但此类损伤并不罕见（1）。15 岁及以下儿童的大多数脊柱损伤发生在颈椎（2）。
+在美国，≤12岁儿童的颈椎损伤最常见于C4以上，且主要由机动车碰撞和跌倒引起（1）。在>12 岁的儿童中，C5 至 C7 的损伤更为常见，除了机动车事故和跌倒之外，随着年龄的增长，运动和枪伤所起的作用也越来越大。与成人相比，儿童具有独特的解剖学特征（如更大的头身比、脊柱韧带松弛），这些特征使脊柱易于过度活动，从而可能在无明显骨损伤的情况下发生脊髓损伤。
+脊髓损伤的儿童可能有短暂的症状，如感觉异常和乏力。儿童可能出现沿脊柱或四肢的撕裂样疼痛。神经系统体征（如部分神经功能缺损、完全性瘫痪）的出现可能延迟至伤后30分钟至4天，导致即时诊断困难。
+无影像学异常的脊髓损伤（SCIWORA）与直接脊髓牵拉、脊髓受压、脊髓震荡和血管损伤有关。 这种类型的损伤几乎只发生于儿童，通常伤及颈椎。在无影像学异常的脊髓损伤（SCIWORA）中，患者有提示脊髓损伤的神经学发现（如感觉异常、无力），但解剖排列正常，影像学检查（X光片、CT和/或MRI）未见骨异常。
+因 SCIWORA 或其他脊髓损伤而制动的儿童，会因长期卧床而出现多种并发症，包括：压疮、血栓栓塞并发症；肺不张和肺炎；高血压性自主神经反射异常；以及因神经源性膀胱引发的并发症：下尿路或上尿路感染（常因长期留置导尿管）、输尿管结石、膀胱输尿管反流，最终可导致慢性肾脏病。
+(参见脊柱创伤。）
+
+【参考文献】
+1.Selvarajah S, Schneider EB, Becker D, et al.The epidemiology of childhood and adolescent traumatic spinal cord injury in the United States: 2007-2010.J Neurotrauma.2014;31(18):1548-1560.doi:10.1089/neu.2014.3332
+1.Selvarajah S, Schneider EB, Becker D, et al.The epidemiology of childhood and adolescent traumatic spinal cord injury in the United States: 2007-2010.J Neurotrauma.2014;31(18):1548-1560.doi:10.1089/neu.2014.3332
+2.Jazayeri SB, Kankam SB, Golestani A, et al.A systematic review and meta-analysis of the global epidemiology of pediatric traumatic spinal cord injuries.Eur J Pediatr.2023;182(12):5245-5257.doi:10.1007/s00431-023-05185-9
+2.Jazayeri SB, Kankam SB, Golestani A, et al.A systematic review and meta-analysis of the global epidemiology of pediatric traumatic spinal cord injuries.Eur J Pediatr.2023;182(12):5245-5257.doi:10.1007/s00431-023-05185-9
+
+【儿童脊髓损伤的诊断】
+X线（侧位，前后位，和开口齿状突视图）
+X线（侧位，前后位，和开口齿状突视图）
+CT，特别是对于骨或韧带损伤
+CT，特别是对于骨或韧带损伤
+MRI 确认脊髓内的损伤部位和水平
+MRI 确认脊髓内的损伤部位和水平
+任何涉及机动车碰撞、从≥3米高处坠落或发生过淹溺伤的儿童，都应怀疑脊髓损伤。
+对于出现短暂神经功能障碍症状、沿脊柱或四肢的撕裂样疼痛，且损伤机制符合脊髓损伤，但 X 线或 CT 扫描未发现骨异常的儿童，应怀疑无影像学异常的脊髓损伤（SCIWORA）（1）。SCIWORA 最初是在 20 世纪 80 年代提出的，当时 MRI 还不太普及；SCIWORA 这一术语目前不太常用，因为 MRI 扫描仪在美国的医院中更容易获得，并且通常可以识别致病的放射学异常（2、3、4）。
+根据当地成像资源的可用性，成像通常从 X 射线开始，包括交叉台侧位、前后位和张口齿状突视图。 如果X线检查提示骨折，脱位或半脱位，或者存在损伤的高危因素，应进行CT检查。发生下列情况完成MRI检查：
+怀疑脊髓损伤或X线、CT证实存在脊髓损伤
+怀疑脊髓损伤或X线、CT证实存在脊髓损伤
+神经系统查体提示神经系统缺陷，怀疑脊髓损伤
+神经系统查体提示神经系统缺陷，怀疑脊髓损伤
+有一过性神经功能缺损的病史，怀疑脊髓损伤
+有一过性神经功能缺损的病史，怀疑脊髓损伤
+
+【诊断参考】
+1.Pang D, Wilberger JE Jr.Spinal cord injury without radiographic abnormalities in children.J Neurosurg.1982;57(1):114-129.doi:10.3171/jns.1982.57.1.0114
+1.Pang D, Wilberger JE Jr.Spinal cord injury without radiographic abnormalities in children.J Neurosurg.1982;57(1):114-129.doi:10.3171/jns.1982.57.1.0114
+2.Mahajan P, Jaffe DM, Olsen CS, et al.Spinal cord injury without radiologic abnormality in children imaged with magnetic resonance imaging. JTrauma Acute Care Surg.2013;75(5):843-847.doi:10.1097/TA.0b013e3182a74abd
+2.Mahajan P, Jaffe DM, Olsen CS, et al.Spinal cord injury without radiologic abnormality in children imaged with magnetic resonance imaging. JTrauma Acute Care Surg.2013;75(5):843-847.doi:10.1097/TA.0b013e3182a74abd
+3.Boese CK, Nerlich M, Klein SM, et al.Early magnetic resonance imaging in spinal cord injury without radiological abnormality in adults: a retrospective study.J Trauma Acute Care Surg.2013;74(3):845-848.doi:10.1097/TA.0b013e31828272e9
+3.Boese CK, Nerlich M, Klein SM, et al.Early magnetic resonance imaging in spinal cord injury without radiological abnormality in adults: a retrospective study.J Trauma Acute Care Surg.2013;74(3):845-848.doi:10.1097/TA.0b013e31828272e9
+4.Boese CK, Oppermann J, Siewe J, et al.Spinal cord injury without radiologic abnormality in children: a systematic review and meta-analysis.J Trauma Acute Care Surg.2015;78(4):874-882.doi:10.1097/TA.0000000000000579
+4.Boese CK, Oppermann J, Siewe J, et al.Spinal cord injury without radiologic abnormality in children: a systematic review and meta-analysis.J Trauma Acute Care Surg.2015;78(4):874-882.doi:10.1097/TA.0000000000000579
+
+【儿童脊髓损伤的治疗】
+维持氧合和脊髓灌注
+维持氧合和脊髓灌注
+支持治疗
+支持治疗
+适当时候进行手术固定
+适当时候进行手术固定
+远期症状护理和康复锻炼
+远期症状护理和康复锻炼
+脊髓外伤的儿童应当转运至儿童创伤中心。
+急性期治疗类似于成人治疗，包括固定、关注氧合、通气和循环是否充足（1）。脊柱损伤的儿童比成人较少出现手术固定；由于无放射学异常证据的脊髓损伤(SCIWORA)中的脊柱韧带往往更松弛，骨折和完全韧带撕脱的缺失，因此可能没有合适固定的目标结构 (2)。支具固定的另一优势在于通过避免融合手术来保留脊柱活动度；融合手术会增加远期脊柱关节病的风险。
+历史上，高剂量皮质类固醇已有不同的给药方案和疗法，但成人的多项临床试验未能证实任何额外的临床益处，但却显示伤口感染、肺栓塞、脓毒症和死亡的风险增加 (1)。因此，对于脊髓损伤的儿童，美国的医疗中心倾向于避免长期使用皮质类固醇，尽管一些临床医生仅在围手术期使用短疗程的大剂量类固醇 (3)。
+儿童脊髓损伤的长期治疗与成人脊髓损伤的治疗相似，既强调对受神经影响肢体的强化康复训练，也重视对长期制动或肢体无力所致多种常见医学并发症的治疗支持。康复是多学科协作的过程，包括物理治疗师进行步态训练和下肢力量强化，作业治疗师针对影响上肢运动功能的颈椎损伤患者提供帮助（这类损伤可能导致挛缩，甚至需要言语治疗师协助解决吞咽和分泌物清除问题）。严重脊髓损伤患者由于固定导致发生并发症的高风险，因此需要定期医疗护理和随访。
+预后与损伤后的初始神经功能直接相关。与成人脊髓损伤患者相比，儿童有更好的神经功能预后（4, 5)。
+
+【治疗参考文献】
+1.Walters BC, Hadley MN, Hurlbert RJ, et al.Guidelines for the management of acute cervical spine and spinal cord injuries: 2013 update.Neurosurgery.2013;60(CN_suppl_1):82-91.doi:10.1227/01.neu.0000430319.32247.7f
+1.Walters BC, Hadley MN, Hurlbert RJ, et al.Guidelines for the management of acute cervical spine and spinal cord injuries: 2013 update.Neurosurgery.2013;60(CN_suppl_1):82-91.doi:10.1227/01.neu.0000430319.32247.7f
+2.Atesok K, Tanaka N, O'Brien A, et al.Posttraumatic Spinal Cord Injury without Radiographic Abnormality.Adv Orthop.2018;2018:7060654.Published 2018 Jan 4.doi:10.1155/2018/7060654
+2.Atesok K, Tanaka N, O'Brien A, et al.Posttraumatic Spinal Cord Injury without Radiographic Abnormality.Adv Orthop.2018;2018:7060654.Published 2018 Jan 4.doi:10.1155/2018/7060654
+3.CreveCoeur TS, Alexiades NG, Bonfield CM, et al.Building consensus for the medical management of children with moderate and severe acute spinal cord injury: a modified Delphi study.J Neurosurg Spine.Published online March 17, 2023.doi:10.3171/2023.1.SPINE221188
+3.CreveCoeur TS, Alexiades NG, Bonfield CM, et al.Building consensus for the medical management of children with moderate and severe acute spinal cord injury: a modified Delphi study.J Neurosurg Spine.Published online March 17, 2023.doi:10.3171/2023.1.SPINE221188
+4.Pang D, Pollack IF.Spinal cord injury without radiographic abnormality in children—the SCIWORA syndrome.J Trauma.29:654–664, 1989.doi: 10.1097/00005373-198905000-00021
+4.Pang D, Pollack IF.Spinal cord injury without radiographic abnormality in children—the SCIWORA syndrome.J Trauma.29:654–664, 1989.doi: 10.1097/00005373-198905000-00021
+5.Wang MY, Hoh DJ, Leary SP, et al.High rates of neurological improvement following severe traumatic pediatric spinal cord injury.Spine.29:1493–1497, 2004.doi: 10.1097/01.BRS.0000129026.03194.0
+5.Wang MY, Hoh DJ, Leary SP, et al.High rates of neurological improvement following severe traumatic pediatric spinal cord injury.Spine.29:1493–1497, 2004.doi: 10.1097/01.BRS.0000129026.03194.0
+大多数儿童脊髓损伤都累及颈部。
+大多数儿童脊髓损伤都累及颈部。
+神经系统症状和体征可能在受伤后30分钟至4天内延迟出现。
+神经系统症状和体征可能在受伤后30分钟至4天内延迟出现。
+儿童可能有脊髓损伤而无明显影像学异常的证据(SCIWORA)。
+儿童可能有脊髓损伤而无明显影像学异常的证据(SCIWORA)。
+对于仅有一过性神经功能障碍症状，或者脊柱以及四肢刺痛，应考虑SCIWORA。
+对于仅有一过性神经功能障碍症状，或者脊柱以及四肢刺痛，应考虑SCIWORA。
+对所有有神经系统症状，检查出神经系统缺陷或在其他影像学检查中发现脊髓损伤的患者进行MRI检查。
+对所有有神经系统症状，检查出神经系统缺陷或在其他影像学检查中发现脊髓损伤的患者进行MRI检查。
+与成人脊髓损伤相比，儿童采用手术稳定的频率较低。
+与成人脊髓损伤相比，儿童采用手术稳定的频率较低。

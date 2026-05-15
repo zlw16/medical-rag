@@ -1,0 +1,96 @@
+标题：胎粪吸入综合征
+来源：https://www.msdmanuals.cn/professional/pediatrics/respiratory-problems-in-neonates/meconium-aspiration-syndrome
+============================================================
+
+(参见围产期呼吸系统疾病概述。）
+出生过程中伴随广泛的生理变化，有时揭示出在宫内无问题的疾病。因此，每次分娩时都应有具备新生儿复苏技能的临床医师在场。孕龄和生长参数有助于确定新生儿病变的风险。
+
+【胎粪吸入综合征的病因】
+劳动和分娩时的生理压力（例如，由于脐带压迫或胎盘功能不全或感染引起的缺氧和/或酸中毒）可能导致胎儿在分娩前将胎粪通入羊水中。出生前胎粪排出可能是正常的，特别是足月儿和过期产儿；4%至22%的新生儿（过期产儿中这一比例更高）可观察到胎粪排出（1，2）。然而，胎粪在早产时被发现是不正常的。
+分娩过程中，约 3%～12% 的排出胎粪的新生儿会吸入胎粪，导致肺损伤和呼吸窘迫，称为胎粪吸入综合征。
+
+【病因参考文献】
+1.Gallo DM, Romero R, Bosco M, et al.Meconium-stained amniotic fluid.Am J Obstet Gynecol.2023;228(5S):S1158-S1178.doi:10.1016/j.ajog.2022.11.1283
+1.Gallo DM, Romero R, Bosco M, et al.Meconium-stained amniotic fluid.Am J Obstet Gynecol.2023;228(5S):S1158-S1178.doi:10.1016/j.ajog.2022.11.1283
+2.Dini G, Ceccarelli S, Celi F, Semeraro CM, Gorello P, Verrotti A.Meconium aspiration syndrome: from pathophysiology to treatment.Ann Med Surg (Lond).2024;86(4):2023-2031.Published 2024 Feb 15.doi:10.1097/MS9.0000000000001835
+2.Dini G, Ceccarelli S, Celi F, Semeraro CM, Gorello P, Verrotti A.Meconium aspiration syndrome: from pathophysiology to treatment.Ann Med Surg (Lond).2024;86(4):2023-2031.Published 2024 Feb 15.doi:10.1097/MS9.0000000000001835
+
+【胎粪吸入综合征的病理生理学】
+导致胎粪吸入综合征发病机制可能有：
+非特异性细胞因子释放
+非特异性细胞因子释放
+气道梗阻
+气道梗阻
+减少表面活性剂的产量和表面活性剂的失活
+减少表面活性剂的产量和表面活性剂的失活
+化学性肺炎
+化学性肺炎
+分娩时的生理应激也参与其中。如果发生完全性支气管梗阻，则导致肺不张；部分梗阻则导致呼气时气体滞留，造成肺过度膨胀，可能伴有肺气漏，表现为纵隔气肿或气胸。由于表面活性剂产生减少和表面活性剂失活导致肺顺应性降低，漏气风险进一步增加。
+虽然胎粪引起的肺炎会导致这些婴儿出生后出现呼吸困难，但持续性肺动脉高压（PPH）是由直接肺损伤、血管收缩以及围产期酸中毒和缺氧引起的，最终可能成为更危及生命的疾病。
+分娩时，新生儿可能吸入胎脂、羊水或母体及胎儿来源的血液，这些均可引起呼吸窘迫，并在胸部X线显示吸入性肺炎表现，类似于胎粪吸入综合征。
+
+【胎粪吸入综合症的症状和体征】
+胎粪吸入综合征的体征包括呼吸急促、鼻翼煽动、胸廓回缩、发绀或血氧饱和度降低、罗音和干啰音。婴儿可能出现紫绀。
+脐带、甲床或皮肤的绿黄色染色表明子宫内暴露于胎粪的时间延长（数小时）。这种胎粪污染可能表明胎儿存在长时间窘迫，并可能引发导致胎粪吸入综合征的生理变化。口咽部可能可见胎粪污染，（插管时）喉部和气管内也可能可见。
+由于气体滞留可能增加胸廓前后径而呈桶状胸，还可以出现气胸、间质性肺气肿和纵隔气肿。
+
+【胎粪吸入综合症的诊断】
+胎粪排出
+胎粪排出
+呼吸窘迫
+呼吸窘迫
+具有特征性的X线片结果
+具有特征性的X线片结果
+当新生儿出现呼吸窘迫且羊水中含有胎粪时，应怀疑胎粪吸入综合征的诊断。染色不能诊断。
+诊断可通过胸部X线片确认，其典型表现为肺过度充气，伴程度不一的肺不张区域、不均匀的斑片状或条索状致密影，以及膈肌低平。初始放射学表现可能与新生儿一过性呼吸急促（TTN)相混淆；然而，区别胎粪吸入综合征患儿与 TTN 患儿的关键通常在于显著的低氧血症，有时还伴有持续性肺动脉高压（PPH）。肺裂或胸膜间隙可见液体，软组织或纵隔可见空气。
+由于胎粪可能促进细菌生长，且胎粪吸入综合征与细菌性肺炎难以区分，因此应进行血液培养。
+
+【胎粪吸入综合征的治疗】
+用于低氧血症的补充氧气或作为PPH婴儿的肺血管扩张剂
+用于低氧血症的补充氧气或作为PPH婴儿的肺血管扩张剂
+持续气道正压通气（CPAP），或根据需要进行气管插管和机械通气
+持续气道正压通气（CPAP），或根据需要进行气管插管和机械通气
+有时是表面活性剂
+有时是表面活性剂
+有时静脉注射抗生素
+有时静脉注射抗生素
+吸入一氧化氮的重症PPH病例
+吸入一氧化氮的重症PPH病例
+体外膜肺氧合（ECMO）如果对上述治疗无反应
+体外膜肺氧合（ECMO）如果对上述治疗无反应
+对伴有胎粪污染羊水的新生儿常规深部吸引（即插管吸引声带以下部位）并未被证明可改善结局，因此不推荐对有胎粪的病危新生儿行插管吸引（1–3）。然而，如果新生儿的呼吸出现阻塞，则通过连接在胎粪吸引器上的气管内导管进行吸引。若出现呼吸窘迫，需采用气管插管或经鼻持续气道正压通气，其次是机械通气并将患儿收入新生儿重症监护室。由于正压通气可增加肺气漏的危险，定时通过体检和胸片随访评估对并发症的发现极为重要，任何气管插管的婴儿出现血压、血流灌注或血氧饱和度突然恶化都应该立即考虑并发症的可能治疗请参阅肺空气泄漏综合征。
+对于氧气要求高的机械通气新生儿，应考虑使用表面活性剂；它可以减少对ECMO(4，5）但不会降低死亡率。
+抗生素（通常是氨苄青霉素和氨基糖苷类药物，如用于新生儿重症细菌性疾病的标准治疗）有时也会使用。然而，研究表明，在胎粪吸入婴儿中使用抗生素并不能显着降低死亡率，败血症发生率，住院时间或需要呼吸支持的持续时间（5）。
+如果进展为难治性低氧血症，那么需要吸入高达20ppm的一氧化氮和高频通气(见机械通气)等其他治疗方法；它们也能降低ECMO的需求。
+
+【治疗参考文献】
+1.Nangia S, Thukral A, Chawla D.Tracheal suction at birth in non-vigorous neonates born through meconium-stained amniotic fluid.Cochrane Database Syst Rev.2021;6(6):CD012671.Published 2021 Jun 16.doi:10.1002/14651858.CD012671.pub2
+1.Nangia S, Thukral A, Chawla D.Tracheal suction at birth in non-vigorous neonates born through meconium-stained amniotic fluid.Cochrane Database Syst Rev.2021;6(6):CD012671.Published 2021 Jun 16.doi:10.1002/14651858.CD012671.pub2
+2.Wei Q, Chen W, Liang Q, Song S, Li J.Effect of Endotracheal Suctioning on Infants Born through Meconium-Stained Amniotic Fluid: A Meta-analysis.Am J Perinatol.2023;40(12):1272-1278.doi:10.1055/s-0041-1741034
+2.Wei Q, Chen W, Liang Q, Song S, Li J.Effect of Endotracheal Suctioning on Infants Born through Meconium-Stained Amniotic Fluid: A Meta-analysis.Am J Perinatol.2023;40(12):1272-1278.doi:10.1055/s-0041-1741034
+3.Chiruvolu A, Miklis KK, Chen E, Petrey B, Desai S.Delivery Room Management of Meconium-Stained Newborns and Respiratory Support.Pediatrics.2018;142(6):e20181485.doi:10.1542/peds.2018-1485
+3.Chiruvolu A, Miklis KK, Chen E, Petrey B, Desai S.Delivery Room Management of Meconium-Stained Newborns and Respiratory Support.Pediatrics.2018;142(6):e20181485.doi:10.1542/peds.2018-1485
+4.El Shahed AI, Dargaville PA, Ohlsson A, Soll R.Surfactant for meconium aspiration syndrome in term and late preterm infants.Cochrane Database Syst Rev.2014;12(CD002054):1–36.doi:10.1002/14651858.CD002054.pub3
+4.El Shahed AI, Dargaville PA, Ohlsson A, Soll R.Surfactant for meconium aspiration syndrome in term and late preterm infants.Cochrane Database Syst Rev.2014;12(CD002054):1–36.doi:10.1002/14651858.CD002054.pub3
+5.Natarajan CK, Sankar MJ, Jain K, et al.Surfactant therapy and antibiotics in neonates with meconium aspiration syndrome: A systematic review and meta-analysis.J Perinatol.2016;36(Suppl 1):S49–S54.doi:10.1038/jp.2016.32
+5.Natarajan CK, Sankar MJ, Jain K, et al.Surfactant therapy and antibiotics in neonates with meconium aspiration syndrome: A systematic review and meta-analysis.J Perinatol.2016;36(Suppl 1):S49–S54.doi:10.1038/jp.2016.32
+
+【胎粪吸入综合征的预后】
+虽然死亡率约为1%，但在胎粪吸入综合征的幸存者中，哮喘、发育迟缓和脑瘫等并发症的发生率增加（1）。
+胎粪吸入伴严重持续性肺动脉高压可能致命。
+
+【预后参考】
+1.Dini G, Ceccarelli S, Celi F, Semeraro CM, Gorello P, Verrotti A.Meconium aspiration syndrome: from pathophysiology to treatment.Ann Med Surg (Lond).2024;86(4):2023-2031.Published 2024 Feb 15.doi:10.1097/MS9.0000000000001835
+1.Dini G, Ceccarelli S, Celi F, Semeraro CM, Gorello P, Verrotti A.Meconium aspiration syndrome: from pathophysiology to treatment.Ann Med Surg (Lond).2024;86(4):2023-2031.Published 2024 Feb 15.doi:10.1097/MS9.0000000000001835
+约有3%至12%存在产前或围产期胎粪排出的新生儿会吸入胎粪，从而引发肺损伤和呼吸窘迫，或因其产前及产后生理状态而易发生持续性肺动脉高压，这可能使胎粪吸入综合征的病情复杂化。
+约有3%至12%存在产前或围产期胎粪排出的新生儿会吸入胎粪，从而引发肺损伤和呼吸窘迫，或因其产前及产后生理状态而易发生持续性肺动脉高压，这可能使胎粪吸入综合征的病情复杂化。
+新生儿在口咽部可能有呼吸急促，鼻翼扩张，回缩，紫绀或去饱和，罗音，鼾音和可见的胎粪染色。
+新生儿在口咽部可能有呼吸急促，鼻翼扩张，回缩，紫绀或去饱和，罗音，鼾音和可见的胎粪染色。
+当新生儿在含有胎粪的羊水中出现呼吸窘迫时，应怀疑该诊断。
+当新生儿在含有胎粪的羊水中出现呼吸窘迫时，应怀疑该诊断。
+做胸部X线检查和血液培养以排除肺炎和细菌性败血症。
+做胸部X线检查和血液培养以排除肺炎和细菌性败血症。
+分娩后，如果婴儿出现呼吸受阻的迹象，应使用连接于胎粪吸引器的气管导管进行吸痰。
+分娩后，如果婴儿出现呼吸受阻的迹象，应使用连接于胎粪吸引器的气管导管进行吸痰。
+病情严重的新生儿需要机械通气，并在某些情况下应用抗生素、吸入一氧化氮或体外膜肺氧合（ECMO）。
+病情严重的新生儿需要机械通气，并在某些情况下应用抗生素、吸入一氧化氮或体外膜肺氧合（ECMO）。

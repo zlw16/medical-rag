@@ -1,0 +1,46 @@
+标题：颅管骨肥大
+来源：https://www.msdmanuals.cn/professional/pediatrics/bone-disorders-in-children/craniotubular-hyperostoses
+============================================================
+
+骨硬化症是一种由破骨细胞功能缺陷引起的家族性疾病，其特征是骨密度增加和骨骼造型异常。
+
+【骨干发育不良(Camurati-Engelmann病)】
+骨干发育不良是一种以进行性骨质增生为特征的硬化性骨发育不良，主要影响长骨骨干，很少影响颅骨。
+这种常染色体显性疾病是由TGFB1基因突变引起的，该突变导致转化生长因子 β-1 (TGFβ-1) 过度活跃，从而导致骨形成增加（1）。人口流行率未知，但全球已报告超过 300 例病例。
+骨干发育不良通常在儿童中期出现，表现为骨骼或肌肉疼痛、无力及萎缩，典型累及下肢。这些症状通常在30岁缓解。由于颅骨骨质增生，偶尔会出现颅神经受压以及颅内压升高的情况。部分患者残疾严重，而另一些几乎无症状。
+如儿童出现肌肉缺陷和长骨及颅骨的肥大，就应考虑骨干发育不良的诊断。通常情况下，行X线检查。主要的X射线特征表现是长骨的骨干皮质的骨膜和髓质表面的增厚，但检查结果不尽相同。骨髓腔和骨的外形不规则。四肢和中轴骨通常未受累。少数情况下，颅骨亦受累，伴有颅顶部增宽和颅底部硬化。
+糖皮质激素可能有助于缓解骨痛并增强肌肉力量（2）。
+
+【骨干发育不良参考文献】
+1.MedlinePlus[Internet].Bethesda (MD): National Library of Medicine (US); [updated 2020 Jun 24].Camurati-Engelmann disease; [updated 2021 Nov 1; cited 2025 Jun 9].
+1.MedlinePlus[Internet].Bethesda (MD): National Library of Medicine (US); [updated 2020 Jun 24].Camurati-Engelmann disease; [updated 2021 Nov 1; cited 2025 Jun 9].
+2.Kim YM, Kang E, Choi JH, Kim GH, Yoo HW, Lee BH.Clinical characteristics and treatment outcomes in Camurati-Engelmann disease: A case series.Medicine (Baltimore).2018;97(14):e0309.doi:10.1097/MD.0000000000010309
+2.Kim YM, Kang E, Choi JH, Kim GH, Yoo HW, Lee BH.Clinical characteristics and treatment outcomes in Camurati-Engelmann disease: A case series.Medicine (Baltimore).2018;97(14):e0309.doi:10.1097/MD.0000000000010309
+
+【骨内膜过度骨化（van Buchem综合征）】
+骨内膜骨质增生是一种以过度骨形成为特征的疾病，尤其影响颅骨、下颌骨、锁骨、肋骨和长骨。
+这种情况是SOST基因相关硬化性骨发育不良的一部分（1），通常以常染色体隐性方式遗传。引起骨内膜骨质增生的SOST突变导致功能性蛋白质硬骨素缺乏，这降低了该蛋白质抑制骨形成的能力，并导致受影响的人观察到的过度骨骼生长。人群患病率尚不清楚，但据报道，大约有30人患有这种疾病，主要是荷兰血统的人。在骨内膜骨质增生中，遗传性病变似乎影响成骨细胞的正常功能。
+骨内膜骨质增生通常代表较轻的骨性骨质增生表型。儿童中期下颌骨和眉骨的过度生长和扭曲变得更为明显。随后，颅神经受到压迫，导致面瘫和耳聋。不影响正常寿命，身材正常，没有骨骼脆性变。
+颅骨X线片显示颅顶、颅底及下颌骨增宽和硬化。管状骨骨干存在骨内膜增厚。
+受累神经的外科减压术可能有帮助。
+
+【骨内膜骨质增生症参考文献】
+1.MedlinePlus[Internet].Bethesda (MD): National Library of Medicine (US); [updated 2020 Jun 24].SOST-related sclerosing bone dysplasia; [updated 2009 Jun 1; cited 2025 Jun 9].
+1.MedlinePlus[Internet].Bethesda (MD): National Library of Medicine (US); [updated 2020 Jun 24].SOST-related sclerosing bone dysplasia; [updated 2009 Jun 1; cited 2025 Jun 9].
+
+【硬化性骨化病】
+硬化症是一种以过度骨形成为特征的疾病，尤其影响颅骨和下颌骨，通常与第二和第三指并指有关。
+这种常染色体隐性遗传病是由编码硬化蛋白的SOST基因突变引起，属于SOST基因相关硬化性骨发育不良（1）的一种。据报告约有100例硬化性骨化症病例。该病在南非的荷裔人中最为常见。
+硬化症通常是骨质增生的一种更严重的表型。儿童早期出现骨骼的过度生长和硬化，尤其是颅骨。身高和体重常常超过标准。硬化性骨化病的初始症状和体征包括由于脑神经受压引起的耳聋和面瘫。面部变形在10岁时表现出来，最终变得很严重。第2、第3指的皮性或骨性并指是区分硬化性骨化病与其他颅管骨肥大的显著特征。
+这张照片显示一个患者头部严重畸形、巨头、眶距增宽，鼻梁宽平、鞍鼻畸形，下颌突出。
+© Springer Science+Business Media
+通过特性骨骼异常考虑硬化性骨化病的诊断，特别是当病人也有指畸形时。通常情况下，行X线检查。颅骨X光片的主要特征是颅顶骨和下颌骨明显增宽及硬化。椎体不受累，但椎弓根密度增加。骨盆硬化但有正常的外形。长骨皮质硬化并且过度骨化、成型不良。可行诊断基因检测。
+x线显示颅骨和整个面部骨骼明显增厚和硬化。
+© Springer Science+Business Media
+手术降低颅内压或裹入神经减压可能有所帮助。根据表型严重程度，可能还需要进行下颌骨过度生长的手术切除、维持适当的牙列以及并指（趾）的手术矫正（2）。
+
+【硬化性骨增生症参考文献】
+1.MedlinePlus[Internet].Bethesda (MD): National Library of Medicine (US); [updated 2020 Jun 24].SOST-related sclerosing bone dysplasia; [updated 2009 Jun 1; cited 2025 Jun 9].
+1.MedlinePlus[Internet].Bethesda (MD): National Library of Medicine (US); [updated 2020 Jun 24].SOST-related sclerosing bone dysplasia; [updated 2009 Jun 1; cited 2025 Jun 9].
+2.Appelman-Dijkstra N, Van Lierop A, Papapoulos S.SOST-Related Sclerosing Bone Dysplasias.In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, eds.GeneReviews®.Seattle (WA): University of Washington, Seattle; June 4, 2002.
+2.Appelman-Dijkstra N, Van Lierop A, Papapoulos S.SOST-Related Sclerosing Bone Dysplasias.In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, eds.GeneReviews®.Seattle (WA): University of Washington, Seattle; June 4, 2002.

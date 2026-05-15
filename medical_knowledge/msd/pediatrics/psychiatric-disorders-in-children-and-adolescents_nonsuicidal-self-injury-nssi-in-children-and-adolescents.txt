@@ -1,0 +1,92 @@
+标题：儿童和青少年的非自杀性自伤(NSSI)
+来源：https://www.msdmanuals.cn/professional/pediatrics/psychiatric-disorders-in-children-and-adolescents/nonsuicidal-self-injury-nssi-in-children-and-adolescents
+============================================================
+
+非自杀性自伤（NSSI）是一种不以结束生命为目的而故意对自己造成身体伤害的行为。部分（而非全部）（1）存在非自杀性自伤行为的青少年同时患有其他共病障碍，例如心境障碍（2）、焦虑障碍（3）、低自尊（4）、进食障碍（5）、创伤后应激障碍（3）、人格障碍（2, 3）以及物质使用障碍（6, 7）。
+在儿童和青少年中，自伤可以表现为各种形式，如割伤、烧伤、殴打或使用其他没有致命意图的自我伤害方法。在许多青少年中，自伤行为并不表示自杀倾向，反而是他们觉得自己应有的自我惩罚行为；这些行为被用来获得父母和/或其他重要人物的注意，表达愤怒，调节负面情绪，或获得同龄人群认同。然而，这些青少年，尤其是那些使用多种自残方法的青少年，很可能同时患有其他精神疾病 并增加自杀风险（4、8)。
+所有自伤行为都应由经验丰富的临床医师进行评估，这些医师需擅长处理问题儿童及青少年群体，以评估是否存在自杀倾向，并识别导致自伤行为的潜在心理困扰（9）。针对儿童及青少年的非自杀性自伤（NSSI），治疗通常包括多种心理干预手段，如认知行为治疗（CBT）、辩证行为治疗（DBT）及其他旨在改善应对能力和情绪调节的治疗方式。
+患者经常在一次治疗中反复伤害自己，在同一位置造成多处损伤，通常是在容易隐藏但可触及的区域（如前臂，大腿前部）。这种行为常常反复发生，导致形成大面积的瘢痕组织。患者常常专注于与伤害行为相关的想法。
+非自杀性自伤（NSSI）通常始于青春期早期。一般人群研究中的发病率在男性和女性之间相似。自然史尚不明确，但该行为似乎在青年成年期后减少（10）。在犯罪人群中患病率也较高，这些人群往往以男性为主（11）。
+自残行为的动机尚不明确，但自伤可能是
+一种缓解紧张或负面情绪的方法
+一种缓解紧张或负面情绪的方法
+解决人际困境的方法
+解决人际困境的方法
+对感知到的过错而进行自我惩罚
+对感知到的过错而进行自我惩罚
+求助请求
+求助请求
+
+【参考文献】
+1.Swannell SV, Martin GE, Page A, et al.Prevalence of nonsuicidal self-injury in nonclinical samples: Systematic review, meta-analysis and meta regression.Suicide Life Threat Behav.44(3):273-303, 2013.doi: 10.1111/sltb.12070
+1.Swannell SV, Martin GE, Page A, et al.Prevalence of nonsuicidal self-injury in nonclinical samples: Systematic review, meta-analysis and meta regression.Suicide Life Threat Behav.44(3):273-303, 2013.doi: 10.1111/sltb.12070
+2.Cox LJ, Stanley BH, Melhem NM, et al.Familial and individual correlates of nonsuicidal self-injury in the offspring of mood-disordered parents.J Clin Psychiatry.73(6):813-820, 2012.doi: 10.4088/JCP.11m07196
+2.Cox LJ, Stanley BH, Melhem NM, et al.Familial and individual correlates of nonsuicidal self-injury in the offspring of mood-disordered parents.J Clin Psychiatry.73(6):813-820, 2012.doi: 10.4088/JCP.11m07196
+3.Nock MK, Joiner TE, Gordon KH, et al.Nonsuicidal self-injury among adolescents: Diagnostic correlates and relation to suicide attempts.Psychiatry Res.144(1):65-72, 2006.doi: 10.1016/j.psychres.2006.05.010
+3.Nock MK, Joiner TE, Gordon KH, et al.Nonsuicidal self-injury among adolescents: Diagnostic correlates and relation to suicide attempts.Psychiatry Res.144(1):65-72, 2006.doi: 10.1016/j.psychres.2006.05.010
+4.Lewis SP, Heath NL.Nonsuicidal self-injury among youth.J Pediatr.166(3):526-530, 2015.doi: 10.1016/j.jpeds.2014.11.062
+4.Lewis SP, Heath NL.Nonsuicidal self-injury among youth.J Pediatr.166(3):526-530, 2015.doi: 10.1016/j.jpeds.2014.11.062
+5.Cipriano A, Cella S, Cotrufo P.Nonsuicidal self-injury: A systematic review.Front Psychol.8:1946, 2017.doi: 10.3389/fpsyg.2017.01946
+5.Cipriano A, Cella S, Cotrufo P.Nonsuicidal self-injury: A systematic review.Front Psychol.8:1946, 2017.doi: 10.3389/fpsyg.2017.01946
+6.Nock MK, Prinstein MJ.Contextual features and behavioral functions of self-mutilation among adolescents.J Abnorm Psychol.114(1):140-146, 2005.doi: 10.1037/0021-843X.114.1.140
+6.Nock MK, Prinstein MJ.Contextual features and behavioral functions of self-mutilation among adolescents.J Abnorm Psychol.114(1):140-146, 2005.doi: 10.1037/0021-843X.114.1.140
+7.Lloyd-Richardson EE, Perrine N, Dierker L, et al.Characteristics and functions of non-suicidal self-injury in a community sample of adolescents.Psychol Med.37(8):1183-1192, 2007.doi: 10.1017/S003329170700027X
+7.Lloyd-Richardson EE, Perrine N, Dierker L, et al.Characteristics and functions of non-suicidal self-injury in a community sample of adolescents.Psychol Med.37(8):1183-1192, 2007.doi: 10.1017/S003329170700027X
+8.Greydanus DE, Apple RW.The relationship between deliberate self-harm behavior, body dissatisfaction, and suicide in adolescents: Current concepts.J Multidiscip Healthc.4:183-189, 2011.doi: 10.2147/JMDH.S11569
+8.Greydanus DE, Apple RW.The relationship between deliberate self-harm behavior, body dissatisfaction, and suicide in adolescents: Current concepts.J Multidiscip Healthc.4:183-189, 2011.doi: 10.2147/JMDH.S11569
+9.Brown RC, Plener PL.Non-suicidal self-injury in adolescence.Curr Psychiatry Rep.19(3):20, 2017.doi: 10.1007/s11920-017-0767-9
+9.Brown RC, Plener PL.Non-suicidal self-injury in adolescence.Curr Psychiatry Rep.19(3):20, 2017.doi: 10.1007/s11920-017-0767-9
+10.Klonsky ED, Victor SE, Saffer BY.Nonsuicidal self-injury: What we know, and what we need to know.Can J Psych.59(11):565-568, 2014.doi: 10.1177/070674371405901101
+10.Klonsky ED, Victor SE, Saffer BY.Nonsuicidal self-injury: What we know, and what we need to know.Can J Psych.59(11):565-568, 2014.doi: 10.1177/070674371405901101
+11.Favril L.Non-suicidal self-injury and co-occurring suicide attempt in male prisoners.Psychiatry Res.2019;276:196-202.doi:10.1016/j.psychres.2019.05.017
+11.Favril L.Non-suicidal self-injury and co-occurring suicide attempt in male prisoners.Psychiatry Res.2019;276:196-202.doi:10.1016/j.psychres.2019.05.017
+
+【儿童与青少年非自杀性自伤的诊断】
+精神障碍诊断与统计手册, 第5版，文本修订（DSM-5-TR）标准
+精神障碍诊断与统计手册, 第5版，文本修订（DSM-5-TR）标准
+自杀行为的排除
+自杀行为的排除
+自伤行为评估
+自伤行为评估
+非自杀性自伤行为的诊断必须排除自杀行为。该诊断的确立需符合以下条件：患者在过去一年内至少有 5 次故意自我伤害行为（如割伤、烧灼等），且无自杀意图；其主要动机为缓解负性情绪、解决人际冲突或诱发积极情感（1）。要诊断该病症，该行为还必须引起显著痛苦或功能损害，并且不是社会认可的或另一种精神或医学病症的一部分。
+在治疗开始前，对非自杀性自伤行为的评估与自杀行为评估同样至关重要。
+促进与患者讨论自伤行为对于充分评估至关重要，并有助于医生规划治疗。医生可以通过以下方式促进此类讨论：
+通过沟通表明他们已听取患者并认真对待患者的经历来验证患者的体验
+通过沟通表明他们已听取患者并认真对待患者的经历来验证患者的体验
+理解病人的情绪（例如，根据病人的情况确认病人的情绪和行为是可以理解的）
+理解病人的情绪（例如，根据病人的情况确认病人的情绪和行为是可以理解的）
+自伤行为的评估应包括以下方面：
+确定患者实施了何种类型的自伤以及有多少种类型的自伤
+确定患者实施了何种类型的自伤以及有多少种类型的自伤
+确定自伤行为发生的频率及其持续时间
+确定自伤行为发生的频率及其持续时间
+确定患者非自杀性自伤行为的功能
+确定患者非自杀性自伤行为的功能
+检查是否存在共病性精神障碍
+检查是否存在共病性精神障碍
+评估自杀未遂风险
+评估自杀未遂风险
+评估患者参与治疗的意愿程度
+评估患者参与治疗的意愿程度
+
+【诊断参考文献】
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), Washington: American Psychiatric Association, 2022.
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), Washington: American Psychiatric Association, 2022.
+
+【儿童与青少年非自杀性自伤行为的治疗】
+某些形式的心理治疗（例如，认知行为疗法、辩证行为疗法、情绪调节团体疗法）
+某些形式的心理治疗（例如，认知行为疗法、辩证行为疗法、情绪调节团体疗法）
+罕见药物治疗
+罕见药物治疗
+并存障碍的治疗
+并存障碍的治疗
+儿童及青少年非自杀性自伤（NSSI）的治疗通常包括心理治疗（如认知行为治疗）及家庭支持，旨在处理潜在的情绪问题并培养更健康的应对策略（1）。在罕见情况下，药物可能有效。认知行为疗法通常是门诊治疗，个人治疗，但也可以在住院病人中进行小组治疗。改善通过帮助患者改变他们对自动思维的反应方式，并打破负面思维-行为-情绪模式来实现。
+辩证行为疗法涉及至少一年的个体和团体治疗。该疗法侧重于识别并尝试改变消极思维模式，同时促进积极转变。其目的在于帮助患者找到更适宜的方式来应对压力（例如，抵制自我毁灭行为的冲动）。
+情绪调节团体疗法在14周的团体环境中进行。这种疗法包括教患者如何提高对自己情绪的认识，并为他们提供处理情绪的技能。情绪调节团体治疗帮助患者接纳负面情绪作为生活的一部分，从而避免对此类情绪做出过于强烈和冲动的反应。
+在美国，还没有专门用于治疗自伤的药物被批准然而，纳曲酮和某些第二代抗精神病药物对部分患者有效（1）。
+共病的精神障碍（例如，抑郁症、进食障碍、物质使用障碍、边缘型人格障碍、双相障碍）应得到适当治疗。患者应根据需要转诊至合适的临床医生处。
+应安排后续随访预约。
+
+【治疗参考文献】
+1.Turner BJ, Austin SB, Chapman AL.Treating nonsuicidal self-injury: a systematic review of psychological and pharmacological interventions.Can J Psychiatry.2014;59(11):576-585.doi:10.1177/070674371405901103
+1.Turner BJ, Austin SB, Chapman AL.Treating nonsuicidal self-injury: a systematic review of psychological and pharmacological interventions.Can J Psychiatry.2014;59(11):576-585.doi:10.1177/070674371405901103

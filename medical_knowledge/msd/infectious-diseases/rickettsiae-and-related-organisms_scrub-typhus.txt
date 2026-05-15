@@ -1,0 +1,53 @@
+标题：恙虫病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/rickettsiae-and-related-organisms/scrub-typhus
+============================================================
+
+（参见立克次体及其相关病原体感染概述。）
+恙虫病属于立克次体病。
+O. tsutsugamushi恙虫病立克次体主要通过恙螨进行传播，而恙螨多生活在森林地区，并寄生在啮齿动物体内，如老鼠、田鼠或野生老鼠等， 恙螨叮咬后也可造成人感染。恙螨既是传播媒介又是恙虫病东方体O. tsutsugamushi的自然储存库。
+恙虫病在与日本、韩国、中国、印度以及澳大利亚北部接壤的亚太地区呈地方性流行。
+
+【恙虫病的症状和体征】
+本病潜伏期为6～21天（平均10～12天），过后突然出现恙虫病的症状，包括发热、寒战、头痛和全身淋巴结肿大。发热起始，叮咬处会出现焦痂，典型的恙虫病病变开始时是直径约1厘米的红色硬结；最终会形成水泡、破裂并被黑色焦痂覆盖。O. tsutsugamushi（恙虫病东方体）的不同菌株导致焦痂的能力各不相同，皮肤浅的人更容易发现焦痂。局部淋巴结肿大。
+体温在第一周内升高，通常可高达40～40.5°C。头痛比较普遍而且比较剧烈，结膜炎也较多见。发热第5至8天，躯干出现斑疹，常扩散至四肢。可迅速消失，或转为斑丘疹并伴色素沉着。发热第1周可出现咳嗽，第2周出现肺炎。
+在重症病例中，脉搏加快，血压下降，并出现谵妄、木僵和肌肉抽搐。脾脏肿大和间质性心肌炎的发生率较其他立克次体病高。不及时治疗者，发热可以持续≥2周，然后在数天内逐渐降低；治疗36小时后，体温可降低，而且无后遗症。
+恙虫病（tsutsugamushi 病）表现为恙螨叮咬部位的焦痂（上）。焦痂出现后会出现弥漫性斑疹（底部）。
+Images courtesy of Yoshiki Taniguchi, MD.From Taniguchi, Y: Eschar, fever, and rash in a 43-year-old man.Dermatology Online Journal3(2), 1997.
+
+【恙虫病的诊断】
+病史和体格检查
+病史和体格检查
+对皮疹进行荧光抗体染色活检以发现病原体
+对皮疹进行荧光抗体染色活检以发现病原体
+急性期和恢复期血清学检测（急性期血清学检测无用）
+急性期和恢复期血清学检测（急性期血清学检测无用）
+聚合酶链反应（PCR）
+聚合酶链反应（PCR）
+恙虫病的临床表现类似于落基山斑疹热和流行性斑疹伤寒。然而，恙虫病发生在不同的地理区域（日本、韩国、中国、印度和澳大利亚北部所界定的亚太地区），且常伴有焦痂和局部淋巴结肿大。
+详见立克次体和相关病原体感染的诊断。
+
+【恙虫病的治疗】
+多西环素
+多西环素
+如果在症状开始后不久给予抗生素是最有效的。
+恙虫病的主要治疗方法是使用多西环素，直至患者病情好转、退热48小时以上，且总疗程至少为7天。
+虽然一些四环素类药物可能会导致 8 岁以下儿童牙齿染色，但疾病控制和预防中心 (CDC) 建议使用一个疗程的多西环素(1)，轻症儿童需服用 5 天，高危儿童需服用 10 天。研究表明，短疗程的强力霉素（5 至 10 天，用于治疗立克次体病）可用于儿童，而不会导致牙齿染色或牙釉质变弱（2）。孕妇可以服用甲氧苄啶/磺胺甲恶唑，但不得超过妊娠 32 周。
+对于孕妇和对多西环素严重过敏的患者，阿奇霉素已被证明是安全有效的替代药物（3）。
+氯霉素是一种替代治疗方法。在美国没有口服氯霉素，其使用可导致血液学不良反应，需要监测血液指标。
+
+【治疗参考文献】
+1.Centers for Disease Control and Prevention: Information for Healthcare Providers, Typhus Fevers
+1.Centers for Disease Control and Prevention: Information for Healthcare Providers, Typhus Fevers
+2.Todd SR, Dahlgren FS, Traeger MS, et al: No visible dental staining in children treated with doxycycline for suspected Rocky Mountain Spotted Fever.J Pediatr166(5):1246-51, 2015.doi: 10.1016/j.jpeds.2015.02.015
+2.Todd SR, Dahlgren FS, Traeger MS, et al: No visible dental staining in children treated with doxycycline for suspected Rocky Mountain Spotted Fever.J Pediatr166(5):1246-51, 2015.doi: 10.1016/j.jpeds.2015.02.015
+3.Lee SC, Cheng YJ, Lin CH, et al: Comparative effectiveness of azithromycin for treating scrub typhus: A PRISMA-compliant systematic review and meta-analysis.Medicine(Baltimore) 96(36):e7992, 2017.doi: 10.1097/MD.0000000000007992
+3.Lee SC, Cheng YJ, Lin CH, et al: Comparative effectiveness of azithromycin for treating scrub typhus: A PRISMA-compliant systematic review and meta-analysis.Medicine(Baltimore) 96(36):e7992, 2017.doi: 10.1097/MD.0000000000007992
+
+【恙虫病的预防】
+通过修剪灌木丛并向感染区域喷洒残留的杀虫剂来消除或减少螨虫种群，有助于预防恙虫病。 当可能接触昆虫时，应使用驱虫剂（例如，避蚊胺[DEET]）。
+亚太地区流行的恙虫病是经螨（螨幼虫）叮咬传播的。
+亚太地区流行的恙虫病是经螨（螨幼虫）叮咬传播的。
+发烧（常伴有咬伤部位的焦痂），寒战，剧烈头痛和全身性淋巴结肿大等临床表现突然开始；此后皮疹发展并蔓延。
+发烧（常伴有咬伤部位的焦痂），寒战，剧烈头痛和全身性淋巴结肿大等临床表现突然开始；此后皮疹发展并蔓延。
+使用多西环素治疗可迅速改善病情，即使是重症病例。
+使用多西环素治疗可迅速改善病情，即使是重症病例。

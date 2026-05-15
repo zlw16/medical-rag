@@ -1,0 +1,64 @@
+标题：轮状病毒肠胃炎
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/gastroenteritis/rotavirus-gastroenteritis
+============================================================
+
+自常规轮状病毒免疫接种实施以来，美国轮状病毒发病率显著下降：3岁以下儿童检测阳性率降低约75%，住院率下降75%-90%(1,2)。轮状病毒有很高的传染性；多数经粪-口途径传染。成人可以在与感染婴儿密切接触后被感染。
+在气候温和地区，大多数感染发生于冬季和春季。在轮状病毒疫苗问世之前，美国的一轮轮状病毒疾病通常于12月从西南部开始，至次年4月或5月在东北部结束。目前该疾病的发生更不可预测，且可能全年出现 (3)。
+潜伏期为1～3天。
+（参见胃肠炎概述）。
+
+【参考文献】
+1.Hallowell BD, Parashar UD, Curns A, DeGroote NP, Tate JE.Trends in the Laboratory Detection of Rotavirus Before and After Implementation of Routine Rotavirus Vaccination - United States, 2000-2018.MMWR Morb Mortal Wkly Rep2019;68(24):539-543.doi:10.15585/mmwr.mm6824a2
+1.Hallowell BD, Parashar UD, Curns A, DeGroote NP, Tate JE.Trends in the Laboratory Detection of Rotavirus Before and After Implementation of Routine Rotavirus Vaccination - United States, 2000-2018.MMWR Morb Mortal Wkly Rep2019;68(24):539-543.doi:10.15585/mmwr.mm6824a2
+2.Staat MA, Payne DC, Halasa N, et al.Continued Evidence of the Impact ofRotavirus Vaccinein Children Less Than 3 Years of Age From the United States New Vaccine Surveillance Network: A Multisite Active Surveillance Program, 2006-2016.Clin Infect Dis2020;71(9):e421-e429.doi:10.1093/cid/ciaa150
+2.Staat MA, Payne DC, Halasa N, et al.Continued Evidence of the Impact ofRotavirus Vaccinein Children Less Than 3 Years of Age From the United States New Vaccine Surveillance Network: A Multisite Active Surveillance Program, 2006-2016.Clin Infect Dis2020;71(9):e421-e429.doi:10.1093/cid/ciaa150
+3.Centers for Disease Control and Prevention: Rotavirus: Clinical Overview of Rotavirus.Accessed March 31, 2025.
+3.Centers for Disease Control and Prevention: Rotavirus: Clinical Overview of Rotavirus.Accessed March 31, 2025.
+
+【轮状病毒胃肠炎的症状和体征】
+婴幼儿和儿童的轮状病毒胃肠炎可持续5～7天。
+≥80%的患者出现呕吐，高达60%的患者出现体温>39°C (>102.2°F) 的发热 (1)。
+腹泻是水样和非血性的。
+在成人中，轮状病毒胃肠炎的症状通常较轻。在儿童中，腹泻更可能导致严重脱水甚至死亡。
+
+【症状和体征参考文献】
+1.Coffin SE, Elser J, Marchant C, et al.Impact of acute rotavirus gastroenteritis on pediatric outpatient practices in the United States.Pediatr Infect Dis J2006;25(7):584-589.doi:10.1097/01.inf.0000220251.27595.74
+1.Coffin SE, Elser J, Marchant C, et al.Impact of acute rotavirus gastroenteritis on pediatric outpatient practices in the United States.Pediatr Infect Dis J2006;25(7):584-589.doi:10.1097/01.inf.0000220251.27595.74
+
+【轮状病毒胃肠炎的诊断】
+有时，基于免疫的检测或聚合酶链反应（PCR）检测
+有时，基于免疫的检测或聚合酶链反应（PCR）检测
+除用于诊断疫情暴发外，通常不常规进行诊断检测；若进行检测，则涉及识别粪便中轮状病毒的测试。酶联免疫吸附试验（ELISA）和乳胶凝集试验是两种常用的检测方法。
+核酸检测 (PCR) 非常敏感，通常以多重 PCR 面板进行，包括多种胃肠炎病因。
+
+【轮状病毒胃肠炎的治疗】
+口服或静脉输液
+口服或静脉输液
+有时需使用止泻（抑制蠕动）药和/或止吐药
+有时需使用止泻（抑制蠕动）药和/或止吐药
+支持性护理，包括补液和电解质补充，是治疗的主要手段，对大多数成年人来说已足够。口服葡萄糖电解质溶液、肉汤或肉汤可预防脱水或治疗轻度脱水。儿童可能会更快脱水，应给予适当的补液溶液（市面上有几种——参见口服补液），尽管稀释的苹果汁或孩子喜欢的液体也是一个合理的选择（1）。 如果呕吐使口服补液困难，可给予止吐药（如昂丹司琼）。
+当出现严重脱水、休克、精神状态改变、肠梗阻或口服补液治疗失败时，应给予等渗静脉输液，如乳酸林格氏液和生理盐水（2）。在严重脱水时，应继续静脉补液，直至脉搏、灌注和精神状态恢复正常。
+止泻药（抗动力药）不应给予18岁以下急性腹泻的儿童（2）。对于水样腹泻（如血红素阴性粪便所示）的成年患者，可以考虑使用止泻药，尤其是在暴发期间，这表明可能是病毒引起的。然而，止泻药可能会导致患有Clostridioides difficile（艰难梭菌）或E. coli（大肠杆菌）O157:H7感染的患者病情恶化，因此不应给予任何腹泻原因尚未确定且可能怀疑这些疾病的患者（即，根据最近使用抗生素、血性腹泻、粪便潜血阳性或伴发热的腹泻）。
+
+【治疗参考文献】
+1.Freedman SB, Willan AR, Boutis K, Schuh S.Effect of Dilute Apple Juice and Preferred Fluids vs Electrolyte Maintenance Solution on Treatment Failure Among Children With Mild Gastroenteritis: A Randomized Clinical Trial.JAMA2016;315(18):1966-1974.doi:10.1001/jama.2016.5352
+1.Freedman SB, Willan AR, Boutis K, Schuh S.Effect of Dilute Apple Juice and Preferred Fluids vs Electrolyte Maintenance Solution on Treatment Failure Among Children With Mild Gastroenteritis: A Randomized Clinical Trial.JAMA2016;315(18):1966-1974.doi:10.1001/jama.2016.5352
+2.Shane AL, Mody RK, Crump JA, et al.2017 Infectious Diseases Society of America Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea.Clin Infect Dis2017;65(12):e45-e80.doi:10.1093/cid/cix669
+2.Shane AL, Mody RK, Crump JA, et al.2017 Infectious Diseases Society of America Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea.Clin Infect Dis2017;65(12):e45-e80.doi:10.1093/cid/cix669
+
+【预防轮状病毒肠胃炎】
+两种口服减毒活性的轮状病毒疫苗能安全有效地预防绝大多数病毒株所致疾病 (1,2)。目前，该疫苗已纳入婴儿预防接种推荐项目。
+
+【预防参考文献】
+1.Centers for Disease Control and Prevention: Rotavirus Vaccination: Information for Healthcare Professionals.March 25, 2021.Accessed April 3, 2025.
+1.Centers for Disease Control and Prevention: Rotavirus Vaccination: Information for Healthcare Professionals.March 25, 2021.Accessed April 3, 2025.
+2.Donato CM, Bines JE.Rotaviruses and Rotavirus Vaccines.Pathogens2021;10(8):959.doi:10.3390/pathogens10080959
+2.Donato CM, Bines JE.Rotaviruses and Rotavirus Vaccines.Pathogens2021;10(8):959.doi:10.3390/pathogens10080959
+在广泛使用轮状病毒疫苗的国家，轮状病毒肠胃炎已显著减少，但它仍然是全球儿童严重且可能致命的腹泻病的重要原因。
+在广泛使用轮状病毒疫苗的国家，轮状病毒肠胃炎已显著减少，但它仍然是全球儿童严重且可能致命的腹泻病的重要原因。
+临床病程可能持续 5 至 7 天。
+临床病程可能持续 5 至 7 天。
+口服补液通常就足够了，但可能需要止吐药，有时还需要静脉输液。
+口服补液通常就足够了，但可能需要止吐药，有时还需要静脉输液。
+止泻（抗动力）药对水样腹泻的成人是安全的，但应避免用于18岁以下的儿童和任何近期使用抗生素、血性腹泻、血红素阳性粪便或发烧腹泻的患者。
+止泻（抗动力）药对水样腹泻的成人是安全的，但应避免用于18岁以下的儿童和任何近期使用抗生素、血性腹泻、血红素阳性粪便或发烧腹泻的患者。

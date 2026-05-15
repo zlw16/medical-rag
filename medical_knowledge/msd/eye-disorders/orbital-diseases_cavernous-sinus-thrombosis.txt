@@ -1,0 +1,62 @@
+标题：海绵窦栓塞
+来源：https://www.msdmanuals.cn/professional/eye-disorders/orbital-diseases/cavernous-sinus-thrombosis
+============================================================
+
+
+【海绵窦栓塞的病因】
+海绵窦是位于颅底部、具有小梁样结构的窦腔，引流面部静脉血液。海绵窦栓塞是面部感染的一种非常罕见的并发症，引起海绵窦栓塞的面部感染最多见的是鼻疖（50%），其它还包括蝶窦或者是筛窦鼻窦炎（30%）和牙源性感染（1）。最常见的病原体是金黄色葡萄球菌（70%），其次是链球菌；当潜在的疾病是牙齿或鼻窦感染时，厌氧菌更常见。
+外侧窦栓塞（与乳突窦炎相关）和上矢状窦栓塞（与细菌性脑膜炎相关）亦可发生，但要比海绵窦栓塞更少见。
+
+【病因参考文献】
+1.Caranfa JT, Yoon MK: Septic cavernous sinus thrombosis: A review.Surv Ophthalmol66(6):1021-1030, 2021.doi: 10.1016/j.survophthal.2021.03.009
+1.Caranfa JT, Yoon MK: Septic cavernous sinus thrombosis: A review.Surv Ophthalmol66(6):1021-1030, 2021.doi: 10.1016/j.survophthal.2021.03.009
+
+【海绵窦栓塞的病理生理学】
+第Ⅲ、Ⅳ、Ⅵ对脑神经以及第Ⅴ对脑神经的眼支和上颌支均位于海绵窦附近，海绵窦栓塞后常常受到累及。并发症包括脑膜脑炎、脑脓肿、卒中、失明和垂体功能不良等。
+
+【海绵窦血栓形成的症状和体征】
+海绵窦血栓形成的初期症状为进行性加重的头痛或面部疼痛，通常为单侧性、局限于眼眶后部和前额区域。常有高热。随着病程进展，开始出现眼肌麻痹（最初典型地为第Ⅵ对脑神经麻痹，可能与霍纳综合征有关）、眼球突出和眼睑水肿，并常发展为双侧病变。由于三叉神经受累，面部感觉可能会减弱或消失。意识减退、精神错乱、癫痫和局灶性神经系统异常是中枢神经系统感染扩散的表现。 海绵窦血栓形成患者也可出现瞳孔不等或瞳孔散大（第Ⅲ对脑神经功能障碍）、视乳头水肿和视力下降。
+
+【海绵窦栓塞的诊断】
+MRI或CT
+MRI或CT
+由于海绵窦栓塞是一种罕见病变因此常常容易误诊。有眼眶蜂窝织炎表现的患者应该考虑CST的可能。与眼眶蜂窝织炎相比，海绵窦栓塞具有鉴别诊断价值的特征包括脑神经功能异常、双眼受累以及精神状态改变。
+诊断主要依据神经影像学检查。推荐MRI (1)，但CT也有帮助。对比增强MR静脉造影（MRV）和CT静脉造影比CT或MRI更敏感。有效的辅助检查包括血培养和腰穿(1)。
+
+【诊断参考】
+1.Saposnik G, Bushnell C, Coutinho JM, et al: Diagnosis and management of cerebral venous thrombosis: A scientific statement from the American Heart Association.Stroke55(3): e77-e90, 2024.https://doi.org/10.1161/STR.0000000000000456
+1.Saposnik G, Bushnell C, Coutinho JM, et al: Diagnosis and management of cerebral venous thrombosis: A scientific statement from the American Heart Association.Stroke55(3): e77-e90, 2024.https://doi.org/10.1161/STR.0000000000000456
+
+【海绵窦栓塞的治疗】
+静脉注射大剂量抗生素
+静脉注射大剂量抗生素
+有时使用糖皮质激素
+有时使用糖皮质激素
+有时使用抗凝剂
+有时使用抗凝剂
+海绵窦血栓形成患者的初始抗生素治疗方案包括萘夫西林或苯唑西林1~2g，每4小时，联合第三代头孢菌素（如头孢曲松1g，q12h）。如果是在耐甲氧西林的金黄色葡萄球菌感染的高发区，使用万古霉素1g静脉注射，每12小时一次，替代萘夫西林或苯唑西林。如果原发病是鼻窦炎或者牙源性感染，还需要加用抗厌氧菌药物（如甲硝唑500mg，每8小时1次）(1, 2)。
+原发病为鼻窦炎的患者，尤其是24小时内抗生素治疗无效的病例，应该施行手术引流术。
+海绵窦血栓形成的二级治疗可能包括皮质类固醇（如地塞米松10 mg IV或每6小时口服一次）治疗脑神经功能障碍。抗凝是有争议的；在没有禁忌症的病人中使用了非分化肝素和低分子量肝素。这些药物可能会降低发病率，但确定其降低死亡率的有效性的证据仍需要进一步研究（3）。
+
+【治疗参考文献】
+1.Saposnik G, Barinagarrementeria F, Brown RD Jr, et al; American Heart Association Stroke Council and the Council on Epidemiology and Prevention: Diagnosis and management of cerebral venous thrombosis: A statement for healthcare professionals from the American Heart Association/American Stroke Association.Stroke42(4):1158-1192, 2011.doi: 10.1161/STR.0b013e31820a8364
+1.Saposnik G, Barinagarrementeria F, Brown RD Jr, et al; American Heart Association Stroke Council and the Council on Epidemiology and Prevention: Diagnosis and management of cerebral venous thrombosis: A statement for healthcare professionals from the American Heart Association/American Stroke Association.Stroke42(4):1158-1192, 2011.doi: 10.1161/STR.0b013e31820a8364
+2.Saposnik G, Bushnell C, Coutinho JM, et al: Diagnosis and management of cerebral venous thrombosis: A scientific statement from the American Heart Association.Stroke55(3):e77-e90, 2024.https://doi.org/10.1161/STR.0000000000000456
+2.Saposnik G, Bushnell C, Coutinho JM, et al: Diagnosis and management of cerebral venous thrombosis: A scientific statement from the American Heart Association.Stroke55(3):e77-e90, 2024.https://doi.org/10.1161/STR.0000000000000456
+3.Levine SR, Twyman RE, Gilman S: The role of anticoagulation in cavernous sinus thrombosis.Neurology38(4):517-522, 1988.doi: 10.1212/wnl.38.4.517
+3.Levine SR, Twyman RE, Gilman S: The role of anticoagulation in cavernous sinus thrombosis.Neurology38(4):517-522, 1988.doi: 10.1212/wnl.38.4.517
+
+【海绵窦血栓形成的预后】
+抗生素时代的死亡率高达约15%。大约三分之一的患者会出现严重的后遗症（例如眼肌麻痹、失明）；也可能出现中风和垂体功能不全，并且缺陷可能是永久性的（1）。
+
+【预后参考】
+1.Halawa O, Gibbons A, Van Brummen A, et al: Septic cavernous sinus thrombosis: Clinical characteristics, management, and outcomes.J NeuroophthalmolApr 24, 2024.doi: 10.1097/WNO.0000000000002146.Online ahead of print.
+1.Halawa O, Gibbons A, Van Brummen A, et al: Septic cavernous sinus thrombosis: Clinical characteristics, management, and outcomes.J NeuroophthalmolApr 24, 2024.doi: 10.1097/WNO.0000000000002146.Online ahead of print.
+海绵窦血栓形成是鼻疖、蝶窦或筛窦感染等极为罕见的并发症鼻窦炎和牙齿感染。
+海绵窦血栓形成是鼻疖、蝶窦或筛窦感染等极为罕见的并发症鼻窦炎和牙齿感染。
+对于有面部疼痛和发热，尤其是伴有精神状态改变、眼肌麻痹（例如，第六脑神经）、霍纳综合征、眼球突出和/或眼睑水肿的高危患者，应考虑诊断。
+对于有面部疼痛和发热，尤其是伴有精神状态改变、眼肌麻痹（例如，第六脑神经）、霍纳综合征、眼球突出和/或眼睑水肿的高危患者，应考虑诊断。
+立即通过 MRI 或 CT（或增强 MR 静脉造影或 CT 静脉造影，如果可以立即获得）获取神经影像学检查。
+立即通过 MRI 或 CT（或增强 MR 静脉造影或 CT 静脉造影，如果可以立即获得）获取神经影像学检查。
+使用抗葡萄球菌抗生素加第三代头孢菌素治疗，如果存在鼻窦炎或牙齿感染，则使用甲硝唑。
+使用抗葡萄球菌抗生素加第三代头孢菌素治疗，如果存在鼻窦炎或牙齿感染，则使用甲硝唑。

@@ -1,0 +1,76 @@
+标题：三叉神经痛
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/neuro-ophthalmologic-and-cranial-nerve-disorders/trigeminal-neuralgia
+============================================================
+
+三叉神经痛大多发生在成人，尤其是老年人。女性中更为常见。
+
+【三叉神经痛的病因】
+常引起三叉神经痛的有
+颅内动脉（如小脑前下动脉、基底动脉扩张）的异常环压迫三叉神经根部
+颅内动脉（如小脑前下动脉、基底动脉扩张）的异常环压迫三叉神经根部
+较少情况下，由静脉袢压迫进入脑干的第Ⅴ对颅神经（三叉神经）根部引起。
+较少情况下，由静脉袢压迫进入脑干的第Ⅴ对颅神经（三叉神经）根部引起。
+其他不太常见的病因包括肿瘤压迫、动静脉畸形、动脉瘤或偶有脑干神经根处形成多发性硬化斑块(通常发生在年轻患者) 。这些病因通常通过伴随的感觉丧失和其他缺陷来区分。
+引起类似症状的其他疾病（例如多发性硬化症）有时会被归为三叉神经痛，但并非所有情况都是如此
+引起疼痛的机制尚不清楚。一种理论认为神经压迫引起脱髓鞘，从而导致异位性冲动（假突触传递）和/或累及脊髓三叉神经核的中心痛觉通路去抑制。
+
+【三叉神经痛的症状和体征】
+由三叉神经痛引起的疼痛沿三叉神经的一支或多支感觉神经纤维支配区域分布，最常累及的是上颌支。 疼痛是阵发性的，持续数秒至 2 分钟，但发作可能会迅速复发——每天 100 次。 发作时抽痛，程度剧烈，甚至难以忍受。
+疼痛通常由刺激面部触发点（例如，咀嚼、刷牙或微笑）引起。
+一般只有单侧面部受累。用患侧脸睡觉通常令人难以忍受。
+
+【三叉神经痛的诊断】
+主要是病史和体格检查
+主要是病史和体格检查
+三叉神经痛的症状通常是特征性的。 因此，其他能引起面部疼痛的疾病可根据临床表现来鉴别：
+慢性阵发性偏头痛可通过更长的疼痛发作时间（5～8分钟）和对吲哚美辛的显著反应来鉴别。
+慢性阵发性偏头痛可通过更长的疼痛发作时间（5～8分钟）和对吲哚美辛的显著反应来鉴别。
+疱疹后疼痛，常为持续性疼痛（没有阵发性），有典型的前驱出疹史，有瘢痕形成，好发于眼支。
+疱疹后疼痛，常为持续性疼痛（没有阵发性），有典型的前驱出疹史，有瘢痕形成，好发于眼支。
+偏头痛，可引起非典型的面部疼痛，但其疼痛持续时间长，且多为搏动性痛。
+偏头痛，可引起非典型的面部疼痛，但其疼痛持续时间长，且多为搏动性痛。
+鼻窦炎和牙源性疼痛通常可以根据相关症状（例如，鼻分泌物，发烧，体位性头痛，牙敏感）来区分。
+鼻窦炎和牙源性疼痛通常可以根据相关症状（例如，鼻分泌物，发烧，体位性头痛，牙敏感）来区分。
+三叉神经痛的神经系统检查是正常的。 因此，神经系统缺陷（通常是面部感觉丧失）提示三叉神经样疼痛是由另一种疾病引起的（例如，肿瘤，中风，多发性硬化斑块，血管畸形，其他压迫三叉神经或破坏其脑干通路的病变）。在这种情况下，需要进行 MRI 检查。
+
+【三叉神经痛的治疗】
+通常使用抗癫痫药
+通常使用抗癫痫药
+三叉神经痛采用卡马西平治疗，卡马西平逐渐滴定（1, 2），通常长期有效
+如果服用卡马西平无效或出现不良反应，可尝试以下口服药物中的一种：
+奥卡西平
+奥卡西平
+拉莫三嗪
+拉莫三嗪
+加巴喷丁
+加巴喷丁
+阿米替林
+阿米替林
+周围神经阻滞可以暂时缓解疼痛。肉毒杆菌毒素可以注射到表皮和真皮之间疼痛的触发点，或沿着受累神经分支的路径注射。对于口服药物无效的患者，肉毒杆菌毒素可以作为手术的替代疗法（3，4）。这种治疗可能有益，但相关数据仍有限。
+如果以上治疗无效，可考虑进行其他治疗：神经毁损术，然而这种疗效是暂时性的，而且疗效改善后复发出现的疼痛可能较前更剧烈。缓解疼痛的手术可能会导致面部麻木。也可能导致疼痛性麻木（麻木痛）；它发生在 4% 的接受神经根切断术后的患者 (5)。
+后颅窝去骨瓣手术，置入一小块垫片，以便隔开搏动的血管袢和三叉神经根（这被称作微血管减压术或Jannetta手术）。在伽马刀放射外科手术中，伽马射线聚焦在离开脑干的近端三叉神经；这个过程会中断传递给大脑的疼痛信号。经皮穿刺立体定向穿刺针进行治疗，对三叉神经节（即半月神经节）造成电解性、化学性或气囊压迫性损伤。此外还可以切断半月神经节和脑干的联系纤维。
+有时，三叉神经毁损作为治疗顽固性三叉神经痛的最后手段。
+
+【微血管减压术】
+微血管减压术
+微血管减压术可缓解影响颅神经的血管压迫导致的三叉神经痛，偏侧面肌痉挛，或舌咽神经痛的疼痛症状。三叉神经痛的治疗可通过在第五对脑神经（三叉神经）与压迫动脉之间置入海绵以减轻压力（Jannetta 手术）。通常，此手术可以缓解疼痛，但约15％患者会有疼痛复发。
+
+【治疗参考文献】
+1.Bendtsen L, Zakrzewska JM, Heinskou TB, et al.Advances in diagnosis, classification, pathophysiology, and management of trigeminal neuralgia.Lancet Neurol.2020;19(9):784-796.doi:10.1016/S1474-4422(20)30233-7
+1.Bendtsen L, Zakrzewska JM, Heinskou TB, et al.Advances in diagnosis, classification, pathophysiology, and management of trigeminal neuralgia.Lancet Neurol.2020;19(9):784-796.doi:10.1016/S1474-4422(20)30233-7
+2.Lambru G, Zakrzewska J, Matharu M.Trigeminal neuralgia: a practical guide.Pract Neurol.2021 Oct;21(5):392-402.doi: 10.1136/practneurol-2020-002782
+2.Lambru G, Zakrzewska J, Matharu M.Trigeminal neuralgia: a practical guide.Pract Neurol.2021 Oct;21(5):392-402.doi: 10.1136/practneurol-2020-002782
+3.Kayani AMA, Silva MS, Jayasinghe M, et al.Therapeutic Efficacy of Botulinum Toxin in Trigeminal Neuralgia.Cureus.2022;14(7):e26856.Published 2022 Jul 14.doi:10.7759/cureus.26856
+3.Kayani AMA, Silva MS, Jayasinghe M, et al.Therapeutic Efficacy of Botulinum Toxin in Trigeminal Neuralgia.Cureus.2022;14(7):e26856.Published 2022 Jul 14.doi:10.7759/cureus.26856
+4.Hu X, Xia Y, Li J, et al.Efficacy and Safety of Botulinum Toxin Type A in the Treatment of Trigeminal Neuralgia: An Update on Systematic Review With Meta-analyses.Clin J Pain.2024;40(6):383-392.Published 2024 Jun 1.doi:10.1097/AJP.0000000000001207
+4.Hu X, Xia Y, Li J, et al.Efficacy and Safety of Botulinum Toxin Type A in the Treatment of Trigeminal Neuralgia: An Update on Systematic Review With Meta-analyses.Clin J Pain.2024;40(6):383-392.Published 2024 Jun 1.doi:10.1097/AJP.0000000000001207
+5.Ischia S, Luzzani A, Polati E, Ischia A.Percutaneous controlled thermocoagulation in the treatment of trigeminal neuralgia.Clin J Pain.1990;6(2):96-104.doi:10.1097/00002508-199006000-00004
+5.Ischia S, Luzzani A, Polati E, Ischia A.Percutaneous controlled thermocoagulation in the treatment of trigeminal neuralgia.Clin J Pain.1990;6(2):96-104.doi:10.1097/00002508-199006000-00004
+三叉神经痛通常是由颅内动脉压迫引起的。
+三叉神经痛通常是由颅内动脉压迫引起的。
+典型的阵发性，刺痛感，剧痛，有时甚至使人失能的疼痛，通常几乎是特异性的。
+典型的阵发性，刺痛感，剧痛，有时甚至使人失能的疼痛，通常几乎是特异性的。
+用卡马西平治疗，通常长期有效;如果卡马西平无效或有不良反应，可尝试其他药物(如奥卡西平、拉莫三嗪、加巴喷丁、巴氯芬、普瑞巴林)。
+用卡马西平治疗，通常长期有效;如果卡马西平无效或有不良反应，可尝试其他药物(如奥卡西平、拉莫三嗪、加巴喷丁、巴氯芬、普瑞巴林)。
+若在采取上述措施后仍有严重疼痛，应考虑肉毒毒素注射、微血管减压术或神经毁损性治疗；但疗效可能仅为暂时，且缓解后疼痛可能复发，甚至较前更剧烈。
+若在采取上述措施后仍有严重疼痛，应考虑肉毒毒素注射、微血管减压术或神经毁损性治疗；但疗效可能仅为暂时，且缓解后疼痛可能复发，甚至较前更剧烈。

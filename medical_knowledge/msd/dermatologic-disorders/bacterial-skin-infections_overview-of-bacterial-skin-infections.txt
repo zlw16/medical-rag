@@ -1,0 +1,31 @@
+标题：皮肤细菌感染的概述
+来源：https://www.msdmanuals.cn/professional/dermatologic-disorders/bacterial-skin-infections/overview-of-bacterial-skin-infections
+============================================================
+
+细菌性皮肤感染可分为皮肤和软组织感染（SSTI）和急性细菌性皮炎和皮肤结构感染（ABSSSI）。
+皮肤及软组织感染（SSTI）包括
+淋巴结炎
+淋巴结炎
+较小的皮肤脓肿
+较小的皮肤脓肿
+ABSSSI是完全的皮肤细菌感染。包括
+蜂窝织炎
+蜂窝织炎
+淋巴管炎
+淋巴管炎
+主要的皮肤脓肿（> 75厘米2，包括水肿，红斑和硬结）
+主要的皮肤脓肿（> 75厘米2，包括水肿，红斑和硬结）
+坏死软组织感染
+坏死软组织感染
+伤口感染
+伤口感染
+葡萄球菌性烫伤样皮肤综合征,猩红热， 和中毒性休克综合征是细菌感染的皮肤相关后果。
+SSTI中最常见的病原体是Streptococcus和Staphylococcus，包括 耐甲氧西林Staphylococcus aureus（MRSA）。MRSA是美国常见的病原体。然而，归因于MRSA的病例比例在世界其他地方有很大不同。特别是由于MRSA可以抵抗多种抗生素，推荐用于细菌性皮肤和软组织感染的抗生素在很大程度上取决于MRSA的局部流行和耐药模式。
+美国传染病协会（IDSA）2014年皮肤和软组织炎的诊断和管理指南建议用β -内酰胺或克林霉素治疗轻度至中度非化脓性ABSSSI，作为链球菌的推定覆盖范围。对于有风险的患者（例如，穿透性创伤后，疑似鼻腔携带MRSA，或使用非法静脉注射药物的患者），也应考虑对MRSA进行覆盖。 如果患者出现全身毒血症状（如发热，心动过速，呼吸急促，谵妄，白细胞增多），则可诊断为严重的化脓性ABSSSI。对于这些病人，建议行革兰氏染色，细菌培养和抗生素治疗。 通常选用万古霉素。如果有其他的可选方案也可使用。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Infectious Diseases Society of America:Practice guidelines for the diagnosis and management of skin and soft tissue infections(2014)
+Infectious Diseases Society of America:Practice guidelines for the diagnosis and management of skin and soft tissue infections(2014)
+World Society of Emergency Surgery (WSES) and the Surgical Infection Society Europe (SIS-E) consensus conference:Recommendations for the management of skin and soft-tissue infections(2018)
+World Society of Emergency Surgery (WSES) and the Surgical Infection Society Europe (SIS-E) consensus conference:Recommendations for the management of skin and soft-tissue infections(2018)

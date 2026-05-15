@@ -1,0 +1,133 @@
+标题：骨Paget 病
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/paget-disease-of-bone/paget-disease-of-bone
+============================================================
+
+大约2%到3%的成年人>美国55岁患有佩吉特病，男性稍多（1)。随着年龄的增长，发病率增加。 然而，总体发病率似乎呈下降趋势。这种疾病在英国和包括西班牙、法国和意大利在内的欧洲国家，以及欧洲移民定居的国家（如澳大利亚、新西兰、美国和加拿大）最为常见（2,3)。佩吉特病在斯堪的纳维亚国家和亚洲很罕见。
+
+【参考文献】
+1.Ralston SH, Corral-Gudino L, Cooper C, et al: Diagnosis and management of Paget's disease of bone in adults: a clinical guideline.J Bone Miner Res34(4):579-604, 2019.doi: 10.1002/jbmr.3657
+1.Ralston SH, Corral-Gudino L, Cooper C, et al: Diagnosis and management of Paget's disease of bone in adults: a clinical guideline.J Bone Miner Res34(4):579-604, 2019.doi: 10.1002/jbmr.3657
+2.Reid IR: Recent advances in understanding and managing Paget's disease. F1000Res.2019;8:F1000 Faculty Rev-1485.Published 2019 Aug 22.doi:10.12688/f1000research.19676.1
+2.Reid IR: Recent advances in understanding and managing Paget's disease. F1000Res.2019;8:F1000 Faculty Rev-1485.Published 2019 Aug 22.doi:10.12688/f1000research.19676.1
+3.Singer FR, Bone HG 3rd, Hosking DJ, et al: Paget's disease of bone: an Endocrine Society clinical practice guideline.J Clin Endocrinol Metab99(12):4408-22, 2014.doi: 10.1210/jc.2014-2910
+3.Singer FR, Bone HG 3rd, Hosking DJ, et al: Paget's disease of bone: an Endocrine Society clinical practice guideline.J Clin Endocrinol Metab99(12):4408-22, 2014.doi: 10.1210/jc.2014-2910
+
+【骨Paget 病的病因】
+Paget病患者中约10％存在SQSTM1（sequestosome-1）基因突变，导致核因子κB活性增加，从而增加破骨细胞活性（1,2)。其他几种影响RANK（核因子κB受体活化因子）信号通路的突变与佩吉特病相关，包括RANK基因本身的突变，该信号通路对破骨细胞生成和活性至关重要（3）。
+有人提出了一种病毒病因学，例如麻疹，因为在电子显微镜下观察到病灶破骨细胞中的核内容物与副粘病毒感染细胞中的核内容物相似。尽管病毒原因仍然存在争议，但据推测，在遗传易感患者中，一种尚未确定的病毒会触发破骨细胞的异常活动。
+
+【病因参考文献】
+1.Laurin N, Brown JP, Morissette J, Raymond V: Recurrent mutation of the gene encoding sequestosome 1 (SQSTM1/p62) in Paget disease of bone.Am J Hum Genet70:1582–1588, 2002.doi: 10.1086/340731
+1.Laurin N, Brown JP, Morissette J, Raymond V: Recurrent mutation of the gene encoding sequestosome 1 (SQSTM1/p62) in Paget disease of bone.Am J Hum Genet70:1582–1588, 2002.doi: 10.1086/340731
+2.Rea SL, Walsh JP, Layfield R, et al: New insights into the role of sequestosome 1/p62 mutant proteins in the pathogenesis of Paget's disease of bone.Endocr Rev34(4):501-24, 2013.doi: 10.1210/er.2012-1034
+2.Rea SL, Walsh JP, Layfield R, et al: New insights into the role of sequestosome 1/p62 mutant proteins in the pathogenesis of Paget's disease of bone.Endocr Rev34(4):501-24, 2013.doi: 10.1210/er.2012-1034
+3.Albagha OM, Visconti MR, Alonso N, et al: Genome-wide association study identifies variants at CSF1, OPTN and TNFRSF11A as genetic risk factors for Paget's disease of bone.Nat Genet42(6):520-524, 2010.doi:10.1038/ng.562
+3.Albagha OM, Visconti MR, Alonso N, et al: Genome-wide association study identifies variants at CSF1, OPTN and TNFRSF11A as genetic risk factors for Paget's disease of bone.Nat Genet42(6):520-524, 2010.doi:10.1038/ng.562
+
+【骨Paget病的病理生理】
+佩吉特病可能涉及任何骨骼。 最常受累部位是骨盆，股骨和头骨。其它不太常见的受累部位是胫骨，椎骨，锁骨和肱骨。
+受累部位的骨转化加快，代谢活跃，血供丰富。过度活跃的破骨细胞显著增大，胞核增多。成骨细胞的修复也呈现高活性，产生粗糙交织而增厚的骨板层与骨小梁。这种异常的结构虽然使骨增大和局部硬化，但减弱了骨结构。
+
+【骨Paget 病的症状和体征】
+骨佩吉特病通常是无症状的。呈隐匿起病，如有症状出现，可表现为有疼痛、僵硬感、乏力和骨畸形。骨痛是深部疼痛，偶为剧痛，夜间可加重。疼痛也可由神经受压引起或与骨关节炎有关。
+如果累及颅骨，体征可能包括双颞和额部颅骨增大(额部隆起)，头皮静脉扩张，单耳或双耳神经性耳聋。症状可能包括眩晕、头痛和听力障碍。弯曲的长骨与邻近关节的骨关节炎可发展为畸形，病理性骨折可为主要表现。可表现为病理性骨折。畸形性骨炎骨部位的新发或剧烈疼痛应提示考虑骨肉瘤。
+这张照片显示了佩吉特病患者异常突出的前额（正面隆起）。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+这张照片显示了佩吉特病患者的右腿胫骨弯曲（见左图）。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+Paget病最常见的并发症是
+骨关节炎
+骨关节炎
+骨关节炎发生在高达50％的骨Paget病患者中，并且发生在与所涉及骨相邻的关节中 (1)。由于局部区域骨强度减弱，病理性骨折也很常见。
+过度生长的骨骼可能会压迫穿过小孔的神经和其他结构。可能发生椎管狭窄或脊髓压迫。
+少见并发症包括骨肉瘤的转化，xiao'yu1％的患者发生。骨科手术过程中血管丰富骨可能会过度流血。高钙血症罕见发生在不能移动的患者身上；然而，门诊患者高钙血症提示合并甲状旁腺功能亢进症。 据报道，大容量或大量高血管病变可引起高输出性心力衰竭。
+
+【症状和体征】
+1.Berg K, Dockrell D, Colvin L, et al: Causes of Musculoskeletal Pain in Paget's Disease of Bone.Calcif Tissue Int115(5):533-541, 2024.doi:10.1007/s00223-024-01279-0
+1.Berg K, Dockrell D, Colvin L, et al: Causes of Musculoskeletal Pain in Paget's Disease of Bone.Calcif Tissue Int115(5):533-541, 2024.doi:10.1007/s00223-024-01279-0
+
+【骨Paget病的诊断】
+射线照片
+射线照片
+血清碱性磷酸酶升高或骨转换增加的其他标志物升高
+血清碱性磷酸酶升高或骨转换增加的其他标志物升高
+骨扫描确定疾病范围和定位
+骨扫描确定疾病范围和定位
+有以下表现的患者应怀疑Paget病：
+不能解释的骨痛或畸形
+不能解释的骨痛或畸形
+X线表现有提示性价值
+X线表现有提示性价值
+有其它疾病难以解释的血清碱性磷酸酶增高，尤其是γ-谷氨酰转肽酶（GGT）正常的情况下
+有其它疾病难以解释的血清碱性磷酸酶增高，尤其是γ-谷氨酰转肽酶（GGT）正常的情况下
+如果怀疑佩吉特病，需进行X线检查并检测血清碱性磷酸酶、25-羟维生素D、肌酐、钙和磷酸盐水平（1、2、3）。
+特征性实验室检查结果包括血清碱性磷酸酶升高（骨合成代谢活性增加），但血清 γ-谷氨酰转肽酶 （GGT）、5'-核苷酸酶和血清磷酸盐水平通常正常。血清钙通常正常，但在无法活动的患者中可能会升高。如果存在高钙血症，应评估患者是否并发甲状旁腺功能亢进症。若碱性磷酸酶未升高，或血清碱性磷酸酶升高但其是否源自骨组织尚不明确（即谷氨酰转肽酶〔GGT〕与碱性磷酸酶呈比例升高时），则可检测骨特异性碱性磷酸酶。骨转化的血清标志物，如I型前胶原完整的N-端前肽（PINP）和C-端肽交联（CTX）水平可能升高。开始双膦酸盐治疗有症状的患者前，应检测血清25-羟维生素D和肌酐水平，因为肌酐清除率<35mL/min/1.73m2（0.58 mL/s/m2）的患者不推荐使用双膦酸盐，且维生素D缺乏会增加双膦酸盐给药后低钙血症的风险。
+明确诊断需X线证实。特征性的 X 线检查结果包括具有粗小梁、皮质增厚和硬化的异常结构。受累的骨骼可能会增大，胫骨或股骨的pagetic病变可能会导致弯曲。当根据影像学检查结果或骨源性碱性磷酸酶升高怀疑患有佩吉特病时，应使用锝标记膦酸盐进行放射性核素骨扫描，以确定骨骼受累的程度。在诊断不确定的情况下，应进行活检以排除可能的转移性疾病。对于已知患有佩吉特病骨病变且受影响部位症状恶化的患者，应重复进行 CT 或 MRI 检查和/或活检，以评估是否出现骨肉瘤或骨巨细胞瘤，这两种肿瘤在佩吉特病骨中罕见发生。
+在X线上可见到硬化和透亮增加的区域呈典型的马赛克图案。这些棉絮样的补丁是因为颅骨增厚造成的。
+ZEPHYR/SCIENCE PHOTO LIBRARY
+由于孔隙率增加，此 X 射线中的骨盆骨具有斑驳的外观。
+SCIENCE PHOTO LIBRARY
+
+【经验与提示】
+经验与提示
+对于碱性磷酸酶持续升高但γ-谷氨酰转肽酶水平正常的老年人，应考虑骨Paget病。
+对于碱性磷酸酶持续升高但γ-谷氨酰转肽酶水平正常的老年人，应考虑骨Paget病。
+
+【诊断参考】
+1.Singer FR, Bone HG 3rd, Hosking DJ, et al.Paget's disease of bone: an endocrine society clinical practice guideline.J Clin Endocrinol Metab2014;99(12):4408-4422.doi:10.1210/jc.2014-2910
+1.Singer FR, Bone HG 3rd, Hosking DJ, et al.Paget's disease of bone: an endocrine society clinical practice guideline.J Clin Endocrinol Metab2014;99(12):4408-4422.doi:10.1210/jc.2014-2910
+2.Ralston SH, Corral-Gudino L, Cooper C, et al: Diagnosis and Management of Paget's Disease of Bone in Adults: A Clinical Guideline.J Bone Miner Res34(4):579-604, 2019.doi:10.1002/jbmr.3657
+2.Ralston SH, Corral-Gudino L, Cooper C, et al: Diagnosis and Management of Paget's Disease of Bone in Adults: A Clinical Guideline.J Bone Miner Res34(4):579-604, 2019.doi:10.1002/jbmr.3657
+3.Rendina D, Falchetti A, Diacinti D, et al: Diagnosis and treatment of Paget's disease of bone: position paper from the Italian Society of Osteoporosis, Mineral Metabolism and Skeletal Diseases (SIOMMMS).J Endocrinol Invest47(6):1335-1360, 2024.doi:10.1007/s40618-024-02318-1
+3.Rendina D, Falchetti A, Diacinti D, et al: Diagnosis and treatment of Paget's disease of bone: position paper from the Italian Society of Osteoporosis, Mineral Metabolism and Skeletal Diseases (SIOMMMS).J Endocrinol Invest47(6):1335-1360, 2024.doi:10.1007/s40618-024-02318-1
+
+【骨Paget 病的治疗】
+症状和并发症支持治疗
+症状和并发症支持治疗
+双膦酸盐用于有症状的或骨病活跃、有并发症风险的患者
+双膦酸盐用于有症状的或骨病活跃、有并发症风险的患者
+骨佩吉特病的支持性治疗包括止痛药或非甾体抗炎药 (NSAID) 治疗疼痛。 矫形支具可矫正下肢弯曲引起的异常步态。 一些患者需行矫形外科术（如髋关节或膝关节置换术，椎管减压术）。鼓励负重，避免静卧。
+局限性与无症状的Paget’s病可不需治疗。
+
+【药物治疗】
+药物治疗用于治疗明显与疼痛过程相关的疼痛，而不是其他来源的疼痛(如骨关节炎)。此外，一些指南（1,2,3) 建议进行治疗：
+为了阻止或减缓并发症的进展（例如听力丧失、畸形、骨关节炎、与椎体佩吉特病相关的截瘫或下肢轻瘫，以及其他神经功能障碍），尤其适用于不适合手术治疗的患者
+为了阻止或减缓并发症的进展（例如听力丧失、畸形、骨关节炎、与椎体佩吉特病相关的截瘫或下肢轻瘫，以及其他神经功能障碍），尤其适用于不适合手术治疗的患者
+如果整形外科手术计划在涉及畸形性骨炎的部位进行，请预防或尽量减少出血
+如果整形外科手术计划在涉及畸形性骨炎的部位进行，请预防或尽量减少出血
+当血清碱性磷酸酶（骨源性）>正常水平2倍，即使无临床症状，也应抑制破骨细胞活性
+当血清碱性磷酸酶（骨源性）>正常水平2倍，即使无临床症状，也应抑制破骨细胞活性
+虽然药物可以延缓疾病进展，但现有的疾病（如畸形、骨关节炎、听力损失、神经撞击）不能逆转。
+几种抑制破骨细胞活性和减轻骨痛的抗再吸收剂可用于治疗Paget病。
+双膦酸盐是首选的药物。氨基双膦酸盐（具有额外氮原子的双膦酸盐） 更有效地抑制疾病活动的标志物并提供更持久的效果。其中，唑来膦酸在专业指南 (1,2)中被推荐为骨佩吉特病的一线治疗，而其他氨基双膦酸盐（如阿仑膦酸盐、利塞膦酸盐和帕米膦酸盐）是二线治疗，单纯双膦酸盐（没有额外氮原子的双膦酸盐，♦如替鲁膦酸盐和依替膦酸盐）是三线治疗。唑来膦酸和帕米膦酸是通过静脉给药的，而所有其他的双磷酸盐都是口服药物。据报道，唑来膦酸给药后出现低钙血症，血清 25-羟基维生素 D水平≤ 10 ng/mL (24.96 nmol/L)，建议水平 > 25 ng/ml (62.4 nmol/L) 以降低低钙血症的风险。
+双膦酸盐不耐受或抵抗的患者可选择合成的鲑降钙素。病例报告表明，狄诺沙单抗也可能是双磷酸盐的替代品（3)；然而，没有足够的数据支持其日常使用。
+由于骨转化增加，患者应保证摄入足够的钙和维生素D，也常常需要补充制剂。
+
+【治疗参考文献】
+1.Singer FR, Bone HG 3rd, Hosking DJ, et al: Paget's disease of bone: an Endocrine Society clinical practice guideline.J Clin Endocrinol Metab99(12):4408-22, 2014.doi: 10.1210/jc.2014-2910
+1.Singer FR, Bone HG 3rd, Hosking DJ, et al: Paget's disease of bone: an Endocrine Society clinical practice guideline.J Clin Endocrinol Metab99(12):4408-22, 2014.doi: 10.1210/jc.2014-2910
+2.Ralston SH, Corral-Gudino L, Cooper C, et al: Diagnosis and Management of Paget's Disease of Bone in Adults: A Clinical Guideline.J Bone Miner Res34(4):579-604, 2019.doi:10.1002/jbmr.3657
+2.Ralston SH, Corral-Gudino L, Cooper C, et al: Diagnosis and Management of Paget's Disease of Bone in Adults: A Clinical Guideline.J Bone Miner Res34(4):579-604, 2019.doi:10.1002/jbmr.3657
+3.Rendina D, Falchetti A, Diacinti D, et al: Diagnosis and treatment of Paget's disease of bone: position paper from the Italian Society of Osteoporosis, Mineral Metabolism and Skeletal Diseases (SIOMMMS).J Endocrinol Invest47(6):1335-1360, 2024.doi:10.1007/s40618-024-02318-1
+3.Rendina D, Falchetti A, Diacinti D, et al: Diagnosis and treatment of Paget's disease of bone: position paper from the Italian Society of Osteoporosis, Mineral Metabolism and Skeletal Diseases (SIOMMMS).J Endocrinol Invest47(6):1335-1360, 2024.doi:10.1007/s40618-024-02318-1
+
+【佩吉特骨病的预后】
+佩吉特病预后通常良好，预期寿命不受疾病影响（1），但骨关节炎、骨畸形和骨痛较为常见（1，2）。多数患者的骨痛通过唑来膦酸治疗可缓解（3），且>90%患者的骨转换生化指标可恢复正常。虽然缺乏治疗能预防畸形和骨关节炎等长期并发症的确凿证据，但明确的是未经治疗的患者会出现溶骨性病变进展和畸形加重（4）。
+
+【预后参考】
+1.Wermers RA, Tiegs RD, Atkinson EJ, Achenbach SJ, Melton LJ 3rd.Morbidity and mortality associated with Paget's disease of bone: a population-based study.J Bone Miner Res2008;23(6):819-825.doi:10.1359/jbmr.080215
+1.Wermers RA, Tiegs RD, Atkinson EJ, Achenbach SJ, Melton LJ 3rd.Morbidity and mortality associated with Paget's disease of bone: a population-based study.J Bone Miner Res2008;23(6):819-825.doi:10.1359/jbmr.080215
+2.Seton M, Moses AM, Bode RK, Schwartz C.Paget's disease of bone: the skeletal distribution, complications and quality of life as perceived by patients.Bone2011;48(2):281-285.doi:10.1016/j.bone.2010.09.021
+2.Seton M, Moses AM, Bode RK, Schwartz C.Paget's disease of bone: the skeletal distribution, complications and quality of life as perceived by patients.Bone2011;48(2):281-285.doi:10.1016/j.bone.2010.09.021
+3.Reid IR, Miller P, Lyles K, et al.Comparison of a single infusion ofzoledronic acidwithrisedronatefor Paget's disease.N Engl J Med2005;353(9):898-908.doi:10.1056/NEJMoa044241
+3.Reid IR, Miller P, Lyles K, et al.Comparison of a single infusion ofzoledronic acidwithrisedronatefor Paget's disease.N Engl J Med2005;353(9):898-908.doi:10.1056/NEJMoa044241
+4.Siris ES, Feldman F.Natural history of untreated Paget's disease of the tibia.J Bone Miner Res1997;12(4):691-692.doi:10.1359/jbmr.1997.12.4.691
+4.Siris ES, Feldman F.Natural history of untreated Paget's disease of the tibia.J Bone Miner Res1997;12(4):691-692.doi:10.1359/jbmr.1997.12.4.691
+骨佩吉特病是一种通常无症状的骨代谢异常，特别是在老年人中。
+骨佩吉特病是一种通常无症状的骨代谢异常，特别是在老年人中。
+并发症可包括骨关节炎，骨折，神经压迫，骨肉瘤和罕见高钙血症。
+并发症可包括骨关节炎，骨折，神经压迫，骨肉瘤和罕见高钙血症。
+通常是通过X-射线的显示结果确诊，如骨硬化、粗皮质小梁形成或皮质增厚、骨弯曲或肿大。
+通常是通过X-射线的显示结果确诊，如骨硬化、粗皮质小梁形成或皮质增厚、骨弯曲或肿大。
+一线治疗是使用双膦酸盐，优选唑来膦酸。
+一线治疗是使用双膦酸盐，优选唑来膦酸。

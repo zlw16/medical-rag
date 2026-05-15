@@ -1,0 +1,15 @@
+标题：凝血酶原（II因子）20210基因突变
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/thrombotic-disorders/prothrombin-factor-ii-20210-gene-mutation
+============================================================
+
+(参见于血栓性疾病的概述。）
+凝血酶原（因子 II）是凝血酶的维生素 K 依赖性前体，是凝血级联的末端酶（见图血液凝固的途径）。凝血酶原基因20210位点的一个(或两种)核苷酸突变可导致血浆凝血酶原水平的升高（可能导致凝血酶生成增加），从而增加静脉血栓栓塞的风险。凝血酶原基因突变不增加动脉血栓和血栓栓塞风险（心肌梗死或卒中）。
+突变的发生率从<1％至4％不等，取决于所研究的人群 (1)。这种突变在亚洲人或非洲人后裔中非常罕见（1)。
+通过对血液样品进行凝血酶原20210基因的遗传学分析进行诊断。
+
+【参考文献】
+1.Rosendaal FR, Doggen CJ, Zivelin A, et al.Geographic distribution of the 20210 G to A prothrombin variant.Thromb Haemost.1998;79(4):706-708.
+1.Rosendaal FR, Doggen CJ, Zivelin A, et al.Geographic distribution of the 20210 G to A prothrombin variant.Thromb Haemost.1998;79(4):706-708.
+
+【凝血酶原（II因子）20210基因突变的治疗】
+对于携带1个凝血酶原20210基因突变拷贝（杂合子）或2个拷贝（纯合子）的患者，其静脉血栓的预防和治疗可使用直接口服抗凝药（DOACs）、华法林、普通肝素或低分子肝素。

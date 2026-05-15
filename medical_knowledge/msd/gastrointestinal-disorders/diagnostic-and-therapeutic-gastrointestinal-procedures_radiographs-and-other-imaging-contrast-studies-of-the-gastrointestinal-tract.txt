@@ -1,0 +1,44 @@
+标题：X线及其他消化道造影检查
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/diagnostic-and-therapeutic-gastrointestinal-procedures/radiographs-and-other-imaging-contrast-studies-of-the-gastrointestinal-tract
+============================================================
+
+
+【腹部X线及造影检查】
+X线及其他造影检查可观察整个消化道（咽部至直肠），对发现占位及结构异常（如，肿瘤、狭窄）最有帮助。
+单对比造影利用不透射线造影剂充满管腔，显示结构。双重对比造影可获取更详尽图像，患者服用小剂量高密度钡剂覆盖黏膜表面，同时充入气体扩张脏器，以提高对比度。在双重对比钡剂灌肠中，气体由操作者注入；而在其他检查中，消化道内固有的气体已足够。所有患者检查时需变换体位，使气、钡在体内恰当分布。可利用透视以跟踪造影剂分布。无论是视频（动态）记录还是X线平片都可用于记录，但视频记录在评估运动功能障碍（如环咽痉挛、贲门失弛缓症）时特别有用。
+X线造影主要禁忌证是
+怀疑穿孔
+怀疑穿孔
+消化道穿孔是禁忌症，因为游离钡剂对纵隔和腹膜刺激性极强；若存在穿孔可能，可使用刺激性较弱的水溶性造影剂。老年患者可能难以变换体位，使钡剂及腔内气体恰当分布。
+行上消化道X线造影检查的患者必须在午夜后禁食（NPO）。 钡剂灌肠前一天：患者需遵循明确的流质饮食，下午口服磷酸钠导泻，晚上予比沙可啶栓剂塞肛。其他缓泻剂亦有效。
+腹部X线造影检查的并发症很少见。如果中毒性巨结肠患者接受钡剂灌肠，可能会发生穿孔。 钡剂滞留所致梗阻可通过术后口服液体或泻剂来预防。
+
+【钡剂灌肠】
+钡剂灌肠可行单对比或双重对比造影。单对比造影钡剂灌肠适用于可能肠梗阻、憩室炎、瘘管及巨结肠患者。双重对比造影适用于发现肿瘤。
+左图显示口腔溃疡。在正常黏膜背景上可见散在的糜烂，周围伴透亮晕环。右图显示由造影剂充盈缺损所显示的假息肉（蓝色箭头）以及一个深溃疡（红色箭头）。
+© Springer Science+Business Media
+这张图片显示了正常结肠内的空气和钡的形态。
+
+【上消化道检查】
+上消化道检查宜分为两步进行：首先行双重对比造影检查食管、胃及十二指肠；再用低密度钡剂行单对比检查。
+通过延长检查并在钡剂对比剂延伸至十二指肠以外的小肠其他部分时拍摄额外的放射影像，可以进一步评估小肠。
+静脉注射0.5 mg胰高血糖素可降低胃张力，有助检查。
+
+【腹部CT扫描】
+联合口服与静脉造影剂的 CT 扫描，可清晰显示小肠、结肠及其他腹腔内结构。
+
+【结肠CT】
+CT 结肠成像（虚拟结肠镜）通过多排螺旋 CT，联合口服造影剂与结肠气体扩张，生成结肠的三维与二维图像(1)。观察高分辨率三维图像在一定程度上模拟了光学内镜的视野，因此得名 “虚拟结肠镜”。通过结肠CT获取理想影像资料，需仔细进行肠道准备，并使结肠充气。同钡剂灌肠情况相同，残留粪便可能类似息肉或肿块。3D肠腔内成像有助于明确病灶，提高诊断可信度 (2)。
+
+【CT小肠造影和MR小肠造影】
+CT小肠造影能最佳地显示小肠黏膜；最好使用多排探测器CT（MDCT）扫描仪进行。检查前患者需口服大量（1350 mL）0.1%的硫酸钡溶液。针对某些特定情况（如，隐匿性胃肠道出血、小肠肿瘤及慢性缺血），需进行双相造影剂增强的MDCT检查。
+小肠CT及结肠CT已在较大程度上替代了标准小肠造影、小肠灌肠与结肠钡灌检查。
+磁共振（MR）小肠造影也可以以类似于CT小肠造影的方式应用。它通常保留给年轻患者，尤其是患有炎症性肠病的患者，以降低终生辐射暴露风险。MR 小肠造影比 CT 小肠造影贵 (3)。
+
+【腹部CT扫描参考】
+1.Yee J, Dachman A, Kim DH, et al.CT Colonography Reporting and Data System (C-RADS): Version 2023 Update [published correction appears in Radiology. 2024 Feb;310(2):e249004. doi: 10.1148/radiol.249004].Radiology.2024;310(1):e232007.doi:10.1148/radiol.232007
+1.Yee J, Dachman A, Kim DH, et al.CT Colonography Reporting and Data System (C-RADS): Version 2023 Update [published correction appears in Radiology. 2024 Feb;310(2):e249004. doi: 10.1148/radiol.249004].Radiology.2024;310(1):e232007.doi:10.1148/radiol.232007
+2.Sha J, Chen J, Lv X, Liu S, Chen R, Zhang Z..Computed tomography colonography versus colonoscopy for detection of colorectal cancer: a diagnostic performance study.BMC Med Imaging.2020;20(1):51.Published 2020 May 18.doi:10.1186/s12880-020-00446-7
+2.Sha J, Chen J, Lv X, Liu S, Chen R, Zhang Z..Computed tomography colonography versus colonoscopy for detection of colorectal cancer: a diagnostic performance study.BMC Med Imaging.2020;20(1):51.Published 2020 May 18.doi:10.1186/s12880-020-00446-7
+3.Gandhi NS, Dillman JR, Grand DJ, Huang C, Fletcher JG, Al-Hawary MM, Anupindi SA, Baker ME, Bruining DH, Chatterji M, Fidler JL.Computed tomography and magnetic resonance enterography protocols and techniques: survey of the Society of Abdominal Radiology Crohn’s Disease Disease-Focused Panel.Abdominal Radiology.2020 Apr;45:1011-7
+3.Gandhi NS, Dillman JR, Grand DJ, Huang C, Fletcher JG, Al-Hawary MM, Anupindi SA, Baker ME, Bruining DH, Chatterji M, Fidler JL.Computed tomography and magnetic resonance enterography protocols and techniques: survey of the Society of Abdominal Radiology Crohn’s Disease Disease-Focused Panel.Abdominal Radiology.2020 Apr;45:1011-7

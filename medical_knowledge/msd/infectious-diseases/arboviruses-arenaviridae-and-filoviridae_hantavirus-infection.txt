@@ -1,0 +1,127 @@
+标题：汉坦病毒感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/arboviruses-arenaviridae-and-filoviridae/hantavirus-infection
+============================================================
+
+汉坦病毒科是一类有包膜的单链RNA病毒。汉坦病毒有50多种，引起两种主要且有时重叠的临床综合征：
+肾综合征出血热（HFRS），在欧洲和亚洲流行
+肾综合征出血热（HFRS），在欧洲和亚洲流行
+汉坦病毒肺综合征（HPS），在美洲流行
+汉坦病毒肺综合征（HPS），在美洲流行
+可导致HFRS的病毒有汉坦病毒、首尔病毒、多布拉瓦（贝尔格莱德）病毒、萨拉马病毒、阿穆尔病毒和普马拉病毒。
+导致 HPS 的病毒因地区而异（1)：
+阿根廷：安第斯、阿拉拉夸拉、贝尔梅霍、茹基蒂巴、莱奇瓜纳斯、莱古纳内格拉、马西埃尔和奥兰病毒
+阿根廷：安第斯、阿拉拉夸拉、贝尔梅霍、茹基蒂巴、莱奇瓜纳斯、莱古纳内格拉、马西埃尔和奥兰病毒
+巴西：Araraquara 和 Juquitiba 病毒
+巴西：Araraquara 和 Juquitiba 病毒
+智利和玻利维亚东部：安第斯病毒
+智利和玻利维亚东部：安第斯病毒
+北美：Sin Nombre、Black Creek Canal、Bayou 和 Monongahela 病毒
+北美：Sin Nombre、Black Creek Canal、Bayou 和 Monongahela 病毒
+巴拿马：乔克罗病毒
+巴拿马：乔克罗病毒
+巴拉圭和玻利维亚：Leguna Negra 病毒
+巴拉圭和玻利维亚：Leguna Negra 病毒
+汉坦病毒存在于全球野生啮齿动物中，其终生通过唾液、尿液和粪便排出病毒（2）。蝙蝠、鼹鼠、鼩鼱、爬行动物和鱼类也被证实携带汉坦病毒。向人类传播仅被记录为通过吸入啮齿动物排泄物的气溶胶，或极少通过啮齿动物咬伤。安第斯病毒可发生人际传播。除了自然获得的感染外，实验室获得性感染和没有明确接触受感染动物排泄物而发生的感染正变得越来越常见。
+汉坦病毒感染的实验室诊断通过血清学试验和逆转录聚合酶链反应（RT-PCR）确立。血清学试验包括酶联免疫吸附试验（ELISA）、Western印迹和条带免疫印迹试验。由于潜在的交叉反应，北美的血清学诊断必须能够区分首尔和 Sin Nombre 病毒感染。培养该病毒较为困难，要求在生物安全级别为3级的实验室进行。
+
+【参考文献】
+1.Milholland MT, Castro-Arellano I, Suzán G, et al: Global diversity and distribution of hantaviruses and their hosts.EcoHealth15 (1):163-208, 2018.doi:10.1007/s10393-017-1305-2.
+1.Milholland MT, Castro-Arellano I, Suzán G, et al: Global diversity and distribution of hantaviruses and their hosts.EcoHealth15 (1):163-208, 2018.doi:10.1007/s10393-017-1305-2.
+2.Vial PA, Ferrés M, Vial C, et al: Hantavirus in humans: a review of clinical aspects and management.Lancet Infect Dis23(9):e371-e382, 2023.doi:10.1016/S1473-3099(23)00128-7
+2.Vial PA, Ferrés M, Vial C, et al: Hantavirus in humans: a review of clinical aspects and management.Lancet Infect Dis23(9):e371-e382, 2023.doi:10.1016/S1473-3099(23)00128-7
+
+【肾综合征出血热】
+肾综合征出血热（HFRS）是一组由汉坦病毒引起的类似疾病，包括流行性出血热、韩国出血热和流行性肾病；这些疾病一开始是类似流感的疾病，可能会发展为休克、出血和肾功能衰竭。诊断通过血清学试验和聚合酶链反应（PCR）进行。病死率为6％~15％。治疗包括静脉注射利巴韦林。
+肾综合征出血热（HFRS）是一组由汉坦病毒引起的类似疾病，包括流行性出血热、韩国出血热和流行性肾病；这些疾病一开始是类似流感的疾病，可能会发展为休克、出血和肾功能衰竭。诊断通过血清学试验和聚合酶链反应（PCR）进行。病死率为6％~15％。治疗包括静脉注射利巴韦林。
+一些肾综合征出血热类型较为温和（例如，普马拉病毒引起的流行性肾病，常见于斯堪的纳维亚半岛、俄罗斯西部和欧洲）。 有些通常是轻微的，但偶尔也可能是严重的（例如，首尔病毒在野生棕鼠和家养鼠中广泛分布）。而其他一些病毒（如发生在韩国、中国和俄罗斯的汉坦病毒，或主要发生在巴尔干半岛的多布拉瓦 [贝尔格莱德] 病毒）引起的HFRS则病情较重。
+人类吸入被啮齿类动物排泄物污染的空气而感染。
+
+【HFRS的症状和体征】
+潜伏期约为2周，但可长达6周（1）。
+在轻症病例中，感染通常无症状。
+症状性HFRS经历五个阶段：发热、低血压、少尿、多尿和恢复期（2）。
+发热期突然起病，伴有高热、头痛、背痛、恶心、呕吐和腹痛。
+存在相对心动过缓，约 11% 至 40% 的发热患者会出现低血压，约三分之一出现休克。1%的患者会出现癫痫或严重局灶性神经系统症状（3）。血小板减少症可能导致出血并发症（如鼻衄、瘀点、胃肠道出血、血尿）。
+血小板减少症可能早期出现，甚至在心脏症状出现之前，且血小板减少的程度与全身性炎症风险及严重急性肾损伤的发生相关（1）。少尿期与最高的死亡风险相关；少尿之后会出现多尿和肾功能改善。
+
+【症状和体征参考】
+1.Vial PA, Ferrés M, Vial C, et al: Hantavirus in humans: a review of clinical aspects and management.Lancet Infect Dis23(9):e371-e382, 2023.doi:10.1016/S1473-3099(23)00128-7
+1.Vial PA, Ferrés M, Vial C, et al: Hantavirus in humans: a review of clinical aspects and management.Lancet Infect Dis23(9):e371-e382, 2023.doi:10.1016/S1473-3099(23)00128-7
+2.Sehgal A, Mehta S, Sahay K, et al: Hemorrhagic Fever with Renal Syndrome in Asia: History, Pathogenesis, Diagnosis, Treatment, and Prevention.Viruses15(2):561, 2023.Published 2023 Feb 18.doi:10.3390/v15020561
+2.Sehgal A, Mehta S, Sahay K, et al: Hemorrhagic Fever with Renal Syndrome in Asia: History, Pathogenesis, Diagnosis, Treatment, and Prevention.Viruses15(2):561, 2023.Published 2023 Feb 18.doi:10.3390/v15020561
+3.Lupuşoru G, Lupuşoru M, Ailincăi I, et al: Hanta hemorrhagic fever with renal syndrome: A pathology in whose diagnosis kidney biopsy plays a major role (Review).Exp Ther Med22(3):984, 2021.doi:10.3892/etm.2021.10416
+3.Lupuşoru G, Lupuşoru M, Ailincăi I, et al: Hanta hemorrhagic fever with renal syndrome: A pathology in whose diagnosis kidney biopsy plays a major role (Review).Exp Ther Med22(3):984, 2021.doi:10.3892/etm.2021.10416
+
+【HFRS的诊断】
+血清学检测或聚合酶链反应（PCR）
+血清学检测或聚合酶链反应（PCR）
+对于可能接触过病毒的患者，如果出现发热、出血倾向和肾衰竭，应怀疑肾综合征出血热。
+初始诊断检测包括全血细胞计数、电解质水平、肾功能测试、凝血测试和尿液分析。汉坦病毒感染的推定诊断基于存在血小板减少、血浆白蛋白降低、蛋白尿和镜下血尿。在低血压期，可见血细胞比容增加，并出现白细胞增多和血小板减少。通常在第2天到第5天之间可能会发生白蛋白尿、血尿、红细胞和白细胞管型。电解质异常在多尿期常见。
+HFRS的明确诊断基于血清学检测或PCR。
+
+【HFRS 的治疗】
+利巴韦林
+利巴韦林
+有时需肾透析
+有时需肾透析
+肾综合征出血热的治疗采用静脉注射利巴韦林。
+支持治疗，包括肾透析在内，至关重要，尤其是在多尿期。
+
+【HFRS的预后】
+该病死亡患者多集中在多尿期，继发于循环容量不足、电解质紊乱及二次感染。 一般需要3~6周痊愈，但也有恢复期超过6个月者。
+总的来说，死亡率为1%至15%，几乎总是发生在更严重的患者身上（1）。除巴尔干半岛一些严重病例可留下肾功能不全的后遗症，肾功能一般可完全恢复。
+
+【预后参考】
+1.Centers for Disease Control and Prevention: Hantavirus: Clinician Brief: Hemorrhagic Fever with Renal Syndrome.May 20, 2024.Accessed June 17, 2025.
+1.Centers for Disease Control and Prevention: Hantavirus: Clinician Brief: Hemorrhagic Fever with Renal Syndrome.May 20, 2024.Accessed June 17, 2025.
+
+【汉坦病毒肺综合征】
+汉坦病毒肺综合征（HPS）发生于美国（主要在西南部各州）、加拿大（主要在西部省份）以及南美洲和巴拿马。发病时表现为类似流感症状，并在几天内出现非心源性肺水肿。诊断方法为血清学检查和逆转录聚合酶链反应（RT-PCR）检查。在更严重的疾病中，病死率可高达50%。治疗主要是支持治疗。
+汉坦病毒肺综合征（HPS）发生于美国（主要在西南部各州）、加拿大（主要在西部省份）以及南美洲和巴拿马。发病时表现为类似流感症状，并在几天内出现非心源性肺水肿。诊断方法为血清学检查和逆转录聚合酶链反应（RT-PCR）检查。在更严重的疾病中，病死率可高达50%。治疗主要是支持治疗。
+HPS的大多数病例是由以下病毒引起的：
+辛诺柏病毒、安第斯病毒和乔克洛汉坦病毒
+辛诺柏病毒、安第斯病毒和乔克洛汉坦病毒
+其他病例是由以下病毒引起的：
+美国东南部和墨西哥的黑溪运河病毒、穆莱斯豪病毒和巴尤病毒
+美国东南部和墨西哥的黑溪运河病毒、穆莱斯豪病毒和巴尤病毒
+美国东海岸的纽约病毒（Sin Nombre 病毒的变种）
+美国东海岸的纽约病毒（Sin Nombre 病毒的变种）
+北美西海岸的Convict Creek病毒和Isla Vista病毒
+北美西海岸的Convict Creek病毒和Isla Vista病毒
+南美洲的莱古纳内格拉（及其马莫雷河变体）、类安第斯病毒Hu39694、莱奇瓜纳斯、奥兰、中央普拉塔、布宜诺斯艾利斯、里奥米雷姆、茹基蒂巴、类茹基蒂巴、阿皮艾梅塔普瓦、南洋杉、杰博拉、涅恩布库、伊泰图巴、卡斯特洛·多斯·索诺斯、玛丽波和 贝尔梅霍汉坦病毒
+南美洲的莱古纳内格拉（及其马莫雷河变体）、类安第斯病毒Hu39694、莱奇瓜纳斯、奥兰、中央普拉塔、布宜诺斯艾利斯、里奥米雷姆、茹基蒂巴、类茹基蒂巴、阿皮艾梅塔普瓦、南洋杉、杰博拉、涅恩布库、伊泰图巴、卡斯特洛·多斯·索诺斯、玛丽波和 贝尔梅霍汉坦病毒
+人类通过吸入林鼠类啮齿动物（特别是感染辛诺柏病毒的鹿鼠）的排泄物而感染。多数病例发生在密西西比河西部，多见于春夏季，通常是在大雨过后，雨水促使植被生长，为啮齿动物种群的增长提供了食物。
+
+【HPS的症状和体征】
+汉坦病毒肺综合征最初是一种非特异性流感样疾病，伴有急性发热、肌痛、头痛、结膜充血、眼球后疼痛和胃肠道症状。2~15天后（中位时间4天），患者迅速进展为非心源性肺水肿和低血压。
+与HFRS一样，血小板减少症可能早期出现，甚至在心肺症状出现之前，且血小板减少的程度与全身性炎症风险及严重急性肾损伤的发生相关（1）。
+几例患者合并HFRS和HPS。可能发生轻度HPS病例。
+
+【症状和体征】
+1.Vial PA, Ferrés M, Vial C, et al.Hantavirus in humans: a review of clinical aspects and management.Lancet Infect Dis2023;23(9):e371-e382.doi:10.1016/S1473-3099(23)00128-7
+1.Vial PA, Ferrés M, Vial C, et al.Hantavirus in humans: a review of clinical aspects and management.Lancet Infect Dis2023;23(9):e371-e382.doi:10.1016/S1473-3099(23)00128-7
+
+【HPS的诊断】
+血清学检测或聚合酶链反应 (PCR)
+血清学检测或聚合酶链反应 (PCR)
+对于有汉坦病毒接触史的患者，如果出现不明原因的临床或影像学肺水肿，应怀疑汉坦病毒肺综合征。胸部X射线可能会显示血管纹理增多、Kerley B线、双侧浸润或胸腔积液。
+如果怀疑HPS，需进行超声心动图检查以排除心源性肺水肿。
+初始检测包括血常规、肝功能生化检测、电解质和肾功能血液检查以及尿液分析。HPS引起轻微的中性粒细胞增多，血液浓缩，血小板减少。乳酸脱氢酶、天冬氨酸氨基转移酶和丙氨酸氨基转移酶轻度升高，同时血清白蛋白降低，是典型表现。尿检显示异常较少。
+HPS的诊断依据为血清学检测或逆转录聚合酶链反应（RT-PCR）。
+
+【HPS的治疗】
+支持治疗
+支持治疗
+汉坦病毒肺综合征的治疗是支持性治疗。可能需要机械通气、精确的容量控制和血管加压药。对于严重心肺功能不全，体外膜氧合（ECMO）可能挽救生命（1）。
+尽管利巴韦林对肾综合征出血热有效，但静脉注射利巴韦林治疗HPS尚未证实有效。
+
+【Treatment reference】
+1.Centers for Disease Control and Prevention: Hantavirus: Clinician Brief: Hantavirus Pulmonary Syndrome (HPS).May 23, 2024.Accessed June 17, 2025.
+1.Centers for Disease Control and Prevention: Hantavirus: Clinician Brief: Hantavirus Pulmonary Syndrome (HPS).May 23, 2024.Accessed June 17, 2025.
+
+【HPS的预后】
+经过最初几天治疗后能够存活的HPS患者将迅速好转，并在2~3周内完全康复，通常不留后遗症。然而，若不及时治疗，汉坦病毒肺综合征（HPS）的病死率近40%（1）。
+
+【预后参考】
+Centers for Disease Control and Prevention: Hantavirus: Clinician Brief: Hantavirus Pulmonary Syndrome (HPS).May 23, 2024.Accessed June 17, 2025.
+Centers for Disease Control and Prevention: Hantavirus: Clinician Brief: Hantavirus Pulmonary Syndrome (HPS).May 23, 2024.Accessed June 17, 2025.

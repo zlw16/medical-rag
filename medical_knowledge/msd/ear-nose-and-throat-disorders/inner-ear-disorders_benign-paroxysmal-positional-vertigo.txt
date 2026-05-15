@@ -1,0 +1,108 @@
+标题：良性阵发性位置性眩晕
+来源：https://www.msdmanuals.cn/professional/ear-nose-and-throat-disorders/inner-ear-disorders/benign-paroxysmal-positional-vertigo
+============================================================
+
+良性阵发性位置性眩晕（BPPV）是复发性耳源性眩晕最常见的原因。在德国的一项基于人群的调查中，良性阵发性位置性眩晕的终身患病率为2.4%（1）。其特点为女性发病率较高。发病率随年龄的增大而增高，在老年人中可严重影响机体平衡，可导致摔伤。
+
+【参考文献】
+1.von Brevern M, Radtke A, Lezius F, et al.Epidemiology of benign paroxysmal positional vertigo: a population based study.J Neurol Neurosurg Psychiatry.2007;78(7):710-715.doi:10.1136/jnnp.2006.100420
+1.von Brevern M, Radtke A, Lezius F, et al.Epidemiology of benign paroxysmal positional vertigo: a population based study.J Neurol Neurosurg Psychiatry.2007;78(7):710-715.doi:10.1136/jnnp.2006.100420
+
+【良性阵发性位置性眩晕的病因】
+BPPV被认为是由耳石晶体（通常嵌于球囊和椭圆囊的碳酸钙晶体）脱落进入半规管所致，这一过程称为耳石症。这些移位的晶体（又称耳石）最常刺激后半规管的毛细胞，偶尔刺激外半规管，极少累及上半规管；此过程会使患者产生运动幻觉。随着年龄增长，前庭耳石可能碎裂并脱落，移入半规管而引发症状（1）。
+包括以下危险因素：
+椭圆囊耳石膜的自发变性
+椭圆囊耳石膜的自发变性
+迷路震荡
+迷路震荡
+耳部手术
+耳部手术
+最近的病毒感染（例如，病毒性神经元炎）
+最近的病毒感染（例如，病毒性神经元炎）
+长时间不活动（麻醉或卧床休息）
+长时间不活动（麻醉或卧床休息）
+前庭疾病病史（例如，梅尼埃病）
+前庭疾病病史（例如，梅尼埃病）
+前庭前动脉阻塞
+前庭前动脉阻塞
+巨细胞动脉炎 (2)
+巨细胞动脉炎 (2)
+骨质疏松症 (3)
+骨质疏松症 (3)
+代谢综合征的组成部分（高血压、糖尿病与高脂血症）（4）
+代谢综合征的组成部分（高血压、糖尿病与高脂血症）（4）
+
+【病因参考文献】
+1.Parham K, Kuchel GA.A Geriatric Perspective on Benign Paroxysmal Positional Vertigo.J Am Geriatr Soc.2016;64(2):378-385.doi:10.1111/jgs.13926
+1.Parham K, Kuchel GA.A Geriatric Perspective on Benign Paroxysmal Positional Vertigo.J Am Geriatr Soc.2016;64(2):378-385.doi:10.1111/jgs.13926
+2.Amor-Dorado JC, Llorca J, Costa-Ribas C, Garcia-Porrua C, Gonzalez-Gay MA.Giant cell arteritis: a new association with benign paroxysmal positional vertigo.Laryngoscope.2004;114(8):1420-1425.doi:10.1097/00005537-200408000-00020
+2.Amor-Dorado JC, Llorca J, Costa-Ribas C, Garcia-Porrua C, Gonzalez-Gay MA.Giant cell arteritis: a new association with benign paroxysmal positional vertigo.Laryngoscope.2004;114(8):1420-1425.doi:10.1097/00005537-200408000-00020
+3.Byun H, Chung JH, Lee SH, Park CW, Kim EM, Kim I.Increased risk of benign paroxysmal positional vertigo in osteoporosis: a nationwide population-based cohort study.Sci Rep.2019;9(1):3469.Published 2019 Mar 5.doi:10.1038/s41598-019-39830-x
+3.Byun H, Chung JH, Lee SH, Park CW, Kim EM, Kim I.Increased risk of benign paroxysmal positional vertigo in osteoporosis: a nationwide population-based cohort study.Sci Rep.2019;9(1):3469.Published 2019 Mar 5.doi:10.1038/s41598-019-39830-x
+4.Chen J, Zhang S, Cui K, Liu C.Risk factors for benign paroxysmal positional vertigo recurrence: a systematic review and meta-analysis.J Neurol.2021;268(11):4117-4127.doi:10.1007/s00415-020-10175-0
+4.Chen J, Zhang S, Cui K, Liu C.Risk factors for benign paroxysmal positional vertigo recurrence: a systematic review and meta-analysis.J Neurol.2021;268(11):4117-4127.doi:10.1007/s00415-020-10175-0
+
+【良性阵发性位置性眩晕的症状和体征】
+良性阵发性位置性眩晕患者通常报告头部运动时出现短暂的旋转感或转动感。可伴有恶心和呕吐，但无听力损失和耳鸣。 当患者头部运动时（例：在床上翻身或弯腰低头拾物时）可激发眩晕。 眩晕急性发作仅持续数秒到数分钟，发作往往在早晨达到高峰，全天逐渐缓解。然而，发作可能持续数周甚至数月；部分病例可能随后自发缓解。
+
+【良性阵发性位置性眩晕的诊断】
+主要是病史和体格检查
+主要是病史和体格检查
+若发现提示中枢神经系统（CNS）病变，有时需进行钆增强MRI检查
+若发现提示中枢神经系统（CNS）病变，有时需进行钆增强MRI检查
+良性阵发性位置性眩晕的诊断基于典型症状、Dix-Hallpike手法（也称为Barany手法）诱发的眼球震颤，以及神经系统检查无其他异常 (1)。此类患者无需其他检查。听力测试通常正常。
+在Dix-Hallpike（位置性眼球震颤的激发性测试）中，会出现以下情况：
+患者直立坐在检查台上，以便患者向后躺下时，头部能伸出检查台的末端。
+患者直立坐在检查台上，以便患者向后躺下时，头部能伸出检查台的末端。
+扶患者头，使其迅速后仰，悬头45°，然后头向左转45°。
+扶患者头，使其迅速后仰，悬头45°，然后头向左转45°。
+患者被告知将眼睛注视在1个固定的位置；视觉注视可以缩短甚至消除眼球震颤，因此理想的操作是让患者佩戴Frenzel镜片，使其无法进行视觉注视。
+患者被告知将眼睛注视在1个固定的位置；视觉注视可以缩短甚至消除眼球震颤，因此理想的操作是让患者佩戴Frenzel镜片，使其无法进行视觉注视。
+患者恢复直立姿势，并向右旋转重复这个动作。
+患者恢复直立姿势，并向右旋转重复这个动作。
+眩晕和眼球震颤可能需要大约 5 到 10 秒（有时长达 30 秒）才会出现（潜伏期）。症状持续10到30秒，然后减轻并消失（即疲劳）。
+眩晕和眼球震颤可能需要大约 5 到 10 秒（有时长达 30 秒）才会出现（潜伏期）。症状持续10到30秒，然后减轻并消失（即疲劳）。
+应记录眼球震颤的持续时间以及眩晕的发生情况。眼球震颤是扭转性的，当头部转向受影响的耳朵时就会发生。应当重复任何引起眼球震颤的姿势或动作，以确定是否疲劳。
+与 BPPV 引起的位置性眼球震颤不同，CNS 病变引起的位置性眼球震颤具有以下特点：
+缺乏潜伏期、易疲劳性和严重的主观感觉
+缺乏潜伏期、易疲劳性和严重的主观感觉
+只要体位不变，它就会一直持续下去
+只要体位不变，它就会一直持续下去
+可以是垂直的，也可以改变方向
+可以是垂直的，也可以改变方向
+如果旋转，旋转方向可能是意料之外的
+如果旋转，旋转方向可能是意料之外的
+一般来说，临床医生不应该对符合BPPV诊断标准的患者进行影像学检查，如果没有其他与BPPV不一致的体征和/或症状需要影像学检查。如果患者有眼球震颤提示中枢神经系统损害，则进行脑部和内耳道的Gd增强MRI检查。
+
+【诊断参考文献】
+1.Bhattacharyya N, Gubbels SP, Schwartz SR, et al.Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update).Otolaryngol Head Neck Surg.017;156(3_suppl):S1-S47.doi:10.1177/0194599816689667
+1.Bhattacharyya N, Gubbels SP, Schwartz SR, et al.Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update).Otolaryngol Head Neck Surg.017;156(3_suppl):S1-S47.doi:10.1177/0194599816689667
+
+【良性阵发性位置性眩晕的治疗】
+通过诱发动作使症状疲劳
+通过诱发动作使症状疲劳
+耳石复位治疗
+耳石复位治疗
+BPPV 通常具有自限性，可在数周或数月内自行缓解。药物（例如用于梅尼埃病的药品）通常不建议常规使用（1）。药物不良反应常可加重平衡失调。罕见地，症状严重的患者可在进行确定性复位前使用苯二氮卓类或抗组胺药治疗。在这些病例中，重要的是要考虑其他诊断，并且药物抑制了由Dix-Hallpike引起的眼球震颤，这使得明确的诊断更加困难。
+由于良性阵发性位置性眩晕容易疲劳，因此一种治疗方式就是让患者在一个安全的环境下，在1天的早些时候进行诱发动作，使症状疲劳。此后一天内的症状通常非常轻微。
+手法耳石复位法（最常见的是Epley手法，次常见的是Semont手法或Brandt-Daroff锻炼法）是指通过一系列特定的头位移动来使移位的耳石回到椭圆囊。执行 Epley 或 Semont 动作后，患者应在 1 ～ 2 天内尽量避免颈部屈曲或伸展。必要时这些手法治疗均可重复进行。所有这些操作都可以由患者在家中完成。
+
+【Epley动作：一种治疗常见眩晕的简单方法】
+Epley动作：一种治疗常见眩晕的简单方法
+操作是按照下面红色箭头的顺时针顺序完成的。
+对于Semont手法，患者直立坐在检查台中央。患者头部转向健耳，并在整个治疗过程中保持该头位。然后，患者躯干放低侧卧于检查台上，患耳在下，鼻尖朝上。患者在此体位保持至少30秒后，快速经直立位（头部保持屈曲状态）转为对侧侧卧位，此时鼻尖朝向下方。在此体位保持至少30秒后，患者被缓慢恢复至直立位，头部随之旋转回正常位置。
+Brandt-Daroff锻炼法可以教给患者。病人坐直，然后侧卧，鼻子向上45度角。病人保持在这个姿势约30秒，或直到眩晕消退，然后恢复到坐着的姿势。对侧重复同样动作。训练周期是每组5次，每天3组，持续2周，或者直到没有眩晕发生。
+
+【治疗参考文献】
+1.Bhattacharyya N, Gubbels SP, Schwartz SR, et al.Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update).Otolaryngol Head Neck Surg.017;156(3_suppl):S1-S47.doi:10.1177/0194599816689667
+1.Bhattacharyya N, Gubbels SP, Schwartz SR, et al.Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update).Otolaryngol Head Neck Surg.017;156(3_suppl):S1-S47.doi:10.1177/0194599816689667
+良性阵发性位置性眩晕中，眩晕由于半规管内耳石的移位导致。症状由头部运动引发。
+良性阵发性位置性眩晕中，眩晕由于半规管内耳石的移位导致。症状由头部运动引发。
+也可能出现恶心和呕吐，但不会出现耳鸣或听力损失。
+也可能出现恶心和呕吐，但不会出现耳鸣或听力损失。
+诊断主要依靠临床表现，但部分患者需要做MRI以排除其他疾病。
+诊断主要依靠临床表现，但部分患者需要做MRI以排除其他疾病。
+治疗采取耳石复位治疗。
+治疗采取耳石复位治疗。
+药物很少能缓解症状，反而可能加重平衡失调。
+药物很少能缓解症状，反而可能加重平衡失调。

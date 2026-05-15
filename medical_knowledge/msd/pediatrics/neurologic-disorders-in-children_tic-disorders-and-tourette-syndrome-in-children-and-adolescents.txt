@@ -1,0 +1,135 @@
+标题：儿童和青少年抽动障碍和Tourette综合征
+来源：https://www.msdmanuals.cn/professional/pediatrics/neurologic-disorders-in-children/tic-disorders-and-tourette-syndrome-in-children-and-adolescents
+============================================================
+
+抽动症状的严重程度差异很大；儿童群体中较为常见，但其中许多人并未接受评估或确诊。抽动秽语综合征（Tourette综合征）是最严重的抽动障碍类型，在儿童中的发病率为3-9/1000 (1)。男女比例为3:1（2，3，4）。
+抽动症起病于18岁前，通常在4至6岁间。症状严重程度于10至12岁达到顶峰，在青春期减轻(5)。最终，大多数抽动自然消失。然而，约1％的儿童的抽动症会持续到成年期。
+病因尚不清楚，但抽动障碍往往是遗传的。在一些家庭中，它们呈现为具有不完全外显率的显性模式。
+合并症是常见的。
+患有抽动症的儿童可能有以下一个或多个症状：
+注意力缺陷/多动症(ADHD)
+注意力缺陷/多动症(ADHD)
+强迫障碍（OCD）
+强迫障碍（OCD）
+焦虑障碍
+焦虑障碍
+学习障碍
+学习障碍
+这些障碍往往比抽动更能影响儿童的发育和健康。ADHD是最常见的合并症，有时抽动首先出现在ADHD儿童用兴奋剂治疗时；这些孩子可能有一种潜在的抽动倾向。
+青少年（和成人）可能有
+物质使用障碍
+物质使用障碍
+继发性抽动症较为罕见，其病因可能包括：①兴奋剂类药物使用过量；②链球菌感染相关的小儿自身免疫性神经精神障碍（PANDAS）。
+
+【参考文献】
+1.Scharf JM, Miller LL, Gauvin CA, Alabiso J, Mathews CA, Ben-Shlomo Y.Population prevalence of Tourette syndrome: a systematic review and meta-analysis.Mov Disord.2015;30(2):221-228.doi:10.1002/mds.26089
+1.Scharf JM, Miller LL, Gauvin CA, Alabiso J, Mathews CA, Ben-Shlomo Y.Population prevalence of Tourette syndrome: a systematic review and meta-analysis.Mov Disord.2015;30(2):221-228.doi:10.1002/mds.26089
+2.Centers for Disease Control and Prevention (CDC).Prevalence of diagnosed Tourette syndrome in persons aged 6-17 years—United States, 2007.MMWR Morb Mortal Wkly Rep.2009;58(21):581–585.
+2.Centers for Disease Control and Prevention (CDC).Prevalence of diagnosed Tourette syndrome in persons aged 6-17 years—United States, 2007.MMWR Morb Mortal Wkly Rep.2009;58(21):581–585.
+3.Knight T, Steeves T, Day L, et al.Prevalence of tic disorders: A systematic review and meta-analysis.Pediatr Neurol.2012;47(2):77–90.doi:10.1016/j.pediatrneurol.2012.05.002
+3.Knight T, Steeves T, Day L, et al.Prevalence of tic disorders: A systematic review and meta-analysis.Pediatr Neurol.2012;47(2):77–90.doi:10.1016/j.pediatrneurol.2012.05.002
+4.Jafari F, Abbasi P, Rahmati M, Hodhodi T, Kazeminia M.Systematic Review and Meta-Analysis of Tourette Syndrome Prevalence; 1986 to 2022.Pediatr Neurol.2022;137:6-16.doi:10.1016/j.pediatrneurol.2022.08.010
+4.Jafari F, Abbasi P, Rahmati M, Hodhodi T, Kazeminia M.Systematic Review and Meta-Analysis of Tourette Syndrome Prevalence; 1986 to 2022.Pediatr Neurol.2022;137:6-16.doi:10.1016/j.pediatrneurol.2022.08.010
+5.Groth C, Mol Debes N, Rask CU, Lange T, Skov L.Course of Tourette Syndrome and Comorbidities in a Large Prospective Clinical Study.J Am Acad Child Adolesc Psychiatry.2017;56(4):304-312.doi:10.1016/j.jaac.2017.01.010
+5.Groth C, Mol Debes N, Rask CU, Lange T, Skov L.Course of Tourette Syndrome and Comorbidities in a Large Prospective Clinical Study.J Am Acad Child Adolesc Psychiatry.2017;56(4):304-312.doi:10.1016/j.jaac.2017.01.010
+
+【抽动障碍的分类】
+原发性抽动障碍根据《精神障碍诊断与统计手册》第五版文本修订版（DSM-5-TR）分为3类（1）：
+暂时性抽动障碍：单一或多个运动和/或发声抽动已存在<1年。
+暂时性抽动障碍：单一或多个运动和/或发声抽动已存在<1年。
+持续性抽动障碍（慢性抽动障碍）：单一或多个运动或发声抽动（但非运动和发声同时存在）已存在>1年。
+持续性抽动障碍（慢性抽动障碍）：单一或多个运动或发声抽动（但非运动和发声同时存在）已存在>1年。
+抽动秽语综合征（Gilles de la Tourette综合征）：运动性抽动和发声性抽动持续存在>1年。
+抽动秽语综合征（Gilles de la Tourette综合征）：运动性抽动和发声性抽动持续存在>1年。
+这些类别通常形成一个连续统一体，在这个统一体中，患者从暂时性抽动障碍开始，有时会发展为持续性抽动障碍或抽动秽语综合征。所有病例中，起病年龄必须<18岁，且这种障碍不能由物质（如可卡因）或其他疾病（如亨廷顿病、病毒性脑炎）的生理效应所致。（物质诱发或其他疾病诱发的抽动归类为继发性抽动障碍，不包括在DSM-5-TR中的原发性抽动障碍。）
+有时，具有爆发性抽动和/或相关强迫症的儿童有链球菌感染—这种现象有时被称为PANDAS。许多研究者不相信PANDAS不同于抽动症的范围。
+
+【分类参考文献】
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, 2022.
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, 2022.
+
+【抽动障碍的症状和体征】
+患者倾向于在任何给定时间表现相同的抽搐，尽管抽搐在一段时间内在类型，强度和频率上有所变化。它们可能在一小时内多次发作，随后缓解或几乎消失，持续≥3个月。通常情况下，抽搐不发生在睡眠期间
+抽动可以是
+运动或发声
+运动或发声
+简单的或复杂的
+简单的或复杂的
+（见表抽动类型。）
+单纯性抽搐症表现为短暂的运动或发声行为，通常不具备社会意义（即这些动作或声音可能无法被识别为特定手势或语言）。
+复杂抽动持续时间更长，可涉及简单抽动的组合。复杂抽动症可能表现出具有社会意义的动作特征，因而易被误认为具有主观意向性。然而，尽管部分患者可以短时间（数秒至数分钟）自主抑制抽动症状，且部分患者会察觉到抽动前的先兆冲动，但抽动行为并非出于自愿，也不代表品行不良。
+压力和疲劳会使抽动症状加重，但抽动往往在身体放松时（比如看电视时）表现得最为明显。当患者专注于任务（如学习或工作活动）时，抽动症状可能会减轻。抽动很少影响运动协调。轻微的抽动症很少引起问题，但严重的抽动症，特别是秽语症（不自主地说出淫秽或不当的词语或短语），会在身体和/或社交上造成障碍。
+有时抽动是爆发性起病的，在一天内出现并变得持续存在。
+
+【抽动症的类型】
+抽动症的类型
+头部抽动
+咕噜声或吠叫声
+嗅闻或鼻哼
+简单抽动的组合（例如，头部转动加肩耸肩）
+秽亵行为：使用性或猥亵的手势
+模仿行为：模仿别人的动作
+秽语症：说出不合社交规范的词语（如：淫秽语言、种族歧视言论）或短语
+模仿言语：重复自己或另一个人的声音或话语
+
+【抽动障碍的诊断】
+病史和体格检查
+病史和体格检查
+诊断是基于临床的。
+为了区分Tourette综合征与短暂性抽动，医生可能必须随时间监测患者。当患者同时出现运动性抽动和发声性抽动持续>1年时，可诊断为图雷特综合征。
+
+【抽动障碍的治疗】
+抽动综合行为干预（CBIT）
+抽动综合行为干预（CBIT）
+有时使用α-肾上腺素能激动剂或抗精神病药
+有时使用α-肾上腺素能激动剂或抗精神病药
+合并症治疗
+合并症治疗
+仅当抽动显著妨碍儿童的活动或有损自我形象时，才推荐抑制抽动的治疗；治疗并不改变疾病的自然进程。通常情况下，如果临床医生帮助孩子及其家人了解抽动的自然史，并且学校人员可以帮助同学了解疾病，则可以避免治疗。
+一种称为综合行为干预（CBIT）的行为治疗可以帮助一些较大的儿童控制或减少他们的抽动的数量或严重程度。其治疗手段包括多种认知行为疗法： 习惯逆转训练（学习新行为以替代抽动症状）、 基于竞争性反应的技术（通过执行与当前抽动动作相拮抗的自主肌肉运动）、抽动症相关知识教育 、放松训练技巧（1）。
+有时抽动的自然起伏波动会让人误以为某种特定治疗产生了效果。
+（参见美国神经病学学会review summary of treatment of tics in people with Tourette syndrome and chronic tic disorders[2019]）。
+
+【药物治疗】
+口服α肾上腺素能激动剂获欧洲妥瑞综合征研究学会推荐，作为共患ADHD患者轻中度抽动的一线药物(2、3):
+盐酸可乐定初始给药方案为每日一次睡前服用，如需增量可逐步调整至最大剂量，分两次给药(3)。
+盐酸可乐定初始给药方案为每日一次睡前服用，如需增量可逐步调整至最大剂量，分两次给药(3)。
+盐酸胍法辛初始给药方案为每日一次睡前服用，如需增加剂量，可逐步调整至最大剂量并分两次给药。
+盐酸胍法辛初始给药方案为每日一次睡前服用，如需增加剂量，可逐步调整至最大剂量并分两次给药。
+可乐定的副作用之一是疲劳，这可能会限制白天的剂量；低血压并不常见。
+对于症状控制较为困难的患者，可能需要使用口服抗精神病药。由于潜在的不良反应，此类药物通常被视为二线治疗方案。可选药物包括阿立哌唑、氟哌啶醇及吡莫齐特。
+氟奋乃静、托吡酯及肉毒毒素注射也用于抑制抽动。
+使用任何药物时，均以能将抽动症状控制在可耐受范围内的最低剂量为宜；随抽动症状减轻，逐步减少剂量。抗精神病药物可能引发烦躁、帕金森综合征、静坐不能及迟发性运动障碍等不良反应，虽较为罕见但仍可能限制其临床使用；采用日间低剂量、睡前高剂量的给药方案可减轻这些不良反应。选药时应考虑相关病症。
+
+【合并症治疗】
+治疗合并症很重要。
+合并焦虑症状可采用可乐定或胍法辛进行控制。
+ADHD有时可通过低剂量兴奋剂成功治疗且不会加重抽动症状，但若存在相关风险，选用替代药物（如托莫西汀）可能更为适宜。
+如果强迫或强制性特征令人困扰，选择性5-羟色胺再摄取抑制剂可能有效。
+存在抽动症状且学业表现不佳的儿童，应接受学习障碍评估，并根据需要提供相应支持。
+
+【治疗参考文献】
+1.Piacentini J, Woods DW, Scahill L, et al.Behavior therapy for children with Tourette disorder: a randomized controlled trial.JAMA.2010;303(19):1929-1937.doi:10.1001/jama.2010.607
+1.Piacentini J, Woods DW, Scahill L, et al.Behavior therapy for children with Tourette disorder: a randomized controlled trial.JAMA.2010;303(19):1929-1937.doi:10.1001/jama.2010.607
+2.Singer HS.Tics and Tourette Syndrome.Continuum (Minneap Minn).2019;25(4):936-958.doi:10.1212/CON.0000000000000752
+2.Singer HS.Tics and Tourette Syndrome.Continuum (Minneap Minn).2019;25(4):936-958.doi:10.1212/CON.0000000000000752
+3.Roessner V, Eichele H, Stern JS, et al.European clinical guidelines for Tourette syndrome and other tic disorders-version 2.0.Part III: pharmacological treatment.Eur Child Adolesc Psychiatry.2022;31(3):425-441.doi:10.1007/s00787-021-01899-z
+3.Roessner V, Eichele H, Stern JS, et al.European clinical guidelines for Tourette syndrome and other tic disorders-version 2.0.Part III: pharmacological treatment.Eur Child Adolesc Psychiatry.2022;31(3):425-441.doi:10.1007/s00787-021-01899-z
+抽动是指在18岁以下儿童中出现的、反复的、突然的、快速的、无节律的肌肉运动或发声行为。
+抽动是指在18岁以下儿童中出现的、反复的、突然的、快速的、无节律的肌肉运动或发声行为。
+抽动症在儿童中很常见。
+抽动症在儿童中很常见。
+秽语症（不自主说出淫秽或不当词语或短语）可能为首发症状。
+秽语症（不自主说出淫秽或不当词语或短语）可能为首发症状。
+简单抽动表现为非常短暂的动作和/或发声（例如头部抽动、发出哼声），通常不具有社交意义。
+简单抽动表现为非常短暂的动作和/或发声（例如头部抽动、发出哼声），通常不具有社交意义。
+复杂抽动可能看起来具有社会意义（即，是可识别的手势或词语），因此似乎是有意的，但它们不是。
+复杂抽动可能看起来具有社会意义（即，是可识别的手势或词语），因此似乎是有意的，但它们不是。
+强烈考虑抽动综合行为干预 (CBIT) 作为抽动的初始治疗选择。
+强烈考虑抽动综合行为干预 (CBIT) 作为抽动的初始治疗选择。
+α-肾上腺素能激动剂（如可乐定或胍法辛）对轻度抽搐和多动症都有益。
+α-肾上腺素能激动剂（如可乐定或胍法辛）对轻度抽搐和多动症都有益。
+抗精神病药物可能会减轻严重或难以控制的抽搐，但可能会引起不良影响。
+抗精神病药物可能会减轻严重或难以控制的抽搐，但可能会引起不良影响。
+合并症（例如，注意缺陷/多动障碍、强迫症）很常见，也必须得到诊断和治疗。
+合并症（例如，注意缺陷/多动障碍、强迫症）很常见，也必须得到诊断和治疗。

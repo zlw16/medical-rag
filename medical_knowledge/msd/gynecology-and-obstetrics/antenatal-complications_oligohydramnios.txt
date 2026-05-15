@@ -1,0 +1,85 @@
+标题：羊水过少
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/antenatal-complications/oligohydramnios
+============================================================
+
+羊水过少的病因包括：
+子宫胎盘功能不全（如，子痫前期、慢性高血压、胎盘早剥、血栓性疾病或其他母体疾病）
+子宫胎盘功能不全（如，子痫前期、慢性高血压、胎盘早剥、血栓性疾病或其他母体疾病）
+胎膜破裂（早产或足月）
+胎膜破裂（早产或足月）
+过期妊娠
+过期妊娠
+一些药物（如血管紧张素转换酶抑制剂[ACE]、非甾体抗炎药[NSAIDs]）
+一些药物（如血管紧张素转换酶抑制剂[ACE]、非甾体抗炎药[NSAIDs]）
+胎儿染色体异常（如，非整倍体）
+胎儿染色体异常（如，非整倍体）
+胎儿畸形，特别是可以导致尿量减少的畸形
+胎儿畸形，特别是可以导致尿量减少的畸形
+宫内生长受限
+宫内生长受限
+羊水过少的并发症包括以下方面：
+宫内生长受限
+宫内生长受限
+肢体挛缩（若孕早期即开始出现羊水过少）
+肢体挛缩（若孕早期即开始出现羊水过少）
+胎肺成熟延迟或不完全（若孕早期即开始出现羊水过少）
+胎肺成熟延迟或不完全（若孕早期即开始出现羊水过少）
+胎儿无法耐受产程，需要剖宫产
+胎儿无法耐受产程，需要剖宫产
+并发症的发生风险取决于现有羊水量和病因。
+
+【羊水过少的症状和体征】
+除胎动减少外，羊水过少本身往往不造成产妇的其他症状。根据孕龄，子宫大小可能小于预期。
+导致或促成羊水过少的疾病可能引起临床症状。
+
+【羊水过少的诊断】
+超声测量羊水量
+超声测量羊水量
+全面的胎儿超声检查，包括胎儿畸形的评估
+全面的胎儿超声检查，包括胎儿畸形的评估
+对临床上可疑的母体因素，进行针对性检查。
+对临床上可疑的母体因素，进行针对性检查。
+若临床发现子宫小于胎龄预期，或胎动减少应怀疑羊水过少；若超声提示异常也可怀疑该诊断。然而，定性估计羊水量往往较主观。如果怀疑羊水过少，应使用羊水指数（AFI）或单个最深袋（SDP）对羊水进行定量评估。
+羊水的体积无法直接测量。因此，羊水过少是使用以下超声检查标准之一间接定义的：
+AFI ≤ 5 cm：AFI 是在子宫各象限测得的液体垂直深度之和；正常的 AFI 范围是从 > 5 厘米 到 < 24 厘米。
+AFI ≤ 5 cm：AFI 是在子宫各象限测得的液体垂直深度之和；正常的 AFI 范围是从 > 5 厘米 到 < 24 厘米。
+SDP < 2 cm： SDP是对最深的羊水袋的测量，正常的SDP是≥2至<8厘米。
+SDP < 2 cm： SDP是对最深的羊水袋的测量，正常的SDP是≥2至<8厘米。
+在预防围产期不良后果方面，似乎AFI和SDP都不比对方优越。每种方法都有局限性： AFI常常导致对羊水过少的过度诊断；SDP导致对羊水过多的过度诊断(1,2)。
+
+【明确原因】
+若诊断羊水过少，临床医生应排查可能的原因，包括胎膜早破。 应进行全面的超声检查，排查胎儿畸形和任何较明显的胎盘原因（如胎盘早剥）。
+如果超声检查提示胎儿畸形或非整倍体，临床医生可以进行羊膜穿刺和胎儿染色体核型分析。
+如果怀疑子宫胎盘功能不全、发现宫内生长受限，应进行脐动脉多普勒超声检查。
+
+【诊断参考】
+1.Kehl S, Schelkle A, Thomas A, et al: Single deepest vertical pocket or amniotic fluid index as evaluation test for predicting adverse pregnancy outcome (SAFE trial): A multicenter, open-label, randomized controlled trial.Ultrasound Obstet Gynecol47 (6):674–679, 2016.doi: 10.1002/uog.14924
+1.Kehl S, Schelkle A, Thomas A, et al: Single deepest vertical pocket or amniotic fluid index as evaluation test for predicting adverse pregnancy outcome (SAFE trial): A multicenter, open-label, randomized controlled trial.Ultrasound Obstet Gynecol47 (6):674–679, 2016.doi: 10.1002/uog.14924
+2.Nabhan AF, Abdelmoula YA: Amniotic fluid index versus single deepest vertical pocket as a screening test for preventing adverse pregnancy outcome.Cochrane Database Syst Rev2008 (3):CD006593, 2008.doi:10.1002/14651858.CD006593.pub2
+2.Nabhan AF, Abdelmoula YA: Amniotic fluid index versus single deepest vertical pocket as a screening test for preventing adverse pregnancy outcome.Cochrane Database Syst Rev2008 (3):CD006593, 2008.doi:10.1002/14651858.CD006593.pub2
+
+【羊水过少的治疗】
+连续超声检查以确定羊水指数 (AFI) 或单个最深袋 (SDP) 并监测胎儿生长情况
+连续超声检查以确定羊水指数 (AFI) 或单个最深袋 (SDP) 并监测胎儿生长情况
+无应激试验以及生物物理评分。
+无应激试验以及生物物理评分。
+患者可以作为住院患者管理。如果作为门诊病人进行治疗，应每周监测胎儿状况一到两次，使用超声测量 AFI 或 SDP 以及进行无应激试验或生物物理评分（1）。应每 2 至 4 周进行一次超声检查来测量胎儿生长情况（如果生长受限，则每 2 周进行一次）。
+大多数专家建议，对于单纯性、无并发症的羊水过少，最早应在孕 36 至 37 6/7 周时分娩，如果在孕 37 周以上确诊，则应在确诊时分娩（2）。但是，此法并未证实可避免胎儿死亡。分娩最佳时机的选择是有争议的，需依据患者临床情况和胎儿并发症决定。
+
+【治疗参考文献】
+1.American College of Obstetricians and Gynecologists (ACOG): ACOG Committee Opinion, Number 828: Indications for Outpatient Antenatal Fetal Surveillance.Obstet Gynecol.2021;137(6):e177-e197.doi:10.1097/AOG.0000000000004407
+1.American College of Obstetricians and Gynecologists (ACOG): ACOG Committee Opinion, Number 828: Indications for Outpatient Antenatal Fetal Surveillance.Obstet Gynecol.2021;137(6):e177-e197.doi:10.1097/AOG.0000000000004407
+2.American College of Obstetricians and Gynecologists’ Committee on Obstetric Practice, Society for Maternal-Fetal Medicine: Medically indicated late-preterm and early-term deliveries: ACOG Committee Opinion, Number 831.Obstet Gynecol138 (1):e35–e39, 2021.doi: 10.1097/AOG.0000000000004447
+2.American College of Obstetricians and Gynecologists’ Committee on Obstetric Practice, Society for Maternal-Fetal Medicine: Medically indicated late-preterm and early-term deliveries: ACOG Committee Opinion, Number 831.Obstet Gynecol138 (1):e35–e39, 2021.doi: 10.1097/AOG.0000000000004447
+羊水过少是指羊水体积小于相应胎龄的预期值。
+羊水过少是指羊水体积小于相应胎龄的预期值。
+羊水过少可由子宫胎盘功能不全，药物，胎儿畸形，或胎膜早破等原因引起。
+羊水过少可由子宫胎盘功能不全，药物，胎儿畸形，或胎膜早破等原因引起。
+它可以导致一些胎儿问题（如生长受限，肢体挛缩，死胎，肺成熟延迟，不能耐受分娩）。
+它可以导致一些胎儿问题（如生长受限，肢体挛缩，死胎，肺成熟延迟，不能耐受分娩）。
+如果怀疑羊水过少，应确定羊水指数或单个最深羊水池，并检测可能的原因（包括进行全面的超声评估）。
+如果怀疑羊水过少，应确定羊水指数或单个最深羊水池，并检测可能的原因（包括进行全面的超声评估）。
+入院监测，或作为门诊治疗时，监测 AFI 或 SDP，并每周进行一次或两次无应激试验或生物物理评分。每 2 至 4 周使用超声波测量胎儿生长情况。
+入院监测，或作为门诊治疗时，监测 AFI 或 SDP，并每周进行一次或两次无应激试验或生物物理评分。每 2 至 4 周使用超声波测量胎儿生长情况。
+大多数专家建议早在孕期 36 至 37 6/7 周时就进行分娩，或者如果诊断时已达 ≥ 37 周，则在诊断时进行分娩（尽管分娩的最佳时间因临床情况而异）。
+大多数专家建议早在孕期 36 至 37 6/7 周时就进行分娩，或者如果诊断时已达 ≥ 37 周，则在诊断时进行分娩（尽管分娩的最佳时间因临床情况而异）。

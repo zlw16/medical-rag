@@ -1,0 +1,39 @@
+标题：裂头绦虫病（鱼绦虫感染）
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/cestodes-tapeworms/diphyllobothriasis-fish-tapeworm-infection
+============================================================
+
+疟原虫是最常见且体型最大的人类寄生虫之一（通常体长2至15米）。阔节裂头绦虫和其他双叶槽科物种具有水生生命周期。在淡水中，人类粪便中的阔节裂头绦虫虫卵会孵化成自由游动的幼虫，随后被微小甲壳动物吞食。微小甲壳动物再被鱼摄入，幼虫在鱼类体内变为可感染状态。其他几种Dibothriocephalus（双槽头绦虫）属和Adenocephalus pacificus（太平洋腺头绦虫）在摄入生鱼后也可以感染人类，但它们并不常见。
+阔节裂头绦虫病全球范围内发生，估计多达2000万人可能被感染。美国和北欧的感染主要发生在食用生食或未煮熟淡水鱼的人群中。随着现有污水处理的普及，感染已不那么常见。
+
+【阔节裂头绦虫病的症状和体征】
+感染通常是无症状的，但有时也可见轻度胃肠道症状(如腹部不适、腹泻、体重减轻)。鱼绦虫可摄取食物中的维生素B12，有时会导致维生素B12缺乏和巨幼细胞性贫血。极少数情况下，重度感染会因节片（绦虫节段）的迁移导致肠梗阻或胆囊疾病。
+
+【阔节裂头绦虫病的诊断】
+显微镜检查粪便中的虫卵及节片。
+显微镜检查粪便中的虫卵及节片。
+全血细胞计数
+全血细胞计数
+阔节裂头绦虫病的诊断主要通过在粪便中找到有特征性的有盖虫卵或宽节片来明确。血常规检查用以排查巨幼细胞性贫血。分子检测可进行物种鉴定，但大多数诊断通过粪便样本的显微镜检查进行。
+
+【阔节裂头绦虫病的治疗】
+也可选择氯硝柳胺（美国尚无）
+也可选择氯硝柳胺（美国尚无）
+阔节裂头绦虫病的治疗是单次口服吡喹酮 (1)。或者，给予单剂量的氯硝柳胺（在美国未上市）。治疗结束后一个月应重复粪便样本，以验证治愈情况。
+可能需用维生素B12以纠正巨幼细胞性贫血。
+
+【治疗参考文献】
+1.Braseth AL, Elliott DE, Ince MN.Parasitic Infections of the Gastrointestinal Track and Liver.Gastroenterol Clin North Am.50(2):361-381.2021.doi:10.1016/j.gtc.2021.02.011
+1.Braseth AL, Elliott DE, Ince MN.Parasitic Infections of the Gastrointestinal Track and Liver.Gastroenterol Clin North Am.50(2):361-381.2021.doi:10.1016/j.gtc.2021.02.011
+
+【阔节裂头绦虫病的预防】
+为预防裂头绦虫病，请确保将淡水鱼彻底煮熟至内部温度≥63°C (≥145°F) 或在建议的温度下冷冻以杀死鱼绦虫。关于冻存，建议包括以下内容 (1)：
+在-20°C（-4°F）或以下冻结7天（总时间）
+在-20°C（-4°F）或以下冻结7天（总时间）
+在-35℃（-31°F）或更低温度冷冻至固体，然后在-35℃（-31°F）或更低温度下储存15小时。
+在-35℃（-31°F）或更低温度冷冻至固体，然后在-35℃（-31°F）或更低温度下储存15小时。
+在-35℃（-31°F）或更低温度下冷冻至固体，并在-20℃（-4°F）或更低温度下储存24小时
+在-35℃（-31°F）或更低温度下冷冻至固体，并在-20℃（-4°F）或更低温度下储存24小时
+
+【预防参考文献】
+1.Food and Drug Administration (FDA) Center for Food Safety and Applied Nutrition.Parasites.In:Fish and Fishery Products Hazards and Controls Guidance.2022:91-98.
+1.Food and Drug Administration (FDA) Center for Food Safety and Applied Nutrition.Parasites.In:Fish and Fishery Products Hazards and Controls Guidance.2022:91-98.

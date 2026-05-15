@@ -1,0 +1,96 @@
+标题：胆囊及胆管肿瘤
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/gallbladder-and-bile-duct-disorders/tumors-of-the-gallbladder-and-bile-ducts
+============================================================
+
+（参见胆管功能概述。）
+胆管癌及其他胆道肿瘤较为罕见（全球发病率低于每10万人1～3例，在肝吸虫流行地区则明显升高），但通常为恶性肿瘤（1, 2, 3）。胆管癌主要发生于肝外胆管：约60%～70%位于肝门区（即Klatskin瘤），约25%位于远端肝外胆管，其余发生于肝内胆管（4）。已确立的危险因素包括原发性硬化性胆管炎、酗酒、肝吸虫感染、胆总管囊肿、肝硬化及病毒性肝炎。
+胆囊癌亦属少见，其全球发病率约为每10万人1.4例（5）。该病在老年患者、女性、伴有胆结石者及美洲印第安人中更为常见。由慢性胆囊炎导致的广泛性胆囊钙化（瓷样胆囊）与胆囊癌的相关性较弱（6）。多数（约69%至>95%）患者同时合并胆结石（7, 8）。预后不良，总体中位生存期约为6个月，5年生存率仅为5%（9）。 早期发现可以治愈（如胆囊切除术时偶然发现）。
+胆囊息肉（gallbladder polyps）是无症状的胆囊腔内良性黏膜突起，它们存在于约5%的成年人中（10）。大多数直径<10mm，由胆固醇酯和甘油三酯组成；这种息肉的形成被称为胆固 醇贮积症。对于胆囊息肉直径<10 mm的患者，应根据其危险因素及息肉大小，定期进行超声监测当息肉>10mm时，有时建议行胆囊切除术。
+其他少见的良性息肉包括腺瘤（引起腺肌瘤病）和炎性息肉。
+
+【参考文献】
+1.Banales JM, Cardinale V, Carpino G, et al.Expert consensus document: Cholangiocarcinoma: current knowledge and future perspectives consensus statement from the European Network for the Study of Cholangiocarcinoma (ENS-CCA).Nat Rev Gastroenterol Hepatol.2016;13(5):261-280. doi: 10.1038/nrgastro.2016.51
+1.Banales JM, Cardinale V, Carpino G, et al.Expert consensus document: Cholangiocarcinoma: current knowledge and future perspectives consensus statement from the European Network for the Study of Cholangiocarcinoma (ENS-CCA).Nat Rev Gastroenterol Hepatol.2016;13(5):261-280. doi: 10.1038/nrgastro.2016.51
+2.Bowlus CL, Arrivé L, Bergquist A, et al.AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma.Hepatology.2023;77(2):659-702.doi:10.1002/hep.32771
+2.Bowlus CL, Arrivé L, Bergquist A, et al.AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma.Hepatology.2023;77(2):659-702.doi:10.1002/hep.32771
+3.Lauterio A, De Carlis R, Centonze L, et al.Current Surgical Management of Peri-Hilar and Intra-Hepatic Cholangiocarcinoma.Cancers(Basel).2021;13(15):3657.doi:10.3390/cancers13153657
+3.Lauterio A, De Carlis R, Centonze L, et al.Current Surgical Management of Peri-Hilar and Intra-Hepatic Cholangiocarcinoma.Cancers(Basel).2021;13(15):3657.doi:10.3390/cancers13153657
+4.Buckholz AP, Brown RS Jr.Cholangiocarcinoma: Diagnosis and Management.Clin Liver Dis.2020;24(3):421-436.doi:10.1016/j.cld.2020.04.005
+4.Buckholz AP, Brown RS Jr.Cholangiocarcinoma: Diagnosis and Management.Clin Liver Dis.2020;24(3):421-436.doi:10.1016/j.cld.2020.04.005
+5.Vuthaluru S, Sharma P, Chowdhury S, Are C.Global epidemiological trends and variations in the burden of gallbladder cancer.J Surg Oncol.2023;128(6):980-988.doi:10.1002/jso.27450
+5.Vuthaluru S, Sharma P, Chowdhury S, Are C.Global epidemiological trends and variations in the burden of gallbladder cancer.J Surg Oncol.2023;128(6):980-988.doi:10.1002/jso.27450
+6.Schnelldorfer T.Porcelain gallbladder: a benign process or concern for malignancy?.J Gastrointest Surg.2013;17(6):1161-1168.doi:10.1007/s11605-013-2170-0
+6.Schnelldorfer T.Porcelain gallbladder: a benign process or concern for malignancy?.J Gastrointest Surg.2013;17(6):1161-1168.doi:10.1007/s11605-013-2170-0
+7.Hsing AW, Gao YT, Han TQ, et al.Gallstones and the risk of biliary tract cancer: a population-based study in China.Br J Cancer.2007;97(11):1577-1582.doi:10.1038/sj.bjc.6604047
+7.Hsing AW, Gao YT, Han TQ, et al.Gallstones and the risk of biliary tract cancer: a population-based study in China.Br J Cancer.2007;97(11):1577-1582.doi:10.1038/sj.bjc.6604047
+8.Cariati A, Piromalli E, Cetta F.Gallbladder cancers: associated conditions, histological types, prognosis, and prevention.Eur J Gastroenterol Hepatol.2014;26(5):562-569.doi:10.1097/MEG.0000000000000074
+8.Cariati A, Piromalli E, Cetta F.Gallbladder cancers: associated conditions, histological types, prognosis, and prevention.Eur J Gastroenterol Hepatol.2014;26(5):562-569.doi:10.1097/MEG.0000000000000074
+9.Hundal R, Shaffer EA.Gallbladder cancer: epidemiology and outcome.Clin Epidemiol.2014;6:99-109.doi:10.2147/CLEP.S37357
+9.Hundal R, Shaffer EA.Gallbladder cancer: epidemiology and outcome.Clin Epidemiol.2014;6:99-109.doi:10.2147/CLEP.S37357
+10.Babu BI, Dennison AR, Garcea G.Management and diagnosis of gallbladder polyps: a systematic review.Langenbecks Arch Surg.2015;400(4):455-462.doi:10.1007/s00423-015-1302-2
+10.Babu BI, Dennison AR, Garcea G.Management and diagnosis of gallbladder polyps: a systematic review.Langenbecks Arch Surg.2015;400(4):455-462.doi:10.1007/s00423-015-1302-2
+
+【胆囊及胆管肿瘤的症状和体征】
+多数胆管癌患者表现为瘙痒及无痛性梗阻性黄疸。早期肝门部肿瘤可致腹部隐痛、食欲减退和体重减轻。其他特点有乏力、陶土样便、可触及的肿块、肝大或胆囊增大（Courvoisier征，见于远端胆管癌）。腹痛可类似于胆绞痛（反映胆管梗阻），或持续性进行性加重。败血症（继发于急性胆管炎）虽然不常见，但可能由内窥镜逆行胰胆管造影 诱发。
+转移性疾病和非癌性胆道肿瘤也可能导致胆道梗阻，从而引起症状。
+胆囊癌的表现可从为缓解胆绞痛而行胆囊切除术时的偶然发现，到胆石症，再到晚期疾病，表现为持续疼痛、体重减轻、腹部肿块或梗阻性黄疸。
+大多数胆囊息肉没有症状。
+
+【胆囊及胆管肿瘤的诊断】
+有时进行实验室检查
+有时进行实验室检查
+超声检查（有时是内窥镜检查），然后磁共振胰胆管造影(MRCP) 或 CT 胆管造影
+超声检查（有时是内窥镜检查），然后磁共振胰胆管造影(MRCP) 或 CT 胆管造影
+有时内镜逆行胰胆管造影（ERCP）或组织取样
+有时内镜逆行胰胆管造影（ERCP）或组织取样
+当出现原因不明的肝外胆道梗阻时，应怀疑胆管癌。胆管癌和胆囊癌尤其怀疑发生于原发性硬化性胆管炎(PSC)或溃疡性结肠炎患者。在原发性硬化性胆管炎患者，应定期监测血清癌胚抗原（CEA）和糖类抗原（CA）19-9水平以发现胆管癌 (1)。实验室检查可反映胆汁淤积程度。
+胆管癌的诊断最终需要组织活检，但可根据超声（或内镜超声）进行怀疑。有时进行CT或MRI检查，可能提供额外信息，特别是对于胆囊癌。通常随后进行MRCP或CT胆管造影（见肝脏和胆囊影像学检查）。
+对于发生在胆总管或有时位于左右肝管的胆管癌，ERCP不仅可用于检测肿瘤，还可通过刷取细胞学样本以获取组织学诊断，从而有时可免除超声或CT引导下穿刺活检。增强CT有助于分期。
+在胆管癌中，常需通过开腹探查以明确病变范围，以指导治疗方案。
+对于提示胆结石疾病的症状，超声可能导致对胆囊癌的初步怀疑或诊断，随后通过CT或MRI进行分期(2)。进行活检或细针穿刺以确定恶性肿瘤的存在。如果转移性疾病是最初的临床表现，活检或细针穿刺转移性疾病可能产生初步诊断。
+
+【诊断参考】
+1.Buckholz AP, Brown RS Jr.Cholangiocarcinoma: Diagnosis and Management.Clin Liver Dis.2020;24(3):421-436.doi:10.1016/j.cld.2020.04.005
+1.Buckholz AP, Brown RS Jr.Cholangiocarcinoma: Diagnosis and Management.Clin Liver Dis.2020;24(3):421-436.doi:10.1016/j.cld.2020.04.005
+2.Roa JC, García P, Kapoor VK, et al.Gallbladder cancer.Nat Rev Dis Primers.2022;8(1):69.doi:10.1038/s41572-022-00398-y
+2.Roa JC, García P, Kapoor VK, et al.Gallbladder cancer.Nat Rev Dis Primers.2022;8(1):69.doi:10.1038/s41572-022-00398-y
+
+【胆囊及胆管肿瘤的治疗】
+对于胆管癌，有时采用手术切除，有时结合化疗
+对于胆管癌，有时采用手术切除，有时结合化疗
+对于不可切除的胆管癌，可行支架置入术（或其他旁路手术），必要时可考虑部分切除。
+对于不可切除的胆管癌，可行支架置入术（或其他旁路手术），必要时可考虑部分切除。
+胆囊癌，一般对症治疗
+胆囊癌，一般对症治疗
+对于直径大于10毫米的胆囊息肉，建议行胆囊切除术
+对于直径大于10毫米的胆囊息肉，建议行胆囊切除术
+对于胆管癌，手术切除是唯一可能治愈局部疾病的治疗方法，但许多患者不适合手术。即使切除后预后仍不良（肝内疾病切除后5年生存率为40%至60%，肝门部疾病为30%至50%，远端胆管癌为27%）(1, 2)。
+肝内疾病的手术切除包括部分肝切除术。肝门部胆管癌的手术包括肝叶切除、胆管切除及肝空肠吻合术。
+远端胆管癌的手术治疗需行胰十二指肠切除术（惠普尔手术）。新辅助化疗可用于提高可切除性。对于可切除胆管癌引起的肝外狭窄，术前胆道引流适用于梗阻性黄疸和胆管炎（3）。辅助化疗被建议用于所有类型的胆管癌。
+对于不适合手术的患者（例如影像学显示已发生扩散的肝门部胆管癌患者），通过放置支架或手术绕过梗阻可缓解瘙痒、黄疸和乏力等症状（2）。支架置入可通过经皮经肝胆管造影术或内镜逆行胰胆管造影术（ERCP）实施。远端胆管癌者则可内镜下ERCP放置支架。
+如果胆管癌出现局部，手术探查确定肝门切除或胰十二指肠切除术的可切除性。
+肝移植用于局部肝门部胆管癌，在新辅助化疗后，由部分移植中心提供（1）。
+胆囊癌的治疗是个体化的，选项包括切除术（常为扩大胆囊切除术，涉及切除胆囊、部分肝脏和区域淋巴结）、化疗或靶向免疫治疗（4）。
+胆囊息肉在大于10毫米时采用胆囊切除术治疗（5）。
+
+【治疗参考文献】
+1.Buckholz AP, Brown RS Jr.Cholangiocarcinoma: Diagnosis and Management.Clin Liver Dis.2020;24(3):421-436.doi:10.1016/j.cld.2020.04.005
+1.Buckholz AP, Brown RS Jr.Cholangiocarcinoma: Diagnosis and Management.Clin Liver Dis.2020;24(3):421-436.doi:10.1016/j.cld.2020.04.005
+2.Bowlus CL, Arrivé L, Bergquist A, et al.AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma.Hepatology.2023;77(2):659-702.doi:10.1002/hep.32771
+2.Bowlus CL, Arrivé L, Bergquist A, et al.AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma.Hepatology.2023;77(2):659-702.doi:10.1002/hep.32771
+3.Elmunzer BJ, Maranki JL, Gómez V, et al.ACG Clinical Guideline: Diagnosis and Management of Biliary Strictures.Am J Gastroenterol.2023;118(3):405-426.doi:10.14309/ajg.0000000000002190
+3.Elmunzer BJ, Maranki JL, Gómez V, et al.ACG Clinical Guideline: Diagnosis and Management of Biliary Strictures.Am J Gastroenterol.2023;118(3):405-426.doi:10.14309/ajg.0000000000002190
+4.Roa JC, García P, Kapoor VK, et al.Gallbladder cancer.Nat Rev Dis Primers.2022;8(1):69.doi:10.1038/s41572-022-00398-y
+4.Roa JC, García P, Kapoor VK, et al.Gallbladder cancer.Nat Rev Dis Primers.2022;8(1):69.doi:10.1038/s41572-022-00398-y
+5.Babu BI, Dennison AR, Garcea G.Management and diagnosis of gallbladder polyps: a systematic review.Langenbecks Arch Surg.2015;400(4):455-462.doi:10.1007/s00423-015-1302-2
+5.Babu BI, Dennison AR, Garcea G.Management and diagnosis of gallbladder polyps: a systematic review.Langenbecks Arch Surg.2015;400(4):455-462.doi:10.1007/s00423-015-1302-2
+胆管癌（通常为胆管癌或胆囊癌）并不常见。
+胆管癌（通常为胆管癌或胆囊癌）并不常见。
+如果患者有不明原因的肝外胆道梗阻或腹部肿块，应怀疑胆管癌。
+如果患者有不明原因的肝外胆道梗阻或腹部肿块，应怀疑胆管癌。
+癌症的诊断应以影像学检查为主，首选超声检查。
+癌症的诊断应以影像学检查为主，首选超声检查。
+对于胆管癌，疾病局限时提供切除术和辅助化疗，不可切除胆管癌中则采用支架置入或旁路梗阻。
+对于胆管癌，疾病局限时提供切除术和辅助化疗，不可切除胆管癌中则采用支架置入或旁路梗阻。
+考虑对选定的肝门部胆管癌患者进行肝移植。
+考虑对选定的肝门部胆管癌患者进行肝移植。

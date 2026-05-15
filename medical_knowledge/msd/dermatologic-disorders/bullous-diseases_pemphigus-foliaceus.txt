@@ -1,0 +1,46 @@
+标题：增殖型天疱疮
+来源：https://www.msdmanuals.cn/professional/dermatologic-disorders/bullous-diseases/pemphigus-foliaceus
+============================================================
+
+大疱是直径≥10mm高出皮面的、充满液体的水疱。
+增殖性天疱疮通常发生在中年患者，男女发病相同。增殖性天疱疮，fogo selvagem多发生于年轻的成年人和儿童，特别是在南美洲。使用青霉胺，硝苯地平或卡托普利后可能出现增殖性天疱疮。
+红斑性天疱疮是一种局部发于面颊的叶状天疱疮，具有寻常型天疱疮和系统性红斑狼疮的免疫学特征(IgG和C3在角化细胞表面和基底膜区沉积，伴有循环抗核抗体);然而，患者很少同时被诊断为两种疾病。
+天疱疮是由抗桥粒糖蛋白1（Dsg1）的IgG自身抗体介导的，桥粒糖蛋白1是一种跨膜糖蛋白钙黏着蛋白，对细胞粘附和角质形成细胞之间的信号传导起重要作用（1)；（见图天疱疮和大疱性类天疱疮的皮肤分裂水平）。
+
+【天疱疮和大疱性类天疱疮的皮肤分裂水平】
+天疱疮和大疱性类天疱疮的皮肤分裂水平
+落叶型天疱疮水疱在表皮的浅层形成。寻常型天疱疮水疱可在任何表皮水平形成，但通常在表皮的下部形成。 表皮下形成大疱性类天疱疮水疱（基底膜区的透明层）。 在此图中，基底膜区被不成比例地扩大以显示其各层。
+
+【参考文献】
+1.Russo I, De Siena FP, Saponeri A, et al: Evaluation of anti-desmoglein-1 and anti-desmoglein-3 autoantibody titers in pemphigus patients at the time of the initial diagnosis and after clinical remission.Medicine (Baltimore)96(46):e8801, 2017.doi: 10.1097/MD.0000000000008801
+1.Russo I, De Siena FP, Saponeri A, et al: Evaluation of anti-desmoglein-1 and anti-desmoglein-3 autoantibody titers in pemphigus patients at the time of the initial diagnosis and after clinical remission.Medicine (Baltimore)96(46):e8801, 2017.doi: 10.1097/MD.0000000000008801
+
+【增殖型天疱疮的症状和体征】
+原发病灶是松弛水疱或大疱，但由于表皮松解于浅层，皮损易破裂，所以完整的大疱或水疱很少能被检查到。相反，边界清楚、散在分布、结痂性的红斑常见于面部，头皮和躯干上部。粘膜受累罕见。皮损可具有烧灼感和疼痛，但患者通常不是很严重。红斑型天疱疮往往会影响双侧颧骨和面颊部。
+该图像显示了由落叶天疱疮引起的鳞屑、结痂、表面病变。
+该图像显示了天疱疮的界限清楚的、分散的、结痂的、红斑病变。
+
+【落叶型天疱疮的诊断】
+皮肤活检和免疫荧光
+皮肤活检和免疫荧光
+增殖性天疱疮的诊断依靠皮损和（病灶周围）未受累的邻近皮肤，通过直接免疫荧光可检测出角质细胞表面的IgG抗体。自身抗体桥粒芯蛋白1，可通过直接免疫荧光，间接免疫荧光及酶联免疫吸附测定（ELISA）来检测。ELISA 的灵敏度 > 95% (1）。
+
+【诊断参考文献】
+1.Joly P, Horvath B, Patsatsi Α, et al: Updated S2K guidelines on the management of pemphigus vulgaris and foliaceus initiated by the European Academy of Dermatology and Venereology (EADV).J Eur Acad Dermatol Venereol34(9):1900-1913,2020.doi: 10.1111/jdv.16752
+1.Joly P, Horvath B, Patsatsi Α, et al: Updated S2K guidelines on the management of pemphigus vulgaris and foliaceus initiated by the European Academy of Dermatology and Venereology (EADV).J Eur Acad Dermatol Venereol34(9):1900-1913,2020.doi: 10.1111/jdv.16752
+
+【落叶型天疱疮的治疗】
+局部或全身应用糖皮质激素
+局部或全身应用糖皮质激素
+如果疾病是局限性的并不严重，外用高效糖皮质激素非常有效 (1)。更广泛或严重的情况下需要系统应用糖皮质激素，有时还需其他免疫抑制剂，如利妥昔单抗，血浆置换，甲氨喋呤，霉酚酸酯，或硫唑嘌呤。也已使用局部钙调神经磷酸酶抑制剂。
+有限的研究表明口服四环素500mg qid或多西环素100mg bid联合烟酰胺500mg tid联合治疗对部分患者有效。
+
+【治疗参考文献】
+1.Joly P, Horvath B, Patsatsi Α, et al: Updated S2K guidelines on the management of pemphigus vulgaris and foliaceus initiated by the European Academy of Dermatology and Venereology (EADV).J Eur Acad Dermatol Venereol34(9):1900-1913,2020.doi: 10.1111/jdv.16752
+1.Joly P, Horvath B, Patsatsi Α, et al: Updated S2K guidelines on the management of pemphigus vulgaris and foliaceus initiated by the European Academy of Dermatology and Venereology (EADV).J Eur Acad Dermatol Venereol34(9):1900-1913,2020.doi: 10.1111/jdv.16752
+落叶型天疱疮是一种导致松弛性大疱性皮肤病变的自身免疫性疾病。
+落叶型天疱疮是一种导致松弛性大疱性皮肤病变的自身免疫性疾病。
+通过皮肤活检和直接免疫荧光进行诊断。
+通过皮肤活检和直接免疫荧光进行诊断。
+治疗为局部或全身应用皮质激素。
+治疗为局部或全身应用皮质激素。

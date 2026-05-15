@@ -1,0 +1,62 @@
+标题：进行性多灶性白质脑病 (PML)
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/brain-infections/progressive-multifocal-leukoencephalopathy-pml
+============================================================
+
+(参见颅内感染介绍。）
+
+【PML的病因】
+进行性多灶性白质脑病由JC病毒再激活所致。JC病毒是一种普遍存在的乳头多瘤空泡病毒，多在儿童期间感染，而后潜伏于肾脏或其他部位（如单核细胞、中枢神经系统[CNS]）。再激活的病毒对少突胶质细胞有亲和性。
+大多数发生PML的患者会由于以下原因降低细胞介导的免疫力：
+终末期 HIV 感染（最常见的风险因素）
+终末期 HIV 感染（最常见的风险因素）
+网状内皮系统疾病（例如,白血病,淋巴瘤)
+网状内皮系统疾病（例如,白血病,淋巴瘤)
+其他情况（例如,Wiskott-Aldrich综合征,器官移植)
+其他情况（例如,Wiskott-Aldrich综合征,器官移植)
+AIDS病人的发病风险随HIV病毒滴度的上升而增加，由于有效抗病毒药的广泛使用，进行性多灶性白质脑病 (PML)的发病率已有所降低。
+PML越来越多的表现为免疫调节治疗的并发症。 最常涉及的药物包括
+单克隆抗体那他珠单抗
+单克隆抗体那他珠单抗
+抗体-药物偶联物 brentuximab vedotin
+抗体-药物偶联物 brentuximab vedotin
+但在服用其他药物（如利妥昔单抗、芬戈莫德、富马酸二甲酯）的患者中也发生了 PML。测定血清JC病毒抗体（JC病毒指数）可能有助于评估服用那他珠单抗患者的PML风险；水平越高，风险越高。
+
+【PML的症状和体征】
+行为笨拙可能是首发症状。 偏瘫是最常见的症状。失语、构音障碍和偏盲也较常见。多灶性皮质损害导致2/3病人出现认知受损。感觉、小脑和脑干功能受损症状也可能存在。
+头痛和惊厥发作罕见，最常发生于终末期HIV感染患者。
+病情逐渐进展，在出现症状后1～9个月死亡。
+
+【PML的诊断】
+JC 病毒 DNA 的脑脊液 (CSF) 检测
+JC 病毒 DNA 的脑脊液 (CSF) 检测
+出现无法解释的进展性脑功能损害，尤其是细胞免疫抑制的患者应怀疑进行性多灶性白质脑病。
+通过MRI增强扫描进行PML的初步诊断，其在T2加权像上显示单个或多个白质病灶。注射造影剂后，有5%～15％的病灶周围轻度强化。CT通常显示为低密度、非增强的病灶，但敏感性远不及MRI。
+该T2加权MRI成像显示多个白质区域改变。
+Image provided by John E.Greenlee, MD.
+CSF可用于JC病毒DNA的PCR检测，结果阳性结合相应的影像学检查是本病的特异诊断。常规的CSF检测通常是正常的，
+血清学检测对诊断没有帮助。立体定向脑组织活检可提供明确的诊断，但很少是必要的。
+
+【PML的治疗】
+支持性治疗
+支持性治疗
+进行性多灶性白质脑病的治疗主要是支持性的。
+研究显示，西多福韦和其他抗病毒药无益处。终末期HIV感染患者使用抗逆转录病毒治疗（ART）可改善PML的预后，将1年生存率从10%提高至50%。然而，积极的抗病毒治疗可能引起免疫重建炎症反应(IRIS)。 在IRIS中，正在恢复的免疫系统对JC病毒产生强烈的炎症反应，从而使症状恶化。IRIS发生时，影像学可见新的强化病灶及明显脑水肿。激素可能有效。根据终末期HIV感染和免疫重建炎症综合征（IRIS）的严重程度，临床医生可以决定停止ART。
+免疫抑制剂停药可能会引起临床改善。然而，停止服用这些药物的患者也存在IRIS进展的风险。
+如果患者服用那他珠单抗或其它免疫调节功能药物时，PML出现进展，该药物应停止，并行血浆置换以除去循环残留药物。
+有限的数据表明，使用程序性细胞死亡 1 (PD-1) 抑制剂 pembrolizumab 或 nivolumab（免疫检查点抑制剂）治疗可能会降低 CSF 中的病毒载量，增加抗病毒细胞免疫活性，并导致临床改善(1,2）。
+
+【治疗参考文献】
+1.Cortese I, Muranski P, Enose-Akahata Y, et al: Pembrolizumab treatment for progressive multifocal leukoencephalopathy.N Engl J Med380(17):1597–1605, 2019.doi: 10.1056/NEJMoa1815039
+1.Cortese I, Muranski P, Enose-Akahata Y, et al: Pembrolizumab treatment for progressive multifocal leukoencephalopathy.N Engl J Med380(17):1597–1605, 2019.doi: 10.1056/NEJMoa1815039
+2.Lambert N, El Moussaoui M, Maquet P: Immune checkpoint inhibitors for progressive multifocal leukoencephalopathy: Identifying relevant outcome factors.Eur J Neurol2021 28(11):3814–3819, 2021.doi: 10.1111/ene.15021
+2.Lambert N, El Moussaoui M, Maquet P: Immune checkpoint inhibitors for progressive multifocal leukoencephalopathy: Identifying relevant outcome factors.Eur J Neurol2021 28(11):3814–3819, 2021.doi: 10.1111/ene.15021
+普遍存在的JC病毒再激活，通常是由于细胞免疫抑制，可导致PML。
+普遍存在的JC病毒再激活，通常是由于细胞免疫抑制，可导致PML。
+PML通常会导致笨拙、偏瘫、失语、构音障碍、偏盲和认知功能障碍。
+PML通常会导致笨拙、偏瘫、失语、构音障碍、偏盲和认知功能障碍。
+对细胞免疫抑制和不明原因的进行性脑功能障碍的患者行MRI检查和CSF中JC病毒的DNA检测。
+对细胞免疫抑制和不明原因的进行性脑功能障碍的患者行MRI检查和CSF中JC病毒的DNA检测。
+以支持性治疗和控制潜在疾病为主（如停用那他珠单抗或其它免疫调节功能药物，或在AIDS患者中启动抗逆转录病毒治疗，并密切关注免疫重建炎症反应综合征进展）。
+以支持性治疗和控制潜在疾病为主（如停用那他珠单抗或其它免疫调节功能药物，或在AIDS患者中启动抗逆转录病毒治疗，并密切关注免疫重建炎症反应综合征进展）。
+有限的数据表明，使用 pembrolizumab 或 nivolumab 治疗可能会降低 CSF 中的病毒载量，增加抗病毒细胞免疫活性，并导致临床改善。
+有限的数据表明，使用 pembrolizumab 或 nivolumab 治疗可能会降低 CSF 中的病毒载量，增加抗病毒细胞免疫活性，并导致临床改善。

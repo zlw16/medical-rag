@@ -1,0 +1,226 @@
+标题：（DVT）深静脉血栓形成
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/peripheral-venous-disorders/deep-venous-thrombosis-dvt
+============================================================
+
+DVT最常发生于下肢或骨盆的深静脉(见图腿部的深静脉)。DVT 在上肢深静脉中较少见（<5% 的 DVT 病例）（1）。
+
+【腿部深静脉】
+腿部深静脉
+下肢深静脉血栓更可能引起肺栓塞（PE），可能是因为血栓负荷较高。大约90%的近端深静脉血栓累及股静脉或腘静脉，10%向更近端延伸累及髂股静脉（2）。远端静脉或小腿静脉的下肢深静脉血栓通常累及胫后静脉或腓静脉。远端或小腿静脉深静脉血栓不太可能成为大栓塞的来源，但可向大腿近端静脉蔓延，从而引起肺栓塞。约50%的DVT患者有隐匿的肺动脉栓塞（PE），至少30%的PE患者有明显的DVT (3)。
+
+【经验与提示】
+经验与提示
+约50%的DVT病人有隐匿的肺动脉栓塞（PE）。
+约50%的DVT病人有隐匿的肺动脉栓塞（PE）。
+
+【参考文献】
+1.Yamashita Y, Morimoto T, Amano H, et al.Deep vein thrombosis in upper extremities: Clinical characteristics, management strategies and long-term outcomes from the COMMAND VTE Registry.Thromb Res2019;177:1-9.doi:10.1016/j.thromres.2019.02.029
+1.Yamashita Y, Morimoto T, Amano H, et al.Deep vein thrombosis in upper extremities: Clinical characteristics, management strategies and long-term outcomes from the COMMAND VTE Registry.Thromb Res2019;177:1-9.doi:10.1016/j.thromres.2019.02.029
+2.Douketis JD, Kearon C, Bates S, Duku EK, Ginsberg JS.Risk of fatal pulmonary embolism in patients with treated venous thromboembolism.JAMA1998;279(6):458-462.doi:10.1001/jama.279.6.458
+2.Douketis JD, Kearon C, Bates S, Duku EK, Ginsberg JS.Risk of fatal pulmonary embolism in patients with treated venous thromboembolism.JAMA1998;279(6):458-462.doi:10.1001/jama.279.6.458
+3.Stevens SM, Woller SC, Kreuziger LB, et al.Antithrombotic Therapy for VTE Disease: Second Update of the CHEST Guideline and Expert Panel Report [published correction appears in Chest. 2022 Jul;162(1):269].Chest2021;160(6):e545-e608.doi:10.1016/j.chest.2021.07.055
+3.Stevens SM, Woller SC, Kreuziger LB, et al.Antithrombotic Therapy for VTE Disease: Second Update of the CHEST Guideline and Expert Panel Report [published correction appears in Chest. 2022 Jul;162(1):269].Chest2021;160(6):e545-e608.doi:10.1016/j.chest.2021.07.055
+
+【深静脉血栓形成的病因学】
+许多因素可能导致 DVT（见表深静脉血栓形成和肺栓塞的危险因素）。癌症是DVT的危险因素之一，尤其在老年患者及有反复血栓的患者中。这种关联在肺癌、卵巢癌、胃癌、脑癌或胰腺癌中最为明显，其中 10% 至 15% 的患者可能会发生静脉血栓栓塞症（1）。在明显特发性深静脉血栓患者中可能存在隐匿癌症，但不推荐对患者进行广泛的肿瘤检查，除非患者有主要癌症风险因素或提示隐匿癌症的症状。
+
+【病因参考文献】
+1.Farge D, Frere C, Connors JM, et al.2022 international clinical practice guidelines for the treatment and prophylaxis of venous thromboembolism in patients with cancer, including patients with COVID-19.Lancet Oncol2022;23(7):e334-e347.doi:10.1016/S1470-2045(22)00160-7
+1.Farge D, Frere C, Connors JM, et al.2022 international clinical practice guidelines for the treatment and prophylaxis of venous thromboembolism in patients with cancer, including patients with COVID-19.Lancet Oncol2022;23(7):e334-e347.doi:10.1016/S1470-2045(22)00160-7
+
+【深静脉血栓形成的病理生理学】
+下肢DVT最常由以下因素引起：
+静脉回流受损（例如在制动患者中）
+静脉回流受损（例如在制动患者中）
+内皮损伤或功能障碍（例如腿部骨折后）
+内皮损伤或功能障碍（例如腿部骨折后）
+高凝状态
+高凝状态
+上肢DVT最常由以下因素引起：
+由中心静脉导管、起搏器或注射物质滥用引起的内皮损伤。
+由中心静脉导管、起搏器或注射物质滥用引起的内皮损伤。
+上肢DVT偶尔表现为上腔静脉（SVC）综合征（上腔静脉肿瘤压迫或侵犯上腔静脉，引起面部肿胀、颈静脉扩张和面部潮红等症状）的一部分；或由高凝状态、胸廓出口部锁骨下静脉受压所引起 (1)。压迫可能是由于正常的或附加的第一肋骨或纤维束带（胸廓出口综合征）所致，或在臂部用力活动时发生（用力性血栓形成，或罕见的Paget-Schroetter综合征）。
+深静脉血栓形成通常开始于静脉瓣的瓣尖部。血栓由凝血酶、纤维素和红细胞伴有相对少量的血小板（红色血栓）所组成；如果未经治疗，血栓可能向近侧播散或随血流至肺部。
+DVT 的常见并发症包括
+慢性静脉功能不全
+慢性静脉功能不全
+血栓后综合征
+血栓后综合征
+较不常见的是，急性大面积深静脉血栓导致股白肿或股青肿，这两种情况除非及时诊断和治疗，否则可能引起静脉性坏疽。
+股白肿作为妊娠时DVT的罕见并发症，腿部转变成乳白色。病理生理学尚不明确，但水肿可能使软组织的压力超过毛细血管灌注压，导致组织缺血及静脉性坏疽。股白肿可能进展为股蓝肿。
+在股青肿中，大片髂股静脉血栓形成引起近全静脉阻塞；腿部变得缺血、异常疼痛和青紫。病理生理学可能包括下肢静脉和动脉血流完全淤滞，因为静脉回流被阻塞或大面积水肿阻断了动脉血流。可能引起静脉坏疽。
+感染很少在静脉血栓中发生。颈静脉脓性血栓性静脉炎（Lemierre综合征），一种颈内静脉及其周围的软组织的细菌性感染（通常为厌氧菌），可能随扁桃体咽炎之后发生，且常并发菌血症和脓毒血症。在骨盆败血症性血栓性静脉炎中，骨盆血栓发生在产后并且继发感染，引起间歇性发热。化脓性血栓性静脉炎，一种表浅外周静脉的细菌感染，通常是由于静脉导管操作导致感染及血凝块形成。
+
+【病理生理学参考文献】
+1.Bosch FTM, Nisio MD, Büller HR, van Es N.Diagnostic and Therapeutic Management of Upper Extremity Deep Vein Thrombosis.J Clin Med2020;9(7):2069.doi:10.3390/jcm9072069
+1.Bosch FTM, Nisio MD, Büller HR, van Es N.Diagnostic and Therapeutic Management of Upper Extremity Deep Vein Thrombosis.J Clin Med2020;9(7):2069.doi:10.3390/jcm9072069
+
+【深静脉血栓形成的症状和体征】
+深静脉血栓可能发生在活动患者中，或作为手术或重大内科疾病的并发症。在住院的高危患者中，大多数深静脉血栓发生在小腿小静脉，无症状，可能无法被发现。
+DVT的症状和体征通常是非特异性的（如模糊的疼痛，沿静脉分布的压痛、水肿、红斑），频度和严重度上有差异，发生在上臂的情况和腿部相类似。扩张的侧枝浅表静脉可能变得易见并能被扪及。由踝背屈伴膝伸展引出小腿不适（Homan征），偶尔见于远侧腿部的DVT患者，但这既不敏感也不特异。压痛、全腿肿胀、小腿周径差异>3厘米、凹陷性水肿和浅表侧支循环静脉可能最具 特异性。在无其他可能诊断的情况下，出现≥3个因素的组合提示DVT可能性大（见表基于临床因素的深静脉血栓形成概率）。
+DVT可能出现低热；在原因不明发热的患者中DVT是可能的病因，特别是手术后的患者。肺动脉栓塞的症状，如果它发生了，包括气短和胸膜性胸痛。
+
+【韦尔斯评分：基于临床因素的深静脉血栓形成概率评估】
+韦尔斯评分：基于临床因素的深静脉血栓形成概率评估
+压痛沿着小腿或大腿的静脉分布
+整个腿肿胀
+小腿肿胀（在胫骨结节下10cm处测量，双侧小腿周径差>3cm）
+在受累一侧腿的凹陷性水肿更明显
+有扩张的侧支浅表静脉
+活动性癌症（正在进行治疗或在过去 6 个月内接受过治疗）
+下肢制动（如由于瘫痪、轻瘫、石膏固定，或近期长途旅行）
+过去4周内因手术导致不能活动时间>3天
+既往深静脉血栓史
+概率等于危险因素的数量；如果另一种诊断的可能性与深静脉血栓形成相同或更高，则概率等于因素的数量减去2。
+高概率：≥3点
+高概率：≥3点
+中等概率：1～2点
+中等概率：1～2点
+低概率：≤0点
+低概率：≤0点
+基于Wells PS, Owen C, Doucette S, Fergusson D, Tran H。Does this patient have deep vein thrombosis?JAMA.2006;295(2):199-207.doi: 10.1001/jama.295.2.199 andScarvelis D, Wells PS.Diagnosis and treatment of deep-vein thrombosis.CMAJ.2006;175(9):1087-1092.doi: 10.1503/cmaj.060366
+基于Wells PS, Owen C, Doucette S, Fergusson D, Tran H。Does this patient have deep vein thrombosis?JAMA.2006;295(2):199-207.doi: 10.1001/jama.295.2.199 andScarvelis D, Wells PS.Diagnosis and treatment of deep-vein thrombosis.CMAJ.2006;175(9):1087-1092.doi: 10.1503/cmaj.060366
+类似DVT的不对称性腿肿的常见原因是
+软组织创伤
+软组织创伤
+蜂窝织炎
+蜂窝织炎
+骨盆静脉受压
+骨盆静脉受压
+盆腔淋巴管阻塞
+盆腔淋巴管阻塞
+阻碍静脉回流的腘窝囊肿（贝克囊肿）
+阻碍静脉回流的腘窝囊肿（贝克囊肿）
+不太常见的原因包括阻碍静脉或淋巴回流的腹部或盆腔肿瘤。
+双侧小腿对称性肿胀是使用药物（如双氢吡啶类钙通道阻滞剂、雌激素、高剂量阿片类药物）导致依赖性水肿、静脉高压（通常由右心衰竭引起）和低白蛋白血症的典型结果；如果合并静脉功能不全，肿胀可能是不对称的，一侧小腿肿胀更严重。
+类似急性DVT的小腿疼痛的常见原因包括
+静脉功能不全与血栓后综合征
+静脉功能不全与血栓后综合征
+蜂窝织炎导致小腿痛性红斑
+蜂窝织炎导致小腿痛性红斑
+腘窝（贝克）囊肿破裂（假性深静脉血栓），导致小腿肿胀，疼痛，有时还会出现内踝区域淤青
+腘窝（贝克）囊肿破裂（假性深静脉血栓），导致小腿肿胀，疼痛，有时还会出现内踝区域淤青
+小腿肌肉或肌腱部分或完全撕裂
+小腿肌肉或肌腱部分或完全撕裂
+
+【深静脉血栓形成的诊断】
+超声检查
+超声检查
+有时进行D-二聚体检测
+有时进行D-二聚体检测
+病史和体格检查有助于在进一步检查前评估DVT的概率（见表基于临床因素的深静脉血栓形成的可能性）。诊断通常通过带有多普勒血流检查的超声波检查（双功超声检查）。 是否需要附加检查（如D-二聚体检查）及如何选择和顺序取决于检查前DVT的概率以及有时取决于超声检查的结果。没有任何一个单独检查方案是最好的；一种可行的方案见图疑似深静脉血栓的检查方法之一。
+
+【检测疑似深静脉血栓形成的一种方法】
+检测疑似深静脉血栓形成的一种方法
+
+【超声检查】
+左图显示了股总静脉的部分可压缩性（箭头）。右边的图像显示彩色多普勒血流的充盈缺陷。这些发现与血栓相符。
+© 2017 Elliot K.Fishman, MD.
+超声波检查通过直接观察静脉内膜和通过显示异常的静脉的压缩性，或用多普勒血流检查受损的静脉血流来确定血栓。此检查对股静脉和腘静脉血栓形成的敏感性≥>90%，特异性≥>95%，但对髂静脉或小腿静脉血栓形成的准确性略低 (1)。
+
+【D-二聚体】
+D-二聚体是纤维蛋白溶解的副产物，其水平升高提示新近有血栓存在和溶解。D-二聚体检测方法敏感性和特异性存在差异，但一般都是高敏感性低特异性。阳性检查结果是非特异的，因为其他原因亦可导致其升高（如肝脏疾病、创伤、怀孕、类风湿因子阳性、炎症、近期手术、癌症），需要进一步检查。只推荐使用最准确的测试方法。例如，酶联免疫吸附试验法（ELISA）是一个高度敏感的测试方法，敏感性约有95% (2)。D-二聚体水平也会随着年龄的增长而增加，这进一步降低了老年患者的特异性（3）。
+肺栓塞分级 D-二聚体 (PEGeD) 策略是一种肺栓塞诊断方法，可根据患者的临床预测试概率调整 D-二聚体水平（4）：
+如果深静脉血栓预测概率较低，在敏感测试中，D-二聚体水平<1000 ng/mL（<5476 nmol/L）的患者通常可以排除深静脉血栓。
+如果深静脉血栓预测概率较低，在敏感测试中，D-二聚体水平<1000 ng/mL（<5476 nmol/L）的患者通常可以排除深静脉血栓。
+如果深静脉血栓的预试验概率中等，则对于使用敏感试验且D-二聚体水平正常（即< 500 ng/mL）的患者，可以排除深静脉血栓。检测结果呈阳性的患者需要进行额外检测以排除深静脉血栓。
+如果深静脉血栓的预试验概率中等，则对于使用敏感试验且D-二聚体水平正常（即< 500 ng/mL）的患者，可以排除深静脉血栓。检测结果呈阳性的患者需要进行额外检测以排除深静脉血栓。
+如果深静脉血栓的预试验概率高，则可以在进行多普勒超声检查的同时进行D-二聚体检查。无论D-二聚体水平如何，阳性超声结果可确诊。如果超声检查未见深静脉血栓形成的证据，正常的D-二聚体水平有助于排除DVT。D-二聚体水平升高的患者，应在几天内复查超声，或根据临床情况进行其他的检查，如静脉造影。
+如果深静脉血栓的预试验概率高，则可以在进行多普勒超声检查的同时进行D-二聚体检查。无论D-二聚体水平如何，阳性超声结果可确诊。如果超声检查未见深静脉血栓形成的证据，正常的D-二聚体水平有助于排除DVT。D-二聚体水平升高的患者，应在几天内复查超声，或根据临床情况进行其他的检查，如静脉造影。
+
+【进一步检查】
+如果症状和体征提示肺栓塞（PE），需要进一步的影像学检查（如CT肺动脉造影，或较少使用的通气/灌注[V/Q]扫描）。
+
+【替代成像】
+对比增强计算机断层静脉造影和磁共振静脉造影是很少用于诊断 DVT 的其他成像方式。它们通常保留用于超声检查结果为阴性或不确定且临床对 DVT 的怀疑仍然很高的情况。这些成像测试对于 DVT 的验证效果较差，成本较高，并且可能与其他并发症相关（例如，与暴露于辐射和造影剂有关）。
+对比静脉造影在过去是诊断深静脉血栓的决定性检查，但已被超声检查所取代，超声检查无创，更容易获得，并且几乎同样准确地检测深静脉血栓。
+
+【病因诊断】
+确诊DVT和有明显原因（如制动、手术操作、腿部创伤）的患者不需要做进一步检查。对检测高凝状态的检验有争议，但是有时会在有特发性（或不明原因）或反复发作DVT的筛选患者中，在有DVT个人或家族史的患者中和在年轻无明显易患因素的患者中做该项检查。一些证据表明，无论是否存在临床危险因素，对患者进行高凝状态检测均不能预测深静脉血栓的复发风险（5、6、7）。
+在DVT病人中进行恶性肿瘤筛查获益不大。根据全面病史、体格检查以及常规的基本检查（全血细胞计数、胸片、尿常规、肝功能、电解质、血尿素氮（BUN）、肌酐）来筛查癌症可能足够了。此外，患者应进行适当的癌症筛查(如乳房x光检查、结肠镜检查)。
+
+【诊断参考】
+1.Lensing AW, Prandoni P, Brandjes D, et al.Detection of deep-vein thrombosis by real-time B-mode ultrasonography.N Engl J Med1989;320(6):342-345.doi:10.1056/NEJM198902093200602
+1.Lensing AW, Prandoni P, Brandjes D, et al.Detection of deep-vein thrombosis by real-time B-mode ultrasonography.N Engl J Med1989;320(6):342-345.doi:10.1056/NEJM198902093200602
+2.Di Nisio M, Squizzato A, Rutjes AW, Büller HR, Zwinderman AH, Bossuyt PM.Diagnostic accuracy of D-dimer test for exclusion of venous thromboembolism: a systematic review [published correction appears inJ Thromb Haemost2013 Oct;11(10):1942].J Thromb Haemost2007;5(2):296-304.doi:10.1111/j.1538-7836.2007.02328.x
+2.Di Nisio M, Squizzato A, Rutjes AW, Büller HR, Zwinderman AH, Bossuyt PM.Diagnostic accuracy of D-dimer test for exclusion of venous thromboembolism: a systematic review [published correction appears inJ Thromb Haemost2013 Oct;11(10):1942].J Thromb Haemost2007;5(2):296-304.doi:10.1111/j.1538-7836.2007.02328.x
+3.Righini M, Van Es J, Den Exter PL, et al.Age-adjusted D-dimer cutoff levels to rule out pulmonary embolism: the ADJUST-PE study [published correction appears in JAMA. 2014 Apr 23-30;311(16):1694].JAMA2014;311(11):1117-1124.doi:10.1001/jama.2014.2135
+3.Righini M, Van Es J, Den Exter PL, et al.Age-adjusted D-dimer cutoff levels to rule out pulmonary embolism: the ADJUST-PE study [published correction appears in JAMA. 2014 Apr 23-30;311(16):1694].JAMA2014;311(11):1117-1124.doi:10.1001/jama.2014.2135
+4.Kearon C, de Wit K, Parpia S, et al.Diagnosis of Pulmonary Embolism with d-Dimer Adjusted to Clinical Probability.N Engl J Med2019;381(22):2125-2134.doi:10.1056/NEJMoa1909159
+4.Kearon C, de Wit K, Parpia S, et al.Diagnosis of Pulmonary Embolism with d-Dimer Adjusted to Clinical Probability.N Engl J Med2019;381(22):2125-2134.doi:10.1056/NEJMoa1909159
+5.Coppens M, Reijnders JH, Middeldorp S, Doggen CJ, Rosendaal FR.Testing for inherited thrombophilia does not reduce the recurrence of venous thrombosis.J Thromb Haemost2008;6(9):1474-1477.doi:10.1111/j.1538-7836.2008.03055.x
+5.Coppens M, Reijnders JH, Middeldorp S, Doggen CJ, Rosendaal FR.Testing for inherited thrombophilia does not reduce the recurrence of venous thrombosis.J Thromb Haemost2008;6(9):1474-1477.doi:10.1111/j.1538-7836.2008.03055.x
+6.Lijfering WM, Middeldorp S, Veeger NJ, et al.Risk of recurrent venous thrombosis in homozygous carriers and double heterozygous carriers of factor V Leiden and prothrombin G20210A.Circulation2010;121(15):1706-1712.doi:10.1161/CIRCULATIONAHA.109.906347
+6.Lijfering WM, Middeldorp S, Veeger NJ, et al.Risk of recurrent venous thrombosis in homozygous carriers and double heterozygous carriers of factor V Leiden and prothrombin G20210A.Circulation2010;121(15):1706-1712.doi:10.1161/CIRCULATIONAHA.109.906347
+7.Segal JB, Brotman DJ, Necochea AJ, et al.Predictive value of factor V Leiden and prothrombin G20210A in adults with venous thromboembolism and in family members of those with a mutation: a systematic review.JAMA2009;301(23):2472-2485.doi:10.1001/jama.2009.853
+7.Segal JB, Brotman DJ, Necochea AJ, et al.Predictive value of factor V Leiden and prothrombin G20210A in adults with venous thromboembolism and in family members of those with a mutation: a systematic review.JAMA2009;301(23):2472-2485.doi:10.1001/jama.2009.853
+
+【深静脉血栓形成的治疗】
+有时下腔静脉滤过，溶栓治疗，或手术
+有时下腔静脉滤过，溶栓治疗，或手术
+治疗主要旨在肺栓塞的预防，其次旨在减轻症状和预防DVT复发、慢性静脉功能不全和血栓后综合征。下肢和上肢DVT的治疗基本相同。
+一般支持治疗包括用镇痛剂控制疼痛，可能包括短期使用非甾体抗炎药（NSAID）（3至5天）。应避免长期使用非甾体抗炎药和阿司匹林，因为它们的抗血小板作用可能增加出血并发症的风险。此外，推荐在制动期间抬高腿部（用一个枕头或其他表面柔软的东西支持以避免静脉受压）。患者可能会在他们所能忍受的范围内进行体力活动;没有证据表明早期运动增加血栓脱位和PE的风险，并可能有助于降低血栓后综合征的风险。
+（有关药物及其并发症的详细信息，请参见深静脉血栓形成药物)
+几乎所有 DVT 患者都接受抗凝药物治疗（1,2）。多种抗凝剂适合初始治疗，药物的选择受到患者合并症（例如肾功能障碍、癌症）、偏好、成本和便利性的影响。
+有些患者最初会注射肝素（通常是低分子量）5 至 7 天，然后接受口服药物的长期治疗。如果使用华法林，则在开始注射肝素后 24 小时内开始使用华法林。虽然肝素作用迅速并立即提供抗凝作用，华法林大约需要5天才能达到治疗效果；因此，肝素需要5到7天。对于即将开始服用依度沙班（一种口服Xa因子抑制剂）或达比加群（一种口服直接凝血酶抑制剂）的患者，在注射肝素5天后开始口服药物。
+或者，可以立即使用选定的直接口服抗凝剂（利伐沙班或阿哌沙班）开始抗凝，而无需先注射药物肝素。开始利伐沙班或者阿哌沙班没有肝素根据临床试验的结果是合理的。磺达肝素，一种注射剂Xa因子抑制剂，有时代替低分子量肝素也可用于治疗急性DVT。
+对于选定的患者（例如，患有广泛的髂股深静脉血栓或癌症），继续使用低分子量药物治疗肝素而不是改用口服药物可能是更好的选择。
+在最初的24-48小时中抗凝不充分可能增加复发或肺栓塞的危险性。急性深静脉血栓可在门诊基础上治疗，除非症状严重需要应用胃肠道外镇痛剂，或患有妨碍门诊安全离院的其他疾病，或其他因素（如功能性的、社会经济学的）可能会导致患者难以坚持处方治疗。
+
+【下腔静脉（IVC）滤网】
+IVC滤器可帮助存在抗凝禁忌及经充分抗凝仍有复发性DVT（或栓 塞）的下肢DVT病人预防肺栓塞。IVC滤器经颈内静脉或股静脉入路，置于下腔静脉内肾静脉的下方。 有些IVC滤器是可拆除的，因此可以临时应用（例如使用至抗凝治疗的禁忌因素改善或消除）。
+下腔静脉滤器可减少急性栓塞并发症的风险，但可能产生远期并发症（如静脉侧枝形成，为栓子绕过滤器提供通道），并且复发性深静脉血栓的风险也会增加。而且，IVC滤器可脱位或被一个血凝块堵塞。因此，复发性DVT 的病人或存在不可逆DVT的危险因素者，尽管装有IVC滤器， 可能仍需要抗凝。
+被血块堵塞的滤网可能导致双下肢静脉淤血（包括急性股青肿）、下体缺血和急性肾损伤。对于脱落的滤网可行造影下滤器摘除或手术摘除。尽管IVC滤器广泛地应用，但对预防肺栓塞的效果还未被充分研究和证明 (3)。在必要时，IVC滤器应该移除。
+
+【溶栓（纤溶）药物】
+溶栓药物，包括阿替普酶、替奈普酶、链激酶可溶解血凝块，且对于部分患者似乎比单用抗凝剂更有效，但出血的危险性更高。因此，只有严格筛选的深静脉血栓患者才考虑溶栓。可能受益于溶栓治疗的患者包括年龄<60岁、患有广泛髂股深静脉血栓、有进展性或已存在的肢体缺血（如股青肿）且无出血风险因素的患者（4）。
+当用于治疗下肢静脉血栓形成时，导管定向溶栓治疗已在很大程度上取代了全身给药。
+
+【外科治疗】
+极少需要手术。然而，当股白肿或股青肿对溶栓治疗无反应时，必须行血栓切除术或筋膜切开术， 或同时行以上两种手术，以尽量预防危及肢体的坏疽。
+
+【治疗参考文献】
+1.Ortel TL, Neumann I, Ageno W, et al: American Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolism.Blood Adv4(19):4693-4738, 2020.doi: 10.1182/bloodadvances.2020001830
+1.Ortel TL, Neumann I, Ageno W, et al: American Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolism.Blood Adv4(19):4693-4738, 2020.doi: 10.1182/bloodadvances.2020001830
+2.Stevens SM, Woller SC, Kreuziger LB, et al: Antithrombotic Therapy for VTE Disease: Second Update of the CHEST Guideline and Expert Panel Report [published correction appears inChest2022 Jul;162(1):269].Chest160(6):e545-e608, 2021.doi:10.1016/j.chest.2021.07.055
+2.Stevens SM, Woller SC, Kreuziger LB, et al: Antithrombotic Therapy for VTE Disease: Second Update of the CHEST Guideline and Expert Panel Report [published correction appears inChest2022 Jul;162(1):269].Chest160(6):e545-e608, 2021.doi:10.1016/j.chest.2021.07.055
+3.Turner TE, Saeed MJ, Novak E, Brown DL: Association of Inferior Vena Cava Filter Placement for Venous Thromboembolic Disease and a Contraindication to Anticoagulation With 30-Day Mortality.JAMA Netw Open1(3):e180452, 2018.Published 2018 Jul 6.doi:10.1001/jamanetworkopen.2018.0452
+3.Turner TE, Saeed MJ, Novak E, Brown DL: Association of Inferior Vena Cava Filter Placement for Venous Thromboembolic Disease and a Contraindication to Anticoagulation With 30-Day Mortality.JAMA Netw Open1(3):e180452, 2018.Published 2018 Jul 6.doi:10.1001/jamanetworkopen.2018.0452
+4.Kearon C, Akl EA, Comerota AJ, et al.Antithrombotic therapy for VTE disease: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears inChest2012 Dec;142(6):1698-1704].Chest2012;141(2 Suppl):e419S-e496S.doi:10.1378/chest.11-2301
+4.Kearon C, Akl EA, Comerota AJ, et al.Antithrombotic therapy for VTE disease: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears inChest2012 Dec;142(6):1698-1704].Chest2012;141(2 Suppl):e419S-e496S.doi:10.1378/chest.11-2301
+
+【深静脉血栓形成的预后】
+未经充分治疗，下肢DVT有3%发生致命的肺栓塞危险性 (1, 2)；因上肢的DVT所致的死亡非常罕见。 有暂时性危险因素（如手术、创伤、临时性制动）的病人复发DVT的风险最低；持久的危险因素（如癌症）、特发性DVT、或过去DVT的不全性解除（残余血栓）的患者则风险最大。停止抗凝治疗 3 至 4 周后获得的正常 D-二聚体水平可能有助于预测相对较低的 DVT 或 PE 复发风险，女性比男性更是如此。静脉功能不全的危险性是难以预测的。血栓形成后综合征的危险因素包括近端血栓形成、复发性同侧深静脉血栓以及体重指数（BMI）≥22 kg/m²2。
+
+【预后参考】
+1.Yamashita Y, Murata K, Morimoto T, et al.Clinical outcomes of patients with pulmonary embolism versus deep vein thrombosis: From the COMMAND VTE Registry.Thromb Res2019;184:50-57.doi:10.1016/j.thromres.2019.10.029
+1.Yamashita Y, Murata K, Morimoto T, et al.Clinical outcomes of patients with pulmonary embolism versus deep vein thrombosis: From the COMMAND VTE Registry.Thromb Res2019;184:50-57.doi:10.1016/j.thromres.2019.10.029
+2.Douketis JD, Kearon C, Bates S, Duku EK, Ginsberg JS.Risk of fatal pulmonary embolism in patients with treated venous thromboembolism.JAMA1998;279(6):458-462.doi:10.1001/jama.279.6.458
+2.Douketis JD, Kearon C, Bates S, Duku EK, Ginsberg JS.Risk of fatal pulmonary embolism in patients with treated venous thromboembolism.JAMA1998;279(6):458-462.doi:10.1001/jama.279.6.458
+
+【预防深静脉血栓形成】
+DVT的预防应优于治疗且更安全，尤其对于高危患者。以下为常用预防方式（有关更完整的讨论，请参阅DVT预防)。
+避免制动
+避免制动
+预防性抗凝(如低分子肝素、氟达肝素、调整剂量华法林、直接口服抗凝剂)
+预防性抗凝(如低分子肝素、氟达肝素、调整剂量华法林、直接口服抗凝剂)
+间歇充气加压
+间歇充气加压
+对于那些无法使用抗凝剂的患者，可以使用间歇充气加压装置、弹力袜，或者两者同时使用。
+下腔静脉（IVC）过滤器不能预防DVT，但有时会尝试用于防止肺栓塞（PE）。IVC 过滤器可能有助于预防有抗凝治疗禁忌的下肢 DVT 患者或尽管充分抗凝但仍复发 DVT（或栓塞）的患者。下腔静脉过滤器有时也用于某些类型手术后或多处严重损伤患者的肺栓塞的一级预防；然而，由于缺乏疗效证据，不常规建议将它们用于这些适应症（1）。
+
+【预防参考文献】
+1.Ho KM, Rao S, Honeybul S, et al.A Multicenter Trial of Vena Cava Filters in Severely Injured Patients.N Engl J Med2019;381(4):328-337.doi:10.1056/NEJMoa1806515
+1.Ho KM, Rao S, Honeybul S, et al.A Multicenter Trial of Vena Cava Filters in Severely Injured Patients.N Engl J Med2019;381(4):328-337.doi:10.1056/NEJMoa1806515
+症状和体征无特异性，因此临床医生一定要警惕，特别是高风险患者。
+症状和体征无特异性，因此临床医生一定要警惕，特别是高风险患者。
+低风险患者应该做D-二聚体检测，结果正常基本排除 DVT；其他患者应做超声检查。
+低风险患者应该做D-二聚体检测，结果正常基本排除 DVT；其他患者应做超声检查。
+最初的治疗方法是注射肝素（普通肝素或低分子量肝素[LMWH]），然后口服抗凝剂（华法林，达比加群或Xa因子抑制剂）或LMWH。 另外，口服Xa因子抑制剂利伐沙班和阿哌沙班可用于初始和维持治疗。
+最初的治疗方法是注射肝素（普通肝素或低分子量肝素[LMWH]），然后口服抗凝剂（华法林，达比加群或Xa因子抑制剂）或LMWH。 另外，口服Xa因子抑制剂利伐沙班和阿哌沙班可用于初始和维持治疗。
+根据风险因素的存在情况和性质，治疗时间通常为3~6个月；有些患者需要终身治疗。
+根据风险因素的存在情况和性质，治疗时间通常为3~6个月；有些患者需要终身治疗。
+对于患有某些严重疾病的卧床患者和（或）正在接受外科手术的患者，需要预防治疗。
+对于患有某些严重疾病的卧床患者和（或）正在接受外科手术的患者，需要预防治疗。
+推荐的预防措施有尽早恢复活动，抬高腿和使用抗凝剂。对于那些无法使用抗凝剂的患者，可以使用间歇充气加压装置、弹力袜，或者两者同时使用。
+推荐的预防措施有尽早恢复活动，抬高腿和使用抗凝剂。对于那些无法使用抗凝剂的患者，可以使用间歇充气加压装置、弹力袜，或者两者同时使用。

@@ -1,0 +1,165 @@
+标题：概述
+来源：https://www.msdmanuals.cn/professional/critical-care-medicine/respiratory-arrest/overview-of-respiratory-arrest
+============================================================
+
+呼吸停止和心跳停止是不同的，但如果不进行治疗，必然一个会导致另一个。 （参见呼吸衰竭、呼吸困难和低氧血症。）
+肺部气体交换中断达>5分钟 可能对重要器官造成不可逆的损伤，尤其是大脑。除非立即恢复呼吸，否则继发心跳骤停。然而激进的通气治疗会对血流动力学带来不利影响，尤其在围骤停期和低心输出量时。大多数情况下，治疗的最终目标是：在不影响循环稳定的同时恢复充分的通气和氧合。
+
+【呼吸骤停的病因】
+呼吸骤停（会导致呼吸骤停的呼吸受损）的病因包括：
+气道梗阻
+气道梗阻
+呼吸动力不足
+呼吸动力不足
+呼吸肌乏力
+呼吸肌乏力
+
+【气道梗阻】
+梗阻气道包括：
+上呼吸道（声带上方；即鼻咽腔、口腔和喉部）
+上呼吸道（声带上方；即鼻咽腔、口腔和喉部）
+下呼吸道（声带以下；即气管、支气管、细支气管和肺泡）
+下呼吸道（声带以下；即气管、支气管、细支气管和肺泡）
+上呼吸道阻塞可能是由任何物体或物质阻塞口咽引起的，包括
+异物吸入
+异物吸入
+声带痉挛
+声带痉挛
+声带水肿
+声带水肿
+咽喉或气管炎症（例如会厌炎、哮吼)
+咽喉或气管炎症（例如会厌炎、哮吼)
+意识下降患者的舌后部
+意识下降患者的舌后部
+对于<3个月以下的婴儿，他们通常是经鼻呼吸者，可能因鼻塞而发生上呼吸道阻塞。
+先天性发育异常患者（例如唐氏综合症、喉部疾病、先天性颌骨畸形) 通常有上呼吸道异常，更易被阻塞。例如，患有唐氏综合征的患者由于各种解剖特征（如巨舌症或面中部发育不全）而常常出现上呼吸道异常（1）。
+下呼吸道阻塞可能是由于
+支气管痉挛症
+支气管痉挛症
+空腔充盈性病变（例如，肺炎、肺水肿、肺出血）
+空腔充盈性病变（例如，肺炎、肺水肿、肺出血）
+
+【呼吸动力降低】
+以下原因导致中枢性呼吸动力不足：
+中枢神经系统疾病
+中枢神经系统疾病
+药物或非法药物的不良反应
+药物或非法药物的不良反应
+代谢异常
+代谢异常
+机械缺陷
+机械缺陷
+中枢神经系统疾病影响脑干（例如，中风、感染、肿瘤）或颈椎（例如，脊髓损伤）可导致通气不足（2，3）。颅内压增高最初引起过度通气，如果脑干受压则会发生通气不足 (4)。
+导致呼吸动力降低的药物包括：阿片类药、镇静催眠药（如巴比妥类药、酒精和苯二氮䓬类药物）。呼吸努力的减少也会增加死腔通气量（表示为死腔与潮气量之比[VD/VT]) 并延长重症监护室或术后潮气量减少患者的机械通气时间 (5）。
+这些药物的组合进一步增加了呼吸抑制的风险 (6)。过量（医源性、有意或无意）使用阿片类药物或镇静催眠药物通常会导致呼吸抑制，尽管较低剂量可能会减少对这些药物作用更敏感的患者的呼吸动力（例如，老年人、体能下降的患者、慢性呼吸功能不全或阻塞性睡眠呼吸暂停患者）。由于非法药物使用，特别是阿片类药物的使用（如海洛因、芬太尼）导致的呼吸暂停，是院外呼吸暂停的常见原因。在住院患者中，阿片类药物引起的呼吸抑制 (OIRD) 的风险在术后立即恢复期间最常见，在整个住院期间持续存在，可能影响近 50% 的术后患者 (7)。OIRD 可能导致严重的脑损伤或死亡等灾难性后果 (8)。
+加巴喷丁类药物（加巴喷丁、普瑞巴林）可能会导致使用阿片类药物或其他抑制中枢神经系统药物（如，镇静剂）的患者、老年患者、或有基础呼吸系统疾病的患者（如慢性阻塞性肺疾病[COPD]患者）中出现严重呼吸困难 (9)。
+代谢紊乱由于严重的低血糖或低血压导致中枢神经系统受到抑制，最终会影响呼吸动力。例如，低血糖可能导致一系列中枢神经系统影响，如意识模糊或昏迷、精神错乱或异常行为；偶尔还会表现为头晕、震颤或癫痫。
+肥胖低通气综合征（OHS）这是一种常见于肥胖和限制性通气缺陷患者的疾病（10）。确切原因尚不清楚；然而，啮齿动物模型的研究表明瘦素介导的机制。瘦素是调节呼吸所必需的激素，可能与二氧化碳水平的变化有关（11）。肥胖低通气综合征 (OHS) 可能是由于体重过度增加和瘦素缺乏或抵抗所致，从而导致呼吸负荷增加和因化学感受器钝化造成的通气减少。
+机械缺陷或胸壁异常（例如脊柱后侧凸、极度肥胖）和呼吸肌功能障碍（例如由于膈神经损伤或神经肌肉疾病）可导致呼吸动力降低和呼吸衰竭（5）。
+
+【呼吸肌无力】
+可能由下列因素引起：
+呼吸肌疲劳
+呼吸肌疲劳
+神经肌肉疾病
+神经肌肉疾病
+皮质类固醇或神经肌肉阻滞药物
+皮质类固醇或神经肌肉阻滞药物
+如果患者在超过其最大自主通气量70%的分钟通气量下长时间呼吸（比如，严重的代谢性酸中毒或低氧血症时），就会发生呼吸肌疲劳（5）。慢性呼吸系统疾病（如慢性阻塞性肺病）可导致呼吸肌疲劳和功能障碍。在 COPD 中，神经肌肉无力会影响多个肌肉群，包括胸壁、膈肌和外周肌肉（12）。
+神经肌肉原因，包括脊髓损伤和神经肌肉疾病（例如重症肌无力，肉毒杆菌中毒，脊髓灰质炎，格林-巴利综合征）可导致呼吸肌无力（13）。
+此外，卧床休息并结合使用皮质类固醇和/或神经肌肉阻滞药物（例如琥珀胆碱、罗库溴铵、维库溴铵）（常用于重症监护患者），可导致呼吸肌无力（14，15）。因此，为了尽量减少不良后果的潜在风险（例如，ICU相关的肌肉无力、呼吸功能不全和医院获得性肺炎（16），建议尽早开始物理治疗，并在不再需要使用皮质类固醇和/或神经肌肉阻滞药物时立即停止使用。
+
+【病因参考文献】
+1.Mitchell RB, Call E, Kelly J: Diagnosis and therapy for airway obstruction in children with Down syndrome.Arch Otolaryngol Head Neck Surg129(6):642–645, 2003.doi:10.1001/archotol.129.6.642
+1.Mitchell RB, Call E, Kelly J: Diagnosis and therapy for airway obstruction in children with Down syndrome.Arch Otolaryngol Head Neck Surg129(6):642–645, 2003.doi:10.1001/archotol.129.6.642
+2.Sankari A, Bascom A, Oomman S, Badr MS: Sleep disordered breathing in chronic spinal cord injury.J Clin Sleep Med10(1):65–72, 2014.doi:10.5664/jcsm.3362
+2.Sankari A, Bascom A, Oomman S, Badr MS: Sleep disordered breathing in chronic spinal cord injury.J Clin Sleep Med10(1):65–72, 2014.doi:10.5664/jcsm.3362
+3.Bascom AT, Sankari A, Goshgarian HG, Badr MS: Sleep onset hypoventilation in chronic spinal cord injury.Physiol Rep3(8):e12490, 2015.doi:10.14814/phy2.12490
+3.Bascom AT, Sankari A, Goshgarian HG, Badr MS: Sleep onset hypoventilation in chronic spinal cord injury.Physiol Rep3(8):e12490, 2015.doi:10.14814/phy2.12490
+4.Edlow JA, Rabinstein A, Traub SJ, Wijdicks EF: Diagnosis of reversible causes of coma.Lancet384(9959):2064–2076, 2014.doi:10.1016/S0140-6736(13)62184-4
+4.Edlow JA, Rabinstein A, Traub SJ, Wijdicks EF: Diagnosis of reversible causes of coma.Lancet384(9959):2064–2076, 2014.doi:10.1016/S0140-6736(13)62184-4
+5.Roussos C: Respiratory muscle fatigue and ventilatory failure.Chest97(3 Suppl):89S–96S, 1990.doi:10.1378/chest.97.3_supplement.89s
+5.Roussos C: Respiratory muscle fatigue and ventilatory failure.Chest97(3 Suppl):89S–96S, 1990.doi:10.1378/chest.97.3_supplement.89s
+6.Izrailtyan I, Qiu J, Overdyk FJ, et al: Risk factors for cardiopulmonary and respiratory arrest in medical and surgical hospital patients on opioid analgesics and sedatives.PLoS One13(3):e019455, 2018. doi: 10.1371/journal.pone.0194553
+6.Izrailtyan I, Qiu J, Overdyk FJ, et al: Risk factors for cardiopulmonary and respiratory arrest in medical and surgical hospital patients on opioid analgesics and sedatives.PLoS One13(3):e019455, 2018. doi: 10.1371/journal.pone.0194553
+7.Khanna AK, Bergese SD, Jungquist CR, et al: Prediction of opioid-induced respiratory depression on inpatient wards using continuous capnography and oximetry: An international prospective, observational trial.Anesth Analg131(4):1012–1024, 2020.doi:10.1213/ANE.0000000000004788
+7.Khanna AK, Bergese SD, Jungquist CR, et al: Prediction of opioid-induced respiratory depression on inpatient wards using continuous capnography and oximetry: An international prospective, observational trial.Anesth Analg131(4):1012–1024, 2020.doi:10.1213/ANE.0000000000004788
+8.Lee LA, Caplan RA, Stephens LS, et al: Postoperative opioid-induced respiratory depression: A closed claims analysis.Anesthesiology122: 659–665, 2015.doi: 10.1097/ALN.0000000000000564
+8.Lee LA, Caplan RA, Stephens LS, et al: Postoperative opioid-induced respiratory depression: A closed claims analysis.Anesthesiology122: 659–665, 2015.doi: 10.1097/ALN.0000000000000564
+9.U. S. Food and Drug Administration: FDA warns about serious breathing problems with seizure and nerve pain medicines gabapentin (Neurontin, Gralise, Horizant) and pregabalin (Lyrica, Lyrica CR): When used with CNS depressants or in patients with lung problems.FDA Drug Safety Communication 12-19-2019.Current as of 01-30-2020.
+9.U. S. Food and Drug Administration: FDA warns about serious breathing problems with seizure and nerve pain medicines gabapentin (Neurontin, Gralise, Horizant) and pregabalin (Lyrica, Lyrica CR): When used with CNS depressants or in patients with lung problems.FDA Drug Safety Communication 12-19-2019.Current as of 01-30-2020.
+10.Chau EH, Lam D, Wong J, Mokhlesi B, Chung F: Obesity hypoventilation syndrome: a review of epidemiology, pathophysiology, and perioperative considerations.Anesthesiology117(1):188–205, 2012.doi:10.1097/ALN.0b013e31825add60
+10.Chau EH, Lam D, Wong J, Mokhlesi B, Chung F: Obesity hypoventilation syndrome: a review of epidemiology, pathophysiology, and perioperative considerations.Anesthesiology117(1):188–205, 2012.doi:10.1097/ALN.0b013e31825add60
+11.Amorim MR, Aung O, Mokhlesi B, Polotsky VY: Leptin-mediated neural targets in obesity hypoventilation syndrome.Sleep45(9):zsac153, 2022.doi:10.1093/sleep/zsac153
+11.Amorim MR, Aung O, Mokhlesi B, Polotsky VY: Leptin-mediated neural targets in obesity hypoventilation syndrome.Sleep45(9):zsac153, 2022.doi:10.1093/sleep/zsac153
+12.Alter A, Aboussouan LS, Mireles-Cabodevila E: Neuromuscular weakness in chronic obstructive pulmonary disease: chest wall, diaphragm, and peripheral muscle contributions.Curr Opin Pulm Med23(2):129–138, 2017.doi:10.1097/MCP.0000000000000360
+12.Alter A, Aboussouan LS, Mireles-Cabodevila E: Neuromuscular weakness in chronic obstructive pulmonary disease: chest wall, diaphragm, and peripheral muscle contributions.Curr Opin Pulm Med23(2):129–138, 2017.doi:10.1097/MCP.0000000000000360
+13.Boentert M, Wenninger S, Sansone VA: Respiratory involvement in neuromuscular disorders.Curr Opin Neurol30(5):529–537, 2017.doi:10.1097/WCO.0000000000000470
+13.Boentert M, Wenninger S, Sansone VA: Respiratory involvement in neuromuscular disorders.Curr Opin Neurol30(5):529–537, 2017.doi:10.1097/WCO.0000000000000470
+14.Eikermann M, Gerwig M, Hasselmann C, Fiedler G, Peters J: Impaired neuromuscular transmission after recovery of the train-of-four ratio.Acta Anaesthesiol Scand51(2):226–234, 2007.doi:10.1111/j.1399-6576.2006.01228.x
+14.Eikermann M, Gerwig M, Hasselmann C, Fiedler G, Peters J: Impaired neuromuscular transmission after recovery of the train-of-four ratio.Acta Anaesthesiol Scand51(2):226–234, 2007.doi:10.1111/j.1399-6576.2006.01228.x
+15.Price DR, Mikkelsen ME, Umscheid CA, Armstrong EJ: Neuromuscular Blocking Agents and Neuromuscular Dysfunction Acquired in Critical Illness: A Systematic Review and Meta-Analysis.Crit Care Med44(11):2070–2078, 2016.doi:10.1097/CCM.0000000000001839
+15.Price DR, Mikkelsen ME, Umscheid CA, Armstrong EJ: Neuromuscular Blocking Agents and Neuromuscular Dysfunction Acquired in Critical Illness: A Systematic Review and Meta-Analysis.Crit Care Med44(11):2070–2078, 2016.doi:10.1097/CCM.0000000000001839
+16.Fan E, Cheek F, Chlan L, et al: An official American Thoracic Society Clinical Practice guideline: the diagnosis of intensive care unit-acquired weakness in adults.Am J Respir Crit Care Med190(12):1437–1446, 2014.doi:10.1164/rccm.201411-2011ST
+16.Fan E, Cheek F, Chlan L, et al: An official American Thoracic Society Clinical Practice guideline: the diagnosis of intensive care unit-acquired weakness in adults.Am J Respir Crit Care Med190(12):1437–1446, 2014.doi:10.1164/rccm.201411-2011ST
+
+【呼吸暂停的症状和体征】
+随着呼吸停止，患者会失去意识或很快就会失去意识。
+呼吸停止会导致低氧血症。低氧血症患者会出现发绀，但贫血、一氧化碳中毒或氰化物中毒可能会掩盖发绀。因为贫血会降低血红蛋白，在患者低氧血症时减少脱氧血红蛋白的总量，所以紫绀并不那么明显。碳氧血红蛋白有时会使皮肤呈现红色。在氰化物中毒中，尽管功能性缺氧，但患者可能不会出现紫绀，因为氰化物会损害细胞呼吸。在深色皮肤的患者中，紫绀也可能不那么明显。
+接受高流量吸氧治疗的患者可能不会发生低氧血症，因此可能在呼吸停止数分钟后才会出现发绀或血氧饱和度下降。相反，有慢性肺部疾病和红细胞增多症的患者，即使无呼吸停止也会出现发绀。
+如果呼吸停止未得到纠正，在低氧血症出现后数分钟内会发生心跳停止。
+
+【临近的呼吸停止】
+在呼吸停止之前，患者可能表现出呼吸困难、焦虑和精神错乱。
+根据病因，这些患者的呼吸频率可能会增加或减少。例如，上呼吸道阻塞或呼吸无力可能导致呼吸急促，而中枢神经系统病因（例如中毒、中风）可能导致呼吸频率降低。准确评估呼吸频率对于早期发现呼吸失代偿至关重要，但常规方法（如护理分诊评估、电子监测）通常不准确（1）。医生应经常检查患者，以评估呼吸频率和呼吸努力以及即将发生呼吸骤停的迹象（例如，呼吸辅助肌肉的使用，三脚架定位[患者双手放在膝盖上向前倾斜]）。
+异常呼吸音的特征或肺部听诊的其他发现可以提示呼吸衰竭的病因或机制：
+吸气性喘鸣–声带上方有阻塞物（如异物、会厌炎，血管性水肿）
+吸气性喘鸣–声带上方有阻塞物（如异物、会厌炎，血管性水肿）
+呼气喘鸣或吸气呼气混合喘鸣–声带下方阻塞（如，哮吼，细菌性气管炎、异物）
+呼气喘鸣或吸气呼气混合喘鸣–声带下方阻塞（如，哮吼，细菌性气管炎、异物）
+哮鸣 – 支气管收缩、支气管痉挛或支气管和/或细支气管阻塞（例如，哮喘，过敏反应、主支气管异物、肿瘤等固定病变）
+哮鸣 – 支气管收缩、支气管痉挛或支气管和/或细支气管阻塞（例如，哮喘，过敏反应、主支气管异物、肿瘤等固定病变）
+肺部湿啰音–肺泡间积液（如肺炎、心脏衰竭、肺纤维化）；没有湿啰音并不能排除这些疾病
+肺部湿啰音–肺泡间积液（如肺炎、心脏衰竭、肺纤维化）；没有湿啰音并不能排除这些疾病
+呼吸音减弱 – 由阻碍空气进入肺部的情况引起（例如，严重的慢性阻塞性肺病、严重的哮喘、气胸，张力性气胸，胸腔积液、血胸）
+呼吸音减弱 – 由阻碍空气进入肺部的情况引起（例如，严重的慢性阻塞性肺病、严重的哮喘、气胸，张力性气胸，胸腔积液、血胸）
+在呼吸失代偿的早期阶段，辅助肌肉的使用（例如肋间肌、胸锁肌）很明显。中枢神经系统受损或呼吸肌无力的患者，可表现为微弱、喘息样或不规则的呼吸，以及矛盾呼吸运动。气道中存在异物的患者可能会窒息并指向自己的脖子，或者没有任何症状。
+哮喘或其他慢性肺部疾病患者在长时间呼吸窘迫后可出现高碳酸血症和呼吸疲劳。即使氧合足够，这些患者也会毫无预兆地突然出现迟钝和呼吸停止。因此，仔细监测和早期干预可以防止呼吸骤停（2）。
+婴儿，尤其是<3个月的婴儿，在严重感染、代谢紊乱或呼吸疲劳时，可能毫无征兆地发生急性呼吸暂停。
+定量呼气末二氧化碳监测（即 ETCO2 水平上升）可以提醒医生和医疗团队即将发生呼吸停止。
+常见症状是心动过速和出汗，但并非呼吸停止所特有的。
+
+【症状和体征参考】
+1.Lovett PB, Buchwald JM, Sturmann K, Bijur P: The vexatious vital: neither clinical measurements by nurses nor an electronic monitor provides accurate measurements of respiratory rate in triage.Ann Emerg Med45(1):68–76, 2005.doi:10.1016/j.annemergmed.2004.06.016
+1.Lovett PB, Buchwald JM, Sturmann K, Bijur P: The vexatious vital: neither clinical measurements by nurses nor an electronic monitor provides accurate measurements of respiratory rate in triage.Ann Emerg Med45(1):68–76, 2005.doi:10.1016/j.annemergmed.2004.06.016
+2.Morris TA, Gay PC, MacIntyre NR, et al: Respiratory Compromise as a New Paradigm for the Care of Vulnerable Hospitalized Patients.Respir Care62(4):497–512, 2017.doi:10.4187/respcare.05021
+2.Morris TA, Gay PC, MacIntyre NR, et al: Respiratory Compromise as a New Paradigm for the Care of Vulnerable Hospitalized Patients.Respir Care62(4):497–512, 2017.doi:10.4187/respcare.05021
+
+【呼吸骤停的诊断】
+呼吸停止
+呼吸停止
+根据病史、体格检查、实验室检查、影像学检查和/或喉镜检查评估病因
+根据病史、体格检查、实验室检查、影像学检查和/或喉镜检查评估病因
+呼吸停止在临床上是明显的，因为病人没有呼吸。这是一种紧急情况，诊断后应立即开始治疗（例如，维持基本或高级气道和呼吸机支持）。护理通常由临床医生团队提供，既进行复苏努力，又进行病因评估。
+在进行复苏时，对患者进行检查，并从患者呼吸停止前陪伴在场的观察员那里获取病史（例如，观察到异物窒息）。
+首先要考虑的是排除（或去除，如果存在）阻塞气道的异物。异物的一个迹象是在口对面罩或气囊-面罩通气时出现明显的通气阻力。在气管插管的喉镜检查过程中也可能发现异物（参见上呼吸道的清理与开放）。
+通常会进行动脉血气测量、全血细胞计数（CBC）、电解质组、乳酸测量、心电图和胸部X光检查，以评估即将发生或已发生的呼吸停止的原因。此外，床边超声检查是调查呼吸衰竭（1）多种重要病因（如气胸、肺水肿、肺炎）的有效方法。
+在使用脉搏血氧仪评估呼吸窘迫患者时，监测动脉氧合情况至关重要，因为动脉氧合情况可以显示氧合失败或不足，但其准确性可能受到不同情况的影响（例如，一氧化碳中毒、高胆红素血症、皮肤黝黑[2]）。
+
+【诊断参考】
+1.Lichtenstein DA, Mezière GA: Relevance of lung ultrasound in the diagnosis of acute respiratory failure: the BLUE protocol [published correction appears inChest2013 Aug;144(2):721].Chest134(1):117–125, 2008.doi:10.1378/chest.07-2800
+1.Lichtenstein DA, Mezière GA: Relevance of lung ultrasound in the diagnosis of acute respiratory failure: the BLUE protocol [published correction appears inChest2013 Aug;144(2):721].Chest134(1):117–125, 2008.doi:10.1378/chest.07-2800
+2.Al-Halawani R, Charlton PH, Qassem M, Kyriacou PA: A review of the effect of skin pigmentation on pulse oximeter accuracy.Physiol Meas44(5):05TR01, 2023.doi:10.1088/1361-6579/acd51a
+2.Al-Halawani R, Charlton PH, Qassem M, Kyriacou PA: A review of the effect of skin pigmentation on pulse oximeter accuracy.Physiol Meas44(5):05TR01, 2023.doi:10.1088/1361-6579/acd51a
+
+【呼吸骤停的治疗】
+如果呼吸道阻塞，清理呼吸道
+如果呼吸道阻塞，清理呼吸道
+机械通气
+机械通气
+治疗包括清理气道(如果阻塞)，建立备用气道，并根据需要提供机械通气。
+在院外环境中，如果非专业人员发现患者没有反应，且呼吸消失或异常，建议非专业人员救援人员假设该患者正在经历呼吸和心脏骤停。非专业救援人员应立即呼叫紧急服务部门的援助，并采取心肺复苏术 (CPR)毫不拖延地（1）。通过关注这些简单的评估——患者的反应和呼吸评估——非专业救援人员可以快速启动救生措施。
+
+【治疗参考文献】
+1.Olasveengen TM, Mancini ME, Perkins GD, et al: Adult Basic Life Support: 2020 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations.Circulation142(16_suppl_1):S41–S91, 2020.doi:10.1161/CIR.0000000000000892
+1.Olasveengen TM, Mancini ME, Perkins GD, et al: Adult Basic Life Support: 2020 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations.Circulation142(16_suppl_1):S41–S91, 2020.doi:10.1161/CIR.0000000000000892

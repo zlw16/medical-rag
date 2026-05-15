@@ -1,0 +1,116 @@
+标题：婴儿和儿童甲状腺功能减退
+来源：https://www.msdmanuals.cn/professional/pediatrics/endocrine-disorders-in-children/hypothyroidism-in-infants-and-children
+============================================================
+
+(参见甲状腺功能概述。）
+
+【婴儿和儿童甲状腺功能减退症的病因】
+婴儿和年幼儿童的甲状腺功能减退症的病因可以是先天性或获得性的。
+
+【先天性甲状腺功能减退症】
+先天性甲状腺功能减退发生在约1/2000至1/4000活产儿 (1)。大多数先天性病例是散发性的，但约10％至20％是遗传性的。
+病因包括：
+腺体发育不全（50～60％的病例）
+腺体发育不全（50～60％的病例）
+甲状腺激素合成障碍（异常甲状腺激素产生，占30〜40％）
+甲状腺激素合成障碍（异常甲状腺激素产生，占30〜40％）
+甲状腺发育不良可能涉及甲状腺异位（三分之二病例）、缺如（无甲状腺）或发育不全（甲状腺发育低下）。该病因通常不明，但据估计有2%至5%的病例遗传相关，基因（TSHR）或转录因子（PAX8，NKX2-1）通常与甲状腺形成相关（1，2）。
+甲状腺激素合成障碍具有多种类型，可能源自甲状腺激素的生物合成中任一的步骤的缺陷（见先天性甲状腺肿）。
+在美国很少见，但在那些不经常在食盐中添加碘的国家，甲状腺功能减退症是由母亲的碘缺乏引起的。极少数情况下，母体抗体经胎盘转移、致甲状腺肿物质（如胺碘酮）或抗甲状腺药物（如丙硫氧嘧啶、甲巯咪唑）可导致暂时性甲状腺功能减退。另一种罕见的病因是中枢甲状腺功能减退症，这是由垂体发展结构异常所致；患者通常也有其他垂体激素的不足。
+患有21三体的儿童患先天性甲状腺功能减退症的风险增加。
+
+【获得性甲状腺功能减退症】
+在美国，获得性甲状腺功能减退最常见的病因是
+自身免疫性甲状腺炎(桥本氏甲状腺炎)
+自身免疫性甲状腺炎(桥本氏甲状腺炎)
+自身免疫性甲状腺炎最常发生在青春期，但也发生在年幼的儿童中，通常在生命的最初几年之后。大约50%的受影响儿童有自身免疫性甲状腺疾病的家族史。儿童21三体和特纳综合征罹患自身免疫性甲状腺疾病的风险较高。患有其他遗传疾病的儿童（例如，迪乔治综合征，普拉德-威利综合征) 罹患非自身免疫性的获得性甲状腺功能减退症的风险较高。
+较少见情况下，甲状腺功能减退可能发生于：针对某些癌症的头颈部放疗后，骨髓移植前全身放疗后，以及继发于某些特定的药物（如抗癫痫药物、锂剂、胺碘酮、酪氨酸激酶抑制剂）后。永久性甲状腺功能减退症也是接受格雷夫斯病确诊治疗的患者的治疗目标（见治疗婴儿和儿童甲状腺功能亢进症）或甲状腺癌。
+碘缺乏仍然是全球儿童甲状腺功能减退最常见的原因，但在美国很少见。因多种食物过敏而限制饮食的儿童或需要长期肠外营养的儿童可能会发生碘缺乏症。
+
+【病因参考文献】
+1.Rose SR, Wassner AJ, Wintergerst KA, et al: Congenital Hypothyroidism: Screening and Management.Pediatrics151(1):e2022060419, 2023.doi: 10.1542/peds.2022-060419
+1.Rose SR, Wassner AJ, Wintergerst KA, et al: Congenital Hypothyroidism: Screening and Management.Pediatrics151(1):e2022060419, 2023.doi: 10.1542/peds.2022-060419
+2.Persani L, Rurale G, de Filippis T, et al: Genetics and management of congenital hypothyroidism.Best Pract Res Clin Endocrinol Metab32(4):387-396, 2018.doi: 10.1016/j.beem.2018.05.002
+2.Persani L, Rurale G, de Filippis T, et al: Genetics and management of congenital hypothyroidism.Best Pract Res Clin Endocrinol Metab32(4):387-396, 2018.doi: 10.1016/j.beem.2018.05.002
+
+【婴儿和儿童甲状腺功能减退症的症状和体征】
+婴幼儿甲状腺功能减退的症状和体征与大龄儿童和成人不同。如果在怀孕早期发生胎儿碘缺乏，婴儿可能会出现严重的生长衰竭、面部粗糙、智力残疾和痉挛。
+大多数其他先天性甲减婴儿最初几乎没有症状或体征，仅通过新生儿筛查发现。
+由于部分母体甲状腺激素可以通过胎盘传递，先天性甲减婴儿发生的症状可能是轻微的或发展缓慢的。然而，在母体甲状腺激素代谢后，如果甲状腺功能减退症的潜在病因仍然存在，且甲状腺功能减退症一直未被诊断或治疗，通常会中度至重度减缓中枢神经系统的发育，并可能伴有肌张力低下、感音神经性听力损失、长期未结合高胆红素血症、脐疝、呼吸窘迫、巨舌、大囟门、喂养不良和哭声嘶哑等症状。罕见情况下，延误严重甲减的诊疗可以导致智力发育延迟和身材矮小。
+在年长儿童和青少年上发现的一些甲状腺机能减退症的症状和体征与成人的症状和体征相似（例如，体重增长；疲劳；便秘；粗糙、干燥的头发；灰黄色、冰冷或杂斑粗糙的皮肤—（见甲状腺功能减退的症状和体征）。儿童特有的症状是生长发育迟缓、骨骼成熟延迟和常见的的青春期延迟。
+
+【婴儿和儿童甲状腺功能减退症的诊断】
+常规新生儿筛查
+常规新生儿筛查
+甲状腺功能检查
+甲状腺功能检查
+有时行甲状腺超声或放射性核素扫描
+有时行甲状腺超声或放射性核素扫描
+通过常规的新生儿筛查，可在临床症状出现以前发现疾病(1)。如筛查阳性，需进一步实验室检查，包括测定游离血清甲状腺素（游离T4）及促甲状腺素（TSH） (2)。在这些患者中，FT4比TT4更能准确反映甲状腺功能，因为甲状腺结合蛋白（包括甲状腺结合球蛋白、转甲状腺素蛋白和白蛋白）水平会影响TT4水平。对于早产或低出生体重婴儿，测量游离 T4 而不是总 T4 尤为重要，因为这些婴儿的结合蛋白发生改变，导致虽然游离 T4 水平正常，但总 T4 水平也较低。对于怀疑患有甲状腺功能减退症的年长儿童和青少年，也需要进行甲状腺功能检测。
+三碘甲状腺氨酸（T3）水平检测很少有助于甲状腺功能减退症的诊断，因为它是显示异常结果的终末检测，不应在大多数患者中进行。反T3水平检测包含无代谢活性的T3； 在疾病或饥饿期间，反T3升高，因此不能用于诊断甲状腺功能减退。
+严重的先天性甲状腺功能低下患儿，即使给予及时的治疗，仍可引起精细的发育障碍和神经性耳聋 (3,4)。听力损失可能非常轻微，以致初次筛查无法发现，但仍可能影响到语言习得。建议在婴儿期后复查以便于发现潜在的听力损失。
+当诊断出先天性甲状腺功能减退时，可以进行放射性核素扫描（锝-99高锝酸盐或碘-123）或超声检查，以评估甲状腺的大小和位置，从而帮助将结构异常（即甲状腺发育不全）与激素生成障碍、短暂异常 区分开来。
+在怀疑患有甲状腺功能减退症（TSH升高和T4/游离T4低）的儿童和青少年中，应检测甲状腺抗体滴度（甲状腺过氧化物酶和甲状腺球蛋白），以评估自身免疫性甲状腺炎。生物素是一种常见的非处方补充剂，应在实验室检测前至少停药 2 天，因为它会干扰多项甲状腺功能检测。最常见的是，生物素会导致 T4 和 T3 水平错误地升高以及 TSH 水平错误地降低，并可能导致对甲亢的错误诊断(5)。
+明确自身免疫性甲状腺炎的诊断不需要行甲状腺超声检查，应限于甲状腺不对称或可触及甲状腺结节的儿童。
+中枢性甲状腺功能减退症表现为FT4水平降低和TSH水平正常的特征性模式。中枢性甲状腺功能减退症可能出现在患有中线缺陷的儿童中（例如，腭裂、小阴茎）或视力障碍（例如，眼球震颤）。 确诊为中枢性甲状腺功能减退症的患儿应进行脑和垂体的MRI检查，以排除中枢神经系统病变。或者，这种甲状腺功能障碍模式出现在使用某些药物（例如抗癫痫药物、免疫检查点抑制剂）或患有某些疾病（甲状腺功能正常病态综合征）的儿童中。对于患有非甲状腺疾病综合征的儿童，随着临床状况的改善，甲状腺功能会恢复正常。
+
+【诊断参考】
+1.Wassner AJ: Congenital hypothyroidism.Clin Perinatol45(1):1–18, 2018. doi: 10.1016/j.clp.2017.10.004
+1.Wassner AJ: Congenital hypothyroidism.Clin Perinatol45(1):1–18, 2018. doi: 10.1016/j.clp.2017.10.004
+2.Rose SR, Wassner AJ, Wintergerst KA, et al: Congenital Hypothyroidism: Screening and Management.Pediatrics151(1):e2022060419, 2023.doi: 10.1542/peds.2022-060419
+2.Rose SR, Wassner AJ, Wintergerst KA, et al: Congenital Hypothyroidism: Screening and Management.Pediatrics151(1):e2022060419, 2023.doi: 10.1542/peds.2022-060419
+3.van der Sluijs Veer L, Kempers MJ, et al: Health- related quality of life and self-worth in 10-year-old children with congenital hypothyroidism diagnosed by neonatal screening.Child Adolesc Psychiatry Ment Health6(1):32, 2012.doi: 10.1186/1753-2000-6-32
+3.van der Sluijs Veer L, Kempers MJ, et al: Health- related quality of life and self-worth in 10-year-old children with congenital hypothyroidism diagnosed by neonatal screening.Child Adolesc Psychiatry Ment Health6(1):32, 2012.doi: 10.1186/1753-2000-6-32
+4.Lichtenberger-Geslin L, Dos Santos S, Hassani Y, et al: Factors associated with hearing impairment in patients with congenital hypothyroidism treated since the neonatal period: a national population-based study.J Clin Endocrinol Metab98(9):3644-3652, 2013.doi: 10.1210/jc.2013-1645
+4.Lichtenberger-Geslin L, Dos Santos S, Hassani Y, et al: Factors associated with hearing impairment in patients with congenital hypothyroidism treated since the neonatal period: a national population-based study.J Clin Endocrinol Metab98(9):3644-3652, 2013.doi: 10.1210/jc.2013-1645
+5.Odhaib SA, Mansour AA, Haddad NS: HowBiotinInduces Misleading Results in Thyroid Bioassays: Case Series.Cureus11(5):e4727, 2019.doi: 10.7759/cureus.4727
+5.Odhaib SA, Mansour AA, Haddad NS: HowBiotinInduces Misleading Results in Thyroid Bioassays: Case Series.Cureus11(5):e4727, 2019.doi: 10.7759/cureus.4727
+
+【婴儿和儿童甲状腺功能减退症的治疗】
+甲状腺激素替代疗法
+甲状腺激素替代疗法
+经过治疗，大多数婴儿的运动和智能发育正常。
+（参阅由美国甲状腺协会甲状腺激素替代治疗工作组制定2014年美国甲状腺功能减退症治疗指南。）
+
+【何时治疗】
+如果确认的 TSH 水平 > 20 mU/L（即使游离 T4 正常），就应该开始治疗先天性甲状腺功能减退症。对于 TSH 值在 10 至 20 mU/L 之间，可以开始治疗，或者可以密切监测 TSH 和游离 T4 水平（每 1 至 2 周）。治疗适用于持续 TSH 升高 > 10 mU/L（1）。
+先天性甲状腺功能低下的大多数病例需终生甲状腺激素替代治疗。然而，若初始TSH水平<40mU/L，且未发现器质性病因，并且根据患儿自婴儿期以来无需增加药量的情况可判定为暂时性甲减，则临床医生可在患儿3岁后尝试停药，此阶段停药不会对发育中的中枢神经系统造成危害。若停药后(通常需停药约6-8周)TSH水平升高，同时FT4或TT4水平降低，则可确诊为永久性先天性甲状腺功能减退症，此时应重新开始治疗。通过主要依赖TT4检测的筛查发现的甲状腺结合球蛋白缺乏无需治疗，因为受累婴儿FT4和TSH水平正常，处于甲状腺功能正常的状态。
+左旋甲状腺素治疗适用于 TSH 水平 > 10 mU/L 的儿童。
+TSH仅轻微升高（通常在5mU/L和10mU/L之间）且游离T4水平正常的年龄较大儿童被认为患有亚临床甲状腺功能减退症。关于亚临床甲状腺功能减退症患者的治疗存在争议。亚临床甲状腺功能减退症通常不会引起任何症状。如果患者有甲状腺肿大、甲状腺抗体阳性、生长速度减慢、高脂血症等情况，可以考虑治疗。如果不治疗，应每 6 至 12 个月监测甲状腺功能一段时间，以确保功能不会恶化。亚临床甲状腺功能减退症患者应重复进行甲状腺检测，因为大多数患者在重复检测时 TSH 水平会恢复正常（1）。值得注意的是，肥胖患者可能患有亚临床甲状腺功能减退症，但这被认为是肥胖的不良影响而不是原因。除非存在其他因素（例如，甲状腺抗体阳性，甲状腺肿），否则不建议治疗。随着体重减轻，甲状腺功能将恢复正常。
+
+【治疗方案】
+对于先天性甲状腺功能减退症，必须立即开始口服左旋甲状腺素，每天一次，并进行密切监测。该方案旨在快速（2周内）将TT4水平达到同年龄正常范围的上半区（10 mcg/dL [129 nmol/L]至15 mcg/dL [193 nmol/L]之间），并迅速（4周内）降低TSH水平。
+在获得性甲状腺功能减退症中，左甲状腺素的常规起始剂量通常取决于诊断时甲状腺功能减退的严重程度。对于严重的长期甲状腺功能减退症，可以选择较低的起始剂量，以避免因缓慢滴定至全剂量而出现潜在的行为症状。或者，可以根据体表面积或年龄和体重来确定剂量。
+对于两种类型的甲状腺功能减退症，剂量被滴定，以保持血清T4和TSH水平在正常的年龄范围内。
+因为由个别药剂师制备的复合液体制剂的递送不一致，所以左甲状腺素通常以片剂形式给药。片剂可以压碎，与少量（1 至 2 mL）水、母乳或非大豆配方奶粉混合，然后通过注射器口服给药。如果与大豆配方、铁或钙一起服用，左甲状腺素的吸收可能会降低。商业口服液体制剂适用于任何年龄的儿童，可作为不同强度的单剂量安瓿或 100 毫升瓶装，剂量根据注射器容量选择。截至目前，在先天性甲状腺功能减退症的治疗中，使用液体制剂的经验仍较为有限，且尚不清楚其给药剂量与压碎片剂是否相同。若必须静脉注射左甲状腺素，则应使用口服剂量的75%。虽然T3是具有生物活性的甲状腺激素，但临床上通常以左甲状腺素(T4)作为单一疗法给药，且无需使用T3，因为大脑中的大部分T3是通过酶将T4转化为T3产生的。
+在生后的最初几年，儿童被更频繁地监测：
+在出生后的前6个月期间，每1至2个月一次
+在出生后的前6个月期间，每1至2个月一次
+6 个月至 3 岁期间，每 3 到 4 个月一次
+6 个月至 3 岁期间，每 3 到 4 个月一次
+从 3 岁到生长结束，每 6 到 12 个月一次
+从 3 岁到生长结束，每 6 到 12 个月一次
+若对服药依从性问题存疑，可以对年长儿童进行更频繁地监测。在对年龄较大的儿童进行剂量调整后，应在6至8周内测量TSH和游离T4水平。
+
+【治疗参考文献】
+1.Rose SR, Wassner AJ, Wintergerst KA, et al: Congenital Hypothyroidism: Screening and Management.Pediatrics151(1):e2022060419, 2023.doi: 10.1542/peds.2022-060419
+1.Rose SR, Wassner AJ, Wintergerst KA, et al: Congenital Hypothyroidism: Screening and Management.Pediatrics151(1):e2022060419, 2023.doi: 10.1542/peds.2022-060419
+2.Lazar L, Frumkin RB, Battat E, et al: Natural history of thyroid function tests over 5 years in a large pediatric cohort.J Clin Endocrinol Metab94(5):1678-1682, 2009.doi: 10.1210/jc.2008-2615
+2.Lazar L, Frumkin RB, Battat E, et al: Natural history of thyroid function tests over 5 years in a large pediatric cohort.J Clin Endocrinol Metab94(5):1678-1682, 2009.doi: 10.1210/jc.2008-2615
+婴儿的甲状腺功能减退通常是先天性的；随着年龄增长，获得性原因更为常见。
+婴儿的甲状腺功能减退通常是先天性的；随着年龄增长，获得性原因更为常见。
+大多数先天性原因涉及腺体发育不全，但可能发生影响甲状腺激素合成的遗传疾病。
+大多数先天性原因涉及腺体发育不全，但可能发生影响甲状腺激素合成的遗传疾病。
+通过常规新生儿筛查检测大多数甲状腺功能低下的婴儿。
+通过常规新生儿筛查检测大多数甲状腺功能低下的婴儿。
+通过检测血清FT4和TSH水平来确诊；若确诊，则进行影像学检查以排查甲状腺结构异常。
+通过检测血清FT4和TSH水平来确诊；若确诊，则进行影像学检查以排查甲状腺结构异常。
+用左旋甲状腺素治疗，调整剂量以保持T4和TSH水平在对应年龄的正常范围内。
+用左旋甲状腺素治疗，调整剂量以保持T4和TSH水平在对应年龄的正常范围内。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+American Academy of Pediatrics:Congenital Hypothyroidism: Screening and Management(2023)
+American Academy of Pediatrics:Congenital Hypothyroidism: Screening and Management(2023)
+American Thyroid Association Task Force on Thyroid Hormone Replacement:Guidelines for the Treatment of Hypothyroidism(2014)
+American Thyroid Association Task Force on Thyroid Hormone Replacement:Guidelines for the Treatment of Hypothyroidism(2014)

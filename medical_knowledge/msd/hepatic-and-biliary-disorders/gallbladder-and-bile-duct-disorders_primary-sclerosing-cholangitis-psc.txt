@@ -1,0 +1,115 @@
+标题：原发性硬化性胆管炎（PSC）
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/gallbladder-and-bile-duct-disorders/primary-sclerosing-cholangitis-psc
+============================================================
+
+（参见胆管功能概述。）
+PSC是硬化性胆管炎最常见的类型大多数（约三分之二）原发性硬化性胆管炎患者为男性（1）。发病高峰年龄为 25～45 岁。
+
+【参考文献】
+1.Bowlus CL, Arrivé L, Bergquist A, et al.AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma.Hepatology.2023;77(2):659-702.doi:10.1002/hep.32771
+1.Bowlus CL, Arrivé L, Bergquist A, et al.AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma.Hepatology.2023;77(2):659-702.doi:10.1002/hep.32771
+
+【原发性硬化性胆管炎的病因学】
+原发性硬化性胆管炎（PSC）估计患病率高达每10万人中35例，且在高纬度地区普遍较高（1）。虽然其确切病因尚不明确，但PSC与炎症性肠病（IBD）密切相关，不同地区患者中合并IBD的比例约为 60%～90%（1, 2）。约 2.5% 的溃疡性结肠炎患者及约 1% 的克罗恩病患者可同时患有PSC（3）。与IBD的共病关系，以及患者体内存在多种自身抗体（如抗核抗体〔ANA〕、核周型抗中性粒细胞胞浆抗体〔pANCA〕）等发现，均提示该病的发病机制可能与免疫介导反应有关。T细胞似乎参与胆管的破坏，这意味着细胞免疫的紊乱。研究提示该疾病具有遗传易感性，表现为在同一家族中可见多例发病，并在具有特定人类白细胞抗原（HLA）类型的人群中发病率较高，尤以 HLA-B8 最为显著；该抗原型常与自身免疫性疾病相关。在具有遗传易感性的人群中，某些未知诱因（如细菌感染、胆管缺血性损伤等）可能触发PSC的发生。其他病因因素可能包括肠道炎症或渗漏、胆汁稳态和肠道微生物群。
+目前公认有三种主要的疾病表型（4, 5）：
+经典表型，涉及大小胆管，常与炎症性肠病（IBD）相关
+经典表型，涉及大小胆管，常与炎症性肠病（IBD）相关
+小导管表型
+小导管表型
+PSC自身免疫性肝炎重叠表型
+PSC自身免疫性肝炎重叠表型
+典型表型在约 70%–80% 的患者中与炎症性肠病相关，并伴有胆囊癌、肝细胞癌、胆管癌的发病风险增加；若同时存在炎症性肠病，还会增加结肠癌的风险。小导管型疾病的预后优于典型型疾病，且胆管癌发生风险更低。重叠表型对免疫治疗的反应更好。
+
+【病因参考文献】
+1.Manns MP, Bergquist A, Karlsen TH, et al.Primary sclerosing cholangitis.Nat Rev Dis Primers.2025;11(1):17.doi:10.1038/s41572-025-00600-x
+1.Manns MP, Bergquist A, Karlsen TH, et al.Primary sclerosing cholangitis.Nat Rev Dis Primers.2025;11(1):17.doi:10.1038/s41572-025-00600-x
+2.Bowlus CL, Arrivé L, Bergquist A, et al.AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma.Hepatology.2023;77(2):659-702. doi: 10.1002/hep.32771
+2.Bowlus CL, Arrivé L, Bergquist A, et al.AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma.Hepatology.2023;77(2):659-702. doi: 10.1002/hep.32771
+3.Barberio B, Massimi D, Cazzagon N, et al.Prevalence of Primary Sclerosing Cholangitis in Patients With Inflammatory Bowel Disease: A Systematic Review and Meta-analysis.Gastroenterology.2021;161(6):1865-1877.doi:10.1053/j.gastro.2021.08.032
+3.Barberio B, Massimi D, Cazzagon N, et al.Prevalence of Primary Sclerosing Cholangitis in Patients With Inflammatory Bowel Disease: A Systematic Review and Meta-analysis.Gastroenterology.2021;161(6):1865-1877.doi:10.1053/j.gastro.2021.08.032
+4.Lazaridis KN, LaRusso NF.Primary Sclerosing Cholangitis.N Engl J Med.2016;375(12):1161-1170.doi:10.1056/NEJMra1506330
+4.Lazaridis KN, LaRusso NF.Primary Sclerosing Cholangitis.N Engl J Med.2016;375(12):1161-1170.doi:10.1056/NEJMra1506330
+5.Horwich BH, Dieterich DT.Phenotypes of Primary Sclerosing Cholangitis and Differential Diagnosis. Clin Liver Dis.2024;28(1):143-155.doi:10.1016/j.cld.2023.07.006
+5.Horwich BH, Dieterich DT.Phenotypes of Primary Sclerosing Cholangitis and Differential Diagnosis. Clin Liver Dis.2024;28(1):143-155.doi:10.1016/j.cld.2023.07.006
+
+【原发性硬化性胆管炎的症状和体征】
+通常起病隐匿，进行性乏力和瘙痒。一项基于人群的研究显示，57% 的患者以无症状的实验室异常为首发表现，其余患者则出现腹痛、瘙痒、腹泻、黄疸、乏力及发热等症状（1）。可有脂肪泻和脂溶性维生素的缺乏。持续的黄疸预示病情严重。约 50% 的患者可出现症状性胆结石或胆总管结石，约 40% 的患者发生细菌性胆管炎（1）。
+有些患者无症状，直到病程晚期才出现症状，以肝脾大和/或肝硬化为首发症状。
+原发性硬化性胆管炎 (PSC) 往往会缓慢而无情地进展。 终末阶段涉及失代偿性肝硬化，门脉高压，腹水和肝功能衰竭。
+尽管PSC和炎症性肠病有关，但两者病程是独立的。溃疡性结肠炎可在PSC之前数年出现，伴有PSC时通常病情较轻。同样，全结肠切除术也不能改变PSC的病程 (2)。不论PSC是否行肝移植，PSC和IBD两种疾病共存增加了结直肠癌的风险。胆管癌10% 到 20% 的患者会出现这种情况（3, 1）。
+
+【症状和体征参考】
+1.Bowlus CL, Arrivé L, Bergquist A, et al.AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma.Hepatology.2023;77(2):659-702.doi:10.1002/hep.32771
+1.Bowlus CL, Arrivé L, Bergquist A, et al.AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma.Hepatology.2023;77(2):659-702.doi:10.1002/hep.32771
+2.Cordes F, Laumeyer T, Gerß J, et al.Distinct Disease Phenotype of Ulcerative Colitis in Patients With Coincident Primary Sclerosing Cholangitis: Evidence From a Large Retrospective Study With Matched Cohorts.Dis Colon Rectum.2019;62(12):1494-1504.doi:10.1097/DCR.0000000000001496
+2.Cordes F, Laumeyer T, Gerß J, et al.Distinct Disease Phenotype of Ulcerative Colitis in Patients With Coincident Primary Sclerosing Cholangitis: Evidence From a Large Retrospective Study With Matched Cohorts.Dis Colon Rectum.2019;62(12):1494-1504.doi:10.1097/DCR.0000000000001496
+3.Tabibian JH, Ali AH, Lindor KD.Primary sclerosing cholangitis, part 2: Cancer risk, prevention, and surveillance.Gastroenterol Hepatol(NY). 2018;14(7):427-432
+3.Tabibian JH, Ali AH, Lindor KD.Primary sclerosing cholangitis, part 2: Cancer risk, prevention, and surveillance.Gastroenterol Hepatol(NY). 2018;14(7):427-432
+
+【原发性硬化性胆管炎的诊断】
+实验室检查
+实验室检查
+如果超声阳性或无法诊断，进行空气灌肠或造影剂灌肠（除非患者出现腹膜炎或穿孔表现）。
+如果超声阳性或无法诊断，进行空气灌肠或造影剂灌肠（除非患者出现腹膜炎或穿孔表现）。
+磁共振胆胰管成像（MRCP）
+磁共振胆胰管成像（MRCP）
+有时进行肝活检来诊断小胆管或自身免疫性肝炎重叠表型
+有时进行肝活检来诊断小胆管或自身免疫性肝炎重叠表型
+在肝脏检查有不明原因异常的患者中怀疑原发性硬化性胆管炎（PSC），尤其是那些有炎症性肠病（IBD）的患者。典型的胆汁淤积表现：碱性磷酸酶和gamma‑谷氨酰转移酶(GGT)通常比氨基转移酶升高更明显。gamma‑球蛋白和IgM水平趋于升高。抗he抗体和PANCA通常为阳性。抗线粒体抗体在原发性胆汁性胆管炎阳性，而在PSC中阴性。检测血清IgG4水平有助于排除IgG4相关性硬化性胆管炎（1）。
+肝胆系统的影像学检查通常从超声开始，以排除肝外胆管梗阻。虽然超声或CT可显示导管扩张，诊断需要胆管造影显示肝内和肝外胆管多发狭窄与扩张。胆道造影应从磁共振胰胆管造影（MRCP）开始。内镜逆行胰胆管造影（ERCP）避免仅用于诊断目的，仅在需要活检或干预时进行，因为存在并发症风险（1）。
+肝活检通常不用于诊断，但可检测仅影响小胆管的疾病并揭示与自身免疫性肝炎的重叠。进行活检时，可见典型的胆管增生、管周纤维化、炎症反应及胆管消失等病理改变。当疾病进展时，管周纤维化从汇管区向外扩展，最终导致继发性胆汁性肝硬化。
+对于患有原发性硬化性胆管炎（PSC）的成年人，即使未出现肝硬化，也应每 6～12 个月进行一次腹部影像学检查（如超声、腹部CT或MRI/MRCP），以筛查胆囊癌及胆管癌。应定期监测碳水化合物抗原 (CA) 19-9 的血清水平（2)。
+结肠镜检查与活检应在诊断为PSC时，对于没有先前存在炎症性肠病（IBD）的患者进行，并且由于结直肠腺癌风险增加，从PSC诊断时起，对于同时有PSC和IBD的患者应每年进行一次。
+
+【诊断参考】
+1.Bowlus CL, Arrivé L, Bergquist A, et al.AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma.Hepatology.2023;77(2):659-702.doi:10.1002/hep.32771
+1.Bowlus CL, Arrivé L, Bergquist A, et al.AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma.Hepatology.2023;77(2):659-702.doi:10.1002/hep.32771
+2.Bowlus CL, Lim JK, Lindor KD.AGA Clinical practice update on surveillance for hepatobiliary cancers in patients with primary sclerosing cholangitis: Expert review.Clin Gastroenterol Hepatol.2019;17(12):2416-2422.doi: 10.1016/j.cgh.2019.07.011
+2.Bowlus CL, Lim JK, Lindor KD.AGA Clinical practice update on surveillance for hepatobiliary cancers in patients with primary sclerosing cholangitis: Expert review.Clin Gastroenterol Hepatol.2019;17(12):2416-2422.doi: 10.1016/j.cgh.2019.07.011
+
+【原发性硬化性胆管炎的治疗】
+胆汁酸多价螯合剂可用于症状管理
+胆汁酸多价螯合剂可用于症状管理
+熊去氧胆酸可改善肝功能指标，但无明确生存获益
+熊去氧胆酸可改善肝功能指标，但无明确生存获益
+内窥镜逆行胰胆管造影 (ERCP) 扩张术治疗主要（显性）狭窄
+内窥镜逆行胰胆管造影 (ERCP) 扩张术治疗主要（显性）狭窄
+复发性细菌性胆管炎或肝衰竭并发症可行肝移植。
+复发性细菌性胆管炎或肝衰竭并发症可行肝移植。
+无症状患者可能仅需监测（例如，每年两次体格检查和肝功能检查）。
+胆汁酸螯合剂（如考来烯胺）是对于抗组胺药和非药物治疗（如外用润肤剂）无效的瘙痒的一线治疗（1）。熊去氧胆酸也能减轻瘙痒并改善生化标志物（特别是碱性磷酸酶），但关于改善生存的证据最多是混杂的（2）。常规预防性抗生素不推荐使用，仅在发生细菌性胆管炎时给予抗菌治疗。
+治疗性ERCP适用于显著狭窄及细菌性胆管炎的情况（1，3）。如果一个单一狭窄是阻塞的主要原因（高达45%的患者可能出现显性狭窄），ERCP扩张（细胞学刷检和原位荧光杂交[FISH]筛查胆管癌）和支架植入可缓解症状。
+肝移植可显著改善原发性硬化性胆管炎（PSC）患者的生存率和生活质量（1）。肝移植指征包括：反复发作的细菌性胆管炎、终末期肝病的并发症（如难治性腹水、肝性脑病、食管静脉曲张出血），或胆管癌（在适当选择的患者中）（1）。
+患有PSC自身免疫性肝炎重叠综合征的患者应根据自身免疫性肝炎的指南进行治疗（1）。
+
+【监测与随访】
+原发性硬化性胆管炎 (PSC) 患者应接受以下监测（1):
+每年进行磁共振胰胆管成像（MRCP），可伴随或不伴随碳水化合物抗原（CA） 19-9检测，用于筛查胆管癌和胆囊癌（成人）
+每年进行磁共振胰胆管成像（MRCP），可伴随或不伴随碳水化合物抗原（CA） 19-9检测，用于筛查胆管癌和胆囊癌（成人）
+内镜逆行胰胆管造影检查狭窄时进行导管内细胞学检查和荧光原位杂交检测
+内镜逆行胰胆管造影检查狭窄时进行导管内细胞学检查和荧光原位杂交检测
+每1至2年进行一次结肠镜检查并取活检（从15岁起），以筛查结直肠癌
+每1至2年进行一次结肠镜检查并取活检（从15岁起），以筛查结直肠癌
+骨密度测量（在诊断时及每2至3年一次），以筛查代谢性骨病
+骨密度测量（在诊断时及每2至3年一次），以筛查代谢性骨病
+根据需要测量并补充维生素A、D和E的水平
+根据需要测量并补充维生素A、D和E的水平
+小胆管疾病患者应每3至5年进行一次MRCP，以监测是否发展为大胆管疾病(1)。
+
+【治疗参考文献】
+1.Bowlus CL, Arrivé L, Bergquist A, et al.AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma.Hepatology2023; 77(2):659-702. doi: 10.1002/hep.32771
+1.Bowlus CL, Arrivé L, Bergquist A, et al.AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma.Hepatology2023; 77(2):659-702. doi: 10.1002/hep.32771
+2.Manns MP, Bergquist A, Karlsen TH, et al.Primary sclerosing cholangitis.Nat Rev Dis Primers.2025;11(1):17.doi:10.1038/s41572-025-00600-x
+2.Manns MP, Bergquist A, Karlsen TH, et al.Primary sclerosing cholangitis.Nat Rev Dis Primers.2025;11(1):17.doi:10.1038/s41572-025-00600-x
+3.Aabakken L, Karlsen TH, Albert J, et al.Role of endoscopy in primary sclerosing cholangitis: European Society of Gastrointestinal Endoscopy (ESGE) and European Association for the Study of the Liver (EASL) Clinical Guideline.Endoscopy.2017;49(6):588-608.doi: 10.1055/s-0043-107029
+3.Aabakken L, Karlsen TH, Albert J, et al.Role of endoscopy in primary sclerosing cholangitis: European Society of Gastrointestinal Endoscopy (ESGE) and European Association for the Study of the Liver (EASL) Clinical Guideline.Endoscopy.2017;49(6):588-608.doi: 10.1055/s-0043-107029
+大多数 (60% 至 90%) PSC 患者患有 IBD，通常是溃疡性结肠炎，并且许多患者具有自身抗体。
+大多数 (60% 至 90%) PSC 患者患有 IBD，通常是溃疡性结肠炎，并且许多患者具有自身抗体。
+如果患者，特别是炎性肠病患者，肝功能检查中有原因不明胆汁淤积型异常，则应该怀疑PSC。
+如果患者，特别是炎性肠病患者，肝功能检查中有原因不明胆汁淤积型异常，则应该怀疑PSC。
+通过超声排除肝外胆道梗阻，之后进行MRCP检查。
+通过超声排除肝外胆道梗阻，之后进行MRCP检查。
+通过定期肝检查监测患者，定期筛查胆囊癌和胆管癌，并治疗症状和并发症（例如，ERCP 评估和治疗显性狭窄）。
+通过定期肝检查监测患者，定期筛查胆囊癌和胆管癌，并治疗症状和并发症（例如，ERCP 评估和治疗显性狭窄）。
+出现复发性细菌性胆管炎或肝衰竭并发症可行肝移植
+出现复发性细菌性胆管炎或肝衰竭并发症可行肝移植

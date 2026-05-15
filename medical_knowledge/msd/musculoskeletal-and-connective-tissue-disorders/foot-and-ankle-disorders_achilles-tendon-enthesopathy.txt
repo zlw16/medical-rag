@@ -1,0 +1,26 @@
+标题：跟腱附着点病
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/foot-and-ankle-disorders/achilles-tendon-enthesopathy
+============================================================
+
+(参见足和踝部疾病概述。）
+跟腱末端病的病因是跟腱对跟骨的慢性牵引。生活方式和肥胖或过度运动是导致腓肠肌的收缩或缩短造成本病。肌腱端炎可由脊柱关节病引起。
+于跟后出现的疼痛，疼痛位于鞋后顶点下方，并出现于走动中是其特征。对有这些症状的患者，肌腱触诊时的疼痛具有诊断意义。踝关节在背屈时压痛常会加剧。若出现复发性或多灶性附着点炎，应进行病史采集及体格检查，以评估是否存在脊柱关节病（如强直性脊柱炎、银屑病关节炎等）。侧位X光片可能显示附着点骨赘形成（肌腱附着处的骨刺）。
+该侧位X线片显示跟腱附着点病变（箭头所示）。
+Image courtesy of James C.Connors, DPM.
+
+【跟腱附着点病的治疗】
+夹板固定、拉伸、抬高足跟
+夹板固定、拉伸、抬高足跟
+如果存在，治疗脊柱关节病
+如果存在，治疗脊柱关节病
+物理治疗对于制定个体化的家庭康复锻炼方案至关重要，主要包括腓肠肌牵伸训练，每次约10分钟，每日进行2至3次。患者可以向后施加压力以拉伸小腿肌肉，同时面对墙壁伸展手臂，膝盖伸展并且通过患者自身重量进行脚背屈曲（站立的腓肠肌伸展）。为减小负重时跟腱承受的压力，病人在长时间休息后起身时应该积极通过加大活动范围约1分钟以改善足踝关节活动度。在踝关节背屈时，在脚掌处使用橡皮筋被动拉伸跟腱，缓解膝关节屈曲和伸展。夜间可使用支具维持被动牵伸，以防止肌腱挛缩的发生。
+抬高鞋跟应暂时地减轻负重时肌腱压力，缓解疼痛。即使只有一边足跟痛，也应通过抬高两边鞋跟来预防步态不稳和可能继发的（代偿性的）臀部和下腰背疼痛。
+对于伴有基础性脊柱关节病的跟腱附着点病变患者，使用非甾体抗炎药（NSAID）或生物制剂（如肿瘤坏死因子抑制剂）治疗可能有益。
+对于更顽固的跟腱附着病，可以考虑体外脉冲激活疗法（EPAT），也称为体外冲击波疗法（ESWT）。 应用体外脉冲导融疗法(EPAT)，低频脉冲波经由手持式涂药器在局部传送。脉冲压力波是一种安全、无创的技术，被认为可以刺激新陈代谢和促进血液循环，从而有助于受损组织的再生和加速愈合。一些数据显示 EPAT 可以改善症状和功能结果（1）；然而，需要额外的高质量证据来确定治疗的持续时间和频率（2）。
+尽管进行了充分的保守治疗，但仍有持续症状的患者应考虑手术切除骨刺。患者俯卧于手术台，行跟腱中线切口。暴露肌腱并暂时与跟骨分离。用手术锯切除骨刺，并清创肌腱上的结节及钙化附着点骨赘。将跟腱使用软组织锚钉重新固定于跟骨上。患者放置中立位夹板约6周，随后开始专门的物理治疗常规。
+
+【治疗参考文献】
+1.Rompe JD, Furia J, Maffulli N: Eccentric loading compared with shock wave treatment for chronic insertional Achilles tendinopathy.A randomized, controlled trial.J Bone Joint Surg Am90(1):52-61, 2008.doi:10.2106/JBJS.F.01494
+1.Rompe JD, Furia J, Maffulli N: Eccentric loading compared with shock wave treatment for chronic insertional Achilles tendinopathy.A randomized, controlled trial.J Bone Joint Surg Am90(1):52-61, 2008.doi:10.2106/JBJS.F.01494
+2.Fan Y, Feng Z, Cao J, Fu W: Efficacy of extracorporeal shock wave therapy for Achilles tendinopathy: a meta-analysis.Orthop J Sports Med8(2):2325967120903430, 2020.Published 2020 Feb 27.doi:10.1177/2325967120903430
+2.Fan Y, Feng Z, Cao J, Fu W: Efficacy of extracorporeal shock wave therapy for Achilles tendinopathy: a meta-analysis.Orthop J Sports Med8(2):2325967120903430, 2020.Published 2020 Feb 27.doi:10.1177/2325967120903430

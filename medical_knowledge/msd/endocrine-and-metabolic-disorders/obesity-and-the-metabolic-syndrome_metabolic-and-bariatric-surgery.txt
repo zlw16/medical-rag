@@ -1,0 +1,241 @@
+标题：代谢和减肥手术
+来源：https://www.msdmanuals.cn/professional/endocrine-and-metabolic-disorders/obesity-and-the-metabolic-syndrome/metabolic-and-bariatric-surgery
+============================================================
+
+在美国，每年大约进行 260,000 例减肥手术（1）。更安全、微创方法的发展使得这种手术更加普遍。
+（参见肥胖.)
+
+【参考文献】
+1.Clapp B, Ponce J, DeMaria, et al.American Society for Metabolic and Bariatric Surgery 2020 estimate of metabolic and bariatric procedures performed in the United State.Aurg Obes Relat Dis.2022;18 (9):1134–1140.doi: 10.1016/j.soard.2022.06.284
+
+【减肥手术适应症】
+美国代谢与减重外科学会（ASMBS）与国际肥胖与代谢疾病外科联合会（IFSO）更新了代谢与减重手术的推荐指征：无论是否合并并发症，BMI≥35 千克 / 米 ² 的患者；以及 BMI 30-34.9 千克 / 米 ² 且合并代谢疾病的患者。合并症包括以下内容：
+2型糖尿病
+2型糖尿病
+血脂紊乱
+血脂紊乱
+阻塞性睡眠呼吸暂停
+阻塞性睡眠呼吸暂停
+心血管疾病
+心血管疾病
+代谢功能障碍相关性脂肪性肝病和脂肪性肝炎
+代谢功能障碍相关性脂肪性肝病和脂肪性肝炎
+慢性肾病
+慢性肾病
+多囊卵巢综合征
+多囊卵巢综合征
+胃食管反流疾病
+胃食管反流疾病
+假性脑瘤
+假性脑瘤
+骨骼和关节疾病
+骨骼和关节疾病
+更新后的建议还明确指出，应调整亚洲人群的 BMI 阈值，并且 BMI ≥ 27.5 kg/m2 的患者应接受手术（1）。
+代谢与减重手术是减重方案的一部分，通常包括：
+医疗人员研讨会课程
+医疗人员研讨会课程
+对患者进行心理评估
+对患者进行心理评估
+咨询外科医生
+咨询外科医生
+咨询注册营养师
+咨询注册营养师
+常规实验室检查
+常规实验室检查
+阻塞性睡眠呼吸暂停筛查
+阻塞性睡眠呼吸暂停筛查
+手术风险分层
+手术风险分层
+禁忌证包括:
+一种不受控制的精神障碍，例如重度抑郁症
+一种不受控制的精神障碍，例如重度抑郁症
+目前的物质或酒精使用障碍
+目前的物质或酒精使用障碍
+没有得到缓解的癌症
+没有得到缓解的癌症
+其他危及生命的病症
+其他危及生命的病症
+无法遵守营养要求，包括终身维生素补充（必要时）
+无法遵守营养要求，包括终身维生素补充（必要时）
+
+【适应症参考文献】
+1.Eisenberg D, Shikora SA, Aarts E, et al.2022 American Society for Metabolic and Bariatric Surgery (ASMBS) and International Federation for the Surgery of Obesity and Metabolic Disorders (IFSO): Indications for metabolic and bariatric surgery.Surg Obes Relat Dis.2023;33(1):3-14.doi:10.1007/s11695-022-06332-1
+1.Eisenberg D, Shikora SA, Aarts E, et al.2022 American Society for Metabolic and Bariatric Surgery (ASMBS) and International Federation for the Surgery of Obesity and Metabolic Disorders (IFSO): Indications for metabolic and bariatric surgery.Surg Obes Relat Dis.2023;33(1):3-14.doi:10.1007/s11695-022-06332-1
+
+【减重手术术式】
+在美国最常见的代谢和减肥手术包括
+袖状胃切除术
+袖状胃切除术
+Roux-en-Y 胃旁路术 （RYGB)
+Roux-en-Y 胃旁路术 （RYGB)
+修正手术
+修正手术
+胆胰转流术联合十二指肠转位手术(BPD/DS)
+胆胰转流术联合十二指肠转位手术(BPD/DS)
+袖状胃切除术联合单吻合口十二指肠-回肠旁路术 (SADI-S)
+袖状胃切除术联合单吻合口十二指肠-回肠旁路术 (SADI-S)
+内镜治疗
+内镜治疗
+可调型胃束带手术
+可调型胃束带手术
+垂直束带胃成形术或可调节胃束带术等术式已极少使用。减重外科医生应熟悉传统术式，因为术后数月至数年都可能出现手术并发症（1）。
+尽管肥胖人口的比例不断增加，但代谢和减肥手术使用率很低。符合手术条件的患者中只有不到 1% 接受了手术。远程医疗增加了术前咨询的可及性；但总体使用率仍较低（2）。
+通常，使用微创技术（腹腔镜或机器人），与开放手术相比，疼痛更少，愈合时间更短。传统上，减重手术分为限制性和 / 或吸收不良性，这是基于推测的减重机制。 然而，其他的因素似乎也有助于减肥;例如，RYGB（传统上分类为吸收不良性）和袖状胃切除术（传统上分类为限制性）可导致激素和代谢方面的改变（例如，增加胰岛素释放[肠促胰岛素效应]，有助于糖尿病的快速缓解），增强患者的饱足感并导致体重减轻。
+接受RYGB（特别是）或袖状胃切除术后，患者的胃肠激素水平，如胰高血糖素样肽-1（GLP-1）和YY肽（PYY）的水平升高，可能有助于产生饱足感、降低体重和缓解糖尿病。接受此类手术后，患者在体重明显减轻前即出现胰岛素灵敏度显著增加的现象，提示神经体液因素在糖尿病的缓解方面起了重要作用。肠道微生态的变化也可能促成RYGB后体重的变化。代谢和减肥手术可降低心血管疾病、糖尿病和癌症引起的死亡风险。
+
+【袖状胃切除术】
+袖状胃切除术是美国最常用的代谢和减肥手术。大约 80% 的胃被切除，形成类似于香蕉的管状胃通道。由此产生的套筒可容纳较少的食物，从而减少消耗的卡路里。患者的饥饿感也会减少，这与胃饥饿素和其他神经激素变化水平的降低有关。该手术在技术上比旁路手术更简单，可以作为十二指肠转位术（BPD-DS）或袖状胃切除术联合单吻合十二指肠回肠旁路术（SADI-S）的第一步。袖状胃切除术不会改变小肠。
+患者也可能出现原有胃食管反流病(GERD) 加重或新发该病。若反流症状持续存在或较为严重，可将袖状胃切除术转换为Roux-en-Y胃旁路术。
+罕见但严重的并发症包括袖状胃切除术后吻合口漏（可能导致感染和脓毒症）及出血。
+
+【Roux-en-Y 胃旁路术（RYGB）】
+Roux-en-Y胃旁路术（RYGB）被认为是一种兼具限制性与吸收障碍性的手术方式。将近端胃的一小部分与剩余部分分离，形成一个<30毫升的胃小囊。食物绕过通常被吸收的剩余胃和近端小肠的一部分，减少了食物和卡路里的吸收量。将分离形成的胃袋与空肠近端通过一个狭窄的入口吻合，也有限制胃排空率的功效。与旁路胃相连的那段小肠被连接到远端小肠。这种术式使得胆汁酸和胰酶能够与胃肠道的内容物混合，限制了吸收不良和营养缺乏发生的可能性。
+胃旁路手术对糖尿病的治疗特别有效;术后6年的缓解率高达62％(3)。胃旁路手术还被证明可以降低肥胖相关疾病的风险，包括心血管疾病、糖尿病和癌症，以及与这些疾病相关的总体死亡率和死亡率（4,5)。
+短期并发症包括吻合口漏（多发生于胃空肠连接处）和出血。进食高脂肪、高糖食物后可出现倾倒综合症；症状包括头晕、出汗、恶心、腹痛和腹泻。在RYGB术后服用非甾体类抗炎药 (NSAID) 或吸烟的患者可能会出现胃空肠吻合口溃疡的长期风险。如果出现内疝或肠套叠，可能会导致肠梗阻。
+
+【Roux-en-Y 胃旁路手术】
+Roux-en-Y 胃旁路手术
+
+【修订程序】
+越来越多的患者正在接受修正手术，以控制体重减轻不足、体重反弹或其他并发症，例如袖状胃切除术后出现胃食管反流病。
+对于 RYGB，修正手术可能包括缩短胃小囊，或缩短与胃相连的十二指肠段。目的是减少热量与营养素的吸收。
+术前评估通常包括内窥镜检查和 X 射线检查（例如吞钡）。
+
+【胆胰分流十二指肠转位术(BPD-DS)】
+十二指肠转位胆胰分流术（BPD-DS）约占美国减重手术的1%（6）。它通常适用于极度病态肥胖（BMI > 50 kg/m2）的患者。BPD-DS 可作为单一术式完成，也可分阶段进行（先单独行袖状胃切除术，初始减重后再行胆胰分流十二指肠转位术）。在这种手术中，大约三分之二到四分之三的上段小肠被绕过。
+袖状胃切除术后，在幽门远端切断十二指肠，并将一段回肠向上拉并与近端十二指肠吻合，形成约 200 厘米长的消化道，该消化道绕过大部分小肠和 奥狄括约肌（胆汁酸和胰酶在此进入）。结果，食物吸收减少。十二指肠的另一断端予以结扎，将旷置肠袢的剩余部分与回肠行二次吻合，形成 100 厘米的通道，使胆胰酶进入远端小肠以促进消化。
+与袖状胃切除术或Roux-en-Y胃旁路术相比，十二指肠转位胆胰分流术技术上更为复杂，但其在减重效果及2型糖尿病缓解方面最为显著。并发症发生率略高于其他手术，并且可能发生吸收不良、脂肪漏和营养缺乏。患者必须终身服用营养补充剂，并监测营养不足情况。
+
+【袖状胃切除术联合单吻合十二指肠转位术 (SADI-S)】
+与BPD-DS类似，单吻合口十二指肠-回肠旁路联合袖状胃切除术（SADI-S）包括袖状胃切除以及在幽门远端的近端十二指肠处进行离断。它可以分一个或两个阶段进行。其主要区别在于，SADI-S采用单环十二指肠-回肠吻合，并具有更长的共同通道以用于营养吸收。该手术操作相对更为简便快捷，且较传统BPD-DS发生营养缺乏的风险更低。存在胃食管反流症状加重或新发的可能。由于没有Roux环，也可能发生胆汁反流。
+
+【内镜治疗】
+较新的内窥镜手术可以帮助治疗不适合手术或喜欢侵入性较小的非手术方法的患者。
+可以使用胃内气球。将未充气的硅胶气球放入胃中，然后注入生理盐水。气囊减少胃容量并促进饱腹感。6个月后，取出球囊。患者最初体重减轻，但长期成功有限。
+内窥镜袖状胃成形术通过从内部缝合胃来缩小胃的体积。由于缝合将胃的皱褶缝合在一起，因此被称为手风琴手术。总体并发症发生率较低；最常见的并发症包括恶心、胃肠道出血、胃周漏和积液。
+袖状胃成形术的反流率比内镜袖状胃切除术低，并且该手术可能是可逆的。五年数据表明体重持续下降；然而，缺乏更长期数据（7）。
+
+【可调型胃束带手术】
+美国很少做可调节胃束带术。更常见的是，接受过此手术的患者会移除束带并接受袖状胃切除术或 RYGB。
+对于可调节胃束带，将束带放置在胃的上部周围，将胃分成较小的上袋和较大的下袋。通常需调整束带 4-6 次，方法是通过皮下放置的注射端口向束带内注入生理盐水。注入生理盐水后，束带扩张，从而限制胃上部小囊。因此，胃小囊容纳的食物量大幅减少，患者进食速度变慢，饱腹感出现得更早。如果发生并发症或如果箍带限制过量，可以将盐水从箍带中抽出。
+束带术的减重效果因人而异，与随访频率相关；随访越频繁，减重效果越好。术后早期发病率和死亡率低于其他手术。长期并发症包括胃食管反流、食管炎、带状滑脱和糜烂。
+因为束带周围会形成疤痕组织，因此去除束带有时在技术上具有挑战性。
+
+【可调型胃束带手术】
+可调型胃束带手术
+
+【手术步骤参考文献】
+1.Coblijn UK, Karres J, de Raaff CAL, et al.Predicting postoperative complications after bariatric surgery: The Bariatric Surgery Index for Complications, BASIC.Surg Endosc.2017;31(11):4438–4445, 2017.doi: 10.1007/s00464-017-5494-0 Epub 2017 Mar 31.
+1.Coblijn UK, Karres J, de Raaff CAL, et al.Predicting postoperative complications after bariatric surgery: The Bariatric Surgery Index for Complications, BASIC.Surg Endosc.2017;31(11):4438–4445, 2017.doi: 10.1007/s00464-017-5494-0 Epub 2017 Mar 31.
+2.Hlavin C, Ingraham P, Byrd T, et al.Clinical outcomes and hospital utilization among patients undergoing bariatric surgery with telemedicine preoperative care.JAMA Netw Open.2023;6 (2):e2255994.doi: 10.1001/jamanetworkopen.2022.55994
+2.Hlavin C, Ingraham P, Byrd T, et al.Clinical outcomes and hospital utilization among patients undergoing bariatric surgery with telemedicine preoperative care.JAMA Netw Open.2023;6 (2):e2255994.doi: 10.1001/jamanetworkopen.2022.55994
+3.Adams TD, Davidson LE, Litwin SE, et al.Weight and metabolic outcomes 12 years after gastric bypass.N Engl J Med.2017;377(12):1143–1155.doi: 10.1056/NEJMoa1700459
+3.Adams TD, Davidson LE, Litwin SE, et al.Weight and metabolic outcomes 12 years after gastric bypass.N Engl J Med.2017;377(12):1143–1155.doi: 10.1056/NEJMoa1700459
+4Carlsson LMS, Carlsson B, Jacobson P, et al, Life expectancy after bariatric surgery or usual care in patients with or without baseline type 2 diabetes in Swedish obese subjects.Int J Obes (Lond),.2023;47 (10):931–938.doi: 10.1038/s41366-023-01332-2.
+4Carlsson LMS, Carlsson B, Jacobson P, et al, Life expectancy after bariatric surgery or usual care in patients with or without baseline type 2 diabetes in Swedish obese subjects.Int J Obes (Lond),.2023;47 (10):931–938.doi: 10.1038/s41366-023-01332-2.
+5.Adams TD, Gress RE, Smith SC, et al.Long-term mortality after gastric bypass surgery.N Engl J Med.2007;357(8):753–761.doi: 10.1056/NEJMoa066603
+5.Adams TD, Gress RE, Smith SC, et al.Long-term mortality after gastric bypass surgery.N Engl J Med.2007;357(8):753–761.doi: 10.1056/NEJMoa066603
+6.Clapp B, Ponce J, Corbett J, et al.American Society for Metabolic and Bariatric Surgery 2022 estimate of metabolic and bariatric procedures performed in the United States. Surg Obes Relat Dis.2024;20(5):425-431.doi:10.1016/j.soard.2024.01.012
+6.Clapp B, Ponce J, Corbett J, et al.American Society for Metabolic and Bariatric Surgery 2022 estimate of metabolic and bariatric procedures performed in the United States. Surg Obes Relat Dis.2024;20(5):425-431.doi:10.1016/j.soard.2024.01.012
+7.Yoon JY, Arau RT; Study Group for Endoscopic Bariatric and Metabolic Therapies of the Korean Society of Gastrointestinal Endoscopy.The efficacy and safety of endoscopic sleeve gastroplasty as an alternative to laparoscopic sleeve gastrectomy.Clin Endosc.2021l54 (1):17–24, 2021.doi: 10.5946/ce.2021.019
+7.Yoon JY, Arau RT; Study Group for Endoscopic Bariatric and Metabolic Therapies of the Korean Society of Gastrointestinal Endoscopy.The efficacy and safety of endoscopic sleeve gastroplasty as an alternative to laparoscopic sleeve gastrectomy.Clin Endosc.2021l54 (1):17–24, 2021.doi: 10.5946/ce.2021.019
+
+【代谢和减肥手术的术前评估】
+术前评估包括
+尽可能多地诊断和纠正合并症
+尽可能多地诊断和纠正合并症
+评估准备和参与改变生活方式的能力
+评估准备和参与改变生活方式的能力
+排除手术禁忌症
+排除手术禁忌症
+由营养师回顾术后饮食并评估患者改变饮食的能力
+由营养师回顾术后饮食并评估患者改变饮食的能力
+识别任何不受控制的精神病以及任何可能妨碍手术的依赖性，并由心理学家或其他合格的精神卫生保健从业人员对术后坚持生活方式改变的潜在障碍进行识别和讨论
+识别任何不受控制的精神病以及任何可能妨碍手术的依赖性，并由心理学家或其他合格的精神卫生保健从业人员对术后坚持生活方式改变的潜在障碍进行识别和讨论
+通常无需全面的术前评估，但根据临床情况可能需要术前检查，同时需采取措施控制特定疾病（如高血压）或降低风险 (1)。
+肺：临床怀疑存在阻塞性睡眠呼吸暂停（OSA）风险的患者，应行多导睡眠监测筛查，若确诊 OSA，需采用持续气道正压通气（CPAP）治疗。这些诊断表明心血管疾病发病率和过早死亡的风险。吸烟增加术后肺部并发症、溃疡和胃肠出血的风险。应至少在手术前6周戒烟，最好是1年，以减少围手术期并发症，并在术后无限期戒烟。
+肺：临床怀疑存在阻塞性睡眠呼吸暂停（OSA）风险的患者，应行多导睡眠监测筛查，若确诊 OSA，需采用持续气道正压通气（CPAP）治疗。这些诊断表明心血管疾病发病率和过早死亡的风险。吸烟增加术后肺部并发症、溃疡和胃肠出血的风险。应至少在手术前6周戒烟，最好是1年，以减少围手术期并发症，并在术后无限期戒烟。
+心脏：术前心电图检查和其他无创性心脏测试被认为应根据个体风险进行检测，即使是无症状的患者，也可以发现隐匿型冠心病。虽然肥胖症会增加肺动脉高压的风险，但是不需要常规进行超声心动图检查。其他心脏检查不常规进行，而是根据患者的冠心病危险因素、手术风险及功能状态决定是否检查。术前应合理控制血压。围手术期急性肾损伤风险升高；因此，利尿剂、血管紧张素转换酶（ACE）抑制剂、血管紧张素 II 受体阻滞剂（ARBs）（若需使用）在此期间应谨慎使用。
+心脏：术前心电图检查和其他无创性心脏测试被认为应根据个体风险进行检测，即使是无症状的患者，也可以发现隐匿型冠心病。虽然肥胖症会增加肺动脉高压的风险，但是不需要常规进行超声心动图检查。其他心脏检查不常规进行，而是根据患者的冠心病危险因素、手术风险及功能状态决定是否检查。术前应合理控制血压。围手术期急性肾损伤风险升高；因此，利尿剂、血管紧张素转换酶（ACE）抑制剂、血管紧张素 II 受体阻滞剂（ARBs）（若需使用）在此期间应谨慎使用。
+胃肠道（GI）：如果患者有明显的临床胃肠道症状，术前应进行内镜检查或胃肠道成像检查。为了降低边缘溃疡的风险，临床医生可能会检测并治疗幽门螺旋杆菌感染，尽管对于这种术前治疗的必要性缺乏统一证据。
+胃肠道（GI）：如果患者有明显的临床胃肠道症状，术前应进行内镜检查或胃肠道成像检查。为了降低边缘溃疡的风险，临床医生可能会检测并治疗幽门螺旋杆菌感染，尽管对于这种术前治疗的必要性缺乏统一证据。
+肝脏：肝酶升高，尤其是丙氨酸氨基转移酶 (ALT)，在代谢和减肥手术候选人中很常见，可能表明代谢功能障碍相关的脂肪肝病，以前称为脂肪肝。临床上显着且持续升高的肝酶不应被认为是由脂肪肝引起的，而应促使调查其他原因。若计划在代谢与减重手术中同期行预防性胆囊切除术（以降低胆结石的风险），可进行肝脏超声检查。
+肝脏：肝酶升高，尤其是丙氨酸氨基转移酶 (ALT)，在代谢和减肥手术候选人中很常见，可能表明代谢功能障碍相关的脂肪肝病，以前称为脂肪肝。临床上显着且持续升高的肝酶不应被认为是由脂肪肝引起的，而应促使调查其他原因。若计划在代谢与减重手术中同期行预防性胆囊切除术（以降低胆结石的风险），可进行肝脏超声检查。
+代谢性骨病：肥胖患者面临维生素D缺乏和代谢性骨骼疾病的风险，有时伴有继发性甲状旁腺功能亢进。应在术前对患者进行筛查和治疗，特别是因为维生素D缺乏在术前很常见，且术后会出现吸收不良。
+代谢性骨病：肥胖患者面临维生素D缺乏和代谢性骨骼疾病的风险，有时伴有继发性甲状旁腺功能亢进。应在术前对患者进行筛查和治疗，特别是因为维生素D缺乏在术前很常见，且术后会出现吸收不良。
+糖尿病：由于糖尿病控制不佳会增加手术后不良结果的风险，因此在手术前应优化血糖控制。术前血糖控制对应的 HbA1c 合理目标范围为 6.5%-7.0%（1），这可能预示住院时间更短、减重手术结局更好。
+糖尿病：由于糖尿病控制不佳会增加手术后不良结果的风险，因此在手术前应优化血糖控制。术前血糖控制对应的 HbA1c 合理目标范围为 6.5%-7.0%（1），这可能预示住院时间更短、减重手术结局更好。
+营养：肥胖患者存在营养缺乏风险，术后该风险会加重 —— 因食物偏好与耐受性改变、胃容量变化，且小肠吸收能力下降。建议常规检测维生素D、维生素 B12、叶酸和铁的含量。对于特定患者，可能还需要检测其他营养素水平，如硫胺素（维生素 B1）。
+营养：肥胖患者存在营养缺乏风险，术后该风险会加重 —— 因食物偏好与耐受性改变、胃容量变化，且小肠吸收能力下降。建议常规检测维生素D、维生素 B12、叶酸和铁的含量。对于特定患者，可能还需要检测其他营养素水平，如硫胺素（维生素 B1）。
+生殖健康：应告知育龄妇女，她们的生育能力可能在手术后得到改善。在减肥手术之前和之后，应向这些妇女提供避孕选择方面的建议，并应避免在手术前和手术后12至18个月内怀孕。接受过吸收不良手术的患者应在随后的怀孕期间进行营养监测和营养缺乏的实验室检测。
+生殖健康：应告知育龄妇女，她们的生育能力可能在手术后得到改善。在减肥手术之前和之后，应向这些妇女提供避孕选择方面的建议，并应避免在手术前和手术后12至18个月内怀孕。接受过吸收不良手术的患者应在随后的怀孕期间进行营养监测和营养缺乏的实验室检测。
+
+【术前评估参考】
+1.Mechanick JI, Apovian C, Brethauer S, et al.Clinical Practice Guidelines for the Perioperative Nutrition, Metabolic, and Nonsurgical Support of Patients Undergoing Bariatric Procedures - 2019 Update: Cosponsored by American Association if Clinical Endocrinologists/American College of Endocrinology, The Obesity Society, American Society for Metabolic & Bariatric Surgery, Obesity Medicine Society, and American Society for Anesthesiologists - Executive Summary.Endocr Pract.2019;25(12):1346-1359.doi:10.4158/GL-2019-0406
+1.Mechanick JI, Apovian C, Brethauer S, et al.Clinical Practice Guidelines for the Perioperative Nutrition, Metabolic, and Nonsurgical Support of Patients Undergoing Bariatric Procedures - 2019 Update: Cosponsored by American Association if Clinical Endocrinologists/American College of Endocrinology, The Obesity Society, American Society for Metabolic & Bariatric Surgery, Obesity Medicine Society, and American Society for Anesthesiologists - Executive Summary.Endocr Pract.2019;25(12):1346-1359.doi:10.4158/GL-2019-0406
+
+【代谢和减肥手术的风险】
+在认可的中心进行代谢和减肥手术的围手术期风险最低。
+并发症包括：
+胃和/或吻合口瘘
+胃和/或吻合口瘘
+肺部并发症（如呼吸机依赖、肺炎、肺栓塞）
+肺部并发症（如呼吸机依赖、肺炎、肺栓塞）
+心肌梗死
+心肌梗死
+伤口感染
+伤口感染
+小肠梗阻
+小肠梗阻
+胃肠道出血
+胃肠道出血
+深静脉血栓形成
+深静脉血栓形成
+这些并发症会导致严重发病、延长住院时间、增加医疗成本。心动过速可能是吻合口瘘唯一的早期迹象。
+后期可能出现的问题包括继发于小肠梗阻和吻合口狭窄的长期恶心和呕吐。
+摄入不足、补充不当或者吸收不良可能引起营养缺乏（如蛋白质-热量营养不良、维生素B12缺乏、铁缺乏）。气味难闻的胃肠气胀和腹泻，或者二者兼有可能出现，尤其是采用吸收不良性术式后。钙和维生素D的吸收可能受到影响，导致其缺乏，有时出现低钙血症和继发性甲状旁腺功能亢进。随着长时间的呕吐，可能出现硫胺素缺乏。
+患者术后可能出现胃肠道反流的症状，尤其是袖状胃切除术后的病人。在快速减肥期间，可能出现胆石症（通常有症状）、痛风和肾结石。若患者术前存在有症状的胆道疾病，可考虑同期行胆囊切除术，但不再常规预防性切除。
+接受代谢和减肥手术的患者中，抑郁症等心理障碍的发病率有所增加。一项荟萃分析证实了术前抑郁症发生率增加，并报告了术后抑郁症发生率和严重程度有下降(1)。在一项对回顾性和前瞻性研究的大型回顾中，代谢和减肥手术后的患者的自残和自杀率高于对照组；可能涉及各种术前和术后因素（2）。 减肥手术后酒精依赖症的发生率似乎也增加了（3)。
+饮食习惯可能紊乱。适应新的饮食习惯可能具有挑战性。
+
+【风险的引用参考】
+1.Dawes AJ, Maggard-Gibbons M, Maher AR, et al.Mental health conditions among patients seeking and undergoing bariatric surgery: A meta-analysis.JAMA.2016;315(2):150–163, 2016.doi: 10.1001/jama.2015.18118
+1.Dawes AJ, Maggard-Gibbons M, Maher AR, et al.Mental health conditions among patients seeking and undergoing bariatric surgery: A meta-analysis.JAMA.2016;315(2):150–163, 2016.doi: 10.1001/jama.2015.18118
+2.Castaneda D, Popov VB, Wander P, et al.Risk of suicide and self-harm is increased after bariatric surgery—A systematic review and meta-analysis.Obes Surg.2019;29(1):322–333.doi: 10.1007/s11695-018-3493-4
+2.Castaneda D, Popov VB, Wander P, et al.Risk of suicide and self-harm is increased after bariatric surgery—A systematic review and meta-analysis.Obes Surg.2019;29(1):322–333.doi: 10.1007/s11695-018-3493-4
+3.Heinberg LJ, Ashton K, Coughlin J.Alcohol and bariatric surgery: review and suggested recommendations for assessment and management.Surg Obes Relat Dis.2012;8(3):357-363.doi: 10.1016/j.soard.2012.01.016
+3.Heinberg LJ, Ashton K, Coughlin J.Alcohol and bariatric surgery: review and suggested recommendations for assessment and management.Surg Obes Relat Dis.2012;8(3):357-363.doi: 10.1016/j.soard.2012.01.016
+
+【代谢和减肥手术的预后】
+在被美国减肥外科学会认证为卓越中心(COE)的医院，住院死亡率为0.08%（1）。然而，有数据表明，医院和外科医生实施的手术数量，比COE资质能更准确地预测较低的严重并发症发生率。减重手术相关的死亡风险约为 0.1%；严重并发症的总体风险约为 4%。对于大多数患者来说，肥胖及其并发症的风险超过了手术的直接风险（2）。
+预测死亡率的高风险因素包括，深静脉血栓形成或肺栓塞、阻塞性睡眠呼吸暂停、功能状态低下。严重肥胖（BMI > 50）、高龄和男性等因素也与更高风险相关，但证据并不一致。
+减肥手术后平均体重减轻的效果与术式有关。一项回顾性分析发现，在60个月的随访中，通过胆胰分流术伴十二指肠转流（BPD-DS）获得的总体体重减轻百分比最高（38%），其次是Roux-en-Y胃旁路手术（26%）和袖状胃切除术（23%）（3）。BPD-DS的实施频率较低，因为与其他手术相比，BPD-DS在技术上更困难，并发症发生率更高。任何减重手术的患者选择与咨询都很关键，对于吸收不良程度高的术式更是如此 —— 若未规范补充营养素及随访，维生素缺乏与蛋白质 - 热量营养不良的风险会很高。
+对于严重肥胖（≥ 50 kg/m2）的人群，BPD-DS 治疗后的减重效果大于RYGB（4）。
+代谢和减肥手术后倾向于减轻或缓解的合并症包括大量心血管危险因素（如血脂异常、高血压、糖尿病）、心血管疾病、糖尿病、阻塞性睡眠呼吸暂停、骨关节炎和抑郁症。糖尿病患者的缓解效果特别明显（例如，胃旁路手术[RYGB]后6年，高达62%的患者缓解[5]）。主要由于心血管疾病和癌症的死亡率降低，全因死亡率因此下降25％。
+
+【预后参考】
+1.Gebhart A, Young M, Phelan M, Nguyen NT.Impact of accreditation in bariatric surgery.Surg Obes Relat Dis.2014;10(5):767–773.doi: 10.1016/j.soard.2014.03.009 Epub 2014 Mar 15.
+1.Gebhart A, Young M, Phelan M, Nguyen NT.Impact of accreditation in bariatric surgery.Surg Obes Relat Dis.2014;10(5):767–773.doi: 10.1016/j.soard.2014.03.009 Epub 2014 Mar 15.
+2.American Society for Metabolic and Bariatric Surgery.Metabolic and Bariatric Surgery.Published 2021.
+2.American Society for Metabolic and Bariatric Surgery.Metabolic and Bariatric Surgery.Published 2021.
+3.Maroun J, Li M, Oyefule O, et al.Ten year comparative analysis of sleeve gastrectomy, Roux-en-Y gastric bypass, and biliopancreatic diversion with duodenal switch in patients with BMI ≥ 50 kg/m2.Surg Endosc.2022;36(7):4946-4955.doi:10.1007/s00464-021-08850-y
+3.Maroun J, Li M, Oyefule O, et al.Ten year comparative analysis of sleeve gastrectomy, Roux-en-Y gastric bypass, and biliopancreatic diversion with duodenal switch in patients with BMI ≥ 50 kg/m2.Surg Endosc.2022;36(7):4946-4955.doi:10.1007/s00464-021-08850-y
+4.Prachand VN, Davee RT, Alverdy JC.Duodenal switch provides superior weight loss in the super-obese (BMI ≥ 50 kg/m2) compared with gastric bypass.Ann Surg.2006;244(4):611–619.doi: 10.1097/01.sla.0000239086.30518.2a
+4.Prachand VN, Davee RT, Alverdy JC.Duodenal switch provides superior weight loss in the super-obese (BMI ≥ 50 kg/m2) compared with gastric bypass.Ann Surg.2006;244(4):611–619.doi: 10.1097/01.sla.0000239086.30518.2a
+5.Courcoulas AP, King WC, Belle SH, et al.Seven-year weight trajectories and health outcomes in the Longitudinal Assessment of Bariatric Surgery (LABS) study.JAMA Surg.2017;153(5), 20:427–434.doi: 10.1001/jamasurg.2017.5025.
+5.Courcoulas AP, King WC, Belle SH, et al.Seven-year weight trajectories and health outcomes in the Longitudinal Assessment of Bariatric Surgery (LABS) study.JAMA Surg.2017;153(5), 20:427–434.doi: 10.1001/jamasurg.2017.5025.
+
+【减肥手术后的随访】
+代谢和减肥手术后的定期长期随访有助于确保足够的体重减轻和预防并发症。在Roux-en-Y胃旁路术或袖状胃切除术后，快速减重期（通常在术后前6个月）患者应每4～12周接受检查，此后每6～12个月检查一次。
+随访包括体重、血压检查，以及评价饮食习惯。需定期进行血液检查（通常包括全血细胞计数；电解质、葡萄糖、血尿素氮、肌酐、白蛋白、蛋白质水平；肝功能检查）。若术前糖化血红蛋白（HbA1c）与空腹血脂水平异常，术后应进行监测。根据术式不同，可能需要监测维生素与矿物质水平，包括钙、维生素D、维生素 B12、 叶酸、铁和硫胺素（维生素 B1）。继发甲状旁腺功能亢进是一种危险因素，因此甲状旁腺激素水平也应被随访监测。袖状胃切除术或Roux-en-Y胃旁路术后患者应测量骨密度。
+术后快速减重期间，临床医生应检查患者对降压药、胰岛素、口服降糖药或调脂药的反应是否有变化。
+患者还应定期接受抑郁症筛查和酒精使用评估，尤其是术前有酗酒史者。
+为了最大限度地降低低血糖的风险（由于糖尿病患者在减肥手术后对胰岛素的敏感性增加），临床医生应调整胰岛素的剂量并减少口服降糖药（特别是磺脲类）的剂量，或者在Roux-en-Y胃旁路术或袖状胃切除术后酌情停止服药。
+如果患者的 BMI > 35 kg/m2 或 BMI > 30 kg/m2 加上肥胖相关合并症（例如糖尿病、高血压、阻塞性睡眠呼吸暂停、高危血脂），请考虑进行减肥手术。
+如果患者的 BMI > 35 kg/m2 或 BMI > 30 kg/m2 加上肥胖相关合并症（例如糖尿病、高血压、阻塞性睡眠呼吸暂停、高危血脂），请考虑进行减肥手术。
+代谢与减重手术的禁忌证包括：未控制的精神疾病（如重度抑郁症）、物质 / 酒精使用障碍、未缓解的癌症、其他危及生命的疾病，以及无法遵守营养要求（包括必要时终身补充维生素）。
+代谢与减重手术的禁忌证包括：未控制的精神疾病（如重度抑郁症）、物质 / 酒精使用障碍、未缓解的癌症、其他危及生命的疾病，以及无法遵守营养要求（包括必要时终身补充维生素）。
+袖状胃切除术是目前美国最常用的代谢和减肥手术。
+袖状胃切除术是目前美国最常用的代谢和减肥手术。
+术后需定期监测患者，评估减重维持情况、体重相关合并症的缓解情况，以及手术并发症（如营养缺乏、代谢性骨病、痛风、胆石症、肾结石、抑郁症、酒精使用障碍）。
+术后需定期监测患者，评估减重维持情况、体重相关合并症的缓解情况，以及手术并发症（如营养缺乏、代谢性骨病、痛风、胆石症、肾结石、抑郁症、酒精使用障碍）。

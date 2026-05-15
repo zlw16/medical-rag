@@ -1,0 +1,422 @@
+标题：治疗糖尿病的药物
+来源：https://www.msdmanuals.cn/professional/endocrine-and-metabolic-disorders/diabetes-mellitus-and-hypoglycemia/medications-for-diabetes-mellitus-treatment
+============================================================
+
+1型糖尿病患者药物治疗的基石是胰岛素。类似物胰淀粉样多肽，另一种由胰腺β细胞产生的激素，可用作辅助治疗胰岛素(1)。抗 CD3 单克隆抗体 teplizumab 可以延缓症状前且血糖轻度升高且存在自身抗体的患者进展为有症状 1 型糖尿病（2，3）。
+需要药物治疗的 2 型糖尿病患者可选用多种降糖方案，包括口服降糖药（如二甲双胍、SGLT2 抑制剂）、非胰岛素类注射降糖药（如注射用胰高血糖素样肽-1 受体激动剂或双重葡萄糖依赖性促胰岛素多肽 GIP/GLP-1 受体激动剂）、胰岛素本身，或上述药物的联合治疗。
+有些药物有助于预防糖尿病并发症或在并发症情况下改变心血管风险，包括肾素-血管紧张素-醛固酮系统阻滞剂（血管紧张素转换酶[ACE]抑制剂或血管紧张素II受体阻滞剂[ARB]）、他汀类药物和阿司匹林（1、4、5）。
+
+【参考文献】
+1.American Diabetes Association Professional Practice Committee.9.Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S181-S206.doi:10.2337/dc25-S009
+1.American Diabetes Association Professional Practice Committee.9.Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S181-S206.doi:10.2337/dc25-S009
+2.Herold KC, Bundy BN, Long SA, et al.An Anti-CD3 Antibody,Teplizumab, in Relatives at Risk for Type 1 Diabetes.N Engl J Med.2019;381(7):603-613.doi:10.1056/NEJMoa1902226
+2.Herold KC, Bundy BN, Long SA, et al.An Anti-CD3 Antibody,Teplizumab, in Relatives at Risk for Type 1 Diabetes.N Engl J Med.2019;381(7):603-613.doi:10.1056/NEJMoa1902226
+3.Ramos EL, Dayan CM, Chatenoud L, et al.Teplizumaband β-Cell Function in Newly Diagnosed Type 1 Diabetes.N Engl J Med.2023;389(23):2151-2161.doi:10.1056/NEJMoa2308743
+3.Ramos EL, Dayan CM, Chatenoud L, et al.Teplizumaband β-Cell Function in Newly Diagnosed Type 1 Diabetes.N Engl J Med.2023;389(23):2151-2161.doi:10.1056/NEJMoa2308743
+4.American Diabetes Association Professional Practice Committee.10.Cardiovascular Disease and Risk Management: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S207-S238.doi:10.2337/dc25-S010
+4.American Diabetes Association Professional Practice Committee.10.Cardiovascular Disease and Risk Management: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S207-S238.doi:10.2337/dc25-S010
+5.American Diabetes Association Professional Practice Committee.11.Chronic Kidney Disease and Risk Management: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S239-S251.doi:10.2337/dc25-S011
+5.American Diabetes Association Professional Practice Committee.11.Chronic Kidney Disease and Risk Management: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S239-S251.doi:10.2337/dc25-S011
+所有 1 型糖尿病患者都需要胰岛素，因为他们不产生足够的胰岛素（由于胰腺β细胞的破坏），并且没有它将会发展成酮症酸中毒。胰岛素也用于治疗许多 2 型糖尿病患者。
+理想情况下，1 型糖尿病的胰岛素替代疗法应模拟β细胞功能，以提供基础和膳食需求（生理替代或基础推注给药）。为了实现这一目标，需要进行不同的准备工作胰岛素和可以使用的方法。
+除了在住院患者中静脉注射常规胰岛素外，胰岛素几乎总是通过皮下注射给药。对于不愿自行注射的患者，也可使用吸入式胰岛素制剂。与皮下注射速效胰岛素相比，它的起效稍快。
+胰岛素通常采用以下两种方式shi'yong：
+患者每日多次皮下注射，共 2 种制剂胰岛素根据预期的血糖控制需求使用
+患者每日多次皮下注射，共 2 种制剂胰岛素根据预期的血糖控制需求使用
+一个胰岛素提供快速或短效的泵胰岛素并管理基础率胰岛素以及随餐额外推注或纠正高血糖水平
+一个胰岛素提供快速或短效的泵胰岛素并管理基础率胰岛素以及随餐额外推注或纠正高血糖水平
+这两种策略都需要密切注意饮食和锻炼，以及胰岛素时间和剂量。
+当2型糖尿病患者需要胰岛素时，通常可以通过基础胰岛素联合非胰岛素类降糖药物来实现血糖控制，尽管有些患者可能需要餐时（进餐时给予大剂量）胰岛素。
+
+【胰岛素制剂】
+大部分的胰岛素制剂都是重组人型，大多数基本消除了从动物源提取药物时产生的常见过敏反应。许多胰岛素类似物也可用。这些类似物是通过修饰人胰岛素分子以改变吸收速率、持续时间和作用时间而产生的。
+胰岛素一般按其起效快慢和作用长短分类（见表人胰岛素制剂的起始、峰值和作用时间）。 但是，这些参数在同一患者自身和不同患者之间可因多种因素（如注射的部位和技术、皮下脂肪含量、注射部位的血流量）而变化。
+
+【不同剂型人胰岛素的起效时间、作用峰值及持续时间*】
+不同剂型人胰岛素的起效时间、作用峰值及持续时间*
+胰岛素制剂
+起效时间
+作用持续时间
+速效胰岛素
+lispro，aspart，glulisine†
+5–15 分钟
+45～75min
+3-5 小时
+吸入式普通胰岛素
+< 15 分钟
+50分钟
+2-3 小时
+短效胰岛素
+正规胰岛素†
+30～60min
+2-4 小时
+6–8 小时
+中效胰岛素
+异烷胰岛素(NPH)‡
+约2小时
+4-12 小时
+18～26h
+U-500普通胰岛素
+30 min
+4-8 小时
+13-24小时
+长效胰岛素
+甘精胰岛素
+3-4小时
+U-300甘精胰岛素
+地特胰岛素
+1-2小时
+14～24h
+德谷胰岛素（Degludec）
+1-2小时
+> 40 小时
+依柯胰岛素(每周一次)§
+2～4天
+预混胰岛素
+70%I胰岛素(NPH)/30% 常规
+30～60min
+双重（NPH & 常规）
+10～16h
+50%胰岛素(NPH)/50% 常规
+0.5–1 h
+2–12 小时
+10～16h
+50% 赖脯鱼精蛋白/50% 赖脯
+30～60min
+双重（赖脯胰岛素鱼精蛋白和赖脯胰岛素）
+10～16h
+75%赖氨酸鱼精蛋白/25%赖氨酸
+5–15 分钟
+双重（赖脯胰岛素鱼精蛋白和赖脯胰岛素）
+10～16h
+70% 天冬精蛋白/30% 天冬氨酸
+5-15分钟
+双重（天冬胰岛素精蛋白和天冬胰岛素）
+10～16h
+70％德谷胰岛素/30%门冬胰岛素
+15分钟
+双峰（degludec & aspart）
+> 40 小时
+*为采用皮下给药途径时的大致时间，可因注射技术及某些影响吸收的因素而变化。
+†赖脯和门冬醇也可与中效胰岛素以预混形式提供。
+‡胰岛素异烷也以预混合形式存在（胰岛素等值/常规）。
+§在美国不可用。
+*为采用皮下给药途径时的大致时间，可因注射技术及某些影响吸收的因素而变化。
+†赖脯和门冬醇也可与中效胰岛素以预混形式提供。
+‡胰岛素异烷也以预混合形式存在（胰岛素等值/常规）。
+§在美国不可用。
+速效胰岛素，包括赖脯胰岛素和门冬胰岛素，注射后可很快吸收，因为胰岛素分子中一对氨基酸的顺序被相互颠倒而使它们不能形成二聚体和多聚体。 通常在注射后15分钟内血糖开始下降，但作用时间较短（<4小时）。速效胰岛素最好在餐时使用，以控制餐后的血糖高峰。吸入式常规胰岛素是一种随餐服用的速效胰岛素。与皮下注射速效胰岛素相比，其起效稍快，但给药不灵活，需要定期进行肺部检查。
+正规胰岛素的起效时间较赖脯胰岛素和门冬胰岛素稍慢（30～60分钟），但作用时间较长（6～8小时）。这也是被批准用于静脉注射的唯一胰岛素剂型。
+中效胰岛素包括低精蛋白锌胰岛素 (中性精蛋白Hagedorn或NPH)和U-500常规。注射后约2小时低精蛋白胰岛素开始起作用；注射后4至12小时为峰值作用，持续时间为18至26小时。 高浓度普通胰岛素U-500具有相似的效应峰值和作用时间（峰值4~8小时；持续时间13~24小时），每天可给药2~3次。
+长效胰岛素，如甘精胰岛素、地特胰岛素和U-300甘精胰岛素，不像低精蛋白锌胰岛素，没有明显的作用峰值，并在24小时内提供稳定的基础效应。德谷胰岛素（另一种长效胰岛素）作用时间更长，超过40小时。 每天给药，虽然需要3天才能达到稳定状态，但给药时间没有那么严格。依柯胰岛素是一种每周一次的胰岛素，在全球多个地区可用，但在美国尚未获批。
+组合包括中性鱼精蛋白锌胰岛素与普通胰岛素，以及胰岛素赖脯与赖脯胰岛素鱼精蛋白（这是赖脯胰岛素的一种形式，经修饰后其作用类似于中性鱼精蛋白锌胰岛素）目前均有市售的预混制剂（参见表人胰岛素制剂的起效时间、达峰时间和作用持续时间）。其他预混制剂包括门冬胰岛素鱼精蛋白（一种经修饰后作用类似门冬胰岛素中效制剂的胰岛素）、胰岛素门冬，以及预混的德谷胰岛素与门冬胰岛素复方制剂。
+不同类型的胰岛素可被吸入同一个注射器中注射，但除非是制造商，否则不应将它们预混在瓶子中。有时，混合胰岛素可能会影响胰岛素吸收率，造成效果的可变性，降低血糖控制的可预测性，尤其是使用前预混>1小时。 甘精胰岛素不应与其他任何胰岛素.混合。
+目前市场上还有很多预先装满胰岛素的笔型注射装置，这是对使用瓶装胰岛素和注射器的传统方法的一种改进。胰岛素笔在出门时使用更方便，对视力欠佳和动手能力差的患者也更合适。有弹簧的自动注射装置（与注射器同用）对害怕打针的患者是一有用工具，还备有适用于视力欠佳者的注射器放大镜。“智能”或“连接”胰岛素笔与智能手机应用程序通信，以跟踪施用的胰岛素并提出剂量建议。
+
+【1型糖尿病的胰岛素治疗方案】
+1型糖尿病的治疗方案可从每天2次注射混合胰岛素（如不同剂量的速效和中效胰岛素），到更符合生理过程的一天多次注射（如单次固定剂量的长效胰岛素提供基础需求，餐时不同剂量的速效胰岛素满足餐后需要）或使用胰岛素泵。
+强化治疗，定义为血糖监测≥4次/天和≥3次注射/天或连续胰岛素输注，比较少频次的治疗（每天1至2次胰岛素注射，有或没有监测）更有效，在预防糖尿病视网膜病变、肾病和神经病变方面。 然而，强化治疗可能导致更频繁的低血糖发作和体重增加，且通常只对那些有能力且愿意积极进行自我护理的患者更有效果。
+一般来说，大多数1型糖尿病患者的起始总剂量为0.2~0.8u胰岛素/kg/天。 肥胖患者可能需要更大的剂量。 生理替代是指将每日40％至60％ 的胰岛素剂量作为中等或长效制剂以满足基础需求，剩余部分作为快速或短效制剂用于控制餐后血糖升高。 当快速或短效胰岛素的剂量根据餐前血糖水平和预期膳食内容进行调整时，这种方法是最有效的。
+一个校正因子，也被称为胰岛素敏感系数，是1个单位胰岛素量，可在2至4小时内降低患者的血糖水平；当使用速效胰岛素进行矫正（1800/每日胰岛素总剂量）时通常使用“1800法则”计算该因子。普通胰岛素可使用“1500法则”。校正剂量（当前血糖水平 - 目标血糖水平/校正因子）是将血糖水平降低到目标范围的i胰岛素剂量。该校正剂量可以添加到膳食胰岛素剂量中，根据膳食中碳水化合物的量来计算，采用碳水化合物-胰岛素比例配给（CIR）。 CIR通常使用“500法则”（500/每日总剂量）进行计算。
+为了说明午餐剂量的计算，假设如下：
+餐前指尖血糖：240mg/dL(13.3 mmol/L)
+餐前指尖血糖：240mg/dL(13.3 mmol/L)
+每日总胰岛素剂量：30u基础胰岛素+ 每餐10u餐前胰岛素=总共每日60u
+每日总胰岛素剂量：30u基础胰岛素+ 每餐10u餐前胰岛素=总共每日60u
+校正因子（胰岛素敏感系数）：1800/60 = 30 mg/dL/unit (1.7 mEq/L/unit, or 1.7 mmol/L)
+校正因子（胰岛素敏感系数）：1800/60 = 30 mg/dL/unit (1.7 mEq/L/unit, or 1.7 mmol/L)
+估计即将进餐的碳水化合物含量：50克
+估计即将进餐的碳水化合物含量：50克
+碳水化合物：胰岛素比率（CIR）：500/60 = 8：1
+碳水化合物：胰岛素比率（CIR）：500/60 = 8：1
+目标血糖值：120 mg/dL (6.7 mmol/L)
+目标血糖值：120 mg/dL (6.7 mmol/L)
+膳食胰岛素剂量= 50克碳水化合物除以8g/u胰岛素= 6u
+校正剂量=（240～120 mg/dL）/30校正因子= 4u ([13.3～6.7 mmol/L]/1.7 = 4)
+这餐前的总剂量=餐时剂量+校正剂量=6+4=10单位速效胰岛素
+这种生理性替代疗法允许患者在生活方式上有较大自由，因为患者可以不吃或可改变进餐时间并能维持正常血糖水平。这些方案均适用于治疗初期；以后则根据患者的生理反应及患者本人和医生的意见进行选择。碳水化合物-胰岛素比率（CIR）和敏感系数需要根据患者对胰岛素剂量的反应进行微调和改变。 这一调整需要与糖尿病专家密切合作。
+
+【胰岛素泵】
+赖脯胰岛素或门冬胰岛素也可以使用胰岛素泵（1）连续给药。在患有胰岛素抵抗的人群中，有时会使用更高浓度的U500胰岛素。胰岛素皮下持续输注泵可以免除每天多次注射，极大地方便了就餐时间的安排，并大大降低了血糖波动。不足之处包括价格高，机械故障可致胰岛素输入中断，以及携带不便。经常细致的自我血糖监测和对胰岛素泵运行的密切观察是安全有效地使用胰岛素泵的必要条件。
+传感器增强泵疗法是使用连续血糖监测（CGM）与胰岛素泵。有几种系统可用，其中葡萄糖传感器数据被传送到胰岛素泵和算法调整胰岛素通过泵输送。具有“低血糖暂停”算法的系统可以停止胰岛素当传感器检测到葡萄糖低或预计会变低时进行输送。
+在混合闭环胰岛素输送系统或自动化胰岛素输送（AID）系统中，算法根据CGM传感器输入计算并调整基础胰岛素剂量，然后由连接的胰岛素泵输送（2）。可用的系统仍然需要用户输入进餐剂量。在全闭环系统中，胰岛素泵将自动计算基础及餐时胰岛素剂量，几乎无需用户输入。
+
+【2型糖尿病的胰岛素治疗方案】
+2 型糖尿病患者的胰岛素治疗方案也各不相同。当血糖在≥3 种药物治疗后仍控制不佳、怀疑患者存在胰岛素缺乏，或血浆葡萄糖水平明显升高（约 >250 mg/dL［13.9 mmol/L］）时，应加用胰岛素治疗。在大多数情况下，对于怀孕的女性来说，胰岛素应该取代非胰岛素降糖药。
+联合用药的最有效方案是胰岛素与双胍类和胰岛素增敏剂联用。（该联合方案被认为较胰岛素联合胰岛素促泌剂更为有效，且后者还会增加低血糖发生风险。） 1型糖尿病患者的治疗方案各不相同，每日单次注射长效或中效胰岛素（通常在就寝时间）或采取多次注射方案。 通常，最简单有效的方案是首选。
+由于胰岛素抵抗，一些2型糖尿病患者需要非常大的胰岛素剂量（>2u/kg/d）。2型糖尿病患者接受胰岛素治疗的常见并发症是体重增加，主要归因于尿糖流失减少及代谢效率改善。
+
+【胰岛素治疗的并发症】
+最常见的并发症:
+不太常见的并发症包括：
+低钾血症
+低钾血症
+局部过敏反应
+局部过敏反应
+全身过敏反应
+全身过敏反应
+局部脂肪萎缩或增生
+局部脂肪萎缩或增生
+循环抗胰岛素抗体
+循环抗胰岛素抗体
+低血糖是胰岛素治疗中最常见的并发症，当患者试图严格控制血糖以使血糖水平接近正常时更易发生，或当血糖没有得到适当监测时发生。轻度或中度低血糖的症状有头痛，出汗，心悸，头晕，视物模糊，焦虑不安和意识错乱。更严重的低血糖症状还有癫痫发作和意识丧失。 老年糖尿病患者发生低血糖时还可出现失语症或偏瘫等卒中样症状，并更易诱发中风、心梗及猝死。
+应教导患者识别低血糖症状。 病程长的1型糖尿病患者可出现难以察觉的低血糖发作，因为他们不再出现自主神经症状（无症状性低血糖）。
+在接受胰岛素或其他已知会引起低血糖的药物（例如磺脲类药物）治疗的患者中，血糖水平<70毫克/分升（<3.9毫摩尔/升）被认为是低血糖症，应进行治疗以避免血糖水平进一步降低和低血糖症的后果。低血糖的症状通常对糖的摄入反应迅速。
+低血糖治疗通过给予一种形式的糖（口服葡萄糖或蔗糖或静脉注射葡萄糖）和/或胰高血糖素或达西高血糖素。有低血糖风险的患者应在家中和其他地方服用胰高血糖素或达西柳金，家庭成员和可信的其他人应接受低血糖紧急情况的管理指导。
+高血糖可能是由于睡前胰岛素剂量过高导致的，这可使血糖降低并诱发负调节反应，出现晨间高血糖（Somogyi现象）。但是，发生无明显诱因的晨间高血糖更常见的原因是生长激素在清晨分泌增加（黎明现象）。在这种情况下，应增加夜间胰岛素的用量，换用长效制剂或是推迟注射时间。
+胰岛素可以激活细胞膜上Na-K泵，使钾进入细胞内而引起低血钾，但是这种情况不常发生。低血钾症更常发生在急性护理环境中，当体内钾储存可能耗尽并使用静脉注射胰岛素时。
+局部过敏反应在胰岛素注射部位是罕见的，特别是使用人源化胰岛素, 但由于瓶塞中含有天然胶乳，在乳胶过敏的患者身上仍可能发生局部过敏。 它们可立即引起疼痛或烧灼感，继而出现红斑、瘙痒和硬结 - 后者有时会持续数日。虽然抗组胺类药物可以缓解症状，但是大多数反应在继续应用胰岛素几周后可自动消失，无需特殊处理。
+使用人胰岛素极少出现全身性过敏反应，但在停用一段时间后胰岛素再次使用时有可能发生。 症状多发生于注射后30分钟到2小时，有荨麻疹、血管性水肿、瘙痒、支气管痉挛及过敏症。一般采用抗组胺药物治疗即可，如有需要可加用肾上腺素和糖皮质激素。如在发生全身性过敏后仍需用胰岛素治疗，应该用一组纯化的胰岛素制剂进行皮试，并进行脱敏治疗。
+局部脂肪肥大，或脂肪肥大，是由脂肪生成作用引起的常见反应胰岛素。 脂肪肥大可导致胰岛素吸收，可以通过旋转注射部位来避免。
+脂肪萎缩，皮下脂肪组织的损失被认为是由于对某种成分的免疫反应造成的胰岛素准备。由于使用人胰岛素，它变得非常罕见，可以用皮质类固醇治疗。
+循环抗胰岛素抗体是服用动物胰岛素的患者出现胰岛素抵抗的非常罕见的原因，有时在服用人胰岛素和胰岛素类似物的患者中也会出现。由循环抗胰岛素抗体引起的胰岛素抵抗，有时可通过改变胰岛素制剂(如从动物胰岛素改为人胰岛素)和使用皮质类固醇或免疫抑制剂来治疗，必要时可进行血浆置换。
+
+【胰岛素参考】
+1.Kravarusic J, Aleppo G: Diabetes Technology Use in Adults with Type 1 and Type 2 Diabetes.Endocrinol Metab Clin North Am.49(1):37–55, 2020. doi: 10.1016/j.ecl.2019.10.006
+1.Kravarusic J, Aleppo G: Diabetes Technology Use in Adults with Type 1 and Type 2 Diabetes.Endocrinol Metab Clin North Am.49(1):37–55, 2020. doi: 10.1016/j.ecl.2019.10.006
+2.Renard E.Automatedinsulindelivery systems: from early research to routine care of type 1 diabetes.Acta Diabetol.2023;60(2):151-161.doi:10.1007/s00592-022-01929-5
+2.Renard E.Automatedinsulindelivery systems: from early research to routine care of type 1 diabetes.Acta Diabetol.2023;60(2):151-161.doi:10.1007/s00592-022-01929-5
+3.Grunberger G, Sherr J, Allende M, et al.American Association of Clinical Endocrinology Clinical Practice Guideline: The Use of Advanced Technology in the Management of Persons With Diabetes Mellitus.Endocr Pract.2021;27(6):505-537.doi:10.1016/j.eprac.2021.04.008
+3.Grunberger G, Sherr J, Allende M, et al.American Association of Clinical Endocrinology Clinical Practice Guideline: The Use of Advanced Technology in the Management of Persons With Diabetes Mellitus.Endocr Pract.2021;27(6):505-537.doi:10.1016/j.eprac.2021.04.008
+
+【口服降血糖药物】
+口服降糖药（见表口服降糖药的特点) 是 2 型糖尿病的主要治疗方法，以及可注射的胰高血糖素-样肽-1 (GLP-1) 受体激动剂。口服降糖药可能：
+促进胰腺分泌胰岛素（促分泌剂）
+促进胰腺分泌胰岛素（促分泌剂）
+提高外周组织对胰岛素的敏感性（增敏剂）
+提高外周组织对胰岛素的敏感性（增敏剂）
+抑制胃肠道对葡萄糖的吸收
+抑制胃肠道对葡萄糖的吸收
+增加糖尿
+增加糖尿
+联合使用机制不同的药物有可能产生协同作用。
+
+【主要口服降糖药的特点】
+主要口服降糖药的特点
+通用名称
+胰岛素促泌剂：长效（磺脲类）*
+增加胰腺β细胞胰岛素分泌
+可单独使用或与胰岛素等药物联合使用
+它们的作用时间长，可能导致严重的低血糖，尤其是老年患者
+使用 5 年后疗效可能会减弱
+格列本脲（常规释放）†
+没有证据表明剂量 > 10 毫克/天会增加有效性
+格列本脲（微粒剂）†
+没有证据表明剂量 > 10 毫克/天会增加有效性
+格列吡嗪（常规释放）†
+没有证据表明剂量 > 10 毫克/天会增加有效性
+格列吡嗪（缓释剂）†
+没有证据表明剂量 > 10 毫克/天会增加有效性
+格列美脲†
+短效胰岛素促泌剂（格列奈类）
+增加胰腺β细胞胰岛素分泌
+可以单用或与其他口服药及胰岛素合用
+那格列奈
+瑞格列奈
+胰岛素增敏剂：双胍类
+增强胰岛素对肝糖产生的抑制作用
+可以单用或与其他口服药及胰岛素合用
+主要不良影响：乳酸性酸中毒（罕见）
+不适用于高危患者，包括那些患有终末期肾病、代谢性酸中毒、缺氧、酒精使用障碍或脱水的患者
+不会导致低血糖
+其他不良反应：胃肠道不适（腹泻，恶心，疼痛）、维生素B12吸收不良
+潜在的体重减轻
+在需要使用造影剂的放射学诊查前，应暂时停用
+二甲双胍（常规释放）
+二甲双胍（缓释剂）
+胰岛素增敏剂：噻唑烷二酮类
+增强胰岛素对肝糖产生的抑制作用 并增加肌肉和脂肪组织的胰岛素敏感性
+可以单用或与其他口服药及胰岛素合用
+主要不良反应：体重增加，体液潴留，轻度贫血
+肝脏毒性罕见，但是应监测肝功能
+吡格列酮
+吡格列酮：增加膀胱癌、心力衰竭骨折风险。
+罗格列酮
+罗格列酮可升高LDL-c，并增加心衰、心绞痛、心梗、卒中、骨折风险
+alpha-糖苷酶抑制剂
+肠道酶抑制剂
+可单药使用或者与其他口服降糖药或胰岛素联合使用以降低餐后血糖
+必须与第一口饭同时服用
+胃肠道副作用（肠胃气胀，腹泻，胃气胀）常见，用药一段时间后可减轻
+需从小剂量开始（25mg/天），并在数周后逐渐增量
+阿卡波糖
+米格列醇
+DPP-4抑制剂
+抑制 DPP-4 酶，该酶参与 GLP-1 的分解，GLP-1 是一种刺激胰岛素分泌并抑制胰高血糖素分泌的肽
+所有 DPP-4 抑制剂均可用于中度至重度慢性肾病患者。 所有，除了利格列汀需要根据估计的肾小球滤过率调整剂量。
+耐受性良好，但仅轻度改善HbA1C。
+患胰腺炎的风险略有增加
+阿格列汀
+利格列汀
+沙格列汀
+西格列汀
+胰高血糖素样肽-1(GLP-1)受体激动剂‡
+模ni GLP-1 的作用，这是一种在小肠中产生的肽，可增强葡萄糖依赖性胰岛素分泌
+索马鲁肽¶
+轻度低血糖风险；轻度减重；
+增加胰腺炎风险
+在啮齿类动物中的实验发现药物增加了甲状腺C-细胞肿瘤（髓样癌）的风险。
+每周皮下注射可减少胃肠道不良反应。 如每天一次或每天两次给药，最低起始剂量可最大限度降低恶心程度
+口服索马鲁肽可降低心血管疾病高危患者的心血管死亡
+索马鲁肽与糖尿病性视网膜病变的进展增加有关。
+钠-葡萄糖共转运蛋白2（SGLT2）抑制剂
+抑制肾近端小管中的SGLT-2，从而阻断葡萄糖的重吸收，从而引起糖尿
+SGLT-2抑制剂可能会导致Fournier坏疽、消瘦，体位性低血压，真菌感染，尿路感染
+老年人和肾功能损害患者慎用
+与血糖正常的糖尿病酮症酸中毒相关。应避免生酮或低碳水化合物饮食，并应在手术前几天或生病期间停药，并且无法耐受口服摄入
+贝格列净
+卡格列净
+卡格列净与高截肢率有关
+卡格列净降低有心血管风险的患者的死亡率和心力衰竭住院率。减缓慢性肾脏病的进展
+达格列净
+达格列净降低有心血管风险的患者的死亡率和心力衰竭住院率。减缓慢性肾脏病的进展
+恩格列净
+恩格列净降低有心血管风险的患者的死亡率和心力衰竭住院率。减缓慢性肾脏病的进展
+ai格列净
+* 第一代磺酰脲类药物乙酰己酰胺、氯磺丙脲、托拉磺胺和甲苯磺丁脲由于供应有限且使用范围较小，因此未被列入其中。
+†第二代磺脲类药物。
+‡ 有关注射用胰高血糖素样肽-1（GLP-1）受体激动剂的信息，见表注射用非胰岛素降糖药的特点。
+¶ 也有注射剂形式。
+* 第一代磺酰脲类药物乙酰己酰胺、氯磺丙脲、托拉磺胺和甲苯磺丁脲由于供应有限且使用范围较小，因此未被列入其中。
+†第二代磺脲类药物。
+‡ 有关注射用胰高血糖素样肽-1（GLP-1）受体激动剂的信息，见表注射用非胰岛素降糖药的特点。
+¶ 也有注射剂形式。
+（参见胰高血糖素样肽-1（GLP1）受体激动剂。）
+磺脲类化合物(如格列本脲、格列吡嗪、格列美脲）是胰岛素促分泌因子。  他们通过刺激胰腺beta细胞分泌胰岛素降低血浆葡萄糖，并通过降低葡萄糖的毒性继而提高外周组织器官和肝脏对胰岛素的敏感性。 第一代磺酰脲类药物（乙酰己胺、氯丙酰胺、托拉扎胺、甲苯磺丁脲）更可能引起不良反应，并且很少使用。 所有磺脲类降糖药均可促进高胰岛素血症，使体重增加2~5公斤，随着时间的推移，可能会增加胰岛素抵抗，限制其效能。所有这些药物也都可能导致低血糖。危险因素包括年龄>65岁，使用长效药物（特别是氯磺丙脲、格列本脲、格列吡嗪），饮食与运动不规律，以及肾功能或肝功能不全。
+长效药物引起的低血糖可在治疗结束后持续几天，有时可导致永久性神经功能障碍，并可致命。 由于这些原因，一些医生建议低血糖患者住院治疗，尤其是老年人。氯磺丙脲还可引起不适当抗利尿激素分泌综合征。大多数单独服用磺脲类药物的患者，最终需加用其他药物才能使血糖恢复正常，提示huang'niao类药物可导致胰岛beta细胞功能衰竭。然而，胰岛素分泌的逐渐减少和胰岛素抵抗更可能是由糖尿病本身引起，而非药物所致。
+
+【短效胰岛素促泌剂】
+短效胰岛素促泌剂（瑞格列奈，那格列奈）以与磺脲类药物类似的方式刺激胰岛素分泌。 但它们的起效速度更快，并较其他时间能更多地刺激餐时胰岛素的分泌。因此，这类药物在降低餐后血糖方面特别有效，且发生低血糖的危险较小。短效胰岛素促泌剂可致体重增加，但与磺脲类药物相比，作用明显较轻。 对其他口服药物（如磺脲类、二甲双胍）没有反应的患者不太可能对这些药物有反应。
+双胍类药物（二甲双胍）通过减少肝糖的生成（糖原异生和糖原分解）来降低血糖。这类药物也被认为是外周胰岛素增敏剂，但是它们促进外周葡萄糖摄取的作用可能只是肝糖生成减少后血糖下降的结果。双胍类药物还可以降低血脂水平，也可以减少胃肠道营养吸收，增加β细胞对循环葡萄糖的敏感性。二甲双胍是美国唯一市售的双胍类药物。它在降低血糖方面至少与磺酰脲类药物一样有效，很少引起低血糖，并且可以安全地与其他药物一起使用胰岛素。另外，二甲双胍不会增加体重，甚至可因抑制食欲而使体重减轻。 但是，该药常导致胃肠道副作用（如消化不良、腹泻），大多数患者的这些不良反应会随用药时间的延长而消退。不太常见的是，二甲双胍引起维生素 B12吸收不良，但有临床意义的贫血是更罕见的。
+二甲双胍导致危及生命的乳酸性酸中毒的情况极为罕见，但该药物不适用于有酸血症风险的患者（包括患有严重肾病、缺氧或严重呼吸系统疾病、酒精使用障碍、其他形式的代谢性酸中毒或脱水的患者）。手术期间，使用静脉对比剂，及任何严重疾病时该药应停用。很多接受二甲双胍单药治疗的患者最终需加用其他药物。
+
+【噻唑烷二酮类】
+噻唑烷二酮类药物（TZDs--吡格列酮、罗格列酮）可以降低外周的胰岛素抵抗（胰岛素增敏剂） 。 这类药物与主要存在于脂肪细胞中的核受体（过氧化物酶体增殖物活化受体γ[PPARgamma]）结合，参与调控基因转录从而调节葡萄糖和脂质的代谢。TZDs还可增加高密度脂蛋白（HDL），降低甘油三酯，并具有抗炎、抗动脉粥样硬化的作用。在降低HbA1C方面TZDs与磺脲类药物及二甲双胍疗效相同。TZD 可能有益于治疗代谢相关脂肪肝病（MASLD；以前称为非酒精性脂肪肝 [NAFLD]）。
+有一种TZD（曲格列酮）可引起急性肝衰竭，但现有可及的药物尚未证实有肝毒性。 尽管如此，仍建议定期监测肝功能。TZDs可导致周围组织水肿，尤其是使用胰岛素者，在易感患者中还可加重心衰。体重增加较常见，主要是由于脂肪组织体积增大，有些患者可达10kg以上。罗格列酮可能增加心衰、心绞痛、心肌梗死、卒中及骨折的风险。吡格列酮可能增加膀胱癌（尽管数据存在争议）、心力衰竭及骨折的风险（1、2、3、4、5）。
+
+【alpha-糖苷酶抑制剂】
+alpha-糖苷酶抑制剂（阿卡波糖、米格列chun）能够竞争性地抑制肠道内的碳水化合物水解酶，使食物中碳水化合物的消化和吸收变慢，从而降低餐后血糖。alpha-葡萄糖苷酶抑制剂在降糖方面的疗效不如其他类型的口服药，且患者常因药物所致的消化不良、胃肠胀气及腹泻等症状而停药。但这些药物在其他方面是安全的，可以与所有其他口服降血糖药物联合使用。胰岛素。
+
+【二肽基肽酶-4抑制剂】
+二肽基肽酶-4抑制剂（如阿格列汀、利格列汀、沙格列汀、西他列汀）通过抑制参与GLP-1分解的二肽基肽酶-4（DPP-4）以延长内源性胰高血糖素样肽-1（GLP-1）的作用时间。GLP-1 是一种在小肠中产生的肽，可刺激胰岛素分泌并抑制胰高血糖素分泌;延长其作用从而可降低血浆葡萄糖。 DPP-4抑制剂使胰腺炎患病风险略有增加，但它们仍被认为是安全且耐受性良好的药物。DPP-4抑制剂会使HbA1C适度降低。
+
+【钠-葡萄糖共转运蛋白2抑制剂】
+钠-葡萄糖共转运蛋白2 (SGLT2)抑制剂(贝格列净、卡格列净、达格列净、恩格列净、埃格列净)抑制肾近端小管的SGLT2，阻断葡萄糖的重吸收，从而引起糖尿并降低血糖。SGLT2抑制剂导致轻度的体重减轻和血压下降（6，7）。SGLT-2抑制剂可降低心血管疾病风险增加患者的死亡率、主要不良心血管事件和心力衰竭住院率。此外，SGLT-2 抑制剂可以预防糖尿病患者的慢性肾病进展并降低肾小球滤过率或蛋白尿。
+最常见的副作用是泌尿生殖道感染，尤其是真菌感染。 直立体位性症状也可能发生。SGLT-2抑制剂可导致1型或2型糖尿病患者的糖尿病酮症酸中毒（DKA），较之其他病因的DKA，酮症酸中毒可能在较低的血糖水平下发生。由于血浆葡萄糖水平较低，因此由 SGLT-2 抑制剂引起的血糖正常型糖尿病酮症酸中毒的诊断往往会被延误。一项大型研究显示使用卡格列净将增加下肢截肢率(8)。
+
+【多巴胺激动剂】
+溴隐亭是多巴胺激动剂，降低HbA1C约0.5％，机理未明。 虽然该药物适用于 2 型糖尿病患者，但由于可能存在不良反应，所以并不常被使用。
+
+【口服降糖药参考文献】
+1.Azhari HF, Dawson J.Clinical implications of fracture severity risk withpioglitazone: a systematic review and meta-analysis of clinical randomized trials.Front Pharmacol.2025;16:1357309.Published 2025 Mar 6.doi:10.3389/fphar.2025.1357309
+1.Azhari HF, Dawson J.Clinical implications of fracture severity risk withpioglitazone: a systematic review and meta-analysis of clinical randomized trials.Front Pharmacol.2025;16:1357309.Published 2025 Mar 6.doi:10.3389/fphar.2025.1357309
+2.Lewis JD, Habel LA, Quesenberry CP, et al.PioglitazoneUse and Risk of Bladder Cancer and Other Common Cancers in Persons With Diabetes.JAMA.2015;314(3):265-277.doi:10.1001/jama.2015.7996
+2.Lewis JD, Habel LA, Quesenberry CP, et al.PioglitazoneUse and Risk of Bladder Cancer and Other Common Cancers in Persons With Diabetes.JAMA.2015;314(3):265-277.doi:10.1001/jama.2015.7996
+3.Liao HW, Saver JL, Wu YL, Chen TH, Lee M, Ovbiagele B.Pioglitazoneand cardiovascular outcomes in patients withinsulinresistance, pre-diabetes and type 2 diabetes: a systematic review and meta-analysis.BMJ Open.2017;7(1):e013927.doi:10.1136/bmjopen-2016-013927
+3.Liao HW, Saver JL, Wu YL, Chen TH, Lee M, Ovbiagele B.Pioglitazoneand cardiovascular outcomes in patients withinsulinresistance, pre-diabetes and type 2 diabetes: a systematic review and meta-analysis.BMJ Open.2017;7(1):e013927.doi:10.1136/bmjopen-2016-013927
+4.Page RL 2nd, O'Bryant CL, Cheng D, et al.Drugs That May Cause or Exacerbate Heart Failure: A Scientific Statement From the American Heart Association.Circulation.2016;134(6):e32-e69.doi:10.1161/CIR.0000000000000426
+4.Page RL 2nd, O'Bryant CL, Cheng D, et al.Drugs That May Cause or Exacerbate Heart Failure: A Scientific Statement From the American Heart Association.Circulation.2016;134(6):e32-e69.doi:10.1161/CIR.0000000000000426
+5.Tuccori M, Filion KB, Yin H, Yu OH, Platt RW, Azoulay L.Pioglitazoneuse and risk of bladder cancer: population based cohort study.BMJ.2016;352:i1541.doi:10.1136/bmj.i1541
+5.Tuccori M, Filion KB, Yin H, Yu OH, Platt RW, Azoulay L.Pioglitazoneuse and risk of bladder cancer: population based cohort study.BMJ.2016;352:i1541.doi:10.1136/bmj.i1541
+6.American Diabetes Association Professional Practice Committee.9.Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S181-S206.doi:10.2337/dc25-S009
+6.American Diabetes Association Professional Practice Committee.9.Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S181-S206.doi:10.2337/dc25-S009
+7.Agarwal A, Mustafa R, Manja V, et al.Cardiovascular, kidney related, and weight loss effects of therapeutics for type 2 diabetes: a living clinical practice guideline.BMJ.2025;390:e082071.Published 2025 Aug 14.doi:10.1136/bmj-2024-082071
+7.Agarwal A, Mustafa R, Manja V, et al.Cardiovascular, kidney related, and weight loss effects of therapeutics for type 2 diabetes: a living clinical practice guideline.BMJ.2025;390:e082071.Published 2025 Aug 14.doi:10.1136/bmj-2024-082071
+8.Neal B, Perkovic V, Mahaffey KW, et al.Canagliflozinand Cardiovascular and Renal Events in Type 2 Diabetes.N Engl J Med.2017;377(7):644-657.doi:10.1056/NEJMoa1611925
+8.Neal B, Perkovic V, Mahaffey KW, et al.Canagliflozinand Cardiovascular and Renal Events in Type 2 Diabetes.N Engl J Med.2017;377(7):644-657.doi:10.1056/NEJMoa1611925
+
+【注射用降糖药】
+除胰岛素外，可注射的抗高血糖药物包括胰高血糖素样肽-1（GLP-1）受体激动剂、双葡萄糖依赖性促胰岛素多肽（GIP）和胰高血糖素样肽-1（GLP-1）受体激动剂（双肠促胰岛素激动剂），以及胰淀素类似物普兰林肽（见表注射用非胰岛素降糖药的特点）。这些药物可单独使用或与其他降糖药联合使用。
+对于 2 型糖尿病患者，GLP-1 受体激动剂的推荐适应证包括已确诊动脉粥样硬化性心血管疾病（ASCVD）、ASCVD 中高风险、慢性肾脏病，以及合并肥胖的射血分数保留型症状性心力衰竭（1,2）。
+
+【胰高血糖素样肽-1（GLP-1）受体激动剂】
+GLP-1 受体激动剂模拟 GLP-1 的作用，GLP-1 是一种在小肠中产生的肽，可增强葡萄糖依赖性胰岛素分泌和减缓胃排空。 GLP-1激动剂还可以降低食欲，减轻体重，促进胰岛beta细胞增殖。例子包括艾塞那肽（一种肠促胰岛素激素）、利西拉肽、利拉鲁肽、度拉糖肽、阿必鲁肽和索马鲁肽。 处方可采用一天两次、一天一次和每周一次的给药频率。所有 GLP-1 激动剂均作为皮下注射剂给药，索马鲁肽也可口服。
+GLP-1激动剂最常见的副作用是胃肠道症状，尤其是恶心和呕吐。 GLP-1激动剂也会导致胰腺炎风险略微增加。 有甲状腺髓样癌个人史或家族史的患者禁用，因为受试啮齿类动物罹患这种癌症的风险增加。
+
+【双肠促胰岛素激动剂（葡萄糖依赖性促胰岛素多肽（GIP）/胰高血糖素-样肽-1 (GLP-1) 受体激动剂)】
+Tirzepatide 是一种 GIP/GLP-1 受体激动剂，可用于治疗 2 型糖尿病。它是一种作为GIP和GLP-1受体的受体激动剂的肽。GIP和GLP-1是小肠中产生的肠促胰岛素。替西帕肽增加葡萄糖依赖性胰岛素分泌，减少胰高血糖素分泌，减缓胃排空。它还会降低食欲并导致体重减轻。
+替西帕肽用于治疗患有糖尿病的成年肥胖患者，同时与吡格列酮联合使用，用于治疗与代谢功能障碍相关的脂肪肝疾病（1、2）。
+
+【注射的非胰岛素降糖药物的特点】
+注射的非胰岛素降糖药物的特点
+通用名称
+胰高血糖素样肽-1（GLP-1）激动剂
+轻度低血糖风险；轻度减重；
+增加胰腺炎风险
+在啮齿类动物中的实验发现药物增加了甲状腺C-细胞肿瘤（髓样癌）的风险。
+为尽量减少恶心和呕吐，请从最低剂量开始并根据制造商的建议滴定
+可改善肝脏脂肪含量和纤维化、MASLD 和 MASH
+Albiglutide
+Dulaglutide
+可能减少心血管疾病高风险患者的主要不良心血管事件
+Exenatide
+艾塞那肽，每周1次
+利拉鲁肽
+可能减少心血管疾病高风险患者的主要不良心血管事件和心血管死亡
+利西拉来
+索马鲁肽*
+索马鲁肽与糖尿病性视网膜病变的进展增加有关。
+可能减少主要不良心血管事件和心血管死亡（口服索马鲁肽）心血管疾病高危患者
+胰淀素类似物
+Pramlintide
+与胰岛素联用，使用不同的注射器
+应调整胰岛素剂量，避免低血糖
+可有恶心感
+可轻度减重
+双肠促胰岛素激动剂（葡萄糖依赖性促胰岛素多肽（GIP）/胰高血糖素-样肽-1 (GLP-1) 受体激动剂
+Tirzepatide
+促进减肥
+引起胃肠道症状，包括食欲下降、腹泻、恶心、腹痛以及淀粉酶和脂肪酶升高。
+为了尽量减少症状，从最低剂量开始，并根据制造商的建议进行滴定。
+在啮齿类动物中的实验发现药物增加了甲状腺C-细胞肿瘤 的风险
+已有胰腺炎病例报告
+* 也有口头形式。有关信息见表口服降糖药的特性。
+食物血糖生成指数=胃肠道； MASLD=代谢功能障碍相关的脂肪肝病；糊状物=代谢功能障碍相关的脂肪性肝炎。
+* 也有口头形式。有关信息见表口服降糖药的特性。
+食物血糖生成指数=胃肠道； MASLD=代谢功能障碍相关的脂肪肝病；糊状物=代谢功能障碍相关的脂肪性肝炎。
+
+【胰淀素类似物】
+胰淀素类似物普兰林肽模拟了胰淀素，一种由胰腺 β 细胞分泌，有助于调节餐后血糖水平的激素。普兰林肽抑制餐后胰高血糖素分泌，减慢胃排空，并增加饱腹感。 它通过注射给药，并与餐时胰岛素联合使用。 1型糖尿病的餐前皮下注射剂量为30~60mcg，2型糖尿病为120mcg。
+
+【注射降糖药参考】
+1.Agarwal A, Mustafa R, Manja V, et al.Cardiovascular, kidney related, and weight loss effects of therapeutics for type 2 diabetes: a living clinical practice guideline.BMJ.2025;390:e082071.Published 2025 Aug 14.doi:10.1136/bmj-2024-082071
+1.Agarwal A, Mustafa R, Manja V, et al.Cardiovascular, kidney related, and weight loss effects of therapeutics for type 2 diabetes: a living clinical practice guideline.BMJ.2025;390:e082071.Published 2025 Aug 14.doi:10.1136/bmj-2024-082071
+2.American Diabetes Association Professional Practice Committee.9.Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S181-S206.doi:10.2337/dc25-S009
+2.American Diabetes Association Professional Practice Committee.9.Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S181-S206.doi:10.2337/dc25-S009
+
+【糖尿病疾病缓解药物】
+Teplizumab 是一种单克隆抗体，可与 T 细胞上的 CD3 细胞表面抗原结合，从而导致调节性 T 细胞比例增加和耗尽 CD8+ T 细胞，并减弱导致 β 细胞破坏的自身免疫反应。临床试验显示，替普利珠单抗可延缓 1 型糖尿病的诊断时间并保护 β 细胞功能，但尚未证实其可显著改善血糖控制或减少胰岛素用量需求（1,2）。对于患有 1 型 2 期糖尿病（血糖异常但无明显症状）的患者，若将其作为静脉输注的方式每日持续使用 14 天，研究还表明，它能够使症状性 1 型糖尿病的发病时间平均推迟 2 年（2、3）。不良反应包括细胞因子释放综合征，表现为发烧、恶心、疲劳、头痛、肌痛、关节痛和肝酶升高。其他严重的副作用包括淋巴细胞减少和过敏。
+
+【缓解疾病药物参考】
+1.Herold KC, Bundy BN, Long SA, et al.抗 CD3 抗体，特普利珠单抗在具有 1 型糖尿病风险的亲属中的应用 [刊误修正发表于N Engl J Med.2020 Feb 6;382(6):586]。N Engl J Med.2019;381(7):603-613.doi:10.1056/NEJMoa1902226
+1.Herold KC, Bundy BN, Long SA, et al.抗 CD3 抗体，特普利珠单抗在具有 1 型糖尿病风险的亲属中的应用 [刊误修正发表于N Engl J Med.2020 Feb 6;382(6):586]。N Engl J Med.2019;381(7):603-613.doi:10.1056/NEJMoa1902226
+2.Ramos EL, Dayan CM, Chatenoud L, et al.Teplizumaband β-Cell Function in Newly Diagnosed Type 1 Diabetes.N Engl J Med.2023;389(23):2151-2161.doi:10.1056/NEJMoa2308743
+2.Ramos EL, Dayan CM, Chatenoud L, et al.Teplizumaband β-Cell Function in Newly Diagnosed Type 1 Diabetes.N Engl J Med.2023;389(23):2151-2161.doi:10.1056/NEJMoa2308743
+3.Sims EK, Bundy BN, Stier K, et al.Teplizumabimproves and stabilizes beta cell function in antibody-positive high-risk individuals.Sci Transl Med2021;13(583):eabc8980.doi:10.1126/scitranslmed.abc8980
+3.Sims EK, Bundy BN, Stier K, et al.Teplizumabimproves and stabilizes beta cell function in antibody-positive high-risk individuals.Sci Transl Med2021;13(583):eabc8980.doi:10.1126/scitranslmed.abc8980
+
+【辅助药物治疗糖尿病】
+预防和治疗糖尿病长期并发症(1,2,3,4) 的药物措施也很重要，包括
+血管紧张素转换酶 (ACE) 抑制剂或血管紧张素 II受体阻滞剂 (ARB)
+血管紧张素转换酶 (ACE) 抑制剂或血管紧张素 II受体阻滞剂 (ARB)
+盐皮质激素受体拮抗剂（MRAs）
+盐皮质激素受体拮抗剂（MRAs）
+阿司匹林
+阿司匹林
+血管紧张素转换酶抑制剂或血管紧张素Ⅱ受体阻滞剂适用于合并慢性肾脏病（CKD）（表现为肾小球滤过率下降或白蛋白尿）的糖尿病患者，即使无高血压亦应使用（5）。无论是否合并 CKD，这类药物均为合并糖尿病和高血压患者的一线治疗。无论CKD状态如何。对于慢性肾脏病（CKD）患者，特别是那些尽管已接受最大剂量ACE抑制剂或ARB治疗但仍持续存在蛋白尿的患者，推荐使用非甾体类盐皮质激素受体拮抗剂（如非奈利酮）。
+ACE 抑制剂也可预防糖尿病患者的心血管事件（1）。对于已知动脉粥样硬化性心血管疾病 (ASCVD) 的患者，建议使用 ACE 抑制剂或 ARB 进行二级预防 (5)。
+SGLT2 抑制剂和 GLP-1 受体激动剂除降糖作用外，还可为心血管和肾脏提供保护作用（2）。对于合并慢性肾脏病（CKD）的糖尿病患者，推荐使用 SGLT2 抑制剂；对于以心血管风险为主的糖尿病患者，常选用 GLP-1 受体激动剂。
+阿司匹林81～325mg，每天1次，对心血管有保护作用 (5)。建议对所有有ASCVD病史的患者使用阿司匹林进行二级预防。阿司匹林对没有确诊的心血管疾病患者（即一级预防）的益处尚不太清楚。阿司匹林可被考虑用于年龄≥50岁且至少有一项额外ASCVD风险因素且无出血风险增加的糖尿病患者的一级预防。对于 >70 岁的患者，出血风险可能超过一级预防的huo益。
+他汀类药物建议所有 40 至 75 岁的糖尿病患者服用（1,4）。采用中高强度治疗，高强度他汀类药物推荐用于ASCVD风险较高的患者。对于所有患有糖尿病和已确诊ASCVD或ASCVD风险极高的患者，在低密度脂蛋白(LDL)胆固醇水平<70 mg/dL (1.81 mol/L)时，也可以使用最大耐受性的他汀类药物，并在必要时添加依折替米贝或蛋白转化酶枯草菌素/ keexin 9型(PCSK -9)抑制剂。此外，对他汀类药物治疗不耐受的患者应使用依折麦布或 PCSK-9 抑制剂治疗。 （见表他汀类药物预防 ASCVD）。对于年龄<40或>75岁的人群，应根据个体差异，风险获益比，以及患者的偏好，选择合适的治疗方案。2型糖尿病患者往往有高水平的甘油三酯和小而密集的LDL胆固醇和低水平的HDL胆固醇;他们应该接受积极的治疗。美国糖尿病协会的最新建议提出了目标 LDL<55 mg/dL（1.42 mmol/L） 。
+
+【辅助药物治疗】
+1.American Diabetes Association Professional Practice Committee.10.Cardiovascular Disease and Risk Management: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S207-S238.doi:10.2337/dc25-S010
+1.American Diabetes Association Professional Practice Committee.10.Cardiovascular Disease and Risk Management: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S207-S238.doi:10.2337/dc25-S010
+2.American Diabetes Association Professional Practice Committee.11.Chronic Kidney Disease and Risk Management: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S239-S251.doi:10.2337/dc25-S011
+2.American Diabetes Association Professional Practice Committee.11.Chronic Kidney Disease and Risk Management: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S239-S251.doi:10.2337/dc25-S011
+3.Garber AJ, Handelsman Y, Grunberger G, et al: Consensus statement by the American Association of Clinical Endocrinologists and American College of Endocrinology on the comprehensive type 2 diabetes management algorithm--2020 executive summary.Endocrine Practice.26:107–139, 2020.
+3.Garber AJ, Handelsman Y, Grunberger G, et al: Consensus statement by the American Association of Clinical Endocrinologists and American College of Endocrinology on the comprehensive type 2 diabetes management algorithm--2020 executive summary.Endocrine Practice.26:107–139, 2020.
+4.Grundy SM, Stone NJ, Bailey AL, et al: 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol: Executive Summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.J Am Coll Cardiol.73(24):3168–3209, 2019.doi: 10.1016/j.jacc.2018.11.002
+4.Grundy SM, Stone NJ, Bailey AL, et al: 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol: Executive Summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.J Am Coll Cardiol.73(24):3168–3209, 2019.doi: 10.1016/j.jacc.2018.11.002
+5.American Diabetes Association Professional Practice Committee.9.Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S181-S206.doi:10.2337/dc25-S009
+5.American Diabetes Association Professional Practice Committee.9.Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S181-S206.doi:10.2337/dc25-S009

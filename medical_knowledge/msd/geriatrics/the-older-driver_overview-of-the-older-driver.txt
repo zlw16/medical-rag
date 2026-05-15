@@ -1,0 +1,110 @@
+标题：老年司机概述
+来源：https://www.msdmanuals.cn/professional/geriatrics/the-older-driver/overview-of-the-older-driver
+============================================================
+
+对于许多老年人来说，驾驶汽车是他们社区交通的首选。影响老年人驾驶的疾病可能会产生 2 种严重的不良后果：
+机动车事故（MVC）导致司机、乘客或行人受伤或死亡
+机动车事故（MVC）导致司机、乘客或行人受伤或死亡
+停止驾驶
+停止驾驶
+安全驾驶需要综合复杂的视觉、运动和认知过程，患有疾病的老年驾驶员可能在其中一个或多个方面存在轻度至中度缺陷。许多老年司机通过避免高峰时间、减少每年的行驶里程、限制短途旅行以及避免在黄昏、夜间或恶劣天气下驾驶来自我调节行为，成功地弥补自身缺陷。同样的，老年司机驾驶得更小心、更慢、发生的危险更少。他们因酒后驾驶被引用的频率也较低。然而，也有一部分老年人，由于他们否认或并未认识到自身限制（如判断力下降）(1)或有保持独立性的强烈愿望，尽管与安全驾驶能力相关的技能严重受损，仍继续驾驶。
+大部分老年司机的MVC发生在白天及工作日。这些机动车碰撞事故往往是由于未能让行、忽视停车标志或红灯、或未能保持正确的车道位置所导致的，且多发生在较为复杂的驾驶情境中，例如涉及交叉路口、左转或汇入车流等情况。老年司机的MVC相较于年轻司机，可能涉及多辆汽车，造成更严重伤亡。
+与年轻驾驶员不同，酒精、发短信、使用手机和超速在涉及老年驾驶员的机动车碰撞事故中很少起作用；然而，这种情况在未来老龄化群体中可能会发生变化。随着车载技术（例如 GPS 设备）的普及，车内分心可能会变得更加频繁。
+当MVCs发生时，老年人更容易受伤。这种脆弱性的原因尚未得到充分研究，但可能包括以下几点：
+老年司机承受创伤的能力下降。
+老年司机承受创伤的能力下降。
+老年司机往往患有更多的合并症（例如骨质疏松症、心脏病），这会导致各个年龄段的驾驶结果更差（2）。
+老年司机往往患有更多的合并症（例如骨质疏松症、心脏病），这会导致各个年龄段的驾驶结果更差（2）。
+许多机动车碰撞事故为驾驶员侧撞击（例如发生在十字路口），这使得老年驾驶员更加脆弱，更容易受伤。
+许多机动车碰撞事故为驾驶员侧撞击（例如发生在十字路口），这使得老年驾驶员更加脆弱，更容易受伤。
+年长的司机可能会驾驶不太耐撞的车辆。
+年长的司机可能会驾驶不太耐撞的车辆。
+
+【老年司机统计数据】
+根据美国运输部联邦公路管理局的数据，2021 年美国约有 32,000,000 名 70 岁及以上的持照司机（3）。老年人持有驾照的时间越来越长；65岁及以上人群持有驾照的比例从1997年的78%上升至2021年的89%（4）。司机平均每年行驶的里程数更多，尽管老年司机的行驶里程数仍少于中年司机（5）。
+2021 年，美国有 5863 名 65 岁及以上人士在车祸 中丧生，其中 598 人是摩托车事故（6）。从大约75岁开始，每10万名持照司机的致命车祸率随着年龄的增长而增加，男性的死亡率几乎是女性的两倍（7）。
+
+【老年司机评估】
+当常规体检发现缺陷、严重疾病或病症显现、患者寻求建议、家属表达担忧或执法部门指出不安全驾驶行为时，医疗保健专业人员便会参与驾驶决策。医务人员的任务是做详细的功能评价以及行车安全的医疗评估。
+关于制定驾驶和痴呆症问题国家指南的建议包括 7 项基于证据的观察和建议（8)：
+应该认真对待照顾者的担忧。
+应该认真对待照顾者的担忧。
+仅诊断痴呆症不足以取消驾驶特权。
+仅诊断痴呆症不足以取消驾驶特权。
+处于痴呆症中度阶段的人不太可能成为安全的司机。
+处于痴呆症中度阶段的人不太可能成为安全的司机。
+因认知能力下降导致2项或以上工具性日常生活活动能力逐渐丧失（但基本日常生活活动能力未丧失）的痴呆症患者，其驾驶能力受损的风险更高。
+因认知能力下降导致2项或以上工具性日常生活活动能力逐渐丧失（但基本日常生活活动能力未丧失）的痴呆症患者，其驾驶能力受损的风险更高。
+由于认知能力下降而导致 IADL 缺陷的人如果希望继续驾驶，应该对驾驶进行正式评估和持续监测。
+由于认知能力下降而导致 IADL 缺陷的人如果希望继续驾驶，应该对驾驶进行正式评估和持续监测。
+认知筛查中的异常可能提示存在风险驾驶者，需进一步评估；然而，任何诊室内测试或测试组合（包括整体认知筛查，如简易精神状态检查[MMSE]、蒙特利尔认知评估[MoCA]）均不具备足够的敏感性或特异性，可在所有情况下作为驾驶能力的唯一判定依据。
+认知筛查中的异常可能提示存在风险驾驶者，需进一步评估；然而，任何诊室内测试或测试组合（包括整体认知筛查，如简易精神状态检查[MMSE]、蒙特利尔认知评估[MoCA]）均不具备足够的敏感性或特异性，可在所有情况下作为驾驶能力的唯一判定依据。
+被认为适合继续驾驶的痴呆症患者应每 6 至 12 个月（或如果有指示，则更早）重新评估。
+被认为适合继续驾驶的痴呆症患者应每 6 至 12 个月（或如果有指示，则更早）重新评估。
+应回顾驾车史；驾驶习惯的细节和过去的违规、MVC、危险情况或迷路可能会发现一般或特定的功能障碍。由于患有认知障碍的年长驾驶员可能缺乏自知之明，因此应有一位重要他人参与此次评估。照顾者（尤其是成年子女）的报告已被证明是驾驶表现的有用指标，尤其对于患有痴呆症的老年驾驶员而言（9、10）。阿尔茨海默氏症协会警告不安全驾驶的迹象，包括以下内容(11)：
+忘记如何找到熟悉的目的地
+忘记如何找到熟悉的目的地
+不遵守交通标志
+不遵守交通标志
+驾驶过程中决策缓慢或决策不当
+驾驶过程中决策缓慢或决策不当
+以不适当的速度驾驶
+以不适当的速度驾驶
+在驾驶过程中生气或困惑
+在驾驶过程中生气或困惑
+撞到路边
+撞到路边
+车道控制不佳
+车道控制不佳
+在路口犯错误
+在路口犯错误
+混淆油门和刹车
+混淆油门和刹车
+比平时晚返回
+比平时晚返回
+开车时忘记目的地
+开车时忘记目的地
+对于一些功能障碍，医务人员有义务将患者转诊至州机动车管理部门做进一步的测试或驾驶限制。对当前州执照更新法律的审查揭示了不同的更新周期和测试要求（另见公路安全保险协会/公路损失数据研究所的各州许可证续期程序）。
+
+【参考文献】
+1.Paire-Ficout L, Lafont S, Hay M, Coquillat A, Fabrigoule C, Chavoix C.Relationships Between Cognitive and Driving Self-awareness in Older Drivers.J Gerontol B Psychol Sci Soc Sci.2021;76(6):1077-1085.doi:10.1093/geronb/gbaa224
+1.Paire-Ficout L, Lafont S, Hay M, Coquillat A, Fabrigoule C, Chavoix C.Relationships Between Cognitive and Driving Self-awareness in Older Drivers.J Gerontol B Psychol Sci Soc Sci.2021;76(6):1077-1085.doi:10.1093/geronb/gbaa224
+2.Shu CC, Dinh M, Mitchell R, et al.Impact of comorbidities on survival following major injury across different types of road users.Injury.2022;53(10):3178-3185.doi:10.1016/j.injury.2022.07.005
+2.Shu CC, Dinh M, Mitchell R, et al.Impact of comorbidities on survival following major injury across different types of road users.Injury.2022;53(10):3178-3185.doi:10.1016/j.injury.2022.07.005
+3.U.S. Department of Transportation Federal Highway Administration.Highway Statistics Series: Highway Statistics 2021.
+3.U.S. Department of Transportation Federal Highway Administration.Highway Statistics Series: Highway Statistics 2021.
+4.National Highway Traffic Safety Administration: Older Drivers.Accessed June 18, 2024.
+4.National Highway Traffic Safety Administration: Older Drivers.Accessed June 18, 2024.
+5.United States Department of Transportation, Federal Highway Administration: Average Annual Miles per Driver by Age Group.Accessed June 18, 2024.
+5.United States Department of Transportation, Federal Highway Administration: Average Annual Miles per Driver by Age Group.Accessed June 18, 2024.
+6.National Center for Statistics and Analysis.Traffic safety facts 2021: A compilation of motor vehicle traffic crash data (Report No. DOT HS 813 527).National Highway Traffic Safety Administration.2023, December.
+6.National Center for Statistics and Analysis.Traffic safety facts 2021: A compilation of motor vehicle traffic crash data (Report No. DOT HS 813 527).National Highway Traffic Safety Administration.2023, December.
+7.National Highway Traffic Safety Administration: Traffic Safety Facts, Older Population (2021 Data)
+7.National Highway Traffic Safety Administration: Traffic Safety Facts, Older Population (2021 Data)
+8.Rapoport MJ, Chee JN, Carr DB, et al: An international approach to enhancing a national guideline on driving and dementia.Curr Psychiatry Rep.2018;20(3):16.doi:10.1007/s11920-018-0879-x
+8.Rapoport MJ, Chee JN, Carr DB, et al: An international approach to enhancing a national guideline on driving and dementia.Curr Psychiatry Rep.2018;20(3):16.doi:10.1007/s11920-018-0879-x
+9.Barco PP, Wallendorf M, Blenden G, et al: Caregiver prediction of driving fitness in older adults with dementia.Clin Gerontol.2021;44(5):520–527.doi:10.1080/07317115.2021.1872130
+9.Barco PP, Wallendorf M, Blenden G, et al: Caregiver prediction of driving fitness in older adults with dementia.Clin Gerontol.2021;44(5):520–527.doi:10.1080/07317115.2021.1872130
+10.Bixby K, Davis JD, Ott BR: Comparing caregiver and clinician predictions of fitness to drive in people with Alzheimer's disease.Am J Occup Ther.2015;69(3):6903270030p1–6903270030p7.doi:10.5014/ajot.2015.013631
+10.Bixby K, Davis JD, Ott BR: Comparing caregiver and clinician predictions of fitness to drive in people with Alzheimer's disease.Am J Occup Ther.2015;69(3):6903270030p1–6903270030p7.doi:10.5014/ajot.2015.013631
+11.Alzheimer's Association: Dementia and driving: Signs of unsafe driving.Accessed May 23, 2024.
+11.Alzheimer's Association: Dementia and driving: Signs of unsafe driving.Accessed May 23, 2024.
+年龄相关以及疾病相关的身体、运动、感觉和认知功能变化会损害驾驶能力，并导致老年驾驶员每英里机动车碰撞（MVC）率的增加。
+年龄相关以及疾病相关的身体、运动、感觉和认知功能变化会损害驾驶能力，并导致老年驾驶员每英里机动车碰撞（MVC）率的增加。
+许多老年司机自我调节驾驶习惯。
+许多老年司机自我调节驾驶习惯。
+老年人在MVC中比其他年龄组更容易受伤和死亡。
+老年人在MVC中比其他年龄组更容易受伤和死亡。
+办公室内测试和认知筛查可以识别需要进一步评估的有风险的驾驶员，但这些测试既不够灵敏，也不够具体，无法成为驾驶能力的唯一决定因素。
+办公室内测试和认知筛查可以识别需要进一步评估的有风险的驾驶员，但这些测试既不够灵敏，也不够具体，无法成为驾驶能力的唯一决定因素。
+被认为适合继续驾驶的痴呆症患者应每 6 到 12 个月重新评估一次（如果有指示，也可以更早）。
+被认为适合继续驾驶的痴呆症患者应每 6 到 12 个月重新评估一次（如果有指示，也可以更早）。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+American Geriatrics Society:Clinician’s Guide to Assessing and Counseling Older Drivers, 4th Edition
+American Geriatrics Society:Clinician’s Guide to Assessing and Counseling Older Drivers, 4th Edition
+Austroads (Australia):Assessing Fitness to Drive
+Austroads (Australia):Assessing Fitness to Drive
+National Highway Traffic Safety Administration:Older Drivers: A resource providing driving safety information to older drivers and their caregivers
+National Highway Traffic Safety Administration:Older Drivers: A resource providing driving safety information to older drivers and their caregivers

@@ -1,0 +1,158 @@
+标题：术前评估
+来源：https://www.msdmanuals.cn/professional/special-subjects/care-of-the-surgical-patient/preoperative-evaluation
+============================================================
+
+无论是门诊还是住院，安排接受外科手术的患者通常都要接受麻醉团队的评估，以准备麻醉护理，并且外科团队可能会将患者转介给内科医生，在手术前进行医学评估。术前医学评估的目标是通过识别医学异常和评估已知合并症带来的风险来最大限度地降低围手术期并发症的风险。该评估用于确定是否需要额外的术前准备和围手术期监测和管理。某些情况下，择期手术应近可能延迟，使某些潜在疾病（如高血压、糖尿病、血液学异常）可以被有效地控制。在其他情况下，如果患者被认为具有大型手术的高风险，则可以在术前调整手术方法和麻醉护理计划以降低风险（例如，使用创伤较小的干预措施）。
+全面的术前医学评估通常由全科内科医生或与患者合并症相关的领域的专家（例如心脏病专家、肺病专家）进行。这些顾问还可以帮助诊疗已经存在的疾病（如糖尿病），并有助于预防和治疗围手术期和术后并发症（如心脏、肺部、感染）。有时需要精神科会诊来评估能力或帮助处理可能干扰手术或恢复的潜在精神问题。
+老年人可能会受益于跨学科老年医学团队，可能包括老年病学家、社会工作者、心理治疗师、物理医学和康复专家以及其他医疗保健专业人员（1）。
+对于非选择性手术，应考虑拟进行手术的严重程度和类型以及患者接受手术的风险。此外，如果需要紧急手术（例如，腹腔内出血、内脏穿孔、坏死性筋膜炎），通常没有时间进行全面的术前评估。然而，应尽快回顾患者的既往病史，特别是过敏史，并帮助确定增加急诊手术风险的因素(如抗凝治疗、出血性疾病或既往不良麻醉反应)。
+相关术前病史包括以下所有内容：
+反映心血管系统疾病的近期症状，如咳嗽、胸痛、活动时呼吸困难、膝关节水肿；或者感染的表现（发热、尿少）
+反映心血管系统疾病的近期症状，如咳嗽、胸痛、活动时呼吸困难、膝关节水肿；或者感染的表现（发热、尿少）
+失血过多的危险因素 （例如，抗凝治疗、已知的出血疾病、或因牙科手术、择期手术或分娩而过度出血的病史)
+失血过多的危险因素 （例如，抗凝治疗、已知的出血疾病、或因牙科手术、择期手术或分娩而过度出血的病史)
+血栓形成的危险因素
+血栓形成的危险因素
+感染的危险因素
+感染的危险因素
+心血管疾病的危险因素
+心血管疾病的危险因素
+已知会增加并发症风险的疾病，尤其是高血压、心脏病、脑血管病、肾病、肝病、糖尿病、哮喘和慢性阻塞性肺病 (COPD)
+已知会增加并发症风险的疾病，尤其是高血压、心脏病、脑血管病、肾病、肝病、糖尿病、哮喘和慢性阻塞性肺病 (COPD)
+既往手术、麻醉或两者，以及任何相关并发症
+既往手术、麻醉或两者，以及任何相关并发症
+对麻醉剂或其他药物或手术护理中使用的材料（如乳胶、粘合剂）过敏
+对麻醉剂或其他药物或手术护理中使用的材料（如乳胶、粘合剂）过敏
+烟草、酒精和非法药物的使用
+烟草、酒精和非法药物的使用
+近期使用处方药、非处方药或者保健品的情况
+近期使用处方药、非处方药或者保健品的情况
+阻塞性睡眠呼吸暂停或过度打鼾的病史
+阻塞性睡眠呼吸暂停或过度打鼾的病史
+如果术后可能留置导尿，那么需要了解患者的尿流情况和前列腺手术史。
+
+【体格检查】
+体格检查应针对计划手术所涉及的区域和心肺系统，以及评估任何持续感染的迹象（例如上呼吸道、皮肤）。
+如果可能使用椎管内麻醉 ，应评估患者是否存在脊柱侧凸和其他可能影响腰椎穿刺的解剖异常。
+对于即将全麻的患者，则应当注意可能存在的认知障碍，这在老年患者应尤其注意。已经存在的症状可能在术后更加显著，如果在术前没有发现，将很难和手术并发症区分。
+
+【实验室检查】
+接受择期手术的健康患者中，影响围手术期管理的未确诊疾病的患病率较低。因此，没有临床症状或重大潜在疾病的患者不应进行常规术前检查。这种测试不符合成本效益，会导致假阳性结果、非预期的患者焦虑和手术延误。
+因此，术前检查应个性化，并根据患者的病史、当前合并症和药物、风险因素以及需要进一步评估的症状进行。对于育龄妇女，通常进行术前妊娠试验（β-人绒毛膜促性腺激素）（2、3、4、5）。
+对于有症状的患者，那些已知有基础疾病，或那些接受手术的有明显出血倾向或者并发症高危因素的患者，实验室评估可能包括以下测试：
+通常会进行全血细胞计数（CBC）。CBC 尤其适用于 > 65 岁或预期有大量失血的年轻患者。
+通常会进行全血细胞计数（CBC）。CBC 尤其适用于 > 65 岁或预期有大量失血的年轻患者。
+通常进行尿液分析（葡萄糖、蛋白质和细胞）。
+通常进行尿液分析（葡萄糖、蛋白质和细胞）。
+除非患者既往绝对健康并且年龄小于50岁，一般都应在术前检查血糖、血电解质和血清肌酐值。这些检测的危险性很低，也不应该使用对肾脏有损伤的试剂
+除非患者既往绝对健康并且年龄小于50岁，一般都应在术前检查血糖、血电解质和血清肌酐值。这些检测的危险性很低，也不应该使用对肾脏有损伤的试剂
+如果患者的病史和症状显示可疑，通常应该进行肝脏检查
+如果患者的病史和症状显示可疑，通常应该进行肝脏检查
+仅当患者有个人或家族出血素质史时，才需要进行凝血研究和出血时间检测。
+仅当患者有个人或家族出血素质史时，才需要进行凝血研究和出血时间检测。
+心电图是为有冠状动脉疾病（CAD）风险的患者进行的，包括所有年龄>45岁的男性和>50岁的女性，以及严重肥胖（体重指数≥40 kg/m2）且至少有一种动脉粥样硬化性心血管疾病风险因素（如糖尿病、吸烟、高血压或高脂血症）或运动耐量差的患者 (6)。
+心电图是为有冠状动脉疾病（CAD）风险的患者进行的，包括所有年龄>45岁的男性和>50岁的女性，以及严重肥胖（体重指数≥40 kg/m2）且至少有一种动脉粥样硬化性心血管疾病风险因素（如糖尿病、吸烟、高血压或高脂血症）或运动耐量差的患者 (6)。
+胸部 X 光检查仅适用于具有潜在心肺疾病症状或危险因素的患者。
+胸部 X 光检查仅适用于具有潜在心肺疾病症状或危险因素的患者。
+患有慢性肺部疾病或者出现肺部疾病症状和体征的患者应该进行术前肺功能测定。
+患有慢性肺部疾病或者出现肺部疾病症状和体征的患者应该进行术前肺功能测定。
+症状性冠心病的患者需要做进一步的术前检查（如压力测试、冠状动脉造影）。
+
+【参考文献】
+1.Mohanty S, Rosenthal RA, Russell MM, et al: Optimal perioperative management of the geriatric patient: a best practices guideline from the American College of Surgeons NSQIP and the American Geriatrics Society.J Am Coll Surg222(5):930-947, 2016.doi:10.1016/j.jamcollsurg.2015.12.026
+1.Mohanty S, Rosenthal RA, Russell MM, et al: Optimal perioperative management of the geriatric patient: a best practices guideline from the American College of Surgeons NSQIP and the American Geriatrics Society.J Am Coll Surg222(5):930-947, 2016.doi:10.1016/j.jamcollsurg.2015.12.026
+2.Fleisher LA, Fleischmann KE, Auerbach AD, et al: ACC/AHA 2014 guideline on perioperative cardiovascular evaluation and management of patients undergoing noncardiac surgery (executive summary); a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines.Circulation130:2215-2245, 2014.doi: 10.1161/CIR.0000000000000105
+2.Fleisher LA, Fleischmann KE, Auerbach AD, et al: ACC/AHA 2014 guideline on perioperative cardiovascular evaluation and management of patients undergoing noncardiac surgery (executive summary); a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines.Circulation130:2215-2245, 2014.doi: 10.1161/CIR.0000000000000105
+3.O'Neill F, Carter E, Pink N, et al: Routine preoperative tests for elective surgery: summary of updated NICE guidance.BMJ354:i3292, 2016.doi:10.1136/bmj.i3292
+3.O'Neill F, Carter E, Pink N, et al: Routine preoperative tests for elective surgery: summary of updated NICE guidance.BMJ354:i3292, 2016.doi:10.1136/bmj.i3292
+4.Halvorsen S, Mehilli J, Cassese S, et al: 2022 ESC Guidelines on cardiovascular assessment and management of patients undergoing non-cardiac surgery [published correction appears inEur Heart J. 2023 Nov 7;44(42):4421].Eur Heart J.2022;43(39):3826-3924.doi:10.1093/eurheartj/ehac270
+4.Halvorsen S, Mehilli J, Cassese S, et al: 2022 ESC Guidelines on cardiovascular assessment and management of patients undergoing non-cardiac surgery [published correction appears inEur Heart J. 2023 Nov 7;44(42):4421].Eur Heart J.2022;43(39):3826-3924.doi:10.1093/eurheartj/ehac270
+5.ACOG Committee Opinion No. 775: Nonobstetric Surgery During Pregnancy.Obstet Gynecol.2019;133(4):e285-e286.doi:10.1097/AOG.0000000000003174
+5.ACOG Committee Opinion No. 775: Nonobstetric Surgery During Pregnancy.Obstet Gynecol.2019;133(4):e285-e286.doi:10.1097/AOG.0000000000003174
+6.Poirier P, Alpert MA, Fleisher LA, et al: Cardiovascular evaluation and management of severely obese patients undergoing surgery: a science advisory from the American Heart Association.Circulation120(1):86-95, 2009.doi:10.1161/CIRCULATIONAHA.109.192575
+6.Poirier P, Alpert MA, Fleisher LA, et al: Cardiovascular evaluation and management of severely obese patients undergoing surgery: a science advisory from the American Heart Association.Circulation120(1):86-95, 2009.doi:10.1161/CIRCULATIONAHA.109.192575
+
+【程序风险因素】
+操作性危险因素较高的有以下情况：
+心肺的手术
+心肺的手术
+肝切除术
+肝切除术
+估计需要延长手术时间或具有大容量的出血风险的腹内手术（例如，惠尔普手术（胰十二指肠切除术），主动脉手术，腹膜后手术）
+估计需要延长手术时间或具有大容量的出血风险的腹内手术（例如，惠尔普手术（胰十二指肠切除术），主动脉手术，腹膜后手术）
+开放的前列腺切除术
+开放的前列腺切除术
+重大矫形外科手术（如，髋关节置换）
+重大矫形外科手术（如，髋关节置换）
+接受择期手术的患者，尤其是有重大出血风险的手术，以及因某些原因不能进行同种异体输血的患者（例如，因红细胞抗原的同种抗体或因宗教原因拒绝接受他人输血），可以考虑储存血液，以备将来使用自体输血。如果血细胞计数需要时间恢复正常，则应考虑围手术期贫血的风险和手术可能延迟。自体捐献曾经是一种更常见的做法，但随着输血安全性的提高，其使用已经减少。
+相较于择期手术，急诊手术的发病率和死亡率危险因素均高。
+
+【患者危险因素】
+患者风险因素对围手术期发病率和死亡率的贡献最好通过经过验证的定量风险计算器进行估计。 例如，美国外科医师学会国家外科质量改进计划 (ACS NSQIP) 开发了一个风险计算器来预测围手术期不良事件（见ACS NSQIP Surgical Risk Calculator）。 使用这些工具不仅可以统一解释外科医生的结果数据，还有助于患者和家属更好地共享决策和知情同意（1)。
+
+【心脏病高危因素】
+心脏病危险因素大大增加手术风险。围手术期心脏风险通常采用美国心脏病学会/美国心脏协会的分步术前心脏评估方法进行评估（2）。它认为心脏病风险的独立预测因素如下：
+冠状动脉疾病（CAD)病史
+冠状动脉疾病（CAD)病史
+脑血管病史
+脑血管病史
+需要胰岛素治疗的糖尿病
+需要胰岛素治疗的糖尿病
+血肌酐（2.0毫克/分升）
+血肌酐（2.0毫克/分升）
+心脏并发症的风险随着危险因素的增加而增加：
+无危险因素：0.4％（95％置信区间为0.1%至0.8％）
+无危险因素：0.4％（95％置信区间为0.1%至0.8％）
+1级危险因素：1.0％（95％置信区间为0.5至1.4％）
+1级危险因素：1.0％（95％置信区间为0.5至1.4％）
+2级危险因素：2.4％（95％置信区间为1.3〜3.5％）
+2级危险因素：2.4％（95％置信区间为1.3〜3.5％）
+≥3级风险因素：5.4％（95％可信区间为2.8〜7.9％）
+≥3级风险因素：5.4％（95％可信区间为2.8〜7.9％）
+一个高风险的手术（如血管外科手术，开胸或开腹手术）也独立预测高的围手术期心脏病风险。
+患者活动性心脏病症状（如心脏衰竭或不稳定型心绞痛）具有特别高的围手术期风险。不稳定型心绞痛患者围手术期心肌梗塞风险增加（3）。在稳定型心绞痛患者中，风险与运动耐受程度成正比。有活动性心脏病症状患者需要进一步评估。例如，应确定心脏衰竭的原因，使得围手术期心脏监测和治疗可以在择期手术前进行优化。其他心脏检测，如超声心动图甚至血管造影，应该在有证据提示存在可逆的心肌缺血患者的术前评估中进行。
+术前护理应着眼于使用标准化治疗控制活动性疾病（如，心脏衰竭，糖尿病）。此外，应采取措施减少围手术期的心动过速，因为其可以使心脏衰竭恶化和MI的风险增加；例如，应当优化疼痛控制以及考虑beta受体阻滞剂的应用，尤其是对于已经在服用beta受体阻滞剂的患者。不稳定性心绞痛患者应考虑冠脉血运重建。心脏的异常如果不能在术前纠正或者患者具有心脏并发症的高危因素，术前和术中某些时候需要进行肺动脉导管监测。有时心脏危险远远高于进行手术带来的好处。 在这种情况下，微创手术可以提供或充当最终治疗的桥梁（例如，胆囊炎的管状胆囊造口术）并降低发病率和死亡率。
+
+【缺血性中风病史】
+有以下病史的患者缺血性中风围手术期卒中的风险更高，且卒中后手术的理想时机尚不确定。一项基于医疗保险数据的研究纳入了近 600 万名患者，发现手术前 30 天内有过中风史的患者与无中风史的患者相比，术后缺血性中风的风险高出 8 倍；中风后 60 至 90 天内，复发性围手术期中风的风险降低，但仍然较高（4）。因此，对于有缺血性中风病史的患者，决定手术时机时应同时考虑中风复发的风险和延迟手术的潜在负面后果。为了最大限度地降低复发风险，中风后应推迟选择性手术至少 3 个月，如果可能的话最好推迟 9 个月。
+术前发现的细菌感染应用抗生素治疗。然而，感染不应该延误手术，除非假体材料植入;在这种情况下，外科手术应推迟直至感染被控制或消除。
+患者呼吸道感染应及时治疗，并感染应在接受吸入麻醉前解决并得到证实。
+伴或不伴发热的病毒感染都应在择期手术前治愈，特别是需要进行全身麻醉时。
+为了SARS-CoV-2，美国麻醉医师协会 (ASA) 和麻醉患者安全基金会 (APSF) 建议反对对无症状患者进行普遍的术前筛查；他们建议对有症状的患者进行 COVID-19 检测，并建议每个机构实施强有力的感染控制措施，并根据个体患者接触情况、当地 COVID-19 发病率和机构物理布局进行有针对性的筛查（见 APSF：ASA和APSF关于COVID-19病毒围手术期检测的声明和ASA和APSF关于无症状患者SARS-CoV-2围手术期检测的更新声明）。
+
+【体液和电解质失衡】
+水和电解质紊乱应当在术前给予纠正。低钾血症、高钾血症、低钙血症和低镁血症必须在全身麻醉前予以纠正，以减少潜在的致命性心律失常的风险。鉴于麻醉后将产生低血压，术前存在的脱水及低血容量应当通过静脉输液得到纠正。
+
+【营养失调】
+营养不良和肥胖增加了成人术后并发症的风险术前使用病史，体格检查和实验室检查评估营养状态。
+严重的营养风险因素包括：
+体重指数 < 18.5 kg/m2或 6 个月内体重意外减轻 > 10% 或 1 个月内体重减轻 5% 的病史
+体重指数 < 18.5 kg/m2或 6 个月内体重意外减轻 > 10% 或 1 个月内体重减轻 5% 的病史
+体格检查显示（例如，肌肉萎缩，明确的营养不良迹象）
+体格检查显示（例如，肌肉萎缩，明确的营养不良迹象）
+低血清白蛋白水平（< 3 g/dL，没有肾或肝功能障碍的证据）
+低血清白蛋白水平（< 3 g/dL，没有肾或肝功能障碍的证据）
+重要的是要问减肥是否是故意的，因为无意识的体重下降可能反映了营养补充无效的分解代谢状态，表明严重的潜在病理，如癌症。
+血清白蛋白是营养不良的一种便宜的，广泛使用，以及可靠的指标;它应该应用于疑似营养不良患者的术前评估。 值<为2.8g/dL预测发病率和死亡率的增加 （包括伤口愈合不良）。 因为血清白蛋白的半衰期为18〜20天，因此不能反映急性营养不良。如果疑似急性营养不良，可以测定具有较短半衰期的蛋白质;例如转铁蛋白（半衰期7天）或转甲状腺素蛋白（前白蛋白，半衰期3至5天）。术前和围手术期营养支持在营养师的帮助下预防和治疗特定的营养和电解质缺乏，最有可能改善体重减轻和蛋白质水平表明严重营养不良的患者的预后 (5) 。 在某些情况下，手术可以延迟，使得患者能够接收营养支持，有时可长达数周 （例如，在长期营养不良的患者中，有助于预防再喂养综合征）。
+显著肥胖（体质指数 >4kg/m2）增加围手术期死亡率的风险，因为这样的病人增加了心脏和肺部疾病（例如，高血压、肺动脉高血压、左心室肥大、心脏衰竭、冠状动脉疾病、通气储备降低）的危险。肥胖对于深静脉血栓形成和肺栓塞是独立的危险因素；因此在大多数肥胖患者，应进行术前静脉血栓预防。 肥胖还会增加术后伤口并发症（如脂肪坏死，感染，裂开、腹壁疝）的风险。
+单独的高龄并不显著增加并发症发生率，但是一旦并发症发生，高龄患者具有更高的死亡率。然而，与年龄相比，慢性疾病是预测术后发病率和死亡率增加的更强的因素。因此，高龄并非手术的绝对禁忌证。
+各种因素都会增加老年人围手术期的风险。在一项对 1193 例大型手术的前瞻性研究中，年龄 ≥ 65 岁（平均 79 岁）的社区成年人进行了手术，与 65 至 79 岁的成年人相比，≥ 80 岁患者的 1 年死亡率明显较高（2 倍），≥ 90 岁患者的 1 年死亡率最高（6 倍）（6）。与非虚弱者相比，体弱者的死亡率也更高（28% 比 6%）；可能患有痴呆症的人的死亡率高于没有痴呆症的人（33% 比 12%）；非选择性手术的人的死亡率高于选择性手术的人（3 倍）。
+
+【患者风险因素参考】
+1.Bilimoria KY, Liu Y, Paruch JL, et al: Development and evaluation of the universal ACS NSQIP surgical risk calculator: A decision aid and informed consent tool for patients and surgeons.J Am Coll Surg217(5):833-42.e423, 2013.doi:10.1016/j.jamcollsurg.2013.07.385
+1.Bilimoria KY, Liu Y, Paruch JL, et al: Development and evaluation of the universal ACS NSQIP surgical risk calculator: A decision aid and informed consent tool for patients and surgeons.J Am Coll Surg217(5):833-42.e423, 2013.doi:10.1016/j.jamcollsurg.2013.07.385
+2.Eagle KA, Berger PB, Calkins H, et al: ACC/AHA guideline update for perioperative cardiovascular evaluation for noncardiac surgery--executive summary: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (Committee to Update the 1996 Guidelines on Perioperative Cardiovascular Evaluation for Noncardiac Surgery) [published correction appears inJ Am Coll Cardiol. 2006 Jun 6;47(11):2356].J Am Coll Cardiol.2002;39(3):542-553.doi:10.1016/s0735-1097(01)01788-0
+2.Eagle KA, Berger PB, Calkins H, et al: ACC/AHA guideline update for perioperative cardiovascular evaluation for noncardiac surgery--executive summary: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (Committee to Update the 1996 Guidelines on Perioperative Cardiovascular Evaluation for Noncardiac Surgery) [published correction appears inJ Am Coll Cardiol. 2006 Jun 6;47(11):2356].J Am Coll Cardiol.2002;39(3):542-553.doi:10.1016/s0735-1097(01)01788-0
+3.Gao L, Chen L, He J, et al: Perioperative Myocardial Injury/Infarction After Non-cardiac Surgery in Elderly Patients.Front Cardiovasc Med.2022;9:910879.Published 2022 May 19.doi:10.3389/fcvm.2022.910879
+3.Gao L, Chen L, He J, et al: Perioperative Myocardial Injury/Infarction After Non-cardiac Surgery in Elderly Patients.Front Cardiovasc Med.2022;9:910879.Published 2022 May 19.doi:10.3389/fcvm.2022.910879
+4.Glance LG, Benesch CG, Holloway RG, et al: Association of Time Elapsed Since Ischemic Stroke With Risk of Recurrent Stroke in Older Patients Undergoing Elective Nonneurologic, Noncardiac Surgery.JAMA Surg.2022;157(8):e222236.doi:10.1001/jamasurg.2022.2236
+4.Glance LG, Benesch CG, Holloway RG, et al: Association of Time Elapsed Since Ischemic Stroke With Risk of Recurrent Stroke in Older Patients Undergoing Elective Nonneurologic, Noncardiac Surgery.JAMA Surg.2022;157(8):e222236.doi:10.1001/jamasurg.2022.2236
+5.Weimann A, Braga M, Harsanyi L, et al: ESPEN guidelines on enteral nutrition: Surgery including organ transplantation.Clin Nutr25:224–244, 2006.doi: 10.1016/j.clnu.2006.01.015
+5.Weimann A, Braga M, Harsanyi L, et al: ESPEN guidelines on enteral nutrition: Surgery including organ transplantation.Clin Nutr25:224–244, 2006.doi: 10.1016/j.clnu.2006.01.015
+6.Gill TM, Vander Wyk B, Leo-Summers L, et al: Population-based estimates of 1-year mortality after major surgery among community-living older US adults [published correction appears inJAMA Surg158(3):331, 2023].JAMA Surg157(12):e225155, 2022.doi:10.1001/jamasurg.2022.5155
+6.Gill TM, Vander Wyk B, Leo-Summers L, et al: Population-based estimates of 1-year mortality after major surgery among community-living older US adults [published correction appears inJAMA Surg158(3):331, 2023].JAMA Surg157(12):e225155, 2022.doi:10.1001/jamasurg.2022.5155
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+2014 ACC/AHA Guideline on Perioperative Cardiovascular Evaluation and Management of Patients Undergoing Noncardiac Surgery: A report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines
+2014 ACC/AHA Guideline on Perioperative Cardiovascular Evaluation and Management of Patients Undergoing Noncardiac Surgery: A report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines

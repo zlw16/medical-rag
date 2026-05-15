@@ -1,0 +1,344 @@
+标题：平衡异常感和眩晕
+来源：https://www.msdmanuals.cn/professional/ear-nose-and-throat-disorders/approach-to-the-patient-with-ear-problems/dizziness-and-vertigo
+============================================================
+
+头晕是一个不精确的术语，患者常用来描述各种相关感觉，包括
+昏眩（一种即将晕厥的感觉）
+昏眩（一种即将晕厥的感觉）
+不平衡感或不稳定感
+不平衡感或不稳定感
+一种精神恍惚的感觉
+一种精神恍惚的感觉
+一种旋转的感觉
+一种旋转的感觉
+头晕可以是暂时性的或慢性的。慢性头晕的定义是持续>1个月，在老年人中更为常见。
+眩晕是在没有实际运动时自我或环境运动的感觉。 通常患者感受到的运动是旋转性的—一种旋转或翻滚的感觉—但某些患者仅感觉到向一侧倾倒感。眩晕不是一项诊断——它仅是对一种感觉的描述。
+眩晕通常分为周围性或中枢性。
+周围性眩晕通常由周围前庭系统功能障碍引起。
+周围性眩晕通常由周围前庭系统功能障碍引起。
+中枢性眩晕通常是由脑干或小脑功能障碍引起的。
+中枢性眩晕通常是由脑干或小脑功能障碍引起的。
+头晕和眩晕都可能伴有恶心、呕吐，或平衡、步态障碍，或两者兼有。
+患者经常交替且不一致地使用"头晕"、"眩晕"等词，部分原因是这些感觉难以描述。患有相同潜在疾病的患者可能会以非常不同的方式描述他们的症状。患者对同一“头晕”事件的描述可能因提问方式不同而存在差异。因此，临床医生常需将这两个症状综合考虑。
+无论如何描述，头晕和眩晕都可能令人困扰，甚至使人丧失活动能力，特别是当还伴有恶心与呕吐的时候。这些症状对从事艰巨或危险任务的人构成重大挑战，如驾驶、飞行或操作重型机械。重要的是，头晕和眩晕是导致跌倒的重要危险因素，尤其是在老年人中（1）。
+根据国家健康调查数据，美国成年人头晕的年患病率为11%(1)。在一项大型队列研究中，眩晕和头晕在10年期间占急诊就诊的2.5%（2）。
+
+【一般参考文献】
+1.Lin HW, Bhattacharyya N.Impact of dizziness and obesity on the prevalence of falls and fall-related injuries.Laryngoscope2014;124(12):2797-2801.doi:10.1002/lary.24806
+1.Lin HW, Bhattacharyya N.Impact of dizziness and obesity on the prevalence of falls and fall-related injuries.Laryngoscope2014;124(12):2797-2801.doi:10.1002/lary.24806
+2.Kerber KA, Meurer WJ, West BT, Fendrick AM.Dizziness presentations in U.S. emergency departments, 1995-2004.Acad Emerg Med2008;15(8):744-750.doi:10.1111/j.1553-2712.2008.00189.x
+2.Kerber KA, Meurer WJ, West BT, Fendrick AM.Dizziness presentations in U.S. emergency departments, 1995-2004.Acad Emerg Med2008;15(8):744-750.doi:10.1111/j.1553-2712.2008.00189.x
+
+【头晕和眩晕的病理生理学】
+前庭系统是涉及平衡的主要神经系统。这一系统包括
+内耳的前庭器
+内耳的前庭器
+第8对（前庭蜗）脑神经，将前庭器产生的信号传递至系统的中枢部分
+第8对（前庭蜗）脑神经，将前庭器产生的信号传递至系统的中枢部分
+脑干中的前庭核和小脑
+脑干中的前庭核和小脑
+内耳和第8对脑神经的疾病被认为是周围性疾病。前庭核及其在脑干和小脑中通路的疾病被认为是中枢性疾病。
+平衡感尚需整合来自眼的视觉信号输入和来自外周神经（通过脊髓）的本体感觉信号输入。大脑皮质接收并整合下级中枢的输出信息从而产生运动觉。
+对稳定性、运动和重力方向的感知源于前庭器，前庭器由以下部分组成
+3个半规管
+3个半规管
+2个耳石器—球囊和椭圆囊
+2个耳石器—球囊和椭圆囊
+旋转运动引起半规管内内淋巴液沿运动平面的流动。根据内淋巴液流动的方向，刺激或抑制沿半规管分布的毛细胞向神经元输出信号。球囊和椭圆囊中相似的毛细胞埋藏于碳酸钙晶体形成的基质（耳石）中。重力引起的耳石移位刺激或抑制毛细胞向神经元输出信号。
+
+【头晕和眩晕的病因】
+有许多头晕和眩晕的结构性（创伤、肿瘤、退行性）、血管性、感染性、毒性（包括与药物有关）以及特发性原因（见表头晕和眩晕的一些原因），但只有一小部分病例是由严重的疾病引起的。使用一个区分外周性和中枢性头晕和眩晕原因的框架是很有帮助的。周围性眩晕或头晕指的是由中耳、内耳（耳蜗、前庭、半规管、椭圆囊、球囊）或前庭神经功能障碍引起的症状。中枢性眩晕或头晕提示中枢神经系统或大脑功能障碍。患有头晕或眩晕的患者往往有多个诊断。特别是，前庭性偏头痛（眩晕和头晕的中枢性原因）在患有良性阵发性位置性眩晕（1）和梅尼埃病（2）的患者中更为常见。
+周围性眩晕或头晕的最常见原因按发生频率递减顺序列出 (3):
+良性阵发性位置性眩晕（BPPV）
+良性阵发性位置性眩晕（BPPV）
+梅尼埃病
+梅尼埃病
+前庭神经炎
+前庭神经炎
+老年性前庭病变
+老年性前庭病变
+最常见的中枢性头晕或眩晕的病因，按频率降序排列包括以下：
+前庭性偏头痛(4)
+前庭性偏头痛(4)
+药物副作用，尤其是降压药如β受体阻滞剂或同时使用多种降压药时（5）
+药物副作用，尤其是降压药如β受体阻滞剂或同时使用多种降压药时（5）
+功能性头晕（持续性姿势-知觉性眩晕[PPPD]，以前称为视觉性眩晕或慢性主观性头晕、晕动病、下船综合征）(6)
+功能性头晕（持续性姿势-知觉性眩晕[PPPD]，以前称为视觉性眩晕或慢性主观性头晕、晕动病、下船综合征）(6)
+老年性前庭病变（7）
+老年性前庭病变（7）
+在美国，前庭性偏头痛的1年患病率为2.7%，使其很可能是头晕的最常见原因 (4)。
+其他较少见的中枢性眩晕病因包括对大脑功能有更全面影响的疾病（如脑干出血或梗死、多发性硬化、痴呆、帕金森病）、小脑功能障碍、脑肿瘤（特别是后颅窝肿瘤）、精神疾病，或影响视觉或本体感觉输入的疾病。多数情况下无法找到明确的原因。
+与听力一样，内耳和大脑中控制平衡的外周和中枢中心也会自然衰退（老年性前庭功能障碍）(7)。
+无论诊断结果如何，任何类型的头晕、眩晕或失衡都会显著增加跌倒和与跌倒相关损伤的风险，应认真对待(8)。平衡物理治疗（也称为前庭物理治疗）对几乎所有慢性头晕患者都有帮助，但患有严重晕动病的患者除外。
+最常见的非眩晕性头晕病因常不明确，但通常非耳源性的，原因可能是
+药物作用，尤指降压药
+药物作用，尤指降压药
+多种因素影响或特发性的
+多种因素影响或特发性的
+功能性头晕
+功能性头晕
+对大脑功能有更全面影响的非神经系统疾病有时表现为头晕，很少表现为眩晕。这些疾病与低血压、低氧血症、贫血或低血糖等引起体内基本物质（如氧、葡萄糖）输送不足有关；严重时，上述疾病可导致晕厥。此外，某些激素变化（例如甲状腺疾病、月经、怀孕）可引起头晕。许多中枢神经系统活性药物可引发头晕，且该作用与前庭系统的毒性无关。
+偶尔，头晕和眩晕可能是心因性的。患有恐慌症、过度换气综合征、焦虑症或抑郁症的患者可能出现头晕。高达50%的慢性头晕患者存在抑郁症、焦虑症或两者兼有(9)。
+持续性姿势-知觉性眩晕（PPPD），有时被描述为慢性内部摇摆，平躺时会消失，持续3个月以上，其持续性没有临床解释，被归类为慢性功能性疾病。它可由其他急性疾病诱发(如良性阵发性位置性眩晕（BPPV）或前庭性偏头痛)，亦可作为焦虑症的表现形式。
+未代偿的外周前庭功能减弱会导致平衡失调而非眩晕，且常伴有转头时视觉模糊。它可能是前庭神经元炎、偏头痛伴眩晕、梅尼埃病、头部外伤或内耳手术的结果。
+在老年患者中，头晕通常是由药物不良反应以及年龄相关的视觉、前庭和本体感觉能力下降等多因素引起的。最常见的2个具体病因是内耳疾病：良性阵发性位置性眩晕（BPPV）和梅尼埃病。
+
+【头晕和眩晕的选定原因】
+头晕和眩晕的选定原因
+有提示意义的临床表现
+诊断方法
+周围性前庭系统疾病a,b
+良性阵发性位置性眩晕（BPPV）
+头部向特定方向运动产生的严重而短暂（<2分钟）的旋转感
+潜伏时间为0至30秒、易疲劳、扭转、向最下面的耳朵跳动的眼球震颤
+Frenzel护目镜通常用于防止视觉固定并显现眼球震颤
+听力、神经检查正常
+Dix-Hallpike手法评估特征性位置性眼震
+梅尼埃病
+眩晕感，大多伴有恶心呕吐，持续20分钟至12小时
+眩晕发作期间反复出现单侧耳鸣、听力丧失、耳闷胀感
+听力检查
+钆增强MRI排除其他疾病
+前庭神经炎（疑为病毒性）
+突然的，无法承受的严重眩晕而无听力下降或其他表现
+症状逐渐减轻，至多持续一周
+可导致位置性眩晕
+有时仅凭病史和体格检查（如果早期检查，可观察到自发性眼球震颤；如果数天后检查，则可通过头部脉冲试验观察到功能减弱）
+有时需做钆增强的MRI
+神经炎中的位置性眩晕可通过Dix-Hallpike手法与BPPV鉴别
+迷路炎（病毒性或细菌性）
+听力下降，耳鸣
+听力检查
+怀疑有化脓性感染行颞骨CT检查
+有单侧听力下降和耳鸣者行钆增强的MRI检查
+中耳炎（急性或慢性，可伴有胆脂瘤）
+耳痛，耳科体检异常，慢性中耳炎时有耳漏
+感染病史
+听力检查
+胆脂瘤，需行CT检查以排除半规管瘘的形成
+创伤（如：鼓膜穿孔、迷路挫伤、外淋巴瘘、颞骨骨折、脑震荡后遗症）
+创伤常有明确病史
+其他表现基于损伤部位和范围
+有时仅考虑病史和体格检查
+必要时CT检查
+前庭神经鞘瘤或后颅窝或内听道脑膜瘤
+缓慢进展的单侧听力损失、耳鸣、眩晕、平衡障碍
+偶有面部麻木，无力或两者兼有
+听力检查
+如有双耳听力不一致或单侧耳鸣，应进行钆增强的MRI检查
+耳毒性药物c
+近期使用氨基糖苷类（如庆大霉素）治疗，通常伴有双侧听力损失和前庭功能损伤
+听力检查
+有时需要眼震电图和转椅实验等前庭功能检查
+耳带状疱疹
+也影响膝状神经节，因此面瘫侧的舌味觉丧失常与听力下降同时出现
+可能有眩晕但非典型症状
+耳廓和外耳道水疱
+仅病史和体格检查
+慢性晕动症
+急性运动病症状持续
+仅病史和体格检查
+中央性前庭系统疾病d
+脑干出血或梗死
+突然发病
+耳蜗动脉受累可能导致听力损失和耳鸣
+立即成像（钆增强 MRI，如果可用，否则为 CT）
+小脑出血或梗死
+突然起病，伴共济失调和其他小脑体征，常有头痛
+病情快速恶化
+立即成像（钆增强 MRI，如果可用，否则为 CT）
+前庭性偏头痛
+发作性、复发性眩晕或头晕，有时伴有单侧听觉症状如耳闷和耳压感，可能伴有通常为双侧的耳鸣
+需有偏头痛病史，且至少50%的头晕/眩晕发作伴有≥1项偏头痛特征e才能诊断
+在没有偏头痛个人病史的人群中，偏头痛的家族史具有很高的提示性，可以诊断为“可能的”前庭性偏头痛。
+通常进行病史采集和体格检查，必要时行脑影像学检查以排除其他病因
+有时进行偏头痛预防试验
+多发性硬化
+各种中枢神经系统运动和感觉障碍，缓解和发作交替
+脑和脊髓的钆增强MRI检查
+椎动脉夹层
+经常出现头部和颈部疼痛，以及急性、严重的失衡或共济失调
+MRI血管成像
+椎基底动脉缺血
+间歇性短暂发作，有时伴有跌倒或严重平衡障碍发作，视力障碍，意识混乱
+MRI血管成像
+中枢神经系统广泛性功能损害f
+贫血（各种原因引起的）
+肤色苍白，乏力，大便隐血试验阳性
+全血细胞计数
+作用于中枢神经系统的药物g（非耳毒性）
+最近新服用药物或剂量增加；尤其在老年患者，常常是多种药物并用
+症状与运动和位置无关
+有时仅考虑病史和体格检查
+有时测定药物水平（特别是某些抗惊厥药）
+有时尝试撤药
+低血糖症（通常由糖尿病药物引起）
+最近剂量增加
+有时出汗
+末梢血糖测试（最好是症状发作时）
+低血压（由心脏疾病、抗高血压药物、失血、脱水或直立性低血压综合征引起，包括体位性直立性心动过速综合征及其他自主神经功能障碍）
+坐位或卧位起身时出现症状，有时伴有迷走神经刺激（例如，排尿），但头部活动或卧位时不会出现
+表现与不同的诱因有关（如，失血，腹泻）
+直立位生命体征检查，有时行倾斜台试验、心电图
+低氧血症（各种原因引起的）
+呼吸急促
+常有肺病史
+脉搏血氧饱和度
+胸部X光检查
+其他原因f
+持续性知觉性姿势性头晕 (PPPD)
+持续超过3个月，大多数日子都存在的慢性非旋转性眩晕（一种摇晃感）
+症状在静止站立时加重，尤其是在排队时，伴随主动（头部运动）或被动运动（例如，夜间经过街灯时、患者停下时经过汽车）或视觉刺激（例如，当进入杂货店时）
+常由其他急性病症引起，例如良性阵发性位置性眩晕或前庭性偏头痛
+可以是一种焦虑症的表现
+仅病史和体格检查
+可能未被察觉
+妊娠试验
+精神性（如：惊恐发作、过度通气综合征、焦虑、抑郁）
+症状表现为慢性、短暂、复发性
+与运动和位置无关，但在受刺激或烦躁时发作
+神经科和耳科检查正常
+起初可能被诊断为外周前庭功能障碍但对相应的治疗无反应
+仅病史和体格检查
+慢性表现伴波动性双侧听力损失，周期性眩晕
+听力检查
+梅毒血清学检验
+甲状腺疾病
+体重改变
+冷、热耐受力差
+甲状腺功能测试
+无代偿性外周前庭无力
+平衡失衡
+转头时的视觉模糊（内部摇摆感）
+可发生在前庭神经炎、偏头痛伴眩晕、梅尼埃病发作后，或头部创伤或内耳手术后
+前庭功能检查
+a症状为典型的阵发性，剧烈，间断而非持续性。 耳部症状（如，耳鸣，耳闷胀感，听力损失）通常提示外周性病变。外周前庭病变引起的头晕通常不伴有意识丧失。
+b外周性前庭系统疾病按照大致发病率顺序从高到低排列。
+c多种药物，包括氨基糖苷类，氯喹，呋塞米和奎宁。许多其他药物也有耳毒性，但是对耳蜗而非前庭的影响更大。
+d耳部症状罕见，但步态/平衡障碍常见。眼震不被凝视所抑制。
+e偏头痛的特征包括畏光、畏声、视觉或其他先兆、单侧搏动性或跳动性头痛，或限制正常活动的严重头痛。
+f这些原因不引起耳部症状（如听力损失、耳鸣）或局灶性神经系统缺陷（有时由低血糖引起）。眩晕症状罕见但曾有报道。
+g许多药物，包括大多数抗焦虑药、抗惊厥药、抗抑郁药、抗精神病药和镇静剂。用于治疗眩晕的药物也包括在内。
+BPPV=良性阵发性位置性眩晕；CNS=中枢神经系统；CT = 计算机断层扫描；ECG = 心电图；MRI = 磁共振成像；URI=上呼吸道感染。
+a症状为典型的阵发性，剧烈，间断而非持续性。 耳部症状（如，耳鸣，耳闷胀感，听力损失）通常提示外周性病变。外周前庭病变引起的头晕通常不伴有意识丧失。
+b外周性前庭系统疾病按照大致发病率顺序从高到低排列。
+c多种药物，包括氨基糖苷类，氯喹，呋塞米和奎宁。许多其他药物也有耳毒性，但是对耳蜗而非前庭的影响更大。
+d耳部症状罕见，但步态/平衡障碍常见。眼震不被凝视所抑制。
+e偏头痛的特征包括畏光、畏声、视觉或其他先兆、单侧搏动性或跳动性头痛，或限制正常活动的严重头痛。
+f这些原因不引起耳部症状（如听力损失、耳鸣）或局灶性神经系统缺陷（有时由低血糖引起）。眩晕症状罕见但曾有报道。
+g许多药物，包括大多数抗焦虑药、抗惊厥药、抗抑郁药、抗精神病药和镇静剂。用于治疗眩晕的药物也包括在内。
+BPPV=良性阵发性位置性眩晕；CNS=中枢神经系统；CT = 计算机断层扫描；ECG = 心电图；MRI = 磁共振成像；URI=上呼吸道感染。
+
+【病因参考文献】
+1.Çakır S, Sahin A, Gedik-Soyuyuce O, et al. Assessing the impact of migraine on benign paroxysmal positional vertigo symptoms and recovery.BMC Neurol24(1):148, 2024.https://doi.org/10.1186/s12883-024-03606-2
+1.Çakır S, Sahin A, Gedik-Soyuyuce O, et al. Assessing the impact of migraine on benign paroxysmal positional vertigo symptoms and recovery.BMC Neurol24(1):148, 2024.https://doi.org/10.1186/s12883-024-03606-2
+2.Kim SY, Lee CH, Yoo DM, et al.Association Between Meniere Disease and Migraine. JAMA Otolaryngol Head Neck Surg148(5):457–464, 2022.doi:10.1001/jamaoto.2022.0331
+2.Kim SY, Lee CH, Yoo DM, et al.Association Between Meniere Disease and Migraine. JAMA Otolaryngol Head Neck Surg148(5):457–464, 2022.doi:10.1001/jamaoto.2022.0331
+3.Neuhauser HK.Chapter 5.The epidemiology of dizziness and vertigo. In:Handbook of Clinical Neurology, 2016 Vol.137 (3rd series), Neuro-Otology J.M.Furman and T.Lempert, Editors http://dx.doi.org/10.1016/B978-0-444-63437-5.00005-4
+3.Neuhauser HK.Chapter 5.The epidemiology of dizziness and vertigo. In:Handbook of Clinical Neurology, 2016 Vol.137 (3rd series), Neuro-Otology J.M.Furman and T.Lempert, Editors http://dx.doi.org/10.1016/B978-0-444-63437-5.00005-4
+4.Formeister EJ, Rizk HG, Kohn MA, Sharon JD.The Epidemiology of Vestibular Migraine: A Population-based Survey Study.Otol Neurotol39(8):1037-1044, 2018.doi:10.1097/MAO.0000000000001900
+4.Formeister EJ, Rizk HG, Kohn MA, Sharon JD.The Epidemiology of Vestibular Migraine: A Population-based Survey Study.Otol Neurotol39(8):1037-1044, 2018.doi:10.1097/MAO.0000000000001900
+5.Shoair OA, Nyandege AN, Slattum PW.Medication-Related Dizziness in the Older Adult.Otolaryngol Clin North Am44(2):455-471, 2011.doi:10.1016/j.otc.2011.01.014
+5.Shoair OA, Nyandege AN, Slattum PW.Medication-Related Dizziness in the Older Adult.Otolaryngol Clin North Am44(2):455-471, 2011.doi:10.1016/j.otc.2011.01.014
+6.Popkirov S, Staab JP, Stone J.Persistent postural-perceptual dizziness (PPPD): a common, characteristic and treatable cause of chronic dizziness.Pract Neurol18(1):5-13, 2018.doi:10.1136/practneurol-2017-001809
+6.Popkirov S, Staab JP, Stone J.Persistent postural-perceptual dizziness (PPPD): a common, characteristic and treatable cause of chronic dizziness.Pract Neurol18(1):5-13, 2018.doi:10.1136/practneurol-2017-001809
+7.Davalos-Bichara M, Agrawal Y.Normative Results of Healthy Older Adults on Standard Clinical Vestibular Tests.Otol Neurotol35(2):297-300, 2014.doi:10.1097/MAO.0b013e3182a09ca8
+7.Davalos-Bichara M, Agrawal Y.Normative Results of Healthy Older Adults on Standard Clinical Vestibular Tests.Otol Neurotol35(2):297-300, 2014.doi:10.1097/MAO.0b013e3182a09ca8
+8.Lin HW, Bhattacharyya N.Impact of dizziness and obesity on the prevalence of falls and fall-related injuries.Laryngoscope124(12):2797-2801, 2014.doi:10.1002/lary.24806
+8.Lin HW, Bhattacharyya N.Impact of dizziness and obesity on the prevalence of falls and fall-related injuries.Laryngoscope124(12):2797-2801, 2014.doi:10.1002/lary.24806
+9.Feng S, Zang J.The effect of accompanying anxiety and depression on patients with different vestibular syndromes.Front Aging Neurosci15:1208392, 2023.doi:10.3389/fnagi.2023.1208392
+9.Feng S, Zang J.The effect of accompanying anxiety and depression on patients with different vestibular syndromes.Front Aging Neurosci15:1208392, 2023.doi:10.3389/fnagi.2023.1208392
+
+【头晕和眩晕的评估】
+现病史应包括患者的感觉；最好用开放性的问题（例如：“不同的人对‘头晕’的用法不同。你能尽量详细地描述一下你的感觉吗？”）。简短而具体地询问感觉是否为昏厥感、头昏、失去平衡或眩晕感，可能会使描述更清晰，但持续努力对患者的感觉进行分类是没有必要的。其他更有价值且清晰明了的要素有：
+发病初期的严重程度
+发病初期的严重程度
+后续发病的严重程度和特点
+后续发病的严重程度和特点
+症状持续性或发作性
+症状持续性或发作性
+如果是发作性发病，发作频率和持续时间
+如果是发作性发病，发作频率和持续时间
+诱发和缓解因素（如，由头部/身体姿势改变引起）
+诱发和缓解因素（如，由头部/身体姿势改变引起）
+相关耳部症状（如，听力损失、耳闷、耳鸣）
+相关耳部症状（如，听力损失、耳闷、耳鸣）
+严重程度及相关功能障碍
+严重程度及相关功能障碍
+患者是经历单次、突发、急性事件，还是头晕呈慢性和复发性？首次发作是最严重的一次（前庭危象）吗？每一发作周期持续多久，诱发因素或加重因素是什么？应特别询问患者关于头部运动、起身、处于焦虑或压力情况以及月经的情况。重要的伴随症状包括头痛、听力损失、耳鸣、恶心和呕吐、视觉损害、局部无力和行走困难。应估计疾病对患者生活影响的严重程度：患者是否有跌倒？患者是否不情愿驾车或出门？患者是否因疾病缺勤？
+引起眩晕的各种疾病症状有很高的重叠性；因此，确定发作的具体时间、频率、持续时间和特征对于建立诊断是必要的。大多数导致头晕的疾病可通过临床诊断。通常会出现不止一个头晕诊断，尤其是在慢性头晕中。例如，与普通人群相比，偏头痛患者更容易患有梅尼埃病和良性阵发性位置性眩晕（BPPV）（1，2）。
+系统回顾应寻找致病性疾病的症状，包括上呼吸道感染症状（内耳疾病）；胸痛、心悸或两者兼有（心脏疾病）；呼吸困难（肺病）；黑便（胃肠道失血引起的贫血）；以及体重改变或冷热不耐受（甲状腺疾病）。
+既往史需记录近期头部外伤(通常病史明确)、偏头痛、糖尿病、心脏或肺部疾病、焦虑或抑郁、以及药物或酒精使用障碍。尚需了解目前服用的药物，服药史应评估近期药物、剂量或两者兼有的改变。
+
+【体格检查】
+检查从评估生命体征开始，包括是否存在发热、脉搏过快或不规则，以及仰卧位和站立位血压，注意站立时血压是否下降（直立性低血压）以及站立是否诱发症状。如果起立能够诱发眩晕，应让患者再取仰卧位，待眩晕症状消失后，转动患者头部，看是否诱发眩晕，以区别眩晕是由体位诱发还是由头部运动诱发。
+耳科和神经科体检十分重要。具体来说，患者仰卧，检查眼睛是否存在自发性眼震，并注意其方向和持续时间。需特别注意眼震的方向和持续时间，以及眩晕的发生。Dix-Hallpike 试验用于诊断后半规管 BPPV（迄今为止最常见的受影响半规管）或前半规管 BPPV，而仰卧滚动试验可用于诊断水平半规管 BPPV。
+进行粗略的床旁听力检查，检查外耳道有无耳漏和异物，并检查鼓膜是否有感染或穿孔的迹象。
+通过评估步态、进行指鼻试验和Romberg试验来检查小脑功能（见如何评估感觉）。专科医师可进行福田踏步试验(闭眼原地踏步)以辅助检测单侧前庭病变。完善神经科体检，包括脑神经功能的检查。HINTS检查(头脉冲试验、眼球震颤、眼偏斜试验)是床旁检查手段，具有高敏感性与特异性，可鉴别中枢性与周围性前庭病因(3)。具体来说，正常的水平头脉冲试验、偏心凝视时的方向改变性眼震或垂直偏斜，都高度提示是中枢性（脑血管、脑肿瘤、结构性病变）而非外周性病因。
+
+【危险信号】
+要特别注意以下情况：
+头、颈部疼痛
+头、颈部疼痛
+共济失调
+共济失调
+意识丧失
+意识丧失
+局部神经功能损害
+局部神经功能损害
+严重的、持续的症状> 1小时
+严重的、持续的症状> 1小时
+
+【临床表现解析】
+鉴别诊断常基于主诉的具体性质（例如，区分头晕、头昏和眩晕）。然而，患者描述的不一致性和症状的特异性较差使得这种方法不可靠。更好的方法是更侧重于症状的起病和发作时机、诱发症状的因素以及相关症状和发现，特别是耳科和神经科发现。
+某些发现组合具有高度提示性（见表头晕和眩晕的特定病因），特别是那些帮助区分周围性和中枢性前庭疾病的表现。
+周围性：耳部症状（如：耳鸣、耳闷、听力损失）通常指向周围性病变。它们通常与眩晕相关，而非一般性头晕（除非是由无代偿性外周前庭无力引起）。症状通常是阵发性的、严重的和发作性的；持续性头晕很少由周围性眩晕引起。周围性前庭病变引起的头晕不会导致意识丧失，若出现该症状需考虑其他诊断。
+周围性：耳部症状（如：耳鸣、耳闷、听力损失）通常指向周围性病变。它们通常与眩晕相关，而非一般性头晕（除非是由无代偿性外周前庭无力引起）。症状通常是阵发性的、严重的和发作性的；持续性头晕很少由周围性眩晕引起。周围性前庭病变引起的头晕不会导致意识丧失，若出现该症状需考虑其他诊断。
+中央性：很少有耳部症状，但是步态和平衡障碍很常见。眼震无固视抑制现象。
+中央性：很少有耳部症状，但是步态和平衡障碍很常见。眼震无固视抑制现象。
+突发且正在发作的患者应进行指氧饱和度和血糖测试。女性患者需进行妊娠试验。多数临床医师也会进行心电图检查。其他检查根据发现进行（参见表头晕和眩晕的选定病因），但通常对于有头痛、神经系统异常或任何其他提示中枢神经系统病因的发现的急性症状患者，建议进行钆增强磁共振成像（MRI）检查。
+有中枢性前庭病理慢性症状的患者应进行钆增强 MRI 以寻找中风、多发性硬化症或其他中枢神经系统病变的证据。
+床旁检查听力和前庭功能异常或可疑的患者需行正规的听力学检查和眼震电图检查。
+可以做心电图、动态心电图监测心脏节律异常、超声心动图、运动负荷试验来评估心脏功能。
+实验室检查通常帮助很小，除非是慢性眩晕和双侧听力损害的患者有梅毒血清学检查的指征。
+
+【评估参考文献】
+1.Kim SK, Hong SM, Park IS, Choi HG.Association Between Migraine and Benign Paroxysmal Positional Vertigo Among Adults in South Korea.JAMA Otolaryngol Head Neck Surg2019;145(4):307-312.doi:10.1001/jamaoto.2018.4016
+1.Kim SK, Hong SM, Park IS, Choi HG.Association Between Migraine and Benign Paroxysmal Positional Vertigo Among Adults in South Korea.JAMA Otolaryngol Head Neck Surg2019;145(4):307-312.doi:10.1001/jamaoto.2018.4016
+2.Radtke A, Lempert T, Gresty MA, Brookes GB, Bronstein AM, Neuhauser H.Migraine and Ménière's disease: is there a link?Neurology2002;59(11):1700-1704.doi:10.1212/01.wnl.0000036903.22461.39
+2.Radtke A, Lempert T, Gresty MA, Brookes GB, Bronstein AM, Neuhauser H.Migraine and Ménière's disease: is there a link?Neurology2002;59(11):1700-1704.doi:10.1212/01.wnl.0000036903.22461.39
+3.Kattah JC, Talkad AV, Wang DZ, Hsieh YH, Newman-Toker DE.HINTS to diagnose stroke in the acute vestibular syndrome: three-step bedside oculomotor examination more sensitive than early MRI diffusion-weighted imaging.Stroke2009;40(11):3504-3510.doi:10.1161/STROKEAHA.109.551234
+3.Kattah JC, Talkad AV, Wang DZ, Hsieh YH, Newman-Toker DE.HINTS to diagnose stroke in the acute vestibular syndrome: three-step bedside oculomotor examination more sensitive than early MRI diffusion-weighted imaging.Stroke2009;40(11):3504-3510.doi:10.1161/STROKEAHA.109.551234
+
+【头晕和眩晕的治疗】
+头晕和眩晕的治疗应针对病因进行，包括停用、减量或调换任何可能引起眩晕的药物。
+如果存在前庭功能障碍，并被认为是继发于活动性梅尼埃病、前庭神经炎或迷路炎，则最有效的前庭神经抑制剂是口服抗组胺药/抗胆碱能药物（如甲氯嗪、异丙嗪）或苯二氮卓类药物（如地西泮、氯硝西泮）。所有此类药物均可引起嗜睡，因此需限制在部分患者中的使用。这些药物仅应在急性眩晕发作（梅尼埃病）或症状初期（前庭神经炎或迷路炎）时使用，因为长期使用这些前庭抑制剂会抑制中枢代偿，并可能延长症状。
+恶心可用丙氯拉嗪或昂丹司琼治疗。
+与良性阵发性位置性眩晕相关的眩晕可通过经验丰富的专业人员（如前庭物理治疗师）进行的艾普利手法（耳石复位）治疗。有时会教导患者自我治疗方法。单纯性良性阵发性位置性眩晕患者无需服用药物。
+梅尼埃病最好由接受过该慢性疾病管理培训的耳鼻喉科医生进行治疗，但初步治疗通常包括低盐饮食和保钾利尿剂或倍他司汀(1)。
+前庭性偏头痛患者应转诊至神经科医生进行治疗。降钙素基因相关肽（CGRP）抑制剂可能有效治疗前庭性偏头痛中的前庭症状(2)。
+如果怀疑存在潜在的焦虑或抑郁因素，应通过其初级保健提供者或精神科医生对患者进行适当治疗。
+对继发于单侧前庭功能下降的持续性或复发性眩晕（如继发于前庭神经炎）患者，由有经验的前庭物理治疗师进行前庭康复治疗可以获益。大多数患者可以获得良好的代偿，尽管部分患者，特别是老年患者代偿比较困难。通过理疗使老年患者和部分残疾患者可以获得重要的安全知识。前庭康复疗法对于其他慢性眩晕症，包括非外周病因，如前庭性偏头痛（3）和PPPD（4）也高度有效。
+
+【治疗参考文献】
+1.Basura GJ, Adams ME, Monfared A, et al.Clinical Practice Guideline: Ménière's Disease.Otolaryngol Head Neck Surg162(2_suppl):S1-S55, 2020.doi: 10.1177/0194599820909438
+1.Basura GJ, Adams ME, Monfared A, et al.Clinical Practice Guideline: Ménière's Disease.Otolaryngol Head Neck Surg162(2_suppl):S1-S55, 2020.doi: 10.1177/0194599820909438
+2.Russo CV, Saccà F, Braca S, et al.Anti-calcitoningene-related peptide monoclonal antibodies for the treatment of vestibular migraine: A prospective observational cohort study.Cephalalgiap43(4):3331024231161809, 2023.doi: 10.1177/03331024231161809
+2.Russo CV, Saccà F, Braca S, et al.Anti-calcitoningene-related peptide monoclonal antibodies for the treatment of vestibular migraine: A prospective observational cohort study.Cephalalgiap43(4):3331024231161809, 2023.doi: 10.1177/03331024231161809
+3.Balci B, Akdal G.Outcome of vestibular rehabilitation in vestibular migraine.J Neurol269(12):6246-6253, 2022.doi:10.1007/s00415-022-11250-4
+3.Balci B, Akdal G.Outcome of vestibular rehabilitation in vestibular migraine.J Neurol269(12):6246-6253, 2022.doi:10.1007/s00415-022-11250-4
+4.Ibrahim NMK, Hazza NMA, Yaseen DM, Galal EM.Effect of vestibular rehabilitation games in patients with persistent postural perceptual dizziness and its relation to anxiety and depression: prospective study.Eur Arch Otorhinolaryngol281(6):2861-2869, 2024.doi: 10.1007/s00405-023-08369-z
+4.Ibrahim NMK, Hazza NMA, Yaseen DM, Galal EM.Effect of vestibular rehabilitation games in patients with persistent postural perceptual dizziness and its relation to anxiety and depression: prospective study.Eur Arch Otorhinolaryngol281(6):2861-2869, 2024.doi: 10.1007/s00405-023-08369-z
+
+【老年医学精要: 头晕和眩晕】
+随着人们年龄的增长，掌管平衡的器官功能减退。例如，在昏暗光线下视物变得更加困难，内耳结构退化，本体感觉变得不敏感，控制血压的机制反应性降低（如对体位变化、餐后需求的反应）。老年人因患心、脑血管疾病导致眩晕的可能性加大。他们也更可能服用可能导致眩晕的药物，包括治疗高血压、心绞痛、心力衰竭、癫痫和焦虑的药物，以及某些抗生素、抗组胺药和助眠药物。因此，老年人的平衡异常感常由多种原因引起。
+虽然头晕和眩晕在任何年龄段都会令人不适，但其后果对老年患者来说是一个特殊问题。虚弱患者跌倒的风险显著增加，可能导致骨折；他们对活动和跌倒的恐惧常常显著降低其日常活动能力。
+除病因治疗，患有平衡异常感和眩晕的老年患者可能从理疗和增强肌肉力量的锻炼中获益，以尽量延长其独立行动的能力。
+对症状描述比较含糊或前后不一致的患者疾病也可能比较严重。
+对症状描述比较含糊或前后不一致的患者疾病也可能比较严重。
+需要考虑脑血管疾病和药物作用的可能，特别是对于老年患者。
+需要考虑脑血管疾病和药物作用的可能，特别是对于老年患者。
+周围性前庭系统疾病需要和中枢神经系统疾病鉴别。
+周围性前庭系统疾病需要和中枢神经系统疾病鉴别。
+当有头痛或局部神经系统异常的患者应立即行神经影像学检查。
+当有头痛或局部神经系统异常的患者应立即行神经影像学检查。

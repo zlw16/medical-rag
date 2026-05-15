@@ -1,0 +1,50 @@
+标题：特发性胸膜肺弹力纤维增生症
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/interstitial-lung-diseases/idiopathic-pleuroparenchymal-fibroelastosis
+============================================================
+
+特发性胸膜肺实质弹力纤维增生症（PPFE）是一种罕见的疾病，被归类为特发性间质性肺炎(1)。它累及上叶胸膜和胸膜下肺实质的纤维化。缺乏精确的患病率数据。
+
+【参考文献】
+1.Travis WD, Costabel U, Hansell DM, et al:An Official American Thoracic Society/European Respiratory Society Statement: Update of the International Multidisciplinary Classification of the Idiopathic Interstitial Pneumonias.Am J Respir Crit Care Med188 (6):733–748, 2013.
+1.Travis WD, Costabel U, Hansell DM, et al:An Official American Thoracic Society/European Respiratory Society Statement: Update of the International Multidisciplinary Classification of the Idiopathic Interstitial Pneumonias.Am J Respir Crit Care Med188 (6):733–748, 2013.
+
+【特发性PPFE的病因】
+特发性胸膜肺弹力纤维增生症的病因不明，但临床数据表明，与反复肺部感染有关 (1)。人们认为遗传因素和自身免疫机制在该疾病的发生中起着重要作用。
+
+【病因参考文献】
+1.Chua F, Desai SR, Nicholson AG, et al.Pleuroparenchymal Fibroelastosis.A Review of Clinical, Radiological, and Pathological Characteristics.Ann Am Thorac Soc2019;16(11):1351-1359.doi:10.1513/AnnalsATS.201902-181CME
+1.Chua F, Desai SR, Nicholson AG, et al.Pleuroparenchymal Fibroelastosis.A Review of Clinical, Radiological, and Pathological Characteristics.Ann Am Thorac Soc2019;16(11):1351-1359.doi:10.1513/AnnalsATS.201902-181CME
+
+【特发性PPFE的症状和体征】
+中位发病年龄约为49岁，无明显性别差异。患者经常报告反复感染，呼吸急促和干咳的历史。疾病过程中，气胸常见。由于进行性纤维化，可能导致胸廓前后径缩短（扁平胸），尤其影响肺上叶。营养不良在疾病晚期患者中很常见。
+
+【特发性PPFE的诊断】
+高分辨CT
+高分辨CT
+为了确诊，需进行肺活检
+为了确诊，需进行肺活检
+特发性胸膜肺弹力纤维增生症的影像学表现包括上叶胸膜和胸膜下区增厚。患者也可以有实变区域和支气管扩张。可能存在胸膜下囊肿和增厚。
+在组织学检查中，患者可能同时存在其他间质性肺炎的表现，包括普通型间质性肺炎和非特异性间质性肺炎模式。
+胸部CT扫描显示胸膜和胸膜下增厚。
+本图像由 Joyce S. Lee 医学博士、MAS提供。Lee, MD, MAS.
+病理特征为肺泡内纤维化，这些区域肺泡壁弹性纤维变性和脏层胸膜致密纤维组织增厚。部分晚期疾病患者的下部肺叶共存间质性肺炎。
+确诊需进行手术肺活检。
+
+【特发性PPFE的治疗】
+可能使用糖皮质激素
+可能使用糖皮质激素
+抗纤维化治疗
+抗纤维化治疗
+特发性胸膜肺弹力纤维增生症的最佳治疗方法尚不明确（1）。大多数文献报道了糖皮质激素的使用。
+对于病情严重的患者，使用尼达尼布和吡非尼酮等抗纤维化药物（适用于特发性肺纤维化或进行性纤维化性间质性肺病）可能有助于减缓肺功能下降。由于本病呈进展性，晚期病例（出现高碳酸血症和即将发生呼吸衰竭时）可考虑手术切除纤维化病灶或肺移植。
+
+【治疗参考文献】
+1.Suzuki Y.Idiopathic pleuroparenchymal fibroelastosis: A review of the previous literature and current knowledge.Respir Investig2025;63(1):127-137.doi:10.1016/j.resinv.2024.12.009
+1.Suzuki Y.Idiopathic pleuroparenchymal fibroelastosis: A review of the previous literature and current knowledge.Respir Investig2025;63(1):127-137.doi:10.1016/j.resinv.2024.12.009
+
+【特发性PPFE的预后】
+在大多数患者中，特发性胸膜肺实质弹力纤维增生症的临床病程趋于进行性。大多数患者会出现疾病进展；5年生存率约为25%至60%（1）。
+
+【预后参考】
+1.Kinoshita Y, Ikeda T, Miyamura T, et al. A proposed prognostic prediction score for pleuroparenchymal fibroelastosis.Respir Res22: 215, 2021.https://doi.org/10.1186/s12931-021-01810-z
+1.Kinoshita Y, Ikeda T, Miyamura T, et al. A proposed prognostic prediction score for pleuroparenchymal fibroelastosis.Respir Res22: 215, 2021.https://doi.org/10.1186/s12931-021-01810-z

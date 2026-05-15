@@ -1,0 +1,36 @@
+标题：血管痉挛性心绞痛
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/coronary-artery-disease/vasospastic-angina
+============================================================
+
+(参见冠状动脉疾病概述。）
+许多变异型心绞痛患者至少有一支主要冠状动脉出现显著的固定阻塞。轻度或无固定性阻塞患者的远期预后要优于伴有严重固定性阻塞的患者。
+
+【血管痉挛性心绞痛的症状和体征】
+表现为心绞痛样不适，主要在静息时发生，常发生在夜间，很少发生于体力活动时（除非同时存在显著的冠状动脉阻塞）。心绞痛通常规律地在一天的固定时间发作。
+
+【血管痉挛性心绞痛的诊断】
+冠脉造影期间行麦角新碱/乙酰胆碱激发试验
+冠脉造影期间行麦角新碱/乙酰胆碱激发试验
+如心绞痛发作时ST段抬高，应怀疑变异型心绞痛。心绞痛发作间期，心电图可正常或呈稳定不变的异常。
+确诊依据为麦角新碱/乙酰胆碱激发试验，后者可诱发冠状动脉痉挛。冠状动脉痉挛是通过在心电图上发现显著的ST段抬高或在心导管检查时观察到可逆性痉挛时可明确诊断。激发试验常在心导管室进行。
+
+【血管痉挛性心绞痛的治疗】
+钙通道阻滞剂
+钙通道阻滞剂
+舌下含服硝酸甘油
+舌下含服硝酸甘油
+通常舌下含服硝酸甘油能迅速缓解心绞痛症状。钙通道阻滞剂能有效预防症状发作。理论上，β受体阻滞剂（拉贝洛尔和卡维地洛除外）可能通过允许无对抗的α肾上腺素能血管收缩而加剧痉挛，但这种效果尚未得到临床证实。
+最常用的口服药物是钙通道阻滞剂：
+缓释地尔硫卓
+缓释地尔硫卓
+缓释维拉帕米
+缓释维拉帕米
+氨氯地平
+氨氯地平
+尽管所有这些药物能缓解症状，但似乎不能改善预后。5 年平均生存率约为 95%（如果不存在阻塞或仅存在于一条血管中），但对于同时患有血管痉挛性心绞痛和动脉粥样硬化性冠状动脉阻塞的患者，死亡风险更大（1、2）。风险随着阻塞的增加而增加。
+
+【治疗参考文献】
+1.Beltrame JF.Management of vasospastic angina.Heart2022;109(1):70-77.Published 2022 Dec 13.doi:10.1136/heartjnl-2022-321268
+1.Beltrame JF.Management of vasospastic angina.Heart2022;109(1):70-77.Published 2022 Dec 13.doi:10.1136/heartjnl-2022-321268
+2.Walling A, Waters DD, Miller DD, Roy D, Pelletier GB, Théroux P.Long-term prognosis of patients with variant angina.Circulation1987;76(5):990-997.doi:10.1161/01.cir.76.5.990
+2.Walling A, Waters DD, Miller DD, Roy D, Pelletier GB, Théroux P.Long-term prognosis of patients with variant angina.Circulation1987;76(5):990-997.doi:10.1161/01.cir.76.5.990

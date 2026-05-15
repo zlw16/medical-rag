@@ -1,0 +1,135 @@
+标题：Turner综合征
+来源：https://www.msdmanuals.cn/professional/pediatrics/chromosome-and-gene-abnormalities/turner-syndrome
+============================================================
+
+（参见染色体异常概述，见性染色体异常概述。）
+特纳综合征是一种罕见的遗传病，通常发生在表现型女性中，其特征是X染色体完全或部分单体。它导致的临床特征包括身材矮小和卵巢发育不良，由此导致的高促性腺激素性性腺功能减退和不孕症，以及相关的多器官异常和神经认知缺陷。
+Turner综合征在全球活女婴中的发生率为1/2500 (1,2)。约99%的45,X受孕胎儿会自然流产 (3)。
+大约 45% 受影响的女孩具有 45,X 核型；大约 80% 失去了父系 X。其余约 55% 的患者表现为嵌合体（例如 45,X/46,XX 或 45,X/47,XXX）（3）。在具有嵌合体核型的女童中，表型范围可从典型的特纳综合征表现至完全正常。偶尔，受累的女孩有一条正常的X染色体，而另一条X染色体则形成一个环状染色体。有些受累的女孩有一条正常的X染色体，而另一条X染色体则形成长臂等臂染色体，其短臂缺失，从而形成一条含有两个长臂的X染色体。这些女孩往往有许多Turner综合征的表型特征；因而，X染色体的短臂的缺失似乎在产生典型表型中发挥着重要的作用。
+具有1条X染色体且存在Y染色体嵌合体（即部分细胞为46XY核型）的人可能具有男性或女性表型，甚至生殖器模糊（4）。
+
+【参考文献】
+1.Martin-Giacalone BA, Lin AE, Rasmussen SA, et al: Prevalence and descriptive epidemiology of Turner syndrome in the United States, 2000-2017: A report from the National Birth Defects Prevention Network.Am J Med Genet A191(5):1339-1349, 2023.doi: 10.1002/ajmg.a.63181
+1.Martin-Giacalone BA, Lin AE, Rasmussen SA, et al: Prevalence and descriptive epidemiology of Turner syndrome in the United States, 2000-2017: A report from the National Birth Defects Prevention Network.Am J Med Genet A191(5):1339-1349, 2023.doi: 10.1002/ajmg.a.63181
+2.Nielsen J, Wohlert M: Chromosome abnormalities found among 34,910 newborn children: Results from a 13-year incidence study in Arhus, Denmark.Hum Genet87(1):81-83, 1991.doi: 10.1007/BF01213097
+2.Nielsen J, Wohlert M: Chromosome abnormalities found among 34,910 newborn children: Results from a 13-year incidence study in Arhus, Denmark.Hum Genet87(1):81-83, 1991.doi: 10.1007/BF01213097
+3.Zhong Q, Layman LC: Genetic considerations in the patient with Turner syndrome--45,X with or without mosaicism.Fertil Steril98(4):775-779, 2012.doi: 10.1016/j.fertnstert.2012.08.021
+3.Zhong Q, Layman LC: Genetic considerations in the patient with Turner syndrome--45,X with or without mosaicism.Fertil Steril98(4):775-779, 2012.doi: 10.1016/j.fertnstert.2012.08.021
+4.Guzewicz L, Howell S, Crerand CE, et al: Clinical phenotype and management of individuals with mosaic monosomy X with Y chromosome material stratified by genital phenotype.Am J Med Genet A185(5):1437-1447, 2021.doi: 10.1002/ajmg.a.62127
+4.Guzewicz L, Howell S, Crerand CE, et al: Clinical phenotype and management of individuals with mosaic monosomy X with Y chromosome material stratified by genital phenotype.Am J Med Genet A185(5):1437-1447, 2021.doi: 10.1002/ajmg.a.62127
+
+【Turner综合征的病理生理学】
+常见的心脏异常包括主动脉缩窄、主动脉扩张以及二叶式主动脉瓣。高血压，经常伴随发生衰老，甚至没有缩窄。肾脏异常和血管瘤是常见的。有时，毛细血管扩张发生在胃肠道，造成胃肠道出血或蛋白质的损失。可能发生耳聋；斜视和远视（远视眼）常见，弱视的风险增加。甲状腺炎、糖尿病和乳糜泻的发病率高于普通人群。
+婴幼儿髋关节发育不良的风险较高。大约有10%的青少年患有脊柱侧弯症。对于Turner综合征的妇女，骨质疏松症和骨折是比较常见的。几乎所有患者均出现性腺发育不全（卵巢被双侧纤维性间质条索取代，且无发育中的卵母细胞）。Turner综合征青少年中15％-40％为自发青春期，但只有2％至10％出现自发初潮 (1)。
+智力障碍是罕见的，但很多女孩都有非语言学习障碍,注意力缺陷/多动症, 或两者皆有，因而，虽然她们在智力测试的语言环节的得分属平均水平或平均水平以上，但是在作业测试和数学方面较差。
+
+【病理生理学参考文献】
+1.Zhong Q, Layman LC: Genetic considerations in the patient with Turner syndrome--45,X with or without mosaicism.Fertil Steril98(4):775-779, 2012.doi: 10.1016/j.fertnstert.2012.08.021
+1.Zhong Q, Layman LC: Genetic considerations in the patient with Turner syndrome--45,X with or without mosaicism.Fertil Steril98(4):775-779, 2012.doi: 10.1016/j.fertnstert.2012.08.021
+
+【Turner综合征的症状和体征】
+在出生时及出生后不久，新生儿通常仅表现出极轻微的症状；然而，部分患儿会出现明显的手足背部淋巴水肿，或伴有颈部背侧的淋巴水肿及皮肤松弛褶皱。其他常见异常包括颈蹼、宽阔的胸部伴有乳头间距宽和乳头内陷。在儿童和青少年时期，受影响的女孩与家庭成员相比，身高通常偏矮，且肥胖现象较为常见。
+不太常见的症状包括颈后发际线低、眼睑下垂、多发性色素痣、第四掌骨和跖骨短小、指端指垫突出伴皮纹涡旋（手掌上形成指纹的特征性嵴线），以及指甲发育不全。肘部出现肘外翻（提携角）增大。
+这张照片显示特纳综合征患者的蹼状颈（正面图）。
+这张照片显示特纳综合征患者的蹼状颈（正面图）。
+MID ESSEX HOSPITAL SERVICES NHS TRUST/SCIENCE PHOTO LIBRARY
+这张图片显示的是一名 13 岁女孩，具有特纳综合征的典型身体特征，例如身材矮小、体格健壮、胸部宽阔、乳头间距大（“盾形”胸）、乳房发育不良和肘外翻。
+这张图片显示的是一名 13 岁女孩，具有特纳综合征的典型身体特征，例如身材矮小、体格健壮、胸部宽阔、乳头间距大（“盾形”胸）、乳房发育不良和肘外翻。
+By permission of the publisher.From Shulman D, Bercu B:Atlas of Clinical Endocrinology: Neuroendocrinology and Pituitary Disease.Edited by S Korenman (series editor) and ME Molitch.Philadelphia, Current Medicine, 2000.
+Turner综合征患者具有特征性的蹼状颈和低发际线。
+Turner综合征患者具有特征性的蹼状颈和低发际线。
+© Springer Science+Business Media
+这张照片显示特纳综合征患者的蹼状颈（正面图）。
+这张照片显示特纳综合征患者的蹼状颈（正面图）。
+MID ESSEX HOSPITAL SERVICES NHS TRUST/SCIENCE PHOTO LIBRARY
+这张图片显示的是一名 13 岁女孩，具有特纳综合征的典型身体特征，例如身材矮小、体格健壮、胸部宽阔、乳头间距大（“盾形”胸）、乳房发育不良和肘外翻。
+这张图片显示的是一名 13 岁女孩，具有特纳综合征的典型身体特征，例如身材矮小、体格健壮、胸部宽阔、乳头间距大（“盾形”胸）、乳房发育不良和肘外翻。
+By permission of the publisher.From Shulman D, Bercu B:Atlas of Clinical Endocrinology: Neuroendocrinology and Pituitary Disease.Edited by S Korenman (series editor) and ME Molitch.Philadelphia, Current Medicine, 2000.
+Turner综合征患者具有特征性的蹼状颈和低发际线。
+Turner综合征患者具有特征性的蹼状颈和低发际线。
+© Springer Science+Business Media
+心脏异常的症状取决于心脏受累的程度。例如，相关的主动脉缩窄可导致上肢血压升高、股动脉搏动减弱以及下肢血压降低或消失。
+性腺发育不全导致大多数患者出现卵巢早衰，表现为青春期发育缺失或不完全、乳房发育不足、闭经（多数患者为原发性闭经，但也有部分患者初潮后因性腺发育不全伴卵巢早衰而继发性闭经）和不孕。少部分患者青春期和生殖功能正常（1）。特征性表现为卵巢主要由结缔组织构成，几乎无或仅有少量卵泡（称为条纹性性腺）(2)。
+其他与Turner综合征相关的医疗问题会随着年龄增长而出现，如果不进行筛查可能不明显。
+
+【症状和体征参考】
+1.Pasquino AM, Passeri F, Pucarelli I, et al: Spontaneous pubertal development in Turner's syndrome.Italian Study Group for Turner's Syndrome.J Clin Endocrinol Metab82(6):1810-1813, 1997.doi: 10.1210/jcem.82.6.3970
+1.Pasquino AM, Passeri F, Pucarelli I, et al: Spontaneous pubertal development in Turner's syndrome.Italian Study Group for Turner's Syndrome.J Clin Endocrinol Metab82(6):1810-1813, 1997.doi: 10.1210/jcem.82.6.3970
+2.Steiner M, Saenger P: Turner Syndrome: An Update.Adv Pediatr69(1):177-202, 2022.doi: 10.1016/j.yapd.2022.03.004
+2.Steiner M, Saenger P: Turner Syndrome: An Update.Adv Pediatr69(1):177-202, 2022.doi: 10.1016/j.yapd.2022.03.004
+
+【特纳综合征的诊断】
+体格检查
+体格检查
+通过核型分析、荧光原位杂交 (FISH) 分析和/或染色体微阵列分析进行细胞遗传学检测
+通过核型分析、荧光原位杂交 (FISH) 分析和/或染色体微阵列分析进行细胞遗传学检测
+检查相关状况
+检查相关状况
+特纳综合征的适当管理因年龄而异，涉及多学科协调护理（1）。新生儿期多由于淋巴水肿或颈蹼而考虑Turner综合征。如果没有上述临床表现，部分儿童可能因身材矮小、青春期发育延迟及闭经等症状而延迟确诊。
+通过细胞遗传学分析（核型分析、FISH 分析和/或染色体微阵列分析）确认诊断。 （参见染色体异常的诊断。)
+超声心动图或 MRI 用于检测心脏异常和持续监测。
+所有性腺发育不全者，都需进行细胞遗传学分析和Y染色体特定探针检查，以排除携带Y染色体的嵌合型（如45，X/46，XY）。这些患者通常为女性表现型，可能具有程度不等的Turner综合征表现。鉴于其罹患性腺肿瘤（尤其是性腺母细胞瘤）的风险增加，且部分肿瘤可能发生恶性转化，因此尽管存在争议，预防性性腺切除术仍常被推荐实施。
+
+【伴随的疾病】
+建议定期与多学科团队进行随访。某些常规评估有助于鉴别与Turner综合征可能相关的问题(2):
+诊断时使用超声心动图和心电图进行心脏病学评估，并持续评估以监测传导异常和主动脉扩张
+诊断时使用超声心动图和心电图进行心脏病学评估，并持续评估以监测传导异常和主动脉扩张
+常规监测血脂异常和高血压
+常规监测血脂异常和高血压
+对于有泌尿系统异常的患者，应在诊断时进行肾脏超声检查，并每年定期检测尿常规、血尿素氮和肌酐水平。
+对于有泌尿系统异常的患者，应在诊断时进行肾脏超声检查，并每年定期检测尿常规、血尿素氮和肌酐水平。
+听力学专家每3至5年进行一次听力图检查，并进行听力评估。
+听力学专家每3至5年进行一次听力图检查，并进行听力评估。
+评估脊柱侧凸/脊柱后凸，儿童期和青春期每年检查一次。
+评估脊柱侧凸/脊柱后凸，儿童期和青春期每年检查一次。
+髋关节脱位的评价
+髋关节脱位的评价
+在 12 至 18 个月大或诊断时进行眼科评估；此后的年度评估
+在 12 至 18 个月大或诊断时进行眼科评估；此后的年度评估
+诊断时和诊断后每年进行甲状腺功能检查
+诊断时和诊断后每年进行甲状腺功能检查
+乳糜泻筛查（例如，检测肌内膜抗体水平）
+乳糜泻筛查（例如，检测肌内膜抗体水平）
+从 10 岁开始每年筛查葡萄糖耐受不良
+从 10 岁开始每年筛查葡萄糖耐受不良
+密切监测生长和青春期发育
+密切监测生长和青春期发育
+
+【诊断参考】
+1.Fiot E, Alauze B, Donadille B, et al.Turner syndrome: French National Diagnosis and Care Protocol (NDCP; National Diagnosis and Care Protocol).Orphanet J Rare Dis.2022;17(Suppl 1):261.Published 2022 Jul 12.doi:10.1186/s13023-022-02423-5
+1.Fiot E, Alauze B, Donadille B, et al.Turner syndrome: French National Diagnosis and Care Protocol (NDCP; National Diagnosis and Care Protocol).Orphanet J Rare Dis.2022;17(Suppl 1):261.Published 2022 Jul 12.doi:10.1186/s13023-022-02423-5
+2.Shankar RK, Backeljauw PF.Current best practice in the management of Turner syndrome.Ther Adv Endocrinol Metab.2018;9(1):33–40.doi:10.1177/2042018817746291
+2.Shankar RK, Backeljauw PF.Current best practice in the management of Turner syndrome.Ther Adv Endocrinol Metab.2018;9(1):33–40.doi:10.1177/2042018817746291
+
+【特纳综合征的治疗】
+伴随疾病的处理
+伴随疾病的处理
+心脏异常的可能修复手术
+心脏异常的可能修复手术
+有时使用生长激素和雌激素
+有时使用生长激素和雌激素
+目前尚无针对潜在遗传疾病的特殊治疗方法。管理基于患者的检查结果。
+综合管理必须包括定期筛查和管理高血压、血脂异常、葡萄糖耐受不良和甲状腺功能障碍。
+主动脉缩窄通常需要手术修复。其他心脏异常需要根据病情进行监测，必要时进行修复。
+淋巴水肿通常可以通过支撑袜和其他技术（如按摩，以改善淋巴循环并减少过度积聚）来控制。
+含有生长激素的疗法能够刺激生长。雌激素治疗通常需要在青春期开始，通常在12至13岁时进行。此后，给予雌激素/孕激素避孕药以维持第二性征。生长激素可以与雌激素治疗联合使用，直至骨骺闭合（1）。雌激素持续治疗有助于骨骼密度和骨架的形成。雌激素治疗还可以提高女孩任务规划能力、注意力以及视觉-空间关系评估能力（2）。
+患有马赛克特纳综合征的人可能会怀孕，如果性生活活跃并想避孕，就应该采取避孕措施。生育能力可能有限，因此如果她们想怀孕，通常需要其他生育干预措施。
+提供神经认知教育和基于家庭的社会心理支持对于改善患者及其家庭成员的生活质量至关重要。对特纳综合征患者及其家人的护理还应包括遗传咨询。
+
+【治疗参考文献】
+1.Ross JL, Quigley CA, Cao D, et al.Growth hormone plus childhood low-dose estrogen in Turner's syndrome.N Engl J Med.2011;364(13):1230-1242.doi:10.1056/NEJMoa1005669
+1.Ross JL, Quigley CA, Cao D, et al.Growth hormone plus childhood low-dose estrogen in Turner's syndrome.N Engl J Med.2011;364(13):1230-1242.doi:10.1056/NEJMoa1005669
+2.Klein KO, Rosenfield RL, Santen RJ, et al.EstrogenReplacement in Turner Syndrome: Literature Review and Practical Considerations.J Clin Endocrinol Metab.2018;103(5):1790-1803.doi:10.1210/jc.2017-02183
+2.Klein KO, Rosenfield RL, Santen RJ, et al.EstrogenReplacement in Turner Syndrome: Literature Review and Practical Considerations.J Clin Endocrinol Metab.2018;103(5):1790-1803.doi:10.1210/jc.2017-02183
+在测试的部分或所有细胞中，女孩缺少全部或部分两条 X 染色体之一。
+在测试的部分或所有细胞中，女孩缺少全部或部分两条 X 染色体之一。
+临床表现有所不同，但身材矮小，蹼颈，宽阔的胸廓，性腺发育不全和心脏异常是常见的（普遍缩窄的主动脉和二叶式主动脉瓣）；智力障碍是罕见的。
+临床表现有所不同，但身材矮小，蹼颈，宽阔的胸廓，性腺发育不全和心脏异常是常见的（普遍缩窄的主动脉和二叶式主动脉瓣）；智力障碍是罕见的。
+罹患性腺癌症的风险增加；临床通常建议预防性切除性腺，但该建议尚存争议。
+罹患性腺癌症的风险增加；临床通常建议预防性切除性腺，但该建议尚存争议。
+应进行常规的年龄分层筛查，以及时发现相关并发症（例如，心脏和肾脏异常）。
+应进行常规的年龄分层筛查，以及时发现相关并发症（例如，心脏和肾脏异常）。
+用激素治疗以启动青春期并保持第二性征。
+用激素治疗以启动青春期并保持第二性征。
+对症治疗，并提供社会和教育的支持及遗传咨询。
+对症治疗，并提供社会和教育的支持及遗传咨询。

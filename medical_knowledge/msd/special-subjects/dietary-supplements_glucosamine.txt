@@ -1,0 +1,45 @@
+标题：葡萄糖胺
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/glucosamine
+============================================================
+
+葡萄糖胺是多种软骨成分的一种前体。它从壳质（在蟹、贝、虾壳中）萃取得到，制成片剂或胶囊，常以硫酸盐葡萄糖胺形式存在，但有时也以盐酸葡萄糖胺形式存在。正在努力寻找替代生物可再生资源，包括代谢工程真菌和大肠杆菌E. coli(1)。葡萄糖胺通常与硫酸软骨素一起使用
+
+【氨基葡萄糖的功效宣称】
+葡糖胺被认为可缓解由于骨关节炎引起的疼痛，可能既有镇痛和疾病修饰的效果。虽然其作用机制尚不清楚，但有人认为硫酸氨基葡萄糖可能与硫酸部分导致的糖胺聚糖合成改善有关。各种形式的葡萄糖胺的口服剂量是500毫克每日三次。
+
+【葡萄糖胺的证据】
+Rotta研究实验室的实验实验数据支持葡萄糖胺用于治疗膝盖的轻度至中度的骨关节炎时至少服用6个月以上 (2、3)。其他疾病使用方案仍需要严格的评估。硫酸葡萄糖胺对治疗更严重的膝盖及其他部位的关节炎没有明确的作用。
+氨基葡萄糖/软骨素关节炎干预试验（GAIT）是一项针对1583名有症状的膝关节骨性关节炎患者的随机、双盲、安慰剂对照、多中心临床试验，报告称，在所有患者组中，单独或与硫酸软骨素（400 mg，每天3次）、盐酸氨基葡萄糖（500 mg，每天三次）联合使用并不能有效减轻疼痛。然而，一项探索性分析发现联合治疗的中度至重度膝关节疼痛的患者具有缓解疼痛的作用 (4)。 总体而言，尽管研究报告称氨基葡萄糖和软骨素的组合提供了最佳益处 (5)，2019 年美国风湿病学会/关节炎基金会建议不要使用氨基葡萄糖治疗任何形式的骨关节炎，主要是因为担心行业赞助和发表偏倚 (6)。 然而，欧洲骨质疏松症、骨关节炎和肌肉骨骼疾病临床和经济协会（ESCEO）推荐药物级处方葡萄糖胺治疗骨关节炎 (7), 但该协会建议不要将葡萄糖胺与软骨素合用，并指出软骨素可能干扰葡萄糖胺的吸收。
+缺乏高质量证据支持使用氨基葡萄糖治疗手部骨关节炎。一项回顾性病例对照研究报告称，当与传统治疗方法联合使用时，处方级硫酸氨基葡萄糖可能对手部骨关节炎有益（8）。
+还需要进一步的研究来评估氨基葡萄糖在有或没有软骨素联合使用时对骨关节炎的影响。
+
+【氨基葡萄糖的不良反应】
+可有过敏（甲壳类动物过敏者服用从甲壳类动物中萃取的产品）、消化不良、疲乏、失眠、头痛、畏光和指甲改变。由于单独服用葡萄糖胺或同时服用软骨素可能存在肝毒性，因此有慢性肝病的患者应尽量避免使用葡萄糖胺 (9)。
+
+【葡萄糖胺的药物相互作用】
+根据提交给世界卫生组织的病例报告和信息，高剂量葡糖胺可能与华法林相互作用，导致瘀伤或出血。目前还不知道其他重要的药物相互作用。
+
+【参考文献】
+1.Liu L, Liu Y, Shin HD, et al.Microbial production of glucosamine and N-acetylglucosamine: advances and perspectives.Appl Microbiol Biotechnol.97(14):6149-6158, 2013.doi: 10.1007/s00253-013-4995-6
+1.Liu L, Liu Y, Shin HD, et al.Microbial production of glucosamine and N-acetylglucosamine: advances and perspectives.Appl Microbiol Biotechnol.97(14):6149-6158, 2013.doi: 10.1007/s00253-013-4995-6
+2.Wu D, Huang Y, Gu Y, et al.Efficacies of different preparations of glucosamine for the treatment of osteoarthritis: a meta-analysis of randomised, double-blind, placebo-controlled trials.Int J Clin Pract.67(6):585-594, 2013.doi: 10.1111/ijcp.12115
+2.Wu D, Huang Y, Gu Y, et al.Efficacies of different preparations of glucosamine for the treatment of osteoarthritis: a meta-analysis of randomised, double-blind, placebo-controlled trials.Int J Clin Pract.67(6):585-594, 2013.doi: 10.1111/ijcp.12115
+3.Eriksen P, Bartels EM, Altman RD, et al.Risk of bias and brand explain the observed inconsistency in trials on glucosamine for symptomatic relief of osteoarthritis: a meta-analysis of placebo-controlled trials.Arthritis Care Res (Hoboken).66(12):1844-1855, 2014.doi: 10.1002/acr.22376
+3.Eriksen P, Bartels EM, Altman RD, et al.Risk of bias and brand explain the observed inconsistency in trials on glucosamine for symptomatic relief of osteoarthritis: a meta-analysis of placebo-controlled trials.Arthritis Care Res (Hoboken).66(12):1844-1855, 2014.doi: 10.1002/acr.22376
+4.Clegg DO, Reda DJ, Harris CL, et al.Glucosamine, chondroitin sulfate, and the two in combination for painful knee osteoarthritis.N Engl J Med.354(8):795-808, 2006.doi: 10.1056/NEJMoa052771
+4.Clegg DO, Reda DJ, Harris CL, et al.Glucosamine, chondroitin sulfate, and the two in combination for painful knee osteoarthritis.N Engl J Med.354(8):795-808, 2006.doi: 10.1056/NEJMoa052771
+5.Hochberg MC, Martel-Pelletier J, Monfort J, et al.Combined chondroitin sulfate and glucosamine for painful knee osteoarthritis: a multicentre, randomised, double-blind, non-inferiority trial versuscelecoxib.Ann Rheum Dis.75:37-44, 2016.doi:10.1136/annrheumdis-2014-206792
+5.Hochberg MC, Martel-Pelletier J, Monfort J, et al.Combined chondroitin sulfate and glucosamine for painful knee osteoarthritis: a multicentre, randomised, double-blind, non-inferiority trial versuscelecoxib.Ann Rheum Dis.75:37-44, 2016.doi:10.1136/annrheumdis-2014-206792
+6.Kolasinski SL, Neogi T, Hochberg MC, et al.2019 American College of Rheumatology/Arthritis Foundation guideline for the management of osteoarthritis of the hand, hip, and knee.Arthritis Care Res (Hoboken).72(2):149‐162.doi:10.1002/acr.24131
+6.Kolasinski SL, Neogi T, Hochberg MC, et al.2019 American College of Rheumatology/Arthritis Foundation guideline for the management of osteoarthritis of the hand, hip, and knee.Arthritis Care Res (Hoboken).72(2):149‐162.doi:10.1002/acr.24131
+7.Bruyère O, Honvo G, Veronese N, et al.: An updated algorithm recommendation for the management of knee osteoarthritis from the European Society for Clinical and Economic Aspects of Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (ESCEO).Semin Arthritis Rheum.49(3):337-350, 2019.doi:10.1016/j.semarthrit.2019.04.008
+7.Bruyère O, Honvo G, Veronese N, et al.: An updated algorithm recommendation for the management of knee osteoarthritis from the European Society for Clinical and Economic Aspects of Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (ESCEO).Semin Arthritis Rheum.49(3):337-350, 2019.doi:10.1016/j.semarthrit.2019.04.008
+8.Tenti S, Veronese N, Cheleschi S, Seccafico I, Bruyère O, Reginster JY, Fioravanti A.Prescription-grade crystalline glucosamine sulfate as an add-on therapy to conventional treatments in erosive osteoarthritis of the hand: results from a 6-month observational retrospective study.Aging Clin Exp Res.2022 Jul;34(7):1613-1625.doi: 10.1007/s40520-022-02151-7
+8.Tenti S, Veronese N, Cheleschi S, Seccafico I, Bruyère O, Reginster JY, Fioravanti A.Prescription-grade crystalline glucosamine sulfate as an add-on therapy to conventional treatments in erosive osteoarthritis of the hand: results from a 6-month observational retrospective study.Aging Clin Exp Res.2022 Jul;34(7):1613-1625.doi: 10.1007/s40520-022-02151-7
+9.Cerda C, Bruguera M, Parés A.Hepatotoxicity associated with glucosamine and chondroitin sulfate in patients with chronic liver disease.World J Gastroenterol.19(32):5381-5384, 2013.doi: 10.3748/wjg.v19.i32.5381
+9.Cerda C, Bruguera M, Parés A.Hepatotoxicity associated with glucosamine and chondroitin sulfate in patients with chronic liver disease.World J Gastroenterol.19(32):5381-5384, 2013.doi: 10.3748/wjg.v19.i32.5381
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Glucosamine and Chondroitin for Osteoarthritis: What You Need To Know
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Glucosamine and Chondroitin for Osteoarthritis: What You Need To Know

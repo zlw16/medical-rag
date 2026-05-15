@@ -1,0 +1,84 @@
+标题：成骨不全
+来源：https://www.msdmanuals.cn/professional/pediatrics/connective-tissue-disorders-in-children/osteogenesis-imperfecta
+============================================================
+
+成骨不全症有5种临床类型（1-3）：
+I型：非变形性伴持续性蓝巩膜
+I型：非变形性伴持续性蓝巩膜
+II型：围产期致死性
+II型：围产期致死性
+III型：进行性变形
+III型：进行性变形
+IV：中等
+IV：中等
+V型：伴有骨间膜钙化和/或肥大性骨痂
+V型：伴有骨间膜钙化和/或肥大性骨痂
+其遗传方式通常是常染色体显性遗传，但II、III 和IV型存在常染色体隐性遗传形式。超过85%的临床类型患者存在编码I型前胶原原α链（骨骼、韧带和肌腱的结构成分）的基因突变：COL1A1或COL1A2（3）。
+还有许多其他更罕见的类型 ，它们是由不同基因的突变引起的。
+
+【参考文献】
+1.Marom R, Rabenhorst BM, Morello R.Osteogenesis imperfecta: an update on clinical features and therapies.Eur J Endocrinol.2020;183(4):R95-R106.doi:10.1530/EJE-20-0299
+1.Marom R, Rabenhorst BM, Morello R.Osteogenesis imperfecta: an update on clinical features and therapies.Eur J Endocrinol.2020;183(4):R95-R106.doi:10.1530/EJE-20-0299
+2.Mortier GR, Cohn DH, Cormier-Daire V, et al.Nosology and classification of genetic skeletal disorders: 2019 revision.Am J Med Genet A.2019;179(12):2393-2419.doi:10.1002/ajmg.a.61366
+2.Mortier GR, Cohn DH, Cormier-Daire V, et al.Nosology and classification of genetic skeletal disorders: 2019 revision.Am J Med Genet A.2019;179(12):2393-2419.doi:10.1002/ajmg.a.61366
+3.Chaugule S, Constantinou CK, John AA, et al.Comprehensive Review of Osteogenesis Imperfecta: Current Treatments and Future Innovations.Hum Gene Ther.2025;36(5-6):597-617.doi:10.1089/hum.2024.191
+3.Chaugule S, Constantinou CK, John AA, et al.Comprehensive Review of Osteogenesis Imperfecta: Current Treatments and Future Innovations.Hum Gene Ther.2025;36(5-6):597-617.doi:10.1089/hum.2024.191
+
+【成骨不全症的症状和体征】
+高达70%的成骨不全患者存在听力损失，并可能发生5种临床类型中的任何一种。
+I型（非畸形伴有持续性蓝巩膜）是最轻微的。部分患者的症状和体征仅限于蓝色巩膜（由于结缔组织缺失，导致下层血管显露）和关节过度活动引起的肌肉骨骼疼痛。儿童可能出现复发性骨折。
+II型（围产期致死型或先天性成骨不全症）最为严重且具有致死性。多发性先天性骨折使肢体变短。蓝色巩膜头骨很软，触摸时感觉就像一个骨头袋。由于颅骨较软，分娩时的外伤可能会导致颅内出血和死产，或者新生儿在出生后的头几天或几周内突然死亡。
+这张照片显示了眼睛的特写，显示出蓝色巩膜（通常为白色）。
+III型（进行性畸形）是最严重的非致死性成骨不全症。Ⅲ型患者有身材矮小、脊柱弯曲和多处复发性骨折。巨头畸形伴三角形面容和胸部畸形很常见。巩膜颜色变化。
+II型和III型可出现心肺异常，包括瓣膜疾病、心力衰竭和限制性肺疾病（包括实质性疾病和由胸部和脊柱异常引起的疾病）。
+这张照片显示了一名患有严重成骨不全症的患者，他有桶状胸、脊柱弯曲、严重的骨骼畸形、关节松动和肌肉发育不良。
+IV型（中度型）严重程度为中等/中度。生存率高。这种类型是可变的和变形的。青春期前的儿童时期易发生骨折。巩膜颜色通常是正常的。身高为中等至矮小身材。这些患者能够从治疗中获益，因此准确诊断很重要。
+V型表现为骨间膜钙化和/或肥大性骨痂，并伴有桡骨头脱位。巩膜呈蓝色至蓝灰色。此类型严重程度可为轻度至中度，症状轻微的个体可过相对正常的生活。
+
+【成骨不全的诊断】
+临床评估
+临床评估
+I型前胶原蛋白和/或基因检测分析
+I型前胶原蛋白和/或基因检测分析
+有时产前超声、绒毛膜取样或羊膜穿刺术
+有时产前超声、绒毛膜取样或羊膜穿刺术
+成骨不全症的诊断依据临床表现，但没有明确的诊断标准。
+通过培养的成纤维细胞（取自皮肤活检）进行I型前胶原蛋白分析，和/或对COL1A1、COL1A2及其他致病基因进行测序，可用于确诊。
+产前，成骨不全可以通过详细的超声检查；诊断的最佳时机和可能性取决于类型和严重程度(1)。如果已知父母突变，可分析绒毛膜细胞或羊水细胞以检测该特定突变。绒毛膜绒毛细胞（但不是羊膜细胞）也可以培养用于分析产生的I型前胶原蛋白，并与受影响家庭成员的前胶原蛋白测试结果进行比较。
+
+【诊断参考文献】
+1.Byers PH, Krakow D, Nunes ME, Pepin M; American college of medical genetics.Genetic evaluation of suspected osteogenesis imperfecta (OI).Genet Med.2006;8(6):383-388.doi:10.1097/01.gim.0000223557.54670.aa
+1.Byers PH, Krakow D, Nunes ME, Pepin M; American college of medical genetics.Genetic evaluation of suspected osteogenesis imperfecta (OI).Genet Med.2006;8(6):383-388.doi:10.1097/01.gim.0000223557.54670.aa
+
+【成骨不全症的治疗】
+双膦酸盐
+双膦酸盐
+生长激素
+生长激素
+有时使用地诺单抗或特立帕肽
+有时使用地诺单抗或特立帕肽
+有时维生素D
+有时维生素D
+有时需手术治疗
+有时需手术治疗
+双膦酸盐治疗（如帕米膦酸 0.5–3 mg/kg 静脉注射，每日一次，共3天，必要时每4–6个月重复；唑来膦酸 0.0125–0.025 mg/kg 静脉注射，每3–6个月重复；阿仑膦酸 1 mg/kg [最大20 mg] 口服每日一次）旨在增加骨密度、缓解骨痛、并降低骨折和脊柱侧弯风险（1,2）。
+生长激素联合双膦酸盐治疗可改善部分患者的生长和骨矿物质密度（2，3）。
+地诺单抗是核因子κB配体（RANKL）的受体激活剂，是破骨细胞骨吸收的强效抑制剂，通常以注射形式给药。研究表明，这种药物对部分成骨不全症患者有益（2，4）。
+特立帕肽是一种重组甲状旁腺激素，使用24个月，皮下注射给药。该药不适用于儿童（5）。Romosozumab，一种硬化蛋白抗体，和fresolimumab，一种转化生长因子（TGF）-β抑制性抗体，仍在临床试验中（6）。
+应向缺乏这种激素的人提供维生素D的补充。
+骨科手术，包括在长骨中植入杆，可稳定生长并预防骨折（2）。物理治疗和职业治疗，侧重于可持续的肌力维持，有助于改善功能。
+在选定的情况下，如果患者听力损失，可进行人工耳蜗植入。
+
+【治疗参考文献】
+1.Dwan K, Phillipi CA, Steiner RD, Basel D.Bisphosphonate therapy for osteogenesis imperfecta.Cochrane Database Syst Rev.2016;10(10):CD005088, 2016.doi:10.1002/14651858.CD005088.pub4
+1.Dwan K, Phillipi CA, Steiner RD, Basel D.Bisphosphonate therapy for osteogenesis imperfecta.Cochrane Database Syst Rev.2016;10(10):CD005088, 2016.doi:10.1002/14651858.CD005088.pub4
+2.Chaugule S, Constantinou CK, John AA, et al.Comprehensive Review of Osteogenesis Imperfecta: Current Treatments and Future Innovations.Hum Gene Ther.2025;36(5-6):597-617.doi:10.1089/hum.2024.191
+2.Chaugule S, Constantinou CK, John AA, et al.Comprehensive Review of Osteogenesis Imperfecta: Current Treatments and Future Innovations.Hum Gene Ther.2025;36(5-6):597-617.doi:10.1089/hum.2024.191
+3.Antoniazzi F, Monti E, Venturi G, et al.GH in combination with bisphosphonate treatment in osteogenesis imperfecta.Eur J Endocrinol.2010;163(3):479-487.doi:10.1530/EJE-10-0208
+3.Antoniazzi F, Monti E, Venturi G, et al.GH in combination with bisphosphonate treatment in osteogenesis imperfecta.Eur J Endocrinol.2010;163(3):479-487.doi:10.1530/EJE-10-0208
+4.Li G, Jin Y, Levine MAH, et al.Systematic review of the effect of denosumab on children with osteogenesis imperfecta showed inconsistent findings.Acta Paediatr.2018;107(3):534–537.doi:10.1111/apa.14154
+4.Li G, Jin Y, Levine MAH, et al.Systematic review of the effect of denosumab on children with osteogenesis imperfecta showed inconsistent findings.Acta Paediatr.2018;107(3):534–537.doi:10.1111/apa.14154
+5.Liu W, Lee B, Nagamani SCS, et al.Approach to the Patient: Pharmacological Therapies for Fracture Risk Reduction in Adults With Osteogenesis Imperfecta.J Clin Endocrinol Metab.2023;108(7):1787-1796.doi:10.1210/clinem/dgad035
+5.Liu W, Lee B, Nagamani SCS, et al.Approach to the Patient: Pharmacological Therapies for Fracture Risk Reduction in Adults With Osteogenesis Imperfecta.J Clin Endocrinol Metab.2023;108(7):1787-1796.doi:10.1210/clinem/dgad035
+6.Sun Y, Li L, Wang J, Liu H, Wang H.Emerging Landscape of Osteogenesis Imperfecta Pathogenesis and Therapeutic Approaches.ACS Pharmacol Transl Sci.2024;7(1):72-96.Published 2024 Jan 2.doi:10.1021/acsptsci.3c00324
+6.Sun Y, Li L, Wang J, Liu H, Wang H.Emerging Landscape of Osteogenesis Imperfecta Pathogenesis and Therapeutic Approaches.ACS Pharmacol Transl Sci.2024;7(1):72-96.Published 2024 Jan 2.doi:10.1021/acsptsci.3c00324

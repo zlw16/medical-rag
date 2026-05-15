@@ -1,0 +1,80 @@
+标题：淋巴管平滑肌瘤病
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/interstitial-lung-diseases/lymphangioleiomyomatosis
+============================================================
+
+淋巴管平滑肌瘤病（LAM）是一种罕见疾病，大多累及20～40岁女性，白种人的危险性最高。淋巴管平滑肌瘤病每年影响<百万分之一的人口(1)，但随着筛查技术的进步，其患病率正在上升(2)。
+淋巴管平滑肌瘤病的特征为非典型平滑肌细胞在胸腔内广泛增殖，累及肺实质、血管系统、淋巴管及胸膜，导致肺结构破坏、囊性肺气肿及肺功能进行性恶化。
+
+【参考文献】
+1.Harknett EC, Chang WY, Byrnes S, et al.Use of variability in national and regional data to estimate the prevalence of lymphangioleiomyomatosis.QJM2011;104(11):971-979.doi:10.1093/qjmed/hcr116
+1.Harknett EC, Chang WY, Byrnes S, et al.Use of variability in national and regional data to estimate the prevalence of lymphangioleiomyomatosis.QJM2011;104(11):971-979.doi:10.1093/qjmed/hcr116
+2.Lynn E, Forde SH, Franciosi AN, et al.Updated Prevalence of Lymphangioleiomyomatosis in Europe.Am J Respir Crit Care Med2024;209(4):456-459.doi:10.1164/rccm.202310-1736LE
+2.Lynn E, Forde SH, Franciosi AN, et al.Updated Prevalence of Lymphangioleiomyomatosis in Europe.Am J Respir Crit Care Med2024;209(4):456-459.doi:10.1164/rccm.202310-1736LE
+
+【淋巴管平滑肌瘤病】
+淋巴管平滑肌瘤病的病因被认为是结节性硬化蛋白、结节蛋白和错构瘤蛋白的功能丧失性基因突变所致。生长因子异常表达被认为与发病机制有关。女性性激素在发病机制中起作用的假说仍未得到证实。
+这种疾病通常自发性发病，但淋巴管平滑肌瘤病与结节性硬化症的肺部表现有诸多相似之处；淋巴管平滑肌瘤病可发生于部分结节性硬化症患者，一些观点认为其可能是结节性硬化症的顿挫型。已发现LAM细胞和血管平滑肌脂肪瘤（良性肾错构瘤由平滑肌，血管和脂肪组成）中结节性硬化复合物-2基因（tuberous sclerosis complex-2 gene，TSC-2）突变。高达50％的LAM患者存在血管平滑肌脂肪瘤。这些发现提示两种可能性之一：
+肺和肾脏中TSC-2基因的体细胞嵌合突变，导致在这些组织的正常细胞背景下出现病灶叠加（尽管可以预期疾病存在多个离散位点）。这些突变导致生长因子（如血管内皮生长因子[VEGF]、胰岛素样生长因子[IGF]、血小板衍生生长因子[PDGF]、成纤维细胞生长因子[FGF]）过度表达失控，也被认为推动疾病的进展。基质金属蛋白酶和组织蛋白酶可能负责细胞迁移和分化，促进组织重塑。
+肺和肾脏中TSC-2基因的体细胞嵌合突变，导致在这些组织的正常细胞背景下出现病灶叠加（尽管可以预期疾病存在多个离散位点）。这些突变导致生长因子（如血管内皮生长因子[VEGF]、胰岛素样生长因子[IGF]、血小板衍生生长因子[PDGF]、成纤维细胞生长因子[FGF]）过度表达失控，也被认为推动疾病的进展。基质金属蛋白酶和组织蛋白酶可能负责细胞迁移和分化，促进组织重塑。
+淋巴管平滑肌瘤病是一种低度恶性、具有破坏性和转移性的肿瘤，可能起源于子宫，并通过淋巴系统扩散。
+淋巴管平滑肌瘤病是一种低度恶性、具有破坏性和转移性的肿瘤，可能起源于子宫，并通过淋巴系统扩散。
+
+【淋巴管平滑肌瘤病的症状和体征】
+淋巴管平滑肌瘤病的最初症状是疲劳和呼吸困难（尤其是在劳累时）。这些症状可能被误认为是哮喘或慢性阻塞性肺病(COPD)的表现症状。较少见出现咳嗽、胸痛和咯血。鲜有疾病体征，但一些女性有捻发音和干啰音。很少发生肺动脉高压。
+许多患者出现自发性气胸以及胸腔积液。它们也可能表现为纵隔淋巴结病的症状，常引起淋巴阻塞，包括乳糜胸、乳糜性腹水和乳糜尿。怀孕期间症状加重。
+肾血管平滑肌脂肪瘤通常无症状，但若增大（例如，>4cm）可引起出血，常表现为血尿或腰痛。
+
+【淋巴管平滑肌瘤病的诊断】
+胸片及高分辨CT（HRCT）
+胸片及高分辨CT（HRCT）
+VEGF-D检测
+VEGF-D检测
+若HRCT和VEGF-D检测未能诊断需进行肺活检。
+若HRCT和VEGF-D检测未能诊断需进行肺活检。
+年轻女性有呼吸困难、胸片见间质病变而肺容量正常或增加、自发性气胸和（或）乳糜性渗出液时，怀疑淋巴管平滑肌瘤病 (1)。淋巴管平滑肌瘤病常被误诊为另一种类型的间质性肺疾病。
+对于所有疑似罹患此病的患者，推荐进行高分辨率计算机断层扫描（HRCT）；若发现多发、弥漫性分布且薄壁的囊性病变，通常可视为淋巴管平滑肌瘤病（LAM）的特征性表现。影像学检查可见气胸、胸腔积液和乳糜性积液（位于胸腔或腹腔）。
+该图像显示了淋巴管平滑肌瘤病患者双肺中的弥漫性囊肿。
+Image courtesy of Joyce Lee, MD, MAS.
+推荐血清VEGF-D（血管内皮生长因子D）检测大多数LAM女性患者的血清VEGF-D水平升高，而其他类型的囊性肺疾病患者的血清VEGF-D水平则正常。VEGF-D水平升高可以确诊LAM，但正常水平并不能排除诊断（2)。
+只在HRCT结果和VEGF-D检测不能诊断时才考虑活检（手术）。组织学检查发现平滑肌细胞（LAM细胞）异常增生伴囊样变能确诊该病。
+肺功能检查可支持诊断，尤其有助于病情监测。典型表现是阻塞性或阻塞/限制混合性通气障碍。肺往往过度充气，肺总量（total lung capacity，TLC）和胸内气体量增加。常出现空气滞留现象（残气量[residual volume，RV]和RV/TLC比率增加）。动脉血氧分压（PaO2）和肺一氧化碳弥散量（DLCO）通常会降低。大多数病人有体能下降的表现。
+
+【诊断参考】
+1.McCarthy C, Gupta N, Johnson SR, Yu JJ, McCormack FX.Lymphangioleiomyomatosis: pathogenesis, clinical features, diagnosis, and management.Lancet Respir Med2021;9(11):1313-1327.doi:10.1016/S2213-2600(21)00228-9
+1.McCarthy C, Gupta N, Johnson SR, Yu JJ, McCormack FX.Lymphangioleiomyomatosis: pathogenesis, clinical features, diagnosis, and management.Lancet Respir Med2021;9(11):1313-1327.doi:10.1016/S2213-2600(21)00228-9
+2.McCormack FX, Gupta N, Finlay GR, et al: Official American Thoracic Society/Japanese Respiratory Society Clinical Practice Guidelines: Lymphangioleiomyomatosis Diagnosis and Management.Am J Respir Crit Care Med194 (6):748–761, 2016.
+2.McCormack FX, Gupta N, Finlay GR, et al: Official American Thoracic Society/Japanese Respiratory Society Clinical Practice Guidelines: Lymphangioleiomyomatosis Diagnosis and Management.Am J Respir Crit Care Med194 (6):748–761, 2016.
+
+【淋巴管平滑肌瘤病的治疗】
+西罗莫司
+西罗莫司
+西罗莫司（一种mTOR抑制剂）可能有助于稳定或减缓中度肺功能损害患者（第1秒用力呼气容积[FEV1] < 预计值的70%）肺功能下降的进程。对于肺功能异常或下降的患者，建议使用西罗莫司治疗 (1)。其他可选的治疗，如孕激素治疗、他莫昔芬、卵巢切除术或抗炎四环素疗法，大多无效且不推荐。
+气胸的治疗可能较困难，因为其常反复发作、为双侧性、标准处置效果差。反复发作的气胸需要胸膜摩擦、以滑石粉或化学物胸膜固定或胸膜切除。当血管平滑肌脂肪瘤>4 cm时，需考虑栓塞术以预防出血。
+淋巴管平滑肌瘤病的标准治疗方案是肺移植，但疾病可在移植肺内复发。
+大部分患者可耐受乘飞机旅行（2）。
+
+【治疗参考文献】
+1.Feemster LC, Lyons PG, Chatterjee RS, et al.Summary for Clinicians: Lymphangioleiomyomatosis Diagnosis and Management Clinical Practice Guideline.Ann Am Thorac Soc2017;14(7):1073-1075.doi:10.1513/AnnalsATS.201609-685CME
+1.Feemster LC, Lyons PG, Chatterjee RS, et al.Summary for Clinicians: Lymphangioleiomyomatosis Diagnosis and Management Clinical Practice Guideline.Ann Am Thorac Soc2017;14(7):1073-1075.doi:10.1513/AnnalsATS.201609-685CME
+2.Taveira-DaSilva AM, Burstein D, Hathaway OM, et al.Pneumothorax after air travel in lymphangioleiomyomatosis, idiopathic pulmonary fibrosis, and sarcoidosis.Chest2009;136(3):665-670.doi:10.1378/chest.08-3034
+2.Taveira-DaSilva AM, Burstein D, Hathaway OM, et al.Pneumothorax after air travel in lymphangioleiomyomatosis, idiopathic pulmonary fibrosis, and sarcoidosis.Chest2009;136(3):665-670.doi:10.1378/chest.08-3034
+
+【淋巴管平滑肌瘤病的预后】
+淋巴管平滑肌瘤病极罕见且病人的临床病程多变，故其预后不清。一般来说，这种疾病进展缓慢，最终导致呼吸衰竭和死亡。估计的 10 年生存率有所不同，但超过 90%，并且比之前认为的更有利（1)。必须提醒病人，怀孕期间疾病进展加速。
+
+【预后参考】
+1.Gupta N, Lee HS, Ryu JH, et al.The NHLBI LAM Registry: Prognostic Physiologic and Radiologic Biomarkers Emerge From a 15-Year Prospective Longitudinal Analysis.Chest2019;155(2):288-296.doi:10.1016/j.chest.2018.06.016
+1.Gupta N, Lee HS, Ryu JH, et al.The NHLBI LAM Registry: Prognostic Physiologic and Radiologic Biomarkers Emerge From a 15-Year Prospective Longitudinal Analysis.Chest2019;155(2):288-296.doi:10.1016/j.chest.2018.06.016
+淋巴管平滑肌瘤病（LAM）可能被误诊为间质性肺病，但实际上是一种罕见的、缓慢进展的平滑肌细胞增生性疾病，可累及包括肺部在内的多个器官。
+淋巴管平滑肌瘤病（LAM）可能被误诊为间质性肺病，但实际上是一种罕见的、缓慢进展的平滑肌细胞增生性疾病，可累及包括肺部在内的多个器官。
+在年轻女性中，如出现不明原因呼吸困难，伴胸片显示间质性改变而肺容量正常或增大，或合并自发性气胸、乳糜性胸腔积液时，应考虑该诊断。
+在年轻女性中，如出现不明原因呼吸困难，伴胸片显示间质性改变而肺容量正常或增大，或合并自发性气胸、乳糜性胸腔积液时，应考虑该诊断。
+进行高分辨率 CT 和 VEGF-D（血管内皮生长因子 D）检测；如果结果不确定，请考虑进行手术肺活检。
+进行高分辨率 CT 和 VEGF-D（血管内皮生长因子 D）检测；如果结果不确定，请考虑进行手术肺活检。
+若LAM患者的肺功能异常或进行性下降，可考虑使用西罗莫司治疗。
+若LAM患者的肺功能异常或进行性下降，可考虑使用西罗莫司治疗。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+LAM Foundation
+LAM Foundation

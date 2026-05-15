@@ -1,0 +1,259 @@
+标题：酒精性肝病
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/alcohol-related-liver-disease/alcohol-related-liver-disease
+============================================================
+
+在大多数西方国家中酒精消耗量很高。根据美国 2023 年全国药物使用和健康调查，该调查使用《精神障碍诊断和统计手册》第五版（DSM-5）定义酒精使用障碍，2022 年，美国 18 岁及以上成年人中有 10.9% 和 12 至 17 岁儿童中有 2.9% 符合酒精使用障碍的标准（1；国家酒精滥用和酒精中毒研究所[NIAAA]：美国的酒精使用障碍（AUD））。NIAAA报告称酒精相关死亡人数增长了33%，从2019年约7.9万例增至2022年10.5万例。这意味着平均年增长率约为10%，高于过去二十年的平均年增长率2.2%，表明与 COVID-19 大流行可能存在关联 (2, 3)。
+酒精使用障碍患者发生的肝脏疾病，通常按顺序发生，但有时同时存在，包括 (4)：
+酒精相关性肝脂肪变性（脂肪肝；>90%)
+酒精相关性肝脂肪变性（脂肪肝；>90%)
+酒精性肝炎（10%～35%的嗜酒者）
+酒精性肝炎（10%～35%的嗜酒者）
+酒精相关性肝硬化（10%到20%）
+酒精相关性肝硬化（10%到20%）
+肝硬化患者发展为肝细胞肝癌，特别是如果同时存在铁的沉积时。
+
+【参考文献】
+1.SAMHSA, Center for Behavioral Health Statistics and Quality.2022 National Survey on Drug Use and Health.Table 5.9A—Alcohol use disorder in past year: among people aged 12 or older; by age group and demographic characteristics, numbers in thousands, 2022 and 2023.Accessed March 19, 2025.
+1.SAMHSA, Center for Behavioral Health Statistics and Quality.2022 National Survey on Drug Use and Health.Table 5.9A—Alcohol use disorder in past year: among people aged 12 or older; by age group and demographic characteristics, numbers in thousands, 2022 and 2023.Accessed March 19, 2025.
+2.White AM, Castle IP, Powell PA, et al.Alcohol-Related Deaths During the COVID-19 Pandemic.JAMA.327(17):1704-1706, 2022.doi:10.1001/jama.2022.4308
+2.White AM, Castle IP, Powell PA, et al.Alcohol-Related Deaths During the COVID-19 Pandemic.JAMA.327(17):1704-1706, 2022.doi:10.1001/jama.2022.4308
+3.Centers for Disease Control and Prevention, National Center for Health Statistics.National Vital Statistics System, Provisional Mortality on CDC WONDER Online Database.Data are from the final Multiple Cause of Death Files, 2018-2022, and from provisional data for years 2023-2024, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program.Accessed March 19, 2025.
+3.Centers for Disease Control and Prevention, National Center for Health Statistics.National Vital Statistics System, Provisional Mortality on CDC WONDER Online Database.Data are from the final Multiple Cause of Death Files, 2018-2022, and from provisional data for years 2023-2024, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program.Accessed March 19, 2025.
+4.Crabb DW, Im GY, Szabo G, et al.Diagnosis and Treatment of Alcohol-Associated Liver Diseases: 2019 Practice Guidance From the American Association for the Study of Liver Diseases.Hepatology.2020;71(1):306-333.doi:10.1002/hep.30866
+4.Crabb DW, Im GY, Szabo G, et al.Diagnosis and Treatment of Alcohol-Associated Liver Diseases: 2019 Practice Guidance From the American Association for the Study of Liver Diseases.Hepatology.2020;71(1):306-333.doi:10.1002/hep.30866
+
+【酒精相关肝病的危险因素】
+酒精性肝病的主要致病因素包括：
+酒精摄入量和持续时间
+酒精摄入量和持续时间
+基因和代谢特点
+基因和代谢特点
+减肥手术史
+减肥手术史
+一杯标准酒精饮料含有 14 克酒精，相当于一瓶 12 盎司（355 毫升）5% 啤酒、一杯 5 盎司（148 毫升）葡萄酒或 1.5 盎司（44 毫升）的酒精含量80度蒸馏酒，酒精含量为40% (1)。
+似乎存在阈值效应，超过该阈值，饮酒量和持续时间会增加患肝病的风险。该阈值未知，并且因个体风险因素而异（2)。
+美国国家酒精滥用与酒精中毒研究所（NIAAA）将适量饮酒定义为女性每天一杯标准饮料，男性每天两杯标准饮料（1，3）。然而，世界卫生组织表示，不存在对健康无影响的安全饮酒水平（4）。
+NIAAA 将男性的“高危”（重度）饮酒定义为每周饮酒超过14标准杯，或单日饮酒超过4标准杯；女性则为每周超过7标准杯，或单日超过3标准杯。（1）。
+酗酒还可能增加与酒精相关的肝病。NIAAA 将酗酒定义为一种使血液中酒精浓度达到 0.08 g/dL 的饮酒模式，这种情况通常发生在女性喝 4 杯、男性喝 5 杯后，大约 2 小时内（1）。
+患有酒精性肝病或其他肝病的患者，特别是代谢功能障碍相关脂肪肝病（MASLD）（以前称为非酒精性脂肪性肝病 [NAFLD]）、代谢功能障碍相关脂肪性肝炎（MASH）（以前称为非酒精性脂肪性肝炎 [NASH]）、病毒性肝炎和血色素沉着症或任何导致不良后果的饮酒行为，都应被告知饮酒没有安全限度，应戒酒。
+美国肝病研究学会 (AASLD)和美国胃肠病学会建议，在初级保健机构、消化内科/肝病门诊、急诊科以及住院患者中，应常规采用经过验证的问卷对患者的酒精使用情况进行筛查。对于存在危险饮酒行为（即重度或暴饮）的患者，应提供简短干预、药物治疗及转诊治疗服务（5-7）。如果怀疑存在过度饮酒问题，美国肝病研究学会（AASLD）建议使用酒精使用障碍筛查问卷 (AUDIT)（5）。
+酒精生物标志物，例如尿液或头发的乙基葡萄糖醛酸、尿液硫酸乙酯和磷脂酰乙醇 (PEth)，可用于支持患者病史并帮助康复。
+
+【性别因素】
+女性更易发生酒精性肝病，即使经过体质指数的校正。女性每日仅需摄入20~30克酒精即有风险——约为男性量的一半或更少（7, 8）。女性的危险性增加，其原因可能是其胃黏膜内的乙醇脱氢酶含量较少，使更多未被氧化的酒精到达肝脏。
+
+【基因因素】
+酒精性肝病往往具有家族性，提示其可能有遗传因素 。部分特定基因（如缺乏酒精代谢胞质酶）已被识别并正在研究中（7）。
+
+【营养或肥胖】
+不饱和脂肪酸高的饮食会增加易感性。肥胖或合并减重手术史是一个危险因素（9）。
+
+【其他危险因素】
+其他危险因素包括肝内铁质沉积（与铁的摄入不一定相关）、同时伴有病毒性肝炎。
+
+【危险因素参考】
+1.Alcohol Research: Current Reviews Editorial Staff.Drinking Patterns and Their Definitions.Alcohol Res.2018;39(1):17-18.
+1.Alcohol Research: Current Reviews Editorial Staff.Drinking Patterns and Their Definitions.Alcohol Res.2018;39(1):17-18.
+2.Rehm J, Taylor B, Mohapatra S, et al.Alcohol as a risk factor for liver cirrhosis: a systematic review and meta-analysis.Drug Alcohol Rev.29(4):437-445, 2010.doi:10.1111/j.1465-3362.2009.00153.x
+2.Rehm J, Taylor B, Mohapatra S, et al.Alcohol as a risk factor for liver cirrhosis: a systematic review and meta-analysis.Drug Alcohol Rev.29(4):437-445, 2010.doi:10.1111/j.1465-3362.2009.00153.x
+3.U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2020-2025.9th Edition.December 2020.Available at DietaryGuidelines.gov.
+3.U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2020-2025.9th Edition.December 2020.Available at DietaryGuidelines.gov.
+4.Anderson BO, Berdzuli N, Ilbawi A, et al.Health and cancer risks associated with low levels of alcohol consumption.Lancet Public Health.8(1):e6-e7, 2023.doi: 10.1016/S2468-2667(22)00317-6
+4.Anderson BO, Berdzuli N, Ilbawi A, et al.Health and cancer risks associated with low levels of alcohol consumption.Lancet Public Health.8(1):e6-e7, 2023.doi: 10.1016/S2468-2667(22)00317-6
+5.Crabb DW, Im GY, Szabo G, et al.Diagnosis and Treatment of Alcohol-Associated Liver Diseases: 2019 Practice Guidance From the American Association for the Study of Liver Diseases.Hepatology.2020;71(1):306-333.doi:10.1002/hep.30866
+5.Crabb DW, Im GY, Szabo G, et al.Diagnosis and Treatment of Alcohol-Associated Liver Diseases: 2019 Practice Guidance From the American Association for the Study of Liver Diseases.Hepatology.2020;71(1):306-333.doi:10.1002/hep.30866
+6.Saunders JB, Aasland OG, Babor TF, et al.Development of the Alcohol Use Disorders Identification Test (AUDIT): WHO Collaborative Project on Early Detection of Persons with Harmful Alcohol Consumption--II.Addiction.88(6):791-804, 1993.doi:10.1111/j.1360-0443.1993.tb02093.x
+6.Saunders JB, Aasland OG, Babor TF, et al.Development of the Alcohol Use Disorders Identification Test (AUDIT): WHO Collaborative Project on Early Detection of Persons with Harmful Alcohol Consumption--II.Addiction.88(6):791-804, 1993.doi:10.1111/j.1360-0443.1993.tb02093.x
+7.Jophlin LL, Singal AK, Bataller R, et al.ACG Clinical Guideline: Alcohol-Associated Liver Disease.Am J Gastroenterol.2024;119(1):30-54.doi:10.14309/ajg.0000000000002572
+7.Jophlin LL, Singal AK, Bataller R, et al.ACG Clinical Guideline: Alcohol-Associated Liver Disease.Am J Gastroenterol.2024;119(1):30-54.doi:10.14309/ajg.0000000000002572
+8.O'Shea RS, Dasarathy S, McCullough AJ; Practice Guideline Committee of the American Association for the Study of Liver Diseases; Practice Parameters Committee of the American College of Gastroenterology.Alcoholic liver disease.Hepatology.2010;51(1):307-328.doi:10.1002/hep.23258
+8.O'Shea RS, Dasarathy S, McCullough AJ; Practice Guideline Committee of the American Association for the Study of Liver Diseases; Practice Parameters Committee of the American College of Gastroenterology.Alcoholic liver disease.Hepatology.2010;51(1):307-328.doi:10.1002/hep.23258
+9.Mellinger JL, Shedden K, Winder GS, et al.Bariatric surgery and the risk of alcohol-related cirrhosis and alcohol misuse.Liver Int.2021;41(5):1012-1019.doi:10.1111/liv.14805
+9.Mellinger JL, Shedden K, Winder GS, et al.Bariatric surgery and the risk of alcohol-related cirrhosis and alcohol misuse.Liver Int.2021;41(5):1012-1019.doi:10.1111/liv.14805
+
+【酒精性肝病的病理生理学】
+
+【酒精吸收与代谢】
+酒精（乙醇）可以在胃内吸收，但绝大多数经小肠吸收。酒精不能在体内蓄积，一小部分酒精在通过胃黏膜时被降解，但大部分在肝脏分解，主要通过乙醇脱氢酶（ADH），还有细胞色素酶Ｐ-450 2E1（CYP2E1）和微粒体酶氧化系统（MEOS）。
+酒精通过ADH的代谢途径主要包括：
+ADH：一种细胞质酶，氧化酒精成为乙醛。该酶的基因多态性导致不同个体摄入等量酒精后的血酒精浓度各不相同，但是与酒精性肝病的易感性无关；
+ADH：一种细胞质酶，氧化酒精成为乙醛。该酶的基因多态性导致不同个体摄入等量酒精后的血酒精浓度各不相同，但是与酒精性肝病的易感性无关；
+ALDH：线粒体乙醛脱氢酶，其将乙醛转化成乙酸。慢性酒精摄入促进乙酸形成。东亚人群中，乙醛脱氢酶水平较低的人容易发生乙醛毒性反应（例如面部潮红），其效果与抑制乙醛脱氢酶的双硫仑相似（1）。
+ALDH：线粒体乙醛脱氢酶，其将乙醛转化成乙酸。慢性酒精摄入促进乙酸形成。东亚人群中，乙醛脱氢酶水平较低的人容易发生乙醛毒性反应（例如面部潮红），其效果与抑制乙醛脱氢酶的双硫仑相似（1）。
+这些氧化作用产生氢，从而使氧化型辅酶Ⅰ（NAD）转化为还原型辅酶Ⅰ（NADH），导致肝脏的氧化还原电位升高；
+这些氧化作用产生氢，从而使氧化型辅酶Ⅰ（NAD）转化为还原型辅酶Ⅰ（NADH），导致肝脏的氧化还原电位升高；
+电位升高可抑制脂肪酸氧化作用以及葡萄糖生成，促进肝内脂肪堆积。
+电位升高可抑制脂肪酸氧化作用以及葡萄糖生成，促进肝内脂肪堆积。
+慢性酗酒可诱导MEOS（主要位于内质网），提高它的活性。主要是CYP2E1酶。该系统活化后可代谢20%左右的酒精(2)，但这一过程中会产生有害的反应性氧化物，增加氧化应激及氧自由基的形成。
+
+【肝内脂肪沉积】
+由于以下理由，脂质（甘油三酯）在肝细胞内沉积：
+由于肝脂质氧化分解减少和脂蛋白合成下降所致的肝脏脂肪向外转运功能障碍；
+由于肝脂质氧化分解减少和脂蛋白合成下降所致的肝脏脂肪向外转运功能障碍；
+入肝的脂肪增加，因为肝脏脂质向外转运降低，增加了外周脂肪分解及甘油三酯合成，引起了高脂血症。
+入肝的脂肪增加，因为肝脏脂质向外转运降低，增加了外周脂肪分解及甘油三酯合成，引起了高脂血症。
+肝内脂肪沉积可能引起后续的氧化损伤。
+
+【胃肠道内毒素】
+酒精改变胃肠道通透性，促进肠道对细菌内毒素的吸收。肝脏受损时对内毒素的分解功能下降，从而使肝脏巨噬细胞（库普弗细胞）释放氧自由基，增加氧化损伤。
+
+【氧化损伤】
+导致氧化应激的因素主要包括：
+酒精摄入引起的肝脏高代谢
+酒精摄入引起的肝脏高代谢
+自由基诱导的脂质过氧化损伤
+自由基诱导的脂质过氧化损伤
+酒精引起的营养不良导致保护性抗氧化剂（如谷胱甘肽、维生素A和E）减少。
+酒精引起的营养不良导致保护性抗氧化剂（如谷胱甘肽、维生素A和E）减少。
+酒精氧化产物，如乙醛，与肝细胞膜蛋白相结合形成新抗原引起炎症反应
+酒精氧化产物，如乙醛，与肝细胞膜蛋白相结合形成新抗原引起炎症反应
+脂质过氧化损伤及新抗原促使中性粒细胞和其它白细胞积聚
+脂质过氧化损伤及新抗原促使中性粒细胞和其它白细胞积聚
+白细胞释放炎症因子
+白细胞释放炎症因子
+此外，如果有肝内铁沉积可加剧氧化损伤。酒精相关肝病患者肝内铁元素主要来源于含铁的酒精饮品，铁沉积一般程度中等。此病可与遗传性血色素沉着症相鉴别。
+
+【酒精引起肝细胞炎症、死亡和纤维化】
+酒精性肝病时会产生一个炎症反应的恶性循环，细胞坏死和凋亡导致肝细胞丧失，后续的再生导致纤维化。肝血窦内的星状细胞激活增殖并转变为肌成纤维细胞并产生大量的I型胶原和细胞外基质，致使肝血窦狭窄和阻塞，影响血流。纤维化导致终末肝小静脉狭窄、影响肝脏灌注，引起门脉高压。广泛的纤维化及肝脏再生导致了肝结节样变，最终导致肝硬化。
+
+【病理生理学参考文献】
+1.Yin SJ, Peng GS.Overview of ALDH polymorphism: relation to cardiovascular effects of alcohol.In Preedy VR, Watson RR, eds.Comprehensive Handbook of Alcohol Related Pathology,Vol.1.(VR Preedy, RR Watson eds), pp 409–424.Elsevier; 2005:409-424.
+1.Yin SJ, Peng GS.Overview of ALDH polymorphism: relation to cardiovascular effects of alcohol.In Preedy VR, Watson RR, eds.Comprehensive Handbook of Alcohol Related Pathology,Vol.1.(VR Preedy, RR Watson eds), pp 409–424.Elsevier; 2005:409-424.
+2.Contreras-Zentella ML, Villalobos-García D, Hernández-Muñoz R.Ethanol Metabolism in the Liver, the Induction of Oxidant Stress, and the Antioxidant Defense System.Antioxidants (Basel).2022;11(7):1258.Published 2022 Jun 26.doi:10.3390/antiox11071258
+2.Contreras-Zentella ML, Villalobos-García D, Hernández-Muñoz R.Ethanol Metabolism in the Liver, the Induction of Oxidant Stress, and the Antioxidant Defense System.Antioxidants (Basel).2022;11(7):1258.Published 2022 Jun 26.doi:10.3390/antiox11071258
+
+【病理学酒精性肝病】
+一般认为，肝脂肪变、酒精性肝炎和肝硬化是酒精性肝病中三个不同的发展阶段的表现。然而在具体病例中，它们的特征性表现往往是重叠的。
+酒精相关性肝脂肪变（脂肪肝）是过度饮酒所造成的最早和最多见的结果。肝脂肪变性是可逆的。脂肪肝时由大滴甘油三酯组成的大脂肪泡在肝细胞中堆积，并取代肝细胞核的位置，这一现象多见于静脉周围的肝细胞。肝脏体积增大。
+酒精性肝炎（脂肪性肝炎）是肝脂肪变性、弥散性肝脏炎症和肝细胞坏死（通常是局灶性的）的结合，－随严重度不同有所变化。损伤的肝细胞表现为细胞肿胀，内含颗粒状细胞质（气球样变）或者细胞质内出现纤维蛋白（Mallory或酒精性透明小体）。严重的肝细胞损害会出现坏死。肝窦和终末肝小静脉狭窄。也可能出现肝硬化。
+酒精性肝硬化（alcoholic cirrhosis）是进展性的肝脏疾病，其特点为破坏正常肝脏结构的广泛纤维化。其肝细胞脂肪含量可多可少。可以同时存在酒精性肝炎。肝脏代偿功能微弱，肝细胞再生形成相对小的结节（小结节性肝硬化）。结果肝脏体积缩小。有时，甚至在戒酒后，纤维形成束带分隔肝组织形成大结节（大结节性肝硬化—见肝硬化：病理生理学）。
+
+【酒精相关肝病的症状和体征】
+症状一般在患者30或40岁时出现；十年之后会表现出严重的健康问题。
+酒精相关性肝脂肪变性通常是无症状的。在1/3的脂肪肝患者中，肝脏增大，但表面光滑，偶尔会有压痛。
+脂肪性肝病（脂肪肝）组织切片的光镜图像。这种情况因脂代谢异常导致肝细胞内甘油三酯（光镜下呈白色空隙）积聚。
+苏木精-伊红-藏红花（HES）染色。放大：打印在10厘米时，放大倍数为556倍。
+PROF.J.L.KEMENY / SCIENCE PHOTO LIBRARY
+酒精性肝炎：范围较广，包括从轻度的可逆的病变到致命性病变。在大多数中度病变的病例中，患者表现为营养不良、乏力、发热、黄疸、右上腹痛、肝区肿大和压痛，有时会有肝区杂音。 约40%患者在住院后病情迅速恶化，程度可以轻（黄疸加重）到重（腹水、门体性脑病、食管静脉曲张破裂出血、肝功能不全伴低血糖、凝血障碍），以及其他肝硬化相关的表现。
+肝硬化：代偿期可无症状，肝脏体积多缩小，若肝脏体积增大，则需考虑肝脂肪变性或肝癌。肝硬化的症状包括酒精性肝炎的症状或重至终末期肝病的并发症，通常包括门静脉高压（常伴有食道静脉曲张和上消化道出血、脾大、腹水、门体性脑病）。门脉高压可引起肺内分流，伴低氧血症（肝肺综合征），可出现发绀及杵状指。肝硬化患者由于肾脏血供进行性下降，可能出现继发性急性肾衰竭（肝肾综合征）。此外，10%~15%酒精性肝硬化患者将进展为肝细胞肝癌。
+人类肝脏微结节性肝硬化的光镜图像，这是酒精性肝炎的常见后果。再生结节被含慢性炎性浸润的结缔组织间隔分隔开。注意结节中央静脉缺失且间隔内门管三联结构缺如。
+JOSE CALVO / SCIENCE PHOTO LIBRARY
+慢性过量饮酒，而不是肝脏疾病，会出现掌腱膜挛缩症、蜘蛛痣、肌病和周围神经病变。 长期大量饮酒的男性患者还可能会有性功能减退和女性化表现（例如皮肤光滑、缺乏男性型脱发、男性乳房发育、睾丸萎缩、体毛jian's）等表现。营养不良可导致多重维生素缺乏症（如叶酸、硫胺素），腮腺增大和白甲。 在长期过量饮酒的人中，韦尼克脑病和科尔萨科夫精神病主要来自硫胺素缺乏。胰腺炎是常见的。约>16%-24％的酒精使用障碍患者合并有丙型肝炎(1, 2)；这种组合显著加剧肝病的进展。
+很少在肝脂肪变性或肝硬化患者表现为齐夫综合征（高脂血症、溶血性贫血和黄疸）。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+
+【症状和体征参考】
+1.Novo-Veleiro I, Calle Cde L, Domínguez-Quibén S, et al.Prevalence of hepatitis C virus infection in alcoholic patients: cohort study and systematic review.Alcohol Alcohol.2013;48(5):564-569.doi:10.1093/alcalc/agt044
+1.Novo-Veleiro I, Calle Cde L, Domínguez-Quibén S, et al.Prevalence of hepatitis C virus infection in alcoholic patients: cohort study and systematic review.Alcohol Alcohol.2013;48(5):564-569.doi:10.1093/alcalc/agt044
+2.Laskus T, Radkowski M, Lupa E, et al.Prevalence of markers of hepatitis viruses in out-patient alcoholics.J Hepatol.1992;15(1-2):174-178.doi:10.1016/0168-8278(92)90032-k
+2.Laskus T, Radkowski M, Lupa E, et al.Prevalence of markers of hepatitis viruses in out-patient alcoholics.J Hepatol.1992;15(1-2):174-178.doi:10.1016/0168-8278(92)90032-k
+
+【酒精性肝病的诊断】
+明确的饮酒史
+明确的饮酒史
+酒精生物标志物
+酒精生物标志物
+肝脏检查及全血细胞计数（CBC）
+肝脏检查及全血细胞计数（CBC）
+有时肝活检。
+有时肝活检。
+所有长期过量饮酒者，特别是每日酒精摄入量>80 g的肝病患者都须考虑酒精性肝病，饮酒史须经家属确认。患者可以接受筛查酒精使用障碍使用 CAGE 问卷（需要C下来，A因批评而恼怒，G喝酒很有用，需要一个早晨乙开场白；参见检测酒精中毒。CAGE问卷）或审计（参见酒精使用障碍鉴定测试）。当患者的饮酒量存疑时，可通过家属或酒精生物标志物确认病史，包括尿液或毛发中的葡萄糖醛酸乙酯、尿中的硫酸乙酯以及磷脂酰乙醇（PEth）。PEth 特别有用，因为它的半衰期约为 10 至 14 天，长期大量饮酒则半衰期更长。
+酒精性肝病的诊断缺乏特异的检查，但若怀疑此诊断，需进行肝细胞损伤、分泌和合成功能测试（凝血酶原时间[PT]；血清胆红素、转氨酶和白蛋白水平）以及全血细胞计数，以检测肝损伤和贫血的迹象。
+转氨酶中度升高（<300IU/L），并不反映肝脏损害的程度。天门冬氨酸转氨酶（AST）与丙氨酸转氨酶（ALT）的比值≥2 (1).ALT降低的原因是食物中缺乏磷酸吡哆醛（维生素B6)，其具有促进ALT功能的作用。它对AST的作用较小。GGT升高大多是酒精诱导的酶反应，而不是胆汁淤积、肝脏损害或其他药物作用。血清白蛋白水平有可能下降，多提示营养不良，但有时也可能是肝衰竭所致的蛋白合成能力下降。平均红细胞体积>100fL的巨红细胞症在营养不良的嗜酒者中多见，它反映了酒精对骨髓的直接作用和叶酸缺乏导致巨细胞贫血，这在营养不良的酒精使用障碍患者中很常见。重症肝病的指标包括：
+血清胆红素（反映分泌功能）
+血清胆红素（反映分泌功能）
+PT或INR反映合成功能
+PT或INR反映合成功能
+血小板减少可能是酒精对骨髓的直接毒性造成，也可能是因为门脉高压引起的脾功能亢进。酒精性肝炎可引起中性粒细胞增多症，但需注意有无伴随的感染性疾病（特别是肺炎和自发性腹膜炎）。
+肝脏影像学检查非初步诊断必需，但有助于评估疾病程度、排除其他疾病及监测病情进展（2,3）。腹部超声或CT可提示肝脂肪变性，或显示脾肿大、门脉高压或腹水的证据。振动控制瞬时弹性成像（VCTE）、超声或磁共振弹性成像通过测量肝硬度，来检测晚期无活动性炎症情况下的纤维化。这种有价值的辅助手段可确定纤维化程度，有助于后续监测。
+疑诊为酒精性肝病的患者须行其他筛查以排除其他可治疗的肝病，特别是病毒性肝炎。
+活检在酒精性肝炎及酒精性肝病诊断及预后评估中作用有限，因活检不太可能改变以戒酒和监测肝功能为重点的治疗方案（3）。建议进行肝活检的适应证包括以下：
+临床诊断不明（例如模棱两可的临床表现或实验室检查结果、无法解释的氨基转移酶持续性升高）；
+临床诊断不明（例如模棱两可的临床表现或实验室检查结果、无法解释的氨基转移酶持续性升高）；
+临床考虑>1种病因的肝病（例如酒精性肝病合并病毒性肝炎）；
+临床考虑>1种病因的肝病（例如酒精性肝病合并病毒性肝炎）；
+除确诊肝病之外，肝活检还能鉴别酒精摄入过量作为肝病可能原因，并对肝脏损伤进行分级。如果发现铁质沉积，铁含量与基因检测可以 排除遗传性血色病。
+对稳定的肝硬化患者，美国肝病协会（AASLD）推荐每6个月随访肝脏超声伴或不伴检测甲胎蛋白以筛查肝细胞肝癌。由于未列入移植等待名单的Child C级肝硬化患者的预期生存率较低，AASLD还建议此类患者无需进行监测(4)。
+
+【诊断参考】
+1.Kwo PY, Cohen SM, Lim JK.ACG Clinical Guideline: Evaluation of Abnormal Liver Chemistries.Am J Gastroenterol.2017;112(1):18-35.doi:10.1038/ajg.2016.517
+1.Kwo PY, Cohen SM, Lim JK.ACG Clinical Guideline: Evaluation of Abnormal Liver Chemistries.Am J Gastroenterol.2017;112(1):18-35.doi:10.1038/ajg.2016.517
+2.Maheshwari S, Gu CN, Caserta MP, et al.Imaging of Alcohol-Associated Liver Disease.AJR Am J Roentgenol.2024;222(1):e2329917.doi:10.2214/AJR.23.29917
+2.Maheshwari S, Gu CN, Caserta MP, et al.Imaging of Alcohol-Associated Liver Disease.AJR Am J Roentgenol.2024;222(1):e2329917.doi:10.2214/AJR.23.29917
+3.Crabb DW, Im GY, Szabo G, et al.Diagnosis and Treatment of Alcohol-Associated Liver Diseases: 2019 Practice Guidance From the American Association for the Study of Liver Diseases.Hepatology.2020;71(1):306-333.doi:10.1002/hep.30866
+3.Crabb DW, Im GY, Szabo G, et al.Diagnosis and Treatment of Alcohol-Associated Liver Diseases: 2019 Practice Guidance From the American Association for the Study of Liver Diseases.Hepatology.2020;71(1):306-333.doi:10.1002/hep.30866
+4.Heimbach JK, Kulik LM, Finn RA, et al.AASLD guidelines for the treatment of hepatocellular carcinoma.Hepatology.67(1):358-380, 2018.doi: 10.1002/hep.29086
+4.Heimbach JK, Kulik LM, Finn RA, et al.AASLD guidelines for the treatment of hepatocellular carcinoma.Hepatology.67(1):358-380, 2018.doi: 10.1002/hep.29086
+
+【酒精性肝病的治疗】
+支持治疗
+支持治疗
+重症酒精性肝炎患者可适当应用糖皮质激素和肠内营养
+重症酒精性肝炎患者可适当应用糖皮质激素和肠内营养
+必要时肝脏移植
+必要时肝脏移植
+
+【限制酒精摄入】
+戒酒是主要的治疗措施；它能防止酒精性肝病的进一步损害，从而延长生命。由于患者依从性较差，因而富于同情心的群体疗法十分重要。行为及社会心理干预，能够激发患者的积极性，往往会有极好的效果，包括康复计划和支持团体、（见酒精使用障碍和康复:维持）、初级保健医师简单干预以及阐明探索戒酒主动性的疗法（主动强化疗法）。
+如果使用药物，应补充其他干预措施。阿片受体拮抗剂（纳曲酮或纳洛芬）和调节gamma-氨基丁酸受体的药物（巴氯芬或阿坎酸）可能短期内能减轻饮酒欲和戒断作用。戒酒硫抑制乙醛脱氢酶，使乙醛积聚，因此服药12小时内饮酒将引起脸红及其他不适。但双硫仑证据强度不及其他药物（1,2）。
+
+【支持治疗】
+一般治疗强调支持治疗。提供高营养饮食和补充维生素（特别是B族维生素）在戒酒开始后几天是重要的。戒酒过程中往往需要应用苯二氮䓬类药物（例如地西泮）。但在明显进展性的酒精性肝病患者中，镇静剂过量应用会诱发肝性脑病，故应避免使用。
+重症急性酒精性肝炎需要住院治疗，并且多需要在重症监护室，以便于接受肠内营养（改善营养不良）及特殊并发症（例如感染、食道静脉曲张破裂出血、特殊的营养不良、韦尼克脑病、科萨科夫精神病、电解质紊乱、门脉高压、腹水、门体性脑病）。
+
+【特殊治疗】
+糖皮质激素（例如：泼尼松龙40mg/d口服，持续4周后逐渐减量）可改善重症急性酒精性肝炎患者的预后，适用对象为无感染、胃肠道出血、肾功能衰竭或胰腺炎，且病情严重度评分较高（Maddrey判别函数≥32或MELD评分＞20）的患者（2-4）。在一项大型前瞻性随机对照试验中，泼尼松龙有降低 28 天死亡率的趋势，但没有达到统计学意义（5）。因此，若根据第7天的里尔评分确定对皮质类固醇无反应，则可在完成4周疗程前停用（6, 7）。N-乙酰半胱氨酸可作为糖皮质激素的辅助用药（8）。
+除了糖皮质激素及肠内营养，其他的有效治疗手段目前仍很有限。抗氧化剂（例如S-腺苷-L-蛋氨酸、磷脂酰胆碱和美他多辛）在早期肝硬化有望改善肝脏损伤，但需作进一步研究。针对细胞因子（特别是肿瘤坏死因子[TNF]-α）以减轻炎症的疗法，在小型试验中结果不一（9）。尽管早期结果不一，但己酮可可碱（一种抑制TNF-α合成的磷酸二酯酶抑制剂）尚未被证明能改善严重酒精性肝炎患者的预后（5）。 相反，使用抑制TNF-alpha的生物制剂（例如英夫利西单抗和依那西普），感染的风险超过获益。 抗纤维化药物（例如秋水仙素、青霉胺）和减轻嗜酒者肝脏高代谢状态药物（例如丙硫尿嘧啶）无明确疗效。抗氧化药物，例如水飞蓟素（水飞蓟提取物）和维生素A和E，无治疗作用。
+尽管戒酒，但所有失代偿性肝病（腹水、自发性细菌性腹膜炎、静脉曲张出血、肝性脑病）患者都应考虑进行酒精相关性肝硬化的肝移植。通过移植，五年生存率与那些与酒精无关的肝病患者相当。美国肝病研究协会 (AASLD) 和美国胃肠病学会认识到要求戒酒 6 个月的历史规则的局限性，转而鼓励在评估候选人时，重点在于预测其在移植前后保持戒酒的可能性，而非单纯依据戒酒时间的长短（4，10）。临床医生应向患者提供关于酒精滥用治疗方案的咨询。
+在新冠肺炎大流行期间，移植等待登记人数比新冠肺炎前的预测增加了50%以上，这可能是由于酒精使用障碍的增加以及移植中心风险分层的变化（11, 12）。
+
+【治疗参考文献】
+1.Perry C, Liberto J, Milliken C, et al.The Management of Substance Use Disorders: Synopsis of the 2021 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline.Ann Intern Med.2022;175(5):720-731.doi:10.7326/M21-4011
+1.Perry C, Liberto J, Milliken C, et al.The Management of Substance Use Disorders: Synopsis of the 2021 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline.Ann Intern Med.2022;175(5):720-731.doi:10.7326/M21-4011
+2.Crabb DW, Im GY, Szabo G, et al.Diagnosis and Treatment of Alcohol-Associated Liver Diseases: 2019 Practice Guidance From the American Association for the Study of Liver Diseases.Hepatology.2020;71(1):306-333.doi:10.1002/hep.30866
+2.Crabb DW, Im GY, Szabo G, et al.Diagnosis and Treatment of Alcohol-Associated Liver Diseases: 2019 Practice Guidance From the American Association for the Study of Liver Diseases.Hepatology.2020;71(1):306-333.doi:10.1002/hep.30866
+3.Rambaldi A, Saconato HH, Christensen E, et al.Systematic review: Glucocorticosteroids for alcoholic hepatitis—A Cochrane Hepato-Biliary Group systematic review with meta-analyses and trial sequential analyses of randomized clinical trials.Aliment Pharmacol Ther.27(12):1167-1178, 2008.doi: 10.1111/j.1365-2036.2008.03685.x
+3.Rambaldi A, Saconato HH, Christensen E, et al.Systematic review: Glucocorticosteroids for alcoholic hepatitis—A Cochrane Hepato-Biliary Group systematic review with meta-analyses and trial sequential analyses of randomized clinical trials.Aliment Pharmacol Ther.27(12):1167-1178, 2008.doi: 10.1111/j.1365-2036.2008.03685.x
+4.Jophlin LL, Singal AK, Bataller R, et al.ACG Clinical Guideline: Alcohol-Associated Liver Disease.Am J Gastroenterol.2024 Jan 1;119(1):30-54.doi: 10.14309/ajg.0000000000002572.Epub 2023 Sep 1.PMID: 38174913; PMCID: PMC11040545.
+4.Jophlin LL, Singal AK, Bataller R, et al.ACG Clinical Guideline: Alcohol-Associated Liver Disease.Am J Gastroenterol.2024 Jan 1;119(1):30-54.doi: 10.14309/ajg.0000000000002572.Epub 2023 Sep 1.PMID: 38174913; PMCID: PMC11040545.
+5.Thursz MR, Richardson P, Allison M, et al.Prednisoloneorpentoxifyllinefor alcoholic hepatitis.N Engl J Med.372:1619-1628, 2015.doi: 10.1056/NEJMoa1412278
+5.Thursz MR, Richardson P, Allison M, et al.Prednisoloneorpentoxifyllinefor alcoholic hepatitis.N Engl J Med.372:1619-1628, 2015.doi: 10.1056/NEJMoa1412278
+6.Forrest EH, Atkinson SR, Richardson P, et al.Application of prognostic scores in the STOPAH trial: Discriminant function is no longer the optimal scoring system in alcoholic hepatitis.J Hepatol.68(3):511-518, 2018. doi: 10.1016/j.jhep.2017.11.017
+6.Forrest EH, Atkinson SR, Richardson P, et al.Application of prognostic scores in the STOPAH trial: Discriminant function is no longer the optimal scoring system in alcoholic hepatitis.J Hepatol.68(3):511-518, 2018. doi: 10.1016/j.jhep.2017.11.017
+7.Bataller R, Arab JP, Shah VH.Alcohol-Associated Hepatitis.N Engl J Med.2022;387(26):2436-2448.doi:10.1056/NEJMra2207599
+7.Bataller R, Arab JP, Shah VH.Alcohol-Associated Hepatitis.N Engl J Med.2022;387(26):2436-2448.doi:10.1056/NEJMra2207599
+8.Nguyen-Khac E, Thevenot T, Piquet MA, et al.Glucocorticoids plus N-acetylcysteine in severe alcoholic hepatitis.N Engl J Med.2011;365(19):1781-1789.doi:10.1056/NEJMoa1101214
+8.Nguyen-Khac E, Thevenot T, Piquet MA, et al.Glucocorticoids plus N-acetylcysteine in severe alcoholic hepatitis.N Engl J Med.2011;365(19):1781-1789.doi:10.1056/NEJMoa1101214
+9.Naveau S, Chollet-Martin S, Dharancy S, et al.A double-blind randomized controlled trial of infliximab associated with prednisolone in acute alcoholic hepatitis.Hepatology.2004;39(5):1390-1397.doi:10.1002/hep.20206
+9.Naveau S, Chollet-Martin S, Dharancy S, et al.A double-blind randomized controlled trial of infliximab associated with prednisolone in acute alcoholic hepatitis.Hepatology.2004;39(5):1390-1397.doi:10.1002/hep.20206
+10.Martin P, DiMartini A, Feng S, et al.Evaluation for liver transplantation in adults: 2013 practice guideline by the American Association for the Study of Liver Diseases and the American Society of Transplantation.Hepatology.2014;59(3):1144-1165.doi:10.1002/hep.26972
+10.Martin P, DiMartini A, Feng S, et al.Evaluation for liver transplantation in adults: 2013 practice guideline by the American Association for the Study of Liver Diseases and the American Society of Transplantation.Hepatology.2014;59(3):1144-1165.doi:10.1002/hep.26972
+11.Anderson MS, Valbuena VSM, Brown CS, et al.Association of COVID-19 With New Waiting List Registrations and Liver Transplantation for Alcoholic Hepatitis in the United States.JAMA Netw Open.4(10):e2131132, 2021.doi:10.1001/jamanetworkopen.2021.31132
+11.Anderson MS, Valbuena VSM, Brown CS, et al.Association of COVID-19 With New Waiting List Registrations and Liver Transplantation for Alcoholic Hepatitis in the United States.JAMA Netw Open.4(10):e2131132, 2021.doi:10.1001/jamanetworkopen.2021.31132
+12.Bittermann T, Mahmud N, Abt P.Trends in Liver Transplantation for Acute Alcohol-Associated Hepatitis During the COVID-19 Pandemic in the US.JAMA Netw Open.4(7):e2118713, 2021.doi:10.1001/jamanetworkopen.2021.18713
+12.Bittermann T, Mahmud N, Abt P.Trends in Liver Transplantation for Acute Alcohol-Associated Hepatitis During the COVID-19 Pandemic in the US.JAMA Netw Open.4(7):e2118713, 2021.doi:10.1001/jamanetworkopen.2021.18713
+
+【酒精性肝病的预后】
+预后取决于肝纤维化和炎症的程度。不伴有纤维化的肝脂肪变性和酒精性肝炎在戒酒后是可逆的；纤维化和肝硬化是不可逆的。
+某些活检特征（例如中性粒细胞浸润、静脉周围纤维化等）提示预后不良。目前推荐一些肝衰竭的定量指标来预测酒精性肝病的严重度和死亡风险，例如凝血酶原时间、血肌酐（用于肝肾综合征）和胆红素水平。可使用Maddrey判别函数，按下公式进行计算：
+该公式中，胆红素单位为mg/dL（micromol/L除以17后转换而得）。数值≥32与短期高死亡率相关。其他指数还包括终末期肝病（MELD）评分、Glasgow酒精性肝炎评分和Lille评分等。如患者≥12岁，MELD评分使用以下公式计算：
+一旦肝硬化及其并发症（例如，腹水、出血）出现，所有酒精性肝硬化患者的总体 5 年生存率约为 50%，尽管未患脑病的患者的生存率更高。长期戒酒（超过1.5年）可提高生存率（1-3）。
+酒精性肝病若同时存在铁沉积或丙肝感染，易发生肝细胞肝癌。
+
+【预后参考】
+1.Sahlman P, Nissinen M, Pukkala E, et al.Incidence, survival and cause-specific mortality in alcoholic liver disease: a population-based cohort study.Scand J Gastroenterol.2016;51(8):961-966.doi:10.3109/00365521.2016.1157889
+1.Sahlman P, Nissinen M, Pukkala E, et al.Incidence, survival and cause-specific mortality in alcoholic liver disease: a population-based cohort study.Scand J Gastroenterol.2016;51(8):961-966.doi:10.3109/00365521.2016.1157889
+2.Nilsson E, Anderson H, Sargenti K, et al.Incidence, clinical presentation and mortality of liver cirrhosis in Southern Sweden: a 10-year population-based study.Aliment Pharmacol Ther.2016;43(12):1330-1339.doi:10.1111/apt.13635
+2.Nilsson E, Anderson H, Sargenti K, et al.Incidence, clinical presentation and mortality of liver cirrhosis in Southern Sweden: a 10-year population-based study.Aliment Pharmacol Ther.2016;43(12):1330-1339.doi:10.1111/apt.13635
+3.Xie YD, Feng B, Gao Y, et al.Effect of abstinence from alcohol on survival of patients with alcoholic cirrhosis: A systematic review and meta-analysis.Hepatol Res.2014;44(4):436-449.doi:10.1111/hepr.12131
+3.Xie YD, Feng B, Gao Y, et al.Effect of abstinence from alcohol on survival of patients with alcoholic cirrhosis: A systematic review and meta-analysis.Hepatol Res.2014;44(4):436-449.doi:10.1111/hepr.12131
+男性如果摄入>60 g 酒精/天（每天超过 4 杯或每周超过 14 杯），其患酒精相关肝病的风险会显著增加；女性如果摄入量达到上述数值的一半（或更少），其患酒精相关肝病的风险也会显著增加。
+男性如果摄入>60 g 酒精/天（每天超过 4 杯或每周超过 14 杯），其患酒精相关肝病的风险会显著增加；女性如果摄入量达到上述数值的一半（或更少），其患酒精相关肝病的风险也会显著增加。
+使用AUDIT或CAGE问卷筛查患者，在对病人的饮酒有疑问时，考虑使用酒精生物标志物。
+使用AUDIT或CAGE问卷筛查患者，在对病人的饮酒有疑问时，考虑使用酒精生物标志物。
+要评估预后，请使用公式（例如，Maddrey判别函数、终末期肝病模型[MELD]评分）。
+要评估预后，请使用公式（例如，Maddrey判别函数、终末期肝病模型[MELD]评分）。
+对于重度急性酒精性肝炎患者，应强调戒酒，提供支持治疗，予以住院管理，并考虑应用糖皮质激素。
+对于重度急性酒精性肝炎患者，应强调戒酒，提供支持治疗，予以住院管理，并考虑应用糖皮质激素。
+尽管戒酒，但考虑对失代偿性肝病（腹水、自发性细菌性腹膜炎、静脉曲张出血、肝性脑病）患者进行肝移植。
+尽管戒酒，但考虑对失代偿性肝病（腹水、自发性细菌性腹膜炎、静脉曲张出血、肝性脑病）患者进行肝移植。

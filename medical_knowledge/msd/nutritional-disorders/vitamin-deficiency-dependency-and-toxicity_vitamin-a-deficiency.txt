@@ -1,0 +1,81 @@
+标题：维生素A缺乏症
+来源：https://www.msdmanuals.cn/professional/nutritional-disorders/vitamin-deficiency-dependency-and-toxicity/vitamin-a-deficiency
+============================================================
+
+维生素A是构成视紫红质所必需的，视紫红质是视网膜中的一种感光色素（见表维生素的来源、功能和作用）。维生素A帮助维持上皮组织，对溶酶体的稳定性和糖蛋白合成很重要。
+预制维生素A的膳食来源包括鱼肝油、肝脏、蛋黄、黄油和强化维生素A的乳制品。β- 胡萝卜素及其他维生素原类胡萝卜素（存在于绿叶蔬菜、黄色蔬菜、胡萝卜、深色 / 亮色水果中）可转化为维生素A。 蔬菜中的类胡萝卜素经脂类（如食用油）烹调和匀化后吸收更好。通常情况下，肝脏储存人体80％至90％的维生素A。机体将维生素A释放入血，后者与前白蛋白和视黄醇结合蛋白相结合。
+视黄醇活性当量（RAE）的提出，是因为维生素原 A 类胡萝卜素的维生素A活性低于预成维生素A，1 微克视黄醇 = 3.33 单位。
+合成型类维生素A（视黄醇衍生物）越来越多地被应用于皮肤病学。β- 胡萝卜素与类视黄醇对部分上皮癌的潜在保护作用正在研究中，但不推荐将其用于癌症或心血管疾病的预防（1）。然而，补充β-胡萝卜素后，某些癌症（如肺癌）的风险（2）和心血管风险（3）可能会增加。
+参见维生素概述
+
+【参考文献】
+1.Moyer VA; U.S. Preventive Services Task Force.Vitamin, mineral, and multivitamin supplements for the primary prevention of cardiovascular disease and cancer: U.S. Preventive services Task Force recommendation statement.Ann Intern Med.2014;160(8):558-564.doi:10.7326/M14-0198
+1.Moyer VA; U.S. Preventive Services Task Force.Vitamin, mineral, and multivitamin supplements for the primary prevention of cardiovascular disease and cancer: U.S. Preventive services Task Force recommendation statement.Ann Intern Med.2014;160(8):558-564.doi:10.7326/M14-0198
+2.O'Connor EA, Evans CV, Ivlev I, et al.Vitamin and Mineral Supplements for the Primary Prevention of Cardiovascular Disease and Cancer: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force.JAMA.2022;327(23):2334-2347.doi:10.1001/jama.2021.15650
+2.O'Connor EA, Evans CV, Ivlev I, et al.Vitamin and Mineral Supplements for the Primary Prevention of Cardiovascular Disease and Cancer: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force.JAMA.2022;327(23):2334-2347.doi:10.1001/jama.2021.15650
+3.Yang J, Zhang Y, Na X, Zhao A.β-Carotene Supplementation and Risk of Cardiovascular Disease: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.Nutrients.2022;14(6):1284.Published 2022 Mar 18.doi:10.3390/nu14061284
+3.Yang J, Zhang Y, Na X, Zhao A.β-Carotene Supplementation and Risk of Cardiovascular Disease: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.Nutrients.2022;14(6):1284.Published 2022 Mar 18.doi:10.3390/nu14061284
+
+【维生素A缺乏症的病因】
+原发性维生素A缺乏症通常因
+长期的膳食摄入不足
+长期的膳食摄入不足
+这种缺乏症在南亚和东亚等地区十分普遍，这些地区的主食是缺乏β -胡萝卜素的大米。在食物不安全率高的国家，原发性缺乏导致的干眼症是幼儿失明的常见原因。
+继发维生素A缺乏症可能是由于
+维生素前体A类胡萝卜素的生物活性下降。
+维生素前体A类胡萝卜素的生物活性下降。
+干扰维生素A的吸收、储存或转运
+干扰维生素A的吸收、储存或转运
+吸收或储存障碍可能发生在乳糜泻、囊性纤维化、胰腺功能不全、十二指肠旁路术、慢性腹泻、胆管梗阻、贾第鞭毛虫病和肝硬化。维生素A缺乏症在长期的蛋白质-热量营养不良中很常见，这不仅因为饮食的缺乏，还因为维生素A的储存和运输有缺陷。
+
+【维生素A缺乏的症状和体征】
+这张图片显示了结膜的慢性干燥，伴角化斑（称为毕脱斑，箭头所示）。
+Photo courtesy of the Nutrition Program via the Public Health Image Library of the Centers for Disease Control and Prevention.
+维生素A缺乏的早期症状是眼睛的暗适应能力受损，可能导致夜盲症。干眼病（几乎具有特异性）是眼部角化的结果。它包括干燥（干燥症）和结膜、角膜增厚。（眼部）会出现表浅的泡沫状斑，由上皮碎屑与分泌物组成，位于暴露的球结膜处（毕脱斑）。在严重缺乏时，眼角膜变得浑浊，进而糜烂，最终导致结构破坏（角膜软化）。
+皮肤、呼吸道、消化道和泌尿道的黏膜也可发生角质化。可能导致皮肤干燥，结垢、毛囊增厚以及呼吸道感染。
+免疫力普遍受损。
+患者年龄越小，维生素A缺乏引起的损伤越严重。发育迟缓和感染在儿童中很常见。重度维生素A缺乏症的儿童死亡率可超过50％(1)。
+
+【症状和体征】
+1.World Health Organization.维生素A缺乏。Accessed July 29, 2024.
+1.World Health Organization.维生素A缺乏。Accessed July 29, 2024.
+
+【维生素A缺乏症的诊断】
+血清视黄醇水平、临床评估及对维生素 A 的治疗反应
+血清视黄醇水平、临床评估及对维生素 A 的治疗反应
+眼部的特异性表现有助于维生素A缺乏症的诊断。 暗适应能力下降也可见于其他疾病，如：锌缺乏症、色素性视网膜炎、严重的屈光不正、白内障、糖尿病性视网膜病。若暗适应受损，需行杆体视野计检查与视网膜电图检查，以明确是否由维生素A缺乏所致。
+检测血清视黄醇水平。正常范围是28-86 mcg/dL（1-3 mcmol/L）。但是，由于肝脏中含有大量的维生素A，因此只有在病情加重后，水平才会降低。此外，在急性感染期间，视黄醇水平也会下降，同时还伴有视黄醇结合蛋白和甲状腺素转运蛋白（也称作前白蛋白）的短期间下降。
+维生素A的治疗性试验有助于明确诊断。
+
+【维生素A缺乏症的治疗】
+维生素A
+维生素A
+传统上，维生素A膳食缺乏的治疗方案是：油剂维生素 A 棕榈酸酯 60000 国际单位（IU，即 18000 微克 RAE），每日口服 1 次，连用 2 天；之后改为 4500 IU，每日口服 1 次。如果出现呕吐或吸收不良，或可能有干眼症，可以进行肌肉注射。
+麻疹患者也需要补充维生素A，因为维生素A缺乏是重症麻疹的危险因素；补充维生素 A 可缩短病程，还可能减轻症状严重程度、降低死亡风险。剂量取决于年龄：
+≥12个月（包括成人）：200,000 IU（60,000 mcg RAE）
+≥12个月（包括成人）：200,000 IU（60,000 mcg RAE）
+6 至 11 个月：100,000 IU（30,000 mcg RAE）
+6 至 11 个月：100,000 IU（30,000 mcg RAE）
+< 6 个月：50,000 IU（15,000 mcg RAE）
+< 6 个月：50,000 IU（15,000 mcg RAE）
+每天口服一次，连续服用两天，至少两周后服用第三剂。
+母亲感染 HIV 的婴儿应在出生后 48 小时内接受 50,000 IU（15,000 mcg RAE）。必须避免长期大剂量的使用，特别对于婴儿，因为可能会引起维生素A中毒 (1)。
+对孕妇或哺乳期妇女，预防或治疗剂量不应超过10,000 IU（3,000 mcg RAE）/天，以免对胎儿或婴儿产生损害。
+
+【参考文献】
+1.Annan RA.Vitamin Asupplementation and disease progression in HIV-infected adults.Accessed July 30, 2024.
+1.Annan RA.Vitamin Asupplementation and disease progression in HIV-infected adults.Accessed July 30, 2024.
+
+【维生素A缺乏症的预防】
+膳食应包含深色绿叶蔬菜、深色或有色水果（如木瓜和橘子）、胡萝卜以及黄色蔬菜（如葫芦和南瓜）。维生素A强化的牛奶和谷物、肝脏、蛋黄以及鱼肝油对预防维生素A缺乏症非常有益。类胡萝卜素与脂肪同食有利于吸收。如果疑有牛奶过敏，在给予婴儿配方奶喂养时注意提供适宜的维生素A。
+在食物安全风险较高的国家，建议所有 1-5 岁儿童每 6 个月口服 1 次油剂维生素 A 棕榈酸酯预防剂（200000 IU，即 60000 微克视黄醇活性当量 [RAE]）；<6 月龄婴儿可单次给予 50000 IU（15000 微克 RAE），6-12 月龄婴儿可单次给予 100000 IU（30000 微克 RAE）。
+维生素A缺乏通常由膳食缺乏导致（如以不含 β- 胡萝卜素的大米为主食的地区），但也可能由干扰维生素A吸收、储存或转运的疾病引起。
+维生素A缺乏通常由膳食缺乏导致（如以不含 β- 胡萝卜素的大米为主食的地区），但也可能由干扰维生素A吸收、储存或转运的疾病引起。
+眼部表现包括夜视能力受损（早期），结膜角化和角膜软化。
+眼部表现包括夜视能力受损（早期），结膜角化和角膜软化。
+在严重缺乏的儿童中，生长迟缓和感染的风险增加。
+在严重缺乏的儿童中，生长迟缓和感染的风险增加。
+诊断依据典型的眼部表现和视黄醇水平低下。
+诊断依据典型的眼部表现和视黄醇水平低下。
+使用维生素 A 棕榈酸酯治疗。
+使用维生素 A 棕榈酸酯治疗。

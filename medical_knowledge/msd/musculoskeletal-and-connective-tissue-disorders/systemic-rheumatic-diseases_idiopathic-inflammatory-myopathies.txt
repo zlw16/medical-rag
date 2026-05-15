@@ -1,0 +1,257 @@
+标题：特发性炎症性肌病
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/systemic-rheumatic-diseases/idiopathic-inflammatory-myopathies
+============================================================
+
+除包涵体肌炎外，大多数其他形式的特发性炎症性肌病在女性中比男性更常见（1）。本病可发生于各个年龄段，但发病率最高的是40～60岁者或5～15岁的儿童。
+
+【参考文献】
+1.Lilleker JB, Vencovsky J, Wang G, et al.The EuroMyositis registry: an international collaborative tool to facilitate myositis research.Ann Rheum Dis.2018;77(1):30-39.doi:10.1136/annrheumdis-2017-211868
+1.Lilleker JB, Vencovsky J, Wang G, et al.The EuroMyositis registry: an international collaborative tool to facilitate myositis research.Ann Rheum Dis.2018;77(1):30-39.doi:10.1136/annrheumdis-2017-211868
+
+【特发性炎性肌病的病因】
+特发性炎性肌病的病因似乎是遗传易感人群对肌肉组织的自身免疫反应。 发生家族聚集，人类白细胞抗原 (HLA) 亚型与肌炎有关。 例如，8.1 祖先单倍型 (HLA-DRB1*03-DQA1*05-DQB1*02) 的等位基因会增加多发性肌炎、皮肌炎和间质性肺病.可能的诱发事件包括病毒感染、某些药物和潜在的癌症。癌症与皮肌炎和坏死性肌病的关联表明，肿瘤可能由于对肌肉和肿瘤中共同抗原的自身免疫反应而引发肌炎（1）。免疫检查点抑制剂（用于治疗某些癌症）可能会诱发严重的肌炎，有时还会诱发心肌炎和重症肌无力（三重 M综合征）。
+
+【病因参考文献】
+1.De Vooght J, Vulsteke JB, De Haes P, Bossuyt X, Lories R, De Langhe E.Anti-TIF1-γ autoantibodies: warning lights of a tumour autoantigen.Rheumatology (Oxford).2020;59(3):469-477.doi:10.1093/rheumatology/kez572
+1.De Vooght J, Vulsteke JB, De Haes P, Bossuyt X, Lories R, De Langhe E.Anti-TIF1-γ autoantibodies: warning lights of a tumour autoantigen.Rheumatology (Oxford).2020;59(3):469-477.doi:10.1093/rheumatology/kez572
+
+【特发性炎症性肌病的病理生理学】
+病理变化包括细胞损伤、萎缩并伴有不同程度的炎症。手部、足部及面肌的受累轻于骨骼肌的受累。咽、食道上段和偶见心脏的肌肉受累会导致相应器官的功能障碍。炎症亦可发生于关节和肺，尤其见于抗合成酶抗体阳性的患者。
+在皮肌炎中，特征性的免疫复合物沉积在血管中，被认为是免疫复合物介导的血管病变。相反，多发性肌炎以直接T细胞介导的肌肉损伤为特征，坏死性免疫介导的肌病以巨噬细胞为主的浸润和噬肌细胞增多为特征 (1)。
+
+【病理生理学参考文献】
+1.Mammen A: Autoimmune muscle disease.Handb Clin Neurol.2016;133:467–484.doi:10.1016/B978-0-444-63432-0.00025-6
+1.Mammen A: Autoimmune muscle disease.Handb Clin Neurol.2016;133:467–484.doi:10.1016/B978-0-444-63432-0.00025-6
+
+【特发性炎症性肌病的分类】
+特发性炎症性肌病可分为几个亚组，主要基于组织病理学和临床表现（1)：
+皮肌炎（包括无肌病性皮肌炎）
+皮肌炎（包括无肌病性皮肌炎）
+抗合成酶综合征
+抗合成酶综合征
+免疫介导的坏死性肌病
+免疫介导的坏死性肌病
+包涵体肌炎
+包涵体肌炎
+重叠性肌炎
+重叠性肌炎
+皮肌炎的特征是存在独特的皮肤表现，例如向阳性皮疹、戈特隆丘疹以及披肩征和 V 字征，而其他炎性肌病中不存在这些症状。营养不良性钙化被认为是皮肌炎的独特特征，发生在青少年中，在成人中较少见。
+抗合成酶综合征的症状可能是多种特征的结合，包括血清阴性炎症性关节炎（通常无糜烂性）、发热、间质性肺病、近端肌无力、手指桡侧角化过度（机械人的手）和雷诺综合征。
+免疫介导的坏死性肌病最常包括信号识别颗粒（SRP）抗体相关的肌炎和他汀类药物诱导的肌炎。这些肌病通常表现为严重的症状，常伴有吞咽困难、呼吸肌受累和肌酸激酶（CK）水平显著升高，但与间质性肺病或皮肤病表现无关。
+包涵体肌炎会导致腿部近端肌肉无力，和常涉及远端肌肉（如手和脚肌肉），通常伴有肌肉萎缩。与其他炎症性肌病相比，它的发病年龄较大，进展较慢，肌肉酶水平较低，并且通常对免疫抑制治疗没有反应。
+多发性肌炎是一种罕见的炎性肌病，因此该术语较少使用。多发性肌炎患者即使罹患肌炎也不会累及皮肤。
+炎性肌病也可与其他系统性风湿病重叠，如系统性红斑狼疮和系统性硬化症。重叠性肌炎患者除肌炎外，还具有其他疾病的症状和体征。
+
+【分类参考文献】
+1.Lundberg IE, Fujimoto M, Vencovsky J, et al.Idiopathic inflammatory myopathies.Nat Rev Dis Primers7(1):86, 2021.doi:10.1038/s41572-021-00321-x
+1.Lundberg IE, Fujimoto M, Vencovsky J, et al.Idiopathic inflammatory myopathies.Nat Rev Dis Primers7(1):86, 2021.doi:10.1038/s41572-021-00321-x
+
+【特发性炎症性肌病的症状和体征】
+炎症性肌病的发病可能是急性的（特别是儿童）或隐匿性的（特别是成人）。 多关节痛，雷诺综合征，吞咽困难，肺部症状(如咳嗽、呼吸困难)及全身不适（显著发热、疲劳、体重下降）亦可能发生。 重症的特征是吞咽困难，发音困难和/或膈肌无力。
+肌无力可在数周至数月内缓慢进展。患者可能难以将手臂举过肩膀（如梳头时）、爬台阶或从坐姿起身。有时除了无力外，还会出现肌肉压痛和萎缩。由于骨盆带肌和肩胛带肌的无力，患者可能需要使用轮椅或卧床生活。颈屈肌常受累严重，往往导致患者卧位抬头困难。咽部和食道上段肌肉受累可导致吞咽困难及肺部的吸入性肺炎。除了包涵体肌炎外，手、脚、眼睛和面部的肌肉不受累，包涵体肌炎的特征是远端受累，尤其是手。很少发生肢体挛缩。
+关节表现包括多关节痛或多关节炎，伴有肿胀和其他非退化性关节炎的特征。较多出现在抗Jo-1抗体或其他抗合成酶抗体阳性的患者。
+内脏受累（除咽部和食道上部外）在特发性炎性肌病中比在某些其他系统性风湿病中少见（例如，系统性红斑狼疮，系统性硬化症）。偶尔，尤其是抗合成酶抗体患者，间质性肺病和相关肺动脉高压（表现为呼吸困难和咳嗽）是最突出的表现。可发生心脏受累，特别是心包炎和心肌病。胃肠道症状在系统性硬化症重叠综合征患者中更为常见。在青少年皮肌炎患者中，可能发生相关的胃肠道血管炎，表现为腹痛、呕血、黑黑或缺血性肠穿孔。
+皮肤改变，见于皮肌炎，往往是暗色和红斑，当伴有光敏性和皮肤溃疡时，皮肤变化是严重的。眼眶周围的水肿性淡紫色斑为本病的相对特征性皮肤改变。头皮上的皮疹可呈牛皮癣状并剧烈瘙痒。在其他地方，皮疹可能轻微升高，光滑或鳞状；它可能特征性地出现在前额、颈部和肩部的V部、胸部和背部、前臂和小腿、大腿外侧、肘部和膝盖、内侧踝以及近端指间关节和掌指关节的背侧（Gottron丘疹——一种相对特殊的发现）。角质层过度生长很常见。皮下和肌肉钙化可能发生，特别是在幼年型患者。 皮损可完全消退，但可残留继发改变（皮肤褐色样变、萎缩、持续的新血管形成或瘢痕）。
+特征性皮肤变化可发生在没有肌肉疾病的情况下（肌萎缩性皮肌炎）。
+这张照片显示的是皮肌炎患者脸上的皮肤爆发。该患者的前额、脸颊和鼻梁上有光分布性红斑。她的上眼睑和眶周区域出现紫色红斑，与日光疹一致。
+这张照片显示的是皮肌炎患者脸上的皮肤爆发。该患者的前额、脸颊和鼻梁上有光分布性红斑。她的上眼睑和眶周区域出现紫色红斑，与日光疹一致。
+RICHARD USATINE MD / SCIENCE PHOTO LIBRARY
+这张照片显示结肠癌患者的皮肌炎皮肤表现。颈部光分布区出现暗色红斑疹（V征），这是皮肌炎的特征。
+这张照片显示结肠癌患者的皮肌炎皮肤表现。颈部光分布区出现暗色红斑疹（V征），这是皮肌炎的特征。
+Photo courtesy of Karen McKoy, MD.
+Gottron丘疹为分布于近端指间关节和掌指关节伸面的鳞状，红斑状或紫斑丘疹。
+Gottron丘疹为分布于近端指间关节和掌指关节伸面的鳞状，红斑状或紫斑丘疹。
+© Springer Science+Business Media
+这张照片显示掌指关节和指间关节上的红斑丘疹和角质层过度生长。
+这张照片显示掌指关节和指间关节上的红斑丘疹和角质层过度生长。
+Photo courtesy of Kinanah Yaseen, MD.
+这张照片显示Gottron丘疹（掌指关节的），皮下钙化（掌指关节，近端和远端指间关节）以及掌周红斑和增厚。
+这张照片显示Gottron丘疹（掌指关节的），皮下钙化（掌指关节，近端和远端指间关节）以及掌周红斑和增厚。
+© Springer Science+Business Media
+此图像显示由皮肌炎引起的暗色红斑皮肤变化。
+此图像显示由皮肌炎引起的暗色红斑皮肤变化。
+Photo courtesy of Karen McKoy, MD.
+这张照片显示抗合成酶综合征患者的角化过度和手指侧裂。
+这张照片显示抗合成酶综合征患者的角化过度和手指侧裂。
+© Springer Science+Business Media
+这张照片显示了手指尖端和侧面皮肤角化过度的变化。
+这张照片显示了手指尖端和侧面皮肤角化过度的变化。
+Photo courtesy of Kinanah Yaseen, MD.
+这张照片显示的是皮肌炎患者脸上的皮肤爆发。该患者的前额、脸颊和鼻梁上有光分布性红斑。她的上眼睑和眶周区域出现紫色红斑，与日光疹一致。
+这张照片显示的是皮肌炎患者脸上的皮肤爆发。该患者的前额、脸颊和鼻梁上有光分布性红斑。她的上眼睑和眶周区域出现紫色红斑，与日光疹一致。
+RICHARD USATINE MD / SCIENCE PHOTO LIBRARY
+这张照片显示结肠癌患者的皮肌炎皮肤表现。颈部光分布区出现暗色红斑疹（V征），这是皮肌炎的特征。
+这张照片显示结肠癌患者的皮肌炎皮肤表现。颈部光分布区出现暗色红斑疹（V征），这是皮肌炎的特征。
+Photo courtesy of Karen McKoy, MD.
+Gottron丘疹为分布于近端指间关节和掌指关节伸面的鳞状，红斑状或紫斑丘疹。
+Gottron丘疹为分布于近端指间关节和掌指关节伸面的鳞状，红斑状或紫斑丘疹。
+© Springer Science+Business Media
+这张照片显示掌指关节和指间关节上的红斑丘疹和角质层过度生长。
+这张照片显示掌指关节和指间关节上的红斑丘疹和角质层过度生长。
+Photo courtesy of Kinanah Yaseen, MD.
+这张照片显示Gottron丘疹（掌指关节的），皮下钙化（掌指关节，近端和远端指间关节）以及掌周红斑和增厚。
+这张照片显示Gottron丘疹（掌指关节的），皮下钙化（掌指关节，近端和远端指间关节）以及掌周红斑和增厚。
+© Springer Science+Business Media
+此图像显示由皮肌炎引起的暗色红斑皮肤变化。
+此图像显示由皮肌炎引起的暗色红斑皮肤变化。
+Photo courtesy of Karen McKoy, MD.
+这张照片显示抗合成酶综合征患者的角化过度和手指侧裂。
+这张照片显示抗合成酶综合征患者的角化过度和手指侧裂。
+© Springer Science+Business Media
+这张照片显示了手指尖端和侧面皮肤角化过度的变化。
+这张照片显示了手指尖端和侧面皮肤角化过度的变化。
+Photo courtesy of Kinanah Yaseen, MD.
+
+【特发性炎症性肌病的诊断】
+病史和体格检查
+病史和体格检查
+实验室检查、肌电图、磁共振成像 (MRI)，有时活检
+实验室检查、肌电图、磁共振成像 (MRI)，有时活检
+诊断炎症性肌病除了需要实验室检查、肌电图、MRI以及组织学评估（如果有的话）外，还需要详细的临床病史和体格检查。
+
+【实验室检查】
+实验室研究可以增加或减少对炎性肌病的怀疑，评估器官受累及其严重程度，并有助于确定重叠综合征。
+肌肉酶，包括肌酸激酶 (CK)、醛缩酶和氨基转移酶，可能升高。CK被认为是最具特异性的检测指标；醛缩酶和转氨酶也存在于肝细胞中。骨骼肌也可以释放肌钙蛋白T。然而，肌钙蛋白I升高可能表明心脏受到影响。
+应检测肌炎特异性自身抗体，有时也检测肌炎相关自身抗体，其中一些抗体可作为抗体谱进行检测。抗核抗体在80%的皮肌炎和多发性肌炎患者中呈阳性。如果ANA测试呈阳性，进一步测试特定类型的抗体有助于增加重叠综合征的怀疑。然而，ANA试验阴性不能排除炎性肌病。
+临床过程和表现与表肌炎特异性和相关自身抗体中所述的特定抗体相关。这些自身抗体与疾病发病机制之间的关系尚不清楚，尽管Jo-1抗体是肺纤维化、关节炎和雷诺综合征的重要标志物。
+
+【肌炎特异性和相关自身抗体】
+肌炎特异性和相关自身抗体
+自身抗体
+临床特点
+抗合成酶综合征*
+抗Jo-1抗体
+间质性肺病
+抗PL-7抗体
+间质性肺病†
+Anti-PL-12
+间质性肺病†
+抗-EJ
+间质性肺病
+抗-OJ
+间质性肺病
+间质性肺病†
+Anti-Zo
+间质性肺病
+Anti-Ha
+间质性肺病
+抗Mi-2
+严重皮肤病变
+对治疗反应好
+抗MDA5抗体
+心肺综合征、严重间质性肺病
+过敏性皮肌炎，手掌丘疹，皮肤溃疡
+抗TIF1g
+癌症风险升高
+抗NXP-2
+皮下钙质沉积
+癌症风险升高
+免疫介导的坏死性肌病
+抗SRP抗体
+重症，难以治疗
+抗-HMGCR
+免疫介导的他汀类药物相关肌病（如果以前没有服用过他汀类药物，很少会出现）；停止他汀类药物治疗后是否仍存在
+包涵体肌炎
+胞质5'-核苷酸酶1A
+包涵体肌炎
+重叠综合征
+抗PM-Scl
+系统性硬化症
+间质性肺病
+技工手、钙质沉着症、雷诺现象
+系统性硬化症（特别是局限性皮肤系统性硬化症）
+间质性肺病
+关节炎、食管受累、雷诺现象
+抗U3RNP
+系统性硬化症（特别是弥漫性皮肤系统性硬化症）
+*所有这些自身抗体可见于具有抗合成酶综合征完整或部分形式的患者中。抗合成酶综合征的特征包括发热、非糜烂性关节炎、肺间质性疾病、手指桡侧角化过度（技工的手）和雷诺现象。皮肌炎的皮疹可能有也可能没有。抗合成酶抗体阳性合并肌病的患者最终可能诊断为皮肌炎或多肌炎。
+† 这个特征比较突出。
+Data fromMammen A: Autoimmune muscle disease.Handb Clin Neurol.2016;133:467–484.doi:10.1016/B978-0-444-63432-0.00025-6 and fromFredi M, Cavazzana I, Franceschini F.The clinico-serological spectrum of overlap myositis.Curr Opin Rheumatol.2018;30(6):637-643.doi:10.1097/BOR.0000000000000536.
+*所有这些自身抗体可见于具有抗合成酶综合征完整或部分形式的患者中。抗合成酶综合征的特征包括发热、非糜烂性关节炎、肺间质性疾病、手指桡侧角化过度（技工的手）和雷诺现象。皮肌炎的皮疹可能有也可能没有。抗合成酶抗体阳性合并肌病的患者最终可能诊断为皮肌炎或多肌炎。
+† 这个特征比较突出。
+Data fromMammen A: Autoimmune muscle disease.Handb Clin Neurol.2016;133:467–484.doi:10.1016/B978-0-444-63432-0.00025-6 and fromFredi M, Cavazzana I, Franceschini F.The clinico-serological spectrum of overlap myositis.Curr Opin Rheumatol.2018;30(6):637-643.doi:10.1097/BOR.0000000000000536.
+
+【肌电图和影像学检查】
+对于肌肉无力和肌肉酶升高的患者，应考虑对受影响的肌肉（例如大腿）进行肌电图（EMG）伴或不伴磁共振成像（MRI）检查。这些研究有助于排除神经系统导致虚弱的原因并确定活检部位。
+当怀疑患有间质性肺病或患者伴有肺动脉高压时，建议进行胸部X光检查、计算机断层扫描（CT）和超声心动图检查。对于已知肺部疾病的患者，在初步诊断和随访时也建议进行基线肺活量测定、肺容量、弥散肺容量和呼吸肌测试。
+当出现吞咽困难时，需要进行改良的钡吞咽试验。
+本次 CT 扫描显示对称性双侧下叶毛玻璃影，伴有细小胸膜下网状结构；双肺轻度牵拉性支气管扩张，胸膜下不受累；胸部散在分布一些淋巴结。
+Photo courtesy of Kinanah Yaseen, MD.
+活检 发现可具多样性，但典型为慢性炎症伴肌肉的退变和部分再生。
+为了增加活检结果的敏感性，活检的样本应从具有以下一个或多个特点的肌肉组织中获得：
+身体检查的弱点
+身体检查的弱点
+MRI确定的肌水肿
+MRI确定的肌水肿
+肌电图显示对侧肌肉异常
+肌电图显示对侧肌肉异常
+多发性肌炎/皮肌炎 在多发性肌炎中，组织学通常以肌内膜 CD8+T 细胞浸润为主而无血管病变为特征，而在皮肌炎中，组织学特征为束周围B细胞为主的浸润，伴有血管周围炎症。在治疗多发性肌炎之前，建议通过肌肉活检明确诊断，以排除其他肌肉疾病，例如一些酶缺失或缺陷性肌病、坏死性ji'yan和病毒感染后横纹肌溶解症。
+当皮肌炎皮疹典型时，可不进行肌活检。虽然在活检中没有皮肌炎的病理皮肤发现，但缺乏直接的免疫荧光可能有助于区分皮肤发现与系统性红斑狼疮患者的皮疹。
+包涵体肌炎的组织学表现包括肌内膜浸润、肌纤维变性和边缘空泡，而免疫介导的坏死性肌病的组织学表现包括明显的坏死性肌纤维再生。炎症浸润很少，但如果存在，则由巨噬细胞浸润组成。
+该活检标本显示肌内膜浸润、肌纤维变性和边缘空泡（箭头）。
+Photo courtesy of Kinanah Yaseen, MD.
+
+【进一步检查】
+癌症筛查应被视为评估的一部分（1）。皮肌炎增加癌症风险的证据相对一致，但多肌炎不太确定（2）。在西方人群中，最常见的癌症包括卵巢癌、宫颈癌、肺癌、膀胱癌和前列腺癌；在亚洲人群中，最常见的癌症包括鼻咽癌（3）。
+癌症筛查应至少包括一次体检，包括乳房、骨盆和直肠（含潜血检查）；全血细胞计数；生化资料;乳房x光检查;验尿;胸片;以及其他与年龄相适应的癌症筛查(1)。
+根据患者病史及临床体检的结果进行必要的问询。一些权威机构建议对极高风险患者（例如，年龄 > 40 岁，患有急性起病的皮肌炎和与癌症相关的肌炎自身抗体阳性的患者）进行颈部、胸部、腹部和盆腔的 CT 检查以及卵巢超声检查、结肠镜检查，有时还进行全身正电子发射断层扫描（PET）(1）。
+
+【诊断参考】
+1.Oldroyd AGS, Callen JP, Chinoy H, et al.International Guideline for Idiopathic Inflammatory Myopathy-Associated Cancer Screening: an International Myositis Assessment and Clinical Studies Group (IMACS) initiative [published correction appears inNat Rev Rheumatol. 2024 May;20(5):315. doi: 10.1038/s41584-024-01111-x].Nat Rev Rheumatol.2023;19(12):805-817.doi:10.1038/s41584-023-01045-w
+1.Oldroyd AGS, Callen JP, Chinoy H, et al.International Guideline for Idiopathic Inflammatory Myopathy-Associated Cancer Screening: an International Myositis Assessment and Clinical Studies Group (IMACS) initiative [published correction appears inNat Rev Rheumatol. 2024 May;20(5):315. doi: 10.1038/s41584-024-01111-x].Nat Rev Rheumatol.2023;19(12):805-817.doi:10.1038/s41584-023-01045-w
+2.Yang Z, Lin F, Qin B, Liang Y, Zhong R.Polymyositis/dermatomyositis and malignancy risk: a metaanalysis study.J Rheumatol.2015;42(2):282-291.doi:10.3899/jrheum.140566
+2.Yang Z, Lin F, Qin B, Liang Y, Zhong R.Polymyositis/dermatomyositis and malignancy risk: a metaanalysis study.J Rheumatol.2015;42(2):282-291.doi:10.3899/jrheum.140566
+3.Irekeola AA, Shueb RH, E A R ENS, et al.Prevalence of Nasopharyngeal Carcinoma in Patients with Dermatomyositis: A Systematic Review and Meta-Analysis.Cancers (Basel).2021;13(8):1886.Published 2021 Apr 14.doi:10.3390/cancers13081886
+3.Irekeola AA, Shueb RH, E A R ENS, et al.Prevalence of Nasopharyngeal Carcinoma in Patients with Dermatomyositis: A Systematic Review and Meta-Analysis.Cancers (Basel).2021;13(8):1886.Published 2021 Apr 14.doi:10.3390/cancers13081886
+
+【特发性炎症性肌病的治疗】
+皮质类固醇
+皮质类固醇
+其他免疫抑制剂（如甲氨蝶呤、硫唑嘌呤、霉酚酸酯、利妥昔单抗、他克莫司）
+其他免疫抑制剂（如甲氨蝶呤、硫唑嘌呤、霉酚酸酯、利妥昔单抗、他克莫司）
+静注免疫球蛋白
+静注免疫球蛋白
+应适度减少体力活动，直至疾病活动减弱（1）。言语治疗建议用于吞咽困难患者。
+皮质类固醇是首选药物 (2)。总体目标是迅速消除炎症，但尽量减少长期使用皮质类固醇。对于急性疾病，成人每天口服强的松一次，剂量约为1mg/kg（最多80mg）。对于伴有吞咽困难或呼吸肌无力的严重疾病，治疗通常以静脉注射大剂量皮质类固醇治疗开始（例如，甲基强的松龙0.5至1g静脉注射，每天一次，持续3至5天），但没有随机试验的数据证实这是最佳方法。长期使用皮质类固醇可能诱发肌病，常伴有正常的肌肉酶；因此，在随访期间定期检查肌肉强度非常重要。
+第二种药物（通常是甲氨蝶呤、他克莫司或硫唑嘌呤）与皮质类固醇同时或之后不久开始使用，以便可以逐渐减少泼尼松的用量，理想情况下在约 6 个月内。静脉注射免疫球蛋白是有吞咽困难和呼吸肌受损伤、对皮质类固醇反应不迅速、大剂量皮质类固醇和其他免疫抑制剂出现并发症或同时正在接受化疗的患者的首选治疗方法。一些专家可能会在严重病例或出现任何皮质类固醇毒性时使用三联疗法。 间质性肺病的患者首选硫唑嘌呤、他克莫司、霉酚酸酯或利妥昔单抗，优于甲氨蝶呤。
+对于患有 MDA-5 相关、快速进展的间质性肺病的患者，可以考虑静脉注射环磷酰胺和血浆置换（3、4）。
+连续测量肌酸激酶（CK）提供早期指导治疗效果。但当患者出现广泛的肌肉萎缩时，即使肌肉仍有慢性炎症活动，肌酶也可能是正常的。 肌肉水肿或高 CK 水平的 MRI 结果通常将肌炎复发与皮质类固醇诱导的肌病区分开来。 其他肌肉酶水平也可以提供线索。醛缩酶对肌肉损伤的特异性不如CK，但在肌炎和正常CK水平的患者中偶尔呈阳性。升高的天冬氨酸转氨酶（AST）和丙氨酸转氨酶（ALT）水平也可能反映肌肉损伤。
+在治疗期间，CK水平通常会在 6 至 12 周内下降或达到正常水平，随后肌肉力量会得到改善。一旦肌肉力量恢复正常，皮质类固醇的剂量就可以逐渐减少。如果肌肉酶水平再次升高，通常需要增加皮质类固醇的剂量，同时等待其他不使用皮质类固醇的药物发挥完全作用。
+霉酚酸酯、甲氨蝶呤和静脉注射免疫球蛋白是治疗皮肌炎皮肤表现的一线疗法。Janus激酶 (JAK) 抑制剂正在被探索作为皮肌炎皮肤症状的替代治疗选择（5）。
+如果患者接受高剂量皮质类固醇治疗后，在最初的反应后变得越来越虚弱，应考虑皮质类固醇肌病。在这些患者中，尽管患者变得更虚弱，但CK水平仍然保持正常。
+肌炎合并肿瘤常对激素治疗更加抵抗。如果肿瘤治疗成功，癌症相关的肌炎可能会消退，如果肿瘤复发，可能会复发。
+自身免疫性疾病患者发生动脉粥样硬化的风险较高，因此需要密切监测。长期服用糖皮质激素治疗的患者应重视骨质疏松的预防。如果使用联合免疫抑制治疗，患者应预防机会性感染，例如卡氏肺囊虫（见卡氏肺囊虫肺炎的预防)，以及接种针对常见感染的疫苗（例如肺炎链球菌、流感、新冠肺炎)。
+
+【治疗参考文献】
+1.Dastmalchi M, Alexanderson H, Loell I, et al.Effect of physical training on the proportion of slow-twitch type I muscle fibers, a novel nonimmune-mediated mechanism for muscle impairment in polymyositis or dermatomyositis. Arthritis Rheum.2007;57(7):1303-1310.doi:10.1002/art.22996
+1.Dastmalchi M, Alexanderson H, Loell I, et al.Effect of physical training on the proportion of slow-twitch type I muscle fibers, a novel nonimmune-mediated mechanism for muscle impairment in polymyositis or dermatomyositis. Arthritis Rheum.2007;57(7):1303-1310.doi:10.1002/art.22996
+2.Oldroyd AGS, Lilleker JB, Amin T, et al.British Society for Rheumatology guideline on management of paediatric, adolescent and adult patients with idiopathic inflammatory myopathy.Rheumatology (Oxford).2022;61(5):1760-1768.doi:10.1093/rheumatology/keac115
+2.Oldroyd AGS, Lilleker JB, Amin T, et al.British Society for Rheumatology guideline on management of paediatric, adolescent and adult patients with idiopathic inflammatory myopathy.Rheumatology (Oxford).2022;61(5):1760-1768.doi:10.1093/rheumatology/keac115
+3.Tsuji H, Nakashima R, Hosono Y, et al.Multicenter Prospective Study of the Efficacy and Safety of Combined Immunosuppressive Therapy With High-Dose Glucocorticoid,Tacrolimus, andCyclophosphamidein Interstitial Lung Diseases Accompanied by Anti-Melanoma Differentiation-Associated Gene 5-Positive Dermatomyositis.Arthritis Rheumatol.2020;72(3):488-498.doi:10.1002/art.41105
+3.Tsuji H, Nakashima R, Hosono Y, et al.Multicenter Prospective Study of the Efficacy and Safety of Combined Immunosuppressive Therapy With High-Dose Glucocorticoid,Tacrolimus, andCyclophosphamidein Interstitial Lung Diseases Accompanied by Anti-Melanoma Differentiation-Associated Gene 5-Positive Dermatomyositis.Arthritis Rheumatol.2020;72(3):488-498.doi:10.1002/art.41105
+4.Shirakashi M, Nakashima R, Tsuji H, et al.Efficacy of plasma exchange in anti-MDA5-positive dermatomyositis with interstitial lung disease under combined immunosuppressive treatment.Rheumatology (Oxford).2020;59(11):3284-3292.doi:10.1093/rheumatology/keaa123
+4.Shirakashi M, Nakashima R, Tsuji H, et al.Efficacy of plasma exchange in anti-MDA5-positive dermatomyositis with interstitial lung disease under combined immunosuppressive treatment.Rheumatology (Oxford).2020;59(11):3284-3292.doi:10.1093/rheumatology/keaa123
+5.Paik JJ, Lubin G, Gromatzky A, Mudd PN Jr, Ponda MP, Christopher-Stine L.Use of Janus kinase inhibitors in dermatomyositis: a systematic literature review.Clin Exp Rheumatol.2023;41(2):348-358.doi:10.55563/clinexprheumatol/hxin6o
+5.Paik JJ, Lubin G, Gromatzky A, Mudd PN Jr, Ponda MP, Christopher-Stine L.Use of Janus kinase inhibitors in dermatomyositis: a systematic literature review.Clin Exp Rheumatol.2023;41(2):348-358.doi:10.55563/clinexprheumatol/hxin6o
+
+【特发性炎症性肌病的预后】
+特发性炎性肌病患者的预后通常良好；然而，年龄较大、存在某些肌炎特异性自身抗体（例如抗 TIF1-g、NXP-2、MDA-5）和相关合并症（例如严重间质性肺病、癌症、复发性感染）的患者预后较差（1、2）。例如，在一项对 628 名特发性炎症性肌病患者的大型队列研究中，1年累积生存率为 91.8%，5年累积生存率为 82.8%，10年累积生存率为 75.6%（2）。然而，在抗MDA-5阳性的患者中，1年生存率为 79.5%，10年生存率为 58.5%。
+儿童皮肌炎患者的死亡常由肠道血管炎引起。
+
+【预后参考】
+1.Guimarães F, Yildirim R, Isenberg DA.Long-term survival of patients with idiopathic inflammatory myopathies: anatomy of a single-centre cohort.Clin Exp Rheumatol.2023;41(2):322-329.doi:10.55563/clinexprheumatol/486yh4
+1.Guimarães F, Yildirim R, Isenberg DA.Long-term survival of patients with idiopathic inflammatory myopathies: anatomy of a single-centre cohort.Clin Exp Rheumatol.2023;41(2):322-329.doi:10.55563/clinexprheumatol/486yh4
+2.Jiang W, Shi J, Yang H, et al.Long-Term Outcomes and Prognosis Factors in Patients With Idiopathic Inflammatory Myopathies Based on Myositis-Specific Autoantibodies: A Single Cohort Study.Arthritis Care Res (Hoboken).2023;75(5):1175-1182.doi:10.1002/acr.24993
+2.Jiang W, Shi J, Yang H, et al.Long-Term Outcomes and Prognosis Factors in Patients With Idiopathic Inflammatory Myopathies Based on Myositis-Specific Autoantibodies: A Single Cohort Study.Arthritis Care Res (Hoboken).2023;75(5):1175-1182.doi:10.1002/acr.24993
+肌炎引起的肌肉无力最常发生在近端。
+肌炎引起的肌肉无力最常发生在近端。
+向阳疹和Gottron征是皮肌炎特征性表现。
+向阳疹和Gottron征是皮肌炎特征性表现。
+为了确定诊断，寻找特征性皮疹、肌肉无力、肌酸激酶水平升高以及肌电图或MRI上的肌肉变化。
+为了确定诊断，寻找特征性皮疹、肌肉无力、肌酸激酶水平升高以及肌电图或MRI上的肌肉变化。
+除非患者有特征性的皮肤表现，否则应做肌肉活检以确认诊断并排除非炎症性肌病。
+除非患者有特征性的皮肤表现，否则应做肌肉活检以确认诊断并排除非炎症性肌病。
+考虑对年龄≥40岁且患有皮肌炎的患者进行癌症筛查。
+考虑对年龄≥40岁且患有皮肌炎的患者进行癌症筛查。
+对患者用糖皮质激素和其他免疫抑制剂治疗。
+对患者用糖皮质激素和其他免疫抑制剂治疗。

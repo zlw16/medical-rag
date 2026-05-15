@@ -1,0 +1,168 @@
+标题：家族性地中海热
+来源：https://www.msdmanuals.cn/professional/pediatrics/hereditary-periodic-fever-syndromes/familial-mediterranean-fever
+============================================================
+
+家族性地中海热（FMF）主要发生于遗传背景源自地中海盆地的人群，尤其见于塞法迪犹太人、北非阿拉伯人、亚美尼亚人、土耳其人、希腊人或意大利人。随着离东地中海区域最近的国家（如土耳其）地理距离的增加，家族性地中海热（FMF）的流行率普遍下降(1)。然而，其他人群中亦有病例发生（如具有阿什肯纳兹犹太人、古巴人或日本人血统者），因此不应仅依据血统而排除该诊断。在多民族人口的国家，FMF的患病率根据患者的祖先遗传来源以及奠基者效应而有所不同（例如，在以色列，北非和伊拉克后裔的发病率高于德系犹太人后裔）(2)。
+FMF是最常见的自身炎症综合征(3)。
+
+【参考文献】
+1.Debeljak M, Toplak N, Abazi N, et al.The carrier rate and spectrum ofMEFVgene mutations in central and southeastern European populations.Clin Exp Rheumatol.2015;33(6 Suppl 94):S19-S23.
+1.Debeljak M, Toplak N, Abazi N, et al.The carrier rate and spectrum ofMEFVgene mutations in central and southeastern European populations.Clin Exp Rheumatol.2015;33(6 Suppl 94):S19-S23.
+2.Stoffman N, Magal N, Shohat T, et al.Higher than expected carrier rates for familial Mediterranean fever in various Jewish ethnic groups.Eur J Hum Genet.2000;8(4):307-310.doi:10.1038/sj.ejhg.5200446
+2.Stoffman N, Magal N, Shohat T, et al.Higher than expected carrier rates for familial Mediterranean fever in various Jewish ethnic groups.Eur J Hum Genet.2000;8(4):307-310.doi:10.1038/sj.ejhg.5200446
+3.Ozen S, Bilginer Y.A clinical guide to autoinflammatory diseases: familial Mediterranean fever and next-of-kin.Nat Rev Rheumatol.2014;10(3):135-147.doi:10.1038/nrrheum.2013.174
+3.Ozen S, Bilginer Y.A clinical guide to autoinflammatory diseases: familial Mediterranean fever and next-of-kin.Nat Rev Rheumatol.2014;10(3):135-147.doi:10.1038/nrrheum.2013.174
+
+【家族性地中海热的病因】
+FMF 是由:
+16号染色体短臂上的MEFV基因突变
+16号染色体短臂上的MEFV基因突变
+FMF的特点是外显不完全和表现型高度可变。突变通常以常染色体隐性方式遗传（即存在双等位基因致病突变）（1）。然而，临床症状已观察到患者只有一个确定的致病突变（杂合子，即常染色体显性方式部分外显）。此外，在极少数情况下，没有已知致病MEFV突变的患者中可能存在FMF症状。相反，无症状患者偶然发现携带MEFV突变（致病性、非致病性或尚未确定的变体）。
+FMF突变是一种功能获得性突变，即它们赋予蛋白质新的或增强的活性，并具有基因剂量效应（即，异常基因的更多拷贝具有更大的效应）。MEFV基因通常编码一种名为吡啉（也称为marenostrin）的蛋白质，该蛋白在循环中性粒细胞中表达。
+吡啶在先天免疫中发挥作用。它感知小 GTP 酶 RhoA 活性的改变，这是一种调节多种信号转导途径（包括细胞骨架组织）的分子开关。病原体毒力毒素（如Clostridioides difficile（艰难梭菌）、Burkholderia cenocepacia（伯克霍尔德菌）和Vibrio cholera）（霍乱弧菌）下调RhoA活性，促使吡啶与其他蛋白组装成pyrin炎症小体，最终导致促炎细胞因子白细胞介素-1β（IL-1β）的产生。MEFV致病性变异有利于pyrin的活性状态，并导致细胞膜破裂（细胞焦亡）和促炎细胞因子的释放（2）。
+有力证据支持如下假说：引起腺鼠疫的病原体Yersinia pestis（鼠疫耶尔森菌），导致了与家族性地中海热相关的MEFV（地中海热基因）突变发生正向选择（3）。这些突变可能进化而来，使某些暴露于Y. pestisY. pestis（鼠疫耶尔森菌）的人群获得选择性优势。
+肠道微生物群的改变与FMF的基因型和表型相互作用相关(4)。在一项病例对照研究中，FMF患者的肠道菌群中促炎细菌增加，与无FMF的对照组相比；对秋水仙碱的耐药性也与特定的微生物群改变相关。
+
+【病因参考文献】
+1.Ben-Chetrit E, Touitou I.The significance of carryingMEFVvariants in symptomatic and asymptomatic individuals.Clin Genet.2024;106(3):217-223.doi:10.1111/cge.14566
+1.Ben-Chetrit E, Touitou I.The significance of carryingMEFVvariants in symptomatic and asymptomatic individuals.Clin Genet.2024;106(3):217-223.doi:10.1111/cge.14566
+2.Park YH, Remmers EF, Lee W, et al.Ancient familial Mediterranean fever mutations in human pyrin and resistance toYersinia pestis.Nat Immunol.2020;21(8):857–867.doi:10.1038/s41590-020-0705-6
+2.Park YH, Remmers EF, Lee W, et al.Ancient familial Mediterranean fever mutations in human pyrin and resistance toYersinia pestis.Nat Immunol.2020;21(8):857–867.doi:10.1038/s41590-020-0705-6
+3.Amarilyo G.The Mediterranean spring-the second revolution (and the first) in the management of familial Mediterranean fever.Ann Rheum Dis.2025;84(6):885-887.doi:10.1016/j.ard.2025.02.006
+3.Amarilyo G.The Mediterranean spring-the second revolution (and the first) in the management of familial Mediterranean fever.Ann Rheum Dis.2025;84(6):885-887.doi:10.1016/j.ard.2025.02.006
+4.Delplanque M, Benech N, Rolhion N, et al.Gut microbiota alterations are associated with phenotype and genotype in familial Mediterranean fever.Rheumatology (Oxford).2024;63(4):1039-1048.doi:10.1093/rheumatology/kead322
+4.Delplanque M, Benech N, Rolhion N, et al.Gut microbiota alterations are associated with phenotype and genotype in familial Mediterranean fever.Rheumatology (Oxford).2024;63(4):1039-1048.doi:10.1093/rheumatology/kead322
+
+【家族性地中海热的症状和体征】
+家族性地中海热的发病通常是在5～15岁之间，也可能提前或延迟，甚至在婴儿期发病。
+最常见的表现是急性发热发作，伴有疼痛和全身症状（如腹痛、关节炎、皮疹）。
+反复发作没有固定的规律。通常持续12～72小时，但有时可能持续更长时间。发作频率为2次/周到1次/年（最常见的是每2～6周1次）。身体和/或情绪压力源（例如身体创伤、感染、月经）可能会诱发发作（1）。发作的严重程度和频率似乎并不总是受到妊娠状况的影响(2)。自发性缓解可能持续数年。
+高达50%的患者会出现特征性的前驱症状，预示着发作，可能包括味觉障碍和情绪改变，如焦虑、易怒和不安(3)。高达40°C的发热可能发生，通常伴有腹膜炎。大约95%的患者有腹痛（常常开始于某一部位，接着扩展到全腹），每次发作的严重程度不尽相同 (4) 。在一次发作的高峰期，常可出现肠鸣音减弱、腹胀、腹肌紧张及反跳痛，仅凭体格检查无法与脏器穿孔相鉴别。因此，一些患者在做出正确的诊断之前进行了紧急剖腹手术。当累及胸膜时，约 30% 的患者可因胸膜性疼痛而出现呼吸困难（5）。
+家族性地中海热的其他表现包括关节炎（75%），常常波及膝关节、踝关节和髋关节（4）；小腿部丹毒样红斑或皮疹，以及阴囊肿胀和由睾丸鞘膜炎症引起的疼痛。心包炎非常罕见。FMF 的胸膜、滑膜和皮肤表现在不同人群中的频率有所不同（6）。
+尽管急性发作期症状严重，但大多数患者可迅速恢复，并在下一次发作前保持无症状状态。
+
+【自身炎症性周期性发热疾病】
+自身炎症性周期性发热疾病
+CAPS = 冷吡啉相关周期性综合征；FMF = 家族性地中海热；NOMID = 新生儿发病多系统炎症性疾病；PFAPA = 周期性发热伴阿弗他口炎、咽炎和颈淋巴结炎；TRAPS = 肿瘤坏死因子受体相关周期性综合征。
+Adapted fromSag E, Bilginer Y, Ozen S: Autoinflammatory diseases with periodic fevers.Curr Rheumatol Rep19(7):41, 2017.doi: 10.1007/s11926-017-0670-8
+
+【家族性地中海热的并发症】
+FMF最显著的长期并发症是：
+由淀粉样蛋白在肾脏沉积导致的慢性肾病
+由淀粉样蛋白在肾脏沉积导致的慢性肾病
+进行性继发性淀粉样变性(AA淀粉样变性)是FMF的主要和最严重的并发症，显著增加死亡率。除肾脏沉积外，淀粉样蛋白亦可沉积于胃肠道、肝、脾、心脏、睾丸及甲状腺。
+FMF可能导致多达三分之一未经治疗的妇女不孕或自然流产，因为腹膜盆腔粘连形成，干扰受孕。
+FMF 会增加其他炎症性疾病的风险，例如强直性脊柱炎,免疫球蛋白 A 相关 (IgA) 血管炎,结节性多动脉炎， 和白塞病（7）。
+
+【症状和体征参考】
+1.Yenokyan G, Armenian HK.Triggers for attacks in familial Mediterranean fever: application of the case-crossover design.Am J Epidemiol.2012;175(10):1054-1061.doi:10.1093/aje/kwr460
+1.Yenokyan G, Armenian HK.Triggers for attacks in familial Mediterranean fever: application of the case-crossover design.Am J Epidemiol.2012;175(10):1054-1061.doi:10.1093/aje/kwr460
+2.Yurdakul FG, Bodur H, Çay HF, et al.Familial Mediterranean fever: perspective on female fertility and disease course in pregnancy from a multicenter nationwide network.Rheumatol Int.2024;44(10):2117-2127.doi:10.1007/s00296-023-05436-w
+2.Yurdakul FG, Bodur H, Çay HF, et al.Familial Mediterranean fever: perspective on female fertility and disease course in pregnancy from a multicenter nationwide network.Rheumatol Int.2024;44(10):2117-2127.doi:10.1007/s00296-023-05436-w
+3.Lidar M, Yaqubov M, Zaks N, Ben-Horin S, Langevitz P, Livneh A.The prodrome: a prominent yet overlooked pre-attack manifestation of familial Mediterranean fever.J Rheumatol.2006;33(6):1089-1092.
+3.Lidar M, Yaqubov M, Zaks N, Ben-Horin S, Langevitz P, Livneh A.The prodrome: a prominent yet overlooked pre-attack manifestation of familial Mediterranean fever.J Rheumatol.2006;33(6):1089-1092.
+4.Sohar E, Gafni J, Pras M, Heller H.Familial Mediterranean fever.A survey of 470 cases and review of the literature.Am J Med.1967;43(2):227-253.doi:10.1016/0002-9343(67)90167-2
+4.Sohar E, Gafni J, Pras M, Heller H.Familial Mediterranean fever.A survey of 470 cases and review of the literature.Am J Med.1967;43(2):227-253.doi:10.1016/0002-9343(67)90167-2
+5.Drenth JP, van der Meer JW.Hereditary periodic fever.N Engl J Med.2001;345(24):1748-1757.doi:10.1056/NEJMra010200
+5.Drenth JP, van der Meer JW.Hereditary periodic fever.N Engl J Med.2001;345(24):1748-1757.doi:10.1056/NEJMra010200
+6.Ben-Chetrit E, Yazici H.Familial Mediterranean fever: different faces around the world.Clin Exp Rheumatol.2019;37 Suppl 121(6):18-22, 2019
+6.Ben-Chetrit E, Yazici H.Familial Mediterranean fever: different faces around the world.Clin Exp Rheumatol.2019;37 Suppl 121(6):18-22, 2019
+7.Balcı-Peynircioğlu B, Kaya-Akça Ü, Arıcı ZS, et al.Comorbidities in familial Mediterranean fever: Analysis of 2000 genetically confirmed patients.Rheumatology (Oxford).2020;59(6):1372–1380.doi:10.1093/rheumatology/kez410
+7.Balcı-Peynircioğlu B, Kaya-Akça Ü, Arıcı ZS, et al.Comorbidities in familial Mediterranean fever: Analysis of 2000 genetically confirmed patients.Rheumatology (Oxford).2020;59(6):1372–1380.doi:10.1093/rheumatology/kez410
+
+【家族性地中海热的诊断】
+病史和体格检查
+病史和体格检查
+基因检测
+基因检测
+家族性地中海热的诊断主要基于临床症状，并可通过基因检测加以支持，基因检测在评估非典型病例时尤为有用。然而，目前的基因检测不是万无一失的；有些表型明确为FMF的患者只有单一的突变基因或MEFV基因偶尔没有明显突变。约10%至20%符合FMF诊断标准的患者没有MEFV突变，这表明表观遗传和环境因素在疾病发病机制中起作用（2）。Tel HaShomer标准（见表家族性地中海热诊断的Tel HaShomer标准）是成人中最广泛使用的临床标准(1)。
+非特异性表现包括白细胞计数升高（以中性粒细胞为主）、红细胞沉降率加快、C反应蛋白和纤维蛋白原水平升高。24小时尿蛋白排泄>0.5g可能提示肾脏淀粉样变性。
+鉴别诊断包括急性间歇性卟啉病，遗传性血管性水肿伴发腹部症状，反复发作性胰腺炎和其他的遗传性反复发热。
+
+【Tel-HaShomer家族性地中海热诊断标准*】
+Tel-HaShomer家族性地中海热诊断标准*
+主要标准
+典型发作†:
+腹膜炎（全身性）
+腹膜炎（全身性）
+胸膜炎（单侧）或心包炎
+胸膜炎（单侧）或心包炎
+髋、膝或踝的单关节关节炎
+髋、膝或踝的单关节关节炎
+腹部不完全发作‡
+次要标准
+涉及胸部、关节或两者的不完全发作‡
+劳累时腿痛
+秋水仙素治疗效果良好
+* 诊断需要≥1项主要标准或≥2项次要标准。
+† 典型的发作是反复发作（至少 3 次相同类型发作）、发热（直肠温度 ≥ 38°C）和持续时间短（12 小时至72小时）。
+‡ 不完全发作是痛苦和反复的。它们与典型发作在1或2个特征上有所不同：
+温度正常或<38°C。
+温度正常或<38°C。
+发作持续时间比典型发作长或短，但不少于 6 小时，持续时间不超过 1 周。
+发作持续时间比典型发作长或短，但不少于 6 小时，持续时间不超过 1 周。
+腹部发作时没有腹膜炎迹象。
+腹部发作时没有腹膜炎迹象。
+腹部发作局限于局部。
+腹部发作局限于局部。
+关节炎发生在髋、膝或踝以外的关节。
+关节炎发生在髋、膝或踝以外的关节。
+Data fromLivneh A, Langevitz P, Zemer D, et al: Criteria for the diagnosis of familial Mediterranean fever.Arthritis Rheum40(10):1879–1885, 1997.doi: 10.1002/art.1780401023
+* 诊断需要≥1项主要标准或≥2项次要标准。
+† 典型的发作是反复发作（至少 3 次相同类型发作）、发热（直肠温度 ≥ 38°C）和持续时间短（12 小时至72小时）。
+‡ 不完全发作是痛苦和反复的。它们与典型发作在1或2个特征上有所不同：
+温度正常或<38°C。
+温度正常或<38°C。
+发作持续时间比典型发作长或短，但不少于 6 小时，持续时间不超过 1 周。
+发作持续时间比典型发作长或短，但不少于 6 小时，持续时间不超过 1 周。
+腹部发作时没有腹膜炎迹象。
+腹部发作时没有腹膜炎迹象。
+腹部发作局限于局部。
+腹部发作局限于局部。
+关节炎发生在髋、膝或踝以外的关节。
+关节炎发生在髋、膝或踝以外的关节。
+Data fromLivneh A, Langevitz P, Zemer D, et al: Criteria for the diagnosis of familial Mediterranean fever.Arthritis Rheum40(10):1879–1885, 1997.doi: 10.1002/art.1780401023
+
+【诊断参考】
+1.Livneh A, Langevitz P, Zemer D, et al: Criteria for the diagnosis of familial Mediterranean fever.Arthritis Rheum40(10):1879–1885, 1997.doi: 10.1002/art.1780401023
+1.Livneh A, Langevitz P, Zemer D, et al: Criteria for the diagnosis of familial Mediterranean fever.Arthritis Rheum40(10):1879–1885, 1997.doi: 10.1002/art.1780401023
+2.Booty MG, Chae JJ, Masters SL, et al（Booty MG, Chae JJ， Masters SL等）:家族性地中海热单MEFV突变：第二次袭击在哪里？Arthritis Rheum60(6):1851–1861, 2009.doi: 10.1002/art.24569
+2.Booty MG, Chae JJ, Masters SL, et al（Booty MG, Chae JJ， Masters SL等）:家族性地中海热单MEFV突变：第二次袭击在哪里？Arthritis Rheum60(6):1851–1861, 2009.doi: 10.1002/art.24569
+
+【家族性地中海热的治疗】
+日常的秋水仙碱
+日常的秋水仙碱
+对于秋水仙碱耐药或不耐受的患者，使用白细胞介素-1 (IL-1) 抑制剂
+对于秋水仙碱耐药或不耐受的患者，使用白细胞介素-1 (IL-1) 抑制剂
+镇痛药（例如布洛芬）
+镇痛药（例如布洛芬）
+一旦确诊，应立即开始每日预防性秋水仙碱预防发作以及淀粉样变性（1）。秋水仙碱可在近 95% 的患者中引起显著的症状改善（2）。每天使用秋水仙碱，75%的患者达到接近完全缓解，从而显著降低淀粉样变性和肾损伤的风险。若疾病发作或亚临床炎症持续存在，应增加秋水仙碱使用剂量。在发作高峰期开始秋水仙碱是没有好处的。儿童需要调整秋水仙碱的剂量，这通常基于年龄、体重以及表型和基因型的严重程度（3–5）。肝或肾功能不全的患者也应调整剂量。在开始使用秋水仙碱后，建议密切监测3至6个月，以评估临床反应，特别是发作的频率和严重程度。
+秋水仙碱不会增加受影响妇女不孕或自然流产的风险;如果在怀孕期间服用，它不会增加致畸事件的风险。缺乏回应秋水仙碱通常是由于对治疗方案的依从性差引起的。
+对秋水仙碱耐药或不耐受的患者可使用IL-1抑制剂治疗：阿那白滞素每日一次、利洛那塞每周一次或卡那单抗每4周一次（卡那单抗也可按需给药（4–6））。然而，IL-1抑制剂在预防淀粉样变性中的作用仍不清楚，服用IL-抑制剂的患者如果可以耐受，应继续服用秋水仙碱。
+有时需使用非甾体抗炎药（如布洛芬）和对乙酰氨基酚进行镇痛。
+
+【治疗参考文献】
+1.Ozen S, Sağ E, Oton T, et al.EULAR/PReS endorsed recommendations for the management of familial Mediterranean fever (FMF): 2024 update.Ann Rheum Dis.2025;84(6):899-909.doi:10.1016/j.ard.2025.01.028
+1.Ozen S, Sağ E, Oton T, et al.EULAR/PReS endorsed recommendations for the management of familial Mediterranean fever (FMF): 2024 update.Ann Rheum Dis.2025;84(6):899-909.doi:10.1016/j.ard.2025.01.028
+2.Ozturk MA, Kanbay M, Kasapoglu B, et al.Therapeutic approach to familial Mediterranean fever: a review update.Clin Exp Rheumatol.2011;29(4 Suppl 67):S77-S86.
+2.Ozturk MA, Kanbay M, Kasapoglu B, et al.Therapeutic approach to familial Mediterranean fever: a review update.Clin Exp Rheumatol.2011;29(4 Suppl 67):S77-S86.
+3.Goldberg O, Levinsky Y, Peled O, et al.Age dependent safety and efficacy ofcolchicinetreatment for familial mediterranean fever in children.Semin Arthritis Rheum.2019;49(3):459-463.doi:10.1016/j.semarthrit.2019.05.011
+3.Goldberg O, Levinsky Y, Peled O, et al.Age dependent safety and efficacy ofcolchicinetreatment for familial mediterranean fever in children.Semin Arthritis Rheum.2019;49(3):459-463.doi:10.1016/j.semarthrit.2019.05.011
+4.Sag E, Otón T, Carmona L, Ozen S.Efficacy and safety of treatments in familial Mediterranean fever and its complications: a systematic review informing the EULAR/PReS recommendations for familial Mediterranean fever.Ann Rheum Dis.Published online June 24, 2025.doi:10.1016/j.ard.2025.05.020
+4.Sag E, Otón T, Carmona L, Ozen S.Efficacy and safety of treatments in familial Mediterranean fever and its complications: a systematic review informing the EULAR/PReS recommendations for familial Mediterranean fever.Ann Rheum Dis.Published online June 24, 2025.doi:10.1016/j.ard.2025.05.020
+5.Bustaffa M, Bella S, Bayindir Y, et al.Long-term efficacy and safety ofcolchicineand anti-IL-1 blockers in FMF: results from the Eurofever multicenter observational study.J Autoimmun.2025;153:103421.doi:10.1016/j.jaut.2025.103421
+5.Bustaffa M, Bella S, Bayindir Y, et al.Long-term efficacy and safety ofcolchicineand anti-IL-1 blockers in FMF: results from the Eurofever multicenter observational study.J Autoimmun.2025;153:103421.doi:10.1016/j.jaut.2025.103421
+6.Shehadeh K, Levinsky Y, Kagan S, et al.An "On Demand"canakinumabregimen for treating children withColchicine-Resistant familial Mediterranean fever - A multicentre study.Int Immunopharmacol.2024;132:111967.doi:10.1016/j.intimp.2024.111967
+6.Shehadeh K, Levinsky Y, Kagan S, et al.An "On Demand"canakinumabregimen for treating children withColchicine-Resistant familial Mediterranean fever - A multicentre study.Int Immunopharmacol.2024;132:111967.doi:10.1016/j.intimp.2024.111967
+家族性地中海热（FMF）通常由MEFV基因的常染色体隐性突变引起，该基因编码吡啉蛋白，参与调节中性粒细胞的炎症反应。
+家族性地中海热（FMF）通常由MEFV基因的常染色体隐性突变引起，该基因编码吡啉蛋白，参与调节中性粒细胞的炎症反应。
+具有地中海地区遗传背景的人群更常见（但非仅限于此）。
+具有地中海地区遗传背景的人群更常见（但非仅限于此）。
+病人有短暂发作的发热，腹痛，有时有其他症状，如胸膜炎，关节炎和皮疹。
+病人有短暂发作的发热，腹痛，有时有其他症状，如胸膜炎，关节炎和皮疹。
+肾淀粉样变性是最常见的并发症，可导致肾脏疾病，但预防性使用秋水仙碱可防止淀粉样变性的发生。
+肾淀粉样变性是最常见的并发症，可导致肾脏疾病，但预防性使用秋水仙碱可防止淀粉样变性的发生。
+诊断主要依据临床表现；基因检测可辅助诊断。
+诊断主要依据临床表现；基因检测可辅助诊断。
+每日服用秋水仙碱可显著预防大多数患者的发作，但对秋水仙碱耐药或不耐受的患者可给予IL-1抑制剂（阿那白滞素、利纳西普或卡那单抗）。
+每日服用秋水仙碱可显著预防大多数患者的发作，但对秋水仙碱耐药或不耐受的患者可给予IL-1抑制剂（阿那白滞素、利纳西普或卡那单抗）。

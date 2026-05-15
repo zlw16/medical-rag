@@ -1,0 +1,89 @@
+标题：视神经炎
+来源：https://www.msdmanuals.cn/professional/eye-disorders/optic-nerve-disorders/optic-neuritis
+============================================================
+
+
+【视神经炎的病因】
+视神经炎是 50 岁以下患者中最常见的视神经病变（1）。大部分病例是由于脱髓鞘疾病造成的，尤其是多发性硬化，而多发性硬化具有复发性。视神经炎常常是多发性硬化的一种表现。其它病因包括 (2)
+视神经脊髓炎(NMO) (3)
+视神经脊髓炎(NMO) (3)
+髓鞘少突胶质细胞糖蛋白（MOG）抗体相关疾病（MOGAD） (4)
+髓鞘少突胶质细胞糖蛋白（MOG）抗体相关疾病（MOGAD） (4)
+感染性疾病（如病毒性脑炎[尤其见于儿童]、鼻窦炎、脑膜炎、结核[TB]、梅毒和人免疫缺陷病毒[HIV]）
+感染性疾病（如病毒性脑炎[尤其见于儿童]、鼻窦炎、脑膜炎、结核[TB]、梅毒和人免疫缺陷病毒[HIV]）
+转移到视神经的肿瘤
+转移到视神经的肿瘤
+系统性红斑狼疮
+系统性红斑狼疮
+化学品、药物和毒品，如铅、甲醇、奎宁、砷、乙胺丁醇和抗生素，会导致视神经病变，而不是真正的视神经炎。TNF-α抑制剂和免疫检查点抑制剂可引起视神经炎。
+罕见原因包括恶性贫血和系统性自身免疫性疾病。通常，尽管进行了彻底的评估，但病因仍然是特发性的。
+
+【病因参考文献】
+1.Stunkel L, Kung NH, Wilson B, et al: Incidence and causes of overdiagnosis of optic neuritis.JAMA Ophthalmol136(1):76-81, 2018.doi: 10.1001/jamaophthalmol.2017.54702.Hassan MB, Stern C, Flanagan EP, et al: Population-based incidence of optic neuritis in the era of aquaporin-4 and myelin oligodendrocyte glycoprotein antibodies.Am J Ophthalmol220:110-114, 2020.doi: 10.1016/j.ajo.2020.07.014
+1.Stunkel L, Kung NH, Wilson B, et al: Incidence and causes of overdiagnosis of optic neuritis.JAMA Ophthalmol136(1):76-81, 2018.doi: 10.1001/jamaophthalmol.2017.5470
+2.Hassan MB, Stern C, Flanagan EP, et al: Population-based incidence of optic neuritis in the era of aquaporin-4 and myelin oligodendrocyte glycoprotein antibodies.Am J Ophthalmol220:110-114, 2020.doi: 10.1016/j.ajo.2020.07.014
+3.Chen JJ, Pittock SJ, Flanagan EP, et al: Optic neuritis in the era of biomarkers.Surv Ophthalmol65(1):12-17, 2020.doi: 10.1016/j.survophthal.2019.08.001
+3.Chen JJ, Pittock SJ, Flanagan EP, et al: Optic neuritis in the era of biomarkers.Surv Ophthalmol65(1):12-17, 2020.doi: 10.1016/j.survophthal.2019.08.001
+4.Chen JJ, Bhatti MT: Clinical phenotype, radiological features, and treatment of myelin oligodendrocyte glycoprotein-immunoglobulin G (MOG-IgG) optic neuritis.Curr Opin Neurol33(1):47-54, 2020.  doi: 10.1097/WCO.0000000000000766
+4.Chen JJ, Bhatti MT: Clinical phenotype, radiological features, and treatment of myelin oligodendrocyte glycoprotein-immunoglobulin G (MOG-IgG) optic neuritis.Curr Opin Neurol33(1):47-54, 2020.  doi: 10.1097/WCO.0000000000000766
+
+【视神经炎的症状和体征】
+视神经炎的主要症状是亚急性视力下降，通常在几天内达到最大程度，可表现为中心或者旁中心小暗点乃至完全失明不等。大多数患者有眼痛，通常随着眼球运动而加重。
+最特征性的表现为视力下降、视野缺损、和色觉异常（与视力下降不成比例）。如果对侧眼没有累及或者病情较轻时，通常存在该眼的传入性瞳孔障碍。色视觉测试是一种有用的辅助手段，尽管10％的男性患有先天性色盲，会产生假阳性结果。约有三分之二的病例完全为球后视神经炎，眼底看不到视神经乳头的异常表现 (1)。其余情况下，可见椎间盘充血、水肿。
+
+【症状和体征】
+1.Optic Neuritis Study Group: The clinical profile of optic neuritis.Experience of the Optic Neuritis Treatment Trial.Arch Ophthalmol109(12):1673-1678, 1991.doi: 10.1001/archopht.1991.01080120057025
+1.Optic Neuritis Study Group: The clinical profile of optic neuritis.Experience of the Optic Neuritis Treatment Trial.Arch Ophthalmol109(12):1673-1678, 1991.doi: 10.1001/archopht.1991.01080120057025
+
+【视神经炎的诊断】
+临床评估
+临床评估
+磁共振成像（MRI）
+磁共振成像（MRI）
+患者出现特征性眼痛和视力下降时应该考虑视神经炎可能，尤其是在年轻的患者。建议进行神经影像学检查，最好使用脑部和眼眶的钆增强 MRI 检查，通常可显示视神经增强（1）。MRI也可能有助于诊断多发性硬化症、髓鞘少突胶质细胞糖蛋白抗体相关疾病（MOGAD）和视神经脊髓炎（NMO）。NMO 和 MOGAD 中的视神经通常有更广泛的强化。如果视神经炎与多发性硬化有关，则液体衰减反转恢复（FLAIR）MRI序列可能显示心室周围位置的典型脱髓鞘病变。脊髓受累可见于任何脱髓鞘疾病，但在通常在NMO 和 MOGAD 中更为广泛。血清中含有 NMO 和 MOG 抗体的患者应检查是否存在非典型或严重的视神经炎，任何患有视神经炎的患者都应强烈考虑这些情况，除非存在多发性硬化症存在。
+
+【经验与提示】
+经验与提示
+对伴有运动和视力丧失（如视力或色觉下降、视野缺陷）或瞳孔传入缺陷的眼部疼痛的年轻患者进行钆增强MRI检查。
+对伴有运动和视力丧失（如视力或色觉下降、视野缺陷）或瞳孔传入缺陷的眼部疼痛的年轻患者进行钆增强MRI检查。
+对有神经系统症状提示脊髓受累的患者进行脊髓成像，这可见于多发性硬化症、NMO或MOGAD中。
+对有神经系统症状提示脊髓受累的患者进行脊髓成像，这可见于多发性硬化症、NMO或MOGAD中。
+
+【诊断参考文献】
+1.NANOS Practice Support Committee: North American Neuro-Ophthalmology Society (NANOS) Statement on the Justification for MRI Orbits With and Without Contrast in Addition to MRI Brain With and Without Contrast in Optic Neuritis.2021 edition.Accessed May 10, 2024.
+1.NANOS Practice Support Committee: North American Neuro-Ophthalmology Society (NANOS) Statement on the Justification for MRI Orbits With and Without Contrast in Addition to MRI Brain With and Without Contrast in Optic Neuritis.2021 edition.Accessed May 10, 2024.
+
+【视神经炎的治疗】
+皮质类固醇
+皮质类固醇
+皮质类固醇是视神经炎、尤其是怀疑有多发性硬化或视神经脊髓炎的一种治疗方案。用甲基强的松龙（1000 mg，每天静脉注射一次）或生物等效剂量的口服泼尼松（1250 mg，每天一次；[1]）治疗3天，然后用泼尼松治疗11天（1 mg/kg，每天口服一次），可能会加速恢复，但最终的视力结果与单独观察多发性硬化症或特发性视神经炎的结果没有什么不同。早期使用高剂量皮质类固醇可能会改善非典型原因引起的视神经炎（如 NMO 或 MOGAD）的预后[2]。血浆置换通常用于NMO发作，有时用于其他原因引起的严重视神经炎，如果高剂量皮质类固醇治疗后视神经炎无法恢复(3)。单用低剂量口服泼尼松治疗不能改善视力，可能会增加复发率 (4)。
+低视力助视器（如放大镜、大字体设备、语音手表）可能有助。多发性硬化症患者应接受多发性痴呆症改良治疗，NMO患者应接受NMO特异性治疗。患有复发性 MOGAD 的患者可能需要长期免疫疗法。值得注意的是，NMO和MOGAD患者不应服用某些多发性硬化症疾病调节剂，这可能无效，甚至会使结果恶化。
+
+【治疗参考文献】
+1.Morrow SA, Fraser JA, Day C, et al: Effect of treating acute optic neuritis with bioequivalent oral vs intravenous corticosteroids: A randomized clinical trial.JAMA Neurol75(6): 690-696, 2018.doi: 10.1001/jamaneurol.2018.0024
+1.Morrow SA, Fraser JA, Day C, et al: Effect of treating acute optic neuritis with bioequivalent oral vs intravenous corticosteroids: A randomized clinical trial.JAMA Neurol75(6): 690-696, 2018.doi: 10.1001/jamaneurol.2018.0024
+2.Chen JJ, Pittock SJ, Flanagan EP, et al: Optic neuritis in the era of biomarkers.Surv Ophthalmol65(1):12-17, 2020.doi: 10.1016/j.survophthal.2019.08.001
+2.Chen JJ, Pittock SJ, Flanagan EP, et al: Optic neuritis in the era of biomarkers.Surv Ophthalmol65(1):12-17, 2020.doi: 10.1016/j.survophthal.2019.08.001
+3.Chen JJ, Flanagan EP, Pittock SJ, et al: Visual outcomes following plasma exchange for optic neuritis: An international multicenter retrospective analysis of 395 optic neuritis attacks.Am J Ophthalmol252:213-224, 2023.doi: 10.1016/j.ajo.2023.02.013
+3.Chen JJ, Flanagan EP, Pittock SJ, et al: Visual outcomes following plasma exchange for optic neuritis: An international multicenter retrospective analysis of 395 optic neuritis attacks.Am J Ophthalmol252:213-224, 2023.doi: 10.1016/j.ajo.2023.02.013
+4.Beck RW, Cleary PA, Anderson MM, et al.A randomized, controlled trial of corticosteroids in the treatment of acute optic neuritis.N Engl J Med326(9):581-588, 1992.doi: 10.1056/NEJM19920227326090
+4.Beck RW, Cleary PA, Anderson MM, et al.A randomized, controlled trial of corticosteroids in the treatment of acute optic neuritis.N Engl J Med326(9):581-588, 1992.doi: 10.1056/NEJM19920227326090
+
+【视神经炎的预后】
+根据原发病因不同，预后各不相同。大多数典型的视神经炎发作会在2到3个月内自发改善，视力显著恢复。视神经炎患者的复发率是不一样的，取决于病因。患有NMO或MOGAD等潜在疾病的患者在同一只眼睛或另一只眼睛的复发率较高，视力恢复可能更差，尤其是NMO（1个)。 核磁共振成像用于确定脱髓鞘疾病，特别是多发性硬化症的未来风险(2)。
+
+【预后参考】
+1.Beck RW, Cleary PA, Backlund JYC, Optic Neuritis Study Group: The course of visual recovery after optic neuritis: Experience of the optic neuritis treatment trial.Ophthalmology127(4S):S174-S181, 2020.doi: 10.1016/j.ophtha.2020.01.027
+1.Beck RW, Cleary PA, Backlund JYC, Optic Neuritis Study Group: The course of visual recovery after optic neuritis: Experience of the optic neuritis treatment trial.Ophthalmology127(4S):S174-S181, 2020.doi: 10.1016/j.ophtha.2020.01.027
+2.Optic Neuritis Study Group: Multiple sclerosis risk after optic neuritis: Final optic neuritis treatment trial follow-up.Arch Neurol65(6):727-732, 2008.doi: 10.1001/archneur.65.6.727
+2.Optic Neuritis Study Group: Multiple sclerosis risk after optic neuritis: Final optic neuritis treatment trial follow-up.Arch Neurol65(6):727-732, 2008.doi: 10.1001/archneur.65.6.727
+视神经炎是50岁以下患者中最常见的视神经病变。
+视神经炎是50岁以下患者中最常见的视神经病变。
+最常见的原因是脱髓鞘疾病，特别是多发性硬化症、视神经脊髓炎（NMO）和髓鞘少突胶质细胞糖蛋白（MOG）抗体相关疾病（MOGAD），但感染、药物和毒素也是其他可能的原因。
+最常见的原因是脱髓鞘疾病，特别是多发性硬化症、视神经脊髓炎（NMO）和髓鞘少突胶质细胞糖蛋白（MOG）抗体相关疾病（MOGAD），但感染、药物和毒素也是其他可能的原因。
+表现包括随着眼球运动疼痛、视觉干扰（尤其是不成比例的色觉异常）和传入性瞳孔障碍。
+表现包括随着眼球运动疼痛、视觉干扰（尤其是不成比例的色觉异常）和传入性瞳孔障碍。
+对大脑和眼眶进行钆增强MRI检查。如果怀疑患有多发性硬化症或其他脱髓鞘疾病，请对脊髓进行 MRI 检查。
+对大脑和眼眶进行钆增强MRI检查。如果怀疑患有多发性硬化症或其他脱髓鞘疾病，请对脊髓进行 MRI 检查。
+可以给予皮质类固醇和其他治疗，特别是在怀疑有脱髓鞘疾病的情况下。对高剂量皮质类固醇无反应的NMO发作或严重发作通常给予血浆置换。
+可以给予皮质类固醇和其他治疗，特别是在怀疑有脱髓鞘疾病的情况下。对高剂量皮质类固醇无反应的NMO发作或严重发作通常给予血浆置换。

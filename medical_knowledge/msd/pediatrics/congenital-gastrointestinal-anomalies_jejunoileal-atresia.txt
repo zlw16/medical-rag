@@ -1,0 +1,91 @@
+标题：空回肠闭锁
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-gastrointestinal-anomalies/jejunoileal-atresia
+============================================================
+
+(参见先天性胃肠道畸形概述。)
+空回肠闭锁的新生儿通常在出生后第1天或第2天出现腹胀加剧、无法排便、呕吐和喂养问题。羊水过多病史很常见。
+
+【空回肠闭锁的病因】
+空肠闭锁的发生是由于怀孕期间的缺血性损伤。缺血性损伤可能由肠套叠、穿孔、肠扭转、疝气导致的肠绞窄或血栓栓塞引起。孕妇吸烟和吸食可卡因与肠道闭锁有关 (1)。
+在活产儿的发病率估计为1：10000。空回肠闭锁在空肠和回肠中的分布比例相当(2–5)。
+高达一半的病例伴有先天性异常（6）。最常见的是泌尿生殖系统异常。
+最常见的相关疾病是先天性心脏病、囊性纤维化、肠旋转不良和腹裂。
+腹膜钙化表明存在胎粪性腹膜炎，这是宫内肠穿孔的征兆，约10％的病例可见。存在胎粪性腹膜炎应怀疑胎粪性肠梗阻和囊性纤维化(5)。
+
+【病因参考文献】
+1.Sabbatini S, Ganji N, Chusilp S, Balsamo F, Li B, Pierro A.Intestinal atresia and necrotizing enterocolitis: Embryology and anatomy.Semin Pediatr Surg.2022;31(6):151234.doi:10.1016/j.sempedsurg.2022.151234
+1.Sabbatini S, Ganji N, Chusilp S, Balsamo F, Li B, Pierro A.Intestinal atresia and necrotizing enterocolitis: Embryology and anatomy.Semin Pediatr Surg.2022;31(6):151234.doi:10.1016/j.sempedsurg.2022.151234
+2.Morris G, Kennedy A Jr, Cochran W.Small bowel congenital anomalies: A review and update.Curr Gastroenterol Rep.2016;18(4):16.doi:10.1007/s11894-016-0490-4
+2.Morris G, Kennedy A Jr, Cochran W.Small bowel congenital anomalies: A review and update.Curr Gastroenterol Rep.2016;18(4):16.doi:10.1007/s11894-016-0490-4
+3.Takahashi D, Hiroma T, Takamizawa S, Nakamura T.Population-based study of esophageal and small intestinal atresia/stenosis.Pediatr Int.2014;56(6):838-844.doi:10.1111/ped.12359
+3.Takahashi D, Hiroma T, Takamizawa S, Nakamura T.Population-based study of esophageal and small intestinal atresia/stenosis.Pediatr Int.2014;56(6):838-844.doi:10.1111/ped.12359
+4.Best KE, Tennant PW, Addor MC, et al.Epidemiology of small intestinal atresia in Europe: a register-based study.Arch Dis Child Fetal Neonatal Ed.2012;97(5):F353-F358.doi:10.1136/fetalneonatal-2011-300631
+4.Best KE, Tennant PW, Addor MC, et al.Epidemiology of small intestinal atresia in Europe: a register-based study.Arch Dis Child Fetal Neonatal Ed.2012;97(5):F353-F358.doi:10.1136/fetalneonatal-2011-300631
+5.Schmedding A, Hutter M, Gfroerer S, Rolle U.Jejunoileal Atresia: A National Cohort Study.Front Pediatr.2021;9:665022.Published 2021 May 31.doi:10.3389/fped.2021.665022
+5.Schmedding A, Hutter M, Gfroerer S, Rolle U.Jejunoileal Atresia: A National Cohort Study.Front Pediatr.2021;9:665022.Published 2021 May 31.doi:10.3389/fped.2021.665022
+6.Røkkum H, Johannessen H, Bjørnland K.Perioperative and Long-Term Outcome in Patients Treated for Jejunoileal Atresia.J Pediatr Gastroenterol Nutr.2023;76(4):434-439.doi:10.1097/MPG.0000000000003709
+6.Røkkum H, Johannessen H, Bjørnland K.Perioperative and Long-Term Outcome in Patients Treated for Jejunoileal Atresia.J Pediatr Gastroenterol Nutr.2023;76(4):434-439.doi:10.1097/MPG.0000000000003709
+
+【空回肠闭锁的分类】
+空回肠闭锁有5种主要类型 (1)：
+Ⅰ型：膜型闭锁
+Ⅰ型：膜型闭锁
+Ⅱ型：纤维索带连接于肠管的近端和远端
+Ⅱ型：纤维索带连接于肠管的近端和远端
+ⅢA型：近、远端肠管闭锁，无索带相连
+ⅢA型：近、远端肠管闭锁，无索带相连
+ⅢB型：伴有肠系膜上动脉缺如的空肠闭锁；远端小肠像苹果皮一样盘绕，并且肠道短。
+ⅢB型：伴有肠系膜上动脉缺如的空肠闭锁；远端小肠像苹果皮一样盘绕，并且肠道短。
+Ⅳ型为多发性闭锁（类似一串香肠）
+Ⅳ型为多发性闭锁（类似一串香肠）
+
+【分类参考文献】
+1.Martin LW, Zerella JT.Jejunoileal atresia: a proposed classification.J Pediatr Surg.1976;11(3):399-403.doi:10.1016/s0022-3468(76)80195-9
+1.Martin LW, Zerella JT.Jejunoileal atresia: a proposed classification.J Pediatr Surg.1976;11(3):399-403.doi:10.1016/s0022-3468(76)80195-9
+
+【空回肠闭锁的诊断】
+产前超声检查或胎儿MRI
+产前超声检查或胎儿MRI
+腹部X线检查
+腹部X线检查
+产前，超声显示小肠扩张和羊水过多，或胎儿MRI可能提示或证实诊断。
+出生后，进行腹部平片检查；可能显示小肠袢扩张伴有气液平面，以及结肠和直肠内气体稀少。钡剂灌肠检查显示存在微小结肠（因废用所致）。
+这种婴儿近端空肠闭锁的X线表现为上腹部有大的扩张环，远端没有气体。
+由于7%至10%的患者同时患有囊性纤维化（若合并胎粪性肠梗阻则比例接近100%），应进行囊性纤维化检测（1、2）。还应考虑筛查相关异常。
+
+【诊断参考】
+1.Roberts HE, Cragan JD, Cono J, et al.Increased frequency of cystic fibrosis among infants with jejunoileal atresia.Am J Med Genet.1998; 78(5):446-449.doi:10.1002/(sici)1096-8628(19980806)78:5<446::aid-ajmg9>3.0.co;2-j
+1.Roberts HE, Cragan JD, Cono J, et al.Increased frequency of cystic fibrosis among infants with jejunoileal atresia.Am J Med Genet.1998; 78(5):446-449.doi:10.1002/(sici)1096-8628(19980806)78:5<446::aid-ajmg9>3.0.co;2-j
+2.Schmedding A, Hutter M, Gfroerer S, Rolle U.Jejunoileal Atresia: A National Cohort Study.Front Pediatr.2021;9:665022.Published 2021 May 31.doi:10.3389/fped.2021.665022
+2.Schmedding A, Hutter M, Gfroerer S, Rolle U.Jejunoileal Atresia: A National Cohort Study.Front Pediatr.2021;9:665022.Published 2021 May 31.doi:10.3389/fped.2021.665022
+
+【空回肠闭锁的治疗】
+外科手术修复
+外科手术修复
+空肠回肠闭锁的术前处理包括放置鼻胃管、禁食、静脉补液。
+手术纠治是明确性治疗。在手术过程中，应检查整个肠道的多个闭锁区域。切除闭锁段，通常行一期吻合术。如回肠近端极度扩张与远端难以端端吻合，则作回肠双腔造瘘，一直到近端扩张肠段管腔缩小再作吻合，这样比较安全。使扩张的近端环逐渐变细的手术也是一个考虑因素（1,2)。
+患有空回肠闭锁的婴儿预后非常好，存活率>90% (3,4)。预后取决于残留肠段的长度和回盲瓣是否保留。随后发展为短肠综合征的婴儿需长期接受肠外营养（PN）（5）。应持续给予肠内喂养以促进肠道适应、最大化营养吸收，并尽量减少 TPN 的使用。给患儿经口少量喂食，以维持吸吮和吞咽功能。由于包括肠延长术（如连续横肠成形术，STEP）在内的外科技术的进步、医疗护理水平的提高以及小肠移植手术的开展，患有超短肠综合征的婴儿的预后已显著改善（6–8）。
+
+【治疗参考文献】
+1.Dewberry LC, Hilton SA, Vuille-Dit-Bille RN, Liechty KW.Is tapering enteroplasty an alternative to resection of dilated bowel in small intestinal atresia?J Surg Res.2020;246:1–5.doi:10.1016/j.jss.2019.08.014
+1.Dewberry LC, Hilton SA, Vuille-Dit-Bille RN, Liechty KW.Is tapering enteroplasty an alternative to resection of dilated bowel in small intestinal atresia?J Surg Res.2020;246:1–5.doi:10.1016/j.jss.2019.08.014
+2.Eeftinck Schattenkerk LD, Backes M, de Jonge WJ, van Heurn EL, Derikx JP.Treatment of jejunoileal atresia by primary anastomosis or enterostomy: Double the operations, double the risk of complications.J Pediatr Surg.2022;57(9):49-54.doi:10.1016/j.jpedsurg.2021.07.021
+2.Eeftinck Schattenkerk LD, Backes M, de Jonge WJ, van Heurn EL, Derikx JP.Treatment of jejunoileal atresia by primary anastomosis or enterostomy: Double the operations, double the risk of complications.J Pediatr Surg.2022;57(9):49-54.doi:10.1016/j.jpedsurg.2021.07.021
+3.Røkkum H, Johannessen H, Bjørnland K.Perioperative and Long-Term Outcome in Patients Treated for Jejunoileal Atresia.J Pediatr Gastroenterol Nutr.2023;76(4):434-439.doi:10.1097/MPG.0000000000003709
+3.Røkkum H, Johannessen H, Bjørnland K.Perioperative and Long-Term Outcome in Patients Treated for Jejunoileal Atresia.J Pediatr Gastroenterol Nutr.2023;76(4):434-439.doi:10.1097/MPG.0000000000003709
+4.Duggan CP, Jaksic T.Pediatric Intestinal Failure.N Engl J Med.2017;377(7):666-675.doi:10.1056/NEJMra1602650
+4.Duggan CP, Jaksic T.Pediatric Intestinal Failure.N Engl J Med.2017;377(7):666-675.doi:10.1056/NEJMra1602650
+5.Rich BS, Bornstein E, Dolgin SE.Intestinal Atresias.Pediatr Rev.2022;43(5):266-274.doi:10.1542/pir.2021-005177
+5.Rich BS, Bornstein E, Dolgin SE.Intestinal Atresias.Pediatr Rev.2022;43(5):266-274.doi:10.1542/pir.2021-005177
+6.Pandey A, Singh G, Shandilya G, et al.Role of Bishop–Koop procedure for jejunal and proximal ileal atresia.J Neonatal Surg.2020;8(4):31.doi:10.47338/jns.v8.356
+6.Pandey A, Singh G, Shandilya G, et al.Role of Bishop–Koop procedure for jejunal and proximal ileal atresia.J Neonatal Surg.2020;8(4):31.doi:10.47338/jns.v8.356
+7.Batra A, Keys SC, Johnson MJ, et al.Epidemiology, management and outcome of ultrashort bowel syndrome in infancy.Arch Dis Child Fetal Neonatal Ed.2017;102(6):F551–F556.doi:10.1136/archdischild-2016-311765
+7.Batra A, Keys SC, Johnson MJ, et al.Epidemiology, management and outcome of ultrashort bowel syndrome in infancy.Arch Dis Child Fetal Neonatal Ed.2017;102(6):F551–F556.doi:10.1136/archdischild-2016-311765
+8.Squires RH, Duggan C, Teitelbaum DH, et al.Natural history of pediatric intestinal failure: Initial report from the Pediatric Intestinal Failure Consortium.J Pediatr.2012;161:723–728.doi:10.1016/j.jpeds.2012.03.062
+8.Squires RH, Duggan C, Teitelbaum DH, et al.Natural history of pediatric intestinal failure: Initial report from the Pediatric Intestinal Failure Consortium.J Pediatr.2012;161:723–728.doi:10.1016/j.jpeds.2012.03.062
+空回肠闭锁通常在出生后 1～2 天内出现肠梗阻的临床表现。
+空回肠闭锁通常在出生后 1～2 天内出现肠梗阻的临床表现。
+囊性纤维化、肠扭转、腹裂和先天性心脏病是常见的相关疾病。
+囊性纤维化、肠扭转、腹裂和先天性心脏病是常见的相关疾病。
+在手术修复之前，不要口服任何东西，并提供鼻胃管抽吸和静脉输液。
+在手术修复之前，不要口服任何东西，并提供鼻胃管抽吸和静脉输液。

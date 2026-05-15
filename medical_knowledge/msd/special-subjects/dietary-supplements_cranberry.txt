@@ -1,0 +1,47 @@
+标题：蔓越莓
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/cranberry
+============================================================
+
+蔓越莓是一种水果，可以整个食用也可制成果冻和果汁等食物产品。
+
+【蔓越莓功效宣称】
+人们需要经常食用蔓越莓来预防或减轻尿路感染的症状。蔓越莓对尿路感染的预防作用并未得到zheng'shii。未经加工的天然蔓越莓汁所含花青素（如花青素原）可预防大肠杆菌附着于尿道壁。
+有些人利用蔓越莓汁降温和治疗某些癌症，但没有科学证据显示这些用途有效。
+
+【蔓越莓的证据】
+2020 年，美国食品药品监督管理局 (FDA) 授权（允许）合格的健康声明，以降低健康女性复发性尿路感染的风险，同时也承认支持这些声明的可靠科学证据有限且不一致（1，2）。
+1966年，发表了第一项非对照临床试验，评估蔓越莓汁在预防尿路感染方面的积极作用 (3)。自那以后，已开展了大量试验，评估了不同人群、疾病严重程度、剂量、时间以及补充剂的形式（如果汁或提取物胶囊/片剂）。
+大多数证据表明，蔓越莓果汁或提取物在 12 个月内对预防尿路感染复发具有轻度但具有统计学意义的作用，但其补充剂并不能治疗尿路感染（4）。然而，24项研究（4473人参加）在2012年Cochrane综述了24项（4473人参与）的研究，对补充效果提出质疑，提示补充后尿感有减少的趋势，但缺乏统计学差异显著性 (5)。2017年对28项研究（4947名参与者）进行的荟萃分析发现，尿路感染显著减少33%（6）。另一项针对有尿路感染风险的女性的随机对照试验的荟萃分析也发现，蔓越莓可将尿路感染的风险降低26%（7）。
+2023年一项考克兰综述分析了50项研究（涉及8857名患者），报告称蔓越莓产品可将症状性、经尿培养确诊的尿路感染风险降低30%（8）。在患有复发性尿路感染（UTI）的女性中，风险降低了26%；在患有尿路感染的儿童中，风险降低了54%；而在易患尿路感染的人群中，风险降低了53%。然而，孕妇、老年人或患有神经肌肉性膀胱功能障碍或膀胱排空问题的人群中未观察到相对风险降低。
+蔓越莓产品的标准化和指定原花青素 (PAC) 含量可能有助于澄清结果并解决差异。 研究女性尿道的生理差异性和适当的卫生也可能解释不同的反应。由于担心抗生素耐药性，美国泌尿外科协会 2019 年复发性 UTI 女性指南指出，临床医生可能会提供蔓越莓预防，尽管这是 C 级证据级别的建议 (9)。
+
+【蔓越莓的治疗副作用】
+副作用未知。然而大部分蔓越莓汁使用高糖来抵消它的酸味，除非人为加糖，糖尿病患者不应食用蔓越莓汁。由于蔓越莓增加了尿液的酸度，它可促进结石的形成。
+
+【蔓越莓的药物相互作用】
+蔓越莓产品可增强华法林的作用。蔓越莓可能会增加他汀类药物阿托伐他汀和抗高血压药硝苯地平的效果。
+
+【参考文献】
+1.FDA Announces Qualified Health Claim for Certain Cranberry Products and Urinary Tract Infections.Accessed February 27, 2025.
+1.FDA Announces Qualified Health Claim for Certain Cranberry Products and Urinary Tract Infections.Accessed February 27, 2025.
+2.Health Claim Petition - Consumption of Cranberry Products and Reduced Risk of Recurrent Urinary Tract Infection in Healthy Women (Docket No. FDA-2018-Q-0739).Accessed February 27, 2025.
+2.Health Claim Petition - Consumption of Cranberry Products and Reduced Risk of Recurrent Urinary Tract Infection in Healthy Women (Docket No. FDA-2018-Q-0739).Accessed February 27, 2025.
+3.Papas PN, Brusch CA, Ceresia GC.Cranberryjuice in the treatment of urinary tract infections.Southwest Med.47(1):17-20, 1966.
+3.Papas PN, Brusch CA, Ceresia GC.Cranberryjuice in the treatment of urinary tract infections.Southwest Med.47(1):17-20, 1966.
+4.Jepson RG, Craig JC.A systematic review of the evidence for cranberries and blueberries in urinary tract infection prevention.Mol Nutr Food Res.51(6): 738-745, 2007.doi: 10.1002/mnfr.200600275
+4.Jepson RG, Craig JC.A systematic review of the evidence for cranberries and blueberries in urinary tract infection prevention.Mol Nutr Food Res.51(6): 738-745, 2007.doi: 10.1002/mnfr.200600275
+5.Jepson RG, Williams G, Craig JC.Cranberries for preventing urinary tract infections.Cochrane Database Syst Rev.10:CD001321, 2012.doi: 10.1002/14651858.CD001321.pub5
+5.Jepson RG, Williams G, Craig JC.Cranberries for preventing urinary tract infections.Cochrane Database Syst Rev.10:CD001321, 2012.doi: 10.1002/14651858.CD001321.pub5
+6.Luís Â, Domingues F, Pereira L.Can cranberries contribute to reduce the incidence of urinary tract infections?A systematic review with meta-analysis and trial sequential analysis of clinical trials.J Urol.198(3):614-621, 2017.doi: 10.1016/j.juro.2017.03.078
+6.Luís Â, Domingues F, Pereira L.Can cranberries contribute to reduce the incidence of urinary tract infections?A systematic review with meta-analysis and trial sequential analysis of clinical trials.J Urol.198(3):614-621, 2017.doi: 10.1016/j.juro.2017.03.078
+7.Fu Z, Liska D, Talan D, et al.Cranberryreduces the risk of urinary tract infection recurrence in otherwise healthy women: a systematic review and meta-analysis.J Nutr.147(12):2282-2288, 2017.doi: 10.3945/jn.117.254961
+7.Fu Z, Liska D, Talan D, et al.Cranberryreduces the risk of urinary tract infection recurrence in otherwise healthy women: a systematic review and meta-analysis.J Nutr.147(12):2282-2288, 2017.doi: 10.3945/jn.117.254961
+8.Williams G, Stothart CI, Hahn D, Stephens JH, Craig JC, Hodson EM.Cranberries for preventing urinary tract infections.Cochrane Database Syst Rev.2023 Nov 10;11(11):CD001321.doi: 10.1002/14651858.CD001321.pub7
+8.Williams G, Stothart CI, Hahn D, Stephens JH, Craig JC, Hodson EM.Cranberries for preventing urinary tract infections.Cochrane Database Syst Rev.2023 Nov 10;11(11):CD001321.doi: 10.1002/14651858.CD001321.pub7
+9.Anger J, Lee U, Ackerman AL, et al.Recurrent uncomplicated urinary tract infections in women; AUA/CUA/SUFU guideline.J Urol.202(2):282-289, 2019.doi: 10.1097/JU.0000000000000296
+9.Anger J, Lee U, Ackerman AL, et al.Recurrent uncomplicated urinary tract infections in women; AUA/CUA/SUFU guideline.J Urol.202(2):282-289, 2019.doi: 10.1097/JU.0000000000000296
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Cranberry
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Cranberry

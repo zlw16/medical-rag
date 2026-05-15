@@ -1,0 +1,44 @@
+标题：颈椎管狭窄
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/neck-and-back-pain/cervical-spinal-stenosis
+============================================================
+
+(参见颈背痛评估。）
+颈椎狭窄可以是先天性的，也可以是后天性的。最常见的病因是骨关节炎、退行性椎间盘疾病、脊椎病、伴有脊髓受压的脊椎滑脱。其他的病因包括Paget骨病和强直性脊柱炎。
+
+【颈椎管狭窄的症状和体征】
+颈椎管狭窄症可以无症状，也可表现为颈部疼痛、活动范围受限和脊髓压迫的体征和症状（骨髓病），伴有平衡感丧失和四肢无力及痉挛。
+如果同时撞击颈根，患者可能会出现感觉异常和狭窄处受影响神经根分布无力。神经根型颈椎病通常与狭窄平面的中央狭窄有关（C5-C6 狭窄伴有单侧或双侧 C6 神经根病）。颈管在屈曲时较宽，在伸展时较窄；因此，在伸展过程中根性症状可能会加剧。
+
+【颈椎管狭窄的诊断】
+临床评估
+临床评估
+有时可行MRI，电生理检查或两种都做
+有时可行MRI，电生理检查或两种都做
+根据特征性症状怀疑颈椎管狭窄。上肢精细运动技能困难，下肢虚弱、共济失调和痉挛可能存在。深腱反射在下肢过度活跃，但在上肢可能低活跃，如果同时存在神经根撞击，则会出现感觉异常和上肢无力。
+核磁共振成像是为了确定狭窄的程度和原因。电诊断研究有助于区分颈椎管狭窄症和其他神经系统疾病。
+
+【颈椎管狭窄的治疗】
+可容忍的活动
+可容忍的活动
+物理疗法
+物理疗法
+严重的病例手术治疗
+严重的病例手术治疗
+在颈椎管狭窄症患者中，保守措施是一线治疗的一部分。这些措施包括镇痛剂和可忍受的活动。物理疗法可以帮助缓解疼痛和肌肉紧张，并提高运动范围。
+对于晚期椎管狭窄，手术包括椎间盘减压和脊髓骨减压，无论是从前部还是后部入路，结合受影响水平的融合。手术可以预防进一步的症状，但并不总是能逆转脊髓病的缺陷（1个,2个)。
+
+【治疗参考文献】
+1.Wilson JR, Barry S, Fischer DJ, et al.Frequency, timing, and predictors of neurological dysfunction in the nonmyelopathic patient with cervical spinal cord compression, canal stenosis, and/or ossification of the posterior longitudinal ligament.Spine (Phila Pa 1976).2013, 38(22 Suppl 1):S37-S54.doi:10.1097/BRS.0b013e3182a7f2e7
+1.Wilson JR, Barry S, Fischer DJ, et al.Frequency, timing, and predictors of neurological dysfunction in the nonmyelopathic patient with cervical spinal cord compression, canal stenosis, and/or ossification of the posterior longitudinal ligament.Spine (Phila Pa 1976).2013, 38(22 Suppl 1):S37-S54.doi:10.1097/BRS.0b013e3182a7f2e7
+2.Badhiwala JH, Wilson JR.The natural history of degenerative cervical myelopathy.Neurosurg Clin N Am.29(1):21-32, 2018.doi:10.1016/j.nec.2017.09.002
+2.Badhiwala JH, Wilson JR.The natural history of degenerative cervical myelopathy.Neurosurg Clin N Am.29(1):21-32, 2018.doi:10.1016/j.nec.2017.09.002
+颈椎狭窄症是指颈椎管狭窄导致颈椎结构受压。严重时脊髓会受到压迫，引起上、下肢出现症状。
+颈椎狭窄症是指颈椎管狭窄导致颈椎结构受压。严重时脊髓会受到压迫，引起上、下肢出现症状。
+颈椎管狭窄症可以无症状，也可表现为颈部疼痛、活动范围受限和脊髓压迫的体征和症状（骨髓病），伴有平衡感丧失和四肢无力及痉挛。
+颈椎管狭窄症可以无症状，也可表现为颈部疼痛、活动范围受限和脊髓压迫的体征和症状（骨髓病），伴有平衡感丧失和四肢无力及痉挛。
+如果颈神经根在离开颈管时同时受到撞击，患者可能会在狭窄平面的受影响神经根分布中出现感觉异常和无力。
+如果颈神经根在离开颈管时同时受到撞击，患者可能会在狭窄平面的受影响神经根分布中出现感觉异常和无力。
+根据特征性症状以及MRI、电诊断检查或两者同时诊断。
+根据特征性症状以及MRI、电诊断检查或两者同时诊断。
+推荐止痛药、轻度活动和物理治疗；然而，如果疼痛或缺陷严重或恶化，考虑手术治疗。
+推荐止痛药、轻度活动和物理治疗；然而，如果疼痛或缺陷严重或恶化，考虑手术治疗。

@@ -1,0 +1,22 @@
+标题：纳米医学
+来源：https://www.msdmanuals.cn/professional/clinical-pharmacology/pharmacokinetics/nanomedicine
+============================================================
+
+纳米医学使用纳米技术工具（即生物相容性纳米粒子和纳米机器人）来传递药物、诊断疾病和进行体内成像。纳米技术通过靶向特定器官来优化单个药物的功效和安全性，从而改善了药物输送。纳米颗粒的尺寸（通常在1至100纳米之间）、形状和表面化学性质是影响其药代动力学的重要因素，包括吸收程度、生物利用度、细胞摄取、生物分布以及清除率（1、2、3）。
+大多数纳米药物通过口服或静脉注射给药，并依靠被动靶向发挥作用，这种靶向依赖于在组织（包括肿瘤）中的非特异性积累（2）。脂质体是最早的纳米药物，至今仍是与化疗药物（如多柔比星和伊立替康）结合最成功的纳米颗粒之一，旨在改善其生物分布（2、4）。
+聚合物纳米颗粒（例如，聚乙二醇化非格司亭）可延长药物的半衰期并提高其生物利用度，常用于药物控释领域。胶束则用于包载水溶性差的药物（例如，雌二醇），以增强其在水溶液中的溶解性，从而促进吸收。
+纳米晶体仅由药物构成，具有纳米级尺寸（例如西罗莫司），这增加了溶解和溶解度的表面积。随着基于纳米医学的药物兴趣日益浓厚，必须密切评估其药代动力学和药效学，以优化药物向靶点的递送，同时最大限度地减少不良反应，因为纳米颗粒被设计为长效且器官内排泄极少。
+基于生理的药代动力学（PBPK）建模是一种强大的数学工具，用于量化吸收、分布、代谢和排泄（ADME）动力学过程，特别是药物在器官和组织中的分布；该工具对于理解纳米药物药代动力学所涉及的机制和变异来源具有重要价值。由于纳米颗粒的物理化学性质（如尺寸和材料）不同，其在某些器官（如肝脏、脾脏和肺部）的分布可能存在显著差异（5）。当与评估靶组织药理效应的药效学模型结合应用时，PBPK建模能够预测疗效和毒性，同时减少动物模型的使用。
+(参见药代动力学概述。）
+
+【参考文献】
+1.Astruc D: Introduction to nanomedicine.Molecules21(1):E4, 2015. doi: 10.3390/molecules21010004
+1.Astruc D: Introduction to nanomedicine.Molecules21(1):E4, 2015. doi: 10.3390/molecules21010004
+2.Bobo D, Robinson KJ,  Islam J, et al: Nanoparticle-based medicines: A review of FDA-approved materials and clinical trials to date.Pharmaceutical Research33(10):2373–2387, 2016.doi: 10.1007/s11095-016-1958-5
+2.Bobo D, Robinson KJ,  Islam J, et al: Nanoparticle-based medicines: A review of FDA-approved materials and clinical trials to date.Pharmaceutical Research33(10):2373–2387, 2016.doi: 10.1007/s11095-016-1958-5
+3.Abdelbaky SB, Ibrahim MT, Samy H, et al: Cancer immunotherapy from biology to nanomedicine.J Controlled Release336(10):410-432.doi.org/10.1016/j.jconrel.2021.06.025
+3.Abdelbaky SB, Ibrahim MT, Samy H, et al: Cancer immunotherapy from biology to nanomedicine.J Controlled Release336(10):410-432.doi.org/10.1016/j.jconrel.2021.06.025
+4.Allen TM, Cullis PR: Liposomal drug delivery systems: From concept to clinical applications.Adv Drug Deliv Rev65(1):36-48, 2013. doi: 10.1016/j.addr.2012.09.037
+4.Allen TM, Cullis PR: Liposomal drug delivery systems: From concept to clinical applications.Adv Drug Deliv Rev65(1):36-48, 2013. doi: 10.1016/j.addr.2012.09.037
+5.Kumar M, Kulkarni P, Liu S, Chemuturi N, Shah DK: Nanoparticle biodistribution coefficients: A quantitative approach for understanding the tissue distribution of nanoparticles.Adv Drug Deliv Rev194:114708, 2023.doi:10.1016/j.addr.2023.114708
+5.Kumar M, Kulkarni P, Liu S, Chemuturi N, Shah DK: Nanoparticle biodistribution coefficients: A quantitative approach for understanding the tissue distribution of nanoparticles.Adv Drug Deliv Rev194:114708, 2023.doi:10.1016/j.addr.2023.114708

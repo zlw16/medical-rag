@@ -1,0 +1,46 @@
+标题：产前基因诊断程序
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/prenatal-genetic-counseling-and-evaluation/procedures-for-prenatal-genetic-diagnosis
+============================================================
+
+对遗传疾病进行明确诊断的产前检查具有侵入性，并且会给胎儿带来一定风险。女性可能会选择进行产前检查，以便在出生前了解胎儿是否存在异常，无论她们是否会在检查发现严重异常时考虑终止妊娠。
+
+【胚胎植入前基因检测（PGT）】
+体外授精后，植入前基因检测(PGT)有时可以在着床前进行；使用来自卵母细胞的极体、来自6～8个胚胎细胞的囊胚或来自囊胚的滋养外胚层样本。 这些检测仅在专科中心进行，价格昂贵。然而，新技术可能会减少这些检查的费用，并且使其得到广泛开展。
+PGT有三种形式：
+PGT-M：检测单基因（即单个基因）异常
+PGT-M：检测单基因（即单个基因）异常
+PGT-A：非整倍性检测
+PGT-A：非整倍性检测
+PGT-SR：检测结构重排，如不平衡易位
+PGT-SR：检测结构重排，如不平衡易位
+单基因病胚胎着床前遗传学检测（PGT-M）主要用于胎儿患某些孟德尔遗传病（例如,囊性纤维化）的风险较高时。胚胎植入前非整倍体筛查(PGT-A)或胚胎植入前染色体机构变异遗传学检测（PGT-SR）可用于有染色体异常风险的胎儿。
+PGT-A主要用于老年妇女的胚胎，但常规使用存在争议（1)。在一项大型的多中心随机试验中，使用PGT-A后或形态学评估后的冷冻解冻单胚胎移植的持续妊娠率没有显著差异（2)。
+
+【绒毛膜绒毛采样】
+行绒毛膜绒毛采样（CVS）时，用注射器吸取绒毛膜绒毛进行培养。CVS跟羊膜穿刺术提供一样的关于胎儿基因和染色体状态的信息，准确性亦相仿。然而，CVS在孕10周和孕早期末之间进行，因此较早得到结果。如果需要，也可以较早结束妊娠（更安全简便），如果检查结果是正常的，夫妻俩也可以较早放下心理的负担。
+与羊膜穿刺术不同，CVS检查并不能使临床医师获得羊水，也不能进行甲胎蛋白的检测。因此，对于CVS孕妇，在孕16～18周时进行母源性血清甲胎蛋白筛查，评估胎儿有无神经管缺陷的风险。
+超声检查了解胎盘位置后，可以将导管通过宫颈或者用穿刺针通过腹壁完成CVS。CVS后，应给予Rh阴性且未致敏的孕妇注射Rho(D)免疫球蛋白300mcg。
+由于母体细胞污染而造成误诊的情况很少见。 一些局限于胎盘的镶嵌型的染色体异常（例如四倍体）的检出并不一定能反应胎儿的真实情况。局限于胎盘的镶嵌型染色体异常在CVS标本中出现的几率是1%。建议向熟悉这些异常的专家咨询。少数情况下，还需要进一步行羊膜穿刺术以获得其他信息。
+CVS导致的胎儿流产率与羊膜穿刺术类似（即约0.2%）(3)。横向肢体缺陷与口颌-肢体发育不全曾被归因于绒毛膜取样术，但若由经验丰富的操作者在妊娠10周后实施该手术，此类并发症极为罕见。
+
+【羊膜穿刺术】
+羊膜穿刺术中，在超声引导下，穿刺针经腹插入羊膜囊，抽取含有胎儿细胞的羊水进行检测，包括化学标志物（如甲胎蛋白、乙酰胆碱酯酶）的检测。进行羊膜穿刺术最安全的时间是孕14周以后。羊膜穿刺术前应进行超声检查胎儿心脏活动，确定孕龄、胎盘位置、羊水区定位，胎儿数目。如果母亲是Rh阴性血且未致敏，则在手术后给予Rho（D）免疫球蛋白300微克以帮助防止 Rh 致敏。
+传统上，对年龄>35岁的孕妇建议其进行羊膜穿刺术，因为她们怀有患有唐氏综合征或其他染色体异常婴儿的风险增加。然而，随着羊膜腔穿刺术的广泛应用和安全性的提高，美国妇产科医师学会建议为所有孕妇提供羊膜腔穿刺术 (3)。
+有时，抽取的羊水会呈血性。 血一般来自母体，并不影响羊膜细胞的生长；如果血来自胎儿，可能会造成羊水甲胎蛋白假阳性升高。暗红色或棕色液体提示先前存在羊膜腔内出血，且胎儿丢失的风险增加。绿色羊水，通常是胎粪污染所致，似乎并不表明胎儿丢失的风险增加。
+羊水穿刺术很少会导致明显的产妇发病率（例如，有症状的羊膜炎）。对于有经验的操作者，胎儿流失的风险约为0.1至0.2% (4)。阴道点滴出血或羊水渗漏，通常是自限性的，发生在1-2%的受检妇女中。孕14周前，尤其是孕13周前进行羊膜穿刺术，会导致更高的胎儿丢失率，并增加马蹄内翻足（畸形足）的风险，因此临床现已很少进行。
+
+【经皮脐血采集】
+胎儿的血样采集可以通过超声引导下经皮脐静脉穿刺进行。染色体分析可以在48到72小时内完成。因为出结果时间较短，以前经常进行经皮脐血采集（PUBS）检查。这项检查在孕晚期的后期尤为适用，尤其适用于在该阶段首次疑似胎儿异常的情况。目前，通过间期荧光原位杂交（FISH）对羊水细胞或绒毛膜绒毛进行基因分析，可以在24～48小时内初步诊断（或排除）更常见的染色体异常，因此脐血管穿刺很少用于基因指征。
+与脐血管穿刺相关的胎儿丢失率约为1% (5)。
+
+【参考文献】
+1.Practice Committees of the American Society for Reproductive Medicine and the Society for Assisted Reproductive Technology: The use of preimplantation genetic testing for aneuploidy (PGT-A): A committee opinion.Fertil Steril109 (3):429–436, 2018.doi: 10.1016/j.fertnstert.2018.01.002
+1.Practice Committees of the American Society for Reproductive Medicine and the Society for Assisted Reproductive Technology: The use of preimplantation genetic testing for aneuploidy (PGT-A): A committee opinion.Fertil Steril109 (3):429–436, 2018.doi: 10.1016/j.fertnstert.2018.01.002
+2.Munné S, Kaplan B, Frattarelli JL, et al: Preimplantation genetic testing for aneuploidy versus morphology as selection criteria for single frozen-thawed embryo transfer in good-prognosis patients: A multicenter randomized clinical trial.Fertil Steril112 (6):1071–1079.e7, 2019.doi: 10.1016/j.fertnstert.2019.07.1346
+2.Munné S, Kaplan B, Frattarelli JL, et al: Preimplantation genetic testing for aneuploidy versus morphology as selection criteria for single frozen-thawed embryo transfer in good-prognosis patients: A multicenter randomized clinical trial.Fertil Steril112 (6):1071–1079.e7, 2019.doi: 10.1016/j.fertnstert.2019.07.1346
+3.American College of Obstetricians and Gynecologists (ACOG): ACOG Committee on Practice Bulletins—Obstetrics; Committee on Genetics; Society for Maternal-Fetal Medicine.Screening for Fetal Chromosomal Abnormalities: ACOG Practice Bulletin, Number 226.Obstet Gynecol.2020;136(4):e48-e69.doi:10.1097/AOG.0000000000004084
+3.American College of Obstetricians and Gynecologists (ACOG): ACOG Committee on Practice Bulletins—Obstetrics; Committee on Genetics; Society for Maternal-Fetal Medicine.Screening for Fetal Chromosomal Abnormalities: ACOG Practice Bulletin, Number 226.Obstet Gynecol.2020;136(4):e48-e69.doi:10.1097/AOG.0000000000004084
+4.Beta J, Zhang W, Geris S, et al: Procedure-related risk of miscarriage following chorionic villus sampling and amniocentesis.Ultrasound Obstet Gynecol54(4):452-457, 2019.doi:10.1002/uog.20293
+4.Beta J, Zhang W, Geris S, et al: Procedure-related risk of miscarriage following chorionic villus sampling and amniocentesis.Ultrasound Obstet Gynecol54(4):452-457, 2019.doi:10.1002/uog.20293
+5.Tongsong T, Wanapirak C, Piyamongkol W, et al: Second-trimester cordocentesis and the risk of small for gestational age and preterm birth.Obstet Gynecol124(5):919-925, 2014.doi:10.1097/AOG.0000000000000502
+5.Tongsong T, Wanapirak C, Piyamongkol W, et al: Second-trimester cordocentesis and the risk of small for gestational age and preterm birth.Obstet Gynecol124(5):919-925, 2014.doi:10.1097/AOG.0000000000000502

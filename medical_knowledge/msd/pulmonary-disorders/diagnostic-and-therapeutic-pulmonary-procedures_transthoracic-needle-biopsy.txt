@@ -1,0 +1,76 @@
+标题：经胸腔细针活检
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/diagnostic-and-therapeutic-pulmonary-procedures/transthoracic-needle-biopsy
+============================================================
+
+
+【经胸穿刺活检的适应症】
+经皮肺细针穿刺活检用于评估
+周围性肺结节或肿块
+周围性肺结节或肿块
+肺门、纵隔及胸膜异常
+肺门、纵隔及胸膜异常
+当有支气管镜检查禁忌或不能确诊时，不明原因的浸润性病变或肺炎
+当有支气管镜检查禁忌或不能确诊时，不明原因的浸润性病变或肺炎
+有熟练的细胞病理学家在场时在计算机断层成像（CT）引导下进行操作，经胸腔细针活检诊断恶性肿瘤的准确率大约在90%-95% (1,2,3) 。
+
+【适应症参考文献】
+1.Lee KH, Lim KY, Suh YJ, et al.Diagnostic Accuracy of Percutaneous Transthoracic Needle Lung Biopsies: A Multicenter Study.Korean J Radiol.2019;20(8):1300-1310.doi:10.3348/kjr.2019.0189
+1.Lee KH, Lim KY, Suh YJ, et al.Diagnostic Accuracy of Percutaneous Transthoracic Needle Lung Biopsies: A Multicenter Study.Korean J Radiol.2019;20(8):1300-1310.doi:10.3348/kjr.2019.0189
+2.Lee SM, Park CM, Lee KH, Bahn YE, Kim JI, Goo JM.C-arm cone-beam CT-guided percutaneous transthoracic needle biopsy of lung nodules: clinical experience in 1108 patients.Radiology.2014;271(1):291-300.doi:10.1148/radiol.13131265
+2.Lee SM, Park CM, Lee KH, Bahn YE, Kim JI, Goo JM.C-arm cone-beam CT-guided percutaneous transthoracic needle biopsy of lung nodules: clinical experience in 1108 patients.Radiology.2014;271(1):291-300.doi:10.1148/radiol.13131265
+3.Takeshita J, Masago K, Kato R, et al.CT-guided fine-needle aspiration and core needle biopsies of pulmonary lesions: a single-center experience with 750 biopsies in Japan.AJR Am J Roentgenol2015;204(1):29-34.doi:10.2214/AJR.14.13151
+3.Takeshita J, Masago K, Kato R, et al.CT-guided fine-needle aspiration and core needle biopsies of pulmonary lesions: a single-center experience with 750 biopsies in Japan.AJR Am J Roentgenol2015;204(1):29-34.doi:10.2214/AJR.14.13151
+
+【经胸穿刺活检的禁忌症】
+禁忌症与胸腔穿刺术的禁忌症相似。 另外的禁忌症包括以下几点：
+绝对禁忌证:
+血小板减少症（血小板计数 < 50,000/μL [<50×109/L]）
+血小板减少症（血小板计数 < 50,000/μL [<50×109/L]）
+无法纠正的凝血功能异常
+无法纠正的凝血功能异常
+出血倾向
+出血倾向
+相对禁忌证:
+肺大疱（增加气胸的风险）
+肺大疱（增加气胸的风险）
+对侧肺切除术（耐受气胸的能力受损）
+对侧肺切除术（耐受气胸的能力受损）
+顽固性咳嗽（增加气胸的风险）
+顽固性咳嗽（增加气胸的风险）
+机械通气（增加气胸的风险）
+机械通气（增加气胸的风险）
+肺动脉高压
+肺动脉高压
+如果无法容忍气胸，例如有对侧肺切除术病史，则应推迟手术。
+棘球蚴囊肿、肺脓肿和血管病变一般不做活检。
+
+【经胸穿刺活检程序】
+经胸腔细针活检通常由介入放射科医生操作，细胞病理学家也常在场。
+在无菌条件下、局部麻醉、由影像学引导（通常是CT但有时胸膜下病变也用超声），当病人屏气时活检针穿刺入可疑病灶。
+在无菌条件下、局部麻醉、由影像学引导（通常是CT但有时胸膜下病变也用超声），当病人屏气时活检针穿刺入可疑病灶。
+病变用或不用生理盐水进行抽吸。
+病变用或不用生理盐水进行抽吸。
+收集2～3个样本用于细胞学和细菌学检查。
+收集2～3个样本用于细胞学和细菌学检查。
+操作后行透视或胸部X线检查以排除气胸和出血。
+
+【经胸穿刺活检的并发症】
+并发症（1、2、3）包括以下内容：
+气胸（9%~30%）
+气胸（9%~30%）
+咯血（1%~21％）
+咯血（1%~21％）
+肺实质出血（0%至4%）
+肺实质出血（0%至4%）
+空气栓塞
+空气栓塞
+皮下气肿
+皮下气肿
+
+【并发症参考文献】
+1.Lentz RJ, Frederick-Dyer K, Planz VB, et al.Navigational Bronchoscopy or Transthoracic Needle Biopsy for Lung Nodules.N Engl J Med.2025;392(21):2100-2112.doi:10.1056/NEJMoa2414059
+1.Lentz RJ, Frederick-Dyer K, Planz VB, et al.Navigational Bronchoscopy or Transthoracic Needle Biopsy for Lung Nodules.N Engl J Med.2025;392(21):2100-2112.doi:10.1056/NEJMoa2414059
+2.Nam BD, Yoon SH, Hong H, Hwang JH, Goo JM, Park S.Tissue Adequacy and Safety of Percutaneous Transthoracic Needle Biopsy for Molecular Analysis in Non-Small Cell Lung Cancer: A Systematic Review and Meta-analysis.Korean J Radiol.2021;22(12):2082-2093.doi:10.3348/kjr.2021.0244
+2.Nam BD, Yoon SH, Hong H, Hwang JH, Goo JM, Park S.Tissue Adequacy and Safety of Percutaneous Transthoracic Needle Biopsy for Molecular Analysis in Non-Small Cell Lung Cancer: A Systematic Review and Meta-analysis.Korean J Radiol.2021;22(12):2082-2093.doi:10.3348/kjr.2021.0244
+3.Vachani A, Zhou M, Ghosh S, et al.Complications After Transthoracic Needle Biopsy of Pulmonary Nodules: A Population-Level Retrospective Cohort Analysis.J Am Coll Radiol.2022;19(10):1121-1129.doi:10.1016/j.jacr.2022.04.010
+3.Vachani A, Zhou M, Ghosh S, et al.Complications After Transthoracic Needle Biopsy of Pulmonary Nodules: A Population-Level Retrospective Cohort Analysis.J Am Coll Radiol.2022;19(10):1121-1129.doi:10.1016/j.jacr.2022.04.010

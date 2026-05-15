@@ -1,0 +1,196 @@
+标题：主动脉瓣狭窄
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/valvular-disorders/aortic-stenosis
+============================================================
+
+(参见心脏瓣膜疾病概述。）
+
+【主动脉瓣狭窄的病因】
+在老年患者中,主动脉瓣狭窄最常见的前兆是：
+主动脉瓣硬化
+主动脉瓣硬化
+主动脉瓣硬化是指钙质沉积于主动脉瓣叶，见于65岁以上成年人中的25%至45%（1，2）。主动脉瓣硬化和狭窄的原因尚不清楚，但由炎症过程介导，与动脉粥样硬化相似但不同。遗传、解剖、流体动力学和环境风险因素包括高血压、吸烟、高胆固醇以及二叶式主动脉瓣的存在。脂质沉积和炎症最初通过纤维化和钙化导致主动脉瓣结构增厚，但不会引起明显梗阻。约10%的主动脉瓣硬化患者会在5年内进展为重度主动脉瓣狭窄（3）。
+脂蛋白（a）与主动脉瓣狭窄和动脉粥样硬化的发病机制有关。升高的脂蛋白 (a) 水平也预示着 AS 的血流动力学进展更快。
+患有银屑病的患者发生动脉粥样硬化的风险也有所增加，而最近的研究还发现银屑病与主动脉瓣狭窄风险增加有关。
+<70岁的患者，主动脉瓣狭窄最常见的病因是:
+先天性主动脉瓣二叶瓣化畸形
+先天性主动脉瓣二叶瓣化畸形
+先天性主动脉瓣疾病，包括二叶式主动脉瓣和主动脉瓣狭窄，发生在0.5%至2%的人群中，男性多见（4）；它与主动脉缩窄和升主动脉的渐进性扩张有关，导致主动脉夹层。新生儿主动脉瓣狭窄也可伴随左心发育不全综合征及其变异型。
+在医疗资源不足的国家，在所有年龄组中主动脉狭窄最常见的原因是：
+主动脉瓣上狭窄由孤立的先天性膜或窦-管连接部狭窄或升主动脉狭窄引起的情况较为罕见。瓣上型主动脉瓣狭窄可能是Williams综合征的表现之一，该染色体7微缺失综合征的特征包括特殊面容（前额高宽、眼距过宽、斜视、朝天鼻、长人中、阔嘴、牙齿异常、面颊浮肿、小颌畸形、低位耳）和新生儿高钙血症。
+瓣下型主动脉瓣狭窄由主动脉瓣下方先天性膜或纤维环引起，这种情况较为罕见。肥厚型心肌病可导致左心室流出道动态梗阻。
+
+【病因参考文献】
+1.Ferreira-González I, Pinar-Sopena J, Ribera A, et al.Prevalence of calcific aortic valve disease in the elderly and associated risk factors: a population-based study in a Mediterranean area.Eur J Prev Cardiol2013;20(6):1022-1030.doi:10.1177/2047487312451238
+1.Ferreira-González I, Pinar-Sopena J, Ribera A, et al.Prevalence of calcific aortic valve disease in the elderly and associated risk factors: a population-based study in a Mediterranean area.Eur J Prev Cardiol2013;20(6):1022-1030.doi:10.1177/2047487312451238
+2.Stewart BF, Siscovick D, Lind BK, et al.Clinical factors associated with calcific aortic valve disease.Cardiovascular Health Study.J Am Coll Cardiol1997;29(3):630-634.doi:10.1016/s0735-1097(96)00563-3
+2.Stewart BF, Siscovick D, Lind BK, et al.Clinical factors associated with calcific aortic valve disease.Cardiovascular Health Study.J Am Coll Cardiol1997;29(3):630-634.doi:10.1016/s0735-1097(96)00563-3
+3.Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation143(5):e35–e71, 2021.doi: 10.1161/CIR.0000000000000932
+3.Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation143(5):e35–e71, 2021.doi: 10.1161/CIR.0000000000000932
+4.Siu SC, Silversides CK.Bicuspid aortic valve disease.J Am Coll Cardiol2010;55(25):2789-2800.doi:10.1016/j.jacc.2009.12.068
+4.Siu SC, Silversides CK.Bicuspid aortic valve disease.J Am Coll Cardiol2010;55(25):2789-2800.doi:10.1016/j.jacc.2009.12.068
+
+【主动脉瓣狭窄的病理生理学】
+主动脉瓣狭窄会增加左心室 (LV) 的压力负荷，导致代偿性肥厚，但无心腔扩大（向心性肥厚）。在疾病早期阶段，存在从左心室高压到主动脉低压的压力梯度增加。随着时间推移，心室将不再能够代偿，并开始发生衰竭，继而出现左心室腔继发性扩大、射血分数（EF）下降、心输出量减少，以及主动脉瓣跨瓣压差误导性降低（低压差重度主动脉瓣狭窄），这是因为左心室已无法产生足够高的收缩压。
+主动脉瓣反流在大约7%的患者中伴随主动脉瓣狭窄(1)，约一半的严重AS患者同时有二尖瓣环钙化(2,3)，这可能导致二尖瓣反流。
+患者合并其他疾病也可引起左室扩大、EF下降（如心肌梗死、原发性心肌病）可能产生不足的血流，不能完全开放硬化的主动脉瓣，表现出似乎瓣口面积减小而主动脉瓣狭窄并不非常严重的假象（假性重度主动脉瓣狭窄）。假性重度主动脉瓣狭窄应该与低压力阶差重度主动脉瓣狭窄相鉴别，因为只有低压力阶差重度主动脉瓣狭窄的患者才能从主动脉瓣置换术获益。
+首行显示正常主动脉瓣开放状态（左）与关闭状态（右）。末行显示钙化、增厚的主动脉瓣，伴有因开口减小导致的狭窄（左），以及因闭合不全导致的返流（右）。
+MONICA SCHROEDER / SCIENCE PHOTO LIBRARY
+狭窄主动脉瓣上的剪切应力升高会降解血管性血友病因子多聚体。由此产生的凝血功能异常可能导致血管发育不良患者发生胃肠道出血（Heyde综合征）。该综合征通常在成功进行主动脉瓣置换术后缓解（4）。
+
+【病理生理学参考文献】
+1.Nedadur R, Belzile D, Farrell A, Tsang W.Mixed aortic stenosis and regurgitation: a clinical conundrum.Heart2023;109(4):264-275.Published 2023 Jan 27.doi:10.1136/heartjnl-2021-320501
+1.Nedadur R, Belzile D, Farrell A, Tsang W.Mixed aortic stenosis and regurgitation: a clinical conundrum.Heart2023;109(4):264-275.Published 2023 Jan 27.doi:10.1136/heartjnl-2021-320501
+2.Abramowitz Y, Kazuno Y, Chakravarty T, et al.Concomitant mitral annular calcification and severe aortic stenosis: prevalence, characteristics and outcome following transcatheter aortic valve replacement.Eur Heart J2017;38(16):1194-1203.doi:10.1093/eurheartj/ehw594
+2.Abramowitz Y, Kazuno Y, Chakravarty T, et al.Concomitant mitral annular calcification and severe aortic stenosis: prevalence, characteristics and outcome following transcatheter aortic valve replacement.Eur Heart J2017;38(16):1194-1203.doi:10.1093/eurheartj/ehw594
+3.Mejean S, Bouvier E, Bataille V, et al.Mitral Annular Calcium and Mitral Stenosis Determined by Multidetector Computed Tomography in Patients Referred for Aortic Stenosis.Am J Cardiol2016;118(8):1251-1257.doi:10.1016/j.amjcard.2016.07.044
+3.Mejean S, Bouvier E, Bataille V, et al.Mitral Annular Calcium and Mitral Stenosis Determined by Multidetector Computed Tomography in Patients Referred for Aortic Stenosis.Am J Cardiol2016;118(8):1251-1257.doi:10.1016/j.amjcard.2016.07.044
+4.Goltstein LCMJ, Rooijakkers MJP, Hoeks M, et al.Effectiveness of aortic valve replacement in Heyde syndrome: a meta-analysis.Eur Heart J2023;44(33):3168-3177.doi:10.1093/eurheartj/ehad340
+4.Goltstein LCMJ, Rooijakkers MJP, Hoeks M, et al.Effectiveness of aortic valve replacement in Heyde syndrome: a meta-analysis.Eur Heart J2023;44(33):3168-3177.doi:10.1093/eurheartj/ehad340
+
+【主动脉瓣狭窄的症状和体征】
+先天性主动脉瓣狭窄，若出生时不严重，通常在儿童期或成年早期症状隐匿出现前无症状。无论是先天性还是非先天性主动脉瓣狭窄，若未经治疗持续进展，最终会导致劳力性晕厥、心绞痛和呼吸困难（SAD三联征）。其他症状及体征可能包括心力衰竭和心律失常的症状和体征，包括导致猝死的心室颤动。
+因为心排血量不能增加到足以满足体力活动的需要而发生劳力性晕厥。非劳力性晕厥可能由于压力感受器反应异常或室性心动过速所致。劳力型心绞痛影响众多患者，由冠状动脉粥样硬化或肥厚所致缺血及冠脉血流动力学改变引起（即使无动脉粥样硬化）。
+主动脉瓣狭窄视诊无明显体征。可触及的体征包括颈动脉和外周脉搏幅度减弱且升支缓慢（细迟脉），以及因左心室肥厚导致的心尖搏动持续（第一心音[S1]时冲击、第二心音[S2]时回缩）。收缩功能障碍出现时，左心室搏动可能发生移位。在严重病例中，偶尔可触及第四心音（S4），在心尖部触诊最清晰；并且可触及收缩期震颤，与主动脉瓣狭窄的杂音相对应，在胸骨左上缘触诊最清晰。即使主动脉瓣狭窄严重时收缩压也可能升高，但左心功能衰竭时最终会下降。
+听诊时，S1正常，S2可能呈单音，因为主动脉瓣关闭延迟，可能与肺动脉瓣（P2）成分融合。主动脉瓣成分也可能很柔和。可闻及S2反常分裂。正常分裂的S2音是能可靠排除重度主动脉瓣狭窄的唯一体征。可能听到 S4。先天性二叶式主动脉瓣狭窄（AS）患者中，若瓣叶僵硬但未完全固定，S1后早期或可闻及喷射性喀喇音。做影响血流动力学的动作时喀喇音不变。
+典型体征为递增-递减型喷射性杂音，患者取坐位前倾姿势时，用听诊器膜型胸件在胸骨左右上缘听诊最清晰。杂音典型地放射到右锁骨和两侧颈动脉（左侧常较右侧更响），其性质为粗糙或刺耳的。
+在较年长的病人中，钙化的主动脉瓣叶的未融合的瓣尖的震动可能传递一更响亮、更高调、“鸟鸣样”或乐音样杂音到心尖部，胸骨旁杂音变柔软或缺如（Gallavardin现象），因而与二尖瓣反流的杂音混淆。当狭窄不太严重时杂音柔和，随狭窄进展而变响亮，并随狭窄加重变得更长且在收缩晚期达到响度高峰（即渐增期变得更长，渐减期变得更短）。当极重度主动脉瓣狭窄患者的左心室收缩力下降时，杂音会变得更柔和、更短促。因此，在这种情况下，杂音的强度可能具有误导性。
+主动脉瓣狭窄的杂音通常在增加左心室容量和收缩力的动作时（如，抬腿、下蹲、瓦尔萨尔瓦动作松弛期、一个室性早搏后）增强，而在降低左心室容量（乏氏动作用力期）或增加后负荷（等长握拳）的动作时减弱。这些动力学动作对肥厚性梗阻型心肌病杂音则起相反的作用，这种杂音在其他方面可能与主动脉瓣狭窄的杂音相仿。由于二尖瓣后叶脱垂引起反流的杂音也和主动脉瓣狭窄相似。
+
+【主动脉瓣狭窄的诊断】
+超声心动图
+超声心动图
+临床疑诊主动脉瓣狭窄，确诊依赖于超声心动图。应用经胸二维超声心动图来识别狭窄的主动脉瓣和可能的原因，定量左心室肥厚和收缩功能障碍程度，并检测并存的瓣膜性心脏病（主动脉瓣反流、二尖瓣疾病）和并发症（如，心内膜炎）。应用多普勒超声心动图通过测量射流速度、跨瓣收缩期压差和主动脉瓣面积来定量狭窄程度。
+主动脉瓣狭窄的严重程度在超声心动图上有特征性表现 (1)：
+轻度：主动脉峰值射流速度 2.5 至 2.9 m/秒，平均梯度 10 至 20 mm Hg，或瓣膜面积 1.5 至 2.0 cm2
+轻度：主动脉峰值射流速度 2.5 至 2.9 m/秒，平均梯度 10 至 20 mm Hg，或瓣膜面积 1.5 至 2.0 cm2
+中度：主动脉射流峰值速度 3 至 4 m/秒，平均梯度 20 至 40 mm Hg，或瓣膜面积 1.0 至 1.5 cm2
+中度：主动脉射流峰值速度 3 至 4 m/秒，平均梯度 20 至 40 mm Hg，或瓣膜面积 1.0 至 1.5 cm2
+严重：主动脉射流峰值速度 > 4 米/秒，平均梯度 > 40 mm Hg，或瓣膜面积<1.0 厘米2
+严重：主动脉射流峰值速度 > 4 米/秒，平均梯度 > 40 mm Hg，或瓣膜面积<1.0 厘米2
+极重度：主动脉瓣峰流速> 5 m/秒或平均梯度> 60 mm Hg
+极重度：主动脉瓣峰流速> 5 m/秒或平均梯度> 60 mm Hg
+当各参数不一致时需要临床评估和对数据的批判性审查（例如，中度瓣膜面积但高跨瓣压差）。当左室功能正常时，更倾向于采用峰值流速测量，其可重复性显著高于瓣口面积（2）。当左室容积或收缩功能降低或存在全身性高血压时，主动脉瓣狭窄的量化最不准确。
+当合并主动脉瓣关闭不全时，梯度可能被高估。当心搏量低时跨瓣压差的严重性可能会被低估，如患者存在全身性高血压或左心室收缩功能障碍（低压差、低EF的AS），或小而肥厚的LV（低压差、EF正常的AS--见表严重主动脉狭窄的类型）。
+有时左心室收缩功能障碍导致心室压力不足，无法充分打开非狭窄的瓣叶，从而在无狭窄的情况下出现超声显示瓣膜面积小的假象（假性狭窄）。通过计算流出道与主动脉速度的比值（多普勒速度指数，[DVI]）可以帮助鉴别假性狭窄与低梯度 AS。DVI 值 < 0.25 表明真正的严重狭窄。
+通过计算机断层扫描（CT）评估瓣膜钙化程度可以帮助确定主动脉瓣狭窄的严重程度。当瓣膜钙化评分提示男性＞2000阿加斯顿单位（AU）、女性＞1300阿加斯顿单位时，提示可能存在重度主动脉瓣狭窄。当男性钙化评分 > 3000 AU，女性钙化评分 > 1600 AU 时，极可能提示重度主动脉瓣狭窄。低剂量多巴酚丁胺负荷超声心动图可区分低梯度主动脉瓣狭窄与假性狭窄。
+
+【严重主动脉瓣狭窄的类型】
+严重主动脉瓣狭窄的类型
+重度主动脉瓣狭窄类型
+Vmax
+瓣膜面积
+左心室射血分数
+高梯度（无症状或有症状）
+≥4.0 米/秒
+≤1.0 cm2
+≥50%
+低流量、低梯度，EF 降低
+<4.0 米/秒
+≤1.0 cm2
+<50%
+用低剂量多巴酚丁胺超声心动图鉴别假性狭窄，瓣膜面积<1.0 cm2，最大流速 > 4.0 米/秒
+低流量、低梯度伴正常 EF（矛盾性低流量主动脉瓣狭窄）
+<4.0 米/秒
+≤1.0 cm2
+≥50% 伴小型肥厚左心室
+通过测量血压正常时患者的每搏输出量指数<35 mL/m2来区分非重度主动脉瓣狭窄。
+AS = 主动脉瓣狭窄； DVI = 多普勒速度指数，LV 流出道与主动脉速度之比； LV EF = 左心室射血分数； Vmax = 穿过主动脉瓣的峰值前向速度。
+Data fromOtto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation143(5):e35–e71, 2021.doi: 10.1161/CIR.0000000000000932
+AS = 主动脉瓣狭窄； DVI = 多普勒速度指数，LV 流出道与主动脉速度之比； LV EF = 左心室射血分数； Vmax = 穿过主动脉瓣的峰值前向速度。
+Data fromOtto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation143(5):e35–e71, 2021.doi: 10.1161/CIR.0000000000000932
+心脏导管检查通常在实施干预措施之前进行，其主要目的在于明确冠状动脉疾病（CAD）是否为心绞痛的病因，并且在部分情况下，用于解决临床表现与超声心动图评估在主动脉瓣狭窄（AS）严重程度判断上的不一致之处。
+应行心电图和胸部Ｘ线检查。
+典型的心电图显示左心室肥厚改变伴或不伴有缺血性ST和T波图形。
+胸部X线表现可能包括主动脉瓣叶钙化（见于侧位片或透视下）及心力衰竭征象。心脏大小通常是正常的或轻度增大。
+对于无症状的重度主动脉瓣狭窄患者，建议在密切监护下进行运动心电图测试，以尝试诱发心绞痛、呼吸困难或低血压症状——任何由主动脉瓣狭窄引起的这些症状均为干预指征。若血压未能正常升高或出现ST段压低，则不良预后的预测价值较低。有症状患者禁忌行运动试验。
+
+【心脏杂音的心音图特征】
+心脏杂音的心音图特征
+
+【诊断参考】
+1.Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation143(5):e35–e71, 2021.doi: 10.1161/CIR.0000000000000932
+1.Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation143(5):e35–e71, 2021.doi: 10.1161/CIR.0000000000000932
+2.Manna D, Eliasson M, Bech-Hanssen O, Lindow T.Reproducibility of Echocardiographic Measures of Aortic Stenosis Severity and its Impact on Grading of Severity.J Am Soc Echocardiogr37(3):370–372.e2, 2024.doi:10.1016/j.echo.2023.11.006
+2.Manna D, Eliasson M, Bech-Hanssen O, Lindow T.Reproducibility of Echocardiographic Measures of Aortic Stenosis Severity and its Impact on Grading of Severity.J Am Soc Echocardiogr37(3):370–372.e2, 2024.doi:10.1016/j.echo.2023.11.006
+
+【主动脉瓣狭窄的治疗】
+有时需要进行主动脉瓣置换术
+有时需要进行主动脉瓣置换术
+目前尚无确切证据表明有任何方法可延缓主动脉瓣狭窄的进展（1）。他汀类药物无效（2）。
+尽管硝普钠被临时用于失代偿性心力衰竭患者在换瓣术前数小时降低后负荷，但引起低血压的药物（如硝酸酯类）应谨慎使用。
+发生心力衰竭但瓣膜干预风险过高的患者，可从谨慎使用地高辛、利尿剂和血管紧张素转换酶（ACE）抑制剂的治疗中获益。
+
+【干预指征】
+当患者出现症状和/或满足一定的超声心动图的标准，才推荐介入治疗。因此，患者需要定期的临床评估，包括超声心动图和必要时的运动试验，以确定瓣膜置换术的最佳时机 (1)。当主动脉瓣狭窄严重且有以下任何一种情况时，建议更换瓣膜：
+运动测试诱发症状，或显示运动耐力降低，或血压下降≥10 mmHg（低于基线）
+运动测试诱发症状，或显示运动耐力降低，或血压下降≥10 mmHg（低于基线）
+LV EF <50％
+LV EF <50％
+此外，如果手术风险较低，无症状的严重AS患者若存在以下任何一种情况，也可考虑手术：
+非常严重的 AS（主动脉速度 > 5 m/s）
+非常严重的 AS（主动脉速度 > 5 m/s）
+脑（B型）利钠肽（BNP）水平高于正常值3倍
+脑（B型）利钠肽（BNP）水平高于正常值3倍
+没有其他解释的严重肺动脉高压
+没有其他解释的严重肺动脉高压
+EF 下降至 < 60%
+EF 下降至 < 60%
+严重的瓣膜钙化伴随着狭窄的快速进展（主动脉瓣面积减少 ≥ 0.3米/秒/年）
+严重的瓣膜钙化伴随着狭窄的快速进展（主动脉瓣面积减少 ≥ 0.3米/秒/年）
+证据也支持对无症状但严重的主动脉瓣狭窄进行手术干预。
+当因其他原因进行心脏手术时，如果主动脉瓣狭窄达到中度或以上，则无论症状如何，均应考虑同时进行主动脉瓣手术。
+
+【干预的选择】
+经导管球囊瓣膜成形术主要用于患有先天性主动脉瓣狭窄的儿童和青少年。
+对于不适合外科手术的老年患者，球囊瓣膜成形术可作为瓣膜置换术的桥梁，但这种手术并发症率高，只能提供暂时的缓解。 经导管瓣膜植入术即使在患病的高危患者中也能以相似的手术风险进行，因此更为常见。
+外科主动脉瓣置换（SAVR）通常包括机械瓣膜或生物瓣膜的替换 。对于年轻患者，可以使用患者自己的肺动脉瓣，然后用生物假体代替肺动脉瓣（罗斯手术）。Ross手术相对于仅更换主动脉瓣的外科主动脉瓣置换术（SAVR）的优点是提高了手术的耐久性。暴露于全身压力的瓣膜是患者自己的肺动脉瓣，它比其他置换瓣膜持续时间更长。位于肺动脉位置的生物假体往往也能持续相对较长的时间。
+经导管（经皮）主动脉瓣植入术 (TAVI)（有时称为经导管主动脉瓣置换术，或 TAVR）是一种侵入性较小的主动脉瓣置换术 。
+TAVI 瓣膜的构造与 SAVR 瓣膜不同； TAVI 瓣膜以折叠结构通过动脉插入主动脉瓣部位，然后展开/扩张以替换狭窄的主动脉瓣。
+选择在于外科主动脉瓣置换术（SAVR）的即时风险和并发症，与经导管主动脉瓣置换术（TAVI）瓣膜10年以上未知的耐久性之间的权衡，不过为期长达10年的耐久性研究显示，在此期间瓣膜结构退化率低于10%（3、4、5）。用于指导共同决策的指南建议，年龄<65岁的患者采用外科主动脉瓣置换术；对于动脉适合经股动脉途径且年龄>80岁或预期寿命<10年的患者，优先选择经导管主动脉瓣置换术。对于65-80岁、动脉适合经股动脉经导管主动脉瓣置换术的患者，外科主动脉瓣置换术与经导管主动脉瓣置换术的选择需根据患者个体特征决定（1)。若患者动脉不适合经股动脉途径，只要手术风险不高，优先选择外科主动脉瓣置换术。
+对于预期寿命<1 年的患者，即使手术成功，也不建议进行干预。
+与SAVR相比，经股TAVI具有更低的短期死亡率和更低的卒中、大出血和房颤风险。TAVI还需要更短的住院时间，引起的疼痛更少，并允许更快地恢复活动；然而，它也增加了血管并发症和瓣旁反流，增加了永久起搏器植入和早期重复瓣膜介入的需要。随着研究纳入更年轻、症状更轻的患者，TAVI适应证将扩大，但因方法学潜在缺陷需谨慎解读试验结果（6、7）。
+应进行冠状动脉疾病（CAD）的术前评估，以便在适应症明确时，可在同一手术中同时进行冠状动脉旁路移植术（CABG）和瓣膜置换术。
+主动脉生物瓣需要术后3~6个月抗凝治疗，机械瓣膜需要终生采用华法林抗凝治疗。对于植入生物瓣膜且患有房颤的患者，可考虑使用长期非维生素K口服抗凝药或华法林（另见人工心脏瓣膜或自体瓣膜疾病患者的抗凝治疗）。
+
+【治疗参考文献】
+1.Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation143(5):e35–e71, 2021.doi: 10.1161/CIR.0000000000000932
+1.Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation143(5):e35–e71, 2021.doi: 10.1161/CIR.0000000000000932
+2.Thiago L, Tsuji SR, Nyong J, et al: Statins for aortic valve stenosis.Cochrane Database Syst Rev9(9):CD009571, 2016.doi:10.1002/14651858.CD009571.pub2
+2.Thiago L, Tsuji SR, Nyong J, et al: Statins for aortic valve stenosis.Cochrane Database Syst Rev9(9):CD009571, 2016.doi:10.1002/14651858.CD009571.pub2
+3.Ali N, Hildick-Smith D, Parker J, et al: Long-term durability of self-expanding and balloon-expandable transcatheter aortic valve prostheses: UK TAVI registry.Catheter Cardiovasc Interv101(5):932–942, 2023.doi:10.1002/ccd.30627
+3.Ali N, Hildick-Smith D, Parker J, et al: Long-term durability of self-expanding and balloon-expandable transcatheter aortic valve prostheses: UK TAVI registry.Catheter Cardiovasc Interv101(5):932–942, 2023.doi:10.1002/ccd.30627
+4.Blackman DJ, Saraf S, MacCarthy PA, et al: Long-Term Durability of Transcatheter Aortic Valve Prostheses.J Am Coll Cardiol73(5):537–545, 2019.doi:10.1016/j.jacc.2018.10.078
+4.Blackman DJ, Saraf S, MacCarthy PA, et al: Long-Term Durability of Transcatheter Aortic Valve Prostheses.J Am Coll Cardiol73(5):537–545, 2019.doi:10.1016/j.jacc.2018.10.078
+5.Carrabba N, Migliorini A, Fumagalli C, et al: Long-Term Durability of Transcatheter Aortic Valve Implantation With Self-Expandable Valve System (from a Real-World Registry).Am J Cardiol143:104–110, 2021.doi:10.1016/j.amjcard.2020.12.032
+5.Carrabba N, Migliorini A, Fumagalli C, et al: Long-Term Durability of Transcatheter Aortic Valve Implantation With Self-Expandable Valve System (from a Real-World Registry).Am J Cardiol143:104–110, 2021.doi:10.1016/j.amjcard.2020.12.032
+6.Généreux P, Schwartz A, Oldemeyer JB, et al: Transcatheter Aortic-Valve Replacement for Asymptomatic Severe Aortic Stenosis.N Engl J Med392(3):217–227, 2025.doi:10.1056/NEJMoa2405880
+6.Généreux P, Schwartz A, Oldemeyer JB, et al: Transcatheter Aortic-Valve Replacement for Asymptomatic Severe Aortic Stenosis.N Engl J Med392(3):217–227, 2025.doi:10.1056/NEJMoa2405880
+7.Rajkumar CA, Nijjer SS, Cole GD, Al-Lamee R, Francis DP: 'Faith Healing' and 'Subtraction Anxiety' in Unblinded Trials of Procedures: Lessons from DEFER and FAME-2 for End Points in the ISCHEMIA Trial [published correction appears in Circ Cardiovasc Qual Outcomes. 2018 Apr;11(4):e000038. doi: 10.1161/HCQ.0000000000000038.. Title corrected].Circ Cardiovasc Qual Outcomes11(3):e004665., 2018 doi:10.1161/CIRCOUTCOMES.118.004665
+7.Rajkumar CA, Nijjer SS, Cole GD, Al-Lamee R, Francis DP: 'Faith Healing' and 'Subtraction Anxiety' in Unblinded Trials of Procedures: Lessons from DEFER and FAME-2 for End Points in the ISCHEMIA Trial [published correction appears in Circ Cardiovasc Qual Outcomes. 2018 Apr;11(4):e000038. doi: 10.1161/HCQ.0000000000000038.. Title corrected].Circ Cardiovasc Qual Outcomes11(3):e004665., 2018 doi:10.1161/CIRCOUTCOMES.118.004665
+
+【主动脉瓣狭窄的预后】
+主动脉瓣狭窄随着狭窄程度加重而快速进展，但进展速率有很大变异性，需要规律随访监测，尤其是久坐活动较少的老年患者。在这种病人中，血流动力学可能已有明显损害，而不引起症状。
+无症状的重度主动脉瓣狭窄且收缩功能正常的患者应每6个月重新评估一次，因为多达11%的患者可能在1年后出现左心室射血分数下降（1）。在无症状患者中，手术风险大于其生存获益；但一旦出现症状，平均生存期会降至 3 年（2），此时应及时行瓣膜置换术，以缓解症状并改善生存率。对需要同时作冠状动脉旁路手术（CABG）的病人和有左心室收缩功能低下的病人增加了手术的危险性。
+严重AS患者中约13%猝死（3），应建议其限制体力活动。
+
+【预后参考文献】
+1.Minamino-Muta E, Kato T, Morimoto T, et al.Decline in Left Ventricular Ejection Fraction During Follow-Up in Patients With Severe Aortic Stenosis.JACC Cardiovasc Interv2019;12(24):2499-2511.doi:10.1016/j.jcin.2019.09.015
+1.Minamino-Muta E, Kato T, Morimoto T, et al.Decline in Left Ventricular Ejection Fraction During Follow-Up in Patients With Severe Aortic Stenosis.JACC Cardiovasc Interv2019;12(24):2499-2511.doi:10.1016/j.jcin.2019.09.015
+2.Carabello BA.Introduction to aortic stenosis.Circ Res2013;113(2):179-185.doi:10.1161/CIRCRESAHA.113.300156
+2.Carabello BA.Introduction to aortic stenosis.Circ Res2013;113(2):179-185.doi:10.1161/CIRCRESAHA.113.300156
+3.Minamino-Muta E, Kato T, Morimoto T, et al.Causes of Death in Patients with Severe Aortic Stenosis: An Observational study.Sci Rep2017;7(1):14723.Published 2017 Nov 7.doi:10.1038/s41598-017-15316-6
+3.Minamino-Muta E, Kato T, Morimoto T, et al.Causes of Death in Patients with Severe Aortic Stenosis: An Observational study.Sci Rep2017;7(1):14723.Published 2017 Nov 7.doi:10.1038/s41598-017-15316-6
+对于<70 岁患者而言，主动脉瓣狭窄 (AS) 最常见的原因是二叶式主动脉瓣；对于老年患者而言，则是主动脉硬化。
+对于<70 岁患者而言，主动脉瓣狭窄 (AS) 最常见的原因是二叶式主动脉瓣；对于老年患者而言，则是主动脉硬化。
+未经治疗的AS最终导致劳累性晕厥，心绞痛和呼吸困难；可能会发生突然死亡。
+未经治疗的AS最终导致劳累性晕厥，心绞痛和呼吸困难；可能会发生突然死亡。
+典型的心音是一个递增递减型喷射性杂音，在用增加左心室容量的动作时（如，抬腿、下蹲、乏氏动作松弛期）增强，而在降低左心室（LV）容量（乏氏动作用力期）或增加后负荷（等长握拳）动作时减弱。
+典型的心音是一个递增递减型喷射性杂音，在用增加左心室容量的动作时（如，抬腿、下蹲、乏氏动作松弛期）增强，而在降低左心室（LV）容量（乏氏动作用力期）或增加后负荷（等长握拳）动作时减弱。
+硝酸酯类药物可能导致危险的低血压，对于患有主动脉瓣狭窄引起心绞痛的患者应谨慎使用。
+硝酸酯类药物可能导致危险的低血压，对于患有主动脉瓣狭窄引起心绞痛的患者应谨慎使用。
+运动试验对无明显症状患者的风险分层和手术必要性评估很有帮助。
+运动试验对无明显症状患者的风险分层和手术必要性评估很有帮助。
+一旦出现症状或发生左室功能不全，即需行瓣膜置换术。
+一旦出现症状或发生左室功能不全，即需行瓣膜置换术。
+手术或经导管主动脉瓣置换术是许多患者的选择，但经导管主动脉瓣置换术的长期安全性数据仍在积累中（尤其是低风险患者）。
+手术或经导管主动脉瓣置换术是许多患者的选择，但经导管主动脉瓣置换术的长期安全性数据仍在积累中（尤其是低风险患者）。

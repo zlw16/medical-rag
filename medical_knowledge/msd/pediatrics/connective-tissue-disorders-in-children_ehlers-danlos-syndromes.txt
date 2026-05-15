@@ -1,0 +1,211 @@
+标题：Ehlers-Danlos综合征
+来源：https://www.msdmanuals.cn/professional/pediatrics/connective-tissue-disorders-in-children/ehlers-danlos-syndromes
+============================================================
+
+埃勒斯-丹洛斯综合征具有高度异质性。当前的埃勒斯-当洛综合征分类系统认可14种临床类型，由20个基因的变异引起 （1，2）。患有厄尔斯-丹洛斯综合征的患者在编码纤维蛋白胶原类型 I、III 和 V 的基因中存在致病性变异；以及与这些变异相关的修饰或加工酶（例如赖氨酸羟化酶，作为胶原分解蛋白酶）；糖胺聚糖生物合成；补体途径；或其他细胞内过程。
+有14种临床类型：参见表格埃勒斯-丹洛斯综合征的临床类型。
+活动过度型、经典型和血管型最为常见；其中活动过度型尚未发现明确的基因突变。
+
+【埃勒斯-丹洛斯综合征的临床类型】
+埃勒斯-丹洛斯综合征的临床类型
+常见临床特征
+基因变异
+分子病理生理学
+脆弱皮肤（丝绒状或生面团状质地）
+萎缩性瘢痕
+全身性过度活动
+COL5A1
+COL5A2
+COL1A1
+胶原蛋白的结构和加工
+动脉脆弱性、动脉瘤、夹层、破裂
+结肠与子宫、肌肉或肌腱断裂
+突发性气胸
+COL3A1
+COL1A1
+胶原蛋白的结构和加工
+关节松弛症
+严重过度活动伴脱位
+先天性髋关节脱位（双侧）
+组织脆弱性与萎缩性瘢痕
+COL1A1
+COL1A2
+胶原蛋白的结构和加工
+皮肤脆裂症
+皮肤极度脆弱伴有皮肤松弛、过度伸展及严重瘀伤
+特征性颅面特征*
+ADAMTS2
+胶原蛋白的结构和加工
+心脏瓣膜
+心脏瓣膜关闭不全
+过度活动
+COL1A2
+胶原蛋白的结构和加工
+脊柱后侧凸
+张力过低
+先天性/早发性脊柱后侧凸
+过度活动
+PLOD1
+FKBP14
+胶原蛋白的折叠与交联
+类经典2型（暂定）
+经典型：
+皮肤过度伸展（质地如si绒般）；无萎缩性瘢痕
+腿部水肿
+类经典2型：
+皮肤过度伸展伴萎缩性瘢痕
+全身性过度活动
+骨量减少
+兼而有之:
+足部畸形†
+经典样：TNXB
+类经典2型：AEBP1
+经典型：肌基质结构和功能
+类经典2型：胶原蛋白和细胞外基质形成
+张力过低
+过度活动
+COL12A1
+肌基质结构和功能
+肌肉挛缩性
+多发性挛缩
+特征性颅面特征*
+皮肤脆弱、过度伸展伴容易瘀伤
+CHST14
+糖胺聚糖生物合成
+脊柱发育不良
+进行性身材矮小
+张力过低
+肢体弯曲
+部分受累基因相关的特异性颅面特征
+B4GALT7
+B3GALT6
+SLC39A13
+糖胺聚糖生物合成（B4GALT7和B3GALT6）
+细胞内过程（SLC39A13）
+脆性角膜综合征
+角膜薄、角膜破裂、视网膜脱离
+听力损失
+ZNF469
+PRDM5
+细胞外基质稳态
+严重、早发性牙周病伴牙齿缺失
+胫前斑块
+皮肤过度伸展伴易出现瘀伤
+补体途径
+高活动性
+全身关节过度活动
+关节不稳
+慢性疼痛
+* 颅面特征包括大囟门、向下倾斜的眼睑裂和蓝色巩膜；其他特征因埃勒斯-当洛斯综合征类型而异。1
+† 足部畸形包括宽前足、短趾畸形、扁平足、拇囊炎和足跟丘疹。
+Data fromThe Ehlers-Danlos Society.2017 EDS International Classification;Malfait F, Castori M, Francomano CA, Giunta C, Kosho T, Byers PH.The Ehlers-Danlos syndromes.Nat Rev Dis Primers.2020;6(1):64.Published 2020 Jul 30.doi:10.1038/s41572-020-0194-9; and fromMalfait F, Francomano C, Byers P, et al.The 2017 international classification of the Ehlers-Danlos syndromes.Am J Med Genet C Semin Med Genet.2017;175(1):8-26.doi:10.1002/ajmg.c.31552.
+* 颅面特征包括大囟门、向下倾斜的眼睑裂和蓝色巩膜；其他特征因埃勒斯-当洛斯综合征类型而异。1
+† 足部畸形包括宽前足、短趾畸形、扁平足、拇囊炎和足跟丘疹。
+Data fromThe Ehlers-Danlos Society.2017 EDS International Classification;Malfait F, Castori M, Francomano CA, Giunta C, Kosho T, Byers PH.The Ehlers-Danlos syndromes.Nat Rev Dis Primers.2020;6(1):64.Published 2020 Jul 30.doi:10.1038/s41572-020-0194-9; and fromMalfait F, Francomano C, Byers P, et al.The 2017 international classification of the Ehlers-Danlos syndromes.Am J Med Genet C Semin Med Genet.2017;175(1):8-26.doi:10.1002/ajmg.c.31552.
+
+【参考文献】
+1.Malfait F, Francomano C, Byers P, et al.The 2017 international classification of the Ehlers-Danlos syndromes.Am J Med Genet C Semin Med Genet.2017;175(1):8-26.doi:10.1002/ajmg.c.31552
+1.Malfait F, Francomano C, Byers P, et al.The 2017 international classification of the Ehlers-Danlos syndromes.Am J Med Genet C Semin Med Genet.2017;175(1):8-26.doi:10.1002/ajmg.c.31552
+2.Malfait F, Castori M, Francomano CA, Giunta C, Kosho T, Byers PH.The Ehlers-Danlos syndromes.Nat Rev Dis Primers.2020;6(1):64.Published 2020 Jul 30.doi:10.1038/s41572-020-0194-9
+2.Malfait F, Castori M, Francomano CA, Giunta C, Kosho T, Byers PH.The Ehlers-Danlos syndromes.Nat Rev Dis Primers.2020;6(1):64.Published 2020 Jul 30.doi:10.1038/s41572-020-0194-9
+
+【Ehlers-Danlos综合征的症状和体征】
+症状和体征因类型和患者而异；某些表现在许多类型之间是共同的，而另一些特征则是特定于个体类型的。
+常见但非普遍的症状包括关节过度活动、异常瘢痕形成和伤口愈合血管脆弱，以及皮肤柔软、过度伸展。皮肤可以拉伸几厘米，但释放后会恢复正常。宽大的纸质样瘢痕常累及骨性突起部位，尤其是肘部、膝部和小腿前侧；而在关节活动过度型患者中，瘢痕程度相对较轻。肉赘状假瘤（肉质赘生物）常形成于瘢痕顶部或受压部位。
+关节活动过度的程度不同，但关节松弛型、经典型和活动过度型中关节活动过度都相当明显。其他关节表现包括脊柱后凸伴侧弯（尤其见于后凸侧弯型患者）、胸廓畸形、马蹄内翻足、扁平足以及发育性髋关节发育不良（旧称先天性髋关节脱位）。关节松弛型的特征是双侧髋关节发育不良。
+过度活动型可能伴有自主神经功能障碍，包括体位性直立性心动过速综合征和肠脑相互作用障碍。
+尽管血管型以动脉瘤血管破裂和易瘀伤为特征，但出血倾向较为罕见。
+皮下钙化球可在触诊时被扪及或在X线片上观察到。
+埃勒斯-当洛斯综合征患者的皮肤弹性异常。
+
+【Ehlers-Danlos综合征的并发症】
+埃勒斯-当洛斯综合征可包括任何器官或组织的功能障碍（1）：
+皮肤：轻微创伤可能导致创口大面积裂开但出血较少；手术伤口缝合可能困难，因为缝线易从脆弱组织中撕裂。因深部组织变脆引起外科并发症。
+皮肤：轻微创伤可能导致创口大面积裂开但出血较少；手术伤口缝合可能困难，因为缝线易从脆弱组织中撕裂。因深部组织变脆引起外科并发症。
+眼部：巩膜和角膜可能很脆弱，导致眼球穿孔。
+眼部：巩膜和角膜可能很脆弱，导致眼球穿孔。
+关节：常出现无痛性滑膜积液、扭伤和脱位。
+关节：常出现无痛性滑膜积液、扭伤和脱位。
+胃肠道（GI）：常见疝和憩室。在极少数情况下，部分胃肠道会自发出血和穿孔。
+胃肠道（GI）：常见疝和憩室。在极少数情况下，部分胃肠道会自发出血和穿孔。
+心血管系统：二尖瓣脱垂是最严重类型（血管型）的常见并发症，也可见于其他类型。患者可能出现主动脉夹层动脉瘤和大动脉自发性破裂。
+心血管系统：二尖瓣脱垂是最严重类型（血管型）的常见并发症，也可见于其他类型。患者可能出现主动脉夹层动脉瘤和大动脉自发性破裂。
+在怀孕患者中，由于催产素水平升高，组织可扩展性恶化，可能导致早产，宫颈功能不全，并可能导致子宫破裂。如果胎儿受到影响，胎膜就会变得脆弱，有时会导致早期破裂。母体组织脆弱可能使会阴切开术或剖宫产复杂化。可能会发生产前、围产期和产后出血。
+其他潜在的严重并发症包括动静脉瘘、内脏破裂、气胸或血气胸。
+
+【症状和体征】
+1.Malfait F, Castori M, Francomano CA, Giunta C, Kosho T, Byers PH.The Ehlers-Danlos syndromes.Nat Rev Dis Primers.2020;6(1):64.Published 2020 Jul 30.doi:10.1038/s41572-020-0194-9
+1.Malfait F, Castori M, Francomano CA, Giunta C, Kosho T, Byers PH.The Ehlers-Danlos syndromes.Nat Rev Dis Primers.2020;6(1):64.Published 2020 Jul 30.doi:10.1038/s41572-020-0194-9
+
+【Ehlers-Danlos综合征的诊断】
+临床标准
+临床标准
+证实的基因检测测试
+证实的基因检测测试
+超声心动图和/或其他血管成像筛查心血管并发症。
+超声心动图和/或其他血管成像筛查心血管并发症。
+大多数但不是所有类型的埃勒斯-丹洛斯综合征都涉及到以下一项或两项：
+关节活动过度
+关节活动过度
+皮肤过度伸展（超弹性）
+皮肤过度伸展（超弹性）
+PDC/SCIENCE PHOTO LIBRARY
+Biophoto Associates/SCIENCE PHOTO LIBRARY
+因此，对于表现为频繁关节脱位、伤口愈合不良和/或频发或不典型瘢痕形成的患者，可考虑该诊断。然而，关节过度活动在普通人群中是很常见的。此外，还应该考虑其他具有类似关节和/或皮肤表现的结缔组织疾病（例如，马凡综合征，皮肤松弛症）。
+通过简单询问患者是否存在关节过度活动的情况进行初步筛查可能会有所帮助（1）：
+你现在能，或者你曾经能，把你的手平放在地板上而不弯曲膝盖吗？
+你现在能，或者你曾经能，把你的手平放在地板上而不弯曲膝盖吗？
+你现在，或者说你曾经，能不能弯曲你的拇指来触摸你的前臂？
+你现在，或者说你曾经，能不能弯曲你的拇指来触摸你的前臂？
+作为一个孩子，你是通过把自己的身体扭曲成奇怪的形状来取悦你的朋友，还是你会做劈叉？
+作为一个孩子，你是通过把自己的身体扭曲成奇怪的形状来取悦你的朋友，还是你会做劈叉？
+作为一个孩子或青少年，你的膝盖骨或肩膀是否不止一次脱臼？
+作为一个孩子或青少年，你的膝盖骨或肩膀是否不止一次脱臼？
+你觉得自己是“关节超灵活”（或“双关节”）的人吗？
+你觉得自己是“关节超灵活”（或“双关节”）的人吗？
+若对其中2个或以上问题回答"是"，则强烈提示存在关节过度活动，可通过 Beighton 评分系统进行体格检查进一步评估 (2)。这个工具评估了4对关节（第五指、拇指、肘部、膝部）和脊柱的过度活动。每出现一个符合定义的关节过度活动标准，记1分；青春期前儿童评分≥6分，青春期后儿童及≤50岁成人评分≥5分，50岁以上成人评分≥4分，为关节过度活动阳性（2）。
+在标准化的区域评估皮肤的过度伸展性。如果皮肤在前臂远端和手背上可以拉伸>1.5厘米，在颈部、肘部和膝盖上可以拉伸>3厘米，在手掌上可以拉伸>1厘米，则被认为是过度拉伸（2)。
+每个Ehlers-Danlos类型都有主要和次要的临床标准，（2,3)，通常包括是否存在关节过度活动和皮肤过度伸展。然而，不同类型之间以及同一类型内部均存在显著差异，目前除活动过度型外的所有亚型均可通过基因检测确诊，因此诊断需以基因检测结果为准。
+皮肤活检的超微结构检查有助于诊断经典型、关节活动过度型及血管型（相关疾病）。
+进行超声心动图和其他血管成像以检查与一些类型相关的心脏病（例如，瓣膜脱垂，动脉瘤）。
+
+【诊断参考】
+1.Hakim AJ, Grahame R.A simple questionnaire to detect hypermobility: An adjunct to the assessment of patients with diffuse musculoskeletal pain.Int J Clin Pract.2003;57(3):163–166.
+1.Hakim AJ, Grahame R.A simple questionnaire to detect hypermobility: An adjunct to the assessment of patients with diffuse musculoskeletal pain.Int J Clin Pract.2003;57(3):163–166.
+2.Malfait F, Francomano C, Byers P, et al.The 2017 international classification of the Ehlers-Danlos syndromes.Am J Med Genet C Semin Med Genet.2017;175(1):8-26.doi:10.1002/ajmg.c.31552
+2.Malfait F, Francomano C, Byers P, et al.The 2017 international classification of the Ehlers-Danlos syndromes.Am J Med Genet C Semin Med Genet.2017;175(1):8-26.doi:10.1002/ajmg.c.31552
+3.The Ehlers-Danlos Society.类型Accessed May 12, 2025.
+3.The Ehlers-Danlos Society.类型Accessed May 12, 2025.
+
+【Ehlers-Danlos综合征的治疗】
+早期识别和治疗并发症
+早期识别和治疗并发症
+许多亚型的埃勒斯-当洛斯综合征尚无特效治疗方法。
+应尽量避免创伤。保护性的衣服和垫子可能有帮助。
+物理治疗结合肌肉强化可增强关节稳定性。
+对于血管受累风险高的亚型，血管监测很重要，但没有标准化的方法（1）。如果进行手术，无论是针对关节还是血管适应症，止血必须细致。伤口被仔细缝合，并避免组织紧张。
+妊娠和分娩期间必须进行产科监护。应提供遗传咨询。
+
+【治疗参考文献】
+1.Byers PH, Belmont J, Black J, et al.Diagnosis, natural history, and management in vascular Ehlers-Danlos syndrome.Am J Med Genet C Semin Med Genet.2017;175(1):40-47.doi:10.1002/ajmg.c.31553
+1.Byers PH, Belmont J, Black J, et al.Diagnosis, natural history, and management in vascular Ehlers-Danlos syndrome.Am J Med Genet C Semin Med Genet.2017;175(1):40-47.doi:10.1002/ajmg.c.31553
+
+【Ehlers-Danlos综合征的预后】
+大多数类型的寿命通常正常，非血管型中因血管并发症导致的死亡率较低（2%）（1）。然而，生活质量可能显著降低，尤其是因关节受累（2）。
+致命并发症（如动脉破裂）在血管型中更为常见。在一项研究中，血管型患者诊断后的5年生存率估计为72%；该类型患者的预期寿命约为50年（3）。
+
+【预后参考】
+1.D'hondt S, Van Damme T, Malfait F.Vascular phenotypes in nonvascular subtypes of the Ehlers-Danlos syndrome: a systematic review.Genet Med.2018;20(6):562-573.doi:10.1038/gim.2017.138
+1.D'hondt S, Van Damme T, Malfait F.Vascular phenotypes in nonvascular subtypes of the Ehlers-Danlos syndrome: a systematic review.Genet Med.2018;20(6):562-573.doi:10.1038/gim.2017.138
+2.Malfait F, Castori M, Francomano CA, Giunta C, Kosho T, Byers PH.The Ehlers-Danlos syndromes.Nat Rev Dis Primers.2020;6(1):64.Published 2020 Jul 30.doi:10.1038/s41572-020-0194-9
+2.Malfait F, Castori M, Francomano CA, Giunta C, Kosho T, Byers PH.The Ehlers-Danlos syndromes.Nat Rev Dis Primers.2020;6(1):64.Published 2020 Jul 30.doi:10.1038/s41572-020-0194-9
+3.Frank M, Adham S, Seigle S, et al.Vascular Ehlers-Danlos Syndrome: Long-Term Observational Study.J Am Coll Cardiol.2019;73(15):1948-1957.doi:10.1016/j.jacc.2019.01.058
+3.Frank M, Adham S, Seigle S, et al.Vascular Ehlers-Danlos Syndrome: Long-Term Observational Study.J Am Coll Cardiol.2019;73(15):1948-1957.doi:10.1016/j.jacc.2019.01.058
+埃勒斯-丹洛斯综合征是结缔组织遗传性疾病，有14种临床类型。
+埃勒斯-丹洛斯综合征是结缔组织遗传性疾病，有14种临床类型。
+患者通常有关节过度活动、皮肤过度伸展和皮肤和结缔组织脆弱。
+患者通常有关节过度活动、皮肤过度伸展和皮肤和结缔组织脆弱。
+脆弱的结缔组织可能会导致心脏瓣膜反流、巩膜破裂、动脉夹层或破裂、子宫破裂和其他并发症。
+脆弱的结缔组织可能会导致心脏瓣膜反流、巩膜破裂、动脉夹层或破裂、子宫破裂和其他并发症。
+使用临床标准进行诊断，通常通过基因检测进行确认。
+使用临床标准进行诊断，通常通过基因检测进行确认。

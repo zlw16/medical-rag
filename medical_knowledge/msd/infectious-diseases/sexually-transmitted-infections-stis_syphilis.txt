@@ -1,0 +1,427 @@
+标题：梅毒
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/sexually-transmitted-infections-stis/syphilis
+============================================================
+
+梅毒是由T. pallidum苍白密螺旋体所引起，这是一种在人体外不能长期存活的螺旋体。T. pallidum苍白密螺旋体通过黏膜或皮肤进入人体，在数小时之内到达区域淋巴结并迅速播散至全身。
+自2000年以来，美国的梅毒病例持续增加。2023 年报告了超过20万例梅毒病例，而2000年约为 6,000 例（1、2）。尽管一期和二期梅毒病例从2022年到2023年有所下降，但总体病例数仍在继续增加。大多数一期和二期梅毒病例发生在男性身上，其中男男性行为者占所有一期和二期病例的三分之一。值得注意的是，先天性梅毒也在上升。
+全球疾病患病率估计约为7000万例（3）。
+梅毒分3期（见表梅毒的分类）:
+各阶段之间有很长的潜伏期。前两期的梅毒患者有传染性。
+
+【梅毒分类】
+梅毒分类
+症状和体征
+有传染性
+硬下疳（一个小的通常无痛的皮肤溃疡），区域淋巴结肿大
+有传染性
+在一期的数周到数月后出现
+皮疹（可能与一些其他疾病相混淆），黏膜糜烂、脱发，发热，许多其他症状
+通常不具有传染性
+可能持续存在或进展至晚期
+早期潜伏梅毒（感染病程<1年）有时出现感染性病损复发
+晚期潜伏梅毒感染（感染≥1年时间）很少复发;血清学检测阳性
+三期或晚期
+有症状；无传染性
+临床上分为良性三期梅毒，心血管梅毒，神经梅毒（无症状性神经梅毒、脑膜血管神经梅毒、脑实质神经梅毒、脊髓痨）
+先天性*†
+有症状；
+症状发生在2岁以前
+显性疾病（例如，肝脾肿大、黄疸、鼻炎、皮疹、淋巴结肿大、骨骼异常）
+有症状；
+发生在2岁之后
+哈钦森切牙、眼部或骨骼异常
+* 先天性梅毒可导致早产、死产或新生儿死亡。在未经治疗的梅毒患者所生的婴儿中，超过 30% 的婴儿是死产或因新生儿感染而死亡（沃兹尼亚克・PS、坎蒂・JB、泽雷・F 等。《先天性梅毒的死亡率》。J Pediatr。2023;263:113650. doi:10.1016/j.jpeds.2023.113650）。
+†先天性梅毒也可能处于永久潜伏（无症状）状态。
+* 先天性梅毒可导致早产、死产或新生儿死亡。在未经治疗的梅毒患者所生的婴儿中，超过 30% 的婴儿是死产或因新生儿感染而死亡（沃兹尼亚克・PS、坎蒂・JB、泽雷・F 等。《先天性梅毒的死亡率》。J Pediatr。2023;263:113650. doi:10.1016/j.jpeds.2023.113650）。
+†先天性梅毒也可能处于永久潜伏（无症状）状态。
+感染通常经性接触传播（包括生殖器、口交和肛交），但也可由非性途径的皮肤接触或经胎盘传播（引起先天性梅毒）。梅毒向性伴侣传播的总体风险约为 33%（研究之间差异很大），并且一期梅毒的风险更高（4）。从感染梅毒的母亲（处于一期、二期或早期潜伏期）传播给胎儿的传播率约为 50% 至 70%（5）。感染HIV的人感染梅毒的风险较高（6、7）。
+先前的感染不会产生对再次感染的免疫力。
+(参见性传播感染疾病概述和先天性梅毒。）
+
+【参考文献】
+1.Papp JR, Park IU, Fakile Y, Pereira L, Pillay A, Bolan GA.CDC Laboratory Recommendations for Syphilis Testing, United States, 2024.MMWR Recomm Rep.2024;73(1):1-32.Published 2024 Feb 8.doi:10.15585/mmwr.rr7301a1
+1.Papp JR, Park IU, Fakile Y, Pereira L, Pillay A, Bolan GA.CDC Laboratory Recommendations for Syphilis Testing, United States, 2024.MMWR Recomm Rep.2024;73(1):1-32.Published 2024 Feb 8.doi:10.15585/mmwr.rr7301a1
+2.Centers for Disease Control and Prevention (CDC): National Overview of STIs in 2023.
+2.Centers for Disease Control and Prevention (CDC): National Overview of STIs in 2023.
+3.Yu W, You X, Luo W.Global, regional, and national burden of syphilis, 1990-2021 and predictions by Bayesian age-period-cohort analysis: a systematic analysis for the global burden of disease study 2021.Front Med (Lausanne).2024;11:1448841.Published 2024 Aug 15.doi:10.3389/fmed.2024.1448841
+3.Yu W, You X, Luo W.Global, regional, and national burden of syphilis, 1990-2021 and predictions by Bayesian age-period-cohort analysis: a systematic analysis for the global burden of disease study 2021.Front Med (Lausanne).2024;11:1448841.Published 2024 Aug 15.doi:10.3389/fmed.2024.1448841
+4.Denman J, Hodson J, Manavi K.Infection risk in sexual contacts of syphilis: A systematic review and meta-analysis.J Infect.2022;84(6):760-769.doi:10.1016/j.jinf.2022.04.024
+4.Denman J, Hodson J, Manavi K.Infection risk in sexual contacts of syphilis: A systematic review and meta-analysis.J Infect.2022;84(6):760-769.doi:10.1016/j.jinf.2022.04.024
+5.Stafford IA, Workowski KA, Bachmann LH.Syphilis Complicating Pregnancy and Congenital Syphilis.N Engl J Med.2024;390(3):242-253.doi:10.1056/NEJMra2202762
+5.Stafford IA, Workowski KA, Bachmann LH.Syphilis Complicating Pregnancy and Congenital Syphilis.N Engl J Med.2024;390(3):242-253.doi:10.1056/NEJMra2202762
+6.Shalev N, Castor D, Morrison E, Quigee D, Huang S, Zucker J.Persistently Elevated Risk of Syphilis Among Human Immunodeficiency Virus-Positive Men Receiving Care in a Status-Neutral Setting: A Retrospective Analysis.Sex Transm Dis.2023;50(3):150-156.doi:10.1097/OLQ.0000000000001749
+6.Shalev N, Castor D, Morrison E, Quigee D, Huang S, Zucker J.Persistently Elevated Risk of Syphilis Among Human Immunodeficiency Virus-Positive Men Receiving Care in a Status-Neutral Setting: A Retrospective Analysis.Sex Transm Dis.2023;50(3):150-156.doi:10.1097/OLQ.0000000000001749
+7.Mussa A, Jarolimova J, Ryan R, et al.Syphilis Prevalence Among People Living With and Without HIV in Sub-Saharan Africa: A Systematic Review and Meta-Analysis.Sex Transm Dis.2024;51(3):e1-e7.doi:10.1097/OLQ.0000000000001920
+7.Mussa A, Jarolimova J, Ryan R, et al.Syphilis Prevalence Among People Living With and Without HIV in Sub-Saharan Africa: A Systematic Review and Meta-Analysis.Sex Transm Dis.2024;51(3):e1-e7.doi:10.1097/OLQ.0000000000001920
+
+【梅毒的症状和体征】
+梅毒在各期均有表现，可能累及多个或一个器官，与其他疾病的表现相似。梅毒由于合并HIV感染而加速其临床过程，这些病例眼部受累、脑膜炎和其他神经系统并发症更常见、更严重。
+
+【一期梅毒】
+经过3～4周的潜伏期（范围1到13周）后，原发病损（硬下疳）可在入侵部位出现。最初的红色丘疹可很快形成硬下疳，表现为质硬的基地上的无痛性溃疡，若被擦破可有清亮的血清渗出，其中含有大量苍白螺旋体。附近的淋巴结常肿大，质地坚硬、无压痛。下疳也可能随着时间的推移而呈现黄色或灰色。
+硬下疳可以发生于任何部位，但最常发生于：
+男性的阴茎、肛门和直肠
+男性的阴茎、肛门和直肠
+女性的外阴、宫颈、直肠和会阴部
+女性的外阴、宫颈、直肠和会阴部
+嘴唇或嘴巴
+嘴唇或嘴巴
+大约一半的受感染女性和三分之一的受感染男性不知道自己患有硬下疳，因为它几乎没有症状。直肠或口部的硬下疳，通常发生于男性且经常被忽视。
+硬下疳通常在3〜12周愈合。愈合后，人们表面上是完全健康的。
+梅毒性下疳可能出现在生殖器及其周围。
+梅毒性下疳可能出现在生殖器及其周围。
+Image courtesy of Drs.Gavin Hart and N.J.Flumara via the Public Health Image Library of the Centers for Disease Control and Prevention.
+梅毒性下疳可能出现在生殖器及其周围。
+梅毒性下疳可能出现在生殖器及其周围。
+Photo courtesy of Karen McKoy, MD.
+梅毒性下疳可能出现在肛门及其周围。
+梅毒性下疳可能出现在肛门及其周围。
+Image courtesy of Dr. Susan Lindsley via the Public Health Image Library of the Centers for Disease Control and Prevention.
+梅毒性下疳可能出现在口腔或嘴周围。
+梅毒性下疳可能出现在口腔或嘴周围。
+Image courtesy of the Public Health Image Library of the Centers for Disease Control and Prevention.
+梅毒下疳可能出现在手指或造口部位上或周围。
+梅毒下疳可能出现在手指或造口部位上或周围。
+Image courtesy of the Public Health Image Library of the Centers for Disease Control and Prevention.
+梅毒下疳可能出现在生殖器以外的部位。
+梅毒下疳可能出现在生殖器以外的部位。
+Photo courtesy of Karen McKoy, MD.
+梅毒性下疳可能出现在生殖器及其周围。
+梅毒性下疳可能出现在生殖器及其周围。
+Image courtesy of Drs.Gavin Hart and N.J.Flumara via the Public Health Image Library of the Centers for Disease Control and Prevention.
+梅毒性下疳可能出现在生殖器及其周围。
+梅毒性下疳可能出现在生殖器及其周围。
+Photo courtesy of Karen McKoy, MD.
+梅毒性下疳可能出现在肛门及其周围。
+梅毒性下疳可能出现在肛门及其周围。
+Image courtesy of Dr. Susan Lindsley via the Public Health Image Library of the Centers for Disease Control and Prevention.
+梅毒性下疳可能出现在口腔或嘴周围。
+梅毒性下疳可能出现在口腔或嘴周围。
+Image courtesy of the Public Health Image Library of the Centers for Disease Control and Prevention.
+梅毒下疳可能出现在手指或造口部位上或周围。
+梅毒下疳可能出现在手指或造口部位上或周围。
+Image courtesy of the Public Health Image Library of the Centers for Disease Control and Prevention.
+梅毒下疳可能出现在生殖器以外的部位。
+梅毒下疳可能出现在生殖器以外的部位。
+Photo courtesy of Karen McKoy, MD.
+
+【二期梅毒】
+苍白螺旋体经血流传播，造成黏膜病变的广泛播散，淋巴结肿大和其他器官的症状。症状通常在硬下疳出现后 6～12 周开始发作；部分患者此时仍可见硬下疳存在。常有发热、厌食、恶心、疲倦较为常见。头痛（由于脑膜炎），听力丧失（因中耳炎），平衡问题（因耳迷路炎），视力障碍（由于视网膜炎或葡萄膜炎）和骨痛（因骨膜炎），也可能发生。
+大多数患者有皮肤粘膜损害，皮疹、损害种类繁多，可累及身体任何表面。这些皮损可以是一过性的，也可以持续数月之久或治疗后复发，但最终均愈合而不留瘢痕。
+梅毒性皮炎常呈对称性分布，以掌跖部位为著。每个皮疹为圆形、常大小相似，并可融合成更大的皮损，但一般无痛痒。皮损愈合后，受累的皮肤表面较其他处可能肤色更亮或更暗。如果头皮受累，则常出现斑秃。
+扁平湿疣是发生在黏膜皮肤交界处及皮肤潮湿部位（如肛周、乳房下方）的增生性扁平丘疹，颜色多为暗粉色、白灰色或棕褐色（具体颜色因肤色、病变部位及伴随炎症情况而异），且具有极强的传染性。这些口腔、上腭、咽部、喉部、阴茎头或外阴部、肛管和直肠内的病损常环状隆起，外观灰白色并有红晕。扁平湿疣通常是无痛的，除非它们因其位置而引起不适。
+二期梅毒可累及任何器官
+淋巴结病通常为全身性，表现为无压痛、质硬、分散的淋巴结，且常伴有肝脾肿大。
+淋巴结病通常为全身性，表现为无压痛、质硬、分散的淋巴结，且常伴有肝脾肿大。
+眼睛（葡萄膜炎）、骨骼（骨膜炎）、关节、脑膜、肾脏（肾小球炎）、肝脏（肝炎）或脾脏
+眼睛（葡萄膜炎）、骨骼（骨膜炎）、关节、脑膜、肾脏（肾小球炎）、肝脏（肝炎）或脾脏
+轻度脑膜炎患者较少出现脑膜刺激症状，其临床表现可包括头痛、颈项强直、颅神经病变、耳聋及眼部炎症（如视神经炎、视网膜炎症）。
+轻度脑膜炎患者较少出现脑膜刺激症状，其临床表现可包括头痛、颈项强直、颅神经病变、耳聋及眼部炎症（如视神经炎、视网膜炎症）。
+然而，急性或亚急性脑膜炎在HIV感染的患者中更为常见，可表现为脑膜症状或因颅内血管炎而导致中风 (1)。
+2期梅毒类似于许多其他皮肤病，引起弥漫性皮疹，可能是斑疹、丘疹或脓疱，具有离散或融合的病变。
+2期梅毒类似于许多其他皮肤病，引起弥漫性皮疹，可能是斑疹、丘疹或脓疱，具有离散或融合的病变。
+Image courtesy of the Public Health Image Library of the Centers for Disease Control and Prevention.
+2期梅毒类似于许多其他皮肤病，引起弥漫性皮疹，可能是斑疹、丘疹或脓疱，具有离散或融合的病变。
+2期梅毒类似于许多其他皮肤病，引起弥漫性皮疹，可能是斑疹、丘疹或脓疱，具有离散或融合的病变。
+Image courtesy of the Public Health Image Library of the Centers for Disease Control and Prevention.
+这张照片显示了一位患有二期梅毒的女性生殖器上的增生性丘疹，称为扁平湿疣。
+这张照片显示了一位患有二期梅毒的女性生殖器上的增生性丘疹，称为扁平湿疣。
+SCIENCE PHOTO LIBRARY
+这张照片显示了扁平湿疣，在此显示为外阴和肛门区域的灰色隆起病变。
+这张照片显示了扁平湿疣，在此显示为外阴和肛门区域的灰色隆起病变。
+美国疾病控制与预防中心（CDC）
+完整的皮肤检查可能会发现二期梅毒皮疹的局部病灶；在这种情况下，即扁平湿疣。
+完整的皮肤检查可能会发现二期梅毒皮疹的局部病灶；在这种情况下，即扁平湿疣。
+Photo courtesy of Karen McKoy, MD.
+手掌上的斑丘疹是二期梅毒的特征。
+手掌上的斑丘疹是二期梅毒的特征。
+Image courtesy of the Public Health Image Library of the Centers for Disease Control and Prevention.
+足底出现斑丘疹是二期梅毒的特征性表现。
+足底出现斑丘疹是二期梅毒的特征性表现。
+Image courtesy of Susan Lindsley via the Public Health Image Library of the Centers for Disease Control and Prevention.
+口腔黏膜斑是二期梅毒的特征性表现。
+口腔黏膜斑是二期梅毒的特征性表现。
+Photo courtesy of Karen McKoy, MD.
+梅毒疹可出现在身体的任何部位。
+梅毒疹可出现在身体的任何部位。
+Photo courtesy of Karen McKoy, MD.
+2期梅毒类似于许多其他皮肤病，引起弥漫性皮疹，可能是斑疹、丘疹或脓疱，具有离散或融合的病变。
+2期梅毒类似于许多其他皮肤病，引起弥漫性皮疹，可能是斑疹、丘疹或脓疱，具有离散或融合的病变。
+Image courtesy of the Public Health Image Library of the Centers for Disease Control and Prevention.
+2期梅毒类似于许多其他皮肤病，引起弥漫性皮疹，可能是斑疹、丘疹或脓疱，具有离散或融合的病变。
+2期梅毒类似于许多其他皮肤病，引起弥漫性皮疹，可能是斑疹、丘疹或脓疱，具有离散或融合的病变。
+Image courtesy of the Public Health Image Library of the Centers for Disease Control and Prevention.
+这张照片显示了一位患有二期梅毒的女性生殖器上的增生性丘疹，称为扁平湿疣。
+这张照片显示了一位患有二期梅毒的女性生殖器上的增生性丘疹，称为扁平湿疣。
+SCIENCE PHOTO LIBRARY
+这张照片显示了扁平湿疣，在此显示为外阴和肛门区域的灰色隆起病变。
+这张照片显示了扁平湿疣，在此显示为外阴和肛门区域的灰色隆起病变。
+美国疾病控制与预防中心（CDC）
+完整的皮肤检查可能会发现二期梅毒皮疹的局部病灶；在这种情况下，即扁平湿疣。
+完整的皮肤检查可能会发现二期梅毒皮疹的局部病灶；在这种情况下，即扁平湿疣。
+Photo courtesy of Karen McKoy, MD.
+手掌上的斑丘疹是二期梅毒的特征。
+手掌上的斑丘疹是二期梅毒的特征。
+Image courtesy of the Public Health Image Library of the Centers for Disease Control and Prevention.
+足底出现斑丘疹是二期梅毒的特征性表现。
+足底出现斑丘疹是二期梅毒的特征性表现。
+Image courtesy of Susan Lindsley via the Public Health Image Library of the Centers for Disease Control and Prevention.
+口腔黏膜斑是二期梅毒的特征性表现。
+口腔黏膜斑是二期梅毒的特征性表现。
+Photo courtesy of Karen McKoy, MD.
+梅毒疹可出现在身体的任何部位。
+梅毒疹可出现在身体的任何部位。
+Photo courtesy of Karen McKoy, MD.
+
+【潜伏梅毒】
+潜伏梅毒可为早期（<感染后1年）也可为晚期（感染后≥1年）。
+没有症状和体征，但可通过梅毒血清学试验检测出的抗体持续存在。由于一期和二期梅毒症状常常较轻微或被忽视，病人常在潜伏期由于血清学试验阳性而诊断。
+梅毒可能在病人体内终身保持潜伏状态，但在潜伏期早期，有传染性的皮肤黏膜病损可复发。
+患者常因其他疾病而接受抗生素治疗，这些治疗可能同时清除潜伏期梅毒，从而解释了晚期梅毒在高资源国家中较为罕见的现象。
+
+【晚期或三期梅毒】
+约1/3的未治病人可发展为晚期梅毒，尽管有时要到初始感染很多年后。 病变在临床上可分为
+良性三期梅毒
+良性三期梅毒
+心血管梅毒
+心血管梅毒
+神经梅毒
+神经梅毒
+良性三期梅毒通常在感染后3～10年发生，可累及皮肤、骨骼和内脏。树胶肿是柔软、破坏性的炎性肿块，通常为局限性，但也可弥漫浸润器官或组织；它们生长缓慢，愈合缓慢，并留下瘢痕。
+这张照片显示了三期（晚期）梅毒患者腿部的树胶肿。 树胶肿是一团发炎的组织。
+BSIP, SIDEA REVUZ/SCIENCE PHOTO LIBRARY
+这张照片显示了一名三期（晚期）梅毒患者的手中出现了一个树胶肿。树胶肿是一团发炎的组织。
+CDC/ Susan Lindsley
+骨的良性3期梅毒可引起伴骨质增生的骨膜炎或有破坏性病损的骨炎，导致深部的钻孔样疼痛，以晚间加重为其特征。
+心血管梅毒通常在初始感染后10～25年后出现以下情况：
+升主动脉动脉瘤样扩张
+升主动脉动脉瘤样扩张
+主动脉瓣关闭不全
+主动脉瓣关闭不全
+冠状动脉狭窄
+冠状动脉狭窄
+扩张的主动脉瘤可能由于压迫或侵蚀邻近的纵隔和胸壁结构而产生症状。 症状包括因气管受压而引起的刺耳咳嗽和呼吸受阻、因左侧喉返神经受压导致声带麻痹引起的声音嘶哑，以及胸骨、肋骨或脊柱的侵蚀性疼痛。
+神经梅毒有几种形式：
+无症状性神经梅毒
+无症状性神经梅毒
+脑膜血管神经梅毒
+脑膜血管神经梅毒
+脑实质神经梅毒
+脑实质神经梅毒
+患有潜伏期、二期或三期梅毒的患者可能会发生伴有轻度脑膜炎的无症状神经梅毒。若不治疗，可能发展为症状性神经梅毒。初始感染2年以上脑脊液 仍正常者不大可能出现神经梅毒。
+脑膜血管神经梅毒由脑或脊髓的中-大动脉血管炎。症状一般在感染5～10年后出现，轻者无症状，重者可出现脑卒中。起始症状可能为头痛、颈项强直、眩晕、异常行为、注意力不集中、记忆力下降、倦怠、失眠和视物模糊。脊髓受累时，可产生肩胛带肌和上肢肌肉肌力减退和萎缩，缓慢进展的下肢无力，伴尿失禁和/或大便失禁，罕见情况下可因脊髓动脉血栓形成导致突然的双下肢瘫痪。
+破坏脑皮质的慢性脑膜脑炎可引起脑实质性神经梅毒（麻痹性痴呆）。通常在初始感染15~20年后发生，且通常不影响40～50岁之前的病人。行为进行性恶化，有时类似精神障碍或痴呆。易激惹、注意力难以集中、记忆力减退、判断力受损、头痛、失眠、疲劳和嗜睡很常见；可能会出现癫痫发作、失语症和短暂性偏瘫。常有神经过敏，注意力集中困难，记忆力减退，判断障碍，头痛，失眠，疲倦和嗜睡，可有惊厥、失语或一过性偏瘫。患者可能变得情绪不稳定、抑郁，并出现夸大妄想且缺乏自知力；可能出现消瘦。可出现口、舌、伸出的手和全身震颤；其他体征包括瞳孔异常、构音困难、反射亢进，部分病人出现病理反射阳性。笔迹常东歪西扭无法读认。
+脊髓痨（运动性共济失调）包括后柱和神经根缓慢进展的退行性变。它通常在初始感染20～30年后出现，机制尚不明确。最初和最具特征性的症状通常为不规则发作的背部和腿部剧烈的刀刺样（电击样）疼痛，下肢的振动觉、本体感觉和反射丧失。步态共济失调，感觉过敏和感觉异常可产生行走时踩泡沫橡皮的感觉。膀胱感觉缺失可导致尿潴留、尿失禁和反复感染。勃起功能障碍常见。
+许多脊髓痨患者都存在阿盖尔-罗伯逊瞳孔（即瞳孔可调节近视力，但对光无反应）。可发生视神经萎缩。
+腿部检查可发现肌张力低下，腱反射减退或消失，震动觉和关节位置觉受损，跟胫试验共济失调，深部疼痛感觉缺失和Romberg征阳性。
+脊髓痨有顽固性倾向，即使接受过治疗。
+内脏危象（间断性疼痛）是脊髓痨的1种变异型；阵发性疼痛可出现在各种器官，最常见于胃（引起呕吐），也可见于直肠、膀胱和喉部。
+
+【其他病变】
+梅毒性眼病和耳部表现可出现在疾病的任何阶段。
+眼部症状可影响眼睛的任何部分，包括间质性角膜炎、葡萄膜炎（前部、中部和后部）、脉络膜炎、视网膜炎、视网膜血管炎以及颅神经和视神经炎。梅毒性眼病发生于男同性恋的艾滋病患者中。有几个导致严重症状的病例，包括失明。出现眼部梅毒的患者有发生神经梅毒的风险。
+耳梅毒可能会影响耳蜗（引起听力损失和耳鸣）或前庭系统（引起眩晕和眼球震颤）。
+营养性病变，继发于梅毒神经损伤导致的皮肤或关节周围组织感觉减退，可能在后期因未察觉的损伤或皮肤破损而出现。营养性溃疡可发生于足底，并可向深部浸润，部分病例可累及深层骨质。
+神经源性关节病（Charcot关节），是一种无痛性关节退变伴骨性肿胀和异常活动范围，为神经病变的典型表现。
+
+【症状和体征】
+1.Ropper AH.Neurosyphilis [published correction appears inN Engl J Med. 2019 Oct 31;381(18):1789. doi: 10.1056/NEJMx190030.] [published correction appears inN Engl J Med. 2023 Nov 9;389(19):1828. doi: 10.1056/NEJMx230008.].N Engl J Med.2019;381(14):1358-1363.doi:10.1056/NEJMra1906228
+1.Ropper AH.Neurosyphilis [published correction appears inN Engl J Med. 2019 Oct 31;381(18):1789. doi: 10.1056/NEJMx190030.] [published correction appears inN Engl J Med. 2023 Nov 9;389(19):1828. doi: 10.1056/NEJMx230008.].N Engl J Med.2019;381(14):1358-1363.doi:10.1056/NEJMra1906228
+
+【梅毒的诊断】
+血清反应素试验（快速血浆反应素 [RPR] 或性病研究实验室 [VDRL]）可用于筛查血液和诊断中枢神经系统感染。
+血清反应素试验（快速血浆反应素 [RPR] 或性病研究实验室 [VDRL]）可用于筛查血液和诊断中枢神经系统感染。
+血清学梅毒螺旋体检测（例如，荧光梅毒螺旋体抗体吸收试验或微量血凝试验检测T. pallidum（梅毒螺旋体）抗体）以确认反应素检测结果
+血清学梅毒螺旋体检测（例如，荧光梅毒螺旋体抗体吸收试验或微量血凝试验检测T. pallidum（梅毒螺旋体）抗体）以确认反应素检测结果
+美国预防服务工作组建议对无症状、非怀孕的青少年和高风险成年人进行梅毒筛查（1，2）。
+有典型皮肤黏膜病变或不能解释的神经系统异常的病人、尤其是在高流行区要怀疑梅毒。在这些地方，有广泛的不能解释的表现的病人也应考虑梅毒。由于临床表现多种多样，而且在大多数资源丰富的国家，晚期梅毒相对罕见，因此梅毒可能无法被识别。
+开展的诊断试验取决于疑似梅毒的分期。神经系统感染最好选择并持续进行脑脊液（CSF）的反应素定量检测。病例需传报至公共卫生机构。
+
+【梅毒的诊断试验】
+测试包括：
+筛选（反应素或者非梅毒螺旋体）试验
+筛选（反应素或者非梅毒螺旋体）试验
+验证性（梅毒螺旋体）试验
+验证性（梅毒螺旋体）试验
+暗视野显微镜检查
+暗视野显微镜检查
+非梅毒螺旋体试验和梅毒螺旋体试验统称为梅毒血清学试验（STS）。
+T. pallidum苍白密螺旋体无法在体外生长。传统上，首先进行反应素检测，阳性结果再由梅毒螺旋体试验验证。一些实验室现在改变了这一顺序：他们首先做新型的、廉价的梅毒螺旋体试验，然后用非梅毒螺旋体试验确认阳性结果。
+非密螺旋体（反应素）试验使用脂质抗原（来自牛心的心磷脂）来检测反应素（与脂质结合的人类抗体）。性病研究实验室试验（VDRL）及快速血浆反应素试验（RPR）是用于筛查的敏感、简便、低廉的反应素试验，但对梅毒并非完全特异。 结果可能是定性的（例如有反应，弱反应，临界反应和无反应）或定量的（例如1：16阳性）。
+除了密螺旋体感染外，以下情况可导致反应素试验阳性（生物学假阳性）结果：
+与梅毒无关的系统性感染（如肺结核、立克次体疾病和心内膜炎）
+与梅毒无关的系统性感染（如肺结核、立克次体疾病和心内膜炎）
+免疫接种（特别是 COVID-19 或天花疫苗）
+免疫接种（特别是 COVID-19 或天花疫苗）
+系统性红斑狼疮
+系统性红斑狼疮
+抗磷脂抗体综合征
+抗磷脂抗体综合征
+密螺旋体试验定性检测抗密螺旋体抗体，对梅毒具有高度特异性。这些试验包括：
+荧光密螺旋体抗体吸收（Fluorescent Treponema Antiboby Absorption，FTA-ABS）试验
+荧光密螺旋体抗体吸收（Fluorescent Treponema Antiboby Absorption，FTA-ABS）试验
+T. pallidum（梅毒螺旋体）抗体的微血凝试验 (MHA-TP)
+T. pallidum（梅毒螺旋体）抗体的微血凝试验 (MHA-TP)
+T. pallidum（梅毒螺旋体）血凝试验 (TPHA)
+T. pallidum（梅毒螺旋体）血凝试验 (TPHA)
+T. pallidum（梅毒螺旋体）酶免疫测定 (TP-EIA)
+T. pallidum（梅毒螺旋体）酶免疫测定 (TP-EIA)
+化学发光免疫分析（CLIA）
+化学发光免疫分析（CLIA）
+若在反应素试验阳性后，这些检测未能证实梅毒螺旋体感染，则该反应素结果被视为生物学假阳性。
+脑脊液（CSF）非螺旋体试验对早期神经梅毒具有较高的敏感性，但对晚期神经梅毒的敏感性较低。脑脊液反应素试验可用于诊断神经梅毒或通过抗体滴度变化监测治疗反应。如果临床表现提示神经梅毒但非梅毒螺旋体试验结果为阴性，则梅毒螺旋体试验对神经梅毒具有高敏感性（3）。
+不论是反应素试验还是密螺旋体试验，都要到初始感染后3～6周才会呈现阳性结果。因而在一期梅毒早期试验常为阴性结果，并在6周内无法排除梅毒感染。在有效治疗后，反应素滴度至少下降 4 倍，原发梅毒通常在 1 年内转阴，继发梅毒在 2 年内转阴；然而，部分患者可能持续存在低滴度（≤1:8），这种反应称为“血清固定反应”。螺旋体试验通常在有效治疗后仍可阳性持续数十年，因此不能用于评估治疗效果（3）。
+检测的选择和检测结果的解释取决于各种因素，包括梅毒的病史，接触梅毒可能性，以及检测结果。
+如果病人有梅毒,则进行反应素试验。滴度升高4倍表明有新的感染或治疗失败。
+如果患者没有梅毒，则进行密螺旋体试验和反应素试验。用检测结果来确定下一步的步骤：
+两个试验均为阳性结果：表明有新近感染。
+两个试验均为阳性结果：表明有新近感染。
+如果密螺旋体试验阳性但反应素试验阴性，则需进行第2次密螺旋体试验以确认阳性结果。如果反应素试验结果重复阴性，则不进行治疗。
+如果密螺旋体试验阳性但反应素试验阴性，则需进行第2次密螺旋体试验以确认阳性结果。如果反应素试验结果重复阴性，则不进行治疗。
+梅毒螺旋体检测阳性，但是反应素试验阴性，并且病史表明有近期接触史：为确保检测结果不漏掉任何新的感染，需要在暴露后2~4周重复进行反应素试验。
+梅毒螺旋体检测阳性，但是反应素试验阴性，并且病史表明有近期接触史：为确保检测结果不漏掉任何新的感染，需要在暴露后2~4周重复进行反应素试验。
+暗视野显微镜检查时，光线斜照，通过硬下疳或淋巴结抽吸的分泌物推片直接观察螺旋体。虽然所需技能和设备通常难以获取，但暗视野显微镜检查是诊断早期一期梅毒最敏感且最特异的检测方法；该方法亦可用于二期梅毒的诊断。螺旋体在暗背景中呈现为明亮、活动的紧密螺旋，宽约0.25微米，长5~20微米。梅毒螺旋体必须在形态学上与非致病性螺旋体区别，后者可能只是正常菌群中的一部分，特别是口腔中的正常菌群。因此，没有对口腔内标本进行梅毒的暗视野检查。
+
+【一期梅毒】
+通常根据相对无痛的生殖器（或偶发生殖器外）溃疡怀疑为1期梅毒。梅毒性溃疡需与其他一些性传播的生殖器溃疡鉴别（见表鉴别常见的性传播生殖器病损）。2种病原体混合感染（如单纯疱疹病毒和T. pallidum苍白密螺旋体）并不少见(4)。
+硬下疳或淋巴结穿刺液的暗视野显微镜检查可能具有诊断价值。若初次检查阴性或无法进行该检查，应作反应素血清学试验（STS）。如果检测结果为阴性或无法立即进行检测，但皮损已存在<3 周（在 STS 转为阳性之前），且其他诊断可能性不大，则可开始治疗，并在 2 至 4 周后重复 STS 检测。
+梅毒患者应在诊断时和6个月后进行其他性传播感染（STIs）检测，包括HIV感染。
+
+【二期梅毒】
+由于二期梅毒可类似多种皮肤病，故任何尚未确诊的皮疹或黏膜病变，特别是伴有下列情况时，均应考虑到梅毒：
+全身淋巴结病
+全身淋巴结病
+掌跖皮损
+掌跖皮损
+扁平湿疣
+扁平湿疣
+危险因素（如HIV感染、多名性伴侣）
+危险因素（如HIV感染、多名性伴侣）
+二期梅毒临床可误诊为药疹、风疹、传染性单核细胞增多症、多形性红斑、毛发红糠疹或真菌感染，尤其是玫瑰糠疹。扁平湿疣可能被误诊为疣、痔或增殖性类天疱疮；头皮病变可能被误诊为癣或特发性斑秃。
+STS阴性可排除，因为在二期梅毒该试验总是呈阳性并且反应素抗体的滴度常常很高。恰当的临床表现和STS阳性结果（不论是反应素或密螺旋体）是治疗的基础。在较少见的情况下，这样的组合意味着潜伏梅毒合并存在另外一种皮肤病。二期梅毒患者应进行其他性传播感染检测。
+
+【潜伏梅毒】
+反应素和密螺旋体STS阳性，而无活动性梅毒的症状或体征者可诊断为无症状的潜伏梅毒。这些病人应当全面检查以排除2期和3期梅毒，尤其要作生殖器、皮肤、神经系统和心血管检查。
+早期潜伏梅毒的标准包括：过去1年中，有记录表明梅毒螺旋体检测结果从阴性转为阳性，或出现新的非梅毒螺旋体检测阳性结果，或反应素试验滴度持续（超过 2 周）升高 4 倍或更多，加上以下任何1项：
+原发性或继发性梅毒的明确症状
+原发性或继发性梅毒的明确症状
+伴有已经检查出的原发性，继发性或早期潜伏性梅毒的性伴侣
+伴有已经检查出的原发性，继发性或早期潜伏性梅毒的性伴侣
+除了前12个月，没有可能的接触，
+除了前12个月，没有可能的接触，
+患有潜伏性梅毒但不满足上述标准的患者具有晚期潜伏性梅毒
+需要接受治疗并作长达数年的血清学随访以确保治疗成功，因为反应素STS滴度下降缓慢。
+获得性潜伏梅毒必须与先天性潜伏梅毒、潜伏性雅司病及其他密螺旋体感染相鉴别。
+
+【晚期或三期梅毒】
+有三期梅毒症状或体征（尤其是不能解释的神经系统异常）的病人应当作STS。如果测试是反应性的，则应执行以下操作：
+作腰穿行脑脊液检查（包括梅毒血清学试验）
+作腰穿行脑脊液检查（包括梅毒血清学试验）
+脑和主动脉影像学检查
+脑和主动脉影像学检查
+对其他任何临床怀疑受累的器官系统进行检查
+对其他任何临床怀疑受累的器官系统进行检查
+这一阶段的梅毒其反应素STS几乎总是阳性的，除了个别脊髓痨者例外。
+良性三期梅毒若不作活检，则与其他炎症性肿块或溃疡难以鉴别。
+心血管梅毒时，动脉瘤压迫邻近结构的症状，尤其是喘鸣和声嘶，可提示该诊断。
+梅毒性主动脉瓣关闭不全不伴主动脉狭窄，胸部X线显示主动脉根部增宽和升主动脉壁的线状钙化提示为梅毒性主动脉瘤。动脉瘤可通过主动脉影像学检查（经食管心脏超声、CT、MRI）确诊。
+除了阿-罗瞳孔外，神经梅毒的大多数症状和体征都是非特异性的，因此诊断严重依赖于临床怀疑的高指标。在实质性神经梅毒中，脑脊液的反应素和血清密螺旋体试验呈阳性，且脑脊液通常表现为淋巴细胞增多和蛋白升高。脊髓痨患者如果先前接受过治疗血清反应素试验可能阴性，血清密螺旋体试验往往阳性。尽管脑脊液常表现出淋巴细胞数和蛋白含量增加，有时反应素试验或密螺旋体试验阳性，但很多经治病例脑脊液是正常的。
+在梅毒的任何阶段都可以发现脑脊液异常。如果腰椎穿刺没有神经系统症状或体征，那么无症状神经梅毒的诊断是基于异常的脑脊液（通常是淋巴细胞白细胞增多症和蛋白质升高）和反应性脑脊液反应素试验（在脑脊液没有严重出血污染的情况下）进行的。由于HIV可引起淋巴细胞轻度升高和多种其他神经系统症状，它可能混淆诊断。无症状的神经梅毒不需要与梅毒阶段推荐的治疗方法有任何不同。
+如果眼梅毒被诊断，应该进行CSF检查以排除神经梅毒。有眼部症状且梅毒血清学检查呈反应性的患者需要进行全面的眼部检查，包括颅神经功能评估。如果存在脑神经功能障碍或其他局灶性神经系统体征，则应进行腰椎穿刺。有反应性梅毒血清学和孤立性眼部发现但没有脑神经功能障碍或神经系统发现的患者在治疗前不需要进行脑脊液检查。
+听力受损可以发生在梅毒的任何阶段，也可以是孤立的或与神经梅毒有关。对于孤立的听觉症状和正常的神经系统检查，不建议在治疗前进行CSF检查。应使用与神经梅毒相同的方案治疗耳梅毒。
+
+【诊断参考】
+1.US Preventive Services Task Force, Mangione CM, Barry MJ, et al.Screening for Syphilis Infection in Nonpregnant Adolescents and Adults: US Preventive Services Task Force Reaffirmation Recommendation Statement.JAMA.2022;328(12):1243-1249.doi:10.1001/jama.2022.15322
+1.US Preventive Services Task Force, Mangione CM, Barry MJ, et al.Screening for Syphilis Infection in Nonpregnant Adolescents and Adults: US Preventive Services Task Force Reaffirmation Recommendation Statement.JAMA.2022;328(12):1243-1249.doi:10.1001/jama.2022.15322
+2.US Preventive Services Task Force (USPSTF), Bibbins-Domingo K, Grossman DC, et al.Screening for Syphilis Infection in Nonpregnant Adults and Adolescents: US Preventive Services Task Force Recommendation Statement.JAMA.2016;315(21):2321-2327.doi:10.1001/jama.2016.5824
+2.US Preventive Services Task Force (USPSTF), Bibbins-Domingo K, Grossman DC, et al.Screening for Syphilis Infection in Nonpregnant Adults and Adolescents: US Preventive Services Task Force Recommendation Statement.JAMA.2016;315(21):2321-2327.doi:10.1001/jama.2016.5824
+3.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+3.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+4.Li D, Yang X, Zhang Z, et al.Incidence of Co-Infections of HIV, Herpes Simplex Virus Type 2 and Syphilis in a Large Cohort of Men Who Have Sex with Men in Beijing, China.PLoS One.2016;11(1):e0147422.Published 2016 Jan 28.doi:10.1371/journal.pone.0147422
+4.Li D, Yang X, Zhang Z, et al.Incidence of Co-Infections of HIV, Herpes Simplex Virus Type 2 and Syphilis in a Large Cohort of Men Who Have Sex with Men in Beijing, China.PLoS One.2016;11(1):e0147422.Published 2016 Jan 28.doi:10.1371/journal.pone.0147422
+
+【梅毒的治疗】
+青霉素G苄星用于大多数感染
+青霉素G苄星用于大多数感染
+水剂青霉素用于治疗眼梅毒或神经梅毒
+水剂青霉素用于治疗眼梅毒或神经梅毒
+性伴侣的治疗
+性伴侣的治疗
+在梅毒所有阶段的治疗选择以及孕期中的治疗选择是 (1):
+肌肉注射缓释型苄星青霉素G（比西林 L-A）
+肌肉注射缓释型苄星青霉素G（比西林 L-A）
+不应使用苄星青霉素和普鲁卡因青霉素（Bicillin C-R）的组合。
+诊断为梅毒的患者，其所有性伴均应进行评估。性伴侣在以下情况下治疗：
+在患者被诊断为I期，II期或早期潜伏梅毒之前的90天内与其发生过性接触者，即使血清学检查结果为阴性，也应该接受早期梅毒的治疗。
+在患者被诊断为I期，II期或早期潜伏梅毒之前的90天内与其发生过性接触者，即使血清学检查结果为阴性，也应该接受早期梅毒的治疗。
+在患者被诊断患有I期，II期或早期潜伏梅毒之前> 90天与其发生过性接触者，如果血清学检测结果不能立即获得，并且随访时间不能确定，应接受早期梅毒的治疗。 如果血清学检查呈阴性，不需要治疗。 如果血清学检查呈阳性，应根据临床、血清学评估以及梅毒分期进行治疗。
+在患者被诊断患有I期，II期或早期潜伏梅毒之前> 90天与其发生过性接触者，如果血清学检测结果不能立即获得，并且随访时间不能确定，应接受早期梅毒的治疗。 如果血清学检查呈阴性，不需要治疗。 如果血清学检查呈阳性，应根据临床、血清学评估以及梅毒分期进行治疗。
+(参见Centers for Disease Control and Prevention: Sexually Transmitted Infections Treatment Guidelines, 2021: Syphilis.)
+已证实，在无保护性行为后 72 小时内口服多西环素进行暴露后预防，可显著降低男男性行为者和跨性别女性的衣原体、淋病和梅毒的发生率（2）。
+
+【经验与提示】
+经验与提示
+治疗梅毒时仅应使用纯苄星青霉素 G；不得使用名称相似的苄星青霉素与普鲁卡因青霉素复合制剂。
+治疗梅毒时仅应使用纯苄星青霉素 G；不得使用名称相似的苄星青霉素与普鲁卡因青霉素复合制剂。
+
+【初期梅毒、二期梅毒和早期潜伏性梅毒】
+单次肌注 240 万单位苄星青霉素 G 可在体内维持足够高的血药浓度约 2 周，用于治愈一期、二期及早期（<1 年以内）潜伏梅毒。通常每侧臀部各注射120万单位以减少局部反应。
+对于晚期潜伏梅毒（>1 年以上）或病程不明的潜伏梅毒，应在首次注射后第 7 天和第 14 天分别追加 240 万单位，共 3 剂，因为螺旋体在单剂方案后有时仍可在脑脊液（CSF）中存留。无论艾滋病毒状况如何，治疗是相同的。
+对于有显著青霉素过敏的非妊娠患者（过敏性休克，支气管痉挛，或荨麻疹），第1种选择是强力霉素100mg bid口服14天（对于晚期潜伏性梅毒或潜伏性梅毒的未知持续时间为28天）单剂量的阿奇霉素2g 对由易感菌株引起的原发性、继发性或早期潜伏性梅毒有效。然而，增加耐药性的单碱基突变在全世界许多地方（包括美国）越来越常见，并导致很高的治疗失败率。
+阿奇霉素不用于治疗孕妇或晚期潜伏梅毒。怀孕的青霉素过敏患者应入院进行青霉素脱敏治疗。
+头孢曲松1g 肌肉注射或静脉注射一次/天维持10至14天，这种疗法在一些早期梅毒患者中有效，在晚期也可能有效，但最佳剂量和治疗持续时间是未知的。
+
+【晚期潜伏性或三期梅毒】
+晚期潜伏梅毒可以用苄星青霉素G共720万单位，以3次剂量，每次240万单位IM，间隔1周给药。
+良性三期梅毒和心血管三期梅毒的治疗与晚期潜伏梅毒相同。
+对于眼梅毒、耳梅毒或神经梅毒，建议使用以下方法之一：
+水剂青霉素400万单位静脉输注，每4小时1次（中枢神经系统穿透性最好，但可能不切实际）
+水剂青霉素400万单位静脉输注，每4小时1次（中枢神经系统穿透性最好，但可能不切实际）
+普鲁卡因青霉素G 240万单位肌注，每天一次，另加丙磺舒500mg 口服，每天4次。
+普鲁卡因青霉素G 240万单位肌注，每天一次，另加丙磺舒500mg 口服，每天4次。
+两种治疗方案均应持续 10～14 天，治疗结束后每周肌注苄星青霉素 G 240 万单位，共 1～3 周，以使总疗程与晚期潜伏梅毒的治疗时长相当。
+对于青霉素过敏的患者，头孢曲松2g肌内或静脉注射，每天1次，持续14天可能有效，但应注意头孢菌素可能存在的交叉过敏反应。替代方案是青霉素脱敏治疗，因为阿奇霉素和多西环素在神经梅毒患者中没有得到充分评估
+脊髓痨伴闪电样疼痛的患者应根据需要给予止痛药；口服卡马西平有时会有所帮助。
+
+【赫氏反应（Jarisch-Herxheimer reaction，JHR）】
+患有一期或二期梅毒的患者，尤其是二期梅毒患者，在初次治疗后的6到12小时内可能会出现赫氏反应（JHR）。该反应典型表现为全身不适、发热、头痛、出汗、僵直、焦虑或梅毒病变的暂时性加剧。机制尚不明确。JHR可能被误诊为变态反应。
+JHR通常在24小时内消退，并不会造成危险。然而，麻痹性痴呆患者或脑脊液白细胞计数增高的病人可能表现出更严重的反应，包括惊厥或中风，应当告知病人并密切观察。
+意外的赫氏反应可能发生于因其他情况接受抗生素治疗的未诊断梅毒病人。
+
+【治疗后观察】
+在治疗后，患者应当：
+在第6、12个月时进行检查和反应素试验滴度检测，以后每年检查一次直至转阴或滴度持续下降至原来的1/4。
+在第6、12个月时进行检查和反应素试验滴度检测，以后每年检查一次直至转阴或滴度持续下降至原来的1/4。
+对于神经梅毒患者，每6个月做一次脑脊液检查直至脑脊液细胞数恢复正常。
+对于神经梅毒患者，每6个月做一次脑脊液检查直至脑脊液细胞数恢复正常。
+治疗前应向病人讲明反复化验以证实治愈的重要性。治疗后应在 6 个月和 12 个月时进行体格检查及反应素试验，之后每年复查，直至检测结果转为阴性。6月后复查，滴度未降低4倍者为治疗失败。治疗成功后，病损迅速愈合，反应素滴度下降，通常在9～12个月时定性试验转为阴性。
+在大约 15% 至 25% 的原发或继发梅毒患者中，即使按照推荐方案接受治疗，反应素滴度在治疗后 1 年内也未下降 4 倍，而这正是判定疗效的标准。这些患者应随访临床症状和血清学，还应该评估艾滋病毒感染。
+如果发现神经系统症状或体征，建议进行脑脊液评估，并根据结果指导治疗。若无法确保随访，应检测脑脊液以排除神经梅毒（因未被识别的神经梅毒可能导致治疗失败）；或可给予苄星青霉素 G 240 万单位，肌内注射，每周一次，共 3 周，进行再治疗。
+密螺旋体试验通常多年或永久保持阳性，不需要作系列检查。血清学和临床复发可在治疗后6至9个月出现，通常影响神经系统，但原因可能是再次感染而非复发。
+未感染 HIV 的神经梅毒患者，或接受有效抗逆转录病毒治疗且治疗后表现出血清学（血清快速血浆反应素滴度正常化）和临床反应的 HIV 感染者，无需重复进行 CSF 检查。在HIV感染患者中，持续存在的脑脊液淋巴细胞增多可能代表HIV的影响而非持续的神经梅毒。脑脊液细胞计数正常、脑脊液及血清反应素试验阴性且神经系统检查正常，持续两年，提示可能已治愈。如果存在以下任一种，则指示用更强化的抗生素方案的再治疗：
+脑脊液细胞计数异常时间＞2年
+脑脊液细胞计数异常时间＞2年
+血清反应素试验持续反应性＞2年
+血清反应素试验持续反应性＞2年
+血清反应素试验滴度升高
+血清反应素试验滴度升高
+临床复发
+临床复发
+
+【治疗参考文献】
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+2.Bachmann LH, Barbee LA, Chan P, et al.CDC Clinical Guidelines on the Use ofDoxycyclinePostexposure Prophylaxis for Bacterial Sexually Transmitted Infection Prevention, United States, 2024.MMWR Recomm Rep.2024;73(2):1-8.Published 2024 Jun 6.doi:10.15585/mmwr.rr7302a1
+2.Bachmann LH, Barbee LA, Chan P, et al.CDC Clinical Guidelines on the Use ofDoxycyclinePostexposure Prophylaxis for Bacterial Sexually Transmitted Infection Prevention, United States, 2024.MMWR Recomm Rep.2024;73(2):1-8.Published 2024 Jun 6.doi:10.15585/mmwr.rr7302a1
+梅毒有3个连续的临床症状阶段，由无症状潜伏期分隔。
+梅毒有3个连续的临床症状阶段，由无症状潜伏期分隔。
+典型的皮肤损伤（硬下疳）出现在原发性感染部位。
+典型的皮肤损伤（硬下疳）出现在原发性感染部位。
+随后，几乎任何器官都可能受到影响，但皮肤、黏膜、眼睛、骨骼、主动脉、脑膜和大脑最常受累。
+随后，几乎任何器官都可能受到影响，但皮肤、黏膜、眼睛、骨骼、主动脉、脑膜和大脑最常受累。
+诊断需先采用非密螺旋体（反应素）试验（如快速血浆反应素试验[RPR]或性病研究实验室试验 [VDRL]），若结果为阳性，再通过密螺旋体抗体试验（如荧光密螺旋体抗体吸收试验 [FTA-ABS]）进行确认。
+诊断需先采用非密螺旋体（反应素）试验（如快速血浆反应素试验[RPR]或性病研究实验室试验 [VDRL]），若结果为阳性，再通过密螺旋体抗体试验（如荧光密螺旋体抗体吸收试验 [FTA-ABS]）进行确认。
+尽可能使用长效肌注青霉素G苄星（比西林L-A）治疗；眼梅毒、耳梅毒和神经梅毒初始治疗采用静脉注射青霉素G，或肌注青霉素G普鲁卡因联合口服丙磺舒。
+尽可能使用长效肌注青霉素G苄星（比西林L-A）治疗；眼梅毒、耳梅毒和神经梅毒初始治疗采用静脉注射青霉素G，或肌注青霉素G普鲁卡因联合口服丙磺舒。
+向公共卫生机构报告梅毒病例。
+向公共卫生机构报告梅毒病例。

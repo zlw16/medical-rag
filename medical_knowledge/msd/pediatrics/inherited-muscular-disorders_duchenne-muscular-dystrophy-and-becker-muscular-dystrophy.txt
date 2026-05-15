@@ -1,0 +1,113 @@
+标题：Duchenne肌营养不良和Becker肌营养不良
+来源：https://www.msdmanuals.cn/professional/pediatrics/inherited-muscular-disorders/duchenne-muscular-dystrophy-and-becker-muscular-dystrophy
+============================================================
+
+肌营养不良是由于正常肌肉的结构和功能所需的一个或几个基因功能缺陷造成的遗传性进行性的肌肉疾病;活检标本可见营养不良性改变（如肌纤维坏死和再生）。
+杜氏肌肉营养不良症和Becker肌营养不良症是最常见的肌营养不良症。它们是由已知最大的人类基因——肌营养不良蛋白基因Xp21.2位点的突变引起的。高达 70% 的杜氏营养不良症是由单外显子或多外显子缺失引起的，约 10% 由重复引起，20% 由点突变引起。在Becker营养不良症中，大约 70% 的患者有缺失，20% 有重复，高达 10% 有点突变（1）。
+在Duchenne肌营养不良中，这些突变导致肌肉细胞膜上的抗肌萎缩蛋白严重缺失（含量<5%）。在Becker肌营养不良中，基因突变导致抗肌营养不良蛋白异常生成或产量不足。
+Duchenne肌营养不良症和Becker肌营养不良症共同影响约1/5000至1/6000活产男婴(1)；大多数患者为Duchenne肌营养不良症。女性携带者可有无症状性肌酸激酶浓度升高和可能的小腿肥大。
+
+【参考文献】
+1.Duan D, Goemans N, Takeda S, et al: Duchenne muscular dystrophy.Nat Rev Dis Primers7(1):13, 2021.doi: 10.1038/s41572-021-00248-3
+1.Duan D, Goemans N, Takeda S, et al: Duchenne muscular dystrophy.Nat Rev Dis Primers7(1):13, 2021.doi: 10.1038/s41572-021-00248-3
+
+【症状和体征】
+
+【Duchenne肌营养不良】
+这种疾病影响大约20/100,000的活产男性，通常表现在2至3岁之间 (1)。肌无力影响近端肌肉，开始时影响下肢。儿童常表现为蹒跚步态、用脚趾走路和脊柱前凸。他们在跑步、跳跃、爬楼梯和从地面上站立时存在困难。儿童经常跌倒，往往造成手臂或腿部骨折（约占患者20％）(2) 。几乎所有的患儿肌无力慢慢进展，肢体屈曲性挛缩和脊柱侧凸进展。发展成肌假性肥大（脂肪和纤维取代了特定肥大的肌肉组织，尤其是在腓部）。大多数儿童在 12 岁之前就需要使用轮椅，如果没有机械通气的支持，大多数儿童在 20 岁之前就会死于呼吸系统并发症。接受呼吸机支持的儿童可能可以额外存活 10 至 20 年。
+心肌受累的影响包括扩张性心肌病，传导异常和心律失常。这种并发症到患者14岁时占三分之一，而到患者18岁时所有患儿均有这种并发症；然而，因为这些患者不能体力活动，心脏受累通常是无症状的，直到在疾病晚期才出现症状。大约三分之一的患者有轻度、非进展性的智力障碍，影响语言能力更明显。
+
+【Becker肌营养不良】
+与Duchenne肌营养不良症相比，Becker肌营养不良症影响<8/100,000名活产男婴，通常症状出现的时间较晚，且较轻 (3)。离床活动通常维持至少到15岁，许多患儿保持不卧床直至成年。大多数患者能存活到30多岁和40多岁。
+
+【症状和体征参考】
+1.Kariyawasam D, D'Silva A, Mowat D, et al: Incidence of Duchenne muscular dystrophy in the modern era; an Australian study.Eur J Hum Genet30(12):1398-1404, 2022.doi: 10.1038/s41431-022-01138-2
+1.Kariyawasam D, D'Silva A, Mowat D, et al: Incidence of Duchenne muscular dystrophy in the modern era; an Australian study.Eur J Hum Genet30(12):1398-1404, 2022.doi: 10.1038/s41431-022-01138-2
+2.McDonald DG, Kinali M, Gallagher AC, et al: Fracture prevalence in Duchenne muscular dystrophy.Dev Med Child Neurol44(10):695-698, 2002.doi: 10.1017/s0012162201002778
+2.McDonald DG, Kinali M, Gallagher AC, et al: Fracture prevalence in Duchenne muscular dystrophy.Dev Med Child Neurol44(10):695-698, 2002.doi: 10.1017/s0012162201002778
+3.Duan D, Goemans N, Takeda S, et al: Duchenne muscular dystrophy.Nat Rev Dis Primers7(1):13, 2021.doi: 10.1038/s41572-021-00248-3
+3.Duan D, Goemans N, Takeda S, et al: Duchenne muscular dystrophy.Nat Rev Dis Primers7(1):13, 2021.doi: 10.1038/s41572-021-00248-3
+DNA突变分析
+DNA突变分析
+有时肌肉活检，随后免疫组化分析肌营养不良蛋白。
+有时肌肉活检，随后免疫组化分析肌营养不良蛋白。
+在有特征性临床表现、起病年龄和X连锁隐性遗传的家族史时怀疑本病。肌电图上可观察到肌病性改变（快速招募的、短持续时间、低振幅的运动单位电位）并且，在进行肌肉活检时，显示坏死和肌纤维大小的明显变异，这些变异不按运动单位分布。肌酸激酶水平升高至正常值的100倍。
+使用多重连接依赖性探针扩增 (MLPA) 对来自外周血白细胞的 DNA 进行突变分析是主要的验证测试；它可以识别异常dystrophin基因。如果 MLPA 未检测到异常，但仍怀疑 Duchenne 或 Becker 肌营养不良症，则可以对抗肌萎缩蛋白基因进行全序列测定，以检测小的遗传变化，例如点突变。
+如果基因检测不能确定诊断，那么应该对肌营养不良蛋白进行分析，并对肌肉活检样本进行免疫染色。抗肌萎缩蛋白在Duchenne肌营养不良患者中查不到。在Becker肌营养不良患者中，抗肌萎缩蛋白通常是不正常的（分子量较低）或浓度较低。
+Duchenne肌营养不良患者应该在诊断时或年龄6岁时接受心电图及超声心动图心功能的基线评估。
+携带者检查和产前诊断可以通过常规检查（如家谱分析、肌酸激酶测定、胎儿性别鉴定）结合重组DNA分析和肌肉组织的抗肌萎缩蛋白免疫染色来实现。
+支持治疗
+支持治疗
+有时矫正手术
+有时矫正手术
+有时，对于心肌病，血管紧张素转换酶抑制剂和/或 β 受体阻滞剂
+有时，对于心肌病，血管紧张素转换酶抑制剂和/或 β 受体阻滞剂
+对于 Duchenne 营养不良症，可使用泼尼松或地夫可特，有时还可使用基因治疗
+对于 Duchenne 营养不良症，可使用泼尼松或地夫可特，有时还可使用基因治疗
+治疗涉及多学科方法，包括非药物和药物措施，其中包括基因疗法。鼓励适度的（次于最大的）体力活动，只要有可能避免废用性萎缩或不活动而引起的并发症。被动活动可以延长离床运动的时间。整形外科干预的目的是维持功能，防止挛缩。睡眠时佩戴踝足矫形器可能有助于防止屈曲挛缩。腿的支架能短期帮助行走或站立。有时需要矫形手术，特别是对脊柱侧凸。应避免肥胖；热量需求可能少于正常，这是因为体力活动降低。
+呼吸功能不全可通过无创呼吸支持（例如，鼻罩）治疗，有时需要机械通气。选择性气管切开术正在被越来越多的人接受，它使患有Duchenne营养不良症的儿童能够活到 30 多岁甚至更长。
+对于扩张型心肌病，血管紧张素转换酶抑制剂和/或beta-受体阻滞剂可能有助于预防或延缓疾病进展 (1)。
+Duchenne 营养不良和 Becker 营养不良的研究疗法包括基因疗法、肌酸、肌生长抑制素失活、骨骼肌祖细胞和抗氧化剂艾地苯醌 (2)。
+需要遗传咨询。
+
+【皮质类固醇治疗Duchenne营养不良症】
+对于Duchenne营养不良症患者来说，每天皮质类固醇（泼尼松或地夫可特）是 4 岁以上运动技能不再增长或下降的患者的主要治疗方法（3）。开始该疗法后，最早10天之后药物即开始发挥效用，而在3个月时疗效达到峰值并持续长达6个月。长期使用可增强肌力、将丧失行走能力的年龄推迟1.4至2.5年、改善定时功能测试（测量儿童完成功能性任务的速度，如行走或从地面站起）、改善肺功能、减少骨科并发症（如脊柱侧弯手术的需要）、稳定心脏功能（如将心肌病的发病推迟至18岁）并将生存期延长5至15年（3）。隔日应用泼尼松是无效的。体重增加和库欣样面容是用药后6至18个月常见的不良反应。椎体压缩和长骨骨折的风险也增加。
+地夫可特可能比泼尼松具有更高的白内障风险。
+对Becker肌营养不良症患者使用泼尼松或地夫可特的疗效尚未得到充分研究验证。
+
+【Duchenne肌营养不良的基因治疗选择】
+一些国家提供增加肌营养不良蛋白水平的基因疗法，但这些疗法价格昂贵，且益处尚不确定（4）。这些疗法的使用需要仔细考虑和共同决策。
+外显子跳跃药物（静脉注射依特立生、戈洛地生、维托拉森和卡西默森）使用反义寡核苷酸，其作用类似于分子补丁，用于修复异常的抗肌萎缩蛋白基因，其中缺少1个或多个外显子（缺失的外显子阻止完整的蛋白质组装，从而引起严重的症状）。这些药物掩盖了外显子，使得它在蛋白质生产过程中被跳过和忽略，从而允许产生一种虽然不正常但具有功能性的肌营养不良蛋白，并且理论上可以减轻症状，从而使患者的功能状态更接近症状较轻的Becke肌营养不良症患儿。
+Eteplirsen 跳过外显子 51。有限的数据表明，在13%的Duchenn营养不良患者中，依特立生可导致肌肉中的肌营养不良蛋白增加，并提高计时行走测试中的运动表现，这些患者具有适合外显子51跳跃的抗肌萎缩蛋白基因突变。该药物的批准受到批评，因为它是基于一项依赖替代结果（肌肉活检中的肌营养不良蛋白） (5) 的小型试验，临床益处仍未得到证实。
+Eteplirsen 跳过外显子 51。有限的数据表明，在13%的Duchenn营养不良患者中，依特立生可导致肌肉中的肌营养不良蛋白增加，并提高计时行走测试中的运动表现，这些患者具有适合外显子51跳跃的抗肌萎缩蛋白基因突变。该药物的批准受到批评，因为它是基于一项依赖替代结果（肌肉活检中的肌营养不良蛋白） (5) 的小型试验，临床益处仍未得到证实。
+戈洛地生和维托拉森可跳过外显子53。它们可用于8%的Duchenne肌营养不良患者，这些患者的抗肌萎缩蛋白基因突变可导致第53外显子跳跃。临床益处仍未得到证实。
+戈洛地生和维托拉森可跳过外显子53。它们可用于8%的Duchenne肌营养不良患者，这些患者的抗肌萎缩蛋白基因突变可导致第53外显子跳跃。临床益处仍未得到证实。
+卡西默森跳过外显子 45。它可用于 8% 的杜氏营养不良症患者，这些患者已确认存在适合进行外显子 45 跳跃的突变。它可增加肌营养不良蛋白的产生，但尚未显示出临床益处。
+卡西默森跳过外显子 45。它可用于 8% 的杜氏营养不良症患者，这些患者已确认存在适合进行外显子 45 跳跃的突变。它可增加肌营养不良蛋白的产生，但尚未显示出临床益处。
+终止密码子通读药物（例如口服阿塔卢伦[PTC124]）绕过过早终止密码子，从而可以产生功能性蛋白质。终止密码子是无意义的突变，它过早地停止功能性蛋白质的产生，从而产生截短的、无功能的蛋白质。
+Ataluren 促进核糖体对过早但不正常的终止密码子的读通，旨在产生功能性的肌营养不良蛋白。对于 2 岁及以上、可以走动且疾病是由无义突变引起的杜氏营养不良症患者来说，这是一种选择。阿塔卢伦在欧盟和英国均可使用。临床益处尚未得到证实（6）。
+Ataluren 促进核糖体对过早但不正常的终止密码子的读通，旨在产生功能性的肌营养不良蛋白。对于 2 岁及以上、可以走动且疾病是由无义突变引起的杜氏营养不良症患者来说，这是一种选择。阿塔卢伦在欧盟和英国均可使用。临床益处尚未得到证实（6）。
+通过病毒载体进行基因转移（例如，德兰地施妥基因莫西帕维维克）使用病毒载体将矫正遗传物质递送至患肌。
+尽管缺乏经过证实的临床益处，德兰地施妥基因莫西帕维维克是唯一获准通过病毒载体进行基因转移治疗的药物，通过该药物可以使用腺相关病毒衣壳(AAVrh74)将微肌营养不良蛋白转基因递送至骨骼肌和心肌。试验中未见功能改善（7)，但在亚组分析中，4 至 5 岁年龄组的功能状态有所改善（8）。不良反应包括恶心、呕吐、发烧、肝功能障碍和血小板减少以及危及生命的免疫炎症反应。需要进一步研究来确定该药物在杜氏营养不良症治疗药物中的地位。
+尽管缺乏经过证实的临床益处，德兰地施妥基因莫西帕维维克是唯一获准通过病毒载体进行基因转移治疗的药物，通过该药物可以使用腺相关病毒衣壳(AAVrh74)将微肌营养不良蛋白转基因递送至骨骼肌和心肌。试验中未见功能改善（7)，但在亚组分析中，4 至 5 岁年龄组的功能状态有所改善（8）。不良反应包括恶心、呕吐、发烧、肝功能障碍和血小板减少以及危及生命的免疫炎症反应。需要进一步研究来确定该药物在杜氏营养不良症治疗药物中的地位。
+
+【治疗参考文献】
+1.Birnkrant DJ, Bushby K, Bann CM, et al: Diagnosis and management of Duchenne muscular dystrophy, part 2: respiratory, cardiac, bone health, and orthopaedic management.Lancet Neurol17(4):347-361, 2018.doi: 10.1016/S1474-4422(18)30025-5
+1.Birnkrant DJ, Bushby K, Bann CM, et al: Diagnosis and management of Duchenne muscular dystrophy, part 2: respiratory, cardiac, bone health, and orthopaedic management.Lancet Neurol17(4):347-361, 2018.doi: 10.1016/S1474-4422(18)30025-5
+2.Ren S, Yao C, Liu Y, et al: Antioxidants for Treatment of Duchenne Muscular Dystrophy: A Systematic Review and Meta-Analysis.Eur Neurol85(5):377-388, 2022.doi: 10.1159/000525045
+2.Ren S, Yao C, Liu Y, et al: Antioxidants for Treatment of Duchenne Muscular Dystrophy: A Systematic Review and Meta-Analysis.Eur Neurol85(5):377-388, 2022.doi: 10.1159/000525045
+3.Gloss D, Moxley RT 3rd, Ashwal S, Oskoui M: Practice guideline update summary: Corticosteroid treatment of Duchenne muscular dystrophy: Report of the Guideline Development Subcommittee of the American Academy of Neurology.Neurology86:465–472, 2016.doi: 10.1212/WNL.0000000000002337
+3.Gloss D, Moxley RT 3rd, Ashwal S, Oskoui M: Practice guideline update summary: Corticosteroid treatment of Duchenne muscular dystrophy: Report of the Guideline Development Subcommittee of the American Academy of Neurology.Neurology86:465–472, 2016.doi: 10.1212/WNL.0000000000002337
+4.Bendicksen L, Zuckerman DM, Avorn J, et al: The Regulatory Repercussions of Approving Muscular Dystrophy Medications on the Basis of Limited Evidence.Ann Intern Med176(9):1251-1256, 2023.doi: 10.7326/M23-1073
+4.Bendicksen L, Zuckerman DM, Avorn J, et al: The Regulatory Repercussions of Approving Muscular Dystrophy Medications on the Basis of Limited Evidence.Ann Intern Med176(9):1251-1256, 2023.doi: 10.7326/M23-1073
+5.Mendell JR, Goemans N, Lowes LP, et al: Longitudinal effect ofeteplirsenversus historical control on ambulation in Duchenne muscular dystrophy.Ann Neurol79(2):257-271, 2016.doi: 10.1002/ana.24555
+5.Mendell JR, Goemans N, Lowes LP, et al: Longitudinal effect ofeteplirsenversus historical control on ambulation in Duchenne muscular dystrophy.Ann Neurol79(2):257-271, 2016.doi: 10.1002/ana.24555
+6.McDonald CM, Campbell C, Torricelli RE, et al:Atalurenin patients with nonsense mutation Duchenne muscular dystrophy (ACT DMD): A multicentre, randomised, double-blind, placebo-controlled, phase 3 trial.Lancet390:(10101):1489–1498, 2017.doi: 10.1016/S0140-6736(17)31611-2
+6.McDonald CM, Campbell C, Torricelli RE, et al:Atalurenin patients with nonsense mutation Duchenne muscular dystrophy (ACT DMD): A multicentre, randomised, double-blind, placebo-controlled, phase 3 trial.Lancet390:(10101):1489–1498, 2017.doi: 10.1016/S0140-6736(17)31611-2
+7.Mendell JR, Shieh PB, McDonald CM, et al: Expression of SRP-9001 dystrophin and stabilization of motor function up to 2 years post-treatment withdelandistrogene moxeparvovecgene therapy in individuals with Duchenne muscular dystrophy.Front Cell Dev Biol11:1167762, 2023.doi: 10.3389/fcell.2023.1167762
+7.Mendell JR, Shieh PB, McDonald CM, et al: Expression of SRP-9001 dystrophin and stabilization of motor function up to 2 years post-treatment withdelandistrogene moxeparvovecgene therapy in individuals with Duchenne muscular dystrophy.Front Cell Dev Biol11:1167762, 2023.doi: 10.3389/fcell.2023.1167762
+8.Elevidys.Prescribing information.Sarepta Therapeutics, Inc; 2023.Accessed January 9, 2024.
+8.Elevidys.Prescribing information.Sarepta Therapeutics, Inc; 2023.Accessed January 9, 2024.
+Duchenne肌营养不良和Becker肌营养不良都是X连锁隐性遗传病，引起肌营养不良蛋白降低，这是肌细胞膜中的一种蛋白质。
+Duchenne肌营养不良和Becker肌营养不良都是X连锁隐性遗传病，引起肌营养不良蛋白降低，这是肌细胞膜中的一种蛋白质。
+患者有显着的，进展的无力症状，导致严重残疾，包括行走困难，频繁跌倒，扩张型心肌病，和由于呼吸功能不全导致的早期死亡。
+患者有显着的，进展的无力症状，导致严重残疾，包括行走困难，频繁跌倒，扩张型心肌病，和由于呼吸功能不全导致的早期死亡。
+主动和被动锻炼是很有帮助的，结合腿支撑和踝足矫形器一起使用。
+主动和被动锻炼是很有帮助的，结合腿支撑和踝足矫形器一起使用。
+在Duchenne营养不良症患者中，尽管不良反应很常见，但每日服用强的松或地夫可特可改善肌肉强度和质量，改善肺功能，并有助于延缓心肌病的发作。
+在Duchenne营养不良症患者中，尽管不良反应很常见，但每日服用强的松或地夫可特可改善肌肉强度和质量，改善肺功能，并有助于延缓心肌病的发作。
+对于具有某些突变的Duchenne肌营养不良患者，尽管临床疗效证据有限，但也可使用依特立生、戈洛地生、维托拉森、卡西默森或阿塔卢伦。
+对于具有某些突变的Duchenne肌营养不良患者，尽管临床疗效证据有限，但也可使用依特立生、戈洛地生、维托拉森、卡西默森或阿塔卢伦。
+血管紧张素转换酶抑制剂和/或beta-受体阻滞剂可能有助于预防或延缓心肌病的进展。
+血管紧张素转换酶抑制剂和/或beta-受体阻滞剂可能有助于预防或延缓心肌病的进展。
+通气支持（无创性，后来的，侵入性）有助于延长寿命。
+通气支持（无创性，后来的，侵入性）有助于延长寿命。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+美国肌营养不良协会:有关Duchenne肌营养不良和Becker 肌营养不良研究、治疗、技术及支持患者生活的信息。
+美国肌营养不良协会:有关Duchenne肌营养不良和Becker 肌营养不良研究、治疗、技术及支持患者生活的信息。
+美国肌营养不良协会:关于Duchenne 肌营养不良和Becke肌营养不良的综合信息，包括标准及研究性疗法以及相关主题的链接
+美国肌营养不良协会:关于Duchenne 肌营养不良和Becke肌营养不良的综合信息，包括标准及研究性疗法以及相关主题的链接
+肌营养不良症今日新闻:一个关于肌营养不良的新闻和信息网站
+肌营养不良症今日新闻:一个关于肌营养不良的新闻和信息网站

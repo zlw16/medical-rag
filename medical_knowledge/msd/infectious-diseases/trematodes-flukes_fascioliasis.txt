@@ -1,0 +1,83 @@
+标题：片吸虫病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/trematodes-flukes/fascioliasis
+============================================================
+
+吸虫为一类可感染人体多个部位（比如血管、胃肠道、肺或肝脏）的扁平状的寄生虫，不同种类感染部位不同。
+肝片形吸虫和大片形吸虫是牛羊的肝吸虫（这些动物是终宿主）；有时这些吸虫可能会感染骆驼、鹿和水牛（1，2）。蜗牛是中间宿主。偶然性人类肝片吸虫病是通过食用被绵羊或牛粪污染的西洋菜或其他水生植物而感染的。该病多发于欧洲（如法国、西班牙、土耳其）、中东、非洲、中国和南美洲的牧羊区，但在美国较为罕见。肝片形吸虫感染（肝片吸虫病）的全球患病率据估计在240万至1700万人之间（3），还有更多人面临感染风险。
+1.未受精的虫卵被排入胆管后随粪便排泄。
+1.未受精的虫卵被排入胆管后随粪便排泄。
+2.虫卵在水中受精孵化。
+2.虫卵在水中受精孵化。
+3.虫卵释放出毛蚴，随后侵入螺类（中间宿主）体内。
+3.虫卵释放出毛蚴，随后侵入螺类（中间宿主）体内。
+4.在钉螺体内，毛蚴经过几个发育阶段（胞蚴、雷蚴、尾蚴）。
+4.在钉螺体内，毛蚴经过几个发育阶段（胞蚴、雷蚴、尾蚴）。
+5.尾蚴从螺体中释放出来，并在水生植物或其他表面形成囊状结构（即囊蚴）进行包囊。
+5.尾蚴从螺体中释放出来，并在水生植物或其他表面形成囊状结构（即囊蚴）进行包囊。
+6.肝片吸虫病是通过进食含有囊蚴的植物，尤其是豆瓣菜而获得的。
+6.肝片吸虫病是通过进食含有囊蚴的植物，尤其是豆瓣菜而获得的。
+7.摄入后，囊蚴在十二指肠内脱囊（从原有包囊中破裂而出）。
+7.摄入后，囊蚴在十二指肠内脱囊（从原有包囊中破裂而出）。
+8.它们通过肠壁、腹腔和肝实质迁移到胆管，在那里发育成成虫吸虫。
+8.它们通过肠壁、腹腔和肝实质迁移到胆管，在那里发育成成虫吸虫。
+Image from the Centers for Disease Control and Prevention, Global Health, Division of Parasitic Diseases and Malaria.
+在急性感染中，未成熟的吸虫在肠壁、腹膜腔、肝包膜及肝实质中移行，随后进入胆道，并在那里通过3~4个月的时间发育为成虫。成虫产卵，卵通过胆管进入十二指肠，然后排出粪便。
+
+【参考文献】
+1.World Health Organization: Neglected tropical diseases: Fascioliasis.July 28, 2020.Accessed July 11, 2025.
+1.World Health Organization: Neglected tropical diseases: Fascioliasis.July 28, 2020.Accessed July 11, 2025.
+2.Centers for Disease Control and Prevention: Liver Flukes: About Fasciola.February 14, 2024.Accessed July 11, 2025.
+2.Centers for Disease Control and Prevention: Liver Flukes: About Fasciola.February 14, 2024.Accessed July 11, 2025.
+3.Mas-Coma S, Valero MA, Bargues MD: Fascioliasis.Adv Exp Med Biol2019;1154:71-103.doi:10.1007/978-3-030-18616-6_4
+3.Mas-Coma S, Valero MA, Bargues MD: Fascioliasis.Adv Exp Med Biol2019;1154:71-103.doi:10.1007/978-3-030-18616-6_4
+
+【片形吸虫病的症状和体征】
+急性肝片形吸虫病感染可能由于肝脏损伤导致腹痛、肝大、恶心、呕吐、间歇热、荨麻疹、无力以及体重下降。嗜酸性粒细胞增多 常见。
+慢性感染可以是无症状的或间歇性腹痛、胆石症、胆管炎、阻塞性黄疸或胰腺炎。慢性感染在接触后6个月开始显现，可能持续10年或更长时间。
+严重感染可继发硬化性胆管炎和胆汁性肝硬化。异位病灶可发生在肠壁、肺或其他器官。
+据报道，在中东地区食用受感染的生肝脏后会出现咽部肝片吸虫病；这种综合征被称为halzoun综合征，可能与咽炎和咽部水肿有关，导致吞咽困难和呼吸困难。Halzoun 的特征尚不明确，其他病原体也被认为是其病因（1)。
+
+【症状和体征】
+1.Khalil G, Haddad C, Otrock ZK, et al: Halzoun, an allergic pharyngitis syndrome in Lebanon: the trematodeDicrocoelium dendriticumas an additional cause.Acta Trop125(1):115-118, 2013.doi:10.1016/j.actatropica.2012.09.013
+1.Khalil G, Haddad C, Otrock ZK, et al: Halzoun, an allergic pharyngitis syndrome in Lebanon: the trematodeDicrocoelium dendriticumas an additional cause.Acta Trop125(1):115-118, 2013.doi:10.1016/j.actatropica.2012.09.013
+
+【片形吸虫病的诊断】
+粪便或十二指肠或胆汁标本（通过内窥镜检查获得）的显微镜检查以寻找虫卵
+粪便或十二指肠或胆汁标本（通过内窥镜检查获得）的显微镜检查以寻找虫卵
+血清学检查
+血清学检查
+有时需要进行影像学检查（腹部CT、MRI、内镜逆行胰胆管造影[ERCP]或超声检查）
+有时需要进行影像学检查（腹部CT、MRI、内镜逆行胰胆管造影[ERCP]或超声检查）
+对于出现腹痛和/或肝肿大的患者，如有食用西洋菜或其他水生植物，或摄入被污染水源浇灌的生蔬菜的饮食史，应考虑肝片形吸虫病的可能。
+当怀疑有片吸虫病时，患者应进行粪便检查，寻找虫卵和血清抗体检测。这些虫卵难以与布氏姜片吸虫的虫卵相鉴别。为评估腹部症状而进行的血液和影像学检查的支持性发现包括贫血、嗜酸性粒细胞增多、肝功能检查异常、红细胞沉降率升高和高丙种球蛋白血症，以及肝片吸虫病急性期 CT 扫描显示肝脏有低密度病变。
+如果粪便检查和抗体检测呈阴性或模棱两可，但仍怀疑有片吸虫病（即，基于众多支持性发现，尤其是嗜酸性粒细胞增多），则应进行十二指肠和胆道抽吸的内窥镜检查。在十二指肠内镜检查和/或胆管周围获取的标本中，可能检测到虫卵，有时也能检测到成虫。
+肝片形吸虫虫卵呈宽椭圆形，有卵盖（一端有盖状覆盖物），长130至150微米，宽60至90微米。肝片形吸虫虫卵很难与布氏姜片吸虫虫卵区分，但肝片形吸虫虫卵的非卵盖端（与卵盖端相对的一端）通常具有粗糙或不规则的区域。
+片形吸虫虫卵以未胚胎化状态随粪便排出。
+CDC/DPDx
+基于抗体检测法的血清学检测，在以下情况中尤为有用：
+产卵前的疾病早期阶段（产卵通常在暴露后至少 3~4 个月开始）。
+产卵前的疾病早期阶段（产卵通常在暴露后至少 3~4 个月开始）。
+慢性感染时，排卵并不规则或量少
+慢性感染时，排卵并不规则或量少
+疾病治愈后6至12个月可检测不到相关抗体。
+基于酶联免疫吸附试验（ELISA）并使用片形吸虫特异性抗原的血清学检测方法已在全球范围内普及。在美国，标准方法包括排泄-分泌物或重组抗原的酶联免疫吸附试验（EIA），然后对EIA阳性样本进行免疫印迹测定作为确认性检测。疾病控制和预防中心（CDC）开发了一种用于肝片吸虫病的免疫印迹测定，该测定使用重组肝片吸虫抗原（FhSAP2），其特征是具有高灵敏度和特异性（1，2）。应该注意的是在粪便中通常检测不到巨片形吸虫卵；首选血清学（基于抗原）检测。
+在流行地区，摄入感染的动物肝脏后，粪便中也查见虫卵，对人类没有传染性，导致片形吸虫病误诊。因此，患者在检查粪便前应遵循无肝脏饮食数日。
+超声、CT、MRI、内镜逆行胰胆管造影（ERCP）或胆管造影可检测慢性疾病中的胆道异常。
+
+【诊断参考】
+1.Centers for Disease Control and Prevention: DPDx–Laboratory Identification of Parasites of Public Health Concern: Fascioliasis.May 2, 2019.Accessed July 1, 2025.
+1.Centers for Disease Control and Prevention: DPDx–Laboratory Identification of Parasites of Public Health Concern: Fascioliasis.May 2, 2019.Accessed July 1, 2025.
+2.Shin SH, Hsu A, Chastain HM, et al: Development of Two FhSAP2 Recombinant-Based Assays for Immunodiagnosis of Human Chronic Fascioliasis.Am J Trop Med Hyg2016;95(4):852-855.doi:10.4269/ajtmh.16-0253
+2.Shin SH, Hsu A, Chastain HM, et al: Development of Two FhSAP2 Recombinant-Based Assays for Immunodiagnosis of Human Chronic Fascioliasis.Am J Trop Med Hyg2016;95(4):852-855.doi:10.4269/ajtmh.16-0253
+
+【治疗片吸虫病】
+三氯苯咪唑，或可能情况下使用硝唑尼特
+三氯苯咪唑，或可能情况下使用硝唑尼特
+对于年龄≥6岁的肝片形吸虫病患者，随餐口服两剂三氯苯达唑，间隔12小时(1)。硝唑尼特口服，每日2次，持续7天可能有效，但数据有限。
+由于治疗失败的可能性很高，不推荐使用吡喹酮。
+对于部分患者，通过内镜逆行胰胆管造影从胆道中取出成虫吸虫，可能有助于减少虫负荷，从而减轻症状。
+预防包括在F. hepatica流行地区不吃豆瓣菜或其他淡水植物。 应评估感染者的家庭成员是否患有片形吸虫病。
+
+【Treatment reference】
+1.Gandhi P, Schmitt EK, Chen CW, Samantray S, Venishetty VK, Hughes D:Triclabendazolein the treatment of human fascioliasis: a review.Trans R Soc Trop Med Hyg2019;113(12):797-804.doi:10.1093/trstmh/trz093
+1.Gandhi P, Schmitt EK, Chen CW, Samantray S, Venishetty VK, Hughes D:Triclabendazolein the treatment of human fascioliasis: a review.Trans R Soc Trop Med Hyg2019;113(12):797-804.doi:10.1093/trstmh/trz093

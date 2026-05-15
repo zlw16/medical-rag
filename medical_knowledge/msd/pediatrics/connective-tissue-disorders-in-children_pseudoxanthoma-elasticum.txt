@@ -1,0 +1,46 @@
+标题：弹性假黄瘤
+来源：https://www.msdmanuals.cn/professional/pediatrics/connective-tissue-disorders-in-children/pseudoxanthoma-elasticum
+============================================================
+
+弹性假黄瘤是由ABCC6基因突变引起的，该基因在常染色体显性和常染色体隐性形式中都有遗传。ABCC6基因产物是一种跨膜转运蛋白，可能在细胞解毒中发挥作用。该蛋白功能缺失导致异位矿化，这是弹性纤维假黄瘤的标志。
+特征性皮肤丘疹病变始于儿童期，主要是美容方面的问题。它们表现为小的黄色丘疹，通常出现在颈部、腋窝和屈曲表面。弹性组织钙化、碎裂，导致相关器官系统受损 (1)：
+眼部系统：视网膜的血管瘤样条纹、视网膜出血和逐渐视力丧失
+眼部系统：视网膜的血管瘤样条纹、视网膜出血和逐渐视力丧失
+心血管系统：早期动脉粥样硬化与随后的间歇性跛行、高血压、心绞痛、心肌梗死和二尖瓣脱垂
+心血管系统：早期动脉粥样硬化与随后的间歇性跛行、高血压、心绞痛、心肌梗死和二尖瓣脱垂
+血管脆性：胃肠道出血和小血管出血，继而发生贫血。
+血管脆性：胃肠道出血和小血管出血，继而发生贫血。
+这张照片显示了弹性假黄瘤患者颈部一侧的黄色丘疹，呈现“拔毛鸡”的外观。
+© Springer Science+Business Media
+可以看到红色视网膜血管从黄色视盘（中右）进入视网膜。在这些血管下面是黑色的、波浪状的、分支的条纹，称为血管样条纹（箭头）。
+
+【参考文献】
+1.Brokamp G, Mori M, Faith EF.Pseudoxanthoma Elasticum.JAMA Dermatol.2022;158(1):100.doi:10.1001/jamadermatol.2021.4059
+1.Brokamp G, Mori M, Faith EF.Pseudoxanthoma Elasticum.JAMA Dermatol.2022;158(1):100.doi:10.1001/jamadermatol.2021.4059
+
+【弹性假黄瘤的诊断】
+临床评估
+临床评估
+组织病理学和基因确认
+组织病理学和基因确认
+诊断弹性纤维假黄瘤主要依据临床、组织学和遗传学检测。皮肤活检显示弹性纤维钙化和断裂。基因检测可以检测出致病突变。
+实验室及影像学检查用于评估相关并发疾病，例如：全血细胞计数可用于检测因胃肠道出血导致的贫血；血脂谱用于心血管风险评估；冠状动脉CT可用于冠心病的预防与筛查；脑血管及脑部影像学检查用于识别脑血管疾病及脑卒中。
+鉴别诊断包括钙肥暴露、长期青霉胺使用、局限性获得性弹性纤维假黄瘤（与肥胖、高血压和多产相关），或伴有凝血缺陷的假黄瘤样疾病。
+
+【弹性假黄瘤的治疗】
+降低心血管风险，包括降脂药物
+降低心血管风险，包括降脂药物
+抑制血管生成的抗体用于血管样条纹症
+抑制血管生成的抗体用于血管样条纹症
+玻璃体内注射血管生成阻断抗体（如贝伐珠单抗）作为视网膜血管样条纹的治疗方案，显示了其前景（1）。
+除此之外，没有特异性治疗，目标是预防并发症。人们应该避免服用可能引起胃或肠道出血的药物，如阿司匹林、其他非甾体抗炎药和抗凝剂 (2)。血脂水平要控制好以减少早发性动脉粥样硬化及其相关血管并发症的风险。弹性纤维假黄瘤患者应避免接触性运动，以防视网膜出血风险。患者应进行眼科和心血管随访评估。
+患有弹性假黄瘤的患者怀孕后应进行视网膜检查以评估脉络膜新生血管；如果存在，应考虑选择性剖宫产 (2,3)。否则，该疾病似乎不影响妊娠，且妊娠不影响疾病进程。
+并发症可能会缩短寿命并影响生活质量。
+
+【治疗参考文献】
+1.Raming K, Pfau M, Herrmann P, Holz FG, Pfau K.Anti-VEGF Treatment for Secondary Neovascularization in Pseudoxanthoma Elasticum - Age of Onset, Treatment Frequency, and Visual Outcome.Am J Ophthalmol.2024;265:127-136.doi:10.1016/j.ajo.2024.03.026
+1.Raming K, Pfau M, Herrmann P, Holz FG, Pfau K.Anti-VEGF Treatment for Secondary Neovascularization in Pseudoxanthoma Elasticum - Age of Onset, Treatment Frequency, and Visual Outcome.Am J Ophthalmol.2024;265:127-136.doi:10.1016/j.ajo.2024.03.026
+2.Terry SF, Uitto J.Pseudoxanthoma Elasticum.2001 Jun 5 [Updated 2020 Jun 4].In: Adam MP, Feldman J, Mirzaa GM, et al., editors.GeneReviews® [Internet].Seattle (WA): University of Washington, Seattle; 1993-2025.
+2.Terry SF, Uitto J.Pseudoxanthoma Elasticum.2001 Jun 5 [Updated 2020 Jun 4].In: Adam MP, Feldman J, Mirzaa GM, et al., editors.GeneReviews® [Internet].Seattle (WA): University of Washington, Seattle; 1993-2025.
+3.Bercovitch L, Leroux T, Terry S, Weinstock MA.Pregnancy and obstetrical outcomes in pseudoxanthoma elasticum.Br J Dermatol.2004;151(5):1011-1018.doi:10.1111/j.1365-2133.2004.06183.x
+3.Bercovitch L, Leroux T, Terry S, Weinstock MA.Pregnancy and obstetrical outcomes in pseudoxanthoma elasticum.Br J Dermatol.2004;151(5):1011-1018.doi:10.1111/j.1365-2133.2004.06183.x

@@ -1,0 +1,126 @@
+标题：肉芽肿性多血管炎（GPA）
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/vasculitis/granulomatosis-with-polyangiitis-gpa
+============================================================
+
+（参见血管炎概述。）
+肉芽肿性多血管炎（GPA）的发病率因研究人群的不同而有所差异。例如，英国的一项大型队列研究报告的发病率为11.8/百万 人年（1）。它在欧洲血统人群中最为常见，但可以发生在所有种族群体和任何年龄段的人群中（2）。平均发病年龄为40岁。
+尽管免疫机制参与其中，但GPA的病因仍不明确。有活动性全身性疾病的患者可有抗中性粒细胞胞浆抗体（ANCA）。
+
+【参考文献】
+1.Pearce FA, Grainge MJ, Lanyon PC, Watts RA, Hubbard RB.The incidence, prevalence and mortality of granulomatosis with polyangiitis in the UK Clinical Practice Research Datalink.Rheumatology(Oxford) 56(4):589-596, 2017.doi:10.1093/rheumatology/kew413
+1.Pearce FA, Grainge MJ, Lanyon PC, Watts RA, Hubbard RB.The incidence, prevalence and mortality of granulomatosis with polyangiitis in the UK Clinical Practice Research Datalink.Rheumatology(Oxford) 56(4):589-596, 2017.doi:10.1093/rheumatology/kew413
+2.Terrier B, Dechartres A, Deligny C, et al.Granulomatosis with polyangiitis according to geographic origin and ethnicity: clinical-biological presentation and outcome in a French population.Rheumatology(Oxford) 56(3):445-450, 2017.doi:10.1093/rheumatology/kew423
+2.Terrier B, Dechartres A, Deligny C, et al.Granulomatosis with polyangiitis according to geographic origin and ethnicity: clinical-biological presentation and outcome in a French population.Rheumatology(Oxford) 56(3):445-450, 2017.doi:10.1093/rheumatology/kew423
+
+【肉芽肿性多血管炎的病理生理学】
+其特征是形成由组织细胞性上皮样细胞和多核巨细胞组成的肉芽肿。可见浆细胞、淋巴细胞、中性粒细胞和嗜酸性粒细胞也存在。炎症可累及组织和血管；血管炎是该病的小或大组成部分。早期可呈现微坏死，通常伴随中性粒细胞（微脓肿）。微坏死渐渐发展为大坏死。中心区域坏死（称为地图样坏死）边缘围着淋巴细胞、浆细胞、巨噬细胞和多核巨细胞。成纤维细胞样增殖区伴有组织细胞可能围绕该区域。
+鼻部可有非特异性慢性炎症和组织坏死。肺部最有可能显示各种组织学异常，但经支气管活检获得的小样本可能并不能发现典型的诊断依据。肾脏最常见的病变是寡免疫复合物新月体性局灶型肾小球肾炎，伴有独立的管袢或大片的肾小球坏死和血栓形成。血管炎性病变和弥散性肉芽肿不常见。
+
+【肉芽肿性多血管炎的症状和体征】
+肉芽肿性多血管炎呈隐匿性或急性发病，疾病的全部呈现有时需几年。有些患者初始表现为上和下呼吸道症状，随后可出现肾脏累及。另外一些患者，首发相对较急的全身症状，某些器官或系统，如上呼吸道、周围神经系统（引起多发性单神经病【多发性单神经炎】）、肾脏（引起肾小球肾炎）和下呼吸道（引起出血、肺部结节、空洞或多发病变）可同时受累。
+上呼吸道：鼻窦疼痛，清水样或脓性鼻涕，鼻出血亦可能发生。鼻黏膜外观呈颗粒状（类似鹅卵石样），质脆；常见溃疡，厚黑结痂，鼻中隔穿孔。鼻软骨炎可发生肿胀、疼痛、鼻梁（鼻脊）坍塌。患者主诉反复的鼻窦炎，对多种抗生素治疗无效，曾多次行鼻窦手术。可发生继发感染（例如，金黄色葡萄球菌感染）。可发生声门下狭窄，引起喉部疼痛、声音嘶哑、呼吸困难、喘鸣和哮鸣等症状。
+上呼吸道：鼻窦疼痛，清水样或脓性鼻涕，鼻出血亦可能发生。鼻黏膜外观呈颗粒状（类似鹅卵石样），质脆；常见溃疡，厚黑结痂，鼻中隔穿孔。鼻软骨炎可发生肿胀、疼痛、鼻梁（鼻脊）坍塌。患者主诉反复的鼻窦炎，对多种抗生素治疗无效，曾多次行鼻窦手术。可发生继发感染（例如，金黄色葡萄球菌感染）。可发生声门下狭窄，引起喉部疼痛、声音嘶哑、呼吸困难、喘鸣和哮鸣等症状。
+耳朵：可发生耳炎、感觉神经性听力丧失、眩晕和软骨炎。常见中耳、内耳、乳突受累。
+耳朵：可发生耳炎、感觉神经性听力丧失、眩晕和软骨炎。常见中耳、内耳、乳突受累。
+眼睛：眼部可呈现红眼和水肿。可发生鼻泪管炎症和阻塞、结膜炎、巩膜炎、葡萄膜炎或视网膜血管炎。炎症浸润球后区域（眼眶假瘤）可引起眼球突出，视神经压迫和失明。炎症浸润至眼外肌导致复视。如果患者出现严重的眼部症状，需要立即评估和治疗以防永久性失明。
+眼睛：眼部可呈现红眼和水肿。可发生鼻泪管炎症和阻塞、结膜炎、巩膜炎、葡萄膜炎或视网膜血管炎。炎症浸润球后区域（眼眶假瘤）可引起眼球突出，视神经压迫和失明。炎症浸润至眼外肌导致复视。如果患者出现严重的眼部症状，需要立即评估和治疗以防永久性失明。
+下呼吸道：常见呼吸道症状。主支气管和支气管分支炎症可导致局限性喘息、阻塞性肺炎和肺不张。单发或多发的肺结节，伴或不伴空洞，薄壁组织炎症浸润，有时引起胸痛、呼吸短促、排痰性咳嗽等症状。出现肺部双侧炎症浸润的呼吸困难，伴或不伴咯血，可能提示肺泡出血，需要立即进行检查。
+下呼吸道：常见呼吸道症状。主支气管和支气管分支炎症可导致局限性喘息、阻塞性肺炎和肺不张。单发或多发的肺结节，伴或不伴空洞，薄壁组织炎症浸润，有时引起胸痛、呼吸短促、排痰性咳嗽等症状。出现肺部双侧炎症浸润的呼吸困难，伴或不伴咯血，可能提示肺泡出血，需要立即进行检查。
+心脏：冠状动脉疾病可能发生，但很少发生。
+心脏：冠状动脉疾病可能发生，但很少发生。
+肌肉骨骼系统：患者常出现肌痛、关节痛或非侵蚀性炎症性关节炎。
+肌肉骨骼系统：患者常出现肌痛、关节痛或非侵蚀性炎症性关节炎。
+皮肤：可出现紫癜，痛性皮下结节，丘疹，网状青斑，溃疡。
+皮肤：可出现紫癜，痛性皮下结节，丘疹，网状青斑，溃疡。
+神经系统：血管炎可引起缺血性周围神经病、脑损伤或炎症从邻近部位扩展到神经组织。起源于鼻窦或中耳的病变可能直接扩展至后咽区和颅底，导致颅神经病、眼球突出、精氨酸加压素缺乏或脑膜炎。
+神经系统：血管炎可引起缺血性周围神经病、脑损伤或炎症从邻近部位扩展到神经组织。起源于鼻窦或中耳的病变可能直接扩展至后咽区和颅底，导致颅神经病、眼球突出、精氨酸加压素缺乏或脑膜炎。
+肾：发生肾小球肾炎的症状和体征。尿沉渣检查常有异常，血清肌酐可能会迅速增加。可致水肿和高血压。可发生危及生命的急进性肾炎。
+肾：发生肾小球肾炎的症状和体征。尿沉渣检查常有异常，血清肌酐可能会迅速增加。可致水肿和高血压。可发生危及生命的急进性肾炎。
+静脉系统：通常发生在肉芽肿性多血管炎活动时，深静脉血栓可影响下肢。
+静脉系统：通常发生在肉芽肿性多血管炎活动时，深静脉血栓可影响下肢。
+其他器官：炎症肿块有时出现在乳腺、肾脏、前列腺或其他器官。
+其他器官：炎症肿块有时出现在乳腺、肾脏、前列腺或其他器官。
+这张照片显示了由于鼻软骨炎导致的鼻梁塌陷。
+© Springer Science+Business Media
+肉芽肿性多血管炎 (GPA) 患者的眼球突出和巩膜外层炎。 CT 视图描绘了眼眶浸润。
+© Springer Science+Business Media
+
+【肉芽肿性多血管炎的诊断】
+常规实验室检查，包括尿常规
+常规实验室检查，包括尿常规
+抗中性粒细胞胞浆抗体检测
+抗中性粒细胞胞浆抗体检测
+胸部和鼻腔 CT
+胸部和鼻腔 CT
+为明确诊断而做活检
+为明确诊断而做活检
+有慢性、不明原因的呼吸道症状体征（包括成人中耳炎）的患者，特别是合并其他器官系统（尤其是肾脏）表现的患者，应怀疑肉芽肿性多血管炎。常规的实验室测试已经完成，但ANCA测试和对相关组织的选择性活检可以得出最具体的结果。鼻组织活检很少能提供明确的诊断。
+常规实验室检查包括ESR、C反应蛋白、全血细胞计数和分类、血清白蛋白和总蛋白、血清肌酐、尿常规、24小时尿蛋白和胸片。 鼻窦 CT 可显示鼻窦黏膜增厚或混浊、鼻中隔穿孔和骨损伤。对于疑似病例患者，应始终进行无对比剂胸部CT检查，因为胸部X光可能漏检结节、肿块和/或空洞性病变。在大多数活动性疾病患者中，红细胞沉降率和C反应蛋白升高，血清白蛋白和总蛋白减少；有时可发现贫血和血小板增多。尿常规中检测到异形红细胞和红细胞管型，提示有肾小球累及。可发现蛋白尿。可发现血清肌酐升高。
+多发性肉芽肿病合并多血管炎（GPA）患者右肺的大空洞病变。
+© Springer Science+Business Media
+酶联免疫吸附试验（ELISA）后进行血清学特异性抗体检测--抗中性粒细胞胞浆抗体(ANCA)检测。大多数活动期患者有胞浆型ANCA（c-ANCA）和抗蛋白水解酶3（PR3）抗体阳性；这些检查结果加上特征性的临床表现提示GPA。
+某些其他疾病的患者（如，细菌性心内膜炎、可卡因滥用、系统性红斑狼疮、阿米巴病、结核）可有ANCA阳性。由于针对罕见病的检测在为疾病先验概率低的患者进行时更容易出现假阳性结果，而且ANCA检测的阳性预测值约为50%（1），因此，ANCA检测应仅用于GPA或其他ANCA相关血管炎的先验概率至少中等偏高的患者（例如，出现肺泡出血、肾小球肾炎或多发性单神经病，以及其他显微镜下多血管炎或GPA特征的患者）(2)。
+阳性的ANCA结果不能排除分枝杆菌和真菌感染;因此，ANCA阳性和空洞肺部病变的患者仍然需要支气管镜和适当的培养以及其他针对结核和真菌感染的检查。ANCA的检测（滴度）不能用于指导接下来的治疗。在缓解期，ANCA滴度可能增加，ANCA也可能从阴性转变为阳性。一些患者无复发症状；另外一些患者在该检查之后的数周、数月或数年，症状可复发或很快加重。
+如果可以，应做活检以明确GPA诊断。应首先对临床上有异常的部位活检。对受累的肺组织活检是最有可能发现特征性的表现;开胸手术是最好的途径。肺或鼻窦组织活检组织需培养以排除感染。若肾活检显示寡免疫坏死性局灶性新月体或非新月体肾小球肾炎，则强烈支持诊断。 来自多个组织的活检也可提供组织学证据来帮助指导治疗（如肾纤维化）。
+鉴别诊断包括其他累及小和中等大小血管的血管炎性疾病。取样本组织进行染色和培养来除外感染，尤其是生长缓慢的真菌或抗酸微生物感染。
+
+【诊断参考】
+1.McLaren JS, Stimson RH, McRorie ER, Coia JE, Luqmani RA.The diagnostic value of anti-neutrophil cytoplasmic antibody testing in a routine clinical setting.QJM94(11):615-621, 2001.doi:10.1093/qjmed/94.11.615
+1.McLaren JS, Stimson RH, McRorie ER, Coia JE, Luqmani RA.The diagnostic value of anti-neutrophil cytoplasmic antibody testing in a routine clinical setting.QJM94(11):615-621, 2001.doi:10.1093/qjmed/94.11.615
+2.Guchelaar NAD, Waling MM, Adhin AA, van Daele PLA, Schreurs MWJ, Rombach SM.The value of anti-neutrophil cytoplasmic antibodies (ANCA) testing for the diagnosis of ANCA-associated vasculitis, a systematic review and meta-analysis.Autoimmun Rev20(1):102716, 2021.doi:10.1016/j.autrev.2020.102716
+2.Guchelaar NAD, Waling MM, Adhin AA, van Daele PLA, Schreurs MWJ, Rombach SM.The value of anti-neutrophil cytoplasmic antibodies (ANCA) testing for the diagnosis of ANCA-associated vasculitis, a systematic review and meta-analysis.Autoimmun Rev20(1):102716, 2021.doi:10.1016/j.autrev.2020.102716
+
+【肉芽肿性多血管炎的治疗】
+为了诱导缓解危及生命或器官的GPA，使用大剂量糖皮质激素加环磷酰胺或利妥昔单抗
+为了诱导缓解危及生命或器官的GPA，使用大剂量糖皮质激素加环磷酰胺或利妥昔单抗
+为了诱导缓解病情较轻的GPA，使用糖皮质激素加甲氨蝶呤或利妥昔单抗
+为了诱导缓解病情较轻的GPA，使用糖皮质激素加甲氨蝶呤或利妥昔单抗
+为维持缓解，单独使用利妥昔单抗或其他药物，例如氨甲蝶呤、硫唑嘌呤、霉酚酸酯（若患者多次复发或GPA难以控制，可考虑利妥昔单抗加上述其他药物之一，有时也可加用低剂量糖皮质激素）
+为维持缓解，单独使用利妥昔单抗或其他药物，例如氨甲蝶呤、硫唑嘌呤、霉酚酸酯（若患者多次复发或GPA难以控制，可考虑利妥昔单抗加上述其他药物之一，有时也可加用低剂量糖皮质激素）
+必要时进行肾脏移植
+必要时进行肾脏移植
+肉芽肿性多血管炎的治疗取决于疾病严重程度。治疗多器官疾病需要多学科治疗，通常包括风湿科医生、耳鼻喉科医生、肺科医生和肾内科医生。
+有严重危及生命或器官的表现（例如，肺泡出血、快速进展性肾小球肾炎、急性多发性单神经病伴运动受累）的患者需要立即住院治疗以诱导缓解。这类患者需高剂量的糖皮质激素和环磷酰胺或者利妥昔单抗。Rituximab, a B cell-depleting monoclonal antibody, is preferred because of the more favorable adverse effect profile compared withcyclophosphamide(1,2).利妥昔单抗和环磷酰胺在诱导缓解方面的疗效似乎相似（3）。当使用环磷酰胺进行诱导治疗时，通常在3到6个月后将其替换为每周低剂量甲氨蝶呤（与叶酸一起）或每日硫唑嘌呤，以限制与环磷酰胺暴露相关的毒性（例如出血性膀胱炎、膀胱癌、不孕症）。使用静脉注射制剂时，有时会给予巯乙基磺酸钠（美司钠）以预防膀胱炎，但这种方法的益处尚未得到证实。阿瓦科潘，一种选择性补体C5a受体拮抗剂，可用作标准疗法的辅助药物，常能减少对皮质类固醇的暴露（4）。血浆置换并未显示出降低死亡率或终末期肾病的发生率（5）。
+对于维持治疗，利妥昔单抗在降低复发风险方面有效。在一项随机试验中，包括了GPA和其他ANCA相关血管炎的患者，接受利妥昔单抗维持治疗的患者相比于接受硫唑嘌呤治疗的患者，复发和不良事件发生率较低（6）。用于维持治疗的利妥昔单抗的最佳剂量、输注频率和治疗持续时间尚不完全明确。经常复发的患者可能需要服用免疫抑制剂。一项回顾性研究发现，当利妥昔单抗与甲氨蝶呤、硫唑嘌呤或吗替麦考酯联合使用时，复发率较使用单独利妥昔单抗时低（7）。通常使用低剂量糖皮质激素辅助维持缓解。
+B 细胞耗竭疗法将在接种疫苗后的数月内显著减弱疫苗反应，并可能导致低丙种球蛋白血症。
+对于较轻的疾病,使用皮质类固醇和甲氨蝶呤来诱导缓解。利妥昔单抗可以用来代替甲氨蝶呤。糖皮质激素逐步减少至维持缓解的最小剂量或停用。
+用加或不加2%莫匹罗星软膏的生理盐水冲洗鼻腔，有助于减少结痂和继发性葡萄球菌感染。
+治疗声门下狭窄较困难。全身使用的免疫抑制剂未必有效。病变部位注射长效皮质类固醇激素，温和地逐渐扩张，可显着改善成果并减少气管切开。
+应该向患者宣教疾病知识，这样可以早期发现疾病复发。
+肾移植较为有效；与维持透析治疗相比，移植后复发的危险性减少（可能部分是因为使用免疫抑制剂以预防排异）。
+
+【治疗参考文献】
+1.Chung SA, Langford CA, Maz M, et al: 2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of Antineutrophil Cytoplasmic Antibody-Associated Vasculitis.Arthritis Rheumatol73(8):1366-1383, 2021.doi:10.1002/art.41773
+1.Chung SA, Langford CA, Maz M, et al: 2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of Antineutrophil Cytoplasmic Antibody-Associated Vasculitis.Arthritis Rheumatol73(8):1366-1383, 2021.doi:10.1002/art.41773
+2.Kidney Disease: Improving Global Outcomes (KDIGO) ANCA Vasculitis Work Group.KDIGO 2024 Clinical Practice Guideline for the Management of Antineutrophil Cytoplasmic Antibody (ANCA)-Associated Vasculitis [published correction appears inKidney Int2024 Jul;106(1):160-163. doi: 10.1016/j.kint.2024.04.003].Kidney Int2024;105(3S):S71-S116.doi:10.1016/j.kint.2023.10.008
+2.Kidney Disease: Improving Global Outcomes (KDIGO) ANCA Vasculitis Work Group.KDIGO 2024 Clinical Practice Guideline for the Management of Antineutrophil Cytoplasmic Antibody (ANCA)-Associated Vasculitis [published correction appears inKidney Int2024 Jul;106(1):160-163. doi: 10.1016/j.kint.2024.04.003].Kidney Int2024;105(3S):S71-S116.doi:10.1016/j.kint.2023.10.008
+3.Stone JH, Merkel PA, Spiera R, et al:Rituximabversuscyclophosphamidefor ANCA-associated vasculitis.N Engl J Med363:221–232, 2010.doi: 10.1056/NEJMoa0909905
+3.Stone JH, Merkel PA, Spiera R, et al:Rituximabversuscyclophosphamidefor ANCA-associated vasculitis.N Engl J Med363:221–232, 2010.doi: 10.1056/NEJMoa0909905
+4.Jayne DRW, Merkel PA, Schall TJ, Bekker P; ADVOCATE Study Group:Avacopanfor the Treatment of ANCA-Associated Vasculitis [published correction appears inN Engl J Med2024 Jan 25;390(4):388. doi: 10.1056/NEJMx230010].N Engl J Med384(7):599-609, 2021.doi:10.1056/NEJMoa2023386
+4.Jayne DRW, Merkel PA, Schall TJ, Bekker P; ADVOCATE Study Group:Avacopanfor the Treatment of ANCA-Associated Vasculitis [published correction appears inN Engl J Med2024 Jan 25;390(4):388. doi: 10.1056/NEJMx230010].N Engl J Med384(7):599-609, 2021.doi:10.1056/NEJMoa2023386
+5.Walsh M, Merkel PA, Peh CA, et al: Plasma exchange andglucocorticoidsin severe ANCA-associated vasculitis.N Engl J Med382(7):622-631, 2020.doi:10.1056/NEJMoa1803537
+5.Walsh M, Merkel PA, Peh CA, et al: Plasma exchange andglucocorticoidsin severe ANCA-associated vasculitis.N Engl J Med382(7):622-631, 2020.doi:10.1056/NEJMoa1803537
+6.Smith RM, Jones RB, Specks U, et al:Rituximabversusazathioprinefor maintenance of remission for patients with ANCA-associated vasculitis and relapsing disease: an international randomised controlled trial.Ann Rheum Dis82(7):937-944, 2023.doi:10.1136/ard-2022-223559
+6.Smith RM, Jones RB, Specks U, et al:Rituximabversusazathioprinefor maintenance of remission for patients with ANCA-associated vasculitis and relapsing disease: an international randomised controlled trial.Ann Rheum Dis82(7):937-944, 2023.doi:10.1136/ard-2022-223559
+7.Sorin B, Samson M, Durel CA, et al:Rituximabplusmethotrexatecombination as a salvage therapy in persistently active granulomatosis with polyangiitis.Rheumatology(Oxford) 61(6):2619–2624, 2022.doi:10.1093/rheumatology/keab791
+7.Sorin B, Samson M, Durel CA, et al:Rituximabplusmethotrexatecombination as a salvage therapy in persistently active granulomatosis with polyangiitis.Rheumatology(Oxford) 61(6):2619–2624, 2022.doi:10.1093/rheumatology/keab791
+
+【GPA的预后】
+预后取决于严重程度和疾病范围 ，也同样取决于治疗是否及时。
+用免疫抑制剂治疗严重病例，可大大改善预后。经治疗后，约有80%患者可达到完全缓解，然而其中有一半患者最终出现复发（1）；复发可在维持缓解期或在治疗终止后（甚至很多年之后）。继续治疗或者加强治疗通常可控制疾病。然而，90％的患者由于疾病本身和/或治疗而病情加重。
+
+【预后参考】
+1.Alberici F, Smith RM, Jones RB, et al.Long-term follow-up of patients who received repeat-doserituximabas maintenance therapy for ANCA-associated vasculitis.Rheumatology(Oxford) 2015;54(7):1153-1160.doi:10.1093/rheumatology/keu452
+1.Alberici F, Smith RM, Jones RB, et al.Long-term follow-up of patients who received repeat-doserituximabas maintenance therapy for ANCA-associated vasculitis.Rheumatology(Oxford) 2015;54(7):1153-1160.doi:10.1093/rheumatology/keu452
+在肉芽肿性多血管炎中，血管炎累及任何器官的小血管和中型血管，最常见的是肾脏（伴有肾小球肾炎），以及上呼吸道和下呼吸道，并伴有显著的坏死性肉芽肿性实质性炎症。
+在肉芽肿性多血管炎中，血管炎累及任何器官的小血管和中型血管，最常见的是肾脏（伴有肾小球肾炎），以及上呼吸道和下呼吸道，并伴有显著的坏死性肉芽肿性实质性炎症。
+症状可涉及多个器官系统，常包括上和下呼吸道症状（如，反复流涕或鼻出血，咳嗽），随后出现高血压和水肿(因肾脏受累)。
+症状可涉及多个器官系统，常包括上和下呼吸道症状（如，反复流涕或鼻出血，咳嗽），随后出现高血压和水肿(因肾脏受累)。
+通过抗中性粒细胞胞浆抗体检测和活检明确诊断。
+通过抗中性粒细胞胞浆抗体检测和活检明确诊断。
+复发是常见的，且治疗可以导致发病。
+复发是常见的，且治疗可以导致发病。
+通过糖皮质激素联合其他免疫抑制剂诱导缓解。
+通过糖皮质激素联合其他免疫抑制剂诱导缓解。
+使用利妥昔单抗、甲氨蝶呤或硫唑嘌呤维持缓解，并逐渐降低糖皮质激素剂量。
+使用利妥昔单抗、甲氨蝶呤或硫唑嘌呤维持缓解，并逐渐降低糖皮质激素剂量。

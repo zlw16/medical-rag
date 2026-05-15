@@ -1,0 +1,176 @@
+标题：肩关节脱位
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/dislocations/shoulder-dislocations
+============================================================
+
+大关节脱位中，肩关节脱位约占一半。
+肩关节脱位可能:
+（见脱位概述。）
+
+【肩关节前脱位】
+在≥95%的患者中，肩关节脱位为前脱位(1)；其机制为外展和外旋。相关损伤包括:
+臂丛神经损伤
+臂丛神经损伤
+肩袖撕裂（特别是在老年患者中）
+肩袖撕裂（特别是在老年患者中）
+大结节骨折
+大结节骨折
+腋神经损伤
+腋神经损伤
+由肩关节不稳定引起的复发性脱位多见于40岁及以下患者（2）。
+前脱位时，肩峰明显突出，肘部稍外展，与身体保持一定距离。肱骨头向前向下移位，不能在正常位置触及。患者不愿移动手臂。 他们可能有运动和感觉障碍（例如，如果腋神经受伤，三角肌感觉减退）。
+
+【参考文献】
+1.Hayashi M, Tanizaki S, Nishida N, et al.Success rate of anterior shoulder dislocation reduction by emergency physicians: a retrospective cohort study.Acute Med Surg.2022;9(1):e751.Published 2022 Apr 19.doi:10.1002/ams2.751
+1.Hayashi M, Tanizaki S, Nishida N, et al.Success rate of anterior shoulder dislocation reduction by emergency physicians: a retrospective cohort study.Acute Med Surg.2022;9(1):e751.Published 2022 Apr 19.doi:10.1002/ams2.751
+2.Olds M, Ellis R, Donaldson K, et al.Risk factors which predispose first-time traumatic anterior shoulder dislocations to recurrent instability in adults: a systematic review and meta-analysis.Br J Sports Med.2015;49(14):913-922.doi:10.1136/bjsports-2014-094342
+2.Olds M, Ellis R, Donaldson K, et al.Risk factors which predispose first-time traumatic anterior shoulder dislocations to recurrent instability in adults: a systematic review and meta-analysis.Br J Sports Med.2015;49(14):913-922.doi:10.1136/bjsports-2014-094342
+
+【肩关节前脱位的诊断】
+真正的前后位和腋窝X线片
+真正的前后位和腋窝X线片
+前后位 X 线平片显示肱骨头脱离了关节窝内的通常位置，提示前脱位。
+By permission of the publisher.From Jacobs P:Current Orthopedic Diagnosis and Treatment.Edited by JD Heckman, RC Schenck, and A Agarwal.Philadelphia, Current Medicine, 2002.
+正位（AP）和腋窝X射线可诊断前脱位，X线上可见关节窝外的肱骨头。
+
+【肩关节前脱位的治疗】
+通常闭合复位
+通常闭合复位
+肩关节前脱位的治疗通常是使用局部麻醉（关节内注射）或程序镇静（另见肩关节脱位复位技术概述）。常用于复位肩关节前脱位的技巧包括：
+牵引和抗牵引复位手法
+牵引和抗牵引复位手法
+外旋复位（如Hennepin手法）
+外旋复位（如Hennepin手法）
+肩胛操纵复位
+肩胛操纵复位
+Davos自动复位法
+Davos自动复位法
+Stimson（悬垂）法
+Stimson（悬垂）法
+FARES（快速、可靠、安全）复位手法
+FARES（快速、可靠、安全）复位手法
+Cunningham（按摩）复位法
+Cunningham（按摩）复位法
+许多技术（如Hennepin法、肩胛骨操作法、Cunningham法、FARES法）通常可在无镇静状态下实施，但需要时间让受痉挛影响的肌肉充分放松；患者必须处于相对舒适状态，能够配合治疗并集中注意力进行放松。
+没有一种单一技术适用于所有肩关节脱位。如果可能的话，病人就诊时脱位的位置是选择何种技术的考虑因素。还应该考虑以下情况：
+如果病人的手臂不能内收，则不应使用Cunningham技术或外旋，因为两种手法都取决于手臂内收。
+如果病人的手臂不能内收，则不应使用Cunningham技术或外旋，因为两种手法都取决于手臂内收。
+若患者的手臂固定在外展位，应使用FARES手法、Stimson手法或肩胛骨操纵法。
+若患者的手臂固定在外展位，应使用FARES手法、Stimson手法或肩胛骨操纵法。
+如果患者的手臂下脱位，应使用牵引-反牵引技术。
+如果患者的手臂下脱位，应使用牵引-反牵引技术。
+若为孕妇不能俯卧，则不应使用Stimson复位法。
+若为孕妇不能俯卧，则不应使用Stimson复位法。
+关节复位后立即用吊带和绷带进行固定（见图吊带和绷带）。对于年龄>40 岁的患者，使用吊带和绷带固定 5 至 7 天，并鼓励早期进行关节活动度练习，以帮助预防并发症（如肩周炎）(1)。
+对于复发性同侧肩关节脱位的患者，可以考虑转诊骨科医生进行潜在的手术治疗以减少肩关节不稳定。此外，一些数据表明，对于首次肩关节脱位后的患者，手术治疗有益（2，3）。
+
+【吊索和绷带】
+吊索和绷带
+牵引-对抗牵引技术可用于复位前肩关节脱位，通常需要实施程序性镇静（参见图前肩关节脱位复位牵引-对抗牵引技术）。在这个过程中，患者平卧于担架，锁定担架轮。一名医生拉动缠绕在患者胸部的折叠床单。另一名医生将患肢向下并向外侧呈45°角牵引。在肱骨牵出后，再将肱骨近端稍向外侧牵引。（另见《如何使用牵引-反牵引法复位肩关节前脱位》以获取详细说明。）
+
+【牵引-抗牵引技术用于肩关节前脱位的复位】
+牵引-抗牵引技术用于肩关节前脱位的复位
+患者平卧于担架，锁定担架轮。一名医生拉动缠绕在患者胸部的折叠床单。另一名医生将患肢向下并向外侧呈45°角牵引。在肱骨牵出后，再将肱骨近端稍向外侧牵引。
+亨内平技术（外旋法）可在患者仰卧位或坐位下实施，通常需要程序性镇静（参见图亨内平技术复位肩关节前脱位）。将脱位的手臂内收，肘部保持在90°。 然后慢慢地向外旋转（5~10分钟），以便缓解肌肉痉挛。复位通常发生在外旋70〜110°。（详细操作指南，请参阅《如何使用外旋法（亨内平技术）复位肩关节前脱位》。）
+
+【Hennepin技术复位肩关节前脱位】
+Hennepin技术复位肩关节前脱位
+临床医生将脱位的胳膊内收，同时保持肘关节呈90°。 然后慢慢地向外旋转（5~10分钟），以便缓解肌肉痉挛。复位通常发生在外旋70〜110°。
+肩胛骨复位术可在患者直立或俯卧位下进行，无需程序性镇静。医生屈曲患者肘部至90°，并慢慢外旋患肢。助手在患肢上施加轻微的牵引力。医师旋转肩胛骨使得肩胛下角朝脊柱方向内侧移动。肩胛骨复位术可以与其他技术（例如，Stimson技术）一起使用。
+Davos（自动复位）技术是一种患者自行控制的用于复位前脱位的技术；它应该在没有程序镇静的情况下进行（4）。病人坐位，同侧膝盖弯曲，肘部靠近大腿。双手紧握于腿前，用松紧带绑在一起，固定于胫骨近端，这样患者就不必专注于保持正确的复位姿势，并且可以放松肌肉。医生坐在病人的脚上，指导病人将头向后仰（颈部伸展）并耸肩。伸展颈部对脱位的肩部施加持续的牵引力。因此，患者可以利用自身体重来复位脱位。 （参见如何使用Davos技术复位肩关节前脱位。）
+Stimson技术（也称为悬空重物技术）较少进行。患者需俯卧位，患肢垂于床边。该技术通常在关节腔内镇痛条件下实施；由于患者需采取俯卧位，气道管理较为困难，因此一般不采用镇静麻醉。将重物系于患者手腕上。约30分钟后，肌肉痉挛通常可缓解，足以使肱骨头复位。因为病人俯卧，不推荐清醒镇静。此体位可能对孕妇及Ⅲ级肥胖患者（体重指数≥40 kg/m²）过于不适。这种技术也可以与肩胛骨复位术联合使用；患者俯卧时医生进行肩胛骨复位术。这样可减少复位所需的时间。（另见《如何使用史汀生技术复位肩关节前脱位》以获取详细说明。）
+FARES技术通常不需要镇静（5)。患者仰卧位，肘伸展，前臂处于中立位。医生施加牵引力并缓慢地外展手臂，以每秒2或3个完整周期的速度，在水平面上下约5厘米的范围内，以振荡模式垂直移动手臂。这个动作有助于肌肉放松。当手臂外展至90°时，患者的手掌向上抬起，手臂向外旋转，手臂持续外展的过程中患肢保持持续小范围的垂直振荡。外展120°时通常可获得复位。（详细操作指南，请参阅《如何使用FARES法复位肩关节前脱位》。）
+坎宁安技术涉及在患者坐姿时对盂肱关节周围肌肉进行按摩，且无需程序性镇静即可实施。临床医师所执行的步骤如下：
+坐在病人的患侧，面对病人
+坐在病人的患侧，面对病人
+将患者的手置于医师肩部，保持患者肘部屈曲并内收
+将患者的手置于医师肩部，保持患者肘部屈曲并内收
+将临床医生的手置于患者肘弯处的凹陷（肘前窝）中，并固定脱位的手臂
+将临床医生的手置于患者肘弯处的凹陷（肘前窝）中，并固定脱位的手臂
+按摩肱二头肌、三角肌中束和斜方肌以缓解肌肉痉挛
+按摩肱二头肌、三角肌中束和斜方肌以缓解肌肉痉挛
+指示患者如感觉到肩部在移动时要尽量放松，而不是紧张（放松是这个复位方法的关键）
+指示患者如感觉到肩部在移动时要尽量放松，而不是紧张（放松是这个复位方法的关键）
+指导患者坐直（不要向前或向一侧倾斜），并向后耸肩，尽量使左右肩胛骨的上端相互接触
+指导患者坐直（不要向前或向一侧倾斜），并向后耸肩，尽量使左右肩胛骨的上端相互接触
+痉挛消退后，肩膀通常会在几分钟内自行复位。
+© Elsevier Inc.All Rights Reserved.
+这部影片是为个人使用。禁止用户复制，重制，许可，订阅，销售，出租或分发该视频。
+© Elsevier Inc.All Rights Reserved.
+这部影片是为个人使用。禁止用户复制，重制，许可，订阅，销售，出租或分发该视频。
+© Elsevier Inc.All Rights Reserved.
+这部影片是为个人使用。禁止用户复制，重制，许可，订阅，销售，出租或分发该视频。
+© Elsevier Inc.All Rights Reserved.
+这部影片是为个人使用。禁止用户复制，重制，许可，订阅，销售，出租或分发该视频。
+© Elsevier Inc.All Rights Reserved.
+这部影片是为个人使用。禁止用户复制，重制，许可，订阅，销售，出租或分发该视频。
+© Elsevier Inc.All Rights Reserved.
+这部影片是为个人使用。禁止用户复制，重制，许可，订阅，销售，出租或分发该视频。
+© Elsevier Inc.All Rights Reserved.
+这部影片是为个人使用。禁止用户复制，重制，许可，订阅，销售，出租或分发该视频。
+© Elsevier Inc.All Rights Reserved.
+这部影片是为个人使用。禁止用户复制，重制，许可，订阅，销售，出租或分发该视频。
+© Elsevier Inc.All Rights Reserved.
+这部影片是为个人使用。禁止用户复制，重制，许可，订阅，销售，出租或分发该视频。
+© Elsevier Inc.All Rights Reserved.
+这部影片是为个人使用。禁止用户复制，重制，许可，订阅，销售，出租或分发该视频。
+
+【治疗参考文献】
+1.Braun C, McRobert CJ.Conservative management following closed reduction of traumatic anterior dislocation of the shoulder.Cochrane Database Syst Rev.2019;5(5):CD004962.Published 2019 May 10.doi:10.1002/14651858.CD004962.pub4
+1.Braun C, McRobert CJ.Conservative management following closed reduction of traumatic anterior dislocation of the shoulder.Cochrane Database Syst Rev.2019;5(5):CD004962.Published 2019 May 10.doi:10.1002/14651858.CD004962.pub4
+2.Abdel Khalik H, Lameire DL, Leroux T, et al.Arthroscopic stabilization surgery for first-time anterior shoulder dislocations: a systematic review and meta-analysis.J Shoulder Elbow Surg.2024;33(8):1858-1872.doi:10.1016/j.jse.2024.01.037
+2.Abdel Khalik H, Lameire DL, Leroux T, et al.Arthroscopic stabilization surgery for first-time anterior shoulder dislocations: a systematic review and meta-analysis.J Shoulder Elbow Surg.2024;33(8):1858-1872.doi:10.1016/j.jse.2024.01.037
+3.Minkus M, Königshausen M, Pauly S, et al.Immobilization in External Rotation and Abduction Versus Arthroscopic Stabilization After First-Time Anterior Shoulder Dislocation: A Multicenter Randomized Controlled Trial.Am J Sports Med.2021;49(4):857-865.doi:10.1177/0363546520987823
+3.Minkus M, Königshausen M, Pauly S, et al.Immobilization in External Rotation and Abduction Versus Arthroscopic Stabilization After First-Time Anterior Shoulder Dislocation: A Multicenter Randomized Controlled Trial.Am J Sports Med.2021;49(4):857-865.doi:10.1177/0363546520987823
+4.Stafylakis D, Abrassart S, Hoffmeyer P: Reducing a shoulder dislocation without sweating: The Davos technique and its results: Evaluation of a nontraumatic, safe, and simple technique for reducing anterior shoulder dislocations.J Emerg Med50 (4):656–659, 2016.doi: 10.1016/j.jemermed.2016.01.020
+4.Stafylakis D, Abrassart S, Hoffmeyer P: Reducing a shoulder dislocation without sweating: The Davos technique and its results: Evaluation of a nontraumatic, safe, and simple technique for reducing anterior shoulder dislocations.J Emerg Med50 (4):656–659, 2016.doi: 10.1016/j.jemermed.2016.01.020
+5.Sayegh FE, Kenanidis EI, Papavasiliou KA, et al: Reduction of acute anterior dislocations: A prospective randomized study comparing a new technique with the Hippocratic and Kocher methods.J Bone Joint Surg Am91 (12): 2775–2782, 2009.https://doi.org/10.2106/JBJS.H.01434
+5.Sayegh FE, Kenanidis EI, Papavasiliou KA, et al: Reduction of acute anterior dislocations: A prospective randomized study comparing a new technique with the Hippocratic and Kocher methods.J Bone Joint Surg Am91 (12): 2775–2782, 2009.https://doi.org/10.2106/JBJS.H.01434
+大多数肩关节脱位为前脱位；肩峰显著突出，肘关节略呈外展位离开体侧。
+大多数肩关节脱位为前脱位；肩峰显著突出，肘关节略呈外展位离开体侧。
+根据前后位和腋窝x光片进行诊断，这些x光片显示肱骨头在关节窝外（Y 视图 X 射线有助于诊断后脱位）。
+根据前后位和腋窝x光片进行诊断，这些x光片显示肱骨头在关节窝外（Y 视图 X 射线有助于诊断后脱位）。
+复位技术的选择部分基于患者就诊时的体位；还应考虑其他因素。
+复位技术的选择部分基于患者就诊时的体位；还应考虑其他因素。
+有些手法需要镇静，有些（如Hennepin、肩胛操纵、Cunningham、FARES）通常无需镇静剂就可完成，但它们需要时间使受影响的肌肉充分放松。
+有些手法需要镇静，有些（如Hennepin、肩胛操纵、Cunningham、FARES）通常无需镇静剂就可完成，但它们需要时间使受影响的肌肉充分放松。
+复位后立即给予悬吊和绷带进行关节制动。
+复位后立即给予悬吊和绷带进行关节制动。
+
+【肩关节后脱位】
+后脱位很少发生，但容易漏诊 (见表常见漏诊损伤的检查)。后肩关节脱位多由癫痫发作、电击或未使用肌肉松弛剂的电休克疗法引起。
+
+【经验与提示】
+经验与提示
+如患者肩部疼痛，手臂保持内收，不能外旋，X线未见明显异常时，需考虑肩关节后脱位。
+如患者肩部疼痛，手臂保持内收，不能外旋，X线未见明显异常时，需考虑肩关节后脱位。
+畸形可能不明显。手臂保持内收和内旋。典型症状为当肘弯曲时，无法完成被动外旋。如果无法进行此类旋转，应进行肩部前后位（AP）片检查。如果没有显示明显的骨折或脱位，应考虑肩关节后脱位。在前后位（AP）视图中，肱骨头有时被描述为形似灯泡或圆锥上的冰淇淋球；此时肱骨头处于内旋状态，大小结节未向侧方突出，使得肱骨头呈现圆形外观。
+大约 65% 的后脱位发生骨损伤（1)。
+腋位片或肩胛骨Y位片可明确诊断。没有Y视图不能排除后脱位。
+在左侧图像（前后视图）中，肱骨头内部旋转，产生灯泡或冰淇淋锥征（看不到肱骨大结节和小结节的投影），这表明是后部脱位。在右侧图像（Y视图）中，肱骨头位于关节臼窝的后部，显示后部脱位。
+在左侧图像（前后视图）中，肱骨头内部旋转，产生灯泡或冰淇淋锥征（看不到肱骨大结节和小结节的投影），这表明是后部脱位。在右侧图像（Y视图）中，肱骨头位于关节臼窝的后部，显示后部脱位。
+Image courtesy of Danielle Campagne, MD.
+在Y轴视图中，穿过肩峰（蓝色箭头），喙突（黑色箭头）和肩胛体（红色箭头）的线在肩胛盂窝的中心相交。在此X线片中，肱骨头位于肩胛盂窝的外侧和后方，提示后脱位。
+在Y轴视图中，穿过肩峰（蓝色箭头），喙突（黑色箭头）和肩胛体（红色箭头）的线在肩胛盂窝的中心相交。在此X线片中，肱骨头位于肩胛盂窝的外侧和后方，提示后脱位。
+Image courtesy of Danielle Campagne, MD.
+在左侧图像（前后视图）中，肱骨头内部旋转，产生灯泡或冰淇淋锥征（看不到肱骨大结节和小结节的投影），这表明是后部脱位。在右侧图像（Y视图）中，肱骨头位于关节臼窝的后部，显示后部脱位。
+在左侧图像（前后视图）中，肱骨头内部旋转，产生灯泡或冰淇淋锥征（看不到肱骨大结节和小结节的投影），这表明是后部脱位。在右侧图像（Y视图）中，肱骨头位于关节臼窝的后部，显示后部脱位。
+Image courtesy of Danielle Campagne, MD.
+在Y轴视图中，穿过肩峰（蓝色箭头），喙突（黑色箭头）和肩胛体（红色箭头）的线在肩胛盂窝的中心相交。在此X线片中，肱骨头位于肩胛盂窝的外侧和后方，提示后脱位。
+在Y轴视图中，穿过肩峰（蓝色箭头），喙突（黑色箭头）和肩胛体（红色箭头）的线在肩胛盂窝的中心相交。在此X线片中，肱骨头位于肩胛盂窝的外侧和后方，提示后脱位。
+Image courtesy of Danielle Campagne, MD.
+通常采用纵向牵引进行复位（如使用牵引-反牵引技术）。（详细操作指南，请参阅《如何复位后肩关节脱位》。）
+
+【后肩关节脱位参考】
+1.Rouleau DM, Hebert-Davies J: Incidence of associated injury in posterior shoulder dislocation: systematic review of the literature.J Orthop Trauma26(4):246-51, 2012.doi: 10.1097/BOT.0b013e3182243909
+1.Rouleau DM, Hebert-Davies J: Incidence of associated injury in posterior shoulder dislocation: systematic review of the literature.J Orthop Trauma26(4):246-51, 2012.doi: 10.1097/BOT.0b013e3182243909
+
+【肩关节下脱位】
+肩关节下脱位（直举性肱骨脱位）临床罕见，症状典型；患者将手臂举过头顶（即外展至近180°），前臂通常搭在头上。手臂短缩；在腋窝常可触及肱骨头。关节囊被破坏，肩袖可能被撕裂。腋神经神经失用症可能发生，但通常在复位后恢复。肱动脉在<5%的病例中损伤(1)。
+X线有诊断意义。
+肩部的Y形视图显示肱骨头位于肩胛盂窝下方，且末端指向头侧，提示肩关节下脱位（直举性肱骨脱位）。
+Image courtesy of Danielle Campagne, MD.
+可用牵引-反牵引的方法对外展的手臂进行复位。闭合复位通常是成功的，除非存在纽扣孔畸形（肱骨头卡在下关节囊撕裂处）；在这种情况下，需要切开复位。
+
+【下肩关节脱位参考】
+1.Sparks SR, DeLaRosa J, Bergan JJ, et al.Arterial injury in uncomplicated upper extremity dislocations.Ann Vasc Surg.2000;14(2):110-113.doi:10.1007/s100169910020
+1.Sparks SR, DeLaRosa J, Bergan JJ, et al.Arterial injury in uncomplicated upper extremity dislocations.Ann Vasc Surg.2000;14(2):110-113.doi:10.1007/s100169910020

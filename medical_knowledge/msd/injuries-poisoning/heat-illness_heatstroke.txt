@@ -1,0 +1,118 @@
+标题：热射病
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/heat-illness/heatstroke
+============================================================
+
+当散热的代偿机制出现障碍，核心体温急剧升高时，可发生热射病。炎症因子激活，进而发生多器官功能障碍。中枢神经系统，骨骼肌（横纹肌溶解），肝脏，肾脏，肺（急性呼吸窘迫综合征）和心脏都可能发生器官功能障碍。高钾血症和低血糖可能发生。凝血级联反应激活，有时可引起弥散性血管内凝血。
+虽然这种分类的实用性存在争议（1），但有时会将热射病分为 2 种类型（见表格经典型热射病与劳力型热射病的一些区别）：
+典型热射病在暴露于热环境2-3天后发生。它通常发生在炎热的夏季，尤其是老人、在没有空调的房间里久坐且液体摄入不足的人。在婴儿或儿童被留在炎热汽车内，特别是车窗关闭的情况下，这种情况可能迅速发生。其他易感人群包括孕妇和肥胖者。这些人群均缺乏强效的体温调节机制(1)。
+劳力性热射病发生得更突然，并且影响到健康活跃人群（例如，运动员、新兵、工厂工人），他们通常在炎热的天气中进行剧烈活动或工作（2、3、4）。这是青年运动员死亡的常见原因。在炎热环境剧烈活动可突然产生大量的热负荷，以致生理性散热机制失代偿。横纹肌溶解很常见；急性肾损伤和凝血功能障碍更易发生并且更严重。热衰竭可能进展为热射病，其典型表现为意识状态和神经功能损害。
+
+【典型热射病与劳力型热射病的区别】
+典型热射病与劳力型热射病的区别
+典型热射病
+劳力型热射病
+2-3天
+发病人群
+老年久坐者、幼儿、基础疾病患者
+健康有活力的人群（如运动员、军队新兵、工厂工人）
+危险因素
+炎热夏季无空调设备
+饮水受限
+剧烈活动，尤其尚未适应环境时
+通常炎热干燥，但有时以汗水湿润
+常以汗水湿润
+使用导致代谢亢进状态或损害出汗能力的兴奋剂药物或物质（例如可卡因、苯环己哌啶[PCP]、安非他明）、单胺氧化酶抑制剂或抗胆碱能药物（例如抗组胺药、抗毒蕈碱药）后可能会发生热射病。通常由过量服药引起，但活动及环境条件也可起到叠加作用。
+（参见中暑概述。）
+
+【参考文献】
+1.Sorensen C, Hess J.Treatment and Prevention of Heat-Related Illness.N Engl J Med.2022;387(15):1404-1413.doi:10.1056/NEJMcp2210623
+1.Sorensen C, Hess J.Treatment and Prevention of Heat-Related Illness.N Engl J Med.2022;387(15):1404-1413.doi:10.1056/NEJMcp2210623
+2.Casa DJ, DeMartini JK, Bergeron MF, et al.National Athletic Trainers' Association Position Statement: Exertional Heat Illnesses [published correction appears inJ Athl Train.2017 Apr;52(4):401. doi: 10.4085/1062-6050-52.4.07.].J Athl Train.2015;50(9):986-1000.doi:10.4085/1062-6050-50.9.07
+2.Casa DJ, DeMartini JK, Bergeron MF, et al.National Athletic Trainers' Association Position Statement: Exertional Heat Illnesses [published correction appears inJ Athl Train.2017 Apr;52(4):401. doi: 10.4085/1062-6050-52.4.07.].J Athl Train.2015;50(9):986-1000.doi:10.4085/1062-6050-50.9.07
+3.Yankelson L, Sadeh B, Gershovitz L, et al.Life-threatening events during endurance sports: is heat stroke more prevalent than arrhythmic death?.J Am Coll Cardiol.2014;64(5):463-469.doi:10.1016/j.jacc.2014.05.025
+3.Yankelson L, Sadeh B, Gershovitz L, et al.Life-threatening events during endurance sports: is heat stroke more prevalent than arrhythmic death?.J Am Coll Cardiol.2014;64(5):463-469.doi:10.1016/j.jacc.2014.05.025
+4.Gamage PJ, Fortington LV, Finch CF.Epidemiology of exertional heat illnesses in organised sports: A systematic review.J Sci Med Sport.2020;23(8):701-709.doi:10.1016/j.jsams.2020.02.008
+4.Gamage PJ, Fortington LV, Finch CF.Epidemiology of exertional heat illnesses in organised sports: A systematic review.J Sci Med Sport.2020;23(8):701-709.doi:10.1016/j.jsams.2020.02.008
+
+【热射病的症状和体征】
+中枢神经系统功能障碍的表现从神志不清或行为古怪到谵妄、癫痫发作以及昏迷，是热射病的标志。共济失调可能为早期表现。患者仰卧位时仍常见心动过速和气促。可有流汗或无汗。核心温度>40°C。
+
+【热射病的诊断】
+病史和体格检查，包括核心（通常是直肠）温度测量
+病史和体格检查，包括核心（通常是直肠）温度测量
+器官功能障碍相关的实验室检查
+器官功能障碍相关的实验室检查
+依据劳累和暴露于热环境的病史，诊断一般很明确 (1)。可通过以下几点鉴别热射病与热衰竭：
+中枢神经系统功能障碍
+中枢神经系统功能障碍
+体温>40°C
+体温>40°C
+当热射病诊断不明确，或患者出现精神状态改变但核心体温<40°C时，应考虑其他可能导致中枢神经系统功能障碍和体温过高的疾病。这类疾病包括：
+急性感染（如脓毒症，疟疾，脑膜炎，中毒性休克综合征）
+急性感染（如脓毒症，疟疾，脑膜炎，中毒性休克综合征）
+药物或其他物质
+药物或其他物质
+恶性紧张症
+恶性紧张症
+恶性神经阻滞剂综合征
+恶性神经阻滞剂综合征
+血清素综合征
+血清素综合征
+癫痫持续状态（发作间期）
+癫痫持续状态（发作间期）
+甲状腺危象
+甲状腺危象
+实验室检查包括全血细胞计数、凝血酶原时间、部分凝血活酶时间、血电解质、血尿素氮、肌酐、血钙、肌酸激酶和肝功能检查以评估器官功能。留置导尿管取尿液检查是否有隐血并监测尿量。没必要检查肌红蛋白。如果尿液标本不含红细胞但对血呈阳性反应，且血清肌酸激酶升高，可能发生肌红蛋白尿。尿液药检可能有帮助。理想情况下应持续监测核心体温，通常通过直肠、食管或膀胱探头进行监测。
+
+【诊断参考】
+1.Roberts WO, Armstrong LE, Sawka MN, et al.ACSM Expert Consensus Statement on Exertional Heat Illness: Recognition, Management, and Return to Activity.Curr Sports Med Rep.2023;22(4):134-149.Published 2023 Apr 1.doi:10.1249/JSR.0000000000001058
+1.Roberts WO, Armstrong LE, Sawka MN, et al.ACSM Expert Consensus Statement on Exertional Heat Illness: Recognition, Management, and Return to Activity.Curr Sports Med Rep.2023;22(4):134-149.Published 2023 Apr 1.doi:10.1249/JSR.0000000000001058
+
+【热射病的治疗】
+积极降温
+积极降温
+转运（或撤离）至医院
+转运（或撤离）至医院
+静脉补液/电解质补充
+静脉补液/电解质补充
+积极的支持治疗
+积极的支持治疗
+经典与劳力型热射病治疗相似。迅速识别及有效积极的降温其重要性不言而喻。最初的治疗目标是在30分钟内将核心体温降至低于39°C（1, 2, 3）。
+
+【降温技术】
+主要降温技术是
+冷水浸泡
+冷水浸泡
+蒸发降温
+蒸发降温
+冰水或冷水浸泡能够最大程度地降低发病率和死亡率，因此，如果条件允许，应作为首选治疗方法。在足球训练、耐力赛跑等户外活动中，大型冷却水箱是常用的降温设备 (4)。偏远区域可将患者浸泡在池塘或溪流中降温 (1)。 如果有合适的设备并且患者足够稳定（例如，无需气管插管，无癫痫发作），冷水浸泡可以在急诊室中使用。降温过程中的散热速度可能会因血管收缩和寒战而降低；服用苯二氮卓类药物（如地西泮或劳拉西泮）可减轻寒战（以及冰水浸泡的不适）（4）。
+蒸发降温也同样有效，适用于外周循环良好的患者（需要充足的心输出量）。通过向患者喷洒温水并使用大型工业风扇（通常由清洁部门使用）可以快速实现蒸发冷却。使用温水使皮肤与空气蒸汽压力梯度最大化，减轻血管收缩及寒战。利用这种技术，多数热射病患者可在<60分钟内降温。可将湿冰毛巾、冰袋或化学冷敷包敷于颈部、腋窝、腹股沟，或敷于无毛皮肤表面（如手掌、足底、面颊）等皮下血管密集分布区域，以增强降温效果，但上述方法不足以单独作为唯一的降温手段。
+没有明显证据表明有益的辅助冷却措施包括冷却的静脉输液，用冷盐水灌洗体腔，以及直接在皮肤上应用冰袋(1)。退热药和丹曲林不建议用于热射病(1, 4)。
+一旦温度达到约39°C，应停止冷却措施，以避免过度冷却并导致医源性体温过低。
+
+【其他措施】
+在进行降温的同时，应进行必要的复苏。对于意识模糊的患者，可能需要通过气管插管和机械通气进行神经肌肉阻断来控制寒战和防止误吸。由于热射病使代谢需求增加，应给予补充氧气。应开始使用等渗盐溶液进行静脉补液，以帮助降低核心体温；低温盐溶液可以与其他方法联合使用，但不是热射病的主要治疗方法。 可以仅仅少量缺水（例如1-2升），也可严重脱水。应弹丸样注射液体以评估反映性，并通过监测血压、尿量和中心静脉压来评估所需额外的液体量。
+患者需转移或转运至医院，入住重症监护室，并监测多器官功能障碍、弥散性血管内凝血和横纹肌溶解症。可能需要血液透析治疗。不建议使用退烧药，因为它们无法解决根本问题，反而可能导致肝脏或肾脏损伤，并且会转移对更有效治疗方法的注意力和资源。
+
+【治疗参考文献】
+1.Eifling KP, Gaudio FG, Dumke C, et al.Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update.Wilderness Environ Med.2024;35(1_suppl):112S-127S.doi:10.1177/10806032241227924
+1.Eifling KP, Gaudio FG, Dumke C, et al.Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update.Wilderness Environ Med.2024;35(1_suppl):112S-127S.doi:10.1177/10806032241227924
+2.Roberts WO, Armstrong LE, Sawka MN, et al.ACSM Expert Consensus Statement on Exertional Heat Illness: Recognition, Management, and Return to Activity.Curr Sports Med Rep.2023;22(4):134-149.Published 2023 Apr 1.doi:10.1249/JSR.0000000000001058
+2.Roberts WO, Armstrong LE, Sawka MN, et al.ACSM Expert Consensus Statement on Exertional Heat Illness: Recognition, Management, and Return to Activity.Curr Sports Med Rep.2023;22(4):134-149.Published 2023 Apr 1.doi:10.1249/JSR.0000000000001058
+3.Barletta JF, Palmieri TL, Toomey SA, et al.Society of Critical Care Medicine Guidelines for the Treatment of Heat Stroke.Crit Care Med.2025;53(2):e490-e500.doi:10.1097/CCM.0000000000006551
+3.Barletta JF, Palmieri TL, Toomey SA, et al.Society of Critical Care Medicine Guidelines for the Treatment of Heat Stroke.Crit Care Med.2025;53(2):e490-e500.doi:10.1097/CCM.0000000000006551
+4.Sorensen C, Hess J.Treatment and Prevention of Heat-Related Illness.N Engl J Med.2022;387(15):1404-1413.doi:10.1056/NEJMcp2210623
+4.Sorensen C, Hess J.Treatment and Prevention of Heat-Related Illness.N Engl J Med.2022;387(15):1404-1413.doi:10.1056/NEJMcp2210623
+
+【中暑的预后】
+热休克的死亡率和致残率很高但与年龄，基础疾病，最高体温相关，最重要是与高热持续时间及降温迅速有关。
+中暑与热衰竭的不同之处在于存在中枢神经系统功能障碍和体温>40°C。
+中暑与热衰竭的不同之处在于存在中枢神经系统功能障碍和体温>40°C。
+如果对于发热、意识迟钝的患者，不能明确诊断为热射病，或核心体温 < 40℃，则应考虑各种其他疾病，如感染、中毒、甲状腺危象、卒中、癫痫发作（发作间期）、神经安定剂恶性综合征和5-羟色胺综合征。
+如果对于发热、意识迟钝的患者，不能明确诊断为热射病，或核心体温 < 40℃，则应考虑各种其他疾病，如感染、中毒、甲状腺危象、卒中、癫痫发作（发作间期）、神经安定剂恶性综合征和5-羟色胺综合征。
+迅速识别并进行有效积极的降温是极其重要的。
+迅速识别并进行有效积极的降温是极其重要的。
+优先使用冰水或冷水浸泡冷却法来快速给患者降温。
+优先使用冰水或冷水浸泡冷却法来快速给患者降温。
+患者将需要重症监护和积极的支持性护理。
+患者将需要重症监护和积极的支持性护理。

@@ -1,0 +1,62 @@
+标题：妊娠期感染类疾病
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/approach-to-the-pregnant-woman-and-prenatal-care/infectious-disease-in-pregnancy
+============================================================
+
+常见的产妇感染（例如尿路感染[UTIs]或呼吸道感染）通常不复杂。然而，某些感染会增加产妇或胎儿发病或死亡的风险。因此，常规产前筛查包括对某些感染或细菌定植的检测，出现感染症状的孕妇应及时评估和治疗。
+儿童的先天性异常或其他急性或慢性疾病（例如听力或视力丧失或神经发育问题）可能是由某些感染引起的，包括：
+先天性梅毒
+先天性梅毒
+先天性巨细胞病毒感染
+先天性巨细胞病毒感染
+先天性风疹
+先天性风疹
+先天性弓形虫病
+先天性弓形虫病
+新生儿单纯疱疹病毒感染
+新生儿单纯疱疹病毒感染
+新生儿乙型肝炎
+新生儿乙型肝炎
+在美国，先天性梅毒的发病率大幅上升；从2012年到2021年，每年报告的先天性梅毒病例数增加了755%，从335例增加到2,865例（1）。孕妇应在初次产前检查时进行梅毒筛查。根据其所在社区梅毒的流行情况，她们应在怀孕期间接受2至3次额外筛查。对确诊为梅毒的患者应进行充分治疗，以防止胎儿先天性梅毒。
+HIV感染可经胎盘或在围产期由母亲传播给婴儿。如果孕母不接受治疗，婴儿出生时的感染风险约为25％至35％。资源丰富的国家大多数孕妇在怀孕期间都会接受高效抗逆转录病毒药物（HAART）治疗，这大大降低了母婴传播的风险。根据36周时的HIV病毒载量，孕妇被分为阴道分娩和非分娩剖宫产两种方式（2）。
+李斯特菌病在怀孕期间更常见，是由于摄入食物中大量的单核细胞增生李斯特菌引起的。李斯特菌病通常表现为胃肠炎，发生在妊娠晚期，是血源性羊膜内感染的常见原因。李斯特菌病增加以下疾病风险:
+自然流产
+自然流产
+李斯特菌病可经胎盘或在围产期由母亲传播给婴儿。采用青霉素类抗生素进行治疗。
+生殖道感染可导致产妇或新生儿并发症，包括（3）：
+细菌性阴道病：早产、子宫内膜炎
+细菌性阴道病：早产、子宫内膜炎
+衣原体：自然流产、早产、死产、新生儿结膜炎和新生儿肺炎
+衣原体：自然流产、早产、死产、新生儿结膜炎和新生儿肺炎
+淋病：早产、低出生体重和新生儿结膜炎
+淋病：早产、低出生体重和新生儿结膜炎
+胎膜早破
+胎膜早破
+在常规产检评估期间或症状出现时，应进行这些感染的检查。
+生殖器疱疹可经分娩传播给新生儿。新生儿感染可能引起癫痫或其他严重不良影响。如果有以下情况，风险足够高，首选剖宫产（4）：
+会阴、外生殖器和阴道周围可见疱疹病变
+会阴、外生殖器和阴道周围可见疱疹病变
+分娩前有前驱症状的已知感染史
+分娩前有前驱症状的已知感染史
+如果没有可见的病变或前驱症状，那么甚至在复发性感染的女性中，风险也是低的，并且阴道分娩是可能的。 有生殖器疱疹病史的妇女应在分娩时尽早进行盆腔检查，检查会阴、外阴或阴道是否有活动性病变。无病变的患者可以进行阴道分娩。
+抗病毒药物（阿昔洛韦或伐昔洛韦）在怀孕期间是安全的。妊娠期间患有活动性疱疹感染的患者应使用阿昔洛韦或伐昔洛韦治疗（5）。有疱疹病史的孕妇应在妊娠36周时开始服用抗病毒药物，以防止分娩时病情发作或复发。
+
+【抗菌药物】
+仅有指征且在怀孕期间是安全的药物才应给予孕妇。在孕期使用任何抗菌药物都应基于利大于弊的原则，而这一原则在不同孕期阶段有所不同（具体不良反应请参见表格孕期特定药物的安全性）。
+
+【参考文献】
+1.McDonald R, O'Callaghan K, Torrone E, et al.Vital Signs: Missed Opportunities for Preventing Congenital Syphilis - United States, 2022.MMWR Morb Mortal Wkly Rep.2023;72(46):1269-1274.Published 2023 Nov 17.doi:10.15585/mmwr.mm7246e1
+1.McDonald R, O'Callaghan K, Torrone E, et al.Vital Signs: Missed Opportunities for Preventing Congenital Syphilis - United States, 2022.MMWR Morb Mortal Wkly Rep.2023;72(46):1269-1274.Published 2023 Nov 17.doi:10.15585/mmwr.mm7246e1
+2.Panel on Treatment of HIV During Pregnancy and Prevention of Perinatal Transmission: Recommendations for the Use of Antiretroviral Drugs During Pregnancy and Interventions to Reduce Perinatal HIV Transmission in the United States.Department of Health and Human Services. Updated January 31, 2024.
+2.Panel on Treatment of HIV During Pregnancy and Prevention of Perinatal Transmission: Recommendations for the Use of Antiretroviral Drugs During Pregnancy and Interventions to Reduce Perinatal HIV Transmission in the United States.Department of Health and Human Services. Updated January 31, 2024.
+3.Olaleye AO, Babah OA, Osuagwu CS, Ogunsola FT, Afolabi BB: Sexually transmitted infections in pregnancy - An update on Chlamydia trachomatis and Neisseria gonorrhoeae.Eur J Obstet Gynecol Reprod Biol.2020;255:1-12.doi:10.1016/j.ejogrb.2020.10.002
+3.Olaleye AO, Babah OA, Osuagwu CS, Ogunsola FT, Afolabi BB: Sexually transmitted infections in pregnancy - An update on Chlamydia trachomatis and Neisseria gonorrhoeae.Eur J Obstet Gynecol Reprod Biol.2020;255:1-12.doi:10.1016/j.ejogrb.2020.10.002
+4.American College of Obstetricians and Gynecologists' Committee on Practice Bulletins: Management of Genital Herpes in Pregnancy: ACOG Practice Bulletin, Number 220.Obstet Gynecol.2020;135(5):e193-e202.doi:10.1097/AOG.0000000000003840
+4.American College of Obstetricians and Gynecologists' Committee on Practice Bulletins: Management of Genital Herpes in Pregnancy: ACOG Practice Bulletin, Number 220.Obstet Gynecol.2020;135(5):e193-e202.doi:10.1097/AOG.0000000000003840
+5.Centers for Disease Control and Prevention: Sexually Transmitted Infections Treatment Guidelines, 2021,MMWR Recomm Rep2021;70, 4
+5.Centers for Disease Control and Prevention: Sexually Transmitted Infections Treatment Guidelines, 2021,MMWR Recomm Rep2021;70, 4
+妊娠期间常见的感染（如尿路感染、呼吸道感染）通常不会引起并发症，但有些感染会对孕妇或胎儿产生严重的不良影响。
+妊娠期间常见的感染（如尿路感染、呼吸道感染）通常不会引起并发症，但有些感染会对孕妇或胎儿产生严重的不良影响。
+可导致儿童先天性异常或其他急性或慢性疾病的母体感染包括巨细胞病毒感染、单纯疱疹病毒感染、风疹、弓形虫病、乙型肝炎和梅毒。
+可导致儿童先天性异常或其他急性或慢性疾病的母体感染包括巨细胞病毒感染、单纯疱疹病毒感染、风疹、弓形虫病、乙型肝炎和梅毒。
+只有在有确凿的细菌感染证据的情况下，并且只有在治疗的益处大于风险的情况下，才给孕妇服用抗菌药物，用药也因妊娠期的不同而异。
+只有在有确凿的细菌感染证据的情况下，并且只有在治疗的益处大于风险的情况下，才给孕妇服用抗菌药物，用药也因妊娠期的不同而异。

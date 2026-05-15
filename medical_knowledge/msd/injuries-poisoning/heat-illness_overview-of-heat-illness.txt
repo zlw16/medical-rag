@@ -1,0 +1,203 @@
+标题：中暑概述
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/heat-illness/overview-of-heat-illness
+============================================================
+
+中暑包括许多疾病，主要为肌肉痉挛、热衰竭到中暑（这是一种危及生命的紧急情况）。根据美国疾病控制与预防中心 (CDC) 的数据，2018 年至 2020 年间，共有 3,066 人因高温死亡（1）。随着气候变化导致热浪频率、强度和持续时间增加，预计未来几十年这一数字将大幅上升（2）。
+热衰竭患者仍有散热能力，且中枢神经系统功能正常。热射病患者丧失散热代偿能力 ，并伴有中枢神经系统功能受损。所有出现高热（体温升高）和意识状态改变的患者，均应考虑热射病的可能性。其他可能诊断包括恶性高热、抗精神病药恶性综合征、5-羟色胺综合征及甲状腺危象，均可能危及生命。
+
+【参考文献】
+1.QuickStats: Percentage Distribution of Heat-Related Deaths,* by Age Group - National Vital Statistics System, United States, 2018-2020.MMWR Morb Mortal Wkly Rep.2022;71(24):808.Published 2022 Jun 17.doi:10.15585/mmwr.mm7124a6
+1.QuickStats: Percentage Distribution of Heat-Related Deaths,* by Age Group - National Vital Statistics System, United States, 2018-2020.MMWR Morb Mortal Wkly Rep.2022;71(24):808.Published 2022 Jun 17.doi:10.15585/mmwr.mm7124a6
+2.Khatana SAM, Szeto JJ, Eberly LA, et al.Projections of Extreme Temperature-Related Deaths in the US.JAMA Netw Open.2024;7(9):e2434942.Published 2024 Sep 3.doi:10.1001/jamanetworkopen.2024.34942
+2.Khatana SAM, Szeto JJ, Eberly LA, et al.Projections of Extreme Temperature-Related Deaths in the US.JAMA Netw Open.2024;7(9):e2434942.Published 2024 Sep 3.doi:10.1001/jamanetworkopen.2024.34942
+
+【中暑的病理生理学】
+获热来自：
+肌肉活动
+肌肉活动
+人体皮肤通过以下方式散热：
+辐射：将体热通过红外辐射直接转移至凉爽环境，不需要空气运动或直接接触
+辐射：将体热通过红外辐射直接转移至凉爽环境，不需要空气运动或直接接触
+蒸发：通过水蒸发冷却（如汗水）
+蒸发：通过水蒸发冷却（如汗水）
+对流：热量通过裸露皮肤转移至凉爽的空气（或液体）
+对流：热量通过裸露皮肤转移至凉爽的空气（或液体）
+传导：热量通过直接接触从较暖表面转移至较冷表面
+传导：热量通过直接接触从较暖表面转移至较冷表面
+每一种散热机制在不同的环境温度及湿度下的作用不同。当环境温度低于体温时，50～65％的散热通过辐射进行。正常情况下，通过蒸发（包括呼吸）散热占15%到25%，通过传导和对流散热占另外15%（1）。
+随着环境温度升高，蒸发散热在降温中的占比增加；当环境温度达到>35°C时，几乎所有的热量都通过蒸发方式散失。然而，出汗的效果受到身体表面积和环境湿度的限制。当湿度>75％时，蒸发散热显著降低 (2)。因此，如果环境温度和湿度都很高，中暑的风险会显著增加（3）。
+人体对热量负荷具有代偿能力，但是长期暴露在热环境中会超过这种代偿能力从而引起核心温度的升高。适度的、短暂的核心温度升高是可以容忍的，但严重升高（通常>41°C）会导致蛋白质变性和炎症细胞因子的释放。结果，可能会发生细胞功能障碍，并且可能会激活炎症级联反应，导致多器官功能障碍，类似于长时间的休克。
+代偿机制包括由其他细胞因子参与减轻炎症应答的急性期反应（如通过刺激蛋白质的生成可减少自由基产生和抑制蛋白水解酶释放）。同时，核心温度的升高可引起热休克蛋白表达的增加。 这些蛋白质通过不明机制（如，可能是通过阻碍蛋白质变性）和调节心血管反应，可暂时增强机体的耐热力。如果体温长时间或极度升高，代偿机制就会被抑制或失去作用，从而引起炎症反应和多器官功能障碍综合征的发生。
+散热受到皮肤血流量和出汗量的调节。正常温度下皮肤血流量200～250mL/min，但在热应激状态下皮肤血流量可增加至7～8L/min（同时促进对流、传导、辐射和蒸发等机制进行散热），心输出量急剧増加。此外，热应激使出汗量从可以忽略不计增加到>2升/小时，可迅速导致严重脱水和电解质流失。然而，长时间暴露在高温环境下会引发生理变化以适应热负荷（即热适应）；例如，随着热适应，汗液中的钠含量可降低多达60%（4，5）。
+
+【病理生理学参考文献】
+1.Cappaert TA, Stone JA, Castellani JW, et al.National Athletic Trainers' Association position statement: environmental cold injuries.J Athl Train.2008;43(6):640-658.doi:10.4085/1062-6050-43.6.640
+1.Cappaert TA, Stone JA, Castellani JW, et al.National Athletic Trainers' Association position statement: environmental cold injuries.J Athl Train.2008;43(6):640-658.doi:10.4085/1062-6050-43.6.640
+2.Beigtan M, Gonçalves M, Weon BM.Heat Transfer by Sweat Droplet Evaporation [published correction appears inEnviron Sci Technol.2024 May 7;58(18):8114. doi: 10.1021/acs.est.4c03785.].Environ Sci Technol.2024;58(15):6532-6539.doi:10.1021/acs.est.4c00850
+2.Beigtan M, Gonçalves M, Weon BM.Heat Transfer by Sweat Droplet Evaporation [published correction appears inEnviron Sci Technol.2024 May 7;58(18):8114. doi: 10.1021/acs.est.4c03785.].Environ Sci Technol.2024;58(15):6532-6539.doi:10.1021/acs.est.4c00850
+3.Casa DJ, DeMartini JK, Bergeron MF, et al.National Athletic Trainers' Association Position Statement: Exertional Heat Illnesses [published correction appears inJ Athl Train.2017 Apr;52(4):401. doi: 10.4085/1062-6050-52.4.07.].J Athl Train.2015;50(9):986-1000.doi:10.4085/1062-6050-50.9.07
+3.Casa DJ, DeMartini JK, Bergeron MF, et al.National Athletic Trainers' Association Position Statement: Exertional Heat Illnesses [published correction appears inJ Athl Train.2017 Apr;52(4):401. doi: 10.4085/1062-6050-52.4.07.].J Athl Train.2015;50(9):986-1000.doi:10.4085/1062-6050-50.9.07
+4.Buono MJ, Kolding M, Leslie E, et al.Heat acclimation causes a linear decrease in sweat sodium ion concentration.J Therm Biol.2018;71:237-240.doi:10.1016/j.jtherbio.2017.12.001
+4.Buono MJ, Kolding M, Leslie E, et al.Heat acclimation causes a linear decrease in sweat sodium ion concentration.J Therm Biol.2018;71:237-240.doi:10.1016/j.jtherbio.2017.12.001
+5.Klous L, De Ruiter C, Alkemade P, et al.Sweat rate and sweat composition during heat acclimation.J Therm Biol.2020;93:102697.doi:10.1016/j.jtherbio.2020.102697
+5.Klous L, De Ruiter C, Alkemade P, et al.Sweat rate and sweat composition during heat acclimation.J Therm Biol.2020;93:102697.doi:10.1016/j.jtherbio.2020.102697
+
+【中暑的病因】
+热失调是由于产热过多和散热过少引起的 (见表导致热失调的常见因素)。
+过热（或产热）通常由剧烈运动、环境高温或两者共同引起。内科疾病或使用刺激性药物可增加产热。
+肥胖、高湿度、高环境温度、衣着过厚以及任何影响出汗或汗液蒸发的问题都会影响散热。
+如遇以下情况，中暑症状会加重：
+机体无法耐受增加的心血管系统需求（例如，因年老、心衰、慢性肾病、呼吸系统疾病、肝衰竭或妊娠所致）。
+机体无法耐受增加的心血管系统需求（例如，因年老、心衰、慢性肾病、呼吸系统疾病、肝衰竭或妊娠所致）。
+电解质紊乱
+电解质紊乱
+某些物质和药物的使用 (见表导致热失调的常见因素)
+某些物质和药物的使用 (见表导致热失调的常见因素)
+老年人和幼儿面临更大的风险。老年人属于高风险群体，其原因包括：频繁使用可能增加风险的药物、脱水和心力衰竭发生率较高，以及与年龄相关的热休克蛋白表达减少。儿童存在高风险，是由于其体表面积与体重的比值更高（导致从热环境吸收更多热量）以及出汗速度更慢。儿童对新环境适应慢，并少有口渴反应。老人和儿童行动不便，因而难以离开炎热环境。
+社会因素也在很大程度上导致了与热有关的疾病。例如，无家可归的人或住在一些公寓大楼里的人没有空调。具有吸热表面（如深色建筑和沥青）和极少植被的城市热岛可以大幅提高温度。这些热岛往往位于低收入社区和有色人种社区(1)。
+
+【热失调的常见原因】
+热失调的常见原因
+病人情况
+药物和物质
+酒精、利尿剂、锂盐、三环类抗抑郁药、泻药
+液体摄入不足
+过量热量增加或产生
+某些疾病
+甲状腺功能亢进
+恶性高热
+抗精神病药物相关的恶性综合征
+血清素综合征
+高环境温度
+热浪频率增加
+兴奋剂药物和物质
+苯异丙胺
+二亚甲基双氧苯丙胺（MDMA，或 摇头丸）
+单胺氧化酶抑制剂
+苯环利定（PCP）
+剧烈活动
+体力劳动
+戒断某些药物和物质
+散热障碍
+衣着过多
+工人和运动员的保护装置（如橄榄球护具）
+高环境温度
+肥胖和/或心血管健康情况差
+年龄极端（如年幼或年老）
+影响体温调节机制的药物
+抗精神病药，选择性血清素摄取抑制剂，钙通道阻滞剂
+出汗障碍*
+抗胆碱能药物
+抗组胺药物
+抗帕金森药
+东莨菪碱
+囊性纤维化
+烧伤疤痕，广泛
+湿疹，广泛
+银屑病，广泛
+系统性硬化症
+*出汗障碍是散热障碍的原因之一。
+Sorensen C, Hess J.Treatment and Prevention of Heat-Related Illness.N Engl J Med.2022;387(15):1404-1413.doi:10.1056/NEJMcp2210623
+*出汗障碍是散热障碍的原因之一。
+Sorensen C, Hess J.Treatment and Prevention of Heat-Related Illness.N Engl J Med.2022;387(15):1404-1413.doi:10.1056/NEJMcp2210623
+
+【病因参考文献】
+1.Hsu A, Sheriff G, Chakraborty T, et al.Disproportionate exposure to urban heat island intensity across major US cities [published correction appears inNat Commun.2021 Jun 28;12(1):4104. doi: 10.1038/s41467-021-23972-6.].Nat Commun.2021;12(1):2721.Published 2021 May 25.doi:10.1038/s41467-021-22799-5
+1.Hsu A, Sheriff G, Chakraborty T, et al.Disproportionate exposure to urban heat island intensity across major US cities [published correction appears inNat Commun.2021 Jun 28;12(1):4104. doi: 10.1038/s41467-021-23972-6.].Nat Commun.2021;12(1):2721.Published 2021 May 25.doi:10.1038/s41467-021-22799-5
+
+【中暑的预防】
+医生应推荐以下措施帮助预防中暑（1, 2, 3) ：
+开始活动前保持充足的水分。在活动期间，应根据口渴情况摄入液体，将体重减少限制在基线体重的2%以下(1)。
+开始活动前保持充足的水分。在活动期间，应根据口渴情况摄入液体，将体重减少限制在基线体重的2%以下(1)。
+如果可能的话，穿轻便、宽松的衣服。
+如果可能的话，穿轻便、宽松的衣服。
+改变环境（例如，在阴凉的地方休息休息），尽可能脱掉衣服以优化热交换。避免穿着隔热、紧身或密闭服装，或使用风扇可促进蒸发散热。
+改变环境（例如，在阴凉的地方休息休息），尽可能脱掉衣服以优化热交换。避免穿着隔热、紧身或密闭服装，或使用风扇可促进蒸发散热。
+在极端炎热的天气里，老年人和儿童尤其不应长时间停留在无空调且不通风的居所中。也不应将其留在烈日下的汽车中。
+在极端炎热的天气里，老年人和儿童尤其不应长时间停留在无空调且不通风的居所中。也不应将其留在烈日下的汽车中。
+运动或剧烈工作后的体重减轻可用于监测脱水情况；体重减轻2-3%的人应提醒其额外饮水（另见水化和电解质替代中关于钠摄入的讨论），并在次日暴露前体重恢复到起始体重的1公斤以内。如果体重减轻>4%，则应限制活动1天。
+运动或剧烈工作后的体重减轻可用于监测脱水情况；体重减轻2-3%的人应提醒其额外饮水（另见水化和电解质替代中关于钠摄入的讨论），并在次日暴露前体重恢复到起始体重的1公斤以内。如果体重减轻>4%，则应限制活动1天。
+
+【补液与电解质补充】
+保证充足的液体和钠有助于预防中暑。口渴并不能很好反映脱水和剧烈运动时需要补水等情况，因为血浆渗透压升高1%-2%时才会产生口渴症状。因此，不管口渴与否，应该每隔几小时就饮水。因为在肠道水分吸收率最高约20毫升/分钟（1200毫升/小时，低于2000毫升/小时的最大出汗率），长时间体力活动会导致大量出汗，因此需要休息以使出汗速率降低，并有时间补液。
+最佳的补液取决于失水量及电解质情况，这是由体力活动的强度及持续时间以及环境因素和个体是否适应环境等决定。为了吸收最大液体量，含碳水化合物的饮料的吸收速度比普通水快30％。含6%或7％的碳水化合物的饮料吸收最为迅速。应避免更高浓度的碳水化合物，因为能引起胃痉挛并使得吸收延迟。然而多数情况下，只要不过度补液，纯水就已足够。耐力运动员在运动前、运动期间及运动后频繁饮水，而没有补充丢失的钠，因此会发生严重低钠血症。 特殊的补液饮品（如，运动饮料）不是必需的，但这些饮料口感好可增加饮用量，在需水量很大时，这些饮料中的适量的盐分是有益的。
+体力劳动者、士兵、耐力运动员和出汗较多的人每天可丢失≥20g的钠，更易发生热痉挛；这些人群应当通过饮水及饮食补充丢失的钠。对于持续超过2小时的耐力项目运动员，推荐饮用含钠钾的运动饮料。对于更极端的情况（如未适应环境者长时间剧烈运动），可使用口服盐溶液。理想的浓度为0.1％的氯化钠，这可以通过将1g的盐片剂或1/4茶匙的盐溶于1升（或夸脱）的水来制备。人们应在中度至重度脱水的情况下饮用此溶液。不应服用未溶解的盐片剂。它们刺激胃部，可引起呕吐，且无法治疗潜在的脱水 (4, 5, 6)。
+
+【经验与提示】
+经验与提示
+长时间劳作的工人、士兵和耐力运动员可使用口服补盐液；对于超过2小时赛事的运动员，推荐含钠钾的运动饮料。运动饮料可能有益，但对于短时间运动通常不必要。
+长时间劳作的工人、士兵和耐力运动员可使用口服补盐液；对于超过2小时赛事的运动员，推荐含钠钾的运动饮料。运动饮料可能有益，但对于短时间运动通常不必要。
+
+【环境适应性】
+高温下连续地逐渐增加工作强度和工作量最终会适应环境，这使人们可在以往他们不能耐受甚至威胁生命的温度下安全地工作。为了达到最大益处，适应通常需要在炎热环境中度过 7 至 14 天，并逐渐增加体力活动的强度和持续时间（最多 1 至 2 小时）（1，4）。环境适应可使人活动时出汗（和散热）明显增加，同时大量减少汗液中的电解质，还有中暑的风险。没有适应环境的人在长时间运动时更容易出现热痉挛或其他热病，可能需要增加钠的摄入量。
+
+【经验与提示】
+经验与提示
+未适应环境的人在长时间运动时更容易出现热痉挛和热病，可能需要增加钠的摄入量。
+未适应环境的人在长时间运动时更容易出现热痉挛和热病，可能需要增加钠的摄入量。
+
+【适度的活动强度】
+如果允许，人们应该根据环境和任何影响散热的情况（例如，穿着消防或化学防护服）调整他们的活动强度。当以下情况发生应缩短工作时间，增加休息时间
+温度升高
+温度升高
+湿度增大
+湿度增大
+工作负荷变得更重
+工作负荷变得更重
+太阳变得更强烈
+太阳变得更强烈
+无空气流动
+无空气流动
+穿戴防护服或防护装备时
+穿戴防护服或防护装备时
+湿球温度（WBGT）是反映环境热应力的最佳指标，广泛用于军事、工业和运动领域。除了温度，WBGT反映湿度，风和太阳辐射的影响。WBGT可用于指导推荐活动（见表湿球温度和建议的活动水平）。衣物或运动强度等因素需个体化考量(2)。
+尽管WBGT复杂且可能无法测得，它可以通过温度和在阳光充足且微风条件下的相对湿度（见图基于温度和相对湿度的湿球温度)进行估计。
+
+【基于温度和相对湿度的湿球黑球温度】
+基于温度和相对湿度的湿球黑球温度
+这些数值是通过一个近似公式计算得出的，该公式取决于温度和湿度，适用于阳光充足且有微风的条件。热应激在其它情况下可能被高估。
+
+【湿球温度和推荐活动水平】
+湿球温度和推荐活动水平
+温度 °C (°F)
+≤15.6 (≤60)
+无需预防措施
+> 15.6–21.1 (> 60–70)
+在保持充足的水化前提下，无需预防措施
+> 21.1–23.9 (> 70–75)
+不适应环境：避免远足，体育运动和阳光暴晒
+适应环境：谨慎进行中重度活动
+> 23.9–26.7 (> 75–80)
+不适应环境：停止或限制活动
+环境适应：谨慎活动；每隔20～30分钟休息并饮水
+> 26.7–31.1 (> 80–88)
+不适应环境：避免活动
+适应环境：允许有限的短暂活动
+≥31.1 (>88)
+避免活动及阳光暴晒
+
+【参考文献】
+1.Eifling KP, Gaudio FG, Dumke C, et al.Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update.Wilderness Environ Med.2024;35(1_suppl):112S-127S.doi:10.1177/10806032241227924
+1.Eifling KP, Gaudio FG, Dumke C, et al.Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update.Wilderness Environ Med.2024;35(1_suppl):112S-127S.doi:10.1177/10806032241227924
+2.Leon LR, Kenefick RW.Pathophysiology of Heat-Related Illnesses.(2016).In Auerbach PS (Ed.), Auerbach's Wilderness Medicine, 7th ed.Elsevier.
+2.Leon LR, Kenefick RW.Pathophysiology of Heat-Related Illnesses.(2016).In Auerbach PS (Ed.), Auerbach's Wilderness Medicine, 7th ed.Elsevier.
+3.Bauman J, Spano S, Storkan M.Heat-Related Illnesses.Emerg Med Clin North Am.2024;42(3):485-492.doi:10.1016/j.emc.2024.02.010
+3.Bauman J, Spano S, Storkan M.Heat-Related Illnesses.Emerg Med Clin North Am.2024;42(3):485-492.doi:10.1016/j.emc.2024.02.010
+4.Casa DJ, DeMartini JK, Bergeron MF, et al.National Athletic Trainers' Association Position Statement: Exertional Heat Illnesses [published correction appears inJ Athl Train.2017 Apr;52(4):401. doi: 10.4085/1062-6050-52.4.07.].J Athl Train.2015;50(9):986-1000.doi:10.4085/1062-6050-50.9.07
+4.Casa DJ, DeMartini JK, Bergeron MF, et al.National Athletic Trainers' Association Position Statement: Exertional Heat Illnesses [published correction appears inJ Athl Train.2017 Apr;52(4):401. doi: 10.4085/1062-6050-52.4.07.].J Athl Train.2015;50(9):986-1000.doi:10.4085/1062-6050-50.9.07
+5.Backer H, Shlim D.CDC Yellow Book: Extremes of Temperature.Accessed March 12, 2025.
+5.Backer H, Shlim D.CDC Yellow Book: Extremes of Temperature.Accessed March 12, 2025.
+6.American Dietetic Association; Dietitians of Canada; American College of Sports Medicine, Rodriguez NR, Di Marco NM, Langley S.American College of Sports Medicine position stand.Nutrition and athletic performance. Med Sci Sports Exerc.2009;41(3):709-731.doi:10.1249/MSS.0b013e31890eb86
+6.American Dietetic Association; Dietitians of Canada; American College of Sports Medicine, Rodriguez NR, Di Marco NM, Langley S.American College of Sports Medicine position stand.Nutrition and athletic performance. Med Sci Sports Exerc.2009;41(3):709-731.doi:10.1249/MSS.0b013e31890eb86
+
+【当环境温度>35℃，降温主要依靠蒸发，而当湿度>75％时，蒸发显著减少；因此，当温度和湿度都很高时，中暑的风险很高。】
+当环境温度为>35° C 时，降温主要依靠蒸发，但当湿度为>75% 时，蒸发显著减少；因此，当温度和湿度都很高时，中暑的风险很大。
+当环境温度为>35° C 时，降温主要依靠蒸发，但当湿度为>75% 时，蒸发显著减少；因此，当温度和湿度都很高时，中暑的风险很大。
+中暑的众多危险因素包括某些药物、物质和疾病（包括干扰电解质平衡或降低心血管储备的因素），以及处于年龄极端段的人群。
+中暑的众多危险因素包括某些药物、物质和疾病（包括干扰电解质平衡或降低心血管储备的因素），以及处于年龄极端段的人群。
+预防包括常识性措施以及维持和补充水分和钠。
+预防包括常识性措施以及维持和补充水分和钠。
+环境适应，需要7-14天的适应活动，可显著减少中暑的发生。
+环境适应，需要7-14天的适应活动，可显著减少中暑的发生。
+随着温度、湿度、阳光、衣服或装备的增加，或者空气流动的减少，应限制活动强度。
+随着温度、湿度、阳光、衣服或装备的增加，或者空气流动的减少，应限制活动强度。

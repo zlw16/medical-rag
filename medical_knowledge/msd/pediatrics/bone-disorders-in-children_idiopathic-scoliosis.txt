@@ -1,0 +1,49 @@
+标题：特发性脊柱侧凸
+来源：https://www.msdmanuals.cn/professional/pediatrics/bone-disorders-in-children/idiopathic-scoliosis
+============================================================
+
+特发性脊柱侧凸是指脊柱的侧向弯曲，是最常见的脊柱侧凸类型。它存在于10至16岁儿童中的1%到3%（1）。男孩和女孩受到的影响相同；然而，女孩病情进展（即Cobb角≥30°）并需要治疗的可能性是男孩的10倍（2）。
+遗传因素可能会增加患病的风险。CHD7和MATN1基因的突变与某些病例的病因有关。
+脊柱侧凸的严重程度可以通过Cobb角进行分类，Cobb角是一种用于量化脊柱侧弯程度的标准放射测量。
+
+【参考文献】
+1.Dunn J, Henrikson NB, Morrison CC, Nguyen M, Blasi PR, Lin JS. Screening for Adolescent Idiopathic Scoliosis: A Systematic Evidence Review for the U.S. Preventive Services Task Force.Rockville (MD): Agency for Healthcare Research and Quality (US); January 2018.
+1.Dunn J, Henrikson NB, Morrison CC, Nguyen M, Blasi PR, Lin JS. Screening for Adolescent Idiopathic Scoliosis: A Systematic Evidence Review for the U.S. Preventive Services Task Force.Rockville (MD): Agency for Healthcare Research and Quality (US); January 2018.
+2.US Preventive Services Task Force, Grossman DC, Curry SJ, et al.Screening for Adolescent Idiopathic Scoliosis: US Preventive Services Task Force Recommendation Statement.JAMA.2018;319(2):165-172.doi:10.1001/jama.2017.19342
+2.US Preventive Services Task Force, Grossman DC, Curry SJ, et al.Screening for Adolescent Idiopathic Scoliosis: US Preventive Services Task Force Recommendation Statement.JAMA.2018;319(2):165-172.doi:10.1001/jama.2017.19342
+
+【特发性脊柱侧凸的症状和体征】
+轻度脊柱侧凸可在常规体检中发现，通常无症状。脊柱侧弯初期征象可表现为一侧肩部高于对侧，或衣物在儿童躯干上呈现不对称悬垂，但该病症亦常在常规体格检查中被发现。其他检查发现包括明显的腿长不等和胸壁不对称。
+病人常常首先主诉长时间坐或站立后腰部疲劳。 随后出现肌肉牵张过度部位（例如，腰骶部）的背部肌肉痛。
+这张照片显示一名严重脊柱侧弯（脊柱弯曲）的少女。
+
+【特发性脊柱侧凸的诊断】
+脊柱X光片
+脊柱X光片
+当病人向前弯腰时脊柱弯曲很明显。多数脊柱弯曲在胸部凸向右侧而在腰部凸向左侧，所以右肩膀高于左侧。
+MEDICAL PHOTO NHS LOTHIAN/SCIENCE PHOTO LIBRARY
+X线检查需包括站立时脊柱的后前位和侧位片。如果怀疑病情进展，可能需要频繁评估。
+
+【Cobb角】
+Cobb角
+Cobb法在脊柱前后位X线片上绘制两条线，一条从最倾斜的上椎体上缘延伸，另一条从最倾斜的下椎体下缘延伸。这两条线形成的角为Cobb 角。
+基于X射线的发现（Cobb法）以度数来量化脊柱弯曲的程度。在此方法中，在脊柱前后位X线片上画两条线，一条从倾斜度最大的上椎体上缘延伸，另一条从倾斜度最大的下椎体下缘延伸。这些线形成的角为Cobb 角。
+脊柱侧弯按严重程度分类：
+轻度脊柱侧弯：Cobb 角 < 20°
+轻度脊柱侧弯：Cobb 角 < 20°
+中度脊柱侧弯：Cobb 角 20° 到 40°
+中度脊柱侧弯：Cobb 角 20° 到 40°
+重度脊柱侧弯：Cobb 角 > 40°
+重度脊柱侧弯：Cobb 角 > 40°
+
+【特发性脊柱侧凸的治疗】
+物理治疗和支撑
+物理治疗和支撑
+有时需要外科手术
+有时需要外科手术
+当怀疑病情进展或脊柱弯曲程度较明显时，应及时转诊至骨科专科医师。病情进展的可能性在青春期前后最高。中度脊柱弯曲（20°～40°）需要保守治疗（如物理治疗和支具）以防止进一步变形。
+严重弯曲（超过40°）可以通过手术（例如，矫形棒植入的脊柱融合）来改善。
+脊柱侧凸及其治疗可能往往会影响青少年的自我形象和自尊。可能需要心理咨询或心理治疗来解决这些问题。
+
+【特发性脊柱侧凸的预后】
+预后取决于曲线大小（Cobb角）、曲线位置和症状出现时的年龄。脊柱弯曲角度越大，骨骼成熟后脊柱侧弯继续进展的可能性也越高。>10° 的弯曲被认为是具有临床意义的。胸椎弯曲比腰椎弯曲更容易进展。诊断时年龄较小和骨骼成熟度较低与进展风险较高有关。严重脊柱侧凸患者可能需要进行重大干预（如手术矫正）。

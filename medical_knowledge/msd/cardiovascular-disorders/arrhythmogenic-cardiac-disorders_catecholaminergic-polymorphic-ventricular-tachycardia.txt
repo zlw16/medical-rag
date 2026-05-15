@@ -1,0 +1,46 @@
+标题：儿茶酚胺能多形性室性心动过速
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/catecholaminergic-polymorphic-ventricular-tachycardia
+============================================================
+
+（参见心律失常概述和离子通道病概述。)
+儿茶酚胺敏感性多形性室性心动过速（CPVT）是由影响心脏细胞内钙调节（特别是肌浆网兰尼碱受体的舒张期钙释放）相关蛋白质的突变引起的。这些异常增加了肌浆网对肾上腺素能刺激的钙释放。由此产生的肌细胞钙超载导致去极化后延迟，并有发生心房和/或心室快速性心律失常的倾向。可能发生心源性猝死。
+快速性心律失常通常是由身体或情绪压力的肾上腺素能刺激引起的。最典型的室性快速性心律失常是双向室性心动过速，在心电图上表现为两个极性相反的QRS复合波，呈交替模式。然而，任何多态性室性心动过速（VT）或心室颤动（VF）都可能发生。
+CPVT 的发病率尚不清楚，但估计约为 20,000 分之一（1) 并且在男性和女性中同样常见。它通常作为编码心脏 ryanodine 受体的基因常染色体显性突变而遗传，但也可能作为心脏钙化素的常染色体隐性突变而遗传（CASQ2)。
+
+【参考文献】
+1.Wilde AAM, Semsarian C, Márquez MF, et al: European Heart Rhythm Association (EHRA)/Heart Rhythm Society (HRS)/Asia Pacific Heart Rhythm Society (APHRS)/Latin American Heart Rhythm Society (LAHRS) Expert Consensus Statement on the state of genetic testing for cardiac diseases.J Arrhythm38(4):491–553, 2022.doi: 10.1002/joa3.12717
+1.Wilde AAM, Semsarian C, Márquez MF, et al: European Heart Rhythm Association (EHRA)/Heart Rhythm Society (HRS)/Asia Pacific Heart Rhythm Society (APHRS)/Latin American Heart Rhythm Society (LAHRS) Expert Consensus Statement on the state of genetic testing for cardiac diseases.J Arrhythm38(4):491–553, 2022.doi: 10.1002/joa3.12717
+
+【CPVT 的症状和体征】
+有些患者没有症状，只能通过家庭筛查才能确定。当出现症状时，通常在年轻时（即童年或青春期）发生。心律失常可能会引起心悸、晕厥或心脏骤停。事件通常是由情绪或身体压力引发的。
+
+【CPVT的诊断】
+运动试验
+运动试验
+基因检测
+基因检测
+一级亲属筛查
+一级亲属筛查
+对于不明原因的心脏骤停或晕厥患者，或在没有结构性心脏病的情况下有此类家族史的患者，应考虑诊断。
+静息心电图正常。通过运动测试诱导的多态性室性心动过速（尤其是双向室性心动过速）也能再现患者的症状来确认诊断。然后应该进行基因检测；它的成功率约为60% (1)。
+患者的一级亲属有很大的患病风险。他们应该每1-3年进行一次临床评估（即检测提示心律失常的症状）和运动测试。如果最初的患者发现了致病突变，那么没有该指示突变的家庭成员就不需要进行后续检查。
+
+【诊断参考文献】
+1.Wilde AAM, Semsarian C, Márquez MF, et al: European Heart Rhythm Association (EHRA)/Heart Rhythm Society (HRS)/Asia Pacific Heart Rhythm Society (APHRS)/Latin American Heart Rhythm Society (LAHRS) Expert Consensus Statement on the state of genetic testing for cardiac diseases.J Arrhythm38(4):491–553, 2022.doi: 10.1002/joa3.12717
+1.Wilde AAM, Semsarian C, Márquez MF, et al: European Heart Rhythm Association (EHRA)/Heart Rhythm Society (HRS)/Asia Pacific Heart Rhythm Society (APHRS)/Latin American Heart Rhythm Society (LAHRS) Expert Consensus Statement on the state of genetic testing for cardiac diseases.J Arrhythm38(4):491–553, 2022.doi: 10.1002/joa3.12717
+
+【CPVT的治疗】
+限制运动
+限制运动
+β阻滞剂
+β阻滞剂
+有时需要植入型心律转复除颤器（ICD）
+有时需要植入型心律转复除颤器（ICD）
+左心交感神经切断术
+左心交感神经切断术
+建议所有患者避免剧烈运动（如竞技运动）。特别是那些不愿接受运动限制的患者，应被告知需要采取适当的预防措施（例如，在训练和比赛期间确保有自动体外除颤器可用）。
+对于有症状（如晕厥、心脏骤停）或表现出VF或持续VT的患者，主要治疗方法是高剂量长效β受体阻滞剂，最好是没有内在拟交感神经活性的阻滞剂（如纳多洛尔、缓释普萘洛尔）。如果β受体阻滞剂无效，氟卡尼可能因其钠通道和兰尼碱受体阻断作用而有效。
+植入式心律转复除颤器（ICD）用于CPVT患者，这些患者在心脏骤停后存活下来，或者尽管接受了抗心律失常药物治疗，但仍有室性心动过速。
+顽固性病例采用左心交感神经去神经和/或心律失常基底消融术治疗。
+随访通常包括重复的运动测试，但预测值仅为中等。
+无症状患者（包括通过基因检测确定的亲属）也应减少体力活动并接受β受体阻滞剂治疗。

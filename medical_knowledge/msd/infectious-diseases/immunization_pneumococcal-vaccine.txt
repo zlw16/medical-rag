@@ -1,0 +1,128 @@
+标题：肺炎球菌疫苗
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/immunization/pneumococcal-vaccine
+============================================================
+
+肺炎球菌病（如中耳炎,肺炎,败血症,脑膜炎）是由> 90种Streptococcus pneumoniae（肺炎球菌）中的某些血清型引起的。  疫苗是针对许多引起疾病的血清型的。  某些疾病（如慢性疾病，免疫抑制因素，脑脊液漏，人工耳蜗植入）增加了肺炎球菌感染疾病的风险。
+(参见疫苗接种概述。)
+
+【肺炎球菌疫苗制剂】
+肺炎球菌疫苗有两种类型：结合疫苗和多糖疫苗。
+13价肺炎球菌结合疫苗(PCV13)包含13种纯化的S. pneumoniae（肺炎链球菌）荚膜多糖(1,3,4,5,6A,6B,7F,9V,14,18C,19A,19F和23F)，可在美国使用。然而，由于出现了覆盖范围更广的血清型疫苗，该疫苗的使用频率有所降低，但在某些情况下（例如，无免疫功能障碍的≥65 岁成年人）除外（1）。该疫苗在美国已不易获得，也不再推荐儿童常规使用。
+15价肺炎球菌联合疫苗（PCV15）含有15种纯化的S. pneumoniae（肺炎链球菌荚膜多糖）（1、3、4、5、6A、6B、7F、9V、14、18C、19A、19F、22F、23F和33F）。
+20价肺炎球菌结合疫苗(PCV20) 含有 20 种纯化的肺炎链球菌荚膜多糖（1、3、4、5、6A、6B、7F、8、9V、10A、11A、12F、14、15B、18C、19A、19F、22F、23F和33F）。
+21价肺炎球菌结合疫苗(PCV21) 包含21种纯化的S. pneumoniae（肺炎链球菌）荚膜多糖（3、6A、7F、8、9N、10A、11A、12F、15A、15B（偶联前脱O-乙酰化）、16F、17F、19A、20A、22F、23A、23B、24F、31、33F和35B)。
+23价肺炎球菌多糖疫苗（PPSV23）含有83种肺炎链球菌亚型中23种毒性最强的抗原（1、2、3、4、5、6B、7F、8、9N、9V、10A、11A、12F、14、15B、17F、18C、19F、19A、20、22F、23F、33F）。
+
+【制剂参考文献】
+1.Centers for Disease Control and Prevention.Evidence to Recommendations for PCV13 use among adults ≥65 years old.Accessed April 18, 2025.
+1.Centers for Disease Control and Prevention.Evidence to Recommendations for PCV13 use among adults ≥65 years old.Accessed April 18, 2025.
+
+【肺炎球菌疫苗的适应症】
+18 岁以下儿童应接种PCV15或PCV20（1，2）。
+以前没有接种过肺炎球菌结合疫苗或接种史不详的50 岁或以上的成年人应接种
+1 剂 PCV20或者
+1 剂 PCV20或者
+1 剂 PCV21或者
+1 剂 PCV21或者
+1剂PCV15，然后是一剂PPSV23
+1剂PCV15，然后是一剂PPSV23
+19 至 49 岁的成年人有某些疾病或其他风险因素，如果以前没有接种过肺炎球菌结合疫苗或接种史不详，应接种以下任何一种疫苗:
+1 剂 PCV20或者
+1 剂 PCV20或者
+1 剂 PCV21或者
+1 剂 PCV21或者
+1剂PCV15，然后是一剂PPSV23
+1剂PCV15，然后是一剂PPSV23
+适用的医疗条件和风险因素包括以下内容：
+酒精使用障碍
+酒精使用障碍
+慢性心脏病、肺病或肝病
+慢性心脏病、肺病或肝病
+慢性肾衰竭或肾病综合征
+慢性肾衰竭或肾病综合征
+人工耳蜗
+人工耳蜗
+先天性无脾或后天性无脾
+先天性无脾或后天性无脾
+脑脊液漏
+脑脊液漏
+全身性癌症
+全身性癌症
+HIV感染
+HIV感染
+霍奇金病
+霍奇金病
+免疫缺陷或免疫抑制
+免疫缺陷或免疫抑制
+白血病、淋巴瘤或多发性骨髓瘤
+白血病、淋巴瘤或多发性骨髓瘤
+实体器官移植
+实体器官移植
+镰状细胞病或其他的血红蛋白病
+镰状细胞病或其他的血红蛋白病
+对于已接种过PCV13疫苗的19岁及以上成年人，ACIP建议使用PCV20或PCV15代替23价肺炎球菌多糖疫苗(PPSV23)，以完成疫苗接种系列。
+对于50岁及以下年龄组的人群，PPSV23的剂量应该在PCV15的剂量之后至少1年对于患有免疫功能低下、人工耳蜗或脑脊液 (CSF) 渗漏的成年人，可以考虑在 PCV15 和 PPSV23 之间至少间隔 8 周 (3)。
+≥65岁成人若无免疫功能低下、脑脊液渗漏或人工耳蜗（参见前文其他条件）且未接种过PCV13，可经医患共同决策接种PCV13。所有≥65岁成人应继续接种1剂PPSV23。若决定接种PCV13，应在PPSV23之前至少1年接种。
+对于既往已接种一剂肺炎球菌疫苗的人群，已有关于进一步接种肺炎球菌疫苗的建议（2，4）。
+
+【适应症参考文献】
+1.Centers for Disease Control and Prevention (CDC).Pneumococcal Vaccine Recommendations.October 2024.Accessed September 23, 2025.
+1.Centers for Disease Control and Prevention (CDC).Pneumococcal Vaccine Recommendations.October 2024.Accessed September 23, 2025.
+2.CDC.Child and Adolescent Immunization Schedule by Age.Accessed September 23, 2025.
+2.CDC.Child and Adolescent Immunization Schedule by Age.Accessed September 23, 2025.
+3.CDC.Summary of Risk-based Pneumococcal Vaccination Recommendations.May 2025.Accessed September 23, 2025.
+3.CDC.Summary of Risk-based Pneumococcal Vaccination Recommendations.May 2025.Accessed September 23, 2025.
+4.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+4.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+
+【肺炎球菌疫苗的禁忌症和注意事项】
+PCV13疫苗主要的禁忌证是：
+对PCV13的任何成分或白喉类毒素的严重过敏反应（如过敏反应）
+对PCV13的任何成分或白喉类毒素的严重过敏反应（如过敏反应）
+PCV15疫苗主要的禁忌证是：
+对PCV15的任何成分或白喉类毒素的严重过敏反应（如过敏性休克）
+对PCV15的任何成分或白喉类毒素的严重过敏反应（如过敏性休克）
+PCV20疫苗主要的禁忌证是：
+对PCV20的任何成分或白喉类毒素的严重过敏反应（例如，过敏性休克)
+对PCV20的任何成分或白喉类毒素的严重过敏反应（例如，过敏性休克)
+PCV21疫苗主要的禁忌证是：
+对PCV21的任何成分或白喉类毒素的严重过敏反应（例如，过敏性休克)
+对PCV21的任何成分或白喉类毒素的严重过敏反应（例如，过敏性休克)
+PPSV23疫苗主要的禁忌证是：
+之前接种该疫苗后，出现严重的过敏反应；或对该疫苗任何成分有严重过敏反应
+之前接种该疫苗后，出现严重的过敏反应；或对该疫苗任何成分有严重过敏反应
+任何一种疫苗的注意事项包括：
+中度或重度急性疾病伴或不伴发热（推迟到疾病缓解之后接种）
+中度或重度急性疾病伴或不伴发热（推迟到疾病缓解之后接种）
+对于功能性或解剖性无脾的儿童，脑膜炎球菌结合疫苗（MenACWY）不应在同一次就诊期间接种，而应间隔 ≥ 4 周。
+
+【肺炎球菌疫苗的接种】
+每种疫苗的常用剂量是：
+0.5mL肌内注射，用于PCV13、PCV15、PCV20和PCV21
+0.5mL肌内注射，用于PCV13、PCV15、PCV20和PCV21
+PPSV23 0.5毫升，肌内注射或皮下注射
+PPSV23 0.5毫升，肌内注射或皮下注射
+对于无症状或有症状的HIV感染者，应在确诊后尽快接种此类疫苗。
+年龄在19〜49岁、具有肺炎球菌患病高风险者（例如，功能性或解剖性无脾、慢性肾脏疾病或其他免疫受损情况，包括肿瘤和使用糖皮质激素）应该在接种第一剂PPSV23之后的5年再接种1剂PPSV23。
+50岁及以上的人群均应接种PPSV23疫苗。如果在50岁前因任何原因接种了1-2剂的PPSV23，那么在其末次接种≥5年后、患者满50岁或以上时再接种一次PPSV23。第二剂应在第一剂接种5年后接种（例如，如果第一剂在64岁时接种，则第二剂在69岁时接种）。那些在50岁或之后接种PPSV23的人群，只应接种1剂 (1)。
+当正考虑予以癌症化疗或其他免疫抑制剂治疗，疫苗接种和免疫抑制剂治疗开始之间的间隔应≥2周。  在接受化疗或放射治疗时不应接种此类疫苗。
+儿童用药剂量方案请参见CDC: Pneumococcal Vaccine Recommendations: Infants and children（美国疾病控制与预防中心（CDC）：婴幼儿肺炎球菌疫苗接种建议）和CDC: Child and Adolescent Immunization Schedule by Age（美国疾病控制与预防中心（CDC）：儿童和青少年免疫接种时间表（按年龄分类））。
+
+【接种参考】
+1.CDC.Pneumococcal Vaccine Recommendations: Adults 50 years or older.October 2024.Accessed September 23, 2025.
+1.CDC.Pneumococcal Vaccine Recommendations: Adults 50 years or older.October 2024.Accessed September 23, 2025.
+
+【肺炎球菌疫苗的不良反应】
+不良反应通常较为温和，包括发烧、易怒、嗜睡、厌食、呕吐以及局部疼痛和红斑。
+有关这些疫苗不良反应的更多信息，请参阅处方信息。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Pneumococcal Vaccine
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Pneumococcal Vaccine
+Centers for Disease Control and Prevention (CDC):Pneumococcal
+Centers for Disease Control and Prevention (CDC):Pneumococcal
+CDC:Summary of Risk-based Pneumococcal Vaccination Recommendations
+CDC:Summary of Risk-based Pneumococcal Vaccination Recommendations
+European Centre for Disease Prevention and Control (ECDC):Pneumococcal Disease: Recommended vaccinations
+European Centre for Disease Prevention and Control (ECDC):Pneumococcal Disease: Recommended vaccinations

@@ -1,0 +1,64 @@
+标题：喉气管狭窄
+来源：https://www.msdmanuals.cn/professional/ear-nose-and-throat-disorders/laryngeal-disorders/laryngotracheal-stenosis
+============================================================
+
+喉气管狭窄可由全身性疾病引起，例如肉芽肿性多血管炎、复发性多软骨炎或者淀粉样变性（1）。也可由医源性因素（例如气管切开术或长期插管）或气道直接外伤导致。部分患者在无明确病因的情况下出现声门下狭窄，称为特发性声门下狭窄，多见于白人女性患者。在儿童患者中，反复发作的哮吼感染史应警惕潜在气道狭窄。
+喉气管狭窄常按狭窄部位（如声门上、声门）和狭窄程度进行描述（2）。现有多种分级量表用于描述狭窄百分比，但均未充分纳入另一重要因素——狭窄长度。这些描述对确定狭窄病因并制定治疗方案至关重要。
+
+【参考文献】
+1.Gelbard A, Francis DO, Sandulache VC, Simmons JC, Donovan DT, Ongkasuwan J.Causes and consequences of adult laryngotracheal stenosis.Laryngoscope.2015;125(5):1137-1143.doi:10.1002/lary.24956
+1.Gelbard A, Francis DO, Sandulache VC, Simmons JC, Donovan DT, Ongkasuwan J.Causes and consequences of adult laryngotracheal stenosis.Laryngoscope.2015;125(5):1137-1143.doi:10.1002/lary.24956
+2.McCaffrey TV.Classification of laryngotracheal stenosis.Laryngoscope.1992;102(12 Pt 1):1335-1340.doi:10.1288/00005537-199212000-00004
+2.McCaffrey TV.Classification of laryngotracheal stenosis.Laryngoscope.1992;102(12 Pt 1):1335-1340.doi:10.1288/00005537-199212000-00004
+
+【喉气管狭窄的症状和体征】
+症状取决于喉气管的狭窄程度，可能包括呼吸困难、喘鸣和咳嗽（1）。还可能出现发声困难和吞咽疼痛。轻度狭窄（即气道轻微狭窄）患者可能无症状。
+
+【症状和体征参考文献】
+1.Smith MM, Cotton RT.Diagnosis and management of laryngotracheal stenosis.Expert Review of Respiratory Medicine.2018;12(8), 709–717.
+1.Smith MM, Cotton RT.Diagnosis and management of laryngotracheal stenosis.Expert Review of Respiratory Medicine.2018;12(8), 709–717.
+
+【喉气管狭窄的诊断】
+实验室检查
+实验室检查
+内镜评估
+内镜评估
+肺功能评估
+肺功能评估
+有时需要CT成像
+有时需要CT成像
+临床评估应重点关注患者痛苦程度的评估，包括喘鸣程度及是否存在气管牵拉、胸骨上凹陷、肋下凹陷等危重体征。若患者出现严重痛苦体征，需紧急处理，包括行气管切开术。
+实验室评估应包括抗中性粒细胞胞质自身抗体 (ANCA) 检测，特别是为了诊断肉芽肿性多血管炎。根据临床表现，可进行其他实验室检查（如包括抗核抗体或ANA在内的自身免疫检查）以评估其他全身性疾病或感染。
+内镜评估是诊断和监测喉气管狭窄的主要手段。可在门诊使用柔性支气管镜检查，或在手术室行直接喉镜和支气管镜检查。除评估狭窄范围和程度外，内镜检查还可获取组织活检以明确病因。
+肺功能检查（PFTs），可用于初步表征狭窄程度和监测疾病进展（1）。尤其呼气峰流速检测对监测特发性声门下狭窄患者的病情进展及判断手术指征是一项有价值的辅助手段。
+CT成像对明确狭窄程度及评估软骨结构受累情况有重要价值。通常在任何外科重建手术前进行。
+喉气管狭窄常被漏诊或误诊为哮喘，但其症状通常呈进行性且对支气管扩张剂无反应。然而，哮喘治疗中使用的糖皮质激素可能短暂缓解症状，从而进一步混淆诊断。
+
+【诊断参考文献】
+1.Carpenter DJ, Ferrante S, Bakos SR, Clary MS, Gelbard AH, Daniero JJ.Utility of Routine Spirometry Measures for Surveillance of Idiopathic Subglottic Stenosis.JAMA Otolaryngol Head Neck Surg.2019;145(1):21-26.doi:10.1001/jamaoto.2018.2717
+1.Carpenter DJ, Ferrante S, Bakos SR, Clary MS, Gelbard AH, Daniero JJ.Utility of Routine Spirometry Measures for Surveillance of Idiopathic Subglottic Stenosis.JAMA Otolaryngol Head Neck Surg.2019;145(1):21-26.doi:10.1001/jamaoto.2018.2717
+
+【喉气管狭窄的治疗】
+医学管理
+医学管理
+门诊操作（内镜监测与治疗）
+门诊操作（内镜监测与治疗）
+内镜干预
+内镜干预
+开放式气道手术（极少情况下需要气管切开术）
+开放式气道手术（极少情况下需要气管切开术）
+药物管理可能改善肉芽肿性多血管炎等系统性疾病所致的狭窄。对于其他情况，药物主要作为内镜或手术的辅助治疗，旨在减轻炎症或瘢痕形成（1）。可使用的药物示例包括吸入性或口服糖皮质激素、磺胺甲噁唑-甲氧苄啶以及雾化盐水治疗。建议对可能影响狭窄的胃食管反流患者使用抗反流药物。此外，在外科手术干预期间可局部使用（如丝裂霉素）或注射给药（如糖皮质激素）以改善手术效果（2）。
+门诊操作和通过柔性光纤可视化（内窥镜）进行疾病监测对于狭窄患者的持续护理至关重要。门诊减少狭窄的治疗方法（如类固醇注射和球囊扩张）有所增加，关于疗效和方案的研究正在进行中。
+内镜介入治疗作为主要治疗手段，可包括使用硬性和球囊扩张器、激光切除、冷冻疗法及移植物置入术治疗狭窄（3）。在手术中可辅助注射药物以降低再狭窄的发生率。这些干预措施通常在全身麻醉下，通过硬质喉镜和支气管镜实施。
+开放式气道手术切除并重建狭窄区域通常被视为气道狭窄的根治性治疗（4）。该高度专业化手术需严格筛选患者并进行围手术期管理。在某些情况下可能需要临时气管切开术、支架置入或软骨移植以确保治疗成功。
+如果患者存在无法及时纠正或对其他治疗方式无反应的狭窄，可能需要进行气管切开术以绕过狭窄区域并促进呼吸。气管切开术可在患者接受其他干预措施（以拔管为目标）时进行，也可作为气道狭窄的永久性解决方案。
+
+【治疗参考文献】
+1.Hoffman MR, Patro A, Huang LC, et al.Impact of Adjuvant Medical Therapies on Surgical Outcomes in Idiopathic Subglottic Stenosis.Laryngoscope.2021;131(12):E2880-E2886.doi:10.1002/lary.29675
+1.Hoffman MR, Patro A, Huang LC, et al.Impact of Adjuvant Medical Therapies on Surgical Outcomes in Idiopathic Subglottic Stenosis.Laryngoscope.2021;131(12):E2880-E2886.doi:10.1002/lary.29675
+2.Pan DR, Rosow DE.Office-based corticosteroid injections as adjuvant therapy for subglottic stenosis.Laryngoscope Investig Otolaryngol.2019;4(4):414-419.Published 2019 Jun 10.doi:10.1002/lio2.284
+2.Pan DR, Rosow DE.Office-based corticosteroid injections as adjuvant therapy for subglottic stenosis.Laryngoscope Investig Otolaryngol.2019;4(4):414-419.Published 2019 Jun 10.doi:10.1002/lio2.284
+3.Feinstein AJ, Goel A, Raghavan G, et al.Endoscopic Management of Subglottic Stenosis.JAMA Otolaryngol Head Neck Surg.2017;143(5):500-505.doi:10.1001/jamaoto.2016.4131
+3.Feinstein AJ, Goel A, Raghavan G, et al.Endoscopic Management of Subglottic Stenosis.JAMA Otolaryngol Head Neck Surg.2017;143(5):500-505.doi:10.1001/jamaoto.2016.4131
+4.Bitar MA, Al Barazi R, Barakeh R.Airway reconstruction: review of an approach to the advanced-stage laryngotracheal stenosis.Braz J Otorhinolaryngol.2017;83(3):299-312.doi:10.1016/j.bjorl.2016.03.012
+4.Bitar MA, Al Barazi R, Barakeh R.Airway reconstruction: review of an approach to the advanced-stage laryngotracheal stenosis.Braz J Otorhinolaryngol.2017;83(3):299-312.doi:10.1016/j.bjorl.2016.03.012

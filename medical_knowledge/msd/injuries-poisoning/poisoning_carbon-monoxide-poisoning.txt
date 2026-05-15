@@ -1,0 +1,107 @@
+标题：一氧化碳中毒
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/poisoning/carbon-monoxide-poisoning
+============================================================
+
+(参见于中毒的基本原则。）
+一氧化碳（CO）中毒是最常见的致命性中毒之一（1），通常通过吸入发生。CO是无色无味的气体，因碳氢化合物不完全燃烧产生。一氧化碳中毒的常见来源包括房屋火灾和不正确通风的汽车或摩托艇、燃气加热器、炉子、热水加热器、木材或木炭燃烧炉以及煤油加热器。天然气（甲烷或丙烷）燃烧时会产生CO。接触二氯甲烷可能导致迟发性CO中毒。抽烟会引起血中出现CO但不足以引起中毒。
+
+【参考文献】
+1.Shin M, Bronstein AC, Glidden E, et al.Morbidity and Mortality of Unintentional Carbon Monoxide Poisoning: United States 2005 to 2018.Ann Emerg Med.2023;81(3):309-317.doi:10.1016/j.annemergmed.2022.10.011
+1.Shin M, Bronstein AC, Glidden E, et al.Morbidity and Mortality of Unintentional Carbon Monoxide Poisoning: United States 2005 to 2018.Ann Emerg Med.2023;81(3):309-317.doi:10.1016/j.annemergmed.2022.10.011
+
+【一氧化碳中毒的病理生理学】
+当吸入室内空气时，一氧化碳（CO）的消除半衰期约为4.5小时，100%氧气时约为1.5小时，3个大气压（压力）100%氧气时（如在高压舱中）约为20分钟。
+CO的毒性机制还不完全明了。它们似乎涉及 (1, 2)
+从血红蛋白中置换氧气（因为 CO 对血红蛋白的亲和力大于氧气）
+从血红蛋白中置换氧气（因为 CO 对血红蛋白的亲和力大于氧气）
+氧-血红蛋白解离曲线左移（减少血红蛋白向组织的氧释放—见图氧合血红蛋白解离曲线)
+氧-血红蛋白解离曲线左移（减少血红蛋白向组织的氧释放—见图氧合血红蛋白解离曲线)
+抑制线粒体呼吸
+抑制线粒体呼吸
+可能对大脑组织有直接毒性作用
+可能对大脑组织有直接毒性作用
+
+【病理生理学参考文献】
+1.Hardy KR, Thom SR.Pathophysiology and treatment of carbon monoxide poisoning.J Toxicol Clin Toxicol.1994;32(6):613-629.doi:10.3109/15563659409017973
+1.Hardy KR, Thom SR.Pathophysiology and treatment of carbon monoxide poisoning.J Toxicol Clin Toxicol.1994;32(6):613-629.doi:10.3109/15563659409017973
+2.Tritapepe L, Macchiarelli G, Rocco M, et al.Functional and ultrastructural evidence of myocardial stunning after acute carbon monoxide poisoning.Crit Care Med.1998;26(4):797-801.doi:10.1097/00003246-199804000-00034
+2.Tritapepe L, Macchiarelli G, Rocco M, et al.Functional and ultrastructural evidence of myocardial stunning after acute carbon monoxide poisoning.Crit Care Med.1998;26(4):797-801.doi:10.1097/00003246-199804000-00034
+
+【一氧化碳中毒的症状和体征】
+一氧化碳（CO）中毒症状与病人血中碳氧血红蛋白峰值水平呈相关关系 (1)。许多症状是非特异性的。
+碳氧血红蛋白水平10%～20%时出现头痛和恶心。
+碳氧血红蛋白水平10%～20%时出现头痛和恶心。
+碳氧血红蛋白水平>20%常引起头晕眼花、全身虚弱、注意力不集中和判断力受损。
+碳氧血红蛋白水平>20%常引起头晕眼花、全身虚弱、注意力不集中和判断力受损。
+碳氧血红蛋白水平>30%常引起活动时气促、胸痛（冠心病患者）和意识模糊。
+碳氧血红蛋白水平>30%常引起活动时气促、胸痛（冠心病患者）和意识模糊。
+更高的碳氧血红蛋白水平会导致晕厥、抽搐和感觉迟钝。
+更高的碳氧血红蛋白水平会导致晕厥、抽搐和感觉迟钝。
+碳氧血红蛋白水平达到>60%的病人，可能发生低血压、昏迷、呼吸衰竭和死亡。
+病人还可以有很多其他的症状，包括视觉缺陷、腹痛和局灶性神经功能障碍。如果中毒严重，神经精神症状和体征（如痴呆、精神错乱、帕金森综合征、舞蹈病、遗忘综合征）会在中毒后数日到数周出现且持续存在。因为CO中毒常由于火灾引起，病人可能会伴有气道损伤 (见烟雾吸入)，由此增加发生呼吸衰竭的危险。
+
+【症状和体征参考文献】
+1.Kao LW, Nañagas KA.Carbon monoxide poisoning.Emerg Med Clin North Am.2004;22(4):985-1018.doi:10.1016/j.emc.2004.05.003
+1.Kao LW, Nañagas KA.Carbon monoxide poisoning.Emerg Med Clin North Am.2004;22(4):985-1018.doi:10.1016/j.emc.2004.05.003
+
+【一氧化碳中毒的诊断】
+静脉碳氧血红蛋白浓度
+静脉碳氧血红蛋白浓度
+必要时需进行动脉血气分析
+必要时需进行动脉血气分析
+因为症状不定，非特异又多变，所以一氧化碳（CO）中毒容易漏诊。很多有非特异症状的轻度中毒病例被误诊为病毒感染综合征。对此医生须保持高度的警惕性。如果遇到病人来自相同的住处，特别是用暖气的住所，表现为非特异性的类流感症状，一定要注意是否CO中毒。
+若怀疑一氧化碳中毒，可使用一氧化碳血氧计检测血液中的碳氧血红蛋白水平；由于动静脉差异微小，可采用静脉血样进行检测。(1) 动脉血气分析（ABG）并非常规检测项目。单独或联合使用动脉血气（ABGs）和脉搏血氧饱和度测量，不足以诊断CO中毒，因为动脉血气中报告的氧饱和度代表的是溶解氧，因此不受碳氧血红蛋白浓度的影响；此外，脉搏血氧仪无法区分正常血红蛋白和碳氧血红蛋白，从而提供错误的偏高的氧合血红蛋白读数 (2, 3)。无创CO探测器未被证明用于一氧化碳暴露或中毒毒性的诊断是准确且有用的。
+尽管碳氧血红蛋白水平升高是中毒的明确证据，但其水平可能因一氧化碳暴露结束后迅速下降而出现假性偏低，尤其是在接受辅助供氧治疗的患者中（例如在救护车上）。代谢性酸中毒可以是诊断的线索。其他检测可能有助于评估特定症状（如胸痛时使用心电图、神经症状检查使用CT和MRI）。
+羟钴胺治疗火灾氰化物暴露可能干扰分光光度法或血氧测定法对碳氧血红蛋白的检测。羟钴胺的深红宝石色可能导致碳氧血红蛋白测定假性升高或降低（4）。
+
+【诊断参考】
+1.Touger M, Gallagher EJ, Tyrell J.Relationship between venous and arterial carboxyhemoglobin levels in patients with suspected carbon monoxide poisoning.Ann Emerg Med.1995;25(4):481-483.doi:10.1016/s0196-0644(95)70262-8
+1.Touger M, Gallagher EJ, Tyrell J.Relationship between venous and arterial carboxyhemoglobin levels in patients with suspected carbon monoxide poisoning.Ann Emerg Med.1995;25(4):481-483.doi:10.1016/s0196-0644(95)70262-8
+2.Bozeman WP, Myers RA, Barish RA.Confirmation of the pulse oximetry gap in carbon monoxide poisoning.Ann Emerg Med.1997;30(5):608-611.doi:10.1016/s0196-0644(97)70077-5
+2.Bozeman WP, Myers RA, Barish RA.Confirmation of the pulse oximetry gap in carbon monoxide poisoning.Ann Emerg Med.1997;30(5):608-611.doi:10.1016/s0196-0644(97)70077-5
+3.Papin M, Latour C, Leclère B, et al.Accuracy of pulse CO-oximetry to evaluate blood carboxyhemoglobin level: a systematic review and meta-analysis of diagnostic test accuracy studies.Eur J Emerg Med.2023;30(4):233-243.doi:10.1097/MEJ.0000000000001043
+3.Papin M, Latour C, Leclère B, et al.Accuracy of pulse CO-oximetry to evaluate blood carboxyhemoglobin level: a systematic review and meta-analysis of diagnostic test accuracy studies.Eur J Emerg Med.2023;30(4):233-243.doi:10.1097/MEJ.0000000000001043
+4.Pace R, Bon Homme M, Hoffman RS, et al.Effects of hydroxocobalamin on carboxyhemoglobin measured under physiologic and pathologic conditions.Clin Toxicol (Phila).2014;52(7):647-650.doi:10.3109/15563650.2014.939659
+4.Pace R, Bon Homme M, Hoffman RS, et al.Effects of hydroxocobalamin on carboxyhemoglobin measured under physiologic and pathologic conditions.Clin Toxicol (Phila).2014;52(7):647-650.doi:10.3109/15563650.2014.939659
+
+【一氧化碳中毒的治疗】
+100％浓度的氧气（纯氧）
+100％浓度的氧气（纯氧）
+可能的话予以高压氧治疗
+可能的话予以高压氧治疗
+要将病人转移出一氧化碳（CO）中毒场所，并尽可能稳定病情。给予患者100%氧气（通过无重复呼吸面罩）和支持性治疗 (1)。虽然高压氧治疗（在高压氧舱中以2～3个大气压的100%氧气）(2, 3)的使用正变得越来越有争议，但对于有以下任一情况的患者，通常仍应考虑使用：
+危及生命的心肺并发症
+危及生命的心肺并发症
+持续性胸痛
+持续性胸痛
+意识改变
+意识改变
+意识丧失（无论多么短暂）
+意识丧失（无论多么短暂）
+碳氧血红蛋白水平>25%
+碳氧血红蛋白水平>25%
+高压氧治疗也可考虑用于孕妇，其治疗起始的血CO浓度应低于非妊娠患者。
+高压氧治疗也许可以减少迟发性神经精神症状的发生率。然而，这一治疗可能会引起气压伤，而且，很多医院都不具备这种治疗条件，导致一些不稳定的病人需要转运，甚至本地附近可能没有相关设备。证据显示高压氧治疗效果具有争议性，部分研究提示其有害。在需要高压氧治疗的情况时，推荐咨询毒物控制中心或高压氧治疗专家。
+
+【治疗参考文献】
+1.Weaver LK, Howe S, Hopkins R, Chan KJ.Carboxyhemoglobin half-life in carbon monoxide-poisoned patients treated with 100% oxygen at atmospheric pressure.Chest.2000;117(3):801-808.doi:10.1378/chest.117.3.801
+1.Weaver LK, Howe S, Hopkins R, Chan KJ.Carboxyhemoglobin half-life in carbon monoxide-poisoned patients treated with 100% oxygen at atmospheric pressure.Chest.2000;117(3):801-808.doi:10.1378/chest.117.3.801
+2.Huang CC, Ho CH, Chen YC, et al.Hyperbaric Oxygen Therapy Is Associated With Lower Short- and Long-Term Mortality in Patients With Carbon Monoxide Poisoning.Chest.2017;152(5):943-953.doi:10.1016/j.chest.2017.03.049
+2.Huang CC, Ho CH, Chen YC, et al.Hyperbaric Oxygen Therapy Is Associated With Lower Short- and Long-Term Mortality in Patients With Carbon Monoxide Poisoning.Chest.2017;152(5):943-953.doi:10.1016/j.chest.2017.03.049
+3.Hampson NB, Dunford RG, Kramer CC, Norkool DM.Selection criteria utilized for hyperbaric oxygen treatment of carbon monoxide poisoning.J Emerg Med.1995;13(2):227-231.doi:10.1016/0736-4679(94)00144-8
+3.Hampson NB, Dunford RG, Kramer CC, Norkool DM.Selection criteria utilized for hyperbaric oxygen treatment of carbon monoxide poisoning.J Emerg Med.1995;13(2):227-231.doi:10.1016/0736-4679(94)00144-8
+
+【一氧化碳中毒的预防】
+预防涉及检测室内燃烧设备的安装是否正确，是否正确排放到室外。排放管道须定期检查是否有泄漏。汽车绝不应在封闭的车库内保持发动状态。必须安装一氧化碳（CO）探测仪，因为当住所空气中出现游离的CO时它可以提供早期的警报。如果怀疑居室内有CO，必须开窗通风，疏散人员并检测CO来源。
+CO中毒（例如由住宅火灾、通风不良的汽车、燃气加热器、炉子、热水器、燃木或木炭炉或煤油加热器引起）是最常见的致死性中毒之一。
+CO中毒（例如由住宅火灾、通风不良的汽车、燃气加热器、炉子、热水器、燃木或木炭炉或煤油加热器引起）是最常见的致死性中毒之一。
+对于表现为非特异性症状（如冬季时出现流感样症状）或不明原因代谢性酸中毒的患者，应考虑中毒可能性。
+对于表现为非特异性症状（如冬季时出现流感样症状）或不明原因代谢性酸中毒的患者，应考虑中毒可能性。
+用一氧化碳血氧计测量静脉血中的一氧化碳水平。
+用一氧化碳血氧计测量静脉血中的一氧化碳水平。
+不能根据正常的CO浓度除外中毒，因为CO水平可以迅速下降，特别是在氧气治疗之后。
+不能根据正常的CO浓度除外中毒，因为CO水平可以迅速下降，特别是在氧气治疗之后。
+治疗需给予100%氧气。
+治疗需给予100%氧气。
+治疗重度中毒时，应咨询专家或中毒控制中心讨论高压氧治疗方案。
+治疗重度中毒时，应咨询专家或中毒控制中心讨论高压氧治疗方案。

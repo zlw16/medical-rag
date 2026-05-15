@@ -1,0 +1,104 @@
+标题：先天性巨结肠
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-gastrointestinal-anomalies/hirschsprung-disease
+============================================================
+
+（另见先天性胃肠道畸形概述）
+赫希施普龙病（Hirschsprung disease，HSCR）是由肠壁内迈斯纳神经丛与奥尔巴赫自主神经丛先天性缺失（即神经节细胞缺乏症）所引起的一种疾病。该无神经节细胞症的病因被认为是神经嵴来源的神经前体细胞迁移失败所致。
+先天性巨结肠症的发病率估计为每5000个活产婴儿中出现1例（1，2）。
+病变常发生在结肠远端（75%的病例），但可累及整个结肠(3-10%的病例)和小肠，无神经支配的区域是连续的 (3)。除非整个结肠均无神经支配，否则男性更易于受累（男女比例4：1），对于全结肠无神经支配的情况，是不存在性别差异的。
+
+【参考文献】
+1.Mueller JL, Goldstein AM.The science of Hirschsprung disease: What we know and where we are headed.Semin Pediatr Surg.2022;31(2):151157.doi:10.1016/j.sempedsurg.2022.151157
+1.Mueller JL, Goldstein AM.The science of Hirschsprung disease: What we know and where we are headed.Semin Pediatr Surg.2022;31(2):151157.doi:10.1016/j.sempedsurg.2022.151157
+2.Montalva L, Cheng LS, Kapur R, et al.Hirschsprung disease.Nat Rev Dis Primers.2023;9(1):54.Published 2023 Oct 12.doi:10.1038/s41572-023-00465-y
+2.Montalva L, Cheng LS, Kapur R, et al.Hirschsprung disease.Nat Rev Dis Primers.2023;9(1):54.Published 2023 Oct 12.doi:10.1038/s41572-023-00465-y
+3.Urla C, Lieber J, Obermayr F, et al.Surgical treatment of children with total colonic aganglionosis: functional and metabolic long-term outcome.BMC Surg.2018;18(1):58.Published 2018 Aug 15.doi:10.1186/s12893-018-0383-6
+3.Urla C, Lieber J, Obermayr F, et al.Surgical treatment of children with total colonic aganglionosis: functional and metabolic long-term outcome.BMC Surg.2018;18(1):58.Published 2018 Aug 15.doi:10.1186/s12893-018-0383-6
+
+【先天性巨结肠的发病机制】
+先天性巨结肠病具有显著且复杂的遗传因素，目前已有超过40种不同基因被证实与其发病机制相关（1）。在20%的病例中，该病被认为是由单个基因突变引起的，而在其余病例中，多个基因突变被认为是病因。在12%的病例中，先天性巨结肠症与染色体异常有关，例如唐氏综合征。
+大约20%至30%的先天性巨结肠症患者同时存在其他先天性异常。例如，约 20% 的先天性中枢性低通气综合征患者同时患有先天性巨结肠病，两者并存的情况被称为 Haddad 综合征。与先天性巨结肠相关的其他疾病包括 Waardenburg 综合征、Bardet-Biedl 综合征、Goldberg-Shprintzen 综合征和软骨-毛发发育不全。
+家庭成员中疾病复发的可能性会随着受累肠道长度的增加而升高，总体复发率为4%，而当整个结肠受累时，复发率可高达50%。
+
+【经验与提示】
+经验与提示
+大约20%至30%的先天性巨结肠症患者同时存在其他先天性异常。
+大约20%至30%的先天性巨结肠症患者同时存在其他先天性异常。
+受累的肠节段的蠕动是缺乏或异常的，导致持续的平滑肌痉挛，部分性或完全性梗阻，近端有正常神经分布的肠腔内容物累积和严重的肠管扩张。跳跃性病变几乎从不发生。
+
+【发病机制参考】
+1.Montalva L, Cheng LS, Kapur R, et al.Hirschsprung disease.Nat Rev Dis Primers.2023;9(1):54.Published 2023 Oct 12.doi:10.1038/s41572-023-00465-y
+1.Montalva L, Cheng LS, Kapur R, et al.Hirschsprung disease.Nat Rev Dis Primers.2023;9(1):54.Published 2023 Oct 12.doi:10.1038/s41572-023-00465-y
+
+【先天性巨结肠的症状和体征】
+患者最常见于生命早期发病，但部分病例可能延迟至儿童期甚至成年期才出现症状。
+通常情况下，几乎所有的新生儿在生后24个小时内有胎粪排出。绝大多数患有先天性巨结肠的新生儿在出生后 48 小时内无法排出胎粪（1）。婴儿表现为顽固性便秘、腹胀、呕吐，与其他远端肠梗阻相似。 某些情况下，患有超短节段无神经节病变的婴幼儿仅有轻微或间歇性便秘，常与轻度腹泻交替，导致延误诊断。
+婴儿也可能出现生长和体重增长迟缓（以前称为发育不良）。不太常见的是，婴儿可能出现先天性巨结肠相关性小肠结肠炎。
+对于年龄较大的婴儿和儿童，症状和体征可有厌食，便秘，缺乏排便生理冲动，并且在直肠指检中，直肠虚空感，粪便位于较高的结肠，在检查指头抽出后爆破性排便（爆破征）。
+
+【症状和体征】
+1.Bradnock TJ, Knight M, Kenny S, Nair M, Walker GM; British Association of Paediatric Surgeons Congenital Anomalies Surveillance System.Hirschsprung's disease in the UK and Ireland: incidence and anomalies.Arch Dis Child.2017;102(8):722-727.doi:10.1136/archdischild-2016-311872
+1.Bradnock TJ, Knight M, Kenny S, Nair M, Walker GM; British Association of Paediatric Surgeons Congenital Anomalies Surveillance System.Hirschsprung's disease in the UK and Ireland: incidence and anomalies.Arch Dis Child.2017;102(8):722-727.doi:10.1136/archdischild-2016-311872
+
+【先天性巨结肠的诊断】
+钡剂灌肠
+钡剂灌肠
+直肠抽吸或手术活检
+直肠抽吸或手术活检
+直肠测压
+直肠测压
+先天性巨结肠应尽早诊断。疾病未经及时治疗的时间越长，发生先天性巨结肠相关性肠炎的风险越高，该并发症可呈爆发性发作并可能致命。绝大多数病例在婴儿早期就能得到诊断。
+在该图像中，钡灌肠显示直肠狭窄（黑色箭头）和近端结肠扩张（白色箭头）。
+© Springer Science+Business Media
+早期先给予钡灌肠和/或直肠吸引活检。（注意：对于疑似患有先天性巨结肠相关小肠结肠炎的患者，不应进行钡灌肠检查，因为存在穿孔的风险。）钡剂灌肠在扩张段与狭窄段之间存在移行段，狭窄段缺少正常的神经分布，扩张段神经节细胞分布正常。钡灌肠应在没有事先准备的情况下进行，这可能会使异常节段扩张，并使近端结肠减压，使测试无法诊断。在新生儿期间可能缺乏典型的表现，所以24小时后仍有钡剂残留，则提示巨结肠。
+直肠吸引活检能发现神经节细胞缺乏。乙酰胆碱酯酶染色可用于突出增粗的神经干；钙网蛋白染色可用于检测黏膜神经支配的缺失（1)。
+一些中心还可以进行直肠测压，这通常会显示直肠球囊充气后肛门内括约肌缺乏松弛，这是异常神经支配的特征。
+确诊需要对直肠进行手术或抽吸活检，然后进行手术活检以确定疾病的范围，从而制定手术治疗计划。
+基因检测并非常规检查项目，但若评估发现存在遗传综合征的临床表现，或确诊为全结肠无神经节细胞症时，可能会进行此项检测。
+钡灌肠检查显示神经节细胞缺失（无神经节细胞症）累及至脾曲。无神经节肠管狭窄且痉挛（右），而正常受神经支配的近端肠管（上）扩张并充满粪便。
+
+【经验与提示】
+经验与提示
+如有可能，应在未准备的结肠中（即未事先进行灌肠或其他直肠减压），对先天性巨结肠病进行钡灌肠，但前提是未怀疑存在先天性巨结肠相关性肠炎。
+如有可能，应在未准备的结肠中（即未事先进行灌肠或其他直肠减压），对先天性巨结肠病进行钡灌肠，但前提是未怀疑存在先天性巨结肠相关性肠炎。
+
+【诊断参考文献】
+1.Claxton HL, Lounis SA, Stanton M, Hall NJ, Aldeiri B.The Diagnostic Value of Immunohistochemistry Markers in Hirschsprung Disease; A Systematic Review and Meta-analysis.J Pediatr Surg.2025;60(2):162010.doi:10.1016/j.jpedsurg.2024.162010
+1.Claxton HL, Lounis SA, Stanton M, Hall NJ, Aldeiri B.The Diagnostic Value of Immunohistochemistry Markers in Hirschsprung Disease; A Systematic Review and Meta-analysis.J Pediatr Surg.2025;60(2):162010.doi:10.1016/j.jpedsurg.2024.162010
+
+【先天性巨结肠的治疗】
+外科手术修复
+外科手术修复
+先天性巨结肠疾病的治疗是通过将正常神经支配的肠带到肛门并保留肛门括约肌来进行手术修复。对于患有长节段疾病的新生儿，通常需要进行两阶段手术，首先在无神经节肠段近端行结肠造口术以减压结肠（1）。 然后允许新生儿在手术的第二阶段之前生长，在第二阶段中，切除结肠的整个无神经节部分并进行牵拉手术。 对于患有短节段疾病的新生儿，在诊断时或延迟1至3个月后进行一期手术。采用腹腔镜技术的治疗效果与开腹手术相当，且具有住院时间更短、进食更早、疼痛更轻等优势。
+确定性纠治后，预后是良好的，虽然大量的婴儿存在慢性肠动力障碍伴便秘，梗阻性问题，或是二者兼有。
+
+【Treatment reference】
+1.Montalva L, Cheng LS, Kapur R, et al.Hirschsprung disease.Nat Rev Dis Primers.2023;9(1):54.Published 2023 Oct 12.doi:10.1038/s41572-023-00465-y
+1.Montalva L, Cheng LS, Kapur R, et al.Hirschsprung disease.Nat Rev Dis Primers.2023;9(1):54.Published 2023 Oct 12.doi:10.1038/s41572-023-00465-y
+先天性去神经化影响远端结肠，少数情况下往往影响较大的结肠区域，有时甚至小肠。
+先天性去神经化影响远端结肠，少数情况下往往影响较大的结肠区域，有时甚至小肠。
+婴幼儿的典型表现为远端肠梗阻所引起的结果，如顽固性便秘，腹胀，呕吐。
+婴幼儿的典型表现为远端肠梗阻所引起的结果，如顽固性便秘，腹胀，呕吐。
+钡剂灌肠检查（无需肠道准备）和直肠测压高度提示该诊断；根据直肠活检明确诊断。
+钡剂灌肠检查（无需肠道准备）和直肠测压高度提示该诊断；根据直肠活检明确诊断。
+受影响的肠段被手术切除，正常肠段被拉至肛门处。
+受影响的肠段被手术切除，正常肠段被拉至肛门处。
+
+【先天性巨结肠相关性小肠结肠炎（中毒性巨结肠）】
+先天性巨结肠相关性肠炎是先天性巨结肠的危及生命的并发症，可导致结肠明显扩张，常继发脓毒症及休克。
+先天性巨结肠相关性肠炎是先天性巨结肠的危及生命的并发症，可导致结肠明显扩张，常继发脓毒症及休克。
+与先天性巨结肠相关的肠炎（HAEC）的病因似为因梗阻导致的近端肠段明显扩张，继而引起肠壁变薄、细菌过度生长及肠道菌群移位。可能会出现败血症或休克（当整个结肠受到先天性巨结肠症影响时更常见），并可能迅速导致死亡；然而，经治疗后死亡率很低（1–3）。多达20%的足月先天性巨结肠症婴儿可能会发展为HAEC，因此密切监测先天性巨结肠症婴儿至关重要。
+HAEC最常发生于出生后数月内、手术矫正之前，但也可在术后出现，通常见于手术后的第一年内。 患有唐氏综合症的婴儿在术后发生这种并发症的风险增加。 婴儿表现为发热（新生儿则表现为体温不稳定）、腹胀、腹泻（可能带血或呈暴发性），随后会出现顽固性便秘。
+对疑似患有先天性巨结肠性小肠结肠炎的患者不应进行钡灌肠检查，因其存在穿孔风险。
+新生儿坏死性小肠结肠炎的初始治疗以支持治疗为主，包括肠道休息、液体复苏、通过鼻胃管和直肠管减压，以及使用覆盖厌氧菌的广谱抗生素（例如甲硝唑联合氨苄西林与庆大霉素、氨曲南，或哌拉西林/ 他唑巴坦）（4）。部分专家建议，对病情不危重的婴儿可进行直肠冲洗以清理结肠，但必须谨慎操作，以避免增加肠腔压力而导致穿孔。
+对于尚未接受手术修复的婴儿，以及存在肠穿孔或肠坏死情况的婴儿，手术是根治性治疗手段。对于病情稳定的婴儿，可采用确定性外科手术治疗，而无需再遵循既往以分流性回肠造口术或结肠造口术作为标准治疗方案的惯例。对于患有严重疾病的婴儿，应采用先前的标准方法。
+
+【参考文献】
+1.Pruitt LCC, Skarda DE, Rollins MD, Bucher BT.Hirschsprung-associated enterocolitis in children treated at US children's hospitals.J Pediatr Surg.2020;55(3):535-540.doi:10.1016/j.jpedsurg.2019.10.060
+1.Pruitt LCC, Skarda DE, Rollins MD, Bucher BT.Hirschsprung-associated enterocolitis in children treated at US children's hospitals.J Pediatr Surg.2020;55(3):535-540.doi:10.1016/j.jpedsurg.2019.10.060
+2.Chantakhow S, Tepmalai K, Singhavejsakul J, Tantraworasin A, Khorana J.Prognostic factors of postoperative Hirschsprung-associated enterocolitis: a cohort study.Pediatr Surg Int.2023;39(1):77.Published 2023 Jan 9.doi:10.1007/s00383-023-05364-7
+2.Chantakhow S, Tepmalai K, Singhavejsakul J, Tantraworasin A, Khorana J.Prognostic factors of postoperative Hirschsprung-associated enterocolitis: a cohort study.Pediatr Surg Int.2023;39(1):77.Published 2023 Jan 9.doi:10.1007/s00383-023-05364-7
+3.Montalva L, Cheng LS, Kapur R, et al.Hirschsprung disease.Nat Rev Dis Primers.2023;9(1):54.Published 2023 Oct 12.doi:10.1038/s41572-023-00465-y
+3.Montalva L, Cheng LS, Kapur R, et al.Hirschsprung disease.Nat Rev Dis Primers.2023;9(1):54.Published 2023 Oct 12.doi:10.1038/s41572-023-00465-y
+4.Gosain A, Frykman PK, Cowles RA, et al.Guidelines for the diagnosis and management of Hirschsprung-associated enterocolitis.Pediatr Surg Int.2017;33(5):517-521.doi:10.1007/s00383-017-4065-8
+4.Gosain A, Frykman PK, Cowles RA, et al.Guidelines for the diagnosis and management of Hirschsprung-associated enterocolitis.Pediatr Surg Int.2017;33(5):517-521.doi:10.1007/s00383-017-4065-8

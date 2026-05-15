@@ -1,0 +1,43 @@
+标题：直肠炎
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/anorectal-disorders/proctitis
+============================================================
+
+(参见肛门直肠疾病评估。）
+直肠炎可能是下列疾病的一种表现
+性传播感染（例如，Neisseria gonorrhoeae（淋病奈瑟菌）、Chlamydia（衣原体）属）
+性传播感染（例如，Neisseria gonorrhoeae（淋病奈瑟菌）、Chlamydia（衣原体）属）
+某些肠道感染（如：Campylobacter（弯曲杆菌），Shigella（志贺菌），Salmonella（沙门氏菌）—见革兰阴性杆菌简介)
+某些肠道感染（如：Campylobacter（弯曲杆菌），Shigella（志贺菌），Salmonella（沙门氏菌）—见革兰阴性杆菌简介)
+炎症性肠病
+炎症性肠病
+放射治疗
+放射治疗
+与先前使用抗生素相关的直肠炎可能是由于艰难梭菌（以前Clostridium difficile）。
+性传播所致的直肠炎在男男性行为者中更常见。例如，猴痘被发现在男男性行为者中引起严重的传染性直肠炎。
+免疫缺陷患者感染单纯疱疹病毒和巨细胞病毒的危险性较大。
+
+【直肠炎的症状和体征】
+通常情况下，患者主诉里急后重（迫切地想要排便但并无粪便待排）、直肠出血或直肠排出黏液。
+淋病、单纯疱疹、巨细胞病毒或猴痘引起的直肠炎可能会引起强烈的肛门直肠疼痛。
+
+【直肠炎的诊断】
+直肠镜或乙状结肠镜
+直肠镜或乙状结肠镜
+检测性传播疾病和艰难梭菌
+检测性传播疾病和艰难梭菌
+直肠炎的诊断需行直肠镜或乙状结肠镜检查，这些检查可能显示直肠黏膜炎性改变。小而分散的溃疡和小水疱提示疱疹感染。需通过直肠拭子检测Neisseria gonorrhoea（淋病奈瑟菌）和Chlamydia（衣原体）属（通过培养或核酸扩增试验，如聚合酶链反应[PCR]）、肠道病原体（通过培养）和病毒病原体（通过培养或免疫测定）。
+进行梅毒血清学试验和大便C. difficile（艰难梭菌）毒素检测。有时需要行黏膜活检。
+结肠镜可对部分病例有价值，以排除炎症性肠病。
+
+【直肠炎的治疗】
+根据病因选用不同的治疗措施
+根据病因选用不同的治疗措施
+感染性直肠炎可用抗生素治疗。对于有非特异性直肠炎且有肛交行为的患者，可经验性使用头孢曲松250 mg肌内注射1次，加多西环素100 mg口服，每日2次，持续7天。由艰难梭菌引起的抗生素相关性直肠炎需要使用万古霉素或非达霉素治疗10天。
+出血性放射性直肠炎通常最初采用局部药物治疗；然而，缺乏来自严谨研究的有效性证据（1）。局部治疗包括糖皮质激素泡沫剂（氢化可的松）或灌肠剂（氢化可的松、甲泼尼龙），或者硫糖铝保留灌肠（2g溶于20mL水，每日2次）亦可能有效。对这些治疗均无效的患者，予局部应用福尔马林或高压氧治疗可能有效 (2)。
+内窥镜治疗可用于放射性直肠炎。氩等离子血浆凝固术至少在短期内（≤6周）似乎可有效减轻症状 (2)。其他凝固疗法，包括激光、电凝和热探头。
+
+【治疗参考文献】
+1.van de Wetering FT, Verleye L, Andreyev HJ, et al.Non-surgical interventions for late rectal problems (proctopathy) of radiotherapy in people who have received radiotherapy to the pelvis.Cochrane Database Syst Rev.2016;4(4):CD003455.Published 2016 Apr 25.doi:10.1002/14651858.CD003455.pub2
+1.van de Wetering FT, Verleye L, Andreyev HJ, et al.Non-surgical interventions for late rectal problems (proctopathy) of radiotherapy in people who have received radiotherapy to the pelvis.Cochrane Database Syst Rev.2016;4(4):CD003455.Published 2016 Apr 25.doi:10.1002/14651858.CD003455.pub2
+2.Paquette IM, Vogel JD, Abbas MA, Feingold DL, Steele SR.Clinical Practice Guidelines Committee of The American Society of Colon and Rectal Surgeons.The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Treatment of Chronic Radiation Proctitis.Dis Colon Rectum.2018;61(10):1135-1140.doi:10.1097/DCR.0000000000001209
+2.Paquette IM, Vogel JD, Abbas MA, Feingold DL, Steele SR.Clinical Practice Guidelines Committee of The American Society of Colon and Rectal Surgeons.The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Treatment of Chronic Radiation Proctitis.Dis Colon Rectum.2018;61(10):1135-1140.doi:10.1097/DCR.0000000000001209

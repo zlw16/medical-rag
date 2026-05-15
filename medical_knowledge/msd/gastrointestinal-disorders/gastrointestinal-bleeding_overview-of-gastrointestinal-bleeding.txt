@@ -1,0 +1,176 @@
+标题：消化道出血概述
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/gastrointestinal-bleeding/overview-of-gastrointestinal-bleeding
+============================================================
+
+消化道（GI）出血可发生于从口腔至肛门的任何部位，可为显性出血或隐性出血。出血的临床表现因出血部位及出血速率而不同。 （参见静脉曲张与消化道血管性疾病）。
+呕血是指呕吐红色血液，提示上消化道出血，常来源于消化性溃疡、血管病变或静脉曲张。咖啡渣样呕吐物是指呕吐深褐色、颗粒状的物质，外观类似咖啡渣。它是因为上消化道出血缓慢或停止后，红色的血红蛋白通过氧化被胃酸变成褐色的血红素的缘故。
+便血指通过直肠排出肉眼血便，常提示下消化道出血，也可因活动性上消化道出血迅速经肠道排出所致。
+黑便指黑色、柏油样便，通常提示上消化道出血，但小肠或右半结肠的出血也可能导致黑便。上消化道需积血约 100-200 毫升才会出现黑便；出血停止后，黑便可能持续数天。隐血试验阴性的黑色粪便可能因摄入铁剂、铋剂或各种食物所致，不应误认为出血所致的黑便。
+慢性隐性出血可发生在消化道任何部位，通过粪便标本化验可以检出。
+急性重度出血也可能发生在胃肠道的任何部位。患者可能会出现休克体征。潜在性缺血性心脏病的患者可能由于冠状动脉灌注不足而发生心绞痛或心肌梗塞。
+潜在肝病患者的消化道出血可能会诱发门体性肝性脑病或肝肾综合征（继发于肝衰竭的肾衰竭）。
+
+【胃肠道出血的病因】
+可能的原因有很多（见表胃肠道 (GI) 出血的常见原因），分为上消化道（Treitz韧带以上）、下消化道和小肠。
+任何原因引起的出血都很可能发生，慢性肝病（如酒精性肝病、慢性肝炎）、先天性凝血功能障碍或服用特殊药物的患者出血可能更严重。
+与消化道出血相关的药物包括抗凝药物（如肝素、华法林、达比加群、阿哌沙班、利伐沙班、艾多沙班）、影响血小板功能的药物（如阿司匹林及某些非甾体消炎药[NSAIDs]、氯吡格雷、选择性5羟色胺再摄取抑制剂[SSRIs]）、影响黏膜防御功能的药物（如NSAIDs）。
+
+【消化道出血常见原因】
+消化道出血常见原因
+上消化道*†
+十二指肠溃疡（15%～29%）†
+胃溃疡（14%～16%）†
+静脉曲张（5%～33%）
+贲门黏膜撕裂症（6%～15%）
+胃或十二指肠糜烂（3%～15%）
+糜烂性食管炎（2%～15%）
+血管瘤（1%～5%）
+胃肠道间质瘤（1～5%）
+动静脉畸形（<5%）
+胆道出血
+下消化道（百分比随抽样年龄而不同）
+血管发育不良（血管扩张）
+结肠炎：放射性、缺血性、感染性
+结肠息肉
+炎症性肠病：溃疡性直肠炎/结肠炎，克罗恩病
+小肠病变（罕见）
+动静脉畸形
+Meckel憩室
+*Hwang JH, Fisher DA, Ben-Menachem T, et al; Standards of Practice Committee of the American Society for Gastrointestinal Endoscopy.The role of endoscopy in the management of acute non-variceal upper GI bleeding.Gastrointest Endosc.2012 Jun;75(6):1132-8.doi: 10.1016/j.gie.2012.02.033;
+Kim JJ, Sheibani S, Park S, Buxbaum J, Laine L.Causes of bleeding and outcomes in patients hospitalized with upper gastrointestinal bleeding.J Clin Gastroenterol.2014;48(2):113-118.doi:10.1097/MCG.0b013e318297fb40
+†复合型胃十二指肠溃疡可占上消化道出血的50%。
+*Hwang JH, Fisher DA, Ben-Menachem T, et al; Standards of Practice Committee of the American Society for Gastrointestinal Endoscopy.The role of endoscopy in the management of acute non-variceal upper GI bleeding.Gastrointest Endosc.2012 Jun;75(6):1132-8.doi: 10.1016/j.gie.2012.02.033;
+Kim JJ, Sheibani S, Park S, Buxbaum J, Laine L.Causes of bleeding and outcomes in patients hospitalized with upper gastrointestinal bleeding.J Clin Gastroenterol.2014;48(2):113-118.doi:10.1097/MCG.0b013e318297fb40
+†复合型胃十二指肠溃疡可占上消化道出血的50%。
+
+【胃肠道出血的评估】
+急性起病患者在进行诊断性检查之前或同时，应保持气道通畅、补液输血以稳定病情。
+现病史需要明确出血量及频率。但出血量难以评估 —— 即使少量（5-10 毫升）血液也会使马桶中的水呈不透明的红色，而焦虑的患者会觉得少量出血 “量很大”。但是，绝大多数情况下可分辨血丝、几茶匙出血和血凝块。
+对于呕血患者需询问在呕吐之初就有呕血，还是一次或数次非血性呕吐之后才出现呕血。 此外，临床医师应该询问一些具体的问题来区分呕血和咯血，因为患者可能会混淆这两种症状。
+直肠出血患者需明确其排出的是单纯的血还是血与大便、脓、黏液的混合物，或仅在大便表面或是厕纸上带血等。血性腹泻患者需询问其有无旅行史或暴露于消化道相关病原病史。
+病史或系统回顾应包括有无腹部不适、体重减轻、容易出血或瘀伤，既往结肠镜或其他内镜检查结果，贫血的症状（如，乏力、易疲劳及头晕等）。
+既往病史应包括有无既往胃肠道出血（已确诊或未确诊）；已知的炎症性肠病、出血倾向及肝脏疾病；以及任何可能增加出血或慢性肝病风险的药物或物质使用情况（如酒精）。
+
+【体格检查】
+全面体格检查需特别注意生命体征，以及其他提示可能发生休克或低血容量的指标（如，心动过速、呼吸急促、苍白、多汗、少尿、意识模糊）及贫血（如，苍白、多汗）。少量出血可能仅引起轻度心动过速（心率>100次/分钟）或毫无症状。
+急性失血超过2单位后常出现体位性低血压（收缩压下降＞20mmHg或舒张压下降＞10mmHg）伴心率代偿性增快。然而，在严重出血的患者中，体位性测量是不明智的，因为这可能导致晕厥，而且作为评估血管内容量的一项指标，它们通常缺乏敏感性和特异性，特别是在老年人中。
+寻找出血性疾病的外部特征（如，淤斑、瘀点）、慢性肝脏疾病（蜘蛛痣、腹水、肝掌等）及门静脉高压（如脾大、腹部静脉扩张）的体征。
+肛门指检对检查大便颜色、肿块及肛裂是非常必要的。肛门镜检查有助痔疮诊断。对于无肉眼血便患者，应进行粪便隐血试验以完成检查。
+
+【危险信号】
+下面几种情况提示存在严重的低血容量或出血性休克：
+心动过速
+心动过速
+ABC评分通过年龄、尿素、白蛋白和肌酐水平、意识状态改变、肝硬化、转移性肿瘤及美国麻醉医师协会评分来预测上消化道和下消化道出血患者的30天死亡率（1）。
+
+【临床表现解析】
+病史和体格检查表明许多患者存在出血源，但通常需要进行确认检查。
+进食或服用制酸剂可缓解上腹部疼痛提示为消化性溃疡病。然而许多出血性溃疡病患者并无疼痛史。
+体重减轻和厌食症，伴有或不伴有大便改变，都表明患有胃肠道癌症。
+肝硬化或慢性肝炎病史提示食管静脉曲张。吞咽困难提示食道癌或狭窄。出血前有呕吐或干呕提示食管贲门黏膜撕裂，尽管并非所有食管贲门黏膜撕裂症患者均有此病史。
+出血史（如，紫癜、瘀斑、血尿）可能提示有出血倾向（如，血友病、肝衰竭）。
+血性腹泻、发热和腹痛提示缺血性结肠炎、炎症性肠病（如，溃疡性结肠炎、克罗恩病）或感染性结肠炎（如，志贺氏菌、沙门氏菌、弯曲杆菌、阿米巴感染）。
+便血提示憩室病或血管发育不良。卫生纸或成形粪便表面鲜血提示内痔或肛裂，但如果血液与粪便相混则提示出血来自于更近端的肠道。大便隐血可能是结肠癌或肠息肉首发征象，特别是>45岁的患者。
+血液在鼻腔或流向咽部，说明出血部位在鼻咽部。
+蜘蛛痣、肝脾肿大和腹水是慢性肝病的表现，提示出血可能源于食管静脉曲张。动静脉畸形，尤其是胃肠黏膜的动静脉畸形，提示可能患有遗传性出血性毛细血管扩张症（朗 - 奥 - 韦综合征）。皮肤指甲床和消化道毛细血管扩张可能与系统性硬化症或混合性结缔组织病有关。
+需进行以下检查以帮助明确诊断：
+全血细胞计数（CBC），凝血功能及其他实验室检查
+全血细胞计数（CBC），凝血功能及其他实验室检查
+鼻胃管(NGT)适用于除极轻微直肠出血外的所有患者
+鼻胃管(NGT)适用于除极轻微直肠出血外的所有患者
+怀疑上消化道出血患者需行上消化道内镜检查
+怀疑上消化道出血患者需行上消化道内镜检查
+下消化道出血（除了已明确由痔引起）需行结肠镜检查
+下消化道出血（除了已明确由痔引起）需行结肠镜检查
+有时用于上消化道和下消化道出血的血管造影
+有时用于上消化道和下消化道出血的血管造影
+严重出血或隐性失血患者需行{全血细胞计数检查。严重出血的病人还需做凝血功能（如，血小板计数、凝血酶原时间[PT]及部分凝血活酶时间[PTT]）和肝功能检查（如，胆红素、碱性磷酸酶、白蛋白、天冬氨酸氨基转移酶 [AST]、丙氨酸氨基转移酶 [ALT]）。如果出血持续，需进行血型检查及交叉配型。 严重出血者需反复监测（每6小时1次）血红蛋白和血细胞比容。
+对疑有上消化道出血（如，吐血、呕吐咖啡样物、黑便、大量直肠出血）患者，应作鼻胃管吸引和灌洗。鼻胃管抽吸液中出现血性内容提示上消化道活动性出血，但约有15%的上消化道出血患者其鼻胃管抽吸液中并无血液（2）。抽吸出咖啡样物质表明出血缓慢或已停止。如果没有出血征象而吸出了胆汁，可撤除鼻胃管；否则仍应保留，继续监测持续或反复的出血。无血无胆汁回抽物被认为是无诊断意义的吸引。
+对上消化道出血患者，应进行上消化道内镜（检查食管、胃和十二指肠）检查。因为内镜诊断的同时还可治疗，所以对于严重出血病例应该迅速进行内镜检查，但如果出血停止或仅有少量出血则可推迟24小时进行。上消化道钡餐检查对急性上消化道出血无用，而且对比剂可能影响后续的血管造影检查。
+如果患者呈现典型痔疮出血症状，可弯曲乙状结肠镜和肛门镜检查可能就足够了。其他所有便血患者均应行结肠镜检查，一般可选择性地在常规肠道准备后进行，除非存在严重的持续出血。对这样的患者，快速肠道准备（在3～4小时内通过鼻胃管或口服5～6L聚乙二醇溶液）常能提供一个合适的肠道可视环境。
+2023年美国胃肠病学会急性下消化道出血患者管理指南建议CT血管造影作为持续性血流动力学显著便血患者的初始检查（3）。如果CT血管造影阳性，可选择经导管血管造影或结肠镜进行治疗。当CT血管造影禁忌或不可用时，放射性核素扫描可用作诊断目的。
+这些图像显示了源自右结肠憩室的急性下消化道出血的 CT 血管造影情况。左上图显示了未增强的视图。右上图显示了憩室内造影剂渗出的动脉期（箭头）。左下图显示门脉期，结肠腔内的红晕增加（箭头）。右下角的图像显示了相应的冠状最大强度投影 (MIP) 视图（箭头）。
+© Springer Science+Business Media
+诊断隐性出血较困难，因为隐血阳性的粪便可以来自于消化道任何部位的出血。推荐内镜检查，根据症状决定首选上消化道内镜还是下消化道内镜检查。对下消化道出血的患者，若无结肠镜或患者拒绝，可行气钡对比的钡剂灌肠和乙状结肠镜检查。
+如果上消化道内镜检查和结肠镜检查的结果是阴性，而大便潜血仍然存在，那么应该考虑进行上消化道的一系列检查，包括小肠钡剂造影、肠CT成像、小肠内镜检查（小肠镜）、胶囊内镜检查（吞服一个药丸大小的相机）、锝标记胶体或红细胞（RBC）扫描和血管造影。胶囊内镜对于活动性出血患者价值有限。
+
+【评估参考文献】
+1.Laursen SB, Oakland K, Laine L, et al.ABC score: a new risk score that accurately predicts mortality in acute upper and lower gastrointestinal bleeding: an international multicentre study.Gut.2021;70(4):707-716.doi:10.1136/gutjnl-2019-320002
+1.Laursen SB, Oakland K, Laine L, et al.ABC score: a new risk score that accurately predicts mortality in acute upper and lower gastrointestinal bleeding: an international multicentre study.Gut.2021;70(4):707-716.doi:10.1136/gutjnl-2019-320002
+2.Hwang JH, Fisher DA, Ben-Menachem T, et al; Standards of Practice Committee of the American Society for Gastrointestinal Endoscopy.The role of endoscopy in the management of acute non-variceal upper GI bleeding.Gastrointest Endosc.2012 Jun;75(6):1132-8.doi: 10.1016/j.gie.2012.02.033
+2.Hwang JH, Fisher DA, Ben-Menachem T, et al; Standards of Practice Committee of the American Society for Gastrointestinal Endoscopy.The role of endoscopy in the management of acute non-variceal upper GI bleeding.Gastrointest Endosc.2012 Jun;75(6):1132-8.doi: 10.1016/j.gie.2012.02.033
+3.Sengupta N, Feuerstein JD, Jairath V, Shergill AK, Strate LL, Wong RJ, Wan D.Management of Patients With Acute Lower Gastrointestinal Bleeding: An Updated ACG Guideline.Am J Gastroenterol.2023 Feb 1;118(2):208-231.doi: 10.14309/ajg.0000000000002130
+3.Sengupta N, Feuerstein JD, Jairath V, Shergill AK, Strate LL, Wong RJ, Wan D.Management of Patients With Acute Lower Gastrointestinal Bleeding: An Updated ACG Guideline.Am J Gastroenterol.2023 Feb 1;118(2):208-231.doi: 10.14309/ajg.0000000000002130
+
+【消化道出血的治疗】
+如有需要，保持气道通畅
+如有需要，保持气道通畅
+静脉补液
+静脉补液
+如果需要，给予输血治疗
+如果需要，给予输血治疗
+有时给予药物治疗
+有时给予药物治疗
+某些情况下，需要内镜下或血管造影术止血
+某些情况下，需要内镜下或血管造影术止血
+吐血、便血或黑便应视为潜在紧急情况。建议将所有严重消化道出血患者收入重症监护病房或其他监护病房，并请消化科医生与外科医师会诊。
+一般治疗目的在于维持气道，恢复循环血量 (1–4)。根据出血的原因进行止血或其他治疗。
+活动性上消化道出血患者，由吸入血液所致的呼吸道并发症常为该病的主要发病和死亡原因。为了防止咽反射功能不全或反应迟钝或意识丧失的患者发生这种并发症，应考虑作气管内插管，尤其那些将行上消化道内镜检查的患者。
+
+【液体复苏和血制品输注】
+应立即开通静脉通路。除非使用大尺寸（8.5 法式）鞘管，否则优先选择在前臂肘前静脉置入短而粗的静脉导管（如 14-16 号），而非中心静脉导管。如低血容量或失血性休克患者的处理，需立即启动静脉补液 (见静脉输液复苏)。健康成年人可予500～1000 mL生理盐水，直至低血容量症状消失，补液最多不超2 L（儿童剂量为20 mL/kg，可重复一次）。
+需要进一步复苏患者应输浓缩红细胞。要持续输血，直到血容量恢复，然后根据需要视持续失血量进行输血。对于老年人或患有冠状动脉疾病的患者，当血红蛋白稳定在8 g/dL（80 g/L）时，除非患者出现症状，否则可停止输血。年轻患者或慢性出血患者通常不予输血，除非血红蛋白低于<7 g/dL（70 g/L），或出现呼吸困难、冠状动脉缺血等症状。
+需密切监测血小板计数，重度失血时可输血小板。服用抗血小板药物（如氯吡格雷、阿司匹林）的患者存在血小板功能障碍，常导致出血加重。如果服用这些药物的患者出现严重的持续性出血，应考虑输注血小板，尽管其体内循环的残余药物（尤其是氯吡格雷）可能使输入的血小板失活。如果患者因近期心血管疾病而正在服用抗血小板药物或抗凝剂，则应咨询心脏专科医生，若可行则予停用上述药物，逆转药物作用或进行血小板输注。
+若需要大量输血，应根据机构的大量输血方案，联合输注新鲜冰冻血浆、血小板与浓缩红细胞。如果患者有凝血障碍，则应考虑输入新鲜冰冻血浆或给予凝血酶原复合浓缩物。
+是否逆转患者的抗凝或抗血小板治疗，应基于对评估的出血风险与患者血栓风险进行权衡后决定。由于证据不足，关于新鲜冰冻血浆、凝血酶原复合物浓缩剂或其他逆转剂使用的指南建议有限（1,3）。对于危及生命的出血患者，可考虑使用新鲜冰冻血浆进行逆转治疗。
+此外，关于胃十二指肠溃疡出血后恢复抗血小板治疗的指导数据有限。对于接受双重抗血小板治疗的患者，不应停用阿司匹林，但可在出血性溃疡经内镜治疗后停用氯吡格雷约7天。单用阿司匹林患者可在出血性溃疡治疗后0-3天重新开始用药（5）。
+若怀疑存在上消化道出血，可启动静脉注射质子泵抑制剂（PPI）治疗（如泮托拉唑、埃索美拉唑、兰索拉唑）；若确诊胃十二指肠溃疡为出血来源，则应使用此类药物。
+奥曲肽是生长抑素的合成类似物，用于疑似静脉曲张出血的患者。奥曲肽以静脉推注后持续输注的方式给予。
+氨甲环酸虽未显示降低下消化道出血的死亡率、干预率或血制品用量，但对静脉曲张出血可能有效（6）。
+约 75% 的患者下消化道出血可自行缓解（3）。30%至60%的上消化道出血患者无需内镜止血（7, 8）。其余患者需要某些干预治疗。特殊治疗视出血部位而定。早期干预控制出血，特别对年老患者，可减少其病死率。
+对于消化性溃疡,的持续性出血或再出血，采用内镜下止血治疗（双极电凝、注射硬化剂、热探头或止血夹）（2）。止血粉可作为临时性止血剂，特别适用于消化性溃疡或癌症。溃疡灶内可见的非出血性血管也需要治疗。如果内镜治疗不能止血，则应重复上消化道内镜检查。如果再次干预失败，可尝试行出血血管的血管造影栓塞，或者需要手术缝合出血部位。血管造影栓塞的复发出血率高于手术，但具有并发症发生率低和住院时间短的优点。如果患者在接受消化性溃疡病的药物治疗后仍有复发性出血，那么外科医生可同时行减酸手术（2）。
+活动性静脉曲张性出血可用内镜下套扎、硬化剂注射或经颈静脉肝内门体分流术（TIPS）治疗 (9)。
+严重持续性下消化道出血，由憩室或血管瘤造成，有时可通过结肠镜下放置止血夹、电凝、加热探针凝固或注射稀释肾上腺素止血（3)。若这些方法无效或不可行，血管造影联合栓塞或血管加压素输注可能有效。但由于肠道侧支血流有限，除非采用超选择性插管技术，否则血管造影技术存在显著的肠缺血或梗死风险。大多数情况下，缺血性并发症的发生率<5% (3)。抗利尿激素输注止血成功率高，但约40%的患者可再次出血 (10)。同时还有高血压和心肌缺血的风险。此外，血管造影可更精准地定位出血来源。
+息肉可以通过圈套或电凝切除。
+手术常用于持续下消化道出血的患者（需要输血>6个单位），但出血部位的定位非常重要。如果出血部位无法定位，建议结肠次全切除。盲目半结肠切除术（术前未确定出血部位）比确定出血源的手术具有更高的再出血风险（3）。然而，评估必须迅速，以避免不必要的手术延迟。对于需要手术的下消化道出血患者，部分研究估计接受超过10单位浓缩红细胞输注者的死亡率介于15%至40%之间（11, 12）。
+急性或慢性内痔出血者，大多数情况下会自行止血。难治性出血患者可行肛门镜下治疗，包括橡胶圈结扎、注射硬化疗法、凝固或手术。
+
+【治疗参考文献】
+1.Abraham NS, Barkun AN, Sauer BG, Douketis J, Laine L, Noseworthy PA, Telford JJ, Leontiadis GI.American College of Gastroenterology-Canadian Association of Gastroenterology Clinical Practice Guideline: Management of Anticoagulants and Antiplatelets During Acute Gastrointestinal Bleeding and the Periendoscopic Period.Am J Gastroenterol.2022 Apr 1;117(4):542-558.doi: 10.14309/ajg.0000000000001627
+1.Abraham NS, Barkun AN, Sauer BG, Douketis J, Laine L, Noseworthy PA, Telford JJ, Leontiadis GI.American College of Gastroenterology-Canadian Association of Gastroenterology Clinical Practice Guideline: Management of Anticoagulants and Antiplatelets During Acute Gastrointestinal Bleeding and the Periendoscopic Period.Am J Gastroenterol.2022 Apr 1;117(4):542-558.doi: 10.14309/ajg.0000000000001627
+2.Laine L, Barkun AN, Saltzman JR, Martel M, Leontiadis GI.ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding.Am J Gastroenterol.2021 May 1;116(5):899-917.doi: 10.14309/ajg.0000000000001245.Erratum in:Am J Gastroenterol.2021 Nov 1;116(11):2309.doi: 10.14309/ajg.0000000000001506
+2.Laine L, Barkun AN, Saltzman JR, Martel M, Leontiadis GI.ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding.Am J Gastroenterol.2021 May 1;116(5):899-917.doi: 10.14309/ajg.0000000000001245.Erratum in:Am J Gastroenterol.2021 Nov 1;116(11):2309.doi: 10.14309/ajg.0000000000001506
+3.Sengupta N, Feuerstein JD, Jairath V, et al.Management of Patients With Acute Lower Gastrointestinal Bleeding: An Updated ACG Guideline.Am J Gastroenterol.2023;118(2):208-231.doi:10.14309/ajg.0000000000002130
+3.Sengupta N, Feuerstein JD, Jairath V, et al.Management of Patients With Acute Lower Gastrointestinal Bleeding: An Updated ACG Guideline.Am J Gastroenterol.2023;118(2):208-231.doi:10.14309/ajg.0000000000002130
+4.Gerson LB, Fidler JL, Cave DR, Leighton JA.ACG Clinical Guideline: Diagnosis and Management of Small Bowel Bleeding.Am J Gastroenterol.2015 Sep;110(9):1265-87; quiz 1288.doi: 10.1038/ajg.2015.246.
+4.Gerson LB, Fidler JL, Cave DR, Leighton JA.ACG Clinical Guideline: Diagnosis and Management of Small Bowel Bleeding.Am J Gastroenterol.2015 Sep;110(9):1265-87; quiz 1288.doi: 10.1038/ajg.2015.246.
+5.Ma H, Fan X, Jiao L, Meng X, Zhao L, Wang J.Time of Resumption of Antiplatelet Drugs After Upper Gastrointestinal Hemorrhage.Med Sci Monit.2022 Jul 23;28:e936953.doi: 10.12659/MSM.936953
+5.Ma H, Fan X, Jiao L, Meng X, Zhao L, Wang J.Time of Resumption of Antiplatelet Drugs After Upper Gastrointestinal Hemorrhage.Med Sci Monit.2022 Jul 23;28:e936953.doi: 10.12659/MSM.936953
+6.HALT-IT Trial Collaborators.Effects of a high-dose 24-h infusion of tranexamic acid on death and thromboembolic events in patients with acute gastrointestinal bleeding (HALT-IT): an international randomised, double-blind, placebo-controlled trial.Lancet.2020 Jun 20;395(10241):1927-1936.doi: 10.1016/S0140-6736(20)30848-5
+6.HALT-IT Trial Collaborators.Effects of a high-dose 24-h infusion of tranexamic acid on death and thromboembolic events in patients with acute gastrointestinal bleeding (HALT-IT): an international randomised, double-blind, placebo-controlled trial.Lancet.2020 Jun 20;395(10241):1927-1936.doi: 10.1016/S0140-6736(20)30848-5
+7.Lau JYW, Yu Y, Tang RSY, et al.Timing of Endoscopy for Acute Upper Gastrointestinal Bleeding.N Engl J Med.2020 Apr 2;382(14):1299-1308.doi: 10.1056/NEJMoa1912484
+7.Lau JYW, Yu Y, Tang RSY, et al.Timing of Endoscopy for Acute Upper Gastrointestinal Bleeding.N Engl J Med.2020 Apr 2;382(14):1299-1308.doi: 10.1056/NEJMoa1912484
+8.Kawaguchi K, Yoshida A, Yuki T, et al.A multicenter prospective study of the treatment and outcome of patients with gastroduodenal peptic ulcer bleeding in Japan.Medicine (Baltimore).2022 Dec 9;101(49):e32281.doi: 10.1097/MD.0000000000032281
+8.Kawaguchi K, Yoshida A, Yuki T, et al.A multicenter prospective study of the treatment and outcome of patients with gastroduodenal peptic ulcer bleeding in Japan.Medicine (Baltimore).2022 Dec 9;101(49):e32281.doi: 10.1097/MD.0000000000032281
+9.Hwang JH, Shergill AK, Acosta RD, et al.The role of endoscopy in the management of variceal hemorrhage.Gastrointest Endosc.80(2):221–227, 2014.doi: 10.1016/j.gie.2013.07.023
+9.Hwang JH, Shergill AK, Acosta RD, et al.The role of endoscopy in the management of variceal hemorrhage.Gastrointest Endosc.80(2):221–227, 2014.doi: 10.1016/j.gie.2013.07.023
+10.Liang HL, Chiang CL, Li MF.Empiric embolization by vasospasm therapy for acute lower gastrointestinal bleeding: a preliminary report.Sci Rep.2024 Oct 28;14(1):25728.doi: 10.1038/s41598-024-76408-8
+10.Liang HL, Chiang CL, Li MF.Empiric embolization by vasospasm therapy for acute lower gastrointestinal bleeding: a preliminary report.Sci Rep.2024 Oct 28;14(1):25728.doi: 10.1038/s41598-024-76408-8
+11.Czymek R, Kempf A, Roblick U, Jungbluth T, Schmidt A, Limmer S, Kujath P, Bruch HP, Fischer F.Factors predicting the postoperative outcome of lower gastrointestinal hemorrhage.Int J Colorectal Dis.2009 Aug;24(8):983-8.doi: 10.1007/s00384-009-0695-1
+11.Czymek R, Kempf A, Roblick U, Jungbluth T, Schmidt A, Limmer S, Kujath P, Bruch HP, Fischer F.Factors predicting the postoperative outcome of lower gastrointestinal hemorrhage.Int J Colorectal Dis.2009 Aug;24(8):983-8.doi: 10.1007/s00384-009-0695-1
+12.Bender JS, Wiencek RG, Bouwman DL.Morbidity and mortality following total abdominal colectomy for massive lower gastrointestinal bleeding.Am Surg.1991 Aug;57(8):536-40; discussion 540-1.
+12.Bender JS, Wiencek RG, Bouwman DL.Morbidity and mortality following total abdominal colectomy for massive lower gastrointestinal bleeding.Am Surg.1991 Aug;57(8):536-40; discussion 540-1.
+
+【老年病学要点：胃肠道出血】
+老年患者中内痔和结直肠癌是引起少量消化道出血的最常见原因。消化性溃疡、憩室病、血管畸形是导致老年人消化道大出血的最常见原因。静脉曲张破裂出血在老年人患者中较年轻人少见。
+老年人对大量出血的耐受能力很差。应尽快明确诊断，并及早启动治疗，相较之下，年轻患者对反复出血发作的耐受性更强。
+便血可能来自于上消化道或下消化道出血。
+便血可能来自于上消化道或下消化道出血。
+体位改变引起的生命体征改变对于判断严重出血是不可靠的指标。
+体位改变引起的生命体征改变对于判断严重出血是不可靠的指标。
+吐血、便血或黑便应视为潜在的紧急情况，需在重症监护病房或其他有监护条件的环境中进行处理。
+吐血、便血或黑便应视为潜在的紧急情况，需在重症监护病房或其他有监护条件的环境中进行处理。
+静脉注射液体复苏应立即开始，可能需要输血和血液制品。
+静脉注射液体复苏应立即开始，可能需要输血和血液制品。
+高达 75% 的下消化道出血患者和 60% 的上消化道出血患者会自行止血；其余患者通常首选各种内镜技术。
+高达 75% 的下消化道出血患者和 60% 的上消化道出血患者会自行止血；其余患者通常首选各种内镜技术。

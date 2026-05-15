@@ -1,0 +1,533 @@
+标题：外伤性脑损伤（TBI）
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/traumatic-brain-injury-tbi/traumatic-brain-injury-tbi
+============================================================
+
+与世界多数地区一样，在美国外伤性脑损伤（TBI）是死亡和致残的常见原因。
+外伤性脑损伤的病因包括：
+摔倒（特别是在老年人和小孩）
+摔倒（特别是在老年人和小孩）
+机动车辆意外及其他与交通有关的原因（例如单车意外、车辆与行人相撞）
+机动车辆意外及其他与交通有关的原因（例如单车意外、车辆与行人相撞）
+人身攻击
+人身攻击
+体育活动（如,运动相关脑震荡)
+体育活动（如,运动相关脑震荡)
+
+【外伤性脑损伤病理学】
+头部外伤可能是肉眼或显微镜下的损伤，这取决于所涉及的机制和力量。损伤不严重的病人可能没有明显的肉眼可见的结构性损伤。临床后遗症的严重程度和后果差异很大。
+颅脑损伤通常分为开放性损伤和闭合性损伤。
+开放性头部损伤包括头皮和颅骨（一般也包括脑膜和位于其下的脑组织）的贯通伤。通常由子弹或锐器损伤所致，但由于严重的钝力而引起的伴有头皮裂伤的颅骨骨折也被认为是开放性损伤。
+闭合性头部损伤通常发生于头部受到撞击、撞到物体或是被剧烈摇晃，导致脑部快速加速和减速。加速或减速可以在受撞击点（着力点）、相反方向（对冲点），或引起脑组织弥散损伤；额叶和颞叶尤其容易受到这种损伤。轴突、血管或两者都可以被切断或撕裂，导致弥漫性轴突损伤。血管断裂外漏，引起脑挫裂伤、脑内或蛛网膜下腔出血，硬膜外和硬膜下血肿（见表脑外伤的常见类型）。
+
+【外伤性脑损伤的常见类型】
+外伤性脑损伤的常见类型
+疾病状态
+临床表现
+暂时性精神状态变化（如意识或记忆丧失）
+基于临床表现
+计算机断层扫描：根据定义，不存在急性颅内出血、病变或挫伤；可能有无移位或轻微移位的线性颅骨骨折
+神经功能损害范围较广程度不一，或者神经功能正常
+CT：点状出血灶，大小不等的高密度影。
+弥散性轴索损伤
+意识丧失持续>6小时但<< 8小时，但无焦点缺陷或运动姿势异常
+基于临床表现
+CT： 早期可能显示正常或在胼胝体、半卵圆中心、基底神经结或脑干有小的高密度影（微出血灶）
+MRI： 深部白质或皮质下区域及脑干多发小的微出血
+硬膜外血肿
+头痛、数小时内意识受损，有时有中间清醒期
+典型的脑疝形成导致对侧轻偏瘫和同侧瞳孔散大
+CT：硬膜外间隙有高密度影，一般呈透镜形状，因颞骨骨折而沿脑膜中动脉（颞窝）分布
+急性硬膜下血肿
+典型表现为急性神经功能损害，可能为局灶性和（或）非局灶性。
+小血肿时，可能功能正常
+CT： 硬膜下间隙高密度影，典型表现呈新月状影
+中线移位程度很重要
+慢性硬膜下血肿
+逐渐发生的头痛、嗜睡、思维紊乱，有时有局灶性功能缺失或癫痫发作
+CT：硬膜下间隙低密度影（等密度为其变异状态，发生于亚急性期从高密度向低密度转变）
+蛛网膜下腔出血
+通常情况下，神经系统检查正常
+偶有急性神经功能损害
+CT： 大脑表面蛛网膜腔内有高密度影，常显示沟回轮廓
+颅底骨折
+脑脊液鼻漏或耳漏
+鼓膜后出血（血鼓室）或外耳道出血
+耳后淤血（巴特尔征）或眼眶周围淤血（熊猫眼）
+CT： 通常明显可见
+脑震荡（参见运动有关的脑震荡）被定义为创伤引起的一种短暂的、可逆的创伤后精神状态改变（例如，意识或记忆丧失，混乱），持续时间从几秒到几分钟，有时甚至几个小时。它被归类为轻度 TBI 的一种。
+尽管脑震荡短暂的功能障碍可能是由症状，如恶心、头痛、眩晕、记忆障碍和注意力不集中（脑震荡后综合症）引起，但没有结构性脑损伤，也没有严重的神经系统后遗症，这些症状通常会在数周内消退。然而，据认为多次脑震荡可能导致慢性创伤性脑病, 导致严重的脑功能障碍。
+脑挫伤可发生于开放性脑损伤或闭合性脑损伤。脑功能损害的范围取决于脑挫伤的大小和位置。大范围挫伤可以导致脑水肿并使颅内压（ICP）增高。在起病后数小时和数天内，挫伤可能会扩大并导致神经功能恶化; 可能需要手术。
+
+【弥漫性轴索损伤】
+旋转运动减速产生的剪切力会导致广泛的轴突纤维断裂和髓鞘断裂，也就是弥漫性轴索损伤。在某些情况下，DAI 病变可能是由轻微的头部创伤引起的。大体结构病变不是DAI的一部分，但是CT扫描和组织病理学检查可以看到白质内有小的出血点。
+有时临床上把DAI定义为：在没有特定局灶性病变的情况下，意识丧失持续>6小时且<8小时 (1)。
+由于损伤而导致的水肿通常会使颅内压增高，从而引起各种各样的临床表现。
+DAI 通常是虐待性头部创伤的潜在损伤。
+
+【颅内血肿】
+颅内血肿（脑内出血或脑组织周围出血）见于开放性或闭合性脑损伤，表现为
+脑内（脑实质内）
+脑内（脑实质内）
+蛛网膜下腔出血在创伤性脑损伤（TBI）中很常见（SAH—出血位于蛛网膜下腔），但CT表现和动脉瘤性SAH并不相同。创伤性脑损伤继发的蛛网膜下腔出血（SAH）血液通常积聚在大脑凸面，而动脉瘤性 SAH 主要集中在脑底池或外侧裂深处。
+硬膜下血肿是硬脑膜和蛛网膜之间聚集的血块。急性硬膜下血肿的病因包括：1）脑皮质静脉撕裂，2）皮质和硬脑膜窦之间的桥静脉撕裂。
+急性硬膜下血肿通常发生在患有以下疾病的患者中：
+跌倒或车祸造成的头部创伤
+跌倒或车祸造成的头部创伤
+潜在的脑挫伤
+潜在的脑挫伤
+对侧硬膜外血肿
+对侧硬膜外血肿
+血肿对大脑的压迫以及脑肿胀（由水肿或充血引起，即血管扩张导致脑血流量增加）可导致颅内压（ICP）升高。 当压迫和肿胀同时发生时，死亡率和发病率可能很高。
+慢性硬膜下血肿可能出现并在创伤后数周内逐渐引起症状。慢性硬膜下血肿常见于酗酒者和老年患者（特别是服用抗血小板药物或抗凝药物或脑萎缩患者）。老年患者可能认为头部受伤相对微不足道，甚至可能已经遗忘。与急性硬膜下血肿相反，慢性硬膜下血肿很少出现脑水肿和颅内压增高。
+硬膜外血肿（出血位于颅骨和硬脑膜之间）比硬膜下血肿少见。硬膜外血肿通常由动脉出血引起，出血量大，血肿迅速增大。最典型的就是颞骨骨折损伤脑膜中动脉引起硬膜外血肿。如不干预，动脉性硬膜外血肿会迅速恶化，导致死亡而静脉性硬膜外小血肿很少致命。
+脑内血肿指脑实质内出血聚积。创伤时，脑挫伤常常合并脑内血肿。当一个或多个脑挫伤发生血肿的确切时间并不好判断。颅内压增高、脑疝和脑干功能衰竭会相继发生，尤其是发生颞叶血肿时。
+
+【颅骨骨折】
+贯通伤的定义包含骨折。闭合性损伤也可能导致颅骨骨折，可表现为线性骨折、凹陷性骨折或粉碎性骨折。出现骨折表明损伤外力强大。
+大多数单纯线性骨折并且没有神经系统损伤的患者脑损伤风险不高，但是任何伴有神经系统损伤的骨折患者颅内血肿的风险都会增加。
+涉及特殊风险的颅骨骨折包括
+凹陷性骨折：撕裂硬脑膜、损伤脑下层大脑或两者兼而有之的风险最高
+凹陷性骨折：撕裂硬脑膜、损伤脑下层大脑或两者兼而有之的风险最高
+额骨骨折：额窦侵犯的风险，由于未被识别的脑脊液（CSF）瘘，可能导致长期粘液囊肿和脑膜炎发展的风险更高
+额骨骨折：额窦侵犯的风险，由于未被识别的脑脊液（CSF）瘘，可能导致长期粘液囊肿和脑膜炎发展的风险更高
+横跨脑膜中动脉区域的颞骨骨折：硬膜外血肿的风险
+横跨脑膜中动脉区域的颞骨骨折：硬膜外血肿的风险
+穿过硬脑膜窦1处的骨折：可能引起严重出血和静脉硬膜外或静脉硬膜下血肿。损伤静脉窦以后会有血栓形成，引起脑梗死
+穿过硬脑膜窦1处的骨折：可能引起严重出血和静脉硬膜外或静脉硬膜下血肿。损伤静脉窦以后会有血栓形成，引起脑梗死
+枕骨和颅底（基底骨）骨折：表明受到高强度撞击，因为这些骨头厚而坚固，并且会显著增加脑损伤的风险（例如，脑挫伤和血肿）。延伸到颞骨岩部的枕底骨折常常损伤中耳和内耳结构，损害面神经、听神经和前庭神经功能。颅底骨折也可能撕裂硬脑膜，导致脑脊液漏入耳朵、鼻子或喉咙。
+枕骨和颅底（基底骨）骨折：表明受到高强度撞击，因为这些骨头厚而坚固，并且会显著增加脑损伤的风险（例如，脑挫伤和血肿）。延伸到颞骨岩部的枕底骨折常常损伤中耳和内耳结构，损害面神经、听神经和前庭神经功能。颅底骨折也可能撕裂硬脑膜，导致脑脊液漏入耳朵、鼻子或喉咙。
+牵涉到颈动脉管的骨折：能导致颈动脉夹层。
+牵涉到颈动脉管的骨折：能导致颈动脉夹层。
+婴儿骨折：脑膜被困于顶骨线性颅骨骨折的风险，随后发展为脑膜轻包膜囊肿和原始骨折的扩大（生长性骨折）
+婴儿骨折：脑膜被困于顶骨线性颅骨骨折的风险，随后发展为脑膜轻包膜囊肿和原始骨折的扩大（生长性骨折）
+
+【病理参考文献】
+1.Mesfin FB, G N, Shapshak AH, et al: Diffuse Axonal Injury.Treasure Island, FL.StatPearls Publishing, 2024
+1.Mesfin FB, G N, Shapshak AH, et al: Diffuse Axonal Injury.Treasure Island, FL.StatPearls Publishing, 2024
+
+【外伤性脑损伤的病理生理学】
+直接脑组织的损伤（如粉碎、裂伤）可能迅速损害脑功能。很快，一系列损伤级联反应进一步加重损伤。
+所有的创伤性脑损伤（TBI）都会引起脑水肿、减少脑血流。颅顶大小固定（被限制在颅骨内），被不可压缩的脑脊液(CSF)和压缩性很小的脑组织充填；因此，脑水肿或颅内血肿造成的脑组织肿胀无处扩展，最终导致颅内压（ICP）增高。脑血流量取决于脑灌注压（CPP）。脑灌注压是平均动脉压和平均颅内压的差值。因此，当颅内压增高，或平均动脉压降低，脑灌注压就降低。
+当CPP下降到50 mm Hg以下时，大脑可能会出现缺血。缺血和水肿可触发各种继发性损伤机制(如兴奋性神经递质、细胞内钙、自由基和细胞因子的释放)，导致进一步的细胞损伤、进一步的水肿和进一步的颅内压升高。创伤引起的全身并发症（例如出血引起的低血压或肺损伤引起的缺氧）也会导致脑缺血，通常称为继发性脑损伤。
+颅内压过高最初引起全脑功能障碍。如果颅高压得不到缓解，就会挤压脑组织跨过小脑幕或是穿过枕骨大孔导致脑疝（并增加发病率和死亡率）。另外，如果颅内压增高至平均动脉压时，脑灌注压变为0，导致完全性脑缺血和脑死亡。没有脑血流是诊断脑死亡的客观依据。过度的 ICP 还会导致短期和长期的自主神经功能障碍，从而导致严重的血流动力学紊乱，这对于患有多发伤和其他内脏器官损伤、体液枯竭、电解质失衡、凝血病、低血压和急性血液性贫血的患者尤其危险损失。
+调节整体交感神经张力、血流循环和压力反射反应的下丘脑、穹窿下器官和孤束核损伤可导致心脏和肾脏功能发生深刻变化。下丘脑功能障碍影响下丘脑-垂体-肾上腺轴，导致血流动力学不稳定、高血压和交感神经“风暴”引起的心动过速，上调心脏收缩力并诱导肾脏中的液体潴留。这些变化随后可引起急性肾损伤(AKI)和Takotsubo心肌病(有时称为神经源性心肌病、非典型Takotsubo心肌病或应激性心肌病)，其表现为急性收缩性心力衰竭。如果在重症监护环境之外未被识别或治疗不足，这些全身性变化会显着增加脆弱和易感多发伤患者在受伤后最初几周的住院死亡率。
+青少年或儿童的震荡损伤可能会导致脑充血和脑血流增加。
+二次冲击综合症是一种罕见的现象，其定义为在前一次脑震荡尚未完全恢复前，因再次受到创伤性打击而出现的症状（如意识水平改变、意识模糊、表现出茫然等）(1)。第二次创伤性损伤可能比较轻微。二次撞击综合征是由于恶性脑水肿（占位性脑水肿的影响导致神经系统功能迅速恶化）导致颅内压（ICP）突然升高而发生的。该疾病的确切病理生理学仍存在争议，但主要的假设认为，脑血流失去自我调节会导致血管充血、颅内压升高和脑疝。
+
+【病理生理学参考文献】
+1.Cantu RC: Second-impact syndrome.Clin Sports Med17(1):37-44, 1998.doi: 10.1016/s0278-5919(05)70059-4
+1.Cantu RC: Second-impact syndrome.Clin Sports Med17(1):37-44, 1998.doi: 10.1016/s0278-5919(05)70059-4
+
+【外伤性脑损伤的症状和体征】
+最初，大多数患有中度或重度创伤性脑损伤(TBI)的患者会失去意识(通常持续数秒或数分钟)，尽管一些轻度损伤的患者只有意识模糊或健忘症(健忘症通常是逆行性的，这意味着在受伤前数秒至数小时的记忆丧失)。幼儿可能仅出现烦躁不安。一些患者会有癫痫发作，通常发生在外伤后第一小时或一天内。初始症状之后，患者可能是完全觉醒、意识清晰，或是意识和功能有某种程度的改变，从轻微意识模糊到木僵，再到昏迷。意识丧失的持续时间和反应迟钝的程度大体上都与损伤的严重程度一致，但没有特异性。
+
+【特定类型的脑外伤症状】
+不同类型脑外伤的症状大多相似。
+硬膜外血肿症状通常在损伤后数分钟至数小时内出现（受伤后无症状的时期称为 “清醒期”），表现为
+头痛加剧
+头痛加剧
+意识水平下降
+意识水平下降
+局灶性神经功能缺损（例如偏瘫）
+局灶性神经功能缺损（例如偏瘫）
+瞳孔扩大伴对光反应消失通常提示脑疝。部分患有硬膜外血肿的患者意识丧失，随后有短暂的清醒期，之后神经功能逐渐恶化。
+急性硬膜下血肿通常与方向、唤醒水平和/或认知的改变有关。由于潜在的脑挫伤和水肿，即使很小，它们通常也与颅内压 (ICP) 升高有关。症状包括
+颅内压增高的症状
+颅内压增高的症状
+瞳孔不对称，脑干反射异常，以及因钩疝导致脑干受压而昏迷
+瞳孔不对称，脑干反射异常，以及因钩疝导致脑干受压而昏迷
+脑内血肿和挫伤可引起局灶性神经功能障碍，如偏瘫，意识进行性恶化，或两者兼而有之。
+无论什么原因造成的颅内压或ICP增高（例如，血肿，水肿，充血）都会导致意识进行性恶化。
+下丘脑和其他重要皮层下结构损伤引起的自主神经功能障碍可导致
+交感神经亢进伴高血压和心动过速
+交感神经亢进伴高血压和心动过速
+伴有缺血性改变和心功能下降的神经源性 (Takotsubo) 心肌病
+伴有缺血性改变和心功能下降的神经源性 (Takotsubo) 心肌病
+急性肾损伤伴肾功能恶化
+急性肾损伤伴肾功能恶化
+颅内压增高有时会引起呕吐，但呕吐症状并无特异性。颅内压显著增加的经典表现为以下的组合（称为库欣三联征）：
+高血压（通常伴有脉压升高）
+高血压（通常伴有脉压升高）
+心动过缓
+心动过缓
+呼吸抑制
+呼吸抑制
+呼吸通常缓慢且不规则。重度弥漫性脑损伤或颅内压显著增高都会导致去皮质强直或去大脑强直。两者都是预后不良的表现。
+小脑幕切迹疝可导致昏迷、单侧或双侧瞳孔散大且对光反射消失、偏瘫（通常在单侧瞳孔散大的对侧），以及库欣三联征。
+颅底骨折可能导致以下结果：
+脑脊液从鼻子或喉咙漏出（脑脊液鼻漏）或漏入中耳（脑脊液耳漏）
+脑脊液从鼻子或喉咙漏出（脑脊液鼻漏）或漏入中耳（脑脊液耳漏）
+若鼓膜破裂，血液可积聚在鼓膜后方（鼓室积血）或外耳道内。
+若鼓膜破裂，血液可积聚在鼓膜后方（鼓室积血）或外耳道内。
+耳后淤血（巴特尔征）或眶周淤血（浣熊眼）
+耳后淤血（巴特尔征）或眶周淤血（浣熊眼）
+嗅觉、听觉功能丧失一般立即发生，但在患者恢复意识之前不会被注意到
+嗅觉、听觉功能丧失一般立即发生，但在患者恢复意识之前不会被注意到
+面神经功能损害可立即发生或延迟后发生。
+颅腔的其他骨折有时可扪及，特别是有头皮裂伤和塌陷畸形。 然而，帽状腱膜下出血也可能出现类似塌陷畸形。
+这张照片显示通过耳镜看到的鼓室积血（中耳内有血液）。
+© Springer Science+Business Media
+这张照片显示Battle征（乳突瘀斑）。
+© Springer Science+Business Media
+这张照片显示眶周瘀斑（浣熊眼）。
+© Springer Science+Business Media
+慢性硬膜下血肿的患者可能表现为日益加重的头痛、时轻时重的嗜睡状态或是意识混乱（类似痴呆早期表现）、轻到中度的偏瘫或局灶性神经功能缺损和/或癫痫发作。
+
+【外伤性脑损伤的诊断】
+对损伤进行快速的初步评价
+对损伤进行快速的初步评价
+神经系统检查:
+神经系统检查:
+GLASGOW昏迷评分
+GLASGOW昏迷评分
+CT检查
+CT检查
+
+【初步措施】
+对伤情应作全面的初步评估(见表创伤患者的治疗方法：评估和治疗)。 评估气道通畅性和呼吸。严重损伤的患者应同时进行TBI的诊断与治疗 (1)。
+快速、集中的神经系统评估也是初步评估的一部分；它包括格拉斯哥昏迷量表 (GCS) 评分和瞳孔对光反应。理想的评估应在给予麻醉剂和镇静剂前进行。 每隔一段时间要对患者进行反复评估（如，起初每15～30分钟1次，病情稳定后每1小时1次）。之后，病情的改善或恶化有助于对损伤的严重程度和预后进行判断。
+Glasgow昏迷量表（GCS—见表格拉斯哥昏迷量表）是一种可重复使用的快速评分系统，用于初步评估外伤性脑损伤患者的严重程度。量表是通过睁眼情况、言语反应和最佳运动反应来评分的。最低分（3分）提示可能是致死性损伤，尤其是当双侧瞳孔对光反应和眼前庭反应消失时。初始 GCS 评分越高，恢复越好 (2）。通常使用GCS量表来初步评估颅脑损伤的严重程度：
+13~15 分为轻度TBI
+13~15 分为轻度TBI
+中度 9～12分
+中度 9～12分
+重度 3～8分
+重度 3～8分
+
+【Glasgow昏迷量表*】
+Glasgow昏迷量表*
+评估部位
+自主睁眼
+言语呼唤后睁眼
+肢体或胸骨疼痛刺激后反应性睁眼
+定向准确
+对话混乱
+不适当的用语
+言语不可理解
+能遵嘱运动
+对痛刺激有目的的反应
+对痛刺激逃避
+疼痛刺激时出现去皮质体位（不正常屈曲）
+疼痛刺激时出现去大脑体位（不正常伸展）
+*总分≤8分被认为是昏迷。
+Adapted from Teasdale G, Jennett B: Assessment of coma and impaired consciousness.A practical scale.Lancet2:81–84; 1974.
+*总分≤8分被认为是昏迷。
+Adapted from Teasdale G, Jennett B: Assessment of coma and impaired consciousness.A practical scale.Lancet2:81–84; 1974.
+TBI的严重程度与预后估计，可通过CT及其他因素得出。部分开始为轻度或中度的颅脑外伤患者会出现病情恶化。
+缺氧和低血压会降低GCS评分，心肺复苏后的GCS分值较之复苏前的分值对脑功能不全的评价更具特异性。镇静和肌松药物也会降低GCS评分，在完整的神经系统评价前应避免使用。
+对于婴儿和幼儿，有修改后的Glasgow昏迷量表供使用（见表改良的格拉斯哥婴幼儿昏迷量表）。
+
+【经验与提示】
+经验与提示
+在完整的神经系统检查结束之前，尽可能推迟使用镇静和肌松药物。
+在完整的神经系统检查结束之前，尽可能推迟使用镇静和肌松药物。
+
+【适用于婴儿和儿童的修改后的Glasgow昏迷等级】
+适用于婴儿和儿童的修改后的Glasgow昏迷等级
+评估部位
+自主睁眼
+自主睁眼
+言语呼唤后睁眼
+言语呼唤后睁眼
+仅对疼痛刺激有睁眼反应
+仅对疼痛刺激有睁眼反应
+言语反应
+鸪鸪声，牙牙学语
+有定向力
+烦躁，哭吵
+意识模糊的
+疼痛刺激时哭吵
+不适当的用语
+疼痛刺激时呻吟
+不能理解的言语和无特异性的声音
+运动反应†
+有目的地自然运动
+能遵嘱运动
+触摸时退缩
+运动反应集中于疼痛刺激点
+疼痛刺激时退缩
+疼痛刺激时退缩
+疼痛刺激时出现去皮质体位（不正常屈曲）
+疼痛刺激时出现去皮质体位（不正常屈曲）
+疼痛刺激时出现去大脑体位（不正常伸展）
+疼痛刺激时出现去大脑体位（不正常伸展）
+*得分≤12分表明是重度颅脑损伤。分数≤8 表明可能需要插管和通气以及需要进行颅内压监测。
+†如果患者已经插管，意识丧失，或者没有语言能力，那么最重要的评估就是运动反应。这部分应该仔细地评估。
+Adapted from Davis RJ et al: Head and spinal cord injury.InTextbook of Pediatric Intensive Care, edited by MC Rogers.Baltimore, Williams & Wilkins, 1987; James H, Anas N, Perkin RM:Brain Insults in Infants and Children.New York, Grune & Stratton, 1985; andMorray JP, Tyler DC, Jones TK, et al: Coma scale for use in brain-injured children.Critical Care Medicine12:1018–1020, 1984.doi: 10.1097/00003246-198412000-00002; andCarney N, Totten AM, O'Reilly C, et al: Guidelines for the management of severe traumatic brain injury, fourth edition.Neurosurgery80(1):6-15.doi: 10.1227/NEU.0000000000001432.
+*得分≤12分表明是重度颅脑损伤。分数≤8 表明可能需要插管和通气以及需要进行颅内压监测。
+†如果患者已经插管，意识丧失，或者没有语言能力，那么最重要的评估就是运动反应。这部分应该仔细地评估。
+Adapted from Davis RJ et al: Head and spinal cord injury.InTextbook of Pediatric Intensive Care, edited by MC Rogers.Baltimore, Williams & Wilkins, 1987; James H, Anas N, Perkin RM:Brain Insults in Infants and Children.New York, Grune & Stratton, 1985; andMorray JP, Tyler DC, Jones TK, et al: Coma scale for use in brain-injured children.Critical Care Medicine12:1018–1020, 1984.doi: 10.1097/00003246-198412000-00002; andCarney N, Totten AM, O'Reilly C, et al: Guidelines for the management of severe traumatic brain injury, fourth edition.Neurosurgery80(1):6-15.doi: 10.1227/NEU.0000000000001432.
+
+【全面的临床评估】
+只要患者病情充分稳定就要尽早进行全面的神经系统检查。应仔细检查婴儿和儿童是否有视网膜出血，这可能表明存在虐待性头部创伤。成人眼底镜检查可显示外伤性视网膜脱离和因颅内压（ICP）增高引起的视网膜静脉搏动缺失；但尽管有脑损伤，检查结果也可正常。
+当大脑功能在机械力创伤后立即发生短暂性改变，且症状无法通过神经影像学上看到的脑损伤来解释时，就会诊断为脑震荡（3）。
+当意识丧失时间超过 6 小时但少于 8 小时（4），且MRI显示微出血时，应怀疑有弥漫性轴索损伤 (DAI)，尽管初始CT扫描未显示明显的脑出血迹象。
+其他类型的TBI诊断通过CT或MRI进行。
+
+【神经影像学检查】
+对于意识短暂受损、GCS 评分<15分、存在局灶性神经功能缺损、持续性呕吐、癫痫发作或有昏迷史，或临床怀疑骨折的患者，均应进行影像学检查。对于所有头部损伤并非轻微的患者，都有理由进行头颅CT扫描，因为漏诊血肿的临床和法医学后果严重，但临床医生需权衡这种检查方式带来的不必要费用，以及对年轻患者可能产生的辐射相关不良影响。
+这张 CT 扫描显示大脑表面有新月形密度影，是硬膜下血肿的特征性表现。还有占位效应，伴有脑室池受压和中线移位。
+这张 CT 扫描显示大脑表面有新月形密度影，是硬膜下血肿的特征性表现。还有占位效应，伴有脑室池受压和中线移位。
+Cavallini James/BSIP/SCIENCE PHOTO LIBRARY
+经典的新月形高密度影跨越颅缝线。
+经典的新月形高密度影跨越颅缝线。
+© 2017 Elliot K.Fishman, MD.
+典型的扁豆（双凸透镜）状的高密度影，不会跨越颅缝线。
+典型的扁豆（双凸透镜）状的高密度影，不会跨越颅缝线。
+© 2017 Elliot K.Fishman, MD.
+典型的扁豆（双凸透镜）状的高密度影，不会跨越颅缝线。
+典型的扁豆（双凸透镜）状的高密度影，不会跨越颅缝线。
+© 2017 Elliot K.Fishman, MD.
+CT扫描显示硬膜外血肿（右下角不透射影）。
+CT扫描显示硬膜外血肿（右下角不透射影）。
+Cavallini James/BSIP/SCIENCE PHOTO LIBRARY
+这张 CT 扫描显示大脑表面有新月形密度影，是硬膜下血肿的特征性表现。还有占位效应，伴有脑室池受压和中线移位。
+这张 CT 扫描显示大脑表面有新月形密度影，是硬膜下血肿的特征性表现。还有占位效应，伴有脑室池受压和中线移位。
+Cavallini James/BSIP/SCIENCE PHOTO LIBRARY
+经典的新月形高密度影跨越颅缝线。
+经典的新月形高密度影跨越颅缝线。
+© 2017 Elliot K.Fishman, MD.
+典型的扁豆（双凸透镜）状的高密度影，不会跨越颅缝线。
+典型的扁豆（双凸透镜）状的高密度影，不会跨越颅缝线。
+© 2017 Elliot K.Fishman, MD.
+典型的扁豆（双凸透镜）状的高密度影，不会跨越颅缝线。
+典型的扁豆（双凸透镜）状的高密度影，不会跨越颅缝线。
+© 2017 Elliot K.Fishman, MD.
+CT扫描显示硬膜外血肿（右下角不透射影）。
+CT扫描显示硬膜外血肿（右下角不透射影）。
+Cavallini James/BSIP/SCIENCE PHOTO LIBRARY
+尽管X光片能够检测出某些颅骨骨折，但无法评估大脑情况，且会延误明确的脑部评估；因此，通常不拍摄平片。
+CT是初始影像学检查的最佳选择，因为它可以检测血肿、挫伤、颅骨骨折（需行薄层扫描以显示临床怀疑的颅底骨折，这些骨折在平片上可能不可见），有时还可发现弥漫性轴索损伤
+CT可以显示以下内容：
+与脑组织相比，挫伤和急性出血呈现出不透明（致密影）。
+与脑组织相比，挫伤和急性出血呈现出不透明（致密影）。
+动脉硬膜外血肿的典型表现为脑组织表面的凸透镜状阴影，通常位于脑膜中动脉区域。
+动脉硬膜外血肿的典型表现为脑组织表面的凸透镜状阴影，通常位于脑膜中动脉区域。
+硬膜下血肿的典型表现为脑组织表面的新月形阴影。
+硬膜下血肿的典型表现为脑组织表面的新月形阴影。
+与脑组织相比，慢性硬膜下血肿显示低密度，而亚急性硬膜下血肿可能具有与脑组织类似的射线不透性（等密度）。等密度硬膜下血肿，特别是如果双侧和对称的，可能只会出现微小的异常。在严重贫血的患者中，急性硬膜下血肿可能与脑组织呈现等密度。个别患者可能与这些典型表现不同。
+颅内占位效应征象有沟回消失、脑室池受压和中线移位。缺乏这些征象不能除外颅内压增高，出现占位效应时也可能颅内压正常。
+一般中线移位>5mm是手术清除血肿的指征。
+
+【经验与提示】
+经验与提示
+考虑慢性硬膜下血肿患者有不明原因的精神状态改变和危险因素，包括服用抗血小板或抗凝药物的老年患者、脑萎缩患者和酒精使用障碍患者，即使没有已知的创伤史。
+考虑慢性硬膜下血肿患者有不明原因的精神状态改变和危险因素，包括服用抗血小板或抗凝药物的老年患者、脑萎缩患者和酒精使用障碍患者，即使没有已知的创伤史。
+MRI在病程后期可能更有用，以检测更多的挫伤、弥漫性轴索损伤和脑干损伤。 在诊断极小的急性或等密度的亚急性和慢性硬膜下血肿时，MRI通常比CT更敏感。磁共振成像被视为改善创伤性脑损伤后结果预测的有希望的工具。TRACK-TBI研究团队的一项研究表明，MRI可改善轻度创伤性脑损伤（TBI）后3个月不良结局的预测（5）。
+血管造影、CT血管造影、以及磁共振血管造影均对评估血管损伤具有重要价值。 例如，当怀疑血管受损而CT结果同体格检查矛盾时（如，CT正常或不能解释的偏瘫，怀疑继发于血管血栓形成或颈动脉夹层栓塞）。
+
+【诊断参考】
+1.National Institute for Health and Care Excellence: Head Injury: Assessment and Early Management.NICE guideline [NG232].Published May 18, 2023.Accessed September 13, 2024.
+1.National Institute for Health and Care Excellence: Head Injury: Assessment and Early Management.NICE guideline [NG232].Published May 18, 2023.Accessed September 13, 2024.
+2.Agarwal N, Iyer SS, Patil V et al: Comparison of admission GCS score to admission GCS-P and FOUR scores for prediction of outcomes among patients with traumatic brain injury in the intensive care unit in India.Acute Crit Care 38(2); 226-233 2023.doi: https://doi.org/10.4266/acc.2023.00570
+2.Agarwal N, Iyer SS, Patil V et al: Comparison of admission GCS score to admission GCS-P and FOUR scores for prediction of outcomes among patients with traumatic brain injury in the intensive care unit in India.Acute Crit Care 38(2); 226-233 2023.doi: https://doi.org/10.4266/acc.2023.00570
+3.Agarwal N, Thakkar R, Than K: Concussion.American Association of Neurological Surgeons (AANS).Published April 29, 2024.Accessed September 13, 2024.
+3.Agarwal N, Thakkar R, Than K: Concussion.American Association of Neurological Surgeons (AANS).Published April 29, 2024.Accessed September 13, 2024.
+4.Mesfin FB, G N, Shapshak AH, et al: Diffuse Axonal Injury.Treasure Island, FL.StatPearls Publishing, 2024
+4.Mesfin FB, G N, Shapshak AH, et al: Diffuse Axonal Injury.Treasure Island, FL.StatPearls Publishing, 2024
+5.Ferrazzano PA, Rebsamen S, Field AS, et al: MRI and Clinical Variables for Prediction of Outcomes After Pediatric Severe Traumatic Brain Injury. JAMA Netw Open.2024;7(8):e2425765.Published 2024 Aug 1.doi:10.1001/jamanetworkopen.2024.25765
+5.Ferrazzano PA, Rebsamen S, Field AS, et al: MRI and Clinical Variables for Prediction of Outcomes After Pediatric Severe Traumatic Brain Injury. JAMA Netw Open.2024;7(8):e2425765.Published 2024 Aug 1.doi:10.1001/jamanetworkopen.2024.25765
+
+【创伤性脑损伤的治疗】
+对于轻度损伤，需在家观察
+对于轻度损伤，需在家观察
+对中度和严重损伤者：优化通气、供氧和脑灌注；治疗并发症（颅内压增高、癫痫、血肿）和康复。
+对中度和严重损伤者：优化通气、供氧和脑灌注；治疗并发症（颅内压增高、癫痫、血肿）和康复。
+多发性非颅脑损伤，通常出现在机动车碰撞和摔倒中，一般需要同步治疗。创伤患者的初始复苏详见其他章节（参见创伤患者的处理方法）。
+在事故现场，移动患者前要确保气道畅通和止住外部出血。要给予特别护理以避免脊柱或者其他骨骼的移动从而来保护脊髓和血管。用颈圈和长脊柱板来进行适当制动，直到脊柱的稳定性得到确认（采用合适的检查和影像摄片）（参见脊柱创伤：诊断）。 对神经功能进行快速的初步评价后，可以利用短效的阿片类药物（如芬太尼）来减轻疼痛。
+在医院里，对神经功能进行快速的初步评价后，医护人员应该每隔几小时记录一次神经系统检查结果（格拉斯哥昏迷评分(GCS)和瞳孔反应）、血压、脉搏和体温，因为任一恶化都需要及时干预。利用连续GCS评分和CT检查的结果来判断损伤的严重程度，这有助于指导治疗（见表基于损伤严重程度的脑外伤处理）。
+
+【基于脑外伤严重程度的处理选择】
+基于脑外伤严重程度的处理选择
+严重程度
+GCS分数
+13–15
+居家观察
+9–12
+住院观察
+快速麻醉诱导插管
+加强支持治疗
+监测和治疗增高的颅内压
+GCS=格拉斯哥昏迷量表。
+GCS=格拉斯哥昏迷量表。
+所有创伤性脑损伤 (TBI)患者管理的基石是
+保持足够的肺通气、氧供、脑灌注以避免继发性脑损伤。
+保持足够的肺通气、氧供、脑灌注以避免继发性脑损伤。
+积极早期处理低氧血症、高碳酸血症、低血压和颅内压升高，有助于避免继发性并发症。快速控制伤口出血（外部和内部），并及时补充晶体液（如 0.9% 生理盐水）或最好通过输血补充血管内容量，以维持脑灌注。禁用低张液体（尤其是5％葡萄糖水溶液），因其含过多的自由水，使脑水肿和颅内压增高加剧。
+需要检查和预防的其他并发症包括体温过高、低血钠、高血糖和液体出入不平衡。
+
+【轻度创伤性脑损伤】
+轻伤患者未丧失意识或仅短暂丧失意识，生命体征稳定，头部CT扫描正常，精神状态和神经功能正常（包括任何中毒消退），只要家人或朋友能再密切观察24小时，即可出院回家。如果出现下列症状，应把患者送回医院：
+意识水平下降
+意识水平下降
+局灶性神经功能缺损
+局灶性神经功能缺损
+头痛恶化
+头痛恶化
+精神状况恶化（比如，茫然感，不能认人，异常行为）
+精神状况恶化（比如，茫然感，不能认人，异常行为）
+失去意识时间较长或出现精神状态或神经功能异常和/或出院后无法密切观察的患者通常会在急诊科观察或入院观察。
+如果症状持续，可以在8至12小时后进行随访CT检查。 如果没有神经系统改变，仅头颅CT提示轻微异常（如，小挫伤，没有占位效应的硬膜下小血肿，点状或少量的创伤性蛛网膜下腔出血），则患者可能只需在24小时内随访CT。 CT结果稳定、神经系统检查正常的患者可以出院回家。
+
+【中度和重度创伤性脑损伤】
+即使头部 CT 扫描正常，中度受伤的患者也应入院观察。他们最初通常不需要插管和机械通气（除非存在其他损伤）或 ICP 监测。患者病情可能会恶化并出现其他神经系统变化（例如精神状态恶化或癫痫发作）。
+严重受伤的患者收入ICU。由于气道保护反射受损，颅内压增高，给予气管内插管并同时采取措施避免颅高压。
+严重 TBI 患者的管理应基于 ICP 监测信息，以便采取干预措施降低住院和受伤后 2 周的死亡率（1、2）。然而，一些证据表明，仅使用临床和放射学评估的组合会导致等效的结果（3）。脑灌注压 (CPP) 监测也被推荐作为管理的一部分，因为有证据表明它可能有助于减少伤后2周的死亡率（4）。对于所有监测方法，应继续使用GCS和瞳孔反应进行密切监测，并重复CT，特别是在ICP不明原因升高的情况下。
+
+【颅内压升高】
+颅内压增高的治疗原则包括：
+快速有序的经口气管插管
+快速有序的经口气管插管
+机械通气
+机械通气
+监测颅内压（ICP）和脑循环临界关闭压（CCP）
+监测颅内压（ICP）和脑循环临界关闭压（CCP）
+根据需要镇静
+根据需要镇静
+维持容量平衡和血渗透压295～320mOsm/kg (295 ~ 320 mmol/kg)
+维持容量平衡和血渗透压295～320mOsm/kg (295 ~ 320 mmol/kg)
+对难治性颅内压增高，可行脑脊液引流、暂时性过度通气、开颅减压或戊巴比妥诱导昏迷
+对难治性颅内压增高，可行脑脊液引流、暂时性过度通气、开颅减压或戊巴比妥诱导昏迷
+快速序列经口气管插管（使用肌松药物）适用于需要气道支持或机械通气的创伤性脑损伤患者，而非清醒状态下的经鼻气管插管。 鼻气管插管可引起咳嗽和作呕，从而升高ICP。在进行气道操作前，需给予镇静和镇痛药物，以尽量减少因气道操作导致的颅内压升高。
+评估氧合和通气的充分性应使用脉搏血氧仪和动脉血气（如果可能的话，使用呼气末CO2)。目标是PaCO2达到正常水平（38～42 mmHg）。现已不再推荐使用预防性过度通气（PaCO2 25～35 mmHg）。低PaCO2通过促使脑血管收缩降低ICP，但同时也降低大脑灌注，有潜在缺血可能。因此，过度通气（目标PaCO2 30～35 mmHg）只在最初的几小时内，如果ICP对其他措施无反应的情况下使用。
+对于无法遵循简单指令的重度TBI患者，特别是头部CT异常者，以及复苏后格拉斯哥昏迷评分（GCS）为3至8分的TBI患者，建议采用ICP监测和CPP监测与控制（1）。然而，颅内压监测并未被证实能持续降低死亡率（5、6），但有数据显示，在重度创伤性脑损伤中，死亡率与较低的颅内压之间存在直接关联（7）。
+治疗目标是维持ICP<25（有时截止到20）mmHg，CPP尽可能接近60 mmHg。抬高床头30°，保持患者头部位于正中位置有助于增强脑静脉引流（从而降低颅内压）。若有需要，置入脑室导管引流脑脊液，降低ICP (3)。然而，这些研究结果的解释存有争议，部分因为研究中心所在诊疗场景与美国不同，限制了结果的外推。
+镇静可用于预防躁动、过度肌肉活动（如谵妄所致），并帮助减轻疼痛反应，从而有助于预防颅内压升高。为了镇静，成人常使用异丙酚（儿童禁忌），其起效快、作用时间短 。最常见的不良反应是低血压。长期大剂量使用该药可以引起胰腺炎。苯二氮卓类药物（如咪达唑仑、劳拉西泮）和右美托咪啶都比丙泊酚更适合儿童使用，也可用于镇静，但它们的作用不如丙泊酚迅速，并且个体的剂量反应难以预测。抗精神病药延缓康复，应尽量避免使用。如果需要使用麻痹剂来防止患者移动或意外移开医疗设备，则必须确保充分的镇静。
+适当镇痛通常需要阿片类药物。
+维持正常的血容量和血清渗透压（等渗或轻微高渗状态，目标血渗透压295～320mOsm/kg[295 ~ 320 mmol/kg]）非常重要。为了控制ICP，高渗盐水溶液（3%或23.4%）是比甘露醇更有效的渗透剂 (8)。根据需要，以 2 至 3 mL/kg 静脉推注以维持 ICP 为 20 至 25 mmHg，或以 1 mL/kg/h 持续输注。监测血清钠水平，并保持≤155mEg/L(155 mmol/L)。
+静注渗透性利尿剂（如甘露醇）用于降低ICP，维持血渗透压。然而，它们应该用于病情恶化的患者，或是用于血肿患者术前准备。给予20%甘露醇溶液按0.5～1 g/kg（2.5～5 mL/kg）在15～30分钟内静脉注射，之后可根据需要重复给药，剂量范围为 0.25~0.5 g/kg（1.25~2.5 mL/kg），通常每 6~8 小时一次；其降低颅内压的作用仅能维持数小时。患有严重冠状动脉疾病、心力衰竭、肾功能不全或肺血管充血的患者必须谨慎使用甘露醇，因为甘露醇会迅速扩大血管内容量。因为渗透性利尿剂增加肾脏对水的排泄多于钠的排泄，长期使用甘露醇也会导致脱水和高钠血症。呋塞米1 mg/kg 静脉注射也有助于减少总体液量，尤其是在需要避免使用甘露醇相关的短暂性血容量过多时。在使用渗透性利尿剂时，应密切监测水和电解质平衡。
+当颅内压增加对其他干预治疗无效时，可以考虑去骨瓣减压术，有时也可以作为一种主要措施(例如，在手术时引流大量血肿)。对于开颅手术，颅骨的很大一部分被整块移除(稍后更换)并进行硬脑膜成形术以允许向外的脑肿胀。骨骼去除的数量和位置取决于损伤本身，但开口必须足够大，以防止受压脑组织肿胀抵触到缺损边缘。一项研究表明，与接受较小范围开颅手术（6厘米×8厘米骨瓣）的患者相比，接受标准创伤开颅手术（12厘米×15厘米骨瓣）的患者脑疝发生率降低，死亡率降低（9）。一项比较颅骨切除术和医疗管理的随机试验，颅骨切除术后6个月的总体死亡率降低，但严重残疾和植物状态的发生率更高，良好的功能恢复率相似（10）。在另一项随机试验中，与接受医疗管理的患者相比，接受开颅术的患者颅内压升高的时间更短，ICU 住院时间更短；然而，两组的 6 个月死亡率相似（11）。
+戊巴比妥钠昏迷法，对于难治性颅高压是一个更为复杂且目前不太受欢迎的选择。通过给予负荷剂量的戊巴比妥诱导昏迷，然后进行维持性输注以抑制脑电图 (EEG) 活动的爆发，并进行持续监测。常有低血压，可予静脉输液，如果需要，使用血管升压药。
+在一项大型多中心试验中，全身低温治疗并未被证实有效（12）。
+高剂量皮质类固醇曾被提倡用于减少脑水肿和ICP。然而，皮质类固醇对控制ICP无用，不推荐使用。在一项大规模的随机安慰剂对照研究中，TBI 8小时内给予的皮质类固醇增加了幸存者的死亡率和严重残疾率(13)。
+多种神经保护剂已被研究，但迄今为止，尚无任何一种在临床试验中证实有效。
+
+【癫痫发作】
+癫痫发作会加重脑损伤，增高颅内压，应及时治疗。 有重大结构损伤（如较大的挫伤或血肿、脑裂伤、凹陷性骨折）或GCS评分<10的患者，应考虑预防性使用抗惊厥药。
+如果使用苯妥英，典型的负荷剂量为20mg /kg IV（最大剂量为50mg /min，以防止心血管不良反应，如低血压和心动过缓）。应该监测血药浓度以调整剂量。
+治疗持续时间长短不一，有赖于损伤类型和脑电图结果。如果 1 周内未出现癫痫发作，应停用抗癫痫药物，因为其预防未来癫痫发作的价值尚未明确。
+磷苯妥英是苯妥英的一种剂型，无心脏毒性且水溶性更好，正被用于部分患者，通过外周静脉给药时可降低血栓性静脉炎的风险。剂量与苯妥英相同。左乙拉西坦是一种常用药物，尤其是对于患有肝病的患者。
+
+【TBI中的其他重症监护问题】
+贫血和血小板减少症是患有TBI的患者的常见问题。 但输血可导致更多的并发症和更高的死亡率；因此，TBI患者的输血门槛应该高一些，与其他重症监护患者相同。
+高血糖预示着 ICP 升高、脑代谢受损、尿路感染和菌血症的风险增加；因此，已经尝试对 TBI 患者进行仔细的血糖控制。然而，在一项比较强化方案（维持血糖<80至120 mg/dL [4.4至6.7 mmol/L]）与传统方案（维持血糖<220 mg/dL [12.2 mmol/L]）的随机对照试验中，6个月时GCS评分相同，但强化方案的低血糖发作发生率更高（14）。
+人们提倡采用不同程度的低温，通过改善神经保护和降低 TBI 后急性期的 ICP 来改善神经功能恢复。然而，多项随机对照试验表明，与标准药物治疗相比，早期（2.5小时内），短期（伤后48小时）预防性低温并不能改善严重TBI患者的预后，并且增加了凝血功能障碍和心血管疾病不稳定的风险 (12,15).
+钙通道阻滞剂已被用于预防脑外伤后脑血管痉挛，保持脑血流，从而防止进一步的损伤。然而，对急性TBI和创伤性蛛网膜下腔出血患者的钙通道阻滞剂随机对照试验的综述得出结论，它们的有效性仍不确定(16)。
+
+【颅骨骨折】
+线性闭合性骨折不需要特殊处理。
+凹陷性骨折有时需要手术来抬高碎片，处理撕裂的皮质血管，修复硬脑膜并清除受伤的大脑组织。
+开放性骨折可能需要手术清创，除非没有脑脊液泄漏且骨折凹陷小于颅骨的厚度 (17)。
+额骨骨折需手术修复，尤其是当存在明显的前后壁移位（出于美观原因）或硬脑膜撕裂导致脑脊液漏入鼻腔时 (18)。
+这张颅骨的X光片显示了人字缝的骨折。
+Living Art Enterprises, LLC /SCIENCE PHOTO LIBRARY
+预防性使用抗生素是有争议的，因为其有效性数据有限，并且担心它会促进耐药菌株产生。
+
+【颅内血肿手术】
+颅内血肿可能需要紧急手术清除，以预防或治疗脑受压、水肿和脑疝；因此，早期神经外科会诊是必须的。
+但是，并非所有血肿都需要手术切除。 小的脑内血肿很少需要手术。小的硬膜下血肿通常也不需要外科手术。
+表明需要急诊手术的因素包括
+中线脑移位>5 毫米
+中线脑移位>5 毫米
+基底脑池压缩
+基底脑池压缩
+神经系统检查结果恶化
+神经系统检查结果恶化
+慢性硬膜下血肿需要外科手术引流，但是不如急性硬膜下血肿那么紧急。硬膜外的大血肿或动脉性血肿需要外科手术，而静脉性的小血肿可以只做CT随访。
+
+【康复治疗】
+当神经系统功能缺陷持续存在，需要康复治疗。脑损伤后的康复最好以团队合作的方式进行，将物理，职业和语言治疗，技能培养活动和咨询结合起来满足患者的社会和情感需求。脑损伤援助团队会向有脑损伤患者的家庭提供帮助。
+昏迷超过24小时的患者中，50%有严重的神经系统后遗症，需要长期康复，特别是认知功能和情感方面的康复。康复治疗应尽早计划。
+
+【治疗参考文献】
+1.Carney N, Totten AM, O'Reilly C, et al: Guidelines for the management of severe traumatic brain injury, fourth edition.Neurosurgery80(1):6–15, 2017.doi: 10.1227/NEU.0000000000001432
+1.Carney N, Totten AM, O'Reilly C, et al: Guidelines for the management of severe traumatic brain injury, fourth edition.Neurosurgery80(1):6–15, 2017.doi: 10.1227/NEU.0000000000001432
+2.Alali AS, Fowler RA, Mainprize TG, et al: Intracranial pressure monitoring in severe traumatic brain injury: Results from the American College of Surgeons Trauma Quality Improvement Program.J Neurotrauma30(20):1737–1746, 2013.doi: 10.1089/neu.2012.2802
+2.Alali AS, Fowler RA, Mainprize TG, et al: Intracranial pressure monitoring in severe traumatic brain injury: Results from the American College of Surgeons Trauma Quality Improvement Program.J Neurotrauma30(20):1737–1746, 2013.doi: 10.1089/neu.2012.2802
+3.Chesnut RM, Temkin N, Carney N, et al: A trial of intracranial-pressure monitoring in traumatic brain injury.N Engl J Med367(26):2471–2481, 2012.doi: 10.1056/NEJMoa1207363
+3.Chesnut RM, Temkin N, Carney N, et al: A trial of intracranial-pressure monitoring in traumatic brain injury.N Engl J Med367(26):2471–2481, 2012.doi: 10.1056/NEJMoa1207363
+4.Gerber LM, Chiu YL, Carney N, et al: Marked reduction in mortality in patients with severe traumatic brain injury.J Neurosurg119(6):1583–1590, 2013.doi: 10.3171/2013.8.JNS13276
+4.Gerber LM, Chiu YL, Carney N, et al: Marked reduction in mortality in patients with severe traumatic brain injury.J Neurosurg119(6):1583–1590, 2013.doi: 10.3171/2013.8.JNS13276
+5.Shafi S, Diaz-Arrastia R, Madden C, et al: Intracranial pressure monitoring in brain-injured patients is associated with worsening of survival.J Trauma64(2):335-340, 2008.doi: 10.1097/TA.0b013e31815dd017
+5.Shafi S, Diaz-Arrastia R, Madden C, et al: Intracranial pressure monitoring in brain-injured patients is associated with worsening of survival.J Trauma64(2):335-340, 2008.doi: 10.1097/TA.0b013e31815dd017
+6.Lane PL, Skoretz TG, Doig G, et al: Intracranial pressure monitoring and outcomes after traumatic brain injury.Can J Surg43(6):442-448, 2000
+6.Lane PL, Skoretz TG, Doig G, et al: Intracranial pressure monitoring and outcomes after traumatic brain injury.Can J Surg43(6):442-448, 2000
+7.Kostić A, Stefanović I, Novak V, et al: Prognostic significance of intracranial pressure monitoring and intracranial hypertension in severe brain trauma patients.Med Pregl64(9-10):461-465, 2011
+7.Kostić A, Stefanović I, Novak V, et al: Prognostic significance of intracranial pressure monitoring and intracranial hypertension in severe brain trauma patients.Med Pregl64(9-10):461-465, 2011
+8.Gharizadeh N, Ghojazadeh M, Naseri A, et al: Hypertonic saline for traumatic brain injury: A systematic review and meta-analysis.Eur J Med Res2022 Nov 20;27(1):254.doi: 10.1186/s40001-022-00897-4
+8.Gharizadeh N, Ghojazadeh M, Naseri A, et al: Hypertonic saline for traumatic brain injury: A systematic review and meta-analysis.Eur J Med Res2022 Nov 20;27(1):254.doi: 10.1186/s40001-022-00897-4
+9.Jiang JY, Xu W, Li WP, et al: Efficacy of standard trauma craniectomy for refractory intracranial hypertension with severe traumatic brain injury: A multicenter, prospective, randomized controlled study.J Neurotrauma22(6):623-628, 2005.doi: 10.1089/neu.2005.22.623
+9.Jiang JY, Xu W, Li WP, et al: Efficacy of standard trauma craniectomy for refractory intracranial hypertension with severe traumatic brain injury: A multicenter, prospective, randomized controlled study.J Neurotrauma22(6):623-628, 2005.doi: 10.1089/neu.2005.22.623
+10.Hutchinson PJ, Kolias AG, Timofeev IS, et al: Trial of decompressive craniectomy for traumatic intracranial hypertension.N Engl J Med375(12):1119–1130, 2016.doi: 10.1056/NEJMoa1605215
+10.Hutchinson PJ, Kolias AG, Timofeev IS, et al: Trial of decompressive craniectomy for traumatic intracranial hypertension.N Engl J Med375(12):1119–1130, 2016.doi: 10.1056/NEJMoa1605215
+11.Cooper DJ, Rosenfeld JV, Murray L, et al; DECRA Trial Investigators; Australian and New Zealand Intensive Care Society Clinical Trials Group: Decompressive craniectomy in diffuse traumatic brain injury.N Engl J Med364(16):1493-1502, 2011.doi: 10.1056/NEJMoa1102077.Erratum in:N Engl J Med365(21):2040, 2011
+11.Cooper DJ, Rosenfeld JV, Murray L, et al; DECRA Trial Investigators; Australian and New Zealand Intensive Care Society Clinical Trials Group: Decompressive craniectomy in diffuse traumatic brain injury.N Engl J Med364(16):1493-1502, 2011.doi: 10.1056/NEJMoa1102077.Erratum in:N Engl J Med365(21):2040, 2011
+12.Clifton GL, Valadka A, Zygun D, et al: Very early hypothermia induction in patients with severe brain injury (the National Acute Brain Injury Study: Hypothermia II): A randomised trial.Lancet Neurol10(2):131-139.doi: 10.1016/S1474-4422(10)70300-8
+12.Clifton GL, Valadka A, Zygun D, et al: Very early hypothermia induction in patients with severe brain injury (the National Acute Brain Injury Study: Hypothermia II): A randomised trial.Lancet Neurol10(2):131-139.doi: 10.1016/S1474-4422(10)70300-8
+13.Edwards P, Arango M, Balica L, et al: Final results of MRC CRASH, a randomised placebo-controlled trial of intravenous corticosteroid in adults with head injury-outcomes at 6 months.Lancet365(9475):1957–1959, 2005.doi: 10.1016/S0140-6736(05)66552-X
+13.Edwards P, Arango M, Balica L, et al: Final results of MRC CRASH, a randomised placebo-controlled trial of intravenous corticosteroid in adults with head injury-outcomes at 6 months.Lancet365(9475):1957–1959, 2005.doi: 10.1016/S0140-6736(05)66552-X
+14.Bilotta F, Caramia R, Cernak I, et al: Intensive insulin therapy after severe traumatic brain injury: A randomized clinical trial.Neurocrit Care9(2):159–166, 2008.doi: 10.1007/s12028-008-9084-9
+14.Bilotta F, Caramia R, Cernak I, et al: Intensive insulin therapy after severe traumatic brain injury: A randomized clinical trial.Neurocrit Care9(2):159–166, 2008.doi: 10.1007/s12028-008-9084-9
+15.Andrews PJD, Sinclair HL, Rodriguez A, et al: Hypothermia for intracranial hypertension after traumatic brain injury.N Engl J Med373(25):2403–2412, 2015.doi: 10.1056/NEJMoa1507581
+15.Andrews PJD, Sinclair HL, Rodriguez A, et al: Hypothermia for intracranial hypertension after traumatic brain injury.N Engl J Med373(25):2403–2412, 2015.doi: 10.1056/NEJMoa1507581
+16.Vergouwen MDI, Vermeulen M, Roos YBWEM: Effect ofnimodipineon outcome in patients with traumatic subarachnoid haemorrhage: A systematic review.Lancet Neurol5(12):1029–1032, 2006.doi: 10.1016/S1474-4422(06)70582-8
+16.Vergouwen MDI, Vermeulen M, Roos YBWEM: Effect ofnimodipineon outcome in patients with traumatic subarachnoid haemorrhage: A systematic review.Lancet Neurol5(12):1029–1032, 2006.doi: 10.1016/S1474-4422(06)70582-8
+17.Bullock MR, Chesnut R, Ghajar J, et al; Surgical Management of Traumatic Brain Injury Author Group: Surgical management of depressed cranial fractures.Neurosurgery58(3 Suppl):S56-60, 2006; discussion Si-iv.doi: 10.1227/01.NEU.0000210367.14043.0E
+17.Bullock MR, Chesnut R, Ghajar J, et al; Surgical Management of Traumatic Brain Injury Author Group: Surgical management of depressed cranial fractures.Neurosurgery58(3 Suppl):S56-60, 2006; discussion Si-iv.doi: 10.1227/01.NEU.0000210367.14043.0E
+18.Heary RF, Hunt CD, Krieger AJ, et al: Nonsurgical treatment of compound depressed skull fractures.J Trauma1993 Sep;35(3):441-7.doi: 10.1097/00005373-199309000-00018
+18.Heary RF, Hunt CD, Krieger AJ, et al: Nonsurgical treatment of compound depressed skull fractures.J Trauma1993 Sep;35(3):441-7.doi: 10.1097/00005373-199309000-00018
+
+【创伤性脑损伤的预后】
+在美国，成人严重创伤性脑损伤（TBI）经治疗后的死亡率约为25%～33% (1)。格拉斯哥昏迷评分(GCS)评分越高，死亡率越低。儿童死亡率较低。就可比较的损伤情况而言，儿童总体上要比成人好。
+失忆可能持续存在，既可能是逆行性失忆（即对受伤前发生的事件失去记忆），也可能是顺行性失忆（即对受伤后发生的事件失去记忆）。
+脑震荡后综合征常发生于中度或重度脑震荡之后，包括持续性头痛、头晕、疲乏、注意力不集中、波动性健忘、抑郁、冷漠和焦虑。嗅觉（和味觉）、有时是听觉常常会改变或丧失，视觉很少发生这种情况。数周或数月后症状常自行消失。
+在重度甚至是中度脑外伤后，认知和神经精神障碍会持续一段时间，尤其是当结构性损伤比较严重时。 常见问题包括
+记忆丧失
+记忆丧失
+行为改变（例如，激动，冲动，无法自控，缺乏动力）
+行为改变（例如，激动，冲动，无法自控，缺乏动力）
+情感不稳定
+情感不稳定
+睡眠障碍
+睡眠障碍
+智力减退
+智力减退
+小部分患者会出现迟发癫痫（损伤后>7天发生），常在损伤后数周、数月甚至是数年后发生。中枢运动损害（痉挛运动削弱）、步态和平衡功能障碍、共济失调、感觉缺失也会发生。
+持续植物状态可能是由于脑外伤破坏了前脑认知功能，而未损害脑干。自我意识和精神活动消失，但是自主和运动反射保留，睡眠-觉醒周期正常。损伤后植物人状态持续到3个月时，少有患者恢复正常的神经功能，到6个月后几乎无人恢复。
+即使在脑外伤数年后，神经功能仍有可能逐渐恢复，但最快的恢复期是在最初的6个月。
+绝大部分轻度脑外伤患者都保持较好的神经功能。中度或重度脑外伤患者，预后不如轻度患者，但比通常认为的预后要好。脑外伤预后最常用的评估表就是Glasgow结果量表。在这个标准下，可能的结果为
+完全康复（恢复至既往的功能状态）
+完全康复（恢复至既往的功能状态）
+中度残疾（能够自我照顾）
+中度残疾（能够自我照顾）
+重度残疾（不能自我照顾）
+重度残疾（不能自我照顾）
+植物人（无认知功能）
+植物人（无认知功能）
+其他基于CT表现的预后评分系统，如Marshall分类系统和最近开发的Rotterdam CT评分，也可用于估计长期生存率(2, 3)。
+超过 40% 的重度创伤性脑损伤成人患者可获得良好恢复，或仅遗留中度残疾 (4)。发生脑外伤后，昏迷发生与否和持续的时间是预测残疾的重要因素。若昏迷超过24小时，50%病人留有持久的神经系统后遗症，高达6%的病人在6个月时仍处于持续性植物状态。成人重度脑外伤患者，最初6个月内恢复最快。损伤后植物人状态持续到3个月时，少有患者恢复正常的神经功能，到6个月后几乎无人恢复。较小的改进可能持续长达数年。无论严重程度如何，儿童短期内功能恢复得更好，而且功能改善会持续更长时间。
+相对特定的运动和感觉功能缺失而言，认知缺陷、注意力下降、记忆衰退和各种人格改变更容易导致工作和社交障碍。外伤后嗅觉丧失和急性外伤性失明在3～4个月后很少能复原。除了老年人，通常偏瘫和失语至少会部分恢复。
+
+【预后参考】
+1.USA Facts: How Common Are Traumatic brain Injuries in the US?Accessed September 11, 2024.
+1.USA Facts: How Common Are Traumatic brain Injuries in the US?Accessed September 11, 2024.
+2.Maas AI, Hukkelhoven CW, Marshall LF, et al: Prediction of outcome in traumatic brain injury with computed tomographic characteristics: A comparison between the computed tomographic classification and combinations of computed tomographic predictors.Neurosurgery57(6):1173–1182, 2005.doi: 10.1227/01.neu.0000186013.63046.6b
+2.Maas AI, Hukkelhoven CW, Marshall LF, et al: Prediction of outcome in traumatic brain injury with computed tomographic characteristics: A comparison between the computed tomographic classification and combinations of computed tomographic predictors.Neurosurgery57(6):1173–1182, 2005.doi: 10.1227/01.neu.0000186013.63046.6b
+3.Charry JD, Falla JD, Ochoa JD, et al: External validation of the Rotterdam computed tomography score in the prediction of mortality in severe traumatic brain injury.J Neurosci Rural Pract8(Suppl 1):S23–S26, 2017.doi: 10.4103/jnrp.jnrp_434_16
+3.Charry JD, Falla JD, Ochoa JD, et al: External validation of the Rotterdam computed tomography score in the prediction of mortality in severe traumatic brain injury.J Neurosci Rural Pract8(Suppl 1):S23–S26, 2017.doi: 10.4103/jnrp.jnrp_434_16
+4.Centers or Disease Control and Prevention: About Potential Effects of a Moderate or Severe TBI.Accessed September 11, 2024.
+4.Centers or Disease Control and Prevention: About Potential Effects of a Moderate or Severe TBI.Accessed September 11, 2024.
+脑外伤的神经症状多种多样。有时甚至影像学上没有发现结构性脑损伤，但有临床症状。
+脑外伤的神经症状多种多样。有时甚至影像学上没有发现结构性脑损伤，但有临床症状。
+初始评估（创伤评估与稳定、GCS 评分、快速有针对性的神经系统检查）后，待患者病情稳定时，需进行更详细的神经系统检查。
+初始评估（创伤评估与稳定、GCS 评分、快速有针对性的神经系统检查）后，待患者病情稳定时，需进行更详细的神经系统检查。
+有下述情况时应做影像学检查（通常是CT）：意识丧失持续时间较长、GCS<15、有神经系统定位体征、持续呕吐、癫痫、意识丧失病史或临床怀疑有骨折或可能的其他发现。
+有下述情况时应做影像学检查（通常是CT）：意识丧失持续时间较长、GCS<15、有神经系统定位体征、持续呕吐、癫痫、意识丧失病史或临床怀疑有骨折或可能的其他发现。
+若创伤性脑损伤为轻度，大多数患者可出院；如果神经影像学检查正常或无需进行影像学检查，且神经系统检查正常，患者可在家中观察。
+若创伤性脑损伤为轻度，大多数患者可出院；如果神经影像学检查正常或无需进行影像学检查，且神经系统检查正常，患者可在家中观察。
+重度TBI患者需要收住ICU以避免继发性脑损伤，应该积极治疗，保持充分的通气、氧合和脑灌注。
+重度TBI患者需要收住ICU以避免继发性脑损伤，应该积极治疗，保持充分的通气、氧合和脑灌注。
+颅内压增高的治疗包括：快速诱导插管，监测颅内压，镇静，维持容量平衡和正常血浆渗透压，有时手术干预（如脑脊液引流，开颅减压术）。
+颅内压增高的治疗包括：快速诱导插管，监测颅内压，镇静，维持容量平衡和正常血浆渗透压，有时手术干预（如脑脊液引流，开颅减压术）。
+需要外科手术的情况：硬膜外大血肿或动脉性血肿，颅内血肿并发脑中线移位>5mm，脑基底池受压，神经系统检查结果恶化。
+需要外科手术的情况：硬膜外大血肿或动脉性血肿，颅内血肿并发脑中线移位>5mm，脑基底池受压，神经系统检查结果恶化。

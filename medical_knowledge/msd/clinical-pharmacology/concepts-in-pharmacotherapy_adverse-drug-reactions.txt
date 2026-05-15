@@ -1,0 +1,128 @@
+标题：药物不良反应
+来源：https://www.msdmanuals.cn/professional/clinical-pharmacology/concepts-in-pharmacotherapy/adverse-drug-reactions
+============================================================
+
+2011 至 2024 年间，美国通过食品药品监督管理局不良事件报告系统（FAERS）(1）累计报告了超过2900万例药物不良反应（ADRs）（见图FAERS不良事件报告系统）。美国约3%-6%的住院病例及欧洲2.5%-10.6%的住院病例由药物不良反应导致（2）。在低收入和中等收入国家，每年约发生1.34亿例药物不良反应，导致260万人死亡。
+所有药物都存在发生药物不良反应（ADRs）的潜在风险，因此，每次开具药物时都应权衡其益处与风险。药物不良反应的严重程度可以从轻微到严重不等。严重不良事件指那些可能致残、危及生命、导致住院或死亡，或先天性异常的事件。
+常用的术语“副作用”不够精确，通常用于指代药物在治疗剂量范围内产生的非预期效应。
+该图像显示了 FDA 从 1999 年到 2024 年收到的不良事件 (AE) 报告。所示数据截至2024年9月30日。
+报告类型如下：
+直接报告：由消费者和医疗保健专业人员通过MedWatch计划自愿提交给FDA
+直接报告：由消费者和医疗保健专业人员通过MedWatch计划自愿提交给FDA
+加急报告：由制造商提交，包含≥1个目前未在产品标签中描述且导致患者严重后果的不良事件
+加急报告：由制造商提交，包含≥1个目前未在产品标签中描述且导致患者严重后果的不良事件
+非加急报告：由制造商提交，不符合加急报告标准（包括被报告为预期的、非严重且非预期的、以及非严重且预期的不良事件）
+非加急报告：由制造商提交，不符合加急报告标准（包括被报告为预期的、非严重且非预期的、以及非严重且预期的不良事件）
+生物安全报告（BSR）：在2005年之前作为一种单独的报告类型提交给FDA，涉及疫苗和血液制品
+生物安全报告（BSR）：在2005年之前作为一种单独的报告类型提交给FDA，涉及疫苗和血液制品
+Image from the U.S. Food and Drug Administration (FDA).
+
+【参考文献】
+1.FDA Adverse Event Reporting System (FAERS).Public Dashboard, Database and Questions and Answers on FDA's Adverse Event Reporting System (FAERS).Accessed March 4, 2025.
+1.FDA Adverse Event Reporting System (FAERS).Public Dashboard, Database and Questions and Answers on FDA's Adverse Event Reporting System (FAERS).Accessed March 4, 2025.
+2.Chenchula S, Atal S, Uppugunduri CRS.A review of real-world evidence on preemptive pharmacogenomic testing for preventing adverse drug reactions: a reality for future health care.Pharmacogenomics J.2024;24(2):9.Published 2024 Mar 15.doi:10.1038/s41397-024-00326-1
+2.Chenchula S, Atal S, Uppugunduri CRS.A review of real-world evidence on preemptive pharmacogenomic testing for preventing adverse drug reactions: a reality for future health care.Pharmacogenomics J.2024;24(2):9.Published 2024 Mar 15.doi:10.1038/s41397-024-00326-1
+
+【药物不良反应的分类】
+药物不良反应的原因、临床表现和结局多种多样。一种分类系统将药物不良反应分为6种类型（1）：
+A型，固有型（亦称增强型）：与药物可预测的药理作用相关；呈剂量依赖性，通常可通过减少剂量或停药逆转；常见（如使用抗高血压药后出现低血压）
+A型，固有型（亦称增强型）：与药物可预测的药理作用相关；呈剂量依赖性，通常可通过减少剂量或停药逆转；常见（如使用抗高血压药后出现低血压）
+B型，特异质型（亦称怪异型）：不可预测且与剂量无关；少见（如超敏反应、史蒂文斯-约翰逊综合征、全身麻醉药导致的恶性高热）
+B型，特异质型（亦称怪异型）：不可预测且与剂量无关；少见（如超敏反应、史蒂文斯-约翰逊综合征、全身麻醉药导致的恶性高热）
+C型，慢性型：因长期用药发生；与累积剂量相关（如长期使用皮质类固醇导致肾上腺抑制、双膦酸盐导致颌骨坏死）
+C型，慢性型：因长期用药发生；与累积剂量相关（如长期使用皮质类固醇导致肾上腺抑制、双膦酸盐导致颌骨坏死）
+D型，迟发型：在用药后一段时间出现或显现；通常与剂量相关；少见（如致畸作用、致癌作用）
+D型，迟发型：在用药后一段时间出现或显现；通常与剂量相关；少见（如致畸作用、致癌作用）
+E型，撤药型：停药后立即发生（如阿片类药物戒断症状）
+E型，撤药型：停药后立即发生（如阿片类药物戒断症状）
+F型，治疗失败型：意外治疗失败；可能由药物相互作用引起；与剂量相关；常见（如利福平合用导致口服避孕药疗效降低）
+F型，治疗失败型：意外治疗失败；可能由药物相互作用引起；与剂量相关；常见（如利福平合用导致口服避孕药疗效降低）
+当药物的治疗指数窄时（如，口服抗凝药引起的出血），尤其要关注剂量相关性的ADRs。ADR可能源于肾功能或肝功能受损患者药物清除率降低，或源于药物相互作用。
+药物不良反应可被视为毒性的一种表现形式；然而，“毒性”一词通常用于描述过量摄入（意外或故意）药物所产生的影响，或用于描述在适当用药期间（例如，当药物代谢因某种疾病状态或另一种药物而暂时受到抑制时）发生的血药浓度升高或药物效应增强。
+由药物超敏反应引发的ADRs与剂量无关，但需存在既往暴露史。当药物作为抗原或变应原时，就会发生过敏反应。患者致敏后，继而再暴露于药物就产生过敏反应各种类型中的一种。病史及适当的皮试有时有助于预测过敏性的ADRs。
+药物不良反应(ADR)通常可分为轻微、中度、严重或致死（见表格药物不良反应分类）。严重或致命的ADRs，在由生产商提供的医生处方信息中可能以黑框警告的方式特别提示。
+
+【分类参考文献】
+1.Schatz SN, Weber RJ.(2015) Adverse Drug Reactions.In: Lee MW and Murphy JE, Eds., PSAP 2015 Book 2 CNS/Pharmacy Practice, American College of Clinical Pharmacy, Lenexa, 5-26.
+1.Schatz SN, Weber RJ.(2015) Adverse Drug Reactions.In: Lee MW and Murphy JE, Eds., PSAP 2015 Book 2 CNS/Pharmacy Practice, American College of Clinical Pharmacy, Lenexa, 5-26.
+
+【药物不良反应的危险因素】
+药物不良反应的发生率和严重程度因患者特征（如年龄、性别、种族、共病情况、遗传或地域因素）及药物特性（如药物类型、给药途径、剂量、生物利用度、疗程）而异。老年人群及多重用药患者的发生风险显著增高。处方医师的处方错误和患者对规定药物治疗方案的依从性差对药物不良反应发生率的影响尚不明确。
+常见风险因素或高危患者人群包括（1）：
+肾功能或肝功能损害
+肾功能或肝功能损害
+遗传变异（如引起阿巴卡韦超敏反应的基因变异）
+遗传变异（如引起阿巴卡韦超敏反应的基因变异）
+在老年人群中（参见老年患者药物相关问题)，ADRs的发生率和严重程度更高，但其主要原因可能是共病状态而非年龄因素。根据世界卫生组织的药物警戒数据库，致命的药物不良反应主要发生在75岁以上的患者中（2)。根据美国国家电子伤害监测系统的数据显示，治疗性使用抗凝药和糖尿病药物是导致老年人因药物不良反应就诊急诊室的最常见原因（3）。非治疗性使用镇静和催眠药物（如苯二氮卓类药物和止痛药）也会导致与药物有关的伤害。
+
+【危险因素参考】
+1.Schatz SN, Weber RJ.(2015) Adverse Drug Reactions.In: Lee MW and Murphy JE, Eds., PSAP 2015 Book 2 CNS/Pharmacy Practice, American College of Clinical Pharmacy, Lenexa, 5-26.
+1.Schatz SN, Weber RJ.(2015) Adverse Drug Reactions.In: Lee MW and Murphy JE, Eds., PSAP 2015 Book 2 CNS/Pharmacy Practice, American College of Clinical Pharmacy, Lenexa, 5-26.
+2.Montastruc J-L, Lafaurie M, de Canecaude C, et al.Fatal adverse drug reactions: A worldwide perspective in the World Health Organization pharmacovigilance database.Br J Clin Pharmacol.87(11):4334-4340, 2021.doi: 10.1111/bcp.14851
+2.Montastruc J-L, Lafaurie M, de Canecaude C, et al.Fatal adverse drug reactions: A worldwide perspective in the World Health Organization pharmacovigilance database.Br J Clin Pharmacol.87(11):4334-4340, 2021.doi: 10.1111/bcp.14851
+3.Budnitz DS, Shehab N, Lovegrove MC, et al.US emergency department visits attributed to medication harms, 2017-2019.JAMA.326 (13):1-11, 2021.doi: 10.1001/jama.2021.13844
+3.Budnitz DS, Shehab N, Lovegrove MC, et al.US emergency department visits attributed to medication harms, 2017-2019.JAMA.326 (13):1-11, 2021.doi: 10.1001/jama.2021.13844
+
+【药物不良反应的症状和体征】
+症状和体征可能在首次用药后即刻出现，也可能延迟显现或仅在长期用药后发生。这些症状和体征可能明显是由药物引起的，也可能过于细微，难以识别为与某种特定药物相关。
+过敏性药物不良反应通常不会在首次用药时发生。若出现超敏反应，再次用药后可能很快就发生药物不良反应。症状可包括瘙痒、皮疹、固定性药疹、伴呼吸困难的上呼吸道或下呼吸道水肿，和/或低血压。
+在老年患者中，不典型的药物不良反应可能导致功能状态衰退、精神状况改变、衰弱、食欲减退、意识模糊及抑郁。
+
+【药物不良反应的诊断】
+病史和体格检查
+病史和体格检查
+再激发的考虑
+再激发的考虑
+服药后不久出现的症状通常很容易与使用该药物有关。如果患者出现非特异性的症状，在开始对症处理之前总应作为ADRs考虑。
+诊断因长期使用药物而引起的症状需要相当程度的怀疑，而且通常很复杂。有时必须停药，但如果药物是治疗所必需且又没有可替代品时则成了难题。当药物与症状之间相关的证据非常重要时，应考虑再激发，除非是严重的过敏性反应。
+部分特定药物不良反应的诊断信息可参考药物超敏反应、药疹和过敏反应。
+美国的医疗保健专业人员应将大多数疑似药物不良反应上报至MedWatch（美国食品药品监督管理局的[FDA’s]药物不良反应监测计划），该系统是一个早期预警系统。MedWatch也监测ADRs的性质和发生频率的变化。鼓励在线报告ADR。有关报告药物不良反应的表格和信息可通过FDA不良事件报告系统（FAERS）获取。FAERS还可以作为一种检索工具，便于获取有关药物不良反应的数据。
+
+【药物不良反应的治疗】
+如有必要，停止使用药物
+如有必要，停止使用药物
+修改剂量
+修改剂量
+对于剂量相关的ADRs，调整给药剂量或消除/减少诱发因素可使其缓解。很少有必要提高药物的消除速率。有关特定药物和物质的毒性信息，请参阅表特定毒物的症状和治疗。
+对于药物超敏反应，大多数患者通常应停止用药且避免再次使用。对于过敏性的ADRs，通常需要改换使用不同的药物种类，有时遇到剂量相关性的ADRs也需要改换用药种类。在某些临床情况下，某种药物是最佳或唯一可用的治疗选择，可推荐预先使用抗组胺药或皮质类固醇（例如，在对某种特定药物或药物类别过敏的患者进行化疗前）或脱敏疗法（例如，对青霉素过敏的孕妇进行梅毒治疗）。
+有关某些特定药物不良反应的治疗信息，请参见药物超敏反应、药疹和过敏反应。
+
+【药物不良反应的预防】
+药物不良反应的防范需要熟悉药物及其可能的反应。ADRs的诸多诱因是可预防的（参见药物相关问题的可预防因素）。
+
+【药品相关问题的可预防原因】
+药品相关问题的可预防原因
+药物相互作用
+药物使用可能导致药物-药物、药物-食物、药物-补充剂或药物-疾病的相互作用，从而引发不良反应或降低疗效。
+监测不足
+某种医学问题虽然使用了正确的药物治疗，但未对患者并发症或疗效进行充分监测，或两者兼有。
+药物选择不当
+某种需要药物治疗的医学问题，正在使用一种对该问题而言非最优或无效的药物进行治疗。
+治疗不当
+患者正在服用一种缺乏医学合理理由的药物，或该药物的治疗风险超过了其潜在获益。
+患者缺乏医从性
+针对医疗问题处方了正确的药物，但患者没有按照医嘱服用。
+用药过量
+某种医学问题正在使用过量（即剂量过大）的正确药物治疗。
+沟通不良
+当在医疗服务提供者和/或机构之间转换时，若交接不畅，可能导致药物剂量不当、重复用药、继续使用不当或不当停用。
+用药剂量不足
+某种医学问题正在使用剂量不足的正确药物治疗。
+药物不良反应报告系统（如FAERS）向临床医生、患者、监管机构和生产商提供信息，可能有助于避免后续的药物不良反应。
+当通过电子病历系统开具药物时，可识别并预防药物相互作用。此外，许多药物相互作用计算工具可在线获取。同样，药房通常在配药前使用数字系统检查药物相互作用。
+对于老年人，必须仔细选择药物和初始剂量（1）。对于儿童，许多药物是按照体重给药的，因此在开具新药前应测量体重。
+已经发现多种基因与不良药物反应有关。例如，已发现多种影响细胞色素P450肝代谢的肝酶，其中许多受单核苷酸多态性影响，从而对广泛常用处方药的代谢产生具有临床意义的效应。因此，药物基因组学检测可能有助于预测、减少和最小化药物不良反应（ADR）（2、3、4）。一项针对预防药物不良反应的预防性药物基因组检测试验表明，与标准治疗相比，进行基因检测的患者发生药物不良反应的风险降低了33%（5）。然而，在常规临床实践中只使用了有限数量的此类测试（例如，基因型指导的华法林治疗 [6]）。
+
+【预防参考文献】
+1.2023 American Geriatrics Society Beers Criteria® Update Expert Panel. American Geriatrics Society 2023 updated AGS Beers Criteria® for potentially inappropriate medication use in older adults.J Am Geriatr Soc.2023; 71(7): 2052-2081.doi:10.1111/jgs.18372
+1.2023 American Geriatrics Society Beers Criteria® Update Expert Panel. American Geriatrics Society 2023 updated AGS Beers Criteria® for potentially inappropriate medication use in older adults.J Am Geriatr Soc.2023; 71(7): 2052-2081.doi:10.1111/jgs.18372
+2.Zhou Z-W, Chen X-W, Sneed KB, et al.Clinical association between pharmacogenomics and adverse drug reactions.Drugs.75:589-631, 2015.doi: 10.1007/s40265-015-0375-0
+2.Zhou Z-W, Chen X-W, Sneed KB, et al.Clinical association between pharmacogenomics and adverse drug reactions.Drugs.75:589-631, 2015.doi: 10.1007/s40265-015-0375-0
+3.Gerogianni K, Tsezou A, Dimas K.Drug-induced skin adverse reactions: The role of pharmacogenomics in their prevention.Mol Diagn Ther.22(3): 297-314, 2018.doi: 10.1007/s40291-018-0330-3
+3.Gerogianni K, Tsezou A, Dimas K.Drug-induced skin adverse reactions: The role of pharmacogenomics in their prevention.Mol Diagn Ther.22(3): 297-314, 2018.doi: 10.1007/s40291-018-0330-3
+4.Micaglio E, Locati ET, Monasky MM, et al.Role of pharmacogenetics in adverse drug reactions: An update towards personalized medicine.Front Pharmacol.12:651720, 2021 https://doi.org/10.3389/fphar.2021.651720
+4.Micaglio E, Locati ET, Monasky MM, et al.Role of pharmacogenetics in adverse drug reactions: An update towards personalized medicine.Front Pharmacol.12:651720, 2021 https://doi.org/10.3389/fphar.2021.651720
+5.Chenchula S, Atal S, Uppugunduri CRS.A review of real-world evidence on preemptive pharmacogenomic testing for preventing adverse drug reactions: a reality for future health care.Pharmacogenomics J.2024;24(2):9.Published 2024 Mar 15.doi:10.1038/s41397-024-00326-1
+5.Chenchula S, Atal S, Uppugunduri CRS.A review of real-world evidence on preemptive pharmacogenomic testing for preventing adverse drug reactions: a reality for future health care.Pharmacogenomics J.2024;24(2):9.Published 2024 Mar 15.doi:10.1038/s41397-024-00326-1
+6.Bardolia C, Matos A, Michaud V, et al.Utilizing pharmacogenomics to educe adverse drug events.Am J Biomed Sci & Res.11(3).doi: 10.34297/AJBSR.2020.11.00163
+6.Bardolia C, Matos A, Michaud V, et al.Utilizing pharmacogenomics to educe adverse drug events.Am J Biomed Sci & Res.11(3).doi: 10.34297/AJBSR.2020.11.00163

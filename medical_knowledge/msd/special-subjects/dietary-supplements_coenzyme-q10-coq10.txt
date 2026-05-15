@@ -1,0 +1,44 @@
+标题：辅酶Q10(CoQ10)
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/coenzyme-q10-coq10
+============================================================
+
+辅酶Q10（CoQ10，辅酶Q）是一种抗氧化剂，人体可自己合成，也是线粒体三磷酸腺苷（ATP）生成的辅助因子。老年人及患有慢性疾病的人群（如心脏病、癌症、帕金森病、糖尿病、HIV 感染和肌营养不良症）体内的辅酶 Q10水平似乎较低。但辅酶Q10低水平同这些疾病是否相关尚不明确。丰富的膳食来源是肉、鱼和植物油。
+
+【辅酶Q10功效宣称】
+辅酶Q10因其抗氧化作用和在能量代谢中的功能而被认为是有益的。特殊的作用包括刺激免疫而产生的抗癌效应、在糖尿病患者中减少胰岛素的需求、减缓帕金森病的进程、在心衰治疗中的疗效以及对蒽环类药物心脏毒性的保护作用。最突出是可能改善，有助于改善心脑血管疾病的内皮细胞功能障碍。尽管部分初步研究表明辅酶Q10可能对这些疾病具有一定治疗作用，但结果尚不明确，仍需更多证据支持。
+
+【辅酶Q10证据】
+2012年荟萃分析评估5个随机对照试验，共194例，发现血管内皮功能显著显著，如血流介导的外周动脉扩张 (1)。
+一项2013年基于随机对照试验的荟萃分析表明，辅酶Q10可以改善患者的心脏衰竭功能状态 (2)。 然而，这个荟萃分析所包括的 试验样本小，治疗时间短。
+2014年随机，对照，包括420例心脏衰竭患者的多中心研究表明，每日三次口服辅酶Q10，100毫克，作为辅助治疗，安全，有助于缓解症状，降低主要心血管事件发生 (3)。
+一项对11项研究（1573名受试者）的Cochrane综述认为，有中等质量的证据表明，CoQ10可降低全因死亡率和心衰住院率；然而，没有令人信服的证据支持或反驳使用CoQ10治疗心衰（4)。
+然而，一项2017年对14项随机对照试验进行的荟萃分析表明，辅酶Q10使用者的运动耐力优于安慰剂组，且死亡率更低（5）。在一项针对216名射血分数保留型心力衰竭（HFpEF）患者的随机试验中，与安慰剂相比，每日服用泛醇（辅酶Q10的还原形式）联合或不联合D-核糖的12周方案，改善了堪萨斯城心肌病问卷（KCCQ）评分、活力水平、射血分数，并降低了B型利钠肽水平（6）。
+另一个争议是补充辅酶 Q10 是否会减少他汀类药物相关的肌肉症状。部分研究显示肌肉症状改善，而其他研究则未观察到。一项2018年对随机试验的荟萃分析发现，与安慰剂相比，服用辅酶Q10的患者报告肌肉疼痛、无力、痉挛和疲劳症状显著减轻。然而，由于纳入研究的异质性，这种分析受到限制（7）。
+
+【辅酶Q10的不良反应】
+偶有胃肠道（腹痛、恶心和呕吐）和中枢神经系统症状（头昏、畏光、易激惹和头痛）的个案报道。其他副作用包括瘙痒、皮疹、疲劳、流感样症状。
+
+【辅酶Q10的药物相互作用】
+辅酶Q10可能降低对华法林的反应。
+辅酶Q10可能与一些抗高血压和化疗药物相互作用。
+
+【参考文献】
+1.Gao L, Mao Q, Cao J, et al.Effects of coenzyme Q10 on vascular endothelial function in humans: a meta-analysis of randomized controlled trials.动脉粥样硬化。221(2):311-316, 2012.doi: 10.1016/j.atherosclerosis.2011.10.027
+1.Gao L, Mao Q, Cao J, et al.Effects of coenzyme Q10 on vascular endothelial function in humans: a meta-analysis of randomized controlled trials.动脉粥样硬化。221(2):311-316, 2012.doi: 10.1016/j.atherosclerosis.2011.10.027
+2.Fotino AD, Thompson-Paul AM, Bazzano LA: Effect of coenzyme Q10 supplementation on heart failure: a meta-analysis.Am J Clin Nutr.97(2):268-275, 2013.doi: 10.3945/ajcn.112.040741
+2.Fotino AD, Thompson-Paul AM, Bazzano LA: Effect of coenzyme Q10 supplementation on heart failure: a meta-analysis.Am J Clin Nutr.97(2):268-275, 2013.doi: 10.3945/ajcn.112.040741
+3.Mortensen SA, Rosenfeldt F, Kumar A, et al.The effect of coenzyme Q10 on morbidity and mortality in chronic heart failure results from Q-SYMBIO: a randomized double-blind trial.JACC Heart Fail.2(6):641-649, 2014.doi:10.1016/j.jchf.2014.06.008
+3.Mortensen SA, Rosenfeldt F, Kumar A, et al.The effect of coenzyme Q10 on morbidity and mortality in chronic heart failure results from Q-SYMBIO: a randomized double-blind trial.JACC Heart Fail.2(6):641-649, 2014.doi:10.1016/j.jchf.2014.06.008
+4.Al Saadi T, Assaf Y, Farwati M, et al.Coenzyme Q10 for heart failure.Cochrane Database Syst Rev.(2)(2):CD008684, 2021.doi:10.1002/14651858.CD008684.pub3
+4.Al Saadi T, Assaf Y, Farwati M, et al.Coenzyme Q10 for heart failure.Cochrane Database Syst Rev.(2)(2):CD008684, 2021.doi:10.1002/14651858.CD008684.pub3
+5.Lie L, Liu Y.Efficacy of coenzyme Q10 in patients with cardiac failure: a meta-analysis of clinical trials.BMC Cardiovasc Disord.17(1):196, 2017.doi: 10.1186/s12872-017-0628-9
+5.Lie L, Liu Y.Efficacy of coenzyme Q10 in patients with cardiac failure: a meta-analysis of clinical trials.BMC Cardiovasc Disord.17(1):196, 2017.doi: 10.1186/s12872-017-0628-9
+6.Pierce JD, Shen Q, Mahoney DE, et al.Effects of Ubiquinol and/or D-ribose in Patients With Heart Failure With Preserved Ejection Fraction.Am J Cardiol.2022;176:79-88.doi:10.1016/j.amjcard.2022.04.031
+6.Pierce JD, Shen Q, Mahoney DE, et al.Effects of Ubiquinol and/or D-ribose in Patients With Heart Failure With Preserved Ejection Fraction.Am J Cardiol.2022;176:79-88.doi:10.1016/j.amjcard.2022.04.031
+7.Qu H, Guo M, Chai H, et al.Effects of coenzyme Q10 on statin-induced myopathy: an updated meta-analysis of randomized controlled trials.J Am Heart Assoc.2;7(19):e009835, 2018.doi: 10.1161/JAHA.118.009835
+7.Qu H, Guo M, Chai H, et al.Effects of coenzyme Q10 on statin-induced myopathy: an updated meta-analysis of randomized controlled trials.J Am Heart Assoc.2;7(19):e009835, 2018.doi: 10.1161/JAHA.118.009835
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: CoQ10
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: CoQ10

@@ -1,0 +1,130 @@
+标题：18三体综合征
+来源：https://www.msdmanuals.cn/professional/pediatrics/chromosome-and-gene-abnormalities/trisomy-18
+============================================================
+
+(参见染色体异常概述。)
+18三体，也被称为爱德华兹综合征，是一种染色体疾病，由额外的18号染色体引起，其特征是多种先天性异常、严重的发育迟缓和高围产期死亡率。
+大约每10,000次妊娠中有4.1例会出现18-三体综合征（基于胎儿异常、死产和活产的人工流产数据）（1）。其中高于95%的患儿是完全型18三体 (2)。这条多余的染色体几乎总是来自于母体，且高龄产妇的生育风险显著增加。虽然大多数病例是由于不分离，额外的18号染色体物质可能很少出现作为易位的结果。女性与男性的患病比例为3：1。
+受影响的婴儿中，存活超过一周岁的不足10%（3）。
+
+【参考文献】
+1.Goel N, Morris JK, Tucker D, et al.Trisomy 13 and 18-Prevalence and mortality-A multi-registry population based analysis.Am J Med Genet A.2019;179(12):2382-2392.doi:10.1002/ajmg.a.61365
+1.Goel N, Morris JK, Tucker D, et al.Trisomy 13 and 18-Prevalence and mortality-A multi-registry population based analysis.Am J Med Genet A.2019;179(12):2382-2392.doi:10.1002/ajmg.a.61365
+2.Alberman E, Mutton D, Morris JK.Cytological and epidemiological findings in trisomies 13, 18, and 21: England and Wales 2004-2009.Am J Med Genet A.2012;158A(5):1145-1150.doi:10.1002/ajmg.a.35337
+2.Alberman E, Mutton D, Morris JK.Cytological and epidemiological findings in trisomies 13, 18, and 21: England and Wales 2004-2009.Am J Med Genet A.2012;158A(5):1145-1150.doi:10.1002/ajmg.a.35337
+3.Cereda A, Carey JC.The trisomy 18 syndrome.Orphanet J Rare Dis.2012;7:81.Published 2012 Oct 23.doi:10.1186/1750-1172-7-81
+3.Cereda A, Carey JC.The trisomy 18 syndrome.Orphanet J Rare Dis.2012;7:81.Published 2012 Oct 23.doi:10.1186/1750-1172-7-81
+
+【18 三体综合征的症状和体征】
+产前超声检查和其他胎儿检查的典型发现包括羊水过多、胎盘小、单脐动脉和胎儿生长受限。
+出生体重低，肌张力低下，骨骼肌和皮下脂肪明显发育不全。
+患儿哭声低下，对声音刺激反应低下。眶嵴发育不全、睑裂较短、嘴和下颌偏小，这些特征共同使得面部呈现夹紧外观。常见的特征包括：小头畸形、高枕部、低位畸形耳、骨盆狭窄和胸骨短小。
+握拳时食指与三指、四指交叠的情况经常发生。 第 5 指的远端折痕通常不存在。 常见表现为皮肤褶皱过多，尤以颈后部为著。指甲发育不良，大脚趾短小且常背屈。常见马蹄足和摇篮底足。
+患儿多伴有严重的先天性心脏病特别是动脉导管未闭和室间隔缺损。多见肺，膈肌，胃肠道，腹壁，肾脏及输尿管的异常。男孩可能有隐睾。
+大约30%的18三体患者有癫痫发作（全身性、局灶性或混合性）（1）。
+常见的肌肉表现包括疝气，腹壁直肌的分离，或二者兼有。
+这张照片显示18三体综合征婴儿的手。注意握紧的拳头和轴后多指趾。
+这张照片显示18三体综合征婴儿的手。注意握紧的拳头和轴后多指趾。
+Image courtesy of Nina Powell-Hamilton, MD, FAAP, FACMG.
+Image courtesy of the Centers for Disease Control and Prevention Public Health Image Library.
+Image courtesy of the Centers for Disease Control and Prevention Public Health Image Library.
+Image courtesy of the Centers for Disease Control and Prevention Public Health Image Library.
+这张照片显示18三体综合征婴儿的手。注意握紧的拳头和轴后多指趾。
+这张照片显示18三体综合征婴儿的手。注意握紧的拳头和轴后多指趾。
+Image courtesy of Nina Powell-Hamilton, MD, FAAP, FACMG.
+Image courtesy of the Centers for Disease Control and Prevention Public Health Image Library.
+Image courtesy of the Centers for Disease Control and Prevention Public Health Image Library.
+Image courtesy of the Centers for Disease Control and Prevention Public Health Image Library.
+
+【症状和体征】
+1.Jaspersen SL, Bruns DA, Candee MS, Battaglia A, Carey JC, Fishler KP.Seizures in trisomy 18: Prevalence, description, and treatment.Am J Med Genet A.2023;191(4):1026-1037.doi:10.1002/ajmg.a.63113
+1.Jaspersen SL, Bruns DA, Candee MS, Battaglia A, Carey JC, Fishler KP.Seizures in trisomy 18: Prevalence, description, and treatment.Am J Med Genet A.2023;191(4):1026-1037.doi:10.1002/ajmg.a.63113
+
+【18 三体的诊断】
+产前绒毛取样和/或羊膜穿刺术行核型分析，荧光原位杂交(FISH)和/或染色体微阵列分析进行细胞遗传学检测。
+产前绒毛取样和/或羊膜穿刺术行核型分析，荧光原位杂交(FISH)和/或染色体微阵列分析进行细胞遗传学检测。
+（参见下一代测序。）
+18-三体综合征的诊断可在出生后通过外观发现，或产前超声检查（如四肢异常和胎儿生长受限）而被怀疑，亦可通过多标记筛查或无创产前筛查（NIPS）利用母体血样中的游离胎儿DNA分析进行筛查（1）。与 21 三体相比，NIPS 对 18 三体的敏感性和特异性相对较低。管理决策不应仅基于NIPS结果。
+产前确诊需通过羊膜穿刺术或者绒毛膜取样获取样本后进行细胞遗传学检测（核型分析、荧光原位杂交分析和/或染色体微阵列分析）；若患者孕期不愿接受额外操作，则可在产后通过新生儿外周血检测进行诊断。在绒毛膜取样中检测到 18 三体时，可能需要进一步通过羊膜穿刺或产后检测进行评估，因为这种三体可能代表仅限于胎盘的嵌合体，即胎盘存在非整倍体，而胎儿中未检出。
+该核型显示一条额外的18号染色体（箭头）。
+RICHARD J.GREEN/SCIENCE PHOTO LIBRARY
+
+【诊断参考文献】
+1.American College of Obstetricians and Gynecologists’ Committee on Practice Bulletins—Obstetrics; Committee on Genetics; Society for Maternal-Fetal Medicine: Screening for fetal chromosomal abnormalities: ACOG Practice Bulletin, Number 226.Obstet Gynecol136(4):e48-e69, 2020.doi: 10.1097/AOG.0000000000004084
+1.American College of Obstetricians and Gynecologists’ Committee on Practice Bulletins—Obstetrics; Committee on Genetics; Society for Maternal-Fetal Medicine: Screening for fetal chromosomal abnormalities: ACOG Practice Bulletin, Number 226.Obstet Gynecol136(4):e48-e69, 2020.doi: 10.1097/AOG.0000000000004084
+
+【18 三体的治疗】
+支持治疗
+支持治疗
+潜在的遗传异常无法治愈。
+患有18三体综合征的儿童存在显著的发育迟缓和残疾，且出生第一年内死亡率很高，因此对于通过多次侵入性手术矫正各种相关畸形存在争议。
+通常需要多学科护理。18三体的推荐治疗方案通常包括姑息治疗和延长生命的干预措施，例如针对喂养困难（鼻胃或胃造口管喂养）的无创支持、呼吸窘迫的管理以及疼痛或癫痫发作的治疗，这些都是根据患者个人和家庭的偏好量身定制的。
+尽早进行物理、语言和喂养治疗非常重要。对家庭的支持是至关重要的。
+
+【18 三体并发症筛查】
+对部分相关畸形的治疗提高了某些18-三体综合征患者的生存率，这也使得人们认识到其罹患实体器官肿瘤的风险增加（例如，肝母细胞瘤、肾母细胞瘤）。由于早期识别这些肿瘤和其他异常对于成功治疗（如果需要）很重要，因此建议定期监测。尽管具体细节主要基于一个中心的专家意见，但有一个公布的肿瘤和其他并发症的监测方案，许多专家认为这是合理的 (1)。（参见表18-三体综合征监测协议。）
+如果筛查发现异常，应将儿童转诊给适当的专家。
+
+【18-三体综合征的监测协议】
+18-三体综合征的监测协议
+监控建议
+妊娠19周时的超声检查
+若确诊18-三体综合征或超声检查异常，建议进行胎儿超声心动图检查
+产后检查
+外部异常的体格检查
+全血细胞计数及分类计数
+心脏超声检查
+全腹部超声检查，包括泌尿系统（出生后 48-72 小时）*，†
+颅脑超声和/或MRI
+小儿眼科医生的早期筛查
+气道评估，可能包括睡眠研究
+基线血清 AFP 水平
+0～12 个月大
+3、6、9 和 12 个月大时的全腹部超声检查
+3、6、9 和 12 个月大时的血清 AFP 水平
+频繁的喂养评估
+6-8 个月大的听力学检查
+牙科筛查
+1-4岁
+每年进行眼科评估
+2 岁后，每年进行一次骨科检查和脊柱 X 光检查
+每3-4个月的血清AFP水平
+每3个月进行一次腹部超声检查，直至4岁
+每6个月进行一次牙科评估
+4-7岁
+每年进行眼科评估
+年度骨科检查和脊柱 X 光检查
+每6个月进行一次腹部超声检查
+每3个月进行一次肾脏超声检查，直至7岁
+每 6 个月进行一次牙科评估
+7-12岁
+每年进行眼科评估
+每年进行骨科检查
+每6个月进行一次腹部超声检查，直至12岁
+癫痫发作、行为改变和正常性发育（包括女性月经）的临床评估‡
+≥ 12 岁
+每年进行眼科评估
+每年进行骨科检查
+* 若产前超声显示或提示肾积水但产后超声正常，应在出生后4至6周进行肾脏超声检查。
+† 如果在初次或随后的超声检查中出现泌尿系统异常，通常会进行排尿性膀胱尿道造影。
+‡原发性或继发性闭经的风险。
+AFP = 甲胎蛋白。
+Data fromKepple JW, Fishler KP, Peeples ES: Surveillance guidelines for children with trisomy 18.Am J Med Genet A185(4):1294–1303, 2021.doi: 10.1002/ajmg.a.62097
+* 若产前超声显示或提示肾积水但产后超声正常，应在出生后4至6周进行肾脏超声检查。
+† 如果在初次或随后的超声检查中出现泌尿系统异常，通常会进行排尿性膀胱尿道造影。
+‡原发性或继发性闭经的风险。
+AFP = 甲胎蛋白。
+Data fromKepple JW, Fishler KP, Peeples ES: Surveillance guidelines for children with trisomy 18.Am J Med Genet A185(4):1294–1303, 2021.doi: 10.1002/ajmg.a.62097
+
+【治疗参考文献】
+1.Kepple JW, Fishler KP, Peeples ES: Surveillance guidelines for children with trisomy 18.Am J Med Genet A185(4):1294–1303, 2021.doi: 10.1002/ajmg.a.62097
+1.Kepple JW, Fishler KP, Peeples ES: Surveillance guidelines for children with trisomy 18.Am J Med Genet A185(4):1294–1303, 2021.doi: 10.1002/ajmg.a.62097
+
+【18 三体症的预后】
+超过50%的儿童在出生第一周内死亡；不足10%能存活满周岁（1）。然而，现在有关于患有 18 三体综合征的成年人的报告（2）。
+
+【预后参考】
+1.Rasmussen SA, Wong LY, Yang Q, et al.Population-based analyses of mortality in trisomy 13 and trisomy 18.Pediatrics.2003;111(4 Pt 1):777-784.doi:10.1542/peds.111.4.777
+1.Rasmussen SA, Wong LY, Yang Q, et al.Population-based analyses of mortality in trisomy 13 and trisomy 18.Pediatrics.2003;111(4 Pt 1):777-784.doi:10.1542/peds.111.4.777
+2.Cereda A, Carey JC.The trisomy 18 syndrome.Orphanet J Rare Dis.2012;7:81.Published 2012 Oct 23.doi:10.1186/1750-1172-7-81
+2.Cereda A, Carey JC.The trisomy 18 syndrome.Orphanet J Rare Dis.2012;7:81.Published 2012 Oct 23.doi:10.1186/1750-1172-7-81

@@ -1,0 +1,72 @@
+标题：腰椎间盘突出症
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/neck-and-back-pain/lumbar-disc-herniation
+============================================================
+
+脊椎椎骨经由软骨盘分隔，后者由外部的纤维软骨环和内部的髓核构成。当出现变性改变时（伴或不伴有外伤）可引起腰椎或颈椎处的髓核自纤维环突出或破裂，髓核可向后外侧或后方突入硬膜外间隙。
+神经根病当突出的髓核压迫或刺激神经根时发生。后突可能压迫颈、胸、上腰椎脊髓或马尾，特别是在先天性椎管狭窄（椎管狭窄）。在腰椎区，大多数椎间盘破裂影响L5或S1神经根。
+椎间盘突出很常见。
+
+【腰椎间盘突出症的症状和体征】
+椎间盘突出常不引起临床症状，或者引起受累神经根分布区的症状和体征。疼痛症状往往突然发生，卧床休息和改变活动往往能缓解背部疼痛。相比之下，由硬膜外肿瘤或脓肿引起的神经根疼痛开始时更加隐蔽，背部疼痛通常在夜间卧床时更严重。
+由于括约肌功能丧失，症状性马尾受压常导致尿潴留或尿失禁。
+腰骶椎间盘突出症患者，咳嗽、打喷嚏和坐着、前屈等活动加重疼痛。
+T-2加权MRI扫描中比较正常椎间盘（蓝色箭头）和腰椎间盘突出的解剖结构。椎间盘突出位于L4和L5椎体之间（红色箭头），压迫从脊髓延伸出来的脊神经，导致局部或放射性的压力和疼痛。
+© Springer Science+Business Media
+
+【腰椎间盘突出症的诊断】
+MRI或CT
+MRI或CT
+通常通过病史和体格检查怀疑诊断，并通过 MRI 或 CT 确诊。
+体格检查应包括对力量、感觉和反射的评估。还应进行硬脑膜张力测试。
+检查时，患者取仰卧位，双腿伸直，抬腿可引起疼痛沿大腿后侧放射至膝盖以下（直腿抬腿试验）。疼痛可能是双侧的，伴有中央椎间盘突出。
+坐着时伸直膝盖也会产生类似的疼痛（坐直抬腿测试）。这种测试的一种变体是，患者坐着伸直膝盖，脚背屈，腰部向前弯曲，称为坍落度测试。
+在上腰椎间盘突出症（L1-2，L2-3）中，在患者俯卧的情况下，在臀部伸展腿会导致疼痛辐射到大腿前部（股骨拉伸测试）。
+跟腱和髌骨反射可能减弱或消失。
+CT、MRI检查可以明确病因和确切的受累平面。在极少数情况下（例如MRI检查禁忌且CT不能确定诊断），CT脊髓造影术是必要的。如果疼痛已经持续至少两周，电诊断测试可能有助于识别受影响的根部。早期测试可能会导致假阴性结果。
+由于无症状的椎间盘突出是常见的，临床医生必须仔细地将症状和体格检查结果与MRI异常联系起来，然后再考虑进行侵入性手术。
+
+【腰椎间盘突出症的治疗】
+首选保守治疗
+首选保守治疗
+出现进行性或严重的神经功能缺损症状时考虑侵入性治疗，有时包括手术
+出现进行性或严重的神经功能缺损症状时考虑侵入性治疗，有时包括手术
+由于椎间盘突出会在6 - 9个月内发生干燥并重新吸收（1），所以无论如何治疗，症状往往会减轻。超过85%的椎间盘突出患者可在大约6周内不通过手术而自行恢复 (2)。
+
+【保守治疗】
+通常仅对患者行保守治疗，除非神经功能障碍渐进性加重或症状十分严重 (3)。限制重体力活动或剧烈体力活动，但允许行走和轻度活动（例如，使用正确的技术举起< 2.5至5公斤[约5至10磅]的物体）；不建议长时间卧床休息和牵引。
+应根据需要使用对乙酰氨基酚、其他非甾体抗炎药（NSAIDs）、镇痛药来缓解疼痛。如果使用非阿片类镇痛药不能缓解症状，有时可全身或硬膜外注射皮质类固醇；然而，它们对腰椎间盘突出症的疗效尚不明确。此外，镇痛效果往往是适度的，且充其量也只是暂时的（4）。可以使用的口服甲基泼尼松龙逐渐减量方案的一个例子是，从每天 24 毫克开始，每天减少 4 毫克，在 6 天内完成。
+在某些患者中，加巴喷丁和阿米替林可用于治疗难治性神经性疼痛。
+物理治疗和运动可以改善姿势和增强背部肌肉，并进一步减少脊髓活动所致神经根压迫或激惹。
+
+【手术治疗】
+以下情况应考虑手术治疗：
+持续或进行性加重的神经系统损害，尤其是颈椎或腰椎神经根病引起的客观性缺损（如无力、反射功能缺损等）时。
+持续或进行性加重的神经系统损害，尤其是颈椎或腰椎神经根病引起的客观性缺损（如无力、反射功能缺损等）时。
+急性脊髓压迫或马尾神经压综合征
+急性脊髓压迫或马尾神经压综合征
+剧烈的、难治性神经根痛或感觉缺损。
+剧烈的、难治性神经根痛或感觉缺损。
+如果脊髓压迫的临床表现与MRI异常相关，则需要立即进行手术评估。
+通常可选择显微镜下椎间盘切除术或椎板切除术而达到祛除脱出物质的目的。经皮穿刺祛除椎间盘膨出物这一方法仍处于评估中。
+不推荐通过局部注射木瓜凝乳蛋白酶来溶解脱出的椎间盘。
+如果病变急性压迫脊髓或马尾（如，引起尿潴留或尿失禁），需尽快进行手术处理（见脊髓压迫的诊断）。
+
+【治疗参考文献】
+1.Zou T, Liu XY, Wang PC, et al.Incidence of Spontaneous Resorption of Lumbar Disc Herniation: A Meta-analysis.Clin Spine Surg.2024;37(6):256-269.doi:10.1097/BSD.0000000000001490
+1.Zou T, Liu XY, Wang PC, et al.Incidence of Spontaneous Resorption of Lumbar Disc Herniation: A Meta-analysis.Clin Spine Surg.2024;37(6):256-269.doi:10.1097/BSD.0000000000001490
+2.Kreiner DS, Hwang SW, Easa JE, et al.An evidence-based clinical guideline for the diagnosis and treatment of lumbar disc herniation with radiculopathy.Spine J.2014;14(1):180-191.doi:10.1016/j.spinee.2013.08.003
+2.Kreiner DS, Hwang SW, Easa JE, et al.An evidence-based clinical guideline for the diagnosis and treatment of lumbar disc herniation with radiculopathy.Spine J.2014;14(1):180-191.doi:10.1016/j.spinee.2013.08.003
+3.Qaseem A, Wilt TJ, McLean RM, et al.Noninvasive Treatments for Acute, Subacute, and Chronic Low Back Pain: A Clinical Practice Guideline From the American College of Physicians.Ann Intern Med.2017;166(7):514-530.doi:10.7326/M16-2367
+3.Qaseem A, Wilt TJ, McLean RM, et al.Noninvasive Treatments for Acute, Subacute, and Chronic Low Back Pain: A Clinical Practice Guideline From the American College of Physicians.Ann Intern Med.2017;166(7):514-530.doi:10.7326/M16-2367
+4.Chou R, Pinto RZ, Fu R, et al.Systemic corticosteroids for radicular and non-radicular low back pain.Cochrane Database Syst Rev.2022;10(10):CD012450.Published 2022 Oct 21.doi:10.1002/14651858.CD012450.pub2
+4.Chou R, Pinto RZ, Fu R, et al.Systemic corticosteroids for radicular and non-radicular low back pain.Cochrane Database Syst Rev.2022;10(10):CD012450.Published 2022 Oct 21.doi:10.1002/14651858.CD012450.pub2
+椎间盘突出是常见的，通常影响L5或S1的神经根。
+椎间盘突出是常见的，通常影响L5或S1的神经根。
+因为大多数椎间盘突出会在6 - 9个月内重新吸收，所以无论如何治疗，症状都趋于改善。
+因为大多数椎间盘突出会在6 - 9个月内重新吸收，所以无论如何治疗，症状都趋于改善。
+根据病史和体格检查结果进行诊断，并通过MRI或CT确诊。
+根据病史和体格检查结果进行诊断，并通过MRI或CT确诊。
+如果症状突然出现且背疼在休息后可缓解，应考虑是椎间盘突出 。
+如果症状突然出现且背疼在休息后可缓解，应考虑是椎间盘突出 。
+建议使用止痛剂，在可容忍的情况下进行轻度活动，并通过锻炼来改善姿势和力量；然而，如果疼痛或缺陷严重或恶化，考虑手术治疗。
+建议使用止痛剂，在可容忍的情况下进行轻度活动，并通过锻炼来改善姿势和力量；然而，如果疼痛或缺陷严重或恶化，考虑手术治疗。

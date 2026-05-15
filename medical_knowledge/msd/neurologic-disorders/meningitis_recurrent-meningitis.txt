@@ -1,0 +1,27 @@
+标题：复发性脑膜炎
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/meningitis/recurrent-meningitis
+============================================================
+
+复发性脑膜炎通常是由细菌，病毒，或非感染性因素引起的。
+(参见脑膜炎概述。）
+
+【反复病毒性脑膜炎】
+复发病毒性脑膜炎最常见的原因为
+单纯疱疹病毒2型（HSV-2；被称为莫拉雷脑膜炎）
+单纯疱疹病毒2型（HSV-2；被称为莫拉雷脑膜炎）
+一般来说，HSV-2感染患者表现为3次以上发作发热，颈项强直，脑脊液（CSF）淋巴细胞数增多;每次发作持续2〜5天，可自行好转。大约三分之一的2型单纯疱疹病毒脑膜炎患者报告有病毒性脑膜炎史（1）。 患者也可以有其他神经系统缺损（例如，感觉异常，癫痫，颅神经麻痹），提示脑膜脑炎。
+如有可能，需治疗病因。莫拉雷脑膜炎用阿昔洛韦治疗。大多数患者完全恢复。
+
+【复发性急性细菌性脑膜炎】
+若急性细菌性脑膜炎感染是经由先天或后天颅底部、脊柱缺陷所致，且该缺陷未得到修补，则急性细菌性脑膜炎也可再次发作。如果损伤是由损伤引起的，脑膜炎可能许多年后才表现出来。
+如果患者有复发性细菌性脑膜炎，临床医生应仔细检查这些缺陷。高分辨率CT通常可显示颅骨缺损。 临床医师应检查患者腰背部的韧窝或丱，这可能提示存在脊椎的缺陷（如脊柱裂）。
+较为少见的是，复发性细菌性脑膜炎（通常是由于肺炎链球菌或脑膜炎奈瑟菌）是由于补体系统的缺陷。治疗与无补体系统缺陷的患者一样。接种S. pneumoniae肺炎链球菌和N. meningitidis脑膜炎奈瑟菌疫苗（根据疾病预防和控制中心[CDC]的推荐对补体缺陷的病人接种）可减少感染的可能性。
+复发性细菌性脑膜炎要用抗生素和地塞米松治疗。
+
+【其他复发性脑膜炎】
+急性脑膜炎继发于非甾体抗炎药（NSAIDs）或其他药物时，若致病药物再次使用脑膜炎可能复发。
+脑囊肿破裂引起的脑膜炎也可能复发。
+
+【参考文献】
+1.Jakobsen A, Skov MT, Larsen L, et al; DASGIB Study Group.Herpes simplex virus 2 meningitis in adults: A prospective, nationwide, population-based cohort study.Clin Infectious Dis.75(5):753–760, 2022.https://doi.org/10.1093/cid/ciab1071
+1.Jakobsen A, Skov MT, Larsen L, et al; DASGIB Study Group.Herpes simplex virus 2 meningitis in adults: A prospective, nationwide, population-based cohort study.Clin Infectious Dis.75(5):753–760, 2022.https://doi.org/10.1093/cid/ciab1071

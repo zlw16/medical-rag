@@ -1,0 +1,27 @@
+标题：灵芝
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/reishi
+============================================================
+
+灵芝（灵芝) 是一种真菌，在中国、日本、韩国和其他亚洲国家的传统医疗系统中被使用。灵芝补充剂有胶囊、片剂、提取物、粉末和茶剂。
+
+【灵芝的功效宣称】
+据说灵芝可以治疗胆固醇水平升高或其他高脂血症。据说它们还能提高免疫系统，增加力量和耐力，治疗癌症，并治疗男性的下尿路症状。
+
+【灵芝的证据】
+2016 年 Cochrane 系统综述纳入了 5 项关于灵芝用于癌症治疗的随机对照试验，共 373 例患者（1）。分析发现，在化疗/放疗的同时接受灵芝治疗的病人，与那些单独接受化疗/放疗的病人相比，治疗后的肿瘤消退程度更大，生活质量也得到了改善。单独使用灵芝治疗并没有显示出好处。没有生存获益的证据 。
+对癌症患者使用不同药用蘑菇的系统性综述报告称，灵芝可能改善身体症状和生活质量，尽管纳入的研究存在显著异质性（2）。
+灵芝可能对登革热病毒、肠道病毒、其他病毒和微生物具有潜在的抗病毒作用（3）。
+
+【灵芝的不良反应】
+已有关于恶心、失眠、肝脏毒性、厌食和慢性腹泻的报道。尽管已有关于长期使用安全性的报告，但尚无关于灵芝在妊娠期或哺乳期使用的信息。
+
+【灵芝的药物相互作用】
+灵芝可能会增加使用抗血小板和抗凝血药物治疗的病人的出血风险。它还可能与抗高血压药一起产生低血压，与抗高血糖药一起产生附加性低血糖症。
+
+【参考文献】
+1.Jin X, Ruiz Beguerie J, Sze DM, Chan GC.Ganoderma lucidum(Reishi mushroom) for cancer treatment.Cochrane Database Syst Rev.4(4):CD007731, 2016.Published 2016 Apr 5.doi:10.1002/14651858.CD007731.pub3
+1.Jin X, Ruiz Beguerie J, Sze DM, Chan GC.Ganoderma lucidum(Reishi mushroom) for cancer treatment.Cochrane Database Syst Rev.4(4):CD007731, 2016.Published 2016 Apr 5.doi:10.1002/14651858.CD007731.pub3
+2.Narayanan S, de Mores AR, Cohen L, Anwar MM, Lazar F, Hicklen R, Lopez G, Yang P, Bruera E.Medicinal Mushroom Supplements in Cancer: A Systematic Review of Clinical Studies.Curr Oncol Rep.2023 Jun;25(6):569-587.doi: 10.1007/s11912-023-01408-2
+2.Narayanan S, de Mores AR, Cohen L, Anwar MM, Lazar F, Hicklen R, Lopez G, Yang P, Bruera E.Medicinal Mushroom Supplements in Cancer: A Systematic Review of Clinical Studies.Curr Oncol Rep.2023 Jun;25(6):569-587.doi: 10.1007/s11912-023-01408-2
+3.El Sheikha AF.Nutritional Profile and Health Benefits of Ganoderma lucidum "Lingzhi, Reishi, or Mannentake" as Functional Foods: Current Scenario and Future Perspectives.Foods.2022 Apr 1;11(7):1030.doi: 10.3390/foods11071030
+3.El Sheikha AF.Nutritional Profile and Health Benefits of Ganoderma lucidum "Lingzhi, Reishi, or Mannentake" as Functional Foods: Current Scenario and Future Perspectives.Foods.2022 Apr 1;11(7):1030.doi: 10.3390/foods11071030

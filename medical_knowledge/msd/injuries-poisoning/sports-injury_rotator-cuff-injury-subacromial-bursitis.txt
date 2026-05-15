@@ -1,0 +1,187 @@
+标题：肩袖损伤/肩峰下滑囊炎
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/sports-injury/rotator-cuff-injury-subacromial-bursitis
+============================================================
+
+肩袖由冈上肌、冈下肌、小圆肌和肩胛下肌（SITS）组成，连同肱三头肌和肱二头肌，其功能为在许多手臂举过头的运动时（如，投掷、游泳、举重和挥拍球类运动）起到协助稳定肩胛骨关节窝中肱骨头的作用。
+
+【肩袖损伤的病因】
+肩袖损伤既可以是急性或慢性的运动损伤，也可发生于与运动无关的情况（例如体力劳动中反复进行的过头活动），甚至可见于无明显过度使用史或明确诱因的人群（1）。
+肩袖损伤是一种急性单纯肌肉外伤性损伤。肩袖肌腱病通常源于冈上肌腱在肱骨头与喙肩弓之间长期受到挤压（喙肩弓由肩峰、肩锁关节、喙突以及喙肩韧带构成）。需将上臂重复举起并高于头部的运动，如棒球投球、举重物超过肩膀，参与球拍类打球运动、自由泳、蝶泳、仰泳，均增加损伤风险。
+冈上肌肌腱特别容易损伤，因为它在大结节插入区附近有个血管下区。炎症反应和水肿协同作用使肩峰下空间更加狭窄，加重疼痛刺激或损伤。若这一过程未被阻止，则炎症结果可使肩袖出现部分或全部撕裂。退行性肩袖肌腱炎在年龄>40岁的非运动员成人中较为普遍，其病因相同。肩峰下滑囊炎（肩袖上方囊区炎症、水肿、纤维化）通常由肩袖肌腱炎所致。
+
+【病因参考文献】
+1.Jain NB, Khazzam MS.Degenerative Rotator-Cuff Disorders.N Engl J Med.2024;391(21):2027-2034.doi:10.1056/NEJMcp1909797
+1.Jain NB, Khazzam MS.Degenerative Rotator-Cuff Disorders.N Engl J Med.2024;391(21):2027-2034.doi:10.1056/NEJMcp1909797
+
+【肩袖损伤的症状和体征】
+肩峰下滑囊炎，肩袖肌腱病以及部分肩袖撕裂均会引起肩部疼痛，尤其在手臂举过头的运动时。在肩部外展或屈曲60°~120°之间（运动疼痛弧）疼痛通常加重，而在<60°以下或>120°以上时疼痛通常减轻或消失。疼痛可被描述为隐痛，定位不清。完全性肩袖撕裂会引起急性疼痛和肩部无力。严重肩袖撕裂时，肩部外旋会特别明显无力。
+
+【肩袖损伤的诊断】
+主要是病史和体格检查
+主要是病史和体格检查
+有时MRI或关节镜检查
+有时MRI或关节镜检查
+诊断依据病史和体格检查，包括激发试验(见肩部体格检查)。肩袖不能直接触诊，但可通过激发试验间接评价各个肌肉组件；出现明显痛感或肌力下降被认为为阳性结果。
+冈上肌的评估方法是让患者在前屈位抵抗手臂上的向下压力，拇指指向下方（空罐试验，或Jobe试验）。
+评估冈下肌和小圆肌时，嘱患者双臂置于体侧、肘关节屈曲90°，并抵抗外旋压力；此姿势可将肩袖肌群功能与其他肌肉（如三角肌）的功能区分开来。 这一试验发现肌力下降提示有明显的肩袖功能不全（如，完全撕裂）。
+肩胛下肌的评估方法是让患者将手置于背后，手背靠在腰部。检查者将伤者的手从下背部抬起。伤者应能保持手离开后背部皮肤（Gerber举手脱离试验）。
+
+【肩关节解剖（前视图）】
+肩关节解剖（前视图）
+Neer试验{用于检查肩袖肌腱在喙肩弓下的挤压情况。它是通过将手臂置于强制前屈（手臂举过头顶），手臂完全内旋来完成的。
+Hawkins试验{也用于检查挤压情况。将病人手臂举起至90°，肘部屈曲90°，然后强行内旋肩部。
+Apley划痕试验通过让患者尝试触摸对侧肩胛骨（过头、颈后、对侧肩胛骨上方，测试外展和外旋；手伸至背后下方、对侧肩胛骨，测试内收和内旋）来评估肩关节的综合活动范围。
+肩部疼痛的其他可能来源包括肩锁关节、胸锁关节、颈椎、肱二头肌肌腱和肩胛骨。应评估这些区域是否存在压痛或畸形，以提示存在问题。
+作为肩部检查的一部分，须注意同时行颈部检查，因颈椎疼痛可放射至肩部（特别是第5颈椎神经根病）。
+若保守治疗短期疗程后症状未缓解，疑似肩袖损伤可进一步行 MRI 检查。
+
+【肩袖损伤的治疗】
+非甾体类抗炎药（NSAIDs）
+非甾体类抗炎药（NSAIDs）
+有时外科手术
+有时外科手术
+在大多数肌腱炎、滑囊炎及肩袖部分撕裂病例中，非手术治疗即可取得良好效果，包括休息、非甾体抗炎药（NSAIDs）以及肩袖肌群强化训练（1, 2, 3）。在某些情况下，可向肩峰下间隙注射糖皮质激素以获得短期镇痛效果（例如症状急性且严重、既往治疗无效，或 NSAIDs 禁忌时）（3）。然而，重复注射糖皮质激素会增加肌腱退行性变的风险，应限制其使用（4）。
+对于保守治疗无效的慢性滑囊炎患者，手术切除多余的骨并减少撞击可能是必要的。若肩袖损伤较为严重（如完全撕裂），则可考虑手术修复。
+1. 俯卧，手臂悬垂在床边，拇指指向远离身体的方向。
+2. 保持肘部伸直，将手臂伸至与躯干水平，同时向下和向后挤压肩胛骨。
+3. 回到起始位置。
+4. 重复做 3 组，每组 10 遍。
+5. 根据耐受情况，逐渐增加力度。
+由 Tomah 纪念医院理疗科的 Tomah, WI；Elizabeth C.K. Bender, MSPT, ATC, CSCS 以及 Whitney Gnewikow, DPT, ATC 提供。
+1.躺在未受累的一侧，用枕头夹在受累侧的手臂和身体之间。
+2.弯曲涉及肘部至 90°。
+3.通过缩回和下压（向脊柱和向下挤压）来准备肩胛骨。
+4.通过在肩部旋转来向上移动前臂，使手背朝天花板。
+5.慢慢回到起始位置并重复。
+6.执行3套重
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.将重物放在受累的一侧。
+2.稍微弯曲臀部和膝盖，另一只手放在桌子或床上支撑上半身。
+3.将肘部弯曲至 90°，并通过缩回（挤压）肩胛骨来伸展肩部以将肘部抬高至肩部高度。
+4.回到起始位置。
+5.执行3套重复10次，每日1次。
+6.特别
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.将带子固定在腰部水平的物体上。
+2.在患侧的肘部和身体之间放置枕头或毛巾卷。
+3.用受累手抓住带子，肘部弯曲到 90°，拇指向上。
+4.内旋手臂（将手向内拉过身体），然后慢慢回到起始位置。
+5.执行3套重复10次，每日1次。
+6.特别
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.将带子固定在腰部水平的物体上。
+2.在患侧的肘部和身体之间放置枕头或毛巾卷。
+3.用手抓住带子，肘部弯曲到 90°，拇指向上。
+4.外旋手臂，然后慢慢回到起始位置。
+5.执行3套重复10次，每日1次。
+6.特别说明
+a.从阻力最小的带
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.从手臂放在一边开始，保持肘部伸直，拇指向上。
+2.将手臂向前移动约 30° 以位于肩胛骨或肩胛骨的位置。
+3.在这个位置上抬起手臂，保持在无痛范围内。
+4.回到起始位置。
+5.执行3套重复10次，每日1次。
+6.在允许的范围内添加轻量
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.俯卧，受累的手臂向一侧伸出，离开床边，肘部弯曲至 90°。
+2.前臂应离开床沿，拇指朝向身体。
+3.收回并压低肩胛骨（向脊柱和向下挤压）。
+4.向上旋转前臂。
+5.回到起始位置并重复。
+6.执行3套重复10次，每日1次。
+7.特别说明
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.俯卧，手臂朝下离开桌子边缘，拇指远离身体。
+2.收回并压低肩胛骨（向脊柱和向下挤压）。
+3.将手臂向上抬至肩部水平。
+4.将手臂放向地板并重复。
+5.执行3套重复10次，每日1次。
+6.特别说明
+a.抬起手臂时不要让肩胛骨移动。
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1. 俯卧，手臂悬垂在床边，拇指指向远离身体的方向。
+2. 保持肘部伸直，将手臂伸至与躯干水平，同时向下和向后挤压肩胛骨。
+3. 回到起始位置。
+4. 重复做 3 组，每组 10 遍。
+5. 根据耐受情况，逐渐增加力度。
+由 Tomah 纪念医院理疗科的 Tomah, WI；Elizabeth C.K. Bender, MSPT, ATC, CSCS 以及 Whitney Gnewikow, DPT, ATC 提供。
+1.躺在未受累的一侧，用枕头夹在受累侧的手臂和身体之间。
+2.弯曲涉及肘部至 90°。
+3.通过缩回和下压（向脊柱和向下挤压）来准备肩胛骨。
+4.通过在肩部旋转来向上移动前臂，使手背朝天花板。
+5.慢慢回到起始位置并重复。
+6.执行3套重复10次，每日1次。
+7.在允许的范围内添加轻量级。
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.将重物放在受累的一侧。
+2.稍微弯曲臀部和膝盖，另一只手放在桌子或床上支撑上半身。
+3.将肘部弯曲至 90°，并通过缩回（挤压）肩胛骨来伸展肩部以将肘部抬高至肩部高度。
+4.回到起始位置。
+5.执行3套重复10次，每日1次。
+6.特别说明
+a.从 1 到 2 磅（0.5 到 1 kg）的重量（即汤罐）开始。
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.将带子固定在腰部水平的物体上。
+2.在患侧的肘部和身体之间放置枕头或毛巾卷。
+3.用受累手抓住带子，肘部弯曲到 90°，拇指向上。
+4.内旋手臂（将手向内拉过身体），然后慢慢回到起始位置。
+5.执行3套重复10次，每日1次。
+6.特别说明
+a.从阻力最小的带开始。
+b.保持手臂在侧面，肘部弯曲 90°。
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.将带子固定在腰部水平的物体上。
+2.在患侧的肘部和身体之间放置枕头或毛巾卷。
+3.用手抓住带子，肘部弯曲到 90°，拇指向上。
+4.外旋手臂，然后慢慢回到起始位置。
+5.执行3套重复10次，每日1次。
+6.特别说明
+a.从阻力最小的带开始。
+b.保持手臂在侧面，肘部弯曲 90°。
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.从手臂放在一边开始，保持肘部伸直，拇指向上。
+2.将手臂向前移动约 30° 以位于肩胛骨或肩胛骨的位置。
+3.在这个位置上抬起手臂，保持在无痛范围内。
+4.回到起始位置。
+5.执行3套重复10次，每日1次。
+6.在允许的范围内添加轻量级。
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.俯卧，受累的手臂向一侧伸出，离开床边，肘部弯曲至 90°。
+2.前臂应离开床沿，拇指朝向身体。
+3.收回并压低肩胛骨（向脊柱和向下挤压）。
+4.向上旋转前臂。
+5.回到起始位置并重复。
+6.执行3套重复10次，每日1次。
+7.特别说明
+a.抬起前臂时不要让肩胛骨移动。
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.俯卧，手臂朝下离开桌子边缘，拇指远离身体。
+2.收回并压低肩胛骨（向脊柱和向下挤压）。
+3.将手臂向上抬至肩部水平。
+4.将手臂放向地板并重复。
+5.执行3套重复10次，每日1次。
+6.特别说明
+a.抬起手臂时不要让肩胛骨移动。
+b.保持拇指朝天花板。
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+
+【治疗参考文献】
+1.Dickinson RN, Kuhn JE.Nonoperative Treatment of Rotator Cuff Tears.Phys Med Rehabil Clin N Am.2023;34(2):335-355.doi:10.1016/j.pmr.2022.12.002
+1.Dickinson RN, Kuhn JE.Nonoperative Treatment of Rotator Cuff Tears.Phys Med Rehabil Clin N Am.2023;34(2):335-355.doi:10.1016/j.pmr.2022.12.002
+2.Weber S, Chahal J.Management of Rotator Cuff Injuries.J Am Acad Orthop Surg.2020;28(5):e193-e201.doi:10.5435/JAAOS-D-19-00463
+2.Weber S, Chahal J.Management of Rotator Cuff Injuries.J Am Acad Orthop Surg.2020;28(5):e193-e201.doi:10.5435/JAAOS-D-19-00463
+3.Desmeules F, Roy JS, Lafrance S, et al.Rotator Cuff Tendinopathy Diagnosis, Nonsurgical Medical Care, and Rehabilitation: A Clinical Practice Guideline.J Orthop Sports Phys Ther.2025;55(4):235-274.doi:10.2519/jospt.2025.13182
+3.Desmeules F, Roy JS, Lafrance S, et al.Rotator Cuff Tendinopathy Diagnosis, Nonsurgical Medical Care, and Rehabilitation: A Clinical Practice Guideline.J Orthop Sports Phys Ther.2025;55(4):235-274.doi:10.2519/jospt.2025.13182
+4.Puzzitiello RN, Patel BH, Nwachukwu BU, et al.Adverse Impact of Corticosteroid Injection on Rotator Cuff Tendon Health and Repair: A Systematic Review.Arthroscopy.2020;36(5):1468-1475.doi:10.1016/j.arthro.2019.12.006
+4.Puzzitiello RN, Patel BH, Nwachukwu BU, et al.Adverse Impact of Corticosteroid Injection on Rotator Cuff Tendon Health and Repair: A Systematic Review.Arthroscopy.2020;36(5):1468-1475.doi:10.1016/j.arthro.2019.12.006
+肩袖由冈上肌、冈下肌、小圆肌和肩胛下肌组成，这些肌肉在许多手臂举过头的运动中（如，投掷、游泳、举重和挥拍球类运动）起到稳定肱骨头的作用并协助抬肩和旋肩。
+肩袖由冈上肌、冈下肌、小圆肌和肩胛下肌组成，这些肌肉在许多手臂举过头的运动中（如，投掷、游泳、举重和挥拍球类运动）起到稳定肱骨头的作用并协助抬肩和旋肩。
+肩袖肌群，可能急性撕裂；肩不稳定，肩袖虚弱或机械撞击在肩峰下间隙可能导致肌腱炎（特别是冈上肌腱）并导致肩峰下滑囊炎。
+肩袖肌群，可能急性撕裂；肩不稳定，肩袖虚弱或机械撞击在肩峰下间隙可能导致肌腱炎（特别是冈上肌腱）并导致肩峰下滑囊炎。
+通常根据检查诊断，但一些患者需要MRI和/或关节镜检查。
+通常根据检查诊断，但一些患者需要MRI和/或关节镜检查。
+治疗要点：以 NSAIDs、休息及肩袖功能锻炼为主；对持续性疼痛者，肩峰下糖皮质激素注射亦可作为选择。
+治疗要点：以 NSAIDs、休息及肩袖功能锻炼为主；对持续性疼痛者，肩峰下糖皮质激素注射亦可作为选择。
+损伤严重者可能建议行手术修复（如，完全撕裂）。
+损伤严重者可能建议行手术修复（如，完全撕裂）。

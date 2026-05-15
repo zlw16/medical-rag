@@ -1,0 +1,84 @@
+标题：回归热
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/spirochetes/relapsing-fever
+============================================================
+
+螺旋体的特征是菌体呈螺旋状。致病螺旋体包括密螺旋体属、钩端螺旋体属和包柔螺旋体属。密螺旋体和钩端螺旋体菌体太细，不能够用亮视野显微镜观察，可用暗视野显微镜或相显微镜检查。Borrelia较厚，也可以染色并使用亮视野显微镜观察 (1)。
+回归热的昆虫媒介可能是人体虱子或某些蜱虫，取决于地理位置。
+虱传回归热在美国罕见；它仅在非洲东北部（埃塞俄比亚、苏丹、厄立特里亚、索马里）流行，并在欧洲的这些非洲国家难民中被诊断出来。虱传回归热往往发生为流行病，特别是在受战争影响的地区以及难民营中。虱叮咬发热的患者被感染。人类是其唯一的病原库。虱子不能在唾液或粪便中排泄回归热疏螺旋体（2)。如果虱在新的宿主被碾碎，Borrelia recurrentis（回归热螺旋体）被释放，经擦伤的皮肤或叮咬处进入人体。B. recurrentis也能够穿透完整的粘膜和皮肤。完整的虱不传播该病。
+虱传回归热是由Borrelia recurrentis引起的，通过体虱传播给人类。
+蜱传回归热可以通过软蜱属的软质蜱或硬蜱肩胛硬蜱传播。
+由软体蜱传播的蜱传回归热涉及几种疏螺旋体属病原体，在美洲、非洲、亚洲和欧洲呈地方性流行。在美国，该疾病通常局限于西部地区，好发于5～9月。蜱从啮齿动物病原库中获得螺旋体。在被蜱叮咬时，其唾液或粪便中的螺旋体迅速进入皮肤，使人被感染。当人们在啮齿动物出没的山间小屋中睡觉时，非常容易被感染，这也与洞穴探险有关。
+蜱传回归热可通过软蜱属的软蜱传播。
+硬蜱肩胛硬蜱（也可传播莱姆病）可以传播宫本疏螺旋体。因为肩胛硬蜱也是莱姆病的传播媒介，由这种蜱传播的蜱传回归热发生在与莱姆病流行相同的地区。还报告了与莱姆病等其他疏螺旋体疾病共同感染的情况。
+蜱传回归热可以通过鹿蜱、肩胛硬蜱传播。
+Image courtesy of James Gathany via the Public Health Image Library of the Centers for Disease Control and Prevention.
+疏螺旋体也很少通过输血传播。
+
+【参考文献】
+1.Cleveland DW, Anderson CC, Brissette CA:Borrelia miyamotoi: A Comprehensive Review.Pathogens12(2):267, 2023.doi:10.3390/pathogens12020267
+1.Cleveland DW, Anderson CC, Brissette CA:Borrelia miyamotoi: A Comprehensive Review.Pathogens12(2):267, 2023.doi:10.3390/pathogens12020267
+2.Raoult D, Roux V: The body louse as a vector of reemerging human diseases.Clin Infect Dis29(4):888–911, 1999.doi: 10.1086/520454
+2.Raoult D, Roux V: The body louse as a vector of reemerging human diseases.Clin Infect Dis29(4):888–911, 1999.doi: 10.1086/520454
+
+【回归热的症状和体征】
+由于软蜱属的软蜱在夜间短暂且无痛地吸血，并且不会长时间附着，因此大多数患者不会报告被蜱叮咬的历史，但可能会报告曾在洞穴或简陋住所过夜。
+虱叮咬通常比较明显。
+潜伏期3～11日（平均6日）。
+蜱传和虱传回归热的临床表现非常相似 (1)。症状与菌血症水平相关，几天后，当疏螺旋体属从血液中清除时，症状就会消退。然后菌血症和症状在1周的无发热期后再次出现。在随后的每次复发中，症状都会逐渐减轻。虱传回归热的特点是单次复发，而蜱传回归热复发可能多达10次。
+以突发寒战起病，随后高热、心动过速、严重头痛、恶心、呕吐、肌肉和关节痛，常有谵妄 (2,3)。 焦痂可能存在于蜱虫叮咬的部位。早期可在躯干和四肢出现红斑和紫癜。 可存在结膜、皮下或粘膜下出血。持续3至5天的高热，然后突然消失，提示为疾病的转折点。病程为1至54天（中位数18天）。在数周的疾病过程中，可能会出现黄疸，肝肿大，脾肿大，心肌炎和心力衰竭，尤其在虱传疾病中。
+其他症状可能包括眼炎、虹膜睫状体炎、哮喘加重和多形性红斑。 神经系统并发症（如脑膜炎，脑膜脑炎，神经根髓炎）可能发生;它们在蜱传回归热中更常见。 可发生自然流产。
+多形性红斑以目标部位或虹膜病损为特点，即中心呈紫色的环形病损，周围有粉红色晕，由苍白环隔开。
+从初次发作到第一次复发之间，患者通常有数天至≥1周的无症状期。反复发作与螺旋体在体内的生长周期有关，发热常伴关节痛及所有先前的症状和体征突然出现。复发时黄疸常见。然后又可像以前那样病情迅速好转，但可再次出现2-10次的类似发作。每次发作后可有1～2周的间歇期。后几次的发作逐渐减轻，最后当病人产生免疫力时，则可完全恢复。
+
+【症状和体征参考】
+1.Centers for Disease Control and Prevention (CDC):Louse-Borne Relapsing Fever:Information for clinicians about distribution, transmission, and prevention of tick-borne relapsing fever and information about louse-borne relapsing fever andB. miyamotoidisease
+1.Centers for Disease Control and Prevention (CDC):Louse-Borne Relapsing Fever:Information for clinicians about distribution, transmission, and prevention of tick-borne relapsing fever and information about louse-borne relapsing fever andB. miyamotoidisease
+2.Rodino KG, Pritt BS: When to Think About Other Borreliae: Hard Tick Relapsing Fever (Borrelia miyamotoi),Borrelia mayonii, and Beyond.Infect Dis Clin North Am36(3):689–701, 2022.doi:10.1016/j.idc.2022.04.002
+2.Rodino KG, Pritt BS: When to Think About Other Borreliae: Hard Tick Relapsing Fever (Borrelia miyamotoi),Borrelia mayonii, and Beyond.Infect Dis Clin North Am36(3):689–701, 2022.doi:10.1016/j.idc.2022.04.002
+3.Warrell DA: Louse-borne relapsing fever (Borrelia recurrentisinfection).Epidemiol Infect147:e106, 2019.doi:10.1017/S0950268819000116
+3.Warrell DA: Louse-borne relapsing fever (Borrelia recurrentisinfection).Epidemiol Infect147:e106, 2019.doi:10.1017/S0950268819000116
+
+【回归热的诊断】
+暗视野或亮视野显微镜
+暗视野或亮视野显微镜
+复发性发热的诊断根据反复发热，在发热期血液中发现螺旋体即可确诊。暗视野或亮视野显微镜检查或经赖特或吉姆萨染色厚薄血涂片可见螺旋体（吖啶橙染色检查血液或组织比外周血赖特或吉姆萨染色检查更敏感）。
+血清学检测是不可靠的。梅毒和莱姆病血清学试验可呈假阳性反应。
+宫本疏螺旋体也可以通过聚合酶链反应 (PCR) 检测进行诊断。
+可能发生轻度多形核白细胞增多和血小板增多症。
+鉴别诊断包括莱姆关节炎、疟疾、登革热、黄热病、钩端螺旋体病、斑疹伤寒、流感和肠热病。
+根据美国疾病控制与预防中心 (CDC) 的数据，致病性疏螺旋体通常是从患者接触的位置推断出来的。例如，在美国西部高海拔的州（1200至8000英尺），软体蜱传复发热通常由B.hermsii引起，而在南部的低海拔州，特别是德克萨斯州或佛罗里达州，它通常是由B. turicatae引起(1)。
+
+【诊断参考文献】
+1.Centers for Disease Control and Prevention (CDC): Tick-borne relapsing fever: Information for clinicians.Accessed 9/22/2022.
+1.Centers for Disease Control and Prevention (CDC): Tick-borne relapsing fever: Information for clinicians.Accessed 9/22/2022.
+
+【回归热的治疗】
+四环素、多西环素、红霉素或普鲁卡因青霉素G
+四环素、多西环素、红霉素或普鲁卡因青霉素G
+由蜱传播的回归热，每6小时口服四环素或红霉素500 mg，或每12小时口服多西环素100 mg，持续10天。
+对于虱子传播的回归热，单次口服500毫克四环素、红霉素或阿奇霉素，或单次口服200毫克多西环素，或单次肌注40万至80万单位普鲁卡因青霉素G均有效。年龄<8岁的儿童口服红霉素酯10mg/kg，每天3次。
+当呕吐或严重疾病无法口服给药或中枢神经系统受到影响时，成人或>8岁的儿童可服用头孢曲松，每天2克或每12小时1克，持续10至14天，多西环素，每12至24小时静脉注射1至2 mg/kg，或青霉素g，每4小时静脉注射300万单位。<8岁的儿童可给予青霉素G2.5万U/kg，静注，每6小时一次。
+治疗应在发热早期即开始。雅里施-赫克斯海默反应（Jarisch-Herxheimer reaction）可能在治疗开始后的2小时内出现。在第一次抗生素治疗前2小时和后2小时分别口服对乙酰氨基酚650mg可减轻Jarisch-Herxheimer反应的严重程度。在青霉素治疗的虱子传播性复发热患者中，该反应往往更严重。
+脱水和电解质失平衡应该通过输液纠正。
+对乙酰氨基酚加羟考酮或氢可酮可用于严重头痛。
+恶心和呕吐应使用丙氯拉嗪 5 至 10 mg 口服或肌肉注射，每天 1 次至 4 次。
+如果发生心力衰竭，需要进行特殊治疗。
+
+【回归热的预后】
+经治疗后，病死率通常较低，但在年幼、怀孕、年老、营养不良或体弱者中，或在虱传热病流行期间，病死率可能会显著升高(1)。
+对于虱传回归热，未治疗的患者中有10％~40％死亡，而接受治疗的患者中有2％~5％死亡。
+蜱传回归热预后较好。未经治疗的患者病死率＜10%，接受治疗的患者的病死率＜2%。
+
+【预后参考】
+1.Talagrand-Reboul E, Boyer PH, Bergström S, Vial L, Boulanger N: Relapsing Fevers: Neglected Tick-Borne Diseases.Front Cell Infect Microbiol8:98, 2018.doi:10.3389/fcimb.2018.00098
+1.Talagrand-Reboul E, Boyer PH, Bergström S, Vial L, Boulanger N: Relapsing Fevers: Neglected Tick-Borne Diseases.Front Cell Infect Microbiol8:98, 2018.doi:10.3389/fcimb.2018.00098
+复发热由几种疏螺旋体引起，并通过虱子或蜱传播。
+复发热由几种疏螺旋体引起，并通过虱子或蜱传播。
+患者出现突然的寒战、高热、剧烈头痛、恶心、呕吐、肌肉和关节疼痛，常有谵妄和/或躯干及四肢的皮疹；黄疸、肝脾肿大、心肌炎和心力衰竭可能发生，特别是在虱传播疾病中。
+患者出现突然的寒战、高热、剧烈头痛、恶心、呕吐、肌肉和关节疼痛，常有谵妄和/或躯干及四肢的皮疹；黄疸、肝脾肿大、心肌炎和心力衰竭可能发生，特别是在虱传播疾病中。
+未治疗的患者可有2-10次的复发，每次间隔1-2周。复发表现为突然再次发热伴关节痛，及所有先前的症状和体征，尽管它们可能不那么严重。
+未治疗的患者可有2-10次的复发，每次间隔1-2周。复发表现为突然再次发热伴关节痛，及所有先前的症状和体征，尽管它们可能不那么严重。
+使用暗场显微镜、明场显微镜或瑞氏染色或吉姆萨染色的厚薄血涂片进行诊断；血清学检测不可靠。
+使用暗场显微镜、明场显微镜或瑞氏染色或吉姆萨染色的厚薄血涂片进行诊断；血清学检测不可靠。
+治疗使用四环素、多西环素或红霉素。
+治疗使用四环素、多西环素或红霉素。

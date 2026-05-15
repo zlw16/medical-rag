@@ -1,0 +1,222 @@
+标题：焦虑障碍概述
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/anxiety-and-stressor-related-disorders/overview-of-anxiety-disorders
+============================================================
+
+每个人都会经历恐惧和焦虑。
+恐惧是对即刻可识别的外部危险（如入侵者、在冰面上失控的汽车）的情感、躯体和行为反应。
+焦虑是一种令人痛苦、不适的情绪状态，表现为紧张和不安，其病因尚不明确。焦虑与威胁的确切时间联系较少；它可以是在威胁发生之前就可以预见的，在威胁过去之后仍然存在，或者在没有可识别威胁的情况下发生。
+人们在经历恐惧和焦虑时，往往会出现身体变化（如出汗、恶心）和行为变化（如回避、愤怒）。通常，人们意识到这些身体和行为的变化，却没有清楚地识别出他们是焦虑或恐惧的。
+适应性焦虑可以帮助激励人们做好准备、练习和排练；它还可以鼓励在潜在危险情况下采取适当的谨慎态度。然而，当焦虑导致功能障碍和过度痛苦时，它被认为是适应不良，因此是一种精神障碍。
+焦虑症比任何其他类型的精神疾病都更常见，大约三分之一的人在一生中的某个时刻符合焦虑症的标准（1, 2）。然而，焦虑症往往诊断不足，并可能与自杀念头和自杀企图有关。
+精神疾病诊断和统计手册第 5 版文本修订版（DSM-5-TR）按典型起病年龄列出了各种焦虑障碍(3)：
+分离性焦虑障碍
+分离性焦虑障碍
+选择性缄默症
+选择性缄默症
+特定恐惧症（动物、自然环境、血液注射损伤、情境）
+特定恐惧症（动物、自然环境、血液注射损伤、情境）
+社交焦虑障碍
+社交焦虑障碍
+场所恐惧症
+场所恐惧症
+广泛性焦虑障碍
+广泛性焦虑障碍
+物质诱导/药物诱导的焦虑障碍
+物质诱导/药物诱导的焦虑障碍
+另一种身体状况引起的焦虑
+另一种身体状况引起的焦虑
+其他特定焦虑症（适用于患者有明显症状但不符合任何特定焦虑症标准的情况）
+其他特定焦虑症（适用于患者有明显症状但不符合任何特定焦虑症标准的情况）
+分离焦虑症和选择性缄默症多见于儿童期，而上述其他疾病通常发生于成年期。
+当人们出现严重焦虑时，应始终考虑物质引起的/药物诱导的焦虑症和由另一种疾病引起的焦虑。
+其他常以显著焦虑为主要表现的障碍包括急性应激障碍,适应障碍，和创伤后应激障碍（PTSD）。由于它们被认为是由创伤或应激经历引起的，因此在 DSM-5-TR 中被单独归类。
+焦虑症往往与其他医学和精神疾病高度共存。抑郁症、物质使用障碍、人格障碍和别的焦虑症是特别常见的合并症，如心血管疾病、哮喘、偏头痛和关节炎。由于焦虑症通常先于其他精神合并症，早期有效治疗焦虑症可以预防或减轻其发展。
+
+【参考文献】
+1.Bandelow B, Michaelis S: Epidemiology of anxiety disorders in the 21st century.Dialogues Clin Neurosci17(3):327-335, 2015.doi: 10.31887/DCNS.2015.17.3/bbandelow
+1.Bandelow B, Michaelis S: Epidemiology of anxiety disorders in the 21st century.Dialogues Clin Neurosci17(3):327-335, 2015.doi: 10.31887/DCNS.2015.17.3/bbandelow
+2.Penninx BW, Pine DS, Holmes EA, et al: Anxiety disorders.Lancet97(10277):914-927, 2021.doi: 10.1016/S0140-6736(21)00359-7
+2.Penninx BW, Pine DS, Holmes EA, et al: Anxiety disorders.Lancet97(10277):914-927, 2021.doi: 10.1016/S0140-6736(21)00359-7
+3.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 215-262.
+3.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 215-262.
+
+【焦虑障碍的病因】
+焦虑症没有单一的基因或心理原因，但它们似乎是在典型的生物心理社会因素的背景下发展起来的。焦虑障碍具有家族遗传倾向，其遗传至少通过两种机制实现（1）：
+儿童时期的“行为抑制”特征似乎是遗传的，这种特征与青春期焦虑症的风险增加有关。
+儿童时期的“行为抑制”特征似乎是遗传的，这种特征与青春期焦虑症的风险增加有关。
+社会恐惧和回避可以通过父母建模和/或早期创伤经历传播给儿童，其中可能包括儿童虐待或医疗疾病（如哮喘）。有假设认为，这些经历和遗传易感性使部分儿童对自身应对压力的生理和情绪反应格外敏感，从而导致恐慌症和社交焦虑障碍。
+社会恐惧和回避可以通过父母建模和/或早期创伤经历传播给儿童，其中可能包括儿童虐待或医疗疾病（如哮喘）。有假设认为，这些经历和遗传易感性使部分儿童对自身应对压力的生理和情绪反应格外敏感，从而导致恐慌症和社交焦虑障碍。
+然而，许多人在没有可识别的诱发因素的情况下患上了焦虑症。例如，大多数有蛇恐惧症的人从未被蛇咬伤过，也没有报告过典型的创伤经历。焦虑也可能是对成年期环境和社会压力的一种反应，比如一段重要关系的结束或面临威胁生命的灾难，尽管大多数经历过这种压力的人不会发展成焦虑症。
+多种神经递质参与了焦虑症的发展。两种主要的神经递质 ——γ- 氨基丁酸（GABA）和谷氨酸 —— 发挥关键作用，血清素、去甲肾上腺素和多巴胺等其他神经递质也参与其中。这些神经递质在影响药物选择方面发挥着重要作用。
+一些医疗疾病可以直接引起焦虑。这些包括哮喘、心律失常、慢性阻塞性肺疾病（COPD）、心力衰竭、甲状腺功能亢进症、库欣综合征和嗜铬细胞瘤。
+用于治疗某些医疗疾病的药物也会导致焦虑作为一种症状。包括
+哮喘（沙丁胺醇、皮质类固醇、茶碱）
+哮喘（沙丁胺醇、皮质类固醇、茶碱）
+注意力缺陷/多动症（安非他明和其他兴奋剂）
+注意力缺陷/多动症（安非他明和其他兴奋剂）
+甲状腺功能亢进（左甲状腺素、碘塞罗宁）
+甲状腺功能亢进（左甲状腺素、碘塞罗宁）
+季节性过敏（抗组胺药和减充血剂）
+季节性过敏（抗组胺药和减充血剂）
+癫痫症（苯妥英钠）
+癫痫症（苯妥英钠）
+帕金森病（左旋多巴）
+帕金森病（左旋多巴）
+此外，各种物质和非法药物会直接诱发焦虑，包括咖啡因、可卡因和摇头丸（MDMA）。一些通常用于诱导放松的药物也会引起焦虑。大麻（大麻毒品）会直接或通过苯环利定（PCP）等掺杂物引起一些人的焦虑。酒精、镇静剂及其他部分药物的戒断反应也可能导致焦虑。
+
+【新型冠状病毒肺炎相关焦虑】
+新型冠状病毒肺炎（COVID-19）大流行与未感染人群的抑郁和焦虑发生率激增相关（2）。这种心理反应可能加剧了潜在问题，但媒体曝光、经济困难、对未来的不确定性、对感染的恐惧（对自己和亲人）、失去熟悉的支持（如朋友、工作）和行为限制（如口罩、社交距离）往往会加剧症状。
+有症状的 COVID-19 感染也与焦虑增加有关（3）。这种焦虑增加的触发因素可能是生理因素（例如，呼吸困难）；心理因素（例如，对死亡的即时恐惧）；社会因素（例如，与亲人隔离）；以及药理因素（例如，COVID-19 治疗中常用的糖皮质激素）。此外，据推测，COVID-19 可诱导宿主免疫反应，直接导致神经精神症状（例如，焦虑、情绪变化、神经肌肉功能障碍）；这些神经精神反应可能是急性的，或属于称为 “长期新冠” 的综合征的一部分。(另见COVID 相关神经精神表现。）
+
+【病因参考文献】
+1.Juruena MF, Eror F, Cleare AJ, et al: The role of early life stress in HPA axis and anxiety.Adv Exp Med Biol1191:141-153, 2020.doi: 10.1007/978-981-32-9705-0_9
+1.Juruena MF, Eror F, Cleare AJ, et al: The role of early life stress in HPA axis and anxiety.Adv Exp Med Biol1191:141-153, 2020.doi: 10.1007/978-981-32-9705-0_9
+2.Shafran R, Rachman S, Whittal M, et al: Fear and anxiety in COVID-19: Preexisting anxiety disorders.Cogn Behav Pract28(4):459-467, 2021.doi:10.1016/j.cbpra.2021.03.003
+2.Shafran R, Rachman S, Whittal M, et al: Fear and anxiety in COVID-19: Preexisting anxiety disorders.Cogn Behav Pract28(4):459-467, 2021.doi:10.1016/j.cbpra.2021.03.003
+3.Troyer EA, Kohn JN, Hong S: Are we facing a crashing wave of neuropsychiatric sequelae of COVID-19?Neuropsychiatric symptoms and potential immunologic mechanisms.Brain Behav Immun87:34-39, 2020.doi: 10.1016/j.bbi.2020.04.027
+3.Troyer EA, Kohn JN, Hong S: Are we facing a crashing wave of neuropsychiatric sequelae of COVID-19?Neuropsychiatric symptoms and potential immunologic mechanisms.Brain Behav Immun87:34-39, 2020.doi: 10.1016/j.bbi.2020.04.027
+
+【焦虑症的症状和体征】
+焦虑障碍与正常焦虑的区别在于，前者具有持续性（>6 个月）、过度性、致残性和不适感。
+焦虑症会引起广泛的身体症状，包括（1）：
+胃肠道：恶心、呕吐、腹泻
+胃肠道：恶心、呕吐、腹泻
+肺部：呼吸短促、窒息
+肺部：呼吸短促、窒息
+自主神经：头晕、虚弱、出汗、忽冷忽热
+自主神经：头晕、虚弱、出汗、忽冷忽热
+心脏：心悸、心率加快
+心脏：心悸、心率加快
+肌肉骨骼：肌肉紧张、胸痛或紧绷
+肌肉骨骼：肌肉紧张、胸痛或紧绷
+恐慌或担忧日记是记录症状的有用工具，这既是因为回顾性焦虑报告可能很模糊，也是因为治疗策略往往取决于细节。
+
+【体征和症状参考】
+1.Craske MG, Stein MB: Anxiety.Lancet388:3048-3059, 2016.doi: 10.1016/S0140-6736(16)30381-6
+1.Craske MG, Stein MB: Anxiety.Lancet388:3048-3059, 2016.doi: 10.1016/S0140-6736(16)30381-6
+
+【焦虑障碍的诊断】
+《精神疾病诊断与统计手册》, 第五版文本修订版（DSM-5-TR）诊断标准
+《精神疾病诊断与统计手册》, 第五版文本修订版（DSM-5-TR）诊断标准
+特定焦虑障碍的诊断基于 DSM-5-TR 中其特征性的症状和体征。一般来说，当以下情况出现时，可能会怀疑是焦虑症（1）：
+焦虑症状令人痛苦。
+焦虑症状令人痛苦。
+焦虑会影响正常功能运作。
+焦虑会影响正常功能运作。
+焦虑无法在数日内自行缓解。
+焦虑无法在数日内自行缓解。
+未发现其他致病原因。
+未发现其他致病原因。
+在诊断焦虑症时，重要的是要排除某些疾病（如哮喘、甲状腺功能亢进）和/或物质或药物引起的焦虑（2）。此外，如果存在，临床医生需要评估医疗障碍和/或物质实际与焦虑有关的程度。正如所有精神病评估一样，仔细的病史对准确诊断至关重要。
+如果患者符合焦虑症的标准，并且临床医生认为症状最好用药物或非法药物/物质的直接生理作用来解释，则患者被视为患有物质/药物引起的焦虑症。同样，如果显着的焦虑被认为是另一种医疗状况的直接生理结果，则患者可能会被诊断为另一种疾病引起的焦虑症。
+与几乎所有精神疾病一样，焦虑障碍尚无特异性实验室检查，但实验室检查可能有助于识别与焦虑相关的躯体疾病。做出诊断之前需要临床判断。除了引发特征性症状和时间进程外，临床医生还必须评估临床情况是否符合引起临床显著痛苦和/或功能障碍的阈值。
+不同的焦虑症通常可以根据3个关键问题的答案来区分：
+哪些情况会引起恐惧和焦虑？
+哪些情况会引起恐惧和焦虑？
+哪些想法与焦虑有关？
+哪些想法与焦虑有关？
+使用了哪些回避策略？
+使用了哪些回避策略？
+
+【文化因素】
+文化影响包括焦虑症在内的所有精神疾病的表达、概念化和治疗(3, 4）。在精神病评估过程中，重要的是要寻找焦虑症状可能受到周围政治、经济和法律制度以及与移民身份、性取向、社会经济地位、宗教、精神和家庭结构有关的具体问题影响的方式。
+患者可能会感到害怕、尴尬或不愿与任何人讨论焦虑，更不用说医生了，因为他们可能属于一个不同的、可能更具特权的社会经济群体。同样，如果想成为“好病人”的人怀疑他们的临床医生太忙了，除了他们最突出的非精神医学问题之外，他们可能不会坦率地谈论精神问题。
+临床医生考虑不同的个人或群体使用不同的词语来描述痛苦是有用的。例如，在许多国家，人们使用 “思虑过多” 这一表述，而非描述符合抑郁症、创伤后应激障碍（PTSD）或者广泛性焦虑症等疾病特定精神标准的症状（5）。
+询问患者他们认为是什么导致了他们的问题也是有用的。并非所有患者都完全认同医学模型，若以委婉方式询问，许多患者可能会勉强提及，自己（或亲属）认为症状由宗教或其他神秘因素引发（如 “邪眼”）。
+获取此类信息有助于建立良好的医患同盟，加深对患者及主诉的理解，进而提高患者后续的坦诚度和治疗依从性。
+
+【诊断参考】
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition,Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 215-221.
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition,Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 215-221.
+2.Craske MG, Stein MB: Anxiety.Lancet388:3048-3059, 2016.doi: 10.1016/S0140-6736(16)30381-6
+2.Craske MG, Stein MB: Anxiety.Lancet388:3048-3059, 2016.doi: 10.1016/S0140-6736(16)30381-6
+3.Diagnostic and Statistical Manual of Mental Disorders, 5th Edition, Text Revision (DSM-5-TR), Cultural Concepts  of Distress.American Psychiatric Association Publishing, Washington, DC, pp 872-880.
+3.Diagnostic and Statistical Manual of Mental Disorders, 5th Edition, Text Revision (DSM-5-TR), Cultural Concepts  of Distress.American Psychiatric Association Publishing, Washington, DC, pp 872-880.
+4.Lewis-Fernández R, Aggarwal NK, Lam PC, et al: Feasibility, acceptability and clinical utility of the Cultural Formulation Interview: Mixed-methods results from the DSM-5 international field trial.Br J Psychiatry210(4):290-297, 2017.doi: 10.1192/bjp.bp.116.193862
+4.Lewis-Fernández R, Aggarwal NK, Lam PC, et al: Feasibility, acceptability and clinical utility of the Cultural Formulation Interview: Mixed-methods results from the DSM-5 international field trial.Br J Psychiatry210(4):290-297, 2017.doi: 10.1192/bjp.bp.116.193862
+5.Kaiser BN , Haroz EE, Kohrt BA, et al: "Thinking too much": A systematic review of a common idiom of distress.Soc Sci Med147:170-183, 2015.doi: 10.1016/j.socscimed.2015.10.044
+5.Kaiser BN , Haroz EE, Kohrt BA, et al: "Thinking too much": A systematic review of a common idiom of distress.Soc Sci Med147:170-183, 2015.doi: 10.1016/j.socscimed.2015.10.044
+
+【焦虑障碍的治疗】
+心理教育
+心理教育
+放松技术
+放松技术
+心理治疗，如认知行为心理治疗（CBT）
+心理治疗，如认知行为心理治疗（CBT）
+药物治疗（苯二氮䓬类药物、选择性 5 - 羟色胺再摄取抑制剂 [SSRIs]）
+药物治疗（苯二氮䓬类药物、选择性 5 - 羟色胺再摄取抑制剂 [SSRIs]）
+在治疗焦虑症时，以下一般原则非常重要：
+各种干预措施对管理焦虑症是有效的。
+各种干预措施对管理焦虑症是有效的。
+大多数患者可以在初级保健环境中得到成功管理。
+大多数患者可以在初级保健环境中得到成功管理。
+准确识别焦虑症和相关的合并症是至关重要的。
+准确识别焦虑症和相关的合并症是至关重要的。
+治疗可能导致焦虑的合并症（如哮喘）。
+治疗可能导致焦虑的合并症（如哮喘）。
+同时发生的物质使用障碍通常应该和焦虑症同时治疗。应该认识到，这种物质通常部分用于减少焦虑，而戒断会引发额外的焦虑。
+同时发生的物质使用障碍通常应该和焦虑症同时治疗。应该认识到，这种物质通常部分用于减少焦虑，而戒断会引发额外的焦虑。
+生活方式调整（如获得充足的锻炼和睡眠）（1）和限制咖啡因摄入量可能会显着减轻焦虑症状。
+生活方式调整（如获得充足的锻炼和睡眠）（1）和限制咖啡因摄入量可能会显着减轻焦虑症状。
+治疗建议会受患者偏好及获取心理健康专业服务的可及性影响。
+治疗建议会受患者偏好及获取心理健康专业服务的可及性影响。
+心理治疗和药物治疗对大多数焦虑症都有效，尤其是在一起使用时（2, 3）。
+
+【心理教育和放松技巧】
+心理教育通常是治疗焦虑症的基础。理解一系列有时令人困惑的症状和行为是如何被概念化为诊断的，患者会感到解放。教育还提供了一种认知结构，帮助患者进行可能感到不舒服的治疗。
+在治疗的早期，应教授放松技巧。这些技术是有用的，因为恐惧和焦虑是焦虑症的基础，也因为治疗可以暂时强化致残的想法和感觉。如果没有控制焦虑的工具，许多患者将无法坚持治疗。放松技巧可能包括肌肉放松、呼吸管理、瑜伽、催眠和/或冥想，但患者的偏好在确定具体方法时很重要。放松技巧可以简单描述，然后作为家庭作业“规定”。如果临床医生定期热情地演示这些技术（如缓慢、稳定的呼吸），依从性和有效性更有可能得到优化。
+
+【心理治疗】
+各种心理疗法对于大多数精神疾病同样有效。这种等效性似乎与所谓的非特异性因素有关，这些因素包括治疗师的个人特征和积极的治疗氛围，使患者能够有效地参与谈话治疗，并坚持商定的做法和药物。
+认知行为疗法（CBT）作为焦虑障碍的社会心理治疗，具有最充分的证据支持（4）。心理教育和放松技巧应在 CBT 早期引入。
+CBT 涉及认知重建和暴露疗法。认知重构基于这样一种理念：焦虑障碍患者会高估危险（灾难化思维），同时低估自身应对危险的能力。这些不准确的想法和先前的触发因素在治疗过程中得到了澄清。通常，焦虑的模式可以巧妙地划分为触发因素、行为和焦虑的特征循环。当这一循环被明确后，会指导患者识别并直面其不准确的想法，即认知重构。
+CBT 还关注焦虑障碍的行为要素。焦虑障碍患者通常会对感知到的危险产生 “战斗或逃跑” 反应。一些有突出焦虑的患者能够“对抗”他们的焦虑，通常是反恐惧反应（例如，有突出社交焦虑的演员），但大多数反应是回避。暴露疗法旨在识别回避行为，然后为患者提供逐渐增强的机会，使其安全地暴露在恐惧的触发因素下，逐渐使患者脱敏。
+其他心理治疗用于焦虑障碍的治疗时，结合了 CBT、放松和正念的方面以及其他看似有帮助的策略。这些治疗包括基于正念的减压、催眠、以恐慌为中心的心理动力学心理治疗、人际治疗和支持性心理治疗：
+基于正念的减压是一个标准化的项目，小组连续开会8周；课程包括坐着和走路冥想、瑜伽和正念放松技巧。还有每日家庭练习，以加强在2.5小时的课程中实践的原则（5）。正念认知疗法将这些正念要素与 CBT 方法（如心理教育和认知重构）相结合。
+基于正念的减压是一个标准化的项目，小组连续开会8周；课程包括坐着和走路冥想、瑜伽和正念放松技巧。还有每日家庭练习，以加强在2.5小时的课程中实践的原则（5）。正念认知疗法将这些正念要素与 CBT 方法（如心理教育和认知重构）相结合。
+催眠是用来教人们如何处理精神焦虑和身体压力之间的相互作用，如肌肉紧张、呼吸和心率加快以及出汗。心理焦虑和身体压力往往会相互加强，而想象在一个安全舒适的地方的催眠建议，再加上成功的压力管理方法的可视化，可以在教授应对技巧的同时迅速减少焦虑症状(6）。
+催眠是用来教人们如何处理精神焦虑和身体压力之间的相互作用，如肌肉紧张、呼吸和心率加快以及出汗。心理焦虑和身体压力往往会相互加强，而想象在一个安全舒适的地方的催眠建议，再加上成功的压力管理方法的可视化，可以在教授应对技巧的同时迅速减少焦虑症状(6）。
+以恐慌为中心的心理动力学心理治疗是一种结构化的、有时间限制的心理治疗，与其他干预措施有共同的特点，尽管这些课程往往侧重于惊恐发作的压力源、感受和情绪含义 （7）。
+以恐慌为中心的心理动力学心理治疗是一种结构化的、有时间限制的心理治疗，与其他干预措施有共同的特点，尽管这些课程往往侧重于惊恐发作的压力源、感受和情绪含义 （7）。
+人际心理治疗（IPT）是一种结构化、限时的心理治疗，用于解决当前的问题和人际关系。IPT 聚焦于以下 4 个领域中的 1 个或多个：人际关系冲突、生活变化、悲伤或丧失，以及人际关系问题。IPT 最常用于治疗抑郁症，似乎对多种焦虑障碍耐受性良好且有效(8）。尽管 CBT 聚焦于认知和行为，IPT 则聚焦于人际情境中产生的情感。
+人际心理治疗（IPT）是一种结构化、限时的心理治疗，用于解决当前的问题和人际关系。IPT 聚焦于以下 4 个领域中的 1 个或多个：人际关系冲突、生活变化、悲伤或丧失，以及人际关系问题。IPT 最常用于治疗抑郁症，似乎对多种焦虑障碍耐受性良好且有效(8）。尽管 CBT 聚焦于认知和行为，IPT 则聚焦于人际情境中产生的情感。
+支持性心理治疗旨在通过同理心、验证和非评判性倾听来支持患者的健康防御和健康行为。支持性技术倾向于改善治疗联盟，减少治疗不依从性。支持性心理治疗本身可以是治疗性的，也可以是其他心理治疗的基本组成部分。
+支持性心理治疗旨在通过同理心、验证和非评判性倾听来支持患者的健康防御和健康行为。支持性技术倾向于改善治疗联盟，减少治疗不依从性。支持性心理治疗本身可以是治疗性的，也可以是其他心理治疗的基本组成部分。
+
+【药物治疗】
+药物治疗通常有助于治疗焦虑症，尤其是当与上述任何心理治疗技术结合使用时。抗抑郁药和苯二氮卓类药物是证据基础最强的两类药物，尽管非苯二氮卓类抗焦虑药（如丁螺环酮）和非典型抗精神病药也有作用(9）。
+选择性 5 - 羟色胺再摄取抑制剂（SSRIs）基于其疗效和安全性特征，通常被视为一线用药。这些“抗抑郁”药物可以解决焦虑症的症状，无论是否存在合并抑郁障碍。
+SSRI 类抗抑郁药通常从最低可用剂量开始使用，以尽量减少不良反应。焦虑症患者可能对身体变化很敏感，如果早期出现不良反应，可能会停止治疗。一旦患者耐受了初始剂量，抗抑郁药可以逐渐增加，直到达到治疗剂量或治疗效果。积极的临床效果可能随时出现，但通常需要6周或更长时间才能实现。
+5 - 羟色胺 - 去甲肾上腺素再摄取抑制剂(SNRI)，尤其是度洛西汀和文拉法辛，在焦虑障碍的治疗中也显示出安全性和有效性。
+苯二氮卓类药物可用于急性缓解焦虑，但可能会产生依赖以及增加剂量的欲望以限制长期使用的获益/风险比（10)。它们经常与抗抑郁药和心理治疗结合使用。一旦焦虑症状有所改善，苯二氮卓类药物通常可以逐渐减少。
+
+【合并症治疗】
+当存在共病物质使用障碍和其他精神疾病时，也必须进行适当的管理。
+共病物质使用障碍通常不会自发报告（11)。酒精、大麻和苯二氮卓类药物等物质经常被焦虑症患者用来自我治疗。患者可能不愿意放弃这些物质，直到他们相信临床医生有可行的替代治疗方法。自我治疗往往会导致恶性循环。例如，饮酒可快速减少焦虑，但可能会引发反弹焦虑，随后会增加自我治疗的紧迫性。
+合并双相情感障碍可能会造成特定的管理困难。许多双相情感障碍患者最初被误诊，特别是因为他们的抑郁期往往比躁狂期多得多。抗抑郁药物治疗可能是治疗焦虑症合并重度抑郁症的合适的一线治疗方法。然而，对于同时患有焦虑症和双相情感障碍的人来说，同样的药物选择可能会引发由焦虑和易怒加剧组成的躁狂发作。若漏诊双相情感障碍，可能导致数十年的不恰当治疗。
+共存疾病的治疗也可能具有挑战性。例如，哮喘在生理上会引起焦虑，但一些用于治疗哮喘的药物也会引起焦虑。焦虑会导致哮喘恶化，对哮喘恶化的恐惧会导致回避行为（如活动减少、药物不依从），进而加剧哮喘并导致生活质量下降。
+
+【治疗参考文献】
+1.Chellappa SL, Aeschbach D: Sleep and anxiety: From mechanisms to interventions.Sleep Med Rev61:101583, 2022.doi: 10.1016/j.smrv.2021.101583
+1.Chellappa SL, Aeschbach D: Sleep and anxiety: From mechanisms to interventions.Sleep Med Rev61:101583, 2022.doi: 10.1016/j.smrv.2021.101583
+2.Bandelow B, Michaelis S, Wedekind D: Treatment of anxiety disorders.Dialogues Clin Neurosci19(2):93-107, 2017.doi: 10.31887/DCNS.2017.19.2/bbandelow
+2.Bandelow B, Michaelis S, Wedekind D: Treatment of anxiety disorders.Dialogues Clin Neurosci19(2):93-107, 2017.doi: 10.31887/DCNS.2017.19.2/bbandelow
+3.Cuijpers P, Sijbrandij M, Koole SL, et al: Adding psychotherapy to antidepressant medication in depression and anxiety disorders: a meta-analysis.World Psychiatry, 13(1), 56-67, 2014.doi: 10.1002/wps.20089
+3.Cuijpers P, Sijbrandij M, Koole SL, et al: Adding psychotherapy to antidepressant medication in depression and anxiety disorders: a meta-analysis.World Psychiatry, 13(1), 56-67, 2014.doi: 10.1002/wps.20089
+4.Szuhany KL, Simon NM: Anxiety disorders: A review.JAMA328(24):2431-2445, 2022.doi: 10.1001/jama.2022.22744
+4.Szuhany KL, Simon NM: Anxiety disorders: A review.JAMA328(24):2431-2445, 2022.doi: 10.1001/jama.2022.22744
+5.Haller H, Breilmann P, Schröter, M. et al: A systematic review and meta-analysis of acceptance- and mindfulness-based interventions for DSM-5 anxiety disorders.Sci Rep11(1):20385, 2021. doi: 10.1038/s41598-021-99882-w
+5.Haller H, Breilmann P, Schröter, M. et al: A systematic review and meta-analysis of acceptance- and mindfulness-based interventions for DSM-5 anxiety disorders.Sci Rep11(1):20385, 2021. doi: 10.1038/s41598-021-99882-w
+6.Valentine KE, Milling LS, Clark LJ, et al: The efficacy of hypnosis as a treatment for anxiety: A meta-analysis.Int J Clin Exp Hyposis67(3)336-363, 2019.doi: 10.1080/00207144.2019.1613863
+6.Valentine KE, Milling LS, Clark LJ, et al: The efficacy of hypnosis as a treatment for anxiety: A meta-analysis.Int J Clin Exp Hyposis67(3)336-363, 2019.doi: 10.1080/00207144.2019.1613863
+7.Barber JP, Milrod B, Gallop R, et al: Processes of therapeutic change: Results from the Cornell-Penn Study of Psychotherapies for Panic Disorder.J Couns Psychol67(2):222-231, 2020.doi: 10.1037/cou0000417
+7.Barber JP, Milrod B, Gallop R, et al: Processes of therapeutic change: Results from the Cornell-Penn Study of Psychotherapies for Panic Disorder.J Couns Psychol67(2):222-231, 2020.doi: 10.1037/cou0000417
+8.Markowitz JC, Milrod B, Luyten P, et al: Mentalizing in interpersonal psychotherapy.Am J Psychother72(4):95-100.2019.doi: 10.1176/appi.psychotherapy.20190021
+8.Markowitz JC, Milrod B, Luyten P, et al: Mentalizing in interpersonal psychotherapy.Am J Psychother72(4):95-100.2019.doi: 10.1176/appi.psychotherapy.20190021
+9.Slee A, Nazareth I, Bondaronek P, et al: Pharmacological treatments for generalised anxiety disorder: A systematic review and network meta-analysis.Lancet2019393(10173):768-777. doi: 10.1016/S0140-6736(18)31793-8
+9.Slee A, Nazareth I, Bondaronek P, et al: Pharmacological treatments for generalised anxiety disorder: A systematic review and network meta-analysis.Lancet2019393(10173):768-777. doi: 10.1016/S0140-6736(18)31793-8
+10.Balon R, Starcevic V: Role of benzodiazepines in anxiety disorders.Adv Exp Med Biol1191:367-388, 2020.doi: 10.1007/978-981-32-9705-0_20
+10.Balon R, Starcevic V: Role of benzodiazepines in anxiety disorders.Adv Exp Med Biol1191:367-388, 2020.doi: 10.1007/978-981-32-9705-0_20
+11.Anker JJ, Kushner MG: Co-occurring alcohol use disorder and anxiety: Bridging psychiatric, psychological, and neurobiological perspectives.Alcohol Res40(1):arcr.v40.1.03, 2019.doi: 10.35946/arcr.v40.1.03
+11.Anker JJ, Kushner MG: Co-occurring alcohol use disorder and anxiety: Bridging psychiatric, psychological, and neurobiological perspectives.Alcohol Res40(1):arcr.v40.1.03, 2019.doi: 10.35946/arcr.v40.1.03

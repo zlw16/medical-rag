@@ -1,0 +1,133 @@
+标题：呼吸道合胞病毒（RSV） 和人偏肺病毒
+来源：https://www.msdmanuals.cn/professional/pediatrics/respiratory-disorders-in-young-children/respiratory-syncytial-virus-rsv-and-human-metapneumovirus-infections
+============================================================
+
+
+【呼吸道合胞病毒 （RSV）】
+呼吸道合胞病毒是一种RNA病毒，是肺炎病毒类。已经确定了A和B两个分组。
+呼吸道合胞病毒是婴幼儿下呼吸道疾病的最常见原因，在美国，5岁以下儿童每年住院人数达>58,000至80,000例（1）。
+RSV是一种普遍存在的病毒；几乎所有的儿童在4岁前都感染过 (2)。疫情通常每年发生在温带气候的冬季或早春。然而，在新冠肺炎大流行期间，呼吸道合胞病毒和其他呼吸道病毒的循环模式被破坏（3)。
+由于对 RSV 的免疫反应不能防止再次感染，所有暴露人群的患病率约为 40%。然而，呼吸道合胞病毒抗体可以降低疾病的严重程度。
+
+【人偏肺病毒 (hMPV)】
+人偏肺病毒是一种相似但独立的病毒。
+hMPV的季节性流行病学似乎与呼吸道合胞病毒相似，但感染和疾病的发生率似乎要低得多。
+
+【参考文献】
+1.Centers for Disease Control and Prevention (CDC): RSV Surveillance and Research.Accessed December 11, 2023.
+1.Centers for Disease Control and Prevention (CDC): RSV Surveillance and Research.Accessed December 11, 2023.
+2.Committee on Infectious Diseases, American Academy of Pediatrics, Kimberlin DW, Barnett ED, Lynfield R, Sawyer MH:Red Book: 2021–2024 Report of the Committee on Infectious Diseases, ed.32, pp.628–636, 2021.doi: 10.1542/9781610025782
+2.Committee on Infectious Diseases, American Academy of Pediatrics, Kimberlin DW, Barnett ED, Lynfield R, Sawyer MH:Red Book: 2021–2024 Report of the Committee on Infectious Diseases, ed.32, pp.628–636, 2021.doi: 10.1542/9781610025782
+3.Olsen SJ, Winn AK, Budd AP, et al: Changes in influenza and other respiratory virus activity during the COVID-19 pandemic–United States, 2020-2021.MMWR Morb Mortal Wkly Rep70(29):1013–1019, 2021.doi: 10.15585/mmwr.mm7029a1
+3.Olsen SJ, Winn AK, Budd AP, et al: Changes in influenza and other respiratory virus activity during the COVID-19 pandemic–United States, 2020-2021.MMWR Morb Mortal Wkly Rep70(29):1013–1019, 2021.doi: 10.15585/mmwr.mm7029a1
+
+【RSV 和 hMPV 的症状和体征】
+呼吸道合胞病毒感染和人类偏肺病毒感染的临床表现类似。最主要的临床症状是细支气管炎和肺炎。
+这些疾病典型的早期症状是上呼吸道症状和发热，然后在几天内进展为呼吸困难、咳嗽和气喘，和/或胸部听诊有咔拉音。<6个月婴儿呼吸道合胞病毒感染的首发症状可能是呼吸暂停。
+在成年人和较大儿童中病情较轻，可以毫无察觉或者表现为不发热的普通感冒。然而，严重的疾病可能发展如下：
+< 6 个月大的患者、老年人或免疫功能低下的患者
+< 6 个月大的患者、老年人或免疫功能低下的患者
+有潜在心肺功能障碍或神经肌肉疾病的患者
+有潜在心肺功能障碍或神经肌肉疾病的患者
+
+【呼吸道合胞病毒和人偏肺病毒的诊断】
+特征性症状和体征，特别是在通常的季节或已知的疫情期间
+特征性症状和体征，特别是在通常的季节或已知的疫情期间
+有时需要通过鼻腔冲洗或拭子进行快速抗原检测，逆转录聚合酶链反应（RT-PCR）或病毒培养
+有时需要通过鼻腔冲洗或拭子进行快速抗原检测，逆转录聚合酶链反应（RT-PCR）或病毒培养
+在RSV流行季节，婴儿或儿童患细支气管炎或者肺炎应该高度怀疑是呼吸道合胞病毒（或者hMPV）感染。由于通常不推荐抗病毒治疗，因此无需通过实验室检查明确病毒诊断。然而，实验室诊断可通过允许分离感染相同病毒的儿童来促进医院感染控制。
+对呼吸道合胞病毒和其他呼吸道病毒具有高灵敏度的快速抗原测试可用于儿童；鼻洗液或拭子。该方法在成人中敏感度不高。可以进行病毒培养。分子诊断测定如RT-PCR具有改进的灵敏度，并且通常作为单一或多重测定可获得。
+
+【呼吸道合胞病毒和人偏肺病毒的治疗】
+支持治疗
+支持治疗
+对于呼吸道合胞病毒和偏肺病毒感染者的治疗都是支持治疗，包括吸氧和补充水分（见细支气管炎治疗）。
+糖皮质激素和支气管扩张剂通常没有帮助，因此不建议使用。
+抗生素保留给患有发热，胸部X光检查有肺炎证据，以及临床怀疑细菌合并感染的患者。
+尼塞韦单抗、克莱罗韦单抗和帕利珠单抗（RSV 单克隆抗体）主要用于预防 RSV，对治疗无效。
+利巴韦林吸入剂作为一种具有抗RSV活性的抗病毒药物，但其疗效甚微，对医务工作者有潜在毒性，因此不建议使用，除非是严重免疫受损患者(1)。
+
+【治疗参考文献】
+1.Beaird OE, Freifeld A, Ison MG, et al: Current practices for treatment of respiratory syncytial virus and other non-influenza respiratory viruses in high-risk patient populations: A survey of institutions in the Midwestern Respiratory Virus Collaborative.Transpl Infect Dis18(2):210-215, 2016.doi: 10.1111/tid.12510
+1.Beaird OE, Freifeld A, Ison MG, et al: Current practices for treatment of respiratory syncytial virus and other non-influenza respiratory viruses in high-risk patient populations: A survey of institutions in the Midwestern Respiratory Virus Collaborative.Transpl Infect Dis18(2):210-215, 2016.doi: 10.1111/tid.12510
+
+【呼吸道合胞病毒和人偏肺病毒的预防】
+接触前预防（例如，洗手，手套，隔离），特别在医院中非常重要。
+对于母亲在怀孕期间未接种RSV疫苗的婴儿，美国疾病控制与预防中心（CDC）及其免疫实践咨询委员会（ACIP）建议使用长效单克隆抗体以预防RSV相关下呼吸道感染（1，2）。该方法的基本原理基于这些单克隆抗体的有效性和安全性，以及减少婴儿RSV相关住院治疗的需求。
+尼塞韦单抗、clesrovimab 和帕利珠单抗是美国用于婴儿和/或幼儿 RSV 预防的单克隆抗体。如果在怀孕期间接种过 RSV 疫苗 (呼吸道合胞病毒疫苗)，大多数婴儿则不需要接种 RSV 疫苗。尼塞韦单抗和克勒斯罗韦单抗是8个月以下婴儿的首选一线药物。帕利珠单抗通常仅在其他药物不可用时用于高风险婴儿，这主要是出于成本和物流方面的考虑，因为其作用时间较短且需要每月给药(3)。
+尼塞维单抗（一种长效单克隆抗体）推荐用于以下婴幼儿的RSV预防(4,5,6,7)：
+所有 小于8 个月大的婴儿，无论是出生于第一个 RSV 季节期间还是即将进入第一个 RSV 季节。
+所有 小于8 个月大的婴儿，无论是出生于第一个 RSV 季节期间还是即将进入第一个 RSV 季节。
+8 个月至 19 个月大的儿童，患有严重 RSV 疾病的风险较高且即将进入第二个 RSV 季节
+8 个月至 19 个月大的儿童，患有严重 RSV 疾病的风险较高且即将进入第二个 RSV 季节
+健康新生儿（即那些没有增加严重 RSV 风险的新生儿）不应接受超过 1 剂尼瑞昔单抗。通常情况下，该剂量是在婴儿的第一个RSV流行季给予。那些在第一个RSV季节结束时出生的婴儿应该在第二个RSV季节期间接受这个尼塞韦单抗剂量，但仅当他们仍小于8个月大且在第一个RSV季节期间未接受过尼塞韦单抗时。
+只有符合高风险标准的儿童才应接受多于一剂的 nirsevimab（在第一个 RSV 季节服用一剂，在第二个 RSV 季节服用一剂）(8)。接受nirsevimab的儿童不应在同一 RSV 季节内接受palivizumab。
+8 至 19 个月大的高危儿童包括：
+在第二个 RSV 季节开始前 6 个月内，随时需要医疗支持的患有慢性肺病的早产儿
+在第二个 RSV 季节开始前 6 个月内，随时需要医疗支持的患有慢性肺病的早产儿
+免疫力严重低下的儿童
+免疫力严重低下的儿童
+患有严重肺部疾病的囊性纤维化儿童或体重身长比低于第 10 百分位数的儿童
+患有严重肺部疾病的囊性纤维化儿童或体重身长比低于第 10 百分位数的儿童
+美国印第安人或阿拉斯加原住民的儿童
+美国印第安人或阿拉斯加原住民的儿童
+对于符合条件的儿童，应在 RSV 季节之前不久（在美国大陆大部分地区通常从 10 月到 3 月底）接受nirsevimab。对于在 RSV 季节开始时未接种疫苗的婴儿，可以在 RSV 季节的任何时间接种疫苗。
+Nirsevimab可以在新生儿出院前与其他儿童疫苗同时接种。
+克勒斯罗韦单抗是另一种长效单克隆抗体，被美国疾病控制与预防中心（CDC）的免疫实践咨询委员会（ACIP）临时推荐用于母亲未通过母体RSV疫苗接种获得保护（2）的8个月以下婴儿。在一项多中心随机试验中，在第一个呼吸道合胞病毒（RSV）季节之前或期间单次注射该抗体，已被证明可有效减少8月龄以下早产和足月婴儿中需要医疗干预的RSV相关下呼吸道感染和住院率（9）。克勒斯罗韦单抗通常耐受性良好，其安全性与安慰剂相当。
+如果对婴儿进行克勒斯罗韦单抗用于 RSV 的一级预防，则在同一 RSV 季节内不得使用帕利珠单抗。
+帕利珠单抗，也是一种单克隆抗体，可降低高危婴儿因 RSV 住院的频率（10,11）。该药物仅在无法获得尼塞韦单抗或克莱斯罗单抗的情况下使用。
+帕利珠单抗仅对住院高风险婴儿具有成本效益，包括具有以下特征的婴儿：
+在小于29 周妊娠时出生，并在 RSV 季节开始时小于1 岁。
+在小于29 周妊娠时出生，并在 RSV 季节开始时小于1 岁。
+小于1有慢性肺疾病的早产儿（孕周小于32周，0天，出生后至少28天需吸氧治疗）
+小于1有慢性肺疾病的早产儿（孕周小于32周，0天，出生后至少28天需吸氧治疗）
+早产儿在出生后第二年患有慢性肺病，并且在呼吸道合胞病毒(RSV) 流行季开始前 6 个月内接受过长期糖皮质激素或利尿剂治疗，或持续需要氧疗。
+早产儿在出生后第二年患有慢性肺病，并且在呼吸道合胞病毒(RSV) 流行季开始前 6 个月内接受过长期糖皮质激素或利尿剂治疗，或持续需要氧疗。
+血液动力学显著先天性心脏疾病小于1岁。
+血液动力学显著先天性心脏疾病小于1岁。
+也可考虑使用帕利珠单抗进行预防：
+婴儿< 1岁患有肺部解剖异常或神经肌肉疾病，损害有效清理上呼吸道能力
+婴儿< 1岁患有肺部解剖异常或神经肌肉疾病，损害有效清理上呼吸道能力
+儿童小于24个月，有严重的免疫功能缺陷。
+儿童小于24个月，有严重的免疫功能缺陷。
+第一剂帕利珠单抗在 RSV 季节通常开始之前给予。其后一般在RSV流行季节每个月补种一次（总共5剂）。在呼吸道合胞病毒季节延长或季节间呼吸道合胞病毒活动显著期间，可能建议额外剂量 (12)。
+最初接受帕利珠单抗治疗的婴儿，若在完成5剂帕利珠单抗疗程前可获得尼塞韦单抗或克来罗韦单抗，则应给予单剂尼塞韦单抗或克来罗韦单抗。
+有关适用于老年人和孕妇的RSV疫苗信息，请参阅呼吸道合胞病毒（RSV）疫苗。目前可用的RSV疫苗之一（重组RSVpreF）适用于妊娠32至36周的孕妇，接种时间为每年9月至次年1月，主要适用于美国大陆大部分地区。针对孕产妇、儿童和成人的多种RSV疫苗正处于临床试验开发阶段 (13)。
+
+【预防参考文献】
+1.Jones JM, Fleming-Dutra KE, Prill MM, et al: Use ofNirsevimabfor the Prevention of Respiratory Syncytial Virus Disease Among Infants and Young Children: Recommendations of the Advisory Committee on Immunization Practices - United States, 2023.MMWR Morb Mortal Wkly Rep72(34):920-925, 2023.doi:10.15585/mmwr.mm7234a4
+1.Jones JM, Fleming-Dutra KE, Prill MM, et al: Use ofNirsevimabfor the Prevention of Respiratory Syncytial Virus Disease Among Infants and Young Children: Recommendations of the Advisory Committee on Immunization Practices - United States, 2023.MMWR Morb Mortal Wkly Rep72(34):920-925, 2023.doi:10.15585/mmwr.mm7234a4
+2.Centers for Disease Control and Prevention: CDC’s Advisory Committee on Immunization Concludes Meeting with Joint Statement.June 26, 2025.Accessed July 8, 2025.
+2.Centers for Disease Control and Prevention: CDC’s Advisory Committee on Immunization Concludes Meeting with Joint Statement.June 26, 2025.Accessed July 8, 2025.
+3.American Academy of Pediatrics: Respiratory Syncytial Virus (RSV) Prevention:NirsevimabFrequently Asked Questions.May 8, 2025.Accessed July 9, 2025.
+3.American Academy of Pediatrics: Respiratory Syncytial Virus (RSV) Prevention:NirsevimabFrequently Asked Questions.May 8, 2025.Accessed July 9, 2025.
+4.Hammitt LL, Dagan R, Yuan Y, et al:Nirsevimabfor Prevention of RSV in Healthy Late-Preterm and Term Infants.N Engl J Med386(9):837-846, 2022.doi: 10.1056/NEJMoa2110275
+4.Hammitt LL, Dagan R, Yuan Y, et al:Nirsevimabfor Prevention of RSV in Healthy Late-Preterm and Term Infants.N Engl J Med386(9):837-846, 2022.doi: 10.1056/NEJMoa2110275
+5.Griffin MP, Yuan Y, Takas T, et al: Single-DoseNirsevimabfor Prevention of RSV in Preterm Infants.N Engl J Med383(5):415-425, 2020.doi: 10.1056/NEJMoa1913556
+5.Griffin MP, Yuan Y, Takas T, et al: Single-DoseNirsevimabfor Prevention of RSV in Preterm Infants.N Engl J Med383(5):415-425, 2020.doi: 10.1056/NEJMoa1913556
+6.Simões EAF, Madhi SA, Muller WJ, et al: Efficacy ofnirsevimabagainst respiratory syncytial virus lower respiratory tract infections in preterm and term infants, and pharmacokinetic extrapolation to infants with congenital heart disease and chronic lung disease: A pooled analysis of randomised controlled trials.Lancet Child Adolesc Health7(3):180-189, 2023.doi: 10.1016/S2352-4642(22)00321-2
+6.Simões EAF, Madhi SA, Muller WJ, et al: Efficacy ofnirsevimabagainst respiratory syncytial virus lower respiratory tract infections in preterm and term infants, and pharmacokinetic extrapolation to infants with congenital heart disease and chronic lung disease: A pooled analysis of randomised controlled trials.Lancet Child Adolesc Health7(3):180-189, 2023.doi: 10.1016/S2352-4642(22)00321-2
+7.Jones JM, Fleming-Dutra KE, Prill MM, et al: Use ofnirsevimabfor the prevention of respiratory syncytial virus disease among infants and young children: recommendations of the Advisory Committee on Immunization Practices–United States, 2023.MMWR Morb Mortal Wkly Rep72(34):920-925, 2023.doi: 10.15585/mmwr.mm7234a4
+7.Jones JM, Fleming-Dutra KE, Prill MM, et al: Use ofnirsevimabfor the prevention of respiratory syncytial virus disease among infants and young children: recommendations of the Advisory Committee on Immunization Practices–United States, 2023.MMWR Morb Mortal Wkly Rep72(34):920-925, 2023.doi: 10.15585/mmwr.mm7234a4
+8.Centers for Disease Control and Prevention: Limited Availability ofNirsevimabin the United States—Interim CDC Recommendations to Protect Infants from Respiratory Syncytial Virus (RSV) during the 2023–2024 Respiratory Virus Season.October 23, 2023.Accessed July 9, 2025.
+8.Centers for Disease Control and Prevention: Limited Availability ofNirsevimabin the United States—Interim CDC Recommendations to Protect Infants from Respiratory Syncytial Virus (RSV) during the 2023–2024 Respiratory Virus Season.October 23, 2023.Accessed July 9, 2025.
+9.Zar HJ, Simoes E, Madhi S, et al: 166.A Phase 2b/3 Study to Evaluate the Efficacy and Safety of an Investigational Respiratory Syncytial Virus (RSV) Antibody,Clesrovimab, in Healthy Preterm and Full-Term Infants.Open Forum Infect Dis12(Suppl 1):ofae631.003, 2025.Published 2025 Jan 29.doi:10.1093/ofid/ofae631.003
+9.Zar HJ, Simoes E, Madhi S, et al: 166.A Phase 2b/3 Study to Evaluate the Efficacy and Safety of an Investigational Respiratory Syncytial Virus (RSV) Antibody,Clesrovimab, in Healthy Preterm and Full-Term Infants.Open Forum Infect Dis12(Suppl 1):ofae631.003, 2025.Published 2025 Jan 29.doi:10.1093/ofid/ofae631.003
+10.Garegnani L, Styrmisdóttir L, Roson Rodriguez P, et al:Palivizumabfor preventing severe respiratory syncytial virus (RSV) infection in children.Cochrane Database Syst Rev11(11):CD013757, 2021.doi: 10.1002/14651858.CD013757.pub2
+10.Garegnani L, Styrmisdóttir L, Roson Rodriguez P, et al:Palivizumabfor preventing severe respiratory syncytial virus (RSV) infection in children.Cochrane Database Syst Rev11(11):CD013757, 2021.doi: 10.1002/14651858.CD013757.pub2
+11.The IMpact-RSV Study Group:Palivizumab, a humanized respiratory syncytial virus monoclonal antibody, reduces hospitalization from respiratory syncytial virus infection in high-risk infants.Pediatrics102(3):531–537, 1998.
+11.The IMpact-RSV Study Group:Palivizumab, a humanized respiratory syncytial virus monoclonal antibody, reduces hospitalization from respiratory syncytial virus infection in high-risk infants.Pediatrics102(3):531–537, 1998.
+12.American Academy of Pediatrics: AAP Recommendations for the Prevention of RSV Disease in Infants and Children.Red Book Online.February 21, 2024.Accessed July 8, 2025.
+12.American Academy of Pediatrics: AAP Recommendations for the Prevention of RSV Disease in Infants and Children.Red Book Online.February 21, 2024.Accessed July 8, 2025.
+13.Terstappen J, Hak SF, Bhan A, et al: The respiratory syncytial virus vaccine and monoclonal antibody landscape: the road to global access.Lancet Infect Dis24(12):e747-e761, 2024.doi:10.1016/S1473-3099(24)00455-9
+13.Terstappen J, Hak SF, Bhan A, et al: The respiratory syncytial virus vaccine and monoclonal antibody landscape: the road to global access.Lancet Infect Dis24(12):e747-e761, 2024.doi:10.1016/S1473-3099(24)00455-9
+呼吸道合胞病毒(RSV)和人类偏肺病毒通常引起细支气管炎综合征，但可能发生肺炎。
+呼吸道合胞病毒(RSV)和人类偏肺病毒通常引起细支气管炎综合征，但可能发生肺炎。
+诊断通常是临床的，但是可以进行测试，包括快速抗原测试和分子测定（例如逆转录-聚合酶链反应）。
+诊断通常是临床的，但是可以进行测试，包括快速抗原测试和分子测定（例如逆转录-聚合酶链反应）。
+给予支持治疗；不推荐使用糖皮质激素、支气管扩张剂、尼塞韦单抗、克莱斯罗韦单抗和帕利珠单抗。
+给予支持治疗；不推荐使用糖皮质激素、支气管扩张剂、尼塞韦单抗、克莱斯罗韦单抗和帕利珠单抗。
+利巴韦林吸入剂可能对呼吸道合胞病毒有用，但对卫生保健专业人员有潜在毒性，目前仅用于严重免疫功能低下的患者。
+利巴韦林吸入剂可能对呼吸道合胞病毒有用，但对卫生保健专业人员有潜在毒性，目前仅用于严重免疫功能低下的患者。
+在呼吸道合胞病毒 (RSV) 季节之前，给所有合适的儿童接种尼塞韦单抗或克莱罗韦单抗；帕利珠单抗可作为特定高危婴儿的替代药物。
+在呼吸道合胞病毒 (RSV) 季节之前，给所有合适的儿童接种尼塞韦单抗或克莱罗韦单抗；帕利珠单抗可作为特定高危婴儿的替代药物。

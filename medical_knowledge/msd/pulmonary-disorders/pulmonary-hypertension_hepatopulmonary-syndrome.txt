@@ -1,0 +1,46 @@
+标题：肝肺综合征
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/pulmonary-hypertension/hepatopulmonary-syndrome
+============================================================
+
+肝肺综合征是因慢性肝病特别是并发门静脉高压症时患者肺内动静脉扩张所致。发病机制不明，目前认为可能与肝内血管扩张物质产生增加或其清除降低有关。血管扩张可致通气血流比例失调，从而导致低氧血症，特别是患者常因系统性血管扩张引起心输出量增加。
+与无肝肺综合征的晚期肝病对照患者相比，肝肺综合征与骨形态发生蛋白9 （BMP9）和BMP10水平降低相关。较低的 BMP9 水平进一步与更严重的肝肺综合征相关（1)。
+由于病变常更多位于肺底部，肝肺综合征可引起斜卧呼吸（坐位或立位时呼吸困难，卧位时改善）和直立性低氧血症（直立时低氧血症，卧位时改善），这些症状在患者坐或站时出现，平卧时缓解。多数患者有慢性肝病的皮肤特征，例如蜘蛛痣。
+
+【参考文献】
+1.Rochon ER, Krowka MJ, Bartolome S, et al: BMP 9/10 in pulmonary vascular complications of liver disease.Am J Respir Crit Care Med201 (11):1575–1578, 2020.doi: 10.1164/rccm.201912-2514LE
+1.Rochon ER, Krowka MJ, Bartolome S, et al: BMP 9/10 in pulmonary vascular complications of liver disease.Am J Respir Crit Care Med201 (11):1575–1578, 2020.doi: 10.1164/rccm.201912-2514LE
+
+【肝肺综合征的诊断】
+脉搏血氧饱和度
+脉搏血氧饱和度
+心脏超声造影图和其他影像学检查
+心脏超声造影图和其他影像学检查
+已知肝病患者主诉呼吸困难（特别是斜卧呼吸困难）时应怀疑肝肺综合征。有明显临床症状者应测定脉搏氧饱和度。
+如症状较重（如，静息时呼吸困难），应测定呼吸空气和100%氧气时的动脉血气以判断分流量。
+
+【经验与提示】
+经验与提示
+如门脉高压患者出现卧位可缓解的呼吸困难需考虑肝肺综合征。
+如门脉高压患者出现卧位可缓解的呼吸困难需考虑肝肺综合征。
+心脏超声造影有助诊断。静脉注射由振荡生理盐水产生的微泡，正常情况下会被肺毛细血管截留，但可快速（即在7个心动周期内）穿过肺部出现在左心房。同样地，静脉注射99m锝标记的白蛋白可经肺到达肾和脑。
+肺血管造影可以显示弥漫的细点或斑点样血管结构。
+除非怀疑血栓栓塞，一般不需要血管造影。
+
+【肝肺综合征的治疗】
+主要治疗是对症给氧。
+其他治疗，如生长抑素抑制血管舒张，只对部分病人有一定的疗效。
+由于病变血管数量多且范围广，线圈栓塞术实际上无法实施。
+吸入式一氧化氮合成抑制剂可能是未来的治疗选择，但仍处于试验阶段（1）。
+肝移植后或基础肝病缓解，肝肺综合征可能减轻。肝肺综合征患者的预后较差，2.5 年内预后为 40% 至 60%（2）。
+
+【治疗参考文献】
+1.Gupta S, Tang R, Al-Hesayen A.Inhaled nitric oxide improves the hepatopulmonary syndrome: a physiologic analysis.Thorax2021;76(11):1142-1145.doi:10.1136/thoraxjnl-2020-216128
+1.Gupta S, Tang R, Al-Hesayen A.Inhaled nitric oxide improves the hepatopulmonary syndrome: a physiologic analysis.Thorax2021;76(11):1142-1145.doi:10.1136/thoraxjnl-2020-216128
+2.Porres-Aguilar M, Altamirano JT, Torre-Delgadillo A, Charlton MR, Duarte-Rojo A.Portopulmonary hypertension and hepatopulmonary syndrome: a clinician-oriented overview.Eur Respir Rev2012;21(125):223-233.doi:10.1183/09059180.00007211
+2.Porres-Aguilar M, Altamirano JT, Torre-Delgadillo A, Charlton MR, Duarte-Rojo A.Portopulmonary hypertension and hepatopulmonary syndrome: a clinician-oriented overview.Eur Respir Rev2012;21(125):223-233.doi:10.1183/09059180.00007211
+肝肺综合征患者具有慢性肝病的表现，并出现斜卧呼吸。
+肝肺综合征患者具有慢性肝病的表现，并出现斜卧呼吸。
+疑诊患者需测定脉搏血氧饱和度，并考虑ABG和影像学检查（如心脏超声造影）。
+疑诊患者需测定脉搏血氧饱和度，并考虑ABG和影像学检查（如心脏超声造影）。
+治疗方法为氧疗。
+治疗方法为氧疗。

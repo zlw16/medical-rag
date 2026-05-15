@@ -1,0 +1,76 @@
+标题：E. coli（大肠杆菌）肠胃炎
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/gastroenteritis/e-coli-gastroenteritis
+============================================================
+
+大肠杆菌在正常情况下栖居于胃肠道；然而，一些菌株已经获得了使其能够引起肠道感染的基因。当被摄入体内，以下菌株可引起腹泻：
+肠出血性E. coli（大肠杆菌）是美国临床上最常见的细菌亚型。它可以产生志贺毒素导致血性腹泻（出血性结肠炎）。因此，该亚型有时被称为产志贺毒素E. coli（大肠杆菌）(STEC)。大肠杆菌O157:H7是该亚型在美国最常见的菌株。未煮熟的碎牛肉，未经高温消毒的牛奶和果汁以及受污染的水都是可能感染源。人与人之间的传播在日托机构中很常见。 在一些娱乐场所（例如水池，湖泊，水上公园），有水源性疫情爆发的报道。溶血尿毒综合征是一种严重并发症，发生于5%～10%的STEC病例（10~15%的O157:H7病例）中，最常见于幼儿及年长者。
+肠出血性E. coli（大肠杆菌）是美国临床上最常见的细菌亚型。它可以产生志贺毒素导致血性腹泻（出血性结肠炎）。因此，该亚型有时被称为产志贺毒素E. coli（大肠杆菌）(STEC)。大肠杆菌O157:H7是该亚型在美国最常见的菌株。未煮熟的碎牛肉，未经高温消毒的牛奶和果汁以及受污染的水都是可能感染源。人与人之间的传播在日托机构中很常见。 在一些娱乐场所（例如水池，湖泊，水上公园），有水源性疫情爆发的报道。溶血尿毒综合征是一种严重并发症，发生于5%～10%的STEC病例（10~15%的O157:H7病例）中，最常见于幼儿及年长者。
+肠产毒性E. coli（大肠杆菌）产生两种毒素（一种类似于霍乱毒素），导致水样腹泻。此亚型是到低收入和中等收入国家旅游时旅行者腹泻最常见病因。
+肠产毒性E. coli（大肠杆菌）产生两种毒素（一种类似于霍乱毒素），导致水样腹泻。此亚型是到低收入和中等收入国家旅游时旅行者腹泻最常见病因。
+肠致病性E. coli（大肠杆菌）可导致水样腹泻。这种亚型曾经是幼托机构腹泻暴发常见原因，但现今较为罕见。
+肠致病性E. coli（大肠杆菌）可导致水样腹泻。这种亚型曾经是幼托机构腹泻暴发常见原因，但现今较为罕见。
+肠侵袭性E. coli（大肠杆菌）导致血性或非血性腹泻，其感染主要发生在低收入和中等收入国家。该感染在美国较罕见。
+肠侵袭性E. coli（大肠杆菌）导致血性或非血性腹泻，其感染主要发生在低收入和中等收入国家。该感染在美国较罕见。
+肠聚集性E. coli（大肠杆菌）所导致的腹泻比其他亚型严重程度低但持续时间更长。与其他一些亚型一样，它在低收入和中等收入国家更常见，可能是旅行者腹泻的病因。
+肠聚集性E. coli（大肠杆菌）所导致的腹泻比其他亚型严重程度低但持续时间更长。与其他一些亚型一样，它在低收入和中等收入国家更常见，可能是旅行者腹泻的病因。
+其他菌株E. coli（大肠杆菌）能够引起肠外感染（见大肠杆菌感染）。
+（参见胃肠炎概述。）
+
+【大肠杆菌肠胃炎的症状和体征】
+出血性E. coli（大肠杆菌）的症状是突发的严重腹部痉挛，伴随水样腹泻，水样腹泻可能在 24 小时内变为血性腹泻。腹泻持续1～8天。
+通常无发热或仅有低热，但偶可超过39°C。
+溶血性尿毒综合征的体征和症状包括乏力、苍白、高血压、腹痛及深色尿。
+
+【E. coli（大肠杆菌）胃肠炎的诊断】
+有时进行粪便培养
+有时进行粪便培养
+有时粪便检测针对的是志贺毒素
+有时粪便检测针对的是志贺毒素
+有时对粪便进行PCR检测
+有时对粪便进行PCR检测
+以下患者需行粪便检查以明确细菌学病因：血便或粪便潜血阳性者、发热者、中重度腹泻或腹泻持续超过 7 天者、≥70 岁的患者，或患有炎症性肠病或免疫功能受损疾病（如重度 HIV 感染）者。粪便检查也适用于将疾病传播给他人的高风险人群（例如，医护人员、托幼机构工作人员或餐饮服务人员），以及在已知或疑似疫情暴发期间。
+快速粪检志贺毒素，或有条件时检测毒素编码基因有助于诊断 (1)。
+其中每一个E. coli（大肠杆菌）亚型都可以通过聚合酶链反应（PCR）在粪便中检测到，检测通常采用多重 PCR 检测组套。有时多种生物体被同时检测到，其临床意义尚不清楚。
+
+【诊断参考文献】
+1.Freedman SB, van de Kar NCAJ, Tarr PI: Shiga Toxin-ProducingEscherichia coliand the Hemolytic-Uremic Syndrome.N Engl J Med389(15):1402-1414, 2023.doi:10.1056/NEJMra2108739
+1.Freedman SB, van de Kar NCAJ, Tarr PI: Shiga Toxin-ProducingEscherichia coliand the Hemolytic-Uremic Syndrome.N Engl J Med389(15):1402-1414, 2023.doi:10.1056/NEJMra2108739
+
+【治疗大肠杆菌肠胃炎】
+口服或静脉补液
+口服或静脉补液
+有时用抗生素
+有时用抗生素
+包括补液和电解质补充在内的支持性治疗是主要治疗方法，对大多数成年患者而言，仅此治疗就已足够。口服葡萄糖电解质溶液、肉汤或清汤可预防脱水或治疗轻度脱水。儿童可能会更快脱水，应给予适当的补液溶液（有几种可在市场上买到——见口服补液）。当出现严重脱水、休克或精神状态改变、肠梗阻以及口服补液治疗失败时，应给予等渗静脉输液，如乳酸林格氏液和生理盐水（1）。在严重脱水时，应继续静脉补液，直至脉搏、灌注和精神状态恢复正常。
+止泻药（抗动力药）（例如，洛哌丁胺）不应给予18岁以下患有急性腹泻的儿童（1）。止泻剂对于水样泻的成人患者（粪隐血阴性）通常是安全的。然而，止泻药可能导致E. coli（大肠埃希菌）O157:H7感染（以及Clostridioides difficile（艰难梭菌））患者的病情恶化，因此对于近期使用过抗生素、出现血性腹泻、便隐血阳性或腹泻伴发热的患者，在明确诊断之前不应使用止泻药。
+对于疑似E. coli（大肠杆菌）肠炎，通常不建议在粪便检测结果出来之前经验性使用抗生素，因为抗生素会增加感染E. coli（大肠杆菌）O157:H7 菌株的患者发生溶血尿毒症综合征的风险 (2)。粪便培养结果对儿童尤为重要，因为儿童E. coli（大肠杆菌）O157:H7感染率较高。
+对于疑似E. coli（大肠杆菌）胃肠炎，不推荐使用益生菌(3,4)。
+
+【治疗参考文献】
+1.Shane AL, Mody RK, Crump JA, et al: 2017 Infectious Diseases Society of America Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea.Clin Infect Dis65(12):e45-e80, 2017.doi:10.1093/cid/cix669
+1.Shane AL, Mody RK, Crump JA, et al: 2017 Infectious Diseases Society of America Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea.Clin Infect Dis65(12):e45-e80, 2017.doi:10.1093/cid/cix669
+2.Freedman SB, van de Kar NCAJ, Tarr PI: Shiga Toxin-ProducingEscherichia coliand the Hemolytic-Uremic Syndrome.N Engl J Med389(15):1402-1414, 2023.doi:10.1056/NEJMra2108739
+2.Freedman SB, van de Kar NCAJ, Tarr PI: Shiga Toxin-ProducingEscherichia coliand the Hemolytic-Uremic Syndrome.N Engl J Med389(15):1402-1414, 2023.doi:10.1056/NEJMra2108739
+3.Riddle MS, DuPont HL, Connor BA: ACG Clinical Guideline: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults.Am J Gastroenterol111(5):602-622, 2016.doi:10.1038/ajg.2016.126
+3.Riddle MS, DuPont HL, Connor BA: ACG Clinical Guideline: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults.Am J Gastroenterol111(5):602-622, 2016.doi:10.1038/ajg.2016.126
+4.Su GL, Ko CW, Bercik P, et al: AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders.Gastroenterology159(2):697-705, 2020.doi:10.1053/j.gastro.2020.05.059
+4.Su GL, Ko CW, Bercik P, et al: AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders.Gastroenterology159(2):697-705, 2020.doi:10.1053/j.gastro.2020.05.059
+不同的菌株E. coli可通过多种机制引起腹泻。
+不同的菌株E. coli可通过多种机制引起腹泻。
+肠出血性E. coli产生志贺毒素，导致出血性结肠炎和有时溶血性尿毒症综合征；大肠杆菌O157:H7是该亚型在美国最常见的菌株。
+肠出血性E. coli产生志贺毒素，导致出血性结肠炎和有时溶血性尿毒症综合征；大肠杆菌O157:H7是该亚型在美国最常见的菌株。
+粪便检测不是常规需要的，但如果怀疑是肠出血性菌株，则应进行志贺毒素快速粪便检测或基于基因的检测。
+粪便检测不是常规需要的，但如果怀疑是肠出血性菌株，则应进行志贺毒素快速粪便检测或基于基因的检测。
+通常不需要抗生素，当涉及产生志贺毒素的菌株时，抗生素会增加溶血性尿毒症综合征的风险。
+通常不需要抗生素，当涉及产生志贺毒素的菌株时，抗生素会增加溶血性尿毒症综合征的风险。
+止泻药（抑制肠道蠕动）对患有水样腹泻的成人是安全的，但应避免用于18岁以下的儿童以及近期使用过抗生素、出现血性腹泻、粪便隐血试验阳性或伴有发热的腹泻患者。
+止泻药（抑制肠道蠕动）对患有水样腹泻的成人是安全的，但应避免用于18岁以下的儿童以及近期使用过抗生素、出现血性腹泻、粪便隐血试验阳性或伴有发热的腹泻患者。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Infectious Diseases Society of America:Clinical practice guidelines for the diagnosis and management of infectious diarrhea(2017)
+Infectious Diseases Society of America:Clinical practice guidelines for the diagnosis and management of infectious diarrhea(2017)
+American College of Gastroenterology:Clinical guideline: Diagnosis, treatment, and prevention of acute diarrheal infections in adults(2016)
+American College of Gastroenterology:Clinical guideline: Diagnosis, treatment, and prevention of acute diarrheal infections in adults(2016)
+American Gastroenterological Association:Clinical practice guidelines on the role of probiotics in the management of gastrointestinal disorders(2020)
+American Gastroenterological Association:Clinical practice guidelines on the role of probiotics in the management of gastrointestinal disorders(2020)

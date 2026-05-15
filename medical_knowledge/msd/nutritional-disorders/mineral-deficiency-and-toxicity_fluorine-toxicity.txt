@@ -1,0 +1,17 @@
+标题：氟的毒性
+来源：https://www.msdmanuals.cn/professional/nutritional-disorders/mineral-deficiency-and-toxicity/fluorine-toxicity
+============================================================
+
+人体中氟（F）大部分沉积在骨骼和牙齿中。氟化物（氟的离子形式）广泛存在于自然界。饮用水是氟化物的主要来源。
+氟过量会沉积在骨骼和牙齿中，引起氟中毒。高氟摄入期间发育的恒牙最易受累；需更高氟暴露才会影响乳牙。饮用水中氟化物含量高（>10ppm）是氟中毒最常见的原因。在美国，推荐的饮水氟化物含量为0.7ppm。
+氟中毒的早期的表现是牙齿呈
+垩白色，釉质的表面上不规则地分布的氟斑点
+垩白色，釉质的表面上不规则地分布的氟斑点
+这些斑点渐渐变成褐黄色或棕黄色，从而出现有特征性的斑点。严重氟中毒会使珐琅质地变脆，表面出现蚀损斑。骨骼改变（包括骨硬化、脊柱外生骨疣、膝外翻）可发生，但仅出现于长期高氟摄入的成人。
+尽管存在争议，但有证据表明，长期接触高氟饮用水（远高于正常氟化饮用水中的含量）与智商分数降低有关，但在低于1.5ppm的水平下未发现这种关联（1）。
+氟中毒的诊断基于症状。可以进行测量血清和尿液氟化物水平的测试。
+氟中毒的治疗包括减少氟的摄入；例如，在高氟水地区，患者不应饮用氟化水或服用氟补充剂。应该不断地告诫儿童不要咽下含氟的牙膏。
+
+【参考文献】
+1.Taylor KW, Eftim SE, Sibrizzi CA, et al.Fluoride Exposure and Children's IQ Scores: A Systematic Review and Meta-Analysis.JAMA Pediatr.2025;179(3):282-292.doi:10.1001/jamapediatrics.2024.5542
+1.Taylor KW, Eftim SE, Sibrizzi CA, et al.Fluoride Exposure and Children's IQ Scores: A Systematic Review and Meta-Analysis.JAMA Pediatr.2025;179(3):282-292.doi:10.1001/jamapediatrics.2024.5542

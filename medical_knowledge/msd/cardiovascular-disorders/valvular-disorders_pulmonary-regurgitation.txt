@@ -1,0 +1,69 @@
+标题：肺动脉瓣反流
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/valvular-disorders/pulmonary-regurgitation
+============================================================
+
+(参见心脏瓣膜疾病概述。）
+成人中，迄今为止肺动脉瓣反流（也称为肺动脉反流或肺动脉瓣关闭不全）最常见的原因是：
+继发性肺动脉高压
+继发性肺动脉高压
+不太常见的原因包括：
+先天性心脏病
+先天性心脏病
+特发性肺动脉扩张
+特发性肺动脉扩张
+感染性心内膜炎
+感染性心内膜炎
+法洛四联症或其他累及肺动脉瓣的先天性心脏病外科修复术
+法洛四联症或其他累及肺动脉瓣的先天性心脏病外科修复术
+罕见原因有：
+类癌综合征
+类癌综合征
+瓣膜性肺动脉狭窄介入治疗后（早期或晚期）
+瓣膜性肺动脉狭窄介入治疗后（早期或晚期）
+先天性心脏病如肺动脉瓣缺如综合征及严重埃布斯坦畸形
+先天性心脏病如肺动脉瓣缺如综合征及严重埃布斯坦畸形
+严重肺动脉瓣反流罕见，最常见的病因是涉及肺动脉和肺动脉瓣环扩张的孤立性先天性缺损。
+肺动脉瓣反流可能促使右心室（RV）扩大，最终导致右心室功能不全诱发心力衰竭（HF）。但在大多数情况下，肺动脉高压对该并发症的影响更为显著。当心内膜炎引起急性肺动脉瓣反流时，罕见情况下会出现由急性右心室功能不全导致的心力衰竭。
+
+【肺动脉瓣反流的症状和体征】
+肺动脉瓣反流通常无症状。少数患者会出现右心室功能障碍引起的HF的症状和体征（例如呼吸困难、运动不耐受、外周水肿、肝淤血）。
+触诊的体征与肺动脉高压和右心室肥厚有关。包括胸骨左上缘可触及的肺动脉瓣成分 (P2)，它是第二心音 (S2) 的一部分，以及胸骨左中、下缘振幅增强、持续的右心室搏动。
+高调的舒张早期递减杂音
+高调的舒张早期递减杂音
+听诊S1正常。S2可能分裂或单一。当分裂时，由于肺动脉高压，P2可能响亮并在第二心音的主动脉瓣成分（A2）后短时间可闻及；或者由于右心室每搏输出量增加，P2可能延迟。由于迅速的肺动脉瓣关闭合并A2-P2，或罕见的肺动脉瓣先天性缺失，S2可能呈单音。在伴有右心室功能不全诱发的心力衰竭或右心室肥厚时，右心室第3心音（S3）、第4心音（S4）或两者可能被闻及；这些心音可与左心室心音相鉴别，因为它们位于胸骨左旁第4肋间隙处且在吸气时更响。
+肺动脉高压引起的肺动脉瓣反流杂音是一种高调、舒张早期递减型杂音，始于P2，止于第一心音之前，并向胸骨右缘中部放射（Graham Steell 杂音）。患者端坐、呼气末屏气时，用听诊器膜型体件在胸骨左上缘听诊效果最佳。
+无肺动脉高压的肺动脉瓣反流杂音较短、低调（在性质上较粗糙），开始于P2之后。这两种杂音可能类似于主动脉瓣反流的杂音，但可以通过吸气（使肺动脉瓣反流杂音增强）和瓦尔萨尔瓦动作后的释放来区分。乏氏动作松弛期后，肺动脉瓣反流杂音立即变响（因为静脉回流立即进入右侧心脏），但AR杂音需要4或5个心动后才会变响。同样，轻柔的肺动脉瓣反流杂音在吸气时有时可能变得更轻柔，因为此杂音在左侧第2肋间隙听诊最佳，在这个部位吸气会使听诊器与心脏的距离增大。在某些先天性心脏疾病中，严重肺动脉瓣反流的杂音很短，因为舒张期肺动脉和右心室之间的压力梯度迅速平衡。
+混合性肺动脉狭窄伴关闭不全，如生物瓣衰败或右室至肺动脉导管，可闻及收缩期与舒张期往返性杂音。
+
+【肺动脉瓣反流的诊断】
+超声心动图
+超声心动图
+肺动脉瓣反流通常在体格检查或因为其他理由作多普勒超声心动图时偶然被检出。轻度肺动脉瓣反流是超声心动检查中的常见表现，无需干预。
+通过超声心动图评估肺动脉反流的严重程度具有挑战性；现有标准最适用于明确重度反流（伴肺动脉分支舒张期血流反流、压力半衰期≤100ms、以及宽大的彩色多普勒反流束）或明显轻度反流（细小彩色反流伴主肺动脉轻微或无血流反流）。心脏磁共振成像可用于量化反流分数，并更精确地对其严重程度进行分级，同时量化右心室扩张的存在和程度（1，2）。
+常进行心电图和胸部Ｘ线检查。心电图可能显示右心室肥厚的迹象；胸部X线可能表现为右心室扩大以及肺动脉高压基础疾病的证据。
+
+【诊断参考】
+1.Zoghbi WA, Asch FM, Bruce C, et al.Guidelines for the Evaluation of Valvular Regurgitation After Percutaneous Valve Repair or Replacement: A Report from the American Society of Echocardiography Developed in Collaboration with the Society for Cardiovascular Angiography and Interventions, Japanese Society of Echocardiography, and Society for Cardiovascular Magnetic Resonance [published correction appears inJ Am Soc Echocardiogr2019 Jul;32(7):914-917. doi: 10.1016/j.echo.2019.05.013.].J Am Soc Echocardiogr2019;32(4):431-475.doi:10.1016/j.echo.2019.01.003
+1.Zoghbi WA, Asch FM, Bruce C, et al.Guidelines for the Evaluation of Valvular Regurgitation After Percutaneous Valve Repair or Replacement: A Report from the American Society of Echocardiography Developed in Collaboration with the Society for Cardiovascular Angiography and Interventions, Japanese Society of Echocardiography, and Society for Cardiovascular Magnetic Resonance [published correction appears inJ Am Soc Echocardiogr2019 Jul;32(7):914-917. doi: 10.1016/j.echo.2019.05.013.].J Am Soc Echocardiogr2019;32(4):431-475.doi:10.1016/j.echo.2019.01.003
+2.Zoghbi WA, Enriquez-Sarano M, Foster E, et al.Recommendations for evaluation of the severity of native valvular regurgitation with two-dimensional and Doppler echocardiography.J Am Soc Echocardiogr2003;16(7):777-802.doi:10.1016/S0894-7317(03)00335-3
+2.Zoghbi WA, Enriquez-Sarano M, Foster E, et al.Recommendations for evaluation of the severity of native valvular regurgitation with two-dimensional and Doppler echocardiography.J Am Soc Echocardiogr2003;16(7):777-802.doi:10.1016/S0894-7317(03)00335-3
+
+【肺动脉瓣反流的治疗】
+对因治疗
+对因治疗
+有时需要进行肺动脉瓣置换术（PVR）
+有时需要进行肺动脉瓣置换术（PVR）
+治疗是针对引起肺动脉反流的病症进行管理，特别是当病因是肺动脉高压时。
+如果出现 RV 扩张或功能障碍，尤其是患者有症状时，可选择肺动脉瓣置换术。对于肺动脉瓣狭窄治疗后出现中度或以上肺动脉瓣反流、右心室扩张及症状或运动能力进行性下降的患者，肺动脉瓣置换术是首选治疗方法。最后，肺动脉瓣置换术通常用于法洛四联症初次修复后的患者，尤其是使用跨瓣补片时(1)。根据患者特征和具体解剖学考量，可采用外科手术和经导管技术进行肺动脉瓣置换术。
+
+【治疗参考文献】
+1.Stout KK, Daniels CJ, Aboulhosn JA, et al.2018 AHA/ACC Guideline for the Management of Adults With Congenital Heart Disease: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines [published correction appears inCirculation2019 Apr 2;139(14):e833-e834. doi: 10.1161/CIR.0000000000000683].Circulation2019;139(14):e698-e800.doi:10.1161/CIR.0000000000000603
+1.Stout KK, Daniels CJ, Aboulhosn JA, et al.2018 AHA/ACC Guideline for the Management of Adults With Congenital Heart Disease: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines [published correction appears inCirculation2019 Apr 2;139(14):e833-e834. doi: 10.1161/CIR.0000000000000683].Circulation2019;139(14):e698-e800.doi:10.1161/CIR.0000000000000603
+成人肺动脉瓣反流（PR）通常由肺动脉高压引起。
+成人肺动脉瓣反流（PR）通常由肺动脉高压引起。
+血流动力学影响通常由于其病因，而不是PR本身。
+血流动力学影响通常由于其病因，而不是PR本身。
+由于肺动脉高压所致的肺动脉瓣反流杂音呈高调、舒张早期渐减型杂音，杂音伴随P2开始和在S1之前结束，向胸骨右缘中部放射；杂音在胸骨左上缘用听诊器膜型胸件听诊，当病人保持呼吸在呼气末和坐直位时听诊最佳。无肺动脉高压的肺动脉瓣反流杂音较短、低调，开始于P2之后。
+由于肺动脉高压所致的肺动脉瓣反流杂音呈高调、舒张早期渐减型杂音，杂音伴随P2开始和在S1之前结束，向胸骨右缘中部放射；杂音在胸骨左上缘用听诊器膜型胸件听诊，当病人保持呼吸在呼气末和坐直位时听诊最佳。无肺动脉高压的肺动脉瓣反流杂音较短、低调，开始于P2之后。
+治疗针对病因；除患有先天性心脏病和之前接受过肺动脉瓣干预的患者外，通常不需要进行瓣膜置换。
+治疗针对病因；除患有先天性心脏病和之前接受过肺动脉瓣干预的患者外，通常不需要进行瓣膜置换。

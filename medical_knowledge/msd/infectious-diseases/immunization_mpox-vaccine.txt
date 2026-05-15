@@ -1,0 +1,90 @@
+标题：猴痘疫苗
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/immunization/mpox-vaccine
+============================================================
+
+有两种天花疫苗可用于预防猴痘病：一种是改良的复制受限安卡拉痘苗（MVA），另一种是活的、具有复制能力的痘苗病毒疫苗。
+非洲过去的数据表明，天花疫苗预防猴痘至少有85%的有效率，因为猴痘病毒与引起天花的病毒密切相关（1）。一项针对6408名男性的临床试验显示，一剂MVA疫苗在预防猴痘方面具有中等效果（有效性58%，95%置信区间31%至75%）（2）。然而，以前的天花疫苗接种并不总能提供终身免疫，但可能会降低疾病的严重程度。
+截至2025年，在正在进行的II级全球疫情中，没有对具有复制能力的牛痘病毒疫苗的功效进行评估（尽管它已可供紧急使用）；它的使用也与相当大的不良事件相关。
+
+【参考文献】
+1.Jezek Z, Grab B, Szczeniowski MV, Paluku KM, Mutombo M: Human monkeypox: secondary attack rates.Bull World Health Organ.1988;66(4):465-470.
+1.Jezek Z, Grab B, Szczeniowski MV, Paluku KM, Mutombo M: Human monkeypox: secondary attack rates.Bull World Health Organ.1988;66(4):465-470.
+2.Navarro C, Lau C, Buchan SA, et al.Effectiveness of modified vaccinia Ankara-Bavarian Nordic vaccine against mpox infection: emulation of a target trial.BMJ.2024;386:e078243.Published 2024 Sep 11.doi:10.1136/bmj-2023-078243
+2.Navarro C, Lau C, Buchan SA, et al.Effectiveness of modified vaccinia Ankara-Bavarian Nordic vaccine against mpox infection: emulation of a target trial.BMJ.2024;386:e078243.Published 2024 Sep 11.doi:10.1136/bmj-2023-078243
+
+【猴痘疫苗制剂】
+美国有两种猴痘疫苗可供选择：
+复制受限型痘苗病毒疫苗（也称为改良安卡拉疫苗，MVA）
+复制受限型痘苗病毒疫苗（也称为改良安卡拉疫苗，MVA）
+具有复制能力的痘苗病毒疫苗
+具有复制能力的痘苗病毒疫苗
+牛痘疫苗含有减毒活牛痘病毒，这种病毒在接种者体内不会进行复制。它是美国在当前疫情中使用的主要疫苗。
+有复制能力的痘苗病毒疫苗含有活痘苗病毒，该病毒与天花病毒相关，并可对猴痘病毒和天花病毒提供交叉免疫保护。在美国，根据扩大准入调查新药协议，它可用于对抗mpox。
+
+【猴痘疫苗的适应症】
+MVA疫苗是一线疫苗，适用于预防18岁及以上猴痘（或天花）高危成年人的猴痘（和天花）。美国疾病控制与预防中心（CDC）建议有猴痘高暴露风险，或近期已知/疑似暴露于猴痘的人群（包括孕妇）接种该疫苗。
+复制型痘苗病毒疫苗也适用于 1 岁以上、患猴痘（或天花）高危的人群。然而，无论是预防还是暴露后预防，它都不是一线推荐的疫苗。
+包括以下危险因素：
+性活跃且未处于长期、相互单一伴侣关系中的人（例如，过去6个月内拥有>1名性伴侣）
+性活跃且未处于长期、相互单一伴侣关系中的人（例如，过去6个月内拥有>1名性伴侣）
+需要评估或治疗性传播感染（如衣原体、淋病、梅毒）
+需要评估或治疗性传播感染（如衣原体、淋病、梅毒）
+在商业性行为场所或大型商业活动中的性行为；用性来交换金钱、物品或非法毒品的行为
+在商业性行为场所或大型商业活动中的性行为；用性来交换金钱、物品或非法毒品的行为
+男男性行为者
+男男性行为者
+职业性暴露于血液或其他潜在传染性体液（例如，医护人员、实验室人员）
+职业性暴露于血液或其他潜在传染性体液（例如，医护人员、实验室人员）
+与患猴痘的人有家庭接触和/或性接触
+与患猴痘的人有家庭接触和/或性接触
+已知或怀疑接触过猴痘感染者或具有上述任何风险因素的人
+已知或怀疑接触过猴痘感染者或具有上述任何风险因素的人
+疫区旅行史
+疫区旅行史
+对于存在性危险因素的人群，如果他们在本次疫情期间未被诊断患有该疾病且尚未接种 2 剂疫苗，建议接种疫苗。
+同时也建议前往中非和东非地区旅行者接种疫苗，该地区疾病流行率高且暴露风险较大。
+
+【猴痘疫苗的禁忌症与注意事项】
+MVA疫苗的禁忌证包括以下内容：
+免疫功能低下者（与所有减毒活疫苗相同）
+免疫功能低下者（与所有减毒活疫苗相同）
+本疫苗接种史或对疫苗某一成分发生严重过敏反应（如过敏性休克）
+本疫苗接种史或对疫苗某一成分发生严重过敏反应（如过敏性休克）
+对疫苗成分的严重过敏反应（即过敏性休克）在理论上可能发生，但非常罕见。那些以前对疫苗有过敏反应的人通常应避免接种更多剂量的疫苗；然而，对于那些暴露风险高的人，在仔细权衡风险和收益后，可以根据具体情况考虑重复剂量。（1）。
+复制型痘苗病毒疫苗的禁忌症包括以下内容：
+免疫功能低下（例如，患有晚期 HIV 感染或服用免疫抑制剂的人）
+免疫功能低下（例如，患有晚期 HIV 感染或服用免疫抑制剂的人）
+皮肤疾病（特别是特应性皮炎）
+皮肤疾病（特别是特应性皮炎）
+眼部炎症
+眼部炎症
+年龄1岁以下
+年龄1岁以下
+
+【禁忌症和注意事项参考】
+1.Duffy J, Marquez P, Moro P, et al.Safety Monitoring of JYNNEOS Vaccine During the 2022 Mpox Outbreak - United States, May 22-October 21, 2022.MMWR Morb Mortal Wkly Rep.2022;71(49):1555-1559.Published 2022 Dec 9.doi:10.15585/mmwr.mm7149a4
+1.Duffy J, Marquez P, Moro P, et al.Safety Monitoring of JYNNEOS Vaccine During the 2022 Mpox Outbreak - United States, May 22-October 21, 2022.MMWR Morb Mortal Wkly Rep.2022;71(49):1555-1559.Published 2022 Dec 9.doi:10.15585/mmwr.mm7149a4
+
+【猴痘疫苗的接种】
+MVA疫苗剂量为0.5毫升皮下注射（最好注射到上臂）。
+需间隔4周接种2剂系列疫苗。完成全程接种才能产生充分免疫力。
+根据紧急使用授权(EUA)可考虑0.1 mL皮内替代方案，但此非首选接种途径。
+尽管在大多数情况下，猴痘疫苗接种是作为一种预防措施进行的，但在适当的情况下，也建议进行暴露后预防（PEP）。如果用作暴露后预防（PEP），理想情况下应在暴露后4天内给予MVA，但可能在暴露后14天内仍有益处（参见CDC: 猴痘疫苗接种。
+复制型牛痘病毒疫苗通过用分叉针快速刺入小区域15次（将针垂直于皮肤，夹在拇指和食指之间，快速有力地刺穿放置在皮肤上的一滴疫苗）进行给药。这被认为是一个剂量。然后用敷料覆盖疫苗部位，以防止疫苗病毒传播到其他身体部位或其他人。如果在大约 6 至 11 天后出现脓疱，则认为疫苗接种成功。如果它没有出现，人们会再注射一剂。
+目前不建议对这两种疫苗进行常规加强接种。然而，在某些高危人群中，如接触风险较高的卫生保健工作者和实验室人员，建议在初次接种疫苗后2至10年进行加强疫苗接种。
+
+【猴痘疫苗的不良反应】
+不良反应一般是轻微的，通常包括疼痛、红斑、局部肿胀和给药部位周围的硬化。
+接种疫苗后，＜6％ 的人可能会出现严重反应（1）。已经报道了几例心肌炎和心包炎病例，目前正在进行上市后监测以识别潜在的长期后遗症。
+有关这些疫苗不良反应的更多信息，请参阅处方信息。
+
+【不良反应参考】
+1.van der Boom M, van Hunsel F.Adverse reactions following MPox (monkeypox) vaccination: An overview from the Dutch and global adverse event reporting systems.Br J Clin Pharmacol.2023;89(11):3302-3310.doi:10.1111/bcp.15830
+1.van der Boom M, van Hunsel F.Adverse reactions following MPox (monkeypox) vaccination: An overview from the Dutch and global adverse event reporting systems.Br J Clin Pharmacol.2023;89(11):3302-3310.doi:10.1111/bcp.15830
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+World Health Organization (WHO):Vaccines and immunization for monkeypox: Interim guidance, 16 November 2022
+World Health Organization (WHO):Vaccines and immunization for monkeypox: Interim guidance, 16 November 2022
+Centers for Disease Control and Prevention (CDC):Clinical Overview of Mpox
+Centers for Disease Control and Prevention (CDC):Clinical Overview of Mpox

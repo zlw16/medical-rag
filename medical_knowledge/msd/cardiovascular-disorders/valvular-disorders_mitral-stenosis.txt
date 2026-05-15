@@ -1,0 +1,137 @@
+标题：二尖瓣狭窄
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/valvular-disorders/mitral-stenosis
+============================================================
+
+(参见心脏瓣膜疾病概述。）
+在二尖瓣狭窄中，二尖瓣小叶变厚且不能活动，二尖瓣口变窄，这是由于瓣叶连合融合以及腱索缩短、增厚和缠结所致。
+最常见的原因是：
+然而，许多患者不记得自己曾患过风湿热。在风湿热高发地区，患者通常在30岁之前就诊，通常表现为柔韧、非钙化瓣叶的连合融合。在患病率较低的地区，患者的年龄通常在 50 至 70 岁之间，并且除了连合融合外，还伴有瓣膜下受累的钙化纤维化瓣叶。
+老年患者中一个常见的病因是二尖瓣环钙化，钙化延伸至瓣叶，导致瓣叶僵硬且无法完全打开。
+在风湿热和二尖瓣环钙化病例中，女性占比是 80% (1) 。
+有时，二尖瓣狭窄是先天性的或在放射治疗后发生。
+如果瓣膜无法完全关闭,二尖瓣反流（MR）可能与二尖瓣狭窄共存。由于风湿热所致的二尖瓣狭窄患者也可能伴有主动脉瓣或三尖瓣病变，或两者兼有。
+左心房体积和压力进行性增加以代偿二尖瓣狭窄；肺静脉和毛细血管压力也增高，可能引起继发性肺动脉高压，导致右心室心力衰竭、三尖瓣反流和肺动脉瓣反流。病情进展的速率不同。
+心房扩大易导致心房颤动，这是血栓栓塞的危险因子。随着心房颤动的发作，心率加快和心房收缩丧失通常会导致症状突然恶化。
+
+【参考文献】
+1.Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation143(5):e35–e71, 2021.doi: 10.1161/CIR.0000000000000932
+1.Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation143(5):e35–e71, 2021.doi: 10.1161/CIR.0000000000000932
+
+【二尖瓣狭窄的症状和体征】
+二尖瓣狭窄的症状与疾病的严重度无明显相关性，因为该病通常进展缓慢，病人会无意识地降低自身活动量。许多病人无症状直到他们妊娠或发生心房颤动。
+初始症状常是心力衰竭的症状（如，劳力性呼吸困难、端坐呼吸、阵发性夜间呼吸困难、疲乏）。
+症状通常在风湿热发作后15年或更长时间才出现（1）。在医疗服务不足的地区，幼儿可能会出现症状，因为链球菌感染没有得到抗生素治疗，复发性感染很常见。
+阵发性或慢性心房颤动进一步减少进入左心室（LV）的血流量，当心室率控制不良时诱发肺水肿和急性呼吸困难。心房颤动也可能引起心悸。未接受抗凝治疗且合并房颤的二尖瓣狭窄患者，每年发生卒中的风险高达约5%；偶见二尖瓣狭窄的首发症状为卒中等栓塞事件(2)。
+较少见的症状包括肺小血管破裂和肺水肿所致咯血，特别是妊娠期血容量增加时。由于扩张的左心房或肺动脉压迫左侧喉返神经而导致的声音嘶哑称为 Ortner 综合征。
+肺动脉高压和继发性右心室衰竭（肺源性心脏病）的症状也可能出现；二尖瓣狭窄的典型面部表现，即在周围发绀的背景下出现紫红色的两颧红斑，仅在心输出量低且肺动脉高压严重时才会出现；其原因是局部皮肤血管扩张叠加在广泛的周围血管收缩和慢性低氧血症之上。对于深色皮肤的患者，颧骨潮红可能会使患者的皮肤颜色变深。
+二尖瓣狭窄患者罕见发生心内膜炎，除非也存在二尖瓣反流。
+可触及第一心音和第二心音（S1和S2）。S1最好在心尖触诊，S2最好在胸骨左上缘触诊。S2的肺动脉瓣成分（P2）形成此搏动且是肺动脉高压的结果。
+当存在肺动脉高压和右心室发生舒张功能不全时，右心室搏动（抬举）可在胸骨左缘扪及同时可能伴随有颈静脉扩张。
+响亮的S1
+响亮的S1
+舒张早期开瓣音
+舒张早期开瓣音
+低调渐弱渐强型隆隆的舒张期杂音
+低调渐弱渐强型隆隆的舒张期杂音
+二尖瓣狭窄的听诊结果包括响亮的第一心音（S1），由狭窄的二尖瓣瓣叶突然关闭（M1）引起，在心尖部听诊最清楚。当瓣膜钙化严重且无法运动时，第一心音S1可能消失。也可听到正常S2分裂伴有由于肺动脉高压所致的P2增强（见表三尖瓣狭窄和二尖瓣狭窄的杂音鉴别）。
+最突出的是舒张早期开瓣音，因瓣叶向左心室膨出而产生，在胸骨左下缘听诊最响亮；其后伴随低调递减-递增的隆隆样舒张期杂音，使用钟型听诊器于呼气末患者左侧卧位时在心尖部（或触及心尖搏动处）听诊效果最佳。如果二尖瓣瓣膜钙化，开瓣音可以是轻柔的或缺如；当二尖瓣狭窄变得更严重，左心房压力增加时，开瓣音向S2靠近（增加杂音持续时间）。
+舒张期杂音在瓦尔萨尔瓦动作后（当血液涌入左心房时）、运动后以及增加后负荷的操作（如蹲踞、等长握力）后会增强。当扩张的右心室使左心室向后方移位或当其他疾病（肺动脉高压、右心瓣膜异常、快速心室率的房颤）导致二尖瓣血流量减少时，杂音可能更柔和或消失。收缩期前渐强音是由于心房收缩时血流增加所致。但左室收缩时二尖瓣瓣叶关闭也可能导致这种现象，但只在舒张期末的极短的时间内发生，此时左心房压力仍然很高。
+
+【心脏杂音的心音图特征】
+心脏杂音的心音图特征
+可能与MS杂音共存的舒张期杂音有：
+合并主动脉瓣关闭不全时的舒张早期杂音，可能向心尖部传导
+合并主动脉瓣关闭不全时的舒张早期杂音，可能向心尖部传导
+严重二尖瓣反流时舒张期血流音
+严重二尖瓣反流时舒张期血流音
+左心房黏液瘤或球形血栓阻塞所致的舒张中期杂音（罕见）
+左心房黏液瘤或球形血栓阻塞所致的舒张中期杂音（罕见）
+Graham Steell杂音（一柔软的递减型舒张期杂音，沿胸骨左缘听诊最佳，由继发于严重肺动脉高压的肺动脉瓣反流所致）
+Graham Steell杂音（一柔软的递减型舒张期杂音，沿胸骨左缘听诊最佳，由继发于严重肺动脉高压的肺动脉瓣反流所致）
+
+【三尖瓣狭窄和二尖瓣狭窄的杂音鉴别】
+三尖瓣狭窄和二尖瓣狭窄的杂音鉴别
+三尖瓣狭窄
+二尖瓣狭窄
+隆隆样，低调
+持续时间
+在舒张早期开始，直到S1不增强
+整个舒张期都增强
+增强的因素
+胸骨右缘和左缘下部
+心尖部，病人左侧卧位
+S1=第一心音。
+S1=第一心音。
+
+【症状和体征参考】
+1.Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation143(5):e35–e71, 2021.doi: 10.1161/CIR.0000000000000932
+1.Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation143(5):e35–e71, 2021.doi: 10.1161/CIR.0000000000000932
+2.Meschia JF, Bushnell C, Boden-Albala B, et al.Guidelines for the primary prevention of stroke: a statement for healthcare professionals from the American Heart Association/American Stroke Association.Stroke2014;45(12):3754-3832.doi:10.1161/STR.0000000000000046
+2.Meschia JF, Bushnell C, Boden-Albala B, et al.Guidelines for the primary prevention of stroke: a statement for healthcare professionals from the American Heart Association/American Stroke Association.Stroke2014;45(12):3754-3832.doi:10.1161/STR.0000000000000046
+
+【二尖瓣狭窄的诊断】
+超声心动图
+超声心动图
+二尖瓣狭窄的诊断通常基于临床怀疑，并由超声心动图确诊。二维超声心动图可显示瓣膜及瓣下结构异常。也可以提供关于瓣膜钙化、狭窄和左心房大小程度的信息。多普勒超声心动图提供关于经瓣膜压力阶差和肺动脉压力的信息。二尖瓣口的正常面积是4～5cm2。
+二尖瓣狭窄的严重程度在超声心动图上表现为 (1)：
+中度：瓣膜面积 > 1.5 至 2.5 厘米2或舒张压半降时间<150 毫秒
+中度：瓣膜面积 > 1.5 至 2.5 厘米2或舒张压半降时间<150 毫秒
+重度：瓣膜面积≤ 1.5 厘米2或舒张压半降时间 ≥ 150 毫秒；症状经常出现
+重度：瓣膜面积≤ 1.5 厘米2或舒张压半降时间 ≥ 150 毫秒；症状经常出现
+然而，瓣口面积和症状之间的关系并不总是一致的。彩色多普勒超声心动图可检测相关的二尖瓣反流。经食管超声心动图可用于检测或排除左心房小血栓，尤其是位于左心耳的血栓，这些血栓通常无法通过经胸超声心动图看到。当二尖瓣钙化导致经胸窗左心房声学阴影时，经食管超声心动图也能更好地评估二尖瓣反流。
+常进行心电图和胸部Ｘ线检查。
+心电图可显示左心房扩大，表现为P波持续时间>0.12毫秒，并在V1导联中其终末成分有明显的负向波折（时限：>0.04毫秒；振幅：>0.10毫伏）；或在Ⅱ导联中出现宽而有切迹的P波；或两者均有。 V1导联高R波、QRS波群电轴右偏提示右心室肥厚。
+胸部Ｘ线通常显示由于扩张的左心耳所致的左心缘变直、隆突增宽。吞钡后侧位胸片可见扩张的左心房将食管向后推移。如果肺动脉高压明显，右下肺动脉内径可≥16mm。上叶肺静脉可能扩张。沿右心缘可能见到扩大的左心房的双重阴影。下后肺野的水平线（Kerley B线）提示间质水肿伴有左心房压力增高。
+运动测试有助于量化症状。进一步的信息可以从负荷超声心动图评估瓣膜压差和肺动脉压力变化中获得。
+心导管检查，适用于手术修复前对冠状动脉疾病（CAD）的围手术期评估，可确认左心房和肺动脉压力升高、心室充盈压升高、经二尖瓣压力差以及瓣口面积。
+
+【诊断参考文献】
+1.Otto CM, Nishimura RA, Bonow RO, et al.2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inCirculation2021 Feb 2;143(5):e229. doi: 10.1161/CIR.0000000000000955.] [published correction appears inCirculation2023 Aug 22;148(8):e8. doi: 10.1161/CIR.0000000000001177] [published correction appears inCirculation2023 Nov 14;148(20):e185. doi: 10.1161/CIR.0000000000001190] [published correction appears inCirculation2024 Sep 17;150(12):e267. doi: 10.1161/CIR.0000000000001284].Circulation2021;143(5):e72-e227.doi:10.1161/CIR.0000000000000923
+1.Otto CM, Nishimura RA, Bonow RO, et al.2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inCirculation2021 Feb 2;143(5):e229. doi: 10.1161/CIR.0000000000000955.] [published correction appears inCirculation2023 Aug 22;148(8):e8. doi: 10.1161/CIR.0000000000001177] [published correction appears inCirculation2023 Nov 14;148(20):e185. doi: 10.1161/CIR.0000000000001190] [published correction appears inCirculation2024 Sep 17;150(12):e267. doi: 10.1161/CIR.0000000000001284].Circulation2021;143(5):e72-e227.doi:10.1161/CIR.0000000000000923
+
+【二尖瓣狭窄的治疗】
+利尿剂，有时使用β受体阻滞剂或钙通道阻滞剂
+利尿剂，有时使用β受体阻滞剂或钙通道阻滞剂
+有时对房颤进行抗凝治疗
+有时对房颤进行抗凝治疗
+交界分离术或瓣膜置换术
+交界分离术或瓣膜置换术
+无症状的二尖瓣狭窄患者无需治疗，但在适当情况下，应进行风湿热预防以防止复发。进行系列经胸超声心动图监测很重要，因为即使患者不会注意到功能状态的变化，也不会出现二尖瓣面积的减少，右心室扩大和右心室收缩压升高仍可能会发生。早期干预可以在肺动脉高压变成永久性之前缓解它。
+对于症状轻微的患者，通常可采用利尿剂治疗；若伴有窦性心动过速或心房颤动，可联用β受体阻滞剂或钙通道阻滞剂，以控制心室率并降低二尖瓣跨瓣压差。
+如果患者有或曾经有房颤、栓塞或左心房血栓，则应使用维生素K拮抗剂(如华法林)进行抗凝以预防血栓栓塞。窦性心律的长期恢复很少能实现。在存在自发性致密对比回声或左心房扩大（M型超声心动图测量直径＞50 mm）的情况下，也应考虑抗凝治疗，因为这些发现与血栓栓塞有关，尽管尚未对这些患者的抗凝治疗进行研究。应鼓励所有患者，尽管有劳力性呼吸困难，仍应坚持进行至少低水平的体育锻炼。注意非维生素K口服抗凝药不适用于风湿性二尖瓣狭窄患者的抗凝治疗。（另见人工心脏瓣膜或自体瓣膜疾病患者的抗凝治疗。）
+除人工瓣膜置换术患者外，不推荐使用抗生素预防心内膜炎（见表口腔 - 牙科或呼吸道手术期间推荐的心内膜炎预防措施）。
+
+【介入的时机】
+对于存在症状且运动诱发平均跨二尖瓣压差＞15 mm Hg或肺毛细血管嵌顿压＞25 mm Hg的中度二尖瓣狭窄患者可考虑接受经皮球囊二尖瓣成形术。当其他指征需要进行心脏手术时，可能需要外科干预。
+重度二尖瓣狭窄的干预指征：若患者出现任何症状且瓣膜适合行经皮球囊二尖瓣成形术，则需干预；对于无症状者，若肺动脉压＞50mmHg或出现新发房颤，也可考虑干预。心脏手术仅在症状严重且不适合经皮球囊交界分离术或需要其他心脏手术或无法进行经皮手术的患者时进行 (1)。
+
+【干预的选择】
+经皮二尖瓣球囊交界分离术是年轻患者以及无瓣膜重度钙化、瓣下结构扭曲、左心房血栓或中度至重度二尖瓣反流（MR）患者的首选治疗方法（见表二尖瓣反流分级—1）。在这种以透视和超声心动图指导的手术中，将带有可充气远端球囊的经静脉导管经房间隔从右心房送至左心房，并充盈球囊以分离粘连的二尖瓣交界。结果与侵入性更强的手术的结果相当。并发症少见，包括二尖瓣反流、栓塞和心包填塞。超过四分之三的手术导致的房间隔缺损会自发闭合；其余大部分房间隔缺损仅引起临床上轻微的左向右分流，但偶尔需要经皮闭合 (2)。
+外科交界分离术可用于严重瓣下疾病、瓣膜钙化或左心房血栓的患者。在此手术中，通过胸廓切开术将扩张器经左心室送入（闭式交界分离术）以分离粘连的二尖瓣瓣叶，或通过胸骨切开术在直视下进行分离（开放式交界分离术）。术式选择取决于术者经验及瓣膜形态，但目前已较少采用闭式分离术。由于其更大的风险，手术通常推迟到症状达到纽约心功能分级III级（见表心力衰竭分级）。在手术中，一些临床医生结扎左心耳以降低血栓栓塞的风险。
+瓣膜置换术仅限于有严重形态学改变，使瓣膜不适合进行球囊或外科交界分离术的患者。 有机械瓣膜的患者需要终身使用华法林抗凝预防血栓栓塞。二尖瓣生物人工瓣膜需要在术后3到6个月内用华法林抗凝。对于患有心房颤动和生物瓣膜的患者，可以考虑使用直接口服抗凝剂 (DOAC)（另见人工心脏瓣膜或原发性瓣膜疾病患者的抗凝治疗）。
+当病因是瓣环钙化时，由于没有交界融合，经皮球囊交界分离术无法使患者获益。此外，由于瓣环钙化，外科瓣膜置换术技术要求很高，而且由于许多患者年龄较大且有合并症，手术风险往往很高。因此，在已经使用利尿剂和心率控制药物的情况下，干预措施推迟到症状变得严重时再进行。不适合手术的患者，或许能从在二尖瓣位置植入经导管主动脉瓣置换（TAVR）生物瓣中获益。
+
+【治疗参考文献】
+1.Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation143(5):e35–e71, 2021.doi: 10.1161/CIR.0000000000000932
+1.Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation143(5):e35–e71, 2021.doi: 10.1161/CIR.0000000000000932
+2.Manjunath CN, Panneerselvam A, Srinivasa KH, et al: Incidence and predictors of atrial septal defect after percutaneous transvenous mitral commissurotomy - a transesophageal echocardiographic study of 209 cases.Echocardiography30(2):127-130, 2013.doi:10.1111/echo.12025
+2.Manjunath CN, Panneerselvam A, Srinivasa KH, et al: Incidence and predictors of atrial septal defect after percutaneous transvenous mitral commissurotomy - a transesophageal echocardiographic study of 209 cases.Echocardiography30(2):127-130, 2013.doi:10.1111/echo.12025
+
+【二尖瓣狭窄的预后】
+二尖瓣狭窄的自然病程各异，但从症状出现到严重功能障碍的平均间隔约为9年（1）。结果受患者手术前年龄和功能状态、肺动脉高压的存在和二尖瓣反流程度影响。对于瓣膜未钙化的患者，球囊交界分离术或外科交界分离术的症状改善效果相当。然而，在不同时期后，多数患者会因再狭窄导致功能恶化，届时可能需要瓣膜置换术。心房颤动和肺动脉高压是死亡的危险因素。心力衰竭、肺栓塞或脑血管栓塞是最常见的死亡原因。
+
+【预后参考】
+1.Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation143(5):e35–e71, 2021.doi: 10.1161/CIR.0000000000000932
+1.Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation143(5):e35–e71, 2021.doi: 10.1161/CIR.0000000000000932
+二尖瓣狭窄通常由风湿热引起，然而在老年患者中，钙化变性正日益常见。
+二尖瓣狭窄通常由风湿热引起，然而在老年患者中，钙化变性正日益常见。
+肺动脉高压和心房颤动可能出现。
+肺动脉高压和心房颤动可能出现。
+患有房颤合并二尖瓣狭窄的患者，其血栓栓塞风险非常高，应采用维生素K拮抗剂治疗，而非使用非维生素K类口服抗凝药物。
+患有房颤合并二尖瓣狭窄的患者，其血栓栓塞风险非常高，应采用维生素K拮抗剂治疗，而非使用非维生素K类口服抗凝药物。
+心音包括响亮的第一心音和舒张早期开放拍击音，随后是低沉的递减-递增隆隆样舒张期杂音，在患者左侧卧位呼气末在心尖处听诊最清晰；瓦尔萨尔瓦动作、运动、下蹲和等长手握时杂音增强。
+心音包括响亮的第一心音和舒张早期开放拍击音，随后是低沉的递减-递增隆隆样舒张期杂音，在患者左侧卧位呼气末在心尖处听诊最清晰；瓦尔萨尔瓦动作、运动、下蹲和等长手握时杂音增强。
+症状轻微的患者通常对利尿剂有反应，如果存在窦性心动过速或心房颤动，可使用β受体阻滞剂或钙通道阻滞剂来控制心率。
+症状轻微的患者通常对利尿剂有反应，如果存在窦性心动过速或心房颤动，可使用β受体阻滞剂或钙通道阻滞剂来控制心率。
+症状严重的患者和有肺动脉高压证据的患者需要接受交界分离术或瓣膜置换术。
+症状严重的患者和有肺动脉高压证据的患者需要接受交界分离术或瓣膜置换术。

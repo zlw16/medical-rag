@@ -1,0 +1,151 @@
+标题：念珠菌病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/fungal-infections/candidiasis
+============================================================
+
+Candida（假丝酵母菌）属是存在于消化道（GI）和皮肤的共生菌（见皮肤黏膜念珠菌病的病因学）。与其他系统性真菌病不同，假丝酵母菌病是由内源性病原菌感染引起的。
+大多数感染由C. albicans（白色念珠菌）引起；然而，Nakaseomyces glabrata（光滑念珠菌）（既往称为C. glabrata（光滑念珠菌））（1）以及其他非白念珠菌（albicans）物种（如近平滑念珠菌（C. parapsilosis）、热带念珠菌（C. tropicalis））在真菌血症、尿路感染以及偶发的其他局灶性感染中的检出率正逐渐增加。
+不同Candida（念珠菌）菌种的抗菌药物敏感性各不相同：
+N. glabrata（光滑念珠菌） 与其他物种相比，对氟康唑的敏感性较低。
+N. glabrata（光滑念珠菌） 与其他物种相比，对氟康唑的敏感性较低。
+Pichia kudriavzevii（克鲁斯念珠菌）（旧称C. krusei（克柔念珠菌））本身对氟康唑具有耐药性；对伏立康唑和两性霉素 B的耐药发生率存在差异。P. kudriavzevii（克鲁斯念珠菌）最常见的是对棘白菌素敏感。
+Pichia kudriavzevii（克鲁斯念珠菌）（旧称C. krusei（克柔念珠菌））本身对氟康唑具有耐药性；对伏立康唑和两性霉素 B的耐药发生率存在差异。P. kudriavzevii（克鲁斯念珠菌）最常见的是对棘白菌素敏感。
+金色假丝酵母是一种新兴的多重耐药菌种，曾在医院引发疫情暴发。
+金色假丝酵母是一种新兴的多重耐药菌种，曾在医院引发疫情暴发。
+Candida（念珠菌）菌种是全身性真菌感染的主要原因，也是免疫功能低下患者（2）真菌感染的最常见原因。念珠菌感染是最常见的医院感染之一 (3) 。由于C. auris（耳念珠菌）在医疗机构中的耐药性和传播已成为一个令人担忧的问题，因此对定植或感染C. auris（耳念珠菌）的患者已采取特殊感染控制预防措施 (4) 。
+食管念珠菌病是晚期HIV感染患者的一种定义性机会性感染。尽管黏膜皮肤念珠菌病在晚期 HIV 感染患者中较为常见，但除非存在其他特定危险因素，否则经血行播散并不常见（见播散性念珠菌病）。
+弥漫性白色斑块是典型的Candida食道炎。
+口腔念珠菌病有多种形式，包括口角唇炎和口腔粘膜上的假膜斑块，可能与假牙有关，如上图所示（上），也可发生于舌头（下图）或咽部。
+口腔念珠菌病有多种形式，包括口角唇炎和口腔粘膜上的假膜斑块，可能与假牙有关，如上图所示（上），也可发生于舌头（下图）或咽部。
+Images courtesy of Jonathan Ship, MD.
+这张照片显示口腔念珠菌病表现为白色渗出物覆盖在唇黏膜充血、发红、糜烂的黏膜表面上。
+这张照片显示口腔念珠菌病表现为白色渗出物覆盖在唇黏膜充血、发红、糜烂的黏膜表面上。
+© Springer Science+Business Media
+这张照片显示，一名感染艾滋病毒的儿童舌头上因念珠菌感染而出现蓬松的白色分泌物。
+这张照片显示，一名感染艾滋病毒的儿童舌头上因念珠菌感染而出现蓬松的白色分泌物。
+© Springer Science+Business Media
+口腔念珠菌病有多种形式，包括口角唇炎和口腔粘膜上的假膜斑块，可能与假牙有关，如上图所示（上），也可发生于舌头（下图）或咽部。
+口腔念珠菌病有多种形式，包括口角唇炎和口腔粘膜上的假膜斑块，可能与假牙有关，如上图所示（上），也可发生于舌头（下图）或咽部。
+Images courtesy of Jonathan Ship, MD.
+这张照片显示口腔念珠菌病表现为白色渗出物覆盖在唇黏膜充血、发红、糜烂的黏膜表面上。
+这张照片显示口腔念珠菌病表现为白色渗出物覆盖在唇黏膜充血、发红、糜烂的黏膜表面上。
+© Springer Science+Business Media
+这张照片显示，一名感染艾滋病毒的儿童舌头上因念珠菌感染而出现蓬松的白色分泌物。
+这张照片显示，一名感染艾滋病毒的儿童舌头上因念珠菌感染而出现蓬松的白色分泌物。
+© Springer Science+Business Media
+
+【播散性念珠菌病】
+念珠菌血症是美国最常见的血流感染之一（5）。
+存在中性粒细胞减少的患者（如肿瘤化疗期间或造血干细胞移植后）发生危及生命的播散性念珠菌病的风险很高。然而，在长期住院但无中性粒细胞减少的患者中，亦可发生念珠菌血症。这种感染的发生通常与下列情况有关：
+中心静脉导管
+中心静脉导管
+大型腹部手术
+大型腹部手术
+广谱抗生素治疗
+广谱抗生素治疗
+静脉补充营养液
+静脉补充营养液
+中心静脉导管和胃肠(GI)道是典型的进入途径。
+念珠菌血症常使患者的住院时间延长并增加其他并存疾病导致的病死率。念珠菌血症可并发心内膜炎或脑膜炎，并可累及皮肤、皮下组织、骨、关节、肝、脾、肾、眼及其他组织形成局灶性病变。心内膜炎通常与静脉使用非法药物、瓣膜置换术或留置静脉导管引起的血管内创伤有关。
+各种形式的播散性假丝酵母菌病均应看作是严重的、进展迅速且具有潜在致命危险性的疾病。
+（参阅真菌感染概述,念珠菌病(皮肤黏膜),念珠菌性阴道炎, 和慢性黏膜皮肤念珠菌病.)
+
+【参考文献】
+1.Rodríguez-Cerdeira C, Pinto-Almazán R, Saunte DML, et al.Virulence and resistance factors ofNakaseomyces glabratus(formerly known asCandida glabrata) in Europe: A systematic review.J Eur Acad Dermatol Venereol.2025;39(2):377-388.doi:10.1111/jdv.20273
+1.Rodríguez-Cerdeira C, Pinto-Almazán R, Saunte DML, et al.Virulence and resistance factors ofNakaseomyces glabratus(formerly known asCandida glabrata) in Europe: A systematic review.J Eur Acad Dermatol Venereol.2025;39(2):377-388.doi:10.1111/jdv.20273
+2.Lass-Flörl C, Kanj SS, Govender NP, Thompson GR 3rd, Ostrosky-Zeichner L, Govrins MA.Invasive candidiasis.Nat Rev Dis Primers.2024;10(1):20.Published 2024 Mar 21.doi:10.1038/s41572-024-00503-3
+2.Lass-Flörl C, Kanj SS, Govender NP, Thompson GR 3rd, Ostrosky-Zeichner L, Govrins MA.Invasive candidiasis.Nat Rev Dis Primers.2024;10(1):20.Published 2024 Mar 21.doi:10.1038/s41572-024-00503-3
+3.Pappas PG, Kauffman CA, Andes DR, et al.Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America.Clin Infect Dis.2016;62(4):e1-e50.doi:10.1093/cid/civ933
+3.Pappas PG, Kauffman CA, Andes DR, et al.Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America.Clin Infect Dis.2016;62(4):e1-e50.doi:10.1093/cid/civ933
+4.Centers for Disease Control and Prevention (CDC).Infection Control Guidance:Candida auris.April 24, 2024.
+4.Centers for Disease Control and Prevention (CDC).Infection Control Guidance:Candida auris.April 24, 2024.
+5.Kullberg BJ, Arendrup MC.Invasive Candidiasis.N Engl J Med.2015;373(15):1445-1456.doi:10.1056/NEJMra1315399
+5.Kullberg BJ, Arendrup MC.Invasive Candidiasis.N Engl J Med.2015;373(15):1445-1456.doi:10.1056/NEJMra1315399
+
+【侵袭性念珠菌病的症状和体征】
+侵袭性念珠菌病的症状和体征是高度可变的，取决于感染的部位和程度。最常见的表现是念珠菌血症。
+念珠菌血症常引起发热，但这些症状是非特异性的。部分患者会出现类似细菌性脓毒症的综合征，病情急剧恶化，可能包括休克、少尿、急性肾损伤和弥漫性血管内凝血。
+食管念珠菌病最常表现为吞咽痛和吞咽困难。
+念珠菌眼内炎以视网膜白色病灶开始，早期通常无症状，但随着病情进行性发展，可引起玻璃体浑浊，最终形成不可逆的瘢痕并导致失明。在中性粒细胞减少的患者中，偶可出现视网膜出血，但真正的眼部感染较为罕见。
+丘疹结节性皮肤病变亦可出现，尤其见于中性粒细胞减少的患者，在此类患者中，该表现提示已发生向其他器官的广泛血行播散。其他局灶或侵袭性感染的临床症状因受累的器官不同而异。
+
+【念珠菌病的诊断】
+组织病理学和真菌培养
+组织病理学和真菌培养
+血清 (1,3)β-D-葡聚糖
+血清 (1,3)β-D-葡聚糖
+蛋白质组学检测
+蛋白质组学检测
+分子诊断
+分子诊断
+侵袭性念珠菌病的诊断通过从血液培养或其他无菌部位标本中检测到念珠菌属建立，这被认为是诊断的金标准(1)。来源于无菌部位的标本如血、脑脊液、心包或心包积液或活检组织标本的阳性培养结果可为全身性抗真菌治疗提供可靠依据。来自其他标本或部位（如痰液、口腔、阴道、尿液、粪便或皮肤）的培养物不太确定，因为念珠菌是共生菌，它们在这些部位的存在不一定表示侵袭性或进行性感染。 诊断必须具有特征性的临床病变、真菌组织侵入的病理学证据（例如，组织标本中存在酵母、假菌丝和/或菌丝）并排除其他病原菌感染的可能。
+标准实验室技术经常会误认C. auris耳念珠菌为C. haemulonii,C. famata,C. sake, 或其它种。MALDI-TOF 质谱是一种更为可靠的正确鉴定方法，可检测特异性的真菌蛋白。
+侵袭性念珠菌病患者的血清(1,3)beta-D-葡聚糖常为阳性；相反地，阴性结果提示全身感染的可能性低。
+基于核酸的检测（基于PCR的测定）也可用，并且通常比血清(1,3)β-D-葡聚糖和血液培养对侵袭性和深层感染更敏感，且特异性相当(2)。然而，当与血培养相结合时，PCR对诊断确认的敏感性为98%。
+建议对念珠菌血症患者进行眼科检查以排除眼内炎。对于是否需要对所有患者进行眼底检查还是仅对有视觉症状的患者进行眼底检查，专家们意见不一。
+该图显示了使用钙荧白染色从血液培养物中直接检测Candida albicans（白色念珠菌）。
+Image courtesy of Paschalis Vergidis, MD, MSc.
+有关其他类型念珠菌病的诊断，请参见念珠菌病（粘膜皮肤型）、慢性粘膜皮肤念珠菌病和念珠菌性阴道炎。
+
+【诊断参考】
+1.Pappas PG, Kauffman CA, Andes DR, et al: Clinical practice guideline for the management of candidiasis: 2016 update by the Infectious Diseases Society of America.Clin Infect Dis62(4):e1–e50, 2016.doi: 10.1093/cid/civ933
+1.Pappas PG, Kauffman CA, Andes DR, et al: Clinical practice guideline for the management of candidiasis: 2016 update by the Infectious Diseases Society of America.Clin Infect Dis62(4):e1–e50, 2016.doi: 10.1093/cid/civ933
+2.Nguyen MH, Wissel MC, Shields RK, et al.Performance ofCandidareal-time polymerase chain reaction, β-D-glucan assay, and blood cultures in the diagnosis of invasive candidiasis.Clin Infect Dis.2012;54(9):1240-1248.doi:10.1093/cid/cis200
+2.Nguyen MH, Wissel MC, Shields RK, et al.Performance ofCandidareal-time polymerase chain reaction, β-D-glucan assay, and blood cultures in the diagnosis of invasive candidiasis.Clin Infect Dis.2012;54(9):1240-1248.doi:10.1093/cid/cis200
+
+【念珠菌病的治疗】
+对于重症或危重患者，或怀疑感染N. glabrata（光滑念珠菌）、C. auris（耳念珠菌）或P. kudriavzevii（库德里阿兹威毕赤酵母）时，首选棘白菌素类药物。
+对于重症或危重患者，或怀疑感染N. glabrata（光滑念珠菌）、C. auris（耳念珠菌）或P. kudriavzevii（库德里阿兹威毕赤酵母）时，首选棘白菌素类药物。
+若患者临床情况稳定，或一旦获得抗真菌药物敏感性结果，可使用氟康唑。
+若患者临床情况稳定，或一旦获得抗真菌药物敏感性结果，可使用氟康唑。
+也可选用伏立康唑或两性霉素B
+也可选用伏立康唑或两性霉素B
+氟康唑或其他三唑类或棘白菌素类用于食管念珠菌病
+氟康唑或其他三唑类或棘白菌素类用于食管念珠菌病
+（参见抗真菌药物。）
+对于念珠菌血症和侵袭性念珠菌病，推荐初始使用棘白菌素进行治疗，并可能逐步降级至氟康唑或其他唑类(1) 。
+有关其他类型念珠菌病的治疗，请参见念珠菌病（粘膜皮肤型）、慢性粘膜皮肤念珠菌病和念珠菌性阴道炎。
+
+【侵袭性念珠菌病】
+在侵袭性念珠菌病患者中，应尽可能逆转或控制易感因素（如中性粒细胞减少、免疫抑制、广谱抗菌药物使用、肠外营养、留置导管等）。
+对于无中性粒细胞减少的患者，应移除静脉导管。
+对于中度至重度或危重患者（多数中性粒细胞减少患者），或怀疑N. glabrata（光滑念珠菌）、C. auris（克柔念珠菌）或P. kudriavzevii（耳念珠菌）感染时，可选用以下棘白菌素类药物之一：
+卡泊芬净
+卡泊芬净
+米卡芬净
+米卡芬净
+阿尼芬净
+阿尼芬净
+瑞扎芬净
+瑞扎芬净
+若患者临床情况稳定，或一旦获得抗真菌药物敏感性结果，可使用氟康唑。
+对于难治性疾病或已证实对其他抗真菌药物耐药者，可使用脂质制剂两性霉素 B（1）。
+念珠菌血症的治疗在血流感染清除后持续14天，前提是没有感染转移灶。
+
+【食管念珠菌病】
+食管念珠菌病主要采用口服或静脉给药的氟康唑治疗（1）。
+若氟康唑疗效不佳或感染较为严重，可采用以下治疗之一：
+伊曲康唑
+伊曲康唑
+伏立康唑
+伏立康唑
+泊沙康唑
+泊沙康唑
+艾沙康唑
+艾沙康唑
+一种棘白菌素
+一种棘白菌素
+两性霉素B因其潜在的全身毒性而不太优选。食管念珠菌病的治疗需持续14至21天。
+
+【治疗参考】
+1.Pappas PG, Kauffman CA, Andes DR, et al: Clinical practice guideline for the management of candidiasis: 2016 update by the Infectious Diseases Society of America.Clin Infect Dis62(4):e1–e50, 2016.doi: 10.1093/cid/civ933
+1.Pappas PG, Kauffman CA, Andes DR, et al: Clinical practice guideline for the management of candidiasis: 2016 update by the Infectious Diseases Society of America.Clin Infect Dis62(4):e1–e50, 2016.doi: 10.1093/cid/civ933
+与其他系统性真菌病不同，侵袭性念珠菌病是由内源性病原菌感染引起的。
+与其他系统性真菌病不同，侵袭性念珠菌病是由内源性病原菌感染引起的。
+侵袭性感染通常发生于免疫功能受损和/或住院患者，尤其是接受过腹部手术或使用过广谱抗生素者。
+侵袭性感染通常发生于免疫功能受损和/或住院患者，尤其是接受过腹部手术或使用过广谱抗生素者。
+需通过来自通常无菌部位（如血液、脑脊液、组织活检标本）的培养阳性结果，将侵袭性感染与正常定植相鉴别；在侵袭性念珠菌病患者中，血清（1,3）β-D-葡聚糖检测和 PCR 检测常呈阳性。
+需通过来自通常无菌部位（如血液、脑脊液、组织活检标本）的培养阳性结果，将侵袭性感染与正常定植相鉴别；在侵袭性念珠菌病患者中，血清（1,3）β-D-葡聚糖检测和 PCR 检测常呈阳性。
+如果患者病情严重或危重，或怀疑感染了N. glabrata（光滑念珠菌）、C. auris（耳念珠菌）或P. kudriavzevii（克鲁斯念珠菌），则使用棘白菌素。
+如果患者病情严重或危重，或怀疑感染了N. glabrata（光滑念珠菌）、C. auris（耳念珠菌）或P. kudriavzevii（克鲁斯念珠菌），则使用棘白菌素。
+若患者临床情况稳定，或一旦获得抗真菌药物敏感性结果，可使用氟康唑。
+若患者临床情况稳定，或一旦获得抗真菌药物敏感性结果，可使用氟康唑。

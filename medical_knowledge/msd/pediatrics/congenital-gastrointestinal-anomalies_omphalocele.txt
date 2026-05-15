@@ -1,0 +1,37 @@
+标题：脐膨出
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-gastrointestinal-anomalies/omphalocele
+============================================================
+
+（参见先天性胃肠道畸形概述。)
+脐膨出的估计发病率为每10,000例活产中有2至3例(1)。它比腹裂少见。
+脐膨出患儿的疝出内脏的表面覆盖一层薄膜，它可以很小，仅少部分肠段突入，也可以很大，几乎大部分腹腔内脏可以嵌入（小肠、胃、肝脏）。即刻的危险包括：脏器表面的干燥、热量丢失导致低体温、脏器表面水分挥发导致脱水、腹膜感染。
+患有脐膨出的婴儿合并其他先天性异常的发生率极高（约三分之二），包括以下情况：
+染色体异常（例如，18三体,13三体,唐氏综合症 [21 三体])
+染色体异常（例如，18三体,13三体,唐氏综合症 [21 三体])
+先天性心脏病和肾脏异常
+先天性心脏病和肾脏异常
+贝克威斯-威德曼综合征
+贝克威斯-威德曼综合征
+常规产前超声可检测到脐膨出（2）；若确诊存在该异常，应在具备处理此畸形及其他相关先天异常经验的三级医疗中心分娩。
+这张照片显示了一个大的脐膨出。 注意脐膨出底部的膜质覆盖物和脐带。该患者还具有其他先天性异常，例如唇裂和腭裂以及左侧无眼症和鞘膜积液（此照片中未显示）。
+© Springer Science+Business Media
+
+【参考文献】
+1.Nembhard WN, Bergman JEH, Politis MD, et al: A multi-country study of prevalence and early childhood mortality among children with omphalocele.Birth Defects Res112(20):1787-1801, 2020.doi:10.1002/bdr2.1822
+1.Nembhard WN, Bergman JEH, Politis MD, et al: A multi-country study of prevalence and early childhood mortality among children with omphalocele.Birth Defects Res112(20):1787-1801, 2020.doi:10.1002/bdr2.1822
+2.Bence CM, Wagner AJ: Abdominal wall defects.Transl Pediatr10(5):1461-1469, 2021.doi:10.21037/tp-20-94
+2.Bence CM, Wagner AJ: Abdominal wall defects.Transl Pediatr10(5):1461-1469, 2021.doi:10.21037/tp-20-94
+
+【脐膨出的治疗】
+外科手术修复
+外科手术修复
+在分娩时，暴露的内脏应立即用无菌、湿润、不粘连的敷料覆盖（例如，可涂抹药物的凡士林纱布，其上再覆盖保鲜膜），以保持无菌状态并防止水分蒸发。然后应给婴儿静脉输液和抗生素（例如氨苄西林联合庆大霉素等广谱抗生素方案）（1），并放置鼻胃管。由于暴露的肠道存在大量体液流失，所需液体量通常显著高于正常健康新生儿的需液量（1.5至2倍）。
+婴儿的脐膨出修补术之前，应评估相关的异常。在可行的情况下，施行一期闭合术。具有巨大脐膨出，腹腔可能太小，无法容纳内脏。在这种情况下，内脏被一个聚合物硅胶薄膜制成的袋子或筒状物所覆盖。随着腹部的容量逐渐增加，这个袋子或筒状物的尺寸会逐渐缩小，直到所有的内脏都被包裹在腹腔内。死亡率和结果与缺陷的大小相关 (2，3)。
+
+【治疗参考文献】
+1.Ravikumar C, Mitchell IC, Cantey JB.Antibiotic Utilization and Infection Among Infants with Abdominal Wall Defects.Pediatr Infect Dis J.2020;39(12):1116-1120.doi:10.1097/INF.0000000000002867
+1.Ravikumar C, Mitchell IC, Cantey JB.Antibiotic Utilization and Infection Among Infants with Abdominal Wall Defects.Pediatr Infect Dis J.2020;39(12):1116-1120.doi:10.1097/INF.0000000000002867
+2.Chin VHY, Hung JWS, Wong VHY, et al.Clinical characteristics and outcome of omphalocele and gastroschisis: a 20-year multicenter regional experience.Pediatr Surg Int.2024;40(1):210.Published 2024 Jul 25.doi:10.1007/s00383-024-05783-0
+2.Chin VHY, Hung JWS, Wong VHY, et al.Clinical characteristics and outcome of omphalocele and gastroschisis: a 20-year multicenter regional experience.Pediatr Surg Int.2024;40(1):210.Published 2024 Jul 25.doi:10.1007/s00383-024-05783-0
+3.Raymond SL, Downard CD, St Peter SD, et al.Outcomes in omphalocele correlate with size of defect.J Pediatr Surg.2019;54(8):1546-1550.doi:10.1016/j.jpedsurg.2018.10.047
+3.Raymond SL, Downard CD, St Peter SD, et al.Outcomes in omphalocele correlate with size of defect.J Pediatr Surg.2019;54(8):1546-1550.doi:10.1016/j.jpedsurg.2018.10.047

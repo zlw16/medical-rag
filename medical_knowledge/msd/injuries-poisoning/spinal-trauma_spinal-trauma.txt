@@ -1,0 +1,277 @@
+标题：脊柱外伤
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/spinal-trauma/spinal-trauma
+============================================================
+
+脊柱外伤可引起脊髓或椎骨损伤，或两者同时发生。有时脊神经也受累。有关详细信息，请参见脊柱解剖学。
+脊髓损伤可分为：
+不完全性
+不完全性
+（参见创伤病人的处理章节。）
+
+【脊柱创伤的病因学】
+
+【脊髓损伤】
+美国每年大约有18,000例，或每一百万人口中有54例脊髓损伤患者 (1)。
+脊髓损伤最常见的原因如下：
+机动车车祸
+机动车车祸
+美国脊髓损伤患者的人口数据库发现，车祸占损伤的38%，跌倒占31%（2）。其余脊髓损伤的原因是暴力（13%）、运动（9%）以及医疗或外科手术并发症（5%）。其中男性患者占约80%。
+在老年人中，跌倒是最常见的脊髓损伤原因（1，3）。骨质疏松和退行性关节疾病可能会由于退化关节成角畸形、骨赘侵犯脊髓以及脆骨易骨折等原因增加了低冲击速度时脊髓损伤的风险。
+当钝性力量作用于椎骨、韧带或椎间盘，引起脊髓组织擦伤、挤压或撕裂，以及发生贯通伤（枪伤或刀伤）时可发生脊髓损伤。同时也能导致血管损伤造成局部缺血或血肿（典型的是硬膜外血肿），导致进一步损伤。所有形式的损伤都能引起脊髓水肿，从而导致进一步的脊髓缺血和缺氧。损伤的神经细胞过度释放神经递质，细胞因子引起炎症免疫反应，自由基的蓄积以及细胞凋亡，介导损伤的发生。
+
+【脊椎损伤】
+
+【脊柱和脊髓解剖】
+脊柱和脊髓解剖
+Macrovector/stock.adobe.com
+脊椎损伤：
+骨折可累及椎体、椎板、椎弓根，以及棘突、关节突和横突。
+骨折可累及椎体、椎板、椎弓根，以及棘突、关节突和横突。
+错位通常累及小关节
+错位通常累及小关节
+半脱位指韧带断裂而不伴骨折
+半脱位指韧带断裂而不伴骨折
+在颈部，后方结构的骨折和脱位可损伤椎动脉，导致类似脑干卒中的表现。
+不稳定性脊椎损伤是指骨骼和 / 或韧带完整性破坏到足以发生自由活动的损伤，可能压迫脊髓或其血管供应，导致明显疼痛和神经功能的潜在恶化。 这种脊椎移动可在移动患者时发生（例如在最初的病情评估过程中救护转运）。稳定性脊椎骨折能够抵抗这样的移动。
+这张 CT 的冠状（正面）视图显示了第二腰椎体上部的骨折。
+Living Art Enterprises, LLC /SCIENCE PHOTO LIBRARY
+特殊的脊椎损伤因为创伤发生机制不同而有所差别。屈曲性损伤能导致椎体的楔形骨折或棘突的骨折。较大的屈曲力能导致两侧的小关节错位，如果力量作用于C1或C2可发生齿状突骨折、寰枕或寰枢椎半脱位，或同时发生骨折及半脱位。旋转性损伤能导致单侧小关节错位。伸展性损伤通常导致后椎弓骨折。挤压性损伤导致椎体的爆裂性骨折。
+
+【马尾损伤】
+脊髓的下尖端(髓圆锥)通常位于或高于L1椎体的水平。脊神经在这个水平以下形成马尾。因此，该节段以下的脊柱损伤表现可能类似脊髓损伤，尤其是圆锥马尾综合征（见表脊髓综合征）。
+
+【病因参考文献】
+1.Jain NB, Ayers GD, Peterson EN, et al.Traumatic spinal cord injury in the United States, 1993-2012.JAMA.2015;313(22):2236-2243.doi:10.1001/jama.2015.6250
+1.Jain NB, Ayers GD, Peterson EN, et al.Traumatic spinal cord injury in the United States, 1993-2012.JAMA.2015;313(22):2236-2243.doi:10.1001/jama.2015.6250
+2.Chen Y, He Y, DeVivo MJ.Changing Demographics and Injury Profile of New Traumatic Spinal Cord Injuries in the United States, 1972-2014.Arch Phys Med Rehabil.2016;97(10):1610-1619.doi:10.1016/j.apmr.2016.03.017
+2.Chen Y, He Y, DeVivo MJ.Changing Demographics and Injury Profile of New Traumatic Spinal Cord Injuries in the United States, 1972-2014.Arch Phys Med Rehabil.2016;97(10):1610-1619.doi:10.1016/j.apmr.2016.03.017
+3.Bruggink C, van de Ree CLP, van Ditshuizen J, et al.Increased incidence of traumatic spinal injury in patients aged 65 years and older in the Netherlands.Eur Spine J.2024;33(10):3677-3684.doi:10.1007/s00586-024-08310-w
+3.Bruggink C, van de Ree CLP, van Ditshuizen J, et al.Increased incidence of traumatic spinal injury in patients aged 65 years and older in the Netherlands.Eur Spine J.2024;33(10):3677-3684.doi:10.1007/s00586-024-08310-w
+
+【脊髓损伤的症状和体征】
+脊髓损伤的主要体征是损伤平面以上的神经功能正常，损伤平面以下的功能丧失或显著降低。以0～5分标准量表评估肌力。特殊的表现依据损伤平面(见表脊髓损伤部位的影响)及脊髓是完全还是不完全损伤。脊髓损伤的急性期可发生异常勃起。
+除了运动及感觉功能，脊髓损伤还可有上运动神经元损伤的体征。这些体征包括腱反射及肌张力亢进、足底伸性反射或巴宾斯基征（大趾上伸）、阵挛（最常见于踝部，通过快速向上屈足诱发）、以及霍夫曼反射（阳性表现为在弹拨中指指甲后，拇指末节指骨出现屈曲）。
+脊椎损伤，同其他骨折和脱位一样，典型表现为疼痛，但患者可能因为其他疼痛性损伤（例如长骨骨折）或因毒物或颅脑损伤导致意识改变，从而无法表达疼痛。
+
+【脊髓损伤的节段效应】
+脊髓损伤的节段效应
+损伤的椎体水平*
+可能的影响†
+C5或以上节段
+呼吸肌麻痹
+四肢瘫痪
+C5和C6间
+双下肢、手腕、手掌瘫痪
+肩部外展和屈肘无力
+肱桡肌深腱反射消失
+C6和C7间
+双下肢、手腕、手掌瘫痪，而肩部运动和肘屈曲通常仍然保留
+肱二头肌反射消失
+C7和C8间
+四肢瘫痪
+肱三头肌反射消失
+C8至T1
+横贯性损伤，Horner综合症（上睑下垂、瞳孔缩小、面部无汗）
+双下肢瘫痪
+T1和L1之间
+躯干和下肢肌肉麻痹
+肩膀以下失去知觉
+失去对肠道和膀胱的控制
+马尾（通常大约L2到S5）
+双下肢反射减退或无反射性麻痹
+疼痛和感觉过敏通常出现在受累神经根的分布范围
+常常无法控制大小便
+S3-S5节段或L1节段的脊髓圆锥
+完全无法控制大小便
+会阴感觉减弱（鞍区感觉缺失）
+根据病变部位和相关损伤，腿部无力的程度各不相同
+*缩写指椎体水平。注意损伤的椎体水平可能与受累脊髓节段不直接对应。由于感觉和运动神经根从脊髓发出的位置比相应的椎间隙高 1~2 个节段，因此记录到的神经损伤节段通常高于影像学显示的压迫和损伤节段。
+†阴茎异常勃起、直肠张力降低和尾部反射改变可发生于任何节段的损伤。
+*缩写指椎体水平。注意损伤的椎体水平可能与受累脊髓节段不直接对应。由于感觉和运动神经根从脊髓发出的位置比相应的椎间隙高 1~2 个节段，因此记录到的神经损伤节段通常高于影像学显示的压迫和损伤节段。
+†阴茎异常勃起、直肠张力降低和尾部反射改变可发生于任何节段的损伤。
+
+【完全性脊髓损伤】
+完全性脊髓损伤导致：
+即刻且完全的弛缓性瘫痪（包括肛门括约肌张力丧失）
+即刻且完全的弛缓性瘫痪（包括肛门括约肌张力丧失）
+失去所有的感觉和反射活动
+失去所有的感觉和反射活动
+损伤节段以下的自主神经功能障碍
+损伤节段以下的自主神经功能障碍
+高位颈椎损伤（在C5或C5节段以上）影响呼吸肌，导致呼吸功能不全，对于损伤C3或C3以上节段的患者可能发生呼吸机依赖。因颈髓的损伤引起的自主神经功能障碍可导致心动过缓和低血压，这种情况称为神经源性休克。 与其他形式的休克不同，皮肤保持温暖和干燥。可能发生心律失常和血压不稳定。
+松弛性麻痹在数小时至数周内逐渐转变为痉挛性麻痹，由于下降抑制的丧失，深肌腱反射增加。后期，如果腰骶部脊髓完整，会出现屈肌痉挛，自主神经反射也会恢复。
+
+【不完全性脊髓损伤】
+在不完全性脊髓损伤中，会出现运动和感觉丧失，深部腱反射可能过度活跃，但至少在 S4 至 S5 节段中感觉被保留 (1)。根据病因不同，运动及感觉缺失可以是永久性或暂时性的；振荡性损伤可能导致短暂功能障碍，而挫伤或撕裂伤常引起持久性功能障碍。然而有时脊髓急性水肿引起的神经功能障碍与完全性脊髓损伤相似，称脊髓休克（不要与神经源性休克混淆）。症状可以在一到几天内好转，但可能遗留残疾。
+
+【脊髓解剖】
+脊髓解剖
+Macrovector/stock.adobe.com
+根据脊髓损伤部位不同，临床表现也不同，包括几个不同的综合征（见表脊髓综合征）。
+脊髓半切综合征：起因于单侧脊髓半切性损伤。患者表现为同侧痉挛性瘫痪，损伤部位以下的位置觉丧失，对侧痛温觉丧失。
+脊髓前部综合征是由于脊髓前部或脊髓前动脉直接受损引起的。患者损伤平面以下双侧运动及痛觉丧失。脊髓后索功能（震动觉及本体感觉）存在。
+脊髓中央综合征：通常发生在颈椎管狭窄（先天性或退行性变）患者，于过伸性损伤后出现。上肢运动功能损伤较下肢严重。如果后索受累，位置觉、震动觉和浅触觉丧失。如果脊髓丘脑束受累，疼痛、温度觉以及通常的浅或深触觉会丧失。创伤导致的脊髓出血（脊髓出血）通常局限于颈段中央灰质，导致下运动神经元损伤的表现（肌肉无力和萎缩、肌束震颤、腱反射减弱），这种情况通常是永久性的。通常是近端肌无力伴有选择性痛觉和温度觉障碍。
+
+【马尾损伤】
+运动丧失或感觉丧失，或两者兼而有之，通常为不完全性，发生于远端下肢。 感觉症状通常是双侧的，但非对称的，对一侧的影响大于另一侧。会阴部感觉减弱（鞍区麻木）。肠和膀胱功能障碍，表现为失禁或潴留。男性可能存在勃起功能障碍，女性存在性反应减弱。肛门括约肌张力松弛，球海绵体肌反射和肛门反射异常。这些表现和脊髓圆锥综合征相似。
+
+【脊髓损伤的并发症】
+后遗症决定于损伤的严重程度及损伤的节段。如果损伤位于 C5 节段或以上，则可能会影响呼吸，但损伤低至 T4 的患者也可能面临更大的风险。活动减少增加了血栓形成、泌尿系感染、肌肉挛缩、肺不张、肺炎以及褥疮的风险。可能出现致残性痉挛。心血管不稳定在颈髓损伤后不久就很常见，并与神经源性休克和自主神经反射异常相关，这些症状是由于疼痛或身体压力等事件而引发的。慢性神经源性疼痛可能表现灼烧痛或刺痛。
+
+【症状和体征】
+1.ASIA and ISCoS International Standards Committee.The 2019 revision of the International Standards for Neurological Classification of Spinal Cord Injury (ISNCSCI)-What's new?.Spinal Cord.2019;57(10):815-817.doi:10.1038/s41393-019-0350-9
+1.ASIA and ISCoS International Standards Committee.The 2019 revision of the International Standards for Neurological Classification of Spinal Cord Injury (ISNCSCI)-What's new?.Spinal Cord.2019;57(10):815-817.doi:10.1038/s41393-019-0350-9
+
+【脊柱创伤的诊断】
+对于高风险损伤患者（即使没有症状），也应考虑脊髓损伤
+对于高风险损伤患者（即使没有症状），也应考虑脊髓损伤
+CT、MRI或立位X线检查
+CT、MRI或立位X线检查
+对于不适合进行 MRI 的患者，有时需要进行 CT 脊髓造影
+对于不适合进行 MRI 的患者，有时需要进行 CT 脊髓造影
+创伤导致的脊柱损伤并不总是显而易见的。对于以下患者，必须考虑脊柱和脊髓损伤：
+涉及头部损伤
+涉及头部损伤
+骨盆骨折
+骨盆骨折
+脊柱贯通伤
+脊柱贯通伤
+车祸外伤
+车祸外伤
+严重钝物击伤
+严重钝物击伤
+从高处坠落或跳水受伤
+从高处坠落或跳水受伤
+在老年患者中，即使是轻微跌倒也必须考虑脊柱损伤。
+对于存在意识改变、局限性脊柱压痛、疼痛性干扰性损伤或相应神经功能缺损的患者，也应考虑脊柱和脊髓损伤。
+脊柱和脊髓损伤的诊断包含神经功能评估，包括反射、运动、感觉和影像学检查。
+损伤的表现可使用 ASIA（美国脊髓损伤协会）损伤分级或类似量表进行描述（见表脊髓损伤量表）。
+
+【脊髓损伤量表*】
+脊髓损伤量表*
+脊髓平面
+损害程度
+完全性：没有运动和感觉功能，包括骶段S4-S5。
+非完全性：损伤神经平面以下的感觉存在、运动丧失，包括骶段S4-S5。
+非完全性：损伤神经平面以下运动功能存在，损伤神经平面以下超过一半的关键肌肉肌力<3级。
+不完全性损伤：神经节段以下运动功能保留，且神经节段以下至少一半关键肌肉的肌力≥3级。
+正常：运动和感觉功能正常。
+* 根据美国脊髓损伤协会 (ASIA) 和国际脊髓学会 (ISCoS) 的标准。
+Kirshblum S, Snider B, Rupp R, et al; International Standards Committee of ASIA and ISCoS.Updates of the International Standards for Neurologic Classification of Spinal Cord Injury: 2015 and 2019. Phys Med RehabilClin N Am.2020;31(3):319-330.doi:10.1016/j.pmr.2020.03.005
+ASIA and ISCoS International Standards Committee.The 2019 revision of the International Standards for Neurological Classification of Spinal Cord Injury (ISNCSCI)-What's new?.Spinal Cord.2019;57(10):815-817.doi:10.1038/s41393-019-0350-9
+* 根据美国脊髓损伤协会 (ASIA) 和国际脊髓学会 (ISCoS) 的标准。
+Kirshblum S, Snider B, Rupp R, et al; International Standards Committee of ASIA and ISCoS.Updates of the International Standards for Neurologic Classification of Spinal Cord Injury: 2015 and 2019. Phys Med RehabilClin N Am.2020;31(3):319-330.doi:10.1016/j.pmr.2020.03.005
+ASIA and ISCoS International Standards Committee.The 2019 revision of the International Standards for Neurological Classification of Spinal Cord Injury (ISNCSCI)-What's new?.Spinal Cord.2019;57(10):815-817.doi:10.1038/s41393-019-0350-9
+
+【神经研究】
+对四肢进行运动功能检查。感觉测试应包括轻度触摸（后柱功能）、针刺（棘丘脑前束）和位置感（后柱作用）。最好通过从远端到近端的测试和背部的胸根来确定感觉水平，以避免被中枢脊髓综合征的颈部“斗篷”状分布（包括上背部、颈部底部和上臂近端的感觉变化）所误导。阴茎异常勃起提示脊髓损伤。直肠张力可降低，深腱反射可能亢进或消失。
+
+【影像学检查】
+对任何部位的损伤都可行X线检查。对 X 线片上显示异常的区域，以及基于临床检查结果存在损伤风险的区域，进行 CT 检查。然而，计算机断层扫描正越来越多地被用作脊柱创伤的首要影像学检查手段，这是因为其诊断准确性更高，且在许多创伤中心，作为标准化创伤诊疗流程的一部分，CT检查可快速完成（1）。
+磁共振成像（MRI）有助于确定脊髓损伤的类型和位置；它是对脊髓本身及其他软组织进行成像的最准确的检查方法，但可能无法立即获得。对于植入装置（如心脏起搏器）而无法进行 MRI 检查的患者，有时会进行 CT 脊髓造影，以识别压迫脊髓的结构。
+该 CT 显示骨折（箭头）穿过椎体后方的第 7 颈椎。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+这张颈椎的侧视图显示了第 6 椎体（箭头）的前下方骨折。
+ZEPHYR/SCIENCE PHOTO LIBRARY
+如果发现颈椎骨折、半脱位或韧带损伤，通常需要进行血管检查（通常CT血管造影）以排除合并的颈动脉或椎动脉损伤（2, 3）。
+
+【诊断参考】
+1.Expert Panel on Neurological Imaging and Musculoskeletal Imaging, Beckmann NM, West OC, et al.ACR Appropriateness Criteria® Suspected Spine Trauma.J Am Coll Radiol.2019;16(5S):S264-S285.doi:10.1016/j.jacr.2019.02.002
+1.Expert Panel on Neurological Imaging and Musculoskeletal Imaging, Beckmann NM, West OC, et al.ACR Appropriateness Criteria® Suspected Spine Trauma.J Am Coll Radiol.2019;16(5S):S264-S285.doi:10.1016/j.jacr.2019.02.002
+2.Burlew CC, Biffl WL, Moore EE, et al.Blunt cerebrovascular injuries: Redefining screen criteria in the era of non-invasive diagnosis.J Trauma Acute Care Surg.72(2):p 539, 2012. | doi: 10.1097/TA.0b013e31824b6133
+2.Burlew CC, Biffl WL, Moore EE, et al.Blunt cerebrovascular injuries: Redefining screen criteria in the era of non-invasive diagnosis.J Trauma Acute Care Surg.72(2):p 539, 2012. | doi: 10.1097/TA.0b013e31824b6133
+3.Tobert DG, Le HV, Blucher JA, et al.The Clinical Implications of Adding CT Angiography in the Evaluation of Cervical Spine Fractures: A Propensity-Matched Analysis.J Bone Joint Surg Am.2018;100(17):1490-1495.doi:10.2106/JBJS.18.00107
+3.Tobert DG, Le HV, Blucher JA, et al.The Clinical Implications of Adding CT Angiography in the Evaluation of Cervical Spine Fractures: A Propensity-Matched Analysis.J Bone Joint Surg Am.2018;100(17):1490-1495.doi:10.2106/JBJS.18.00107
+
+【脊柱创伤的治疗】
+维持氧合和脊髓灌注
+维持氧合和脊髓灌注
+支持治疗
+支持治疗
+必要时行手术内固定
+必要时行手术内固定
+长期症状治疗和康复锻炼
+长期症状治疗和康复锻炼
+
+【紧急处理】
+脊髓损伤的初始处理包括立即护理以稳定患者并防止脊柱和/或脊髓进一步损伤（1）。在没有适当固定的情况下，脊柱的屈曲或伸展可能会挫伤或切断脊髓，并导致截瘫、四肢瘫痪，甚至因脊髓损伤而死亡。
+可能患有脊柱损伤的患者应立即固定脊柱；在气管插管期间，需手动保持颈部伸直（直线稳定）。尽快将脊柱完全固定在牢固、平坦且有垫或类似的靠板上以固定脊柱位置而不增加额外的压力。质硬的颈托可用于固定颈椎。胸椎或腰椎受伤的患者可以俯卧或仰卧位搬运。那些可引起呼吸困难的颈椎损伤患者应平卧位搬运，同时注意保持呼吸道通畅，避免胸廓收缩。最好是转运到创伤中心。
+医疗处理应避免低血压和低氧，这两者都能加重脊髓损伤。许多专家主张将平均动脉压（MAP）维持在≥85至90毫米汞柱的轻度升高水平，持续5至7天，以改善脊髓灌注，并减少可能对恢复产生不利影响的低血压发作（1, 2, 3, 4）。MAP 目标可以通过使用晶体液和/或胶体、血管加压药或组合的体积补充来实现。T6-T7 以上的损伤，因为它们会损害胸心肺神经的交感神经输出，用具有变时性和正性肌力作用的血管加压药治疗，如去甲肾上腺素和多巴胺。T7 以下的病变可能对纯血管收缩剂如苯肾上腺素有足够的反应 (5)。应保持氧饱和度≥90%以防止脊髓缺血。 C5 以上的颈椎损伤会影响膈神经的输入，通常需要插管和呼吸支持。
+通常不建议常规使用高剂量皮质类固醇（1，6）。在急性脊髓损伤的情况下使用皮质类固醇一直存在争议，主要是由于有限和相互矛盾的数据。多项随机试验未显示临床获益，且报告了伤口感染、肺栓塞、败血症及死亡等不良事件增加（1,7）。然而，一些专家建议对受伤后 8 小时内出现症状的特定患者进行 24 小时高剂量甲泼尼龙输注。该方法基于随机试验的证据，这些试验发现对于受伤后很快就医的患者具有中等益处，且未增加任何并发症（8）。然而，这一益处并未得到一致验证。
+损伤的治疗采用休息、止痛剂和肌肉松弛剂，伴或不伴手术，直到肿胀和局部疼痛消退。必要时，为创伤患者提供额外的一般治疗。
+不稳定性损伤应当固定直至骨骼和软组织对齐愈合；有时需要外科行融合和内固定术。不完全性脊髓损伤的患者在减压术后可见神经功能明显恢复。相反，脊髓完全损伤后损伤平面以下的神经功能不太可能恢复。所以外科治疗的目的是稳定脊柱使之能够早期活动。
+可能需要缓解由骨碎片、硬膜外血肿或急性排列不齐引起的压迫。许多外科医生甚至建议在 MRI（或手术）之前进行床边手动复位，以治疗导致颈髓受压的颈椎平移 - 旋转或牵张损伤。然而，一般而言，脊柱外伤导致明显神经功能缺损的患者应在进行任何手术干预之前进行 MRI 评估，以确定软组织损伤并排除任何活动性压迫病理。早期手术可允许早期活动和康复。不完全性脊髓损伤减压手术的最佳时机是损伤后 24 小时内（9）。对于完全性损伤，也建议在最初24小时内进行手术，因为与不完全性脊髓损伤相比，有相似的临床益处证据。目前唯一一项研究脊髓损伤手术时机的随机对照试验将不完全性和完全性脊髓损伤合并分析(10, 11)。6个月时，在损伤24小时内进行早期减压手术的患者与后期手术相比，神经系统预后得到改善。
+其他仍在研究中的侵入性治疗包括腰椎引流管用于脊髓损伤的脑脊液 (CSF) 分流和减压手术期间的外科硬膜成形术。这两种技术都旨在降低由脊髓挫伤和水肿引起的鞘内脑脊液压力增加（以及由此产生的继发性损伤）。
+护理包括防止泌尿系统及肺部感染以及褥疮，对制动患者每2小时翻身1次（必要时应用翻身床）。需预防深部静脉血栓形成。对于有抗凝治疗（预防性或治疗性）禁忌证的不能移动的患者，可以考虑使用可回收下腔静脉滤器。
+
+【脊髓损伤后的远期治疗】
+药物能够有效控制部分患者的痉挛。口服巴氯芬和替扎尼定通常用于治疗脊髓损伤后的痉挛。对于口服药物无效的患者，可考虑鞘内注射巴氯芬。
+康复锻炼可帮助患者尽可能痊愈。康复锻炼最好由康复小组指导，包括物理治疗，技能重建，以及满足社交及情感需求方面的心理咨询。康复团队最好由具备康复专业培训的医生（康复医师）领导；团队通常包括护士、社会工作者、营养师、心理学家、物理治疗师、作业治疗师、娱乐治疗师和职业咨询师。
+物理治疗侧重于肌肉力量训练、被动牵伸运动以预防挛缩，以及合理使用辅助设备（如支具、助行器或轮椅）以改善活动能力。教导痉挛、自主神经反射异常和神经性疼痛的对策。
+职业治疗的目的是恢复精细运动功能。膀胱和肠道管理项目教导如厕方法，这可能需要间歇导尿。排便方案（包括定时刺激和使用泻药）通常是必需的。
+职业康复训练包括评价精细运动及粗运动能力以及认知能力，为了判断是否有就业的可能性。职业专家随后帮助确定可能的工作场所，并确定辅助设备和工作场所改造的需求。娱乐治疗学家使用相似的方法来使患者能够顺利的参加相应的爱好、运动和其他活动。
+情感治疗的目的是对失去身体控制后的患者，减轻他们的人格解体和不可避免的情绪压抑。情感关怀是所有其他康复组成部分成功的基础，必须伴随对患者的教育，并鼓励家属和朋友积极参与。
+
+【研究性治疗】
+促进神经再生并减少损伤脊髓中瘢痕组织形成的治疗方法正在研究中。这些治疗包括在脊髓损伤节段植入聚合物支架，以及注射自体培养巨噬细胞、人源胚胎干细胞衍生少突胶质细胞、神经干细胞和营养因子。正在进行干细胞研究；许多初步研究已经显示出有希望的结果（12,13,14）。
+植入硬膜外刺激器也在研究中，可改善脊髓损伤后的随意运动 (15)。在硬膜外刺激时，电脉冲被输送到损伤下方的脊髓表面。
+
+【治疗参考文献】
+1.Walters BC, Hadley MN, Hurlbert RJ, et al.Guidelines for the management of acute cervical spine and spinal cord injuries: 2013 Updates.Neurosurgery.60(CN_suppl_1):82–91. doi: 10.1227/01.neu.0000430319.32247.7f
+1.Walters BC, Hadley MN, Hurlbert RJ, et al.Guidelines for the management of acute cervical spine and spinal cord injuries: 2013 Updates.Neurosurgery.60(CN_suppl_1):82–91. doi: 10.1227/01.neu.0000430319.32247.7f
+2.Hawryluk G, Whetstone W, Saigal R, et al.Mean arterial blood pressure correlates with neurological recovery after human spinal cord injury: Analysis of high frequency physiologic data.J Neurotrauma.32(24):1958–1967, 2015.doi: 10.1089/neu.2014.3778
+2.Hawryluk G, Whetstone W, Saigal R, et al.Mean arterial blood pressure correlates with neurological recovery after human spinal cord injury: Analysis of high frequency physiologic data.J Neurotrauma.32(24):1958–1967, 2015.doi: 10.1089/neu.2014.3778
+3.Vale FL, Burns J, Jackson AB, et al.Combined medical and surgical treatment after acute spinal cord injury: Results of a prospective pilot study to assess the merits of aggressive medical resuscitation and blood pressure management.J Neurosurg.87(2):239–246, 1997.doi: 10.3171/jns.1997.87.2.0239
+3.Vale FL, Burns J, Jackson AB, et al.Combined medical and surgical treatment after acute spinal cord injury: Results of a prospective pilot study to assess the merits of aggressive medical resuscitation and blood pressure management.J Neurosurg.87(2):239–246, 1997.doi: 10.3171/jns.1997.87.2.0239
+4.Kwon BK, Tetreault LA, Martin AR, et al.A Clinical Practice Guideline for the Management of Patients With Acute Spinal Cord Injury: Recommendations on Hemodynamic Management. GlobalSpine J.2024;14(3_suppl):187S-211S.doi:10.1177/21925682231202348
+4.Kwon BK, Tetreault LA, Martin AR, et al.A Clinical Practice Guideline for the Management of Patients With Acute Spinal Cord Injury: Recommendations on Hemodynamic Management. GlobalSpine J.2024;14(3_suppl):187S-211S.doi:10.1177/21925682231202348
+5.Muzevich KM, Voils SA.Role of vasopressor administration in patients with acute neurologic injury.Neurocrit Care.2009;11(1):112-119.doi:10.1007/s12028-009-9214-z
+5.Muzevich KM, Voils SA.Role of vasopressor administration in patients with acute neurologic injury.Neurocrit Care.2009;11(1):112-119.doi:10.1007/s12028-009-9214-z
+6.Tetreault LA, Kwon BK, Evaniew N, et al.A Clinical Practice Guideline on the Timing of Surgical Decompression and Hemodynamic Management of Acute Spinal Cord Injury and the Prevention, Diagnosis, and Management of Intraoperative Spinal Cord Injury: Introduction, Rationale, and Scope.Global Spine J.2024;14(3_suppl):10S-24S.doi:10.1177/21925682231183969
+6.Tetreault LA, Kwon BK, Evaniew N, et al.A Clinical Practice Guideline on the Timing of Surgical Decompression and Hemodynamic Management of Acute Spinal Cord Injury and the Prevention, Diagnosis, and Management of Intraoperative Spinal Cord Injury: Introduction, Rationale, and Scope.Global Spine J.2024;14(3_suppl):10S-24S.doi:10.1177/21925682231183969
+7.Liu Z, Yang Y, He L, et al.High-dose methylprednisolone for acute traumatic spinal cord injury: A meta-analysis.Neurology.2019;93(9):e841-e850.doi:10.1212/WNL.0000000000007998
+7.Liu Z, Yang Y, He L, et al.High-dose methylprednisolone for acute traumatic spinal cord injury: A meta-analysis.Neurology.2019;93(9):e841-e850.doi:10.1212/WNL.0000000000007998
+8.Fehlings MG, Wilson JR, Tetreault LA, et al.A clinical practice guideline for the management of patients with acute spinal cord injury: Recommendations on the use of methylprednisolone sodium succinate.Global Spine J.7(3 Suppl):203S-211S, 2017. doi: 10.1177/2192568217703085
+8.Fehlings MG, Wilson JR, Tetreault LA, et al.A clinical practice guideline for the management of patients with acute spinal cord injury: Recommendations on the use of methylprednisolone sodium succinate.Global Spine J.7(3 Suppl):203S-211S, 2017. doi: 10.1177/2192568217703085
+9.Badhiwala JH, Wilson JR, Witiw CD, et al.The influence of timing of surgical decompression for acute spinal cord injury: a pooled analysis of individual patient data.Lancet Neurol.2021;20(2):117-126.doi:10.1016/S1474-4422(20)30406-3
+9.Badhiwala JH, Wilson JR, Witiw CD, et al.The influence of timing of surgical decompression for acute spinal cord injury: a pooled analysis of individual patient data.Lancet Neurol.2021;20(2):117-126.doi:10.1016/S1474-4422(20)30406-3
+10.Fehlings MG, Vaccaro A, Wilson JR, et al.Early versus delayed decompression for traumatic cervical spinal cord injury: Results of the Surgical Timing in Acute Spinal Cord Injury Study (STASCIS).PLoS One.7(2):e32037, 2012.doi:10.1371/journal.pone.0032037
+10.Fehlings MG, Vaccaro A, Wilson JR, et al.Early versus delayed decompression for traumatic cervical spinal cord injury: Results of the Surgical Timing in Acute Spinal Cord Injury Study (STASCIS).PLoS One.7(2):e32037, 2012.doi:10.1371/journal.pone.0032037
+11.Fehlings MG, Tetreault LA, Hachem L, et al.An Update of a Clinical Practice Guideline for the Management of Patients With Acute Spinal Cord Injury: Recommendations on the Role and Timing of Decompressive Surgery.Global Spine J.2024;14(3_suppl):174S-186S.doi:10.1177/21925682231181883
+11.Fehlings MG, Tetreault LA, Hachem L, et al.An Update of a Clinical Practice Guideline for the Management of Patients With Acute Spinal Cord Injury: Recommendations on the Role and Timing of Decompressive Surgery.Global Spine J.2024;14(3_suppl):174S-186S.doi:10.1177/21925682231181883
+12.Khan FI, Ahmed Z.Experimental Treatments for Spinal Cord Injury: A Systematic Review and Meta-Analysis.Cells.2022;11(21):3409.Published 2022 Oct 28.doi:10.3390/cells11213409
+12.Khan FI, Ahmed Z.Experimental Treatments for Spinal Cord Injury: A Systematic Review and Meta-Analysis.Cells.2022;11(21):3409.Published 2022 Oct 28.doi:10.3390/cells11213409
+13.Hosseini SM, Borys B, Karimi-Abdolrezaee S.Neural stem cell therapies for spinal cord injury repair: an update on recent preclinical and clinical advances.Brain.2024;147(3):766-793.doi:10.1093/brain/awad392
+13.Hosseini SM, Borys B, Karimi-Abdolrezaee S.Neural stem cell therapies for spinal cord injury repair: an update on recent preclinical and clinical advances.Brain.2024;147(3):766-793.doi:10.1093/brain/awad392
+14.Saremi J, Mahmoodi N, Rasouli M, et al.Advanced approaches to regenerate spinal cord injury: The development of cell and tissue engineering therapy and combinational treatments.Biomed Pharmacother.2022;146:112529.doi:10.1016/j.biopha.2021.112529
+14.Saremi J, Mahmoodi N, Rasouli M, et al.Advanced approaches to regenerate spinal cord injury: The development of cell and tissue engineering therapy and combinational treatments.Biomed Pharmacother.2022;146:112529.doi:10.1016/j.biopha.2021.112529
+15.Chalif JI, Chavarro VS, Mensah E, et al.Epidural Spinal Cord Stimulation for Spinal Cord Injury in Humans: A Systematic Review.J Clin Med.2024;13(4):1090.Published 2024 Feb 14.doi:10.3390/jcm13041090
+15.Chalif JI, Chavarro VS, Mensah E, et al.Epidural Spinal Cord Stimulation for Spinal Cord Injury in Humans: A Systematic Review.J Clin Med.2024;13(4):1090.Published 2024 Feb 14.doi:10.3390/jcm13041090
+
+【脊柱创伤的预后】
+脊髓横切导致无法修复的损伤和损伤部位以下的神经功能永久丧失。神经根撕脱也会导致永久性功能丧失；根据轴突、神经内膜和神经外膜的损伤程度，因神经组织受压或拉伸而造成的不太严重的创伤性损伤可导致功能恢复。（见Seddon分类[1] 和Sunderland分类 [2].) 损伤后第1周内感觉或运动功能部分恢复提示预后良好。损伤后 6~9 个月仍存在的功能障碍很可能是永久性的；然而，美国脊髓损伤协会（ASIA）分级在损伤后 1 年内仍可能改善 1 个等级 (3, 4)。通常，运动恢复最快的速度发生在损伤后的前3个月（3）。一些研究表明，通过脊髓刺激，完全性脊髓损伤可恢复部分功能。
+肺炎是高位颈髓损伤患者死亡的常见原因，尤其是那些需要呼吸机的患者 (5)。
+
+【预后参考】
+1.Seddon HJ.Three types of nerve injury.Brain.66(4):237–288, 1942.doi.org/10.1093/brain/66.4.237
+1.Seddon HJ.Three types of nerve injury.Brain.66(4):237–288, 1942.doi.org/10.1093/brain/66.4.237
+2.Sunderland S.A classification of peripheral nerve injuries producing loss of function.Brain.74(4):491–516, 1951.https://doi.org/10.1093/brain/74.4.491
+2.Sunderland S.A classification of peripheral nerve injuries producing loss of function.Brain.74(4):491–516, 1951.https://doi.org/10.1093/brain/74.4.491
+3.Kirshblum S, Snider B, Eren F, Guest J.Characterizing Natural Recovery after Traumatic Spinal Cord Injury.J Neurotrauma.2021;38(9):1267-1284.doi:10.1089/neu.2020.7473
+3.Kirshblum S, Snider B, Eren F, Guest J.Characterizing Natural Recovery after Traumatic Spinal Cord Injury.J Neurotrauma.2021;38(9):1267-1284.doi:10.1089/neu.2020.7473
+4.Wu L, Marino RJ, Herbison GJ, Ditunno JF Jr.Recovery of zero-grade muscles in the zone of partial preservation in motor complete quadriplegia.Arch Phys Med Rehabil.1992;73(1):40-43.
+4.Wu L, Marino RJ, Herbison GJ, Ditunno JF Jr.Recovery of zero-grade muscles in the zone of partial preservation in motor complete quadriplegia.Arch Phys Med Rehabil.1992;73(1):40-43.
+5.Reyes MRL, Elmo MJ, Menachem B, et al.A Primary Care Provider's Guide to Managing Respiratory Health in Subacute and Chronic Spinal Cord Injury.Top Spinal Cord Inj Rehabil.2020;26(2):116-122.doi:10.46292/sci2602-116
+5.Reyes MRL, Elmo MJ, Menachem B, et al.A Primary Care Provider's Guide to Managing Respiratory Health in Subacute and Chronic Spinal Cord Injury.Top Spinal Cord Inj Rehabil.2020;26(2):116-122.doi:10.46292/sci2602-116
+除了明显脊柱创伤的患者外，对脊柱损伤高风险的患者（包括老年人轻微跌倒）、感觉改变、神经缺陷或局部脊柱压痛的患者应该怀疑脊髓损伤。
+除了明显脊柱创伤的患者外，对脊柱损伤高风险的患者（包括老年人轻微跌倒）、感觉改变、神经缺陷或局部脊柱压痛的患者应该怀疑脊髓损伤。
+为了明确不完全性脊髓损伤，应检查运动功能、感觉功能（包括轻触觉，针刺觉和位置感），检查双上肢有无不成比例的肌力减低。
+为了明确不完全性脊髓损伤，应检查运动功能、感觉功能（包括轻触觉，针刺觉和位置感），检查双上肢有无不成比例的肌力减低。
+立即对高危患者进行脊柱固定。
+立即对高危患者进行脊柱固定。
+立即进行CT或MRI检查。
+立即进行CT或MRI检查。
+如果患者有不完全性脊髓损伤，在24小时内安排手术。
+如果患者有不完全性脊髓损伤，在24小时内安排手术。
+对不可逆性脊髓损伤进行多种康复治疗以及应用药物控制痉挛。
+对不可逆性脊髓损伤进行多种康复治疗以及应用药物控制痉挛。

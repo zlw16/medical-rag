@@ -1,0 +1,83 @@
+标题：膈疝
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-gastrointestinal-anomalies/diaphragmatic-hernia
+============================================================
+
+(参见先天性胃肠道畸形概述。)
+膈疝，亦称先天性膈疝，95%的病例发生于膈肌后外侧部（Bochdalek疝），其中85%为左侧病变，双侧病变者约占2%（1）。估计出生患病率约为每4000名活产婴儿中有1例（2）。前疝（Morgagni疝）较为罕见（占病例的5%）。其他先天性异常，特别是先天性心脏病，约占病例的50%（3）。
+小肠和大肠环、胃、肝脏和脾脏可能突入受累侧的半胸腔内。 如果疝气大，突出的腹腔内容物较多，则患侧肺发育不全；然而，对侧的肺也会受到不利影响。 其他肺部并发症包括肺血管发育不良，导致肺血管阻力升高，进而引发肺动脉高压。肺动脉高压可能导致卵圆孔水平或动脉导管未闭处出现右向左分流；肺发育不全和肺动脉高压都会阻碍充分的氧合，即使有氧气补充或机械通气也是如此。此外，心肌收缩力的改变增加了治疗的复杂性，并增加了死亡率和发病率 (4)。
+
+【参考文献】
+1.Deprest JA, Nicolaides KH, Benachi A, et al.Randomized Trial of Fetal Surgery for Severe Left Diaphragmatic Hernia.N Engl J Med.2021;385(2):107-118.doi:10.1056/NEJMoa2027030
+1.Deprest JA, Nicolaides KH, Benachi A, et al.Randomized Trial of Fetal Surgery for Severe Left Diaphragmatic Hernia.N Engl J Med.2021;385(2):107-118.doi:10.1056/NEJMoa2027030
+2.Paoletti M, Raffler G, Gaffi MS, Antounians L, Lauriti G, Zani A.Prevalence and risk factors for congenital diaphragmatic hernia: A global view.J Pediatr Surg.2020;55(11):2297-2307.doi:10.1016/j.jpedsurg.2020.06.022
+2.Paoletti M, Raffler G, Gaffi MS, Antounians L, Lauriti G, Zani A.Prevalence and risk factors for congenital diaphragmatic hernia: A global view.J Pediatr Surg.2020;55(11):2297-2307.doi:10.1016/j.jpedsurg.2020.06.022
+3.Longoni M, Pober BR, High FA.Congenital Diaphragmatic Hernia Overview.2006 Feb 1 [Updated 2020 Nov 5].In: Adam MP, Feldman J, Mirzaa GM, et al., editors.GeneReviews® [Internet].Seattle (WA): University of Washington, Seattle; 1993-2025.
+3.Longoni M, Pober BR, High FA.Congenital Diaphragmatic Hernia Overview.2006 Feb 1 [Updated 2020 Nov 5].In: Adam MP, Feldman J, Mirzaa GM, et al., editors.GeneReviews® [Internet].Seattle (WA): University of Washington, Seattle; 1993-2025.
+4.Zani A, Chung WK, Deprest J, et al.Congenital diaphragmatic hernia.Nat Rev Dis Primers.2022;8(1):37.Published 2022 Jun 1.doi:10.1038/s41572-022-00362-w
+4.Zani A, Chung WK, Deprest J, et al.Congenital diaphragmatic hernia.Nat Rev Dis Primers.2022;8(1):37.Published 2022 Jun 1.doi:10.1038/s41572-022-00362-w
+
+【膈疝的症状和体征】
+呼吸窘迫通常发生生后前几个小时，部分严重病例出生后立即发生。分娩后，随着新生儿啼哭并吞咽空气，胃及肠袢迅速充气扩张，导致急性呼吸窘迫——此时心脏及纵隔结构被推向右侧（最常见于左侧膈疝），从而压迫相对正常的右肺。可能有舟状腹（由于腹腔脏器移位到胸腔）。在受累侧胸廓可能闻及肠鸣音（和呼吸音缺如）。
+在较不严重的情况下，在数小时或数日后，腹腔内容物进行性地通过一个较小的膈肌缺损疝入胸腔，而出现轻度呼吸困难。
+极少数情况下，临床表现滞后，直到儿童期才出现，有时在一场感染性肠炎之后出现，这是因为肠炎会引起肠道突然疝入胸腔。
+
+【膈疝的诊断】
+有时通过产前超声检查或胎儿MRI
+有时通过产前超声检查或胎儿MRI
+胸部 X 光片、胸部 CT，有时进行 MRI
+胸部 X 光片、胸部 CT，有时进行 MRI
+心脏超声检查
+心脏超声检查
+在某些情况下，膈疝可通过产前超声诊断（1），并可基于胎儿MRI进行额外的风险分层（2）。
+在产房中，当患有呼吸窘迫的新生儿出现舟状腹时，需要怀疑膈疝。
+生后可以行胸片检查，显示胃和肠袢突入胸腔。如缺损很大，典型的X线片显示病侧胸腔存在充气的肠袢、心脏及纵隔移位。如果在患儿出生后尚未吞入多量气体前即作X线摄片，则病侧胸腔内表现为不透明的无气体的肿块阴影。
+包括CT和MRI在内的横断成像用于评估缺陷的位置，确定胸腔中特定的腹部内容物，估计肺容量，计划手术，并在一些新生儿中评估其他先天性缺陷 (3)。进行超声心动图检查以筛查相关先天性心脏病，特别是如果正在考虑体外膜肺氧合。
+此 X 光片显示新生儿先天性膈疝。肠管突出至左胸（X 光片右侧）。
+在这项对比研究中，胃和肠道可见于左胸。
+ZEPHYR/SCIENCE PHOTO LIBRARY
+
+【诊断参考】
+1.Cordier AG, Russo FM, Deprest J, et al.Prenatal diagnosis, imaging, and prognosis in congenital diaphragmatic hernia.Semin Perinatol.2020;44(1):51163.doi:10.1053/j.semperi.2019.07.002
+1.Cordier AG, Russo FM, Deprest J, et al.Prenatal diagnosis, imaging, and prognosis in congenital diaphragmatic hernia.Semin Perinatol.2020;44(1):51163.doi:10.1053/j.semperi.2019.07.002
+2.Zani A, Chung WK, Deprest J, et al.Congenital diaphragmatic hernia.Nat Rev Dis Primers.2022;8(1):37.Published 2022 Jun 1.doi:10.1038/s41572-022-00362-w
+2.Zani A, Chung WK, Deprest J, et al.Congenital diaphragmatic hernia.Nat Rev Dis Primers.2022;8(1):37.Published 2022 Jun 1.doi:10.1038/s41572-022-00362-w
+3.Expert Panel on Gastrointestinal Imaging, Garcia EM, Pietryga JA, et al.ACR Appropriateness Criteria® Hernia.J Am Coll Radiol.2022;19(11S):S329-S340.doi:10.1016/j.jacr.2022.09.016
+3.Expert Panel on Gastrointestinal Imaging, Garcia EM, Pietryga JA, et al.ACR Appropriateness Criteria® Hernia.J Am Coll Radiol.2022;19(11S):S329-S340.doi:10.1016/j.jacr.2022.09.016
+
+【膈疝的治疗】
+有时需要进行胎儿手术
+有时需要进行胎儿手术
+多学科分娩计划和重症监护管理
+多学科分娩计划和重症监护管理
+有时需采用体外膜肺氧合（ECMO）
+有时需采用体外膜肺氧合（ECMO）
+外科手术修复
+外科手术修复
+如果胎儿被诊断为膈疝，由于固有的运输挑战，建议在具有ECMO能力的儿科中心分娩。胎儿镜下腔内气管闭塞术（FETO）可在分娩前（约27至34周胎龄）对特定胎儿进行，以诱导肺生长；在严重的病例中，这种手术与生存获益有关，但有显著的风险 (1)。
+若怀疑新生儿存在膈疝并伴有呼吸窘迫，应立即在产房对其进行气管插管和通气治疗。应避免使用气囊面罩通气，因为这可能导致移位的胸腔内脏器充气膨胀，从而加重呼吸功能障碍。使用双腔鼻胃管持续进行鼻胃吸引，可防止吞咽的空气进入胃肠道并进一步压迫肺部。
+术前重症监护包括吸入一氧化氮和其他药物对肺动脉高压的早期评估和管理 (2，3)。婴儿的酸碱状态、血流动力学、氧合和通气得到优化。导致儿茶酚胺抵抗性低血压的肾上腺功能不全是常见的 (4)。常规或替代通气策略，如高频振荡通气，可以使用。ECMO常用于有更严重肺发育不全的高危婴儿，或作为难治性低氧血症或合并心肺衰竭婴儿的抢救方法。
+需要进行手术以将腹部内容物放回腹部并闭合膈肌缺损。
+长期管理包括对肺动脉高压、肺发育不全后遗症、胃食管反流或其他胃肠功能障碍、心力衰竭或神经发育异常患者的持续和多学科护理。
+
+【经验与提示】
+经验与提示
+避免对因膈疝导致呼吸窘迫的新生儿进行气囊面罩通气，因为这可能会进一步充盈胸腔内移位的脏器。
+避免对因膈疝导致呼吸窘迫的新生儿进行气囊面罩通气，因为这可能会进一步充盈胸腔内移位的脏器。
+
+【治疗参考文献】
+1.Zani A, Chung WK, Deprest J, et al.Congenital diaphragmatic hernia.Nat Rev Dis Primers.2022;8(1):37.Published 2022 Jun 1.doi:10.1038/s41572-022-00362-w
+1.Zani A, Chung WK, Deprest J, et al.Congenital diaphragmatic hernia.Nat Rev Dis Primers.2022;8(1):37.Published 2022 Jun 1.doi:10.1038/s41572-022-00362-w
+2.Puligandla P, Skarsgard E, Baird R, et al.Diagnosis and management of congenital diaphragmatic hernia: a 2023 update from the Canadian Congenital Diaphragmatic Hernia Collaborative.Arch Dis Child Fetal Neonatal Ed.2024;109(3):239-252.Published 2024 Apr 18.doi:10.1136/archdischild-2023-325865
+2.Puligandla P, Skarsgard E, Baird R, et al.Diagnosis and management of congenital diaphragmatic hernia: a 2023 update from the Canadian Congenital Diaphragmatic Hernia Collaborative.Arch Dis Child Fetal Neonatal Ed.2024;109(3):239-252.Published 2024 Apr 18.doi:10.1136/archdischild-2023-325865
+3.Snoek KG, Reiss IK, Greenough A, et al.Standardized Postnatal Management of Infants with Congenital Diaphragmatic Hernia in Europe: The CDH EURO Consortium Consensus - 2015 Update.Neonatology.2016;110(1):66-74.doi:10.1159/000444210
+3.Snoek KG, Reiss IK, Greenough A, et al.Standardized Postnatal Management of Infants with Congenital Diaphragmatic Hernia in Europe: The CDH EURO Consortium Consensus - 2015 Update.Neonatology.2016;110(1):66-74.doi:10.1159/000444210
+4.Kamath BD, Fashaw L, Kinsella JP.Adrenal insufficiency in newborns with congenital diaphragmatic hernia.J Pediatr.2010;156(3):495-497.e1.doi:10.1016/j.jpeds.2009.10.044
+4.Kamath BD, Fashaw L, Kinsella JP.Adrenal insufficiency in newborns with congenital diaphragmatic hernia.J Pediatr.2010;156(3):495-497.e1.doi:10.1016/j.jpeds.2009.10.044
+先天性膈疝可使得腹腔内容物进入胸腔，压缩肺部，造成新生儿呼吸窘迫。
+先天性膈疝可使得腹腔内容物进入胸腔，压缩肺部，造成新生儿呼吸窘迫。
+肺发育不全和肺动脉高压是常见的。
+肺发育不全和肺动脉高压是常见的。
+诊断是通过产前成像和产后胸片和横断面成像。
+诊断是通过产前成像和产后胸片和横断面成像。
+治疗需先进行气管插管，随后实施手术修复；通常情况下，体外膜肺氧合也必不可少。
+治疗需先进行气管插管，随后实施手术修复；通常情况下，体外膜肺氧合也必不可少。

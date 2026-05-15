@@ -1,0 +1,48 @@
+标题：喉部肌张力障碍
+来源：https://www.msdmanuals.cn/professional/ear-nose-and-throat-disorders/laryngeal-disorders/laryngeal-dystonia
+============================================================
+
+喉肌张力障碍是一种特发性肌张力障碍，在喉部特定运动过程中影响喉部肌肉。作为局灶型运动障碍，喉肌张力障碍的平均发病年龄为51岁，约80%患者为女性(1)。神经系统疾病家族史（包括肌张力障碍和震颤）、近期病毒感染及过度用嗓已被确定为危险因素。
+
+【参考文献】
+1.Patel AB, Bansberg SF, Adler CH, Lott DG, Crujido L.The Mayo Clinic Arizona Spasmodic Dysphonia Experience: A Demographic Analysis of 718 Patients.Ann Otol Rhinol Laryngol.2015;124(11):859-863.doi:10.1177/0003489415588557
+1.Patel AB, Bansberg SF, Adler CH, Lott DG, Crujido L.The Mayo Clinic Arizona Spasmodic Dysphonia Experience: A Demographic Analysis of 718 Patients.Ann Otol Rhinol Laryngol.2015;124(11):859-863.doi:10.1177/0003489415588557
+
+【喉部肌张力障碍的症状和体征】
+喉肌张力障碍主要有3种形式：
+喉收肌肌张力障碍
+喉收肌肌张力障碍
+喉外展肌肌张力障碍
+喉外展肌肌张力障碍
+混合性喉肌张力障碍
+混合性喉肌张力障碍
+在内收肌痉挛性发音困难中，由于说话过程中声带闭合不受控制，患者的声音听起来受到挤压、费力或紧张。这些痉挛性发作通常出现在形成元音时，尤其是在单词的开头。
+在不太常见的外展型喉肌张力障碍中，由于声带不受控制地张开，导致连贯说话时出现突然的声音中断，并伴有可听见的气流逸出。
+患有混合型喉部肌张力障碍的患者可能在不同时间表现出不同程度的内收型和外展型喉部肌张力障碍特征。
+
+【喉部肌张力障碍的诊断】
+病史和体格检查
+病史和体格检查
+诊断主要基于临床表现，包括病史和体格检查，其中喉镜检查用于观察声带及其在发声过程中的运动情况。在鉴别喉部肌张力障碍与肌紧张性发声障碍时可能出现诊断混淆（1）。喉部肌张力障碍症状与特定语音相关，而肌紧张性发声障碍则无此关联。言语-语言病理学家的嗓音评估有助于指导诊断和治疗。
+
+【诊断参考文献】
+1.Hintze JM, Ludlow CL, Bansberg SF, Adler CH, Lott DG.Spasmodic Dysphonia: A Review.Part 2: Characterization of Pathophysiology.Otolaryngol Head Neck Surg.2017;157(4):558-564.doi:10.1177/0194599817728465
+1.Hintze JM, Ludlow CL, Bansberg SF, Adler CH, Lott DG.Spasmodic Dysphonia: A Review.Part 2: Characterization of Pathophysiology.Otolaryngol Head Neck Surg.2017;157(4):558-564.doi:10.1177/0194599817728465
+
+【喉部肌张力障碍的治疗】
+注射肉毒杆菌毒素
+注射肉毒杆菌毒素
+选择性喉神经切断和神经再支配手术
+选择性喉神经切断和神经再支配手术
+对于内收型喉肌张力障碍，向声带内收肌注射肉毒杆菌毒素（BoNT）已成为标准治疗方案。靶向注射通常是安全的，可使大多数患者症状改善长达12周（1,2）。由于 BoNT 的效果是暂时的，因此必须重复注射才能维持改善效果。在某些中心，选择性喉神经切断和神经再支配手术也是一种选择。没有神经再支配的喉神经切断术已被证明会导致联带运动，并且不是这种情况的首选方法。
+对于外展型喉肌张力障碍，目前尚无已知治疗方法可永久缓解该疾病，但将肉毒杆菌毒素注射至环杓后肌（唯一的声带外展肌）已能实现暂时性改善（3, 4）。
+
+【治疗参考文献】
+1.Hyodo M, Nagao A, Asano K, et al. Botulinum toxin injection into the intrinsic laryngeal muscles to treat spasmodic dysphonia: A multicenter, placebo-controlled, randomized, double-blinded, parallel-group comparison/open-label clinical trial.Eur J Neurol.2021;28(5):1548-1556.doi:10.1111/ene.14714
+1.Hyodo M, Nagao A, Asano K, et al. Botulinum toxin injection into the intrinsic laryngeal muscles to treat spasmodic dysphonia: A multicenter, placebo-controlled, randomized, double-blinded, parallel-group comparison/open-label clinical trial.Eur J Neurol.2021;28(5):1548-1556.doi:10.1111/ene.14714
+2.Stachler RJ, Francis DO, Schwartz SR, et al.Clinical Practice Guideline: Hoarseness (Dysphonia) (Update) [published correction appears inOtolaryngol Head Neck Surg.2018 Aug;159(2):403. doi: 10.1177/0194599818766900.].Otolaryngol Head Neck Surg.2018;158(1_suppl):S1-S42.doi:10.1177/0194599817751030
+2.Stachler RJ, Francis DO, Schwartz SR, et al.Clinical Practice Guideline: Hoarseness (Dysphonia) (Update) [published correction appears inOtolaryngol Head Neck Surg.2018 Aug;159(2):403. doi: 10.1177/0194599818766900.].Otolaryngol Head Neck Surg.2018;158(1_suppl):S1-S42.doi:10.1177/0194599817751030
+3.Mor N, Simonyan K, Blitzer A: Central voice production and pathophysiology of spasmodic dysphonia.Laryngoscope128(1):177-183, 2018.doi:10.1002/lary.26655
+3.Mor N, Simonyan K, Blitzer A: Central voice production and pathophysiology of spasmodic dysphonia.Laryngoscope128(1):177-183, 2018.doi:10.1002/lary.26655
+4.Dharia I, Bielamowicz S: Unilateral versus bilateral botulinum toxin injections in adductor spasmodic dysphonia in a large cohort [published online ahead of print, 2019 Dec 14].Laryngoscope10.1002/lary.28457, 2019.doi:10.1002/lary.28457
+4.Dharia I, Bielamowicz S: Unilateral versus bilateral botulinum toxin injections in adductor spasmodic dysphonia in a large cohort [published online ahead of print, 2019 Dec 14].Laryngoscope10.1002/lary.28457, 2019.doi:10.1002/lary.28457

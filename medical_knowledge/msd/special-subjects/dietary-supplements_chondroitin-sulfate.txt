@@ -1,0 +1,45 @@
+标题：硫酸软骨素
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/chondroitin-sulfate
+============================================================
+
+硫酸软骨素是一种黏多糖，是软骨的一种天然成分。它可从鲨鱼或牛软骨中提取，或人工合成。其组成有所不同。它通常与葡萄糖胺联合使用。
+
+【硫酸软骨素的声明】
+硫酸软骨素用于治疗骨关节炎。科学证据显示，当硫酸软骨素单独服用时没有任何好处。然而，有证据表明，与氨基葡萄糖结合使用，可以减少关节疼痛，改善关节活动度，并在服用6至24个月时允许减少常规抗炎药物的剂量。较长时期的影响尚不清楚。机制不明。
+
+【硫酸软骨素的证据】
+硫酸软骨素功效研究的证据存在不一致。氨基葡萄糖/软骨素关节炎干预试验（GAIT）是一项大型、随机、双盲、安慰剂对照、多中心临床试验，研究了使用氨基葡萄糖（每天3次口服500 mg）、硫酸软骨素（每天3次口服400 mg）和这两种药物组合治疗膝关节骨性关节炎；在整个组中，疼痛没有减轻。然而，亚组分析表明其在中度至重度膝关节疼痛亚组病人中有效 (1)。 在该试验之前，只有小型试验研究了硫酸软骨素单独或与葡糖胺联合治疗骨关节炎。
+一项对43项随机对照试验的综述还表明，尽管生活质量可能会改善，但在短期研究中，软骨素的益处仅限于轻微的疼痛改善 (2)。 对18项随机安慰剂对照试验的不同荟萃分析发现，软骨素的治疗时间为13至104周，可减少疼痛并改善功能。（3个)。 疗效不一的原因是由于几种食品级硫酸软骨素补充剂质量差，而明确纯度的医药级硫酸软骨素和寡糖序列软骨素是有效的，并可以用于治疗 (4)。 在随机安慰剂对照的CONCEPT研究中，药物级硫酸软骨素800 mg对膝骨关节炎的疗效优于安慰剂，与塞来昔布相似 (5)。 骨关节炎症状和病因的异同使得硫酸软骨素在临床使用困难。
+美国风湿病学会建议不要使用软骨素治疗膝或髋骨关节炎，并为手骨关节炎提供有条件推荐(6)，而欧洲骨关节炎临床和经济方面协会(ESCEO)推荐药物级软骨素(7)。
+
+【硫酸软骨素的不良反应】
+未报道有严重副作用。最常见的副作用为胃痛，恶心和其他胃肠道症状。
+硫酸软骨素的动物、非药物级来源可能含有可能导致疾病的病毒、朊病毒或细菌 (8)。
+
+【硫酸软骨素的药物相互作用】
+硫酸软骨素可影响华法林的抗凝作用 (9)。
+
+【参考文献】
+1.Clegg DO, Reda DJ, Harris CL, et al.Glucosamine, chondroitin sulfate, and the two in combination for painful knee osteoarthritis.N Engl J Med.354(8):795-808, 2006.doi:10.1056/NEJMoa052771
+1.Clegg DO, Reda DJ, Harris CL, et al.Glucosamine, chondroitin sulfate, and the two in combination for painful knee osteoarthritis.N Engl J Med.354(8):795-808, 2006.doi:10.1056/NEJMoa052771
+2.Singh JA, Noorbaloochi S, MacDonald R, et al.Chondroitin for osteoarthritis.Cochrane Database Syst Rev.1:CD005614, 2015.doi: 10.1002/14651858.CD005614.pub2
+2.Singh JA, Noorbaloochi S, MacDonald R, et al.Chondroitin for osteoarthritis.Cochrane Database Syst Rev.1:CD005614, 2015.doi: 10.1002/14651858.CD005614.pub2
+3.Honvo G, Bruyère O, Geerinck A, et al.Efficacy of chondroitin sulfate in patients with knee osteoarthritis: a comprehensive meta-analysis exploring inconsistencies in randomized, placebo-controlled trials.Adv Ther.36(5):1085-1099, 2019.doi:10.1007/s12325-019-00921-w
+3.Honvo G, Bruyère O, Geerinck A, et al.Efficacy of chondroitin sulfate in patients with knee osteoarthritis: a comprehensive meta-analysis exploring inconsistencies in randomized, placebo-controlled trials.Adv Ther.36(5):1085-1099, 2019.doi:10.1007/s12325-019-00921-w
+4.Hochberg M, Chevalier X, Henrotin Y, et al.Symptom and structure modification in osteoarthritis with pharmaceutical-grade chondroitin sulfate: what's the evidence?Curr Med Res Opin .29(3): 259-267, 2013.doi: 10.1185/03007995.2012.753430
+4.Hochberg M, Chevalier X, Henrotin Y, et al.Symptom and structure modification in osteoarthritis with pharmaceutical-grade chondroitin sulfate: what's the evidence?Curr Med Res Opin .29(3): 259-267, 2013.doi: 10.1185/03007995.2012.753430
+5.Reginster JY, Dudler J, Blicharski T, et al. Pharmaceutical-grade chondroitin sulfate is as effective ascelecoxiband superior to placebo in symptomatic knee osteoarthritis: the ChONdroitin versusCelecoxibversus Placebo Trial (CONCEPT).Ann Rheum Dis.76(9):1537-1543, 2017.doi: 10.1136/annrheumdis-2016-210860
+5.Reginster JY, Dudler J, Blicharski T, et al. Pharmaceutical-grade chondroitin sulfate is as effective ascelecoxiband superior to placebo in symptomatic knee osteoarthritis: the ChONdroitin versusCelecoxibversus Placebo Trial (CONCEPT).Ann Rheum Dis.76(9):1537-1543, 2017.doi: 10.1136/annrheumdis-2016-210860
+6.Kolasinski SL, Neogi T, Hochberg MC, et al.2019 American College of Rheumatology/Arthritis Foundation Guideline for the Management of Osteoarthritis of the Hand, Hip, and Knee [published correction appears in Arthritis Rheumatol. 2021 May;73(5):799].Arthritis Rheumatol.72(2):220-233, 2020.doi:10.1002/art.41142
+6.Kolasinski SL, Neogi T, Hochberg MC, et al.2019 American College of Rheumatology/Arthritis Foundation Guideline for the Management of Osteoarthritis of the Hand, Hip, and Knee [published correction appears in Arthritis Rheumatol. 2021 May;73(5):799].Arthritis Rheumatol.72(2):220-233, 2020.doi:10.1002/art.41142
+7.Bruyère O, Honvo G, Veronese N, et al.An updated algorithm recommendation for the management of knee osteoarthritis from the European Society for Clinical and Economic Aspects of Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (ESCEO).Semin Arthritis Rheum.49(3):337-350, 2019.doi:10.1016/j.semarthrit.2019.04.008
+7.Bruyère O, Honvo G, Veronese N, et al.An updated algorithm recommendation for the management of knee osteoarthritis from the European Society for Clinical and Economic Aspects of Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (ESCEO).Semin Arthritis Rheum.49(3):337-350, 2019.doi:10.1016/j.semarthrit.2019.04.008
+8.Volpi N.Chondroitin sulfate safety and quality.Molecules.12;24(8), 2019.pii: E1447.doi: 10.3390/molecules24081447
+8.Volpi N.Chondroitin sulfate safety and quality.Molecules.12;24(8), 2019.pii: E1447.doi: 10.3390/molecules24081447
+9.Knudsen JF, Sokol GH.Potential glucosamine-warfarininteraction resulting in increased international normalized ratio: case report and review of the literature and MedWatch database.Pharmacotherapy.28(4):540-548, 2008.doi: 10.1592/phco.28.4.540
+9.Knudsen JF, Sokol GH.Potential glucosamine-warfarininteraction resulting in increased international normalized ratio: case report and review of the literature and MedWatch database.Pharmacotherapy.28(4):540-548, 2008.doi: 10.1592/phco.28.4.540
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Chondroitin Sulfate
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Chondroitin Sulfate

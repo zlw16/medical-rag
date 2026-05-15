@@ -1,0 +1,90 @@
+标题：特发性肺纤维化
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/interstitial-lung-diseases/idiopathic-pulmonary-fibrosis-ipf
+============================================================
+
+特发性肺纤维化，在组织学上表现为寻常型间质性肺炎，占特发性间质性肺炎病例的大多数。患病率差异很大，部分原因是筛查更严格的地区，据估计美国的患病率高达每年每10万人有495例(1)。IPF 在年龄＞50岁的男性和女性中的患病比例约为2:1，且发病率每增长十岁就显著增加 (2)。正在或曾经吸烟是该疾病最强的相关因素。存在一定遗传易感性（尤其是MUC5B基因多态性会导致黏蛋白过度表达）；约30-35%的病例可能出现这种情况（3）。
+
+【参考文献】
+1.Raghu G, Chen SY, Yeh WS, et al.Idiopathic pulmonary fibrosis in US Medicare beneficiaries aged 65 years and older: incidence, prevalence, and survival, 2001-11 [published correction appears inLancet Respir Med2014 Jul;2(7):e12].Lancet Respir Med2014;2(7):566-572.doi:10.1016/S2213-2600(14)70101-8
+1.Raghu G, Chen SY, Yeh WS, et al.Idiopathic pulmonary fibrosis in US Medicare beneficiaries aged 65 years and older: incidence, prevalence, and survival, 2001-11 [published correction appears inLancet Respir Med2014 Jul;2(7):e12].Lancet Respir Med2014;2(7):566-572.doi:10.1016/S2213-2600(14)70101-8
+2.Maher TM, Bendstrup E, Dron L, et al.Global incidence and prevalence of idiopathic pulmonary fibrosis.Respir Res2021;22(1):197.doi:10.1186/s12931-021-01791-z
+2.Maher TM, Bendstrup E, Dron L, et al.Global incidence and prevalence of idiopathic pulmonary fibrosis.Respir Res2021;22(1):197.doi:10.1186/s12931-021-01791-z
+3.Evans CM, Fingerlin TE, Schwarz MI, et al.Idiopathic Pulmonary Fibrosis: A Genetic Disease That Involves Mucociliary Dysfunction of the Peripheral Airways.Physiol Rev2016;96(4):1567-1591.doi:10.1152/physrev.00004.2016
+3.Evans CM, Fingerlin TE, Schwarz MI, et al.Idiopathic Pulmonary Fibrosis: A Genetic Disease That Involves Mucociliary Dysfunction of the Peripheral Airways.Physiol Rev2016;96(4):1567-1591.doi:10.1152/physrev.00004.2016
+
+【特发性肺纤维化的病因和发病机制】
+IPF 的特征是肺泡上皮细胞反复受到轻微损伤，而这些细胞本身已处于衰老的倾向（1）。环境因素（例如吸烟）、遗传因素（例如MUC5B基因多态性）和其他未知因素可能导致肺泡上皮细胞功能障碍或重编程，从而引起肺组织纤维异常增生。肺部菌群的改变导致某些物种的繁殖，如普雷沃菌、韦荣球菌和大肠杆菌，也可能通过影响粘液纤毛清除功能而促进病变发展。职业暴露，如吸入有毒烟雾，可导致化学损伤，而抗生素的使用会改变肺部微生物组。最终这些因素共同作用导致免疫反应发生变化，进而引发疾病。
+
+【病因参考文献】
+1.Lederer DJ, Martinez FJ.Idiopathic Pulmonary Fibrosis.N Engl J Med2018;378(19):1811-1823.doi:10.1056/NEJMra1705751
+1.Lederer DJ, Martinez FJ.Idiopathic Pulmonary Fibrosis.N Engl J Med2018;378(19):1811-1823.doi:10.1056/NEJMra1705751
+
+【特发性肺纤维化的病理学】
+特发性肺纤维化的特征性组织学模式被称为寻常型间质性肺炎（见表特发性间质性肺炎的主要特征）。关键组织学发现包括胸膜下纤维化伴成纤维细胞增生（成纤维细胞灶）和致密瘢痕形成，与正常肺实质区域交替分布（异质性）（1）。散布的间质炎症中有淋巴细胞、浆细胞和组织细胞浸润。在所有病人均可发现囊性病变（蜂窝样变），随疾病进展而增多。在已知病因的间质性肺疾病病例中，偶尔也可见到类似的组织学模式。
+
+【病理参考文献】
+1.Raghu G, Remy-Jardin M, Myers JL, et al.Diagnosis of Idiopathic Pulmonary Fibrosis.An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline.Am J Respir Crit Care Med2018;198(5):e44-e68.doi:10.1164/rccm.201807-1255ST
+1.Raghu G, Remy-Jardin M, Myers JL, et al.Diagnosis of Idiopathic Pulmonary Fibrosis.An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline.Am J Respir Crit Care Med2018;198(5):e44-e68.doi:10.1164/rccm.201807-1255ST
+
+【特发性肺纤维化的症状和体征】
+特发性肺纤维化的症状和体征通常在数月到数年内发展，包括几乎所有IPF患者都存在的进行性加重的劳力性呼吸困难和干咳。全身症状如低热和肌痛不常见。特发性肺纤维化（IPF）的典型体征是在双肺底部听到细小、干性、吸气相的爆裂音（Velcro爆裂音）。大约50%的病例出现杵状指 (1)。有可能出现肢端发绀。其余体检都正常，直到疾病进展；在晚期可出现肺动脉高压和右心室收缩功能障碍的体征。
+
+【症状和体征】
+1.Lederer DJ, Martinez FJ.Idiopathic Pulmonary Fibrosis.N Engl J Med2018;378(19):1811-1823.doi:10.1056/NEJMra1705751
+1.Lederer DJ, Martinez FJ.Idiopathic Pulmonary Fibrosis.N Engl J Med2018;378(19):1811-1823.doi:10.1056/NEJMra1705751
+
+【特发性肺纤维化的诊断】
+高分辨CT
+高分辨CT
+有时需要肺活检
+有时需要肺活检
+对于具有亚急性呼吸困难、干咳，以及胸部听诊闻及Velcro啰音的患者，应怀疑特发性肺纤维化的诊断。IPF常在初诊时被忽略，因为其临床上与其他疾病很相似，如支气管炎、哮喘和心衰。
+确诊需要高分辨率CT。
+典型的胸片显示下肺外带弥散的网状模糊影。由于牵引性支气管扩张引起的小囊性病变（蜂窝状）和扩张的气道是额外的发现，通常发生在患有纤维化的更晚期病例中。
+HRCT显示弥漫的、斑片状、胸膜下网状模糊影，伴小叶间隔不规则增厚和小叶内线状影；胸膜下蜂窝样变；牵拉性支气管扩张。肺部出现明显的毛玻璃影、结节或马赛克样衰减/空气滞留提示存在其他诊断。
+肺功能测试通常可以揭示出由于纤维化引起的限制性肺病的典型特征。其表现为肺一氧化碳弥散能力（DLCO）降低、劳力性低氧血症（可进展至静息时低氧饱和度），以及正常或降低的用力肺活量（FVC）。几乎所有IPF患者均可见DLCO降低，若同时存在其他IPF临床和影像学特征，则有助于确诊。
+如果在初步评估后仍存在诊断不确定性，可考虑进行肺活检。
+特发性肺纤维化 (IPF) 患者的高分辨率 CT 检查发现胸膜下蜂窝状改变和牵引性支气管扩张（印戒征，在肺动脉下方可见多个增厚扩张的支气管）。不存在与 IPF 不一致的发现，例如结节。如果临床发现一致，这些 CT 发现实际上可以诊断IPF。
+图片由Harold R.提供。Collard, 医学博士。
+实验室检查对诊断作用不大，除非排除潜在的系统性风湿病。
+
+【特发性肺纤维化的治疗】
+吡非尼酮或nintedanib
+吡非尼酮或nintedanib
+补充氧气和肺康复治疗
+补充氧气和肺康复治疗
+有时需要肺移植
+有时需要肺移植
+吡非尼酮和尼达尼布是抗纤维化药物，可以减缓特发性肺纤维化的进展（1,2,3,4)。没有足够的证据支持一种药物比另一种药物更有效。使用这些药物需要定期监测肝功能测试。
+支持措施包括氧气和肺康复。参加支持小组可能有助于减轻与疾病相关的心理压力。
+IPF的新疗法正在开发或正在测试，应鼓励合适的病人积极参加临床试验。
+肺移植对其他方面健康的IPF患者是成功的。这些患者在诊断时应评估是否适合肺移植。
+
+【治疗参考文献】
+1.Nathan SD, Albera C, Bradford WZ, et al.Effect ofpirfenidoneon mortality: pooled analyses and meta-analyses of clinical trials in idiopathic pulmonary fibrosis [published correction appears inLancet Respir Med2017 Jan;5(1):e7. doi: 10.1016/S2213-2600(16)30422-2.].Lancet Respir Med2017;5(1):33-41.doi:10.1016/S2213-2600(16)30326-5
+1.Nathan SD, Albera C, Bradford WZ, et al.Effect ofpirfenidoneon mortality: pooled analyses and meta-analyses of clinical trials in idiopathic pulmonary fibrosis [published correction appears inLancet Respir Med2017 Jan;5(1):e7. doi: 10.1016/S2213-2600(16)30422-2.].Lancet Respir Med2017;5(1):33-41.doi:10.1016/S2213-2600(16)30326-5
+2.Raghu G, Remy-Jardin M, Richeldi L, et al.Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline.Am J Respir Crit Care Med2022;205(9):e18-e47.doi:10.1164/rccm.202202-0399ST
+2.Raghu G, Remy-Jardin M, Richeldi L, et al.Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline.Am J Respir Crit Care Med2022;205(9):e18-e47.doi:10.1164/rccm.202202-0399ST
+3.Raghu G, Rochwerg B, Zhang Y, et al: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline: Treatment of Idiopathic Pulmonary Fibrosis.An Update of the 2011 Clinical Practice Guideline.Am J Respir Crit Care Med192 (2):e3-e19, Jun 15, 2015.
+3.Raghu G, Rochwerg B, Zhang Y, et al: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline: Treatment of Idiopathic Pulmonary Fibrosis.An Update of the 2011 Clinical Practice Guideline.Am J Respir Crit Care Med192 (2):e3-e19, Jun 15, 2015.
+4.Richeldi L, du Bois RM, Raghu G, et al: Efficacy and safety ofnintedanibin idiopathic pulmonary fibrosis.N Engl J Med370:2071–2082, 2014.
+4.Richeldi L, du Bois RM, Raghu G, et al: Efficacy and safety ofnintedanibin idiopathic pulmonary fibrosis.N Engl J Med370:2071–2082, 2014.
+
+【特发性肺纤维化的预后】
+大多数病人在确诊时病情已达中到晚期，即使治疗病情也恶化。抗纤维化疗法降低了死亡率。已建立多个预后模型预示预后较差的因素包括年龄较大、男性、用力肺活量较低和DLCO较低（1）。
+引起急性加重的原因包括感染、深静脉血栓形成、肺栓塞、气胸以及心力衰竭。肺动脉高压也可能发生。也有些急性加重的发生原因不明。急性加重往往具有高发病率和死亡率，住院患者尤为明显。
+IPF病人发生肺癌的几率较高，但死因通常是呼吸衰竭由于IPF预后较差，在早期诊断和病情管理阶段对患者及家属进行治疗安排和临终关怀非常重要。
+
+【预后参考】
+1.Sun X, Lei S, Zhao H, Guo L, Wang Y.Mortality-related risk factors of idiopathic pulmonary fibrosis: a systematic review and meta-analysis.J Thorac Dis2024;16(12):8338-8349.doi:10.21037/jtd-23-1908
+1.Sun X, Lei S, Zhao H, Guo L, Wang Y.Mortality-related risk factors of idiopathic pulmonary fibrosis: a systematic review and meta-analysis.J Thorac Dis2024;16(12):8338-8349.doi:10.21037/jtd-23-1908
+特发性肺间质纤维化占大多数特发性间质性肺炎，老年人常见。
+特发性肺间质纤维化占大多数特发性间质性肺炎，老年人常见。
+症状和体征（如亚急性呼吸困难、干咳和Velcro啰音）是非特异性的，通常由其他更常见的疾病引起。
+症状和体征（如亚急性呼吸困难、干咳和Velcro啰音）是非特异性的，通常由其他更常见的疾病引起。
+高分辨率CT显示弥漫的、斑片状、胸膜下网状模糊影，伴小叶间隔不规则增厚和小叶内线状影；胸膜下蜂窝样变；牵拉性支气管扩张，有助于诊断。
+高分辨率CT显示弥漫的、斑片状、胸膜下网状模糊影，伴小叶间隔不规则增厚和小叶内线状影；胸膜下蜂窝样变；牵拉性支气管扩张，有助于诊断。
+辅助治疗，可能的情况下使用吡非尼酮或尼达尼布。
+辅助治疗，可能的情况下使用吡非尼酮或尼达尼布。
+鼓励患者参与临床试验；对于其他方面健康的患者，可在诊断时考虑转诊进行肺移植评估。
+鼓励患者参与临床试验；对于其他方面健康的患者，可在诊断时考虑转诊进行肺移植评估。

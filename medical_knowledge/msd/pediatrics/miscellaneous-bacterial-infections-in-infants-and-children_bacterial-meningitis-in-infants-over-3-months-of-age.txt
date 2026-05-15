@@ -1,0 +1,208 @@
+标题：细菌性脑膜炎发生于3个月以上新生儿
+来源：https://www.msdmanuals.cn/professional/pediatrics/miscellaneous-bacterial-infections-in-infants-and-children/bacterial-meningitis-in-infants-over-3-months-of-age
+============================================================
+
+脑膜炎的概述，请参阅脑膜炎概述。 对于年龄较大的儿童和成人急性细菌性脑膜炎，见急性细菌性脑膜炎，对于<3个月儿童，见新生儿细菌性脑膜炎。对于病毒性脑膜炎，其中包括婴儿和儿童，见病毒性脑膜炎。
+
+【婴儿细菌性脑膜炎的病因】
+细菌性脑膜炎的病因和发病率与年龄以及婴儿是否接受过b型Haemophilus influenzae（流感嗜血杆菌）结合疫苗和Streptococcus pneumoniae（肺炎链球菌）结合疫苗的常规免疫接种密切相关(1)。
+在未接受常规免疫的婴儿中，细菌性脑膜炎的常见原因包括 (2)
+S. pneumoniae（肺炎链球菌）（许多血清型；特别是对没有S. pneumoniae（肺炎链球菌）结合疫苗接种记录的婴儿）
+S. pneumoniae（肺炎链球菌）（许多血清型；特别是对没有S. pneumoniae（肺炎链球菌）结合疫苗接种记录的婴儿）
+脑膜炎奈瑟氏菌（尤其是B血清群，但偶尔A，C，Y或W135组）
+脑膜炎奈瑟氏菌（尤其是B血清群，但偶尔A，C，Y或W135组）
+b型H. influen（流感嗜血杆菌）特别是没有b型H. influenzae（流感嗜血杆菌）结合疫苗接种记录的婴儿）
+b型H. influen（流感嗜血杆菌）特别是没有b型H. influenzae（流感嗜血杆菌）结合疫苗接种记录的婴儿）
+其他的婴儿和儿童的细菌性脑膜炎的病因已报道，但是非常罕见。Listeria monocytogenes（单核细胞增生性李斯特菌）；Streptococcus agalactiae（无乳链球菌）和Escherichia coli（大肠杆菌）引起3个月以下婴儿的疾病；它们很少是存活至> 3个月的极早产儿的病因。Staphylococcus aureus金黄色葡萄球菌脑膜炎可能发生在有创伤或神经外科手术的婴儿中。
+
+【病因参考文献】
+1.Committee on Infectious Diseases, American Academy of Pediatrics:Red Book: 2021–2024 Report of the Committee on Infectious Diseases, ed.32, edited by Kimberlin DW, Barnett ED, Lynfield R, and Sawyer MH.Itasca, American Academy of Pediatrics, 2021.
+1.Committee on Infectious Diseases, American Academy of Pediatrics:Red Book: 2021–2024 Report of the Committee on Infectious Diseases, ed.32, edited by Kimberlin DW, Barnett ED, Lynfield R, and Sawyer MH.Itasca, American Academy of Pediatrics, 2021.
+2.Weinberg GA, Stone RT: Bacterial infections of the nervous system.InSwaiman's Pediatric Neurology: Principles and Practice, 6th ed., edited by Swaiman KF, Ashwal S, Ferriero DM, et al.Philadelphia, Elsevier, 2018, pp 883–894.
+2.Weinberg GA, Stone RT: Bacterial infections of the nervous system.InSwaiman's Pediatric Neurology: Principles and Practice, 6th ed., edited by Swaiman KF, Ashwal S, Ferriero DM, et al.Philadelphia, Elsevier, 2018, pp 883–894.
+
+【婴儿细菌性脑膜炎的症状和体征】
+患者年龄越小，脑膜炎的症状和体征越不明显。
+细菌性脑膜炎的初始表现可能是急性发热性疾病，伴有呼吸道或胃肠道症状，随后才出现严重疾病的征象。大约33%至50%的新生儿可能会有前囟隆起，但很少会有颈项强直或其他经典的脑膜刺激征（例如，Kernig征或Brudzinski征），这些通常在较大的儿童中出现。 对于<12个月的儿童，不应使用不存在颈背僵硬来排除脑膜炎。
+
+【经验与提示】
+经验与提示
+对于<12个月的儿童，不应使用不存在颈背僵硬来排除脑膜炎。然而，如果存在，则不应该忽略颈部强直。
+对于<12个月的儿童，不应使用不存在颈背僵硬来排除脑膜炎。然而，如果存在，则不应该忽略颈部强直。
+随着细菌性脑膜炎的发展，儿童出现中枢神经系统（CNS）表现，有时非常快。中枢神经系统紊乱的程度从易激性到昏迷。多达15%的患有细菌性脑膜炎的儿童在住院时处于昏迷或半昏迷状态。癫痫发作有时与细菌性脑膜炎同时发生，但只有约20%的儿童会出现——通常是那些已经中毒、意识模糊或昏迷的儿童。在单纯性，非局灶性热性惊厥发作后，具有正常警觉性和正常的婴儿不太可能患有细菌性脑膜炎（另见热性惊厥）。
+视乳头水肿在任何年龄的患有细菌性脑膜炎的儿童中是非常罕见的。当存在乳头水肿时，应寻求其他原因的乳头水肿；细菌性脑膜炎进展如此之快，以致通常没有足够的时间用于形成乳头状水肿。
+
+【婴儿细菌性脑膜炎的诊断】
+脑脊液 (CSF) 分析和革兰氏染色
+脑脊液 (CSF) 分析和革兰氏染色
+一般来说，当脑膜炎的诊断在婴儿中已知或怀疑时，应进行腰椎穿刺。
+然而，腰椎穿刺可能会延迟，原因如下：
+临床上重要的心肺功能损害（最常见于年轻婴儿）
+临床上重要的心肺功能损害（最常见于年轻婴儿）
+颅内压明显增加的体征，包括视网膜变化；瞳孔反应改变；高血压、心动过缓和呼吸抑制（库欣三联征）；以及局灶性神经系统体征。
+颅内压明显增加的体征，包括视网膜变化；瞳孔反应改变；高血压、心动过缓和呼吸抑制（库欣三联征）；以及局灶性神经系统体征。
+疑似颅内损伤，包括存在可见损伤，特别是头部损伤，或提示非意外伤害的病史。
+疑似颅内损伤，包括存在可见损伤，特别是头部损伤，或提示非意外伤害的病史。
+腰椎穿刺部位感染
+腰椎穿刺部位感染
+怀疑或有出血性疾病史（例如，血友病，严重血小板减少症）
+怀疑或有出血性疾病史（例如，血友病，严重血小板减少症）
+在这些情况下，应该进行血液培养，并且应当经验地给予抗生素而不进行腰椎穿刺。 在怀疑颅内压增高的情况下，应该在抗生素给药期间或之后进行神经成像研究（例如，具有和不具有对比增强的颅CT、颅内超声）。如果成像研究的结果表明它是安全的，可以进行腰椎穿刺。然而，在怀疑患有脑膜炎的幼儿中，没有必要在腰椎穿刺前常规进行CT检查；尽管所有脑膜炎患者的颅内压都有一定程度的增加，但患有细菌性脑膜炎的幼儿脑部脑疝很少见。
+脑脊液送检分析，通常包括细胞计数、蛋白质、葡萄糖、革兰氏染色、培养，并且在选定的婴儿中进行聚合酶链反应（PCR）检测肠道病毒（例如，在美国夏末和秋季月份有脑膜炎的婴儿）、单纯疱疹病毒或副肠孤病毒。PCR 面板在可用的情况下可能会有用。同时，应抽取血液样本并送检以确定脑脊液与血液葡萄糖比值。
+细菌性脑膜炎的典型脑脊液发现包括
+高白细胞 (WBC) 计数 (> 500/mcL [0.5 × 109/L] 通常高达 10,000 WBC/mcL [10 × 109/L]，多形核白细胞占优势 [> 80%])
+高白细胞 (WBC) 计数 (> 500/mcL [0.5 × 109/L] 通常高达 10,000 WBC/mcL [10 × 109/L]，多形核白细胞占优势 [> 80%])
+蛋白升高（> 100mg/dL [1 gm/L])
+蛋白升高（> 100mg/dL [1 gm/L])
+低葡萄糖（<40mg/dL [2.2 mmol/L]，通常<10mg/dL [0.56 mmol/L]，脑脊液：血糖比通常<0.33）
+低葡萄糖（<40mg/dL [2.2 mmol/L]，通常<10mg/dL [0.56 mmol/L]，脑脊液：血糖比通常<0.33）
+革兰氏染色常常在脑脊液中显示细菌性脑膜炎中的生物体。虽然研究结果可能有所不同，但有细菌性脑膜炎的婴儿在检查时很少有完全正常的脑脊液。
+此外，还应对婴儿的全身性疾病和其他感染源进行评估，包括 2 组血液培养（如有可能；至少 1 组需氧和厌氧培养瓶）、血清电解质、全血细胞计数和差值，以及尿检和尿培养。
+
+【鉴别诊断】
+细菌性脑膜炎的症状和体征也可能由其他中枢神经系统感染引起，包括病毒性脑膜炎（通常为肠道病毒或幼儿的副肠孤病毒）、新生儿HSV感染（几乎仅发生于年龄<1个月的婴儿）、儿童HSV脑炎和脑脓肿。
+影响年长儿童和成人的其他中枢神经系统感染病因（如莱姆神经性脑病；真菌性脑膜炎；结核性脑膜炎；Bartonella（巴尔通体）感染；因使用非甾体抗炎药、磺胺甲噁唑/甲氧苄啶（SMX-TMP，复方新诺明）或静脉注射免疫球蛋白而导致的化学性脑膜炎；癌症）很少发生在12个月以下的儿童身上，应根据病史、体格检查和脑脊液检查加以鉴别。
+在脑膜炎的这些其他原因中，脑脊液的发现通常包括<500 WBC/mcL (0.5 × 109/L)，多形核白细胞<50%，蛋白<100 mg/dL (1 g/L)，正常葡萄糖，且革兰氏染色显示无生物体。
+
+【婴儿细菌性脑膜炎的治疗】
+抗菌疗法
+抗菌疗法
+一旦诊断出细菌性脑膜炎（实际上或推定的），应确保静脉通路，并给予适当的抗微生物药物（和可能的皮质类固醇）。
+3个月以上婴儿的经验性抗菌治疗针对常见病原体：Pneumococci（肺炎双球菌）、Meningococci（脑膜炎球菌）和b型H. influenzae（流感嗜血杆菌）。
+典型的抗生素治疗方案包括
+头孢曲松或新一代头孢菌素（如头孢吡肟）加
+头孢曲松或新一代头孢菌素（如头孢吡肟）加
+万古霉素
+万古霉素
+头孢曲松对通常在＞3个月婴儿中引起细菌性脑膜炎的病原体极为有效。万古霉素的使用是因为某些地区的一些肺炎球菌菌株对高级头孢菌素不敏感。在大多数肺炎球菌对青霉素易感的区域（和机构）中，万古霉素可能不是必需的，特别是如果在脑脊液革兰氏染色上没有观察到革兰氏阳性球菌；拒绝万古霉素的决定通常应与传染病专家协商。
+一旦鉴定出感染病原体，则使用更具体的靶向药物；例如，万古霉素可能不再需要。
+
+【病原体特异性抗菌治疗】
+在立即经验的抗微生物药物已经开始后，脑脊液和/或血培养物的结果用于选择更具体靶向的药物，同时等待微生物鉴定和敏感性试验结果。（见表一旦确定细菌身份并获知药敏结果，即可开始3个月以上婴儿细菌性脑膜炎的特异性治疗。）
+如果怀疑S. pneumoniae（肺炎链球菌）（例如，因为在脑脊液的革兰氏染色中观察到成对的革兰氏阳性球菌），应继续经验性使用万古霉素直至获得药敏试验结果。如果分离物对青霉素或头孢曲松敏感，则停止万古霉素；如果分离株不敏感，则继续使用万古霉素（某些临床医生会添加利福平）。由于地塞米松可能降低万古霉素在脑脊液中的渗透性（从而降低其效力），一些专家建议不应使用地塞米松，或者如果使用，应同时加用利福平。
+疾病由脑膜炎奈瑟菌可以采用大剂量青霉素 G 或氨苄西林进行可靠治疗，或者也可以采用头孢曲松进行治疗。如果使用青霉素或氨苄青霉素疗法，则需随后使用为期两天、每天两次的利福平来清除带菌状态并防止复发（如果使用头孢曲松完成治疗，则无需使用利福平）。
+如果疑似或确诊b型H. influenzae （流感嗜血杆菌），可以放心使用头孢曲松治疗；氨苄青霉素只有在被证明是敏感的情况下才使用。如果使用氨苄青霉素疗法，则需随后进行为期4天的每天1次的利福平以清除带菌状态并防止复发（如果使用头孢曲松完成治疗，则无需使用利福平）。
+其他罕见感染（如S. agalactiae（无乳链球菌）、E. coli（大肠杆菌）、L. monocytogenes（单核球增多性李斯特菌）、S. aureus（金黄色葡萄球菌））的特异性抗菌治疗应在咨询传染病专家后选择。
+
+【一旦鉴定细菌并了解药敏结果，即可开始3个月以上婴儿细菌性脑膜炎的特异性治疗】
+一旦鉴定细菌并了解药敏结果，即可开始3个月以上婴儿细菌性脑膜炎的特异性治疗
+Streptococcus pneumoniae
+青霉素MIC≤0.06mcg/mL，头孢曲松或头孢噻肟MIC≤0.5mcg/mL：青霉素G或氨苄青霉素10～14天；头孢曲松或头孢噻肟也是可接受的
+青霉素MIC≥0.12mcg/mL，头孢曲松或头孢噻肟MIC≤0.5mcg/mL：头孢曲松或头孢噻肟10～14天
+青霉素MIC≥0.12mcg/mL和头孢曲松或头孢噻肟MIC≥1.0mcg/mL：头孢曲松或头孢噻肟加万古霉素，使用或不使用利福平10～14天
+Neisseria meningitidis
+青霉素G或氨苄青霉素7天（必须后跟利福平以消除载体状态）
+备选方案：头孢曲松或头孢噻肟
+Haemophilus influenzae流感嗜血杆菌b型
+头孢曲松或头孢噻肟使用10天。
+替代方案：氨苄青霉素，如果分离株是易感的（必须序贯使用利福平以消除携带者状态）
+MIC=最小抑菌浓度
+MIC=最小抑菌浓度
+
+【用于细菌性脑膜炎的皮质类固醇】
+使用皮质类固醇（例如地塞米松）作为细菌性脑膜炎的辅助疗法已经研究了几十年，并且继续有争议。皮质类固醇在降低神经系统发病率方面的有益作用似乎因患者的年龄（儿童或成人）、具体的细菌病因、地理区域和医疗保健资源而异。
+有证据表明，地塞米松可以减轻资源丰富地区患有细菌性脑膜炎的婴儿和儿童的听力障碍，这些细菌性脑膜炎是由b型H. influenzae（流感嗜血杆菌）引起的(1)。效果地塞米松对由其他病原体引起的脑膜炎的疗效仍未得到证实，但一些针对高资源地区由引起的成人脑膜炎的肺炎链球菌研究报告显示，神经系统的预后有所改善，死亡率也有所降低（1，2）。地塞米松似乎不会对生活在发展中国家的儿童或患有细菌性脑膜炎的成人受益，对于脑膜炎新生儿似乎也没有好处。
+因此，地塞米松IV应在抗菌治疗前或抗菌治疗后1小时内给予6周龄以上的儿童，特别是对于由b型H. influenzae（流感嗜血杆菌）引起的脑膜炎。地塞米松每6小时一次，持续4天，对于确诊的流感嗜血杆菌b型脑膜炎。一些专家还建议在>6周龄的肺炎球菌性脑膜炎患儿使用相同的地塞米松方案。
+为了最佳功效，地塞米松必须在诊断时开始使用；这不总是可能的，除非脑脊液的革兰氏染色或流行病学因素（例如，疾病接触史）可以立即提供病因诊断。在儿童已经给予常规流感嗜血杆菌b型和肺炎球菌结合疫苗的地区，由这些生物体引起的细菌性脑膜炎非常罕见。由于这些原因，连同关于地塞米松治疗的益处的矛盾的证据，许多儿科传染病专家不再常规地向脑膜炎婴儿给予皮质类固醇。
+
+【治疗参考文献】
+1.Brouwer MC, McIntyre P, Prasad K, van de Beek D: Corticosteroids for acute bacterial meningitis.Cochrane Database Syst Rev2015(9):CD004405, 2015.doi: 10.1002/14651858.CD004405.pub5
+1.Brouwer MC, McIntyre P, Prasad K, van de Beek D: Corticosteroids for acute bacterial meningitis.Cochrane Database Syst Rev2015(9):CD004405, 2015.doi: 10.1002/14651858.CD004405.pub5
+2.Hasbun R: Progress and Challenges in Bacterial Meningitis: A Review [published correction appears inJAMA. 2023 Feb 14;329(6):515].JAMA328(21):2147-2154, 2022.doi: 10.1001/jama.2022.20521
+2.Hasbun R: Progress and Challenges in Bacterial Meningitis: A Review [published correction appears inJAMA. 2023 Feb 14;329(6):515].JAMA328(21):2147-2154, 2022.doi: 10.1001/jama.2022.20521
+
+【婴儿细菌性脑膜炎的预后】
+在较大的婴儿和儿童中，细菌性脑膜炎的死亡率约为5%到15% (1,2)，并且神经系统发病率（例如感觉神经性听力丧失，智力残疾，痉挛和轻瘫，癫痫发作）发生在15%到25% (3)。感觉神经性耳聋是肺炎球菌性脑膜炎之后最常见的。
+在年龄较大的婴儿和儿童中，当原因是b型H. influenzae（流感嗜血杆菌）时，死亡率在3%到5%之间；当原因是N. meningitidis（脑膜炎奈瑟菌）时，死亡率在5%到10%之间；当原因是S. pneumoniae（肺炎链球菌）时，死亡率在10%到20%之间 (4)。
+
+【预后参考】
+1.Mongelluzzo J, Mohamad Z, Ten Have TR, Shah SS: Corticosteroids and mortality in children with bacterial meningitis.JAMA299(17):2048-2055, 2008.doi: 10.1001/jama.299.17.2048
+1.Mongelluzzo J, Mohamad Z, Ten Have TR, Shah SS: Corticosteroids and mortality in children with bacterial meningitis.JAMA299(17):2048-2055, 2008.doi: 10.1001/jama.299.17.2048
+2.Thigpen MC, Whitney CG, Messonnier NE, et al: Bacterial meningitis in the United States, 1998-2007.N Engl J Med364(21):2016-2025, 2011.doi: 10.1056/NEJMoa1005384
+2.Thigpen MC, Whitney CG, Messonnier NE, et al: Bacterial meningitis in the United States, 1998-2007.N Engl J Med364(21):2016-2025, 2011.doi: 10.1056/NEJMoa1005384
+3.Baraff LJ, Lee SI, Schriger DL: Outcomes of bacterial meningitis in children: a meta-analysis.Pediatr Infect Dis J12(5):389-394, 1993.doi: 10.1097/00006454-199305000-00008
+3.Baraff LJ, Lee SI, Schriger DL: Outcomes of bacterial meningitis in children: a meta-analysis.Pediatr Infect Dis J12(5):389-394, 1993.doi: 10.1097/00006454-199305000-00008
+4.Hasbun R: Progress and Challenges in Bacterial Meningitis: A Review [published correction appears inJAMA. 2023 Feb 14;329(6):515].JAMA328(21):2147-2154, 2022.doi: 10.1001/jama.2022.20521
+4.Hasbun R: Progress and Challenges in Bacterial Meningitis: A Review [published correction appears inJAMA. 2023 Feb 14;329(6):515].JAMA328(21):2147-2154, 2022.doi: 10.1001/jama.2022.20521
+
+【预防婴儿细菌性脑膜炎】
+预防细菌性脑膜炎包括疫苗接种，有时也包括化学预防。
+
+【疫苗接种】
+建议所有儿童从2月龄开始接种肺炎球菌结合疫苗（参见肺炎球菌疫苗）。For further information, seeAdvisory Committee on Immunization Practices (ACIP) pneumococcal vaccine recommendationsand theCenters for Disease Control and Prevention's child and adolescent immunization schedule by age.
+常规使用b型H. influenzae(流感嗜血杆菌)结合疫苗也非常有效，且从2个月龄开始接种。For further information, seeACIP Haemophilus influenzae vaccine recommendations.
+ACIP建议＞6周且有脑膜炎球菌病高风险的婴儿接种脑膜炎球菌结合疫苗。高危婴儿包括那些
+有HIV感染
+有HIV感染
+有功能或解剖学无脾
+有功能或解剖学无脾
+有持续补体成分途径缺陷
+有持续补体成分途径缺陷
+补体抑制剂的使用（例如，依库珠单抗、拉武利珠单抗）
+补体抑制剂的使用（例如，依库珠单抗、拉武利珠单抗）
+前往或居住在高风险地区（例如撒哈拉以南非洲或沙特阿拉伯）
+前往或居住在高风险地区（例如撒哈拉以南非洲或沙特阿拉伯）
+受到疫苗血清群爆发的影响
+受到疫苗血清群爆发的影响
+对于非高风险婴儿，建议在 11 或 12 岁时常规接种脑膜炎球菌结合疫苗，并在 16 岁时加强接种。
+两种血清B群脑膜炎球菌疫苗已被ACIP批准用于≥10岁且具有B组脑膜炎球菌疾病高风险的儿童（与上述类别相同）；目前尚未推荐常规接种B群脑膜炎球菌疫苗。For further information, seeACIP meningococcal vaccine recommendations.
+
+【脑膜炎化学预防】
+与因某些细菌引起的脑膜炎患儿密切接触的儿童应接受利福平、头孢曲松或环丙沙星的抗菌化学预防，包括
+N. meningitidis脑膜炎奈瑟氏球菌脑膜炎：所有的密切接触者
+N. meningitidis脑膜炎奈瑟氏球菌脑膜炎：所有的密切接触者
+H. influenzae流感嗜血杆菌脑膜炎：经选择的密切接触者
+H. influenzae流感嗜血杆菌脑膜炎：经选择的密切接触者
+由其他细菌引起的脑膜炎的儿童的接触者不需要化学预防。
+对于脑膜炎球菌性脑膜炎，密切接触者的感染风险可能是一般人群的25至500倍。密切接触者定义为 (1)
+家庭成员，特别是<2岁的儿童
+家庭成员，特别是<2岁的儿童
+幼儿中心接触在症状出现前7天暴露
+幼儿中心接触在症状出现前7天暴露
+任何人在症状发作前7天直接暴露于患者的口腔分泌物（例如，通过接吻，共用牙刷或器具，口对口复苏，气管内插管，气管内管管理）
+任何人在症状发作前7天直接暴露于患者的口腔分泌物（例如，通过接吻，共用牙刷或器具，口对口复苏，气管内插管，气管内管管理）
+不是每个护理脑膜炎婴儿的保健医生都被认为是密切接触者。医护人员只有在管理患者的气道或直接暴露于患者的呼吸道分泌物时才应接受化学预防。
+应尽快（理想情况下在确认指示病例后24小时内）给予化学预防；暴露后>2周才给予的化学预防可能几乎没有价值。根据接触者的年龄，利福平、头孢曲松和环丙沙星都是适当的抗菌药物。对于幼儿，口服利福平或可注射的头孢曲松是优选的。利福平每天给药 2 次，连续 2 天。
+对于b型H. influenzae(流感嗜血杆菌)脑膜炎，接触者的感染风险比脑膜炎球菌疾病低，但对于未接种疫苗的婴幼儿，特别是与指示病例同住的家庭成员，风险仍然很大。此外，家庭接触者可能是b型H. influenzae（流感嗜血杆菌）的无症状携带者。
+密切接触者的定义比脑膜炎球菌预防更为明确，因为在家庭中花时间但不住在那里的看护者可能已经被b型H. influenzae（流感嗜血杆菌）定植。因此，对于该病原体，家庭接触 被定义为如下 (1)：
+与源头病人生活在一起
+与源头病人生活在一起
+在指示病例入院前7天内，与指示病例共处≥5天且每天≥4小时的人
+在指示病例入院前7天内，与指示病例共处≥5天且每天≥4小时的人
+然后推荐对符合上述定义的家庭每个成员进行化学预防，如果该家庭还有以下情况：
+至少有1名<4岁的接触者未完全接种疫苗或未接种疫苗
+至少有1名<4岁的接触者未完全接种疫苗或未接种疫苗
+<12月龄的儿童未完成Hib结合疫苗的基础免疫系列
+<12月龄的儿童未完成Hib结合疫苗的基础免疫系列
+免疫受损的儿童（不考虑以前的免疫状态）
+免疫受损的儿童（不考虑以前的免疫状态）
+对b型H. influenzae（流感嗜血杆菌）的完全免疫定义为：在≥15个月龄时接种至少1剂Hib结合疫苗，或在12至14个月龄期间接种2剂，或对<12个月龄儿童完成2剂或3剂基础系列并在≥12个月龄时接种加强剂量。
+此外，如果学前班或儿童保育中心的参与者中在60天内出现≥2例侵袭性Hib疾病病例，许多专家建议对所有参与者和工作人员进行化学预防，以消除无症状鼻腔携带，无论其免疫状态如何。
+最易发生继发感染的密切接触者是对b型H. influenzae（流感嗜血杆菌）免疫不完全的＜4岁儿童。应在指示病例确认后<24小时内给予化学预防；暴露后>2周才给予的化学预防可能几乎没有价值。口服利福平或可注射头孢曲松为首选，环丙沙星对年龄较大的接触者可接受。利福平每天给药1次，连续给药4天。
+
+【预防参考文献】
+1.Committee on Infectious Diseases, American Academy of Pediatrics:Red Book: 2021–2024 Report of the Committee on Infectious Diseases, ed.32, edited by Kimberlin DW, Barnett ED, Lynfield R, and Sawyer MH.Itasca, American Academy of Pediatrics, 2021.
+1.Committee on Infectious Diseases, American Academy of Pediatrics:Red Book: 2021–2024 Report of the Committee on Infectious Diseases, ed.32, edited by Kimberlin DW, Barnett ED, Lynfield R, and Sawyer MH.Itasca, American Academy of Pediatrics, 2021.
+患有细菌性脑膜炎的婴儿可能首先存在非特异性症状和体征（例如，上呼吸道或胃肠道疾病），但随后快速失代偿。
+患有细菌性脑膜炎的婴儿可能首先存在非特异性症状和体征（例如，上呼吸道或胃肠道疾病），但随后快速失代偿。
+脑膜炎最常见的细菌病因是Streptococcus pneumoniae（肺炎链球菌）、Neisseria meningitidis（脑膜炎奈瑟菌）和b型Haemophilus influenzae(流感嗜血杆菌)。
+脑膜炎最常见的细菌病因是Streptococcus pneumoniae（肺炎链球菌）、Neisseria meningitidis（脑膜炎奈瑟菌）和b型Haemophilus influenzae(流感嗜血杆菌)。
+如果怀疑脑膜炎，尽快做腰椎穿刺(除非有禁忌症)，并给予经验性抗微生物治疗（可能使用地塞米松）。
+如果怀疑脑膜炎，尽快做腰椎穿刺(除非有禁忌症)，并给予经验性抗微生物治疗（可能使用地塞米松）。
+在婴儿> 3个月的经验性抗微生物治疗是使用头孢噻肟或头孢曲松加万古霉素。
+在婴儿> 3个月的经验性抗微生物治疗是使用头孢噻肟或头孢曲松加万古霉素。
+提供抗菌化学预防，以选择患有以下疾病的患者的接触者N. meningitidis脑膜炎或H. influenzae脑膜炎。
+提供抗菌化学预防，以选择患有以下疾病的患者的接触者N. meningitidis脑膜炎或H. influenzae脑膜炎。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Advisory Committee for Immunization Practices (ACIP):Pneumococcal vaccine recommendations
+Advisory Committee for Immunization Practices (ACIP):Pneumococcal vaccine recommendations
+ACIP:Meningococcal vaccine recommendations
+ACIP:Meningococcal vaccine recommendations
+ACIP:Haemophilus influenzae vaccine recommendations
+ACIP:Haemophilus influenzae vaccine recommendations
+Centers for Disease Control and Prevention (CDC):Child and Adolescent Immunization Schedule by Age
+Centers for Disease Control and Prevention (CDC):Child and Adolescent Immunization Schedule by Age
+American Academy of Pediatrics:Red Book: 2021–2024 Report of the Committee on Infectious Diseases
+American Academy of Pediatrics:Red Book: 2021–2024 Report of the Committee on Infectious Diseases

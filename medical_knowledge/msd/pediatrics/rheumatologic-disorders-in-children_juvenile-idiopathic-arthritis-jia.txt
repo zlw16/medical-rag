@@ -1,0 +1,109 @@
+标题：幼年特发性关节炎（JIA）
+来源：https://www.msdmanuals.cn/professional/pediatrics/rheumatologic-disorders-in-children/juvenile-idiopathic-arthritis-jia
+============================================================
+
+幼年特发性关节炎（JIA）并不常见。JIA的病因不明，但存在遗传易感性以及自身免疫和自体炎症病理生理学特征。
+绝大多数JIA患儿的疾病与成人类风湿性关节炎 (RA)不同，但在大约5%的患有JIA的儿童中，其疾病与成人RA相似(1)。
+
+【参考文献】
+1.Hinks A, Marion MC, Cobb J, et al.Brief Report: The Genetic Profile of Rheumatoid Factor-Positive Polyarticular Juvenile Idiopathic Arthritis Resembles That of Adult Rheumatoid Arthritis.Arthritis Rheumatol.2018;70(6):957-962.doi:10.1002/art.40443
+1.Hinks A, Marion MC, Cobb J, et al.Brief Report: The Genetic Profile of Rheumatoid Factor-Positive Polyarticular Juvenile Idiopathic Arthritis Resembles That of Adult Rheumatoid Arthritis.Arthritis Rheumatol.2018;70(6):957-962.doi:10.1002/art.40443
+
+【JIA的分类】
+幼年特发性关节炎并不是一种单一的疾病；该术语适用于一些发生在儿童身上具有某些共同特征的慢性非感染性关节炎。目前的分类系统，是由国际风湿病学联盟协会所指定的，定义了基于临床和实验室研究结果的疾病分类 (1)。一些类别的被细分为不同的亚型。分类包括如下：
+少关节型幼年特发性关节炎（持续性或延长性）
+少关节型幼年特发性关节炎（持续性或延长性）
+多关节型幼年特发性关节炎（类风湿因子[RF]阴性或阳性）
+多关节型幼年特发性关节炎（类风湿因子[RF]阴性或阳性）
+附着点相关性关节炎
+附着点相关性关节炎
+牛皮癣型幼年特发性关节炎
+牛皮癣型幼年特发性关节炎
+未分化型幼年特发性关节炎
+未分化型幼年特发性关节炎
+全身性幼年特发性关节炎
+全身性幼年特发性关节炎
+许多这些类别的可能包括一个以上的疾病，但是，这样有帮于对具有相似的预后以及对治疗的反应的儿童进行分组。此外，儿童在其疾病过程中，其疾病的类别可能改变。
+少关节型幼年特发性关节炎是最常见的形式，通常影响年轻女孩。 它的特点是在疾病的前6个月内，累及≤4个关节。少关节幼年特发性关节炎进一步分为2种类型：持久型（ 始终≤4个关节受累）和扩展型（疾病最初6个月后5个及以上关节受累）。
+多关节型幼年特发性关节炎是第二最常见的类型。它发病时累及≥5个关节，被分成2种类型：类风湿因子阴性和类风湿因子阳性。通常情况下，年轻的女孩是类风湿因子阴性，预后较好。 RF 阳性类型通常发生在青春期女孩中，类似于成人类风湿性关节炎。 对于这两种类型，关节炎可以是对称的，通常涉及小关节。
+附着点相关性关节炎包括关节炎和附着点炎（肌腱和韧带附着点的炎症）。这在年龄较大的男孩中更为常见，这些患者随后可能会发展为中轴骨骼（骶髂关节和腰椎）关节炎。附着点相关性关节炎倾向于发生在下肢且呈不对称分布。 人类白细胞抗原-B27 (HLA-B27) 等位基因在这种形式的 JIA 中更为常见。
+银屑病幼年特发性关节炎具有双峰年龄分布。一个高峰出现在年轻女孩中，另一个高峰出现在年长的男性和女性中（两者受影响程度相同）。它与银屑病、指（趾）炎（指/趾肿胀）、指甲凹陷或甲剥离，或一级亲属银屑病家族史有关。关节炎通常是少关节型。
+幼年特发性关节炎或银屑病会在指甲上造成诸如此类的凹陷。
+未分化型JIA用于不符合任一亚型，或符合多个亚型标准的患者。
+全身型幼年特发性关节炎（斯蒂尔病）的特征是全身炎症和关节炎。全身性表现包括发烧、皮疹、肝脏肿大、脾脏肿大、淋巴结病和浆膜炎。
+儿科风湿病国际试验组织（PRINTO）提出了更新的分类标准，包含更少、更同质的类别（2）；然而，这些标准尚未被广泛采用，还需要进一步验证。
+
+【分类参考】
+1.Petty RE, Southwood TR, Manners P, et al.International League of Associations for Rheumatology classification of juvenile idiopathic arthritis: second revision, Edmonton, 2001.J Rheumatol.2004;31(2):390-392.
+1.Petty RE, Southwood TR, Manners P, et al.International League of Associations for Rheumatology classification of juvenile idiopathic arthritis: second revision, Edmonton, 2001.J Rheumatol.2004;31(2):390-392.
+2.Martini A, Ravelli A, Avcin T, et al.Toward New Classification Criteria for Juvenile Idiopathic Arthritis: First Steps, Pediatric Rheumatology International Trials Organization International Consensus.J Rheumatol.2019;46(2):190-197.doi:10.3899/jrheum.180168
+2.Martini A, Ravelli A, Avcin T, et al.Toward New Classification Criteria for Juvenile Idiopathic Arthritis: First Steps, Pediatric Rheumatology International Trials Organization International Consensus.J Rheumatol.2019;46(2):190-197.doi:10.3899/jrheum.180168
+
+【JIA的症状和体征】
+临床表现涉及关节，有时累及眼睛和/或皮肤；全身型幼年特发性关节炎可影响多个器官。
+有时，幼年特发性关节炎影响儿童生长和发育。由于下颌骨骨骺早闭可能会出现小下颌（下颌回缩），或出现肢体不等长（通常患肢较长）。
+儿童关节异常通常包括关节僵硬（尤其晨起时）、肿胀、积液、疼痛及压痛，但部分患儿无痛感。关节表现可以是对称或不对称的，涉及大关节和/或小关节。
+附着点炎通常会导致髂嵴、脊椎、股骨大转子、髌骨、胫骨结节、跟腱附着点或足底筋膜附着点压痛。
+眼部异常可见于多个JIA亚型。最常见的并发症是虹膜睫状体炎（前房和玻璃体的炎症），通常无症状，但有时会导致视力模糊和瞳孔缩小。罕见情况下，在附着点相关性关节炎中，也有更常见的葡萄膜炎表现，如结膜充血、疼痛和畏光。虹膜睫状体炎可导致疤痕（粘连），白内障，青光眼或带状角膜病。虹膜睫状体炎在少关节型幼年特发性关节炎（JIA）中最为常见，近20%的患者会出现这种情况，尤其是抗核抗体（ANA）阳性的患者。它可能发生于其他类型，但在多关节型类风湿因子阳性幼年特发性关节炎和全身型幼年特发性关节炎中极为罕见。
+皮肤异常主要存在于银屑病型幼年特发性关节炎，可能出现银屑病皮损、指炎和/或指甲凹陷；在全身型幼年特发性关节炎中，典型的短暂性皮疹常伴发热。全身型幼年特发性关节炎的皮疹可能弥漫且迁移，表现为荨麻疹样或斑丘疹，中央有清晰区。
+全身型JIA的全身性表现包括高热、皮疹、脾肿大、全身性淋巴结病（尤其是腋窝淋巴结）、浆膜炎伴心包炎或胸膜炎以及肺病。这些表现可先于关节炎的症状出现。每日均有发热（每日出现的），通常在下午或傍晚最高，复发持续数周。在 7% 到 10% 的患者中，全身性 JIA 可能并发巨噬细胞活化综合征，一种危及生命的细胞因子风暴综合征。
+
+【JIA的诊断】
+病史和体格检查
+病史和体格检查
+类风湿因子（RF）、抗核抗体（ANA）、抗环瓜氨酸肽（抗CCP）抗体和HLA-B27检测
+类风湿因子（RF）、抗核抗体（ANA）、抗环瓜氨酸肽（抗CCP）抗体和HLA-B27检测
+有关节炎症状、虹膜睫状体炎体征、全身淋巴结肿大、脾肿大或不明原因的皮疹或是长期发热（>2周），尤其每天均发热的儿童患者，需怀疑幼年特发性关节炎的可能性。幼年特发性关节炎的诊断主要基于临床。当慢性非感染性关节炎持续时间> 6周，没有其他已知原因时，就会做出该诊断。
+JIA患者应检测类风湿因子、抗CCP抗体、抗核抗体及HLA-B27以辅助分型，但阴性结果并不能排除JIA。ANA的测试应采用免疫荧光法进行，因为其他方法可能会导致假阴性结果。
+附着点炎相关的关节炎更常见HLA-B27阳性。
+在全身性幼年特发性关节炎中，类风湿因子和抗核抗体通常是阴性的。在少关节型幼年特发性关节炎中，多达75%的患者抗核抗体阳性，类风湿因子通常阴性。在多关节型幼年特发性关节炎中，类风湿因子常为阴性，但在一些患者特别是少女中可为阳性。
+在全身性 JIA 中，提示全身性炎症的实验室异常，如红细胞沉降率 (ESR)、铁蛋白和 C 反应蛋白升高，以及白细胞增多、贫血和血小板增多几乎总是在诊断时出现。
+在全身性青少年特发性关节炎 (JIA) 中，患者应每年进行一到两次眼科检查。
+诊断虹膜睫状体炎时，即使没有眼部症状也需行裂隙灯检查。 最近诊断为少关节或多关节型幼年特发性关节炎的患者，如果ANA检测结果为阳性，应每3个月进行一次眼科检查;如果ANA检测结果为阴性，应每6个月进行一次眼科检查。
+
+【JIA的治疗】
+减缓疾病进展的药物（特别是甲氨蝶呤、肿瘤坏死因子 [TNF] 抑制剂和白细胞介素 [IL]-1 和IL-6抑制剂）
+减缓疾病进展的药物（特别是甲氨蝶呤、肿瘤坏死因子 [TNF] 抑制剂和白细胞介素 [IL]-1 和IL-6抑制剂）
+偶用关节内或全身糖皮质激素
+偶用关节内或全身糖皮质激素
+有时使用非甾体抗炎药 (NSAIDs) 缓解症状
+有时使用非甾体抗炎药 (NSAIDs) 缓解症状
+有时使用 T 细胞共刺激剂或 Janus 激酶抑制剂
+有时使用 T 细胞共刺激剂或 Janus 激酶抑制剂
+与成人类风湿性关节炎的治疗相似，改善病情抗风湿药物（DMARDs），特别是甲氨蝶呤和生物制剂（例如，依那西普、阿那白滞素、卡那单抗、托珠单抗、阿巴西普），已显著改变了治疗方法（1，2，3，4）。
+甲氨蝶呤对于少关节型，牛皮藓型和多关节型幼年特发性关节炎有效。需与成人一样要监测其副作用。 通过全血细胞计数、天冬氨酸转氨酶 (AST)、丙氨酸转氨酶 (ALT) 和白蛋白监测骨髓抑制和肝毒性。
+若甲氨蝶呤无效或患者预后不良的风险高，可使用TNF抑制剂。依那西普、阿达木单抗及英夫利昔单抗是已被证明有效的TNF抑制剂。
+IL-1抑制剂阿那金拉和卡那金单抗对全身型幼年特发性关节炎尤其有效。托珠单抗是一种IL-6受体拮抗剂，也用于治疗全身性JIA和多关节JIA。
+T细胞共刺激抑制剂阿巴西普及JAK抑制剂如托法替尼、乌帕替尼，也可用于治疗多关节型JIA。
+除严重全身性或多关节病变外，通常可避免使用全身性糖皮质激素。在必要时，使用尽可能低的剂量。生长发育迟缓、骨质疏松和骨坏死是在儿童中长期使用全身性糖皮质激素的主要危害。可给予关节内注射糖皮质激素，这有助于避免全身性糖皮质激素的不良反应。儿童用量根据体重调整。有些儿童可能需要镇静才能进行关节内注射，尤其是在多个关节需要注射时。
+非甾体抗炎药可以减轻JIA的症状，但这些药物不能改变长期的关节疾病或预防并发症。非甾体类抗炎药用于附着点炎最为有效。萘普生、布洛芬和吲哚美辛是较常用的药物之一。
+虹膜睫状体炎可用眼用皮质类固醇滴剂和散瞳剂治疗，可能需要全身甲氨蝶呤和抗肿瘤坏死因子治疗，偶尔还需要手术。
+物理治疗，锻炼，夹板疗法和其他支持治疗可能有助于预防屈曲挛缩。适当的器械辅助可改善功能和减少炎性关节不必要的负重。
+
+【治疗参考文献】
+1.Ringold S, Angeles-Han ST, Beukelman T, et al.2019 American College of Rheumatology/Arthritis Foundation guideline for the treatment of juvenile idiopathic arthritis: Therapeutic approaches for non-systemic polyarthritis, sacroiliitis, and enthesitis.Arthritis Rheumatol. 2019;71(6):846–863.doi:10.1002/art.40884
+1.Ringold S, Angeles-Han ST, Beukelman T, et al.2019 American College of Rheumatology/Arthritis Foundation guideline for the treatment of juvenile idiopathic arthritis: Therapeutic approaches for non-systemic polyarthritis, sacroiliitis, and enthesitis.Arthritis Rheumatol. 2019;71(6):846–863.doi:10.1002/art.40884
+2.Ringold S, Weiss PF, Beukelman T, DeWitt EM, et al.2013 update of the 2011 American College of Rheumatology recommendations for the treatment of juvenile idiopathic arthritis: Recommendations for the medical therapy of children with systemic juvenile idiopathic arthritis and tuberculosis screening among children receiving biologic medications.Arthritis Rheum. 2013;65(10):2499–2512.doi:10.1002/art.38092.2013
+2.Ringold S, Weiss PF, Beukelman T, DeWitt EM, et al.2013 update of the 2011 American College of Rheumatology recommendations for the treatment of juvenile idiopathic arthritis: Recommendations for the medical therapy of children with systemic juvenile idiopathic arthritis and tuberculosis screening among children receiving biologic medications.Arthritis Rheum. 2013;65(10):2499–2512.doi:10.1002/art.38092.2013
+3.Mehta J, Beukelman T.Biologic agents in the treatment of childhood-onset rheumatic disease.J Pediatr. 2017;189:31–39.doi:10.1016/j.jpeds.2017.06.041
+3.Mehta J, Beukelman T.Biologic agents in the treatment of childhood-onset rheumatic disease.J Pediatr. 2017;189:31–39.doi:10.1016/j.jpeds.2017.06.041
+4.Onel KB, Horton DB, Lovell DJ, et al.2021 American College of Rheumatology Guideline for the Treatment of Juvenile Idiopathic Arthritis: Therapeutic Approaches for Oligoarthritis, Temporomandibular Joint Arthritis, and Systemic Juvenile Idiopathic Arthritis.Arthritis Rheumatol.2022;74(4):553-569.doi:10.1002/art.42037
+4.Onel KB, Horton DB, Lovell DJ, et al.2021 American College of Rheumatology Guideline for the Treatment of Juvenile Idiopathic Arthritis: Therapeutic Approaches for Oligoarthritis, Temporomandibular Joint Arthritis, and Systemic Juvenile Idiopathic Arthritis.Arthritis Rheumatol.2022;74(4):553-569.doi:10.1002/art.42037
+
+【JIA 的预后】
+约50%患者在治疗5年内可以缓解（1）。
+类风湿因子阳性的多关节型幼年特发性关节炎患者通常预后不佳。
+
+【预后参考】
+1.Guzman J, Oen K, Tucker LB, et al.The outcomes of juvenile idiopathic arthritis in children managed with contemporary treatments: results from the ReACCh-Out cohort.Ann Rheum Dis.2015;74(10):1854-1860.doi:10.1136/annrheumdis-2014-205372
+1.Guzman J, Oen K, Tucker LB, et al.The outcomes of juvenile idiopathic arthritis in children managed with contemporary treatments: results from the ReACCh-Out cohort.Ann Rheum Dis.2015;74(10):1854-1860.doi:10.1136/annrheumdis-2014-205372
+幼年特发性关节炎 (JIA) 包括许多临床和实验室表现不同的儿童慢性非感染性关节炎。
+幼年特发性关节炎 (JIA) 包括许多临床和实验室表现不同的儿童慢性非感染性关节炎。
+在有关节炎症状、虹膜睫状体炎体征、全身淋巴结肿大、脾肿大、无法解释的皮疹或持续发热的儿童患者中需怀疑有幼年特发性关节炎的可能性。
+在有关节炎症状、虹膜睫状体炎体征、全身淋巴结肿大、脾肿大、无法解释的皮疹或持续发热的儿童患者中需怀疑有幼年特发性关节炎的可能性。
+幼年特发性关节炎诊断依据临床；使用实验室检查（类风湿因子，抗CCP抗体，抗核抗体，和HLA-B27）主要用于区分各种亚型。
+幼年特发性关节炎诊断依据临床；使用实验室检查（类风湿因子，抗CCP抗体，抗核抗体，和HLA-B27）主要用于区分各种亚型。
+使用甲氨蝶呤和/或生物药物（如依那西普、阿那金拉、卡那金单抗、托珠单抗、阿巴西普、托法替尼）减缓疾病进展，并通过全身性或关节内皮质类固醇注射和/或非甾体抗炎药治疗症状。
+使用甲氨蝶呤和/或生物药物（如依那西普、阿那金拉、卡那金单抗、托珠单抗、阿巴西普、托法替尼）减缓疾病进展，并通过全身性或关节内皮质类固醇注射和/或非甾体抗炎药治疗症状。
+虹膜睫状体炎可用眼用皮质类固醇滴剂和散瞳剂治疗，难治时可采用全身治疗。
+虹膜睫状体炎可用眼用皮质类固醇滴剂和散瞳剂治疗，难治时可采用全身治疗。

@@ -1,0 +1,66 @@
+标题：糜烂性胃炎
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/gastritis-and-peptic-ulcer-disease/erosive-gastritis
+============================================================
+
+（参见酸分泌概述和胃炎概述。)
+糜烂性胃炎的常见病因包括：
+非甾体类抗炎药(NSAIDs)
+非甾体类抗炎药(NSAIDs)
+糜烂性胃炎的少见病因包括
+某些病毒感染（如巨细胞病毒）
+某些病毒感染（如巨细胞病毒）
+血管损伤
+血管损伤
+直接创伤（如鼻胃管）
+直接创伤（如鼻胃管）
+克罗恩病
+克罗恩病
+会出现表浅糜烂与点状黏膜病变。这些可以早在初始损伤12小时后出现。严重的或未经治疗的病例可有深部糜烂、溃疡和穿孔。病变通常发生于胃体，但胃窦也可能受累。
+急性应激性胃炎属于糜烂性胃炎，可见于危重患者。ICU住院时间越长、禁食时间越长，发病风险越高。病理机制包括胃肠黏膜灌注不足，导致胃黏膜屏障功能损伤。头部损伤或烧伤患者也可能出现胃酸分泌增加。
+
+【糜烂性胃炎的症状和体征】
+即使有些消化不良、恶心或呕吐等不适主诉，轻度糜烂性胃炎患者通常无症状，
+首发症状通常为呕血、黑便或鼻胃管引流出血性液体，一般在应激后的2～5天内发生。尽管存在深溃疡时出血量可能较多，尤其是在急性应激性胃炎时，通常是轻度至中度，特别是在急性应激性胃炎。
+
+【糜烂性胃炎的诊断】
+急性和慢性糜烂性胃炎需胃镜诊断。
+这张照片显示长期服用非甾体抗炎药而导致胃壁侵蚀和红斑。
+
+【糜烂性胃炎的治疗】
+出血：内镜止血
+出血：内镜止血
+用于抑酸治疗：质子泵抑制剂或组胺-2受体拮抗剂
+用于抑酸治疗：质子泵抑制剂或组胺-2受体拮抗剂
+对于重度胃炎出血患者，需静脉补液，必要时输血。 应尝试内窥镜止血，如果内窥镜无法控制出血，则手术是后备程序。 因为胃侧支循环较多，故血管造影对严重出血者效果不佳。如果患者尚未接受抑酸治疗，则应开始治疗。
+对于轻度胃炎，只需要去除致病因素并使用降低胃酸的药物 (见治疗胃酸的药物) 以避免进一步的损伤，并促进愈合。
+
+【糜烂性胃炎的预防】
+预防性应用抑酸药物能降低急性应激性胃炎的发病率。然而，它对部分重症监护室的高危患者有益，包括严重烧伤、中枢神经损伤、凝血障碍、败血症、休克、复合伤、机械通气>48小时、慢性肝病、急性肾损伤、肝或肾衰竭、多脏器功能障碍、或既往有消化性溃疡或胃肠道出血者。
+一项指南建议，对于在 ICU 接受治疗的合并凝血功能障碍、休克或慢性肝病的重症成人，使用组胺-2 受体拮抗剂或质子泵抑制剂进行应激性溃疡预防 (1)。
+接受抑酸治疗的危重患者发生院内肺炎的风险可能增加。最近的一项荟萃分析得出结论，质子泵抑制剂 (PPI) 和组胺 2 受体拮抗剂可能会增加肺炎风险（PPI 绝对风险增加 5%，组胺 2 受体拮抗剂增加 3.4%）（2）。不过，既往一项针对重症监护室中存在消化道出血风险患者使用质子泵抑制剂（PPI）的大型临床研究发现，肺炎发生率并未增加（3）。
+早期肠内营养能降低出血的发生率。
+对那些仅服用非甾体抗炎药的患者不推荐抑酸治疗，除非患者既往有溃疡病史。
+
+【预防参考文献】
+1.MacLaren R, Dionne JC, Granholm A, et al: Society of Critical Care Medicine and American Society of Health-System Pharmacists Guideline for the Prevention of Stress-Related Gastrointestinal Bleeding in Critically Ill Adults.Crit Care Med52(8):e421–e430, 2024.doi:10.1097/CCM.0000000000006330
+1.MacLaren R, Dionne JC, Granholm A, et al: Society of Critical Care Medicine and American Society of Health-System Pharmacists Guideline for the Prevention of Stress-Related Gastrointestinal Bleeding in Critically Ill Adults.Crit Care Med52(8):e421–e430, 2024.doi:10.1097/CCM.0000000000006330
+2.Wang Y, Ye Z, Ge L, et al: Efficacy and safety of gastrointestinal bleeding prophylaxis in critically ill patients: Systematic review and network meta-analysis.BMJ368:l6744, 2020. doi: 10.1136/bmj.l6744PMCID
+2.Wang Y, Ye Z, Ge L, et al: Efficacy and safety of gastrointestinal bleeding prophylaxis in critically ill patients: Systematic review and network meta-analysis.BMJ368:l6744, 2020. doi: 10.1136/bmj.l6744PMCID
+3.Krag M, Marker S, Perner A, et al:Pantoprazolein patients at risk for gastrointestinal bleeding in the ICU.N Engl J Med379(23):2199–2208, 2018. doi: 10.1056/NEJMoa1714919
+3.Krag M, Marker S, Perner A, et al:Pantoprazolein patients at risk for gastrointestinal bleeding in the ICU.N Engl J Med379(23):2199–2208, 2018. doi: 10.1056/NEJMoa1714919
+糜烂性胃炎是胃黏膜屏障受损导致的胃黏膜糜烂。
+糜烂性胃炎是胃黏膜屏障受损导致的胃黏膜糜烂。
+常见原因包括非甾体抗炎药 (NSAID)、酒精和压力；大约 5% 的重症患者会出现急性应激性胃炎。
+常见原因包括非甾体抗炎药 (NSAID)、酒精和压力；大约 5% 的重症患者会出现急性应激性胃炎。
+症状包括消化不良、恶心和呕吐，但轻微病例可能无症状。
+症状包括消化不良、恶心和呕吐，但轻微病例可能无症状。
+胃肠道出血（呕血或黑便）可能是最初的症状。
+胃肠道出血（呕血或黑便）可能是最初的症状。
+利用上消化道内窥镜检查进行诊断。
+利用上消化道内窥镜检查进行诊断。
+采用质子泵抑制剂（PPI）或H2受体拮抗剂治疗并去除致病因素；根据需要采用静脉输液和/或输血治疗出血患者，并进行内镜下止血，必要时手术支持。
+采用质子泵抑制剂（PPI）或H2受体拮抗剂治疗并去除致病因素；根据需要采用静脉输液和/或输血治疗出血患者，并进行内镜下止血，必要时手术支持。
+对于部分重症患者，建议使用 PPI 预防急性应激性胃炎，但这可能会稍微增加肺炎的风险。
+对于部分重症患者，建议使用 PPI 预防急性应激性胃炎，但这可能会稍微增加肺炎的风险。
+除非既往有消化性溃疡病史，否则不推荐使用质子泵抑制剂（PPI）或H2受体拮抗剂预防NSAID相关性胃炎。
+除非既往有消化性溃疡病史，否则不推荐使用质子泵抑制剂（PPI）或H2受体拮抗剂预防NSAID相关性胃炎。

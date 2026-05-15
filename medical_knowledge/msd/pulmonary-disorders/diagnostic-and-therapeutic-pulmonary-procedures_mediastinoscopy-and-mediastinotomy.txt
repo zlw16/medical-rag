@@ -1,0 +1,52 @@
+标题：纵隔镜检查和纵隔切开术
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/diagnostic-and-therapeutic-pulmonary-procedures/mediastinoscopy-and-mediastinotomy
+============================================================
+
+纵隔镜检查和纵隔切开术是互补的。纵隔切开术可直接进入主动脉肺窗淋巴结，而纵隔镜则不能。
+
+【纵隔镜检查和纵隔切开术的适应症】
+纵隔镜检查和纵隔切开术都是为了
+评估或切除纵隔淋巴结肿大或肿块
+评估或切除纵隔淋巴结肿大或肿块
+癌症分期（例如肺癌、食道癌）
+癌症分期（例如肺癌、食道癌）
+正电子发射断层扫描 (PET) 扫描和支气管内超声引导下经支气管针吸活检减少了癌症分期中纵隔镜检查或纵隔切开术的需要 (1)。
+
+【适应症参考文献】
+1.Dunne EG, Fick CN, Jones DR.Mediastinal Staging in Non-Small-Cell Lung Cancer: Saying Goodbye to Mediastinoscopy.J Clin Oncol.2023;41(22):3785-3790.doi:10.1200/JCO.23.00867
+1.Dunne EG, Fick CN, Jones DR.Mediastinal Staging in Non-Small-Cell Lung Cancer: Saying Goodbye to Mediastinoscopy.J Clin Oncol.2023;41(22):3785-3790.doi:10.1200/JCO.23.00867
+
+【纵隔镜检查和纵隔切开术的禁忌症】
+纵隔镜检查和纵隔切开术的禁忌证（包括绝对禁忌证和相对禁忌证）包括以下情况：
+严重凝血功能障碍
+严重凝血功能障碍
+活动性纵隔感染
+活动性纵隔感染
+主动脉弓动脉瘤或其他大型前纵隔肿块
+主动脉弓动脉瘤或其他大型前纵隔肿块
+既往曾行胸骨正中切开术
+既往曾行胸骨正中切开术
+既往纵隔放射治疗并遗留纤维化
+既往纵隔放射治疗并遗留纤维化
+上腔静脉综合征
+上腔静脉综合征
+气管切开术
+气管切开术
+
+【纵隔镜检查和纵隔切开术的程序】
+纵隔镜检查和纵隔切开术由外科医生在手术室全身麻醉的情况下进行。
+对于纵隔镜检查，{}在胸骨上切迹处做切口，将颈部软组织钝性分离至气管，远端延伸至隆突。将纵隔镜插入空隙中，可到达气管旁、气管支气管、奇静脉、隆突下淋巴结、后上纵隔。
+前纵隔切开术（Chamberlain术）是通过左胸骨旁第二肋间隙切口手术进入纵隔，可到达前纵隔和主肺动脉窗淋巴结，这些是左上叶肺癌的常见转移部位。
+
+【纵隔镜检查和纵隔切开术的并发症】
+并发症约发生于 1% 的患者，包括（1）：
+淋巴管损伤引起的乳糜胸
+淋巴管损伤引起的乳糜胸
+食管穿孔
+食管穿孔
+喉返神经损伤导致声带麻痹
+喉返神经损伤导致声带麻痹
+
+【并发症参考】
+1.Wei B, Bryant AS, Minnich DJ, Cerfolio RJ.The safety and efficacy of mediastinoscopy when performed by general thoracic surgeons.Ann Thorac Surg.2014;97(6):1878-1884.doi:10.1016/j.athoracsur.2014.02.049
+1.Wei B, Bryant AS, Minnich DJ, Cerfolio RJ.The safety and efficacy of mediastinoscopy when performed by general thoracic surgeons.Ann Thorac Surg.2014;97(6):1878-1884.doi:10.1016/j.athoracsur.2014.02.049

@@ -1,0 +1,97 @@
+标题：急性应激障碍（ASD）
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/anxiety-and-stressor-related-disorders/acute-stress-disorder-asd
+============================================================
+
+(参见《创伤及应激相关障碍概述》。）
+急性应激障碍（ASD）涉及在暴露于创伤性事件后 1 个月内出现的急性应激反应。这些应激反应包括创伤事件的侵入性回忆、回避能让患者想起创伤的刺激源、负性情绪、分离症状（含现实解体和遗忘）、回避创伤相关线索，以及警觉性增高。如果明显症状持续超过 1 个月，则应考虑创伤后应激障碍（PTSD）的诊断。
+ASD 描述的是创伤后出现显著痛苦的人群，其严重程度超出了适应障碍的范畴。
+
+【急性应激障碍的诊断】
+《精神疾病诊断与统计手册》,第五版文本修订版（DSM-5-TR）诊断标准
+《精神疾病诊断与统计手册》,第五版文本修订版（DSM-5-TR）诊断标准
+为了符合诊断急性应激障碍的 DSM-5-TR 标准，患者必须直接或间接经历过创伤事件，并且≥下列 5 类症状中的 9 种（侵入、消极情绪、解离、回避和警觉性增高）必须持续 3 天至 1 个月（1）：
+侵入性症状
+反复出现不自主、侵入性的创伤事件痛苦回忆。
+反复出现不自主、侵入性的创伤事件痛苦回忆。
+反复出现的创伤事件的噩梦
+反复出现的创伤事件的噩梦
+分离性反应（如闪回发作，患者感觉创伤事件仿佛再次发生）
+分离性反应（如闪回发作，患者感觉创伤事件仿佛再次发生）
+再次提起创伤事件时心理和生理的极大不适感（如进入类似的地点，或听到跟创伤期间类似的声音）
+再次提起创伤事件时心理和生理的极大不适感（如进入类似的地点，或听到跟创伤期间类似的声音）
+消极情绪
+持续无法体验到积极情绪（如快乐，满足，爱）
+持续无法体验到积极情绪（如快乐，满足，爱）
+解离症状
+对现实感知的改变（如发呆，时间变慢，感知觉变化）
+对现实感知的改变（如发呆，时间变慢，感知觉变化）
+无法回忆创伤事件的重要部分
+无法回忆创伤事件的重要部分
+回避症状
+努力回避导致不安的回忆，观念，或与该事件相关的情感
+努力回避导致不安的回忆，观念，或与该事件相关的情感
+努力回避与事件相关的外界环境提示（人物，地点，谈话，活动，对象，场合）
+努力回避与事件相关的外界环境提示（人物，地点，谈话，活动，对象，场合）
+警觉性症状
+睡眠障碍
+睡眠障碍
+易激惹或情绪爆发
+易激惹或情绪爆发
+警觉性增高
+警觉性增高
+注意力集中困难
+注意力集中困难
+过度的惊吓反应
+过度的惊吓反应
+此外，这些症状必须引起严重的痛苦或严重损害社会或职业功能。它们不应归因于一种物质相关或另一种医学障碍的生理影响。
+
+【诊断参考文献】
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition,Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 313-319.
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition,Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 313-319.
+
+【急性应激障碍的治疗】
+安全和自我保健
+安全和自我保健
+心理治疗
+心理治疗
+药物治疗的作用有限
+药物治疗的作用有限
+安全和自我护理对急性应激障碍（ASD）的成功康复很重要。如果创伤经历反复发生且周围环境仍不安全，ASD 可能难以克服。注意身体需求和充足的睡眠是有帮助的。
+此外，专注于处理创伤后情绪后果的心理治疗可能是有效的。突发创伤经历的不利影响可能包括羞耻感和不适当的内疚感，这可以通过情感保护和支持来调节。
+
+【自我护理】
+在危机或创伤期间和之后，自我保健至关重要。自我护理可分为3个组成部分：
+人身安全
+人身安全
+身体健康和实际支持
+身体健康和实际支持
+人身安全是根本。在一次创伤性事件之后，当人们知道他们和他们所爱的人是安全的时，他们能够更好地处理这种经历。然而，在家庭虐待、战争或传染性大流行等持续危机中获得完全的安全可能很困难。在这种持续的困难中，人们应该寻求专家的指导，以了解他们和他们所爱的人如何尽可能安全。
+身体健康在创伤经历期间和之后都可能处于危险之中。有风险的人应该尽可能地保持健康的饮食、睡眠和锻炼时间表。镇静（如苯二氮卓类药物）和麻醉（如酒精）的药物和物质应慎用。实际支持包括住房、法律支持、保险和其他需要解决但可能是压倒性的问题。
+正念取向的自我关怀，旨在减轻受创伤者通常会经历的压力、无聊、愤怒、悲伤与孤独感。如果情况允许，高危人群应制定并遵守正常的日常安排。
+即使在危机期间难以维持人际关系，社区参与也可能至关重要。
+练习熟悉的爱好以及听起来有趣和分散注意力的活动很有用：画画、看电影、做饭。
+伸展运动和锻炼是有益的，但自我安抚技巧（如数自己的呼吸、冥想或自我催眠）也有帮助。还鼓励与家人和朋友建立社交关系。
+在压力下，人们会变得脾气暴躁，即使是对他们关心的人也是如此。亲友主动关心、表达担忧与慰藉，对患者而言帮助很大。发送一张友善的便条、给某人做饼干、给对方一个微笑，不仅会给接收者带来惊喜，而且这些行为还可以减少创伤经历中的绝望和羞耻感。
+
+【心理治疗】
+创伤聚焦认知行为疗法（CBT）是一种限时的 CBT 治疗方法，在 ASD 的治疗和 PTSD 的预防方面具有最充分的证据支持（1)。这种心理治疗由三部分组成：
+患者教育是重要的初始步骤。压力反应的正常化和解释通常是有帮助的，同时也提示症状会得到改善。
+患者教育是重要的初始步骤。压力反应的正常化和解释通常是有帮助的，同时也提示症状会得到改善。
+认知重建有助于纠正患者可能对创伤或个人对创伤的反应产生的不良想法。
+认知重建有助于纠正患者可能对创伤或个人对创伤的反应产生的不良想法。
+暴露疗法是心理治疗中重要但有难度的一环，需让患者接触创伤记忆或与创伤相关的安全线索。通过重新体验创伤，患者能更好地从情感层面处理此前难以承受的创伤相关内容。
+暴露疗法是心理治疗中重要但有难度的一环，需让患者接触创伤记忆或与创伤相关的安全线索。通过重新体验创伤，患者能更好地从情感层面处理此前难以承受的创伤相关内容。
+创伤聚焦认知行为疗法通常在创伤后至少延迟 2 周开始。这段时间可以让大多数情况平静下来，并使患者远离与危险、疼痛、手术和地理搬迁等并发症相关的急性问题。由于创伤聚焦 CBT 本身可能具有压力性，在临床医生识别可能使治疗复杂化的因素时，治疗可能会推迟数月。这些复杂因素包括显著的自杀倾向、分离症状、悲伤、愤怒、精神病或既往创伤导致的 PTSD 症状。
+汇报是一种不被鼓励的心理治疗形式，因为它尚未被证明是有效的。然而，这种做法仍然被广泛采用。对于这种干预，患者被要求提供前72小时内创伤的详细描述。
+
+【药物治疗】
+目前尚无足够证据支持常规使用任何药物来减轻 ASD 症状或预防 PTSD 的发生（2）。
+短期使用苯二氮卓类药物可能有助于失眠、焦虑和烦躁的患者，但长期使用似乎会干扰康复。虽然部分 ASD 患者可能在使用选择性 5 - 羟色胺再摄取抑制剂（SSRIs）、普萘洛尔或吗啡等药物后症状得到缓解，但研究尚未证实其确切疗效。美国军方的一项回顾性研究表明，在急性创伤后使用吗啡可降低后续发生 PTSD 的风险(3）；这种方法尚未被其他研究验证。
+
+【治疗参考文献】
+1.Carpenter JK, Andrews LA, Witcraft SM, et al: Cognitive behavioral therapy for anxiety and related disorders: A meta-analysis of randomized placebo-controlled trials.Depress Anxiety35(6):502-514, 2018.doi: 10.1002/da.22728
+1.Carpenter JK, Andrews LA, Witcraft SM, et al: Cognitive behavioral therapy for anxiety and related disorders: A meta-analysis of randomized placebo-controlled trials.Depress Anxiety35(6):502-514, 2018.doi: 10.1002/da.22728
+2.Wright LA, Sijbrandij M, Sinnerton R, et al: Pharmacological prevention and early treatment of post-traumatic stress disorder and acute stress disorder: a systematic review and meta-analysis.Transl Psychiatry9(1):334, 2019.doi: 10.1038/s41398-019-0673-5
+2.Wright LA, Sijbrandij M, Sinnerton R, et al: Pharmacological prevention and early treatment of post-traumatic stress disorder and acute stress disorder: a systematic review and meta-analysis.Transl Psychiatry9(1):334, 2019.doi: 10.1038/s41398-019-0673-5
+3.Holbrook TL, Galarneau MR, Dye JL, et al: Morphine use after combat injury in Iraq and post-traumatic stress disorderN Engl J Med362(2):110-117, 2010. doi: 10.1056/NEJMoa0903326.
+3.Holbrook TL, Galarneau MR, Dye JL, et al: Morphine use after combat injury in Iraq and post-traumatic stress disorderN Engl J Med362(2):110-117, 2010. doi: 10.1056/NEJMoa0903326.

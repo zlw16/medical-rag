@@ -1,0 +1,96 @@
+标题：羊水过多
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/antenatal-complications/polyhydramnios
+============================================================
+
+可引起羊水过多的情况如下：
+胎儿畸形（如胃肠道或泌尿道梗阻）
+胎儿畸形（如胃肠道或泌尿道梗阻）
+多胎妊娠
+多胎妊娠
+妊娠期糖尿病
+妊娠期糖尿病
+胎儿贫血，包括由胎儿及新生儿溶血病引起的溶血性贫血
+胎儿贫血，包括由胎儿及新生儿溶血病引起的溶血性贫血
+其它胎儿疾病（如感染）或基因异常
+其它胎儿疾病（如感染）或基因异常
+羊水过多的孕妇，以下并发症的风险增加：
+早产宫缩，甚至可能胎膜早破（有时接着胎盘早剥） 或者早产
+早产宫缩，甚至可能胎膜早破（有时接着胎盘早剥） 或者早产
+胎位异常
+胎位异常
+母亲呼吸功能障碍
+母亲呼吸功能障碍
+脐带脱垂
+脐带脱垂
+子宫收缩乏力
+子宫收缩乏力
+产后出血
+产后出血
+胎儿死亡（特发性羊水过多时，风险仍有增加）
+胎儿死亡（特发性羊水过多时，风险仍有增加）
+并发症的风险往往与液体积聚的程度成正比，并因病因而异。 还可出现其他问题（例如，低Apgar评分，胎儿宫内窘迫，脐带绕颈，胎位异常需要剖宫产）。
+
+【羊水过多的症状和体征】
+羊水过多通常无症状。有些孕妇子宫大小可大于停经月份。一些女性，尤其是当羊水过多严重并导致子宫扩张时，会出现呼吸困难和/或疼痛性早产宫缩。
+
+【羊水过多的诊断】
+超声测量羊水量
+超声测量羊水量
+超声检查，包括胎儿畸形筛查
+超声检查，包括胎儿畸形筛查
+对有相关病史的孕妇应进行母体相关检查
+对有相关病史的孕妇应进行母体相关检查
+对于超声检查或子宫大小大于停经月份的孕妇，应怀疑羊水过多。然而，羊水量的定性评估往往是主观的。如果怀疑羊水过多，应使用羊水指数（AFI）或单个最深羊水池（SDP）对羊水进行定量评估。
+AFI ≥ 24 cm：AFI 是在子宫各象限测得的液体垂直深度之和；正常的 AFI 范围是从 > 5 到 < 24 厘米。
+AFI ≥ 24 cm：AFI 是在子宫各象限测得的液体垂直深度之和；正常的 AFI 范围是从 > 5 到 < 24 厘米。
+SDP≥8厘米： SDP是对羊水最深羊水池的测量；正常的SDP是≥2至<8厘米。
+SDP≥8厘米： SDP是对羊水最深羊水池的测量；正常的SDP是≥2至<8厘米。
+AFI和SDP在预防不良围产期结局方面似乎都未优于对方。每种方法都有局限性：AFI常常导致对羊水过少的过度诊断；SDP导致对羊水过多的过度诊断（1,2）。
+液体过多是通过超声检查标准间接定义的，通常使用AFI。AFI是指羊膜腔四个象限垂直羊水深度之和。AFI正常范围为＞5cm且＜24cm;当AFI≥24cm时，提示羊水过多。
+
+【明确原因】
+若存在羊水过多，应进一步检查，以明确病因。所做的检查取决于临床怀疑的病因（通常是基于病史或其他超声检查结果）。检查包括
+超声检查胎儿是否畸形（推荐用于所有病例）
+超声检查胎儿是否畸形（推荐用于所有病例）
+孕母糖耐量试验
+孕母糖耐量试验
+羊水穿刺和胎儿染色体核型检查，如果存在其他超声检查结果
+羊水穿刺和胎儿染色体核型检查，如果存在其他超声检查结果
+如果家族史提示有遗传风险，则进行临床怀疑的遗传性疾病（如贫血）检测
+如果家族史提示有遗传风险，则进行临床怀疑的遗传性疾病（如贫血）检测
+
+【诊断参考】
+1.Kehl S, Schelkle A, Thomas A, et al: Single deepest vertical pocket or amniotic fluid index as evaluation test for predicting adverse pregnancy outcome (SAFE trial): A multicenter, open-label, randomized controlled trial.Ultrasound Obstet Gynecol47 (6):674–679, 2016.doi: 10.1002/uog.14924
+1.Kehl S, Schelkle A, Thomas A, et al: Single deepest vertical pocket or amniotic fluid index as evaluation test for predicting adverse pregnancy outcome (SAFE trial): A multicenter, open-label, randomized controlled trial.Ultrasound Obstet Gynecol47 (6):674–679, 2016.doi: 10.1002/uog.14924
+2.Nabhan AF, Abdelmoula YA: Amniotic fluid index versus single deepest vertical pocket as a screening test for preventing adverse pregnancy outcome.Cochrane Database Syst Rev2008 (3):CD006593, 2008.doi:10.1002/14651858.CD006593.pub2
+2.Nabhan AF, Abdelmoula YA: Amniotic fluid index versus single deepest vertical pocket as a screening test for preventing adverse pregnancy outcome.Cochrane Database Syst Rev2008 (3):CD006593, 2008.doi:10.1002/14651858.CD006593.pub2
+
+【羊水过多的治疗】
+在39周左右分娩
+在39周左右分娩
+可能会进行人工羊膜腔放液（羊水减量术）
+可能会进行人工羊膜腔放液（羊水减量术）
+根据AFI，产前监测的建议取决于羊水过多的严重程度：
+AFI≥30 cm（会增加胎儿死亡的风险），产前监测应在32周或之后确诊时开始，应包括至少每周一次的无应激试验。然而，这样的监护并未被证实可降低胎儿死亡率。
+AFI≥30 cm（会增加胎儿死亡的风险），产前监测应在32周或之后确诊时开始，应包括至少每周一次的无应激试验。然而，这样的监护并未被证实可降低胎儿死亡率。
+24cm ≤ AFI <30 cm：不建议使用非应激试验进行产前监测（1）。
+24cm ≤ AFI <30 cm：不建议使用非应激试验进行产前监测（1）。
+所有程度的羊水过多：应每4周进行一次超声检查，以检查巨大儿并评估胎儿的解剖结构。
+所有程度的羊水过多：应每4周进行一次超声检查，以检查巨大儿并评估胎儿的解剖结构。
+当 AFI ≥ 30 厘米时，应计划在 39 周左右分娩。 根据产科指征决定分娩方式（如，胎先露）。
+仅当羊水过多导致产妇严重不适时，才应考虑减少羊水量（例如，通过羊膜腔穿刺减量）或减少其产生量。另外，对于放出多少液体，以及放液速度如何，尚未取得共识，目前推荐20分钟内释放1L羊水量。
+对可能导致羊水过多的疾病（如妊娠期糖尿病）应加以控制。
+
+【治疗参考】
+1.Society for Maternal-Fetal Medicine (SMFM); Dashe JS, Pressman, EK, Hibbard JU: SMFM Consult Series #46: Evaluation and management of polyhydramnios.Am J Obstet Gynecol219 (4):B2–B8, 2018.doi: 10.1016/j.ajog.2018.07.016
+1.Society for Maternal-Fetal Medicine (SMFM); Dashe JS, Pressman, EK, Hibbard JU: SMFM Consult Series #46: Evaluation and management of polyhydramnios.Am J Obstet Gynecol219 (4):B2–B8, 2018.doi: 10.1016/j.ajog.2018.07.016
+羊水过多是指羊水过量；可能由胎儿畸形、多胎妊娠、妊娠期糖尿病和多种胎儿疾病引起的。
+羊水过多是指羊水过量；可能由胎儿畸形、多胎妊娠、妊娠期糖尿病和多种胎儿疾病引起的。
+它与早产宫缩、早产、胎膜早破、母体呼吸功能障碍、胎位异常或胎儿死亡，以及分娩过程中各种问题的风险增加有关。
+它与早产宫缩、早产、胎膜早破、母体呼吸功能障碍、胎位异常或胎儿死亡，以及分娩过程中各种问题的风险增加有关。
+如果怀疑羊水过多，进行超声检查以确定羊水指数或单个最深羊水池，并检查可能的原因（包括全面的超声检查评估）。
+如果怀疑羊水过多，进行超声检查以确定羊水指数或单个最深羊水池，并检查可能的原因（包括全面的超声检查评估）。
+仅当羊水过多导致严重的母体症状时才考虑减少羊水量。
+仅当羊水过多导致严重的母体症状时才考虑减少羊水量。
+对羊水指数≥30cm的患者，早在妊娠32周起开始产前监测，每周行无应激试验。
+对羊水指数≥30cm的患者，早在妊娠32周起开始产前监测，每周行无应激试验。

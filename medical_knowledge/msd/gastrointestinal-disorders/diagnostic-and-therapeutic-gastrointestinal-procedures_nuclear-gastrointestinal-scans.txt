@@ -1,0 +1,17 @@
+标题：胃肠道放射性核素扫描
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/diagnostic-and-therapeutic-gastrointestinal-procedures/nuclear-gastrointestinal-scans
+============================================================
+
+
+【出血扫描】
+出血扫描采用99m锝标记自体红细胞或99m锝胶体，在手术或血管造影术前确定下消化道出血部位。肠道中局部放射性集聚部位，浓聚随时间增加，且随肠蠕动而移动，由此可确定活动性出血部位。
+出血扫描主要适用于严重结肠出血，未行肠道准备，内镜下直视检查困难者。
+胃排空检查时，患者服用放射性标记固体或液体试餐，通过伽马相机观察胃排空情况 (1)。由于该检查无法鉴别器质性梗阻与胃轻瘫，若检查示胃排空延迟，需进一步检查。 该检查亦用于检测促动力药物疗效（如，甲氧氯普胺、红霉素）。该检查结果可能受阿片类药物或其他改变胃肠动力的药物影响。
+专门的运动中心还可以评估小肠和全肠转运。小肠转运测试持续 2 天，整个肠道转运测试持续 4 天。这些测试对疑似运动障碍、严重便秘或结肠惰性的患者很有用。
+
+【胃排空参考】
+1.Camilleri M, Kuo B, Nguyen L, et al.ACG Clinical Guideline: Gastroparesis.Am J Gastroenterol.2022;117(8):1197-1220.doi:10.14309/ajg.0000000000001874
+1.Camilleri M, Kuo B, Nguyen L, et al.ACG Clinical Guideline: Gastroparesis.Am J Gastroenterol.2022;117(8):1197-1220.doi:10.14309/ajg.0000000000001874
+
+【美克尔憩室扫描】
+麦克尔扫描可识别异位胃黏膜（麦克尔憩室），通过注射99mTc高锝酸盐，其可被胃黏膜黏液分泌细胞摄取。 若检查示胃外小肠处浓聚灶，提示麦克尔憩室。

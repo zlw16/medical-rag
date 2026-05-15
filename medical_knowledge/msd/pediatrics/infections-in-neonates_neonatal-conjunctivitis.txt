@@ -1,0 +1,82 @@
+标题：新生儿结膜炎
+来源：https://www.msdmanuals.cn/professional/pediatrics/infections-in-neonates/neonatal-conjunctivitis
+============================================================
+
+（另见急性细菌性结膜炎、病毒性结膜炎和新生儿感染概述。）
+
+【新生儿结膜炎的病因】
+新生儿结膜炎的主要原因（按递减顺序）如下：
+细菌性感染
+细菌性感染
+病毒感染
+病毒感染
+化学性炎症反应
+化学性炎症反应
+感染是通过接触受感染的母亲阴道分泌物而获得的。衣原体眼炎（由Chlamydia trachomatis（沙眼衣原体)引起）是一种常见的细菌性病因(1)。报告的孕妇衣原体感染患病率因年龄和地区而异，估计约为8%（2）。常规筛查和治疗孕妇患者前的数据显示，感染患者所生新生儿中高达60%会获得感染，其中约30%会发展为结膜炎，约15%会发展为新生儿肺炎（3）。其他细菌，包括Streptococcus pneumoniae（肺炎链球菌）、Staphylococcus aureus（金黄色葡萄球菌）和不可分型Haemophilus influenzae（流感嗜血杆菌），占其余大部分细菌性病例，而奈瑟淋球菌性眼炎（由Neisseria gonorrhoeae（奈瑟淋球菌）引起的结膜炎）相对罕见。
+主要的病毒原因是1型和2型Herpes simplex virus（单纯疱疹病毒）（疱疹性角膜结膜炎），但总体而言，这种病毒是新生儿结膜炎相对罕见的原因。
+化学性结膜炎通常继发于眼部预防的局部治疗的滴注。
+
+【病因参考文献】
+1.Committee on Infectious Diseases, American Academy of Pediatrics:Neonatal Ophthalmia PreventioninRed Book: 2024–2027 Report of the Committee on Infectious Diseases, ed.33, edited by Kimberlin DW, Banerjee R, Barnett ED, Lynfield R, and Sawyer MH.Itasca, American Academy of Pediatrics, 2024.
+1.Committee on Infectious Diseases, American Academy of Pediatrics:Neonatal Ophthalmia PreventioninRed Book: 2024–2027 Report of the Committee on Infectious Diseases, ed.33, edited by Kimberlin DW, Banerjee R, Barnett ED, Lynfield R, and Sawyer MH.Itasca, American Academy of Pediatrics, 2024.
+2.Salari N, Olfat N, Ghasemi H, Larti M, Beiromvand M, Mohammadi M.The global prevalence ofChlamydia trachomatisgenital infection in pregnant women: a meta-analysis.Arch Gynecol Obstet.2025;311(2):529-542.doi:10.1007/s00404-024-07928-x
+2.Salari N, Olfat N, Ghasemi H, Larti M, Beiromvand M, Mohammadi M.The global prevalence ofChlamydia trachomatisgenital infection in pregnant women: a meta-analysis.Arch Gynecol Obstet.2025;311(2):529-542.doi:10.1007/s00404-024-07928-x
+3.Schachter J, Grossman M, Sweet RL, Holt J, Jordan C, Bishop E.Prospective study of perinatal transmission ofChlamydia trachomatis.JAMA.1986;255(24):3374-3377.
+3.Schachter J, Grossman M, Sweet RL, Holt J, Jordan C, Bishop E.Prospective study of perinatal transmission ofChlamydia trachomatis.JAMA.1986;255(24):3374-3377.
+
+【新生儿结膜炎的症状和体征】
+新生儿结膜炎的病因在临床上难以区分，因其临床表现和发病时间存在重叠。结膜充血，可见稀薄或脓性分泌物。
+衣原体性眼炎常在生后5～14日内发生。其范围可能从轻度者仅有少量的黏性分泌物，重症者则有眼睑水肿、大量分泌物及假膜形成。无滤泡存在，这一点与年长儿和成人患者不同。
+淋球菌眼炎发生在生后2～5日内的急性化脓性结膜炎，如有羊膜早破，可能发病更早。患儿有严重的眼睑水肿伴球结膜水肿，时有大量脓液自行冒出。如果不治疗，可发生角膜溃疡和失明。
+此图像显示淋球菌性眼炎。 症状和体征有眼睑水肿，球结膜水肿和脓性分泌物，在分娩后2〜5天发生。
+其他细菌引起的结膜炎发病时间不同，在出生后4天到数周不等。
+疱疹性角膜结膜炎可以是独立的感染，也可与全身性或中枢神经系统感染同时发生。可被误诊为细菌性或化学性结膜炎，但是树状角膜炎的存在具有病理学特征。
+化学性结膜炎继发于局部预防滴眼剂，常在使用后6～8小时出现，48～96小时内自行消失。
+
+【新生儿结膜炎的诊断】
+测试结膜的病原体，包括淋病，衣原体，有时还有疱疹
+测试结膜的病原体，包括淋病，衣原体，有时还有疱疹
+衣原体和淋球菌感染的最佳诊断方法是核酸扩增技术，因它们具有高敏感性和特异性。然而，结膜分泌物可进行革兰染色、淋球菌培养（如改良Thayer-Martin培养基）和其他细菌培养，以及衣原体检测（如通过培养、直接免疫荧光或酶联免疫吸附试验[样本必须含细胞]）。结膜刮取物也可以用吉姆萨染色检查；如果发现蓝色胞浆内包涵体，则可确诊为衣原体眼炎。
+仅当因皮肤病变或母体感染而怀疑病毒感染时才进行病毒检测。
+
+【新生儿结膜炎的治疗】
+系统性，局灶性或联合抗菌疗法
+系统性，局灶性或联合抗菌疗法
+对于衣原体结膜炎，全身性治疗是首选，因为至少有一半受感染的新生儿也有鼻咽部感染，部分可能发展为衣原体肺炎。推荐使用红霉素琥乙酯或阿奇霉素；但关于阿奇霉素治疗的数据有限。红霉素治疗的有效率仅为80%（1），因此可能需要第二个疗程。因为在新生儿中使用红霉素与肥厚性幽门狭窄（HPS）的发生相关，所以所有接受这种药物治疗的新生儿都应监测HPS的症状和体征，并应向其父母告知潜在风险。
+新生儿结膜炎伴有已知母亲淋球菌感染或在结膜分泌物中查见细胞内革兰氏阴性双球菌的应住院治疗，评估播散性感染，并在确认测试结果出来前给予头孢曲松或头孢噻肟治疗。患有高胆红素血症或接受含钙液体的婴儿不应接受头孢曲松，但可以给予单剂量头孢噻肟。用生理盐水反复冲洗眼睛可防止分泌物黏附。单独局部使用抗微生物软膏是不够的，当提供全身治疗时不需要。
+由其他细菌引起的结膜炎通常对含有多粘菌素/杆菌素、红霉素或四环素的外用软膏有反应。
+疱疹性角膜结膜炎应使用全身性阿昔洛韦和局部1%三氟胸苷或0.15%更昔洛韦治疗，并咨询眼科医师。对新生儿全身性治疗是必要的，因为感染可波及中枢神经系统和其他器官。
+含皮质类固醇的软膏可能会严重加重由C. trachomatis（沙眼衣原体）和Herpes simplex virus（单纯疱疹病毒）引起的眼部感染，应避免使用。
+
+【治疗参考文献】
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1
+
+【新生儿结膜炎的预防】
+新生儿出生时常规使用硝酸银滴眼液、红霉素眼膏或四环素眼膏或滴剂滴入每只眼睛，可有效预防淋球菌性眼炎。然而，这些药物都不能预防衣原体眼炎；聚维酮碘滴剂可能对衣原体和淋球菌有效（在美国不可用）。硝酸银和四环素眼膏在美国亦不可用。
+筛查和治疗患有淋病和衣原体的孕妇是预防新生儿衣原体感染（包括结膜炎和肺炎）最有效的方法。未经治疗的淋病母亲的新生儿应接受单次注射头孢曲松。具体而言，所有年龄<25岁或≥25岁且具有≥1个危险因素（如既往性传播感染史、高危性行为、伴侣有性传播感染或高危行为、监禁史）的孕妇应在首次产检时接受筛查，若风险仍高则在妊娠晚期再次筛查（1、2、3）。
+为预防新生儿疱疹感染，有生殖器疱疹史的孕妇应在妊娠36周或36周之后接受抑制性抗病毒治疗（4）。对于分娩时有活动性生殖器单纯疱疹病变或前驱症状的孕妇，建议行剖宫产。
+
+【预防参考文献】
+1.LeFevre ML; U.S. Preventive Services Task Force.Screening for Chlamydia and gonorrhea: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med.2014;161(12):902-910.doi:10.7326/M14-1981LeFevre ML; U.S. Preventive Services Task Force.Screening for Chlamydia and gonorrhea: U.S. Preventive Services Task Force recommendation statement.Ann Intern Med.2014;161(12):902-910.doi:10.7326/M14-1981
+1.LeFevre ML; U.S. Preventive Services Task Force.Screening for Chlamydia and gonorrhea: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med.2014;161(12):902-910.doi:10.7326/M14-1981LeFevre ML; U.S. Preventive Services Task Force.Screening for Chlamydia and gonorrhea: U.S. Preventive Services Task Force recommendation statement.Ann Intern Med.2014;161(12):902-910.doi:10.7326/M14-1981
+2.US Preventive Services Task Force, Davidson KW, Barry MJ, et al.Screening for Chlamydia and Gonorrhea: US Preventive Services Task Force Recommendation Statement.JAMA.2021;326(10):949-956.doi:10.1001/jama.2021.14081
+2.US Preventive Services Task Force, Davidson KW, Barry MJ, et al.Screening for Chlamydia and Gonorrhea: US Preventive Services Task Force Recommendation Statement.JAMA.2021;326(10):949-956.doi:10.1001/jama.2021.14081
+3.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1
+3.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1
+4.Management of Genital Herpes in Pregnancy: ACOG Practice Bulletin, Number 220.Obstet Gynecol.2020;135(5):e193-e202.doi:10.1097/AOG.0000000000003840
+4.Management of Genital Herpes in Pregnancy: ACOG Practice Bulletin, Number 220.Obstet Gynecol.2020;135(5):e193-e202.doi:10.1097/AOG.0000000000003840
+C. trachomatis（沙眼衣原体）、S. pneumoniae（肺炎链球菌）、S. aureus（金黄色葡萄球菌）并且不可分型化H. influenzae（流感嗜血杆菌）导致大多数细菌性结膜炎；N. gonorrhoeae（淋病奈瑟菌）是一个罕见的原因。
+C. trachomatis（沙眼衣原体）、S. pneumoniae（肺炎链球菌）、S. aureus（金黄色葡萄球菌）并且不可分型化H. influenzae（流感嗜血杆菌）导致大多数细菌性结膜炎；N. gonorrhoeae（淋病奈瑟菌）是一个罕见的原因。
+病毒性结膜炎，包括疱疹性角膜结膜炎，在新生儿中罕见。
+病毒性结膜炎，包括疱疹性角膜结膜炎，在新生儿中罕见。
+化学结膜炎可以由出生时给予的抗微生物滴剂或硝酸银引起，以预防细菌性结膜炎。
+化学结膜炎可以由出生时给予的抗微生物滴剂或硝酸银引起，以预防细菌性结膜炎。
+结膜充血，可见稀薄或脓性分泌物。
+结膜充血，可见稀薄或脓性分泌物。
+使用核酸扩增技术和培养，测试结膜材料中的病原体（包括淋病和衣原体）。
+使用核酸扩增技术和培养，测试结膜材料中的病原体（包括淋病和衣原体）。
+给予对感染生物有活性的抗生素；淋球菌感染的新生儿应住院治疗。
+给予对感染生物有活性的抗生素；淋球菌感染的新生儿应住院治疗。
+给予衣原体眼炎的全身治疗。
+给予衣原体眼炎的全身治疗。

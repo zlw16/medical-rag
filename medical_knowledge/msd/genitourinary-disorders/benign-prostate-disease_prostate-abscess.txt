@@ -1,0 +1,28 @@
+标题：前列腺脓肿
+来源：https://www.msdmanuals.cn/professional/genitourinary-disorders/benign-prostate-disease/prostate-abscess
+============================================================
+
+常见的病原体为有氧革兰氏阴性杆菌，其次为金黄色葡萄球菌。
+接受过放射治疗（包括近距离放射治疗即放射性种子植入）的前列腺癌患者，可能会有较高的脓肿形成风险。钠-葡萄糖协同转运蛋白-2 (SGLT2) 抑制剂的广泛使用已被证明会增加尿路感染和生殖器感染的风险，并可能增加前列腺脓肿的风险（1）。
+
+【参考文献】
+1.Liu J, Li L, Li S, et al.Effects of SGLT2 inhibitors on UTIs and genital infections in type 2 diabetes mellitus: a systematic review and meta-analysis.Sci Rep2017;7(1):2824.doi:10.1038/s41598-017-02733-w
+1.Liu J, Li L, Li S, et al.Effects of SGLT2 inhibitors on UTIs and genital infections in type 2 diabetes mellitus: a systematic review and meta-analysis.Sci Rep2017;7(1):2824.doi:10.1038/s41598-017-02733-w
+
+【前列腺脓肿的症状】
+常见症状可能与尿路感染的症状相似，包括
+排尿困难
+排尿困难
+会阴部压迫感或疼痛
+会阴部压迫感或疼痛
+急性附睾炎的表现、血尿和脓性尿道分泌物很少见。发热有时存在。
+直肠检查可披露前列腺压痛及波动感，但前列腺肿大往往是唯一的异常，有时感觉正常。
+
+【前列腺脓肿的诊断】
+前列腺超声、膀胱镜
+前列腺超声、膀胱镜
+对持续性会阴部疼痛、已接受抗感染治疗仍有持续性或再发性泌尿道感染患者，应怀疑脓肿的可能。这些患者应行前列腺超声检查，可能的话，行膀胱镜检查。
+然而，许多脓肿是在因其他原因进行的计算机断层扫描（CT）成像、前列腺手术或内窥镜检查中意外发现的；侧叶突出至前列腺尿道或在器械操作中破裂时，脓肿就会显现出来。虽然脓尿和菌尿常见，但尿检也可能是正常的。某些患者血培养阳性。
+
+【治疗前列腺脓肿】
+治疗包括适当的抗生素治疗和经尿道分泌物引流，或经会阴吸引和引流。在等待培养结果期间，经验性抗生素治疗开始使用氟喹诺酮类药物（例如，环丙沙星），这种药物对前列腺有高组织渗透性。

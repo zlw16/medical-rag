@@ -1,0 +1,72 @@
+标题：肿瘤坏死因子受体相关性周期热综合征 （TRAPS）
+来源：https://www.msdmanuals.cn/professional/pediatrics/hereditary-periodic-fever-syndromes/tnf-receptor-associated-periodic-syndrome-traps
+============================================================
+
+肿瘤坏死因子受体相关周期性综合征（TRAPS）是一种罕见的常染色体显性自身炎症性疾病，其特征为反复发作且持续时间较长的发热、游走性肌痛、腹痛和/或胸痛、红斑性皮疹，以及发生AA 淀粉样变性的风险。
+TRAPS 最初在一个具有爱尔兰和苏格兰血统的家系中被描述，但随后已在多种不同族群中得到报道。
+TRAPS的病因包括：
+编码TNF受体1基因(TNFR1，通常为TNFRSF1A)细胞外域中的杂合突变(1、2)
+编码TNF受体1基因(TNFR1，通常为TNFRSF1A)细胞外域中的杂合突变(1、2)
+该突变导致错误折叠的TNFR1在内质网中积累，激活了未折叠蛋白反应，从而引起异常炎症。这种反应被认为是机体试图纠正异常蛋白的结果，但在此过程中会产生活性氧，从而触发炎症反应（2）。
+
+【参考文献】
+1.Bonilla FA, Khan DA, Ballas ZK, et al.Practice parameter for the diagnosis and management of primary immunodeficiency.J Allergy Clin Immunol.2015;136(5):1186-205.e2078.doi:10.1016/j.jaci.2015.04.049
+1.Bonilla FA, Khan DA, Ballas ZK, et al.Practice parameter for the diagnosis and management of primary immunodeficiency.J Allergy Clin Immunol.2015;136(5):1186-205.e2078.doi:10.1016/j.jaci.2015.04.049
+2.Cudrici C, Deuitch N, Aksentijevich I.Revisiting TNF receptor-associated periodic syndrome (TRAPS): Current perspectives.Int J Mol Sci.2020;21(9):3263.Published 2020 May 5.doi:10.3390/ijms21093263
+2.Cudrici C, Deuitch N, Aksentijevich I.Revisiting TNF receptor-associated periodic syndrome (TRAPS): Current perspectives.Int J Mol Sci.2020;21(9):3263.Published 2020 May 5.doi:10.3390/ijms21093263
+
+【TRAPS的症状和体征】
+TRAPS的临床特征大致类似于家族性地中海热。
+发作通常在10岁之前开始。发热发作通常持续 7 至 21 天（平均 10 天）（1）。
+一次发作最具特征性的表现为发热、游走性肌痛以及四肢肿胀。覆盖的皮肤出现红斑且触痛。
+TRAPS的其他症状可能包括头痛、腹痛、腹泻或便秘、恶心、疼痛性结膜炎、眶周水肿、关节痛、皮疹和睾丸痛。男性容易发生腹股沟疝。
+尽管大多数发作是自发发生的，但一些患者报告了特定的触发因素（例如身体或情绪压力、受伤、感染）。
+据报道，约10%的患者出现累及肾脏的淀粉样变性，平均年龄为43岁）（1）。
+
+【自身炎症性周期性发热疾病】
+自身炎症性周期性发热疾病
+CAPS = 冷吡啉相关周期性综合征；FMF = 家族性地中海热；NOMID = 新生儿发病多系统炎症性疾病；PFAPA = 周期性发热伴阿弗他口炎、咽炎和颈淋巴结炎；TRAPS = 肿瘤坏死因子受体相关周期性综合征。
+Adapted fromSag E, Bilginer Y, Ozen S: Autoinflammatory diseases with periodic fevers.Curr Rheumatol Rep19(7):41, 2017.doi: 10.1007/s11926-017-0670-8
+
+【症状和体征】
+1.Lachmann HJ, Papa R, Gerhold K, et al: The phenotype of TNF receptor-associated autoinflammatory syndrome (TRAPS) at presentation: A series of 158 cases from the Eurofever/EUROTRAPS international registry.Ann Rheum Dis73(12):2160–2167, 2014.doi: 10.1136/annrheumdis-2013-204184
+1.Lachmann HJ, Papa R, Gerhold K, et al: The phenotype of TNF receptor-associated autoinflammatory syndrome (TRAPS) at presentation: A series of 158 cases from the Eurofever/EUROTRAPS international registry.Ann Rheum Dis73(12):2160–2167, 2014.doi: 10.1136/annrheumdis-2013-204184
+
+【TRAPS的诊断】
+主要是病史和体格检查
+主要是病史和体格检查
+基因检测
+基因检测
+TRAPS的诊断基于病史和检查，通过对TNFRSF1A基因中杂合致病性或可能致病性变异的遗传学检测来确认。
+建议的诊断标准包括家族史阳性、持续发热、眶周水肿、移行性皮疹和肌痛，以及没有咽扁桃体炎和口腔溃疡。这些标准的敏感性为 87%，特异性为 92%（1）。
+非特异性实验室表现包括中性粒细胞增多、急性期反应物升高（如红细胞沉降率、C 反应蛋白）以及发作期出现多克隆高丙种球蛋白血症（2）。此外，血清淀粉样蛋白A和补体水平升高可能很明显(2)。
+应定期筛查患者的蛋白尿。
+
+【诊断参考】
+1.Gattorno M, Hofer M, Federici S, et al.Classification criteria for autoinflammatory recurrent fevers.Ann Rheum Dis.2019;78(8):1025-1032.doi:10.1136/annrheumdis-2019-215048
+1.Gattorno M, Hofer M, Federici S, et al.Classification criteria for autoinflammatory recurrent fevers.Ann Rheum Dis.2019;78(8):1025-1032.doi:10.1136/annrheumdis-2019-215048
+2.Bonilla FA, Khan DA, Ballas ZK, et al.Practice parameter for the diagnosis and management of primary immunodeficiency.J Allergy Clin Immunol.2015;136(5):1186-205.e2078.doi:10.1016/j.jaci.2015.04.049
+2.Bonilla FA, Khan DA, Ballas ZK, et al.Practice parameter for the diagnosis and management of primary immunodeficiency.J Allergy Clin Immunol.2015;136(5):1186-205.e2078.doi:10.1016/j.jaci.2015.04.049
+
+【TRAPS的治疗】
+糖皮质激素
+糖皮质激素
+阿那白滞素和卡那单抗
+阿那白滞素和卡那单抗
+轻度发作可短期使用非甾体抗炎药治疗。然而，炎症性发作可能需要短程全身糖皮质激素治疗（如泼尼松）。糖皮质激素的剂量可能需要随时间逐渐增加，而这种治疗在长期使用过程中反而可能导致发作持续时间延长。
+预防性治疗包括阿那白滞素每天一次（1,2）和卡那单抗每 4 周一次（3,4）。如果白细胞介素(IL)-1阻断不可用或无效，可以考虑依那西普，但反应往往不完全或已发现随着时间的推移而减少(5、6)。
+在接受治疗的情况下，预后通常良好，但合并肾淀粉样变性的患者预后相对较差。
+
+【治疗参考文献】
+1.ter Haar NM, Oswald M, Jeyaratnam J, et al.Recommendations for the management of autoinflammatory diseases.Ann Rheum Dis.2015;74(9):1636–1644.doi:10.1136/annrheumdis-2015-207546
+1.ter Haar NM, Oswald M, Jeyaratnam J, et al.Recommendations for the management of autoinflammatory diseases.Ann Rheum Dis.2015;74(9):1636–1644.doi:10.1136/annrheumdis-2015-207546
+2.Gattorno M, Pelagatti MA, Meini A, et al.Persistent efficacy ofanakinrain patients with tumor necrosis factor receptor-associated periodic syndrome.Arthritis Rheum.2008;58:1516–1520.doi:10.1002/art.23475
+2.Gattorno M, Pelagatti MA, Meini A, et al.Persistent efficacy ofanakinrain patients with tumor necrosis factor receptor-associated periodic syndrome.Arthritis Rheum.2008;58:1516–1520.doi:10.1002/art.23475
+3.Gattorno M, Obici L, Penadés IC, et al.Long-Term Efficacy and Safety ofCanakinumabin Patients With Tumor Necrosis Factor Receptor-Associated Periodic Syndrome: Results From a Phase III Trial.Arthritis Rheumatol.2024;76(2):304-312.doi:10.1002/art.42695
+3.Gattorno M, Obici L, Penadés IC, et al.Long-Term Efficacy and Safety ofCanakinumabin Patients With Tumor Necrosis Factor Receptor-Associated Periodic Syndrome: Results From a Phase III Trial.Arthritis Rheumatol.2024;76(2):304-312.doi:10.1002/art.42695
+4.De Benedetti F, Gattorno M, Anton J, et al.Canakinumabfor the treatment of autoinflammatory recurrent fever syndromes.N Engl J Med.2018;378(20):1908–1919.doi:10.1056/NEJMoa1706314
+4.De Benedetti F, Gattorno M, Anton J, et al.Canakinumabfor the treatment of autoinflammatory recurrent fever syndromes.N Engl J Med.2018;378(20):1908–1919.doi:10.1056/NEJMoa1706314
+5.Drewe E, McDermott EM, Powell PT, et al.Prospective study of anti-tumour necrosis factor receptor superfamily 1B fusion protein, and case study of anti-tumour necrosis factor receptor superfamily 1A fusion protein, in tumour necrosis factor receptor associated periodic syndrome (TRAPS): Clinical and laboratory findings in a series of seven patients.Rheumatology.2003;42:235–239.doi:10.1093/rheumatology/keg070
+5.Drewe E, McDermott EM, Powell PT, et al.Prospective study of anti-tumour necrosis factor receptor superfamily 1B fusion protein, and case study of anti-tumour necrosis factor receptor superfamily 1A fusion protein, in tumour necrosis factor receptor associated periodic syndrome (TRAPS): Clinical and laboratory findings in a series of seven patients.Rheumatology.2003;42:235–239.doi:10.1093/rheumatology/keg070
+6.Quillinan N, Mannion G, Mohammad A, et al.Failure of sustained response toetanerceptand refractoriness toanakinrain patients with T50M TNF-receptor-associated periodic syndrome.Ann Rheum Dis.2011;70(9):1692–1693.doi:10.1136/ard.2010.144279
+6.Quillinan N, Mannion G, Mohammad A, et al.Failure of sustained response toetanerceptand refractoriness toanakinrain patients with T50M TNF-receptor-associated periodic syndrome.Ann Rheum Dis.2011;70(9):1692–1693.doi:10.1136/ard.2010.144279

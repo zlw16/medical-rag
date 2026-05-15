@@ -1,0 +1,581 @@
+标题：放射/辐射暴露和污染
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/radiation-exposure-and-contamination/radiation-exposure-and-contamination
+============================================================
+
+电离辐射由放射性元素或设备（如X射线摄影机和放射治疗设备）发出。
+
+【辐射类型】
+辐射包括
+粒子（alpha粒子，beta粒子，中子）
+粒子（alpha粒子，beta粒子，中子）
+高能电磁波（x-射线，gamma射线）
+高能电磁波（x-射线，gamma射线）
+alpha粒子是由某些具有高原子序数的放射性核素（如钚、镭、铀）发射出的高能氦原子核，不能穿透浅层皮肤（<0.1mm）。
+beta粒子是由不稳定原子核（如铯-137、碘-131）发射出的高能电子。beta粒子能穿透入皮肤深处（1-2cm）引起表皮和皮下组织损伤。
+中子是由少数一些放射性核素（如锎-252）发出和核裂变反应（如核反应堆）产生的电中性粒子；它们穿透组织的深度从几毫米到数十厘米不等，这取决于其所携带的能量。它们与稳定的原子核碰撞后，产生高能质子、alpha和beta粒子及gamma射线。
+gamma射线和x-射线是能够穿透入人体较深组织（数厘米）的波长极短的电磁辐射（如光子）。虽然部分光子把它们所有能量沉积于体内时，但另外那些携带相同能量的光子则只能沉积一小部分，而其他能量则会完全透过人体，对人体无任何影响。
+正由于它们的这些特性，当放射性原子进入人体内（体内污染）或由beta-发射器直接照射人体表时，alpha和beta粒子所造成的损害是最大的，只有与放射性元素邻近的组织才会受影响。gamma射线和x-射线可造成远离放射源组织的损害，通常是引起急性放射综合征的主要原因。急性辐射综合征可由足够剂量的一些内部沉积的放射性核素引起，这些放射性核素广泛分布于组织和器官并具有高比活度。例如，钋-210（Po-210）的比活度为每克166太贝克（TBq/g），1mcg（约一粒盐大小）的Po-210可产生50 Sv的全身剂量（约为半数致死剂量的20倍）。
+
+【辐射测量】
+常用的辐射测量单位包括伦琴，拉德，雷姆。
+伦琴（R）是测量空气中x-射线或gamma射线电离能力的照射单位。
+辐射吸收剂量（rad）是指单位质量所吸收的该辐射能量。
+人体伦琴当量（rem）被使用是因为每个拉德的生物损伤因辐射类型而异（例如，中子比X射线或伽马辐射的损伤更高）。辐射剂量以拉德（rad）为单位，通过辐射类型质量因子进行校正；所得的当量剂量单位是雷姆（rem）。
+在美国以外的科学文献中，采用的SI（国际系统）中，rad由戈瑞（Gy）代替，rem由希沃特（Sv）代替；1 Gy=100 rad，1 Sv=100 rem。在描述x-或gamma或beta射线时，rad和rem（及相应的Gy和Sv）在本质上是一样的（即质量因子等于1）。
+放射性活度是用每秒发生核衰变（转换）的原子数量来表示。贝克勒尔（Bq）是放射性活度的SI单位; 1Bq是指每秒有一个原子发生衰变（dps）。传统单位居里 (Ci) 有时仍在美国使用，美国的一居里为370亿Bq。这相当于37000兆贝克（MBq）或37千兆贝克（GBq）。
+
+【暴露类型】
+辐射暴露可能来自
+放射性污染是无意中与放射性物质或遗留放射性物质的东西接触和保留所致，通常是灰尘和液体。污染可以是
+体外污染
+体外污染
+体内污染
+体内污染
+外部污染是指放射性物质附着于皮肤或衣物，可脱落或被擦拭掉，从而污染其他人员和物体。
+体内污染是指放射性物质意外进入体内，可能通过摄入、吸入或皮肤破损处侵入。 放射性物质一旦进入人体，可被吸收转运至人体的各个部位（如骨髓），并在这些部位持续发出辐射直至被去除或衰变完全为止。体内污染更难被去除。
+尽管任何放射性核素均可能造成体内污染，历史上，多数情况下，污染对患者造成重大危险的所涉及放射性核素相对较少，例如磷-32、钴-60、锶-90、铯-137、碘-131、碘-125、镭-226、铀-235、铀-238、钚-238、钚-239、钋-210和镅-241。
+辐照是暴露于辐射但不涉及放射性物质（即不涉及污染）。
+放射暴露可发生在辐射源（如放射性物质、X-线摄片机）不接触人体的情况。当辐射源被移除或关闭，暴露也即停止了。
+辐照可以涉及全身或身体的一小部分（例如，来自放射治疗）。如果剂量足够高，全身辐射会导致全身症状和辐射综合征。对身体小部分的照射会导致局部效应。放射性治疗也会造成靶组织附近的正常组织损伤。
+人们在接受辐照后不会发出射线（即不会变成有放射性）。
+辐射暴露来源包括天然与人工两类（参见表美国人均年辐射暴露量）。
+人们经常暴露于被称为背景辐射的低剂量天然辐射。背景辐射来源于宇宙辐射和来自于空气、水和地表的放射性元素。宇宙辐射因地球磁场而聚集于南北两极，并被大气层所衰减。因而生活在高纬度和（或）高海拔的人和飞机航程中的人们暴露的辐射更多。
+地表来源的外部辐射主要是因为有半衰期与地球年龄（约为45亿年）相当的放射性元素的存在。特别是在许多岩石和矿物中存在的铀238和钍232以及它们衰减数十代后的放射性子代和钾的放射性同位素（K-40）。
+在食物、水和空气中也含有少量这些放射性核素，因此，当这些放射性核素不可避免地进入人体后即可造成体内暴露。体内掺入的放射性核素的大部分剂量来自碳（C-14）和钾（K-40）的放射性同位素，由于这些元素和其他元素（稳定和放射性形式）通过摄入和吸入不断补充到体内，因此体内每秒约有7000个原子发生放射性衰变。
+在美国，吸入惰性气体氡（Rn-222与Rn-220）的放射性同位素所致体内暴露占天然辐射人均年剂量的最大比例。宇宙辐射、体内放射性元素和外部地球辐射是较不常见的辐射暴露来源（1, 2）。人们接受自然辐射的平均有效剂量约3毫西弗（mSv）/年（范围在0.5-20mSv/年）。在地球的一些地方，人们接受的辐射量则>50mSv/年。来自自然背景辐射的剂量远低于能引起辐射损害的剂量。
+在美国，人们从人造来源接收的平均辐射剂量约为3mSv/年，其中绝大部分涉及医学影像。按人均计算，CT和心脏核素检查占来自医学成像暴露辐射的比例最高。然而，医学诊断程序很少会造成足以引起辐射损伤的剂量。 但也有例外情况，如需要长时间在透视引导下进行的介入治疗（如血管重建、血管栓塞、心脏或肿瘤射频消融），这些会损伤皮肤和皮下组织。充分暴露于医学影像检查会略微增加患癌的理论风险。
+由于术后放疗导致乳房切除部位的慢性放射性皮炎。请注意覆盖在皮肤区域上的相关放射性角化过度斑块，包括色素减退、色素沉着过度、毛细血管扩张和萎缩（一种称为异色病的病症）。
+© Springer Science+Business Media
+极小部分公众平均暴露源于辐射事故和核武器试验的放射性沉降。核意外包括工业辐射仪、工业辐射源和核反应堆。 这些核意外通常是由于未遵循安全操作所致（如绕过联锁设备）。
+辐射损伤也可由含有大量放射性核素的医疗和工业辐射源的遗失或失窃造成。人们治疗这些损伤的同时，可能没有意识到自己已暴露于辐射。
+已发生的放射性物质意外泄露事件，包括1979年宾夕法尼亚州三哩岛工厂泄露事件、1986年乌克兰切尔诺贝利反应堆事件以及2011年日本福岛第一核电站事件 (3, 4, 5)。
+三里岛事故的辐射暴露量极低，因为其安全壳未发生破裂，也未发生切尔诺贝利式的爆炸，或是福岛事故中的氢气爆炸。住在三哩岛1.6公里范围内的人最多只受到约0.08mSv的辐射量（一个月内其中部分来自天然来源）。
+相比之下，最终从切尔诺贝利核电站附近地区疏散的115,000名居民平均接受的有效剂量约为30 mSv，甲状腺平均剂量约为490 mGy。事故发生时在切尔诺贝利核电站工作的人接受的辐射剂量是相当高的。超过30名工人和紧急救援人员在事故后数月内死亡，而有更多的人患上急性放射性疾病。而在遥远的欧洲、亚洲其他地区，甚至北美（在较小程度上）都能检测到来自那次事故的低剂量污染。在白俄罗斯、俄罗斯和乌克兰的各受影响地区中，预计事故发生20年后人群平均累积辐射量约为9mSv。
+2011年在日本发生地震和海啸导致放射性物质从福岛第一核电站的多个反应堆释放入环境中。当时未发现对现场工人有造成严重的放射性损伤。在福岛县近40万居民中，根据问卷和剂量重建模型，估计95%的人接受的有效辐射量<2mSv，99.8%的人<5mSv。世界卫生组织倾向较保守的假设，所以其估计的暴露量略高。估计与福岛县不直接相邻辖区的有效剂量为0.1-1mSv之间，而日本以外的人群接受的剂量几乎是可忽略不计（<0.01 mSv）。
+人群遭受的最严重辐射暴露发生于1945年8月在日本投掷的两枚原子弹爆炸事件，爆炸和高温的直接伤害导致约11万人死亡。在随后的几年间，因辐射诱发癌症导致的超额死亡人数少得多（<1000）。对幸存者的持续健康监测仍然是评估辐射诱发癌症风险的最重要来源之一。
+虽然报道有数起由个人故意投放放射性污染的犯罪事件，而目前还没有发生因恐怖活动造成的人群辐射暴露，但仍令人担忧 (另见放射性武器)。可能的一种情形涉及使用装置播散放射性物质造成该区域污染（如来自废弃的放疗源或工业来源的铯-137或钴-60）。使用传统炸药制成辐射扩散装置（RDD）被称作脏弹。 其他恐怖情况还包括使用隐藏的辐射源使不知情的人群受到大剂量暴露、袭击核反应堆或放射性物质贮存设施以及引爆核武器（如一种简易核装置[IND]，一个被盗的武器）。
+
+【美国年平均辐射暴露*】
+美国年平均辐射暴露*
+有效剂量（mSv）
+自然发生的辐射源
+其他陆地辐射来源
+太阳和宇宙辐射
+自然界内部放射性元素
+人造放射源（人均暴露量）
+诊断性放射学和核医学
+核武器试验的沉降物
+<0.01
+<0.01
+每年暴露总量
+其他放射暴露源（平均一次暴露或过程）
+航空旅行†
+0.001–0.014/每飞行小时
+0.005
+胸片（正位片）
+0.02
+胸部 X 线检查（2 个切面：正位和侧位）
+乳腺X线检查
+头颅CT
+躯体CT（胸、腹、盆）
+钡剂灌肠
+核医学（如骨扫描）
+* National Council on Radiation Protection and Measurements.Ionizing radiation exposure of the population of the United States.NCRP Report No. 160 National Council on Radiation Protection and Measurements, Bethesda, MD, 2009.
+†自2014年起，美国不再使用基于X射线的乘客检查设备，但其他国家可能仍在使用。在美国，乘客安检设备使用毫米波（mmW），这是一种非电离辐射。这些相同的频率用于5G无线电通信设施。
+* National Council on Radiation Protection and Measurements.Ionizing radiation exposure of the population of the United States.NCRP Report No. 160 National Council on Radiation Protection and Measurements, Bethesda, MD, 2009.
+†自2014年起，美国不再使用基于X射线的乘客检查设备，但其他国家可能仍在使用。在美国，乘客安检设备使用毫米波（mmW），这是一种非电离辐射。这些相同的频率用于5G无线电通信设施。
+
+【参考文献】
+1.United States Environmental Protection Agency (EPA).Radiation Sources and Doses.Accessed January 2, 2025.
+1.United States Environmental Protection Agency (EPA).Radiation Sources and Doses.Accessed January 2, 2025.
+2,Centers for Disease Control and Prevention (CDC).Radiation Emergencies: Radiation Thermometer.Accessed January 2, 2025.
+2,Centers for Disease Control and Prevention (CDC).Radiation Emergencies: Radiation Thermometer.Accessed January 2, 2025.
+3.United States Nuclear Regulatory Commission.Backgrounder on the Three Mile Island Accident.Accessed January 2, 2025.
+3.United States Nuclear Regulatory Commission.Backgrounder on the Three Mile Island Accident.Accessed January 2, 2025.
+4.International Atomic Energy Agency.The 1986 Chornobyl nuclear power plant accident.Accessed January 2, 2025.
+4.International Atomic Energy Agency.The 1986 Chornobyl nuclear power plant accident.Accessed January 2, 2025.
+5.World Nuclear Association.Fukushima Daiichi Accident.Accessed January 2, 2025.
+5.World Nuclear Association.Fukushima Daiichi Accident.Accessed January 2, 2025.
+
+【放射/辐射暴露和污染的病理生理学】
+电离辐射可直接损伤DNA、RNA和蛋白质。但此类分子损伤多为间接性，是由辐射与细胞内水分子相互作用产生的高活性自由基引起的。
+大剂量的辐射会导致细胞死亡，而较低的剂量可能会干扰内源性分子修复系统、体内平衡和细胞增殖。 这些及其他细胞成分的损伤可导致进行性组织发育不良、萎缩，最终发生纤维化。然而，细胞杀伤本身并不能解释许多组织反应，因为这些反应还取决于复杂的事件，包括炎症、慢性氧化和免疫反应，以及对血管系统和细胞外基质的损伤。
+通常，早期反应，例如在皮肤和胃肠道中，包括杀死组织中提供成熟功能细胞的干细胞/早期祖细胞，以及炎症反应。
+晚期反应（例如，在肺、肾和脑中）涉及组织和器官内多种细胞类型间的复杂动态相互作用，包括免疫细胞浸润、细胞因子和生长因子的产生（通常为持续且循环的级联反应）以及慢性氧化应激。
+
+【影响反应的因素】
+辐射的生物学反应因以下因素而异：
+组织的辐射敏感性
+组织的辐射敏感性
+暴露时间
+暴露时间
+炎症反应程度
+炎症反应程度
+存在遗传性 DNA 修复缺陷疾病（例如共济失调-毛细血管扩张症、布卢姆综合征、范可尼贫血）
+存在遗传性 DNA 修复缺陷疾病（例如共济失调-毛细血管扩张症、布卢姆综合征、范可尼贫血）
+细胞和组织的辐射敏感性不同。 一般情况下，尤其是未分化的和高速分裂的细胞（如干细胞、肿瘤细胞）最易受到辐射影响。因为辐射优先损伤快速分裂的干细胞而不是成熟细胞，所以在辐射暴露和损伤之间有一个明显的潜伏期。直到大量成熟细胞在自然衰老凋亡后，由于干细胞的丢失而无法进行替代时，辐射损伤才有所显现。
+细胞敏感性从高到低依次为
+淋巴细胞
+淋巴细胞
+生殖细胞
+生殖细胞
+骨髓增殖细胞
+骨髓增殖细胞
+肠内上皮细胞
+肠内上皮细胞
+表皮干细胞
+表皮干细胞
+肺泡上皮细胞和胆道上皮细胞
+肺泡上皮细胞和胆道上皮细胞
+肾上皮细胞
+肾上皮细胞
+内皮细胞（胸膜和腹膜）
+内皮细胞（胸膜和腹膜）
+结缔组织细胞
+结缔组织细胞
+肌肉、脑和脊髓细胞
+肌肉、脑和脊髓细胞
+辐射损伤的严重程度取决于暴露剂量的大小和暴露时间的长短。单次快速高辐射剂量较在几周或几月时间内累积相同剂量辐射所引起的损伤更为严重。剂量反应也取决于身体暴露辐射的面积大小。人体在短时间内（数分钟至数小时）全身接受>4.5Gy的辐射后，一定会出现严重病变，也可能会致命(1)；而如果长时间对小面积组织给予数十戈瑞的辐射，人体是可以良好耐受的（如癌症放疗）。
+还有一些其他因素也增加辐射损伤的敏感性。儿童更易受到辐射损伤，因为他们的细胞增殖率更快。在儿童中，一些器官和组织如大脑、眼睛的晶状体和甲状腺对辐射比成年人更敏感。携带共济失调—毛细血管扩张症基因纯合子人有着更高的辐射损伤敏感性。系统性风湿病和糖尿病等疾病可能增加对放射性损伤的敏感性。一些药物和化疗药物（例如放线菌素、多柔比星、博来霉素、5-氟尿嘧啶、甲氨蝶呤）也可能增加对放射损伤的敏感性。某些化疗药物（如阿霉素、依托泊苷、紫杉醇、表柔比星）、抗生素（如头孢替坦）、他汀类药物（如辛伐他汀）和草药制剂（如圣约翰草）可在同一部位接受照射数周至数年后，引发先前照射部位的炎症性皮肤反应（放射回忆）（2）。
+
+【致癌、致畸和遗传效应】
+电离辐射对体细胞造成的基因损伤可能导致恶性转化。子宫内辐射暴露可致畸，生殖细胞损伤理论上可能导致可遗传的基因缺陷。
+长期全身暴露被认为会使成年人平均终身癌症死亡风险增加(3)。
+常规剂量下（即来自背景辐射和常规影像检查的辐射）导致癌症发生的可能性（见电离辐射风险）要小得多，并且可能为零。
+从已知的更高剂量所致的影响可向下推算出如在福岛等反应堆事件附近人群在接受一般的低剂量辐射下所增加的辐射诱发肿瘤风险。由此得出的极小的理论影响与大的人口基数相乘可得出看似额外增加的肿瘤死亡的人数。这样推测的准确性无法确定，因为理论上增加的风险太小以致无法通过流行病学研究进行检测，并且不能排除在这种暴露剂量不增加肿瘤风险的可能性。
+儿童更容易面临辐射诱发癌症的风险，因为他们未来细胞分裂的次数更多，而且有更长的寿命，在此期间癌症可能会显现出来。估计1岁儿童接受腹部CT检查后在其预计寿命时间内发生癌症的绝对风险可增加约0.1%至0.2%(4)。
+放射性核素被特定组织吸收后可成为潜在致癌源（例如，切尔诺贝利反应堆事件后，被大量放射性碘污染的牛奶为人所摄取，结果导致暴露儿童甲状腺肿瘤的发生率增加）。
+胎儿对高剂量辐射损伤极其敏感。但是，剂量<100 mGy时，不太可能有致畸作用。与出生缺陷的总体风险（2-6%）和检查的潜在诊断效益相比，孕妇可能进行的一般影像检查所接受的辐射剂量对胎儿的影响风险是非常小的。因宫内暴露增加的肿瘤发生风险与儿童的辐射暴露风险相似，大概是成人风险5%/Sv的2-3倍（5）。
+在胎儿期，受孕后8至15周期间，如果暴露于超过300 mGy的辐射下，可能会导致智力下降（6）。
+辐射暴露的潜在风险要求仔细考虑涉及辐射的影像学检查的必要性（或替代品），根据个人体质和临床问题优化辐射暴露，并注意采用适当的辐射防护措施，尤其是对儿童和孕妇。
+生殖细胞的损害已被证明在严重辐射的动物后代中引起出生畸形。但在遭受辐射暴露人群的子女中并未发现这种遗传影响，包括在日本原子弹爆炸中幸存者所生子女或接受放射治疗的肿瘤患者的后代。
+
+【病理生理学参考文献】
+1.Centers for Disease Control and Prevention (CDC).Acute Radiation Syndrome: Information for Clinicians.Accessed January 2, 2025.
+1.Centers for Disease Control and Prevention (CDC).Acute Radiation Syndrome: Information for Clinicians.Accessed January 2, 2025.
+2.Balter S, Hopewell JW, Miller DL, et al.Fluoroscopically guided interventional procedures: A review of radiation effects on patients' skin and hair.Radiology.254(2):326-341, 2010.doi:10.1148/radiol.2542082312
+2.Balter S, Hopewell JW, Miller DL, et al.Fluoroscopically guided interventional procedures: A review of radiation effects on patients' skin and hair.Radiology.254(2):326-341, 2010.doi:10.1148/radiol.2542082312
+3.National Research Council of the National Academies, Committee to Assess Health Risks from Exposure to Low Levels of Ionizing Radiation.Health risks from exposure to low levels of ionizing radiation: BEIR VII, Phase 2.Accessed January 2, 2025.
+3.National Research Council of the National Academies, Committee to Assess Health Risks from Exposure to Low Levels of Ionizing Radiation.Health risks from exposure to low levels of ionizing radiation: BEIR VII, Phase 2.Accessed January 2, 2025.
+4.United Nations Scientific Committee on the Effects of Atomic Radiation.Sources, Effects and Risks of Ionizing Radiation.Scientific Annex B: Effects of radiation exposure of children.Accessed January 2, 2025.
+4.United Nations Scientific Committee on the Effects of Atomic Radiation.Sources, Effects and Risks of Ionizing Radiation.Scientific Annex B: Effects of radiation exposure of children.Accessed January 2, 2025.
+5.National Council on Radiation Protection and Measurements (NCRP).Report No. 174 – Preconception and Prenatal Radiation Exposure: Health Effects and Protective Guidance (2013).Accessed January 2, 2025.
+5.National Council on Radiation Protection and Measurements (NCRP).Report No. 174 – Preconception and Prenatal Radiation Exposure: Health Effects and Protective Guidance (2013).Accessed January 2, 2025.
+6.Moon EK, Wang W, Newman JS, Bayona-Molano Mdel P.Challenges in interventional radiology: the pregnant patient.Semin Intervent Radiol.2013;30(4):394-402.doi:10.1055/s-0033-1359734
+6.Moon EK, Wang W, Newman JS, Bayona-Molano Mdel P.Challenges in interventional radiology: the pregnant patient.Semin Intervent Radiol.2013;30(4):394-402.doi:10.1055/s-0033-1359734
+
+【放射/辐射暴露和污染的症状和体征】
+临床表现取决于辐射暴露是累及全身（急性放射综合征）还是局限于身体的一小部分（局部辐射损伤）。
+
+【急性放射综合征（ARS）】
+当全身或身体大部分接受高剂量穿透性辐射后，可出现数个不同的综合征：
+脑血管综合征
+脑血管综合征
+胃肠（GI）综合征
+胃肠（GI）综合征
+造血系统综合征
+造血系统综合征
+这些综合征分为3个不同阶段：
+前驱期（辐射暴露后数分钟至2天）：可能出现嗜睡和胃肠症状（恶心、厌食、呕吐和腹泻）。
+前驱期（辐射暴露后数分钟至2天）：可能出现嗜睡和胃肠症状（恶心、厌食、呕吐和腹泻）。
+无症状潜伏期（辐射暴露后数小时至21天）
+无症状潜伏期（辐射暴露后数小时至21天）
+显性全身性疾病阶段（暴露后数小时至>60天）：根据主要受累器官系统对疾病进行分类
+显性全身性疾病阶段（暴露后数小时至>60天）：根据主要受累器官系统对疾病进行分类
+辐射剂量决定了出现何种综合征、疾病严重程度以及病情进展速度（见表体外辐射或体内吸收对全身辐射的影响）。出现的症状和病程与给辐射剂量有非常好的一致性，因而可用于评估辐射暴露。
+脑血管综合征，是极高全身辐射剂量（>30 Gy）的主要表现，总是致命的。在暴露后数分钟至1小时即出现前驱期症状。潜伏期很短或几乎没有。患者可出现震颤、抽搐、共济失调和脑水肿，并在数小时至1-2天内死亡。
+胃肠综合征是全身遭受6-30Gy辐射后引起的主要表现。前驱期症状通常较明显，多在暴露1小时内出现，并在2天内逐渐消退。在4-5天的潜伏期内，胃肠黏膜细胞发生坏死。细胞死亡后会出现难以控制的恶心、呕吐和腹泻，进而导致严重脱水、电解质紊乱、血浆容量减少和血管性虚脱。肠坏死亦可发生，进而诱发肠穿孔、菌血症和脓毒症。常导致死亡。接受辐射量>10 Gy 的患者可能会出现脑血管症状（提示为致死剂量）。幸存者也会发生造血系统综合征。
+造血系统综合征是全身遭受辐射量为1-6Gy引起的主要表现，包括全身性全血细胞减少。前驱期症状较轻微，从辐射暴露1-6h后出现，持续24-48h。辐射暴露后骨髓造血干细胞明显耗尽，但循环中的成熟血细胞大部分未受影响。但淋巴细胞除外，其后在辐射暴露后数小时至数天内即可明显减少。随着循环中血细胞的衰老死亡，却得不到足够的补充，最终导致全血细胞减少。因此，患者在接受1Gy的辐射暴露后，尽管造血功能障碍持续进展，仍可维持长达4.5周的无症状潜伏期。中性粒细胞减少症（2-4周时最明显）和抗体产生下降导致各种感染的风险增加。血小板减少症可导致瘀点和黏膜出血，一般在3-4周内出现，并可能持续数月。贫血进展缓慢，这是因为既有的红细胞寿命较白细胞和血小板长。幸存者罹患辐射诱导的癌症的发病率增加，包括白血病。
+
+【全身照射的影响】
+全身照射的影响
+综合征分期
+剂量范围（Gy）*,†
+8–30
+前驱症状
+恶心和呕吐的发生率
+5–50%
+50–100%
+75–100%
+90–100%
+100%
+暴露后出现恶心、呕吐的时间‡
+2–6小时
+1-2小时
+10–60 min
+<10min
+恶心和呕吐持续时间
+<24h
+24–48h
+<48h
+<48h
+N/A（患者<48h死亡）
+腹泻的严重程度和发生率
+无或轻微（<10%）
+中度至重度 (>10%)
+严重（>95%）
+严重（100%）
+暴露后腹泻出现的时间
+3-8小时
+1-3小时
+头痛的严重度和发生率
+轻微到中等（50%）
+中等（80%）
+严重（80%–90%）
+严重（100%）
+暴露后头痛出现的时间
+4–24h
+3-4小时
+1-2小时
+发热的严重度
+中度升高
+中到重度
+发热的发生率
+10–100%
+100%
+100%
+100%
+暴露后发热出现的时间
+1-3小时
+中枢神经系统功能
+认知障碍持续6～20h
+认知障碍>24h
+大剂量时，迅速失能
+可有数小时神志清醒间歇期
+共济失调
+28–31天
+7–28天
+明显疾病期
+临床表现
+轻度到中度白细胞减少
+中度到重度白细胞减少
+脱发（3Gy辐射量）
+重度白细胞减少
+眩晕，定向障碍
+电解质紊乱
+严重腹泻
+电解质紊乱
+N/A（患者<48h死亡）
+主要受累器官系统综合征
+血液系统
+血液系统
+胃肠道（粘膜细胞）
+胃肠道（粘膜细胞）
+中枢神经系统
+住院治疗
+门诊观察
+从建议到必要
+急诊入院
+姑息治疗（仅对症治疗）
+姑息治疗（仅对症治疗）
+未经治疗的急性死亡率
+0–5%
+5–100%
+95–100%
+100%
+100%
+经治疗的急性死亡率
+0–5%
+5–50%
+50–100%
+100%
+100%
+6–8周
+4–6周
+2-4周
+2天–2周
+1–2天
+* 1 rad=1 cGy；100 rad=1 Gy。
+†全身照射量达约1Gy时，一般不会引起任何症状
+‡虽然呕吐时间是一种快速廉价的估计辐射剂量的方法，但应谨慎使用，因为其不够精确，有较高的假阳性率。其他信息，如淋巴细胞计数和暴露的潜在细节，有助于提高准确性。
+Adapted from Military Medical Operations Armed Forces Radiobiology Research Institute:Medical Management of Radiological Casualties, edition 3.June 2010.
+* 1 rad=1 cGy；100 rad=1 Gy。
+†全身照射量达约1Gy时，一般不会引起任何症状
+‡虽然呕吐时间是一种快速廉价的估计辐射剂量的方法，但应谨慎使用，因为其不够精确，有较高的假阳性率。其他信息，如淋巴细胞计数和暴露的潜在细节，有助于提高准确性。
+Adapted from Military Medical Operations Armed Forces Radiobiology Research Institute:Medical Management of Radiological Casualties, edition 3.June 2010.
+皮肤辐射损伤是人体急性暴露于3Gy辐射下造成的皮肤和皮下组织的损伤(见表局部放射损伤)。皮肤辐射损伤可伴随急性辐射综合征或局灶性辐射暴露而发生，病变可从轻微短暂性红斑到坏死不等。迟发效应（暴露>6个月后）包括色素沉着和色素减退，进行性纤维化和弥散性毛细血管扩张。皮肤萎缩变薄，以致轻微的机械外伤即可造成皮肤损伤。皮肤暴露部位罹患鳞状细胞癌的风险增加。尤其需注意的是，当患者在没有热灼伤史情况下皮肤出现痛性非愈合性损伤时，应考虑到辐射损伤的可能。
+
+【局部放射损伤】
+辐射几乎对所有器官都能造成急性和慢性的不良反应（见表局灶性辐射损伤）。对多数病人而言，这些不良反应主要来源于放射治疗。其他常见的辐射暴露来源包括意外接触到的无安全保障的食物辐照、放射性治疗仪、X线衍射仪和其他可产生大剂量辐射的工业或医疗辐射源。而且，一些在透视引导下进行的介入手术，由于患者需长时间暴露于X射线亦可导致皮肤辐射损伤。辐射诱发的皮肤疼痛和溃疡可能需要数月或数年才会完全修复。重度皮肤辐射损伤患者可表现为皮肤剧烈疼痛，而往往需要手术进行干预。
+
+【局部放射损伤*】
+局部放射损伤*
+组织暴露
+不良反应
+参见颅脑放疗及其神经毒性
+胸痛、放射性心包炎、放射性心肌炎
+2-4Gy：一过性皮肤红斑
+4–5 Gy：短暂红斑、暂时性脱毛（暴露于>~ 4 Gy 后 2–3 周内）
+5-10Gy：红斑持续时间长，可能有永久性脱发、干性脱屑（暴露辐射量高值下）
+10–15Gy：干性脱屑（暴露后2-8周内）
+15–20Gy：湿性脱屑（暴露后2-4周内）
+15–25Gy：水泡（暴露后2-3周内）
+>20Gy：溃疡（暴露后2-3周内）
+>25Gy：坏死（暴露后>3周）
+少精、闭经、性欲减退
+导致不育的阈剂量（~1％发生率）：
+睾丸：>6Gy，发病约3周
+睾丸：>6Gy，发病约3周
+卵巢：>3Gy，发病<1周
+卵巢：>3Gy，发病<1周
+头部和颈部
+黏膜炎、吞咽疼痛、甲状腺癌
+肌肉和骨骼
+肌病、瘤样改变、骨肉瘤
+>〜0.5Gy：白内障（潜伏期〜20年后;辐射量越大、暴露年龄越小则潜伏期时间越短）
+急性肺炎
+分次辐射暴露>30 Gy：有时是致命的（LD-50 ~>10 Gy 单次高剂量照射）
+肺纤维化
+GFR下降，肾小管功能下降
+大剂量（潜伏期6个月至1年后）：蛋白尿、肾功能不全、贫血、高血压
+累积剂量>20 Gy在<5周内：放射性纤维化、少尿型肾衰竭
+>50Gy：脊髓病
+生长发育受限、先天性畸形、先天代谢障碍、死胎
+<0.1Gy：没有明显影响
+未来癌症风险与儿童暴露时近似：每Gy约10-15%
+Authors on behalf of ICRP, Stewart FA, Akleyev AV, et al.ICRP publication 118: ICRP statement on tissue reactions and early and late effects of radiation in normal tissues and organs--threshold doses for tissue reactions in a radiation protection context.Ann ICRP.2012;41(1-2):1-322.doi:10.1016/j.icrp.2012.02.001
+GFR=肾小球滤过率；Gy=戈瑞；LD-50 = 半数致死剂量。
+*常来源于放射治疗。
+Authors on behalf of ICRP, Stewart FA, Akleyev AV, et al.ICRP publication 118: ICRP statement on tissue reactions and early and late effects of radiation in normal tissues and organs--threshold doses for tissue reactions in a radiation protection context.Ann ICRP.2012;41(1-2):1-322.doi:10.1016/j.icrp.2012.02.001
+GFR=肾小球滤过率；Gy=戈瑞；LD-50 = 半数致死剂量。
+*常来源于放射治疗。
+
+【放射/辐射暴露和污染的诊断】
+症状、严重程度和症状潜伏期
+症状、严重程度和症状潜伏期
+连续监测淋巴细胞绝对值计数和血清淀粉酶水平
+连续监测淋巴细胞绝对值计数和血清淀粉酶水平
+根据暴露史、症状、体征和实验室检查可诊断。起病情况、病程和症状的严重程度有助于确定辐射剂量，从而也有助于根据每个患者可能的预后进行分诊。 但一些前驱症状（如恶心、呕吐、腹泻、震颤等）是非特异性的，应考虑辐射损伤以外的原因。许多未遭受足够辐射暴露而导致急性辐射综合征的患者，可表现出类似的、非特异的症状，尤其是在遭受恐怖袭击或核反应堆事故后极其焦虑时。
+遭受急性辐射暴露后，需检测全血细胞计数和淋巴细胞绝对计数，并在辐射暴露后24、48、72小时进行复查，以评估初始放射剂量及预后（见表淋巴细胞绝对计数、辐射剂量与预后的关系）。辐射剂量和淋巴细胞计数之间的关系可因物理外伤而发生改变，物理损伤时可使淋巴细胞从组织间隙进入血管，从而使循环中的淋巴细胞计数升高 (1，2)。这种应激相关的淋巴细胞升高是一过性的，常在物理损伤24-48h恢复正常。淋巴细胞计数的这种短暂升高可能表明在淋巴细胞计数下降之前的预后是错误乐观的。根据临床情况需要，每周复查全血细胞计数以监测骨髓造血活力。血清淀粉酶水平在明显辐射暴露24小时后开始上升，程度呈剂量依赖，因此在基线水平上应对其每日进行监测。 进行其他可行的实验室检查：
+C-反应蛋白（CRP）水平：CRP随辐射剂量增加而升高；其水平可用于区分轻度暴露和重度暴露的患者。
+C-反应蛋白（CRP）水平：CRP随辐射剂量增加而升高；其水平可用于区分轻度暴露和重度暴露的患者。
+血瓜氨酸水平：瓜氨酸水平降低提示有胃肠道的损害。
+血瓜氨酸水平：瓜氨酸水平降低提示有胃肠道的损害。
+血 FLT-3（Fms 样酪氨酸激酶 3 配体）水平：FLT-3 是造血损伤的标志物。
+血 FLT-3（Fms 样酪氨酸激酶 3 配体）水平：FLT-3 是造血损伤的标志物。
+白细胞介素- 6 (IL-6)：暴露于高辐射剂量时，这种炎症标志物水平升高。
+白细胞介素- 6 (IL-6)：暴露于高辐射剂量时，这种炎症标志物水平升高。
+粒细胞集落刺激因子（G-CSF）定量试验：辐射暴露剂量较高时可升高。
+粒细胞集落刺激因子（G-CSF）定量试验：辐射暴露剂量较高时可升高。
+细胞遗传学研究与超分散指数：这些检测用于评估部分身体辐射暴露。
+细胞遗传学研究与超分散指数：这些检测用于评估部分身体辐射暴露。
+
+【成人 48 小时绝对淋巴细胞计数、辐射剂量 *,†与预后之间的关系】
+成人 48 小时绝对淋巴细胞计数、辐射剂量 *,†与预后之间的关系
+最低淋巴细胞计数绝对值（细胞数/mL）
+辐射剂量（Gy）
+>1500（正常成人）‡(>1.5 × 109/L)
+0.0–0.4
+预后极佳
+1000–1499 (1–1.499 × 109/L)
+0.5–1.9
+500–999 (0.5–0.999 × 109/L)
+2.0–3.9
+100–499 (0.1–0.499 ×109/L)
+4.0–7.9
+<100 (<0.1 × 109/L)
+≥ 8.0
+几乎致死
+*全身辐射暴露（大致剂量）。
+†此表中显示的淋巴细胞计数的绝对剂量-反应关系可能会因伴随的身体创伤而受到干扰。对身体创伤的应激反应伴随着一般的外周血白细胞增多，白细胞分化和淋巴细胞亚群发生各种变化。
+‡儿童的计数通常较高，随着年龄的增长而变化，中位数从0–2岁时的4600/mL（4.6×109/L），到2–6岁时的3100/mL（3.1×109/L），到7-17岁时的2300/mL（2.3×109/L）。
+Adapted fromMettler FA Jr, Voelz GL.Major radiation exposure—what to expect and how to respond.New Engl J Med.346:1554–1561, 2002.doi: 10.1056/NEJMra000365
+*全身辐射暴露（大致剂量）。
+†此表中显示的淋巴细胞计数的绝对剂量-反应关系可能会因伴随的身体创伤而受到干扰。对身体创伤的应激反应伴随着一般的外周血白细胞增多，白细胞分化和淋巴细胞亚群发生各种变化。
+‡儿童的计数通常较高，随着年龄的增长而变化，中位数从0–2岁时的4600/mL（4.6×109/L），到2–6岁时的3100/mL（3.1×109/L），到7-17岁时的2300/mL（2.3×109/L）。
+Adapted fromMettler FA Jr, Voelz GL.Major radiation exposure—what to expect and how to respond.New Engl J Med.346:1554–1561, 2002.doi: 10.1056/NEJMra000365
+
+【放射性污染】
+当怀疑患者有放射性核素污染时，应用薄窗Geiger-Muller探头连接检测仪（Geiger计数器）对其全身进行检测，以明确身体污染部位及范围。此外，还应检测可能的体内污染，先用湿试子擦拭鼻孔、耳朵、口腔和伤口等地方，然后再用计数仪进行检测。怀疑有体内放射污染时，对尿、粪、呕吐物等标本亦应进行检测有无放射性。
+
+【诊断参考】
+1.Toft P, Tønnesen E, Helbo-Hansen HS, et al.Redistribution of granulocytes in patients after major surgical stress.APMIS.102(1):43-48, 1994.doi: 10.1111/j.1699-0463.1994.tb04843.x
+1.Toft P, Tønnesen E, Helbo-Hansen HS, et al.Redistribution of granulocytes in patients after major surgical stress.APMIS.102(1):43-48, 1994.doi: 10.1111/j.1699-0463.1994.tb04843.x
+2.DeRijk R, Michelson D, Karp B, et al.Exercise and circadian rhythm-induced variations in plasma cortisol differentially regulate interleukin-1 beta (IL-1 beta), IL-6, and tumor necrosis factor-alpha (TNF alpha) production in humans: high sensitivity of TNF alpha and resistance of IL-6.J Clin Endocrinol Metab.82(7):2182-2191, 1997.doi: 10.1210/jcem.82.7.4041
+2.DeRijk R, Michelson D, Karp B, et al.Exercise and circadian rhythm-induced variations in plasma cortisol differentially regulate interleukin-1 beta (IL-1 beta), IL-6, and tumor necrosis factor-alpha (TNF alpha) production in humans: high sensitivity of TNF alpha and resistance of IL-6.J Clin Endocrinol Metab.82(7):2182-2191, 1997.doi: 10.1210/jcem.82.7.4041
+
+【放射/辐射暴露和污染的治疗】
+首先处理严重创伤或危及生命的情况
+首先处理严重创伤或危及生命的情况
+最大程度减少医护工作者的辐射暴露和污染
+最大程度减少医护工作者的辐射暴露和污染
+治疗体外和体内污染
+治疗体外和体内污染
+有时某些放射性核素需用特殊的治疗手段
+有时某些放射性核素需用特殊的治疗手段
+预防和治疗受损的免疫系统
+预防和治疗受损的免疫系统
+最小化炎症反应
+最小化炎症反应
+支持治疗
+支持治疗
+辐射暴露可能伴随物理损伤（如灼伤、爆炸伤、坠落伤等）。相比辐射暴露，所伴发的创伤更具有生命威胁性，故须迅速处理（参见创伤患者的治疗方法:评估和治疗）。重伤患者的创伤复苏优先于去污工作，不得因等待特殊辐射处理设备和人员而延误。如同日常创伤救治一样，标准的通用预防措施，应充分保护重症治疗团队。
+
+【经验与提示】
+经验与提示
+相比辐射暴露，所伴发的创伤更具有生命威胁性，故须迅速处理。如同日常创伤救治一样，标准的通用预防措施，应充分保护重症治疗团队。
+相比辐射暴露，所伴发的创伤更具有生命威胁性，故须迅速处理。如同日常创伤救治一样，标准的通用预防措施，应充分保护重症治疗团队。
+
+【急性辐射综合征 (ARS) 的管理】
+急性辐射综合征 (ARS) 的管理
+推荐及其强度*
+血液系统
+当绝对中性粒细胞计数 (ANC)<0.5 × 109细胞/L 时，使用 G-CSF（粒细胞集落刺激因子）或 GM-CSF（粒细胞-巨噬细胞集落刺激因子）(↑)
+长期贫血患者的促红细胞生成剂 (↓)
+在没有非造血器官衰竭的情况下，细胞因子治疗2至3周失败后造血干细胞诱导骨髓发育不全恢复(↓)
+辐射暴露后 2 至 4 天使用氟喹诺酮或类似抗生素 (↓)
+需要时进行肠道消毒和注射抗生素 (↓)
+当怀疑暴露量 >2 Gy (↓) 时，预防性使用 5-羟色胺受体拮抗剂(↓)
+洛哌丁胺，根据需要控制腹泻 (↓)
+外用 II-III 类皮质类固醇、局部抗生素和局部抗组胺药应用于辐射烧伤、溃疡或水疱 (↑)
+在没有全身皮质类固醇使用的特定适应症的情况下，全身性皮质类固醇用于辐射烧伤、溃疡或坏死（强烈反对这种做法）
+放射性溃疡或局部坏死伴顽固性疼痛的手术切除和移植（↑）
+神经血管
+5-羟色胺受体拮抗剂、甘露醇、呋塞米和镇痛药的支持治疗 (↑)
+严重烧伤、血容量不足和/或休克患者的液体、电解质替代疗法和镇静剂 (↑)
+具有肺保护策略的机械通气用于急性呼吸衰竭患者 (↑)
+选择性口咽去污或消化道选择性去污（↓）
+将大多数重症监护患者的平均血糖维持在 140 至 180 毫克/分升（7.8 至 10 毫摩尔/升）（↓）
+H2 阻滞剂或质子泵抑制剂 (↓)
+* 支持实践的推荐强度：↑ = 强； ↓ = 弱
+Modified fromDainiak N.Medical management of acute radiation syndrome and associated infections in a high-casualty incident.J Radiat Res.59(suppl 2):ii54-ii64, 2018.doi:10.1093/jrr/rry004
+* 支持实践的推荐强度：↑ = 强； ↓ = 弱
+Modified fromDainiak N.Medical management of acute radiation syndrome and associated infections in a high-casualty incident.J Radiat Res.59(suppl 2):ii54-ii64, 2018.doi:10.1093/jrr/rry004
+作为应急准备预案的一部分，医院应制定处理受放射性物质等危险品污染的患者的流程，并配备训练有素的人员。监管和认证机构（例如，美国的州卫生部门或联合委员会）通常会强制要求制定这些计划。
+若可行，治疗区域表面可覆盖塑料布，以协助场所去污。此类准备工作绝不能优先于患者的医疗稳定措施。应准备好标有 “注意：放射性物质” 的废物容器、样本容器和盖革计数器。所有与该房间或病人接触过的设备（包括救护车设备在内）均应隔离，直至证实无辐射污染。一种例外情况是出现大规模伤亡情况时，在此期间，对被轻微污染的重要仪器设备，如直升机、救护车、创伤室和X线机、CT机、手术室等应尽可能快地去污染后再重新投入使用。
+治疗或转运患者的工作人员应遵循标准的防护措施，如穿戴帽子、防毒面具、隔离衣、手套和鞋套等。使用过的物品应放置在有特殊标记的袋子或容器中。应佩戴照射量测定仪对放射暴露进行监测。工作人员应轮班交换以使暴露降至最低，怀孕人员应撤离治疗区。
+由于大多数辐射污染者所接受的辐射剂量低，所以护理一般患者的医护人员不可能接受到超过职业限值的辐射量，即0.05Sv/年 (1)。即便是在像切尔诺贝利核反应堆事件那样的辐射伤亡的极端案例，救治患者的医护人员所接受的辐射剂量也是<0.01Sv。多个权威来源指出，为拯救生命，剂量高达 0.5 Gy 的辐射暴露可被视为可接受风险。
+
+【污染识别】
+若发现患者存在放射性污染，应立即将其隔离在指定区域（如可行），进行去污，并通知医院辐射安全官员、公共卫生官员、危险物质处理团队和执法部门，以调查放射性来源。
+外部污染应通过使用适用于被认为被放射性物质污染的患者的辐射监测仪（例如，盖革计数器）进行扫描来确定(2)。
+
+【体外去污染】
+通常先后顺序是
+脱去衣服和体外杂物
+脱去衣服和体外杂物
+清洁伤口，再清洁完整皮肤的污染
+清洁伤口，再清洁完整皮肤的污染
+首先清洁污染最重的区域
+首先清洁污染最重的区域
+使用辐射测量仪监测去污进度
+使用辐射测量仪监测去污进度
+持续去污，直到该区域辐射水平低于背景辐射的2-3倍或2次去污间污染水平不再显著下降
+持续去污，直到该区域辐射水平低于背景辐射的2-3倍或2次去污间污染水平不再显著下降
+小心脱去衣服置于有标记的容器内，以使污染范围降至最低。去除衣物后大约可清除90%的体外污染。在辐射测量仪确认前，应将异物视为污染物。
+污染伤口先于完整的皮肤去污，用生理盐水灌洗，也可用外科纱布轻柔擦拭。在多次清洗后如果仍残留污染，可在伤口边缘行小的外科清创术。无须超出创缘进行清创。然而，嵌入的放射性弹片可能具有非常高的辐射暴露率，因此应使用长镊子或类似工具将其取出并放入铅容器中。
+污染的皮肤和头发用皂液水和温和洗涤剂清洗，直至辐射测量仪显示水平降至本底水平的 2~3 倍以下，或连续清洗不再显著降低污染水平。清洗过程应保护好所有伤口，防止放射性物质进入。擦洗应充分但应避免磨破皮肤。通常需要特别注意指甲和皮肤皱褶处。若头发仍有污染，用剪刀或电动推子去除，避免剃毛。 诱发出汗（如在被污染的手上戴橡胶手套）有助于去除皮肤上残留的污染。
+烧伤处冲洗应轻柔，而不是擦洗，因为擦洗可能会增加受伤的严重程度。后续的伤口换药可有助于去除残留污染。
+被体外辐射源照射但没有受到污染的患者无需进行去污染治疗。
+
+【内部去污染】
+近期经口摄入的放射性物质，应立即行催吐或洗胃将其迅速移除。口腔污染者常用生理盐水或稀释的过氧化氢漱口。暴露的眼睛应通过将水流或生理盐水横向冲洗进行去污，并且方向应远离鼻子以避免污染鼻泪管。
+采用更特异的治疗措施的紧急性和重要性取决于放射核素的类型和数量以及其所具有的化学形式和代谢特征（如溶解度、特定靶器官的亲和性）、污染途径（如呼吸道、消化道、污染的伤口）和疗效。治疗体内污染的决定需基于潜在风险的评估；建议咨询专家（例如美国疾病控制与预防中心 (CDC)：辐射应急：临床指南与专业人员资源，美国地区的辐射应急救援中心/培训地点 [REAC/TS]，国际原子能机构：事故和应急中心）。
+从身体内去除放射性污染物(3)（排除）的方法包括
+靶器官的饱和（例如，针对碘同位素使用碘化钾[KI]）（详见美国卫生与公众服务部辐射紧急医疗管理：医疗保健提供者的诊断和治疗指南）
+靶器官的饱和（例如，针对碘同位素使用碘化钾[KI]）（详见美国卫生与公众服务部辐射紧急医疗管理：医疗保健提供者的诊断和治疗指南）
+在入口部位或体液中进行螯合治疗，随后快速排泄（如用钙或锌二乙烯三胺五乙酸 [DTPA] 处理镅、锔、钚和钇）
+在入口部位或体液中进行螯合治疗，随后快速排泄（如用钙或锌二乙烯三胺五乙酸 [DTPA] 处理镅、锔、钚和钇）
+用同位素稀释法加速放射性核素在体内的代谢（如针对氢-3的水）
+用同位素稀释法加速放射性核素在体内的代谢（如针对氢-3的水）
+在肠腔内沉淀放射性核素，随后随粪便排泄（如口服钙或铝磷酸盐溶液处理锶 - 90）
+在肠腔内沉淀放射性核素，随后随粪便排泄（如口服钙或铝磷酸盐溶液处理锶 - 90）
+在胃肠道内进行离子交换（如针对铯-137、铷-82、铊-201的普鲁士蓝）
+在胃肠道内进行离子交换（如针对铯-137、铷-82、铊-201的普鲁士蓝）
+因为一起严重的核反应堆泄漏事件可向周围环境释放核裂变产物，使得大量人群暴露于放射性碘，而经详细研究发现口服碘化钾可促进污染物排出 (4)。碘化钾使甲状腺的碘受体饱和。口服碘化钾可以防止甲状腺吸收放射性碘，而放射性碘是致病的主要原因。在最佳时间（辐射暴露前1小时）口服碘化钾的有效率为>95%。然而，随着时间的推移，其有效性会显著下降（暴露后2小时的有效性约为80%，而暴露24小时后给药则无法提供保护）。碘化钾可以以片剂形式或过饱和溶液形式给予（剂量：成人和儿童>68公斤，130毫克；3至18岁[<68公斤]，65毫克；1至36个月，32毫克；年龄<1个月，16毫克）。碘化钾只对放射性碘化物的体内污染有效，而对其他放射性元素无效。其他大部分排毒药物效果要差得多，只能使患者体内的辐射剂量减少25%-75%。碘化钾禁忌包括对碘剂过敏和某些与碘敏感相关的皮肤疾病（如疱疹样皮炎、荨麻疹性血管炎）。
+
+【特殊治疗】
+根据需要提供支持性治疗，包括休克和低氧血症的管理以及疼痛和焦虑的缓解。苯二氮䓬类药物（如劳拉西泮）常用于控制癫痫发作，止吐药（如甲氧氯普胺、丙氯拉嗪、昂丹司琼）用于控制呕吐，口服止泻药（如高岭土/果胶、洛哌丁胺）用于治疗腹泻。
+对脑血管综合征无特殊治疗方法。此病普遍致命；护理应着重于患者的舒适度。
+胃肠综合征可给予积极液体复苏和纠正电解质紊乱。应开始肠外营养以促进肠道休息。发热患者应立即开始使用广谱抗生素（如氟喹诺酮类）。脓毒性休克由严重感染引起，仍是导致死亡的最可能原因。
+造血系统综合征的治疗类似于骨髓增生不良和各种原因引起的全血细胞减少症。应输注血液制品以治疗贫血和血小板减少症，当绝对中性粒细胞计数<0.5×109细胞/L(<500细胞/mm3))时，应使用造血生长因子（粒细胞集落刺激因子和粒细胞巨噬细胞集落刺激因子）。应使用广谱抗生素治疗中性粒细胞减少症和中性粒细胞减少性发热（参见中性粒细胞减少症和淋巴细胞减少症的治疗）（5）。中性粒细胞减少症患者也应进行保护性隔离。全身辐射剂量>4Gy的患者，骨髓恢复造血的可能性很小，应尽快给予造血生长因子。非格司亭（Filgrastim）可用于治疗放射引起的骨髓抑制。造血干细胞移植术成功率有限，但如辐射暴露剂量>7~10Gy仍应予考虑。
+细胞因子可能有效 (5)。推荐药物和剂量是
+在疑似或确认暴露于超过2戈瑞的辐射剂量后，应尽快皮下注射非格司亭（粒细胞集落刺激因子[G-CSF]）
+在疑似或确认暴露于超过2戈瑞的辐射剂量后，应尽快皮下注射非格司亭（粒细胞集落刺激因子[G-CSF]）
+沙格司亭（粒细胞巨噬细胞集落刺激因子[GM-CSF]）皮下注射
+沙格司亭（粒细胞巨噬细胞集落刺激因子[GM-CSF]）皮下注射
+培非格司亭（聚乙二醇化G-CSF）皮下注射
+培非格司亭（聚乙二醇化G-CSF）皮下注射
+辐射诱发的皮肤损伤或溃疡若难以愈合时可行皮肤移植或其他外科治疗。
+除对一定疾病体征（如白内障的眼部检查、甲状腺疾病的甲状腺功能检查）进行常规监测外，没有针对特定器官损伤或癌症的特殊监测、筛查或治疗方法。
+
+【治疗参考文献】
+1.Mettler FA, Upton A.C, Hendee W.2008.Medical Effects of Ionizing Radiation: 3rd Edition.United States.https://doi.org/10.1118/1.3021455
+1.Mettler FA, Upton A.C, Hendee W.2008.Medical Effects of Ionizing Radiation: 3rd Edition.United States.https://doi.org/10.1118/1.3021455
+2.US Department of Health and Human Services.Radiation Emergency Medical Management: Guidance on Diagnosis and Treatment for Healthcare Providers.Accessed January 2, 2025.
+2.US Department of Health and Human Services.Radiation Emergency Medical Management: Guidance on Diagnosis and Treatment for Healthcare Providers.Accessed January 2, 2025.
+3.US Department of Health and Human Services.Managing Internal Radiation Contamination.Accessed January 2, 2025.
+3.US Department of Health and Human Services.Managing Internal Radiation Contamination.Accessed January 2, 2025.
+4.Centers for Disease Control and Prevention (CDC).Radiation Emergencies; Potassium Iodide (KI).Accessed January 2, 2025.
+4.Centers for Disease Control and Prevention (CDC).Radiation Emergencies; Potassium Iodide (KI).Accessed January 2, 2025.
+5.Armed Forces Radiobiology Research Institute (AFRRI).Medical Management of Radiological Casualties Handbook.5th ed.Bethesda, MD: AFRRI; 2023.Accessed January 2, 2025.
+5.Armed Forces Radiobiology Research Institute (AFRRI).Medical Management of Radiological Casualties Handbook.5th ed.Bethesda, MD: AFRRI; 2023.Accessed January 2, 2025.
+
+【放射/辐射暴露和污染的预后】
+没有医疗救治的情况下，全身暴露辐射的LD50/60（60天内致50％病人死亡的暴露剂量）约为3Gy；而>6Gy辐射剂量对人几乎是致死的。生存时间随剂量增加而缩短。脑血管综合征患者可在数小时至数天内死亡，而胃肠综合征者通常在2天至数周内死亡。造血系统综合征患者可能在4至8周内因继发的感染或大出血而死亡。
+辐射剂量<6Gy时，被暴露者有可能幸存，而存活率与总辐射量成反比。 全身辐射暴露剂量<2Gy的患者在一个月之内会完全康复，但可能会发生远期后遗症（如癌症）。
+在有医疗救治的情况下，LD-50/60 为 6 Gy。偶尔有患者在高达10Gy的剂量下仍有存活的。有严重并发症、损伤和烧伤者预后更差。
+
+【放射/辐射暴露和污染的预防】
+防护辐射暴露的方法包括
+避免放射性物质污染
+避免放射性物质污染
+尽量减少暴露时间
+尽量减少暴露时间
+尽可能远离辐射源
+尽可能远离辐射源
+屏蔽辐射源
+屏蔽辐射源
+这些原则既适用于医学辐射暴露，也适用于工业事故和辐射暴露的恐怖事件。
+
+【患者辐射暴露与污染的预防】
+放疗过程中，应尽可能用铅屏蔽靠近治疗靶区但非目标的身体部位。然而，生殖腺屏蔽不再常规推荐用于诊断性X光或计算机断层扫描（1，2）。已经确定，防护可能会干扰诊断成像，因为它可能遮挡身体的重要部位，导致需要重复检查，这可能在成像检查过程中无意中造成更高的辐射暴露。此外，成像区域附近器官所受到的主要辐射暴露来自于成像区域内组织的X射线内部散射（1，3-5）。
+
+【医务人员辐射暴露与污染的预防】
+经常接触辐射源的医务人员应遵循相关程序，尽量缩短暴露时间，与辐射源保持最大距离，并穿戴适当的防护装备。
+尽管用铅围裙或商用的透明防护装备对人进行屏蔽可有效减少影像诊断和介入检查时散射的低能量X线的暴露，但这些围裙和防护物对恐怖袭击或核反应堆泄漏时放射性核素释放的高能量gamma射线基本是无用的。在这些情况下，减少辐射暴露的措施包括启动标准预防措施、进行去污染治疗，若没有积极的防护手段应尽量与受污染患者保持距离。
+所有在辐射源附近工作的人员，若存在暴露风险>最大允许职业剂量（0.05 Sv）的10%，应佩戴剂量计徽章（6）。自读式的电子剂量计有助于监测事件期间收到的累积剂量。
+
+【公众反应】
+因核电站事件或人为投放放射性物质造成的环境大范围高剂量污染时，可通过以下措施来减少暴露
+就地避难
+就地避难
+撤离污染区域
+撤离污染区域
+应遵循何种建议取决于事件相关的多种变量，包括
+自初始释放以来经过的时间
+自初始释放以来经过的时间
+泄露是否已停止或正在进行
+泄露是否已停止或正在进行
+天气状况
+天气状况
+庇护所的可用性和类型
+庇护所的可用性和类型
+疏散条件（例如，交通、运输可用性）
+疏散条件（例如，交通、运输可用性）
+来自公共卫生部门发布的一致而简洁的信息有助于减少不必要的恐慌、减少急诊室就诊的低危险人群数量，进而避免急诊科出现过负荷的情况。此类沟通计划应在任何事件发生前制定。建议制定一项计划，通过为没有紧急医疗问题的人提供急救、净化和咨询的替代地点来减少对急诊科资源的需求。
+公共卫生官员应建议公众听从地方公共卫生官员在紧急警报通知系统中发布的建议。如有疑问，就地避难是最好的选择，直到有更多的信息可用。若建议躲避，混凝土或金属结构的中心区域（如地下室）是最佳选择。如果事件是核武器爆炸，在爆炸后的最初几个小时内，尽快找到有效的避难所，然后听从当地应急响应官员的建议。
+
+【预防药物】
+居住在核电站16公里（10英里）范围内的人应常备碘化钾片，以防核电站释放裂变副产物放射性碘。碘化钾有助于防止甲状腺吸收放射性碘（7）。碘化钾药片可在当地药店或一些公共卫生机构获得。
+辐射防护药物（如具有自由基清除特性的硫醇类化合物），在放疗前或放疗时给予接受化疗和 / 或放疗的患者，已被证明可降低死亡率。需要更多的调查来证明非医疗辐射暴露（如核电站事故）的益处。
+阿米福汀是一种强效的注射用辐射防护剂。临床上用于预防放疗患者的口腔干燥症。 不良反应包括恶心和呕吐、低血压和血清钙降低。 未出生的孩子接触这种药物可能会导致出生缺陷 (8)。
+帕利夫明是一种黏膜皮肤上皮生长因子，为实验室合成的天然人角质细胞生长因子（KGF）的改良版本（参见美国药品监督管理局：帕利夫明）。它用于减少接受高剂量化疗和放疗后进行干细胞挽救的患者患严重粘膜炎的机会，并缩短粘膜炎的持续时间。帕利夫明可与肝素发生相互作用，因此在给予帕利夫明前后，需用生理盐水冲洗静脉管路。不良反应包括皮疹、胰腺炎、发烧和外周水肿。胎儿接触该药物可能导致出生缺陷。
+
+【预防参考文献】
+1.National Council on Radiation Protection and Measurements.NCRP Recommendations for Ending Routine Gonadal Shielding During Abdominal and Pelvic Radiography.NCRP Statement No. 13.January 12, 2021.Accessed January 2, 2025.
+1.National Council on Radiation Protection and Measurements.NCRP Recommendations for Ending Routine Gonadal Shielding During Abdominal and Pelvic Radiography.NCRP Statement No. 13.January 12, 2021.Accessed January 2, 2025.
+2.National Council on Radiation Protection and Measurements.NCRP Recommendations for Ending Routine Gonadal Shielding During Abdominal and Pelvic Radiography: Companion to NCRP Statement No. 13.January 12, 2021.Accessed January 2, 2025.
+2.National Council on Radiation Protection and Measurements.NCRP Recommendations for Ending Routine Gonadal Shielding During Abdominal and Pelvic Radiography: Companion to NCRP Statement No. 13.January 12, 2021.Accessed January 2, 2025.
+3.American Association of Physicists in Medicine.Publications: Medical Physics Practice Guidelines.Accessed January 2, 2025.
+3.American Association of Physicists in Medicine.Publications: Medical Physics Practice Guidelines.Accessed January 2, 2025.
+4.American College of Radiology.Patient Gonadal and Fetal Shielding Education Module.Accessed January 2, 2025.
+4.American College of Radiology.Patient Gonadal and Fetal Shielding Education Module.Accessed January 2, 2025.
+5.American College of Radiology.NCRP Recommends Against Routine Gonadal Shielding.Accessed January 2, 2025.
+5.American College of Radiology.NCRP Recommends Against Routine Gonadal Shielding.Accessed January 2, 2025.
+6.United States Code of Federal RegulationsTitle 10.Energy § 10.20.1502 Conditions requiring individual monitoring of external and internal occupational dose.Accessed January 2, 2025.
+6.United States Code of Federal RegulationsTitle 10.Energy § 10.20.1502 Conditions requiring individual monitoring of external and internal occupational dose.Accessed January 2, 2025.
+7.United States Code of Federal RegulationsTitle 10.Energy § 10.50.47 Emergency plans.Accessed January 2, 2025.
+7.United States Code of Federal RegulationsTitle 10.Energy § 10.50.47 Emergency plans.Accessed January 2, 2025.
+8.Singh VK, Seed TM.The efficacy and safety ofamifostinefor the acute radiation syndrome.Expert Opin Drug Saf18(11):1077-1090, 2019.doi: 10.1080/14740338.2019.1666104
+8.Singh VK, Seed TM.The efficacy and safety ofamifostinefor the acute radiation syndrome.Expert Opin Drug Saf18(11):1077-1090, 2019.doi: 10.1080/14740338.2019.1666104

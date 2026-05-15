@@ -1,0 +1,54 @@
+标题：S-腺苷-L-甲硫氨酸
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/s-adenosyl-l-methionine
+============================================================
+
+S-腺苷-l-甲硫氨酸（SAMe）是甲硫氨酸的一种衍生物，也是多种合成通路的共同因子，特别是作为甲基供者。可以由体内自然产生，也可以通过合成补充剂获得。
+
+【S-腺苷甲硫氨酸（SAMe）的功效宣称】
+SAMe据说对抑郁(1–3), 骨关节炎(4–6), 胆汁淤积(7)和肝功能异常的治疗都有效(8)。此外，SAMe从机理上被证明是一种血小板抑制剂 (9)。
+
+【S-腺苷甲硫氨酸（SAMe）的证据】
+2016年Cochrane对8项试验（934名受试者）的评估发现缺乏支持SAME用于抑郁症治疗的高质量证据，并建议在高质量随机对照试验中进一步评估 (1)。 一项针对抑郁症的 SAMe 为期 8 周的随机对照试验（一项针对 49 名患者的试点研究）报告称，根据蒙哥马利-阿斯伯格抑郁量表 (MADRS)，使用 SAMe 可减少抑郁症状，该量表具有临床意义，但无统计学意义 (2)。 根据该试验中的探索性分析，SAMe 减轻了轻度抑郁症的症状。在另一项研究中，当 SAMe 与抗抑郁药联合使用时，尽管抑郁评分随时间下降，但 SAMe 治疗组和未治疗组之间没有差异 (3)。 在一项小型研究中，SAMe似乎改善了使用选择性5-羟色胺再摄取抑制剂治疗后没有减轻的抑郁症状。（SSRI) （10)。然而，另一项关于SAMe加抗抑郁药与安慰剂加抗抑郁药的研究显示，反应和缓解率的改善在统计上并不显著（3)。
+另一项涉及1522名患者的14项随机试验的大型荟萃分析报告称，S-腺苷甲硫氨酸（SAMe）缓解抑郁症状的效果可能与艾司西酞普兰或丙咪嗪相当。然而，使用的剂量或研究持续时间缺乏一致性（11）。世界生物精神病学学会联合会（WFSBP）和加拿大情绪与焦虑治疗网络（CANMAT）的临床实践指南指出，较低剂度的S-腺苷甲硫氨酸单一疗法可能对治疗抑郁症无益，但较高剂量作为辅助治疗可能有益（12）。
+一项针对骨关节炎患者的荟萃分析表明，S-腺苷甲硫氨酸在减轻骨关节炎相关功能限制方面比安慰剂更有效（6）。此外，在此分析评估的两项研究中，SAMe与非甾体抗炎药（NSAIDs）疗效相当，但没有NSAIDs常见的不良反应。然而，后续一项针对 656 名患者的 4 项试验的Cochrane 综述显示，其对膝关节或髋关节骨关节炎的结果不一致 (4)。
+在推荐补充SAMe治疗抑郁症、肝病或骨关节炎之前，需要对标准化补充剂进行更多高质量的研究。
+
+【SAMe的不良反应】
+除非使用更高剂量，否则尚未报告任何严重不良反应。
+萨姆的不良反应并不常见，当它们发生时，通常是一些小问题，如恶心、气体、腹泻、便秘、口干或头痛。
+SAMe的禁忌证是情感双向障碍，因为SAMe可引起躁狂发作。
+
+【SAMe的药物相互作用】
+应注意与SAMe联合使用的抗抑郁药物，因为两者都会增加血清素水平，可能导致血清素综合征等不良反应。
+SAMe也可能使左旋多巴甲基化，从而降低左旋多巴的水平，并削弱旨在通过增加左旋多巴水平来治疗帕金森病的药物的有效性。
+
+【参考文献】
+1.Galizia I, Oldani L, Macritchie K, et al.S-adenosyl methionine (SAMe) for depression in adults (review).Cochrane Database Syst Rev.10:CD011286, 2016.doi: 10.1002/14651858.CD011286.pub2
+1.Galizia I, Oldani L, Macritchie K, et al.S-adenosyl methionine (SAMe) for depression in adults (review).Cochrane Database Syst Rev.10:CD011286, 2016.doi: 10.1002/14651858.CD011286.pub2
+2.Sarris J, Murphy J, Stough C, et al.S-adenosylmethionine (SAMe) monotherapy for depression: an 8-week double-blind, randomised, controlled trial.Psychopharmacology (Berl).237(1):209-218, 2020.doi: 10.1007/s00213-019-05358-1
+2.Sarris J, Murphy J, Stough C, et al.S-adenosylmethionine (SAMe) monotherapy for depression: an 8-week double-blind, randomised, controlled trial.Psychopharmacology (Berl).237(1):209-218, 2020.doi: 10.1007/s00213-019-05358-1
+3.Sarris, Byrne GJ, Bousman C, et al.Adjunctive S-adenosylmethionine (SAMe) in treating non-remittent major depressive disorder: an 8-week double-blind, randomized, controlled trial.Eur Neuropsychopharmacol.28(10):1126-1136, 2018.doi: 10.1016/j.euroneuro.2018.07.098
+3.Sarris, Byrne GJ, Bousman C, et al.Adjunctive S-adenosylmethionine (SAMe) in treating non-remittent major depressive disorder: an 8-week double-blind, randomized, controlled trial.Eur Neuropsychopharmacol.28(10):1126-1136, 2018.doi: 10.1016/j.euroneuro.2018.07.098
+4.Rutjes AW, Nüesch E, Reichenbach S, et al.S-Adenosylmethionine for osteoarthritis of the knee or hip.Cochrane Database Syst Rev.(4) CD007321, 2009.doi: 10.1002/14651858.CD007321.pub2
+4.Rutjes AW, Nüesch E, Reichenbach S, et al.S-Adenosylmethionine for osteoarthritis of the knee or hip.Cochrane Database Syst Rev.(4) CD007321, 2009.doi: 10.1002/14651858.CD007321.pub2
+5.De Silva V, El-Metwally A, Ernst E, et al; Arthritis Research UK Working Group on Complementary and Alternative Medicines.Evidence for the efficacy of complementary and alternative medicines in the management of osteoarthritis: a systematic review.Rheumatology (Oxford).50(5):911-920, 2011.doi: 10.1093/rheumatology/keq379
+5.De Silva V, El-Metwally A, Ernst E, et al; Arthritis Research UK Working Group on Complementary and Alternative Medicines.Evidence for the efficacy of complementary and alternative medicines in the management of osteoarthritis: a systematic review.Rheumatology (Oxford).50(5):911-920, 2011.doi: 10.1093/rheumatology/keq379
+6.Soeken KL, Lee WL, Bausell RB, et al.Safety and efficacy of S-adenosylmethionine (SAMe) for osteoarthritis.J Fam Pract.51(5):425-430, 2002.
+6.Soeken KL, Lee WL, Bausell RB, et al.Safety and efficacy of S-adenosylmethionine (SAMe) for osteoarthritis.J Fam Pract.51(5):425-430, 2002.
+7.Walker KF, Chappell LC, Hague WM, Middleton P, Thornton JG.Pharmacological interventions for treating intrahepatic cholestasis of pregnancy.Cochrane Database Syst Rev.2020 Jul 27;7(7):CD000493.doi: 10.1002/14651858.CD000493.pub3
+7.Walker KF, Chappell LC, Hague WM, Middleton P, Thornton JG.Pharmacological interventions for treating intrahepatic cholestasis of pregnancy.Cochrane Database Syst Rev.2020 Jul 27;7(7):CD000493.doi: 10.1002/14651858.CD000493.pub3
+8.Rambaldi A, Gluud C.S-adenosyl-L-methionine for alcoholic liver diseases.Cochrane Database Syst Rev.(2):CD002235, 2006.doi: 10.1002/14651858.CD002235.pub2
+8.Rambaldi A, Gluud C.S-adenosyl-L-methionine for alcoholic liver diseases.Cochrane Database Syst Rev.(2):CD002235, 2006.doi: 10.1002/14651858.CD002235.pub2
+9.De la Cruz JP, Mérida M, González-Correa JA, et al.Effects of S-adenosyl-L-methionine on blood platelet activation.Gen Pharmacol.29(4):651-655, 1997.doi:10.1016/s0306-3623(96)00571-x
+9.De la Cruz JP, Mérida M, González-Correa JA, et al.Effects of S-adenosyl-L-methionine on blood platelet activation.Gen Pharmacol.29(4):651-655, 1997.doi:10.1016/s0306-3623(96)00571-x
+10.Papakostas GI, Mischoulon D, Shyu I, et al.S-adenosyl methionine (SAMe) augmentation of serotonin reuptake inhibitors for antidepressant nonresponders with major depressive disorder: a double-blind, randomized clinical trial.Am J Psychiatry.167(8):942-948, 2010.doi:10.1176/appi.ajp.2009.09081198
+10.Papakostas GI, Mischoulon D, Shyu I, et al.S-adenosyl methionine (SAMe) augmentation of serotonin reuptake inhibitors for antidepressant nonresponders with major depressive disorder: a double-blind, randomized clinical trial.Am J Psychiatry.167(8):942-948, 2010.doi:10.1176/appi.ajp.2009.09081198
+11.Peng TR, Cheng HY, Wu TW.S-Adenosylmethionine (SAMe) as an adjuvant therapy for patients with depression: An updated systematic review and meta-analysis.Gen Hosp Psychiatry.2024 Jan-Feb;86:118-126.doi: 10.1016/j.genhosppsych.2024.01.001
+11.Peng TR, Cheng HY, Wu TW.S-Adenosylmethionine (SAMe) as an adjuvant therapy for patients with depression: An updated systematic review and meta-analysis.Gen Hosp Psychiatry.2024 Jan-Feb;86:118-126.doi: 10.1016/j.genhosppsych.2024.01.001
+12.Sarris J, Ravindran A, Yatham LN, et al.Clinician guidelines for the treatment of psychiatric disorders with nutraceuticals and phytoceuticals: The World Federation of Societies of Biological Psychiatry (WFSBP) and Canadian Network for Mood and Anxiety Treatments (CANMAT) Taskforce.World J Biol Psychiatry.2022 Jul;23(6):424-455.doi: 10.1080/15622975.2021.2013041.Epub 2022 Mar 21.PMID: 35311615.
+12.Sarris J, Ravindran A, Yatham LN, et al.Clinician guidelines for the treatment of psychiatric disorders with nutraceuticals and phytoceuticals: The World Federation of Societies of Biological Psychiatry (WFSBP) and Canadian Network for Mood and Anxiety Treatments (CANMAT) Taskforce.World J Biol Psychiatry.2022 Jul;23(6):424-455.doi: 10.1080/15622975.2021.2013041.Epub 2022 Mar 21.PMID: 35311615.
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: S-Adenosyl-L-Methionine (SAMe): In Depth
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: S-Adenosyl-L-Methionine (SAMe): In Depth

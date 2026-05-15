@@ -1,0 +1,15 @@
+标题：鼻腔细菌感染
+来源：https://www.msdmanuals.cn/professional/ear-nose-and-throat-disorders/nose-and-paranasal-sinus-disorders/bacterial-nasal-infections
+============================================================
+
+鼻前庭炎是鼻前庭部的细菌感染，通常由Staphylococcus aureus（金黄色葡萄球菌）引起。这可能是由于挖鼻孔或过度擤鼻涕造成的（1）。在部分癌症患者中，鼻前庭炎可能作为表皮生长因子受体抑制剂（EGFRIs）和血管内皮生长因子（VEGF）相关疗法的副作用出现（2）。它主要会导致恼人的鼻痂，并且痂脱落时会出血。还可能出现红斑、肿胀和疼痛。莫匹罗星软膏局部外用，每日2次，持续14天，是一种有效的治疗方案。并发症罕见。
+鼻前庭疖是鼻前庭内毛囊（鼻毛）的感染。感染通常由葡萄球菌引起；若皮肤或鼻黏膜定植金黄色葡萄球菌，则毛囊炎或疖病复发风险更高。疖可能发展为鼻尖蔓延性蜂窝织炎，有时称为鲁道夫征。可以给予全身性抗葡萄球菌抗生素（例如头孢氨苄）并可以应用热敷（每天 3 次，每次 15 至 20 分钟）和外用莫匹罗星。
+治疗由社区获得性耐甲氧西林S. aureus（金黄色葡萄球菌）（MRSA）引起的疖肿应根据培养和药敏试验结果进行。通常情况下，克林霉素、甲氧苄啶/磺胺甲恶唑和多西环素对大多数菌株有效 (3)。疖肿可以切开引流，以防止局部血栓性静脉炎和随后的海绵窦血栓形成。
+
+【参考文献】
+1.Lipschitz N, Yakirevitch A, Sagiv D, et al.Nasal vestibulitis: etiology, risk factors, and clinical characteristics: A retrospective study of 118 cases.Diagn Microbiol Infect Dis.2017;89(2):131-134.doi:10.1016/j.diagmicrobio.2017.06.007
+1.Lipschitz N, Yakirevitch A, Sagiv D, et al.Nasal vestibulitis: etiology, risk factors, and clinical characteristics: A retrospective study of 118 cases.Diagn Microbiol Infect Dis.2017;89(2):131-134.doi:10.1016/j.diagmicrobio.2017.06.007
+2.Cathcart-Rake E, Smith D, Zahrieh D, et al.Nasal vestibulitis: an under-recognized and under-treated side effect of cancer treatment?.Support Care Cancer.2018;26(11):3909-3914.doi:10.1007/s00520-018-4261-7
+2.Cathcart-Rake E, Smith D, Zahrieh D, et al.Nasal vestibulitis: an under-recognized and under-treated side effect of cancer treatment?.Support Care Cancer.2018;26(11):3909-3914.doi:10.1007/s00520-018-4261-7
+3.Stryjewski ME, Chambers HF.Skin and soft-tissue infections caused by community-acquired methicillin-resistant Staphylococcus aureus.Clin Infect Dis.2008;46 Suppl 5:S368-S377.doi:10.1086/533593
+3.Stryjewski ME, Chambers HF.Skin and soft-tissue infections caused by community-acquired methicillin-resistant Staphylococcus aureus.Clin Infect Dis.2008;46 Suppl 5:S368-S377.doi:10.1086/533593

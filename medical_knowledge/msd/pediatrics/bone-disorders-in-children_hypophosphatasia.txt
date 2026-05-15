@@ -1,0 +1,56 @@
+标题：低磷酸酯酶症
+来源：https://www.msdmanuals.cn/professional/pediatrics/bone-disorders-in-children/hypophosphatasia
+============================================================
+
+低磷酸酯酶症是一种遗传性代谢性疾病，其特征是血清碱性磷酸酶缺乏或低水平，导致表型多样性（即临床疾病谱），范围从轻微到严重。它是由编码组织非特异性碱性磷酸酶（TNSALP）的ALPL基因功能丧失突变引起的。
+关于低磷酸酯酶症的发生率或患病率的数据有限。在20世纪50年代加拿大的一个经常被引用的10年病例系列中，低磷酸酯酶症的总体发病率估计为1/100,000（1）。然而，2000年至2009年在法国进行的另一项考虑表型变异的研究估计，重度（常染色体隐性）形式的患病率为1/30万，中度形式的患病率为1/ 6370（2）。
+在低磷酸酯酶症中，TNSALP对无机焦磷酸盐的水解缺陷导致其积累。无机焦磷酸盐是羟基磷灰石形成的有效抑制剂，从而导致骨骼和牙齿矿化受损（3）。TNSALP 的缺乏还会影响吡哆醛-5'-磷酸的代谢，吡哆醛-5'-磷酸是维生素 B6 的活性形式，导致细胞内维生素 B6 缺乏、高血清 B6 水平以及全身性癫痫发作的可能性。
+
+【参考文献】
+1.Fraser D.Hypophosphatasia.Am J Med.1957;22(5):730-746.doi:10.1016/0002-9343(57)90124-9
+1.Fraser D.Hypophosphatasia.Am J Med.1957;22(5):730-746.doi:10.1016/0002-9343(57)90124-9
+2.Mornet E, Taillandier A, Domingues C, et al.Hypophosphatasia: a genetic-based nosology and new insights in genotype-phenotype correlation.Eur J Hum Genet.2021;29(2):289-299.doi:10.1038/s41431-020-00732-6
+2.Mornet E, Taillandier A, Domingues C, et al.Hypophosphatasia: a genetic-based nosology and new insights in genotype-phenotype correlation.Eur J Hum Genet.2021;29(2):289-299.doi:10.1038/s41431-020-00732-6
+3.Khan AA, Brandi ML, Rush ET, et al.Hypophosphatasia diagnosis: current state of the art and proposed diagnostic criteria for children and adults [published correction appears inOsteoporos Int. 2024 May;35(5):933-934. doi: 10.1007/s00198-024-07048-x.].Osteoporos Int.2024;35(3):431-438.doi:10.1007/s00198-023-06844-1
+3.Khan AA, Brandi ML, Rush ET, et al.Hypophosphatasia diagnosis: current state of the art and proposed diagnostic criteria for children and adults [published correction appears inOsteoporos Int. 2024 May;35(5):933-934. doi: 10.1007/s00198-024-07048-x.].Osteoporos Int.2024;35(3):431-438.doi:10.1007/s00198-023-06844-1
+
+【低磷酸酯酶症的症状和体征】
+低磷酸酯酶症的临床表现多样。这些包括早期掉牙（尤其是如果掉落的牙齿根部完好无损）和佝偻病。
+病情严重的患者可能出现呕吐、体重增加不足和/或癫痫发作。
+
+【低磷酸酯酶症的诊断】
+血清碱性磷酸酶降低和吡哆醛-5'-磷酸或维生素 B6 升高
+血清碱性磷酸酶降低和吡哆醛-5'-磷酸或维生素 B6 升高
+影像学研究（产前超声、X光片）
+影像学研究（产前超声、X光片）
+基因检测
+基因检测
+临床表现和血清碱性磷酸酶水平降低以及吡哆醛-5'-磷酸或维生素 B6 水平升高的实验室结果提示诊断（1）。
+其他实验室检查结果，如高钙血症、高磷血症和高钙尿症，在严重的婴儿型患者中更为常见，其中骨矿化明显不良；然而，并非所有患者都有这些发现。
+影像学检查，包括产前超声和儿童及成人的普通 X 光片，可能会显示出特征性结果，如骨骼低矿化、佝偻病或骨软化症，这些结果支持诊断（2）。
+对ALPL基因中的致病变异进行基因检测，可用于低磷酸酯酶症（3）的诊断确认，特别是有助于产前诊断，以及用于非典型表现患者或复发风险评估。
+
+【诊断参考】
+1.Whyte MP.Hypophosphatasia - aetiology, nosology, pathogenesis, diagnosis and treatment.Nat Rev Endocrinol.2016;12(4):233-246.doi:10.1038/nrendo.2016.14
+1.Whyte MP.Hypophosphatasia - aetiology, nosology, pathogenesis, diagnosis and treatment.Nat Rev Endocrinol.2016;12(4):233-246.doi:10.1038/nrendo.2016.14
+2.Mannes I, Rothenbuhler A, Merzoug V, Di Rocco F, Linglart A, Adamsbaum C.Imaging patterns in pediatric hypophosphatasia.Pediatr Radiol.2022;52(5):998-1006.doi:10.1007/s00247-021-05232-3
+2.Mannes I, Rothenbuhler A, Merzoug V, Di Rocco F, Linglart A, Adamsbaum C.Imaging patterns in pediatric hypophosphatasia.Pediatr Radiol.2022;52(5):998-1006.doi:10.1007/s00247-021-05232-3
+3.Fenn JS, Lorde N, Ward JM, Borovickova I.Hypophosphatasia.J Clin Pathol.2021;74(10):635-640.doi:10.1136/jclinpath-2021-207426
+3.Fenn JS, Lorde N, Ward JM, Borovickova I.Hypophosphatasia.J Clin Pathol.2021;74(10):635-640.doi:10.1136/jclinpath-2021-207426
+
+【低磷酸酯酶症的治疗】
+可能使用阿法骨化酶
+可能使用阿法骨化酶
+癫痫发作时，可能需要维生素 B6
+癫痫发作时，可能需要维生素 B6
+对于疑似低磷酸酯酶症的患者，转诊到儿科内分泌科医生进行进一步评估并考虑使用阿法骨化酶治疗是合适的。阿法骨化酶是一种携带 TNSALP 催化结构域的重组蛋白。该药每周皮下注射1至3次。
+对于伴有癫痫发作的低磷酸酯酶症患者，转诊到儿科神经科医生是合适的。高剂量的维生素 B6 可以减少癫痫发作，因为尽管患者通常具有升高的循环吡哆醛-5'-磷酸 (PLP)，但组织非特异性碱性磷酸酶（由ALPL基因编码）的缺乏会阻止足够的吡哆醛进入大脑。这会在中枢神经系统中造成活性维生素 B6的功能性缺乏，从而损害神经递质的合成并导致癫痫发作 (1)。补充维生素B6（吡哆醇或磷酸吡哆醛）绕过这一障碍，恢复大脑PLP，并有助于控制癫痫发作。
+非甾体抗炎药 (NSAID) 可减轻骨痛。 应采取适当的牙齿护理和骨折预防措施，以防止疾病并发症。输注碱性磷酸酶和造血干细胞移植的作用有限。
+
+【Treatment reference】
+1.Whyte MP.Hypophosphatasia - aetiology, nosology, pathogenesis, diagnosis and treatment.Nat Rev Endocrinol.2016;12(4):233-246.doi:10.1038/nrendo.2016.14
+1.Whyte MP.Hypophosphatasia - aetiology, nosology, pathogenesis, diagnosis and treatment.Nat Rev Endocrinol.2016;12(4):233-246.doi:10.1038/nrendo.2016.14
+
+【低磷酸酯酶症的预后】
+神经发育通常与年龄相符。
+在婴儿期存活下来的患者或表现出不太严重的表型的患者通常有持续的骨骼畸形和身材矮小。

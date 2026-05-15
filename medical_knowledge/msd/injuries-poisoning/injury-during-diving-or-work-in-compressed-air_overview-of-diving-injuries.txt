@@ -1,0 +1,14 @@
+标题：潜水伤概述
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/injury-during-diving-or-work-in-compressed-air/overview-of-diving-injuries
+============================================================
+
+与深水潜水相关的伤害与严重受伤或死亡的相对较高的风险相关，通常是由于压缩空气对肺部的影响。在美国，潜水相关损伤每年导致逾1300例急诊就诊，每1000例就诊中有47例死亡（1）。类似的伤害也发生在在隧道或沉箱（建筑中的密封防水的结构）中工作的工人身上，在这些工作场所，会利用压缩气体把水排出去。
+许多损伤与高压有关，在深水或沉箱中，高压来自于水深压力加上水面的大气压力。在10m（33英尺）深度，海水产生的压力相当于标准海平面大气压力，即1.03kg/cm2（14.7磅/平方英寸）、760mmHg或1个绝对大气压（atm abs）；因此在10m深度总压力为2个绝对大气压。每下降10米增加1个绝对大气压。
+人体腔隙中的气体量与外在压力成反比；由于压力变化导致气体量的增多或减少所产生直接的机械性力量可破坏机体多个组织（气压伤）。当周围压力增加时溶于血流中的气体量也增多。增多的气体含量可导致直接损伤（如氮气麻醉，氧中毒）或上升过程中过饱和的血流或组织减压时释放氮气气泡产生间接损伤（减压病）。动脉气体栓塞可由气压伤或减压引起。术语减压病指减压病或动脉气体栓塞。
+在某些医学疾病中，当患者处于深水时，症状更容易出现，这可能导致患者失去活动能力或无法辨别方向，从而导致溺水（见表格潜水的特殊医疗禁忌证）。
+在美国，处理潜水或压缩空气损伤患者的临床医生可联系潜水员警报网：紧急情况请拨打919-684-9111，其他信息请拨打919-684-2948。医生之间的咨询可通过杜克潜水医学: 919-684-8111 获得。
+其他水上相关损伤（如溺水和低体温症）将单独讨论。
+
+【参考文献】
+1.Buzzacott P, Schiller D, Crain J, Denoble PJ.Epidemiology of morbidity and mortality in US and Canadian recreational scuba diving.Public Health.2018;155:62-68.doi:10.1016/j.puhe.2017.11.011
+1.Buzzacott P, Schiller D, Crain J, Denoble PJ.Epidemiology of morbidity and mortality in US and Canadian recreational scuba diving.Public Health.2018;155:62-68.doi:10.1016/j.puhe.2017.11.011

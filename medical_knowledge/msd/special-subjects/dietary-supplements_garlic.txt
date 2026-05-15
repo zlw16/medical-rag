@@ -1,0 +1,51 @@
+标题：大蒜
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/garlic
+============================================================
+
+大蒜 （大蒜）球茎被提取并制成片剂，粉剂和油剂的形式;主要的活性成分是蒜素或S-烯丙基半胱氨酸，一种氨基酸副产物。大蒜也可生吃或煮熟后食用。因为捣碎使得活性成分被破坏和变得不稳定，因而在各种形式的大蒜中活性成分的量的变化很大。补充剂最好由活性化合物的量进行标准化。 陈蒜提取物（AGE），用至少20个月的大蒜提取制成，具有比大多数形式的大蒜更稳定的活性化合物。服用这种形式的大蒜补充剂明显对身体具有最大的益处和最少的副作用。
+
+【大蒜的功效宣称】
+据说大蒜对几个心脏风险因素有有利的影响，包括降低血压和血清脂质和葡萄糖水平；蒜在体外能抑制血小板。据说大蒜还可以预防喉癌、胃癌、结肠直肠癌、子宫内膜癌和腺瘤性大肠息肉。大蒜也被认为可以预防普通感冒和治疗非酒精性脂肪性肝病（NAFLD）。
+
+【大蒜的证据】
+大蒜对心血管疾病风险因素的影响已在多项研究中得到评估。一项对12项随机试验的荟萃分析发现，大蒜可能对高密度脂蛋白（HDL）和冠状动脉钙化评分产生有益影响（1）。
+一些研究表明，大蒜补充剂可降低血压，但证据并不一致。例如，一项包含 20 项试验（970 名患者）的大型荟萃分析显示，研究持续时间从 2 周到 24 周不等，服用各种大蒜制剂（例如大蒜粉、陈年大蒜提取物 (AGE)）的患者，其平均收缩压和舒张压分别降低了 5.1 毫米汞柱和 2.5 毫米汞柱 (2)。另一项针对12项随机试验（共553例高血压患者）的荟萃分析显示，在至少持续2个月的干预后，患者收缩压平均降低8.3 mm Hg，舒张压平均降低5.5 mm Hg（3）。然而，其他荟萃分析报告称，没有统计学上显著的降血压效果（1）。
+关于大蒜补充剂降低血脂效果的研究结果并不一致。一项纳入 39 项随机研究（2298 名参与者）的 Meta 分析发现，大蒜可使总胆固醇降低 17 mg/dL（0.4 mmol/L），低密度脂蛋白胆固醇（LDL-C）降低 9 mg/dL（0.2 mmol/L）（4）。
+2015年对7项研究（513名受试者）进行的荟萃分析证实了大蒜在降低空腹血糖方面的功效 (5)。2019年一项针对1273名糖尿病患者的33项研究荟萃分析发现，血脂参数和空腹血糖得到改善，糖化血红蛋白A1C小幅下降（6）。
+一项随机安慰剂对照试验发现，蒜可以改善代谢功能障碍相关脂肪肝病（MASLD，以前称为非酒精性脂肪肝病 [NAFLD]）患者的肝脏脂肪变性，超声检查结果的变化可以证明这一点。大蒜还能显著降低体重和肝酶的含量（7)。
+无论是摄入大蒜或服用大蒜补充剂的科学证据均表明对抵抗癌症作用有限或根本没有预防作用。一项评估大蒜摄入量与结直肠癌发病率关系的系统回顾和荟萃分析未发现任何保护作用(8)。
+体外研究表明大剂量食用大蒜具有普遍的抗菌作用 （9）。在一项随机试验中，146 名参与者接受了含有蒜素的大蒜补充剂或安慰剂治疗，每日 1 粒胶囊，持续 12 周。在12周的研究中，接受蒜治疗的人的感冒次数明显少于安慰剂组（24次对65次，P < .001）。作者得出结论，含有大蒜素的补充剂可以防止普通感冒病毒的攻击(10)。
+这些研究中的大部分缺乏关于补充剂和/或补充剂活性成分含量的具体描述，这部分内容对不同的结果又影响。
+
+【大蒜的不良反应】
+可能会出现呼吸和身体异味及恶心；大剂量可能导致口、食管和胃的烧灼感。
+
+【大蒜的药物相互作用】
+理论上，易出血或服用降压药、抗血小板药或华法林的使用者为禁忌同时服用蒜。大蒜可以降低血清沙奎那维的水平。大蒜可能与降低血糖水平的药物相互作用，从而可能导致低血糖症。(参考表一些可能的膳食补充剂-药物相互作用。）
+
+【参考文献】
+1.Gadidala SK, Johny E, Thomas C, Nadella M, Undela K, Adela R.Effect of garlic extract on markers of lipid metabolism and inflammation in coronary artery disease (CAD) patients: A systematic review and meta-analysis.Phytother Res.2023 Jun;37(6):2242-2254.doi: 10.1002/ptr.7729
+1.Gadidala SK, Johny E, Thomas C, Nadella M, Undela K, Adela R.Effect of garlic extract on markers of lipid metabolism and inflammation in coronary artery disease (CAD) patients: A systematic review and meta-analysis.Phytother Res.2023 Jun;37(6):2242-2254.doi: 10.1002/ptr.7729
+2.Ried K.Garliclowers blood pressure in hypertensive individuals, regulates serum cholesterol, and stimulates immunity: an updated meta-analysis and review.J Nutr.146(2):389S-396S, 2016.doi: 10.3945/jn.114.202192
+2.Ried K.Garliclowers blood pressure in hypertensive individuals, regulates serum cholesterol, and stimulates immunity: an updated meta-analysis and review.J Nutr.146(2):389S-396S, 2016.doi: 10.3945/jn.114.202192
+3.Ried K.Garlic lowers blood pressure in hypertensive subjects, improves arterial stiffness and gut microbiota: a review and meta-analysis.Exp Ther Med.19(2):1472-1478, 2020.doi:10.3892/etm.2019.8374
+3.Ried K.Garlic lowers blood pressure in hypertensive subjects, improves arterial stiffness and gut microbiota: a review and meta-analysis.Exp Ther Med.19(2):1472-1478, 2020.doi:10.3892/etm.2019.8374
+4.Ried K, Toben C, Fakler P.Effect ofgarlicon serum lipids: an updated meta-analysis.Nutr Rev .71(5):282-299, 2013.doi: 10.1111/nure.12012
+4.Ried K, Toben C, Fakler P.Effect ofgarlicon serum lipids: an updated meta-analysis.Nutr Rev .71(5):282-299, 2013.doi: 10.1111/nure.12012
+5.Hou LQ, Liu YH, Zhang YY.Garlicintake lowers fasting blood glucose: meta-analysis of randomized controlled trials.Asia Pac J Clin Nutr.24(4):575-582, 2015.doi: 10.6133/apjcn.2015.24.4.15
+5.Hou LQ, Liu YH, Zhang YY.Garlicintake lowers fasting blood glucose: meta-analysis of randomized controlled trials.Asia Pac J Clin Nutr.24(4):575-582, 2015.doi: 10.6133/apjcn.2015.24.4.15
+6.Shabani E, Sayemiri K, Mohammadpour M.The effect of garlic on lipid profile and glucose parameters in diabetic patients: A systematic review and meta-analysis.Prim Care Diabetes.2019 Feb;13(1):28-42.doi: 10.1016/j.pcd.2018.07.007
+6.Shabani E, Sayemiri K, Mohammadpour M.The effect of garlic on lipid profile and glucose parameters in diabetic patients: A systematic review and meta-analysis.Prim Care Diabetes.2019 Feb;13(1):28-42.doi: 10.1016/j.pcd.2018.07.007
+7.Soleimani D, Paknahad Z, Rouhani MH.Therapeutic effects ofgarlicon hepatic steatosis in nonalcoholic fatty liver disease patients: a randomized clinical trial.Diabetes Metab Syndr Obes.13:2389-2397, 2020.doi:10.2147/DMSO.S254555
+7.Soleimani D, Paknahad Z, Rouhani MH.Therapeutic effects ofgarlicon hepatic steatosis in nonalcoholic fatty liver disease patients: a randomized clinical trial.Diabetes Metab Syndr Obes.13:2389-2397, 2020.doi:10.2147/DMSO.S254555
+8.Chiavarini M, Minelli L, Fabiani R.Garlicconsumption and colorectal cancer risk in man: a systematic review and meta-analysis.Public Health Nutr.19(2):308-317, 2016.doi: 10.1017/S1368980015001263
+8.Chiavarini M, Minelli L, Fabiani R.Garlicconsumption and colorectal cancer risk in man: a systematic review and meta-analysis.Public Health Nutr.19(2):308-317, 2016.doi: 10.1017/S1368980015001263
+9.Filocamo A, Nueno-Palop C, Bisignano C, et al.Effect ofgarlicpowder on the growth of commensal bacteria from the gastrointestinal tract.Phytomedicine.19(8-9):707-711, 2012.doi: 10.1016/j.phymed.2012.02.018
+9.Filocamo A, Nueno-Palop C, Bisignano C, et al.Effect ofgarlicpowder on the growth of commensal bacteria from the gastrointestinal tract.Phytomedicine.19(8-9):707-711, 2012.doi: 10.1016/j.phymed.2012.02.018
+10.Josling P.Preventing the common cold with agarlicsupplement: a double-blind, placebo-controlled survey.Adv Ther.18(4):189-193, 2001.doi:10.1007/BF02850113
+10.Josling P.Preventing the common cold with agarlicsupplement: a double-blind, placebo-controlled survey.Adv Ther.18(4):189-193, 2001.doi:10.1007/BF02850113
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Garlic
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Garlic

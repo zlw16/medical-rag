@@ -1,0 +1,160 @@
+标题：坏死性小肠结肠炎
+来源：https://www.msdmanuals.cn/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/necrotizing-enterocolitis
+============================================================
+
+绝大多数坏死性小肠结肠炎 (NEC) 病例发生在早产儿中，其中 85% 的婴儿出生时体重 < 1.5 千克或胎龄 < 32 周（1）。据报道，新生儿重症监护病房 (NICU) 收治的所有新生儿中，NEC 的发生率为 6% 至 15%（2,3）。
+
+【坏死性小肠结肠炎的危险因素】
+除早产外，NEC的一般风险因素包括以下内容：
+胎膜早破时间过长伴羊膜炎
+胎膜早破时间过长伴羊膜炎
+出生窒息
+出生窒息
+小于胎龄儿
+小于胎龄儿
+先天性心脏病
+先天性心脏病
+换血疗法
+换血疗法
+肠道微生物组的改变（生态失调）
+肠道微生物组的改变（生态失调）
+非母乳喂养
+非母乳喂养
+三个肠道因素通常存在：
+先前的缺血损伤
+先前的缺血损伤
+细菌定植
+细菌定植
+腔内基质（即，肠内喂养）
+腔内基质（即，肠内喂养）
+
+【参考文献】
+1.Sharma R, Hudak ML.A clinical perspective of necrotizing enterocolitis: past, present, and future.Clin Perinatol.2013;40(1):27-51.doi:10.1016/j.clp.2012.12.012
+1.Sharma R, Hudak ML.A clinical perspective of necrotizing enterocolitis: past, present, and future.Clin Perinatol.2013;40(1):27-51.doi:10.1016/j.clp.2012.12.012
+2.Alene T, Feleke MG, Yeshambel A, et al.Time to occurrence of necrotizing enterocolitis and its predictors among low birth weight neonates admitted at neonatal intensive care unit of felege hiwot compressive specialized hospital BahirDar, Ethiopia, 2021: A retrospective follow-up study.Front Pediatr.2022;10:959631, 2022.doi:10.3389/fped.2022.959631
+2.Alene T, Feleke MG, Yeshambel A, et al.Time to occurrence of necrotizing enterocolitis and its predictors among low birth weight neonates admitted at neonatal intensive care unit of felege hiwot compressive specialized hospital BahirDar, Ethiopia, 2021: A retrospective follow-up study.Front Pediatr.2022;10:959631, 2022.doi:10.3389/fped.2022.959631
+3.Caplan M, Portman R. Second Annual Neonatal Scientific Workshop at the EMA Report. London: International Neonatal Consortium, 2016.
+3.Caplan M, Portman R. Second Annual Neonatal Scientific Workshop at the EMA Report. London: International Neonatal Consortium, 2016.
+
+【坏死性小肠结肠炎的病因】
+新生儿坏死性小肠结肠炎的确切病因尚不明确。然而，未成熟肠道的通透性增加和免疫功能不成熟是诱发因素。普遍认为肠缺血损害可破坏肠黏膜使肠道通透性增加，易受细菌侵袭。肠内喂养前很少发生坏死性小肠结肠炎，并且在母乳喂养的婴儿中较不常见。一旦开始喂养，为肠道细菌繁殖提供了充足的底物，而细菌可渗透过肠壁，产生氢气。气体可能积聚在肠壁内（肠壁囊样积气征）或进入门静脉。生态失调（肠道微生物群的改变），例如在用抗生素或抑酸药物治疗后发生的失调，也可能是一个促成因素，因为它会增加潜在的致病菌。
+缺血性损害可由于缺氧性损害所触发的原始潜水反射引起的肠系膜动脉痉挛，导致肠道的血流明显减少。肠道缺血也可能由换血过程中血流减少、脓毒症或使用高渗配方奶引起。同样，伴有全身血流减少或动脉血氧饱和度降低的先天性心脏病，即使在足月儿中，也可能导致肠道缺氧/缺血，从而易发生坏死性小肠结肠炎（NEC）。
+坏死性小肠结肠炎可在新生儿重症监护室中成群发生或暴发流行。一些成群发生的病例似乎与特定的病原体有关（例如，Klebsiella（克雷白氏杆菌）、Escherichia coli（大肠杆菌）、Coagulase negative staphylococci（凝固酶阴性葡萄球菌）、Pseudomonas（假单胞菌）、Clostridioides difficile（艰难梭菌）），但通常没有发现特定的病原体。
+
+【坏死性小肠结肠炎的症状和体征】
+婴儿可能出现喂养困难和血性或胆汁性胃潴留（喂养后），可能发展为胆汁性呕吐、表现为腹胀的肠梗阻、腹部皮肤变色或粪便中带血。
+败血症可表现为嗜睡、体温不稳定、呼吸暂停发作增加和代谢性酸中毒。
+
+【坏死性小肠结肠炎的并发症】
+肠坏死从黏膜层开始，逐渐累及肠壁全层，导致肠穿孔，致继发性腹膜炎和腹腔游离气体。最常发生在回肠末端，结肠和近端小肠很少受累。
+在回顾性队列研究中，24% 至 42% 的 NEC 婴儿发展为脓毒症（1、2）。在一项系统评价中，大约 23% 的所有确诊 NEC 婴儿死亡，体重 < 1000 克的婴儿死亡率为 40%（3）。
+肠狭窄是坏死性小肠结肠炎（NEC）的常见远期并发症，发生于初次发作后幸存婴儿的 10%～36%（4）。 NEC发作的2～3个月内有典型的肠道狭窄表现。狭窄最常见于结肠，尤其是左侧结肠。
+在接受NEC手术治疗的婴儿中，高达15%至35%的婴儿因短肠综合征而发生肠衰竭（3、5）。
+神经发育障碍也是坏死性小肠结肠炎常见的长期并发症，发生率占婴儿的25%～61%（3）。
+
+【症状和体征参考】
+1.Garg PM, Paschal JL, Ansari MAY, Block D, Inagaki K, Weitkamp JH.Clinical impact of NEC-associated sepsis on outcomes in preterm infants.Pediatr Res.2022;92(6):1705-1715.doi:10.1038/s41390-022-02034-7
+1.Garg PM, Paschal JL, Ansari MAY, Block D, Inagaki K, Weitkamp JH.Clinical impact of NEC-associated sepsis on outcomes in preterm infants.Pediatr Res.2022;92(6):1705-1715.doi:10.1038/s41390-022-02034-7
+2.Zouari M, Ben Ameur H, Ben Saad N, et al.Predictive Factors for Mortality in Pre-Term Neonates with Necrotizing Enterocolitis: A Retrospective Cohort Study.Surg Infect (Larchmt).2023;24(1):52-57.doi:10.1089/sur.2022.266
+2.Zouari M, Ben Ameur H, Ben Saad N, et al.Predictive Factors for Mortality in Pre-Term Neonates with Necrotizing Enterocolitis: A Retrospective Cohort Study.Surg Infect (Larchmt).2023;24(1):52-57.doi:10.1089/sur.2022.266
+3.Jones IH, Hall NJ.Contemporary Outcomes for Infants with Necrotizing Enterocolitis-A Systematic Review.J Pediatr.2020;220:86-92.e3.doi:10.1016/j.jpeds.2019.11.011
+3.Jones IH, Hall NJ.Contemporary Outcomes for Infants with Necrotizing Enterocolitis-A Systematic Review.J Pediatr.2020;220:86-92.e3.doi:10.1016/j.jpeds.2019.11.011
+4.Hau EM, Meyer SC, Berger S, et al.Gastrointestinal sequelae after surgery for necrotising enterocolitis: A systematic review and meta-analysis.Arch Dis Child Fetal Neonatal Ed.2019;104(3):F265-F273.doi:10.1136/archdischild-2017-314435
+4.Hau EM, Meyer SC, Berger S, et al.Gastrointestinal sequelae after surgery for necrotising enterocolitis: A systematic review and meta-analysis.Arch Dis Child Fetal Neonatal Ed.2019;104(3):F265-F273.doi:10.1136/archdischild-2017-314435
+5.Fredriksson F, Engstrand Lilja H.Survival rates for surgically treated necrotising enterocolitis have improved over the last four decades.Acta Paediatr.2019;108(9):1603-1608.doi:10.1111/apa.14770
+5.Fredriksson F, Engstrand Lilja H.Survival rates for surgically treated necrotising enterocolitis have improved over the last four decades.Acta Paediatr.2019;108(9):1603-1608.doi:10.1111/apa.14770
+
+【坏死性小肠结肠炎的诊断】
+检查证实血便
+检查证实血便
+腹部X线检查
+腹部X线检查
+超声疗法
+超声疗法
+实验室检测和血培养
+实验室检测和血培养
+有时，会检测到便血。
+早期x线可能是非特异性的，仅显示肠梗阻。 然而，一个固定的、扩张的肠袢（前哨袢）在重复的 X 射线下不会改变，这对 NEC 来说是非常令人担忧的。 NEC 的 X 线诊断征象是肠壁积气和门静脉积气。气腹提示肠穿孔，需要急诊外科手术治疗。
+坏死性小肠结肠炎可分期为（1、2）：
+1期（疑似）：轻度全身或胃肠道体征，伴或不伴血便
+1期（疑似）：轻度全身或胃肠道体征，伴或不伴血便
+2期（明确或确诊）：中度至重度全身或胃肠道体征
+2期（明确或确诊）：中度至重度全身或胃肠道体征
+3期（晚期）：严重的全身和胃肠道体征，伴或不伴穿孔和气腹
+3期（晚期）：严重的全身和胃肠道体征，伴或不伴穿孔和气腹
+实验室检查包括全血细胞计数和炎症标志物（如C反应蛋白、红细胞沉降率）以及血培养，以指导抗生素治疗。
+晚期NEC伴穿孔的鉴别诊断包括自发性肠穿孔。自发性肠穿孔是一种独特的情况，也发生在早产儿中，并且更局限，没有NEC中所见的广泛炎症（3）。
+该图像显示了肠道积气（顶部，箭头）和门静脉气体（底部，箭头）。
+此图显示尸检标本，有肠气囊肿病、坏死肠道和箭头所示的穿孔。
+CDC/ Dr. Edwin P.Ewing, Jr.
+超声检查越来越多地用于 NEC 病例。通过超声检查，临床医生能够查看肠壁厚度、肠积气和血流量。然而，这种技术非常依赖于操作者，而普通 X 射线仍然更常用。
+
+【诊断参考】
+1.Juhl SM, Hansen ML, Gormsen M, Skov T, Greisen G.Staging of necrotising enterocolitis by Bell's criteria is supported by a statistical pattern analysis of clinical and radiological variables.Acta Paediatr.2019;108(5):842-848.doi:10.1111/apa.14469
+1.Juhl SM, Hansen ML, Gormsen M, Skov T, Greisen G.Staging of necrotising enterocolitis by Bell's criteria is supported by a statistical pattern analysis of clinical and radiological variables.Acta Paediatr.2019;108(5):842-848.doi:10.1111/apa.14469
+2.Bell MJ, Ternberg JL, Feigin RD, et al.Neonatal necrotizing enterocolitis.Therapeutic decisions based upon clinical staging.Ann Surg.1978;187(1):1-7.doi:10.1097/00000658-197801000-00001
+2.Bell MJ, Ternberg JL, Feigin RD, et al.Neonatal necrotizing enterocolitis.Therapeutic decisions based upon clinical staging.Ann Surg.1978;187(1):1-7.doi:10.1097/00000658-197801000-00001
+3.Dantes G, Keane OA, Do L, et al.Clinical Predictors of Spontaneous Intestinal Perforation vs Necrotizing Enterocolitis in Extremely and Very Low Birth Weight Neonates.J Pediatr Surg.2024;59(11):161608.doi:10.1016/j.jpedsurg.2024.06.017
+3.Dantes G, Keane OA, Do L, et al.Clinical Predictors of Spontaneous Intestinal Perforation vs Necrotizing Enterocolitis in Extremely and Very Low Birth Weight Neonates.J Pediatr Surg.2024;59(11):161608.doi:10.1016/j.jpedsurg.2024.06.017
+
+【坏死性小肠结肠炎的治疗】
+喂养停止
+喂养停止
+鼻胃管吸出
+鼻胃管吸出
+液体复苏疗法
+液体复苏疗法
+广谱抗生素
+广谱抗生素
+肠外营养（PN）
+肠外营养（PN）
+有时需要手术或经皮引流
+有时需要手术或经皮引流
+确诊病例的总体死亡率约为25%，需要手术的婴儿死亡率为35%，出生体重< 1公斤的婴儿死亡率为40%（1）。通过积极的支持治疗和及时的外科干预可改善预后。
+
+【支持疗法】
+约50%至75%的病例只需非手术支持治疗即可（2）。 如果怀疑坏死性小肠结肠炎应立即禁食，用连接间歇吸引器的双腔鼻胃管来进行胃肠减压。 由于广泛的肠道炎症和腹膜炎可导致第三间隙相当多的液体丧失，应适当输注胶体和晶体液以维持循环。
+在肠道修复后，患儿需要10至14天的TPN治疗。
+应立即开始全身抗生素治疗，使用β-内酰胺类抗生素（例如氨苄西林、哌拉西林/他唑巴坦）和氨基糖苷类抗生素（例如庆大霉素、阿米卡星）。还可以考虑额外的厌氧菌覆盖（例如甲硝唑）（3）。抗生素应持续使用 10-14 天。由于某些暴发可能具有传染性，应考虑对患者进行隔离，特别是在短时间内出现多例病例时。
+婴儿需要密切监测；频繁的全面重新评估（例如至少每12小时一次）；以及系列腹部X线片、全血细胞计数（包括血小板计数）和血气分析。
+
+【外科手术】
+在约25%至50%的婴儿中需要接受外科干预（2）。绝对指征是肠穿孔(气腹)，腹膜炎的征象(NEC通常没有，但包括没有肠音，弥漫性保护和压痛或腹壁红斑和水肿)，或通过穿刺从腹膜腔吸出化脓性物质。对坏死性小肠结肠炎的婴儿，在经过非手术治疗后临床和实验室情况恶化时也应考虑手术治疗。
+初级经皮腹膜引流是一种选择，可以在床边进行。在这个过程中，外科医生在右下腹做一个切口，通过这个切口用温盐水冲洗腹部。然后放置引流管以允许腹部继续引流。当引流停止时，可以每天将引流管向后拉一点，然后再移除。这种手术更常见于病情危重、出生体重极低（<1 kg）的婴儿，这些婴儿如果被送往手术室将面临风险；然而，这可能与更高的死亡率相关。一些（但并非所有）接受经皮腹腔引流的患者需要额外的手术。
+对于接受剖腹手术的婴儿，切除坏疽的肠并创建造口术。 （如果其余的肠道没有缺血迹象，可以进行一期肠吻合术。）随着脓毒血症和腹膜炎的改善，肠道的连续性可在数周或数月后重新建立。
+继发于NEC的狭窄需要切除。
+
+【治疗参考文献】
+1.Jones IH, Hall NJ.Contemporary Outcomes for Infants with Necrotizing Enterocolitis-A Systematic Review.J Pediatr.2020;220:86-92.e3.doi:10.1016/j.jpeds.2019.11.011
+1.Jones IH, Hall NJ.Contemporary Outcomes for Infants with Necrotizing Enterocolitis-A Systematic Review.J Pediatr.2020;220:86-92.e3.doi:10.1016/j.jpeds.2019.11.011
+2.Robinson JR, Rellinger EJ, Hatch LD, et al.Surgical necrotizing enterocolitis.Semin Perinatol.2017;41(1):70-79.doi:10.1053/j.semperi.2016.09.020
+2.Robinson JR, Rellinger EJ, Hatch LD, et al.Surgical necrotizing enterocolitis.Semin Perinatol.2017;41(1):70-79.doi:10.1053/j.semperi.2016.09.020
+3.Roberts AG, Younge N, Greenberg RG.Neonatal Necrotizing Enterocolitis: An Update on Pathophysiology, Treatment, and Prevention.Paediatr Drugs.2024;26(3):259-275.doi:10.1007/s40272-024-00626-w
+3.Roberts AG, Younge N, Greenberg RG.Neonatal Necrotizing Enterocolitis: An Update on Pathophysiology, Treatment, and Prevention.Paediatr Drugs.2024;26(3):259-275.doi:10.1007/s40272-024-00626-w
+
+【预防坏死性小肠结肠炎】
+有危险的婴儿应喂母乳，喂养应从少量开始，按照标准化方案逐渐增加 (1)。当无母乳可用时，可使用早产儿配方奶作为合适的替代品。应避免使用高渗配方、药物或造影剂。 贫血、低氧饱和度和红细胞增多症应及时治疗。 特别是，在可能的情况下，应避免使用抗生素和抑酸药物。
+益生菌（例如，Bifidus infantis（婴儿双歧杆菌），Lactobacillus acidophilus（嗜酸乳杆菌））有助于预防NEC，但在常规使用前需要进一步研究确定最佳剂量和适当的菌株（2，3）。
+对于有早产风险的孕妇可以给予皮质类固醇以帮助预防新生儿坏死性小肠结肠炎（4）。
+
+【预防参考文献】
+1.Quigley M, Embleton ND, Meader N, McGuire W.Donor human milk for preventing necrotising enterocolitis in very preterm or very low-birthweight infants.Cochrane Database Syst Rev.2024;9(9):CD002971.Published 2024 Sep 6.doi:10.1002/14651858.CD002971.pub6
+1.Quigley M, Embleton ND, Meader N, McGuire W.Donor human milk for preventing necrotising enterocolitis in very preterm or very low-birthweight infants.Cochrane Database Syst Rev.2024;9(9):CD002971.Published 2024 Sep 6.doi:10.1002/14651858.CD002971.pub6
+2.van den Akker CHP, van Goudoever JB, Shamir R, et al.Probiotics and preterm infants: A position paper by the European Society for Paediatric Gastroenterology Hepatology and Nutrition Committee on Nutrition and the European Society for Paediatric Gastroenterology Hepatology and Nutrition Working Group for Probiotics and Prebiotics.J Pediatr Gastroenterol Nutr. 2020;70(5):664–680. doi:10.1097/MPG.0000000000002655
+2.van den Akker CHP, van Goudoever JB, Shamir R, et al.Probiotics and preterm infants: A position paper by the European Society for Paediatric Gastroenterology Hepatology and Nutrition Committee on Nutrition and the European Society for Paediatric Gastroenterology Hepatology and Nutrition Working Group for Probiotics and Prebiotics.J Pediatr Gastroenterol Nutr. 2020;70(5):664–680. doi:10.1097/MPG.0000000000002655
+3.Razak A, Patel RM, Gautham KS.Use of Probiotics to Prevent Necrotizing Enterocolitis: Evidence to Clinical Practice.JAMA Pediatr.2021;175(8):773-774.doi:10.1001/jamapediatrics.2021.1077
+3.Razak A, Patel RM, Gautham KS.Use of Probiotics to Prevent Necrotizing Enterocolitis: Evidence to Clinical Practice.JAMA Pediatr.2021;175(8):773-774.doi:10.1001/jamapediatrics.2021.1077
+4.Xiong T, Maheshwari A, Neu J, et al.An overview of systematic reviews of randomized-controlled trials for preventing necrotizing enterocolitis in preterm infants.Neonatology.2016;13:1–11.doi:10.1159/000504371
+4.Xiong T, Maheshwari A, Neu J, et al.An overview of systematic reviews of randomized-controlled trials for preventing necrotizing enterocolitis in preterm infants.Neonatology.2016;13:1–11.doi:10.1159/000504371
+新生儿坏死性小肠结肠炎（NEC）是一种病因不明的肠道坏死；主要发生在开始肠内喂养后的早产儿或患病新生儿中。
+新生儿坏死性小肠结肠炎（NEC）是一种病因不明的肠道坏死；主要发生在开始肠内喂养后的早产儿或患病新生儿中。
+并发症包括肠穿孔（最常见于回肠末端）和腹膜炎；脓毒症发生率为 24%～42%，死亡率为 23%。
+并发症包括肠穿孔（最常见于回肠末端）和腹膜炎；脓毒症发生率为 24%～42%，死亡率为 23%。
+初始表现包括喂养困难及胃潴留液中出现血性或胆汁性内容物（喂养后），随后可出现胆汁性呕吐、腹胀或腹部变色，及/或大便中可见肉眼血。
+初始表现包括喂养困难及胃潴留液中出现血性或胆汁性内容物（喂养后），随后可出现胆汁性呕吐、腹胀或腹部变色，及/或大便中可见肉眼血。
+使用X线片检查诊断。
+使用X线片检查诊断。
+通过液体复苏、鼻胃管减压、广谱抗生素及肠外营养等支持治疗，可在 50%～75% 的病例中取得疗效。
+通过液体复苏、鼻胃管减压、广谱抗生素及肠外营养等支持治疗，可在 50%～75% 的病例中取得疗效。
+约25%至50%的患儿需接受手术以切除坏疽肠段并处理穿孔。
+约25%至50%的患儿需接受手术以切除坏疽肠段并处理穿孔。

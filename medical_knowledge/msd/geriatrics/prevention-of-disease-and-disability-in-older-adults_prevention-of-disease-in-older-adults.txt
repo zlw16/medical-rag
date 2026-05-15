@@ -1,0 +1,122 @@
+标题：老年人的疾病预防
+来源：https://www.msdmanuals.cn/professional/geriatrics/prevention-of-disease-and-disability-in-older-adults/prevention-of-disease-in-older-adults
+============================================================
+
+疾病预防是旨在防止疾病发生或恶化的治疗。疾病预防措施使患有轻微或无慢性病的独立老年人和患有几种不可治愈但可治疗疾病的老年人受益。
+
+【一级和二级预防】
+一级预防旨在疾病发生前终止其发展，可通过减少或降低危险因素达到效果。一级预防可能包括免疫预防和旨在预防常见慢性病的生活方式措施。
+建议大多数老年人接种的疫苗包括以下内容（1）:
+流感疫苗
+流感疫苗
+肺炎球菌疫苗
+肺炎球菌疫苗
+带状疱疹病毒疫苗
+带状疱疹病毒疫苗
+破伤风、白喉或百日咳疫苗
+破伤风、白喉或百日咳疫苗
+呼吸道合胞病毒 (RSV) 疫苗
+呼吸道合胞病毒 (RSV) 疫苗
+COVID-19疫苗
+COVID-19疫苗
+通常推荐老年人采取以下生活方式措施以预防慢性病：
+健康饮食
+健康饮食
+体育运动
+体育运动
+体重管理
+体重管理
+常规健康筛查
+常规健康筛查
+社交参与
+社交参与
+二级预防旨在在早期检出并且治疗疾病或其并发症，在症状出现前或在功能丧失发生前，从而降低发病率和死亡率。
+筛查可以作为一种初级或二级预防措施。筛查可用于检测可能改变以预防疾病的危险因素，或检测无症状人群的疾病，然后可对其进行早期治疗。
+多个组织（例如，美国预防服务工作组（USPSTF）发布的筛查指南，有时彼此不同。无论指南如何推荐，还必须考虑个体患者的特征和偏好。
+是否进行癌症筛查应慎重考虑，需权衡个体风险与获益，尤其是对于预计寿命不超过10年的患者。通常建议老年人进行以下癌症筛查：
+结直肠癌
+结直肠癌
+前列腺癌
+前列腺癌
+此外，针对可能影响老年人的特定疾病筛查包括：
+腹部主动脉瘤
+腹部主动脉瘤
+虐待或忽视
+虐待或忽视
+酒精使用障碍/不健康饮酒
+酒精使用障碍/不健康饮酒
+动脉粥样硬化性心血管疾病
+动脉粥样硬化性心血管疾病
+认知功能障碍（如痴呆、谵妄）
+认知功能障碍（如痴呆、谵妄）
+糖尿病 （2型）
+糖尿病 （2型）
+跌倒风险
+跌倒风险
+听力障碍
+听力障碍
+HIV感染
+HIV感染
+骨质疏松症
+骨质疏松症
+性传播感染
+性传播感染
+甲状腺功能障碍（甲状腺功能减退或甲状腺功能亢进）
+甲状腺功能障碍（甲状腺功能减退或甲状腺功能亢进）
+视力障碍
+视力障碍
+维生素D缺乏症
+维生素D缺乏症
+
+【一级和二级预防参考】
+1.U.S. Centers for Disease Control and Prevention.成人推荐疫苗接种。Accessed June 12, 2025.
+1.U.S. Centers for Disease Control and Prevention.成人推荐疫苗接种。Accessed June 12, 2025.
+
+【三级预防】
+在三级预防中，对已有的症状性（通常是慢性）疾病进行适当管理，以防止进一步的功能丧失。疾病管理可以通过使用特定疾病的实践指南或规范来提高。已开发出多种疾病管理方案：
+疾病专项护理管理：由经过专门培训的护士与初级保健医生或老年病专家协作，负责协调规范化的护理方案、安排支持性服务，并指导患者。
+疾病专项护理管理：由经过专门培训的护士与初级保健医生或老年病专家协作，负责协调规范化的护理方案、安排支持性服务，并指导患者。
+慢性保健诊所：患有相同慢性病的患者在同一个小组内接受健康教育，由保健医生定期随访。这种方法能帮助糖尿病患者更好地进行血糖控制。
+慢性保健诊所：患有相同慢性病的患者在同一个小组内接受健康教育，由保健医生定期随访。这种方法能帮助糖尿病患者更好地进行血糖控制。
+专家：患有难以稳定控制的慢性疾病的患者可转诊至专科医生处。这种方法的效果最好，需要专科医生和初级保健医生协作。
+专家：患有难以稳定控制的慢性疾病的患者可转诊至专科医生处。这种方法的效果最好，需要专科医生和初级保健医生协作。
+有以下慢性病的患者，这些疾病在老年人中很常见，通过三级预防可以得到很大的好处。
+关节炎（主要为骨关节炎；较少见的情况是类风湿关节炎）影响着约半数≥65岁的人群（1）。它会导致行动不便，增加患骨质疏松症、有氧运动和肌肉运动失调、跌倒以及压疮的风险。锻炼和适当药物有助于三级预防(2)。
+
+【骨质疏松】
+检测骨密度，在导致骨折之前发现骨质疏松症。健康的饮食、补充钙质和可能的维生素D、锻炼以及戒烟有助于防止骨质疏松症进一步发展，治疗可以预防新的骨折。
+高血糖，尤其是当糖化血红蛋白（HbA1C）浓度升高时，会增加视网膜病变、神经病变、肾病和冠状动脉疾病的风险（3）。血糖治疗目标应根据患者偏好、糖尿病病程、合并症、血管并发症、低血糖相关风险、合并用药和预期寿命进行调整。对于大多数成年人，将HbA1C目标控制在<7%且无明显低血糖是合适的。但老年患者适宜的HbA1C目标需根据附加因素调整（4）：
+对于预期寿命＞10年的健康老年糖尿病患者，糖化血红蛋白应控制在＜7.5%
+对于预期寿命＞10年的健康老年糖尿病患者，糖化血红蛋白应控制在＜7.5%
+对于有合并症且预期寿命缩短的患者，目标值<8.0%
+对于有合并症且预期寿命缩短的患者，目标值<8.0%
+预期寿命显著缩短的虚弱患者：<8.5%
+预期寿命显著缩短的虚弱患者：<8.5%
+糖尿病患者的高血压和血脂异常控制是特别重要的。
+在每次随访过程中患者的教育及足部检查能预防足部溃疡。
+
+【血管疾病】
+有冠状动脉疾病、脑血管疾病或外周血管疾病病史的老年患者发生致残事件的风险很高。通过积极管理血管危险因素（如高血压、吸烟、糖尿病、肥胖、心房颤动、血脂异常），可以降低风险。
+
+【心力衰竭】
+心力衰竭的发病率在老年人中显著升高，死亡率也高于许多肿瘤。合适的积极的治疗，特别是对于收缩功能不全的患者，能减少功能衰退、住院率及死亡率。
+
+【慢性阻塞性肺病（COPD）】
+戒烟、规范使用吸入器及其他药物，以及指导患者掌握节约体能的行为技巧，可减少导致住院的慢性阻塞性肺疾病急性加重发作次数与严重程度。
+
+【三级预防参考文献】
+1.Hawker GA, King LK.The Burden of Osteoarthritis in Older Adults. Clin Geriatr Med.2022;38(2):181-192.doi:10.1016/j.cger.2021.11.005
+1.Hawker GA, King LK.The Burden of Osteoarthritis in Older Adults. Clin Geriatr Med.2022;38(2):181-192.doi:10.1016/j.cger.2021.11.005
+2.Esbensen BA, Kennedy N, Brodin N.Prevention and adherence in Rheumatic and Musculoskeletal disease.Best Pract Res Clin Rheumatol.2020;34(2):101525.doi:10.1016/j.berh.2020.101525
+2.Esbensen BA, Kennedy N, Brodin N.Prevention and adherence in Rheumatic and Musculoskeletal disease.Best Pract Res Clin Rheumatol.2020;34(2):101525.doi:10.1016/j.berh.2020.101525
+3.Sacks DB, Arnold M, Bakris GL, et al.Guidelines and Recommendations for Laboratory Analysis in the Diagnosis and Management of Diabetes Mellitus.Diabetes Care.2023;46(10):e151-e199.doi:10.2337/dci23-0036
+3.Sacks DB, Arnold M, Bakris GL, et al.Guidelines and Recommendations for Laboratory Analysis in the Diagnosis and Management of Diabetes Mellitus.Diabetes Care.2023;46(10):e151-e199.doi:10.2337/dci23-0036
+4.Strain WD, Down S, Brown P, Puttanna A, Sinclair A.Diabetes and Frailty: An Expert Consensus Statement on the Management of Older Adults with Type 2 Diabetes. Diabetes Ther.2021;12(5):1227-1247.doi:10.1007/s13300-021-01035-9
+4.Strain WD, Down S, Brown P, Puttanna A, Sinclair A.Diabetes and Frailty: An Expert Consensus Statement on the Management of Older Adults with Type 2 Diabetes. Diabetes Ther.2021;12(5):1227-1247.doi:10.1007/s13300-021-01035-9
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+U.S. Preventive Services Task Force (USPSTF).建议。The U.S. Preventive Services Task Force publishes recommendations for screening and preventive strategies for specific conditions, based on a systematic review of the evidence.
+U.S. Preventive Services Task Force (USPSTF).建议。The U.S. Preventive Services Task Force publishes recommendations for screening and preventive strategies for specific conditions, based on a systematic review of the evidence.
+Spalding MC, Sebesta SC.Geriatric screening and preventive care.Am Fam Physician.2008;78(2):206-215
+Spalding MC, Sebesta SC.Geriatric screening and preventive care.Am Fam Physician.2008;78(2):206-215

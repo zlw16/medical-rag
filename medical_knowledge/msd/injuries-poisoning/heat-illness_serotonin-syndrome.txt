@@ -1,0 +1,137 @@
+标题：血清素综合征
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/heat-illness/serotonin-syndrome
+============================================================
+
+血清素综合征可发生于治疗性用药、自我药物中毒，或（最常见的是）两种血清素能药物联用导致的意外药物相互作用（见表可引起血清素综合征的药物），且可发生于所有年龄段。最常见的原因是同时使用选择性血清素再摄取抑制剂 （SSRI）和曲马多（1）。
+严重血清素综合征的并发症包括：代谢性酸中毒，横纹肌溶解，癫痫，急性肾损伤及弥漫性血管内凝血（DIC）。引起这些并发症的原因可能包括严重高热及肌肉活动过量。
+
+【可引起血清素综合征的药物】
+可引起血清素综合征的药物
+抗抑郁药：单胺氧化酶抑制剂
+异卡波肼
+利奈唑胺
+司来吉兰
+反苯环丙胺
+抗抑郁药：5-羟色胺-去甲肾上腺素再摄取抑制剂
+丁氨苯丙酮
+萘法唑酮
+文拉法辛
+抗抑郁药：选择性5-羟色胺再摄取抑制剂（SSRIs）
+西酞普兰
+艾司西酞普兰
+氟伏沙明
+帕罗西汀
+抗抑郁药：三环类抗抑郁药
+阿米替林
+阿莫沙平
+地昔帕明
+马普替林
+去甲替林
+普罗替林
+曲米帕明
+中枢神经系统兴奋剂
+安非拉酮
+甲基苯丙胺
+3,4-亚甲二氧苯丙胺（MDA）
+3,4 - 亚甲二氧基甲基苯丙胺（MDMA，摇头丸）
+西布曲明
+麦角酸二乙胺（LSD）
+5 - 甲氧基 - 二异丙基色胺
+（亚洲或美洲）人参
+圣约翰草
+叙利亚芸香
+5-羟色胺（5-HT1）激动剂（曲坦类药物）
+阿莫曲普坦
+依来曲普坦
+夫罗曲坦
+那拉曲坦
+利扎曲普坦
+舒马普坦
+佐米曲普坦
+丁丙诺啡
+喷他佐辛
+丁螺环酮
+氯苯那敏
+右美沙芬
+格拉司琼
+5-羟色氨酸
+左旋多巴
+甲氧氯普胺
+昂丹司琼
+利托那韦
+丙戊酸盐
+
+【参考文献】
+1.Mikkelsen N, Damkier P, Pedersen SA.Serotonin syndrome-A focused review.Basic Clin Pharmacol Toxicol.2023;133(2):124-129.doi:10.1111/bcpt.13912
+1.Mikkelsen N, Damkier P, Pedersen SA.Serotonin syndrome-A focused review.Basic Clin Pharmacol Toxicol.2023;133(2):124-129.doi:10.1111/bcpt.13912
+
+【5 - 羟色胺综合征的症状与体征】
+在大多数情况下，血清素综合征在24小时内发病，通常发生在6小时内，由于调整药物剂量或开始用药而引发。本病的临床表现根据严重程度而不同。可分为如下几类：
+意识状态改变：焦虑、激越、坐立不安、易惊、谵妄。
+意识状态改变：焦虑、激越、坐立不安、易惊、谵妄。
+自主神经亢进：心动过速，高血压，高热，出汗，寒战，呕吐和腹泻
+自主神经亢进：心动过速，高血压，高热，出汗，寒战，呕吐和腹泻
+神经肌肉亢进：颤抖，肌张力过高或僵硬，肌阵挛，反射亢进，阵挛（包括眼阵挛）及跖伸肌反应
+神经肌肉亢进：颤抖，肌张力过高或僵硬，肌阵挛，反射亢进，阵挛（包括眼阵挛）及跖伸肌反应
+下肢神经肌肉亢进较上肢更为显著。
+通常24小时内症状消失，但应用半衰期长或有活性代谢产物的药物（例如，单胺氧化酶抑制剂，选择性5-羟色胺再摄取抑制剂）后症状可持续较长时间。
+
+【血清素综合征的诊断】
+主要是病史和体格检查
+主要是病史和体格检查
+血清素综合征的诊断是临床的。已提出几种明确的诊断标准。
+目前首选亨特标准，因为使用简便且准确性高（与毒物学家做出的诊断相比较，用亨特标准诊断有近85%的敏感性及>95%的特异性）(1, 2)。该诊断标准为病人服用过血清素能药物且有如下之一：
+自发性阵挛
+自发性阵挛
+震颤、反射增强
+震颤、反射增强
+有眼震或可诱导的阵挛，加上躁动或出汗，或肌张力增高和体温>38°C
+有眼震或可诱导的阵挛，加上躁动或出汗，或肌张力增高和体温>38°C
+全身感染，药物或酒精戒断综合征，以及拟交感神经药或抗胆碱能药的毒性也需要鉴别。 由于症状相似（例如，肌肉僵硬、高热、自主神经亢进和意识状态改变），血清素综合征与神经阻滞剂恶性综合征较难区别。血清素综合征有应用血清素能药物的病史，起病迅速（例如24小时内起病）且反射亢进，而神经阻滞剂恶性综合征通常表现为反射减弱 (2)。
+无确诊试验，但需行相关检查排除其他疾病（例如，对可疑有中枢神经系统感染者行脑脊液分析，可疑药物滥用者行尿检）。同时，对严重血清素综合征病例，需行某些检查（例如，血清电解质、血小板计数、肾功能、肌酸激酶、凝血功能、尿肌红蛋白检测）以明确有无并发症。
+
+【经验与提示】
+经验与提示
+在体温过高、意识状态改变、自主神经功能亢进和肌肉强直的患者中，支持血清素综合征而非神经阻滞剂恶性综合征的因素包括：使用过血清素能药物、24小时内起病以及反射亢进。
+在体温过高、意识状态改变、自主神经功能亢进和肌肉强直的患者中，支持血清素综合征而非神经阻滞剂恶性综合征的因素包括：使用过血清素能药物、24小时内起病以及反射亢进。
+
+【诊断参考】
+1.Dunkley EJ, Isbister GK, Sibbritt D, et al.The Hunter Serotonin Toxicity Criteria: simple and accurate diagnostic decision rules for serotonin toxicity.QJM.2003;96(9):635-642.doi:10.1093/qjmed/hcg109
+1.Dunkley EJ, Isbister GK, Sibbritt D, et al.The Hunter Serotonin Toxicity Criteria: simple and accurate diagnostic decision rules for serotonin toxicity.QJM.2003;96(9):635-642.doi:10.1093/qjmed/hcg109
+2.Mikkelsen N, Damkier P, Pedersen SA.Serotonin syndrome-A focused review.Basic Clin Pharmacol Toxicol.2023;133(2):124-129.doi:10.1111/bcpt.13912
+2.Mikkelsen N, Damkier P, Pedersen SA.Serotonin syndrome-A focused review.Basic Clin Pharmacol Toxicol.2023;133(2):124-129.doi:10.1111/bcpt.13912
+
+【血清素综合征的治疗】
+停用 5 - 羟色胺能药物
+停用 5 - 羟色胺能药物
+支持治疗
+支持治疗
+有时需应用赛庚啶
+有时需应用赛庚啶
+若及时识别血清素综合征并进行治疗，预后一般良好(1)。
+所有 5 - 羟色胺能药物均应停用。轻度症状通常可通过苯二氮䓬类药物镇静缓解，24~72 小时内可消退。难治性病例可考虑使用右美托咪定。其作为α -2激动剂的机制可能治疗过量血清素的潜在病理生理，以及作为镇静剂（2, 3）。若症状迅速好转，病人需至少留观数小时。然而，多数病人需住院以进一步检查、治疗及监护。
+严重病例需收住重症监护病房进行治疗。给予降温以治疗高热（参见中暑：治疗）。可能需要神经肌肉阻滞联合适当镇静、肌肉麻痹及其他支持措施。 由于自主神经效应可迅速发生变化，自主神经异常（例如，高血压和心动过速）的治疗需选用短效药物（例如，硝普钠和艾司洛尔）。
+若支持治疗后症状仍持续，可口服或经鼻胃管给予 5 - 羟色胺拮抗剂赛庚啶，但该治疗的证据质量较低（4, 5）。
+鼓励咨询毒理学家，在美国可通过拨打美国毒物控制中心（1-800-222-1222）实现。还可通过在线工具PoisonHelp.org获取专家协助。
+
+【治疗参考文献】
+1.Boyer EW, Shannon M.The serotonin syndrome.N Engl J Med.352(11):1112-20, 2005.doi: 10.1056/NEJMra041867 Erratum in:N Engl J Med.356(23):2437, 2007.Erratum in:N Engl J Med.361(17):1714, 2009.
+1.Boyer EW, Shannon M.The serotonin syndrome.N Engl J Med.352(11):1112-20, 2005.doi: 10.1056/NEJMra041867 Erratum in:N Engl J Med.356(23):2437, 2007.Erratum in:N Engl J Med.361(17):1714, 2009.
+2.Baumgartner K, Doering And M, Mullins ME; Toxicology Investigators Consortium.Dexmedetomidinein the treatment of toxicologic conditions: a systematic review and review of the toxicology investigators consortium database.Clin Toxicol (Phila).2022;60(12):1356-1375.doi:10.1080/15563650.2022.2138761
+2.Baumgartner K, Doering And M, Mullins ME; Toxicology Investigators Consortium.Dexmedetomidinein the treatment of toxicologic conditions: a systematic review and review of the toxicology investigators consortium database.Clin Toxicol (Phila).2022;60(12):1356-1375.doi:10.1080/15563650.2022.2138761
+3.Rushton WF, Charlton NP.Dexmedetomidinein the treatment of serotonin syndrome.Ann Pharmacother.2014;48(12):1651-1654.doi:10.1177/1060028014549184
+3.Rushton WF, Charlton NP.Dexmedetomidinein the treatment of serotonin syndrome.Ann Pharmacother.2014;48(12):1651-1654.doi:10.1177/1060028014549184
+4.Nguyen H, Pan A, Smollin C, et al.An 11-year retrospective review ofcyproheptadineuse inserotoninsyndrome cases reported to the California Poison Control System.J Clin Pharm Ther.2019;44(2):327-334.doi:10.1111/jcpt.12796
+4.Nguyen H, Pan A, Smollin C, et al.An 11-year retrospective review ofcyproheptadineuse inserotoninsyndrome cases reported to the California Poison Control System.J Clin Pharm Ther.2019;44(2):327-334.doi:10.1111/jcpt.12796
+5.Chiew AL, Isbister GK.Management ofserotoninsyndrome (toxicity).Br J Clin Pharmacol.2025;91(3):654-661.doi:10.1111/bcp.16152
+5.Chiew AL, Isbister GK.Management ofserotoninsyndrome (toxicity).Br J Clin Pharmacol.2025;91(3):654-661.doi:10.1111/bcp.16152
+增加血清素能活性的药物可以导致高热和神经肌肉功能亢进，伴有代谢性酸中毒，横纹肌溶解，癫痫发作，急性肾损伤和弥散性血管内凝血（DIC）等并发症。
+增加血清素能活性的药物可以导致高热和神经肌肉功能亢进，伴有代谢性酸中毒，横纹肌溶解，癫痫发作，急性肾损伤和弥散性血管内凝血（DIC）等并发症。
+若患者使用了 5 - 羟色胺能药物，并出现以下任一表现，很可能诊断为 5 - 羟色胺综合征：自发性阵挛；伴反射亢进的震颤；眼阵挛或可诱导阵挛合并激越、多汗或肌张力增高，且体温＞38℃。
+若患者使用了 5 - 羟色胺能药物，并出现以下任一表现，很可能诊断为 5 - 羟色胺综合征：自发性阵挛；伴反射亢进的震颤；眼阵挛或可诱导阵挛合并激越、多汗或肌张力增高，且体温＞38℃。
+血清素综合征与神经阻滞剂恶性综合征的不同之处在于使用血清素药物的病史，发病迅速（例如，服药后24小时内发病）以及反射亢进。
+血清素综合征与神经阻滞剂恶性综合征的不同之处在于使用血清素药物的病史，发病迅速（例如，服药后24小时内发病）以及反射亢进。
+停用所有血清素能药物，并给予苯二氮卓类药物。
+停用所有血清素能药物，并给予苯二氮卓类药物。
+积极治疗并发症，可考虑给予赛庚啶。
+积极治疗并发症，可考虑给予赛庚啶。

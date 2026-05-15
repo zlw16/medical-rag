@@ -1,0 +1,143 @@
+标题：淋病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/sexually-transmitted-infections-stis/gonorrhea
+============================================================
+
+(参见性传播感染疾病概述。）
+N. gonorrhoeae奈瑟淋球菌是一种革兰氏阴性双球菌，仅仅出现在人类并且几乎总是经由性接触途径传播。尿道和宫颈内感染最常见，但在口交或肛交后也可出现咽部或直肠感染，而眼部受到污染可出现结膜炎。
+阴道性交后，从女性传播给男性的可能性约为22%（1），但从男性传播给女性的可能性可能更高。在男男性行为者中，通过接受性肛交传播的几率高达 42%，当未持续使用避孕套时 （2）。在美国，每年有超过150万新感染病例（3）。
+结膜感染可能在新生儿经产道娩出时获得，被性侵犯的孩子也可能获得淋病。
+在未经治疗的淋菌性宫颈炎患者中，10%~20% 的患者感染可通过子宫内膜上行至输卵管（输卵管炎）和盆腔腹膜，导致盆腔炎（PID）（4）。衣原体或肠源性微生物也可能导致这些疾病。淋病性宫颈炎常伴有排尿困难或斯基恩腺管和巴氏腺的炎症。少数男性的上行性尿路感染可引起单侧附睾炎。
+播散性淋球菌感染（DGI）由于经血行传播发生于约<1% 的人群中，主要见于女性（5）。典型DGI影响皮肤、腱鞘和关节。关节受累可表现为游走性关节炎或腱鞘炎（通常为小关节），或表现为膝盖、踝关节、腕关节或肘部的单关节或少关节炎（参见淋球菌性关节炎）。心包炎、心内膜炎、脑膜炎、肝周围炎罕见。
+大约10%至40%的人群会合并感染沙眼衣原体，具体比例因特定人群而异（6）。
+
+【参考文献】
+1.Holmes KK, Johnson DW, Trostle HJ.An estimate of the risk of men acquiring gonorrhea by sexual contact with infected females.Am J Epidemiol.1970;91(2):170-174.doi:10.1093/oxfordjournals.aje.a121125
+1.Holmes KK, Johnson DW, Trostle HJ.An estimate of the risk of men acquiring gonorrhea by sexual contact with infected females.Am J Epidemiol.1970;91(2):170-174.doi:10.1093/oxfordjournals.aje.a121125
+2.Dutt K, Chow EP, Huffam S, et al.High prevalence of rectal gonorrhoea among men reporting contact with men with gonorrhoea: Implications for epidemiological treatment.BMC Public Health.2015;15:658.Published 2015 Jul 14.doi:10.1186/s12889-015-1971-3
+2.Dutt K, Chow EP, Huffam S, et al.High prevalence of rectal gonorrhoea among men reporting contact with men with gonorrhoea: Implications for epidemiological treatment.BMC Public Health.2015;15:658.Published 2015 Jul 14.doi:10.1186/s12889-015-1971-3
+3.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+3.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+4.LeFevre ML; U.S. Preventive Services Task Force.Screening for Chlamydia and gonorrhea: U.S. Preventive Services Task Force recommendation statement.Ann Intern Med.2014;161(12):902-910.doi:10.7326/M14-1981LeFevre ML; U.S. Preventive Services Task Force.Screening for Chlamydia and gonorrhea: U.S. Preventive Services Task Force recommendation statement.Ann Intern Med.2014;161(12):902-910.doi:10.7326/M14-1981
+4.LeFevre ML; U.S. Preventive Services Task Force.Screening for Chlamydia and gonorrhea: U.S. Preventive Services Task Force recommendation statement.Ann Intern Med.2014;161(12):902-910.doi:10.7326/M14-1981LeFevre ML; U.S. Preventive Services Task Force.Screening for Chlamydia and gonorrhea: U.S. Preventive Services Task Force recommendation statement.Ann Intern Med.2014;161(12):902-910.doi:10.7326/M14-1981
+5.Weston EJ, Heidenga BL, Farley MM, et al.Surveillance for Disseminated Gonococcal InfectionClin Infect Dis.2022;75(6):953-958.doi:10.1093/cid/ciac052
+5.Weston EJ, Heidenga BL, Farley MM, et al.Surveillance for Disseminated Gonococcal InfectionClin Infect Dis.2022;75(6):953-958.doi:10.1093/cid/ciac052
+6.Creighton S.Gonorrhoea.BMJ Clin Evid.2014;2014:1604.Published 2014 Feb 21.
+6.Creighton S.Gonorrhoea.BMJ Clin Evid.2014;2014:1604.Published 2014 Feb 21.
+
+【淋病的症状和体征】
+大多数患有泌尿生殖系统淋病感染的女性没有症状（约 90%），而男性无症状感染的报告率各不相同（约 56% 至 87%） （1）。
+男性尿道炎潜伏期2～14天。发病通常以尿道轻微不适为标志，随后出现更严重的阴茎触痛和疼痛、排尿困难和脓性分泌物。疾病扩散到后尿道时可出现尿频和尿急。检查时，可能会发现脓性黄绿色尿道分泌物，尿道口也可能存在炎症。
+这张照片显示了一名淋病患者脓性尿道分泌物的情况。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+附睾炎通常导致单侧阴囊疼痛、压痛和肿胀。罕见的表现有男性包皮腺和尿道腺脓肿，尿道周围脓肿或尿道球腺、前列腺、精囊腺感染。
+宫颈炎潜伏期一般>10天。症状从轻到重不等，包括排尿困难和阴道分泌物。检查时临床医生可发现宫颈有黏液脓性或脓性分泌物，被窥镜触碰后宫颈口可能变红、易流血。可同时发生尿道炎；压迫耻骨联合时，脓液可从尿道排出，或从斯基恩氏腺或巴多林腺排出。在极少数情况下，性虐待可能会导致青春期前女孩发生感染。这些患者可能出现排尿困难、脓性阴道分泌物以及外阴刺激感、红斑和水肿。
+这张照片显示了一名有疑似性侵犯史的儿童的黄色阴道分泌物。
+© Springer Science+Business Media
+这张图片展示的是一名淋病患者的脓性宫颈分泌物。
+CDC.
+盆腔炎性疾病发生于10％~20％的受感染女性(2)。PID可能包括输卵管炎、盆腔腹膜炎和盆腔脓肿，可能引起下腹部不适（典型为双侧）、性交痛，以及腹部、附件或宫颈触诊时明显压痛。
+Fitz-Hugh-Curtis综合征是淋球菌性或衣原体性肝周围炎，女性多发，可导致右上腹痛、发热、恶心和呕吐，与胆管或肝脏疾病表现相似。
+直肠淋病通常没有症状。它多发于进行被动肛交的男性以及进行肛交的女性。症状包括直肠瘙痒、直肠分泌物浑浊或粪便带脓、肛周刺激感、出血及便秘，这些症状的严重程度各不相同。使用直肠镜检查可能发现直肠壁上有红斑或黏液脓性渗出物。
+淋球菌咽炎较少出现症状，但可能引起咽痛。必须将N. gonorrhoeae（淋病奈瑟菌）与N. meningitidis（脑膜炎奈瑟氏菌）和其他密切相关的、经常无症状无害地存在于咽喉中的微生物区分开来。
+淋球菌性结膜炎可引起结膜充血、脓性分泌物和肿胀。
+播散性淋球菌感染（DGI），又称关节炎–皮炎综合征，由菌血症引起，典型表现为发热、游走性关节疼痛或肿胀（关节炎）及脓疱性皮肤病变。一些患者出现疼痛，肌腱（如腕部或踝部）发红或肿胀。皮肤病变通常发生于手臂或腿部，具有红斑性基底，病灶较小、轻度疼痛，且常呈脓疱性。罕见情况下，播散性淋球菌感染（DGI）可引起心内膜炎或中枢神经系统感染。生殖道淋病是弥散性感染的通常来源，可能是无症状的。 DGI可能与其他导致发热、皮肤病变和多关节炎的疾病（如乙肝病毒感染或脑膜炎球菌血症的前驱期）相似，其他一些疾病（如反应性关节炎）也可能产生生殖器症状。
+这张照片显示了播散性淋球菌感染的特征性皮肤病变。
+Image courtesy of Dr. S.E.Thompson and J.Pledger via the Public Health Image Library of the Centers for Disease Control and Prevention.
+淋球菌性化脓性关节炎是一种较局限形式的DGI，引起疼痛性关节炎伴渗出，通常累及1或2个大关节，如膝关节、踝关节、腕关节或肘关节。一些病人先前有过或同时发生DGI。通常只有1个或2个关节受累，主要是膝关节、踝关节、腕关节和肘关节。急性起病，伴发热、剧烈疼痛、活动受限。感染的关节肿胀，局部皮肤可能发热、发红。
+
+【症状和体征参考】
+1.Tuddenham S, Hamill MM, Ghanem KG.Diagnosis and Treatment of Sexually Transmitted Infections: A Review.JAMA.2022;327(2):161-172.doi:10.1001/jama.2021.23487
+1.Tuddenham S, Hamill MM, Ghanem KG.Diagnosis and Treatment of Sexually Transmitted Infections: A Review.JAMA.2022;327(2):161-172.doi:10.1001/jama.2021.23487
+2.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+2.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+
+【淋病的诊断】
+核酸扩增测试（NAAT）
+核酸扩增测试（NAAT）
+革兰染色及培养
+革兰染色及培养
+淋病的诊断依据是通过核酸检测、革兰氏染色镜检或对生殖道分泌物、血液及关节液（经穿刺抽吸获取）进行培养检测出淋球菌。
+核酸扩增检测可对生殖器、直肠或口腔拭子样本进行检测，并能同时检出淋病和衣原体感染。核酸扩增检测（NAAT）可进一步的提高敏感性，从而能够在男女性的尿液中检测病原。
+革兰染色对有尿道分泌物的男性淋病具有敏感性和特异性；通常可以看到革兰氏阴性细胞内双球菌。直肠和咽部感染不能通过革兰染色精确评估。
+培养是敏感且特异的，但由于淋球菌本身非常脆弱，对营养要求高，使用拭子采集的样本需要被快速涂布于合适的培养基中（如改良Thayer-Martin平板），并在含二氧化碳的环境中转运至实验室。血液和关节液标本应送至实验室，并注明怀疑淋病。由于大多数实验室的核酸扩增试验已取代了细菌培养，寻找一个可以提供培养和药敏试验的实验室比较困难，需要咨询公共健康或传染病专家。
+在美国的一些性传播感染(STI)中心，发现脑膜炎奈瑟菌尿道炎是非淋球菌性尿道炎的原因之一(1)。Neisseria meningitidis（脑膜炎奈瑟菌）在革兰染色上无法与N. gonorrhoeae（淋病奈瑟菌）区分开来，并且在培养基上具有相似的菌落形态。根据gram-negative diplococci （革兰氏阴性双球菌）的革兰氏染色，但淋病的NAAT阴性，诊断假定的淋球菌性尿道炎需要通过培养确认Neisseria（奈瑟菌）的种类。
+在美国，确诊的淋病、衣原体感染和梅毒病例必须向公共卫生系统报告。还应进行梅毒血清学检测（STS）、人类免疫缺陷病毒感染相关检测，以及用于筛查衣原体核酸扩增试验。
+
+【患尿道炎的男性】
+如果随访的可能性较小或没有临床诊断工具，有明显尿道分泌物的男性可能会接受推定治疗。
+可以通过用拭子或载玻片接触阴茎末端来收集分泌物，用于革兰染色。革兰染色无法鉴别衣原体，故需要用尿或拭子标本做核酸扩增。
+
+【患有宫颈炎或盆腔炎的女性】
+宫颈拭子应该被送至实验室做培养或核酸检测。如果无法做盆腔检查，用尿液标本或阴道拭子进行的核酸扩增能快速且可靠的检测淋球菌（以及衣原体）。
+
+【咽部或直肠暴露】
+受影响的部位的拭子送培养或核酸检测。
+
+【关节炎、播散性淋球菌感染（DGI）或两者兼有】
+受累关节应当进行关节穿刺，积液送培养及常规检测（见关节穿刺术）。有皮肤损害、系统性症状，或两者兼而有之的病人需进行血、尿、宫颈及直肠分泌物培养，或进行核酸扩增检测。在30％～40％合并DGI的患者，病程第一周的血培养阳性。合并淋球菌性关节炎者，血培养阳性率较低，但关节腔积液培养常常阳性。关节液通常呈混浊至脓性外观，因含有大量白细胞（典型计数约为>20,000/mcL）。
+
+【诊断参考文献】
+1.Bazan JA, Peterson AS, Kirkcaldy RD, et al.Notes from the field.Increase inNeisseria meningitidis–associated urethritis among men at two sentinel clinics — Columbus, Ohio, and Oakland County, Michigan, 2015.MMWR Morb Mortal Wkly Rep.2016;65:550–552.doi:10.15585/mmwr.mm6521a5
+1.Bazan JA, Peterson AS, Kirkcaldy RD, et al.Notes from the field.Increase inNeisseria meningitidis–associated urethritis among men at two sentinel clinics — Columbus, Ohio, and Oakland County, Michigan, 2015.MMWR Morb Mortal Wkly Rep.2016;65:550–552.doi:10.15585/mmwr.mm6521a5
+
+【淋病筛查】
+对于被认为有性传播感染（STI）高风险的无症状患者，可以通过尿液样本的NAAT进行筛查，因此不需要侵入性操作来从生殖部位收集样本。以下内容基于美国疾病控制与预防中心和美国预防服务工作组（1、2）的筛查建议。
+如果女性性行为活跃且年龄 < 25 岁，或者年龄 ≥ 25 岁且性行为活跃，并有1个或多个以下风险因素，则每年进行1次筛查：
+曾有STI史
+曾有STI史
+性行为增加暴露风险（例如，有新的性伴侣或多于 1 个性伴侣；从事性工作；或在非相互单一伴侣关系中未持续使用安全套）
+性行为增加暴露风险（例如，有新的性伴侣或多于 1 个性伴侣；从事性工作；或在非相互单一伴侣关系中未持续使用安全套）
+有性伴侣患有性传播感染，或该性伴侣同时存在多个性伴侣
+有性伴侣患有性传播感染，或该性伴侣同时存在多个性伴侣
+年龄<25岁的孕妇，或年龄≥25岁且具有1项或多项风险因素的孕妇，应在首次产前检查时进行筛查；对于<25岁或有高风险的女性，应在妊娠晚期再次筛查。已接受治疗的淋病孕妇应在3个月内重新接受检测。
+与男性发生性行为的男性如果过去1年内有性生活，无论是否使用安全套，都应至少每年进行1次筛查（插入性交者进行尿液筛查；接受性交者进行直肠拭子检查；进行口交者进行咽拭子检查）。那些风险增加的人（例如，艾滋病毒感染者、接受抗逆转录病毒药物暴露前预防、有多个性伴侣或其伴侣有多个伴侣）更应频繁地进行筛查，间隔3至6个月。
+跨性别者和性别多元化人群如果有性生活，则根据性行为方式和解剖结构进行筛查（例如，对所有年龄＜25岁的有宫颈的人进行年度筛查；如果年龄≥25岁，则如果风险增加，有宫颈的人应每年进行筛查；根据报告的性行为和暴露情况进行直肠拭子检查）。
+尚无充分证据支持对不属于上述类别的男性且感染风险较低者进行筛查。然而，可以根据要求或在chlamydia（衣原体）感染率高的临床环境中（例如青少年诊所、性传播感染诊所、教养机构）提供筛查。
+
+【筛查参考文献】
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+2.U.S. Preventive Services Task Force: Final Recommendation Statement: Chlamydia and Gonorrhea: Screening.2021.
+2.U.S. Preventive Services Task Force: Final Recommendation Statement: Chlamydia and Gonorrhea: Screening.2021.
+
+【治疗淋病】
+无并发症的感染，使用单剂头孢曲松
+无并发症的感染，使用单剂头孢曲松
+衣原体感染的伴随治疗
+衣原体感染的伴随治疗
+过去 60 天内和/或最近的性伴侣的治疗
+过去 60 天内和/或最近的性伴侣的治疗
+对于伴有关节炎的播散性淋球菌感染（DGI），需要更长疗程的肠外抗生素。
+对于伴有关节炎的播散性淋球菌感染（DGI），需要更长疗程的肠外抗生素。
+尿道、宫颈、直肠和咽部的无并发症淋球菌感染治疗采用以下方法：
+单剂量头孢曲松 500 mg 肌肉注射（体重 ≥ 150 kg 的患者 1 g 肌肉注射）
+单剂量头孢曲松 500 mg 肌肉注射（体重 ≥ 150 kg 的患者 1 g 肌肉注射）
+如果没有头孢曲松，可以给患者单次口服头孢克肟 800mg。
+如未排除衣原体感染，则需治疗衣原体：多西环素100mg po bid，共7天（或对多西环素过敏的患者阿奇霉素单次 po 1g）。
+对头孢菌素类过敏（包括头孢曲松）的患者采用以下治疗：
+单剂肌肉注射庆大霉素 240mg加上单剂口服阿奇霉素2g
+单剂肌肉注射庆大霉素 240mg加上单剂口服阿奇霉素2g
+妊娠患者应按上述方法单次注射头孢曲松；对于过敏患者，应寻求专家咨询。应排除或治疗衣原体感染（1）。
+伴有淋球菌性关节炎的 DGI最初采用肌肉注射或静脉注射抗生素治疗（例如，头孢曲松1 g 肌肉注射或静脉注射，每 24 小时一次，头孢唑肟 1 g 静脉注射，每 8 小时一次，头孢噻肟 1 g 静脉注射，每 8 小时一次），症状改善后继续用药 24 至 48 小时，然后根据药敏试验进行口服治疗，总疗程至少 7 天。若尚未排除衣原体感染，应加用多西环素100mg po bid 共7天（1) 。
+淋球菌性化脓性关节炎通常需要反复的滑膜液引流，或反复关节穿刺或关节镜检查。在疾病初期，应将关节制动、保持在功能位置。应尽早开始作全范围的被动关节运动。一旦疼痛缓解，即应多作主动锻炼，包括伸展运动、全范围的主动关节运动和肌肉伸展活动。95％以上的淋菌性关节炎病人经治疗后，关节功能可完全恢复。由于无菌性关节积液可能发展并持续很长时间，抗炎药物可能是有益的。
+治疗后如果症状完全缓解则不必再作培养。但是，对于症状持续>7天的病人，要取样重复培养并进行抗菌药物敏感试验。
+患者在完成治疗前应避免性行为，以防感染性伴侣。
+在最近60天内与患者发生过性接触的所有性伴侣，或患者最近的性伴侣，均应接受淋病和其他性传播感染的检测，若结果呈阳性则需接受治疗。如果暴露不到2周，则预先给予治疗（流行病学治疗）。
+加速伴侣治疗（EPT）是一种做法，即患有感染的患者获得处方或药物，以便在没有医疗保健专业人员首先检查其伴侣的情况下将其交给伴侣。EPT可提高伴侣的治疗依从性，从而降低因再感染导致的治疗失败。它可能对有淋病及衣原体感染的女性的性伴侣最为合适。然而，最好通过一次全面的健康检查来确定患者的药物过敏史，并筛查其他性传播感染（1）。
+已证实，在无保护性行为后 72 小时内口服多西环素进行暴露后预防，可显著降低男男性行为者和跨性别女性的衣原体、淋病和梅毒的发生率（2）。即使某些淋病菌株对多西环素具有耐药性，情况也是如此。
+
+【治疗参考文献】
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+2.Bachmann LH, Barbee LA, Chan P, et al.CDC Clinical Guidelines on the Use ofDoxycyclinePostexposure Prophylaxis for Bacterial Sexually Transmitted Infection Prevention, United States, 2024.MMWR Recomm Rep.2024;73(2):1-8.Published 2024 Jun 6.doi:10.15585/mmwr.rr7302a1
+2.Bachmann LH, Barbee LA, Chan P, et al.CDC Clinical Guidelines on the Use ofDoxycyclinePostexposure Prophylaxis for Bacterial Sexually Transmitted Infection Prevention, United States, 2024.MMWR Recomm Rep.2024;73(2):1-8.Published 2024 Jun 6.doi:10.15585/mmwr.rr7302a1
+淋病奈瑟菌通常会导致尿道、宫颈、直肠、咽部和/或结膜的无并发症感染。
+淋病奈瑟菌通常会导致尿道、宫颈、直肠、咽部和/或结膜的无并发症感染。
+有时淋病扩散到附件，引起输卵管炎，或传播到皮肤和/或关节，引起皮肤病损或化脓性关节炎。
+有时淋病扩散到附件，引起输卵管炎，或传播到皮肤和/或关节，引起皮肤病损或化脓性关节炎。
+诊断需采用核酸扩增试验（NAATs），但在需要检测抗菌药物耐药性时，应开展培养与药敏试验。
+诊断需采用核酸扩增试验（NAATs），但在需要检测抗菌药物耐药性时，应开展培养与药敏试验。
+使用NAATs筛查高危患者。
+使用NAATs筛查高危患者。
+对于无并发症感染，可给予头孢曲松 500 mg 肌内注射单剂治疗（体重 ≥150 kg 的患者使用 1 g 肌注）；若未排除沙眼衣原体感染，应加用口服多西环素（100 mg，每日 2 次，疗程 7 天）。
+对于无并发症感染，可给予头孢曲松 500 mg 肌内注射单剂治疗（体重 ≥150 kg 的患者使用 1 g 肌注）；若未排除沙眼衣原体感染，应加用口服多西环素（100 mg，每日 2 次，疗程 7 天）。

@@ -1,0 +1,78 @@
+标题：阑尾炎
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/acute-abdomen-and-surgical-gastroenterology/appendicitis
+============================================================
+
+(参见急性腹痛。)
+在美国，急性阑尾炎是急性腹痛需手术治疗最常见病因。人群中超过5 %，一生中可能患阑尾炎(1)。最常见发病年龄为青春期及二十多岁，但亦可见于任何年龄患者。
+其他阑尾疾病包括：类癌、癌症、绒毛状腺瘤及憩室。阑尾病变亦可见于下列情况：克罗恩病或伴有全结肠炎的溃疡性结肠炎（炎症性肠病）。
+
+【参考文献】
+1.Addiss DG, Shaffer N, Fowler BS, Tauxe RV.The epidemiology of appendicitis and appendectomy in the United States.Am J Epidemiol1990;132(5):910-925.doi:10.1093/oxfordjournals.aje.a115734
+1.Addiss DG, Shaffer N, Fowler BS, Tauxe RV.The epidemiology of appendicitis and appendectomy in the United States.Am J Epidemiol1990;132(5):910-925.doi:10.1093/oxfordjournals.aje.a115734
+
+【阑尾炎的病因】
+阑尾炎被认为是由阑尾管腔阻塞引起的，主要由淋巴组织增生所致，但偶可由粪石、异物、肿瘤甚至蠕虫引起。阑尾腔阻塞可导致扩张、细菌过度生长、缺血及炎症。若不治疗，可发生坏死、坏疽及穿孔。若穿孔被网膜包裹，可形成阑尾脓肿。
+
+【阑尾炎的症状和体征】
+经典急性阑尾炎症状为
+上腹部或脐周疼痛，之后伴短暂恶心、呕吐及厌食。
+上腹部或脐周疼痛，之后伴短暂恶心、呕吐及厌食。
+几个小时后，疼痛转移至右下腹。咳嗽或活动时疼痛加剧。
+阑尾炎的典型体征为：
+右下腹麦氏点（髂前上棘与脐之间连线中外1/3处）出现压痛及反跳痛。
+右下腹麦氏点（髂前上棘与脐之间连线中外1/3处）出现压痛及反跳痛。
+阑尾炎其他体征包括：Rovsing征（触诊左下腹时，右下腹感疼痛）；腰大肌征（右髂关节过伸，牵拉髂腰肌时疼痛加重）；闭孔内肌征（右侧大腿屈曲，进行内旋时有疼痛）。
+常见低热（肛温：37.7°C ～ 38.3°C [100～101°F]）。
+超过50%的阑尾炎患者会出现不典型的症状及体征。疼痛有时难以定位，特别是婴儿及儿童患者。腹部压痛可为弥漫性，或极罕见情况下，患者可无压痛排便通常减少或消失；若出现腹泻，应怀疑盲肠后位阑尾。尿常规可见红细胞或白细胞。
+老年人及孕妇中常见不典型症状——尤其疼痛较轻，局部压痛不明显。
+
+【阑尾炎的诊断】
+临床评估
+临床评估
+若有需要，行腹部CT
+若有需要，行腹部CT
+超声可作为CT的替代选择
+超声可作为CT的替代选择
+若见典型症状及体征，可做出临床诊断。对于上述表现典型患者，若为完善影像学检查而延迟手术治疗，仅会增加穿孔及后续并发症风险。
+若患者临床表现不典型或模棱两可，应立即行影像学检查。增强CT对阑尾炎诊断具有较高准确率(1)，且可发现引起急腹症其他病因。梯度加压超声通常可快速完成且无辐射（对儿童尤为重要）；但偶尔会受肠气影响，且对识别非阑尾炎性疼痛的价值较低。
+阑尾炎仍然主要依靠临床诊断。合理选用影像学检查可降低剖腹探查阴性率。
+此图示扩张的厚壁阑尾（箭头），直径为 15.31 毫米，周围有炎症改变。
+腹腔镜可用于诊断与治疗，尤其适用于不明原因下腹痛女性患者。
+实验室检查常可见白细胞增多（12,000 至 15,000/μL [12.00 至 15.00 × 109/L]），但此结果变异很大；白细胞计数正常不能用于排除阑尾炎。
+
+【诊断参考文献】
+1.Rud B, Vejborg TS, Rappeport ED, Reitsma JB, Wille-Jørgensen P.Computed tomography for diagnosis of acute appendicitis in adults.Cochrane Database Syst Rev.2019;2019(11):CD009977.Published 2019 Nov 19.doi:10.1002/14651858.CD009977.pub2
+1.Rud B, Vejborg TS, Rappeport ED, Reitsma JB, Wille-Jørgensen P.Computed tomography for diagnosis of acute appendicitis in adults.Cochrane Database Syst Rev.2019;2019(11):CD009977.Published 2019 Nov 19.doi:10.1002/14651858.CD009977.pub2
+
+【治疗阑尾炎】
+手术切除阑尾
+手术切除阑尾
+静脉予补液及抗生素
+静脉予补液及抗生素
+急性阑尾炎的治疗方法是开腹或腹腔镜阑尾切除术。由于治疗延迟会增加死亡率，因此 15% 的阑尾切除术阴性率被认为是可以接受的。
+即使阑尾穿孔，外科医生仍能够将其切除。有时，阑尾很难定位。在这些情况下，它通常位于盲肠、回肠或右结肠的肠系膜后面。
+阑尾切除禁忌症为炎症性肠病累及盲肠。但对于末端回肠炎，而盲肠正常时，也应该切除阑尾。
+术前应静脉注射抗生素。宜使用三代头孢菌素。对于未穿孔阑尾炎，术后无需继续抗生素治疗。如果阑尾穿孔，应继续使用抗生素4天（1)。若无法行手术治疗，可予抗生素治疗，虽无法治愈疾病，可显著提高生存率。
+尽管多项非手术治疗阑尾炎的研究（即仅用抗生素）显示，初始住院期间缓解率较高，但相当一部分患者会在次年复发并需要阑尾切除术(2)。因此，仍然建议进行阑尾切除术，特别是如果CT上可见阑尾粪石。
+若术中发现巨大炎性包块累及阑尾、末端回肠及盲肠，则应切除整个包块，并行回肠结肠吻合术。疾病晚期若有结肠周围脓肿形成，可在超声引导下行经皮穿刺置管引流或开腹引流术，择期再行阑尾切除术。
+
+【治疗参考文献】
+1.Sawyer RG, Claridge JA, Nathens AB, et al: Trial of short-course antimicrobial therapy for intraabdominal infection.N Engl J Med372(21):1996–2005, 2015. doi: 10.1056/NEJMoa1411162
+1.Sawyer RG, Claridge JA, Nathens AB, et al: Trial of short-course antimicrobial therapy for intraabdominal infection.N Engl J Med372(21):1996–2005, 2015. doi: 10.1056/NEJMoa1411162
+2.Poon SHT, Lee JWY, Ng KM, et al: The current management of acute uncomplicated appendicitis: Should there be a change in paradigm?A systematic review of the literatures and analysis of treatment performance.World J Emerg Surg12:46, 2017.doi: 10.1186/s13017-017-0157-y
+2.Poon SHT, Lee JWY, Ng KM, et al: The current management of acute uncomplicated appendicitis: Should there be a change in paradigm?A systematic review of the literatures and analysis of treatment performance.World J Emerg Surg12:46, 2017.doi: 10.1186/s13017-017-0157-y
+
+【阑尾炎的预后】
+如果没有手术或抗生素，阑尾炎的死亡率很高。
+在资源丰富的地区，早期手术死亡率<1%(1)，康复通常迅速而彻底。
+并发症（脓肿或腹膜炎的破裂和发展）和/或高龄，预后更差。
+
+【预后参考】
+1.Bhangu A, Søreide K, Di Saverio S, Assarsson JH, Drake FT.Acute appendicitis: modern understanding of pathogenesis, diagnosis, and management [published correction appears inLancet. 2017 Oct 14;390(10104):1736. doi: 10.1016/S0140-6736(17)31502-7].Lancet.2015;386(10000):1278-1287.doi:10.1016/S0140-6736(15)00275-5
+1.Bhangu A, Søreide K, Di Saverio S, Assarsson JH, Drake FT.Acute appendicitis: modern understanding of pathogenesis, diagnosis, and management [published correction appears inLancet. 2017 Oct 14;390(10104):1736. doi: 10.1016/S0140-6736(17)31502-7].Lancet.2015;386(10000):1278-1287.doi:10.1016/S0140-6736(15)00275-5
+若患者症状及体征典型，则应进行剖腹手术，而非继续完善影像学检查。
+若患者症状及体征典型，则应进行剖腹手术，而非继续完善影像学检查。
+若患者临床表现不足以支持诊断，则应行CT检查，对于儿童行腹部超声检查。
+若患者临床表现不足以支持诊断，则应行CT检查，对于儿童行腹部超声检查。
+术前给药第三代头孢菌素，若阑尾已穿孔，术后需续用。
+术前给药第三代头孢菌素，若阑尾已穿孔，术后需续用。

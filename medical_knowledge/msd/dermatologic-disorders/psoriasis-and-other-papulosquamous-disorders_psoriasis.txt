@@ -1,0 +1,346 @@
+标题：银屑病
+来源：https://www.msdmanuals.cn/professional/dermatologic-disorders/psoriasis-and-other-papulosquamous-disorders/psoriasis
+============================================================
+
+银屑病的特征为表皮角质形成细胞的过度增殖，并伴有表皮和真皮的炎症反应。它也是一种慢性炎症性疾病，可能累及多器官。
+对不同人群银屑病患病率的估计差异很大，与浅色皮肤的人相比，深色皮肤的人银屑病的报告可能较少（1）。在一项关于全球流行病学趋势的系统综述中，发现银屑病在各个地理区域的分布不均匀（2, 3）。银屑病发病率以大洋洲最高（1.99%），其次为西欧（1.92%）、中欧（1.83%）和北美（1.50%）；拉丁美洲南部较低（1.10%），东亚最低（0.14%）。在资源丰富的国家和人口较老的地区，该病的诊断更为频繁。成人通常比儿童更常受累，但该疾病可在任何年龄发生。有证据表明年发病率呈上升趋势，这可能部分归因于诊断标准的演变（4）。
+
+【参考文献】
+1.Kaufman BP, Alexis AF.Psoriasis in Skin of Color: Insights into the Epidemiology, Clinical Presentation, Genetics, Quality-of-Life Impact, and Treatment of Psoriasis in Non-White Racial/Ethnic Groups.Am J Clin Dermatol19(3):405-423, 2018.doi: 10.1007/s40257-017-0332-7
+1.Kaufman BP, Alexis AF.Psoriasis in Skin of Color: Insights into the Epidemiology, Clinical Presentation, Genetics, Quality-of-Life Impact, and Treatment of Psoriasis in Non-White Racial/Ethnic Groups.Am J Clin Dermatol19(3):405-423, 2018.doi: 10.1007/s40257-017-0332-7
+2.Parisi R, Iskandar IYK, Kontopantelis E, et al.National, regional, and worldwide epidemiology of psoriasis: systematic analysis and modelling study.BMJ.2020;369:m1590.doi:10.1136/bmj.m1590
+2.Parisi R, Iskandar IYK, Kontopantelis E, et al.National, regional, and worldwide epidemiology of psoriasis: systematic analysis and modelling study.BMJ.2020;369:m1590.doi:10.1136/bmj.m1590
+3.Armstrong AW, Blauvelt A, Callis Duffin K, et al.Psoriasis.Nat Rev Dis Primers.2025;11(1):45.Published 2025 Jun 26.doi:10.1038/s41572-025-00630-5
+3.Armstrong AW, Blauvelt A, Callis Duffin K, et al.Psoriasis.Nat Rev Dis Primers.2025;11(1):45.Published 2025 Jun 26.doi:10.1038/s41572-025-00630-5
+4.Icen M, Crowson CS, McEvoy MT, et al.Trends in incidence of adult-onset psoriasis over three decades: a population-based study.J Am Acad Dermatol.2009;60(3):394-401.doi:10.1016/j.jaad.2008.10.062
+4.Icen M, Crowson CS, McEvoy MT, et al.Trends in incidence of adult-onset psoriasis over three decades: a population-based study.J Am Acad Dermatol.2009;60(3):394-401.doi:10.1016/j.jaad.2008.10.062
+
+【银屑病的病理生理机制】
+银屑病是一种由先天免疫和适应性免疫的炎症级联反应驱动的角质形成细胞过度增殖的疾病。正常角质形成细胞的成熟和更新大约需要28天。然而，在银屑病中，由于角质形成细胞成熟失败，这种更新加速到3到5天。银屑病的发病机制是由遗传易感性、失调的免疫反应和其他环境触发因素之间复杂的相互作用驱动的（1）。银屑病家族史是一个重要的风险因素。某些基因和人类白细胞抗原（如 HLACw6、HLAB13、HLAB17）与银屑病相关。全基因组连锁分析已鉴定出多个银屑病易感位点；位于 6p21 染色体主要组织相容性复合体（MHC）内的PSORS1位点在决定患者发生银屑病的易感性方面起最重要作用。MHC中的遗传缺陷与广泛的自身免疫性和原发性免疫缺陷疾病有关，包括银屑病。
+先天和适应性免疫反应的改变也影响疾病的发病机制。核心机制（通常是遗传驱动）涉及树突状细胞的激活，树突状细胞分泌白细胞介素(IL)-12和IL-23，促进辅助性T细胞（Th）1、Th17和Th22细胞的分化和扩增。最常见的相关途径是Th17介导的，它产生IL-17和IL-22。产生IL-36的角质形成细胞和产生干扰素-γ和肿瘤坏死因子-α (TNF-α)的Th1细胞也被认为有助于发病，尽管程度较小。认为环境触发因素可诱发进一步的炎症反应，并导致角质形成细胞的继发性过度增殖（2）。
+已明确的诱发因素（风险因素）包括：
+外伤（Koebner同形反应）
+外伤（Koebner同形反应）
+感染（病毒，如艾滋病毒；细菌，如与点滴状银屑病相关的溶血性链球菌）
+感染（病毒，如艾滋病毒；细菌，如与点滴状银屑病相关的溶血性链球菌）
+药物（特别是β受体阻滞剂、氯喹、锂、血管紧张素转换酶抑制剂、吲哚美辛、特比萘芬、干扰素-α、免疫检查点抑制剂和肿瘤坏死因子抑制剂 [3]）
+药物（特别是β受体阻滞剂、氯喹、锂、血管紧张素转换酶抑制剂、吲哚美辛、特比萘芬、干扰素-α、免疫检查点抑制剂和肿瘤坏死因子抑制剂 [3]）
+全身性糖皮质激素停用（特别是红皮病或全身脓疱亚型）
+全身性糖皮质激素停用（特别是红皮病或全身脓疱亚型）
+经历心理压力（4）与银屑病相关，但尚未明确确立为风险因素。
+银屑病的并发症包括银屑病关节炎和指甲变化（如麻点、白甲、指甲碎裂、油斑、甲下角化过度和远端甲剥离）（1）。大约30%的患者在其一生中发展为银屑病关节炎，高达90%的银屑病关节炎患者存在指甲病变。几种疾病被认为与银屑病共存（证据不足以确定因果关系）（5）。这些包括心血管和代谢疾病（如心肌梗死、中风、糖尿病、肥胖）、焦虑和抑郁的风险增加。
+
+【病理生理学参考文献】
+1.Armstrong AW, Read C.Pathophysiology, Clinical Presentation, and Treatment of Psoriasis: A Review.JAMA.2020;323(19):1945-1960.doi:10.1001/jama.2020.4006
+1.Armstrong AW, Read C.Pathophysiology, Clinical Presentation, and Treatment of Psoriasis: A Review.JAMA.2020;323(19):1945-1960.doi:10.1001/jama.2020.4006
+2.Zhou X, Chen Y, Cui L, et al: Advances in the pathogenesis of psoriasis: From keratinocyte perspective.Cell Death Dis13(1):81, 2022.doi: 10.1038/s41419-022-04523-3
+2.Zhou X, Chen Y, Cui L, et al: Advances in the pathogenesis of psoriasis: From keratinocyte perspective.Cell Death Dis13(1):81, 2022.doi: 10.1038/s41419-022-04523-3
+3.Grželj J, Sollner Dolenc M.The role of xenobiotics in triggering psoriasis.Arch Toxicol.2020;94(12):3959-3982.doi:10.1007/s00204-020-02870-8
+3.Grželj J, Sollner Dolenc M.The role of xenobiotics in triggering psoriasis.Arch Toxicol.2020;94(12):3959-3982.doi:10.1007/s00204-020-02870-8
+4.Snast I, Reiter O, Atzmony L, et al.Psychological stress and psoriasis: a systematic review and meta-analysis.Br J Dermatol.2018;178(5):1044-1055.doi:10.1111/bjd.16116
+4.Snast I, Reiter O, Atzmony L, et al.Psychological stress and psoriasis: a systematic review and meta-analysis.Br J Dermatol.2018;178(5):1044-1055.doi:10.1111/bjd.16116
+5.Griffiths CEM, Armstrong AW, Gudjonsson JE, et al. Psoriasis.Lancet.2021;397(10281):1301-1315.doi:10.1016/S0140-6736(20)32549-6
+5.Griffiths CEM, Armstrong AW, Gudjonsson JE, et al. Psoriasis.Lancet.2021;397(10281):1301-1315.doi:10.1016/S0140-6736(20)32549-6
+
+【银屑病的症状和体征】
+银屑病的经典形态为边界清楚的红斑性斑块，表面覆有银白色鳞屑。皮损可无症状或伴瘙痒，常累及头皮、肘膝伸侧、骶部、臀部（常见于臀裂）及生殖器。指甲和眉毛也可能受累。
+深色皮肤患者的斑块可能呈紫色，浅色皮肤患者的斑块呈粉红色或红色，但关键特征，如鳞屑和分布(例如，在肘部伸肌、躯干、腿部和脐周区域)在所有肤色中是一致的。
+逆型银屑病（也称为屈侧银屑病）发生在皮肤皱褶区，包括腋窝、脐、乳下和肛周区域。
+皮损可泛发全身，由这些区域扩展融合。
+银屑病是导致红皮病的最常见的潜在皮肤病之一（这是一种临床综合征，其特征是广泛的红斑和鳞屑，通常涉及75%以上的皮肤），特别是红皮病型银屑病。红皮病性银屑病是一种罕见且可能危及生命的银屑病变体，表现为全身（体表面积的75 - 90%）全身性红斑和脱屑。广泛的炎症可引发发烧、寒战、不适等症状，以及因皮肤表面大量不显性液体丢失而引起的后遗症。
+形态学特征因银屑病亚型而异。
+银屑病 通常表现为斑块覆盖着厚厚的、银色的、有光泽的鳞屑。银屑病斑块是凸起的、可触及的病变>直径10毫米。
+银屑病 通常表现为斑块覆盖着厚厚的、银色的、有光泽的鳞屑。银屑病斑块是凸起的、可触及的病变>直径10毫米。
+图片由医学博士Thomas Habif提供。
+该图显示了银屑病斑块。 在肤色较深的患者中，斑块可能看起来呈紫色，但关键特征如鳞屑和分布（例如，伸肘、躯干、腿和脐周区域）在所有肤色中都是一致的。
+该图显示了银屑病斑块。 在肤色较深的患者中，斑块可能看起来呈紫色，但关键特征如鳞屑和分布（例如，伸肘、躯干、腿和脐周区域）在所有肤色中都是一致的。
+Image courtesy of Karen McKoy, MD.
+这张照片显示肘部伸肌表面覆盖有银白色鳞屑的红斑斑块。 这种外观是典型的斑块状银屑病。
+这张照片显示肘部伸肌表面覆盖有银白色鳞屑的红斑斑块。 这种外观是典型的斑块状银屑病。
+SCIENCE PHOTO LIBRARY
+这张照片显示了鳞片状、红斑和厚皮斑块，以及变色、易碎的指甲。
+这张照片显示了鳞片状、红斑和厚皮斑块，以及变色、易碎的指甲。
+DR. HAROUT TANIELIAN/SCIENCE PHOTO LIBRARY
+这张照片显示了银屑病患者头皮上的红色、片状和增厚的皮肤。
+这张照片显示了银屑病患者头皮上的红色、片状和增厚的皮肤。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+照片显示银屑病患者不规则的凹坑和黄褐色变色区域（油斑）。
+照片显示银屑病患者不规则的凹坑和黄褐色变色区域（油斑）。
+© Springer Science+Business Media
+左图显示大脚趾指甲变厚和碎裂。手部可见凹痕和甲裂（右），提示诊断为指甲银屑病。
+左图显示大脚趾指甲变厚和碎裂。手部可见凹痕和甲裂（右），提示诊断为指甲银屑病。
+© Springer Science+Business Media
+这张图片显示了红皮病脓疱型银屑病患者脚底上的广泛脓疱。
+这张图片显示了红皮病脓疱型银屑病患者脚底上的广泛脓疱。
+Image courtesy of Karen McKoy, MD.
+这张照片显示了哈洛波连续性肢端皮炎（一种局部形式的脓疱性银屑病）患者手指尖的脓疱病变。
+这张照片显示了哈洛波连续性肢端皮炎（一种局部形式的脓疱性银屑病）患者手指尖的脓疱病变。
+© Springer Science+Business Media
+在反向银屑病中，在乳房下皱襞等擦伤区域形成红色闪亮斑块（有时没有鳞屑）。
+在反向银屑病中，在乳房下皱襞等擦伤区域形成红色闪亮斑块（有时没有鳞屑）。
+SCIENCE PHOTO LIBRARY
+这张照片显示了一名 22 岁男性点滴状银屑病患者躯干上的多个斑块。
+这张照片显示了一名 22 岁男性点滴状银屑病患者躯干上的多个斑块。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+这张照片显示了红皮病型银屑病患者躯干上的弥漫性红斑皮疹。
+这张照片显示了红皮病型银屑病患者躯干上的弥漫性红斑皮疹。
+SCIENCE PHOTO LIBRARY
+这张照片显示了掌跖银屑病患者手掌上角化过度的离散斑块。
+这张照片显示了掌跖银屑病患者手掌上角化过度的离散斑块。
+SCIENCE PHOTO LIBRARY
+这张照片显示了掌跖银屑病患者脚底的角化过度离散斑块。
+这张照片显示了掌跖银屑病患者脚底的角化过度离散斑块。
+SCIENCE PHOTO LIBRARY
+这张照片显示了脓疱型牛皮癣患者脚部的红斑和脓疱。
+这张照片显示了脓疱型牛皮癣患者脚部的红斑和脓疱。
+Image courtesy of Karen McKoy, MD.
+银屑病 通常表现为斑块覆盖着厚厚的、银色的、有光泽的鳞屑。银屑病斑块是凸起的、可触及的病变>直径10毫米。
+银屑病 通常表现为斑块覆盖着厚厚的、银色的、有光泽的鳞屑。银屑病斑块是凸起的、可触及的病变>直径10毫米。
+图片由医学博士Thomas Habif提供。
+该图显示了银屑病斑块。 在肤色较深的患者中，斑块可能看起来呈紫色，但关键特征如鳞屑和分布（例如，伸肘、躯干、腿和脐周区域）在所有肤色中都是一致的。
+该图显示了银屑病斑块。 在肤色较深的患者中，斑块可能看起来呈紫色，但关键特征如鳞屑和分布（例如，伸肘、躯干、腿和脐周区域）在所有肤色中都是一致的。
+Image courtesy of Karen McKoy, MD.
+这张照片显示肘部伸肌表面覆盖有银白色鳞屑的红斑斑块。 这种外观是典型的斑块状银屑病。
+这张照片显示肘部伸肌表面覆盖有银白色鳞屑的红斑斑块。 这种外观是典型的斑块状银屑病。
+SCIENCE PHOTO LIBRARY
+这张照片显示了鳞片状、红斑和厚皮斑块，以及变色、易碎的指甲。
+这张照片显示了鳞片状、红斑和厚皮斑块，以及变色、易碎的指甲。
+DR. HAROUT TANIELIAN/SCIENCE PHOTO LIBRARY
+这张照片显示了银屑病患者头皮上的红色、片状和增厚的皮肤。
+这张照片显示了银屑病患者头皮上的红色、片状和增厚的皮肤。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+照片显示银屑病患者不规则的凹坑和黄褐色变色区域（油斑）。
+照片显示银屑病患者不规则的凹坑和黄褐色变色区域（油斑）。
+© Springer Science+Business Media
+左图显示大脚趾指甲变厚和碎裂。手部可见凹痕和甲裂（右），提示诊断为指甲银屑病。
+左图显示大脚趾指甲变厚和碎裂。手部可见凹痕和甲裂（右），提示诊断为指甲银屑病。
+© Springer Science+Business Media
+这张图片显示了红皮病脓疱型银屑病患者脚底上的广泛脓疱。
+这张图片显示了红皮病脓疱型银屑病患者脚底上的广泛脓疱。
+Image courtesy of Karen McKoy, MD.
+这张照片显示了哈洛波连续性肢端皮炎（一种局部形式的脓疱性银屑病）患者手指尖的脓疱病变。
+这张照片显示了哈洛波连续性肢端皮炎（一种局部形式的脓疱性银屑病）患者手指尖的脓疱病变。
+© Springer Science+Business Media
+在反向银屑病中，在乳房下皱襞等擦伤区域形成红色闪亮斑块（有时没有鳞屑）。
+在反向银屑病中，在乳房下皱襞等擦伤区域形成红色闪亮斑块（有时没有鳞屑）。
+SCIENCE PHOTO LIBRARY
+这张照片显示了一名 22 岁男性点滴状银屑病患者躯干上的多个斑块。
+这张照片显示了一名 22 岁男性点滴状银屑病患者躯干上的多个斑块。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+这张照片显示了红皮病型银屑病患者躯干上的弥漫性红斑皮疹。
+这张照片显示了红皮病型银屑病患者躯干上的弥漫性红斑皮疹。
+SCIENCE PHOTO LIBRARY
+这张照片显示了掌跖银屑病患者手掌上角化过度的离散斑块。
+这张照片显示了掌跖银屑病患者手掌上角化过度的离散斑块。
+SCIENCE PHOTO LIBRARY
+这张照片显示了掌跖银屑病患者脚底的角化过度离散斑块。
+这张照片显示了掌跖银屑病患者脚底的角化过度离散斑块。
+SCIENCE PHOTO LIBRARY
+这张照片显示了脓疱型牛皮癣患者脚部的红斑和脓疱。
+这张照片显示了脓疱型牛皮癣患者脚部的红斑和脓疱。
+Image courtesy of Karen McKoy, MD.
+在该病不同的亚型中(见表银屑病亚型)，斑块型银屑病（寻常型银屑病或慢性斑块型银屑病）约占90%；损害孤立，表现为红色丘疹或斑块，表面覆以较厚的银白色云母状鳞屑。皮损逐渐进展，呈自然缓解和复发规律，也可因诱发因素的出现和消失而改变。
+银屑病关节炎可致残（银屑病关节炎）；最终可能发生关节破坏。
+银屑病很少危及生命，但可能会影响患者仪容。除外观影响外，使用局部药物治疗广泛的皮肤或头皮皮损以及维持衣物和床上用品清洁所需的大量时间，也可能对生活质量产生不利影响。
+
+【牛皮癣亚型】
+牛皮癣亚型
+治疗和预后
+Hallopeau连续性肢端皮炎
+局限于远端指趾的脓疱型银屑病，有时仅限于一指趾；
+消退后覆以鳞屑和痂皮
+治疗：全身维甲酸类、维生素 D3 类似物（如卡泊三醇）、局部糖皮质激素、全身免疫抑制剂（如生物制剂、小分子药物）。
+预后：加重或缓解
+红皮病型银屑病
+缓慢或突然出现大面积红斑，多见于斑块型银屑病患者（也可以是初发表现）；典型的银屑病斑块不明显或缺如
+最常见的诱因是不当使用局部或全身糖皮质激素或光疗。
+治疗：全身免疫抑制剂（例如甲氨蝶呤、环孢素、生物制剂、小分子）或强力局部治疗，有时作为住院治疗
+焦油，蒽和光疗可能导致病情恶化。
+预后：消除诱发因素后预后良好
+泛发性脓疱型银屑病
+全身爆发红斑和无菌性脓疱
+治疗：系统性免疫抑制剂（例如，生物制剂、环孢素）
+预后：不治疗可因致高输出性心力衰竭致死
+点滴状银屑病
+突然出现多发的斑块，直径0.5～1.5cm，常位于儿童和年轻人躯干，继发于链球菌性咽炎
+治疗：必要时使用抗生素治疗潜在的链球菌感染
+使用抗生素后可能进行局部和/或全身治疗
+预后：极好，一般可永久治愈
+可能进展为斑块型银屑病
+反转型银屑病
+皮损位于腹股沟、臀、腋窝、乳房下和耳后皱襞处以及未切除包皮的龟头处、
+皲裂或裂隙可在受累区域中心或边缘形成
+可能没有鳞屑
+治疗：使用最低有效强度的局部糖皮质激素，可联合或不联合维生素 D3 类似物（如卡泊三醇）。
+治疗失败患者或可使用他克莫司0.1％软膏
+焦油和蒽林可能产生刺激
+预后：加重或缓解
+甲银屑病
+点状凹陷，点彩斑，碎屑，变色（油滴征），和（或）甲增厚，伴或不伴甲板分离（甲松离）。
+可能酷似甲真菌感染。
+其他类型银屑病患者中有30％～50％甲受累
+治疗：对免疫抑制剂（例如生物制剂、小分子）的全身治疗反应最佳
+对于耐受性较好或较为坚忍的患者，可考虑对甲周襞进行糖皮质激素的病灶内注射。
+预后：通常对治疗无反应
+掌跖银屑病
+角化过度，手掌和/或脚底区域离散斑块，易于融合
+治疗：全身维甲酸类、局部糖皮质激素、维生素 D3 类似物（如卡泊三醇）、全身免疫抑制剂（如甲氨蝶呤、环孢素、生物制剂、小分子药物）。
+变大或变小
+即使治疗亦很少完全治愈
+斑块型银屑病
+缓慢起病的孤立性红色丘疹或斑块，表面覆以较厚的银白色云母状鳞屑
+皮损呈自然缓解和复发规律，也可因诱发因素的出现和消失而改变
+治疗：使用最低有效强度的局部糖皮质激素，可联合或不联合维生素 D3 类似物（如卡泊三醇）。
+全身免疫抑制剂（例如甲氨蝶呤、环孢素、生物制剂、小分子）
+预后：加重或缓解
+掌跖脓疱病（手掌和足底脓疱性银屑病）
+掌跖部的深部脓疱，病程缓慢。
+耀斑可能会造成疼痛和致残
+典型的银屑病损害可能缺如、
+治疗：系统性维甲酸类药物或补骨脂联合UVA（PUVA）疗法
+预后：加重或缓解
+
+【银屑病的诊断】
+主要体格检查
+主要体格检查
+极少活检
+极少活检
+银屑病的诊断通常基于皮损的临床表现和分布。
+鉴别诊断包括：
+脂溢性皮炎
+脂溢性皮炎
+皮肤癣菌病（对于任何鳞屑斑块应该进行氢氧化钾湿敷，特别是如果它们没有湿疹或银屑病的典型外观）
+皮肤癣菌病（对于任何鳞屑斑块应该进行氢氧化钾湿敷，特别是如果它们没有湿疹或银屑病的典型外观）
+皮肤型红斑狼疮
+皮肤型红斑狼疮
+扁平苔藓
+扁平苔藓
+变应性接触性皮炎
+变应性接触性皮炎
+玫瑰糠疹
+玫瑰糠疹
+原位鳞状细胞癌（鲍温病, 特别是在躯干上时;对于对常规治疗无反应的孤立斑块，应考虑此诊断）
+原位鳞状细胞癌（鲍温病, 特别是在躯干上时;对于对常规治疗无反应的孤立斑块，应考虑此诊断）
+慢性单纯性苔藓
+慢性单纯性苔藓
+二期梅毒
+二期梅毒
+活检很少需要，且可能无诊断价值；但在临床表现不典型或患者对标准治疗反应不符合预期时，可予以考虑。
+疾病通常根据受累体表面积及皮损对患者生活质量的影响程度，分为轻度、中度或重度。除了体表面积外，在确定是否适合局部治疗、光疗或全身治疗时，还应考虑高影响部位（如面部、手部）的受累情况来评估银屑病的严重程度。
+
+【银屑病的治疗】
+局部治疗
+局部治疗
+光疗【紫外线（UV）光疗法】
+光疗【紫外线（UV）光疗法】
+全身治疗
+全身治疗
+治疗选择范围广泛，从局部治疗（如糖皮质激素、维生素 D3 类似物、钙调神经磷酸酶抑制剂、他扎罗汀、罗氟司特、他匹那罗夫、润肤剂、水杨酸、煤焦油）到光疗（如紫外线治疗），再到全身治疗（如甲氨蝶呤、口服维甲酸类、环孢素、生物制剂、小分子药物）。
+临床决策指导初始治疗选择的首要考虑因素是银屑病患者是否并发银屑病关节炎，在这种情况下应考虑全身治疗。如果不存在银屑病关节炎，则根据体表面积、高影响部位受累情况、患者偏好、生活质量考虑、既往对局部药物的反应以及其他合并症的存在等因素来制定治疗方案。
+
+【治疗方法的选择】
+具体药物及其联合方案的选择需要与患者密切合作，并始终充分考虑不良反应谱。至今尚无单一的理想用药组合或治疗顺序，但治疗应当尽量简单。首选单一治疗，但联合用药也很常见。
+交替疗法是指在一种方法治疗1～2年后继以另一种方法，以此减少长期用药所致的副作用和药物耐受性。 序贯治疗是指初期使用强效药物（例如环孢菌素）以迅速控制病情，随后改为更为安全的治疗方案。免疫抑制剂比甲氨蝶呤或窄带UVB更能清除或接近清除病变。
+轻度斑块型银屑病可采用润肤剂、角质溶解剂、焦油制剂、局部糖皮质激素、糖皮质激素节约型局部药物（如钙调神经磷酸酶抑制剂、PDE-4 抑制剂、他匹那罗夫）、维生素 D3 类似物或蒽林，单独或联合治疗。加以日晒效果更佳，但是晒伤可能加重病情。
+中至重度斑块型银屑病的治疗应使用局部治疗结合光疗或系统治疗。免疫抑制剂用于对其他药物无反应的中度至重度疾病。
+头皮斑块常因局部药物涂抹困难及在紫外线治疗时保护皮肤的物理限制而治疗棘手。头皮疾病对患者来说尤其沉重。对头皮更友好的多种配方包括酒精或水基溶液和液体、泡沫、洗发水、凝胶，以及在更顽固的情况下，油剂（夜间使用，早上洗掉）。一项随机试验的系统评价发现，多种IL-17抑制剂，包括布罗达单抗、司库奇尤单抗和伊克珠单抗（在重度银屑病患者亚组中），在治疗中重度头皮银屑病方面显示高效性，其中布罗达单抗和伊克珠单抗表现出快速反应（1）。古塞库单抗（IL-23抑制剂）优于阿达木单抗（TNF抑制剂），伊克珠单抗优于依那西普（TNF抑制剂）。阿普米司特提供长期疗效。
+中度至重度头皮银屑病患者可能从全身免疫抑制治疗（如生物制剂、小分子药物）中获益。
+上文描述了各种银屑病亚型的特殊治疗要求。
+对于银屑病关节炎，应重视全身治疗，以预防关节破坏、减轻疼痛并改善或维持功能。
+（另见美国皮肤病学会协会的银屑病临床指南。）
+
+【局部治疗】
+糖皮质激素通常以局部用药为主，但也可注射用于小的或顽固性的斑块。（注意：全身用糖皮质激素可能诱发病情加重或促发脓疱型银屑病，因此不应用于治疗银屑病。）局部糖皮质激素是轻度至中度银屑病的主要药物，其效力和配方应根据受累部位和程度适当调整。局部糖皮质激素通常每日使用 2 次。糖皮质激素在夜间于聚乙烯封包下使用或制成贴剂时疗效最佳；白天则不封包使用糖皮质激素乳膏。糖皮质激素效力的选择取决于受累范围。局部使用糖皮质激素可能受到后勤考虑（例如，费用、大面积治疗时的不便）和潜在不良反应的限制。长期将局部糖皮质激素应用于大面积皮肤亦可产生全身性作用，并可能反而加重银屑病。
+随着皮损减轻，应降低用药频率或改用较低效价的糖皮质激素，以减少局部皮肤萎缩、皮纹形成及毛细血管扩张。理想情况下，在约2至3周后，糖皮质激素应替换为糖皮质激素节约性药物。
+对于慢性或维持治疗，建议同时使用外用糖皮质激素和糖皮质激素节约性替代方案（如外用tapinarof或roflumilast）的方案（例如每周两次），以减少皮肤萎缩的风险并维持缓解。维生素D类似物是另一种选择。亦应考虑光疗和全身治疗药物。如果糖皮质激素节约选择单独有效，单药治疗可能是可以接受的，特别是对于更容易受糖皮质激素诱发不良反应的部位。这种替换限制了局部糖皮质激素的暴露并降低了不良反应的风险（如皮肤萎缩、毛细血管扩张、易瘀伤、萎缩纹）。对于小而厚、局限性或顽固性皮损，可在封包敷料或氟兰德诺利德贴剂下使用高效价糖皮质激素；敷料通常夜间贴敷，晨起更换。停用局部糖皮质激素治疗后，复发往往较其他药物更快发生。
+维生素 D3 类似物（如卡泊三醇〔卡泊三烯〕、骨化三醇）为局部用药，可诱导角质形成细胞正常增殖与分化；可单独使用，也可与局部糖皮质激素联合使用。部分临床医师会让患者在工作日使用卡泊三醇，在周末使用糖皮质激素。
+钙调神经磷酸酶抑制剂（例如他克莫司、吡美莫司）均有外用制剂并且大多具有较好耐受性。其疗效不及糖皮质激素，但在治疗面部及皮肤皱褶部位银屑病时，可避免糖皮质激素相关并发症。来自大型队列研究和评估局部钙调磷酸酶抑制剂使用相关淋巴瘤风险的荟萃分析的数据是混合的。一些研究报告了淋巴瘤风险的小幅但统计学上显著的增加（2），而其他研究未发现风险增加（3）。此外，总体证据不支持皮肤癌风险增加。
+他扎罗汀是一种局部外用维A酸。作为单药治疗时疗效低于糖皮质激素，但由于其角质溶解作用，可作为有用的辅助治疗。它通常用于治疗可能出现在躯干和四肢上的较厚的牛皮癣斑块，但也可以用于面部。
+罗氟司特是一种局部磷酸二酯酶 4 (PDE-4) 抑制剂。它通过下调促炎细胞因子和正常化角质细胞功能发挥抗炎和止痒作用。该药有乳膏剂和泡沫剂两种制剂形式。罗氟司特乳膏作为一种非糖皮质激素替代治疗，尤其适用于娇嫩的面部及皮肤皱褶区域（如臀部、腹股沟、腋下）。泡沫制剂有助于渗透头皮和/或其他多毛（有毛发覆盖）区域的病变。局部罗氟司特使用最常见的不良反应是头痛。
+他扎罗汀是一种局部芳香烃受体（AhR）激动剂，用作单药治疗或与局部糖皮质激素或光疗联合治疗轻度至中度银屑病。其亦可作为面部及皮肤皱褶部位的非糖皮质激素替代治疗。常见的不良反应包括应用部位的刺激性红斑、灼烧和瘙痒，特别是在皮肤皱褶区使用时；痤疮和毛囊炎也有报道。
+其他辅助局部治疗包括润肤剂、水杨酸、煤焦油和蒽林:
+润肤剂包括润肤霜、软膏、凡士林、石蜡，甚至氢化植物油（如椰子油）。它们可以减少鳞屑，一天两次及洗浴后立即外涂疗效最佳。由于鳞屑减少，皮疹可能更红或变得更加透明。润肤剂是安全的，通常应用作轻度至中度斑块型银屑病的辅助药物。虽然润肤霜和软膏不能改变疾病进程，但它们可以增强皮肤屏障修复，减少鳞屑和/或干燥，从而改善外观和舒适度。较厚的润肤剂（如凡士林）可以增强局部活性剂的渗透，如果与光疗一起使用，矿物油可以增强紫外线的渗透。
+润肤剂包括润肤霜、软膏、凡士林、石蜡，甚至氢化植物油（如椰子油）。它们可以减少鳞屑，一天两次及洗浴后立即外涂疗效最佳。由于鳞屑减少，皮疹可能更红或变得更加透明。润肤剂是安全的，通常应用作轻度至中度斑块型银屑病的辅助药物。虽然润肤霜和软膏不能改变疾病进程，但它们可以增强皮肤屏障修复，减少鳞屑和/或干燥，从而改善外观和舒适度。较厚的润肤剂（如凡士林）可以增强局部活性剂的渗透，如果与光疗一起使用，矿物油可以增强紫外线的渗透。
+水杨酸是一类角质剥脱剂，可软化鳞屑，使之易于剥除，并促进其他外用药物的吸收。由于头皮鳞屑可以相当厚，因此它对头皮皮损尤其有效。
+水杨酸是一类角质剥脱剂，可软化鳞屑，使之易于剥除，并促进其他外用药物的吸收。由于头皮鳞屑可以相当厚，因此它对头皮皮损尤其有效。
+煤焦油软膏溶液或是洗发剂具有抗炎和减少角质形成细胞过度增生的作用，其机制至今未明。常规治疗方法为夜间外用，清晨洗去。煤焦油制剂可与局部糖皮质激素联合使用，或联合自然或人工广谱 UVB 光（280–320 nm）逐渐递增照射（Goeckerman 方案）。洗发剂应停留5到10分钟，然后冲洗掉。
+煤焦油软膏溶液或是洗发剂具有抗炎和减少角质形成细胞过度增生的作用，其机制至今未明。常规治疗方法为夜间外用，清晨洗去。煤焦油制剂可与局部糖皮质激素联合使用，或联合自然或人工广谱 UVB 光（280–320 nm）逐渐递增照射（Goeckerman 方案）。洗发剂应停留5到10分钟，然后冲洗掉。
+蒽林（地蒽酚）是一种局部抗增殖、抗炎药物，在其他药物可用的地理区域不是首选治疗。其机制至今不明。起始有效浓度为0.1%的乳剂或软膏，如能耐受，可增加至1％。蒽林具有刺激性，在间擦部位使用时应小心；另外，它也容易使皮肤染色。使用后20至 30 分钟洗掉蒽林可以避免刺激和染色。使用脂质体封装的制剂也可以避免蒽林的一些缺点。
+蒽林（地蒽酚）是一种局部抗增殖、抗炎药物，在其他药物可用的地理区域不是首选治疗。其机制至今不明。起始有效浓度为0.1%的乳剂或软膏，如能耐受，可增加至1％。蒽林具有刺激性，在间擦部位使用时应小心；另外，它也容易使皮肤染色。使用后20至 30 分钟洗掉蒽林可以避免刺激和染色。使用脂质体封装的制剂也可以避免蒽林的一些缺点。
+鉴于其他治疗手段的可及性和便利性，在资源充足、可获得替代治疗的环境中，煤焦油和蒽林的使用频率正逐渐降低。
+紫外线光疗通常用于皮损广泛的银屑病患者；但由于有效的替代性全身治疗药物的出现，其应用正逐渐减少。其作用机制尚未完全阐明；但已知 UVB 光可减少 DNA 合成，并可诱导轻度全身性免疫抑制。窄谱 UVB 光（311–312 nm）无需联合补骨脂素，其疗效与补骨脂素联合紫外线 A（PUVA）相当。然而，在有窄带UVB的情况下，临床更倾向于使用窄带UVB而不是PUVA。一项研究表明，基于家庭的窄带UVB光疗治疗斑块或点滴状银屑病与基于办公室的治疗一样有效，而且负担更少（4）。
+补骨脂素-长波紫外线照射疗法（PUVA）中是在口服光敏剂甲氧基补骨脂素后，再照射长波紫外线A（330～360nm）。PUVA有抗增殖作用，同时有助于角质形成细胞正常分化。照射从低剂量开始，如耐受则可增加。然而，其不良反应限制了其使用。如果药物或紫外线剂量过高可造成严重的灼伤。
+虽然这种治疗方法比外用药物来得清洁，且所诱导的缓解可持续数月，但重复治疗可增加紫外线诱发的皮肤癌及黑色素瘤的发病率。口服维A酸类药物时需要减少紫外线照射量（故称为改良PUVA法）。准分子激光治疗是一类运用308纳米激光针对局灶性银屑病斑块的光疗
+
+【全身治疗】
+口服甲氨蝶呤是治疗中重度银屑病的中等效果治疗，对银屑病关节炎的疗效数据混合。甲氨蝶呤也可用于某些对局部药物或紫外线治疗（窄带UVB）无反应的脓疱性银屑病和掌跖疾病。用药时必须监测血液系统，肾脏和肝脏功能。剂量方案各不相同，因此只有具有银屑病使用经验的医生才能进行甲氨蝶呤治疗。
+环孢霉素适用于重症银屑病。它对肾脏的副作用及对免疫系统潜在的长期影响阻碍了它的大量应用。它对肾脏的影响和对免疫系统的潜在长期影响阻碍了更广泛的使用。
+全身维甲酸类药物（如阿维 A、异维 A 酸）可用于治疗严重或顽固性寻常型银屑病、脓疱型银屑病（其中异维 A 酸可为或不为首选），以及角化过度型掌跖银屑病。由于阿维 A 在体内具有致畸潜能且长期滞留，不应用于妊娠期患者或具有生育潜能者；此类患者还应被告知，在治疗结束后至少 3 年内避免妊娠。口服异维A酸同样需要避孕，但该药在体内停留不超过1个月。长期治疗可能与弥漫性特发性骨肥厚症（DISH）相关。
+几类生物制剂（治疗性单克隆抗体）已显示出治疗中度至重度斑块状银屑病的功效（5, 6）：
+肿瘤坏死因子（TNF）抑制剂：依那西普、阿达木单抗、英夫利西单抗、戈利木单抗（仅用于银屑病关节炎）以及西妥利珠单抗聚乙二醇（不通过胎盘）。
+肿瘤坏死因子（TNF）抑制剂：依那西普、阿达木单抗、英夫利西单抗、戈利木单抗（仅用于银屑病关节炎）以及西妥利珠单抗聚乙二醇（不通过胎盘）。
+白细胞介素 (IL)-23 抑制剂：Tildrakizumab、risankizumab、guselkumab 和 ustekinumab（同时针对 IL-12 和 IL-23）
+白细胞介素 (IL)-23 抑制剂：Tildrakizumab、risankizumab、guselkumab 和 ustekinumab（同时针对 IL-12 和 IL-23）
+IL-17 抑制剂：司库奇尤单抗、依奇珠单抗、比美木单抗和布罗达木单抗。
+IL-17 抑制剂：司库奇尤单抗、依奇珠单抗、比美木单抗和布罗达木单抗。
+阿普米司特，一种 PDE-4 抑制剂，为治疗斑块型银屑病的口服小分子药物；但数据提示其疗效低于生物制剂（7）。
+氘可来昔替尼是一种口服小分子药物，可抑制酪氨酸激酶 2 ，并已显示出治疗银屑病的功效（8,9）。
+Janus 激酶抑制剂（如托法替布、乌帕替尼）用于治疗银屑病关节炎，并且似乎对银屑病亦有效（10）；但在常规用于该适应证之前仍需更多研究。
+司泊利单抗是一种 IL-36 抑制剂，用于治疗泛发性脓疱型银屑病。
+生物类似药适用于上述许多生物制剂类别，已上市或正在开发中(11)。这些药物在疗效和不良反应谱方面与参比制剂非常相似；成分上的轻微差异似乎无临床意义。
+其他免疫抑制剂（例如羟基脲，6-硫鸟嘌呤）安全范围狭窄，被保留用于严重顽固性的银屑病。由于增加进行性多灶性白质脑病的风险，依法利珠单抗在美国和加拿大已不再供应。
+银屑病新兴疗法包括靶向口服肽。Icotrokinra是一种IL-23抑制剂，在中度至重度银屑病成人的随机试验中显示出疗效和可耐受的安全性(12, 13)。
+富马酸酯(如二甲基富马酸、单乙基富马酸)是具有免疫调节特性的化合物，有时用于治疗中度至重度斑块状银屑病，特别是在欧洲，它们是常见的一线全身治疗(14)。
+
+【治疗参考文献】
+1.Alsenaid A, Ezmerli M, Srour J, et al.Biologics and small molecules in patients with scalp psoriasis: a systematic review.J Dermatolog Treat.2022;33(1):473-482.doi:10.1080/09546634.2020.1770167
+1.Alsenaid A, Ezmerli M, Srour J, et al.Biologics and small molecules in patients with scalp psoriasis: a systematic review.J Dermatolog Treat.2022;33(1):473-482.doi:10.1080/09546634.2020.1770167
+2.Lam M, Zhu JW, Tadrous M, Drucker AM.Association Between Topical Calcineurin Inhibitor Use and Risk of Cancer, Including Lymphoma, Keratinocyte Carcinoma, and Melanoma: A Systematic Review and Meta-analysis.JAMA Dermatol.2021;157(5):549-558.doi:10.1001/jamadermatol.2021.0345
+2.Lam M, Zhu JW, Tadrous M, Drucker AM.Association Between Topical Calcineurin Inhibitor Use and Risk of Cancer, Including Lymphoma, Keratinocyte Carcinoma, and Melanoma: A Systematic Review and Meta-analysis.JAMA Dermatol.2021;157(5):549-558.doi:10.1001/jamadermatol.2021.0345
+3.Arana A, Pottegård A, Kuiper JG, et al.Long-Term Risk of Skin Cancer and Lymphoma in Users of Topical Tacrolimus and Pimecrolimus: Final Results from the Extension of the Cohort Study Protopic Joint European Longitudinal Lymphoma and Skin Cancer Evaluation (JOELLE).Clin Epidemiol.2021;13:1141-1153.Published 2021 Dec 29.doi:10.2147/CLEP.S331287
+3.Arana A, Pottegård A, Kuiper JG, et al.Long-Term Risk of Skin Cancer and Lymphoma in Users of Topical Tacrolimus and Pimecrolimus: Final Results from the Extension of the Cohort Study Protopic Joint European Longitudinal Lymphoma and Skin Cancer Evaluation (JOELLE).Clin Epidemiol.2021;13:1141-1153.Published 2021 Dec 29.doi:10.2147/CLEP.S331287
+4.Gelfand JM, Armstrong AW, Lim HW, et al.Home- vs Office-Based Narrowband UV-B Phototherapy for Patients With Psoriasis: The LITE Randomized Clinical Trial.JAMA Dermatol.2024;160(12):1320-1328.doi:10.1001/jamadermatol.2024.3897
+4.Gelfand JM, Armstrong AW, Lim HW, et al.Home- vs Office-Based Narrowband UV-B Phototherapy for Patients With Psoriasis: The LITE Randomized Clinical Trial.JAMA Dermatol.2024;160(12):1320-1328.doi:10.1001/jamadermatol.2024.3897
+5.Sbidian E, Chaimani A, Garcia-Doval I, et al.Systemic pharmacological treatments for chronic plaque psoriasis: A network meta-analysis.Cochrane Database Syst Rev12(12):CD011535, 2017.doi: 10.1002/14651858.CD011535.pub2
+5.Sbidian E, Chaimani A, Garcia-Doval I, et al.Systemic pharmacological treatments for chronic plaque psoriasis: A network meta-analysis.Cochrane Database Syst Rev12(12):CD011535, 2017.doi: 10.1002/14651858.CD011535.pub2
+6.Armstrong AW, Read C: Pathophysiology, clinical presentation, and treatment of psoriasis: A review.JAMA323(19):1945–1960, 2020.doi: 10.1001/jama.2020.4006
+6.Armstrong AW, Read C: Pathophysiology, clinical presentation, and treatment of psoriasis: A review.JAMA323(19):1945–1960, 2020.doi: 10.1001/jama.2020.4006
+7.Armstrong AW, Puig L, Joshi A, et al: Comparison of Biologics and Oral Treatments for Plaque Psoriasis: A Meta-analysis.JAMA Dermatol156(3):258–269, 2020.doi: 10.1001/jamadermatol.2019.4029
+7.Armstrong AW, Puig L, Joshi A, et al: Comparison of Biologics and Oral Treatments for Plaque Psoriasis: A Meta-analysis.JAMA Dermatol156(3):258–269, 2020.doi: 10.1001/jamadermatol.2019.4029
+8.Armstrong AW, Gooderham M, Warren RB, et al:Deucravacitinibversus placebo andapremilastin moderate to severe plaque psoriasis: Efficacy and safety results from the 52-week, randomized, double-blinded, placebo-controlled phase 3 POETYK PSO-1 trial.J Am Acad Dermatol88(1):29–39, 2023.doi: 10.1016/j.jaad.2022.07.002
+8.Armstrong AW, Gooderham M, Warren RB, et al:Deucravacitinibversus placebo andapremilastin moderate to severe plaque psoriasis: Efficacy and safety results from the 52-week, randomized, double-blinded, placebo-controlled phase 3 POETYK PSO-1 trial.J Am Acad Dermatol88(1):29–39, 2023.doi: 10.1016/j.jaad.2022.07.002
+9.Strober B, Thaçi D, Sofen H, et al:Deucravacitinibversus placebo andapremilastin moderate to severe plaque psoriasis: Efficacy and safety results from the 52-week, randomized, double-blinded, phase 3 Program for Evaluation of TYK2 inhibitor psoriasis second trial.J Am Acad Dermatol88(1):40–51, 2023.doi: 10.1016/j.jaad.2022.08.061
+9.Strober B, Thaçi D, Sofen H, et al:Deucravacitinibversus placebo andapremilastin moderate to severe plaque psoriasis: Efficacy and safety results from the 52-week, randomized, double-blinded, phase 3 Program for Evaluation of TYK2 inhibitor psoriasis second trial.J Am Acad Dermatol88(1):40–51, 2023.doi: 10.1016/j.jaad.2022.08.061
+10.Bachelez H, van de Kerkhof PC, Strohal R, et al:Tofacitinibversusetanerceptor placebo in moderate-to-severe chronic plaque psoriasis: A phase 3 randomised non-inferiority trial.Lancet386(9993):552-561, 2015.doi: 10.1016/S0140-6736(14)62113-9
+10.Bachelez H, van de Kerkhof PC, Strohal R, et al:Tofacitinibversusetanerceptor placebo in moderate-to-severe chronic plaque psoriasis: A phase 3 randomised non-inferiority trial.Lancet386(9993):552-561, 2015.doi: 10.1016/S0140-6736(14)62113-9
+11.Ruda RC, Kelly KA, Feldman SR.Real-world outcomes following switching from anti-TNF reference products to biosimilars for the treatment of psoriasis.J Dermatolog Treat34(1):2140569, 2023.doi: 10.1080/09546634.2022.2140569
+11.Ruda RC, Kelly KA, Feldman SR.Real-world outcomes following switching from anti-TNF reference products to biosimilars for the treatment of psoriasis.J Dermatolog Treat34(1):2140569, 2023.doi: 10.1080/09546634.2022.2140569
+12.Bissonnette R, Pinter A, Ferris LK, et al.An Oral Interleukin-23-Receptor Antagonist Peptide for Plaque Psoriasis.N Engl J Med.2024;390(6):510-521.doi:10.1056/NEJMoa2308713
+12.Bissonnette R, Pinter A, Ferris LK, et al.An Oral Interleukin-23-Receptor Antagonist Peptide for Plaque Psoriasis.N Engl J Med.2024;390(6):510-521.doi:10.1056/NEJMoa2308713
+13.Ferris LK, Bagel J, Huang YH, et al.FRONTIER-2: A phase 2b, long-term extension, dose-ranging study of oral JNJ-77242113 for the treatment of moderate-to-severe plaque psoriasis.J Am Acad Dermatol.2025;92(3):495-502.doi:10.1016/j.jaad.2024.10.076
+13.Ferris LK, Bagel J, Huang YH, et al.FRONTIER-2: A phase 2b, long-term extension, dose-ranging study of oral JNJ-77242113 for the treatment of moderate-to-severe plaque psoriasis.J Am Acad Dermatol.2025;92(3):495-502.doi:10.1016/j.jaad.2024.10.076
+14.Landeck L, Asadullah K, Amasuno A, et al.Dimethyl fumarate (DMF) vs. monoethyl fumarate (MEF) salts for the treatment of plaque psoriasis: a review of clinical data.Arch Dermatol Res.2018;310(6):475-483.doi:10.1007/s00403-018-1825-9
+14.Landeck L, Asadullah K, Amasuno A, et al.Dimethyl fumarate (DMF) vs. monoethyl fumarate (MEF) salts for the treatment of plaque psoriasis: a review of clinical data.Arch Dermatol Res.2018;310(6):475-483.doi:10.1007/s00403-018-1825-9
+
+【银屑病指南】
+以下为与该医学问题相关的专业医学学会或政府发布的临床实践指南；此列表并非详尽无遗：
+American Academy of Dermatology Association: Psoriasis Clinical Guideline; Joint guideline from the American Academy of Dermatology and the National Psoriasis Foundation
+American Academy of Dermatology Association: Psoriasis Clinical Guideline; Joint guideline from the American Academy of Dermatology and the National Psoriasis Foundation
+National Psoriasis Foundation Treatment Guidelines: National Psoriasis Foundation and the American College of Rheumatology joint treatment guideline for psoriatic arthritis
+National Psoriasis Foundation Treatment Guidelines: National Psoriasis Foundation and the American College of Rheumatology joint treatment guideline for psoriatic arthritis
+PsOPsA Hub: Updated Group for Research and Assessment of Psoriasis and Psoriatic Arthritis (GRAPPA) treatment guidelines for psoriatic arthritis
+PsOPsA Hub: Updated Group for Research and Assessment of Psoriasis and Psoriatic Arthritis (GRAPPA) treatment guidelines for psoriatic arthritis
+银屑病是一种常见的影响皮肤的炎症性疾病，病因为基因和一些环境诱发因素（如外伤，感染，某些药物）。
+银屑病是一种常见的影响皮肤的炎症性疾病，病因为基因和一些环境诱发因素（如外伤，感染，某些药物）。
+最常见的皮肤表现通常是界限清楚的红斑丘疹和斑块，斑块状银屑病中覆盖有银色鳞屑，但其他不太常见的银屑病亚型之间的病变不同。
+最常见的皮肤表现通常是界限清楚的红斑丘疹和斑块，斑块状银屑病中覆盖有银色鳞屑，但其他不太常见的银屑病亚型之间的病变不同。
+银屑病关节炎发病率为5-30%，可引起关节故障和残疾。
+银屑病关节炎发病率为5-30%，可引起关节故障和残疾。
+诊断根据病变特征和分布。
+诊断根据病变特征和分布。
+轻度疾病推荐采用局部治疗（如润肤剂、水杨酸、煤焦油制剂、蒽林、糖皮质激素、维生素 D3 类似物、钙调神经磷酸酶抑制剂、PDE-4 抑制剂、他匹那罗夫、他扎罗汀）。
+轻度疾病推荐采用局部治疗（如润肤剂、水杨酸、煤焦油制剂、蒽林、糖皮质激素、维生素 D3 类似物、钙调神经磷酸酶抑制剂、PDE-4 抑制剂、他匹那罗夫、他扎罗汀）。
+对于中度至重度银屑病，可考虑系统性治疗，如维A酸类药物、甲氨蝶呤、环孢素、生物制剂（例如，肿瘤坏死因子抑制剂）和小分子药物（例如，德卡伐替尼、阿普米司特）。
+对于中度至重度银屑病，可考虑系统性治疗，如维A酸类药物、甲氨蝶呤、环孢素、生物制剂（例如，肿瘤坏死因子抑制剂）和小分子药物（例如，德卡伐替尼、阿普米司特）。
+紫外线（UV）光疗可作为希望避免全身免疫抑制治疗患者的替代选择。
+紫外线（UV）光疗可作为希望避免全身免疫抑制治疗患者的替代选择。

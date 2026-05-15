@@ -1,0 +1,123 @@
+标题：弥漫性肺泡出血
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/diffuse-alveolar-hemorrhage-and-pulmonary-renal-syndrome/diffuse-alveolar-hemorrhage
+============================================================
+
+弥漫性肺泡出血通常定义为源于肺微血管的肺泡腔内出血，最常见的是肺泡毛细血管。这一过程导致肺实质弥漫性受累，而非局限性出血。弥漫性肺泡出血并非一种特异的疾病，而是有特定鉴别诊断和特定程序检查的一种综合征。某些引起肺泡出血的疾病与肾小球肾炎相关，因而这种疾病被命名为肺肾综合征。
+
+【弥漫性肺泡出血的病理生理学】
+弥漫性肺泡出血是由于肺泡毛细血管基底膜受损，导致肺小血管广泛破坏，进而使血液积聚在肺泡内所引起的。如果足够多的肺泡受到影响，气体交换就会发生障碍。不同病因者，其特异的病理生理和临床表现有所差异。
+弥漫性肺泡出血的三种主要病理类型是：肺毛细血管炎、单纯性肺出血和弥漫性肺泡损伤。然而，这些模式可能会重叠（即单一的潜在疾病可能显示出不止一种组织学特征）(1)。
+肺毛细血管炎的特征是中性粒细胞浸润和肺泡毛细血管壁的破坏。它最常见于系统性风湿性疾病，如ANCA相关性血管炎和系统性红斑狼疮。单纯性肺出血指肺泡内出血而无显著炎症或毛细血管炎，通常与凝血功能障碍、抗凝药物使用或左心压力升高（如二尖瓣狭窄）相关。弥漫性肺泡损伤是急性呼吸窘迫综合征（ARDS）中的组织病理学模式，可伴有肺泡出血，出血发生在广泛肺泡上皮和内皮损伤的情况下，不伴毛细血管炎或血管炎。
+
+【病理生理学参考文献】
+1.Saha BK, Chong WH, Milman NT.Differentiation of idiopathic pulmonary hemosiderosis from rheumatologic and autoimmune diseases causing diffuse alveolar hemorrhage: establishing a diagnostic approach.Clin Rheumatol.2022;41(2):325-336.doi:10.1007/s10067-021-05895-1
+1.Saha BK, Chong WH, Milman NT.Differentiation of idiopathic pulmonary hemosiderosis from rheumatologic and autoimmune diseases causing diffuse alveolar hemorrhage: establishing a diagnostic approach.Clin Rheumatol.2022;41(2):325-336.doi:10.1007/s10067-021-05895-1
+
+【弥漫性肺泡出血的病因】
+许多疾病可导致肺泡出血，包括：
+自身免疫性疾病（例如系统性血管炎、抗肾小球基底膜（抗GBM）病、抗磷脂综合征）
+自身免疫性疾病（例如系统性血管炎、抗肾小球基底膜（抗GBM）病、抗磷脂综合征）
+心脏疾病（如二尖瓣狭窄）
+心脏疾病（如二尖瓣狭窄）
+疾病或抗凝药物引起的凝血功能障碍
+疾病或抗凝药物引起的凝血功能障碍
+药物诱导性的（如丙硫氧嘧啶、胺碘酮、甲氨蝶呤、呋喃妥因、孟鲁司特、英夫利西单抗、强效可卡因）
+药物诱导性的（如丙硫氧嘧啶、胺碘酮、甲氨蝶呤、呋喃妥因、孟鲁司特、英夫利西单抗、强效可卡因）
+造血干细胞移植或实体器官移植
+造血干细胞移植或实体器官移植
+特发性肺含铁血黄素沉着症
+特发性肺含铁血黄素沉着症
+孤立性寡免疫型肺毛细血管炎
+孤立性寡免疫型肺毛细血管炎
+肺部感染（例如汉坦病毒感染、其他病毒感染）
+肺部感染（例如汉坦病毒感染、其他病毒感染）
+毒物接触（如偏苯三酸酐、异氰酸盐、某些杀虫剂、电子烟）
+毒物接触（如偏苯三酸酐、异氰酸盐、某些杀虫剂、电子烟）
+约50%符合急性呼吸窘迫综合征标准的患者在组织病理学检查中也表现出弥漫性肺泡损伤(1)。
+
+【病因参考文献】
+1.Cardinal-Fernández P, Lorente JA, Ballén-Barragán A, Matute-Bello G.Acute Respiratory Distress Syndrome and Diffuse Alveolar Damage.New Insights on a Complex Relationship.Ann Am Thorac Soc.2017;14(6):844-850.doi:10.1513/AnnalsATS.201609-728PS
+1.Cardinal-Fernández P, Lorente JA, Ballén-Barragán A, Matute-Bello G.Acute Respiratory Distress Syndrome and Diffuse Alveolar Damage.New Insights on a Complex Relationship.Ann Am Thorac Soc.2017;14(6):844-850.doi:10.1513/AnnalsATS.201609-728PS
+
+【弥漫性肺泡出血的症状和体征】
+轻度弥漫性肺泡出血的症状和体征是呼吸困难、咳嗽、发热。咯血常见，但多达三分之一的患者可能没有咯血 (1)。部分患者就诊时可能已有贫血，但持续出血会导致血细胞比容进一步降低。许多患者出现急性呼吸衰竭，有时会导致死亡。
+
+【经验与提示】
+经验与提示
+多达三分之一的弥漫性肺泡出血患者可能没有咯血。
+多达三分之一的弥漫性肺泡出血患者可能没有咯血。
+体格检查结果可能包括呼吸急促、低氧血症以及听诊时的湿啰音。
+其他表现取决于潜在疾病（例如二尖瓣狭窄患者出现舒张期杂音，抗中性粒细胞胞浆抗体相关性血管炎患者出现紫癜）。
+
+【症状和体征参考文献】
+1.Nasser M, Cottin V.Alveolar Hemorrhage in Vasculitis (Primary and Secondary).Semin Respir Crit Care Med.2018;39(4):482-493.doi:10.1055/s-0038-1668533
+1.Nasser M, Cottin V.Alveolar Hemorrhage in Vasculitis (Primary and Secondary).Semin Respir Crit Care Med.2018;39(4):482-493.doi:10.1055/s-0038-1668533
+
+【弥漫性肺泡出血的诊断】
+胸部影像学表现
+胸部影像学表现
+支气管肺泡灌洗液
+支气管肺泡灌洗液
+血清学和其他检查以诊断潜在疾病
+血清学和其他检查以诊断潜在疾病
+有时需要肺活检
+有时需要肺活检
+临床表现为呼吸困难、咳嗽和咯血，同时伴有胸部影像学（例如X线片、CT）发现斑片状或弥漫性双侧肺泡浸润影，同时怀疑有弥漫性肺泡出血，可提示诊断。胸部CT成像的典型表现包括弥漫性双侧磨玻璃影，分布特点为中央区域多于外周区域，通常伴有胸膜下不受累。
+当临床表现不典型或气道来源出血无法排除时，强烈推荐支气管镜及支气管肺泡灌洗（BAL）以明确诊断。标本显示血液中含有大量红细胞、含铁血黄素巨噬细胞和含血红蛋白的巨噬细胞；灌洗液在连续取样后通常会变得越来越血性。
+这张胸部 X 光片显示肺泡出血患者的双侧肺泡混浊。
+By permission of the publisher.From Cohen A, Glassock R.InAtlas of Diseases of the Kidney: Glomerulonephritis and Vasculitis.Edited by R Schrier (series editor), RJ Glassock, and AH Cohen.Philadelphia, Current Medicine, 1999.
+28 岁女性抗磷脂综合征复发性弥漫性肺泡出血的高分辨率 CT 图像。图像显示双侧和斑片状肺泡磨玻璃影，胸膜下保留。支气管肺泡灌洗证实了肺泡出血。
+图像由 Joyce Lee 医学博士提供。
+
+【病因诊断】
+进一步检查以明确病因是必要的。 尿液检查用以排除肾小球肾炎和肺肾综合征，血清尿素氮和肌酐也需要测定。 应考虑对支气管肺泡灌洗液进行微生物学研究、血培养或其他针对特定病原体（例如曲霉菌）的血清学检测来排查感染性病因，尤其在免疫功能低下患者中。
+其他常规检查包括:
+全血细胞计数（CBC）
+全血细胞计数（CBC）
+凝血功能检查
+凝血功能检查
+血小板计数
+血小板计数
+血清学检查
+血清学检查
+需进行血清学检测以评估潜在疾病，包括抗核抗体（ANA）、抗双链DNA抗体（抗dsDNA）、抗肾小球基底膜抗体（抗GBM）、抗中性粒细胞胞浆抗体（ANCA）、抗磷脂抗体检测，以及补体水平（C3、C4）检测。一些孤立寡免疫型肺毛细血管炎的核周-ANCA（P-ANCA）滴度升高。
+其他检查根据临床实际情况而定。当患者病情稳定时，可行肺功能检查以了解肺功能情况。可能表现为一氧化碳弥散量（DLCO）增加，这是由于肺泡内的血红蛋白对一氧化碳的摄取增加所致；然而，这一发现虽与出血表现一致，但对确定具体诊断没有帮助。
+超声心动图可以排除二尖瓣狭窄。
+当病因仍不明确，或疾病进展过快、无法等待血清学检测结果时，可能需要进行肺活检（结合免疫组化）或肾活检（若尿液分析异常）。活检组织的组织病理学检查结果有助于确定弥漫性肺泡出血的病因。例如，在抗肾小球基底膜病中，可见线性IgG沿肺毛细血管基底膜沉积。相反，在系统性自身免疫性疾病导致弥漫性肺泡出血的病例中，可以观察到沿肺毛细血管基底膜的颗粒状免疫复合物沉积。当弥漫性肺泡出血是由于血管炎如肉芽肿性多血管炎（GPA）或显微镜下多血管炎（MPA）引起的时，可见毛细血管壁的中性粒细胞浸润。
+
+【弥漫性肺泡出血的治疗】
+免疫抑制剂（例如，糖皮质激素、利妥昔单抗、环磷酰胺、阿伐可泮）
+免疫抑制剂（例如，糖皮质激素、利妥昔单抗、环磷酰胺、阿伐可泮）
+有时进行血浆置换（例如，用于抗肾小球基底膜[抗GBM]疾病）
+有时进行血浆置换（例如，用于抗肾小球基底膜[抗GBM]疾病）
+支持性措施（例如，补充氧疗、机械通气）
+支持性措施（例如，补充氧疗、机械通气）
+治疗包括纠正病因。治疗建议基于疾病的类型和严重程度（1）。
+免疫抑制剂被用于多数弥漫性肺泡出血的患者，特别是当由肺毛细血管炎（例如ANCA相关性血管炎）引起时。大剂量糖皮质激素最常用，通常与疾病特异性辅助治疗联合使用。例如，环磷酰胺或利妥昔单抗与糖皮质激素联用，以治疗由ANCA相关性血管炎或系统性红斑狼疮引起的弥漫性肺泡出血。利妥昔单抗也可用于治疗由抗肾小球基底膜病和抗磷脂综合征引起的肺泡出血。对于患有ANCA相关性血管炎的患者，还可以考虑添加补体C5a受体拮抗剂阿伐可泮，以帮助减少糖皮质激素的暴露。
+血浆置换也用于治疗抗肾小球基底膜病。
+已有数项研究报道，重组活化人VII因子成功治疗严重治疗无反应的肺泡出血 (2)，但由于可能引起血栓并发症，该治疗存在争议。
+支持性治疗措施包括补充氧气、支气管扩张剂、逆转任何凝血病以及插管并采取保护性策略，如急性呼吸窘迫综合征（ARDS）和机械通气。
+
+【治疗参考文献】
+1.Chung SA, Langford CA, Maz M, et al.2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of Antineutrophil Cytoplasmic Antibody-Associated Vasculitis.Arthritis Rheumatol.2021;73(8):1366–1383.doi:10.1002/art.41773
+1.Chung SA, Langford CA, Maz M, et al.2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of Antineutrophil Cytoplasmic Antibody-Associated Vasculitis.Arthritis Rheumatol.2021;73(8):1366–1383.doi:10.1002/art.41773
+2.Pathak V, Kuhn J, Gabriel D, Barrow J, Jennette JC, Henke DC.Use of Activated Factor VII in Patients with Diffuse Alveolar Hemorrhage: A 10 Years Institutional Experience.Lung.2015;193(3):375-379.doi:10.1007/s00408-015-9720-z
+2.Pathak V, Kuhn J, Gabriel D, Barrow J, Jennette JC, Henke DC.Use of Activated Factor VII in Patients with Diffuse Alveolar Hemorrhage: A 10 Years Institutional Experience.Lung.2015;193(3):375-379.doi:10.1007/s00408-015-9720-z
+
+【弥漫性肺泡出血的预后】
+弥漫性肺泡出血的预后取决于基础病因及器官受累的严重程度。免疫介导的弥漫性肺泡出血病因通常与较好的长期预后相关(1)。例如，一项为期12年的回顾性观察研究发现，虽然弥漫性肺泡出血的总体死亡率很高 (37.5%)，但与非免疫原因的患者相比，免疫介导病因的患者死亡率较低 (15.1% vs 50.9%) (1)。
+复发性肺泡出血可导致肺含铁血黄素沉着症和肺纤维化，这两种情况都是在铁蛋白于肺泡内聚集并发挥毒性作用时发生的。肺气肿可发生于复发性弥漫性肺泡出血患者，其病因可能继发于显微镜下多血管炎或肉芽肿性多血管炎。
+
+【预后参考】
+1.Bhushan A, Choi D, Maresh G, Deodhar A.Risk factors and outcomes of immune and non-immune causes of diffuse alveolar hemorrhage: a tertiary-care academic single-center experience.Rheumatol Int.2022;42(3):485-492.doi:10.1007/s00296-021-04842-2
+1.Bhushan A, Choi D, Maresh G, Deodhar A.Risk factors and outcomes of immune and non-immune causes of diffuse alveolar hemorrhage: a tertiary-care academic single-center experience.Rheumatol Int.2022;42(3):485-492.doi:10.1007/s00296-021-04842-2
+虽然弥漫性肺泡出血可有多种原因（例如，感染、毒素、药物、血液或心脏疾病），但自身免疫性疾病是最常见的原因。
+虽然弥漫性肺泡出血可有多种原因（例如，感染、毒素、药物、血液或心脏疾病），但自身免疫性疾病是最常见的原因。
+症状、体征和胸部影像学检查结果不具有特异性。
+症状、体征和胸部影像学检查结果不具有特异性。
+通过支气管肺泡灌洗检查连续灌洗样本显示持续出血可确认弥漫性肺泡出血。
+通过支气管肺泡灌洗检查连续灌洗样本显示持续出血可确认弥漫性肺泡出血。
+进行检测以确定潜在疾病，包括常规实验室指标、血清学检测，有时还包括其他检查。
+进行检测以确定潜在疾病，包括常规实验室指标、血清学检测，有时还包括其他检查。
+治疗病因（例如，使用糖皮质激素、环磷酰胺、利妥昔单抗、阿伐可泮、血浆置换）。
+治疗病因（例如，使用糖皮质激素、环磷酰胺、利妥昔单抗、阿伐可泮、血浆置换）。

@@ -1,0 +1,16 @@
+标题：门静脉-肺动脉高压
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/pulmonary-hypertension/portopulmonary-hypertension
+============================================================
+
+肺动脉高压可发生在多种病因引起的门脉高压伴或不伴肝硬化的患者。2％至6％的门脉高压症患者会出现门脉性肺动脉高压（1）。
+骨形态发生蛋白 9 (BMP9) 信号传导异常与肺动脉高压的发展有关。BMP9 和 BMP10 在肝脏中产生，是 BMP2 受体的配体。与患有晚期肝病的对照患者相比，已注意到患有门脉性肺动脉高压的患者的 BMP9 水平显着降低。将门静脉高压症患者与无门脉肺高压症的晚期肝病患者进行比较时，BMP10 水平没有差异（2)。
+主要症状是呼吸困难和疲劳。也可出现胸痛及咯血。病人有肺动脉高压的体征和心电图异常，并可有肺心病的表现（颈静脉充盈、水肿）。常见三尖瓣反流。
+超声心动图可提示诊断，右心导管检查可确诊。
+门脉性肺动脉高压的治疗与肺动脉高压相同，但需避免使用肝毒性药物及抗凝剂。由于血流动力学不稳定，常用于门静脉高压的beta-受体阻滞剂在门脉性肺动脉高压症中也应避免使用(1)。血管扩张剂治疗可使部分患者获益。
+基础肝脏疾病是决定预后的主要因素。门静脉-肺动脉高压是肝移植的相对禁忌证，因其可增加手术相关的发病率和死亡率。然而，部分接受移植的患者，特别是那些肺动脉高压较轻的患者，肺动脉高压可能会缓解。一些中心认为经血管扩张剂治疗后平均肺动脉压力<35mmHg者可考虑行肝移植。
+
+【参考文献】
+1.Humbert M, Kovacs G, Hoeper MM, et al: 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension.Eur Respir J61(1):2200879, 2023.doi:10.1183/13993003.00879-2022
+1.Humbert M, Kovacs G, Hoeper MM, et al: 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension.Eur Respir J61(1):2200879, 2023.doi:10.1183/13993003.00879-2022
+2.Rochon ER, Krowka MJ, Bartolome S, et al: BMP 9/10 in pulmonary vascular complications of liver disease.Am J Respir Crit Care Med201 (11):1575–1578, 2020.doi: 10.1164/rccm.201912-2514LE
+2.Rochon ER, Krowka MJ, Bartolome S, et al: BMP 9/10 in pulmonary vascular complications of liver disease.Am J Respir Crit Care Med201 (11):1575–1578, 2020.doi: 10.1164/rccm.201912-2514LE

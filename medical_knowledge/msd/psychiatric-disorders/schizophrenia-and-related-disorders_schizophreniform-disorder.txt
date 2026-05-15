@@ -1,0 +1,17 @@
+标题：精神分裂样障碍
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/schizophrenia-and-related-disorders/schizophreniform-disorder
+============================================================
+
+精神病性症状是指诸如妄想、幻觉、思维和言语混乱、混乱的运动行为（包括紧张症）和阴性症状（表明与现实失去联系）等症状。要诊断精神分裂样障碍，必须存在上述两类症状（妄想、幻觉、言语紊乱、行为紊乱、阴性症状）中的 2 种，且必须包含以下至少 1 种：妄想、幻觉、思维 / 言语紊乱(1)。精神分裂样障碍与精神分裂症的区别在于其病程较短（1至6个月）。
+就诊时，很可能怀疑为精神分裂症。还必须排除继发于物质使用的精神病或躯体疾病的精神病。对于既往无精神病性症状的患者，精神分裂样障碍与精神分裂症的鉴别基于症状持续时间。若症状或残疾持续时间超过 6 个月，患者不再符合精神分裂样障碍的诊断标准，很可能诊断为精神分裂症，尽管急性精神病也可能演变为精神病性心境障碍，如双相障碍或分裂情感性障碍。明确诊断和进行适当治疗常需要纵向观察。
+治疗采用的是抗精神病药物和支持性的社会心理照顾。症状缓解后，药物治疗应继续12个月或更长时间，然后逐渐减量，同时密切监测患者精神病症状是否复发(2-4)。
+
+【参考文献】
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition Text Revision, DSM-5-TR (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, 2022, pp 112-114.
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition Text Revision, DSM-5-TR (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, 2022, pp 112-114.
+2.Lieberman JA, First MB.Psychotic Disorders.N Engl J Med.2018;379(3):270-280.doi:10.1056/NEJMra1801490
+2.Lieberman JA, First MB.Psychotic Disorders.N Engl J Med.2018;379(3):270-280.doi:10.1056/NEJMra1801490
+3.Tiihonen J, Tanskanen A, Taipale H.20-Year Nationwide Follow-Up Study on Discontinuation of Antipsychotic Treatment in First-Episode Schizophrenia.Am J Psychiatry.2018;175(8):765-773.doi:10.1176/appi.ajp.2018.17091001
+3.Tiihonen J, Tanskanen A, Taipale H.20-Year Nationwide Follow-Up Study on Discontinuation of Antipsychotic Treatment in First-Episode Schizophrenia.Am J Psychiatry.2018;175(8):765-773.doi:10.1176/appi.ajp.2018.17091001
+4.Dunayevich E, Ascher-Svanum H, Zhao F, et al.Longer time to antipsychotic treatment discontinuation for any cause is associated with better functional outcomes for patients with schizophrenia, schizophreniform disorder, or schizoaffective disorder.J Clin Psychiatry.2007;68(8):1163-1171.doi:10.4088/jcp.v68n0801
+4.Dunayevich E, Ascher-Svanum H, Zhao F, et al.Longer time to antipsychotic treatment discontinuation for any cause is associated with better functional outcomes for patients with schizophrenia, schizophreniform disorder, or schizoaffective disorder.J Clin Psychiatry.2007;68(8):1163-1171.doi:10.4088/jcp.v68n0801

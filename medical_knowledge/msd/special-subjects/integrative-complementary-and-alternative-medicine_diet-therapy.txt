@@ -1,0 +1,87 @@
+标题：饮食疗法
+来源：https://www.msdmanuals.cn/professional/special-subjects/integrative-complementary-and-alternative-medicine/diet-therapy
+============================================================
+
+饮食疗法，生物基础疗法的一种，是指特定的饮食方案（例如，Gerson饮食，长寿饮食，Pritikin低脂饮食）
+治疗或预防某种疾病（例如，癌症，心血管疾病）
+治疗或预防某种疾病（例如，癌症，心血管疾病）
+一般来说促进健康
+一般来说促进健康
+身体排毒（即，破坏或排除体内毒素）
+身体排毒（即，破坏或排除体内毒素）
+某些食疗（例如，地中海饮食）在传统医学和中西医结合医学中被广泛接受和推荐。许多其他饮食已被提议作为促进健康的方法，并有不同程度的支持性证据。他们经常提出类似的建议（例如，限制不太健康的脂肪和精制碳水化合物，用植物性和全食物代替）。
+饮食疗法可能起效缓慢，并且本身难以研究。
+
+【间歇性禁食】
+间歇性禁食有多种形式，包括将进食时间限制在一天中的特定时段（通常少于10小时，常称为限时进食）或全天不进食（例如，隔日禁食）。间歇性禁食促使代谢从利用肝脏中的葡萄糖转向利用脂肪中储存的酮体（1）。它已被证明在动物研究中具有良好的代谢作用（例如，增加胰岛素敏感性和自噬、可能延长寿命）(2)。对人类而言，其健康益处包括与无饮食干预相比体重和腰围有所减少，尽管长期效果尚不明确（3）。间歇性禁食是否比一般热量限制更有效也是一个问题（4）。关于禁食减肥的一个担忧是，在减少脂肪的同时会伴随瘦体重的流失（5）；尽管脂肪减少可能带来代谢益处，但肌肉流失对健康的不利影响可能会抵消这些好处（6）。
+
+【间歇性禁食参考文献】
+1.de Cabo R, Mattson MP.Effects of intermittent fasting on health, aging, and disease [published correction appears inN Engl J Med.2020 Jan 16;382(3):298] [published correction appears inN Engl J Med.2020 Mar 5;382(10):978].N Engl J Med381(26):2541-2551, 2019.doi:10.1056/NEJMra1905136
+1.de Cabo R, Mattson MP.Effects of intermittent fasting on health, aging, and disease [published correction appears inN Engl J Med.2020 Jan 16;382(3):298] [published correction appears inN Engl J Med.2020 Mar 5;382(10):978].N Engl J Med381(26):2541-2551, 2019.doi:10.1056/NEJMra1905136
+2.Longo VD, Di Tano M, Mattson MP, Guidi N.Intermittent and periodic fasting, longevity and disease.Nat Aging.2021;1(1):47-59.doi:10.1038/s43587-020-00013-3
+2.Longo VD, Di Tano M, Mattson MP, Guidi N.Intermittent and periodic fasting, longevity and disease.Nat Aging.2021;1(1):47-59.doi:10.1038/s43587-020-00013-3
+3.Lowe DA, Wu N, Rohdin-Bibby L, et al.Effects of time-restricted eating on weight loss and other metabolic parameters in women and men with overweight and obesity: The TREAT randomized clinical trial [published correction appears inJAMA Intern Med.2020 Nov 1;180(11):1555] [published correction appears inJAMA Intern Med. 2021 Jun 1;181(6):883].JAMA Intern Med.180(11):1491-1499, 2020.doi:10.1001/jamainternmed.2020.4153
+3.Lowe DA, Wu N, Rohdin-Bibby L, et al.Effects of time-restricted eating on weight loss and other metabolic parameters in women and men with overweight and obesity: The TREAT randomized clinical trial [published correction appears inJAMA Intern Med.2020 Nov 1;180(11):1555] [published correction appears inJAMA Intern Med. 2021 Jun 1;181(6):883].JAMA Intern Med.180(11):1491-1499, 2020.doi:10.1001/jamainternmed.2020.4153
+4.Gu L, Fu R, Hong J, Ni H, Yu K, Lou H.Effects of intermittent fasting in human compared to a nonintervention diet and caloric restriction: a meta-analysis of randomized controlled trials.Front Nutr.9:871682, 2022.Published 2022 May 2.doi:10.3389/fnut.2022.871682
+4.Gu L, Fu R, Hong J, Ni H, Yu K, Lou H.Effects of intermittent fasting in human compared to a nonintervention diet and caloric restriction: a meta-analysis of randomized controlled trials.Front Nutr.9:871682, 2022.Published 2022 May 2.doi:10.3389/fnut.2022.871682
+5.Williamson E, Moore DR.A muscle-centric perspective on intermittent fasting: a suboptimal dietary strategy for supporting muscle protein remodeling and muscle mass?Front Nutr.8:640621, 2021.Published 2021 Jun 9.doi:10.3389/fnut.2021.640621
+5.Williamson E, Moore DR.A muscle-centric perspective on intermittent fasting: a suboptimal dietary strategy for supporting muscle protein remodeling and muscle mass?Front Nutr.8:640621, 2021.Published 2021 Jun 9.doi:10.3389/fnut.2021.640621
+6.Srikanthan P, Karlamangla AS.Muscle mass index as a predictor of longevity in older adults.Am J Med.127(6):547-553, 2014.doi:10.1016/j.amjmed.2014.02.007
+6.Srikanthan P, Karlamangla AS.Muscle mass index as a predictor of longevity in older adults.Am J Med.127(6):547-553, 2014.doi:10.1016/j.amjmed.2014.02.007
+
+【长寿饮食】
+这种饮食主要包括蔬菜，全谷类，水果和谷类食品。尽管有观点声称这种饮食法能预防和治疗癌症及其他慢性疾病，但目前尚无高质量证据支持长寿饮食在预防或治疗癌症及其复发方面的功效（1）。长寿饮食也在代谢综合征、前驱糖尿病和糖尿病患者中进行了研究，但没有确凿的疗效证据 (2)。
+除了缺乏疾病预防或治疗的功效外，遵循这种饮食的风险很少（3）。
+
+【宏观饮食参考】
+1.Berrino F, Villarini A, Gargano G, et al.The Effect of Diet on Breast Cancer Recurrence: The DIANA-5 Randomized Trial.Clin Cancer Res.2024;30(5):965-974.doi:10.1158/1078-0432.CCR-23-1615
+1.Berrino F, Villarini A, Gargano G, et al.The Effect of Diet on Breast Cancer Recurrence: The DIANA-5 Randomized Trial.Clin Cancer Res.2024;30(5):965-974.doi:10.1158/1078-0432.CCR-23-1615
+2.Papamichou D, Panagiotakos DB, Itsiopoulos C.Dietary patterns and management of type 2 diabetes: A systematic review of randomised clinical trials.Nutr Metab Cardiovasc Dis.2019;29(6):531-543.doi:10.1016/j.numecd.2019.02.004
+2.Papamichou D, Panagiotakos DB, Itsiopoulos C.Dietary patterns and management of type 2 diabetes: A systematic review of randomised clinical trials.Nutr Metab Cardiovasc Dis.2019;29(6):531-543.doi:10.1016/j.numecd.2019.02.004
+3.Harmon BE, Carter M, Hurley TG, et al.Nutrient composition and anti-inflammatory potential of a prescribed macrobiotic diet.Nutr Cancer.67(6):933-40, 2015.doi: 10.1080/01635581.2015.1055369
+3.Harmon BE, Carter M, Hurley TG, et al.Nutrient composition and anti-inflammatory potential of a prescribed macrobiotic diet.Nutr Cancer.67(6):933-40, 2015.doi: 10.1080/01635581.2015.1055369
+
+【Ornish饮食】
+这种极低脂素食饮食旨在帮助逆转引起冠状动脉疾病的动脉阻塞，并可能预防和减缓前列腺和其他癌症的发展。它专注于植物性食物和避免脂肪、精制碳水化合物和动物蛋白。作为针对症状性冠状动脉疾病参与者的强化生活方式计划的一部分，奥尼什饮食方案效果显著（1）。然而，尚不清楚这种饮食中特定的食物限制是否能带来独特益处。通过其他饮食方式也能达到类似效果，这些饮食减少不健康的脂肪和精制碳水化合物摄入，同时不限制摄取健康脂肪（如橄榄油）。
+
+【奥尼什饮食参考】
+1.Dansinger ML, Gleason JA, Griffith JL, Selker HP, Schaefer EJ.Comparison of the Atkins, Ornish, Weight Watchers, and Zone diets for weight loss and heart disease risk reduction: a randomized trial.JAMA.2005;293(1):43-53.doi:10.1001/jama.293.1.43
+1.Dansinger ML, Gleason JA, Griffith JL, Selker HP, Schaefer EJ.Comparison of the Atkins, Ornish, Weight Watchers, and Zone diets for weight loss and heart disease risk reduction: a randomized trial.JAMA.2005;293(1):43-53.doi:10.1001/jama.293.1.43
+
+【旧石器时代饮食】
+这种饮食的食物组成同以狩猎或采集获取食物（即动物和野生植物）的旧石器时代。因此，饮食包括
+增加蛋白摄入
+增加蛋白摄入
+减少碳水化合物摄入（主要摄入非淀粉类新鲜水果和蔬菜）
+减少碳水化合物摄入（主要摄入非淀粉类新鲜水果和蔬菜）
+中大量脂肪摄入（主要摄入单不饱和与多不饱和脂肪）
+中大量脂肪摄入（主要摄入单不饱和与多不饱和脂肪）
+旧石器时代时期不能获取的食物（例如，奶制品，谷物，豆类，加工油，精制糖，盐，咖啡）应该避免。支持者声称，人体新陈代谢尚未适应处理这些食物。
+旧石器时代饮食被认为可以治疗或降低冠心病、代谢综合征、2型糖尿病和许多慢性退行性疾病的风险 (1,2)。旧石器饮食法还可能促进减肥、提高运动成绩、改善睡眠和改善心理功能。然而，关于这种饮食的有效性的证据有限。
+风险包括营养不足（由于减少谷物和奶制品的摄入）。
+在旧石器时期关于可以摄入哪些食物的认识是有限的;然而，一些证据表明，旧石器时期的饮食并不像现代提倡的旧石器时代饮食有限。
+
+【古饮食参考】
+1.Manheimer EW, van Zuuren EJ, Fedorowicz Z, et al.Paleolithic nutrition for metabolic syndrome: systematic review and meta-analysis.Am J Clin Nutr.102(4):922-32, 2015.doi: 10.3945/ajcn.115.113613
+1.Manheimer EW, van Zuuren EJ, Fedorowicz Z, et al.Paleolithic nutrition for metabolic syndrome: systematic review and meta-analysis.Am J Clin Nutr.102(4):922-32, 2015.doi: 10.3945/ajcn.115.113613
+2.Whalen KA, Judd S, McCullough ML, et al.Paleolithic and Mediterranean diet pattern scores are inversely associated with all-cause and cause-specific mortality in adults.J Nutr.147(4):612-620, 2017.doi: 10.3945/jn.116.241919
+2.Whalen KA, Judd S, McCullough ML, et al.Paleolithic and Mediterranean diet pattern scores are inversely associated with all-cause and cause-specific mortality in adults.J Nutr.147(4):612-620, 2017.doi: 10.3945/jn.116.241919
+
+【生酮饮食】
+生酮饮食与古式饮食类似，包含极高脂肪食物和极低碳水化合物。该饮食旨在诱导酮症，即脂肪作为能量来源被燃烧的状态，从而导致体重减轻。研究表明，生酮饮食能抑制饥饿感，从而降低体重、腰围、甘油三酯、糖化血红蛋白和血糖(1–3)。
+酮饮食中典型的食物包括鳄梨、油、坚果、富含脂肪的鱼、鸡蛋、牛肉、鸡肉、蔬菜、奶酪、黄油和奶油。限制性饮食并不总是可口，且坚持也是一大挑战。
+风险包括胃肠道症状，如便秘、恶心、呕吐和腹泻。个体可能出现所谓的“酮流感”，其特征包括头痛、疲劳、易怒、睡眠困难和恶心。其他风险包括血脂异常伴低密度脂蛋白水平升高、肾结石、肝脂肪变性、高钙尿症、低蛋白血症和贫血（4-6）。
+
+【生酮饮食参考】
+1.Muscogiuri G, El Ghoch M, Colao A, et al.European Guidelines for Obesity Management in Adults with a Very Low-Calorie Ketogenic Diet: A Systematic Review and Meta-Analysis.Obes Facts.2021;14(2):222-245.doi:10.1159/000515381
+1.Muscogiuri G, El Ghoch M, Colao A, et al.European Guidelines for Obesity Management in Adults with a Very Low-Calorie Ketogenic Diet: A Systematic Review and Meta-Analysis.Obes Facts.2021;14(2):222-245.doi:10.1159/000515381
+2.Shahpasand S, Khatami SH, Ehtiati S, et al.Therapeutic potential of the ketogenic diet: A metabolic switch with implications for neurological disorders, the gut-brain axis, and cardiovascular diseases.J Nutr Biochem.2024;132:109693.doi:10.1016/j.jnutbio.2024.109693
+2.Shahpasand S, Khatami SH, Ehtiati S, et al.Therapeutic potential of the ketogenic diet: A metabolic switch with implications for neurological disorders, the gut-brain axis, and cardiovascular diseases.J Nutr Biochem.2024;132:109693.doi:10.1016/j.jnutbio.2024.109693
+3.Yannakoulia M, Scarmeas N.Diets.N Engl J Med.2024;390(22):2098-2106.doi:10.1056/NEJMra2211889
+3.Yannakoulia M, Scarmeas N.Diets.N Engl J Med.2024;390(22):2098-2106.doi:10.1056/NEJMra2211889
+4.Meng Y, Sun J, Zhang G.Take the bull by the horns and tackle the potential downsides of the ketogenic diet.Nutrition.2024;125:112480.doi:10.1016/j.nut.2024.112480
+4.Meng Y, Sun J, Zhang G.Take the bull by the horns and tackle the potential downsides of the ketogenic diet.Nutrition.2024;125:112480.doi:10.1016/j.nut.2024.112480
+5.Ruiz Herrero J, Cañedo Villarroya E, García Peñas JJ, et al.Safety and Effectiveness of the Prolonged Treatment of Children with a Ketogenic Diet.Nutrients.2020;12(2):306.Published 2020 Jan 24.doi:10.3390/nu12020306
+5.Ruiz Herrero J, Cañedo Villarroya E, García Peñas JJ, et al.Safety and Effectiveness of the Prolonged Treatment of Children with a Ketogenic Diet.Nutrients.2020;12(2):306.Published 2020 Jan 24.doi:10.3390/nu12020306
+6.Gardner CD, Vadiveloo MK, Petersen KS, et al.Popular Dietary Patterns: Alignment With American Heart Association 2021 Dietary Guidance: A Scientific Statement From the American Heart Association.Circulation.2023;147(22):1715-1730.doi:10.1161/CIR.0000000000001146
+6.Gardner CD, Vadiveloo MK, Petersen KS, et al.Popular Dietary Patterns: Alignment With American Heart Association 2021 Dietary Guidance: A Scientific Statement From the American Heart Association.Circulation.2023;147(22):1715-1730.doi:10.1161/CIR.0000000000001146

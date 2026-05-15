@@ -1,0 +1,25 @@
+标题：Tay-Sachs病和Sandhoff病
+来源：https://www.msdmanuals.cn/professional/pediatrics/inherited-disorders-of-metabolism/tay-sachs-disease-and-sandhoff-disease
+============================================================
+
+神经节苷脂是脑部复杂的神经鞘脂。有两种主要形式， GM1 和 GM2它们都可能参与溶酶体贮积病。 有 2 种主要类型的 GM2 神经节苷脂沉积症，每一种都可能由许多不同的突变引起。
+欲了解更多信息，见表某些神经鞘脂贮积病。
+也可参见可疑遗传性代谢病的诊断程序
+
+【Tay-Sachs病】
+己糖胺酶A的缺陷导致GM2在脑中的积累。遗传方式为常染色体隐性遗传；最常见的突变由东欧（Ashkenazi）犹太人群中1/27的无症状成年人携带，尽管其他突变集中于一些法裔加拿大人和卡津人群体。当父母双方都是携带者时，25% 的孩子会患上这种疾病。
+秦－萨克斯病的儿童6月龄以后缺少发育的标志性阶段，发展为进行性认知和运动障碍，导致癫痫发作、精神发育迟缓、麻痹，在5岁前死亡。
+常见樱桃红色斑点。
+许多Tay-Sachs病或Sandhoff病患者的眼球后部都有一个"樱桃红"的斑点，医生使用眼底镜很容易就能观察到。
+RALPH C.EAGLE, JR./SCIENCE PHOTO LIBRARY
+Tay-Sachs病通过临床诊断，根据DNA分析和/或酶学分析确诊。（参见测试新陈代谢疑似遗传性疾病。）
+在缺乏有效治疗的情况下，管理重点在于筛查高风险人群中的育龄成年人，以识别携带者（通过酶活性和突变检测），并结合遗传咨询。
+
+【Sandhoff 病】
+合并己糖胺酶A和B缺陷。 临床症状包括开始于6个月的进行性脑功能退化，伴有失明、樱桃红斑和听觉过敏。
+桑德霍夫病在病程、诊断和治疗方面与泰-萨克斯病几乎没有区别，只是有内脏受累（肝脏肿大和骨骼改变），而且没有种族关联。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information
+Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information

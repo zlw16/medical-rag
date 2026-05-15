@@ -1,0 +1,32 @@
+标题：连枷胸
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/thoracic-trauma/flail-chest
+============================================================
+
+(参见胸外伤概述。）
+单根肋骨可发生多处骨折。如果多根(3根或更多)相邻肋骨在≥2处骨折，每根肋骨的断裂导致一个胸壁节段不与胸廓机械连接（连枷节段）。连枷节段呈矛盾运动（即呼气时向外，吸气时向内—见图连枷胸)。
+患者有发生呼吸并发症的风险，这主要是因为可引起连枷胸的力通常会导致肺挫伤。此外，连枷胸的矛盾运动增加呼吸功，而胸壁疼痛往往限制深吸气及最大通气量。
+
+【连枷胸的诊断】
+病史和体格检查
+病史和体格检查
+观察到呼吸过程中连枷段呈矛盾运动即可做出连枷胸的诊断。 然而，如果由于疼痛或其他损伤引起的反应迟钝导致吸气受限，矛盾运动也并不明显。机械通气时不会发生矛盾运动，但在肺膨胀时可看到显著向外运动的连枷节段。触诊可触及连枷节段的捻发感以及不正常的胸壁运动。
+胸部X线可以帮助确认骨折，也通常显示肺挫伤；X线不能显示软骨损伤。
+
+【治疗连枷胸】
+支持治疗
+支持治疗
+有时机械通气
+有时机械通气
+有时需修复肋骨骨折
+有时需修复肋骨骨折
+连枷胸患者应给予湿化氧疗。镇痛药可有助于减轻呼吸疼痛从而改善通气，但可能需要机械通气支持。应严密监测容量状态，因为低容量（因肺灌注不足）或高容量（因肺水肿）都是有害的。在特定的连枷胸患者中（无法脱离呼吸机的患者、胸壁明显畸形的患者、尽管疼痛已得到控制但仍即将发生呼吸衰竭的患者，或因其他原因需要开胸的患者），肋骨手术固定似乎可以减少肺炎的风险、住院时间、机械通气时间和死亡（1– 4)。
+
+【治疗参考文献】
+1.Simon B, Ebert J, Bokhari F, et al: Management of pulmonary contusion and flail chest: An Eastern Association for the Surgery of Trauma practice management guideline.J Trauma and Acute Care Surgery73(5 Suppl 4):S351-S361, 2012.doi: 10.1097/TA.0b013e31827019fd
+1.Simon B, Ebert J, Bokhari F, et al: Management of pulmonary contusion and flail chest: An Eastern Association for the Surgery of Trauma practice management guideline.J Trauma and Acute Care Surgery73(5 Suppl 4):S351-S361, 2012.doi: 10.1097/TA.0b013e31827019fd
+2.Kasotakis G , Hasenboehler EA, Streib EW, et al: Operative fixation of rib fractures after blunt trauma: A practice management guideline from the Eastern Association for the Surgery of Trauma.J Trauma Acute Care Surg82(3):618-626, 2017.doi: 10.1097/TA.0000000000001350
+2.Kasotakis G , Hasenboehler EA, Streib EW, et al: Operative fixation of rib fractures after blunt trauma: A practice management guideline from the Eastern Association for the Surgery of Trauma.J Trauma Acute Care Surg82(3):618-626, 2017.doi: 10.1097/TA.0000000000001350
+3.Dehghan N, Nauth A, Schemitsch E, et al: Operative vs nonoperative treatment of acute unstable chest wall injuries: A randomized clinical trial.JAMA Surg157(11):983, 2022.doi: 10.1001/jamasurg.2022.4299
+3.Dehghan N, Nauth A, Schemitsch E, et al: Operative vs nonoperative treatment of acute unstable chest wall injuries: A randomized clinical trial.JAMA Surg157(11):983, 2022.doi: 10.1001/jamasurg.2022.4299
+4.Coughlin TA, Ng JWG, Rollins KE, et al: Management of rib fractures in traumatic flail chest: A meta-analysis of randomised controlled trials.Bone Joint J8-B(8):1119-1125, 2016.doi: 10.1302/0301-620X.98B8.37282
+4.Coughlin TA, Ng JWG, Rollins KE, et al: Management of rib fractures in traumatic flail chest: A meta-analysis of randomised controlled trials.Bone Joint J8-B(8):1119-1125, 2016.doi: 10.1302/0301-620X.98B8.37282

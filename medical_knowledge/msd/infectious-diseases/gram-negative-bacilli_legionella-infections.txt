@@ -1,0 +1,83 @@
+标题：Legionella军团菌感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-negative-bacilli/legionella-infections
+============================================================
+
+Legionella pneumophila（嗜肺军团菌）是在1976年美国宾夕法尼亚州费城召开退伍军人大会期间暴发流行后被首次发现——并因此命名为军团病。该疾病是一种感染的肺炎型表现，其病原体通常为Legionella pneumophila（嗜肺军团菌）血清型1型。非肺炎型感染称为庞提阿克热，表现为发热性病毒样疾病。
+
+【军团菌属的传播】
+Legionella（军团菌）通常存在于土壤和淡水中。淡水中的阿米巴是这些细菌的天然宿主。Legionella(军团菌)可通过淡水进入建筑物的管道系统；建筑物的供水通常是Legionella(军团菌)爆发的源头。25 至 40° C（77 至 104° F）的温水温度支持管道系统中微生物的最高浓度。Legionella(军团菌)嵌入在水管和容器内部形成的生物膜中。感染通常是通过吸入污染水的气溶胶（或较少见的误吸）而获得的（例如，由淋浴头、喷雾器、装饰喷泉、漩涡浴缸、热水浴缸或空调用水冷塔产生的）。
+Legionella(军团菌)感染通常不会人与人之间传播，尽管2016年报道了一例疑似病例 (1)。
+
+【传播参考】
+1.Correia AM, Ferreira JS, Borges V, et al: Probable person-to-person transmission of Legionnaires' disease.N Engl J Med374(5):497–498, 2016. doi: 10.1056/NEJMc1505356
+1.Correia AM, Ferreira JS, Borges V, et al: Probable person-to-person transmission of Legionnaires' disease.N Engl J Med374(5):497–498, 2016. doi: 10.1056/NEJMc1505356
+
+【军团菌属引起的疾病】
+以下人群更易发生Legionella(军团菌)感染，且病情更重：
+患有糖尿病或慢性阻塞性肺疾病 (COPD) 的患者
+患有糖尿病或慢性阻塞性肺疾病 (COPD) 的患者
+吸烟患者
+吸烟患者
+免疫功能低下的患者（通常伴有细胞介导的免疫功能低下）
+免疫功能低下的患者（通常伴有细胞介导的免疫功能低下）
+肺是最常见的感染部位；可发生社区或医院获得性肺炎。
+肺外军团菌病很少见，主要发生在免疫功能低下的患者中。表现包括脓肿（如脑、脾、肌肉）、鼻窦炎、心肌炎、心包炎、自身和人工瓣膜心内膜炎以及手术伤口、血管移植、自身和人工关节的感染；大多数以肺炎的播散性并发症出现，即使原发性肺部疾病可能已经消退。没有并发或近期肺炎的原发病例很少见。
+
+【军团菌感染的症状和体征】
+军团病的潜伏期为2至10天。它表现为流感样症状，包括急性发热、寒战、不适、肌痛、头痛或意识模糊。恶心、稀便或水样泻、腹痛、咳嗽和关节痛亦常见。肺部表现包括：呼吸困难、胸膜炎痛和咯血。可能有相对脉缓，尤其在重症患者。
+散发病例的总体病死率约为 10% 至 15%，但在医院内感染患者、老年人和免疫功能低下的患者中，病死率可达 40%（1）。
+
+【症状和体征参考】
+1.Jespersen S, Søgaard OS, Schønheyder HC, Fine MJ, Ostergaard L.Clinical features and predictors of mortality in admitted patients with community- and hospital-acquired legionellosis: a Danish historical cohort study.BMC Infect Dis.2010;10:124.Published 2010 May 21.doi:10.1186/1471-2334-10-124
+1.Jespersen S, Søgaard OS, Schønheyder HC, Fine MJ, Ostergaard L.Clinical features and predictors of mortality in admitted patients with community- and hospital-acquired legionellosis: a Danish historical cohort study.BMC Infect Dis.2010;10:124.Published 2010 May 21.doi:10.1186/1471-2334-10-124
+
+【军团菌感染的诊断】
+直接荧光抗体染色
+直接荧光抗体染色
+聚合酶链反应（PCR）检测
+聚合酶链反应（PCR）检测
+使用特定培养基对痰液或支气管肺泡灌洗液进行培养
+使用特定培养基对痰液或支气管肺泡灌洗液进行培养
+快速尿抗原检测（仅用于L. pneumophila(嗜肺军团菌)血清1群）
+快速尿抗原检测（仅用于L. pneumophila(嗜肺军团菌)血清1群）
+偶可采用痰或支气管肺泡灌洗液直接荧光抗体染色，但需要专业知识。此外，可采用结合 DNA 探针的聚合酶链式反应（PCR）检测，该检测或有助于明确传播途径。
+症状出现3天后，尿液抗原检测的敏感性为60%~95%，特异性>98%，但仅能检测出L. pneumophila(嗜肺军团菌)血清1群 (1)，该血清群占病例的65%~90% (2，3)。急性期与恢复期双份抗体检测可能导致诊断延误。恢复期抗体滴度增加4倍或急性期抗体滴度≥1：128可以诊断。
+军团病的诊断是通过痰液或支气管肺泡灌洗液的培养进行的，其敏感性为 20% 至 95%，具体取决于病情的严重程度；血液培养不可靠。需要特殊的培养基。在实验室培养基上生长缓慢可能导致鉴定延迟3至5天。
+这张正面胸部 X 光片显示急性双侧肺炎（由Legionella pneumophila引起的军团病）。
+CAVALLINI JAMES/BSIP/SCIENCE PHOTO LIBRARY
+应进行胸部 X 线检查；其通常显示为斑片状、进展迅速且不对称的浸润影（即使已使用有效的抗生素治疗，该表现仍可能存在），可伴有或不伴有少量胸腔积液。
+实验室异常常有低钠、低磷血症，以及转氨酶和C反应蛋白升高。
+
+【诊断参考】
+1.Gassiep I, Armstrong M, Heather CS, Norton RE: Utility of theLegionellaurinary antigen.Intern Med J49(8):1050–1051, 2019.doi: 10.1111/imj.14381
+1.Gassiep I, Armstrong M, Heather CS, Norton RE: Utility of theLegionellaurinary antigen.Intern Med J49(8):1050–1051, 2019.doi: 10.1111/imj.14381
+2.Yu VL, Plouffe JF, Castellani Pastoris M, et al: Distribution ofLegionellaspecies and serogroups isolated by culture in patients with sporadic community-acquired legionellosis: An international collaborative survey.J Infect Dis186(1):127–128, 2002. doi: 10.1086/341087
+2.Yu VL, Plouffe JF, Castellani Pastoris M, et al: Distribution ofLegionellaspecies and serogroups isolated by culture in patients with sporadic community-acquired legionellosis: An international collaborative survey.J Infect Dis186(1):127–128, 2002. doi: 10.1086/341087
+3.Avni T, Bieber A, Green H, et al: Diagnostic accuracy of PCR alone and compared to urinary antigen testing for detection ofLegionellaspp.: A systematic review.J Clin Microbiol54(2):401–411, 2016.doi: 10.1128/JCM.02675-15
+3.Avni T, Bieber A, Green H, et al: Diagnostic accuracy of PCR alone and compared to urinary antigen testing for detection ofLegionellaspp.: A systematic review.J Clin Microbiol54(2):401–411, 2016.doi: 10.1128/JCM.02675-15
+
+【军团菌感染的治疗】
+氟喹诺酮类药物
+氟喹诺酮类药物
+大环内酯类（阿奇霉素最佳）
+大环内酯类（阿奇霉素最佳）
+有时候可选择多西环素
+有时候可选择多西环素
+首选方案是静脉注射或口服呼吸道氟喹诺酮类药物（如左氧氟沙星或莫西沙星），疗程为 7 至 14 天，对于免疫力严重低下的患者，有时可长达 3 周。
+阿奇霉素（5至10天）有效；克拉霉素和红霉素可能效果较差，只应用于免疫功能正常患者的轻度肺炎。
+多西环素是治疗免疫功能正常患者轻度肺炎的替代药物。
+不建议加用利福平，因为其益处尚未得到证实，且存在潜在危害。
+庞蒂亚克热会自行消失，无需治疗，不会导致任何持续性问题。
+L. pneumophila通常会引起肺部感染;它很少引起肺外感染（最常累及心脏）。
+L. pneumophila通常会引起肺部感染;它很少引起肺外感染（最常累及心脏）。
+L. pneumophila(嗜肺军团杆菌)染通常通过吸入受污染水的气溶胶（或较少见的误吸）而获得；不会人际传播。
+L. pneumophila(嗜肺军团杆菌)染通常通过吸入受污染水的气溶胶（或较少见的误吸）而获得；不会人际传播。
+使用直接荧光抗体染色或聚合酶链反应检测进行诊断；痰液或支气管肺泡灌洗液培养是准确的，但可能需要 3 至 5 天。
+使用直接荧光抗体染色或聚合酶链反应检测进行诊断；痰液或支气管肺泡灌洗液培养是准确的，但可能需要 3 至 5 天。
+使用呼吸道氟喹诺酮类药物（如左氧氟沙星）或阿奇霉素治疗；对于免疫功能正常的患者，多西环素是治疗轻度肺炎的替代药物。
+使用呼吸道氟喹诺酮类药物（如左氧氟沙星）或阿奇霉素治疗；对于免疫功能正常的患者，多西环素是治疗轻度肺炎的替代药物。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对此资源的内容不承担任何责任。
+Centers for Disease Control and Prevention (CDC):Legionella (Legionnaires' Disease and Pontiac Fever)
+Centers for Disease Control and Prevention (CDC):Legionella (Legionnaires' Disease and Pontiac Fever)

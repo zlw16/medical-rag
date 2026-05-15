@@ -1,0 +1,149 @@
+标题：天花
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/pox-viruses/smallpox
+============================================================
+
+由于世界范围内的疫苗接种，全世界自1977年以来已经无天花病例出现。在1980年，世界卫生组织（WHO）建议停止天花疫苗的常规接种。美国在1972年停止了常规疫苗接种。因为人类是天花病毒唯一的自然宿主，而在环境中病毒无法存活超过>2天，因此WHO宣布自然的天花病毒感染已经被消灭。
+考虑到生物恐怖活动有可能使用目前保存的天花病毒或通过合成的方法制造天花病毒，这就增加了天花再流行的可能性（见生物制剂作为武器和CDC: 天花/生物恐怖主义）。
+
+【天花的病理生理学】
+天花病毒至少有2个毒株。
+毒力较强的病毒株导致重型天花（经典天花）
+毒力较强的病毒株导致重型天花（经典天花）
+毒力较弱的病毒株导致轻型天花（类天花）
+毒力较弱的病毒株导致轻型天花（类天花）
+天花通过吸入呼吸道飞沫或直接接触（传播效率稍低于前者）在人与人之间传播。被污染的衣服和床单也可能传播感染。感染最具传染性是在皮疹出现后的最初7～10天。一旦皮肤损伤处形成痂，传染性下降。
+在未接种疫苗的人群中发病率高达85％，并且每一个原发病例至少可以感染4～10个继发病例。但感染的传播速度较慢，并且主要是在密切接触者之间传播。
+病毒侵入口咽部或呼吸道黏膜，并且在局部淋巴结内繁殖，随后发生病毒血症。最后集中在真皮的小血管内和口咽部黏膜。除了偶然累及中枢神经系统引起脑炎外，临床上很少累及其他器官。皮肤、肺部以及骨可能继发细菌感染。
+
+【天花的症状和体征】
+
+【重型天花】
+重型天花潜伏期为 10 到 12 天（范围 7 到 17 天），随后出现 2 到 3 天的前驱症状，包括发热、头痛、背痛和极度不适。有时出现严重的腹痛和呕吐。前驱症状后，在口咽部的黏膜、面部和手臂上出现斑丘疹，之后很快扩展至躯干和腿部。咽喉部的黏膜疹快速溃烂。1～2天后，皮损变为水疱状，接着是脓疱状。脓疱在面部和四肢比在躯干上更加密集，并且可以出现在手掌上。脓疱呈圆形、饱满并且深埋入皮肤。天花的皮损与水痘不同，天花的皮损在身体特定部位都处于同一病期。8～9天后脓疱结痂。一般遗留有严重的瘢痕。
+死亡率约30%。由于大量的炎症反应造成休克和多器官衰竭而死亡，通常在病程的第2周发生。
+5％～10％的天花患者进展为出血或者恶性（扁平）变异。
+出血型罕见，前驱症状期较短且表现更加强烈，之后出现泛发红斑以及表皮和黏膜出血。5～6天内都是致命的。
+天花（痘疹）会引起弥漫性水疱脓疱性病损。面部和四肢的病变比躯干密集。与水痘不同，天花病损在身体的某个部位都处于相似的发展阶段，且为深层、坚固的皮损。
+图片由美国疾病控制与预防中心公共卫生图像库提供。
+恶性型有类似的严重前驱症状，之后进展为融合的、扁平、非脓疱性的皮损。存活者表皮往往剥脱。
+
+【轻型天花】
+轻型天花所产生的症状相似，但是病情却轻得多，皮疹扩散的程度小。
+病死率<1%。
+
+【天花的诊断】
+聚合酶链反应（PCR）
+聚合酶链反应（PCR）
+电子显微镜
+电子显微镜
+除非有记录的实验室病原接触或怀疑因生物恐怖活动造成疫情暴发，否则只有临床症状符合天花表现的病例才进行病原相关检测。因为检测结果有假阳性的可能。对有发热和皮疹的患者进行天花危险度的评估流程可在美国疾病预防控制中心网站获取（CDC Algorithm Poster for Evaluation of Suspected Smallpox）。
+水疱或脓疱样本经过PCR扩增中检出天花病毒DNA即可确诊天花。也可通过电子显微镜确认；或从皮损处刮取皮肤组织进行病毒培养，再通过PCR确认。疑似天花病例必须立即向当地公共卫生机构或疾控中心报告，电话770-488-7100。这些机构则安排在具有高防护能力的实验室(生物安全4级)进行检测确认。
+即时抗原检测试剂正在开发之中。
+
+【天花的治疗】
+支持治疗
+支持治疗
+可能用特考韦瑞，考虑西多福韦或布林西多福韦（CMX 001）
+可能用特考韦瑞，考虑西多福韦或布林西多福韦（CMX 001）
+治疗天花通常是支持性的，对于继发细菌感染使用抗生素治疗。抗病毒药物特考韦瑞于2018年获得美国食品药品监督管理局（FDA）的批准（1），2021年6月，FDA批准布林西多福韦（CMX 001）用于治疗天花。这两项批准都是基于实验研究，虽然它们对人类天花的有效性尚不清楚，但在实验室测试中，它们都阻止了导致天花的病毒的生长，并且对患有类似天花疾病的动物有效。此外，未经 FDA 批准用于治疗天花的西多福韦可在疫情暴发期间在适当的监管机制下使用（例如研究性新药方案或紧急使用授权）。Tecovirimat 和 cidofovir 目前是国家战略储备的一部分（2,3）。（参考CDC: Smallpox Prevention and Treatment。）
+对天花患者进行隔离是最基本的措施。在有限的疫情中，患者可能会被隔离在医院的空气传播感染隔离室，并采取空气传播预防措施。如果大规模的暴发流行，需要进行家庭隔离。应该对接触者进行监测，通常每天测量体温；如果他们体温超过>38°C 或出现其他疾病症状，则应在家中隔离。
+
+【治疗参考文献】
+1.Grosenbach DW, Honeychurch K, Rose EA, et al: Oraltecovirimatfor the treatment of smallpox.N Engl J Med5;379(1):44-53, 2018.doi: 10.1056/NEJMoa1705688
+1.Grosenbach DW, Honeychurch K, Rose EA, et al: Oraltecovirimatfor the treatment of smallpox.N Engl J Med5;379(1):44-53, 2018.doi: 10.1056/NEJMoa1705688
+2.Chittick G, Morrison M, Brundage T, et al: Short-term clinical safety profile ofbrincidofovir: A favorable benefit-risk proposition in the treatment of smallpox.Antiviral Res143:269–277, 2017.doi: 10.1016/j.antiviral.2017.01.009
+2.Chittick G, Morrison M, Brundage T, et al: Short-term clinical safety profile ofbrincidofovir: A favorable benefit-risk proposition in the treatment of smallpox.Antiviral Res143:269–277, 2017.doi: 10.1016/j.antiviral.2017.01.009
+3.Chan-Tack K, Harrington P, Bensman T, et al: Benefit-risk assessment forbrincidofovirfor the treatment of smallpox: U.S. Food and Drug Administration's Evaluation.Antiviral Res195:105182, 2021.doi: 10.1016/j.antiviral.2021.105182.Epub 2021 Sep 25.PMID: 34582915.
+3.Chan-Tack K, Harrington P, Bensman T, et al: Benefit-risk assessment forbrincidofovirfor the treatment of smallpox: U.S. Food and Drug Administration's Evaluation.Antiviral Res195:105182, 2021.doi: 10.1016/j.antiviral.2021.105182.Epub 2021 Sep 25.PMID: 34582915.
+
+【预防天花】
+在美国获得许可的天花疫苗包括ACAM2000（一种具有复制能力的活痘苗病毒）和JYNNEOS（一种减毒[复制缺陷型]的改良安卡拉痘苗[MVA]活疫苗）（1）。这种减毒（弱化）疫苗不会在接种者体内繁殖。(参见CDC: Smallpox Vaccine Basics.)
+痘苗病毒与天花有关，并提供交叉免疫。ACAM2000疫苗是用蘸有重组疫苗的分叉针接种的。用针在直径约5毫米的区域内快速刺15次，并以足够的力量使得有少量出血。接种部位应覆盖敷料，以防止疫苗病毒扩散到身体其他部位或密切接触者。在接种疫苗后的一周常见发热、不适以及肌痛。约在第7天接种部位形成脓疱说明疫苗接种成功。未出现疫苗接种成功迹象者应该再接种一次。
+接种ACAM2000疫苗是危险的，不建议某些人接种，特别是有以下风险因素的人：
+免疫系统减弱（如患有艾滋病或服用抑制免疫系统的药物的人）。
+免疫系统减弱（如患有艾滋病或服用抑制免疫系统的药物的人）。
+皮肤病（特别是特应性皮炎 [湿疹]）
+皮肤病（特别是特应性皮炎 [湿疹]）
+眼部炎症
+眼部炎症
+心脏问题
+心脏问题
+年龄1岁以下
+年龄1岁以下
+JYNNEOS每隔 4 周进行 2 次皮下注射。它已获得 FDA 许可，适用于 18 岁及以上的人群。JYNNEOS疫苗可能在为ACAM2000禁忌症人群接种疫苗方面发挥特殊作用，如免疫功能低下或特应性皮炎患者（见以上列表）。然而，免疫系统较弱的人对JYNNEOS疫苗的反应可能会减弱。
+在发生紧急情况时，另一个活病毒研究性疫苗Aventis Pasteur天花疫苗（APSV）可从国家战略储备库中获得。
+单次接种后，免疫力在 5 年后开始减弱，20 年后可能几乎消失。如果人们成功地再接种一次或多次疫苗，一些残留免疫力可能会持续≥30年。
+除非天花在人群中暴发，一般情况下只建议高危病毒接触者，如实验室技术人员接种疫苗进行暴露前预防 [2]。
+进行性牛痘是一种不愈合的水疱性病变，在接种天花疫苗后出现并广泛扩散至免疫部位以外的皮肤，深入至骨骼和内脏。它几乎只发生在具有细胞介导免疫潜在缺陷的疫苗接受者身上。
+进行性牛痘是一种不愈合的水疱性病变，在接种天花疫苗后出现并广泛扩散至免疫部位以外的皮肤，深入至骨骼和内脏。它几乎只发生在具有细胞介导免疫潜在缺陷的疫苗接受者身上。
+Image courtesy of Dr. Allen W.Mathies of the Immunization Branch of the California Emergency Preparedness Office (Calif/EPO) via the Public Health Image Library of the Centers for Disease Control and Prevention.
+进行性牛痘是一种不愈合的水疱性病变，在接种天花疫苗后出现并广泛扩散至免疫部位以外的皮肤，深入至骨骼和内脏。它几乎只发生在具有细胞介导免疫潜在缺陷的疫苗接受者身上。
+进行性牛痘是一种不愈合的水疱性病变，在接种天花疫苗后出现并广泛扩散至免疫部位以外的皮肤，深入至骨骼和内脏。它几乎只发生在具有细胞介导免疫潜在缺陷的疫苗接受者身上。
+Image courtesy of Dr. Allen W.Mathies of the Immunization Branch of the California Emergency Preparedness Office (Calif/EPO) via the Public Health Image Library of the Centers for Disease Control and Prevention.
+牛痘湿疹是发生在皮肤湿疹患者身上的牛痘。在受影响的部位，活动性湿疹在临床上可能不明显。患者自己接种疫苗后或与接种疫苗的人有身体接触后，可能会患上牛痘性湿疹。
+牛痘湿疹是发生在皮肤湿疹患者身上的牛痘。在受影响的部位，活动性湿疹在临床上可能不明显。患者自己接种疫苗后或与接种疫苗的人有身体接触后，可能会患上牛痘性湿疹。
+Image courtesy of Arthur E.Kaye via the Public Health Image Library of the Centers for Disease Control and Prevention.
+全身性牛痘是疫苗接种后牛痘病毒经血行传播引起的弥漫性牛痘病变。尽管外观可能很严重，但全身性牛痘通常是良性的。
+全身性牛痘是疫苗接种后牛痘病毒经血行传播引起的弥漫性牛痘病变。尽管外观可能很严重，但全身性牛痘通常是良性的。
+Image courtesy of Dr. Allen W.Mathies of the Immunization Branch of the California Emergency Preparedness Office (Calif/EPO) via the Public Health Image Library of the Centers for Disease Control and Prevention.
+进行性牛痘是一种不愈合的水疱性病变，在接种天花疫苗后出现并广泛扩散至免疫部位以外的皮肤，深入至骨骼和内脏。它几乎只发生在具有细胞介导免疫潜在缺陷的疫苗接受者身上。
+进行性牛痘是一种不愈合的水疱性病变，在接种天花疫苗后出现并广泛扩散至免疫部位以外的皮肤，深入至骨骼和内脏。它几乎只发生在具有细胞介导免疫潜在缺陷的疫苗接受者身上。
+Image courtesy of Dr. Allen W.Mathies of the Immunization Branch of the California Emergency Preparedness Office (Calif/EPO) via the Public Health Image Library of the Centers for Disease Control and Prevention.
+进行性牛痘是一种不愈合的水疱性病变，在接种天花疫苗后出现并广泛扩散至免疫部位以外的皮肤，深入至骨骼和内脏。它几乎只发生在具有细胞介导免疫潜在缺陷的疫苗接受者身上。
+进行性牛痘是一种不愈合的水疱性病变，在接种天花疫苗后出现并广泛扩散至免疫部位以外的皮肤，深入至骨骼和内脏。它几乎只发生在具有细胞介导免疫潜在缺陷的疫苗接受者身上。
+Image courtesy of Dr. Allen W.Mathies of the Immunization Branch of the California Emergency Preparedness Office (Calif/EPO) via the Public Health Image Library of the Centers for Disease Control and Prevention.
+牛痘湿疹是发生在皮肤湿疹患者身上的牛痘。在受影响的部位，活动性湿疹在临床上可能不明显。患者自己接种疫苗后或与接种疫苗的人有身体接触后，可能会患上牛痘性湿疹。
+牛痘湿疹是发生在皮肤湿疹患者身上的牛痘。在受影响的部位，活动性湿疹在临床上可能不明显。患者自己接种疫苗后或与接种疫苗的人有身体接触后，可能会患上牛痘性湿疹。
+Image courtesy of Arthur E.Kaye via the Public Health Image Library of the Centers for Disease Control and Prevention.
+全身性牛痘是疫苗接种后牛痘病毒经血行传播引起的弥漫性牛痘病变。尽管外观可能很严重，但全身性牛痘通常是良性的。
+全身性牛痘是疫苗接种后牛痘病毒经血行传播引起的弥漫性牛痘病变。尽管外观可能很严重，但全身性牛痘通常是良性的。
+Image courtesy of Dr. Allen W.Mathies of the Immunization Branch of the California Emergency Preparedness Office (Calif/EPO) via the Public Health Image Library of the Centers for Disease Control and Prevention.
+
+【活牛痘病毒疫苗并发症】
+具有复制能力的病毒疫苗（ACAM2000）并发症的风险因素包括广泛的皮肤疾病（特别是湿疹）、免疫抑制性疾病或疗法、眼部炎症、妊娠、心脏病和1岁以下的年龄。由于接种疫苗可能的风险，因此不建议进行疫苗广泛接种。
+在首次（初次）接种疫苗者中出现严重并发症的概率大约是1/10,000，包括
+种痘后脑炎
+种痘后脑炎
+进展性牛痘
+进展性牛痘
+牛痘性湿疹
+牛痘性湿疹
+全身性牛痘
+全身性牛痘
+心肌炎和/或心包炎
+心肌炎和/或心包炎
+牛痘病毒性角膜炎
+牛痘病毒性角膜炎
+非感染性皮疹
+非感染性皮疹
+在首次接种疫苗者中发生种痘后脑炎的概率约是1/300,000，通常是在疫苗接种后的8至15天容易出现。
+进展性牛痘（痘苗坏死）导致无法愈合的牛痘（水疱的）皮损，扩散至邻近的皮肤，并且最终扩散至其他部位的皮肤、骨骼以及内脏。进展性牛痘既可以在首次接种疫苗时出现也可以在再次接种时出现，但是几乎都是在有细胞免疫缺陷的患者中发生，并且可能是致命的。
+牛痘性湿疹会导致活动性或甚至已愈合的湿疹区域出现牛痘样皮损。
+全身性牛痘是由牛痘病毒血源播散造成的，并且在身体的多个部位产生具有牛痘特征的皮损，它通常是良性的。
+牛痘病毒性角膜炎很少发生，当牛痘病毒被不小心植入眼睛时发生。
+对一些严重的疫苗并发症可以用牛痘免疫球蛋白（VIG）进行治疗；有报道称，一例种痘后湿疹的病例通过给予牛痘免疫球蛋白、西多福韦以及tecovirimat而成功救治。在过去，对因为接触病毒而需要接种疫苗的高危患者同时给予VIG来预防并发症的发生。这种方法的有效性并不明确，CDC也不推荐该法。牛痘免疫球蛋白只能由CDC提供。
+
+【暴露后预防】
+暴露后接种具有复制能力的疫苗，可以预防或者显著地减轻疾病的严重性，适用于天花患者的家庭成员和密切接触者。早期接种最有效，但在暴露后7天接种疫苗仍有部分效果。
+
+【预防参考文献】
+1.Pittman PR, Hahn M, Lee HS, et al: Phase 3 efficacy trial of modified vaccinia ankara as a vaccine against smallpox.N Engl J Med381(20):1897-1908, 2019.doi: 10.1056/NEJMoa1817307
+1.Pittman PR, Hahn M, Lee HS, et al: Phase 3 efficacy trial of modified vaccinia ankara as a vaccine against smallpox.N Engl J Med381(20):1897-1908, 2019.doi: 10.1056/NEJMoa1817307
+2.Petersen BW, Harms TJ, Reynolds MG, et al: Use of vaccinia virus smallpox vaccine in laboratory and health care personnel at risk for occupational exposure to orthopoxviruses: Recommendations of the Advisory Committee on Immunization Practices (ACIP), 2015.MMWR Morb Mortal Wkly Rep65 (10):257–262, 2016.doi: 10.15585/mmwr.mm6510a2
+2.Petersen BW, Harms TJ, Reynolds MG, et al: Use of vaccinia virus smallpox vaccine in laboratory and health care personnel at risk for occupational exposure to orthopoxviruses: Recommendations of the Advisory Committee on Immunization Practices (ACIP), 2015.MMWR Morb Mortal Wkly Rep65 (10):257–262, 2016.doi: 10.15585/mmwr.mm6510a2
+自1977年以来已经没有天花病例发生，但天花病毒可能用于生物恐怖袭击的担忧依然存在。
+自1977年以来已经没有天花病例发生，但天花病毒可能用于生物恐怖袭击的担忧依然存在。
+通过PCR诊断。
+通过PCR诊断。
+治疗主要是支持性的，但是特考瑞韦和brincidofovir已被批准使用。 可以考虑使用西多福韦。
+治疗主要是支持性的，但是特考瑞韦和brincidofovir已被批准使用。 可以考虑使用西多福韦。
+疫苗接种具有高度保护性，但具有复制能力的病毒疫苗（约 1:10,000）的罕见并发症可能会很严重。
+疫苗接种具有高度保护性，但具有复制能力的病毒疫苗（约 1:10,000）的罕见并发症可能会很严重。
+疫苗接种后的数十年中免疫力会逐渐消退。
+疫苗接种后的数十年中免疫力会逐渐消退。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Centers for Disease Control and Prevention (CDC):Smallpox Vaccination: Information for Health Care Providers
+Centers for Disease Control and Prevention (CDC):Smallpox Vaccination: Information for Health Care Providers
+CDC:Mpox and Smallpox Vaccine Guidance
+CDC:Mpox and Smallpox Vaccine Guidance

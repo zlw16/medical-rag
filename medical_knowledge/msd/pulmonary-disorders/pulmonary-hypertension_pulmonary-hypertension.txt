@@ -1,0 +1,401 @@
+标题：肺动脉高压
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/pulmonary-hypertension/pulmonary-hypertension
+============================================================
+
+肺动脉高压有三种不同的血流动力学特征（另见表肺动脉高压的血流动力学特征)：
+毛细血管前肺动脉高压
+毛细血管前肺动脉高压
+毛细血管后肺动脉高压
+毛细血管后肺动脉高压
+合并毛细血管前和毛细血管后肺动脉高压
+合并毛细血管前和毛细血管后肺动脉高压
+
+【肺动脉高压的血流动力学特征】
+肺动脉高压的血流动力学特征
+静息时平均肺动脉压
+肺动脉楔压*
+肺血管阻力†
+毛细血管前肺动脉高压（如慢性肺部疾病、静脉血栓栓塞性疾病）
+> 20 毫米汞柱
+正常 （≤15 毫米汞柱）
+升高 (> 2个伍兹单位）
+毛细血管后肺动脉高压（如左心疾病）
+> 20 毫米汞柱
+升高（> 15 毫米汞柱）
+正常（<2 伍兹单位）
+毛细血管前和毛细血管后肺动脉高压合并存在（例如，因心脏病而患有毛细血管后肺动脉高压的患者中发生的慢性毛细血管前血管重塑）
+> 20 mmHg
+升高（>15 毫米汞柱）
+升高 (> 2个伍兹单位）
+* 也称为肺动脉闭塞压。
+† 测量方式右心导管插入术。 Wood单位，又称混合阻力单位，为mm Hg×min/L。
+Data fromHumbert M, Kovacs G, Hoeper MM, et al.2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension.Eur Respir J2023;61(1):2200879.Published 2023 Jan 6.doi:10.1183/13993003.00879-2022
+* 也称为肺动脉闭塞压。
+† 测量方式右心导管插入术。 Wood单位，又称混合阻力单位，为mm Hg×min/L。
+Data fromHumbert M, Kovacs G, Hoeper MM, et al.2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension.Eur Respir J2023;61(1):2200879.Published 2023 Jan 6.doi:10.1183/13993003.00879-2022
+
+【肺动脉高压的病因】
+许多疾病和药物会引起肺动脉高压。引起肺动脉高压最常见的原因包括：
+左心衰竭，包括舒张功能不全
+左心衰竭，包括舒张功能不全
+间质性肺病伴低氧血症
+间质性肺病伴低氧血症
+肺动脉高压的其他几个原因包括睡眠呼吸暂停、系统性风湿性疾病和复发性肺栓塞。
+目前，根据病理、生理和临床等多方面因素，将肺动脉高压分为5大类（见表肺动脉高压的分类）。第一类肺动脉高压（PAH）主要累及肺小动脉。
+少数肺动脉高压（PAH）病例是偶发的，无明确原发病因，被称为特发性肺动脉高压。
+PAH 的遗传形式（常染色体显性遗传，外显率不完全）已被确定；已发现以下基因的突变：
+激活素样激酶 1 型受体（ALK-1)
+激活素样激酶 1 型受体（ALK-1)
+骨形态发生蛋白受体2型（BMPR2)
+骨形态发生蛋白受体2型（BMPR2)
+凹陷蛋白 1 (CAV1)
+凹陷蛋白 1 (CAV1)
+内皮糖蛋白 (ENG)
+内皮糖蛋白 (ENG)
+生长分化因子 2 (GDF2)
+生长分化因子 2 (GDF2)
+钾通道亚家族 K 成员 3 (KCNK3)
+钾通道亚家族 K 成员 3 (KCNK3)
+母亲对抗四肢瘫同系物 9 (SMAD9)
+母亲对抗四肢瘫同系物 9 (SMAD9)
+T-box 转录因子 4 (TBX4)
+T-box 转录因子 4 (TBX4)
+突变BMPR2（编码骨形态发生蛋白受体 2 型的基因）是 75% 的遗传性肺动脉高压病例的病因（1）。其他突变不太常见，发生在大约 1% 的病例中。
+约20%的遗传性肺动脉高压患者致病基因不明。
+真核翻译起始因子 2 α 激酶 4 基因（EIF2AK4）的突变与肺静脉闭塞性疾病有关，这是 PAH 第 1 组的一种形式（见表肺动脉高压的分类）（2, 3）。
+某些药物和毒素是肺动脉高压的危险因素。与 PAH 肯定相关的药物包括芬氟拉明、右芬氟拉明（在美国已停产）、阿米诺雷克斯（在美国已停产）、毒菜籽油、苯氟雷克斯（在美国尚未上市）、苯丙胺、甲基苯丙胺和达沙替尼。同样，其他蛋白激酶抑制剂也与药物引起的肺动脉高压有关(4）。孕妇服用选择性 5-羟色胺再摄取抑制剂有发生以下疾病的风险新生儿持续性肺动脉高压。可能与 PAH 相关的其他药物和物质包括安非他明类似药物，可卡因、苯丙醇胺（已在美国停产）、圣约翰草、干扰素-α、干扰素-β、烷化剂、博舒替尼（仅可能与肺动脉高压有关）、直接作用于丙型肝炎病毒的抗病毒药物、来氟米特、靛玉红（用于一些中药制剂）和色氨酸（5）。
+有遗传性溶血性贫血的患者，如镰状细胞病，有发展为肺动脉高压（占经右心导管检查确诊病例的10%）的高危风险 (6, 7)。其发病机制与血管内溶血及游离血红蛋白释放到血浆，消耗一氧化氮，生成活性氧，并激活凝血系统有关。镰状细胞疾病引起肺动脉高压的其他危险因素包括铁过载，肝功能障碍，血栓性病症，和慢性肾脏疾病。
+
+【肺动脉高压的分类】
+肺动脉高压的分类
+特定疾病
+肺动脉高压
+PAH相关疾病
+先天性心脏病
+先天性心脏病
+系统性风湿病
+系统性风湿病
+HIV感染
+HIV感染
+门静脉高压症
+门静脉高压症
+裂体吸虫病
+裂体吸虫病
+毒品和毒素引起的肺动脉高压
+遗传性PAH：
+BMPR2
+BMPR2
+ALK-1,CAV-1,ENG,GDF2,KCNK3,SMAD9,TBX4
+ALK-1,CAV-1,ENG,GDF2,KCNK3,SMAD9,TBX4
+特发性肺动脉高压
+对钙通道阻滞剂有长期反应的肺动脉高压
+新生儿持续性肺动脉高压 (PPHN)
+肺静脉闭塞性疾病 (PVOD) 和/或肺毛细血管瘤病 (PCH)
+凝血障碍
+凝血障碍
+药物和毒素诱发的肺静脉闭塞性疾病
+药物和毒素诱发的肺静脉闭塞性疾病
+可遗传的 PVOD (EIF2AK4)
+可遗传的 PVOD (EIF2AK4)
+免疫（系统性风湿病）介导
+免疫（系统性风湿病）介导
+传染性（巨细胞病毒（CMV）感染、爱泼斯坦-巴尔病毒（EBV）感染、艾滋病毒感染,麻疹)
+传染性（巨细胞病毒（CMV）感染、爱泼斯坦-巴尔病毒（EBV）感染、艾滋病毒感染,麻疹)
+左心疾病相关的肺动脉高压
+先天性或获得性左心流入道或流出道梗阻以及先天性心肌病
+左心脏舒张期功能障碍，包括射血分数正常性左心脏衰竭
+左心室收缩功能障碍
+左心瓣膜疾病
+与呼吸系统疾病和（或）缺氧相关的肺动脉高压
+肺泡低通气综合征
+慢性高原病
+慢性阻塞性肺病（COPD）
+发育异常
+间质性肺疾病
+淋巴管平滑肌瘤病
+睡眠呼吸障碍
+引起混合性通气障碍的其他肺部疾病。
+肺动脉阻塞引起的肺动脉高压
+慢性血栓栓塞性肺动脉高压
+非血栓性肺栓塞（如，肿瘤、寄生虫、异物）
+血栓阻塞远端或近端肺动脉
+杂项（不清楚或多方面的机制）
+血液系统疾病
+慢性溶血性贫血
+慢性溶血性贫血
+骨髓增殖性疾病
+骨髓增殖性疾病
+镰状细胞病
+镰状细胞病
+全身疾病
+肺朗格汉斯细胞肉芽肿
+肺朗格汉斯细胞肉芽肿
+代谢性障碍
+糖原沉积病
+糖原沉积病
+甲状腺疾病
+甲状腺疾病
+其他障碍
+慢性肾脏病
+慢性肾脏病
+纤维性纵隔炎
+纤维性纵隔炎
+肺肿瘤血栓性微血管病
+肺肿瘤血栓性微血管病
+ALK-1 = 激活素样激酶 1 型受体； BMPR2 = 骨形态发生蛋白受体 2 型； CAV1 = 小窝蛋白 1； EIF2AK4 = 真核翻译起始因子 2 α 激酶 4； ENG = 内皮糖蛋白； GDF2 = 生长分化因子 2； KCNK3 = 钾通道亚家族 K 成员 3； SMAD9 = 果蝇母系抗十肢瘫痪蛋白同源物 9； TBX4 = T-box 转录因子 4。
+Data fromHumbert M, Kovacs G, Hoeper MM, et al.2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension [published correction appears inEur Heart J2023 Apr 17;44(15):1312. doi: 10.1093/eurheartj/ehad005].Eur Heart J2022;43(38):3618-3731.doi:10.1093/eurheartj/ehac237
+ALK-1 = 激活素样激酶 1 型受体； BMPR2 = 骨形态发生蛋白受体 2 型； CAV1 = 小窝蛋白 1； EIF2AK4 = 真核翻译起始因子 2 α 激酶 4； ENG = 内皮糖蛋白； GDF2 = 生长分化因子 2； KCNK3 = 钾通道亚家族 K 成员 3； SMAD9 = 果蝇母系抗十肢瘫痪蛋白同源物 9； TBX4 = T-box 转录因子 4。
+Data fromHumbert M, Kovacs G, Hoeper MM, et al.2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension [published correction appears inEur Heart J2023 Apr 17;44(15):1312. doi: 10.1093/eurheartj/ehad005].Eur Heart J2022;43(38):3618-3731.doi:10.1093/eurheartj/ehac237
+
+【病因学参考】
+1.Cuthbertson I, Morrell NW, Caruso P:BMPR2Mutation and Metabolic Reprogramming in Pulmonary Arterial Hypertension.Circ Res132(1):109–126, 2023.doi:10.1161/CIRCRESAHA.122.321554
+1.Cuthbertson I, Morrell NW, Caruso P:BMPR2Mutation and Metabolic Reprogramming in Pulmonary Arterial Hypertension.Circ Res132(1):109–126, 2023.doi:10.1161/CIRCRESAHA.122.321554
+2.Eyries M, Montani D, Girerd B, et al: EIF2AK4 mutations cause pulmonary veno-occlusive disease, a recessive form of pulmonary hypertension.Nat Genet46(1):65-9, 2014.doi: 10.1038/ng.2844
+2.Eyries M, Montani D, Girerd B, et al: EIF2AK4 mutations cause pulmonary veno-occlusive disease, a recessive form of pulmonary hypertension.Nat Genet46(1):65-9, 2014.doi: 10.1038/ng.2844
+3.Girerd B, Weatherald J, Montani D, Humbert M: Heritable pulmonary hypertension: from bench to bedside.Eur Respir Rev26(145):170037, 2017. doi: 10.1183/16000617.0037-2017
+3.Girerd B, Weatherald J, Montani D, Humbert M: Heritable pulmonary hypertension: from bench to bedside.Eur Respir Rev26(145):170037, 2017. doi: 10.1183/16000617.0037-2017
+4.Cornet L, Khouri C, Roustit M, et al: Pulmonary arterial hypertension associated with protein kinase inhibitors: a pharmacovigilance-pharmacodynamic study.Eur Respir J9;53(5):1802472, 2019. doi: 10.1183/13993003.02472-2018
+4.Cornet L, Khouri C, Roustit M, et al: Pulmonary arterial hypertension associated with protein kinase inhibitors: a pharmacovigilance-pharmacodynamic study.Eur Respir J9;53(5):1802472, 2019. doi: 10.1183/13993003.02472-2018
+5.Simonneau G, Montani D, Celermajer DS, et al: Haemodynamic definitions and updated clinical classification of pulmonary hypertension.Eur Respir J53(1):1801913, 2019. doi: 10.1183/13993003.01913-2018
+5.Simonneau G, Montani D, Celermajer DS, et al: Haemodynamic definitions and updated clinical classification of pulmonary hypertension.Eur Respir J53(1):1801913, 2019. doi: 10.1183/13993003.01913-2018
+6.Fonseca GH, Souza R, Salemi VM, Jardim CV, Gualandro SF: Pulmonary hypertension diagnosed by right heart catheterisation in sickle cell disease.Eur Respir J39(1):112–118, 2012.doi:10.1183/09031936.00134410
+6.Fonseca GH, Souza R, Salemi VM, Jardim CV, Gualandro SF: Pulmonary hypertension diagnosed by right heart catheterisation in sickle cell disease.Eur Respir J39(1):112–118, 2012.doi:10.1183/09031936.00134410
+7.Parent F, Bachir D, Inamo J, et al: A hemodynamic study of pulmonary hypertension in sickle cell disease.N Engl J Med365(1):44–53, 2011.doi:10.1056/NEJMoa1005565
+7.Parent F, Bachir D, Inamo J, et al: A hemodynamic study of pulmonary hypertension in sickle cell disease.N Engl J Med365(1):44–53, 2011.doi:10.1056/NEJMoa1005565
+
+【肺动脉高压的病理生理】
+肺动脉高压的病理生理学机制包括
+肺血管阻力增加
+肺血管阻力增加
+肺静脉压力增高
+肺静脉压力增高
+先天性心脏病引起的肺静脉流量增加
+先天性心脏病引起的肺静脉流量增加
+
+【肺血管阻力增加】
+肺血管阻力增加是由于
+病理性血管收缩
+病理性血管收缩
+肺血管床闭塞
+肺血管床闭塞
+肺动脉高压的特征是可变的、有时是病理性的血管收缩，以及内皮细胞和平滑肌细胞的增殖、肥大和慢性炎症，最终导致血管壁重塑。血管收缩的部分原因是血栓素和内皮素-1（两者均为血管收缩剂）活性增强，前列环素和一氧化氮（二者均为血管舒张剂）活性降低。
+血管阻塞使肺血管压力增加，进一步损伤内皮。损伤激活了内膜表面的凝血过程，可能加重肺动脉高压。
+血小板功能异常，纤溶酶原激活物抑制剂1，纤维蛋白肽A增加和组织纤溶酶原激活物活性降低引起凝血异常和血栓形成也是可能的原因。 血小板被激活后，可通过分泌促进成纤维细胞和平滑肌细胞增殖的物质，如血小板源性生长因子（PDGF）、血管内皮生长因子（VEGF）和转化生长因子beta（TGF -beta）发挥重要作用。内皮表面的局部凝血不应与慢性血栓栓塞性肺动脉高压相混淆，后者是由机化的肺动脉栓子引起的肺动脉高压。
+BMPR2基因的突变占遗传性 PAH 的大多数病例，也出现在特发性 PAH 中。异常的 BMPR2 信号会扰乱 TGF-β/BMP 平衡，有利于肺动脉平滑肌和内皮细胞的促增殖和抗凋亡反应。因此，BMPR2 信号转导已成为肺动脉高压治疗中日益受到关注的研究靶点 (1)。
+
+【肺静脉压力增高】
+肺静脉压力增高通常由影响左侧心脏并导致左心腔压力升高的疾病引起，最终导致肺静脉压力升高。肺静脉压力增高可造成肺泡 - 毛细血管壁损伤和肺水肿。肺静脉压力持续增高，最终可导致不可逆的肺泡 - 毛细血管膜增厚，肺弥散功能下降。
+肺静脉高压最常见的原因是保留射血分数的左心衰竭（HFpEF），通常见于有高血压和代谢综合征的老年妇女。对于患有左侧心脏病相关肺动脉高压的患者，肺血管阻力升高（[PVR] 定义为跨肺梯度除以心输出量）与更糟糕的结果相关。
+大多数肺动脉高压患者最终导致右心室肥厚、扩张和右心室功能衰竭。右心衰竭可使劳力时的心输出量受限。
+
+【肺血流量增加】
+因先天性心脏病导致的肺静脉血流量增加可引起肺动脉高压。这可能发生在诸如房间隔缺损、室间隔缺损和动脉导管未闭等情况下，推测是通过特征性肺血管病变的发展所致。然而，肺血流量增加的确切效应尚不明确，并且增加的血流量可能仅在同时存在肺血管阻力升高或存在第二种刺激因素时才会导致血管阻塞。
+
+【病理生理学参考文献】
+1.Cuthbertson I, Morrell NW, Caruso P.BMPR2Mutation and Metabolic Reprogramming in Pulmonary Arterial Hypertension.Circ Res2023;132(1):109-126.doi:10.1161/CIRCRESAHA.122.321554
+1.Cuthbertson I, Morrell NW, Caruso P.BMPR2Mutation and Metabolic Reprogramming in Pulmonary Arterial Hypertension.Circ Res2023;132(1):109-126.doi:10.1161/CIRCRESAHA.122.321554
+
+【肺动脉高压的症状和体征】
+几乎所有病例都出现进行性劳力性呼吸困难和乏力。伴随呼吸困难出现不典型的胸部不适和劳力性头晕或晕厥常提示病情严重。这些症状主要由于右心衰，心输出量不足导致。
+晚期病人的右心衰体征可包括右室抬举样搏动，第二心音（S2）宽分裂，S2的肺动脉瓣成分（P2）增强，肺动脉喷射性喀喇音，右室第三心音（S3），三尖瓣反流杂音和颈静脉怒张，可能伴有v波。此外，肝淤血和外周水肿也是常见的晚期表现。
+肺部听诊一般正常。
+患者还可能有原发病或相关疾病的表现。
+
+【肺动脉高压的诊断】
+常见症状：劳力性呼吸困难和疲劳
+常见症状：劳力性呼吸困难和疲劳
+初步评估：胸片、心电图和超声心动图
+初步评估：胸片、心电图和超声心动图
+潜在疾病的识别：肺活量测定、通气/灌注扫描或血管CT造影、胸部高分辨CT（HRCT）、 多导睡眠图、HIV检测、全血细胞计数检测、肝功能检测和自身抗体检测
+潜在疾病的识别：肺活量测定、通气/灌注扫描或血管CT造影、胸部高分辨CT（HRCT）、 多导睡眠图、HIV检测、全血细胞计数检测、肝功能检测和自身抗体检测
+确认诊断并判断严重程度：肺动脉（右心）导管插入术
+确认诊断并判断严重程度：肺动脉（右心）导管插入术
+评估病情严重性的附加检查：6分钟步行距离，以及血浆N末端脑钠肽前体（NT-proBNP）或脑钠肽（BNP）水平。
+评估病情严重性的附加检查：6分钟步行距离，以及血浆N末端脑钠肽前体（NT-proBNP）或脑钠肽（BNP）水平。
+有明显劳力性呼吸困难的患者，其他方面相对健康，没有已知可引起肺部症状的其他疾病的病史或体征时，应怀疑肺动脉高压 (1)。
+患者最初接受胸片检查、肺功能检查和心电图检查，以确定更常见的呼吸困难原因，随后进行经胸多普勒超声心动图检查，以评估右心室功能和肺动脉收缩压，并检测可能导致肺动脉高压的结构性左心疾病。
+查血常规明确有无红细胞增多症，贫血和血小板减少症。
+肺动脉高压最常见的X线表现是肺门血管影增粗，并迅速变细延伸至外周，侧位片可见右心室增大占据前胸骨后间隙。
+心电图表现可包括：电轴右偏，V1导联R波大于S波（R>S），S1Q3T3型（提示右心室肥厚），以及II导联P波高尖（提示右心房扩大）。
+临床上继发性原因不明显时，可进行其他诊断性检查。这些检查包括
+通气-灌注扫描或CT血管造影以发现血栓栓塞性疾病
+通气-灌注扫描或CT血管造影以发现血栓栓塞性疾病
+对于未进行CT血管造影的患者，高分辨率CT（HRCT）可提供肺实质疾病的详细信息。
+对于未进行CT血管造影的患者，高分辨率CT（HRCT）可提供肺实质疾病的详细信息。
+肺功能检查（包括肺量测定、肺容量和一氧化碳弥散能力 [DLCO]）用于识别阻塞性或限制性肺病
+肺功能检查（包括肺量测定、肺容量和一氧化碳弥散能力 [DLCO]）用于识别阻塞性或限制性肺病
+血清抗体检查（如抗核抗体[ANA]，类风湿因子[RF]，SCL-70[拓扑异构酶I]，抗Ro（抗SSA），抗核糖核蛋白 [抗RNP]和抗着丝点抗体）可发现自身免疫性疾病。
+血清抗体检查（如抗核抗体[ANA]，类风湿因子[RF]，SCL-70[拓扑异构酶I]，抗Ro（抗SSA），抗核糖核蛋白 [抗RNP]和抗着丝点抗体）可发现自身免疫性疾病。
+多导睡眠图检查以识别阻塞性睡眠呼吸暂停
+多导睡眠图检查以识别阻塞性睡眠呼吸暂停
+CT血管造影或通气/灌（VQ）注扫描可提示慢性血栓栓塞性肺动脉高压，并且血管造影可明确诊断。CT血管造影有助于发现近端血管内血栓和血管腔纤维化改变。 根据临床实际情况选用其他检查如HIV检测，肝功能检查和多导睡眠描记。
+如初步评估提示肺动脉高压，必须进一步行肺动脉导管术检测：
+右心房压力
+右心房压力
+右心室压力
+右心室压力
+肺动脉压
+肺动脉压
+肺动脉楔压
+肺动脉楔压
+心输出量
+心输出量
+左心室舒张压
+左心室舒张压
+应测量右侧血氧饱和度以排除左向右分流房间隔缺损。 发现平均肺动脉压>20毫米汞柱、肺动脉楔压≤15毫米汞柱且肺血管阻力＞2 Wood单位可确诊为患有潜在PAH的患者。
+急性扩张肺血管的药物，如吸入一氧化氮、静脉注射依前列醇或腺苷，通常在特发性、遗传性或药物性 PAH 患者进行导管插入术期间给予。对这些药物产生反应，导致右侧心腔压力下降，可能有助于指导治疗药物的选择。
+由于其相关的高发病率和死亡率，肺活检既不需要也不推荐。
+超声心动图发现右心收缩功能障碍（如三尖瓣环收缩期位移）及某些右心导管检查结果（如心输出量降低、平均肺动脉压力增高和右心房压力增高）提示严重的肺动脉高压。
+检测其他反应肺动脉高压严重度的指标有助于评估患者预后及监测疗效。这些指标包括6分钟步行距离降低和N末端脑利钠肽(NT-proBNP)或脑利钠肽(BNP)的血浆水平升高。
+一旦确诊肺动脉高压，应回顾患者的家族史以发现可能存在的遗传因素（例如，在家族其他看似健康的成员中有早逝的情况）。家族性肺动脉高压需要遗传咨询，告知家族成员患肺动脉高压的风险（约20%），提倡以超声心动图定期筛查(2)。对特发性肺动脉高压行BMPR2基因突变检测可发现家族成员的发病风险。如果患者骨成型蛋白受体 2为阴性，SMAD9、KCN3、和CAV1的基因检测可以进一步帮助识别有风险的家庭成员。
+
+【诊断参考】
+1.Humbert M, Kovacs G, Hoeper MM, et al.2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension.Eur Respir J2023;61(1):2200879.Published 2023 Jan 6.doi:10.1183/13993003.00879-2022
+1.Humbert M, Kovacs G, Hoeper MM, et al.2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension.Eur Respir J2023;61(1):2200879.Published 2023 Jan 6.doi:10.1183/13993003.00879-2022
+2.Morrell NW, Aldred MA, Chung WK, et al.Genetics and genomics of pulmonary arterial hypertension.Eur Respir J2019;53(1):1801899.doi:10.1183/13993003.01899-2018
+2.Morrell NW, Aldred MA, Chung WK, et al.Genetics and genomics of pulmonary arterial hypertension.Eur Respir J2019;53(1):1801899.doi:10.1183/13993003.01899-2018
+
+【肺动脉高压的治疗】
+避免可能使病情加重的情形（如吸烟、高海拔、妊娠、使用拟交感神经药物）
+避免可能使病情加重的情形（如吸烟、高海拔、妊娠、使用拟交感神经药物）
+特发性和家族性肺动脉高压：静脉使用依前列醇；吸入、口服、皮下或静脉注射前列环素类似物；口服内皮素受体拮抗剂；口服磷酸二酯酶5抑制剂；口服可溶性鸟苷酸环化酶刺激剂；口服前列环素（IP2）受体激动剂
+特发性和家族性肺动脉高压：静脉使用依前列醇；吸入、口服、皮下或静脉注射前列环素类似物；口服内皮素受体拮抗剂；口服磷酸二酯酶5抑制剂；口服可溶性鸟苷酸环化酶刺激剂；口服前列环素（IP2）受体激动剂
+继发性肺动脉高压：治疗原发疾病
+继发性肺动脉高压：治疗原发疾病
+辅助治疗：吸氧、利尿剂和（或）抗凝剂
+辅助治疗：吸氧、利尿剂和（或）抗凝剂
+
+【第一类肺动脉高压】
+肺动脉高压（PAH）的治疗正在迅速发展。药物针对与 PAH 发展有关的 5 种异常途径：
+内皮素通路
+内皮素通路
+一氧化氮通路
+一氧化氮通路
+前列环素途径
+前列环素途径
+激活素受体信号通路
+激活素受体信号通路
+炎症途径
+炎症途径
+内皮素途径是波生坦、安立生坦和马西替坦的作用靶点，这些药物是口服内皮素受体拮抗剂（ERA）。
+一氧化氮途径是西地那非、他达拉非和伐地那非的作用靶点，这些药物是口服磷酸二酯酶5（PDE5）抑制剂。利奥西呱是一种可溶性鸟苷酸环化酶刺激剂，也通过一氧化氮通路发挥作用。
+静脉注射依前列醇（一种前列环素类似物）以前列环素通路为靶点，它可以改善患者机体功能并延长生存期，即使在插管期间对血管扩张剂无反应的患者中也是如此1)。缺点是需要中心静脉置管持续给药以及频繁发生明显的副作用（包括面部潮红、腹泻和中心静脉导管相关的菌血症）。目前可用的前列环素类似物包括吸入制剂、口服剂、皮下或静脉注射制剂（依洛前列素和曲前列环素）。Selexipag是一种口服可利用的生物活性小分子，可激活前列腺素I2受体，降低死亡率和发病率(2)。
+激活素受体信号通路最近被证实与肺动脉高压有关，索他西普（一种激活素信号抑制剂）以此通路为靶点。该通路失调的特征是血清和肺部激活素 A、激活素 B、卵泡抑素、卵泡抑素样 3 水平升高，而肺动脉高压时抑制素-α 水平降低（3）。这些蛋白质是转化生长因子β（TGF-β）超家族的成员，与肺血管重塑有关，有助于预测肺动脉高压的死亡率。
+BMPR2是遗传性 PAH 和特发性 PAH 患者中最常见的基因突变。BMPR2基因编码骨形态发生蛋白（BMP），该蛋白也是TGF-β超家族的成员。索他西普有助于恢复在BMP信号相关的PAH患者中失调的抗增殖（BMP）和促增殖（激活素）信号通路之间的平衡。当添加到肺动脉高压的背景治疗中时，索特西普以剂量依赖性方式降低肺血管阻力。这种变化是由平均肺动脉压的降低驱动的，而不是肺动脉楔压或心输出量的降低。这一发现在所有背景治疗（包括前列环素输注治疗）亚组中是一致的（4）。在一项将索他西普或安慰剂添加到标准背景治疗的3期试验中，接受索他西普治疗的患者在24周时的6分钟步行测试表现出显著改善。随机分配至索他西普治疗组的患者，其肺血管阻力、NT-proBNP水平、生活质量、死亡风险以及世界卫生组织（WHO）功能分级也表现出显著改善（5）。
+炎症通路是塞拉替尼的作用靶点，塞拉替尼是一种小分子激酶抑制剂，可治疗PAH中发生的肺动脉平滑肌细胞肥大、增殖以及血管周围炎症。塞拉替尼是衍生生长因子受体α和β、集落刺激因子1受体以及肥大细胞/干细胞生长因子受体Kit的有效抑制剂（6）。在一项2期试验中，当对PAH功能II级或III级患者给予塞拉替尼治疗时（参见表格肺动脉高压患者的功能状态），其肺血管阻力显著降低（7）。
+
+【肺动脉高压患者的功能状态】
+肺动脉高压患者的功能状态
+身体活动不受限制；普通活动不会引起过度呼吸困难、疲劳、胸痛或近乎晕厥
+身体活动轻度受限；患者休息时感觉舒适，但普通身体活动会导致一些呼吸困难、疲劳、胸痛或近乎晕厥
+身体活动明显受限；患者休息时感觉舒适，活动量少于正常时则会引起呼吸困难、疲劳、胸痛或近乎晕厥
+无法进行任何身体活动而无症状；休息时可能会出现呼吸困难和/或疲劳。任何体力活动都会增加不适感，患者有右心衰竭的迹象。
+Functional classification of pulmonary hypertension modified after the New York Heart Association functional classification according to the World Health Organization.
+Data fromHumbert M, Kovacs G, Hoeper MM, et al: 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension [published correction appears in Eur Heart J. 2023 Apr 17;44(15):1312. doi: 10.1093/eurheartj/ehad005].Eur Heart J2022;43(38):3618-3731.doi:10.1093/eurheartj/ehac237
+Functional classification of pulmonary hypertension modified after the New York Heart Association functional classification according to the World Health Organization.
+Data fromHumbert M, Kovacs G, Hoeper MM, et al: 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension [published correction appears in Eur Heart J. 2023 Apr 17;44(15):1312. doi: 10.1093/eurheartj/ehad005].Eur Heart J2022;43(38):3618-3731.doi:10.1093/eurheartj/ehac237
+初始治疗方法的指南治疗方法建议在导管室进行血管活性测试。如果患者有血管反应性，则应使用钙通道阻滞剂进行治疗。无血管反应性的患者应根据其功能等级进行治疗（见表肺动脉高压患者的功能状态）。世界卫生组织功能分级为 IV 级且存在胸痛或晕厥等高危症状的患者应开始接受静脉或皮下前列环素加安立生坦 (ERA) 和他达拉非 (PDE5) 的联合治疗（8）。世界卫生组织（WHO）功能分级为 IV 且无高危特征的患者应开始接受安立生坦和他达拉非或马西替坦 (ERA) 和他达拉非的联合治疗。（9，10）。
+除极少数例外，联合治疗对于患有 1 组和 4 组肺动脉高压的患者来说通常是首选，并且得到越来越多证据的支持。例如，在一项随机试验中，比较了口服 10 毫克安立生坦和口服 40 毫克他达拉非的单一疗法与每日一次服用这两种药物的联合疗法的疗效，联合疗法显着降低了 NT-proBNP 水平，增加了 6 分钟步行距离和满意临床反应的百分比（11）。联合治疗的不良临床结局（死亡、住院、疾病进展或长期预后不良）少于单一治疗。本例支持通过联合疗法作为PAH的初始治疗来靶向多种途径。然而，磷酸二酯酶5抑制剂不能与riociguat（一种可溶性鸟苷环化酶兴奋剂）联合使用，因为这两种药物都会增加环鸟苷单磷酸（cGMP）水平，并且联合使用会导致危险的低血压。有猝死高风险的严重右心衰竭患者可能受益于早期静脉或皮下含前列环素类似物的联合治疗方案（通常与PDE5抑制剂和ERA联合使用）。
+SERAPHIN 研究表明，使用马西替坦可显著降低发病率和死亡率，马西替坦可单独使用或作为 PAH 的背景治疗（主要是磷酸二酯酶 5 抑制剂）（12）。在PATENT-1试验中，利奥西呱作为序贯联合治疗，在接受内皮素受体拮抗剂或前列环素类似物治疗的患者中，增加了6分钟步行距离，减少了肺血管阻力，并改善了功能分级（在单药治疗时亦如此）（13）。FREEDOM-EV 研究发现，在使用 ERA 或 PDE5 抑制剂的基线单药治疗中添加口服曲前列环素在减少临床恶化、减少 NT-proBNP、改善功能等级和改善 6 分钟步行距离方面比安慰剂更有效(14）。
+当赛乐西帕与PDE 5抑制剂、ERA或两者联合使用时，赛乐西帕（一种前列腺环素通路激动剂）的发病率和死亡率低于安慰剂（15、16）。然而，研究表明，与马西替坦和他达拉非的初始双联疗法相比，马西替坦、他达拉非和司来帕格的初始三联疗法并不能改善肺血管阻力或血流动力学(9）。在某些临床情况下，特发性、遗传性、药物或毒素诱导或系统性风湿病相关PAH的患者，建议接受ERA/PDE5双口服抑制剂治疗的患者添加赛乐西帕(17)。
+选定的子组有时会被区别对待。前列环素类似物、内皮素受体拮抗剂和鸟苷酸环化酶刺激剂主要在特发性PAH中得到研究；然而，对于因系统性风湿性疾病、HIV或门脉性肺动脉高压导致的PAH患者，可谨慎使用这些药物（需注意药物代谢和药物相互作用）。对于因肺静脉闭塞性疾病导致的PAH患者，应避免使用血管扩张剂，因其有引发灾难性肺水肿的风险（18）。
+肺移植提供了治愈的唯一希望，但排斥反应（闭塞性细支气管炎综合征）和感染发病率高。5年生存率为50% (19)。肺移植适用于心功能IV级（定义为轻微活动即出现呼吸困难，导致活动受限于床椅之间）或所有疗法均失败且符合其他移植健康标准的复杂先天性心脏病患者。
+治疗心力衰竭的辅助疗法（包括利尿剂）对许多患者来说是必要的。除非有禁忌症，否则大多数患者应接受华法林治疗。
+
+【第二类到第五类肺动脉高压】
+主要治疗为控制原发病。患有左心疾病的患者可能需要手术治疗瓣膜病。尚无多中心试验证明使用PAH特异性疗法对治疗继发于左心疾病的肺动脉高压有益。因此，不推荐2级患者使用这些药物。吸入的前列环素类似物曲前列环素已被证明可以提高运动能力。
+在治疗原发病的基础上加用氧疗可使有肺部疾病伴低氧血症的患者获益。没有确凿的证据支持在COPD（慢性阻塞性肺病）患者中使用肺血管扩张剂。吸入曲前列环素已被证明可以提高继发于间质性肺病的肺动脉高压患者的运动能力 (20）。由于临床试验中不良事件增加，对于继发于间质性肺病的肺动脉高压，通常禁用利奥西呱和ERA类药物（21，22）。
+继发于慢性血栓栓塞性疾病的严重肺动脉高压患者的一线治疗包括肺血栓动脉内膜切除术在内的外科干预。在体外循环过程中，沿着肺血管切开有组织的内皮化血栓，其过程比急性外科栓塞切除术更为复杂。该手术使相当大比例患者的肺动脉高压得到治愈，并恢复了心肺功能；在高手术量的中心，手术死亡率<5%（23）。球囊肺血管成形术是另一种介入选择。该程序应仅在专家中心为不适合肺动脉内膜切除术的有症状患者进行。利奥西呱可改善非手术候选患者或其风险与收益比率过高患者的运动能力和肺血管阻力（13)。马西替坦也显示出对无法手术的慢性血栓栓塞性肺动脉高压患者的肺血管阻力、6分钟步行试验和NT-proBNP水平的改善作用（24）。马西替坦在与包括利奥西呱在内的其他PAH疗法联合使用时也显示出安全性（25）。
+合并肺动脉高压的镰状细胞病患者，可根据指征积极采用羟基脲、铁螯合剂和氧疗进行治疗。对于有症状的肺血管阻力升高且经右心导管检查证实肺动脉楔压正常（类似于PAH的病理生理学）的患者，可以考虑使用选择性肺血管扩张剂治疗（使用依前列醇或内皮素受体拮抗剂）。西地那非可增加镰状细胞病患者疼痛危象的发生率，因此仅应在患者血管闭塞危象发作有限且正在接受羟基脲或输血治疗时使用。
+
+【治疗参考文献】
+1.Barst RJ, Rubin LJ, Long WA, et al: A comparison of continuous intravenousepoprostenol(prostacyclin) with conventional therapy for primary pulmonary hypertension.N Engl J Med334(5):296–301, 1996. doi: 10.1056/NEJM199602013340504
+1.Barst RJ, Rubin LJ, Long WA, et al: A comparison of continuous intravenousepoprostenol(prostacyclin) with conventional therapy for primary pulmonary hypertension.N Engl J Med334(5):296–301, 1996. doi: 10.1056/NEJM199602013340504
+2.Sitbon O, Channick R, Chin KM, et al:Selexipagfor the treatment of pulmonary arterial hypertension.N Engl J Med373: 2522-33, 2015.doi: 10.1056/NEJMoa1503184
+2.Sitbon O, Channick R, Chin KM, et al:Selexipagfor the treatment of pulmonary arterial hypertension.N Engl J Med373: 2522-33, 2015.doi: 10.1056/NEJMoa1503184
+3.Guignabert C, Savale L, Boucly A, et al: Serum and Pulmonary Expression Profiles of the Activin Signaling System in Pulmonary Arterial Hypertension.Circulation147(24):1809–1822, 2023.doi:10.1161/CIRCULATIONAHA.122.061501
+3.Guignabert C, Savale L, Boucly A, et al: Serum and Pulmonary Expression Profiles of the Activin Signaling System in Pulmonary Arterial Hypertension.Circulation147(24):1809–1822, 2023.doi:10.1161/CIRCULATIONAHA.122.061501
+4.Humbert M, McLaughlin V, Gibbs JSR, et al:Sotaterceptfor the treatment of pulmonary arterial hypertension.N Engl J Med384(13):1204–1215, 2021. doi: 10.1056/NEJMoa2024277
+4.Humbert M, McLaughlin V, Gibbs JSR, et al:Sotaterceptfor the treatment of pulmonary arterial hypertension.N Engl J Med384(13):1204–1215, 2021. doi: 10.1056/NEJMoa2024277
+5.Hoeper MM, Badesch DB, Ghofrani HA, et al: Phase 3 Trial ofSotaterceptfor Treatment of Pulmonary Arterial Hypertension.N Engl J Med388(16):1478–1490, 2023.doi:10.1056/NEJMoa2213558
+5.Hoeper MM, Badesch DB, Ghofrani HA, et al: Phase 3 Trial ofSotaterceptfor Treatment of Pulmonary Arterial Hypertension.N Engl J Med388(16):1478–1490, 2023.doi:10.1056/NEJMoa2213558
+6.Pullamsetti SS, Sitapara R, Osterhout R, et al: Pharmacology and Rationale forSeralutinibin the Treatment of Pulmonary Arterial Hypertension.Int J Mol Sci24(16):12653, 2023.doi:10.3390/ijms241612653
+6.Pullamsetti SS, Sitapara R, Osterhout R, et al: Pharmacology and Rationale forSeralutinibin the Treatment of Pulmonary Arterial Hypertension.Int J Mol Sci24(16):12653, 2023.doi:10.3390/ijms241612653
+7.Frantz RP, McLaughlin VV, Sahay S, et al:Seralutinibin adults with pulmonary arterial hypertension (TORREY): a randomised, double-blind, placebo-controlled phase 2 trial.Lancet Respir Med12(7):523–534, 2024.doi:10.1016/S2213-2600(24)00072-9
+7.Frantz RP, McLaughlin VV, Sahay S, et al:Seralutinibin adults with pulmonary arterial hypertension (TORREY): a randomised, double-blind, placebo-controlled phase 2 trial.Lancet Respir Med12(7):523–534, 2024.doi:10.1016/S2213-2600(24)00072-9
+8.Humbert M, Kovacs G, Hoeper MM, et al: 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension [published correction appears in Eur Heart J. 2023 Apr 17;44(15):1312. doi: 10.1093/eurheartj/ehad005].Eur Heart J2022;43(38):3618-3731.doi:10.1093/eurheartj/ehac237
+8.Humbert M, Kovacs G, Hoeper MM, et al: 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension [published correction appears in Eur Heart J. 2023 Apr 17;44(15):1312. doi: 10.1093/eurheartj/ehad005].Eur Heart J2022;43(38):3618-3731.doi:10.1093/eurheartj/ehac237
+9.Chin KM, Sitbon O, Doelberg M, et al: Three- versus two-drug therapy for patients with newly diagnosed pulmonary arterial hypertension.J Am Coll Cardiol78(14):1393–1403, 2021. doi: 10.1016/j.jacc.2021.07.057
+9.Chin KM, Sitbon O, Doelberg M, et al: Three- versus two-drug therapy for patients with newly diagnosed pulmonary arterial hypertension.J Am Coll Cardiol78(14):1393–1403, 2021. doi: 10.1016/j.jacc.2021.07.057
+10.Maron BA: Revised Definition of Pulmonary Hypertension and Approach to Management: A Clinical Primer.J Am Heart Assoc12(8):e029024, 2023.doi:10.1161/JAHA.122.029024
+10.Maron BA: Revised Definition of Pulmonary Hypertension and Approach to Management: A Clinical Primer.J Am Heart Assoc12(8):e029024, 2023.doi:10.1161/JAHA.122.029024
+11.Galie N, Barbera JA, Frost AE, et al: Initial use ofambrisentanplustadalafilin pulmonary arterial hypertension.N Engl J Med373: 834-44, 2015.doi: 10.1056/NEJMoa1413687
+11.Galie N, Barbera JA, Frost AE, et al: Initial use ofambrisentanplustadalafilin pulmonary arterial hypertension.N Engl J Med373: 834-44, 2015.doi: 10.1056/NEJMoa1413687
+12.Pulido T, Adzerikho I, Channick RN, et al:Macitentanand morbidity and mortality in pulmonary arterial hypertension.N Engl J Med369(9):809–818, 2013.doi:10.1056/NEJMoa1213917
+12.Pulido T, Adzerikho I, Channick RN, et al:Macitentanand morbidity and mortality in pulmonary arterial hypertension.N Engl J Med369(9):809–818, 2013.doi:10.1056/NEJMoa1213917
+13.Ghofrani HA, Galiè N, Grimminger F, et al:Riociguatfor the treatment of pulmonary arterial hypertension.N Engl J Med369(4): 330-340, 2013.doi: 10.1056/NEJMoa1209655
+13.Ghofrani HA, Galiè N, Grimminger F, et al:Riociguatfor the treatment of pulmonary arterial hypertension.N Engl J Med369(4): 330-340, 2013.doi: 10.1056/NEJMoa1209655
+14.White RJ, Jerjes-Sanchez C, Bohns Meyer GM, et al: Combination therapy with oraltreprostinilfor pulmonary arterial hypertension.A double-blind placebo-controlled clinical trial.Am J Respir Crit Care Med201(6):707–717, 2020. doi: 10.1164/rccm.201908-1640OC
+14.White RJ, Jerjes-Sanchez C, Bohns Meyer GM, et al: Combination therapy with oraltreprostinilfor pulmonary arterial hypertension.A double-blind placebo-controlled clinical trial.Am J Respir Crit Care Med201(6):707–717, 2020. doi: 10.1164/rccm.201908-1640OC
+15.Tamura Y, Channick RN: New paradigm for pulmonary arterial hypertension treatment.Curr Opin Pulm Med22(5): 429-33, 2016.doi: 10.1097/MCP.0000000000000308
+15.Tamura Y, Channick RN: New paradigm for pulmonary arterial hypertension treatment.Curr Opin Pulm Med22(5): 429-33, 2016.doi: 10.1097/MCP.0000000000000308
+16.McLaughlin VV, Channick R, Chin K, et al: Effect ofselexipagon morbidity/mortality in pulmonary arterial hypertension: Results of the GRIPHON study.J Am Coll Cardiol65 (suppl): A1538, 2015.
+16.McLaughlin VV, Channick R, Chin K, et al: Effect ofselexipagon morbidity/mortality in pulmonary arterial hypertension: Results of the GRIPHON study.J Am Coll Cardiol65 (suppl): A1538, 2015.
+17.McLaughlin VV, Channick R, De Marco T, et al: Results of an expert consensus survey on the treatment of pulmonary arterial hypertension with oral prostacyclin pathway agents.Chest157(4):955–965, 2020. doi: 10.1016/j.chest.2019.10.043
+17.McLaughlin VV, Channick R, De Marco T, et al: Results of an expert consensus survey on the treatment of pulmonary arterial hypertension with oral prostacyclin pathway agents.Chest157(4):955–965, 2020. doi: 10.1016/j.chest.2019.10.043
+18.Condon DF, Nickel NP, Anderson R, et al: The 6th World Symposium on Pulmonary Hypertension: what's old is new.F1000Research8:F1000 Faculty Rev-888, 2019. doi: 10.12688/f1000research.18811.1
+18.Condon DF, Nickel NP, Anderson R, et al: The 6th World Symposium on Pulmonary Hypertension: what's old is new.F1000Research8:F1000 Faculty Rev-888, 2019. doi: 10.12688/f1000research.18811.1
+19.Hendriks PM, Staal DP, van de Groep LD, et al: The evolution of survival of pulmonary arterial hypertension over 15 years.Pulm Circ12(4):e12137, 2022.doi:10.1002/pul2.12137
+19.Hendriks PM, Staal DP, van de Groep LD, et al: The evolution of survival of pulmonary arterial hypertension over 15 years.Pulm Circ12(4):e12137, 2022.doi:10.1002/pul2.12137
+20.Waxman A, Restrepo-Jaramillo R, Thenappan T, et al: Inhaledtreprostinilin pulmonary hypertension due to interstitial lung disease.N Engl J Med384(4):325–334, 2021. doi: 10.1056/NEJMoa2008470
+20.Waxman A, Restrepo-Jaramillo R, Thenappan T, et al: Inhaledtreprostinilin pulmonary hypertension due to interstitial lung disease.N Engl J Med384(4):325–334, 2021. doi: 10.1056/NEJMoa2008470
+21.Nathan SD, Behr J, Collard HR, et al:Riociguatfor idiopathic interstitial pneumonia-associated pulmonary hypertension (RISE-IIP): a randomised, placebo-controlled phase 2b study.Lancet Respir Med7(9):780–790, 2019. doi: 10.1016/S2213-2600(19)30250-4
+21.Nathan SD, Behr J, Collard HR, et al:Riociguatfor idiopathic interstitial pneumonia-associated pulmonary hypertension (RISE-IIP): a randomised, placebo-controlled phase 2b study.Lancet Respir Med7(9):780–790, 2019. doi: 10.1016/S2213-2600(19)30250-4
+22.Sahay S, Channick R, Chin K, et al:Macitentanin pulmonary hypertension (PH) due to chronic lung disease: Real-world evidence from OPUS/OrPHeUS.J Heart Lung Trans40 (4) [Suppl]: S105-S106, 2021.
+22.Sahay S, Channick R, Chin K, et al:Macitentanin pulmonary hypertension (PH) due to chronic lung disease: Real-world evidence from OPUS/OrPHeUS.J Heart Lung Trans40 (4) [Suppl]: S105-S106, 2021.
+23.Hoeper MM, Madani MM, Nakanishi N, Meyer B, Cebotari S, Rubin LJ: Chronic thromboembolic pulmonary hypertension.Lancet Respir Med2(7):573–582, 2014.doi:10.1016/S2213-2600(14)70089-X
+23.Hoeper MM, Madani MM, Nakanishi N, Meyer B, Cebotari S, Rubin LJ: Chronic thromboembolic pulmonary hypertension.Lancet Respir Med2(7):573–582, 2014.doi:10.1016/S2213-2600(14)70089-X
+24.Ghofrani HA, Simonneau G, D'Armini AM, et al:Macitentanfor the treatment of inoperable chronic thromboembolic pulmonary hypertension (MERIT-1): results from the multicentre, phase 2, randomised, double-blind, placebo-controlled study.Lancet Respir Med5(10):785–794, 2017.doi:10.1016/S2213-2600(17)30305-3
+24.Ghofrani HA, Simonneau G, D'Armini AM, et al:Macitentanfor the treatment of inoperable chronic thromboembolic pulmonary hypertension (MERIT-1): results from the multicentre, phase 2, randomised, double-blind, placebo-controlled study.Lancet Respir Med5(10):785–794, 2017.doi:10.1016/S2213-2600(17)30305-3
+25.Channick R, McLaughlin V, Chin K, et al: Treatment of chronic thromboembolic pulmonary hypertension (CTEPH): Real-world experience withmacitentan.J Heart Lung Trans38(4) [suppl]: S483, 2019.doi: https://www.jhltonline.org/article/S1053-2498(19)31231-8/fulltext
+25.Channick R, McLaughlin V, Chin K, et al: Treatment of chronic thromboembolic pulmonary hypertension (CTEPH): Real-world experience withmacitentan.J Heart Lung Trans38(4) [suppl]: S483, 2019.doi: https://www.jhltonline.org/article/S1053-2498(19)31231-8/fulltext
+
+【肺动脉高压的预后】
+接受治疗的患者无需移植的五年生存率约为 50%（1）。然而，一些患者登记处显示死亡率较低（例如，REVEAL 登记处显示 1 至 3 年死亡率为 10% 至 30%）[2]），大概是因为目前可用的治疗方法更优。 提示预后较差的指标包括
+对血管扩张剂没有反应
+对血管扩张剂没有反应
+低氧血症
+低氧血症
+整个机体功能下降
+整个机体功能下降
+6分钟步行距离短
+6分钟步行距离短
+血浆NT-pro-BNP或BNP水平升高
+血浆NT-pro-BNP或BNP水平升高
+右心收缩功能障碍的超声心动图指标（例如，三尖瓣环平面收缩期偏移<1.6cm，右心室扩张，室间隔变平伴矛盾运动，以及心包积液）
+右心收缩功能障碍的超声心动图指标（例如，三尖瓣环平面收缩期偏移<1.6cm，右心室扩张，室间隔变平伴矛盾运动，以及心包积液）
+右心导管检查显示心输出量低、平均肺动脉压高和/或右心房压力高
+右心导管检查显示心输出量低、平均肺动脉压高和/或右心房压力高
+系统性硬化症、镰状细胞病或HIV感染合并肺动脉高压（PAH）的患者较没有PAH的患者预后更差。
+
+【预后参考】
+1.Hendriks PM, Staal DP, van de Groep LD, et al: The evolution of survival of pulmonary arterial hypertension over 15 years.Pulm Circ12(4):e12137, 2022.doi:10.1002/pul2.12137
+1.Hendriks PM, Staal DP, van de Groep LD, et al: The evolution of survival of pulmonary arterial hypertension over 15 years.Pulm Circ12(4):e12137, 2022.doi:10.1002/pul2.12137
+2.McGoon MD, Miller DP: REVEAL: a contemporary US pulmonary arterial hypertension registry.Eur Respir Rev21(123):8–18, 2012.doi:10.1183/09059180.00008211
+2.McGoon MD, Miller DP: REVEAL: a contemporary US pulmonary arterial hypertension registry.Eur Respir Rev21(123):8–18, 2012.doi:10.1183/09059180.00008211
+肺动脉高压可分为五类
+肺动脉高压可分为五类
+若患者出现呼吸困难，且无法用其他临床上明显的心脏或肺部疾病解释，应怀疑肺动脉高压。
+若患者出现呼吸困难，且无法用其他临床上明显的心脏或肺部疾病解释，应怀疑肺动脉高压。
+开始评估胸片，肺功能检查，心电图和经胸多普勒超声心动图。
+开始评估胸片，肺功能检查，心电图和经胸多普勒超声心动图。
+通过右心导管检查确诊。
+通过右心导管检查确诊。
+第1组患者予血管扩张剂联合治疗，如治疗无效，考虑肺移植。
+第1组患者予血管扩张剂联合治疗，如治疗无效，考虑肺移植。
+考虑对第3组患者使用吸入用曲前列环素治疗。
+考虑对第3组患者使用吸入用曲前列环素治疗。
+除非患者不适合手术，否则用肺血栓动脉内膜切除术治疗第 4 组。
+除非患者不适合手术，否则用肺血栓动脉内膜切除术治疗第 4 组。
+第2、3、5组患者主要通过治疗基础疾病、对症治疗，有时采用其他措施。
+第2、3、5组患者主要通过治疗基础疾病、对症治疗，有时采用其他措施。

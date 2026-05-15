@@ -1,0 +1,43 @@
+标题：因子 VIII、IX 和 XI 水平升高
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/thrombotic-disorders/elevated-factor-viii-ix-and-xi-levels
+============================================================
+
+因子VIII、IX和XI是主要在肝脏中产生的凝血蛋白。因子VIII与血管性血友病因子(VWF) 结合的非活性形式循环，直到血管损伤将其激活并分离。然后，游离因子VIII与因子IX互作用以促进凝血。
+在莱顿血栓形成倾向性研究中，因子VIII水平升高首次被认为是静脉血栓栓塞症（VTE）的危险因素，这是一项针对无癌症的首次VTE发作患者以及年龄和性别匹配的对照的病例对照研究。因子VIII活性>150 IU/L与VTE风险增加近5倍相关（1)。因子VIII水平升高也被确定为复发性VTE的风险因素（2）。
+因子IX和因子XI抗原水平升高也与VTE风险增加相关（3, 4）。然而，血栓栓塞病因纵向调查研究也发现，当调整年龄、性别、种族、研究、BMI（体重指数）和糖尿病时，因子XI与VTE风险增加相关而非因子IX(5）。
+血管性血友病因子水平升高也与VTE风险增加有关（6）。
+
+【参考文献】
+1.van der Meer FJ, Koster T, Vandenbroucke JP, Briët E, Rosendaal FR.The Leiden Thrombophilia Study (LETS).Thromb Haemost.1997;78(1):631-635.
+1.van der Meer FJ, Koster T, Vandenbroucke JP, Briët E, Rosendaal FR.The Leiden Thrombophilia Study (LETS).Thromb Haemost.1997;78(1):631-635.
+2.Kyrle PA, Minar E, Hirschl M, et al.High plasma levels offactor VIIIand the risk of recurrent venous thromboembolism.N Engl J Med.2000; 343(7):457-462.doi: 10.1056/NEJM200008173430702
+2.Kyrle PA, Minar E, Hirschl M, et al.High plasma levels offactor VIIIand the risk of recurrent venous thromboembolism.N Engl J Med.2000; 343(7):457-462.doi: 10.1056/NEJM200008173430702
+3.van Hylckama Vlieg A, van der Linden IK, Bertina RM, Rosendaal FR.High levels offactor IXincrease the risk of venous thrombosis.Blood.2000; 95(12):3678-3682.
+3.van Hylckama Vlieg A, van der Linden IK, Bertina RM, Rosendaal FR.High levels offactor IXincrease the risk of venous thrombosis.Blood.2000; 95(12):3678-3682.
+4.Meijers JC, Tekelenburg WL, Bouma BN, Bertina RM, Rosendaal FR.High levels of coagulationfactor XIas a risk factor for venous thrombosis.N Engl J Med.2000; 342(10):696-701.doi: 10.1056/NEJM200003093421004
+4.Meijers JC, Tekelenburg WL, Bouma BN, Bertina RM, Rosendaal FR.High levels of coagulationfactor XIas a risk factor for venous thrombosis.N Engl J Med.2000; 342(10):696-701.doi: 10.1056/NEJM200003093421004
+5.Cushman M, O'Meara ES, Folsom AR, et al.Coagulation factors IX through XIII and the risk of future venous thrombosis: the Longitudinal Investigation of Thromboembolism Etiology.Blood.2009; 114(14):2878-2883.doi: 10.1182/blood-2009-05-219915
+5.Cushman M, O'Meara ES, Folsom AR, et al.Coagulation factors IX through XIII and the risk of future venous thrombosis: the Longitudinal Investigation of Thromboembolism Etiology.Blood.2009; 114(14):2878-2883.doi: 10.1182/blood-2009-05-219915
+6.Edvardsen MS, Hindberg K, Hansen ES, et al.Plasma levels ofvon Willebrand factorand future risk of incident venous thromboembolism.Blood Adv.2021;5(1):224-232.doi:10.1182/bloodadvances.2020003135
+6.Edvardsen MS, Hindberg K, Hansen ES, et al.Plasma levels ofvon Willebrand factorand future risk of incident venous thromboembolism.Blood Adv.2021;5(1):224-232.doi:10.1182/bloodadvances.2020003135
+
+【因子VIII、IX和XI水平升高的诊断】
+因子 VIII、IX 或 XI 的检测
+因子 VIII、IX 或 XI 的检测
+可以直接测量VIII、IX和XI抗原的水平和活性。
+因子VIII、IX和XI水平与静脉血栓栓塞风险增加相关(1,2)。在检测因子活性时，必须确保未使用抗凝药物。华法林影响维生素K依赖性因子II、VII、IX和X的活性及抗原水平。直接口服抗凝药可能导致因子活性水平被低估（3）。直接口服抗凝剂不会影响因子抗原水平。
+
+【诊断参考】
+1.Lowe G, Wu O, van Hylckama Vlieg A, Folsom A, Rosendaal F, Woodward M.Plasma levels of coagulation factors VIII and IX and risk of venous thromboembolism: Systematic review and meta-analysis.Thromb Res.2023;229:31-39.doi:10.1016/j.thromres.2023.06.026
+1.Lowe G, Wu O, van Hylckama Vlieg A, Folsom A, Rosendaal F, Woodward M.Plasma levels of coagulation factors VIII and IX and risk of venous thromboembolism: Systematic review and meta-analysis.Thromb Res.2023;229:31-39.doi:10.1016/j.thromres.2023.06.026
+2.Meijers JC, Tekelenburg WL, Bouma BN, Bertina RM, Rosendaal FR.High levels of coagulation factor XI as a risk factor for venous thrombosis.N Engl J Med.2000;342(10):696-701.doi:10.1056/NEJM200003093421004
+2.Meijers JC, Tekelenburg WL, Bouma BN, Bertina RM, Rosendaal FR.High levels of coagulation factor XI as a risk factor for venous thrombosis.N Engl J Med.2000;342(10):696-701.doi:10.1056/NEJM200003093421004
+3.Douxfils J, Ageno W, Samama CM, et al.Laboratory testing in patients treated with direct oral anticoagulants: a practical guide for clinicians.J Thromb Haemost.2018;16(2):209-219.doi:10.1111/jth.13912
+3.Douxfils J, Ageno W, Samama CM, et al.Laboratory testing in patients treated with direct oral anticoagulants: a practical guide for clinicians.J Thromb Haemost.2018;16(2):209-219.doi:10.1111/jth.13912
+
+【因子VIII、IX和XI水平升高的治疗】
+直接口服抗凝血剂和维生素K拮抗剂可有效治疗静脉血栓栓塞症中因子VIII、IX和XI水平升高的患者（1)。
+
+【治疗参考文献】
+1.Campello E, Spiezia L, Simion C, et al.Direct Oral Anticoagulants in Patients With Inherited Thrombophilia and Venous Thromboembolism: A Prospective Cohort Study.J Am Heart Assoc.2020;9(23):e018917.doi:10.1161/JAHA.120.018917
+1.Campello E, Spiezia L, Simion C, et al.Direct Oral Anticoagulants in Patients With Inherited Thrombophilia and Venous Thromboembolism: A Prospective Cohort Study.J Am Heart Assoc.2020;9(23):e018917.doi:10.1161/JAHA.120.018917

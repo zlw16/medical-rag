@@ -1,0 +1,33 @@
+标题：铁缺乏
+来源：https://www.msdmanuals.cn/professional/nutritional-disorders/mineral-deficiency-and-toxicity/iron-deficiency
+============================================================
+
+铁（Fe）是机体内血红蛋白、肌红蛋白和许多酶的组成成分。血红素铁主要存在于动物产品中。血红素铁比植物和谷物中的非血红素铁更容易吸收。在平衡膳食中，非血红素铁占>85%。伴随动物性蛋白和维生素C的同时摄入，非血红素铁的吸收率也会上升。
+铁缺乏是世界上最常见的元素缺乏症。其发生的主要原因是：
+铁摄入不足，常见于婴儿、青春期女孩和孕妇
+铁摄入不足，常见于婴儿、青春期女孩和孕妇
+吸收不良（如乳糜泻）
+吸收不良（如乳糜泻）
+慢性出血，包括月经过多和胃肠道异常出血（如肿瘤、炎症性肠病、胃炎)
+慢性出血，包括月经过多和胃肠道异常出血（如肿瘤、炎症性肠病、胃炎)
+当病史无法明确识别缺铁原因时，确定其病因至关重要。患有缺铁症的中老年人应该接受内窥镜肠道检查，因为结肠癌引起的慢性出血是中老年人的一个严重原因。
+铁缺乏和缺铁性贫血在精英跑者和铁人三项运动员中很常见（1）。
+慢性肾病和炎症性肠病也与缺铁有关。慢性肾脏疾病患者，包括血液透析患者、炎症性肠病患者或其他慢性炎症性疾病患者，肝脏中铁调素的合成增加，干扰铁吸收，导致缺铁。然而，慢性炎症也会通过减少用于制造红细胞的铁的利用来增加血清铁，从而导致慢性病贫血并使铁状态的评估复杂化。
+当铁缺乏到一定程度时，可出现小细胞性贫血。
+除贫血外，铁缺乏可以引起异食癖（渴求非食物）与匙状甲，并与不宁腿综合征相关。罕见情况下，铁缺乏会因环后食管蹼导致吞咽困难。
+缺铁可能会加剧某些类型的心力衰竭；在这种情况下，患者可能会受益于铁替代（2–4）。
+诊断依靠全血细胞计数、血清铁蛋白和转铁蛋白饱和度（TSAT）测定。在缺乏状态下，铁蛋白水平往往较低（<50 mcg/L），转铁蛋白饱和度通常<20%（5）。
+极少情况下，仍不能明确诊断铁缺乏时，可能需要检查骨髓中的铁。
+铁缺乏的治疗包括：如有可能，纠正病因（如治疗出血性肠肿瘤）。中、重度铁缺乏症患者和部分轻度缺乏症患者应该给予补充铁剂的治疗。
+
+【参考文献】
+1.Coates A, Mountjoy M, Burr J.Incidence of Iron Deficiency and Iron Deficient Anemia in Elite Runners and Triathletes.Clin J Sport Med.2017;27(5):493-498.doi:10.1097/JSM.0000000000000390
+1.Coates A, Mountjoy M, Burr J.Incidence of Iron Deficiency and Iron Deficient Anemia in Elite Runners and Triathletes.Clin J Sport Med.2017;27(5):493-498.doi:10.1097/JSM.0000000000000390
+2.Cheema B, Chokshi A, Orimoloye O, Ardehali H.Intravenous Iron Repletion for Patients With Heart Failure and Iron Deficiency: JACC State-of-the-Art Review.J Am Coll Cardiol.2024;83(25):2674-2689.doi:10.1016/j.jacc.2024.03.4312
+2.Cheema B, Chokshi A, Orimoloye O, Ardehali H.Intravenous Iron Repletion for Patients With Heart Failure and Iron Deficiency: JACC State-of-the-Art Review.J Am Coll Cardiol.2024;83(25):2674-2689.doi:10.1016/j.jacc.2024.03.4312
+3.Graham FJ, Guha K, Cleland JG, Kalra PR.Treating iron deficiency in patients with heart failure: what, why, when, how, where and who.心脏。2024;110(20):1201-1207.Published 2024 Sep 25.doi:10.1136/heartjnl-2022-322030
+3.Graham FJ, Guha K, Cleland JG, Kalra PR.Treating iron deficiency in patients with heart failure: what, why, when, how, where and who.心脏。2024;110(20):1201-1207.Published 2024 Sep 25.doi:10.1136/heartjnl-2022-322030
+4.Cleland JGF, Kalra PA, Pellicori P, et al; IRONMAN Study Group.Intravenous iron for heart failure, iron deficiency definitions, and clinical response: the IRONMAN trial.Eur Heart J.2024 Apr 21;45(16):1410-1426.doi: 10.1093/eurheartj/ehae086.Erratum in:Eur Heart J.2024 Sep 29;45(36):3766.doi: 10.1093/eurheartj/ehae243
+4.Cleland JGF, Kalra PA, Pellicori P, et al; IRONMAN Study Group.Intravenous iron for heart failure, iron deficiency definitions, and clinical response: the IRONMAN trial.Eur Heart J.2024 Apr 21;45(16):1410-1426.doi: 10.1093/eurheartj/ehae086.Erratum in:Eur Heart J.2024 Sep 29;45(36):3766.doi: 10.1093/eurheartj/ehae243
+5.DeLoughery TG, Jackson CS, Ko CW, Rockey DC.AGA Clinical Practice Update on Management of Iron Deficiency Anemia: Expert Review.Clin Gastroenterol Hepatol.2024 Aug;22(8):1575-1583.doi: 10.1016/j.cgh.2024.03.046
+5.DeLoughery TG, Jackson CS, Ko CW, Rockey DC.AGA Clinical Practice Update on Management of Iron Deficiency Anemia: Expert Review.Clin Gastroenterol Hepatol.2024 Aug;22(8):1575-1583.doi: 10.1016/j.cgh.2024.03.046

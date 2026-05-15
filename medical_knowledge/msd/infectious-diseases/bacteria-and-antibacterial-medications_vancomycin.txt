@@ -1,0 +1,72 @@
+标题：万古霉素
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/bacteria-and-antibacterial-medications/vancomycin
+============================================================
+
+万古霉素是一种杀菌型抗生素，抑制细菌细胞壁的合成。
+
+【万古霉素的药代动力学】
+万古霉素口服给药胃肠道不易吸收。胃肠外给药后，可穿透入胆汁、胸膜、心包、滑液及腹水。然而，即使是炎性脑脊液，穿透力也很低且不稳定。
+万古霉素以原形通过肾小球滤过排泄。
+
+【万古霉素的适应症】
+万古霉素对以下细菌有效：
+大多数革兰阳性球菌和杆菌，包括几乎所有耐青霉素和头孢菌素的金黄色葡萄球菌和凝固酶阴性葡萄球菌株
+大多数革兰阳性球菌和杆菌，包括几乎所有耐青霉素和头孢菌素的金黄色葡萄球菌和凝固酶阴性葡萄球菌株
+许多肠球菌菌株（大多Enterococcus faecalis（粪肠球菌）)
+许多肠球菌菌株（大多Enterococcus faecalis（粪肠球菌）)
+但许多肠球菌菌株和一些S. aureus株对其耐药。
+万古霉素是由下列细菌引起严重感染和心内膜炎治疗常用药物（除万古霉素耐药株）：
+耐甲氧西林S. aureus（金黄色葡萄球菌）
+耐甲氧西林S. aureus（金黄色葡萄球菌）
+耐甲氧西林凝固酶阴性葡萄球菌
+耐甲氧西林凝固酶阴性葡萄球菌
+耐beta-内酰胺类和多药耐药的肺炎链球菌
+耐beta-内酰胺类和多药耐药的肺炎链球菌
+beta-溶血性链球菌（当beta-内酰胺类药物过敏或耐药而不能使用时）
+beta-溶血性链球菌（当beta-内酰胺类药物过敏或耐药而不能使用时）
+Corynebacterium（棒状杆菌属）菌种，包括C. jeikeium（杰氏棒状杆菌）和C. striatum（纹带棒状杆菌）
+Corynebacterium（棒状杆菌属）菌种，包括C. jeikeium（杰氏棒状杆菌）和C. striatum（纹带棒状杆菌）
+草绿色链球菌（当beta-内酰胺类药物过敏或耐药而不能使用时）
+草绿色链球菌（当beta-内酰胺类药物过敏或耐药而不能使用时）
+肠球菌（当beta-内酰胺类药物过敏或耐药而不能使用时）
+肠球菌（当beta-内酰胺类药物过敏或耐药而不能使用时）
+万古霉素治疗甲氧西林敏感的S. aureus（金黄色葡萄球菌）感染，与抗葡萄球菌β-内酰胺类药物相比效果差。当治疗耐甲氧西林凝固酶阴性葡萄球菌人工瓣膜心内膜炎或肠球菌心内膜炎时，万古霉素需联合其他抗生素。万古霉素也被用作治疗由对青霉素敏感性降低的肺炎链球菌引起的脑膜炎的替代抗生素；然而，万古霉素进入脑脊液的不规则性（尤其是在同时使用地塞米松的情况下）以及临床治疗失败的报告使得单独使用万古霉素治疗肺炎链球菌脑膜炎的疗效不如预期。
+口服万古霉素用于治疗Clostridioides（原称：Clostridium[梭状芽孢杆菌属]）difficile（艰难梭菌）诱发性腹泻（伪膜性肠炎）。万古霉素被推荐用于初始发生的非严重C. difficile（艰难梭菌）感染，而不是甲硝唑。对于患有严重C. difficile（艰难梭菌）感染的患者，万古霉素优于甲硝唑，同时对甲硝唑治疗无效者也是首选。然而，美国传染病学会 (IDSA) 和美国医疗保健流行病学学会 (SHEA)2021年关于成人艰难梭菌感染管理的临床实践指南建议推荐使用非达霉素（当可用时）比万古霉素更适合用于艰难梭菌感染，因为非达霉素可以降低复发风险。
+
+【万古霉素的禁忌症】
+万古霉素禁用于曾有过敏史者。
+
+【万古霉素在妊娠和哺乳期间的使用】
+万古霉素的动物繁殖研究尚未显示对胎儿有风险。人体研究的证据不充分。万古霉素应仅在明确需要时才给予孕妇。口服万古霉素被用来治疗C. difficile（艰难梭菌）引起的孕妇腹泻。
+万古霉素会进入乳汁，因此不建议在哺乳期使用，以防止肠道菌群破坏；但是口服给药胃肠道吸收差，婴儿不太可能出现全身性的不良反应。
+
+【万古霉素的不良反应】
+万古霉素的主要副作用是
+超敏反应（过敏或因直接肥大细胞脱颗粒）
+超敏反应（过敏或因直接肥大细胞脱颗粒）
+万古霉素应以稀释溶液（2.5 至 5.0 mg/mL）缓慢输注 60 分钟或更长时间，速度不超过 10 mg/分钟，以避免万古霉素输注反应（一种组胺介导的反应，可导致面部、颈部和肩部瘙痒和潮红）。其他超敏反应（如皮疹、发热）可能发生，特别当治疗持续>2周时。
+其他潜在的不良反应包括可逆的中性粒细胞减少症和血小板减少症。 除非使用大剂量药物或与其他肾毒性药物（如氨基糖苷类）联用，否则肾毒性罕见。 一些报告表明，哌拉西林/他唑巴坦同时使用也可能增加肾毒性的风险。静脉输液过程中，发生静脉炎不常见。
+目前制剂剂量相关性耳毒性不常见。当万古霉素与其他耳毒性药物同时使用时，发生率会上升。
+
+【万古霉素的剂量调整注意事项】
+治疗脑膜炎剂量必须高于常规剂量。
+肾功能不全患者减量
+在记录或怀疑有侵袭性甲氧西林耐药的S. aureus(MRSA) 感染患者中，万古霉素的给药剂量应达到 400 至 600 的浓度-时间曲线下面积 (AUC)。不再建议以谷浓度（15 mg/L 至 20 mg/L [10.3 微摩尔/升至 13.8 mmol/mL]）作为替代指标，来达到 AUC 与最低抑菌浓度 (AUC/MIC) 比值 ≥ 400 的目标。剂量优化可以通过获得多个分布后水平（输注结束和低谷后 1 至 2 小时）并使用一阶动力学方程计算 AUC，使用使用 1 或 2 次迭代的基于软件的贝叶斯方法，或通过滴定连续输注至 17 至 25 mcg/mL （11.73 至 17.25 micromol/L）的稳态浓度 (1)。
+这些给药建议仅适用于 MRSA，不应用于指导其他革兰氏阳性感染的给药。
+万古霉素对许多病原菌最小抑菌浓度（MIC）在过去十年一直在升高。根据万古霉素的MIC，对S. aureus（金黄色葡萄球菌）敏感性如下：
+≤2 mcg/mL (≤ 1.4 micromol/L) ：敏感
+≤2 mcg/mL (≤ 1.4 micromol/L) ：敏感
+4~8 mcg/mL (2.8-5.5 micromol/L)：中度
+4~8 mcg/mL (2.8-5.5 micromol/L)：中度
+> 8 mcg/mL (> 5.5 micromol/L):：耐药
+> 8 mcg/mL (> 5.5 micromol/L):：耐药
+但是，由万古霉素MIC≥2 mcg/mL （≥1.4 μmol/L）的S. aureus（金黄色葡萄球菌）引起的感染，即使日AUC为400至600，对标准剂量的反应可能也不理想，因此对于临床反应差且MIC≥2的患者，改用替代疗法的阈值应该较低。
+
+【剂量调整注意事项参考文献】
+1.Rybak MJ, Le J, Lodise TP, et al.Therapeutic monitoring ofvancomycinfor serious methicillin-resistantStaphylococcus aureusinfections: A revised consensus guideline and review by the American Society of Health-System Pharmacists, the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the Society of Infectious Diseases Pharmacists.Am J Health Syst Pharm.2020;77(11):835-864.doi:10.1093/ajhp/zxaa036
+1.Rybak MJ, Le J, Lodise TP, et al.Therapeutic monitoring ofvancomycinfor serious methicillin-resistantStaphylococcus aureusinfections: A revised consensus guideline and review by the American Society of Health-System Pharmacists, the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the Society of Infectious Diseases Pharmacists.Am J Health Syst Pharm.2020;77(11):835-864.doi:10.1093/ajhp/zxaa036
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA):Focused update guidelines on the management of Clostridioides difficile infection in adults(2021)
+Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA):Focused update guidelines on the management of Clostridioides difficile infection in adults(2021)

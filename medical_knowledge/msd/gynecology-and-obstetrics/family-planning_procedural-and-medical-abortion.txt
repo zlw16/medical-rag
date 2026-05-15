@@ -1,0 +1,106 @@
+标题：手术流产和药物流产
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/family-planning/procedural-and-medical-abortion
+============================================================
+
+在美国，大约有一半的怀孕是意外妊娠。约 40% 的意外妊娠以药物流产或手术流产终止；其中 93% 的流产发生在妊娠 13 周之前（1）。相同的药物或操作技术也用于妊娠丢失的情况。
+在美国，药物流产和手术流产均受各州法规限制（如强制等待期、妊娠周数限制等）。在堕胎合法的国家，人工流产总体是安全的，并发症较少。在世界范围内，13%孕产妇死亡是因为不安全的人工流产(2)。而这绝大多数发生在认为流产是非法的国家中。
+通常，孕龄是通过超声检查确定的，但有时病史和体检会用于估计孕早期的孕龄。若女性处于妊娠中期且存在并发症危险因素，应考虑进一步评估。建议自妊娠12周起进行宫颈预处理（采用药物和/或机械方法以软化并扩张宫颈），以降低手术相关并发症风险。
+手术流产是否完成可通过直接观察宫腔内容物排出，或在术中行超声检查予以确认。如果在操作过程中未使用超声，可通过组织学评估确认妊娠终止情况。对于妊娠部位未明且未能明确识别组织者，可在术前及术后测定血清β-人绒毛膜促性腺激素（β-hCG）定量水平；1 周后下降幅度超过 50% 可确认妊娠已终止。
+手术流产前应给予对生殖道感染有效的抗生素（包括针对衣原体感染的药物）。目前尚未明确最佳预防用药方案，但多西环素 200 mg 或阿奇霉素 500 mg 联合甲硝唑 500 mg 的方案已被临床应用（3）。对于 Rh 阴性血型且妊娠 ≥12 周的女性，术后应给予 Rh（D）免疫球蛋白。妊娠 12 周前无需进行 Rh 血型鉴定及 Rh 免疫球蛋白（RhIG）预防；研究数据显示，在妊娠 12 周前尚不足以发生导致母胎血液混合及致敏所需的胎母出血量（4）。
+应根据患者偏好提供麻醉选择。妊娠早期流产可采用宫颈旁局部阻滞麻醉完成，但术中仍常伴有盆腔痉挛性疼痛。妊娠中期手术流产可在中度至深度镇静下实施，仅在存在显著内科合并症等特殊情况下才需要全身麻醉（5）。
+在<孕28周的人工流产后，可立即开始各种形式的避孕。对于妊娠 >28 周进行的流产手术，激素治疗的启动应取决于凝血因子恢复情况（>21 天）。
+
+【参考文献】
+1.Ramer S, Nguyen AT, Hollier LM, Rodenhizer J, Warner L, Whiteman MK.Abortion Surveillance - United States, 2022.MMWR Surveill Summ.2024;73(7):1-28.Published 2024 Nov 28.doi:10.15585/mmwr.ss7307a1
+1.Ramer S, Nguyen AT, Hollier LM, Rodenhizer J, Warner L, Whiteman MK.Abortion Surveillance - United States, 2022.MMWR Surveill Summ.2024;73(7):1-28.Published 2024 Nov 28.doi:10.15585/mmwr.ss7307a1
+2.Ahman E, Shah IH.New estimates and trends regarding unsafe abortion mortality.Int J Gynaecol Obstet115(2):121-126, 2011.doi:10.1016/j.ijgo.2011.05.027
+2.Ahman E, Shah IH.New estimates and trends regarding unsafe abortion mortality.Int J Gynaecol Obstet115(2):121-126, 2011.doi:10.1016/j.ijgo.2011.05.027
+3.Low N, Mueller M, Van Vliet HA, Kapp N.Perioperative antibiotics to prevent infection after first-trimester abortion.Cochrane Database Syst Rev.2012;2012(3):CD005217.Published 2012 Mar 14.doi:10.1002/14651858.CD005217.pub2
+3.Low N, Mueller M, Van Vliet HA, Kapp N.Perioperative antibiotics to prevent infection after first-trimester abortion.Cochrane Database Syst Rev.2012;2012(3):CD005217.Published 2012 Mar 14.doi:10.1002/14651858.CD005217.pub2
+4.Horvath S, Huang ZY, Koelper NC, et al.Induced Abortion and the Risk of Rh Sensitization.JAMA.2023;330(12):1167-1174.doi:10.1001/jama.2023.16953
+4.Horvath S, Huang ZY, Koelper NC, et al.Induced Abortion and the Risk of Rh Sensitization.JAMA.2023;330(12):1167-1174.doi:10.1001/jama.2023.16953
+5.Aksel S, Lang L, Steinauer JE, et al.Safety of Deep Sedation Without Intubation for Second-Trimester Dilation and Evacuation. Obstet Gynecol.2018;132(1):171-178.doi:10.1097/AOG.0000000000002692
+5.Aksel S, Lang L, Steinauer JE, et al.Safety of Deep Sedation Without Intubation for Second-Trimester Dilation and Evacuation. Obstet Gynecol.2018;132(1):171-178.doi:10.1097/AOG.0000000000002692
+
+【手术与药物流产方法】
+常用流产方法包括：
+手术流产:扩张宫颈管并使用负压吸引或器械清除妊娠组织
+手术流产:扩张宫颈管并使用负压吸引或器械清除妊娠组织
+药物流产：使用药物刺激子宫收缩并排出妊娠组织
+药物流产：使用药物刺激子宫收缩并排出妊娠组织
+可选择的流产方法取决于妊娠孕周以及医疗服务的可及性。程序性流产适用于大多数妊娠情况，对于第二孕期中晚期的护理，则需额外培训并进行宫颈准备。药物流产可用于任何孕周,但需注意，早期妊娠（< 5 周）可能需要在药物流产前测定定量血清 β–人绒毛膜促性腺激素水平，并在药物流产后进行连续监测，以确保妊娠终止完成。药物流产可在妊娠12周内于门诊实施；医务人员应向患者清晰说明预期出血情况及相关注意事项。
+子宫手术（子宫切开术或子宫切除术）与较高的发病率和死亡率相关，应尽量避免。
+
+【手术流产】
+妊娠<14周时进行的手术通常使用扩张和负压刮宫术（D&C）完成，并根据孕周选择相应型号的吸引套管。对于妊娠 14 至 16 周的操作，可能需要子宫内操作器械及大口径吸引管。一些医生可能使用轻柔的锐刮匙以确保所有妊娠组织已被清除。
+手动真空吸引装置（MVA）便于携带，无需电源，且较电动真空吸引装置（EVA）噪音更小。手动负压吸引术（MVA）可用于妊娠12周内。由于手动真空吸引器（MVA）在充满>80%后会失去吸引能力,一些医疗提供者在9周后更倾向于使用电动负压吸引术(EVA)以维持持续稳定的负压吸引。EVA 是将吸引套管连接至电动负压吸引源进行操作。MVA或EVA均可用于进行刮宫术（D&C）。
+妊娠≥14周进行的操作需要扩张宫颈管并使用钳刮术清除妊娠组织，称为扩张清宫术（D&E）。吸引术用于抽吸羊水并清除残留的胎盘组织（有时也需要锐刮宫）。扩张和刮除术需要额外培训。
+从妊娠12周起，可使用药物或药物联合扩张器以扩张宫颈，降低手术操作并发症的发生（1）。
+米索前列醇（前列腺素 E1 类似物）通过刺激前列腺素释放使宫颈扩张。 米索前列醇通常是在手术前2至4小时经阴道或口腔给药。
+渗透性扩张器（包括合成聚合物[地帕南]或干燥压缩海藻[昆布属]）通过吸收宫颈管内的液体膨胀，从而扩张宫颈管。扩张器可置入宫颈内，并留置≥4小时或过夜。妊娠孕周 > 16～18 周时，推荐使用渗透性扩张器。
+米非司酮（孕激素及糖皮质激素拮抗剂）可作为宫颈成熟辅助药物，用于孕周 > 20 周的孕妇（1）。
+
+【药物流产】
+在美国，2023 年药物流产占所有流产护理的 63%，较 2020～2023 年期间增加 10%（2）。
+药物流产方案包括孕激素受体拮抗剂米非司酮（RU 486）和前列腺素 E1 类似物米索前列醇，具体用药方案根据孕周确定：
+＜9周：米非司酮 200 mg 口服，随后在服用米非司酮后48小时内给予米索前列醇 800 μg 阴道或颊黏膜给药。
+＜9周：米非司酮 200 mg 口服，随后在服用米非司酮后48小时内给予米索前列醇 800 μg 阴道或颊黏膜给药。
+9至11周孕龄：口服米非司酮200mg，随后在米非司酮服用后24至48小时，口腔黏膜给药米索前列醇800mcg两次，每次间隔4小时。
+9至11周孕龄：口服米非司酮200mg，随后在米非司酮服用后24至48小时，口腔黏膜给药米索前列醇800mcg两次，每次间隔4小时。
+11至12周：口服米非司酮200mg，24至48小时后，每4小时口腔黏膜给药米索前列醇800mcg，共3剂。
+11至12周：口服米非司酮200mg，24至48小时后，每4小时口腔黏膜给药米索前列醇800mcg，共3剂。
+米非司酮和米索前列醇均可由患者自行给药，无需在诊所或医院给药。
+米非司酮200mg联合米索前列醇800mg，在妊娠8至9周时约有95%的有效性，在妊娠9至11周时约有87%至93%的有效性（3）。妊娠 9 周以后，加用 1 次 800 微克米索前列醇可提高疗效；妊娠 11 周以后，加用 2 次额外剂量可进一步提高疗效。
+可以通过以下方式之一确认妊娠终止：
+超声随访
+超声随访
+在给药当天和 1 周后测量 β-hCG
+在给药当天和 1 周后测量 β-hCG
+给药后5周进行尿妊娠试验
+给药后5周进行尿妊娠试验
+妊娠 ≥ 13 周时，应在门诊或医院内进行药物引产。在使用前列腺素（通常为阴道或颊黏膜给药的米索前列醇）引产前 24～48 小时预处理米非司酮 200 毫克，可缩短引产至分娩的时间。米索前列醇的剂量因孕龄而异。然而，研究表明，在使用米非司酮预处理的情况下，每3～4小时给予米索前列醇 200 μg 即足够（4）。
+前列腺素的不良反应包括恶心，呕吐，腹泻，体温过高，面部潮红，血管迷走神经症状，支气管痉挛和癫痫发作阈值降低。
+
+【方法参考文献】
+1.Diedrich JT, Drey EA, Newmann SJ.Society of Family Planning clinical recommendations: Cervical preparation for dilation and evacuation at 20-24 weeks' gestation.Contraception.2020;101(5):286-292.doi:10.1016/j.contraception.2020.01.002
+1.Diedrich JT, Drey EA, Newmann SJ.Society of Family Planning clinical recommendations: Cervical preparation for dilation and evacuation at 20-24 weeks' gestation.Contraception.2020;101(5):286-292.doi:10.1016/j.contraception.2020.01.002
+2.DoCampo I, Jones RK, Maddow-Zimet I.The Role of Medication Abortion Provision in US States Without Total Abortion Bans, 2023.Perspect Sex Reprod Health.2025;57(1):3-7.doi:10.1111/psrh.12294
+2.DoCampo I, Jones RK, Maddow-Zimet I.The Role of Medication Abortion Provision in US States Without Total Abortion Bans, 2023.Perspect Sex Reprod Health.2025;57(1):3-7.doi:10.1111/psrh.12294
+3.Kapp N, Eckersberger E, Lavelanet A, Rodriguez MI.Medical abortion in the late first trimester: a systematic review.Contraception.2019;99(2):77-86.doi:10.1016/j.contraception.2018.11.002
+3.Kapp N, Eckersberger E, Lavelanet A, Rodriguez MI.Medical abortion in the late first trimester: a systematic review.Contraception.2019;99(2):77-86.doi:10.1016/j.contraception.2018.11.002
+4.Zwerling B, Edelman A, Jackson A, Burke A, Prabhu M.Society of Family Planning Clinical Recommendation: Medication abortion between 14 0/7 and 27 6/7 weeks of gestation: Jointly developed with the Society for Maternal-Fetal Medicine.Am J Obstet Gynecol.2025;233(4):229-249.doi:10.1016/j.ajog.2023.09.097
+4.Zwerling B, Edelman A, Jackson A, Burke A, Prabhu M.Society of Family Planning Clinical Recommendation: Medication abortion between 14 0/7 and 27 6/7 weeks of gestation: Jointly developed with the Society for Maternal-Fetal Medicine.Am J Obstet Gynecol.2025;233(4):229-249.doi:10.1016/j.ajog.2023.09.097
+
+【手术与药物流产并发症】
+合法流产的并发症很少见（严重并发症发生率<1%；死亡率<十万分之一）。并发症发生率随孕龄的增加而增加。并发症发生率比足月分娩后的风险低14倍，并且在安全合法获得医疗服务的环境中发生率最低。
+严重早期手术并发症包括
+子宫穿孔（0.1%），或更少见的，由器械造成的肠管或其他器官穿孔。
+子宫穿孔（0.1%），或更少见的，由器械造成的肠管或其他器官穿孔。
+严重出血（0.06％），可由外伤或子宫无力引起
+严重出血（0.06％），可由外伤或子宫无力引起
+子宫颈撕裂伤（0.1% 至 1%），这通常是表面的子宫颈钳撕裂，但可能更严重，需要修复。
+子宫颈撕裂伤（0.1% 至 1%），这通常是表面的子宫颈钳撕裂，但可能更严重，需要修复。
+全身或局部麻醉很少引起严重的并发症。
+最常见的迟发性药物或手术相关并发症包括
+出血和严重感染（0.1~2％）
+出血和严重感染（0.1~2％）
+迟发性并发症可能由胎盘残留组织引起。若出现出血或怀疑感染，超声检查可见宫腔内胎盘残留组织。轻度炎症反应属预期表现，但若感染达到中度或重度并进展为腹膜炎或败血症，则需紧急处理。子宫内膜腔内粘连（阿什曼综合征）或因感染引起的输卵管纤维化较为罕见。大月份妊娠流产强行扩张宫颈可能导致宫颈功能不全。然而，通过循证技术，包括轻柔抽吸和充分的宫颈准备，人工流产预计不会增加后续妊娠的风险。
+应为所有经历流产的患者提供心理健康资源。以下患者可能需要额外的资源支持：
+孕前心理症状
+孕前心理症状
+对怀孕有强烈的情感依恋
+对怀孕有强烈的情感依恋
+社会支持有限或受到支持系统的污名化
+社会支持有限或受到支持系统的污名化
+约 40% 的非计划妊娠最终会通过药物或手术流产。
+约 40% 的非计划妊娠最终会通过药物或手术流产。
+常见的流产方法是在宫颈扩张后进行器械清宫术，或药物流产（以诱发子宫收缩）。
+常见的流产方法是在宫颈扩张后进行器械清宫术，或药物流产（以诱发子宫收缩）。
+在进行人工流产护理之前，需确认女性是否妊娠，若已妊娠，需根据病史和体格检查和/或超声检查确定孕周。
+在进行人工流产护理之前，需确认女性是否妊娠，若已妊娠，需根据病史和体格检查和/或超声检查确定孕周。
+对于手术流产，提供者通常在妊娠 < 16 周时使用吸引刮宫术（D&C），在妊娠 16 周或以上时使用刮宫扩宫术（D&E），并在妊娠 12 周时使用米索前列醇或渗透性扩张器进行宫颈扩张。
+对于手术流产，提供者通常在妊娠 < 16 周时使用吸引刮宫术（D&C），在妊娠 16 周或以上时使用刮宫扩宫术（D&E），并在妊娠 12 周时使用米索前列醇或渗透性扩张器进行宫颈扩张。
+药物流产时，应根据孕周给予米非司酮，随后经颊黏膜或阴道给予米索前列醇。
+药物流产时，应根据孕周给予米非司酮，随后经颊黏膜或阴道给予米索前列醇。
+严重的并发症（如子宫穿孔、大出血和严重感染）在流产术中发生率＜1%。
+严重的并发症（如子宫穿孔、大出血和严重感染）在流产术中发生率＜1%。

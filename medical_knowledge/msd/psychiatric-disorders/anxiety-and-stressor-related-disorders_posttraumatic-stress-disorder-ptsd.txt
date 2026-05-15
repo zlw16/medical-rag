@@ -1,0 +1,125 @@
+标题：创伤后应激障碍（PTSD）
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/anxiety-and-stressor-related-disorders/posttraumatic-stress-disorder-ptsd
+============================================================
+
+(参见创伤和应激相关障碍的概述。）
+创伤后应激障碍（PTSD）是一种在暴露于创伤性事件后出现的致残性障碍（1)。
+战斗、性侵犯以及自然或人为灾难是 PTSD 的常见病因。PTSD 可导致严重的社会、职业和人际功能障碍。
+尽管急性应激障碍（ASD）仅能在创伤后 1 个月内诊断，而 PTSD 仅能在创伤后至少 1 个月诊断。ASD 可直接发展为 PTSD，或 PTSD 在创伤后数月甚至数年出现，且无明显的前期问题。
+
+【参考文献】
+1.Goldstein RB, Smith SM, Chou SP, et al: The epidemiology of DSM-5 posttraumatic stress disorder in the United States: Results from the National Epidemiologic Survey on Alcohol and Related Conditions-III.Soc Psychiatry Psychiatr Epidemiol51(8):1137-1148, 2016. doi: 10.1007/s00127-016-1208-5
+1.Goldstein RB, Smith SM, Chou SP, et al: The epidemiology of DSM-5 posttraumatic stress disorder in the United States: Results from the National Epidemiologic Survey on Alcohol and Related Conditions-III.Soc Psychiatry Psychiatr Epidemiol51(8):1137-1148, 2016. doi: 10.1007/s00127-016-1208-5
+
+【PTSD的症状和体征】
+PTSD 的症状可分为 4 类：
+认知和情绪的负面改变
+认知和情绪的负面改变
+觉醒和反应性的改变
+觉醒和反应性的改变
+入侵：入侵是不想要的记忆或噩梦，会回放触发事件。入侵可以采取“闪回”的形式，由视觉、声音、气味或其他刺激触发。例如，一个巨大的噪音可能会引发袭击的记忆，导致此人惊慌失措地摔倒在地。
+回避：患者可能回避创伤的提示物，如城镇的特定区域或以前喜欢的活动。
+认知和情绪的负面改变：认知和情绪变化包括不感兴趣和超然、认知扭曲、快感缺乏、不恰当的自责和抑郁。
+唤起和反应性改变：PTSD 患者可能表现出过度警觉、易激惹和反应性增强，或可能显得麻木和疏远。
+创伤后应激障碍的分离亚型已被确认。这包括上述所有症状，加上人格解离（感觉与自我或身体分离）和/或现实感丧失（将世界体验为虚幻或梦幻）。
+
+【创伤后应激障碍的诊断】
+《精神障碍诊断与统计手册》, 第五版文本修订版》（DSM-5-TR）标准
+《精神障碍诊断与统计手册》, 第五版文本修订版》（DSM-5-TR）标准
+要符合 DSM-5-TR 中 PTSD 的诊断标准，患者必须直接或间接暴露于创伤性事件，且存在来自以下每个类别的症状，持续时间≥1个月 (1)。
+侵入性症状(以下符合≥1条 )：
+反复出现不自主、侵入性的痛苦记忆
+反复出现不自主、侵入性的痛苦记忆
+反复出现的创伤相关的令人痛苦的梦境（如噩梦）
+反复出现的创伤相关的令人痛苦的梦境（如噩梦）
+表现或感觉创伤事件仿佛再次发生，包括闪回发作，严重时可能完全丧失对当前环境的感知
+表现或感觉创伤事件仿佛再次发生，包括闪回发作，严重时可能完全丧失对当前环境的感知
+再次提起创伤事件时心理和生理的极大不适感（如周年或听到和创伤事件接近的声音）
+再次提起创伤事件时心理和生理的极大不适感（如周年或听到和创伤事件接近的声音）
+回避症状(以下符合≥ 1条 )：
+回避与创伤事件相关的想法、感受或回忆
+回避与创伤事件相关的想法、感受或回忆
+回避可能触发创伤记忆的活动、场所、对话或人物。
+回避可能触发创伤记忆的活动、场所、对话或人物。
+认知和情绪的负面影响（需满足以下≥2 项）：
+无法回忆创伤事件的重要部分（分离性失忆）
+无法回忆创伤事件的重要部分（分离性失忆）
+持久性和过度的消极信念或关于自己、他人和世界的期望
+持久性和过度的消极信念或关于自己、他人和世界的期望
+关于创伤原因或后果的持续扭曲观念，导致责备自己或他人
+关于创伤原因或后果的持续扭曲观念，导致责备自己或他人
+持续的消极情绪状态（如害怕，恐惧，愤怒，内疚，羞愧）
+持续的消极情绪状态（如害怕，恐惧，愤怒，内疚，羞愧）
+对重要活动的兴趣或参与度显著降低
+对重要活动的兴趣或参与度显著降低
+疏离或脱离人群
+疏离或脱离人群
+持续无法体验到积极情绪（如快乐，满足，爱）
+持续无法体验到积极情绪（如快乐，满足，爱）
+警觉性和反应性的改变（以下情况≥2条）：
+睡眠困难
+睡眠困难
+易激惹或情绪爆发
+易激惹或情绪爆发
+鲁莽或自毁行为
+鲁莽或自毁行为
+注意力集中困难
+注意力集中困难
+惊吓反应过度
+惊吓反应过度
+警觉性增高
+警觉性增高
+此外，这些症状表现必须造成显著痛苦，或严重损害社交、职业功能，且不能归因于物质使用的生理影响或其他躯体疾病。
+当除上述所有症状外，还存在人格解体（感觉与自我或身体分离）和 / 或现实解体（感觉世界不真实或像梦境一样）的证据时，可诊断为 PTSD 的分离型亚型。
+PTSD 常被忽视。创伤对临床医生来说可能不明显，患者可能没有动力讨论困难的话题。创伤会导致认知、情感、行为和身体症状的复杂漩涡。诊断往往因同时存在抑郁障碍、焦虑障碍和/或物质使用障碍而变得更加复杂。
+
+【诊断参考文献】
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 301-313.
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 301-313.
+
+【PTSD 的治疗】
+自我护理
+自我护理
+心理治疗
+心理治疗
+药物治疗
+药物治疗
+
+【自我护理】
+在危机或创伤发生期间及之后，自我关怀至关重要。自我护理包括：
+人身安全
+人身安全
+身体健康
+身体健康
+人身安全是根本。在一次创伤性事件之后，当人们知道他们和他们所爱的人是安全的时，他们能够更好地处理这种经历。然而，在家庭虐待、战争或传染性大流行等持续危机中获得完全的安全可能很困难。在这种持续的困难中，人们应该寻求专家的指导，以了解他们和他们所爱的人如何尽可能安全。
+身体健康在创伤经历期间和之后都可能处于危险之中。有风险的人应该尽可能地保持健康的饮食、睡眠和锻炼时间表。镇静类物质及药物（如苯二氮卓类药物）和致醉类物质（如酒精）应尽量少用，若需使用也需严格控制。
+一种正念取向的自我关怀，旨在减轻受创伤者常经历的压力、无聊、愤怒、悲伤与孤独感。如果情况允许，高危人群应制定并遵循正常的日程安排，继续参与家人和社区的活动，并培养熟悉的爱好（或培养新的爱好）。
+限制花在新闻上的时间，转而从事其他活动是有用的（例如，读小说、拼图、画画、为足不出户的邻居做饼干）。
+
+【心理治疗】
+创伤聚焦认知行为疗法（CBT）对对大多数 PTSD 患者的疗效具有最充分的证据支持（1)。对于急性应激障碍（ASD），此类心理治疗包括患者教育、认知重构，以及对创伤经历回忆的治疗性暴露。认知加工疗法是一种 CBT，包括探讨创伤经历的影响，并将对自身和创伤经历的负面想法纳入视角，将其视为与实际创伤不同的事物。
+长期暴露是另一种有效的心理治疗方法，包括处理一系列创伤记忆，同时用控制呼吸等技术管理对它们的心理生理反应，从而逐渐减轻记忆的影响。
+眼动脱敏与再加工（EMDR）是一种暴露疗法，也可用于治疗(2)。对于这种治疗，要求患者在伴随治疗师的手指移动的同时想象他们所遭受的创伤。虽然一些专家认为眼球运动本身有助于脱敏，但另一些专家则将其功效主要归因于暴露，而不是眼动。
+治疗风格在 PTSD 的治疗中很重要（3）。温暖、安心和同理心是一些非特异性因素，在与患有羞耻、回避、高度警觉和疏离等核心创伤后应激障碍症状的人合作时，这些因素可能异常重要。
+
+【药物治疗】
+PTSD 药物治疗的证据不如创伤聚焦心理治疗充分（4）。大多数情况下，药物用于治疗共病的精神障碍，或用于治疗突出的 PTSD 症状，如抑郁或焦虑。
+选择性 5 - 羟色胺再摄取抑制剂（SSRIs）可能会减少焦虑和/或抑郁（5）。哌唑嗪有助于缓解噩梦 (6)。一个简短的镇静剂疗程可以帮助治疗失眠。其他多种药物的疗效证据也在不断增加；这些药物包括心境稳定剂（如丙戊酸）、非典型抗精神病药（如阿立哌唑、布南色林））(7)以及精神活性物质（如 MDMA、氯胺酮和裸盖菇素）(8）。
+
+【治疗参考文献】
+1.Bisson J, Andrew M: Psychological treatment of post-traumatic stress disorder (PTSD).Cochrane Database Syst Rev(3):CD003388, 2007. doi: 10.1002/14651858.CD003388.pub3
+1.Bisson J, Andrew M: Psychological treatment of post-traumatic stress disorder (PTSD).Cochrane Database Syst Rev(3):CD003388, 2007. doi: 10.1002/14651858.CD003388.pub3
+2.Wilson G, Farrell D, Barron I, et al: The use of eye-movement desensitization reprocessing (EMDR) therapy in treating post-traumatic stress disorder—A systematic narrative review.Front Psychol;9:923, 2018.doi: 10.3389/fpsyg.2018.00923
+2.Wilson G, Farrell D, Barron I, et al: The use of eye-movement desensitization reprocessing (EMDR) therapy in treating post-traumatic stress disorder—A systematic narrative review.Front Psychol;9:923, 2018.doi: 10.3389/fpsyg.2018.00923
+3.Howard R, Berry K, Haddock G: Therapeutic alliance in psychological therapy for posttraumatic stress disorder: A systematic review and meta-analysis.Clin Psychol Psychother29(2):373-399, 2022.doi: 10.1002/cpp.2642
+3.Howard R, Berry K, Haddock G: Therapeutic alliance in psychological therapy for posttraumatic stress disorder: A systematic review and meta-analysis.Clin Psychol Psychother29(2):373-399, 2022.doi: 10.1002/cpp.2642
+4.Wright LA, Sijbrandij M, Sinnerton R, et al: Pharmacological prevention and early treatment of post-traumatic stress disorder and acute stress disorder: A systematic review and meta-analysis.Transl Psychiatry9(1):334, 2019.doi: 10.1038/s41398-019-0673-5
+4.Wright LA, Sijbrandij M, Sinnerton R, et al: Pharmacological prevention and early treatment of post-traumatic stress disorder and acute stress disorder: A systematic review and meta-analysis.Transl Psychiatry9(1):334, 2019.doi: 10.1038/s41398-019-0673-5
+5.Stein DJ, Ipser JC, Seedat S: Pharmacotherapy for post traumatic stress disorder (PTSD).Cochrane Database Syst Rev22006(1):CD002795, 2006.doi: 10.1002/14651858.CD002795.pub2
+5.Stein DJ, Ipser JC, Seedat S: Pharmacotherapy for post traumatic stress disorder (PTSD).Cochrane Database Syst Rev22006(1):CD002795, 2006.doi: 10.1002/14651858.CD002795.pub2
+6.Khachatryan D,  Groll D, Booij L: Prazosin for treating sleep disturbances in adults with posttraumatic stress disorder: a systematic review and meta-analysis of randomized controlled trials.Gen Hosp Psychiatry39:46-52, 2016. doi: 10.1016/j.genhosppsych.2015.10.007
+6.Khachatryan D,  Groll D, Booij L: Prazosin for treating sleep disturbances in adults with posttraumatic stress disorder: a systematic review and meta-analysis of randomized controlled trials.Gen Hosp Psychiatry39:46-52, 2016. doi: 10.1016/j.genhosppsych.2015.10.007
+7.Davis LL, Behl S, Lee D, et al:BrexpiprazoleandSertralineCombination Treatment in Posttraumatic Stress Disorder: A Phase 3 Randomized Clinical Trial.JAMA PsychiatryPublished online December 18, 2024.doi:10.1001/jamapsychiatry.2024.3996
+7.Davis LL, Behl S, Lee D, et al:BrexpiprazoleandSertralineCombination Treatment in Posttraumatic Stress Disorder: A Phase 3 Randomized Clinical Trial.JAMA PsychiatryPublished online December 18, 2024.doi:10.1001/jamapsychiatry.2024.3996
+8.Krediet E, Bostoen T, Breeksema J, et al: Reviewing the potential of psychedelics for the treatment of PTSD.Int J Neuropsychopharmacol.23(6):385-400, 2020.doi: 10.1093/ijnp/pyaa018
+8.Krediet E, Bostoen T, Breeksema J, et al: Reviewing the potential of psychedelics for the treatment of PTSD.Int J Neuropsychopharmacol.23(6):385-400, 2020.doi: 10.1093/ijnp/pyaa018

@@ -1,0 +1,211 @@
+标题：头孢菌素
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/bacteria-and-antibacterial-medications/cephalosporins
+============================================================
+
+头孢菌素类是具有杀菌活性的β-内酰胺类抗生素。它们抑制易感细菌细胞壁中的酶，破坏细胞壁合成。头孢菌素有多代产品。
+(参见抗菌药物概述。）
+
+【头孢菌素】
+头孢菌素
+药物治疗
+头孢羟氨苄
+头孢唑林
+肠外给药
+头孢氨苄
+头孢拉定
+头孢克洛
+头孢替坦*
+肠外给药
+头孢西丁*
+肠外给药
+头孢丙烯
+头孢呋辛
+肠外给药或口服
+头孢地尼
+头孢妥仑
+头孢克肟
+头孢哌酮/舒巴坦（在美国不可用）
+肠外给药
+头孢噻肟
+肠外给药
+头孢泊肟
+头孢他啶
+肠外给药
+头孢他啶/阿维巴坦
+肠外给药
+头孢布烯
+头孢曲松
+肠外给药
+头孢吡肟
+肠外给药
+抗耐甲氧西林金黄色葡萄球菌（MRSA）头孢菌素
+头孢洛林酯
+肠外给药
+头孢比普/美罗培南
+肠外给药
+其他头孢菌素
+头孢地洛
+肠外给药
+头孢洛扎/他唑巴坦
+肠外给药
+* 也归类为头霉素。
+MRSA = 甲氧西林耐药Staphylococcus aureus（金黄色葡萄球菌）。
+* 也归类为头霉素。
+MRSA = 甲氧西林耐药Staphylococcus aureus（金黄色葡萄球菌）。
+
+【头孢菌素的药代动力学】
+头孢菌素类能很好地渗入大多数的体液和大部分组织外液，尤其当炎症存在时（炎症加强弥散）。然而，只有以下几种能够在脑脊液中达到治疗脑膜炎的有效浓度
+头孢曲松
+头孢曲松
+头孢噻肟
+头孢噻肟
+头孢他啶
+头孢他啶
+头孢吡肟
+头孢吡肟
+所有的头孢菌素类渗入细胞内液和玻璃体液的能力均较差。
+大多数的头孢菌素类主要经尿液排泄，这些药在肾功能不全患者应用时需要酌情调整剂量。头孢哌酮和头孢曲松具有显著的胆道排泄特性，因此肾功能不全的患者通常不需要调整剂量。
+
+【头孢菌素适应症】
+头孢菌素类对以下大部分细菌有抗菌活性：
+革兰阳性菌
+革兰阳性菌
+革兰阴性菌
+革兰阴性菌
+头孢菌素按代分类（见表第3代和第4代头孢菌素的一些临床应用）。第一代头孢菌素主要对抗革兰氏阳性菌有效。较高代头孢菌素类通常对需氧革兰阴性杆菌有广泛抗菌谱。头孢菌素类头孢洛林和头孢比普可有效对抗耐甲氧西林金黄色葡萄球菌（MRSA）。
+头孢菌素类有下列局限性：
+缺乏抗肠球菌的活性
+缺乏抗肠球菌的活性
+对耐甲氧西林金黄色葡萄球菌无抗菌活性（除头孢洛林和头孢比普外）
+对耐甲氧西林金黄色葡萄球菌无抗菌活性（除头孢洛林和头孢比普外）
+除了头孢替坦和头孢西丁外，对厌氧革兰阴性杆菌无抗菌活性
+除了头孢替坦和头孢西丁外，对厌氧革兰阴性杆菌无抗菌活性
+
+【第一代头孢菌素类】
+这些头孢菌素对以下细菌具有极好的活性
+革兰阳性球菌
+革兰阳性球菌
+某些革兰阴性杆菌
+某些革兰阴性杆菌
+口服第一代头孢菌素类药物常用于治疗通常由葡萄球菌和链球菌引起的无并发症的皮肤和软组织感染。
+静脉注射头孢唑林常用于治疗由甲氧西林敏感的S. aureus（金黄色葡萄球菌）引起的心内膜炎，并用于心胸、骨科、腹部和骨盆手术前的预防。
+根据局部易感性，革兰氏阴性杆菌大肠杆菌可能敏感，头孢氨苄常用于治疗无并发症的泌尿道感染。
+
+【第二代头孢菌素类药物和头霉素】
+第二代头孢菌素类药物对以下细菌有抗菌活性
+革兰阳性球菌
+革兰阳性球菌
+某些革兰阴性杆菌
+某些革兰阴性杆菌
+头霉素是最初由链霉菌生产但现在是合成的抗生素。它们通常与第二代头孢菌素归为一类。 头霉素对厌氧菌更有效，例如
+拟杆菌属，包括Bacteroides fragilis
+拟杆菌属，包括Bacteroides fragilis
+第二代头孢菌素对革兰氏阳性球菌的活性可能比第一代头孢菌素略低。第二代头孢菌素类和头孢霉素类通常用于治疗革兰阴性杆菌和革兰阳性球菌多重感染。头霉素类对拟杆菌属有抗菌活性，故可用于治疗可疑的厌氧菌感染（如腹腔脓毒症、褥疮溃疡或糖尿病患者的足部感染）。然而，这些杆菌不再对头霉素敏感，因此不再建议在腹腔内感染中经验性使用头霉素（1，2）。
+
+【第三代头孢菌素类】
+这些头孢菌素对
+流感嗜血杆菌和大多数肠杆菌目（原称肠杆菌科；如大肠杆菌、肺炎克雷伯菌、奇异变形杆菌）不产生AmpCβ-内酰胺酶或超广谱β-内酰胺酶（ESBL）
+流感嗜血杆菌和大多数肠杆菌目（原称肠杆菌科；如大肠杆菌、肺炎克雷伯菌、奇异变形杆菌）不产生AmpCβ-内酰胺酶或超广谱β-内酰胺酶（ESBL）
+大多数第三代头孢菌素，包括头孢曲松和头孢噻肟，也对某些革兰氏阳性菌有活性，尤其是链球菌，包括一些对青霉素敏感性降低的菌株。口服的头孢克肟和头孢布烯对S. aureus（金黄色葡萄球菌）的抗菌活性微弱，如果用于皮肤和软组织感染，应只限于没有并发症的链球菌感染。
+头孢他啶和头孢哌酮对铜绿假单胞菌有活性，而该类的其他药物则无。这两种抗生素对Streptococcus（链球菌）物种也有作用。头孢他啶对革兰氏阳性菌活性较差，不适合治疗葡萄球菌感染。阿维巴坦联合头孢他啶：扩展抗菌谱以覆盖产AmpC、ESBL 及Klebsiella pneumoniae（肺炎克雷伯菌）碳青霉烯酶（KPC）的肠杆菌目细菌。
+这些头孢菌素类和第四代头孢菌素类一样，有许多临床应用（见表格《第三代和第四代头孢菌素的部分临床应用》）。
+
+【第四代头孢菌素类】
+第四代头孢菌素类药物头孢吡肟对以下细菌有抗菌活性：
+革兰阳性球菌（与头孢噻肟相似）
+革兰阳性球菌（与头孢噻肟相似）
+革兰阴性杆菌（活性增强），包括铜绿假单胞菌（类似于头孢他啶）、一些产AmpCβ-内酰胺酶的肠杆菌，如肠杆菌属。
+革兰阴性杆菌（活性增强），包括铜绿假单胞菌（类似于头孢他啶）、一些产AmpCβ-内酰胺酶的肠杆菌，如肠杆菌属。
+
+【部分第三代和第四代头孢菌素类临床应用】
+部分第三代和第四代头孢菌素类临床应用
+头孢菌素
+第三代和第四代头孢菌素类
+多重菌感染，包括革兰阴性杆菌和革兰阳性球菌（如腹腔脓毒症、褥疮溃疡、糖尿病患者的足部感染）
+在必要时，与其他抗生素联合使用以覆盖厌氧菌或肠球菌
+头孢曲松和其他一些第三代头孢菌素
+社区获得性细菌性肺炎
+联合大环内酯类或氟喹诺酮类药物覆盖非典型病原体（支原体、Chlamydophila(嗜衣原体属)物种、军团菌属）
+头孢噻肟
+头孢曲松
+急性脑膜炎疑似由Streptococcus pneumoniae（肺炎链球菌）、Haemophilus influenzae（流感嗜血杆菌）或Neisseria meningitidis（脑膜炎奈瑟菌）引起
+联合氨苄西林覆盖单核细胞增生李斯特菌，联合万古霉素覆盖青霉素敏感性降低的S. pneumoniae(肺炎链球菌)感染（待最小抑菌浓度结果确认*)
+头孢泊肟（口服）
+staphylococci（葡萄球菌）或streptococci（链球菌）引起的单纯性皮肤和软组织感染
+若怀疑存在耐甲氧西林Staphylococcus aureus(金黄色葡萄球菌)感染，则不宜使用。
+头孢他啶、头孢吡肟
+医院获得性肺炎和呼吸机相关性肺炎
+神经外科术后脑膜炎的经验性治疗，以覆盖铜绿假单胞菌
+和万古霉素联合使用治疗耐甲氧西林的金黄色葡萄球菌
+头孢曲松
+由HACEK微生物引起的心内膜炎
+青霉素敏感的链球菌心内膜炎
+莱姆病伴有神经系统并发症（除孤立性贝尔麻痹）、心脏炎或关节炎
+治疗无并发症的淋球菌感染和（或）软下疳
+未排除衣原体合并感染时口服多西环素
+*已有报道肺炎球菌菌株对头孢曲松和头孢噻肟耐药，指南建议如脑脊液菌株MICs≥1.0mcg/mL，这些菌株应当被认为对第三代头孢菌素不敏感
+HACEK 菌群是以下几种细菌的合称：Haemophilus(流感嗜血杆)菌种，Aggregatibacter（原称Actinobacillus(伴放线放线杆菌))actinomycetemcomitans(伴放线聚集杆菌)，Cardiobacterium hominis(人心杆菌)，Eikenella corrodens(腐蚀艾肯菌)，及Kingella kingae(金氏金氏菌 。
+*已有报道肺炎球菌菌株对头孢曲松和头孢噻肟耐药，指南建议如脑脊液菌株MICs≥1.0mcg/mL，这些菌株应当被认为对第三代头孢菌素不敏感
+HACEK 菌群是以下几种细菌的合称：Haemophilus(流感嗜血杆)菌种，Aggregatibacter（原称Actinobacillus(伴放线放线杆菌))actinomycetemcomitans(伴放线聚集杆菌)，Cardiobacterium hominis(人心杆菌)，Eikenella corrodens(腐蚀艾肯菌)，及Kingella kingae(金氏金氏菌 。
+
+【抗耐甲氧西林金黄色葡萄球菌（MRSA）头孢菌素】
+抗 MRSA（有时称为第五代）头孢菌素头孢洛林和头孢比普可有效对抗
+耐甲氧西林的金黄色葡萄球菌（MRSA）
+耐甲氧西林的金黄色葡萄球菌（MRSA）
+耐青霉素链球菌
+耐青霉素链球菌
+它们对其他革兰氏阳性球菌和革兰氏阴性杆菌的抗菌活性类似于第三代头孢菌素。抗MRSA头孢菌素对假单胞菌属无效。
+
+【其他头孢菌素】
+头孢地尔是一种新型铁载体头孢菌素，对多种耐药革兰氏阴性菌具有抗菌活性，包括Pseudomonas aeruginosa（铜绿假单胞菌），Acinetobacter baumannii（鲍曼不动杆菌），Stenotrophomonas maltophilia（嗜麦芽窄食单胞菌）以及大多数肠杆菌科革兰氏阴性菌（例如，E. coli（大肠埃希菌），Klebsiella（克雷伯菌属）种属）其中也涵盖产超广谱β-内酰胺酶 (ESBLs) 、Klebsiella pneumoniae（肺炎克雷伯菌）碳青霉烯酶 (KPCs)及金属β-内酰胺酶 (MBLs)的菌株。由于其对革兰氏阴性病原体具有广谱的活性，头孢地尔通常用于针对此类病原体的侵袭性感染的确定性治疗。头孢地尔对革兰氏阳性菌或厌氧菌没有活性。
+头孢他唑巴坦是一种新一代头孢菌素，主要用于对抗多重耐药性铜绿假单胞菌；然而，它对大多数肠道革兰氏阴性菌、一些厌氧菌和链球菌也有活性。头孢他唑/他唑巴坦对某些产生 ESBL 或 AmpC 类 β-内酰胺酶的菌株有活性。
+
+【适应症参考文献】
+1.Solomkin JS, Mazuski JE, Bradley JS, et al.Diagnosis and management of complicated intra-abdominal infection in adults and children: guidelines by the Surgical Infection Society and the Infectious Diseases Society of America.Surg Infect (Larchmt).2010;11(1):79-109.doi:10.1089/sur.2009.9930
+1.Solomkin JS, Mazuski JE, Bradley JS, et al.Diagnosis and management of complicated intra-abdominal infection in adults and children: guidelines by the Surgical Infection Society and the Infectious Diseases Society of America.Surg Infect (Larchmt).2010;11(1):79-109.doi:10.1089/sur.2009.9930
+2.Mazuski JE, Tessier JM, May AK, et al.The Surgical Infection Society Revised Guidelines on the Management of Intra-Abdominal Infection.Surg Infect (Larchmt).2017;18(1):1-76.doi:10.1089/sur.2016.261
+2.Mazuski JE, Tessier JM, May AK, et al.The Surgical Infection Society Revised Guidelines on the Management of Intra-Abdominal Infection.Surg Infect (Larchmt).2017;18(1):1-76.doi:10.1089/sur.2016.261
+
+【头孢菌素的禁忌症】
+对其他头孢菌素有严重过敏史的患者禁用头孢菌素。与青霉素和包括其他头孢菌素在内的其他类别的 beta-内酰胺类药物的交叉反应比以前认为的要少见，尤其是在对青霉素有轻度（非过敏性）反应的患者中。大约 2% 的青霉素过敏患者与头孢菌素有交叉反应（1,2）。青霉素过敏对所有头孢菌素的交叉敏感性不同，这取决于特定的化学和结构特征。使用第三代或第四代头孢菌素或R1侧链与致敏青霉素不同的头孢菌素，交叉过敏风险可忽略不计；尤其是头孢唑林，具有独特的侧链和极低的交叉反应性。然而，对某一种抗生素过敏的患者，对另一种抗生素发生过敏反应的可能性会略高。因此，对于曾对其他 β- 内酰胺类抗生素发生过严重过敏反应的患者，使用头孢菌素类药物时应谨慎。 (3,4,5)。
+头孢曲松禁忌证如下：
+对于≤28 日龄的新生儿，静脉注射（IV）头孢曲松严禁与含钙静脉溶液（包括肠外营养等含钙持续静脉输注液）同时给药，因为存在头孢曲松- 钙盐沉淀形成的风险。已有报道新生儿头孢曲松钙盐沉淀在肺部和肾脏的致命性反应。到目前为止，使用头孢曲松和含钙静脉注射液，除了新生儿以外，没有钙盐沉淀在血管内和肺部的报道。然而，由于头孢曲松与静脉含钙溶液之间的相互作用，在新生儿以外的其他患者中理论上也存在可能性，因此对于任何年龄段的患者，均不得将头孢曲松与含钙溶液混合输注，也不得在 48 小时内先后给药(基于头孢曲松的5个半衰期)—— 即使是通过不同部位的不同输液通路给药也不允许。没有数据显示头孢曲松与口服含钙物质，抑或肌注的头孢曲松与静脉或口服的含钙物质有潜在相互作用。
+对于≤28 日龄的新生儿，静脉注射（IV）头孢曲松严禁与含钙静脉溶液（包括肠外营养等含钙持续静脉输注液）同时给药，因为存在头孢曲松- 钙盐沉淀形成的风险。已有报道新生儿头孢曲松钙盐沉淀在肺部和肾脏的致命性反应。到目前为止，使用头孢曲松和含钙静脉注射液，除了新生儿以外，没有钙盐沉淀在血管内和肺部的报道。然而，由于头孢曲松与静脉含钙溶液之间的相互作用，在新生儿以外的其他患者中理论上也存在可能性，因此对于任何年龄段的患者，均不得将头孢曲松与含钙溶液混合输注，也不得在 48 小时内先后给药(基于头孢曲松的5个半衰期)—— 即使是通过不同部位的不同输液通路给药也不允许。没有数据显示头孢曲松与口服含钙物质，抑或肌注的头孢曲松与静脉或口服的含钙物质有潜在相互作用。
+头孢曲松不应给予高胆红素血症和早产的新生儿，因为这种抗生素在体外可以取代血清白蛋白中的胆红素，可能引发核黄疸。
+头孢曲松不应给予高胆红素血症和早产的新生儿，因为这种抗生素在体外可以取代血清白蛋白中的胆红素，可能引发核黄疸。
+
+【禁忌症参考文献】
+1.Shenoy ES, Macy E, Rowe T, Blumenthal KG: Evaluation and management ofpenicillinallergy: A review.JAMA321(2):188–199, 2019.doi: 10.1001/jama.2018.19283
+1.Shenoy ES, Macy E, Rowe T, Blumenthal KG: Evaluation and management ofpenicillinallergy: A review.JAMA321(2):188–199, 2019.doi: 10.1001/jama.2018.19283
+2.Campagna JD, Bond MC, Schabelman E, Hayes BD: The use of cephalosporins inpenicillin-allergic patients: A literature review.J Emerg Med42(5):612–620, 2012.doi: 10.1016/j.jemermed.2011.05.035
+2.Campagna JD, Bond MC, Schabelman E, Hayes BD: The use of cephalosporins inpenicillin-allergic patients: A literature review.J Emerg Med42(5):612–620, 2012.doi: 10.1016/j.jemermed.2011.05.035
+3.Chaudhry SB, Veve MP, Wagner JL: Cephalosporins: A focus on side chains and β-lactam cross-reactivity.Pharmacy (Basel)7(3):103, 2019.doi: 10.3390/pharmacy7030103
+3.Chaudhry SB, Veve MP, Wagner JL: Cephalosporins: A focus on side chains and β-lactam cross-reactivity.Pharmacy (Basel)7(3):103, 2019.doi: 10.3390/pharmacy7030103
+4.Collins CD, Scheidel C, Anam K, et al: Impact of an antibiotic side chain-based cross-reactivity chart combined with enhanced allergy assessment processes for surgical prophylaxis antimicrobials in patients with beta-lactam allergies.Clin Infect Dispii:ciaa232, 2020.doi: 10.1093/cid/ciaa232
+4.Collins CD, Scheidel C, Anam K, et al: Impact of an antibiotic side chain-based cross-reactivity chart combined with enhanced allergy assessment processes for surgical prophylaxis antimicrobials in patients with beta-lactam allergies.Clin Infect Dispii:ciaa232, 2020.doi: 10.1093/cid/ciaa232
+5.DePestel DD, Benninger MS, Danziger L, et al: Cephalosporin use in treatment of patients withpenicillinallergies.J Am Pharm Assoc (2003)48(4):530–540, 2008.doi: 10.1331/JAPhA.2008.07006
+5.DePestel DD, Benninger MS, Danziger L, et al: Cephalosporin use in treatment of patients withpenicillinallergies.J Am Pharm Assoc (2003)48(4):530–540, 2008.doi: 10.1331/JAPhA.2008.07006
+
+【怀孕和哺乳期间使用头孢菌素】
+人们普遍认为在妊娠期间使用头孢菌素是安全的。没有研究表明对人类胎儿有危险，但尚未进行严格的前瞻性研究。
+头孢菌素可以进入母乳，并可能改变婴儿的肠道微生物群。因此，哺乳期间常常不建议使用。
+
+【头孢菌素的不良反应】
+头孢菌素的显著不良反应包括
+超敏反应（最常见）
+超敏反应（最常见）
+Clostridioides（艰难梭菌）（原属Clostridium（梭状芽胞杆菌属））相关性腹泻（即伪膜性肠炎）
+Clostridioides（艰难梭菌）（原属Clostridium（梭状芽胞杆菌属））相关性腹泻（即伪膜性肠炎）
+白细胞减少
+白细胞减少
+血小板减少症
+血小板减少症
+抗人球蛋白试验阳性（尽管溶血性贫血非常罕见）
+抗人球蛋白试验阳性（尽管溶血性贫血非常罕见）
+过敏反应是最常见的全身性不良反应；皮疹较为常见，但由免疫球蛋白 E（IgE）介导的速发型荨麻疹和过敏性休克则较为罕见。
+头孢菌素类与青霉素类药物之间的交叉过敏反应并不常见；若有必要，对于有青霉素延迟性过敏反应史的患者，可谨慎使用头孢菌素类药物(1)。有可能出现肌注部位疼痛和静注后血栓性静脉炎。
+服用头孢替坦期间若摄入酒精可能引发双硫仑样反应，导致恶心、呕吐。头孢替坦还可能导致凝血酶原时间 / 国际标准化比值（PT/INR）及活化部分凝血活酶时间（PTT）升高，该效应可通过补充维生素 K 逆转。
+
+【不良反应参考】
+Zagursky RJ, Pichichero ME: Cross-reactivity in β-lactam allergy.J Allergy Clin Immunol Pract6(1):72–81.e1, 2018.doi: 10.1016/j.jaip.2017.08.027
+Zagursky RJ, Pichichero ME: Cross-reactivity in β-lactam allergy.J Allergy Clin Immunol Pract6(1):72–81.e1, 2018.doi: 10.1016/j.jaip.2017.08.027

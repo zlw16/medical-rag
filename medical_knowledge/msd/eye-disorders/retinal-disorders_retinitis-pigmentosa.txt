@@ -1,0 +1,68 @@
+标题：视网膜色素变性
+来源：https://www.msdmanuals.cn/professional/eye-disorders/retinal-disorders/retinitis-pigmentosa
+============================================================
+
+视网膜蛋白的异常基因编码可能是引起视网膜色素变性的原因；已经明确了几种基因。大多数病例是常染色体隐性遗传，也可以是常染体显性遗传，或是少见的性连锁遗传。 视网膜色素变性还可以是一些综合征的眼部表现（如Bassen-Kornzweig，Laurence-Moon）。这些综合征中有一个还会伴有先天性耳聋（Usher综合征）。
+
+【色素性视网膜炎的症状和体征】
+视网膜的视杆细胞受累引起夜视力差，不同年龄均可发病，有时儿童幼年即可有症状。夜视力可能最终完全丧失。周边部的环形暗点（视野检测可以发现），逐渐增宽，晚期病例中心视力也可受到累及。黄斑受累时视力下降明显并通常导致法定盲。
+色素沉着过度在中周部视网膜呈现骨细胞样是最显眼的眼底表现。其它表现包括：
+视网膜小动脉变窄
+视网膜小动脉变窄
+黄斑囊样水肿
+黄斑囊样水肿
+视盘可呈现蜡黄色外观
+视盘可呈现蜡黄色外观
+后囊下白内障
+后囊下白内障
+玻璃体细胞（少见）
+玻璃体细胞（少见）
+
+【视网膜色素变性的诊断】
+眼底镜检查
+眼底镜检查
+视网膜电图检查
+视网膜电图检查
+视网膜色素变性最典型的眼底镜检查结果是骨-骨针结构中的色素沉着过度。其他发现可能包括小动脉狭窄、黄斑囊样水肿和蜡状黄色椎间盘表面。
+WESTERN OPHTHALMIC HOSPITAL/SCIENCE PHOTO LIBRARY
+夜视力差或者有家族史的患者应怀疑此病。眼底镜检查可明确诊断，通常视网膜电图辅助诊断。需注意排除其它可能出现类似视网膜色素变性表现的视网膜病变，包括梅毒感染、风疹病毒感染、吩噻嗪或者氯喹毒性反应以及非眼部恶性肿瘤。
+家庭成员应该接受检查和必要的检测以明确遗传模式。有家族遗传综合征的患者在要孩子前可进行遗传学咨询。
+
+【视网膜色素变性的治疗】
+维生素A棕榈酸酯
+维生素A棕榈酸酯
+ω-3脂肪酸
+ω-3脂肪酸
+叶黄素加玉米黄质
+叶黄素加玉米黄质
+碳酸酐酶抑制剂治疗黄斑囊样水肿
+碳酸酐酶抑制剂治疗黄斑囊样水肿
+眼内电脑芯片植入物
+眼内电脑芯片植入物
+没有一种疗法能够逆转视网膜变性引起的病变，但是15,000单位的维生素A棕榈酸酯，每日口服一次，可以在部分患者中减缓疾病的进展。服用维生素A棕榈酸酯应该定期检查肝功能。膳食补充叶黄素和玉米黄质也可能减缓视力丧失的速度（1）。
+对有黄斑囊样水肿的患者，口服碳酸酐酶抑制剂（例如，乙酰唑胺）或局部（例如，多佐胺）可能会有轻微的视力改善 (2)。Voretigene neparvovec rzyl现在可用于治疗已证实的双等位基因RPE65突变相关的视网膜营养不良。这是一种基于腺病毒载体的基因疗法，通过手术将其注射到具有活视网膜细胞和这种特定突变的患者的视网膜下间隙中 (3)。这种治疗可以恢复这些患者的动态视力。完全或几乎完全丧失视力的患者，视网膜表面的和视网膜下的电脑芯片植入物可以恢复一些视觉感受。
+
+【治疗参考文献】
+1.Kumar P, Banik SP, Ohia SE, et al: Current insights on the photoprotective mechanism of the macularcarotenoids, lutein and zeaxanthin: Safety, efficacy and bio-delivery.J Am Nutr Assoc23:1-14, Feb 2024.doi: 10.1080/27697061.2024.2319090
+1.Kumar P, Banik SP, Ohia SE, et al: Current insights on the photoprotective mechanism of the macularcarotenoids, lutein and zeaxanthin: Safety, efficacy and bio-delivery.J Am Nutr Assoc23:1-14, Feb 2024.doi: 10.1080/27697061.2024.2319090
+2.Bakthavatchalam M, Lai FH, Rong SS, et al: Treatment of cystoid macular edema secondary to retinitis pigmentosa: A systematic review.Surv Ophthalmol2018;63:329–339.doi: 10.1016/j.survophthal.2017.09.009
+2.Bakthavatchalam M, Lai FH, Rong SS, et al: Treatment of cystoid macular edema secondary to retinitis pigmentosa: A systematic review.Surv Ophthalmol2018;63:329–339.doi: 10.1016/j.survophthal.2017.09.009
+3.Maguire AM, Russell S, Wellman JA, et al: Efficacy, safety, and durability of voretigene neparvovec-rzyl in RPE65 mutation-associated inherited retinal dystrophy: Results of phase 1 and 3 trials.Ophthalmology126(9):1273-1285, 2019.doi: 10.1016/j.ophtha.2019.06.017
+3.Maguire AM, Russell S, Wellman JA, et al: Efficacy, safety, and durability of voretigene neparvovec-rzyl in RPE65 mutation-associated inherited retinal dystrophy: Results of phase 1 and 3 trials.Ophthalmology126(9):1273-1285, 2019.doi: 10.1016/j.ophtha.2019.06.017
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+AAO Quality of Care Secretariat, Hoskins Center for Quality Eye Care.Guidelines on Clinical Assessment of Patients with Inherited Retinal Degenerations-2022.American Academy of Ophthalmology®.One Network®.A
+AAO Quality of Care Secretariat, Hoskins Center for Quality Eye Care.Guidelines on Clinical Assessment of Patients with Inherited Retinal Degenerations-2022.American Academy of Ophthalmology®.One Network®.A
+Nguyen XT, Moekotte L, Plomp AS, et al:2023 24(8):7481, 2023. doi: 10.3390/ijms24087481
+Nguyen XT, Moekotte L, Plomp AS, et al:2023 24(8):7481, 2023. doi: 10.3390/ijms24087481
+色素性视网膜炎的早期症状包括夜视障碍和周围视力缺陷。
+色素性视网膜炎的早期症状包括夜视障碍和周围视力缺陷。
+在眼底镜检查中通过骨-斑点形态的色素沉着进行诊断，并通过视网膜电图确认。
+在眼底镜检查中通过骨-斑点形态的色素沉着进行诊断，并通过视网膜电图确认。
+处方维生素A棕榈酸酯、ω-3脂肪酸、叶黄素和玉米黄质补充剂以降低视力下降率。
+处方维生素A棕榈酸酯、ω-3脂肪酸、叶黄素和玉米黄质补充剂以降低视力下降率。
+用碳酸酐酶抑制剂治疗黄斑囊样水肿的患者。
+用碳酸酐酶抑制剂治疗黄斑囊样水肿的患者。
+使用 voretigene neparvovec-rzyl 进行基因治疗可以恢复双等位基因 RPE65 突变相关视网膜营养不良患者的动态视力。
+使用 voretigene neparvovec-rzyl 进行基因治疗可以恢复双等位基因 RPE65 突变相关视网膜营养不良患者的动态视力。

@@ -1,0 +1,298 @@
+标题：妊娠贫血
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/approach-to-the-pregnant-woman-and-prenatal-care/anemia-in-pregnancy
+============================================================
+
+妊娠期贫血是重大的公共卫生问题，世界卫生组织估计，37%的妊娠受到贫血的影响（1）。在世界范围内，低收入或中低收入国家的妊娠期贫血发生率较高。在美国，一项针对近400万名新生儿的研究发现，产前贫血在黑人（22%）或太平洋岛民（18%）的女性中更为常见，而在亚裔（11%）或白人（10%）中则较少见（2）。
+妊娠患者贫血与不良的产妇结局（例如早产、胎盘早剥、重症监护病房入院）和不良的新生儿结局（例如死产、生长受限、神经发育影响）有关（3，4，5）。
+妊娠期间，骨髓会出现红细胞增生，单胎妊娠中红细胞 (RBC) 质量会增加 15% 至 25%（6）。然而，血浆量不成比例的增加（40％至50％）会导致血液稀释（妊娠期水血症），从而增加铁的需求。生理性贫血发生时，健康非妊娠女性的血细胞比容（Hct）平均从38%至45%下降到单胎妊娠晚期约34%，多胎妊娠晚期30%。 尽管血液稀释，但整个怀孕期间携氧能力仍然正常。 由于胎盘血管中的母体血液返回母体循环，血细胞比容 （Hct）通常会在分娩后立即增加。
+贫血多达三分之一的女性在妊娠晚期会出现这种情况，最常见的原因是：
+叶酸缺乏
+叶酸缺乏
+急性失血（通常发生在围产期）是缺铁性贫血的常见原因。
+
+【参考文献】
+1.World Health Information: Fact Sheet, Anaemia.May 1, 2023 (accessed May 19, 2024).
+1.World Health Information: Fact Sheet, Anaemia.May 1, 2023 (accessed May 19, 2024).
+2.Igbinosa II, Leonard SA, Noelette F, et al: Racial and Ethnic Disparities in Anemia and Severe Maternal Morbidity.Obstet Gynecol.2023;142(4):845-854.doi:10.1097/AOG.0000000000005325
+2.Igbinosa II, Leonard SA, Noelette F, et al: Racial and Ethnic Disparities in Anemia and Severe Maternal Morbidity.Obstet Gynecol.2023;142(4):845-854.doi:10.1097/AOG.0000000000005325
+3.Beckert RH, Baer RJ, Anderson JG, Jelliffe-Pawlowski LL, Rogers EE: Maternal anemia and pregnancy outcomes: a population-based study.J Perinatol.2019;39(7):911-919.doi:10.1038/s41372-019-0375-0
+3.Beckert RH, Baer RJ, Anderson JG, Jelliffe-Pawlowski LL, Rogers EE: Maternal anemia and pregnancy outcomes: a population-based study.J Perinatol.2019;39(7):911-919.doi:10.1038/s41372-019-0375-0
+4.Shi H, Chen L, Wang Y, et al.Severity of Anemia During Pregnancy and Adverse Maternal and Fetal Outcomes.JAMA Netw Open.2022;5(2):e2147046.Published 2022 Feb 1.doi:10.1001/jamanetworkopen.2021.47046
+4.Shi H, Chen L, Wang Y, et al.Severity of Anemia During Pregnancy and Adverse Maternal and Fetal Outcomes.JAMA Netw Open.2022;5(2):e2147046.Published 2022 Feb 1.doi:10.1001/jamanetworkopen.2021.47046
+5.Wiegersma AM, Dalman C, Lee BK, Karlsson H, Gardner RM.Association of Prenatal Maternal Anemia With Neurodevelopmental Disorders.JAMA Psychiatry.2019 Dec 1;76(12):1294-1304.doi: 10.1001/jamapsychiatry.2019.2309.PMID: 31532497; PMCID: PMC6751782
+5.Wiegersma AM, Dalman C, Lee BK, Karlsson H, Gardner RM.Association of Prenatal Maternal Anemia With Neurodevelopmental Disorders.JAMA Psychiatry.2019 Dec 1;76(12):1294-1304.doi: 10.1001/jamapsychiatry.2019.2309.PMID: 31532497; PMCID: PMC6751782
+6.American College of Obstetricians and Gynecologists' Committee on Practice Bulletins: Practice Bulletin, Number 233, Anemia in Pregnancy.Obstet Gynecol.2021;138(2):e55-e64.doi:10.1097/AOG.0000000000004477
+6.American College of Obstetricians and Gynecologists' Committee on Practice Bulletins: Practice Bulletin, Number 233, Anemia in Pregnancy.Obstet Gynecol.2021;138(2):e55-e64.doi:10.1097/AOG.0000000000004477
+
+【妊娠期贫血的症状和体征】
+贫血通常缺乏早期症状，或症状是非特异性的（如疲劳、乏力、轻微头晕、运动后轻度呼吸困难）。  其他症状和体征包括脸色苍白等，如果贫血严重的话，还会有心动过速或低血压。
+胎儿生长受限应提示评估母亲贫血。
+
+【妊娠期贫血的诊断】
+全血细胞计数（CBC）和分类，然后根据平均红细胞值（MCV）进行检测
+全血细胞计数（CBC）和分类，然后根据平均红细胞值（MCV）进行检测
+贫血的诊断从 CBC 开始。以下血红蛋白（Hb）和红细胞压积（Hct）水平在孕妇中被归类为贫血（1)：
+孕早期：Hb < 11 g/dL； Hct < 33%
+孕早期：Hb < 11 g/dL； Hct < 33%
+孕中期：Hb < 10.5 g/dL； Hct < 32%
+孕中期：Hb < 10.5 g/dL； Hct < 32%
+孕晚期：Hb<11g/dL；Hct<33%
+孕晚期：Hb<11g/dL；Hct<33%
+通常，如果女性患有贫血，后续检测取决于MCV是否较低（<79 fL）或高（>100 fL）（见表常见贫血的特征)：
+对于小红细胞性贫血：评估包括铁缺乏检查（检测血清铁蛋白）和血红蛋白病检查（应用血红蛋白电泳）。 如果这些检查仍不能明确诊断，并且患者对经验性治疗没有反应，通常需要咨询血液科医生。
+对于小红细胞性贫血：评估包括铁缺乏检查（检测血清铁蛋白）和血红蛋白病检查（应用血红蛋白电泳）。 如果这些检查仍不能明确诊断，并且患者对经验性治疗没有反应，通常需要咨询血液科医生。
+对于巨红细胞性贫血：评估包括血清叶酸和维生素B12水平。
+对于巨红细胞性贫血：评估包括血清叶酸和维生素B12水平。
+对于多种原因引起的贫血：需要对两种类型进行评估。
+对于多种原因引起的贫血：需要对两种类型进行评估。
+
+【常见贫血的特点】
+常见贫血的特点
+病因学或类型
+形态变化
+急性失血
+正细胞正色素性，伴幼红细胞增多
+严重时可能出现有核红细胞和白细胞核左移
+白细胞增多
+血小板增多
+慢性失血
+与缺铁相同
+与缺铁相同
+叶酸缺乏
+与维生素B12缺乏相同
+血清叶酸<5ng/mL（<11nmol/L）
+红细胞叶酸<225ng/mL RBCs（<510nmol/L）
+营养不良和吸收障碍（口炎性腹泻，妊娠，新生儿，酗酒）
+遗传性球形红细胞增多症
+球形小细胞
+幼红细胞增生
+网织红细胞增多
+MCHC升高
+红细胞渗透脆性增加
+示踪红细胞寿命缩短
+温抗体型溶血
+球形小细胞
+幼红细胞增生
+网织红细胞增多
+MCHC升高
+红细胞渗透脆性增加
+示踪红细胞寿命缩短
+直接抗人球蛋白试验阳性
+正细胞正色素
+网织红细胞增多
+骨髓幼红细胞增生
+血清间接胆红素和乳酸脱氢酶（LDH）升高，结合珠蛋白降低
+粪便和小便中的尿胆原增高
+血管内溶血性血红蛋白尿
+含铁血黄素尿
+感染、癌症、慢性炎症或肾脏疾病
+早期为正细胞正色素性，以后呈小细胞性
+骨髓幼红细胞
+铁储备正常或增加
+血清铁减少
+总铁结合力降低
+血清铁蛋白升高
+骨髓铁含量正常或增加
+小细胞性，伴红细胞大小不一及红细胞异形
+网织红细胞减少
+骨髓增生伴血红蛋白发育迟缓
+可能患有胃酸缺乏、舌头水滑、唇裂和匙状指甲
+骨髓可染铁缺乏
+血清铁降低
+总铁结合力增高
+血清铁蛋白降低
+骨髓衰竭
+正细胞正色素性（也可能为小细胞性）
+网织红细胞减少
+骨髓穿刺常常失败或表现为红系或全血细胞严重再生不良
+特发性（>50%）、遗传性或继发于接触有毒药物或化学物质（如氯霉素、奎纳克林、乙内酰脲、杀虫剂）或细小病毒B19
+骨髓替代（骨髓病性）
+红细胞大小不一及红细胞异形 （例如，泪滴细胞）
+有核红细胞
+早幼粒细胞
+骨髓穿刺可能失败或提示存在白血病、骨髓瘤、骨髓纤维化或转移癌细胞
+伴感染性肉芽肿，肿瘤，骨髓纤维化或类脂组织细胞增多症的骨髓浸润
+可能有肝脾肿大
+可能的骨骼变化（骨硬化）
+冷凝集素病
+大红细胞症
+红细胞凝集
+网织红细胞增多
+受寒后发生
+冷凝集素或溶血素试验结果
+有时感染后（阵发性冷血红蛋白尿)
+阵发性睡眠性血红蛋白尿
+白细胞减少
+血小板减少症
+网织红细胞增多
+血红蛋白尿，有时晨尿颜色明显较深
+含铁血黄素尿
+血栓形成
+平滑肌张力障碍引起腹痛、食管痉挛、勃起功能障碍
+不同程度的骨髓衰竭（血细胞减少）
+镰状细胞性贫血
+红细胞大小不一及红细胞异形
+外周血涂片上出现一些镰状细胞
+在低氧或高渗条件下所有红细胞将向镰状转化
+网织红细胞增多
+在美国非洲裔人群中最常见
+低渗niao
+电泳显示血红蛋白S
+X射线检查可见骨骼病变
+中风和其他血栓事件
+可能发生疼痛性血管阻塞危象和下肢溃疡、中风
+铁粒幼细胞性贫血
+通常为低色素性，但也可为正细胞性或大细胞性
+骨髓增生伴血红蛋白发育迟缓
+环形铁粒幼细胞
+先天性或后天获得性代谢缺陷 （例如，由于酒精、异烟肼等物质所致）
+通常可染色骨髓铁（丰富），但可以减少
+一些先天形式对补充维生素B6有应答
+可以是骨髓增生异常综合征 的一部分
+地中海贫血
+小细胞性
+靶形细胞
+嗜碱性点彩
+纯合子中的红细胞大小不一及红细胞异形
+在纯合子中可见有核红细胞
+网织红细胞增多
+HbA2和HbF常升高（在beta-地中海贫血中）
+常是地中海地区的家系
+纯合子从婴儿期开始出现贫血
+X射线检查有骨骼改变
+维生素B12缺乏
+卵圆形大细胞
+红细胞大小不一
+网织红细胞减少
+多叶核白细胞
+骨髓巨幼样变
+血清维生素B12水平<200pg/mL（<145pmol/L）
+甲基丙二酸和同型半胱氨酸升高
+LDH升高
+血清抗内因子抗体（恶性贫血）
+通常情况下，胃肠道（GI）和中枢神经系统（CNS）症状
+CNS=中枢神经系统；GI=胃肠道；Hb=血红蛋白；LDH=乳酸脱氢酶；MCHC=平均红细胞血红蛋白浓度；RBC=红细胞；WBC=白细胞。
+CNS=中枢神经系统；GI=胃肠道；Hb=血红蛋白；LDH=乳酸脱氢酶；MCHC=平均红细胞血红蛋白浓度；RBC=红细胞；WBC=白细胞。
+
+【诊断参考文献】
+1.American College of Obstetricians and Gynecologists' Committee on Practice Bulletins: Practice Bulletin, Number 233, Anemia in Pregnancy.Obstet Gynecol.2021;138(2):e55-e64.doi:10.1097/AOG.0000000000004477
+1.American College of Obstetricians and Gynecologists' Committee on Practice Bulletins: Practice Bulletin, Number 233, Anemia in Pregnancy.Obstet Gynecol.2021;138(2):e55-e64.doi:10.1097/AOG.0000000000004477
+
+【妊娠期贫血的治疗】
+治疗纠正贫血
+治疗纠正贫血
+症状严重或存在胎儿指征时需要输血
+症状严重或存在胎儿指征时需要输血
+治疗妊娠期贫血的目的是逆转贫血的病因。
+当母体血红蛋白（Hb）水平低于6克/分升（这通常与胎儿氧合异常有关）时，以及当出现严重的全身症状（如头晕、虚弱、疲劳）或心肺症状或体征（如呼吸困难、心动过速、呼吸急促）时都应考虑输血。这一决定并非仅基于Hb水平（1）。
+对于妊娠晚期出现贫血的女性，临床医生应做好适当的准备以防止失血或管理血流动力学状态，同时考虑分娩期间失血是否可能导致严重贫血，以及患者是否不适合输血（例如，耶和华见证人患者）。
+
+【经验与提示】
+经验与提示
+如果孕妇的血红蛋白水平低于 6 g/dL，或者出现与贫血相关的严重全身症状，则需要输血。
+如果孕妇的血红蛋白水平低于 6 g/dL，或者出现与贫血相关的严重全身症状，则需要输血。
+
+【治疗参考文献】
+1.American College of Obstetricians and Gynecologists' Committee on Practice Bulletins: Practice Bulletin, Number 233, Anemia in Pregnancy.Obstet Gynecol.2021;138(2):e55-e64.doi:10.1097/AOG.0000000000004477
+1.American College of Obstetricians and Gynecologists' Committee on Practice Bulletins: Practice Bulletin, Number 233, Anemia in Pregnancy.Obstet Gynecol.2021;138(2):e55-e64.doi:10.1097/AOG.0000000000004477
+妊娠期间红细胞质量增加和血液稀释会导致生理性贫血，但携氧能力在整个妊娠期间保持正常。
+妊娠期间红细胞质量增加和血液稀释会导致生理性贫血，但携氧能力在整个妊娠期间保持正常。
+孕期病理性贫血最常见的原因是铁缺乏和叶酸缺乏。
+孕期病理性贫血最常见的原因是铁缺乏和叶酸缺乏。
+妊娠期贫血与不良的产妇结局（例如早产、胎盘早剥和重症监护病房入院）和不良的新生儿结局（例如死产、生长受限、神经发育影响）有关。
+妊娠期贫血与不良的产妇结局（例如早产、胎盘早剥和重症监护病房入院）和不良的新生儿结局（例如死产、生长受限、神经发育影响）有关。
+建议所有怀孕患者在妊娠前三个月服用低剂量的铁补充剂，以防止分娩时出现贫血。
+建议所有怀孕患者在妊娠前三个月服用低剂量的铁补充剂，以防止分娩时出现贫血。
+如果可能的话，治疗贫血的病因，但对于血红蛋白<6 g/dL或症状严重的患者，通常需要输血。
+如果可能的话，治疗贫血的病因，但对于血红蛋白<6 g/dL或症状严重的患者，通常需要输血。
+
+【妊娠期缺铁性贫血】
+缺铁性贫血是妊娠期贫血最常见的病理原因。缺铁性贫血的病因通常是：
+育龄妇女饮食摄入不足
+育龄妇女饮食摄入不足
+育龄期女性每月经血中铁元素的经常性流失（将近每月正常摄入的总量，从而阻止铁储存的积累）
+育龄期女性每月经血中铁元素的经常性流失（将近每月正常摄入的总量，从而阻止铁储存的积累）
+前次怀孕导致的失血
+前次怀孕导致的失血
+
+【妊娠期缺铁性贫血的诊断】
+血清铁，铁蛋白，和转铁蛋白测定
+血清铁，铁蛋白，和转铁蛋白测定
+通常，Hct≤30%，MCV<79 fL。 血清铁和铁蛋白水平降低以及血清转铁蛋白水平升高可确诊缺铁性贫血。
+
+【妊娠期缺铁性贫血的治疗】
+通常每天或每隔一天口服铁补充剂
+通常每天或每隔一天口服铁补充剂
+有时需要静脉注射 (IV) 铁剂
+有时需要静脉注射 (IV) 铁剂
+大多数产前维生素含有孕期推荐的每日亚铁摄入量（27毫克）（1）。对于缺铁性贫血患者，需要更高剂量（例如325毫克硫酸亚铁 [65毫克元素铁]）。铁通常每天服用，但如果患者有令人困扰的胃肠道症状，尤其是便秘，则可以隔天服用。
+约有 20% 接受口服铁补充剂治疗的孕妇无法吸收足够的补充铁或无法耐受副作用；这些患者需要接受肠外治疗。铁缺乏可以计算，并且通常可以通过一到三次输注来补充铁。 每周都要测量Hct或Hb，确定疗效如何。  如果补充铁剂无效，则需要怀疑是否同时存在叶酸缺乏。
+缺铁性贫血的母亲分娩的新生儿通常Hct正常，但是降低了总铁储备，并需要早期膳食补铁。
+
+【治疗参考文献】
+1.American College of Obstetricians and Gynecologists' Committee on Practice Bulletins: Practice Bulletin, Number 233, Anemia in Pregnancy.Obstet Gynecol.2021;138(2):e55-e64.doi:10.1097/AOG.0000000000004477
+1.American College of Obstetricians and Gynecologists' Committee on Practice Bulletins: Practice Bulletin, Number 233, Anemia in Pregnancy.Obstet Gynecol.2021;138(2):e55-e64.doi:10.1097/AOG.0000000000004477
+
+【妊娠期缺铁性贫血的预防】
+所有孕妇在妊娠前三个月都应服用低剂量的铁补充剂，以预防分娩时贫血（1）。如果妊娠初期 Hb<11.5g/dL，孕妇可以接受预防性治疗，因为随后的血液稀释通常会使Hb降至<10g/dL。
+
+【预防参考文献】
+1.American College of Obstetricians and Gynecologists' Committee on Practice Bulletins: Practice Bulletin, Number 233, Anemia in Pregnancy.Obstet Gynecol.2021;138(2):e55-e64.doi:10.1097/AOG.0000000000004477
+1.American College of Obstetricians and Gynecologists' Committee on Practice Bulletins: Practice Bulletin, Number 233, Anemia in Pregnancy.Obstet Gynecol.2021;138(2):e55-e64.doi:10.1097/AOG.0000000000004477
+
+【妊娠期叶酸缺乏性贫血】
+叶酸缺乏增加神经管缺陷和可能的胎儿酒精综合征的风险。 0.5～1.5%的孕妇存在叶酸缺乏；中重度缺乏时会出现巨幼细胞性贫血。
+罕见的，会出现严重贫血和舌炎。
+
+【妊娠期叶酸缺乏性贫血的诊断】
+血清叶酸测定
+血清叶酸测定
+如果全血细胞计数(CBC)显示贫血伴有巨细胞指数或高红细胞(RBC)分布宽度(RDW)，则怀疑存在叶酸缺乏。血清叶酸水平降低可确诊叶酸缺乏。
+
+【妊娠期叶酸缺乏性贫血的治疗】
+每天口服 1 毫克叶酸
+每天口服 1 毫克叶酸
+治疗方法为叶酸 1mg 口服 每天一次。
+严重巨幼红细胞性贫血可能需要骨髓检查和进一步治疗。
+
+【妊娠期叶酸缺乏性贫血的预防】
+为了预防，所有孕妇和计划怀孕或可能怀孕的妇女都应服用叶酸补充剂，每天口服 0.4 至 0.8 毫克（1）。胎儿患有脊柱裂的妇女应从受孕前 3 个月开始每天服用 4 毫克，直至妊娠 12 周（2）。
+
+【叶酸缺乏性贫血参考文献】
+1.US Preventive Services Task Force, Barry MJ, Nicholson WK, et al: Folic Acid Supplementation to Prevent Neural Tube Defects: US Preventive Services Task Force Reaffirmation Recommendation Statement.JAMA.2023;330(5):454-459.doi:10.1001/jama.2023.12876
+1.US Preventive Services Task Force, Barry MJ, Nicholson WK, et al: Folic Acid Supplementation to Prevent Neural Tube Defects: US Preventive Services Task Force Reaffirmation Recommendation Statement.JAMA.2023;330(5):454-459.doi:10.1001/jama.2023.12876
+2.American College of Obstetricians and Gynecologists' Committee on Practice Bulletins: Practice Bulletin, Number 187, Neural Tube Defects.Obstet Gynecol.2017 (reaffirmed 2021);130(6):e279-e290.doi:10.1097/AOG.0000000000002412
+2.American College of Obstetricians and Gynecologists' Committee on Practice Bulletins: Practice Bulletin, Number 187, Neural Tube Defects.Obstet Gynecol.2017 (reaffirmed 2021);130(6):e279-e290.doi:10.1097/AOG.0000000000002412
+
+【妊娠期血红蛋白病】
+在妊娠期间，血红蛋白病，特别是镰状细胞病、血红蛋白S-C病以及β-和α-地中海贫血，均与不良孕产和围产期结局的风险增加有关（1）。基因筛查针对其中一些疾病是可用的。
+母亲患有镰状细胞病，尤其是严重时，与以下产妇或胎儿/新生儿并发症有关（2)：
+母体感染（例如，肺炎、尿路感染[UTIs]和败血症）
+母体感染（例如，肺炎、尿路感染[UTIs]和败血症）
+妊娠高血压、先兆子痫和子痫
+妊娠高血压、先兆子痫和子痫
+急性胸部综合征
+急性胸部综合征
+静脉和动脉血栓栓塞症
+静脉和动脉血栓栓塞症
+胎儿生长受限
+胎儿生长受限
+低出生体重
+低出生体重
+随着妊娠的进展，贫血几乎总是越来越严重。 镰状细胞特征增加泌尿感染风险，但是与严重妊娠相关并发症无关。
+妊娠期镰状细胞病的治疗是复杂的。 应积极治疗疼痛危象。预防性交换输血以将Hb A维持在≥60%可降低溶血危象和肺部并发症的风险，但是因为会增加输血反应、肝炎、HIV传播以及血型同种免疫的风险而不能作为常规推荐。 预防性输血不能降低围产期风险。  治疗性输血用于以下：
+症状性贫血
+症状性贫血
+严重细菌感染
+严重细菌感染
+严重分娩并发症（如出血、脓毒症）
+严重分娩并发症（如出血、脓毒症）
+血红蛋白S-C病会在妊娠期首先出现症状。  该疾病因偶尔会造成骨针栓塞而增加肺梗死风险。  对胎儿的影响不常见，但是如果发生，常会出现胎儿生长受限。
+镰状细胞–β地中海贫血与血红蛋白S-C病相似，但是不太常见且多是良性的。
+α-地中海贫血不会引起母体发病，但是如果胎儿是纯合子的，则会在妊娠中期或晚期早期出现水肿和胎儿死亡。
+
+【血红蛋白病参考文献】
+1.American College of Obstetricians and Gynecologists' Committee on Obstetrics: Practice Bulletin No. 78: Hemoglobinopathies in Pregnancy.Obstet Gynecol.2007 (reaffirmed 2021);109(1):229-237.doi:10.1097/00006250-200701000-00055
+1.American College of Obstetricians and Gynecologists' Committee on Obstetrics: Practice Bulletin No. 78: Hemoglobinopathies in Pregnancy.Obstet Gynecol.2007 (reaffirmed 2021);109(1):229-237.doi:10.1097/00006250-200701000-00055
+2.Kuo K, Caughey AB: Contemporary outcomes of sickle cell disease in pregnancy.Am J Obstet Gynecol.2016;215(4):505.e1-505.e5055.doi:10.1016/j.ajog.2016.05.032
+2.Kuo K, Caughey AB: Contemporary outcomes of sickle cell disease in pregnancy.Am J Obstet Gynecol.2016;215(4):505.e1-505.e5055.doi:10.1016/j.ajog.2016.05.032

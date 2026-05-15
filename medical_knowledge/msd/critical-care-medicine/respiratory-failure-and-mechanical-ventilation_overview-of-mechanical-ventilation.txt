@@ -1,0 +1,186 @@
+标题：机械通气概述
+来源：https://www.msdmanuals.cn/professional/critical-care-medicine/respiratory-failure-and-mechanical-ventilation/overview-of-mechanical-ventilation
+============================================================
+
+机械通气可以是
+无创通气, 包括各类面罩
+无创通气, 包括各类面罩
+有创通气，包括气管插管
+有创通气，包括气管插管
+选择和使用适当的机械通气技术需要医生理解呼吸力学。
+气管插管和机械通气的指征有很多(见表需要进行气道管理的情境)，但一般而言，当临床表现和实验室检查提示患者不能维持足够氧合和通气时，就应考虑机械通气治疗。
+主要内容包括
+呼吸频率>30次/分
+呼吸频率>30次/分
+尽管使用了包括高流量供氧在内的无创供氧策略（NIV），仍无法维持动脉血氧饱和度>90%
+尽管使用了包括高流量供氧在内的无创供氧策略（NIV），仍无法维持动脉血氧饱和度>90%
+酸碱度<7.25
+酸碱度<7.25
+二氧化碳分压（PaCO2）>50mmHg（除非慢性且稳定）
+二氧化碳分压（PaCO2）>50mmHg（除非慢性且稳定）
+启动机械通气的决定应该基于临床判断，考虑整个临床情况，而不是简单的数值标准。然而，机械通气不应延迟到患者处于极端状态。某些患者可以使用无创通气进行治疗，例如无创正压通气，而不是机械通气。
+
+【呼吸力学】
+正常吸气时胸腔内产生的负压使空气和肺泡之间形成压力差，这种压力差使空气流向肺内。机械通气时，该压力差由气源压力升高（正压通气）所致。
+气道峰压测压点在气道开口处（Pao），呼吸机常规显示该监测数值。气道峰压是驱动气体进入并充盈肺所需的总压力。压力用于克服气流的阻力（粘滞阻力）、克服肺和胸壁的弹性回缩力（弹性阻力）和吸气开始时的肺泡内压力（呼气末正压[PEEP]—见图机械通气时气道压力的组成）。因此，
+粘滞阻力：气流通过呼吸环路时产生的气道阻力。机械通气时，呼吸机环路、气管导管以及患者气道会产生气道粘滞阻力，其中患者气道产生的粘滞阻力最为重要。（注：即使这些因素是恒定的，只要气流流速增加，粘滞阻力压力也会增加。）
+
+【机械通气时气道压力的组成（吸气后屏气状态）】
+机械通气时气道压力的组成（吸气后屏气状态）
+PEEP== 呼气末正压。
+弹性阻力是由肺和胸壁的弹性回缩力以及气体输送量决定的。气体量不变时，弹性阻力随着肺僵硬程度（如肺纤维化）或胸壁/膈肌活动受限程度（如张力性腹水或过度肥胖）的增加而增大。弹性=1/顺应性，故弹性越大，顺应性越小。
+呼气末压力正常情况下呼气末肺泡内压力与大气压是相等的。但是，出现气道梗阻、气流受限或者呼气时间过短时，肺泡内气体不能完全排空，肺泡呼吸末压可高于大气压。此时的肺泡内压称为内源性PEEP，用来区别体外施加的（治疗性）PEEP。呼吸机或正压面罩都可以提供外源性PEEP。
+在任一气道峰压水平（如>25cm H22O），通过吸气末屏气可以测得吸气末气道压（平台压）。通过计算就可以确定粘滞阻力和弹性阻力在气道峰压中的比例。吸气末屏气时，呼气阀在吸气后关闭0.3～0.5秒，推迟呼气动作。此时，随着气流终止，吸气峰压逐渐下降。吸气末压减去呼气末正压即为弹性压力（假设在测量时患者无主动吸气或呼气肌收缩）。气道峰压与平台压的差值即为气道粘滞阻力。
+粘滞阻力升高（如>10cmH2O）提示气管导管扭曲，被分泌物或异物堵塞，或存在气管痉挛。
+弹性阻力的升高（例如,>10cm H2O）提示肺顺应性下降，见于
+肺水肿，肺纤维化，或肺不张
+肺水肿，肺纤维化，或肺不张
+大量胸腔积液,气胸或肺纤维化
+大量胸腔积液,气胸或肺纤维化
+肺外限制性疾病包括环形烧伤或其他胸壁畸形，腹水，妊娠或过度肥胖
+肺外限制性疾病包括环形烧伤或其他胸壁畸形，腹水，妊娠或过度肥胖
+潮气量超过通气肺容积也会导致弹性阻力升高（例如，气管内导管错位时常规大小潮气量进行单肺通气。）
+潮气量超过通气肺容积也会导致弹性阻力升高（例如，气管内导管错位时常规大小潮气量进行单肺通气。）
+被动患者的内源性PEEP（auto-PEEP）可以通过呼气末屏气操作来测量。吸气前，呼气口会关闭2秒钟。气流停止，粘性阻力消失，此时测得的压力即为呼气末肺泡压（内源性PEEP）。为了精确测量内源性PEEP，需要患者在机械通气时完全放松，但没必要为此使用神经肌肉阻滞剂。
+另一种判断内源性PEEP的非定量方法是检查呼气期流速曲线。如果在下一次吸气前患者仍有呼气气流，或胸壁未复原，提示存在内源性PEEP。内源性PEEP升高的后果包括吸气功增加和静脉回流减少，后者可导致心排出量降低和低血压。
+出现内源性PEEP时应及时寻找气道阻塞的原因（如气道分泌物、弹性回缩力下降、气管痉挛）；但是即使没有气道阻塞，患者在高分钟通气量（>20L/min）时也会产生内源性PEEP。如是因气流受限所致，缩短吸气时间（即增大吸气流速）或降低呼吸频率都能延长呼气时间，可以降低内源性PEEP。
+
+【机械通气的方法和模式】
+机械通气模式包括
+容量循环：每次呼吸提供恒定容量（压力可能会有所不同）
+容量循环：每次呼吸提供恒定容量（压力可能会有所不同）
+压力循环：在每次呼吸期间输送恒定压力（输送量可能会有所不同）
+压力循环：在每次呼吸期间输送恒定压力（输送量可能会有所不同）
+体积和压力的组合循环
+体积和压力的组合循环
+辅助控制 (A/C) 通气模式是保持最低呼吸频率的模式，无论患者是否开始自主呼吸。  压力和容积直接相关，所以无论呼吸机采用何种通气模式，特定的容量总是对应特定的压力。
+可调节的呼吸机设置因模式而异，但包括
+呼吸频率
+呼吸频率
+灵敏度（触发通气所需）
+灵敏度（触发通气所需）
+流速波形
+流速波形
+吸气/呼气 (I/E) 比
+吸气/呼气 (I/E) 比
+
+【容量切换通气】
+容量循环通气提供设定的潮气量。 该模式包括
+容量控制 (V/C)
+容量控制 (V/C)
+同步间歇指令通气 (SIMV)
+同步间歇指令通气 (SIMV)
+合成气道压力不是固定的，而是随呼吸系统的阻力和弹性以及所选流速而变化。
+V/C是最简单有效的全机械通气。在此模式下，当吸气努力超过触发灵敏度阈值时，呼吸机即按预设潮气量输送气体。如果自主呼吸触发的通气频率不够，呼吸机将启动一次通气，确保达到预设的最低呼吸频率。
+SIMV也可以按照预设的呼吸频率和容量送气，并可与患者的自主呼吸同步。与V/C模式不同，当自主呼吸高于预设呼吸频率时，吸气阀打开保证气流，但呼吸机并不提供压力支持。尽管研究表明，这种模式不能像V/C那样提供完全的呼吸机支持 (1)，不能使患者脱离机械通气(2)，也不能改善患者的舒适度 ，但这种模式仍然流行。
+
+【压力切换通气】
+压力循环通气提供设定的吸气压力。  该模式包括
+压力控制通气 (PCV)
+压力控制通气 (PCV)
+压力支持通气 (PSV)
+压力支持通气 (PSV)
+通过紧密贴合的面罩应用的无创方式（有几种类型可供选择）
+通过紧密贴合的面罩应用的无创方式（有几种类型可供选择）
+因此，潮气量随呼吸系统的阻力和弹性而变化。在这种模式下，呼吸系统力学的变化可能导致无法识别肺泡通气的变化。由于限定了肺膨胀压，理论上压力通气模式对急性呼吸窘迫综合征（ARDS）有利，但尚无文献证明其较V/C通气模式更优(3)。而且，如果PCV的送气量与V/C相同，那么两者所需的肺膨胀压其实也相同。
+压力控制通气是压力切换的A/C模式。当吸气功超过预设的触发阈值，呼吸机会在固定的吸气时间内提供持续的压力支持。保证最低的呼吸频率。
+压力支持通气时无需设置最低呼吸频率，所有呼吸支持均由患者的自主呼吸触发。呼吸机以恒定的压力水平辅助患者呼吸，直到患者的吸气气流速降至低于由算法确定的预设值。因此，病人吸气越深、时间越长，潮气量越大。这种模式常用于撤机时，使患者进行更多的自主呼吸锻炼。研究表明，这种方法在停止机械通气方面比其他方法更成功(4)。
+
+【呼吸机设置】
+呼吸机设置视具体情况而定，基本原则如下：
+每分钟通气量设定为
+呼吸频率
+呼吸频率
+当潮气量设定得太高，则存在过度膨胀的风险；设定得太低，则会导致肺不张。呼吸频率过快会导致过度通气和呼吸性碱中毒，同时因呼气相时间过短而产生内源性PEEP；太慢则会出现分钟通气量不足和呼吸性酸中毒。
+对于患有以下情况的患者，建议最初采用 6 至 8 mL/kg 理想体重 (IBW) 的低潮气量急性呼吸窘迫综合征（ARDS—见侧栏）ARDS 的初始呼吸机管理）。对于肺力学正常的某些患者，低潮气量也是合适的（5，6，7)，例如急性加重期患者慢性阻塞性肺疾病（慢性阻塞性肺病）或哮喘或在手术期间使用机械通气的患者（8，9）。术中低潮气量策略通常包括周期性肺复张。 其他患者（如创伤、意识模糊、严重酸中毒的患者）可能起始潮气量略高（如8~10mL/kg）。
+对于有肺部疾病且接受机械通气的患者，使用理想体重计算合适潮气量，而不是实际体重：
+触发灵敏度指触发呼吸机送气的负压水平。一般设置在–2cm H2O。 如果触发的负压水平设置太高（如低于-2cmH2O），则虚弱的患者可能无力触发呼吸机的辅助通气。 如果触发的负压水平设置太低（如高于-2cmH2O），则可能引起呼吸机辅助通气持续自动循环，导致过度通气。内源性PEEP较高的患者（如COPD患者、哮喘患者）很难通过深吸气达到足够的的气道内负压。
+这I:E 比率（吸气：呼气比）是吸气时间与呼气时间之比。 有些通气模式可以调节呼吸机的吸呼比。对于呼吸力学正常的患者，吸呼比通常设置在1：3。患有哮喘或慢性阻塞性肺疾病急性加重的患者，吸呼比应设为1:4或更长，以限制内源性PEEP的程度。
+有些通气模式则还可以调节吸气流速（也就是说可以调节吸气流速或吸呼比，但不能同时调节）。吸气流量一般设定在60L/min，但对有流量限制的病人则可增加至120L/min，使呼气相时间延长，从而限制内源性PEEP。
+FiO2（吸入氧浓度）最初设置为 1.0（100% 氧气），随后降低到维持充足氧合所需的最低水平。
+PEEP可在任何通气模式下使用。PEEP可增加肺呼气末容积，减少呼气末气道和肺泡塌陷。对于大部分机械通气患者，应用 5 cm H2O 的 PEEP 可以有效减少气管插管、镇静、肌松和/或仰卧位通气引起的肺不张。对于存在阻塞的患者，呼吸机施加的 PEEP 可以减少与内源性 PEEP 相关的呼吸功。对于心源性肺水肿和ARDS等疾病，更高的 PEEP 水平可改善氧合。PEEP 在维持足够动脉氧合的同时，允许使用更低的 FiO2 水平。这对于防止因长期暴露于高 FiO2（≥0.6）引起的肺损伤有重要意义。然而，如果PEEP增加胸腔内压力，并使胸腔内压力过高可能会阻碍静脉回流，引起低血容量患者的低血压，可能会减少左心室后负荷，并可能使部分肺过度扩张，从而导致呼吸机相关肺损伤（VALI）。如果PEEP太低，则会引起肺泡周期性开闭，发生剪切伤也可导致VALI。由于肺部不同区域的压力-容积曲线各异，因此对于给定的 PEEP，肺部依赖区域的容积增加将会低于非依赖区域。
+
+【患者体位】
+机械通气时，患者通常处于仰卧、半直立位。但是，对于ARDS患者，俯卧位通气由于能使肺内通气更均匀，从而可能改善氧合。肺通气均匀可减少无通气肺泡量（即分流量），这些肺泡大部分位于肺的背部和下部，同时也减小对肺灌注的影响 (10)。
+尽管许多学者提倡对需要高水平PEEP（如>12 cm H2O）和FiO2（如>0.6）的ARDS患者尝试俯卧位治疗，但初步试验均未显示该策略可降低死亡率（但这些研究样本量不足且存在其他的研究设计问题）。随后一项大样本、多中心的前瞻性试验(11)评估了中重度ARDS（当FiO2≥0.6，PEEP＞5cm H2O时，PaO2:FiO2<150 mm Hg）且潮气量约为6 mL/kg的患者。对这些患者随机分组，一组患者接受≥16小时的俯卧位通气，另一组患者在通气期间保持仰卧位。这项研究共纳入466例患者，明确发现俯卧位治疗组的28天死亡率和90天死亡率更低，而且无明显相关并发症发生。与早期研究相比，患者选择和管理方案的改进被认为是取得更好结果的原因 (12)。
+对于清醒、有自主呼吸、出现低氧血症并使用高流量鼻导管吸氧的 COVID-19 患者，采用俯卧位治疗可减少低氧血症，并且在一项大型临床试验中，还降低了治疗失败的风险（治疗失败定义为 28 天内需要气管插管或死亡）(13)。
+俯卧位通气禁用于脊柱不稳或颅内压增高的患者。该体位还要求重症监护室工作人员对患者密切观察与护理，以防止发生并发症，如气管导管或血管内导管移位。
+
+【手段和模式参考】
+1.Marini JJ, Smith TC, Lamb VJ: External work output and force generation during synchronized intermittent mechanical ventilation.Effect of machine assistance on breathing effort.Am Rev Respir Dis138(5):1169–1179, 1988.doi:10.1164/ajrccm/138.5.1169
+1.Marini JJ, Smith TC, Lamb VJ: External work output and force generation during synchronized intermittent mechanical ventilation.Effect of machine assistance on breathing effort.Am Rev Respir Dis138(5):1169–1179, 1988.doi:10.1164/ajrccm/138.5.1169
+2.Esteban A, Frutos F, Tobin MJ, et al: A comparison of four methods of weaning patients from mechanical ventilation.Spanish Lung Failure Collaborative Group.N Engl J Med1995;332(6):345–350, 1995.doi:10.1056/NEJM199502093320601
+2.Esteban A, Frutos F, Tobin MJ, et al: A comparison of four methods of weaning patients from mechanical ventilation.Spanish Lung Failure Collaborative Group.N Engl J Med1995;332(6):345–350, 1995.doi:10.1056/NEJM199502093320601
+3.Rittayamai N, Katsios CM, Beloncle F, Friedrich JO, Mancebo J, Brochard L.Pressure-Controlled vs Volume-Controlled Ventilation in Acute Respiratory Failure: A Physiology-Based Narrative and Systematic Review.Chest148(2):340–355, 2015.doi:10.1378/chest.14-3169
+3.Rittayamai N, Katsios CM, Beloncle F, Friedrich JO, Mancebo J, Brochard L.Pressure-Controlled vs Volume-Controlled Ventilation in Acute Respiratory Failure: A Physiology-Based Narrative and Systematic Review.Chest148(2):340–355, 2015.doi:10.1378/chest.14-3169
+4.Subirà C, Hernández G, Vázquez A, et al: Effect of Pressure Support vs T-Piece Ventilation Strategies During Spontaneous Breathing Trials on Successful Extubation Among Patients Receiving Mechanical Ventilation: A Randomized Clinical Trial [published correction appears inJAMA2019 Aug 20;322(7):696].JAMA321(22):2175–2182, 2019.doi:10.1001/jama.2019.7234
+4.Subirà C, Hernández G, Vázquez A, et al: Effect of Pressure Support vs T-Piece Ventilation Strategies During Spontaneous Breathing Trials on Successful Extubation Among Patients Receiving Mechanical Ventilation: A Randomized Clinical Trial [published correction appears inJAMA2019 Aug 20;322(7):696].JAMA321(22):2175–2182, 2019.doi:10.1001/jama.2019.7234
+5.Serpa Neto A, Cardoso SO, Manetta JA, et al: Association between use of lung-protective ventilation with lower tidal volumes and clinical outcomes among patients without acute respiratory distress syndrome: A meta-analysis.JAMA308:1651–1659, 2012.doi: 10.1001/jama.2012.13730
+5.Serpa Neto A, Cardoso SO, Manetta JA, et al: Association between use of lung-protective ventilation with lower tidal volumes and clinical outcomes among patients without acute respiratory distress syndrome: A meta-analysis.JAMA308:1651–1659, 2012.doi: 10.1001/jama.2012.13730
+6.Guay J, Ochroch EA, Kopp S: Intraoperative use of low volume ventilation to decrease postoperative mortality, mechanical ventilation, lengths of stay and lung injury in adults without acute lung injury.Cochrane Database Syst RevJul; 2018(7): CD011151, 2018.doi: 10.1002/14651858.CD011151.pub3
+6.Guay J, Ochroch EA, Kopp S: Intraoperative use of low volume ventilation to decrease postoperative mortality, mechanical ventilation, lengths of stay and lung injury in adults without acute lung injury.Cochrane Database Syst RevJul; 2018(7): CD011151, 2018.doi: 10.1002/14651858.CD011151.pub3
+7.Neto AS, Simonis FD, Barbas CS, et al: Lung-protective ventilation with low tidal volumes and the occurrence of pulmonary complications in patients without acute respiratory distress syndrome: A systematic review and individual patient data analysis.Crit Care Med43:2155–2163, 2015.doi: 10.1097/CCM.0000000000001189
+7.Neto AS, Simonis FD, Barbas CS, et al: Lung-protective ventilation with low tidal volumes and the occurrence of pulmonary complications in patients without acute respiratory distress syndrome: A systematic review and individual patient data analysis.Crit Care Med43:2155–2163, 2015.doi: 10.1097/CCM.0000000000001189
+8.Futier E, Constantin JM, Paugam-Burtz C, et al: A trial of intraoperative low-tidal-volume ventilation in abdominal surgery.N Engl J Med369:428–437, 2013.doi: 10.1056/NEJMoa1301082
+8.Futier E, Constantin JM, Paugam-Burtz C, et al: A trial of intraoperative low-tidal-volume ventilation in abdominal surgery.N Engl J Med369:428–437, 2013.doi: 10.1056/NEJMoa1301082
+9.Yang M, Ahn HJ, Kim K, et al: Does a protective ventilation strategy reduce the risk of pulmonary complications after lung cancer surgery?A randomized controlled trial.Chest139:530–537, 2011.doi: 10.1378/chest.09-2293
+9.Yang M, Ahn HJ, Kim K, et al: Does a protective ventilation strategy reduce the risk of pulmonary complications after lung cancer surgery?A randomized controlled trial.Chest139:530–537, 2011.doi: 10.1378/chest.09-2293
+10.Richter T, Bellani G, Scott Harris R, et al: Effect of prone position on regional shunt, aeration, and perfusion in experimental acute lung injury.Am J Respir Crit Care Med172(4):480–487, 2005.doi:10.1164/rccm.200501-004OC
+10.Richter T, Bellani G, Scott Harris R, et al: Effect of prone position on regional shunt, aeration, and perfusion in experimental acute lung injury.Am J Respir Crit Care Med172(4):480–487, 2005.doi:10.1164/rccm.200501-004OC
+11.Guérin C, Reignier J, Richard JC, et al: Prone positioning in severe acute respiratory distress syndrome.N Engl J Med368(23):2159–2168, 2013.doi: 10.1056/NEJMoa1214103.
+11.Guérin C, Reignier J, Richard JC, et al: Prone positioning in severe acute respiratory distress syndrome.N Engl J Med368(23):2159–2168, 2013.doi: 10.1056/NEJMoa1214103.
+12.Scholten EL, Beitler JR, Prisk GK, et al: Treatment of ARDS with prone positioning.Chest151:215–224, 2017.doi: 10.1016/j.chest.2016.06.032.Epub 2016 Jul 8
+12.Scholten EL, Beitler JR, Prisk GK, et al: Treatment of ARDS with prone positioning.Chest151:215–224, 2017.doi: 10.1016/j.chest.2016.06.032.Epub 2016 Jul 8
+13.Ehrmann S, Li J, Ibarra-Estrada M, et al: Awake prone positioning for COVID-19 acute hypoxaemic respiratory failure: a randomised, controlled, multinational, open-label meta-trial.Lancet Respir Med9(12):1387–1395, 2021. doi: 10.1016/S2213-2600(21)00356-8
+13.Ehrmann S, Li J, Ibarra-Estrada M, et al: Awake prone positioning for COVID-19 acute hypoxaemic respiratory failure: a randomised, controlled, multinational, open-label meta-trial.Lancet Respir Med9(12):1387–1395, 2021. doi: 10.1016/S2213-2600(21)00356-8
+
+【机械通气时的镇静和舒适】
+尽管许多患者无需镇静剂也能耐受经气管插管的机械通气，但有些患者需要静脉给予镇静剂（如丙泊酚、劳拉西泮、咪达唑仑）和镇痛剂（如吗啡、芬太尼），以减轻应激和焦虑。 这些药物一定程度上也能降低能量消耗，进而减少二氧化碳的产生和氧气的消耗。根据标准镇静/镇痛评分系统(如里士满躁动镇静量表，Riker镇静-焦虑量表)调整药物剂量至预期效果。ARDS患者在行机械通气时通常需要较大剂量的镇静剂和止痛剂。 使用丙泊酚超过24-48小时者，应定期（如每48小时）监测血清甘油三酯水平。 有证据表明，持续静脉镇静会延长机械通气时间 (1)。因此，镇静目标是充分但不过度，可通过每日中断的持续镇静方案或间歇性输注来实现。
+机械通气患者不常规使用神经肌肉阻滞剂，因为存在导致长期神经肌肉无力以及需要深度持续镇静的风险；然而，一项研究显示，接受48小时神经肌肉阻滞剂治疗的早期重症ARDS患者，其90天死亡率有所下降(2)。不幸的是，这些发现并没有在 ARDS 早期神经肌肉阻滞的更大后续研究中得到复制，将其与没有神经肌肉阻滞的较轻镇静进行比较 (3)。 因此，不建议对严重 ARDS 进行常规麻痹。 然而，有些患者可能受益于神经肌肉阻滞，包括无法耐受某些更复杂机械通气模式的患者，以及为防止心脏骤停后采用低温疗法时患者发生寒战。
+
+【镇静和舒适度参考文献】
+1.Kollef MH, Levy NT, Ahrens TS, Schaiff R, Prentice D, Sherman G: The use of continuous i.v.sedation is associated with prolongation of mechanical ventilation.Chest114(2):541–548, 1998.doi: 10.1378/chest.114.2.541
+1.Kollef MH, Levy NT, Ahrens TS, Schaiff R, Prentice D, Sherman G: The use of continuous i.v.sedation is associated with prolongation of mechanical ventilation.Chest114(2):541–548, 1998.doi: 10.1378/chest.114.2.541
+2.Papazian L, Forel JM, Gacouin A, et al: Neuromuscular blockers in early acute respiratory distress syndrome.N Engl J Med363:1107–1116, 2010.doi: 10.1056/NEJMoa1005372
+2.Papazian L, Forel JM, Gacouin A, et al: Neuromuscular blockers in early acute respiratory distress syndrome.N Engl J Med363:1107–1116, 2010.doi: 10.1056/NEJMoa1005372
+3.National Heart, Lung, and Blood Institute PETAL Clinical Trials Network, Moss M, Huang DT, Brower RG, et al: Early neuromuscular blockade in the acute respiratory distress syndrome.N Engl J Med380(21):1997–2008, 2019.doi:10.1056/NEJMoa1901686
+3.National Heart, Lung, and Blood Institute PETAL Clinical Trials Network, Moss M, Huang DT, Brower RG, et al: Early neuromuscular blockade in the acute respiratory distress syndrome.N Engl J Med380(21):1997–2008, 2019.doi:10.1056/NEJMoa1901686
+
+【机械通气的并发症和安全措施】
+机械通气的并发症可分为以下几类原因所致：
+气管插管:
+气管插管:
+机械通气本身
+机械通气本身
+长时间不动
+长时间不动
+
+【气管插管并发症】
+气管插管的存在会增加鼻窦炎（通常临床意义不大）、呼吸机相关性肺炎、气管狭窄、声带损伤的风险，极少数情况下还会引起气管-食管瘘或气管-血管瘘。
+对于在开始通气>48小时后出现发热、白细胞计数升高且气管内吸出脓性分泌物的患者，应考虑呼吸机相关性肺炎。
+
+【机械通气并发症】
+持续机械通气本身的并发症包括
+气胸和肺大泡
+气胸和肺大泡
+呼吸机相关性肺损伤
+呼吸机相关性肺损伤
+气胸，包括张力性气胸，以及肺气囊（肺大疱）都是风险，尤其是在高压通气时。若机械通气病人出现急性低血压，特别是伴有心动过速和（或）吸气峰压突然升高时，必须考虑张力性气胸；应立即胸部查体和胸片检查（如查体可确诊，应立即予以治疗）。
+然而，低血压更常见的原因是，为便于插管和通气而使用的镇静剂或阿片类药物导致了交感神经阻滞。对于接受高水平PEEP治疗的患者，或因哮喘或COPD导致高水平内源性PEEP的患者，胸腔内压增高导致静脉回流减少也可引起低血压。如查体没有张力性气胸的体征，但又考虑低血压与机械通气相关，可在等待床旁胸片时，断开病人与呼吸机的连接，以100%O2吸入并用球囊以2～3次/分的频率手动加压辅助通气，同时予以补液扩容（如成人用500～1000mL的生理盐水，儿童按20mL/kg计）。若情况迅速改善则提示低血压和机械通气有关，应根据情况调整呼吸机设置。
+氧中毒是指长时间暴露于高吸入氧浓度（例如，FiO2>0.6）后可能发生的炎症性改变、肺泡浸润，并最终发展为肺纤维化。毒性呈浓度和时间依赖性。应避免使用FiO2>0.6，除非为维持生命所必需。FiO2 <0.6长期耐受性好。
+呼吸机相关性肺损伤(VALI)，有时也称呼吸机所致肺损伤，是与机械通气相关的肺泡和/或小气道损伤。可能的机制包括肺泡过度膨胀（即容积伤）以及由肺泡反复开放和塌陷（即萎陷伤）产生的剪切力，这导致炎性介质的释放，从而引起肺泡通透性增加、液体积聚和表面活性物质减少。这些炎症介质可导致更多的肺和远端器官损伤（生物创伤）。
+
+【经验与提示】
+经验与提示
+如果接受机械通气的患者出现急性低血压，特别是伴有心动过速和/或吸气峰压突然升高时，应怀疑为张力性气胸，并考虑立即进行针刺或管状胸腔造口术。
+如果接受机械通气的患者出现急性低血压，特别是伴有心动过速和/或吸气峰压突然升高时，应怀疑为张力性气胸，并考虑立即进行针刺或管状胸腔造口术。
+
+【无法活动导致的并发症】
+相对不活动会增加静脉血栓栓塞性疾病（如深静脉血栓形成、肺栓塞）、皮肤压疮和肺不张的风险。此外，机械通气后，不动可能会造成长期残疾。
+
+【减少机械通气并发症的保障措施】
+多数医院都有减少并发症的标准防护方案。将床头抬高 > 30° 可降低呼吸机相关性肺炎的风险，每2小时常规为患者翻身可降低皮肤压疮的风险（参见压力性损伤的预防）。
+所有接受机械通气治疗的患者均应预防深静脉血栓的治疗，每天皮下注射2至3次5000单位肝素或低分子肝素，存在肝素禁忌时，可使用持续加压装置或磺达肝癸钠。
+预防消化道出血可予H2受体阻滞剂（如口服或静脉用法莫替丁20mg，一天2次）或硫糖铝（1g一天4次口服）。质子泵抑制剂可用于既往有用药指征或有活动性出血的病人。
+对病人必须常规进行营养评估，若估计机械通气持续时间较长，应予置管行肠内营养。
+减少机械通气并发症最有效的方法是缩短机械通气时间。每日镇静中断和自主呼吸训练有助于患者撤除机械支持。

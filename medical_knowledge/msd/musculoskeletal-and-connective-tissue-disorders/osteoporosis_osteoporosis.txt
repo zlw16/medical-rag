@@ -1,0 +1,332 @@
+标题：骨质疏松症
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/osteoporosis/osteoporosis
+============================================================
+
+
+【骨质疏松症的病理生理学】
+骨是在不断形成和再吸收一般来说，骨形成与骨再吸收是相对平衡的。成骨细胞（构成骨骼有机基质然后矿化骨骼的细胞）和破骨细胞（吸收骨骼的细胞）受甲状旁腺激素（PTH）、降钙素、雌激素、维生素 D、各种细胞因子和其他局部因子（如前列腺素）的调节。
+男性和女性的正常骨量高峰出现于30岁左右。男性的骨量超过女性。(先前表明具有非洲血统的人达到更高的峰值骨量的数据目前受到质疑。)在达到骨量峰值后，骨峰量维持约10年。这期间，骨转化平衡，即骨形成与骨吸收基本相等。从更年期开始，女性的骨质流失加速到每年约2%，持续约10年，然后流失速度减慢（1）。
+骨质疏松时骨量丢失同时影响皮质和骨小梁骨（骨松质）。骨皮质变薄，网状骨骨小梁数目及体积减少，导致空隙增加。骨小梁受损甚至完全消失。骨小梁的减少比皮质骨迅速，因为骨小梁更具微孔状，骨更新更快。然而，这两种骨流失均导致骨骼变脆。
+
+【脆性骨折】
+脆性骨折是指在比正常骨骨折预期的创伤小的情况下发生的骨折。从一个直立高度（或更低）跌落（包括从床上掉下来）所导致的骨折通常被认为是脆性骨折。脆性骨折发生最常见的部位如下：
+脊柱（胸腰椎压缩性骨折，最常见的骨质疏松症相关的骨折）
+脊柱（胸腰椎压缩性骨折，最常见的骨质疏松症相关的骨折）
+桡骨远端
+桡骨远端
+其他部位可能包括肱骨近端和骨盆。
+鼻子,肋骨,锁骨, 髌骨和跖骨等部位的骨折不考虑为与骨质疏松症相关的骨折。
+
+【病理生理学参考文献】
+1.Finkelstein JS, Brockwell SE, Mehta V, et al.Bone mineral density changes during the menopause transition in a multiethnic cohort of women.J Clin Endocrinol Metab.93(3):861-868, 2008.doi:10.1210/jc.2007-1876
+1.Finkelstein JS, Brockwell SE, Mehta V, et al.Bone mineral density changes during the menopause transition in a multiethnic cohort of women.J Clin Endocrinol Metab.93(3):861-868, 2008.doi:10.1210/jc.2007-1876
+
+【骨质疏松症的分类】
+骨质疏松症可发展为骨转换的原发性疾病或继发由于一些其他因素。骨折发生的部位在原发和继发性骨质疏松中类似。
+
+【原发性骨质疏松】
+几乎所有男性和女性骨质疏松症的发生都是原发性的，没有可识别的根本原因。大多数病例发生于绝经期后女性和老年男性。然而，某些情况可能会加速原发性骨质疏松症患者的骨质流失。 性腺功能不全是男性和女性的一个重要因素；其他因素包括钙摄入量减少、维生素 D 水平低、某些药物和甲状旁腺功能亢进。 有些患者由于在骨骼生长的青少年阶段Ca摄入不足，因此从来未达到理想的过峰值骨量。
+骨丢失的主要机制为骨吸收增加，导致骨量减少和骨微结构退化，但同时骨形成也受损。骨量减少的机制包括以下：
+细胞因子产生的局部变化，特别是涉及诸如核因子κB受体活化因子配体 [RANKL] 等细胞因子，通过促进活性破骨细胞的分化和成熟来增加骨吸收。
+细胞因子产生的局部变化，特别是涉及诸如核因子κB受体活化因子配体 [RANKL] 等细胞因子，通过促进活性破骨细胞的分化和成熟来增加骨吸收。
+骨重塑过程中合成反应受损 可能由成骨细胞数量和活性出现与年龄相关的减退所致 ，部分与细胞因子介导的硬化蛋白增加有关
+骨重塑过程中合成反应受损 可能由成骨细胞数量和活性出现与年龄相关的减退所致 ，部分与细胞因子介导的硬化蛋白增加有关
+其他影响骨吸收的因素如甲状旁腺激素（PTH）和维生素D水平异常
+其他影响骨吸收的因素如甲状旁腺激素（PTH）和维生素D水平异常
+特发性骨质疏松症是指儿童、青少年、绝经前妇女或低于50岁且性腺功能正常且没有检测到其他原因的男性中发生的罕见的脆性骨折，包括与年龄相关的低骨量（双能x射线吸收仪[DXA]扫描的Z评分低）的患者。
+
+【继发性骨质疏松】
+在绝经后女性中，继发性骨质疏松症占骨质疏松症的比例高达30%，在绝经前女性中>50%，在男性中为 50% 至 80%（1）。这些诱因(见表继发性骨质疏松症的原因) 可进一步加速原发性骨质疏松患者的骨丢失和增加骨折的风险。
+患有慢性肾病的患者可能存在多种导致骨量减少的因素，包括继发性甲状旁腺功能亢进、血磷升高、骨化三醇缺乏、血钙与维生素D异常、骨软化症以及低骨转换性骨病（如无动力型骨病）。
+
+【继发性骨质疏松症的原因】
+继发性骨质疏松症的原因
+癌症（如多发性骨髓瘤）
+COPD（慢性阻塞性肺病）由于疾病和吸烟、身体活动减少以及使用糖皮质激素治疗引起
+慢性肾脏病
+药物和物质（如长期使用糖皮质激素、抗癫痫药物、甲羟孕酮、芳香酶抑制剂、罗格列酮、吡格列酮、甲状腺替代治疗、肝素、乙醇、烟草、质子泵抑制剂、H2受体阻滞剂）
+内分泌疾病（如库欣综合征、甲状旁腺功能亢进、甲亢、性腺功能下降、高催乳素血症、糖尿病）
+高尿钙症
+低磷酸酯酶症
+低磷血症（慢性）
+维生素D缺乏症。
+吸收不良综合征
+长期体重减轻（如太空飞行）
+类风湿关节炎
+
+【分类参考文献】
+1.Ebeling PR, Nguyen HH, Aleksova J, et al.Secondary Osteoporosis.Endocr Rev.2022;43(2):240-313.doi:10.1210/endrev/bnab028
+1.Ebeling PR, Nguyen HH, Aleksova J, et al.Secondary Osteoporosis.Endocr Rev.2022;43(2):240-313.doi:10.1210/endrev/bnab028
+
+【骨质疏松症的危险因素】
+因为机械应力（包括负重）是骨骼生长必需的，所以固定或久坐会导致骨质流失。低体重指数诱发骨量减少。
+钙、磷、镁和维生素D摄入不足也会导致骨量丢失，如内源性酸中毒。烟草和酒精使用同样对骨量造成不良影响。骨质疏松症家族史，尤其是父母有髋部骨折史，也会增加风险。发生过脆性骨折的患者出现其他临床（症状性）骨折和临床无症状性椎骨压缩性骨折的风险增加。
+包括非西班牙裔白人和亚洲女性在内的某些人群被认为比其他群体患骨质疏松症的风险更高（1）。然而，这些所谓的群体差异可能更为复杂，并受到健康社会决定因素的影响。因此，骨折风险的评估应使用特定人群的风险计算器，而非包含种族和民族因素的工具（2）。
+
+【危险因素参考】
+1.Noel SE, Santos MP, Wright NC.Racial and Ethnic Disparities in Bone Health and Outcomes in the United States.J Bone Miner Res.2021;36(10):1881-1905.doi:10.1002/jbmr.4417
+1.Noel SE, Santos MP, Wright NC.Racial and Ethnic Disparities in Bone Health and Outcomes in the United States.J Bone Miner Res.2021;36(10):1881-1905.doi:10.1002/jbmr.4417
+2.Leslie WD; ASBMR Task Force on Clinical Algorithms for Fracture Risk.Effect of Race/Ethnicity on United States FRAX Calculations and Treatment Qualification: A Registry-Based Study.J Bone Miner Res.2023;38(12):1742-1748.doi:10.1002/jbmr.4896
+2.Leslie WD; ASBMR Task Force on Clinical Algorithms for Fracture Risk.Effect of Race/Ethnicity on United States FRAX Calculations and Treatment Qualification: A Registry-Based Study.J Bone Miner Res.2023;38(12):1742-1748.doi:10.1002/jbmr.4896
+
+【骨质疏松症的症状和体征】
+除非发生骨折，否则骨质疏松患者一般无明显症状。非脊椎骨折通常是有症状的，而大约三分之二的椎体压缩性骨折是无症状的（尽管患者可能有潜在的由于其他原因导致的慢性背部疼痛，如骨关节炎）。椎体压缩性骨折的症状通常始于急性发作的疼痛，但无明显放射性，负重时疼痛加重，可能还伴有棘突的压痛，一般1周内减退。残余疼痛可能持续数月或持续，在这种情况下，应怀疑有额外的骨折或潜在的脊柱疾病(包括恶性肿瘤或感染)。
+多发性胸椎压缩性骨折可随着颈椎的前凸（dowager’s峰）导致驼背。由于脊柱肌肉与韧带处于异常紧张状态，引起慢性的钝痛或酸痛，尤其是在腰背部。患者可能由于胸廓内容量减少和/或由于胸腔接近骨盆时对腹腔的压迫而导致早期的饱腹感而出现呼吸短促。
+
+【骨质疏松症的诊断】
+双能X线骨密度仪（DXA）
+双能X线骨密度仪（DXA）
+存在脆性骨折
+存在脆性骨折
+虽然低骨矿物密度（与骨折相关的风险增加）可通过影像学检查提示，但它必须通过骨密度测量来确认。通常使用DXA；定量CT扫描可以产生类似的骨矿物质密度测量值，但尚未广泛使用。
+另外，骨质疏松症也可根据脆性骨折的发生进行诊断，无需考虑骨密度评分。该诊断标准尤其适用于脊柱、髋部、肱骨或桡骨远端骨折。
+
+【双能X线骨密度仪（DXA）】
+应使用DXA扫描测量骨密度，以用于筛选高风险人群、提供骨质流失的定量测量、帮助预测骨折风险、并监测接受治疗的人 (1)。在 DXA 扫描中，使用高能和低能 X 射线（因此称为“双能”）对目标区域（通常是脊柱和一侧或双侧臀部）进行成像。高能束和低能束之间的衰减差异是骨矿物质含量的反映。骨矿物质含量除以骨面积（也在 DXA 扫描中测量）是骨矿物质密度，单位为 g/cm2。 目标区域存在显著的骨关节炎可能使报告的骨密度值偏高。
+若脊柱或髋关节不适用DXA精确评估（如因全髋置换或脊柱融合内固定物），可扫描桡骨远端（报告称“1/3桡骨”）。甲状旁腺功能亢进的患者也应进行桡骨远端的扫描，因为这是甲状旁腺功能亢进患者骨质疏松最常见的部位。
+DXA结果的报告用T值和Z值表示。
+T值是指患者骨矿物质密度与相同性别、人种/种族的健康青年人的平均峰值骨量比较所得的标准差数。世界卫生组织规定了定义骨量减少和骨质疏松症T值的临界值 (2)。T值<-1.0且> -2.5定义为骨量减少。T值≤-2.5定义骨质疏松症。
+Z值是指患者骨密度与相同年龄、性别的正常青年人平均骨密度比较所得的标准差数，可用于儿童、绝经前女性，或 <50岁男性。如果Z值≤-2.0，则考虑到该患者年龄后，其骨矿物质密度降低，应考虑患者继发原因。
+该图是DXA扫描报告示例。图中浅蓝色区域代表骨质减少，深蓝色区域表示骨质疏松。患者的骨密度值由每个图表中圆圈内的“+”号表示。
+Image courtesy of Marcy B.Bolster, MD.
+DXA扫描推荐用于以下患者 (1,3)：
+所有≥65岁的女性
+所有≥65岁的女性
+绝经至65岁之间有骨质疏松家族史、低体重指数、吸烟、过量饮酒（例如FRAX评分中每天>3标准饮酒量）和/或使用有高骨质流失风险的药物（例如糖皮质激素、芳香酶抑制剂）等风险因素的女性
+绝经至65岁之间有骨质疏松家族史、低体重指数、吸烟、过量饮酒（例如FRAX评分中每天>3标准饮酒量）和/或使用有高骨质流失风险的药物（例如糖皮质激素、芳香酶抑制剂）等风险因素的女性
+任何年龄曾发生过1次或多次脆性骨折的患者（男性和女性）
+任何年龄曾发生过1次或多次脆性骨折的患者（男性和女性）
+影像学证据提示有骨矿物质密度降低或无症状的椎体压缩性骨折的表现
+影像学证据提示有骨矿物质密度降低或无症状的椎体压缩性骨折的表现
+继发性骨质疏松症的风险因素
+继发性骨质疏松症的风险因素
+双能X线吸收测定法（DXA） 扫描还可以评估下胸椎和腰椎的椎体畸形，这一过程称为椎体骨折评估 （VFA），可以在使用 DXA 进行骨密度测试期间进行（4）。没有外伤的椎体压缩畸形，即使是那些临床无症状的，都是骨质疏松症的诊断，并预示着未来骨折的风险增加。VFA在身高丢失≥3厘米的患者中有用。如果VFA结果显示可疑异常，则应进行X线平片检查以确诊。
+对骨质疏松症患者是否需要药物治疗，是基于其未来骨折的风险概率来判断的，而这一概率不仅与双能X线吸收测定法（DXA）的结果有关，还与其他因素相关。骨折风险评估（FRAX）评分(见骨折风险评估工具）可预测未经治疗的患者在10年内发生严重骨质疏松（髋、脊柱、前臂或肱骨）骨折的概率。该评分考虑了骨丢失和骨折的几个重要风险因素，包括骨矿物质密度、多种临床特征和患者的原籍国（以考虑观察到的人群差异）。如果FRAX评分高于特定阈值（在美国，主要骨质疏松性骨折概率≥20%或髋部骨折概率≥3%），通常建议进行药物治疗(5)。FRAX 评分的使用存在局限性，因为它没有考虑多种因素，包括跌倒史或跌倒风险增加、患者腰椎骨矿物质密度值或椎骨骨折家族史。
+
+【射线照片】
+骨质疏松症患者的骨骼在X线片上通常表现为放射密度降低和骨小梁结构丧失，但仅凭这些表现不足以作出诊断。然而，X线片对诊断骨质流失所致的骨折有重要参考价值。椎体高度丢失和双面凸的弧度增加是椎体压缩性骨折的特征。 胸椎骨折可能导致椎骨前向楔形改变。骨质疏松导致的脊椎骨折最常发生于胸椎中段（6）。胸椎中段以上的椎体骨折应考虑恶性肿瘤或创伤作为病因。对于患有严重背痛和局部脊椎棘突压痛的老年患者以及报告身高损失>3cm的患者，应考虑检查脊柱X线以寻找无症状的椎体脆性骨折。
+该 X 光片显示第一腰椎（L1；箭头）有严重的骨质疏松性压缩骨折。
+Photo courtesy of Marcy B.Bolster, MD.
+皮质类固醇相关的骨质疏松症，也称为糖皮质激素诱发的骨质疏松症（GIOP），最有可能导致椎体压缩性骨折，但也可能导致其他骨质疏松性骨折常见部位的骨折（7）。出现骨皮质下吸收或囊性骨侵蚀时则应考虑甲状旁腺功能亢进（较少见）。骨质软化症的影像学异常与骨质疏松相似。
+
+【骨质疏松症和骨质软化症的鉴别】
+骨质疏松症和骨质软化症的鉴别
+骨质疏松症和骨质软化症这两种代谢性骨病都可引起骨量减少。
+骨质疏松症中，骨量虽然减少，但骨矿物质与骨基质的比例并未改变。
+而骨质软化症的骨矿物质与骨基质的比例降低。
+骨质疏松症缘于骨峰量减少、骨吸收增加和骨生成障碍的综合作用。骨质软化是由于矿化受损所致，通常是由于严重的维生素D缺乏或维生素D代谢异常（见表维生素D）。骨质软化可由干扰维生素D吸收的疾病（如乳糜泻）和某些药物（如抗惊厥药）引起。在美国，骨质疏松症比骨软化症更为常见。两种疾病可能共存，临床表现相似；此外，骨质疏松症患者可能存在轻度至中度维生素 D缺乏症。
+如果患者有骨痛、复发性肋骨或其他不寻常的骨折，并且维生素D水平一直很低，则应怀疑骨软化症。为明确区分这两种疾病，临床医生可以做一个四环素标记骨活检，但这是几乎不被批准的。
+
+【其他检查方法】
+对于Z值≤-2.0患者，应考虑评估骨质流失的继发性原因。通常需要包括以下的实验室检查：
+血清钙、镁和磷
+血清钙、镁和磷
+25-羟基维生素D水平
+25-羟基维生素D水平
+肝功能试验，包括低碱性磷酸酶（低磷酸酯酶症）
+肝功能试验，包括低碱性磷酸酶（低磷酸酯酶症）
+完整PTH水平（甲状旁腺功能亢进）
+完整PTH水平（甲状旁腺功能亢进）
+男性血清睾酮（(性腺机能减退）
+男性血清睾酮（(性腺机能减退）
+24小时尿钙和肌酐（高钙尿症）
+24小时尿钙和肌酐（高钙尿症）
+根据临床表现，应考虑进行其他检测，如促甲状腺激素或游离甲状腺素检测以评估甲状腺功能亢进，24小时尿游离皮质醇测定以评估库欣综合征，以及血细胞计数和其他检查以排除癌症，尤其是骨髓瘤（如血清蛋白电泳、血清游离轻链、尿蛋白电泳）。
+体重减轻的患者应筛查消化道疾病（如吸收不良，乳糜泻，炎症性肠病）以及肿瘤。特殊情况下可行骨活检（如，无明显诱因的年轻患者的脆性骨折，可能合并其他骨骼疾病的慢性肾脏疾病患者，以及持续低维生素D水平怀疑有骨软化症的患者）。
+空腹血清C-端肽交联（CTX）或尿N-端肽交联（NTX）的水平反映了骨吸收的增加。然而，检测的可靠性各不相同，这使得它们在常规临床护理中的实用性变得复杂。这些检测应作为晨起空腹实验室检查进行。研究表明，CTX 和 NTX 水平升高可能有助于预测未经治疗的患者的骨折风险 。这些骨转换标志物可能有助于监测对抗骨吸收治疗的反应，并确定药物假期的时机和持续时间（8）。在接受抗吸收治疗的患者中，应显着抑制水平。如果不是，则应怀疑吸收异常或对治疗方案依从性差。
+
+【诊断参考】
+1.US Preventive Services Task Force, Nicholson WK, Silverstein M, et al.Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement.JAMA333(6):498-508, 2025.doi:10.1001/jama.2024.27154
+1.US Preventive Services Task Force, Nicholson WK, Silverstein M, et al.Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement.JAMA333(6):498-508, 2025.doi:10.1001/jama.2024.27154
+2.Kanis JA, McCloskey EV, Johansson H, et al.A reference standard for the description of osteoporosis.Bone42(3):467-475, 2008.doi:10.1016/j.bone.2007.11.001
+2.Kanis JA, McCloskey EV, Johansson H, et al.A reference standard for the description of osteoporosis.Bone42(3):467-475, 2008.doi:10.1016/j.bone.2007.11.001
+3.Kahwati LC, Kistler CE, Booth G, et al.Screening for Osteoporosis to Prevent Fractures: A Systematic Evidence Review for the US Preventive Services Task Force.JAMA.333(6):509-531, 2025.doi:10.1001/jama.2024.21653
+3.Kahwati LC, Kistler CE, Booth G, et al.Screening for Osteoporosis to Prevent Fractures: A Systematic Evidence Review for the US Preventive Services Task Force.JAMA.333(6):509-531, 2025.doi:10.1001/jama.2024.21653
+4.Expert Panel on Musculoskeletal Imaging, Yu JS, Krishna NG, et al.ACR Appropriateness Criteria® Osteoporosis and Bone Mineral Density: 2022 Update.J Am Coll Radiol.2022;19(11S):S417-S432.doi:10.1016/j.jacr.2022.09.007
+4.Expert Panel on Musculoskeletal Imaging, Yu JS, Krishna NG, et al.ACR Appropriateness Criteria® Osteoporosis and Bone Mineral Density: 2022 Update.J Am Coll Radiol.2022;19(11S):S417-S432.doi:10.1016/j.jacr.2022.09.007
+5.Siris ES, Adler R, Bilezikian J, et al.The clinical diagnosis of osteoporosis: a position statement from the National Bone Health Alliance Working Group.Osteoporos Int.25(5):1439-1443, 2014.doi:10.1007/s00198-014-2655-z
+5.Siris ES, Adler R, Bilezikian J, et al.The clinical diagnosis of osteoporosis: a position statement from the National Bone Health Alliance Working Group.Osteoporos Int.25(5):1439-1443, 2014.doi:10.1007/s00198-014-2655-z
+6.Alsoof D, Anderson G, McDonald CL, et al.Diagnosis and management of vertebral compression fracture.Am J Med.135(7):815-821, 2022.doi:10.1016/j.amjmed.2022.02.035
+6.Alsoof D, Anderson G, McDonald CL, et al.Diagnosis and management of vertebral compression fracture.Am J Med.135(7):815-821, 2022.doi:10.1016/j.amjmed.2022.02.035
+7.Van Staa TP, Leufkens HG, Abenhaim L, et al.Use of oral corticosteroids and risk of fractures.J Bone Miner Res.15(6):993-1000, 2000.doi:10.1359/jbmr.2000.15.6.993
+7.Van Staa TP, Leufkens HG, Abenhaim L, et al.Use of oral corticosteroids and risk of fractures.J Bone Miner Res.15(6):993-1000, 2000.doi:10.1359/jbmr.2000.15.6.993
+8.Lorentzon M, Branco J, Brandi ML et al.Algorithm for the use of biochemical markers of bone turnover in the diagnosis, assessment, and follow-up or treatment of osteoporosis.Adv Ther.36(10): 2811–2824, 2019.doi: 10.1007/s12325-019-01063-9
+8.Lorentzon M, Branco J, Brandi ML et al.Algorithm for the use of biochemical markers of bone turnover in the diagnosis, assessment, and follow-up or treatment of osteoporosis.Adv Ther.36(10): 2811–2824, 2019.doi: 10.1007/s12325-019-01063-9
+
+【骨质疏松症的治疗】
+纠正危险因素
+纠正危险因素
+通过膳食摄入或使用补充剂确保钙和维生素D充足
+通过膳食摄入或使用补充剂确保钙和维生素D充足
+抗骨质重吸收药物（如二膦酸盐、激素替代疗法、选择性雌激素受体调节剂、核因子κB配体[RANKL]抑制剂[denosumab]的受体激动剂）
+抗骨质重吸收药物（如二膦酸盐、激素替代疗法、选择性雌激素受体调节剂、核因子κB配体[RANKL]抑制剂[denosumab]的受体激动剂）
+合成代谢药物（例如甲状旁腺激素 (PTH) 类似物，如特立帕肽和阿巴帕肽）
+合成代谢药物（例如甲状旁腺激素 (PTH) 类似物，如特立帕肽和阿巴帕肽）
+Romosozumab，一种抗硬化蛋白的单克隆抗体，具有抗吸收和合成代谢作用
+Romosozumab，一种抗硬化蛋白的单克隆抗体，具有抗吸收和合成代谢作用
+骨质疏松症的治疗目标是保持骨量、预防骨折、减轻疼痛和维持功能。
+药物可以减缓骨质流失的速度 ，但摄入足够的钙和维生素 D 以及进行体育锻炼对于保持最佳的骨矿物质密度至关重要。 应该关注可纠正的危险因素。
+
+【纠正危险因素】
+风险因素修改旨在降低骨质疏松症的风险和骨折的风险。措施包括：
+负重锻炼
+负重锻炼
+适度摄入酒精
+适度摄入酒精
+跌倒预防措施
+跌倒预防措施
+负重运动可以帮助增加骨矿物质密度 (1)。负重锻炼的运动量无明确要求，一般推荐平均30分钟/天 (2)。然而，绝经前女性过度运动而饮食热量摄入不足可能会导致体重减轻和闭经，进而导致骨质流失。如果饮酒，女性每天的摄入量不应超过 1 杯，男性每天不应超过 2 杯。
+临床医生应定期询问近期的跌倒情况，否则应评估跌倒风险。 许多老年人容易跌倒，因为其协调平衡能力差、视力减退、肌肉无力、思维混乱以及使用致体位性低血压药物和刺激感觉中枢的药物等有关。物理治疗师可以评估患者的步态和跌倒风险，并帮助制定安全的个性化核心强化锻炼计划，以帮助提高稳定性并降低跌倒风险。教育患者了解跌倒和骨折的风险、指导其如何安全地进行日常活动，以及改变家庭环境以确保安全对于预防骨折也很重要。
+
+【钙和维生素 D】
+男性和女性每日饮食中摄入元素钙应＞1000毫克。绝经期后女性、老年男性和近期需求增加的人群如生长发育、妊娠、 哺乳，推荐每天摄入应达到1200毫克（包括饮食摄入）钙的摄入理想情况下应来自饮食来源，若饮食摄入不足，则需补充钙剂。 最常用的钙补充剂是碳酸钙和柠檬酸钙。 胃酸缺乏者口服柠檬酸钙更易于吸收，但两种钙剂在进餐时服用都能被很好地吸收。服用胃酸抑制剂(如质子泵抑制剂、H2阻滞剂)的患者或接受胃旁路手术的患者应服用柠檬酸钙以最大程度吸收。钙应分次服用，通常500至600毫克，每天2次。
+建议维生素D补充每天600至800国际单位。有维生素D缺乏的患者需要的剂量更大。尽管麦角钙化醇（合成植物衍生形式）也是可接受的，但是补充维生素D通常以胆钙化醇（维生素D的天然形式）的形式服用。25-羟基维生素D水平应≥30钠克/毫升。
+
+【抗吸收药物】
+双磷酸盐是一线治疗 (3, 4, 5, 6)。该药通过抑制骨吸收来保存骨量，减少高达50%的椎体和髋部骨折 (7)。 在使用双膦酸盐治疗3个月后骨转化开始减少，最早在开始治疗一年后骨折风险降低。双磷酸盐可口服或静脉给药。
+有证据支持口服双膦酸盐（例如阿仑膦酸盐或利塞膦酸盐）的治疗持续时间为 5 年，或静脉注射唑来膦酸的治疗持续时间为 3 年；然而，对于一些骨折风险特别高的患者，可能需要更长的治疗时间（8）。
+口服双磷酸盐必须空腹服用，并用一杯水（8 盎司，250 毫升）服用。给药后，患者必须保持直立至少 30 分钟（伊班膦酸钠 60 分钟），在此期间不得口服任何其他药物，因为食物会降低生物利用度。当肌酐清除率＞35毫升/分钟时，使用这些药物是安全的。口服双磷酸盐类药物可引起食道刺激。导致药物转化时间延迟的食道疾病及有上消化道疾病症状是口服双膦酸盐类药物的相对禁忌症。当患者不能忍受或者是无法依从口服双膦酸盐时可使用双磷酸盐的静脉制剂。
+颌骨坏死（ONJ）和非典型股骨骨折在接受双膦酸盐类抗骨吸收治疗的患者中罕见报道，此外在使用罗莫索单抗或地舒单抗时也有相关报告（9）。颌骨坏死（ONJ）的风险因素包括侵入性牙科手术、静脉注射双膦酸盐药物使用以及对头部和颈部进行放射治疗以治疗癌症。其减少骨质疏松症相关骨折的 收益远远大于这个小风险。尽管一些牙医要求患者在进行侵入性牙科手术前数周或数月停止使用双膦酸盐，但尚不清楚这样做是否会降低下颌骨坏死的风险。
+长期双膦酸盐的使用可能增加不典型股骨干骨折的风险 (10)。这些骨折发生在较小创伤后或无创伤，部位通常在股骨中段，可能之前数周或 数月有出现大腿疼痛。 即使症状只是单侧的，骨折也可能是双侧的。
+为了尽量减少 骨折的发生率，如发生下列情况应考虑停止双膦酸盐 的使用
+在使用了3至5年的骨质疏松症患者中（通过DXA扫描），很少或没有其他骨质流失的风险因素（静脉使用唑来膦酸3年和口服双膦酸盐5年）
+在使用了3至5年的骨质疏松症患者中（通过DXA扫描），很少或没有其他骨质流失的风险因素（静脉使用唑来膦酸3年和口服双膦酸盐5年）
+骨质疏松症患者（通过DXA扫描确诊）伴骨折史，或存在其他显著进行性骨质流失及未来骨质疏松性骨折风险因素者，需持续用药5至10年（11,12）
+骨质疏松症患者（通过DXA扫描确诊）伴骨折史，或存在其他显著进行性骨质流失及未来骨质疏松性骨折风险因素者，需持续用药5至10年（11,12）
+双膦酸盐治疗的开始和持续时间以及间歇性停药（停药期）取决于患者的风险因素，例如年龄，合并症，既往骨折史，DXA扫描结果和跌倒风险。禁药期为1年或更长时间。 在暂停双膦酸盐的患者中应严密监测新的骨折或DXA扫描中骨质流失加速的证据，尤其是在停止治疗 2 年或更长时间之后。
+在使用抗骨吸收药物(如双膦酸盐)治疗期间，骨转换被抑制，如血清或尿液(空腹)n -端肽交联(NTX)或c -端肽交联(CTX)水平低。因此，骨转换标志物的测量可以帮助确定治疗的依从性以及充分的吸收，这对于监测服用口服双膦酸盐的患者特别有用。这些指标在治疗结束后至少2年内可能保持在低水平。在未经治疗的患者，骨转换指标水平增加，尤其是较高的水平，提示骨折风险增加。然而，骨转换指标水平是否应该被用作何时开始 或结束休药期的标准目前尚未明确。
+在骨质疏松性骨折后立即开始使用双膦酸盐一直存在争议，因为理论上担心这些药物可能会阻碍骨骼愈合；尽管临床文献中并未证实这一点。大多数专家建议在骨折住院期间开始服用双磷酸盐（13）。没有理由推迟治疗以获得 DXA 扫描，因为髋部或椎骨脆性骨折确定存在骨质疏松症。
+狄诺塞麦是一种针对核因子 kappa-B 配体 (RANKL) 受体激活剂的单克隆抗体，通过抑制破骨细胞分化和形成来减少骨吸收（14）。德诺苏单抗可能对不耐受或对其他疗法无反应的患者或肾功能受损患者有帮助。该药物治疗10年有良好的安全性 (15)。低血钙症患者禁用德诺苏单抗，因为它会引起钙转移，从而导致严重的低血钙症和诸如手足抽搐的不良反应。颌骨坏死和非典型股骨骨折在使用地诺单抗的患者中鲜有报道。
+服用地诺单抗的患者不应休药，因为停止使用该药可能会导致骨矿物质密度的快速损失，并且重要的是会增加骨折的风险，尤其是椎骨骨折，经常是多个锥体的骨折(16)。假若当地舒单抗停药后，患者应转用双膦酸盐，如唑来膦酸静脉输注，至少一年，若仅一次静脉注射唑来膦酸后仍有骨折风险或骨密度降低的证据，则应延长用药时间（17）。
+雷洛昔芬是一种选择性雌激素受体的调节剂（SERM），用于不适合双磷酸盐类或德尼单抗药物治疗的女性骨质疏松症患者。该药每日口服一次可使脊椎骨折降低50%，但目前尚无证据显示可以减少髋骨骨折 (18)。雷洛昔芬对子宫无作用，在乳腺组织中能抵消雌激素的作用。它降低了浸润性乳腺癌的风险。雷洛昔芬可能会增加血栓栓塞的风险。
+雌激素治疗可维持骨矿物质密度并降低骨折风险（19）。然而，由于存在其他更有效的治疗方法以及持续治疗的潜在风险，雌激素通常不作为治疗骨质疏松症的唯一适应症的一线治疗方法。使用雌激素会增加血栓栓塞和子宫内膜癌的风险，并与其他风险相关（如乳腺癌、子宫内膜癌、冠状动脉疾病、卒中和胆囊疾病），部分风险因单用雌激素或雌孕激素联合用药而异（20,21）。因此，潜在的危害雌激素对于大多数女性来说，治疗骨质疏松症的危害超过了其潜在的好处。
+鼻用鲑降钙素不应该常规被用于治疗骨质疏松症。鲑降钙素可以用于短期急性骨折后的镇痛，如椎体骨折引起内啡肽作用导致的疼痛(22)。尚未证明它能减少未来的骨折。
+
+【促蛋白合成剂】
+合成代谢剂 包括特立帕肽（合成 PTH [PTH1-34]） (23) 和 abaloparatide（一种与 PTH 1 型受体结合的人类 PTH 类似物） (24)。每天通过皮下注射上述药物，可增加骨量，刺激新的骨形成并降低骨折风险。服用甲状旁腺激素类似物的患者肌酐清除率应>35mL/min。罗马珠单抗是一种抗硬化蛋白的单克隆抗体，具有合成代谢和抗吸收作用。
+这三种合成代谢药物（特立帕肽、abaloparatide 和 romosozumab）通常适用于具有以下特征的患者：
+不能耐受抗骨吸收药物或存在使用这类药物的禁忌证
+不能耐受抗骨吸收药物或存在使用这类药物的禁忌证
+对抗骨吸收药物、钙、维生素D和负重锻炼反应不佳（即，有新发骨折或骨密度降低）
+对抗骨吸收药物、钙、维生素D和负重锻炼反应不佳（即，有新发骨折或骨密度降低）
+可能存在严重的骨质疏松（如T值<-3.0）或多个椎体脆性骨折
+可能存在严重的骨质疏松（如T值<-3.0）或多个椎体脆性骨折
+患有糖皮质激素所致骨质疏松症(仅特立帕肽)
+患有糖皮质激素所致骨质疏松症(仅特立帕肽)
+这三种合成代谢剂中的任何一种都可以考虑在双膦酸盐假期使用合成代谢剂。
+在骨肉瘤临床试验最初的 2 年内，由于考虑到患骨质疏松症的风险增加，因此基于黑框警告，使用合成代谢药物治疗骨质疏松症的时间被限制在 2 年内。但目前不再限制 2 年的治疗期。因此，虽然 2 年的合成代谢药物治疗仍然是一个合理的疗程，但现在可以考虑给予第二个 2 年的疗程。然而，在完成一个合成代谢药物的疗程后，如果患者没有迅速过渡到使用抗骨吸收药物，如双膦酸盐，则骨密度的增加会迅速减少。合成代谢药物宜优先于抗吸收药物使用（25）。如果在抗吸收药物之前使用合成代谢剂（即，考虑“合成代谢窗口”），则骨矿物质密度的增加更大，并且如果在抗吸收药物之后施用合成代谢剂，则骨矿物质密度的增加会减弱。
+在骨折后的任何时间使用合成代谢药物都是安全的。尚不清楚骨折后早期使用合成代谢药物是否能促进骨骼愈合。
+
+【其他治疗骨质疏松症的药物】
+罗马珠单抗是一种针对硬化蛋白（一种由骨细胞制成的小蛋白，可抑制成骨细胞形成新骨）的单克隆抗体。它具有抗吸收和合成代谢作用，已被证明可以增加髋部和腰椎的骨矿物质密度，并降低绝经后妇女的骨折风险（26）。罗莫佐单抗适用于患有严重骨质疏松症的患者，尤其是老年人、体弱者和跌倒风险增加的人。 尽管进行了充分的抗吸收治疗，但仍应考虑骨折的患者。 它通过每月皮下注射给药 1 年（27）。
+罗莫佐单抗治疗1年后继以阿仑膦酸钠治疗1年，疗效优于阿仑膦酸钠连续使用2年（28）；而罗莫佐单抗治疗1年后继以地舒单抗治疗2年可降低骨折风险并提高骨密度（28）。与地诺单抗一样，当停用罗莫珠单抗时，应给予抗吸收治疗以防止快速的骨质流失 (29)。罗莫佐单抗带有黑框警告，因为心血管事件的风险增加，包括心肌梗塞、中风和心血管死亡。不应在患者心肌梗塞或中风的12 个月内开始使用罗莫珠单抗。
+
+【监测治疗反应】
+用连续DXA扫描随访正在进行的骨质疏松或对治疗的反应应当采用相同DXA机来完成，应该用实际的骨矿物质密度（克/厘米2）来比较，而不是T值。 对于骨量减少的患者，应定期复查DXA，以确定是否存在持续的骨质流失或发展为需要治疗的弗兰克骨质疏松症。 后续 DXA 扫描的频率因患者而异，但一些合理的指导方针如下：
+接受口服双膦酸盐治疗的患者：通常在治疗 2 至 3 年后重复 DXA 扫描。如果临床需要，DXA扫描可以更频繁地重复，例如在服用糖皮质激素的患者中。
+接受口服双膦酸盐治疗的患者：通常在治疗 2 至 3 年后重复 DXA 扫描。如果临床需要，DXA扫描可以更频繁地重复，例如在服用糖皮质激素的患者中。
+接受静脉双膦酸盐治疗的患者：在治疗 3 年后重复进行 DXA 扫描以进行监测，以帮助确定治疗是否足够或是否需要更长的疗程。
+接受静脉双膦酸盐治疗的患者：在治疗 3 年后重复进行 DXA 扫描以进行监测，以帮助确定治疗是否足够或是否需要更长的疗程。
+接受合成代谢治疗的患者：在完成治疗（特立帕肽或阿巴洛帕肽 18-24个月，romosozumab 1 年）后重复 DXA 扫描，以记录合成代谢治疗后骨矿物质密度的改善并建立新的基线。
+接受合成代谢治疗的患者：在完成治疗（特立帕肽或阿巴洛帕肽 18-24个月，romosozumab 1 年）后重复 DXA 扫描，以记录合成代谢治疗后骨矿物质密度的改善并建立新的基线。
+结果可能有助于识别由于对骨质疏松症治疗反应不佳而具有较高骨折风险的患者 。对于在治疗期间骨密度显著下降或发生骨折的患者，应评估继发性骨丢失原因、口服双膦酸盐的药物吸收情况，以及（除静脉或诊室注射用药者外）药物依从性（强烈推荐）。
+
+【疼痛的治疗和功能维持】
+由椎体压缩性骨折引起的急性背痛可根据需要使用短期矫形支具、止痛药治疗，当肌肉痉挛突出时，可用湿热敷和按摩治疗。加强核心锻炼对有腰背痛的患者和已治愈的椎骨骨折患者来说很有帮助。慢性背痛可通过锻炼椎旁肌肉来缓解。避免过度负重是有益的。应尽量减少卧床休息，鼓励患者坚持能提高耐力的负重运动锻炼。
+在一些情况下，椎体成形术或后凸成形术可以减轻由于新的椎骨脆性骨折导致的严重疼痛，然而，其有效证据并不确定 (30,31)。椎体成形术是将甲基丙烯酸甲酯注入椎体。而椎体后凸成形术首先是利用球囊使椎体膨胀，然后注入甲基丙烯酸甲酯。均能减轻注射椎体的畸形，但不能减少甚至是增加邻近椎体骨折的危险。其他副作用包括肋骨骨折、骨水泥渗漏、肺栓塞和心肌梗死。进一步的研究，以确定这些方法的适应症是必要的。
+
+【治疗参考文献】
+1.Howe TE, Shea B, Dawson LJ, et al.Exercise for preventing and treating osteoporosis in postmenopausal women.Cochrane Database Syst Rev.(7):CD000333, 2011.Published 2011 Jul 6.doi:10.1002/14651858.CD000333.pub2
+1.Howe TE, Shea B, Dawson LJ, et al.Exercise for preventing and treating osteoporosis in postmenopausal women.Cochrane Database Syst Rev.(7):CD000333, 2011.Published 2011 Jul 6.doi:10.1002/14651858.CD000333.pub2
+2.Brooke-Wavell K, Skelton DA, Barker KL, et al.Strong, steady and straight: UK consensus statement on physical activity and exercise for osteoporosis [published online ahead of print, 2022 May 16].Br J Sports Med.56(15):837-846, 2022.doi:10.1136/bjsports-2021-104634
+2.Brooke-Wavell K, Skelton DA, Barker KL, et al.Strong, steady and straight: UK consensus statement on physical activity and exercise for osteoporosis [published online ahead of print, 2022 May 16].Br J Sports Med.56(15):837-846, 2022.doi:10.1136/bjsports-2021-104634
+3.Management of osteoporosis in postmenopausal women: the 2021 position statement of The North American Menopause Society.Menopause.2021;28(9):973-997.doi:10.1097/GME.0000000000001831
+3.Management of osteoporosis in postmenopausal women: the 2021 position statement of The North American Menopause Society.Menopause.2021;28(9):973-997.doi:10.1097/GME.0000000000001831
+4.Shoback D, Rosen CJ, Black DM, et al.Pharmacological Management of Osteoporosis in Postmenopausal Women: An Endocrine Society Guideline Update.J Clin Endocrinol Metab.2020;105(3):dgaa048.doi:10.1210/clinem/dgaa048
+4.Shoback D, Rosen CJ, Black DM, et al.Pharmacological Management of Osteoporosis in Postmenopausal Women: An Endocrine Society Guideline Update.J Clin Endocrinol Metab.2020;105(3):dgaa048.doi:10.1210/clinem/dgaa048
+5.ACOG Committee on Clinical Practice Guidelines–Gynecology. Management of Postmenopausal Osteoporosis: ACOG Clinical Practice Guideline No. 2 [published correction appears inObstet Gynecol. 2022 Jul 01;140(1):138. doi: 10.1097/AOG.0000000000004855.].Obstet Gynecol.2022;139(4):698-717.doi:10.1097/AOG.0000000000004730
+5.ACOG Committee on Clinical Practice Guidelines–Gynecology. Management of Postmenopausal Osteoporosis: ACOG Clinical Practice Guideline No. 2 [published correction appears inObstet Gynecol. 2022 Jul 01;140(1):138. doi: 10.1097/AOG.0000000000004855.].Obstet Gynecol.2022;139(4):698-717.doi:10.1097/AOG.0000000000004730
+6.Camacho PM, Petak SM, Binkley N, et al.AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS/AMERICAN COLLEGE OF ENDOCRINOLOGY CLINICAL PRACTICE GUIDELINES FOR THE DIAGNOSIS AND TREATMENT OF POSTMENOPAUSAL OSTEOPOROSIS-2020 UPDATE.Endocr Pract.2020;26(Suppl 1):1-46.doi:10.4158/GL-2020-0524SUPPL
+6.Camacho PM, Petak SM, Binkley N, et al.AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS/AMERICAN COLLEGE OF ENDOCRINOLOGY CLINICAL PRACTICE GUIDELINES FOR THE DIAGNOSIS AND TREATMENT OF POSTMENOPAUSAL OSTEOPOROSIS-2020 UPDATE.Endocr Pract.2020;26(Suppl 1):1-46.doi:10.4158/GL-2020-0524SUPPL
+7.Ayers C, Kansagara D, Lazur B, Fu R, Kwon A, Harrod C.Effectiveness and safety of treatments to prevent fractures in people with low bone mass or primary osteoporosis: a living systematic review and network meta-analysis for the American College of Physicians [published correction appears inAnn Intern Med176(6):884, 2023].Ann Intern Med.176(2):182-195, 2023.doi:10.7326/M22-0684
+7.Ayers C, Kansagara D, Lazur B, Fu R, Kwon A, Harrod C.Effectiveness and safety of treatments to prevent fractures in people with low bone mass or primary osteoporosis: a living systematic review and network meta-analysis for the American College of Physicians [published correction appears inAnn Intern Med176(6):884, 2023].Ann Intern Med.176(2):182-195, 2023.doi:10.7326/M22-0684
+8.Black DM, Reid IR, Boonen S, et al.The effect of 3 versus 6 years ofzoledronic acidtreatment of osteoporosis: A randomized extension to the HORIZON-Pivotal Fracture Trial (PFT).J Bone Miner Res.27(2): 243–254, 2012.doi: 10.1002/jbmr.1494
+8.Black DM, Reid IR, Boonen S, et al.The effect of 3 versus 6 years ofzoledronic acidtreatment of osteoporosis: A randomized extension to the HORIZON-Pivotal Fracture Trial (PFT).J Bone Miner Res.27(2): 243–254, 2012.doi: 10.1002/jbmr.1494
+9.Khan AA, Morrison A, Hanley DA, et al.Diagnosis and management of osteonecrosis of the jaw: a systematic review and international consensus.J Bone Miner Res.30(1):3-23, 2015.doi:10.1002/jbmr.2405
+9.Khan AA, Morrison A, Hanley DA, et al.Diagnosis and management of osteonecrosis of the jaw: a systematic review and international consensus.J Bone Miner Res.30(1):3-23, 2015.doi:10.1002/jbmr.2405
+10.Black DM, Abrahamsen B, Bouxsein ML, et al.Atypical Femur Fractures: Review of Epidemiology, Relationship to Bisphosphonates, Prevention, and Clinical Management.Endocr Rev.40(2):333-368, 2019.doi:10.1210/er.2018-00001
+10.Black DM, Abrahamsen B, Bouxsein ML, et al.Atypical Femur Fractures: Review of Epidemiology, Relationship to Bisphosphonates, Prevention, and Clinical Management.Endocr Rev.40(2):333-368, 2019.doi:10.1210/er.2018-00001
+11.Black DM, Schwartz AV, Ensrud KE, et al.Effects of continuing or stopping alendronate after 5 years of treatment: the Fracture Intervention Trial Long-term Extension (FLEX): a randomized trial.JAMA.296(24):2927-2938, 2006.doi:10.1001/jama.296.24.2927
+11.Black DM, Schwartz AV, Ensrud KE, et al.Effects of continuing or stopping alendronate after 5 years of treatment: the Fracture Intervention Trial Long-term Extension (FLEX): a randomized trial.JAMA.296(24):2927-2938, 2006.doi:10.1001/jama.296.24.2927
+12.Black DM, Reid IR, Boonen S, et al.The effect of 3 versus 6 years of zoledronic acid treatment of osteoporosis: a randomized extension to the HORIZON-Pivotal Fracture Trial (PFT) [published correction appears inJ Bone Miner Res.27(12):2612, 2012].J Bone Miner Res27(2):243-254, 2012.doi:10.1002/jbmr.1494
+12.Black DM, Reid IR, Boonen S, et al.The effect of 3 versus 6 years of zoledronic acid treatment of osteoporosis: a randomized extension to the HORIZON-Pivotal Fracture Trial (PFT) [published correction appears inJ Bone Miner Res.27(12):2612, 2012].J Bone Miner Res27(2):243-254, 2012.doi:10.1002/jbmr.1494
+13.Conley RB, Adib G, Adler RA, et al.Secondary Fracture Prevention: Consensus Clinical Recommendations from a Multistakeholder Coalition.J Bone Miner Res.35(1):36-52, 2020.doi:10.1002/jbmr.3877
+13.Conley RB, Adib G, Adler RA, et al.Secondary Fracture Prevention: Consensus Clinical Recommendations from a Multistakeholder Coalition.J Bone Miner Res.35(1):36-52, 2020.doi:10.1002/jbmr.3877
+14.Cummings SR, San Martin J, McClung MR, et al.Denosumabfor prevention of fractures in postmenopausal women with osteoporosis [published correction appears inN Engl J Med361(19):1914, 2009].N Engl J Med.361(8):756-765, 2009.doi:10.1056/NEJMoa0809493
+14.Cummings SR, San Martin J, McClung MR, et al.Denosumabfor prevention of fractures in postmenopausal women with osteoporosis [published correction appears inN Engl J Med361(19):1914, 2009].N Engl J Med.361(8):756-765, 2009.doi:10.1056/NEJMoa0809493
+15.Bone HG, Wagman RB, Brandi ML, et al.10 years ofdenosumabtreatment in postmenopausal women with osteoporosis: results from the phase 3 randomised FREEDOM trial and open-label extension.Lancet Diabetes Endocrinol.5(7):513-523, 2017.doi:10.1016/S2213-8587(17)30138-9
+15.Bone HG, Wagman RB, Brandi ML, et al.10 years ofdenosumabtreatment in postmenopausal women with osteoporosis: results from the phase 3 randomised FREEDOM trial and open-label extension.Lancet Diabetes Endocrinol.5(7):513-523, 2017.doi:10.1016/S2213-8587(17)30138-9
+16.Lyu H, Yoshida K, Zhao SS, et al.DelayedDenosumabInjections and Fracture Risk Among Patients With Osteoporosis : A Population-Based Cohort Study.Ann Intern Med.173(7):516-526, 2020.doi:10.7326/M20-0882
+16.Lyu H, Yoshida K, Zhao SS, et al.DelayedDenosumabInjections and Fracture Risk Among Patients With Osteoporosis : A Population-Based Cohort Study.Ann Intern Med.173(7):516-526, 2020.doi:10.7326/M20-0882
+17.Sølling AS, Harsløf T, Langdahl B.Treatment withzoledronatesubsequent todenosumabin osteoporosis: a 2-year randomized study.J Bone Miner Res.36(7):1245-1254, 2021.doi:10.1002/jbmr.4305
+17.Sølling AS, Harsløf T, Langdahl B.Treatment withzoledronatesubsequent todenosumabin osteoporosis: a 2-year randomized study.J Bone Miner Res.36(7):1245-1254, 2021.doi:10.1002/jbmr.4305
+18.Ettinger B, Black DM, Mitlak BH, et al.Reduction of vertebral fracture risk in postmenopausal women with osteoporosis treated withraloxifene: results from a 3-year randomized clinical trial.Multiple Outcomes ofRaloxifeneEvaluation (MORE) Investigators [published correction appears inJAMA.282(22):2124, 1999].JAMA282(7):637-645, 1999.doi:10.1001/jama.282.7.637
+18.Ettinger B, Black DM, Mitlak BH, et al.Reduction of vertebral fracture risk in postmenopausal women with osteoporosis treated withraloxifene: results from a 3-year randomized clinical trial.Multiple Outcomes ofRaloxifeneEvaluation (MORE) Investigators [published correction appears inJAMA.282(22):2124, 1999].JAMA282(7):637-645, 1999.doi:10.1001/jama.282.7.637
+19.Rossouw JE, Anderson GL, Prentice RL, et al.Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results From the Women's Health Initiative randomized controlled trial.JAMA.2002;288(3):321-333.doi:10.1001/jama.288.3.321
+19.Rossouw JE, Anderson GL, Prentice RL, et al.Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results From the Women's Health Initiative randomized controlled trial.JAMA.2002;288(3):321-333.doi:10.1001/jama.288.3.321
+20.Anderson GL, Limacher M, Assaf AR, et al.Effects of conjugated equine estrogen in postmenopausal women with hysterectomy: the Women's Health Initiative randomized controlled trial.JAMA.2004;291(14):1701-1712.doi:10.1001/jama.291.14.1701
+20.Anderson GL, Limacher M, Assaf AR, et al.Effects of conjugated equine estrogen in postmenopausal women with hysterectomy: the Women's Health Initiative randomized controlled trial.JAMA.2004;291(14):1701-1712.doi:10.1001/jama.291.14.1701
+21.Manson JE, Chlebowski RT, Stefanick ML, et al.Menopausal hormone therapy and health outcomes during the intervention and extended poststopping phases of the Women's Health Initiative randomized trials.JAMA.2013;310(13):1353-1368.doi:10.1001/jama.2013.278040
+21.Manson JE, Chlebowski RT, Stefanick ML, et al.Menopausal hormone therapy and health outcomes during the intervention and extended poststopping phases of the Women's Health Initiative randomized trials.JAMA.2013;310(13):1353-1368.doi:10.1001/jama.2013.278040
+22.Knopp-Sihota JA, Newburn-Cook CV, Homik J, et al.Calcitoninfor treating acute and chronic pain of recent and remote osteoporotic vertebral compression fractures: a systematic review and meta-analysis.Osteoporos Int.23(1):17-38, 2012.doi:10.1007/s00198-011-1676-0
+22.Knopp-Sihota JA, Newburn-Cook CV, Homik J, et al.Calcitoninfor treating acute and chronic pain of recent and remote osteoporotic vertebral compression fractures: a systematic review and meta-analysis.Osteoporos Int.23(1):17-38, 2012.doi:10.1007/s00198-011-1676-0
+23.Neer RM, Arnaud CD, Zanchetta JR, et al.Effect of parathyroid hormone (1-34) on fractures and bone mineral density in postmenopausal women with osteoporosis.N Engl J Med.344(19):1434-1441, 2001.doi:10.1056/NEJM200105103441904
+23.Neer RM, Arnaud CD, Zanchetta JR, et al.Effect of parathyroid hormone (1-34) on fractures and bone mineral density in postmenopausal women with osteoporosis.N Engl J Med.344(19):1434-1441, 2001.doi:10.1056/NEJM200105103441904
+24.Miller PD, Hattersley G, Riis BJ, et al.Effect ofabaloparatidevs placebo on new Vertebral fractures in postmenopausal women with osteoporosis: a randomized clinical trial [published correction appears inJAMA.2017 Jan 24;317(4):442].JAMA.316(7):722-733, 2016.doi:10.1001/jama.2016.11136
+24.Miller PD, Hattersley G, Riis BJ, et al.Effect ofabaloparatidevs placebo on new Vertebral fractures in postmenopausal women with osteoporosis: a randomized clinical trial [published correction appears inJAMA.2017 Jan 24;317(4):442].JAMA.316(7):722-733, 2016.doi:10.1001/jama.2016.11136
+25.Curtis EM, Reginster JY, Al-Daghri N, et al.Management of patients at very high risk of osteoporotic fractures through sequential treatments.Aging Clin Exp Res.34(4):695-714, 2022.doi:10.1007/s40520-022-02100-4
+25.Curtis EM, Reginster JY, Al-Daghri N, et al.Management of patients at very high risk of osteoporotic fractures through sequential treatments.Aging Clin Exp Res.34(4):695-714, 2022.doi:10.1007/s40520-022-02100-4
+26.Cosman F, Crittenden DB, Adachi JD, et al.Romosozumabtreatment in postmenopausal women with osteoporosis.N Engl J Med.375(16):1532-1543, 2016.doi: 10.1056/NEJMoa1607948
+26.Cosman F, Crittenden DB, Adachi JD, et al.Romosozumabtreatment in postmenopausal women with osteoporosis.N Engl J Med.375(16):1532-1543, 2016.doi: 10.1056/NEJMoa1607948
+27.Saag KG, Petersen J, Brandi ML, et al.Romosozumaboralendronatefor fracture prevention in women with osteoporosis.N Engl J Med.377(15):1417-1427, 2017.doi: 10.1056/NEJMoa1708322
+27.Saag KG, Petersen J, Brandi ML, et al.Romosozumaboralendronatefor fracture prevention in women with osteoporosis.N Engl J Med.377(15):1417-1427, 2017.doi: 10.1056/NEJMoa1708322
+28.Lewiecki EM, Dinavahi RV, Lazaretti-Castro M, et al.One year ofromosozumabfollowed by two years ofdenosumabmaintains fracture risk reductions: Results of the FRAME Extension Study.J Bone Miner Res.34(3):419-428, 2019.doi: 10.1002/jbmr.3622
+28.Lewiecki EM, Dinavahi RV, Lazaretti-Castro M, et al.One year ofromosozumabfollowed by two years ofdenosumabmaintains fracture risk reductions: Results of the FRAME Extension Study.J Bone Miner Res.34(3):419-428, 2019.doi: 10.1002/jbmr.3622
+29.McClung MR, Brown JP, Diez-Perez A, et al.Effects of 24 Months of Treatment WithRomosozumabFollowed by 12 Months ofDenosumabor Placebo in Postmenopausal Women With Low Bone Mineral Density: A Randomized, Double-Blind, Phase 2, Parallel Group Study.J Bone Miner Res.33(8):1397-1406, 2018.doi:10.1002/jbmr.3452
+29.McClung MR, Brown JP, Diez-Perez A, et al.Effects of 24 Months of Treatment WithRomosozumabFollowed by 12 Months ofDenosumabor Placebo in Postmenopausal Women With Low Bone Mineral Density: A Randomized, Double-Blind, Phase 2, Parallel Group Study.J Bone Miner Res.33(8):1397-1406, 2018.doi:10.1002/jbmr.3452
+30.Buchbinder R, Johnston RV, Rischin KJ, et al.Percutaneous vertebroplasty for osteoporotic vertebral compression fracture.Cochrane Database Syst Rev.4(4):CD006349, 2018.Published 2018 Apr 4.doi:10.1002/14651858.CD006349.pub3
+30.Buchbinder R, Johnston RV, Rischin KJ, et al.Percutaneous vertebroplasty for osteoporotic vertebral compression fracture.Cochrane Database Syst Rev.4(4):CD006349, 2018.Published 2018 Apr 4.doi:10.1002/14651858.CD006349.pub3
+31.Lou S, Shi X, Zhang X, Lyu H, Li Z, Wang Y.Percutaneous vertebroplasty versus non-operative treatment for osteoporotic vertebral compression fractures: a meta-analysis of randomized controlled trials.Osteoporos Int.30(12):2369-2380, 2019.doi:10.1007/s00198-019-05101-8
+31.Lou S, Shi X, Zhang X, Lyu H, Li Z, Wang Y.Percutaneous vertebroplasty versus non-operative treatment for osteoporotic vertebral compression fractures: a meta-analysis of randomized controlled trials.Osteoporos Int.30(12):2369-2380, 2019.doi:10.1007/s00198-019-05101-8
+
+【预防骨质疏松】
+预防的目的主要在于保持骨量和预防骨折。预防措施适用于以下情况：
+绝经后妇女
+绝经后妇女
+老年男性（通常指年龄>70岁的男性）
+老年男性（通常指年龄>70岁的男性）
+骨量减少患者
+骨量减少患者
+已经患有骨质疏松症的患者（以防止恶化）
+已经患有骨质疏松症的患者（以防止恶化）
+服用大剂量和/或长期全身性糖皮质激素或芳香化酶抑制剂的患者
+服用大剂量和/或长期全身性糖皮质激素或芳香化酶抑制剂的患者
+继发性骨质流失患者
+继发性骨质流失患者
+所有这些患者的预防措施包括摄入适当的钙和维生素 D、负重运动、避免吸烟和限制饮酒。还应建议患者采取措施降低跌倒风险。此外，大多数骨质减少患者如果骨折风险增加，例如 FRAX 评分高的患者，以及服用皮质类固醇或芳香酶抑制剂的患者，则需要进行药物治疗。对患者和社区骨骼健康的教育仍然至关重要。
+男性和女性的骨量峰值出现在 30 岁左右；对于女性来说，绝经后骨质流失会加速，每年约 2%，持续约 10 年。
+男性和女性的骨量峰值出现在 30 岁左右；对于女性来说，绝经后骨质流失会加速，每年约 2%，持续约 10 年。
+几乎所有男性和女性骨质疏松症病例都是原发性的，没有明确的原因。
+几乎所有男性和女性骨质疏松症病例都是原发性的，没有明确的原因。
+患者因意外的小创伤引起脊椎、髋部、肱骨或桡骨远端骨折（脆性骨折）时应怀疑有骨质疏松症。
+患者因意外的小创伤引起脊椎、髋部、肱骨或桡骨远端骨折（脆性骨折）时应怀疑有骨质疏松症。
+建议使用 DXA 测量以下人群的骨密度：≥65 岁女性；绝经后至 65 岁之间存在危险因素的女性（如骨质疏松家族史、体质指数偏低、使用烟草、饮酒和/或使用高风险致骨量丢失的药物〔如长期糖皮质激素应用〕）；任何年龄段发生脆性骨折的男女患者；影像学检查显示骨密度下降或无症状椎体压缩性骨折者；以及有继发性骨质疏松风险的患者。
+建议使用 DXA 测量以下人群的骨密度：≥65 岁女性；绝经后至 65 岁之间存在危险因素的女性（如骨质疏松家族史、体质指数偏低、使用烟草、饮酒和/或使用高风险致骨量丢失的药物〔如长期糖皮质激素应用〕）；任何年龄段发生脆性骨折的男女患者；影像学检查显示骨密度下降或无症状椎体压缩性骨折者；以及有继发性骨质疏松风险的患者。
+如果患者的 Z 分数 ≤ -2.0、骨矿物质密度下降、在骨质疏松症治疗期间发生不明原因骨折，或者临床怀疑存在继发性骨丢失的原因，请考虑对患者进行继发性骨丢失的原因检测。
+如果患者的 Z 分数 ≤ -2.0、骨矿物质密度下降、在骨质疏松症治疗期间发生不明原因骨折，或者临床怀疑存在继发性骨丢失的原因，请考虑对患者进行继发性骨丢失的原因检测。
+治疗和预防方面，应确保摄入足够的钙和维生素D（必要时使用补充剂）、调整风险因素以帮助维持骨量（如负重锻炼以及尽量减少酒精和烟草的使用）以及降低跌倒风险。
+治疗和预防方面，应确保摄入足够的钙和维生素D（必要时使用补充剂）、调整风险因素以帮助维持骨量（如负重锻炼以及尽量减少酒精和烟草的使用）以及降低跌倒风险。
+药物包括抗骨吸收剂（例如双膦酸盐、核因子 kappa-B 配体 [RANKL] 受体激活剂、选择性雌激素受体调节剂、用于激素替代疗法的药物）或合成代谢药物，如特立帕肽、阿巴洛帕肽或罗莫索单抗。
+药物包括抗骨吸收剂（例如双膦酸盐、核因子 kappa-B 配体 [RANKL] 受体激活剂、选择性雌激素受体调节剂、用于激素替代疗法的药物）或合成代谢药物，如特立帕肽、阿巴洛帕肽或罗莫索单抗。
+根据使用的特定药物方案，以适当的时间间隔监测对 DXA 治疗的反应。
+根据使用的特定药物方案，以适当的时间间隔监测对 DXA 治疗的反应。

@@ -1,0 +1,48 @@
+标题：中国传统医学
+来源：https://www.msdmanuals.cn/professional/special-subjects/integrative-complementary-and-alternative-medicine/traditional-chinese-medicine
+============================================================
+
+始于>2000年以前，中医（TCM）是一种基于异常的生命流（气）导致疾病的哲学理念。气流的恢复是通过阴阳平衡的相对力量，这体现在身体的冷与热，内与外，虚与实。
+各种方法均是用于维持和恢复气血，以达到健康的目的。最常用的是
+其他措施包括饮食，按摩，冥想练习亦称气功。
+中医经常使用的诊断类别不符合生物学和疾病（例如，阴阳虚实）现有的科学认识。
+
+【中国传统医学的证据】
+想要获得高质量的证据比较困难，这主要是因为中药的有效成分不纯，成分不明，且成分多样。因此，明确成分剂量十分困难甚至是不可能的，并且成分的剂量在不同的草药来源中各有不同。生物利用度，药代动力学和药效学的信息资料通常难以获得。另外，活性成分可能存在复杂多变的相互作用。
+中药传统上是使用多种草药混合配方来治疗各种疾病。传统配方可以作为一个整体进行研究，也可以将配方中的每种草药单独研究。单用一种草药可能疗效不大，甚至出现副作用。然而，目前的既往研究倾向于研究单一草药，以更好地控制变量。另一个问题就是可能需要研究多种药草制剂。
+系统综述和荟萃分析（多数在中国进行）的研究表明，中医药对以下病症具有疗效的证据：
+Tourette综合征的症状（1)
+Tourette综合征的症状（1)
+慢性肾病，当与西药结合时（2)
+慢性肾病，当与西药结合时（2)
+中风后的抑郁症，当与西药结合时（3)
+中风后的抑郁症，当与西药结合时（3)
+可能在更年期和围绝经期与针灸相结合时出现抑郁症（4)
+可能在更年期和围绝经期与针灸相结合时出现抑郁症（4)
+与西药联合使用时，COVID-19 可能会出现某些结果（例如，胸部影像学检查结果和咳嗽的消退）（5)
+与西药联合使用时，COVID-19 可能会出现某些结果（例如，胸部影像学检查结果和咳嗽的消退）（5)
+可能是急性痛风性关节炎（6)
+可能是急性痛风性关节炎（6)
+可能是小细胞肺癌的生活质量和症状管理（7)
+可能是小细胞肺癌的生活质量和症状管理（7)
+许多此类综述存在显著局限性，表明需要通过进一步前瞻性及更严谨的研究加以验证。
+
+【可能出现的不良反应】
+中医药的一个问题是中药的标准化及质量控制。很多亚洲国家缺乏相应监管；由于水质污染，中药可能存在重金属污染，也可能含有抗生素及类固醇。成分常互相替代，部分缘于草药名称的翻译错误。
+活性成分之间，或中草药与传统药物之间的相互作用也可能导致不良反应。
+
+【参考文献】
+1.Wang N, Qin DD, Xie YH, et al.Traditional Chinese Medicine strategy for patients with Tourette syndrome based on clinical efficacy and safety: A meta-analysis of 47 randomized controlled trials.Biomed Res Int.6630598, 2021.doi: 10.1155/2021/6630598
+1.Wang N, Qin DD, Xie YH, et al.Traditional Chinese Medicine strategy for patients with Tourette syndrome based on clinical efficacy and safety: A meta-analysis of 47 randomized controlled trials.Biomed Res Int.6630598, 2021.doi: 10.1155/2021/6630598
+2.Wang YT, Zhang RQ, Wang SF, et al.A systematic review and meta-analysis of integrated traditional Chinese medicine and Western medicine in treating glomerulosclerosis.Medicine (Baltimore).100(7):e24799, 2021.doi: 10.1097/MD.0000000000024799
+2.Wang YT, Zhang RQ, Wang SF, et al.A systematic review and meta-analysis of integrated traditional Chinese medicine and Western medicine in treating glomerulosclerosis.Medicine (Baltimore).100(7):e24799, 2021.doi: 10.1097/MD.0000000000024799
+3.Zhang H, Li M, Xu T.Therapeutic effect of Chinese herbal medicines for post-stroke depression: A meta-analysis of randomized controlled trials.Medicine (Baltimore).100(1):e24173, 2021.doi: 10.1097/MD.0000000000024173
+3.Zhang H, Li M, Xu T.Therapeutic effect of Chinese herbal medicines for post-stroke depression: A meta-analysis of randomized controlled trials.Medicine (Baltimore).100(1):e24173, 2021.doi: 10.1097/MD.0000000000024173
+4.Di YM, Yang L, Shergis JL, et al.Clinical evidence of Chinese medicine therapies for depression in women during perimenopause and menopause.Complement Ther Med.47:102071, 2019.doi: 10.1016/j.ctim.2019.03.019
+4.Di YM, Yang L, Shergis JL, et al.Clinical evidence of Chinese medicine therapies for depression in women during perimenopause and menopause.Complement Ther Med.47:102071, 2019.doi: 10.1016/j.ctim.2019.03.019
+5.Zhou LP, Wang J, Xie RH, et al.The effects of Traditional Chinese Medicine as an auxiliary treatment for COVID-19: A systematic review and meta-analysis.J Altern Complement Med.27(3):225-237, 2021.doi: 10.1089/acm.2020.0310
+5.Zhou LP, Wang J, Xie RH, et al.The effects of Traditional Chinese Medicine as an auxiliary treatment for COVID-19: A systematic review and meta-analysis.J Altern Complement Med.27(3):225-237, 2021.doi: 10.1089/acm.2020.0310
+6.Huang X, Zhu Z, Wu G, et al.Efficacy and safety of external application of Traditional Chinese Medicine for the treatment of acute gouty arthritis: a systematic review and meta-analysis.J Tradit Chin Med.39(3):297-306, 2019.
+6.Huang X, Zhu Z, Wu G, et al.Efficacy and safety of external application of Traditional Chinese Medicine for the treatment of acute gouty arthritis: a systematic review and meta-analysis.J Tradit Chin Med.39(3):297-306, 2019.
+7.Chen S, Bao Y, Xu J, et al.Efficacy and safety of TCM combined with chemotherapy for SCLC: a systematic review and meta-analysis.J Cancer Res Clin Oncol.146(11):2913-2935, 2020.doi: 10.1007/s00432-020-03353-0
+7.Chen S, Bao Y, Xu J, et al.Efficacy and safety of TCM combined with chemotherapy for SCLC: a systematic review and meta-analysis.J Cancer Res Clin Oncol.146(11):2913-2935, 2020.doi: 10.1007/s00432-020-03353-0

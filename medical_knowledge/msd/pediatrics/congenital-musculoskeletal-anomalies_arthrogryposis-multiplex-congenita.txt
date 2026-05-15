@@ -1,0 +1,88 @@
+标题：先天性多发性关节挛缩
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-musculoskeletal-anomalies/arthrogryposis-multiplex-congenita
+============================================================
+
+(参见先天性肌肉骨骼异常概述。)
+关节挛缩症不是一种特定的诊断，而是一种先天性挛缩的临床发现；这些可能出现在超过300种不同的疾病中。在一项跨国数据库研究中，患病率为每 100,000 个活产婴儿 8.5 例，围产期死亡率为 32.5%（1）。基于这种高风险的不良后果，为了预后和遗传咨询，建立一个具体的诊断是重要的。
+多重先天性关节挛缩症（AMC）主要有2种类型，占患者的50%以上（2)：
+肌发育不良（经典关节挛缩症）：多发对称性挛缩发生在四肢。受累的肌肉发育不良，并有纤维及脂肪变性。智力通常是正常的。 由于肌肉形成的缺乏，约10％的患者有腹部异常（例如，腹裂，肠闭锁）。几乎所有的病例均为散发。
+肌发育不良（经典关节挛缩症）：多发对称性挛缩发生在四肢。受累的肌肉发育不良，并有纤维及脂肪变性。智力通常是正常的。 由于肌肉形成的缺乏，约10％的患者有腹部异常（例如，腹裂，肠闭锁）。几乎所有的病例均为散发。
+远端关节弯曲： 手和脚都受累，但大关节通常并无异常。远端关节挛缩症是一组不同类型的疾病，其中许多都与编码收缩装置成分的多个基因中某一个特定基因缺陷有关。许多远端关节挛缩是作为常染色体显性遗传病传播的，但X连锁突变也是已知的。
+远端关节弯曲： 手和脚都受累，但大关节通常并无异常。远端关节挛缩症是一组不同类型的疾病，其中许多都与编码收缩装置成分的多个基因中某一个特定基因缺陷有关。许多远端关节挛缩是作为常染色体显性遗传病传播的，但X连锁突变也是已知的。
+在一项对 125 名受影响者的研究中，43% 患有肌发育不全，27% 患有远端关节弯曲，30% 患有其他形式（3）。
+
+【参考文献】
+1.Hoff JM, Loane M, Gilhus NE, Rasmussen S, Daltveit AK.Arthrogryposis multiplexa congenita: an epidemiologic study of nearly 9 million births in 24 EUROCAT registers.Eur J Obstet Gynecol Reprod Biol.2011;159(2):347-350.doi:10.1016/j.ejogrb.2011.09.027
+1.Hoff JM, Loane M, Gilhus NE, Rasmussen S, Daltveit AK.Arthrogryposis multiplexa congenita: an epidemiologic study of nearly 9 million births in 24 EUROCAT registers.Eur J Obstet Gynecol Reprod Biol.2011;159(2):347-350.doi:10.1016/j.ejogrb.2011.09.027
+2.Hall JG, Kimber E, van Bosse HJP.Genetics and Classifications.J Pediatr Orthop.2017;37 Suppl 1:S4-S8.doi:10.1097/BPO.0000000000000997
+2.Hall JG, Kimber E, van Bosse HJP.Genetics and Classifications.J Pediatr Orthop.2017;37 Suppl 1:S4-S8.doi:10.1097/BPO.0000000000000997
+3.Le Tanno P, Latypova X, Rendu J, et al.Diagnostic workup in children with arthrogryposis: Description of practices from a single reference centre, comparison with literature and suggestion of recommendations.J Med Genet.2023;60(1):13-24.doi:10.1136/jmedgenet-2021-107823
+3.Le Tanno P, Latypova X, Rendu J, et al.Diagnostic workup in children with arthrogryposis: Description of practices from a single reference centre, comparison with literature and suggestion of recommendations.J Med Genet.2023;60(1):13-24.doi:10.1136/jmedgenet-2021-107823
+
+【多发性先天性关节发育不良的病因】
+在关节胚胎形成期间或之后不久导致胎儿四肢固定的许多病理过程可能导致 AMC。AMC发生在胚胎胎儿神经肌肉功能和发育受损时。
+任何影响子宫内运动>3周的情况都可能导致AMC。原因可能包括
+物理运动限制（例如，由于子宫畸形，多胎妊娠或羊水过少）引起胎儿运动不能/运动功能减退综合征（Pena-Shokeir 综合征），通常与肺发育不良相关。
+物理运动限制（例如，由于子宫畸形，多胎妊娠或羊水过少）引起胎儿运动不能/运动功能减退综合征（Pena-Shokeir 综合征），通常与肺发育不良相关。
+母体疾病（例如，多发性硬化症、子宫血管受损）
+母体疾病（例如，多发性硬化症、子宫血管受损）
+影响胎儿的遗传疾病（例如，神经性疾病，肌病，包括肌肉萎缩症，结缔组织疾病；胎儿血管受损；前角细胞疾病）
+影响胎儿的遗传疾病（例如，神经性疾病，肌病，包括肌肉萎缩症，结缔组织疾病；胎儿血管受损；前角细胞疾病）
+有超过400个基因与AMC相关（1）。
+
+【病因参考文献】
+1.Dieterich K, Kimber E, Hall JG.Central nervous system involvement in arthrogryposis multiplex congenita: Overview of causes, diagnosis, and care.Am J Med Genet C Semin Med Genet.2019;181(3):345-353.doi:10.1002/ajmg.c.31732
+1.Dieterich K, Kimber E, Hall JG.Central nervous system involvement in arthrogryposis multiplex congenita: Overview of causes, diagnosis, and care.Am J Med Genet C Semin Med Genet.2019;181(3):345-353.doi:10.1002/ajmg.c.31732
+
+【多发性先天性关节挛缩症的症状和体征】
+肌肉骨骼畸形在出生时就很突出。AMC不是渐进性的，但导致AMC的疾病（如肌肉萎缩症）可能是渐进性的。
+受累关节屈曲或过伸。在 AMC 的经典表现中，肩部倾斜、内收和内旋，肘部伸展，手腕和手指弯曲。髋关节可能脱臼，通常略微弯曲。膝关节过伸，足常呈马蹄内翻足样。腿部肌肉通常发育不全，四肢往往呈管状且无特征。有时屈曲关节的腹面可呈现软组织蹼翼。脊柱可能侧弯。除了长骨较细长外，其他骨骼的X线正常。
+身体残疾可能很严重。一些儿童也有原发性中枢神经系统功能障碍，这可能与智力残疾有关（1，2）。
+这张照片显示了四肢关节弯曲症儿童的典型外观。 注意肩部的内收和内旋、肘部的伸展和手腕的弯曲、膝盖的固定弯曲和严重的马蹄内翻足。
+在手术过程中进行气管插管可能会很困难，因为儿童的下颌可能很小且活动度小。
+很少伴随关节畸形的其他异常包括小头畸形、腭裂、隐睾、心脏和泌尿系统异常；这些发现会让人怀疑潜在的染色体缺陷或遗传综合征。
+
+【症状和体征参考】
+1.Dieterich K, Kimber E, Hall JG.Central nervous system involvement in arthrogryposis multiplex congenita: Overview of causes, diagnosis, and care.Am J Med Genet C Semin Med Genet.2019;181(3):345-353.doi:10.1002/ajmg.c.31732
+1.Dieterich K, Kimber E, Hall JG.Central nervous system involvement in arthrogryposis multiplex congenita: Overview of causes, diagnosis, and care.Am J Med Genet C Semin Med Genet.2019;181(3):345-353.doi:10.1002/ajmg.c.31732
+2.Dahan-Oliel N, Cachecho S, Barnes D, et al.International multidisciplinary collaboration toward an annotated definition of arthrogryposis multiplex congenita.Am J Med Genet C Semin Med Genet.2019;181(3):288-299.doi:10.1002/ajmg.c.31721
+2.Dahan-Oliel N, Cachecho S, Barnes D, et al.International multidisciplinary collaboration toward an annotated definition of arthrogryposis multiplex congenita.Am J Med Genet C Semin Med Genet.2019;181(3):288-299.doi:10.1002/ajmg.c.31721
+
+【多发性先天性关节挛缩症的诊断】
+产前超声检查
+产前超声检查
+病史和体格检查
+病史和体格检查
+基因检测
+基因检测
+肌电图和肌肉活检
+肌电图和肌肉活检
+先天性多发性关节挛缩症可通过产前超声检查发现（在一项研究中，37%的病例在产前超声检查中被发现）（1）。常见的超声检查结果包括马蹄足、双手紧握、胎动减少、肘关节挛缩和膝关节挛缩。
+如果新生儿有多发性挛缩，初步评估应确定其病症是肌萎缩症、远端关节畸形，还是其他综合征，即多发性挛缩与不相关的先天性异常和/或代谢紊乱有关。如条件允许，临床遗传专家应协调评估和治疗的过程；通常情况下，许多专业的人员都涉及其中。如果出现发育迟缓和/或其他先天性畸形，则应怀疑是综合征形式的 AMC，应对这类患者进行中枢神经系统疾病评估，并监测其是否出现进行性神经系统症状。
+评估也应包括针对相关生理异常，染色体异常和遗传异常的全面评估。需要寻找的特定疾病包括 Freeman-Sheldon 综合征、Holt-Oram 综合征、Larsen 综合征、Miller 综合征、多发性翼状胬肉综合征和 DiGeorge 综合征（22q11 缺失综合征）。检测可能包括染色体微阵列分析或单独进行或作为标准面板进行的特定基因测试（2）。
+在对新生儿进行临床评估的同时，利用新一代测序技术进行AMC特异性基因全套检测，可实现早期诊断并改善健康状况。这些方法可以在 66% 的病例中确定明确的病因（3）。
+当其他检测无法得出明确诊断时，可考虑进行全外显子组测序，尤其是在家族性病例中（4）。
+肌电图和肌肉活检对诊断是神经性还是肌性病变有帮助。在典型的AMC中，肌肉活检通常显示肌发育不良，伴有脂肪和纤维组织替代。
+
+【诊断参考】
+1.Lemin S, van Bosse HJP, Hutka L, Soberdash S, Patibandla J.Prenatal diagnosis (or lack thereof) of arthrogryposis multiplex congenita and its impact on the perinatal experience of parents: A retrospective survey.Prenat Diagn.2024;44(5):614-622.doi:10.1002/pd.6569
+1.Lemin S, van Bosse HJP, Hutka L, Soberdash S, Patibandla J.Prenatal diagnosis (or lack thereof) of arthrogryposis multiplex congenita and its impact on the perinatal experience of parents: A retrospective survey.Prenat Diagn.2024;44(5):614-622.doi:10.1002/pd.6569
+2.Todd EJ, Yau KS, Ong R, et al.Next generation sequencing in a large cohort of patients presenting with neuromuscular disease before or at birth.Orphanet J Rare Dis.2015:10:148.doi:10.1186/s13023-015-0364-0
+2.Todd EJ, Yau KS, Ong R, et al.Next generation sequencing in a large cohort of patients presenting with neuromuscular disease before or at birth.Orphanet J Rare Dis.2015:10:148.doi:10.1186/s13023-015-0364-0
+3.Pollazzon M, Caraffi SG, Faccioli S, et al.Clinical and genetic findings in a series of eight families with arthrogryposis.Genes (Basel).2022;13(1):29.doi:10.3390/genes13010029
+3.Pollazzon M, Caraffi SG, Faccioli S, et al.Clinical and genetic findings in a series of eight families with arthrogryposis.Genes (Basel).2022;13(1):29.doi:10.3390/genes13010029
+4.Hunter JM, Ahearn ME, Balak CD, et al.Novel pathogenic variants and genes for myopathies identified by whole exome sequencing.Mol Genet Genomic Med.2015;3(4):283–301.doi:10.1002/mgg3.142
+4.Hunter JM, Ahearn ME, Balak CD, et al.Novel pathogenic variants and genes for myopathies identified by whole exome sequencing.Mol Genet Genomic Med.2015;3(4):283–301.doi:10.1002/mgg3.142
+
+【多发性先天性关节发育不良的治疗】
+关节手法操作和石膏固定
+关节手法操作和石膏固定
+有时需手术治疗
+有时需手术治疗
+早期作矫形处理及物理治疗。在婴儿出生后的头几个月，关节手法操作和石膏固定可能会使病情得到明显改善。矫形治疗可能有帮助。
+虽然后期可能需要手术矫正关节强直的角度，但很少能改善关节活动度。肌肉转移（例如，通过手术移动肱三头肌，使其能够弯曲肘部）可改善功能。
+许多儿童的治疗效果非常好；三分之二的儿童在治疗后可以下床活动 (1)。
+
+【治疗参考文献】
+1.Hansen-Jaumard D, Elfassy C, Montpetit K, Ghalimah B, Hamdy R, Dahan-Oliel N.A review of the orthopedic interventions and functional outcomes among a cohort of 114 children with arthrogryposis multiplex congenita.J Pediatr Rehabil Med.2020;13(3):263-271.doi:10.3233/PRM-190657
+1.Hansen-Jaumard D, Elfassy C, Montpetit K, Ghalimah B, Hamdy R, Dahan-Oliel N.A review of the orthopedic interventions and functional outcomes among a cohort of 114 children with arthrogryposis multiplex congenita.J Pediatr Rehabil Med.2020;13(3):263-271.doi:10.3233/PRM-190657

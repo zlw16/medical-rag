@@ -1,0 +1,101 @@
+标题：呼吸机相关性肺炎
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/pneumonia/ventilator-associated-pneumonia
+============================================================
+
+(参见肺炎概述。）
+呼吸机相关性肺炎是指气管插管后至少48小时或拔管后48小时内发生的肺炎。这是一个子集医院获得性肺炎，其中包括未接受机械通气的住院患者的肺炎。与其他形式的医院获得性肺炎相比，VAP 通常涉及更多的耐药病原体和更差的结果。
+
+【呼吸机相关性肺炎的病因】
+呼吸机相关性肺炎最常见的病因是危重病人口咽部和上呼吸道定植菌的微量误吸。
+
+【危险因素】
+气管插管是呼吸机相关性肺炎的主要危险因素。气管插管破坏了气管防御功能，减弱咳嗽和黏液纤毛清除功能，使气管插管气囊头端堆积的富含细菌的分泌物易被吸入。此外，细菌在气管套管表面或内部可形成生物膜而抵抗抗生素和宿主的防御机制。插管后前 10 天内发生呼吸机相关性肺炎的风险最高。呼吸机相关性肺炎发生于9％~27％的机械通气患者 (1)。
+不同医疗机构间，呼吸机相关性肺炎的病原体和抗生素耐药模式差异显著，且同一机构内在短时间（如逐月）内也可能发生变化。定期更新医疗机构的抗菌药物敏感性，对于确定合适的经验性抗生素治疗至关重要。一般来说，最重要的病原体是
+Pseudomonas aeruginosa（铜绿假单胞菌）
+Pseudomonas aeruginosa（铜绿假单胞菌）
+甲氧西林敏感的Staphylococcus aureus（金黄色葡萄球菌）
+甲氧西林敏感的Staphylococcus aureus（金黄色葡萄球菌）
+耐甲氧西林S. aureus（金黄色葡萄球菌）（MRSA）
+耐甲氧西林S. aureus（金黄色葡萄球菌）（MRSA）
+其他的重要病原体有肠道革兰氏阴性菌（主要是Enterobacter(肠杆菌)、Klebsiella pneumoniae(肺炎克雷伯菌)、Escherichia coli(大肠杆菌)、Serratia marcescens(黏质沙雷杆菌)、Proteus(变形杆菌)以及Acinetobacter(不动杆菌)）。
+在入院后4~7天内发生的肺炎以甲氧西林敏感S. aureus(金黄色葡萄球菌)、Streptococcus pneumoniae(肺炎链球菌)和Haemophilus influenzae(流感嗜血杆菌)感染最常见。随着气管插管时间或住院时间的延长，P. aeruginosa(铜绿假单胞菌)、MRSA、革兰氏阴性肠杆菌的感染率增加。
+既往使用静脉抗生素（入院前90天内）大大增加了VAP耐药菌感染风险，特别是耐甲氧西林金黄色葡萄球和Pseudomonas(铜绿假单胞菌)感染的可能性（2)。耐药菌的感染明显增加了发病率和死亡率。呼吸机相关性肺炎特有的抗生素耐药菌的其他危险因素包括
+呼吸机相关性肺炎时发生感染性休克
+呼吸机相关性肺炎时发生感染性休克
+呼吸机相关性肺炎发生前的急性呼吸窘迫综合征（ARDS）
+呼吸机相关性肺炎发生前的急性呼吸窘迫综合征（ARDS）
+呼吸机相关性肺炎发生前住院≥5天
+呼吸机相关性肺炎发生前住院≥5天
+VAP发生前的急性肾脏替代治疗
+VAP发生前的急性肾脏替代治疗
+大剂量糖皮质激素的使用增加了Legionella（军团菌）和Pseudomonas（铜绿假单胞菌）感染的风险。慢性化脓性肺病如囊性纤维化和支气管扩张会增加革兰氏阴性病原体的风险，包括耐药菌。
+
+【病因参考文献】
+1.Reignier J, Mercier E, Le Gouge A, et al: Effect of not monitoring residual gastric volume on risk of ventilator-associated pneumonia in adults receiving mechanical ventilation and early enteral feeding: a randomized controlled trial.JAMA309(3):249–256, 2013.doi:10.1001/jama.2012.196377
+1.Reignier J, Mercier E, Le Gouge A, et al: Effect of not monitoring residual gastric volume on risk of ventilator-associated pneumonia in adults receiving mechanical ventilation and early enteral feeding: a randomized controlled trial.JAMA309(3):249–256, 2013.doi:10.1001/jama.2012.196377
+2.Kalil AC, Metersky ML, Klompas M, et al: Management of adults with hospital-acquired and ventilator-associated pneumonia: 2016 clinical practice guidelines by the Infectious Diseases Society of America and the American Thoracic Society.Clin Infect Dis63(5):e61–111, 2016.
+2.Kalil AC, Metersky ML, Klompas M, et al: Management of adults with hospital-acquired and ventilator-associated pneumonia: 2016 clinical practice guidelines by the Infectious Diseases Society of America and the American Thoracic Society.Clin Infect Dis63(5):e61–111, 2016.
+
+【呼吸机相关性肺炎的症状和体征】
+发生在重症机械通气患者中的肺炎常引起发热、呼吸频率或心率增快或呼吸参数的改变（脓性分泌物的增加和低氧血症的加重）。
+
+【呼吸机相关性肺炎的诊断】
+胸片检查及临床表现（诊断准确性有限）
+胸片检查及临床表现（诊断准确性有限）
+有时支气管镜检查或血培养
+有时支气管镜检查或血培养
+诊断不完善。 在实践中，通常根据胸部X线片上出现新的浸润物来疑诊呼吸机相关性肺炎，胸片用于评估新的症状或体征（如发烧，分泌物增加，低氧血症恶化）或白细胞增多。然而，症状、体征和X线表现并不是敏感和特异的诊断指标，因为所有这些都可由肺不张、肺栓塞、肺水肿等引起，也可为急性呼吸窘迫综合征的部分临床表现。
+推荐使用革兰氏染色法和气管内抽吸物半定量培养法来指导VAP的治疗，尽管这两种方法不能明确是否感染。经支气管镜采样行下呼吸道分泌物定量培养可得到可靠标本，可鉴别感染和定植。经支气管镜采样获得的信息减少了抗生素的使用，并有助于将广谱抗生素更改为窄谱抗生素。然而，并未显示出可改善预后。
+在决定是否开始使用抗生素时，测定支气管肺泡灌洗液或血清中的炎性介质并未证实可靠。确定肺炎和致病菌的唯一可靠证据是胸腔积液培养阳性（由在胸腔积液患者进行胸腔穿刺获得标本）。
+血培养鉴定呼吸道病原体特异性也较好，但敏感性欠佳。
+
+【呼吸机相关性肺炎的治疗】
+经验性选择针对耐药菌株有效的抗生素
+经验性选择针对耐药菌株有效的抗生素
+对于疑似呼吸机相关性肺炎病例，需经验性选择抗生素治疗。
+当地细菌敏感情况
+当地细菌敏感情况
+患者易感抗生素耐药病原体的危险因素
+患者易感抗生素耐药病原体的危险因素
+患者样本的先前微生物学结果显示存在抗生素耐药性病原体
+患者样本的先前微生物学结果显示存在抗生素耐药性病原体
+在2007年的指南中，美国传染病协会和美国胸科协会使用非常宽泛的标准来定义有抗生素耐药病原体感染风险的人群，这导致大多数呼吸机相关性肺炎（VAP）患者需要使用广谱抗生素治疗耐甲氧西林金黄色葡萄球菌（MRSA）和耐药的Pseudomonas（假单胞菌）。美国传染病学会和美国胸科学会 2016 年指南强调，尽可能使用窄谱经验性抗生素（1）。在耐甲氧西林金黄色葡萄球菌（MRSA）的发病率为<10%至20%（S. aureus（金黄色葡萄球菌）分离株中)、且P. aeruginosa（铜绿假单胞菌）对常用经验性抗假单胞菌抗生素的耐药率为<10%的机构中，对于无抗生素耐药菌危险因素且无高死亡率风险（指因肺炎或感染性休克而接受机械通气）的呼吸机相关性肺炎，其经验性治疗可包括以下任何一项：
+哌拉西林/他唑巴坦
+哌拉西林/他唑巴坦
+头孢吡肟
+头孢吡肟
+左氧氟沙星
+左氧氟沙星
+亚胺培南
+亚胺培南
+美罗培南
+美罗培南
+在MRSA发生率> 10%~20％的机构中，应加用万古霉素或利奈唑胺。对于高死亡率或者有抗生素耐药菌危险因素者，或者缺乏可靠的当地抗菌药物敏感性资料的机构中，建议使用三联方案，其中包括两种抗Pseudomonas（假单胞菌）药物和一种抗MRSA药物:
+一种抗假单胞菌头孢菌素（头孢吡肟或头孢他啶）或一种抗假单胞菌碳青霉烯类（亚胺培南、美罗培南）或一种beta内酰胺/beta内酰胺酶抑制剂（哌拉西林/他唑巴坦）
+一种抗假单胞菌头孢菌素（头孢吡肟或头孢他啶）或一种抗假单胞菌碳青霉烯类（亚胺培南、美罗培南）或一种beta内酰胺/beta内酰胺酶抑制剂（哌拉西林/他唑巴坦）
+一种抗假单胞菌氟喹诺酮类（环丙沙星或左氧氟沙星）或一种氨基糖苷类（阿米卡星、庆大霉素、妥布霉素）
+一种抗假单胞菌氟喹诺酮类（环丙沙星或左氧氟沙星）或一种氨基糖苷类（阿米卡星、庆大霉素、妥布霉素）
+利奈唑胺或万古霉素
+利奈唑胺或万古霉素
+虽然滥用抗生素是产生细菌耐药性的主要原因，但足量的初始抗生素仍是良好预后的决定因素。因此，治疗必须从最初使用广谱药物开始。应在开始治疗后 2 至 3 天重新评估患者，然后根据临床反应和培养及抗生素敏感性测试的结果将抗生素更改为尽可能最狭窄的方案。
+
+【治疗参考文献】
+1.Kalil AC, Metersky ML, Klompas M, et al: Management of adults with hospital-acquired and ventilator-associated pneumonia: 2016 clinical practice guidelines by the Infectious Diseases Society of America and the American Thoracic Society.Clin Infect Dis63(5):e61–111, 2016.
+1.Kalil AC, Metersky ML, Klompas M, et al: Management of adults with hospital-acquired and ventilator-associated pneumonia: 2016 clinical practice guidelines by the Infectious Diseases Society of America and the American Thoracic Society.Clin Infect Dis63(5):e61–111, 2016.
+
+【呼吸机相关性肺炎的预后】
+尽管使用了有效的抗生素，呼吸机相关性肺炎的死亡率仍高。然而，并非所有的死亡都归因于肺炎本身;许多死亡都与患者的潜在疾病相关。足量的初始抗菌治疗能明显改善预后。感染耐抗生素细菌会使预后恶化。
+
+【呼吸机相关性肺炎的预防】
+有许多措施可以帮助预防呼吸机相关性肺炎。与仰卧位相比，半坐位或坐位可减少误吸和发生肺炎的危险性，这也是最简单有效的预防措施。使用持续气道正压（CPAP）或双水平气道正压（BPAP）进行无创通气，可以避免气管插管对气道防御功能的破坏，使部分患者免于插管，并且与呼吸机相关性肺炎发生率降低相关。
+使用特殊设计的连接抽吸装置的气管内导管持续抽吸声门下的分泌物，可降低微量误吸以及发生VAP的风险；然而，总体临床结果没有改变。镀银气管导管可减少生物膜形成和 VAP 的发生率，但总体临床结果并未改变。
+口咽部选择性净化（局部使用庆大霉素、黏菌素、氯己定、万古霉素乳膏，或联合用药），或全胃肠道选择性净化（使用多黏菌素B、氨基糖苷类或喹诺酮类、以及制真菌素或两性霉素B）目前仍有争议，因为担心耐药菌株的产生，并且虽然净化可减少呼吸机相关性肺炎的发生率，但尚未被证明能降低病死率。
+培养监测和定期更换呼吸机管道或气管套管并不能降低VAP的发生率。
+呼吸机相关性肺炎是指气管插管后至少48小时发生的肺炎。
+呼吸机相关性肺炎是指气管插管后至少48小时发生的肺炎。
+可能的病原体与引起社区获得性肺炎的病原体不同，并且通常初始经验性抗生素治疗需覆盖耐药微生物。
+可能的病原体与引起社区获得性肺炎的病原体不同，并且通常初始经验性抗生素治疗需覆盖耐药微生物。
+诊断困难，胸腔积液或血培养出潜在病原体是最具特异性的发现。
+诊断困难，胸腔积液或血培养出潜在病原体是最具特异性的发现。
+初始治疗后2~3天需重新评估患者，并根据所得到的培养结果及临床数据调整抗生素。
+初始治疗后2~3天需重新评估患者，并根据所得到的培养结果及临床数据调整抗生素。

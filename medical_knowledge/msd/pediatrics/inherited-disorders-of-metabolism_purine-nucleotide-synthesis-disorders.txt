@@ -1,0 +1,28 @@
+标题：嘌呤核苷酸合成障碍疾病
+来源：https://www.msdmanuals.cn/professional/pediatrics/inherited-disorders-of-metabolism/purine-nucleotide-synthesis-disorders
+============================================================
+
+嘌呤是细胞能量系统（如ATP、NAD）、信号传导（如GTP、cAMP、cGMP）的关键组分，并与嘧啶共同参与RNA和DNA的合成。
+嘌呤可以新合成，也可以是通过正常旁路代谢循环再利用。
+嘌呤的分解代谢终产物为尿酸。
+除了嘌呤核苷酸合成障碍，嘌呤代谢障碍(参考表表嘌呤代谢紊乱)包括：
+嘌呤分解代谢紊乱
+嘌呤分解代谢紊乱
+嘌呤补救障碍
+嘌呤补救障碍
+另可参考疑似遗传性代谢紊乱患者的诊疗方法和疑似遗传性代谢紊乱的检测方法。
+
+【磷酸核糖焦磷酸合成酶活性增强】
+这是一种导致嘌呤产生过多的X-连锁隐性遗传疾病。过多的嘌呤降解引起高尿酸血症、痛风以及神经和发育异常。
+磷酸核糖焦磷酸合成酶超活性的诊断根据DNA分析。
+磷酸核糖焦磷酸合成酶活性增强，其治疗是采用别嘌呤醇和低嘌呤饮食。
+
+【腺苷基琥珀酸裂解酶缺乏】
+这是一种常染色体隐性遗传疾病，引起严重的智力发育障碍、孤独症行为和惊厥。
+通过DNA分析诊断腺苷琥珀酸酶缺乏症。
+腺苷基琥珀酸裂解酶缺乏症尚无有效治疗方法。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information
+Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information

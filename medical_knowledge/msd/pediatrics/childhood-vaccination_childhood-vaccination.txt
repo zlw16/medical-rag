@@ -1,0 +1,65 @@
+标题：儿童免疫接种
+来源：https://www.msdmanuals.cn/professional/pediatrics/childhood-vaccination/childhood-vaccination
+============================================================
+
+疫苗接种对于预防严重疾病和促进世界健康来说，是非常有效的。 因为有了疫苗，许多曾经非常常见和/或致命的感染(如脊髓灰质炎、白喉)现在已很少见，而有些(如天花)已被根除。1994年至2023年间，美国常规儿童疫苗接种共预防约5.08亿例疾病、3200万例住院及110万例死亡，其中对麻疹、水痘和白喉等高传染性疾病的预防效果最为显著（1）。然而，除了天花，这些感染仍然在世界各地偶有发生。
+有关特定疫苗的更多信息，请参阅以下内容：
+COVID-19疫苗
+COVID-19疫苗
+白喉-破伤风-百日咳疫苗
+白喉-破伤风-百日咳疫苗
+Haemophilus influenzaeb型流感嗜血杆菌（Hib）疫苗
+Haemophilus influenzaeb型流感嗜血杆菌（Hib）疫苗
+甲肝（HepA）疫苗
+甲肝（HepA）疫苗
+乙型肝炎(HepB)疫苗
+乙型肝炎(HepB)疫苗
+人乳头瘤病毒（HPV）疫苗
+人乳头瘤病毒（HPV）疫苗
+流感疫苗
+流感疫苗
+麻疹、腮腺炎和风疹（MMR）疫苗
+麻疹、腮腺炎和风疹（MMR）疫苗
+脑膜炎球菌疫苗
+脑膜炎球菌疫苗
+肺炎球菌疫苗
+肺炎球菌疫苗
+脊髓灰质炎疫苗
+脊髓灰质炎疫苗
+轮状病毒疫苗
+轮状病毒疫苗
+破伤风-白喉疫苗
+破伤风-白喉疫苗
+水痘疫苗
+水痘疫苗
+
+【参考文献】
+1.Zhou F, Jatlaoui TC, Leidner AJ, et al.Health and Economic Benefits of Routine Childhood Immunizations in the Era of the Vaccines for Children Program - United States, 1994-2023.MMWR Morb Mortal Wkly Rep.2024;73(31):682-685.Published 2024 Aug 8.doi:10.15585/mmwr.mm7331a2
+1.Zhou F, Jatlaoui TC, Leidner AJ, et al.Health and Economic Benefits of Routine Childhood Immunizations in the Era of the Vaccines for Children Program - United States, 1994-2023.MMWR Morb Mortal Wkly Rep.2024;73(31):682-685.Published 2024 Aug 8.doi:10.15585/mmwr.mm7331a2
+
+【儿童疫苗接种计划】
+在美国，儿童和青少年的疫苗接种遵循疾病控制与预防中心 (CDC) 免疫实践咨询委员会 (ACIP) 推荐的时间表：
+Child and Adolescent Immunization Schedule by Age
+Child and Adolescent Immunization Schedule by Age
+Catch-up Immunization Schedule for Children and Adolescents
+Catch-up Immunization Schedule for Children and Adolescents
+这些时间表也可以作为面向医疗保健专业人员的免费移动应用程序。此外，临床医生应咨询相关免疫实践咨询委员会（ACIP）提出的疫苗特异性建议。
+
+【疫苗的有效性和安全性】
+疫苗接种对于预防严重疾病来说，是非常有效的。由于疫苗的成本适中（特别是与必须长期服用以治疗感染及其相关并发症的药物相比），疫苗是最具有成本效益的医疗干预措施之一。疫苗是如此有效，以至于许多目前正在执业的医疗工作者几乎很少或根本没发现这些此前极其常见和致命的病例。
+由于疫苗可预防的疾病在美国已较为罕见，且疫苗主要接种于健康儿童，因此疫苗必须具有极高的安全性才能被患者和照顾者接受。
+在美国食品药品监督管理局（FDA）批准和许可之前，疫苗（与其他所有医疗产品一样）需经过随机对照试验（RCTs）的检验，此类试验会将新疫苗与安慰剂（若已有同类疫苗，则与现有疫苗）进行对比研究。 这种许可证发放前的随机对照试验的目的主要是评估疫苗的有效性，并确定常见不良事件（如发热；局部反应，如注射部位发红，肿胀和疼痛）。 然而，某些不良事件发生率太低，以至于在任何实际规模的随机对照试验中都无法检测到，这些不良事件可能直到疫苗上市并进入常规使用后才会出现。 因此有两个监测系统，疫苗不良事件报告系统（VAERS）和疫苗安全数据链路（VSD），用于监测疫苗上市后的安全性。
+VAERS是由FDA和CDC共同赞助的安全项目。这是一个供患者报告他们认为在最近接种疫苗后出现不良事件的平台。 医疗保健从业者也必须报告接种后的某些事件，甚至是他们不能确定事件与疫苗相关的可能报告事件。 VAERS报告来源于美国各地，并对潜在的安全问题进行快速评估。 然而，VAERS报告可以显示疫苗接种疑似不良事件之间只存在时间关联；他们并不能证明因果关系。  因此，VAERS报告必须进一步使用其他方法进行评估。 其中一种方法是使用 VSD，该系统利用来自 13 个中心的数据，这些中心提供临床、方法学及数据方面的专业支持；其中有 11 个为数据提供中心（1）。 这些数据包括疫苗管理（作为常规护理的一部分在医学记录中记录），以及后续的病史以及不良事件。  与VAERS不同，VSD包括了来自接受疫苗接种的患者以及未接受疫苗注射的患者的数据。 VSD中设置的对照组使数据对比分析成为可能。 作为结果，VSD可以帮助区分接种后偶然发生的症状和实际不良事件，从而确定不良事件的实际发生率。 尽管疫苗具有健康效益并建立了完善的安全保障机制，仍有部分家长拒绝为孩子接种疫苗。（另见疫苗犹豫。）
+
+【参考文献】
+1.CDC: Vaccine Safety Datalink (VSD).
+1.CDC: Vaccine Safety Datalink (VSD).
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Children's Hospital of Philadelphia:Vaccine Education Center
+Children's Hospital of Philadelphia:Vaccine Education Center
+European Centre for Disease Prevention and Control (ECDC):Vaccine schedules in all countries in the EU/EEA
+European Centre for Disease Prevention and Control (ECDC):Vaccine schedules in all countries in the EU/EEA
+Centers for Disease Control and Prevention (CDC):Vaccines For Your Children
+Centers for Disease Control and Prevention (CDC):Vaccines For Your Children

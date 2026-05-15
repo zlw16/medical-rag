@@ -1,0 +1,52 @@
+标题：消化道血管性病变
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/gastrointestinal-bleeding/vascular-gastrointestinal-lesions
+============================================================
+
+血管扩张症（血管发育不良，动静脉畸形）是扩张、迂曲的血管，通常发生在盲肠和升结肠。主要见于年龄>60岁以上患者，是该年龄段下消化道出血最常见原因 (1)。通常认为是血管退行性变，与其他血管性异常无关。大多数患者有2～3处病变，典型病变为0.5～1.0 cm、鲜红色、平坦或轻度凸起，表面覆有薄层上皮。
+血管扩张症也与多种系统性疾病（如肾功能衰竭、主动脉瓣狭窄、肝硬化、CREST 综合征 [皮肤钙化、雷诺现象、食管动力障碍、硬皮病性指端病变、毛细血管扩张]）相关，也可发生于肠道放疗后。
+图示肠壁血管扩张。
+胃窦血管扩张（西瓜胃或GAVE）是沿胃呈线样分布的粗大扩张静脉，形成类似西瓜的条纹外观。该病主要发生于老年人，病因未明但与肝硬化显著相关（2,3）。
+胃窦血管扩张 (GAVEs) 是沿胃呈线样分布的粗大扩张静脉，其模式类似于西瓜。
+遗传性出血性毛细血管扩张症（Rendu-Osler-Weber综合征）为常染色体显性遗传病，可致全身各个部位的多支血管病变，包括整个消化道。患者50岁前极少见消化道出血 (4)。
+迪厄拉富瓦病变是异常粗大的动脉，穿透肠壁，偶尔侵蚀黏膜并导致大量出血。主要见于胃近端。
+Dieulafoy 病变是一条穿过胃壁的大动脉。它的严重性在于可侵蚀黏膜并导致大出血。
+动静脉畸形和血管瘤均为先天性血管疾病，可发生于胃肠道，但较罕见。
+
+【参考文献】
+1.Bermont A, Abu-Freha N, Cohen DL, Abu-Kaf H, Abu Juma A, Abu Galion F, Aminov R, Shirin H.Epidemiology and risk factors for angiodysplasias of the upper and lower gastrointestinal tract: A large population-based study.Dig Liver Dis.2025 Jan;57(1):220-224.doi: 10.1016/j.dld.2024.07.037
+1.Bermont A, Abu-Freha N, Cohen DL, Abu-Kaf H, Abu Juma A, Abu Galion F, Aminov R, Shirin H.Epidemiology and risk factors for angiodysplasias of the upper and lower gastrointestinal tract: A large population-based study.Dig Liver Dis.2025 Jan;57(1):220-224.doi: 10.1016/j.dld.2024.07.037
+2.Thomas A, Koch D, Marsteller W, Lewin D, Reuben A.An Analysis of the Clinical, Laboratory, and Histological Features of Striped, Punctate, and Nodular Gastric Antral Vascular Ectasia.Dig Dis Sci.2018 Apr;63(4):966-973.doi: 10.1007/s10620-018-4965-z
+2.Thomas A, Koch D, Marsteller W, Lewin D, Reuben A.An Analysis of the Clinical, Laboratory, and Histological Features of Striped, Punctate, and Nodular Gastric Antral Vascular Ectasia.Dig Dis Sci.2018 Apr;63(4):966-973.doi: 10.1007/s10620-018-4965-z
+3.Selinger CP, Ang YS.Gastric antral vascular ectasia (GAVE): an update on clinical presentation, pathophysiology and treatment.Digestion.2008;77(2):131-7.doi: 10.1159/000124339
+3.Selinger CP, Ang YS.Gastric antral vascular ectasia (GAVE): an update on clinical presentation, pathophysiology and treatment.Digestion.2008;77(2):131-7.doi: 10.1159/000124339
+4.McDonald J, Stevenson DA.Hereditary Hemorrhagic Telangiectasia.2000 Jun 26 [updated 2021 Nov 24].In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.GeneReviews® [Internet].Seattle (WA): University of Washington, Seattle; 1993–2025.
+4.McDonald J, Stevenson DA.Hereditary Hemorrhagic Telangiectasia.2000 Jun 26 [updated 2021 Nov 24].In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.GeneReviews® [Internet].Seattle (WA): University of Washington, Seattle; 1993–2025.
+
+【血管胃肠道病变的症状和体征】
+血管性病变通常无痛。
+患者经常出现血红素阳性粪便或直肠少量鲜红色血液。出血呈间歇性，有时发作间隔较长。上消化道病变出血常表现为黑便。
+除迪厄拉富瓦病变所致出血外，重度出血并不常见。
+
+【胃肠道血管病变的诊断】
+血管性病变最常通过内镜检查诊断。
+如果常规内镜无法诊断，可行小肠镜、胶囊内镜、术中小肠镜、或内脏血管造影。
+锝 - 99m 标记红细胞扫描特异性较低，但可帮助定位病变，以便进行内镜或血管造影检查。
+
+【血管胃肠道病变的治疗】
+内镜下凝固
+内镜下凝固
+内镜下凝血（使用热探头、激光、氩等离子体或双极电凝）对多种血管性病变有效。若血管扩张症被认为是出血原因，可采用内镜下凝血治疗。内镜夹可用于部分病变的治疗。血管病变常会复发，但有证据表明生长抑素类似物如奥曲肽可减少输血及内镜需求（1,2）。
+血管性病变内镜干预后的再出血风险约为三分之一(1)。轻度反复出血可长期服用铁剂治疗。
+内镜处理无效的严重出血，需行血管造影下栓塞或手术治疗。再次出血的风险低于内镜介入治疗后的风险（3）。
+
+【治疗参考文献】
+1.Sengupta N, Feuerstein JD, Jairath V, et al.Management of Patients With Acute Lower Gastrointestinal Bleeding: An Updated ACG Guideline.Am J Gastroenterol.2023;118(2):208-231.doi:10.14309/ajg.0000000000002130.
+1.Sengupta N, Feuerstein JD, Jairath V, et al.Management of Patients With Acute Lower Gastrointestinal Bleeding: An Updated ACG Guideline.Am J Gastroenterol.2023;118(2):208-231.doi:10.14309/ajg.0000000000002130.
+2.Becq A, Sidhu R, Goltstein LCMJ, Dray X.Recent advances in the treatment of refractory gastrointestinal angiodysplasia.United European Gastroenterol J.2024;12(8):1128-1135.doi:10.1002/ueg2.12648
+2.Becq A, Sidhu R, Goltstein LCMJ, Dray X.Recent advances in the treatment of refractory gastrointestinal angiodysplasia.United European Gastroenterol J.2024;12(8):1128-1135.doi:10.1002/ueg2.12648
+3.Omori J, Kaise M, Nagata N, Aoki T, et al.Characteristics, outcomes, and risk factors of surgery for acute lower gastrointestinal bleeding: nationwide cohort study of 10,342 hematochezia cases.J Gastroenterol.2024 Jan;59(1):24-33.doi: 10.1007/s00535-023-02057-9.
+3.Omori J, Kaise M, Nagata N, Aoki T, et al.Characteristics, outcomes, and risk factors of surgery for acute lower gastrointestinal bleeding: nationwide cohort study of 10,342 hematochezia cases.J Gastroenterol.2024 Jan;59(1):24-33.doi: 10.1007/s00535-023-02057-9.
+多种遗传性与获得性血管异常可导致轻至中度消化道出血（通常为下消化道）。
+多种遗传性与获得性血管异常可导致轻至中度消化道出血（通常为下消化道）。
+首选内镜下凝固治疗。
+首选内镜下凝固治疗。

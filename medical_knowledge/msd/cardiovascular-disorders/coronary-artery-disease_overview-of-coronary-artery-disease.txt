@@ -1,0 +1,201 @@
+标题：冠状动脉疾病概述
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/coronary-artery-disease/overview-of-coronary-artery-disease
+============================================================
+
+冠状动脉疾病是男女死亡的主要原因，约占所有死亡人数的三分之一，其中相当一部分发生在资源匮乏的地区（1）。男性因冠状动脉疾病导致的死亡率大约比女性高 5 倍，但死亡率差异随着年龄的增长而缩小（2）。
+
+【参考文献】
+1.Ralapanawa U, Sivakanesan R.Epidemiology and the Magnitude of Coronary Artery Disease and Acute Coronary Syndrome: A Narrative Review.J Epidemiol Glob Health2021;11(2):169-177.doi:10.2991/jegh.k.201217.001
+1.Ralapanawa U, Sivakanesan R.Epidemiology and the Magnitude of Coronary Artery Disease and Acute Coronary Syndrome: A Narrative Review.J Epidemiol Glob Health2021;11(2):169-177.doi:10.2991/jegh.k.201217.001
+2.Bots SH, Peters SAE, Woodward M.Sex differences in coronary heart disease and stroke mortality: a global assessment of the effect of ageing between 1980 and 2010.BMJ Glob Health2017;2(2):e000298.Published 2017 Mar 27.doi:10.1136/bmjgh-2017-000298
+2.Bots SH, Peters SAE, Woodward M.Sex differences in coronary heart disease and stroke mortality: a global assessment of the effect of ageing between 1980 and 2010.BMJ Glob Health2017;2(2):e000298.Published 2017 Mar 27.doi:10.1136/bmjgh-2017-000298
+
+【冠状动脉疾病的病因】
+通常，冠状动脉疾病是由于
+冠状动脉动脉粥样硬化：大、中冠状动脉内膜下粥样斑块沉积
+冠状动脉动脉粥样硬化：大、中冠状动脉内膜下粥样斑块沉积
+少数情况下冠状动脉疾病由于
+冠状动脉痉挛（见变异型心绞痛)
+冠状动脉痉挛（见变异型心绞痛)
+血管内皮功能障碍可促进动脉粥样硬化，并可能导致冠状动脉痉挛。在没有心外膜冠状动脉狭窄或痉挛的情况下，内皮功能障碍也被认为是心绞痛的原因（见微血管性心绞痛)。
+其他罕见原因包括冠状动脉栓塞、夹层、动脉瘤（如川崎病）和血管炎（如高安动脉炎）。
+
+【冠状动脉疾病的病理生理学】
+
+【冠状动脉粥样硬化】
+冠脉粥样硬化不规则地分布于不同血管，但典型斑块常位于血液湍流处（如血管分叉）。随着粥样斑块进展，动脉管腔进行性狭窄，导致心肌缺血，引发心绞痛。导致心肌缺血的冠脉狭窄程度随心肌需氧量不同而有所差异。
+动脉粥样硬化斑块有时会发生破裂原因尚不清楚，但可能与斑块形态、斑块钙含量以及炎症过程导致的斑块软化有关。破裂会暴露胶原蛋白和其他血栓形成物质，从而激活血小板和凝血级联反应（见图血液凝固途径），导致急性血栓形成，阻断冠状动脉血流，引起一定程度的心肌缺血。急性心肌缺血的后果统称为急性冠脉综合征（ACS），随血管阻塞部位与程度而不同，临床表现从不稳定型心绞痛、非ST抬高型心肌梗死（NSTEMI）到ST抬高型心肌梗死（STEMI），后者可导致透壁性心肌梗死和其他并发症，包括恶性心律失常、传导缺陷、心力衰竭和猝死。
+
+【冠状动脉痉挛】
+冠状动脉痉挛是一过性、局灶性血管张力增加引起管腔显著狭窄导致血流减少，引发症状性心肌缺血（变异型心绞痛）。显著的管腔狭窄可触发血栓形成，导致心肌梗死或致命性心律失常。痉挛发生部位与是否有动脉粥样硬化斑块形成无关。
+在没有粥样斑块的血管中，冠状动脉基础张力可能增加，对血管收缩刺激的反应可能增强。其中机制尚不明确，可能与内源性一氧化氮生成异常、内皮依赖性血管收缩和舒张因子之间的不平衡有关。
+在没有粥样斑块的血管中，冠状动脉基础张力可能增加，对血管收缩刺激的反应可能增强。其中机制尚不明确，可能与内源性一氧化氮生成异常、内皮依赖性血管收缩和舒张因子之间的不平衡有关。
+动脉粥样硬化的动脉，粥样硬化斑块可引起内皮功能障碍，可能导致血管局部高收缩性。 其可能的机制包括粥样斑块区域对内源性血管舒张因子（如乙酰胆碱）的敏感性丧失、血管收缩因子（如血管紧张素Ⅱ、内皮素、白三烯、5-羟色胺、血栓素）的生成增加。反复血管痉挛可损害内皮，导致粥样斑块的形成。
+动脉粥样硬化的动脉，粥样硬化斑块可引起内皮功能障碍，可能导致血管局部高收缩性。 其可能的机制包括粥样斑块区域对内源性血管舒张因子（如乙酰胆碱）的敏感性丧失、血管收缩因子（如血管紧张素Ⅱ、内皮素、白三烯、5-羟色胺、血栓素）的生成增加。反复血管痉挛可损害内皮，导致粥样斑块的形成。
+血管收缩物质（如可卡因、尼古丁）的使用和情绪应激也会触发冠脉痉挛。
+
+【冠状动脉夹层】
+冠状动脉夹层是指冠状动脉内膜罕见的非创伤性撕裂，形成假管腔。流经假腔的血液会使其扩张，从而限制流经真腔的血流，有时导致冠状动脉缺血或心肌梗死。动脉粥样硬化或非动脉粥样硬化的冠状动脉可发生夹层。孕妇或产后女性及/或患有纤维肌发育不良或其他结缔组织疾病的患者更易发生非动脉粥样硬化性夹层。
+
+【冠状动脉疾病的危险因素】
+冠心病的危险因素与动脉粥样硬化的危险因素相同：
+性别为男性
+性别为男性
+早期冠状动脉疾病家族史（男性直系亲属在 55 岁之前或女性在 65 岁之前因冠状动脉疾病死亡）
+早期冠状动脉疾病家族史（男性直系亲属在 55 岁之前或女性在 65 岁之前因冠状动脉疾病死亡）
+低密度脂蛋白（LDL）胆固醇升高（见血脂异常)
+低密度脂蛋白（LDL）胆固醇升高（见血脂异常)
+脂蛋白a水平升高
+脂蛋白a水平升高
+高密度脂蛋白（HDL）胆固醇水平降低
+高密度脂蛋白（HDL）胆固醇水平降低
+糖尿病（尤其是2型糖尿病）
+糖尿病（尤其是2型糖尿病）
+吸烟（包括二手烟）
+吸烟（包括二手烟）
+体力活动缺乏
+体力活动缺乏
+载脂蛋白B水平升高
+载脂蛋白B水平升高
+C反应蛋白水平升高
+C反应蛋白水平升高
+吸烟可能是女性心肌梗死的强预测因子(1)。遗传因素、全身性疾病（如高血压、甲状腺功能减退）和代谢性疾病（如高同型半胱氨酸血症）也起到一定作用。总胆固醇或LDL水平正常时，载脂蛋白B水平升高提示冠心病风险增加 (2, 3)。
+C反应蛋白水平升高提示斑块不稳定性及炎症反应，是比 LDL水平升高更强的缺血事件预测因子 (4)。高甘油三酯和高胰岛素（提示胰岛素抵抗）水平也是可能的危险因素， 尚缺乏足够证据支持。冠心病的风险还会因以下因素升高：饮食中脂肪和热量含量高，而植物化学物（多见于水果和蔬菜中）、膳食纤维及维生素 C、D、E 含量低；饮食中 Omega-3（n-3）多不饱和脂肪酸（PUFAs）含量相对较低（至少在部分人群中是如此）；以及压力管理不佳。
+目前美国指南推荐的修订合并队列风险计算器，用于评估 10 年动脉粥样硬化性心血管疾病的风险（5，6）。PREVENT计算器（链接：美国心脏协会PREVENT™在线计算器）纳入了额外的信息，包括肾脏和代谢健康指标以及社会经济差异（根据美国邮政编码确定），以提供动脉粥样硬化性心血管疾病和心力衰竭的10年和30年综合风险评估（7，8）。
+
+【风险因素参考文献】
+1.Prescott E, Hippe M, Schnohr P, Hein HO, Vestbo J.Smoking and risk of myocardial infarction in women and men: longitudinal population study.BMJ1998;316(7137):1043-1047.doi:10.1136/bmj.316.7137.1043
+1.Prescott E, Hippe M, Schnohr P, Hein HO, Vestbo J.Smoking and risk of myocardial infarction in women and men: longitudinal population study.BMJ1998;316(7137):1043-1047.doi:10.1136/bmj.316.7137.1043
+2.Sniderman AD, Thanassoulis G, Glavinovic T, et al.Apolipoprotein B Particles and Cardiovascular Disease: A Narrative Review.JAMA Cardiol2019 Dec 1;4(12):1287-1295.doi: 10.1001/jamacardio.2019.3780
+2.Sniderman AD, Thanassoulis G, Glavinovic T, et al.Apolipoprotein B Particles and Cardiovascular Disease: A Narrative Review.JAMA Cardiol2019 Dec 1;4(12):1287-1295.doi: 10.1001/jamacardio.2019.3780
+3.Wilkins JT, Li RC, Sniderman A, Chan C, Lloyd-Jones DM.Discordance Between Apolipoprotein B and LDL-Cholesterol in Young Adults Predicts Coronary Artery Calcification: The CARDIA Study.J Am Coll Cardiol2016;67(2):193-201.doi:10.1016/j.jacc.2015.10.055
+3.Wilkins JT, Li RC, Sniderman A, Chan C, Lloyd-Jones DM.Discordance Between Apolipoprotein B and LDL-Cholesterol in Young Adults Predicts Coronary Artery Calcification: The CARDIA Study.J Am Coll Cardiol2016;67(2):193-201.doi:10.1016/j.jacc.2015.10.055
+4.Ridker PM, Lei L, Louie MJ, et al.Inflammation and Cholesterol as Predictors of Cardiovascular Events Among 13 970 Contemporary High-Risk Patients With Statin Intolerance.Circulation2024;149(1):28-35.doi:10.1161/CIRCULATIONAHA.123.066213
+4.Ridker PM, Lei L, Louie MJ, et al.Inflammation and Cholesterol as Predictors of Cardiovascular Events Among 13 970 Contemporary High-Risk Patients With Statin Intolerance.Circulation2024;149(1):28-35.doi:10.1161/CIRCULATIONAHA.123.066213
+5.Muntner P, Colantonio LD, Cushman M, et al.Validation of the atherosclerotic cardiovascular disease Pooled Cohort risk equations.JAMA2014;311(14):1406-1415.doi:10.1001/jama.2014.2630
+5.Muntner P, Colantonio LD, Cushman M, et al.Validation of the atherosclerotic cardiovascular disease Pooled Cohort risk equations.JAMA2014;311(14):1406-1415.doi:10.1001/jama.2014.2630
+6.Arnett DK, Blumenthal RS, Albert MA, et al.2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines [published correction appears in Circulation. 2019 Sep 10;140(11):e649-e650. doi: 10.1161/CIR.0000000000000725] [published correction appears in Circulation. 2020 Jan 28;141(4):e60. doi: 10.1161/CIR.0000000000000755] [published correction appears in Circulation. 2020 Apr 21;141(16):e774. doi: 10.1161/CIR.0000000000000771].Circulation2019;140(11):e596-e646.doi:10.1161/CIR.0000000000000678
+6.Arnett DK, Blumenthal RS, Albert MA, et al.2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines [published correction appears in Circulation. 2019 Sep 10;140(11):e649-e650. doi: 10.1161/CIR.0000000000000725] [published correction appears in Circulation. 2020 Jan 28;141(4):e60. doi: 10.1161/CIR.0000000000000755] [published correction appears in Circulation. 2020 Apr 21;141(16):e774. doi: 10.1161/CIR.0000000000000771].Circulation2019;140(11):e596-e646.doi:10.1161/CIR.0000000000000678
+7.Khan SS, Matsushita K, Sang Y, et al.Development and Validation of the American Heart Association's PREVENT Equations.Circulation2024;149(6):430-449.doi:10.1161/CIRCULATIONAHA.123.067626
+7.Khan SS, Matsushita K, Sang Y, et al.Development and Validation of the American Heart Association's PREVENT Equations.Circulation2024;149(6):430-449.doi:10.1161/CIRCULATIONAHA.123.067626
+8.Khan SS, Coresh J, Pencina MJ, et al.Novel Prediction Equations for Absolute Risk Assessment of Total Cardiovascular Disease Incorporating Cardiovascular-Kidney-Metabolic Health: A Scientific Statement From the American Heart Association.Circulation2023;148(24):1982-2004.doi:10.1161/CIR.0000000000001191
+8.Khan SS, Coresh J, Pencina MJ, et al.Novel Prediction Equations for Absolute Risk Assessment of Total Cardiovascular Disease Incorporating Cardiovascular-Kidney-Metabolic Health: A Scientific Statement From the American Heart Association.Circulation2023;148(24):1982-2004.doi:10.1161/CIR.0000000000001191
+
+【冠状动脉解剖】
+左右冠状动脉分别起源于主动脉根部、主动脉瓣瓣口上方的左右冠状窦（见图心脏动脉）。冠状动脉沿着心脏表面分为大、中分支（心外膜冠状动脉），继而再分为更小的分支进入心肌。
+左冠状动脉从左主干开始，分为左前降支（LAD）和回旋支，有时会分出一支中间支（中间支动脉）。左前降支通常沿着前室间沟走行，部分可延续至心尖。供应前室间隔（包括近端传导系统）与左室前游离壁。回旋支通常比左前降支小，供应左室游离壁的侧面。
+主要冠状动脉是指产生后降支动脉的冠状动脉。绝大多数人的冠脉为右冠优势型：右冠状动脉沿着房室沟走行至心脏右侧，供应窦房结（55％的人）、右室、房室结和下壁心肌。约10～15%人的冠脉为左冠优势型：回旋支动脉较大，沿后房室沟走行，供应后壁和房室结。
+
+【心脏动脉】
+心脏动脉
+
+【冠状动脉疾病的治疗】
+药物治疗包括抗血小板药物、调脂药（例如他汀）及beta阻滞剂。
+药物治疗包括抗血小板药物、调脂药（例如他汀）及beta阻滞剂。
+经皮冠状动脉介入治疗（PCI）
+经皮冠状动脉介入治疗（PCI）
+急性血栓形成者有时需要溶栓治疗
+急性血栓形成者有时需要溶栓治疗
+冠状动脉旁路移植术（CABG）
+冠状动脉旁路移植术（CABG）
+治疗总体目标是通过减少氧耗、改善冠状动脉血流，从而减轻心脏负荷，长期阻止和逆转动脉粥样硬化的进展。经皮冠状动脉介入治疗（PCI）或冠状动脉旁路移植（CABG）可改善冠状动脉血流。冠脉内急性血栓形成有时可采取溶栓治疗。
+
+【药物疗法】
+(参见治疗急性冠脉综合征的药物。）
+CAD患者的管理取决于症状、心功能及合并症。推荐的疗法包括
+抗血小板药物可预防血栓形成
+抗血小板药物可预防血栓形成
+他汀类药物降低低密度脂蛋白胆固醇水平
+他汀类药物降低低密度脂蛋白胆固醇水平
+β受体阻滞剂可减轻心绞痛症状
+β受体阻滞剂可减轻心绞痛症状
+抗血小板药物和他汀类药物可能通过改善动脉粥样硬化斑块稳定性和内皮功能来改善短期和长期预后。
+β受体阻滞剂通过降低心率和收缩力以及降低心肌需氧量来减轻心绞痛症状。β受体阻滞剂还可降低梗死后的死亡率，尤其是在心肌梗死（MI）后左室功能障碍的情况下。
+钙通道阻滞剂也有帮助。它们通常与β受体阻滞剂联合用于治疗心绞痛和高血压，但尚未被证明能降低死亡率。
+硝酸酯类可适度扩张冠脉，减少静脉回流，降低心脏做功，从而迅速缓解心绞痛。长效硝酸酯类有助于减少心绞痛发生，但并不降低死亡率。
+血管紧张素转换酶（ACE）抑制剂和血管紧张素II受体阻滞剂（ARBs）是降低冠心病左室功能障碍患者心肌梗死后死亡率的最有效方法 (1, 2)。
+对于内皮功能障碍的处理目前仍缺乏证据，药物治疗基本同大血管动脉粥样硬化，但也有证据表明β-受体阻滞剂的使用可能改善内皮功能（3）。
+
+【经皮冠状动脉介入治疗（PCI）】
+（见经皮冠状动脉介入治疗.)
+对于急性冠脉综合征（ACS）患者，或接受最佳药物治疗后仍有心绞痛的稳定型缺血性心脏病患者，建议使用经皮冠状动脉介入治疗。
+药物洗脱支架，在数周内释放抗增殖药物（如依维莫司、佐他莫司），可将再狭窄率降至低于裸金属支架的水平<10%(4）。大多数 PCI 都是通过支架完成的，美国使用的大多数支架都是药物洗脱支架。
+没有严重梗塞或并发症的患者通常可以在植入支架后几天内恢复工作和正常活动。但是，建议所有患者进行心脏康复治疗。
+金属支架固有的促凝性，可导致支架内血栓形成， 多数发生在最初的24至48小时。晚期支架内血栓形成则发生在30天之后甚至1年以后（少见），金属裸支架和药物洗脱支架均可能发生，尤其易发生于停用抗血小板药物之后。金属裸支架在最初数月内发生进行性内皮化，可降低血栓形成风险。而药物洗脱支架释放的抗增殖药物会抑制内皮化过程，从而延长血栓形成风险期。因此接受支架植入患者应给予抗血小板药物。当前使用裸金属或药物洗脱支架的患者的标准治疗方案包括以下所有方面 (5)：
+术中使用肝素或类似抗凝剂（如比伐卢定，特别适用于出血风险高的患者）
+术中使用肝素或类似抗凝剂（如比伐卢定，特别适用于出血风险高的患者）
+阿司匹林应长期应用。
+阿司匹林应长期应用。
+氯吡格雷、普拉格雷或替格瑞洛至少服用3个月，最多服用12个月
+氯吡格雷、普拉格雷或替格瑞洛至少服用3个月，最多服用12个月
+在手术前开始使用较新的抗血小板药物（例如替格瑞洛或氯吡格雷）可获得最佳效果。
+糖蛋白IIb/IIIa抑制剂不常规用于稳定患者(即无合并症，无急性冠状动脉综合征)择期支架置入。它们可能对一些急性冠脉综合征患者有益，但不应被视为常规药物。到达心导管室之前应用糖蛋白Ⅱb/Ⅲa抑制剂是否有获益尚不明确，大多数全国性机构不建议在此情况下使用(5)。
+如果尚未使用他汀类药物，则应在支架置入后开始使用，因为PCI本身不能治愈或阻止CAD进展。已有证据表明他汀类药物可改善长期无事件生存率(6)。术前使用他汀类药物可降低围手术期心肌梗死风险。
+总体来说，接受PCI的风险与接受CABG的风险相当。总体死亡率为<1%，但根据个人风险因素而有所不同，并且往往与CABG的死亡率相似；Q波心肌梗死发生率为<1%。在<1%的患者中，夹层引起管腔闭塞需要紧急实施冠状动脉旁路移植术。PCI 的中风风险低于 CABG。19 项随机试验的荟萃分析报告显示，接受 CABG 治疗的患者 30 天内发生中风的风险 (1.2%) 高于接受 PCI 治疗的患者 (0.34%)（7）。出血风险为1％至2％。
+
+【冠状动脉旁路移植术（CABG）】
+（见冠状动脉旁路移植）。
+CABG术中尽可能使用动脉（如内乳动脉、桡动脉），必要时可使用自体静脉（如大隐静脉），以旁路冠状动脉的病变节段。术后1年约85%的静脉桥血管可保持通畅，术后5年至少1/3的静脉桥血管出现完全闭塞。但术后10年高达97%的内乳动脉桥血管可保持通畅 (8)。动脉桥血管壁还可增厚以适应增加的血流。对于合并糖尿病以及适合搭桥的多支血管病变患者，CABG优于PCI。
+CABG通常是在心脏停搏、心肺体外循环的条件下进行的；体外循环机泵出和氧合血液。此种手术的风险包括卒中和心肌梗死。对心脏大小正常、无心肌梗死史、心功能正常和无其他危险因素的患者，围术期心肌梗死发生率<5%，卒中发生率1-2%，死亡率≤1%；手术风险随着年龄、合并左室功能不全及潜在疾病而增加。第二次搭桥手术的死亡率比第一次高3-5倍。
+25-30％患者在体外循环后会出现认知障碍或行为异常，可能由来源于体外循环机的微栓塞所致 (9)。认知或行为改变在老年患者中更为普遍，这提示这些变化很可能是由于“神经元储备”减少，使得老年患者对体外循环期间发生的轻微损伤更为敏感。认知障碍的严重程度可轻可重，持续数周至数年。为使该风险降至最低，一些中心采用了不停跳心脏技术（非体外循环CABG，不使用心肺体外循环），该技术使用机械装置稳定外科医生操作的心脏部位。然而，长期研究未能证明这种方法与传统体外循环冠状动脉搭桥术相比有更持久的获益。
+接受旁路手术后冠心病仍可能进展。术后桥血管吻合口近端的冠脉闭塞发生率上升。血栓形成导致静脉桥血管早期闭塞，而动脉粥样硬化所致内膜和中膜退行性变会导致静脉桥血管晚期（数年后）闭塞。阿司匹林可延长静脉桥血管的通畅时间。而持续吸烟可严重影响静脉桥的通畅程度。CABG术后应开始或继续使用最大耐受剂量的他汀类药物。
+
+【治疗参考文献】
+1.Indications for ACE inhibitorsin the early treatment of acute myocardial infarction: systematic overview of individual data from 100,000 patients in randomized trials.ACE Inhibitor Myocardial Infarction Collaborative Group.Circulation1998;97(22):2202-2212.doi:10.1161/01.cir.97.22.2202
+1.Indications for ACE inhibitorsin the early treatment of acute myocardial infarction: systematic overview of individual data from 100,000 patients in randomized trials.ACE Inhibitor Myocardial Infarction Collaborative Group.Circulation1998;97(22):2202-2212.doi:10.1161/01.cir.97.22.2202
+2.Düsing R.Mega clinical trials which have shaped the RAS intervention clinical practice.Ther Adv Cardiovasc Dis2016;10(3):133-150.doi:10.1177/1753944716644131
+2.Düsing R.Mega clinical trials which have shaped the RAS intervention clinical practice.Ther Adv Cardiovasc Dis2016;10(3):133-150.doi:10.1177/1753944716644131
+3.Peller M, Ozierański K, Balsam P, Grabowski M, Filipiak KJ, Opolski G.Influence of beta-blockers on endothelial function: A meta-analysis of randomized controlled trials.Cardiol J2015;22(6):708-716.doi:10.5603/CJ.a2015.0042
+3.Peller M, Ozierański K, Balsam P, Grabowski M, Filipiak KJ, Opolski G.Influence of beta-blockers on endothelial function: A meta-analysis of randomized controlled trials.Cardiol J2015;22(6):708-716.doi:10.5603/CJ.a2015.0042
+4.Bønaa KH, Mannsverk J, Wiseth R, et al.Drug-Eluting or Bare-Metal Stents for Coronary Artery Disease.N Engl J Med2016;375(13):1242-1252.doi:10.1056/NEJMoa1607991
+4.Bønaa KH, Mannsverk J, Wiseth R, et al.Drug-Eluting or Bare-Metal Stents for Coronary Artery Disease.N Engl J Med2016;375(13):1242-1252.doi:10.1056/NEJMoa1607991
+5.Writing Committee Members, Lawton JS, Tamis-Holland JE, et al.2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inJ Am Coll Cardiol2022 Apr 19;79(15):1547].J Am Coll Cardiol2022;79(2):e21-e129.doi:10.1016/j.jacc.2021.09.006
+5.Writing Committee Members, Lawton JS, Tamis-Holland JE, et al.2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inJ Am Coll Cardiol2022 Apr 19;79(15):1547].J Am Coll Cardiol2022;79(2):e21-e129.doi:10.1016/j.jacc.2021.09.006
+6.Grundy SM, Stone NJ, Bailey AL, et al: 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines [published correction appears inCirculation2019 Jun 18;139(25):e1182-e1186] [published correction appears inCirculation2023 Aug 15;148(7):e5].Circulation139(25):e1082–e1143, 2019.doi:10.1161/CIR.0000000000000625
+6.Grundy SM, Stone NJ, Bailey AL, et al: 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines [published correction appears inCirculation2019 Jun 18;139(25):e1182-e1186] [published correction appears inCirculation2023 Aug 15;148(7):e5].Circulation139(25):e1082–e1143, 2019.doi:10.1161/CIR.0000000000000625
+7.Palmerini T, Biondi-Zoccai G, Reggiani LB, et al: Risk of stroke with coronary artery bypass graft surgery compared with percutaneous coronary intervention.J Am Coll Cardiol60(9):798–805, 2012.doi:10.1016/j.jacc.2011.10.912
+7.Palmerini T, Biondi-Zoccai G, Reggiani LB, et al: Risk of stroke with coronary artery bypass graft surgery compared with percutaneous coronary intervention.J Am Coll Cardiol60(9):798–805, 2012.doi:10.1016/j.jacc.2011.10.912
+8.Hillis LD, Smith PK, Anderson JL, et al: 2011 ACCF/AHA Guideline for Coronary Artery Bypass Graft Surgery: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines [published correction appears inCirculation2011 Dec 20;124(25):e957].Circulation124(23):e652–e735, 2011.doi:10.1161/CIR.0b013e31823c074e
+8.Hillis LD, Smith PK, Anderson JL, et al: 2011 ACCF/AHA Guideline for Coronary Artery Bypass Graft Surgery: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines [published correction appears inCirculation2011 Dec 20;124(25):e957].Circulation124(23):e652–e735, 2011.doi:10.1161/CIR.0b013e31823c074e
+9.Kulik A, Ruel M, Jneid H, et al: Secondary prevention after coronary artery bypass graft surgery: a scientific statement from the American Heart Association.Circulation131(10):927–964, 2015.doi:10.1161/CIR.0000000000000182
+9.Kulik A, Ruel M, Jneid H, et al: Secondary prevention after coronary artery bypass graft surgery: a scientific statement from the American Heart Association.Circulation131(10):927–964, 2015.doi:10.1161/CIR.0000000000000182
+
+【冠状动脉疾病的预防】
+美国心脏协会（AHA）推荐采用汇集队列风险评估方程 来计算动脉粥样硬化性心血管疾病的终生患病风险和10年患病风险。风险计算器基于性别、年龄、种族、总胆固醇和高密度脂蛋白（HDL）胆固醇水平、收缩压（以及是否正在接受降压治疗）、糖尿病和吸烟状况(1)。
+冠心病预防包括改变动脉粥样硬化危险因素:
+减轻体重
+减轻体重
+健康饮食
+健康饮食
+规律运动
+规律运动
+血脂调节
+血脂调节
+减少盐的摄取
+减少盐的摄取
+高血压的控制
+高血压的控制
+控制糖尿病
+控制糖尿病
+降压建议各种各样。在美国，对于动脉粥样硬化性心血管疾病（ASCVD）风险较低（10年风险<10％）的患者，如果血压>130/80 mmHg，则建议进行降压治疗。对于冠心病患者或ASCVD风险> 10％的患者，若血压> 130/80 mmHg，建议进行降压治疗（2）。
+调脂治疗（尤其是应用他汀类药物）可以延缓甚至逆转冠心病的进展。治疗目标已被修改。不再试图达到特定的低密度脂蛋白（LDL）胆固醇目标水平，而是根据患者的ASCVD风险来选择治疗。LDL升高的低危患者可能不需要他汀类药物治疗。已经确定了四个高风险患者组，他汀类药物治疗的益处超过了不良事件的风险：
+临床ASCVD患者
+临床ASCVD患者
+低密度脂蛋白胆固醇 ≥ 190mg/dL (≥ 4.9 mmol/L) 的患者
+低密度脂蛋白胆固醇 ≥ 190mg/dL (≥ 4.9 mmol/L) 的患者
+年龄40～75岁的糖尿病患者，低密度脂蛋白胆固醇水平70~189 mg/dL (1.8 to 4.9 mmol/L)
+年龄40～75岁的糖尿病患者，低密度脂蛋白胆固醇水平70~189 mg/dL (1.8 to 4.9 mmol/L)
+年龄在40至75岁之间且无糖尿病、LDL胆固醇水平为70至189mg/dL（1.8至4.9mmol/L）且ASCVD风险>7.5%的患者
+年龄在40至75岁之间且无糖尿病、LDL胆固醇水平为70至189mg/dL（1.8至4.9mmol/L）且ASCVD风险>7.5%的患者
+对于高密度脂蛋白胆固醇水平<40 mg/dL（<1.03 mmol/L）的患者，可加用烟酸或贝特类药物，尽管一些试验未显示使用药物升高HDL能降低缺血风险或延缓动脉粥样硬化进展（3）。
+对于年龄≥60岁的患者，不建议使用阿司匹林作为CAD的一级预防措施 (4)。对于40岁至59岁的患者来说，其10年心血管疾病风险超过10%，可考虑使用该药物，但绝对获益可能很小。
+
+【预防参考文献】
+1.Arnett DK, Blumenthal RS, Albert MA, et al: 2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.J Am Coll Cardiol74:1376–1414, 2019.doi: 10.1016/j.jacc.2019.03.009
+1.Arnett DK, Blumenthal RS, Albert MA, et al: 2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.J Am Coll Cardiol74:1376–1414, 2019.doi: 10.1016/j.jacc.2019.03.009
+2.Whelton PB, Carey RM, Aronow WS, et al: ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: A report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.J Am Coll Cardiol71:e127–e248, 2018.doi: 10.1161/HYP.0000000000000066
+2.Whelton PB, Carey RM, Aronow WS, et al: ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: A report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.J Am Coll Cardiol71:e127–e248, 2018.doi: 10.1161/HYP.0000000000000066
+3.AIM-HIGH Investigators, Boden WE, Probstfield JL, Anderson T, et al:Niacinin patients with low HDL cholesterol levels receiving intensive statin therapy.N Engl J Med365(24): 2255–2267, 2011.doi: 10.1056/NEJMoa1107579
+3.AIM-HIGH Investigators, Boden WE, Probstfield JL, Anderson T, et al:Niacinin patients with low HDL cholesterol levels receiving intensive statin therapy.N Engl J Med365(24): 2255–2267, 2011.doi: 10.1056/NEJMoa1107579
+4.US Preventive Services Task Force, Davidson KW, Barry MJ, et al:AspirinUse to Prevent Cardiovascular Disease: US Preventive Services Task Force Recommendation Statement.JAMA327(16):1577–1584, 2022.doi:10.1001/jama.2022.4983
+4.US Preventive Services Task Force, Davidson KW, Barry MJ, et al:AspirinUse to Prevent Cardiovascular Disease: US Preventive Services Task Force Recommendation Statement.JAMA327(16):1577–1584, 2022.doi:10.1001/jama.2022.4983

@@ -1,0 +1,69 @@
+标题：维生素D中毒
+来源：https://www.msdmanuals.cn/professional/nutritional-disorders/vitamin-deficiency-dependency-and-toxicity/vitamin-d-toxicity
+============================================================
+
+因为1,25-二羟基维生素D（维生素D在体内的活性代谢物）的合成受到严格调控，所以维生素D中毒往往仅发生在摄入过量时（处方药、或高剂量维生素制剂）。维生素D1000mcg（40,000 国际单位[IU]）/d 可在1～4个月内引起婴儿中毒。成人每天服用1250mcg（50,000 IU），持续几个月，可发生中毒。当甲状旁腺功能减退症过度治疗时，可能发生医源性维生素D中毒。
+
+【维生素D中毒的生理学机制】
+维生素D有两种主要形式：
+维生素D2 (麦角钙化醇)
+维生素D2 (麦角钙化醇)
+D3 (胆骨化醇)：天然存在的形式，也用于低剂量补充。
+D3 (胆骨化醇)：天然存在的形式，也用于低剂量补充。
+维生素D3可以通过阳光直射（紫外线B辐射）在皮肤中合成，或者直接从食物中获取（主要从鱼肝油和海水鱼中） (见表维生素的来源、功能和作用）。在一些国家，牛奶和其他食品会添加维生素D进行强化。人乳中维生素D含量低，平均仅为强化牛奶的10％。
+因为皮肤合成能力下降，维生素D水平会随年龄增长而减少。使用防晒霜和深色的皮肤色素沉着也会减少皮肤合成的维生素D。
+维生素D是一种类激素，其在体内的多个活性代谢产物发挥着激素样的作用。它经肝脏代谢为25(OH)D（骨化二醇，即 25 - 羟基胆钙化醇或 25 - 羟基维生素 D），随后在肾脏中转化为1,25-二羟基维生素D（1,25-二羟胆钙化醇，骨化三醇，或活性维生素D激素）。25-羟基维生素D是主要的循环形式，有着部分代谢活性，而1,25（OH）2D才是最具代谢活性的。维生素D向1,25（OH）2D的转化受自身浓度、甲状旁腺素（PTH）及血清钙、磷水平的调节。
+维生素D作用于许多器官系统（见表维生素D及其代谢物的作用），但主要是促进钙和磷在小肠的吸收、促进正常骨骼形成及钙化。
+维生素D和相关的类似物可被用于治疗牛皮癣、甲状旁腺功能减退和肾性骨发育不全。它在降低全因死亡率或预防白血病、乳腺癌、前列腺癌、结肠癌或其他癌症方面的有效性尚未得到证实，它在治疗成人各种其他非骨骼疾病方面也没有功效（1–3）。维生素 D补充剂不能有效治疗或预防抑郁症或心血管疾病（4、5)，对预防急性呼吸道感染的作用微乎其微（6）。对于维生素D缺乏的患者，尤其是那些居住在养老院等机构中的人，同时摄入维生素D和钙的推荐膳食摄入量可能会略微降低其跌倒风险（7）。然而，大剂量维生素D可能会增加骨折风险（8、9）。由于跌倒的原因是多因素的，其他研究尚未发现单独补充维生素D可以减少老年人跌倒和骨折（10,11）。
+(参见维生素概述。)
+
+【维生素D及其代谢产物的作用】
+维生素D及其代谢产物的作用
+维持适当的钙、磷浓度促进骨形成
+免疫系统
+刺激免疫原性与抗肿瘤活性
+降低自身免疫性疾病的风险
+加强钙和磷的转运（吸收）
+促进肾小管重吸收钙
+甲状旁腺
+抑制甲状旁腺激素分泌
+促使胰岛素分泌增加
+
+【生理学参考】
+1.Autier P, Mullie P, Macacu A, et al: Effect ofvitamin Dsupplementation on non-skeletal disorders: A systematic review of meta-analyses and randomised trials.Lancet Diabetes Endocrinol5 (12):986–1004, 2017.doi: 10.1016/S2213-8587(17)30357-1
+1.Autier P, Mullie P, Macacu A, et al: Effect ofvitamin Dsupplementation on non-skeletal disorders: A systematic review of meta-analyses and randomised trials.Lancet Diabetes Endocrinol5 (12):986–1004, 2017.doi: 10.1016/S2213-8587(17)30357-1
+2.Manson JE, Cook NR, Lee IM, et al:Vitamin Dsupplements and prevention of cancer and cardiovascular disease.N Engl J Med380(1):33-44, 2019.doi: 10.1056/NEJMoa1809944
+2.Manson JE, Cook NR, Lee IM, et al:Vitamin Dsupplements and prevention of cancer and cardiovascular disease.N Engl J Med380(1):33-44, 2019.doi: 10.1056/NEJMoa1809944
+3.Cianferotti L, Bertoldo F, Bischoff-Ferrari HA, et al:Vitamin Dsupplementation in the prevention and management of major chronic diseases not related to mineral homeostasis in adults: research for evidence and a scientific statement from the European Society for Clinical and Economic aspects of Osteoporosis and Osteoarthritis (ESCEO).Endocrine56:245-261, 2017.doi:10.1007/s12020-017-1290-9
+3.Cianferotti L, Bertoldo F, Bischoff-Ferrari HA, et al:Vitamin Dsupplementation in the prevention and management of major chronic diseases not related to mineral homeostasis in adults: research for evidence and a scientific statement from the European Society for Clinical and Economic aspects of Osteoporosis and Osteoarthritis (ESCEO).Endocrine56:245-261, 2017.doi:10.1007/s12020-017-1290-9
+4.Okereke OI, Reynolds CF 3rd, Mischoulon D, et al: Effect of long-term vitamin D3 supplementation vs placebo on risk of depression or clinically relevant depressive symptoms and on change in mood scores: A randomized clinical trial.JAMA324(5):471-480, 2020.doi: 10.1001/jama.2020.10224
+4.Okereke OI, Reynolds CF 3rd, Mischoulon D, et al: Effect of long-term vitamin D3 supplementation vs placebo on risk of depression or clinically relevant depressive symptoms and on change in mood scores: A randomized clinical trial.JAMA324(5):471-480, 2020.doi: 10.1001/jama.2020.10224
+5.Barbarawi M, Kheiri B, Zayed Y, et al:Vitamin Dsupplementation and cardiovascular disease risks in more than 83,000 individuals in 21 randomized clinical trials: A meta-analysis [published correction appears inJAMA Cardiol2019 Nov 6].JAMA Cardiol4(8):765-776, 2019.doi: 10.1001/jamacardio.2019.1870
+5.Barbarawi M, Kheiri B, Zayed Y, et al:Vitamin Dsupplementation and cardiovascular disease risks in more than 83,000 individuals in 21 randomized clinical trials: A meta-analysis [published correction appears inJAMA Cardiol2019 Nov 6].JAMA Cardiol4(8):765-776, 2019.doi: 10.1001/jamacardio.2019.1870
+6.Jolliffe DA, Camargo CA Jr, Sluyter JD, et al.Vitamin Dsupplementation to prevent acute respiratory infections: a systematic review and meta-analysis of aggregate data from randomised controlled trials.Lancet Diabetes Endocrinol.2021;9(5):276-292.doi:10.1016/S2213-8587(21)00051-6
+6.Jolliffe DA, Camargo CA Jr, Sluyter JD, et al.Vitamin Dsupplementation to prevent acute respiratory infections: a systematic review and meta-analysis of aggregate data from randomised controlled trials.Lancet Diabetes Endocrinol.2021;9(5):276-292.doi:10.1016/S2213-8587(21)00051-6
+7.Ling Y, Xu F, Xia X, et al:Vitamin Dsupplementation reduces the risk of fall in the vitamin D deficient elderly: an updated meta-analysis.Clin Nutr40:5531-5537, 2021.doi:10.1016/j.clnu.2021.09.031
+7.Ling Y, Xu F, Xia X, et al:Vitamin Dsupplementation reduces the risk of fall in the vitamin D deficient elderly: an updated meta-analysis.Clin Nutr40:5531-5537, 2021.doi:10.1016/j.clnu.2021.09.031
+8.Yao P, Bennett D, Mafham M, et al.Vitamin Dand Calcium for the Prevention of Fracture: A Systematic Review and Meta-analysis.JAMA Netw Open.2019;2(12):e1917789.Published 2019 Dec 2.doi:10.1001/jamanetworkopen.2019.17789
+8.Yao P, Bennett D, Mafham M, et al.Vitamin Dand Calcium for the Prevention of Fracture: A Systematic Review and Meta-analysis.JAMA Netw Open.2019;2(12):e1917789.Published 2019 Dec 2.doi:10.1001/jamanetworkopen.2019.17789
+9.Zhao JG, Zeng XT, Wang J, Liu L.Association Between Calcium orVitamin DSupplementation and Fracture Incidence in Community-Dwelling Older Adults: A Systematic Review and Meta-analysis.JAMA.2017;318(24):2466-2482.doi:10.1001/jama.2017.19344
+9.Zhao JG, Zeng XT, Wang J, Liu L.Association Between Calcium orVitamin DSupplementation and Fracture Incidence in Community-Dwelling Older Adults: A Systematic Review and Meta-analysis.JAMA.2017;318(24):2466-2482.doi:10.1001/jama.2017.19344
+10.Appel LJ, Michos ED, Mitchell CM, et al: The effects of four doses ofvitamin Dsupplements on falls in older adults: a response-adaptive, randomized clinical trial.Ann Intern Med174:145-156, 2021.doi:10.7326/M20-3812
+10.Appel LJ, Michos ED, Mitchell CM, et al: The effects of four doses ofvitamin Dsupplements on falls in older adults: a response-adaptive, randomized clinical trial.Ann Intern Med174:145-156, 2021.doi:10.7326/M20-3812
+11.LeBoff MS, Chou SH, Ratliff KA, et al.SupplementalVitamin Dand Incident Fractures in Midlife and Older Adults.N Engl J Med.2022;387(4):299-309.doi:10.1056/NEJMoa2202106
+11.LeBoff MS, Chou SH, Ratliff KA, et al.SupplementalVitamin Dand Incident Fractures in Midlife and Older Adults.N Engl J Med.2022;387(4):299-309.doi:10.1056/NEJMoa2202106
+
+【维生素D中毒的症状和体征】
+维生素D中毒的主要症状源于高钙血症。可发生厌食、恶心以及呕吐，随后出现多尿、烦渴、虚弱、神经过敏、瘙痒症，最终出现肾衰竭。蛋白尿、管型尿、氮血症和钙化灶（特别在肾脏）也可能发生。
+
+【维生素D中毒的诊断】
+高钙血症以及其他危险因素，或者25-羟基维生素D水平升高
+高钙血症以及其他危险因素，或者25-羟基维生素D水平升高
+维生素D摄入过量病史可能是区分维生素D中毒和其他高钙血症病因的唯一线索。 中毒症状发生时，血钙水平持续升高至12～16mg/dL（3～4mmol/L）。血清25-羟基维生素D水平通常升高，达到>150ng/mL（>375nmol/L）。1,25-二羟基维生素D的水平可能是正常的，不需要测量来确认诊断。
+所有接受大剂量维生素D治疗的患者，应该频繁监测血钙水平（最初每周一次，然后每月一次），尤其是活性较强的1,25(OH)2D。
+
+【维生素D中毒的治疗】
+静脉补液联合糖皮质激素或双膦酸盐
+静脉补液联合糖皮质激素或双膦酸盐
+停用维生素D后，通过补液（静脉输注生理盐水）及使用糖皮质激素或双膦酸盐（抑制骨吸收）来降低血钙水平。(参见高钙血症的治疗。）
+如果出现肾脏损害或者钙化灶，这种损伤可能是不可逆的。

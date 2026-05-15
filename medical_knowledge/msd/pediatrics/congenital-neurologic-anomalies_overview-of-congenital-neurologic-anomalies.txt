@@ -1,0 +1,20 @@
+标题：先天性神经系统异常概述
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-neurologic-anomalies/overview-of-congenital-neurologic-anomalies
+============================================================
+
+先天性脑部异常会导致一系列神经功能缺陷；尽管有些可能不会引起显著的临床影响，但另一些可能是致命的。
+一些最严重的神经系统畸形（如无脑畸形、脑膨出、脊柱裂）在怀孕的最初2个月内发生，表现为神经管缺陷（神经管闭合不全）。其他如光滑脑畸形，是由于神经元迁移问题引起（参见大脑半球畸形），发生于妊娠9周至24周之间。积水性无脑畸形和孔洞脑畸形继发于大脑基本结构形成后发生的破坏性过程。 有些神经管缺陷可能相对良性（如，脑脊膜膨出）。
+导致先天性脑异常的原因有很多，其中包括许多尚不清楚的遗传因素。下一代测序技术，如基因面板和全外显子组测序，已经揭示了这些异常的大量遗传原因。
+产前超声可在子宫内筛查主要脑部畸形。胎儿MRI技术正日益发挥重要作用，尤其是当超声结果不理想时。遗传性病因通常无法在产前识别。胎儿基因检测可以通过母体无细胞DNA检测、绒毛膜绒毛取样或羊膜穿刺术进行。核型分析能够识别大范围的染色体重排和拷贝数变异。检测导致某些皮质畸形综合征的基因突变（如体细胞突变）的高级基因检测选项有限。
+当检测到先天性神经系统异常时，父母应该被告知这种畸形对孩子的影响，并在适当的情况下提供心理支持。应提供遗传咨询，并考虑对子女及父母进行遗传检测，因为相关畸形的复发风险可能高达25%到50%，具体取决于遗传模式（遗传咨询）。
+
+【先天性神经系统异常的预防】
+为降低胎儿神经管缺陷的风险，作为孕前保健的一部分，所有计划怀孕或有怀孕可能的育龄女性（即有性生活但避孕使用不规律者）均应每日补充叶酸，应自受孕前3个月开始持续至妊娠的第一孕期。
+对于大多数女性，推荐的叶酸剂量为每日一次口服400至800微克（0.4至0.8毫克）。
+对于曾经有过胎儿或婴儿患有神经管缺陷病史的妇女，建议每日叶酸补充剂量为4000mcg（4mg）（1）。叶酸补充可使未来妊娠中神经管缺陷的风险降低约70% （2）。
+
+【预防参考文献】
+1.Shaw GM, O'Malley CD, Wasserman CR, et al.Maternal periconceptional use of multivitamins and reduced risk for conotruncal heart defects and limb deficiencies among offspring.Am J Med Genet.1995;59(4):536-545.doi:10.1002/ajmg.1320590428
+1.Shaw GM, O'Malley CD, Wasserman CR, et al.Maternal periconceptional use of multivitamins and reduced risk for conotruncal heart defects and limb deficiencies among offspring.Am J Med Genet.1995;59(4):536-545.doi:10.1002/ajmg.1320590428
+2.Grosse SD, Collins JS.Folic acidsupplementation and neural tube defect recurrence prevention.Birth Defects Res A Clin Mol Teratol.2007;79(11):737-742.doi:10.1002/bdra.20394
+2.Grosse SD, Collins JS.Folic acidsupplementation and neural tube defect recurrence prevention.Birth Defects Res A Clin Mol Teratol.2007;79(11):737-742.doi:10.1002/bdra.20394

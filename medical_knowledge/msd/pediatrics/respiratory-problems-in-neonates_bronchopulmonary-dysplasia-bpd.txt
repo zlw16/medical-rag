@@ -1,0 +1,182 @@
+标题：支气管肺发育不良（BPD）
+来源：https://www.msdmanuals.cn/professional/pediatrics/respiratory-problems-in-neonates/bronchopulmonary-dysplasia-bpd
+============================================================
+
+(参见围产期呼吸系统疾病概述。）
+支气管肺发育不良（BPD，早产儿慢性肺病）的诊断标准为：早产儿在出生28天后或矫正胎龄36周后仍需长期依赖补充氧气，且不存在其他需氧疗的疾病（如肺炎、先天性心脏病）。
+
+【支气管肺发育不良的病因学】
+支气管肺发育不良有多因素病因由于机械通气，早产儿的肺对由此引起的炎症变化更为敏感。正常肺结构的发育被中断；肺泡变得更少、更大，间质变厚。此外，肺血管发育异常，肺泡毛细血管数量减少和/或分布异常；肺阻力可能增加，且可能发生肺动脉高压（1）。
+显著危险因素包括:
+长期机械通气
+长期机械通气
+高浓度吸氧
+高浓度吸氧
+感染（如，绒毛膜羊膜炎或败血症）
+感染（如，绒毛膜羊膜炎或败血症）
+早产的程度
+早产的程度
+额外的危险因素包括：
+肺间质气肿
+肺间质气肿
+吸气峰压增高
+吸气峰压增高
+大呼气末容积
+大呼气末容积
+重复的肺泡萎陷
+重复的肺泡萎陷
+气道阻力上升
+气道阻力上升
+肺动脉压力升高
+肺动脉压力升高
+宫内发育迟缓
+宫内发育迟缓
+遗传易感性
+遗传易感性
+母亲吸烟
+母亲吸烟
+
+【病因参考文献】
+1.Kalikkot Thekkeveedu R, Guaman MC, Shivanna B.Bronchopulmonary dysplasia: A review of pathogenesis and pathophysiology.Respir Med.2017;132:170–177.doi:10.1016/j.rmed.2017.10.014
+1.Kalikkot Thekkeveedu R, Guaman MC, Shivanna B.Bronchopulmonary dysplasia: A review of pathogenesis and pathophysiology.Respir Med.2017;132:170–177.doi:10.1016/j.rmed.2017.10.014
+
+【支气管肺发育不良的症状和体征】
+支气管肺发育不良的症状和体征包括呼吸窘迫、缺氧或需氧量，在较大的婴幼儿中，还包括咳嗽、喘息、反应性气道疾病和生长不良。
+
+【支气管肺发育不良的诊断】
+根据氧气使用或呼吸支持需求建立的诊断标准
+根据氧气使用或呼吸支持需求建立的诊断标准
+胸部影像学的特征性表现
+胸部影像学的特征性表现
+当需要呼吸支持的婴儿无法脱离氧疗、机械通气（有创或无创）或两者兼有时，通常怀疑患有BPD。患儿通常会出现加重的低氧血症、高碳酸血症，且需氧量增加。此外，当婴儿未能在预期时间内脱机时，应考虑可能的潜在疾病，包括动脉导管未闭和新生儿获得性肺炎。
+对于BPD的诊断，孕周大于32周出生的婴儿需要至少接受28天的>21%氧气治疗，而孕周小于32周出生的婴儿则需在孕周后年龄≥36周时持续需要呼吸支持（1，2）。还存在其他诊断标准，以及 BPD 严重程度的分级系统（参见表诊断和分级 < 32 周胎龄婴儿支气管肺发育不良的标准）（3）。
+Chest radiograph initially shows diffuse haziness due to accumulation of exudative fluid; appearance then becomes multicystic or spongelike, with alternating areas of emphysema, pulmonary scarring, and atelectasis.可有肺泡内皮细胞脱落，在气管吸出物中可见巨噬细胞、中性粒细胞和炎症介质的积聚。
+该图中的婴儿有早产和支气管肺发育不良病史。正位胸片可见双肺粗网状肺纹理影及过度充气。
+
+【小于32周胎龄婴儿支气管肺发育不良的诊断和分级标准】
+小于32周胎龄婴儿支气管肺发育不良的诊断和分级标准
+诊断和分级
+胎龄<32周* (2019)†
+支气管肺发育不良（BPD）的诊断
+在妊娠36周时需要任何呼吸支持，或在妊娠36周时即使没有呼吸支持也需要补充氧气≥28天
+轻度：I级
+在 36 周 CGA 时，NC ≤ 2 升/分钟
+中度：Ⅱ级
+在 36 周 CGA 时，NC > 2 升/分钟、CPAP 或 NIPPV
+重度：III级
+在 36 周 CGA 时进行 IMV
+*在36周胎龄时评估。
+†Jensen EA, Dysart K, Gantz MG, et al.The Diagnosis of Bronchopulmonary Dysplasia in Very Preterm Infants.An Evidence-based Approach.Am J Respir Crit Care Med.2019;200(6):751-759.doi:10.1164/rccm.201812-2348OC
+BPD=支气管肺发育不良；CGA = 校正胎龄；CPAP = 持续气道正压通气；IMV = 有创机械通气；NIPPV = 无创或鼻间歇正压通气；PMA=月经后年龄（胎龄加上实际年龄[以周为单位]）。
+*在36周胎龄时评估。
+†Jensen EA, Dysart K, Gantz MG, et al.The Diagnosis of Bronchopulmonary Dysplasia in Very Preterm Infants.An Evidence-based Approach.Am J Respir Crit Care Med.2019;200(6):751-759.doi:10.1164/rccm.201812-2348OC
+BPD=支气管肺发育不良；CGA = 校正胎龄；CPAP = 持续气道正压通气；IMV = 有创机械通气；NIPPV = 无创或鼻间歇正压通气；PMA=月经后年龄（胎龄加上实际年龄[以周为单位]）。
+
+【诊断参考】
+1.Jensen EA, Dysart K, Gantz MG, et al.The Diagnosis of Bronchopulmonary Dysplasia in Very Preterm Infants.An Evidence-based Approach.Am J Respir Crit Care Med.2019;200(6):751-759.doi:10.1164/rccm.201812-2348OC
+1.Jensen EA, Dysart K, Gantz MG, et al.The Diagnosis of Bronchopulmonary Dysplasia in Very Preterm Infants.An Evidence-based Approach.Am J Respir Crit Care Med.2019;200(6):751-759.doi:10.1164/rccm.201812-2348OC
+2.Jobe AH, Bancalari E.Bronchopulmonary dysplasia.Am J Respir Crit Care Med.2001;163(7):1723-1729.doi:10.1164/ajrccm.163.7.2011060
+2.Jobe AH, Bancalari E.Bronchopulmonary dysplasia.Am J Respir Crit Care Med.2001;163(7):1723-1729.doi:10.1164/ajrccm.163.7.2011060
+3.Higgins RD, Jobe AH, Koso-Thomas M, et al.Bronchopulmonary Dysplasia: Executive Summary of a Workshop.J Pediatr.2018;197:300-308.doi:10.1016/j.jpeds.2018.01.043
+3.Higgins RD, Jobe AH, Koso-Thomas M, et al.Bronchopulmonary Dysplasia: Executive Summary of a Workshop.J Pediatr.2018;197:300-308.doi:10.1016/j.jpeds.2018.01.043
+
+【支气管肺发育不良的预防】
+预防BPD的循证实践包括（1–4）：
+按规定使用产前糖皮质激素
+按规定使用产前糖皮质激素
+早期无创通气策略（例如，产房持续气道正压通气 [CPAP]，或在 28 至 32 周胎龄的婴儿中进行无创或鼻间歇正压通气 [NIPPV]）与插管
+早期无创通气策略（例如，产房持续气道正压通气 [CPAP]，或在 28 至 32 周胎龄的婴儿中进行无创或鼻间歇正压通气 [NIPPV]）与插管
+早期选择性表面活性剂给药，最好采用微创方法，而不是插管
+早期选择性表面活性剂给药，最好采用微创方法，而不是插管
+预防性使用甲基黄嘌呤（咖啡因）
+预防性使用甲基黄嘌呤（咖啡因）
+选择性使用全身性糖皮质激素
+选择性使用全身性糖皮质激素
+容量目标通气与压力限制通气
+容量目标通气与压力限制通气
+允许性高碳酸血症以最小化呼吸机压力和容量
+允许性高碳酸血症以最小化呼吸机压力和容量
+避免过度液体摄入或给药
+避免过度液体摄入或给药
+早期使用全身性皮质类固醇（出生后 < 7 天）确实会降低死亡和 BPD 的可能性，但与肠穿孔和脑瘫有关，因此不推荐使用（5）。较晚开始使用皮质类固醇（出生后7天）可能会减少月经后36周的死亡率和BPD，而不会对神经系统造成长期损害，但尚未确定最佳给药方案。现有证据不支持使用吸入皮质类固醇预防BPD。
+其他许多疗法，包括吸入一氧化氮和补充维生素 A，并没有得到充分的证据支持（1，2）。
+
+【预防参考文献】
+1.Durlak W, Thébaud B.BPD: Latest Strategies of Prevention and Treatment.Neonatology.2024;121(5):596-607.doi:10.1159/000540002
+1.Durlak W, Thébaud B.BPD: Latest Strategies of Prevention and Treatment.Neonatology.2024;121(5):596-607.doi:10.1159/000540002
+2.Abiramalatha T, Ramaswamy VV, Bandyopadhyay T, et al.Interventions to Prevent Bronchopulmonary Dysplasia in Preterm Neonates: An Umbrella Review of Systematic Reviews and Meta-analyses.JAMA Pediatr.2022;176(5):502-516.doi:10.1001/jamapediatrics.2021.6619
+2.Abiramalatha T, Ramaswamy VV, Bandyopadhyay T, et al.Interventions to Prevent Bronchopulmonary Dysplasia in Preterm Neonates: An Umbrella Review of Systematic Reviews and Meta-analyses.JAMA Pediatr.2022;176(5):502-516.doi:10.1001/jamapediatrics.2021.6619
+3.McGoldrick E, Stewart F, Parker R, Dalziel SR.Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth.Cochrane Database Syst Rev.2020;12(12):CD004454.Published 2020 Dec 25.doi:10.1002/14651858.CD004454.pub4
+3.McGoldrick E, Stewart F, Parker R, Dalziel SR.Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth.Cochrane Database Syst Rev.2020;12(12):CD004454.Published 2020 Dec 25.doi:10.1002/14651858.CD004454.pub4
+4.Gilfillan M, Bhandari A, Bhandari V.Diagnosis and management of bronchopulmonary dysplasia.BMJ.2021;375:n1974.Published 2021 Oct 20.doi:10.1136/bmj.n1974
+4.Gilfillan M, Bhandari A, Bhandari V.Diagnosis and management of bronchopulmonary dysplasia.BMJ.2021;375:n1974.Published 2021 Oct 20.doi:10.1136/bmj.n1974
+5.van de Loo M, van Kaam A, Offringa M, Doyle LW, Cooper C, Onland W.Corticosteroids for the prevention and treatment of bronchopulmonary dysplasia: an overview of systematic reviews.Cochrane Database Syst Rev.2024;4(4):CD013271.Published 2024 Apr 10.doi:10.1002/14651858.CD013271.pub2
+5.van de Loo M, van Kaam A, Offringa M, Doyle LW, Cooper C, Onland W.Corticosteroids for the prevention and treatment of bronchopulmonary dysplasia: an overview of systematic reviews.Cochrane Database Syst Rev.2024;4(4):CD013271.Published 2024 Apr 10.doi:10.1002/14651858.CD013271.pub2
+
+【支气管肺发育不良的治疗】
+营养优化
+营养优化
+液体限制
+液体限制
+根据需要吸氧。
+根据需要吸氧。
+呼吸道合胞病毒（RSV）的预防和流感疫苗
+呼吸道合胞病毒（RSV）的预防和流感疫苗
+肺动脉高压的诊断与治疗
+肺动脉高压的诊断与治疗
+对于进展期或已确诊的 BPD 的治疗以支持性疗法为主，主要包括营养补充、液体限制、利尿剂应用，或可考虑吸入性支气管扩张剂；吸入性糖皮质激素则作为最终治疗选择（1）。呼吸系统感染必须早期诊断、早期治疗。尽早撤除机械通气和氧疗。
+肠内营养最好是与母乳一起，应提供足够的能量（150calories/kg/d）和蛋白质（3.5-4g/kg/d）；由于呼吸工作增加以及帮助肺部愈合和生长，热量需求也会增加。
+由于可能出现肺充血和肺水肿，日液体摄入量通常应限制在 120～140 mL/kg/天。利尿治疗可暂时改善肺力学指标，但并不能改善长期临床预后(1)。对于对液体限制反应不佳或无法耐受的患者，可短期使用噻嗪类或袢利尿剂以获益。通常首先尝试口服氯噻嗪，可单独使用或与口服螺内酯联合使用。呋塞米 可短期使用，但长期使用会导致高钙尿症，进而引起骨质疏松、骨折和肾结石。如果需要长期使用利尿剂，那么首选氯噻嗪，因为其不良反应较少。在利尿剂治疗期间，应密切监测体液平衡和血清电解质。
+吸入的支气管扩张剂（例如沙丁胺醇）似乎不能改善长期结果，并且不能常规使用。然而，它们可能有助于急性发作的支气管收缩 (1)。
+当早期使用吸入性皮质类固醇来预防 BPD 时，证据并不支持，但当后期使用时，它们可能有助于治疗症状（2）。尽管全身性皮质类固醇可能通过减轻炎症改善BPD的临床症状，但人们担心反复和/或长期使用地塞米松治疗 BPD 会导致不良的神经发育结果（3），促使美国儿科学会在2014年政策声明中重申不鼓励常规使用地塞米松治疗BPD（4）。最近对氢化可的松和吸入性布地奈德治疗 BPD 的研究发现，长期来看没有显著的不良神经发育后果（5）；然而，由于担心其他可能的副作用（例如高血压、心肌病、早产儿视网膜病变恶化），因此仅在认为没有其他选择的情况下才使用全身和吸入皮质类固醇。
+严重的支气管肺发育不良可能需要数周或数月额外的呼吸机支持、补充氧气或两者兼有。应尽快降低呼吸机压力或容量和吸入氧浓度（FiO2），但不应让婴儿出现低氧血症。肺膨胀程度（以 mL/kg 为单位测量的潮气量）比气道压力绝对值（以厘米水柱为单位）具有更高的导致或加重支气管肺发育不良的风险（6）。使用血氧仪连续监测动脉氧合情况，并保持血氧饱和度在≥89%。在治疗和撤离呼吸机时可发生呼吸性酸中毒，只要pH>7.25，婴儿不发生严重的呼吸窘迫即可。
+美国有两种用于婴幼儿 RSV 预防的单克隆抗体。Nirsevimab是首选，但某些婴儿可能无法获得（7，8）；如果无法获得，符合条件的高危婴儿和儿童应接受帕利珠单抗（另见呼吸道合胞病毒预防的适应症）。
+>6个月的婴儿也应接种流感疫苗。
+应识别并酌情治疗肺动脉高压。
+
+【治疗参考文献】
+1.Gilfillan M, Bhandari A, Bhandari V.Diagnosis and management of bronchopulmonary dysplasia.BMJ.2021;375:n1974.Published 2021 Oct 20.doi:10.1136/bmj.n1974
+1.Gilfillan M, Bhandari A, Bhandari V.Diagnosis and management of bronchopulmonary dysplasia.BMJ.2021;375:n1974.Published 2021 Oct 20.doi:10.1136/bmj.n1974
+2.van de Loo M, van Kaam A, Offringa M, Doyle LW, Cooper C, Onland W.Corticosteroids for the prevention and treatment of bronchopulmonary dysplasia: an overview of systematic reviews.Cochrane Database Syst Rev.2024;4(4):CD013271.Published 2024 Apr 10.doi:10.1002/14651858.CD013271.pub2
+2.van de Loo M, van Kaam A, Offringa M, Doyle LW, Cooper C, Onland W.Corticosteroids for the prevention and treatment of bronchopulmonary dysplasia: an overview of systematic reviews.Cochrane Database Syst Rev.2024;4(4):CD013271.Published 2024 Apr 10.doi:10.1002/14651858.CD013271.pub2
+3.Filippone M, Nardo D, Bonadies L, et al.Update on postnatal corticosteroids to prevent or treat bronchopulmonary dysplasia.Am J Perinatol.2019;36(S 02):S58–S62. doi:10.1055/s-0039-1691802
+3.Filippone M, Nardo D, Bonadies L, et al.Update on postnatal corticosteroids to prevent or treat bronchopulmonary dysplasia.Am J Perinatol.2019;36(S 02):S58–S62. doi:10.1055/s-0039-1691802
+4.Watterberg KL; American Academy of Pediatrics. Committee on Fetus and Newborn.Policy statement--postnatal corticosteroids to prevent or treat bronchopulmonary dysplasia.Pediatrics.2010;126(4):800-808.doi:10.1542/peds.2010-1534.Reaffirmed 2014 and 2020.
+4.Watterberg KL; American Academy of Pediatrics. Committee on Fetus and Newborn.Policy statement--postnatal corticosteroids to prevent or treat bronchopulmonary dysplasia.Pediatrics.2010;126(4):800-808.doi:10.1542/peds.2010-1534.Reaffirmed 2014 and 2020.
+5.Aschner JL, Bancalari EH, McEvoy CT.Can we prevent bronchopulmonary dysplasia?J Pediatr.2017;189:26–30.doi:10.1016/j.jpeds.2017.08.005
+5.Aschner JL, Bancalari EH, McEvoy CT.Can we prevent bronchopulmonary dysplasia?J Pediatr.2017;189:26–30.doi:10.1016/j.jpeds.2017.08.005
+6.Kalikkot Thekkeveedu R, Guaman MC, Shivanna B.Bronchopulmonary dysplasia: A review of pathogenesis and pathophysiology.Respir Med.2017;132:170–177.doi:10.1016/j.rmed.2017.10.014
+6.Kalikkot Thekkeveedu R, Guaman MC, Shivanna B.Bronchopulmonary dysplasia: A review of pathogenesis and pathophysiology.Respir Med.2017;132:170–177.doi:10.1016/j.rmed.2017.10.014
+7.Centers for Disease Control and Prevention (CDC).RSV Immunization Guidance for Infants and Young Children.August 30, 2024.
+7.Centers for Disease Control and Prevention (CDC).RSV Immunization Guidance for Infants and Young Children.August 30, 2024.
+8.American Academy of Pediatrics. AAP Recommendations for the Prevention of RSV Disease in Infants and Children.July 8, 2025.
+8.American Academy of Pediatrics. AAP Recommendations for the Prevention of RSV Disease in Infants and Children.July 8, 2025.
+
+【支气管肺发育不良的预后】
+BPD 的死亡率因严重程度而异，门诊队列研究中的死亡率约为 1% 至 2%，而危及生命的婴儿研究中的死亡率为 16%（1–3）。
+患有 BPD 的婴儿在日后生活中罹患哮喘的风险增高，同时下呼吸道感染（尤其是肺炎或细支气管炎)的发生率也较高，且在发生肺部感染时可能出现呼吸代偿失调(4，5）。若出现呼吸窘迫的迹象，应降低住院治疗的门槛。
+除了慢性肺部疾病和其他肺部并发症外，患有BPD的婴儿出现生长衰竭、脑瘫和智力残疾的风险也会增加（6）。
+
+【预后参考】
+1.Dassios T, Williams E, Hickey A, Bhat R, Greenough A.Mortality after 36 weeks postmenstrual age of extremely preterm infants in neonatal care: The impact of growth impairment and bronchopulmonary dysplasia.Early Hum Dev.2022;171:105618.doi:10.1016/j.earlhumdev.2022.105618
+1.Dassios T, Williams E, Hickey A, Bhat R, Greenough A.Mortality after 36 weeks postmenstrual age of extremely preterm infants in neonatal care: The impact of growth impairment and bronchopulmonary dysplasia.Early Hum Dev.2022;171:105618.doi:10.1016/j.earlhumdev.2022.105618
+2.Naples R, Ramaiah S, Rankin J, Berrington J, Harigopal S.Life-threatening bronchopulmonary dysplasia: a British Paediatric Surveillance Unit Study.Arch Dis Child Fetal Neonatal Ed.2022;107(1):13-19.doi:10.1136/archdischild-2021-322001
+2.Naples R, Ramaiah S, Rankin J, Berrington J, Harigopal S.Life-threatening bronchopulmonary dysplasia: a British Paediatric Surveillance Unit Study.Arch Dis Child Fetal Neonatal Ed.2022;107(1):13-19.doi:10.1136/archdischild-2021-322001
+3.Aoyama BC, Rice JL, McGrath-Morrow SA, Collaco JM.Mortality in Outpatients with Bronchopulmonary Dysplasia.J Pediatr.2022;241:48-53.e1.doi:10.1016/j.jpeds.2021.09.055
+3.Aoyama BC, Rice JL, McGrath-Morrow SA, Collaco JM.Mortality in Outpatients with Bronchopulmonary Dysplasia.J Pediatr.2022;241:48-53.e1.doi:10.1016/j.jpeds.2021.09.055
+4.Cheong JLY, Doyle LW.An update on pulmonary and neurodevelopmental outcomes of bronchopulmonary dysplasia.Semin Perinatol.2018;42(7):478-484.doi:10.1053/j.semperi.2018.09.013
+4.Cheong JLY, Doyle LW.An update on pulmonary and neurodevelopmental outcomes of bronchopulmonary dysplasia.Semin Perinatol.2018;42(7):478-484.doi:10.1053/j.semperi.2018.09.013
+5.Sillers L, Alexiou S, Jensen EA.Lifelong pulmonary sequelae of bronchopulmonary dysplasia.Curr Opin Pediatr.2020;32(2):252-260.doi:10.1097/MOP.0000000000000884
+5.Sillers L, Alexiou S, Jensen EA.Lifelong pulmonary sequelae of bronchopulmonary dysplasia.Curr Opin Pediatr.2020;32(2):252-260.doi:10.1097/MOP.0000000000000884
+6.Homan TD, Nayak RP.Short- and Long-Term Complications of Bronchopulmonary Dysplasia.Respir Care.2021;66(10):1618-1629.doi:10.4187/respcare.08401
+6.Homan TD, Nayak RP.Short- and Long-Term Complications of Bronchopulmonary Dysplasia.Respir Care.2021;66(10):1618-1629.doi:10.4187/respcare.08401
+支气管肺发育不良（BPD）是早产儿的慢性肺部疾病。
+支气管肺发育不良（BPD）是早产儿的慢性肺部疾病。
+支气管肺发育不良发生于需要长期机械通气和/或吸氧的新生儿，这些措施可以干扰正常肺的发育。
+支气管肺发育不良发生于需要长期机械通气和/或吸氧的新生儿，这些措施可以干扰正常肺的发育。
+诊断依据延长（≥28天或月经后≥36周）需要吸氧，有时通气支持。
+诊断依据延长（≥28天或月经后≥36周）需要吸氧，有时通气支持。
+通过使用产前糖皮质激素、无创通气策略、表面活性物质和咖啡因，并尽可能使用最低的吸入氧浓度（FIO2）、潮气量和气道压力来预防。
+通过使用产前糖皮质激素、无创通气策略、表面活性物质和咖啡因，并尽可能使用最低的吸入氧浓度（FIO2）、潮气量和气道压力来预防。
+应尽快脱离呼吸支持，并给予营养补充、限制液体摄入，必要时使用利尿剂。
+应尽快脱离呼吸支持，并给予营养补充、限制液体摄入，必要时使用利尿剂。

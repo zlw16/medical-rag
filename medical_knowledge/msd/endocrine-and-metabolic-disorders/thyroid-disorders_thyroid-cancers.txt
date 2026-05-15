@@ -1,0 +1,112 @@
+标题：甲状腺癌
+来源：https://www.msdmanuals.cn/professional/endocrine-and-metabolic-disorders/thyroid-disorders/thyroid-cancers
+============================================================
+
+(参见甲状腺功能概述。）
+甲状腺癌可能源于
+滤泡上皮细胞：乳头状、滤泡状、嗜酸细胞性、高级别、低分化和未分化甲状腺癌
+滤泡上皮细胞：乳头状、滤泡状、嗜酸细胞性、高级别、低分化和未分化甲状腺癌
+滤泡旁 C 细胞：甲状腺髓样癌
+滤泡旁 C 细胞：甲状腺髓样癌
+大多数甲状腺癌为乳头状癌（约 84%）或滤泡状癌（约 4%）（1）。乳头状癌和滤泡状癌统称为分化型甲状腺癌，因为它们的组织学性质与正常甲状腺组织相似，且保留了分化功能（例如分泌甲状腺球蛋白）。相比之下，高级别、低分化和未分化甲状腺癌具有侵袭性，且分泌的甲状腺球蛋白较少。
+具有乳头状核特征的非侵袭性滤泡性甲状腺肿瘤（以前称为无包膜或血管侵犯的非侵袭性包膜滤泡性甲状腺乳头状癌）现在被认为是良性病变（1、2）。
+大多数甲状腺癌表现为在影像学检查或体格检查中偶然发现的无症状结节。很少发现甲状腺癌以转移到淋巴结、肺或骨为症状。
+诊断通常是通过细针抽吸活检来实现的，但也可能涉及对活检标本的其他测试，包括甲状腺球蛋白或 BRAF V600E 蛋白的免疫染色和分子检测。
+高分化甲状腺癌的治疗是手术切除病变>1.5 cm的病变，辅以或不辅以放射性碘消融残留组织。较小的病变通过手术或主动监测进行治疗。
+乳头状和滤泡状甲状腺癌通常生长缓慢，5 年总生存率高达 98.5%（3）。然而，高级别、低分化和未分化甲状腺癌的死亡率很高。转移性髓样癌患者可存活多年，但通常死于癌症。
+
+【参考文献】
+1.Fagin JA, Wells SA Jr.Biologic and Clinical Perspectives on Thyroid Cancer.N Engl J Med2016;375(11):1054-1067.doi:10.1056/NEJMra1501993
+1.Fagin JA, Wells SA Jr.Biologic and Clinical Perspectives on Thyroid Cancer.N Engl J Med2016;375(11):1054-1067.doi:10.1056/NEJMra1501993
+2.Nikiforov YE, Seethala RR, Tallini G, et al: Nomenclature revision for encapsulated follicular variant of papillary thyroid carcinoma: A paradigm shift to reduce overtreatment of indolent tumors.JAMA Oncol2(8):1023–1029, 2016.doi:10.1001/jamaoncol.2016.0386
+2.Nikiforov YE, Seethala RR, Tallini G, et al: Nomenclature revision for encapsulated follicular variant of papillary thyroid carcinoma: A paradigm shift to reduce overtreatment of indolent tumors.JAMA Oncol2(8):1023–1029, 2016.doi:10.1001/jamaoncol.2016.0386
+3.SEER*Explorer:An interactive website for SEER cancer statistics [Internet].Surveillance Research Program, National Cancer Institute; 2023 Apr 19.[更新日期：2023 年 11 月 16 日；引用日期：2024 年 1 月 19 日]。出处：https://seer.cancer.gov/statistics-network/explorer/。数据来源：SEER 发病率数据、2022 年 11 月提交的数据（1975-2020 年）、SEER 22 注册表。
+3.SEER*Explorer:An interactive website for SEER cancer statistics [Internet].Surveillance Research Program, National Cancer Institute; 2023 Apr 19.[更新日期：2023 年 11 月 16 日；引用日期：2024 年 1 月 19 日]。出处：https://seer.cancer.gov/statistics-network/explorer/。数据来源：SEER 发病率数据、2022 年 11 月提交的数据（1975-2020 年）、SEER 22 注册表。
+
+【甲状腺乳头状癌】
+乳头状癌占所有甲状腺癌的80％~90％。 女性：男性比例为3：1。3%至9%的患者可能是家族性的。 大多数患者年龄在30~60岁。在老年患者中肿瘤生长较为迅速 (1)。
+导致这些肿瘤的最常见基因突变是BRAF V600E。
+在过去的几十年中，甲状腺乳头状癌的发病率有所上升，这主要是由于接受颈部超声、MRI、CT扫描或PET扫描（包括颈部成像）的患者偶然发现了小型肿瘤。
+三分之一的患者乳头状甲状腺癌可通过淋巴管扩散至区域淋巴结，并可能转移到肺部。患者年龄＜55岁，肿瘤体积小并局限于甲状腺，预后良好。
+对于经过适当选择的乳头状癌患者，使用超声检查主动监测颈部淋巴结转移的大小或外观可能是一种手术的替代方法<1.5 厘米，因为只有 15% 的患者在 10 年后会增大 3 毫米，并且只有 3.4% 的患者在 10 年后会出现颈部淋巴结转移（2）。
+对于小肿瘤（1.5至4厘米之间），半甲状腺切除术是一种合适的治疗选择，并且几乎总是可以治愈的。肿瘤>4厘米或多灶性肿瘤需要全部或近全部甲状腺切除术。
+美国甲状腺协会风险分层系统将患者分为 3 级，用于评估复发和死亡的风险（3)：
+低风险: 甲状腺内疾病，单灶性或多灶性，以及<5 个淋巴结
+低风险: 甲状腺内疾病，单灶性或多灶性，以及<5 个淋巴结
+中度风险：更广泛的淋巴结肿大、甲状腺外扩散和侵袭性组织学特征或血管侵犯
+中度风险：更广泛的淋巴结肿大、甲状腺外扩散和侵袭性组织学特征或血管侵犯
+高风险：大型淋巴结肿大（> 3 cm）、明显的甲状腺外扩散、滤泡性甲状腺癌的血管侵犯和远处转移
+高风险：大型淋巴结肿大（> 3 cm）、明显的甲状腺外扩散、滤泡性甲状腺癌的血管侵犯和远处转移
+术后放射性碘用于消融残留的甲状腺组织，其原因如下：
+为了能够在监测期间解释甲状腺球蛋白水平
+为了能够在监测期间解释甲状腺球蛋白水平
+如果怀疑有残留甲状腺癌或复发风险为中度或高度，则作为辅助治疗
+如果怀疑有残留甲状腺癌或复发风险为中度或高度，则作为辅助治疗
+如果高风险甲状腺癌患者怀疑有远处转移性疾病，可帮助进行癌症分期
+如果高风险甲状腺癌患者怀疑有远处转移性疾病，可帮助进行癌症分期
+术后放射性碘治疗并未被证实能降低低风险甲状腺癌患者的复发率，因此不推荐（4）。
+对于中、高危甲状腺癌患者，在初始治疗后给予足以抑制促甲状腺激素水平的左旋甲状腺素剂量以抑制甲状腺癌的生长，并使用血清甲状腺球蛋白和甲状腺球蛋白抗体水平以及颈部超声检查来检测复发或持续性疾病。大约有20至30%的中高危甲状腺癌患者会出现复发或持续性疾病。当证实存在放射性碘耐药性、结构性进行性转移时，这些患者需要额外的手术或酪氨酸激酶抑制剂治疗。
+通常建议对无疾病证据的患者进行 5 年监测后转向癌症存活计划或由初级保健医生进行随访，因为复发风险会降至 1% 以下。每 5 年进行一次甲状腺超声检查和甲状腺球蛋白及甲状腺球蛋白抗体检查可以检测出罕见的晚期复发。
+
+【甲状腺乳头状癌参考文献】
+1.Boucai L, Zafereo M, Cabanillas ME: Thyroid Cancer: A Review.JAMA331(5):425–435, 2024.doi:10.1001/jama.2023.26348
+1.Boucai L, Zafereo M, Cabanillas ME: Thyroid Cancer: A Review.JAMA331(5):425–435, 2024.doi:10.1001/jama.2023.26348
+2.Saravana-Bawan B, Amandeep Bajwa A, Paterson J, et al: Active surveillance of low-risk papillary thyroid cancer: A meta-analysis.Surgery167:46–55, 2020.doi: 10.1016/j.surg.2019.03.040
+2.Saravana-Bawan B, Amandeep Bajwa A, Paterson J, et al: Active surveillance of low-risk papillary thyroid cancer: A meta-analysis.Surgery167:46–55, 2020.doi: 10.1016/j.surg.2019.03.040
+3.Haugen BR, Alexander EK, Bible KC, et al: 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer: The American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer.Thyroid26(1):1–133, 2016.doi: 10.1089/thy.2015.0020
+3.Haugen BR, Alexander EK, Bible KC, et al: 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer: The American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer.Thyroid26(1):1–133, 2016.doi: 10.1089/thy.2015.0020
+4.Leboulleux S, Bournaud C, Chougnet CN, et al: Thyroidectomy without Radioiodine in Patients with Low-Risk Thyroid Cancer.N Engl J Med386(10):923–932, 2022.doi:10.1056/NEJMoa2111953
+4.Leboulleux S, Bournaud C, Chougnet CN, et al: Thyroidectomy without Radioiodine in Patients with Low-Risk Thyroid Cancer.N Engl J Med386(10):923–932, 2022.doi:10.1056/NEJMoa2111953
+
+【滤泡性甲状腺癌】
+滤泡性癌约占甲状腺癌的4%。多见于老年患者和缺碘地区。它比乳头状癌更具侵袭性，因为它通过血液传播并且具有更高的远处转移风险。导致这些肿瘤的最常见基因突变是RAS突变。
+治疗需要近全甲状腺切除术和术后放射性碘治疗。与乳头状癌相比，转移瘤对重复剂量的放射性碘治疗更敏感。术后给适量左旋甲状腺素抑制促甲状腺激素的分泌。定期测定血清甲状腺球蛋白及颈部超声检查以发现复发或持续存在的病变。
+
+【嗜酸细胞性甲状腺癌（以前称为赫尔特尔细胞癌）】
+嗜酸细胞性甲状腺癌历来被认为是滤泡性甲状腺癌的一个亚群，但基因组数据证实这些肿瘤是独特的实体。大多数染色体的杂合性丧失和 5 号和 7 号染色体的染色体重复以及线粒体 DNA 突变使这些肿瘤具有富含线粒体的细胞质和“嗜酸细胞”的名称。
+这些肿瘤可以是包膜性的，也可以是广泛侵袭性的。广泛侵袭性的嗜酸细胞癌对放射性碘的反应较差，在 PET 扫描中呈 FDG 阳性，并且倾向于通过血源性方式转移到颈部以外（1, 2）。
+
+【甲状腺肿瘤性癌参考文献】
+1.Ganly I, Makarov V, Deraje S, et al.Integrated Genomic Analysis of Hurthle Cell Cancer Reveals Oncogenic Drivers, Recurrent Mitochondrial Mutations, and Unique Chromosomal Landscapes.Cancer Cell2018;34(2):256-270.e5.doi:10.1016/j.ccell.2018.07.002
+1.Ganly I, Makarov V, Deraje S, et al.Integrated Genomic Analysis of Hurthle Cell Cancer Reveals Oncogenic Drivers, Recurrent Mitochondrial Mutations, and Unique Chromosomal Landscapes.Cancer Cell2018;34(2):256-270.e5.doi:10.1016/j.ccell.2018.07.002
+2.Gopal RK, Kubler K, Calvo SE, et al.Widespread Chromosomal Losses and Mitochondrial DNA Alterations as Genetic Drivers in Hurthle Cell Carcinoma.Cancer Cell2018;34(2):242-255.e5.doi:10.1016/j.ccell.2018.06.013
+2.Gopal RK, Kubler K, Calvo SE, et al.Widespread Chromosomal Losses and Mitochondrial DNA Alterations as Genetic Drivers in Hurthle Cell Carcinoma.Cancer Cell2018;34(2):242-255.e5.doi:10.1016/j.ccell.2018.06.013
+
+【甲状腺未分化癌】
+间变性癌是一种未分化的癌症，约占甲状腺癌的1%，占甲状腺癌相关死亡率的20%（1）。它主要发生于老年患者，女性更常发生。 肿瘤的特征是快速、疼痛性增大。 甲状腺快速增大也可能提示甲状腺淋巴瘤，特别是与桥本甲状腺炎相关的。
+大约45%的间变性肿瘤具有BRAF V600E突变。在一项研究中，在手术前接受达拉非尼加曲美替尼靶向治疗且在大多数情况下接受免疫检查点抑制剂治疗的患者的 1 年生存率为 93%。接受靶向治疗前进行手术的患者 1 年生存率为 74%，接受靶向治疗但未进行手术的患者 1 年生存率为 38%（2、3）。
+
+【甲状腺未分化癌参考文献】
+1.Lim H, Devesa SS, Sosa JA, Check D, Kitahara CM: Trends in Thyroid Cancer Incidence and Mortality in the United States, 1974-2013.JAMA2017;317(13):1338–1348.doi:10.1001/jama.2017.2719
+1.Lim H, Devesa SS, Sosa JA, Check D, Kitahara CM: Trends in Thyroid Cancer Incidence and Mortality in the United States, 1974-2013.JAMA2017;317(13):1338–1348.doi:10.1001/jama.2017.2719
+3.Bible KC, Kebebew E, Brierley J, et al: 2021 American Thyroid Association Guidelines for Management of Patients with Anaplastic Thyroid Cancer.Thyroid31(3):337–386, 2021. doi: 10.1089/thy.2020.0944
+3.Bible KC, Kebebew E, Brierley J, et al: 2021 American Thyroid Association Guidelines for Management of Patients with Anaplastic Thyroid Cancer.Thyroid31(3):337–386, 2021. doi: 10.1089/thy.2020.0944
+3.Zhao X, Wang JR, Dadu R, et al: Surgery After BRAF-Directed Therapy Is Associated with Improved Survival in BRAFV600E Mutant Anaplastic Thyroid Cancer: A Single-Center Retrospective Cohort Study.Thyroid33(4):484–491, 2023.doi:10.1089/thy.2022.0504
+3.Zhao X, Wang JR, Dadu R, et al: Surgery After BRAF-Directed Therapy Is Associated with Improved Survival in BRAFV600E Mutant Anaplastic Thyroid Cancer: A Single-Center Retrospective Cohort Study.Thyroid33(4):484–491, 2023.doi:10.1089/thy.2022.0504
+
+【甲状腺髓样癌】
+髓样癌约占甲状腺癌的4%，起源于产生降钙素的滤泡旁c细胞。它可能是散发性的（75%，通常是单侧的）；然而，25% 的病例是家族性的，由基因突变引起ret原癌基因。家族性形式可能单独发生（家族性甲状腺髓样癌）或作为以下疾病的组成部分出现多发性内分泌肿瘤 (MEN) 综合征 2A 型（髓样甲状腺癌、原发性甲状旁腺功能亢进症和嗜铬细胞瘤）或MEN 2B（髓样甲状腺癌、嗜铬细胞瘤和胃肠道神经节细胞瘤）。虽然降钙素能使血钙和血磷下降，但血钙仍正常，因高水平的降钙素最终使其受体向下调节。肿瘤中也存在被刚果红染色的特征性淀粉样沉积物。
+甲状腺髓样癌通过淋巴系统播散，可转移至颈部和纵隔淋巴结，有时可达肝、肺和骨骼。
+患者通常表现为无症状的甲状腺结节，但目前许多病例是在对多发性内分泌腺瘤病2A型或多发性内分泌腺瘤病2B型患者家族进行常规筛查时，在可触及肿瘤之前被诊断出的。
+甲状腺髓样癌如伴有其他激素或多肽的异位分泌（例如，促肾上腺皮质激素（ACTH）、血管活性肠肽、前列腺素、血管舒缓素、血清素），其生化发现可明显异常。
+最有价值的实验室发现是血清降钙素显著增高，钙激发试验（15mg/kg，在4小时内经静脉输入）时降钙素分泌过多。 钙（15mg/kg IV 4小时以上）会引起降钙素过度分泌
+X射线或超声可显示原发肿瘤内有致密、均匀的聚集性钙化。
+所有甲状腺髓样癌患者均应进行RET原癌基因突变的基因检测；具有突变者的亲属应进行基因检测并测量并测定降钙素基础值和激发后水平。在遗传形式中，回转窑原癌基因在 98% 的病例中出现，与表型相关；也就是说，基因的某些密码子的特定突变回转窑基因与不同的综合征或更具侵袭性的疾病有关。
+即使双侧受累不明显，也需要进行全甲状腺切除术和双侧中央区淋巴结清扫术（1）。 如果存在甲状旁腺功能亢进症，则需要切除增生性或腺瘤性甲状旁腺。
+嗜铬细胞瘤，如果存在，通常是双侧的。应通过测量血浆中甲基肾上腺素来排除嗜铬细胞瘤，如果发现，则应在甲状腺切除术前将其切除，因为手术期间有引发高血压危象的危险。
+髓样癌和多发性内分泌腺瘤病2A型患者的长期生存率很高;超过三分之二的受影响患者在10年时仍然活着。作为内分泌腺瘤病2B型的一部分，髓样癌的预后较差。
+降钙素水平升高而没有可触及的甲状腺异常的亲属应该接受甲状腺切除术，因为在这个阶段治愈的机会更大。有些专家建议对血清降钙素基础值和激发试验都正常，并且有原癌基因ret突变的亲属也应进行手术治疗。
+
+【甲状腺乳头状癌参考】
+1.Wells Jr SA, Asa SL, Henning D, et al: Revised American Thyroid Association Guidelines for the Management of Medullary Thyroid Carcinoma prepared by the American Thyroid Association Guidelines Task Force on Medullary Thyroid Carcinoma.Thyroid25(6): 567–610, 2015.doi: 10.1089/thy.2014.0335
+1.Wells Jr SA, Asa SL, Henning D, et al: Revised American Thyroid Association Guidelines for the Management of Medullary Thyroid Carcinoma prepared by the American Thyroid Association Guidelines Task Force on Medullary Thyroid Carcinoma.Thyroid25(6): 567–610, 2015.doi: 10.1089/thy.2014.0335
+
+【辐射诱发的甲状腺癌】
+甲状腺肿瘤发生在甲状腺暴露于大量环境辐射的人群中，例如因接触核武器、核反应堆事故或邻近恶性肿瘤的外部射线治疗而导致偶然受到甲状腺照射。肿瘤可在受到辐射后10年出现，但危险性的增高可持续30～40年。这样的肿瘤一般为良性，但约有10%为甲状腺乳头状癌。这些甲状腺癌通常是多中心或弥漫性的，而放射诱发肿瘤中最常见的基因突变是基因融合。
+接受过甲状腺放射治疗的患者应每年进行一次甲状腺触诊，如果体检时发现结节，则应选择性地进行超声检查。甲状腺扫描并不总能反映受累区域。
+如超声检查时发现结节，应做细针抽吸活检。
+如果细针抽吸活检结果提示癌肿，则需手术。近全或全甲状腺切除术是首选治疗方法，可联合或不联合放射性碘消融，具体取决于复发风险（1）。
+
+【放射诱发甲状腺癌参考文献】
+1.Haugen BR, Alexander EK, Bible KC, et al: 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer: The American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer.Thyroid26(1):1–133, 2016.doi: 10.1089/thy.2015.0020
+1.Haugen BR, Alexander EK, Bible KC, et al: 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer: The American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer.Thyroid26(1):1–133, 2016.doi: 10.1089/thy.2015.0020

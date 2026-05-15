@@ -1,0 +1,98 @@
+标题：双相障碍的药物治疗
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/mood-disorders/medications-for-treatment-of-bipolar-disorders
+============================================================
+
+
+【药物的选择和使用】
+选择治疗药物双相情感障碍可能很困难，因为所有药物都可能产生显着的副作用，药物相互作用很常见，而且没有一种药物是普遍有效的。选择药物可根据患者先前用药的疗效和耐受性。如果没有先前的经验(或未知)，则根据患者的病史(与特定情绪稳定剂的不良影响有关)和症状的严重程度进行选择。
+(参见双相情感障碍。）
+对于严重的精神病性躁狂需要快速控制症状并保证患者安全，常用第二代抗精神病药物，有时辅助一些苯二氮䓬类药物，如劳拉西泮或氯硝西泮(见表苯二氮卓类)。
+对于无禁忌证（如肾功能不全）并且症状不太严重的急性发作患者，锂盐是治疗躁狂发作和抑郁发作的良好一线选择。由于其起效缓慢（4-10 天），症状明显的患者还可联用抗癫痫药物或第二代抗精神病药。
+对于双相抑郁，现有最佳证据支持单独使用喹硫平、卡利拉嗪、鲁美哌隆或鲁拉西酮，或氟西汀联合奥氮平治疗(1, 2)。
+一旦获得缓解，所有双相I型患者都需要使用情绪稳定剂进行预防性治疗(双相I型的定义是至少出现一次完全躁狂发作)。维持治疗期间若发作复发，临床医生需判断患者是否存在用药不依从，若存在，需明确不依从发生在复发之前还是之后。需探究不依从的原因，判断更换心境稳定剂类型或调整剂量是否能提高治疗的接受度。
+
+【药物选择和使用参考】
+1.Bobo WV: The diagnosis and management of bipolar I and II disorders: Clinical practice update.Mayo Clin Proc92(10):1532-1551, 2017.doi: 10.1016/j.mayocp.2017.06.022
+1.Bobo WV: The diagnosis and management of bipolar I and II disorders: Clinical practice update.Mayo Clin Proc92(10):1532-1551, 2017.doi: 10.1016/j.mayocp.2017.06.022
+2.Calabrese JR, Durgam S, Satlin A, et al: Efficacy and safety of lumateperone for major depressive episodes associated with bipolar I or bipolar II disorder: A phase 3 randomized placebo-controlled trial.Am J Psychiatry178(12):1098-1106, 2021.doi: 10.1176/appi.ajp.2021.20091339
+2.Calabrese JR, Durgam S, Satlin A, et al: Efficacy and safety of lumateperone for major depressive episodes associated with bipolar I or bipolar II disorder: A phase 3 randomized placebo-controlled trial.Am J Psychiatry178(12):1098-1106, 2021.doi: 10.1176/appi.ajp.2021.20091339
+锂盐可减轻双相情感障碍的情绪波动，但对正常情绪无影响。有典型双相情感障碍家族史的患者更可能对锂有反应。
+无论使用锂还是其他心境稳定剂，在患有混合状态、快速循环型双相情感障碍（通常定义为≥4 次发作/年）、共病焦虑、物质使用障碍或神经系统疾病的患者中，突破的可能性更大。
+锂碳酸盐通常根据血液水平、耐受性和反应进行滴定。高血药浓度对于预防躁狂发作有效（但对预防抑郁无效）但会引发更多不良反应。青少年肾小球功能良好，所需剂量较高；老年患者所需剂量较低。
+锂盐有镇静作用和并由于可能直接或间接（导致甲状腺功能减退）引起认知损害，加重痤疮和银屑病。最常见的急性轻度不良反应包括细微震颤、肌束颤动、恶心、腹泻、多尿、多饮和体重增加（部分与饮用高热量饮料有关）。 这些反应通常都是一过性的，并且在减少剂量，分散顿数以及使用缓释剂型后得到改善。一旦剂量确定，所有药量应当在晚餐后给予。这种每日一次给药可提高依从性并可能降低肾毒性。一种β阻滞剂（诸如阿替洛尔25～50mg口服，每日1次）能够控制严重震颤；然而某些β阻滞剂（如普萘洛尔）可能会加重抑郁。
+急性锂盐中毒最初表现为粗大震颤，深反射加强，持续头痛，呕吐和神志不清；进一步表现为昏迷，抽搐和心律失常。中毒更容易在以下患者中：
+肌酐清除率降低的患者
+肌酐清除率降低的患者
+存在钠丢失的患者（如因发热、呕吐、腹泻或使用利尿剂所致）
+存在钠丢失的患者（如因发热、呕吐、腹泻或使用利尿剂所致）
+噻嗪类利尿剂、血管紧张素转换酶（ACE）抑制剂以及除阿司匹林外的非甾体抗炎药（NSAIDs），可能诱发高锂血症。锂盐血药浓度应每 6 个月检测一次，剂量调整时也需及时检测。
+锂的长期不良反应包括
+甲状腺功能减退, 特别是存在甲状腺功能减退症的家族史时
+甲状腺功能减退, 特别是存在甲状腺功能减退症的家族史时
+高钙血症和甲状旁腺功能亢进症
+高钙血症和甲状旁腺功能亢进症
+锂盐治疗持续≥15 年后，可能出现累及远端肾小管的肾脏损伤。
+锂盐治疗持续≥15 年后，可能出现累及远端肾小管的肾脏损伤。
+因此，开始使用锂盐时需监测促甲状腺激素（TSH）水平；有甲状腺功能障碍家族史的患者后续需每年监测一次，其他患者每两年监测一次。当提示甲状腺功能异常时（即使在躁狂发作期）应及时检测甲状腺素水平，因为甲减可降低情绪稳定剂的疗效。基线时应测量尿素氮和肌酐，前6个月内测2～3次，之后每年测1～2次。每年应测量血清钙和甲状旁腺激素。剂量累积是造成肾脏损害的危险因素，因此应使用有效预防措施的最小有效剂量（1, 2, 3)。
+
+【锂参考文献】
+1.Presne C, Fakhouri F, Noël LH, et al: Lithium-induced nephropathy: Rate of progression and prognostic factors.Kidney Int64 (2):585-592, 2003.doi: 10.1046/j.1523-1755.2003.00096.x
+1.Presne C, Fakhouri F, Noël LH, et al: Lithium-induced nephropathy: Rate of progression and prognostic factors.Kidney Int64 (2):585-592, 2003.doi: 10.1046/j.1523-1755.2003.00096.x
+2.Pawar AS, Kattah AG: Lithium-induced nephropathy.N Engl J Med378 (11):1042, 2018.doi: 10.1056/NEJMicm1709438
+2.Pawar AS, Kattah AG: Lithium-induced nephropathy.N Engl J Med378 (11):1042, 2018.doi: 10.1056/NEJMicm1709438
+3.McKnight RF, Adida M, Stockton S, et al: Lithium toxicity profile: A systematic review and meta-analysis.Lancet379 (9817):721-728, 2012.doi: 10.1016/S0140-6736(11)61516-X
+3.McKnight RF, Adida M, Stockton S, et al: Lithium toxicity profile: A systematic review and meta-analysis.Lancet379 (9817):721-728, 2012.doi: 10.1016/S0140-6736(11)61516-X
+
+【抗癫痫药】
+抗惊厥药物作为情绪稳定剂，特别是丙戊酸盐和卡马西平常在急性躁狂发作和混合相（躁狂和抑郁）中使用。拉莫三嗪对于快速循环和抑郁有效。抗癫痫药物治疗双相情感障碍的具体作用机制尚不明确，但可能与 γ- 氨基丁酸（GABA）相关机制有关，最终影响 G 蛋白信号通路。和锂盐相比它们的治疗范围更广并且没有肾毒性。
+对于丙戊酸，初始剂量和给药途径可能不同，但需要根据目标血清水平进行调整。基于体重的负荷剂量方案可能会改善早期症状。不良反应包括恶心、头痛、镇静、头晕和体重增加；罕见的严重不良反应包括肝毒性和胰腺炎。
+卡马西平不应负荷过高；应逐渐增加以达到目标血清水平。不良反应包括恶心、头晕、镇静和步态不稳。极严重的不良反应包括再生障碍性贫血和粒细胞缺乏症。
+对于拉莫三嗪，初始剂量和滴定剂量可能与同时服用的药物相互作用而变化。与丙戊酸盐联用时剂量需降低，与卡马西平联用时剂量需升高。拉莫三嗪可导致皮疹，有时可引发致命的Stevens-Johnson综合征，特别是加量过快超过推荐速度时。服用拉莫三嗪期间，应鼓励患者在出现任何新皮疹、荨麻疹、发热、淋巴结肿大、口腔或眼部溃疡、唇或舌肿胀时及时报告。
+
+【抗精神病药】
+急性躁狂性精神病目前越来越多地采用第二代抗精神病药治疗，例如：
+阿立哌唑
+阿立哌唑
+卡利拉嗪（Cariprazine）
+卡利拉嗪（Cariprazine）
+鲁拉西酮
+鲁拉西酮
+齐拉西酮
+齐拉西酮
+此外，有证据表明，这些药物中的一些可能会在急性期后增强情绪稳定剂的效果（1）。
+尽管这些药物均可能产生锥体外系不良反应并引发静坐不能，但喹硫平、奥氮平等镇静作用较强的药物风险更低。一些长期不良反应包括明显的体重增加和代谢综合征（包括体重增加、腹部脂肪堆积、胰岛素抵抗和血脂异常）；鲁拉西酮、齐拉西酮、阿立哌唑等镇静作用最弱的第二代抗精神病药，相关风险可能更低。
+对于极度活跃的精神病患者，若食物和液体摄入不足，除锂盐和抗癫痫药外，肌内注射抗精神病药并辅以支持治疗可能是合适的。
+
+【抗精神病药参考】
+1.Bowden CL: Atypical antipsychotic augmentation of mood stabilizer therapy in bipolar disorder.J Clin Psychiatry66 Suppl 3:12-19, 2005.PMID: 15762830
+1.Bowden CL: Atypical antipsychotic augmentation of mood stabilizer therapy in bipolar disorder.J Clin Psychiatry66 Suppl 3:12-19, 2005.PMID: 15762830
+
+【抗抑郁药】
+具体的抗抑郁药（例如，选择性血清素再摄取抑制剂[SSRIs]) 有时用于重度抑郁症的增效治疗，但其有效性存在争议；它们通常不被推荐作为抑郁发作的单一疗法，尽管有证据表明 SSRI（特别是舍曲林）作为双相 II 型抑郁症的单一疗法可能是安全有效的 (1)。一系列小型研究表明，反苯环丙胺治疗双相抑郁症可能比其他抗抑郁药更有效（2）。
+
+【抗抑郁药参考文献】
+1.Gitlin MJ: Antidepressants in bipolar depression: An enduring controversy.Int J Bipolar Disord6:25, 2018.doi: 10.1186/s40345-018-0133-9
+1.Gitlin MJ: Antidepressants in bipolar depression: An enduring controversy.Int J Bipolar Disord6:25, 2018.doi: 10.1186/s40345-018-0133-9
+2.Heijnen WT, De Fruit J, Wiersma AI, et al: Efficacy of tranylcypromine in bipolar depression: A systematic review.J Clin Psychopharmacol35: 700-705, 2015.doi: 10.1097/JCP.0000000000000409
+2.Heijnen WT, De Fruit J, Wiersma AI, et al: Efficacy of tranylcypromine in bipolar depression: A systematic review.J Clin Psychopharmacol35: 700-705, 2015.doi: 10.1097/JCP.0000000000000409
+
+【妊娠期注意事项】
+在孕期使用锂盐会增加胎儿心血管畸形的风险（特别是Ebstein畸形）。但实际发生这种畸形的情况极其罕见 (1)。怀孕期间服用锂可使任何形式的先天性异常相对风险增加约2倍，使用卡马西平或拉莫三嗪的风险为2~3倍，大大低于使用丙戊酸盐的风险。
+丙戊酸导致神经管缺陷及其他先天性畸形的风险，似乎是其他常用抗癫痫药物的 2～7 倍，孕期禁用（2）。丙戊酸钠增加了神经管缺陷、先天性心脏缺陷、泌尿生殖系统异常、肌肉骨骼异常和唇裂或腭裂的风险。此外，怀孕期间服用丙戊酸盐的妇女的孩子认知结果（例如智商分数）比服用其他抗癫痫药物的妇女的孩子更差，风险似乎与剂量有关。丙戊酸盐也可能会增加注意缺陷多动障碍（ADHD）及孤独症谱系障碍的发病风险。 (3)
+大量研究显示孕早期使用第一代的抗精神病药物和三环类抗抑郁药物并未发现不良影响。有证据表明，除利培酮外，第二代抗精神病药也是安全的（4）。选择性 5 - 羟色胺再摄取抑制剂（SSRIs）致畸的风险似乎也很低（5）。一些研究表明，帕罗西汀可能会略微增加先天性心脏缺陷的绝对风险（6），但数据不一致。尽管第二代抗精神病药已更广泛用于双相情感障碍各阶段治疗，但关于其对胎儿风险的数据目前仍较匮乏。
+在分娩前使用药物（特别是锂盐和SSRIs）会对新生儿产生产后影响。
+意外妊娠时，临床医生察觉问题时致畸作用可能已发生，这使得治疗决策更为复杂。需要在围产期与精神科医生进行讨论。 无论处于何种情况，探讨患者治疗的风险和获益都很重要。（参见妊娠期抗抑郁药.)
+
+【妊娠期注意事项参考文献】
+1.Fornaro M, Maritan E, Ferranti R, et al: Lithium exposure during pregnancy and the postpartum period: A systematic review and meta-analysis of safety and efficacy outcomes.Am J Psychiatry177(1):76-92,2020.doi: 10.1176/appi.ajp.2019.19030228
+1.Fornaro M, Maritan E, Ferranti R, et al: Lithium exposure during pregnancy and the postpartum period: A systematic review and meta-analysis of safety and efficacy outcomes.Am J Psychiatry177(1):76-92,2020.doi: 10.1176/appi.ajp.2019.19030228
+2.Andrade C: Valproate in pregnancy: Recent research and regulatory responses.J Clin Psychiatry79(3):18f12351, 2018.doi: 10.4088/JCP.18f12351
+2.Andrade C: Valproate in pregnancy: Recent research and regulatory responses.J Clin Psychiatry79(3):18f12351, 2018.doi: 10.4088/JCP.18f12351
+3.Tomson T, Battino D, Perucca E: Valproic acid after five decades of use in epilepsy: Time to reconsider the indications of a time-honoured drug.Lancet Neurol15 (2): 210-218, 2016.doi: 10.1016/S1474-4422(15)00314-2
+3.Tomson T, Battino D, Perucca E: Valproic acid after five decades of use in epilepsy: Time to reconsider the indications of a time-honoured drug.Lancet Neurol15 (2): 210-218, 2016.doi: 10.1016/S1474-4422(15)00314-2
+4.Huybrechts KF, Hernandez-Diaz S, Patorno E, et al: Antipsychotic use in pregnancy and the risk for congenital malformations.JAMA Psychiatry73(9):938-946, 2016. doi: 10.1001/jamapsychiatry.2016.1520
+4.Huybrechts KF, Hernandez-Diaz S, Patorno E, et al: Antipsychotic use in pregnancy and the risk for congenital malformations.JAMA Psychiatry73(9):938-946, 2016. doi: 10.1001/jamapsychiatry.2016.1520
+5.Siegfried J, Rea GL: Intrathecal application of drugs for muscle hypertonia.Scand J Rehabil Med Suppl1988;17:145-148.PMID: 3041564.
+5.Siegfried J, Rea GL: Intrathecal application of drugs for muscle hypertonia.Scand J Rehabil Med Suppl1988;17:145-148.PMID: 3041564.
+6.Bérard A, Iessa N, Chaabane S, et al: The risk of major cardiac malformations associated with paroxetine use during the first trimester of pregnancy: A systematic review and meta-analysis.Br J Clin Pharmacol81(4):589-604, 2016.doi: 10.1111/bcp.12849
+6.Bérard A, Iessa N, Chaabane S, et al: The risk of major cardiac malformations associated with paroxetine use during the first trimester of pregnancy: A systematic review and meta-analysis.Br J Clin Pharmacol81(4):589-604, 2016.doi: 10.1111/bcp.12849

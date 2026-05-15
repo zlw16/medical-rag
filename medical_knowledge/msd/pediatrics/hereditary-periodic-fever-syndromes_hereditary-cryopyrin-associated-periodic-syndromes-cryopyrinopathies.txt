@@ -1,0 +1,66 @@
+标题：遗传性的cryopyrin-相关性周期性综合征（Cryopyrin病）
+来源：https://www.msdmanuals.cn/professional/pediatrics/hereditary-periodic-fever-syndromes/hereditary-cryopyrin-associated-periodic-syndromes-cryopyrinopathies
+============================================================
+
+遗传性冷吡啶蛋白相关周期性综合征（CAPS）代表了一系列临床上重叠的自身炎症性疾病。
+它们是由以下原因引起的：
+NLRP3基因突变导致编码的冷吡啶蛋白异常，该蛋白介导炎症和白细胞介素-1β（IL-1β）的生成。
+NLRP3基因突变导致编码的冷吡啶蛋白异常，该蛋白介导炎症和白细胞介素-1β（IL-1β）的生成。
+突变以常染色体显性方式遗传，通常是功能获得，导致冷热蛋白活性增强，从而引发NLRP3炎性体IL-1 β释放增加；这会导致炎症和发烧。
+家族性寒冷性自身炎症综合征(FCAS) 通常会引起寒冷诱发的荨麻疹，并伴有发烧、结膜炎，有时还会出现关节痛。疾病发生于生后第一年。FCAS是CAPS的最轻微形式。
+穆克尔-韦尔斯综合征（MWS）在生命早期即出现，表现为间歇性发热、荨麻疹样皮疹、关节痛及进行性感音神经性听力丧失。继发性淀粉样变性（AA淀粉样变性）可随着时间的推移而发展，导致25%的患者肾功能不全（如蛋白尿、肾功能不全）(1)。
+除了发热和迁移性荨麻疹之外，新生儿发病的多系统自身炎症性疾病（NOMID）往往还会导致关节和肢体畸形、面部畸形、慢性无菌性脑膜炎、脑萎缩、葡萄膜炎、视乳头水肿、发育迟缓和淀粉样变性。NOMID是CAPS中最严重的类型。若未接受 IL-1 抑制剂治疗，多达 20% 的患者可在 20 岁前死亡（2）。
+
+【自身炎症性周期性发热疾病】
+自身炎症性周期性发热疾病
+CAPS = 冷吡啉相关周期性综合征；FMF = 家族性地中海热；NOMID = 新生儿发病多系统炎症性疾病；PFAPA = 周期性发热伴阿弗他口炎、咽炎和颈淋巴结炎；TRAPS = 肿瘤坏死因子受体相关周期性综合征。
+Adapted fromSag E, Bilginer Y, Ozen S: Autoinflammatory diseases with periodic fevers.Curr Rheumatol Rep19(7):41, 2017.doi: 10.1007/s11926-017-0670-8
+
+【参考文献】
+1.Scarpioni R, Rigante D, Cantarini L, et al.Renal involvement in secondary amyloidosis of Muckle-Wells syndrome: marked improvement of renal function and reduction of proteinuria after therapy with human anti-interleukin-1β monoclonal antibodycanakinumab.Clin Rheumatol.2015;34(7):1311-1316.doi:10.1007/s10067-013-2481-2
+1.Scarpioni R, Rigante D, Cantarini L, et al.Renal involvement in secondary amyloidosis of Muckle-Wells syndrome: marked improvement of renal function and reduction of proteinuria after therapy with human anti-interleukin-1β monoclonal antibodycanakinumab.Clin Rheumatol.2015;34(7):1311-1316.doi:10.1007/s10067-013-2481-2
+2.Goldbach-Mansky R, Dailey NJ, Canna SW, et al.Neonatal-onset multisystem inflammatory disease responsive to interleukin-1beta inhibition.N Engl J Med.2006;355(6):581-592.doi:10.1056/NEJMoa055137
+2.Goldbach-Mansky R, Dailey NJ, Canna SW, et al.Neonatal-onset multisystem inflammatory disease responsive to interleukin-1beta inhibition.N Engl J Med.2006;355(6):581-592.doi:10.1056/NEJMoa055137
+
+【遗传性 CAPS 的诊断】
+临床标准
+临床标准
+建议的 CAPS 诊断标准包括炎症标志物增加和以下至少 2 项（1）：
+荨麻疹样皮疹
+荨麻疹样皮疹
+寒冷和/或压力引发的发作
+寒冷和/或压力引发的发作
+感音神经性聋
+感音神经性聋
+肌肉骨骼症状，包括关节痛、关节炎和肌痛
+肌肉骨骼症状，包括关节痛、关节炎和肌痛
+慢性无菌性脑膜炎
+慢性无菌性脑膜炎
+骨骼异常，包括骨骺过度生长和前额隆起
+骨骼异常，包括骨骺过度生长和前额隆起
+这些标准的敏感性为 81%，特异性为 94%（1）。欧洲风湿病协会联盟 (EULAR)/美国风湿病学会 (ACR) 也概述了 CAPS 的诊断注意事项（2）。
+尽管发病年龄较早使得 CAPS 诊断的可能性更高，但在发病年龄较晚的人群中也应考虑 CAPS，因为该病罕见（因此通常不考虑）、轻度表型（在生命早期可能无法识别）和体细胞突变（无家族史）（3）。
+
+【诊断参考】
+1.Kuemmerle-Deschner JB, Ozen S, Tyrrell PN, et al.Diagnostic criteria for cryopyrin-associated periodic syndrome (CAPS).Ann Rheum Dis.2017;76(6):942-947.doi:10.1136/annrheumdis-2016-209686
+1.Kuemmerle-Deschner JB, Ozen S, Tyrrell PN, et al.Diagnostic criteria for cryopyrin-associated periodic syndrome (CAPS).Ann Rheum Dis.2017;76(6):942-947.doi:10.1136/annrheumdis-2016-209686
+2.Romano M, Arici ZS, Piskin D, et al.The 2021 EULAR/American College of Rheumatology points to consider for diagnosis, management and monitoring of the interleukin-1 mediated autoinflammatory diseases: cryopyrin-associated periodic syndromes, tumour necrosis factor receptor-associated periodic syndrome, mevalonate kinase deficiency, and deficiency of the interleukin-1 receptor antagonist.Ann Rheum Dis.2022;81(7):907-921.doi:10.1136/annrheumdis-2021-221801
+2.Romano M, Arici ZS, Piskin D, et al.The 2021 EULAR/American College of Rheumatology points to consider for diagnosis, management and monitoring of the interleukin-1 mediated autoinflammatory diseases: cryopyrin-associated periodic syndromes, tumour necrosis factor receptor-associated periodic syndrome, mevalonate kinase deficiency, and deficiency of the interleukin-1 receptor antagonist.Ann Rheum Dis.2022;81(7):907-921.doi:10.1136/annrheumdis-2021-221801
+3.Putnam CD, Broderick L, Hoffman HM.The discovery of NLRP3 and its function in cryopyrin-associated periodic syndromes and innate immunity.Immunol Rev.2024;322(1):259-282.doi:10.1111/imr.13292
+3.Putnam CD, Broderick L, Hoffman HM.The discovery of NLRP3 and its function in cryopyrin-associated periodic syndromes and innate immunity.Immunol Rev.2024;322(1):259-282.doi:10.1111/imr.13292
+
+【遗传性 CAPS 的治疗】
+IL-1 抑制剂
+IL-1 抑制剂
+CAPS 的治疗采用 IL-1 抑制剂（1）。早期开始IL-1靶向治疗对于预防不可逆器官损伤和改善预后至关重要。
+治疗选择包括：阿那白滞素每日一次、利洛那塞每周一次，或卡那单抗每 8 周一次；对于难治病例，可每 4 周一次（2–4）。对于NOMID患者，由于疾病严重性，可能需要调整剂量；对于治疗反应不完全的患者，也可能需要调整剂量。
+
+【治疗参考文献】
+1.Romano M, Arici ZS, Piskin D, et al.The 2021 EULAR/American College of Rheumatology points to consider for diagnosis, management and monitoring of the interleukin-1 mediated autoinflammatory diseases: cryopyrin-associated periodic syndromes, tumour necrosis factor receptor-associated periodic syndrome, mevalonate kinase deficiency, and deficiency of the interleukin-1 receptor antagonist.Ann Rheum Dis.2022;81(7):907-921.doi:10.1136/annrheumdis-2021-221801
+1.Romano M, Arici ZS, Piskin D, et al.The 2021 EULAR/American College of Rheumatology points to consider for diagnosis, management and monitoring of the interleukin-1 mediated autoinflammatory diseases: cryopyrin-associated periodic syndromes, tumour necrosis factor receptor-associated periodic syndrome, mevalonate kinase deficiency, and deficiency of the interleukin-1 receptor antagonist.Ann Rheum Dis.2022;81(7):907-921.doi:10.1136/annrheumdis-2021-221801
+2.Lachmann HJ, Kone-Paut I, Kuemmerle-Deschner JB, et al: Use ofcanakinumabin the cryopyrin-associated periodic syndrome.N Engl J Med360(23):2416–2425, 2009.doi: 10.1056/NEJMoa0810787
+2.Lachmann HJ, Kone-Paut I, Kuemmerle-Deschner JB, et al: Use ofcanakinumabin the cryopyrin-associated periodic syndrome.N Engl J Med360(23):2416–2425, 2009.doi: 10.1056/NEJMoa0810787
+3.Sibley CH, Plass N, Snow J, et al: Sustained response and prevention of damage progression in patients with neonatal-onset multisystem inflammatory disease treated withanakinra: A cohort study to determine three- and five-year outcomes.Arthritis Rheum64(7):2375–2386, 2012.doi: 10.1002/art.34409
+3.Sibley CH, Plass N, Snow J, et al: Sustained response and prevention of damage progression in patients with neonatal-onset multisystem inflammatory disease treated withanakinra: A cohort study to determine three- and five-year outcomes.Arthritis Rheum64(7):2375–2386, 2012.doi: 10.1002/art.34409
+4.Hoffman HM, Throne ML, Amar NJ, et al: Long-term efficacy and safety profile ofrilonaceptin the treatment of cryopyrin-associated periodic syndromes: Results of a 72-week open-label extension study.Clin Ther34(10):2091–2103, 2012.doi: 10.1016/j.clinthera.2012.09.009
+4.Hoffman HM, Throne ML, Amar NJ, et al: Long-term efficacy and safety profile ofrilonaceptin the treatment of cryopyrin-associated periodic syndromes: Results of a 72-week open-label extension study.Clin Ther34(10):2091–2103, 2012.doi: 10.1016/j.clinthera.2012.09.009

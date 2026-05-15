@@ -1,0 +1,312 @@
+标题：儿童虐待概述
+来源：https://www.msdmanuals.cn/professional/pediatrics/child-maltreatment/overview-of-child-maltreatment
+============================================================
+
+儿童虐待是指父母、照护者或其他承担监护职责的人员对 18 岁以下儿童实施的所有形式的虐待和忽视，导致已经发生的伤害、潜在伤害，或对儿童造成伤害的威胁（1）。2023 年，美国儿童保护服务机构（CPS）共收到 440 万起疑似儿童虐待报告，涉及 780 万名儿童。其中约 310 万起报告接受了详细调查或替代性响应，确认约 54.6 万名儿童遭受虐待（1）。女孩的虐待率（每1000名女孩中有7.9人）高于男孩（每1000名男孩中有6.9人）。孩子越小，受害率越高 (约26.6%的儿童年龄在2岁或2岁以下) 。
+在美国，向儿童保护服务机构提交的所有报告中，约有三分之二是由被授权报告虐待行为的专业人员（如教育工作者、执法人员、社会服务人员、法律专业人员、日托提供者、医疗或心理健康人员、寄养提供者）提交的（2）。在美国，教育工作者持续转介最高比例的虐待儿童报告。
+在 2023 年美国已确认的案件中，76% 涉及忽视（包括医疗忽视），16% 涉及身体虐待，10% 涉及性虐待，0.2% 涉及性贩运（1）。很多儿童是多种虐待的受害者 (3) 。
+2023年，美国约有2000名儿童死于虐待，其中约一半年龄<1岁 (1) 。这些儿童中约78%是被忽视的受害者，41.6%是身体虐待的受害者，有或没有其他形式的虐待。超过 80% 的施害者为单独或与他人共同实施行为的父母。
+各司法辖区对潜在儿童虐待施害者的界定略有不同，但一般而言，从法律角度认定为虐待，儿童虐待行为必须由对儿童福利负有责任的人实施。因此，父母及其他亲属、与儿童同住并承担日常照护责任的人、教师、校车司机、辅导员等均可能成为施害者。对与儿童无任何关系、亦不对其负有照护责任的人实施的暴力行为（如校园枪击事件），在法律上可能构成攻击、谋杀等罪行，但并不被视为法律意义上的儿童虐待。
+儿童虐待被认为是不良童年经历（ACEs）的多种形式之一。不良童年经历（ACEs，如儿童虐待或家庭功能障碍）会增加长期问题的风险，包括心理健康问题和物质使用障碍（4）。虐待儿童也与成年后的问题有关，例如肥胖、心脏病、哮喘和慢性阻塞性肺疾病（COPD）。
+儿童虐待的一级预防至关重要（5）。有效的预防策略包括通过提供建设性养育教育来支持父母，以及加强立法禁止暴力形式的管教或惩罚。一旦发生虐待，必须提供和参与适当的反应和支持服务，以查明案件并为受害者及其家属提供持续的护理。这有助于减少虐待的复发并减轻其可能终身存在的后果。
+
+【参考文献】
+1.U.S. Department of Health & Human Services; Children's Bureau: An Office of the Administration for Children & Families.Child Maltreatment (2023).Accessed September 10, 2025.
+1.U.S. Department of Health & Human Services; Children's Bureau: An Office of the Administration for Children & Families.Child Maltreatment (2023).Accessed September 10, 2025.
+2.Nadon M, Park K, Lee JY, Wright M.Who makes the call?Examining the relationship between child maltreatment referral sources and case outcomes in the United States, 2008-2018.Child Abuse Negl.2023;145:106404.doi:10.1016/j.chiabu.2023.106404
+2.Nadon M, Park K, Lee JY, Wright M.Who makes the call?Examining the relationship between child maltreatment referral sources and case outcomes in the United States, 2008-2018.Child Abuse Negl.2023;145:106404.doi:10.1016/j.chiabu.2023.106404
+3.Turner HA, Finkelhor D, Ormrod R.Poly-victimization in a national sample of children and youth.Am J Prev Med.2010;38(3):323-330.doi:10.1016/j.amepre.2009.11.012
+3.Turner HA, Finkelhor D, Ormrod R.Poly-victimization in a national sample of children and youth.Am J Prev Med.2010;38(3):323-330.doi:10.1016/j.amepre.2009.11.012
+4.Waehrer GM, Miller TR, Silverio Marques SC, et al.Disease burden of adverse childhood experiences across 14 states.PLoS One.15(1):e0226134, 2020.doi: 10.1371/journal.pone.0226134
+4.Waehrer GM, Miller TR, Silverio Marques SC, et al.Disease burden of adverse childhood experiences across 14 states.PLoS One.15(1):e0226134, 2020.doi: 10.1371/journal.pone.0226134
+5.World Health Organization.Fact Sheets: Child maltreatment.November 4, 2024.Accessed September 10, 2025.
+5.World Health Organization.Fact Sheets: Child maltreatment.November 4, 2024.Accessed September 10, 2025.
+
+【儿童虐待的分类】
+不同形式的虐待往往并存，且重叠程度可能相当显著。主要形式包括以下四种（1）：
+躯体虐待
+躯体虐待
+情感虐待
+情感虐待
+此外，故意伪造、捏造或夸大儿童的医疗症状，从而导致潜在有害的医疗干预（现称为“施加于他人的虚假性障碍”或“医学性儿童虐待”，既往称为“代理型孟乔森综合征”）亦被视为一种虐待形式（医疗环境中的儿童虐待）。
+忽视是指未能提供或满足儿童的基本身体、情感、教育和医疗需求。忽视通常是被动的。区分贫困和忽视是很重要的；贫困本身是不能向儿童服务机构报告的。
+不同类型的漠视可以被定义为
+身体上的漠视包括未能提供足够的食物，衣服，住所，监督和保护以免受到潜在伤害。
+身体上的漠视包括未能提供足够的食物，衣服，住所，监督和保护以免受到潜在伤害。
+情感上的漠视是不能提供感情或爱或其他种类的情绪支持。
+情感上的漠视是不能提供感情或爱或其他种类的情绪支持。
+教育方面的漠视是未能让孩子入学，确保上学或提供家庭教育。
+教育方面的漠视是未能让孩子入学，确保上学或提供家庭教育。
+医疗漠视是指未能确保儿童接受适当的护理或因伤或身体或精神障碍而接受治疗。
+医疗漠视是指未能确保儿童接受适当的护理或因伤或身体或精神障碍而接受治疗。
+但未能提供预防保健服务（如疫苗接种、常规牙科检查）通常不被认为是疏忽。
+
+【躯体虐待】
+躯体虐待包括儿童照看者殴打儿童的躯体造成伤害或其行动会有较大的伤害风险。身体虐待可表现为多种形式，如摇晃、摔落、踢打、殴打、咬伤和烧伤（如热水烫伤或香烟灼伤）。
+婴幼儿发生身体虐待的风险更高，因为其发育阶段常见的行为（如有或无肠绞痛的哭闹、睡眠模式不规律、发脾气、如厕训练）可能使照护者感到挫败。该年龄段风险增加的另一原因是他们无法清楚表达或报告所遭受的虐待。身体虐待是婴儿严重头部受伤的最常见原因。在幼儿中，腹部受伤也很常见。这些年龄段的儿童因头部相对于身体比例较大、颈部肌肉较弱，发生脑部（即虐待性颅脑损伤）和脊柱损伤的风险也更高。
+为了成年人或年龄较大（发育或时间顺序）的儿童的性满足而对儿童采取的任何行为都构成性虐待（另见恋童障碍）。
+性虐待不包括正常的性游戏；正常性游戏是指年龄和发育阶段相近的儿童在无强迫或胁迫的情况下相互观看或触碰生殖器区域。尽管区分性虐待与性游戏的法律定义因司法辖区而异，但一般而言，个体之间存在 >4 年（按实际年龄或精神/身体发育）差距的性接触被认为是不恰当的。
+性虐待的形式包括
+性交，即口腔、肛门或阴道穿刺
+性交，即口腔、肛门或阴道穿刺
+猥亵，是指没有性交的生殖器接触
+猥亵，是指没有性交的生殖器接触
+不涉及施害者直接身体接触的形式亦属于性虐待，包括暴露施害者的生殖器、向儿童展示或发送色情材料、发布儿童的色情图片，以及强迫儿童与他人发生性行为或参与制作色情材料。
+不涉及施害者直接身体接触的形式亦属于性虐待，包括暴露施害者的生殖器、向儿童展示或发送色情材料、发布儿童的色情图片，以及强迫儿童与他人发生性行为或参与制作色情材料。
+
+【情感虐待】
+当父母或父母替代者通过以下任何一种言语或行为对孩子造成情感伤害时，就会发生情感虐待：
+以大喊大叫的方式责骂孩子
+以大喊大叫的方式责骂孩子
+通过贬低孩子的能力和成就来唾弃孩子
+通过贬低孩子的能力和成就来唾弃孩子
+以威胁的方式恐吓和使儿童恐惧
+以威胁的方式恐吓和使儿童恐惧
+通过鼓励偏离常规或违法行为而对儿童进行剥削或腐蚀。
+通过鼓励偏离常规或违法行为而对儿童进行剥削或腐蚀。
+情感虐待还包括语言和行为的缺失或被剥夺，本质上构成情感忽视（例如，忽视或拒绝儿童，或将儿童与其他儿童或成人隔离）。
+
+【特别注意事项】
+
+【医疗性儿童虐待】
+医疗环境中的儿童虐待（以前称为代理蒙乔森综合征，现在在《精神疾病诊断与统计手册》第五版[DSM-5]中称为强加于他人的人为障碍发生在照顾者故意制造或伪造儿童身体或心理症状或体征的情况下。看护人可能通过用药物或其他东西来伤害孩子，或者是把血液、细菌等加入尿样中来装病。
+此类儿童虐待的受害者可能会接受不必要的、有害的或可能有害的评估、检查和/或治疗，包括各种医疗程序或手术（2）。
+
+【文化因素】
+文化规范各不相同，个人可能受到一种或多种文化规范的指导，这些文化规范是由地区、国家、城市或城镇、社会群体、年龄组、民族血统、宗教或其他因素定义的。社会认可行为与虐待之间的区别在不同文化中存在差异。然而，虽然区分正常行为与虐待可能具有挑战性，但文化规范不应被用作为任何行为开脱的理由。例如，严重的体罚（如鞭打、烧伤、烫伤）明确构成身体虐待；但对于程度较轻的身体或情感惩戒，不同文化中社会可接受行为与虐待之间的界限可能存在差异。同样，有些做法被接受并重视为文化或宗教传统或仪式的一部分，但在美国或其他国家被认为是虐待，例如女性生殖器切割或某些民间疗法（如刮痧、拔罐、刺激性膏药），这些可能会造成损伤（如瘀伤、瘀点、轻微烧伤）。
+一些宗教或文化团体的信仰包括不寻求医疗，不同意某些类型的医疗（如输血、接种疫苗），或认为某些东西是神圣的或精神上的表现，而不是疾病（如癫痫发作）。这些团体的成员有时未能获得挽救生命的治疗（例如，糖尿病酮症酸中毒或脑膜炎），导致儿童死亡。无论父母或看护人的信仰如何，此类失职通常都被认为是忽视。当儿童患病时，拒绝医学上公认的治疗可能导致法律干预（如法院强制治疗）。拒绝接种疫苗或其他预防性医疗保健是否在法律上被视为医疗疏忽，因司法管辖区而异。
+
+【分类参考】
+1.Centers for Disease Control and Prevention (CDC).Child Abuse and Neglect Prevention: About Child Abuse and Neglect.May 16, 2024.Accessed September 17, 2025.
+1.Centers for Disease Control and Prevention (CDC).Child Abuse and Neglect Prevention: About Child Abuse and Neglect.May 16, 2024.Accessed September 17, 2025.
+2.Bass C, Glaser D.Early recognition and management of fabricated or induced illness in children.Lancet.2014;383(9926):1412-1421.doi:10.1016/S0140-6736(13)62183-2
+2.Bass C, Glaser D.Early recognition and management of fabricated or induced illness in children.Lancet.2014;383(9926):1412-1421.doi:10.1016/S0140-6736(13)62183-2
+
+【儿童虐待的风险因素】
+儿童虐待的病因可能是多因素的，涉及个人、家庭、社区和社会风险因素（即健康的社会决定因素）(1)的复杂相互作用，这些因素导致虐待和忽视(2)。风险因素是高度相互关联和累积的；多种危险因素的存在成倍地增加了虐待的可能性(3)。保护因素，如强大的社会支持和健康的照顾者-儿童关系，可以减轻风险(4)。
+一般而言，儿童虐待可归因于父母或照护者冲动控制能力的失调。有几个因素可以起作用。
+父母的个体特征及人格特点可在儿童虐待的发生中发挥作用。父母自己的童年可能缺乏关爱和温暖，可能不利于发展足够的自尊或情感成熟，在许多情况下，还包括各种形式的虐待。施虐的父母可能将儿童视为获得无限且无条件情感的来源，并试图从儿童那里寻求其自身从未获得过的支持。结果，他们对孩子能够向他们提供的安慰抱有不切实际的期待；他们容易受挫并对冲动控制不佳，也不能给予他们自己从未体验过的爱。药物使用可能会引发对儿童的冲动和不受控制的行为。未得到治疗的父母心理健康障碍亦会增加发生儿童虐待的风险。
+对于有特殊需要和/或困难行为的儿童，父母可能更容易和更频繁地达到他们的挫折阈值和随后的虐待行为 （5)。亲子依恋关系不足可能增加虐待风险；该情况更常见于早产儿或患病婴儿（其在生命早期即与父母分离），以及与照护者无生物学关系的儿童（如继子女）。
+情境性压力（如失业、离婚）可能诱发虐待，尤其是在缺乏亲属、朋友、邻居或同伴情感支持的情况下。
+所有类型虐待包括性虐待可以发生在各种社会经济地位的人群中。然而，某些社会经济压力因素（如经济压力、社会孤立、年轻或单亲身份）与虐待风险增加相关（1）。初为人父母者、青少年父母，以及已有多名<5 岁儿童的父母，其子女发生虐待的风险亦更高。
+忽视通常源于多种因素的共同作用，包括育儿能力不足、应对压力的技能欠缺、家庭支持系统薄弱以及充满压力的生活环境。忽视常发生于承受经济和环境压力的家庭，尤其是在父母同时存在未治疗的精神疾病（通常为抑郁症、焦虑症、双相情感障碍或精神分裂症）、物质使用障碍或智力障碍的情况下。单亲家庭中的儿童由于可获得资源较少，发生忽视的风险可能增加（6）。
+
+【病因参考文献】
+1.Hunter AA, Flores G.Social determinants of health and child maltreatment: a systematic review.Pediatr Res.2021;89(2):269-274.doi:10.1038/s41390-020-01175-x
+1.Hunter AA, Flores G.Social determinants of health and child maltreatment: a systematic review.Pediatr Res.2021;89(2):269-274.doi:10.1038/s41390-020-01175-x
+2.Luo Z, Chen Y, Epstein RA.Risk factors for child abuse and neglect: Systematic review and meta-analysis.Public Health.2025;241:89-98.doi:10.1016/j.puhe.2025.01.028
+2.Luo Z, Chen Y, Epstein RA.Risk factors for child abuse and neglect: Systematic review and meta-analysis.Public Health.2025;241:89-98.doi:10.1016/j.puhe.2025.01.028
+3.Vial A, van der Put C, Stams GJJM, Kossakowski J, Assink M.Exploring the interrelatedness of risk factors for child maltreatment: A network approach.Child Abuse Negl.2020;107:104622.doi:10.1016/j.chiabu.2020.104622
+3.Vial A, van der Put C, Stams GJJM, Kossakowski J, Assink M.Exploring the interrelatedness of risk factors for child maltreatment: A network approach.Child Abuse Negl.2020;107:104622.doi:10.1016/j.chiabu.2020.104622
+4.Younas F, Gutman LM.Parental Risk and Protective Factors in Child Maltreatment: A Systematic Review of the Evidence.Trauma Violence Abuse.2023;24(5):3697-3714.doi:10.1177/15248380221134634
+4.Younas F, Gutman LM.Parental Risk and Protective Factors in Child Maltreatment: A Systematic Review of the Evidence.Trauma Violence Abuse.2023;24(5):3697-3714.doi:10.1177/15248380221134634
+5.Austin AE, Lesak AM, Shanahan ME.Risk and protective factors for child maltreatment: A review.Curr Epidemiol Rep.7(4):334–342, 2020.doi: 10.1007/s40471-020-00252-3
+5.Austin AE, Lesak AM, Shanahan ME.Risk and protective factors for child maltreatment: A review.Curr Epidemiol Rep.7(4):334–342, 2020.doi: 10.1007/s40471-020-00252-3
+6.Vanderminden J, Hamby S, David-Ferdon C, et al.Rates of neglect in a national sample: Child and family characteristics and psychological impact.Child Abuse Negl.2019;88:256-265.doi:10.1016/j.chiabu.2018.11.014
+6.Vanderminden J, Hamby S, David-Ferdon C, et al.Rates of neglect in a national sample: Child and family characteristics and psychological impact.Child Abuse Negl.2019;88:256-265.doi:10.1016/j.chiabu.2018.11.014
+
+【儿童虐待的症状和体征】
+症状和体征取决于虐待和漠视的性质和持续时间。
+
+【躯体虐待】
+皮肤病变是最常见的发现。皮肤发现通常很细微（例如，面部和/或颈部的小瘀伤、瘀斑）（1)。
+更严重的发现可能包括
+因打耳光或抓取和晃动而产生的手印或椭圆形指尖标志。
+因打耳光或抓取和晃动而产生的手印或椭圆形指尖标志。
+出现皮带鞭打所引起的长的，带形瘀斑
+出现皮带鞭打所引起的长的，带形瘀斑
+弹性软绳鞭打导致的窄的弧形瘀伤
+弹性软绳鞭打导致的窄的弧形瘀伤
+香烟所引起的多处小而圆的灼伤
+香烟所引起的多处小而圆的灼伤
+故意沉浸造成的上肢或下肢或臀部的对称烧伤
+故意沉浸造成的上肢或下肢或臀部的对称烧伤
+因堵嘴而引起的嘴角皮肤增厚或疤痕。
+因堵嘴而引起的嘴角皮肤增厚或疤痕。
+拽头发引起的斑片状脱发，头发长短不一。
+拽头发引起的斑片状脱发，头发长短不一。
+骨折中高度提示身体虐待的类型包括经典干骺端损伤（即桶柄样骨折，通常由对婴幼儿的摇晃所致）、肋骨骨折以及棘突骨折（2）。最常与身体虐待相关的骨折包括颅骨骨折、长骨骨折和肋骨骨折。年龄<1岁的儿童中，约25%的骨折是由他人造成的 (3)。
+中枢神经系统损伤可引起意识混乱或神经定位异常。临床医师应认识到，缺乏外表可见的头部损伤并不能排除内部损害（如创伤性脑损伤），尤其是在遭受剧烈摇晃的婴儿中。此类婴儿可能因脑损伤而呈昏迷或嗜睡状态，但缺乏明显的外伤体征（常见的例外为视网膜出血），或仅表现为烦躁、呕吐等非特异性症状。胸腔或腹部/盆腔内脏器的创伤性损伤亦可能在初期无任何可见体表征象。
+儿童可能遭受一种以上的虐待，导致口周和口内损伤。医疗和牙科专业人员应了解应引起儿童虐待怀疑的损伤和疾病(4)。
+经常受到虐待的年龄较大的儿童往往感到恐惧和易怒，睡眠不足。他们可能出现抑郁、创伤后应激反应或焦虑的症状。有时滥用的受害者会出现类似于注意力缺陷/多动障碍（ADHD）的症状，并被误诊为该病。产生暴力行为和自杀常有发生。
+
+【经验与提示】
+经验与提示
+缺乏可见的头部损伤并不排除遭受虐待的儿童的创伤性脑损伤。
+缺乏可见的头部损伤并不排除遭受虐待的儿童的创伤性脑损伤。
+儿童并非总是表现出性虐待的行为或躯体体征。在大多数情况下，儿童不会主动披露性虐待；他们可能因羞耻而不愿透露，或因担心施害者报复或其他后果而不敢告知他人。即便发生披露，也可能存在延迟，有时可延迟数天，甚至数年。在某些情况下，可能在无明显诱因的情况下出现行为的突然或极端改变。可能出现攻击性或退缩行为，也可能出现恐惧症或睡眠障碍。部分遭受性虐待的儿童会表现出与其年龄不相符的性行为。
+涉及插入行为的性虐待的潜在躯体体征可能包括
+吞咽、行走或坐立困难
+吞咽、行走或坐立困难
+生殖器、肛门或口腔周围瘀伤或裂伤
+生殖器、肛门或口腔周围瘀伤或裂伤
+阴道分泌物、出血或瘙痒
+阴道分泌物、出血或瘙痒
+在虐待发生后的数日内，对生殖器、肛门和口腔的检查很可能为正常，但检查者应注意是否存在已愈合的损伤或其他此类细微改变。如果儿童被诊断为性传播感染或妊娠，应启动对性虐待或性侵犯的评估和社会支持。
+
+【情感虐待】
+临床医生必须意识到情感儿童虐待（有时也称为心理儿童虐待）的迹象，这与忽视不同。当儿童满足心理需求的尝试受到阻挠、扭曲或腐蚀时，就会发生情感虐待(5)。在婴儿期早期，情感虐待可表现情感表达迟钝和对外界环境缺乏兴趣。情感虐待有时会导致生长迟缓，且常被误诊为智力障碍或躯体疾病。社交和语言技能的延迟发展可能是父母刺激和互动不足的迹象。
+遭受情感虐待的儿童可能变得缺乏安全感、焦虑、不信任他人、人际关系流于表面，或表现出被动。他们可能通过表现出或看起来过度关心取悦成人来进行补偿。被冷落的孩子可能自我价值感低下。受到威胁的孩子可能胆小、退缩。
+情感对儿童的影响通常在学龄期显现出来，表现为较难与老师和同伴建立关系。通常，只有在儿童被安置到另一个环境后，或在其异常行为减轻并被更可接受的行为取代后，情感影响才会被注意到。受到剥削的儿童可能会犯罪或患上药物使用障碍。
+营养不良、疲乏、个人卫生不良、缺乏适当衣物以及生长迟缓是忽视（即未能提供充足的食物、衣物或住所）的常见表现。由饥饿或暴露于极端温度或天气条件所致的生长受限甚至死亡亦偶有发生。涉及监管不充分的忽视可能导致可预防的疾病或伤害。
+
+【症状和体征参考】
+1.Pierce MC, Kaczor K, Douglas JL, et al.Validation of a clinical decision rule to predict abuse in young children based on bruising characteristics.JAMA Netw Open.4(4):e215832, 2021.doi: 10.1001/jamanetworkopen.2021.5832
+1.Pierce MC, Kaczor K, Douglas JL, et al.Validation of a clinical decision rule to predict abuse in young children based on bruising characteristics.JAMA Netw Open.4(4):e215832, 2021.doi: 10.1001/jamanetworkopen.2021.5832
+2.Mankad K, Sidpra J, Mirsky DM, et al.International Consensus Statement on the Radiological Screening of Contact Children in the Context of Suspected Child Physical Abuse.JAMA Pediatr.2023;177(5):526-533.doi:10.1001/jamapediatrics.2022.6184
+2.Mankad K, Sidpra J, Mirsky DM, et al.International Consensus Statement on the Radiological Screening of Contact Children in the Context of Suspected Child Physical Abuse.JAMA Pediatr.2023;177(5):526-533.doi:10.1001/jamapediatrics.2022.6184
+3.Leventhal JM, Martin KD, Asnes AG.Incidence of fractures attributable to abuse in young hospitalized children: results from analysis of a United States database.Pediatrics.2008;122(3):599-604.doi:10.1542/peds.2007-1959
+3.Leventhal JM, Martin KD, Asnes AG.Incidence of fractures attributable to abuse in young hospitalized children: results from analysis of a United States database.Pediatrics.2008;122(3):599-604.doi:10.1542/peds.2007-1959
+4.Fisher-Owens SA, Lukefahr JL, Tate AR, et al.Oral and Dental Aspects of Child Abuse and Neglect.Pediatrics.2017;140(2):e20171487.doi:10.1542/peds.2017-1487
+4.Fisher-Owens SA, Lukefahr JL, Tate AR, et al.Oral and Dental Aspects of Child Abuse and Neglect.Pediatrics.2017;140(2):e20171487.doi:10.1542/peds.2017-1487
+5.American Professional Society on the Abuse of Children (APSAC) Task Force.Practice Guidelines: The investigation and determination of suspected psychological maltreatment of children and adolescents.Published 2023.Accessed September 23, 2025.
+5.American Professional Society on the Abuse of Children (APSAC) Task Force.Practice Guidelines: The investigation and determination of suspected psychological maltreatment of children and adolescents.Published 2023.Accessed September 23, 2025.
+
+【儿童虐待的诊断】
+详细的病史和体格检查
+详细的病史和体格检查
+支持性、开放式的询问
+支持性、开放式的询问
+有时影像及化验
+有时影像及化验
+儿童虐待是通过综合临床病史、体格检查（仔细注意某些临床表现）和有针对性的诊断测试来诊断的，所有这些都是在儿童的发育和社会心理背景下进行的。应排除意外伤害和常见的医疗条件。
+将虐待识别为非特异性症状或体征的病因可能较为困难，因此必须保持高度警惕。由于隐性偏见，临床医生可能较少考虑生活在双亲家庭、且推测为中高社会经济地位儿童受虐待的可能性。 但无论家庭构成或社会经济状况如何，都可能发生虐待儿童事件。尽管存在风险因素或隐性偏见，但在任何表现出迹象和/或症状（例如，给定病史与可见创伤之间的不相容）的儿童中，虐待是一个重要的考虑因素。
+应在轻松的环境中，向儿童（若其发育水平允许提供病史）以及其未参与虐待的照护者（即非施害者）详细采集病史，包括重要事件经过（1）。相关的家庭和社会心理历史细节包括家庭组成的变化、遭受亲密伴侣暴力、父母精神健康问题、物质使用障碍、参与儿童福利或少年司法以及任何正在发生的暴力行为。通常，在初步评估之后，是否发生了虐待仍不清楚。然而，对于疑似虐待的强制报告要求，应启动相关主管部门和/或社会机构进行调查；若其评估证实存在虐待，可实施相应的法律和社会干预措施。
+根据伤害的发育年龄和心理社会背景，可能需要开放式和封闭式问题。在此类情况下，开放式提问（如“你能告诉我发生了什么吗？”）尤为重要，因为是非题式提问（如“是爸爸做的吗？”“他碰过你这里吗？”）可能在幼小儿童的认知中构建不真实的经历（2）。有时直接提问可以提供答案，但一般来说，这种提问应该留给受过法医调查训练的人；一些卫生保健专业人员接受过这种培训。遭受虐待的儿童可能会描述事件经过及施害者，但需要注意的是，部分儿童，尤其是性虐待受害者，可能被要求保密、受到威胁，或因严重创伤而不愿谈及虐待（甚至在被直接询问时否认虐待）。
+除详细病史采集外，临床接诊过程中应尽可能观察儿童与照护者之间的互动。对病史和体格检查的记录应尽可能全面、准确，包括原话记录病史内容以及对可疑损伤进行拍照存档。
+
+【躯体虐待】
+在美国，身体虐待（包括杀人）是儿童死亡的十大原因之一（3）。病史与体格检查均可能提供提示存在虐待的线索（4）。
+病史中提示虐待的表现有：
+父母不愿或不能提供儿童重大伤害的病史
+父母不愿或不能提供儿童重大伤害的病史
+与损伤不符的病史（例如，将腿后侧的瘀伤归因于向前摔倒）或明显矛盾的愈合阶段（例如，将旧伤描述为新伤）。
+与损伤不符的病史（例如，将腿后侧的瘀伤归因于向前摔倒）或明显矛盾的愈合阶段（例如，将旧伤描述为新伤）。
+病史随信息来源或时间而变化（需注意，部分不一致可能源于不同叙述者以及临床医师记录方式的差异）。
+病史随信息来源或时间而变化（需注意，部分不一致可能源于不同叙述者以及临床医师记录方式的差异）。
+所述受伤机制与儿童发育阶段不相符（如将伤因归咎于尚不足以翻身/移动到该距离的婴儿从床上滚落，或将伤因归咎于尚不会爬行、且未被放置在楼梯附近的婴儿从楼梯跌落）。
+所述受伤机制与儿童发育阶段不相符（如将伤因归咎于尚不足以翻身/移动到该距离的婴儿从床上滚落，或将伤因归咎于尚不会爬行、且未被放置在楼梯附近的婴儿从楼梯跌落）。
+父母的反应与外伤的严重程度不符，表现为过度关注或忽视
+父母的反应与外伤的严重程度不符，表现为过度关注或忽视
+孩子受伤后寻求救护出现异常滞后
+孩子受伤后寻求救护出现异常滞后
+主要提示虐待的体检发现为
+非典型性创伤
+非典型性创伤
+与虐待而非典型儿童跌倒相关的常见损伤
+与虐待而非典型儿童跌倒相关的常见损伤
+伤情与所述病史不一致
+伤情与所述病史不一致
+儿童因简单跌倒导致的损伤通常为单发，且多发生于前额、下巴或口部，或四肢伸侧，尤其是肘、膝、前臂和胫部。因跌倒导致的臀部及大腿后侧瘀伤极为罕见。除了锁骨骨折、胫骨（幼儿）骨折和远端桡骨（Colles）骨折外，其他骨折在玩耍或跌落楼梯时较少见。没有任何一种骨折对虐待具有绝对特异性，但经典干骺端损伤（如桶柄样骨折）、肋骨骨折（尤其是后肋和第一肋）、凹陷性或多发性颅骨骨折（却被归因于所谓的轻微外伤）、肩胛骨骨折、胸骨骨折以及棘突骨折，均应引起对虐待的高度警惕。
+此 X 射线显示婴儿的肋骨骨折（以红色突出显示），暗示有虐待儿童的迹象。
+PHOTOSTOCK-ISRAEL/SCIENCE PHOTO LIBRARY
+当发现前哨伤（解释不清的、医学上对幼儿的轻微伤害，会引起对虐待的关注）（例如婴儿身上的瘀伤）时，应在鉴别诊断中考虑身体虐待和严重内伤（5）。婴幼儿即使遭受严重的脑损伤，仍可能表现正常。因此每个嗜睡孩子都需进行急性颅脑损伤的鉴别诊断。在体检中具有重要诊断性参考价值的还有：不同愈合或发展阶段的多发性损伤；一些特殊原因造成的皮肤特异性损害；反复发生的伤害。这些都提示可能存在虐待或缺乏监护。
+在疑似身体虐待（包括虐待性颅脑损伤）的情况下，建议对所有<1 岁以下儿童进行散瞳眼底检查及神经影像学检查（6）。85~90%的虐待头部创伤的病例会出现视网膜出血，意外的头部外伤病例发生此类出血的比例则<10% (7) 。然而，视网膜出血并不是滥用的典型症状。它们也可能由分娩引起，并持续4周或更长时间。 当意外创伤导致视网膜出血，机制通常是显而易见的，并且危及生命（例如，重大车祸），出血通常数量很少，而且只限于后极部。
+对<24 个月以下、存在身体虐待可能性的儿童，应行全身骨骼调查（X 线检查），以寻找既往骨损伤证据（如不同愈合阶段的骨折或长骨骨膜下抬高）（8、9）。有时对有显著发育延迟的年长儿童进行调查。该标准调查包括以下图像
+附肢骨骼：肱骨，前臂，手，股骨，小腿和脚
+附肢骨骼：肱骨，前臂，手，股骨，小腿和脚
+中轴骨骼：胸部（包括倾斜视图），骨盆，腰骶椎，颈椎，颅骨
+中轴骨骼：胸部（包括倾斜视图），骨盆，腰骶椎，颈椎，颅骨
+导致多发性骨折的身体疾病包括成骨不全症、佝偻病、和先天性梅毒。在遗传性铜缺乏症（Menkes 综合征），骨质疏松症可能导致骨折。
+性传播感染（10, 11）在儿童中<12岁几乎都是性虐待的结果。 当孩子受到性侵犯时，行为改变可能是初期唯一的诊断线索（不安、害怕和失眠症）。
+如怀疑性虐待，应作为全面体格检查的一部分，检查口周、肛周及外生殖器是否存在损伤证据。在适当的情况下，以侵入性最小的方式对儿童进行性传播感染检查（例如，对某些感染进行血液检查、尿液检查）。
+若怀疑虐待发生于近期，应提供法医证据采集；在获得同意后，使用合适的取证工具进行采集，并按相关法律标准进行处理（见检测与证据采集）（12）。适当时提供接触后检测和预防。一个带照相机的放大光源的检查，如有特殊装备的阴道镜检查，有助检查者获取法律证据。
+
+【情感虐待和漠视】
+评估一般表现和行为来决定儿童是否发育不正常。老师和社会工作者常首先觉察有漠视。医生可能意识到某些错过看病预约和疫苗接种。对威胁生命的、慢性疾病的医疗疏忽（如哮喘或糖尿病）可能会导致门诊或急诊就诊量随之增加，而且患者对推荐治疗方案的依从性不佳。
+（另见营养缺乏.)
+
+【诊断参考】
+1.APSACTaskforce.Forensic Interviewing of Children.American Professional Society on the Abuse of Children (APSAC).2023.Accessed October 4,2025.
+1.APSACTaskforce.Forensic Interviewing of Children.American Professional Society on the Abuse of Children (APSAC).2023.Accessed October 4,2025.
+2.Henderson HM, Lundon GM, Lyon TD.Suppositional Wh- Questions About Perceptions, Conversations, and actions are More Productive than Paired Yes-No Questions when Questioning Maltreated Children.Child Maltreat.2023;28(1):55-65.doi:10.1177/10775595211067208
+2.Henderson HM, Lundon GM, Lyon TD.Suppositional Wh- Questions About Perceptions, Conversations, and actions are More Productive than Paired Yes-No Questions when Questioning Maltreated Children.Child Maltreat.2023;28(1):55-65.doi:10.1177/10775595211067208
+3.Centers for Disease Control and Prevention.National Center for Health Statistics: Child Health.Accessed September 24, 2025.
+3.Centers for Disease Control and Prevention.National Center for Health Statistics: Child Health.Accessed September 24, 2025.
+4.Christian CW; Committee on Child Abuse and Neglect, American Academy of Pediatrics.The evaluation of suspected child physical abuse.Pediatrics.2015;135(5):e1337-e1354.doi:10.1542/peds.2015-0356
+4.Christian CW; Committee on Child Abuse and Neglect, American Academy of Pediatrics.The evaluation of suspected child physical abuse.Pediatrics.2015;135(5):e1337-e1354.doi:10.1542/peds.2015-0356
+5.Sheets LK, Leach ME, Koszewski IJ, Lessmeier AM, Nugent M, Simpson P.Sentinel injuries in infants evaluated for child physical abuse.Pediatrics.2013;131(4):701-707.doi:10.1542/peds.2012-2780
+5.Sheets LK, Leach ME, Koszewski IJ, Lessmeier AM, Nugent M, Simpson P.Sentinel injuries in infants evaluated for child physical abuse.Pediatrics.2013;131(4):701-707.doi:10.1542/peds.2012-2780
+6.Narang SK, Haney S, Duhaime AC, et al.Abusive Head Trauma in Infants and Children: Technical Report.Pediatrics.2025;155(3):e2024070457.doi:10.1542/peds.2024-070457
+6.Narang SK, Haney S, Duhaime AC, et al.Abusive Head Trauma in Infants and Children: Technical Report.Pediatrics.2025;155(3):e2024070457.doi:10.1542/peds.2024-070457
+7.Maguire SA, Watts PO, Shaw AD, et al.Retinal haemorrhages and related findings in abusive and non-abusive head trauma: A systematic review.Eye (Lond).27(1):28–36, 2013.doi: 10.1038/eye.2012.213
+7.Maguire SA, Watts PO, Shaw AD, et al.Retinal haemorrhages and related findings in abusive and non-abusive head trauma: A systematic review.Eye (Lond).27(1):28–36, 2013.doi: 10.1038/eye.2012.213
+8.Haney S, Scherl S, DiMeglio L, et al.Evaluating Young Children With Fractures for Child Abuse: Clinical Report.Pediatrics.2025;155(2):e2024070074.doi:10.1542/peds.2024-070074
+8.Haney S, Scherl S, DiMeglio L, et al.Evaluating Young Children With Fractures for Child Abuse: Clinical Report.Pediatrics.2025;155(2):e2024070074.doi:10.1542/peds.2024-070074
+9.American College of Radiology and Society for Pediatric Radiology.ACR-SPR practice parameter for the performance and interpretation of skeletal surveys in children.Revised 2021.Accessed September 17, 2025.
+9.American College of Radiology and Society for Pediatric Radiology.ACR-SPR practice parameter for the performance and interpretation of skeletal surveys in children.Revised 2021.Accessed September 17, 2025.
+10.Jenny C, Crawford-Jakubiak JE; Committee on Child Abuse and Neglect; American Academy of Pediatrics.The evaluation of children in the primary care setting when sexual abuse is suspected.Pediatrics.132(2):e558–e567, 2013.doi: 10.1542/peds.2013-1741
+10.Jenny C, Crawford-Jakubiak JE; Committee on Child Abuse and Neglect; American Academy of Pediatrics.The evaluation of children in the primary care setting when sexual abuse is suspected.Pediatrics.132(2):e558–e567, 2013.doi: 10.1542/peds.2013-1741
+11.Adams JA, Kellogg ND, Farst KJ, et al.Updated Guidelines for the Medical Assessment and Care of Children Who May Have Been Sexually Abused.J Pediatr Adolesc Gynecol.2016;29(2):81-87.doi:10.1016/j.jpag.2015.01.007
+11.Adams JA, Kellogg ND, Farst KJ, et al.Updated Guidelines for the Medical Assessment and Care of Children Who May Have Been Sexually Abused.J Pediatr Adolesc Gynecol.2016;29(2):81-87.doi:10.1016/j.jpag.2015.01.007
+12.Thackeray JD, Hornor G, Benzinger EA, Scribano PV.Forensic evidence collection and DNA identification in acute child sexual assault.Pediatrics.2011;128(2):227-232.doi:10.1542/peds.2010-3498
+12.Thackeray JD, Hornor G, Benzinger EA, Scribano PV.Forensic evidence collection and DNA identification in acute child sexual assault.Pediatrics.2011;128(2):227-232.doi:10.1542/peds.2010-3498
+
+【儿童虐待的管理】
+创伤治疗
+创伤治疗
+向适当的机构报告
+向适当的机构报告
+安全计划的创建
+安全计划的创建
+家庭辅导及支持
+家庭辅导及支持
+有时离开家里
+有时离开家里
+治疗首先要保证紧急医疗需求（包括可能的性传播感染）和确保儿童当前的人身安全 (1, 2) 。应该考虑转诊到儿童虐待医学儿科专家。对有虐待和漠视的家庭，应提供帮助而不是惩罚。
+
+【即刻的安全】
+建议怀疑儿童受到虐待的临床医生遵循当地临床、监管和法律要求，并利用适当的现有资源来评估、支持和保护儿童。
+在美国，与儿童接触的医生及其他专业人员（如护士、医师助理、执业护士、社会工作者、心理学家、教师、托幼工作人员、警察）均属于强制报告人，依法在所有州均必须报告疑似儿童虐待或忽视事件（见Mandatory Reporters of Child Abuse and Neglect）。鼓励而非规定大众上报可疑的虐待。
+根据合理理由按实际上报的任何人均可免罪和/或免责。相反，强制报告人若未履行报告义务，可能面临刑事及民事处罚。相关报告通常提交至儿童保护服务机构（在美国）或其他适当的地区性儿童保护机构。在大多数情况下，专业人员应该告诉护理人员，正在根据法律进行报告，如果报告被接受，他们将被联系、采访，并可能在家中进行探访。在某些情况下，专业人员可能会确定，在警察或其他机构提供援助之前通知父母或照顾者会对儿童和/或他们自己造成更大的伤害风险。在上述情况下，专业人员延迟告知父母或照护者有时是可以接受的。
+怀疑儿童受到虐待的临床医生通常与社会工作者一起确定下一步的步骤，包括
+向儿童保护机构报告
+向儿童保护机构报告
+放置在亲戚家或在临时房屋（有时全家搬出施暴的配偶的家）
+放置在亲戚家或在临时房屋（有时全家搬出施暴的配偶的家）
+临时寄养或极少情况下终止亲权（3），目标是通过收养确保永久性安置
+临时寄养或极少情况下终止亲权（3），目标是通过收养确保永久性安置
+返回家中，立即有社会服务跟进及医疗随访。
+返回家中，立即有社会服务跟进及医疗随访。
+在开始任何其他支持性营养护理（如胃造口管）之前，应首先将被怀疑是忽视受害者的营养不良儿童住院治疗，并以适合年龄的方式给予营养。若儿童在住院期间开始明显好转并出现生长改善，这被视为忽视（或因贫困导致食物不足）的重要客观证据。
+医生在与社区机构合作为儿童倡导最好的和最安全的处置方案中发挥着关键作用。
+美国的医疗保健专业人员常被要求撰写“影响说明”，即一封通常致函儿童保护机构工作人员的信函（其后可提交司法系统），内容涉及一名被怀疑遭受虐待的儿童。该信函应以通俗易懂的语言，清楚说明病史及体格检查所见，并总结性地给出关于该儿童遭受虐待可能性的临床判断。
+为儿童提供初级医疗护理来源至关重要。但是，遭受虐待和疏于照顾的儿童家庭经常搬家，很难保证医疗连续性。取消或错过的预约很常见。在这种情况下，社会工作者和/或公共卫生护士的外展和家访可能会有所帮助。当地的儿童倡导中心可以帮助社区机构、临床医生和法律系统作为一个多学科团队以更加协调、儿童友好和有效的方式共同工作。
+应对家庭环境、既往与各类社区服务机构的接触情况以及照护者的需求进行全面而深入的审查。社会工作者可进行此类调查，并可帮助做好信息收集和家庭咨询的工作。社会工作者可以帮助看护人获得社会帮助、儿童护理和暂息帮助（以减轻看护人的压力）。他们还可以帮助看护人协调精神卫生服务。周期的持续的社会工作联系通常是必要的。
+一些社区还开展了家长助理计划，该计划组织雇用一些接受过培训的非专业人员，为虐待和疏忽孩子的父母提供支持，并提供合适的育儿示范。其他也有一些父母支持小组也颇有建树。
+性侵犯可能会对儿童的发育和未来的性生活产生长久的心理影响，尤其对年长儿童和十几岁的少年。对儿童及未参与虐待的成年照护者进行咨询或心理治疗，有助于减轻相关不良影响。
+身体虐待，尤其是严重的头部外伤，亦可对发育产生长期影响；对疑似或已确诊虐待性颅脑损伤的儿童，应转介进行早期干预评估。如果照顾者担心幼儿有残疾或发育迟缓，他们可能会要求幼儿教育项目进行评估。在美国，每个州都有一个早期干预系统，这是一个评估和治疗疑似残疾或发育迟缓的儿童的项目。
+
+【暂时离开家庭】
+尽管在评估完成并确保安全之前，有时会采取紧急临时措施将儿童移出家庭环境，但儿童保护机构的最终目标是在安全、健康的环境中尽可能维持儿童与家庭共同生活。通常情况下，会为庭提供服务，以恢复该护理人员的资格，让被带走的儿童与他们的家人团聚。
+若上述干预措施仍无法确保儿童安全，则需考虑长期安置，甚至可能终止父母监护权。这一重要步骤需要由相关福利部门的法律顾问向法院提出申请。在美国，具体程序因州而异，但通常包括由临床医师在家庭法院作证。当法院决定紧急将儿童移出家庭时，将安排安置方案，通常为临时性安置，如寄养家庭。当孩子在临时的安置期间，如果可能的话，家庭医生或儿童专科医疗团队应与孩子的父母保持联系，并确保尽最大的努力帮助他们。偶尔，儿童在寄养期间会被再次虐待。临床医生应该对这种可能性保持警惕。
+当家庭气氛有所改善时，孩子可以重新回到最初看护人的照料之下。然而，虐待的再发生很普遍。
+
+【治疗参考文献】
+1.World Health Organization.Responding to child maltreatment: A clinical handbook for health professionals.August 4, 2022.Accessed September 23, 2025.
+1.World Health Organization.Responding to child maltreatment: A clinical handbook for health professionals.August 4, 2022.Accessed September 23, 2025.
+2.World Health Organization.WHO guidelines for the health sector response to child maltreatment.Technical Report.September 16, 2019.Accessed September 23, 2025.
+2.World Health Organization.WHO guidelines for the health sector response to child maltreatment.Technical Report.September 16, 2019.Accessed September 23, 2025.
+3.Child Welfare Information Gateway.Adoption and Safe Families Act of 1997 – P.L.105-89.November 1997.Accessed October 4, 2025.
+3.Child Welfare Information Gateway.Adoption and Safe Families Act of 1997 – P.L.105-89.November 1997.Accessed October 4, 2025.
+
+【儿童虐待的预防】
+儿科医生和其他儿童初级保健临床医生处于预防儿童虐待工作的最前线（1）。对于儿科临床医生来说，预防儿童虐待的目标是双重的：首要目标是通过识别和解决家庭和社区的压力源来降低风险，其次目标是通过加强儿童和家庭的保护因素来提高复原力。
+应通过教育父母，看护人和儿童，以及危险因素识别，使得预防儿童虐待成为正常儿童每次随访时的一部分 (1) 。风险评估后，有风险的家庭应接受有针对性的临床教育干预，并被转介到适当的社区资源。
+曾遭虐待的父母，那么虐待自己孩子的风险就会增加。此类父母有时会表达对自身受虐经历的焦虑，但也可能愿意接受帮助。
+部分与虐待相关的母亲危险因素可在产前识别（如母亲吸烟、存在物质使用障碍，和/或有家庭暴力史）（2）。妊娠期、分娩期或婴儿早期出现的产科并发症或医学问题，若影响母亲和/或婴儿的健康，可能导致亲子依恋关系减弱（见患病新生儿）。当识别出此类问题时，重要的是引导父母表达其对自身为人父母能力的感受，以及对婴儿健康状况和需求的看法。应特别关注父母或照顾者对有多种医疗需求的婴儿的支持程度，父母是否相互提供情感和身体上的支持（如果是夫妻），或者其他人是否可以提供这种支持并帮助照顾（对于单亲父母），以及在需要时是否有亲戚或朋友提供帮助。在临床接诊过程中，能够敏锐识别线索并及时提供支持的临床医师，可能对家庭产生重大积极影响，并有助于预防儿童虐待的发生。
+
+【预防参考文献】
+1.Stirling J, Gavril A, Brennan B, Sege RD, Dubowitz H; American Academy of Pediatrics, COUNCIL ON CHILD ABUSE AND NEGLECT.The Pediatrician's Role in Preventing Child Maltreatment: Clinical Report.Pediatrics.2024;154(2):e2024067608.doi:10.1542/peds.2024-067608
+1.Stirling J, Gavril A, Brennan B, Sege RD, Dubowitz H; American Academy of Pediatrics, COUNCIL ON CHILD ABUSE AND NEGLECT.The Pediatrician's Role in Preventing Child Maltreatment: Clinical Report.Pediatrics.2024;154(2):e2024067608.doi:10.1542/peds.2024-067608
+2.Blangis F, Drouin J, Launay E, et al.Maternal, prenatal and postnatal risk factors for early child physical abuse: a French nationwide cohort study.Lancet Reg Health Eur.2024;42:100921.Published 2024 May 14.Doi:10.1016/j.lanepe.2024.100921
+2.Blangis F, Drouin J, Launay E, et al.Maternal, prenatal and postnatal risk factors for early child physical abuse: a French nationwide cohort study.Lancet Reg Health Eur.2024;42:100921.Published 2024 May 14.Doi:10.1016/j.lanepe.2024.100921
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+World Health Organization:WHO guidelines on parenting interventions to prevent maltreatment and enhance parent–child relationships with children aged 0–17 years
+World Health Organization:WHO guidelines on parenting interventions to prevent maltreatment and enhance parent–child relationships with children aged 0–17 years
+Center for Parent Information and Resources
+Center for Parent Information and Resources
+Prevent Child Abuse America
+Prevent Child Abuse America

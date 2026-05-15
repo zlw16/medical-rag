@@ -1,0 +1,35 @@
+标题：其他先天性心脏畸形
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-cardiovascular-anomalies/other-congenital-cardiac-anomalies
+============================================================
+
+其他结构性先天心脏畸形如下：
+肺动脉闭锁伴室间隔完整
+肺动脉闭锁伴室间隔完整
+肺动脉瓣狭窄
+肺动脉瓣狭窄
+合并或不合并肺动脉瓣狭窄的单心室
+合并或不合并肺动脉瓣狭窄的单心室
+少数非结构性心脏畸形包括
+先天性完全性心脏传导阻滞
+先天性完全性心脏传导阻滞
+先天性代谢异常导致的心肌病
+先天性代谢异常导致的心肌病
+针对长QT综合征和其他遗传性心律失常综合征具有严重和可能致命的室性心律失常的风险，将在其他章节讨论。（另见先天性心血管畸形概述）
+
+【肺动脉闭锁伴完整室间隔】
+肺动脉闭锁伴有完整的室间隔，肺动脉瓣没有正常形成，从而阻碍血液从心脏流向肺部，常与三尖瓣发育不良和右心室发育不良同时发生。这种关联很容易理解，因为胎儿生命中正常的心室生长取决于该心室的充足流入和流出。
+冠状动脉异常，尤其是冠状动脉与发育不全的右心室有瘘管连接，冠状动脉狭窄常见，对预后和手术选择有重要影响；手术是不可避免的。出生后的即刻存活取决于动脉导管的通畅性。婴儿表现为紫绀，听诊结果可能包括三尖瓣反流杂音或动脉导管未闭。如果之前没有通过产前超声诊断，产后诊断是通过超声心动图。
+
+【儿童肺动脉瓣狭窄】
+肺动脉瓣狭窄（另见肺动脉狭窄)是一种常见的先天性缺陷（占先天性心脏缺陷的 7%至 10%），可导致右心室流出道阻塞。这种阻塞导致右心室肥大并最终导致右心室衰竭。病理学可能是双瓣或三叶瓣膜的连合融合或小叶发育不良。
+临床表现包括突出的收缩早期射血咔嗒声、正常或宽阔的分裂第二心音（S2），其中有柔和的肺部成分和刺耳的收缩期射血杂音（强度随狭窄严重程度直接变化），在胸骨左上缘最响亮。在患有严重肺动脉狭窄的新生儿中，由于通过卵圆孔未闭的右向左心房分流而出现紫绀。
+治疗通常是经导管球囊扩张。如果狭窄为中度至重度，手术缓解狭窄是非常有效的，但手术通常是为那些不适合经导管球囊扩张的瓣膜保留的。
+这些畸形包括任何只有一个功能心室的复杂病变，包括右心室（RV）或左心室（LV）发育不良，以及较少见的真正的未分化单心室腔。出生后发病的时间取决于是否存在房间隔缺损、肺动脉狭窄和动脉导管未闭；婴儿可能会出现心力衰竭或紫绀。如果之前没有通过产前超声诊断，产后诊断是通过超声心动图。
+对于肺血流减少的患者，手术治疗包括通过全身动脉与肺动脉吻合（例如改良的 Blalock-Taussig-Thomas 分流术 [参见法洛四联症]) 确保足够的肺血流、 如果存在肺循环过度，则通过肺动脉束带或其他干预措施（如改良的诺伍德型主动脉和肺动脉根重建术，有时称为达穆斯-卡伊-斯坦塞尔吻合术）保护肺血管床并限制肺血流。随后，施行Fontan手术作为最后的治疗，将功能单心室改变成为唯一的体循环心室。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+American Heart Association: Common Heart Defects: Provides an overview of common congenital heart defects for parents and caregivers
+American Heart Association: Common Heart Defects: Provides an overview of common congenital heart defects for parents and caregivers
+American Heart Association: Infective Endocarditis: Provides an overview of infective endocarditis, including summarizing prophylactic antibiotic use, for patients and caregivers
+American Heart Association: Infective Endocarditis: Provides an overview of infective endocarditis, including summarizing prophylactic antibiotic use, for patients and caregivers

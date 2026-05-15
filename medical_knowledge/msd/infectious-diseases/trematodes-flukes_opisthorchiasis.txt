@@ -1,0 +1,44 @@
+标题：后睾吸虫病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/trematodes-flukes/opisthorchiasis
+============================================================
+
+吸虫为一类可感染人体不同部位（如血管、胃肠道、肺或肝脏）的扁平状的寄生虫，不同种类感染部位不同。
+后睾吸虫属物种分布于泰国、老挝、柬埔寨、越南、中国、缅甸、德国、意大利、白俄罗斯、俄罗斯、哈萨克斯坦和乌克兰（1）。
+后睾吸虫属的生命周期需要螺类作为第一中间宿主，鱼类作为第二中间宿主。豆螺属和科迪螺属的螺类可作为后睾吸虫属物种的第一中间宿主（2）。狗，猫和其他以鱼类为食的哺乳动物也是确定的宿主。食用生的、冷冻的、风干的、腌制的或未煮熟的淡水鱼可能会发生感染，这些鱼可能含有幼虫。进入人体后，囊蚴脱囊并通过Vater壶腹上行进入胆管，在此黏附于黏膜并发育为成虫。成虫长5~10mm，宽1~2mm（O. viverrini（华支睾吸虫））或长7~12mm，宽2~3mm（O. felineus（猫肝吸虫））。
+1.在人类宿主体内，成年吸虫释放出受精卵随粪便排出。
+1.在人类宿主体内，成年吸虫释放出受精卵随粪便排出。
+2.在被钉螺（第一中间宿主）吞噬后，虫卵释放出毛蚴，发育成胞蚴，然后雷蚴，再然后变成尾蚴。
+2.在被钉螺（第一中间宿主）吞噬后，虫卵释放出毛蚴，发育成胞蚴，然后雷蚴，再然后变成尾蚴。
+3.尾蚴从钉螺体内释出，渗入淡水鱼（第二中间宿主）体内。
+3.尾蚴从钉螺体内释出，渗入淡水鱼（第二中间宿主）体内。
+4.尾蚴成囊后以囊蚴的形式存在于鱼肉或鱼鳞下。哺乳动物是主要（最终）宿主（猫、狗、包括人在内的各种以鱼为食的哺乳动物），由于食用含有囊蚴的未煮熟的鱼而被感染。
+4.尾蚴成囊后以囊蚴的形式存在于鱼肉或鱼鳞下。哺乳动物是主要（最终）宿主（猫、狗、包括人在内的各种以鱼为食的哺乳动物），由于食用含有囊蚴的未煮熟的鱼而被感染。
+5.摄食后，囊蚴在十二指肠内脱囊。
+5.摄食后，囊蚴在十二指肠内脱囊。
+6.通过Vater壶腹上行进入胆管，在此黏附并发育为成虫。3-4周后产卵。
+6.通过Vater壶腹上行进入胆管，在此黏附并发育为成虫。3-4周后产卵。
+Image from the Centers for Disease Control and Prevention Image Library.
+后睾吸虫病类似华支睾吸虫病，症状的发展取决于蠕虫负担和感染持续时间。大多O. viverrini感染仍无症状，约 5% 至 10% 的患者出现症状，包括右上腹痛、消化不良、腹泻、胀气和疲劳。急性症状在猫后睾吸虫感染中更为常见，可能类似于某些急性血吸虫病的表现。急性症状包括高热、食欲减退、恶心、呕吐、腹痛、乏力、肌痛、关节痛及荨麻疹。 症状通常在暴露后 10 至 26 天开始出现。
+慢性感染的症状更严重，可能导致肝肿大和营养不良。罕见并发症包括胆囊炎、胆石症、胆管炎和胆管癌（胆管癌）（3）。美国越战老兵发生胆管癌可能是在东南亚服役期间感染了后睾吸虫或华支睾吸虫（4）。
+华支睾吸虫病的诊断基于检测粪便中的虫卵。血清学、抗原检测或分子检测用于物种鉴定的方法尚未广泛可用，尤其在美国。超声、CT、MRI、胆管造影或内镜逆行胰胆管造影（ERCP）可能显示胆道异常。
+后睾吸虫属虫卵长19至30微米，宽10至20微米。它们通常与华支睾吸虫卵难以区分。华支睾吸虫虫卵具有卵盖，卵盖肩部明显，并有一个反卵盖结节。虫卵随粪便排出时已形成胚胎。
+CDC/DPDx
+后睾吸虫病的治疗选择有以下一种：
+吡喹酮 po tid 持续2～3天
+吡喹酮 po tid 持续2～3天
+阿苯达唑口服，每日一次，连用7天
+阿苯达唑口服，每日一次，连用7天
+吡喹酮是世界卫生组织（WHO）（5）唯一推荐的药物。
+彻底煮熟或冷冻淡水鱼可以预防感染（1）。改善手部卫生和避免接触受污染的水有助于防止感染的传播。
+
+【参考文献】
+1.Centers for Disease Control and Prevention: Liver flukes: About Opisthorchis.February 14, 2024.Accessed July 2, 2025.
+1.Centers for Disease Control and Prevention: Liver flukes: About Opisthorchis.February 14, 2024.Accessed July 2, 2025.
+2.Centers for Disease Control and Prevention: DPDx–Laboratory Identification of Parasites of Public Health Concern: Opisthorchiasis.February 20, 2018.Accessed July 2, 2025.
+2.Centers for Disease Control and Prevention: DPDx–Laboratory Identification of Parasites of Public Health Concern: Opisthorchiasis.February 20, 2018.Accessed July 2, 2025.
+3.Xia J, Jiang SC, Peng HJ: Association between liver fluke infection and hepatobiliary pathological changes: A systematic review and meta-analysis.PLoS One10 (7):e0132673, 2015.doi: 10.1371/journal.pone.0132673
+3.Xia J, Jiang SC, Peng HJ: Association between liver fluke infection and hepatobiliary pathological changes: A systematic review and meta-analysis.PLoS One10 (7):e0132673, 2015.doi: 10.1371/journal.pone.0132673
+4.Psevdos G, Ford FM, Hong S-T: Screening US Vietnam veterans for liver fluke exposure 5 decades after the end of the war.Infectious Diseases in Clinical Practice26(4):208–210, 2018.doi: 10.1097/IPC.0000000000000611
+4.Psevdos G, Ford FM, Hong S-T: Screening US Vietnam veterans for liver fluke exposure 5 decades after the end of the war.Infectious Diseases in Clinical Practice26(4):208–210, 2018.doi: 10.1097/IPC.0000000000000611
+5.World Health Organization: Neglected tropical diseases: Opisthorchiasis.July 28, 2020.Accessed July 2, 2025.
+5.World Health Organization: Neglected tropical diseases: Opisthorchiasis.July 28, 2020.Accessed July 2, 2025.

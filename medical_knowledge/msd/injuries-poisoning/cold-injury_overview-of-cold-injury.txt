@@ -1,0 +1,21 @@
+标题：冷损伤概述
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/cold-injury/overview-of-cold-injury
+============================================================
+
+暴露于寒冷环境中可能会导致体温下降（低体温症）和局部软组织的损伤。
+不伴冻结的冷性组织损伤包括冻疮、浸渍足和战壕足。
+不伴冻结的冷性组织损伤包括冻疮、浸渍足和战壕足。
+伴有冻结的组织损伤为冻伤。
+伴有冻结的组织损伤为冻伤。
+治疗是对受伤组织进行复温和选择性的（通常是延迟的）手术清创。
+冷损伤的易感性因疲惫、营养不良、脱水、缺氧、心血管功能受损以及接触潮湿或金属而增加。
+（参见雷诺综合征。)
+
+【预防寒冷损伤】
+预防是至关重要的 (1)。即使天气看起来不会造成冻伤，人们也应该做好准备，保护自己免受寒冷、潮湿和风的侵袭。他们应该穿着或准备好几层保暖的衣服，最好是羊毛或聚丙烯制成的，以便即使在潮湿的情况下也能保持保暖性。一顶温暖的帽子很重要。手套和袜子应尽可能保持干燥。在极度寒冷的气候条件下，应该穿不会妨碍血液循环的隔热靴。
+摄入充足的液体（尤其是热液体）和食物有助于维持代谢热的产生。应避免饮酒，因为它会使皮肤血管扩张增加热量散失，还会损害体温调节反应，并影响对寒冷的行为反应。
+关注身体部位何时变冷或麻木，并立即进行复温，可预防冷损伤。
+
+【参考文献】
+1.Dow J, Giesbrecht GG, Danzl DF, et al.Wilderness Medical Society Clinical Practice Guidelines for the Out-of-Hospital Evaluation and Treatment of Accidental Hypothermia: 2019 Update.Wilderness Environ Med.30(4S):S47-S69, 2019.doi: 10.1016/j.wem.2019.10.002
+1.Dow J, Giesbrecht GG, Danzl DF, et al.Wilderness Medical Society Clinical Practice Guidelines for the Out-of-Hospital Evaluation and Treatment of Accidental Hypothermia: 2019 Update.Wilderness Environ Med.30(4S):S47-S69, 2019.doi: 10.1016/j.wem.2019.10.002

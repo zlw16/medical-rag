@@ -1,0 +1,68 @@
+标题：异位性室上性心律失常
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/ectopic-supraventricular-arrhythmias
+============================================================
+
+(参见心律失常概述。）
+异位室上性心律包括
+房性早搏
+房性早搏
+房性心动过速
+房性心动过速
+多源性房性心动过速
+多源性房性心动过速
+非阵发性交界性心动过速
+非阵发性交界性心动过速
+游走性心房起搏点
+游走性心房起搏点
+
+【房性早搏】
+房性早搏（APB）或房性期前收缩（PAC）是常见的期前冲动。它们可能发生在正常心脏，伴或不伴有诱发因素（如咖啡因、酒精、伪麻黄碱）或可能是心肺疾病的一个体征。慢性阻塞性肺疾病（COPD）患者常见。它们偶尔引起心悸。
+诊断通过心电图检查（ECG，见图房性期前收缩）。
+
+【房性早搏（APB）】
+房性早搏（APB）
+在Ⅱ导联中，起自窦性的第2个心动后，T波由于房性早搏而变形。因为房性早搏发生在窦性周期的相对早期，窦房结起搏点被重整，在下一窦性心动前出现一个不完全代偿的间歇期。
+图片由L.提供Brent Mitchell, MD.
+APBs的传导情况可分为正常传导、异常传导或未传导（阻滞），且其后通常伴随不完全代偿间歇。(1)差异传导的房性期前收缩（通常伴有右束支传导阻滞的形态）必须同心室起源的期前收缩相鉴别。
+在看似健康的人身上偶尔出现的 APB 一般被认为是良性的，几乎每个人都会有一些。研究表明，频繁发生 APB 会增加中风、全因死亡、心血管死亡和心房颤动的风险（2，3）。目前尚不清楚这些关联是否是 APB、未识别的结构性心脏疾病、未识别的心房颤动所致，或者仅仅是它们都具有相同的风险因素（例如衰老）。
+心房逸搏是出现在长窦性暂停或窦性停搏之后的异位心房搏动，它们可以是单个的，也可以是多个的；单一病灶的逃逸性心律可产生连续的节律（称为异位或逃逸性心房节律）。心率通常为40 ~ 60次/分钟，P波形态通常不同，PR间期略短于窦性心律。加速性心房节律（也称为非窦性心房节律）可能由于正常自律性增强或自律性异常而以高于窦性心率的速率发生。加速性心房节律与房性心动过速的区别在于，加速性心房节律较慢，且具有任意的心率截止值（通常为每分钟 100 或 120 次）。
+交界性逃逸搏动是在长时间窦性停搏或窦性停搏后出现的、未被心房逸搏终止的异位搏动。“交界区”包括房室结、希氏束以及邻近的心房组织，这些部位产生的逸搏在心电图上无法更精确地定位。它们可以是单个的，也可以是多个的；来自单个交界区的逸搏可能会产生持续的心律（称为异位性或逸搏性交界区心律）。心率通常较慢（35 至 50 次/分钟），P 波形态通常显示低至高心房激动（II、III、aVF 导联中的负 P 波），并且 P 波位于 QRS 复合波之前（< 0.1 秒）、期间（因此被隐藏）或 QRS 复合波之后（< 0.1 秒）。
+
+【局灶性心房心动过速】
+局灶性房性心动过速是一种有规律的节律，由单一心房病灶引起的一致的、快速的心房激活引起。心率通常是150~200次/分；然而，在心房率非常快、房室结功能障碍和/或洋地黄毒性的情况下，可能存在房室传导阻滞，心室率可能较慢。机制包括异常自动性、触发活动和微再入。
+局灶性房性心动过速是最不常见的阵发性室上性心动过速（5 - 10%）(4)，通常发生在结构性心脏疾病患者中。其他原因包括心房激惹（如心包炎）、药物（如地高辛）、酒精和毒性气体吸入。
+症状与其他心动过速相同（如头晕、眩晕、心悸，罕见晕厥）当局灶性房性心动过速持续不断时，可能导致心动过速性心肌病和心力衰竭。
+诊断依靠心电图；P波在形态上与正常窦性P波不同，处在QRS波群之前，但可能隐藏在前一T波之内（见图局灶性房性心动过速）。
+
+【局灶性房性心动过速】
+局灶性房性心动过速
+窄性QRS心动过速是由异常的自动病灶或微折返引起的。P波在QRS波群之前；常是长RP间期心动过速（PR<RP），但如果房室结传导缓慢，则可能是短RP心动过速（PR>RP）。
+迷走神经操纵可用于减慢心率，使隐藏的P波可见，但这些操作通常不能终止心律失常（因为房室结不是心律失常回路的必经部分）。
+急性治疗从静脉注射腺苷开始，这可能终止因以下原因引起的房性心动过速：腺苷- 敏感的延迟后去极化 (DAD) 是由细胞内钙超载（触发活动的一种形式）引起的，或通过产生房室传导阻滞而不终止心动过速来揭示机制。急性治疗包括当这是病因时停止地高辛治疗。静脉注射β受体阻滞剂、静脉注射维拉帕米或静脉注射地尔硫卓可能会减慢心室反应率（5)，尽管这种方法往往不会成功。房性心律失常可通过静脉注射普鲁卡因胺、静脉注射氟卡尼或静脉注射胺碘酮来终止。用直流电心脏转复也可能终止一次发作。
+预防局灶性房性心动过速的药物方法包括β受体阻滞剂、非二氢吡啶类钙通道阻滞剂和/或抗心律失常药物Ia、Ic 或 III 类（5）。经导管消融局灶性房性心动过速的治疗是有效且相当安全的，是慢性预防的首选方法。
+
+【多源性房性心动过速】
+多源性房性心动过速（混乱性房性心动过速）是由多个异位房性病灶随机放电引起的一种绝对不整齐的心律失常。其定义为心率>100次/分。心电图上，每个心搏的P波形态都有差别，有≥3种不同的P波形态。P波的存在将多灶性房性心动过速与心房颤动区分开来。除心率外，特征与游走性心房起搏点相同。出现症状时，表现为快速心动过速的症状。多灶性房性心动过速可能是由于潜在的肺部疾病引起的，如慢性阻塞性肺疾病，尤其是当伴有缺氧、酸中毒、茶碱中毒或三者都有时。不太常见的是，它也是由潜在的心脏病（如冠状动脉疾病）和电解质异常（如低钾血症）引起的。针对潜在的病因治疗。当需要针对心律失常进行治疗时，最有效的药物是静脉注射镁、静脉注射维拉帕米和β受体阻滞剂（5）。使用地高辛、I 类或 III 类抗心律失常药物或心脏复律治疗通常无效（5）。
+
+【游走性心房起搏点】
+游走性心房起搏点（多源性房性心律）是一种不整齐的不规则心律，由多个异位心房局灶随机放电所致。根据其定义，心率≤100次/分。除心率外，其他特征与多灶性心房性心动过速相同。治疗针对的是病因，其往往与房性过早搏动的病因相同。
+
+【非阵发性交界性心动过速】
+非阵发性交界性心动过速是由房室结或其邻近组织的异常自律性所致，通常发生在心脏直视手术、急性下壁心肌梗死、心肌炎或洋地黄中毒后。心率60~120次/分，因而常无症状。心电图表现为规则的、正常形态的QRS波群，无可识别出的P波或伴有逆行P波（在下壁导联中倒置），其出现于QRS波群之前（<0.1秒）或之后。与阵发性室上性心动过速的鉴别在于其心率较慢，且表现为逐渐地发作和终止。针对潜在的心脏病因治疗。
+
+【交界性异位心动过速】
+交界性异位心动过速 (JET) 是一种罕见 (< 1%) 的室上性心动过速，由房室结、希氏束或邻近心房组织的自律性增强、自律性异常或触发活动引起；自律性可能是先天性的（发生在宫内或出生后 6 个月内）、术后性的（发生在儿童心脏手术后，包括交界处附近的手术）或发生在患有心肌缺血或地高辛中毒的成人中（6）。儿童心率为每分钟 200 至 250 次；因此，可能会导致心动过速引起的心肌病和心力衰竭。JET 与非阵发性交界性心动过速的区别在于，JET 的心率更快，且具有突然发作-突然结束的特征。JET在成人中较少见，心率较慢，在120至200次/分钟范围内。抗心律失常药物治疗可能成功，例如胺碘酮、氟卡尼、伊伐布雷定、普鲁卡因胺、普萘洛尔或维拉帕米（5）。经导管消融治疗的成功率低于其他室上性心动过速的治疗，且意外引发房室传导阻滞的风险较高。
+
+【参考文献】
+1.Mond HG, Haqqani HM: The Electrocardiographic Footprints of Atrial Ectopy.Heart Lung Circ28(10):1463–1471, 2019.doi: 10.1016/j.hlc.2019.03.005
+1.Mond HG, Haqqani HM: The Electrocardiographic Footprints of Atrial Ectopy.Heart Lung Circ28(10):1463–1471, 2019.doi: 10.1016/j.hlc.2019.03.005
+2.Durmaz E, Ikitimur B, Kilickiran Avci B, et al: The clinical significance of premature atrial contractions: How frequent should they become predictive of new-onset atrial fibrillation.Ann Noninvasive Electrocardiol25(3):e12718, 2020.doi:10.1111/anec.12718
+2.Durmaz E, Ikitimur B, Kilickiran Avci B, et al: The clinical significance of premature atrial contractions: How frequent should they become predictive of new-onset atrial fibrillation.Ann Noninvasive Electrocardiol25(3):e12718, 2020.doi:10.1111/anec.12718
+3.Huang BT, Huang FY, Peng Y, et al: Relation of premature atrial complexes with stroke and death: Systematic review and meta-analysis.Clin Cardiol40(11):962–969, 2017.doi:10.1002/clc.22780
+3.Huang BT, Huang FY, Peng Y, et al: Relation of premature atrial complexes with stroke and death: Systematic review and meta-analysis.Clin Cardiol40(11):962–969, 2017.doi:10.1002/clc.22780
+4.Porter MJ, Morton JB, Denman R, et al: Influence of age and gender on the mechanism of supraventricular tachycardia.Heart Rhythm1(4):393–396, 2004. doi: 10.1016/j.hrthm.2004.05.007
+4.Porter MJ, Morton JB, Denman R, et al: Influence of age and gender on the mechanism of supraventricular tachycardia.Heart Rhythm1(4):393–396, 2004. doi: 10.1016/j.hrthm.2004.05.007
+5.Brugada J, Katritsis DG, Arbelo E, et al: 2019 ESC Guidelines for the management of patients with supraventricular tachycardia.The Task Force for the management of patients with supraventricular tachycardia of the European Society of Cardiology (ESC).Eur Heart J41(5):655–720, 2020.doi: 10.1093/eurheartj/ehz467
+5.Brugada J, Katritsis DG, Arbelo E, et al: 2019 ESC Guidelines for the management of patients with supraventricular tachycardia.The Task Force for the management of patients with supraventricular tachycardia of the European Society of Cardiology (ESC).Eur Heart J41(5):655–720, 2020.doi: 10.1093/eurheartj/ehz467
+6.Alasti M, Mirzaee S, Machado C, et al: Junctional ectopic tachycardia (JET).J Arrhythm36(5):837–844, 2020.doi: 10.1002/joa3.12410
+6.Alasti M, Mirzaee S, Machado C, et al: Junctional ectopic tachycardia (JET).J Arrhythm36(5):837–844, 2020.doi: 10.1002/joa3.12410

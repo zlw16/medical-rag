@@ -1,0 +1,51 @@
+标题：眼部灼伤
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/eye-trauma/ocular-burns
+============================================================
+
+（参见眼外伤概述。）
+通常热刺激时可引起眨眼反射从而使眼睛闭合。因此，热灼伤更容易影响眼睑而不是结膜或角膜。 应使用无菌等渗盐水彻底清洗眼睑灼伤，然后涂上眼用抗菌软膏（如杆菌肽，每天2次）。严重烧伤可能需要多次手术干预，包括皮肤移植。如果眼睑的热烧伤严重，可能会导致眼睑退缩、睑裂闭合不全（无法闭合眼睑）和角膜暴露。这可能需要通过缝线睑缘联合术暂时闭合眼睑，并延迟进行重建修复。
+大多数累及结膜或角膜的热烧伤病情轻微，愈合后无明显后遗症。可联合口服止痛药（对乙酰氨基酚联合或不联合羟考酮）、眼用睫状肌麻痹散瞳剂（如5%后马托品，每日4次）和局部眼用抗生素（如杆菌肽/多粘菌素B软膏或0.3%环丙沙星软膏，每日4次，持续3至5天）进行治疗 (1)。
+
+【化学灼伤】
+角膜或结膜化学灼伤可很严重（占眼外伤的11%至22%），特别是被强酸或强碱灼伤时 (2)。碱灼伤引起液化坏死，而酸灼伤引起凝固性坏死。 碱烧伤的穿透力更深，而且往往比酸烧伤更严重。
+氨烧伤后引起的角膜变性和全身结膜红斑。
+Clinical Photography/SCIENCE PHOTO LIBRARY
+
+【经验与教训】
+经验与教训
+角膜和结膜的化学灼伤是一个真正急诊疾病，必须立即给予治疗。
+角膜和结膜的化学灼伤是一个真正急诊疾病，必须立即给予治疗。
+化学灼伤应尽快大量冲洗。可用一滴0.5％丙美卡因滴眼进行麻醉，但是不应当延迟冲洗而且应当持续至少30分钟。任何冲洗液（如生理盐水、无菌水甚至自来水）均可使用，暴露后应立即开始冲洗。高渗溶液，如硼酸盐缓冲溶液，可能比其他常用的冲洗液更有效地纠正眼表pH值，而平衡盐水溶液（pH值为7.4的无菌等渗溶液）对患者的耐受性更好，允许较长的冲洗时间。可使用置于眼睑下的冲洗透镜辅助冲洗，但对部分患者而言，这种方式比无透镜冲洗更具刺激性。对于酸或碱烧伤，部分专家建议至少持续冲洗 30 分钟，使用 1~2 L 生理盐水或无菌水；也有专家建议冲洗至结膜 pH 值恢复至正常范围（7.0~7.2）（使用精密 pH 试纸检测）。
+冲洗后检查结膜穹隆，查看组织内是否有化学性物质嵌入，并清除其中存留的物质。翻转上眼睑时，需采用双翻法（先翻转眼睑，再将棉签插入已翻转的眼睑下方，向上提拉直至睑结膜可见）。
+轻度化学灼伤通常用局部眼用抗生素（例如0.5%的红霉素软膏，每天4次），如果需改善眼部舒适性，可能需要睫状肌麻痹剂（例如环喷托酯）来治疗。由于局部皮质类固醇可能在化学烧伤后导致角膜穿孔，因此仅应在眼科医生指导下使用 (3)。初始冲洗后应避免局部用麻醉剂；疼痛明显时可用含或不含羟考酮的对乙酰氨基酚。如果患者的肾功能正常，可以使用口服维生素C（成人2g/一日四次）来帮助胶原蛋白合成。口服多西环素也可用于帮助患者稳定胶原蛋白，但这两种方法都应在咨询眼科医生后使用 (4)。柠檬酸盐滴眼液（可降低蛋白水解酶活性）和血小板衍生血浆滴眼液也有助于愈合，同样仅应在眼科医生指导下使用 (5) 。
+严重化学烧伤需要眼科医生进行治疗，以挽救视力并防止并发症，如角膜和/或结膜瘢痕、眼球穿孔和眼睑畸形；严重的化学烧伤除了药物治疗外，还可能需要外科手术。严重视力下降、结膜缺血区域或荧光素染色显示结膜或角膜缺损的患者，应在暴露后尽快由眼科医生检查，且不得晚于 24 小时。
+化学性虹膜炎疑似发生在化学灼伤数小时或数天后出现畏光（光照下眼深部疼痛）的患者中，诊断依据是裂隙灯检查在前房发现房水闪辉和白细胞。 通过滴注长效睫状肌麻痹剂来来治疗化学性虹膜炎（如单用2％或5%后马托品，或0.25%东莨菪碱）。
+
+【参考文献】
+1.Malhotra R, Sheikh I, Dheansa B: The management of eyelid burns.Surv Ophthalmol54(3):356-371, 2009.doi: 10.1016/j.survophthal.2009.02.009
+1.Malhotra R, Sheikh I, Dheansa B: The management of eyelid burns.Surv Ophthalmol54(3):356-371, 2009.doi: 10.1016/j.survophthal.2009.02.009
+2.Clare G, Suleman H, Bunce C, Dua H: Amniotic membrane transplantation for acute ocular burns.Cochrane Database Syst Rev2012(9):CD009379, 2012.doi: 10.1002/14651858.CD009379.pub2.Update in:Cochrane Database Syst Rev9:CD009379, 2022.doi: 10.1002/14651858.CD009379.pub3
+2.Clare G, Suleman H, Bunce C, Dua H: Amniotic membrane transplantation for acute ocular burns.Cochrane Database Syst Rev2012(9):CD009379, 2012.doi: 10.1002/14651858.CD009379.pub2.Update in:Cochrane Database Syst Rev9:CD009379, 2022.doi: 10.1002/14651858.CD009379.pub3
+3.Dohlman CH, Cade F, Pfister R: Chemical burns to the eye: paradigm shifts in treatment.Cornea30(6):613-614, 2011.doi: 10.1097/ICO.0b013e3182012a4f
+3.Dohlman CH, Cade F, Pfister R: Chemical burns to the eye: paradigm shifts in treatment.Cornea30(6):613-614, 2011.doi: 10.1097/ICO.0b013e3182012a4f
+4.Smith VA, Cook SD: Doxycycline-a role in ocular surface repair.Br J Ophthalmol88(5):619-625, 2004.doi: 10.1136/bjo.2003.025551
+4.Smith VA, Cook SD: Doxycycline-a role in ocular surface repair.Br J Ophthalmol88(5):619-625, 2004.doi: 10.1136/bjo.2003.025551
+5.Pfister RR, Haddox JL, Yuille-Barr D: The combined effect of citrate/ascorbate treatment in alkali-injured rabbit eyes.Cornea10(2):100-104, 1991.doi: 10.1097/00003226-199103000-00002.
+5.Pfister RR, Haddox JL, Yuille-Barr D: The combined effect of citrate/ascorbate treatment in alkali-injured rabbit eyes.Cornea10(2):100-104, 1991.doi: 10.1097/00003226-199103000-00002.
+热灼伤往往会影响眼睑，而化学烧伤会影响眼睑、结膜和角膜。
+热灼伤往往会影响眼睑，而化学烧伤会影响眼睑、结膜和角膜。
+用局部抗菌药物，睫状肌麻痹剂扩瞳（如果结膜或角膜受到影响）和口服镇痛药治疗热灼伤。
+用局部抗菌药物，睫状肌麻痹剂扩瞳（如果结膜或角膜受到影响）和口服镇痛药治疗热灼伤。
+化学烧伤后，快速大量的冲洗至关重要。 最好使用硼酸盐缓冲溶液或平衡盐溶液，但任何无菌盐溶液或水都可以使用。
+化学烧伤后，快速大量的冲洗至关重要。 最好使用硼酸盐缓冲溶液或平衡盐溶液，但任何无菌盐溶液或水都可以使用。
+化学性烧伤冲洗后，开局部抗生素和睫状肌麻痹剂散瞳。
+化学性烧伤冲洗后，开局部抗生素和睫状肌麻痹剂散瞳。
+对于中度或重度烧伤，请咨询眼科医生以考虑进一步治疗。
+对于中度或重度烧伤，请咨询眼科医生以考虑进一步治疗。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+Sharma N, Kaur M, Agarwal T, et al: Treatment of acute ocular chemical burns.Surv Ophthalmol63(2):214-235, 2018.doi:10.1016/j.survophthal.2017.09.005
+Sharma N, Kaur M, Agarwal T, et al: Treatment of acute ocular chemical burns.Surv Ophthalmol63(2):214-235, 2018.doi:10.1016/j.survophthal.2017.09.005
+Baradaran-Rafii A, Eslani M, Haq Z, Shirzadeh E, et al: Current and upcoming therapies for ocular surface chemical injuries.Ocul Surf15(1):48-64, 2017.doi:10.1016/j.jtos.2016.09.002
+Baradaran-Rafii A, Eslani M, Haq Z, Shirzadeh E, et al: Current and upcoming therapies for ocular surface chemical injuries.Ocul Surf15(1):48-64, 2017.doi:10.1016/j.jtos.2016.09.002

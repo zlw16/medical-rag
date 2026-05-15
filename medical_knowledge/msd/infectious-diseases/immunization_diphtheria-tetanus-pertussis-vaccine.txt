@@ -1,0 +1,117 @@
+标题：白喉-破伤风-百日咳疫苗
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/immunization/diphtheria-tetanus-pertussis-vaccine
+============================================================
+
+含有白喉类毒素、破伤风类毒素和无细胞百日咳成分的疫苗有助于预防白喉、破伤风、和百日咳。
+(参见免疫接种概述。)
+
+【白喉-破伤风-百日咳疫苗制剂】
+白喉（D）疫苗所包含的类毒素来自白喉棒状杆菌（Corynebacterium diphtheriae）。
+破伤风（T）疫苗所包含的类毒素来自破伤风梭状芽胞杆菌（Clostridium tetani）。
+无细胞的百日咳（P）疫苗包含百日咳博得特氏菌（Bordetella pertussis）半纯化或纯化的成分。
+全细胞百日咳疫苗因不良反应问题已在美国停用，但在世界其他地区仍有供应。
+白喉/破伤风类毒素/百日咳疫苗有两种制剂：
+白喉-破伤风-无细胞百日咳(DTaP)用于<7岁儿童
+白喉-破伤风-无细胞百日咳(DTaP)用于<7岁儿童
+破伤风-白喉-百日咳（Tdap）疫苗主要适用于青少年和成人
+破伤风-白喉-百日咳（Tdap）疫苗主要适用于青少年和成人
+Tdap包含更低剂量的白喉和百日咳疫苗成分（标示为小写的d和p）。
+在美国，还有一些联合疫苗含有乙型肝炎 (HepB) 疫苗、灭活脊髓灰质炎病毒 (IPV) 疫苗和b型流感嗜血杆菌结合疫苗 (Hib)：DTaP-IPV-HepB、DTaP-IPV、DTaP-IPV-Hib 和 DTaP-IPV-Hib-HepB。
+
+【白喉-破伤风-百日咳疫苗的适应症】
+DTaP是常规的儿童免疫接种疫苗 (1)。
+Tdap通常作为一生一次的单剂接种给予 11 或 12 岁的儿童，以及从未接种过 Tdap 的 ≥ 13 岁人群（无论距离上次接种破伤风-白喉 [Td] 疫苗的时间间隔多久），或对于疫苗接种情况不明者也推荐接种。此剂量之后，每10年接种一次Td加强针，以确保持续预防破伤风和白喉。Td加强针建议包括为≥65岁成人接种单剂Tdap（2，3）。
+以下人群同样建议额外接种破伤风-白喉-无细胞百日咳联合疫苗加强针：
+妊娠期患者，在每次妊娠期间（最好在妊娠27至36周之间）进行接种，无论距上次Tdap疫苗接种时间多久。
+妊娠期患者，在每次妊娠期间（最好在妊娠27至36周之间）进行接种，无论距上次Tdap疫苗接种时间多久。
+从未接种过Tdap的产后妇女
+从未接种过Tdap的产后妇女
+需要接种含有破伤风类毒素疫苗来辅助医治伤口的成人以及之前未接种过Tdap的成年人将接受Tdap代替破伤风白喉（Td）。 那些以前接受过 Tdap 的人可接种 Tdap 或 Td。
+对于曾患有百日咳的人群，仍常规建议其要接种含有百日咳疫苗。
+
+【适应症参考文献】
+1.Centers for Disease Control and Prevention (CDC).Child and Adolescent Immunization Schedule by Age.Accessed September 23, 2025.
+1.Centers for Disease Control and Prevention (CDC).Child and Adolescent Immunization Schedule by Age.Accessed September 23, 2025.
+2.Havers FP, Moro PL, Hunter P, Hariri S, Bernstein H.Use of Tetanus Toxoid, Reduced Diphtheria Toxoid, and Acellular Pertussis Vaccines: Updated Recommendations of the Advisory Committee on Immunization Practices - United States, 2019.MMWR Morb Mortal Wkly Rep.2020;69(3):77-83.Published 2020 Jan 24.doi:10.15585/mmwr.mm6903a5
+2.Havers FP, Moro PL, Hunter P, Hariri S, Bernstein H.Use of Tetanus Toxoid, Reduced Diphtheria Toxoid, and Acellular Pertussis Vaccines: Updated Recommendations of the Advisory Committee on Immunization Practices - United States, 2019.MMWR Morb Mortal Wkly Rep.2020;69(3):77-83.Published 2020 Jan 24.doi:10.15585/mmwr.mm6903a5
+3.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+3.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+
+【白喉-破伤风-百日咳三联疫苗的禁忌症和注意事项】
+DTaP和Tdap的禁忌症如下：
+在接种前一剂疫苗后或对疫苗某一成分出现严重过敏反应（如过敏性休克）
+在接种前一剂疫苗后或对疫苗某一成分出现严重过敏反应（如过敏性休克）
+对于百日咳疫苗成分：在接种前一剂DTaP或Tdap后的7天内发生且无法归因于其他可识别病因的脑病（如昏迷、意识水平下降、长时间癫痫发作）。
+对于百日咳疫苗成分：在接种前一剂DTaP或Tdap后的7天内发生且无法归因于其他可识别病因的脑病（如昏迷、意识水平下降、长时间癫痫发作）。
+由于破伤风疫苗接种非常重要，对于对DTaP或Tdap成分有过敏反应的人，应转诊至变态反应科医生，以确定是否对破伤风类毒素（TT）过敏。如果不过敏，他们可以接种破伤风类毒素（TT）疫苗。 脑病史的成年人可以接种破伤风白喉疫苗，此类病史的儿童可以给予接种白喉 - 破伤风（DT）疫苗，而不是Tdap疫苗。 对于有百日咳疫苗禁忌症的7岁以下儿童，Td疫苗可在说明书外使用。如果使用Td疫苗，应遵循与DTaP相同的接种程序。接受Td替代DTaP的儿童可能对白喉的保护效果不够理想（1）。
+注意事项取决于接种的剂型。
+对于 DTaP 和 Tdap，预防措施包括以下内容：
+伴或不伴发热的中度或重度急性疾病（若可能，疫苗接种应推迟到疾病缓解后进行）
+伴或不伴发热的中度或重度急性疾病（若可能，疫苗接种应推迟到疾病缓解后进行）
+在接种含破伤风类毒素的疫苗后6周内出现吉兰-巴雷综合征
+在接种含破伤风类毒素的疫苗后6周内出现吉兰-巴雷综合征
+仅针对百日咳疫苗成分：进展性或不稳定的神经系统疾病、未经控制的癫痫发作或进行性脑病（应将接种推迟到确立治疗方案且疾病稳定后进行）
+仅针对百日咳疫苗成分：进展性或不稳定的神经系统疾病、未经控制的癫痫发作或进行性脑病（应将接种推迟到确立治疗方案且疾病稳定后进行）
+仅针对DTaP，注意事项包括：
+之前接种DTaP疫苗后3天内出现伴或不伴发热的癫痫发作
+之前接种DTaP疫苗后3天内出现伴或不伴发热的癫痫发作
+之前接种DTaP后48小时内出现≥3小时的持续、严重的难以安抚的尖叫或哭泣
+之前接种DTaP后48小时内出现≥3小时的持续、严重的难以安抚的尖叫或哭泣
+之前接种DTaP后48小时内出现崩溃或休克样的状态（低渗低反应症状）
+之前接种DTaP后48小时内出现崩溃或休克样的状态（低渗低反应症状）
+之前接种DTaP后48小时内出现体温≥40.5 ℃，无其他可解释原因
+之前接种DTaP后48小时内出现体温≥40.5 ℃，无其他可解释原因
+仅针对Tdap，注意事项包括：
+曾有接种含破伤风或白喉类毒素疫苗后出现III型超敏反应（Arthus反应）史（自上次含破伤风类毒素疫苗接种后，疫苗接种间隔≥10年）
+曾有接种含破伤风或白喉类毒素疫苗后出现III型超敏反应（Arthus反应）史（自上次含破伤风类毒素疫苗接种后，疫苗接种间隔≥10年）
+
+【禁忌症和注意事项参考文献】
+1.CDC.About Young Children with a Contraindication to Pertussis-Containing Vaccines.June 2024.
+1.CDC.About Young Children with a Contraindication to Pertussis-Containing Vaccines.June 2024.
+
+【白喉-破伤风-百日咳三联疫苗的剂量和注射】
+DTaP或Tdap都是0.5mL肌肉注射。
+无细胞百白破疫苗在儿童期需按5剂次基础免疫程序接种，具体时间如下：2月龄、4月龄、6月龄、15-18月龄，以及4-6岁（入学前）。如果在≥4岁时接种了第四剂且与第三剂间隔至少6个月，则无需接种第五剂。
+破伤风白喉百日咳混合疫苗加强针仅需接种一剂；但孕妇应在每次怀孕期间接种一剂，优选在妊娠27至36周之间。
+
+【经验与提示】
+经验与提示
+孕妇应接种一剂破伤风白喉百日咳混合疫苗加强针，优选在妊娠27至36周之间接种。建议在每次怀孕期间加强接种。
+孕妇应接种一剂破伤风白喉百日咳混合疫苗加强针，优选在妊娠27至36周之间接种。建议在每次怀孕期间加强接种。
+
+【白喉-破伤风-百日咳三联疫苗的不良反应】
+大多数不良反应为轻度至中度，可持续1至3天，可能包括：
+注射部位红斑、疼痛和肿胀
+注射部位红斑、疼痛和肿胀
+烦躁不安（婴幼儿及儿童）
+烦躁不安（婴幼儿及儿童）
+食欲不振
+食欲不振
+严重的不良反应很少见，主要归因于百日咳成分。包括以下症状：
+7天内出现脑病
+7天内出现脑病
+3天内出现癫痫发作，伴有或不伴有发热
+3天内出现癫痫发作，伴有或不伴有发热
+48小时内出现≥3小时的持续、严重的难以安慰的哭声和尖叫（婴幼儿及儿童）
+48小时内出现≥3小时的持续、严重的难以安慰的哭声和尖叫（婴幼儿及儿童）
+48小时内虚脱或者休克
+48小时内虚脱或者休克
+48小时内体温≥40.5°C且无法用其他原因解释
+48小时内体温≥40.5°C且无法用其他原因解释
+对疫苗立即产生严重或过敏反应
+对疫苗立即产生严重或过敏反应
+若存在百日咳疫苗禁忌症，可使用不含百日咳成分的破伤风-白喉联合疫苗。
+有关这些疫苗不良反应的更多信息，请参阅处方信息。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Diphtheria, Tetanus and Pertussis (DTaP/Tdap/Td) Vaccines
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Diphtheria, Tetanus and Pertussis (DTaP/Tdap/Td) Vaccines
+Centers for Disease Control and Prevention (CDC):Diphtheria, Tetanus, and Pertussis Vaccination: For Clinicians
+Centers for Disease Control and Prevention (CDC):Diphtheria, Tetanus, and Pertussis Vaccination: For Clinicians
+European Centre for Disease Prevention and Control (ECDC):Diphtheria: Recommended vaccinations
+European Centre for Disease Prevention and Control (ECDC):Diphtheria: Recommended vaccinations
+ECDC:Tetanus: Recommended vaccinations
+ECDC:Tetanus: Recommended vaccinations
+ECDC:Pertussis: Recommended vaccinations
+ECDC:Pertussis: Recommended vaccinations

@@ -1,0 +1,26 @@
+标题：肝脏血管疾病的概述
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/vascular-disorders-of-the-liver/overview-of-vascular-disorders-of-the-liver
+============================================================
+
+肝脏具有双重血供，肝脏的血流2/3来自门静脉（富含营养和相对高的氧）。1/3来自肝动脉（富含氧）。肝脏血流通过肝静脉进入下腔静脉。当门静脉血流增加时，肝动脉血流相应减少；反之亦然（肝动脉的缓冲反应）。肝脏的这种双重代偿性的血液供应在健康人为肝脏提供了免于缺血的保护作用。
+
+【肝脏的血液供应】
+肝脏的血液供应
+尽管有着双重血液供应，肝脏作为代谢活跃的器官，仍可因以下情况而遭受损伤。
+静脉回流不充分
+静脉回流不充分
+特殊的血管病变
+特殊的血管病变
+血流量减少、氧供应减少、代谢活性增加，或三者同时，可引起缺血。肝脏弥漫性缺血可导致缺血性肝炎，而局部缺血可引起肝梗死或缺血性胆管疾病。肝梗死由肝动脉疾病引起。
+肝脏静脉回流不充分可源自于局部或广泛的静脉阻塞或右心衰竭，正如淤血性肝病。肝静脉血流流出阻塞可发生于肝内静脉或肝外静脉（布-加综合征）或肝内静脉终末分支和肝窦（肝窦阻塞综合征，旧称静脉闭塞性疾病），但更常见的是肝内肝外静脉均有异常。肝硬化是肝内弥漫性静脉流出道梗阻的最常见原因 (1)。弥漫性阻塞导致肝窦淤血、肝大、门脉高压、门脉血流减少、腹水和脾大。局灶性静脉阻塞的临床表现取决于阻塞的部位。
+特殊血管病变可见于肝动脉、肝静脉或门静脉。肝动脉可能被阻塞。发生动脉瘤并不常见。在紫癜肝中，肝窦内出现充满血的囊腔（门静脉和肝静脉之间的微血管吻合）。
+肝静脉病变可导致局灶性或弥漫性静脉回流受阻。
+几乎所有的门静脉疾病都会阻塞门静脉血流而导致门静脉高压。阻塞可位于：
+肝外——高凝状态引起的门静脉血栓形成、血管壁病变（如门静脉炎、脐炎），邻近脏器病变（如胰腺炎，肿瘤）或先天性门静脉闭锁。
+肝外——高凝状态引起的门静脉血栓形成、血管壁病变（如门静脉炎、脐炎），邻近脏器病变（如胰腺炎，肿瘤）或先天性门静脉闭锁。
+肝内——如血吸虫病、原发性胆汁性胆管炎（PBC，旧称原发性胆汁性肝硬化）、结节病、非肝硬化性门脉高压引起的门静脉微血管阻塞。
+肝内——如血吸虫病、原发性胆汁性胆管炎（PBC，旧称原发性胆汁性肝硬化）、结节病、非肝硬化性门脉高压引起的门静脉微血管阻塞。
+
+【参考文献】
+1.Northup PG, Garcia-Pagan JC, Garcia-Tsao G, et al: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Patients With Liver Disease: 2020 Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology73(1):366-413, 2021.doi: 10.1002/hep.31646
+1.Northup PG, Garcia-Pagan JC, Garcia-Tsao G, et al: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Patients With Liver Disease: 2020 Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology73(1):366-413, 2021.doi: 10.1002/hep.31646

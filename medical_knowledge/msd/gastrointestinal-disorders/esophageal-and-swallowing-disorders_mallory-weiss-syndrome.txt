@@ -1,0 +1,25 @@
+标题：Mallory-Weiss综合征
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/esophageal-and-swallowing-disorders/mallory-weiss-syndrome
+============================================================
+
+（参见食管和吞咽性疾病概述。）
+此图像显示了一条细长的线性撕裂（箭头），从鳞柱状上皮交界处上方开始，向近端延伸。
+Image provided by David M.Martin, MD.
+马洛里 - 魏斯综合征最初描述于酒精使用障碍患者，但任何剧烈呕吐的患者都可能发生。占上消化道出血原因的5-10% (1)。
+撕裂也可能伴随下胸部疼痛。
+
+【参考文献】
+1.Knoblauch M, Stevka E, Lämmli J, et al: The Mallory-Weiss-syndrome: a clinical study of 20 cases.Endoscopy8(1):5-9, 1976.doi: 10.1055/s-0028-1098366
+1.Knoblauch M, Stevka E, Lämmli J, et al: The Mallory-Weiss-syndrome: a clinical study of 20 cases.Endoscopy8(1):5-9, 1976.doi: 10.1055/s-0028-1098366
+
+【Mallory-Weiss 综合征的诊断】
+胃镜检查
+胃镜检查
+临床上诊断Mallory-Weiss综合征的典型病史是在一次或多次非血性呕吐发作后发生呕血。在这种情况下，如果出血量很少且病人病情稳定，可考虑推迟检查，并且部分患者可以考虑出院回家。
+否则，如果病史不明或正在出血，患者应该进行标准胃肠道出血评估, 通常采用上消化道内镜检查和实验室检查。上消化道内镜检查也具有治疗作用 —— 可在撕裂处放置止血夹控制出血。
+
+【马洛里-魏斯综合征的治疗】
+止血措施
+止血措施
+大多数出血可自行停止，10%患者可有严重的出血，需要进一步治疗，如输血或内镜下止血（通过放置止血夹、注射乙醇或肾上腺素，或电灼）。 动脉内注入加压素或在血管造影时治疗性栓塞胃左动脉，也可控制出血。
+很少需要手术修补。

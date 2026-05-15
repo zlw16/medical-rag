@@ -1,0 +1,43 @@
+标题：缬草
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/valerian
+============================================================
+
+缬草(Valeriana officinalis)的根部和根状茎（地下茎）部含有其活性成分，包括缬草素和刺激性香油。
+
+【缬草的功效宣称】
+缬草被用于镇静和助眠，在欧洲尤为流行。
+有些人服用缬草治疗头痛、抑郁、更年期症状、经前综合征、心跳不规则和颤抖。它通常用于短期（例如 2 至 6 周）。
+
+【缬草的证据】
+2020年对60项研究（6,894名受试者）进行了系统回顾和荟萃分析，对10项研究（1,065名受试者）的主观睡眠质量和8项研究（535名受试者）的焦虑情绪进行了评估。作者报告了不一致的结果，可能是因为缬草提取物质量不同（1)。2017年美国睡眠医学会临床实践指南建议，临床医生不要将缬草作为成人失眠症患者睡眠开始或睡眠维持的治疗手段（2)。
+一项2024年对8项系统综述（涉及15,716名受试者）的伞式综述报告称，没有证据表明缬草对失眠的客观指标有益（3）。
+两项小型随机研究也报告说，与安慰剂相比，使用缬草4周和8周后，更年期潮热现象有所减少（4)。
+人们对使用缬草治疗强迫症很感兴趣，并且有证据表明每一项为期 8 周的试点随机对照研究都有益处 (5)。尚无充分的科学证据显示缬草对头痛、抑郁、心律失常和颤动有作用。
+
+【缬草的不良反应】
+研究表明，常规剂量给予缬草通常是安全的。缬草的不良反应包括头痛、胃部不适、心脏病，甚至有些人失眠。一些人在服用缬草后会在早上感到昏昏欲睡，尤其是服用更高剂量的缬草。缬草可能产生镇静作用，影响驾驶或其他需要警觉的行为。
+不推荐怀孕或哺乳的妇女服用缬草。
+
+【缬草的药物相互作用】
+体外研究表明缬草可以抑制CYP3A4代谢和P-糖蛋白活性(6), 但尚无临床研究表明任何药物代谢的相互作用。
+缬草可延长其他镇静剂（如巴比妥）的作用，并影响驾驶等需要警觉性的行为。缬草不应该与酒精或镇静剂一起服用。
+(参考表一些可能的膳食补充剂-药物相互作用。）
+
+【参考文献】
+1.Shinjyo N, Waddell G, Green J.Valerian root in treating sleep problems and associated disorders-a systematic review and meta-analysis.J Evid Based Integr Med.25:2515690X20967323, 2020.doi:10.1177/2515690X20967323
+1.Shinjyo N, Waddell G, Green J.Valerian root in treating sleep problems and associated disorders-a systematic review and meta-analysis.J Evid Based Integr Med.25:2515690X20967323, 2020.doi:10.1177/2515690X20967323
+2.Sateia MJ, Buysse DJ, Krystal AD, Neubauer DN, Heald JL.Clinical practice guideline for the pharmacologic treatment of chronic insomnia in adults: an American Academy of Sleep Medicine Clinical Practice Guideline.J Clin Sleep Med.13(2):307-349, 2017.Published 2017 Feb 15.doi:10.5664/jcsm.6470
+2.Sateia MJ, Buysse DJ, Krystal AD, Neubauer DN, Heald JL.Clinical practice guideline for the pharmacologic treatment of chronic insomnia in adults: an American Academy of Sleep Medicine Clinical Practice Guideline.J Clin Sleep Med.13(2):307-349, 2017.Published 2017 Feb 15.doi:10.5664/jcsm.6470
+3.Valente V, Machado D, Jorge S, Drake CL, Marques DR.Does valerian work for insomnia?An umbrella review of the evidence.Eur Neuropsychopharmacol.2024 May;82:6-28.doi: 10.1016/j.euroneuro.2024.01.008
+3.Valente V, Machado D, Jorge S, Drake CL, Marques DR.Does valerian work for insomnia?An umbrella review of the evidence.Eur Neuropsychopharmacol.2024 May;82:6-28.doi: 10.1016/j.euroneuro.2024.01.008
+4.Mirabi P, Mojab F.The effects of valerian root on hot flashes in menopausal women.Iran J Pharm Res.12(1):217-222, 2013.PMID: 24250592
+4.Mirabi P, Mojab F.The effects of valerian root on hot flashes in menopausal women.Iran J Pharm Res.12(1):217-222, 2013.PMID: 24250592
+5.Pakseresht S, Boostani H, Sayyah M.Extract of valerian root (Valeriana officinalis L.)vs. placebo in treatment of obsessive-compulsive disorder: a randomized double-blind study.J Complement Integr Med.8, 2011.doi: 10.2202/1553-3840.1465
+5.Pakseresht S, Boostani H, Sayyah M.Extract of valerian root (Valeriana officinalis L.)vs. placebo in treatment of obsessive-compulsive disorder: a randomized double-blind study.J Complement Integr Med.8, 2011.doi: 10.2202/1553-3840.1465
+6.Hellum BH, Nilsen OG.In vitro inhibition of CYP3A4 metabolism and P-glycoprotein-mediated transport by trade herbal products.Basic Clin Pharmacol Toxicol.102(5):466-475, 2008.doi: 10.1111/j.1742-7843.2008.00227.x
+6.Hellum BH, Nilsen OG.In vitro inhibition of CYP3A4 metabolism and P-glycoprotein-mediated transport by trade herbal products.Basic Clin Pharmacol Toxicol.102(5):466-475, 2008.doi: 10.1111/j.1742-7843.2008.00227.x
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Institutes of Health (NIH): Valerian Fact Sheet forHealth Professionals
+National Institutes of Health (NIH): Valerian Fact Sheet forHealth Professionals

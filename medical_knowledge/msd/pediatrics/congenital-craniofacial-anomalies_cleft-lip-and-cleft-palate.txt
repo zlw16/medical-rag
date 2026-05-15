@@ -1,0 +1,43 @@
+标题：唇裂和腭裂
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-craniofacial-anomalies/cleft-lip-and-cleft-palate
+============================================================
+
+唇裂、唇腭裂和孤立性腭裂统称为唇腭裂，是头颈部最常见的先天性畸形，在活产婴儿中的总体发病率为1/1000（1）。
+环境因素和遗传因素都被视为病因。产前母亲吸烟（2）或饮酒（3），或母亲患有口面裂，或有一级亲属患有口面裂（4）与风险增加相关。叶酸缺乏也是一个风险因素，尤其是从受孕到妊娠前三个月。建议所有备孕和怀孕期间的患者补充叶酸。此外，服用叶酸拮抗剂（包括某些抗癫痫药物（如苯妥英、丙戊酸、卡马西平））的患者需要更高剂量的叶酸。
+DR M.A.ANSARY/SCIENCE PHOTO LIBRARY
+(参见先天性颅面畸形概述。)
+MORRIS HUBERLAND/SCIENCE PHOTO LIBRARY
+唇腭裂可被分为两种类型：
+综合征（30％）
+综合征（30％）
+非综合征（70％）
+非综合征（70％）
+综合征型唇腭裂是那些存在于已认知的先天性综合征或多个先天性异常患者的唇腭裂。 这些唇腭裂是由染色体异常或特定的单基因综合症引起的。
+非综合征型（孤立性）唇腭裂是指不存在相关异常或发育迟缓的患儿的唇腭裂。 许多不同的基因突变可引起表型，包括综合征唇腭裂所涉及的某些基因的突变，这提示综合征和非综合征唇腭裂存在明显的重叠。
+裂隙的范围可以从仅累及软腭到软硬腭、上颌骨牙槽突和唇部的完全裂开。轻型是悬雍垂分叉。也可仅发生局限性的唇裂。
+腭裂会影响进食和语言发育，并增加耳部感染的风险。治疗目的是确保正常喂养、讲话和上颌的生长，避免瘘管形成。
+
+【参考文献】
+1.Mai CT, Isenburg JL, Canfield MA, et al.National population-based estimates for major birth defects, 2010-2014.Birth Defects Res.2019;111(18):1420-1435.doi:10.1002/bdr2.1589
+1.Mai CT, Isenburg JL, Canfield MA, et al.National population-based estimates for major birth defects, 2010-2014.Birth Defects Res.2019;111(18):1420-1435.doi:10.1002/bdr2.1589
+2.Butali A, Little J, Chevrier C, et al.Folic acid supplementation use and the MTHFR C677T polymorphism in orofacial clefts etiology: An individual participant data pooled-analysis.Birth Defects Res A Clin Mol Teratol.2013;97(8):509-514.doi:10.1002/bdra.23133
+2.Butali A, Little J, Chevrier C, et al.Folic acid supplementation use and the MTHFR C677T polymorphism in orofacial clefts etiology: An individual participant data pooled-analysis.Birth Defects Res A Clin Mol Teratol.2013;97(8):509-514.doi:10.1002/bdra.23133
+3.DeRoo LA, Wilcox AJ, Drevon CA, Lie RT.First-trimester maternal alcohol consumption and the risk of infant oral clefts in Norway: a population-based case-control study.Am J Epidemiol.2008;168(6):638-646.doi:10.1093/aje/kwn186
+3.DeRoo LA, Wilcox AJ, Drevon CA, Lie RT.First-trimester maternal alcohol consumption and the risk of infant oral clefts in Norway: a population-based case-control study.Am J Epidemiol.2008;168(6):638-646.doi:10.1093/aje/kwn186
+4.Sivertsen A, Wilcox AJ, Skjaerven R, et al.Familial risk of oral clefts by morphological type and severity: population based cohort study of first degree relatives.BMJ.2008;336(7641):432-434.doi:10.1136/bmj.39458.563611.AE
+4.Sivertsen A, Wilcox AJ, Skjaerven R, et al.Familial risk of oral clefts by morphological type and severity: population based cohort study of first degree relatives.BMJ.2008;336(7641):432-434.doi:10.1136/bmj.39458.563611.AE
+
+【唇裂和腭裂的诊断】
+体格检查
+体格检查
+基因检测
+基因检测
+即使在明显孤立的先天性异常的情况下，临床遗传学家也应评估受影响的患者。
+在评估先天性颅面畸形患者时，应考虑染色体微阵列分析、特定基因检测或更广泛的基因组检测。如果这些测试的结果无法诊断，建议进行全外显子组测序分析。
+
+【唇裂和腭裂的治疗】
+外科手术修复
+外科手术修复
+早期治疗（在等待手术修复期间）取决于具体的异常情况，但可能包括专门设计的奶嘴（以方便流量）、牙科用具（以封闭裂缝，便于哺乳）、可挤压的喂食器（以提供配方奶）、胶带固定，以及根据儿童自身腭部形状制作的人工腭。急性中耳炎发作很常见，必须予以识别和治疗。
+最终治疗是手术闭合；然而，手术时机的选择可能会影响上颌骨周围的生长中心，因此存在一定争议。对于腭裂，通常进行两阶段分期手术。 唇裂，鼻子和软腭在婴儿期（3至6个月）进行修复。 然后，在15至18个月龄时修复残留的硬腭裂。外科手术可以显著改善病情，但如果畸形严重或治疗不充分，患者可能会留有鼻音、外观受损以及反流倾向。
+建议进行牙科和正畸治疗，言语治疗和遗传咨询。

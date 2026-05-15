@@ -1,0 +1,48 @@
+标题：急性肢体缺血
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/peripheral-artery-disorders/acute-limb-ischemia
+============================================================
+
+急性肢体缺血可能由以下原因引起：
+粥样硬化斑块破裂和血栓形成
+粥样硬化斑块破裂和血栓形成
+心脏或胸或腹主动脉来源的栓子
+心脏或胸或腹主动脉来源的栓子
+主动脉夹层形成
+主动脉夹层形成
+急性骨筋膜室综合征
+急性骨筋膜室综合征
+症状和体征突然发生于某个肢体末端，表现为5P：
+疼痛（严重）
+疼痛（严重）
+感觉异常（或麻醉）
+感觉异常（或麻醉）
+异温症（冷感）
+异温症（冷感）
+早期诊断的结果最好，但疼痛（通常是最早的症状）是非特异性的。然而，急性肢体缺血的疼痛程度可能与体格检查表现不成比例。因此，对于有风险的患者（例如已知或怀疑患有外周动脉疾病），如果其肢体疼痛与检查结果不成比例，特别是突然发作时，应考虑急性肢体缺血。
+阻塞可粗略地定位于动脉分叉部，正好在最后可扪及的脉搏的远端（如，当股动脉脉搏可扪及时在股总动脉分叉部；当腘动脉搏动可扪及时在腘动脉分叉部）。严重病例可导致运动功能丧失（瘫痪常被视为急性肢体缺血的第六个"P"征）。6～8小时后，当触摸时肌肉可能有压痛。
+
+【经验与提示】
+经验与提示
+对于存在风险且突发与体格检查结果不成比例的疼痛的患者，需考虑急性肢体缺血。
+对于存在风险且突发与体格检查结果不成比例的疼痛的患者，需考虑急性肢体缺血。
+这名病人冠状动脉造影和支架植入术后6周出现疼痛的蓝色脚趾和溃疡。主动脉股动脉血管造影显示主动脉、股动脉和腘动脉弥漫性动脉粥样硬化，提示胆固醇栓塞导致脚趾缺血。
+© Springer Science+Business Media
+急性肢体缺血的诊断通常基于临床表现。需要立即作血管造影检查以确诊阻塞的部位，确定侧支血流和指导治疗。
+取栓、溶栓或搭桥手术
+取栓、溶栓或搭桥手术
+急性肢体缺血的治疗包括血栓切除术或血栓抽吸术（导管或手术）、溶栓（全身或导管导向）或下肢旁路手术。除了当地可用的临床专业知识外，选择外科血栓清除术还是溶栓治疗取决于缺血的严重程度、血栓的程度或部位及患者的一般情况（1）。
+溶栓（纤溶）药物，尤其是经动脉导管输注时，对发病时间<2周内且肢体运动和感觉功能完整（即可挽救的肢体）的急性动脉闭塞最有效（1，2）组织纤溶酶原激活剂是最常使用的。将导管引入并导向闭塞区域，根据患者体型和血栓范围以适当速率给予溶栓药物。治疗通常持续4～24小时，取决于缺血的严重度和溶栓的征象（症状的减轻和脉搏的恢复或由多普勒超声检查显示的血流改善）。一项大型观察性研究显示，在1998年至2009年间，1年截肢率随时间推移从约15%下降至11%，而1年死亡率保持约40%不变（3）。
+
+【治疗参考文献】
+1.Gornik HL, Aronow HD, Goodney PP, et al.2024 ACC/AHA/AACVPR/APMA/ABC/SCAI/SVM/SVN/SVS/SIR/VESS Guideline for the Management of Lower Extremity Peripheral Artery Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inCirculation2025 Apr 8;151(14):e918. doi: 10.1161/CIR.0000000000001329].Circulation2024;149(24):e1313-e1410.doi:10.1161/CIR.0000000000001251
+1.Gornik HL, Aronow HD, Goodney PP, et al.2024 ACC/AHA/AACVPR/APMA/ABC/SCAI/SVM/SVN/SVS/SIR/VESS Guideline for the Management of Lower Extremity Peripheral Artery Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inCirculation2025 Apr 8;151(14):e918. doi: 10.1161/CIR.0000000000001329].Circulation2024;149(24):e1313-e1410.doi:10.1161/CIR.0000000000001251
+2.Mazzolai L, Teixido-Tura G, Lanzi S, et al.2024 ESC Guidelines for the management of peripheral arterial and aortic diseases.Eur Heart J2024;45(36):3538-3700.doi:10.1093/eurheartj/ehae179
+2.Mazzolai L, Teixido-Tura G, Lanzi S, et al.2024 ESC Guidelines for the management of peripheral arterial and aortic diseases.Eur Heart J2024;45(36):3538-3700.doi:10.1093/eurheartj/ehae179
+3.Baril DT, Ghosh K, Rosen AB.Trends in the incidence, treatment, and outcomes of acute lower extremity ischemia in the United States Medicare population.J Vasc Surg2014;60(3):669-77.e2.doi:10.1016/j.jvs.2014.03.244
+3.Baril DT, Ghosh K, Rosen AB.Trends in the incidence, treatment, and outcomes of acute lower extremity ischemia in the United States Medicare population.J Vasc Surg2014;60(3):669-77.e2.doi:10.1016/j.jvs.2014.03.244
+急性肢体缺血的特征是患肢剧烈疼痛、苍白、感觉异常（或麻木）、变温（冷感）和无脉。
+急性肢体缺血的特征是患肢剧烈疼痛、苍白、感觉异常（或麻木）、变温（冷感）和无脉。
+治疗包括栓子切除术，溶栓或搭桥手术。
+治疗包括栓子切除术，溶栓或搭桥手术。
+尽管有治疗，大约11%的急性肢体缺血患者需要截肢。
+尽管有治疗，大约11%的急性肢体缺血患者需要截肢。

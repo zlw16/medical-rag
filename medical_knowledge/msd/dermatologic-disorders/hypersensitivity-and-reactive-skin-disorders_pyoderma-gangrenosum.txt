@@ -1,0 +1,83 @@
+标题：坏疽性脓皮病
+来源：https://www.msdmanuals.cn/professional/dermatologic-disorders/hypersensitivity-and-reactive-skin-disorders/pyoderma-gangrenosum
+============================================================
+
+
+【坏疽性脓皮病的病因】
+坏疽性脓皮病的病因不明，但可能与多种全身性疾病有关，包括炎症性肠病,类风湿关节炎、癌症和血液系统疾病（例如，意义不明的单克隆丙种球蛋白病,骨髓增生异常综合症,真性红细胞增多症）。认为由异常的免疫应答介导。
+大多数患者年龄≥55岁（1）。
+坏疽性脓皮病可表现为多种亚型。
+
+【病因参考文献】
+1.Xu A, Balgobind A, Strunk A, Garg A, Alloo A.Prevalence estimates for pyoderma gangrenosum in the United States: An age- and sex-adjusted population analysis.J Am Acad Dermatol.2020;83(2):425-429.doi:10.1016/j.jaad.2019.08.001
+1.Xu A, Balgobind A, Strunk A, Garg A, Alloo A.Prevalence estimates for pyoderma gangrenosum in the United States: An age- and sex-adjusted population analysis.J Am Acad Dermatol.2020;83(2):425-429.doi:10.1016/j.jaad.2019.08.001
+
+【坏疽性脓皮病的病理生理学】
+坏疽性脓皮病的病生理机制知之甚少，但可能存在中性粒细胞趋化异常。皮损内白介素-8过度表达。
+约30%的患者在皮肤创伤或受伤处出现坏疽性脓皮病的溃疡；这个过程叫做过应性 (1)。
+
+【病理生理学参考文献】
+1.Binus AM, Qureshi AA, Li VW, Winterfield LS.Pyoderma gangrenosum: a retrospective review of patient characteristics, comorbidities and therapy in 103 patients.Br J Dermatol.2011;165(6):1244-1250.doi:10.1111/j.1365-2133.2011.10565.x
+1.Binus AM, Qureshi AA, Li VW, Winterfield LS.Pyoderma gangrenosum: a retrospective review of patient characteristics, comorbidities and therapy in 103 patients.Br J Dermatol.2011;165(6):1244-1250.doi:10.1111/j.1365-2133.2011.10565.x
+
+【坏疽性脓皮病的症状和体征】
+最常见的情况是，坏疽性脓皮病起初表现为炎症性红色丘疹、脓疱或结节。在此阶段，皮损可类似于疖肿或节肢动物叮咬引起的皮疹；随后出现溃疡，并迅速扩大，形成肿胀坏死基底，边缘隆起，呈暗色至紫色。常见潜行性边缘（即边缘下方的支持组织缺失），不具特征性。溃疡可融合成大溃疡，常形成筛状瘢痕。
+系统症状如发热、不适较常见。
+各亚型的症状和体征差异很大。
+
+【溃疡性（经典）亚型】
+最常见的亚型，溃疡如上所述，最常见于下肢或躯干，尤其是臀部和会阴部。
+这张照片显示了一个溃疡病灶，底部有坏死，腿部边缘呈暗色至紫罗兰色。
+这张照片显示一种溃疡类型，顶部的愈合病变正在发展为底部的溃疡病变。
+Photo courtesy of Karen McKoy, MD.
+
+【大疱（非典型）亚型】
+相对不太常见的亚型，多见于血液系统疾病患者。皮损常先表现为大疱，破溃，形成浅溃疡。面部和上肢最常累及。
+这张照片显示了在患者手臂上形成的多个被侵蚀的大疱。
+
+【脓疱亚型】
+这种亚型倾向发生于炎症性肠病的急性进展期。出现疼痛性脓疱，周围绕以红晕。常见关节痛。
+
+【植物性（浅表肉芽肿性脓皮病）亚型】
+这种亚型表现为单发的无痛性或轻疼痛性斑块或浅溃疡，好发于头颈部。常无潜行性溃疡，基底无坏死。
+这张照片显示了一个没有凸起边界或坏死基底部的浅表溃疡。
+
+【其他亚型】
+坏疽性脓皮病还出现在其他部位，比如炎症性肠病患者的造口周围（造口坏疽性脓皮病），生殖器（生殖器坏疽性脓皮病），或其他非皮肤部位，比如骨骼，角膜，中枢神经系统，心脏，肠，肝，肺，或肌肉（皮肤外的坏疽性脓皮病）。
+
+【坏疽性脓皮病的诊断】
+临床评估
+临床评估
+坏疽性脓皮病的诊断依据临床，须排除其他原因的溃疡后才能诊断。 手术清创后溃疡扩大强烈提示坏疽性脓皮病。
+皮损处活检不具诊断性，但有助于诊断。许多来自皮损边缘处的活检结果显示有浅层血管壁中性粒细胞浸润和纤维蛋白变性的血管炎。
+大疱型（非典型）坏疽性脓皮病患者应定期临床评估和随访血常规以监测血液系统疾病的出现。
+
+【坏疽性脓皮病的治疗】
+伤口护理
+伤口护理
+糖皮质激素
+糖皮质激素
+肿瘤坏死因子 (TNF)-alpha 抑制剂
+肿瘤坏死因子 (TNF)-alpha 抑制剂
+有时需其他抗炎药物或免疫抑制剂
+有时需其他抗炎药物或免疫抑制剂
+避免手术清创
+避免手术清创
+封闭性保湿敷料用于渗出较少的斑块，吸收性敷料用于高渗出性斑块，可促进伤口愈合。在难治性病例中可能需要生物敷料和其他专门的敷料。应避免湿-干敷料。
+外用强效糖皮质激素或他克莫司对浅表和早期皮损有效。
+对于严重病例，泼尼松60至80mg口服，每日一次，是常见的第一线治疗。 TNF-alpha抑制剂（例如，英夫利昔单抗，阿达木单抗，依那西普）是有效的，尤其是炎症性肠病患者。环孢素3mg/kg 口服，每日1次，也相当有效，尤其是疾病快速进展期。氨苯砜、硫唑嘌呤、环磷酰胺、甲氨喋呤、氯法齐明、沙利度胺和和MMF治疗也能获得成功。抗微生物剂如米诺环素也已可用于增殖型（浅表）坏疽性脓皮病。
+由于伤口扩大的风险，应避免手术治疗 (1)。
+
+【治疗参考文献】
+1.Alavi A, French LE, Davis MD, et al:Pyoderma gangrenosum: An update on pathophysiology, diagnosis and treatment.Am J Clin Dermatol18(3):355–372, 2017.doi: 10.1007/s40257-017-0251-7
+1.Alavi A, French LE, Davis MD, et al:Pyoderma gangrenosum: An update on pathophysiology, diagnosis and treatment.Am J Clin Dermatol18(3):355–372, 2017.doi: 10.1007/s40257-017-0251-7
+坏疽性脓皮病常与系统性疾病相关，可能由免疫介导。
+坏疽性脓皮病常与系统性疾病相关，可能由免疫介导。
+有几种亚型;溃疡型（即下肢、臀部或会阴坏死基底和隆起的紫色潜行性边缘）最常见。
+有几种亚型;溃疡型（即下肢、臀部或会阴坏死基底和隆起的紫色潜行性边缘）最常见。
+根据临床诊断坏疽性脓皮病。
+根据临床诊断坏疽性脓皮病。
+优化伤口护理，避免手术清创。
+优化伤口护理，避免手术清创。
+外用强效糖皮质激素或他克莫司治疗早期皮损和系统用糖皮质激素、TNF-alpha抑制剂或其他抗炎或免疫抑制剂治疗症状较重患者。
+外用强效糖皮质激素或他克莫司治疗早期皮损和系统用糖皮质激素、TNF-alpha抑制剂或其他抗炎或免疫抑制剂治疗症状较重患者。

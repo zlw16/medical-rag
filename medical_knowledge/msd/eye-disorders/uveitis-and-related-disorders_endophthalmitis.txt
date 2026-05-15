@@ -1,0 +1,42 @@
+标题：眼内炎
+来源：https://www.msdmanuals.cn/professional/eye-disorders/uveitis-and-related-disorders/endophthalmitis
+============================================================
+
+大部分细菌性眼内炎是革兰氏阳性细菌引起的，如表皮葡萄球菌或金黄色葡萄球菌(1)。革兰氏阴性微生物引起的眼内炎感染症状更重，预后更差。真菌和原虫感染引起的眼内炎罕见。大部分病例发生于眼内手术后或者穿孔性眼球外伤（外源性眼内炎） (2)。全身手术或者牙科手术、静脉留置或者静脉用药后经血行到达眼部引起的感染（内源性眼内炎），少见。(参见葡萄膜炎概述。）
+该图像显示了强烈的结膜充血、前房炎症（伴有前房积脓）和眼内炎特征性红色反射的丧失。
+© Springer Science+Business Media
+眼内炎的预后与开始治疗的时间直接相关，因此眼内炎是急诊。极少情况下，未治疗的眼内炎可能导致炎症弥散至眼眶和中枢神经系统。
+眼内炎通常会导致严重的眼部疼痛和视力下降。体征包括：
+剧烈的结膜充血和前房及玻璃体内的眼内炎症
+剧烈的结膜充血和前房及玻璃体内的眼内炎症
+红光反射消失
+红光反射消失
+眼睑水肿（偶尔）
+眼睑水肿（偶尔）
+
+【参考文献】
+1.Schiedler V, Scott IU, Flynn HW Jr, et al: Culture-proven endogenous endophthalmitis: Clinical features and visual acuity outcomes.Am J Ophthalmol137(4):725–731, 2004.https://doi.org/10.1016/j.ajo.2003.11.013
+1.Schiedler V, Scott IU, Flynn HW Jr, et al: Culture-proven endogenous endophthalmitis: Clinical features and visual acuity outcomes.Am J Ophthalmol137(4):725–731, 2004.https://doi.org/10.1016/j.ajo.2003.11.013
+2.Keynan Y, Finkelman Y, Lagacé-Wiens P: The microbiology of endophthalmitis: Global trends and a local perspective.Eur J Clin Microbiol Infect Dis31(11):2879-2886, 2012.doi: 10.1007/s10096-012-1659-x
+2.Keynan Y, Finkelman Y, Lagacé-Wiens P: The microbiology of endophthalmitis: Global trends and a local perspective.Eur J Clin Microbiol Infect Dis31(11):2879-2886, 2012.doi: 10.1007/s10096-012-1659-x
+
+【眼内炎的诊断】
+临床评估
+临床评估
+微生物检测（例如，革兰氏染色和内源性眼内炎抽吸液培养，血尿培养）
+微生物检测（例如，革兰氏染色和内源性眼内炎抽吸液培养，血尿培养）
+具有危险因素的患者，尤其是那些最近有眼内手术或者眼外伤的患者，需要高度怀疑眼内炎。常规进行前房和玻璃体抽吸液的革兰氏染色和细菌培养。怀疑内源性眼内炎的患者还需要行血和尿培养。
+
+【眼内炎的治疗】
+玻璃体内注射抗生素
+玻璃体内注射抗生素
+内源性眼内炎患者需玻璃体腔注射和静脉抗生素治疗。
+内源性眼内炎患者需玻璃体腔注射和静脉抗生素治疗。
+在严重的病例，可能需要玻璃体切除术和眼内注射皮质类固醇治疗
+在严重的病例，可能需要玻璃体切除术和眼内注射皮质类固醇治疗
+初始治疗包括玻璃体腔注射广谱抗生素，最常用万古霉素和头孢他啶。内源性眼内炎的患者需要同时接受玻璃体腔注射和全身静脉抗生素治疗。治疗方案应该根据培养和药敏结果作出适当调整。
+眼内炎即使早期诊断和及时治疗，视力预后通常不良。出现视力为数指或更差的患者应考虑进行玻璃体切除术并使用眼内和全身性皮质类固醇 (1)。但在真菌性眼内炎则禁用皮质类固醇。
+
+【治疗参考文献】
+1.Morris RE, Kuhn F: Complete and early vitrectomy for endophthalmitis.Eur J Ophthalmol31(6):2794-2795, 2021.doi: 10.1177/11206721211021185
+1.Morris RE, Kuhn F: Complete and early vitrectomy for endophthalmitis.Eur J Ophthalmol31(6):2794-2795, 2021.doi: 10.1177/11206721211021185

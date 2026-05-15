@@ -1,0 +1,394 @@
+标题：妊娠期用药安全
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/drug-safety-in-pregnancy/drug-safety-in-pregnancy
+============================================================
+
+怀孕期间可能需要针对各种适应症服用药物。最常用的药物包括止吐剂、抗酸剂、抗组胺剂、镇痛剂、抗菌剂、利尿剂、抗抑郁剂和镇静剂。药物使用和滥用也很常见。尽管有这种趋势，但仍然缺乏关于怀孕期间安全使用药物的可靠循证指南。
+
+【孕期用药安全监管信息】
+直到 2010 年代，美国食品和药物管理局 (FDA) 将非处方药 (OTC) 和处方药分为 5 类妊娠期间安全使用的药物（A、B、C、D、X）。 然而，评估治疗性药物对孕妇安全性的严格对照研究寥寥无几。  大多数关于孕期用药安全性的信息来自动物研究、非对照性研究和药物上市后监测。 因此，FDA分类系统导致在将现有信息应用于临床决策时出现混淆和困难。 2014年12月，FDA回应要求将所有药物的妊娠分类标签A，B，C，D和X删除。
+FDA现在要求标签以一致的格式而不是分类来提供特定药物的信息（称为最终规则，或妊娠和哺乳期标签（药物）最终规则[PLLR]）。
+FDA要求的信息包含3个部分：
+妊娠：有关孕妇使用该药的信息（例如，剂量，胎儿的风险）以及是否有收集和保存孕妇受该药物影响相关数据的登记
+妊娠：有关孕妇使用该药的信息（例如，剂量，胎儿的风险）以及是否有收集和保存孕妇受该药物影响相关数据的登记
+哺乳期：关于哺乳期使用药物的信息（例如，乳汁中药物含量，对母乳喂养的孩子的潜在影响）
+哺乳期：关于哺乳期使用药物的信息（例如，乳汁中药物含量，对母乳喂养的孩子的潜在影响）
+女性和男性的生殖潜能：孕期检测，避孕和药物相关的不孕
+女性和男性的生殖潜能：孕期检测，避孕和药物相关的不孕
+妊娠和哺乳期部分分别包含3个副标题（风险总结，临床思考，和数据），提供更多的细节。 最终规则不适用于非处方（非处方药）药物。
+
+【孕期药物转移和代谢】
+孕期，一些疾病经常需要药物治疗。 一般情况下，当潜在的益处大于已知的风险时，孕期可考虑使用药物治疗疾病。
+并非母体循环中的所有药物或其他物质都会穿过胎盘（转移）给胎儿。一些透过胎盘的药物可能对胎儿有直接毒性或致畸作用。  不能透过胎盘的药物仍可通过以下途径损害胎儿
+收缩胎盘血管，进而影响气体和营养物质交换
+收缩胎盘血管，进而影响气体和营养物质交换
+子宫张力增高导致缺氧损伤
+子宫张力增高导致缺氧损伤
+改变母体生理机能（例如，引起低血压）
+改变母体生理机能（例如，引起低血压）
+有关怀孕期间有不良影响的一些药物的列表，请参阅表妊娠期选定药物的安全性。
+药物通过胎盘弥散与通过其他上皮屏障弥散的方式相似(参见吸收)。  药物是否能够通过胎盘及其速度与药物的分子量、与其他物质的结合程度（例如，载体蛋白）、通过胎盘绒毛的交换面积以及由胎盘代谢的药物量有关。  大多数分子量<500道尔顿的药物能够穿过胎盘进入胎儿血液循环。  大分子量物质（例如与蛋白结合的药物）通常不通过胎盘。 一个例外是免疫球蛋白G，它可用于治疗疾病，如胎儿同种免疫性血小板减少症或胎儿血色素沉着症。 一般情况下，药物浓度在母体血循环和胎儿组织之间达到平衡最少需要30～60分钟；然而，一些药物在母体和胎儿循环中没有达到相似的浓度。
+药物对胎儿的影响很大程度上取决于暴露时的胎龄、胎盘通透性、母体因素、药物效力和药物剂量。
+胎龄影响药物作用的类型：
+受精后20天内：此时药物影响通常是全或无的效应，即或者杀死胚胎或者完全不影响。  这个阶段一般无致畸作用。
+受精后20天内：此时药物影响通常是全或无的效应，即或者杀死胚胎或者完全不影响。  这个阶段一般无致畸作用。
+器官形成过程中（受精后20到56天）：致畸作用最可能发生在这个阶段。 在这个阶段到达胚胎的药物可能导致自然流产、亚致死性肉体解剖缺陷（真正的致畸作用）、隐性胚胎病变（一种永久性的细微代谢或功能缺陷，可能在以后的生活中表现出来），或儿童癌症的风险增加（例如，当母亲被给予放射性碘治疗甲状腺癌时）;或者药物可能没有可测量的效果。
+器官形成过程中（受精后20到56天）：致畸作用最可能发生在这个阶段。 在这个阶段到达胚胎的药物可能导致自然流产、亚致死性肉体解剖缺陷（真正的致畸作用）、隐性胚胎病变（一种永久性的细微代谢或功能缺陷，可能在以后的生活中表现出来），或儿童癌症的风险增加（例如，当母亲被给予放射性碘治疗甲状腺癌时）;或者药物可能没有可测量的效果。
+器官形成以后（孕中晚期）：不会有致畸作用发生，但药物可能影响已发育正常的胎儿器官和组织的生长和功能。 随着胎盘代谢增加，发生胎儿不良反应需要更高的药物剂量。
+器官形成以后（孕中晚期）：不会有致畸作用发生，但药物可能影响已发育正常的胎儿器官和组织的生长和功能。 随着胎盘代谢增加，发生胎儿不良反应需要更高的药物剂量。
+母体因素包括影响药物吸收、分布、代谢和排泄因素。 例如，恶心和呕吐可能会降低口服药物的吸收。
+美国主要结构性出生缺陷的总体发生率约为 3%（1）；大多数畸形是由遗传、环境、多因素或未知原因造成的。很难确定由治疗药物引起的先天畸形的总体发生率。例如，在一项针对 5504 例出生缺陷病例的研究中，只有 20% 有明确的原因，而已知原因的病例中<1% 是由药物引起的（2）。
+
+【妊娠期特定药物的安全性】
+妊娠期特定药物的安全性
+不良反应
+氨基糖苷类
+耳毒性（如损伤胎儿迷路），导致耳聋
+灰婴综合征
+在G6PD缺乏的妇女或胎儿中，会发生溶血
+氟喹诺酮
+可能导致关节痛；理论上导致肌肉骨骼缺陷（如骨骼发育受损），但缺乏相应证据
+呋喃妥因
+在G6PD缺乏的妇女或胎儿中，会发生溶血。
+早孕期，足月（38~42周），分娩时，分娩发动前禁用
+在G6PD缺乏的妇女或胎儿中，会发生溶血。
+磺胺类（除柳氮磺胺吡啶外，该药对胎儿危害极小）
+妊娠34周以后给药会造成新生儿黄疸，如不给予治疗，则进展为核黄疸
+在G6PD缺乏的妇女或胎儿中，会发生溶血。
+减慢骨骼发育，牙釉质发育不全，牙齿永久性黄染，增加子代龋齿发生危险
+有时会导致孕妇肝功能衰竭
+甲氧苄氨嘧啶
+由于其拮抗叶酸的作用，会增加神经管缺陷的风险。
+应避免在孕早期
+低分子肝素（如依诺肝素）
+血小板减少症和产妇出血
+孕期相容；不能透过胎盘
+普通肝素
+血小板减少症和产妇出血
+与低分子肝素相同
+Xa因子抑制剂（如利伐沙班，阿哌沙班，依杜沙班）
+人体应用数据不足；这些药物似乎可以穿过胎盘，可能对胎儿造成伤害。
+没有逆转的解毒剂；孕妇禁用
+当在妊娠早期给药时，胎儿华法林综合征（如：鼻发育不全、骨点状、双侧视神经萎缩、不同程度的智力残疾）
+当在孕中期或孕晚期给药时，可导致视神经萎缩、白内障、智力障碍、小头畸形、小眼畸形，以及母体和胎儿出血。
+早孕期为绝对禁忌
+抗癫痫药†
+卡马西平
+新生儿出血性疾病
+先天畸形包括神经管缺陷的风险
+拉莫三嗪
+剂量高达600毫克/天，风险没有明显增加
+孕期兼容
+拉科酰胺
+没有关于孕妇使用相关胎儿风险的足够数据[1]
+建议谨慎，考虑收益是否大于潜在风险以及替代治疗方案
+左乙拉西坦
+在动物研究中，有轻微的骨骼畸形，但在人类中，无明显风险增加
+孕期相容
+苯巴比妥
+新生儿出血性疾病
+先天畸形的风险
+先天性畸形（如唇裂、尿道下裂等泌尿生殖系统缺陷，心血管缺陷）
+新生儿出血性疾病
+尽管补充叶酸，仍有发生先天畸形的持续风险
+三甲双酮
+先天性畸形高风险（如腭裂；心脏、颅面部、手和腹部缺陷）以及自发流产风险
+孕期几乎总是禁忌使用。
+丙戊酸盐
+主要的先天畸形（如神经管缺陷：脊髓脊膜膨出；心脏、颅面部和四肢缺陷）
+尽管补充叶酸，仍有发生先天畸形的持续风险
+抗抑郁药
+安非他酮
+早孕期药物暴露后，先天畸形发生的危险仍存在争议
+剂量受肝肾功能损害的影响
+西酞普兰
+如果在妊娠早期服用，会增加先天性畸形（尤其是心脏）的风险。
+晚孕期用药，导致停药综合征和持续性肺动脉高压
+咨询精神卫生执业医生，晚孕期考虑逐渐减少剂量
+艾司西酞普兰
+当在妊娠晚期给予，停药综合征和新生儿持续性肺动脉高压
+咨询精神卫生执业医生，晚孕期考虑逐渐减少剂量
+当在妊娠晚期给予，停药综合征和新生儿持续性肺动脉高压
+半衰期长；停药数周后仍会发生药物相互作用
+咨询精神卫生执业医生，晚孕期考虑逐渐减少剂量
+帕罗西汀
+如果在妊娠早期服用，会增加先天性畸形（尤其是心脏）的风险。
+当在妊娠晚期给予，停药综合征和新生儿持续性肺动脉高压
+一些专家不建议在妊娠期间使用*
+咨询精神卫生执业医生，晚孕期考虑逐渐减少剂量
+当在妊娠晚期给予，停药综合征和新生儿持续性肺动脉高压
+咨询精神卫生执业医生，晚孕期考虑逐渐减少剂量
+文拉法辛
+在妊娠晚期给药时，会出现停药综合征
+剂量受肝肾功能损伤影响很大
+咨询精神卫生执业医生，晚孕期考虑逐渐减少剂量
+多西拉敏和吡哆醇（维生素 B6）
+无导致先天畸形发生风险增加的证据
+甲氧氯普胺
+在妊娠晚期和/或分娩期间暴露的新生儿可能会出现异常肌肉运动（锥体外系症状）或高铁血红蛋白血症 [2]
+建议谨慎，考虑收益是否大于潜在风险以及替代治疗方案
+昂丹司琼
+在动物实验中无显著致畸风险
+如果在妊娠早期服用，可能有先天性心脏病的风险（证据薄弱）
+在妊娠期间仅用于其他治疗无效的妊娠剧吐患者
+在动物实验中无显著致畸风险
+总体上不增加先天畸形发生的风险
+可能导致新生儿血小板聚集性降低
+抗真菌药
+两性霉素B
+在动物实验中无显著致畸风险
+推荐监测母体全身毒性（电解质紊乱，肾功能障碍）
+动物实验显示高剂量有致畸性
+150mg/天的单次剂量，先天畸形发生的风险无明显增加
+大部分或整个早孕期服用高剂量氟康唑（> 400毫克/天），各种畸形的风险增加
+动物实验显示，口服有副反应
+皮肤外用，无明显的致先天畸形风险
+孕早期阴道内使用不会增加先天性畸形的风险
+动物实验显示，有副反应
+无显著的致先天畸形风险
+孕早期阴道内使用不会增加先天性畸形的风险
+抗组胺/抗胆碱能药物
+氯雷他定
+可能有尿道下裂（弱关联）
+美克洛嗪
+在啮齿动物中有致畸作用，但在人类无相应证据
+降糖药，口服
+氯磺丙脲
+新生儿低血糖
+格列本脲
+新生儿低血糖
+对胎儿的长期影响未知
+穿过胎盘
+二甲双胍
+新生儿低血糖
+对胎儿的长期影响未知
+可穿过胎盘；一般认为怀孕期间是安全的
+甲苯磺丁脲
+新生儿低血糖
+抗高血压药
+血管紧张素转化酶抑制剂（ACEI）
+中孕期或晚孕期服药导致胎儿颅骨发育异常和灌注减少（可导致肾脏缺陷），肾衰以及羊水过少系列并发症（羊水过少，颅面部畸形，四肢挛缩，肺发育不全）
+醛固酮拮抗剂
+螺内酯：可能使男性胎儿雌性化
+依普利酮，在动物研究中不会增加出生缺陷的风险
+β受体阻滞剂[3]
+拉贝洛尔因其对胎儿的安全性而成为妊娠期首选 β 受体阻滞剂
+阿替洛尔、普萘洛尔和其他非选择性 β 受体阻滞剂与胎儿心动过缓、低血糖以及可能的胎儿生长受限和早产有关
+钙通道阻滞剂
+硝苯地平和尼卡地平因其安全性而成为妊娠期间首选的钙通道阻滞剂[3, 4, 5]
+怀孕期间是安全的
+噻嗪利尿剂
+影响孕妇正常的血容量扩张，降低胎盘灌注，导致胎儿生长受限
+新生儿低钠血症，低钾血症和血小板减少症
+抗肿瘤药‡
+放线菌素
+对动物有致畸性，但在人类无相应证据
+先天性畸形（如胎儿生长受限，下颌骨发育不全，腭裂，颅骨成骨不全，脊髓缺陷，耳缺陷，畸形足）
+苯丙酸氮芥
+同白消安
+秋水仙碱
+未发现母亲在整个孕期（包括妊娠早期）因治疗家族性地中海热或其他风湿病而使用该药物会增加重大出生缺陷或流产的风险[6]
+环磷酰胺
+同白消安
+多柔比星
+对动物和人类均有致畸性
+可能导致剂量依赖性心功能不全
+在妊娠期间不推荐使用
+在有怀孕风险的时期以及男性或女性伴侣治疗后的6个月内，建议采取有效避孕措施。
+先天性畸形（如胎儿生长受限，下颌骨发育不全，腭裂，颅骨成骨不全，脊髓缺陷，耳缺陷，畸形足）
+甲氨蝶呤
+先天性畸形（如胎儿生长受限，下颌骨发育不全，腭裂，颅骨成骨不全，脊髓缺陷，耳缺陷，畸形足）
+妊娠期间禁用（异位妊娠除外），但异位妊娠需要初次随访确诊异位妊娠，以免在宫内妊娠时对胎儿造成伤害
+推荐最后一次给药后的8周内采取有效避孕措施
+对动物有致畸性，但在人类无相应证据
+长春新碱
+对动物有致畸性，但在人类无相应证据
+抗精神病药和情绪稳定剂
+阿立哌唑
+在妊娠晚期给予时，与新生儿异常肌肉运动（锥体外系症状）和/或戒断症状的风险相关[7]
+新生儿的症状可能包括烦躁、喂养问题、张力过高、张力过低、呼吸窘迫、嗜睡和震颤；这些影响可能是自限性的或需要住院治疗
+氟哌啶醇
+动物实验显示，有不良反应
+在妊娠早期给予，可能会导致肢体畸形
+当在妊娠晚期给予时，增加新生儿锥体外系症状或戒断症状的风险
+鲁拉西酮
+在动物研究中，无不良反应的证据
+当在妊娠晚期给予时，增加新生儿锥体外系症状或戒断症状的风险
+动物实验显示，有不良反应
+早孕期服用，有致畸性（心脏畸形）
+妊娠后期给药，新生儿嗜睡、张力低下、喂养不良、甲状腺功能减退、甲状腺肿大、肾源性尿崩症
+动物实验显示，有不良反应
+当在妊娠晚期给予时，增加新生儿锥体外系症状或戒断症状的风险
+动物实验显示，有不良反应
+根据有限的数据，不增加致畸风险
+当在妊娠晚期给予时，增加新生儿锥体外系症状或戒断症状的风险
+抗焦虑药
+苯二氮䓬类
+当在妊娠后期服用时，呼吸抑制或新生儿戒断综合征可引起烦躁、震颤和反射亢进
+非甾体类抗炎药(NSAIDs)
+阿司匹林和其他水杨酸类非甾体抗炎药
+胎儿核黄疸
+大剂量使用导致早孕期自然流产，分娩发动延迟，胎儿动脉导管早闭，黄疸，有时造成母亲（产时或产后）和新生儿出血，坏死性小肠结肠炎和羊水过少
+使用低剂量阿司匹林（81-160毫克）导致无显著致畸风险
+如果对胎儿进行仔细监测，则可以在妊娠中期短暂使用
+非水杨酸盐 NSAID（例如布洛芬、吲哚美辛）
+似乎不会导致重大畸形
+在妊娠中期使用可能会增加羊水过少的风险
+阿片类和部分激动剂
+丁丙诺啡
+在动物实验中有副反应，但无致畸作用
+新生儿阿片类戒断综合征的风险（新生儿戒断综合征）
+与使用违禁药物的孕妇相比，胎儿预后有所改善
+二氢吗啡酮
+对于阿片类药物成瘾母亲的新生儿，可能在出生后6小时至8天内出现戒断症状
+分娩前一小时大剂量给药，可能导致新生儿中枢神经系统抑制和心动过缓
+动物实验显示，有副反应
+很难将美沙酮对孕妇的特定作用与伴随药物（如违禁药物）的作用区分开来
+新生儿阿片类戒断综合征风险
+与使用违禁药物的孕妇相比，胎儿预后有所改善
+分娩过程中可能需要快速短效镇痛药补充维持剂量
+类维生素A
+异维A酸
+高度致畸风险（例如多发先天性畸形），自发流产和智力发育障碍
+妊娠期间和可能怀孕的患者禁用
+炔羟雄烯异唑
+如果在前14周内服用，可能导致女性胎儿生殖器的男性化（例如假两性畸形）。
+妊娠时禁忌使用
+激素类避孕药
+怀孕前或怀孕期间接触雌激素-孕激素避孕药似乎与严重出生缺陷风险增加无关 [8, 9]
+接触醋酸甲羟孕酮似乎不会增加重大出生缺陷的风险 [10]，但一些数据表明，在妊娠前 4 个月服用孕激素会增加出生缺陷的风险（男性尿道下裂，女性阴蒂增大和阴唇融合）[11]
+孕期无使用适应症；应停止使用
+17-羟基孕酮己酸酯
+在妊娠中期或晚期服用时，与妊娠期糖尿病的风险增加相关（弱相关性）[12]
+怀孕前三个月禁用
+黄体酮（口服或阴道）
+怀孕期间接触与主要出生缺陷风险增加无关[13]
+甲状腺药物
+左甲状腺素
+具有既定安全性的孕产妇甲状腺功能减退症的首选治疗方法
+甲巯咪唑
+胎儿甲状腺肿、面部畸形、新生儿头皮缺陷（皮肤发育不全）和其他潜在异常
+怀孕前三个月禁用
+丙硫氧嘧啶
+胎儿甲状腺肿大、产妇的肝毒性和粒细胞缺乏症
+通常用于怀孕的前三个月
+放射性碘(131I)
+破坏胎儿甲状腺，或者在早孕期的最后阶段用药导致严重的胎儿甲亢
+儿童患癌症的风险增加
+怀孕期间绝对禁忌
+碘化钾饱和溶液
+胎儿巨大甲状腺肿可能导致新生儿呼吸阻塞
+三碘甲状腺原氨酸
+胎儿甲状腺肿
+超声检测胎儿是否存在甲状腺肿大的可能
+疫苗[14]
+COVID-19疫苗
+安全监测系统的早期数据没有发现孕妇、胎儿或新生儿存在安全问题[15]
+灭活的流感疫苗
+对孕妇、胎儿或新生儿没有安全隐患 [16]
+破伤风、减量白喉类毒素、无细胞百日咳 (Tdap) 疫苗
+对孕妇、胎儿或新生儿没有安全隐患 [17]
+活病毒疫苗如麻疹、流行性腮腺炎和风疹疫苗；脊髓灰质炎疫苗；水痘疫苗和黄热病疫苗
+风疹和水痘疫苗有潜在感染胎盘和发育中胎儿的风险
+其他活疫苗存在潜在但未知的风险
+怀孕或可能怀孕的患者禁用
+皮质类固醇
+在妊娠早期使用时，可能出现口面裂
+常规剂量不增加风险
+可以在妊娠头三个月开始使用，以降低风险
+母体氨基转移酶水平可能暂时升高，周围神经病变
+不得与其他肝毒性药物配伍使用
+伪麻黄碱
+胎盘血管收缩和可能腹裂的风险
+Nirmatrelvir-ritonavir
+考虑用于患有早期轻度至中度 COVID-19 的妊娠患者，特别是具有至少一种导致重症的其他危险因素的患者
+维生素A
+先天畸形
+产前维生素通常存在的量（5,000 IU/天），与致畸风险无关，但妊娠早期剂量>10,000 IU/天可能存在风险
+维生素 K
+在G6PD缺乏妇女或胎儿，导致溶血
+*美国妇产科医师协会（ACOG）推荐避免孕期使用帕罗西汀（见ACOG委员会第354号意见：妊娠期使用选择性血清素再摄取抑制剂治疗）。
+†抗癫痫药物布瓦西坦和埃斯利卡西平可用；关于它们在怀孕期间的影响，几乎没有任何信息。
+‡欧洲肿瘤医学学会(ESMO)妊娠期癌症诊断、治疗和随访指南建议，如果需要化疗，一般不应在妊娠前三个月进行化疗，但可以在妊娠中期开始；最后一次化疗剂量应在预产期前≥3周给予，妊娠第33周后不应给予化疗。Peccatori FA, Azim HA Jr, Orecchia R, et al: Cancer, pregnancy and fertility: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up.Ann Oncol24 Suppl 6:vi160-vi170, 2013.doi:10.1093/annonc/mdt199
+1.Hoeltzenbein M, Slimi S, Fietz AK, et al.Increasing use of newer antiseizure medication during pregnancy: an observational study with special focus onlacosamide.Seizure107:107-113, 2023.doi:10.1016/j.seizure.2023.02.015
+2.Sun L, Xi Y, Wen X, Zou W: Use ofmetoclopramidein the first trimester and risk of major congenital malformations: a systematic review and meta-analysis.PLoS One16(9):e0257584, 2021.Published 2021 Sep 20.doi:10.1371/journal.pone.0257584
+3.Easterling T, Mundle S, Bracken H, et al: Oral antihypertensive regimens (nifedipine retard,labetalol, andmethyldopa) for management of severe hypertension in pregnancy: an open-label, randomised controlled trial.Lancet394(10203):1011-1021, 2019.doi:10.1016/S0140-6736(19)31282-6
+4.Bellos I, Pergialiotis V, Papapanagiotou A, et al: Comparative efficacy and safety of oral antihypertensive agents in pregnant women with chronic hypertension: a network metaanalysis.Am J Obstet Gynecol223(4):525-537, 2020.doi:10.1016/j.ajog.2020.03.016
+5.Sridharan K, Sequeira RP: Drugs for treating severe hypertension in pregnancy: a network meta-analysis and trial sequential analysis of randomized clinical trials.Br J Clin Pharmacol84(9):1906-1916, 2018.doi:10.1111/bcp.13649
+6.Indraratna PL, Virk S, Gurram D, Day RO: Use of colchicine in pregnancy: a systematic review and meta-analysis.Rheumatology (Oxford)57(2):382-387, 2018.doi:10.1093/rheumatology/kex353
+7.Larsen ER, Damkier P, Pedersen LH, et al: Use of psychotropic drugs during pregnancy and breast-feeding.Acta Psychiatr Scand Suppl445:1-28, 2015.doi:10.1111/acps.12479
+8.Charlton BM, Molgaard-Nielsen D, Svanstrom H, et al: Maternal use of oral contraceptives and risk of birth defects in Denmark: prospective, nationwide cohort study.BMJ352:h6712, 2016.Published 2016 Jan 6.doi:10.1136/bmj.h6712
+9.Waller DK, Gallaway MS, Taylor LG, et al: Use of oral contraceptives in pregnancy and major structural birth defects in offspring.Epidemiology21(2):232-239, 2010.doi:10.1097/EDE.0b013e3181c9fbb3
+10.Yovich JL, Turner SR, Draper R:Medroxyprogesteroneacetate therapy in early pregnancy has no apparent fetal effects.Teratology38(2):135-144, 1988.doi:10.1002/tera.1420380206
+11.Carmichael SL, Shaw GM, Laurent C, et al: Maternalprogestinintake and risk of hypospadias.Arch Pediatr Adolesc Med159(10):957-962, 2005.doi:10.1001/archpedi.159.10.957
+12.Pergialiotis V, Bellos I, Hatziagelaki E, et al:Progestogensfor the prevention of preterm birth and risk of developing gestational diabetes mellitus: a meta-analysis.Am J Obstet Gynecol221(5):429-436.e5, 2019.doi:10.1016/j.ajog.2019.05.033
+13.O'Brien JM, Steichen JJ, Phillips JA, et al: 490: Two year infant outcomes for children exposed to supplemental intravaginalprogesteronegel in utero: secondary analysis of a multicenter, randomized, double-blind, placebo-controlled trial,American Journal of Obstetrics and Gynecology, Volume 206, Issue 1, Supplement, 2012, Page S223, ISSN 0002-9378, https://doi.org/10.1016/j.ajog.2011.10.508
+14.The American College of Obstetricians and Gynecologists (ACOG): Practice Advisory: Maternal immunization, October 2022.Accessed August 29, 2023.
+15.ACOG: Practice Advisory: Vaccinating pregnant and lactating patients against COVID-19.December 2020.Accessed August 29, 2023.
+16.ACOG: Committee Opinion No. 732: Influenza vaccination during pregnancy.Obstet Gynecol131(4):e109-e114, 2018.doi:10.1097/AOG.0000000000002588
+17.ACOG: Committee Opinion No. 718: Update on immunization and pregnancy: tetanus, diphtheria, and pertussis vaccination.Obstet Gynecol130(3):e153-e157, 2017.doi:10.1097/AOG.0000000000002301
+ACE=血管紧张素转化酶；ACIP=免疫接种咨询委员会；CDC=疾病预防控制中心；CNS= 中枢神经系统；G6PD=葡萄糖-6-磷酸脱氢酶；OB/GYN=妇产科学。
+*美国妇产科医师协会（ACOG）推荐避免孕期使用帕罗西汀（见ACOG委员会第354号意见：妊娠期使用选择性血清素再摄取抑制剂治疗）。
+†抗癫痫药物布瓦西坦和埃斯利卡西平可用；关于它们在怀孕期间的影响，几乎没有任何信息。
+‡欧洲肿瘤医学学会(ESMO)妊娠期癌症诊断、治疗和随访指南建议，如果需要化疗，一般不应在妊娠前三个月进行化疗，但可以在妊娠中期开始；最后一次化疗剂量应在预产期前≥3周给予，妊娠第33周后不应给予化疗。Peccatori FA, Azim HA Jr, Orecchia R, et al: Cancer, pregnancy and fertility: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up.Ann Oncol24 Suppl 6:vi160-vi170, 2013.doi:10.1093/annonc/mdt199
+1.Hoeltzenbein M, Slimi S, Fietz AK, et al.Increasing use of newer antiseizure medication during pregnancy: an observational study with special focus onlacosamide.Seizure107:107-113, 2023.doi:10.1016/j.seizure.2023.02.015
+2.Sun L, Xi Y, Wen X, Zou W: Use ofmetoclopramidein the first trimester and risk of major congenital malformations: a systematic review and meta-analysis.PLoS One16(9):e0257584, 2021.Published 2021 Sep 20.doi:10.1371/journal.pone.0257584
+3.Easterling T, Mundle S, Bracken H, et al: Oral antihypertensive regimens (nifedipine retard,labetalol, andmethyldopa) for management of severe hypertension in pregnancy: an open-label, randomised controlled trial.Lancet394(10203):1011-1021, 2019.doi:10.1016/S0140-6736(19)31282-6
+4.Bellos I, Pergialiotis V, Papapanagiotou A, et al: Comparative efficacy and safety of oral antihypertensive agents in pregnant women with chronic hypertension: a network metaanalysis.Am J Obstet Gynecol223(4):525-537, 2020.doi:10.1016/j.ajog.2020.03.016
+5.Sridharan K, Sequeira RP: Drugs for treating severe hypertension in pregnancy: a network meta-analysis and trial sequential analysis of randomized clinical trials.Br J Clin Pharmacol84(9):1906-1916, 2018.doi:10.1111/bcp.13649
+6.Indraratna PL, Virk S, Gurram D, Day RO: Use of colchicine in pregnancy: a systematic review and meta-analysis.Rheumatology (Oxford)57(2):382-387, 2018.doi:10.1093/rheumatology/kex353
+7.Larsen ER, Damkier P, Pedersen LH, et al: Use of psychotropic drugs during pregnancy and breast-feeding.Acta Psychiatr Scand Suppl445:1-28, 2015.doi:10.1111/acps.12479
+8.Charlton BM, Molgaard-Nielsen D, Svanstrom H, et al: Maternal use of oral contraceptives and risk of birth defects in Denmark: prospective, nationwide cohort study.BMJ352:h6712, 2016.Published 2016 Jan 6.doi:10.1136/bmj.h6712
+9.Waller DK, Gallaway MS, Taylor LG, et al: Use of oral contraceptives in pregnancy and major structural birth defects in offspring.Epidemiology21(2):232-239, 2010.doi:10.1097/EDE.0b013e3181c9fbb3
+10.Yovich JL, Turner SR, Draper R:Medroxyprogesteroneacetate therapy in early pregnancy has no apparent fetal effects.Teratology38(2):135-144, 1988.doi:10.1002/tera.1420380206
+11.Carmichael SL, Shaw GM, Laurent C, et al: Maternalprogestinintake and risk of hypospadias.Arch Pediatr Adolesc Med159(10):957-962, 2005.doi:10.1001/archpedi.159.10.957
+12.Pergialiotis V, Bellos I, Hatziagelaki E, et al:Progestogensfor the prevention of preterm birth and risk of developing gestational diabetes mellitus: a meta-analysis.Am J Obstet Gynecol221(5):429-436.e5, 2019.doi:10.1016/j.ajog.2019.05.033
+13.O'Brien JM, Steichen JJ, Phillips JA, et al: 490: Two year infant outcomes for children exposed to supplemental intravaginalprogesteronegel in utero: secondary analysis of a multicenter, randomized, double-blind, placebo-controlled trial,American Journal of Obstetrics and Gynecology, Volume 206, Issue 1, Supplement, 2012, Page S223, ISSN 0002-9378, https://doi.org/10.1016/j.ajog.2011.10.508
+14.The American College of Obstetricians and Gynecologists (ACOG): Practice Advisory: Maternal immunization, October 2022.Accessed August 29, 2023.
+15.ACOG: Practice Advisory: Vaccinating pregnant and lactating patients against COVID-19.December 2020.Accessed August 29, 2023.
+16.ACOG: Committee Opinion No. 732: Influenza vaccination during pregnancy.Obstet Gynecol131(4):e109-e114, 2018.doi:10.1097/AOG.0000000000002588
+17.ACOG: Committee Opinion No. 718: Update on immunization and pregnancy: tetanus, diphtheria, and pertussis vaccination.Obstet Gynecol130(3):e153-e157, 2017.doi:10.1097/AOG.0000000000002301
+ACE=血管紧张素转化酶；ACIP=免疫接种咨询委员会；CDC=疾病预防控制中心；CNS= 中枢神经系统；G6PD=葡萄糖-6-磷酸脱氢酶；OB/GYN=妇产科学。
+
+【妊娠期疫苗接种】
+免疫接种对孕妇和非孕妇女同样有效。
+流感疫苗建议所有孕妇在流感季节接种。
+破伤风-白喉-百日咳(Tdap) 疫苗建议所有孕妇在妊娠晚期接种。
+CDC 建议COVID-19 疫苗接种适用于所有 5 岁及以上的人，包括怀孕、哺乳、试图怀孕或将来可能怀孕的人。 关于怀孕期间接种 COVID-19 疫苗的安全性和有效性的证据越来越多。  这些数据表明，接种 COVID-19 疫苗的好处超过了怀孕期间接种疫苗的任何已知或潜在风险。 (参见CDC: COVID-19 Vaccines While Pregnant or Breastfeeding。）
+2023年8月，美国食品和药物管理局批准在妊娠 32 至 36 周之间的孕妇中使用呼吸道合胞病毒（RSV）疫苗，并警告避免在 32 周之前使用。临床试验发现，与安慰剂相比，产前接种 RSV 疫苗后，孕妇的早产率和先兆子痫发生率增加，以及婴儿的低出生体重和黄疸发生率增加；需要进一步研究来评估这些潜在风险（3）。
+其他疫苗应保留用于孕妇或胎儿暴露于危险感染的风险较高且疫苗不良反应风险较低的情况。如果感染风险很大，可以在怀孕期间接种霍乱、甲型肝炎、乙型肝炎、麻疹、腮腺炎、瘟疫、脊髓灰质炎、狂犬病、伤寒和黄热病疫苗。
+不应该给孕妇或可能怀孕的妇女接种减毒活疫苗。风疹疫苗是一种减毒活疫苗，可能引起亚临床的胎盘和胎儿感染。  然而，并没有新生儿缺陷是由于风疹疫苗所致，对于早孕期意外接种了该疫苗的妇女，不建议仅仅因为接种疫苗理论上的风险而终止妊娠。水痘疫苗是另一种减毒活疫苗，有感染胎儿的可能；孕13到22周感染风险最大。  孕期禁止接种该疫苗。
+
+【孕期抗病毒药物】
+一些抗病毒药物（如用于 HIV 感染的齐多夫定和利托那韦）已在怀孕期间安全使用多年。  然而，一些抗病毒药物可能对胎儿有重大风险。
+怀孕与重症新冠肺炎的风险增加有关。对于患有早期轻度至中度 COVID-19 的孕妇，美国国立卫生研究院（NIH）建议在有指征时使用奈玛特韦-利托那韦（4）或瑞德西韦（5）。美国妇产科学会建议可以考虑使用奈玛特韦-利托那韦，特别是对于具有至少一个其他重症风险因素的患者。对于因 COVID-19 住院的孕妇，美国国立卫生研究院建议在有指征时使用巴瑞替尼或托珠单抗。
+应尽早开始使用流感抗病毒药物，而不要等待检测结果确诊，因为在发病48小时内治疗最有效。但在感染期间的任何时候开始治疗都可以降低发生严重并发症的风险。 尚未在孕妇中进行扎那米韦和奥司他韦的对照临床研究；但许多观察性研究表明，在怀孕期间使用它们并不会增加不良反应的风险。  关于帕拉米韦在怀孕期间安全性的数据较少，也没有关于孕妇使用巴洛沙韦的数据。 医护人员应告诉孕妇流感的症状和体征是什么，并建议她们在出现症状后立即寻求治疗。
+妊娠期阿昔洛韦（口服和局部给药）是安全的。
+
+【妊娠期抗抑郁药】
+抗抑郁药，特别是选择性血清素再摄取抑制剂 (SSRI)，在怀孕期间常用，因为怀孕期间临床抑郁症的患病率很高（一项综述为 7% 至 12%）（6）。 怀孕期间的生理和心理变化会影响抑郁症（可能恶化），并可能降低抗抑郁药物的反应。  理想情况下，包括产科医师和精神科专科医师的多学科团队应在妊娠期间管理抑郁症。
+每次产前检查时，应询问服用抗抑郁药的孕妇的抑郁症状，并做相应的胎儿检测。  包括以下内容：
+中孕期详细评估胎儿的解剖发育情况
+中孕期详细评估胎儿的解剖发育情况
+如果孕妇服用帕罗西汀，应做超声心动图评估胎儿的心脏发育，因为在一些研究中帕罗西汀可能增加胎儿先天性心脏畸形的风险
+如果孕妇服用帕罗西汀，应做超声心动图评估胎儿的心脏发育，因为在一些研究中帕罗西汀可能增加胎儿先天性心脏畸形的风险
+为了降低新生儿出现戒断症状的风险，临床医生应考虑在妊娠晚期将所有抗抑郁药的剂量逐渐减至最低有效剂量。  然而，必须权衡减量的益处和症状复发及产后抑郁症发生的风险。产后抑郁症普遍存在，常常未被认识到，需要及时治疗。 定期咨询精神科医师和/或社会工作者可能会有帮助。
+
+【参考文献】
+1.Centers for Disease Control and Prevention (CDC): Update on overall prevalence of major birth defects--Atlanta, Georgia, 1978-2005.MMWR Morb Mortal Wkly Rep57(1):1-5, 2008.
+1.Centers for Disease Control and Prevention (CDC): Update on overall prevalence of major birth defects--Atlanta, Georgia, 1978-2005.MMWR Morb Mortal Wkly Rep57(1):1-5, 2008.
+2.Feldkamp ML, Carey JC, Byrne JLB, Krikov S, Botto LD: Etiology and clinical presentation of birth defects: population based study.BMJ357:j2249, 2017.Published 2017 May 30.doi:10.1136/bmj.j2249
+2.Feldkamp ML, Carey JC, Byrne JLB, Krikov S, Botto LD: Etiology and clinical presentation of birth defects: population based study.BMJ357:j2249, 2017.Published 2017 May 30.doi:10.1136/bmj.j2249
+3.U.S. Food and Drug Administration (FDA): FDA Approves First Vaccine for Pregnant Individuals to Prevent RSV in Infants.FDA News Release, August 21, 2023.
+3.U.S. Food and Drug Administration (FDA): FDA Approves First Vaccine for Pregnant Individuals to Prevent RSV in Infants.FDA News Release, August 21, 2023.
+4.Garneau WM, Jones-Beatty K, Ufua MO, et al: Analysis of clinical outcomes of pregnant patients treated withnirmatrelvirandritonavirfor acute SARS-CoV-2 infection.JAMA Netw Open5(11):e2244141, 2022.Published 2022 Nov 1.doi:10.1001/jamanetworkopen.2022.44141
+4.Garneau WM, Jones-Beatty K, Ufua MO, et al: Analysis of clinical outcomes of pregnant patients treated withnirmatrelvirandritonavirfor acute SARS-CoV-2 infection.JAMA Netw Open5(11):e2244141, 2022.Published 2022 Nov 1.doi:10.1001/jamanetworkopen.2022.44141
+5.Liggins GC, Howie RN: A controlled trial of antepartum glucocorticoid treatment for prevention of the respiratory distress syndrome in premature infants.Pediatrics50(4):515-525, 1972.
+5.Liggins GC, Howie RN: A controlled trial of antepartum glucocorticoid treatment for prevention of the respiratory distress syndrome in premature infants.Pediatrics50(4):515-525, 1972.
+6.Bennett HA, Einarson A, Taddio A, et al: Prevalence of depression during pregnancy: systematic review [published correction appears inObstet Gynecol103(6):1344, 2004].Obstet Gynecol103(4):698-709, 2004.doi:10.1097/01.AOG.0000116689.75396.5f
+6.Bennett HA, Einarson A, Taddio A, et al: Prevalence of depression during pregnancy: systematic review [published correction appears inObstet Gynecol103(6):1344, 2004].Obstet Gynecol103(4):698-709, 2004.doi:10.1097/01.AOG.0000116689.75396.5f
+
+【更多信息】
+The FDA's Content and Format of Labeling for Human Prescription Drug and Biological Products; Requirements for Pregnancy and Lactation Labeling：本文件讨论了妊娠用药标签的变化，它取消了妊娠期用药风险分类（A、B、C、D、X），并以更有用和更详细的信息取而代之。 新标签要求提供孕期和哺乳期间药物使用风险的摘要、支持该摘要的数据以及帮助医护人员做出处方决定和建议孕妇在怀孕期间和哺乳期间药物使用的相关信息。
+The FDA's Content and Format of Labeling for Human Prescription Drug and Biological Products; Requirements for Pregnancy and Lactation Labeling：本文件讨论了妊娠用药标签的变化，它取消了妊娠期用药风险分类（A、B、C、D、X），并以更有用和更详细的信息取而代之。 新标签要求提供孕期和哺乳期间药物使用风险的摘要、支持该摘要的数据以及帮助医护人员做出处方决定和建议孕妇在怀孕期间和哺乳期间药物使用的相关信息。
+致畸信息系统：该网站提供资源以帮助临床医生确定怀孕期间药物（和环境暴露 [例如疫苗、感染]）的风险。 它提供了超过 1700 种药物（包括 200 种最常用的处方药）的专家信息。  总结了临床和实验文献，并根据这些信息确定了致畸风险。  需要订阅。
+致畸信息系统：该网站提供资源以帮助临床医生确定怀孕期间药物（和环境暴露 [例如疫苗、感染]）的风险。 它提供了超过 1700 种药物（包括 200 种最常用的处方药）的专家信息。  总结了临床和实验文献，并根据这些信息确定了致畸风险。  需要订阅。

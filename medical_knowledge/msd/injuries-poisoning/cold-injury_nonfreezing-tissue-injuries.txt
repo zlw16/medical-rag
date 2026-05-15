@@ -1,0 +1,39 @@
+标题：非冻结性组织损伤
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/cold-injury/nonfreezing-tissue-injuries
+============================================================
+
+最轻的冻伤是亚冻伤。受伤部位麻木、肿胀和发红。治疗方法是复温，复温会引起疼痛和瘙痒。极少数情况下，对寒冷的轻度高敏反应可以持续数月到数年，但不会引起深层组织永久性损伤。
+
+【浸渍（战壕）足】
+长时间暴露于湿冷环境中能引起浸渍足。通常，损伤仅限于周围神经和脉管系统，尽管在严重的情况下可能会损伤肌肉和皮肤组织。
+最初，双足呈现苍白、水肿、湿冷、冰冷和麻木。如果病人走路过多可致组织浸软。复温可导致充血、疼痛，且常出现对轻触的高敏反应，可持续 6~10 周。皮肤可出现溃烂和黑色结痂。自主功能紊乱也很常见，表现为出汗增多或减少，血管舒缩功能改变和温度改变后局部的超敏反应。也可发生肌肉萎缩和感觉迟钝或麻痹，而且会演变为慢性。
+不穿过紧的鞋靴、保持双足和鞋靴干燥、勤换袜子可以预防浸渍足 (1)。
+快速治疗方法就是将受损部位浸在温水（37~39°C）中复温，之后敷以无菌敷料。应避免尼古丁(2)。慢性神经性症状难以治疗；如果阿米替林无效，可以尝试加巴喷丁(参见神经性疼痛：治疗)。
+由于反复暴露于潮湿的非冻结的寒冷中可致局限性红斑、肿胀、疼痛和瘙痒；其机制尚不清楚。亦可发生水疱或溃烂。冻疮最常发生于手指和胫骨前区域且为自限性。偶尔，症状可复发。年轻女性最常受影响，包括一些可能患有雷诺现象或潜在的自身免疫性疾病（如系统性或皮肤性红斑狼疮）的女性(3)。
+中节指骨有局部红斑并且出现肿胀。
+中节指骨有局部红斑并且出现肿胀。
+© Springer Science+Business Media
+脚垫肿胀和起泡是由于反复暴露在寒冷中而没有冻结造成的。
+脚垫肿胀和起泡是由于反复暴露在寒冷中而没有冻结造成的。
+Image courtesy of Karen McKoy, MD.
+这张图片显示了冻疮的肿胀和红斑。
+这张图片显示了冻疮的肿胀和红斑。
+Image courtesy of Karen McKoy, MD.
+中节指骨有局部红斑并且出现肿胀。
+中节指骨有局部红斑并且出现肿胀。
+© Springer Science+Business Media
+脚垫肿胀和起泡是由于反复暴露在寒冷中而没有冻结造成的。
+脚垫肿胀和起泡是由于反复暴露在寒冷中而没有冻结造成的。
+Image courtesy of Karen McKoy, MD.
+这张图片显示了冻疮的肿胀和红斑。
+这张图片显示了冻疮的肿胀和红斑。
+Image courtesy of Karen McKoy, MD.
+内皮和神经元损伤会导致血管痉挛和对寒冷的交感神经过度反应。一线治疗通常涉及保守措施，例如保持患处温暖干燥，避免吸烟。支持使用药物的数据有限。硝苯地平和外用皮质类固醇是最常用的药物，可能有助于减轻症状。其他方法，如己酮可可碱或他达拉非，也可能有益（3）。
+
+【参考文献】
+1.Mistry K, Ondhia C, Levell NJ.A review of trench foot: a disease of the past in the present.Clin Exp Dermatol.2020 Jan;45(1):10-14.doi: 10.1111/ced.14031
+1.Mistry K, Ondhia C, Levell NJ.A review of trench foot: a disease of the past in the present.Clin Exp Dermatol.2020 Jan;45(1):10-14.doi: 10.1111/ced.14031
+2.Zafren K, Hollis S, Weiss EA, et al.Prevention and Treatment of Nonfreezing Cold Injuries and Warm Water Immersion Tissue Injuries: Supplement to Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Frostbite.Wilderness and Environmental Medicine.34(2):172-81, 2023.doi.org/10.1016/j.wem.2023.02.006
+2.Zafren K, Hollis S, Weiss EA, et al.Prevention and Treatment of Nonfreezing Cold Injuries and Warm Water Immersion Tissue Injuries: Supplement to Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Frostbite.Wilderness and Environmental Medicine.34(2):172-81, 2023.doi.org/10.1016/j.wem.2023.02.006
+3.Dubey S, Joshi N, Stevenson O, Gordon C, Reynolds JA.Chilblains in immune-mediated inflammatory diseases: a review.Rheumatology (Oxford).2022 Nov 28;61(12):4631-4642
+3.Dubey S, Joshi N, Stevenson O, Gordon C, Reynolds JA.Chilblains in immune-mediated inflammatory diseases: a review.Rheumatology (Oxford).2022 Nov 28;61(12):4631-4642

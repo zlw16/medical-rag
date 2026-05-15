@@ -1,0 +1,173 @@
+标题：人乳头瘤病毒（HPV）感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/sexually-transmitted-infections-stis/human-papillomavirus-hpv-infection
+============================================================
+
+(参见性传播感染疾病概述。）
+人乳头瘤病毒（HPV）感染是最常见的性传播感染。HPV 感染极为普遍，超过80%的性活跃未接种者在其一生中会感染该病毒。（1，2）。
+在美国，每年约有1300万人新感染HPV；在HPV疫苗投入使用前（3，4），每年约有34万至36万患者因HPV引起的生殖器疣寻求治疗（5）。
+大多数HPV感染在1～2年内被机体自行清除 。持续存在的这些感染可发展为宫颈癌、肛门癌、口咽癌和其他癌症（6）。
+
+【参考文献】
+1.Centers for Disease Control and Prevention (CDC): Clinical Overview of HPV.Accessed February 6, 2025.
+1.Centers for Disease Control and Prevention (CDC): Clinical Overview of HPV.Accessed February 6, 2025.
+2.Gardella B, Pasquali MF, Dominoni M.Human Papillomavirus Cervical Infection: Many Ways to a Single Destination.Vaccines (Basel).2022;11(1):22.Published 2022 Dec 22.doi:10.3390/vaccines11010022
+2.Gardella B, Pasquali MF, Dominoni M.Human Papillomavirus Cervical Infection: Many Ways to a Single Destination.Vaccines (Basel).2022;11(1):22.Published 2022 Dec 22.doi:10.3390/vaccines11010022
+3.CDC: About HPV.Accessed February 6, 2025.
+3.CDC: About HPV.Accessed February 6, 2025.
+4.Lewis RM, Laprise JF, Gargano JW, et al.Estimated Prevalence and Incidence of Disease-Associated Human Papillomavirus Types Among 15- to 59-Year-Olds in the United States.Sex Transm Dis.2021;48(4):273-277.doi:10.1097/OLQ.0000000000001356
+4.Lewis RM, Laprise JF, Gargano JW, et al.Estimated Prevalence and Incidence of Disease-Associated Human Papillomavirus Types Among 15- to 59-Year-Olds in the United States.Sex Transm Dis.2021;48(4):273-277.doi:10.1097/OLQ.0000000000001356
+5.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+5.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+6.Markowitz LE, Unger ER.Human Papillomavirus Vaccination.N Engl J Med.2023;388(19):1790-1798.doi:10.1056/NEJMcp2108502
+6.Markowitz LE, Unger ER.Human Papillomavirus Vaccination.N Engl J Med.2023;388(19):1790-1798.doi:10.1056/NEJMcp2108502
+
+【HPV感染的病因】
+已知约有 > 100种HPV的分型。有些感染了皮肤上皮细胞，导致常见的皮肤疣。有些主要感染肛门生殖器区域的粘膜，以及口咽和喉部区域。
+肛门生殖器HPV的重要临床表现包括
+生殖器疣（尖锐湿疣）
+生殖器疣（尖锐湿疣）
+上皮内瘤样变和子宫颈、 外阴，阴道，肛门、阴茎癌
+上皮内瘤样变和子宫颈、 外阴，阴道，肛门、阴茎癌
+喉癌和口咽癌
+喉癌和口咽癌
+鲍文样丘疹病
+鲍文样丘疹病
+尖锐湿疣为良性肛生殖器疣，最常由 HPV 6 型和 11 型引起；这些类型的病毒也可导致喉部及口咽部疣。
+与HPV相关的宫颈癌前病变被称为鳞状上皮内病变或宫颈上皮内瘤变。几乎所有宫颈癌本身由HPV引起；约70%由16型和18型导致，其余多数则由31、33、45、52及58型引发（1）。HPV16型和18型也可在其他部位引起癌症，包括外阴、阴道、肛门和阴茎。肛门生殖器区域的HPV亚型感染可能会通过口交传播到口咽部位; 许多口咽癌患者中存在16型HPV感染。
+
+【病因参考文献】
+1.de Martel C, Plummer M, Vignat J, Franceschi S.Worldwide burden of cancer attributable to HPV by site, country and HPV type.Int J Cancer.2017;141(4):664-670.doi:10.1002/ijc.30716
+1.de Martel C, Plummer M, Vignat J, Franceschi S.Worldwide burden of cancer attributable to HPV by site, country and HPV type.Int J Cancer.2017;141(4):664-670.doi:10.1002/ijc.30716
+
+【HPV感染的症状和体征】
+由HPV引起的疣在潜伏期1至6个月后出现。
+可见的肛门生殖器疣通常很小（直径<3毫米）、柔软的斑块或丘疹，光滑或乳头状，并且经常成簇出现。它们可能是肤色的，或者隆起的表面可能会变白。疣可能在数周至数月内增大或数量增多。
+疣通常无症状，但有些患者可有瘙痒、烧灼感或不适感。
+在男性，常发生于包皮下区，冠状沟，尿道口内和阴茎体上。它们可能发生在肛门周围和直肠，尤其多见于男男性行为者。
+在女性中，尖锐湿疣最常见于外阴、阴道壁、宫颈和会阴；尿道和肛门区域也可能有感染。
+HPV16型和18型通常导致宫颈或肛门上皮内病变，临床上很难看到和诊断。
+这张照片显示了阴茎体上的小而柔软的粉红色生殖器疣。
+这张照片显示了阴茎体上的小而柔软的粉红色生殖器疣。
+© Springer Science+Business Media
+这张照片显示阴茎冠状沟内有粉红色凸起的生殖器疣（箭头所指）。
+这张照片显示阴茎冠状沟内有粉红色凸起的生殖器疣（箭头所指）。
+© Springer Science+Business Media
+这张照片显示在龟头上出现典型的粗糙、有蒂尖锐湿疣。
+这张照片显示在龟头上出现典型的粗糙、有蒂尖锐湿疣。
+© Springer Science+Business Media
+外阴部位的尖锐湿疣可凸起，颜色浅，表面不规则，粗糙。
+外阴部位的尖锐湿疣可凸起，颜色浅，表面不规则，粗糙。
+Image courtesy of Joe Millar via the Public Health Image Library of the Centers for Disease Control and Prevention.
+这张照片显示肛门周围有严重的生殖器疣病例。
+这张照片显示肛门周围有严重的生殖器疣病例。
+Photo courtesy of Karen McKoy, MD.
+这张照片显示阴囊和会阴区域出现疣体。
+这张照片显示阴囊和会阴区域出现疣体。
+Photo courtesy of Karen McKoy, MD.
+这张照片显示了阴茎体上的小而柔软的粉红色生殖器疣。
+这张照片显示了阴茎体上的小而柔软的粉红色生殖器疣。
+© Springer Science+Business Media
+这张照片显示阴茎冠状沟内有粉红色凸起的生殖器疣（箭头所指）。
+这张照片显示阴茎冠状沟内有粉红色凸起的生殖器疣（箭头所指）。
+© Springer Science+Business Media
+这张照片显示在龟头上出现典型的粗糙、有蒂尖锐湿疣。
+这张照片显示在龟头上出现典型的粗糙、有蒂尖锐湿疣。
+© Springer Science+Business Media
+外阴部位的尖锐湿疣可凸起，颜色浅，表面不规则，粗糙。
+外阴部位的尖锐湿疣可凸起，颜色浅，表面不规则，粗糙。
+Image courtesy of Joe Millar via the Public Health Image Library of the Centers for Disease Control and Prevention.
+这张照片显示肛门周围有严重的生殖器疣病例。
+这张照片显示肛门周围有严重的生殖器疣病例。
+Photo courtesy of Karen McKoy, MD.
+这张照片显示阴囊和会阴区域出现疣体。
+这张照片显示阴囊和会阴区域出现疣体。
+Photo courtesy of Karen McKoy, MD.
+
+【HPV感染的诊断】
+病史和体格检查
+病史和体格检查
+核酸扩增测试（NAAT）
+核酸扩增测试（NAAT）
+宫颈，有时也包括肛门的细胞学检查（巴氏试验）
+宫颈，有时也包括肛门的细胞学检查（巴氏试验）
+有时进行阴道镜检查、肛门镜检查或两者兼而有之
+有时进行阴道镜检查、肛门镜检查或两者兼而有之
+生殖器疣通常通过肉眼检查来诊断。根据其外观一般可与2期梅毒的扁平湿疣（表面扁平）相鉴别，并与癌症鉴别。但在开始时和三个月后应开展梅毒血清学检查。对不典型的、流血的、溃烂的或顽固性的疣应做活检以除外癌瘤。
+宫颈和肛门上皮内病变只能通过阴道镜和肛门镜检查来观察。在阴道镜检查前应用3%至5%的乙酸溶液几分钟，会使病变变白，并增强对小病变的可视化和检测。（也可以看看宫颈癌筛查和预防.)
+在没有常规巴氏检查或阴道镜检查的低资源环境中，宫颈癌的筛查和评估包括HPV检测和/或使用醋酸或卢戈碘进行目视检查（1,2）。
+致癌性HPV亚型的核酸扩增试验（NAATs）被用作妇女常规宫颈癌筛查的一部分。初始测试通常检测13种常见高风险类型中的任何一种。可以进行后续HPV基因型检测，以检测最高危的类型，通常为16、18或45。没有针对男性的HPV检测可供临床使用。
+临床医师应在常规口腔检查中留意可能由 HPV 引起的口腔恶性病变。
+
+【诊断参考】
+1.World Health Organization (WHO): Human papillomavirus (‎HPV)‎ nucleic acid amplification tests (‎NAATs)‎ to screen for cervical pre-cancer lesions and prevent cervical cancer; policy brief; 16 March 2022
+1.World Health Organization (WHO): Human papillomavirus (‎HPV)‎ nucleic acid amplification tests (‎NAATs)‎ to screen for cervical pre-cancer lesions and prevent cervical cancer; policy brief; 16 March 2022
+2.International Agency for Research on Cancer: A practical manual on visual screening for cervical neoplasia; Anatomical and pathological basis of visual inspection withacetic acid(VIA) and with Lugol’s iodine (VILI).IARC Technical Publication No. 41, 2003.ISBN 92 832 2423 X
+2.International Agency for Research on Cancer: A practical manual on visual screening for cervical neoplasia; Anatomical and pathological basis of visual inspection withacetic acid(VIA) and with Lugol’s iodine (VILI).IARC Technical Publication No. 41, 2003.ISBN 92 832 2423 X
+
+【HPV感染的治疗】
+细胞破坏性治疗或切除（例如，通过腐蚀剂、冷冻疗法、电灼术、激光或手术切除）
+细胞破坏性治疗或切除（例如，通过腐蚀剂、冷冻疗法、电灼术、激光或手术切除）
+局部用药（例如，抗有丝分裂药或干扰素诱导剂）
+局部用药（例如，抗有丝分裂药或干扰素诱导剂）
+没有完全满意的肛门生殖器疣治疗方法，复发常见而需要复治。在免疫功能正常的患者中，生殖器疣常可自行消退，无需治疗。而免疫受损的病人则对治疗反应差。
+由于没有一种治疗方法明显优于其他方法，肛门生殖器疣的治疗应综合考虑多方面因素，主要是疣的大小、数量和部位；患者偏好；治疗费用；便利性；不良反应和医生的经验（1）。
+生殖器疣可以用
+局部用药
+局部用药
+冷冻治疗
+冷冻治疗
+激光治疗
+激光治疗
+手术切除
+手术切除
+根据要移除的大小和数量，使用局部或全身麻醉剂。广泛的外阴阴道尖锐湿疣可能需要激光消融。对于肛门疣，用切除镜切除可能是最有效的治疗方法；使用全身麻醉剂。
+局部治疗包括抗有丝分裂药物（如鬼臼毒素、鬼臼素、5-氟尿嘧啶）、腐蚀剂（如三氯醋酸）、或干扰素诱导剂（如咪喹莫特）和茶多酚（一种机制未明的新型植物制剂）。这些疗法应用广泛，但通常需要在数周至数月内多次使用，且总体效果不如激光治疗（如果激光治疗可用）（2）。在局部治疗前，周围的组织应当用凡士林油保护。应当告知病人治疗后相应区域可能有疼痛。
+左侧照片显示阴茎体上的尖锐湿疣（生殖器疣）。右图显示了局部应用鬼臼树脂治疗 12 小时后的疣。
+Images courtesy of Dr. M.F.通过疾病控制和预防中心公共卫生图像库提供。
+患处注射或肌内注射干扰素-alpha能够清除皮肤和生殖器的顽固病变，但最佳给药方案和长期效果尚不明确。另外，在一些生殖器鲍温样丘疹病的病人（由HPV16型引起），使用干扰素-alpha治疗后病变初期消失，但之后会复发为侵袭性癌。
+当前患生殖器疣的病人，其性伴侣应当进行相关检查，如果发现感染了，则需要治疗。
+对于尿道内病变，滴入尿道的硫替帕（烷基化药物）是有效的。在男性中，每天应用2至3次5-氟尿嘧啶对尿道病变非常有效，但很少会引起肿胀，导致尿道阻塞。尿道内病变通常由泌尿科医生处理。
+宫颈上皮内瘤变（CIN）通过系列巴氏涂片检查和/或HPV检测进行监测，或采用冷冻疗法或切除性活检进行治疗。
+外阴和阴道上皮内瘤变的治疗是通过手术切除来治疗。
+宫颈上皮内瘤变或癌患者和鲍状丘疹病患者的性伴侣应接受咨询，并定期筛查HPV相关病变。有直肠HPV者也应采取类似的措施。
+在宫颈癌治疗、口咽鳞状细胞癌治疗和复发性呼吸道乳头状瘤病治疗中讨论了由HPV引起的癌症治疗。
+
+【治疗参考文献】
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+2.Barton S, Wakefield V, O'Mahony C, Edwards S.Effectiveness of topical and ablative therapies in treatment of anogenital warts: a systematic review and network meta-analysis.BMJ Open.2019;9(10):e027765.Published 2019 Oct 31.doi:10.1136/bmjopen-2018-027765
+2.Barton S, Wakefield V, O'Mahony C, Edwards S.Effectiveness of topical and ablative therapies in treatment of anogenital warts: a systematic review and network meta-analysis.BMJ Open.2019;9(10):e027765.Published 2019 Oct 31.doi:10.1136/bmjopen-2018-027765
+
+【预防 HPV 感染】
+HPV疫苗是常规儿童疫苗接种（参见 CDC：儿童和青少年免疫接种时间表（按年龄划分））。See alsoAdvisory Committee on Immunization Practices (ACIP) Recommendations: Human Papillomavirus (HPV) Vaccine.
+一种九价人乳头瘤病毒疫苗可预防导致>90%可见生殖器疣的两种HPV类型（6型和11型）。该疫苗还能预防导致大多数宫颈癌的两种HPV类型（16型和18型）。九价疫苗还可以预防其他类型的 HPV（31、33、45、52 和 58 型），这些 HPV 导致大约 10% 至 20% 的宫颈癌（1）。
+一种人乳头瘤病毒四价疫苗（HPV4）可预防6型、11型、16型和18型病毒。
+人乳头瘤病毒二价疫苗（HPV2）可预防 16 型和 18 型病毒感染。
+美国现在只有9价疫苗可供接种。
+疾病控制中心免疫实践咨询委员会(ACIP)的建议如下(2,3):
+对于26岁以下的男性和女性：建议在11岁或12岁（可从9岁开始）时接种HPV疫苗，对于以前未接种疫苗或未充分接种疫苗的患者，建议26岁之前接种。
+27岁~45岁的成人：临床医生应与患者进行共同的决策讨论，以确定他们是否应接种疫苗。
+由于HPV可以通过皮肤接触传播，因此避孕套不能完全防止感染。
+包皮环切术可以降低男性及其女性性伴侣感染 HPV 的风险（4）。
+
+【预防参考文献】
+1.National Cancer Institute: Human papillomavirus (HPV) vaccines.2019.
+1.National Cancer Institute: Human papillomavirus (HPV) vaccines.2019.
+2.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+2.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+3.Meites E, Szilagyi PG, Chesson HW, Unger ER, Romero JR, Markowitz LE.Human Papillomavirus Vaccination for Adults: Updated Recommendations of the Advisory Committee on Immunization Practices.MMWR Morb Mortal Wkly Rep.2019;68(32):698-702.Published 2019 Aug 16.doi:10.15585/mmwr.mm6832a3
+3.Meites E, Szilagyi PG, Chesson HW, Unger ER, Romero JR, Markowitz LE.Human Papillomavirus Vaccination for Adults: Updated Recommendations of the Advisory Committee on Immunization Practices.MMWR Morb Mortal Wkly Rep.2019;68(32):698-702.Published 2019 Aug 16.doi:10.15585/mmwr.mm6832a3
+4.Shapiro SB, Laurie C, El-Zein M, Franco EL.Association between male circumcision and human papillomavirus infection in males and females: a systematic review, meta-analysis, and meta-regression.Clin Microbiol Infect.2023;29(8):968-978.doi:10.1016/j.cmi.2023.03.028
+4.Shapiro SB, Laurie C, El-Zein M, Franco EL.Association between male circumcision and human papillomavirus infection in males and females: a systematic review, meta-analysis, and meta-regression.Clin Microbiol Infect.2023;29(8):968-978.doi:10.1016/j.cmi.2023.03.028
+肛门生殖器疣是由人乳头瘤病毒 (HPV) 引起的，最常见的是 6 型和 11 型。
+肛门生殖器疣是由人乳头瘤病毒 (HPV) 引起的，最常见的是 6 型和 11 型。
+HPV16型和18型可导致70%的宫颈癌，并可导致其他部位的癌症，包括外阴、阴道、阴茎、肛门和口咽。
+HPV16型和18型可导致70%的宫颈癌，并可导致其他部位的癌症，包括外阴、阴道、阴茎、肛门和口咽。
+通过检查诊断疣；HPV检测可用于筛查宫颈癌。
+通过检查诊断疣；HPV检测可用于筛查宫颈癌。
+用细胞破坏性治疗、外用药物或手术切除治疗疣。
+用细胞破坏性治疗、外用药物或手术切除治疗疣。
+通过消融或切除或密切监测来治疗宫颈、阴道、外阴或肛门上皮内瘤变。
+通过消融或切除或密切监测来治疗宫颈、阴道、外阴或肛门上皮内瘤变。
+建议将HPV疫苗接种作为9～26岁儿童和青少年的常规疫苗。
+建议将HPV疫苗接种作为9～26岁儿童和青少年的常规疫苗。

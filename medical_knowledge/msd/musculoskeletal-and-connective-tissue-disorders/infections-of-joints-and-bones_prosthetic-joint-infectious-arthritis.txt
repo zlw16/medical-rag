@@ -1,0 +1,116 @@
+标题：关节假体置换后感染性关节炎
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/infections-of-joints-and-bones/prosthetic-joint-infectious-arthritis
+============================================================
+
+
+【人工关节感染性关节炎的病因】
+假体关节的感染发生率高于自然关节。它们通常是因围手术期带入细菌至关节中或是由皮肤感染、肺炎、侵入性操作、尿路感染、可能的跌倒，或罕见的牙科操作引起的术后菌血症所致。
+2/3的患者在术后1年内发生关节感染 (1)。在手术后的前几个月，金黄色葡萄球菌约占感染原因的 50%；较少见的原因包括混合菌群、革兰氏阴性菌和厌氧菌（2）。Cutibacterium acnes痤疮丙酸杆菌在感染的肩关节假体中特别常见，并且可能需要延长培养时间（最多2周）供检测 (3)。念珠菌属可以感染假体关节，但念珠菌感染很少见（4）。
+
+【病因参考文献】
+1.Hasenauer MD, Ho H, Engh CA 3rd, Engh CA Jr.Factors Associated With the Incidence and Timing of Total Knee ArthroplastyInfection. J Arthroplasty.2022;37(6S):S276-S280.e3.doi:10.1016/j.arth.2022.02.034
+1.Hasenauer MD, Ho H, Engh CA 3rd, Engh CA Jr.Factors Associated With the Incidence and Timing of Total Knee ArthroplastyInfection. J Arthroplasty.2022;37(6S):S276-S280.e3.doi:10.1016/j.arth.2022.02.034
+2.Tsaras G, Osmon DR, Mabry T, et al.Incidence, secular trends, and outcomes of prosthetic joint infection: a population-based study, olmsted county, Minnesota, 1969-2007.Infect Control Hosp Epidemiol.2012;33(12):1207-1212.doi:10.1086/668421
+2.Tsaras G, Osmon DR, Mabry T, et al.Incidence, secular trends, and outcomes of prosthetic joint infection: a population-based study, olmsted county, Minnesota, 1969-2007.Infect Control Hosp Epidemiol.2012;33(12):1207-1212.doi:10.1086/668421
+3.Vilchez HH, Escudero-Sanchez R, Fernandez-Sampedro M, et al.Prosthetic Shoulder Joint Infection by Cutibacterium acnes: Does Rifampin Improve Prognosis?A Retrospective, Multicenter, Observational Study.Antibiotics (Basel).2021;10(5):475.Published 2021 Apr 21.doi:10.3390/antibiotics10050475
+3.Vilchez HH, Escudero-Sanchez R, Fernandez-Sampedro M, et al.Prosthetic Shoulder Joint Infection by Cutibacterium acnes: Does Rifampin Improve Prognosis?A Retrospective, Multicenter, Observational Study.Antibiotics (Basel).2021;10(5):475.Published 2021 Apr 21.doi:10.3390/antibiotics10050475
+4.Grzelecki D, Grajek A, Dudek P, et al.Periprosthetic Joint Infections Caused by Candida Species-A Single-Center Experience and Systematic Review of the Literature.J Fungi (Basel).2022;8(8):797.Published 2022 Jul 29.doi:10.3390/jof8080797
+4.Grzelecki D, Grajek A, Dudek P, et al.Periprosthetic Joint Infections Caused by Candida Species-A Single-Center Experience and Systematic Review of the Literature.J Fungi (Basel).2022;8(8):797.Published 2022 Jul 29.doi:10.3390/jof8080797
+
+【假体关节感染性关节炎的危险因素】
+患者相关风险因素和手术风险因素可能会增加假体关节感染的风险。
+患者特异性风险因素包括（1）。
+免疫抑制（例如，来自泼尼松、TNF抑制剂、其他生物制剂）
+免疫抑制（例如，来自泼尼松、TNF抑制剂、其他生物制剂）
+类风湿关节炎
+类风湿关节炎
+恶性肿瘤
+恶性肿瘤
+慢性肾病
+慢性肾病
+手术特定的风险因素包括既往的关节置换术、既往的手术部位感染、手术持续时间、术后并发症（如血肿或伤口裂开），以及伴随的金黄色葡萄球菌菌血症（2）。
+
+【危险因素参考】
+1.Kunutsor SK, Whitehouse MR, Blom AW, Beswick AD; INFORM Team.Patient-Related Risk Factors for Periprosthetic Joint Infection after Total Joint Arthroplasty: A Systematic Review and Meta-Analysis.PLoS One.2016;11(3):e0150866.Published 2016 Mar 3.doi:10.1371/journal.pone.0150866
+1.Kunutsor SK, Whitehouse MR, Blom AW, Beswick AD; INFORM Team.Patient-Related Risk Factors for Periprosthetic Joint Infection after Total Joint Arthroplasty: A Systematic Review and Meta-Analysis.PLoS One.2016;11(3):e0150866.Published 2016 Mar 3.doi:10.1371/journal.pone.0150866
+2.Tande AJ, Palraj BR, Osmon DR, et al.Clinical Presentation, Risk Factors, and Outcomes of Hematogenous Prosthetic Joint Infection in Patients with Staphylococcus aureus Bacteremia.Am J Med.2016;129(2):221.e11-221.e2.21E20.doi:10.1016/j.amjmed.2015.09.006
+2.Tande AJ, Palraj BR, Osmon DR, et al.Clinical Presentation, Risk Factors, and Outcomes of Hematogenous Prosthetic Joint Infection in Patients with Staphylococcus aureus Bacteremia.Am J Med.2016;129(2):221.e11-221.e2.21E20.doi:10.1016/j.amjmed.2015.09.006
+
+【假体关节感染性关节炎的症状和体征】
+假体关节感染的症状和体征取决于手术后的时间，并可进一步分类为早期发作、延迟发作和晚期发作 (1), (2).
+早期/急性感染发生在手术后3个月内。发病突然，关节出现肿胀、疼痛和发红。通常会出现发烧、发冷等全身症状。这些感染通常是在外科手术过程中获得的。
+延迟发作感染发生在手术后3到12个月之间。可能存在持续的伤口引流（例如，窦道），并且关节出现发热、肿胀和疼痛。感染很可能是在关节置换术期间或术后早期获得的。
+晚发感染发生在初次手术后 12 个月以上。在一个之前功能良好的关节中，关节疼痛、压痛和红斑急性发作。感染可能是通过血行播散从其他感染部位获得的。
+
+【症状和体征参考】
+1.Parvizi J, Gehrke T; International Consensus Group on Periprosthetic Joint Infection.Definition of periprosthetic joint infection.J Arthroplasty.2014;29(7):1331.doi:10.1016/j.arth.2014.03.009
+1.Parvizi J, Gehrke T; International Consensus Group on Periprosthetic Joint Infection.Definition of periprosthetic joint infection.J Arthroplasty.2014;29(7):1331.doi:10.1016/j.arth.2014.03.009
+2.Barrett L, Atkins B.The clinical presentation of prosthetic joint infection. JAntimicrob Chemother.2014;69 Suppl 1:i25-i27.doi:10.1093/jac/dku250
+2.Barrett L, Atkins B.The clinical presentation of prosthetic joint infection. JAntimicrob Chemother.2014;69 Suppl 1:i25-i27.doi:10.1093/jac/dku250
+
+【假体关节感染性关节炎的诊断】
+临床、微生物、病理、影像学标准
+临床、微生物、病理、影像学标准
+假体关节感染的诊断需要联合临床、微生物、病理和影像学标准。目前尚无标准化的方法来诊断假体关节感染，并且已经提出了多种标准（1、2、3、4）。
+当来自关节的两个培养物对同一微生物呈阳性时，即可做出假体关节感染的明确诊断。窦道与假体之间的交通也可能是诊断依据（2）。
+在假体关节感染中，血清C反应蛋白（CRP）、红细胞沉降率（ESR）和D-二聚体可能均升高。滑膜液应取样进行细胞计数和培养。在早期感染中，滑液中的白细胞计数（WBC）通常大于 10,000 个细胞/mcL（10 × 109/L）(5)。
+在迟发性或晚发性感染中，滑液白细胞计数通常 > 3000 个细胞/μL。还应对滑液进行细胞计数和分类分析。
+在急性感染中，多形核白细胞 (PMNs) 的百分比通常 > 90%，而在迟发性和晚发性感染中，PMNs 的百分比通常 > 80%。阳性的滑液α-防御素测试可能也是感染的一个标志(6)。
+X线片可能显示骨膜反应或假体松动，或骨膜反应，但不能作为诊断依据。锝99m骨扫描和铟标记的白细胞扫描比X线更敏感，但在术后早期缺乏特异性。在手术时采集的假体周围组织可以送去培养和组织学分析（4）。
+
+【诊断参考】
+1.Parvizi J, Gehrke T; International Consensus Group on Periprosthetic Joint Infection. Definition of periprosthetic joint infection.J Arthroplasty.2014;29(7):1331.doi:10.1016/j.arth.2014.03.009
+1.Parvizi J, Gehrke T; International Consensus Group on Periprosthetic Joint Infection. Definition of periprosthetic joint infection.J Arthroplasty.2014;29(7):1331.doi:10.1016/j.arth.2014.03.009
+2.Parvizi J, Tan TL, Goswami K, et al.The 2018 Definition of Periprosthetic Hip and Knee Infection: An Evidence-Based and Validated Criteria.J Arthroplasty.2018;33(5):1309-1314.e2.doi:10.1016/j.arth.2018.02.078
+2.Parvizi J, Tan TL, Goswami K, et al.The 2018 Definition of Periprosthetic Hip and Knee Infection: An Evidence-Based and Validated Criteria.J Arthroplasty.2018;33(5):1309-1314.e2.doi:10.1016/j.arth.2018.02.078
+3.McNally M, Sousa R, Wouthuyzen-Bakker M, et al.The EBJIS definition of periprosthetic joint infection.Bone Joint J.2021;103-B(1):18-25.doi:10.1302/0301-620X.103B1.BJJ-2020-1381.R1
+3.McNally M, Sousa R, Wouthuyzen-Bakker M, et al.The EBJIS definition of periprosthetic joint infection.Bone Joint J.2021;103-B(1):18-25.doi:10.1302/0301-620X.103B1.BJJ-2020-1381.R1
+4.Osmon DR, Berbari EF, Berendt AR, et al.Diagnosis and management of prosthetic joint infection: clinical practice guidelines by the Infectious Diseases Society of America.Clin Infect Dis.2013;56(1):e1-e25.doi:10.1093/cid/cis803
+4.Osmon DR, Berbari EF, Berendt AR, et al.Diagnosis and management of prosthetic joint infection: clinical practice guidelines by the Infectious Diseases Society of America.Clin Infect Dis.2013;56(1):e1-e25.doi:10.1093/cid/cis803
+5.Beam E, Osmon D.Prosthetic Joint Infection Update.Infect Dis Clin North Am.2018;32(4):843-859.doi:10.1016/j.idc.2018.06.005
+5.Beam E, Osmon D.Prosthetic Joint Infection Update.Infect Dis Clin North Am.2018;32(4):843-859.doi:10.1016/j.idc.2018.06.005
+6.Lee YS, Koo KH, Kim HJ, et al.Synovial Fluid Biomarkers for the Diagnosis of Periprosthetic Joint Infection: A Systematic Review and Meta-Analysis. JBone Joint Surg Am.2017;99(24):2077-2084.doi:10.2106/JBJS.17.00123
+6.Lee YS, Koo KH, Kim HJ, et al.Synovial Fluid Biomarkers for the Diagnosis of Periprosthetic Joint Infection: A Systematic Review and Meta-Analysis. JBone Joint Surg Am.2017;99(24):2077-2084.doi:10.2106/JBJS.17.00123
+
+【假体关节感染性关节炎的治疗】
+关节切开术和清创术
+关节切开术和清创术
+假体置换
+假体置换
+长期全身性应用抗生素治疗
+长期全身性应用抗生素治疗
+人工关节感染需延长治疗，通常需要手术摘除关节假体，对所有骨水泥、脓肿和失活组织进行仔细的清创。清创后紧接着进行假体更换，或放置抗生素浸渍的间隔器，随后延迟（2到4个月）植入新的假体，采用抗生素浸渍骨水泥（1）。
+所有病例都需使用长期全身抗生素治疗 (1);经验性治疗在术中取培养后立即开始，通常需联合应用覆盖耐甲氧西林的革兰氏阳性病原体（如万古霉素1g，静脉用，每12h一次）及需氧革兰氏阴性病原体（如哌拉西林-他唑巴坦3.375g，静脉用，每6h一次或头孢他啶2g，静脉用，每8h一次）的抗生素，根据培养和药敏试验结果调整。
+如果假体关节感染是由金黄色葡萄球菌引起的，抗生素治疗包括为期6周的特定病原体治疗，结合利福平300 mg至450 mg口服，每天两次，以渗透生物膜。初始6周治疗疗程后，对于髋关节感染继续使用利福平加口服抗生素（如果敏感，最好是左氧氟沙星或环丙沙星）治疗3个月，对于膝关节感染则治疗6个月（1）。
+5年无感染成功率总体取决于手术方法，但经过综合医疗和手术治疗后，成功率可接近80%（2），（3）。
+关节切除成形术伴或不伴融合术通常在感染控制不佳及骨量不足的患者中使用。
+
+【治疗参考文献】
+1.Osmon DR, Berbari EF, Berendt AR, et al.Diagnosis and management of prosthetic joint infection: clinical practice guidelines by the Infectious Diseases Society of America.Clin Infect Dis.2013;56(1):e1-e25.doi:10.1093/cid/cis803
+1.Osmon DR, Berbari EF, Berendt AR, et al.Diagnosis and management of prosthetic joint infection: clinical practice guidelines by the Infectious Diseases Society of America.Clin Infect Dis.2013;56(1):e1-e25.doi:10.1093/cid/cis803
+2.Berbari EF, Osmon DR, Duffy MC, et al.Outcome of prosthetic joint infection in patients with rheumatoid arthritis: the impact of medical and surgical therapy in 200 episodes.Clin Infect Dis.2006;42(2):216-223.doi:10.1086/498507
+2.Berbari EF, Osmon DR, Duffy MC, et al.Outcome of prosthetic joint infection in patients with rheumatoid arthritis: the impact of medical and surgical therapy in 200 episodes.Clin Infect Dis.2006;42(2):216-223.doi:10.1086/498507
+3.Sousa R, Abreu MA.Treatment of Prosthetic Joint Infection with Debridement, Antibiotics and Irrigation with Implant Retention - a Narrative Review.J Bone Jt Infect.2018;3(3):108-117.Published 2018 Jun 8.doi:10.7150/jbji.24285
+3.Sousa R, Abreu MA.Treatment of Prosthetic Joint Infection with Debridement, Antibiotics and Irrigation with Implant Retention - a Narrative Review.J Bone Jt Infect.2018;3(3):108-117.Published 2018 Jun 8.doi:10.7150/jbji.24285
+
+【假体关节感染性关节炎的预防】
+在没有其他指征（例如，心脏瓣膜疾病）的情况下，通常不建议在牙科治疗前使用预防性抗生素（1）。SeeAppropriate Use Criteriafrom the American Academy of Orthopaedic Surgeons (AAOS) for the prevention of orthopedic implant infection in patients undergoing dental procedures.然而，可能会建议对进行与高风险菌血症相关的泌尿科手术（例如，碎石术）的患者使用预防性抗生素。
+在许多临床中心，会用金黄色葡萄球菌鼻拭子培养对患者进行金黄色葡萄球菌筛选培养。携带者需在关节假体植入术前应用莫匹罗星软膏去除细菌定植 (2)。
+
+【预防参考文献】
+1.Sollecito TP, Abt E, Lockhart PB, et al.The use of prophylactic antibiotics prior to dental procedures in patients with prosthetic joints: Evidence-based clinical practice guideline for dental practitioners--a report of the American Dental Association Council on Scientific Affairs.J Am Dent Assoc.2015;146(1):11-16.e8.doi:10.1016/j.adaj.2014.11.012
+1.Sollecito TP, Abt E, Lockhart PB, et al.The use of prophylactic antibiotics prior to dental procedures in patients with prosthetic joints: Evidence-based clinical practice guideline for dental practitioners--a report of the American Dental Association Council on Scientific Affairs.J Am Dent Assoc.2015;146(1):11-16.e8.doi:10.1016/j.adaj.2014.11.012
+2.Smith M, Herwaldt L.Nasal decolonization: What antimicrobials and antiseptics are most effective before surgery and in the ICU.Am J Infect Control.2023;51(11S):A64-A71.doi:10.1016/j.ajic.2023.02.004
+2.Smith M, Herwaldt L.Nasal decolonization: What antimicrobials and antiseptics are most effective before surgery and in the ICU.Am J Infect Control.2023;51(11S):A64-A71.doi:10.1016/j.ajic.2023.02.004
+对关节发热、发红、触痛或持续性原因不明的关节疼痛的患者，应考虑假体关节感染性关节炎的可能性，术后一年内风险最高。
+对关节发热、发红、触痛或持续性原因不明的关节疼痛的患者，应考虑假体关节感染性关节炎的可能性，术后一年内风险最高。
+进行关节穿刺并送检培养和滑液分析；X线检查和常规实验室检查很少有帮助。
+进行关节穿刺并送检培养和滑液分析；X线检查和常规实验室检查很少有帮助。
+同时进行关节切开引流和清创，并给予针对性的长期全身性抗生素治疗。
+同时进行关节切开引流和清创，并给予针对性的长期全身性抗生素治疗。
+在抗金黄色葡萄球菌抗生素中加入利福平，以增加生物膜的穿透力。
+在抗金黄色葡萄球菌抗生素中加入利福平，以增加生物膜的穿透力。
+
+【参考文献】
+1.Sollecito TP, Abt E, Lockhart PB, et al.The use of prophylactic antibiotics prior to dental procedures in patients with prosthetic joints: Evidence-based clinical practice guideline for dental practitioners--a report of the American Dental Association Council on Scientific Affairs.J Am Dent Assoc.2015;146(1):11-16.e8.doi:10.1016/j.adaj.2014.11.012
+1.Sollecito TP, Abt E, Lockhart PB, et al.The use of prophylactic antibiotics prior to dental procedures in patients with prosthetic joints: Evidence-based clinical practice guideline for dental practitioners--a report of the American Dental Association Council on Scientific Affairs.J Am Dent Assoc.2015;146(1):11-16.e8.doi:10.1016/j.adaj.2014.11.012

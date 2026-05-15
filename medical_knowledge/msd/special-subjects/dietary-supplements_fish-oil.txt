@@ -1,0 +1,55 @@
+标题：鱼油
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/fish-oil
+============================================================
+
+鱼油可通过食用鱼类、直接摄入提取物或以胶囊形式服用浓缩形式来摄入。其活性成分为omega-3脂肪酸（二十碳五烯酸[EPA]和二十二碳六烯酸[DHA]）。最近，基因工程酵母菌株可以自然产生大量的这种油，从而提供了另一个来源 (1)。 西方饮食中 omega-3脂肪酸通常较低。ω-3脂肪酸的其他非鱼类食物来源是核桃和亚麻籽油。
+
+【鱼油的宣称功效】
+鱼油被用于预防及治疗动脉粥样硬化心血管疾病，尤其通过降低甘油三酸酯发挥作用。其机制可能是多方面的，但是目前未知。对于动脉粥样硬化性心血管疾病的初级预防、降低胆固醇水平、减缓与年龄相关的黄斑变性和癌症的进展、类风湿性关节炎、干眼症和抑郁症的治疗、降低血压和预防环孢素肾毒性，其益处值得怀疑，但尚未得到支持。
+
+【鱼油的证据】
+支持使用鱼油，特别是 EPA/DHA（各种组合形式的 EPA 加 DHA）来减少心血管疾病结果（如心肌梗塞、中风）的证据并不一致。然而，有更多一致的数据表明 EPA/DHA 可以降低血清甘油三酯水平 (2)。
+虽然之前有证据表明，对于患有冠状动脉疾病并服用传统药物的患者，每天服用 800 至 1500 毫克可以降低心肌梗塞和因心律失常死亡的风险（3），后续研究并未一致支持这些发现。例如，OMEMI试验（老年心肌梗死患者的Omega-3脂肪酸）是一项随机试验，共有1027名年龄在70至82岁之间、近期（2至8周）发生急性心肌梗死的患者参与。这些患者在标准治疗的基础上，每天额外接受1.8克n-3多不饱和脂肪酸（PUFA）（930毫克二十碳五烯酸和660毫克二十二碳六烯酸）或安慰剂（玉米油）治疗（4）。
+主要终点是非致命性急性心肌梗死、计划外血运重建、中风、全因死亡和2年后心力衰竭住院的复合终点。21.4%服用n-3 PUFA的患者发生了主要终点，而服用安慰剂的患者为20.0%（P=0.60）。作者得出结论，该研究并未发现近期急性心肌梗死的老年患者的临床事件减少。此外，对 86 项随机试验（162,796 名患者）进行为期 12 至 88 个月的 Cochrane综述证实，ω-3 脂肪酸可降低甘油三酯，并且根据高确定性证据，对心血管事件和死亡影响很小。该综述发现，心血管死亡率略有下降，但中风或心律失常的数量没有差异。该评价指出，167 名参与者需要治疗以预防 1 次冠状动脉事件，334 名参与者需要治疗以预防 1 例因冠状动脉疾病而死亡(2)。然而，REDUCE-IT 试验招募了患有心血管疾病或糖尿病和其他危险因素以及尽管他汀类药物治疗但甘油三酯水平升高的患者，报告使用处方药二十碳五烯酸显著降低了 MACE（主要不良心脏事件）(5)。
+另一项后续荟萃分析评估了15项随机试验，不仅评价了不同ω-3脂肪酸补充剂（包括处方产品）对心血管疾病预防的疗效，还评估了其安全性（6）。重要的发现是主要心血管事件减少 5%，心肌梗塞减少 10%，心血管死亡减少 6%。亚组分析显示心血管获益主要归因于处方级二十碳五烯酸（EPA）乙酯。既往心肌梗死患者出现房颤的风险似乎增加了25%，同时中风风险也有所上升。未发现其他不良事件，如出血、癌症或胃肠道问题。
+一项大型前瞻性队列研究纳入了20,338名2型糖尿病患者，报告指出鱼油补充剂和较高的血浆ω-3多不饱和脂肪酸（n-3 PUFA）水平与较低的大血管（冠心病、心力衰竭、外周动脉疾病和中风）及微血管（糖尿病肾病、糖尿病视网膜病变和糖尿病神经病变）并发症风险相关（7）。
+鱼油（ω-3脂肪酸）补充剂对代谢功能障碍相关脂肪变性肝病（MASLD，以前称为非酒精性脂肪肝病）的潜在益处也得到了评估。一项包含 1366 名患者的 22 项随机试验的荟萃分析发现，补充 ω-3 脂肪酸可降低肝脏脂肪（通过超声测量），改善血脂谱，并降低体重指数(8)。需要进一步研究，特别是随机试验，以更好地评估ω-3脂肪酸的剂量反应效应，并通过其他方法（如组织学、MRI、CT扫描）对肝脏脂肪进行额外评估。
+
+【鱼油的不良反应】
+可能发生嗳气、恶心和腹泻。每天使用EPA/DHA大于3g时，出血的危险性增加。在一项大型研究中，n-3 PUFA组的大出血率（10.7%）与接受安慰剂治疗的患者（11.0%，p = 0.87）相似（4)。
+汞污染相关的副作用在实验室中尚未得到证实。虽然如此，因为有潜在汞污染的危险，孕期和哺乳期妇女不应服用从鱼中提取的omega-3脂肪酸，同时还应限制此类食物和鱼的摄入。
+在一项针对接受二十碳五烯酸乙酯治疗的患者的大型研究中，便秘、外周水肿和心房颤动的发生率高于接受安慰剂治疗的患者（5)。
+美国心脏病学会和其他专业协会评论了使用非处方鱼油补充剂的局限性，并建议只有FDA批准的处方产品才能用于高甘油三酯血症（9）。
+欧洲药品管理局 (EMA) 的药物警戒风险评估委员会 (PRAC) 发布了一份公开声明，警告称对于患有心血管疾病或具有心血管疾病风险因素的人群，存在剂量依赖性房颤风险增加的情况 (10)。每日剂量超过4克的ω-3-酸乙酯会增加风险。
+
+【鱼油的药物相互作用】
+鱼油与抗高血压药结合可能会导致血压降低。鱼油摄入可能会增加华法林的抗凝作用，尽管一些研究没有显示不良出血事件 (11)。尽管如此，应提醒患者注意出血增加的可能性。
+
+【参考文献】
+1.Xue Z, Sharpe PL, Hong SP, et al.Production of omega-3 eicosapentaenoic acid by metabolic engineering ofYarrowia lipolytica.Nat Biotechnol.31(8):734-740, 2013.doi: 10.1038/nbt.2622
+1.Xue Z, Sharpe PL, Hong SP, et al.Production of omega-3 eicosapentaenoic acid by metabolic engineering ofYarrowia lipolytica.Nat Biotechnol.31(8):734-740, 2013.doi: 10.1038/nbt.2622
+2.Abdelhamid AS, Brown TJ, Brainard JS, et al.Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (review).Cochrane Database Syst Rev.3:CD003177, 2020.doi: 10.1002/14651858.CD003177.pub5
+2.Abdelhamid AS, Brown TJ, Brainard JS, et al.Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (review).Cochrane Database Syst Rev.3:CD003177, 2020.doi: 10.1002/14651858.CD003177.pub5
+3.MacLean CH, Mojica WA, Morton SC, et al.Effects of omega-3 fatty acids on lipids and glycemic control in type II diabetes and the metabolic syndrome and on inflammatory bowel disease, rheumatoid arthritis, renal disease, systemic lupus erythematosus, and osteoporosis.Evid Rep Technol Assess (Summ).2004;(89):1-4.
+3.MacLean CH, Mojica WA, Morton SC, et al.Effects of omega-3 fatty acids on lipids and glycemic control in type II diabetes and the metabolic syndrome and on inflammatory bowel disease, rheumatoid arthritis, renal disease, systemic lupus erythematosus, and osteoporosis.Evid Rep Technol Assess (Summ).2004;(89):1-4.
+4.Kalstad AA, Myhre PL, Laake K, et al: Effects of n-3 fatty acid supplements in elderly patients after myocardial infarction: a randomized, controlled trial.Circulation143(6):528-539, 2021.doi:10.1161/CIRCULATIONAHA.120.052209
+4.Kalstad AA, Myhre PL, Laake K, et al: Effects of n-3 fatty acid supplements in elderly patients after myocardial infarction: a randomized, controlled trial.Circulation143(6):528-539, 2021.doi:10.1161/CIRCULATIONAHA.120.052209
+5.Bhatt DL, Steg PG, Miller M, et al.Cardiovascular risk reduction withicosapent ethylfor hypertriglyceridemia.N Engl J Med.380(1):11-22, 2019.doi: 10.1056/NEJMoa1812792
+5.Bhatt DL, Steg PG, Miller M, et al.Cardiovascular risk reduction withicosapent ethylfor hypertriglyceridemia.N Engl J Med.380(1):11-22, 2019.doi: 10.1056/NEJMoa1812792
+6.Yan J, Liu M, Yang D, Zhang Y, An F.Efficacy and Safety of Omega-3 Fatty Acids in the Prevention of Cardiovascular Disease: A Systematic Review and Meta-analysis.Cardiovasc Drugs Ther.2024 Aug;38(4):799-817.doi: 10.1007/s10557-022-07379-z
+6.Yan J, Liu M, Yang D, Zhang Y, An F.Efficacy and Safety of Omega-3 Fatty Acids in the Prevention of Cardiovascular Disease: A Systematic Review and Meta-analysis.Cardiovasc Drugs Ther.2024 Aug;38(4):799-817.doi: 10.1007/s10557-022-07379-z
+7.Tian S, Guo T, Qian F, Qiu Z, Lu Q, Li R, Zhu K, Li L, Yu H, Li R, Ou Y, Pan A, Liu G.Fish Oil, Plasma n-3 PUFAs, and Risk of Macro- and Microvascular Complications among Individuals with Type 2 Diabetes.J Clin Endocrinol Metab.2024 Jul 12:dgae482.doi: 10.1210/clinem/dgae482
+7.Tian S, Guo T, Qian F, Qiu Z, Lu Q, Li R, Zhu K, Li L, Yu H, Li R, Ou Y, Pan A, Liu G.Fish Oil, Plasma n-3 PUFAs, and Risk of Macro- and Microvascular Complications among Individuals with Type 2 Diabetes.J Clin Endocrinol Metab.2024 Jul 12:dgae482.doi: 10.1210/clinem/dgae482
+8.Lee CH, Fu Y, Yang SJ, Chi CC.Effects of Omega-3 Polyunsaturated Fatty Acid Supplementation on Non-Alcoholic Fatty Liver: A Systematic Review and Meta-Analysis.Nutrients.2020 Sep 11;12(9):2769.doi: 10.312092769
+8.Lee CH, Fu Y, Yang SJ, Chi CC.Effects of Omega-3 Polyunsaturated Fatty Acid Supplementation on Non-Alcoholic Fatty Liver: A Systematic Review and Meta-Analysis.Nutrients.2020 Sep 11;12(9):2769.doi: 10.312092769
+9.Virani SS, Morris PB, Agarwala A, et al.2021 ACC Expert Consensus Decision Pathway on the Management of ASCVD Risk Reduction in Patients With Persistent Hypertriglyceridemia: A Report of the American College of Cardiology Solution Set Oversight Committee.J Am Coll Cardiol.2021;78(9):960-993.doi:10.1016/j.jacc.2021.06.011
+9.Virani SS, Morris PB, Agarwala A, et al.2021 ACC Expert Consensus Decision Pathway on the Management of ASCVD Risk Reduction in Patients With Persistent Hypertriglyceridemia: A Report of the American College of Cardiology Solution Set Oversight Committee.J Am Coll Cardiol.2021;78(9):960-993.doi:10.1016/j.jacc.2021.06.011
+10.Medicines and Healthcare Products Regulatory Agency.Omega-3-acid ethyl ester medicines (Omacor/Teromeg 1000 mg capsules): dose-dependent increased risk of atrial fibrillation in patients with established cardiovascular diseases or cardiovascular risk factors.Accessed February 27, 2025.
+10.Medicines and Healthcare Products Regulatory Agency.Omega-3-acid ethyl ester medicines (Omacor/Teromeg 1000 mg capsules): dose-dependent increased risk of atrial fibrillation in patients with established cardiovascular diseases or cardiovascular risk factors.Accessed February 27, 2025.
+11.Pryce R, Bernaitis N, Davey AK, et al: The use offish oilwithwarfarindoes not significantly affect either the International Normalized Ratio or incidence of adverse events in patients with atrial fibrillation and deep vein thrombosis: a retrospective study.Nutrients8(9):578, 2016.doi:10.3390/nu8090578
+11.Pryce R, Bernaitis N, Davey AK, et al: The use offish oilwithwarfarindoes not significantly affect either the International Normalized Ratio or incidence of adverse events in patients with atrial fibrillation and deep vein thrombosis: a retrospective study.Nutrients8(9):578, 2016.doi:10.3390/nu8090578
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Institutes of Health (NIH): Omega-3 fatty acids fact sheet for health professionals
+National Institutes of Health (NIH): Omega-3 fatty acids fact sheet for health professionals

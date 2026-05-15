@@ -1,0 +1,47 @@
+标题：曼森线虫病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/nematodes-roundworms/mansonellosis
+============================================================
+
+三种Mansonella（曼森线虫）引起大多数人类疾病。与其他丝虫病一样，它们的生命周期很复杂（见DPDx-公共卫生问题寄生虫的实验室鉴定：曼氏杆菌病）。
+（参见寄生虫感染途径和丝状线虫感染概述。)
+
+【曼森线虫】
+在撒哈拉以南的非洲和从巴拿马到阿根廷的美洲，M. perstans（珀氏曼森线虫）通过蠓（库蠓属）叮咬传播。据估计全球有超过1.14亿人感染(1)。感染的可能性随年龄增长而增加，在高度流行地区感染率可接近100%。
+成虫生活在胸膜腔，心包腔，腹膜腔，腹膜后腔和肠系膜。 在血流中发现无鞘微丝蚴。蠓从受感染的人身上吸食血液时会发生感染。
+大多数感染是无症状或轻度的。 迁移成虫会引起短暂的皮下肿胀，类似于罗阿丝虫（卡拉巴肿胀），心包或胸膜炎症，结膜结节，视网膜损伤和眼周发炎。 非特异性症状包括瘙痒，荨麻疹，关节痛和不适。神经精神病症状，脑膜脑炎和肝炎在极少数情况下可归因于M. perstans。
+诊断M. perstans通过鉴定血液涂片中无鞘微丝蚴。白天和晚上均可在血液中发现微丝蚴。嗜酸性粒细胞增多症很常见。分子诊断技术也得到了发展（2）。
+M. perstans（珀氏曼森线虫）对治疗其他丝虫病的药物（包括乙胺嗪）相对耐药。使用多西环素200mg每日1次，持续4至6周，以针对M. perstans（珀氏曼森线虫）成虫体内的共生Wolbachia（沃尔巴克氏体）细菌，推测可阻断成虫繁殖并可能治愈。沃尔巴克氏菌已在来自马里、喀麦隆、加纳和加蓬的常现曼森线虫蠕虫中发现。关于Wolbachia（沃尔巴克氏体）在乌干达的存在有不同的报告，可能是由于方法学上的限制或存在多种M. perstans（曼森线虫）菌株。强力霉素已被证明在马里(3) 和加纳(4)对M. perstans（珀氏曼森线虫）有效，但强力霉素在治疗Wolbachia（沃尔巴克氏体）缺失地区的感染的效用没有被系统地研究过。在强力霉素无效的情况下，与单药治疗相比，乙胺嗪和甲苯咪唑联合治疗3周可提高活性（5）。
+
+【奥式曼森线虫】
+M. ozzardi在中美洲和南美洲以及许多加勒比海岛屿上很流行。人类是该感染的主要储存宿主。
+M. ozzardi（奥氏曼森线虫）通过叮咬性蠓虫（库蠓））和蚋虫（亚马逊蚋）传播。生命周期类似于M. perstans，除了成虫生活在淋巴管，胸腔和腹膜腔中。血液和皮肤中均存在微丝蚴。
+大多数欧氏曼森线虫感染者无症状，但有些有皮疹、淋巴结肿大、关节痛、发烧、头痛或肺部症状。据报道，巴西亚马逊地区存在M. ozzardi微丝蚴血症引起的角膜炎。
+通过鉴定血液或皮肤中的微丝蚴来确认欧氏曼森线虫的诊断。可以随时抽血。嗜酸性粒细胞增多常见。血清学检查可能也可用于识别感染，但不是特异性的。
+治疗方案为口服伊维菌素，剂量为200 mcg/kg（6），单次给药。用伊维菌素治疗前，如果患者去过流行这两种寄生虫病的非洲中部地区，则应评估其是否同时感染了丝状寄生虫罗阿罗阿虫，因为伊维菌素可能会在重度罗阿罗阿丝虫感染的患者中引起严重反应。内共生Wolbachia见于M. ozzardi, 但是强力霉素对治疗的疗效尚未评估。
+
+【链尾丝虫】
+M. streptocerca在非洲西部和中部以及乌干达的热带雨林中传播。M. streptocerca患病率未知。非人类灵长类动物偶尔会感染，但不是主要的感染储存宿主。
+M. streptocerca的生命周期类似于M. perstans，除了成虫寄生于躯干上部和肩部的真皮中。 皮肤中发现微丝蚴。大部分感染M. streptocerca的患者没有症状。可以观察到真皮增厚，色素减退的斑疹，双侧腋窝或腹股沟淋巴结肿大。不像Onchocerca volvulus（盘尾丝虫），M. streptocerca（链尾曼森线虫）的成虫不会形成皮下结节。
+通过皮肤切片或活检组织中发现微丝蚴作出M. streptocerca感染的诊断。嗜酸性粒细胞增多常见。血清学检查可能有助于识别丝虫感染，但不是特异性的。
+使用2 mg/kg的二乙基氨基甲嗪（DEC），每天3次，持续12天，用于治疗链球菌。DEC可杀死微丝蚴和成虫。但死亡的微丝蚴释放抗原可以加剧皮肤和全身症状。由于潜在的严重不良反应，并发O. volvulus或严重Loa loa感染的患者不应使用DEC。
+伊维菌素（单次口服150 mcg/kg）可以减少链尾曼森线虫微丝蚴负荷，但其对感染过程的影响尚不确定。用伊维菌素治疗前，如果患者去过流行这两种寄生虫病的非洲中部地区，则应评估患者是否合并感染罗阿丝虫（这是另一种丝虫寄生虫），因为伊维菌素可能会在合并严重罗阿丝虫感染的患者中引起不良反应。目前尚不清楚链尾曼森线虫是否携带沃尔巴克氏菌或多西环素在治疗中是否有效。
+
+【参考文献】
+1.Simonsen PE, Onapa AW, Asio SM.Mansonella perstansfilariasis in Africa.Acta Trop.2011;120 Suppl 1:S109-S120.doi:10.1016/j.actatropica.2010.01.014
+1.Simonsen PE, Onapa AW, Asio SM.Mansonella perstansfilariasis in Africa.Acta Trop.2011;120 Suppl 1:S109-S120.doi:10.1016/j.actatropica.2010.01.014
+2.Keiser PB, Coulibaly Y, Kubofcik J, et al.Molecular identification ofWolbachiafrom the filarial nematodeMansonella perstans.Mol Biochem Parasitol.2008;160(2):123-128.doi:10.1016/j.molbiopara.2008.04.012
+2.Keiser PB, Coulibaly Y, Kubofcik J, et al.Molecular identification ofWolbachiafrom the filarial nematodeMansonella perstans.Mol Biochem Parasitol.2008;160(2):123-128.doi:10.1016/j.molbiopara.2008.04.012
+3.Coulibaly YI, Dembele B, Diallo AA, et al.A randomized trial ofdoxycyclineforMansonella perstansinfection.N Engl J Med.2009;361(15):1448-1458.doi:10.1056/NEJMoa0900863
+3.Coulibaly YI, Dembele B, Diallo AA, et al.A randomized trial ofdoxycyclineforMansonella perstansinfection.N Engl J Med.2009;361(15):1448-1458.doi:10.1056/NEJMoa0900863
+4.Batsa Debrah L, Phillips RO, Pfarr K, et al.The Efficacy ofDoxycyclineTreatment onMansonella perstansInfection: An Open-Label, Randomized Trial in Ghana.Am J Trop Med Hyg.2019;101(1):84-92.doi:10.4269/ajtmh.18-0491
+4.Batsa Debrah L, Phillips RO, Pfarr K, et al.The Efficacy ofDoxycyclineTreatment onMansonella perstansInfection: An Open-Label, Randomized Trial in Ghana.Am J Trop Med Hyg.2019;101(1):84-92.doi:10.4269/ajtmh.18-0491
+5.Bregani ER, Rovellini A, Mbaïdoum N, Magnini MG.Comparison of different anthelminthic drug regimens againstMansonella perstansfilariasis.Trans R Soc Trop Med Hyg.2006;100(5):458-463.doi:10.1016/j.trstmh.2005.07.009
+5.Bregani ER, Rovellini A, Mbaïdoum N, Magnini MG.Comparison of different anthelminthic drug regimens againstMansonella perstansfilariasis.Trans R Soc Trop Med Hyg.2006;100(5):458-463.doi:10.1016/j.trstmh.2005.07.009
+6.de Almeida Basano S, de Souza Almeida Aranha Camargo J, Fontes G, et al.Phase III Clinical Trial to EvaluateIvermectinin the Reduction ofMansonella ozzardiinfection in the Brazilian Amazon.Am J Trop Med Hyg.2018;98(3):786-790.doi:10.4269/ajtmh.17-0698
+6.de Almeida Basano S, de Souza Almeida Aranha Camargo J, Fontes G, et al.Phase III Clinical Trial to EvaluateIvermectinin the Reduction ofMansonella ozzardiinfection in the Brazilian Amazon.Am J Trop Med Hyg.2018;98(3):786-790.doi:10.4269/ajtmh.17-0698
+流行病学、临床表现和推荐治疗因曼森线虫属种类而异，感染通常无症状。
+流行病学、临床表现和推荐治疗因曼森线虫属种类而异，感染通常无症状。
+如果计划使用伊维菌素治疗，应对去过中非传播地区的患者评估是否存在合并感染罗阿丝虫。
+如果计划使用伊维菌素治疗，应对去过中非传播地区的患者评估是否存在合并感染罗阿丝虫。
+所有曼森线虫物种的血清学和其他诊断检测的帮助可从疾病控制与预防中心（CDC）的DPDX诊断程序和国立卫生研究院的寄生虫病实验室获得（1-301-496-5398）。
+所有曼森线虫物种的血清学和其他诊断检测的帮助可从疾病控制与预防中心（CDC）的DPDX诊断程序和国立卫生研究院的寄生虫病实验室获得（1-301-496-5398）。

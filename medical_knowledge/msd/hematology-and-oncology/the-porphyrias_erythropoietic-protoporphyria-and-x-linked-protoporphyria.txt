@@ -1,0 +1,137 @@
+标题：红细胞生成性原卟啉症及X连锁卟啉症
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/the-porphyrias/erythropoietic-protoporphyria-and-x-linked-protoporphyria
+============================================================
+
+(参见于卟啉症概述和皮肤型卟啉症概述。）
+由于X连锁原卟啉症与红细胞生成性原卟啉症非常相似，因此有时将其视为红细胞生成性原卟啉症的一种变体。
+约占红细胞生成性原卟啉症表型表现90%的红细胞生成性原卟啉症，源于遗传性亚铁螯合酶缺乏。FECH是常染色体隐性遗传疾病。因此，只有纯合子才具有典型的临床表现。此外，一个有缺陷的FECH等位基因加上一个低表达的野生型等位基因也能产生表型(1)。
+X连锁原卟啉症占所有卟啉病的余下10％，是由于获得功能突变使骨髓中红细胞特异性delta-氨基乙酰丙酸合成酶（ALAS-2）的活性上调，为X染色体连锁遗传。杂合子女性的表型各不相同，可以是无症状的，也可以是男性受累(1)。
+红细胞生成性原卟啉症表型的患病率约为1/75000。然而，英国生物样本库的一项研究发现红细胞生成性原卟啉症的患病率约为1/17,000（2）。作者将这种较高的发病率归因于诊断不足。原卟啉在骨髓和红细胞中聚集，并能进入血浆，沉积在皮肤组织中，经肝脏进入胆汁而排泄。大约10％的患者发展成慢性肝病，其中少数发展为肝硬化，最终进展为肝功能衰竭。更常见的并发症是由于原卟啉经胆汁排泄引起的胆色素结石。
+
+【病因参考文献】
+1.Balwani M, Doheny D, Bishop DF, et al: Loss-of-function ferrochelatase and gain-of-function erythroid-specific 5-aminolevulinate synthase mutations causing erythropoietic protoporphyria and x-linked protoporphyria in North American patients reveal novel mutations and a high prevalence of X-linked protoporphyria.Mol Med19(1):26–35, 2013.doi:10.2119/molmed.2012.00340
+1.Balwani M, Doheny D, Bishop DF, et al: Loss-of-function ferrochelatase and gain-of-function erythroid-specific 5-aminolevulinate synthase mutations causing erythropoietic protoporphyria and x-linked protoporphyria in North American patients reveal novel mutations and a high prevalence of X-linked protoporphyria.Mol Med19(1):26–35, 2013.doi:10.2119/molmed.2012.00340
+2.Dickey AK, Quick C, Ducamp S, et al: Evidence in the UK Biobank for the underdiagnosis of erythropoietic protoporphyria.Genet Med23(1):140–148, 2021.doi:10.1038/s41436-020-00951-8
+2.Dickey AK, Quick C, Ducamp S, et al: Evidence in the UK Biobank for the underdiagnosis of erythropoietic protoporphyria.Genet Med23(1):140–148, 2021.doi:10.1038/s41436-020-00951-8
+
+【症状和体征】
+EPP和XLPP患者病情轻重可相差很大，甚至同一家庭中的患者也可如此。研究表明，在红细胞生成性原卟啉病或X连锁原卟啉病患者中，红细胞原卟啉水平较高是疾病严重程度和肝功能障碍风险的主要决定因素 (1)。
+多数患者自童年起开始出现相应症状。短暂暴露于阳光下即可引起剧烈疼痛，灼痛，红斑及暴露部位的皮肤水肿。通常婴儿或幼儿在短暂日光照射后可啼哭达数小时。患者常被误认为患上了“日光过敏”。有时皮肤肿胀和红斑可能很轻微或根本不存在，而红细胞生成性原卟啉病和 X 连锁原卟啉病未被诊断的时间可能比其他任何卟啉病都更长。
+左图显示一位患有红细胞生成性原卟啉症的年轻女孩在日晒后，脸上出现红斑、色素沉着和结痂。右图显示一位患有红细胞生成性原卟啉症的年轻男孩在日晒后，手和手腕出现红斑和水肿。
+左图显示一位患有红细胞生成性原卟啉症的年轻女孩在日晒后，脸上出现红斑、色素沉着和结痂。右图显示一位患有红细胞生成性原卟啉症的年轻男孩在日晒后，手和手腕出现红斑和水肿。
+© Springer Science+Business Media
+在红细胞生成性原卟啉症中，慢性皮肤变化包括手背的皮肤增厚和苔藓样变。
+在红细胞生成性原卟啉症中，慢性皮肤变化包括手背的皮肤增厚和苔藓样变。
+By permission of the publisher.摘自Bloomer J, Risheg H.InGastroenterology and Hepatology: Liver.Edited by M Feldman (series editor) and WC Maddrey.Philadelphia, Current Medicine, 2004.
+该图像显示了在红细胞生成性原卟啉症中可能发生的慢性皮肤变化（粗糙、增厚和革质皮肤 [苔藓化]），特别是在指关节和头皮上。
+该图像显示了在红细胞生成性原卟啉症中可能发生的慢性皮肤变化（粗糙、增厚和革质皮肤 [苔藓化]），特别是在指关节和头皮上。
+Image courtesy of Karen McKoy, MD.
+这张照片显示了一位患有红细胞生成性原卟啉症的人的线性口周皱纹（鲤鱼嘴）。
+这张照片显示了一位患有红细胞生成性原卟啉症的人的线性口周皱纹（鲤鱼嘴）。
+© Springer Science+Business Media
+左图显示一位患有红细胞生成性原卟啉症的年轻女孩在日晒后，脸上出现红斑、色素沉着和结痂。右图显示一位患有红细胞生成性原卟啉症的年轻男孩在日晒后，手和手腕出现红斑和水肿。
+左图显示一位患有红细胞生成性原卟啉症的年轻女孩在日晒后，脸上出现红斑、色素沉着和结痂。右图显示一位患有红细胞生成性原卟啉症的年轻男孩在日晒后，手和手腕出现红斑和水肿。
+© Springer Science+Business Media
+在红细胞生成性原卟啉症中，慢性皮肤变化包括手背的皮肤增厚和苔藓样变。
+在红细胞生成性原卟啉症中，慢性皮肤变化包括手背的皮肤增厚和苔藓样变。
+By permission of the publisher.摘自Bloomer J, Risheg H.InGastroenterology and Hepatology: Liver.Edited by M Feldman (series editor) and WC Maddrey.Philadelphia, Current Medicine, 2004.
+该图像显示了在红细胞生成性原卟啉症中可能发生的慢性皮肤变化（粗糙、增厚和革质皮肤 [苔藓化]），特别是在指关节和头皮上。
+该图像显示了在红细胞生成性原卟啉症中可能发生的慢性皮肤变化（粗糙、增厚和革质皮肤 [苔藓化]），特别是在指关节和头皮上。
+Image courtesy of Karen McKoy, MD.
+这张照片显示了一位患有红细胞生成性原卟啉症的人的线性口周皱纹（鲤鱼嘴）。
+这张照片显示了一位患有红细胞生成性原卟啉症的人的线性口周皱纹（鲤鱼嘴）。
+© Springer Science+Business Media
+暴晒后，口周与手背部皮肤可能结痂。然而，起疱和疤痕，是迟发性皮肤卟啉症、杂色卟啉和先天性红细胞生成性卟啉的典型表现（见表一些不太常见的卟啉症），不会发生。
+如果皮肤长时间未得到保护，会变粗，增厚，呈皮革样（苔藓样变），特别是在指关节部位。口周可形成线状皱纹（鲤鱼嘴）。X-连锁原卟啉症患者光敏反应及肝病严重度通常高于红细胞生成性原卟啉症。
+如未诊断，红细胞原卟啉症和X连锁原卟啉症可引起社会心理问题，因患儿拒绝去户外活动，而原因不明。由于对疼痛恐惧或预期令人奔溃，可使患儿出现神经过敏，精神紧张，寻衅生事，甚至有与周围环境疏离感觉，或有自杀倾向。
+
+【症状和体征】
+1.Balwani M, Naik H, Anderson KE, et al: Clinical, biochemical, and genetic characterization of North American patients with erythropoietic protoporphyria and X-linked protoporphyria.JAMA Dermatol153(8):789–796, 2017.doi:10.1001/jamadermatol.2017.1557
+1.Balwani M, Naik H, Anderson KE, et al: Clinical, biochemical, and genetic characterization of North American patients with erythropoietic protoporphyria and X-linked protoporphyria.JAMA Dermatol153(8):789–796, 2017.doi:10.1001/jamadermatol.2017.1557
+红细胞和血浆总原卟啉以及无金属原卟啉的检测
+红细胞和血浆总原卟啉以及无金属原卟啉的检测
+FECH或ALAS 2基因突变检测
+FECH或ALAS 2基因突变检测
+儿童和成人如有疼痛性皮肤光过敏而无水疱或瘢痕形成，应考虑为EPP或XLPP。儿童胆结石应进行红细胞生成性原卟啉症及X连锁原卟啉症的检查。这些患者通常没有家族史。
+红细胞和血浆中原卟啉浓度增高可确定诊断。等离子体荧光峰值出现在634nm处，随后在410nm处激发。患有X连锁原卟啉症的患者血液中的原卟啉水平差异很大，但通常高于红细胞生成性原卟啉症患者。
+红细胞原卟啉还应分馏来确定无金属原卟啉与锌原卟啉的比例。红细胞生成性原卟啉症患者红细胞原卟啉中游离金属比例几乎均＞85%。 锌原卟啉含量>15%表明存在X连锁原卟啉病。
+血浆粪卟啉、尿卟啉水平正常。粪原卟啉可升高，但粪卟啉水平是正常的。
+亲属中的潜在携带者可通过红细胞原卟啉含量增高及基因检测来确定，如果在指示病例中发现了突变。
+衣物遮盖和防晒霜以避免日晒
+衣物遮盖和防晒霜以避免日晒
+阿法诺肽或德西美拉贡用于预防光毒性事件和改善光毒性反应
+阿法诺肽或德西美拉贡用于预防光毒性事件和改善光毒性反应
+皮肤灼伤的对症治疗包括冷敷，非甾体类抗炎药 (NSAIDs)，局部外用和/或口服皮质类固醇。
+皮肤灼伤的对症治疗包括冷敷，非甾体类抗炎药 (NSAIDs)，局部外用和/或口服皮质类固醇。
+肝胆并发症管理
+肝胆并发症管理
+红细胞生成性原卟啉症及X连锁卟啉症的治疗方法相似。EPP或XLPP患者应避免日光照射，穿衣戴帽，用不透光的含氧化锌或二氧化钛防晒霜。
+阿法诺肽是一种长效的黑色素细胞刺激激素同源物，可增加真黑色素的产生，可以每60天皮下植入一次，降低光敏性，延长曝光时间，提高生活质量（1)。
+德西美拉贡是一种口服选择性促黑素皮质素1受体激动剂，可增加真黑素的产生，从而产生光保护作用。在一项 2 期试验中，德西美拉贡增加了红细胞生成性原卟啉病和 X 连锁原卟啉病患者无症状日光照射的持续时间（2）。
+口服抗氧化的beta胡萝卜素可以降低光敏性。然而，患者对β-胡萝卜素的依从性通常较差，因为它在控制症状方面效果不佳，而且会导致皮肤出现橘黄色色素沉着，这在皮肤黝黑的患者中不太明显且不严重；因此，β-胡萝卜素经常被尝试，但通常不会持续使用。β-胡萝卜素剂量取决于患者的年龄。
+诱发急性卟啉病的药物无需避免使用。
+在一些患者中，急性皮肤症状可以通过冷水浴或湿毛巾、止痛药、局部和/或口服皮质类固醇来缓解。然而，许多患者并不认为这些措施非常有效。症状可能持续1星期才能解除。
+若上述措施无效（如，皮肤光敏性增高，卟啉浓度上升，黄疸逐渐加深），给予正铁血红素和/或红细胞过量输入（即让血红蛋白水平高于正常水平），可降低原卟啉的过度生成。血浆置换术也可有效地急性降低血浆中高浓度的原卟啉；然而，这种效果的持续时间通常很短。
+服用胆酸可促进原卟啉经胆道排泄。
+口服消胆胺或活性炭用于阻断肝肠循环，促使卟啉经粪便排泄。
+口服维生素E，每天800单位，也被用于希望能发挥抗氧化和肝脏保护作用，尽管客观的受益证据不多。
+患有红细胞生成性原卟啉症或X连锁原卟啉症的患者，尤其是女性，常常会出现贫血和缺铁，其原因尚不清楚。这并非由于铁调素的异常所致，铁调素是肝脏产生的激素，可减少铁的吸收和从储存中释放（3）。铁替代通常会导致X连锁原卟啉病中原卟啉水平下降和光敏感性严重程度降低，但在红细胞生成性原卟啉病中则会导致原卟啉水平升高（4）。患有红细胞生成性原卟啉症的患者不应通过静脉注射补铁，因为存在引发肝病急性恶化的风险。如需补铁，每天或隔天服用一次口服铁剂，并配合维生素C，是首选治疗方案。
+失代偿的终末期肝病患者需要肝移植。与急性间歇性卟啉病类似，红细胞生成性原卟啉症患者不符合标准化终末期肝病模型（MELD）例外评分标准。然而，肝移植不能纠正潜在的代谢缺陷，而且在移植的肝脏中，常会出现红细胞生成性原卟啉病肝病。
+造血干细胞移植对于红细胞生成性原卟啉病具有治愈作用，但通常不作为常规治疗手段，因为其风险往往大于收益。肝移植后行造血干细胞移植的策略可治愈红细胞生成性原卟啉症并防止其复发损伤移植肝，但该策略的最佳时机尚未确定。在肝移植或其他持续时间较长的手术期间，应防止手术灯灼伤患者，以免内脏遭受严重的光毒性损伤。光源应使用市售的滤光片加以覆盖，这些滤光片应能阻挡约380～420纳米波长的光 (5)。内镜、腹腔镜，和短时的腹部手术 (< 1.5 h) 没有连接光毒损伤的风险。
+
+【经验与提示】
+经验与提示
+手术灯可损伤红细胞生成性原卟啉症患者的内脏。
+手术灯可损伤红细胞生成性原卟啉症患者的内脏。
+医师和患者定期会面十分重要，患者可从中获取信息，和医师讨论病情，进行遗传咨询，以及接受体检。每年检测1次肝功能与红细胞、血浆中的原卟啉水平。
+如发现肝功能异常应及时至肝病专科进行评估，必要时行肝活检以评价纤维化的程度。患有已知慢性肝病的患者应每6个月进行一次肝脏超声、CT或MRI筛查，以检查肝细胞癌。
+应测定维生素D水平，因为维生素D缺乏很常见（患者避光）；如维生素D水平偏低，应予补充。
+所有红细胞生成性原卟啉症和X连锁原卟啉症的患者均应接种甲型肝炎疫苗和乙型肝炎疫苗，并建议不要饮酒。
+任何可能导致胆汁淤积的化学物质、药物或疾病都可能加重红细胞生成性原卟啉症或X连锁原卟啉症，应避免。
+
+【治疗参考文献】
+1.Langendonk JG, Balwani M, Anderson KE, et al:Afamelanotidefor erythropoietic protoporphyria.N Engl J Med373:48–59, 2015.doi: 10.1056/NEJMoa1411481
+1.Langendonk JG, Balwani M, Anderson KE, et al:Afamelanotidefor erythropoietic protoporphyria.N Engl J Med373:48–59, 2015.doi: 10.1056/NEJMoa1411481
+2.Balwani M, Bonkovsky HL, Levy C, et al:Dersimelagonin Erythropoietic Protoporphyrias.N Engl J Med388(15):1376–1385, 2023.doi:10.1056/NEJMoa2208754
+2.Balwani M, Bonkovsky HL, Levy C, et al:Dersimelagonin Erythropoietic Protoporphyrias.N Engl J Med388(15):1376–1385, 2023.doi:10.1056/NEJMoa2208754
+3.Bossi K, Lee J, Schmeltzer P, et al: Homeostasis of iron and hepcidin in erythropoietic protoporphyria.Eur J Clin Invest45(10):1032–1041, 2015.doi:10.1111/eci.12503
+3.Bossi K, Lee J, Schmeltzer P, et al: Homeostasis of iron and hepcidin in erythropoietic protoporphyria.Eur J Clin Invest45(10):1032–1041, 2015.doi:10.1111/eci.12503
+4.Barman-Aksözen J, Minder EI, Schubiger C, Biolcati G, Schneider-Yin X: In ferrochelatase-deficient protoporphyria patients, ALAS2 expression is enhanced and erythrocytic protoporphyrin concentration correlates with iron availability.Blood Cells Mol Dis54(1):71–77, 2015.doi:10.1016/j.bcmd.2014.07.017
+4.Barman-Aksözen J, Minder EI, Schubiger C, Biolcati G, Schneider-Yin X: In ferrochelatase-deficient protoporphyria patients, ALAS2 expression is enhanced and erythrocytic protoporphyrin concentration correlates with iron availability.Blood Cells Mol Dis54(1):71–77, 2015.doi:10.1016/j.bcmd.2014.07.017
+5.Hanaki T, Noda T, Eguchi H, et al.Successful Liver Transplantation for Liver Failure With Erythropoietic Protoporphyria by Covering the Operating Theater Lights With Polyimide Film: A Case Report.Transplant Proc52(2):625–629, 2020.doi:10.1016/j.transproceed.2019.12.004
+5.Hanaki T, Noda T, Eguchi H, et al.Successful Liver Transplantation for Liver Failure With Erythropoietic Protoporphyria by Covering the Operating Theater Lights With Polyimide Film: A Case Report.Transplant Proc52(2):625–629, 2020.doi:10.1016/j.transproceed.2019.12.004
+即使只是短暂地暴露在阳光下，红细胞生成原卟啉症也会引起暴露皮肤的剧烈疼痛、灼烧、红斑和水肿;这些症状不是由引发其他卟啉症的药物引起的。
+即使只是短暂地暴露在阳光下，红细胞生成原卟啉症也会引起暴露皮肤的剧烈疼痛、灼烧、红斑和水肿;这些症状不是由引发其他卟啉症的药物引起的。
+10%的患者发生肝硬化，甚至进展为肝功能衰竭。
+10%的患者发生肝硬化，甚至进展为肝功能衰竭。
+红细胞和血浆中原卟啉测定
+红细胞和血浆中原卟啉测定
+避免阳光暴晒，必要时用药物（如β-胡萝卜素，阿法诺肽）预防。
+避免阳光暴晒，必要时用药物（如β-胡萝卜素，阿法诺肽）预防。
+输注血色素和/或红细胞可缓解原卟啉过剩。
+输注血色素和/或红细胞可缓解原卟啉过剩。
+X连锁原卟啉症临床表现与红细胞生成性原卟啉症相似，但光敏性和肝病较红细胞生成性原卟啉症更为严重。
+X连锁原卟啉症临床表现与红细胞生成性原卟啉症相似，但光敏性和肝病较红细胞生成性原卟啉症更为严重。
+X连锁原卟啉症的重要线索是红细胞内锌原卟啉占原卟啉总量的比例显著升高。
+X连锁原卟啉症的重要线索是红细胞内锌原卟啉占原卟啉总量的比例显著升高。
+X连锁原卟啉症的治疗与红细胞生成性原卟啉症的治疗相似。
+X连锁原卟啉症的治疗与红细胞生成性原卟啉症的治疗相似。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+American Porphyria Foundation: 旨在教育和支持受卟啉症影响的患者和家庭，并支持卟啉症的治疗和预防研究
+American Porphyria Foundation: 旨在教育和支持受卟啉症影响的患者和家庭，并支持卟啉症的治疗和预防研究
+American Porphyria Foundation:Safe/Unsafe Drug Database: Provides a list of medications available in the United States to assist physicians in prescribing for patients with porphyrias
+American Porphyria Foundation:Safe/Unsafe Drug Database: Provides a list of medications available in the United States to assist physicians in prescribing for patients with porphyrias
+European Porphyria Network: Promotes clinical research about porphyrias
+European Porphyria Network: Promotes clinical research about porphyrias
+The Drug Database for Acute Porphyrias: Provides an up-to-date list of medications available in Europe to assist physicians in prescribing for patients with porphyrias
+The Drug Database for Acute Porphyrias: Provides an up-to-date list of medications available in Europe to assist physicians in prescribing for patients with porphyrias
+United Porphyrias Association: Provides education and support to patients and their families; provides reliable information to health-care providers; fosters and supports clinical research to improve diagnosis and management of the porphyrias
+United Porphyrias Association: Provides education and support to patients and their families; provides reliable information to health-care providers; fosters and supports clinical research to improve diagnosis and management of the porphyrias
+Levy C, Dickey AK, Wang B, et al.Evidence-based consensus guidelines for the diagnosis and management of protoporphyria-related liver dysfunction in erythropoietic protoporphyria and X-linked protoporphyria.Hepatology2024;79(3):731-743.doi:10.1097/HEP.0000000000000546
+Levy C, Dickey AK, Wang B, et al.Evidence-based consensus guidelines for the diagnosis and management of protoporphyria-related liver dysfunction in erythropoietic protoporphyria and X-linked protoporphyria.Hepatology2024;79(3):731-743.doi:10.1097/HEP.0000000000000546
+Balwani M, Naik H, Anderson KE, et al.Clinical, biochemical, and genetic characterization of North American patients with erythropoietic protoporphyria and X-linked protoporphyria.JAMA Dermatol153(8):789–796, 2017.doi:10.1001/jamadermatol.2017.1557
+Balwani M, Naik H, Anderson KE, et al.Clinical, biochemical, and genetic characterization of North American patients with erythropoietic protoporphyria and X-linked protoporphyria.JAMA Dermatol153(8):789–796, 2017.doi:10.1001/jamadermatol.2017.1557
+Dickey AK, Naik H, Keel SB, et al.Evidence-based consensus guidelines for the diagnosis and management of erythropoietic protoporphyria and X-linked protoporphyria.J Am Acad Dermatol2023;89(6):1227-1237.doi:10.1016/j.jaad.2022.08.036
+Dickey AK, Naik H, Keel SB, et al.Evidence-based consensus guidelines for the diagnosis and management of erythropoietic protoporphyria and X-linked protoporphyria.J Am Acad Dermatol2023;89(6):1227-1237.doi:10.1016/j.jaad.2022.08.036

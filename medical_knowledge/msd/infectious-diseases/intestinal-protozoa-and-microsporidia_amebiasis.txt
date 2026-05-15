@@ -1,0 +1,159 @@
+标题：阿米巴病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/intestinal-protozoa-and-microsporidia/amebiasis
+============================================================
+
+（参见肠道原虫和微孢子虫感染概述。）
+有4种类型的Entamoeba内阿米巴，根据形态无法鉴别，分子检测手段可区分：
+E. histolytica溶组织内阿米巴（致病性）
+E. histolytica溶组织内阿米巴（致病性）
+E. dispar迪斯帕内阿米巴（无害定植，更常见）
+E. dispar迪斯帕内阿米巴（无害定植，更常见）
+肠道溶组织内阿米巴病（不太常见，但有证据表明存在潜在致病性[1]）
+肠道溶组织内阿米巴病（不太常见，但有证据表明存在潜在致病性[1]）
+E. bangladeshi（不太常见，致病性不确定）
+E. bangladeshi（不太常见，致病性不确定）
+阿米巴病主要由E. histolytica（溶组织内阿米巴）引起，并且往往发生在卫生条件较差的地区。这种寄生虫在世界各地都有，但大多数感染发生在中美洲、南美洲西部、非洲西部和南部、印度以及南亚部分地区。在有卫生食品和水供应的国家 ，大多数病例发生在新近移民和从流行地区返回的旅行者中。
+全球每年约有 5000 万人患阿米巴结肠炎或肠外疾病，多达73000人死亡（2）。
+
+【参考文献】
+1.Heredia RD, Fonseca JA, López MC: Entamoeba moshkovskii perspectives of a new agent to be considered in the diagnosis of amebiasis.Acta Trop.2012;123(3):139-145.doi:10.1016/j.actatropica.2012.05.012
+1.Heredia RD, Fonseca JA, López MC: Entamoeba moshkovskii perspectives of a new agent to be considered in the diagnosis of amebiasis.Acta Trop.2012;123(3):139-145.doi:10.1016/j.actatropica.2012.05.012
+2.Lozano R, Naghavi M, Foreman K, et al: Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: a systematic analysis for the Global Burden of Disease Study 2010 [published correction appears inLancet.2013 Feb 23;381(9867):628.AlMazroa, Mohammad A [added]; Memish, Ziad A [added]].Lancet.2012;380(9859):2095-2128.doi:10.1016/S0140-6736(12)61728-0
+2.Lozano R, Naghavi M, Foreman K, et al: Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: a systematic analysis for the Global Burden of Disease Study 2010 [published correction appears inLancet.2013 Feb 23;381(9867):628.AlMazroa, Mohammad A [added]; Memish, Ziad A [added]].Lancet.2012;380(9859):2095-2128.doi:10.1016/S0140-6736(12)61728-0
+
+【阿米巴病的病理生理学】
+Entamoeba内阿米巴属以两种形态存在：
+囊肿（感染形式）
+囊肿（感染形式）
+滋养体（引起侵袭性疾病的形式）
+滋养体（引起侵袭性疾病的形式）
+包囊主要见于成形粪便中并对外界环境具有抵抗能力。摄入阿米巴囊肿后就会发生感染。它们可能通过粪口传播（包括通过口肛性接触）在人与人之间直接传播，或通过食物或水间接传播。包囊在环境中可存活数周至数月。阿米巴原虫吞入囊肿后，会脱囊并在结肠中形成滋养体。
+活动的滋养体以细菌和组织为食，在大肠的肠腔和黏膜内繁殖并寄生，有时可侵入到组织和器官。滋养体主要见于水样便中，但在体外很快死亡，如果摄入，会被胃酸杀死。有些滋养体在定植结肠腔内变为包囊并随粪便排至体外。
+E. histolytica溶组织内阿米巴滋养体黏附并杀死结肠上皮细胞和多核型白细胞（PMNs），引起带有黏液和血的痢疾样便，但粪便中很少有PMNs。滋养体还能分泌降解细胞外基质的蛋白酶，使虫体能入侵肠壁甚至到达肠外。滋养体可经门脉循环扩散并引起坏死性肝脓肿。感染可从肝脏直接扩展蔓延到右胸膜腔、肺或皮肤，在极少数情况下可通过血流扩展至脑和其他器官。
+
+【阿米巴病的症状和体征】
+大多数阿米巴病患者无症状，但粪便中可持续排出包囊。
+结肠组织侵犯时出现的症状通常在摄入囊肿后 1 至 3 周出现，包括
+间断腹泻和便秘
+间断腹泻和便秘
+胃肠胀气
+胃肠胀气
+痉挛性腹痛
+痉挛性腹痛
+肝区或升结肠区可能有触痛，可能出现发热，粪便含有黏液和血。
+
+【阿米巴痢疾】
+阿米巴痢疾表现为频繁出现半液状粪便，粪便中常含有血液、粘液和活的滋养体。腹部体征从轻度触痛到伴有高热和全身中毒症状的明显腹痛。阿米巴结肠炎通常伴有腹部触痛。有时，可能会发生暴发性结肠炎并发中毒性巨结肠或腹膜炎。
+复发间期，症状可减轻，为反复发生的腹部痉挛以及松或极软的粪便，但可发生虚弱和贫血。也可能出现提示阑尾炎的症状。若对这类患者作外科手术可能引致阿米巴的腹膜播散。
+
+【慢性结肠阿米巴感染】
+慢性结肠阿米巴感染症状与炎症性肠病相似，表现为间歇性非痢疾样腹泻并伴有腹痛、黏液便、腹胀和体重减轻。慢性感染还可在升结肠和盲肠区出现触痛的可扪及类似于癌肿的块状或环状病变（阿米巴瘤）。阿米巴瘤可能被误认为是结肠癌或者化脓性脓肿。
+
+【肝脏或其他肠外阿米巴病】
+肠外阿米巴病起源于结肠感染，可累及任何器官，但肝脓肿最为常见。
+肝脓肿通常是单发的，大多位于右叶。可发生在以往无症状的患者，男性比女性多见（7：1~9：1），可隐匿发生。症状包括肝区疼痛或不适，有时疼痛可放射到右肩，并伴有间歇热，出汗、寒战、恶心、呕吐、乏力和体重减轻。黄疸不常见，若有也仅仅是轻度黄疸。 脓肿可穿破到膈下间隙、右胸膜腔、右肺和其他邻近器官（如心包）。
+脑脓肿很少见，几乎只发生在患有肝脓肿的患者身上。
+有时可见皮肤病变，特别是慢性感染者的肛周和臀部，也可发生在外伤或手术的伤口。
+
+【阿米巴病的诊断】
+肠道感染：粪便酶联免疫测定、粪便寄生虫DNA分子检测、显微镜检查和/或血清学检测
+肠道感染：粪便酶联免疫测定、粪便寄生虫DNA分子检测、显微镜检查和/或血清学检测
+肠外感染：影像学、血清学检测或抗阿米巴药物诊断性治疗
+肠外感染：影像学、血清学检测或抗阿米巴药物诊断性治疗
+非痢疾性阿米巴病可能被误诊为肠易激综合症，炎症性肠病， 或者憩室炎。 右侧结肠肿块也可能误诊为肿瘤、结核、放线菌病或淋巴瘤。
+阿米巴痢疾可与细菌性痢疾、沙门菌病、血吸虫病或溃疡性结肠炎相混淆。与细菌性痢疾相比，阿米巴痢疾的粪便次数和水分均较少。其特征是含有黏稠的黏液和片状出血。不同于细菌性痢疾、沙门菌感染和溃疡性结肠炎，阿米巴粪便不含有大量白细胞，因为滋养体能溶解白细胞。
+肝阿米巴病和阿米巴脓肿必须与其他肝脏感染（如包虫病）和肿瘤相鉴别。阿米巴肝脓肿患者常表现为右上腹疼痛和发热。阿米巴肝脓肿在暴露于流行地区的男性和年轻人中更常见，而化脓性肝脓肿在老年患者中更常见。还有，包虫病在囊肿直径长到 10 厘米之前通常无症状，并且肝细胞癌除了由慢性肝病引起的症状外，通常没有其他症状。然而，通常需要影像学、实验室检查和组织活检来诊断阿米巴病。检测通常包括全血计数（CBC）、肝脏检测和腹部CT。化脓性肝脓肿患者常有白细胞计数左移、血清胆红素浓度升高、胆结石病史和糖尿病。阿米巴肝脓肿通常不会导致白细胞计数左移或血清胆红素浓度升高。
+在粪便或组织中发现阿米巴滋养体、囊肿或两者兼有，可支持阿米巴病的诊断；然而，致病性溶组织内阿米巴在形态学上与非致病性迪斯帕内阿米巴以及致病性不确定的茂氏内阿米巴和孟加拉阿米巴难以区分。免疫分析检测粪便中E. histolytica（溶组织内阿米巴）抗原是敏感和特异的，且用于确认诊断。特定的 DNA 检测分析E. histolytica（溶组织内阿米巴）使用聚合酶链反应可在诊断参考实验室获得，并且具有非常高的灵敏度和特异性。
+血清学检查呈阳性
+约95％的阿米巴肝脓肿患者
+约95％的阿米巴肝脓肿患者
+> 70％的活动性肠道感染者
+> 70％的活动性肠道感染者
+酶联免疫法（EIA）是应用最为广泛的血清检测手段。抗体滴度可确诊E. histolytica溶组织内阿米巴感染，但可持续数月或数年，因此不能区分那些来自感染高发地区的居民的急性感染和既往感染。因此，如果既往感染可能性较小时（例如，前往疫区的旅行者），血清学检测是有帮助的。
+
+【阿米巴肠道感染】
+基于聚合酶链反应的分子检测和酶免疫方法检测粪便抗原更敏感，而且能区分溶组织内阿米巴E. histolytica（溶组织内阿米巴) 和其他的阿米巴。诊断要求检查3~6次粪便标本和浓集方法（见表收集和处理寄生虫感染的显微诊断标本）。抗生素、抗酸药、止泻药、灌肠剂和肠道放射造影对比剂均可干扰原虫的检查，因此，要在粪检后才能给予上述药物。E. histolytica（溶组织内阿米巴) 在形态上与E. dispar（迪斯帕内阿米巴）、E. moshkovskii（莫氏内阿米巴）和E. bangladeshi（孟加拉内阿米巴）难以区分，可以通过显微镜与许多非致病微生物区分开来，包括E. coli（大肠杆菌）、E. hartmanni（哈门内阿米巴）、E. polecki（波列基内阿米巴）、Endolimax nana（微小内阿米巴）和Iodamoeba bütschlii（布氏嗜碘阿米巴）。
+对于有症状的患者，乙状结肠镜检查或结肠镜检查可能在组织学检查中发现非特异性炎症变化或特征性的烧瓶状粘膜病变。应抽吸病变部位，检查吸出物中是否有滋养体，并进行特异性E. histolytica（溶组织内阿米巴)抗原或 DNA 检测。取自直肠乙状结肠病变处的活检标本也可发现滋养体。
+该显微照片显示了肠道阿米巴病感染引起的组织病理学变化。请注意这种典型的烧瓶状肠粘膜溃疡的形态。
+Image courtesy of CDC/Dr. Mae Melvin via the Public Health Image Library of the Centers for Disease Control and Prevention.
+
+【阿米巴肝感染】
+阿米巴肠外感染较难诊断。粪检通常阴性，从吸出的脓液查见滋养体也不多见。如怀疑肝脓肿，应进行超声、CT或MRI检查。这些检查的敏感性相近；但没有一种方法能明确地区分阿米巴脓肿和化脓性脓肿。
+针吸活检用于以下情况：
+那些可能是由真菌或化脓性细菌引起的
+那些可能是由真菌或化脓性细菌引起的
+那些即将破裂的病灶
+那些即将破裂的病灶
+那些对药物治疗反应不佳
+那些对药物治疗反应不佳
+脓肿内含黄色至巧克力棕色的黏稠的半液体状物质。针刺活检可见坏死组织，但脓液中很难找到活动的阿米巴，也无包囊。
+用杀阿米巴药物作诊断性治疗是诊断阿米巴肝脓肿最有价值的诊断手段。
+
+【经验与提示】
+经验与提示
+肠道外阿米巴病患者粪便镜检通常是阴性的。
+肠道外阿米巴病患者粪便镜检通常是阴性的。
+
+【阿米巴病的治疗】
+最初，口服替硝唑、甲硝唑、塞克硝唑或奥硝唑
+最初，口服替硝唑、甲硝唑、塞克硝唑或奥硝唑
+双碘羟喹、巴龙霉素或糠酸二氯尼特清除包囊
+双碘羟喹、巴龙霉素或糠酸二氯尼特清除包囊
+对于消化道症状和肠外阿米巴病，使用以下口服药物之一：
+甲硝唑7至10天
+甲硝唑7至10天
+替硝唑：轻中度胃肠道症状疗程3日，严重胃肠道症状疗程5日，阿米巴肝脓肿疗程3至5日。
+替硝唑：轻中度胃肠道症状疗程3日，严重胃肠道症状疗程5日，阿米巴肝脓肿疗程3至5日。
+单剂量塞克硝唑
+单剂量塞克硝唑
+奥硝唑 5天
+奥硝唑 5天
+必须避免饮酒，因为这些药物可能具有类似双硫仑的效果。
+就胃肠道不良反应而言，替硝唑的耐受性通常优于甲硝唑。
+硝唑尼特是非侵袭性肠道阿米巴病的有效替代品，但对侵袭性疾病的疗效尚不清楚；因此，只有在有其他治疗禁忌的情况下才应使用它（1,2）。
+对于胃肠道症状严重的患者，还应进行补液等对症支持治疗，以纠正水、电解质紊乱等。
+尽管甲硝唑、替硝唑和硝唑尼特有一定的抗E. histolytica（溶组织内阿米巴)囊肿活性，但它们不足以根除囊肿。因此，需要使用第二种口服药物以清除肠道内残留的囊肿。
+清除囊肿的药物选择有：
+双碘喹 20 天
+双碘喹 20 天
+巴龙霉素 7 天（孕期使用安全）
+巴龙霉素 7 天（孕期使用安全）
+糠酸二氯尼特，10天
+糠酸二氯尼特，10天
+糠酸二氯尼特在美国没有商业销售，但可以通过一些复合药店获得。
+莫氏内阿米巴和孟加拉内阿米巴的致病性是不确定的。在食物和水被粪便污染的贫困地区，主要是在有或没有腹泻的儿童的粪便中发现了它们。用于识别它们的分子诊断测试仅在研究环境中可用。最佳治疗方法未知，但它们很可能对用于治疗E. histolytica（溶组织内阿米巴）的药物有反应。鉴于有关E. moshkovskii（莫氏内阿米巴）致病性的新数据（3），可以考虑采用与治疗E. histolytica（溶组织内阿米巴）相同的方法治疗症状性感染。
+排出E. histolytica（溶组织内阿米巴）包囊的无症状患者应使用巴龙霉素、双碘喹啉或糠酸二氯尼特进行治疗，以预防侵袭性疾病的发生以及扩散至身体的其他部位和他人 (4)。
+不需要治疗E. dispar或无症状的E. moshkovskii和E. bangladeshi，直到更多地了解其致病性。
+
+【治疗参考文献】
+1.Rossignol JF, Kabil SM, El-Gohary Y, et al: Nitazoxanide in the treatment of amoebiasis.Trans R Soc Trop Med Hyg101(10):1025-31, 2007.doi: 10.1016/j.trstmh.2007.04.001
+1.Rossignol JF, Kabil SM, El-Gohary Y, et al: Nitazoxanide in the treatment of amoebiasis.Trans R Soc Trop Med Hyg101(10):1025-31, 2007.doi: 10.1016/j.trstmh.2007.04.001
+2.Escobedo AA, Almirall P, Alfonso M, et al: Treatment of intestinal protozoan infections in children.Arch Dis Child94(6):478-82, 2009.doi: 10.1136/adc.2008.151852
+2.Escobedo AA, Almirall P, Alfonso M, et al: Treatment of intestinal protozoan infections in children.Arch Dis Child94(6):478-82, 2009.doi: 10.1136/adc.2008.151852
+3.Heredia RD, Fonseca JA, López MC: Entamoeba moshkovskii perspectives of a new agent to be considered in the diagnosis of amebiasis.Acta Trop.2012;123(3):139-145.doi:10.1016/j.actatropica.2012.05.012
+3.Heredia RD, Fonseca JA, López MC: Entamoeba moshkovskii perspectives of a new agent to be considered in the diagnosis of amebiasis.Acta Trop.2012;123(3):139-145.doi:10.1016/j.actatropica.2012.05.012
+4.Blessmann J, Tannich E: Treatment of asymptomatic intestinal Entamoeba histolytica infection.N Engl J Med.2002;347(17):1384.doi:10.1056/NEJM200210243471722
+4.Blessmann J, Tannich E: Treatment of asymptomatic intestinal Entamoeba histolytica infection.N Engl J Med.2002;347(17):1384.doi:10.1056/NEJM200210243471722
+
+【预防阿米巴病。】
+为了预防阿米巴病，必须避免食物和水被人类粪便污染——这一问题由于无症状携带者的高发病率而变得复杂。
+为了降低感染阿米巴病的风险，人们应该注意饮食和水的卫生，保持良好的手部卫生，并在性活动中避免接触粪便。(见 Centers for Disease Control and Prevention: Yellow Book:AmebiasisandFood & Water Precautions.)
+在卫生条件较差的地区，应避免食用未煮熟的食物（包括沙拉和蔬菜）以及可能受到污染的水和冰。煮沸能杀死E. histolytica（溶组织内阿米巴）的包囊。含碘或氯的化学消毒剂的效果取决于水的温度以及其中所含有机物残骸的数量。便携的滤器可提供一定程度的保护作用。
+现在已经在研制疫苗，但尚未成功。
+溶组织内阿米巴感染通常无症状，但可引起肠道症状，痢疾或肝脓肿。
+溶组织内阿米巴感染通常无症状，但可引起肠道症状，痢疾或肝脓肿。
+使用粪便抗原检测、DNA分子检测或显微镜检查诊断阿米巴肠道感染。
+使用粪便抗原检测、DNA分子检测或显微镜检查诊断阿米巴肠道感染。
+利用超声、CT、MRI或血清学检测可帮助诊断阿米巴肝脓肿，如果认为既往不太可能感染（例如有疫区旅游史者）需要排除时该检测是最有帮助的，也可应用抗阿米巴药物诊断性治疗来明确诊断。
+利用超声、CT、MRI或血清学检测可帮助诊断阿米巴肝脓肿，如果认为既往不太可能感染（例如有疫区旅游史者）需要排除时该检测是最有帮助的，也可应用抗阿米巴药物诊断性治疗来明确诊断。
+使用甲硝唑、替硝唑、塞克硝唑或奥硝唑治疗以消灭阿米巴滋养体，然后用碘喹、巴龙霉素或糠酸二氯尼特杀死肠道内的囊肿。
+使用甲硝唑、替硝唑、塞克硝唑或奥硝唑治疗以消灭阿米巴滋养体，然后用碘喹、巴龙霉素或糠酸二氯尼特杀死肠道内的囊肿。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+Centers for Disease Control and Prevention: Yellow Book:Amebiasis
+Centers for Disease Control and Prevention: Yellow Book:Amebiasis
+CDC: Yellow Book:Food & Water Precautions
+CDC: Yellow Book:Food & Water Precautions
+CDC: Parasites - Amebiasis:General Information
+CDC: Parasites - Amebiasis:General Information

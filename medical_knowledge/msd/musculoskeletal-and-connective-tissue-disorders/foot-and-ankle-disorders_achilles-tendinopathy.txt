@@ -1,0 +1,147 @@
+标题：跟腱病
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/foot-and-ankle-disorders/achilles-tendinopathy
+============================================================
+
+跟腱病在跑步运动员中十分常见。小腿肌肉通过跟腱附着到跟骨。跑步时，小腿肌肉参与协助步态抬起。跑步过程中反复的机械应力若恢复时间不足，可导致对重复性微损伤的修复反应失败，从而引起肌腱基质的退行性改变，例如胶原纤维紊乱及新生血管形成（1）。这些变化会导致肌腱增厚。非消退性炎症也被认为是慢性肌腱病的特征。氟喹诺酮类抗生素也可增加发生跟腱病及完全性肌腱断裂的风险（2）。
+跟腱完全撕裂是种严重创伤，常由突然、强烈的应力所致。服用喹诺酮抗生素者即使轻微活动也可能会出现跟腱撕裂。
+跟腱病可能与Haglund畸形有关，Haglund畸形是指跟腱附近的跟骨后上突。哈格伦德畸形（Haglund deformity）的存在与患者的症状并不存在直接关联（3）。
+
+【参考文献】
+1.Traweger A, Scott A, Kjaer M, et al.Achilles tendinopathy.Nat Rev Dis Primers.2025;11(1):20.Published 2025 Mar 27.doi:10.1038/s41572-025-00602-9
+1.Traweger A, Scott A, Kjaer M, et al.Achilles tendinopathy.Nat Rev Dis Primers.2025;11(1):20.Published 2025 Mar 27.doi:10.1038/s41572-025-00602-9
+2.Shu Y, Zhang Q, He X, Liu Y, Wu P, Chen L.Fluoroquinolone-associated suspected tendonitis and tendon rupture: A pharmacovigilance analysis from 2016 to 2021 based on the FAERS database.Front Pharmacol.2022;13:990241.doi:10.3389/fphar.2022.990241
+2.Shu Y, Zhang Q, He X, Liu Y, Wu P, Chen L.Fluoroquinolone-associated suspected tendonitis and tendon rupture: A pharmacovigilance analysis from 2016 to 2021 based on the FAERS database.Front Pharmacol.2022;13:990241.doi:10.3389/fphar.2022.990241
+3.Kang S, Thordarson DB, Charlton TP.Insertional Achilles tendinitis and Haglund's deformity.Foot Ankle Int.2012 Jun;33(6):487-491.doi: 10.3113/FAI.2012.0487
+3.Kang S, Thordarson DB, Charlton TP.Insertional Achilles tendinitis and Haglund's deformity.Foot Ankle Int.2012 Jun;33(6):487-491.doi: 10.3113/FAI.2012.0487
+
+【跟腱病的症状和体征】
+跟腱炎症主要症状是脚跟后方疼痛，疼痛在锻炼开始时加重，随锻炼继续而减轻。
+跟腱完全断裂通常发生于突然的强力跖屈动作中，尤其见于平时不经常参加高强度运动的成年人（如“周末运动员”），常见于跳跃或打篮球等活动时。患者会有一种脚踝和小腿后部被击中的感觉，并伴有腿后部的爆裂感或咔嚓感。此感觉立即伴随无法承重或从患肢推离。
+
+【跟腱病的诊断】
+主要是病史和体格检查
+主要是病史和体格检查
+诊断主要基于临床发现。跟腱附着点及沿腱走行处可见疼痛，尤其在附着点近端2至6厘米的“血供分水岭区”；此疼痛在抗阻跖屈肌力测试及被动背屈牵伸时均可诱发。
+检查时，有炎症或部分撕裂的跟腱在手指间被挤压时是柔软的。完全撕裂时按如下进行鉴别：
+突然出现剧烈疼痛并伴患肢负重困难
+突然出现剧烈疼痛并伴患肢负重困难
+沿肌腱走向可触及缺损，同时出现踝关节跖屈力量减弱
+沿肌腱走向可触及缺损，同时出现踝关节跖屈力量减弱
+“Thompson征”阳性（即患者俯卧于检查床上，足部悬于床缘，检查者挤压腓肠肌时，未出现正常应有的足部跖屈反应）
+“Thompson征”阳性（即患者俯卧于检查床上，足部悬于床缘，检查者挤压腓肠肌时，未出现正常应有的足部跖屈反应）
+
+【跟腱病的治疗】
+冰、非甾体抗炎药(NSAIDs)和拉伸
+冰、非甾体抗炎药(NSAIDs)和拉伸
+动作修正
+动作修正
+足跟垫与行走靴
+足跟垫与行走靴
+对于症状持续的患者，应进行康复性运动训练。
+对于症状持续的患者，应进行康复性运动训练。
+肌腱炎症治疗起始可用冷敷，小腿肌肉轻轻伸展以及服用NSAIDs药物。
+鞋跟提升器可以暂时放置在鞋子或步行靴中，通过在脚踝处产生足底屈曲来减轻肌腱的压力。在最初的疼痛消退后，应取消提跟，患者应开始专门的拉伸常规，并逐渐增加持续时间和频率。应指导运动员避免上坡和下坡跑步，直至肌腱不再疼痛，以及参加有氧交叉训练。
+对于持续超过 3 个月的症状，通常建议进行运动锻炼。运动，特别是离心或抗阻训练，已被证实可减轻疼痛并改善功能（1、2）。锻炼方案通常包括3个月的有组织的锻炼，包括小腿肌肉负荷，期望在几周到几个月内逐渐改善。
+大多数临床医生治疗跟腱完全撕裂通常采用手术修复。然而，一些研究（3,4,5）表明，非手术治疗（包括立即将踝关节固定于跖屈位并进行高度规范化的康复训练）在踝关节力量、活动范围、肌腱再断裂率及恢复至伤前活动能力等长期疗效方面，与手术修复相当。
+1.面对墙或者挨着墙站立，双手放在墙上做支撑。
+2.屈曲患侧膝盖，患侧脚尖向下朝向地板，脚趾指向下。
+3.屈曲健侧膝盖，慢慢的下降身体，直到脚尖和踝部感受到拉伸。
+4.坚持锻炼30秒。
+5.执行1套重复4次，每日3次。
+6.特别说明
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.坐在椅子上。
+2.屈曲患侧膝盖，患侧脚尖向下朝向地板，脚趾指向下。
+3. 慢慢地坐在椅子上，将脚推入跖屈，直到感觉到脚和脚踝的顶部有拉伸感。
+4.持续锻炼30秒。
+5.执行1套重复4次，每日3次。
+6.特别说明
+a.无论是坐或站，执
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.面对墙或者挨着墙站立，双手放在墙上做支撑。
+2.将未受累的腿向前放置。
+3.保持后腿伸直，膝盖和脚趾指向墙壁，后脚跟保持在地板上。
+4.将膝盖弯曲在未受累的腿上，臀部向墙壁倾斜，感受后腿小腿的拉伸感。
+5.持续锻炼30秒。
+6.执行1
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.面对墙或者挨着墙站立，双手放在墙上做支撑。
+2.将未受累的腿向前放置。
+3.脚后跟放在地板上，慢慢弯曲双膝，感受后腿小腿的拉伸感。
+4.持续锻炼30秒。
+5.执行1套重复4次，每日3次。
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.脚后跟离地站立。
+2.用脚掌走路，同时保持膝盖伸直。
+3.在给定的时间范围内尽可能走得远，在疲劳点停下来。
+4. 每天 1 次，每次 1 分钟，做 3 组。
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.脚跟离地，脚后跟站立。
+2.用脚后跟行走，同时保持膝盖伸直。
+3.在给定的时间范围内尽可能走得远，在疲劳点停下来。
+4. 每天 1 次，每次 1 分钟，做 3 组。
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.双脚站在台阶上，脚跟离开台阶边缘。坚持支持。
+2.用脚掌抬起。
+3.专注于慢慢降低脚后跟，使其低于台阶的高度。
+4.回到起始位置并重复。
+5.执行3套重复10次，每日1次。
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.面对墙或者挨着墙站立，双手放在墙上做支撑。
+2.屈曲患侧膝盖，患侧脚尖向下朝向地板，脚趾指向下。
+3.屈曲健侧膝盖，慢慢的下降身体，直到脚尖和踝部感受到拉伸。
+4.坚持锻炼30秒。
+5.执行1套重复4次，每日3次。
+6.特别说明
+a.无论是坐或站，执行跖屈伸展 ，无论哪个是最舒适的。
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.坐在椅子上。
+2.屈曲患侧膝盖，患侧脚尖向下朝向地板，脚趾指向下。
+3. 慢慢地坐在椅子上，将脚推入跖屈，直到感觉到脚和脚踝的顶部有拉伸感。
+4.持续锻炼30秒。
+5.执行1套重复4次，每日3次。
+6.特别说明
+a.无论是坐或站，执行跖屈伸展 ，无论哪个是最舒适的。
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.面对墙或者挨着墙站立，双手放在墙上做支撑。
+2.将未受累的腿向前放置。
+3.保持后腿伸直，膝盖和脚趾指向墙壁，后脚跟保持在地板上。
+4.将膝盖弯曲在未受累的腿上，臀部向墙壁倾斜，感受后腿小腿的拉伸感。
+5.持续锻炼30秒。
+6.执行1套重复4次，每日3次。
+（在伸展过程中，脚后跟牢牢固定[而不是抬起]，保持背部挺直的姿势很重要。）
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.面对墙或者挨着墙站立，双手放在墙上做支撑。
+2.将未受累的腿向前放置。
+3.脚后跟放在地板上，慢慢弯曲双膝，感受后腿小腿的拉伸感。
+4.持续锻炼30秒。
+5.执行1套重复4次，每日3次。
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.脚后跟离地站立。
+2.用脚掌走路，同时保持膝盖伸直。
+3.在给定的时间范围内尽可能走得远，在疲劳点停下来。
+4. 每天 1 次，每次 1 分钟，做 3 组。
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.脚跟离地，脚后跟站立。
+2.用脚后跟行走，同时保持膝盖伸直。
+3.在给定的时间范围内尽可能走得远，在疲劳点停下来。
+4. 每天 1 次，每次 1 分钟，做 3 组。
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+1.双脚站在台阶上，脚跟离开台阶边缘。坚持支持。
+2.用脚掌抬起。
+3.专注于慢慢降低脚后跟，使其低于台阶的高度。
+4.回到起始位置并重复。
+5.执行3套重复10次，每日1次。
+Courtesy of Tomah Memorial Hospital, Department of Physical Therapy, Tomah, WI; Elizabeth C.K.Bender, MSPT, ATC, CSCS; and Whitney Gnewikow, DPT, ATC.
+
+【治疗参考文献】
+1.Irby A, Gutierrez J, Chamberlin C, Thomas SJ, Rosen AB: Clinical management of tendinopathy: A systematic review of systematic reviews evaluating the effectiveness of tendinopathy treatments.Scand J Med Sci Sports30(10):1810-1826, 2020.doi:10.1111/sms.13734
+1.Irby A, Gutierrez J, Chamberlin C, Thomas SJ, Rosen AB: Clinical management of tendinopathy: A systematic review of systematic reviews evaluating the effectiveness of tendinopathy treatments.Scand J Med Sci Sports30(10):1810-1826, 2020.doi:10.1111/sms.13734
+2.Wilson F, Walshe M, O'Dwyer T, Bennett K, Mockler D, Bleakley C: Exercise, orthoses and splinting for treating Achilles tendinopathy: a systematic review with meta-analysis.Br J Sports Med52(24):1564-1574, 2018.doi:10.1136/bjsports-2017-098913
+2.Wilson F, Walshe M, O'Dwyer T, Bennett K, Mockler D, Bleakley C: Exercise, orthoses and splinting for treating Achilles tendinopathy: a systematic review with meta-analysis.Br J Sports Med52(24):1564-1574, 2018.doi:10.1136/bjsports-2017-098913
+3.Lantto L, Heikkinen J, Flinkkila T, et al: A prospective randomized trial comparing surgical and nonsurgical treatments of acute Achilles tendon ruptures.Am J Sports Med44(9):2406-2414, 2016.doi: 10.1177/0363546516651060
+3.Lantto L, Heikkinen J, Flinkkila T, et al: A prospective randomized trial comparing surgical and nonsurgical treatments of acute Achilles tendon ruptures.Am J Sports Med44(9):2406-2414, 2016.doi: 10.1177/0363546516651060
+4.Parisien RL, Dodson CC, Trofa DP, et al: Face off: Surgical versus nonsurgical treatment of acute Achilles tendon ruptures.AAOS NowJuly 2016, cover.
+4.Parisien RL, Dodson CC, Trofa DP, et al: Face off: Surgical versus nonsurgical treatment of acute Achilles tendon ruptures.AAOS NowJuly 2016, cover.
+5.Myhrvold SB, Brouwer EF, Andresen TKM, et al: Nonoperative or surgical treatment of acute Achilles' tendon rupture.N Engl J Med386(15):1409-1420, 2022.doi: 10.1056/NEJMoa2108447
+5.Myhrvold SB, Brouwer EF, Andresen TKM, et al: Nonoperative or surgical treatment of acute Achilles' tendon rupture.N Engl J Med386(15):1409-1420, 2022.doi: 10.1056/NEJMoa2108447

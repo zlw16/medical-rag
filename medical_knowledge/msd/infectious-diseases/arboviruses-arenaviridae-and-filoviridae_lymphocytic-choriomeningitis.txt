@@ -1,0 +1,53 @@
+标题：淋巴细胞性脉络丛脑膜炎
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/arboviruses-arenaviridae-and-filoviridae/lymphocytic-choriomeningitis
+============================================================
+
+淋巴细胞脉络丛脑膜炎病毒在世界许多地方的啮齿动物中流行，最常见于美洲、澳大利亚、欧洲和日本。人类感染可能被严重低估。最常见的感染原因是暴露于被灰家鼠（Mus musculus）或仓鼠排泄物污染的灰尘或食物，这些动物携带病毒并随尿液、粪便、精液及鼻腔分泌物排出体外。感染家鼠在种群中的比例可能因地理位置而异；在美国的一些城市地区，捕获的野生小鼠中有9%携带该病毒（1，2）。被小鼠传染者主要见于秋冬季。
+
+【参考文献】
+1.Bonthius DJ.Lymphocytic choriomeningitis virus: an underrecognized cause of neurologic disease in the fetus, child, and adult.Semin Pediatr Neurol.2012;19(3):89-95.doi:10.1016/j.spen.2012.02.002
+1.Bonthius DJ.Lymphocytic choriomeningitis virus: an underrecognized cause of neurologic disease in the fetus, child, and adult.Semin Pediatr Neurol.2012;19(3):89-95.doi:10.1016/j.spen.2012.02.002
+2.Centers for Disease Control and Prevention: Lymphocytic Choriomeningitis: About Lymphocytic Choriomeningitis.January 30, 2025.Accessed June 17, 2025.
+2.Centers for Disease Control and Prevention: Lymphocytic Choriomeningitis: About Lymphocytic Choriomeningitis.January 30, 2025.Accessed June 17, 2025.
+
+【淋巴细胞性脉络丛脑膜炎的症状和体征】
+淋巴细胞性脉络丛脑膜炎的潜伏期为1~2周。
+多数患者无症状或症状轻微。一些患者出现流感样疾病。发烧，一般为38.5至40°C，伴有寒战，并伴有不适、虚弱、肌痛（特别是腰部）、眼眶后头痛、畏光、厌食、恶心、呕吐和头晕。患者有时可能有喉咙痛、咳嗽、胸痛、睾丸疼痛和腮腺疼痛。
+5天至3周后，患者可有1~2天感觉症状好转。但许多患者会复发，表现为再次发热、头痛、皮疹、掌指及近端指间关节肿胀、脑膜刺激征、睾丸炎、腮腺炎或头皮脱发。
+少数患者可出现无菌性脑膜炎。极少情况下可发生明显的脑炎，上行麻痹、延髓麻痹、横贯性脊髓炎或其他神经系统症状。脑膜炎患者很少出现神经系统后遗症，但脑炎患者更常出现神经系统后遗症。
+妊娠期间感染可能导致胎儿畸形，包括脑积水、脉络膜视网膜炎和智力障碍。妊娠早期发生的感染可能导致胎儿死亡。
+
+【淋巴细胞性脉络丛脑膜炎的诊断】
+PCR (Polymerase chain reaction)，脑脊液检查，抗体检测和病毒培养
+PCR (Polymerase chain reaction)，脑脊液检查，抗体检测和病毒培养
+患者有接触啮齿类动物史，并出现急性症状，特别是无菌性脑膜炎或脑炎时，应怀疑本病。
+脑膜炎患者的脑脊液（CSF）分析可能显示CSF葡萄糖轻度降低（偶可低至15 mg/dL [0.83 mmol/L]），CSF白细胞（WBC）计数在100至数千个之间，以淋巴细胞为主（＞80%）。疾病第一周内的全血细胞计数可能显示轻度白细胞减少症和血小板减少症（白细胞计数2000~3000/mcL[2~3×109/L]，血小板计数50,000~100,000/mcL[50~100×109/L]）（1，2）。
+诊断可以通过：
+PCR或在疾病急性期从血液或脑脊液中分离病毒
+PCR或在疾病急性期从血液或脑脊液中分离病毒
+接种细胞培养并进行间接免疫荧光检查也可诊断，但多用于研究。
+接种细胞培养并进行间接免疫荧光检查也可诊断，但多用于研究。
+检测血清病毒特异性抗体转换的试验
+检测血清病毒特异性抗体转换的试验
+
+【诊断参考】
+1.Centers for Disease Control and Prevention: Lymphocytic Choriomeningitis: About Lymphocytic Choriomeningitis.January 30, 2025.Accessed June 17, 2025.
+1.Centers for Disease Control and Prevention: Lymphocytic Choriomeningitis: About Lymphocytic Choriomeningitis.January 30, 2025.Accessed June 17, 2025.
+2.Lendino A, Castellanos AA, Pigott DM, Han BA.A review of emerging health threats from zoonotic New World mammarenaviruses.BMC Microbiol2024;24(1):115.Published 2024 Apr 4.doi:10.1186/s12866-024-03257-w
+2.Lendino A, Castellanos AA, Pigott DM, Han BA.A review of emerging health threats from zoonotic New World mammarenaviruses.BMC Microbiol2024;24(1):115.Published 2024 Apr 4.doi:10.1186/s12866-024-03257-w
+
+【淋巴细胞性脉络丛脑膜炎的治疗】
+支持治疗
+支持治疗
+淋巴细胞性脉络丛脑膜炎的治疗主要为支持治疗。如果出现无菌性脑膜炎、脑炎或脑膜脑炎，患者应住院治疗，并可考虑使用利巴韦林治疗，尽管其有效性不确定（1）。
+可考虑使用抗炎药物（如糖皮质激素），但缺乏有效性的证据。
+
+【Treatment reference】
+1.Hickerson BT, Westover JB, Jung KH, Komeno T, Furuta Y, Gowen BB.Effective Treatment of Experimental Lymphocytic Choriomeningitis Virus Infection: Consideration ofFavipiravirfor Use With Infected Organ Transplant Recipients.J Infect Dis218(4):522-527, 2018.doi:10.1093/infdis/jiy159
+1.Hickerson BT, Westover JB, Jung KH, Komeno T, Furuta Y, Gowen BB.Effective Treatment of Experimental Lymphocytic Choriomeningitis Virus Infection: Consideration ofFavipiravirfor Use With Infected Organ Transplant Recipients.J Infect Dis218(4):522-527, 2018.doi:10.1093/infdis/jiy159
+人类通常通过接触被鼠或仓鼠排泄物污染的灰尘或食用被污染的食物而感染淋巴细胞性脉络丛脑膜炎。
+人类通常通过接触被鼠或仓鼠排泄物污染的灰尘或食用被污染的食物而感染淋巴细胞性脉络丛脑膜炎。
+大多数患者没有或仅有轻微症状，但有些患者会出现流感样症状，少数患者会出现无菌性脑膜炎。
+大多数患者没有或仅有轻微症状，但有些患者会出现流感样症状，少数患者会出现无菌性脑膜炎。
+妊娠期间感染可能导致胎儿畸形；如果在妊娠早期发生感染，胎儿可能会死亡。
+妊娠期间感染可能导致胎儿畸形；如果在妊娠早期发生感染，胎儿可能会死亡。

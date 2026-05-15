@@ -1,0 +1,41 @@
+标题：循环抗凝物质引起的凝血功能障碍
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/coagulation-disorders/coagulation-disorders-caused-by-circulating-anticoagulants
+============================================================
+
+(参见于凝血功能障碍的概述。)
+有严重出血的患者，若将病人血浆与正常血浆1：1混合不能纠正部分凝血酶时间(PTT)或凝血酶原时间(PT)的延长，则需怀疑循环中存在抗凝物质。
+针对蛋白/磷脂复合物的自身抗体通常会导致动脉和/或静脉血栓形成(抗磷脂综合征[APS])。APS中血栓形成的确切病理生理机制尚不清楚。尽管蛋白磷脂自身抗体经常与β2-糖蛋白-1结合，但尚不清楚这种相互作用是如何引发血栓形成的。在一组患者中，这种自身抗体与凝血酶原-磷脂复合物结合，导致低凝血酶原血症及出血。
+
+【因子 VIII 和因子 IX 抑制剂】
+30%的重型血友病A患者在反复输注正常的Ⅷ因子作为替代治疗后可出现一种并发症，即产生Ⅷ因子的同种抗体 (1)。 非血友病患者偶尔也会产生Ⅷ因子抗体，如在产后的妇女中，其为潜在系统性自身免疫性疾病或短暂的免疫调节异常性疾病的一种表现，或见于没有明显的其他基础疾病证据的老年患者。存在Ⅷ因子抑制物的患者可发生致命性出血。
+同样，重度血友病 B患者可产生针对因子 IX的同种抗体，但这种情况不太常见，仅发生约2%至 3% （2）。
+含Ⅷ因子抗体的血浆PTT会延长，且当正常的血浆或其他含Ⅷ因子的物质以1：1与患者的血浆混合其无法得到纠正。混合后应立即进行该试验，并在孵育后重复该试验。对因子IX抗体进行类似的测试。
+
+【参考文献】
+1.Iorio A, Fischer K, Makris M.Large scale studies assessing anti-factor VIII antibody development in previously untreated haemophilia A: what has been learned, what to believe and how to learn more.Br J Haematol.2017;178(1):20-31.doi:10.1111/bjh.14610
+1.Iorio A, Fischer K, Makris M.Large scale studies assessing anti-factor VIII antibody development in previously untreated haemophilia A: what has been learned, what to believe and how to learn more.Br J Haematol.2017;178(1):20-31.doi:10.1111/bjh.14610
+2.Puetz J, Soucie JM, Kempton CL, Monahan PE.Hemophilia Treatment Center Network (HTCN) Investigators.Prevalent inhibitors in haemophilia B subjects enrolled in the Universal Data Collection database.Haemophilia.2014;20(1):25-31.doi:10.1111/hae.12229
+2.Puetz J, Soucie JM, Kempton CL, Monahan PE.Hemophilia Treatment Center Network (HTCN) Investigators.Prevalent inhibitors in haemophilia B subjects enrolled in the Universal Data Collection database.Haemophilia.2014;20(1):25-31.doi:10.1111/hae.12229
+
+【循环抗凝物质所致凝血功能障碍的治疗】
+对于无血友病的患者，使用环磷酰胺、糖皮质激素或利妥昔单抗来消除抑制剂。
+对于无血友病的患者，使用环磷酰胺、糖皮质激素或利妥昔单抗来消除抑制剂。
+在血友病患者中，通过长期大剂量因子替代诱导免疫耐受来消除抑制剂
+在血友病患者中，通过长期大剂量因子替代诱导免疫耐受来消除抑制剂
+在非血友病患者中若出现凝血因子抑制物，可采用环磷酰胺、糖皮质激素或利妥昔单抗（针对淋巴细胞 CD20 的单克隆抗体）进行治疗，以抑制自身抗体的产生。 在一些患者中，自身抗体可能会自发消失。
+在 A 型血友病患者中，通过使用高剂量 VIII 因子替代诱导免疫耐受来消除 VIII 因子抑制剂。有些方案包括对难治性疾病患者进行免疫抑制。
+对于B型血友病和因子IX抑制剂，暴露于因子IX可以引起过敏反应和肾病综合征。脱敏因子IX与免疫抑制相结合是促进这些患者免疫耐受诱导的潜在策略。
+重组人 VIIa 因子用于治疗具有抑制剂的 A 型或 B 型血友病患者或产生 VIII 因子或 IX 因子自身抗体的无血友病患者的急性出血发作。活化凝血酶原复合物浓缩物还可用于治疗患有或不患有血友病 A 的 VIII 因子抑制剂患者的出血。因为活化的凝血酶原复合物浓缩物含有因子IX，它们不能用于治疗患者因子IX抑制剂 (1)。
+Emicizumab 是一种重组人源化双特异性单克隆抗体，可与因子 IX和因子 X结合，将它们连接成因子 Xase 样活性复合物，从而消除对因子 VIII 的需求。艾美赛珠单抗可用于预防或减少伴或不伴VIII因子抑制剂的A型血友病患者的出血发作频率。康珠单抗是一种靶向组织因子途径抑制物（TFPI）的单克隆抗体，可降低TFPI水平，从而在凝血因子VIII或凝血因子IX缺乏时仍可改善止血功能。康珠单抗可用于伴或不伴抑制物的A型或B型血友病。马司他单抗是另一种靶向TFPI的人源化单克隆抗体，其作用机制相似，用于治疗不伴有抑制物的A型或B型血友病。
+菲妥司坦是一种针对抗凝血酶的小分子抑制性RNA，可抑制肝脏中抗凝血酶的合成。降低抗凝血酶水平可重新平衡止血功能，尽管凝血因子VIII或IX水平降低。菲妥司坦可用于伴或不伴抑制物的A型或B型血友病患者（2, 3）。
+重组猪源凝血因子VIII也可用于治疗带有凝血因子VIII自身抗体的A型血友病患者（4）。猪源凝血因子VIII的结构与人源凝血因子VIII不同。因此，对于存在凝血因子VIII抑制物且抗体不与猪源凝血因子VIII发生交叉反应的患者，猪源凝血因子VIII可有效止血。
+
+【治疗参考文献】
+1.Kruse-Jarres R, Kempton CL, Baudo F, et al.Acquired hemophilia A: Updated review of evidence and treatment guidance.Am J Hematol.2017;92(7):695-705.doi:10.1002/ajh.24777
+1.Kruse-Jarres R, Kempton CL, Baudo F, et al.Acquired hemophilia A: Updated review of evidence and treatment guidance.Am J Hematol.2017;92(7):695-705.doi:10.1002/ajh.24777
+2.Sehgal A, Barros S, Ivanciu L, et al.An RNAi therapeutic targeting antithrombin to rebalance the coagulation system and promote hemostasis in hemophilia.Nat Med.21:492–497, 2015.doi:10.1038/nm.3847
+2.Sehgal A, Barros S, Ivanciu L, et al.An RNAi therapeutic targeting antithrombin to rebalance the coagulation system and promote hemostasis in hemophilia.Nat Med.21:492–497, 2015.doi:10.1038/nm.3847
+3.Chowdary P, Lethagen S, Friedrich U, et al.Safety and pharmacokinetics of anti-TFPI antibody (concizumab) in healthy volunteers and patients with hemophilia: A randomized first human dose trial.J Thromb Haemost.13:743–754, 2015.doi:10.1111/jth.12864
+3.Chowdary P, Lethagen S, Friedrich U, et al.Safety and pharmacokinetics of anti-TFPI antibody (concizumab) in healthy volunteers and patients with hemophilia: A randomized first human dose trial.J Thromb Haemost.13:743–754, 2015.doi:10.1111/jth.12864
+4.Ellsworth P, Chen S-L,  Kasthuri RS, et al.Recombinant porcine FVIII for bleed treatment in acquired hemophilia A: findings from a single-center, 18-patient cohort.Blood Adv 2020.4 (24): 6240–6249. doi:10.1182/bloodadvances.2020002977
+4.Ellsworth P, Chen S-L,  Kasthuri RS, et al.Recombinant porcine FVIII for bleed treatment in acquired hemophilia A: findings from a single-center, 18-patient cohort.Blood Adv 2020.4 (24): 6240–6249. doi:10.1182/bloodadvances.2020002977

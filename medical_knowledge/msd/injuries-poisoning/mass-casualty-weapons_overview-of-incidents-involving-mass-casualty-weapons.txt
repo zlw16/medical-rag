@@ -1,0 +1,158 @@
+标题：大规模杀伤性武器事件概述
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/mass-casualty-weapons/overview-of-incidents-involving-mass-casualty-weapons
+============================================================
+
+大规模伤亡事件（MCIs）是指人员伤亡数量多到足以压倒现有医疗资源的事件。 包括自然灾害（如飓风）和不同类型有意和无意的人为事件，包括交通灾害，危险物质泄漏，爆炸和大规模枪击事件。
+大规模杀伤性武器（MCWs）是指能够造成大规模伤亡事件的武器 (1, 2)。它们包括各种
+生物（传染性）制剂
+生物（传染性）制剂
+武器类型缩写为CBRNE（化学，生物，放射性，核，爆炸）或NBC（核，生物，化学）。大规模杀伤性武器的影响范围可以是局部（或在暴露的部位附近）或全身（因为循环吸收和分布）。
+大规模杀伤性武器有时被称为大规模破坏性武器（WMD），但这个词不太恰当，因为它意味着基础设施的显著物理破坏，而这种破坏只发生在爆炸性大规模杀伤性武器中。 此外，虽然“武器”表示有意使用（例如通过交战国或恐怖分子），然而大多数的大规模杀伤性武器是无意间发生的（例如有毒或放射性物质的工业或运输泄漏，传染病疫情爆发或工业爆炸）其基本原理和反应是相同的。
+与上皮表面接触
+与上皮表面接触
+吸收意味着
+穿透上皮屏障导致体内剂量
+穿透上皮屏障导致体内剂量
+对于辐射事件，暴露也指电磁辐射穿透身体（称为辐照），这种情况可能发生在未与辐射源发生物理接触的情况下（参见美国卫生与公众服务部《辐射应急医疗管理》[REMM])。对于所有类型的大规模杀伤性武器，污染可指存在于皮肤表面（外部污染）或在体内（内部污染）。内部污染通常仅指在体内的放射性粒子，而不是其他大规模杀伤性武器的制剂。
+接触大规模杀伤性武器的情况可能显而易见，例如发生爆炸或可见的泄漏或溢出时，甚至可能由肇事者提前宣布。然而，NBC暴露接触可能是隐匿的，即使NBC因为爆炸而分散。由于大多数NBC没有容易识别的气味或外观，而且暴露接触与出现症状或体征之间有明显的时间间隔，因此NBC暴露接触事件通常在爆炸事件后一段时间才能被确认。隐匿暴露接触可能特别难以确定或与自然疾病疫情爆发区分。 暴露于高剂量的某些化学物质（如氰化物，神经性毒物），仅几秒钟或几分钟后就可能引起明显的效果，特别是通过吸入的方式。
+一旦散播到环境中，大规模杀伤性武器可呈固体、液体，气体或蒸气（即室温下为液体物质的气体形态）的组合。细灰尘颗粒或小液滴以气溶胶的形态悬浮在空气中（如烟、雾、薄雾、烟尘）。形态影响其在环境中的持久性和潜在的暴露途径。固体和低挥发性液体通常比较持久，常规条件下在环境中残留超过一天；有些则可能会存留数周。而气体和高挥发性的液体则不持久，通常在<24小时之内挥发。气溶胶颗粒可能在几分钟到几天之内沉降到地面，这取决于颗粒大小和天气条件，但之后仍可污染地面。
+除了剂量和物质类型，暴露接触途径是MCW事件临床表现的一个主要因素。气体、蒸汽和颗粒物可被吸入。固体和液体可以污染皮肤，从而可以被吸收或转移到口腔而摄入。受污染物体（例如爆炸产生的碎片）可穿透皮肤，从而将核生化战剂经非肠道途径引入体内。去污通常是指外部净化，从皮肤表面清除化学品、毒素或传染性病原体。把放射性物质从体内清除被称为内部净化。
+
+【参考文献】
+1.Furlow B.Biological, chemical and radiological terrorism.Radiol Technol.2003;75(2):91-110.
+1.Furlow B.Biological, chemical and radiological terrorism.Radiol Technol.2003;75(2):91-110.
+2.Prockop LD.Weapons of mass destruction: Overview of the CBRNEs (Chemical, Biological, Radiological, Nuclear, and Explosives).J Neurol Sci.2006;249(1):50-54.doi:10.1016/j.jns.2006.06.017
+2.Prockop LD.Weapons of mass destruction: Overview of the CBRNEs (Chemical, Biological, Radiological, Nuclear, and Explosives).J Neurol Sci.2006;249(1):50-54.doi:10.1016/j.jns.2006.06.017
+
+【大规模伤亡事件的初步处理方法】
+大规模杀伤性武器 (MCW) 事件的处理方法包括：
+初步评估和分类
+初步评估和分类
+二次评估
+二次评估
+这些步骤常有重叠。识别、评估和治疗可以同时发生，这取决于人员伤亡的性质、数量和严重程度。
+预防通常由民事机构而非医疗机构负责，从而无需医疗响应。但如果预防失败，准备工作是至关重要的。
+医院和院前急救服务必须有应急预案，准备适当的物资和设备以应对大规模杀伤性武器事件 (1)。灾害准备活动通常包括危害脆弱性分析以及启动和部署额外人员到指定地点和岗位、分配资源（例如床位、手术室、血液）的协议。物资和设备通常包括带有封闭排水系统的指定洗消区域、旨在减少污染扩散的地面覆盖物和防护装备，以及解毒剂的储备或从其他来源获取解毒剂的正式安排。计划通常包括定期正规演练，尽管只是模拟真实大规模伤亡事故 (MCI)，帮助工作人员熟悉流程，包括书面程序、物资和设备的位置（特别是那些用于净化的）。
+识别涉及爆炸、枪击和交通事故的MCI相对简单。然而识别隐匿MCW事件，需要急救人员和医生临床高度警觉。医护人员必须首先认识到疾病的事件或集群可能提示有使用MCW。随后必须确定大规模杀伤性武器的类型及制剂类别。
+MCW事件的识别可能会通过来自实施者的情报或公告，环境线索（如死亡或濒临死亡的动物、不寻常的气味）或环境监测（化学、生物或辐射），但并不是每家医院都有。唯一的线索可能是大规模人群出现不寻常的症状。然而，关于大规模伤亡事件中所用制剂类型的最初报告往往不完整或有误，因此保持高度的临床警惕性至关重要。
+随着人员伤亡的评估，特征性的症状和体征可能会被确认。好几种化学物质和毒素存在中毒症候群（由某一特定种类毒素中毒引起的一系列典型症状和体征）（见表常见中毒综合征），是临床识别的关键 (2, 3)。最终可能还是需要临床或环境样本的实验室分析。然而，诊断和初步治疗可能需要在没有实验室确认的情况下进行，特别是对于潜伏期短的化学制剂。
+
+【初步评估和分诊】
+MCI伤亡的初步评估和分诊不同于常规创伤的评估和分诊（见表分诊分类) (4, 5)。MCI的大量人员伤亡需要简短处置和决策，尤其是涉及短潜伏期物质的人员伤亡。分诊可能特别具有挑战性，因为许多受MCW影响的患者没有可见的损伤，而且许多处于或接近MCI现场但未暴露于该制剂的人可能会出现应激反应（如过度换气、颤抖、恶心、乏力），这些反应类似于MCW制剂的影响。在一些事件中，至医院就诊的患者中高达80％仅表现出应激反应。单纯区分心理影响与毒性、感染或辐射作用可能有困难。首先是将能够行走的患者与无法行走的患者区分开；这能确定受影响最严重的患者。然而，需要对能走动的患者进行频繁的重新分诊，以发现那些在潜伏期后开始恶化的患者。
+
+【分诊分类】
+分诊分类
+预期死亡
+没有脉搏
+没有呼吸
+考虑到现有的资源，不太可能生存下去
+危及生命的受伤或中毒
+延迟处理
+严重但非危及生命的损伤或中毒
+轻度或缓解的受伤或中毒
+
+【经验与提示】
+经验与提示
+大规模伤亡事件发生后，需要对能走动的患者进行频繁的重新分诊，以发现那些在潜伏期后开始恶化的患者。
+大规模伤亡事件发生后，需要对能走动的患者进行频繁的重新分诊，以发现那些在潜伏期后开始恶化的患者。
+热区是紧临MCW释放地点的区域 (6)。在热区中医护人员受污染风险最大，通常只有配备个人防护装备的应急反应人员被允许进入该区域。这些装备通常包括毒性物质防护（TAP）A级装备，配备全封闭自给式呼吸装置。
+温区（洗消通道）紧邻热区。在此区域应进行全身全面消毒（彻底净化）。医护人员可能需要穿戴防护装备后再进行初步评估及分诊，治疗伤亡人员，尤其是化学品暴露接触的患者。此种装备通常是TAP B级装备，包括空气净化呼吸器。
+冷区（洁净区）包括医院急诊室。由于已经在温区进行过洗消，冷区内采取标准预防措施的医护人员通常是安全的。然而，医院仍需具备消毒能力，因为许多患者可能会不经过分诊和消毒（如自行转运和离开现场）直接到达医院。被污染的患者无意中进入医院急诊室，会导致其分类改为温区，甚至是热区。
+
+【二次评估】
+因为MCI早期通常缺乏明确的信息，其涉及物质的初步评估可能是错误或不完整的。因此，使用快速、可重复的方法系统地重新评估个体患者和总体情况是必要的。此类方法应采用逻辑递进的方式，涵盖流行病学三要素——制剂、环境和宿主（患者）——并充分考虑（或重新审视）
+可能的物质
+可能的物质
+环境中物质的状态（多个）
+环境中物质的状态（多个）
+物质传播到患者（进入的途径或暴露和吸收的途径）
+物质传播到患者（进入的途径或暴露和吸收的途径）
+物质的临床效果，包括影响的是局部（位于或接近进入的部位）和/或全身性的（由于分布在血液中）
+物质的临床效果，包括影响的是局部（位于或接近进入的部位）和/或全身性的（由于分布在血液中）
+时间进程（暴露持续时间、暴露的时间点、潜伏期、当前症状和预后）
+时间进程（暴露持续时间、暴露的时间点、潜伏期、当前症状和预后）
+鉴别诊断及合并暴露或疾病
+鉴别诊断及合并暴露或疾病
+合并暴露或疾病之间可能的相互作用
+合并暴露或疾病之间可能的相互作用
+一个有助于快速二次评估的实用缩略词是 ASBESTOS（见表ASBESTOS*：化学或放射性武器造成的大规模人员伤亡的二次评估）(7)。
+
+【ASBESTOS*：对化学或放射性武器造成的大规模人员伤亡进行二次评估】
+ASBESTOS*：对化学或放射性武器造成的大规模人员伤亡进行二次评估
+在评估化学武器损伤中
+在评估放射性武器损伤中
+类型（是否表现出一种中毒症候群？）
+剂量估算
+类型（alpha，beta，gamma，中子）
+剂量估算
+该制剂是
+悬浮颗粒
+悬浮颗粒
+与化学武器一样
+身体部位
+进入途径（暴露接触和吸收）
+暴露接触（贯穿全身）？部位？
+外部污染？部位？
+内部污染？部位？
+两者兼有
+两者兼有
+与化学武器一样
+严重程度
+影响的严重程度
+暴露接触的严重程度
+与化学武器一样
+时间进程
+既往（发病，潜伏期）
+当前（好转还是恶化？稳定？）
+将来（预期预后）
+与化学武器一样
+其他诊断？
+替代（鉴别诊断）
+其他（合并症）
+与化学武器一样
+协同作用
+多重暴露接触的组合效应
+与化学武器一样
+* The acronym ASBESTOS was introduced by the author, Madsen JM, inClin Lab Med21(3):593-605, 2001.
+†最常见的状态
+* The acronym ASBESTOS was introduced by the author, Madsen JM, inClin Lab Med21(3):593-605, 2001.
+†最常见的状态
+
+【初步方法参考】
+1.Wang T-I, Chen H-T, Chang H.Hospital preparedness for weapons of mass destruction incidents: An initial assessment.Ann Diaster Med.2004;2:74-79
+1.Wang T-I, Chen H-T, Chang H.Hospital preparedness for weapons of mass destruction incidents: An initial assessment.Ann Diaster Med.2004;2:74-79
+2.Cieslak TJ, Rowe JR, Kortepeter MG, et al.A field-expedient algorithmic approach to the clinical management of chemical and biological casualties.Mil Med.2000;165(9):659-662.
+2.Cieslak TJ, Rowe JR, Kortepeter MG, et al.A field-expedient algorithmic approach to the clinical management of chemical and biological casualties.Mil Med.2000;165(9):659-662.
+3.Ciottone GR.Toxidrome Recognition in Chemical-Weapons Attacks.N Engl J Med.2018;378(17):1611-1620.doi:10.1056/NEJMra1705224
+3.Ciottone GR.Toxidrome Recognition in Chemical-Weapons Attacks.N Engl J Med.2018;378(17):1611-1620.doi:10.1056/NEJMra1705224
+4.Cone DC, Koenig KL.Mass casualty triage in the chemical, biological, radiological, or nuclear environment.Eur J Emerg Med.2005;12(6):287-302.doi:10.1097/00063110-200512000-00009
+4.Cone DC, Koenig KL.Mass casualty triage in the chemical, biological, radiological, or nuclear environment.Eur J Emerg Med.2005;12(6):287-302.doi:10.1097/00063110-200512000-00009
+5.Bazyar J, Farrokhi M, Khankeh H.Triage Systems in Mass Casualty Incidents and Disasters: A Review Study with A Worldwide Approach. Open AccessMaced J Med Sci.2019;7(3):482-494.Published 2019 Feb 12.doi:10.3889/oamjms.2019.119
+5.Bazyar J, Farrokhi M, Khankeh H.Triage Systems in Mass Casualty Incidents and Disasters: A Review Study with A Worldwide Approach. Open AccessMaced J Med Sci.2019;7(3):482-494.Published 2019 Feb 12.doi:10.3889/oamjms.2019.119
+6.Byers M, Russell M, Lockey DJ.Clinical care in the "Hot Zone".Emerg Med J2008; 25:108
+6.Byers M, Russell M, Lockey DJ.Clinical care in the "Hot Zone".Emerg Med J2008; 25:108
+7.Madsen JM: Toxins as weapons of mass destruction.A comparison and contrast with biological-warfare and chemical-warfare agents.Clin Lab Med21(3):593-605, 2001.
+7.Madsen JM: Toxins as weapons of mass destruction.A comparison and contrast with biological-warfare and chemical-warfare agents.Clin Lab Med21(3):593-605, 2001.
+
+【大规模杀伤性武器伤的治疗】
+大规模杀伤性武器伤亡人员的初步治疗目的
+保护医护人员
+保护医护人员
+停止暴露接触（从污染区转移伤者，为伤者消毒）
+停止暴露接触（从污染区转移伤者，为伤者消毒）
+稳定伤者病情
+稳定伤者病情
+使用ABCDDs缩写来帮助记忆：Airway（气道）、Breathing（呼吸）、Circulation（循环）、ImmediateDecontamination（立即消毒）和Drugs（药物）。然而这些措施几乎是同时完成，而不是按照严格的先后顺序。例如，暴露于神经毒剂的患者支气管痉挛可能非常严重，导致患者无法通气（B），直到给予阿托品（D）；同时，只要患者持续接触化学制剂，药物治疗可能无效。在采取这些步骤时，核生化紧急情况（特别是化学类事件）的应急反应人员在进行医疗护理前，必须注意保护自己免受暴露接触（来自环境和伤亡人员的直接接触）。
+气道、呼吸和循环(ABC) 按标准方式处理，如成人心肺复苏 (CPR)中所述。不论原因是物理还是NBC创伤，通常优先完成这些措施。唯一的例外是某些化学制剂暴露患者（例如神经毒剂），对他们来说，立即消毒和应用解毒剂可能是救命的（可以预防或有效治疗气道或呼吸问题）。有时需要在温区进行ABCs管理以稳定病情。
+消毒优先权由MCW的类型和伤者的医疗状况决定 (1, 2)。暴露接触生物或放射性物质分散气溶胶的伤者（参见辐射暴露和污染:外部净化）通常存在皮肤和/或衣物污染。因为大多数此类制剂无法快速穿透完整的皮肤，去除衣物和冲洗通常足以进行洗消；此类洗消不应无故推迟，但并不像涉及某些化学制剂时那样迫切。由于某些化学制剂（如芥子气、液态神经毒剂）接触后立即开始穿透皮肤，同时可能会马上破坏组织，暴露接触此类制剂的患者需要立即消毒以阻止持续吸收，并防止污染扩散到患者身体其他部位以及医疗人员和设施。使用专门配制的商用反应性局部去污剂进行立即去污是最有效的，该去污剂含有 2,3-丁二酮单肟 (DAM) 的钾盐；DAM 本身；聚乙二醇单甲醚 (MPEG) 的溶剂；和水（即反应性皮肤去污乳液 [RSDL]）（3)，可灭活皮肤上的神经毒剂和芥子气（不能用在眼睛或伤口上）。但是，肥皂和水也同样有效。单独使用水对油性化学制品效果较差，但在没有肥皂的情况下仍然应该使用。0.5%次氯酸钠溶液（用水以1比9的比例稀释5％家用漂白剂制成）也同样有效，但不应该在眼睛或伤口中使用。在紧急情况下，任何可用的吸附剂（如纸巾、薄纸、富含粘土的土壤、面包）可以涂抹在患处，用力擦拭长达2分钟，然后通过大量冲洗去除。必须仔细检查伤口并清理所有杂物；之后必须使用水或盐水冲洗。
+初始稳定所需要的药物应根据需要给予，与处理任何不稳定患者相同（4）。对MCW伤员最明确的药物治疗可等到入院后再进行。例外的是休克和诸如氰化物和神经性毒素之类化学制剂的急性效应的治疗。在院前处理时应及时使用这些化学制品所对应的解毒剂。
+
+【治疗参考文献】
+1.Chilcott RP, Amlôt R (eds).Primary Response Incident Scene Management (PRISM) Guidance for Chemical Incidents.Volume 1: Strategic Guidance for Mass Casualty Disrobe and Decontamination.University of Hertfordshire and Public Health England.2015.Available online at https://medicalcountermeasures.gov/media/36872/prism-volume-1.pdf.
+1.Chilcott RP, Amlôt R (eds).Primary Response Incident Scene Management (PRISM) Guidance for Chemical Incidents.Volume 1: Strategic Guidance for Mass Casualty Disrobe and Decontamination.University of Hertfordshire and Public Health England.2015.Available online at https://medicalcountermeasures.gov/media/36872/prism-volume-1.pdf.
+2.Collins S, James T, Carter H, et al.Mass Casualty Decontamination for Chemical Incidents: Research Outcomes and Future Priorities.Int J Environ Res Public Health.2021;18(6):3079.Published 2021 Mar 17.doi:10.3390/ijerph18063079
+2.Collins S, James T, Carter H, et al.Mass Casualty Decontamination for Chemical Incidents: Research Outcomes and Future Priorities.Int J Environ Res Public Health.2021;18(6):3079.Published 2021 Mar 17.doi:10.3390/ijerph18063079
+3.Schwartz MD, Hurst CG, Kirk MA, et al.Reactive skin decontamination lotion (RSDL) for the decontamination of chemical warfare agent (CWA) dermal exposure.Curr Pharm Biotechnol2012; 13:1971-1979.
+3.Schwartz MD, Hurst CG, Kirk MA, et al.Reactive skin decontamination lotion (RSDL) for the decontamination of chemical warfare agent (CWA) dermal exposure.Curr Pharm Biotechnol2012; 13:1971-1979.
+4.Lawrence DT, Kirk MA.Chemical terrorism attacks: update on antidotes.Emerg Med Clin North Am.2007;25(2):567-95xi.doi:10.1016/j.emc.2007.02.002
+4.Lawrence DT, Kirk MA.Chemical terrorism attacks: update on antidotes.Emerg Med Clin North Am.2007;25(2):567-95xi.doi:10.1016/j.emc.2007.02.002

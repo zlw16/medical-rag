@@ -1,0 +1,201 @@
+标题：白喉
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-positive-bacilli/diphtheria
+============================================================
+
+白喉是一种急性细菌感染，主要由产毒素的白喉棒状杆菌引起，少数情况下由产毒素的溃疡棒状杆菌和假结核棒状杆菌菌株引发。C. diphtheriae白喉杆菌通常感染鼻咽部（呼吸道白喉）或者皮肤（皮肤白喉）。
+根据疾病控制与预防中心国家法定传染病监测系统的数据，白喉报告病例数极低（1）。1996年至2018年间，美国共报告14例病例及1例死亡（死者为从流行区返回的老年人）（2）。在儿童免疫接种普及的地方，白喉很罕见。然而，在成人加强免疫接种率下降的地区，易感性会增加。接种疫苗无法预防非产毒性白喉棒状杆菌感染，在美国部分地区此类感染可能正在增加（3）。
+从白喉流行国家返回的旅行者或移民中可能存在白喉。白喉在亚洲、南太平洋、中东、东欧、委内瑞拉、海地和多米尼加共和国的许多国家都很流行。近几十年来，印度尼西亚、泰国、越南、老挝、缅甸、南非、苏丹、印度和巴基斯坦等地偶有疫情暴发。
+白喉在美国属于全国性法定报告疾病。对于确诊案例，临床医生应联系其所在州卫生部门（4）或美国疾病控制与预防中心（5），以联系白喉领域专家获取所有病例调查的更多信息，并启动密切接触者调查（5）。在美国境外，临床医生应向当地或国家卫生部门报告确诊病例，以便后者通过既定程序通知世界卫生组织。
+
+【白喉毒素】
+被β噬菌体（一种可在不立即导致宿主细胞死亡的情况下复制的溶原性噬菌体）感染的白喉菌株，携带编码毒素的基因（tox+），会产生强效毒素（6）。白喉毒素似乎利用生长因子前体作为受体，启动细胞结合与内化过程（7）。该毒素首先引起局部组织的炎症和坏死，使毒素得以在血液中传播，随后通过结合并进入宿主细胞，可损伤心脏、神经，有时还会损害肾脏（2）。
+非产毒菌株白喉杆菌还可引起渗出性咽炎、菌血症，有时还会引起全身性疾病（如心内膜炎、化脓性关节炎）。
+人类是白喉杆菌的主要宿主。马、牛和家猫也可能携带白喉棒状杆菌。该菌通过以下方式传播
+呼吸道飞沫
+呼吸道飞沫
+直接接触口咽部分泌物 （包括来自无症状携带者）
+直接接触口咽部分泌物 （包括来自无症状携带者）
+接触感染皮损
+接触感染皮损
+污染物（少见）
+污染物（少见）
+携带者状态在流行地区很常见，但在高收入国家却不常见。由于接种疫苗或活动性感染获得的免疫力可能不能防止患者变成携带者；然而，多数患者经过充分治疗不会变成病菌携带者。有症状的患者及无症状携带者均可成为传染源。
+个人卫生和公共卫生条件差会促使皮肤白喉传播。
+
+【参考文献】
+1.Centers for Disease Control and Prevention: Diphtheria: Diphtheria Surveillance and Trends.May 12, 2025.Accessed July 15, 2025.
+1.Centers for Disease Control and Prevention: Diphtheria: Diphtheria Surveillance and Trends.May 12, 2025.Accessed July 15, 2025.
+2.Acosta AM, Moro PL, Hariri S, Tiwari TSP: Chapter 7: Diphtheria.In Centers for Disease Control and Prevention: Epidemiology and Prevention of Vaccine-Preventable Diseases (the "pink book").April 23, 2024.Accessed July 15, 2025.
+2.Acosta AM, Moro PL, Hariri S, Tiwari TSP: Chapter 7: Diphtheria.In Centers for Disease Control and Prevention: Epidemiology and Prevention of Vaccine-Preventable Diseases (the "pink book").April 23, 2024.Accessed July 15, 2025.
+3.Xie AG, Yomogida K, Berry I, et al.Notes from the Field: Increase in NontoxigenicCorynebacterium diphtheriae- Washington, 2018-2023.MMWR Morb Mortal Wkly Rep.2024;73(17):405-407.Published 2024 May 2.doi:10.15585/mmwr.mm7317a4
+3.Xie AG, Yomogida K, Berry I, et al.Notes from the Field: Increase in NontoxigenicCorynebacterium diphtheriae- Washington, 2018-2023.MMWR Morb Mortal Wkly Rep.2024;73(17):405-407.Published 2024 May 2.doi:10.15585/mmwr.mm7317a4
+4.Centers for Disease Control and Prevention: Health Department Directories.May 15, 2024.Accessed July 15,
+4.Centers for Disease Control and Prevention: Health Department Directories.May 15, 2024.Accessed July 15,
+5.Centers for Disease Control and Prevention: Infectious Diseases Laboratories: Our Formulary.May 29, 2024.Accessed August 1, 2025.
+5.Centers for Disease Control and Prevention: Infectious Diseases Laboratories: Our Formulary.May 29, 2024.Accessed August 1, 2025.
+6.Murphy JR.白喉棒状杆菌In: Baron S, editor.Medical Microbiology.4th edition.Galveston (TX): University of Texas Medical Branch at Galveston; 1996.Chapter 32. Available from: https://www.ncbi.nlm.nih.gov/books/NBK7971/
+6.Murphy JR.白喉棒状杆菌In: Baron S, editor.Medical Microbiology.4th edition.Galveston (TX): University of Texas Medical Branch at Galveston; 1996.Chapter 32. Available from: https://www.ncbi.nlm.nih.gov/books/NBK7971/
+7.Naglich JG, Metherall JE, Russell DW, Eidels L.Expression cloning of a diphtheria toxin receptor: identity with aheparin-binding EGF-like growth factor precursor.Cell.1992;69(6):1051-1061.doi:10.1016/0092-8674(92)90623-k
+7.Naglich JG, Metherall JE, Russell DW, Eidels L.Expression cloning of a diphtheria toxin receptor: identity with aheparin-binding EGF-like growth factor precursor.Cell.1992;69(6):1051-1061.doi:10.1016/0092-8674(92)90623-k
+
+【白喉的症状和体征】
+白喉的症状多样，通常取决于:
+受影响的器官系统或组织
+受影响的器官系统或组织
+菌株毒性
+菌株毒性
+大部分呼吸道感染是由产毒素的菌株引起的。产毒素菌株及不产毒素菌株均可引起皮肤感染。毒素很少被皮肤吸收；因此，在皮肤白喉中由毒素引起的并发症罕见。
+
+【咽部感染】
+经过2至5天（范围：1至10天）的潜伏期以及12至36小时的前驱期（1)后，患者会出现轻度咽痛、吞咽困难、低热及心动过速等症状。儿童常见恶心、呕吐、寒战、头痛和发热 (1)。在未经治疗的人群中，感染后2至6周内，分泌物和病灶中可能存在病原体。
+若感染由产毒株引起，则扁桃体区域会出现特征性的假膜。开始呈白色、平滑的渗出物，但典型者会变成暗灰色黏连牢固的纤维素膜，揭除易引起出血。薄膜可以向喉、气管和支气管延伸，可能部分阻塞气管或突然脱落引起气管完全阻塞。局部水肿可见颈部肿胀（牛颈样外观）、声嘶、喘鸣和呼吸困难。
+若吸收大量毒素，可出现明显乏力、面色苍白、心动过速、昏睡及昏迷；中毒症状可在 6～10 天内导致死亡。
+仅患有鼻白喉的患者病情轻微，表现为浆液血性或脓性分泌物，以及外鼻孔和上唇的刺激症状。
+Corynebacterium diphtheriae产毒菌株可能会导致厚厚的咽部渗出液。渗出液呈脏灰色，质地坚韧，呈纤维状，粘附在粘膜上。
+Corynebacterium diphtheriae产毒菌株可能会导致厚厚的咽部渗出液。渗出液呈脏灰色，质地坚韧，呈纤维状，粘附在粘膜上。
+Image courtesy of the Centers for Disease Control and Prevention.
+在急性鼻咽白喉中，局部水肿可能导致明显肿胀的颈部（牛颈）。
+在急性鼻咽白喉中，局部水肿可能导致明显肿胀的颈部（牛颈）。
+Image courtesy of the Public Health Image Library of the Centers for Disease Control and Prevention.
+皮肤白喉的结垢皮疹，如图中颈部所见，可能与更常见的皮肤病变如湿疹、银屑病、脓疱病难以鉴别。
+皮肤白喉的结垢皮疹，如图中颈部所见，可能与更常见的皮肤病变如湿疹、银屑病、脓疱病难以鉴别。
+Image courtesy of the Public Health Image Library of the Centers for Disease Control and Prevention.
+在少数情况下，皮肤白喉可能发生中央溃疡；偶尔会形成灰色的膜。
+在少数情况下，皮肤白喉可能发生中央溃疡；偶尔会形成灰色的膜。
+Image courtesy of the Public Health Image Library of the Centers for Disease Control and Prevention.
+Corynebacterium diphtheriae产毒菌株可能会导致厚厚的咽部渗出液。渗出液呈脏灰色，质地坚韧，呈纤维状，粘附在粘膜上。
+Corynebacterium diphtheriae产毒菌株可能会导致厚厚的咽部渗出液。渗出液呈脏灰色，质地坚韧，呈纤维状，粘附在粘膜上。
+Image courtesy of the Centers for Disease Control and Prevention.
+在急性鼻咽白喉中，局部水肿可能导致明显肿胀的颈部（牛颈）。
+在急性鼻咽白喉中，局部水肿可能导致明显肿胀的颈部（牛颈）。
+Image courtesy of the Public Health Image Library of the Centers for Disease Control and Prevention.
+皮肤白喉的结垢皮疹，如图中颈部所见，可能与更常见的皮肤病变如湿疹、银屑病、脓疱病难以鉴别。
+皮肤白喉的结垢皮疹，如图中颈部所见，可能与更常见的皮肤病变如湿疹、银屑病、脓疱病难以鉴别。
+Image courtesy of the Public Health Image Library of the Centers for Disease Control and Prevention.
+在少数情况下，皮肤白喉可能发生中央溃疡；偶尔会形成灰色的膜。
+在少数情况下，皮肤白喉可能发生中央溃疡；偶尔会形成灰色的膜。
+Image courtesy of the Public Health Image Library of the Centers for Disease Control and Prevention.
+
+【皮肤感染】
+皮肤损伤常见于四肢，表现形式多样，经常与慢性皮肤病变难以鉴别（如湿疹、银屑病、脓疱病）。少数患者会出现不愈合的、边缘清晰的溃疡，有时表面覆盖着灰白色假膜。典型的表现为疼痛、触痛、红斑和渗出。假如产生外毒素，损伤处可有麻木感。约20%的患者通过直接或间接接种病原体发生伴随性鼻咽部感染，感染源常为既有的慢性皮肤病变（2）。
+白喉主要的并发症为心脏和神经并发症。由白喉棒状杆菌的非产毒菌株引起的菌血症可能导致心内膜炎、化脓性关节炎和真菌性脑动脉瘤。
+心肌炎通常在第10到14天明显，但在第1到第6周的任何时间都可能出现，即使在局部呼吸道症状消退时也是如此；心脏毒性的风险与局部感染的程度有关。20%至30%的患者会出现不显著的心电图改变（如ST段改变、T波改变及QT间期延长），但也可能出现房室分离、完全性心脏传导阻滞和室性心律失常，这些情况通常与高死亡率相关。也可以发生心力衰竭。
+神经系统损伤不常见（约5%），仅在严重的呼吸道白喉中发生。白喉毒素引起多神经脱髓鞘病变，累及脑神经和外周神经。毒素作用通常在起病第一周内出现，引起眼调节功能受损、延髓麻痹、吞咽困难和鼻反流。在第3～第6周出现外周神经病变。运动与感觉神经均可受累，但以运动神经受累为主。膈肌可能瘫痪，有时会导致呼吸衰竭。恢复需要数周时间。以血管舒缩张力丧失（心动过速、心律失常和动脉低血压）形式出现的自主神经功能障碍也是白喉的并发症。
+由于毒素损害肾脏，严重情况下可能发生急性肾功能衰竭。
+总体估计病例致死率为5%至10%（1）。患有以下任何一种疾病的患者死亡率更高（3，4）：
+迟发表现
+迟发表现
+未接种或部分接种疫苗的患者
+未接种或部分接种疫苗的患者
+急性肾功能衰竭
+急性肾功能衰竭
+
+【症状和体征参考】
+1.Acosta AM, Moro PL, Hariri S, Tiwari TSP: Chapter 7: Diphtheria.In Centers for Disease Control and Prevention: Epidemiology and Prevention of Vaccine-Preventable Diseases (the "pink book").April 23, 2024.Accessed July 15, 2025.
+1.Acosta AM, Moro PL, Hariri S, Tiwari TSP: Chapter 7: Diphtheria.In Centers for Disease Control and Prevention: Epidemiology and Prevention of Vaccine-Preventable Diseases (the "pink book").April 23, 2024.Accessed July 15, 2025.
+2.Koopman JS, Campbell J.The role of cutaneous diphtheria infections in a diphtheria epidemic.J Infect Dis.1975;131(3):239-244.doi:10.1093/infdis/131.3.239
+2.Koopman JS, Campbell J.The role of cutaneous diphtheria infections in a diphtheria epidemic.J Infect Dis.1975;131(3):239-244.doi:10.1093/infdis/131.3.239
+3.Gampa M, Karna PN, Reddy KV, et al. Study of Diphtheria and Its Complications: A Retrospective Study from a Tertiary Care Hospital.Pediatr Inf Dis2021;3(4):140–142.doi: 10.5005/jp-journals-10081-1307
+3.Gampa M, Karna PN, Reddy KV, et al. Study of Diphtheria and Its Complications: A Retrospective Study from a Tertiary Care Hospital.Pediatr Inf Dis2021;3(4):140–142.doi: 10.5005/jp-journals-10081-1307
+4.Kadirova R, Kartoglu HU, Strebel PM.Clinical characteristics and management of 676 hospitalized diphtheria cases, Kyrgyz Republic, 1995.J Infect Dis.2000;181 Suppl 1:S110-S115.doi:10.1086/315549
+4.Kadirova R, Kartoglu HU, Strebel PM.Clinical characteristics and management of 676 hospitalized diphtheria cases, Kyrgyz Republic, 1995.J Infect Dis.2000;181 Suppl 1:S110-S115.doi:10.1086/315549
+
+【白喉的诊断】
+革兰染色和细菌培养
+革兰染色和细菌培养
+毒素产生测试
+毒素产生测试
+出现以下非特异症状时需考虑白喉诊断：咽炎、颈部腺体病、低热同时伴有全身中毒症状和声嘶、腭麻痹及喘鸣。特征性假膜的出现可以提示诊断。
+对来自伪膜的样本进行革兰氏染色，可能发现革兰氏阳性杆菌，其具有典型的汉字结构的异染性（串珠状）染色，一端或两端有棒状肿胀。培养材料应取自假膜下方，或直接取假膜的一部分送检。应通知实验室怀疑为白喉棒状杆菌，以便采用含亚碲酸盐的特殊选择性培养基（如吕弗勒培养基或廷斯代尔培养基）进行培养。
+这张显微照片显示了大量革兰氏阳性、棒状的白喉棒状杆菌，这些细菌会引起白喉疾病。
+CDC/ Graham Heid
+当呼吸道白喉患者出现皮肤损伤时要考虑是否合并皮肤白喉。应对皮肤拭子或活检标本进行培养。皮肤白喉病变可合并A组链球菌或Staphylococcus aureus金黄色葡萄球菌感染。
+应进行心电图检查以寻找与心肌炎相关的ST-T波改变、QT间期延长和/或一度房室传导阻滞，这些表现常随着呼吸道症状的缓解而变得明显。
+进行体外毒素产生测试（改良的Elek免疫扩散试验）以区分产毒株与非产毒株。还可通过聚合酶链式反应（PCR）检测白喉毒素基因以确诊。使用针对外毒素成分的单克隆抗体的酶免疫测定（EIA）检测方法也已问世。
+
+【白喉的治疗】
+白喉抗毒素
+白喉抗毒素
+青霉素、红霉素或阿奇霉素
+青霉素、红霉素或阿奇霉素
+对于无症状患者，在最后一次接触后7天内还应实施每日监测，以观察是否出现白喉的体征和症状。
+对出现症状的呼吸道白喉患者应当住院并且在重症监护室治疗，监测呼吸和心脏等方面的并发症。应当采取呼吸飞沫和接触预防措施进行隔离，直到抗生素疗程结束（至少治疗14天后）24～48小时后连续两次培养阴性为止 (1)。
+
+【白喉抗毒素】
+所有白喉病例都必须经验性使用白喉抗毒素，无需等待培养结果确认，因为该抗毒素仅能中和尚未与细胞结合或进入细胞内的循环毒素（2）。早期给予抗毒素可减轻毒素的影响并改善预后，因为白喉相关并发症的严重程度与抗毒素治疗前的病程时长成反比（3）。尽管皮肤白喉中罕见毒性后遗症报道，但部分专家仍建议使用白喉抗毒素以中和循环毒素，预防潜在全身性并发症（如心肌炎、神经病变）。
+在美国，必须通过美国疾病控制与预防中心（CDC）的扩大使用研究性新药（EA-IND）获取抗毒素（4）。
+注意：白喉抗毒素来源于马（即从马匹中提取）；因此，在给药前必须始终进行皮肤（或结膜）试验以排除过敏反应。
+抗毒素的剂量，肌肉或者静脉注射的范围在20,000到100,000单位，由以下情况确定：
+位点和症状的严重程度
+位点和症状的严重程度
+疾病病程
+疾病病程
+过敏反应包括给药后 30 分钟内发生的过敏反应和迟发性过敏反应（血清病、III型超敏反应）。如果发生速发型过敏反应，应当立即皮下、肌注或缓慢静脉注射0.3~1mL的1：1000肾上腺素（0.01mL/kg）。对抗毒素过敏的患者禁止静脉使用抗毒素。
+需要使用抗生素杀灭细菌防止传播，抗生素不能替代抗毒素。
+患者可以接受以下治疗：
+红霉素 成人500mg（每日最大剂量2g） q6h 共14天（儿童 口服或注射 10mg/kg）
+红霉素 成人500mg（每日最大剂量2g） q6h 共14天（儿童 口服或注射 10mg/kg）
+普鲁卡因青霉素G肌注（对于体重≤10kg者，每12小时30万单位；体重>10kg的患者，每12小时60万单位），持续14天
+普鲁卡因青霉素G肌注（对于体重≤10kg者，每12小时30万单位；体重>10kg的患者，每12小时60万单位），持续14天
+阿奇霉素，每天一次，每次10至12mg/kg（每日最大剂量500mg）或成人每天500mg，静脉注射或口服，持续14天
+阿奇霉素，每天一次，每次10至12mg/kg（每日最大剂量500mg）或成人每天500mg，静脉注射或口服，持续14天
+当患者能够耐受口服药物，就应该改用青霉素250mg 每日四次或红霉素500mg（儿童10mg/kg）口服，每6 小时1次，治疗持续14天。在某些指南中阿奇霉素是首选药物（5）。
+如果检测抗生素的耐药性可以使用万古霉素或利奈唑胺。确认病原体清除，需在抗生素治疗结束后至少14天，采集连续2次的咽喉部和/或鼻咽部培养，且2次培养间隔至少24小时，结果均为阴性方可证明。
+
+【其他治疗】
+对于皮肤白喉，建议用肥皂和水彻底清洁部位，并根据感染严重程度，给予全身抗生素治疗10至14天。
+重度白喉的恢复很缓慢，应当建议患者不要太快恢复运动。甚至正常的体力活动对心肌炎的恢复也是有害的。
+白喉患者康复后需要接种疫苗，因为感染不能保证获得免疫。
+
+【治疗参考文献】
+1.Centers for Disease Control and Prevention: Diphtheria.Infection Control in Healthcare Personnel: Epidemiology and Control of Selected Infections Transmitted Among Healthcare Personnel and Patients(2024).April 12, 2024.Accessed July 15, 2025.
+1.Centers for Disease Control and Prevention: Diphtheria.Infection Control in Healthcare Personnel: Epidemiology and Control of Selected Infections Transmitted Among Healthcare Personnel and Patients(2024).April 12, 2024.Accessed July 15, 2025.
+2.Truelove SA, Keegan LT, Moss WJ, et al.Clinical and Epidemiological Aspects of Diphtheria: A Systematic Review and Pooled Analysis.Clin Infect Dis.2020;71(1):89-97.doi:10.1093/cid/ciz808
+2.Truelove SA, Keegan LT, Moss WJ, et al.Clinical and Epidemiological Aspects of Diphtheria: A Systematic Review and Pooled Analysis.Clin Infect Dis.2020;71(1):89-97.doi:10.1093/cid/ciz808
+3.Adler NR, Mahony A, Friedman ND.Diphtheria: forgotten, but not gone.Intern Med J.2013;43(2):206-210.doi:10.1111/imj.12049
+3.Adler NR, Mahony A, Friedman ND.Diphtheria: forgotten, but not gone.Intern Med J.2013;43(2):206-210.doi:10.1111/imj.12049
+4.Centers for Disease Control and Prevention.白喉。Diphtheria Antitoxin.December 18, 2024.Accessed July 15, 2025.
+4.Centers for Disease Control and Prevention.白喉。Diphtheria Antitoxin.December 18, 2024.Accessed July 15, 2025.
+5.Médecins Sans Frontières: Clinical Guidelines Diagnosis and Treatment Manual: Diphtheria.June 2025.Accessed July 15, 2025.
+5.Médecins Sans Frontières: Clinical Guidelines Diagnosis and Treatment Manual: Diphtheria.June 2025.Accessed July 15, 2025.
+
+【白喉的预防】
+预防措施包括:
+感染控制措施（呼吸道飞沫隔离直至14天抗生素疗程结束，且至少间隔24小时的2次培养结果为阴性）
+感染控制措施（呼吸道飞沫隔离直至14天抗生素疗程结束，且至少间隔24小时的2次培养结果为阴性）
+疫苗接种（初级接种及暴露后接种）
+疫苗接种（初级接种及暴露后接种）
+
+【疫苗接种】
+有关更多信息，参见白喉-破伤风-百日咳疫苗（DTaP）、破伤风-白喉-百日咳（Tdap）和破伤风-白喉（Td加强针）疫苗。
+白喉疫苗含有白喉类毒素；其与其他疫苗混合使用。
+
+【暴露后抗生素的使用】
+所有密切接触者均应接受检查；在最后一次已知接触后，需持续监测疾病迹象7天。接触者追踪协议可从疾病预防控制中心（CDC）应急行动中心获取（1）。
+无论免疫状态如何，都应该进行鼻咽和/或咽喉拭子的C. diphtheriae（白喉棒状杆菌）培养，因为疫苗仅能预防白喉毒素的作用，而不能预防C. diphtheriae（白喉棒状杆菌）感染。
+密切接触者，包括家庭成员和与感染者直接接触的人员，应接受接触预防措施。暴露于患者呼吸道分泌物的医务人员也应接受预防性治疗。
+接触性预防通常包括单次剂量的青霉素G，按以下方式给药：
+6岁以下患者肌肉注射60万单位
+6岁以下患者肌肉注射60万单位
+6岁及以上患者肌肉注射120万单位
+6岁及以上患者肌肉注射120万单位
+或者，可以红霉素 500mg po qid，持续7～10天。及时和完整的抗生素治疗对于个体患者、预防疫情爆发以及最大限度地减少更广泛社区的并发症至关重要。
+如果培养结果仍然呈阳性，则应再进行 10 天的红霉素疗程；携带者不应使用抗毒素。携带者在治疗3天后，可以继续工作，但必须同时继续服用抗生素。当抗生素疗程结束后24小时应当再次进行细菌培养，连续两次从鼻及喉获得标本培养，间隔24小时。如培养阳性，应再使用一个疗程的抗生素，然后再进行细菌培养。
+
+【预防参考文献】
+1.Centers for Disease Control and Prevention: Office of Readiness and Response.Emergency Operations.February 21, 2024.Accessed July 15, 2025.
+1.Centers for Disease Control and Prevention: Office of Readiness and Response.Emergency Operations.February 21, 2024.Accessed July 15, 2025.
+白喉是一种具有传染性的细菌性皮肤或鼻咽部感染，可产生一种强效毒素，该毒素能损害心脏、神经，有时还会损害肾脏。
+白喉是一种具有传染性的细菌性皮肤或鼻咽部感染，可产生一种强效毒素，该毒素能损害心脏、神经，有时还会损害肾脏。
+白喉在广泛接种疫苗的国家很少见，但在疫苗接种覆盖率低的许多国家呈地方性流行；而在部分疫苗初种及复种率下降的国家，白喉发病率正小幅上升。
+白喉在广泛接种疫苗的国家很少见，但在疫苗接种覆盖率低的许多国家呈地方性流行；而在部分疫苗初种及复种率下降的国家，白喉发病率正小幅上升。
+咽部感染会导致扁桃体区域出现特征性的假膜；它最初可能表现为白色、有光泽的渗出物，但通常会变成脏灰色、坚韧、纤维素性且粘连的。
+咽部感染会导致扁桃体区域出现特征性的假膜；它最初可能表现为白色、有光泽的渗出物，但通常会变成脏灰色、坚韧、纤维素性且粘连的。
+治疗需使用白喉抗毒素联合青霉素或红霉素；治疗结束后需通过培养检查确认治愈。
+治疗需使用白喉抗毒素联合青霉素或红霉素；治疗结束后需通过培养检查确认治愈。
+患者恢复后应接种疫苗；密切接触者若未接种，或最后一剂接种时间为>5年，需要接种疫苗。
+患者恢复后应接种疫苗；密切接触者若未接种，或最后一剂接种时间为>5年，需要接种疫苗。
+不论其免疫状态如何都应对密切接触者进行鼻咽部和喉的标本进行培养。
+不论其免疫状态如何都应对密切接触者进行鼻咽部和喉的标本进行培养。
+对密切接触者给予抗生素;治疗的持续时间取决于培养结果。
+对密切接触者给予抗生素;治疗的持续时间取决于培养结果。

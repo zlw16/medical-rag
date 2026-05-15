@@ -1,0 +1,215 @@
+标题：稳定期COPD的治疗
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/chronic-obstructive-pulmonary-disease-and-related-disorders/treatment-of-stable-copd
+============================================================
+
+慢性阻塞性肺疾病（COPD）的管理包括对慢性稳定期COPD及急性加重期的治疗。
+慢性稳定期 COPD 的治疗旨在通过以下方式预防急性加重，并改善肺功能和身体机能：
+药物治疗
+药物治疗
+增强营养
+增强营养
+肺康复治疗，包括锻炼
+肺康复治疗，包括锻炼
+选择有指征的病人进行外科治疗。这可能包括肺减容程序或肺移植。
+
+【稳定期 COPD 患者的戒烟治疗】
+戒烟既相当困难又极为重要；它能延缓但不能中止 FEV1 的下降速度（见图戒烟患者的肺功能改变），并可增加长期生存率。 同时使用多种策略是最有效的：
+设立一个戒烟日期
+设立一个戒烟日期
+行为矫正技巧
+行为矫正技巧
+小组会议
+小组会议
+尼古丁替代疗法（通过口香糖、透皮贴剂、吸入器、含片或鼻腔喷雾剂）
+尼古丁替代疗法（通过口香糖、透皮贴剂、吸入器、含片或鼻腔喷雾剂）
+伐尼克兰或安非他酮
+伐尼克兰或安非他酮
+医生鼓励
+医生鼓励
+COPD患者的戒烟率普遍较低（1），即使采用最有效的干预措施，例如使用安非他酮联合尼古丁替代或单独使用伐伦克林。
+
+【戒烟患者和持续吸烟患者肺功能改变 (预测FEV1的百分比)】
+戒烟患者和持续吸烟患者肺功能改变 (预测FEV1的百分比)
+在第一年期间，戒烟者肺功能有改善而持续吸烟者肺功能持续下降。随后，持续吸烟者肺功能下降程度是戒烟者的2倍。 复吸者的肺功能下降，戒烟者的肺功能改善，行为习惯的改变无论何时发生，都会产生相应的结局。Based on data from Scanlon PD et al: Smoking cessation and lung function in mild-to-moderate chronic obstructive pulmonary disease; the Lung Health Study.American Journal of Respiratory and Critical Care Medicine161:381–390, 2000.
+
+【戒烟参考】
+1.Liu Y, Greenlund KJ, VanFrank B, et al: Smoking Cessation Among U.S. Adult Smokers With and Without Chronic Obstructive Pulmonary Disease, 2018.Am J Prev Med62(4):492–502, 2022.doi:10.1016/j.amepre.2021.12.001
+1.Liu Y, Greenlund KJ, VanFrank B, et al: Smoking Cessation Among U.S. Adult Smokers With and Without Chronic Obstructive Pulmonary Disease, 2018.Am J Prev Med62(4):492–502, 2022.doi:10.1016/j.amepre.2021.12.001
+
+【稳定期 COPD 的药物治疗】
+推荐的药物治疗在表COPD的药物治疗中进行了总结。
+吸入型支气管舒张剂是治疗COPD的支柱，药物包括
+beta-受体激动剂
+beta-受体激动剂
+抗胆碱能药物（毒蕈碱受体阻断剂）
+抗胆碱能药物（毒蕈碱受体阻断剂）
+这两类药物同等有效。轻度疾病患者仅在出现症状时才接受治疗。中度至重度慢性阻塞性肺疾病患者应选择这些类别的一种或两种药物规律服用，以改善肺功能并增加活动能力。
+使用抗胆碱能药物，吸入型糖皮质激素，或长效beta受体激动剂可减少发作频率。没有可信证据表明规则使用支气管舒张剂能延缓肺功能的恶化。初始治疗方案的选择是一个个体化问题，选择短效beta受体激动剂还是长效beta受体激动剂，抑或是抗胆碱能药物，或两者联合应用，涉及权衡医疗费用、患者使用便利性和偏好、疗效等问题。
+对于慢性稳定期疾病的家庭治疗，优先使用定量吸入器或干粉吸入器给药，而不是使用雾化器给药；家用雾化器在清洁和干燥不彻底时容易受到污染。与使用吸入器时需要刻意进行深吸气（至肺总量）的操作相比，雾化器通过自然的潮气呼吸就能将药物输送，但这可能导致药物更多地沉积在近端气道，给药效率较低。因此，雾化装置应该留给那些不能协调定量吸入器和吸入动作或不能产生足够的吸气流量来吸入干粉吸入剂的人。
+对于定量吸入器的使用，应教育病人呼气至功能残气量时再缓慢吸入气溶胶至肺总量，在呼气前屏气3~4秒。储雾罐可确保药物输送到远端气道，降低对吸入器和吸气动作间协调性的要求。有些储雾罐在病人吸气太快时可发出警告。 新的或最近未使用的定量雾化吸入器需要喷2~3喷启动剂量（不同的制造商对“最近未使用”的解释略有不同，时间跨度为3~14天不等）。
+与定量吸入器相比，干粉吸入器需要快速深吸气以分解粉末，使得最小的颗粒沉积在末端气腔中。
+
+【慢性阻塞性肺病的药物治疗】
+慢性阻塞性肺病的药物治疗
+治疗方法
+无加重的呼吸困难
+伴有或不伴有呼吸困难的加重
+初始治疗*
+LABA 或 LAMA
+LABA 或 LAMA
+初始升级治疗
+LABA + LAMA
+LABA + LAMA 或 LABA + LAMA + ICS†
+持续症状的后续治疗方法
+考虑更换吸入器或药物
+实施或加强非药物治疗
+评估呼吸困难的其他原因
+LABA + LAMA + ICS + 罗氟司特或阿奇霉素‡
+* 应为所有患者开具救援短效支气管扩张剂，以立即缓解症状。
+†ICS对嗜酸性粒细胞计数≥150/μL (≥0.15×109/L)的患者最有效。如果患者出现肺炎或对治疗无反应，可能需要降级 ICS。对于嗜酸性粒细胞计数≥300/μL (≥0.30×109/L)的患者，降级治疗更有可能导致急性加重。
+‡ 对于反复发作，加用 PDE4 抑制剂（如罗氟司特）或长期使用阿奇霉素。罗氟司特适用于 FEV1<50% 的慢性支气管炎 COPD 患者。阿奇霉素适合已戒烟者，但对目前吸烟者的效果较差。
+FEV1 = 深吸一口气后第一秒用力呼出的空气量；LABA = 长效β受体激动剂；LAMA = 长效抗毒蕈碱拮抗剂；ICS = 吸入皮质类固醇；PDE4 = 磷酸二酯酶 4 抑制剂。
+Adapted from the Global Initiative for Chronic Obstructive Lung Disease (GOLD): Global Strategy for the Prevention, Diagnosis, and Management of COPD: 2024 report.可访问：http://www.goldcopd.org。
+* 应为所有患者开具救援短效支气管扩张剂，以立即缓解症状。
+†ICS对嗜酸性粒细胞计数≥150/μL (≥0.15×109/L)的患者最有效。如果患者出现肺炎或对治疗无反应，可能需要降级 ICS。对于嗜酸性粒细胞计数≥300/μL (≥0.30×109/L)的患者，降级治疗更有可能导致急性加重。
+‡ 对于反复发作，加用 PDE4 抑制剂（如罗氟司特）或长期使用阿奇霉素。罗氟司特适用于 FEV1<50% 的慢性支气管炎 COPD 患者。阿奇霉素适合已戒烟者，但对目前吸烟者的效果较差。
+FEV1 = 深吸一口气后第一秒用力呼出的空气量；LABA = 长效β受体激动剂；LAMA = 长效抗毒蕈碱拮抗剂；ICS = 吸入皮质类固醇；PDE4 = 磷酸二酯酶 4 抑制剂。
+Adapted from the Global Initiative for Chronic Obstructive Lung Disease (GOLD): Global Strategy for the Prevention, Diagnosis, and Management of COPD: 2024 report.可访问：http://www.goldcopd.org。
+
+【beta-受体激动剂】
+beta受体激动剂能松弛支气管平滑肌，增加黏液纤毛清除。沙丁胺醇气雾剂，根据需要每天用定量吸入器吸入 4 至 6 次，每次 2 喷，通常是发作性呼吸困难或急性发作早期治疗的首选药物。
+长效β受体激动剂对于有夜间症状或频繁服药不方便的患者来说是更好的选择，可以作为 COPD 的初始治疗。可选择沙美特罗粉剂，每次1吸（50 mcg），每日2次；茚达特罗，每次1吸（75 mcg），每日1次（在欧洲为150 mcg，每日1次）；奥达特罗，每次2吸，每日1次（每日固定时间）。维兰特罗和福莫特罗可与吸入皮质类固醇联合使用。 也可以使用雾化形式的阿福特罗和福莫特罗。干粉剂对难以协调使用定量吸入器的病人更有效。
+必须告知病人短效和长效beta受体激动剂的区别，因为后者若按需使用或每天超过2次会增加心律失常的危险。
+任何beta受体激动剂都会产生副作用，包括手抖、焦虑、心动过速、轻度或一过性的低血钾。
+
+【抗胆碱能药物】
+抗胆碱能药物（抗毒蕈碱药）通过竞争性抑制毒蕈碱受体（M1， 和M3）而松弛支气管平滑肌。长效抗毒蕈碱拮抗剂是 COPD 患者的一线治疗合理替代方案。抗胆碱能药物的副作用包括瞳孔扩大（及诱发或加重急性闭角型青光眼的风险）、尿潴留和口干。
+异丙托品是短效的抗胆碱能药物，定量吸入器吸入，剂量是每4~6小时1次，每次2~4喷（17mcg/喷）。异丙托溴铵起效较慢（30分钟内起效，1~2小时达峰效应），因此常与一种β受体激动剂联合使用，可置于同一组合吸入器中，或作为按需使用的急救药物单独使用。
+噻托溴铵是一种长效的四价铵抗胆碱能药，以粉剂形式(18 mcg/puff) 或软雾吸入器 (2.5 mcg/puff)吸入。剂量为：使用干粉吸入器时，每日1次，每次1喷（18微克）；使用软雾吸入器时，每日1次，每次2喷（5微克）。
+阿地溴铵可作为多剂量干粉吸入剂使用。剂量为每次1喷（400微克/喷），每日2次。Aclidinium也可与长效 β-激动剂联合用作干粉吸入器。
+Umeclidinium 可在干粉吸入器中与维兰特罗（一种长效 β-激动剂）每天一次组合使用。
+甘罗溴铵（一种抗胆碱能药）可与茚达特罗或福莫特罗（长效β受体激动剂）在干粉或定量吸入器中联合使用，每日两次。
+瑞非那新每天通过雾化器给药一次。
+
+【吸入糖皮质激素】
+糖皮质激素是常规治疗的组成部分之一。 吸入型糖皮质激素似乎可减轻气道炎症，逆转beta受体的下调，抑制白三烯和细胞因子的产生。对于继续吸烟的COPD患者，它们不能改变肺功能下降的进程，但确实可以缓解症状、短期改善部分患者的肺功能，增强支气管扩张剂的效果，并减少COPD急性加重的频率。对于已经使用最优支气管舒张剂治疗但症状持续，或反复加重的患者，可应用吸入糖皮质激素。吸入性糖皮质激素对患有嗜酸性粒细胞增多症的患者益处最大（1）。在急性加重患者中，加用吸入性皮质类固醇能够降低急性加重频率并延长生存期 (2,3）。
+老年人长期吸入糖皮质激素的风险尚未得到证实，但可能包括骨质疏松、白内障形成以及非致命性肺炎的风险增加。 因此长期用药者应定期接受眼科检查及骨密度筛查，如有症状(如夜视改变史、虚弱或骨折)，有指征时应补充钙、维生素D和双膦酸盐。
+如果患者出现肺炎或对治疗无反应，可能需要降低吸入皮质类固醇治疗的剂量。
+对于COPD患者，不再建议在不使用长效抗胆碱能药物的情况下，联合使用长效β受体激动剂和吸入性糖皮质激素，除非他们同时患有哮喘。
+口服或全身性糖皮质激素通常不应用于治疗慢性稳定期COPD。
+现在有了更安全、更有效的药物，不再推荐使用茶碱来治疗慢性稳定性 COPD。茶碱可减轻平滑肌痉挛，增强黏液纤毛清除功能，改善右室功能，降低肺血管阻力和动脉压。 其作用方式了解甚少，但似乎不同于beta2受体激动剂和抗胆碱能药物。其在改善运动中膈肌功能和呼吸困难方面的作用尚不清楚。
+茶碱可用于对吸入药物反应不佳且在试用茶碱期间已显示出症状改善的患者。无需监测血药浓度，除非病人对药物无反应、出现中毒症状或质疑其依从性时；缓慢吸收的口服制剂降低了给药频率，能提高病人的依从性。
+毒性反应常见，包括失眠、胃肠道不适，甚至在低血药浓度时也可见。更严重的副作用如室上性和室性心律失常、癫痫发作易出现在血药浓度>20 mg/L (111 micromol/L) 时。
+茶碱的肝脏代谢变异很大，受遗传因素、年龄、吸烟史、肝功能损害、饮食、某些药物如大环内酯类和氟喹诺酮类抗生素及非镇静性H2受体阻断剂的影响。
+
+【磷酸二酯酶（PDE）4抑制剂】
+磷酸二酯酶-4抑制剂 比茶碱对肺部磷酸二酯酶特异性更高，同时副作用更少。它不仅具有抗炎作用而且是轻度的支气管扩张剂。磷酸二酯酶-4抑制剂（如罗氟司特）可与其他支气管扩张剂联用，以减少有症状且伴有慢性支气管炎的COPD患者的急性加重。
+常见的副作用包括恶心，头痛和体重减轻，但这些副作用会随着持续使用而减轻。
+
+【大环内酯类抗生素】
+长期阿奇霉素治疗是预防COPD加重的有效辅助手段，尤其适用于容易反复发作或严重发作倾向的患者（特别是目前不吸烟的患者）。阿奇霉素每日口服250毫克的剂量已被证明有效（4）。红霉素可以作为替代品。
+
+【药物治疗参考】
+1.Pascoe S, Barnes N, Brusselle G, et al: Blood eosinophils and treatment response with triple and dual combination therapy in chronic obstructive pulmonary disease: analysis of the IMPACT trial.Lancet Respir Med7(9):745–756 2019.doi: 10.1016/S2213-2600(19)30190-0
+1.Pascoe S, Barnes N, Brusselle G, et al: Blood eosinophils and treatment response with triple and dual combination therapy in chronic obstructive pulmonary disease: analysis of the IMPACT trial.Lancet Respir Med7(9):745–756 2019.doi: 10.1016/S2213-2600(19)30190-0
+2.Lipson DA, Crim C, Criner GJ, et al: Reduction in all-cause mortality withfluticasone furoate/umeclidinium/vilanterolin patients with chronic obstructive pulmonary disease.Am J Respir Crit Care Med201(12):1508–1516, 2020.doi: 10.1164/rccm.201911-2207OC
+2.Lipson DA, Crim C, Criner GJ, et al: Reduction in all-cause mortality withfluticasone furoate/umeclidinium/vilanterolin patients with chronic obstructive pulmonary disease.Am J Respir Crit Care Med201(12):1508–1516, 2020.doi: 10.1164/rccm.201911-2207OC
+3.Rabe KF, Martinez FJ, Ferguson GT, et al: Triple inhaled therapy at two glucocorticoid doses in moderate-to-very-severe COPD.N Engl J Med383(1):35–48, 2020.doi: 10.1056/NEJMoa1916046
+3.Rabe KF, Martinez FJ, Ferguson GT, et al: Triple inhaled therapy at two glucocorticoid doses in moderate-to-very-severe COPD.N Engl J Med383(1):35–48, 2020.doi: 10.1056/NEJMoa1916046
+4.Albert RK, Connett J, Bailey WC, et al:Azithromycinfor prevention of exacerbations of COPD [published correction appears inN Engl J Med2012 Apr 5;366(14):1356].N Engl J Med365(8):689–698, 2011.doi:10.1056/NEJMoa1104623
+4.Albert RK, Connett J, Bailey WC, et al:Azithromycinfor prevention of exacerbations of COPD [published correction appears inN Engl J Med2012 Apr 5;366(14):1356].N Engl J Med365(8):689–698, 2011.doi:10.1056/NEJMoa1104623
+
+【稳定期 COPD 的氧疗】
+长期氧疗可延长动脉血氧分压（PaO₂）长期<55 mmHg的COPD患者的生命。持续24小时使用较夜间12小时使用更有效。氧疗使血细胞比容趋于正常。氧疗有以下作用：
+使血细胞比容达到正常水平
+使血细胞比容达到正常水平
+改善神经心理因素，可能通过促进睡眠
+改善神经心理因素，可能通过促进睡眠
+改善肺血流动力学异常
+改善肺血流动力学异常
+增加一些患者的运动耐量
+增加一些患者的运动耐量
+应在运动和休息时监测血氧饱和度。同样，对于清醒时未达到长期氧疗标准（见表COPD长期氧疗的指征）、但临床评估提示存在肺动脉高压而白天无低氧血症的晚期COPD患者，应考虑进行睡眠监测。如果睡眠监测显示发作性血氧饱和度下降至≤88%，可给予夜间氧疗。该治疗可防止肺动脉高压进展，但其对生存率的影响尚不知晓。对于中度低氧血症（静息血氧饱和度＞88%）或运动时出现血氧饱和度下降的患者，氧疗可能会减轻症状，但并不能提高生存率或减少住院率（1）。
+有些患者在空中旅行时需补充氧气，因为商业航班机舱内的压力较海平面低（通常相当于1830～2400米[6000～8000英尺]）。对于在海平面时动脉血二氧化碳分压正常且PaO₂>68 mmHg的COPD患者，飞行时的PaO₂通常>50 mmHg，因此不需要补充氧气。所有在海平面时PaO₂≤68 mmHg、存在高碳酸血症、严重贫血（血细胞比容<30%）、或合并心脑血管疾病的COPD患者，在长途飞行期间都应使用补充氧气，并在预订机票时通知航空公司。由于便携式氧气浓缩器随处可见，很少有航空公司还提供氧气。建议患者租用或购买便携式制氧机供航空旅行时使用，包括足够的备用电池以应对飞行时间和可能的延误。
+必须告知所有患者在使用氧气时吸烟或在明火上做饭的危险。
+
+【COPD长期氧疗的适应证】
+COPD长期氧疗的适应证
+PaO2≤55mmHg或SaO2≤88%*的患者需接受最佳药物治疗至少30天†。
+对于患有肺心病或红细胞增多症（血细胞比容>55%）的患者，PaO2=55至59 mm Hg或SaO2≤89%*。
+对于存在运动去氧饱和或严重呼吸困难的患者，若症状能因此改善，可考虑使用；但此疗法无法改善生存率或降低住院率。 也可考虑用于夜间睡眠时去氧饱和的患者.‡
+*动脉血氧水平是在静息状态下呼吸空气时测得的。
+† 从急性呼吸系统疾病中恢复且符合所列标准的患者，应给予氧气治疗，并在呼吸室内空气60至90天后复查。
+‡ See alsoLong-Term Oxygen Treatment Trial Research Group: A randomized trial of long-term oxygen for COPD with moderate desaturation.N Engl J Med375:1617–1627, 2016.
+Hct = 红细胞比容；PaO2 =动脉血氧分压； SaO2 =氧饱和度。
+*动脉血氧水平是在静息状态下呼吸空气时测得的。
+† 从急性呼吸系统疾病中恢复且符合所列标准的患者，应给予氧气治疗，并在呼吸室内空气60至90天后复查。
+‡ See alsoLong-Term Oxygen Treatment Trial Research Group: A randomized trial of long-term oxygen for COPD with moderate desaturation.N Engl J Med375:1617–1627, 2016.
+Hct = 红细胞比容；PaO2 =动脉血氧分压； SaO2 =氧饱和度。
+通过鼻导管给予氧气，其流速足以使动脉血氧分压(PaO2)>60 mm Hg（氧饱和度>90%），通常在休息时≤3 L/分钟（在较高海拔地区，如科罗拉多州丹佛市，通常会更高）。
+可通过电动制氧机、液氧系统或压缩氧气钢瓶供氧。 固定式制氧机限制了患者的活动，但价格最低廉，更适合大部分时间待在家里的患者。 这类患者需要小型氧气罐作为备用，以防停电，或作为便携式使用。 可移动的便携式制氧机可用于不需要高氧流速的患者。
+液氧制氧系统对于长时间不在家的患者来说更可取。 便携式液氧罐比便携式氧气压缩制氧罐更易于携带，且容量更大。
+大型压缩氧气瓶是最贵的供氧方式，只在没有其他选择时使用。
+各种氧气节流装置可以通过使用储氧系统或仅在吸气时允许氧气流动来减少患者使用的氧气量。使用这些装置的系统可能和持续气流装置一样有效地纠正静息时的低氧血症。但是对于与运动有关的低氧血症，间歇性流量装置可能不如连续气流有效。
+
+【氧疗参考】
+1.Long-Term Oxygen Treatment Trial Research Group: A randomized trial of long-term oxygen for COPD with moderate desaturation.N Engl J Med375:1617–1627, 2016.
+1.Long-Term Oxygen Treatment Trial Research Group: A randomized trial of long-term oxygen for COPD with moderate desaturation.N Engl J Med375:1617–1627, 2016.
+
+【慢性阻塞性肺病稳定期的疫苗接种】
+所有COPD病人必须每年接种流感疫苗。如果患者的COPD使其因流感而出现呼吸道并发症的风险增加，建议在与流感感染者密切接触后使用神经氨酸酶抑制剂（奥司他韦或扎那米韦）进行预防性治疗。在出现流感样疾病的第一个迹象时以及接触后 2 天内，应开始使用神经氨酸酶抑制剂或核酸内切酶抑制剂（巴拉索韦玛波西酯）治疗。
+应接种肺炎球菌疫苗，因为该疫苗能有效减少老年人的社区获得性肺炎和侵袭性肺炎球菌感染。
+建议60岁以上的成年人接种呼吸道合胞病毒（RSV）疫苗，无论是否诊断为COPD，但COPD患者可能从RSV疫苗接种中获益显著。
+COVID-19 疫苗接种也推荐用于 COPD 患者。
+
+【稳定期 COPD 患者的营养】
+患有COPD的患者由于日常活动所需能量消耗较高、因气促导致摄入热量不足以及炎症细胞因子（如肿瘤坏死因子（TNF）-α）的分解作用，因此有体重减轻和营养不良的风险。 全身肌肉力量和氧气使用效率受损。营养状况较差的患者预后更差，因此，明智的做法是推荐均衡饮食，保证充足的热量摄入，并结合锻炼，以预防或逆转营养不良和肌肉萎缩。分餐喂养可能会有所帮助。
+应避免体重过度增加，肥胖患者应努力逐步减少体脂。
+营养补充应仅限于营养不良的患者，这些患者可以通过这种干预来提高呼吸肌强度和生活质量（1）。
+在COPD患者中，使用食欲刺激剂、同化类固醇、生长激素补充剂及TNF拮抗剂来逆转营养不良、改善功能状态及预后的试验结果令人失望。
+
+【营养参考】
+1.Ferreira IM, Brooks D, White J, Goldstein R.Nutritional supplementation for stable chronic obstructive pulmonary disease.Cochrane Database Syst Rev2012;12:CD000998.Published 2012 Dec 12.doi:10.1002/14651858.CD000998.pub3
+1.Ferreira IM, Brooks D, White J, Goldstein R.Nutritional supplementation for stable chronic obstructive pulmonary disease.Cochrane Database Syst Rev2012;12:CD000998.Published 2012 Dec 12.doi:10.1002/14651858.CD000998.pub3
+
+【稳定期COPD患者的肺康复】
+肺康复治疗作为药物治疗的辅助手段可改善机体功能；许多医院和卫生保健机构提供正规的多学科康复治疗。肺康复包括
+行为干预
+行为干预
+治疗应个体化；对病人及家属进行COPD和药物治疗的宣教，鼓励病人尽可能生活自理。
+康复治疗的收益是改善自理能力、生活质量和运动能力。然而肺康复治疗一般不能改善肺功能。一个精心设计的综合性康复计划，在提供切实改善期望的同时，能帮助重度COPD患者适应其生理限制。 病情严重者需至少3个月的康复治疗才能受益，且需维持治疗。
+运动方案应当是适于在家里、医院或在福利机构进行的。
+因呼吸衰竭长期住院或久不活动导致的骨骼肌失用可通过逐渐增加锻炼而改善。特殊的呼吸肌肉训练不如全身有氧运动有效。
+典型的锻炼方案始于在活动平板上缓慢步行或在测力计上无负荷踏车数分钟。持续时间和锻炼负荷在4~6周内逐渐增加，直到病人能持续锻炼20~30分钟，不因气急而停止。极重度COPD病人通常能达到以1~2 mph的速度步行30分钟(1.6-3.2 km/h)。需每周维持进行3~4次锻炼，以保持适应性。在锻炼时监测氧饱和度，必要时吸氧。
+上肢抗阻训练有助于患者完成日常任务（如洗澡、穿衣、打扫房间）。 通常运动的好处是适度增加下肢力量、耐力和最大耗氧量。
+必须教会患者在日常活动中节约能量和安排活动节奏的方法。也要考虑这些病人性功能的障碍，建议他们在性生活中采用节约能量的方法。
+还可以使用具有多种访问和监督类型的远程医疗模式来提供肺部康复。总体而言，这些项目会带来类似的锻炼能力改善，但在改善生活质量和呼吸困难方面却没有得到充分证实。由于难以获得正式的面对面肺康复计划，建议向患者提供虚拟康复，作为面对面计划的替代方案（1）。
+
+【肺康复参考】
+1.Rochester CL, Alison JA, Carlin B, et al.Pulmonary Rehabilitation for Adults with Chronic Respiratory Disease: An Official American Thoracic Society Clinical Practice Guideline.Am J Respir Crit Care Med2023;208(4):e7-e26.doi:10.1164/rccm.202306-1066ST
+1.Rochester CL, Alison JA, Carlin B, et al.Pulmonary Rehabilitation for Adults with Chronic Respiratory Disease: An Official American Thoracic Society Clinical Practice Guideline.Am J Respir Crit Care Med2023;208(4):e7-e26.doi:10.1164/rccm.202306-1066ST
+
+【稳定期COPD患者的手术】
+重度COPD的外科治疗选择包括
+
+【肺减容手术】
+肺减容手术包括切除无功能的肺气肿区域。该手术能改善重症、以上肺肺气肿为主、且在肺康复后基线运动能力较低的患者的肺功能、运动耐量和生活质量（1）。
+对动脉血气测量值的影响各异且不可预测，但大多数术前需要氧疗的患者术后仍需要氧疗。 与肺移植相比，改善较少。目前认为改善的机制是肺弹性回缩力增加、膈肌功能增强。
+最适合进行肺减容手术的患者是那些FEV1（充分吸气后第一秒内用力呼出的气体容积）占预计值20%至40%、一氧化碳弥散量（DLCO）>预计值20%、运动能力显著受损、CT显示肺部病变不均以上叶为主、动脉血二氧化碳分压（PaCO2）<50毫米汞柱、且无严重肺动脉高压和冠状动脉疾病的患者。
+极少数病人有巨大肺大疱，压迫有功能的肺组织。这些病人可通过手术切除大疱继而减轻症状，改善肺功能。通常，对大疱累及一侧胸腔1/3以上、FEV1占正常预计值1/2的病人，切除手术最有效。肺功能的改善与受大疱压迫的正常或轻微病变肺组织的量有关。连续胸部X线和CT最有助于判断病人的肺功能状态是由大疱压迫正常肺组织抑或广泛的肺气肿引起。DLCO显著降低（<40%预计值）表明肺气肿分布广泛，提示切除手术效果较差。
+
+【支气管内瓣膜置入术】
+经支气管镜植入的支气管内瓣膜可用于部分患者，这些患者的目标肺气肿区域无侧支通气，瓣膜植入可导致该区域肺不张。此项技术仅在部分医疗中心开展（2）。对于某些患者，放置支气管内瓣膜是肺减容手术的一种替代方案。手术肺减容通常是双侧的，而支气管镜手术通常是单侧的，因此改善较少。
+肺移植可以是单肺或双肺移植。单肺移植的围手术期并发症往往较低，但一些证据表明，双肺移植能够延长生存时间。移植的候选患者为年龄<65岁、支气管舒张剂治疗后FEV1<预计值25%或伴有重度肺动脉高压的患者。肺移植不一定能延长生存时间，因此移植的主要目的是提高生活质量。需要终生免疫抑制治疗，伴随机会性感染的危险。
+
+【手术参考文献】
+1.Fishman A, Martinez F, Naunheim K, et al.A randomized trial comparing lung-volume-reduction surgery with medical therapy for severe emphysema.N Engl J Med2003;348(21):2059-2073.doi:10.1056/NEJMoa030287
+1.Fishman A, Martinez F, Naunheim K, et al.A randomized trial comparing lung-volume-reduction surgery with medical therapy for severe emphysema.N Engl J Med2003;348(21):2059-2073.doi:10.1056/NEJMoa030287
+2.Criner GJ, Sue R, Wright S, et al.A Multicenter Randomized Controlled Trial of Zephyr Endobronchial Valve Treatment in Heterogeneous Emphysema (LIBERATE).Am J Respir Crit Care Med2018;198(9):1151-1164.doi:10.1164/rccm.201803-0590OC
+2.Criner GJ, Sue R, Wright S, et al.A Multicenter Randomized Controlled Trial of Zephyr Endobronchial Valve Treatment in Heterogeneous Emphysema (LIBERATE).Am J Respir Crit Care Med2018;198(9):1151-1164.doi:10.1164/rccm.201803-0590OC
+快速缓解慢性阻塞性肺疾病症状的药物主要是短效beta肾上腺素受体激动剂，而减少急性加重的药物有吸入型糖皮质激素、长效beta肾上腺素受体激动剂、长效抗胆碱能药物，或联合使用。
+快速缓解慢性阻塞性肺疾病症状的药物主要是短效beta肾上腺素受体激动剂，而减少急性加重的药物有吸入型糖皮质激素、长效beta肾上腺素受体激动剂、长效抗胆碱能药物，或联合使用。
+采用多种干预措施（如行为矫正、支持群体、尼古丁替代、药物治疗）来鼓励戒烟。
+采用多种干预措施（如行为矫正、支持群体、尼古丁替代、药物治疗）来鼓励戒烟。
+支持治疗的优化使用（如营养，肺康复治疗，自主锻炼）。
+支持治疗的优化使用（如营养，肺康复治疗，自主锻炼）。

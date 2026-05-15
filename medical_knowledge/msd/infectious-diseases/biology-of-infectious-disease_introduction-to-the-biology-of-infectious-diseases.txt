@@ -1,0 +1,10 @@
+标题：感染性疾病生物学导论
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/biology-of-infectious-disease/introduction-to-the-biology-of-infectious-diseases
+============================================================
+
+健康人与微生物菌群保持平衡，这些菌群有助于保护宿主免受病原体（通常定义为具有致病能力的微生物）的侵入。微生物菌群主要由细菌和真菌组成，包括常驻菌群和临时菌群。前者持续存在、受破坏后能自我修复，后者在宿主体内仅定植数小时到数周，不会长期存在。常驻菌群偶尔致病，特别是在防御机制受损的情况下 (1)。
+亲嗜性，亦即对特定组织的亲和力，决定了微生物定植的部位。正常菌群的生存受亲嗜性和许多其他因素的影响（如：饮食、卫生状况、卫生条件、空气污染）。例如，大量摄入乳制品的人肠道内常有乳酸杆菌，而流感嗜血杆菌则定植于COPD（慢性阻塞性肺疾病）患者的支气管树中。其结果是，不同的身体部位含有不同的微生物群落，形成在微生物组成和功能上各异的微生物组。
+
+【参考文献】
+1.Ogunrinola GA, Oyewale JO, Oshamika OO, Olasehinde GI.The Human Microbiome and Its Impacts on Health.Int J Microbiol.2020;2020:8045646.Published 2020 Jun 12.doi:10.1155/2020/8045646
+1.Ogunrinola GA, Oyewale JO, Oshamika OO, Olasehinde GI.The Human Microbiome and Its Impacts on Health.Int J Microbiol.2020;2020:8045646.Published 2020 Jun 12.doi:10.1155/2020/8045646

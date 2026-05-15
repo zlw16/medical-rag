@@ -1,0 +1,52 @@
+标题：疾病焦虑障碍
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/somatic-symptom-and-related-disorders/illness-anxiety-disorder
+============================================================
+
+（参见躯体化概述。）
+疾病焦虑症（以前称为疑病症或疑病，这一术语因其贬义而不使用）最常见于成年早期，在男性和女性中似乎发病率相同 (1)。
+患者的恐惧可能源于对非病理性躯体症状或正常身体功能的误解（例如，肠鸣音、腹部胀气和痉挛性不适、感知到心跳、出汗）。
+
+【参考文献】
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, 2022, pp 358.
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, 2022, pp 358.
+
+【疾病焦虑障碍的症状和体征】
+患有疾病焦虑障碍的患者过于专注于他们正在或可能会生病的想法，以至于他们对疾病的焦虑损害其社会和职业功能，或造成明显的痛苦。患者可能有或没有躯体症状，但如果有，他们更关注症状可能带来的影响，而非症状本身（例如，他们的胃部不适本身带来的痛苦，不如其可能是癌症的担忧更甚）。
+有些患者反复进行自我检查（比如，用镜子照看喉咙，检查他们的皮损）。他们很容易对新出现的躯体感觉惊慌。有些患者频繁就医（求医型）另外一些则很少求医（回避求医型）。
+一些患者呈现出慢性波动性病程，一些患者则症状稳定持续。
+
+【疾病焦虑障碍的诊断】
+《精神障碍诊断与统计手册》第5版文本修订版（DSM-5-TR）标准
+《精神障碍诊断与统计手册》第5版文本修订版（DSM-5-TR）标准
+有时需要进行一般医学评估以排除其他病因
+有时需要进行一般医学评估以排除其他病因
+疾病焦虑症的诊断基于DSM-5-TR中的标准，包括以下内容（1）：
+患者过度关注自己患有或可能患上严重疾病
+患者过度关注自己患有或可能患上严重疾病
+患者没有或只有轻微的躯体症状。
+患者没有或只有轻微的躯体症状。
+患者对健康非常担忧，并且容易对个人健康问题产生警觉。
+患者对健康非常担忧，并且容易对个人健康问题产生警觉。
+患者反复检查健康状况或不适应地逃避医生预约和医院。
+患者反复检查健康状况或不适应地逃避医生预约和医院。
+患者对疾病的过度关注持续≥6个月，尽管在此期间所恐惧的具体疾病可能发生变化。
+患者对疾病的过度关注持续≥6个月，尽管在此期间所恐惧的具体疾病可能发生变化。
+抑郁症或其他精神疾病并不能更好地解释这些症状。
+抑郁症或其他精神疾病并不能更好地解释这些症状。
+有显著躯体症状且主要关注症状本身的患者，被诊断为躯体症状障碍。
+
+【诊断参考文献】
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, 2022, pp 357-360.
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, 2022, pp 357-360.
+
+【疾病焦虑障碍的治疗】
+与临床医生建立支持性、信任的关系
+与临床医生建立支持性、信任的关系
+有时 5 - 羟色胺再摄取抑制剂或认知行为疗法有效
+有时 5 - 羟色胺再摄取抑制剂或认知行为疗法有效
+与态度关切的、给予反复保证的医生之间的信任关系还是对患者很有益的。如果症状还是没有得到缓解，患者可能需要被转诊到精神卫生专业机构，同时继续在原来的医生那里治疗。
+5 - 羟色胺再摄取抑制剂治疗可能有帮助，认知行为疗法也可能有帮助 (1)。
+
+【治疗参考文献】
+1.Scarella TM, Boland RJ, Barsky AJ: Illness anxiety disorder: Psychopathology, epidemiology, clinical characteristics, and treatment.Psychosom Med81(5):398-407, 2019.doi: 10.1097/PSY.0000000000000691
+1.Scarella TM, Boland RJ, Barsky AJ: Illness anxiety disorder: Psychopathology, epidemiology, clinical characteristics, and treatment.Psychosom Med81(5):398-407, 2019.doi: 10.1097/PSY.0000000000000691

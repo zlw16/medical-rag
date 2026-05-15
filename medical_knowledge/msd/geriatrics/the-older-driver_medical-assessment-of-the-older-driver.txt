@@ -1,0 +1,62 @@
+标题：老年司机的医学评估
+来源：https://www.msdmanuals.cn/professional/geriatrics/the-older-driver/medical-assessment-of-the-older-driver
+============================================================
+
+临床医生应参考国家关于老年驾驶员评估和管理的指南及资源（参见更多信息和老年驾驶员概述）。
+
+【治疗药物和驾驶】
+老年人可能有多种合并症，并且可能正在服用多种药物。大量药物，尤其是那些影响中枢神经系统的药物（例如，引起意识模糊、镇静的药物），可能会损害驾驶能力。在道路测试和驾驶模拟器中，许多已被证明会损害驾驶性能，并且与机动车碰撞 (MVC) 风险的增加有关。尽管存在这些风险，许多这些药物不应突然停止，需要逐渐减量。在停药之前，从处方医生或药剂师那里获得意见很重要。
+一些已经证明会增加驾驶风险的药物包括
+抗组胺药、苯二氮卓类药物、阿片类药物、抗胆碱能药、催眠药、抗高血压药和三环类抗抑郁药，可引起困倦、低血压或心律失常
+抗组胺药、苯二氮卓类药物、阿片类药物、抗胆碱能药、催眠药、抗高血压药和三环类抗抑郁药，可引起困倦、低血压或心律失常
+抗帕金森病多巴胺激动剂（普拉克索、罗匹尼罗），偶尔会引起急性睡眠发作
+抗帕金森病多巴胺激动剂（普拉克索、罗匹尼罗），偶尔会引起急性睡眠发作
+止吐药（如丙氯拉嗪）和肌肉松弛剂（如环苯扎林），可改变感觉
+止吐药（如丙氯拉嗪）和肌肉松弛剂（如环苯扎林），可改变感觉
+抗癫痫药，可引起镇静（可能需要考虑替代品）
+抗癫痫药，可引起镇静（可能需要考虑替代品）
+开始使用可能影响视觉、身体或认知功能的新药物时，患者应避免驾驶数日（具体时长取决于达到稳态所需的时间），以确保不会发生不良反应。当必须使用可能增加驾驶风险的药物类别中的药物时，应为患者选择该类别中最不可能导致功能损害的药物，并以最低有效剂量使用。
+
+【跌倒和驾驶】
+跌倒和车祸有共同的致病因素（如视力、肌肉力量、认知能力受损）。跌倒史提示老年人发生机动车碰撞的风险增加，应进一步评估可能损害活动能力和驾驶能力的内在因素（如视觉、认知和运动技能）。
+(见老年司机的功能评价。)
+
+【心脏病与驾驶】
+心脏疾病的存在可能会增加驾驶风险，特别是可能损害意识或导致晕厥的疾病（如心律失常）。接受过心脏手术（例如冠状动脉支架或旁路移植术、内部除颤器/起搏器放置）或某些急性事件（例如不稳定心绞痛、心肌梗塞）的患者在恢复期间需要暂时避免驾驶；时间长短取决于手术和患者的临床状况。心脏疾病可导致慢性认知障碍或急性意识障碍（例如头晕、晕厥、嗜睡）。
+严重心力衰竭（如心功能IV级，静息或驾驶时呼吸困难）的患者应限制驾驶直至他们通过上路测试评估并且要得到医生的批准。
+
+【神经系统疾病与驾驶】
+神经系统疾病也增加驾驶风险。特定的疾病包括
+卒中或短暂性脑缺血发作(TIA)：单次TIA患者应等待1个月再恢复驾驶；反复发作TIA或近期卒中患者需至少3至6个月无事件发生，并经神经科医生或初级保健医生评估许可后方可恢复驾驶。应行体格检查评估由于卒中可能影响驾驶能力的残留残疾情况。 考虑将那些有持续视觉、运动或认知缺陷的患者转诊至职业治疗师的驾驶评估诊所。
+卒中或短暂性脑缺血发作(TIA)：单次TIA患者应等待1个月再恢复驾驶；反复发作TIA或近期卒中患者需至少3至6个月无事件发生，并经神经科医生或初级保健医生评估许可后方可恢复驾驶。应行体格检查评估由于卒中可能影响驾驶能力的残留残疾情况。 考虑将那些有持续视觉、运动或认知缺陷的患者转诊至职业治疗师的驾驶评估诊所。
+癫痫：关于癫痫司机的驾驶规则每个州不一样，但大部分州规定在恢复驾驶之前有无癫痫发作间期（通常为6个月）。抗癫痫药物可以充分控制大约 70% 患者的癫痫发作，但当停用这些药物或不依从治疗期间可能会出现复发。应寻求有关癫痫患者驾驶执照资格的州特定信息（参见癫痫基金会的State Driving Laws Database），以及神经科医生的建议。
+癫痫：关于癫痫司机的驾驶规则每个州不一样，但大部分州规定在恢复驾驶之前有无癫痫发作间期（通常为6个月）。抗癫痫药物可以充分控制大约 70% 患者的癫痫发作，但当停用这些药物或不依从治疗期间可能会出现复发。应寻求有关癫痫患者驾驶执照资格的州特定信息（参见癫痫基金会的State Driving Laws Database），以及神经科医生的建议。
+阿尔茨海默病或进行性痴呆最终会损害关键的功能，包括驾驶所需的功能。监测患者是否出现新的驾驶错误，这些错误可归因于认知变化，或识别出心理测量测试中的显著损伤，可能有助于确定是否需要进行道路评估和/或可能停止驾驶。美国神经病学学会有关于驾驶和痴呆的实践参数（1)。目前，有几个州要求医生向州机动车辆管理局报告严重的认知障碍 (2)。
+许多其他神经系统疾病（例如，帕金森病、多发性硬化症）会导致功能障碍，应通过功能评估进行监测，并在适当时进行道路驾驶评估。
+
+【糖尿病与驾驶】
+糖尿病由于患者在驾驶时可能会出现低血糖，因此存在风险；然而，控制良好的糖尿病并未显示会增加 车祸风险（3）。近期发生过低血糖发作并伴有意识减退的患者，在3个月内或直至导致发作的因素（如饮食、活动、胰岛素或降血糖药物的使用时间和剂量）得到评估和管理之前，不应驾车。由糖尿病引起的神经病变、视网膜病变或两者共同导致的四肢感觉变化也会损害驾驶能力。
+严重的高血糖症与认知障碍有关，患者在血糖和症状得到更好控制之前不应开车。
+
+【睡眠障碍与驾驶】
+睡眠障碍，尤其是阻塞性睡眠呼吸暂停综合征，可能导致嗜睡从而引发机动车碰撞事故，患者在接受充分治疗前应避免驾驶。
+使用持续正压呼吸机（CPAP）已被证明可以提高驾驶模拟器中的表现，并减少机动车碰撞事故（MVCs）（4）。
+
+【参考文献】
+1.Iverson DJ, Gronseth GS, Reger MA, et al.Practice parameter: Evaluation and management of driving and dementia: Report of the Quality Standards Subcommittee of the American Academy of Neurology.Neurology.2010;74(16):1316–1324.doi:10.1212/WNL.0b013e3181da3b0f
+1.Iverson DJ, Gronseth GS, Reger MA, et al.Practice parameter: Evaluation and management of driving and dementia: Report of the Quality Standards Subcommittee of the American Academy of Neurology.Neurology.2010;74(16):1316–1324.doi:10.1212/WNL.0b013e3181da3b0f
+2.Tran EM, Lee JE.Reporting Requirements, Confidentiality, and Legal Immunity for Physicians Who Report Medically Impaired Drivers.JAMA Netw Open.2024;7(1):e2350495.Published 2024 Jan 2.doi:10.1001/jamanetworkopen.2023.50495
+2.Tran EM, Lee JE.Reporting Requirements, Confidentiality, and Legal Immunity for Physicians Who Report Medically Impaired Drivers.JAMA Netw Open.2024;7(1):e2350495.Published 2024 Jan 2.doi:10.1001/jamanetworkopen.2023.50495
+3.Dow J, Boucher L, Carr D, et al.Does diabetes affect the risk of involvement in a motor vehicle crash?J Transport Health.2022;27(101509).ISSN 2214-1405.doi:10.1016/j.jth.2022.101509
+3.Dow J, Boucher L, Carr D, et al.Does diabetes affect the risk of involvement in a motor vehicle crash?J Transport Health.2022;27(101509).ISSN 2214-1405.doi:10.1016/j.jth.2022.101509
+4.Orth M, Duchna HW, Leidag M, et al.Driving simulator and neuropsychological [corrected] testing in OSAS before and under CPAP therapy [published correction appears inEur Respir J. 2006 Jan;27(1):242].Eur Respir J.2005;26(5):898-903.doi:10.1183/09031936.05.00054704
+4.Orth M, Duchna HW, Leidag M, et al.Driving simulator and neuropsychological [corrected] testing in OSAS before and under CPAP therapy [published correction appears inEur Respir J. 2006 Jan;27(1):242].Eur Respir J.2005;26(5):898-903.doi:10.1183/09031936.05.00054704
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+National Highway Traffic Safety Administration:Clinician's Guide to Assessing and Counseling Older Drivers, 4th edition
+National Highway Traffic Safety Administration:Clinician's Guide to Assessing and Counseling Older Drivers, 4th edition
+Austroads:Assessing Fitness to Drive: An Australian resource providing medical standards for driver licensing
+Austroads:Assessing Fitness to Drive: An Australian resource providing medical standards for driver licensing
+Epilepsy Foundation:State Driving Laws Database: A United States resource providing information for drivers with epilepsy
+Epilepsy Foundation:State Driving Laws Database: A United States resource providing information for drivers with epilepsy

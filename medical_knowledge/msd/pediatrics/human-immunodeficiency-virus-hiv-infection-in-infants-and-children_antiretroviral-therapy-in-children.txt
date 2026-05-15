@@ -1,0 +1,66 @@
+标题：儿童抗逆转录病毒疗法
+来源：https://www.msdmanuals.cn/professional/pediatrics/human-immunodeficiency-virus-hiv-infection-in-infants-and-children/antiretroviral-therapy-in-children
+============================================================
+
+在美国有超过40种抗逆转录病毒（ARV）药物，包括多药联合产品，每种药物可能与其他ARV药物或常用抗生素、抗惊厥药和镇静剂发生不良反应和药物相互作用。新的抗逆转录病毒药物、免疫调节剂和疫苗均在评估中。
+临床和实验室监测对于识别药物毒性和治疗失败非常重要。
+由于专家对治疗策略的意见变化很快，强烈建议咨询专家。含有≥3种药物的固定剂量复方片剂现广泛用于大龄儿童和青少年，以简化治疗方案（称为单片方案：每日一片）并提高依从性；对于幼儿，此类复方制剂在美国不可用或难以使用。
+儿童的标准治疗与成人相似：联合抗逆转录病毒治疗可最大限度地抑制病毒，并尽量减少对耐药菌株的选择。优选方案因年龄而异，通常包含2种核苷/核苷酸逆转录酶抑制剂（NRTI）加整合酶链转移抑制剂（INSTI）或蛋白酶抑制剂（PI），少数情况下加非核苷逆转录酶抑制剂（NNRTI）（见表格儿童HIV感染初始治疗选用的抗逆转录病毒（ARV）方案）。在接受过治疗的儿童和青少年中使用 ARV 药物很复杂；表中只包括了为未接受过治疗的儿童和青少年选定的初始选择。
+有关ARV的信息，包括给药、固定剂量组合产品、不良反应和药物相互作用，请参阅不断更新的 HIV 感染儿童抗逆转录病毒治疗和医疗管理专家组关于在儿童艾滋病毒感染中使用抗逆转录病毒剂的指南并参阅附录A：儿童抗逆转录药物信息。另请参见该小组的成人及青少年HIV感染者抗逆转录病毒药物使用指南。
+有用的治疗信息也可在纽约州卫生部艾滋病研究所和UNAIDS获得。有关抗逆转录病毒治疗的咨询，特别是有关艾滋病毒接触后预防和预防艾滋病毒母婴传播的问题，也可通过国家临床医生咨询中心提供咨询。
+
+【儿童HIV感染可选择的初始抗逆转录病毒（ARV）方案*】
+儿童HIV感染可选择的初始抗逆转录病毒（ARV）方案*
+年龄组（岁）
+NRTI 主干组件（使用 2）
+NNRTI、PI 或 INSTI 组分（用法1）
+出生<14天的婴儿
+Zidovudine加lamivudine（或emtricitabine）
+奈韦拉平或
+体重 ≥ 2 kg：拉替拉韦
+儿童≥14天至<4周
+Zidovudine加lamivudine（或emtricitabine）
+Lopinavir/ritonavir或
+体重 ≥ 2 kg：拉替拉韦
+儿童 ≥ 4周，体重 > 3 kg
+Abacavir（或zidovudine）加lamivudine（或emtricitabine）
+多替拉韦
+体重超过25 公斤：阿巴卡韦/拉米夫定/多替拉韦的固定剂量片剂可作为完整的每日一次方案提供。
+儿童≥2岁，体重≥14公斤
+恩曲他滨加替诺福韦艾拉酚胺
+比卡格韦
+恩曲他滨/替诺福韦-阿拉芬酰胺/比克替拉韦固定剂量片剂（有两种给药强度）可作为完整的每日一次方案提供。
+青少年 > 12 岁，体重 ≥ 25 kg
+恩曲他滨加替诺福韦艾拉酚胺
+比克替拉韦
+恩曲他滨/替诺福韦艾拉酚胺/比克替拉韦的固定剂量片剂可作为完整的每日一次方案提供。
+*每个方案的设计包含2种NRTI 抗逆转录病毒（ARV）药物加上NNRTI、PI或INSTI成分。目前存在几种替代的ARV方案；建议咨询儿科艾滋病毒药物专家。有关不良反应、其他剂量（尤其是固定剂量组合产品的信息）和药物相互作用的信息，请参阅不断更新的艾滋病毒儿童抗逆转录病毒治疗和医疗管理小组儿童感染艾滋病毒使用抗逆转录病毒药物指南。Accessed 02/08/2023.
+INSTI = 整合酶链转移抑制剂；NNRTI = 非核苷逆转录酶抑制剂；NRTI = 核苷/核苷酸逆转录酶抑制剂；PI = 蛋白酶抑制剂。
+*每个方案的设计包含2种NRTI 抗逆转录病毒（ARV）药物加上NNRTI、PI或INSTI成分。目前存在几种替代的ARV方案；建议咨询儿科艾滋病毒药物专家。有关不良反应、其他剂量（尤其是固定剂量组合产品的信息）和药物相互作用的信息，请参阅不断更新的艾滋病毒儿童抗逆转录病毒治疗和医疗管理小组儿童感染艾滋病毒使用抗逆转录病毒药物指南。Accessed 02/08/2023.
+INSTI = 整合酶链转移抑制剂；NNRTI = 非核苷逆转录酶抑制剂；NRTI = 核苷/核苷酸逆转录酶抑制剂；PI = 蛋白酶抑制剂。
+(参见婴幼儿HIV感染。）
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+有关药物治疗的信息，包括不良反应、剂量（尤其是关于固定剂量组合产品的信息）、药物相互作用、教育材料和相关主题的快速链接，请参阅以下美国政府网站：
+ClinicalInfo.HIV.gov:Guidelines for the Use of Antiretroviral Agents in Pediatric HIV Infection
+ClinicalInfo.HIV.gov:Guidelines for the Use of Antiretroviral Agents in Pediatric HIV Infection
+ClinicalInfo.HIV.gov:Recommendations for the Use of Antiretroviral Drugs During Pregnancy and Interventions to Reduce Perinatal HIV Transmission in the United States
+ClinicalInfo.HIV.gov:Recommendations for the Use of Antiretroviral Drugs During Pregnancy and Interventions to Reduce Perinatal HIV Transmission in the United States
+ClinicalInfo.HIV.gov:Maternal HIV Testing and Identification of Perinatal HIV Exposure
+ClinicalInfo.HIV.gov:Maternal HIV Testing and Identification of Perinatal HIV Exposure
+ClinicalInfo.HIV.gov:Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents with HIV
+ClinicalInfo.HIV.gov:Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents with HIV
+ClinicalInfo.HIV.gov:Appendix A: Pediatric Antiretroviral Drug Information
+ClinicalInfo.HIV.gov:Appendix A: Pediatric Antiretroviral Drug Information
+Centers for Disease Control and Prevention (CDC):Pre-Exposure Prophylaxis (PrEP)
+Centers for Disease Control and Prevention (CDC):Pre-Exposure Prophylaxis (PrEP)
+以下资源提供了有关 HIV/AIDS 的其他各种预防、治疗和教育方面的信息：
+纽约州卫生部艾滋病研究所HIV临床指南项目：传播实用的、基于证据的临床指南，促进纽约生活着或有感染HIV及某些其他疾病风险人群的优质医疗服务。
+纽约州卫生部艾滋病研究所HIV临床指南项目：传播实用的、基于证据的临床指南，促进纽约生活着或有感染HIV及某些其他疾病风险人群的优质医疗服务。
+UNAIDS:关于该组织如何指导、倡导、协调并提供技术支持的信息，连接政府、私营部门及社区领导层以提供救命的HIV服务。
+UNAIDS:关于该组织如何指导、倡导、协调并提供技术支持的信息，连接政府、私营部门及社区领导层以提供救命的HIV服务。
+国家临床医生咨询中心：最新的HIV/AIDS指南和HIV/AIDS治疗、预防和暴露的关键治疗方案
+国家临床医生咨询中心：最新的HIV/AIDS指南和HIV/AIDS治疗、预防和暴露的关键治疗方案
+围产期HIV咨询和转诊服务热线1-888-HIV-8765（1-888-448-8765）：免费24小时临床咨询和关于治疗HIV感染孕妇及其婴儿的建议
+围产期HIV咨询和转诊服务热线1-888-HIV-8765（1-888-448-8765）：免费24小时临床咨询和关于治疗HIV感染孕妇及其婴儿的建议

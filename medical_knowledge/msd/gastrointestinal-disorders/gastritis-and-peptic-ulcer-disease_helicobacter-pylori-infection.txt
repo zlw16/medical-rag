@@ -1,0 +1,112 @@
+标题：幽门螺杆菌感染
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/gastritis-and-peptic-ulcer-disease/helicobacter-pylori-infection
+============================================================
+
+（参见胃酸分泌概述和胃炎概述）。
+H. pylori（幽门螺旋杆菌）是螺旋形革兰阴性菌，已适应在酸性环境中生存。在低收入和中等收入国家，幽门螺杆菌常引起慢性感染，感染多发生于儿童期。在北美，幽门螺杆菌感染患病率的估计范围在30%到40%之间（1）。儿童感染的发生率较低，但会随着年龄的增长而增加。黑人、西班牙裔和亚洲人群中感染率最高。
+已从粪便、唾液、牙垢中培养获得该病原，提示口-口或粪-口传播。其感染在家庭或其他群居人群中有聚集倾向。护士和胃肠科医师属于高危人群，因为细菌可通过消毒不严格的内镜传播。
+
+【参考文献】
+1.Chey WD, Howden CW, Moss SF, et al: ACG Clinical Guideline: Treatment of Helicobacter pylori Infection.Am J Gastroenterol119(9):1730–1753, 2024.doi: 10.14309/ajg.0000000000002968
+1.Chey WD, Howden CW, Moss SF, et al: ACG Clinical Guideline: Treatment of Helicobacter pylori Infection.Am J Gastroenterol119(9):1730–1753, 2024.doi: 10.14309/ajg.0000000000002968
+
+【幽门螺杆菌感染的病理生理学】
+幽门螺旋杆菌感染的影响因胃内感染部位而异。
+以胃窦部为主的感染使胃泌素分泌增加，其原因可能是损害了局部生长抑素的分泌。其导致的高胃酸分泌加速了幽门前和十二指肠溃疡的形成。
+以胃体为主的感染可引起萎缩性胃炎，并降低胃酸分泌，其原因可能是局部白介素-1β生成增加。以胃体感染为主的患者更易发生胃溃疡和胃腺癌。
+部分患者有胃窦和胃体混合感染，其临床结果多变。很多幽门螺旋杆菌感染患者无明显临床症状。
+幽门螺旋杆菌产生的氨使其能在胃酸性环境中生存并侵犯黏膜屏障。大约10%的感染幽门螺杆菌的人会发展成消化性溃疡，而未感染幽门螺杆菌的人中只有1%会如此（1）。幽门螺杆菌产生的细胞毒素与黏液溶解酶（如细菌蛋白酶、脂肪酶）可能参与黏膜损伤及后续溃疡形成。
+感染者更容易患胃癌（2、3）。幽门螺杆菌是1类致癌物（对人类具有致癌性）（4）。H. pylori（幽门螺旋杆菌）感染与胃体、胃窦的肠型腺癌相关，但与胃贲门癌无关。其他相关肿瘤包括胃淋巴瘤和黏膜相关淋巴组织（MALT）淋巴瘤，一种单克隆限制性B细胞肿瘤。
+
+【病理生理学参考文献】
+1.Vakil N: Peptic Ulcer Disease: A Review.JAMA332(21):1832–1842, 2024.doi:10.1001/jama.2024.19094
+1.Vakil N: Peptic Ulcer Disease: A Review.JAMA332(21):1832–1842, 2024.doi:10.1001/jama.2024.19094
+2.Huang JQ, Sridhar S, Chen Y, Hunt RH: Meta-analysis of the relationship betweenHelicobacter pyloriseropositivity and gastric cancer.Gastroenterology114(6):1169–1179, 1998.doi:10.1016/s0016-5085(98)70422-6
+2.Huang JQ, Sridhar S, Chen Y, Hunt RH: Meta-analysis of the relationship betweenHelicobacter pyloriseropositivity and gastric cancer.Gastroenterology114(6):1169–1179, 1998.doi:10.1016/s0016-5085(98)70422-6
+3.Eslick GD, Lim LL, Byles JE, Xia HH, Talley NJ: Association ofHelicobacter pyloriinfection with gastric carcinoma: a meta-analysis.Am J Gastroenterol94(9):2373–2379, 1999.doi:10.1111/j.1572-0241.1999.01360.x
+3.Eslick GD, Lim LL, Byles JE, Xia HH, Talley NJ: Association ofHelicobacter pyloriinfection with gastric carcinoma: a meta-analysis.Am J Gastroenterol94(9):2373–2379, 1999.doi:10.1111/j.1572-0241.1999.01360.x
+4.American Cancer Society: Known and probable human carcinogens.2024.Accessed 11/12/2024.
+4.American Cancer Society: Known and probable human carcinogens.2024.Accessed 11/12/2024.
+
+【幽门螺杆菌感染的诊断】
+尿素呼气试验和粪便抗原检测
+尿素呼气试验和粪便抗原检测
+不提倡对无症状者进行筛查。主要在评价消化性溃疡和胃炎时进行检查。治疗后检查主要为确认幽门螺杆菌是否被根除。
+
+【非侵入性检查】
+幽门螺杆菌抗体的实验室和诊所血清学检测以前被认为是初步确诊幽门螺杆菌感染的首选无创检测方法。 然而，随着感染率的下降，血清学检测的假阳性率显著增加，使得这些检测在大多数国家和地区都不可靠。因此，尿素呼气试验与粪便抗原试验是首选的初始诊断方法（1）。成功治疗后抗体阳性的结果可长达3年，且治疗后6~12个月内抗体定量检测水平并不显著下降，故血清学检查不用于治疗效果的评价。
+尿素呼气试验为口服 13C-或14C-标记的尿素。在幽门螺杆菌感染的患者体内，该病菌会代谢尿素并释放标记二氧化碳(CO2)，这种气体被呼出，可在摄入尿素20-30分钟后采集的呼气样本中进行定量检测。敏感性和特异性很高。尿素呼气试验非常适合用于确认治疗后是否已根除该微生物。但若近期用过抗生素或合用质子泵抑制剂则可出现假阴性，因此随访至少在抗生素停用≥4周和质子泵抑制剂停用1周后进行。组胺-2受体拮抗剂不影响检测结果。
+粪便抗原检测的敏感性与特异性与尿素呼气试验相近（尤其是初始诊断时）；目前尚无基于诊室的粪便检测方法。在美国，有针对幽门螺杆菌抗菌药物耐药性的分子检测。
+
+【侵入性检查】
+通过胃镜可获得黏膜活检标本，然后行快速尿素酶试验（RUT）或组织学染色。由于细菌培养难度高，故临床应用受限制。单纯诊断H. pylori（幽门螺杆菌）感染不推荐采用内镜；除非有其他内镜指征，否则选用非侵入性方法。
+快速尿素酶试验（RUT）是组织样本的首选诊断方法 —— 活检样本中的细菌尿素酶会使特殊培养基发生颜色变化。对于 RUT 结果阴性但临床表现可疑、近期使用过抗生素，或接受过质子泵抑制剂治疗的患者，应行活检样本的组织学染色检查。快速尿素酶试验(RUT)与组织学染色均具有高敏感性和特异性。免疫组化在部分医院系统中常规使用，能提高组织学检查的价值 —— 因为它可检测极少量的病原体。
+
+【诊断参考文献】
+1.Vaira D, Vakil N: Blood, urine, stool, breath, money, andHelicobacter pylori.Gut48(3):287–289, 2001.doi:10.1136/gut.48.3.287
+1.Vaira D, Vakil N: Blood, urine, stool, breath, money, andHelicobacter pylori.Gut48(3):287–289, 2001.doi:10.1136/gut.48.3.287
+
+【治疗幽门螺杆菌感染】
+抗生素（多种方案）加质子泵抑制剂
+抗生素（多种方案）加质子泵抑制剂
+确诊是否治愈：尿素呼气试验，粪便抗原检测或上消化道内镜检查
+确诊是否治愈：尿素呼气试验，粪便抗原检测或上消化道内镜检查
+有并发症者（溃疡和癌症等）需行根除治疗。根除幽门螺杆菌后甚至能治愈部分MALT淋巴瘤（但不能治愈其他与感染相关的癌症）（1）。
+无症状感染的治疗曾有争议，但鉴于幽门螺杆菌的致癌作用，现建议对有胃癌家族史的患者和来自胃癌高发国家的移民进行治疗(1)。
+预防性和治疗性疫苗（即作为感染患者治疗的辅助手段）在人体研究中均未取得成功（2）。
+幽门螺杆菌根除需联合用药，通常是抗生素加抑酸剂(3)。质子泵抑制剂可抑制H. pylori（幽门螺旋杆菌），且胃内pH值提高可增加组织中抗生素浓度及其抗菌效果，创建一个不利于H. pylori（幽门螺旋杆菌）生长的环境。
+四联疗法是最佳的初始治疗方案，适用于克拉霉素耐药率>15%的地区或无法获得微生物耐药数据的患者，该方案在欧洲指南(4)和美国胃肠病学会(ACG)指南(1)中均有推荐。在四联疗法中，给予以下药物治疗14天（5）：
+质子泵抑制剂（兰索拉唑 30 mg 每日2次；奥美拉唑 20 mg 每日2次；泮托拉唑 40 mg 每日2次；雷贝拉唑 20 mg 每日2次；或埃索美拉唑 40 mg 每日1次）
+质子泵抑制剂（兰索拉唑 30 mg 每日2次；奥美拉唑 20 mg 每日2次；泮托拉唑 40 mg 每日2次；雷贝拉唑 20 mg 每日2次；或埃索美拉唑 40 mg 每日1次）
+碱式水杨酸铋 524mg，每日4次
+碱式水杨酸铋 524mg，每日4次
+甲硝唑 250 mg，每日4次
+甲硝唑 250 mg，每日4次
+四环素 500 mg，每日4次
+四环素 500 mg，每日4次
+在已知幽门螺杆菌克拉霉素耐药性<15%的地区，以及既往无大环内酯类药物暴露史的患者，以下口服药物的三联治疗14天仍然是最初的治疗选择（1,4）：
+质子泵抑制剂（兰索拉唑 30 mg 每日2次；奥美拉唑 20 mg 每日2次；泮托拉唑 40 mg 每日2次；雷贝拉唑 20 mg 每日2次；或埃索美拉唑 40 mg 每日1次）
+质子泵抑制剂（兰索拉唑 30 mg 每日2次；奥美拉唑 20 mg 每日2次；泮托拉唑 40 mg 每日2次；雷贝拉唑 20 mg 每日2次；或埃索美拉唑 40 mg 每日1次）
+阿莫西林 1g 每日2次或甲硝唑 250 mg 每日4次
+阿莫西林 1g 每日2次或甲硝唑 250 mg 每日4次
+克拉霉素 500 mg 每日2次
+克拉霉素 500 mg 每日2次
+如果四联疗法失败，欧洲指南建议使用高剂量PPI和阿莫西林进行双联治疗，或使用PPI、阿莫西林和氟喹诺酮进行三联治疗(4)。美国的氟喹诺酮耐药率很高，因此该策略可能不适用于美国。低剂量利福布丁、阿莫西林和PPI的三联疗法是一种替代方案 (6)。对于幽门螺杆菌的多重耐药菌株，使用PPI、利福布丁和阿莫西林的三联疗法似乎有效（7）。另一种方案是沃诺拉赞联合阿莫西林的双重疗法，对幽门螺杆菌克拉霉素耐药菌株的患者有效（8）。
+ACG 指南推荐，如果四联疗法失败，则不使用克拉霉素三联疗法 （1)。
+欧洲指南建议，以质子泵抑制剂（而非钾竞争性酸抑制剂）为抑酸剂的双联或三联疗法，可能优于或不劣于标准三联疗法，但沃诺拉赞的优势尚未在亚洲以外地区得到证实(4,8)。
+合并十二指肠或胃溃疡的感染患者，需继续抑酸治疗至少 4 周。根除效果可在治疗完成≥4 周后，通过尿素呼气试验、粪便抗原检测（9）或上消化道内镜检查来确认。所有接受治疗的患者都可确认根除效果，但有幽门螺杆菌感染严重表现（如出血性溃疡）的患者必须确认。 如果感染没有根除，可能出现再发出血性溃疡。
+如果四联疗法或三联疗法未能根除H. pylori，重复治疗。如果两轮治疗均未成功，一些专家建议行内镜检查，以获取培养物进行药敏试验。对粪便样本进行新一代测序是确定幽门螺杆菌对抗生素耐药性的另一种方法（10）。若铋剂四联疗法失败，临床医生应与患者共同决策，确定是否采用左氧氟沙星三联疗法（联合阿莫西林）、利福布汀三联疗法、其他含铋疗法，或进行耐药检测并根据结果制定个体化治疗方案（11）。
+
+【治疗参考文献】
+1.Chey WD, Howden CW, Moss SF, et al: ACG Clinical Guideline: Treatment of Helicobacter pylori Infection.Am J Gastroenterol119(9):1730–1753, 2024.doi: 10.14309/ajg.0000000000002968
+1.Chey WD, Howden CW, Moss SF, et al: ACG Clinical Guideline: Treatment of Helicobacter pylori Infection.Am J Gastroenterol119(9):1730–1753, 2024.doi: 10.14309/ajg.0000000000002968
+2.Zhang S, Moise L, Moss SF: H. pylori vaccines: why we still don't have any.Hum Vaccin7(11):1153–1157, 2011.doi:10.4161/hv.7.11.17655
+2.Zhang S, Moise L, Moss SF: H. pylori vaccines: why we still don't have any.Hum Vaccin7(11):1153–1157, 2011.doi:10.4161/hv.7.11.17655
+3.Yang JC, Lin CJ, Wang HL, et al: High-dose dual therapy is superior to standard first-line or rescue therapy forHelicobacter pyloriinfection.Clin Gastroenterol Hepatol13(5):895–905.e5, 2015.doi: 10.1016/j.cgh.2014.10.036
+3.Yang JC, Lin CJ, Wang HL, et al: High-dose dual therapy is superior to standard first-line or rescue therapy forHelicobacter pyloriinfection.Clin Gastroenterol Hepatol13(5):895–905.e5, 2015.doi: 10.1016/j.cgh.2014.10.036
+4.Malfertheiner P, Megraud F, Rokkas T, et al: Management ofHelicobacter pyloriinfection: The Maastricht VI/Florence consensus report.Gutgutjnl-2022-327745, 2022.doi: 10.1136/gutjnl-2022-327745
+4.Malfertheiner P, Megraud F, Rokkas T, et al: Management ofHelicobacter pyloriinfection: The Maastricht VI/Florence consensus report.Gutgutjnl-2022-327745, 2022.doi: 10.1136/gutjnl-2022-327745
+5.Fallone CA, Chiba N, van Zanten SV, et al: The Toronto consensus for the treatment ofHelicobacter pyloriinfection in adults.Gastroenterology151(1):51–69, 2016.doi: 10.1053/j.gastro.2016.04.006
+5.Fallone CA, Chiba N, van Zanten SV, et al: The Toronto consensus for the treatment ofHelicobacter pyloriinfection in adults.Gastroenterology151(1):51–69, 2016.doi: 10.1053/j.gastro.2016.04.006
+6.Graham DY, Canaan Y, Maher J, et al:Rifabutin-based triple therapy (RHB-105) forHelicobacter pylorieradication: A double-blind, randomized, controlled trial.Ann Intern Med172(12):795–802, 2020.doi: 10.7326/M19-3734
+6.Graham DY, Canaan Y, Maher J, et al:Rifabutin-based triple therapy (RHB-105) forHelicobacter pylorieradication: A double-blind, randomized, controlled trial.Ann Intern Med172(12):795–802, 2020.doi: 10.7326/M19-3734
+7.Fiorini G, Zullo A, Vakil N, et al:Rifabutintriple therapy is effective in patients with multidrug-resistant strains ofHelicobacter pylori.J Clin Gastroenterol52(2):137–140, 2018.doi: 10.1097/MCG.0000000000000540
+7.Fiorini G, Zullo A, Vakil N, et al:Rifabutintriple therapy is effective in patients with multidrug-resistant strains ofHelicobacter pylori.J Clin Gastroenterol52(2):137–140, 2018.doi: 10.1097/MCG.0000000000000540
+8.Chey WD, Mégraud F, Laine L, et al:Vonoprazantriple and dual therapy forHelicobacter pyloriinfection in the United States and Europe: Randomized clinical trial.Gastroenterology163(3):608–619, 2022.doi: 10.1053/j.gastro.2022.05.055
+8.Chey WD, Mégraud F, Laine L, et al:Vonoprazantriple and dual therapy forHelicobacter pyloriinfection in the United States and Europe: Randomized clinical trial.Gastroenterology163(3):608–619, 2022.doi: 10.1053/j.gastro.2022.05.055
+9.Vaira D, Vakil N, Menegatti M, et al: The stool antigen test for detection ofHelicobacter pyloriafter eradication therapy.Ann Intern Med136(4):280–287, 2002.doi:10.7326/0003-4819-136-4-200202190-00007
+9.Vaira D, Vakil N, Menegatti M, et al: The stool antigen test for detection ofHelicobacter pyloriafter eradication therapy.Ann Intern Med136(4):280–287, 2002.doi:10.7326/0003-4819-136-4-200202190-00007
+10.Moss SF, Dang LP, Chua D, Sobrado J, Zhou Y, Graham DY: Comparable Results ofHelicobacter pyloriAntibiotic Resistance Testing of Stools vs Gastric Biopsies Using Next-Generation Sequencing.Gastroenterology162(7):2095–2097.e2, 2022.doi:10.1053/j.gastro.2022.02.027
+10.Moss SF, Dang LP, Chua D, Sobrado J, Zhou Y, Graham DY: Comparable Results ofHelicobacter pyloriAntibiotic Resistance Testing of Stools vs Gastric Biopsies Using Next-Generation Sequencing.Gastroenterology162(7):2095–2097.e2, 2022.doi:10.1053/j.gastro.2022.02.027
+11.Shah SC, Iyer PG, Moss SF: AGA clinical practice update on the management of refractoryHelicobacter pyloriinfection: Expert review.Gastroenterology160(5):1831–1841, 2021. doi: 10.1053/j.gastro.2020.11.059
+11.Shah SC, Iyer PG, Moss SF: AGA clinical practice update on the management of refractoryHelicobacter pyloriinfection: Expert review.Gastroenterology160(5):1831–1841, 2021. doi: 10.1053/j.gastro.2020.11.059
+幽门螺杆菌是一种革兰氏阴性菌，高度适应酸性环境，常感染胃部；感染率随年龄增长而增加。
+幽门螺杆菌是一种革兰氏阴性菌，高度适应酸性环境，常感染胃部；感染率随年龄增长而增加。
+感染会增加胃、幽门前区及十二指肠溃疡的发病风险，也会升高胃腺癌与淋巴瘤的风险。
+感染会增加胃、幽门前区及十二指肠溃疡的发病风险，也会升高胃腺癌与淋巴瘤的风险。
+初步诊断采用尿素呼气试验或粪便抗原检测；如果因其他原因进行胃镜检查，可采用快速尿素酶试验或活检标本组织学染色。
+初步诊断采用尿素呼气试验或粪便抗原检测；如果因其他原因进行胃镜检查，可采用快速尿素酶试验或活检标本组织学染色。
+出现并发症（如溃疡、癌症）的患者需接受治疗以根除病原体；典型方案包括：在克拉霉素耐药率＞15% 的地区采用四联疗法，或质子泵抑制剂联合 2 种抗生素（如克拉霉素联合阿莫西林或甲硝唑）。
+出现并发症（如溃疡、癌症）的患者需接受治疗以根除病原体；典型方案包括：在克拉霉素耐药率＞15% 的地区采用四联疗法，或质子泵抑制剂联合 2 种抗生素（如克拉霉素联合阿莫西林或甲硝唑）。
+确诊治愈应通过尿素呼气试验、粪便抗原检测或上消化道内镜检查进行确认。
+确诊治愈应通过尿素呼气试验、粪便抗原检测或上消化道内镜检查进行确认。

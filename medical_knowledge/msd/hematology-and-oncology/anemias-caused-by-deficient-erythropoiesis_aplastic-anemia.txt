@@ -1,0 +1,79 @@
+标题：再生障碍性贫血
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/anemias-caused-by-deficient-erythropoiesis/aplastic-anemia
+============================================================
+
+（参见红细胞生成减少概述。)
+“再生障碍性贫血”一词常指与两系或多系造血细胞减少相关的骨髓再生不良性贫血。 相比之下，纯红细胞（RBC）再生障碍专指红系减少。
+
+【再生障碍性贫血的病因】
+真性再生障碍性贫血（最多见于青少年和年轻成人）中约50%是特发性的。公认的原因有
+化学制剂（如苯、无机砷）
+化学制剂（如苯、无机砷）
+药物（如抗肿瘤药、抗生素、非甾体抗炎药、抗癫痫药、乙酰唑胺、金盐、青霉胺、奎纳克林）或毒素
+药物（如抗肿瘤药、抗生素、非甾体抗炎药、抗癫痫药、乙酰唑胺、金盐、青霉胺、奎纳克林）或毒素
+肝炎（肝炎病毒血清阴性）
+肝炎（肝炎病毒血清阴性）
+病毒（Epstein-Barr病毒和巨细胞病毒）
+病毒（Epstein-Barr病毒和巨细胞病毒）
+由于基因突变导致的骨髓衰竭遗传性疾病（例如，范可尼贫血、Shwachman-Diamond 综合征、先天性角化不良）
+由于基因突变导致的骨髓衰竭遗传性疾病（例如，范可尼贫血、Shwachman-Diamond 综合征、先天性角化不良）
+确切的机制尚不清楚，但在大多数获得性病例中，其机制涉及对造血干细胞的免疫攻击。克隆性造血常见，且有发展为骨髓恶性肿瘤的风险。
+
+【再生障碍性贫血的症状和体征】
+再生障碍性贫血的发病通常是隐匿的，通常在接触病毒、药物或毒素(如杀虫剂、苯)数周或数月后发生，但偶尔也可能是急性的。
+在再生障碍性贫血中，贫血可导致虚弱及易疲劳，而严重的血小板减少可引起淤点、瘀斑，牙龈出血，球结膜或其他组织出血。粒细胞缺乏常引起致命性感染。一般不伴有脾大，除非因输血导致含铁血黄素沉积。
+
+【再生障碍性贫血的诊断】
+全血细胞计数及网织红细胞计数
+全血细胞计数及网织红细胞计数
+骨髓检查，包括细胞遗传学（如核型分析、荧光原位杂交[FISH]）和分子检测（如二代测序）
+骨髓检查，包括细胞遗传学（如核型分析、荧光原位杂交[FISH]）和分子检测（如二代测序）
+流式细胞术检测阵发性睡眠性血红蛋白尿症 (PNH) 克隆
+流式细胞术检测阵发性睡眠性血红蛋白尿症 (PNH) 克隆
+建议进行基因检测（例如范可尼贫血的染色体断裂分析以及端粒生物学疾病的端粒长度测定），尤其适用于年轻患者、具有提示性家族史或特征性畸形体征的患者
+建议进行基因检测（例如范可尼贫血的染色体断裂分析以及端粒生物学疾病的端粒长度测定），尤其适用于年轻患者、具有提示性家族史或特征性畸形体征的患者
+存在全血细胞减少的患者，尤其是青少年患者，应考虑再生障碍性贫血的可能。重度再生障碍性贫血的定义是骨髓细胞数量<25%（细胞不足）并且存在≥2项以下情况：
+中性粒细胞绝对计数<500/microL (< 0.5 × 109/L)
+中性粒细胞绝对计数<500/microL (< 0.5 × 109/L)
+绝对网织红细胞计数 < 60,000/microL (< 60 × 109/L)
+绝对网织红细胞计数 < 60,000/microL (< 60 × 109/L)
+血小板计数 < 20,000/microL (< 20 × 109/L)
+血小板计数 < 20,000/microL (< 20 × 109/L)
+非常严重的再生障碍性贫血定义为绝对中性粒细胞计数 < 200/μL (< 0.2 x 109/L）。
+通过流式细胞术检测到的PNH 克隆可以排除某些遗传综合征（1）。
+尤其对年轻患者、有家族史者或存在其他类似获得性再生障碍性贫血的特征性畸形的患者，应考虑进行遗传性骨髓衰竭综合征的额外检测(2)。示例包括用于诊断范可尼贫血的染色体断裂分析、用于端粒生物学障碍的端粒长度测试以及基因测序。
+
+【诊断参考】
+1.DeZern AE, Symons HJ, Resar LS, Borowitz MJ, Armanios MY, Brodsky RA.Detection of paroxysmal nocturnal hemoglobinuria clones to exclude inherited bone marrow failure syndromes.Eur J Haematol2014;92(6):467-470.doi:10.1111/ejh.12299
+1.DeZern AE, Symons HJ, Resar LS, Borowitz MJ, Armanios MY, Brodsky RA.Detection of paroxysmal nocturnal hemoglobinuria clones to exclude inherited bone marrow failure syndromes.Eur J Haematol2014;92(6):467-470.doi:10.1111/ejh.12299
+2.McReynolds LJ, Rafati M, Wang Y, et al.Genetic testing in severe aplastic anemia is required for optimal hematopoietic cell transplant outcomes.Blood.2022;140(8):909-921.doi:10.1182/blood.2022016508
+2.McReynolds LJ, Rafati M, Wang Y, et al.Genetic testing in severe aplastic anemia is required for optimal hematopoietic cell transplant outcomes.Blood.2022;140(8):909-921.doi:10.1182/blood.2022016508
+
+【再生障碍性贫血的治疗】
+造血干细胞移植
+造血干细胞移植
+如果无法进行移植，则使用马抗胸腺细胞球蛋白和环孢素进行免疫抑制，联合或不联合艾曲波帕
+如果无法进行移植，则使用马抗胸腺细胞球蛋白和环孢素进行免疫抑制，联合或不联合艾曲波帕
+在再生障碍性贫血中，造血干细胞移植具有治愈作用，是首选治疗方法，特别是对于有匹配供者的年轻患者。过去免疫抑制疗法（如ATG、环孢素）被推荐用于老年患者和无匹配供体者；但随着无关供体和替代供体异基因移植疗效的改善，这些疗法正越来越多地被用作这些患者的一线治疗。单倍体相合骨髓移植的应用正在扩大造血干细胞移植的可及性。
+对于不适合移植或缺乏供者的患者，使用马抗胸腺细胞球蛋白 (ATG) 联合环孢素进行免疫抑制治疗，总有效率约为 60% 至 70%（1）。 可能会发生过敏反应和血清病。多达一半的患者会出现长期复发或克隆演变为骨髓恶性肿瘤。对于初始接受免疫抑制治疗但无反应（难治性疾病）或复发的患者，可以考虑异基因造血干细胞移植或二次免疫抑制治疗（如加用血小板生成素受体激动剂[即艾曲波帕]、重新使用环孢素、兔ATG、阿仑单抗）。
+基于供体可获得性和骨髓移植适应证，专家共识指南推荐ATG、环孢素联合艾曲波帕作为接受免疫抑制治疗的成人重型再生障碍性贫血的初始管理方案(2,3,4)。临床试验显示艾曲波帕联合免疫抑制在初治和难治性患者中均有效。在ATG和环孢素基础上加用艾曲波帕比单用ATG和环孢素能更快提高血液学缓解率且缓解程度更优，但2年总生存率相似(5)。 虽然许多专家推荐“三联免疫抑制疗法”（如ATG、环孢素、艾曲波帕）而非单独使用ATG+环孢素，但也有专家因顾虑恶性克隆早期演变风险且总生存期未改善而不加用艾曲波帕。
+
+【治疗参考文献】
+1.Scheinberg P, Nunez O, Weinstein B, et al.Horse versus rabbit antithymocyte globulin in acquired aplastic anemia [published correction appears inN Engl J Med.2018 Jun 13;378(25):2450. doi: 10.1056/NEJMx180020].N Engl J Med.2011;365(5):430-438.doi:10.1056/NEJMoa1103975
+1.Scheinberg P, Nunez O, Weinstein B, et al.Horse versus rabbit antithymocyte globulin in acquired aplastic anemia [published correction appears inN Engl J Med.2018 Jun 13;378(25):2450. doi: 10.1056/NEJMx180020].N Engl J Med.2011;365(5):430-438.doi:10.1056/NEJMoa1103975
+2.DeZern A, Zahurak ML, Symons HJ, et al..Alternative donor BMT with post-transplantcyclophosphamideas initial therapy for acquired severe aplastic anemia.Blood.2023;141(25): 3031-3038.doi:10.1182/blood.2023020435
+2.DeZern A, Zahurak ML, Symons HJ, et al..Alternative donor BMT with post-transplantcyclophosphamideas initial therapy for acquired severe aplastic anemia.Blood.2023;141(25): 3031-3038.doi:10.1182/blood.2023020435
+3.Winkler T, Fan X, Cooper J, et al.Treatment optimization and genomic outcomes in refractory severe aplastic anemia treated witheltrombopag.Blood.133(24):2575–2585, 2019.doi: 10.1182/blood.2019000478
+3.Winkler T, Fan X, Cooper J, et al.Treatment optimization and genomic outcomes in refractory severe aplastic anemia treated witheltrombopag.Blood.133(24):2575–2585, 2019.doi: 10.1182/blood.2019000478
+4.Babushok DV, DeZern AE, de Castro CM, et al.Modified Delphi panel consensus recommendations for management of severe aplastic anemia.Blood Adv.2024;8(15):3946-3960.doi:10.1182/bloodadvances.2023011642
+4.Babushok DV, DeZern AE, de Castro CM, et al.Modified Delphi panel consensus recommendations for management of severe aplastic anemia.Blood Adv.2024;8(15):3946-3960.doi:10.1182/bloodadvances.2023011642
+5.Peffault de Latour R, Kulasekararaj A, Iacobelli S, et al.EltrombopagAdded to Immunosuppression in Severe Aplastic Anemia.N Engl J Med.2022;386(1):11-23.doi:10.1056/NEJMoa2109965
+5.Peffault de Latour R, Kulasekararaj A, Iacobelli S, et al.EltrombopagAdded to Immunosuppression in Severe Aplastic Anemia.N Engl J Med.2022;386(1):11-23.doi:10.1056/NEJMoa2109965
+再生障碍性贫血包括骨髓全发育不全伴贫血、白细胞减少和血小板减少。
+再生障碍性贫血包括骨髓全发育不全伴贫血、白细胞减少和血小板减少。
+许多病例是特发性的，但化学物质、药物或辐射可能是原因。
+许多病例是特发性的，但化学物质、药物或辐射可能是原因。
+骨髓检查常显示不同程度的细胞减少。
+骨髓检查常显示不同程度的细胞减少。
+治疗方法包括干细胞移植或使用马抗胸腺球蛋白和环孢素进行免疫抑制，可联合使用或不联合使用艾曲波帕。
+治疗方法包括干细胞移植或使用马抗胸腺球蛋白和环孢素进行免疫抑制，可联合使用或不联合使用艾曲波帕。

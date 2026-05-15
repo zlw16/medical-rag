@@ -1,0 +1,36 @@
+标题：动态pH监测
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/diagnostic-and-therapeutic-gastrointestinal-procedures/ambulatory-ph-monitoring
+============================================================
+
+无论是否联合腔内阻抗测试，动态24小时食管pH监测都是目前量化胃食管反流最常用的检查（1）。主要指征为：
+记录过度的酸反流或非酸反流
+记录过度的酸反流或非酸反流
+证实症状与反流关系
+证实症状与反流关系
+评估是否需行抗反流手术
+评估是否需行抗反流手术
+评估药物或手术治疗的效果
+评估药物或手术治疗的效果
+无论患者是否正在接受抑制胃酸治疗，都可以进行动态pH监测。
+当患者停用抑酸治疗时进行监测，可以确诊或排除胃食管反流病的诊断。如果在患者停止抑酸治疗时进行监测，且胃中未发现酸性pH值，则可确诊胃酸缺乏。
+当患者在接受抑酸治疗期间进行监测时，可以确定因抑酸治疗失败而接受检查的患者胃酸抑制是否充分以及是否存在食管酸暴露。
+可经鼻置入监测导管或内镜下将无线pH监测仪器置于食管远端。
+并发症非常罕见。患者检查前午夜后应禁食禁水，但在放置监测设备后，可恢复正常饮食。
+
+【以导管为基础的pH监测】
+一根含pH探头的细管安放在距食管下括约肌近端5 cm的位置。
+由患者记录24小时内的症状、进食及睡眠情况。食管酸暴露定义为pH<4.0的时间占总监测时间的百分比。若pH < 4.0的时间占比>4.3%，且患者未接受抑酸治疗，则该结果视为异常；若患者在检测期间持续接受抑酸治疗，则>1.3%视为异常。在pH探针近端区域置入额外探头，可用于测定近端食管反流。
+双通道食管 - 胃 pH 探头的导管上有 2 个独立的 pH 传感器；1 个置于食管下括约肌上方 5 厘米处，另 1 个置于胃内。运用两个传感器可同时检测远端食管和胃pH值。该测试对于评估抑酸药物的功效和充分性十分有效。
+组合式pH-阻抗监测装置也可进行多通道腔内阻抗测试，无论pH水平，可识别任何胃内容物回流到食道。除酸性反流外，该检查还可检测弱酸性反流（pH 4.0-7）与非酸性反流（pH＞7），而这些是传统 pH 监测无法发现的。
+可以通过症状指数（SI）或症状关联概率（SAP）来评估患者报告的症状与反流事件之间的相关性。症状指标值或症状关联概率值显著，说明症状与反流事件之间的相关性不是偶然的。过度反流及显著的症状-反流相关性是抗反流手术或经口无切口胃底折叠术(TIF)疗效良好的阳性预测指标。
+
+【无线pH监测】
+亦可将无线pH感应胶囊置于食管远端进行动态食管pH监测。
+该装置经内镜置于食管下括约肌上方5厘米处，持续监测食管酸暴露（定义为pH＜4.0），通常持续24小时，有时可长达96小时(2)。与探头检查类似，患者需在检查期间记录症状、进食与睡眠情况，进而明确过量酸暴露及症状 - 反流的相关性（症状指数或症状关联概率）。但是，由于该胶囊仅能检测pH值，只可用于酸反流测定。
+胶囊通常于放置入后一星期内脱落，随大便排出。该胶囊在连接时以无线方式传输数据，故无需回收。
+
+【参考文献】
+1.Katz PO, Dunbar KB, Schnoll-Sussman FH, Greer KB, Yadlapati R, Spechler SJ.ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease.Am J Gastroenterol.2022;117(1):27-56.doi:10.14309/ajg.0000000000001538
+1.Katz PO, Dunbar KB, Schnoll-Sussman FH, Greer KB, Yadlapati R, Spechler SJ.ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease.Am J Gastroenterol.2022;117(1):27-56.doi:10.14309/ajg.0000000000001538
+2.Hasak S, Yadlapati R, Altayar O, et al.Prolonged Wireless pH Monitoring in Patients With Persistent Reflux Symptoms Despite Proton Pump Inhibitor Therapy.Clin Gastroenterol Hepatol.2020;18(13):2912-2919.doi:10.1016/j.cgh.2020.01.031
+2.Hasak S, Yadlapati R, Altayar O, et al.Prolonged Wireless pH Monitoring in Patients With Persistent Reflux Symptoms Despite Proton Pump Inhibitor Therapy.Clin Gastroenterol Hepatol.2020;18(13):2912-2919.doi:10.1016/j.cgh.2020.01.031

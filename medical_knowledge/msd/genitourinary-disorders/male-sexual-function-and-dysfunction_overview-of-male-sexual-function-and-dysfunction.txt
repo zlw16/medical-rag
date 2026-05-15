@@ -1,0 +1,45 @@
+标题：男性性功能与功能障碍综述
+来源：https://www.msdmanuals.cn/professional/genitourinary-disorders/male-sexual-function-and-dysfunction/overview-of-male-sexual-function-and-dysfunction
+============================================================
+
+男性性功能主要有4个组成部分：
+排精/射精
+排精/射精
+性功能障碍是指这些组成部分中的任何一个出现问题，从而影响对性交的兴趣或进行性交的能力。很多药物和身体、心理疾病都能影响性功能。
+性欲是性功能的意识成分。性欲减退表现为对性兴趣的缺乏，或者性想法的频率和强度降低，无论这些想法是自发产生还是对色情刺激的反应。性欲对睾酮水平和总体营养，健康状况和药物都很敏感。
+性欲下降的常见原因包括性腺功能低下（睾酮不足），慢性肾病、关系问题、沮丧、压力和糖尿病等等。Testosteronedeficiency is very common in older men, with a prevalence of between 40 and 50% (1, 2).然而，这种情况可以通过使用睾酮替代疗法轻松治疗（3）。
+潜在地降低性欲的药物包括弱雄激素受体拮抗剂（如，螺内酯，西咪替丁），黄体生成激素 - 释放激素激动剂（例如，亮丙瑞林，戈舍瑞林，布舍瑞林）和拮抗剂（例如，地加瑞克）用于治疗前列腺癌，抗雄激素用于治疗前列腺癌（例如，氟他胺，比卡鲁胺），用于治疗良性前列腺增生症药物5alpha还原酶抑制剂（如非那雄胺，度他雄胺），某些抗高血压药，而且几乎是作用中枢神经系统的药物（例如选择性5-HT再摄取抑制剂(SSRIs)，三环抗抑郁药，抗精神病药） (4)。选择性血清再吸收抑制剂(SSRIs)或三环类抗抑郁药导致的性欲下降在服用丁氨苯丙酮或曲唑酮后可能会部分逆转。
+勃起是心理和/或触觉刺激致神经血管反应。高级皮层输入和骶神经介导的副交感反射弧刺激勃起反应。传出神经为阴部神经，它贯穿前列腺的后外侧。终止于阴茎血管，这些非肾上腺素，非胆碱能神经释放一氧化氮气体。一氧化氮扩散到阴茎动脉平滑肌细胞，增加生产环鸟苷酸 (cGMP)，放松动脉平滑肌，使更多的血液进入海绵体。随着海绵体充满血液，阴茎海绵体内压力升高，压缩周围的静脉，造成静脉闭塞和减少静脉流出。血液流入增加和流出减少进一步增加海绵体内压，促进勃起。很多因素影响勃起的能力（参见勃起功能障碍）。
+男性可能经历两种类型的勃起：心因性和反射性。心因性勃起是由于患者大脑受到视觉/听觉输入和幻想的唤醒而发生的。反射性勃起是物理生殖器刺激的直接结果。尽管大多数男性两种勃起类型共存且同时发生，但在没有生殖器刺激的情况下也可能出现心因性勃起，而在没有大脑刺激的情况下也可能出现反射性勃起。这两种类型的勃起由不同的神经通路介导。心因性勃起依赖于脊髓T11至L2水平的完整神经功能，而反射性勃起依赖于脊髓S2至S4水平的功能。因此，特定的脊髓损伤可能会影响勃起（5）。例如，T11以上脊髓完全损伤的男性通常不会出现心因性勃起，但在直接生殖器刺激后仍会出现反射性勃起。
+
+【射出、射精和性高潮】
+排精指射精前液体沉积于前列腺尿道。
+射精指精液实际从尿道口排出。
+男性附件（如阴茎、睾丸、会阴、前列腺、精囊）中的 α- 肾上腺素能受体受到神经刺激，引起附睾、输精管、精囊和前列腺收缩，从而运输精液至后尿道（射出）。然后，盆底肌肉的节律性收缩导致积聚的精液脉冲式排出（射精）。同时，膀胱颈关闭，阻止逆行性射精入膀胱。
+性高潮是大脑产生高度愉悦的感觉，一般与射精同时出现。这也与骨盆区域内有节奏的、不自主的肌肉收缩有关。 性高潮缺失可能是阴茎的感觉下降（如神经病变）或精神障碍和精神药物引起的神经精神现象所致。
+
+【射精功能障碍】
+射精功能障碍大致可分为两类：
+射精能力下降（逆行射精、不射精）
+射精能力下降（逆行射精、不射精）
+射精时间异常（早泄、延迟射精）
+射精时间异常（早泄、延迟射精）
+射精能力下降通常是由于年龄增长、病理或医源性原因造成的，而射精时间异常则更多地与心理因素有关。
+逆行射精可能有多种原因。糖尿病引起的神经病变和某些药物（如α受体阻滞剂，例如用于治疗良性前列腺增生[BPH]的坦索罗辛）可能会导致尿道括约肌松弛受损，而BPH手术，例如经尿道前列腺切除术（TURP）可导致永久性医源性逆行射精。
+射精障碍可能是由精道阻塞、神经功能障碍、损伤、放射或手术引起的。无射精的典型原因是前列腺癌根治性切除术，该手术切除了精囊，从而导致精液的产生。
+早泄是指射精时间早于男性或其伴侣所期望的时间，并给双方带来困扰。一般是由无性经验、焦虑和其他心理因素导致，而不是疾病。可以通过局部麻醉剂、性疗法、三环抗抑郁剂和选择性5-HT再摄取抑制剂成功治疗。
+射精延迟通常与心理因素有关，但是勃起功能障碍和某些药物（例如血清素再摄取抑制剂）也会导致上述情况。治疗潜在的勃起功能障碍和性心理治疗是治疗的主要手段。一些药物可用于治疗延迟射精（例如卡麦角林和安非他酮）（6）。
+
+【参考文献】
+1.Mulligan T, Frick MF, Zuraw QC, et al: Prevalence of hypogonadism in males aged at least 45 years: The HIM study.Int J Clin Pract60(7):762-769, 2006.doi: 10.1111/j.1742-1241.2006.00992.x
+1.Mulligan T, Frick MF, Zuraw QC, et al: Prevalence of hypogonadism in males aged at least 45 years: The HIM study.Int J Clin Pract60(7):762-769, 2006.doi: 10.1111/j.1742-1241.2006.00992.x
+2.Harman SM, Metter EJ, Tobin JD, et al; Baltimore Longitudinal Study of Aging.Longitudinal effects of aging on serum total and free testosterone levels in healthy men.J Clin Endocrinol Metab86(2):724-731, 2001.doi: 10.1210/jcem.86.2.7219
+2.Harman SM, Metter EJ, Tobin JD, et al; Baltimore Longitudinal Study of Aging.Longitudinal effects of aging on serum total and free testosterone levels in healthy men.J Clin Endocrinol Metab86(2):724-731, 2001.doi: 10.1210/jcem.86.2.7219
+3.Rastrelli G, Guaraldi F, Reismann Y, et al: Testosterone replacement therapy for sexual symptoms.Sex Med Rev7(3):464-475, 2019.doi: 10.1016/j.sxmr.2018.11.005
+3.Rastrelli G, Guaraldi F, Reismann Y, et al: Testosterone replacement therapy for sexual symptoms.Sex Med Rev7(3):464-475, 2019.doi: 10.1016/j.sxmr.2018.11.005
+4.Balon R: Medications and sexual function and dysfunction.J Lifelong Learning Psychiatry7(4).Published online.October 2009.
+4.Balon R: Medications and sexual function and dysfunction.J Lifelong Learning Psychiatry7(4).Published online.October 2009.
+5.Stoffel JT, Van der Aa F, Wittmann D, et al: Fertility and sexuality in the spinal cord injury patient.World J Urol36(10):1577-1585, 2018.doi: 10.1007/s00345-018-2347-y
+5.Stoffel JT, Van der Aa F, Wittmann D, et al: Fertility and sexuality in the spinal cord injury patient.World J Urol36(10):1577-1585, 2018.doi: 10.1007/s00345-018-2347-y
+6.Sadowski DJ, Butcher MJ, Köhler TS: A review of pathophysiology and management options for delayed ejaculation.Sex Med Rev4(2):167-1676, 2016.doi: 10.1016/j.sxmr.2015.10.006
+6.Sadowski DJ, Butcher MJ, Köhler TS: A review of pathophysiology and management options for delayed ejaculation.Sex Med Rev4(2):167-1676, 2016.doi: 10.1016/j.sxmr.2015.10.006

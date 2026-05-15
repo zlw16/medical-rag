@@ -1,0 +1,96 @@
+标题：插管辅助药物
+来源：https://www.msdmanuals.cn/professional/critical-care-medicine/respiratory-arrest/medications-to-aid-intubation
+============================================================
+
+没有脉搏且呼吸暂停的患者或意识严重迟钝的患者可以（也应该）在没有药物辅助的情况下进行插管。其他患者则需服用镇静和麻痹药物，以尽量减轻不适并方便插管（称为快速诱导插管）（见表格插管诱导的镇静和止痛药物）。
+(参见呼吸暂停综述、气道建立和控制、气管插管)
+
+【镇静与镇痛下插管】
+喉镜检查和插管会有不适感，对清醒病人必须静注短效镇静药物或兼有镇静镇痛的药物。
+依托咪酯0.3mg/kg是用于诱导的非巴比妥类镇静催眠药。尽管有人担心依托咪酯可能会增加部分重症患者的死亡率，但依托咪酯仍被推荐用于重症患者的快速顺序插管（1，2，3）。
+芬太尼是一种速效合成阿片类药物，可用于降低插管过程中刺激引起的高血压和心动过速反应（4）。成人静脉注射芬太尼剂量为5 mcg/kg理想体重（儿童为2至5 mcg/kg）。注:该剂量高于镇痛药剂量，如果与镇静催眠药(如异丙酚或依托咪酯)合用，则需要降低剂量。芬太尼是一种阿片类药物，因此具有镇痛、镇静作用。但是，高剂量时可能会发生胸壁肌肉强直（5）。
+氯胺酮静脉注射1~2mg/kg，是一种具有心脏刺激作用的解离型麻醉剂。 它通常是安全的，但可能导致觉醒状态下的幻觉或怪异行为。这些不良反应可以通过低剂量的预防性苯二氮卓类药物来控制。危重需气管插管患者应用氯胺酮与依托咪酯的插管后 28 天生存率相近 (3、6)，但氯胺酮的严重心血管事件风险更高 (3)。
+丙泊酚，一种镇静剂和健忘药，通常以1.5~3 mg/kg静脉注射用于诱导，但可引起心血管抑制导致低血压。
+巴比妥类药物（例如硫喷妥钠、美索比妥）不常用，因为它们容易引起低血压。
+
+【气管插管的肌松药物】
+静脉推注神经肌肉阻滞剂 (NMBA) 松弛骨骼肌，使插管更容易 (7)。
+琥珀胆碱（1.5mg/kg静注，婴儿2.0mg/kg），一种除极化神经肌肉阻滞剂，起效最为迅速（30秒～1分钟），维持有效时间最短（3～5分钟）。烧伤、肌肉挤压伤（伤后>1至2天）以及急性肾损伤患者应避免使用，因为存在高钾血症的潜在风险（8）。患有脊髓损伤和某些神经肌肉疾病（如多发性硬化症、肌营养不良症）的患者也应避免使用琥珀胆碱，因为担心会出现医源性高钾血症（9）。对于可能存在眼部穿透性损伤的患者，还应考虑使用其他NMBA，因为担心肌束震颤会导致眼压升高。恶性高热可能是由去极化神经肌肉阻滞剂以及某些麻醉剂引起的。恶性高热占所有麻醉相关死亡的一小部分（10, 11）。
+不建议在注射琥珀胆碱之前用阿托品进行预处理以防止可能出现的心动过缓(12)。
+可替换的非去极化神经肌肉阻滞剂作用持续时间较长（>30分钟），但起效也较慢，除非使用大剂量（这会显著延长麻痹时间）（1, 13）。这些包括阿曲库铵、顺阿曲库铵、米库铵、罗库溴铵和维库溴铵。
+琥珀胆碱或罗库溴铵（如果对琥珀胆碱有禁忌症）可用于快速顺序插管（1）。
+建议在使用琥珀胆碱之前先用小剂量的非去极化 NMBA 进行预处理，以防止肌束震颤和肌痛（14）。
+
+【插管诱导的镇静和止痛药物】
+插管诱导的镇静和止痛药物
+药物治疗
+剂量（静脉注射）
+注意事项
+异丙酚*
+0.5-1 mg/kg（负荷剂量）和 0.25-0.5 mg/kg （后续维持剂量）
+一种用于快速诱导镇静和失忆的药物（<1分钟）
+依托咪酯†
+0.1～0.15 mg/kg，1分钟内（负荷剂量）
+依托咪酯不能缓解疼痛，可能需要使用短效合成阿片类药物
+咪达唑仑‡
+0.02～0.03 mg/kg（作为0.5～1 mg负荷剂量）
+短效镇痛药（镇静作用最小）；单次最大剂量不应超过2.5毫克
+芬太尼§, ¶
+每2分钟0.5微克/千克
+一种短效合成阿片类药物；成人初始剂量为 50-100 微克，最大总剂量为 5 微克/千克（或约 250 微克）
+氯胺酮¶
+1-2 mg/kg，1-2 分钟内给药（负荷剂量），0.25-0.5 mg/kg（维持剂量）
+氯胺酮是一种短效分离型镇静剂；与其他镇静剂联合使用或用于肥胖患者时应调整剂量（基于理想体重而非实际体重）
+* Data fromMiner JR, Burton JH: Clinical practice advisory: Emergency department procedural sedation withpropofol.Ann Emerg Med50(2):182–187.e1, 2007.doi:10.1016/j.annemergmed.2006.12.017
+† Data fromMiner JR, Danahy M, Moch A, Biros M: Randomized clinical trial ofetomidateversuspropofolfor procedural sedation in the emergency department.Ann Emerg Med49(1):15–22, 2007.doi:10.1016/j.annemergmed.2006.06.042
+‡ Data fromHorn E, Nesbit SA: Pharmacology and pharmacokinetics of sedatives and analgesics.Gastrointest Endosc Clin N Am14(2):247–268, 2004.doi:10.1016/j.giec.2004.01.001
+§ Data from Hikma.Fentanyl citrate injection [package insert].U.S. Food and Drug Administration website.019101s063lbl.pdf (fda.gov).Revised December 15, 2023.Accessed June 11, 2024 and fromBrown TB, Lovato LM, Parker D: Procedural sedation in the acute care setting.Am Fam Physician2005;71(1):85–90, 2005.
+¶ Data fromDavid H, Shipp J: A randomized controlled trial ofketamine/propofolversuspropofolalone for emergency department procedural sedation.Ann Emerg Med57(5):435–441, 2011.doi:10.1016/j.annemergmed.2010.11.025 and fromBrown TB, Lovato LM, Parker D: Procedural sedation in the acute care setting.Am Fam Physician71(1):85–90, 2005.
+* Data fromMiner JR, Burton JH: Clinical practice advisory: Emergency department procedural sedation withpropofol.Ann Emerg Med50(2):182–187.e1, 2007.doi:10.1016/j.annemergmed.2006.12.017
+† Data fromMiner JR, Danahy M, Moch A, Biros M: Randomized clinical trial ofetomidateversuspropofolfor procedural sedation in the emergency department.Ann Emerg Med49(1):15–22, 2007.doi:10.1016/j.annemergmed.2006.06.042
+‡ Data fromHorn E, Nesbit SA: Pharmacology and pharmacokinetics of sedatives and analgesics.Gastrointest Endosc Clin N Am14(2):247–268, 2004.doi:10.1016/j.giec.2004.01.001
+§ Data from Hikma.Fentanyl citrate injection [package insert].U.S. Food and Drug Administration website.019101s063lbl.pdf (fda.gov).Revised December 15, 2023.Accessed June 11, 2024 and fromBrown TB, Lovato LM, Parker D: Procedural sedation in the acute care setting.Am Fam Physician2005;71(1):85–90, 2005.
+¶ Data fromDavid H, Shipp J: A randomized controlled trial ofketamine/propofolversuspropofolalone for emergency department procedural sedation.Ann Emerg Med57(5):435–441, 2011.doi:10.1016/j.annemergmed.2010.11.025 and fromBrown TB, Lovato LM, Parker D: Procedural sedation in the acute care setting.Am Fam Physician71(1):85–90, 2005.
+
+【局部麻醉下插管】
+清醒患者插管需进行鼻咽部麻醉。通常使用苯佐卡因、丁卡因、氨基苯甲酸丁酯（butamben）和苯扎氯铵的商用气溶胶制剂 (15)。 或者，4％利多卡因可以通过面罩雾化吸入。使用苯佐卡因时需要小心，因为它会引起高铁血红蛋白血症 (16)。
+
+【插管后镇静和镇痛】
+适当的药物也应立即用于插管后的镇静和镇痛。阿片类药物和苯二氮卓类药物（如芬太尼和咪达唑仑）的组合可以作为推注剂量快速给药。也可以使用持续输注镇静剂，如丙泊酚或右美托咪定。
+在初次插管和复苏后，临床实践指南建议成年危重患者使用轻度镇静（而不是深度镇静），并建议使用丙泊酚或右美托咪定而不是苯二氮卓类药物。苯二氮卓类药物的谵妄发生率较高（17）。
+
+【参考文献】
+1.Acquisto NM, Mosier JM, Bittner EA, et al: Society of Critical Care Medicine Clinical Practice Guidelines for Rapid Sequence Intubation in the Critically Ill Adult Patient.Crit Care Med51(10):1411–1430, 2023.doi:10.1097/CCM.0000000000006000
+1.Acquisto NM, Mosier JM, Bittner EA, et al: Society of Critical Care Medicine Clinical Practice Guidelines for Rapid Sequence Intubation in the Critically Ill Adult Patient.Crit Care Med51(10):1411–1430, 2023.doi:10.1097/CCM.0000000000006000
+2.Kotani Y, Piersanti G, Maiucci G, et al:Etomidateas an induction agent for endotracheal intubation in critically ill patients: A meta-analysis of randomized trials.J Crit Care77:154317, 2023.doi:10.1016/j.jcrc.2023.154317
+2.Kotani Y, Piersanti G, Maiucci G, et al:Etomidateas an induction agent for endotracheal intubation in critically ill patients: A meta-analysis of randomized trials.J Crit Care77:154317, 2023.doi:10.1016/j.jcrc.2023.154317
+3.Casey JD, Seitz KP, Driver BE, et al。KetamineorEtomidatefor Tracheal Intubation of Critically Ill Adults.N Engl J Med.Published online December 9, 2025.doi:10.1056/NEJMoa2511420
+3.Casey JD, Seitz KP, Driver BE, et al。KetamineorEtomidatefor Tracheal Intubation of Critically Ill Adults.N Engl J Med.Published online December 9, 2025.doi:10.1056/NEJMoa2511420
+4.Teong CY, Huang CC, Sun FJ: The Haemodynamic Response to Endotracheal Intubation at Different Time ofFentanylGiven During Induction: A Randomised Controlled Trial.Sci Rep10(1):8829, 2020.doi:10.1038/s41598-020-65711-9
+4.Teong CY, Huang CC, Sun FJ: The Haemodynamic Response to Endotracheal Intubation at Different Time ofFentanylGiven During Induction: A Randomised Controlled Trial.Sci Rep10(1):8829, 2020.doi:10.1038/s41598-020-65711-9
+5.Tammen AJ, Brescia D, Jonas D, Hodges JL, Keith P:Fentanyl-Induced Rigid Chest Syndrome in Critically Ill Patients.J Intensive Care Med38(2):196–201, 2023.doi:10.1177/08850666221115635
+5.Tammen AJ, Brescia D, Jonas D, Hodges JL, Keith P:Fentanyl-Induced Rigid Chest Syndrome in Critically Ill Patients.J Intensive Care Med38(2):196–201, 2023.doi:10.1177/08850666221115635
+6.Matchett G, Gasanova I, Riccio CA, et al:Etomidateversusketaminefor emergency endotracheal intubation: a randomized clinical trial.Intensive Care Med48(1):78–91, 2022.doi:10.1007/s00134-021-06577-x
+6.Matchett G, Gasanova I, Riccio CA, et al:Etomidateversusketaminefor emergency endotracheal intubation: a randomized clinical trial.Intensive Care Med48(1):78–91, 2022.doi:10.1007/s00134-021-06577-x
+7.Lundstrøm LH, Duez CHV, Nørskov AK, et al: Effects of avoidance or use of neuromuscular blocking agents on outcomes in tracheal intubation: a Cochrane systematic review.Br J Anaesth120(6):1381–1393, 2018.doi:10.1016/j.bja.2017.11.106
+7.Lundstrøm LH, Duez CHV, Nørskov AK, et al: Effects of avoidance or use of neuromuscular blocking agents on outcomes in tracheal intubation: a Cochrane systematic review.Br J Anaesth120(6):1381–1393, 2018.doi:10.1016/j.bja.2017.11.106
+8.Blanié A, Ract C, Leblanc PE, et al: The limits ofsuccinylcholinefor critically ill patients.Anesth Analg115(4):873–879, 2012.doi:10.1213/ANE.0b013e31825f829d
+8.Blanié A, Ract C, Leblanc PE, et al: The limits ofsuccinylcholinefor critically ill patients.Anesth Analg115(4):873–879, 2012.doi:10.1213/ANE.0b013e31825f829d
+9.Cooperman LH:Succinylcholine-induced hyperkalemia in neuromuscular disease.JAMA213(11):1867–1871, 1970.
+9.Cooperman LH:Succinylcholine-induced hyperkalemia in neuromuscular disease.JAMA213(11):1867–1871, 1970.
+10.Hirshey Dirksen SJ, Larach MG, Rosenberg H, et al: Special article: Future directions in malignant hyperthermia research and patient care.Anesth Analg113(5):1108–1119, 2011.doi:10.1213/ANE.0b013e318222af2e
+10.Hirshey Dirksen SJ, Larach MG, Rosenberg H, et al: Special article: Future directions in malignant hyperthermia research and patient care.Anesth Analg113(5):1108–1119, 2011.doi:10.1213/ANE.0b013e318222af2e
+11.Rosenberg H, Davis M, James D, Pollock N, Stowell K: Malignant hyperthermia.Orphanet J Rare Dis2:21, 2007.doi:10.1186/1750-1172-2-21
+11.Rosenberg H, Davis M, James D, Pollock N, Stowell K: Malignant hyperthermia.Orphanet J Rare Dis2:21, 2007.doi:10.1186/1750-1172-2-21
+12.de Caen AR, Berg MD, Chameides L, et al: Part 12: Pediatric Advanced Life Support: 2015 American Heart Association Guidelines Update for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation132(18 Suppl 2):S526–S542, 2015.doi:10.1161/CIR.0000000000000266
+12.de Caen AR, Berg MD, Chameides L, et al: Part 12: Pediatric Advanced Life Support: 2015 American Heart Association Guidelines Update for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation132(18 Suppl 2):S526–S542, 2015.doi:10.1161/CIR.0000000000000266
+13.Plaud B, Baillard C, Bourgain JL, et al: Guidelines on muscle relaxants and reversal in anaesthesia.Anaesth Crit Care Pain Med39(1):125–142, 2020.doi:10.1016/j.accpm.2020.01.005
+13.Plaud B, Baillard C, Bourgain JL, et al: Guidelines on muscle relaxants and reversal in anaesthesia.Anaesth Crit Care Pain Med39(1):125–142, 2020.doi:10.1016/j.accpm.2020.01.005
+14.Schreiber JU, Lysakowski C, Fuchs-Buder T, Tramèr MR: Prevention of succinylcholine-induced fasciculation and myalgia: a meta-analysis of randomized trials.Anesthesiology103(4):877–884, 2005.doi:10.1097/00000542-200510000-00027
+14.Schreiber JU, Lysakowski C, Fuchs-Buder T, Tramèr MR: Prevention of succinylcholine-induced fasciculation and myalgia: a meta-analysis of randomized trials.Anesthesiology103(4):877–884, 2005.doi:10.1097/00000542-200510000-00027
+15.Walsh ME, Shorten GD: Preparing to perform an awake fiberoptic intubation.Yale J Biol Med71(6):537–549, 1998.
+15.Walsh ME, Shorten GD: Preparing to perform an awake fiberoptic intubation.Yale J Biol Med71(6):537–549, 1998.
+16.Wills BK, Cumpston KL, Downs JW, Rose SR: Causative Agents in Clinically Significant Methemoglobinemia: A National Poison Data System Study.Am J Ther28(5):e548–e551, 2020.doi:10.1097/MJT.0000000000001277
+16.Wills BK, Cumpston KL, Downs JW, Rose SR: Causative Agents in Clinically Significant Methemoglobinemia: A National Poison Data System Study.Am J Ther28(5):e548–e551, 2020.doi:10.1097/MJT.0000000000001277
+17.Devlin JW, Skrobik Y, Gélinas C, et al: Clinical Practice Guidelines for the Prevention and Management of Pain, Agitation/Sedation, Delirium, Immobility, and Sleep Disruption in Adult Patients in the ICU.Crit Care Med46(9):e825-e873, 2018.doi:10.1097/CCM.0000000000003299
+17.Devlin JW, Skrobik Y, Gélinas C, et al: Clinical Practice Guidelines for the Prevention and Management of Pain, Agitation/Sedation, Delirium, Immobility, and Sleep Disruption in Adult Patients in the ICU.Crit Care Med46(9):e825-e873, 2018.doi:10.1097/CCM.0000000000003299

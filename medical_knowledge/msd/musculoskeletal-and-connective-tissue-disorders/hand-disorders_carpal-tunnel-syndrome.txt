@@ -1,0 +1,58 @@
+标题：腕管综合征
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/hand-disorders/carpal-tunnel-syndrome
+============================================================
+
+（参见手部疾病的概述与评估）。
+腕管综合征非常常见，尤其好发于40～59岁的女性 (1)。危险因素包括类风湿关节炎或其他腕关节炎（有时为首发症状）、糖尿病、甲状腺功能减退、肢端肥大症、轻链型心脏或透析相关性淀粉样变性以及妊娠导致的腕管内水肿。腕部重复屈伸运动的活动或工作也可能构成危险因素。大多数病例是特发性的。
+
+【参考文献】
+1.Ibrahim T, Majid I, Clarke M, Kershaw CJ.Outcome of carpal tunnel decompression: the influence of age, gender, and occupation.Int Orthop.2009;33(5):1305-1309.doi:10.1007/s00264-008-0669-x
+1.Ibrahim T, Majid I, Clarke M, Kershaw CJ.Outcome of carpal tunnel decompression: the influence of age, gender, and occupation.Int Orthop.2009;33(5):1305-1309.doi:10.1007/s00264-008-0669-x
+
+【腕管综合征的症状和体征】
+腕管综合征的症状包括手和手腕疼痛，伴有刺痛和麻木，chang分布于正中神经（拇指的手掌侧，食指和中指，以及无名指的径向半部），但可能涉及整个手。典型表现有：患者夜间可因烧灼样剧烈疼痛而痛醒，伴麻木及针刺感，甩手可减轻不适和恢复知觉。后期可有鱼际萎缩及拇指的对掌和外展无力。
+
+【腕管综合征的诊断】
+临床评估
+临床评估
+有时影像学检查
+有时影像学检查
+有时可行神经传导检测
+有时可行神经传导检测
+Tinel征阳性强烈支持腕管综合征的诊断，即用叩诊锤轻叩腕部掌面腕管内正中神经对应的部位，可再现正中神经的感觉异常。屈腕时出现手指刺麻感（Phalen征）或压迫腕部中间部位神经后出现刺麻感（正中神经受压测试）也提示腕管综合征。如果压迫神经后30秒内出现麻木症状则考虑为正中神经压迫试验阳性。六项腕管综合征症状量表 (CTS-6) 是使用 6 个临床标准的诊断辅助工具 (1,2)。得分 ≥ 12 与腕管综合征的高概率相关。
+但临床上要与其他的外周神经病变相鉴别有时还是很难的。腕管 MRI 或超声波检查是非侵入性检查，可以确认与腕管综合征相关的正中神经内或周围的变化，但它们不能提供有关神经功能的具体信息。
+如果症状严重或诊断不明确，神经传导测试应对患臂进行诊断并排除单独或共存的多发性周围神经病或更近端压迫性神经病。
+
+【诊断参考】
+1.Grandizio LC, Boualam B, Shea P, et al: The Reliability of the CTS-6 for Examiners With Varying Levels of Clinical Experience.J Hand Surg Am.2022;47(6):501-506.doi:10.1016/j.jhsa.2022.01.024
+1.Grandizio LC, Boualam B, Shea P, et al: The Reliability of the CTS-6 for Examiners With Varying Levels of Clinical Experience.J Hand Surg Am.2022;47(6):501-506.doi:10.1016/j.jhsa.2022.01.024
+2.Graham B: The value added by electrodiagnostic testing in the diagnosis of carpal tunnel syndrome.J Bone Joint Surg Am.2008;90(12):2587-2593.doi:10.2106/JBJS.G.01362
+2.Graham B: The value added by electrodiagnostic testing in the diagnosis of carpal tunnel syndrome.J Bone Joint Surg Am.2008;90(12):2587-2593.doi:10.2106/JBJS.G.01362
+
+【腕管综合征的治疗】
+夹板固定
+夹板固定
+治疗潜在疾病
+治疗潜在疾病
+有时可行皮质类固醇/镇痛药注射
+有时可行皮质类固醇/镇痛药注射
+有时可行手术减压
+有时可行手术减压
+改变电脑键盘的位置或改善其他不符合人体工程学的设计可能有助于缓解症状。此外，腕管综合征的治疗包括用轻型夹板固定腕部 ，尤其在夜间；应用较温和的止痛药（如对乙酰氨基酚，非zai'ti抗炎药等）。
+治疗任何潜在的疾病（如糖尿病、类风湿性关节炎、甲状腺功能减退症）都有助于缓解症状。
+如果这些措施未能控制症状，治疗方案包括手术减压或注射糖皮质激素。无论症状严重程度如何，初始手术治疗的症状恢复效果明显更佳，且在一项大型试验中，近半数接受注射治疗的患者最终接受了手术（1）。然而，部分患者可能更倾向于初始注射治疗方式。手术通过开放式或内窥镜技术对腕管中的正中神经进行减压。对于类固醇注射，将麻醉剂和糖皮质激素的混合物（例如，1.5 mL 4 mg/mL 地塞米松溶液与 1.5 mL 1% 利多卡因混合）注入腕管，注射位置位于掌长肌腱尺侧，靠近腕部远端皱褶。这对于较轻的或与怀孕相关的腕管综合征更有效。
+
+【腕部固定夹板】
+腕部固定夹板
+
+【Treatment reference】
+1.Palmbergen WAC, Beekman R, Heeren AM, et al.Surgery versus corticosteroid injection for carpal tunnel syndrome (DISTRICTS): an open-label, multicentre, randomised controlled trial.Lancet2025;405(10495):2153-2163.doi:10.1016/S0140-6736(25)00368-X
+1.Palmbergen WAC, Beekman R, Heeren AM, et al.Surgery versus corticosteroid injection for carpal tunnel syndrome (DISTRICTS): an open-label, multicentre, randomised controlled trial.Lancet2025;405(10495):2153-2163.doi:10.1016/S0140-6736(25)00368-X
+虽然腕管综合症有很多的危险因素，但大多数情况下是特发性。
+虽然腕管综合症有很多的危险因素，但大多数情况下是特发性。
+典型症状包括手、腕部疼痛伴有刺痛及麻木，沿拇指掌侧，示指，中指以及无名指桡侧分布。
+典型症状包括手、腕部疼痛伴有刺痛及麻木，沿拇指掌侧，示指，中指以及无名指桡侧分布。
+屈腕或压迫正中神经再次出现症状可帮助诊断。
+屈腕或压迫正中神经再次出现症状可帮助诊断。
+治疗上首先进行人体工程学的纠正，然后尝试夹板和止痛药，注射皮质类固醇，对肌无力，肌肉萎缩，症状严重保守治疗无改善的病人进行手术减压。
+治疗上首先进行人体工程学的纠正，然后尝试夹板和止痛药，注射皮质类固醇，对肌无力，肌肉萎缩，症状严重保守治疗无改善的病人进行手术减压。

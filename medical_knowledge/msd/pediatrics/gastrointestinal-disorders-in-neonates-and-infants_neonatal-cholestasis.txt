@@ -1,0 +1,130 @@
+标题：新生儿胆汁淤积症
+来源：https://www.msdmanuals.cn/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/neonatal-cholestasis
+============================================================
+
+每2500名新生儿中约有1名会出现胆汁淤积（1）。其定义为直接（结合）胆红素 > 1 mg/dL (> 17.1 micromol/L)。
+胆汁淤积症从来不是正常的，需要进行评估。
+
+【参考文献】
+1.Amendola M, Squires JE.Pediatric Genetic Cholestatic Liver Disease Overview.2022 Sep 15 [Updated 2023 May 25].In: Adam MP, Feldman J, Mirzaa GM, et al., editors.GeneReviews® [Internet].Seattle (WA): University of Washington, Seattle; 1993-2025.
+1.Amendola M, Squires JE.Pediatric Genetic Cholestatic Liver Disease Overview.2022 Sep 15 [Updated 2023 May 25].In: Adam MP, Feldman J, Mirzaa GM, et al., editors.GeneReviews® [Internet].Seattle (WA): University of Washington, Seattle; 1993-2025.
+
+【新生儿胆汁淤积症的病因】
+胆汁淤积（另见新生儿高胆红素血症）可能由肝外或肝内疾病引起，尽管有些情况是重叠的。
+
+【胆汁淤积的肝外原因】
+最常见的肝外原因为：
+胆道闭锁
+胆道闭锁
+胆道闭锁发生的原因是肝外胆管进行性硬化导致的胆管系统梗阻。在大多数情况下，胆道闭锁在出生后数周出现，可能在肝外（有时是肝内）胆管的炎症和瘢痕形成之后。它在出生时很少存在于早产儿或新生儿中。
+胆汁浓缩综合征也可引起新生儿肝外胆汁淤积症，在囊性纤维化的婴儿中更为常见。
+胆管囊肿很少表现为新生儿胆汁淤积症；这些囊肿在常染色体隐性遗传多囊肾病（1）患者中更为常见。
+
+【胆汁淤积肝内病因】
+肝内原因可以是感染性，同种异体性，代谢/遗传或毒性。
+感染可引起胆汁淤积。感染可能是病毒性的（例如，单纯疱疹病毒、巨细胞病毒、风疹）、细菌性的（例如，革兰氏阳性和革兰氏阴性菌血症、由Escherichia coli[大肠杆菌]引起的尿路感染），或寄生虫性的（例如，弓形体病）。接受肠外营养的新生儿败血症也可导致胆汁淤积。
+妊娠期同种免疫性肝病涉及跨胎盘转运母体IgG抗体，其可诱导补体介导的膜攻击复合物，以致破坏胎儿肝脏。
+代谢性原因包括多种先天代谢缺陷，如半乳糖血症、酪氨酸血症、α1-抗胰蛋白酶缺乏症、脂质代谢紊乱、胆汁酸缺陷、线粒体疾病及脂肪酸氧化缺陷。其他遗传缺陷包括Alagille综合征、囊性纤维化及关节挛缩-肾功能障碍-胆汁淤积（ARC）综合征。还有许多基因突变干扰胆汁正常生成和排泄并引起胆汁淤积；所得疾病被称为进行性家族性肝内胆汁郁积。
+毒性原因主要由于在极早产新生儿或短肠综合征婴儿中长期使用肠外营养所致。新一代肠外营养脂肪乳剂（例如含鱼油和中链甘油三酯的）似乎降低了胆汁淤积的风险(2)。
+特发性新生儿肝炎综合征（巨细胞肝炎）是新生儿肝脏的一种炎症性疾病。其发病率已经降低，并且变得很少，因为改进的诊断研究能够鉴定胆汁淤积的具体原因。
+
+【病因参考文献】
+1.Fabris L, Fiorotto R, Spirli C, et al: Pathobiology of inherited biliary diseases: A roadmap to understand acquired liver diseases.Nat Rev Gastroenterol Hepatol16(8):497–511, 2019.doi: 10.1038/s41575-019-0156-4
+1.Fabris L, Fiorotto R, Spirli C, et al: Pathobiology of inherited biliary diseases: A roadmap to understand acquired liver diseases.Nat Rev Gastroenterol Hepatol16(8):497–511, 2019.doi: 10.1038/s41575-019-0156-4
+2.Guthrie G, Burrin D: Impact of Parenteral Lipid Emulsion Components on Cholestatic Liver Disease in Neonates.Nutrients13(2):508, 2021.doi: 10.3390/nu13020508
+2.Guthrie G, Burrin D: Impact of Parenteral Lipid Emulsion Components on Cholestatic Liver Disease in Neonates.Nutrients13(2):508, 2021.doi: 10.3390/nu13020508
+
+【新生儿胆汁淤积症的病理生理学】
+胆汁淤积症患儿的胆汁排泌障碍，导致血液中结合胆红素增多，胃肠道胆盐减少。胆盐缺乏可导致脂肪和脂溶性维生素吸收不良（维生素A、D、E、K），引起维生素缺乏症、营养不良和生长发育障碍。
+
+【新生儿胆汁淤积的症状和体征】
+胆汁淤积通常在出生后前两周出现。深色尿液（含有结合胆红素）、灰白色粪便和肝肿大有助于区分胆汁淤积与生理性黄疸和新生儿黄疸的其他原因。
+如果胆汁淤积持续存在，则常有慢性瘙痒，还会有脂溶性维生素缺乏的症状和体征，生长缓慢。
+如果潜在病因引起肝纤维化和肝硬化，则可能发展为门脉高压，随后由于腹水导致腹部膨胀，腹部静脉扩张，以及食管静脉曲张所致的上消化道出血。
+
+【新生儿胆汁淤积的诊断】
+总胆红素和直接胆红素
+总胆红素和直接胆红素
+肝功能检查
+肝功能检查
+代谢性，感染性和遗传性病因检查
+代谢性，感染性和遗传性病因检查
+肝脏超声
+肝脏超声
+肝胆扫描
+肝胆扫描
+偶尔需进行肝脏活检、手术胆管造影
+偶尔需进行肝脏活检、手术胆管造影
+任何在出生后2周（如果是母乳喂养且体格检查及尿便颜色正常则为3周后）出现黄疸的婴儿，都应接受胆汁淤积评估，包括总胆红素和直接胆红素水平检测（1）。一些专家主张，母乳喂养的黄疸婴儿在3周龄之前不需要进行评估。初期的方法应该针对诊断可治疗的疾病（例如，肝外胆管闭锁，早期外科手术干预可改善短期预后）。
+胆汁淤积通过总胆红素和直接胆红素同时升高来识别。 进一步评估肝脏所需的测试包括白蛋白、分级血清胆红素、肝酶、凝血酶原时间/部分凝血活酶时间 (PT/PTT) 和氨水平（见胆汁淤积测试）。
+一旦证实胆汁淤积，需要检查以确定病因（见表新生儿胆汁淤积症的诊断评价），和吸收不良的证据（如脂溶性维生素E、D、 K和A含量低，或PT延长，提示维生素K含量低）。
+
+【新生儿胆汁淤积的诊断性评估】
+新生儿胆汁淤积的诊断性评估
+肝脏损害
+白蛋白，氨，PT/PTT，AST，ALT，GGT，总胆红素和直接胆红素（见胆汁淤积症检测）
+尿液培养、TORCH 滴度、HIV 筛查和其他肝炎（甲型、乙型和丙型肝炎）
+内分泌病
+促甲状腺激素,甲状腺素
+囊性纤维化
+汗液氯化物试验, 回顾新生儿筛查试验
+半乳糖血症
+新生儿筛查，尿液中还原性物质（例如，半乳糖）（见半乳糖血症的诊断）
+α1-抗胰蛋白酶缺乏症
+血清alpha1-抗胰蛋白酶水平、alpha1-抗胰蛋白酶表型检测
+胆汁合成方面的遗传学疾病
+尿液和血液中的胆汁酸浓度
+基因检测
+先天性代谢缺陷
+尿液有机酸，血清氨，血清电解质（另见遗传代谢疾病的检测）
+同种免疫性肝病
+回顾产妇的产科病史，以了解胎儿死亡和/或先前婴儿有胆汁淤积的情况
+甲胎蛋白、铁蛋白、血脂谱
+ALT = 丙氨酸氨基转移酶；AST = 天冬氨酸氨基转移酶；GGT=γ-谷氨酰转肽酶；凝血酶原时间/部分凝血活酶时间=PT/PTT；TORCH=弓形虫病、其他病原体、风疹、巨细胞病毒和单纯疱疹；TSH=促甲状腺激素。
+ALT = 丙氨酸氨基转移酶；AST = 天冬氨酸氨基转移酶；GGT=γ-谷氨酰转肽酶；凝血酶原时间/部分凝血活酶时间=PT/PTT；TORCH=弓形虫病、其他病原体、风疹、巨细胞病毒和单纯疱疹；TSH=促甲状腺激素。
+腹部超声检查通常是首次检查；它是无创的，可以评估肝脏大小和胆囊和胆总管的某些异常。但是，它是非特异性的。
+还应进行使用羟基亚氨基二乙酸（HIDA扫描；亦称胆道闪烁显像或肝胆闪烁显像）的肝胆扫描；造影剂排入肠道可排除胆道闭锁，但胆道闭锁、严重的新生儿肝炎和其他原因的胆汁淤积都可能出现排泄不足的情况。患有胆汁淤积症的婴儿在接受HIDA扫描前，通常要服用苯巴比妥5天，以增强胆汁排泄。在一些三级儿科中心，可以进行内镜逆行胰胆管造影术（ERCP）以检查胆道系统的解剖结构。
+当没有做出诊断时，肝活检通常相对较早地进行，有时与手术胆管造影一起进行。胆道闭锁患者通常有门静脉三联征扩大、胆管增生和纤维化增加。新生儿肝炎综合征以小叶紊乱和多核巨细胞为特征。同种免疫性肝病的特征是肝铁储存增加。
+
+【诊断参考文献】
+1.Fawaz R, Baumann U, Ekong U, et al.Guideline for the Evaluation of Cholestatic Jaundice in Infants: Joint Recommendations of the North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition and the European Society for Pediatric Gastroenterology, Hepatology, and Nutrition.J Pediatr Gastroenterol Nutr.2017;64(1):154-168.doi:10.1097/MPG.0000000000001334
+1.Fawaz R, Baumann U, Ekong U, et al.Guideline for the Evaluation of Cholestatic Jaundice in Infants: Joint Recommendations of the North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition and the European Society for Pediatric Gastroenterology, Hepatology, and Nutrition.J Pediatr Gastroenterol Nutr.2017;64(1):154-168.doi:10.1097/MPG.0000000000001334
+
+【新生儿胆汁淤积症的治疗】
+治疗特定的病因
+治疗特定的病因
+补充维生素A，D，E和K
+补充维生素A，D，E和K
+中链甘油三酯
+中链甘油三酯
+有时使用熊去氧胆酸
+有时使用熊去氧胆酸
+对于疑似胆道闭锁的病例，需行手术探查，必要时实施门肠吻合术（Kasai手术）
+对于疑似胆道闭锁的病例，需行手术探查，必要时实施门肠吻合术（Kasai手术）
+特异性治疗针对病因。早期给予营养支持治疗，补充维生素A、D、E、K (1)。
+对于配方奶喂养的婴儿，应使用富含中链甘油三酯的配方奶，因为在胆盐缺乏的情况下它更容易被吸收。需要足够的热量；婴儿每天可能需要>130卡路里/公斤。对于有部分胆汁流动的婴儿，熊去氧胆酸po qd 或 bid可缓解瘙痒、改善胆汁流动，并可能改善肝脏疾病。
+推测婴儿有胆道闭锁需要用术中胆道造影进行手术探查 (2)。如果证实胆道闭锁，应该进行肝门肠吻合术（Kasai术）。理想的情况是，该手术应该在婴儿出生后的第一个月进行。此后，预后情况显著恶化。术后，许多患者出现显著的慢性问题，包括持续性胆汁淤积、复发性上行性胆管炎以及生长和体重增长迟缓（既往称为发育停滞）。预防性抗生素（例如，甲氧苄啶/磺胺甲恶唑）经常在术后1年开处方以预防上行性胆管炎。即使采用最佳治疗，许多患者仍会发展为肝硬化并最终需要肝移植。
+如果在婴儿出现严重肝病之前停止肠外营养，或者有时用新一代脂肪乳剂替代较旧的脂肪乳剂，则肠外营养引起的胆汁淤积就会消失。
+因为妊娠期同种异体免疫性肝脏疾病没有确定的标志或测试，如果没有明确诊断，需要考虑早期用静脉用丙种球蛋白（IVIG）或交换输血治疗以逆转正在进行的肝损伤(3)。
+
+【治疗参考文献】
+1.Mouzaki M, Bronsky J, Gupte G, et al.Nutrition Support of Children With Chronic Liver Diseases: A Joint Position Paper of the North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition and the European Society for Pediatric Gastroenterology, Hepatology, and Nutrition.J Pediatr Gastroenterol Nutr.2019;69(4):498-511.doi:10.1097/MPG.0000000000002443
+1.Mouzaki M, Bronsky J, Gupte G, et al.Nutrition Support of Children With Chronic Liver Diseases: A Joint Position Paper of the North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition and the European Society for Pediatric Gastroenterology, Hepatology, and Nutrition.J Pediatr Gastroenterol Nutr.2019;69(4):498-511.doi:10.1097/MPG.0000000000002443
+2.Tam PKH, Wells RG, Tang CSM, et al.Biliary atresia.Nat Rev Dis Primers.2024;10(1):47.Published 2024 Jul 11.doi:10.1038/s41572-024-00533-x
+2.Tam PKH, Wells RG, Tang CSM, et al.Biliary atresia.Nat Rev Dis Primers.2024;10(1):47.Published 2024 Jul 11.doi:10.1038/s41572-024-00533-x
+3.Fischer HS, Staufner C, Sallmon H, et al. Early exchange transfusion to treat neonates with gestational alloimmune liver disease: An 11-year cohort study.J Pediatr Gastroenterol Nutr.2020;70(4):444–449.doi:10.1097/MPG.0000000000002593
+3.Fischer HS, Staufner C, Sallmon H, et al. Early exchange transfusion to treat neonates with gestational alloimmune liver disease: An 11-year cohort study.J Pediatr Gastroenterol Nutr.2020;70(4):444–449.doi:10.1097/MPG.0000000000002593
+
+【新生儿胆汁淤积的预后】
+胆汁淤积的预后因特定疾病的不同而不同，其预后的范围从完全良性的结局到导致肝硬化的进展性疾病。
+胆道闭锁是进行性的，如果不治疗，会在几个月大时导致肝硬化和门脉高压，然后在1岁时导致肝功能衰竭和死亡。
+特发性新生儿肝炎综合征通常缓慢缓解，但可能导致永久性肝损伤，进而引发肝衰竭和死亡。
+若不及早干预，妊娠期同种免疫性肝病的预后差。
+新生儿胆汁淤积有许多遗传性和获得性病因，导致胆红素排泄障碍，从而引起结合胆红素过量。
+新生儿胆汁淤积有许多遗传性和获得性病因，导致胆红素排泄障碍，从而引起结合胆红素过量。
+新生儿胆汁淤积通常在生命的前2周被注意到；婴儿出现黄疸，经常有深色尿液，无胆汁粪便和肝肿大。
+新生儿胆汁淤积通常在生命的前2周被注意到；婴儿出现黄疸，经常有深色尿液，无胆汁粪便和肝肿大。
+首先进行肝脏实验室检查、超声、肝胆扫描及特定病因检测，部分病例需行肝活检。
+首先进行肝脏实验室检查、超声、肝胆扫描及特定病因检测，部分病例需行肝活检。
+针对病因进行治疗，并给予支持性护理，包括补充脂溶性维生素；对于以配方奶喂养的婴儿，应选用富含中链甘油三酯并含有足够热量的配方奶。
+针对病因进行治疗，并给予支持性护理，包括补充脂溶性维生素；对于以配方奶喂养的婴儿，应选用富含中链甘油三酯并含有足够热量的配方奶。

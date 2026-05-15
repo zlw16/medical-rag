@@ -1,0 +1,18 @@
+标题：机械通气的撤离
+来源：https://www.msdmanuals.cn/professional/critical-care-medicine/respiratory-failure-and-mechanical-ventilation/liberation-from-mechanical-ventilation
+============================================================
+
+(参见机械通气概述。）
+一旦消除了呼吸衰竭的诱因，就不再需要呼吸机。然而如果病因持续存在或不能完全纠正，降低所需的通气支持参数可能会延缓疾病的恢复。与使用同步间歇指令通气(SIMV)逐渐降低呼吸频率相比，每日使用T管进行自主呼吸试验能缩短机械通气的时间。此外，一项临床试验将'要求更高'的2小时T管试验与'要求较低'的30分钟压力支持试验进行比较，结果表明采用'要求较低'的30分钟压力支持通气提高了成功拔管率，且未增加再插管风险(1)。
+一旦患者休克状态得到纠正，在吸入 O2浓度分数(FiO2)≤0.5、呼气末正压通气（PEEP）≤7.5cmH2O柱参数下，能够维持充足的动脉血氧饱和度而无明显的不可持续的呼吸负荷（如，每分钟通气>20L/min），即可采用T形管或5cmH2O柱水平的持续气道正压通气（CPAP）模式进行每日自主呼吸试验。
+能够维持自主呼吸的患者通常呼吸缓慢而深，而不是快速和浅呼吸。这一观察结果被正式化为浅快呼吸指数（RSBI），通过将患者的无辅助呼吸频率（以呼吸/分钟为单位）除以潮气量（以L为单位）来确定。数值<105提示自主呼吸很可能成功，尽管单次独立的测量并不能完美预测成功与否(2)。
+自主呼吸试验后是否拔管已从依靠浅快呼吸指数转向更多依靠试验期间结合血气的临床评估。好的拔管指征是：患者在1-2小时的自主呼吸试验期间表现良好，且血气分析结果也很满意。决定拔管不同于决定停止通气支持，需要评估患者的精神状态、气道保护性反射以及气道通畅度。
+镇静药和阿片类药物会延长机械通气时间。这些药物在体内积蓄使镇静作用延长，即使呼吸衰竭的病因已纠正，患者也很难完成自主呼吸试验。因此，应不断评估镇静水平以尽早开始逐步停用镇静剂。可采用标准化方案，或简单地每日中断镇静（即每日唤醒）。停用镇静，直到患者清醒而且可遵嘱运动。如果患者出现躁动、人机对抗或其他生理紊乱时，才需要再用镇静剂。如果病人停用镇静后发现仍需镇静，可从之前的半量开始，根据需要逐步加量。有些研究显示采用每日“镇静中止”或其他镇静方案，和采用每日自主呼吸试验一样，都能缩短机械通气的平均时间(3)。
+
+【参考文献】
+1.Subira C, Hernandez G, Vazquez A, et al: Effect of pressure support vs T-piece ventilation strategies during spontaneous breathing trials on successful extubation among patients receiving mechanical ventilation: A randomized clinical trial.JAMA321(22):2175-2182, 2019.doi: 10.1001/jama.2019.7234
+1.Subira C, Hernandez G, Vazquez A, et al: Effect of pressure support vs T-piece ventilation strategies during spontaneous breathing trials on successful extubation among patients receiving mechanical ventilation: A randomized clinical trial.JAMA321(22):2175-2182, 2019.doi: 10.1001/jama.2019.7234
+2.Karthika M, Al Enezi FA, Pillai LV, Arabi YM: Rapid shallow breathing index.Ann Thorac Med11(3):167–176, 2016.doi: 10.4103/1817-1737.176876
+2.Karthika M, Al Enezi FA, Pillai LV, Arabi YM: Rapid shallow breathing index.Ann Thorac Med11(3):167–176, 2016.doi: 10.4103/1817-1737.176876
+3.Kress JP, Pohlman AS, O'Connor MF, Hall JB: Daily interruption of sedative infusions in critically ill patients undergoing mechanical ventilation.N Engl J Med342(20):1471–1477, 2000.doi:10.1056/NEJM200005183422002
+3.Kress JP, Pohlman AS, O'Connor MF, Hall JB: Daily interruption of sedative infusions in critically ill patients undergoing mechanical ventilation.N Engl J Med342(20):1471–1477, 2000.doi:10.1056/NEJM200005183422002

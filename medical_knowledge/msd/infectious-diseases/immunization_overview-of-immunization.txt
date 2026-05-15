@@ -1,0 +1,373 @@
+标题：免疫接种概述
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/immunization/overview-of-immunization
+============================================================
+
+可以通过以下方式获得免疫力：
+使用抗原（如疫苗、类毒素）主动获得
+使用抗原（如疫苗、类毒素）主动获得
+或者通过使用抗体（如免疫球蛋白、抗毒素）被动获得。
+或者通过使用抗体（如免疫球蛋白、抗毒素）被动获得。
+类毒素是一种细菌外毒素，被减毒后丧失了毒性但仍能刺激机体产生抗体。
+疫苗是一种由完整的（活的或灭活的）或组分化的细菌、病毒或原虫制成的非致病性混悬液。
+疫苗接种对于预防严重疾病和促进世界健康来说，是非常有效的。  因为有了疫苗，许多此前普遍发生的或致命的传染病（如天花、脊髓灰质炎、白喉）现在已经很少见或被消灭了。 然而，除了天花，这些感染仍然发生在世界上医疗服务不足的地区。
+许多重要感染尚无有效疫苗，包括以下类型：
+大多数性传播疾病（如：HIV感染、疱疹、梅毒、淋病和衣原体感染）
+大多数性传播疾病（如：HIV感染、疱疹、梅毒、淋病和衣原体感染）
+蜱传播的感染（如：莱姆病、埃立克体病和无形体病、巴贝斯虫病）
+蜱传播的感染（如：莱姆病、埃立克体病和无形体病、巴贝斯虫病）
+许多热带疾病（例如，恰加斯病）
+许多热带疾病（例如，恰加斯病）
+许多新出现的疾病（如：西尼罗河病毒感染、寨卡病毒感染）。
+许多新出现的疾病（如：西尼罗河病毒感染、寨卡病毒感染）。
+世界卫生组织 (WHO) 建议在中度至高度Plasmodium falciparum（恶性疟原虫）疟疾传播地区的儿童中广泛使用 RTS,S/AS01 (RTS,S) 和 R21/Matrix-M疟疾疫苗 (1)。
+对于每种疫苗（含添加剂）的具体成分，请参阅该疫苗的prescribing information（药品说明书）。
+美国常规免疫接种建议可查阅疾病控制与预防中心（CDC）官网的Child and Adolescent Immunization Schedule by Age和Adult Immunization Schedule by Age以及free mobile app。
+有关2025年成人免疫接种计划的变更摘要，请参阅免疫接种实践咨询委员会（ACIP）Recommended Adult Immunization Schedule for Adults Aged 19 Years or Older, United States, 2025（《2025 年美国 19 岁及以上成人推荐免疫接种时间表》）。（另见表格疫苗）。
+美国儿科学会（AAP）的建议可在18岁及以下儿童和青少年推荐免疫接种程序获取。
+尽管有临床指导以及疫苗可预防疾病的负担和后果，但一些成年人并未接种推荐的疫苗。在美国，大多数疫苗在成年人中的接种覆盖率仍然很低。此外，所有疫苗的覆盖率因人种和族裔而异，黑种人和西班牙裔成人的覆盖率通常低于白种人成人（2）。
+某些疫苗，通常建议所有人（之前未接种过或未感染过某一病原）在某一特定年龄时常规接种。 其他疫苗（如狂犬病疫苗、卡介苗、伤寒疫苗、黄热病疫苗）不是常规接种的，但仅推荐用于特定人群和情况。
+炭疽疫苗（参见CDC）
+灭活的菌体
+肌肉注射
+结核病卡介苗疫苗（参见CDC(美国疾病控制与预防中心)）
+活Mycobacteria bovis（牛分枝杆菌）
+皮内注射
+基孔肯雅热疫苗（见CDC）
+基孔肯雅病毒LR2006 OPY1株衍生的减毒活疫苗
+肌肉注射
+塞内加尔37997株模拟基孔肯雅病毒抗原的重组VLP
+肌肉注射
+霍乱疫苗（参见CDC）
+减毒活疫苗
+SARS-CoV-2 病毒 (COVID-19) mRNA 疫苗（参见美国疾病控制与预防中心）
+病毒mRNA
+肌肉注射
+SARS-CoV-2 病毒 (COVID-19) 重组刺突蛋白纳米颗粒疫苗（参见CDC）
+含有佐剂且包含SARS-CoV-2刺突蛋白的重组形式
+肌肉注射‡
+登革热四价疫苗（参见CDC(美国疾病控制与预防中心)和参见WHO（美国疾病控制与预防中心））
+四价减毒活疫苗
+白喉类毒素/破伤风类毒素/无细胞百日咳/b 型流感嗜血杆菌结合疫苗/灭活脊髓灰质炎病毒疫苗 (DTaP-IPV-Hib)（见美国疾病控制中心（CDC）)
+类毒素、灭活菌、灭活的脊髓灰质炎病毒和细菌多糖与蛋白质的偶合物
+肌肉注射
+白喉类毒素/乙型肝炎疫苗/脊髓灰质炎灭活疫苗（DTaP-HepB-IPV）（见CDC(美国疾病控制与预防中心)）
+类毒素、病毒的抗原重组体和灭活的脊髓灰质炎病毒
+肌肉注射
+白喉类毒素/破伤风类毒素/无细胞百日咳/灭活脊髓灰质炎病毒疫苗（见美国疾病预防控制中心（CDC）) (DTaP-IPV)
+类毒素、灭活菌和灭活的脊髓灰质炎病毒
+肌肉注射
+白喉/破伤风类毒素/百日咳疫苗（参见CDC）
+类毒素和灭活菌组成
+肌肉注射
+吸附白喉类毒素/破伤风类毒素，白破（DT），破伤风（Td）（参见美国疾病控制与预防中心）¶
+灭活毒素（类毒素）
+肌肉注射‡
+Ebola (rVSV-ZEBOV) （见CDC)
+重组减毒活疫苗（仅能抵御Zaire ebolavirus（扎伊尔埃博拉病毒）物种）
+肌肉注射
+b型流感嗜血杆菌结合疫苗（Hib）（参见CDC(美国疾病控制与预防中心)）
+细菌多糖与蛋白质的偶合物
+肌肉注射
+甲型肝炎疫苗（HepA）（见美国疾病控制与预防中心）
+灭活病毒
+肌肉注射
+乙型肝炎疫苗（HepB）（见美国疾病控制与预防中心）
+病毒的抗原重组体
+肌肉注射
+甲型肝炎疫苗/乙型肝炎 (HepA/HepB) 疫苗（见美国疾病预防与控制中心（CDC）)
+灭活病毒加抗原重组体
+肌肉注射
+人乳头瘤病毒疫苗（见CDC(美国疾病控制与预防中心)）
+HPV L1主要衣壳蛋白的VLP：
+二价疫苗（HPV 16 型和 18 型）
+二价疫苗（HPV 16 型和 18 型）
+四价疫苗（HPV 6、11、16、18型），及
+四价疫苗（HPV 6、11、16、18型），及
+九价疫苗（HPV 6、11、16、18、31、33、45、52、58型）
+九价疫苗（HPV 6、11、16、18、31、33、45、52、58型）
+肌肉注射
+注射流感疫苗（参见CDC(美国疾病控制与预防中心)）
+灭活的A型和B型流感病毒或病毒成分
+肌肉注射或皮内注射
+鼻内流感疫苗（参见CDC）
+活性甲型和乙型流感病毒
+日本脑炎病毒疫苗（参见CDC(美国疾病控制与预防中心))）
+灭活病毒
+皮下或肌肉注射
+疟疾疫苗（RTS,S/AS01）（参见CDC（疾病预防控制中心）和WHO（世界卫生组织））
+重组蛋白亚单位；包含恶性疟原虫环孢子虫蛋白（CSP）的RTS,S抗原和乙型肝炎表面抗原（HBsAg），并使用AS01佐剂。
+肌肉注射‡
+疟疾疫苗（R21/Matrix-M）（参见CDC（疾病预防控制中心）和WHO（世界卫生组织））
+重组蛋白亚单位；包含P. falciparum（恶性疟原虫）环孢子虫蛋白（CSP）的R21抗原和乙型肝炎表面抗原（HBsAg），并使用Matrix-M佐剂。
+肌肉注射‡
+麻疹/腮腺炎/风疹疫苗（参见CDC）
+皮下或肌肉注射
+麻疹病毒/腮腺炎病毒/风疹病毒/水痘病毒疫苗 (MMRV)（参见CDC(美国疾病控制与预防中心)）
+皮下注射或肌肉注射
+脑膜炎球菌结合疫苗（4价）(MenACWY-CRM 或 MenACWY-TT)（参见CDC(美国疾病控制与预防中心)）
+A、C、W-135和Y血清群的细菌多糖
+肌肉注射
+B群脑膜炎球菌疫苗（4价）（MenB-FHbp）和B群脑膜炎球菌疫苗（3价）（MenB-4C）（见CDC(美国疾病控制与预防中心)）
+由2种抗原组成的重组疫苗（FHbp）
+肌肉注射
+脑膜炎球菌结合疫苗（5价）(MenACWY-TT/MenB-FHbp)（参见CDC(美国疾病控制与预防中心)）
+结合疫苗；A、B、C、W-135和Y血清群的多糖分别与破伤风类毒素结合，以及2种重组脂化因子H结合蛋白（FHbp）B血清群变异体。
+肌肉注射
+脑膜炎球菌 A、B、C、W 和 Y 群疫苗（五价）(MenACWY-CRM/MenB-FHbp)（参见CDC(美国疾病控制与预防中心)）
+A、C、Y 和 W-135 血清群的寡糖与白喉 CRM197 蛋白以及重组脂化 B 群 FHbp 变体结合
+肌肉注射
+Mpox（猴痘）疫苗（天花和猴痘疫苗）（参见CDC(美国疾病控制与预防中心)）
+活的、非复制型痘苗病毒
+皮下，或皮内通过多次穿刺装置
+肺炎球菌疫苗，结合物 (PCV15)（参见CDC）
+15种类型的多糖，与白喉毒素结合
+肌肉注射
+肺炎球菌疫苗，结合物 (PCV20)（参见CDC）
+20种类型的多糖，与白喉毒素结合
+肌肉注射
+肺炎球菌疫苗，结合物 (PCV21)（参见CDC）
+21种类型的多糖，与白喉毒素结合
+肌肉注射
+肺炎球菌疫苗，多糖 (PPSV23)（参见CDC）
+23种肺炎球菌的细菌多糖
+肌注或皮下
+脊髓灰质炎病毒灭活疫苗 (IPV)（参见美国疾病控制与预防中心）
+所有3种血清型的灭活病毒
+肌注或皮下
+狂犬病疫苗（参见CDC）
+灭活病毒
+皮内注射§或肌肉注射
+呼吸道合胞病毒 (RSV) 疫苗（参见CDC）
+重组病毒糖蛋白抗原
+肌肉注射
+轮状病毒疫苗（参见美国疾病控制与预防中心）
+天花疫苗（参见美国疾病控制与预防中心）
+活牛痘病毒
+用多点穿刺针皮内注射
+破伤风类毒素（参见CDC）¶
+灭活毒素（类毒素）
+肌肉注射‡
+蜱传脑炎疫苗（参见CDC）
+灭活病毒
+肌肉注射
+伤寒疫苗（ViCPS）（参见CDC(美国疾病控制与预防中心)）
+荚膜多糖
+肌肉注射
+伤寒疫苗（Ty21a）（参见CDC(美国疾病控制与预防中心)）
+减毒活疫苗
+水痘病毒疫苗（见CDC(美国疾病控制与预防中心)）
+皮下或肌肉注射
+黄热病疫苗（参见CDC）
+皮下注射
+带状疱疹疫苗（参见美国疾病控制与预防中心）
+重组的，佐剂的
+肌肉注射‡
+* 本表所列疫苗清单并不详尽，会定期更新。可接种的疫苗种类因国家而异。
+† 破伤风-白喉与白喉-破伤风-百日咳或白喉-破伤风含有等量的破伤风类毒素，但白喉类毒素的剂量有所减少。
+‡含佐剂的制剂应肌肉注射给药。
+§皮内注射剂量要减少，只能用于暴露前的免疫接种。
+仅含有破伤风类毒素（TT）的制剂也可获得，但不推荐使用，因为两种抗原都需要定期加强免疫。
+CDC = 美国疾病控制和预防中心；IM = 肌肉注射；TT = 破伤风类毒素；VLP = 病毒样颗粒；WHO = 世界卫生组织。
+此处信息改编自免疫接种实践咨询委员会的疫苗建议(ACIP)。Accessed March 2025.
+* 本表所列疫苗清单并不详尽，会定期更新。可接种的疫苗种类因国家而异。
+† 破伤风-白喉与白喉-破伤风-百日咳或白喉-破伤风含有等量的破伤风类毒素，但白喉类毒素的剂量有所减少。
+‡含佐剂的制剂应肌肉注射给药。
+§皮内注射剂量要减少，只能用于暴露前的免疫接种。
+仅含有破伤风类毒素（TT）的制剂也可获得，但不推荐使用，因为两种抗原都需要定期加强免疫。
+CDC = 美国疾病控制和预防中心；IM = 肌肉注射；TT = 破伤风类毒素；VLP = 病毒样颗粒；WHO = 世界卫生组织。
+此处信息改编自免疫接种实践咨询委员会的疫苗建议(ACIP)。Accessed March 2025.
+
+【参考文献】
+1.World Health Organization (WHO).Malaria vaccine implementation programme.Accessed June 10, 2025.
+1.World Health Organization (WHO).Malaria vaccine implementation programme.Accessed June 10, 2025.
+2.Centers for Disease Control and Prevention (CDC).Vaccination Coverage among Adults in the United States, National Health Interview Survey, 2022.
+2.Centers for Disease Control and Prevention (CDC).Vaccination Coverage among Adults in the United States, National Health Interview Survey, 2022.
+
+【疫苗接种】
+疫苗应完全按照prescribing information（药品说明书）上的建议接种。不依从或其他因素可能导致个别患者的疫苗接种时间发生变化；对于大多数疫苗而言，即便延长剂次间的接种间隔，也不会影响疫苗效力（即不会降低抗体应答浓度）（1）。如果系列接种的疫苗（例如，乙肝疫苗或人乳头瘤病毒疫苗）被中断，只要推荐的接种间隔已经过去，临床医师就应在患者下次就诊时给予下一次推荐的剂量。 他们不需要从头再接种一遍。
+注射疫苗通常采用肌内注射方式，对婴幼儿注射于大腿中段外侧，对学龄儿童及成人则可注射于三角肌。 有些疫苗需要皮下注射。 有关疫苗接种的详细信息，请参阅CDC: 疫苗管理、来自 Immunize.org的为成人接种疫苗以及CDC: 疫苗接种。
+对于上肢淋巴水肿患者（如乳腺癌患者），最佳做法是使用另一只手臂或其他位置。
+与疫苗接种相关的肩部损伤（SIRVA）可能是由于疫苗意外注入肩部三角肌下方的组织和结构中所致 。
+临床医生应该制定一个流程，在患者每次随访时都应了解一下疫苗接种的状态，以此保证疫苗能够按照推荐的方法接种并做好记录 (2)。应当鼓励患者（或看护者）保有一份疫苗接种史的记录（书面或电子格式），并能够将其与新的医疗从业人员和机构共享，确保疫苗接种是最新的 (3,4)。
+
+【要点与误区】
+要点与误区
+对于所有常规接种疫苗，如果疫苗系列中断，临床医生应在患者再次出现时给予下一推荐剂量，前提是推荐的剂量间隔已过；他们不应该重新开始这个系列（即从第1剂开始）。
+对于所有常规接种疫苗，如果疫苗系列中断，临床医生应在患者再次出现时给予下一推荐剂量，前提是推荐的剂量间隔已过；他们不应该重新开始这个系列（即从第1剂开始）。
+
+【成人疫苗接种指南】
+成人疫苗接种指南
+针头大小
+按接种途径
+皮下注射
+23-25 gauge
+16毫米（5/8英寸）
+针头应以 45° 角刺入肱三头肌上方的脂肪组织中。
+肌内注射
+22–25 号针头，用于三角肌注射
+针头长度由性别和体重决定。针头应以 90° 角插入。
+皮内注射
+30号针头
+1.5毫米（0.05英寸）
+首选接种部位为上臂三角肌区域。针头应以10至15度角近乎平行于皮肤刺入。
+按性别和体重进行肌注
+男性或女性：<60kg，或60-70kg
+22-25 gauge
+25毫米（1英寸）
+16 毫米（5/8 英寸）的针头可用于三角肌的肌内注射，但前提是皮下组织未被捏起，且注射需以 90° 角进行。
+女性：70～90千克
+22-25 gauge
+25–38毫米（1–1.5英寸）
+男性： 70～118千克
+22-25 gauge
+25–38毫米（1–1.5英寸）
+女性：>90千克
+22-25 gauge
+38毫米（1.5英寸）
+男性：大于118千克
+22-25 gauge
+38毫米（1.5英寸）
+Data fromCDC: Vaccines Administration.June 2024 and fromDoyle G, McCutcheon J.Development of an Open Source Educational Resource: "Clinical Procedures for Safer Patient Care".Stud Health Technol Inform.2016;225:979-980.
+Data fromCDC: Vaccines Administration.June 2024 and fromDoyle G, McCutcheon J.Development of an Open Source Educational Resource: "Clinical Procedures for Safer Patient Care".Stud Health Technol Inform.2016;225:979-980.
+
+【不同疫苗同时接种】
+鲜有例外，疫苗同时接种是安全、有效且方便的；尤其推荐在儿童可能无法在未来接种疫苗，或成人在国际旅行前需要接种多种疫苗时进行。但有一个例外：功能性或解剖性无脾儿童不能同时接种肺炎球菌结合疫苗 和脑膜炎球菌结合疫苗MenACWY-D。但是这两种疫苗可以分别接种，彼此间隔≥4周。若需同时接种脑膜炎球菌 B 群疫苗与 A、C、W、Y 群疫苗（此前这两类疫苗仅能分开接种），则推荐使用 MenACWY-MenB 联合疫苗（5）。
+同时接种疫苗包括使用联合疫苗（见表美国现有疫苗表）或接种≥1种单抗原疫苗。 通过选择不同的注射部位和注射器可以在同一时间接种一种以上的疫苗。
+如果未同时接种活病毒疫苗（如水痘疫苗、麻疹/腮腺炎/风疹联合疫苗[MMR]），则两次接种间隔应≥4 周（1）。
+许多儿童疫苗建议同时接种，特别在出生后第一年。通常疫苗是按优化效力的接种方案设计使用的。尽管一些患者可能担心过多的抗原暴露，但在日常生活中，免疫系统暴露于更多的抗原。（参见多个疫苗的同时应用。）
+
+【疫苗接种参考文献】
+1.National Center for Immunization and Respiratory Diseases.General recommendations on immunization --- recommendations of the Advisory Committee on Immunization Practices (ACIP) [published correction appears inMMWR Recomm Rep. 2011 Jul 29;60:993].MMWR Recomm Rep.2011;60(2):1-64
+1.National Center for Immunization and Respiratory Diseases.General recommendations on immunization --- recommendations of the Advisory Committee on Immunization Practices (ACIP) [published correction appears inMMWR Recomm Rep. 2011 Jul 29;60:993].MMWR Recomm Rep.2011;60(2):1-64
+2.Centers for Disease Control and Prevention.Chapter 3: Immunization Strategies for Healthcare Practices and Providers.CDC Pink Book.2021.Accessed April 17, 2025.
+2.Centers for Disease Control and Prevention.Chapter 3: Immunization Strategies for Healthcare Practices and Providers.CDC Pink Book.2021.Accessed April 17, 2025.
+3.National Vaccine Advisory Committee.Recommendations from the National Vaccine Advisory committee: standards for adult immunization practice.Public Health Rep.2014;129(2):115-123.doi:10.1177/003335491412900203
+3.National Vaccine Advisory Committee.Recommendations from the National Vaccine Advisory committee: standards for adult immunization practice.Public Health Rep.2014;129(2):115-123.doi:10.1177/003335491412900203
+4.Centers for Disease Control and Prevention.Adult Immunization Standards.2024.Accessed February 19, 2025.
+4.Centers for Disease Control and Prevention.Adult Immunization Standards.2024.Accessed February 19, 2025.
+5.Collins JP, Crowe SJ, Ortega-Sanchez IR, et al.Use of the Pfizer Pentavalent Meningococcal Vaccine Among Persons Aged ≥10 Years: Recommendations of the Advisory Committee on Immunization Practices - United States, 2023.MMWR Morb Mortal Wkly Rep.2024;73(15):345-350.Published 2024 Apr 18.doi:10.15585/mmwr.mm7315a4
+5.Collins JP, Crowe SJ, Ortega-Sanchez IR, et al.Use of the Pfizer Pentavalent Meningococcal Vaccine Among Persons Aged ≥10 Years: Recommendations of the Advisory Committee on Immunization Practices - United States, 2023.MMWR Morb Mortal Wkly Rep.2024;73(15):345-350.Published 2024 Apr 18.doi:10.15585/mmwr.mm7315a4
+
+【接种限制条件、注意事项和高危群体】
+限制和注意事项是指会增加疫苗接种不良反应风险或减弱接种疫苗之免疫效应的情况。  这些情况通常是暂时的，这意味着该疫苗可在之后的时间点予以接种。 在某些情况下，即便存在接种禁忌的警示，也仍建议接种疫苗，因为疫苗的保护效益超过了其可能带来的不良反应风险。
+禁忌证是指，存在着增加疫苗接种严重不良反应风险的情况。  当禁忌证存在时不宜接种疫苗。
+对于许多疫苗而言，唯一的禁忌证是拟接种者对疫苗或其某一成分存在严重的过敏反应。
+鸡蛋过敏在美国很常见。一些在细胞培养系统中生产的疫苗，包括大多数流感疫苗，含有微量的卵抗原。美国疾病控制与预防中心的流感疫苗指南指出，有鸡蛋过敏史的患者应该接种流感疫苗。除了建议接种任何疫苗的人采取的安全措施外，对鸡蛋过敏的人接种流感疫苗时无需采取额外的安全措施，无论之前对鸡蛋的反应严重程度如何。 任何基于疫苗接种者年龄和健康状况进行推荐的流感疫苗都可以使用。 然而，对鸡蛋蛋白的严重过敏反应是黄热病疫苗的禁忌症（黄热病疫苗用于前往流行地区的旅行者）。
+根据美国疾病控制与预防中心 (CDC) 的说法，对硫柳汞（一种含汞化合物）的局部或迟发性超敏反应并非接种含硫柳汞疫苗的禁忌证（参见 CDC：Thimerosal and Vaccines（硫柳汞和疫苗））。自20世纪90年代末以来，疫苗中硫柳汞的使用已大幅减少，主要是因为公众对汞暴露的担忧。
+
+【吉兰-巴雷综合征】
+在接种过流感疫苗或百白破无细胞型疫苗（DTap）后6周内发生吉兰-巴雷综合征（GBS）的患者若经评估认为接种疫苗的益处大于风险，可以接种疫苗。 例如，对于接种完 DTaP 后发生了吉兰-巴雷综合征的患者，如果出现百日咳疫情暴发，临床医生可以考虑给予疫苗接种；但具体决策应咨询传染病专家。
+个别报告显示某些COVID-19疫苗（特别是Ad26.COV2.S疫苗 (1）接种后可能发生GBS。但与COVID-19感染本身相关的GBS风险相比，疫苗接种后GBS发生率仍较低 (2)。Ad26.COV2.S 疫苗已不再可用。
+尽管在疫苗说明书中仍将格林-巴利综合征（GBS）病史列为一种注意事项（见美国疾病控制与预防中心：脑膜炎球菌疫苗安全性信息），但免疫实践咨询委员会（ACIP）已不再将其视为使用脑膜炎球菌结合疫苗的禁忌证或预防性警示。
+
+【发热或其他急性疾病】
+显著发热（体温>39°C或更高）或无发热的重症疾病需要延迟接种疫苗，但轻微感染（如普通感冒，即使伴有低热）则无需延迟。 该预防措施为了防止潜在的疾病表现和疫苗可能的不良反应发生混淆并预防潜在的疾病与疫苗不良反应的发生叠加。 如果可能的话，疫苗接种应推迟到疾病缓解后。
+怀孕是接种麻疹-腮腺炎-风疹疫苗（MMR疫苗）、鼻内流感疫苗（活疫苗）、水痘疫苗、基孔肯雅疫苗、黄热病疫苗以及任何其他活病毒疫苗的禁忌症。对于怀孕患者，除非患者风险增加且疫苗接种的益处大于潜在风险，否则应将MenB疫苗接种推迟到怀孕之后。
+免疫实践咨询委员会建议推迟接种人乳头瘤病毒9价疫苗和重组带状疱疹疫苗，直至分娩后（参见Adult Immunization Schedule by Medical Condition and Other Indication（成人免疫接种时间表（按健康状况及其他适应症分类））。
+
+【免疫受损】
+一般情况下，免疫系统功能受损的患者不应接种活病毒疫苗，因为活病毒疫苗可能会导致严重甚至致命的感染。 如果免疫功能低下是由免疫抑制治疗（如大剂量糖皮质激素[≥20毫克强的松或相当剂量的其他激素；使用≥2周]、抗代谢药物[如抗癌治疗]、免疫调节剂、烷基化化合物以及辐射）引起的，应暂停活病毒疫苗，直至免疫系统恢复后再接种（等待接种的时间间隔取决于所使用的治疗方案）。 因各种疾病（包括皮肤病、胃肠病、风湿病和肺病）而服用免疫抑制药物的患者不应接种活病毒疫苗。  对于长期接受免疫抑制治疗的病人，临床医生应与传染病学专家就疫苗接种和/或再接种的风险及益处进行商讨。
+
+【经验与提示】
+经验与提示
+不应将活病毒疫苗给予免疫功能低下的患者。
+不应将活病毒疫苗给予免疫功能低下的患者。
+艾滋病毒感染者通常应按常规建议接种灭活疫苗（如白喉-破伤风-无细胞百日咳 [Tdap] 疫苗、脊髓灰质炎灭活疫苗 [IPV]、b 型Haemophilus influenzae（流感嗜血杆菌）结合疫苗 [Hib]）。尽管一般不建议予以活病毒疫苗，但是在CD4计数≥200/mcL（即免疫功能低下不太严重）时，HIV感染者可给予某些活病毒疫苗，包括麻疹-腮腺炎-风疹疫苗（MMR）。HIV 感染患者如未接种过结合型肺炎球菌疫苗，或既往接种史不详，应接种 PCV15、PCV20 或 PCV21；若接种 PCV15，则需在接种后 ≥8 周追加 PPSV23。
+无脾症患者易发生严重的菌血症感染，主要是因为受到Streptococcus pneumoniae（肺炎链球菌）、Neisseria meningitidis（B 型流感嗜血杆菌）或Haemophilus influenzae（脑膜炎奈瑟菌）等有荚膜细菌的感染。成人无脾患者应接种以下疫苗（如果可能，应在脾切除术前接种）：
+Hib结合疫苗：单次接种，没有加强免疫。
+Hib结合疫苗：单次接种，没有加强免疫。
+脑膜炎球菌结合疫苗(MenACWY)：患者至少间隔 8 周接种 2 剂，每 5 年接种一次加强剂。
+脑膜炎球菌结合疫苗(MenACWY)：患者至少间隔 8 周接种 2 剂，每 5 年接种一次加强剂。
+B型脑膜炎球菌疫苗(MenB)：患者需接种2剂MenB-4C（间隔≥1个月）或3剂MenB-FHbp（分别在0、1-2个月和6个月接种；若第2剂与第1剂间隔≥6个月则无需第3剂；若第3剂在第2剂后<4个月接种，则需在第3剂后≥4个月接种第4剂）。MenB-4C与MenB-FHbp不可互换使用（同一接种系列中所有剂次必须使用同一产品）。患者在初次接种后1年服用1剂MenB加强针，如果风险仍然存在，每2至3年重新接种一次。
+B型脑膜炎球菌疫苗(MenB)：患者需接种2剂MenB-4C（间隔≥1个月）或3剂MenB-FHbp（分别在0、1-2个月和6个月接种；若第2剂与第1剂间隔≥6个月则无需第3剂；若第3剂在第2剂后<4个月接种，则需在第3剂后≥4个月接种第4剂）。MenB-4C与MenB-FHbp不可互换使用（同一接种系列中所有剂次必须使用同一产品）。患者在初次接种后1年服用1剂MenB加强针，如果风险仍然存在，每2至3年重新接种一次。
+肺炎球菌结合疫苗（PCV15、PCV20和PCV21）和肺炎球菌多糖疫苗（PPSV23）：如果患者之前未接种过肺炎球菌结合疫苗，或其疫苗接种史不明，则接种一剂PCV20或PCV21，或一剂PCV15，一年后接种一剂PPSV23。对于有免疫功能缺陷（包括先天性或获得性无脾症）、人工耳蜗或脑脊液（CSF）漏的成年人，可以考虑将PCV15和PPSV23之间的最短间隔缩短至8周。
+肺炎球菌结合疫苗（PCV15、PCV20和PCV21）和肺炎球菌多糖疫苗（PPSV23）：如果患者之前未接种过肺炎球菌结合疫苗，或其疫苗接种史不明，则接种一剂PCV20或PCV21，或一剂PCV15，一年后接种一剂PPSV23。对于有免疫功能缺陷（包括先天性或获得性无脾症）、人工耳蜗或脑脊液（CSF）漏的成年人，可以考虑将PCV15和PPSV23之间的最短间隔缩短至8周。
+额外剂量可根据临床判断进行接种。
+
+【器官移植】
+在进行实体器官移植前，患者应该接种所有适宜的疫苗。已经接受同种异体或自体造血干细胞移植的患者等同于缺乏免疫力，应该再次接种所有适宜的疫苗。这些患者的移植后临床护理复杂，其疫苗接种决定应咨询患者的血液肿瘤学家和感染病专家后做出。移植后2年内通常禁止使用活疫苗 (3)。
+
+【血制品使用】
+活性微生物疫苗不应该与血液、血浆或免疫球蛋白同时使用，同时使用这类产品会干扰预期抗体的产生。理想情况下，活微生物疫苗应在免疫球蛋白使用前2周或使用后6至12周接种 (4)。
+活微生物疫苗包括以下几种：
+卡介苗 (BCG)（适用于结核）
+卡介苗 (BCG)（适用于结核）
+霍乱疫苗
+霍乱疫苗
+埃博拉疫苗
+埃博拉疫苗
+流感病毒疫苗（LAIV）
+流感病毒疫苗（LAIV）
+疟疾疫苗
+疟疾疫苗
+麻疹/流行性腮腺炎/风疹（MMR）疫苗
+麻疹/流行性腮腺炎/风疹（MMR）疫苗
+麻疹病毒/腮腺炎病毒/风疹病毒/水痘病毒疫苗（MMRV）
+麻疹病毒/腮腺炎病毒/风疹病毒/水痘病毒疫苗（MMRV）
+脊髓灰质炎（仅限口服制剂；在美国不再获得许可或销售）
+脊髓灰质炎（仅限口服制剂；在美国不再获得许可或销售）
+轮状病毒疫苗
+轮状病毒疫苗
+天花和猴痘疫苗，非复制型
+天花和猴痘疫苗，非复制型
+口服伤寒疫苗
+口服伤寒疫苗
+水痘病毒疫苗
+水痘病毒疫苗
+带状疱疹疫苗（在美国只有重组疫苗可用）
+带状疱疹疫苗（在美国只有重组疫苗可用）
+黄热病疫苗
+黄热病疫苗
+
+【接种限制条件、注意事项和高危群体参考】
+1.Abara WE, Gee J, Marquez P, et al.Reports of Guillain-Barré Syndrome After COVID-19 Vaccination in the United States [published correction appears inJAMA Netw Open. 2023 May 1;6(5):e2315740. doi: 10.1001/jamanetworkopen.2023.15740.].JAMA Netw Open.2023;6(2):e2253845.Published 2023 Feb 1.doi:10.1001/jamanetworkopen.2022.53845
+1.Abara WE, Gee J, Marquez P, et al.Reports of Guillain-Barré Syndrome After COVID-19 Vaccination in the United States [published correction appears inJAMA Netw Open. 2023 May 1;6(5):e2315740. doi: 10.1001/jamanetworkopen.2023.15740.].JAMA Netw Open.2023;6(2):e2253845.Published 2023 Feb 1.doi:10.1001/jamanetworkopen.2022.53845
+2.Bishara H, Arbel A, Barnett-Griness O, et al.Association Between Guillain-Barré Syndrome and COVID-19 Infection and Vaccination: A Population-Based Nested Case-Control Study.Neurology.2023;101(20):e2035-e2042.doi:10.1212/WNL.0000000000207900
+2.Bishara H, Arbel A, Barnett-Griness O, et al.Association Between Guillain-Barré Syndrome and COVID-19 Infection and Vaccination: A Population-Based Nested Case-Control Study.Neurology.2023;101(20):e2035-e2042.doi:10.1212/WNL.0000000000207900
+3.Silva-Pinto A, Abreu I, Martins A, Bastos J, Araújo J, Pinto R.Vaccination After Haematopoietic Stem Cell Transplant: A Review of the Literature and Proposed Vaccination Protocol.Vaccines (Basel).2024;12(12):1449.Published 2024 Dec 23.doi:10.3390/vaccines12121449
+3.Silva-Pinto A, Abreu I, Martins A, Bastos J, Araújo J, Pinto R.Vaccination After Haematopoietic Stem Cell Transplant: A Review of the Literature and Proposed Vaccination Protocol.Vaccines (Basel).2024;12(12):1449.Published 2024 Dec 23.doi:10.3390/vaccines12121449
+4.National Center for Immunization and Respiratory Diseases.General recommendations on immunization --- recommendations of the Advisory Committee on Immunization Practices (ACIP) [published correction appears inMMWR Recomm Rep. 2011 Jul 29;60:993].MMWR Recomm Rep.2011;60(2):1-64
+4.National Center for Immunization and Respiratory Diseases.General recommendations on immunization --- recommendations of the Advisory Committee on Immunization Practices (ACIP) [published correction appears inMMWR Recomm Rep. 2011 Jul 29;60:993].MMWR Recomm Rep.2011;60(2):1-64
+
+【疫苗安全性与犹豫】
+在美国，疫苗的安全性通过两个监测系统来确保：CDC和美国食品和药物管理局 (FDA) 的疫苗不良事件报告系统，以及疫苗安全数据链。更多疫苗安全性的信息，参见疫苗效力与安全性。
+很多家长仍然担心儿童疫苗的安全性和可能产生的不良影响 。这些担忧导致一些家长不允许他们的孩子接种部分或全部推荐的疫苗（见疫苗犹豫）。 其结果是，原本通过疫苗接种而很少见的疫情（例如，麻疹和百日咳）在北美和欧洲未接种疫苗的儿童中变得极为常见。
+家长的主要担忧之一是疫苗可能会增加患自闭症谱系障碍的风险。关于自闭症与儿童疫苗的部分担忧涉及疫苗成分。引用的原因如下：
+麻疹-腮腺炎-风疹联合疫苗与自闭症之间的潜在关联（见麻疹/腮腺炎/风疹（MMR）疫苗）
+麻疹-腮腺炎-风疹联合疫苗与自闭症之间的潜在关联（见麻疹/腮腺炎/风疹（MMR）疫苗）
+硫柳汞可能导致自闭症的可能性（硫柳汞是一种含汞防腐剂，应用于部分疫苗中——见硫柳汞）。
+硫柳汞可能导致自闭症的可能性（硫柳汞是一种含汞防腐剂，应用于部分疫苗中——见硫柳汞）。
+按照疫苗接种建议，同时接种多个疫苗
+按照疫苗接种建议，同时接种多个疫苗
+
+【旅行者的免疫接种】
+在前往传染病地方性流行地区时，可能需要进行免疫接种 (见表用于国际旅行的疫苗)。美国疾病控制与预防中心(CDC)可提供相关信息（见Travelers' Health(旅行者健康)）。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Centers for Disease Control and Prevention (CDC):Current immunization schedules
+Centers for Disease Control and Prevention (CDC):Current immunization schedules
+Advisory Committee on Immunization Practices (ACIP):Vaccine-Specific Recommendations
+Advisory Committee on Immunization Practices (ACIP):Vaccine-Specific Recommendations
+CDC:Vaccine Administration
+CDC:Vaccine Administration
+CDC:Prevention and Control of Seasonal Influenza with Vaccines: Recommendations of the Advisory Committee on Immunization Practices (ACIP)—United States, 2024-25
+CDC:Prevention and Control of Seasonal Influenza with Vaccines: Recommendations of the Advisory Committee on Immunization Practices (ACIP)—United States, 2024-25
+American Academy of Pediatrics (AAP):Recommended Child and Adolescent Immunization Schedule for Ages 18 Years or Younger
+American Academy of Pediatrics (AAP):Recommended Child and Adolescent Immunization Schedule for Ages 18 Years or Younger
+Children's Hospital of Philadelphia:Vaccine Education Center
+Children's Hospital of Philadelphia:Vaccine Education Center
+European Centre for Disease Prevention and Control (ECDC):Vaccine schedules in all countries in the EU/EEA
+European Centre for Disease Prevention and Control (ECDC):Vaccine schedules in all countries in the EU/EEA
+Oxford Vaccine Group:Global vaccination schedules
+Oxford Vaccine Group:Global vaccination schedules
+U.S. Food and Drug Administration (FDA):Vaccines Licensed for Use in the United States
+U.S. Food and Drug Administration (FDA):Vaccines Licensed for Use in the United States
+FDA:Thimerosal and Vaccines
+FDA:Thimerosal and Vaccines
+CDC and FDA: Vaccine Adverse Event Reporting System (VAERS)
+CDC and FDA: Vaccine Adverse Event Reporting System (VAERS)
+CDC: Vaccine Safety Datalink (VSD)
+CDC: Vaccine Safety Datalink (VSD)
+American College of Physicians (ACP):Adult Immunizationresources
+American College of Physicians (ACP):Adult Immunizationresources

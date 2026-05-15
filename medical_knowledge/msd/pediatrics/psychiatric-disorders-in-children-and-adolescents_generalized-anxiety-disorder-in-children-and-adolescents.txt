@@ -1,0 +1,67 @@
+标题：儿童和青少年广泛性焦虑症
+来源：https://www.msdmanuals.cn/professional/pediatrics/psychiatric-disorders-in-children-and-adolescents/generalized-anxiety-disorder-in-children-and-adolescents
+============================================================
+
+儿童和青少年的广泛性焦虑障碍的特征是对日常生活的各个方面过度、持续的担忧，如学校表现、社会交往和健康。当症状持续6个月或更长时间时，通常伴有不安、疲劳和难以集中注意力等身体症状。该疾病更常见于青春期晚期及青年早期；其中 8% 的病例在 14 岁前起病，20% 在 18 岁前起病，33% 在 25 岁前起病，中位确诊年龄为 20 岁（1）。
+
+【参考文献】
+1.Solmi M, Radua J, Olivola M, et al.Age at onset of mental disorders worldwide: large-scale meta-analysis of 192 epidemiological studies.Mol Psychiatry.2022;27(1):281-295.doi:10.1038/s41380-021-01161-7
+1.Solmi M, Radua J, Olivola M, et al.Age at onset of mental disorders worldwide: large-scale meta-analysis of 192 epidemiological studies.Mol Psychiatry.2022;27(1):281-295.doi:10.1038/s41380-021-01161-7
+
+【广泛性焦虑症的症状和体征】
+患有广泛性焦虑障碍的儿童可能表现出多重且弥散性的担忧，这些症状在压力下会加剧。这些孩子往往对不确定性难以容忍，注意力难以集中，并可能表现出多动和焦躁不安。 他们睡眠质量较差，过度出汗，感觉筋疲力尽，并且抱怨身体不适（如，胃脘痛，肌肉疼痛，头痛）。焦虑的儿童可能表现出完美主义行为，而感知到的学业表现差可能直接加剧其焦虑。
+在COVID-19大流行期间，日常生活的突然剧烈中断使约20%的儿童焦虑增加（1），其中感染COVID-19的儿童风险更高（2）。
+
+【症状和体征参考】
+1.Racine N, McArthur BA, Cooke JE, Eirich R, Zhu J, Madigan S.Global Prevalence of Depressive and Anxiety Symptoms in Children and Adolescents During COVID-19: A Meta-analysis.JAMA Pediatr.2021;175(11):1142-1150.doi:10.1001/jamapediatrics.2021.2482
+1.Racine N, McArthur BA, Cooke JE, Eirich R, Zhu J, Madigan S.Global Prevalence of Depressive and Anxiety Symptoms in Children and Adolescents During COVID-19: A Meta-analysis.JAMA Pediatr.2021;175(11):1142-1150.doi:10.1001/jamapediatrics.2021.2482
+2.Lu Y, Tong J, Zhang D, et al.Risk of neuropsychiatric and related conditions associated with SARS-CoV-2 infection: a difference-in-differences analysis.Nat Commun.2025;16(1):6829.Published 2025 Jul 24.doi:10.1038/s41467-025-61961-1
+2.Lu Y, Tong J, Zhang D, et al.Risk of neuropsychiatric and related conditions associated with SARS-CoV-2 infection: a difference-in-differences analysis.Nat Commun.2025;16(1):6829.Published 2025 Jul 24.doi:10.1038/s41467-025-61961-1
+
+【广泛性焦虑障碍的诊断】
+精神评估
+精神评估
+精神障碍诊断与统计手册, 第5版，文本修订（DSM-5-TR）标准
+精神障碍诊断与统计手册, 第5版，文本修订（DSM-5-TR）标准
+在儿童和青少年中，表现出明显且造成功能损害的焦虑症状，但这些症状又不足以满足诸如社交焦虑障碍或惊恐障碍等诊断标准，即可诊断广泛性焦虑障碍 (1)。广泛性焦虑障碍也适用于那些患有特定焦虑障碍（如分离焦虑）的儿童，但同时表现出超出该特定障碍范围的额外显著焦虑症状。
+具体标准包括以下各项的存在：
+过度焦虑和担心患者难以控制
+过度焦虑和担心患者难以控制
+症状出现的天数多于不出现≥6个月
+症状出现的天数多于不出现≥6个月
+症状会导致严重的痛苦或影响社交或在学校的功能
+症状会导致严重的痛苦或影响社交或在学校的功能
+此外，上述标准必须伴随≥以下 1 项：
+坐立不安或处于边缘状态的惴惴不安感
+坐立不安或处于边缘状态的惴惴不安感
+容易疲劳
+容易疲劳
+注意力集中困难
+注意力集中困难
+睡眠障碍
+睡眠障碍
+有时，广泛性焦虑障碍的症状可能与注意缺陷/多动障碍（ADHD）的症状相混淆，因为广泛性焦虑障碍可能导致注意力难以集中，并引发精神运动性激越（即多动）。然而，在注意力不集中症中，儿童也难以集中注意力，并且在不焦虑时感到不安。一些儿童既有注意力不集中症也有焦虑症。
+
+【诊断参考文献】
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), Washington: American Psychiatric Association, 2022.
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), Washington: American Psychiatric Association, 2022.
+
+【广泛性焦虑障碍的治疗】
+放松训练
+放松训练
+呼吸练习
+呼吸练习
+有时采用抗焦虑药，通常为选择性5-羟色胺再摄取抑制剂（SSRIs）
+有时采用抗焦虑药，通常为选择性5-羟色胺再摄取抑制剂（SSRIs）
+由于症状焦点分散，用行为疗法治疗广泛性焦虑症尤其具有挑战性。放松训练与呼吸练习通常更为适宜。
+严重的广泛性焦虑障碍或对心理治疗介入法无反应者需要抗焦虑药物治疗。与其他焦虑障碍类似，选择性5-羟色胺再摄取抑制剂（SSRIs）通常是首选药物（参见表格《焦虑症、抑郁症及相关障碍的长期治疗药物》）。丁螺环酮有时用于不能耐受SSRIs的儿童；然而，其疗效较低 (1)。胃肠道不适或头痛可能限制剂量的增加。
+
+【治疗参考文献】
+1.Strawn JR,  Mills JA, Cornwall GJ, et al.Buspironein children and adolescents with anxiety: A review and Bayesian analysis of abandoned randomized controlled trials.J Child Adolesc Psychopharmacol.28(1): 2-9, 2018. doi: 10.1089/cap.2017.0060
+1.Strawn JR,  Mills JA, Cornwall GJ, et al.Buspironein children and adolescents with anxiety: A review and Bayesian analysis of abandoned randomized controlled trials.J Child Adolesc Psychopharmacol.28(1): 2-9, 2018. doi: 10.1089/cap.2017.0060
+患有广泛性焦虑障碍的儿童有多重和分散的焦虑，而不是单一的、特定的焦虑。
+患有广泛性焦虑障碍的儿童有多重和分散的焦虑，而不是单一的、特定的焦虑。
+当症状导致儿童显著痛苦或损害其社交或学业功能，且儿童具有≥1项特定症状（例如坐立不安、“紧张不安”或“如坐针毡”感）时，可诊断为广泛性焦虑障碍。
+当症状导致儿童显著痛苦或损害其社交或学业功能，且儿童具有≥1项特定症状（例如坐立不安、“紧张不安”或“如坐针毡”感）时，可诊断为广泛性焦虑障碍。
+放松疗法可能会有所帮助;如果儿童患有严重的焦虑或对心理治疗干预没有反应，考虑使用抗焦虑药物（推荐SSRIs）。
+放松疗法可能会有所帮助;如果儿童患有严重的焦虑或对心理治疗干预没有反应，考虑使用抗焦虑药物（推荐SSRIs）。

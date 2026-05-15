@@ -1,0 +1,38 @@
+标题：生命吠陀医学（Ayurveda）
+来源：https://www.msdmanuals.cn/professional/special-subjects/integrative-complementary-and-alternative-medicine/ayurveda
+============================================================
+
+韦达养生学是印度的传统医学，起源于四千余年前。其基础理论是：疾病是人体生命力（普拉那prana）失衡的结果。它的目的是在体内恢复平衡。普拉那的平衡取决于三种身体质量（doshas）的平衡：瓦塔（Vata）、皮塔（Pitta）和卡法（kapha）。大多数人都有一种优势的身体质量；对于每个人，其能量平衡都是独特的。
+
+【阿育吠陀的证据】
+阿育吠陀已被研究，包括过敏性鼻炎（1）， 精神健康 （2,3）、神经系统疾病、疼痛、关节炎（4）和糖尿病（5）。这些试验尚未得出结论。与整个医学体系的其他研究一样，高质量的研究也很难进行（6)。
+
+【阿育吠陀的用途】
+明确身体质量（doshas）的平衡情况后，治疗者设计出针对每个患者的特异治疗方案。韦达饮食、草药、按摩、冥想、运动和治疗性去毒疗法（panchkarma）——如灌肠、精油按摩或鼻腔灌洗——以恢复人体内平衡及人体和自然的平衡。
+
+【可能出现的不良反应】
+一些草药组合被重金属（主要是铅、汞和砷）污染。几项研究发现，阿育吠陀草药补充剂含有重金属，会导致中毒(4,8,5)。重金属中毒的案例已有报道（10,11)。
+
+【参考文献】
+1.Jongbloed WM, Brown SM.Allergies and natural alternatives.Otolaryngol Clin North Am.55(5):965-982, 2022.doi:10.1016/j.otc.2022.06.005
+1.Jongbloed WM, Brown SM.Allergies and natural alternatives.Otolaryngol Clin North Am.55(5):965-982, 2022.doi:10.1016/j.otc.2022.06.005
+2.Agarwal V, Abhijnhan A, Raviraj P.Ayurvedic medicine for schizophrenia.Cochrane Database Syst Rev.(4):CD006867, 2007.doi: 10.1002/14651858.CD006867
+2.Agarwal V, Abhijnhan A, Raviraj P.Ayurvedic medicine for schizophrenia.Cochrane Database Syst Rev.(4):CD006867, 2007.doi: 10.1002/14651858.CD006867
+3.Kulamarva K, Shivakumar V, Chikkanna U, et al.Role of Ayurveda in the management of psychotic disorders: a systematic review of clinical evidence.J Ayurveda Integr Med.14(3):100720, 2023.doi:10.1016/j.jaim.2023.100720
+3.Kulamarva K, Shivakumar V, Chikkanna U, et al.Role of Ayurveda in the management of psychotic disorders: a systematic review of clinical evidence.J Ayurveda Integr Med.14(3):100720, 2023.doi:10.1016/j.jaim.2023.100720
+4.Kessler CS, Pinders L, Michalsen A, et al.Ayurvedic interventions for osteoarthritis: a systematic review and meta-analysis.Rheumatol Int.35(2):211-32, 2015.doi: 10.1007/s00296-014-3095-y
+4.Kessler CS, Pinders L, Michalsen A, et al.Ayurvedic interventions for osteoarthritis: a systematic review and meta-analysis.Rheumatol Int.35(2):211-32, 2015.doi: 10.1007/s00296-014-3095-y
+5.Chattopadhyay K, Wang H, Kaur J, et al.Effectiveness and safety of Ayurvedic medicines in type 2 diabetes mellitus management: a systematic review and meta-analysis.Front Pharmacol.13:821810, 2022.Published 2022 Jun 8.doi:10.3389/fphar.2022.821810
+5.Chattopadhyay K, Wang H, Kaur J, et al.Effectiveness and safety of Ayurvedic medicines in type 2 diabetes mellitus management: a systematic review and meta-analysis.Front Pharmacol.13:821810, 2022.Published 2022 Jun 8.doi:10.3389/fphar.2022.821810
+6.Patwardhan B.Bridging Ayurveda with evidence-based scientific approaches in medicine.EPMA J.5(1): 19, 2014.doi: 10.1186/1878-5085-5-19
+6.Patwardhan B.Bridging Ayurveda with evidence-based scientific approaches in medicine.EPMA J.5(1): 19, 2014.doi: 10.1186/1878-5085-5-19
+7.Saper RB, et al.Heavy metal content of Ayurvedic herbal medicine products.JAMA.292(23):2868–73, 2004.doi: 10.1001/jama.292.33.2868
+7.Saper RB, et al.Heavy metal content of Ayurvedic herbal medicine products.JAMA.292(23):2868–73, 2004.doi: 10.1001/jama.292.33.2868
+8.Martena MJ, Van Der Wielen JC, Rietjens IM, et al..Monitoring of mercury, arsenic, and lead in traditional Asian herbal preparations on the Dutch market and estimation of associated risks.Food Addit Contam Part A Chem Anal Control Expo Risk Assess.27(2):190–205, 2010.doi: 10.1080/02652030903207235
+8.Martena MJ, Van Der Wielen JC, Rietjens IM, et al..Monitoring of mercury, arsenic, and lead in traditional Asian herbal preparations on the Dutch market and estimation of associated risks.Food Addit Contam Part A Chem Anal Control Expo Risk Assess.27(2):190–205, 2010.doi: 10.1080/02652030903207235
+9.Mukhopadhyay S, Abraham SE, Holla B, et al.Heavy metals in Indian traditional systems of medicine: a systematic scoping review and recommendations for integrative medicine practice.J Altern Complement Med.27(11):915-929, 2021.doi:10.1089/acm.2021.0083
+9.Mukhopadhyay S, Abraham SE, Holla B, et al.Heavy metals in Indian traditional systems of medicine: a systematic scoping review and recommendations for integrative medicine practice.J Altern Complement Med.27(11):915-929, 2021.doi:10.1089/acm.2021.0083
+10.Gair R.Heavy metal poisoning from Ayurvedic medicines.BCMJ.50(2):105, 2008.
+10.Gair R.Heavy metal poisoning from Ayurvedic medicines.BCMJ.50(2):105, 2008.
+11.Mikulski MA, Wichman MD, Simmons DL, et al.Toxic metals in Ayurvedic preparations from a public health lead poisoning cluster investigation.Int J Occup Environ Health.23(3):187-192, 2017.doi: 10.1080/10773525.2018.1447880
+11.Mikulski MA, Wichman MD, Simmons DL, et al.Toxic metals in Ayurvedic preparations from a public health lead poisoning cluster investigation.Int J Occup Environ Health.23(3):187-192, 2017.doi: 10.1080/10773525.2018.1447880

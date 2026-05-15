@@ -1,0 +1,184 @@
+标题：双相障碍
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/mood-disorders/bipolar-disorders
+============================================================
+
+双相情感障碍通常始于青少年、20多岁或 30 多岁（另见儿童和青少年的双相情感障碍）。终生患病率约为 2% (1)。
+双相障碍可分为
+双相 Ⅰ 型障碍：定义为至少出现一次完全发作的躁狂（即导致社会或职业功能显著受损，或伴随妄想），通常还会出现抑郁发作。男性和女性的发病率相似（2）。
+双相 Ⅰ 型障碍：定义为至少出现一次完全发作的躁狂（即导致社会或职业功能显著受损，或伴随妄想），通常还会出现抑郁发作。男性和女性的发病率相似（2）。
+双相障碍II型：定义为存在重度抑郁发作，且至少有一次轻躁狂发作，但无完全躁狂发作。女性的发病率稍高 (3)。
+双相障碍II型：定义为存在重度抑郁发作，且至少有一次轻躁狂发作，但无完全躁狂发作。女性的发病率稍高 (3)。
+物质/药物引起的双相情感障碍：定义为在接触、中毒或戒断某种可诱发此类症状的物质（例如，可卡因、皮质类固醇）期间或之后不久，出现符合躁狂表现的心境紊乱。
+物质/药物引起的双相情感障碍：定义为在接触、中毒或戒断某种可诱发此类症状的物质（例如，可卡因、皮质类固醇）期间或之后不久，出现符合躁狂表现的心境紊乱。
+其他躯体疾病所致双相及相关障碍：定义为由某种躯体疾病例如（库欣综合征、创伤性脑损伤）引起的符合躁狂表现的心境紊乱，且该症状并非仅在谵妄发作期间出现。
+其他躯体疾病所致双相及相关障碍：定义为由某种躯体疾病例如（库欣综合征、创伤性脑损伤）引起的符合躁狂表现的心境紊乱，且该症状并非仅在谵妄发作期间出现。
+未特定双相情感障碍：具有明确双相特征，但不符合其他双相情感障碍具体诊断标准的疾病
+未特定双相情感障碍：具有明确双相特征，但不符合其他双相情感障碍具体诊断标准的疾病
+循环型障碍：患者长期（>2年）存在轻躁狂和抑郁发作，但不符合双相障碍或重度抑郁障碍的诊断标准。
+(参见情绪障碍概述。）
+
+【参考文献】
+1.Merikangas KR, Akiskal HS, Angst J, et al: Lifetime and 12-month prevalence of bipolar spectrum disorder in the National Comorbidity Survey replication.Arch Gen Psychiatry64(5):543-552, 2007.doi: 10.1001/archpsyc.64.5.543.Erratum in:Arch Gen Psychiatry64(9):1039, 2007.PMID: 17485606
+1.Merikangas KR, Akiskal HS, Angst J, et al: Lifetime and 12-month prevalence of bipolar spectrum disorder in the National Comorbidity Survey replication.Arch Gen Psychiatry64(5):543-552, 2007.doi: 10.1001/archpsyc.64.5.543.Erratum in:Arch Gen Psychiatry64(9):1039, 2007.PMID: 17485606
+2.Diflorio A, Jones I: Is sex important?Gender differences in bipolar disorder.Int Rev Psychiatry22(5):437-452, 2010.doi: 10.3109/09540261.2010.514601.PMID: 21047158
+2.Diflorio A, Jones I: Is sex important?Gender differences in bipolar disorder.Int Rev Psychiatry22(5):437-452, 2010.doi: 10.3109/09540261.2010.514601.PMID: 21047158
+3.Baldassano CF, Marangell LB, Gyulai L, et al: Gender differences in bipolar disorder: retrospective data from the first 500 STEP-BD participants.Bipolar Disord7(5):465-470, 2005.doi: 10.1111/j.1399-5618.2005.00237.x
+3.Baldassano CF, Marangell LB, Gyulai L, et al: Gender differences in bipolar disorder: retrospective data from the first 500 STEP-BD participants.Bipolar Disord7(5):465-470, 2005.doi: 10.1111/j.1399-5618.2005.00237.x
+
+【双相情感障碍的病因】
+躁郁症的确切病因不明。遗传起着重要作用 (1)。还有证据表明神经递质血清素,去甲肾上腺素和多巴胺失调。
+心理社会因素也有关。尽管因果关系尚未明确，但应激性生活事件常与症状的初次出现及后续加重相关。
+某些药物和物质可能会导致某些双相情感障碍患者病情加重；这些包括
+拟交感神经药（例如，可卡因,安非他明)
+拟交感神经药（例如，可卡因,安非他明)
+皮质类固醇
+皮质类固醇
+某些抗抑郁药（如三环类抗抑郁药、去甲肾上腺素再摄取抑制剂）
+某些抗抑郁药（如三环类抗抑郁药、去甲肾上腺素再摄取抑制剂）
+
+【病因参考文献】
+1.Gordovez FJA, McMahon FJ: The genetics of bipolar disorder.Mol Psychiatry25(3):544-559, 2020.doi: 10.1038/s41380-019-0634-7
+1.Gordovez FJA, McMahon FJ: The genetics of bipolar disorder.Mol Psychiatry25(3):544-559, 2020.doi: 10.1038/s41380-019-0634-7
+
+【双相障碍的症状和体征】
+双相情感障碍以抑郁或躁狂症状的急性发作为起始，随后呈现缓解与复发交替的病程。通常是完全缓解，但许多患者有残留症状，有些工作能力严重受损。复发可以表现为躁狂、抑郁、轻躁狂或混合发作（具有躁狂和抑郁的特点）的症状。
+复发持续时间从几周到3～6个月;抑郁发作通常比躁狂或轻躁狂发作持续时间更长。
+从一次发作到另一次发作的循环时间各不相同。有些患者的发作频率很低，也许终身仅发作数次，而有些患者为快速循环型（定义为每年发作次数 ≥4次）。仅有少数患者表现为抑郁和躁狂的规律的交替发作，多数患者会以一种或另一种占主导地位。
+患者可能企图或实施自杀。双相情感障碍患者的终生自杀发生率，估计至少是普通人群的 20～30 倍 (1)。
+躁狂发作是指持续≥1周的情感高涨、夸大、易激惹和持续增长的活动过多或精力旺盛，伴有≥3条能量显著增加的附加症状 （如果情绪只是烦躁，则≥4）(2)：
+自我评价高或夸大
+自我评价高或夸大
+睡眠需求减少
+睡眠需求减少
+比平时言语增多
+比平时言语增多
+思维奔逸
+思维奔逸
+随境转移
+随境转移
+目的性活动增多或精神运动性激越
+目的性活动增多或精神运动性激越
+过多参与可能导致痛苦后果的活动（如疯狂购物，愚蠢的商业投资）
+过多参与可能导致痛苦后果的活动（如疯狂购物，愚蠢的商业投资）
+典型的躁狂在发作时精力充沛、活动过多、冲动地参加各种高风险活动（如，赌博、极限运动、滥交）而无法察觉潜在的危险。症状非常严重，以至于他们无法发挥其主要作用(例如，职业，学校，家庭生活)。鲁莽投资、花天酒地以及其他一些可能造成无法挽救后果的个人行为。
+躁狂患者会穿着华丽或打扮得花枝招展，他们滔滔不绝夸夸其谈。说话会出现音联（新的想法更多被语言声音所触发产生而并非内容本身）。注意力容易分散，很快在不同主题间切换。然而，他们自认为处于最佳状态。
+缺乏自知力和活动性增加常会导致冲动行为和危险后果。人际关系冲突可能会使其感受到不公正待遇甚至产生被迫害感。此时，患者可能对自己或他人存在危险。患者的思维速度加快，感到自己的思维马不停蹄，医生会发现患者存在思维奔逸。
+躁狂性精神病是更极端的表现形式，其精神病性症状可能难以与精神分裂症区分。患者可存在严重的夸大或被害妄想（如认为自己是耶稣或正被FBI迫害），有时会存在幻觉。兴奋水平明显增高，患者会大声尖叫、引吭高歌或者胡乱发誓。情感的波动性增加，表现为易激惹。可出现谵妄性躁狂，患者表现为思维的破裂和行为紊乱。
+轻躁狂发作是躁狂的较轻变体，表现为一次明确的发作，持续≥4 天，行为与患者平时非抑郁状态存在显著差异，且包含上述躁狂发作所列的至少≥3 项其他症状。
+在轻躁狂期间会存在情绪高涨、睡眠需要减少、能量显著增加、精神活动增加。对于一些患者，轻躁期是适应性的，因为它们可能导致高能量，创造力，自信和超常社会功能。许多人不希望离开这种愉快的状态。部分患者社会功能良好，社会功能无明显受损。然而，在一些患者中，轻躁狂表现为注意力分散，烦躁不安和情绪不稳定，从而导致一些困扰。
+双相情感障碍患者的重度抑郁发作具有典型的重度抑郁特征;在相同的2周期间，发作必须包括以下≥5项，其中一项必须是情绪低落或失去兴趣或快乐，除自杀念头或企图外，几乎每天都必须出现所有症状:
+大部分时间都情绪低落
+大部分时间都情绪低落
+大部分时间对几乎所有活动都缺乏兴趣或乐趣
+大部分时间对几乎所有活动都缺乏兴趣或乐趣
+明显的体重增加或减少（>5％），食欲增加或降低
+明显的体重增加或减少（>5％），食欲增加或降低
+失眠（通常为睡眠维持障碍），或睡眠过多
+失眠（通常为睡眠维持障碍），或睡眠过多
+他人观察到的精神运动性激越或迟滞（未自我报告）
+他人观察到的精神运动性激越或迟滞（未自我报告）
+疲劳或乏力
+疲劳或乏力
+无价值或过度或不适当的内疚
+无价值或过度或不适当的内疚
+思考能力下降或注意力不集中或犹豫不决
+思考能力下降或注意力不集中或犹豫不决
+反复的自杀想法、自杀企图或自杀计划
+反复的自杀想法、自杀企图或自杀计划
+精神病性特征在双相抑郁中比在单相抑郁中更常见。
+
+【混合特性】
+若躁狂或轻躁狂发作期间，多数日子存在至少≥3 项抑郁症状，则该发作被界定为具有混合特征。此类情况通常难以诊断，且可能逐渐转为持续循环状态，其预后较单纯躁狂或轻躁狂状态更差。
+混合发作的自杀风险特别高。
+
+【症状和体征参考】
+1.Plans L, Barrot C, Nieto E, et al: Association between completed suicide and bipolar disorder: A systematic review of the literature.J Affect Disord242:111-122, 2019.doi: 10.1016/j.jad.2018.08.054
+1.Plans L, Barrot C, Nieto E, et al: Association between completed suicide and bipolar disorder: A systematic review of the literature.J Affect Disord242:111-122, 2019.doi: 10.1016/j.jad.2018.08.054
+2.Diagnostic and Statistical Manual of Mental Disorders, 5th ed, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 140-141.
+2.Diagnostic and Statistical Manual of Mental Disorders, 5th ed, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 140-141.
+
+【双相障碍的诊断】
+《精神疾病诊断与统计手册》, 第五版修订本（DSM-5-TR）诊断标准
+《精神疾病诊断与统计手册》, 第五版修订本（DSM-5-TR）诊断标准
+甲状腺素(T4)和促甲状腺激素(TSH)水平筛查甲亢
+甲状腺素(T4)和促甲状腺激素(TSH)水平筛查甲亢
+临床上或通过血液或尿液毒理学筛查排除兴奋剂滥用
+临床上或通过血液或尿液毒理学筛查排除兴奋剂滥用
+常规实验室检查（例如，全血细胞计数、基本代谢检查）以排除其他一般医疗状况
+常规实验室检查（例如，全血细胞计数、基本代谢检查）以排除其他一般医疗状况
+双相I型情感障碍的诊断需符合上述 DSM-5-TR 标准中的躁狂发作标准，且有缓解和复发史（1）。躁狂发作之前或之后可能是轻躁狂或者重度抑郁发作。
+诊断双相II型情感障碍需要满足至少一次轻躁狂发作以及至少一次重度抑郁发作的 DSM-5-TR 标准（2）。症状必须严重到足以明显损害社交或职业功能或需要住院治疗以防止对自己或他人造成伤害。
+有些患者表现为抑郁，但之前可能会有躁狂或轻躁狂，如医生不询问患者不会主动报告。技巧性提问可以提示更多症状（如开销巨大，冲动的性行为，兴奋剂滥用），这些信息也可来源于亲属。结构化的问卷（如心境障碍问卷）可能具有辅助诊断价值。必须温和但直接地询问所有患者是否存在自杀意念、自杀计划或自杀行为。
+类似的急性躁狂或轻躁狂症状可能是由于滥用兴奋剂、皮质类固醇治疗或多巴胺激动剂，或一般医学疾病，例如甲状腺功能亢进症或者嗜铬细胞瘤。甲亢患者通常有其他身体症状和体征，但甲状腺功能测试（T4 和 TSH 水平）是对新患者的合理筛查。 嗜铬细胞瘤患者有明显的间歇性或持续性高血压；如果没有高血压，则不需要检测嗜铬细胞瘤。 其他疾病较少引起躁狂症状，但抑郁症状可能发生在许多疾病中 (见表引起抑郁和躁狂症状的部分原因)。
+需回顾物质使用（特别是苯丙胺类、可卡因等）的情况，并进行血或尿毒物筛查，有助于明确此类病因。然而，由于药物使用可能仅仅引发双相情感障碍患者的发作，因此寻找与药物使用无关的症状(躁狂或抑郁)的证据很重要。
+部分患者分裂情感障碍有躁狂症状，但这些患者的精神病特征可能会在异常情绪发作后持续存在。
+双相障碍患者可以合并焦虑障碍，如社交恐惧，惊恐发作，强迫障碍，这些都会混淆诊断。
+
+【诊断参考】
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th ed, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 140-151.
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th ed, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 140-151.
+2.Diagnostic and Statistical Manual of Mental Disorders, 5th ed, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 151-160.
+2.Diagnostic and Statistical Manual of Mental Disorders, 5th ed, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 151-160.
+
+【双相障碍的治疗】
+(参见《双相情感障碍治疗药物》。）
+情绪稳定剂（例如锂,某些抗癫痫药物）、第二代抗精神病药，或两者联用
+情绪稳定剂（例如锂,某些抗癫痫药物）、第二代抗精神病药，或两者联用
+支持治疗和心理治疗
+支持治疗和心理治疗
+双相情感障碍的治疗通常分为 3 个阶段：
+急性期：稳定并控制初始阶段（有时为严重）的症状表现
+急性期：稳定并控制初始阶段（有时为严重）的症状表现
+巩固期：达到完全缓解
+巩固期：达到完全缓解
+维持并预防复发：让患者维持在缓解状态
+维持并预防复发：让患者维持在缓解状态
+尽管多数轻躁狂患者可门诊治疗，但重度躁狂或抑郁通常需要住院管理。
+
+【双相情感障碍的药物治疗】
+双相障碍的药物治疗包括
+心境稳定剂：锂和某些抗惊厥药物，特别是丙戊酸盐、卡马西平和拉莫三嗪
+心境稳定剂：锂和某些抗惊厥药物，特别是丙戊酸盐、卡马西平和拉莫三嗪
+第二代抗精神病药：阿立哌唑、鲁拉西酮、奥氮平、喹硫平、利培酮、齐拉西酮及卡利拉嗪。
+第二代抗精神病药：阿立哌唑、鲁拉西酮、奥氮平、喹硫平、利培酮、齐拉西酮及卡利拉嗪。
+这类药物可单独使用或联合使用，适用于治疗的所有阶段，但剂量有所不同(1, 2)。
+双相情感障碍的药物治疗选择可能很困难，因为所有药物都有显著的不良反应，药物相互作用很常见，而且没有一种药物是普遍有效的。选择药物可根据患者先前用药的疗效和耐受性。如果患者以前没有接受过治疗双相情感障碍的药物(或用药史未知)，则应根据患者的病史(相对于特定情绪稳定剂的副作用)和症状的严重程度来选择。
+特定抗抑郁药物（如选择性5-羟色胺再摄取抑制剂[SSRIs]）有时会用于重度抑郁的辅助治疗，但其疗效存在争议；不推荐作为抑郁发作的单一治疗方案。氯胺酮输注也已被证明可有效治疗严重的双相抑郁症 (3)。
+
+【其他治疗】
+电抽搐治疗（ECT）对于难治性抑郁可以使用，对于躁狂也有效 (4)。
+光疗可用于治疗季节性（秋冬抑郁和春夏轻躁狂）或非季节性双相 I 或双相 II 障碍的抑郁症状。 该药更适合作为增效治疗药物。
+经颅磁刺激有时用于治疗严重的抵抗性抑郁症，也被证明对双相抑郁症有效 (5)。
+
+【健康教育和心理治疗】
+争取亲友的支持对于预防严重发作至关重要。
+团体治疗常推荐给患者及其伴侣；在治疗中，他们会了解双相情感障碍、疾病带来的社会后遗症，以及心境稳定剂在治疗中的核心作用。
+个体心理治疗可帮助患者更好地应对日常生活问题，并适应新的自我认知方式。
+患者（尤其是双相 Ⅱ 型障碍患者）可能不遵医嘱服用情绪稳定剂，因为他们认为这类药物会降低自己的警觉性和创造力。医生可以向患者解释，创造力下降相对少见，因为心境稳定剂通常能让人在人际交往、学业、职业及艺术追求中表现得更加稳定。
+告知患者尽量避免刺激性药物和酒精的摄入，以减少对睡眠的影响，能够早期识别复发的先兆。
+如果患者表现出过度消费的倾向，有必要将其财政交给其他信赖的家庭成员保管。有过度性行为倾向的患者应被告知其对婚姻的影响（诸如离婚）以及滥交可能导致的感染风险，特别是艾滋病。
+支持团体(例如，抑郁症和双相情感障碍支持联盟[DBSA])可以通过提供一个论坛来帮助患者分享他们的共同经历和感受。
+
+【治疗参考文献】
+1.Yatham LN, Kennedy SH, et al: Canadian Network for Mood and Anxiety Treatments (CANMAT) and International Society for Bipolar Disorders (ISBD) 2018 guidelines for the management of patients with bipolar disorder.Bipolar Disord20(2):97-170, 2018.doi: 10.1111/bdi.12609
+1.Yatham LN, Kennedy SH, et al: Canadian Network for Mood and Anxiety Treatments (CANMAT) and International Society for Bipolar Disorders (ISBD) 2018 guidelines for the management of patients with bipolar disorder.Bipolar Disord20(2):97-170, 2018.doi: 10.1111/bdi.12609
+2.Goodwin GM, Haddad PM, Ferrier IN, et al: Evidence-based guidelines for treating bipolar disorder: Revised third edition recommendations from the British Association for Psychopharmacology.J Psychopharmacol30(6):495-553, 2016.doi: 10.1177/0269881116636545
+2.Goodwin GM, Haddad PM, Ferrier IN, et al: Evidence-based guidelines for treating bipolar disorder: Revised third edition recommendations from the British Association for Psychopharmacology.J Psychopharmacol30(6):495-553, 2016.doi: 10.1177/0269881116636545
+3.Wilkowska A, Szałach Ł, Cubała WJ: Ketamine in bipolar disorder: A review.Neuropsychiatr Dis Treat16:2707-2717, 2020.doi: 10.2147/NDT.S282208
+3.Wilkowska A, Szałach Ł, Cubała WJ: Ketamine in bipolar disorder: A review.Neuropsychiatr Dis Treat16:2707-2717, 2020.doi: 10.2147/NDT.S282208
+4.Perugi G, Medda P, Toni C, et al: The role of electroconvulsive therapy (ECT) in bipolar disorder: Effectiveness in 522 patients with bipolar depression, mixed-state, mania and catatonic features.Curr Neuropharmacol15(3):359-371, 2017.doi: 10.2174/1570159X14666161017233642
+4.Perugi G, Medda P, Toni C, et al: The role of electroconvulsive therapy (ECT) in bipolar disorder: Effectiveness in 522 patients with bipolar depression, mixed-state, mania and catatonic features.Curr Neuropharmacol15(3):359-371, 2017.doi: 10.2174/1570159X14666161017233642
+5.Lefaucheur JP, Aleman A, Baeken C: Evidence-based guidelines on the therapeutic use of repetitive transcranial magnetic stimulation (rTMS): An update (2014-2018).Clin Neurophysiol131(2):474-528, 2020.doi: 10.1016/j.clinph.2019.11.002.Erratum in:Clin Neurophysiol131(5):1168-1169, 2020. PMID: 31901449
+5.Lefaucheur JP, Aleman A, Baeken C: Evidence-based guidelines on the therapeutic use of repetitive transcranial magnetic stimulation (rTMS): An update (2014-2018).Clin Neurophysiol131(2):474-528, 2020.doi: 10.1016/j.clinph.2019.11.002.Erratum in:Clin Neurophysiol131(5):1168-1169, 2020. PMID: 31901449
+双相情感障碍是一种周期性疾病，表现为躁狂发作（伴或不伴抑郁发作，即双相 Ⅰ 型），或轻躁狂发作合并抑郁发作（即双相 Ⅱ 型）。
+双相情感障碍是一种周期性疾病，表现为躁狂发作（伴或不伴抑郁发作，即双相 Ⅰ 型），或轻躁狂发作合并抑郁发作（即双相 Ⅱ 型）。
+双相障碍明显损害工作和社会能力，增加自杀风险，然而轻度躁狂状态（轻躁狂）有时是适应的，因为能产生活力，创造力，信心和超常的社会功能。
+双相障碍明显损害工作和社会能力，增加自杀风险，然而轻度躁狂状态（轻躁狂）有时是适应的，因为能产生活力，创造力，信心和超常的社会功能。
+发作周期的时长和频率因人而异：部分患者一生仅发作数次，而另一些患者每年发作≥4 次（即快速循环型）。
+发作周期的时长和频率因人而异：部分患者一生仅发作数次，而另一些患者每年发作≥4 次（即快速循环型）。
+仅有少数患者表现为抑郁和躁狂规律的交替发作，多数患者会以某个疾病相为主。
+仅有少数患者表现为抑郁和躁狂规律的交替发作，多数患者会以某个疾病相为主。
+诊断是基于临床标准，但兴奋剂使用障碍和一般医疗障碍(如甲状腺机能亢进症或嗜铬细胞瘤)必须通过检查和测试排除。
+诊断是基于临床标准，但兴奋剂使用障碍和一般医疗障碍(如甲状腺机能亢进症或嗜铬细胞瘤)必须通过检查和测试排除。
+治疗取决于表现及其严重性，但通常涉及情绪稳定剂（如锂盐、丙戊酸钠，卡马西平，拉莫三嗪），和/或第二代抗精神病药（例如，阿立哌唑，鲁拉西酮，奥氮平，喹硫平，利培酮，齐拉西酮，卡利拉嗪）。
+治疗取决于表现及其严重性，但通常涉及情绪稳定剂（如锂盐、丙戊酸钠，卡马西平，拉莫三嗪），和/或第二代抗精神病药（例如，阿立哌唑，鲁拉西酮，奥氮平，喹硫平，利培酮，齐拉西酮，卡利拉嗪）。

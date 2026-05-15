@@ -1,0 +1,79 @@
+标题：肠套叠
+来源：https://www.msdmanuals.cn/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/intussusception
+============================================================
+
+肠套叠通常发生在6个月至3岁的儿童中，且70%的病例发生在2岁前（1）。男性略占优势。
+伸缩段会阻塞肠道，如果不及时治疗，最终会损害肠套叠段的血流（见图肠套叠），引起缺血、坏疽和穿孔。
+
+【参考文献】
+1.Marsicovetere P, Ivatury SJ, White B, Holubar SD: Intestinal Intussusception: Etiology, Diagnosis, and Treatment.Clin Colon Rectal Surg30(1):30-39, 2017.doi: 10.1055/s-0036-1593429
+1.Marsicovetere P, Ivatury SJ, White B, Holubar SD: Intestinal Intussusception: Etiology, Diagnosis, and Treatment.Clin Colon Rectal Surg30(1):30-39, 2017.doi: 10.1055/s-0036-1593429
+
+【肠套叠的病因】
+大多数病例是特发性的。最常见的肠套叠类型是回结肠型。
+约30%的肠套叠患儿有前期病毒感染史；该病存在季节性变化，发病高峰与病毒性肠炎季节相吻合（1）。
+一种早期的轮状病毒疫苗与肠套叠风险增加相关（每 10000名疫苗接种者中出现1至2例额外病例），因此该疫苗已在美国退市（2）。目前可用的轮状病毒疫苗可能与较小程度的风险增加相关（每 100,000 名疫苗接种者中，首次接种后的前 7 天内有1到2例额外的肠套叠病例），但至少有 1 项研究表明，风险增加并未超出背景发生率（3–5）。
+在约25%患有肠套叠的患儿中，通常是很年幼的儿童和年长儿童，导引点（即肿块或其他肠道异常）触发套叠 (6)。可作为肠套叠诱因的病变包括息肉、淋巴瘤、梅克尔憩室以及当紫癜累及肠壁时的免疫球蛋白A相关性血管炎。
+囊性纤维化也是一个危险因素。
+
+【病因参考文献】
+1.Marsicovetere P, Ivatury SJ, White B, Holubar SD.Intestinal Intussusception: Etiology, Diagnosis, and Treatment.Clin Colon Rectal Surg.2017;30(1):30-39.doi:10.1055/s-0036-1593429
+1.Marsicovetere P, Ivatury SJ, White B, Holubar SD.Intestinal Intussusception: Etiology, Diagnosis, and Treatment.Clin Colon Rectal Surg.2017;30(1):30-39.doi:10.1055/s-0036-1593429
+2.Murphy TV, Gargiullo PM, Massoudi MS, et al.Intussusception among infants given an oral rotavirus vaccine [published correction appears inN Engl J Med2001 May 17;344(20):1564.Livingood, JR [corrected to Livengood, JR]].N Engl J Med.2001;344(8):564-572.doi:10.1056/NEJM200102223440804
+2.Murphy TV, Gargiullo PM, Massoudi MS, et al.Intussusception among infants given an oral rotavirus vaccine [published correction appears inN Engl J Med2001 May 17;344(20):1564.Livingood, JR [corrected to Livengood, JR]].N Engl J Med.2001;344(8):564-572.doi:10.1056/NEJM200102223440804
+3.Kassim P, Eslick GD.Risk of intussusception following rotavirus vaccination: An evidence based meta-analysis of cohort and case-control studies.Vaccine.2017;35(33):4276-4286.doi:10.1016/j.vaccine.2017.05.064
+3.Kassim P, Eslick GD.Risk of intussusception following rotavirus vaccination: An evidence based meta-analysis of cohort and case-control studies.Vaccine.2017;35(33):4276-4286.doi:10.1016/j.vaccine.2017.05.064
+4.Tate JE, Mwenda JM, Armah G, et al.Evaluation of Intussusception after Monovalent Rotavirus Vaccination in Africa.N Engl J Med.2018;378(16):1521-1528.doi:10.1056/NEJMoa1713909
+4.Tate JE, Mwenda JM, Armah G, et al.Evaluation of Intussusception after Monovalent Rotavirus Vaccination in Africa.N Engl J Med.2018;378(16):1521-1528.doi:10.1056/NEJMoa1713909
+5.Yih WK, Lieu TA, Kulldorff M, et al.Intussusception risk after rotavirus vaccination in U.S. infants.N Engl J Med.2014;370(6):503-512.doi:10.1056/NEJMoa1303164
+5.Yih WK, Lieu TA, Kulldorff M, et al.Intussusception risk after rotavirus vaccination in U.S. infants.N Engl J Med.2014;370(6):503-512.doi:10.1056/NEJMoa1303164
+6.Ntoulia A, Tharakan SJ, Reid JR, Mahboubi S.Failed Intussusception Reduction in Children: Correlation Between Radiologic, Surgical, and Pathologic Findings.AJR Am J Roentgenol.2016;207(2):424-433.doi:10.2214/AJR.15.15659
+6.Ntoulia A, Tharakan SJ, Reid JR, Mahboubi S.Failed Intussusception Reduction in Children: Correlation Between Radiologic, Surgical, and Pathologic Findings.AJR Am J Roentgenol.2016;207(2):424-433.doi:10.2214/AJR.15.15659
+
+【肠套叠的症状和体征】
+肠套叠的最初症状是突然出现明显的绞痛性腹痛，每15到20分钟复发一次，经常伴有呕吐。小孩在两次发作间期的情况相对较好。
+随着病情的进展，肠管血循环障碍发生，腹痛固定，患儿精神差，肠黏膜出血导致果酱样便或直肠指检见指套染血。然而，后一种情况发生较晚，医生不应等到出现这种症状后才怀疑肠套叠。有时可触及腹部肿块，描述为香肠状。穿孔导致腹膜炎的征象，伴有明显的压痛、保护和僵硬。苍白、出汗和心动过速提示有休克。
+约15％的儿童并未出现绞痛性腹痛期 (1)。相反，他们出现嗜睡，仿佛用了药（非典型性或精神萎靡表现）。在这种情况下，经常漏诊肠套叠，直至果冻粪便出现或腹部肿块被触及。
+
+【症状和体征】
+1.Li Y, Zhou Q, Liu C, et al.Epidemiology, clinical characteristics, and treatment of children with acute intussusception: a case series.BMC Pediatr.2023;23(1):143.Published 2023 Mar 30.doi:10.1186/s12887-023-03961-y
+1.Li Y, Zhou Q, Liu C, et al.Epidemiology, clinical characteristics, and treatment of children with acute intussusception: a case series.BMC Pediatr.2023;23(1):143.Published 2023 Mar 30.doi:10.1186/s12887-023-03961-y
+
+【肠套叠的诊断】
+超声疗法
+超声疗法
+诊断的怀疑必须很高，特别是对于非典型表现儿童。由于存活和非手术复位的可能性随着病程时间的延长会显著降低，所以需尽早地检查和干预治疗。
+方法取决于临床发现。有腹膜炎征象的病儿需要液体复苏、广谱抗生素(如氨苄西林加庆大霉素和克林霉素；甲硝唑加头孢噻肟或哌拉西林-他唑巴坦)、鼻胃吸引和手术治疗。 临床表现稳定的儿童需要影像学检查来确诊和治疗。
+以前钡剂灌肠作为首选的诊治方式，这是因为钡剂灌肠可以出现典型的“螺旋弹簧”征。除外诊断，钡剂灌肠经常还有治疗作用，钡的压力经常可减少套叠的肠段。由于钡剂偶尔可通过临床难以发现的穿孔进入腹腔形成腹膜炎。目前，超声检查是首选的诊断方法；它容易进行，相对便宜且安全 。特征性发现被称为靶环征。
+有时，在成像研究（例如 CT 扫描）中偶然会看到肠套叠。如果儿童没有肠套叠症状，可以对其进行密切随访，并且可能会延迟干预或在某些情况下不需要干预。
+
+【经验与提示】
+经验与提示
+医师不应该等到果酱样大便排出才怀疑肠套叠，因为果酱样大便是一种迟发的征象。
+医师不应该等到果酱样大便排出才怀疑肠套叠，因为果酱样大便是一种迟发的征象。
+
+【肠套叠的治疗】
+空气灌肠
+空气灌肠
+如果灌肠不成功或存在肠穿孔，则需要手术治疗。
+如果灌肠不成功或存在肠穿孔，则需要手术治疗。
+如果确认回肠-结肠肠套叠，则使用空气灌肠进行复位，这可以减少穿孔的可能性和后果 (1)。采用这种方法，肠套叠患儿的复位成功率可达80%以上（2）。如果空气灌肠成功，让孩子们观察一夜，以排除隐匿性穿孔。如灌肠复位失败，或是出现肠穿孔，则需手术治疗。
+非手术治疗实现复位后，复发率约为13%或更低，具体取决于所采用的非手术方式（3）。
+
+【治疗参考文献】
+1.Kelley-Quon LI, Arthur LG, Williams RF, et al.Management of intussusception in children: A systematic review.J Pediatr Surg.2021;56(3):587-596.doi:10.1016/j.jpedsurg.2020.09.055
+1.Kelley-Quon LI, Arthur LG, Williams RF, et al.Management of intussusception in children: A systematic review.J Pediatr Surg.2021;56(3):587-596.doi:10.1016/j.jpedsurg.2020.09.055
+2.Sadigh G, Zou KH, Razavi SA, Khan R, Applegate KE.Meta-analysis of Air Versus Liquid Enema for Intussusception Reduction in Children.AJR Am J Roentgenol.2015;205(5):W542-W549.doi:10.2214/AJR.14.14060
+2.Sadigh G, Zou KH, Razavi SA, Khan R, Applegate KE.Meta-analysis of Air Versus Liquid Enema for Intussusception Reduction in Children.AJR Am J Roentgenol.2015;205(5):W542-W549.doi:10.2214/AJR.14.14060
+3.Gray MP, Li SH, Hoffmann RG, Gorelick MH.Recurrence rates after intussusception enema reduction: a meta-analysis.Pediatrics.2014;134(1):110-119.doi:10.1542/peds.2013-3102
+3.Gray MP, Li SH, Hoffmann RG, Gorelick MH.Recurrence rates after intussusception enema reduction: a meta-analysis.Pediatrics.2014;134(1):110-119.doi:10.1542/peds.2013-3102
+肠套叠是一段肠管套入另一个肠管内，通常发生在年龄＜3岁的儿童。
+肠套叠是一段肠管套入另一个肠管内，通常发生在年龄＜3岁的儿童。
+最常见的肠套叠类型是回结肠套叠。
+最常见的肠套叠类型是回结肠套叠。
+儿童通常存在绞痛性腹部疼痛及呕吐，接着排出果酱样大便。
+儿童通常存在绞痛性腹部疼痛及呕吐，接着排出果酱样大便。
+超声检查是诊断的最佳方法。
+超声检查是诊断的最佳方法。
+治疗主要是通过空气灌肠，有时需要手术。
+治疗主要是通过空气灌肠，有时需要手术。

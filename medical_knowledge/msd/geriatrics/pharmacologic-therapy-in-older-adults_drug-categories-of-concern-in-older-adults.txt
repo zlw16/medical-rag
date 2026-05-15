@@ -1,0 +1,97 @@
+标题：老年人需要关注的药物种类
+来源：https://www.msdmanuals.cn/professional/geriatrics/pharmacologic-therapy-in-older-adults/drug-categories-of-concern-in-older-adults
+============================================================
+
+一些药物种类（如止痛药、抗凝药、降压药、抗帕金森药、利尿剂、降糖药、精神活性药物）对老年人构成特别的风险。有些药物虽然适合在较年轻的成年人中使用，但风险太高，因此不应考虑用于大多数老年人。The American Geriatrics Society Beers Criteria®（美国老年医学会Beers标准）是最常用于识别这类可能不适当药物的工具（1）。该标准适用于≥65岁的成人。除了那些在临终关怀或生命终末期护理机构的人。这些标准将潜在不适当的药物分为 5 组：
+老年人应避免使用的药物
+老年人应避免使用的药物
+可能因药物-疾病或药物-综合征相互作用而加重患者疾病或综合征的药物
+可能因药物-疾病或药物-综合征相互作用而加重患者疾病或综合征的药物
+因潜在不良反应需谨慎使用的药物
+因潜在不良反应需谨慎使用的药物
+应避免使用可能存在严重药物间相互作用的药物
+应避免使用可能存在严重药物间相互作用的药物
+应根据肾功能水平避免使用或减少剂量的药物
+应根据肾功能水平避免使用或减少剂量的药物
+一些需特别关注的常用药物类别有
+抗抑郁药
+抗抑郁药
+降血糖药
+降血糖药
+抗高血压药
+抗高血压药
+抗帕金森药
+抗帕金森药
+抗精神病药
+抗精神病药
+抗焦虑药和安眠药
+抗焦虑药和安眠药
+口服非甾体抗炎药 (NSAID) 是老年人常用的药物，包括处方药与非处方药。
+老年人更容易发生这些药物的不良反应，因为以下原因，这些不良反应可能更严重：
+NSAIDs是高度脂溶性的药物，脂肪组织随着年龄而增加，药物的分布广泛。
+NSAIDs是高度脂溶性的药物，脂肪组织随着年龄而增加，药物的分布广泛。
+血浆蛋白通常会减少，这会导致高度蛋白结合的药物的游离（未结合且具有活性）水平升高，从而增强这些药物的药理学效应。
+血浆蛋白通常会减少，这会导致高度蛋白结合的药物的游离（未结合且具有活性）水平升高，从而增强这些药物的药理学效应。
+许多老年人肾功能降低，导致肾脏清除率下降，血药浓度增加。
+许多老年人肾功能降低，导致肾脏清除率下降，血药浓度增加。
+严重的药物不良反应包括消化道溃疡和上消化道出血；NSAID服用之初以及剂量加大时更易发生药物不良反应。 当 NSAIDs 与皮质类固醇、华法林、直接口服抗凝剂、阿司匹林或其他抗血小板药物（如氯吡格雷）合用时，上消化道出血的风险会增加。 非甾体抗炎药还可能增加心血管事件的风险，并可能导致体液潴留，有时还会导致肾病。
+长期使用非甾体抗炎药也会升高血压；这种影响可能未被认识到，并导致加强抗高血压治疗（处方级联）（2）。因此，医生应该将这种影响谨记在心，当老年人血压升高时，询问有无使用NSAIDs，特别是非处方 NSAIDs。
+选择性COX-2（环氧合酶-2）抑制剂（昔布类药物）相比其他非甾体抗炎药，对胃肠道刺激更小且血小板抑制作用更弱。尽管如此，选择性环氧化酶-2抑制剂仍然存在胃肠道出血的风险，尤其是对于正在使用华法林、新型口服抗凝药、氯吡格雷或阿司匹林（即使在低剂量下）的患者，以及那些既往有胃肠道事件病史的患者。昔布类药物似乎会增加心血管事件的风险，但风险可能因药物剂量、持续时间和先前存在的心血管疾病而异；应谨慎使用。昔布类药物相较其他NSAIDs对肾功能还有影响。
+在可能的情况下，应使用风险较低的替代品（例如对乙酰氨基酚、外用双氯芬酸凝胶）。如果老年人使用非甾体抗炎药，应使用最低有效剂量，并应经常检查持续需求和有效性。若长期使用非甾体抗炎药，应密切监测血清肌酐和血压，尤其对于有其他风险因素（如心力衰竭、肾功能不全、肝硬化伴腹水、容量不足、使用利尿剂）的患者，并应考虑联合使用胃保护药物（如质子泵抑制剂或米索前列醇）。
+年龄可能增加华法林抗凝作用的敏感性。仔细用药常规监测，在很大程度上可以解决老年人在服用华法林过程中出血风险增加的问题。此外，由于与华法林的药物相互作用很常见，因此在添加新药、停用旧药或改变剂量时需要进行更密切的监测；如果患者服用多种药物，应咨询计算机化的药物相互作用程序。还应监测患者使用华法林时与食物、酒精、非处方药及补充剂的相互作用。新型口服抗凝药（达比加群、利伐沙班、阿哌沙班、依度沙班）可能比华法林更易调整剂量，且药物相互作用及食物-药物相互作用更少。与华法林相比，新型口服抗凝剂在降低中风风险方面同样有效甚至更有效，并且对于心房颤动患者来说，颅内出血的风险更低（3）；然而，这些药物仍然会增加老年人的出血风险，尤其是肾功能不全的老年人。
+
+【抗抑郁药】
+三环类抗抑郁药是有效的，但应少用于老年患者。选择性血清素再摄取抑制剂（SSRIs）和混合再摄取抑制剂，如血清素-去甲肾上腺素再摄取抑制剂（SNRIs），与三环类抗抑郁药（TCAs）同样有效且毒性较低；然而，对于其中某些药物仍存在一些担忧（详见下文）。此外，所有 SSRIs、SNRIs 和 TCAs 都会增加老年人跌倒和低钠血症的风险。
+帕罗西汀：比其他 SSRI 镇静作用更强，具有抗胆碱能作用，并且像其他一些 SSRI 一样，可以抑制肝细胞色素 P-450 2D6 酶的活性，可能会损害多种药物的代谢，包括他莫昔芬、某些抗精神病药、阿片类药物、抗心律失常药和三环类抗抑郁药。
+帕罗西汀：比其他 SSRI 镇静作用更强，具有抗胆碱能作用，并且像其他一些 SSRI 一样，可以抑制肝细胞色素 P-450 2D6 酶的活性，可能会损害多种药物的代谢，包括他莫昔芬、某些抗精神病药、阿片类药物、抗心律失常药和三环类抗抑郁药。
+西酞普兰和艾司西酞普兰：老年人的剂量分别限制为每天最多 20 毫克和每天 10 毫克，因为担心 QT 间期延长
+西酞普兰和艾司西酞普兰：老年人的剂量分别限制为每天最多 20 毫克和每天 10 毫克，因为担心 QT 间期延长
+文拉法辛和度洛西汀：可能会升高血压
+文拉法辛和度洛西汀：可能会升高血压
+米氮平：具有镇静作用，并可能刺激食欲/体重增加
+米氮平：具有镇静作用，并可能刺激食欲/体重增加
+舍曲林：导致腹泻的风险最高
+舍曲林：导致腹泻的风险最高
+安非他酮：可降低癫痫发作阈值，并且是肝脏细胞色素P-450 2D6酶活性的强效抑制剂，可能损害多种药物（如帕罗西汀和氟西汀）的代谢。
+安非他酮：可降低癫痫发作阈值，并且是肝脏细胞色素P-450 2D6酶活性的强效抑制剂，可能损害多种药物（如帕罗西汀和氟西汀）的代谢。
+糖尿病患者的降糖药物剂量应谨慎调整。磺脲类药物低血糖的风险可能随着年龄增加。氯磺丙脲不推荐用于老年患者，因为其会增加低血糖的风险，以及由于抗利尿激素分泌异常综合征（SIADH）导致的低钠血症的风险。格列苯脲和格列美脲的低血糖风险也高于其他口服降糖药，因为老年人肾脏清除能力下降。
+二甲双胍，一种由肾脏排出体外的双胍类，增加外周组织对胰岛素的敏感性，可单独使用或与磺脲类同服。乳酸酸中毒是一种罕见但严重的并发症，其风险随肾功能损害程度和患者年龄的增加而升高。有症状的心衰是一个禁忌症。
+钠-葡萄糖协同转运蛋白-2 (SGLT2) 抑制剂（例如，卡格列净、达格列净和恩格列净）可增加尿路感染、真菌感染以及伴有体位性低血压的血容量不足的风险；肾功能受损的患者应避免使用它们。
+胰高血糖素样肽1（GLP1）受体激动剂可用于老年人，但需仔细评估胃肠道耐受性（便秘和腹泻）、食欲和体重下降以及肌肉流失。
+对于许多老年人，可能需要较低的起始抗高血压药物剂量以降低不良反应风险；然而，对于大多数患有高血压的老年人，达到血压目标需要标准剂量和多种药物联合治疗。在老年人高血压初始治疗根据合并症的不同，通常涉及噻嗪类利尿剂，血管紧张素转换酶（ACE）抑制剂，血管紧张素II受体阻断剂，或二氢吡啶钙通道阻滞剂。β受体阻滞剂应仅用于心脏病患者或心房颤动的频率控制。短效的硝苯地平可能增加死亡风险，不应该使用。
+应监测坐位和立位血压，尤其是在使用多种降压药时，以检查是否存在体位性低血压，这可能会增加跌倒和骨折的风险。老年人的动态或家庭血压监测也可能比诊所血压更准确，因为许多老年人患有白大衣综合征（在医生办公室时血压升高）或隐匿性高血压（在医生办公室时血压降低）。临床医生必须平衡老年人的血压目标和不良反应的风险（例如诱发体位性低血压或增加跌倒的风险）。
+
+【抗帕金森药物】
+左旋多巴在老年人中的清除率降低，且他们对药物的不良反应更为敏感，特别是体位性低血压和意识混乱。因此，老年人应该从较小剂量开始服用左旋多巴，同时密切监测药物不良反应。服用左旋多巴时出现意识模糊的患者也可能无法耐受多巴胺激动剂（如普拉克索、罗匹尼罗）。因为患帕金森综合征的老年人也可能有并发的认知症状，所以应避免使用抗胆碱能药物（例如，苯海拉明、苯扎托品、苯海索）。
+
+【抗精神病药】
+抗精神病药仅应用于治疗精神病或作为辅助治疗用于特定难治性重度抑郁症患者。对于非精神病性激越患者，抗精神病药物控制症状的效果仅略优于安慰剂，且可能引发严重不良反应。在痴呆症患者中，研究表明抗精神病药会增加死亡率及卒中风险，因此美国食品药品监督管理局（FDA）对此类患者使用该类药物发布了黑框警告。通常而言，与痴呆相关的行为问题（如徘徊、喊叫、不合作）对抗精神病药物治疗无显著反应。不应仅因为行为问题（例如，大喊大叫，重复短语）让护理人员或患者以外的人感到烦恼而使用抗精神病药物。布雷哌唑是第二代抗精神病药，用于治疗阿尔茨海默病痴呆相关的激越症状，但随机试验显示，与安慰剂相比，其对激越症状的疗效有限（4、 5）。布雷哌唑与其他抗精神病药一样带有黑框警告，提示其可能增加痴呆患者死亡率。该药还与头痛、锥体外系症状、镇静和跌倒相关。
+开始使用抗精神病药物时，起始剂量应约为成人常用起始剂量的四分之一，并且在密切监测治疗效果和不良反应的基础上逐渐加量。一旦患者有治疗效果，剂量应下调，如果可能的话，应使用最低有效剂量。如果无效，需要停药。老年人使用这些药物的剂量、疗效及安全性有关的临床研究数据是有限的。
+抗精神病药物可以减少妄想，但可能会加重意识混乱（另请参见抗精神病药：常规的抗精神病药）。老年人，尤其是女性，增加迟发性运动障碍的风险，通常是不可逆的。服用抗精神病药物的老年人中，高达20%可能出现镇静、体位性低血压、抗胆碱能效应以及静坐不能（主观性运动不安），且药物诱发的帕金森综合征可在停药后持续长达6至9个月。
+即使使用第二代抗精神病药物（如奥氮平、喹硫平、利培酮）时也可发生锥体外系功能障碍，尤其是大剂量使用时。使用抗精神病药物的风险和收益应与患者或患者的健康负责人讨论。只有当非药物治疗失败且患者行为对自己或他人构成威胁时才考虑使用抗精神病药物治疗行为问题。
+
+【抗焦虑药和安眠药】
+在使用催眠药之前，应寻找并处理可治疗的失眠原因。 应先尝试非药物措施，如认知行为治疗，和调整睡眠习惯（如避免使用含咖啡因的饮料，限制白天午睡，调整就寝时间）。短期使用一些治疗失眠的药物可能比其他药物更安全，且有证据支持其对老年人失眠有效。这些药物包括低剂量多塞平（最高6毫克）、达利多雷生、伦博雷生、苏沃雷生和雷美替胺。非苯二氮卓类催眠药（例如唑吡坦、右佐匹克隆、扎来普隆）以及短效、中效和长效苯二氮卓类药物会增加老年人认知障碍、谵妄、跌倒、骨折和机动车事故的风险，应避免用于治疗失眠。苯二氮䓬类药物可能适合治疗老年人的焦虑或惊恐发作。
+因为可能产生耐受性和依赖性，应该尽可能限制抗焦虑药和安眠药的治疗疗程；撤药可能导致焦虑或失眠的反弹。
+抗组胺药（如苯海拉明，羟嗪）不推荐作为抗焦虑药或安眠药使用，因为它们有抗胆碱作用，其镇静效果很快出现耐受。
+丁螺环酮是一种部分血清素激动剂，对广泛性焦虑症有效；老年人可耐受高达30毫克/日的剂量。抗焦虑起效时间慢（最长2～3周），不适合在紧急情况下使用。
+地高辛，一种强心甙，用于增加心肌收缩力及治疗室上性心律失常。但是对于老年人必须谨慎使用。在射血分数为≤45%的心力衰竭男性患者中，血清地高辛水平>0.8纳克/毫升（1.0纳摩尔/升）与死亡风险增加相关。药物不良反应的产生通常与治疗指数窄有关。一项研究发现，当血清水平为0.5至0.9纳克/毫升（0.6至1.2纳摩尔/升）时，地高辛对女性有益，但当水平≥1.2纳克/毫升（1.5纳摩尔/升）时可能有害（6）。
+老年人中有一些因素使得地高辛中毒可能性增加。肾功能不全，暂时性脱水，非甾体抗炎药（NSAID）使用（在老年人中很常见）都能降低地高辛的肾脏清除率。此外，在正常血清肌酐水平的老年人中，地高辛清除率也降低50％左右。此外，如果瘦体重减少，伴随衰老而发生，地高辛的分布体积也减少。因此，起始宜从小剂量开始（0.125mg/d），根据治疗反应和地高辛血药浓度（正常范围为0.8～2.0ng/mL [1.0～2.6 nmol/L]）进一步调整剂量。但是，地高辛血药浓度并不总与毒性反应相平行。此外，the American Geriatric Society Beers Criteria®（美国老年医学会Beers标准）建议避免使用剂量>0.125毫克/天（1），并避免将地高辛作为心力衰竭和心房颤动的一线治疗药物。对于临床稳定的心力衰竭患者，若已接受其他适当治疗，停用地高辛可能是合适的（7）。
+较低剂量的噻嗪类利尿剂（如氢氯噻嗪或氯噻酮）能有效控制许多老年人的高血压，且相比其他利尿剂，低钾血症和高血糖的风险更低。需要钾补充治疗的情况较少。
+老年人使用保钾利尿剂应特别谨慎，必须小心监测血钾水平，特别是在使用这些利尿剂的同时使用血管紧张素转换酶（ACE）抑制剂或血管紧张素II受体拮抗剂或当患者存在肾功能不全的情况下。
+
+【参考文献】
+1.The 2023 American Geriatrics Society Beers Criteria®Update Expert Panel.American Geriatrics Society 2023 updated AGS Beers Criteria®for potentially inappropriate medication use in older adults.J Am Geriatr Soc.2023;71(7):2052-2081.doi:10.1111/jgs.18372
+1.The 2023 American Geriatrics Society Beers Criteria®Update Expert Panel.American Geriatrics Society 2023 updated AGS Beers Criteria®for potentially inappropriate medication use in older adults.J Am Geriatr Soc.2023;71(7):2052-2081.doi:10.1111/jgs.18372
+2.Ruschitzka F, Borer JS, Krum H, et al.Differential blood pressure effects of ibuprofen, naproxen, and celecoxib in patients with arthritis: the PRECISION-ABPM (Prospective Randomized Evaluation of Celecoxib Integrated Safety Versus Ibuprofen or Naproxen Ambulatory Blood Pressure Measurement) Trial.Eur Heart J.2017;38(44):3282-3292.doi:10.1093/eurheartj/ehx508
+2.Ruschitzka F, Borer JS, Krum H, et al.Differential blood pressure effects of ibuprofen, naproxen, and celecoxib in patients with arthritis: the PRECISION-ABPM (Prospective Randomized Evaluation of Celecoxib Integrated Safety Versus Ibuprofen or Naproxen Ambulatory Blood Pressure Measurement) Trial.Eur Heart J.2017;38(44):3282-3292.doi:10.1093/eurheartj/ehx508
+3.Writing Committee Members, Joglar JA, Chung MK, et al.2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inJ Am Coll Cardiol. 2024 Mar 5;83(9):959. doi: 10.1016/j.jacc.2024.01.020.] [published correction appears inJ Am Coll Cardiol. 2024 Jun 25;83(25):2714. doi: 10.1016/j.jacc.2024.05.033.].J Am Coll Cardiol.2024;83(1):109-279.doi:10.1016/j.jacc.2023.08.017
+3.Writing Committee Members, Joglar JA, Chung MK, et al.2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inJ Am Coll Cardiol. 2024 Mar 5;83(9):959. doi: 10.1016/j.jacc.2024.01.020.] [published correction appears inJ Am Coll Cardiol. 2024 Jun 25;83(25):2714. doi: 10.1016/j.jacc.2024.05.033.].J Am Coll Cardiol.2024;83(1):109-279.doi:10.1016/j.jacc.2023.08.017
+4.Grossberg GT, Kohegyi E, Mergel V, et al.Efficacy and Safety of Brexpiprazole for the Treatment of Agitation in Alzheimer's Dementia: Two 12-Week, Randomized, Double-Blind, Placebo-Controlled Trials.Am J Geriatr Psychiatry.2020;28(4):383-400.doi:10.1016/j.jagp.2019.09.009
+4.Grossberg GT, Kohegyi E, Mergel V, et al.Efficacy and Safety of Brexpiprazole for the Treatment of Agitation in Alzheimer's Dementia: Two 12-Week, Randomized, Double-Blind, Placebo-Controlled Trials.Am J Geriatr Psychiatry.2020;28(4):383-400.doi:10.1016/j.jagp.2019.09.009
+5.Lee D, Slomkowski M, Hefting N, et al.Brexpiprazole for the Treatment of Agitation in Alzheimer Dementia: A Randomized Clinical Trial.JAMA Neurol.2023;80(12):1307-1316.doi:10.1001/jamaneurol.2023.3810
+5.Lee D, Slomkowski M, Hefting N, et al.Brexpiprazole for the Treatment of Agitation in Alzheimer Dementia: A Randomized Clinical Trial.JAMA Neurol.2023;80(12):1307-1316.doi:10.1001/jamaneurol.2023.3810
+6.Adams KF Jr, Patterson JH, Gattis WA, et al.Relationship of serum digoxin concentration to mortality and morbidity in women in the digitalis investigation group trial: a retrospective analysis.J Am Coll Cardiol.2005;46(3):497-504.doi:10.1016/j.jacc.2005.02.091
+6.Adams KF Jr, Patterson JH, Gattis WA, et al.Relationship of serum digoxin concentration to mortality and morbidity in women in the digitalis investigation group trial: a retrospective analysis.J Am Coll Cardiol.2005;46(3):497-504.doi:10.1016/j.jacc.2005.02.091
+7.Lam PH, Liu K, Ahmed AA, et al.Digoxin Discontinuation in Patients With HFrEF on Beta-Blockers: Implication for Future 'Knock-Out Trials' in Heart Failure.Am J Med.2025;138(3):495-503.e1.doi:10.1016/j.amjmed.2024.10.015
+7.Lam PH, Liu K, Ahmed AA, et al.Digoxin Discontinuation in Patients With HFrEF on Beta-Blockers: Implication for Future 'Knock-Out Trials' in Heart Failure.Am J Med.2025;138(3):495-503.e1.doi:10.1016/j.amjmed.2024.10.015

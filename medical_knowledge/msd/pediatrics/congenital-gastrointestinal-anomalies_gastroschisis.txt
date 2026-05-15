@@ -1,0 +1,35 @@
+标题：腹裂
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-gastrointestinal-anomalies/gastroschisis
+============================================================
+
+（参见先天性胃肠道畸形概述。)
+腹裂的估计发病率为每2500名活产儿中有1例（1）。这种疾病比脐膨出更常见。
+在腹裂中，缺陷通常位于脐带插入的右侧。缺陷的位置与脐膨出不同。在脐膨出中，中线缺损位于脐部基底。
+与脐膨出不同，腹裂患儿的肠管表面没有薄膜覆盖，肠管表面水肿、红斑，常附有一层纤维素样物质。这些发现表明，肠道直接接触羊水会引发长期炎症（即化学性腹膜炎），而这种炎症最终可能导致纤维化、运动障碍或梗阻。
+患有腹裂的婴儿除胃肠道畸形（如肠旋转不良和肠闭锁，发生率约25%）外，合并其他先天性异常的发生率较低（10%-15%）(2,3)。
+此图显示一个大的腹裂。注意观察腹裂处缺乏膜性覆盖物，以及位于其左侧的脐带。
+© Springer Science+Business Media
+产前可通过血液检测中甲胎蛋白水平异常升高而怀疑腹裂，并可通过产前超声确诊（4）；确诊后，应在设有新生儿重症监护和儿科外科服务的三级医院分娩。
+
+【参考文献】
+1.Friedman AM, Ananth CV, Siddiq Z, et al: Gastroschisis: epidemiology and mode of delivery, 2005-2013.Am J Obstet Gynecol215(3):348.e1-348.e3489, 2016.doi:10.1016/j.ajog.2016.03.039
+1.Friedman AM, Ananth CV, Siddiq Z, et al: Gastroschisis: epidemiology and mode of delivery, 2005-2013.Am J Obstet Gynecol215(3):348.e1-348.e3489, 2016.doi:10.1016/j.ajog.2016.03.039
+2.Mastroiacovo P, Lisi A, Castilla EE, et al: Gastroschisis and associated defects: An international study.Am J Med Genet A143A(7):660-671, 2007.doi: 10.1002/ajmg.a.31607
+2.Mastroiacovo P, Lisi A, Castilla EE, et al: Gastroschisis and associated defects: An international study.Am J Med Genet A143A(7):660-671, 2007.doi: 10.1002/ajmg.a.31607
+3.Abdullah F, Arnold MA, Nabaweesi R, et al: Gastroschisis in the United States 1988-2003: Analysis and risk categorization of 4344 patients.J Perinatol27(1):50-55, 2007.doi: 10.1038/sj.jp.7211616
+3.Abdullah F, Arnold MA, Nabaweesi R, et al: Gastroschisis in the United States 1988-2003: Analysis and risk categorization of 4344 patients.J Perinatol27(1):50-55, 2007.doi: 10.1038/sj.jp.7211616
+4.Bence CM, Wagner AJ: Abdominal wall defects.Transl Pediatr10(5):1461-1469, 2021.doi:10.21037/tp-20-94
+4.Bence CM, Wagner AJ: Abdominal wall defects.Transl Pediatr10(5):1461-1469, 2021.doi:10.21037/tp-20-94
+
+【腹裂的治疗】
+外科手术修复
+外科手术修复
+在娩出时，暴露的内脏应立即用无菌、湿润、不粘连的敷料（如可覆盖塑料薄膜的药用凡士林纱布）覆盖，以保持无菌状态并防止水分蒸发。随后应给予婴儿静脉输液和抗生素（最常用广谱方案如氨苄西林和庆大霉素，但仅覆盖皮肤菌群可能已足够）（1），并置入鼻胃管。由于从暴露的肠道中流失过多的液体，所需的液体量通常明显高于正常健康新生儿所需的液体量（1.5至2倍）。
+在手术修复前，对婴儿的相关异常进行评估。在可行的情况下，施行一期闭合术。当大量肠管脱出时，腹腔可能因空间不足而无法容纳这些脏器。在这种情况下，内脏被一层聚合物硅胶薄膜制成的袋囊或帐篷状覆盖物包裹。随着腹腔容量在数日内缓慢增大，该覆盖物的尺寸被逐步缩小，直至所有内脏均被容纳回腹腔内。最近，已经使用脐带或合成敷料覆盖缺损进行了腹裂的无缝缝合修复。需要更多的研究来评估这种方法的有效性。
+通常需要数周时间，胃肠道功能才能恢复并开始经口喂养 。通常需要肠胃外或肠内营养，有时需要数月时间才能达到完全的口服喂养量。偶尔，婴儿会因肠道运动异常而出现长期问题（2）。
+
+【治疗参考文献】
+1.Slidell MB, McAteer J, Miniati D, et al.Management of Gastroschisis: Timing of Delivery, Antibiotic Usage, and Closure Considerations (A Systematic Review From the American Pediatric Surgical Association Outcomes & Evidence Based Practice Committee).J Pediatr Surg.2024;59(8):1408-1417.doi:10.1016/j.jpedsurg.2024.03.044
+1.Slidell MB, McAteer J, Miniati D, et al.Management of Gastroschisis: Timing of Delivery, Antibiotic Usage, and Closure Considerations (A Systematic Review From the American Pediatric Surgical Association Outcomes & Evidence Based Practice Committee).J Pediatr Surg.2024;59(8):1408-1417.doi:10.1016/j.jpedsurg.2024.03.044
+2.Ferreira RG, Mendonça CR, Gonçalves Ramos LL, de Abreu Tacon FS, Naves do Amaral W, Ruano R.Gastroschisis: a systematic review of diagnosis, prognosis and treatment.J Matern Fetal Neonatal Med.2022;35(25):6199-6212.doi:10.1080/14767058.2021.1909563
+2.Ferreira RG, Mendonça CR, Gonçalves Ramos LL, de Abreu Tacon FS, Naves do Amaral W, Ruano R.Gastroschisis: a systematic review of diagnosis, prognosis and treatment.J Matern Fetal Neonatal Med.2022;35(25):6199-6212.doi:10.1080/14767058.2021.1909563

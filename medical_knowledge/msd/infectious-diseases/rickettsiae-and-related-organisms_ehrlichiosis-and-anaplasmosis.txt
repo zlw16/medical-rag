@@ -1,0 +1,75 @@
+标题：埃立克体病和无形体病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/rickettsiae-and-related-organisms/ehrlichiosis-and-anaplasmosis
+============================================================
+
+（参见立克次体和相关病原体感染概述。）
+埃立克体病和无形体病属于立克次体病。
+E. chaffeensis查菲埃利希体可引起人体单核细胞埃立克体病。大多数单核细胞埃立克体病发生在美国东南部和中南部，这些地方节肢动物载体（美洲花蜱）是地方性的。(见Centers for Disease Control and Prevention: Ehrlichiosis–epidemiology and statistics。)
+Anaplasma phagocytophilum（嗜吞噬细胞无形体）（以前称为E. phagocytophila（粒细胞埃立克体））会导致人粒细胞无形体病，该病发生在美国东北部、大西洋中部、中西部和西海岸，在这些地方其节肢动物媒介（硬蜱）是地方性的。莱姆病、巴贝斯原虫病和波瓦桑病毒都经蜱传播，流行区域相似。散发患者被感染多种病原体的蜱咬伤后，可导致混合感染。报道的很多无形体病病例是发生在输注无症状或急性感染捐助者的血液后。(见Centers for Disease Control and Prevention: Anaplasmosis–epidemiology and statistics。)
+
+【经验与教训】
+经验与教训
+因为莱姆病、巴贝虫病和波瓦桑病毒与无形体病有相同的蜱媒和流行区域，所以蜱(以及它们叮咬的人)可能同时感染一种以上的病原体。
+因为莱姆病、巴贝虫病和波瓦桑病毒与无形体病有相同的蜱媒和流行区域，所以蜱(以及它们叮咬的人)可能同时感染一种以上的病原体。
+主要靶细胞不同（埃立克体病作用于单核细胞，无形体病作用于粒细胞），导致临床表现仅有轻微差别。
+这张图片显示的是一只成年鹿蜱，肩突硬蜱，该蜱虫可传播Babesia microti（微小巴贝虫）和Borrelia burgdorferi（伯氏疏螺旋体），微小巴贝虫是巴贝虫病的病原体，伯氏疏螺旋体则是莱姆病的病原体之一。
+Image courtesy of James Gathany via the Public Health Image Library of the Centers for Disease Control and Prevention.
+
+【埃立克体病和无形体病的症状和体征】
+埃立克体病和无形体病的临床特征相似。少部分人呈无症状感染；多数病人出现突发的流感样症状，如非特异性的发热、寒战、肌痛、无力、恶心、呕吐、咳嗽。 头痛和不适，通常在蜱叮咬12天后起病。
+皮疹少见于无形体病。部分感染E. chaffeensis（查菲埃立克体）的患者会在躯干和四肢出现斑丘疹或淤点性皮疹。
+埃立克体病和无形体病可出现弥散性血管内凝血、多器官功能衰竭、癫痫及昏迷。
+对于使用免疫抑制剂（如糖皮质激素、肿瘤化疗、器官移植后长期免疫抑制剂治疗）、HIV感染者或脾切除引起的免疫力下降患者，感染表现更为严重或有更高的死亡率。
+
+【埃立克体病和无形体病的诊断】
+血液样本的聚合酶链反应（PCR）检测
+血液样本的聚合酶链反应（PCR）检测
+对于埃立克体病和无形体病，通过血清学检测以诊断的方法可用于临床，但血标本的PCR方法更灵敏和具有特异性，相比于血清学检测，PCR方法可以做到早期诊断。单核细胞（埃里希体病）或嗜中性粒细胞（无形体病）中的细胞质包涵体均可检测得出，但后者的细胞质包涵体更常见。
+血常规和肝功检查示白细胞减少、血小板减少及肝功异常，尤其是转氨酶明显升高。
+
+【埃立克体病和无形体病的治疗】
+多西环素
+多西环素
+建议在得到实验室检测报告之前即开始治疗，开始治疗的越早，效果越好。延迟治疗可能导致严重并发症，如合并病毒和真菌感染，病死率可达2％～5％。
+主要治疗是多西环素，直至患者好转并无发热24 ~ 48小时，但持续至少7日。对于不能耐受强力霉素的患者，建议进行脱敏治疗。
+尽管一些四环素类药物会导致8岁以下儿童牙齿染色，但疾病控制和预防中心（CDC）建议使用多西环素治疗 (1）。研究表明，短疗程的多西环素（5 至 10 天，用于治疗立克次体病）可用于儿童，而不会导致牙齿染色或牙釉质变弱（2; 参见CDC: Research on doxycycline and tooth staining）。
+氯霉素是无效的。
+有些患者在适当的治疗后数周内会继续出现头痛、虚弱和全身乏力等不适症状。
+
+【治疗参考文献】
+1.Centers for Disease Control and Prevention: Ehrlichiosis
+1.Centers for Disease Control and Prevention: Ehrlichiosis
+2.Todd SR, Dahlgren FS, Traeger MS, et al: No visible dental staining in children treated with doxycycline for suspected Rocky Mountain Spotted Fever.J Pediatr166(5):1246-51, 2015.doi: 10.1016/j.jpeds.2015.02.015
+2.Todd SR, Dahlgren FS, Traeger MS, et al: No visible dental staining in children treated with doxycycline for suspected Rocky Mountain Spotted Fever.J Pediatr166(5):1246-51, 2015.doi: 10.1016/j.jpeds.2015.02.015
+
+【埃立克体病和无形体病的预防】
+没有疫苗可预防埃立克体病或无形体病。可以采取措施预防蜱叮咬。(参见Centers for Disease Control and Prevention:Preventing tick bites.)
+防止蜱接触皮肤的方法包括
+走在步道和小径上
+走在步道和小径上
+将裤腿塞进靴子或袜子里
+将裤腿塞进靴子或袜子里
+穿长袖衬衫
+穿长袖衬衫
+在皮肤表面应用含二乙甲苯酚胺（DEET）的驱虫剂
+在皮肤表面应用含二乙甲苯酚胺（DEET）的驱虫剂
+在非常年幼的儿童应慎重使用避蚊胺，因为已有毒性反应的报道。衣物上使用扑灭司林可有效杀死蜱。频繁寻找蜱，尤其是在毛发多的区域和儿童，在流行地区至关重要。
+应小心移开充血的蜱，不要用手指捏碎蜱，因为可能导致疾病的传播。不应握紧或挤压蜱的身体。用小镊子逐步牵拉头取出蜱。接触处应擦拭酒精。凡士林、点燃火柴和其他刺激物都不能有效去除蜱，不应使用。
+没有切实可行的方法来去除整个地区的蜱，但在流行区域通过控制小动物种群可减少蜱的种群数。
+埃立克体病和无形体病是与立克次体病相关的蜱传感染。
+埃立克体病和无形体病是与立克次体病相关的蜱传感染。
+埃立克体病和无形体病的临床特征相似，通常伴有流感样疾病的突然发作;皮疹在无形体病中不常见。
+埃立克体病和无形体病的临床特征相似，通常伴有流感样疾病的突然发作;皮疹在无形体病中不常见。
+埃立克体病及无形体病可出现弥散性血管内凝血、多器官功能衰竭、癫痫及昏迷。
+埃立克体病及无形体病可出现弥散性血管内凝血、多器官功能衰竭、癫痫及昏迷。
+对血液进行PCR检测，这比血清学检测更加敏感和特异，并且可以做到早期诊断。
+对血液进行PCR检测，这比血清学检测更加敏感和特异，并且可以做到早期诊断。
+用多西环素治疗，最好在实验室结果回报前就开始治疗。
+用多西环素治疗，最好在实验室结果回报前就开始治疗。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Centers for Disease Control and Prevention:有关预防蜱叮咬的信息
+Centers for Disease Control and Prevention:有关预防蜱叮咬的信息
+疾病控制和预防中心：有关ehrlichiosis和anaplasmosis流行病学的信息和统计数据
+疾病控制和预防中心：有关ehrlichiosis和anaplasmosis流行病学的信息和统计数据

@@ -1,0 +1,195 @@
+标题：鼻窦炎
+来源：https://www.msdmanuals.cn/professional/ear-nose-and-throat-disorders/nose-and-paranasal-sinus-disorders/sinusitis
+============================================================
+
+鼻窦炎可分为急性（在<4周以内完全消退）、复发性（每年≥4次独立的急性发作，每次发作均在<30天内完全消退但呈周期性复发，且症状完全消退至下次发作开始之间至少间隔10天）和慢性鼻窦炎（症状持续>12周）（1）。关于鼻窦炎的中期类型，即有时被称为亚急性鼻窦炎（在4至12周内完全消退）的数据有限。感染性或炎症性鼻窦炎常与非过敏性鼻炎相关。
+
+【参考文献】
+1.Rosenfeld RM, Piccirillo JF, Chandrasekhar SS, et al.Clinical practice guideline (update): Adult Sinusitis Executive Summary.Otolaryngol Head Neck Surg.2015;152(4):598-609.doi:10.1177/0194599815574247
+1.Rosenfeld RM, Piccirillo JF, Chandrasekhar SS, et al.Clinical practice guideline (update): Adult Sinusitis Executive Summary.Otolaryngol Head Neck Surg.2015;152(4):598-609.doi:10.1177/0194599815574247
+
+【鼻窦炎的病因】
+急性鼻窦炎估计每年影响美国约3000万成人（约占总人口的9%）（1）。它发生在社区中免疫功能正常的患者中，并几乎总是病毒性感染（例如，鼻病毒、流感病毒、副流感病毒）；病毒感染可能引起伴随的鼻炎。一小部分会发展为继发性细菌感染（致病菌有streptococci（链球菌）、pneumococci（肺炎双球菌）、Haemophilus influenzae（流感嗜血杆菌）、Moraxella catarrhalis（卡他莫拉菌）或staphylococci（葡萄球菌））。偶尔，上颌牙的根尖周牙脓肿可能会扩散到其上方的鼻窦。医院获得性急性感染以细菌性感染更常见，通常包括Staphylococcus aureus（金黄色葡萄球菌）或革兰阴性杆菌，如Klebsiella pneumoniae（肺炎克雷伯菌）、Pseudomonas aeruginosa（铜绿假单胞菌）、Proteus mirabilis（奇异变形杆菌）和Enterobacter（肠杆菌）。免疫功能低下的病人可患急性侵袭性真菌性鼻窦炎（见免疫缺陷患者鼻窦炎）。当患者在首次发病后10天仍出现持续症状时，应怀疑其患有急性细菌性鼻窦炎（2）。
+慢性鼻窦炎的全球总患病率为9%（3）。它涉及多种因素共同作用导致慢性炎症。慢性过敏、结构异常（例如鼻息肉）、环境刺激物（例如空气污染、烟草烟雾）、黏液纤毛功能障碍以及其他因素，与感染性微生物相互作用，共同导致慢性鼻窦炎。常见的致病微生物为细菌性（可能为黏膜表面生物膜的一部分），也可能是真菌。涉及多种细菌，包括革兰阴性杆菌和口咽厌氧微生物；多重微生物感染较为常见。少数情况下，慢性上颌窦炎可继发于牙源性感染。真菌感染（Aspergillus（曲霉菌）、Sporothrix（孢子丝菌）、Pseudallescheria（假霉样真菌））可以是慢性的并且倾向发生于老年患者和免疫力低下的患者。
+过敏性真菌性鼻窦炎是一种慢性鼻窦炎，表现为弥漫性鼻腔充血，黏稠的鼻腔分泌物，常伴有鼻息肉。为机体对鼻窦内存在的Aspergillus（曲霉菌）真菌的过敏反应，并非侵袭性感染造成。
+侵袭性真菌性鼻窦炎是免疫功能低下患者的急性或慢性、侵袭性、有时致命的感染，通常由Aspergillus（曲霉菌属） 或Mucor（毛霉菌属） 所致。
+
+【危险因素】
+鼻窦炎常为多因素导致的，涉及解剖因素、宿主易感性和环境暴露的复杂相互作用。鼻窦炎的危险因素包括：
+过敏性鼻炎
+过敏性鼻炎
+鼻胃管或鼻气管插管
+鼻胃管或鼻气管插管
+鼻腔填塞
+鼻腔填塞
+原发性免疫缺陷（例如，免疫球蛋白水平低，如IgA、IgM和IgG导致常见变异型免疫缺陷病）
+原发性免疫缺陷（例如，免疫球蛋白水平低，如IgA、IgM和IgG导致常见变异型免疫缺陷病）
+免疫功能低下状态（例如，糖尿病、晚期HIV感染）
+免疫功能低下状态（例如，糖尿病、晚期HIV感染）
+长期重症监护病房住院
+长期重症监护病房住院
+严重烧伤
+严重烧伤
+囊性纤维化
+囊性纤维化
+纤毛运动障碍
+纤毛运动障碍
+二手烟暴露
+二手烟暴露
+空气污染
+空气污染
+职业暴露导致吸入粉尘、化学物质和其他刺激物
+职业暴露导致吸入粉尘、化学物质和其他刺激物
+
+【病因参考文献】
+1.Rosenfeld RM.CLINICAL PRACTICE.Acute Sinusitis in Adults.N Engl J Med.2016;375(10):962-970.doi:10.1056/NEJMcp1601749
+1.Rosenfeld RM.CLINICAL PRACTICE.Acute Sinusitis in Adults.N Engl J Med.2016;375(10):962-970.doi:10.1056/NEJMcp1601749
+2.Peters AT, Spector S, Hsu J, et al.Diagnosis and management of rhinosinusitis: a practice parameter update.Ann Allergy Asthma Immunol.2014;113(4):347-385.doi:10.1016/j.anai.2014.07.025
+2.Peters AT, Spector S, Hsu J, et al.Diagnosis and management of rhinosinusitis: a practice parameter update.Ann Allergy Asthma Immunol.2014;113(4):347-385.doi:10.1016/j.anai.2014.07.025
+3.Min HK, Lee S, Kim S, et al.Global Incidence and Prevalence of Chronic Rhinosinusitis: A Systematic Review.Clin Exp Allergy.2025;55(1):52-66.doi:10.1111/cea.14592
+3.Min HK, Lee S, Kim S, et al.Global Incidence and Prevalence of Chronic Rhinosinusitis: A Systematic Review.Clin Exp Allergy.2025;55(1):52-66.doi:10.1111/cea.14592
+
+【鼻窦炎的病理生理】
+在上呼吸道感染（URI）患者，由于鼻黏膜肿胀阻塞鼻窦开口，而鼻窦内的氧气被吸收到黏膜血管中，由此产生的鼻窦内负压（真空性鼻窦炎）会引起疼痛。缺氧诱导因子（HIF）-1α在炎症反应和黏液过度分泌中起重要作用（1）。如果保持负压，来自黏膜的漏出液会形成并填满窦腔；这种漏出液可能成为细菌的培养基，细菌可以通过窦口进入窦腔，或者通过黏膜固有层的蜂窝织炎或血栓性静脉炎扩散。鼻窦炎中MUC5AC基因表达上调，该基因是呼吸道黏蛋白和渗出液产生的关键基因。随后免疫血清及白细胞大量渗出以清除感染，并导致阻塞的鼻窦内形成疼痛性正压 (2)。鼻窦黏膜出现充血和水肿。
+鼻窦炎的主要并发症是细菌感染的局部扩散，导致眶隔前蜂窝织炎、眶周蜂窝织炎或眶内蜂窝织炎、海绵窦血栓形成，或硬膜外脓肿或脑脓肿。也可能发生脑膜炎和硬膜下积脓。
+
+【病理生理学参考文献】
+1.Kim YJ, Cho HJ, Shin WC,et al.Hypoxia-mediated mechanism of MUC5AC production in human nasal epithelia and its implication in rhinosinusitis.PLoS One.2014;9(5):e98136.Published 2014 May 19.doi:10.1371/journal.pone.0098136
+1.Kim YJ, Cho HJ, Shin WC,et al.Hypoxia-mediated mechanism of MUC5AC production in human nasal epithelia and its implication in rhinosinusitis.PLoS One.2014;9(5):e98136.Published 2014 May 19.doi:10.1371/journal.pone.0098136
+2.Orlandi RR, Kingdom TT, Hwang PH, et al.International consensus statement on allergy and rhinology: Rhinosinusitis.Int Forum Allergy Rhinol6 (Suppl 1):S22–209, 2016.doi: 10.1002/alr.21695
+2.Orlandi RR, Kingdom TT, Hwang PH, et al.International consensus statement on allergy and rhinology: Rhinosinusitis.Int Forum Allergy Rhinol6 (Suppl 1):S22–209, 2016.doi: 10.1002/alr.21695
+
+【鼻窦炎的症状和体征】
+急性和慢性鼻窦炎有相似的症状和体征，包括流脓涕、面部胀痛、鼻腔充血阻塞、嗅觉减退、口臭和咳嗽咳痰（多发生于夜间）。急性鼻窦炎疼痛更明显。鼻窦区域可见肿胀、充血和压痛。
+上颌窦炎主要表现为上颌窦区疼痛、牙痛和前额痛。
+上颌窦炎主要表现为上颌窦区疼痛、牙痛和前额痛。
+额窦炎表现为前额部疼痛和头痛。
+额窦炎表现为前额部疼痛和头痛。
+筛窦炎表现为两眼之间和后方的疼痛，额部的疼痛呈撕裂样，伴有眶周蜂窝织炎和流泪。
+筛窦炎表现为两眼之间和后方的疼痛，额部的疼痛呈撕裂样，伴有眶周蜂窝织炎和流泪。
+蝶窦炎疼痛定位不明确，可放射至前额部或枕部。
+蝶窦炎疼痛定位不明确，可放射至前额部或枕部。
+右侧（观察者左侧）筛窦和蝶窦混浊。
+LIVING ART ENTERPRISES, LLC/SCIENCE PHOTO LIBRARY
+可能出现不适感。发热和寒战的出现提示感染已超出鼻窦范围。
+鼻腔黏膜红肿；流黄色或绿色鼻涕。如为上颌窦、前组筛窦或额窦炎症，在中鼻道可见浆液脓性和黏液脓性分泌物；若后组筛窦或蝶窦炎症，则中鼻甲的内侧可见分泌物。
+并发症的表现包括眶周肿胀和发红、眼球突出、眼肌麻痹、错乱或意识水平下降、严重的头痛。
+
+【鼻窦炎的诊断】
+主要病史和体格检查（在急性鼻窦炎中）
+主要病史和体格检查（在急性鼻窦炎中）
+有时需要CT检查（用于慢性鼻窦炎的诊断）。
+有时需要CT检查（用于慢性鼻窦炎的诊断）。
+有时需行前鼻镜和鼻窦内镜检查（针对慢性鼻窦炎）
+有时需行前鼻镜和鼻窦内镜检查（针对慢性鼻窦炎）
+有时需行血液检查（过敏原特异性IgE检测，以及血清免疫球蛋白IgG、M和A水平检测，针对慢性鼻窦炎）
+有时需行血液检查（过敏原特异性IgE检测，以及血清免疫球蛋白IgG、M和A水平检测，针对慢性鼻窦炎）
+鼻窦感染，尤其是急性发作时，通常通过临床诊断（1）。急性鼻窦炎通常不需要影像学检查，除非有提示并发症的发现，这种情况下会进行CT检查。在慢性鼻窦炎中，CT检查更为常用。对于慢性上颌窦炎，可能需要进行牙根尖X线平片检查，以排除根尖周脓肿。由于它们通常由病毒感染引起，通常不进行病毒病原体的确诊检测。
+慢性鼻窦炎是因其他原因进行头部CT检查的患者常见的偶然发现（例如，头痛伴或不伴轻度头部损伤的患者），但很少是患者症状的原因。当怀疑息肉时，成像是有帮助的。鼻窦息肉有时可能仅在头部矢状位或冠状位CT上可见。颅底肿瘤也可能在影像学检查中发现。
+很少进行微生物培养，因为有效的培养需要通过鼻窦内窥镜或鼻窦穿刺获取样本；常规鼻分泌物拭子培养通常不足，因为正常鼻腔共生菌群会定植。培养通常仅在经验性治疗失败时、免疫功能低下患者以及某些医院获得性鼻窦炎病例中进行。
+复发性及慢性鼻窦炎患者应接受环境过敏原的特异性IgE检测，以诊断特应性体质。对抗生素反应不佳或经手术或药物治疗后仍反复发作鼻窦炎的患者，应进行免疫缺陷的专项检测。筛查免疫球蛋白 A (IgA)、IgG 和 IgM 对于排除慢性变异性免疫缺陷至关重要。对于复发病例还应考虑进行原发性纤毛运动障碍或囊性纤维化的进一步检测。
+
+【儿童鼻窦炎】
+儿童鼻窦炎初期很难与上呼吸道感染区分。当脓性鼻漏持续>10天并伴有乏力和咳嗽时，应怀疑细菌性鼻窦炎。发烧是不常见的。面部局部疼痛或不适可能存在。鼻腔检查发现有脓性分泌物，应除外异物。
+儿童急性鼻窦炎的诊断主要根据临床表现。 考虑辐射暴露对儿童的影响，应避免使用CT，除非存在眼部或颅内并发症（如，眶周肿胀、视力丧失、复视、眼肌麻痹）或慢性鼻窦炎对治疗无反应以及有罕见的鼻咽癌担忧时（如，可根据单侧鼻塞、疼痛、鼻出血、面部肿胀或出现特别值得关注的视力下降的来判断）。对于眼眶周围水肿的儿童需要迅速进行评估眼眶蜂窝织炎和可能的手术干预，防止视力损害和颅内感染。
+
+【诊断参考文献】
+1.Peters AT, Spector S, Hsu J, et al.Diagnosis and management of rhinosinusitis: a practice parameter update.Ann Allergy Asthma Immunol.2014;113(4):347-385.doi:10.1016/j.anai.2014.07.025
+1.Peters AT, Spector S, Hsu J, et al.Diagnosis and management of rhinosinusitis: a practice parameter update.Ann Allergy Asthma Immunol.2014;113(4):347-385.doi:10.1016/j.anai.2014.07.025
+
+【治疗鼻窦炎】
+局部治疗如雾化，血管收缩剂以增强引流
+局部治疗如雾化，血管收缩剂以增强引流
+有时使用抗生素（例如，阿莫西林/克拉维酸[阿莫西林/克拉维酸]、多西环素）
+有时使用抗生素（例如，阿莫西林/克拉维酸[阿莫西林/克拉维酸]、多西环素）
+对于急性鼻窦炎，加强鼻窦引流，控制鼻窦感染是治疗的主要目标。蒸汽吸入、感染鼻窦表面湿热敷及热饮料均可以改善鼻腔血管收缩并增强鼻窦引流。总体治疗原则为支持治疗，抗生素通常仅用于持续时间较长、症状较严重或进行性加重的病例。多数指南的治疗方案基本一致，差异主要在于开始使用抗生素的时机和治疗失败的标准（1, 2, 3, 4, 5）。
+
+【局部治疗】
+局部减充血剂（血管收缩剂），如每3小时使用一次0.25%的苯肾上腺素喷雾，或每8至12小时使用一次羟甲唑啉，是有效的，但使用时间不应超过5天，或者采用3天使用、3天停用的循环模式，直至鼻窦炎得到缓解。局部血管收缩剂使用超过3天可能导致反弹性充血（药物性鼻炎）。全身减充血剂效果较差，应避免使用。
+生理盐水鼻腔冲洗可能对症状略有帮助，但操作繁琐不适，且患者需要学习正确操作方法；因此，它可能更适合于复发性鼻窦炎患者，因为他们更有可能掌握（并能耐受）这项技术。第二代口服抗组胺药（非索非那定、西替利嗪、氯雷他定）也可能有助于减轻鼻部症状。
+糖皮质激素鼻喷雾剂可减轻局部炎症，但通常至少需要 15 天才能起效，而且效果有限（2）。
+
+【抗生素治疗】
+
+【急性鼻窦炎的抗生素治疗】
+尽管大多数社区获得性急性鼻窦炎是病毒性的且可以自愈，由于临床区分病毒和细菌感染的难度，很多患者，之前是给予抗生素治疗的。然而，随着当前对抗生素耐药性的担忧，导致了抗生素的使用更有选择性。美国传染病学会（4）和美国过敏、哮喘和免疫学学会建议以下特征有助于确定应开始使用抗生素的患者（1）：
+轻度至中度鼻窦症状持续≥10天；
+轻度至中度鼻窦症状持续≥10天；
+症状严重（例如，发烧≥39°C，剧烈疼痛）持续3～4天；
+症状严重（例如，发烧≥39°C，剧烈疼痛）持续3～4天；
+初始的典型病毒性上呼吸道感染改善后，鼻窦炎症状却恶化（双相感染或双相病程）；
+初始的典型病毒性上呼吸道感染改善后，鼻窦炎症状却恶化（双相感染或双相病程）；
+由于许多致病微生物对之前使用过的药物产生了耐药性，目前一线药物为口服阿莫西林/克拉维酸（amoxicillin/clavulanic acid）875mg，每12小时1次（儿童为25mg/kg，口服，每12小时1次）。有抗生素耐药性风险的患者群给予大剂量（2g），口服，每12h（儿童为45mg/kg，口服，每12h）。这类患者包括：2岁以下或65岁以上人群；之前一个月使用过抗生素者；最近5天之内接受住院治疗以及免疫功能低下者。
+对青霉素过敏的成人可服用四环素类药物（如多西环素）或呼吸喹诺酮类药物（如左氧氟沙星、莫西沙星）。儿童青霉素过敏者可以服用左氧氟沙星或克林霉素联合第三代口服头孢菌素（头孢克肟或头孢泊肟）。
+如果3至5天内有改善，则继续服药。无耐药性风险的成人共需治疗5～7天，其他成人则需要7～10天。儿童需要治疗10～14天。如果3～5天无改善，则使用其他药物。由于细菌的耐药性，已不再推荐使用大环内酯类抗生素（如阿奇霉素、克拉霉素）、甲氧苄啶/磺胺甲基异恶唑以及单用头孢菌素。如果出现视力丧失或即将发生视力丧失，需要进行急诊手术。
+
+【急性鼻窦炎抗生素使用算法】
+急性鼻窦炎抗生素使用算法
+Adapted from Chow AW, Benninger MS, Brook I, et al: IDSA clinical practice guideline for acute bacterial rhinosinusitis in children and adults.Clinical Infectious Diseases54 (8):1041–5 (2012).
+
+【慢性鼻窦炎的抗生素治疗】
+对于成人慢性鼻窦炎的急性加重，应开始或继续使用鼻用糖皮质激素喷雾和生理盐水鼻腔冲洗等支持性治疗。也建议使用抗生素治疗，疗程为4至6周，有时甚至更长。根据从鼻窦渗出物中分离出的病原菌的药敏结果和患者对治疗的反应来指导后续治疗 (2)。对于伴鼻息肉的慢性鼻窦炎，可考虑短期使用全身性糖皮质激素（1至3周）后接多西环素（3周）；对于不伴鼻息肉的慢性鼻-鼻窦炎，可考虑长期使用大环内酯类（3个月）（6）。通常不建议对鼻息肉患者使用局部或全身抗真菌治疗（2）。
+对于患有慢性鼻窦炎的儿童，高剂量阿莫西林/克拉维酸（阿莫西林/克拉维酸钾）是一线治疗方法。对β-内酰胺类药物过敏的儿童，可使用大环内酯类抗生素（如阿奇霉素）（7, 8）。
+对于抗生素治疗无效的鼻窦炎患者，可能需要手术治疗（上颌窦开放术、筛窦切除术或蝶窦开放术），以改善通气和引流，并清除黏稠的脓性分泌物、上皮碎屑和肥厚的黏膜。这些手术通常在内窥镜辅助下经鼻进行（9）。慢性额窦炎可通过额窦骨成形术闭塞或在选定患者中进行内镜手术治疗。术中使用计算机辅助外科手术定位病灶可防止伤害周围连续结构（如眼睛和大脑），这种做法变得常见了。造成引流不畅的鼻塞也可能需要手术。
+
+【治疗参考文献】
+1.Peters AT, Spector S, Hsu J, et al.Diagnosis and management of rhinosinusitis: a practice parameter update.Ann Allergy Asthma Immunol.2014;113(4):347-385.doi:10.1016/j.anai.2014.07.025
+1.Peters AT, Spector S, Hsu J, et al.Diagnosis and management of rhinosinusitis: a practice parameter update.Ann Allergy Asthma Immunol.2014;113(4):347-385.doi:10.1016/j.anai.2014.07.025
+2.Rosenfeld RM, Piccirillo JF, Chandrasekhar SS, et al.Clinical practice guideline (update): adult sinusitis. Otolaryngol Head Neck Surg.2015;152(2 Suppl):S1-S39.doi:10.1177/0194599815572097
+2.Rosenfeld RM, Piccirillo JF, Chandrasekhar SS, et al.Clinical practice guideline (update): adult sinusitis. Otolaryngol Head Neck Surg.2015;152(2 Suppl):S1-S39.doi:10.1177/0194599815572097
+3.Desrosiers M, Evans GA, Keith PK, et al.Canadian clinical practice guidelines for acute and chronic rhinosinusitis. Allergy Asthma Clin Immunol.2011;7(1):2.Published 2011 Feb 10.doi:10.1186/1710-1492-7-2
+3.Desrosiers M, Evans GA, Keith PK, et al.Canadian clinical practice guidelines for acute and chronic rhinosinusitis. Allergy Asthma Clin Immunol.2011;7(1):2.Published 2011 Feb 10.doi:10.1186/1710-1492-7-2
+4.Chow AW, Benninger MS, Brook I, et al.IDSA clinical practice guideline for acute bacterial rhinosinusitis in children and adults. Clin Infect Dis.2012;54(8):e72-e112.doi:10.1093/cid/cir1043
+4.Chow AW, Benninger MS, Brook I, et al.IDSA clinical practice guideline for acute bacterial rhinosinusitis in children and adults. Clin Infect Dis.2012;54(8):e72-e112.doi:10.1093/cid/cir1043
+5.Fokkens WJ, Lund VJ, Mullol J, et al.EPOS 2012: European position paper on rhinosinusitis and nasal polyps 2012.A summary for otorhinolaryngologists. Rhinology.2012;50(1):1-12.doi:10.4193/Rhino12.000
+5.Fokkens WJ, Lund VJ, Mullol J, et al.EPOS 2012: European position paper on rhinosinusitis and nasal polyps 2012.A summary for otorhinolaryngologists. Rhinology.2012;50(1):1-12.doi:10.4193/Rhino12.000
+6.Rudmik L, Soler ZM.Medical Therapies for Adult Chronic Sinusitis: A Systematic Review.JAMA.2015;314(9):926-939.doi:10.1001/jama.2015.7544
+6.Rudmik L, Soler ZM.Medical Therapies for Adult Chronic Sinusitis: A Systematic Review.JAMA.2015;314(9):926-939.doi:10.1001/jama.2015.7544
+7.Head K, Chong LY, Piromchai P, et al.Systemic and topical antibiotics for chronic rhinosinusitis.Cochrane Database Syst Rev.2016;4(4):CD011994.Published 2016 Apr 26.doi:10.1002/14651858.CD011994.pub2
+7.Head K, Chong LY, Piromchai P, et al.Systemic and topical antibiotics for chronic rhinosinusitis.Cochrane Database Syst Rev.2016;4(4):CD011994.Published 2016 Apr 26.doi:10.1002/14651858.CD011994.pub2
+8.Brietzke SE, Shin JJ, Choi S, et al.Clinical consensus statement: pediatric chronic rhinosinusitis.Otolaryngol Head Neck Surg.2014;151(4):542-553.doi:10.1177/0194599814549302
+8.Brietzke SE, Shin JJ, Choi S, et al.Clinical consensus statement: pediatric chronic rhinosinusitis.Otolaryngol Head Neck Surg.2014;151(4):542-553.doi:10.1177/0194599814549302
+9.Almosnino G, Little RE.Surgical management of rhinosinusitis for the allergist-immunologist.Ann Allergy Asthma Immunol.2023;131(3):311-316.doi:10.1016/j.anai.2023.05.015
+9.Almosnino G, Little RE.Surgical management of rhinosinusitis for the allergist-immunologist.Ann Allergy Asthma Immunol.2023;131(3):311-316.doi:10.1016/j.anai.2023.05.015
+大多数免疫功能正常的患者急性鼻窦炎是病毒性的。
+大多数免疫功能正常的患者急性鼻窦炎是病毒性的。
+免疫功能低下的患者，患侵袭性真菌或细菌感染的风险更大。
+免疫功能低下的患者，患侵袭性真菌或细菌感染的风险更大。
+诊断主要依据临床表现；CT检查和细菌培养（通过内镜或鼻窦穿刺获得）主要用于慢性、难治性或非典型病例。
+诊断主要依据临床表现；CT检查和细菌培养（通过内镜或鼻窦穿刺获得）主要用于慢性、难治性或非典型病例。
+根据对症治疗的结果考虑是否采用抗生素，其持续时间取决于症状的严重程度和时间。
+根据对症治疗的结果考虑是否采用抗生素，其持续时间取决于症状的严重程度和时间。
+一线抗生素是阿莫西林/克拉维酸，多西环素或呼吸氟喹诺酮类药物可作为替代选择。
+一线抗生素是阿莫西林/克拉维酸，多西环素或呼吸氟喹诺酮类药物可作为替代选择。
+
+【免疫缺陷患者侵袭性鼻窦炎】
+
+【毛霉菌病】
+由于糖尿病控制不佳、中性粒细胞减少、血液系统恶性肿瘤或晚期HIV感染而导致免疫功能低下的患者，可能会发生进展迅速甚至致命的真菌性或细菌性鼻窦炎。接受免疫抑制治疗的患者，包括全身性糖皮质激素和化疗，是这种疾病的高危人群。侵袭性鼻窦炎通常需要全身性抗微生物药物（抗真菌药和抗生素）联合手术清创治疗。
+毛霉菌病（接合菌病，有时也称为藻菌病）是一种由毛霉目真菌引起的真菌病，包括毛霉属、小根霉属和根霉属的物种。这些霉菌在环境中无处不在，可通过吸入孢子、摄入受污染食物或接种于破损皮肤或伤口中感染人类。毛霉菌病可能发生在糖尿病控制不佳的患者中。该感染的特征是其侵袭血管的性质、鼻腔内黑色坏死组织的存在，以及继发于颈动脉系统逆行性血栓动脉炎的神经症状。鼻-眶-脑毛霉菌病是未控制的糖尿病患者中最具特征性的类型。更罕见的是血液系统恶性肿瘤或器官移植患者可能出现肺、皮肤、胃肠道或其他罕见部位的播散性毛霉菌病感染（1）。
+对鼻腔组织进行快速活检，以进行组织学检查和培养是必要的。诊断基于鼻部或其他受影响组织的组织病理学检查。在无血管组织中观察到不规则、无隔菌丝且呈直角分支的真菌菌丝可确诊。血清学或其他血液测试很少有帮助。
+治疗需要控制潜在的病情（例如逆转糖尿病患者的酮症酸中毒），坏死组织的外科清创术，以及静脉使用两性霉素B治疗。泊沙康唑和艾沙康唑可用于难治性病例或作为降阶梯治疗（2）。
+该图显示了一名鼻–眶型毛霉病患者的眶部组织坏死。
+CDC/ Dr. Libero Ajello
+
+【曲霉菌病和念珠菌病】
+Aspergillus（曲霉菌）和Candida（念珠菌）可能感染因细胞毒性药物或免疫抑制疾病（如白血病、淋巴瘤、多发性骨髓瘤和晚期HIV感染）导致免疫功能低下的患者的鼻窦。Aspergillus（曲霉菌）感染在鼻腔内除黏膜增厚外，还可见息肉样组织；这些组织需取活检明确诊断。
+对于这些易致命的感染需行扩大鼻窦手术，静脉内使用两性霉素B。如果排除了毛霉菌病，可使用唑类药物如氟康唑或伏立康唑，联合或不联合棘白菌素（如卡泊芬净、米卡芬净、阿尼芬净）代替两性霉素（3）。
+此图描述了4种主要的曲霉病感染类型。这些感染与吸入曲霉属孢子，尤其是烟曲霉有关：
+曲霉菌性鼻窦炎：可能对免疫功能低下的患者具有侵袭性
+曲霉菌性鼻窦炎：可能对免疫功能低下的患者具有侵袭性
+过敏性支气管肺曲霉病：导致哮喘或囊性纤维化患者出现支气管炎症和阻塞
+过敏性支气管肺曲霉病：导致哮喘或囊性纤维化患者出现支气管炎症和阻塞
+曲霉球：空洞性肺部真菌球，通常为结核等既往疾病的后遗症
+曲霉球：空洞性肺部真菌球，通常为结核等既往疾病的后遗症
+侵袭性曲霉病：可在免疫功能低下患者中扩散到其他器官
+侵袭性曲霉病：可在免疫功能低下患者中扩散到其他器官
+BSIP/JACOPIN/SCIENCE PHOTO LIBRARY
+
+【参考文献】
+1.Lynch JP 3rd, Fishbein MC, Abtin F, et al.Part 1: Mucormycosis: prevalence, risk factors, clinical features, and diagnosis.Expert Rev Anti Infect Ther.2023;21(7):723-736.doi:10.1080/14787210.2023.2220964
+1.Lynch JP 3rd, Fishbein MC, Abtin F, et al.Part 1: Mucormycosis: prevalence, risk factors, clinical features, and diagnosis.Expert Rev Anti Infect Ther.2023;21(7):723-736.doi:10.1080/14787210.2023.2220964
+2.Reid G, Lynch JP 3rd, Fishbein MC, et al.Mucormycosis.Semin Respir Crit Care Med.2020;41(1):99-114.doi:10.1055/s-0039-3401992
+2.Reid G, Lynch JP 3rd, Fishbein MC, et al.Mucormycosis.Semin Respir Crit Care Med.2020;41(1):99-114.doi:10.1055/s-0039-3401992
+3.Colombo AL, de Almeida Júnior JN, et al.Candida and invasive mould diseases in non-neutropenic critically ill patients and patients with haematological cancer.Lancet Infect Dis.2017;17(11):e344-e356.doi:10.1016/S1473-3099(17)30304-3
+3.Colombo AL, de Almeida Júnior JN, et al.Candida and invasive mould diseases in non-neutropenic critically ill patients and patients with haematological cancer.Lancet Infect Dis.2017;17(11):e344-e356.doi:10.1016/S1473-3099(17)30304-3

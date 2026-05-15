@@ -1,0 +1,193 @@
+标题：泌尿系结石
+来源：https://www.msdmanuals.cn/professional/genitourinary-disorders/urinary-calculi/urinary-calculi
+============================================================
+
+美国成年人肾结石的年发病率约为 1% 至 2% (1–3)；美国每年约有千分之一 (4) 的成年人因尿路结石住院。在70岁时，高达19％的男性与10％的女性将患有泌尿系结石（2）。结石的大小可从显微镜下的晶体核到直径达数厘米的石头不等。称作鹿角样结石的大型结石可填满整个肾盂肾盏系统。
+这张照片显示的是一个被切开的人类肾脏，其中有2个结石，包括一个占据肾盂和下极肾盏的大鹿角结石，以及一个在上极肾盏（右侧）中的较小结石。
+DR. E.WALKER / SCIENCE PHOTO LIBRARY
+
+【参考文献】
+1.Hill AJ, Basourakos SP, Lewicki P, et al.Incidence of Kidney Stones in the United States: The Continuous National Health and Nutrition Examination Survey.J Urol.2022;207(4):851-856.doi:10.1097/JU.0000000000002331
+1.Hill AJ, Basourakos SP, Lewicki P, et al.Incidence of Kidney Stones in the United States: The Continuous National Health and Nutrition Examination Survey.J Urol.2022;207(4):851-856.doi:10.1097/JU.0000000000002331
+2.Tundo G, Vollstedt A, Meeks W, Pais V.Beyond Prevalence: Annual Cumulative Incidence of Kidney Stones in the United States.J Urol.2021;205(6):1704-1709.doi:10.1097/JU.0000000000001629
+2.Tundo G, Vollstedt A, Meeks W, Pais V.Beyond Prevalence: Annual Cumulative Incidence of Kidney Stones in the United States.J Urol.2021;205(6):1704-1709.doi:10.1097/JU.0000000000001629
+3.Ghani KR, Roghmann F, Sammon JD, et al.Emergency department visits in the United States for upper urinary tract stones: trends in hospitalization and charges.J Urol.2014;191(1):90-96.doi:10.1016/j.juro.2013.07.098
+3.Ghani KR, Roghmann F, Sammon JD, et al.Emergency department visits in the United States for upper urinary tract stones: trends in hospitalization and charges.J Urol.2014;191(1):90-96.doi:10.1016/j.juro.2013.07.098
+4.Scales CD Jr, Curtis LH, Norris RD, et al.Changing gender prevalence of stone disease.J Urol.2007;177(3):979-982.doi:10.1016/j.juro.2006.10.069
+4.Scales CD Jr, Curtis LH, Norris RD, et al.Changing gender prevalence of stone disease.J Urol.2007;177(3):979-982.doi:10.1016/j.juro.2006.10.069
+
+【尿路结石的病因】
+危险因素包括代谢疾病，这些疾病通过增加钙或尿酸盐的排泄，或减少尿中柠檬酸盐的排泄，从而增加尿盐浓度。此类疾病的例子包括甲状旁腺功能亢进（导致高钙尿症）、肾小管酸中毒、痛风和2型糖尿病。饮食因素，如高钠摄入或液体摄入不足导致尿液浓度增加，也会促进结石形成。
+在美国约85%的结石由钙组成，主要是草酸钙（参见表格尿路结石的成分）；5至10%由尿酸组成，1至2%由胱氨酸组成；5至15%由磷酸铵镁（鸟粪石）组成。
+
+【尿路结石的组分】
+尿路结石的组分
+结石组分
+所有结石的百分比*
+常见病因
+40–80
+高尿钙症
+甲状旁腺功能亢进
+低枸橼酸尿
+肾小管酸中毒
+18–24
+高尿钙症
+甲状旁腺功能亢进
+低枸橼酸尿
+肾小管酸中毒
+胱氨酸尿症
+磷酸铵镁结石（鸟粪石）
+5–15
+尿素分解细菌引起的尿路感染
+5–10
+尿pH<5.5
+高尿酸尿症（偶见）
+*总百分比加起来超过100%，因为大约40%的结石成分是混合的。
+数据改编自以下来源：
+Singh P, Enders FT, Vaughan LE, et al.Stone Composition Among First-Time Symptomatic Kidney Stone Formers in the Community.Mayo Clin Proc.2015;90(10):1356-1365.doi:10.1016/j.mayocp.2015.07.016;
+Moe OW.Kidney stones: pathophysiology and medical management.Lancet.2006;367(9507):333-344.doi:10.1016/S0140-6736(06)68071-9
+Zreik R, Pilosov Solomon I, Saliba W, et al.The relationship between patients' kidney stone type and demographics in Israel: analysis of 10 K patients.World J Urol.2023;41(6):1641-1646.doi:10.1007/s00345-023-04424-w
+Zhang D, Li S, Zhang Z, et al.Urinary stone composition analysis and clinical characterization of 1520 patients in centralChina. Sci Rep.2021;11(1):6467.Published 2021 Mar 19.doi:10.1038/s41598-021-85723-3
+Scales CD Jr, Curtis LH, Norris RD, et al.Changing gender prevalence of stone disease.J Urol.2007;177(3):979-982.doi:10.1016/j.juro.2006.10.069
+Tundo G, Vollstedt A, Meeks W, Pais V.Beyond Prevalence: Annual Cumulative Incidence of Kidney Stones in the United States.J Urol.2021;205(6):1704-1709.doi:10.1097/JU.0000000000001629
+*总百分比加起来超过100%，因为大约40%的结石成分是混合的。
+数据改编自以下来源：
+Singh P, Enders FT, Vaughan LE, et al.Stone Composition Among First-Time Symptomatic Kidney Stone Formers in the Community.Mayo Clin Proc.2015;90(10):1356-1365.doi:10.1016/j.mayocp.2015.07.016;
+Moe OW.Kidney stones: pathophysiology and medical management.Lancet.2006;367(9507):333-344.doi:10.1016/S0140-6736(06)68071-9
+Zreik R, Pilosov Solomon I, Saliba W, et al.The relationship between patients' kidney stone type and demographics in Israel: analysis of 10 K patients.World J Urol.2023;41(6):1641-1646.doi:10.1007/s00345-023-04424-w
+Zhang D, Li S, Zhang Z, et al.Urinary stone composition analysis and clinical characterization of 1520 patients in centralChina. Sci Rep.2021;11(1):6467.Published 2021 Mar 19.doi:10.1038/s41598-021-85723-3
+Scales CD Jr, Curtis LH, Norris RD, et al.Changing gender prevalence of stone disease.J Urol.2007;177(3):979-982.doi:10.1016/j.juro.2006.10.069
+Tundo G, Vollstedt A, Meeks W, Pais V.Beyond Prevalence: Annual Cumulative Incidence of Kidney Stones in the United States.J Urol.2021;205(6):1704-1709.doi:10.1097/JU.0000000000001629
+钙结石的危险因素因人群而异。美国的主要危险因素是高尿钙，有钙结石的50%的男性患者和75%的女性患者存在遗传性因素 (1)；因此有结石家族史的患者结石复发风险升高。 患者血清钙水平正常而尿钙增高，男性>250mg/d（>6.2mmol/d），女性>200mg/d（>5.0mmol/d）。
+尿枸橼酸盐过少（尿枸橼酸盐<350 mg/d [1820 μmol/d]）存在于约40%～50%的钙结石形成患者中，由于枸橼酸盐通常与尿钙结合并抑制钙盐结晶形成，因而尿枸橼酸盐减少可促进钙结石形成。
+超过10%的含钙结石可能由肾小管酸中毒（2）引起。高达5%的钙结石患者可能患有原发性甲状旁腺功能亢进症（3）。少见高尿钙症病因为结节病、维生素D中毒、甲状腺功能亢进症、多发性骨髓瘤、转移性癌和高尿草酸盐。
+尿草酸盐水平升高（高草酸尿症、尿草酸盐>40 mg/天 [>440 微摩尔/天]) 可能导致草酸钙结石形成（高尿酸血症草酸钙肾结石）。高尿草酸盐 可为原发性，或因过多摄取含草酸盐食物（如大黄、菠菜、可可、坚果、胡椒粉、茶），或由于多种肠道疾病（如细菌过度生长综合征、克罗恩病、溃疡性结肠炎、慢性胰腺或胆道疾病）或空回肠手术（如减肥手术）引起的草酸盐过多吸收所致。
+其他危险因素包括摄入过多维生素C（如>2000mg/天）、限制钙饮食（可能由于饮食中的钙与饮食中的草酸盐结合）和轻度高尿酸血症。轻度高尿酸血症，定义为男性尿尿酸>800 mg/d（>5 mmol/d）或女性尿尿酸>750 mg/d（>4 mmol/d），几乎均因嘌呤（蛋白质中，通常来自肉类、鱼类和家禽）摄入过量引起。
+尿酸结石的形成与尿液酸度增高（尿pH<5.5）有关，或少有的严重高尿酸血症（尿尿酸>1500mg/d，[>9mmol/d]），使未溶解的尿酸形成结晶。 尿酸晶体可构成整个结石，或者更常见的是提供一个使钙或混合钙与尿酸结石形成的场所。
+胱氨酸结石仅发生于胱氨酸尿症。
+磷酸铵镁结石（鸟粪石、感染性结石）表明存在由分解尿素的细菌（如Proteus[变形杆菌]物种、Klebsiella[克雷伯菌]物种）引起的尿路感染。结石必须以处理感染性异物和完全清除的方法来治疗。 与其他类型的结石不同，磷酸铵镁结石在女性患者中的发生率是男性的3倍之多。
+泌尿系结石的罕见原因包括茚地那韦、三聚氰胺、氨苯蝶啶和黄嘌呤。
+此图展示肾结石和输尿管结石。左上图显示了一种鹿角状结石，这种结石几乎完全填满了肾脏中空部分（集合系统）的大部分区域。右上方图像显示结石正通过输尿管。底部图像显示上部肾盏内的小肾结石。
+ANDREW BEZEAR, REED BUSINESS PUBLISHING / SCIENCE PHOTO LIBRARY
+
+【病因参考文献】
+1.Coe FL, Evan A, Worcester E.Kidney stone disease.J Clin Invest.2005;115(10):2598-2608.doi:10.1172/JCI26662
+1.Coe FL, Evan A, Worcester E.Kidney stone disease.J Clin Invest.2005;115(10):2598-2608.doi:10.1172/JCI26662
+2.Dessombz A, Letavernier E, Haymann JP, Bazin D, Daudon M.Calcium phosphate stone morphology can reliably predict distal renal tubular acidosis.J Urol.2015;193(5):1564-1569.doi:10.1016/j.juro.2014.12.017
+2.Dessombz A, Letavernier E, Haymann JP, Bazin D, Daudon M.Calcium phosphate stone morphology can reliably predict distal renal tubular acidosis.J Urol.2015;193(5):1564-1569.doi:10.1016/j.juro.2014.12.017
+3.Sharma S, Rastogi A, Bhadada SK, et al.Prevalence and predictors of primary hyperparathyroidism among patients with urolithiasis.Endocr Pract.2017;23(11):1311-1315.doi:10.4158/EP171759.OR
+3.Sharma S, Rastogi A, Bhadada SK, et al.Prevalence and predictors of primary hyperparathyroidism among patients with urolithiasis.Endocr Pract.2017;23(11):1311-1315.doi:10.4158/EP171759.OR
+
+【尿路结石的病理生理学】
+泌尿系结石可持续存在于肾实质或肾集合系统中，或被移动至输尿管和膀胱。移动过程中结石可刺激输尿管且变为定植性，阻塞尿流并引起输尿管积水，有时会造成肾盂积水。常见的滞留部位包括：
+肾盂输尿管移行部
+肾盂输尿管移行部
+远端输尿管（在髂血管的水平）
+远端输尿管（在髂血管的水平）
+输尿管膀胱连接部
+输尿管膀胱连接部
+较大的结石更容易嵌塞。通常，卡住的结石直径为>5 毫米，而直径为≤5 毫米的结石更有可能自行排出。
+即使部分梗阻也可引起肾小球滤过率下降，且在结石通过后仍可暂时持续。伴发肾盂积水和肾小球内压力增高时，肾血流量下降，使肾功能进一步恶化，但通常没有感染，仅在完全性梗阻约28天后发生永久性肾功能不全。
+伴有长期梗阻时可发生继发性感染，但大多含钙结石患者的尿液并未显示感染。
+
+【尿路结石的症状和体征】
+存留在肾实质或肾集合系统中的大型结石通常也无症状除非引起梗阻和/或感染。 在结石进入输尿管并引起急性梗阻时，通常出现剧烈疼痛，常伴有恶心和呕吐。肉眼血尿也会发生，但并非所有尿路结石患者都会出现肉眼血尿。
+可有不同程度的疼痛症状（肾绞痛），典型的疼痛症状呈间歇性、难以忍受，周期性发作，持续20～60分钟。恶性和呕吐常见腰部或肾区疼痛，放射至腹部，提示上尿路或肾盂梗阻。疼痛沿输尿管走行放射至会阴区，提示下尿路梗阻。 远端输尿管、输尿管膀胱移行部或膀胱内的结石可引起耻骨上区域疼痛，伴有尿频、尿急（见尿路梗阻的症状和体征）。
+检查时可发现患者极度不适，常有面色苍白、出汗。患者无法安静平卧，可能有踱步、辗转或经常变动体位。触诊时，由于已肿胀的肾脏内压力增加（肋椎角压痛），受累侧腹部可能会有些许压痛，但无腹膜体征（肌卫、反跳痛、肌强直）。
+一些患者，最早可出现血尿或尿中出现碎石、结石。另一些患者则有尿路感染的症状，发热、排尿困难，出现浑浊或有异味的尿液。
+
+【尿路结石的诊断】
+临床鉴别诊断
+临床鉴别诊断
+尿液分析
+尿液分析
+影像学检查
+影像学检查
+寻找病因
+寻找病因
+症状和体征可能提示其他诊断，如
+腹膜炎（例如，由于阑尾炎、憩室病、宫外孕或盆腔炎）：疼痛通常是不变的，并且患者因为运动使疼痛恶化而仍然躺着;患者通常也会有反弹的压痛或僵硬。
+腹膜炎（例如，由于阑尾炎、憩室病、宫外孕或盆腔炎）：疼痛通常是不变的，并且患者因为运动使疼痛恶化而仍然躺着;患者通常也会有反弹的压痛或僵硬。
+胆囊炎:可引起上腹部或右上腹部绞痛，常伴Murphy征。
+胆囊炎:可引起上腹部或右上腹部绞痛，常伴Murphy征。
+肠梗阻:可引起腹部绞痛和呕吐，疼痛通常位于两侧腹部，并不位于侧腹部或沿输尿管分布。顽固性便秘或便秘和排气减少很常见。
+肠梗阻:可引起腹部绞痛和呕吐，疼痛通常位于两侧腹部，并不位于侧腹部或沿输尿管分布。顽固性便秘或便秘和排气减少很常见。
+胰腺炎:通常引起上腹部疼痛和呕吐，且疼痛呈持续性，位于两侧腹部，常放射到背部，并不位于侧腹部或沿输尿管分布。
+胰腺炎:通常引起上腹部疼痛和呕吐，且疼痛呈持续性，位于两侧腹部，常放射到背部，并不位于侧腹部或沿输尿管分布。
+伴随以上这些异常，而泌尿系统症状很少见，其他症状可能提示相应器官系统病变（例如，女性阴道分泌物或出血提示盆腔病变）。夹层主动脉瘤应该慎重考虑，尤其在老年人，因为如果影响到肾动脉，就可引起血尿和（或）沿输尿管走行分布的放射疼痛。 急腹症的大体评估在另处讨论(见急性腹痛:评估)。
+疑似结石引起绞痛的患者需行尿液分析和影像学检查；若已确定为结石，则需评估原发病，包括结石成分测定。
+
+【尿液分析】
+肉眼血尿或显微镜下血尿较为常见，但尽管有多发结石存在，尿液检查仍可能在正常范围。尿液分析中可出现伴或不伴细菌的脓尿。脓尿常提示感染，尤其是合并相应临床症状如发热或有异味的尿液。尿沉渣中可发现结石和多种结晶物质， 如果是这样，通常需要通过 24 小时尿液收集进行进一步测试以确定原因，因为无法通过显微镜最终确定结石和晶体的成分。 唯一例外的是在浓缩酸化标本中发现典型的胱氨酸六角形晶体时提示为胱氨酸尿症。
+
+【影像学检查】
+非增强CT是多数患者首选的初步影像学检查。肾脏CT平扫可提示结石的位置和梗阻程度。另外，CT也可发现疼痛的其他病因（如主动脉瘤）。对结石复发患者，应当注意多次CT检查时累积辐射的暴露。 然而，常规使用低剂量肾脏CT可以有效地降低累积辐射剂量，但灵敏度损失很小(1)。对于有典型症状的患者，超声检查或腹部X线片通常可以在极少或无辐射暴露的情况下确认是否存在结石。MRI不能区分结石。
+虽然大多数尿路结石可以在X光片上看到，但无论是否存在结石仍需更明确的影像学检查，因此除了某些疑似复发结石的患者外，可以避免进行X光片检查。肾超声检查与排泄性尿路造影（旧称静脉尿路造影或静脉肾盂造影）均可识别结石与肾积水。但超声对不伴肾盂积水的小结石的敏感性不高，而排泌性尿路造影又耗时，且患者有静脉造影剂暴露危险，这些检查通常在无法进行CT扫描时使用。
+
+【确定原发病】
+手术取石或尽量使患者排尿可获得结石，并送至实验室进行结晶学检测。某些结石标本由患者自带。尿沉渣中有显微镜下结晶应送去行结晶学检查
+只有单枚钙结石没有其它结石危险因素的患者，需充分评估以除外甲状旁腺功能亢进。 评估需要检测2个独立时间点的血钙浓度和尿液分析。潜在诱发因素，如反复发作性结石、高动物蛋白饮食或过多补充维生素C或D应进行筛查。
+在有明显结石家族史的患者中，相关结石诱发形成因素（如结节病、骨转移瘤、多发性骨髓瘤），或者某些状况使结石难以治疗（如孤立肾、尿路畸形），应对所有可能的病因和危险因素进行评估。此评估应包括血清电解质、尿酸和钙。如果需要可做甲状旁腺激素水平的随访。尿液检查应包括常规尿液分析以及患者在日常饮食下进行的两次独立的 24 小时尿液收集，以确定尿量、PH值、尿钙、尿酸、枸橼酸、草酸、钠和肌酐的排泄量。 有关肾结石医疗管理的进一步信息，请参阅美国泌尿外科协会指南(2)。
+
+【诊断参考】
+1.Zilberman DE, Tsivian M, Lipkin ME, et al.Low dose computerized tomography for detection of urolithiasis—its effectiveness in the setting of the urology clinic.J Urol.185(3):910-914, 2011.doi: 10.1016/j.juro.2010.10.052
+1.Zilberman DE, Tsivian M, Lipkin ME, et al.Low dose computerized tomography for detection of urolithiasis—its effectiveness in the setting of the urology clinic.J Urol.185(3):910-914, 2011.doi: 10.1016/j.juro.2010.10.052
+2.Pearle MS, Goldfarb DS, Assimos DG, et al.Medical management of kidney stones—AUA guideline.doi: 10.1016/j.juro.2014.05.006J Urology.92(2):316-24, 2014.doi: 10.1016/j.juro.2014.05.006
+2.Pearle MS, Goldfarb DS, Assimos DG, et al.Medical management of kidney stones—AUA guideline.doi: 10.1016/j.juro.2014.05.006J Urology.92(2):316-24, 2014.doi: 10.1016/j.juro.2014.05.006
+
+【尿路结石的治疗】
+促进结石排出，如alpha受体阻断剂坦索罗辛（又称药物排石疗法）
+促进结石排出，如alpha受体阻断剂坦索罗辛（又称药物排石疗法）
+对顽固性或感染引起的结石可首行内镜术彻底去除
+对顽固性或感染引起的结石可首行内镜术彻底去除
+应用阿片类药物可使肾绞痛得以缓解，如吗啡，对于急性发作，芬太尼。酮咯酸起效迅速且无镇静作用。呕吐常随疼痛减轻而缓解，但若持续呕吐可用止吐剂治疗（如昂丹司琼）。
+
+【排毒疗法】
+虽然传统建议增加液体摄入（口服或静脉），但补液似乎并不能加速结石排出（1）。对于直径<1cm、无感染或梗阻、疼痛可通过镇痛药控制且能耐受大量饮水的患者，可在家里服用镇痛药和α受体阻滞剂（如坦索罗辛）以促进结石排出。那些无法在6~8周内排出的结石需要取出。 对于疑似感染和梗阻的患者，初始治疗是通过膀胱镜置入输尿管支架或经皮肾造瘘管尽快解除梗阻，治疗感染后尽快清除结石。
+
+【经验与提示】
+经验与提示
+因为给予大量液体不会加速结石通过，所以应使用正常容量的静脉注射液或口服水化物。
+因为给予大量液体不会加速结石通过，所以应使用正常容量的静脉注射液或口服水化物。
+
+【结石清除】
+据结石的位置和大小选择不同的技术，这些技术包括体外冲击波碎石术，为确保完全清除或对大的结石用内镜技术。内镜技术可能涉及使用硬质或软质输尿管镜（内窥镜），并且可能包括直接视野下取出（用取石篮）、用几种类型的碎石设备之一（如气压式、超声式、激光式）进行碎石或者两者兼用。通常使用短期输尿管支架置入术（例如，4-7天），直到由结石或手术引起的任何炎症或水肿消退。因阻塞性结石或取石过程中导致输尿管损伤的患者，可能需要置入支架1到2周。
+对直径<1cm、位于肾集合系统或近端输尿管有症状的结石而言，震波碎石是常用疗法。
+对较大结石或体外震波碎石无效者，常用输尿管镜（逆行上行）、钬激光或铥激光碎石。有时可行经皮肾内镜顺行性取石。 对于直径>2cm的肾结石，采用经皮肾镜直接进入肾脏取石是首选的治疗方法。
+对输尿管中段结石，输尿管镜钬激光碎石是首选，震波碎石为备选。
+对远端输尿管结石，内镜直视取石和体内碎石术（如钬激光、气压）被认为是首选。震波碎石也可应用。
+(参见 theAmerican Urological Association/Endourological Society Guideline, Part I.)
+
+【结石溶解】
+经长期碱化尿液治疗（枸橼酸钾20mEq (20 mmol/L)口服，每日2～3次）后，上尿路或下尿路的尿酸结石偶可溶解，但钙结石则不可能发生化学溶解，胱氨酸结石也很难溶解。
+
+【治疗参考文献】
+1.Springhart WP, Marguet CG, Sur RL, et al.Forced versus minimal intravenous hydration in the management of acute renal colic: a randomized trial.J Endourol.2006;20(10):713-716.doi:10.1089/end.2006.20.713
+1.Springhart WP, Marguet CG, Sur RL, et al.Forced versus minimal intravenous hydration in the management of acute renal colic: a randomized trial.J Endourol.2006;20(10):713-716.doi:10.1089/end.2006.20.713
+
+【尿路结石的预防】
+对于首次排出尿路结石的患者，再次形成结石的概率为2年内11%到15年内39%（1）。推荐每日饮用大量液体--8-10杯（300mL），预防所有结石。 形成结石的患者（有复发性结石病史和影像学检查新诊断的结石患者）应饮用足够的液体，每天至少产生 2.5 升尿液。 结石的发现和分析、尿液中结石形成物质的测定和临床病史有助制定预防计划。
+未发现代谢异常的患者不超过<3%，这些患者似乎不能耐受尿液中结石形成盐的正常数量，而在此范围中并不会有结晶生成。 噻嗪类利尿剂、枸橼酸钾和增加液体摄入均可能降低结石得生成率。
+对于高钙尿症患者，可使用长效噻嗪类利尿剂（如氯噻酮或吲达帕胺）降低尿钙排泄，从而防止尿液中草酸钙过饱和。应鼓励患者增加液体摄入达3L/d以上。 建议低钠高钾饮食。 即使高钾饮食，仍推荐补充枸橼酸钾来预防低钾血症。限制动物蛋白的摄入 (2)。
+对低枸橼酸尿症患者采用枸橼酸钾可增加枸橼酸盐的排泄。 建议正常钙摄入量（例如，每日1000mg或约2～3份乳制品），避免限钙。 可选择的碱性试剂（例如碳酸氢钠或碳酸氢钾）用于提高柠檬酸盐的排泄 如果不能耐受柠檬酸钾。
+高尿草酸盐的预防手段差异较大。小肠疾病患者可采用联合治疗，包括增加液体摄入、钙负荷（通常以枸橼酸钙形式）、消胆胺及低草酸低脂饮食。高草酸尿症可能对吡哆醇有反应，这可能是通过增加转氨酶活性来实现的，因为转氨酶活性负责将草酸的前体乙醛酸转化为甘氨酸。
+高尿尿酸盐时应减少动物蛋白的摄入。若无法调整饮食，别嘌呤醇可减少尿酸生成。对于尿酸结石，通过服用含钾的碱化药物（如枸橼酸钾）和增加液体摄入，来使尿pH值升高至6～6.5。
+尿素分解性细菌感染需用培养结果特异性抗生素及完全结石清除治疗。 若感染已不可能根除，则必需须应用长期抑菌疗法（呋喃妥因）。此外，可应用醋羟胺酸减少鸟粪石样结石的复发。
+对于胱氨酸结石必须使尿胱氨酸水平降低至<250mg/L才能预防复发。 任何能增加尿量并减少胱氨酸排泄（如采用α-巯基丙酰-甘氨酸[硫普罗宁]或D-青霉胺）的疗法均可降低尿液中胱氨酸的浓度。
+
+【预防参考文献】
+1.Rule AD, Lieske JC, Li X, Melton LJ 3rd, Krambeck AE, Bergstralh EJ.The ROKS nomogram for predicting a second symptomatic stone episode.J Am Soc Nephrol.2014;25(12):2878-2886.doi:10.1681/ASN.20130910112.Ferraro PM,  Bargagli M, Trinchieri A, et al.Risk of kidney stones: Influence of dietary factors, dietary patterns, and vegetarian–vegan diets.Nutrients.12(3): 779, 2020.doi: 10.3390/nu12030779
+1.Rule AD, Lieske JC, Li X, Melton LJ 3rd, Krambeck AE, Bergstralh EJ.The ROKS nomogram for predicting a second symptomatic stone episode.J Am Soc Nephrol.2014;25(12):2878-2886.doi:10.1681/ASN.2013091011
+2.Ferraro PM,  Bargagli M, Trinchieri A, et al.Risk of kidney stones: Influence of dietary factors, dietary patterns, and vegetarian–vegan diets.Nutrients.12(3): 779, 2020.doi: 10.3390/nu12030779
+85%的尿路结石含钙，主要为草酸钙（参见表格尿路结石成分）；5%至10%由尿酸构成；1%至2%由胱氨酸构成；5%至15%由磷酸铵镁（鸟粪石）构成。
+85%的尿路结石含钙，主要为草酸钙（参见表格尿路结石成分）；5%至10%由尿酸构成；1%至2%由胱氨酸构成；5%至15%由磷酸铵镁（鸟粪石）构成。
+较大的结石更容易阻塞；然而，即使很小的输尿管结石（即2〜5mm）也可发生梗阻。
+较大的结石更容易阻塞；然而，即使很小的输尿管结石（即2〜5mm）也可发生梗阻。
+症状包括血尿、感染的症状和肾绞痛。
+症状包括血尿、感染的症状和肾绞痛。
+通常通过尿检、CT扫描进行检测，如果之后能取出结石，还需测定结石成分。
+通常通过尿检、CT扫描进行检测，如果之后能取出结石，还需测定结石成分。
+急性期给予止痛药和其他药物（如α受体阻滞剂）以促进结石排出，并通过内镜取出引起感染或持续存在的结石。
+急性期给予止痛药和其他药物（如α受体阻滞剂）以促进结石排出，并通过内镜取出引起感染或持续存在的结石。
+根据结石成分不同，可采用噻嗪类利尿剂、枸橼酸钾、增加液体摄入量、减少饮食中动物性蛋白质，以降低后续形成结石的风险。
+根据结石成分不同，可采用噻嗪类利尿剂、枸橼酸钾、增加液体摄入量、减少饮食中动物性蛋白质，以降低后续形成结石的风险。

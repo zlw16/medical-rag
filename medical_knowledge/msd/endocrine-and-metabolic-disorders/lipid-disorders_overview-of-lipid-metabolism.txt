@@ -1,0 +1,95 @@
+标题：脂质代谢概述
+来源：https://www.msdmanuals.cn/professional/endocrine-and-metabolic-disorders/lipid-disorders/overview-of-lipid-metabolism
+============================================================
+
+脂质是从食物摄取或肝脏合成的脂肪尽管所有脂质在生理上都很重要，尽管所有脂质都具有生理学重要性，但甘油三酯和胆固醇与疾病的关系最大。
+胆固醇是细胞膜、类固醇、胆酸和信号分子中普遍存在的成分。
+甘油三酯是主要储存于脂肪细胞和肌肉细胞的能量。
+脂蛋白是亲水的，具有表面蛋白亲水球状体，（脱辐基蛋白或载脂蛋白）后者是脂质合成酶的辅助因子和配体 (见表脂质代谢中重要的载脂蛋白和酶)。
+所有脂质都是疏水性的，并且大部分不溶于血液，所以它们需要通过脂蛋白转运。脂蛋白依据大小和密度（定义为脂质和蛋白的比例）进行分类，在临床上十分重要，因为高水平的低密度脂蛋白（LDLs）和低水平的高密度脂蛋白（HDLs）是动脉粥样硬化性心脏病的主要危险因素。
+血脂异常是指血浆胆固醇和（或）甘油三酯水平 增高或是HDL-C胆固醇水平降低，促使动脉粥样硬化的形成。
+
+【脂质代谢中主要的载脂蛋白和酶】
+脂质代谢中主要的载脂蛋白和酶
+组成部分
+载脂蛋白
+Apo A-I
+HDL的主要成分
+Apo A-II
+HDL的主要成分
+Apo A-V
+高密度脂蛋白（主要）、极低密度脂蛋白、乳糜微粒
+甘油三酯脂肪分解的 LPL 辅助因子
+Apo B-100
+VLDL，IDL，LDL，Lp（a）
+LDL受体配体
+Apo B-48
+乳糜微粒
+乳糜微粒主要成分
+Apo C-II
+乳糜微粒，VLDL，HDL
+LPL辅助因子
+载脂蛋白C-III
+乳糜微粒，VLDL，HDL
+抑制LPL
+Apo E
+乳糜微粒，残余物，VLDL，HDL
+LDL受体配体
+Apo（a）
+Lp（a）
+脂蛋白（a）的组件以及与LDLyang颗粒的连接
+ABCA1
+将细胞内胆固醇转移到细胞膜
+CETP
+介导胆固醇酯从HDL转移到VLDL
+水解乳糜微粒和极低密度脂蛋白中的甘油三酯释放游离脂肪酸
+LCAT
+在HDL内酯化游离胆固醇用作转运
+ABCA1=腺嘌呤核苷三磷酸（ATP）结合盒转运子A1；apo=载脂蛋白；CETP=胆固醇酯转移蛋白；HDL=高密度脂蛋白；IDL=中间密度脂蛋白；LCAT=卵磷脂胆固醇酰基转移酶；LDL=低密度脂蛋白；LPL=脂蛋白脂肪酶；Lp(a)=脂蛋白(a)；TG = 甘油三酯；VLDL=极低密度脂蛋白。
+ABCA1=腺嘌呤核苷三磷酸（ATP）结合盒转运子A1；apo=载脂蛋白；CETP=胆固醇酯转移蛋白；HDL=高密度脂蛋白；IDL=中间密度脂蛋白；LCAT=卵磷脂胆固醇酰基转移酶；LDL=低密度脂蛋白；LPL=脂蛋白脂肪酶；Lp(a)=脂蛋白(a)；TG = 甘油三酯；VLDL=极低密度脂蛋白。
+
+【脂质代谢的生理学机制】
+脂蛋白在合成、加工和清除代谢途径中的缺陷可引起有动脉粥样硬化作用的脂质在血浆和内皮中堆积。
+
+【外源性（饮食）脂质的代谢】
+超过95％的膳食脂质是
+甘油三酯 (TG)
+甘油三酯 (TG)
+其余约5％的膳食脂质是
+胆固醇（以酯化胆固醇的形式存在于食物中）
+胆固醇（以酯化胆固醇的形式存在于食物中）
+脂溶性维生素
+脂溶性维生素
+游离脂肪酸（FFAs）
+游离脂肪酸（FFAs）
+在胃脂肪酶、胃剧烈蠕动产生的乳化作用以及胰脂肪酶的共同作用下，食物中的甘油三酯在胃和十二指肠中消化形成单酰甘油（MGs）和游离脂肪酸。食物中的胆固醇酯通过同样的机制经去酯化而形成游离胆固醇。
+单脂肪酸甘油酯、游离脂肪酸和游离胆固醇在肠道中被胆汁酸微胶粒溶解，这些微胶粒将它们运送到肠绒毛吸收。
+在被肠上皮细胞吸收后，它们会重新合成为甘油三酯，并与胆固醇一起包装成乳糜微粒，这是体内最大的脂蛋白。
+乳糜微粒将来自食物的甘油三酯和胆固醇从肠上皮细胞经淋巴管转运进入血循环。 在脂肪和肌肉组织的毛细血管中，乳糜微粒上的载脂蛋白C-Ⅱ（apo C-Ⅱ）激活内皮细胞的脂蛋白脂酶（LPL），将乳糜微粒中90％的甘油三酯转化成游离脂肪酸和甘油，这些脂肪酸和甘油被脂肪细胞和肌肉细胞吸收后用作能量消耗或贮存。
+富含胆固醇的乳糜微粒残余经血循环回到肝脏，通过载脂蛋白E（apo E）介导清除。
+
+【内源性脂质的代谢】
+肝脏合成的脂蛋白转运内源性甘油三酯和胆固醇。脂蛋白在血液中持续循环，直至其所含的甘油三酯被外周组织摄取，或脂蛋白本身被肝脏清除。刺激肝脏脂蛋白合成的因素通常可导致血浆胆固醇和甘油三酯水平升高。
+极低密度脂蛋白（VLDL）含有载脂蛋白 B-100（apo B），在肝脏合成，并将甘油三酯和胆固醇转运至外周组织。肝脏通过VLDL途径，将来源于血浆游离脂肪酸和乳糜微粒残粒的过量甘油三酯向外转运。当肝内游离脂肪酸增加时，VLDL合成增加，例如高脂饮食时，以及当过多的脂肪组织直接将游离脂肪酸释放到循环中时（例如，在肥胖、未控制的糖尿病中）。VLDL表面的Apo C-II激活内皮脂蛋白脂肪酶（LPL），将甘油三酯分解为游离脂肪酸和甘油，被细胞摄取。
+中密度脂蛋白（IDL）是VLDL经脂蛋白脂酶LPL处理后的产物。IDL是富含胆固醇的VLDL微粒，它们或被肝脏清除，或由肝脂肪酶代谢生成LDL，后者仍保留Apo B-100。
+低密度脂蛋白（LDL），是VLDL和IDL的代谢产物，在所有脂蛋白中胆固醇含量最丰富。大约40％到60％的LDL通过Apo B和肝脏LDL受体介导在肝脏中清除，剩余部分由肝脏LDL受体或肝外非LDL（清道夫）受体吸收。其余部分被肝脏中的LDL或者肝外的LDL受体清理吸收。饮食中饱和脂肪增加及乳糜微粒释放胆固醇进入肝脏可使肝脏LDL受体下调；饮食中脂肪和胆固醇的减少则可使之上调。肝外清道夫，特别是巨噬细胞上的受体，能摄取过量未经肝脏受体处理的氧化LDLs。单核细胞迁移进入内皮细胞下转为巨噬细胞；这些巨噬细胞摄入氧化LDL，在粥样硬化斑块中形成泡沫细胞。
+LDL颗粒的大小与致密程度不一。小而致密的LDL特别富含胆固醇酯，和许多代谢紊乱如高甘油三酯血症和胰岛素抵抗相关。
+高密度脂蛋白（HDL）是在肠上皮细胞和肝脏合成的起初不含胆固醇的脂蛋白。HDL的代谢较复杂，但其总的作用是从外周组织和其他脂蛋白获取胆固醇，将它运输到机体最需要的地方－－其他细胞，其他脂蛋白（通过胆固醇酯转移蛋白，CETP）和肝脏（以便清除）。有对抗动脉粥样硬化的作用。
+细胞内游离胆固醇的外流由腺苷三磷酸（ATP）结合盒转运蛋白A1（ABCA1）介导，其与载脂蛋白A-I（apo A-I）结合形成新生HDL。 新生HDL中的游离胆固醇随后被卵磷脂- 胆固醇酰基转移酶（LCAT）酯化，生成成熟的HDL。血浆HDL水平可能不能完全代表胆固醇的逆向转运，而较高的HDL水平的保护作用也可能是由于抗氧化和抗炎特性所致。
+脂蛋白（a）[Lp（a）]是含载脂蛋白（a）的类LDL颗粒，特点为有5个富含半胱氨酸的称为Kringles的区段；其中有一个区段与纤溶酶原同源，一般认为它能竞争性地抑制纤维蛋白溶解，因而有促进血栓形成的倾向。包括孟德尔随机化分析、全基因组关联研究和大型荟萃分析在内的数据支持Lp(a)的水平升高与心脏风险增加存在因果关系（1、2、3）。虽然Lp(a)致动脉粥样硬化作用的确切机制尚未完全明确，但一般认为其促进炎症和血栓形成（4、5）。Lp（a）产生和清除的代谢途径还不清楚，但在慢性肾病患者特别是透析患者中其水平增高 (6,7)。
+
+【参考文献】
+1.Clarke R, Peden JF, Hopewell JC, et al.Genetic variants associated with Lp(a) lipoprotein level and coronary disease.N Engl J Med2009;361(26):2518-2528.doi:10.1056/NEJMoa0902604
+1.Clarke R, Peden JF, Hopewell JC, et al.Genetic variants associated with Lp(a) lipoprotein level and coronary disease.N Engl J Med2009;361(26):2518-2528.doi:10.1056/NEJMoa0902604
+2.Kamstrup PR, Tybjaerg-Hansen A, Steffensen R, Nordestgaard BG.Genetically elevated lipoprotein(a) and increased risk of myocardial infarction.JAMA2009;301(22):2331-2339.doi:10.1001/jama.2009.801
+2.Kamstrup PR, Tybjaerg-Hansen A, Steffensen R, Nordestgaard BG.Genetically elevated lipoprotein(a) and increased risk of myocardial infarction.JAMA2009;301(22):2331-2339.doi:10.1001/jama.2009.801
+3.Larsson SC, Gill D, Mason AM, et al.Lipoprotein(a) in Alzheimer, Atherosclerotic, Cerebrovascular, Thrombotic, and Valvular Disease: Mendelian Randomization Investigation.Circulation2020;141(22):1826-1828.doi:10.1161/CIRCULATIONAHA.120.045826
+3.Larsson SC, Gill D, Mason AM, et al.Lipoprotein(a) in Alzheimer, Atherosclerotic, Cerebrovascular, Thrombotic, and Valvular Disease: Mendelian Randomization Investigation.Circulation2020;141(22):1826-1828.doi:10.1161/CIRCULATIONAHA.120.045826
+4.Tsimikas S.A Test in Context: Lipoprotein(a): Diagnosis, Prognosis, Controversies, and Emerging Therapies.J Am Coll Cardiol2017;69(6):692-711.doi:10.1016/j.jacc.2016.11.042
+4.Tsimikas S.A Test in Context: Lipoprotein(a): Diagnosis, Prognosis, Controversies, and Emerging Therapies.J Am Coll Cardiol2017;69(6):692-711.doi:10.1016/j.jacc.2016.11.042
+5.Tsimikas S, Fazio S, Ferdinand KC, et al.NHLBI Working Group Recommendations to Reduce Lipoprotein(a)-Mediated Risk of Cardiovascular Disease and Aortic Stenosis.J Am Coll Cardiol2018;71(2):177-192.doi:10.1016/j.jacc.2017.11.014
+5.Tsimikas S, Fazio S, Ferdinand KC, et al.NHLBI Working Group Recommendations to Reduce Lipoprotein(a)-Mediated Risk of Cardiovascular Disease and Aortic Stenosis.J Am Coll Cardiol2018;71(2):177-192.doi:10.1016/j.jacc.2017.11.014
+6.Hopewell JC, Haynes R, Baigent C.The role of lipoprotein (a) in chronic kidney disease.J Lipid Res2018;59(4):577-585.doi:10.1194/jlr.R083626
+6.Hopewell JC, Haynes R, Baigent C.The role of lipoprotein (a) in chronic kidney disease.J Lipid Res2018;59(4):577-585.doi:10.1194/jlr.R083626
+7.Kronenberg F.Causes and consequences of lipoprotein(a) abnormalities in kidney disease.Clin Exp Nephrol2014;18(2):234-237.doi:10.1007/s10157-013-0875-8
+7.Kronenberg F.Causes and consequences of lipoprotein(a) abnormalities in kidney disease.Clin Exp Nephrol2014;18(2):234-237.doi:10.1007/s10157-013-0875-8

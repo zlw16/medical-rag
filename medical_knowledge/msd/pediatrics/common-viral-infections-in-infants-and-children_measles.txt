@@ -1,0 +1,254 @@
+标题：麻疹
+来源：https://www.msdmanuals.cn/professional/pediatrics/common-viral-infections-in-infants-and-children/measles
+============================================================
+
+在全球范围内，麻疹每年感染约1000万人，导致约10万人死亡，其中主要为儿童（1、2、3）。麻疹疫苗接种率低的人群中，感染发生率和死亡率显著更高。幼儿、孕妇、营养不良者和免疫功能低下者因麻疹出现并发症的风险更高。
+由于常规儿童疫苗接种，麻疹在美国已不常见，美国于2000年宣布已消除本土麻疹。从2000年到2010年，美国疾病控制和预防中心(CDC)平均每年报告71例 (4)。
+2019年，美国的年发病率上升至1274例，这是自1992年以来报告的最高数字（4）。这种增长主要是由于未接种疫苗的人群中的传播。2020年，在COVID-19全球大流行期间，美国仅报告了13例麻疹病例。从2020年至2023年期间，累计确诊病例242例，而在2024年有285例（4）。
+截至2025年5月22日，美国已报告1046例确诊病例和3例死亡病例。已发生14次疫情（定义为≥3例相关病例），92%的确诊病例（1046例中的961例）与疫情相关（4）。作为对比，2024年报告了16次疫情爆发，69%的病例（285例中的198例）与疫情爆发有关。
+麻疹发病率和疫情数量的增加与疫苗接种率下降有关，这由多种因素驱动，包括疫苗犹豫和疫苗接种计划的中断（4，5）。在美国，父母对孩子拒绝接种疫苗的情况日益频繁，疫苗接种率的下降导致儿童中疫苗可预防疾病的发病率上升。美国幼儿园学童的疫苗接种率从2019-2020学年的95.2%下降至2023-2024学年的92.7%（4）。美国麻疹的群体免疫阈值（即通过先天免疫、疫苗接种或既往感染获得对某种传染病的免疫力，从而阻止疾病传播所需的人群比例）估计为92%至95%（6，7）。
+
+【参考文献】
+1.World Health Organization: The Global Health Observatory; Measles - number of reported cases.Accessed May 9, 2025.
+1.World Health Organization: The Global Health Observatory; Measles - number of reported cases.Accessed May 9, 2025.
+2.World Health Organization: Facts Sheet; Measles.Accessed May 9, 2025.
+2.World Health Organization: Facts Sheet; Measles.Accessed May 9, 2025.
+3.Minta AA, Ferrari M, Antoni S, et al.Progress Toward Measles Elimination - Worldwide, 2000-2023.MMWR Morb Mortal Wkly Rep.2024;73(45):1036-1042.Published 2024 Nov 14.doi:10.15585/mmwr.mm7345a4
+3.Minta AA, Ferrari M, Antoni S, et al.Progress Toward Measles Elimination - Worldwide, 2000-2023.MMWR Morb Mortal Wkly Rep.2024;73(45):1036-1042.Published 2024 Nov 14.doi:10.15585/mmwr.mm7345a4
+4.Centers for Disease Control and Prevention (CDC): Measles Cases and Outbreaks.Accessed May 9, 2025.
+4.Centers for Disease Control and Prevention (CDC): Measles Cases and Outbreaks.Accessed May 9, 2025.
+5.Zucker JR, Rosen JB, Iwamoto M, et al.Consequences of Undervaccination - Measles Outbreak, New York City, 2018-2019.N Engl J Med.2020;382(11):1009-1017.doi:10.1056/NEJMoa1912514
+5.Zucker JR, Rosen JB, Iwamoto M, et al.Consequences of Undervaccination - Measles Outbreak, New York City, 2018-2019.N Engl J Med.2020;382(11):1009-1017.doi:10.1056/NEJMoa1912514
+6.Measles vaccines: WHO position paper – April 2017.Note de synthèse de l’OMS sur les vaccins contre la rougeole – avril 2017.Wkly Epidemiol Rec.2017;92(17):205-227.Published 2017 Apr 28.
+6.Measles vaccines: WHO position paper – April 2017.Note de synthèse de l’OMS sur les vaccins contre la rougeole – avril 2017.Wkly Epidemiol Rec.2017;92(17):205-227.Published 2017 Apr 28.
+7.Funk S, Knapp JK, Lebo E, et al.Combining serological and contact data to derive target immunity levels for achieving and maintaining measles elimination.BMC Med.2019;17(1):180.Published 2019 Sep 25.doi:10.1186/s12916-019-1413-7
+7.Funk S, Knapp JK, Lebo E, et al.Combining serological and contact data to derive target immunity levels for achieving and maintaining measles elimination.BMC Med.2019;17(1):180.Published 2019 Sep 25.doi:10.1186/s12916-019-1413-7
+
+【麻疹的病理生理学】
+麻疹由副粘病毒引起，并且是没有已知动物贮库或无症状携带状态的人类疾病。具有很强的传染性；在暴露后的易感人群中被感染率>90% (1)。它是已知最具传染性的人类病毒之一（2）。
+麻疹主要在皮疹的前驱期或早期出疹期传播。麻疹主要通过咳嗽产生的大颗粒呼吸道飞沫传播，这些飞沫在空气中短暂悬浮并传播短距离。传播也可能通过微小的气溶胶飞沫发生，这些飞沫可以在封闭区域（例如，在诊所检查室）内悬浮（从而可以被吸入）长达2小时。通过污染物传播麻疹病毒虽有可能，但临床意义远不如空气传播重要，因为麻疹病毒在干燥物体表面仅能存活很短时间（3）。
+前往麻疹流行地区或疫情活跃地区的国际或国内旅行是麻疹传播的风险因素。
+传染性开始于出疹前4天，并持续到出疹后4天。免疫功能低下的患者可能在呼吸道中长期分泌麻疹病毒。
+
+【病理生理学参考文献】
+1.Centers for Disease Control and Prevention (CDC): Yellow Book: Health Information for International Travel.Measles (Rubeola).2026.
+1.Centers for Disease Control and Prevention (CDC): Yellow Book: Health Information for International Travel.Measles (Rubeola).2026.
+2.Strebel PM, Orenstein WA.Measles.N Engl J Med.2019;381(4):349-357.doi:10.1056/NEJMcp1905181
+2.Strebel PM, Orenstein WA.Measles.N Engl J Med.2019;381(4):349-357.doi:10.1056/NEJMcp1905181
+3.Bischoff WE, McNall RJ, Blevins MW, et al.Detection of Measles Virus RNA in Air and Surface Specimens in a Hospital Setting.J Infect Dis.2016;213(4):600-603.doi:10.1093/infdis/jiv465
+3.Bischoff WE, McNall RJ, Blevins MW, et al.Detection of Measles Virus RNA in Air and Surface Specimens in a Hospital Setting.J Infect Dis.2016;213(4):600-603.doi:10.1093/infdis/jiv465
+
+【麻疹的症状和体征】
+麻疹感染的典型病程如下（天数为约数，持续时间可能有所不同）（1，2）：
+潜伏期：从接触到发热开始为7至21（平均11至12）天
+潜伏期：从接触到发热开始为7至21（平均11至12）天
+前驱期：从症状出现到皮疹出现为3至7天
+前驱期：从症状出现到皮疹出现为3至7天
+科波利克斑（黏膜疹）：在皮疹出现前约2天出现，并持续至皮疹出现后1至2天
+科波利克斑（黏膜疹）：在皮疹出现前约2天出现，并持续至皮疹出现后1至2天
+皮疹（斑丘疹）：皮疹持续4至7天，之后开始迅速消退。
+皮疹（斑丘疹）：皮疹持续4至7天，之后开始迅速消退。
+恢复期（症状和皮疹消退）：无并发症病例皮疹出现后7天
+恢复期（症状和皮疹消退）：无并发症病例皮疹出现后7天
+传染期：感染患者在出疹前4天至出疹后4天内具有传染性。
+传染期：感染患者在出疹前4天至出疹后4天内具有传染性。
+在接触麻疹病毒并经过平均11至12天（范围7至20天[3])的潜伏期后，麻疹开始出现前驱症状，包括发热、鼻塞、干咳和睑结膜炎。
+口腔黏膜的科氏斑点类似于被红色乳晕包围的白色沙粒。这些黏膜疹具有特异性，出现在70%的患者中（2）。科氏斑在出疹前的前驱期出现，通常位于上颌第一和第二磨牙对面的口腔黏膜上。Koplik斑可能广泛出现，导致口腔黏膜弥漫性斑驳红斑。
+Koplik斑典型描述为亮红色斑点，中心为白色或蓝白色，类似沙粒。它们可能发生在口腔中的任何位置，通常在泛发性皮疹之前出现，是麻疹（rubeola）的病征。
+Koplik斑典型描述为亮红色斑点，中心为白色或蓝白色，类似沙粒。它们可能发生在口腔中的任何位置，通常在泛发性皮疹之前出现，是麻疹（rubeola）的病征。
+Images courtesy of the Public Health Image Library of the Centers for Disease Control and Prevention.
+Koplik斑典型描述为亮红色斑点，中心为白色或蓝白色，类似沙粒。它们可能发生在口腔中的任何位置，通常在泛发性皮疹之前出现，是麻疹（rubeola）的病征。
+Koplik斑典型描述为亮红色斑点，中心为白色或蓝白色，类似沙粒。它们可能发生在口腔中的任何位置，通常在泛发性皮疹之前出现，是麻疹（rubeola）的病征。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+Koplik斑典型描述为亮红色斑点，中心为白色或蓝白色，类似沙粒。它们可能发生在口腔中的任何位置，通常在泛发性皮疹之前出现，是麻疹（rubeola）的病征。
+Koplik斑典型描述为亮红色斑点，中心为白色或蓝白色，类似沙粒。它们可能发生在口腔中的任何位置，通常在泛发性皮疹之前出现，是麻疹（rubeola）的病征。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+Koplik斑典型描述为亮红色斑点，中心为白色或蓝白色，类似沙粒。它们可能发生在口腔中的任何位置，通常在泛发性皮疹之前出现，是麻疹（rubeola）的病征。
+Koplik斑典型描述为亮红色斑点，中心为白色或蓝白色，类似沙粒。它们可能发生在口腔中的任何位置，通常在泛发性皮疹之前出现，是麻疹（rubeola）的病征。
+Images courtesy of the Public Health Image Library of the Centers for Disease Control and Prevention.
+Koplik斑典型描述为亮红色斑点，中心为白色或蓝白色，类似沙粒。它们可能发生在口腔中的任何位置，通常在泛发性皮疹之前出现，是麻疹（rubeola）的病征。
+Koplik斑典型描述为亮红色斑点，中心为白色或蓝白色，类似沙粒。它们可能发生在口腔中的任何位置，通常在泛发性皮疹之前出现，是麻疹（rubeola）的病征。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+Koplik斑典型描述为亮红色斑点，中心为白色或蓝白色，类似沙粒。它们可能发生在口腔中的任何位置，通常在泛发性皮疹之前出现，是麻疹（rubeola）的病征。
+Koplik斑典型描述为亮红色斑点，中心为白色或蓝白色，类似沙粒。它们可能发生在口腔中的任何位置，通常在泛发性皮疹之前出现，是麻疹（rubeola）的病征。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+皮疹大约在前驱症状出现后3至7天出现，通常在科氏斑出现后1至2天。由脸前部、耳后和颈部侧面开始出现不规则的斑疹，接着混合出现丘疹。皮疹呈红斑，但在深色皮肤患者中可能看起来颜色更深。在24到48小时内，皮疹出现在躯干和四肢（包括手掌和脚底），而面部的皮疹开始消退。面部皮疹消退后可能出现脱屑。严重病例中可能出现瘀点或瘀斑。
+麻疹（风疹）表现为弥漫性斑丘疹，融合并以头尾方向扩散。
+麻疹（风疹）表现为弥漫性斑丘疹，融合并以头尾方向扩散。
+Image courtesy of the Public Health Image Library of the Centers for Disease Control and Prevention.
+麻疹（风疹）表现为弥漫性斑丘疹，融合并以头尾方向扩散。
+麻疹（风疹）表现为弥漫性斑丘疹，融合并以头尾方向扩散。
+SCIENCE PHOTO LIBRARY
+麻疹（风疹）表现为弥漫性斑丘疹，融合并以头尾方向扩散。
+麻疹（风疹）表现为弥漫性斑丘疹，融合并以头尾方向扩散。
+CDC/ Betty G.帕廷
+麻疹（风疹）表现为弥漫性斑丘疹，融合并以头尾方向扩散。
+麻疹（风疹）表现为弥漫性斑丘疹，融合并以头尾方向扩散。
+Image courtesy of the Public Health Image Library of the Centers for Disease Control and Prevention.
+麻疹（风疹）表现为弥漫性斑丘疹，融合并以头尾方向扩散。
+麻疹（风疹）表现为弥漫性斑丘疹，融合并以头尾方向扩散。
+SCIENCE PHOTO LIBRARY
+麻疹（风疹）表现为弥漫性斑丘疹，融合并以头尾方向扩散。
+麻疹（风疹）表现为弥漫性斑丘疹，融合并以头尾方向扩散。
+CDC/ Betty G.帕廷
+在疾病的高峰期，患者可能出现高热，有时超过40°C，伴有眼眶周围水肿、结膜炎、畏光、干咳、广泛皮疹和虚脱。全身症状和体征与皮疹严重程度平行。
+皮疹通常在出现后4至7天迅速消退，留下铜棕色或色素沉着，随后皮疹消退后出现脱屑。大约同时，发热减轻，患者感觉更舒适。
+感染患者在皮疹出现前4天至出现后4天内具有传染性。
+免疫功能低下的患者可能不会出现皮疹，但会发展为严重的进行性巨细胞肺炎。
+
+【麻疹并发症】
+麻疹的并发症包括以下内容：
+细菌二重感染，包括中耳炎、肺炎
+细菌二重感染，包括中耳炎、肺炎
+免疫遗忘
+免疫遗忘
+一过性肝炎
+一过性肝炎
+急性血小板减少性紫癜
+急性血小板减少性紫癜
+亚急性硬化性全脑炎
+亚急性硬化性全脑炎
+在高资源国家，麻疹并发症发生率包括中耳炎（7%至9%）、肺炎（1%至6%）、腹泻（8%）、感染后脑炎（约1/1000）和死亡（约1/1000）（2）。亚急性硬化性全脑炎是一种迟发性并发症，约每1万名既往麻疹感染患者中会出现1例。幼儿以及孕妇、营养不良或免疫功能低下患者的并发症发生率较高。麻疹会暂时抑制细胞介导的免疫反应，导致免疫失忆，并在数月到数年内增加后续感染的风险。
+细菌继发感染包括肺炎、喉气管支气管炎和中耳炎。当出现相关的局部体征，或发热、白细胞增多、虚弱等症状复发时，提示存在细菌重复感染。
+由麻疹病毒感染引起的肺炎在多达6%的患者中发生，即使在无明显并发症的感染中也可能出现（2）。在婴儿麻疹的致命病例中，肺炎通常是死因。
+麻疹诱导的免疫抑制可以加重活动性结核病，并暂时阻止皮肤试验中对结核菌素和组织胞浆菌素抗原的反应。
+急性感染期间可能出现一过性肝炎和腹泻。
+感染后脑炎的发病率为1/1000，通常出现在皮疹出现后2天至2周内（4），常以高热复发、头痛、癫痫发作和昏迷（2）为起始症状。脑脊液常表现为淋巴细胞计数50～500/mcL和轻度的蛋白升高，但是开始时可能正常。脑炎可以在大约1周的时间内恢复或者可以持续较长时间，导致发病或死亡。
+急性血小板减少性紫癜可在感染消退后出现，表现为轻度自限性出血倾向，偶见严重出血。
+亚急性硬化性全脑炎（SSPE）是麻疹罕见、进展性且最终致命的晚期并发症。亚急性硬化性全脑炎是一种退行性疾病，可在麻疹感染后7至10年（或更久）才显现症状，且通常在症状出现后数年内致命。SSPE的风险在最初感染麻疹时年龄小于5岁的儿童中要高得多（1:1300例），特别是在小于12个月大的儿童中（1:600例）（5）。
+非典型麻疹综合征是一种并发症，发生在接种原始灭活病毒麻疹疫苗的人群中，该疫苗于 1963 年至 1967 年在美国使用，直到70 年代初在其他一些国家使用 (6)。这些较早的疫苗改变了一些未得到完全保护并随后感染了野生型麻疹的患者的疾病表达。麻疹的表现更为突然，肺受累更为常见 (7)。自20世纪80年代以来，确诊病例极为罕见 (8)。非典型麻疹之所以值得注意，主要是因为在此期间接受麻疹疫苗的患者可能报告有麻疹疫苗接种史和麻疹感染史。
+
+【症状和体征参考】
+1.Centers for Disease Control and Prevention (CDC): Yellow Book: Health Information for International Travel.Measles (Rubeola).2026.
+1.Centers for Disease Control and Prevention (CDC): Yellow Book: Health Information for International Travel.Measles (Rubeola).2026.
+2.Strebel PM, Orenstein WA.Measles.N Engl J Med.2019;381(4):349-357.doi:10.1056/NEJMcp1905181
+2.Strebel PM, Orenstein WA.Measles.N Engl J Med.2019;381(4):349-357.doi:10.1056/NEJMcp1905181
+3.Tanaka H, Takahashi Y, Matsumoto S, et al.Shorter incubation period in symptomatic measles patients who had no history of measles vaccination.Vaccine.2025;45:126652.doi:10.1016/j.vaccine.2024.126652
+3.Tanaka H, Takahashi Y, Matsumoto S, et al.Shorter incubation period in symptomatic measles patients who had no history of measles vaccination.Vaccine.2025;45:126652.doi:10.1016/j.vaccine.2024.126652
+4.CDC: Clinical Overview of Measles.Accessed May 5, 2025.
+4.CDC: Clinical Overview of Measles.Accessed May 5, 2025.
+5.Wendorf KA, Winter K, Zipprich J, et al.Subacute Sclerosing Panencephalitis: The Devastating Measles Complication That Might Be More Common Than Previously Estimated.Clin Infect Dis.2017;65(2):226-232.doi:10.1093/cid/cix302
+5.Wendorf KA, Winter K, Zipprich J, et al.Subacute Sclerosing Panencephalitis: The Devastating Measles Complication That Might Be More Common Than Previously Estimated.Clin Infect Dis.2017;65(2):226-232.doi:10.1093/cid/cix302
+6.CDC: Measles prevention.MMWR Suppl.1989;38(9):1–18.
+6.CDC: Measles prevention.MMWR Suppl.1989;38(9):1–18.
+7.Annunziato D, Kaplan MH, Hall WW, et al.Atypical measles syndrome: pathologic and serologic findings.Pediatrics.1982;70(2):203-209.
+7.Annunziato D, Kaplan MH, Hall WW, et al.Atypical measles syndrome: pathologic and serologic findings.Pediatrics.1982;70(2):203-209.
+8.Melenotte C, Cassir N, Tessonnier L, Brouqui P.Atypical measles syndrome in adults: still around.BMJ Case Rep.2015;2015:bcr2015211054.Published 2015 Sep 23.doi:10.1136/bcr-2015-211054
+8.Melenotte C, Cassir N, Tessonnier L, Brouqui P.Atypical measles syndrome in adults: still around.BMJ Case Rep.2015;2015:bcr2015211054.Published 2015 Sep 23.doi:10.1136/bcr-2015-211054
+
+【麻疹的诊断】
+病史和体格检查
+病史和体格检查
+通过逆转录-聚合酶链反应（RT-PCR）进行病毒检测
+通过逆转录-聚合酶链反应（RT-PCR）进行病毒检测
+血清学检测
+血清学检测
+有接触史的患者伴有鼻炎、结膜炎、畏光和咳嗽可以被怀疑为典型的麻疹 。当未接种疫苗或未完成疫苗接种且有旅行史或已知暴露史的患者出现皮疹时，临床医生应保持高度警惕。
+诊断依据是在已知或疑似接触过麻疹的非免疫患者中发现具有特异性的科氏斑，或特征性皮疹。
+应进行实验室确认。进行鼻咽拭子或咽喉拭子用于RT-PCR检测；若可行，也收集尿液样本用于RT-PCR检测（1，2）。抽取血液样本进行血清学检测。在急性期和恢复期之间IgG血清抗体水平上升是高度准确的，但常延误诊断。IgM水平表明急性（或近期）感染，但可能在发病3天后才可检测到，且在先前接种过疫苗的人群中可能不存在或短暂存在（3）。所有疑似麻疹病例均应在实验室确诊前向地方卫生当局报告。（另见CDC: 《MMRV 检测临床医生指南》，获取有关急性麻疹疾病检测和麻疹免疫力的最新信息。）
+全血细胞计数可能显示淋巴细胞减少和血小板减少，但并非麻疹诊断所必需。
+鉴别诊断包括风疹（德国麻疹）、猩红热、药疹、血清病（见表荨麻疹的部分病因）、幼儿急疹、传染性单核细胞增多症、传染性红斑、蜱传疾病、川崎病以及埃可病毒和柯萨奇病毒感染（见表部分呼吸道病毒）。在麻疹非常罕见的地区，出现的症状和体征可能会导致误诊。
+以下是一些疾病与典型麻疹相鉴别的一些临床要点：
+风疹：缺少前驱症状，发热以及其他症状缺少或者较轻、耳后和枕骨下淋巴结肿大（通常有触痛）以及持续时间短。
+风疹：缺少前驱症状，发热以及其他症状缺少或者较轻、耳后和枕骨下淋巴结肿大（通常有触痛）以及持续时间短。
+药疹：常常与麻疹的皮疹相似，但是通常可以通过缺少前驱症状、缺少从头至尾的进展过程或者咳嗽，并且通常有近期的药物接触史。
+药疹：常常与麻疹的皮疹相似，但是通常可以通过缺少前驱症状、缺少从头至尾的进展过程或者咳嗽，并且通常有近期的药物接触史。
+婴儿玫瑰疹：皮疹与麻疹相似，但很少发生于>3岁以下的儿童。初期体温通常很高，无Koplik斑和全身不适，退热与皮疹同时出现。
+婴儿玫瑰疹：皮疹与麻疹相似，但很少发生于>3岁以下的儿童。初期体温通常很高，无Koplik斑和全身不适，退热与皮疹同时出现。
+
+【诊断参考】
+1.Centers for Disease Control and Prevention (CDC): Clinical Overview of Measles.Accessed May 5, 2025.
+1.Centers for Disease Control and Prevention (CDC): Clinical Overview of Measles.Accessed May 5, 2025.
+2.Hübschen JM, Gouandjika-Vasilache I, Dina J.Measles.Lancet.2022;399(10325):678-690.doi:10.1016/S0140-6736(21)02004-3
+2.Hübschen JM, Gouandjika-Vasilache I, Dina J.Measles.Lancet.2022;399(10325):678-690.doi:10.1016/S0140-6736(21)02004-3
+3.CDC: Laboratory Testing for Measles.Accessed May 16, 2025.
+3.CDC: Laboratory Testing for Measles.Accessed May 16, 2025.
+
+【麻疹的治疗】
+支持治疗
+支持治疗
+对于儿童患者，维生素A
+对于儿童患者，维生素A
+发生细菌重复感染时使用抗生素
+发生细菌重复感染时使用抗生素
+麻疹的治疗是支持性的，包括脑炎的治疗。
+疑似麻疹患者应立即隔离（1）。身体健康且可以被隔离并作为门诊病人治疗的患者。
+麻疹住院患者的管理应采取标准预防、接触预防和空气传播预防措施。推荐单人病房空气传播隔离室和N-95呼吸器或类似的个人防护设备。
+在医疗服务不足的地区，已证明补充维生素A可降低儿童麻疹的发病率和死亡率。因为低血清维生素A水平与麻疹引起的严重疾病相关，所以推荐对所有患麻疹的儿童进行维生素A治疗(2，3)。每日一次口服，连续2天，使用的剂量与儿童的年龄有关：
+12个月及以上：200,000国际单位（IU）
+12个月及以上：200,000国际单位（IU）
+6至11个月：100,000IU
+6至11个月：100,000IU
+<6个月：50,000IU
+<6个月：50,000IU
+对于出现维生素A缺乏症临床症状的儿童（例如夜视能力下降、干眼症和眼睛干涩、皮肤和黏膜干燥或角化、免疫力下降、幼儿生长异常），应在2至4周后重复补充一次与年龄相符的单次维生素A剂量。
+如确诊细菌性重复感染，应给予适当抗生素治疗。
+
+【治疗参考文献】
+1.Centers for Disease Control and Prevention (CDC): Expanding Measles Outbreak in the United States and Guidance for the Upcoming Travel Season.Recommendations for Healthcare Professionals.Accessed May 14, 2025.
+1.Centers for Disease Control and Prevention (CDC): Expanding Measles Outbreak in the United States and Guidance for the Upcoming Travel Season.Recommendations for Healthcare Professionals.Accessed May 14, 2025.
+2.World Health Organization.(‎2020)‎.Guide for clinical case management and infection prevention and control during a measles outbreak.2020.
+2.World Health Organization.(‎2020)‎.Guide for clinical case management and infection prevention and control during a measles outbreak.2020.
+3.CDC: Yellow Book:  Health Information for International Travel.Measles (Rubeola).2026.
+3.CDC: Yellow Book:  Health Information for International Travel.Measles (Rubeola).2026.
+
+【麻疹的预后】
+在美国，麻疹患者的死亡率约为1/1000至3/1000的儿童；在医疗服务不足的地区，这一比例要高得多（2% 至 3%）（1，2)，而全球约为 1% (3，4）。
+婴儿感染、缺乏医疗护理、严重营养不良、维生素A缺乏症以及并发肺炎与死亡风险增加相关（5，6）。
+参见麻疹并发症
+
+【预后参考】
+1.Gindler J, Tinker S, Markowitz L, Atkinson W, Dales L, Papania MJ.Acute measles mortality in the United States, 1987-2002.J Infect Dis.2004;189 Suppl 1:S69-S77.doi:10.1086/378565
+1.Gindler J, Tinker S, Markowitz L, Atkinson W, Dales L, Papania MJ.Acute measles mortality in the United States, 1987-2002.J Infect Dis.2004;189 Suppl 1:S69-S77.doi:10.1086/378565
+2.Lee B, Ying M, Papania MJ, Stevenson J, Seward JF, Hutchins SS.Measles hospitalizations, United States, 1985-2002.J Infect Dis.2004;189 Suppl 1:S210-S215.doi:10.1086/381555
+2.Lee B, Ying M, Papania MJ, Stevenson J, Seward JF, Hutchins SS.Measles hospitalizations, United States, 1985-2002.J Infect Dis.2004;189 Suppl 1:S210-S215.doi:10.1086/381555
+3.Minta AA, Ferrari M, Antoni S, et al.Progress Toward Measles Elimination - Worldwide, 2000-2023.MMWR Morb Mortal Wkly Rep.2024;73(45):1036-1042.Published 2024 Nov 14.doi:10.15585/mmwr.mm7345a4
+3.Minta AA, Ferrari M, Antoni S, et al.Progress Toward Measles Elimination - Worldwide, 2000-2023.MMWR Morb Mortal Wkly Rep.2024;73(45):1036-1042.Published 2024 Nov 14.doi:10.15585/mmwr.mm7345a4
+4.Sbarra AN, Mosser JF, Jit M, et al.Estimating national-level measles case-fatality ratios in low-income and middle-income countries: an updated systematic review and modelling study.Lancet Glob Health.2023;11(4):e516-e524.doi:10.1016/S2214-109X(23)00043-8
+4.Sbarra AN, Mosser JF, Jit M, et al.Estimating national-level measles case-fatality ratios in low-income and middle-income countries: an updated systematic review and modelling study.Lancet Glob Health.2023;11(4):e516-e524.doi:10.1016/S2214-109X(23)00043-8
+5.Strebel PM, Orenstein WA.Measles.N Engl J Med.2019;381(4):349-357.doi:10.1056/NEJMcp1905181
+5.Strebel PM, Orenstein WA.Measles.N Engl J Med.2019;381(4):349-357.doi:10.1056/NEJMcp1905181
+6.Donadel M, Stanescu A, Pistol A, et al.Risk factors for measles deaths among children during a Nationwide measles outbreak - Romania, 2016-2018.BMC Infect Dis.2021;21(1):279.Published 2021 Mar 19.doi:10.1186/s12879-021-05966-3
+6.Donadel M, Stanescu A, Pistol A, et al.Risk factors for measles deaths among children during a Nationwide measles outbreak - Romania, 2016-2018.BMC Infect Dis.2021;21(1):279.Published 2021 Mar 19.doi:10.1186/s12879-021-05966-3
+
+【预防麻疹】
+曾感染野生型麻疹的人被认为具有终身免疫力（包括1957年以前出生的成年人，因推测曾暴露于该病毒）。母亲对麻疹具有免疫力（例如因既往感染或接种疫苗）的婴儿可经胎盘获得母体抗体；这些抗体通常在生命的最初6至12个月内提供保护。
+含麻疹、腮腺炎和风疹(MMR)的减毒活疫苗在多数医疗体系健全的国家常规接种儿童。在美国，建议儿童接种 MMR 疫苗，分两剂接种：12 至 15 个月大时接种 1 剂，4 至 6 岁时接种 1 剂。接种2剂次麻疹、腮腺炎、风疹联合减毒活疫苗可有效预防麻疹。
+麻疹-腮腺炎-风疹联合减毒活疫苗接种通常可以提供持久的免疫力，儿童常规疫苗接种已使美国的麻疹发病率降低了99%（1）。一项对队列研究的大型荟萃分析发现，MMR疫苗在预防9个月至15岁儿童麻疹方面的有效性在一剂后为95%，在两剂后为96%（2)。2000年至2023年期间，全球通过疫苗接种估计预防了6030万例麻疹死亡病例；然而，截至2023年底，尚无任何地区实现并维持麻疹消除（3）。
+两剂麻疹、腮腺炎和风疹（MMR）疫苗计划于1989年推出；因此，1957年至1989年出生的成年人可能只接种过一剂。对于该组别的成年人，若缺乏免疫证据且处于高暴露风险（例如高等院校学生、医护人员、国际旅行者、免疫功能低下者的接触者、HIV感染者），建议额外接种1至2剂疫苗（4、5、6）。此外，1963年至1967年间接种疫苗的少数成年人可能接种的是灭活麻疹疫苗，因此被视为未接种者，应重新接种疫苗。
+MMR是一种活疫苗，在怀孕期间禁用。对于某些免疫功能低下的患者以及对疫苗成分或既往疫苗剂量有过敏反应的患者，也属于禁忌症（7）。
+更多信息请参见MMR疫苗，包括适应症、禁忌症和注意事项、剂量和给药和不良反应。
+
+【暴露后预防】
+对于免疫功能正常的非免疫接触者，可以通过在接触后 3 天内接种 MMR 疫苗来预防。
+对于无法接种疫苗的易感患者（例如，严重免疫功能低下或孕妇），应立即（6天内）给予含麻疹抗体的人免疫球蛋白。所有暴露的严重免疫缺陷患者，无论免疫接种状态如何，都应在暴露后接受免疫球蛋白治疗。
+接受肌肉注射免疫球蛋白的患者应在6个月后接种麻疹、腮腺炎和风疹（MMR）疫苗，而接受静脉注射免疫球蛋白的患者应在8个月后接种MMR疫苗，前提是他们年龄≥12个月且其他方面符合接种活疫苗的条件（5）。
+在机构暴发（例如学校）中，拒绝或不能接受疫苗接种并且也未接受免疫球蛋白的易感接触者应该被排除在受影响的机构之外，直到最后一例病例出现皮疹后21天。暴露后，易感的医护人员应被排除在外，返岗决定应遵循公共卫生建议，并考虑工作人员的免疫状况及对工作场所中他人的风险。
+
+【预防参考文献】
+1.McLean HQ, Fiebelkorn AP, Temte JL, Wallace GS; Centers for Disease Control and Prevention.Prevention of measles, rubella, congenital rubella syndrome, and mumps, 2013: Summary recommendations of the Advisory Committee on Immunization Practices (ACIP).[published correction appears inMMWR Recomm Rep. 2015 Mar 13;64(9):259].MMWR Recomm Rep.2013;62(RR-04):1–34.
+1.McLean HQ, Fiebelkorn AP, Temte JL, Wallace GS; Centers for Disease Control and Prevention.Prevention of measles, rubella, congenital rubella syndrome, and mumps, 2013: Summary recommendations of the Advisory Committee on Immunization Practices (ACIP).[published correction appears inMMWR Recomm Rep. 2015 Mar 13;64(9):259].MMWR Recomm Rep.2013;62(RR-04):1–34.
+2.Di Pietrantonj C, Rivetti A, Marchione P, et al.Vaccines for measles, mumps, rubella, and varicella in children.Cochrane Database Syst Rev.2020;4(4):CD004407.doi:10.1002/14651858.CD004407.pub4
+2.Di Pietrantonj C, Rivetti A, Marchione P, et al.Vaccines for measles, mumps, rubella, and varicella in children.Cochrane Database Syst Rev.2020;4(4):CD004407.doi:10.1002/14651858.CD004407.pub4
+3.Minta AA, Ferrari M, Antoni S, et al.Progress Toward Measles Elimination - Worldwide, 2000-2023.MMWR Morb Mortal Wkly Rep.2024;73(45):1036-1042.Published 2024 Nov 14.doi:10.15585/mmwr.mm7345a4
+3.Minta AA, Ferrari M, Antoni S, et al.Progress Toward Measles Elimination - Worldwide, 2000-2023.MMWR Morb Mortal Wkly Rep.2024;73(45):1036-1042.Published 2024 Nov 14.doi:10.15585/mmwr.mm7345a4
+4.Centers for Disease Control and Prevention (CDC): Expanding Measles Outbreak in the United States and Guidance for the Upcoming Travel Season.Recommendations for Healthcare Professionals.Accessed May 14, 2025.
+4.Centers for Disease Control and Prevention (CDC): Expanding Measles Outbreak in the United States and Guidance for the Upcoming Travel Season.Recommendations for Healthcare Professionals.Accessed May 14, 2025.
+5.CDC: Yellow Book: Health Information for International Travel.Measles (Rubeola).2026.
+5.CDC: Yellow Book: Health Information for International Travel.Measles (Rubeola).2026.
+6.CDC: Measles Vaccine Recommendations.Accessed May 30, 2025.
+6.CDC: Measles Vaccine Recommendations.Accessed May 30, 2025.
+7.National Center for Immunization and Respiratory Diseases.General recommendations on immunization --- recommendations of the Advisory Committee on Immunization Practices (ACIP) [published correction appears inMMWR Recomm Rep. 2011 Jul 29;60:993].MMWR Recomm Rep.2011;60(2):1-64.
+7.National Center for Immunization and Respiratory Diseases.General recommendations on immunization --- recommendations of the Advisory Committee on Immunization Practices (ACIP) [published correction appears inMMWR Recomm Rep. 2011 Jul 29;60:993].MMWR Recomm Rep.2011;60(2):1-64.
+儿童普遍接种麻疹疫苗是安全且有效的，除非有禁忌症（例如怀孕或严重免疫缺陷），否则应该接种 MMR 疫苗。
+儿童普遍接种麻疹疫苗是安全且有效的，除非有禁忌症（例如怀孕或严重免疫缺陷），否则应该接种 MMR 疫苗。
+麻疹的发病率高度可变，取决于人群的接种率。
+麻疹的发病率高度可变，取决于人群的接种率。
+麻疹具有高传染性，在>90％的易感接触者中发生。
+麻疹具有高传染性，在>90％的易感接触者中发生。
+麻疹每年在全球造成约 10 万人死亡，主要为儿童，特别是居住在医疗服务匮乏地区的儿童。
+麻疹每年在全球造成约 10 万人死亡，主要为儿童，特别是居住在医疗服务匮乏地区的儿童。
+治疗主要支持，但儿童也应该接受维生素A补充。
+治疗主要支持，但儿童也应该接受维生素A补充。
+对易感接触者进行暴露后预防；在3天内使用疫苗，除非禁忌，在这种情况下在6天内给予免疫球蛋白。
+对易感接触者进行暴露后预防；在3天内使用疫苗，除非禁忌，在这种情况下在6天内给予免疫球蛋白。

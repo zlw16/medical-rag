@@ -1,0 +1,223 @@
+标题：心律失常概述
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/overview-of-arrhythmias
+============================================================
+
+心搏以规律、协调的方式出现，因为具有独特电特性的心肌细胞产生并传导的电脉冲，触发了一系列有组织的心肌收缩。心律失常和传导障碍是由于这些电冲动的产生或传导异常或两者兼而有之所引起。
+任何心脏疾病，包括先天性结构异常（如，附加的房室连接）或功能异常（如，遗传性离子通道病变）可以扰乱心脏的节律。能引起或导致心律紊乱的系统性因素包括电解质异常（特别是低钾血症或低镁血症）、缺氧、激素失衡（如，甲状腺功能减退、甲状腺功能亢进）、药物和毒性物质（如，酒精、咖啡因）。
+
+【心脏传导系统的解剖】
+位于上腔静脉与右心房高位侧壁交界处的窦房结（SA结）是一簇细胞群，产生每次正常心跳的初始电脉冲。这些起搏细胞释放的电刺激邻近的细胞，按一种有规律的顺序导致心脏相连区域相继兴奋。
+冲动通过心房传导至房室（AV）结，这一过程既依赖于优先传导的结间束，也依赖于非特化的心房肌细胞。房室结位于房间隔的右侧。其传导速度较慢，因而可延迟冲动向心室的传递。房室结传递时间具有心率依赖性，并受自主神经张力和循环儿茶酚胺调节，以便在任何心房率下实现最大心输出量。
+除前间隔区外，在电学上心房与心室是被纤维环隔离的。在前间隔区有希氏束，即房室结的延伸部，进入室间隔的顶部，在那里分叉成左束支和右束支，并终止于浦肯野纤维。右束支将冲动传导到右心室的前部和心尖心内膜区域。左束支在室间隔的左侧面成扇形展开。它的前部（左前分支）和后部（左后分支）兴奋室间隔的左侧面，这是心室被电激动的第一部分。因而，室间隔从左到右除极，从心内膜面通过心室壁到心外膜面，双心室几乎同时被激动（见图通过心脏的电传导通路）(1)。
+
+【心脏的电传导通路】
+心脏的电传导通路
+窦房结（1）启动流经左右心房（2）的电脉冲，使其收缩。当电脉冲到达房室结（3）时，它会稍微延迟。然后，脉冲沿着His束（4）向下传播，His束分为供应右心室的右束支（5）和供应左心室的左束支（5）。然后，冲动通过心室传播，使心室收缩。
+
+【传导系统解剖参考】
+1.Karki R, Raina A, Ezzeddine FM, Bois MC, Asirvatham SJ.Anatomy and Pathology of the Cardiac Conduction System.Cardiol Clin2023;41(3):277-292.doi:10.1016/j.ccl.2023.03.016
+1.Karki R, Raina A, Ezzeddine FM, Bois MC, Asirvatham SJ.Anatomy and Pathology of the Cardiac Conduction System.Cardiol Clin2023;41(3):277-292.doi:10.1016/j.ccl.2023.03.016
+
+【心脏生理】
+在理解节律异常之前，首先需要理解正常的心脏生理学。
+
+【电生理学】
+穿过心肌细胞膜的离子通过特殊的离子通道来调节，导致细胞的周期性除极和复极，称为动作电位。心肌的工作细胞的动作电位开始于细胞从它的舒张期−90mV的跨膜电位去极化到大约−50mV的电位时。在此阈值电位，电压依赖性快钠通道开放，引起钠离子顺其陡峭浓度梯度内流而导致快速去极化。快速Na通道迅速失活，Na内流停止，但其他的时间和电压依赖性离子通道开放，允许Ca通过慢Ca通道进入（一种除极的事件）和K通过K通道漏出（一种复极的事件）(1)。
+该模式显示了文本中描述的单个心脏动作电位周期。
+© Springer Science+Business Media
+开始时，这两个过程是平衡的，维持正性的跨膜电位，延长动作电位的平台期。在此阶段，钙离子进入细胞负责电机械耦合和心肌细胞收缩。最终，钙内流停止，钾外流增加，使细胞快速复极回到−90 mV的静息跨膜电位。在去极化状态下，细胞对随后的去极化事件暂时具有抗性（不应期）。最初，再发生去极化是不可能的（绝对不应期），部分但不完全的复极之后，去极化是可能的，但慢慢地发生（相对不应期）。
+心脏组织总体有2种类型：
+快通道组织
+快通道组织
+慢通道组织
+慢通道组织
+快速通道组织（心房和心室的心肌细胞，希氏-浦肯野系统）具有高密度的快速钠通道和动作电位，其特征在于
+很少或没有自发性舒张去极化（因此起搏器活动速度非常慢）
+很少或没有自发性舒张去极化（因此起搏器活动速度非常慢）
+非常快的初始去极化速率（并因此传导速度快）
+非常快的初始去极化速率（并因此传导速度快）
+不应期的消失与复极同时发生（因此不应期短，能够传导高频率的重复冲动）
+不应期的消失与复极同时发生（因此不应期短，能够传导高频率的重复冲动）
+慢通道组织（窦房结和房室结）具有低密度的快速钠通道和动作电位，其特征在于
+更快速的自发舒张期去极化（并因此更快的起搏活动速率）
+更快速的自发舒张期去极化（并因此更快的起搏活动速率）
+缓慢的除极化速率（因此传导速度较慢）
+缓慢的除极化速率（因此传导速度较慢）
+不应期的消失在复极后延迟（因此不应期长，不能传导高频率的重复冲动）
+不应期的消失在复极后延迟（因此不应期长，不能传导高频率的重复冲动）
+正常情况下，窦房结有最快速率的自发舒张期除极，因此，它的细胞比其他组织以更高的频率产生自发性的动作电位。因而，在正常心脏中窦房结是占优势的自动组织（起搏点）。如果窦房结不产生冲动，通常是具有次高自律性的房室结发挥起搏点的功能。交感刺激增加起搏点组织的频率释放，而副交感刺激则降低它的频率释放。
+有一种向内的钠/钾电流，称为“有趣的电流”，它穿过窦房结细胞中的超极化激活的环核苷酸门控通道（HCN 通道），这占其自动性的很大一部分。抑制这种电流会延长起搏器细胞达到临界自发去极化所需的时间，从而降低心率。
+
+【正常心脏节律】
+成年人静息时窦性心率通常为60~100次/分。心率慢（窦性心动过缓）见于幼儿、青少年及年轻成人，尤其是运动员，以及睡眠期间。在运动、生病或情绪激动时通过交感神经和循环儿茶酚胺的作用可发生较快速的心率（窦性心动过速）。
+正常情况下，心率存在明显的昼夜变化，清晨醒来前心率最慢。吸气时心率略微加快，呼气时心率略微减慢（呼吸性窦性心律不齐）也是正常的；这是迷走神经张力波动引起的，在健康儿童和青少年中尤其常见。随年龄增长这种波动会减轻但不会完全消失。窦性心律的绝对规律性是病理性的，发生在自主神经缺失的患者（如晚期糖尿病）或任何严重到足以降低副交感神经心脏（迷走神经）张力并激活交感神经张力的心脏病。因此，心率变异性指标被认为，但尚未确证可作为心血管健康的总体评估指标（2）。
+尽管窦房结、房室结和希氏-浦肯野去极化不涉及足够的组织，但大多数心脏电活动都在心电图上表现出来（心电图—见图心动周期图） (3,4)。P波代表心房除极。QRS波群代表心室除极，而T波代表心室复极。
+PR间期（从P波开始到QRS波群的开始）是从心房激动的开始到心室激动开始的时间。此间期多数反映房室结中冲动传递的延缓。R-R间期（两次QRS波群之间的时间）与心室率呈反比关系，计算公式为：60/RR间期（秒）=心率。QT间期（自QRS波群起始至T波终点）代表心室除极与复极的总时长。女性QT间期的正常值略长；心率较慢的患者QT间期也更长。QT间期因受心率的影响而需要校正（校正的QT间期QTc）。最常用的计算公式（所有间期用秒作单位）(5) 是：
+校正后的QT间期应谨慎解读，尤其是在心率过高、过低或不稳定以及药物引起的QT变化的情况下。
+
+【心脏生理学参考文献】
+1.Whalley DW, Wendt DJ, Grant AO.Basic concepts in cellular cardiac electrophysiology: Part I: Ion channels, membrane currents, and the action potential.Pacing Clin Electrophysiol1995;18(8):1556-1574.doi:10.1111/j.1540-8159.1995.tb06742.x
+1.Whalley DW, Wendt DJ, Grant AO.Basic concepts in cellular cardiac electrophysiology: Part I: Ion channels, membrane currents, and the action potential.Pacing Clin Electrophysiol1995;18(8):1556-1574.doi:10.1111/j.1540-8159.1995.tb06742.x
+2.Jarczok MN, Weimer K, Braun C, et al.Heart rate variability in the prediction of mortality: A systematic review and meta-analysis of healthy and patient populations.Neurosci Biobehav Rev2022;143:104907.doi:10.1016/j.neubiorev.2022.104907
+2.Jarczok MN, Weimer K, Braun C, et al.Heart rate variability in the prediction of mortality: A systematic review and meta-analysis of healthy and patient populations.Neurosci Biobehav Rev2022;143:104907.doi:10.1016/j.neubiorev.2022.104907
+3.Rautaharju PM, Surawicz B, Gettes LS, et al.AHA/ACCF/HRS recommendations for the standardization and interpretation of the electrocardiogram: part IV: the ST segment, T and U waves, and the QT interval: a scientific statement from the American Heart Association Electrocardiography and Arrhythmias Committee, Council on Clinical Cardiology; the American College of Cardiology Foundation; and the Heart Rhythm Society: endorsed by the International Society for Computerized Electrocardiology.Circulation2009;119(10):e241-e250.doi:10.1161/CIRCULATIONAHA.108.191096
+3.Rautaharju PM, Surawicz B, Gettes LS, et al.AHA/ACCF/HRS recommendations for the standardization and interpretation of the electrocardiogram: part IV: the ST segment, T and U waves, and the QT interval: a scientific statement from the American Heart Association Electrocardiography and Arrhythmias Committee, Council on Clinical Cardiology; the American College of Cardiology Foundation; and the Heart Rhythm Society: endorsed by the International Society for Computerized Electrocardiology.Circulation2009;119(10):e241-e250.doi:10.1161/CIRCULATIONAHA.108.191096
+4.Surawicz B, Childers R, Deal BJ, et al.AHA/ACCF/HRS recommendations for the standardization and interpretation of the electrocardiogram: part III: intraventricular conduction disturbances: a scientific statement from the American Heart Association Electrocardiography and Arrhythmias Committee, Council on Clinical Cardiology; the American College of Cardiology Foundation; and the Heart Rhythm Society.Endorsed by the International Society for Computerized Electrocardiology. JAm Coll Cardiol2009;53(11):976-981.doi:10.1016/j.jacc.2008.12.013
+4.Surawicz B, Childers R, Deal BJ, et al.AHA/ACCF/HRS recommendations for the standardization and interpretation of the electrocardiogram: part III: intraventricular conduction disturbances: a scientific statement from the American Heart Association Electrocardiography and Arrhythmias Committee, Council on Clinical Cardiology; the American College of Cardiology Foundation; and the Heart Rhythm Society.Endorsed by the International Society for Computerized Electrocardiology. JAm Coll Cardiol2009;53(11):976-981.doi:10.1016/j.jacc.2008.12.013
+5.Bazett HC.An analysis of the time relationships of electrocardiograms.Heart1920;7:355-370.
+5.Bazett HC.An analysis of the time relationships of electrocardiograms.Heart1920;7:355-370.
+
+【心律失常的病理生理学】
+节律紊乱由冲动形成、冲动传导的异常，或两者兼有所致。
+缓慢性心律失常由内在起搏功能降低或主要在房室结或希氏-浦肯野系统内的传导阻滞所致。
+大多数快速性心律失常是由折返所致；有些是由正常自律性增强或异常自律性机制所致 (1)。
+折返是冲动围绕2个互相联结的具有不同传导特征和不应期的通道的环行传播（见图典型折返机制）。
+
+【典型折返机制】
+典型折返机制
+这里以房室结折返为例。两条路径连接相同的点。A通道有较缓慢的传导和较短的不应期。B通道传导正常和有较长的不应期。
+I.到达1的正常冲动同时沿着A和B路径下传。经通路A的传导较慢，抵达点2时其已去极化并处在不应期。此为一个正常窦性心搏的结果。
+II.过早的冲动发现途径B处于不应期并被阻断，但可以在途径A上传导，因为其不应期较短。抵达点2时，冲动继续向前传导并沿通路B逆行上传，被处在不应期的点3阻滞。此为室上性早搏伴PR间期延长的结果。
+III.如果通过路径A的传导速度足够慢，则过早的冲动可能会继续沿着途径B一直逆行，现在已通过其不应期。假如通路A也过了不应期，冲动可再度进入通路A而继续循环，在每一循环中向心室（4）传出冲动并逆向传至心房（5），产生一持续的折返性心动过速。
+
+【房室结折返性心动过速的起始】
+房室结折返性心动过速的起始
+在心动过速开始前有一异常P波（P‘）和房室结延迟（长P’R）。
+在某些状况下，由一个期前收缩触发折返可引起激活波阵的连续循环而导致快速心律失常（见图房室结折返性心动过速的起始）。一般情况下，刺激后的组织不应期可以抑制折返的产生。然而， 有3种状况有利于折返的发生：
+组织不应期缩短（如，由于交感刺激）
+组织不应期缩短（如，由于交感刺激）
+传导途径延长（例如，通过肥大或异常传导途径）
+传导途径延长（例如，通过肥大或异常传导途径）
+冲动传导减慢（例如，缺血）
+冲动传导减慢（例如，缺血）
+
+【病理生理学参考文献】
+1.Antzelevitch C, Burashnikov A.Overview of Basic Mechanisms of Cardiac Arrhythmia.Card Electrophysiol Clin2011;3(1):23-45.doi:10.1016/j.ccep.2010.10.012
+1.Antzelevitch C, Burashnikov A.Overview of Basic Mechanisms of Cardiac Arrhythmia.Card Electrophysiol Clin2011;3(1):23-45.doi:10.1016/j.ccep.2010.10.012
+
+【心律失常的症状和体征】
+心律失常和传导障碍可能无症状或引起心悸（漏跳、或快速、或有力心搏的感觉 ），或引发血流动力学受影响的症状（如，呼吸困难、胸部不适、晕厥前兆、晕厥），或心脏骤停。偶尔，在持续的室上性心动过速（supraventriculartachycardias，SVTs）时可由于心房钠尿肽的释放而致多尿。
+脉搏触诊和心脏听诊可确定心室率和规律与否。颈静脉搏动波的检查可能有助于房室传导阻滞和快速性心律失常的诊断。例如，在完全性房室传导阻滞，当房室瓣关闭时心房呈间歇性收缩，使颈静脉搏动产生大的（“炮击样”）a波。 心律失常的其他体格检查结果很少。
+
+【心律失常的诊断】
+动态心律监测（如Holter、事件记录仪或其他监测设备）
+动态心律监测（如Holter、事件记录仪或其他监测设备）
+病史和体格检查可能检出心律失常和提示可能的原因，但诊断需要12导联心电图，或可靠性较小些，在有症状时记录一段心律的心电图，以确立症状和心律之间的关系。
+系统地分析心电图；用分规测量间期，以确认微小的心律不齐。诊断的关键特征是
+心房激动的速率和规律
+心房激动的速率和规律
+心室激动的频率和规律性
+心室激动的频率和规律性
+以及这两者之间的关系。
+以及这两者之间的关系。
+不规则的激动信号被分为整齐的不规则或不整齐的不规则（无可测得的类型）。规律性不齐指在原本规律的节律中出现间歇性不齐（如早搏），或具有可预测模式的不齐（如窦性心律失常和二度心脏传导阻滞中成组心搏间的重复关联）。
+窄的QRS波群（<0.12秒）提示源自室上性（希氏束分叉以上）来源。
+宽的QRS波群（≥≥0.12秒）提示源自心室（希氏束分叉以下），或室上性节律伴心室内传导缺陷亦或WPW综合征中的心室预激。
+诸如动态心电图或事件监测仪等动态心律监测方法也被用于诊断心律失常。根据患者症状的频率、持续时间和性质，以及目前尚未确诊的心律失常恶化的潜在后果来选择方法或设备。
+
+【缓慢性心律失常】
+缓慢性心律失常具有缓慢的心室率（成人<60 次/分钟）。缓慢性心律失常的心电图诊断取决于P波的有无、P波的形态，和P波与QRS波群之间的关系 (1,2)。
+房室（AV）传导阻滞是指从心房到心室的冲动传输的部分或完全中断。有三种程度的AV传导阻滞：一度、二度和三度。
+在一度房室传导阻滞中，每个 P 波后跟一个 QRS 波群，但 PR 间期 > 0.2 秒。一级房室传导阻滞本身并不引起心动过缓，但往往与其他疾病同时存在。
+在二度房室传导阻滞中，一些正常的P波之后是QRS复合波，但有些不是。伴或不伴心动过缓。在莫氏I型二度房室传导阻滞（也称为文氏二度房室传导阻滞）中，在每次未传导的心房事件之前，PR间期在传导的心房事件期间逐渐延长，这通常是房室结功能障碍所引起的。在莫氏II型二度房室传导阻滞中，PR间期在传导的心房事件中保持恒定，这通常是希氏束-浦肯野系统功能障碍的结果。
+三度房室传导阻滞表现为缓慢性心律失常，P波和QRS波群之间没有关系，且P波数量多于QRS波群；逸搏节律可以是
+交界性逸搏心律伴正常房室传导（窄QRS波群）
+交界性逸搏心律伴正常房室传导（窄QRS波群）
+交界性心律伴异常房室传导（宽QRS波群）
+交界性心律伴异常房室传导（宽QRS波群）
+心室（宽QRS波群）
+心室（宽QRS波群）
+QRS波群呈规律性缓慢性心律失常，P波与QRS波群呈1:1关系，表明为窦性或其他室上性心动过缓，无二度或三度房室传导阻滞。如果P波正常，即使存在一度房室传导阻滞，这也是窦性心动过缓；如果P波异常，则心律为窦性停搏/心动过缓伴房性逸搏心动过缓。
+P波在QRS波群之后提示窦性停搏伴有交界性或室性逸搏节律和逆行心房激动。室性逸搏心律表现为宽QRS波群，交界性逸搏心律通常为窄QRS波群（或宽QRS波伴有束支传导阻滞或预激）。
+当QRS节律不规则时，P波数量通常多于QRS波群；有些P波产生QRS波群，但有些则无QRS波群（提示为Ⅱ度房室传导阻滞）。不规则的QRS波群节律，伴P波与其后的QRS波群之间呈1∶1的关系通常提示窦性心律失常，其发生与窦性心率的逐渐加速和减速有关（若P波正常）。
+在规则的QRS节律中出现暂停，可能是由于P波过早受阻（通常可见异常P波紧随在前面T波之后或使前面T波的形态发生改变）、窦性暂停或窦性传出阻滞, 以及Ⅱ度房室传导阻滞所致。
+
+【快速性心律失常】
+快速性心律失常具有快速心室率（静息成人> 100 次/分钟），并可根据QRS波群分为4类：
+明显规则与不规则 QRS 波群
+明显规则与不规则 QRS 波群
+窄与宽QRS波群
+窄与宽QRS波群
+不规则、窄QRS波心动过速包括以下4种心律。鉴别依赖于心房的心电图信号，此信号在QRS波群间的距离较长时最易见到。
+心房颤动(AF): 心房的心电图信号（通常在V1导联最易看见）呈持续性、时限与形态均不规则的表现，频率非常快（>300次/分），无明确的P波，即可提示 (3)。
+心房颤动(AF): 心房的心电图信号（通常在V1导联最易看见）呈持续性、时限与形态均不规则的表现，频率非常快（>300次/分），无明确的P波，即可提示 (3)。
+伴有变异型房室传导的心房扑动：规则的、离散的、形态一致的心房信号而无等电位间隔期（通常在II、III和aVF导联中最易见到），通常速率>250次/分钟
+伴有变异型房室传导的心房扑动：规则的、离散的、形态一致的心房信号而无等电位间隔期（通常在II、III和aVF导联中最易见到），通常速率>250次/分钟
+真性房性心动过速伴变异型房室传导：规则的、离散的、形态一致但异常的心房信号，其间有等电位间隔期（通常频率<250次/分）。
+真性房性心动过速伴变异型房室传导：规则的、离散的、形态一致但异常的心房信号，其间有等电位间隔期（通常频率<250次/分）。
+多源性房性心动过速：每次心搏之间的P波离散变化，且至少有3种不同的形态。
+多源性房性心动过速：每次心搏之间的P波离散变化，且至少有3种不同的形态。
+不规则，宽QRS复合波群快速性心律失常包括
+上述4种不规则的、狭窄的房性心动过速，均可伴有束支传导阻滞或心室预激。
+上述4种不规则的、狭窄的房性心动过速，均可伴有束支传导阻滞或心室预激。
+多形性室性心动过速（VT）
+多形性室性心动过速（VT）
+鉴别依赖于心房心电图信号和多形性室性心动过速中存在的非常快速的心室率（>250次/分钟）。
+规则，窄的QRS波群快速性心律失常包括
+窦性心动过速
+窦性心动过速
+心房扑动具有一致的AV传导速率
+心房扑动具有一致的AV传导速率
+真正的房性心动过速具有一致的AV传导率
+真正的房性心动过速具有一致的AV传导率
+阵发性室上性心动过速（[SVT] 如房室结折返性室上性心动过速、顺向性房室反复性心动过速伴有附加的房室连接、和窦房结折返性室上性心动过速）。
+阵发性室上性心动过速（[SVT] 如房室结折返性室上性心动过速、顺向性房室反复性心动过速伴有附加的房室连接、和窦房结折返性室上性心动过速）。
+迷走操作法或药物性房室传导阻滞可帮助鉴别这些心动过速。用这些操作法，窦性心动过速不会被终止，但它可减慢或发生房室传导阻滞，暴露出正常P波。同样，心房扑动或真性房性心动过速通常不能被终止，但房室传导阻滞可暴露出扑动波或异常P波。最常见的阵发性室上性心动过速类型（房室结折返性和顺向性折返性心动过速）如果发生传导阻滞则一定会终止。
+规则的，宽QRS波群快速性心律失常包括
+上述四类规则的、狭窄的QRS波群的快速性心律失常常伴有束支传导阻滞或心室预激
+上述四类规则的、狭窄的QRS波群的快速性心律失常常伴有束支传导阻滞或心室预激
+单形性VT
+单形性VT
+迷走神经操作法有助于鉴别它们。鉴别室性心动过速和室上性心动过速伴有心室内传导缺陷的心电图标准经常用到（见图室性心动过速的改良Brugada标准）。当有疑问时，宜假设该心律为室性心动过速，因为如果节律为室性心动过速，治 疗室上性心动过速的有些药物可使室性心动过 速的临床状况恶化；反之，治疗室性心动过速的药物不至于对 室上性心动过速产生不良影响。
+
+【经验与教训】
+经验与教训
+假设规则的，宽波群快速性心律失常是室性心动过速，直到证明并非如此。
+假设规则的，宽波群快速性心律失常是室性心动过速，直到证明并非如此。
+
+【室性心动过速的改良Brugada标准】
+室性心动过速的改良Brugada标准
+*伴有右束支传导阻滞的QRS：
+在V1导联中，单相R、或QR、或RS
+在V1导联中，单相R、或QR、或RS
+在V6导联中，R/S<1或单相R或QR
+在V6导联中，R/S<1或单相R或QR
+*伴有左束支传导阻滞的QRS：
+V1导联，R波宽度>30ms或RS波宽度>60ms
+V1导联，R波宽度>30ms或RS波宽度>60ms
+在V6导联中，QR或QS
+在V6导联中，QR或QS
+AV=房室的；LBBB=左束支传导阻滞；msec= 毫秒；RBBB=右束支传导阻滞；VT=室性心动过速。
+Data fromBrugada P, Brugada J, Mont L, Smeets J, Andries EW.A new approach to the differential diagnosis of a regular tachycardia with a wide QRS complex. Circulation.1991;83(5):1649-1659.doi:10.1161/01.cir.83.5.1649
+
+【诊断参考】
+1.Rowland E, Morgado F.Sino-atrial node dysfunction, atrioventricular block and intraventricular conduction disturbances.Eur Heart J1992;13 Suppl H:130-135.doi:10.1093/eurheartj/13.suppl_h.130
+1.Rowland E, Morgado F.Sino-atrial node dysfunction, atrioventricular block and intraventricular conduction disturbances.Eur Heart J1992;13 Suppl H:130-135.doi:10.1093/eurheartj/13.suppl_h.130
+2.Writing Committee Members, Kusumoto FM, Schoenfeld MH, et al.2018 ACC/AHA/HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Heart Rhythm2019;16(9):e128-e226.doi:10.1016/j.hrthm.2018.10.037
+2.Writing Committee Members, Kusumoto FM, Schoenfeld MH, et al.2018 ACC/AHA/HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Heart Rhythm2019;16(9):e128-e226.doi:10.1016/j.hrthm.2018.10.037
+3.Joglar JA, Chung MK, Armbruster AL, et al.2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inCirculation2024 Jan 2;149(1):e167. doi: 10.1161/CIR.0000000000001207] [published correction appears inCirculation2024 Feb 27;149(9):e936. doi: 10.1161/CIR.0000000000001218] [published correction appears inCirculation2024 Jun 11;149(24):e1413. doi: 10.1161/CIR.0000000000001263].Circulation2024;149(1):e1-e156.doi:10.1161/CIR.0000000000001193
+3.Joglar JA, Chung MK, Armbruster AL, et al.2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inCirculation2024 Jan 2;149(1):e167. doi: 10.1161/CIR.0000000000001207] [published correction appears inCirculation2024 Feb 27;149(9):e936. doi: 10.1161/CIR.0000000000001218] [published correction appears inCirculation2024 Jun 11;149(24):e1413. doi: 10.1161/CIR.0000000000001263].Circulation2024;149(1):e1-e156.doi:10.1161/CIR.0000000000001193
+
+【心律失常的治疗】
+对因治疗
+对因治疗
+有时可使用抗心律失常药物、起搏器、心律转复除颤器、导管消融或外科手术
+有时可使用抗心律失常药物、起搏器、心律转复除颤器、导管消融或外科手术
+对治疗的需求是不同的，一般根据症状和心律失常的危险性来指导治疗。对于无症状又无严重危险的心律失常，即使它们恶化也不需要治疗。对于有症状的心律失常可能需要治疗以改善生活质量。对于可能威胁生命的心律失常需要治疗。
+直接针对病因的治疗。如有必要，可采用直接抗心律失常治疗。直接抗心律失常治疗包括，单独或结合使用:
+抗心律失常药
+抗心律失常药
+心脏复律除颤
+心脏复律除颤
+植入型心律转复除颤器（ICD）
+植入型心律转复除颤器（ICD）
+心脏起搏器（以及一种特殊形式的起搏方式，即心脏再同步治疗）
+心脏起搏器（以及一种特殊形式的起搏方式，即心脏再同步治疗）
+导管消融
+导管消融
+外科手术
+外科手术
+已引起或可能引起血流动力学不稳定的心律失常患者，在评估治疗效果之前，可能需要限制其驾驶。
+
+【外科手术治疗心律失常】
+由于微创消融技术的进步，切除心动过速病灶的手术已变得不那么必要。但是，如果心律失常对消融治疗无效，或存在其他需要进行心脏外科手术的指征时，则需要进行手术。最常见的情况是，房颤患者需要瓣膜置换或修复，或者室速患者需要血运重建或左心室动脉瘤切除术。

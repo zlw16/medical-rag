@@ -1,0 +1,28 @@
+标题：浸没性肺水肿
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/injury-during-diving-or-work-in-compressed-air/immersion-pulmonary-edema
+============================================================
+
+在过去20年里浸润性肺水肿获得了更广泛的认识。浸没性肺水肿与肺气压伤或减压病无关。相反，在易感个体中，它涉及由于血液从外周重新分布到肺血管而导致肺血管压力过高而导致血流动力学肺水肿的发展 (1)。危险因素包括接触冷水，有高血压病史，肺部疾病和其他可能导致左心室收缩或舒张功能异常的心脏疾病（包括瓣膜疾病和心肌病）。该综合征发生在潜水员中，若发生在水面，则最常见于竞技公开水域游泳者。
+通常在潜水员处于深度时出现严重呼吸困难。潜水者通常快速上浮，出现咳嗽、泡沫痰、两肺野散在的湿罗音，有时出现紫绀 (2)。缺氧经常出现并可能导致死亡。
+胸部X线检查可见典型的肺水肿 (3)。床旁肺部超声检查也已用于识别肺水肿（4）。心脏评估通常显示左右心室功能正常、冠状动脉正常，但也有报道壁运动异常、瓣膜功能障碍和心肌病（包括应激性心肌病）为其病因。心脏彩超可发现心脏舒张功能障碍。
+氧疗纠正低氧血症，有时使用 β₂受体激动剂通常足以使浸没性肺水肿缓解。很少需要利尿剂。重症患者可能需要机械通气。不建议再加压治疗。
+
+【参考文献】
+1.Peacher DF, Martina SD, Otteni CE, et al.Immersion pulmonary edema and comorbidities: Case series and updated review.Med Sci Sports Exerc.47(6):1128-34, 2015.doi: 10.1249/MSS.0000000000000524
+1.Peacher DF, Martina SD, Otteni CE, et al.Immersion pulmonary edema and comorbidities: Case series and updated review.Med Sci Sports Exerc.47(6):1128-34, 2015.doi: 10.1249/MSS.0000000000000524
+2.Kristiansson L, Seiler C, Lundeqvist D, et al.Symptom duration, recurrence, and long-term effects of swimming-induced pulmonary edema: a 30-month follow-up study.Chest.2023;164(5):1257-1267.doi:10.1016/j.chest.2023.06.041
+2.Kristiansson L, Seiler C, Lundeqvist D, et al.Symptom duration, recurrence, and long-term effects of swimming-induced pulmonary edema: a 30-month follow-up study.Chest.2023;164(5):1257-1267.doi:10.1016/j.chest.2023.06.041
+3.Grünig H, Nikolaidis PT, Moon RE, et al.Diagnosis of swimming induced pulmonary edema: A review.Front Physiol.8:652, 2017.doi: 10.3389/fphys.2017.00652
+3.Grünig H, Nikolaidis PT, Moon RE, et al.Diagnosis of swimming induced pulmonary edema: A review.Front Physiol.8:652, 2017.doi: 10.3389/fphys.2017.00652
+4.Hårdstedt M, Seiler C, Kristiansson L, et al.Swimming-induced pulmonary edema: Diagnostic criteria validated by lung ultrasound.Chest.158(4):1586-1595, 2020.doi: 10.1016/j.chest.2020.04.028
+4.Hårdstedt M, Seiler C, Kristiansson L, et al.Swimming-induced pulmonary edema: Diagnostic criteria validated by lung ultrasound.Chest.158(4):1586-1595, 2020.doi: 10.1016/j.chest.2020.04.028
+
+【浸入性肺水肿的预防】
+预防工作的目的是查明高危人群。曾发生过浸没性肺水肿的患者应筛查是否存在易感疾病，如高血压、瓣膜性心脏病、心肌病和肺部疾病等诱发条件。有风险的个体应考虑隐性冠状动脉疾病。浸入性肺水肿易在易感个体中复发，因此在这些个体恢复潜水或竞技游泳之前，应评估可治疗的危险因素。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Divers Alert Network: 24-hour emergency hotline, 919-684-9111
+Divers Alert Network: 24-hour emergency hotline, 919-684-9111
+Duke Dive Medicine: Physician-to-physician consultation, 919-684-8111
+Duke Dive Medicine: Physician-to-physician consultation, 919-684-8111

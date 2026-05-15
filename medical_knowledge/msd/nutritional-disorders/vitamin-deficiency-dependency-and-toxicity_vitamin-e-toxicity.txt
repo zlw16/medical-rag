@@ -1,0 +1,19 @@
+标题：维生素E中毒
+来源：https://www.msdmanuals.cn/professional/nutritional-disorders/vitamin-deficiency-dependency-and-toxicity/vitamin-e-toxicity
+============================================================
+
+维生素E是一组具有相似生物活性的化合物（包括生育酚和生育三烯酚）。生物活性最强的是 α- 生育酚，但 β-、γ-、δ- 生育酚、4 种生育三烯酚及多种立体异构体也可能具有重要生物活性。这些化合物具有抗氧化剂作用，能防止细胞膜上多不饱和脂肪酸发生脂质过氧化反应 (见表维生素的来源、功能和作用)。维生素E的饮食来源包括植物油和坚果。
+血浆中生育酚水平伴随总血浆脂质水平而变化。正常情况下，血浆 α- 生育酚水平为 5-20 微克 / 毫升（11.6-46.4 微摩尔 / 升）。
+大剂量维生素 E 补充剂不能预防癌症或心血管疾病，美国预防服务工作组建议避免为此类目的服用维生素E（1）；补充剂是否能预防迟发性运动障碍尚存争议。尚无确凿证据表明，每日摄入高达 2000 国际单位的天然维生素 E（相当于 1340 毫克 α- 生育酚 / 天）可延缓阿尔茨海默病进展或降低前列腺癌风险；有研究提示补充维生素E可能增加前列腺癌风险（2）。目前还不确定维生素E补充剂影响中风风险（3）。
+虽然许多强化食品和补充剂中的维生素E的含量以单位标注，但当前推荐以毫克 α- 生育酚为单位。
+许多成人连续数月或数年服用相对较大剂量的维生素E（alpha-生育酚 400～800mg/d），没有出现任何明显的危害。偶尔，有人出现肌无力，疲劳，恶心和腹泻。最显著的风险是出血。但出血并不常见，除非剂量>1000 毫克 / 天，或患者同时服用口服香豆素类药物或华法林。因此，19 岁及以上成人的任何形式生育酚摄入量上限为 1000 毫克。
+维生素E毒性的治疗方法是停止服用维生素或将摄入量减少到每天1000毫克的上限以下。
+(参见维生素概述。)
+
+【参考文献】
+1.Moyer VA; U.S. Preventive Services Task Force.Vitamin, mineral, and multivitamin supplements for the primary prevention of cardiovascular disease and cancer: U.S. Preventive services Task Force recommendation statement.Ann Intern Med.2014;160(8):558-564.doi:10.7326/M14-0198
+1.Moyer VA; U.S. Preventive Services Task Force.Vitamin, mineral, and multivitamin supplements for the primary prevention of cardiovascular disease and cancer: U.S. Preventive services Task Force recommendation statement.Ann Intern Med.2014;160(8):558-564.doi:10.7326/M14-0198
+2.Klein EA, Thompson IM Jr, Tangen CM, et al:Vitamin Eand the risk of prostate cancer: TheSeleniumandVitamin ECancer Prevention Trial (SELECT).JAMA306(14):1549-56, 2011.doi: 10.1001/jama.2011.1437
+2.Klein EA, Thompson IM Jr, Tangen CM, et al:Vitamin Eand the risk of prostate cancer: TheSeleniumandVitamin ECancer Prevention Trial (SELECT).JAMA306(14):1549-56, 2011.doi: 10.1001/jama.2011.1437
+3.Loh HC, Lim R, Lee KW, et al.Effects ofvitamin Eon stroke: a systematic review with meta-analysis and trial sequential analysis.Stroke Vasc Neurol.2021;6(1):109-120.doi:10.1136/svn-2020-000519
+3.Loh HC, Lim R, Lee KW, et al.Effects ofvitamin Eon stroke: a systematic review with meta-analysis and trial sequential analysis.Stroke Vasc Neurol.2021;6(1):109-120.doi:10.1136/svn-2020-000519

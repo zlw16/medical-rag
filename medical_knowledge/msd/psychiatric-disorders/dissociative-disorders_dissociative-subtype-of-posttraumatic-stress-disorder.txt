@@ -1,0 +1,72 @@
+标题：创伤后应激障碍的解离亚型
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/dissociative-disorders/dissociative-subtype-of-posttraumatic-stress-disorder
+============================================================
+
+（另见创伤后应激障碍[PTSD]。）
+一些患有 PTSD 的患者会出现明显的分离症状。解离指的是身份、记忆和意识方面的不完全整合，与父母无反应、心理创伤以及创伤后应激障碍有关（1)。
+与 PTSD 类似，分离症状常发生在暴露于创伤事件后。创伤暴露形式包括亲身经历创伤、目睹他人遭受躯体创伤、得知亲人遭遇创伤，或参与创伤事件后的善后工作（如急救人员的日常工作）。复杂的创伤，特别是发生在生命早期并涉及亲密关系（如与护理人员）的创伤，会增加患者患上伴有分离症状的创伤后应激障碍的可能性（2, 3)。
+除了童年时期的性虐待和身体虐待史外，其他与晚年解离症状相关的因素包括身体暴力、羞耻和内疚（3)。
+一项涵盖 16 个国家的基于人群的调查显示，近 15% 的 PTSD 患者也存在人格解体和现实解体的分离症状（4)。伴有分离症状的 PTSD 患者具有以下特征：再体验症状水平更高、PTSD 起病于童年、创伤暴露程度高和童年创伤（PTSD 起病前）、严重的角色功能损害（例如，完成工作或家务困难）以及自杀倾向。
+经历突然的身体伤害或其威胁会使情绪失调，导致自主神经反应过度兴奋，并破坏一个人体验和对未来期望的连续性。对患者的功能磁共振成像（fMRI）和正电子发射断层扫描（PET）结果分析显示，在更常见的 PTSD 高唤起类型中，杏仁核和前岛叶活动增加，内侧前额叶和喙前扣带回活动减少（5)。结果，认知被情感淹没。在 PTSD 的分离亚型中，这种激活模式反转，导致情绪过度抑制，与人格解体和现实解体表现一致。
+尽管并非所有符合 PTSD 诊断标准的患者都有严重解离症状，但大多数解离症状严重的患者均符合 PTSD 诊断标准（6）。
+
+【参考文献】
+1.Ginzburg K, Koopman C, Butler LD, et al.Evidence for a dissociative subtype of post-traumatic stress disorder among help-seeking childhood sexual abuse survivors.J Trauma Dissociation.7(2):7-27, 2006. doi: 10.1300/J229v07n02_02
+1.Ginzburg K, Koopman C, Butler LD, et al.Evidence for a dissociative subtype of post-traumatic stress disorder among help-seeking childhood sexual abuse survivors.J Trauma Dissociation.7(2):7-27, 2006. doi: 10.1300/J229v07n02_02
+2.Dorahy MJ, Corry M, Shannon M, et al.Complex trauma and intimate relationships: The impact of shame, guilt and dissociation.J Affect Disord.147(1-3):72-79, 2013. doi: 10.1016/j.jad.2012.10.010
+2.Dorahy MJ, Corry M, Shannon M, et al.Complex trauma and intimate relationships: The impact of shame, guilt and dissociation.J Affect Disord.147(1-3):72-79, 2013. doi: 10.1016/j.jad.2012.10.010
+3.Dorahy MJ, Middleton W, Seager L, et al.Dissociation, shame, complex PTSD, child maltreatment and intimate relationship self-concept in dissociative disorder, chronic PTSD and mixed psychiatric groups.J Affect Disord.172:195-203, 2015. doi: 10.1016/j.jad.2014.10.008
+3.Dorahy MJ, Middleton W, Seager L, et al.Dissociation, shame, complex PTSD, child maltreatment and intimate relationship self-concept in dissociative disorder, chronic PTSD and mixed psychiatric groups.J Affect Disord.172:195-203, 2015. doi: 10.1016/j.jad.2014.10.008
+4.Stein DJ, Koenen KC, Friedman MJ, et al.Dissociation in posttraumatic stress disorder: Evidence from the world mental health surveys.Biol Psychiatry.15;73(4):302-312, 2013. doi: 10.1016/j.biopsych.2012.08.022
+4.Stein DJ, Koenen KC, Friedman MJ, et al.Dissociation in posttraumatic stress disorder: Evidence from the world mental health surveys.Biol Psychiatry.15;73(4):302-312, 2013. doi: 10.1016/j.biopsych.2012.08.022
+5.Lanius RA, Vermetten E, Loewenstein RJ, et al.Emotion modulation in PTSD: Clinical and neurobiological evidence for a dissociative subtype.Am J Psychiatry.167(6):640-647, 2010. doi: 10.1176/appi.ajp.2009.09081168.
+5.Lanius RA, Vermetten E, Loewenstein RJ, et al.Emotion modulation in PTSD: Clinical and neurobiological evidence for a dissociative subtype.Am J Psychiatry.167(6):640-647, 2010. doi: 10.1176/appi.ajp.2009.09081168.
+6.Wolf EJ, Miller MW, Reardon AF, et al.A latent class analysis of dissociation and posttraumatic stress disorder: Evidence for a dissociative subtype.Arch Gen Psychiatry.69(7):698-705, 2012. doi: 10.1001/archgenpsychiatry.2011.1574
+6.Wolf EJ, Miller MW, Reardon AF, et al.A latent class analysis of dissociation and posttraumatic stress disorder: Evidence for a dissociative subtype.Arch Gen Psychiatry.69(7):698-705, 2012. doi: 10.1001/archgenpsychiatry.2011.1574
+
+【分离性创伤后应激障碍亚型的症状和体征】
+创伤后应激障碍（PTSD）的分离亚型包含 PTSD 的所有症状，以及人格解体和 / 或现实解体。
+创伤后应激障碍的症状包括侵入性症状，如不自主记忆、梦境或分离性闪回。许多人试图避免记住这些事件或对它们的身体记忆。他们可能会在认知方面产生负面变化，包括解离性失忆症、与他人分离或疏远、不恰当的自责以及无法体验积极情绪。高警觉性、易激惹、注意力难以集中及睡眠障碍也会出现。
+解离症状包括身份、记忆和意识障碍（特别是人格解体和现实感丧失）：
+人格解体：持续的或反复出现的脱离自己的心理过程或身体的感觉(例如，好像一个人是自己经历的外部观察者；感觉像是在做梦；感觉自我或身体不真实，或感觉时间在缓慢移动)。
+人格解体：持续的或反复出现的脱离自己的心理过程或身体的感觉(例如，好像一个人是自己经历的外部观察者；感觉像是在做梦；感觉自我或身体不真实，或感觉时间在缓慢移动)。
+现实感丧失：对周围环境不真实的持续或反复体验（例如，个人周围的世界被体验为不真实、梦幻、遥远或扭曲）。
+现实感丧失：对周围环境不真实的持续或反复体验（例如，个人周围的世界被体验为不真实、梦幻、遥远或扭曲）。
+
+【创伤后应激障碍（PTSD)分离亚型的诊断】
+基于《精神疾病诊断与统计手册》第5版文本修订版（DSM-5-TR）标准的精神科评估，需符合 PTSD 标准并存在分离症状（具体为人格解体和现实解体）
+基于《精神疾病诊断与统计手册》第5版文本修订版（DSM-5-TR）标准的精神科评估，需符合 PTSD 标准并存在分离症状（具体为人格解体和现实解体）
+医学和精神检查以排除其他原因
+医学和精神检查以排除其他原因
+要符合 “伴分离症状的 PTSD”诊断标准，个体必须满足PTSD的诊断标准，且在应对应激源时还出现持续性或复发性的人格解体或现实解体症状(1)。(详见分离性障碍概述，以深入了解 PTSD 与分离症状的重叠。)
+
+【诊断参考文献】
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 312-313.
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, pp 312-313.
+
+【创伤后应激障碍 (PTSD) 分离亚型的治疗】
+用于 PTSD 的心理治疗模式的改良方法
+用于 PTSD 的心理治疗模式的改良方法
+常规用于高警觉型 PTSD 的有效疗法（延长暴露疗法、认知加工疗法）需调整后使用，因为直接暴露可能引发更严重的分离症状。推荐治疗方式：建议采用分阶段心理治疗，包括逐步暴露、识别分离症状、稳定并澄清讨论分离症状、探究可能诱发分离发作的应激源，以及控制再受害风险（1, 2)。但相关研究数据存在差异，后续研究表明，对 PTSD 有效的暴露疗法和认知再加工疗法的核心要素，可能对分离症状显著的患者同样有效（3, 4)。
+催眠术也可能有助于帮助患者控制和重新处理创伤性记忆。它可以帮助患者保持身体舒适，从而利用分离来保护他们免受不必要的唤醒，同时改变他们对创伤经历的看法（例如，帮助他们认识到自己在创伤期间为保护自己或他人所做的事情）。这种技术可能使他们能够重组他们的人格解体和现实解体体验，并学会控制他们对解离的需求（5, 6)。
+
+【治疗参考文献】
+1.Cloitre M, Petkova E, Wang J, et al.An examination of the influence of a sequential treatment on the course and impact of dissociation among women with PTSD related to childhood abuse.Depress Anxiety.29(8):709-717, 2012. doi: 10.1002/da.21920
+1.Cloitre M, Petkova E, Wang J, et al.An examination of the influence of a sequential treatment on the course and impact of dissociation among women with PTSD related to childhood abuse.Depress Anxiety.29(8):709-717, 2012. doi: 10.1002/da.21920
+2.Resick PA, Suvak MK,  Johnides BD, et al.The impact of dissociation on PTSD treatment with cognitive processing therapy.Depress Anxiety.29(8):718-730, 2012. doi: 10.1002/da.21938
+2.Resick PA, Suvak MK,  Johnides BD, et al.The impact of dissociation on PTSD treatment with cognitive processing therapy.Depress Anxiety.29(8):718-730, 2012. doi: 10.1002/da.21938
+3.Burton MS, Feeny NC, Connell AM, et al.Exploring evidence of a dissociative subtype in PTSD: Baseline symptom structure, etiology, and treatment efficacy for those who dissociate.J Consult Clin Psychol.86(5):439-451, 2018. doi: 10.1037/ccp0000297
+3.Burton MS, Feeny NC, Connell AM, et al.Exploring evidence of a dissociative subtype in PTSD: Baseline symptom structure, etiology, and treatment efficacy for those who dissociate.J Consult Clin Psychol.86(5):439-451, 2018. doi: 10.1037/ccp0000297
+4.Zoet HA, Wagenmans A, van Minnen A, et al.Presence of the dissociative subtype of PTSD does not moderate the outcome of intensive trauma-focused treatment for PTSD.Eur J Psychotraumatol.9(1):1468707, 2018. doi: 10.1080/20008198.2018.1468707
+4.Zoet HA, Wagenmans A, van Minnen A, et al.Presence of the dissociative subtype of PTSD does not moderate the outcome of intensive trauma-focused treatment for PTSD.Eur J Psychotraumatol.9(1):1468707, 2018. doi: 10.1080/20008198.2018.1468707
+5.D Brom, R J Kleber, P B Defares.Brief psychotherapy for posttraumatic stress disorders.J Consult Clin Psychol.57(5):607-612, 1989. doi: 10.1037//0022-006x.57.5.607
+5.D Brom, R J Kleber, P B Defares.Brief psychotherapy for posttraumatic stress disorders.J Consult Clin Psychol.57(5):607-612, 1989. doi: 10.1037//0022-006x.57.5.607
+6.Spiegel D.The use of hypnosis in the treatment of PTSD.Psychiatr Med.10(4):21-30, 1992.
+6.Spiegel D.The use of hypnosis in the treatment of PTSD.Psychiatr Med.10(4):21-30, 1992.
+
+【PTSD分离亚型的预后】
+分离的存在使该型 PTSD 的预后和治疗复杂化，因为许多患者在面对创伤时会保持距离，这使得治疗更难开展（1)。此外，缺乏信任可能会使治疗关系复杂化。
+
+【预后参考】
+1.Koopman C, Classen C, Spiegel D.Predictors of posttraumatic stress symptoms among survivors of the Oakland/Berkeley, Calif., firestorm.Am J Psychiatry.1994;151(6):888-894.doi:10.1176/ajp.151.6.888
+1.Koopman C, Classen C, Spiegel D.Predictors of posttraumatic stress symptoms among survivors of the Oakland/Berkeley, Calif., firestorm.Am J Psychiatry.1994;151(6):888-894.doi:10.1176/ajp.151.6.888

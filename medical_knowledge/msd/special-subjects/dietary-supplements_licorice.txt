@@ -1,0 +1,56 @@
+标题：甘草
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/licorice
+============================================================
+
+天然的甘草，味甘，提取自灌木（Glycyrrhiza glabra光果甘草）的根部，可制成胶囊、片剂或提取液使用。大部分美国产的甘草糖是添加了人工香料而不含天然的甘草。甘草甜素是天然甘草的活性成分。那些对甘草甜素特别敏感的人可以选择，经过特殊处理的只含有非常低的甘草酸量 甘草制品。这些产品被称为去甘草甜素的甘草。
+
+【甘草的功效宣称】
+人们常服用甘草来止咳，减轻咽喉疼痛和缓解胃部不适。外用，据说可以缓解口腔溃疡和皮肤刺激（如湿疹（1)。甘草也被认为可以治疗否对胃溃疡、和丙肝或其他肝病(1)引起的并发症 (2)。
+
+【甘草的证据】
+有证据表明，甘草结合其他草药可以缓解从功能性消化不良和肠易激综合症的症状 (3)。然而，单独和合并使用甘草的临床试验是有限的，并且需要进一步的评估。尚无足够的数据来判断甘草是否对胃溃疡或丙肝引起的并发症有作用。
+一项针对5项随机试验（609名患者）的荟萃分析报告显示，气管插管前局部使用甘草可将术后咽喉痛发生率降低56%，咳嗽发生率降低39%（4）。在一项针对70名患有阿弗他溃疡的患者的随机试验中，甘草加苯海拉明溶液与单独使用苯海拉明进行了比较。主要结果是用甘草加苯海拉明溶液治疗的病人的愈合时间更快（5)。在另一项包括70名成人的随机试验中，甘草含片与安慰剂相比，被证明有助于缓解慢性咳嗽症状（6）。甘草也被用作辅助疗法，以减轻帕金森病的症状（7）。
+
+【甘草的不良反应】
+在低剂量或正常服用水平，很少有不良反应的报道。服用高剂量的甘草（>1盎司/日）或者甘草甜素可导致肾脏的水钠潴留以及引起高血压和失钾从而引起低血钾(假多醛固酮症）。排钾增加可对心脏病患者及服用地高辛或利尿剂（亦可增加排钾）的患者造成不良影响。高血压患者应避免服用甘草。一项汇总分析报告称，长期摄入甘草可能与收缩压和舒张压升高有关（8）。
+甘草在妊娠期间可能具有类固醇样和雌激素样作用，并可能增加早产的风险。怀孕期间大量食用甘草可能会刺激儿童的下丘脑-垂体-肾上腺皮质活动，因此孕妇应避免食用甘草。
+
+【甘草的药物相互作用】
+甘草可能
+与华法林相互作用，降低其有效性，增加凝血风险
+与华法林相互作用，降低其有效性，增加凝血风险
+通过影响钾水平与地高辛相互作用
+通过影响钾水平与地高辛相互作用
+由于盐和水的潴留增加，降压药物的有效性降低
+由于盐和水的潴留增加，降压药物的有效性降低
+降低紫杉醇和顺铂的效果
+降低紫杉醇和顺铂的效果
+增加皮质类固醇的不良反应
+增加皮质类固醇的不良反应
+增加或减少雌激素的效果
+增加或减少雌激素的效果
+此外，一些专家认为甘草具有类似单胺氧化酶（MAO）抑制剂这一类抗抑郁药的活性，因此可能会增强这些药物的不良反应。
+（见表一些可能的膳食补充剂-药物相互作用.)
+
+【参考文献】
+1.Saeedi M, Morteza-Semnani K, Ghoreishi MR.The treatment of atopic dermatitis with licorice gel.J Dermatolog Treat.14(3):153-157, 2003.doi:10.1080/09546630310014369
+1.Saeedi M, Morteza-Semnani K, Ghoreishi MR.The treatment of atopic dermatitis with licorice gel.J Dermatolog Treat.14(3):153-157, 2003.doi:10.1080/09546630310014369
+2.Li X, Sun R, Liu R.Natural products in licorice for the therapy of liver diseases: progress and future opportunities.Pharmacol Res.144:210-226, 2019.doi: 10.1016/j.phrs.2019.04.025
+2.Li X, Sun R, Liu R.Natural products in licorice for the therapy of liver diseases: progress and future opportunities.Pharmacol Res.144:210-226, 2019.doi: 10.1016/j.phrs.2019.04.025
+3.Ottillinger B, Storr M, Malfertheiner P, et al.STW 5 (Iberogast®)—a safe and effective standard in the treatment of functional gastrointestinal disorders.Wien Med Wochenschr.163(3-4): 65-72, 2013.doi: 10.1007/s10354-012-0169-x
+3.Ottillinger B, Storr M, Malfertheiner P, et al.STW 5 (Iberogast®)—a safe and effective standard in the treatment of functional gastrointestinal disorders.Wien Med Wochenschr.163(3-4): 65-72, 2013.doi: 10.1007/s10354-012-0169-x
+4.Kuriyama A, Maeda H..Topical application of licorice for prevention of postoperative sore throats in adults: a systematic review and meta-analysis.J Clin Anesth.54:25-32, 2019.doi: 10.1016/j.jclinane.2018.10.025
+4.Kuriyama A, Maeda H..Topical application of licorice for prevention of postoperative sore throats in adults: a systematic review and meta-analysis.J Clin Anesth.54:25-32, 2019.doi: 10.1016/j.jclinane.2018.10.025
+5.Akbari N, Asadimehr N, Kiani Z.The effects of licorice containing diphenhydramine solution on recurrent aphthous stomatitis: a double-blind, randomized clinical trial.Complement Ther Med.50:102401, 2020.doi:10.1016/j.ctim.2020.102401
+5.Akbari N, Asadimehr N, Kiani Z.The effects of licorice containing diphenhydramine solution on recurrent aphthous stomatitis: a double-blind, randomized clinical trial.Complement Ther Med.50:102401, 2020.doi:10.1016/j.ctim.2020.102401
+6.Ghaemi H, Masoompour SM, Afsharypuor S, Mosaffa-Jahromi M, Pasalar M, Ahmadi F, Niknahad H.The effectiveness of a traditional Persian medicine preparation in the treatment of chronic cough: A randomized, double-blinded, placebo-controlled clinical trial.Complement Ther Med.2020 Mar;49:102324.doi: 10.1016/j.ctim.2020.102324
+6.Ghaemi H, Masoompour SM, Afsharypuor S, Mosaffa-Jahromi M, Pasalar M, Ahmadi F, Niknahad H.The effectiveness of a traditional Persian medicine preparation in the treatment of chronic cough: A randomized, double-blinded, placebo-controlled clinical trial.Complement Ther Med.2020 Mar;49:102324.doi: 10.1016/j.ctim.2020.102324
+7.Petramfar P, Hajari F, Yousefi G, Azadi S, Hamedi A.Efficacy of oral administration of licorice as an adjunct therapy on improving the symptoms of patients with Parkinson's disease, A randomized double blinded clinical trial.J Ethnopharmacol.2020 Jan 30;247:112226.doi: 10.1016/j.jep.2019.11222
+7.Petramfar P, Hajari F, Yousefi G, Azadi S, Hamedi A.Efficacy of oral administration of licorice as an adjunct therapy on improving the symptoms of patients with Parkinson's disease, A randomized double blinded clinical trial.J Ethnopharmacol.2020 Jan 30;247:112226.doi: 10.1016/j.jep.2019.11222
+8.Penninkilampi R, Eslick EM, Eslick GD.The association between consistent licorice ingestion, hypertension and hypokalaemia: a systematic review and meta-analysis.J Hum Hypertens.2017 Nov;31(11):699-707.doi: 10.1038/jhh.2017.45
+8.Penninkilampi R, Eslick EM, Eslick GD.The association between consistent licorice ingestion, hypertension and hypokalaemia: a systematic review and meta-analysis.J Hum Hypertens.2017 Nov;31(11):699-707.doi: 10.1038/jhh.2017.45
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Licoric Root
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Licoric Root

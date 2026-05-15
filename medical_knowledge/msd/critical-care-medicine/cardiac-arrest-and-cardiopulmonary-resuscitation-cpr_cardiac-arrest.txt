@@ -1,0 +1,155 @@
+标题：心跳骤停
+来源：https://www.msdmanuals.cn/professional/critical-care-medicine/cardiac-arrest-and-cardiopulmonary-resuscitation-cpr/cardiac-arrest
+============================================================
+
+在美国，每年有超过 300,000 人在医院外发生心脏骤停，其中估计有 5000 名婴儿和儿童，死亡率超过 90% (1,2)。
+呼吸骤停与心脏骤停截然不同，但若不治疗，两者最终将互为因果。（参见呼吸衰竭、呼吸困难和缺氧。）
+
+【参考文献】
+1.Tsao CW, Aday AW, Almarzooq ZI, et al.Heart Disease and Stroke Statistics-2023 Update: A Report From the American Heart Association [published correction appears inCirculation2023 Feb 21;147(8):e622. doi: 10.1161/CIR.0000000000001137] [published correction appears inCirculation2023 Jul 25;148(4):e4. doi: 10.1161/CIR.0000000000001167].Circulation2023;147(8):e93-e621.doi:10.1161/CIR.0000000000001123
+1.Tsao CW, Aday AW, Almarzooq ZI, et al.Heart Disease and Stroke Statistics-2023 Update: A Report From the American Heart Association [published correction appears inCirculation2023 Feb 21;147(8):e622. doi: 10.1161/CIR.0000000000001137] [published correction appears inCirculation2023 Jul 25;148(4):e4. doi: 10.1161/CIR.0000000000001167].Circulation2023;147(8):e93-e621.doi:10.1161/CIR.0000000000001123
+2.Virani SS, Alonso A, Benjamin EJ, et al.Heart Disease and Stroke Statistics-2020 Update: A Report From the American Heart Association.Circulation2020;141(9):e139-e596.doi:10.1161/CIR.0000000000000757
+2.Virani SS, Alonso A, Benjamin EJ, et al.Heart Disease and Stroke Statistics-2020 Update: A Report From the American Heart Association.Circulation2020;141(9):e139-e596.doi:10.1161/CIR.0000000000000757
+
+【心脏骤停的病因】
+在成年人中，心脏骤停主要由心脏病引起（所有类型，大多数心脏骤停可归因于急性冠脉综合征，并且绝大多数与潜在的心血管疾病有关）。心脏疾病中有很大一部分患者以心跳骤停为初发表现 (1)。其他原因包括非心脏疾病引起的循环休克（尤其是肺栓塞、消化道出血、创伤）、通气衰竭和代谢紊乱（包括药物过量） (2)。
+对于婴幼儿而言，心脏疾病引起的心跳骤停相对于成人来说较少见。 婴幼儿心跳骤停的主要原因是各种呼吸系统疾病导致的呼吸衰竭（例如，气道梗阻、淹溺、感染、婴儿猝死综合征[SIDS]和烟雾吸入）。然而，儿童和青少年的突发心脏骤停（无预兆的意外循环停止）最常由通道病或潜在结构性心脏异常导致的心律失常引起（3,4,5,6）。
+
+【病因参考文献】
+1.Hayashi M, Shimizu W, Albert CM: The spectrum of epidemiology underlying sudden cardiac death.Circ Res116(12):1887–1906, 2015.doi:10.1161/CIRCRESAHA.116.304521
+1.Hayashi M, Shimizu W, Albert CM: The spectrum of epidemiology underlying sudden cardiac death.Circ Res116(12):1887–1906, 2015.doi:10.1161/CIRCRESAHA.116.304521
+2.Truhlář A, Deakin CD, Soar J, et al: European Resuscitation Council Guidelines for Resuscitation 2015: Section 4.Cardiac arrest in special circumstances.Resuscitation95:148–201, 2015.doi: 10.1016/j.resuscitation.2015.07.017
+2.Truhlář A, Deakin CD, Soar J, et al: European Resuscitation Council Guidelines for Resuscitation 2015: Section 4.Cardiac arrest in special circumstances.Resuscitation95:148–201, 2015.doi: 10.1016/j.resuscitation.2015.07.017
+3.Atkins DL, Everson-Stewart S, Sears GK, et al; Resuscitation Outcomes Consortium Investigators: Epidemiology and outcomes from out-of-hospital cardiac arrest in children: the Resuscitation Outcomes Consortium Epistry-Cardiac Arrest.Circulation119(11):1484–1491, 2009.doi: 10.1161/CIRCULATIONAHA.108.802678
+3.Atkins DL, Everson-Stewart S, Sears GK, et al; Resuscitation Outcomes Consortium Investigators: Epidemiology and outcomes from out-of-hospital cardiac arrest in children: the Resuscitation Outcomes Consortium Epistry-Cardiac Arrest.Circulation119(11):1484–1491, 2009.doi: 10.1161/CIRCULATIONAHA.108.802678
+4.Meert KL, Telford R, Holubkov R, et al; Therapeutic Hypothermia after Pediatric Cardiac Arrest (THAPCA) Trial Investigators: Pediatric out-of-hospital cardiac arrest characteristics and their association with survival and neurobehavioral outcome.Pediatr Crit Care Med17(12):e543–e550, 2016.doi: 10.1097/PCC.0000000000000969
+4.Meert KL, Telford R, Holubkov R, et al; Therapeutic Hypothermia after Pediatric Cardiac Arrest (THAPCA) Trial Investigators: Pediatric out-of-hospital cardiac arrest characteristics and their association with survival and neurobehavioral outcome.Pediatr Crit Care Med17(12):e543–e550, 2016.doi: 10.1097/PCC.0000000000000969
+5.Scheller RL, Johnson L, Lorts A, Ryan TD: Sudden cardiac arrest in pediatrics.Pediatr Emerg Care32(9):630–636, 2016.doi: 10.1097/PEC.0000000000000895
+5.Scheller RL, Johnson L, Lorts A, Ryan TD: Sudden cardiac arrest in pediatrics.Pediatr Emerg Care32(9):630–636, 2016.doi: 10.1097/PEC.0000000000000895
+6.Tsao CW, Aday AW, Almarzooq ZI, et al: Heart Disease and Stroke Statistics-2023 Update: A Report From the American Heart Association [published correction appears inCirculation147(8):e622, 2023].Circulation147(8):e93-e621, 2023.doi:10.1161/CIR.0000000000001123
+6.Tsao CW, Aday AW, Almarzooq ZI, et al: Heart Disease and Stroke Statistics-2023 Update: A Report From the American Heart Association [published correction appears inCirculation147(8):e622, 2023].Circulation147(8):e93-e621, 2023.doi:10.1161/CIR.0000000000001123
+
+【心脏骤停的病理生理学】
+心跳骤停导致全身广泛缺血，造成细胞损伤，对复苏和灌注恢复后器官功能恢复不利。主要影响包括直接细胞损伤和水肿形成。水肿对脑部的危害尤甚，因为脑部几乎没有扩张空间，水肿常导致颅内压升高以及相应的复苏后脑灌注减少。
+三磷酸腺苷（ATP）合成减少导致细胞膜完整性缺失，伴有钾外流和钠、钙内流。细胞内钠过量是细胞水肿的最初原因之一。 过量的钙会破坏线粒体（抑制ATP合成），增加一氧化氮产生（导致有害自由基生成），并在某些情况下，会激活蛋白酶进一步损伤细胞。
+异常离子流也可引起神经元去极化，释放神经递质，其中一些递质具有损伤性（如，谷氨酸激活特定的钙通道，加剧细胞内钙超载）。
+炎性介质（如，白细胞介素-1B，肿瘤坏死因子-α）被释放；其中一些可能导致微血管血栓形成和血管完整性丧失，从而进一步加重水肿。一些因子可激活细胞凋亡，从而加速细胞死亡。
+
+【心脏骤停的症状和体征】
+对于危重或终末期患者，心脏骤停前常有一段时间的临床状况恶化，表现为呼吸浅快、动脉低血压和意识清醒度进行性下降。
+发生突发心脏骤停时，患者会毫无预兆地突然倒地，偶尔伴有短暂的肌阵挛性抽搐或其他癫痫样活动。
+
+【心脏骤停的诊断】
+病史和体格检查
+病史和体格检查
+心脏监护和心电图（ECG）
+心脏监护和心电图（ECG）
+有时检查病因（例如，超声心动图、胸部成像 [X 射线、超声检查]、电解质测试）
+有时检查病因（例如，超声心动图、胸部成像 [X 射线、超声检查]、电解质测试）
+心脏骤停的诊断依据是临床存在呼吸暂停、无脉、意识丧失的表现。动脉血压无法测得。瞳孔散大并且对光反射消失。
+应使用心电监护仪，它可提示心室颤动（VF）、室性心动过速（VT）或心脏停搏。有时会出现灌注节律（例如，心动过缓、极度心动过速）；这种节律可能代表真正的无脉电活动（以前称为电机械分离）或由于极度低血压导致无法检测到脉搏。
+评估患者是否有潜在的可治疗的病因；“Hs和Ts”可作为有用的记忆口诀：
+H：Hypoxia低氧血症、hypovolemia低血容量、酸中毒(hydrogen ion氢离子)、hyperkalemia高钾血症或hypokalemia低钾血症、hypothermia低体温
+H：Hypoxia低氧血症、hypovolemia低血容量、酸中毒(hydrogen ion氢离子)、hyperkalemia高钾血症或hypokalemia低钾血症、hypothermia低体温
+T：Tablet药片或toxin毒素摄入、心脏tamponade心脏压塞、tension pneumothorax张力性气胸、thrombosis血栓形成（肺或冠状动脉）
+T：Tablet药片或toxin毒素摄入、心脏tamponade心脏压塞、tension pneumothorax张力性气胸、thrombosis血栓形成（肺或冠状动脉）
+低血糖也是心脏骤停的一个潜在原因，尽管这种治疗方法在成年人中的有效性存在争议，当前指南也不支持在成人心肺复苏过程中进行常规血糖检查或葡萄糖输注（1、2、3）。然而，在儿科中，应检查血糖并及时治疗低血糖，作为心脏骤停的潜在可治疗原因（4）。
+不幸的是，心肺复苏 (CPR) 过程中通常无法确定心脏骤停的原因。临床检查、心肺复苏期间的胸部超声检查，以及在进行针刺胸腔引流后恢复自主循环时拍摄的胸部X光片，可以帮助检测气胸，若患者对气胸的缓解有所反应，则提示张力性气胸可能是导致心脏骤停的原因。
+超声心动图可以检测心脏收缩并识别心脏压塞、极度低血容量（空心现象）、右心室负荷过重提示肺栓塞、局部壁运动异常提示心肌梗死，并帮助快速识别可治疗的心脏骤停原因（5）。然而，仍需进一步研究以确定在复苏过程中使用超声波是否具有长期生存益处。如果心肺复苏术需要显著中断，则不应进行经胸心脏超声检查。
+快速床边血液测试可以检测钾水平异常、严重贫血和严重低血糖，这些都可能是心脏骤停的原因。
+家人或救援人员提供的病史可提示药物过量。
+
+【诊断参考】
+1.Abramson TM, Bosson N, Loza-Gomez A, Eckstein M, Gausche-Hill M: Utility of Glucose Testing and Treatment of Hypoglycemia in Patients with Out-of-Hospital Cardiac Arrest.Prehosp Emerg Care26(2):173–178, 2022.doi:10.1080/10903127.2020.1869873
+1.Abramson TM, Bosson N, Loza-Gomez A, Eckstein M, Gausche-Hill M: Utility of Glucose Testing and Treatment of Hypoglycemia in Patients with Out-of-Hospital Cardiac Arrest.Prehosp Emerg Care26(2):173–178, 2022.doi:10.1080/10903127.2020.1869873
+2.Hanefeld M, Duetting E, Bramlage P: Cardiac implications of hypoglycaemia in patients with diabetes - a systematic review.Cardiovasc Diabetol12:135, 2013.doi:10.1186/1475-2840-12-135
+2.Hanefeld M, Duetting E, Bramlage P: Cardiac implications of hypoglycaemia in patients with diabetes - a systematic review.Cardiovasc Diabetol12:135, 2013.doi:10.1186/1475-2840-12-135
+3.Reno CM, Daphna-Iken D, Chen YS, VanderWeele J, Jethi K, Fisher SJ: Severe hypoglycemia-induced lethal cardiac arrhythmias are mediated by sympathoadrenal activation.Diabetes62(10):3570–3581, 2013.doi:10.2337/db13-0216
+3.Reno CM, Daphna-Iken D, Chen YS, VanderWeele J, Jethi K, Fisher SJ: Severe hypoglycemia-induced lethal cardiac arrhythmias are mediated by sympathoadrenal activation.Diabetes62(10):3570–3581, 2013.doi:10.2337/db13-0216
+4.Losek JD: Hypoglycemia and the ABC'S (sugar) of pediatric resuscitation.Ann Emerg Med35(1):43–46, 2000.doi:10.1016/s0196-0644(00)70103-x
+4.Losek JD: Hypoglycemia and the ABC'S (sugar) of pediatric resuscitation.Ann Emerg Med35(1):43–46, 2000.doi:10.1016/s0196-0644(00)70103-x
+5.Gaspari R, Weekes A, Adhikari S, et al: Emergency department point-of-care ultrasound in out-of-hospital and in-ED cardiac arrest.Resuscitation109:33–39, 2016.doi:10.1016/j.resuscitation.2016.09.018
+5.Gaspari R, Weekes A, Adhikari S, et al: Emergency department point-of-care ultrasound in out-of-hospital and in-ED cardiac arrest.Resuscitation109:33–39, 2016.doi:10.1016/j.resuscitation.2016.09.018
+
+【心脏骤停的治疗】
+高质量的心肺复苏，包括对可电击心律（室颤[VF]或室速[VT]）进行快速除颤。
+高质量的心肺复苏，包括对可电击心律（室颤[VF]或室速[VT]）进行快速除颤。
+对于不可电击的心律，早期给予肾上腺素
+对于不可电击的心律，早期给予肾上腺素
+可能的话对原发病因进行治疗
+可能的话对原发病因进行治疗
+复苏后治疗
+复苏后治疗
+快速干预至关重要。
+心肺复苏 (CPR) 是应对心跳骤停做出的有序并连续的一项措施；迅速进行无间断的胸外按压（“快速用力按压”）并对有室颤或室速患者（成人较为普遍）尽早除颤是成功恢复自主循环的关键。2020年AHA心脏骤停治疗指南还建议，对具有不可电击心律的患者应快速给予首剂肾上腺素（1,2,3）。
+对儿童而言，窒息是心跳骤停的常见原因，表现为典型的缓慢型心律失常，随后发生心脏停搏。然而，当心跳骤停前无呼吸系统症状时，儿童可表现为室速或室颤，因此也需要快速除颤（3）。在>12岁的儿童中，以室颤作为初始记录心律的发生率有所增加（3、4）。
+在立即开始高质量且不间断的胸外按压、除颤和初始肾上腺素注射后，必须迅速处理主要病因（例如，缺氧、低血容量、中毒、心包填塞）。如果没有发现立即可处理的病因，则治疗方案应根据心脏节律决定。对于难治性室颤（VF）或无脉性室性心动过速（VT）的患者，在首次两次电击除颤后未恢复脉搏的情况下，每2分钟进行重复电击除颤，并每3至5分钟给予肾上腺素。如果患者在接受3次电击和注射肾上腺素后仍处于难治性可电击节律中，也可以给予胺碘酮或利多卡因。对于不可电击的节律，早期使用肾上腺素与改善神经功能完好的生存率相关（5、6）。
+应根据需要给予静脉输液（如1L 0.9%生理盐水、全血或用于失血的组合），以优化容量状态。如果静脉输液反应不足，临床医生可以给予额外的血管加压药（例如去甲肾上腺素、肾上腺素、多巴胺、加压素）。然而，目前没有确凿证据表明在心脏骤停期间使用高剂量的血管加压药能改善自主循环恢复或神经功能完好的生存率。
+脉搏恢复后，复苏后护理的重点是确定和治疗病因、稳定病情和预防再次骤停，以及优化神经系统结果。除了治疗病因外，复苏后护理可能包括优化氧合和通气的方法，以及对ST段抬高型心肌梗死（STEMI）患者进行快速冠状动脉造影。2020年美国心脏协会指南建议，对于没有STEMI的患者，也应考虑延迟冠状动脉造影。建议进行靶向温度管理，将治疗性常温维持在<37.5°C，但温度下限为32°C（7，8）。目前正在进行研究，以确定通过控制低温（32°C至34°C）进行有针对性的温度管理是否有利于特定的心脏骤停幸存者（9）。
+
+【治疗参考文献】
+1.Atkins DL, Sasson C, Hsu A, et al: 2022 Interim Guidance to Health Care Providers for Basic and Advanced Cardiac Life Support in Adults, Children, and Neonates With Suspected or Confirmed COVID-19: From the Emergency Cardiovascular Care Committee and Get With The Guidelines-Resuscitation Adult and Pediatric Task Forces of the American Heart Association in Collaboration With the American Academy of Pediatrics, American Association for Respiratory Care, the Society of Critical Care Anesthesiologists, and American Society of Anesthesiologists.Circ Cardiovasc Qual Outcomes15(4):e008900, 2022.doi:10.1161/CIRCOUTCOMES.122.008900
+1.Atkins DL, Sasson C, Hsu A, et al: 2022 Interim Guidance to Health Care Providers for Basic and Advanced Cardiac Life Support in Adults, Children, and Neonates With Suspected or Confirmed COVID-19: From the Emergency Cardiovascular Care Committee and Get With The Guidelines-Resuscitation Adult and Pediatric Task Forces of the American Heart Association in Collaboration With the American Academy of Pediatrics, American Association for Respiratory Care, the Society of Critical Care Anesthesiologists, and American Society of Anesthesiologists.Circ Cardiovasc Qual Outcomes15(4):e008900, 2022.doi:10.1161/CIRCOUTCOMES.122.008900
+2.Panchal AR, Bartos JA, Cabañas JG, et al: Part 3: Adult Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation142(16_suppl_2):S366–S468, 2020.doi:10.1161/CIR.0000000000000916
+2.Panchal AR, Bartos JA, Cabañas JG, et al: Part 3: Adult Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation142(16_suppl_2):S366–S468, 2020.doi:10.1161/CIR.0000000000000916
+3.Tijssen JA, Prince DK, Morrison LJ, et al: Time on the scene and interventions are associated with improved survival in pediatric out-of-hospital cardiac arrest.Resuscitation94:1–7, 2015.doi:10.1016/j.resuscitation.2015.06.012
+3.Tijssen JA, Prince DK, Morrison LJ, et al: Time on the scene and interventions are associated with improved survival in pediatric out-of-hospital cardiac arrest.Resuscitation94:1–7, 2015.doi:10.1016/j.resuscitation.2015.06.012
+4.Topjian AA, Raymond TT, Atkins D, et al: Part 4: Pediatric Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation142(16_suppl_2):S469–S523, 2020.doi:10.1161/CIR.0000000000000901
+4.Topjian AA, Raymond TT, Atkins D, et al: Part 4: Pediatric Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation142(16_suppl_2):S469–S523, 2020.doi:10.1161/CIR.0000000000000901
+5.Okubo M, Komukai S, Callaway CW, Izawa J: Association of Timing ofEpinephrineAdministration With Outcomes in Adults With Out-of-Hospital Cardiac Arrest.JAMA Netw Open4(8):e2120176, 2021.doi:10.1001/jamanetworkopen.2021.20176
+5.Okubo M, Komukai S, Callaway CW, Izawa J: Association of Timing ofEpinephrineAdministration With Outcomes in Adults With Out-of-Hospital Cardiac Arrest.JAMA Netw Open4(8):e2120176, 2021.doi:10.1001/jamanetworkopen.2021.20176
+6.Perkins GD, Ji C, Deakin CD, et al: A Randomized Trial ofEpinephrinein Out-of-Hospital Cardiac Arrest.N Engl J Med379(8):711–721, 2018.doi:10.1056/NEJMoa1806842
+6.Perkins GD, Ji C, Deakin CD, et al: A Randomized Trial ofEpinephrinein Out-of-Hospital Cardiac Arrest.N Engl J Med379(8):711–721, 2018.doi:10.1056/NEJMoa1806842
+7.Perman SM, Bartos JA, Del Rios M, et al: Temperature Management for Comatose Adult Survivors of Cardiac Arrest: A Science Advisory From the American Heart Association.Circulation148(12):982–988, 2023.doi:10.1161/CIR.0000000000001164
+7.Perman SM, Bartos JA, Del Rios M, et al: Temperature Management for Comatose Adult Survivors of Cardiac Arrest: A Science Advisory From the American Heart Association.Circulation148(12):982–988, 2023.doi:10.1161/CIR.0000000000001164
+8.Perman SM, Elmer J, Maciel CB, et al: 2023 American Heart Association Focused Update on Adult Advanced Cardiovascular Life Support: An Update to the American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation149(5):e254–e273, 2024.doi:10.1161/CIR.0000000000001194
+8.Perman SM, Elmer J, Maciel CB, et al: 2023 American Heart Association Focused Update on Adult Advanced Cardiovascular Life Support: An Update to the American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation149(5):e254–e273, 2024.doi:10.1161/CIR.0000000000001194
+9.Wyckoff MH, Greif R, Morley PT, et al: 2022 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations: Summary From the Basic Life Support; Advanced Life Support; Pediatric Life Support; Neonatal Life Support; Education, Implementation, and Teams; and First Aid Task Forces.Circulation146(25):e483–e557, 2022.doi:10.1161/CIR.0000000000001095
+9.Wyckoff MH, Greif R, Morley PT, et al: 2022 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations: Summary From the Basic Life Support; Advanced Life Support; Pediatric Life Support; Neonatal Life Support; Education, Implementation, and Teams; and First Aid Task Forces.Circulation146(25):e483–e557, 2022.doi:10.1161/CIR.0000000000001095
+
+【心脏骤停的预后】
+存活并出院，特别是存活伴神经功能完整，其意义远胜于单纯的自主循环恢复。
+存活率差异显著；影响神经功能完整存活的有利因素包括
+早期、有效的由目击者开始心肺复苏
+早期、有效的由目击者开始心肺复苏
+有目击者的心跳骤停
+有目击者的心跳骤停
+院内（尤其监护室）
+院内（尤其监护室）
+初始心律为心室颤动（VF）或室性心动过速（VT）
+初始心律为心室颤动（VF）或室性心动过速（VT）
+VF 或 VT 的早期除颤
+VF 或 VT 的早期除颤
+复苏后治疗，包括循环支持和心导管检查
+复苏后治疗，包括循环支持和心导管检查
+对于成人患者，进行目标温度管理（体温32至36°C维持≥24小时）并避免体温过高
+对于成人患者，进行目标温度管理（体温32至36°C维持≥24小时）并避免体温过高
+虽然美国心脏协会2020年高级心脏生命支持（ACLS）指南建议将体温冷却至32°C至36°C之间，但国际复苏委员会高级生命支持（ALS）工作组的最新建议是积极预防发热，目标温度≤37.5°C，而非主动降温。目前尚不清楚某些心脏骤停患者群体是否会通过目标低体温管理而不是维持正常体温来改善神经功能完整的生存率（1、2、3、4、5）。
+如果许多因素有利（例如，室颤在重症监护病房或急诊科内目击到），高达约40%的住院期间心脏骤停的成年人可能存活至出院（6）。在美国，住院期间心脏骤停患者的总体出院存活率超过30%（7）。
+相当一部分成功复苏的患者存在短期或长期的脑功能障碍，表现为意识状态改变（从轻度意识模糊到昏迷）、癫痫发作或两者兼有（8、9）。
+当各项因素均不利时（例如，无目击者的院外心脏骤停且患者心律为心脏停搏），存活的可能性很低。总体而言，院外心跳骤停的生存率约为10％。
+所有心脏骤停患者（无论院内或院外）中，只有不到10%在出院时能恢复良好的神经功能，定义为轻度至中度脑功能障碍，且能够独立完成大部分日常生活活动（10，11）。
+
+【预后参考】
+1.Bernard SA, Gray TW, Buist MD, et al: Treatment of comatose survivors of out-of-hospital cardiac arrest with induced hypothermia.N Engl J Med346:557–563, 2002.doi 10.1056/NEJMoa003289
+1.Bernard SA, Gray TW, Buist MD, et al: Treatment of comatose survivors of out-of-hospital cardiac arrest with induced hypothermia.N Engl J Med346:557–563, 2002.doi 10.1056/NEJMoa003289
+2.Granfeldt A, Holmberg MJ, Nolan JP, Soar J, Andersen LW; International Liaison Committee on Resuscitation (ILCOR) Advanced Life Support Task Force: Targeted temperature management in adult cardiac arrest: Systematic review and meta-analysis.Resuscitation167:160–172, 2021.doi:10.1016/j.resuscitation.2021.08.040
+2.Granfeldt A, Holmberg MJ, Nolan JP, Soar J, Andersen LW; International Liaison Committee on Resuscitation (ILCOR) Advanced Life Support Task Force: Targeted temperature management in adult cardiac arrest: Systematic review and meta-analysis.Resuscitation167:160–172, 2021.doi:10.1016/j.resuscitation.2021.08.040
+3.Merchant RM, Topjian AA, Panchal AR, et al: Part 1: Executive Summary: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation2020;142(16_suppl_2):S337-S357.doi:10.1161/CIR.0000000000000918
+3.Merchant RM, Topjian AA, Panchal AR, et al: Part 1: Executive Summary: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation2020;142(16_suppl_2):S337-S357.doi:10.1161/CIR.0000000000000918
+4.Nielsen N, Wetterslev J, Cronberg T, et al: Targeted temperature management at 33°C versus 36°C after cardiac arrest.N Engl J Med369:2197–2206, 2013.doi: 10.1056/NEJMoa1310519
+4.Nielsen N, Wetterslev J, Cronberg T, et al: Targeted temperature management at 33°C versus 36°C after cardiac arrest.N Engl J Med369:2197–2206, 2013.doi: 10.1056/NEJMoa1310519
+5.Wyckoff MH, Greif R, Morley PT, et al: 2022 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations: Summary From the Basic Life Support; Advanced Life Support; Pediatric Life Support; Neonatal Life Support; Education, Implementation, and Teams; and First Aid Task Forces.Circulation146(25):e483–e557, 2022.doi:10.1161/CIR.0000000000001095
+5.Wyckoff MH, Greif R, Morley PT, et al: 2022 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations: Summary From the Basic Life Support; Advanced Life Support; Pediatric Life Support; Neonatal Life Support; Education, Implementation, and Teams; and First Aid Task Forces.Circulation146(25):e483–e557, 2022.doi:10.1161/CIR.0000000000001095
+6.Andersen LW, Holmberg MJ, Berg KM, Donnino MW, Granfeldt A: In-Hospital Cardiac Arrest: A Review.JAMA321(12):1200–1210, 2019.doi:10.1001/jama.2019.1696
+6.Andersen LW, Holmberg MJ, Berg KM, Donnino MW, Granfeldt A: In-Hospital Cardiac Arrest: A Review.JAMA321(12):1200–1210, 2019.doi:10.1001/jama.2019.1696
+7.Mallikethi-Reddy S, Akintoye E, Rubenfire M, Briasoulis A, Grines CL, Afonso L: Nationwide survival after inhospital cardiac arrest before and after 2010 cardiopulmonary resuscitation guidelines: 2007-2014.Int J Cardiol249:231–233, 2017.doi:10.1016/j.ijcard.2017.09.199
+7.Mallikethi-Reddy S, Akintoye E, Rubenfire M, Briasoulis A, Grines CL, Afonso L: Nationwide survival after inhospital cardiac arrest before and after 2010 cardiopulmonary resuscitation guidelines: 2007-2014.Int J Cardiol249:231–233, 2017.doi:10.1016/j.ijcard.2017.09.199
+8.Glimmerveen A, Verhulst M, Verbunt J, Van Heugten C, Hofmeijer J: Predicting Long-Term Cognitive Impairments in Survivors after Cardiac Arrest: A Systematic Review.J Rehabil Med55:jrm00368, 2023.doi:10.2340/jrm.v55.3497
+8.Glimmerveen A, Verhulst M, Verbunt J, Van Heugten C, Hofmeijer J: Predicting Long-Term Cognitive Impairments in Survivors after Cardiac Arrest: A Systematic Review.J Rehabil Med55:jrm00368, 2023.doi:10.2340/jrm.v55.3497
+9.Moulaert VR, Verbunt JA, van Heugten CM, Wade DT: Cognitive impairments in survivors of out-of-hospital cardiac arrest: a systematic review.Resuscitation80(3):297–305, 2009.doi:10.1016/j.resuscitation.2008.10.034
+9.Moulaert VR, Verbunt JA, van Heugten CM, Wade DT: Cognitive impairments in survivors of out-of-hospital cardiac arrest: a systematic review.Resuscitation80(3):297–305, 2009.doi:10.1016/j.resuscitation.2008.10.034
+10.Perman SM, Bartos JA, Del Rios M, et al: Temperature Management for Comatose Adult Survivors of Cardiac Arrest: A Science Advisory From the American Heart Association.Circulation148(12):982–988, 2023.doi:10.1161/CIR.0000000000001164
+10.Perman SM, Bartos JA, Del Rios M, et al: Temperature Management for Comatose Adult Survivors of Cardiac Arrest: A Science Advisory From the American Heart Association.Circulation148(12):982–988, 2023.doi:10.1161/CIR.0000000000001164
+11.Perman SM, Elmer J, Maciel CB, et al: 2023 American Heart Association Focused Update on Adult Advanced Cardiovascular Life Support: An Update to the American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation149(5):e254–e273, 2024.doi:10.1161/CIR.0000000000001194
+11.Perman SM, Elmer J, Maciel CB, et al: 2023 American Heart Association Focused Update on Adult Advanced Cardiovascular Life Support: An Update to the American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation149(5):e254–e273, 2024.doi:10.1161/CIR.0000000000001194

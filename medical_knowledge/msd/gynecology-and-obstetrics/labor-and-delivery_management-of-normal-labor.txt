@@ -1,0 +1,114 @@
+标题：正常分娩的处理
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/labor-and-delivery/management-of-normal-labor
+============================================================
+
+分娩由一系列有规律、非自主的、或由药物引起的子宫收缩组成，伴随宫颈管消失（宫颈变薄、变短）和宫口扩张。1996 年，世界卫生组织 (WHO) 对正常分娩的定义如下（1)：
+分娩是自发的，分娩开始时风险很低，在整个分娩过程中都是如此。
+分娩是自发的，分娩开始时风险很低，在整个分娩过程中都是如此。
+婴儿在妊娠37~42周时以头位自然出生。
+婴儿在妊娠37~42周时以头位自然出生。
+出生后，母婴状况良好 。
+出生后，母婴状况良好 。
+分娩的动因还不清楚，但检查时手指的操作和机械性牵拉宫颈可以增加子宫的收缩活动，最有可能是刺激了垂体后叶释放催产素。
+对于无并发症的足月妊娠，分娩通常在预产期的两周内（提前或推迟）开始。在第一次分娩中，平均分娩时间是12到18小时；随后的分娩通常较短，平均为6到8小时。
+管理产程延迟或停滞需要采取额外措施（例如，引产或催产、产钳或真空吸引器分娩、剖腹产）。
+（参见产时并发症简介。）
+
+【参考文献】
+1.Care in normal birth: A practical guide.Technical Working Group, World Health Organization.Birth24(2):121-123, 1997.
+1.Care in normal birth: A practical guide.Technical Working Group, World Health Organization.Birth24(2):121-123, 1997.
+
+【分娩方式的选择】
+分娩的环境各不相同。患者可以选择在医院、分娩中心或家中分娩。住院分娩的优势在于，如果在分娩过程中或产后发生意外的产妇和胎儿并发症（例如，胎盘早剥、肩难产、需要紧急剖腹产、胎儿或新生儿窘迫或异常，或产后产后出血），可以立即获得临床工作人员和设备。
+对于许多女性来说，分娩期间有伴侣或其他支持人员（例如，助产师或围产期支持专家）的陪伴是有帮助的，应该受到鼓励。情感支持和鼓励可能有助于减轻焦虑。分娩教育课程可以让父母为分娩做好准备，包括提供有关正常分娩、监测设备和潜在并发症的信息。
+
+【临产开始】
+分娩通常始于不同强度的不规则子宫收缩，并且宫颈开始变薄和扩张。随着分娩的进程，子宫收缩在持续时间、强度和频率上也逐步增加。有时胎膜会在宫缩开始前破裂。
+见红（宫颈流出少量血液和粘液）可能是分娩即将开始的早期迹象。然而，性交也可能导致见红。见红可能在临产前72小时就出现。应评估妊娠期间的任何阴道出血，以排除并发症。见红时，血量非常少，通常有粘液，这通常可以将其与异常的妊娠晚期阴道流血区分开来。
+通常情况下，如果孕妇认为她们的胎膜已破裂，或者她们出现持续至少 30 秒且在 1 小时内每隔约 6 分钟或更短时间有规律地发生宫缩，则建议她们致电医疗团队或去医院。对患者进行评估，如果不确定分娩是否已经开始，则观察一段时间，如果分娩尚未开始，则送回家。
+与正常分娩不相关的症状，例如持续性（而非间歇性）腹部或背部疼痛、阴道大量出血或血流动力学不稳定，这些症状提示胎盘早剥（胎盘过早分离），需要立即评估和处理。前置胎盘通常可以通过妊娠中期的常规产前超声检查来排除。然而，如果胎盘位置不明或最近一次超声检查时胎盘位置较低，则禁忌进行阴道指检，应尽快进行超声检查。
+
+【入住产房】
+当孕妇被送入产房时，会测量生命体征。抽血化验全血细胞计数（CBC）、血型鉴定和抗体筛查。如果产前检查时没有进行常规实验室检查，则应该进行。这些测试包括筛查艾滋病毒、乙型肝炎和梅毒；检测风疹和水痘免疫力；以及 B 组链球菌感染。
+记录胎儿心音的存在和速率。进行体格检查。腹部检查时，医师使用Leopold手法（见图Leopold手法）估计胎儿的大小、胎位和先露。如果胎先露或胎位不确定，可以进行超声检查。
+如果产程活跃，孕妇不应进食或者少进食以防分娩时呕吐吸入或分娩紧急情况需要全身麻醉。一些医疗机构允许低风险患者饮用清澈液体。
+不推荐剃除外阴和耻骨部的阴毛，这样做会增加伤口感染的风险。
+可以用大号的静脉留置针穿刺手或前臂静脉滴注乳酸林格液。 在6~10小时的正常分娩过程中，应给予500~1000mL这种溶液。 输液可防止分娩时脱水和随后的血液浓缩，并保持足够的循环血容量。静脉留置针还可以保证需要时随时给药或者输血。若打算进行硬膜外或脊柱麻醉，预先补液也非常有意义。
+
+【Leopold手法】
+Leopold手法
+(A)宫底触诊以确定是胎体的哪一部分占据宫底。(B)触摸孕妇腹部两侧分辨胎儿脊柱和四肢。(C)耻骨联合上区域触诊了解胎儿先露部分的位置，明确胎儿下降程度、是否入盆。(D)一只手在宫底加压，另一只手的示指和拇指触握胎儿先露部分确认先露及其能否入盆。
+如果初步检查、胎儿监测和实验室检查后担心出现并发症，则需要进行额外的检查或监测。
+如果早产（<37 周）且患者出现子宫收缩或漏液时，需要评估早产临产或早产胎膜早破并进行相应管理。
+
+【宫颈检查】
+如果患者出现规律且疼痛的宫缩，则需要进行宫颈检查以评估宫颈扩张情况。
+对于患有前置胎盘的患者，由于宫颈检查可能导致严重出血，因此不宜进行。如果在产前护理期间尚未确定胎盘位置，则应在盆腔检查之前进行超声检查。
+宫颈扩张以厘米为单位记录为圆的直径；10厘米被认为完全扩张。
+宫颈管消失度以百分比估计，从0到100%。宫颈管消失不仅包括宫颈变薄，还包括缩短，因此也可以厘米为单位记录，以正常未消失的宫颈平均长度3.5到4.0厘米作为衡量标准。
+胎头位置指高于或者低于产妇坐骨棘水平的距离以cm表示。坐骨棘水平相当于0 站。坐骨棘以下的水平记录为（+）；骨盆中坐骨棘以上部位的较高水平记录为（−）。水平以厘米为增量记录。
+同时记录胎产式、胎方位、和先露。
+胎位描述的是胎儿和母亲身体纵轴的相对位置关系（纵位，斜位，横位）。
+胎位描述的是胎儿和母亲身体纵轴的相对位置关系（纵位，斜位，横位）。
+胎方位描述的是胎儿先露部分与母体骨盆的关系（例如，头先露时为枕左前，臀先露时为骶右后）。
+胎方位描述的是胎儿先露部分与母体骨盆的关系（例如，头先露时为枕左前，臀先露时为骶右后）。
+胎先露描述的是宫口处的胎儿部分（例如臀、头顶、肩）。
+胎先露描述的是宫口处的胎儿部分（例如臀、头顶、肩）。
+胎产式、胎方位或胎先露异常可能与分娩期并发症有关。
+有时，胎膜（羊膜和绒毛膜囊）在临产前破裂，羊水经宫颈流出。临产前的任何阶段发生胎膜破裂称为胎膜早破（PROM）。一些PROM的妇女自觉阴道一阵流水，接着不断有排液 (1)。
+如果患者出现胎膜破裂的可能，但没有规律且疼痛的宫缩，则首先进行无菌窥器检查以确认胎膜破裂。为了降低感染风险，应推迟进行宫颈指检，直到分娩开始或有其他指征需要评估宫颈扩张（例如，计划引产）。
+有时需要进一步确认以区分羊水与其他液体（如尿液、阴道分泌物、精液）。如果在盆腔检查中发现液体从宫颈漏出，并且积聚在阴道后部，则可以确诊胎膜破裂。如果出现胎儿胎粪（产生绿褐色变色），应注意，因为它可能是胎儿应激的标志。
+如果没有看到汇集，则可能需要进行测试以确认。例如可以用硝嗪试纸检测阴道排液的pH值，pH>6.5时试纸变为深蓝（羊水的pH：7.0到7.6）；阴道排液含有血液或精液或存在某些感染时，可能发生假阳性。从阴道后穹隆或宫颈采集分泌物，置于玻片上，空气中自然干燥，显微镜下寻找羊齿状结晶。看到羊齿状结晶（羊水中棕榈叶状的氯化钠结晶）通常可以确认胎膜破裂。一些机构使用商业测试来评估胎膜破裂（2，3）。
+如果还是不能确认，超声检查如果有羊水过少（羊水缺乏）可以提示胎膜破裂。极少的情况下，行羊膜穿刺术注入染料，如果阴道内或者护垫上发现染料证明胎膜有破裂。
+约80%~90％的足月（≥37周）胎膜早破和50％的未足月（＜37周）胎膜早破的孕妇在24小时内自然分娩；>90%的PROM孕妇在2周内分娩。如果足月后胎膜破裂，数小时后仍然没有临产，引产可以减少母胎感染的风险。当发生胎膜早破（<37周）时，胎膜破裂和分娩开始之间的延迟会随着孕周的减少而增加。
+
+【胎膜破裂参考文献】
+1.Prelabor Rupture of Membranes: ACOG Practice Bulletin, Number 217.Obstet Gynecol135(3):e80-e97, 2020.doi:10.1097/AOG.0000000000003700
+1.Prelabor Rupture of Membranes: ACOG Practice Bulletin, Number 217.Obstet Gynecol135(3):e80-e97, 2020.doi:10.1097/AOG.0000000000003700
+2.Ramsauer B, Vidaeff AC, Hösli I, et al: The diagnosis of rupture of fetal membranes (ROM): a meta-analysis.J Perinat Med.2013;41(3):233-240.doi:10.1515/jpm-2012-0247
+2.Ramsauer B, Vidaeff AC, Hösli I, et al: The diagnosis of rupture of fetal membranes (ROM): a meta-analysis.J Perinat Med.2013;41(3):233-240.doi:10.1515/jpm-2012-0247
+3.Thomasino T, Levi C, Draper M, Neubert AG.Diagnosing rupture of membranes using combination monoclonal/polyclonal immunologic protein detection.J Reprod Med.2013;58(5-6):187-194.
+3.Thomasino T, Levi C, Draper M, Neubert AG.Diagnosing rupture of membranes using combination monoclonal/polyclonal immunologic protein detection.J Reprod Med.2013;58(5-6):187-194.
+
+【产程分期】
+产程分为三个阶段。
+
+【第一阶段】
+第一产程－从临产到宫口开全（大约10cm）－分为2期，潜伏期和活跃期。
+潜伏期是从分娩开始到活跃期开始的间隔（1）。不规则收缩变得有规律且更加剧烈，不适感轻度至中度，宫颈逐渐消失并开始扩张至4至6厘米。潜伏期很难准确定义且持续时间有所不同。对于未产妇来说，平均时间为 7.3 至 8.6 小时（第 95 百分位数为 17 至 21 小时）（2）。对于经产妇来说，平均值为 4.1 至 5.3 小时（第 95 百分位数为 12 至 14 小时）。
+没有关于延长潜伏期的标准定义。常用的标准是未产妇>20小时或经产妇>14小时，尽管一些研究报告的持续时间更短或更长（3）。
+活跃期定义为宫颈扩张加速。规律的收缩持续到宫颈完全扩张为止。
+当宫颈扩张至6厘米后，对于未产妇，宫颈扩张速度＜1.2厘米/小时；对于经产妇，＜1.5厘米/小时，即可诊断为活跃期延长（4）。活跃期停滞通常定义为宫颈扩张在 2 至 4 小时内没有变化。
+在潜伏期根据需要进行盆腔检查，在活跃期通常每 2 至 3 小时进行一次盆腔检查，以评估分娩进展。
+站立和步行可使第一产程缩短d'y1小时，并降低剖宫产率（5）。
+如果胎膜还没有自发破裂，有些临床医生于活跃期常规行人工破膜（羊膜切开术）。破膜后产程可能进展更快，也可以较早发现羊水粪染。在此阶段，可能出于特定指征而需要进行人工破膜，例如为了便于进行胎儿内部监测以确认胎儿状态。对于感染了HIV或乙型、丙型肝炎的妇女，应避免进行人工破膜，以避免胎儿暴露于这些感染的风险。
+在第一产程中，应频繁监测产妇心率和血压，并通过电子监护连续或间断听诊检查胎心率，通常使用便携式多普勒超声设备（见胎儿监护）。当先露部分降至骨盆时孕妇开始有向下屏气的紧迫感。然而，在宫颈完全扩张之前，应鼓励她们不要用力，以免撕裂或导致宫颈肿胀。
+
+【第二阶段】
+第二产程是指宫口开全到胎儿娩出的时间。未产妇分娩平均持续时间为 36 至 57 分钟（95 百分位数为 122 至 197 分钟），经产妇分娩平均持续时间为 17 至 19 分钟（95 百分位数为 57 至 81 分钟）（2）。若要自然分娩，孕妇必须配合宫缩，用力推挤。第二产程中，孕妇应得到持续的护理，并且胎心应连续监护或每次宫缩后听取。子宫收缩情况可以通过触诊或者电子监护了解。
+在第二产程，使用润滑剂和温压按摩会阴可软化并拉伸会阴，从而减少三度和四度会阴撕裂的发生率（6）。这些技术已被助产士和接生员广泛使用。
+在第二产程中，非硬膜外麻醉分娩时，产妇体位不影响产程、分娩方式以及母婴结局（7）。而且，推挤技术（自发与定向、延迟与即时）不会影响分娩方式或产妇和新生儿的结局。
+第二产程停滞通常定义为初产妇用力至少 3 小时或经产妇用力至少 2 小时（8）。硬膜外麻醉的使用会延迟推挤，可能会使第二阶段延长一个小时（9)。由于胎位不正（如枕后），用力时间也可能更长。
+
+【第三产程】
+第三产程开始于胎儿娩出后，结束于胎盘娩出。这个阶段通常只持续几分钟，但也可能持续30分钟。
+
+【分娩阶段参考文献】
+1.American College of Obstetricians and Gynecologists (ACOG): Obstetrics Data Definitions
+1.American College of Obstetricians and Gynecologists (ACOG): Obstetrics Data Definitions
+2.Kilpatrick SJ, Garrison E, Fairbrother E: Normal labor and delivery.In: Landon MB, Galan HL, Jauniaux E, et al, eds.Gabbe's Obstetrics: Normal and Problem Pregnancies.8th ed.Elsevier; 2021.eBook ISBN: 9780323613408
+2.Kilpatrick SJ, Garrison E, Fairbrother E: Normal labor and delivery.In: Landon MB, Galan HL, Jauniaux E, et al, eds.Gabbe's Obstetrics: Normal and Problem Pregnancies.8th ed.Elsevier; 2021.eBook ISBN: 9780323613408
+3.Tilden EL, Phillippi JC, Ahlberg M, et al: Describing latent phase duration and associated characteristics among 1281 low-risk women in spontaneous labor.Birth46(4):592-601, 2019.doi:10.1111/birt.12428
+3.Tilden EL, Phillippi JC, Ahlberg M, et al: Describing latent phase duration and associated characteristics among 1281 low-risk women in spontaneous labor.Birth46(4):592-601, 2019.doi:10.1111/birt.12428
+4.Friedman EA, Cohen WR.The active phase of labor.Am J Obstet Gynecol.2023;228(5S):S1037-S1049.doi:10.1016/j.ajog.2021.12.269
+4.Friedman EA, Cohen WR.The active phase of labor.Am J Obstet Gynecol.2023;228(5S):S1037-S1049.doi:10.1016/j.ajog.2021.12.269
+5.Lawrence A, Lewis L, Hofmeyr GJ, Styles C: Maternal positions and mobility during first stage labour.Cochrane Database Syst Rev(8):CD003934, 2013.doi: 10.1002/14651858.CD003934.pub3
+5.Lawrence A, Lewis L, Hofmeyr GJ, Styles C: Maternal positions and mobility during first stage labour.Cochrane Database Syst Rev(8):CD003934, 2013.doi: 10.1002/14651858.CD003934.pub3
+6.Aasheim V, et al: Perineal techniques during the second stage of labour for reducing perineal trauma.Cochrane Database Syst Rev6:CD006672, 2017.doi: 10.1002/14651858.CD006672.pub3
+6.Aasheim V, et al: Perineal techniques during the second stage of labour for reducing perineal trauma.Cochrane Database Syst Rev6:CD006672, 2017.doi: 10.1002/14651858.CD006672.pub3
+7.Gupta JK, Sood A, Hofmeyr GJ, et al: Position in the second stage of labour for women without epidural anaesthesia.Cochrane Database Syst Rev5:CD002006, 2017.doi: 10.1002/14651858.CD002006.pub4
+7.Gupta JK, Sood A, Hofmeyr GJ, et al: Position in the second stage of labour for women without epidural anaesthesia.Cochrane Database Syst Rev5:CD002006, 2017.doi: 10.1002/14651858.CD002006.pub4
+8.Obstetric care consensus no. 1: safe prevention of the primary cesarean delivery.Obstet Gynecol.123(3):693-711, 2014.doi:10.1097/01.AOG.0000444441.04111.1d
+8.Obstetric care consensus no. 1: safe prevention of the primary cesarean delivery.Obstet Gynecol.123(3):693-711, 2014.doi:10.1097/01.AOG.0000444441.04111.1d
+9.Lemos A, Amorim MM, Dornelas de Andrade A, et al: Pushing/bearing down methods for the second stage of labour.Cochrane Database Syst Rev3:CD009124, 2017.doi: 10.1002/14651858.CD009124.pub3
+9.Lemos A, Amorim MM, Dornelas de Andrade A, et al: Pushing/bearing down methods for the second stage of labour.Cochrane Database Syst Rev3:CD009124, 2017.doi: 10.1002/14651858.CD009124.pub3

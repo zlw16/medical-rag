@@ -1,0 +1,81 @@
+标题：大动脉转位（TGA）
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-cardiovascular-anomalies/transposition-of-the-great-arteries-tga
+============================================================
+
+（另见先天性心血管畸形概述）
+大动脉的转位（TGA）是一个广泛的术语，包括右旋TGA（d-TGA）和一个罕见的缺陷称为左旋TGA(l-TGA）。
+d-TGA：一种更常见的变异，其中主动脉位于肺动脉的右侧和前部，起源于右心室而不是左心室。
+d-TGA：一种更常见的变异，其中主动脉位于肺动脉的右侧和前部，起源于右心室而不是左心室。
+I-TGA：一种不太常见的变异，其中主动脉定位于左侧和肺动脉前部。这种异常通常与由于原始心管向左循环导致的心室倒置有关，导致通常称为先天性矫正转位的情况。
+I-TGA：一种不太常见的变异，其中主动脉定位于左侧和肺动脉前部。这种异常通常与由于原始心管向左循环导致的心室倒置有关，导致通常称为先天性矫正转位的情况。
+因为 d-TGA是迄今为止最常见的形式，通常简称为转位。本主题讨论了d-TGA，而l-TGA在其他地方讨论。还有其他罕见的大动脉转位的变异，但是 d-TGA和 L-TGA是最常见的。
+大动脉的右旋转位 (见图右旋大动脉转位)占先天性心脏异常的5％至7％。大约30％至40％的患者有室间隔缺损；高达25％有左心室流出道阻塞（肺动脉瓣或肺动脉下部狭窄）。
+
+【右旋大动脉转位】
+右旋大动脉转位
+未氧合血回流到右心并进入主动脉，产生严重发绀
+氧合血回流到左心房后又进入肺循环。右心室肥大，卵圆孔允许少量混合。心房压为平均压。
+AO=主动脉；IVC=下腔静脉；LA=左心房；LV=左心室；PA=肺动脉；PV=肺静脉；RA=右心房；RV=右心室；SVC=上腔静脉。
+
+【TGA的病理生理学】
+大动脉转位的体循环与肺循环是完全独立的。非氧合的静脉血未经肺的氧合自右心泵入体循环，氧合血流入左心，不进入体循环而又回到肺循环。 这种畸形除非有一个或多个通道（例如，房间隔、室间隔、大血管水平）将氧合血和非氧合血混合，否则不能存活。
+
+【TGA的症状和体征】
+出生后几小时内发生严重发绀，组织缺氧状态迅速发展为代谢性酸中毒。中度或大型房间隔缺损、大型室间隔缺损、动脉导管未闭或其组合的患者，紫绀较轻，但可能在生命最初几周出现心力衰竭的症状和体征（如呼吸急促、呼吸困难、心动过速、出汗、体重增长困难）。
+除了全身青紫，体检相当不典型。除非存在其他相关畸形，否则可能并没有心脏杂音。S2单一而响亮。
+
+【TGA的诊断】
+胸片和心电图
+胸片和心电图
+超声心动图
+超声心动图
+大动脉转位的诊断根据临床表现引起怀疑，通过胸片和心电图支持诊断，并通过2维彩色多普勒超声心动图确诊。
+胸片上，心影可能呈现经典的绳蛋征，上纵隔窄。心电图显示右心轴偏曲和右心室肥厚，但对新生儿来说可能是正常的。
+胸部 X 光片显示大动脉转位患者的经典“挂蛋征”外观。
+图片由医学博士珍妮·玛丽·巴法 (Jeanne Marie Baffa) 提供。
+心脏导管检查通常不是诊断所必需的，但可以用于扩大心房通道（球囊房间隔造口术）或进一步阐明复杂的冠状动脉解剖结构。
+
+【TGA的处理】
+前列腺素E1（PGE1）静脉滴注
+前列腺素E1（PGE1）静脉滴注
+有时行球囊房间隔造口术
+有时行球囊房间隔造口术
+外科手术修复
+外科手术修复
+除非动脉血氧饱和度仅是轻微降低，并且心房沟通充分，否则采用PGE1 静脉输注可能有助于开启并维持动脉导管的开放。前列腺素的输注能够增加肺血流量，可促进左至右分流，改善全身氧合作用。然而，如果卵圆孔未闭的开口较小，PGE1可能产生相反效果，因为增加的血液回流到左心房可能关闭卵圆孔瓣，导致血液混合减少，伴随左心房压升高和肺水肿。同时，动脉导管开放可能会降低体循环的血流量。因此，PGE1 必须谨慎使用，必须密切监测患者。
+代谢性酸中毒用碳酸氢钠治疗。
+肺水肿和呼吸衰竭可能需要机械通气支持。
+
+【经验与提示】
+经验与提示
+输注 PGE1 通常对 D-TGA 有帮助，但如果卵圆孔较小，则可能有害。
+输注 PGE1 通常对 D-TGA 有帮助，但如果卵圆孔较小，则可能有害。
+对 PGE1 不能立即产生反应或卵圆孔非常狭窄的严重低氧新生儿，心导管检查和球囊心房隔膜切除术（Rashkind 手术）可立即改善全身动脉血氧饱和度。球囊导管通过未闭卵圆孔进入左房。球囊膨胀并迅速拉回右房，以扩大房间隔开口。作为将新生儿带入导管室的替代方案，可以在床边在超声心动图引导下完成间隔造口术。
+d-TGA的最终修复是大动脉调转（Jatene）手术，通常在出生后的第一周进行。大动脉近端被横切，冠状动脉被移植到原生肺动脉根部，成为新主动脉根部，主动脉与左心室相连，肺动脉与右心室相连。术后生存率>95%。除非室间隔缺损较小且血流动力学无显著影响，否则应在初次修复时关闭。除非是轻度的，否则原发性肺动脉狭窄是有问题的，因为在动脉切换术后，肺动脉狭窄将有效地成为主动脉瓣狭窄。如果肺动脉狭窄中度或严重，可能需要考虑其他手术方案。
+由于新生儿和婴儿冠状动脉移植的技术困难，在1980年代初之前无法进行动脉转换手术（1)。在那个时代之前，D-TGA 患者接受“心房转换”手术，称为 Mustard 或 Senning 手术。该手术重建房间隔并放置房内挡板，将上腔静脉和下腔静脉回流至左心室，肺静脉回流至右心室。有许多 1980 年之前出生的 D-TGA 成年人进行了这种修复（2、3）。然而，这些患者长期出现全身右心室功能障碍、房性心律失常、挡板阻塞等后遗症的发生率非常高。由于这些后遗症，一旦技术上可行，动脉转换程序就成为首选方法。
+对于感染性心内膜炎的预防，建议术前预防，但除非有毗邻手术补片或假体材料存在残留分流，否则只要求在修复后的前6个月内进行预防。
+
+【治疗参考文献】
+1.Castaneda AR, Norwood WI, Jonas RA, et al: Transposition of the great arteries and intact ventricular septum: Anatomical repair in the neonate.Ann Thorac Surg38:438–443, 1984.doi: 10.1016/s0003-4975(10)64181-1
+1.Castaneda AR, Norwood WI, Jonas RA, et al: Transposition of the great arteries and intact ventricular septum: Anatomical repair in the neonate.Ann Thorac Surg38:438–443, 1984.doi: 10.1016/s0003-4975(10)64181-1
+2.Kempny A, Dimopoulos K, Uebing A, et al: Outcome of cardiac surgery in patients with congenital heart disease in England between 1997 and 2015.PLoS One12(6):e0178963, 2017.doi:10.1371/journal.pone.01789631
+2.Kempny A, Dimopoulos K, Uebing A, et al: Outcome of cardiac surgery in patients with congenital heart disease in England between 1997 and 2015.PLoS One12(6):e0178963, 2017.doi:10.1371/journal.pone.01789631
+3.Meadows AK: Transposition of the Great Arteries after Mustard/Senning Repair.Adult Congenital Heart Association June 15, 2016.Accessed November 3, 2011.https://www.achaheart.org/your-heart/health-information/transposition-of-the-great-arteries-after-mustardsenning-repair/
+3.Meadows AK: Transposition of the Great Arteries after Mustard/Senning Repair.Adult Congenital Heart Association June 15, 2016.Accessed November 3, 2011.https://www.achaheart.org/your-heart/health-information/transposition-of-the-great-arteries-after-mustardsenning-repair/
+在大动脉右横位（d-TGA）中，主动脉起源于右心室，肺动脉起源于左心室，导致肺循环和体循环相互独立。
+在大动脉右横位（d-TGA）中，主动脉起源于右心室，肺动脉起源于左心室，导致肺循环和体循环相互独立。
+完全性大动脉转位（d-TGA）若无心房和/或心室间隔缺损或动脉导管未闭导致的血流混合，则无法维持生命。
+完全性大动脉转位（d-TGA）若无心房和/或心室间隔缺损或动脉导管未闭导致的血流混合，则无法维持生命。
+出生后几小时内发生严重发绀，迅速发展为代谢性酸中毒；除非存在其他畸形，否则听诊不能闻及杂音。
+出生后几小时内发生严重发绀，迅速发展为代谢性酸中毒；除非存在其他畸形，否则听诊不能闻及杂音。
+通过给予前列腺素E1 输液，以保持动脉导管开放，有时可采用球囊导管扩大卵圆孔。
+通过给予前列腺素E1 输液，以保持动脉导管开放，有时可采用球囊导管扩大卵圆孔。
+在生后第一周内施行根治手术纠治。
+在生后第一周内施行根治手术纠治。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+American Heart Association: Common Heart Defects: Provides overview of common congenital heart defects for parents and caregivers
+American Heart Association: Common Heart Defects: Provides overview of common congenital heart defects for parents and caregivers
+American Heart Association: Infective Endocarditis: Provides an overview of infective endocarditis, including summarizing prophylactic antibiotic use, for patients and caregivers
+American Heart Association: Infective Endocarditis: Provides an overview of infective endocarditis, including summarizing prophylactic antibiotic use, for patients and caregivers

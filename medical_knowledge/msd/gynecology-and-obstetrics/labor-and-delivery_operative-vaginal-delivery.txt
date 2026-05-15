@@ -1,0 +1,41 @@
+标题：阴道手术助产
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/labor-and-delivery/operative-vaginal-delivery
+============================================================
+
+产钳分娩和胎吸应用指征基本相同：
+第二产程延长（从宫口开全到胎儿娩出）
+第二产程延长（从宫口开全到胎儿娩出）
+疑有胎儿窘迫（如异常胎心率）
+疑有胎儿窘迫（如异常胎心率）
+为保障母亲安全而需缩短第二产程，例如：母亲心功能不全（如左向右分流）或神经系统疾病（如脊髓创伤）导致无法有效屏气，或产妇已精疲力竭
+为保障母亲安全而需缩短第二产程，例如：母亲心功能不全（如左向右分流）或神经系统疾病（如脊髓创伤）导致无法有效屏气，或产妇已精疲力竭
+第二产程延长的定义如下 (1)：
+在初产妇中：使用分娩镇痛4小时或未用分娩镇痛3小时，产程无进展
+在初产妇中：使用分娩镇痛4小时或未用分娩镇痛3小时，产程无进展
+在经产妇中：使用分娩镇痛3小时或未用分娩镇痛2小时，产程无进展
+在经产妇中：使用分娩镇痛3小时或未用分娩镇痛2小时，产程无进展
+助产器械的选择主要取决于使用者的偏好及操作者经验，且差异很大。当胎头衔接程度较低（+2或更低）时使用以上方法助产；此时需要略微牵引或旋转帮助胎头分娩。
+在开始阴道手术助产时，临床医生需要做以下事情：
+确定宫颈完全扩张。
+确定宫颈完全扩张。
+确定胎头先露部位已衔接，胎头位于+2或更低
+确定胎头先露部位已衔接，胎头位于+2或更低
+确定胎膜已破。
+确定胎膜已破。
+确定胎方位适宜阴道手术助产。
+确定胎方位适宜阴道手术助产。
+孕妇排空膀胱
+孕妇排空膀胱
+对骨盆径线进行临床评估（骨盆测量），以明确骨盆是否足以进行阴道手术助产。
+对骨盆径线进行临床评估（骨盆测量），以明确骨盆是否足以进行阴道手术助产。
+还需要知情同意，充分的人员配备和充分的麻醉。新生儿护理团队应对分娩方式高度警惕，以便随时处理各种新生儿并发症。
+禁忌证包括胎头未入盆、胎位不清、某些胎儿疾病如血友病。因可能增加脑室出血的风险，对于孕周<34周的早产儿禁忌胎吸。
+主要并发症为母儿损伤及出血，尤其在操作者缺乏经验或孕妇情况不适宜阴道手术助产的情况下容易发生。使用产钳分娩更容易发生严重的会阴创伤和新生儿瘀伤。肩难产、头颅血肿、黄疸和视网膜出血在真空辅助分娩中更为常见，尽管发生率仍然很低。如果手术阴道分娩导致会阴 3 度或 4 度裂伤，则应在裂伤修复前考虑使用预防性抗生素（2,3）。抗生素可以降低伤口并发症的风险。
+
+【参考文献】
+1.Spong CY, Berghella V, Wenstrom KD, et al: Preventing the first cesarean delivery: Summary of a joint Eunice Kennedy Shriver National Institute of Child Health and Human Development, Society for Maternal-Fetal Medicine, and American College of Obstetricians and Gynecologists Workshop.Obstet Gynecol120 (5):1181–1193, 2012.doi: http://10.1097/AOG.0b013e3182704880
+1.Spong CY, Berghella V, Wenstrom KD, et al: Preventing the first cesarean delivery: Summary of a joint Eunice Kennedy Shriver National Institute of Child Health and Human Development, Society for Maternal-Fetal Medicine, and American College of Obstetricians and Gynecologists Workshop.Obstet Gynecol120 (5):1181–1193, 2012.doi: http://10.1097/AOG.0b013e3182704880
+2.Duggal N, Mercado C, Daniels K, et al: Antibiotic prophylaxis for prevention of postpartum perineal wound complications: A randomized controlled trial.Obstet Gynecol111 (6):1268–1273, 2008. doi: 10.1097/AOG.0b013e31816de8ad
+2.Duggal N, Mercado C, Daniels K, et al: Antibiotic prophylaxis for prevention of postpartum perineal wound complications: A randomized controlled trial.Obstet Gynecol111 (6):1268–1273, 2008. doi: 10.1097/AOG.0b013e31816de8ad
+3.American College of Obstetricians and Gynecologists (ACOG): Practice Bulletin No. 219: Operative vaginal birth.Obstet Gynecol135 (4):e149–e159, 2020. doi: 10.1097/AOG.0000000000003764
+3.American College of Obstetricians and Gynecologists (ACOG): Practice Bulletin No. 219: Operative vaginal birth.Obstet Gynecol135 (4):e149–e159, 2020. doi: 10.1097/AOG.0000000000003764

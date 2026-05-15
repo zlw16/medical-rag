@@ -1,0 +1,25 @@
+标题：声带功能障碍
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/symptoms-of-pulmonary-disorders/vocal-fold-dysfunction
+============================================================
+
+声带功能障碍包括声带矛盾或异常运动，指的是声带在吸气时内收而呼气时外展；由此导致吸气性气道阻塞及喘鸣，通常被误认为是哮喘。
+声带麻痹（单侧或双侧）在其他部分论述。喘鸣患者的常见评估在其他地方论述。
+声带功能异常常见于20～40岁女性。其病因尚不清楚，但它与焦虑、抑郁、创伤后应激障碍和人格障碍有关。这并不被视为人为障碍（即患者并非有意为之）。器质性病变如胃食管反流病（GERD）、非特异性气道刺激物和运动也与间歇性喉梗阻、呼吸困难和嘈杂呼吸有关（1）。
+症状通常为吸气喘鸣和部分相对少见的呼气哮鸣。其他表现可包括声嘶、喉咙发紧、窒息感和咳嗽(2)。
+肺功能检查的流量-容量环特征提示诊断。诊断主要通过直接喉镜观察吸气时声带闭合。一些患者被误诊为哮喘，但对支气管扩张剂或吸入皮质类固醇（糖皮质激素）没有足够的临床反应。
+
+【参考文献】
+1.Morris MJ, Christopher KL: Diagnostic criteria for the classification of vocal cord dysfunction.Chest138(5):1213–1223, 2010.doi:10.1378/chest.09-2944
+1.Morris MJ, Christopher KL: Diagnostic criteria for the classification of vocal cord dysfunction.Chest138(5):1213–1223, 2010.doi:10.1378/chest.09-2944
+2.Christopher KL. Wood, II RP, Eckert RC, et al: Vocal-cord dysfunction presenting as asthma.N Engl J Med308: 1566–1570, 1983.doi: 10.1056/NEJM198306303082605
+2.Christopher KL. Wood, II RP, Eckert RC, et al: Vocal-cord dysfunction presenting as asthma.N Engl J Med308: 1566–1570, 1983.doi: 10.1056/NEJM198306303082605
+
+【声带功能障碍的治疗】
+患者教育
+患者教育
+咨询和言语治疗
+咨询和言语治疗
+治疗相关的器质性病变
+治疗相关的器质性病变
+教育和咨询是重要的措施。转诊到语言治疗师那里接受特殊呼吸技巧的训练，如喘气，可以缓解喘鸣和梗阻发作。与精神病学诊断相关的声带功能障碍通常对这些措施有抵抗性。在这些情况下需要转诊心理治疗。行为疗法也可能有帮助。
+极少情况下，严重病例需行气管切开术治疗。

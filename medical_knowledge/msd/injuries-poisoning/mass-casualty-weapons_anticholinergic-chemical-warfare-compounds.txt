@@ -1,0 +1,38 @@
+标题：抗胆碱能化学战化合物
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/mass-casualty-weapons/anticholinergic-chemical-warfare-compounds
+============================================================
+
+抗胆碱能药物已被用作化学战剂 (1)。它们被归类为失能性毒剂，即不是造成严重伤害或死亡而是引起定向障碍，以阻止军事人员执行任务。一种抗胆碱能化学战剂是3-奎宁环基苯乙酸酯，北约代号BZ。
+BZ是一种固体，可以通过发热炮弹散播而不被灭活。它可在环境中持续存在3至4周。吸入雾化的BZ可能导致大量暴露接触BZ的人员伤亡，虽然化合物也可以溶解在溶剂中，并放置在环境表面从而通过接触皮肤吸收。
+（参见化学战剂概述。)
+
+【参考文献】
+1.Emetarom C, Barrueto F, Nelson LS.Antimuscarinic Agent Attack.InCiottone's Disaster Medicine2024 Jan 1 (pp. 705-707).Elsevier.
+1.Emetarom C, Barrueto F, Nelson LS.Antimuscarinic Agent Attack.InCiottone's Disaster Medicine2024 Jan 1 (pp. 705-707).Elsevier.
+
+【抗胆碱能化学战损伤的病理生理学】
+BZ结合分布在中枢神经系统(CNS)、平滑肌和外分泌腺的毒蕈碱胆碱能受体，从而阻断乙酰胆碱（ACh）。胆碱能刺激减少产生抗胆碱能中毒综合征（见表常见中毒综合征)。
+
+【抗胆碱能化学战损伤的症状和体征】
+患者出现口腔和皮肤干燥，瞳孔散大（导致视物模糊），通常心动过速，并可能发展为高体温。 中枢神经系统的胆碱能阻断引起嗜睡，之后出现特征性的抗胆碱能错觉和幻觉；幻觉可能是视觉或听觉的，通常是具体的并且容易描述的（如认识的人的声音、虚构的电视节目、分享想象中的香烟、奇怪的形状），相比之下迷幻产生的幻觉更加抽象，无法形容的形状和性质。 抗胆碱幻视也可以是缩小（即幻觉物体的大小随着时间的推移减小，如牛变成狗，然后变成老鼠或蝴蝶）。患者可出现构音障碍，表现为刻板的捡拾或拉扯动作（精神涣散），并可能出现虚构。木僵和昏迷可能会持续数小时到数天，并且逐步恢复。
+
+【抗胆碱能化学战损伤的诊断】
+临床评估
+临床评估
+有时使用毒扁豆碱进行诊断性试验
+有时使用毒扁豆碱进行诊断性试验
+通过识别典型的抗胆碱能中毒综合征进行诊断。常规实验室检查无法检测到BZ暴露接触。虽然许多药物和植物有抗胆碱能作用（见表常见中毒综合征），如果大量人群在没有口服抗胆碱能药物或植物的情况下同时出现抗胆碱能中毒综合征提示可能有CW暴露接触。胆碱能药物毒扁豆碱可用作诊断性试验；使用毒扁豆碱后抗胆碱能表现减轻，强力提示存在抗胆碱能化合物。
+大多数暴露接触BZ的伤者可以分诊为可延迟治疗。
+
+【抗胆碱能化学战损伤的治疗】
+支持治疗，包括必要时降温处理
+支持治疗，包括必要时降温处理
+偶尔使用毒扁豆碱 (1, 2)
+偶尔使用毒扁豆碱 (1, 2)
+患者通常是平静的，但也可能比较烦躁，需要安抚并在某些情况下需要约束。体温升高的患者需要降温处理（参见中暑：降温技术)。大多数患者并不需要药物治疗，但那些烦躁或因幻觉而极度痛苦的患者可能需要缓慢给予毒扁豆碱；剂量为成人0.5到20mg iv 和儿童0.02mg/kg iv（见表特定毒物的症状和治疗）。超过推荐剂量可能会导致胆碱能效应，包括癫痫发作。
+
+【治疗参考文献】
+1.Saadi R, Bohnenberger K.Physostigmine for Antimuscarinic Toxicity.J Emerg Nurs.2020;46(1):126-128.doi:10.1016/j.jen.2019.09.002
+1.Saadi R, Bohnenberger K.Physostigmine for Antimuscarinic Toxicity.J Emerg Nurs.2020;46(1):126-128.doi:10.1016/j.jen.2019.09.002
+2.Serrano WC, Maldonado J.The Use of Physostigmine in the Diagnosis and Treatment of Anticholinergic Toxicity After Olanzapine Overdose: Literature Review and Case Report.J Acad Consult Liaison Psychiatry.2021;62(3):285-297.doi:10.1016/j.jaclp.2020.12.013
+2.Serrano WC, Maldonado J.The Use of Physostigmine in the Diagnosis and Treatment of Anticholinergic Toxicity After Olanzapine Overdose: Literature Review and Case Report.J Acad Consult Liaison Psychiatry.2021;62(3):285-297.doi:10.1016/j.jaclp.2020.12.013

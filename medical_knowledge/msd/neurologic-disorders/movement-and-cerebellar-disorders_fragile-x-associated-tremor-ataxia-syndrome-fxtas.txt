@@ -1,0 +1,49 @@
+标题：脆性X染色体相关震颤/共济失调综合征(FXTAS)
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/movement-and-cerebellar-disorders/fragile-x-associated-tremor-ataxia-syndrome-fxtas
+============================================================
+
+（参见运动障碍和小脑疾病概述。）
+脆性X相关震颤/共济失调综合征(FXTAS)是由X染色体上的脆性X智力低下 (FMR1) 基因的前突变(50 ~ 200个CGG重复)引起的。脆性X综合征, 是男性智障的最常见的原因，当突变完全时发病（>200重复）。
+带有前突变的人群为携带者。男性患者的女儿（不是儿子）为携带者。女儿的孩子（男性TXTAS携带者的外孙）有50%的概率会遗传到前突变，也有可能在母亲传到小孩的过程中变成完全突变（导致脆性X综合征）。
+随着年龄的增长和CGG重复次数的增加，患FXTAS的风险也会增加。
+
+【FXTAS的症状和体征】
+FXTAS症状在成年晚期明显。CGG重复序列越多，症状越严重，发病更早。
+震颤, 是FXTAS一种常见的早期症状，易误诊为特发性震颤。 震颤通常是有意的震颤。 患者继而出现共济失调（其逐步恶化），然后帕金森病(包括静息性震颤)，并最终痴呆。
+患有其他 X 染色体疾病的患者（例如，克氏综合征[XXY 核型]）可能有类似特发性震颤的震颤。
+
+【经验与提示】
+经验与提示
+诊断为特发性震颤患者若出现共济失调或帕金森病的迹象，需考虑FXTAS。
+诊断为特发性震颤患者若出现共济失调或帕金森病的迹象，需考虑FXTAS。
+痴呆表现为近事记忆缺失、思维慢及执行功能差。还可能出现抑郁、焦虑、烦躁、敌意及情绪不稳定。
+周围神经病变通常存在，引起下肢感觉和反射的消失 可出现自主神经功能障碍（比如，直立性低血压）。疾病晚期出现大小便失禁。
+运动功能受累后，患者的预期生存期为5～25年。
+由于女性携带者正常的X染色体具有一定的保护作用，故其症状相对较轻。女性携带者提早绝经、不育及卵巢功能障碍的风险较高。
+
+【FXTAS的诊断】
+基因检测
+基因检测
+如果怀疑FXTAS，应该询问患者他们的任何孙子是否有智力残疾和他们的女儿是否有绝经早期或不育。
+此外，如果患者患有脆性 X 综合征，临床医生应确定患者的祖父母是否有提示 FXTAS 的症状；如果是这样，建议对祖父母的子女和孙子女进行遗传咨询。
+MRI可识别特征性的小脑脚中部信号的增强。
+诊断FXTAS是通过基因检测确诊的。
+
+【FXTAS的治疗】
+扑米酮、普萘洛尔、托吡酯、加巴喷丁、普瑞巴林、苯二氮卓类药物和/或抗帕金森药物
+扑米酮、普萘洛尔、托吡酯、加巴喷丁、普瑞巴林、苯二氮卓类药物和/或抗帕金森药物
+扑米酮、普萘洛尔、托吡酯、加巴喷丁、普瑞巴林、苯二氮卓类药物和/或抗帕金森药物；剂量尚未标准化（1,2）。
+
+【治疗参考文献】
+1.Hall DA, Berry-Kravis E, Hagerman RJ, et al: Symptomatic treatment in the fragile X-associated tremor/ataxia syndrome.Mov Disord21 (10):1741–1744, 2006.doi: 10.1002/mds.21001
+1.Hall DA, Berry-Kravis E, Hagerman RJ, et al: Symptomatic treatment in the fragile X-associated tremor/ataxia syndrome.Mov Disord21 (10):1741–1744, 2006.doi: 10.1002/mds.21001
+2.Cabal-Herrera AM, Tassanakijpanich N, Salcedo-Arellano MJ, Hagerman RJ: Fragile X-associated tremor/ataxia syndrome (FXTAS): Pathophysiology and clinical implications.Int J Mol Sci21 (12): 4391, 2020.Published online 2020 Jun 20.doi: 10.3390/ijms21124391
+2.Cabal-Herrera AM, Tassanakijpanich N, Salcedo-Arellano MJ, Hagerman RJ: Fragile X-associated tremor/ataxia syndrome (FXTAS): Pathophysiology and clinical implications.Int J Mol Sci21 (12): 4391, 2020.Published online 2020 Jun 20.doi: 10.3390/ijms21124391
+脆性X相关震颤/共济失调综合征（FXTAS）影响约1/3000的50岁以上男性；脆性X综合征是男性智力残疾的最常见原因，当基因突变完全（重复次数更多）时就会发生。
+脆性X相关震颤/共济失调综合征（FXTAS）影响约1/3000的50岁以上男性；脆性X综合征是男性智力残疾的最常见原因，当基因突变完全（重复次数更多）时就会发生。
+如果怀疑FXTAS，应该询问患者他们的任一孙辈是否有智力残疾和他们的女儿是否有绝经早期或不育。而且，应该询问脆性X染色体综合症父母，祖父母是否有症状提示FXTAS
+如果怀疑FXTAS，应该询问患者他们的任一孙辈是否有智力残疾和他们的女儿是否有绝经早期或不育。而且，应该询问脆性X染色体综合症父母，祖父母是否有症状提示FXTAS
+基因检测可明确诊断。
+基因检测可明确诊断。
+用普瑞米酮、普萘洛尔、托吡酯、加巴喷丁、普瑞巴林、苯二氮卓类和/或抗帕金森病药物治疗震颤。
+用普瑞米酮、普萘洛尔、托吡酯、加巴喷丁、普瑞巴林、苯二氮卓类和/或抗帕金森病药物治疗震颤。

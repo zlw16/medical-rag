@@ -1,0 +1,54 @@
+标题：前庭神经鞘瘤
+来源：https://www.msdmanuals.cn/professional/ear-nose-and-throat-disorders/inner-ear-disorders/vestibular-schwannoma
+============================================================
+
+听神经瘤一般起源于第Ⅷ脑神经的前庭分支，大约占颅内肿瘤的8％ (1)。根据不同人群的发病率数据（每10万人3至21例），散发性前庭神经鞘瘤的终生患病率在全球范围内约超过1/500，高于以往的报告（2）。前庭神经鞘瘤起源于雪旺细胞的神经周成分，并与周围神经鞘瘤具有相似的病理特征。随着肿瘤的扩展，肿瘤可从内听道延伸至桥脑小脑角，并且压迫第Ⅶ与第Ⅷ脑神经。随着肿瘤进一步增大，小脑、脑干与邻近脑神经（第Ⅴ和第Ⅸ至第Ⅻ脑神经）也会受到压迫。
+双侧听神经瘤在2型神经纤维瘤病患者中多见。
+
+【参考文献】
+1.Carlson ML, Link MJ.Vestibular Schwannomas.N Engl J Med.2021;384(14):1335-1348.doi:10.1056/NEJMra2020394
+1.Carlson ML, Link MJ.Vestibular Schwannomas.N Engl J Med.2021;384(14):1335-1348.doi:10.1056/NEJMra2020394
+2.Marinelli JP, Beeler CJ, Carlson ML, Caye-Thomasen P, Spear SA, Erbele ID.Global Incidence of Sporadic Vestibular Schwannoma: A Systematic Review.Otolaryngol Head Neck Surg.2022;167(2):209-214.doi:10.1177/01945998211042006
+2.Marinelli JP, Beeler CJ, Carlson ML, Caye-Thomasen P, Spear SA, Erbele ID.Global Incidence of Sporadic Vestibular Schwannoma: A Systematic Review.Otolaryngol Head Neck Surg.2022;167(2):209-214.doi:10.1177/01945998211042006
+
+【前庭神经鞘瘤的症状和体征】
+缓慢的渐进性单侧感音神经性听力损失是听神经瘤特征性症状。然而，听力损失的发生可以是突然性的，并且听力损害的程度可呈波动性。其他早期症状包括单侧耳鸣、眩晕和平衡失调。可能出现进行性占位效应（例如，头痛、耳内压迫感或胀满感、耳痛、三叉神经痛，以及因面神经受累导致的面部麻木或无力）。
+
+【前庭神经鞘瘤的诊断】
+临床病史
+临床病史
+增强MRI
+增强MRI
+有时进行鼓室图检查、听觉脑干反应测试和冷热试验
+有时进行鼓室图检查、听觉脑干反应测试和冷热试验
+有时需进行基因检测
+有时需进行基因检测
+出现进行性单侧听力下降病史时，应提高对前庭神经鞘瘤的临床警惕性。最常见的是，听力图是诊断前庭神经鞘瘤的首选测试。它通常会表现为非对称性感音神经性听力损失和与听力损失程度不相称的更为严重的言语识别率下降。这样的结果提示需要行影像学检查，特别是钆增强MRI。然而，有些肿瘤是在因为其他原因做脑部成像时偶然发现的。
+其他发现包括鼓室图检查显示声反射衰减。听觉脑干反应测试可能显示波形的缺失和/或第5个波形的延迟增加。
+尽管冷热试验不用于常规评估不对称感音神经性听力损失患者，但可以揭示患侧明显的前庭功能减退（半规管轻瘫）。
+30岁以下患有单侧神经鞘瘤或双侧神经鞘瘤的患者应进行NF2突变基因检测，以排除神经纤维瘤病(1)。
+
+【诊断参考文献】
+1.Pathmanaban ON, Sadler KV, Kamaly-Asl ID, et al.Association of Genetic Predisposition With Solitary Schwannoma or Meningioma in Children and Young Adults.JAMA Neurol.2017;74(9):1123-1129.doi:10.1001/jamaneurol.2017.1406
+1.Pathmanaban ON, Sadler KV, Kamaly-Asl ID, et al.Association of Genetic Predisposition With Solitary Schwannoma or Meningioma in Children and Young Adults.JAMA Neurol.2017;74(9):1123-1129.doi:10.1001/jamaneurol.2017.1406
+
+【前庭神经鞘瘤的治疗】
+观察随访
+观察随访
+有时选择性采用手术切除或立体定向放疗
+有时选择性采用手术切除或立体定向放疗
+有时需要进行康复治疗
+有时需要进行康复治疗
+对于体积较小、无症状且无生长的前庭神经鞘瘤，无需进行治疗；此类肿瘤可通过系列MRI扫描进行观察，若开始生长或引发症状则需干预治疗；该方法被称为“观察与随访”策略(1)。选择采用立体定向放射治疗（例如伽玛刀或射波刀放射治疗）还是常规显微手术，取决于多种因素，包括残余听力水平、肿瘤大小、患者年龄与健康状况以及患者意愿。立体定向放射治疗可用于无显著脑干受压的小或中等大小肿瘤。放射治疗通常适用于年长患者或因医疗原因无法接受手术的患者。显微外科手术用于保留听力术式（颅中窝进路或乙状窦后进路）或无有效残存听力的迷路进路术式。偶尔，某些患者需要康复治疗，特别是那些经历长期面神经麻痹、双侧听力丧失或持续头晕和不平衡的患者。
+
+【参考文献】
+1.Carlson ML, Link MJ.Vestibular Schwannomas.N Engl J Med.2021;384(14):1335-1348.doi:10.1056/NEJMra2020394
+1.Carlson ML, Link MJ.Vestibular Schwannomas.N Engl J Med.2021;384(14):1335-1348.doi:10.1056/NEJMra2020394
+听神经瘤通常是单侧的，但2型神经纤维瘤病也可以是双侧的。
+听神经瘤通常是单侧的，但2型神经纤维瘤病也可以是双侧的。
+单侧听力丧失，有时伴有耳鸣和头晕，是典型症状。
+单侧听力丧失，有时伴有耳鸣和头晕，是典型症状。
+采取立体定位放射治疗或常规显微外科手术治疗较大和或有症状的肿瘤。
+采取立体定位放射治疗或常规显微外科手术治疗较大和或有症状的肿瘤。
+较小、无症状且不生长的肿瘤可通过定期MRI扫描随访观察。
+较小、无症状且不生长的肿瘤可通过定期MRI扫描随访观察。

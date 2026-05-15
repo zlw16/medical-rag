@@ -1,0 +1,135 @@
+标题：结肠憩室病
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/diverticular-disease/colonic-diverticulosis
+============================================================
+
+结肠憩室是指结肠黏膜和黏膜下层经结肠肌层向外突出的囊状袋;因其不包含肠壁全层，故被认为是假性憩室（参见憩室病的定义)。
+此图像显示结肠中的多个憩室。
+Image provided by David M.Martin, MD.
+虽然憩室可以发生在大肠的任何部位，但通常发生在乙状结肠。憩室很少发生在腹膜反折以下并累及直肠。憩室直径有所不同，但通常为3至10mm大小。巨大憩室被定义为直径＞4cm的憩室，极为罕见；据报道，其直径可达25cm。结肠憩室患者通常有多个憩室。
+随着年龄增加，憩室病变更为常见 (1)。
+
+【参考文献】
+1.Tursi A, Scarpignato C, Strate LL, et al.Colonic diverticular disease [published correction appears in Nat Rev Dis Primers. 2020 Apr 29;6(1):35. doi: 10.1038/s41572-020-0176-y] [published correction appears inNat Rev Dis Primers. 2020 Jun 17;6(1):50. doi: 10.1038/s41572-020-0192-y].Nat Rev Dis Primers.2020;6(1):20.Published 2020 Mar 26.doi:10.1038/s41572-020-0153-5
+1.Tursi A, Scarpignato C, Strate LL, et al.Colonic diverticular disease [published correction appears in Nat Rev Dis Primers. 2020 Apr 29;6(1):35. doi: 10.1038/s41572-020-0176-y] [published correction appears inNat Rev Dis Primers. 2020 Jun 17;6(1):50. doi: 10.1038/s41572-020-0192-y].Nat Rev Dis Primers.2020;6(1):20.Published 2020 Mar 26.doi:10.1038/s41572-020-0153-5
+
+【结肠憩室病的病因】
+结肠憩室病的病因是多因素的，尚不完全清楚。
+有症状的憩室病与环境因素之间可能存在相关性，例如低纤维饮食或高红肉饮食、久坐不动的生活方式、肥胖、吸烟以及使用非甾体类抗炎药 (NSAIDs)、阿司匹林、皮质类固醇和阿片类药物。
+其他可能的风险因素包括遗传因素和结肠壁结构和运动的改变。
+憩室的形成可能是由于肠腔内压力增高使得黏膜经肠壁肌层最薄弱处—即邻近腔内血管的区域，向外突出。
+巨大憩室病因尚不清楚。一种理论认为，狭窄的颈部开口会导致球阀效应，引起开口间歇性阻塞，导致憩室扩大。一个非常大的巨大憩室往往是一个较小憩室的真性穿孔，该穿孔被包裹、局限，并由肉芽组织为主要内衬覆盖而形。
+
+【结肠憩室病的症状和体征】
+大约80%的憩室病患者无症状或只有间歇性便秘。当发生炎症或出血性并发症时，约20％会出现疼痛或出血等症状 (1)。
+憩室病患者有时会出现非特异性胃肠道症状，包括腹痛、腹胀、便秘、腹泻和直肠黏液排出。这个症候群有时被称为有症状的单纯性憩室病（SUDD）。 但是，一些专家认为这些症状是由于另一种疾病（例如，肠易激综合征），并且憩室的存在是巧合而不是病因。
+
+【憩室病的并发症】
+结肠憩室病的并发症在吸烟、肥胖、感染艾滋病毒、使用非甾体抗炎药或正在接受癌症化疗的人群中更为常见。 15％至20％的患者产生并发症，包括
+憩室出血
+憩室出血
+憩室病相关性节段性结肠炎（SCAD）
+憩室病相关性节段性结肠炎（SCAD）
+憩室炎是憩室的疼痛性炎症。憩室炎可能是单纯性或复杂性的。
+10～15％的憩室病患者会发生憩室出血。
+憩室病相关性节段性结肠炎（SCAD）指少数憩室病患者出现结肠炎的表现（例如，便血、腹痛、腹泻）。憩室病在其中致病的程度尚不清楚。
+
+【憩室出血】
+憩室出血是成人下消化道出血最常见的原因（高达50％）。一项研究表明，憩室病引起的下消化道出血累积发生率在5年时约为2%，在10年时约为10%（2）。
+憩室出血的病理生理学机制未知，但有几种机制假说，包括
+憩室中嵌顿的粪便引起局部创伤，可侵蚀邻近血管
+憩室中嵌顿的粪便引起局部创伤，可侵蚀邻近血管
+憩室扩大，可以拉伸（并最终撕裂）血管
+憩室扩大，可以拉伸（并最终撕裂）血管
+据报道，NSAIDs会增加出血风险。
+虽然大多数憩室位于远端（左）结肠，但三分之二的憩室出血发生在近端（右）结肠的憩室(3)。 全结肠憩室病患者出血的发生率更高。
+憩室出血表现为无痛性便血。由于出血血管是小动脉，通常会出现中重度失血。典型表现为鲜血便或褐红色粪便；右侧憩室出血很少表现为黑便。憩室出血通常不伴有憩室炎。
+这张照片显示了一个憩室，其中有一根凝血血管（左侧），导致了下消化道出血。在结肠镜检查期间放置内夹（右）止血。
+Photos courtesy of Drs.Joel A.Baum and Rafael A.Ching Companioni.
+大多数出血事件会自行停止。其余需要干预，通常是内镜干预（另见美国胃肠病学会的2023年更新的急性下消化道出血患者管理实践指南）。
+曾有过一次憩室出血的患者再次出血的风险增加。憩室出血发作后，8个月内再出血的风险高达47%。
+
+【症状和体征参考】
+1.Comparato G, Pilotto A, Franzè A, Franceschi M, Di Mario F.Diverticular disease in the elderly.Dig Dis.2007;25(2):151-159.doi:10.1159/000099480
+1.Comparato G, Pilotto A, Franzè A, Franceschi M, Di Mario F.Diverticular disease in the elderly.Dig Dis.2007;25(2):151-159.doi:10.1159/000099480
+2.Niikura R, Nagata N, Shimbo T, et al.Natural history of bleeding risk in colonic diverticulosis patients: A long-term colonoscopy-based cohort study.Aliment Pharmacol Ther41(9):888–894, 2015.doi: 10.1111/apt.13148
+2.Niikura R, Nagata N, Shimbo T, et al.Natural history of bleeding risk in colonic diverticulosis patients: A long-term colonoscopy-based cohort study.Aliment Pharmacol Ther41(9):888–894, 2015.doi: 10.1111/apt.13148
+3.Mohammed Ilyas MI, Szilagy EJ.Management of Diverticular Bleeding: Evaluation, Stabilization, Intervention, and Recurrence of Bleeding and Indications for Resection after Control of Bleeding.Clin Colon Rectal Surg.2018;31(4):243-250.doi:10.1055/s-0037-1607963
+3.Mohammed Ilyas MI, Szilagy EJ.Management of Diverticular Bleeding: Evaluation, Stabilization, Intervention, and Recurrence of Bleeding and Indications for Resection after Control of Bleeding.Clin Colon Rectal Surg.2018;31(4):243-250.doi:10.1055/s-0037-1607963
+
+【结肠憩室病的诊断】
+通常需结肠镜或CT检查
+通常需结肠镜或CT检查
+无症状憩室通常是在结肠镜检查、胶囊内镜检查、钡剂灌肠、CT或MRI中偶然发现的。
+穿过骨盆的轴向横截面CT图像显示憩室病的典型外观（乙状结肠壁的暗区）。
+如果发生无痛性直肠出血，尤其老年患者或有憩室病史的患者，要怀疑是否存在憩室导致的下消化道出血。评估下消化道出血通常包括结肠镜检查，可在快速结肠准备后完成：在3-4小时内经口服（理想情况下通过鼻胃管）给予4~6L聚乙二醇溶液，直至直肠流出物不含血液和粪便。憩室出血的内窥镜发现范围从活动性出血到非出血的可见血管（NBVV）、难以冲洗掉的粘附血凝块以及黑色扁平斑点。确诊憩室出血的概率为 25%（1，2）。
+如果结肠镜下无法确定出血部位，并且持续出血速度很快（>0.5～1 mL/min），可行CT血管造影或放射性核素成像定位。
+
+【诊断参考】
+1.Jensen DM. Endoscopic Diagnosis and Treatment of Colonic Diverticular Bleeding.Gastrointest Endosc Clin N Am.2024;34(2):345-361.doi:10.1016/j.giec.2023.10.002
+1.Jensen DM. Endoscopic Diagnosis and Treatment of Colonic Diverticular Bleeding.Gastrointest Endosc Clin N Am.2024;34(2):345-361.doi:10.1016/j.giec.2023.10.002
+2.Sengupta N, Feuerstein JD, Jairath V, et al.Management of Patients With Acute Lower Gastrointestinal Bleeding: An Updated ACG Guideline.Am J Gastroenterol.2023;118(2):208-231.doi:10.14309/ajg.0000000000002130
+2.Sengupta N, Feuerstein JD, Jairath V, et al.Management of Patients With Acute Lower Gastrointestinal Bleeding: An Updated ACG Guideline.Am J Gastroenterol.2023;118(2):208-231.doi:10.14309/ajg.0000000000002130
+
+【结肠憩室病的治疗】
+无症状性憩室病无需治疗
+无症状性憩室病无需治疗
+具体症状管理
+具体症状管理
+憩室出血按下消化道出血治疗
+憩室出血按下消化道出血治疗
+无症状憩室病患者无需治疗或改变饮食。进食坚果，果仁，玉米或爆米花与憩室炎，憩室出血或单纯性憩室病之间没有关联，不再推荐回避这些食物。NSAIDs和阿片类镇痛药可能会增加憩室穿孔和出血的风险，因此这些药物只能在适当谨慎的情况下以及与患者广泛讨论风险后使用。
+对于有非特异性胃肠道症状的憩室病,治疗旨在减少结肠节段性痉挛。常推荐高纤维饮食，并可补充洋车前子制剂或麦麸，同时保证充足的液体摄入。然而，纤维素在治疗憩室病中的作用是有限的。总之，尚无足够数据以证实纤维素的有益效果。便秘患者应考虑使用容积性泻药（另见英国国家卫生与临床优化研究所2019年憩室病诊断与管理指南）。 解痉药（如颠茄）无效，且可导致不良反应。低渣饮食无效。除巨大憩室之外，无并发症的患者无手术指征。
+
+【经验与提示】
+经验与提示
+进食坚果，果仁，玉米或爆米花与憩室炎，憩室出血或单纯性憩室病之间没有关联，不再推荐回避这些食物。
+进食坚果，果仁，玉米或爆米花与憩室炎，憩室出血或单纯性憩室病之间没有关联，不再推荐回避这些食物。
+
+【憩室出血的治疗】
+75% 的憩室出血会自行停止。最初的治疗方法与下消化道出血相同。憩室出血的治疗常在诊断过程中进行。
+对于下消化道少量出血的患者以及临床上出血已停止的患者，在充分结肠准备后，应首先进行结肠镜检查。对于这些患者，当下消化道出血已消退，且患者在一年内进行了准备充分的结肠镜检查，结果显示憩室病，但没有结直肠癌或其他可能的消化道出血病因（如血管扩张、息肉切除术后出血），则应考虑不进行结肠镜检查进行观察。
+结肠镜检查发现近期出血的征象（活动性出血、附着血块、黑斑和可见血管），可采取内镜下治疗来控制出血，包括肾上腺素注射、应用内镜夹或纤维蛋白密封剂、热探头或双极电凝以及套扎。确诊结肠憩室出血经内镜治疗的患者早期和晚期复发出血率均低于经保守治疗的推定结肠憩室出血患者（1)。
+对于持续存在血流动力学显著的下消化道出血的患者，应首先进行 CT 血管造影检查；然而，对于出血量较少或无持续出血临床证据的患者，该检查的诊断效果较低。在血管造影术期间，多种技术可用于控制出血，尤其是栓塞。栓塞成功率约80％。采用目前的超选择性插管技术，肠缺血或梗塞的血管造影并发症较少见（<5％）(2)。
+很少需要手术，但推荐用于多次或持续发生难治性憩室出血的患者，或者进行了积极复苏但仍有血流动力学不稳定的患者。
+如果正在考虑进行血管造影或手术，在活动性出血期间通过内窥镜或核医学检查以确定出血憩室，为介入放射科医师提供参考，并可能限制手术切除部位的大小。当出血部位已知时，因可以进行半结肠切除术或节段性结肠切除术，因此对次全结肠切除术（该术式有较高发病率和死亡率）的需求明显减少。然而，持续存在威胁生命的出血且无可识别的出血憩室的患者可能需要次全结肠切除术。出血部位定位不明确的憩室出血患者，结肠手术后的死亡率为43%，而出血部位定位明确的患者手术后的死亡率为7%（3）。
+
+【治疗参考文献】
+1.Gobinet-Suguro M, Nagata N, Kobayashi K, et al.Treatment strategies for reducing early and late recurrence of colonic diverticular bleeding based on stigmata of recent hemorrhage: A large multicenter study.Gastrointest Endosc.2022;95(6):1210–1222.e12.doi:10.1016/j.gie.2021.12.023
+1.Gobinet-Suguro M, Nagata N, Kobayashi K, et al.Treatment strategies for reducing early and late recurrence of colonic diverticular bleeding based on stigmata of recent hemorrhage: A large multicenter study.Gastrointest Endosc.2022;95(6):1210–1222.e12.doi:10.1016/j.gie.2021.12.023
+2.Sengupta N, Feuerstein JD, Jairath V, et al.Management of Patients With Acute Lower Gastrointestinal Bleeding: An Updated ACG Guideline. Am J Gastroenterol.2023;118(2):208-231.doi:10.14309/ajg.0000000000002130
+2.Sengupta N, Feuerstein JD, Jairath V, et al.Management of Patients With Acute Lower Gastrointestinal Bleeding: An Updated ACG Guideline. Am J Gastroenterol.2023;118(2):208-231.doi:10.14309/ajg.0000000000002130
+3.Schultz JK, Azhar N, Binda GA, et al.European Society of Coloproctology: Guidelines for the management of diverticular disease of the colon.Colorectal Dis.2020;22(supplement 2):S5–S28.doi:10.1111/codi.15140
+3.Schultz JK, Azhar N, Binda GA, et al.European Society of Coloproctology: Guidelines for the management of diverticular disease of the colon.Colorectal Dis.2020;22(supplement 2):S5–S28.doi:10.1111/codi.15140
+结肠憩室是指结肠向外突出的囊状黏膜突起。
+结肠憩室是指结肠向外突出的囊状黏膜突起。
+憩室病随着年龄的增长越来越常见；超过60%的70岁以上的老年人存在这种情况。
+憩室病随着年龄的增长越来越常见；超过60%的70岁以上的老年人存在这种情况。
+憩室病通常无症状，但约20％的患者会出现症状和/或并发症，包括炎症（憩室炎）和下消化道出血。
+憩室病通常无症状，但约20％的患者会出现症状和/或并发症，包括炎症（憩室炎）和下消化道出血。
+无症状的憩室病无需治疗。
+无症状的憩室病无需治疗。
+憩室出血在大多数患者中会自行停止；其余患者可通过结肠镜检查或血管造影时进行治疗来控制，很少需要手术。
+憩室出血在大多数患者中会自行停止；其余患者可通过结肠镜检查或血管造影时进行治疗来控制，很少需要手术。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+American College of Gastroenterology (ACG):Management of Patients With Acute Lower Gastrointestinal Bleeding: An Updated ACG Guideline(2023)
+American College of Gastroenterology (ACG):Management of Patients With Acute Lower Gastrointestinal Bleeding: An Updated ACG Guideline(2023)
+National Institute for Health and Care Excellence (NICE):Diverticular disease: Diagnosis and management(2019)
+National Institute for Health and Care Excellence (NICE):Diverticular disease: Diagnosis and management(2019)
+
+【有症状的单纯性憩室病（SUDD）】
+有症状的单纯性憩室病是指憩室病患者存在持续性和复发性非特异性腹部症状，但无明显的结肠炎或憩室炎。
+有症状的单纯性憩室病是指憩室病患者存在持续性和复发性非特异性腹部症状，但无明显的结肠炎或憩室炎。
+一些医疗专家认为有症状的单纯性憩室病（SUDD）是肠易激综合征（IBS）的一种形式，在憩室病患者中偶然发生。
+SUDD患者左下腹部腹痛，伴有腹胀，便秘，腹泻或直肠黏液排出。一般来说，并发症的发生率非常低。
+SUDD的诊断很困难，因为肠易激综合征和SUDD之间的区别并不明显。
+目前尚无关于SUDD患者治疗的强有力的循证数据（1,2）。一些控制症状的建议包括使用益生菌、高纤维饮食、肠道导向抗生素和美沙拉嗪（3）。
+
+【参考文献】
+1.Elisei W, Tursi A.Recent advances in the treatment of colonic diverticular disease and prevention of acute diverticulitis.Ann Gastroenterol.2016;29(1):24–32.PMID: 26752946
+1.Elisei W, Tursi A.Recent advances in the treatment of colonic diverticular disease and prevention of acute diverticulitis.Ann Gastroenterol.2016;29(1):24–32.PMID: 26752946
+2.Boynton W, Floch M.New strategies for the management of diverticular disease: Insights for the clinician.Therap Adv Gastroenterol.2013;6(3):205–213.doi:10.1177/1756283X13478679
+2.Boynton W, Floch M.New strategies for the management of diverticular disease: Insights for the clinician.Therap Adv Gastroenterol.2013;6(3):205–213.doi:10.1177/1756283X13478679
+3.Calini G, Abd El Aziz MA, Paolini L, et al.Symptomatic Uncomplicated Diverticular Disease (SUDD): Practical Guidance and Challenges for Clinical Management.Clin Exp Gastroenterol.2023;16:29-43.Published 2023 Mar 28.doi:10.2147/CEG.S340929
+3.Calini G, Abd El Aziz MA, Paolini L, et al.Symptomatic Uncomplicated Diverticular Disease (SUDD): Practical Guidance and Challenges for Clinical Management.Clin Exp Gastroenterol.2023;16:29-43.Published 2023 Mar 28.doi:10.2147/CEG.S340929

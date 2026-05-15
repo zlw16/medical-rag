@@ -1,0 +1,111 @@
+标题：合成雄激素类固醇
+来源：https://www.msdmanuals.cn/professional/endocrine-and-metabolic-disorders/male-reproductive-endocrinology-and-related-disorders/anabolic-androgenic-steroids
+============================================================
+
+同化类固醇（又称同化雄性类固醇或AASs）包括睾酮及其化学与药理学相关药物（如双氢睾酮[DHT]、脱氢表雄酮[DHEA]、雄烯二酮、氟甲睾酮、诺龙），用于增强体能表现和促进肌肉生长。
+合成代谢类固醇用于增加肌肉质量和力量；抗阻训练及特定饮食可增强这些效果。目前尚无直接证据表明合成雄激素类固醇（AASs）可提高耐力或速度，但有大量轶事证据显示，使用者能进行更频繁的高强度训练。如果使用不恰当，长期大剂量使用而缺乏医学监测时，可引起偏执和失去理性的行为以及生理上广泛的不良作用。
+在涉及成人和青少年的研究中，估计一生中滥用AAS的发生率在女性中约为2%，在男性中约为6%（1）。美国青少年专项研究中的总体发生率与性别差异与此相似（2、3、4）。
+睾酮的医学适应证包括成人男性性腺功能减退、儿童、青春期延迟、克氏综合征及性别焦虑。睾酮虽未被明确推荐但广泛用于年龄相关性睾酮低下治疗；该适应证的风险与收益见各类专业指南（5、6）。一些医生会给因严重 HIV 感染或癌症而出现消瘦的患者开合成代谢类固醇（AASs）。但是，少有数据表明雄激素治疗的有效性，而且也缺少这类治疗的指导意见 (7,8)。此外，由于 AASs 具有抗分解代谢作用并能提高蛋白质利用率，因此有时用于预防严重烧伤、卧床不起或其他虚弱患者的肌肉萎缩。睾酮已被理论认为有利于伤口愈合和肌肉损伤，尽管支持这些说法的数据很少。AASs未被公认可用于治疗肌肉变形类躯体变形障碍（9）。
+在美国，大多数AASs受《受控物质法》（Controlled Substances Act）管制，没有处方持有AASs是非法的。
+
+【参考文献】
+1.Sagoe D, Molde H, Andreassen CS, Torsheim T, Pallesen S.The global epidemiology of anabolic-androgenic steroid use: a meta-analysis and meta-regression analysis.Ann Epidemiol2014;24(5):383-398.doi:10.1016/j.annepidem.2014.01.009
+1.Sagoe D, Molde H, Andreassen CS, Torsheim T, Pallesen S.The global epidemiology of anabolic-androgenic steroid use: a meta-analysis and meta-regression analysis.Ann Epidemiol2014;24(5):383-398.doi:10.1016/j.annepidem.2014.01.009
+2.Pope HG Jr, Kanayama G, Athey A, Ryan E, Hudson JI, Baggish A.The lifetime prevalence of anabolic-androgenic steroid use and dependence in Americans: current best estimates.Am J Addict2014;23(4):371-377.doi:10.1111/j.1521-0391.2013.12118.x
+2.Pope HG Jr, Kanayama G, Athey A, Ryan E, Hudson JI, Baggish A.The lifetime prevalence of anabolic-androgenic steroid use and dependence in Americans: current best estimates.Am J Addict2014;23(4):371-377.doi:10.1111/j.1521-0391.2013.12118.x
+3.Kersey RD, Elliot DL, Goldberg L, et al.National Athletic Trainers' Association position statement: anabolic-androgenic steroids.J Athl Train2012;47(5):567-588.doi:10.4085/1062-6050-47.5.08
+3.Kersey RD, Elliot DL, Goldberg L, et al.National Athletic Trainers' Association position statement: anabolic-androgenic steroids.J Athl Train2012;47(5):567-588.doi:10.4085/1062-6050-47.5.08
+4.LaBotz M, Griesemer BA; COUNCIL ON SPORTS MEDICINE AND FITNESS.Use of Performance-Enhancing Substances.Pediatrics2016;138(1):e20161300.doi:10.1542/peds.2016-1300
+4.LaBotz M, Griesemer BA; COUNCIL ON SPORTS MEDICINE AND FITNESS.Use of Performance-Enhancing Substances.Pediatrics2016;138(1):e20161300.doi:10.1542/peds.2016-1300
+5.Kanakis GA, Pofi R, Goulis DG, et al.EMAS position statement:Testosteronereplacement therapy in older men.Maturitas2023;178:107854.doi:10.1016/j.maturitas.2023.107854
+5.Kanakis GA, Pofi R, Goulis DG, et al.EMAS position statement:Testosteronereplacement therapy in older men.Maturitas2023;178:107854.doi:10.1016/j.maturitas.2023.107854
+6.Mulhall JP, Trost LW, Brannigan RE, et al.Evaluation and Management ofTestosteroneDeficiency: AUA Guideline.J Urol2018;200(2):423-432.doi:10.1016/j.juro.2018.03.115
+6.Mulhall JP, Trost LW, Brannigan RE, et al.Evaluation and Management ofTestosteroneDeficiency: AUA Guideline.J Urol2018;200(2):423-432.doi:10.1016/j.juro.2018.03.115
+7.Moyle GJ, Schoelles K, Fahrbach K, et al.Efficacy of selected treatments of HIV wasting: a systematic review and meta-analysis.J Acquir Immune Defic Syndr2004;37 Suppl 5:S262-S276.doi:10.1097/01.qai.0000144381.09350.5b
+7.Moyle GJ, Schoelles K, Fahrbach K, et al.Efficacy of selected treatments of HIV wasting: a systematic review and meta-analysis.J Acquir Immune Defic Syndr2004;37 Suppl 5:S262-S276.doi:10.1097/01.qai.0000144381.09350.5b
+8.Roeland EJ, Bohlke K, Baracos VE, et al.Management of Cancer Cachexia: ASCO Guideline.J Clin Oncol2020;38(21):2438-2453.doi:10.1200/JCO.20.00611
+8.Roeland EJ, Bohlke K, Baracos VE, et al.Management of Cancer Cachexia: ASCO Guideline.J Clin Oncol2020;38(21):2438-2453.doi:10.1200/JCO.20.00611
+9.Castle D, Beilharz F, Phillips KA, et al.Body dysmorphic disorder: a treatment synthesis and consensus on behalf of the International College of Obsessive-Compulsive Spectrum Disorders and the Obsessive Compulsive and Related Disorders Network of the European College of Neuropsychopharmacology.Int Clin Psychopharmacol2021;36(2):61-75.doi:10.1097/YIC.0000000000000342
+9.Castle D, Beilharz F, Phillips KA, et al.Body dysmorphic disorder: a treatment synthesis and consensus on behalf of the International College of Obsessive-Compulsive Spectrum Disorders and the Obsessive Compulsive and Related Disorders Network of the European College of Neuropsychopharmacology.Int Clin Psychopharmacol2021;36(2):61-75.doi:10.1097/YIC.0000000000000342
+
+【合成代谢雄激素类固醇使用引起的病理生理学】
+合成类固醇具有雄激素样作用（例如：毛发、性欲的改变，具有挑衅性）和促进合成代谢的作用（增加蛋白质的合成、肌肉群的形成）。雄激素样作用不会单独出现，现在已经合成一些能将雄激素样作用降到最低的类固醇。
+
+【慢性作用】
+单一剂量的急性毒性是有限的合成代谢雄性类固醇的不良反应因剂量和药物而异。 只有很少一部分的药物在生理替代剂量时会引起不良反应（例如：甲基睾酮及其等价物10～50mg/d）。运动员大概要用10～50倍这个范围的剂量。高剂量时，一些作用很明显，另一些则不明确（见表外源性合成代谢雄激素类固醇的不良反应）。存在不确定性是因为多数研究涉及非法使用类固醇者，他们可能未准确报告剂量，且使用的是黑市药物，此类黑市药物中，许多或是假药，或（尽管有标签标注）实际所含剂量及物质成分存在差异。
+
+【外源性合成代谢雄激素类固醇的不良反应】
+外源性合成代谢雄激素类固醇的不良反应
+可能的或已证实的
+证据不足
+皮肤病学影响：痤疮，脱发，男性化，声音变化，女性多毛症，
+心血管系统：高血压、左心室肥厚、心室功能不全（收缩期和舒张期）、血脂异常（HDL降低、LDL升高）
+内分泌系统：男性性腺抑制（精子数量减少、睾丸萎缩、生育力低下/不育）、男性乳房发育、月经周期异常
+血液系统：红细胞增多症、血栓栓塞
+肝脏：肝炎紫癜，腺瘤
+肌肉骨骼系统：骨骺过早闭合、肌腱/韧带断裂
+神经精神系统：（高剂量时）躁狂或轻躁狂行为、攻击性、易怒、性欲减退
+肾脏影响：蛋白尿、肾小球滤过率下降、液体潴留
+心血管：增加运动员猝死的风险
+泌尿生殖系统：睾丸癌、前列腺癌、前列腺肥大
+肝脏影响：肝癌
+内分泌影响：葡萄糖耐量降低、甲状腺功能障碍
+神经精神系统：低剂量时认知缺陷、显著情绪障碍
+肾脏：局灶节段性肾小球硬化
+HDL=高密度脂蛋白；LDL=低密度脂蛋白。
+数据来自Bond P, Smit DL, de Ronde W。Anabolic-androgenic steroids: How do they work and what are the risks?Front Endocrinol(Lausanne).2022;13:1059473.doi:10.3389/fendo.2022.1059473;Kersey RD, Elliot DL, Goldberg L, et al.National Athletic Trainers' Association position statement: anabolic-androgenic steroids.J Athl Train2012;47(5):567-588.doi:10.4085/1062-6050-47.5.08;Mingxing L, Yanfei Y.Adverse Effects of Anabolic Androgenic Steroid Abuse in Athletes and Physically Active Individuals: A Systematic Review and Meta-Analysis.Subst Use Misuse.Published online February 13, 2025.doi:10.1080/10826084.2025.2460986;Nieschlag E, Vorona E.Doping with anabolic androgenic steroids (AAS): Adverse effects on non-reproductive organs and functions.Rev Endocr Metab Disord2015;16(3):199-211.doi:10.1007/s11154-015-9320-5; andSmit DL, Buijs MM, de Hon O, den Heijer M, de Ronde W.Positive and negative side effects of androgen abuse.The HAARLEM study: A one-year prospective cohort study in 100 men.Scand J Med Sci Sports2021;31(2):427-438.doi:10.1111/sms.13843
+HDL=高密度脂蛋白；LDL=低密度脂蛋白。
+数据来自Bond P, Smit DL, de Ronde W。Anabolic-androgenic steroids: How do they work and what are the risks?Front Endocrinol(Lausanne).2022;13:1059473.doi:10.3389/fendo.2022.1059473;Kersey RD, Elliot DL, Goldberg L, et al.National Athletic Trainers' Association position statement: anabolic-androgenic steroids.J Athl Train2012;47(5):567-588.doi:10.4085/1062-6050-47.5.08;Mingxing L, Yanfei Y.Adverse Effects of Anabolic Androgenic Steroid Abuse in Athletes and Physically Active Individuals: A Systematic Review and Meta-Analysis.Subst Use Misuse.Published online February 13, 2025.doi:10.1080/10826084.2025.2460986;Nieschlag E, Vorona E.Doping with anabolic androgenic steroids (AAS): Adverse effects on non-reproductive organs and functions.Rev Endocr Metab Disord2015;16(3):199-211.doi:10.1007/s11154-015-9320-5; andSmit DL, Buijs MM, de Hon O, den Heijer M, de Ronde W.Positive and negative side effects of androgen abuse.The HAARLEM study: A one-year prospective cohort study in 100 men.Scand J Med Sci Sports2021;31(2):427-438.doi:10.1111/sms.13843
+运动员可能会在一段时间内服用固定剂量的一种或多种合成代谢类固醇（AAS），然后停止，一年内多次重复这个过程（循环）。特别是停止用药被认为可使内源性睾酮水平、精子数量和下丘脑-垂体-性腺轴恢复正常，并减少有害效应及为达到预期效果而增加药物剂量的需求。但多项研究表明循环用药期间不良反应持续存在（1、2、3）。
+运动员常同时使用多种类型的合成类固醇（这种做法称为叠加使用）。它们可以同时使用不同的给药途径（口服、肌注或经皮）。从小剂量开始，逐渐增加剂量，并将同一合成代谢类固醇的剂量减至零，这被称为金字塔疗法。“堆积训练”和“金字塔效应”用于增加受体结合，减少不良反应的产生 。为了避免反兴奋剂检查呈阳性，运动员可能会停止使用长效类固醇，并以短效制剂替代（衔接）。
+
+【病理生理学参考文献】
+1.Christou MA, Christou PA, Markozannes G, Tsatsoulis A, Mastorakos G, Tigas S.Effects of Anabolic Androgenic Steroids on the Reproductive System of Athletes and Recreational Users: A Systematic Review and Meta-Analysis.Sports Med2017;47(9):1869-1883.doi:10.1007/s40279-017-0709-z
+1.Christou MA, Christou PA, Markozannes G, Tsatsoulis A, Mastorakos G, Tigas S.Effects of Anabolic Androgenic Steroids on the Reproductive System of Athletes and Recreational Users: A Systematic Review and Meta-Analysis.Sports Med2017;47(9):1869-1883.doi:10.1007/s40279-017-0709-z
+2.Hammoud S, van den Bemt BJF, Jaber A, Kurdi M.Chronic anabolic androgenic steroid administration reduces global longitudinal strain among off-cycle bodybuilders.Int J Cardiol2023;381:153-160.doi:10.1016/j.ijcard.2023.03.057
+2.Hammoud S, van den Bemt BJF, Jaber A, Kurdi M.Chronic anabolic androgenic steroid administration reduces global longitudinal strain among off-cycle bodybuilders.Int J Cardiol2023;381:153-160.doi:10.1016/j.ijcard.2023.03.057
+3.Smit DL, Buijs MM, de Hon O, den Heijer M, de Ronde W.Positive and negative side effects of androgen abuse.The HAARLEM study: A one-year prospective cohort study in 100 men.Scand J Med Sci Sports2021;31(2):427-438.doi:10.1111/sms.13843
+3.Smit DL, Buijs MM, de Hon O, den Heijer M, de Ronde W.Positive and negative side effects of androgen abuse.The HAARLEM study: A one-year prospective cohort study in 100 men.Scand J Med Sci Sports2021;31(2):427-438.doi:10.1111/sms.13843
+
+【合成代谢雄激素类固醇使用的症状与体征】
+合成代谢雄激素类固醇（AAS）使用最具特征的标志是肌肉质量的快速增加。增加的速度和程度与服用的药物剂量有关。使用生理剂量的病人肌肉生长缓慢而且不易发觉，那些使用中等剂量的人会增加肌肉含量从而使体重增加。会出现体力和性欲（男性）的增强，但难以量化。
+精神反应（通常只在很高的剂量）经常被家庭成员发现：
+情绪不稳定易波动
+情绪不稳定易波动
+失去理性的行为
+失去理性的行为
+攻击性增强
+攻击性增强
+性欲增强
+性欲增强
+情绪低落
+情绪低落
+在男性和女性中均常见粉刺增加。性欲可以增加，偶然也可能减退。攻击性和食欲可能增加。男性乳房发育、睾丸萎缩以及生育能力下降在男性中常见。 男性化的一些作用（例如：脱发、增大的阴蒂、多毛症、声音的低沉）在女性中常见；男性化的一些作用（例如：脱发、增大的阴蒂、多毛症、声音的低沉）在女性中常见，另外，会出现乳房形状变小、阴道黏膜萎缩、月经规律会改变或者停经。女性男性化和男性女性化可能是不可逆的。
+
+【合成代谢雄激素类固醇使用的诊断】
+通常是临床诊断
+通常是临床诊断
+有时进行尿检
+有时进行尿检
+尽管反兴奋剂机构会对精英运动员进行合成类固醇检测，但目前缺乏可行的诊断方法来评估普通患者人群中隐秘的合成类固醇使用情况。当患者出现慢性合成代谢雄激素类固醇使用的体征和症状时，在鉴别诊断中考虑合成代谢类固醇的使用是很重要的。测量血清睾酮、卵泡刺激素和黄体生成素水平可能很有用，因为它们是更常见的检测方法。外源性睾酮和合成代谢雄激素类固醇会降低促性腺激素水平。
+进行AASs检测时，尿液分析采用气相色谱-质谱联用技术。
+无法通过气相色谱-质谱分光光度法对外源性服用的睾酮与内源性睾酮进行区分。但是，通过检测睾酮和表睾酮（一种内源性类固醇即化学上是几乎相同的睾酮）之间的比率，高浓度的睾酮可以被检测到。睾酮与表睾酮的比例>6:1 ，提示使用了外源性睾酮。
+
+【合成代谢雄激素类固醇使用的治疗】
+停止使用
+停止使用
+使用药物来恢复生育能力
+使用药物来恢复生育能力
+对于合成代谢雄激素类固醇（AASs）使用者而言，主要的治疗措施是停止使用该类药物。虽然不会出现生理依赖，但可能存在心理依赖（特别是在竞技健美运动员和运动员中）。妊娠期可能需要手术复位。使用注射剂型的人应该更新破伤风疫苗接种。
+使用AAS的一个众所周知的并发症是不育，这是由于下丘脑-垂体-性腺（HPG）轴受到抑制，随后睾丸中的精子发生受到抑制。停用AAS可恢复生精功能，但需数月到数年（1）。这些患者中的许多人正处于生育的黄金年龄，根据女性伴侣的年龄和想要孩子的数量等因素，可能迫切需要尽快恢复生育能力。对此类患者可使用选择性雌激素受体调节剂（如克罗米芬、恩氯米芬）、芳香化酶抑制剂（如阿那曲唑、来曲唑）及促性腺激素（人绒毛膜促性腺激素与卵泡刺激素）以恢复HPG轴与生精功能（1、2）。然而，即使接受了药物治疗，仍有相当一部分患者的精液参数仍很低，最终需要辅助生殖（3）。
+
+【治疗参考文献】
+1.McBride JA, Coward RM.Recovery of spermatogenesis followingtestosteronereplacement therapy or anabolic-androgenic steroid use.Asian J Androl2016;18(3):373-380.doi:10.4103/1008-682X.173938
+1.McBride JA, Coward RM.Recovery of spermatogenesis followingtestosteronereplacement therapy or anabolic-androgenic steroid use.Asian J Androl2016;18(3):373-380.doi:10.4103/1008-682X.173938
+2.Tatem AJ, Beilan J, Kovac JR, Lipshultz LI.Management of Anabolic Steroid-Induced Infertility: Novel Strategies for Fertility Maintenance and Recovery.World J Mens Health2020;38(2):141-150.doi:10.5534/wjmh.190002
+2.Tatem AJ, Beilan J, Kovac JR, Lipshultz LI.Management of Anabolic Steroid-Induced Infertility: Novel Strategies for Fertility Maintenance and Recovery.World J Mens Health2020;38(2):141-150.doi:10.5534/wjmh.190002
+3.Ledesma BR, Weber A, Venigalla G, et al.Fertility outcomes in men with prior history of anabolic steroid use.Fertil Steril2023;120(6):1203-1209.doi:10.1016/j.fertnstert.2023.09.016
+3.Ledesma BR, Weber A, Venigalla G, et al.Fertility outcomes in men with prior history of anabolic steroid use.Fertil Steril2023;120(6):1203-1209.doi:10.1016/j.fertnstert.2023.09.016
+
+【合成代谢雄激素类固醇使用的预防】
+负责诊治成人与青少年的医生，应警惕合成类固醇滥用的相关迹象，并向患者宣教其滥用风险。关于合成代谢类固醇的教育应自初中阶段开始，通过相关课程引导学生掌握替代性的健康方法，包括合理的营养摄入和科学的负重训练技术，以增强肌肉体积并提升运动表现。呈现合成代谢类固醇的使用风险和收益似乎是教育青少年有关非法使用类固醇的负面影响的更有效的方式。

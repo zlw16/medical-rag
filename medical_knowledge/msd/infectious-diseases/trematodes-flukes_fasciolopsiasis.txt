@@ -1,0 +1,38 @@
+标题：姜片吸虫病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/trematodes-flukes/fasciolopsiasis
+============================================================
+
+吸虫为一类可感染人体不同部位（如血管、胃肠道、肺或肝脏）的扁平状的寄生虫，不同种类不同。
+F. buski（布氏姜片吸虫）在亚洲和印度次大陆等很多地区可见于猪的肠道中。流行地区儿童的感染率最高。布氏大肠吸虫又称“巨大肠吸虫”，因为它是感染人类的吸虫中体型最大的。
+人类感染通常是因摄入被污染的水或食用携带感染性囊蚴的水生植物（尤其是竹笋、水芹或荸荠）所致。布氏姜片吸虫需要以螺类作为中间宿主来完成其生命周期。布氏姜片吸虫所利用的中间宿主是小型扁卷螺，为圆扁螺属和隔扁螺属（1，2）。成虫吸附于近端小肠的黏膜并使其溃烂。成虫可长到约20~75mm长，8~20mm宽。成虫的生命周期约为1年。
+1.在人类宿主体内，未受精的虫卵排入肠道，随粪便排出体外。
+1.在人类宿主体内，未受精的虫卵排入肠道，随粪便排出体外。
+2.虫卵在水中受精孵化。
+2.虫卵在水中受精孵化。
+3.虫卵释放出毛蚴，后者会侵入螺类（中间宿主）。
+3.虫卵释放出毛蚴，后者会侵入螺类（中间宿主）。
+4.在钉螺体内，毛蚴发育成胞蚴，然后是雷蚴，再然后变成尾蚴。
+4.在钉螺体内，毛蚴发育成胞蚴，然后是雷蚴，再然后变成尾蚴。
+5.尾蚴从钉螺中释放出来。
+5.尾蚴从钉螺中释放出来。
+6.它们作为后囊蚴在水生植物上形成囊状结构，并可能被哺乳动物宿主（人类或猪）摄入。
+6.它们作为后囊蚴在水生植物上形成囊状结构，并可能被哺乳动物宿主（人类或猪）摄入。
+7.摄入后，后尾蚴在十二指肠内脱囊（从现有包囊中破裂而出），并附着于肠壁。
+7.摄入后，后尾蚴在十二指肠内脱囊（从现有包囊中破裂而出），并附着于肠壁。
+8.在那里，它们在大约3个月内发育为成年吸虫。
+8.在那里，它们在大约3个月内发育为成年吸虫。
+Image from the Centers for Disease Control and Prevention Image Library.
+姜片形吸虫病通常无症状。在严重感染中，症状通常在暴露后 30 至 60 天开始，可能包括厌食、呕吐、腹泻、腹痛和吸收不良的迹象。 可能存在外周嗜酸性粒细胞增多症。
+在严重的情况下，吸收不良会因蛋白质丢失而导致水肿和腹水。也可能发生维生素 B12 缺乏和贫血。
+姜片吸虫病的诊断基于在粪便或其他胃肠道液体（呕吐物、胆汁或通过活检获得的胃十二指肠样本）中检测到虫卵或较少见的成虫。布氏姜片吸虫虫卵呈宽椭圆形，有卵盖，长130至150微米，宽60至90微米。在显微镜下，这些虫卵很难与肝片吸虫的虫卵区分开来。
+布氏姜片吸虫虫卵呈宽椭圆形且具有卵盖（保护性覆盖物或盖状结构），长130至150微米，宽60至90微米。布氏姜片吸虫虫卵难以与肝片形吸虫虫卵区分，但肝片形吸虫虫卵的盖对端常具有粗糙或不规则区域。
+虫卵随粪便排出时处于未胚胎化状态。
+CDC/DPDx
+姜片吸虫病的治疗药物为吡喹酮口服，每日3次，共1天。
+预防包括不饮用受污染的水或在Fasciolopsis buski流行地区（2）食用淡水植物 (♦2♦)。
+
+【参考文献】
+1.Centers for Disease Control and Prevention: DPDx–Laboratory Identification of Parasites of Public Health Concern: Fasciolopsiasis.June 5, 2024.Accessed July 2, 2025.
+1.Centers for Disease Control and Prevention: DPDx–Laboratory Identification of Parasites of Public Health Concern: Fasciolopsiasis.June 5, 2024.Accessed July 2, 2025.
+2.Centers for Disease Control and Prevention: Fasciolopsiasis: About Fasciolopsiasis.April 25, 2024.Accessed July 11, 2025.
+2.Centers for Disease Control and Prevention: Fasciolopsiasis: About Fasciolopsiasis.April 25, 2024.Accessed July 11, 2025.

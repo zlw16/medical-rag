@@ -1,0 +1,25 @@
+标题：性染色体异常概述
+来源：https://www.msdmanuals.cn/professional/pediatrics/chromosome-and-gene-abnormalities/overview-of-sex-chromosome-abnormalities
+============================================================
+
+(参见染色体异常概述。)
+性染色体异常是常见的遗传病，其特征是X和/或Y染色体的数量或结构非典型。这些异常可引发一系列与先天性及发育性畸形相关的综合征。由于相对缺乏宏观上可察觉的形态学变化，大多数情况下在产前并未怀疑，但如果由于其他原因（例如高龄产妇）进行染色体核型分析，则可能会偶然发现。这些畸形在出生时常难以识别，有时直到青春期方能确诊。
+X染色体异常相较于常染色体异常症状要轻微。例如，拥有 3 个 X 染色体的女性通常身体和精神表现正常，并且具有生育能力。相比之下，所有已知的常染色体三体综合征（例如13三体综合征）都具有临床意义，并且往往会产生严重后果，包括显著升高的死亡风险。同样，尽管在大多数情况下缺少1个X染色体(X单体)会导致特定综合征(Turner综合征[X单体])，但缺少常染色体则是致命的。值得注意的是，具有1个X染色体且具有涉及Y染色体的嵌合体（即某些具有46,XY的细胞）的人可能具有男性或女性表型（1）。
+
+【参考文献】
+1.Guzewicz L, Howell S, Crerand CE, et al: Clinical phenotype and management of individuals with mosaic monosomy X with Y chromosome material stratified by genital phenotype.Am J Med Genet A185(5):1437-1447, 2021.doi: 10.1002/ajmg.a.62127
+1.Guzewicz L, Howell S, Crerand CE, et al: Clinical phenotype and management of individuals with mosaic monosomy X with Y chromosome material stratified by genital phenotype.Am J Med Genet A185(5):1437-1447, 2021.doi: 10.1002/ajmg.a.62127
+
+【里昂假说 (X染色体失活)】
+正常女性在X染色体上有两个基因位点，而男性仅有单一位点。这个失衡现象看起来引起了一个遗传“剂量”问题（即这些基因异常的影响可能会加倍）。然而，根据里昂假说：女性体细胞中两个X染色体之一，在胚胎早期已失活（约在第16天）。事实上，无论存在多少条X染色体，除一条外，其余均被认为处于失活状态。然而，分子遗传学研究表明，在失活的X染色体（或X染色体组）上有少量基因是有功能的，这些少数基因对于维持正常的女性发育至关重要。XIST基因负责灭活X染色体上基因，其产生的RNA触发染色体失活过程 (1)。
+母源性或父源性 X 染色体的失活通常是细胞失活时的随机事件；一旦某条 X 染色体被失活，其所有后代细胞中该条染色体均保持失活状态。因此，所有女性本质上均是嵌合体，有些细胞具有活性的母源X染色体，另一些细胞具有活性的父源X染色体。
+
+【经验与提示】
+经验与提示
+由于X染色体随机失活，所有女性均是嵌合体，有些细胞具有活性的母源X染色体，另一些细胞具有活性的父源X染色体。
+由于X染色体随机失活，所有女性均是嵌合体，有些细胞具有活性的母源X染色体，另一些细胞具有活性的父源X染色体。
+有时，X染色体失活在少量细胞中是随机的，导致某些后代组织中母系或父系活性X染色体占优势（偏性失活）。偏性失活可以解释X连锁疾病，如血友病和肌营养不良症的女性杂合子偶尔出现轻微症状的现象（如果她们的活性X染色体分布为50:50，推测应该都是无症状的）。因此，在一些女性中，偏失活很少会导致血友病或肌肉萎缩症的临床表现（即症状）。
+
+【Lyon假说参考】
+1.Balaton BP, Dixon-McDougall T, Peeters SB, Brown CJ.The eXceptional nature of the X chromosome.Hum Mol Genet.2018;27(R2):R242-R249.doi:10.1093/hmg/ddy148
+1.Balaton BP, Dixon-McDougall T, Peeters SB, Brown CJ.The eXceptional nature of the X chromosome.Hum Mol Genet.2018;27(R2):R242-R249.doi:10.1093/hmg/ddy148

@@ -1,0 +1,36 @@
+标题：螯合疗法
+来源：https://www.msdmanuals.cn/professional/special-subjects/integrative-complementary-and-alternative-medicine/chelation-therapy
+============================================================
+
+螯合疗法，一种生物基础疗法，是用来结合或祛除血液中可能存在的过多或中毒剂量的金属及矿物质（例如，铅、铜、铁和钙）的药物。在传统医学中，螯合疗法用于治疗铅及其他重金属中毒（参见表格重金属中毒的螯合疗法）。
+重金属毒性，通常是由于环境暴露，可能是痴呆的危险因素。1）， 心血管疾病 （2) 和慢性肾病 (3)。
+EDTA（乙二胺四乙酸）螯合疗法也被提出作为清除钙质、可能治疗动脉粥样硬化的方法。
+2012年一项针对有心肌梗死病史受试者的螯合疗法试验（螯合疗法评估试验[TACT]）发现，在死亡或心血管事件的复合终点方面，螯合疗法较安慰剂具有显著优势（26.5%对比安慰剂组的30%），但在单项结局（如死亡、心血管事件、卒中、住院率）方面未见显著差异（4）。研究中提出的方法学缺陷并未结束关于螯合疗法的争议。对数据的回顾性分析显示，在糖尿病合并外周动脉疾病患者中，螯合剂治疗组相较于对照组的主要复合终点显著降低，同时死亡率也有所下降（5）。随后对38项研究进行系统评价显示，螯合疗法对复发性心脏事件的二级预防可能带来尚不明确的益处（6)。一项重复试验TACT2已经启动，在糖尿病和心血管疾病患者中重复TACT试验(7)。
+美国心脏病学会（ACC）在其2023年《慢性冠状动脉疾病指南》中指出，乙二胺四乙酸（EDTA）螯合疗法尚未获得美国食品药品监督管理局（FDA）批准用于心血管疾病的预防或治疗，因此不推荐在科研以外的环境中使用（8）。
+螯合疗法的风险包括
+低钙血症（潜在危险）
+低钙血症（潜在危险）
+输液部位反应、发热、恶心、呕吐
+输液部位反应、发热、恶心、呕吐
+肾脏损害
+肾脏损害
+更有效治疗的延误
+更有效治疗的延误
+
+【参考文献】
+1.Killin LO, Starr JM, Shiue IJ, et al.Environmental risk factors for dementia: a systematic review.BMC Geriatr.16(1):175, 2016.doi: 10.1186/s12877-016-0342-y
+1.Killin LO, Starr JM, Shiue IJ, et al.Environmental risk factors for dementia: a systematic review.BMC Geriatr.16(1):175, 2016.doi: 10.1186/s12877-016-0342-y
+2.Chowdhury R, Ramond A, O'Keeffe LM, et al.Environmental toxic metal contaminants and risk of cardiovascular disease: systematic review and meta-analysis.BMJ.362:k3310, 2018.doi: 10.1136/bmj.k3310
+2.Chowdhury R, Ramond A, O'Keeffe LM, et al.Environmental toxic metal contaminants and risk of cardiovascular disease: systematic review and meta-analysis.BMJ.362:k3310, 2018.doi: 10.1136/bmj.k3310
+3.Farkhondeh T, Naseri K, Esform A, et al.Drinking water heavy metal toxicity and chronic kidney diseases: a systematic review.Rev Environ Health.2020 Nov 2:/j/reveh.ahead-of-print/reveh-2020-0110/reveh-2020-0110.xml.doi: 10.1515/reveh-2020-0110
+3.Farkhondeh T, Naseri K, Esform A, et al.Drinking water heavy metal toxicity and chronic kidney diseases: a systematic review.Rev Environ Health.2020 Nov 2:/j/reveh.ahead-of-print/reveh-2020-0110/reveh-2020-0110.xml.doi: 10.1515/reveh-2020-0110
+4.Lamas GA, Goertz C, Boineau R, et al.Effect of disodium EDTA chelation regimen on cardiovascular events in patients with previous myocardial infarction: the TACT randomized trial.JAMA..309(12):1241–50, 2013.doi: 10.1001/jama.2013.2107
+4.Lamas GA, Goertz C, Boineau R, et al.Effect of disodium EDTA chelation regimen on cardiovascular events in patients with previous myocardial infarction: the TACT randomized trial.JAMA..309(12):1241–50, 2013.doi: 10.1001/jama.2013.2107
+5.Ujueta F, Arenas IA, Escolar E, et al.The effect of EDTA-based chelation on patients with diabetes and peripheral artery disease in the Trial to Assess Chelation Therapy (TACT).
+5.Ujueta F, Arenas IA, Escolar E, et al.The effect of EDTA-based chelation on patients with diabetes and peripheral artery disease in the Trial to Assess Chelation Therapy (TACT).
+6.Ibad A, Khalid R, Thompson PD, et al.Chelation therapy in the treatment of cardiovascular diseases.J Clin Lipidol.10(1):58-62, 2016.doi: 10.1016/j.jacl.2015.09.005
+6.Ibad A, Khalid R, Thompson PD, et al.Chelation therapy in the treatment of cardiovascular diseases.J Clin Lipidol.10(1):58-62, 2016.doi: 10.1016/j.jacl.2015.09.005
+7.Navas-Acien A, Santella RM, Joubert BR, et al.Baseline characteristics including blood and urine metal levels in the Trial to Assess Chelation Therapy 2 (TACT2).Am Heart J.2024;273:72-82.doi:10.1016/j.ahj.2024.04.005
+7.Navas-Acien A, Santella RM, Joubert BR, et al.Baseline characteristics including blood and urine metal levels in the Trial to Assess Chelation Therapy 2 (TACT2).Am Heart J.2024;273:72-82.doi:10.1016/j.ahj.2024.04.005
+8.Writing Committee Members, Virani SS, Newby LK, et al.2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Guideline for the Management of Patients With Chronic Coronary Disease: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines.J Am Coll Cardiol.2023;82(9):833-955.doi:10.1016/j.jacc.2023.04.003.Correction.J Am Coll Cardiol.2023;82(18):1808.doi:10.1016/j.jacc.2023.09.794
+8.Writing Committee Members, Virani SS, Newby LK, et al.2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Guideline for the Management of Patients With Chronic Coronary Disease: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines.J Am Coll Cardiol.2023;82(9):833-955.doi:10.1016/j.jacc.2023.04.003.Correction.J Am Coll Cardiol.2023;82(18):1808.doi:10.1016/j.jacc.2023.09.794

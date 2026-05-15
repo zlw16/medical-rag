@@ -1,0 +1,38 @@
+标题：口服补液疗法
+来源：https://www.msdmanuals.cn/professional/pediatrics/dehydration-and-fluid-therapy-in-children/oral-rehydration-therapy
+============================================================
+
+口服补液疗法相对于静脉补液治疗更有效、安全、方便且经济。美国儿科学会和世界卫生组织（WHO）推荐口服补液治疗，应该用于轻度至中度脱水且接受口服液体的儿童，除非由于大量呕吐或潜在疾病（例如，外科急腹症、肠梗阻）而禁止使用（1）。在这种情况下，口服补液疗法的失败率＜5% (2)。自从世界卫生组织在20世纪70年代采纳口服补液疗法的建议以来，全球每年可能已防止超过100万人死亡（3）。
+(参见儿童脱水。)
+
+【参考文献】
+1.American Academy of Pediatrics, Provisional Committee on Quality Improvement, Subcommittee on Acute Gastroenteritis.Practice parameter: the management of acute gastroenteritis in young children.Pediatrics.1996;97(3):424-435.
+1.American Academy of Pediatrics, Provisional Committee on Quality Improvement, Subcommittee on Acute Gastroenteritis.Practice parameter: the management of acute gastroenteritis in young children.Pediatrics.1996;97(3):424-435.
+2.Bellemare S, Hartling L, Wiebe N, et al.Oral rehydration versus intravenous therapy for treating dehydration due to gastroenteritis in children: a meta-analysis of randomised controlled trials.BMC Med.2004;2:11.Published 2004 Apr 15.doi:10.1186/1741-7015-2-11
+2.Bellemare S, Hartling L, Wiebe N, et al.Oral rehydration versus intravenous therapy for treating dehydration due to gastroenteritis in children: a meta-analysis of randomised controlled trials.BMC Med.2004;2:11.Published 2004 Apr 15.doi:10.1186/1741-7015-2-11
+3.WHO/Unicef.Clinical management of acute diarrhoea: WHO/Unicef joint statement.2004.Accessed December 17, 2024.
+3.WHO/Unicef.Clinical management of acute diarrhoea: WHO/Unicef joint statement.2004.Accessed December 17, 2024.
+
+【口服补液疗法的溶液】
+口服补液盐（ORS）应包含葡萄糖和钠的组合，以利用肠道中的钠-葡萄糖共转运机制并改善吸收。口服补液盐广泛可得，有预先混合好的商业溶液，也有可与自来水混合的粉剂。自2002年以来，世界卫生组织推荐的低渗透压口服补液盐（ORS）具有以下成分（1）：
+75 mEq/L (75 mmol/L) 的葡萄糖，可以是基于葡萄糖的溶液，也可以是基于聚合物（大米、小麦或玉米）的溶液
+75 mEq/L (75 mmol/L) 的葡萄糖，可以是基于葡萄糖的溶液，也可以是基于聚合物（大米、小麦或玉米）的溶液
+钠75mEq/L（75 mmol/L）
+钠75mEq/L（75 mmol/L）
+总渗透压245mOsm/kg（245mmol/kg）
+总渗透压245mOsm/kg（245mmol/kg）
+运动饮料、苏打水、果汁和类似饮料不符合这些标准，不应使用。这些饮料通常钠含量低，碳水化合物含量高，影响钠－葡萄糖耦联转运，其高碳水化合物的渗透作用可能导致液体额外丢失。 肠道中Na/葡萄糖共转运是在钠与葡萄糖的比例为1:1的情况下优化的。
+许多药房和超市都可以买到预混合的商业补液溶液。尽管钠与葡萄糖的比例约为1:3，这些溶液仍然有效。
+
+【溶液参考】
+1.Powers KS.Dehydration: Isonatremic, Hyponatremic, and Hypernatremic Recognition and Management [published correction appears inPediatr Rev. 2015 Sep;36(9):422. doi: 10.1542/pir.36-9-422].Pediatr Rev.2015;36(7):274-285.doi:10.1542/pir.36-7-274
+1.Powers KS.Dehydration: Isonatremic, Hyponatremic, and Hypernatremic Recognition and Management [published correction appears inPediatr Rev. 2015 Sep;36(9):422. doi: 10.1542/pir.36-9-422].Pediatr Rev.2015;36(7):274-285.doi:10.1542/pir.36-7-274
+
+【口服补液疗法的实施】
+通常，轻度脱水给予50 mL/kg，在4小时内服用；中度脱水给予100 mL/kg。每次腹泻，额外给予10mL/kg（最大量至240mL/kg）。4小时后脱水需要重新评估。如果脱水症状仍存在，应给予相同液体量反复补液。
+呕吐通常不应妨碍口服补液治疗（除非存在肠梗阻或其他口服液体禁忌症），因为呕吐通常会随着时间推移而减轻。少量多次使用，起始剂量5mL/5min，逐渐增加剂量至耐受量。经计算而得出的4小时期间说需要补充的容量，可以分成4个独立的等分进行补充。这4等份可以再分成12个更小的等份，如有需要，用注射器每5分钟给予一次，在1小时内完成。
+一旦液体缺失得到补充，应继续口服补液溶液，并且儿童停止呕吐后应尽快开始适合其年龄的饮食。婴儿可恢复母乳喂养或配方奶喂养(1)。
+
+【给药参考】
+1.Gregorio GV, Dans LF, Silvestre MA.Early versus Delayed Refeeding for Children with Acute Diarrhoea.Cochrane Database Syst Rev.2011;2011(7):CD007296.Published 2011 Jul 6.doi:10.1002/14651858.CD007296.pub2
+1.Gregorio GV, Dans LF, Silvestre MA.Early versus Delayed Refeeding for Children with Acute Diarrhoea.Cochrane Database Syst Rev.2011;2011(7):CD007296.Published 2011 Jul 6.doi:10.1002/14651858.CD007296.pub2

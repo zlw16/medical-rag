@@ -1,0 +1,133 @@
+标题：矽肺
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/environmental-and-occupational-pulmonary-diseases/silicosis
+============================================================
+
+（参阅环境与职业性肺病概述。）
+
+【矽肺的病因】
+二氧化硅是地壳中含量最丰富的矿物质之一，在自然界中分布广泛。硅肺病是由吸入可吸入的结晶二氧化硅颗粒（通常是石英）引起的。风险最大的工人是那些移动或爆破岩石和沙子的工人(矿工、采石场工人、石匠、建筑工人)或使用含硅岩石或沙子磨料的工人(喷砂机、玻璃制造商、铸造、宝石和陶瓷工人、陶工)。人造石行业的工人也发现了严重硅肺病。
+影响矽肺发病率和严重程度的因素包括
+暴露时间和暴露程度
+暴露时间和暴露程度
+二氧化硅颗粒的形态和表面特征
+二氧化硅颗粒的形态和表面特征
+无定形二氧化硅，例如玻璃或硅藻土，不具有晶体结构，不会导致硅肺病。
+
+【矽肺的病理生理学】
+二氧化硅诱发的毒性机制很复杂。肺泡巨噬细胞吞噬游离二氧化硅颗粒，并启动细胞因子、活性氧和介质的释放，促进炎症和纤维化。这些物质由巨噬细胞、巨噬细胞激活的淋巴细胞和成纤维细胞释放。
+富含二氧化硅的巨噬细胞促进肺部特征性的矽结节的形成。这些结节最初含有胶原纤维和分散的二氧化硅双折射颗粒，用偏光显微镜可以最好地观察到。当它们成熟时，居中排列的胶原纤维被外层炎症细胞包围。
+在低强度或短期暴露时，这些结节分布独立不影响肺功能（单纯型慢性矽肺）。随着更高强度或更长时间的暴露（复杂的慢性矽肺），这些结节合并并导致进行性纤维化和限制性肺功能障碍，或者它们有时形成大的团块（称为进行性块状纤维化）。
+图片由 David W. 提供。Cugell, MD.
+慢性矽肺，这种疾病最常见的形式，通常发展缓慢，通常在初次接触后数十年出现。慢性矽肺病包括简单型和复杂型（进行性大规模纤维化）。
+加速性矽肺与慢性矽肺相似，但在高水平暴露的患者中发展得更快，在初次暴露后 5 至 10 年内发病。
+进行性大块纤维化（PMF，或混合性或复杂性硅肺）是慢性或加速性矽肺的晚期形式。其特征是广泛的纤维化肿块，通常位于上肺区。
+急性矽肺，也被称为急性硅蛋白沉积症，是由短时间(几个月或几年)暴露于高浓度硅尘引起的。硅蛋白沉积症的发生通常发生在最初高浓度接触可吸入结晶二氧化硅后数周至数年。临床表现可能类似于肺泡蛋白沉积症。
+矽肺病人患其他疾病的风险增加，包括
+慢性阻塞性肺病（COPD）
+慢性阻塞性肺病（COPD）
+系统性风湿（自身免疫）疾病
+系统性风湿（自身免疫）疾病
+硅肺患者发生分枝杆菌感染的风险增加。潜伏性结核感染的治疗推荐用于矽肺患者。
+接触二氧化硅会增加慢性阻塞性肺病（肺气肿和慢性支气管炎）的风险。
+结晶二氧化硅已被国际癌症研究机构 (IARC) 确定为 1 类人类肺癌致癌物。多项荟萃分析显示，患有硅肺病的工人中所有组织学类型的肺癌发病率均有所增加（1, 2）。
+暴露于结晶二氧化硅与多种系统性风湿病的风险增加有关，包括类风湿关节炎和系统性硬化症。
+
+【病理生理学参考文献】
+1.Poinen-Rughooputh S, Rughooputh MS, Guo Y, Rong Y, Chen W.Occupational exposure to silica dust and risk of lung cancer: an updated meta-analysis of epidemiological studies.BMC Public Health2016;16(1):1137.doi:10.1186/s12889-016-3791-5
+1.Poinen-Rughooputh S, Rughooputh MS, Guo Y, Rong Y, Chen W.Occupational exposure to silica dust and risk of lung cancer: an updated meta-analysis of epidemiological studies.BMC Public Health2016;16(1):1137.doi:10.1186/s12889-016-3791-5
+2.Shahbazi F, Morsali M, Poorolajal J.The effect of silica exposure on the risk of lung cancer: A dose-response meta-analysis.Cancer Epidemiol2021;75:102024.doi:10.1016/j.canep.2021.102024
+2.Shahbazi F, Morsali M, Poorolajal J.The effect of silica exposure on the risk of lung cancer: A dose-response meta-analysis.Cancer Epidemiol2021;75:102024.doi:10.1016/j.canep.2021.102024
+
+【矽肺的症状和体征】
+慢性矽肺可能无症状，但许多患者出现进行性呼吸困难和咳嗽。晚期疾病可能出现肺实变、肺动脉高压和呼吸衰竭，伴或不伴右心室衰竭。
+患有进行性大规模纤维化的患者会出现严重的慢性呼吸道症状。
+急性矽肺迅速进展至呼吸困难、体重减轻和乏力，伴双侧弥散性啰音。这些症状可能被误认为是肺部感染。低氧血症和呼吸衰竭很常见。
+
+【矽肺的诊断】
+硅职业暴露史
+硅职业暴露史
+胸部CT或胸部X线
+胸部CT或胸部X线
+与其他疾病鉴别的辅助检查
+与其他疾病鉴别的辅助检查
+硅肺病的诊断始于接触史，特别是在特定职业中，包括采矿、采石场工作、石材切割、建筑工作、喷砂、玻璃制造、铸造工作、宝石切割以及陶瓷工作和陶器（1, 2）。确定暴露的持续时间、工作环境中采取的安全措施以及症状出现的时间过程非常重要。
+尽管结晶二氧化硅在环境中无处不在，并且在各种制造环境中可能会增加接触量，但硅肺病的诊断率仍然不足，因此强调需要仔细和详细的病史，
+有硅暴露史的患者，矽肺的诊断通常基于胸部X线或CT表现。胸部 CT 在检测矽肺和监测疾病进展方面比胸部 X 光检查更敏感。
+对于胸部 X 光检查，严重程度按照国际劳工组织制定的标准化等级进行分级（International Classification of Radiographs of Pneumoconioses）。
+慢性矽肺在胸部影像学分为简单型和复杂型。在单纯性矽肺患者中，双肺上叶以 1 至 3 毫米的网状结节性混浊为主。钙化的肺门和纵隔淋巴结很常见，有时类似于蛋壳；然而，蛋壳钙化并不是矽肺的特征。胸膜增厚不常见，除非严重的肺实质病变紧邻胸膜。
+在胸部影像学检查中，许多疾病可能类似于慢性矽肺。他们包括结节病,慢性铍病,过敏性肺炎,煤工尘肺,粟粒性结核、真菌性肺部疾病和转移性癌症。
+复杂性矽肺其特点是胸部 X 线片上出现大片混浊或胸部 CT 上出现伴有钙化的融合性团块影。当单纯性矽肺发展为复杂性矽肺时，影像学显示结节合并。
+加速型矽肺的胸部显像类似于慢性矽肺表现，进展相对较迅速。
+在急性矽肺病中，胸部 CT 发现包括弥漫性肺泡双基底混浊，其模式类似于肺泡蛋白沉积症。急性矽肺也可能被误认为是急性感染。
+Image courtesy of David W.Cugell, MD.
+单纯性矽肺上肺野的特写视图。
+单纯性矽肺上肺野的特写视图。
+Image courtesy of David W.Cugell, MD.
+Image courtesy of David W.Cugell, MD.
+Image courtesy of David W.Cugell, MD.
+Image courtesy of David W.Cugell, MD.
+单纯性矽肺上肺野的特写视图。
+单纯性矽肺上肺野的特写视图。
+Image courtesy of David W.Cugell, MD.
+Image courtesy of David W.Cugell, MD.
+Image courtesy of David W.Cugell, MD.
+
+【额外的诊断检查】
+肺功能检查和气体交换的测量结果根据疾病阶段的不同而变化，可以是正常的，也可以表现出阻塞性、限制性或混合性异常。
+在进行性大规模纤维化中，肺功能测试显示肺容量减少、一氧化碳 (DLCO) 弥散能力降低和气道阻塞。动脉血气测量显示低氧血症。
+自身免疫血清学，例如抗核抗体和类风湿因子升高，用于评估共存的系统性风湿性疾病（例如系统性硬化症、类风湿性关节炎）。
+当怀疑结核病、癌症或其他间质性肺疾病（如结节病）时，可能需要进行痰培养、细胞学检查和支气管镜检查。
+
+【诊断参考】
+1.Fazio JC, Gandhi SA, Flattery J, et al.Silicosis Among Immigrant Engineered Stone (Quartz) Countertop Fabrication Workers in California.JAMA Intern Med2023;183(9):991-998.doi:10.1001/jamainternmed.2023.3295
+1.Fazio JC, Gandhi SA, Flattery J, et al.Silicosis Among Immigrant Engineered Stone (Quartz) Countertop Fabrication Workers in California.JAMA Intern Med2023;183(9):991-998.doi:10.1001/jamainternmed.2023.3295
+2.Hua JT, Rose CS, Redlich CA.Engineered Stone-Associated Silicosis-A Lethal Variant of an Ancient Disease.JAMA Intern Med2023;183(9):908-910.doi:10.1001/jamainternmed.2023.3260
+2.Hua JT, Rose CS, Redlich CA.Engineered Stone-Associated Silicosis-A Lethal Variant of an Ancient Disease.JAMA Intern Med2023;183(9):908-910.doi:10.1001/jamainternmed.2023.3260
+
+【矽肺的治疗】
+避免进一步暴露
+避免进一步暴露
+对于急性矽肺，全身性皮质类固醇和/或全肺灌洗
+对于急性矽肺，全身性皮质类固醇和/或全肺灌洗
+对于慢性矽肺，对症治疗（例如支气管扩张剂和吸入皮质类固醇）
+对于慢性矽肺，对症治疗（例如支气管扩张剂和吸入皮质类固醇）
+并发症和合并症的管理
+并发症和合并症的管理
+
+【急性矽肺】
+全肺灌洗以及全身性皮质类固醇已用于治疗急性矽肺。然而，临床益处尚不明确。急性矽肺的预后较差。
+
+【慢性矽肺】
+患有慢性硅肺病的工人，特别是那些有症状或病情进展的工人，应限制进一步接触。对于早期和轻度疾病，应考虑失业的影响以及尽量减少工作场所接触的努力。
+对于慢性硅肺病，尚无经过证实的具体治疗方法。治疗主要是支持性的。
+气道阻塞的患者可能受益于支气管扩张剂和吸入皮质类固醇。应监测患者的低氧血症并进行治疗。
+应及时治疗包括结核病在内的感染。
+肺康复可以帮助患者进行日常生活活动。
+患有终末期肺病的患者可能有资格接受肺移植。
+
+【预防矽肺】
+主要预防措施从消除或减少接触开始。最有效的一级预防是实施工程控制以限制可吸入二氧化硅的暴露。呼吸面罩仅提供有限的保护，应与全面的暴露控制计划结合使用。
+通过医疗监测进行二级预防有助于及早发现疾病。
+预防并发症的预防措施包括戒烟和接种肺炎球菌、COVID-19和流感疫苗。临床医生应警惕硅暴露病人，尤其是矿工发生结核和非结核性分枝杆菌感染的危险性。接触二氧化硅的工人应每年进行结核菌素皮肤或干扰素γ释放测定测试。
+由于矽肺病的持续存在，美国职业安全与健康管理局 (OSHA) 于 2016 年发布了更新的可吸入二氧化硅标准。该标准降低了允许接触限值 (PEL)，并要求对接触二氧化硅的工人进行就业前和定期医疗监测。医学监测应包括问卷调查、肺功能测试和胸部X光检查。
+在美国和世界范围内，矽肺病仍然是一种重要且未被充分认识的职业性肺病。
+在美国和世界范围内，矽肺病仍然是一种重要且未被充分认识的职业性肺病。
+慢性矽肺是最常见的形式，但也曾爆发过急性和加速性矽肺。
+慢性矽肺是最常见的形式，但也曾爆发过急性和加速性矽肺。
+诊断基于暴露史和相应的影像学检查结果。
+诊断基于暴露史和相应的影像学检查结果。
+矽肺与结核病、慢性阻塞性肺病、肺癌和系统性风湿病的风险增加有关。
+矽肺与结核病、慢性阻塞性肺病、肺癌和系统性风湿病的风险增加有关。
+治疗主要是支持性的。
+治疗主要是支持性的。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Krefft S, Wolff J, Rose C.Silicosis: An Update and Guide for Clinicians.Clin Chest Med2020;41(4):709-722.doi:10.1016/j.ccm.2020.08.012
+Krefft S, Wolff J, Rose C.Silicosis: An Update and Guide for Clinicians.Clin Chest Med2020;41(4):709-722.doi:10.1016/j.ccm.2020.08.012
+Lanzafame M, Vento S.Mini-review: Silico-tuberculosis.J Clin Tuberc Other Mycobact Dis2021; 23:100218.doi: 10.1016/j.jctube.2021.100218.PMID: 33598569; PMCID: PMC7868994.
+Lanzafame M, Vento S.Mini-review: Silico-tuberculosis.J Clin Tuberc Other Mycobact Dis2021; 23:100218.doi: 10.1016/j.jctube.2021.100218.PMID: 33598569; PMCID: PMC7868994.
+Leung CC, Yu IT, Chen W.Silicosis.Lancet2012; 379(9830):2008-2018.doi:10.1016/S0140-6736(12)60235-9
+Leung CC, Yu IT, Chen W.Silicosis.Lancet2012; 379(9830):2008-2018.doi:10.1016/S0140-6736(12)60235-9
+Occupational Safety & Health Administration[OSHA].Respirable crystalline silica.2016.Regulations (Standards-29 CFR 1926.1153.
+Occupational Safety & Health Administration[OSHA].Respirable crystalline silica.2016.Regulations (Standards-29 CFR 1926.1153.

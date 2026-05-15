@@ -1,0 +1,58 @@
+标题：运动员心脏性猝死
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/sports-and-the-heart/sudden-cardiac-death-in-athletes
+============================================================
+
+估计有1/100,000到3/100,000的看似健康的年轻运动员在运动中突然死亡。男性发病率是女性的10倍。美国篮球和橄榄球运动员以及欧洲的足球运动员是最高危人群 (1)。
+在年轻运动员中，心脏性猝死有多种原因（见表年轻运动员心血管猝死的原因）。心源性猝死的最常见原因被认为是肥厚型心肌病。 最近的研究表明，肥厚型心肌病在心源性猝死中所占比例较低，大多数心源性猝死患者在尸检中发现心脏结构正常(2、3）。
+心脏震荡（心前区击打后的突发室性心动过速或室颤）对胸壁较薄且顺应性良好的运动员而言，即使没有心血管疾病存在仍是危险因素。这种击打可能涉及中等力度的投射物（如棒球、曲棍球、长曲棍球），或在心肌复极化易损期与另一运动员的撞击。
+其他原因包括遗传性心律失常综合征（如，长QT综合征，Brugada综合征）。 有些年轻运动员死于主动脉瘤破裂（马方综合征）。
+在年长运动员中，心脏性猝死通常由以下原因引起：
+冠状动脉疾病
+冠状动脉疾病
+偶见肥厚性心肌病、瓣膜疾病。
+在运动员导致猝死的其他状况下（如哮喘、中暑、与违禁药物或兴奋剂相关并发症），室性心动过速或心室颤动是一种终末事件而非原发的事件。
+症状和体征是心血管系统崩溃的表现；诊断是明确的。
+立即进行高级心脏生命支持的成功率约为<20%；随着社区自动体外除颤器（AED）的普及，这一比例可能会上升。研究表明 AED 的存在可以将神经功能完好的存活率提高到 80% 以上（4）。对存活者来说，治疗主要是对基础疾病的管理。在某些病例中，最终需要安装植入式心律转复除颤仪。
+
+【年轻运动员心源性猝死的原因】
+年轻运动员心源性猝死的原因
+肥厚型心肌病
+心脏震荡
+冠状动脉畸形（如，左冠状动脉主干起源畸形、右冠状动脉起源畸形、冠状动脉发育不全）
+主动脉瘤破裂
+致心律失常性右心室心肌病
+左前降支冠状动脉心肌桥
+主动脉瓣狭窄
+过早发生的冠状动脉粥样硬化性疾病
+扩张性心肌病
+二尖瓣黏液瘤样变性
+长QT综合征
+Brugada综合征
+W-P-W预激综合征（只有前向传导性）
+儿茶酚胺性多形性心动过速
+右心室流出道性心动过速
+冠状动脉痉挛
+心脏结节病
+心脏创伤
+脑动脉瘤破裂
+
+【参考文献】
+1.Maron BJ, Haas TJ, Ahluwalia A, et al: Demographics and epidemiology of sudden deaths in young competitive athletes: From the United States National Registry.Am J Med129:1170–1177, 2016.doi: 10.1016/j.amjmed.2016.02.031
+1.Maron BJ, Haas TJ, Ahluwalia A, et al: Demographics and epidemiology of sudden deaths in young competitive athletes: From the United States National Registry.Am J Med129:1170–1177, 2016.doi: 10.1016/j.amjmed.2016.02.031
+2.Finocchiaro G, Papadakis M, Robertus JL, et al: Etiology of sudden death in sports: insights from a United Kingdom regional registry.J Am Coll Cardiol67:2108–2115, 2016.doi: 10.1016/j.jacc.2016.02.062
+2.Finocchiaro G, Papadakis M, Robertus JL, et al: Etiology of sudden death in sports: insights from a United Kingdom regional registry.J Am Coll Cardiol67:2108–2115, 2016.doi: 10.1016/j.jacc.2016.02.062
+3.Harmon KG, Asif IM, Klossner D, Drezner JA: Incidence of sudden cardiac death in National Collegiate Athletic Association athletes.Circulation123:1594–1600, 2011.doi: 10.1161/CIRCULATIONAHA.110.004622
+3.Harmon KG, Asif IM, Klossner D, Drezner JA: Incidence of sudden cardiac death in National Collegiate Athletic Association athletes.Circulation123:1594–1600, 2011.doi: 10.1161/CIRCULATIONAHA.110.004622
+4.Johri AM, Poirier P, Dorian P, et al: Canadian Cardiovascular Society/Canadian Heart Rhythm Society joint position statement on the cardiovascular screening of competitive athletes.Can J Cardiol35:1-11, 2019.doi: 10.1016/j.cjca.2018.10.016
+4.Johri AM, Poirier P, Dorian P, et al: Canadian Cardiovascular Society/Canadian Heart Rhythm Society joint position statement on the cardiovascular screening of competitive athletes.Can J Cardiol35:1-11, 2019.doi: 10.1016/j.cjca.2018.10.016
+运动期间发生心源性猝死的情况很少见，可能由肥厚型心肌病引起，但许多患者在尸检时心脏结构正常（常见于年轻运动员）或存在冠状动脉疾病（常见于年长运动员）。
+运动期间发生心源性猝死的情况很少见，可能由肥厚型心肌病引起，但许多患者在尸检时心脏结构正常（常见于年轻运动员）或存在冠状动脉疾病（常见于年长运动员）。
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+Baggish AL, Battle RW, Beaver TA, et al: Recommendations on the use of multimodality cardiovascular imaging in young adult competitive athletes: A report from the American Society of Echocardiography in collaboration with the Society of Cardiovascular Computed Tomography and the Society for Cardiovascular Magnetic Resonance.J Am Soc Echocardiogr33 (5): 523–549, 2020.doi: 10.1016/j.echo.2020.02.009
+Baggish AL, Battle RW, Beaver TA, et al: Recommendations on the use of multimodality cardiovascular imaging in young adult competitive athletes: A report from the American Society of Echocardiography in collaboration with the Society of Cardiovascular Computed Tomography and the Society for Cardiovascular Magnetic Resonance.J Am Soc Echocardiogr33 (5): 523–549, 2020.doi: 10.1016/j.echo.2020.02.009
+Johri AM, Poirier P, Dorian P, et al: Canadian Cardiovascular Society/Canadian Heart Rhythm Society joint position statement on the cardiovascular screening of competitive athletes.Can J Cardiol35:1–11, 2019.doi: 10.1016/j.cjca.2018.10.016
+Johri AM, Poirier P, Dorian P, et al: Canadian Cardiovascular Society/Canadian Heart Rhythm Society joint position statement on the cardiovascular screening of competitive athletes.Can J Cardiol35:1–11, 2019.doi: 10.1016/j.cjca.2018.10.016
+Martinez MW, Kim JH, Shah, AB, et al: Exercise-induced cardiovascular adaptations and approach to exercise and cardiovascular disease.JACC State-Of-The-Art Review,J Am Col Cardiol78 (14):1454-1470, 2021.
+Martinez MW, Kim JH, Shah, AB, et al: Exercise-induced cardiovascular adaptations and approach to exercise and cardiovascular disease.JACC State-Of-The-Art Review,J Am Col Cardiol78 (14):1454-1470, 2021.

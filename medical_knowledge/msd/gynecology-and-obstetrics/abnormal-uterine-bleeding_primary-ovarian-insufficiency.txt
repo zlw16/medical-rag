@@ -1,0 +1,156 @@
+标题：卵巢早衰
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/abnormal-uterine-bleeding/primary-ovarian-insufficiency
+============================================================
+
+卵巢早衰（POI）的特征是卵巢功能减退，导致性类固醇激素（雌激素、孕酮和睾酮）的产生减少。患者会出现更年期症状（如潮热）和影响（如骨质疏松症风险增加）以及不孕症。
+这种疾病也称为早发性卵巢功能不全。它过去被称为卵巢早衰或早发性绝经；然而，这些术语具有误导性，因为患有 POI 的女性并非总是停止月经，其卵巢也并非总是完全停止功能。因此，原发性卵巢功能不全（POI）的诊断并不总是意味着怀孕是不可能的。POI与更年期的不同之处在于卵巢功能和始基卵泡仍存在变异性；更年期发生在始基卵泡耗尽时，导致月经完全停止。
+在POI中，卵巢功能因以下任一原因受损：
+卵巢卵泡数量减少
+卵巢卵泡数量减少
+卵泡破坏加速
+卵泡破坏加速
+卵泡对促性腺激素反应差
+卵泡对促性腺激素反应差
+由于缺乏功能性卵泡，尽管循环促性腺激素（尤其是促卵泡激素[FSH]）水平较高，性类固醇激素水平仍保持低位。
+
+【原发性卵巢功能不全的病因学】
+POI由几种类型的暴露或医疗问题引起（见表原发性卵巢功能不全的病因）。每种病因的患病率分布大致如下（1）：
+遗传性（10%至30%）
+遗传性（10%至30%）
+自身免疫性（5%至17%）
+自身免疫性（5%至17%）
+毒性、代谢性或感染性（1%）
+毒性、代谢性或感染性（1%）
+医源性（6%至47%）
+医源性（6%至47%）
+特发性（39%至67%）
+特发性（39%至67%）
+可导致POI的遗传性疾病包括（2）：
+特纳（Turner）综合征（45,X或嵌合体45,X/46,XX或45,X/47，XXX）
+特纳（Turner）综合征（45,X或嵌合体45,X/46,XX或45,X/47，XXX）
+脆性X综合征（由于FMR1基因前突变导致）
+脆性X综合征（由于FMR1基因前突变导致）
+携带Y染色体的遗传性疾病也可导致原发性卵巢功能不全。这些异常通常在35岁之前症状就很明显，并会增加卵巢生殖细胞肿瘤风险。
+POI患者通常患有其他自身免疫性疾病（例如，1型糖尿病、甲状腺炎）。
+即使没有遗传病因，早发性更年期的家族史也会增加过早绝经的可能性。
+
+【原发性卵巢功能不全的病因】
+原发性卵巢功能不全的病因
+遗传性或先天性异常
+遗传缺陷导致的性腺发育不全（如特纳综合征[45,X或嵌合体45,X/46,XX或45,X/47,XXX] 或混合性性腺发育不全）
+FMR1前突变（脆性X综合征）
+X染色体三体伴有或不伴有染色体嵌合
+罕见的常染色体遗传异常
+肌强直性营养不良
+生殖细胞数量减少（由于减数分裂重组缺陷、生殖细胞池的解体）
+自身免疫性（病因或相关疾病）
+相关自身免疫性疾病（最常见的有桥本甲状腺炎、格雷夫斯病、艾迪生病、系统性红斑狼疮和1型糖尿病）
+代谢性疾病
+半乳糖血症
+17-α-羟化酶缺乏症
+17,20-裂解酶缺陷
+胆固醇侧链裂解酶缺乏症
+毒性或感染性暴露
+感染（例如，腮腺炎、结核病）
+卵泡闭锁加速（特发性）
+医源性和其他原因
+化疗药物（尤其是烷化剂）
+卵巢照射（总辐射剂量>6Gy）
+双侧卵巢切除术
+
+【病因参考文献】
+1.Stuenkel CA, Gompel A.Primary Ovarian Insufficiency.N Engl J Med.2023;388(2):154-163.doi:10.1056/NEJMcp2116488
+1.Stuenkel CA, Gompel A.Primary Ovarian Insufficiency.N Engl J Med.2023;388(2):154-163.doi:10.1056/NEJMcp2116488
+2.Hamoda H, Sharma A.Premature ovarian insufficiency, early menopause, and induced menopause.Best Pract Res Clin Endocrinol Metab.2024;38(1):101823.doi:10.1016/j.beem.2023.101823
+2.Hamoda H, Sharma A.Premature ovarian insufficiency, early menopause, and induced menopause.Best Pract Res Clin Endocrinol Metab.2024;38(1):101823.doi:10.1016/j.beem.2023.101823
+
+【原发性卵巢功能不全的症状和体征】
+POI通常表现为原发性或继发性闭经，尽管有些女性可能由于间歇性排卵或生殖道出血的其他原因而出现不规则的子宫出血。
+POI可能包括卵巢功能障碍的范围，从细微的变化到卵巢功能的完全停止。因此，症状或体征可能包括不明原因的不孕症、闭经或不规则出血，和/或经常出现的雌激素缺乏相关的症状或体征 （例如骨质疏松症、萎缩性阴道炎、性欲下降）。他们也可能有情绪变化，包括抑郁症。
+在盆腔检查中，可能存在雌激素缺乏的证据（即外阴阴道萎缩）。卵巢通常体积较小，几乎无法触及，但如果存在免疫介导性卵巢炎，卵巢可能会增大。
+女性也可能出现病因相关疾病的症状和体征（如特纳综合征所致的畸形特征；脆性 X 综合征所致的智力障碍、畸形特征及孤独症；肾上腺皮质功能不全所致的体位性低血压、色素沉着及腋毛和阴毛减少，此类情况少见）。
+
+【原发性卵巢功能不全的诊断】
+检测卵泡刺激素（FSH）和雌二醇水平
+检测卵泡刺激素（FSH）和雌二醇水平
+排除闭经或月经不规则其他原因的检查（包括妊娠试验）
+排除闭经或月经不规则其他原因的检查（包括妊娠试验）
+评估相关自身免疫性疾病的检查（甲状腺功能测试、空腹血糖、电解质和肌酐）
+评估相关自身免疫性疾病的检查（甲状腺功能测试、空腹血糖、电解质和肌酐）
+有时需要进行基因检测
+有时需要进行基因检测
+POI诊断为年龄<40岁的女性，她们的闭经持续4到6个月，同时FSH升高，雌二醇水平降低且这些水平是在相隔一个月的时间里获得的（1）。
+评估应排除闭经或月经不规则的其他原因。最初的血液测试包括血清β-人绒毛膜促性腺激素、FSH、雌二醇、促甲状腺激素和催乳素。
+血清 FSH 和雌二醇水平每周测量一次，持续 2 至 4 周；如果 FSH 水平高（>20 mIU/mL，但通常>30 mIU/mL）且雌二醇水平较低（通常<20 pg/mL），即可确诊卵巢功能不全。
+抗苗勒管激素水平也可进行检测。一些专家不常规使用此测试来诊断POI，但它对于评估希望生育的女性的卵巢储备很有用（2）。由于抗缪勒管激素仅由卵巢小卵泡分泌，该激素的血药浓度已被用于尝试诊断卵巢储备功能减退。正常水平是1.5~4.0ng/mL。非常低的水平提示卵巢储备功能下降。生殖内分泌科医生通过抗缪勒管激素水平，帮助预测哪些女性可能对促排卵药物反应不佳，以及哪些夫妇的辅助生殖治疗成功率通常较低。抗缪勒管激素可在月经周期的任意时间采集检测。新型、高灵敏度的抗缪勒管激素检测，可能有助于临床医生诊断原发性卵巢功能不全（POI）。
+根据疑似病因进行进一步检查。
+若女性有原发性卵巢功能不全（POI）家族史，或存在智力障碍、震颤、共济失调，需进行遗传咨询及FMR1基因前突变检测。如果妇女在<35岁前诊断为卵巢功能不全或卵巢功能衰竭，或怀疑FMR1前突变，则应做核型分析。
+若染色体核型正常或怀疑自身免疫性病因，需检测血清肾上腺抗体及抗 21 - 羟化酶抗体（即肾上腺自身抗体）。
+不推荐进行抗卵巢抗体检测，因为检测精确性不够（3)。不建议行卵巢活检。
+若怀疑自身免疫性病因，还需进行自身免疫性甲状腺功能减退症相关检测，包括测定促甲状腺激素（TSH）、甲状腺素（T4），以及抗甲状腺过氧化物酶抗体和抗甲状腺球蛋白抗体。
+如果怀疑肾上腺功能不全，清晨的皮质醇水平检查或促肾上腺皮质激素（ACTH）刺激实验可有助于明确诊断。
+如果病史、症状和体征表明存在特定疾病，则应进行其他自身免疫功能障碍的检查。
+在诊断POI时，可以测量基线骨密度，然后在诊断后几年开始进行常规筛查。
+较低水平的雌激素会增加动脉粥样硬化的风险，这可能与内皮功能障碍有关。原发性卵巢功能不全（POI）女性需评估心血管疾病危险因素。
+应询问患者阴道干燥和性交困难或更年期泌尿生殖系统综合征的其他症状，并定期进行盆腔检查评估外阴阴道萎缩情况。
+
+【诊断参考】
+1.Stuenkel CA, Gompel A, Davis SR, et al.Approach to the patient with new-onset secondary amenorrhea: Is this primary ovarian insufficiency?J Clin Endocrinol Metab107 (3):825–835, 2022. doi: 10.1210/clinem/dgab766
+1.Stuenkel CA, Gompel A, Davis SR, et al.Approach to the patient with new-onset secondary amenorrhea: Is this primary ovarian insufficiency?J Clin Endocrinol Metab107 (3):825–835, 2022. doi: 10.1210/clinem/dgab766
+2.Hamoda H, Sharma A.Premature ovarian insufficiency, early menopause, and induced menopause.Best Pract Res Clin Endocrinol Metab.2024;38(1):101823.doi:10.1016/j.beem.2023.101823
+2.Hamoda H, Sharma A.Premature ovarian insufficiency, early menopause, and induced menopause.Best Pract Res Clin Endocrinol Metab.2024;38(1):101823.doi:10.1016/j.beem.2023.101823
+3.Novosad JA, Kalantaridou SN, Tong ZB, Nelson LM: Ovarian antibodies as detected by indirect immunofluorescence are unreliable in the diagnosis of autoimmune premature ovarian failure: A controlled evaluation.BMC Womens Health3 (1):2, 2003.doi: 10.1186/1472-6874-3-2
+3.Novosad JA, Kalantaridou SN, Tong ZB, Nelson LM: Ovarian antibodies as detected by indirect immunofluorescence are unreliable in the diagnosis of autoimmune premature ovarian failure: A controlled evaluation.BMC Womens Health3 (1):2, 2003.doi: 10.1186/1472-6874-3-2
+
+【原发性卵巢功能不全的治疗】
+雌激素/孕激素避孕药或激素治疗（联合激素治疗或激素替代治疗）
+雌激素/孕激素避孕药或激素治疗（联合激素治疗或激素替代治疗）
+如果想要怀孕，可以进行体外受精
+如果想要怀孕，可以进行体外受精
+患有原发性卵巢功能不全（POI）且无生育意愿的女性，可采用雌孕激素避孕药（周期型或延长周期型）或雌孕激素治疗（周期型或连续型）。
+周期性激素联合治疗一直持续到51岁(绝经的平均年龄)，除非存在相关的激素禁忌症 (1)；该疗法有助于改善雌激素缺乏的症状并维持骨密度，有助于预防冠脉疾病、帕金森病、情绪改变（包括抑郁症）、萎缩性阴道炎以及痴呆的发生。 一旦妇女达到更年期的平均年龄，是否继续激素治疗取决于妇女的个人情况（例如，症状的严重程度，骨折的风险）。
+除非原发性卵巢功能不全的女性在51岁左右（绝经的平均年龄）之前接受雌激素治疗，否则骨质疏松、痴呆、帕金森病、抑郁症和冠状动脉疾病的风险就会增加。
+对有生育要求的妇女，可以选择给予赠卵体外受精加外源性雌孕激素治疗，后者使得子宫内膜能够支持移植的胚胎。卵细胞供体年龄比受体年龄更重要。该技术疗效尚可，但即便不采用该技术，部分确诊 POI 的女性也可能自然受孕。没有治疗被证实能够提高原发性卵巢功能不全的女性的排卵率或恢复生育能力 (2)。然而，正在研究恢复生育能力。
+有生育意愿女性的其他选择包括卵巢组织、卵母细胞或胚胎冷冻保存，以及胚胎捐赠。这些技术可以在卵巢功能衰竭之前或者之中使用，特别是对于肿瘤患者。新生儿及成人卵巢中含有少量卵原干细胞，这类细胞可在体外稳定增殖数月并产生成熟卵母细胞，未来或可用于研发不孕不育治疗方案。卵巢组织移植已经成功，未来可能成为不再生育的女性的一种选择（3）。正在探索用磷酸酶和张力蛋白同源物（PTEN）抑制剂激活休眠卵泡，然后重新移植经过处理的卵巢样本（4）。
+约5％至10％的原发性卵巢功能不全患者未行辅助生育治疗但最终自行怀孕。
+除非存在禁忌证，否则建议 POI 女性采用绝经激素治疗或雌孕激素避孕药预防骨丢失，而非其他骨特异性治疗（如双膦酸盐类药物）；治疗需持续至女性达到平均绝经年龄（约 51 岁），届时可重新评估是否继续治疗。
+为了帮助防止骨质疏松,原发性卵巢功能不全的妇女应摄入足够量的钙和维生素D（在饮食和/或作为额外补充）。
+患有更年期泌尿生殖系统综合征的妇女应根据需要使用非激素润滑剂和保湿剂、阴道激素疗法或其他措施来控制症状。
+具有 Y 染色体的女性需要通过剖腹手术或腹腔镜进行双侧卵巢切除术，因为卵巢生殖细胞癌的风险会增加。
+
+【治疗参考文献】
+1.Committee Opinion No. 698: Hormone Therapy in Primary Ovarian Insufficiency.Obstet Gynecol.2017;129(5):e134-e141.doi:10.1097/AOG.0000000000002044
+1.Committee Opinion No. 698: Hormone Therapy in Primary Ovarian Insufficiency.Obstet Gynecol.2017;129(5):e134-e141.doi:10.1097/AOG.0000000000002044
+2.Hatirnaz S, Basbug A, Akarsu S, Hatirnaz E, Demirci H, Dahan MH.Outcomes of random start versusclomiphenecitrate and gonadotropin cycles in occult premature ovarian insufficiency patients, refusing oocyte donation: a retrospective cohort study.Gynecol Endocrinol.2018;34(11):949-954.doi:10.1080/09513590.2018.1473361
+2.Hatirnaz S, Basbug A, Akarsu S, Hatirnaz E, Demirci H, Dahan MH.Outcomes of random start versusclomiphenecitrate and gonadotropin cycles in occult premature ovarian insufficiency patients, refusing oocyte donation: a retrospective cohort study.Gynecol Endocrinol.2018;34(11):949-954.doi:10.1080/09513590.2018.1473361
+3.Sheshpari, S., Shahnazi, M., Mobarak, H. et al.Ovarian function and reproductive outcome after ovarian tissue transplantation: A systematic review.J Transl Med.2019;17(1):396.Published 2019 Nov 29.doi:10.1186/s12967-019-02149-2
+3.Sheshpari, S., Shahnazi, M., Mobarak, H. et al.Ovarian function and reproductive outcome after ovarian tissue transplantation: A systematic review.J Transl Med.2019;17(1):396.Published 2019 Nov 29.doi:10.1186/s12967-019-02149-2
+4.Donnez J, Dolmans MM.Ovarian cortex transplantation: 60 reported live births brings the success and worldwide expansion of the technique towards routine clinical practice.J Assist Reprod Genet.2015;32(8):1167-1170.doi:10.1007/s10815-015-0544-9
+4.Donnez J, Dolmans MM.Ovarian cortex transplantation: 60 reported live births brings the success and worldwide expansion of the technique towards routine clinical practice.J Assist Reprod Genet.2015;32(8):1167-1170.doi:10.1007/s10815-015-0544-9
+
+【原发性卵巢功能不全诊疗指南】
+以下是关于此医疗问题的专业医学协会或政府临床实践指南列表（这不是一个完整的列表）：
+American College of Obstetricians and Gynecologists (ACOG) Committee Opinion.Primary Ovarian Insufficiency in Adolescents and Young Women.2014 (reaffirmed 2021).
+American College of Obstetricians and Gynecologists (ACOG) Committee Opinion.Primary Ovarian Insufficiency in Adolescents and Young Women.2014 (reaffirmed 2021).
+ACOG Committee Opinion.Hormone Therapy in Primary Ovarian Insufficiency.2017 (reaffirmed 2021).
+ACOG Committee Opinion.Hormone Therapy in Primary Ovarian Insufficiency.2017 (reaffirmed 2021).
+不明原因月经异常、不孕、或具有雌激素缺乏症状的女性中要怀疑原发性卵巢功能不足。评估年龄<40岁且月经不规则的女性。
+不明原因月经异常、不孕、或具有雌激素缺乏症状的女性中要怀疑原发性卵巢功能不足。评估年龄<40岁且月经不规则的女性。
+通过检测FSH（升高，通常>30mIU/mL）和雌二醇（降低，通常<20pg/mL）来明确诊断。
+通过检测FSH（升高，通常>30mIU/mL）和雌二醇（降低，通常<20pg/mL）来明确诊断。
+评估外阴阴道萎缩（绝经期泌尿生殖综合征）。
+评估外阴阴道萎缩（绝经期泌尿生殖综合征）。
+评估心脏危险因素，因为较低水平的雌激素会增加动脉粥样硬化的风险，这可能与内皮功能障碍有关。
+评估心脏危险因素，因为较低水平的雌激素会增加动脉粥样硬化的风险，这可能与内皮功能障碍有关。
+考虑基线DEXA扫描。
+考虑基线DEXA扫描。
+如果确定了自身免疫性病因，则需检测其他自身免疫性疾病相关指标，例如甲状腺抗体和肾上腺抗体。
+如果确定了自身免疫性病因，则需检测其他自身免疫性疾病相关指标，例如甲状腺抗体和肾上腺抗体。
+考虑核型分析和脆性X综合征的检测；具有Y染色体物质的女性需要卵巢切除术。
+考虑核型分析和脆性X综合征的检测；具有Y染色体物质的女性需要卵巢切除术。
+对于那些患有特纳综合征的人，考虑进行心脏超声心动图和肾脏超声检查。
+对于那些患有特纳综合征的人，考虑进行心脏超声心动图和肾脏超声检查。
+对于那些想要怀孕的人，测量抗苗勒管激素水平，并咨询生育影响，并转诊至生殖内分泌科。
+对于那些想要怀孕的人，测量抗苗勒管激素水平，并咨询生育影响，并转诊至生殖内分泌科。
+除非有禁忌症，应该开具周期性雌激素/孕激素疗法（联合激素治疗），持续服用至大约51岁（绝经的平均年龄），以维持骨密度并缓解雌激素缺乏的症状和并发症。
+除非有禁忌症，应该开具周期性雌激素/孕激素疗法（联合激素治疗），持续服用至大约51岁（绝经的平均年龄），以维持骨密度并缓解雌激素缺乏的症状和并发症。

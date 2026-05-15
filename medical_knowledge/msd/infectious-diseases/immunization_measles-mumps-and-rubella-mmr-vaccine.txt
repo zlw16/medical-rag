@@ -1,0 +1,109 @@
+标题：麻疹、腮腺炎和风疹（MMR）疫苗
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/immunization/measles-mumps-and-rubella-mmr-vaccine
+============================================================
+
+根据免疫实践咨询委员会（ACIP）的数据，麻疹/腮腺炎/风疹疫苗（MMR）具有高效性，麻疹的血清转换率约为96%，腮腺炎为93%，风疹为98%（1）。
+麻疹、腮腺炎和风疹（尤其是麻疹容易引发疫情）的发病率上升与疫苗接种率下降密切相关，这主要是由疫苗接种犹豫和延迟接种以及疫苗接种计划的中断所导致（2）。从历史上看，根据美国疫苗接种计划接种MMR疫苗的人获得终身保护；因此，应鼓励接种疫苗。
+(参见疫苗接种概述。)
+
+【参考文献】
+1.Schenk J, Abrams S, Theeten H, Van Damme P, Beutels P, Hens N.Immunogenicity and persistence of trivalent measles, mumps, and rubella vaccines: a systematic review and meta-analysis.Lancet Infect Dis.2021;21(2):286-295.doi:10.1016/S1473-3099(20)30442-4
+1.Schenk J, Abrams S, Theeten H, Van Damme P, Beutels P, Hens N.Immunogenicity and persistence of trivalent measles, mumps, and rubella vaccines: a systematic review and meta-analysis.Lancet Infect Dis.2021;21(2):286-295.doi:10.1016/S1473-3099(20)30442-4
+2.Zucker JR, Rosen JB, Iwamoto M, et al.Consequences of Undervaccination - Measles Outbreak, New York City, 2018-2019.N Engl J Med.2020;382(11):1009-1017.doi:10.1056/NEJMoa1912514
+2.Zucker JR, Rosen JB, Iwamoto M, et al.Consequences of Undervaccination - Measles Outbreak, New York City, 2018-2019.N Engl J Med.2020;382(11):1009-1017.doi:10.1056/NEJMoa1912514
+
+【MMR疫苗制剂】
+麻疹/腮腺炎/风疹疫苗含有在鸡胚细胞培养物中制备的减毒活麻疹病毒和腮腺炎病毒。它还含有在人二倍体肺成纤维细胞中制备的减毒风疹病毒。
+麻腮风疫苗和水痘疫苗可作为四联MMRV疫苗使用（即麻疹病毒/腮腺炎病毒/风疹病毒/水痘病毒疫苗）。
+
+【MMR疫苗的适应症】
+MMR疫苗是一个儿童时期的常规免疫接种内容(1)。
+1957年之前出生的人在1963年第一种疫苗问世前经历了多年的麻疹流行，因此被认为具有免疫力，调查显示，其中95%至98%的人可能曾感染过该病（2）。对于出生于1957年或之后的所有成年人应该给予1剂MMR疫苗接种，有以下之一情况的无需接种 (3):
+记录显示曾接种过1剂或多剂麻疹/流行性腮腺炎/风疹疫苗
+记录显示曾接种过1剂或多剂麻疹/流行性腮腺炎/风疹疫苗
+实验室证据表明对这三种疾病具有免疫力，
+实验室证据表明对这三种疾病具有免疫力，
+存在该疫苗接种的禁忌症
+存在该疫苗接种的禁忌症
+经医师临床诊断但未经实验室确认的疾病情况，不可作为麻疹、腮腺炎或风疹免疫力的有效证据。没有麻疹免疫推定证据的国际旅行者（包括6至12个月大的婴儿）以及对MMR或MMRV疫苗没有禁忌症的人最好在旅行前至少2周接种任何一种疫苗（4）。
+
+【经验与提示】
+经验与提示
+经医生临床诊断的既往病史，不能作为麻疹、腮腺炎或风疹的免疫证明。
+经医生临床诊断的既往病史，不能作为麻疹、腮腺炎或风疹的免疫证明。
+对于可能暴露的成人，建议接种第二剂MMR疫苗（或者，如果他们没有接种过疫苗，则间隔至少28天接种2剂）(5)：
+高校或其他高中毕业后的教育机构里的学生
+高校或其他高中毕业后的教育机构里的学生
+1957年或以后出生且没有免疫力证据的医护人员
+1957年或以后出生且没有免疫力证据的医护人员
+预计会接触疫情环境或国际旅行者
+预计会接触疫情环境或国际旅行者
+HIV感染患者，CD4≥15%且CD4细胞计数≥200/mcL持续≥6个月，且无麻疹、腮腺炎或风疹免疫证据
+HIV感染患者，CD4≥15%且CD4细胞计数≥200/mcL持续≥6个月，且无麻疹、腮腺炎或风疹免疫证据
+1957年前出生的人和在卫生保健机构内工作的人员（无论是否负有患者护理职责），如果没有免疫证据，应考虑接种疫苗（2）。接种两剂MMR疫苗（如果仅需预防风疹，则1剂）。
+在1963到1967年间，接种过灭活麻疹疫苗或未知类型麻疹疫苗的人群，应重新接种2剂MMR疫苗。
+在 1979 年之前接种过灭活腮腺炎疫苗或疫苗类型不明的腮腺炎疫苗者，若处于腮腺炎高风险暴露人群，应给予 2 剂 MMR 疫苗重新接种。
+如果年龄≥12个月的人既往曾接受≤2剂腮腺炎疫苗，并在腮腺炎暴发期间被公共卫生机构确认为腮腺炎风险增加，则应给他们接种1剂MMR疫苗。
+由于妊娠期间感染风疹病毒会对胎儿产生严重影响（如流产、多发出生缺陷），因此所有育龄妇女，无论年龄，均应筛查其风疹免疫力。如果没有免疫证据，未怀孕的女性应接种疫苗。对于没有免疫证据的怀孕患者，应在分娩后且出院前接种疫苗。
+
+【适应症参考文献】
+1.Centers for Disease Control and Prevention (CDC).Child and Adolescent Immunization Schedule by Age.Accessed September 23, 2025.
+1.Centers for Disease Control and Prevention (CDC).Child and Adolescent Immunization Schedule by Age.Accessed September 23, 2025.
+2.Immunize.org.Ask the Experts: MMR (Measles, Mumps, and Rubella).Accessed April 18, 2025.
+2.Immunize.org.Ask the Experts: MMR (Measles, Mumps, and Rubella).Accessed April 18, 2025.
+3.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+3.CDC.Adult Immunization Schedule by Age.Accessed September 23, 2025.
+4.CDC.Measles (Rubeola).Accessed September 23, 2025.
+4.CDC.Measles (Rubeola).Accessed September 23, 2025.
+5.Strebel PM, Orenstein WA. Measles.N Engl J Med.2019;381(4):349-357.doi:10.1056/NEJMcp1905181
+5.Strebel PM, Orenstein WA. Measles.N Engl J Med.2019;381(4):349-357.doi:10.1056/NEJMcp1905181
+
+【MMR疫苗的禁忌症及其注意事项】
+MMR疫苗的禁忌证包括：
+严重的过敏反应（例如，严重过敏反应）既往接种后或对疫苗成分过敏（即对新霉素的严重过敏反应而非迟发型超敏反应，对明胶的严重过敏反应）
+严重的过敏反应（例如，严重过敏反应）既往接种后或对疫苗成分过敏（即对新霉素的严重过敏反应而非迟发型超敏反应，对明胶的严重过敏反应）
+已知的严重原发性或继发性免疫缺陷（例如：由白血病、淋巴瘤、实体瘤、累及骨髓或淋巴系统的肿瘤、晚期 HIV 感染、化疗，或长期使用免疫抑制剂所致）。
+已知的严重原发性或继发性免疫缺陷（例如：由白血病、淋巴瘤、实体瘤、累及骨髓或淋巴系统的肿瘤、晚期 HIV 感染、化疗，或长期使用免疫抑制剂所致）。
+怀孕（疫苗接种应推迟到怀孕结束）
+怀孕（疫苗接种应推迟到怀孕结束）
+一级亲属（父母或兄弟姐妹）有先天性遗传性免疫缺陷的家族史，除非已知疫苗接种者具有免疫能力
+一级亲属（父母或兄弟姐妹）有先天性遗传性免疫缺陷的家族史，除非已知疫苗接种者具有免疫能力
+对于存在严重免疫缺陷的HIV感染才是接种禁忌（CDC免疫学分类3期， CD4百分比 < 15%或CD4计数<200细胞/mcL）。如果免疫缺陷不严重，野生麻疹 (自然发生的疾病菌株) 的风险将超过从活疫苗中获得麻疹的风险。
+对于已接种疫苗的女性，应在接种后至少28天内避免怀孕。在妊娠早期，疫苗中的病毒有感染胎儿的风险。虽然该疫苗不会导致先天性风疹综合征，但理论上存在胎儿损害的风险。
+MMR疫苗的注意事项包括：
+伴或不伴发热的中度或重度急性疾病（接种应推迟到疾病缓解）
+伴或不伴发热的中度或重度急性疾病（接种应推迟到疾病缓解）
+最近（11月内）有接受含有抗体的血制品的治疗（与疫苗接种的具体间隔时间取决于血制品类型）
+最近（11月内）有接受含有抗体的血制品的治疗（与疫苗接种的具体间隔时间取决于血制品类型）
+有血小板减少症或血小板减少性紫癜病史
+有血小板减少症或血小板减少性紫癜病史
+如果患者感染了Mycobacterium tuberculosis（结核分枝杆菌），麻疹/流行性腮腺炎/风疹疫苗和麻疹/流行性腮腺炎/风疹/水痘疫苗可能会暂时抑制结核菌素试验或干扰素-γ释放试验的反应。因此，如果需要的话，这些测试可以在疫苗接种前或接种时完成。 如果人们已经接种了疫苗，该试验应推迟到疫苗接种4〜6周后。
+
+【MMR疫苗的剂量和给药方法】
+MMR疫苗剂量为0.5mL，皮下注射。
+MMR疫苗常规在儿童12～15个月龄以及4～6岁时分别接种1次。
+
+【MMR疫苗的不良反应】
+MMR疫苗造成轻微或隐性的、不会传染的感染。症状包括体温＞38°C，有时伴有皮疹。罕见的中枢神经系统不良反应包括无菌性脑膜炎（1至10例/百万剂次）和脑炎（＜1例/百万剂次）。该疫苗还与低风险的热性惊厥（1/3000剂次）和血栓性血小板减少性紫癜（1/30000剂次）的小风险相关。过敏反应罕见（1）。
+风疹成分偶尔会导致女性出现短暂、自限性的关节痛和关节炎（2）。
+有充分证据表明，该疫苗不会导致自闭症谱系障碍（见麻疹-腮腺炎-风疹（MMR）疫苗和疫苗安全性）。
+有关这些疫苗不良反应的更多信息，请参阅处方信息。
+
+【不良反应参考】
+1.Strebel PM, Orenstein WA.Measles.N Engl J Med.2019;381(4):349-357.doi:10.1056/NEJMcp1905181
+1.Strebel PM, Orenstein WA.Measles.N Engl J Med.2019;381(4):349-357.doi:10.1056/NEJMcp1905181
+2.Tingle AJ, Mitchell LA, Grace M, et al.Randomised double-blind placebo-controlled study on adverse effects of rubella immunisation in seronegative women.Lancet.1997;349(9061):1277-1281.doi:10.1016/S0140-6736(96)12031-6
+2.Tingle AJ, Mitchell LA, Grace M, et al.Randomised double-blind placebo-controlled study on adverse effects of rubella immunisation in seronegative women.Lancet.1997;349(9061):1277-1281.doi:10.1016/S0140-6736(96)12031-6
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Measles, Mumps and Rubella (MMR) Vaccine
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Measles, Mumps and Rubella (MMR) Vaccine
+Centers for Disease Control and Prevention (CDC):Measles, Mumps, and Rubella
+Centers for Disease Control and Prevention (CDC):Measles, Mumps, and Rubella
+European Centre for Disease Prevention and Control (ECDC):Measles: Recommended vaccinations
+European Centre for Disease Prevention and Control (ECDC):Measles: Recommended vaccinations
+ECDC:Mumps: Recommended vaccinations
+ECDC:Mumps: Recommended vaccinations
+ECDC:Rubella: Recommended vaccinations
+ECDC:Rubella: Recommended vaccinations

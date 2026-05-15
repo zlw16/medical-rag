@@ -1,0 +1,69 @@
+标题：原发性阿米巴脑膜脑炎
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/extraintestinal-protozoa/primary-amebic-meningoencephalitis
+============================================================
+
+Naegleria fowleri（福氏耐格里阿米巴） 栖息于全球温暖的淡水土壤和水体中；它无法在盐水中生存。福氏耐格里阿米巴也可以生活在温泉、工业厂房排放的温水中，或者维护不善、氯化处理极少或没有氯化处理的游泳池中。它甚至可以在高达 46°C 的热水器中生长，并在更高的温度下存活短时间。
+在美国，大多数感染发生在南部各州，在夏季接触温暖的湖泊和河流淡水后（1）。
+在受污染的水中游泳会导致鼻腔黏膜接触到这种微生物，该微生物可经嗅神经上皮和筛板进入中枢神经系统。大部分感染者是健康儿童或青壮年。
+
+【参考文献】
+1.Centers for Disease Control and Prevention (CDC).AboutNaegleria fowleriInfections.Accessed March 24, 2025.
+1.Centers for Disease Control and Prevention (CDC).AboutNaegleria fowleriInfections.Accessed March 24, 2025.
+
+【原发性阿米巴脑膜脑炎的病理生理学】
+N. fowleri（福氏耐格里阿米巴）的生命周期涉及 3 个阶段：囊肿、滋养体（感染形式）和鞭毛虫。
+滋养体可以通过鼻粘膜进入人体。然后，它们通过嗅神经迁移到大脑（穿透筛板后），在那里引起原发性阿米巴脑膜脑炎。
+在受感染的患者中，脑脊液（CSF）和组织中发现滋养体，偶尔在脑脊液中发现鞭毛体。在脑组织中未见包囊。
+1–3。福氏耐格里阿米巴的生活周期有3个阶段：包囊、滋养体、鞭毛体。
+1–3。福氏耐格里阿米巴的生活周期有3个阶段：包囊、滋养体、鞭毛体。
+4.滋养体通过前有丝分裂进行复制（核膜保持完整）。
+4.滋养体通过前有丝分裂进行复制（核膜保持完整）。
+5–6。滋养体是感染形式。它们可以变成临时的非摄食鞭毛体，通常又会恢复成滋养体。滋养体通常在游泳或鼻窦冲洗时穿透鼻黏膜感染人类或动物（5），并通过嗅觉神经迁移到大脑（6），引起原发性阿米巴脑膜脑炎（PAM）。滋养体见于脑脊液和组织中，而鞭毛体偶尔见于脑脊液。在脑组织中未见包囊。
+5–6。滋养体是感染形式。它们可以变成临时的非摄食鞭毛体，通常又会恢复成滋养体。滋养体通常在游泳或鼻窦冲洗时穿透鼻黏膜感染人类或动物（5），并通过嗅觉神经迁移到大脑（6），引起原发性阿米巴脑膜脑炎（PAM）。滋养体见于脑脊液和组织中，而鞭毛体偶尔见于脑脊液。在脑组织中未见包囊。
+Image from the Centers for Disease Control and Prevention, Global Health, Division of Parasitic Diseases and Malaria.
+
+【原发性阿米巴脑膜脑炎的症状和体征】
+原发性阿米巴脑膜脑炎在接触后1～2周内开始出现症状，有时会伴发嗅觉及味觉异常。
+随后发生暴发性脑膜脑炎，表现为头痛、脑膜刺激征和精神状态改变，通常因脑疝在10天内进展至死亡。只有少数的患者得以存活。
+
+【原发性阿米巴脑膜脑炎的诊断】
+脑脊液检查
+脑脊液检查
+原发性阿米巴性脑膜脑炎的诊断需结合患者有淡水游泳史，但确诊较为困难，因为尽管 CT、MRI 及常规脑脊液检查有助于排除其他原因，但这些检查缺乏特异性。影像学表现典型为脑水肿、脑积水和脑膜增强。
+应尽快对新鲜脑脊液（非冷藏或冷冻）进行湿涂片；该检查可能会显示出运动的阿米巴滋养体（可在吉姆萨和苏木精-伊红染色的标本中观察到，但会被革兰氏染色技术破坏）。
+该图像显示了用苏木精和伊红染色的脑脊液中福氏耐格里阿米巴的滋养体。
+CDC/DPDx
+在专业参考实验室可进行免疫组化、阿米巴培养、脑脊液聚合酶链反应和/或脑活检等检测。Consultation with the Centers for Disease Control and Prevention (CDC)建议咨询疾病预防和控制中心（CDC）或在阿米巴性脑炎诊断方面的其他专家。
+
+【原发性阿米巴脑膜脑炎的治疗】
+多种药物，包括米替福新联合抗真菌药物和抗生素
+多种药物，包括米替福新联合抗真菌药物和抗生素
+最佳治疗方法尚不清楚，但必须尽快开始。建议咨询疾病预防控制中心的专家（咨询疾病控制和预防中心（CDC））。
+治疗方案应包括抗利什曼病药物米替福新，该药物已与其他药物联合使用成功治疗原发性阿米巴脑膜脑炎患者。米替福新也已成功用于治疗因Balamuthia, Sappinia,（巴拉姆希阿米巴、萨氏阿米巴）和Acanthamoeba（棘阿米巴）引起的脑炎，且该药物有市售。尽管米替福新可能导致先天性异常，但对于妊娠患者可以考虑使用，因为原发性阿米巴脑膜脑炎通常是致命的，如果不进行治疗；因此，治疗的潜在益处可能超过对胎儿的风险。
+针对Naegleria（耐格里阿米巴）的联合治疗方案中，已使用的其他抗菌药物包括以下：
+两性霉素B
+两性霉素B
+唑类（氟康唑、伏立康唑或酮康唑）
+唑类（氟康唑、伏立康唑或酮康唑）
+阿奇霉素或米诺环素
+阿奇霉素或米诺环素
+硝唑尼特是一种研究性药物，可能作为联合治疗的一部分有效。在美国，可通过CDC（1）获取。
+抗癫痫药和地塞米松通常用来控制癫痫发作和脑水肿 (2)。可能需要静脉注射甘露醇或高渗盐水才能达到控制。采用低温治疗法（将身体冷却至正常体温以下）积极治疗脑水肿也与少数幸存患者的生存和神经功能恢复有关（3）。
+
+【治疗参考文献】
+1.Chao-Pellicer J, Arberas-Jiménez I, Fuchs F, et al.Repurposing ofNitroxolineas an Alternative Primary Amoebic Meningoencephalitis Treatment.Antibiotics (Basel).2023;12(8):1280.Published 2023 Aug 3.doi:10.3390/antibiotics12081280
+1.Chao-Pellicer J, Arberas-Jiménez I, Fuchs F, et al.Repurposing ofNitroxolineas an Alternative Primary Amoebic Meningoencephalitis Treatment.Antibiotics (Basel).2023;12(8):1280.Published 2023 Aug 3.doi:10.3390/antibiotics12081280
+2.Anwar A, Rajendran K, Siddiqui R, Raza Shah M, Khan NA.Clinically Approved Drugs against CNS Diseases as Potential Therapeutic Agents To Target Brain-Eating Amoebae.ACS Chem Neurosci.2019;10(1):658-666.doi:10.1021/acschemneuro.8b00484
+2.Anwar A, Rajendran K, Siddiqui R, Raza Shah M, Khan NA.Clinically Approved Drugs against CNS Diseases as Potential Therapeutic Agents To Target Brain-Eating Amoebae.ACS Chem Neurosci.2019;10(1):658-666.doi:10.1021/acschemneuro.8b00484
+3.Pugh JJ, Levy RA.Naegleria fowleri: Diagnosis, Pathophysiology of Brain Inflammation, and Antimicrobial Treatments.ACS Chem Neurosci.2016;7(9):1178-1179.doi:10.1021/acschemneuro.6b00232
+3.Pugh JJ, Levy RA.Naegleria fowleri: Diagnosis, Pathophysiology of Brain Inflammation, and Antimicrobial Treatments.ACS Chem Neurosci.2016;7(9):1178-1179.doi:10.1021/acschemneuro.6b00232
+原发性阿米巴脑膜脑炎较为罕见，且通常致命。
+原发性阿米巴脑膜脑炎较为罕见，且通常致命。
+感染通常在于受污染的淡水中游泳时获得；Naegleria fowleri（福氏变形虫）可经嗅觉神经上皮和筛板进入中枢神经系统。
+感染通常在于受污染的淡水中游泳时获得；Naegleria fowleri（福氏变形虫）可经嗅觉神经上皮和筛板进入中枢神经系统。
+诊断试验应包括脑脊液（CSF）湿涂片检查和吉姆萨染色标本检查；可能需要进行脑活检和免疫组织化学检查以确诊。
+诊断试验应包括脑脊液（CSF）湿涂片检查和吉姆萨染色标本检查；可能需要进行脑活检和免疫组织化学检查以确诊。
+用多种抗菌药物治疗感染，包括米替福新；如有必要，用抗癫痫药和地塞米松治疗癫痫发作和脑水肿。
+用多种抗菌药物治疗感染，包括米替福新；如有必要，用抗癫痫药和地塞米松治疗癫痫发作和脑水肿。
+生存病例极为罕见，但已知个别存活者的成功归因于早期诊断、及时治疗以及积极控制脑水肿的综合管理。
+生存病例极为罕见，但已知个别存活者的成功归因于早期诊断、及时治疗以及积极控制脑水肿的综合管理。

@@ -1,0 +1,189 @@
+标题：腹主动脉瘤（AAA）
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/diseases-of-the-aorta-and-its-branches/abdominal-aortic-aneurysms-aaa
+============================================================
+
+(参见主动脉瘤概述。）
+腹主动脉瘤 (AAA) 占主动脉瘤的四分之三，可能影响 0.4% 至 7.6% 的人，具体取决于所研究的人群（1)。在男性中发病率较女性高3倍。腹主动脉瘤通常始于肾动脉以下（肾下型）(2)，但也可能累及肾动脉开口（肾旁型）；约50%的病例累及髂动脉。根据定义，主动脉直径≥3厘米构成AAA。 大多数 AAA 呈梭形（动脉周向增宽）。 许多内壁附着层状血栓。
+
+【参考文献】
+1.O'Donnell TFX, Landon BE, Schermerhorn ML.The case for expanding abdominal aortic aneurysm screening.J Vasc Surg2020;71(5):1809-1812.doi:10.1016/j.jvs.2019.10.024
+1.O'Donnell TFX, Landon BE, Schermerhorn ML.The case for expanding abdominal aortic aneurysm screening.J Vasc Surg2020;71(5):1809-1812.doi:10.1016/j.jvs.2019.10.024
+2.Jongkind V, Yeung KK, Akkersdijk GJ, et al.Juxtarenal aortic aneurysm repair.J Vasc Surg2010;52(3):760-767.doi:10.1016/j.jvs.2010.01.049
+2.Jongkind V, Yeung KK, Akkersdijk GJ, et al.Juxtarenal aortic aneurysm repair.J Vasc Surg2010;52(3):760-767.doi:10.1016/j.jvs.2010.01.049
+
+【腹主动脉瘤（AAA）的病因】
+腹主动脉瘤的病因是多因素的，但通常涉及动脉壁的减弱，常见原因是
+动脉粥样硬化
+动脉粥样硬化
+其他病因包括：
+囊性内侧坏死（主动脉中膜变性）
+囊性内侧坏死（主动脉中膜变性）
+术后吻合口破裂
+术后吻合口破裂
+血管炎（例如，大动脉炎）
+血管炎（例如，大动脉炎）
+罕见情况下，梅毒和局部细菌或真菌感染（通常由脓毒症或感染性心内膜炎引起）会削弱动脉壁，导致感染性（真菌性）动脉瘤。Staphylococcus aureus（金黄色葡萄球菌） 是引起感染性动脉瘤的第一大原因，其次是Salmonella（沙门氏菌）。
+
+【危险因素】
+腹主动脉瘤的危险因素包括
+吸烟（最强的危险因素）
+吸烟（最强的危险因素）
+年龄较大（发病高峰为70~80岁）
+年龄较大（发病高峰为70~80岁）
+有家族史（15%~25％）
+有家族史（15%~25％）
+种族（白人患者比非洲血统患者更常见）
+种族（白人患者比非洲血统患者更常见）
+性别为男性
+性别为男性
+遗传性结缔组织疾病（例如，马凡综合征,埃勒斯-当洛斯综合征, 洛伊斯-迪茨综合征)
+遗传性结缔组织疾病（例如，马凡综合征,埃勒斯-当洛斯综合征, 洛伊斯-迪茨综合征)
+
+【腹主动脉瘤的症状和体征】
+大多数腹主动脉瘤无症状。当症状和体征发生时，可能是非特异性的，但通常是由相邻结构受压造成的。随着腹主动脉瘤的扩张，可能引起疼痛，这种疼痛呈持续性、深部、钻痛样、内脏性，最明显的感觉部位在腰骶区。患者可能会意识到异常明显的腹部搏动。虽然大多数动脉瘤生长缓慢，但迅速扩大的即将破裂的动脉瘤可能会有压痛。
+动脉瘤作为一个搏动的肿块可能扪及或可能未被扪及，取决于它的大小和病人的体型。可触及搏动性肿块的患者患有小动脉瘤（即，<4cm）的概率约为55%（阳性预测值）；仅当肿块直径 > 5 cm 时，概率才超过 80%（1)。在动脉瘤上可能闻及收缩期杂音。
+隐匿性AAA的患者有时出现并发症或病因的症状(如发热、不适或因感染或血管炎导致体重减轻)。
+腹主动脉瘤的主要并发症包括
+瘤体破裂
+瘤体破裂
+远端栓塞
+远端栓塞
+弥散性血管内凝血（DIC）（并不常见）
+弥散性血管内凝血（DIC）（并不常见）
+瘤体破裂最有可能发生在肾动脉下方2~4cm的左后外侧壁上。 如果腹主动脉瘤破裂，大多数患者在到达医疗机构之前就已经死亡。 没有立即死亡的病人通常表现为腹部或背部疼痛、低血压和心动过速。他们可能有新近上腹部创伤的病史，多为轻度，或等长性用力的病史（如，抬重物时）。即使是活着到达医院的患者也有约50％的死亡率 (2)。
+血栓或动脉粥样硬化物质的远端栓塞可能会移动并阻塞肾脏、肠和下肢的动脉。当下肢动脉阻塞时，患者通常表现为突发单侧肢体剧痛、面色苍白和脉搏消失（另见急性外周动脉闭塞）。
+少见的是，大的AAAs引起弥散性血管内凝血，可能因为大面积异常内皮表面触发迅速的血栓形成和消耗了凝血因子之故。
+
+【症状和体征参考】
+1.Venkatasubramaniam AK, Mehta T, Chetter IC, et al.The value of abdominal examination in the diagnosis of abdominal aortic aneurysm.Eur J Vasc Endovasc Surg2004;27(1):56-60.doi:10.1016/j.ejvs.2003.09.006
+1.Venkatasubramaniam AK, Mehta T, Chetter IC, et al.The value of abdominal examination in the diagnosis of abdominal aortic aneurysm.Eur J Vasc Endovasc Surg2004;27(1):56-60.doi:10.1016/j.ejvs.2003.09.006
+2.Durieux R, Lardinois MJ, Albert A, Defraigne JO, Sakalihasan N.Outcomes and Predictors of Mortality in a Belgian Population of Patients Admitted with Ruptured Abdominal Aortic Aneurysm and Treated by Open Repair in the Contemporary Era.Ann Vasc Surg2022;78:197-208.doi:10.1016/j.avsg.2021.05.015
+2.Durieux R, Lardinois MJ, Albert A, Defraigne JO, Sakalihasan N.Outcomes and Predictors of Mortality in a Belgian Population of Patients Admitted with Ruptured Abdominal Aortic Aneurysm and Treated by Open Repair in the Contemporary Era.Ann Vasc Surg2022;78:197-208.doi:10.1016/j.avsg.2021.05.015
+
+【腹主动脉瘤（AAA）的诊断】
+通常是在体检或放射学检查中的偶然发现
+通常是在体检或放射学检查中的偶然发现
+可以通过超声或腹部CT扫描检查确诊
+可以通过超声或腹部CT扫描检查确诊
+有时需要CT血管成像或磁共振血管成像
+有时需要CT血管成像或磁共振血管成像
+大多数腹主动脉瘤是在体检或因其他原因进行腹部超声、CT或MRI检查时偶然发现的。在表现有急性腹痛或背痛的老年病人中，无论扪及或未扪及搏动性肿块者均应考虑AAAs。
+该患者腹主动脉瘤直径3.4厘米（位于白色十字架中间），还有动脉粥样硬化斑块或附壁血栓（红色箭头）。
+该患者腹主动脉瘤直径3.4厘米（位于白色十字架中间），还有动脉粥样硬化斑块或附壁血栓（红色箭头）。
+© 2017 Elliot K.Fishman, MD.
+白色箭头显示一个直径5厘米的腹主动脉瘤，伴有血流不均和附壁斑块。
+白色箭头显示一个直径5厘米的腹主动脉瘤，伴有血流不均和附壁斑块。
+© 2017 Elliot K.Fishman, MD.
+白色箭头表示肾上腹主动脉假性动脉瘤。肾下主动脉和髂动脉也有大量斑块。
+白色箭头表示肾上腹主动脉假性动脉瘤。肾下主动脉和髂动脉也有大量斑块。
+© 2017 Elliot K.Fishman, MD.
+该患者腹主动脉瘤直径3.4厘米（位于白色十字架中间），还有动脉粥样硬化斑块或附壁血栓（红色箭头）。
+该患者腹主动脉瘤直径3.4厘米（位于白色十字架中间），还有动脉粥样硬化斑块或附壁血栓（红色箭头）。
+© 2017 Elliot K.Fishman, MD.
+白色箭头显示一个直径5厘米的腹主动脉瘤，伴有血流不均和附壁斑块。
+白色箭头显示一个直径5厘米的腹主动脉瘤，伴有血流不均和附壁斑块。
+© 2017 Elliot K.Fishman, MD.
+白色箭头表示肾上腹主动脉假性动脉瘤。肾下主动脉和髂动脉也有大量斑块。
+白色箭头表示肾上腹主动脉假性动脉瘤。肾下主动脉和髂动脉也有大量斑块。
+© 2017 Elliot K.Fishman, MD.
+当症状或体格检查结果提示腹主动脉瘤（AAA）时，腹部超声、CT或MRI通常是首选检查（1）。有症状的患者需要立刻检查以便在出现灾难性破裂前明确诊断。对于血流动力学不稳定且怀疑有破裂的患者，超声检查可以比较迅速地提供床旁结果，但肠道气体和腹胀可能会影响其精确性。
+在为可能实施的手术准备时应作包括全血细胞计数(CBC)、电解质、尿素氮（BUN）、肌酐、凝血酶原时间(PT)、部分凝血激酶时间(PTT)、血型和相容性试验等实验室检查。
+如果未怀疑破裂，CT血管造影检查（CTA）或磁共振血管造影检查（MRA）能更精确地评估动脉瘤大小和解剖的特点。如果动脉瘤壁内附着血栓，传统的造影可能低估真实大小；CT可能提供更准确的估计。如果怀疑有肾动脉或主动脉髂动脉疾病，或者正在考虑使用血管内支架移植物（内支架）进行修复，则有时需要进行主动脉造影检查。
+腹部Ｘ线平片既不敏感也无特异性；然而，若用于其他目的，Ｘ线平片可能显示勾画出动脉瘤壁轮廓的主动脉钙化影。
+如果怀疑感染性动脉瘤，应获取细菌和真菌的血培养。
+对有吸烟史的65岁以上男性进行腹部超声筛查可以降低死亡率，但对于其他低风险男性而言，绝对风险减少幅度较小。筛查也会引发焦虑，特别是对于预期管理的动脉瘤。一些权威机构建议共享决策
+
+【诊断参考文献】
+1.Isselbacher EM, Preventza O, Hamilton Black J 3rd, et al.2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines.Circulation2022;146(24):e334-e482.doi:10.1161/CIR.0000000000001106
+1.Isselbacher EM, Preventza O, Hamilton Black J 3rd, et al.2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines.Circulation2022;146(24):e334-e482.doi:10.1161/CIR.0000000000001106
+
+【腹主动脉瘤（AAA）的治疗】
+医疗管理，特别是戒烟和血压控制
+医疗管理，特别是戒烟和血压控制
+手术或血管内支架植入术
+手术或血管内支架植入术
+一些腹主动脉瘤以每年10％的速度增大。瘤体扩大通常是逐步发生的，期间可观察到无增长的阶段。其他动脉瘤呈指数级扩大。
+动脉粥样硬化危险因子的控制是重要的，特别是戒烟和合适的降压药物应用。如果动脉瘤较小（<4 厘米）或中等大小（介于 4 厘米和 5 厘米之间）。当主动脉瘤直径达到女性>5厘米或男性>5.5厘米，且术中并发症风险低于预计破裂风险时，应进行AAA修复(1)。 应该坦率地与患者讨论瘤体破裂的风险与围手术期并发症的风险。
+手术治疗与否与动脉瘤大小有关，而动脉瘤的大小与破裂风险有关（见表腹主动脉瘤大小与破裂风险）。
+
+【腹主动脉瘤大小和破裂危险*】
+腹主动脉瘤大小和破裂危险*
+AAA直径
+破裂危险（%/年）
+<4厘米
+4~4.9厘米
+0.5–5%
+5~5.9厘米
+3–15%
+6~6.9厘米
+10–20%
+7~7.9厘米
+20–40%
+>8 厘米
+30–50%
+*对直径>5.0~5.5厘米的动脉瘤，应考虑择期手术修补。
+AAA=腹部主动脉瘤
+Data fromBrewster DC, Cronenwett JL, Hallett JW Jr, et al.Guidelines for the treatment of abdominal aortic aneurysms.Report of a subcommittee of the Joint Council of the American Association for Vascular Surgery and Society for Vascular Surgery.J Vasc Surg2003;37(5):1106-1117.doi:10.1067/mva.2003.363
+*对直径>5.0~5.5厘米的动脉瘤，应考虑择期手术修补。
+AAA=腹部主动脉瘤
+Data fromBrewster DC, Cronenwett JL, Hallett JW Jr, et al.Guidelines for the treatment of abdominal aortic aneurysms.Report of a subcommittee of the Joint Council of the American Association for Vascular Surgery and Society for Vascular Surgery.J Vasc Surg2003;37(5):1106-1117.doi:10.1067/mva.2003.363
+破裂的AAAs需要立即开放性手术或血管内支架植入术。如不治疗，病死率达到100%。与血管内支架移植术相比，开放手术治疗的死亡率没有明显差异（2)。病死率还是比较高的，因为许多病人共存有冠状动脉、脑血管和周围动脉粥样硬化。
+表现有出血性休克的病人需要液体复苏和输血，但平均动脉压不应升高至>70～80mmHg（允许性低血压），因为可能使出血增加。手术前控制血压和避免高血压很重要。
+
+【经验与提示】
+经验与提示
+对于低血压和腹主动脉瘤破裂的患者，不要将平均动脉压升高到＞70 ~ 80毫米汞柱，因为出血可能增加。
+对于低血压和腹主动脉瘤破裂的患者，不要将平均动脉压升高到＞70 ~ 80毫米汞柱，因为出血可能增加。
+建议择期手术修复
+女性动脉瘤直径>5cm，男性动脉瘤直径＞5.5cm（此时破裂风险增加到>5%～10%/年），除非同时存在手术禁忌的内科状况 (1)。
+女性动脉瘤直径>5cm，男性动脉瘤直径＞5.5cm（此时破裂风险增加到>5%～10%/年），除非同时存在手术禁忌的内科状况 (1)。
+择期手术的指征包括
+不论瘤体大小，6个月内动脉瘤尺寸增加>0.5厘米
+不论瘤体大小，6个月内动脉瘤尺寸增加>0.5厘米
+慢性腹部疼痛
+慢性腹部疼痛
+血栓栓塞并发症
+血栓栓塞并发症
+导致下肢缺血的髂动脉或股动脉动脉瘤
+导致下肢缺血的髂动脉或股动脉动脉瘤
+马凡综合征患者的动脉瘤>4.5cm
+马凡综合征患者的动脉瘤>4.5cm
+择期修补前，临床常需考虑冠状动脉疾病（CAD），可能需要也可能不需要进一步评估（见表心脏解剖和功能评估检查），因为一些腹主动脉瘤患者有发生心血管事件的显著风险积极的药物治疗及危险因素控制是必须的。对于大多数能够在动脉瘤修复前进行良好医疗管理的患者来说，常规的术前冠状动脉成形术或搭桥手术并不是必须的；冠状动脉血运重建应该只考虑用于不稳定的冠心病患者（例如，急性冠状动脉综合征，包括不稳定型心绞痛）或具有多种冠状动脉疾病危险因素的患者
+手术修补包括用人造血管置换腹主动脉的动脉瘤部分。如果髂动脉受累，移植血管必须延伸至此。如果要进行主动脉-双股动脉修复术，最重要的是确保至少有一条髂内动脉（腹下动脉）的血流通畅，以避免血管源性勃起功能障碍和盆腔缺血。如果动脉瘤延伸到肾动脉以上，肾动脉必须被重新植入到人造血管上，或必须创建肾动脉旁路移植血管
+经股动脉将一个血管内支架移植物置入动脉瘤腔内是一种微创的替代方法，其急性发病率和死亡率低于开放式修复。这个操作将动脉瘤排除在系统血流之外并减少破裂的危险性。动脉瘤最终血栓形成，50%的动脉瘤内径缩小。短期结果良好，长期效果更为理想 (3)。并发症包括内植入物成角、扭结、血栓形成、支架移植物迁移和内漏（血管内支架置入后血液持续流入动脉瘤囊内）。因而，血管内支架植入术后的随访必须比手术修复后更频繁。如果无并发症发生，推荐在此后的1个月、6个月、12个月和每年作影像学检查。复杂的解剖结构（例如，肾动脉下方的短动脉瘤颈、严重的动脉迂曲）使这些患者的常规血管内支架植入术变得困难；然而，已经开发出一些器械来克服这些问题。 通常，为了使血管内修复成功，外科医生应该选择适合患者解剖学特点的特定设备。
+大多数情况下，<5cm的动脉瘤的修复术似乎并不提高存活率。这些动脉瘤应每隔6～12个月用超声或腹部CT进行监测，观察其扩大情况以判断是否需要治疗。
+感染性动脉瘤的治疗包括针对病原菌予以强力的抗生素治疗，随后切除动脉瘤。早期诊断和治疗可改善结果。
+
+【手术并发症】
+心肌梗塞是术后早期死亡的主要原因。
+腹主动脉瘤修补术后的并发症包括
+由于近端横行钳夹阻断导致大静脉损伤
+由于近端横行钳夹阻断导致大静脉损伤
+勃起功能障碍（神经损伤或血流量减少所致）
+勃起功能障碍（神经损伤或血流量减少所致）
+移植物感染
+移植物感染
+假性动脉瘤
+假性动脉瘤
+由动脉粥样硬化导致的移植物闭塞
+由动脉粥样硬化导致的移植物闭塞
+
+【治疗参考文献】
+1.Isselbacher EM, Preventza O, Hamilton Black J 3rd, et al.2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines.Circulation2022;146(24):e334-e482.doi:10.1161/CIR.0000000000001106
+1.Isselbacher EM, Preventza O, Hamilton Black J 3rd, et al.2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines.Circulation2022;146(24):e334-e482.doi:10.1161/CIR.0000000000001106
+2.Badger S, Forster R, Blair PH, Ellis P, Kee F, Harkin DW.Endovascular treatment for ruptured abdominal aortic aneurysm. Cochrane Database Syst Rev.2017;5(5):CD005261.Published 2017 May 26.doi:10.1002/14651858.CD005261.pub4
+2.Badger S, Forster R, Blair PH, Ellis P, Kee F, Harkin DW.Endovascular treatment for ruptured abdominal aortic aneurysm. Cochrane Database Syst Rev.2017;5(5):CD005261.Published 2017 May 26.doi:10.1002/14651858.CD005261.pub4
+3.EVAR trial participants.Endovascular aneurysm repair versus open repair in patients with abdominal aortic aneurysm (EVAR trial 1): randomised controlled trial.Lancet2005;365(9478):2179-2186.doi:10.1016/S0140-6736(05)66627-5
+3.EVAR trial participants.Endovascular aneurysm repair versus open repair in patients with abdominal aortic aneurysm (EVAR trial 1): randomised controlled trial.Lancet2005;365(9478):2179-2186.doi:10.1016/S0140-6736(05)66627-5
+腹主动脉内径≥3cm构成腹主动脉瘤（AAA）。
+腹主动脉内径≥3cm构成腹主动脉瘤（AAA）。
+AAAs通常以每年10%的速度扩大，但也有些呈指数增长，约20%可无限期地维持相同大小。
+AAAs通常以每年10%的速度扩大，但也有些呈指数增长，约20%可无限期地维持相同大小。
+动脉瘤破裂的风险与其大小成比例。
+动脉瘤破裂的风险与其大小成比例。
+诊断采用超声或腹部CT；对于未破裂的动脉瘤，CT血管造影或磁共振血管造影可以更准确地描述动脉瘤的大小和解剖特点。
+诊断采用超声或腹部CT；对于未破裂的动脉瘤，CT血管造影或磁共振血管造影可以更准确地描述动脉瘤的大小和解剖特点。
+破裂的腹主动脉瘤需要立即行开放式手术或血管内支架植入术；即便如此，死亡率仍然很高。
+破裂的腹主动脉瘤需要立即行开放式手术或血管内支架植入术；即便如此，死亡率仍然很高。
+对于女性>5厘米的动脉瘤、男性>5.5厘米的动脉瘤以及迅速扩大或引起缺血性或栓塞并发症的动脉瘤，建议择期手术修复。
+对于女性>5厘米的动脉瘤、男性>5.5厘米的动脉瘤以及迅速扩大或引起缺血性或栓塞并发症的动脉瘤，建议择期手术修复。

@@ -1,0 +1,38 @@
+标题：自发性细菌性腹膜炎 （SBP）
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/approach-to-the-patient-with-liver-disease/spontaneous-bacterial-peritonitis-sbp
+============================================================
+
+（参见腹水.)
+SBP在肝硬化所致的腹水中非常常见。这种感染可以引起严重的后果或死亡。引起自发性细菌性腹膜炎的最常见细菌是革兰氏阴性菌中的Escherichia coli（大肠埃希菌）和Klebsiella pneumoniae（肺炎克雷伯菌）以及革兰氏阳性菌中的Streptococcus pneumoniae（肺炎链球菌）、Staphylococcus aureus（金黄色葡萄球菌）和Enterococcus（肠球菌）属（1， 2）；通常仅涉及单一菌种感染。
+
+【参考文献】
+1.Biggins SW, Angeli P, Garcia-Tsao G, et al.Diagnosis, Evaluation, and Management of Ascites, Spontaneous Bacterial Peritonitis and Hepatorenal Syndrome: 2021 Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology.2021;74(2):1014-1048.doi:10.1002/hep.31884
+1.Biggins SW, Angeli P, Garcia-Tsao G, et al.Diagnosis, Evaluation, and Management of Ascites, Spontaneous Bacterial Peritonitis and Hepatorenal Syndrome: 2021 Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology.2021;74(2):1014-1048.doi:10.1002/hep.31884
+2.Furey C, Zhou S, Park JH, et al.Impact of Bacteria Types on the Clinical Outcomes of Spontaneous Bacterial Peritonitis.Dig Dis Sci.2023;68(5):2140-2148.doi:10.1007/s10620-023-07867-8
+2.Furey C, Zhou S, Park JH, et al.Impact of Bacteria Types on the Clinical Outcomes of Spontaneous Bacterial Peritonitis.Dig Dis Sci.2023;68(5):2140-2148.doi:10.1007/s10620-023-07867-8
+
+【SBP的症状和体征】
+患者有腹水的症状和体征。通常感到不适，典型的表现为全腹持续的轻到中度的不适。
+自发性细菌性腹膜炎（SBP）的体征可能包括发热、乏力、脑病、肝功能衰竭加重以及不明原因的临床病情恶化。 出现腹膜的体征（如腹部的压痛和反跳痛），但是由于腹水的存在，这些体征在一定程度上有所减轻。
+
+【SBP的诊断】
+诊断性腹水穿刺
+诊断性腹水穿刺
+自发性细菌性腹膜炎（SBP）的临床诊断可能较为困难；其诊断需保持高度警惕性并广泛采用诊断性腹腔穿刺术，包括细菌培养检查。在培养前将腹水接种入血培养基可提高培养的敏感性。腹水中性粒细胞计数>250个/mcL（0.25×109/L）是自发性细菌性腹膜炎的诊断依据。也可行血培养。因为SBP通常由单一菌群引起，所以如果培养得到混合菌群提示腹腔脏器穿孔或标本被污染。
+
+【SBP的治疗】
+头孢噻肟或其他抗生素
+头孢噻肟或其他抗生素
+白蛋白预防肝肾综合征
+白蛋白预防肝肾综合征
+若诊断为自发性细菌性腹膜炎（SBP），需静脉注射头孢曲松或头孢噻肟等抗生素（待革兰氏染色及培养结果确认），疗程至少5天，直至腹水显示中性粒细胞数<250个/微升（0.25×109/升）。对于医院获得性或院内自发性细菌性腹膜炎，应考虑使用哌拉西林/他唑巴坦联合达托霉素或美罗培南的方案（1）。使用抗生素将提高生存机会。由于高达 70% 的患者在一年内会复发SBP，因此需要预防性使用抗生素（2）；喹诺酮类药物（例如诺氟沙星或环丙沙星）使用最为广泛。
+自发性细菌性腹膜炎患者应在第1天接受1.5g/kg白蛋白（25%），第3天接受1g/kg白蛋白，以降低肝肾综合征风险；研究表明白蛋白可改善合并肝硬化的自发性细菌性腹膜炎患者生存率（1, 3）。低血压可能增加发生肝肾综合征的风险。因此，非选择性β受体阻滞剂应在低血压患者（平均动脉压<65mmHg）中暂停使用，并在自发性细菌性腹膜炎痊愈后恢复使用（1）。
+腹水和静脉曲张出血患者使用抗生素预防可降低自发性细菌性腹膜炎的风险，但抗生素耐药性（特别是喹诺酮类耐药）使预防措施变得更为复杂（1）。
+
+【治疗参考文献】
+1.Biggins SW, Angeli P, Garcia-Tsao G, et al.Diagnosis, Evaluation, and Management of Ascites, Spontaneous Bacterial Peritonitis and Hepatorenal Syndrome: 2021 Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology.2021;74(2):1014-1048.doi:10.1002/hep.31884
+1.Biggins SW, Angeli P, Garcia-Tsao G, et al.Diagnosis, Evaluation, and Management of Ascites, Spontaneous Bacterial Peritonitis and Hepatorenal Syndrome: 2021 Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology.2021;74(2):1014-1048.doi:10.1002/hep.31884
+2.Termsinsuk P, Auesomwang C.Factors that predict recurrent spontaneous bacterial peritonitis in cirrhotic patients.Int J Clin Pract.2020;74(3):e13457.doi:10.1111/ijcp.13457
+2.Termsinsuk P, Auesomwang C.Factors that predict recurrent spontaneous bacterial peritonitis in cirrhotic patients.Int J Clin Pract.2020;74(3):e13457.doi:10.1111/ijcp.13457
+3.Sort P, Navasa M, Arroyo V, et al.Effect of intravenousalbuminon renal impairment and mortality in patients with cirrhosis and spontaneous bacterial peritonitis.N Engl J Med.1999;341(6):403-409.doi:10.1056/NEJM199908053410603
+3.Sort P, Navasa M, Arroyo V, et al.Effect of intravenousalbuminon renal impairment and mortality in patients with cirrhosis and spontaneous bacterial peritonitis.N Engl J Med.1999;341(6):403-409.doi:10.1056/NEJM199908053410603

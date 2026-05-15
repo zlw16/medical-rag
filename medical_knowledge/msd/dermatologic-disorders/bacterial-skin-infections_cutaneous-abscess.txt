@@ -1,0 +1,54 @@
+标题：皮肤脓肿
+来源：https://www.msdmanuals.cn/professional/dermatologic-disorders/bacterial-skin-infections/cutaneous-abscess
+============================================================
+
+(参见细菌性皮肤感染的概述。）
+皮肤脓肿的危险因素包括：
+细菌过度繁殖
+细菌过度繁殖
+有外伤史（特别是当有异物存在时）
+有外伤史（特别是当有异物存在时）
+免疫力低下
+免疫力低下
+循环受损
+循环受损
+细菌引起的皮肤脓肿多局限于受累区域。
+对于发生在躯干、四肢、腋窝和头颈部的脓肿，最常见的病原菌是Staphylococcus aureus（耐甲氧西林S. aureus[MRSA]是美国最常见的病原菌）和链球菌。
+会阴部脓肿（如腹股沟、阴道、臀部、直肠周围）包含了粪便中的微生物，通常为厌氧菌或者需氧合并厌氧菌 (见表常见致病菌的分类)。
+疖和痈是毛囊性皮肤脓肿，具有特征性表现。
+
+【皮肤脓肿的症状和体征】
+皮肤脓肿表现为疼痛、压痛、质硬，通常有红斑。大小通常在直径1～3cm不等，但有时更大。初始时肿胀发硬，随着脓肿向表面皮肤发展，其上皮肤变薄，可触及波动感。脓肿可自发破溃排脓。
+可伴有局部蜂窝织炎、淋巴管炎、局部淋巴结肿大、发热及白细胞增多等。
+
+【皮肤脓肿的诊断】
+培养可鉴定是否为MRSA。
+培养可鉴定是否为MRSA。
+皮肤脓肿通常通过临床表现即可诊断。MRSA感染需进行细菌培养后明确。
+需要与化脓性汗腺炎和表皮囊肿破裂相鉴别。表皮包涵体囊肿（常被误诊为皮脂腺囊肿）很少继发感染，但破裂后释放到真皮中的角蛋白可引起强烈的炎症反应，有时临床表现与感染相似。 囊肿破裂进行囊液培养很少发现任何病原微生物。会阴部脓肿可能是深部直肠周围脓肿的皮肤表现，也可能是由克罗恩病瘘管引流引起。这些情况可以通过病史和直肠检查以明确病因。
+
+【皮肤脓肿的治疗】
+切开和引流
+切开和引流
+有时需抗菌治疗
+有时需抗菌治疗
+一些小脓肿无需治疗即可自行引流、消退。热敷可加速缓解。
+疼痛、触痛和肿胀明显时需要切开和引流，无需等到波动感形成。在无菌条件下，利多卡因注射或冷喷进行局部麻醉后进行切开引流。
+面积较大、极度疼痛的脓肿引流时，可静脉用镇定药和麻醉剂。用手术刀尖刺穿皮肤即可打开脓肿。待脓液引流完，可用戴着手套的手指头对脓腔进行钝性探查或者用刮匙清除小室，然后用0.9%盐水冲洗。 可选择用生理盐水灌洗。用纱布填充腔体可减少死腔并防止皮下积液形成。通常在24至48小时后移除填充纱布。然而，数据表明，对于直径 < 5 厘米的脓肿，没有必要进行常规冲洗或填塞（1,2）。局部热敷和抬高患处可促进炎症消退。
+一般不需要使用抗生素，除非患者有系统性感染征象或存在蜂窝织炎、多发脓肿、免疫低下或者面部海绵窦引流区脓肿。经验性治疗应优先选用抗MRSA活性药物（如磺胺甲噁唑/甲氧苄啶，克林霉素；严重感染者选用万古霉素），直到获得细菌培养结果。然而，随后的研究表明，当在 MRSA 流行的地方对任何需要治疗的脓肿添加抗生素时，治疗失败和复发率较低(3）。
+
+【治疗参考文献】
+1.Chinnock B, Hendey GW:Irrigation of cutaneous abscesses does not improve treatment success.Ann Emerg Med67(3):379-383, 2016.doi: 10.1016/j.annemergmed.2015.08.007
+1.Chinnock B, Hendey GW:Irrigation of cutaneous abscesses does not improve treatment success.Ann Emerg Med67(3):379-383, 2016.doi: 10.1016/j.annemergmed.2015.08.007
+2.O'Malley GF, Dominici P, Giraldo P, et al:Routine packing of simple cutaneous abscesses is painful and probably unnecessary.Acad Emerg Med16(5):470-473, 2009.doi: 10.1111/j.1553-2712.2009.00409.x
+2.O'Malley GF, Dominici P, Giraldo P, et al:Routine packing of simple cutaneous abscesses is painful and probably unnecessary.Acad Emerg Med16(5):470-473, 2009.doi: 10.1111/j.1553-2712.2009.00409.x
+3.Talan DA, Mower WR, Krishnadasan A:Trimethoprim-sulfamethoxazole versus placebo for uncomplicated skin abscess.N Engl J Med374(9):823-832, 2016.doi: 10.1056/NEJMoa1507476
+3.Talan DA, Mower WR, Krishnadasan A:Trimethoprim-sulfamethoxazole versus placebo for uncomplicated skin abscess.N Engl J Med374(9):823-832, 2016.doi: 10.1056/NEJMoa1507476
+病原体反映所涉及的区域的定植菌群（如躯干，腋窝，头部和颈部金黄色葡萄球菌和链球菌）。
+病原体反映所涉及的区域的定植菌群（如躯干，腋窝，头部和颈部金黄色葡萄球菌和链球菌）。
+脓肿培养可鉴定MRSA
+脓肿培养可鉴定MRSA
+对于有显著疼痛、触痛和肿胀的脓肿的切开引流，需麻醉完全，必要时使用镇静剂。
+对于有显著疼痛、触痛和肿胀的脓肿的切开引流，需麻醉完全，必要时使用镇静剂。
+如果患者有全身感染、蜂窝组织炎、多发性脓肿、免疫功能低下或面部脓肿的迹象，则给予抗生素。
+如果患者有全身感染、蜂窝组织炎、多发性脓肿、免疫功能低下或面部脓肿的迹象，则给予抗生素。

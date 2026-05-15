@@ -1,0 +1,61 @@
+标题：丛集性头痛
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/headache/cluster-headache
+============================================================
+
+(参见头痛病人的诊断路径）
+丛集性头痛男性多见，20～40岁多发；在美国的患病率为0.1％(1)。 通常丛集性头痛多周期性发作，1～3个月的发作期内，每天发作≥1次，之后是缓解期，在数月到数年内头痛逐渐缓解。也有些丛集性头痛病人的病情不会减轻。
+病理生理学不明，但其发作的周期表明和下丘脑功能失常有关。
+在发作期饮酒可诱发头痛，但缓解期不会诱发。
+
+【参考文献】
+1.Fischera M, Marziniak M, Gralow I, Evers S.The incidence and prevalence of cluster headache: a meta-analysis of population-based studies.Cephalalgia.2008;28(6):614-618.doi:10.1111/j.1468-2982.2008.01592.x
+1.Fischera M, Marziniak M, Gralow I, Evers S.The incidence and prevalence of cluster headache: a meta-analysis of population-based studies.Cephalalgia.2008;28(6):614-618.doi:10.1111/j.1468-2982.2008.01592.x
+
+【丛集性头痛的症状和体征】
+丛集性头痛症状非常具有特征。通常在一天的同一时间多次、频繁发作，经常在深夜把病人痛醒。
+发作时疼痛总是局限于一侧，累及同侧的头部及眶颞部。疼痛非常剧烈，在数分钟内达到顶峰，而在30分钟到一小时内自行缓解。与偏头痛喜欢安静地躺在黑暗的房间里不同，丛集性头痛的病人显得坐立不安，在房间里不断的来回走动。 躁动严重时可导致怪异行为（例如，用头部撞击墙壁）。
+自主神经症状包括鼻塞、流涕、流泪、面部潮红和霍纳综合征，都较明显，发生于头痛同侧。
+
+【丛集性头痛的诊断】
+病史和体格检查
+病史和体格检查
+丛集性头痛的诊断依据其临床特征，并除外颅内病变。
+其他具有自主神经症状的单侧原发性头痛综合征，有时与丛集性头痛一起被归为三叉神经自主头痛，应予以排除：
+SUNCT（结膜注射和撕裂引发的短暂单侧神经痛样头痛）和短时间单侧神经痛样头痛发作(SUNA)：发作是非常短暂的（5〜250秒），发生频率很高（高达200次/天）。
+SUNCT（结膜注射和撕裂引发的短暂单侧神经痛样头痛）和短时间单侧神经痛样头痛发作(SUNA)：发作是非常短暂的（5〜250秒），发生频率很高（高达200次/天）。
+慢性阵发性偏头痛：该病发作相较丛集性头痛更频繁（每天发作>5次），持续时间更短（约30分钟）。
+慢性阵发性偏头痛：该病发作相较丛集性头痛更频繁（每天发作>5次），持续时间更短（约30分钟）。
+持续性偏头痛：特征是持续性的中度程度的头痛阵发性加剧。
+持续性偏头痛：特征是持续性的中度程度的头痛阵发性加剧。
+与丛集性头痛和偏头痛)不同，上述两种头痛使用吲哚美辛有效，对其他非甾体消炎药物（NSAIDs）却没有反应。
+
+【丛集性头痛的治疗】
+终止发作可注射曲普坦、双氢麦角胺或100%氧气吸入
+终止发作可注射曲普坦、双氢麦角胺或100%氧气吸入
+可使用维拉帕米、锂制剂、托吡酯、双丙戊酸钠或联合卡奈珠单抗用于发作性集群的长期预防。
+可使用维拉帕米、锂制剂、托吡酯、双丙戊酸钠或联合卡奈珠单抗用于发作性集群的长期预防。
+丛集性头痛急性发作时可予注射曲普坦或单用双氢麦角胺 或佐米曲普坦鼻喷雾剂和/或100%吸氧面罩来中止 (1, 2)。此外，有证据表明，阵发性丛集性头痛的急性发作可以通过手持式设备进行治疗，该设备可提供无创性迷走神经刺激(3,4）。
+所有病人均应预防用药，因为丛集性头痛发作频繁、疼痛剧烈，严重影响工作学习。泼尼松（如每日口服60mg）或枕大神经阻滞术（局麻药联合皮质类固醇）可快速起临时预防作用，同时应开始使用起效较慢的预防性药物（如维拉帕米、锂剂、托吡酯、双丙戊酸钠）。伽奈珠单抗（一种结合降钙素基因相关肽[CGRP]配体的单克隆抗体）通常仅在其他治疗发作性丛集性头痛无效时使用。
+使用应用于前额的装置进行无创经皮眶上神经刺激可以减少丛集性头痛的频率，无创迷走神经刺激也可以（5）。
+
+【治疗参考文献】
+1.Diener HC, May A.Drug Treatment of Cluster Headache.Drugs.2022 Jan;82(1):33-42.doi: 10.1007/s40265-021-01658-z.
+1.Diener HC, May A.Drug Treatment of Cluster Headache.Drugs.2022 Jan;82(1):33-42.doi: 10.1007/s40265-021-01658-z.
+2.Robbins MS, Starling AJ, Pringsheim TM, Becker WJ, Schwedt TJ.Treatment of Cluster Headache: The American Headache Society Evidence-Based Guidelines. Headache.2016;56(7):1093-1106.doi:10.1111/head.12866
+2.Robbins MS, Starling AJ, Pringsheim TM, Becker WJ, Schwedt TJ.Treatment of Cluster Headache: The American Headache Society Evidence-Based Guidelines. Headache.2016;56(7):1093-1106.doi:10.1111/head.12866
+3.Silberstein SD, Mechtler LL, Kudrow DB, et al.Non-invasive vagus nerve stimulation for the acute treatment of cluster headache: Findings from the randomized, double-blind, sham-controlled ACT1 study.Headache.56(8):1317–1332, 2016.doi: 10.1111/head.12896
+3.Silberstein SD, Mechtler LL, Kudrow DB, et al.Non-invasive vagus nerve stimulation for the acute treatment of cluster headache: Findings from the randomized, double-blind, sham-controlled ACT1 study.Headache.56(8):1317–1332, 2016.doi: 10.1111/head.12896
+4.Miller S, Sinclair AJ, Davies B, Matharu M.Neurostimulation in the treatment of primary headaches.Pract Neurol.16 (5):362–375, 2016.doi: 10.1136/practneurol-2015-001298
+4.Miller S, Sinclair AJ, Davies B, Matharu M.Neurostimulation in the treatment of primary headaches.Pract Neurol.16 (5):362–375, 2016.doi: 10.1136/practneurol-2015-001298
+5.Gaul C, Diener HC, Silver N, et al.Non-invasive vagus nerve stimulation for PREVention and Acute treatment of chronic cluster headache (PREVA): A randomised controlled study.Cephalalgia.2016;36(6):534-546.doi:10.1177/0333102415607070
+5.Gaul C, Diener HC, Silver N, et al.Non-invasive vagus nerve stimulation for PREVention and Acute treatment of chronic cluster headache (PREVA): A randomised controlled study.Cephalalgia.2016;36(6):534-546.doi:10.1177/0333102415607070
+在通常情况下，在20岁至40岁的人中，丛集性头痛引起难以忍受的单侧眼眶或颞疼痛，伴同侧上睑下垂、流泪、流涕和/或鼻塞。
+在通常情况下，在20岁至40岁的人中，丛集性头痛引起难以忍受的单侧眼眶或颞疼痛，伴同侧上睑下垂、流泪、流涕和/或鼻塞。
+在通常情况下，患者出现≥1次发作/天，这可持续1至3个月，而后是缓解数月至数年。
+在通常情况下，患者出现≥1次发作/天，这可持续1至3个月，而后是缓解数月至数年。
+根据临床表现诊断丛集性头痛。
+根据临床表现诊断丛集性头痛。
+为了中止发作，给予肠外曲坦类药物或二氢麦角胺 和/或通过非重复呼吸面罩进行100％O2吸入。
+为了中止发作，给予肠外曲坦类药物或二氢麦角胺 和/或通过非重复呼吸面罩进行100％O2吸入。
+为了防止发作，使用强的松或枕大神经阻滞进行短期缓解；使用维拉帕米、锂、托吡酯，和/或伽奈珠单抗进行长期缓解。
+为了防止发作，使用强的松或枕大神经阻滞进行短期缓解；使用维拉帕米、锂、托吡酯，和/或伽奈珠单抗进行长期缓解。

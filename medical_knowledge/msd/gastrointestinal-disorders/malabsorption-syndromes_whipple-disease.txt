@@ -1,0 +1,54 @@
+标题：Whipple病
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/malabsorption-syndromes/whipple-disease
+============================================================
+
+在美国，Whipple病较为罕见，好发于30岁以上的白人，在60岁以上的人群中更为常见；但在世界上的某些地区，该病呈地方性流行（1, 2）。部分而非全部研究显示男性占多数。 该病可累及全身多个脏器（如心、肺、脑、浆膜腔、关节、眼、胃肠道），但最常见的还是小肠黏膜受损。受影响的患者可能存在细胞介导免疫的细微缺陷，容易感染T. whipplei（惠普尔养障体）（3，4）。
+
+【参考文献】
+1.Porteiro B, Freitas AR, Nunes F, Major M, Batista F.Whipple's Disease: A Challenging Diagnosis.Cureus.2024;16(1):e51991.Published 2024 Jan 10.doi:10.7759/cureus.51991
+1.Porteiro B, Freitas AR, Nunes F, Major M, Batista F.Whipple's Disease: A Challenging Diagnosis.Cureus.2024;16(1):e51991.Published 2024 Jan 10.doi:10.7759/cureus.51991
+2.Lagier JC, Raoult D.Whipple's disease andTropheryma whippleiinfections: when to suspect them and how to diagnose and treat them.Curr Opin Infect Dis.2018;31(6):463-470.doi:10.1097/QCO.0000000000000489
+2.Lagier JC, Raoult D.Whipple's disease andTropheryma whippleiinfections: when to suspect them and how to diagnose and treat them.Curr Opin Infect Dis.2018;31(6):463-470.doi:10.1097/QCO.0000000000000489
+3.Elchert JA, Mansoor E, Abou-Saleh M, Cooper GS.Epidemiology of Whipple's Disease in the USA Between 2012 and 2017: A Population-Based National Study.Dig Dis Sci.2019;64(5):1305-1311.doi:10.1007/s10620-018-5393-9
+3.Elchert JA, Mansoor E, Abou-Saleh M, Cooper GS.Epidemiology of Whipple's Disease in the USA Between 2012 and 2017: A Population-Based National Study.Dig Dis Sci.2019;64(5):1305-1311.doi:10.1007/s10620-018-5393-9
+4.Ahmad AI, Wikholm C, Pothoulakis I, et al.Whipple's disease review, prevalence, mortality, and characteristics in the United States: A cross-sectional national inpatient study.Medicine (Baltimore).2022;101(49):e32231.doi:10.1097/MD.0000000000032231
+4.Ahmad AI, Wikholm C, Pothoulakis I, et al.Whipple's disease review, prevalence, mortality, and characteristics in the United States: A cross-sectional national inpatient study.Medicine (Baltimore).2022;101(49):e32231.doi:10.1097/MD.0000000000032231
+
+【Whipple病的症状和体征】
+根据病变累及部位不同表现为相应的临床症状。Whipple病的四个主要症状：
+体重下降
+体重下降
+通常首发症状是关节痛和发热。
+消化道症状（如水样泻、脂肪泻、腹痛、食欲不振、体重减轻）通常较晚出现，有时在首发症状后数年才出现。还可出现肠道肉眼出血或潜血。疾病晚期患者可出现严重的吸收不良。
+其他表现包括皮肤色素沉着增加、贫血、淋巴结病、慢性咳嗽、浆液炎、周围水肿、心内膜炎和中枢神经系统症状。
+
+【Whipple病的诊断】
+内镜下小肠组织活检
+内镜下小肠组织活检
+对于没有明显胃肠道症状的患者， Whipple病可能会被漏诊。
+如果中年或老年白人出现关节炎、腹痛、腹泻、体重减轻或其他吸收不良症状，应怀疑患有惠普尔病。这些患者需行上消化道内镜下小肠黏膜活检；肠道病变具有特异性和诊断价值。最严重和持续的病变在近端小肠。光镜显示PAS-阳性的巨噬细胞扭曲了绒毛的结构。在固有层和巨噬细胞内可见革兰氏阳性、抗酸染色阴性的杆菌(T. whipplei（惠普尔养障体）)。如果未见T. whipplei（惠普尔养障体），临床仍怀疑Whipple病，则需行PCR和免疫组化检测。
+Whipple病需与Mycobacterium avium-intracellulare（鸟-胞内分枝杆菌）（MAI）鉴别，后者也有相似的组织学表现。但MAI抗酸染色阳性。
+
+【Whipple病的治疗】
+抗生素治疗
+抗生素治疗
+后期可能复发
+后期可能复发
+未经治疗的疾病呈进行性、致死性。
+许多抗生素具有治疗作用（例如甲氧苄啶/磺胺甲恶唑、青霉素、头孢菌素）。Whipple病的初始治疗是静脉注射头孢曲松或青霉素G，持续2至4周。此静脉治疗方案之后，需长期口服甲氧苄啶/磺胺甲恶唑，或多西环素联合羟氯喹。磺胺过敏患者可替代口服青霉素 VK 或氨苄西林。临床症状迅速改善，发热和关节疼痛在几天内消退。肠道症状通常在1～4周后改善。
+为了评估治疗反应，可对粪便、唾液或其他组织进行聚合酶链式反应（PCR）检测。但其他权威建议定期复查活检并行显微镜检查与PCR检测（1）。
+复发很常见，可以发生在数年之后。如果怀疑复发，应进行小肠活检和/或PCR检测（无论受影响的器官系统如何）以确定游离杆菌的存在。
+
+【治疗参考文献】
+1.Lagier JC, Fenollar F, Lepidi H, Giorgi R, Million M, Raoult D.Treatment of classic Whipple's disease: from in vitro results to clinical outcome.J Antimicrob Chemother.2014;69(1):219-227.doi:10.1093/jac/dkt310
+1.Lagier JC, Fenollar F, Lepidi H, Giorgi R, Million M, Raoult D.Treatment of classic Whipple's disease: from in vitro results to clinical outcome.J Antimicrob Chemother.2014;69(1):219-227.doi:10.1093/jac/dkt310
+T. whipplei（惠普尔养障体）感染影响许多器官，包括胃肠道。
+T. whipplei（惠普尔养障体）感染影响许多器官，包括胃肠道。
+小肠黏膜受累引起吸收不良。
+小肠黏膜受累引起吸收不良。
+如果中年或老年白人出现关节炎、腹痛、腹泻、体重减轻或其他吸收不良症状，则应怀疑患有惠普尔病。
+如果中年或老年白人出现关节炎、腹痛、腹泻、体重减轻或其他吸收不良症状，则应怀疑患有惠普尔病。
+内镜小肠活检是必要的。
+内镜小肠活检是必要的。
+长期抗生素治疗是必要的，且复发情况常见。
+长期抗生素治疗是必要的，且复发情况常见。

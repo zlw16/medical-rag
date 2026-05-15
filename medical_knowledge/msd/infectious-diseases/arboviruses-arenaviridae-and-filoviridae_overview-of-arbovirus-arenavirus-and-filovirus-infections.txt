@@ -1,0 +1,317 @@
+标题：虫媒病毒、沙粒病毒和丝状病毒感染概述
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/arboviruses-arenaviridae-and-filoviridae/overview-of-arbovirus-arenavirus-and-filovirus-infections
+============================================================
+
+虫媒病毒（节肢动物传播病毒）是一个描述性术语，指通过节肢动物媒介叮咬传播给人类和/或其他脊椎动物的一组病毒。最常见的虫媒病毒传播节肢动物包括白蛉、蚊子和蜱虫。虫媒病毒一词并非指一个物种、属或科，因此不属于国际病毒分类委员会的管辖范围，该委员会的分类基于病毒基因组的性质和结构（1）。
+按现行分类体系，包含一些虫媒病毒成员的科包括以下：
+Peribunyaviridae
+Peribunyaviridae
+黄病毒科
+黄病毒科
+正黏液病毒科（例如，索戈托病毒）
+正黏液病毒科（例如，索戈托病毒）
+塞多雷奥病毒科（例如，环状病毒）
+塞多雷奥病毒科（例如，环状病毒）
+披膜病毒科（甲病毒）
+披膜病毒科（甲病毒）
+
+【经验与提示】
+经验与提示
+虫媒病毒（节肢动物传播病毒）一词描述了一种由某些节肢动物传播的病毒。
+虫媒病毒（节肢动物传播病毒）一词描述了一种由某些节肢动物传播的病毒。
+它不是病毒分类学的一部分，许多不同病毒家族的成员可能是虫媒病毒。
+它不是病毒分类学的一部分，许多不同病毒家族的成员可能是虫媒病毒。
+虫媒病毒种类的数量>250种，世界范围内均有分布，其中至少80种可以导致人类疾病。大多数虫媒病毒通过蚊子传播，但有些通过蜱传播，沙蝇传播，一种（奥罗普什病毒）通过蠓传播。 鸟类是虫媒病毒常见的储存宿主，并经蚊虫传播至马及其他的家畜和人类。虫媒病毒储存的其他宿主有昆虫及脊椎动物（主要是啮齿动物，猴子和人类）。
+这些病毒可能从非人类宿主传播给人类，但大多数虫媒病毒性疾病不可由人类传播。例外情况包括登革热、黄热病、寨卡病毒感染和基孔肯雅病，可以通过蚊子在人与人之间传播。当发生人际传播时，可以通过输血、器官移植、性接触以及出生期间的母婴传播，具体取决于所涉及的具体病毒。
+寨卡病毒可以在性活动中传播，无论感染者是无症状的还是有症状的。然而，通过日常偶然接触进行人际传播尚未有记录。
+部分感染，如西尼罗河病毒感染，科罗拉多壁虱热和登革热、寨卡病毒等已被证明可通过输血，器官移植等传播。
+与出血热相关的大多数病毒被归类于沙粒病毒科和丝状病毒科。然而，一些虫媒病毒，如一些黄病毒（那些引起黄热病和登革热的病毒）和一些布尼亚病毒科（那些引起裂谷热、克里米亚-刚果出血热、严重发热伴血小板减少综合征和汉坦病毒的病毒），也可能与出血症状相关。
+沙粒病毒科包括淋巴细胞性脉络丛脑膜炎病毒、拉沙热病毒、莫佩亚病毒、塔卡里伯病毒、胡宁病毒、卢约病毒和马秋波病毒；均由啮齿类动物传播，因此不属于虫媒病毒。拉沙热病毒可在人与人之间传播。
+丝状病毒科由2个属组成：埃博拉病毒属（包含5个物种）和马尔堡病毒属（包含2个物种）。这些病毒的具体传播媒介尚未确认，但果蝠是最主要的候选宿主；因此，丝状病毒科并非虫媒病毒。人与人之间的埃博拉病毒和马尔堡病毒传播容易发生。
+许多虫媒病毒、沙粒病毒和丝状病毒感染是无症状的。对于有症状者，通常起病于一些轻微的流感样表现，进一步发展为一种或几种主症（见表虫媒病毒、沙粒病毒和丝状病毒疾病）。这些症状主要包括淋巴结肿大、皮疹、无菌性脑膜炎、脑炎、关节疼痛、关节炎及非心源性肺水肿。许多病毒感染均伴有发热及出血倾向（出血热），这是由于维生素K依赖凝血因子合成减少、弥散性血管内凝血及血小板功能改变所致。关节症状可能在急性感染后持续存在（2）。
+实验室检查包括病毒培养、PCR(polymerase chain reaction)、电子显微镜检查及抗原抗体检测方法。
+
+【虫媒病毒，沙粒病毒和丝状病毒疾病】
+虫媒病毒，沙粒病毒和丝状病毒疾病
+鉴别症状
+病名/病毒
+病毒从属
+地区分布*
+发热、躯体不适、头痛、肌肉酸痛
+科罗拉多蜱热
+有刺呼肠孤病毒科（柯尔特病毒属）
+美国西部、加拿大西部
+白蛉热（沙蝇热）
+白蛉病毒科（白蛉病毒属）
+流行于地中海、巴尔干、中东、巴基斯坦、印度、中国、东非、巴拿马、巴西
+委内瑞拉马脑炎
+披膜病毒科（甲病毒属）
+中美洲、南美洲、佛罗里达州
+腹地病毒
+Phenuiviridae (Phlebovirus)
+美洲花蜱
+美国（中西部和东部）
+裂谷热†
+白纤病毒科（白蛉病毒属）
+几个物种
+南非、东部非洲、埃及、也门、沙特阿拉伯
+奥罗普切病毒
+布尼亚病毒科（辛布病毒）
+巴拉库蠓
+南美和中美洲，加勒比海
+发热、躯体不适、头痛、肌肉酸痛
+黄病毒科
+东南亚、南亚、西非和东非、大洋洲、澳大利亚、南美和中美洲、墨西哥、加勒比地区、美国
+Usutu
+黄病毒科
+非洲、欧洲
+寨卡病毒
+黄病毒科
+中美洲和南美洲、墨西哥、加勒比海、美国、非洲、太平洋岛屿、亚洲
+西尼罗河病毒‡
+黄病毒科
+非洲、中东、欧洲南部、俄罗斯、印度、印度尼西亚、美国、加拿大南部、墨西哥、南美洲、加勒比群岛
+关节痛、皮疹
+发热、躯体不适、头痛、肌肉酸痛
+基孔肯雅热
+披膜病毒科（甲病毒属）
+非洲、印度、巴基斯坦、关岛、东南亚、留尼旺岛、新几内亚、欧洲有限的区域、南美洲和中美洲，墨西哥、美国、尼泊尔、中国、加勒比地区、太平洋岛屿
+波旁病毒
+正粘病毒科（托高土病毒属）
+美洲花蜱
+美国（中西部和南部）
+马雅罗病毒
+披膜病毒科（甲病毒属）
+趋血蚊属种
+中美洲、加勒比地区和南美洲
+罗斯河病毒
+披膜病毒科（甲病毒属）
+伊蚊属，库蚊属
+澳大利亚、新几内亚、所罗门群岛、萨摩亚、库克群岛
+Barmah森林病毒
+披膜病毒科(甲病毒属)
+Aedes（伊蚊）属，Culex（库蚊）属
+澳大利亚
+辛德毕斯病毒病（Ockelbo病、Karelian热）
+披膜病毒科(甲病毒属)
+非洲、澳大利亚、亚洲、前苏联地区、欧洲（包括芬兰、瑞典）、大洋洲
+出血热表现§
+发热、躯体不适、头痛、肌肉酸痛
+黄病毒科
+巴拿马、南美洲、非洲
+登革出血热
+黄病毒科
+东南亚、南亚、西非和东非、大洋洲、加勒比地区、南美洲和中美洲、墨西哥、美国
+科萨努尔森林病
+黄病毒科
+鄂木斯克出血热
+黄病毒科
+克里米亚-刚果出血热
+布尼亚病毒科（内罗病毒属）
+Hyalomma（璃眼蜱）属
+非洲、南欧和东欧、印度、巴基斯坦、中国、土耳其、中东、俄罗斯
+汉坦病毒
+汉坦病毒科(汉坦病毒属)
+啮齿类动物
+韩国、日本、中国、俄罗斯远东地区、巴尔干半岛
+首尔病毒
+汉坦病毒科(汉坦病毒属)
+啮齿类动物
+几乎遍布全球，包括韩国、日本、美洲和欧洲。
+普马拉病毒（流行性肾病）
+汉坦病毒科(汉坦病毒属)
+啮齿类动物
+斯堪的纳维亚半岛、俄罗斯、巴尔干半岛
+多布拉瓦-贝尔格莱德病毒
+汉坦病毒科（汉坦病毒属）
+啮齿类动物
+巴尔干半岛、斯洛伐克、捷克共和国、土耳其
+阿穆尔病毒
+汉坦病毒科（汉坦病毒属）
+啮齿类动物
+萨列马病毒
+汉坦病毒科（汉坦病毒属）
+啮齿类动物
+桑加苏病毒
+汉坦病毒科（汉坦病毒属）
+啮齿类动物
+马丘波病毒（玻利维亚出血热）
+沙粒病毒科
+啮齿类动物
+玻利维亚
+胡宁病毒（阿根廷出血热）
+沙粒病毒科
+啮齿类动物
+瓜纳里托病毒（委内瑞拉出血热）
+沙粒病毒科
+啮齿类动物
+委内瑞拉
+拉沙热病毒
+沙粒病毒科
+啮齿类动物
+乳鼠属种
+西非、包括尼日利亚
+卢约病毒
+沙粒病毒科
+马尔堡病毒
+丝状病毒科
+津巴布韦、肯尼亚、乌干达、刚果民主共和国、南非
+埃博拉病毒
+丝状病毒科
+扎伊尔、苏丹、几内亚、利比里亚、塞拉利昂、刚果民主共和国、刚果共和国、加蓬、科特迪瓦、乌干达
+重度发热伴血小板减少综合征病毒
+布尼亚病毒科
+长角血蜱
+中国、韩国、日本
+非心源性肺水肿
+发热、躯体不适、头痛、肌肉酸痛
+汉坦病毒：辛诺柏病毒、黑溪沟病毒、贝尤病毒、伊斯拉维斯塔病毒、莫农加希拉病毒、莱古纳内格拉病毒、马西埃尔病毒、阿拉拉夸拉病毒、马里帕病毒、茹基蒂巴病毒、卡斯特尔杜斯索纽斯病毒、中央普拉塔病毒、安第斯病毒、类安第斯病毒Hu39694、莱奇瓜纳斯病毒、奥兰病毒、贝尔梅霍病毒、乔克洛病毒
+汉坦病毒科（汉坦病毒）
+啮齿类动物
+美国、加拿大、巴西、玻利维亚、巴拉圭、阿根廷、智利、巴拿马
+发烧和中枢神经系统受累
+东部马脑炎
+披膜病毒科(甲病毒属)
+Culex(库蚊)属，Culiseta melanura (黑尾赛蚊)
+美国大西洋和墨西哥湾沿岸、加勒比海、纽约州北部、康涅狄格州、印第安纳州、俄亥俄州、密歇根州西部、威斯康星州、加拿大南部、墨西哥
+马达里亚加变体（原南美 EEE）
+披膜病毒科(甲病毒属)
+库蚊属，黑尾赛蚊
+巴拿马、委内瑞拉、阿根廷、海地
+西部马脑炎
+披膜病毒科(甲病毒属)
+美国、加拿大、中美洲及南美洲
+西尼罗河病毒
+黄病毒科
+非洲、中东、南欧、俄罗斯、德国、印度、印度尼西亚、美国、加拿大南部、墨西哥、南美洲、加勒比海地区
+圣路易脑炎
+黄病毒科
+美国、加勒比海地区、巴拿马、南美洲
+Usutu
+黄病毒科
+非洲、欧洲
+委内瑞拉马脑炎
+披膜病毒科(甲病毒属)
+阿根廷、巴西、南美洲北部、巴拿马、墨西哥、佛罗里达州
+拉克罗斯脑炎
+Peribunyaviridae
+美国、特别是中北部各州、纽约州、阿巴拉契亚各州
+詹姆斯敦峡谷病毒
+Peribunyaviridae
+美国从落基山脉到东海岸、加拿大东南部
+日本脑炎
+黄病毒科
+日本、韩国、中国、印度、尼泊尔、菲律宾、东南亚、俄罗斯、澳大利亚
+Powassan病毒
+黄病毒科
+加拿大东部、纽约州、罗德岛州、新英格兰州、俄亥俄州、威斯康星州、俄罗斯
+墨累山谷脑炎
+黄病毒科
+澳大利亚、新几内亚
+科萨努尔森林病
+黄病毒科
+棘刺血蜱
+蜱传脑炎
+黄病毒科
+欧洲、巴尔干、俄罗斯、吉尔吉斯斯坦
+淋巴细胞性脉络丛脑膜炎病毒
+沙粒病毒科
+啮齿类动物
+美洲、欧洲、澳大利亚、日本
+*气候条件的变化可以通过扩大或缩小其宿主的栖息地来影响虫媒病毒的地理范围内的分布。
+†裂谷热还能导致出血、脑膜脑炎和眼疾。
+‡西尼罗河病毒也可导致脑炎
+§首尔、普马拉、多布拉瓦和汉坦的汉坦病毒可引起肾综合征出血热。
+*气候条件的变化可以通过扩大或缩小其宿主的栖息地来影响虫媒病毒的地理范围内的分布。
+†裂谷热还能导致出血、脑膜脑炎和眼疾。
+‡西尼罗河病毒也可导致脑炎
+§首尔、普马拉、多布拉瓦和汉坦的汉坦病毒可引起肾综合征出血热。
+
+【参考文献】
+1.International Committee on Taxonomy of Viruses (ICTV):https://ictv.global/taxonomy/.Virus Taxonomy: 2024 release.August 2024.Accessed June 13, 2025.
+1.International Committee on Taxonomy of Viruses (ICTV):https://ictv.global/taxonomy/.Virus Taxonomy: 2024 release.August 2024.Accessed June 13, 2025.
+2.Suchowiecki K, Reid SP, Simon GL, Firestein GS, Chang A.Persistent Joint Pain Following Arthropod Virus Infections.Curr Rheumatol Rep2021;23(4):26.Published 2021 Apr 13.doi:10.1007/s11926-021-00987-y
+2.Suchowiecki K, Reid SP, Simon GL, Firestein GS, Chang A.Persistent Joint Pain Following Arthropod Virus Infections.Curr Rheumatol Rep2021;23(4):26.Published 2021 Apr 13.doi:10.1007/s11926-021-00987-y
+
+【虫媒病毒、沙粒病毒和丝状病毒感染的治疗】
+支持治疗
+支持治疗
+部分患者可用利巴韦林
+部分患者可用利巴韦林
+大多数此类感染的治疗是支持性的。
+在出血热中，出血可能需要植物甲萘醌（维生素K1）。输注浓缩红细胞或新鲜冰冻血浆也可能是必要的。 由于抗血小板活性，阿司匹林和其他 NSAIDs（非甾体抗炎药）是禁忌的。 对于汉坦病毒心肺综合征的晚期病例，可能需要体外膜氧合（ECMO）。
+利巴韦林推荐用于沙粒病毒或布尼亚病毒引起的出血热，包括拉沙热、裂谷热、克里米亚-刚果出血热。如果存在肾综合征出血热，利巴韦林的剂量应根据需要进行调整。
+其他综合征的抗病毒治疗尚未进行充分研究。利巴韦林在丝状病毒和黄病毒感染的动物模型中未见有效。
+有两种药物可用于治疗成人和儿童由扎伊尔埃博拉病毒引起的埃博拉病毒病：三种单克隆抗体的组合（阿托利韦单抗/马夫替韦单抗/奥得西韦单抗）和一种单克隆抗体（安舒韦单抗）。
+
+【虫媒病毒、沙粒病毒和丝状病毒感染的预防】
+传播媒介控制
+传播媒介控制
+预防媒介叮咬
+预防媒介叮咬
+有时接种疫苗
+有时接种疫苗
+避免接触受感染的动物、它们的产品和它们的排泄物（汉坦病毒）
+避免接触受感染的动物、它们的产品和它们的排泄物（汉坦病毒）
+虫媒病毒的丰富性和多样性意味着，通过摧毁其节肢动物载体或采取其他种群控制措施、防止叮咬和消除其繁殖栖息地，往往比开发特定疫苗或药物更容易和更便宜地控制虫媒病毒感染。
+
+【病媒控制和叮咬预防】
+通过蚊虫或蜱传播的疾病，可采用以下措施：
+减少或限制病媒群体的感染
+减少或限制病媒群体的感染
+穿着尽可能覆盖身体的衣物
+穿着尽可能覆盖身体的衣物
+留在有空调或安装纱窗和纱门的地方，以防止蚊子进入。
+留在有空调或安装纱窗和纱门的地方，以防止蚊子进入。
+如果居住地没有充分安装纱窗或空调，应睡在蚊帐中。
+如果居住地没有充分安装纱窗或空调，应睡在蚊帐中。
+使用驱虫剂（如避蚊胺[二乙基甲苯酰胺]）
+使用驱虫剂（如避蚊胺[二乙基甲苯酰胺]）
+用氯菊酯杀虫剂处理衣物和装备（不要直接喷在皮肤上）。
+用氯菊酯杀虫剂处理衣物和装备（不要直接喷在皮肤上）。
+尽量减少与昆虫或蜱虫接触的可能性（以蚊子为例，限制在潮湿地区户外活动的时间；对于蜱虫，请参见侧栏蜱虫叮咬预防）
+尽量减少与昆虫或蜱虫接触的可能性（以蚊子为例，限制在潮湿地区户外活动的时间；对于蜱虫，请参见侧栏蜱虫叮咬预防）
+通过释放不育雄性或转基因雄性蚊子，在减少埃及伊蚊种群方面取得了进展(1)。另一种方法是限制病媒群体的感染。正在进行野外试验，将感染了沃尔巴克氏细菌的埃及伊蚊引入野外，这种细菌可以阻断虫媒病毒中肠感染（2）。这些细菌不会减少蚊子的数量。相反，它们可以阻止登革热、基孔肯雅热和寨卡病毒对蚊子的感染，从而减少疾病的传播。沃尔巴克氏体被传染给受感染蚊子的后代，从而提高了该技术的有效性。
+通过啮齿类动物排泄物传播的疾病，可采用以下措施：
+在清理可能有老鼠的封闭空间之前，请通风至少15分钟。
+在清理可能有老鼠的封闭空间之前，请通风至少15分钟。
+清扫或清洁之前，用10%漂白剂润湿表面。
+清扫或清洁之前，用10%漂白剂润湿表面。
+避免搅起灰尘。
+避免搅起灰尘。
+封闭啮齿动物进入住宅和附近建筑物的可能入口点
+封闭啮齿动物进入住宅和附近建筑物的可能入口点
+防止啮齿类接触食物
+防止啮齿类接触食物
+消除家庭和其他建筑物内部和周围的潜在筑巢地点。
+消除家庭和其他建筑物内部和周围的潜在筑巢地点。
+关于清理啮齿动物以及在可能有啮齿动物排泄物的地区工作的指南可从疾病控制和预防中心 (CDC) 获得（3）。
+由于丝状病毒埃博拉病毒和马尔堡病毒的传播主要是人传人，预防疾病传播需要对感染者采取严格的检疫和隔离措施。
+
+【疫苗接种】
+在美国，只有埃博拉病毒（4）、黄热病毒（5）、日本脑炎病毒（6）、蜱传脑炎（7）和基孔肯雅病毒的有效疫苗。登革热疫苗仅在波多黎各可用，但疗效中等，且因登革热免疫状态、血清型和患者年龄而异；研究正在进行中（8、9）。
+
+【预防参考文献】
+1.Martín-Park A, Che-Mendoza A, Contreras-Perera Y, et al: Pilot trial using mass field-releases of sterile males produced with the incompatible and sterile insect techniques as part of integrated Aedes aegypti control in Mexico.PLoS Negl Trop Dis16(4):e0010324, 2022.Published 2022 Apr 26.doi:10.1371/journal.pntd.0010324
+1.Martín-Park A, Che-Mendoza A, Contreras-Perera Y, et al: Pilot trial using mass field-releases of sterile males produced with the incompatible and sterile insect techniques as part of integrated Aedes aegypti control in Mexico.PLoS Negl Trop Dis16(4):e0010324, 2022.Published 2022 Apr 26.doi:10.1371/journal.pntd.0010324
+2.Centers for Disease Control and Prevention: Mosquitoes withWolbachia.May 14, 2024.Accessed June 16, 2025.
+2.Centers for Disease Control and Prevention: Mosquitoes withWolbachia.May 14, 2024.Accessed June 16, 2025.
+3.Centers for Disease Control and Prevention: How to Clean Up After Rodents.April 8, 2024.Accessed June 16, 2025.
+3.Centers for Disease Control and Prevention: How to Clean Up After Rodents.April 8, 2024.Accessed June 16, 2025.
+4.Liu CH, Hu YT, Wong SH, Lin LT: Therapeutic Strategies against Ebola Virus Infection.Viruses14(3):579, 2022.Published 2022 Mar 11.doi:10.3390/v14030579
+4.Liu CH, Hu YT, Wong SH, Lin LT: Therapeutic Strategies against Ebola Virus Infection.Viruses14(3):579, 2022.Published 2022 Mar 11.doi:10.3390/v14030579
+5.Beck AS, Barrett AD: Current status and future prospects of yellow fever vaccines.Expert Rev Vaccines14(11):1479-1492, 2015.doi:10.1586/14760584.2015.1083430
+5.Beck AS, Barrett AD: Current status and future prospects of yellow fever vaccines.Expert Rev Vaccines14(11):1479-1492, 2015.doi:10.1586/14760584.2015.1083430
+6.Hegde NR, Gore MM: Japanese encephalitis vaccines: Immunogenicity, protective efficacy, effectiveness, and impact on the burden of disease.Hum Vaccin Immunother13(6):1-18, 2017.doi:10.1080/21645515.2017.1285472
+6.Hegde NR, Gore MM: Japanese encephalitis vaccines: Immunogenicity, protective efficacy, effectiveness, and impact on the burden of disease.Hum Vaccin Immunother13(6):1-18, 2017.doi:10.1080/21645515.2017.1285472
+7.Angulo FJ, Zhang P, Halsby K, et al: A systematic literature review of the effectiveness of tick-borne encephalitis vaccines in Europe.Vaccine41(47):6914-6921, 2023.doi:10.1016/j.vaccine.2023.10.014
+7.Angulo FJ, Zhang P, Halsby K, et al: A systematic literature review of the effectiveness of tick-borne encephalitis vaccines in Europe.Vaccine41(47):6914-6921, 2023.doi:10.1016/j.vaccine.2023.10.014
+8.da Silveira LTC, Tura B, Santos M: Systematic review of dengue vaccine efficacy.BMC Infect Dis19(1):750, 2019.Published 2019 Aug 28.doi:10.1186/s12879-019-4369-5
+8.da Silveira LTC, Tura B, Santos M: Systematic review of dengue vaccine efficacy.BMC Infect Dis19(1):750, 2019.Published 2019 Aug 28.doi:10.1186/s12879-019-4369-5
+9.Centers for Disease Control and PreventionCenters for Disease Control and Prevention: About a Dengue Vaccine.May 15, 2025.Accessed July 23, 2025.
+9.Centers for Disease Control and PreventionCenters for Disease Control and Prevention: About a Dengue Vaccine.May 15, 2025.Accessed July 23, 2025.
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+World Health Organization (WHO): Outbreaks and Emergencies Bulletin
+World Health Organization (WHO): Outbreaks and Emergencies Bulletin

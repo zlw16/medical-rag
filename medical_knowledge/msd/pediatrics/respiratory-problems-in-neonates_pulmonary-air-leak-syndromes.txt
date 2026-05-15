@@ -1,0 +1,72 @@
+标题：肺气漏综合征
+来源：https://www.msdmanuals.cn/professional/pediatrics/respiratory-problems-in-neonates/pulmonary-air-leak-syndromes
+============================================================
+
+（参见围产期呼吸系统疾病概述。）
+空气泄漏综合征包括:
+纵隔气肿
+纵隔气肿
+肺间质气肿
+肺间质气肿
+心包积气
+心包积气
+气腹或皮下肺气肿（罕见）
+气腹或皮下肺气肿（罕见）
+高达10%的足月及近足月新生儿可能发生无症状性气胸（1），其原因可能是新生儿开始呼吸时产生的胸腔内强负压偶可导致肺泡上皮破裂，致使气体由肺泡进入肺泡外软组织或腔隙。然而，临床上明显的气胸要少见得多，大约发生在足月婴儿的0.02%（2）。
+漏气在患有肺病的新生儿和极早产儿中更为常见和严重。这些婴儿之所以处于风险中，是因为其肺顺应性较差，需要高气道压力的通气支持（例如呼吸窘迫综合征）或由于空气滞留（例如胎粪吸入综合征)，导致肺泡过度膨胀。在一项对小于28周胎龄的极早产儿的研究中，9.4%有严重的漏气综合征；这一组的死亡率为55%，而对照组的死亡率为35%（3）。
+临床上怀疑漏气综合征的诊断或由于氧气状态恶化而诊断，并通过 X 射线确诊。
+气漏综合征的治疗方法随肺气漏类型不同而异，对机械通气患儿应将吸入气压力调到最低允许限度。高频呼吸机可能有所帮助，但尚未被证明对所有类型的气漏综合征均有益。
+
+【参考文献】
+1.Montero Gato J, Sacristán PA, Vázquez NL, Martín MLH, Amorós AG, Fernández LR.Incidence of ultrasonographic signs of pneumothorax in asymptomatic neonates.Pediatr Pulmonol.2023;58(6):1691-1696.doi:10.1002/ppul.26378
+1.Montero Gato J, Sacristán PA, Vázquez NL, Martín MLH, Amorós AG, Fernández LR.Incidence of ultrasonographic signs of pneumothorax in asymptomatic neonates.Pediatr Pulmonol.2023;58(6):1691-1696.doi:10.1002/ppul.26378
+2.Acun C, Nusairat L, Kadri A, et al.Pneumothorax prevalence and mortality per gestational age in the newborn.Pediatr Pulmonol.2021;56(8):2583-2588.doi:10.1002/ppul.25454
+2.Acun C, Nusairat L, Kadri A, et al.Pneumothorax prevalence and mortality per gestational age in the newborn.Pediatr Pulmonol.2021;56(8):2583-2588.doi:10.1002/ppul.25454
+3.Oh SH, Jin HS, Park CH.Risk factors and neonatal outcomes of pulmonary air leak syndrome in extremely preterm infants: A nationwide descriptive cohort study.Medicine (Baltimore).2023;102(34):e34759.doi:10.1097/MD.0000000000034759
+3.Oh SH, Jin HS, Park CH.Risk factors and neonatal outcomes of pulmonary air leak syndrome in extremely preterm infants: A nationwide descriptive cohort study.Medicine (Baltimore).2023;102(34):e34759.doi:10.1097/MD.0000000000034759
+气体逸入胸膜腔形成气胸，气体积聚量大则可致张力性气胸。
+在极早产儿（小于28周胎龄）中，长时间的胎膜早破、羊水过少、需要复苏、围产期窒息、多剂量表面活性剂、持续性肺动脉高压和肺出血与气胸的高风险相关（2）。
+虽然气胸有时无症状，但典型表现为呼吸急促、呻吟和发绀加重。呼吸音减低，受累一侧胸腔扩大。张力性气胸可导致心血管衰竭。
+新生儿右侧张力性气胸，可见肺边缘，右侧肺血管标记极少。张力性气胸是一种临床诊断，而不是影像学诊断，但在本图中，纵隔明显向左移位高度提示张力性气胸。
+Image courtesy of Arcangela Balest, MD.
+疑诊气胸通过呼吸状态恶化，用光纤探头透照胸部，或两者兼有。（透照法对于较大的婴儿通常没有帮助。）胸部X线摄片能明确诊断，张力性气胸胸腔穿刺可有气体外溢。呼吸或血流动力学的快速恶化并无单侧呼吸音强烈提示张力性气胸——临床诊断应及时治疗，而无需等待放射学证实。
+在一项研究中，约16%患有自发性气胸的足月及近足月新生儿出现了持续性肺动脉高压（1）。这种并发症说明了密切监测这些患者的重要性 。
+图示右肺在置入猪尾胸管后再次扩张，清晰可见肺纹理。
+肺水肿是先天性心脏病所致（肺静脉回流完全异常），与气胸无直接关系。
+Image courtesy of Arcangela Balest, MD.
+大多数少量气胸者能自行吸收。气体量大和张力性气胸须立即排除胸腔内的游离气体。在张力性气胸中，可以使用小（23或25号）针或血管导管（18或20号）和注射器来暂时从胸膜间隙抽空游离空气。如果临床诊断为张力性气胸是在快速失代偿/恶化的情况下进行的，则应在没有放射学证实的情况下进行排气。确定性治疗是插入胸腔引流管并连接低间歇吸引。胸部听诊、胸透和X线检查可确定引流管是否工作正常。一旦在x光片上发现自由空气的消失，并且在胸管引流瓶中没有气泡（表明没有空气从患者中流出），则可以夹住胸管。如果x线片显示胸膜腔内没有空气积聚，患者保持稳定，则拔除胸管。敷料放在胸管入路处。大多数患者无需进一步随访。拔除胸管后可能发生支气管胸膜瘘。
+在一项多中心研究中，大约40%的新生儿气胸采用保守治疗，而大约60%的新生儿需要胸管或针吸 (3)。
+
+【气胸参考文献】
+1.Smith J, Schumacher RE, Donn SM, Sarkar S: Clinical course of symptomatic spontaneous pneumothorax in term and late preterm newborns: Report from a large cohort.Am J Perinatol28(2):163–168, 2011.doi: 10.1055/s-0030-1263300
+1.Smith J, Schumacher RE, Donn SM, Sarkar S: Clinical course of symptomatic spontaneous pneumothorax in term and late preterm newborns: Report from a large cohort.Am J Perinatol28(2):163–168, 2011.doi: 10.1055/s-0030-1263300
+2.Oh SH, Jin HS, Park CH.Risk factors and neonatal outcomes of pulmonary air leak syndrome in extremely preterm infants: A nationwide descriptive cohort study.Medicine (Baltimore).2023;102(34):e34759.doi:10.1097/MD.0000000000034759
+2.Oh SH, Jin HS, Park CH.Risk factors and neonatal outcomes of pulmonary air leak syndrome in extremely preterm infants: A nationwide descriptive cohort study.Medicine (Baltimore).2023;102(34):e34759.doi:10.1097/MD.0000000000034759
+3.Baudat-Nguyen J, Schneider J, Roth-Kleiner M, et al.Incidence and Management of Neonatal Pneumothorax in a 10-Hospital Regional Perinatal Network in Switzerland: A Retrospective Observational Study.Am J Perinatol.2024;41(S 01):e3305-e3312.doi:10.1055/s-0043-1777861
+3.Baudat-Nguyen J, Schneider J, Roth-Kleiner M, et al.Incidence and Management of Neonatal Pneumothorax in a 10-Hospital Regional Perinatal Network in Switzerland: A Retrospective Observational Study.Am J Perinatol.2024;41(S 01):e3305-e3312.doi:10.1055/s-0043-1777861
+
+【纵隔气肿】
+纵隔气肿是空气进入纵隔结缔组织的夹层（另见病毒性胸膜炎）；空气还可能进一步进入颈部和头皮的皮下组织。
+纵隔气肿者通常无临床症状和体征，但是皮下气肿可出现捻发感。
+纵隔气肿的诊断是通过 X 线检查。从前后位看，空气可能在心脏周围形成透明层，并将胸腺叶抬离心脏轮廓（大三角帆征 - 因其外观像船帆而得名）。
+纵隔气肿未经处理通常能自行消退，一般无需处理。
+
+【肺间质气肿(PIE)】
+肺内气体从肺泡中漏出，进入肺间质、淋巴组织或胸膜下间隙。肺间质气肿常发生于肺顺应性差的婴儿，如用机械通气的呼吸窘迫综合征患儿，但也有自发性的。可累及一侧或两侧肺部，每侧肺部可呈局灶性或弥漫性病变。若气体积聚广泛，可因肺顺应性急剧降低而导致呼吸状态急剧恶化。
+胸部X线检查显示肺野有数个或多个囊性或线性透亮区。一些透亮区可拉长，其他可表现为增大的胸膜下囊肿，其直径可达数毫米至数厘米。在某些情况下，空气也会泄漏到皮下组织中，在检查时产生捻发音。
+肺间质气肿可能在1或2天内显著缓解，也可能在X光片上持续存在数周。一些患有严重呼吸系统疾病和肺间质气肿的婴儿会发展为支气管肺发育不良（BPD），而长期存在的肺间质气肿的囊性改变会融入支气管肺发育不良的影像学表现中。
+PIE 的治疗主要以支持治疗为主。高频喷射通气显示出优于传统通气的好处 (1)。通过切换到高频振荡呼吸机来降低潮气量和气道压力也可能有所帮助。无论采用何种通气方式，减少进一步的气压损伤是目标。
+如果一侧肺受累明显重于另一侧，可将婴儿置于侧卧位，使病变较重的一侧肺部朝下；这有助于压迫病变较重的肺，减少漏气，并可能改善抬高侧（较健康）肺的通气。
+如果一侧肺非常严重，而另一侧肺则轻度受累或未受累，可试做鉴别性支气管插管和轻度受累侧的通气试验。然而，选择性地左主支气管插管可能在技术上具有挑战性。 很快就会出现非插管肺的完全性肺不张。由于仅一侧肺部通气，呼吸机的设置和吸氧（FiO2）需作调整。经24～48小时后，可将支气管内插管退回至气管，此时肺气漏可能已经停止。
+
+【PIE 参考】
+1.Keszler M, Donn SM, Bucciarelli RL, et al.Multicenter controlled trial comparing high-frequency jet ventilation and conventional mechanical ventilation in newborn infants with pulmonary interstitial emphysema.J Pediatr.1991;119(1 Pt 1):85-93.doi:10.1016/s0022-3476(05)81046-7
+1.Keszler M, Donn SM, Bucciarelli RL, et al.Multicenter controlled trial comparing high-frequency jet ventilation and conventional mechanical ventilation in newborn infants with pulmonary interstitial emphysema.J Pediatr.1991;119(1 Pt 1):85-93.doi:10.1016/s0022-3476(05)81046-7
+
+【心包积气】
+心包积气为气体进入心包腔所致。几乎均发生于机械通气患儿。
+大多数情况下无症状，但如果有足够的空气积聚，可能会导致心脏压塞。
+如果婴儿有急性循环衰竭，可怀疑有心包积气的诊断，并可通过X线检查心脏周围的透明度或使用血管导管和注射器在心包穿刺术中回气来确诊。
+对于具有临床意义的积气性心包炎，其标准治疗方案为心包穿刺术，随后通过外科手术置入心包引流管。
+气体进入腹膜腔造成气腹。该表现通常无显著临床意义，但需与因腹腔脏器破裂或坏死性小肠结肠炎导致的气腹相鉴别，后者属于外科急症。
+气腹的诊断是通过腹部x线片和体格检查。临床体征包括腹部强直、无肠鸣音，和脓毒症的症状可表明腹部脏器损伤。

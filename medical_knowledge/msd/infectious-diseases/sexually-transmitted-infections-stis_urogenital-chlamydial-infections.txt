@@ -1,0 +1,127 @@
+标题：泌尿生殖道衣原体感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/sexually-transmitted-infections-stis/urogenital-chlamydial-infections
+============================================================
+
+Chlamydia trachomatis（沙眼衣原体）导致女性性传播的宫颈炎和上生殖道感染（子宫内膜炎、输卵管炎）；男性附睾炎；以及男女均可发生的尿道炎、直肠炎、咽炎和性病性淋巴肉芽肿。沙眼衣原体导致高达40%的非淋菌性尿道炎病例、大多数黏液脓性宫颈炎病例和性病性淋巴肉芽肿（罕见）（1）。（另见泌尿生殖器支原体感染和滴虫病，了解非淋菌性尿道炎的其他原因。）
+虽然衣原体占非淋菌性尿道炎的大部分，但其他原因包括生殖器支原体和其他可能无法通过现有检测识别的病原体。
+衣原体是美国最常报告的性传播感染（STI）。2023年，报告了超过160万例病例（2）。世界卫生组织报告称，2020年全球15至49岁人群中新增1.28亿例衣原体感染病例（3）。
+Chlamydiae（衣原体）也会导致非性传播感染，包括沙眼、新生儿结膜炎和肺炎。
+(参见性传播感染疾病概述。）
+
+【参考文献】
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+2.Centers for Disease Control and Prevention (CDC): National Overview of STIs in 2023.Accessed March 11, 2025.
+2.Centers for Disease Control and Prevention (CDC): National Overview of STIs in 2023.Accessed March 11, 2025.
+3.World Health Organization (WHO): Chlamydia.2024.Accessed February 5, 2025.
+3.World Health Organization (WHO): Chlamydia.2024.Accessed February 5, 2025.
+
+【泌尿生殖道Chlamydial（衣原体）感染的症状和体征】
+男性常在交媾后的经过7到28天的潜伏期后出现尿道炎症状，往往有轻度尿痛和尿道不适，伴有清亮至黏液脓性分泌物。虽然分泌物不多，症状轻微，但往往在清晨症状较明显，因这时尿道壁常发红、出口被黏稠变干的分泌物粘住，可能出现内衣污渍。偶尔也可起病较急，可有严重尿痛，尿频和类似典型淋球菌性尿道炎的大量脓性分泌物。感染可能进展为附睾炎。
+女性通常无症状，但可能出现尿道炎（尿道刺激和分泌物、排尿困难、尿频）以及阴道分泌物、盆腔疼痛和性交疼痛。伴有黄色黏液脓性渗出物的宫颈炎和宫颈异位（红色的子宫内膜柱状上皮伸展至宫颈的阴道表面）是具有特征性的。盆腔炎性疾病（PID；包括子宫内膜炎、输卵管炎及盆腔腹膜炎）可引起下腹部不适（通常为双侧），在触诊腹部、附件及宫颈时可见明显压痛。盆腔炎的长期后果包括不孕不育和异位妊娠风险增加。Fitz-Hugh-Curtis综合征（肝周围炎）可导致右上腹痛、发热和呕吐。
+与感染者发生直肠或口生殖器性接触后，男女双方均可能出现直肠炎或咽炎。
+衣原体可能会转移到眼睛（例如，如果在性活动期间，生殖器感染分泌物通过受污染的手指转移到眼球表面，或者由怀孕的患者在围产期转移给新生儿），导致急性结膜炎、沙眼和潜在的失明。
+反应性关节炎（既往称为赖特综合征）是由对生殖器和肠道感染的免疫反应引起的，是成人衣原体感染的一种罕见并发症。反应性关节炎有时伴有皮肤病变（白细胞性角化病）、眼部病变（结膜炎和葡萄膜炎)、非感染性复发性尿道炎或龟头炎。
+这张照片显示了患有衣原体反应性关节炎（也称为赖特综合征）的人脚上的角化病，即增厚、有鳞、脓疱性病变。
+这张照片显示了患有衣原体反应性关节炎（也称为赖特综合征）的人脚上的角化病，即增厚、有鳞、脓疱性病变。
+Image courtesy of Susan Lindsley via the Public Health Image Library of the Centers for Disease Control and Prevention.
+这张照片显示了患有衣原体反应性关节炎（也称为赖特综合征）的人的结膜炎。
+这张照片显示了患有衣原体反应性关节炎（也称为赖特综合征）的人的结膜炎。
+Image courtesy of Joe Miller via the Public Health Image Library of the Centers for Disease Control and Prevention.
+这张照片显示了患有衣原体反应性关节炎（也称为赖特综合征）的人的阴茎上的环状龟头炎（浅表、环状溃疡）。
+这张照片显示了患有衣原体反应性关节炎（也称为赖特综合征）的人的阴茎上的环状龟头炎（浅表、环状溃疡）。
+Image courtesy of Drs.Weisner and Kaufman via the Public Health Image Library of the Centers for Disease Control and Prevention.
+这张照片显示了患有衣原体反应性关节炎（也称为赖特综合征）的人脚上的角化病，即增厚、有鳞、脓疱性病变。
+这张照片显示了患有衣原体反应性关节炎（也称为赖特综合征）的人脚上的角化病，即增厚、有鳞、脓疱性病变。
+Image courtesy of Susan Lindsley via the Public Health Image Library of the Centers for Disease Control and Prevention.
+这张照片显示了患有衣原体反应性关节炎（也称为赖特综合征）的人的结膜炎。
+这张照片显示了患有衣原体反应性关节炎（也称为赖特综合征）的人的结膜炎。
+Image courtesy of Joe Miller via the Public Health Image Library of the Centers for Disease Control and Prevention.
+这张照片显示了患有衣原体反应性关节炎（也称为赖特综合征）的人的阴茎上的环状龟头炎（浅表、环状溃疡）。
+这张照片显示了患有衣原体反应性关节炎（也称为赖特综合征）的人的阴茎上的环状龟头炎（浅表、环状溃疡）。
+Image courtesy of Drs.Weisner and Kaufman via the Public Health Image Library of the Centers for Disease Control and Prevention.
+患衣原体宫颈炎的母亲分娩的新生儿可能出现衣原体肺炎或新生儿眼炎（新生儿结膜炎）。
+
+【泌尿生殖道衣原体感染的诊断】
+宫颈、阴道、尿道、咽或直肠分泌物或尿液的核酸扩增检测（NAATs）
+宫颈、阴道、尿道、咽或直肠分泌物或尿液的核酸扩增检测（NAATs）
+当患者出现尿道炎、输卵管炎、宫颈炎或不明原因直肠炎症状时，需怀疑衣原体感染，但淋病也可能引发类似症状。
+如果尿道炎的临床证据不确定，则可以通过以下任何一项来记录尿道炎（1）：
+粘液，脓性粘液，或检查时发现有脓性分泌物
+粘液，脓性粘液，或检查时发现有脓性分泌物
+离心后首段尿中每高倍视野含有≥10个白细胞
+离心后首段尿中每高倍视野含有≥10个白细胞
+首段尿的白细胞酯酶试验阳性
+首段尿的白细胞酯酶试验阳性
+尿道分泌物革兰氏染色油镜下每个视野含有≥2个白细胞
+尿道分泌物革兰氏染色油镜下每个视野含有≥2个白细胞
+可收集宫颈或阴道分泌物、男性尿道或直肠分泌物来检测衣原体。尿液样品可代替宫颈或尿道的标本。检测这些部位的感染需要咽喉和直肠拭子
+市售的NAATs检测对衣原体检测具有高度敏感性与特异性，且可对患者自行采集的尿液或阴道样本进行检测，从而无需实施令人不适的尿道或宫颈拭子采样。可以使用即时护理 NAAT 平台，并且可以提供同次就诊结果。在一般情况下，从喉部和直肠样品只能在有资质的实验室进行检测，这类实验室已经证实针对这类解剖部位的检测实验有意义。
+由于其他性传播感染（尤其是淋病）常伴发，出现症状性尿道炎的患者还应检测淋病。所有被诊断为淋病或衣原体感染的患者均应接受其他性传播感染的检测，包括梅毒和 HIV 感染。
+在美国，确诊的衣原体感染病例以及淋病和梅毒病例必须向公共卫生系统报告。
+
+【诊断参考文献】
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+
+【泌尿生殖器衣原体感染筛查】
+使用NAAT检测尿液或自行收集的阴道拭子对于筛查无症状的STI高危人群尤其有用，因为不需要进行生殖器检查。筛查推荐因性别、年龄、性生活及临床机构而定 (1)。
+如果女性性行为活跃且年龄 < 25 岁，或者年龄 ≥ 25 岁，性行为活跃，且有一个或多个以下风险因素，则每年进行一次筛查：
+曾有STI史
+曾有STI史
+性行为增加暴露风险（例如，有新的性伴侣或多于 1 个性伴侣；从事性工作；或在非相互单一伴侣关系中未持续使用安全套）
+性行为增加暴露风险（例如，有新的性伴侣或多于 1 个性伴侣；从事性工作；或在非相互单一伴侣关系中未持续使用安全套）
+有性伴侣患有性传播感染，或该性伴侣同时存在多个性伴侣
+有性伴侣患有性传播感染，或该性伴侣同时存在多个性伴侣
+患有1种或多种危险因素的<25岁或≥25岁的孕妇在第1次产前检查时进行筛查，如果风险仍然很高，则在妊娠第3期再次进行筛查 (1,2,3)。
+与男性发生性行为的男性如果过去一年内有性生活，无论是否使用安全套，都应至少每年进行1次筛查（插入性性行为者进行尿液筛查；接受性性行为者进行直肠拭子检查；进行口交者进行咽拭子检查）。那些风险增加的人（例如，艾滋病毒感染者、接受抗逆转录病毒药物暴露前预防、有多个性伴侣或其伴侣有多个伴侣）应更频繁地进行筛查，间隔3至6个月 (1,4)。
+跨性别者和性别多元人群如果性活跃，则应根据其性行为方式和身体解剖结构进行筛查（例如，对所有年龄<25岁且有宫颈的人每年进行1次筛查；≥25岁以上且有宫颈者，若存在高危因素则应每年筛查；根据报告的性行为史和暴露情况进行直肠拭子检查）(1)。
+未包含在上述类别中的男性通常不进行常规筛查，但在衣原体感染高发的临床环境中（例如青少年门诊、性传播感染门诊及惩教机构）则属例外。
+
+【筛查参考文献】
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+1.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+2.LeFevre ML; U.S. Preventive Services Task Force.Screening for Chlamydia and gonorrhea: U.S. Preventive Services Task Force recommendation statement.Ann Intern Med.2014;161(12):902-910.doi:10.7326/M14-1981LeFevre ML; U.S. Preventive Services Task Force.Screening for Chlamydia and gonorrhea: U.S. Preventive Services Task Force recommendation statement.Ann Intern Med.2014;161(12):902-910.doi:10.7326/M14-1981
+2.LeFevre ML; U.S. Preventive Services Task Force.Screening for Chlamydia and gonorrhea: U.S. Preventive Services Task Force recommendation statement.Ann Intern Med.2014;161(12):902-910.doi:10.7326/M14-1981LeFevre ML; U.S. Preventive Services Task Force.Screening for Chlamydia and gonorrhea: U.S. Preventive Services Task Force recommendation statement.Ann Intern Med.2014;161(12):902-910.doi:10.7326/M14-1981
+3.US Preventive Services Task Force, Davidson KW, Barry MJ, et al.Screening for Chlamydia and Gonorrhea: US Preventive Services Task Force Recommendation Statement.JAMA.2021;326(10):949-956.doi:10.1001/jama.2021.14081
+3.US Preventive Services Task Force, Davidson KW, Barry MJ, et al.Screening for Chlamydia and Gonorrhea: US Preventive Services Task Force Recommendation Statement.JAMA.2021;326(10):949-956.doi:10.1001/jama.2021.14081
+4.Committee on Adolescence; Society for Adolescent Health and Medicine.Screening for nonviral sexually transmitted infections in adolescents and young adults.Pediatrics.2014;134(1):e302-e311.doi:10.1542/peds.2014-1024
+4.Committee on Adolescence; Society for Adolescent Health and Medicine.Screening for nonviral sexually transmitted infections in adolescents and young adults.Pediatrics.2014;134(1):e302-e311.doi:10.1542/peds.2014-1024
+
+【泌尿生殖道衣原体感染的治疗】
+口服抗生素
+口服抗生素
+尚未排除淋病诊断的需要进行经验性治疗。
+尚未排除淋病诊断的需要进行经验性治疗。
+过去60天的性伴侣和/或最近的性伴侣的治疗
+过去60天的性伴侣和/或最近的性伴侣的治疗
+无并发症的已记录或疑似衣原体感染采用多西环素po 100mg bid，疗程7天（1、2）。
+阿奇霉素作为一种替代药物，单次口服1克剂量或左氧氟沙星500毫克口服，每天一次，持续7天。
+对于孕妇应使用阿奇霉素口服单次1g。阿莫西林500mg口服，每日3次，连用7天，是阿奇霉素的替代疗法。孕妇应在治疗后4周进行治愈测试，并在3个月内重新测试。
+这些治疗方案并不能可靠地治疗淋病，而许多患者同时患有衣原体感染和淋病。因此，治疗应包括单剂量头孢曲松 500 mg IM（体重 ≥150kg的患者1g IM），除非患者的淋病检测结果为阴性（2）。
+在滴虫病流行地区，对于衣原体感染患者，建议经验性使用甲硝唑、替硝唑或塞克硝唑治疗，除非核酸扩增试验（NAAT）显示患者滴虫病检测为阴性。
+复发患者（12 个月内复发率高达 13%）（3) 通常合并感染了对抗衣原体疗法无反应的微生物，或是在治疗后再次感染。患者应重新检测衣原体与淋病，若条件允许，还应检测支原体及滴虫感染。
+在过去60天内和患者出现症状之前的性伴侣（或最近的性伴侣，如果最后一次性接触超过60天）应进行评估、检测和推定治疗（2）。患者及其伴侣在完成治疗并持续 ≥1 周前应避免性行为。
+加速伴侣疗法(EPT) 是一种做法，即患有感染的患者获得处方或药物，以便将其交给伴侣，而无需医疗保健专业人员首先检查伴侣。EPT可提高伴侣的治疗依从性，从而降低因再感染导致的治疗失败。它可能对有淋病及衣原体感染的女性的性伴侣最为合适。然而，最好通过一次全面的健康检查来确认患者的药物过敏史，并筛查其他性传播感染（2）。
+暴露后使用多西环素进行预防，在无保护性行为后 72 小时内口服，已证明可显著降低男男性行为者和跨性别女性患衣原体、淋病和梅毒的几率 （4）。
+若生殖道衣原体感染不予治疗，约2/3的病人可在4周内症状和体征消失。然而，在女性中，无症状的宫颈感染可能会持续存在，导致慢性子宫内膜炎、输卵管炎或盆腔腹膜炎以及相关后遗症——盆腔疼痛、不孕症和异位妊娠风险增加。由于沙眼衣原体感染即使在症状轻微或无症状时，也可能对女性造成严重的长期后果，因此，检测女性感染情况并对其本人及其性伴侣进行治疗至关重要。
+
+【治疗参考文献】
+1.Kong FYS,  Tabrizi SN,  Fairley CK, et al.The efficacy ofazithromycinanddoxycyclinefor the treatment of rectal chlamydia infection: a systematic review and meta-analysis.J Antimicrob Chemother.2015;70:1290–1297.doi:10.1093/jac/dku574
+1.Kong FYS,  Tabrizi SN,  Fairley CK, et al.The efficacy ofazithromycinanddoxycyclinefor the treatment of rectal chlamydia infection: a systematic review and meta-analysis.J Antimicrob Chemother.2015;70:1290–1297.doi:10.1093/jac/dku574
+2.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+2.Workowski KA, Bachmann LH, Chan PA, et al.Sexually Transmitted Infections Treatment Guidelines, 2021.MMWR Recomm Rep.2021;70(4):1-187.Published 2021 Jul 23.doi:10.15585/mmwr.rr7004a1.Erratum: Vol.70, No. RR-4.MMWR Morb Mortal Wkly Rep.2023;72(4):107-108.Published 2023 Jan 27.doi:10.15585/mmwr.mm7204a5
+3.Hosenfeld CB, Workowski KA, Berman S, et al.Repeat infection with Chlamydia and gonorrhea among females: a systematic review of the literature.Sex Transm Dis.2009;36(8):478-489.doi:10.1097/OLQ.0b013e3181a2a933
+3.Hosenfeld CB, Workowski KA, Berman S, et al.Repeat infection with Chlamydia and gonorrhea among females: a systematic review of the literature.Sex Transm Dis.2009;36(8):478-489.doi:10.1097/OLQ.0b013e3181a2a933
+4.Bachmann LH, Barbee LA, Chan P, et al.CDC Clinical Guidelines on the Use ofDoxycyclinePostexposure Prophylaxis for Bacterial Sexually Transmitted Infection Prevention, United States, 2024.MMWR Recomm Rep.2024;73(2):1-8.Published 2024 Jun 6.doi:10.15585/mmwr.rr7302a1
+4.Bachmann LH, Barbee LA, Chan P, et al.CDC Clinical Guidelines on the Use ofDoxycyclinePostexposure Prophylaxis for Bacterial Sexually Transmitted Infection Prevention, United States, 2024.MMWR Recomm Rep.2024;73(2):1-8.Published 2024 Jun 6.doi:10.15585/mmwr.rr7302a1
+性传播衣原体感染可能影响尿道、宫颈、附件、喉咙或直肠。
+性传播衣原体感染可能影响尿道、宫颈、附件、喉咙或直肠。
+使用核酸扩增试验进行诊断。
+使用核酸扩增试验进行诊断。
+应检测是否合并其他性传播感染，包括淋病、梅毒及 HIV 感染。
+应检测是否合并其他性传播感染，包括淋病、梅毒及 HIV 感染。
+对高危的无症状患者进行衣原体感染筛查。
+对高危的无症状患者进行衣原体感染筛查。
+如果未排除淋病，应使用同时治疗淋病的抗生素方案。
+如果未排除淋病，应使用同时治疗淋病的抗生素方案。

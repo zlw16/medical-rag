@@ -1,0 +1,126 @@
+标题：少见的遗传性凝血功能障碍性疾病
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/coagulation-disorders/uncommon-hereditary-coagulation-disorders
+============================================================
+
+除了血友病，大多数遗传性凝血性疾病是罕见的常染色体隐性遗传病，仅可在隐性基因突变的纯合子中引起严重出血。罕见的遗传性凝血功能障碍可涉及凝血因子II，V，VII，X，XI和XIII。其中,XI因子的缺乏是最常见的 (1)。(参见于凝血功能障碍性疾病的概述。)
+在缺乏XI因子的患者中，血浆因子XI水平与出血严重程度没有明确的关联，这提示XI因子在正常止血过程中的分子作用尚不明确。因此，患者的出血史对于确定治疗方案至关重要。
+在其他罕见的凝血障碍（不包括血友病 A 和 B）中，正常止血通常需要缺陷因子的血浆水平超过正常值的约 20% (1) （见表遗传性凝血缺陷的实验室检查结果筛查和治疗）。
+
+【遗传性凝血功能障碍的实验室筛查结果和治疗*】
+遗传性凝血功能障碍的实验室筛查结果和治疗*
+缺乏的营养素
+筛查试验结果
+Ⅻ因子，高分子激肽原，或激肽释放酶原
+PTT延长
+PT正常
+实验检查异常，但临床无出血症状
+应使用特殊的检测方法与Ⅺ因子缺乏进行鉴别，后者在创伤后或围手术期可能引起出血。
+无需治疗
+PTT延长
+PT正常
+常染色体隐性遗传
+德系犹太人血统患者的发病率增加
+创伤后和围手术期
+诊断有赖于特异性因子分析
+治疗出血：重组人凝血因子VIIa或新鲜冰冻血浆，联合氨甲环酸或氨己酸抑制纤维蛋白溶解
+血浆XI因子半衰期= 50小时
+Ⅷ因子或Ⅸ因子
+PTT延长
+PT正常
+Ⅷ因子缺乏（血友病A）
+Ⅸ因子缺乏（血友病B）
+X连锁遗传
+男性患者发生轻度或重度出血取决于VIII因子或IX因子的水平
+治疗出血：因子置换
+血浆VIII因子半衰期= 8–12小时
+血浆IX因子半衰期= 18小时
+PTT正常
+PT延长
+常染色体隐性遗传，罕见
+诊断有赖于特异性因子分析
+治疗出血：重组活化的VII因子或血浆来源的VII因子浓缩液
+血浆VII因子半衰期= 4–6小时
+Ⅴ因子，X因子或凝血酶原
+PTT延长
+PT延长
+常染色体隐性遗传，罕见
+轻度至重度出血
+诊断有赖于特殊的检查
+治疗X因子或凝血酶原缺乏引起的出血：
+新鲜冰冻血浆
+新鲜冰冻血浆
+凝血酶原复合物浓缩物
+凝血酶原复合物浓缩物
+血浆来源的X因子浓缩物
+血浆来源的X因子浓缩物
+V因子缺乏所致出血的治疗：新鲜冷冻血浆，同时给予或不给予浓缩血小板（提供血小板V因子）
+X因子的血浆半衰期= 40–60小时
+凝血酶原的血浆半衰期= 60–72 小时
+V因子的血浆半衰期= 36小时
+纤维蛋白原
+在无纤维蛋白原血症中（纤维蛋白原<10mg/dL [< 0.1 g/L]），由于不能触发仪器显示的终点，PTT及PT检查示无凝血发生。
+低纤维蛋白原血症（纤维蛋白原为70~100mg/dL[0.7–1 g/L]），PTT和PT常延长数秒，凝血时间也延长
+常染色体隐性遗传，罕见
+无纤维蛋白原血症（纯合子）可有严重的出血
+低纤维蛋白原血症（杂合子）在创伤后和围手术期可有出血
+出血的治疗：
+冷沉淀（含纤维蛋白原，以及VWF-VIII因子复合物和XIII因子）
+冷沉淀（含纤维蛋白原，以及VWF-VIII因子复合物和XIII因子）
+新鲜冰冻血浆
+新鲜冰冻血浆
+血浆纤维蛋白原浓缩物
+血浆纤维蛋白原浓缩物
+纤维蛋白原的血浆半衰期= 2-4天
+异常纤维蛋白原血症
+PTT延长
+PT延长
+凝血时间延长
+常染色体显性，罕见†
+症状各异（无或轻微的外伤后及围术期出血，栓塞倾向，伤口裂开）
+在凝血试验中纤维蛋白原含量减低，但免疫学检查正常
+XⅢ因子
+PTT正常
+PT正常
+凝血时间正常
+血块可溶于5mol/L的尿素中
+常染色体隐性遗传，罕见
+伤口愈合不良
+自发流产
+出血的治疗：
+血浆来源的因子XIII浓缩物
+血浆来源的因子XIII浓缩物
+重组因子XIII A链
+重组因子XIII A链
+冷沉淀（含因子XIII）
+冷沉淀（含因子XIII）
+新鲜冰冻血浆
+新鲜冰冻血浆
+XIII因子的血浆半衰期= 9-12天
+Alpha2-抗纤溶酶
+PTT正常
+PT正常
+在5mol/L尿素或盐水中血块溶解加速
+常染色体隐性遗传，罕见‡
+纯合子患者可有出血严重
+杂合子在围手术期或创伤后可有出血
+确诊需要特殊检查
+治疗出血：使用氨基己酸或氨甲环酸抑制纤维蛋白溶解过度
+*Winter WE, Flax SD, Harris NS.Coagulation Testing in the Core Laboratory.Lab Med.2017;48(4):295-313.doi:10.1093/labmed/lmx050
+†Casini A, Moerloose P, Neerman-Arbez M.Clinical, Laboratory, and Molecular Aspects of Congenital Fibrinogen Disorders.Semin Thromb Hemost.2025;51(2):103-110.doi:10.1055/s-0044-1788898
+‡Carpenter SL, Mathew P.Alpha2-antiplasmin and its deficiency: fibrinolysis out of balance.Haemophilia.2008;14(6):1250-1254.doi:10.1111/j.1365-2516.2008.01766.x
+PT =凝血酶原时间;PTT =部分凝血活酶时间。
+*Winter WE, Flax SD, Harris NS.Coagulation Testing in the Core Laboratory.Lab Med.2017;48(4):295-313.doi:10.1093/labmed/lmx050
+†Casini A, Moerloose P, Neerman-Arbez M.Clinical, Laboratory, and Molecular Aspects of Congenital Fibrinogen Disorders.Semin Thromb Hemost.2025;51(2):103-110.doi:10.1055/s-0044-1788898
+‡Carpenter SL, Mathew P.Alpha2-antiplasmin and its deficiency: fibrinolysis out of balance.Haemophilia.2008;14(6):1250-1254.doi:10.1111/j.1365-2516.2008.01766.x
+PT =凝血酶原时间;PTT =部分凝血活酶时间。
+
+【XI因子缺乏】
+因子XI缺乏症在一般人群中并不常见，但在德系犹太人血统的患者中很常见(基因频率约为5%至9%)。纯合子或复合杂合子患者由于XI因子基因异常而出血，通常发生在创伤或手术后。血浆因子XI水平与出血严重程度之间没有确切的关系。白细胞黏附功能缺陷为常染色体隐性遗传。
+
+【alpha2-抗纤维蛋白溶解酶缺乏】
+生理性纤维蛋白溶解酶抑制剂，alpha2-抗纤溶酶严重缺乏时（正常水平的1%-3%），可因对纤溶酶介导的纤维蛋白溶解过程失调控而引起出血。白细胞黏附功能缺陷为常染色体隐性遗传。确诊有赖于特殊的针对alpha2-抗纤溶酶的检测。氨基己酸或止血环酸可通过阻碍纤溶酶原同纤维蛋白多聚体的结合从而预防或控制急性出血。
+α2-抗纤溶酶水平为正常值40%-60%的杂合子患者，如果继发性纤维蛋白溶解广泛（例如，在开放性前列腺切除术期间释放过量尿激酶型纤溶酶原激活剂的患者），偶尔会出现过多的手术出血。
+
+【参考文献】
+1.Menegatti M, Peyvandi F.Treatment of rare factor deficiencies other than hemophilia.Blood.2019;133(5):415-424.doi:10.1182/blood-2018-06-820738
+1.Menegatti M, Peyvandi F.Treatment of rare factor deficiencies other than hemophilia.Blood.2019;133(5):415-424.doi:10.1182/blood-2018-06-820738

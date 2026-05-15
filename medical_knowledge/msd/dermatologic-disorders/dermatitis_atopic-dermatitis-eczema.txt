@@ -1,0 +1,273 @@
+标题：特应性皮炎（湿疹）
+来源：https://www.msdmanuals.cn/professional/dermatologic-disorders/dermatitis/atopic-dermatitis-eczema
+============================================================
+
+（参见皮炎的定义。）
+
+【特应性皮炎的病因】
+特应性皮炎主要影响城市地区或高收入国家的儿童，在过去30年中发病率有所上升；高收入国家高达20%的儿童和10%的成年人受到影响 (1,2)。特应性皮炎通常在5岁前发病，最早可出现在3月龄阶段，但也可于成年晚期首次发作。一种未经证实的卫生假说认为，儿童早期接触感染源的减少（即，由于家中更严格的卫生习惯）可能导致对自身蛋白的自身免疫增加，并导致特应性疾病的发展（3）。
+许多患有特应性皮炎的患者或其家庭成员也有过敏性哮喘♦和/或立即型超敏反应，表现为过敏性季节性或常年性鼻结膜炎。特应性皮炎、过敏性鼻结膜炎和哮喘的三联征称为特应性或特应性素质。
+
+【病因参考文献】
+1.Kantor R, Thyssen JP, Paller AS, Silverberg JI.Atopic dermatitis, atopic eczema, or eczema?A systematic review, meta-analysis, and recommendation for uniform use of 'atopic dermatitis'.Allergy.2016 Oct;71(10):1480-5.doi: 10.1111/all.12982.Epub 2016 Aug 3.PMID: 27392131; PMCID: PMC5228598
+1.Kantor R, Thyssen JP, Paller AS, Silverberg JI.Atopic dermatitis, atopic eczema, or eczema?A systematic review, meta-analysis, and recommendation for uniform use of 'atopic dermatitis'.Allergy.2016 Oct;71(10):1480-5.doi: 10.1111/all.12982.Epub 2016 Aug 3.PMID: 27392131; PMCID: PMC5228598
+2.Silverberg JI, Hanifin JM.Adult eczema prevalence and associations with asthma and other health and demographic factors: a US population-based study.J Allergy Clin Immunol.2013;132(5):1132-1138.doi:10.1016/j.jaci.2013.08.031
+2.Silverberg JI, Hanifin JM.Adult eczema prevalence and associations with asthma and other health and demographic factors: a US population-based study.J Allergy Clin Immunol.2013;132(5):1132-1138.doi:10.1016/j.jaci.2013.08.031
+3.Chatenoud L, Bertuccio P, Turati F, et al.Markers of microbial exposure lower the incidence of atopic dermatitis.Allergy.2020;75(1):104-115.doi:10.1111/all.13990
+3.Chatenoud L, Bertuccio P, Turati F, et al.Markers of microbial exposure lower the incidence of atopic dermatitis.Allergy.2020;75(1):104-115.doi:10.1111/all.13990
+
+【特应性皮炎的病理生理学】
+以下因素会导致特应性皮炎的发生：
+基因因素
+基因因素
+表皮屏障功能障碍
+表皮屏障功能障碍
+免疫机制
+免疫机制
+环境诱因
+环境诱因
+与特应性皮炎相关的基因是那些编码表皮蛋白和免疫蛋白的基因。在许多患者中，特应性皮炎的一个主要易感因素是编码丝聚蛋白的基因中的功能丧失突变（1）。聚丝蛋白是角质形成细胞分化产生的角质细胞包膜的一种成分，对于建立角质层的吸湿屏障（也称为天然保湿因子）至关重要。大约 10% 的欧洲人口是功能丧失的丝聚蛋白突变的杂合子携带者。这些突变（以及基因内复制突变）的存在增加了更严重的特应性皮炎和更高的IgE水平的风险。即使没有特应性皮炎，聚丝蛋白突变也与花生过敏和哮喘有关。
+这些分子见解提供了对特应性皮炎以及皮肤炎症（一种T细胞介导的延迟型超敏反应）如何与立即型超敏反应（如哮喘和过敏性鼻炎（花粉热））相关的理解。由于丝聚蛋白突变导致的表皮皮肤屏障缺陷解释了干燥症的发展和皮肤刺激的倾向，表现为特应性皮炎。这导致特应性皮炎的表现，这不是一种过敏反应。相比之下，皮肤炎症是一种 T 细胞介导的迟发型超敏反应，包括皮肤中的 Th2 主导成分。这种超敏反应下调了抗微生物肽（如β-防御素），这解释了为什么特应性皮炎患者易患细菌和病毒性皮肤感染。皮肤刺激物和过敏原的渗透增加也会导致 Th2 主导的炎症，这也会推动 IgE 的产生并易导致即时型超敏反应。 然而，由于介导特应性皮炎的主要机制是延迟的细胞介导的免疫，避免立即型过敏原（如花粉、尘螨）通常不会改善特应性皮炎。 尽管立即型超敏反应（例如，哮喘、过敏性鼻炎）由皮肤屏障缺陷引起，但它们不会引起特应性皮炎的 T 细胞介导的皮肤炎症。
+在具有特应性素质的患者中，特应性皮炎通常先于过敏性鼻结膜炎和哮喘。有时，这个序列被称为“特应性进程”，这是因为皮肤屏障缺陷是特应性病症的主要缺陷 (2)。
+
+【病理生理学参考文献】
+1.Brown SJ, McLean WH.One remarkable molecule: Filaggrin.J Invest Dermatol.132(3 Pt 2):751–762, 2012. doi: 10.1038/jid.2011.393
+1.Brown SJ, McLean WH.One remarkable molecule: Filaggrin.J Invest Dermatol.132(3 Pt 2):751–762, 2012. doi: 10.1038/jid.2011.393
+2.Chu DK, Koplin JJ, Ahmed T, Islam N, Chang CL, Lowe AJ.How to Prevent Atopic Dermatitis (Eczema) in 2024: Theory and Evidence.J Allergy Clin Immunol Pract.2024;12(7):1695-1704.doi:10.1016/j.jaip.2024.04.048
+2.Chu DK, Koplin JJ, Ahmed T, Islam N, Chang CL, Lowe AJ.How to Prevent Atopic Dermatitis (Eczema) in 2024: Theory and Evidence.J Allergy Clin Immunol Pract.2024;12(7):1695-1704.doi:10.1016/j.jaip.2024.04.048
+
+【特应性皮炎的症状和体征】
+特应性皮炎通常发生于婴儿期，早在3个月大时即可发生。
+在里面急性期，病变是剧烈瘙痒、红色、增厚、鳞片状斑块或斑块，可能因抓挠而被侵蚀。
+慢性期，搔抓和摩擦造成皮肤损害，表现为干燥和苔藓样变。
+病变分布随年龄有特征性表现。婴儿中，病变特征性地分布于面部、头皮、颈部、眼睑和四肢伸肌表面。 年龄较大的儿童和成人中，病损分布于屈曲部位表面，如颈部、肘前窝和腘窝。
+强烈瘙痒是一个关键特征。瘙痒通常先于病变，并随着干燥空气、出汗、局部刺激、穿羊毛衣服和情绪紧张而恶化。
+症状的常见环境诱因包括
+过度沐浴或洗涤
+过度沐浴或洗涤
+刺激性肥皂
+刺激性肥皂
+Staphylococcus aureus皮肤定植
+Staphylococcus aureus皮肤定植
+粗布和羊毛
+粗布和羊毛
+特应性皮炎患者常伴有其他特应性皮肤表现。这些症状可能包括干燥症、鱼鳞病/掌线过度（手掌上的皮肤线条更突出）、毛发角化病、眶下皮肤褶皱（丹尼-摩根褶皱）、侧眉变薄（赫托赫征）、羊毛不耐受（皮肤接触羊毛引发刺激和瘙痒）、白色皮肤划痕症（血管收缩，因抓挠导致皮肤变白）和经皮水分流失增加（在未受影响的皮肤和受影响的皮肤中）。
+这3张照片显示了肘前窝（左）、手腕（中）及踝前区（右）的红斑、脱屑和轻度皮肤增厚。
+这3张照片显示了肘前窝（左）、手腕（中）及踝前区（右）的红斑、脱屑和轻度皮肤增厚。
+Photos courtesy of Thomas Ruenger, MD, PhD.
+这2张照片显示了肘前窝（左）和腘窝（右）的红斑、脱屑及苔藓样变。深色皮肤患者中，皮炎的红斑常相对不明显，有时因皮肤色素沉着完全被掩盖。
+这2张照片显示了肘前窝（左）和腘窝（右）的红斑、脱屑及苔藓样变。深色皮肤患者中，皮炎的红斑常相对不明显，有时因皮肤色素沉着完全被掩盖。
+Photos courtesy of Thomas Ruenger, MD, PhD.
+特应性皮炎常见于婴儿期。急性期面部发生红色渗出结痂性皮疹，继而蔓延至颈部、头皮、四肢及腹部。
+特应性皮炎常见于婴儿期。急性期面部发生红色渗出结痂性皮疹，继而蔓延至颈部、头皮、四肢及腹部。
+Image provided by Thomas Habif, MD.
+苔藓样变指皮肤增厚，正常皮纹加深，这是长期搔抓的结果，发生在患者特应性皮炎的慢性阶段。
+苔藓样变指皮肤增厚，正常皮纹加深，这是长期搔抓的结果，发生在患者特应性皮炎的慢性阶段。
+图片由医学博士Thomas Habif提供。
+这张照片显示长期抓挠引起的慢性特应性皮炎继发广泛的苔藓样变和色素沉着。
+这张照片显示长期抓挠引起的慢性特应性皮炎继发广泛的苔藓样变和色素沉着。
+Photo courtesy of Karen McKoy, MD.
+这3张照片显示了肘前窝（左）、手腕（中）及踝前区（右）的红斑、脱屑和轻度皮肤增厚。
+这3张照片显示了肘前窝（左）、手腕（中）及踝前区（右）的红斑、脱屑和轻度皮肤增厚。
+Photos courtesy of Thomas Ruenger, MD, PhD.
+这2张照片显示了肘前窝（左）和腘窝（右）的红斑、脱屑及苔藓样变。深色皮肤患者中，皮炎的红斑常相对不明显，有时因皮肤色素沉着完全被掩盖。
+这2张照片显示了肘前窝（左）和腘窝（右）的红斑、脱屑及苔藓样变。深色皮肤患者中，皮炎的红斑常相对不明显，有时因皮肤色素沉着完全被掩盖。
+Photos courtesy of Thomas Ruenger, MD, PhD.
+特应性皮炎常见于婴儿期。急性期面部发生红色渗出结痂性皮疹，继而蔓延至颈部、头皮、四肢及腹部。
+特应性皮炎常见于婴儿期。急性期面部发生红色渗出结痂性皮疹，继而蔓延至颈部、头皮、四肢及腹部。
+Image provided by Thomas Habif, MD.
+苔藓样变指皮肤增厚，正常皮纹加深，这是长期搔抓的结果，发生在患者特应性皮炎的慢性阶段。
+苔藓样变指皮肤增厚，正常皮纹加深，这是长期搔抓的结果，发生在患者特应性皮炎的慢性阶段。
+图片由医学博士Thomas Habif提供。
+这张照片显示长期抓挠引起的慢性特应性皮炎继发广泛的苔藓样变和色素沉着。
+这张照片显示长期抓挠引起的慢性特应性皮炎继发广泛的苔藓样变和色素沉着。
+Photo courtesy of Karen McKoy, MD.
+
+【特应性皮炎的并发症】
+继发细菌感染较为常见，尤其常见为金黄色葡萄球菌和链球菌感染（如脓疱病、蜂窝组织炎)。
+红皮病（覆盖超过 70% 体表面积的红斑）很少见，但在特应性皮炎严重时可能会导致。
+在该患者中，急性皮炎病变并发继发感染（重复感染）金黄色葡萄球菌（鼓吹）。
+如图所示，在红斑性基底上可见渗出性病变伴黄白色结痂形成。
+Photo courtesy of Thomas Ruenger, MD, PhD.
+疱疹性湿疹是由单纯疱疹病毒 (HSV) 引起的皮肤感染，其扩散范围和程度比特应性患者中的HSV皮肤感染更广泛。疱疹性湿疹通常是特应性皮炎患者首次发生的HSV感染，但也可能由复发感染引起。在活动性皮炎以及新近发生的皮炎皮损上出现了典型的集簇性水疱，有时正常皮肤也可以被累及，几天后发生高热与腺病。皮损易感染葡萄球菌，偶尔也会发生病毒血症以及内脏器官感染，这可能导致死亡。如同其他的疱疹病毒感染，本病也可能反复发作。牛痘湿疹是由天花疫苗接种引起的类似并发症，其中牛痘病毒会传播并可能危及生命。因此，特应性患者不应接种天花疫苗。
+这张照片显示了一名特应性皮炎患者的弥漫性单纯疱疹感染，并伴有成群的水疱。
+特应性患者也容易感染其他病毒性皮肤感染（例如，寻常疣,传染性软疣）。
+特应性皮炎患者也有较高的过敏性接触反应风险。例如，对镍（最常见的接触过敏原）的接触过敏是非特应性患者的两倍。 频繁使用外用产品会使患者暴露于许多潜在的过敏原，由这些产品引起的过敏性接触性皮炎可能会使特应性皮炎的管理复杂化。
+
+【特应性皮炎的诊断】
+临床评估
+临床评估
+特应性皮炎的诊断是基于临床的 (1)。病史（例如个人或家族哮喘史/变应性鼻结膜炎病史）具有重要参考价值。请参阅表特应性皮炎的诊断性临床特征，了解临床相关的诊断特征。
+特应性皮炎有时很难与其他皮肤病区分开来。特应性皮炎的诊断依赖于排除其他疾病，包括：
+脂溢性皮炎
+脂溢性皮炎
+接触性皮炎（刺激性或过敏性）
+接触性皮炎（刺激性或过敏性）
+钱币状皮炎（非特应性）
+钱币状皮炎（非特应性）
+皮肤T细胞淋巴瘤
+皮肤T细胞淋巴瘤
+光敏性皮肤病
+光敏性皮肤病
+免疫缺陷病
+免疫缺陷病
+其他原因引起的红皮病
+其他原因引起的红皮病
+特应性体质患者的个人史和/或家族史以及皮损分布特征有助于特应性皮炎的诊断。以下分布模式也有助于鉴别：
+银屑病通常很容易通过其界限清楚、厚实、红斑和鳞状斑块来识别。它通常是伸侧的而不是弯曲的，并且可能包括在特应性皮炎中不常见的典型指甲表现（例如油斑、甲坑）。
+银屑病通常很容易通过其界限清楚、厚实、红斑和鳞状斑块来识别。它通常是伸侧的而不是弯曲的，并且可能包括在特应性皮炎中不常见的典型指甲表现（例如油斑、甲坑）。
+脂溢性皮炎最常影响面部（例如，鼻唇沟、眉毛、眉间区域、头皮）。
+脂溢性皮炎最常影响面部（例如，鼻唇沟、眉毛、眉间区域、头皮）。
+钱币状皮炎不发生于屈侧，苔藓化也很少见。（但是，硬币形、钱币状斑块可出现在特应性皮炎 [钱币型特应性皮炎] 中。）
+钱币状皮炎不发生于屈侧，苔藓化也很少见。（但是，硬币形、钱币状斑块可出现在特应性皮炎 [钱币型特应性皮炎] 中。）
+由特应性皮炎引起的红皮病很难与由其他皮肤病引起的红皮病区分开来。
+
+【经验与提示】
+经验与提示
+特应性皮炎的特征包括病损的曲侧分布和个人或家庭过敏性鼻结膜炎和哮喘史。
+特应性皮炎的特征包括病损的曲侧分布和个人或家庭过敏性鼻结膜炎和哮喘史。
+
+【特应性皮炎的临床诊断特征*】
+特应性皮炎的临床诊断特征*
+基本特征
+皮炎（湿疹）----急性、亚急性或慢性，有
+典型的年龄特异性分布模式†
+典型的年龄特异性分布模式†
+慢性或复发病史
+慢性或复发病史
+重要特征
+幼年发病
+个人或家族异位性病史
+IgE反应性
+相关特征（有助于提示诊断）
+白色皮肤划痕征
+毛周角化
+白色糠疹
+手掌纹路增多
+面色苍白
+眶周变化
+毛囊周围凸显
+苔藓样变
+痒疹病变
+延迟漂白反应
+某些区域改变（如，口周变化、耳周变化）
+* Derived from:Guidelines of care for the management of atopic dermatitis: Section 1. Diagnosis and assessment of atopic dermatitis.J Am Acad Dermatol.70(2):338–351, 2014.doi: 10.1016/j.jaad.2013.10.010.
+†典型的皮损形态及分布：婴儿和儿童面部及伸侧湿疹，成人屈侧湿疹
+* Derived from:Guidelines of care for the management of atopic dermatitis: Section 1. Diagnosis and assessment of atopic dermatitis.J Am Acad Dermatol.70(2):338–351, 2014.doi: 10.1016/j.jaad.2013.10.010.
+†典型的皮损形态及分布：婴儿和儿童面部及伸侧湿疹，成人屈侧湿疹
+特应性皮炎没有明确的实验室检查。 然而，I 型过敏检测（点刺试验、划痕试验、皮内试验，或检测过敏原特异性免疫球蛋白E水平和总免疫球蛋白E水平）有助于确认特应性体质。S. aureus（金黄色葡萄球菌）的培养不常规进行，但当怀疑脓疱疮化时（如出现黄色痂皮），可帮助确定对全身抗菌药物的敏感性。
+
+【诊断参考文献】
+1.Eichenfield LF, Tom WL, Chamlin SL, et al.Guidelines of care for the management of atopic dermatitis: Section 1.Diagnosis and assessment of atopic dermatitis.J Am Acad Dermatol.70(2):338–351, 2014.doi: 10.1016/j.jaad.2013.10.010
+1.Eichenfield LF, Tom WL, Chamlin SL, et al.Guidelines of care for the management of atopic dermatitis: Section 1.Diagnosis and assessment of atopic dermatitis.J Am Acad Dermatol.70(2):338–351, 2014.doi: 10.1016/j.jaad.2013.10.010
+
+【特应性皮炎的治疗】
+支持性护理（包括适当的皮肤护理咨询和避免诱发因素）
+支持性护理（包括适当的皮肤护理咨询和避免诱发因素）
+局部糖皮质激素外用
+局部糖皮质激素外用
+局部钙调神经磷酸酶抑制剂
+局部钙调神经磷酸酶抑制剂
+外用crisaborole
+外用crisaborole
+局部Janus激酶（JAK）抑制剂（例如鲁索替尼）
+局部Janus激酶（JAK）抑制剂（例如鲁索替尼）
+光疗，特别是窄带紫外线 B
+光疗，特别是窄带紫外线 B
+针对中重度疾病的全身性免疫抑制剂
+针对中重度疾病的全身性免疫抑制剂
+治疗双重感染
+治疗双重感染
+当解决潜在的病理生理过程时，治疗特应性皮炎是最有效的。
+咨询适当的皮肤护理和避免触发因素有助于患者解决潜在的皮肤屏障缺陷。抓挠病灶通常会加剧瘙痒，从而导致更多抓挠。打破这种痒痒的循环很重要。
+炎症发作可以通过局部免疫抑制剂、光疗，以及必要时全身免疫抑制剂来控制（1，2，3，4，5，6）。
+几乎所有特应性皮炎患者都可以门诊治疗，但重度重复感染或红皮病患者可能需要住院治疗。
+
+【支持疗法】
+一般皮肤护理应侧重于最常见的皮肤刺激来源——过度洗涤和刺激性肥皂：
+限制洗涤和沐浴的频率和时间（淋浴或盆浴应限制为每天一次；可以采用擦浴来减少全身沐浴的天数）
+限制洗涤和沐浴的频率和时间（淋浴或盆浴应限制为每天一次；可以采用擦浴来减少全身沐浴的天数）
+将洗澡水的温度限制在微温
+将洗澡水的温度限制在微温
+避免过度摩擦；淋浴/沐浴后应轻拍皮肤使其干燥
+避免过度摩擦；淋浴/沐浴后应轻拍皮肤使其干燥
+涂抹保湿霜（软膏或乳霜——含神经酰胺的产品特别有用）
+涂抹保湿霜（软膏或乳霜——含神经酰胺的产品特别有用）
+对于皮肤重复感染（例如出现黄色结痂提示脓疱疮时），可采用稀释漂白剂浸浴（例如将60毫升[¼杯]家用漂白液[6%浓度]加入76升[20加仑]温水中）
+对于皮肤重复感染（例如出现黄色结痂提示脓疱疮时），可采用稀释漂白剂浸浴（例如将60毫升[¼杯]家用漂白液[6%浓度]加入76升[20加仑]温水中）
+口服抗组胺药可以通过镇静作用帮助减轻瘙痒。可选药物包括羟嗪和苯海拉明，最好在睡前使用以避免日间镇静作用。低镇静或非镇静抗组胺药，如氯雷他定、非索非那定或西替利嗪可能具有一定疗效，但其有效性尚未得到明确证实。多塞平（一种具有 H1 和 H2 受体阻断活性的三环类抗抑郁药）也可能有效，但不建议用于<12岁以下的儿童。
+减少情绪压力是有用的，有助于打破瘙痒-抓挠的循环。 压力会影响家人（例如，被哭泣的婴儿保持清醒）以及患者（例如，由于瘙痒而无法入睡）。
+通常不需要调整饮食，因为食物过敏很少引起特应性皮炎。旨在消除接触过敏食物的饮食限制不仅无效，而且可能会不必要地增加压力。
+患者的指甲应剪短，以尽可能减少表皮剥脱及继发感染。
+
+【局部糖皮质激素】
+局部皮质类固醇激素是主要的治疗手段。
+对于大多数轻中度患者，每日2次外用乳膏或软膏有效。低效价至中效价皮质类固醇通常可控制皮肤炎症，但对于慢性炎症性苔藓样皮损需采用高效价皮质类固醇治疗。局部外用皮质类固醇的皮肤不良反应包括皮肤萎缩、膨胀纹及皮肤感染。不良反应各不相同，取决于糖皮质激素的效力、使用时长以及用药部位。 应避免长期、广泛使用高效皮质类固醇，尤其是在婴儿中，以避免肾上腺抑制。 一旦皮肤炎症得到控制，糖皮质激素就应该停止使用，不应该用来防止复发。
+全身皮质类固醇可提供紧急缓解，但应避免长期使用，因为其多重不良反应。因为当全身性皮质类固醇停止时特应性皮炎往往会发作，所以通常需要其他治疗来控制全身性皮质类固醇的逐渐减少和停用。
+
+【局部钙调神经磷酸酶抑制剂】
+外用他克莫司和吡美莫司是钙调神经磷酸酶抑制剂。  它们是 T 细胞抑制剂，可用于轻度至中度特应性皮炎或当皮质类固醇副作用令人担忧时。
+他克莫司软膏或吡美莫司乳膏每天两次。
+涂抹后的灼痛或刺痛感通常是一过性的，几天后会减轻。冲洗较少使用。
+
+【外用crisaborole】
+Crisaborole是一种局部磷酸二酯酶-4抑制剂。2%Crisaborole软膏可用于2岁或2岁以上患者的轻度至中度特应性皮炎。
+每天两次将Crisaborole涂于湿疹部位。不能用于黏膜。
+使用后灼痛或刺痛是最常见的不良反应。
+
+【局部的鲁索替尼】
+鲁索利替尼是一种Janus激酶（JAK）抑制剂。1.5%鲁索利替尼乳膏可用于12岁及以上免疫功能正常的患者，用于短期且非连续治疗轻至中度特应性皮炎，这些患者的病情未能通过其他局部处方疗法得到充分控制，或这些疗法不适用。
+卢佐替尼以薄层的形式每天施用2次，直至达到体表面积的20%，持续长达8周。
+光疗 使用窄带紫外线 B (UVB) 对广泛的特应性皮炎有帮助，特别是当适当的皮肤护理和局部治疗无法控制炎症时。由于窄带UVB比以前使用的宽带UVB更有效，补骨脂素加UVA （PUVA）治疗很少使用。虽然目前尚未证实窄谱UVB光疗会增加皮肤癌风险，但其潜在风险仍值得关注，尤其是儿童患者或长期治疗的情况下。在适当的皮肤护理和局部治疗失败后，需要权衡这种风险与其他全身治疗的风险。
+如果门诊光疗不可用或太不方便，家庭光疗是一个不错的选择。一些家用光疗设备具有可编程功能，允许专家监测和监督患者对设备的使用。
+当光疗不可用时，自然阳光照射是一种替代方法。
+
+【全身性免疫抑制剂】
+全身免疫抑制剂， 如环孢素、霉酚酸酯、甲氨蝶呤和硫唑嘌呤，抑制 T 细胞功能。这些药物适用于广泛的，顽固的或致残性的特应性皮炎，且局部治疗和光疗不能缓解这些AD。它们的使用必须与不利影响的风险相平衡，尤其是长期使用。
+对局部治疗无效的中重度特应性皮炎，一线治疗选择生物制剂度普利尤单抗或曲罗芦单抗。
+度普利尤单抗是一种完全人源的单克隆IgG4抗体，可阻断特应性皮炎中促炎Th2细胞因子IL-4和IL-13的信号传导。它可用于治疗6岁或以上患者的中度至重度特应性皮炎，并推荐用于其他治疗方法无法充分控制疾病的患者。
+度普利尤单抗以皮下注射方式给药，方案包含负荷剂量后按周期（每周或双周）给药。最常见的不良反应包括注射部位反应、眼部炎症与刺激（如结膜炎、睑缘炎、角膜炎、瘙痒和干眼）、单纯疱疹病毒感染以及嗜酸细胞增多。
+曲隆单抗是一种针对白介素13受体α1和α2的全人源单克隆抗体。它可用于治疗局部治疗无法充分控制疾病的成人中重度特应性皮炎。
+Tralokinumab-ldrm 同样采用皮下注射给药。最常见的不良反应是上呼吸道感染、结膜炎、注射部位反应和嗜酸性粒细胞增多。
+口服JAK抑制剂（乌帕替尼、阿布昔替尼、巴瑞替尼）是最新的系统性免疫抑制剂，也可用于12岁及以上中重度特应性皮炎且其他系统性药物（包括生物制剂）控制不佳的患者。风险包括严重感染、癌症、心血管事件、血栓形成和死亡。
+
+【治疗双重感染】
+抗葡萄球菌抗生素，外用（如莫匹罗星、夫西地酸）和口服均用于治疗细菌性皮肤重复感染，例如脓疱疮,毛囊炎， 或者疖病。金黄色葡萄球菌是引起特应性皮炎患者皮肤感染的最常见细菌，通常对甲氧西林具有耐药性（耐甲氧西林金黄色葡萄球菌[MRSA]）。
+强力霉素或甲氧苄啶/磺胺甲恶唑是全身抗生素的良好初始选择，因为 MRSA 通常对这些抗生素最敏感。然而，由于无法预测耐药性，建议在开始全身使用抗生素之前进行细菌培养和耐药性测试。
+鼻部携带者推荐使用鼻用莫匹罗星金黄色葡萄球菌, 一个潜在的复发性脓疱的来源。频繁发生重复感染的患者需考虑筛查金黄色葡萄球菌定植（如鼻腔）。
+疱疹性湿疹治疗主要依靠全身性抗病毒药物(如阿昔洛韦、伐昔洛韦）。眼部受累被认为是眼科急症。如果怀疑眼部受累，应进行眼科会诊。
+
+【治疗参考文献】
+1.Davis DMR, Drucker AM, Alikhan A, et al.Guidelines of care for the management of atopic dermatitis in adults with phototherapy and systemic therapies.J Am Acad Dermatol.2024;90(2):e43-e56.doi:10.1016/j.jaad.2023.08.102
+1.Davis DMR, Drucker AM, Alikhan A, et al.Guidelines of care for the management of atopic dermatitis in adults with phototherapy and systemic therapies.J Am Acad Dermatol.2024;90(2):e43-e56.doi:10.1016/j.jaad.2023.08.102
+2.Sidbury R, Alikhan A, Bercovitch L, et al.Executive summary: American Academy of Dermatology guidelines of care for the management of atopic dermatitis in adults with topical therapies.J Am Acad Dermatol.2023;89(1):128-129.doi:10.1016/j.jaad.2022.08.068
+2.Sidbury R, Alikhan A, Bercovitch L, et al.Executive summary: American Academy of Dermatology guidelines of care for the management of atopic dermatitis in adults with topical therapies.J Am Acad Dermatol.2023;89(1):128-129.doi:10.1016/j.jaad.2022.08.068
+3.AAAAI/ACAAI JTF Atopic Dermatitis Guideline Panel, Chu DK, Schneider L, et al.Atopic dermatitis (eczema) guidelines: 2023 American Academy of Allergy, Asthma and Immunology/American College of Allergy, Asthma and Immunology Joint Task Force on Practice Parameters GRADE- and Institute of Medicine-based recommendations.Ann Allergy Asthma Immunol.2024;132(3):274-312.doi:10.1016/j.anai.2023.11.009
+3.AAAAI/ACAAI JTF Atopic Dermatitis Guideline Panel, Chu DK, Schneider L, et al.Atopic dermatitis (eczema) guidelines: 2023 American Academy of Allergy, Asthma and Immunology/American College of Allergy, Asthma and Immunology Joint Task Force on Practice Parameters GRADE- and Institute of Medicine-based recommendations.Ann Allergy Asthma Immunol.2024;132(3):274-312.doi:10.1016/j.anai.2023.11.009
+4.Chu AWL, Wong MM, Rayner DG, et al.Systemic treatments for atopic dermatitis (eczema): Systematic review and network meta-analysis of randomized trials.J Allergy Clin Immunol.2023;152(6):1470-1492.doi:10.1016/j.jaci.2023.08.029
+4.Chu AWL, Wong MM, Rayner DG, et al.Systemic treatments for atopic dermatitis (eczema): Systematic review and network meta-analysis of randomized trials.J Allergy Clin Immunol.2023;152(6):1470-1492.doi:10.1016/j.jaci.2023.08.029
+5.Sidbury R, Alikhan A, Bercovitch L, et al.Guidelines of care for the management of atopic dermatitis in adults with topical therapies.J Am Acad Dermatol.2023;89(1):e1-e20.doi:10.1016/j.jaad.2022.12.029
+5.Sidbury R, Alikhan A, Bercovitch L, et al.Guidelines of care for the management of atopic dermatitis in adults with topical therapies.J Am Acad Dermatol.2023;89(1):e1-e20.doi:10.1016/j.jaad.2022.12.029
+6.Davis DMR, Drucker AM, Alikhan A, et al.Guidelines of care for the management of atopic dermatitis in adults with phototherapy and systemic therapies.J Am Acad Dermatol.2024;90(2):e43-e56.doi:10.1016/j.jaad.2023.08.102
+6.Davis DMR, Drucker AM, Alikhan A, et al.Guidelines of care for the management of atopic dermatitis in adults with phototherapy and systemic therapies.J Am Acad Dermatol.2024;90(2):e43-e56.doi:10.1016/j.jaad.2023.08.102
+
+【特应性皮炎的预后】
+儿童特应性皮炎常在5岁时缓解，但在整个青春期到成年期常加重。
+女孩和病情严重、幼年发病、有家族史及相关的变应性鼻炎或哮喘患者，病程可能更长。即使是这些患者，特应性皮炎到了成年期也常会消退或明显缓解。
+由于儿童在其成长期患有看得见的、有时可致残的皮肤疾病，AD患者可能有长期的心理后遗症。
+特应性皮炎是一种常见疾病，尤其是在发达国家，高达20%的儿童和10%的成人患有此病。
+特应性皮炎是一种常见疾病，尤其是在发达国家，高达20%的儿童和10%的成人患有此病。
+基因决定的皮肤屏障缺陷容易引起皮肤刺激物的炎症，从而导致特应性皮炎。
+基因决定的皮肤屏障缺陷容易引起皮肤刺激物的炎症，从而导致特应性皮炎。
+常见的诱因包括过度洗涤和洗澡。
+常见的诱因包括过度洗涤和洗澡。
+常见的症状表现随年龄而异，包括发生在肘前、腘窝、眼睑、颈部及手腕部的瘙痒、鳞片状红斑、斑丘疹及苔藓样硬化。
+常见的症状表现随年龄而异，包括发生在肘前、腘窝、眼睑、颈部及手腕部的瘙痒、鳞片状红斑、斑丘疹及苔藓样硬化。
+二重感染（特别是S. aureus感染和疱疹性湿疹）是常见的。
+二重感染（特别是S. aureus感染和疱疹性湿疹）是常见的。
+特应性皮炎通常在成年后消退或显着减轻。
+特应性皮炎通常在成年后消退或显着减轻。
+一线治疗药物有保湿剂、局部用糖皮质激素、抗组胺药（治疗瘙痒）。
+一线治疗药物有保湿剂、局部用糖皮质激素、抗组胺药（治疗瘙痒）。
+对于局部治疗无反应的疾病，考虑光疗或全身免疫抑制剂。
+对于局部治疗无反应的疾病，考虑光疗或全身免疫抑制剂。

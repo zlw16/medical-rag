@@ -1,0 +1,94 @@
+标题：肾血管性高血压
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/hypertension/renovascular-hypertension
+============================================================
+
+(参见高血压。）
+肾血管疾病是可逆性高血压的最常见原因之一，但只占全部高血压的<1%(1)。一侧肾动脉主干或副肾动脉，或其分支的狭窄或阻塞，可刺激病变肾脏的球旁细胞释放肾素，从而引起高血压。动脉管腔面积必须减少≥70%，且必须存在显著的狭窄后压差，狭窄才可能导致血压（BP）升高。
+总体来说，大约80%的肾动脉狭窄病例由肾动脉粥样硬化引起，20%由纤维肌性发育不良引起。动脉粥样硬化在年龄>50岁的男性病人更常见，主要累及肾动脉的近端1/3。纤维肌性发育不良在年轻患者（通常是女性）中更常见，通常累及肾动脉主干远端2/3和肾动脉分支。较少见的原因包括栓塞、创伤、手术中误结扎和肿瘤对肾蒂的外部压迫。
+肾血管性高血压的特点是心排血量和周围血管阻力都增高。
+
+【参考文献】
+1.Dworkin LD, Cooper CJ.Clinical practice.Renal-artery stenosis.N Engl J Med.2009;361(20):1972-1978.doi:10.1056/NEJMcp0809200
+1.Dworkin LD, Cooper CJ.Clinical practice.Renal-artery stenosis.N Engl J Med.2009;361(20):1972-1978.doi:10.1056/NEJMcp0809200
+
+【肾血管性高血压的症状和体征】
+肾血管性高血压通常无症状。上腹部的收缩-舒张期杂音，通常向一侧或两侧上腹部传导，有时向背部传导，几乎是肾动脉狭窄的特征性表现，但仅约有50%的纤维肌性发育不良的病人出现杂音，而在肾动脉粥样硬化的病人则罕见。
+Renovascular hypertension should be suspectedif:
+舒张压骤升型高血压
+舒张压骤升型高血压
+新发的或以前稳定的高血压在6个月内迅速恶化
+新发的或以前稳定的高血压在6个月内迅速恶化
+高血压最初很严重（例如，收缩压> 180 mm Hg）
+高血压最初很严重（例如，收缩压> 180 mm Hg）
+肾功能不明原因恶化
+肾功能不明原因恶化
+高血压对药物有抵抗力
+高血压对药物有抵抗力
+病史中有背部或胁腹部外伤，或上述部位急性疼痛伴或不伴血尿提示肾血管性高血压（可能是由于肾血管损伤），但是这种病史罕有见到。
+影像学检查偶然发现肾脏大小不对称（差距> 1 cm）和反复不明原因的急性肺水肿或心力衰竭，也提示有肾血管性高血压。
+
+【肾血管性高血压的诊断】
+通过超声检查、磁共振血管造影或 CT 血管造影进行初步识别
+通过超声检查、磁共振血管造影或 CT 血管造影进行初步识别
+确立诊断应用肾血管造影（也可用于治疗）
+确立诊断应用肾血管造影（也可用于治疗）
+如果怀疑肾血管性高血压，超声检查、磁共振血管造影或CT血管造影是合理的非侵入性初始检查方法。由于狭窄病变的位置（通常涉及肾动脉的肾内部分），无创检测对于检测纤维肌性发育不良不太可靠。
+肾血管造影是确定性检查，当无创检查不确定且临床怀疑度很高时，可以进行肾血管造影。
+双功能多普勒超声可评估肾血流，是识别肾动脉主干显著狭窄（如>60%）的可靠无创方法。当有经验的技术人员进行测试时，灵敏度和特异性为85 - 90%(1)。但对于分支狭窄的患者，其准确性较差。
+磁共振血管造影是一种更准确、更特异的无创测试，用于评估肾动脉（2）。然而，对钆相关并发症（包括肾源性系统性纤维化）的担忧限制了其使用，特别是在肾功能不全患者中。
+磁共振血管造影显示左主肾动脉起点处严重狭窄。
+Image provided by Jan N.Basile, MD.
+CT血管造影是另一种无创检查方法，其敏感性和特异性约为95%（3）。其使用还受到肾功能不全患者暴露于放射造影剂的限制。
+如果无创成像方法显示病变适合血管成形术或支架置入术，或者其他筛查检查结果不确定，则进行肾血管造影。选择性肾动脉注射对比剂的数字减影血管造影也能明确诊断，但在同一操作中不能同时进行血管成形术或支架置入。
+放射性核素成像很少用于诊断目的，偶尔用作功能测试来比较两个肾脏之间的血流和过滤。在口服卡托普利之前和之后进行成像。这种血管紧张素转换酶（ACE）抑制剂引起受影响的肾动脉狭窄，导致闪烁扫描时灌注降低。狭窄还会导致血清肾素升高，在卡托普利给药前后测量血清肾素。对于肾功能下降的患者，该测试的可靠性可能较低。
+左图显示数字减影血管造影显示左主肾动脉起点处 90% 的狭窄。右图显示了支架置入后狭窄的完全解决。
+Image provided by Jan N.Basile, MD.
+肾静脉肾素活性测定有时可导致错误判断，如果不考虑手术，则不需进行测定。然而，在单侧肾动脉狭窄时，肾静脉肾素活性比值>1.5（病变侧与非病变侧之比）通常预示血运重建会有良好的效果。这项检查需在病人缺钠时进行，因为缺钠刺激肾素的释放。
+
+【诊断参考】
+1.Williams GJ, Macaskill P, Chan SF, et al.Comparative accuracy of renal duplex sonographic parameters in the diagnosis of renal artery stenosis: paired and unpaired analysis.AJR Am J Roentgenol.2007;188(3):798-811.doi:10.2214/AJR.06.0355
+1.Williams GJ, Macaskill P, Chan SF, et al.Comparative accuracy of renal duplex sonographic parameters in the diagnosis of renal artery stenosis: paired and unpaired analysis.AJR Am J Roentgenol.2007;188(3):798-811.doi:10.2214/AJR.06.0355
+2.Postma CT, Joosten FB, Rosenbusch G, Thien T.Magnetic resonance angiography has a high reliability in the detection of renal artery stenosis.Am J Hypertens.1997;10(9 Pt 1):957-963.doi:10.1016/s0895-7061(97)00157-x
+2.Postma CT, Joosten FB, Rosenbusch G, Thien T.Magnetic resonance angiography has a high reliability in the detection of renal artery stenosis.Am J Hypertens.1997;10(9 Pt 1):957-963.doi:10.1016/s0895-7061(97)00157-x
+3.Olbricht CJ, Paul K, Prokop M, et al.Minimally invasive diagnosis of renal artery stenosis by spiral computed tomography angiography.Kidney Int.1995;48(4):1332-1337.doi:10.1038/ki.1995.418
+3.Olbricht CJ, Paul K, Prokop M, et al.Minimally invasive diagnosis of renal artery stenosis by spiral computed tomography angiography.Kidney Int.1995;48(4):1332-1337.doi:10.1038/ki.1995.418
+
+【肾血管性高血压的治疗】
+对于高血压、动脉粥样硬化和相关疾病进行积极的医疗管理。
+对于高血压、动脉粥样硬化和相关疾病进行积极的医疗管理。
+对于纤维肌性发育不良，有时采用血管成形术（置入或不置入支架）
+对于纤维肌性发育不良，有时采用血管成形术（置入或不置入支架）
+血管旁路移植术罕用
+血管旁路移植术罕用
+如果不治疗，预后与未治疗的原发性高血压病人相似。
+所有患者都应接受积极的高血压医学管理。
+
+【动脉粥样硬化性肾动脉狭窄】
+对于动脉粥样硬化性肾动脉狭窄患者，一项大型随机试验（肾动脉粥样硬化病变心血管结局[CORAL]研究）的数据显示，与单独的药物管理相比，支架置入术并未改善预后（1）。虽然支架置入确实带来轻微的（-2mmHg）、具有统计学意义的收缩压下降，但对于预防卒中、心肌梗塞、心力衰竭、因心血管或肾疾病所致死亡，以及肾疾病的进展（包括需要行肾替代治疗）并无显著临床获益。更为重要的是，在CORAL研究中所有患者的高血压和糖尿病（如有）均接受了积极的医学管理，同时服用抗血小板药物和他汀类药物以控制动脉粥样硬化。
+因此，在决定避免血管成形术时，必须严格遵守当前的医学管理指南 (2)。若经最佳降压药物治疗后血清肌酐升高＞50%，肾动脉支架置入术可能有助于保护肾功能（3）。对于不能严格遵守医疗管理指南且肾动脉狭窄＞70%的患者，仍可考虑支架置入。
+
+【纤维肌性发育不良】
+对于大多数肾动脉纤维肌性发育不良患者，推荐进行经皮腔内血管成形术（PTA）。支架置入可减少再狭窄的风险；术后应给予抗血小板药物（如阿司匹林、氯吡格雷）。仅在肾动脉分支病变广泛使PTA在技术上不可行时，才推荐大隐静脉旁路移植。有时，彻底的外科血运重建需要借助微血管技术，而这类技术只能在体外操作，并需配合肾脏自体移植实现。在经过适当选择的患者中，治愈率是90%，手术死亡率<1%（4）。
+对于因技术原因无法进行肾脏血管重建的患者，药物治疗始终优于肾切除术。
+
+【治疗参考文献】
+1.Cooper CJ, Murphy TP, Cutlip DE, et al.Stenting and medical therapy for atherosclerotic renal-artery stenosis.N Engl J Med.2014;370(1):13–22.doi: 10.1056/NEJMoa1310753
+1.Cooper CJ, Murphy TP, Cutlip DE, et al.Stenting and medical therapy for atherosclerotic renal-artery stenosis.N Engl J Med.2014;370(1):13–22.doi: 10.1056/NEJMoa1310753
+2.Writing Committee Members*, Jones DW, Ferdinand KC, et al.2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Hypertension.2025;82(10):e212-e316.doi:10.1161/HYP.0000000000000249
+2.Writing Committee Members*, Jones DW, Ferdinand KC, et al.2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Hypertension.2025;82(10):e212-e316.doi:10.1161/HYP.0000000000000249
+3.Bhalla V, Textor SC, Beckman JA, et al.Revascularization for Renovascular Disease: A Scientific Statement From the American Heart Association.Hypertension.2022;79(8):e128-e143.doi:10.1161/HYP.0000000000000217
+3.Bhalla V, Textor SC, Beckman JA, et al.Revascularization for Renovascular Disease: A Scientific Statement From the American Heart Association.Hypertension.2022;79(8):e128-e143.doi:10.1161/HYP.0000000000000217
+4.Modrall JG, Rosero EB, Smith ST, et al.Operative mortality for renal artery bypass in the United States: Results from the National Inpatient Sample.J Vasc Surg.2008;48(2):317-322.doi:10.1016/j.jvs.2008.03.014
+4.Modrall JG, Rosero EB, Smith ST, et al.Operative mortality for renal artery bypass in the United States: Results from the National Inpatient Sample.J Vasc Surg.2008;48(2):317-322.doi:10.1016/j.jvs.2008.03.014
+肾动脉狭窄（> 70%）或阻塞，可通过刺激患侧肾脏球旁细胞释放肾素而导致高血压。
+肾动脉狭窄（> 70%）或阻塞，可通过刺激患侧肾脏球旁细胞释放肾素而导致高血压。
+80%病例由于动脉粥样硬化所致；20%由纤维肌性发育不良所致。
+80%病例由于动脉粥样硬化所致；20%由纤维肌性发育不良所致。
+若舒张期高血压突然出现；若新发高血压或以往稳定的高血压在6个月内迅速恶化；或者若高血压一开始就很严重（收缩压＞180mmHg）并伴有肾功能恶化，或对药物治疗高度耐药时，应怀疑肾血管性原因。
+若舒张期高血压突然出现；若新发高血压或以往稳定的高血压在6个月内迅速恶化；或者若高血压一开始就很严重（收缩压＞180mmHg）并伴有肾功能恶化，或对药物治疗高度耐药时，应怀疑肾血管性原因。
+进行超声检查、磁共振血管造影或CT血管造影，以确定哪些患者需要进行肾血管造影这一明确诊断性检查。
+进行超声检查、磁共振血管造影或CT血管造影，以确定哪些患者需要进行肾血管造影这一明确诊断性检查。
+积极进行高血压、动脉粥样硬化及相关疾病的医学治疗。
+积极进行高血压、动脉粥样硬化及相关疾病的医学治疗。
+对于患有纤维肌性发育不良的患者，可考虑经皮腔内血管成形术和/或支架置入，或极少情况下采用血管旁路移植术。
+对于患有纤维肌性发育不良的患者，可考虑经皮腔内血管成形术和/或支架置入，或极少情况下采用血管旁路移植术。

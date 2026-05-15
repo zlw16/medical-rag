@@ -1,0 +1,45 @@
+标题：鼠 （地方性） 斑疹伤寒
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/rickettsiae-and-related-organisms/murine-endemic-typhus
+============================================================
+
+（参见立克次体及其相关病原体感染概述。）
+地方性斑疹伤寒是一种立克次体病。
+动物宿主包括猫、野生负鼠、大鼠、家鼠以及其他啮齿动物。鼠蚤以及可能的猫蚤和负鼠蚤通过叮咬将病原体传播给人类。跳蚤也是R. typhi（地方性斑疹伤寒立克次体）的天然宿主；受感染的雌性跳蚤可以将病原体传递给它们的后代。呈散发性，全球都有发病，不过发病率不高，但在老鼠较多的地方更高。
+
+【鼠斑疹伤寒的症状和体征】
+潜伏期为6～18天，平均10天，其后鼠型斑疹伤寒患者会出现寒战伴发热、头痛。发热持续约12天，然后逐渐恢复到正常水平。
+皮疹等表现与流行性斑疹伤寒相似，但较为轻微。早期皮疹较为稀疏。
+病死率很低，但老年人相对较高。
+
+【鼠斑疹伤寒的诊断】
+病史和体格检查
+病史和体格检查
+对皮疹进行荧光抗体染色活检以发现病原体
+对皮疹进行荧光抗体染色活检以发现病原体
+急性期和恢复期血清学检测（血清学检测在急性期无用）
+急性期和恢复期血清学检测（血清学检测在急性期无用）
+聚合酶链反应（PCR）
+聚合酶链反应（PCR）
+（参见立克次体和相关病原体感染的诊断。）
+
+【鼠斑疹伤寒的治疗】
+多西环素
+多西环素
+主要治疗是多西环素，直至患者好转、无发热48小时并接受至少7日治疗。对于不能耐受多西环素的患者，建议进行脱敏治疗。
+虽然一些四环素会导致8岁以下儿童的牙齿染色，但美国疾病控制和预防中心(CDC)建议使用一个疗程的多西环素 (1）。研究表明，短疗程的多西环素（5至10天，用于立克次体病）可用于儿童，不会导致牙齿染色或牙釉质变弱（2）。
+治疗详情见立克次体及相关感染的治疗。
+
+【治疗参考文献】
+1.Centers for Disease Control and Prevention: Information for Healthcare Providers, Typhus Fevers
+1.Centers for Disease Control and Prevention: Information for Healthcare Providers, Typhus Fevers
+2.Todd SR, Dahlgren FS, Traeger MS, et al: No visible dental staining in children treated with doxycycline for suspected Rocky Mountain Spotted Fever.J Pediatr166(5):1246-51, 2015.doi: 10.1016/j.jpeds.2015.02.015
+2.Todd SR, Dahlgren FS, Traeger MS, et al: No visible dental staining in children treated with doxycycline for suspected Rocky Mountain Spotted Fever.J Pediatr166(5):1246-51, 2015.doi: 10.1016/j.jpeds.2015.02.015
+
+【预防鼠斑疹伤寒】
+通过减少大鼠和大鼠跳蚤的数量，鼠斑疹伤寒的发病率已经降低。没有有效的疫苗。
+鼠型斑疹伤寒通过蚤叮咬传播给人类。
+鼠型斑疹伤寒通过蚤叮咬传播给人类。
+症状以寒战、头痛、发热为前驱表现，皮疹等表现与流行性斑疹伤寒相似，但较为轻微。
+症状以寒战、头痛、发热为前驱表现，皮疹等表现与流行性斑疹伤寒相似，但较为轻微。
+用多西环素治疗。
+用多西环素治疗。

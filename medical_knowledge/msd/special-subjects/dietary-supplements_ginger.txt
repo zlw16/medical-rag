@@ -1,0 +1,42 @@
+标题：生姜
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/ginger
+============================================================
+
+姜根 （Zingiber officinale）被提取并制成片剂也可新鲜食用，晒干，或者榨成果汁或油。活性成分包括姜辣素（这赋予生姜味道和气味）及姜烯酚。
+
+【生姜的功效宣称】
+生姜被认为是一种有效的止吐剂和止恶心剂，尤其对于因晕车和妊娠引起的恶心，而且可以缓解肠绞痛。 生姜也被用做抗炎剂和止痛剂 并且可能有益于 2 型糖尿病的管理。
+
+【生姜的证据】
+生姜在体外可能同时还具有抗菌作用和抗血小板作用，但是各种数据往往不一致。
+生姜还可能对减少恶心和呕吐产生有益作用。一项包含10项随机试验（918名患者）的荟萃分析表明，生姜可能有助于控制术后恶心呕吐的严重程度（1）。一项对13项研究（1174名受试者）的荟萃分析报告称，生姜在缓解妊娠相关恶心但不呕吐方面明显比安慰剂更有效。在这项分析中，生姜和维生素B6在减少恶心或呕吐方面没有显著差异 (2)。另一项关于生姜用于化疗引起的恶心和呕吐的荟萃分析报告称，生姜对化疗引起的恶心和其他相关结果没有影响；然而，作者认为该结果可能源于研究间存在异质性（3）。
+姜的抗炎和镇痛作用没有较多的数据支持。然而，一个关于8个试验（481人）的综述表明了生姜具有潜在的抗炎作用，这可以减少在某些条件下的疼痛，例如骨关节炎 (4)。 2015年对5项研究（593名受试者）的荟萃分析发现，生姜对骨关节炎仅有中等疗效(5)。 然而，对于原发性痛经，随机试验报告称生姜可能有益（6, 7）。正在进行生姜对2 型糖尿病作用的评估，新出现的证据显示血红蛋白A1C略有下降 (8)。
+
+【生姜的不良反应】
+生姜通常没有害处，虽然个别人食用时会有烧灼感。有可能会出现恶心、消化不良和味觉障碍。
+
+【姜的药物相互作用】
+理论上来说，有易出血或服用抗血小板药、华法林者禁用生姜。(参考表一些可能的膳食补充剂-药物相互作用。）
+
+【参考文献】
+1.Toth B, Lantos T, Heygi P, et al.Ginger(Zingiber officinale): an alternative for the prevention of postoperative nausea and vomiting.A meta-analysis.Phytomedicine.50:8-18, 2018. doi: 10.1016/j.phymed.2018.09.007
+1.Toth B, Lantos T, Heygi P, et al.Ginger(Zingiber officinale): an alternative for the prevention of postoperative nausea and vomiting.A meta-analysis.Phytomedicine.50:8-18, 2018. doi: 10.1016/j.phymed.2018.09.007
+2.Hu Y, Amoah AN, Zhang H, et al.Effect ofgingerin the treatment of nausea and vomiting compared with vitamin B6 and placebo during pregnancy: a meta-analysis.J Matern Fetal Neonatal Med.35(1):187-196, 2022.doi:10.1080/14767058.2020.1712714
+2.Hu Y, Amoah AN, Zhang H, et al.Effect ofgingerin the treatment of nausea and vomiting compared with vitamin B6 and placebo during pregnancy: a meta-analysis.J Matern Fetal Neonatal Med.35(1):187-196, 2022.doi:10.1080/14767058.2020.1712714
+3.Crichton M, Marshall S, Marx W, et al.Efficacy ofginger(Zingiber officinale) in ameliorating chemotherapy-induced nausea and vomiting and chemotherapy-related outcomes: a systematic review update and meta-analysis.J Acad Nutr Diet.119(12):2055-2068, 2019.doi: 10.1016/j.jand.2019.06.009
+3.Crichton M, Marshall S, Marx W, et al.Efficacy ofginger(Zingiber officinale) in ameliorating chemotherapy-induced nausea and vomiting and chemotherapy-related outcomes: a systematic review update and meta-analysis.J Acad Nutr Diet.119(12):2055-2068, 2019.doi: 10.1016/j.jand.2019.06.009
+4.Terry R, Posadzki P, Watson LK, et al.The use ofginger(Zingiber officinale) for the treatment of pain: a systematic review of clinical trials.Pain Med.12(12):1808-1818, 2011.doi: 10.1111/j.1526-4637.2011.01261.x
+4.Terry R, Posadzki P, Watson LK, et al.The use ofginger(Zingiber officinale) for the treatment of pain: a systematic review of clinical trials.Pain Med.12(12):1808-1818, 2011.doi: 10.1111/j.1526-4637.2011.01261.x
+5.Bartels EM, Folmer VN, Bliddal H, et al.Efficacy and safety ofgingerin osteoarthritis patients: a meta-analysis of randomized placebo-controlled trials.Osteoarthritis Cartilage.23(1):13-21, 2015.doi: 10.1016/j.joca.2014.09.024
+5.Bartels EM, Folmer VN, Bliddal H, et al.Efficacy and safety ofgingerin osteoarthritis patients: a meta-analysis of randomized placebo-controlled trials.Osteoarthritis Cartilage.23(1):13-21, 2015.doi: 10.1016/j.joca.2014.09.024
+6.Daily JW, Zhang X, Kim DS, et al: Efficacy ofgingerfor alleviating the symptoms of primary dysmenorrhea: a systematic review and meta-analysis of randomized clinical trials.Pain Med16(12):2243-55, 2015. doi: 10.1111/pme.12853
+6.Daily JW, Zhang X, Kim DS, et al: Efficacy ofgingerfor alleviating the symptoms of primary dysmenorrhea: a systematic review and meta-analysis of randomized clinical trials.Pain Med16(12):2243-55, 2015. doi: 10.1111/pme.12853
+7.Moshfeghinia R, Salmanpour N, Ghoshouni H, et al.Ginger ofr pain management in primary dymenorrhea: a systematic review and meta-analysis.J Integr Complement Med.2024;30(11).Published online November 18, 2024.
+7.Moshfeghinia R, Salmanpour N, Ghoshouni H, et al.Ginger ofr pain management in primary dymenorrhea: a systematic review and meta-analysis.J Integr Complement Med.2024;30(11).Published online November 18, 2024.
+8.Huang FY, Deng T, Meng LX, et al: Dietarygingeras a traditional therapy for blood sugar control in patients with type 2 diabetes mellitus: a systematic review and meta-analysis.Medicine (Baltimore)98(13):e15054, 2019.doi: 10.1097/MD.0000000000015054
+8.Huang FY, Deng T, Meng LX, et al: Dietarygingeras a traditional therapy for blood sugar control in patients with type 2 diabetes mellitus: a systematic review and meta-analysis.Medicine (Baltimore)98(13):e15054, 2019.doi: 10.1097/MD.0000000000015054
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Ginger
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Ginger

@@ -1,0 +1,76 @@
+标题：冻伤
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/cold-injury/frostbite
+============================================================
+
+（参见寒冷损伤的概述。）
+冻伤常发生于极其寒冷的环境中，尤其是在海拔较高的地方，低温会加重冻伤的程度。四肢远端和裸露的皮肤是最常被冻伤的部位。
+这张照片显示苍白的甲床、水肿的灰色脚趾和脚上的水泡。水泡中没有血表明冻伤是浅表的，愈合后残留组织不太可能丢失。
+© Springer Science+Business Media
+这张照片显示了手的冻伤。出血性水泡（无名指和小指）和青紫的指尖可能预示着坏死。 应在肿胀发生前取下戒指。
+© Springer Science+Business Media
+冰晶在组织细胞内或细胞间形成，本质上是组织冻结并导致细胞死亡。邻近的未冻结区域仍有危险，因为局部血管收缩和血栓形成能引起内皮及缺血性的损伤。 随着复温过程中的再灌注，炎性细胞因子（如血栓烷类和前列腺素类）释放，加剧了组织损伤。组织缺失的深度与冻结的持续时间长短和深度有关。
+
+【冻伤的症状和体征】
+受伤区域发冷、发硬、发白、发麻。复温后，受累区域会出现斑驳红斑、肿胀和疼痛。在4-6小时内形成大水疱，但整个受伤范围在起初几天可能不明显。
+水疱内血清澄清表明是浅表损伤，表浅损伤愈合没有残留组织缺失。
+水疱内血清澄清表明是浅表损伤，表浅损伤愈合没有残留组织缺失。
+充满血液的水疱提示深层损伤，很可能发生组织丢失。
+充满血液的水疱提示深层损伤，很可能发生组织丢失。
+坏疽发生时，可能是干性的或湿性的。干性坏疽，由于深层组织冻结，在健康组织上形成坚硬的黑色外壳。湿性坏疽相对少见，呈灰白，水肿，软化。湿性坏疽的特点为易感染，而干性坏疽很少感染。
+© Springer Science+Business Media
+严重受损的组织可能会自动断离。可能出现骨筋膜室综合征。任何程度的冻伤都可能会导致指甲生长障碍及长期的神经病理症状：对寒冷敏感，出汗过多和麻木（症状类似复杂区域疼痛综合征）。
+
+【冻伤的诊断】
+病史和体格检查
+病史和体格检查
+诊断基于临床表现。冻伤的许多早期特征（如冰冷、麻木、白色或红色、水泡）也是非冻伤的特征；因此，冻伤的明确诊断可能需要反复观察，直到出现更具体的特征（如黑色外壳）。
+
+【冻伤的治疗】
+温水（37~39°C）复温
+温水（37~39°C）复温
+支持疗法
+支持疗法
+局部伤口护理
+局部伤口护理
+有时需手术治疗
+有时需手术治疗
+
+【清洁程序、屏障保护】
+在野外，冻伤肢体应完全浸没在可忍受的温水中（37-39°C）进行迅速复温。应避免使用不受控制的干热源（例如火、加热垫）进行复温，因为患处是麻木的并有烧伤的风险。也应该避免摩擦，因为摩擦可能会进一步损伤组织。
+冻伤时间越长，最终损伤可能越大。然而，如果患者必须走一段距离才能接受治疗，则可能需要延迟解冻脚部。解冻组织对行走的创伤特别敏感，并且如果再冷冻，将比保持冷冻状态损伤更严重。如果解冻必须延迟，冷冻区域被轻轻清洁，风干，并用无菌和干燥的大块敷料保护。如若有镇痛药，需给病人服用，同时保持整个身体的温暖。
+
+【急性期治疗】
+患者入院后，应稳定核心体温，并将肢体置于 37~39℃的循环温水容器中快速复温，通常 15~30 分钟即可 (1)。必须摘掉所有珠宝。复温期间疼痛可能会很剧烈。通常需要使用包括阿片类药物在内的肠外镇痛药。
+鼓励患者在解冻过程中轻轻移动患处。大的，透明的水泡通常保持完整或使用无菌技术抽吸。出血性水疱亦应保持原状以防止深部真皮层继发干燥。破损的小囊泡应予清创。
+对于48至72小时内出现的严重损伤，应在体温恢复后输注前列环素类似物，如伊洛前列素（2，3）。如果伤深且有截肢的危险，应在伤后24小时内考虑动脉内或静脉内溶栓（纤溶）治疗（4）。Phenoxybenzamine是一种长效α受体阻滞剂，可减少血管痉挛，改善血流。虽然其他血管扩张剂如罂粟碱、尼卡地平或硝酸甘油也被用作辅助治疗，但缺乏强有力的证据支持它们的使用。抗凝剂（如肝素）、静脉注射低分子量葡聚糖和动脉内血管扩张剂（如利血平、托唑啉）没有证实的临床益处，不应使用。
+抗炎措施（例如布洛芬和外用芦荟）是有帮助的。将受伤区域暴露于温暖空气中，并将肢体抬高以减轻水肿。没有足够的数据支持高压氧疗法（5）。
+预防感染是根本；除非有严重污染、挤压伤或湿性坏疽，否则不建议经验性预防。如若出现湿性坏疽，应使用广谱抗菌药物。破伤风类毒素在破伤风疫苗接种状况未知或不是最新的情况下给予。如果组织损伤严重，则监测组织压力以寻找筋膜室综合征的指征（参见筋膜室综合征：诊断，如何测量前臂筋膜室压力和如何测量小腿筋膜室压力）。
+
+【后续治疗】
+为了维持代谢性产热，足够的营养也是很重要的。考虑使用多普勒超声评估脉搏和组织状态。
+其他影像学检查包括放射性核素扫描、磁共振、微波温度记录和激光多普勒血流仪有助于评估血液循环、测定组织活性，由此可以指导治疗。MRI，特别是磁共振血管造影，可以在临床划界之前确定活组织的分界线，从而使早期手术清创或截肢成为可能。然而早期外科干预是否能改善远期预后尚不清楚。通常，尽可能延缓手术，因为黑色痂壳常常脱落后露出有活力的组织。告知严重冻伤患者，可能需要数周的观察才能明确组织分界和丢失范围。
+最佳长期管理包括每天3 次37° C 漩涡浴，然后轻柔地擦干、休息和等待。目前尚无针对冻伤长期症状（如麻木、对冷过敏）的完全有效的治疗方法。不建议采用化学或手术交感神经切除术来治疗晚期神经症状。
+
+【治疗参考文献】
+1.McIntosh SE, Freer L, Grissom CK, et al.Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update.Wilderness Environ Med.2024;35(2):183-197.doi:10.1177/10806032231222359
+1.McIntosh SE, Freer L, Grissom CK, et al.Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update.Wilderness Environ Med.2024;35(2):183-197.doi:10.1177/10806032231222359
+2.Iloprost (Aurlumyn) for frostbite.Med Lett Drugs Ther.2024;66(1707):114.doi:10.58347/tml.2024.1707b
+2.Iloprost (Aurlumyn) for frostbite.Med Lett Drugs Ther.2024;66(1707):114.doi:10.58347/tml.2024.1707b
+3.Vampola C-L, Fahrbach K, Davis C.Risk of Amputation in Severe Frostbite - A Systematic Literature Review and Meta-analysis to EvaluateIloprostand Standard of Care.Wilderness Environ Med.2023;34(4):e4.https://doi.org/10.1016/j.wem.2023.08.016
+3.Vampola C-L, Fahrbach K, Davis C.Risk of Amputation in Severe Frostbite - A Systematic Literature Review and Meta-analysis to EvaluateIloprostand Standard of Care.Wilderness Environ Med.2023;34(4):e4.https://doi.org/10.1016/j.wem.2023.08.016
+4.Hickey S, Whitson A, Jones L, et al.Guidelines for Thrombolytic Therapy for Frostbite.J Burn Care Res.2020;41(1):176-183.doi:10.1093/jbcr/irz148
+4.Hickey S, Whitson A, Jones L, et al.Guidelines for Thrombolytic Therapy for Frostbite.J Burn Care Res.2020;41(1):176-183.doi:10.1093/jbcr/irz148
+5.Lorentzen AK, Davis C, Penninga L.Interventions for frostbite injuries.Cochrane Database Syst Rev.2020;12(12):CD012980.Published 2020 Dec 20.doi:10.1002/14651858.CD012980.pub2
+5.Lorentzen AK, Davis C, Penninga L.Interventions for frostbite injuries.Cochrane Database Syst Rev.2020;12(12):CD012980.Published 2020 Dec 20.doi:10.1002/14651858.CD012980.pub2
+神经病变症状（如对冷敏感、麻木）可能持续存在。
+神经病变症状（如对冷敏感、麻木）可能持续存在。
+使用触感温暖的水（37-39℃），尽快解冻冻伤组织；通常需要镇痛。
+使用触感温暖的水（37-39℃），尽快解冻冻伤组织；通常需要镇痛。
+避免解冻之后再冷冻。
+避免解冻之后再冷冻。
+保持受累的区域不被覆盖，清洁，干燥和抬高。
+保持受累的区域不被覆盖，清洁，干燥和抬高。
+黑色组织可能代表即将脱落的黑色外壳或需要截肢的坏疽；手术通常推迟到界限明确。
+黑色组织可能代表即将脱落的黑色外壳或需要截肢的坏疽；手术通常推迟到界限明确。
+神经性症状（如，对冷、麻木敏感）可能会永久存在。
+神经性症状（如，对冷、麻木敏感）可能会永久存在。

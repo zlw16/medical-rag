@@ -1,0 +1,98 @@
+标题：神经阻滞剂恶性综合征
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/heat-illness/neuroleptic-malignant-syndrome
+============================================================
+
+在使用神经阻滞剂（抗精神病药）的患者中，发生神经阻滞剂恶性综合征的比例为 0.1% 或更低（1、2、3）。任何年龄段均可受累。
+
+【参考文献】
+1.Lao KSJ, Zhao J, Blais JE, et al.Antipsychotics and Risk of Neuroleptic Malignant Syndrome: A Population-Based Cohort and Case-Crossover Study.CNS Drugs.2020;34(11):1165-1175.doi:10.1007/s40263-020-00767-9
+1.Lao KSJ, Zhao J, Blais JE, et al.Antipsychotics and Risk of Neuroleptic Malignant Syndrome: A Population-Based Cohort and Case-Crossover Study.CNS Drugs.2020;34(11):1165-1175.doi:10.1007/s40263-020-00767-9
+2.Ray WA, Fuchs DC, Olfson M, et al.Incidence of Neuroleptic Malignant Syndrome During Antipsychotic Treatment in Children and Youth: A National Cohort Study.J Child Adolesc Psychopharmacol.2024;34(9):397-406.doi:10.1089/cap.2024.0047
+2.Ray WA, Fuchs DC, Olfson M, et al.Incidence of Neuroleptic Malignant Syndrome During Antipsychotic Treatment in Children and Youth: A National Cohort Study.J Child Adolesc Psychopharmacol.2024;34(9):397-406.doi:10.1089/cap.2024.0047
+3.Guinart D, Taipale H, Rubio JM, et al.Risk Factors, Incidence, and Outcomes of Neuroleptic Malignant Syndrome on Long-Acting Injectable vs Oral Antipsychotics in a Nationwide Schizophrenia Cohort.Schizophr Bull.2021;47(6):1621-1630.doi:10.1093/schbul/sbab062
+3.Guinart D, Taipale H, Rubio JM, et al.Risk Factors, Incidence, and Outcomes of Neuroleptic Malignant Syndrome on Long-Acting Injectable vs Oral Antipsychotics in a Nationwide Schizophrenia Cohort.Schizophr Bull.2021;47(6):1621-1630.doi:10.1093/schbul/sbab062
+
+【神经阻滞剂恶性综合征的病因】
+多种抗精神病药物以及部分止吐药可能为病因（见表可引起神经阻滞剂恶性综合征的药物）。所有药物相关病因的共同点是多巴胺能传递减少；然而这种反应不是过敏性反应，而是特异性反应。尽管已对多种影响药物代谢的基因多态性进行了研究，但其病因和机制仍不明确（1）。危险因素包括高药物剂量、快速加量、肠外给药，以及从一种潜在致病药物换用另一种。
+神经阻滞剂恶性综合征也可在应用左旋多巴及多巴胺激动剂的患者撤药时发生。
+
+【可引起神经阻滞剂恶性综合征的药物】
+可引起神经阻滞剂恶性综合征的药物
+第一代抗精神病药物
+氟奋乃静
+氟哌啶醇
+美索达嗪
+硫利达嗪
+替沃噻吨
+三氟拉嗪
+第二代抗精神病药物
+阿立哌唑
+帕利哌酮
+齐拉西酮
+多潘立酮
+氟哌利多
+甲氧氯普胺
+丙氯拉嗪
+
+【病因参考文献】
+1.Wijdicks EFM, Ropper AH.Neuroleptic Malignant Syndrome.N Engl J Med.2024 Sep 26;391(12):1130-1138.doi: 10.1056/NEJMra2404606
+1.Wijdicks EFM, Ropper AH.Neuroleptic Malignant Syndrome.N Engl J Med.2024 Sep 26;391(12):1130-1138.doi: 10.1056/NEJMra2404606
+
+【神经阻滞剂恶性综合征的症状和体征】
+神经阻滞剂恶性综合征多于开始神经阻滞剂治疗2周内出现症状，但也可早于2周或在治疗后多年才出现症状。
+4个典型症状通常在数天内依次出现：
+精神状态改变：通常精神状态改变是最初表现，常常激惹谵妄可慢慢进展为昏睡或意识障碍（脑病）。
+精神状态改变：通常精神状态改变是最初表现，常常激惹谵妄可慢慢进展为昏睡或意识障碍（脑病）。
+运动异常：患者可出现全身性重度肌肉强直（有时伴震颤，导致齿轮样强直），较少出现肌张力障碍、舞蹈症或其他异常。反射反应减少。
+运动异常：患者可出现全身性重度肌肉强直（有时伴震颤，导致齿轮样强直），较少出现肌张力障碍、舞蹈症或其他异常。反射反应减少。
+高热：体温通常>38°C并且经常>40°C。
+高热：体温通常>38°C并且经常>40°C。
+自主神经亢进：自主活动增多引起心动过速，心律失常，气促和不稳定高血压。
+自主神经亢进：自主活动增多引起心动过速，心律失常，气促和不稳定高血压。
+肌肉强直可导致肌酸激酶升高或明显的横纹肌溶解。
+
+【抗精神病药物相关的恶性综合征的诊断】
+病史和体格检查
+病史和体格检查
+排除其他疾病及并发症
+排除其他疾病及并发症
+应根据临床表现怀疑抗精神病药恶性综合征。 精神病患者精神状态的改变可能被忽略，因而本病早期可能漏诊 (1)。精神疾病诊断与统计手册(DSM)-5-TR标准要求在过去72小时内暴露于多巴胺拮抗剂或多巴胺激动剂停药，高热和大汗。"铅管样"强直是显著特征，可能伴随其他神经系统表现如震颤、肌张力障碍、肌阵挛、构音障碍、吞咽困难及意识状态改变。自主神经不稳定（如心动过速、血压升高和/或波动）、呼吸急促和呼吸窘迫也可能出现。
+其他病症可引发相似表现。例如：
+血清素综合征会导致肌强直、高热和自主神经功能亢进，但通常由5-羟色胺再摄取抑制剂或其他5-羟色胺能药物引起，患者典型表现为反射亢进，有时出现肌阵挛。 体温升高和肌肉僵硬的程度没有神经阻滞剂恶性综合征严重，起病迅速（常在24小时内起病），并且在出现血清素综合征之前有恶心及腹泻症状。
+血清素综合征会导致肌强直、高热和自主神经功能亢进，但通常由5-羟色胺再摄取抑制剂或其他5-羟色胺能药物引起，患者典型表现为反射亢进，有时出现肌阵挛。 体温升高和肌肉僵硬的程度没有神经阻滞剂恶性综合征严重，起病迅速（常在24小时内起病），并且在出现血清素综合征之前有恶心及腹泻症状。
+恶性高热和鞘内巴氯芬撤药时会引起与神经阻滞剂恶性综合征相似的表现，但通常依据病史容易做出鉴别。
+恶性高热和鞘内巴氯芬撤药时会引起与神经阻滞剂恶性综合征相似的表现，但通常依据病史容易做出鉴别。
+非惊厥性癫痫持续状态可导致精神状态改变、僵硬和体温过高。应进行脑电图检查以排除癫痫持续状态。
+非惊厥性癫痫持续状态可导致精神状态改变、僵硬和体温过高。应进行脑电图检查以排除癫痫持续状态。
+全身感染，包括脓毒症、肺炎和中枢神经系统感染可导致精神状态改变、高热、气促和心动过速，但无全身活动异常。不同于多数感染，神经阻滞剂恶性综合征患者在发生高热之前就会出现精神状态的改变和活动异常。
+全身感染，包括脓毒症、肺炎和中枢神经系统感染可导致精神状态改变、高热、气促和心动过速，但无全身活动异常。不同于多数感染，神经阻滞剂恶性综合征患者在发生高热之前就会出现精神状态的改变和活动异常。
+本病无确诊检查，但应做一些检查以明确是否存在并发症，包括血清电解质、血尿素氮、肌酐、血糖、血钙、血镁、肌酸激酶、尿肌红蛋白、神经影像学检查及脑脊液分析。
+
+【诊断参考文献】
+1.American Psychiatric Association. DSM-5-TR.5th ed.American Psychiatric Association; 2022.‌
+1.American Psychiatric Association. DSM-5-TR.5th ed.American Psychiatric Association; 2022.‌
+
+【神经阻滞剂恶性综合征的治疗】
+停用致病药物
+停用致病药物
+快速冷却
+快速冷却
+积极管理气道，分泌物，液体平衡，血压和自主神经亢进，以及电解质异常
+积极管理气道，分泌物，液体平衡，血压和自主神经亢进，以及电解质异常
+给予多巴胺激动剂（溴隐亭或金刚烷胺）
+给予多巴胺激动剂（溴隐亭或金刚烷胺）
+使用缓解肌肉强直的药物（丹曲林、劳拉西泮）
+使用缓解肌肉强直的药物（丹曲林、劳拉西泮）
+对于神经阻滞剂恶性综合征患者，应停用致病药物，并在重症监护室（ICU）对症处理并发症 (1)。纠正电解质异常和容量状态可能需要透析。严重高热应积极物理降温(参见中暑：治疗)。某些患者需要行气管插管(参见气道建立和控制/气管插管) 并诱导昏迷。苯二氮䓬类药物或右美托咪定可用于控制躁动。可使用α-2激动剂（如可乐定）或钙通道阻滞剂（如氯维地平）控制高血压。虽然临床试验未呈现有效性，但可应用辅助性药物治疗。苯二氮卓类药物也可用于缓解轻度肌肉僵硬。对于加重或持续的肌肉强直及高热，可给予丹曲林。溴隐亭或金刚烷胺可口服或通过鼻胃管给药，以帮助恢复部分多巴胺能活性。即使快速积极治疗也可能无效，治疗病例的死亡率约为30天5%、1年15%（2）。
+
+【治疗参考文献】
+1.Schönfeldt-Lecuona, C, Kuhlwilm L, Cronemeyer M, et al.Treatment of the neuroleptic malignant syndrome in international therapy guidelines: a comparative analysis.Pharmacopsychiatry.53(2):51-59, 2020 doi: 10.1055/a-1046-1044
+1.Schönfeldt-Lecuona, C, Kuhlwilm L, Cronemeyer M, et al.Treatment of the neuroleptic malignant syndrome in international therapy guidelines: a comparative analysis.Pharmacopsychiatry.53(2):51-59, 2020 doi: 10.1055/a-1046-1044
+2.Wijdicks EFM, Ropper AH.Neuroleptic Malignant Syndrome.N Engl J Med.2024 Sep 26;391(12):1130-1138.doi: 10.1056/NEJMra2404606
+2.Wijdicks EFM, Ropper AH.Neuroleptic Malignant Syndrome.N Engl J Med.2024 Sep 26;391(12):1130-1138.doi: 10.1056/NEJMra2404606
+神经阻滞剂恶性综合征在使用降低多巴胺能传递的神经阻滞剂或其他药物的患者中罕见发生。
+神经阻滞剂恶性综合征在使用降低多巴胺能传递的神经阻滞剂或其他药物的患者中罕见发生。
+如果患者在几天内出现神志改变，肌肉强直或不自主运动，高热和自主神经亢进等表现，应怀疑本病。
+如果患者在几天内出现神志改变，肌肉强直或不自主运动，高热和自主神经亢进等表现，应怀疑本病。
+停用致病药物，开始迅速降温，并进行积极的支持治疗，通常收入ICU。
+停用致病药物，开始迅速降温，并进行积极的支持治疗，通常收入ICU。

@@ -1,0 +1,50 @@
+标题：遗传性视神经疾病
+来源：https://www.msdmanuals.cn/professional/eye-disorders/optic-nerve-disorders/hereditary-optic-neuropathies
+============================================================
+
+遗传性视神经疾病包括显性视神经萎缩和Leber遗传性视神经病变，两者均是线粒体细胞病 (1)。典型的表现是在儿童期或者青少年期发病，为双眼对称性中心视力下降。视神经损害通常不可恢复，有些病例可能还存在持续进展。当察觉到视神经萎缩体征时，实际上已经发生了实质性的视神经损伤。
+
+【显性视神经萎缩】
+显性视神经萎缩是一种常染色体显性遗传性疾病。目前认为这是遗传性视神经疾病最常见的类型，患病率为1：10,000～1：50,000 (2)。发病机制认为是由于视神经营养性衰竭、视神经过早变性导致视力进行性下降。该病通常在生命的最初十年内发病，但可以在以后的生活中才被发现。
+
+【Leber遗传性视神经病变】
+Leber遗传性视神经病变涉及到线粒体DNA异常，其影响细胞呼吸链功能。尽管线粒体DNA异常是一种全身性病变，但视力异常为主要表现。大多数病例发生在男性中（3）。该病具有母系遗传的特征，即携带异常基因特质女性的所有后代都有可能携带该异常基因特质，但只有女性具有遗传性，因为受精卵仅从母亲一方获得线粒体。
+
+【参考文献】
+1.Kisilevsky E, Freund P, Margolin E: Mitochondrial disorders and the eye.Surv Ophthalmol65(3):294-311, 2020.doi: 10.1016/j.survophthal.2019.11.001
+1.Kisilevsky E, Freund P, Margolin E: Mitochondrial disorders and the eye.Surv Ophthalmol65(3):294-311, 2020.doi: 10.1016/j.survophthal.2019.11.001
+2.Yu-Wai-Man P, Chinnery PF: Dominant optic atrophy: Novel OPA1 mutations and revised prevalence estimates.Ophthalmology20(8):1712-1712.e1, 2013.doi: 10.1016/j.ophtha.2013.04.022.Erratum in:Ophthalmology120(12):2448, 2013.
+2.Yu-Wai-Man P, Chinnery PF: Dominant optic atrophy: Novel OPA1 mutations and revised prevalence estimates.Ophthalmology20(8):1712-1712.e1, 2013.doi: 10.1016/j.ophtha.2013.04.022.Erratum in:Ophthalmology120(12):2448, 2013.
+3.Yu-Wai-Man P, Griffiths PG, Brown DT, et al: The epidemiology of Leber hereditary optic neuropathy in the North East of England.Am J Hum Genet72(2):333-339, 2003.doi: 10.1086/346066
+3.Yu-Wai-Man P, Griffiths PG, Brown DT, et al: The epidemiology of Leber hereditary optic neuropathy in the North East of England.Am J Hum Genet72(2):333-339, 2003.doi: 10.1086/346066
+
+【遗传性视神经疾病的症状和体征】
+
+【显性视神经萎缩】
+具有显性视神经萎缩的大部分患者不伴有其它神经系统异常，但有报道可伴有眼球震颤或耳聋。唯一的症状是慢性进展性双侧视力下降，通常年轻时仅有轻度视力下降。整个视盘或有时仅颞侧部分的色泽苍白而无可见的血管。蓝黄色觉缺失具有特征性。
+
+【Leber遗传性视神经病变】
+Leber遗传性视神经病变典型病例的视力下降开始于15～35岁之间（年龄范围1～80岁）。通常单眼无痛性中心视力下降后数周至数月对侧眼开始出现视力下降。亦有报道双眼同时出现视力下降的。大部分病人视力丧失，恶化至低于20/200。眼底镜检查可观察到毛细血管扩张性微血管病、视盘周围神经纤维层水肿，荧光血管造影无血管渗漏现象。最终发生视神经萎缩。
+Leber遗传性视神经病变的部分患者伴有心脏传导功能障碍。另一些患者可能伴有轻微神经系统异常，如姿势性震颤、踝关节反射消失、肌张力异常、强直状态或者多发性硬化样病变。
+
+【遗传性视神经疾病的诊断】
+临床评估
+临床评估
+分子遗传学检测
+分子遗传学检测
+如果临床上怀疑患有显性视神经萎缩或 Leber 遗传性视神经萎缩，则适合进行分子遗传学检测以确认导致这两种疾病的许多突变。然而，结果可能是假阴性，因为可能存在分子检测尚未检测到的突变。
+如果怀疑Leber遗传性视神经病变，应做心电图（ECG）检查明确诊断隐匿性心脏传导功能障碍。
+
+【遗传性视神经疾病的治疗】
+对症治疗
+对症治疗
+遗传性视神经病变没有有效治疗方法。 低视力助视器（如放大镜、大字体设备、语音手表）可能有助。建议开展遗传学咨询。
+已经证实应用皮质类固醇、补充维生素以及抗氧化剂等对Leber遗传性视神经病变患者都没有效果。小规模研究显示醌类似物（泛醌和艾地苯醌）可能在早期有治疗效果 (1, 2)。基因试验11778突变正在进行中，并且已经显示即使在单侧玻璃体内注射后，双眼视力的恢复也可能略有增加（3）。建议避免那些可能促对线粒体能量生产造成压力的物质（如烟草、酒精，尤其是过度使用），虽然这些建议没有经过证实有益，但却是合理的。有心脏和神经系统异常的患者应该转至专科医生就诊。
+
+【治疗参考文献】
+1.Peragallo JH, Newman NJ: Is there treatment for Leber hereditary optic neuropathy?Curr Opin Ophthalmol26(6):450-457, 2015.doi: 10.1097/ICU.0000000000000212
+1.Peragallo JH, Newman NJ: Is there treatment for Leber hereditary optic neuropathy?Curr Opin Ophthalmol26(6):450-457, 2015.doi: 10.1097/ICU.0000000000000212
+2.Klopstock T, Yu-Wai-Man P, Dimitriadis K, et al: A randomized placebo-controlled trial of idebenone in Leber's hereditary optic neuropathy.Brain134(Pt 9):2677-2686, 2011.doi: 10.1093/brain/awr170
+2.Klopstock T, Yu-Wai-Man P, Dimitriadis K, et al: A randomized placebo-controlled trial of idebenone in Leber's hereditary optic neuropathy.Brain134(Pt 9):2677-2686, 2011.doi: 10.1093/brain/awr170
+3.Newman NJ, Yu-Wai-Man P, Carelli V, et al: Intravitreal gene therapy vs. natural history in patients with Leber hereditary optic neuropathy carrying the m.11778G>A ND4 mutation: Systematic review and indirect comparison.Front Neurol12:662838, 2021.doi: 10.3389/fneur.2021.662838
+3.Newman NJ, Yu-Wai-Man P, Carelli V, et al: Intravitreal gene therapy vs. natural history in patients with Leber hereditary optic neuropathy carrying the m.11778G>A ND4 mutation: Systematic review and indirect comparison.Front Neurol12:662838, 2021.doi: 10.3389/fneur.2021.662838

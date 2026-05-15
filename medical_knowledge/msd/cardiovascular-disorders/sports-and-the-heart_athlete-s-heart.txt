@@ -1,0 +1,152 @@
+标题：运动员心脏
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/sports-and-the-heart/athlete-s-heart
+============================================================
+
+激烈的、长期的耐力和力量训练导致许多生理性适应。左心室容量和压力负荷增加，导致经一段时间后左心室心肌的重量，室壁厚度和心腔大小均增加。最大心搏量和心排血量增加，导致静息心率比较慢，舒张期充盈时间延长。心率减慢主要由迷走张力增高所引起，但交感活力降低和其他降低窦房结内在活性的非自主神经因素也可能起作用。心动过缓降低心肌耗氧量；同时总血红蛋白和血容量的增多加大了血氧的输送。尽管发生这些改变，收缩功能和舒张功能仍保持正常。女性心脏的结构改变通常少于同年龄、体型和训练水平相同的男性（1, 2）。
+与进行较低水平体力活动的人相比，在进行高水平体力活动（等于或超过3000 MET [代谢当量任务]-分钟/周）的人中，冠状动脉钙化（CAC）评分大于或等于100 Agatston单位的患病率似乎有所增加。然而，这并不意味着更高的全因或心血管死亡风险。研究数据表明，即使存在冠状动脉钙化，高水平体力活动的全因死亡率和心血管死亡率风险也低于低水平体力活动（3）。
+
+【参考文献】
+1.Palermi S, Cavarretta E, D’Ascenzi F, et al: Athlete's Heart: A cardiovascular step-by-step multimodality approach.Rev Cardiovasc Med24(5): 151, 2023.https://doi.org/10.31083/j.rcm2405151
+1.Palermi S, Cavarretta E, D’Ascenzi F, et al: Athlete's Heart: A cardiovascular step-by-step multimodality approach.Rev Cardiovasc Med24(5): 151, 2023.https://doi.org/10.31083/j.rcm2405151
+2.Martinez MW, Kim JH, Shah AB, et al: Exercise-induced cardiovascular adaptations and approach to exercise and cardiovascular disease.JACC State-Of-The-Art Review.J Am Coll Cardiol78 (14): 1454–1470, 2021.doi: 10.1016/j.jacc.2021.08.003
+2.Martinez MW, Kim JH, Shah AB, et al: Exercise-induced cardiovascular adaptations and approach to exercise and cardiovascular disease.JACC State-Of-The-Art Review.J Am Coll Cardiol78 (14): 1454–1470, 2021.doi: 10.1016/j.jacc.2021.08.003
+3.DeFina LF, Radford NB, Barlow CE, et al: Association of all-cause and cardiovascular mortality with high levels of physical activity and concurrent coronary artery calcification.JAMA Cardiol.4(2):174–181, 2019.doi:10.1001/jamacardio.2018.4628
+3.DeFina LF, Radford NB, Barlow CE, et al: Association of all-cause and cardiovascular mortality with high levels of physical activity and concurrent coronary artery calcification.JAMA Cardiol.4(2):174–181, 2019.doi:10.1001/jamacardio.2018.4628
+
+【运动员心脏的症状和体征】
+无症状。迹象各不相同，但可能包括
+心动过缓
+心动过缓
+左心室搏动向外侧移位、增大且幅度增加
+左心室搏动向外侧移位、增大且幅度增加
+左胸骨下缘收缩期射出（流）杂音
+左胸骨下缘收缩期射出（流）杂音
+由早期快速舒张心室充盈引起的第三心音 (S3)
+由早期快速舒张心室充盈引起的第三心音 (S3)
+高动力颈动脉搏动
+高动力颈动脉搏动
+这些体征反映出适应高强度运动的心脏结构改变。
+在运动员中，第四心音（S4）几乎总是异常的。
+
+【运动员心脏的诊断】
+临床评估
+临床评估
+常规ECG
+常规ECG
+有时超声心动图
+有时超声心动图
+很少，心脏磁共振成像
+很少，心脏磁共振成像
+极少情况下进行压力负荷试验
+极少情况下进行压力负荷试验
+通常在常规筛查时或在评估其他无关的症状时被检出。大多数运动员不需要大量的检查，虽然心电图检查常要作。 如果症状（如，心悸、胸痛）提示心脏疾病，则要做心电图、超声心动图和运动负荷试验。
+运动员心脏是一种排除性诊断；必须与导致类似表现但危及生命的疾病相鉴别（如肥厚型心肌病、扩张型心肌病、缺血性心脏病[例如冠状动脉疾病]、致心律失常性右心室心肌病—[1]）。当其他诊断方式的结果不确定时，心脏磁共振 (CMR) 成像可能会有所帮助。有时需要进行去适应试验来区分运动员的心脏和心肌病。
+可能出现多种心律和心电图形态的改变；它们与训练水平和心血管功能的相关性较弱。最常见的ECG发现是
+窦性心动过缓
+窦性心动过缓
+罕见情况下，心率<40次/分。窦性心律不齐常伴随心动过缓。静息心动过缓可能诱发
+房性或室性异位搏动（包括成对室早和阵发性非持续性室性心动过速）；异位搏动后的停搏不超过4秒
+房性或室性异位搏动（包括成对室早和阵发性非持续性室性心动过速）；异位搏动后的停搏不超过4秒
+游走性房性（室上性）起搏点
+游走性房性（室上性）起搏点
+其他可能出现的ECG包括
+Ⅰ度房室（AV）传导阻滞（见于多达1/3的运动员）
+Ⅰ度房室（AV）传导阻滞（见于多达1/3的运动员）
+Ⅱ度房室传导阻滞（主要是Ⅰ型），在静息时出现，运动时消失
+Ⅱ度房室传导阻滞（主要是Ⅰ型），在静息时出现，运动时消失
+QRS高电压伴下侧壁T波改变（反映左心室肥厚）
+QRS高电压伴下侧壁T波改变（反映左心室肥厚）
+前侧壁T波深倒置
+前侧壁T波深倒置
+不完全性右束支传导阻滞
+不完全性右束支传导阻滞
+但是，Ⅲ度房室传导阻滞是异常的，应予以全面检查。
+ECG和节律改变与临床不良事件并不相关，提示运动员中各种心律失常并非异常。在相对较短的去适应期后，这些心律失常通常会消失或显著减少。
+
+【超声心动图】
+超声心动图检查可对运动员心脏与心肌病作出鉴别（见表运动员心脏与心肌病的特点），但因为有从生理性至病理性心脏扩大的连续性，故区别不总是很清楚。运动员心脏与心肌病的左室间隔厚度重叠范围为
+男性13~15mm
+男性13~15mm
+女性11~13mm
+女性11~13mm
+在这个重叠范围，若存在二尖瓣收缩期前向运动，强烈提示肥厚型心肌病。此外，心肌病的舒张功能指标可能出现异常，而运动员心脏通常保持正常。
+一般来说，超声心动图改变与训练水平和心血管功率相关性较差。常检出轻度二尖瓣反流和三尖瓣反流。值得注意的是，减少体育锻炼会导致运动员心脏患者的心脏扩大出现消退，但心肌病患者不会。
+运动超声心动图可能有助于区分运动员的心脏和扩张型心肌病。 在一项研究中，运动期间左心室射血分数(LVEF)变化≤11%和运动期间峰值LVEF≤63%可预测扩张型心肌病，其敏感性为85.7%，特异性为92%（2）。
+
+【心脏磁共振 (CMR) 成像】
+尽管有待大型研究的证实，但迄今为止的数据表明，CMR 也可能有助于区分运动员的心脏和心肌病。在肥厚型心肌病 (3) 中，心脏磁共振可以识别超声心动图上未发现的局灶性肥厚，特别是在心尖、前游离壁和后间隔。在一些肥厚型心肌病患者中，注射造影剂后的延迟成像可能会显示出典型的中壁纤维化模式，尤其是在表现出最大肥厚的左心室壁节段。然而，高达 60% 的肥厚型心肌病患者没有这一发现。
+CMR 延迟增强在非缺血性扩张型心肌病中也很明显，可能有助于区分扩张型心肌病和运动员心脏。然而，68% 的经基因证实的扩张型心肌病患者没有这一发现。T1 和 T2 映射、细胞外体积量化、晚期钆增强、变形成像和扩散张量成像都是区分运动员心脏和肥厚性心肌病的有希望的技术。需要进一步的研究来更好地确定这些技术检测运动员肥厚型心肌病的能力(4, 5）。
+虽然通过负荷试验测量的运动能力不能区分运动员心脏和扩张型心肌病，但在心脏磁共振成像上观察到的运动时心脏收缩储备降低可能有助于确定运动员扩张型心肌病的诊断。
+
+【负荷试验】
+在进行运动负荷试验时，在亚极量负荷中心率仍维持比正常低，在极量负荷中心率增快与非运动员相当，在运动后迅速恢复。血压反应是正常的，如果：
+收缩压升高
+收缩压升高
+舒张压下降
+舒张压下降
+平均血压相对保持不变
+平均血压相对保持不变
+许多静息心电图改变在运动时减少或消失；此发现对运动员心脏是唯一的，它可同病理状况相鉴别。然而，T波倒置的假性正常化可反映心肌缺血，因而在老年运动员中应进行进一步检查。 但是，正常的运动负荷试验结果并不能排除心肌病。
+
+【运动员心脏与心肌病鉴别的特点】
+运动员心脏与心肌病鉴别的特点
+运动员心脏
+左室间隔厚度*
+男性，<13mm
+女性，<11mm
+男性，>15mm
+女性，>13mm
+左室舒张末内径†
+<60mm
+>70mm
+舒张功能
+正常（E：A比率>1‡）
+异常（E：A比率<1）
+室间隔肥厚
+不对称（在肥厚型心肌病中）
+可能存在
+对运动的血压反应
+收缩压反应正常或降低
+去适应作用
+左室肥厚复原
+无左室肥厚复原
+*男性13～15mm，女性11～13mm的值是不确定的。
+†60～70mm的范围是不确定的。
+‡ E:A 比率=早期与晚期心房经二尖瓣血流速度的比率。
+*男性13～15mm，女性11～13mm的值是不确定的。
+†60～70mm的范围是不确定的。
+‡ E:A 比率=早期与晚期心房经二尖瓣血流速度的比率。
+
+【诊断参考】
+1.Palermi S, Cavarretta E, D’Ascenzi F, et al: Athlete's Heart: A cardiovascular step-by-step multimodality approach.Rev Cardiovasc Med24(5): 151, 2023.https://doi.org/10.31083/j.rcm2405151
+1.Palermi S, Cavarretta E, D’Ascenzi F, et al: Athlete's Heart: A cardiovascular step-by-step multimodality approach.Rev Cardiovasc Med24(5): 151, 2023.https://doi.org/10.31083/j.rcm2405151
+2.Millar LM, Fanton Z, Finocchiaro G, et al: Differentiation between athlete's heart and dilated cardiomyopathy in athletic individuals.Heart106(14):1059–1065, 2020. doi: 10.1136/heartjnl-2019-316147
+2.Millar LM, Fanton Z, Finocchiaro G, et al: Differentiation between athlete's heart and dilated cardiomyopathy in athletic individuals.Heart106(14):1059–1065, 2020. doi: 10.1136/heartjnl-2019-316147
+3.Czimbalmos C, Csecs I, Toth A, et al: The demanding grey zone: Sport indices by cardiac magnetic resonance imaging differentiate hypertrophic cardiomyopathy from athlete's heart.PLoS ONE14(2): e0211624.2019.
+3.Czimbalmos C, Csecs I, Toth A, et al: The demanding grey zone: Sport indices by cardiac magnetic resonance imaging differentiate hypertrophic cardiomyopathy from athlete's heart.PLoS ONE14(2): e0211624.2019.
+4.Bakogiannis C, Mouselimis D, Tsarouchas A, et al: Hypertrophic cardiomyopathy or athlete's heart?A systematic review of novel cardiovascular magnetic resonance imaging parameters.Eur J Sports SciDec 2;1–12, 2021. doi: 10.1080/17461391.2021.2001576
+4.Bakogiannis C, Mouselimis D, Tsarouchas A, et al: Hypertrophic cardiomyopathy or athlete's heart?A systematic review of novel cardiovascular magnetic resonance imaging parameters.Eur J Sports SciDec 2;1–12, 2021. doi: 10.1080/17461391.2021.2001576
+5.Baggish AL, Battle RW, Beaver TA, et al: Recommendations on the use of multimodality cardiovascular imaging in young adult competitive athletes: A report from the American Society of Echocardiography in collaboration with the Society of Cardiovascular Computed Tomography and the Society for Cardiovascular Magnetic Resonance.J Am Soc Echocardiogr33 (5): 523–549, 2020.doi: 10.1016/j.echo.2020.02.009
+5.Baggish AL, Battle RW, Beaver TA, et al: Recommendations on the use of multimodality cardiovascular imaging in young adult competitive athletes: A report from the American Society of Echocardiography in collaboration with the Society of Cardiovascular Computed Tomography and the Society for Cardiovascular Magnetic Resonance.J Am Soc Echocardiogr33 (5): 523–549, 2020.doi: 10.1016/j.echo.2020.02.009
+
+【运动员心脏的治疗】
+可能在去适应作用阶段需监测LV复原过程
+可能在去适应作用阶段需监测LV复原过程
+虽然不需要治疗，但可能需要进行3个月的减训期以监测左心室的消退情况，以此将该综合征与心肌病区分开。这种停止训练的去适应过程可严重干扰运动员的生活，因此可能遇到阻力。
+
+【运动员心脏的预后】
+尽管总体结构变化类似于某些心脏疾病，但通常没有明显的不良反应。然而，许多研究发现，参加耐力和混合运动的患者发生心房颤动的风险增加 (1)。55岁以下的运动员风险更高（2)。高质量研究中尚未记录风险增加的运动剂量。在大多数病例中，结构改变和心动过缓会随着停止训练而消退，然而高达20%的优秀运动员在停止训练后仍残留有心腔扩大。由于缺乏长期数据，这引发了关于运动员心脏是否真正良性的问题。
+
+【预后参考】
+1.La Gerche A, Wasfy MM, Brosnan MJ, et al: The Athlete's Heart—Challenges and Controversies: JACC Focus Seminar 4/4.J Am Coll Cardiol80(14):1346–1362, 2022.doi: 10.1016/j.jacc.2022.07.014
+1.La Gerche A, Wasfy MM, Brosnan MJ, et al: The Athlete's Heart—Challenges and Controversies: JACC Focus Seminar 4/4.J Am Coll Cardiol80(14):1346–1362, 2022.doi: 10.1016/j.jacc.2022.07.014
+2.Newman W, Parry-Williams G, Wiles J, et al: Risk of atrial fibrillation in athletes: a systematic review and meta-analysis.Br J Sports Med55(21):1233–1238, 2021.doi:10.1136/bjsports-2021-103994
+2.Newman W, Parry-Williams G, Wiles J, et al: Risk of atrial fibrillation in athletes: a systematic review and meta-analysis.Br J Sports Med55(21):1233–1238, 2021.doi:10.1136/bjsports-2021-103994
+强化体育锻炼增加左室心肌质量，心室壁厚度和心腔大小，但收缩和舒张功能保持正常。
+强化体育锻炼增加左室心肌质量，心室壁厚度和心腔大小，但收缩和舒张功能保持正常。
+静息心率缓慢，可能于胸骨左下缘闻及收缩期喷射性杂音及第三心音（S3）；若出现第四心音（S4）应视为异常。
+静息心率缓慢，可能于胸骨左下缘闻及收缩期喷射性杂音及第三心音（S3）；若出现第四心音（S4）应视为异常。
+心电图显示心动过缓和心肌肥厚的表现，有时还可发现其他表现，如窦性心律不齐，房性或室性异位心律，以及I度或II度房室（AV）传导阻滞。
+心电图显示心动过缓和心肌肥厚的表现，有时还可发现其他表现，如窦性心律不齐，房性或室性异位心律，以及I度或II度房室（AV）传导阻滞。
+运动员心脏引起的结构和心电图改变无症状；如果出现心血管症状（例如，胸痛、呼吸困难、心悸）或三度房室传导阻滞，则需排查潜在心脏疾病。
+运动员心脏引起的结构和心电图改变无症状；如果出现心血管症状（例如，胸痛、呼吸困难、心悸）或三度房室传导阻滞，则需排查潜在心脏疾病。

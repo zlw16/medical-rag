@@ -1,0 +1,36 @@
+标题：肝脏良性肿瘤
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/liver-masses-and-granulomas/benign-liver-tumors
+============================================================
+
+肝脏良性肿瘤相对较为常见。大部分没有症状，少数可引起肝大、右上腹不适或腹腔内出血。大部分在行超声或其他扫描检查时被偶然发现 (见影像学检查)。肝脏检查多正常或仅轻微异常。诊断主要依赖于影像学检查，但有时需要肝活检。仅在一些特殊情况下需要治疗。
+
+【肝细胞腺瘤】
+肝细胞腺瘤是需要识别的最重要的良性肿瘤。多发于育龄妇女，尤其是服用口服避孕药者，可能与雌激素的作用有关 (1)。
+大部分患者没有症状，但较大腺瘤可引起右上腹不适。较大的腺瘤（通常>5厘米）可能因破裂导致腹腔内出血，从而出现腹膜炎和休克。腺瘤很少会转变成恶性肿瘤（1）。
+超声或CT检查可提示诊断，但有时需靠肝活检确诊。钆塞酸增强磁共振成像可实现对肝胆系统的功能成像，其检测灵敏度优于CT，并能鉴别存在较高恶变风险的腺瘤亚型(2)。识别 β-catenin 亚型尤为重要，因为它有大约 10% 的恶性转化风险，应该切除（1）。
+使用避孕药导致的腺瘤可能随停药而缩小或消失。若腺瘤未消退、位于肝包膜下、直径>5 cm，或在男性患者中发现，通常建议进行手术切除（1）。
+
+【肝细胞腺瘤的参考文献】
+1.Frenette C, Mendiratta-Lala M, Salgia R, Wong RJ, Sauer BG, Pillai A.ACG Clinical Guideline: Focal Liver Lesions.Am J Gastroenterol.2024;119(7):1235-1271.doi:10.14309/ajg.0000000000002857.doi:10.14309/ajg.0000000000002857
+1.Frenette C, Mendiratta-Lala M, Salgia R, Wong RJ, Sauer BG, Pillai A.ACG Clinical Guideline: Focal Liver Lesions.Am J Gastroenterol.2024;119(7):1235-1271.doi:10.14309/ajg.0000000000002857.doi:10.14309/ajg.0000000000002857
+2.Bieze M , van den Esschert JW , Nio CY, et al: Diagnostic accuracy of MRI in differentiating hepatocellular adenoma from focal nodular hyperplasia: Prospective study of the additional value of gadoxetate disodium.AJR Am J Roentgenol.199:26– 34, 2012.doi: 10.2214/AJR.11.7750
+2.Bieze M , van den Esschert JW , Nio CY, et al: Diagnostic accuracy of MRI in differentiating hepatocellular adenoma from focal nodular hyperplasia: Prospective study of the additional value of gadoxetate disodium.AJR Am J Roentgenol.199:26– 34, 2012.doi: 10.2214/AJR.11.7750
+
+【局灶性结节性增生】
+这种良性肝脏肿块是第二常见的实性肝病变（1）。诊断通常基于肝胆造影的 MRI 或 CT；典型表现是具有中央疤痕的病变。但可能需要活检来确认。除非出现临床症状，否则通常无需治疗。
+
+【焦点结节性肝细胞增生参考文献】
+1.Vilgrain V, Uzan F, Brancatelli G, Federle MP, Zappa M, Menu Y.Prevalence of hepatic hemangioma in patients with focal nodular hyperplasia: MR imaging analysis.Radiology.2003;229(1):75-79.doi:10.1148/radiol.2291021284
+1.Vilgrain V, Uzan F, Brancatelli G, Federle MP, Zappa M, Menu Y.Prevalence of hepatic hemangioma in patients with focal nodular hyperplasia: MR imaging analysis.Radiology.2003;229(1):75-79.doi:10.1148/radiol.2291021284
+肝血管瘤通常体积较小且无症状，成人发病率可达20%，女性更为多见（1）。当它们>4cm时更可能出现症状，症状包括不适、饱胀及少见的厌食、恶心、早饱、继发于出血或血栓的疼痛。血管瘤通常具有特征性血管表现。血管瘤是在超声检查、CT或MRI中偶然发现的。CT 通常显示边界清楚的低密度肿块；使用造影剂时，早期周边增强，随后是离心增强。通常不需要活检，也无需进行治疗。如果症状导致不适或血管瘤迅速扩大，则可以考虑手术切除。
+在婴儿中，血管瘤通常会自行消退。然而，较大的肝血管瘤偶尔会引起足够的动静脉分流，导致心力衰竭，有时还会引起消耗性凝血病。治疗可能包括β受体阻滞剂、全身性皮质类固醇和其他免疫调节疗法，必要时进行心力衰竭的药物治疗，手术切除，选择性肝动脉栓塞，以及极少数情况下进行肝移植(2)。
+
+【血管瘤参考文献】
+1.Frenette C, Mendiratta-Lala M, Salgia R, Wong RJ, Sauer BG, Pillai A.ACG Clinical Guideline: Focal Liver Lesions.Am J Gastroenterol.2024;119(7):1235-1271.doi:10.14309/ajg.0000000000002857.doi:10.14309/ajg.0000000000002857
+1.Frenette C, Mendiratta-Lala M, Salgia R, Wong RJ, Sauer BG, Pillai A.ACG Clinical Guideline: Focal Liver Lesions.Am J Gastroenterol.2024;119(7):1235-1271.doi:10.14309/ajg.0000000000002857.doi:10.14309/ajg.0000000000002857
+2.Northup PG, Garcia-Pagan JC, Garcia-Tsao G, et al. Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Patients With Liver Disease: 2020 Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology.2021;73(1):366-413.doi:10.1002/hep.31646
+2.Northup PG, Garcia-Pagan JC, Garcia-Tsao G, et al. Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Patients With Liver Disease: 2020 Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology.2021;73(1):366-413.doi:10.1002/hep.31646
+
+【其他良性肿瘤】
+肝脂肪瘤（通常无症状）和局灶性纤维性肿瘤（例如纤维瘤）很少见。
+良性胆管腺瘤很少见，无关紧要，通常是偶然发现的。它们有时被误认为是转移性癌症。

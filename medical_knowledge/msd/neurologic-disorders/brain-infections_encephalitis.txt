@@ -1,0 +1,182 @@
+标题：脑炎
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/brain-infections/encephalitis
+============================================================
+
+(参见颅内感染介绍。）
+
+【脑炎的病因】
+
+【原发病毒感染】
+引起原发性脑炎的病毒科直接入侵大脑。这些感染可能是
+流行性（如虫媒病毒、埃可病毒、柯萨奇病毒、脊髓灰质炎病毒，多见于某些发展中国家）
+流行性（如虫媒病毒、埃可病毒、柯萨奇病毒、脊髓灰质炎病毒，多见于某些发展中国家）
+偶发性（例如，由于单纯疱疹、水痘带状疱疹、淋巴细胞性脉络丛脑膜炎、狂犬病或腮腺炎病毒引起）
+偶发性（例如，由于单纯疱疹、水痘带状疱疹、淋巴细胞性脉络丛脑膜炎、狂犬病或腮腺炎病毒引起）
+蚊传播的虫媒病毒引起的脑炎通常在气候变暖春季、夏季和初秋多见（见表一些虫媒病毒脑炎）。美国的年发病人数从150到>4 000例/年不等，尤以儿童多见。多数病例为群发。
+
+【一些虫媒病毒性脑炎】
+一些虫媒病毒性脑炎
+基肯孔雅热
+佛罗里达州、波多黎各、美属维尔京群岛
+非洲、印度、关岛、东南亚、新几内亚、中国、墨西哥、中美洲留尼汪群岛、欧洲有限的区域常见
+总体<1%，但在>60岁的患者中，症状出现后3个月内死亡风险增加，包括死于脑血管病、缺血性心脏病和糖尿病*
+美国旅行者到访流行地区后发生的脑炎应该考虑
+会导致严重的脑炎，甚至死亡，尤其是婴儿和65岁以上的人群
+科罗拉多蜱传热病毒
+美国西部和加拿大海拔4,000~10,000英尺的地区
+很少导致死亡
+导致非特异性发热性疾病，很少并发脑膜炎或脑炎。
+日本脑炎病毒
+亚洲和西太平洋;在美国不常见(主要是从流行地区返回的旅客)
+总体上不足1％，但严重病例高达30％†
+主要影响儿童
+通常是轻度和自限性的，但严重病例约占1/250
+在流行地区接种疫苗，并建议前往这些地区的旅客使用疫苗
+拉克罗斯病毒（加利福尼亚病毒）
+主要在美国中北部，但广泛传播
+大概<1%‡
+可能被低估
+大多数虫媒病毒性脑炎儿童病例
+圣路易脑炎病毒
+主要在美国中部和东南部的市区，以及西部各州
+发生于周期性的城市流行病； 否则零星而罕见
+Powassan病毒
+主要分布在美国东北部各州和五大湖地区
+加拿大东南部和俄罗斯(西伯利亚东南部，符拉迪沃斯托克东北部)
+约 10 至 15%§
+虽然罕见，但自2007年以来似乎有所增加;发生在春末到秋中，这是蜱虫最活跃的时候
+脑炎患者，特别是有蜱虫叮咬史、长时间在户外活动和/或居住在流行地区或最近去过流行地区的患者，应考虑
+蜱传脑炎病毒
+北亚，俄罗斯和欧洲许多地方
+通常为1-2％，但根据亚型而有所不同（0.5-35％）¶
+病例多见于早春到夏末，这是蜱虫最活跃的时候。
+≥50岁的人群发病率最高，症状最严重
+从疫区抵达后4周内患有非特异性发热性疾病并进展为神经侵袭性疾病的旅客，并可能接触过蜱虫，应怀疑该疾病
+委内瑞拉马脑炎
+主要分布于南美和中美洲的部分地区； 在美国很少见（主要是从流行地区返回的旅行者）
+0–1％[a]，主要发生于儿童
+马可用疫苗;用于有危险的实验室工作人员的调查疫苗
+西尼罗河病毒
+遍及美国大陆和北美其他地区
+非洲、欧洲、中东和西亚
+约 9% 的患者受累中枢神经系统 (CNS)[b]
+1999年首次出现，截至2017年从东海岸蔓延到所有西部各州
+东方马脑炎病毒
+美国东部； 五大湖州的一些案例
+大约50‒70%[c]
+每10～20年在幼儿和>55岁人群中小规模流行一次
+西方马脑炎病毒
+由于某种未知原因，1988年后在美国消失
+寨卡病毒
+佛罗里达
+南美洲、中美洲、加勒比群岛、太平洋群岛、佛得角（非洲西北海岸的一个岛屿国家）、东南亚
+自 2018 年以来，美国大陆尚未出现寨卡病毒本地传播病例（[d]参考）
+可能导致登革热样疾病，并与受感染母亲产下的婴儿发生吉兰-巴雷综合征、严重脑损害和小头畸形有关
+*Cerqueira-Silva T, Pescarini JM, Cardim CL, et al: Risk of death following chikungunya virus disease in the 100 million Brazilian cohort, 2015–18: A matched cohort study and self-controlled case series.Lancet Infectious Diseases25(5):504-513, 2024.
+†LaBeaud AD, Bashir F, King CH: Measuring the burden of arboviral diseases: The spectrum of morbidity and mortality from four prevalent infections.Population Health Metrics9:1, 2011.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3024945/pdf/1478-7954-9-1.pdf
+‡Vahey GV, Lindsey NP, Staples JE, et al:: La Crosse virus disease in the United States, 2003–2019.Am J Trop Med Hyg105(3):807-812, 2021.doi: 10.4269/ajtmh.21-0294
+§Centers for Disease Control and Prevention: Powassan virus.Historic data (2004–2023).Accessed July 5, 2024.
+¶Hills SL, Poehling KA, Chen WH, et al: Tick-borne encephalitis vaccine: Recommendations of the Advisory Committee on Immunization Practices, United States, 2023.MMWR Recommen Rep72(5):1-29, 2023.
+[a]Centers for Disease Control and Prevention: Venezuelan equine encephalitis—Colombia, 1995.MMWR44(39):721-724, 1995
+[b]Fagre AC, Lyons S, Staples JE, et al: West Nile virus and other nationally notifiable arboviral diseases—United States, 2021.MMWR72(34):901-906, 2023.
+[c]Centers for Disease Control and Prevention: Eastern Equine Encephalitis Virus.Accessed July 5, 2024.
+[d]Zika Cases in the United States.Centers for Disease Control and Prevention.Accessed May 31, 2024.
+*Cerqueira-Silva T, Pescarini JM, Cardim CL, et al: Risk of death following chikungunya virus disease in the 100 million Brazilian cohort, 2015–18: A matched cohort study and self-controlled case series.Lancet Infectious Diseases25(5):504-513, 2024.
+†LaBeaud AD, Bashir F, King CH: Measuring the burden of arboviral diseases: The spectrum of morbidity and mortality from four prevalent infections.Population Health Metrics9:1, 2011.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3024945/pdf/1478-7954-9-1.pdf
+‡Vahey GV, Lindsey NP, Staples JE, et al:: La Crosse virus disease in the United States, 2003–2019.Am J Trop Med Hyg105(3):807-812, 2021.doi: 10.4269/ajtmh.21-0294
+§Centers for Disease Control and Prevention: Powassan virus.Historic data (2004–2023).Accessed July 5, 2024.
+¶Hills SL, Poehling KA, Chen WH, et al: Tick-borne encephalitis vaccine: Recommendations of the Advisory Committee on Immunization Practices, United States, 2023.MMWR Recommen Rep72(5):1-29, 2023.
+[a]Centers for Disease Control and Prevention: Venezuelan equine encephalitis—Colombia, 1995.MMWR44(39):721-724, 1995
+[b]Fagre AC, Lyons S, Staples JE, et al: West Nile virus and other nationally notifiable arboviral diseases—United States, 2021.MMWR72(34):901-906, 2023.
+[c]Centers for Disease Control and Prevention: Eastern Equine Encephalitis Virus.Accessed July 5, 2024.
+[d]Zika Cases in the United States.Centers for Disease Control and Prevention.Accessed May 31, 2024.
+在美国，最常见的散发性脑炎是单纯疱疹病毒造成的。每年有数百至数千的病例。多数源于HSV-1感染，但有免疫缺陷的病人HSV-2较为常见。 HSV脑炎发生在一年之内任何时候，通常<20岁或>40岁的患者易受累，如不治疗往往是致命的。
+狂犬病仍然是发展中国家脑炎的重要原因，在美国也有少数脑炎病例。
+脑炎也可发生，作为潜伏或亚临床病毒感染晚期重新激活的结果。最常见的是
+HIV感染后的脑病和痴呆
+HIV感染后的脑病和痴呆
+亚急性硬化性全脑炎（在麻疹病毒感染数年后发病，发病机制可能是既往病毒感染的再次激活，现在西方国家很罕见）
+亚急性硬化性全脑炎（在麻疹病毒感染数年后发病，发病机制可能是既往病毒感染的再次激活，现在西方国家很罕见）
+进行性多灶性白质脑病（由 JC 病毒再激活引起；特别是在 HIV 感染终末期患者或免疫抑制患者中）
+进行性多灶性白质脑病（由 JC 病毒再激活引起；特别是在 HIV 感染终末期患者或免疫抑制患者中）
+单纯疱疹1型和带状疱疹脑炎
+单纯疱疹1型和带状疱疹脑炎
+
+【免疫反应】
+脑炎也可为特定病毒感染或疫苗接种后引起的继发性免疫性并发症。脑和脊髓的炎性脱髓鞘可在病毒感染或注射疫苗后1至3周发生（急性播散性脑脊髓炎）；免疫系统攻击脑内与病原相似的一种或多种抗原。 这种并发症最常见的病因曾包括麻疹病毒、风疹、水痘病毒和腮腺炎病毒（因儿童普遍疫苗接种而日趋少见）；天花疫苗、活病毒疫苗（如以前从绵羊或山羊大脑中获取的狂犬病毒疫苗）。在美国，大多数病例目前是由流感A型或B型病毒、肠病毒、EB病毒（1）、疱疹病毒（2）、甲型肝炎或乙型肝炎病毒或HIV引起的。免疫介导的脑炎也发生在癌症和其他自身免疫性疾病患者中。
+很少见，新冠肺炎患者出现了明显的脑炎，这是由新型流行性严重急性呼吸系统综合症冠状病毒病毒（SARS-CoV2）引起的；其机制尚不清楚，但免疫学因素可能对明显的脑炎机制有所贡献（2）。
+神经元膜蛋白的自身抗体引起的脑病（如N-甲基-d-天冬氨酸受体[NMDA]）与病毒性脑炎类似。研究表明，抗 NMDAR 脑炎比病毒性脑炎更常见。抗 NMDAR 脑炎最早见于患有卵巢畸胎瘤的年轻女性，但可以发生在男女和任何年龄。抗 NMDAR 脑炎也作为 HSV 脑炎的感染后并发症发生，导致 HSV 感染后数周内临床症状下降。
+
+【病因参考文献】
+1.Schwenkenbecher P, Skripuletz T, Lange P, et al; German Network for Research on Autoimmune Encephalitis: Intrathecal antibody production against Epstein-Barr, herpes simplex, and other neurotropic viruses in autoimmune encephalitis.Neurol Neuroimmunol Neuroinflamm8(6):e1062, 2021.doi: 10.1212/NXI.0000000000001062
+1.Schwenkenbecher P, Skripuletz T, Lange P, et al; German Network for Research on Autoimmune Encephalitis: Intrathecal antibody production against Epstein-Barr, herpes simplex, and other neurotropic viruses in autoimmune encephalitis.Neurol Neuroimmunol Neuroinflamm8(6):e1062, 2021.doi: 10.1212/NXI.0000000000001062
+2.Meinhardt J, Streit S, Dittmayer C, et al: The neurobiology of SARS-CoV-2 infection.Nat Rev Neurosci25(1):30-42, 2024.doi: 10.1038/s41583-023-00769-8
+2.Meinhardt J, Streit S, Dittmayer C, et al: The neurobiology of SARS-CoV-2 infection.Nat Rev Neurosci25(1):30-42, 2024.doi: 10.1038/s41583-023-00769-8
+
+【脑炎的病理生理学】
+急性脑炎时，病人大脑半球、脑干、小脑会出现炎症反应和脑水肿，有时脊髓上也会有上述该变；严重感染时还会出现点状出血。病毒直接入侵大脑通常会损害神经元，有时会产生显微镜下可见的包涵体，并引发炎症，这种炎症在病毒清除后仍可能持续存在（1）。严重的感染，尤其是未经治疗的单纯疱疹病毒（HSV）脑炎，可导致出血性脑坏死。
+急性播散性脑脊髓炎的特征是脊髓静脉周围脱髓鞘和脑内无法找到病毒。
+
+【病理生理学参考文献】
+1.Godinho-Silva C, Cardoso F, Veiga-Fernandes H: Neuro-immune cell units: A new paradigm in physiology.Annu Rev Immunol237:19-46, 2019.doi: 10.1146/annurev-immunol-042718-041812
+1.Godinho-Silva C, Cardoso F, Veiga-Fernandes H: Neuro-immune cell units: A new paradigm in physiology.Annu Rev Immunol237:19-46, 2019.doi: 10.1146/annurev-immunol-042718-041812
+
+【脑炎的症状和体征】
+脑炎症状包括发热、头痛、精神状态改变，经常伴有癫痫和局灶性神经症状。发病之前可能有胃肠道和呼吸道的前驱症状。脑膜刺激征较轻，且不如其他症状常见。
+癫痫持续状态，尤其是惊厥性癫痫持续状态或昏迷，提示严重的脑部炎症和预后不良。
+嗅觉癫痫，以嗅觉先兆为特征（如臭鸡蛋、烤肉味道），提示HSV脑炎所致颞叶受累。
+
+【脑炎的诊断】
+脑脊液（CSF）检测
+脑脊液（CSF）检测
+病人有无法解释的精神状态改变时，需怀疑脑炎。 根据临床表现的提示和鉴别诊断的需要，需行辅助检查，但MRI和CSF分析是必要的（包括HSV和其他病毒的PCR[polymerase chain reaction]检查），需行其他检查（如血清学检查）以明确病毒种类。 尽管可行多种检查，很多脑炎的病因仍不明确。
+HIV/AIDS 或其他免疫功能低下的患者应考虑巨细胞病毒脑炎，并可通过 PCR 诊断。
+增强MRI对于早期HSV脑炎的诊断，敏感度较高，在HSV最易侵犯的眶额、颞叶部位显示脑水肿。MRI在进行性多灶性白质脑病中可显示脱髓鞘病变，在西尼罗和东方马脑炎中显示基底节和丘脑的异常。 MRI也可用以排除与病毒性脑炎相似的其他疾病（如脑脓肿、矢状窦血栓形成）。
+CT对于HSV脑炎的敏感度较MRI低很多，但它的可行性较好，可在短时间内得到结果，并且可排除一些腰穿高风险的疾病如颅内占位、脑积水和脑水肿等。
+
+【CSF检查】
+做腰椎穿刺（脊椎穿刺） (1, 2) 。如存在脑炎，CSF的结果应为淋巴细胞数目增多，糖正常，蛋白稍高，革兰氏染色和培养阴性，与无菌性脑膜炎相似。严重感染时表现为多核细胞增多。 CSF的异常通常发生在临床症状后8～24小时。出血性坏死可使红细胞进入脑脊液和蛋白增高。当水痘-带状疱疹病毒、流行性腮腺炎或淋巴细胞性脉络丛脑膜炎病毒感染时，CSF中糖降低。
+脑脊液样本应通过聚合酶链式反应（PCR）进行病毒鉴定，或在疑似虫媒病毒感染的情况下，检测脑脊液中的抗病毒抗体。对于单纯疱疹病毒1型（HSV-1）、单纯疱疹病毒2型（HSV-2）、水痘带状疱疹病毒、巨细胞病毒、肠道病毒和JC病毒，脑脊液PCR检测是首选的诊断测试方法。CSF中HSV的PCR检查是特异而敏感的。 但是其结果可能需较长时间才能获得。尽管有先进的技术，但由于但由于多种因素，且并非均为技术因素（如腰穿操作时的轻度创伤，CSF中带有血液，可抑制PCR扩增），可导致假阴性或假阳性结果。HSV-1脑炎早期可能出现假阴性结果；如果根据临床发现怀疑假阴性结果，应在48至72小时内重复检测。最近开发的多重 PCR 过程可以同时检测多种病毒和其他感染因子，并在几个小时内提供诊断信息。多重 PCR 结果可能需要通过常规 PCR 来确认。
+CSF病毒培养可得到肠道病毒，而其他大多数病毒一般无法培养。 出于这个原因，CSF 病毒培养已被 PCR 取代，很少用于诊断。
+CSF的病毒IgM滴度常用于诊断急性感染，特别是西尼罗脑炎，可靠性高于PCR；由于重新激活的水痘-带状疱疹病毒感染，脑炎的CSF IgG和IgM滴度可能比PCR更敏感。急性期和恢复期的脑脊液和血液检查应隔开数周进行，从而发现特定病毒滴度的增加。
+脑活检适用于病情
+正在恶化的患者
+正在恶化的患者
+对阿昔洛韦或其他抗菌药物的治疗反应不佳
+对阿昔洛韦或其他抗菌药物的治疗反应不佳
+有尚未确诊的病变
+有尚未确诊的病变
+然而，除非在MRI或CT上看到异常病灶，脑活检阳性率低。
+
+【诊断参考】
+1.Venkatesan AR, Tunkel KC, Bloch AS, et al: Case definitions, diagnostic algorithms, and priorities in encephalitis: Consensus statement of the International Encephalitis Consortium.Clin Infect Dis57(8):1114–1128, 2013.doi.org/10.1093/cid/cit458
+1.Venkatesan AR, Tunkel KC, Bloch AS, et al: Case definitions, diagnostic algorithms, and priorities in encephalitis: Consensus statement of the International Encephalitis Consortium.Clin Infect Dis57(8):1114–1128, 2013.doi.org/10.1093/cid/cit458
+2.Funk S, Knapp JK, Lebo E, et al: Combining serological and contact data to derive target immunity levels for achieving and maintaining measles elimination.BMC Med17(1):180, 2109.doi: 10.1186/s12916-019-1413-7
+2.Funk S, Knapp JK, Lebo E, et al: Combining serological and contact data to derive target immunity levels for achieving and maintaining measles elimination.BMC Med17(1):180, 2109.doi: 10.1186/s12916-019-1413-7
+
+【治疗脑炎】
+支持治疗
+支持治疗
+阿昔洛韦用于治疗HSV或VZV脑炎
+阿昔洛韦用于治疗HSV或VZV脑炎
+脑炎的支持治疗包括控制体温、脱水，调整水电解质平衡和控制癫痫。应保持出入液量的平衡。
+由于很难通过PCR迅速鉴定HSV或水痘带状疱疹病毒，因此在检测确认前不应停止治疗。在排除单纯疱疹病毒脑炎和水痘带状疱疹病毒脑炎之前，应立即开始静脉注射阿昔洛韦，并通常持续14天，或直至排除这些病毒感染。阿昔洛韦毒性相对较低，但也会发生肝功能异常、骨髓抑制和一过性肾衰竭。使用阿昔洛韦时，应注意缓慢静脉使用（>1小时）并适当水化，可减少肾毒性的发生。如果怀疑有巨细胞病毒（例如，在免疫功能低下的患者中），通常在治疗开始前进行 PCR。巨细胞病毒性脑炎可用更昔洛韦和/或其他抗病毒药治疗。
+因为当患者病情危重时，细菌性中枢神经系统 感染往往难以排除，常进行经验性抗生素治疗，直到除外细菌性脑膜炎。
+如果临床医生怀疑脑炎是由免疫反应引起的（如急性播散性脑脊髓炎[感染后脑脊髓炎]），应立即开始治疗；它可能包括皮质类固醇（强的松或甲基强的松龙）和血浆交换或静脉注射免疫球蛋白。
+
+【脑炎的预后】
+病毒性脑炎恢复可能要花很长的时间。不同病因引起的脑炎，其死亡率不同，且相同病毒引起的脑炎在不同的年份流行强度也不同。永久性神经功能缺损在严重感染而幸存的患者中很常见。患者还可能出现病毒感染后记忆障碍（1）。
+
+【预后参考】
+1.Kvam KA, Stahl JP, Chow FC, et al: Outcome and sequelae of infectious encephalitis.J Clin Neurol20(1):23-36, 2024.doi: 10.3988/jcn.2023.0240
+1.Kvam KA, Stahl JP, Chow FC, et al: Outcome and sequelae of infectious encephalitis.J Clin Neurol20(1):23-36, 2024.doi: 10.3988/jcn.2023.0240
+引起传染性或偶发性感染的病毒可侵入并感染脑实质（导致脑炎）和/或触发感染后炎症性脱髓鞘（急性播散性脑脊髓炎）。
+引起传染性或偶发性感染的病毒可侵入并感染脑实质（导致脑炎）和/或触发感染后炎症性脱髓鞘（急性播散性脑脊髓炎）。
+脑炎导致发热、头痛和精神状态改变，常伴有癫痫发作和局灶性神经功能缺损。
+脑炎导致发热、头痛和精神状态改变，常伴有癫痫发作和局灶性神经功能缺损。
+行增强MRI和脑脊液检查。
+行增强MRI和脑脊液检查。
+除非排除HSV脑炎和VZV脑炎，否则应立即予阿昔洛韦，持续14天或排除上述感染。
+除非排除HSV脑炎和VZV脑炎，否则应立即予阿昔洛韦，持续14天或排除上述感染。
+治疗免疫反应性脑炎，可使用糖皮质激素、血浆置换或静脉用免疫球蛋白。
+治疗免疫反应性脑炎，可使用糖皮质激素、血浆置换或静脉用免疫球蛋白。

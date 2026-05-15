@@ -1,0 +1,148 @@
+标题：婴幼儿心肺复苏（CPR）
+来源：https://www.msdmanuals.cn/professional/critical-care-medicine/cardiac-arrest-and-cardiopulmonary-resuscitation-cpr/cardiopulmonary-resuscitation-cpr-in-infants-and-children
+============================================================
+
+尽管实施了心肺复苏（CPR），婴幼儿院外心脏骤停的死亡率仍约为90% (1)。婴儿和儿童住院期间心脏骤停的死亡率约65％。单纯呼吸骤停死亡率20～25%。神经系统常严重受累。
+婴儿和儿童的儿科复苏方案是不同的。婴儿指南适用于<1 岁的患儿，儿童复苏方案适用于从 1 岁到体重 55 公斤或出现青春期迹象（定义为女性乳房发育和男性出现腋毛）的患儿。成人复苏方案适用于青春期后或体重>55 kg 的儿童。大约50%到65%需要CPR的儿童年龄<1岁；其中，大多数年龄<6个月。
+围产期即刻使用的新生儿复苏将在别处讨论。约6%的新生儿在出生时就需要复苏；如果出生体重<1500 克，该比例会显著增加。
+该儿童大脑功能分类量表用于对心脏骤停后的神经功能预后进行分类。
+
+【儿童大脑功能分类评价表*】
+儿童大脑功能分类评价表*
+与年龄相称的功能
+学龄前儿童发育正常
+学龄儿童参加常规班级的学习
+轻度残疾
+能有与年龄相称水平的反应
+能控制的轻度神经系统疾患，不影响日常功能（如癫痫）
+学龄前儿童可能有轻度发育迟缓，但日常生活发育里程碑有>75% 高于第10个百分位
+学龄儿童在普通学校上学，但可能在与年龄不相适应的年级
+中度残疾
+在与年龄相称的功能水平以下
+神经系统疾患未能控制并严重限制活动
+学龄前儿童日常生活发育指标大部分低于第10个百分位
+学龄儿童能参加日常活动，但由于认知困难或学习障碍而在特殊班级就读
+严重残疾
+学龄前儿童日常生活发育指标低于第10个百分位，日常生活严重依赖别人
+学龄儿童可能存在严重损伤导致无法上学，且日常生活活动依赖他人
+学龄前和学龄儿童可能出现异常运动，包括无目的性动作，或对疼痛的去皮质或去大脑强直反应
+昏迷或植物状态
+*以任何单项标准的最差表现作为分类的依据。仅对源自神经疾患的缺陷进行评分。评估基于医疗记录或与看护人员的访谈。
+Adapted fromFiser DH.Assessing the outcome of pediatric intensive care.J Pediatr121(1):68-74, 1992.doi:10.1016/s0022-3476(05)82544-2
+ADLs=日常生活活动。
+*以任何单项标准的最差表现作为分类的依据。仅对源自神经疾患的缺陷进行评分。评估基于医疗记录或与看护人员的访谈。
+Adapted fromFiser DH.Assessing the outcome of pediatric intensive care.J Pediatr121(1):68-74, 1992.doi:10.1016/s0022-3476(05)82544-2
+ADLs=日常生活活动。
+遵循美国心脏协会关于婴儿和儿童心肺复苏的标准和指南（见表医疗专业人员的心肺复苏技术）。关于婴儿或儿童晕倒且可能发生心脏骤停后的处理流程，见图小儿综合急诊心脏救护。
+开始心肺复苏后，应对患者进行除颤并识别潜在心律。
+
+【小儿综合急诊心脏监护】
+小儿综合急诊心脏监护
+*如果受过训练的人员数量足够多，则应同时进行患者评估、CPR和激活应急反应系统。
+基于美国心脏协会的急救心脏救护综合流程。
+*如果受过训练的人员数量足够多，则应同时进行患者评估、CPR和激活应急反应系统。
+基于美国心脏协会的急救心脏救护综合流程。
+
+【参考文献】
+1.Jayaram N, McNally B, Tang F, Chan PS: Survival After Out-of-Hospital Cardiac Arrest in Children.J Am Heart Assoc4(10):e002122, 2015.doi:10.1161/JAHA.115.002122
+1.Jayaram N, McNally B, Tang F, Chan PS: Survival After Out-of-Hospital Cardiac Arrest in Children.J Am Heart Assoc4(10):e002122, 2015.doi:10.1161/JAHA.115.002122
+
+【儿童与成人心肺复苏的主要不同点】
+危重患儿出现心动过缓提示可能出现心搏骤停。新生儿、婴儿、幼儿在缺氧状态时更易发生心动过缓，而大年龄儿童最初则发生心动过速。心率<60次/分，且伴有灌注不良症状，即使在呼吸支持下症状未改善的婴儿或儿童，应进行心脏按压（见图婴儿和儿童胸部按压）。因传导阻滞所致的心动过缓并不常见。
+
+【胸部按压】
+在婴儿和儿童（青春期前或<55公斤）的胸外按压过程中，胸部按压深度为前后径的三分之一。大约4~5cm。体重>55 kg的青少年或儿童，推荐的按压深度与成人相同，即5至6厘米（另请参阅成人胸外按压）。
+婴儿和儿童的胸外按压方法也不同（见图婴儿和儿童的胸外按压）。婴儿和儿童的按压频率与成人类似，为每分钟100至120次。
+
+【婴幼儿胸外按压】
+婴幼儿胸外按压
+A：当有两个救援人员在场时，可用手掌围拢新生儿和小婴儿的胸廓，用并排的两个大拇指行胸外按压。如果新生儿特别小，大拇指可以上下重叠。
+B:单独的施救者可以使用两根手指进行婴儿胸外按压。在按压过程中，手指应该保持直立。对于新生儿，按压的部位有时会过低，比如在剑突下，而正确位置是稍低于乳头线。
+C：对儿童进行胸外按压时手的位置。
+(Adapted from American Heart Association: Standards and guidelines for CPR.Journal of the American Medical Association268:2251–2281,1992. Copyright 1992, American Medical Association.)
+对于不可电击节律，在建立心肺复苏（CPR）并确保足够的氧合和通气后，肾上腺素是首选药物（见一线药物），应在建立静脉（IV）或骨髓（IO）通道后尽快给药。予肾上腺素0.01mg/kg静注，每3-5分钟重复。指南建议对于不可电击心律，应立即建立骨髓内通路（IO）并给予肾上腺素，因为证据表明，儿童自主循环恢复率和生存率与首次肾上腺素给药的速度相关（1）。
+对于可电击心律（心室颤动[VF] 或无脉性室性心动过速[pVT]），如果除颤不成功，则继续进行 CPR，并每 3 到 5 分钟给予一次肾上腺素（0.01 mg/kg IV）。如果在使用肾上腺素后除颤无效，可以给予胺碘酮5 mg/kg静脉推注。对于顽固性心室颤动（VF）或无脉性室性心动过速（VT），胺碘酮可重复使用最多2次。如果没有胺碘酮，可以给予利多卡因，负荷剂量为1 mg/kg静脉注射，随后以20～50 mcg/kg/分钟的速率维持输注。胺碘酮和利多卡因均未显示能提高出院存活率。
+血压（BP）测量必须使用尺寸合适的袖带，重危患儿应予以有创动脉血压监测。
+由于血压随年龄变化，记忆收缩压正常下限（<第五百分位数）的简易指南如下：
+<1个月：60mmHg
+<1个月：60mmHg
+1个月至1年：70mmHg
+1个月至1年：70mmHg
+>1岁：70+(2×年龄[岁]）
+>1岁：70+(2×年龄[岁]）
+因此，一个5岁的儿童，低血压定义为血压<80mmHg（70+[2×5]）。非常重要的一点是，由于代偿机制更强（心率增快、全身血管阻力增加），儿童维持血压的时间更长。一旦低血压发生，心跳呼吸骤停可能迅速发生。应尽一切努力在出现休克代偿征象（如心率增快、四肢发凉、毛细血管再充盈时间>2秒、外周脉搏弱）但尚未发生低血压时就开始治疗。
+
+【设备与环境】
+设备尺寸、药物剂量和心肺复苏的参数随病人的年龄和体重而变化（见表医疗保健专业人员的心肺复苏技术、常用复苏药物和儿科复苏指南）。大小不同的设备有除颤电极、电极片、面罩、呼吸球囊、通气道、喉镜片、气管插管和吸引管。
+应测量体重而非估算；或者，可以使用市售的、根据身长校准以读取标准患者体重的测量带。一些测量带上标有推荐药物的剂量和不同体重的设备大小要求。剂量应向下取整；例如，一个2岁半的儿童应使用2岁儿童的剂量。
+
+【儿科复苏指南—机械措施】
+儿科复苏指南—机械措施
+年龄（岁）
+<12个月
+体重，标准（kg）
+按压技术
+拇指按压，双手环绕胸部（推荐）或2根手指按压
+通气道国际标准化组织（ISO）尺寸 P（单位：厘米）
+Laerdal尺寸或同等规格的面罩
+环状的0/1
+Rendell-Baker型号#1
+Rendell-Baker型号#2
+半球型套囊面罩#3
+半球型套囊面罩#4
+带储气袋的通气气囊，用于输送100%O2
+婴儿240mL
+儿童400–500mL
+成人1600mL
+喉镜片尺寸
+Miller 0
+直镜（推荐）或弯镜
+弯镜或直镜
+气管插管尺寸* 毫米
+不带套囊
+不带套囊
+喉罩气道和其他声门上气道装置*
+直接口咽型
+经气管内插管
+儿童扁桃体吸引管
+成人扁桃体吸引管
+10Fr
+* 请参考特定设备制造商的尺寸说明。
+ETT=气管内插管；Fr=French。
+Courtesy of Dr. B.Paes 医生和 M.Sullivan 医生，加拿大安大略省汉密尔顿市麦克马斯特大学汉密尔顿健康科学公司圣约瑟夫医院、儿童医院儿科和内科。
+* 请参考特定设备制造商的尺寸说明。
+ETT=气管内插管；Fr=French。
+Courtesy of Dr. B.Paes 医生和 M.Sullivan 医生，加拿大安大略省汉密尔顿市麦克马斯特大学汉密尔顿健康科学公司圣约瑟夫医院、儿童医院儿科和内科。
+
+【体温管理】
+由于相对体表面积较大且皮下组织较少，婴儿和儿童更容易流失热量。在心肺复苏和复苏后期间，中性的外部热环境（维持婴儿的体温和一个稳定的代谢状态，同时尽量减少氧气和能量的消耗）至关重要。核心体温<35°C低体温状态会使复苏难度增加。
+对于从院内和院外心脏骤停复苏后仍处于昏迷状态的儿童，美国心脏协会和美国儿科学会的指南建议采用治疗性低温（32至36°C）或正常体温（36至37.5°C——2,3）。应该积极治疗发热。
+
+【气道和通气】
+儿童的上呼吸道解剖结构与成人不同。头颅较大，面部、下颌骨和鼻孔较小，颈部相对较短。舌头相对于口较大，喉部位于颈部更高位置，向前成角。会厌较长，且气管最狭窄的部分位于环状软骨环处的声带下方，因此允许使用不带套囊的气管内导管。对于幼童，直喉镜片通常比弯喉镜片更能看清声带，因为幼儿喉部相对靠前，而会厌相对松软且长。现有证据不支持在院外心脏骤停的婴儿和儿童中使用高级气道干预措施比使用球囊面罩通气能改善患者的预后（4）。
+如果只有一名施救者在场，并且在进行复苏的婴儿和儿童身上没有放置高级气道，建议的胸外按压与通气比例为30:2；如果有多于一名施救者在场，则比例为15:2。这一建议与针对成人的建议形成对比，成人的按压与通气比例始终为30:2，且不受救援者数量的影响。
+有了高级气道，2020年国际复苏联络委员会（ILCOR）的儿科心脏骤停复苏指南建议通气速度为每分钟20至30次（婴儿的通气速度更快) (3)。然而，这一修订后的建议是基于对住院患者的研究，在院前护理方面仍存在争议 (5)。许多儿科院前护理研究人员继续建议每分钟 10 次呼吸的通气率。
+心室停搏时，不使用阿托品及起搏治疗。
+心室颤动(VF) 和无脉搏室性心动过速(VT) 发生在大约 15% 到 20% 的儿科心脏骤停中 (6)。儿童不应使用血管加压素。使用除颤时，电击能量小于成人能量，波形可以是双相的（推荐）或单相的。对于任一种波形，推荐的首次电击能量为 2 焦耳/kg，后续尝试增加至 4 焦耳/kg（如有必要—见成人除颤）。最大推荐能量为10焦耳/kg或最大成人剂量（双相除颤仪200焦耳和单相除颤仪360焦耳）。
+自动体外除颤仪（AED）的成人导联可用于儿童，但配备儿童导联的AED（最大双相电击能量50焦耳）是8岁以下儿科患者的首选。目前的指南建议儿科患者尽可能使用手动除颤器，但如果手动除颤器无法立即使用，则可以使用AED（带或不带儿科电缆）（3)。关于电极片放置位置，请参见成人除颤。
+
+【治疗参考文献】
+1.Topjian AA, Raymond TT, Atkins D, et al: Part 4: Pediatric Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation142(16_suppl_2):S469–S523, 2020.doi:10.1161/CIR.0000000000000901
+1.Topjian AA, Raymond TT, Atkins D, et al: Part 4: Pediatric Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation142(16_suppl_2):S469–S523, 2020.doi:10.1161/CIR.0000000000000901
+2.Granfeldt A, Holmberg MJ, Nolan JP, Soar J, Andersen LW; International Liaison Committee on Resuscitation (ILCOR) Advanced Life Support Task Force: Targeted temperature management in adult cardiac arrest: Systematic review and meta-analysis.Resuscitation167:160–172, 2021.doi:10.1016/j.resuscitation.2021.08.040
+2.Granfeldt A, Holmberg MJ, Nolan JP, Soar J, Andersen LW; International Liaison Committee on Resuscitation (ILCOR) Advanced Life Support Task Force: Targeted temperature management in adult cardiac arrest: Systematic review and meta-analysis.Resuscitation167:160–172, 2021.doi:10.1016/j.resuscitation.2021.08.040
+3.Maconochie IK, Aickin R, Hazinski MF, et al: Pediatric Life Support: 2020 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations.Resuscitation156:A120–A155, 2020.doi:10.1016/j.resuscitation.2020.09.013
+3.Maconochie IK, Aickin R, Hazinski MF, et al: Pediatric Life Support: 2020 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations.Resuscitation156:A120–A155, 2020.doi:10.1016/j.resuscitation.2020.09.013
+4.Jarvis JL, Panchal AR, Lyng JW, et al: Evidence-Based Guideline for Prehospital Airway Management.Prehosp Emerg Care28(4):545–557, 2024.doi:10.1080/10903127.2023.2281363
+4.Jarvis JL, Panchal AR, Lyng JW, et al: Evidence-Based Guideline for Prehospital Airway Management.Prehosp Emerg Care28(4):545–557, 2024.doi:10.1080/10903127.2023.2281363
+5.Sutton RM, Reeder RW, Landis WP, et al: Ventilation Rates and Pediatric In-Hospital Cardiac Arrest Survival Outcomes.Crit Care Med47(11):1627–1636, 2019.doi:10.1097/CCM.0000000000003898
+5.Sutton RM, Reeder RW, Landis WP, et al: Ventilation Rates and Pediatric In-Hospital Cardiac Arrest Survival Outcomes.Crit Care Med47(11):1627–1636, 2019.doi:10.1097/CCM.0000000000003898
+6.López-Herce J, García C, Domínguez P, et al: Characteristics and outcome of cardiorespiratory arrest in children.Resuscitation63(3):311–320, 2004.doi:10.1016/j.resuscitation.2004.06.008
+6.López-Herce J, García C, Domínguez P, et al: Characteristics and outcome of cardiorespiratory arrest in children.Resuscitation63(3):311–320, 2004.doi:10.1016/j.resuscitation.2004.06.008
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+美国心脏协会《2020年心肺复苏与心血管急救指南》：这些心肺复苏 (CPR) 和心血管急救 (ECC) 指南基于对复苏科学、方案和教育的最新综述。
+美国心脏协会《2020年心肺复苏与心血管急救指南》：这些心肺复苏 (CPR) 和心血管急救 (ECC) 指南基于对复苏科学、方案和教育的最新综述。
+Dezfulian C, McCallin TE, Bierens J, et al.2024 American Heart Association and American Academy of Pediatrics Focused Update on Special Circumstances: Resuscitation Following Drowning: An Update to the American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation2024;150(23):e501-e516.doi:10.1161/CIR.0000000000001274
+Dezfulian C, McCallin TE, Bierens J, et al.2024 American Heart Association and American Academy of Pediatrics Focused Update on Special Circumstances: Resuscitation Following Drowning: An Update to the American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation2024;150(23):e501-e516.doi:10.1161/CIR.0000000000001274

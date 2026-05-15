@@ -1,0 +1,73 @@
+标题：建筑物相关性疾病
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/environmental-and-occupational-pulmonary-diseases/building-related-illnesses
+============================================================
+
+（也可以看看环境和职业性肺病概述。)
+在工业化国家，人们花费>一生中 90% 的时间（每天约 22 小时）在室内度过。与室内环境相关的症状和疾病很常见，并且会严重影响健康。重要的是，临床医生应认识到症状何时与室内环境有关，以便在可能的情况下减少或消除接触。
+与建筑物相关的疾病是与特定建筑物或室内环境相关的一组异质性疾病。在某些情况下，可以识别出单独的病原体，但通常无法识别，因为症状和疾病很少由单次接触引起。大多数与建筑物相关的疾病都与不止一种类型的暴露以及通风不足有关。
+通风是指室内空气与室外空气进行交换，以创造一个舒适的环境。通风不良会导致室内污染物积聚，如灰尘、霉菌、过敏原、二手烟、清洁产品、香水、挥发性有机化合物和其他化学物质。室外空气污染、传染源和生物气溶胶也会导致室内暴露。
+除了通风相关的问题，温度和湿度也是重要因素。潮湿的室内环境和过多的水分（例如泄漏和洪水）有利于霉菌和其他微生物的生长，这是与建筑相关的症状和疾病的最常见来源之一。
+
+【特定建筑相关疾病】
+特定的建筑物相关疾病与特定的建筑物或室内环境相关，并且符合与状况相关的诊断标准。这些疾病的严重程度和严重程度各不相同。例如
+职业性哮喘
+职业性哮喘
+过敏性肺炎
+过敏性肺炎
+军团菌感染
+军团菌感染
+
+【非特异性建筑相关症状】
+建筑物相关症状是与特定室内环境相关的症状，但不易归类为单一可定义的疾病。病态建筑综合症一词曾用于指建筑物内成群发生的疾病，但该术语正在被建筑相关症状一词所取代。
+常见的与建筑物相关的症状包括
+瘙痒、刺激、眼干或溢泪
+瘙痒、刺激、眼干或溢泪
+流涕或鼻充血
+流涕或鼻充血
+咽痛或咽部紧缩感
+咽痛或咽部紧缩感
+咳嗽和胸闷
+咳嗽和胸闷
+皮肤干燥瘙痒或不明原因的皮疹
+皮肤干燥瘙痒或不明原因的皮疹
+头痛、嗜睡和精神难以集中
+头痛、嗜睡和精神难以集中
+出现上述症状应考虑室内环境暴露的可能性。
+
+【建筑相关疾病的诊断】
+患者因素评估
+患者因素评估
+工作场所评估
+工作场所评估
+
+【患者评估】
+建筑相关疾病的诊断基于暴露史和临床表现（包括症状发作、时间和进展）。增加的用药、就诊和病假都应记录在案。
+与特定建筑物或环境暂时相关的症状以及当患者远离该环境时改善的症状是应该注意的重要线索。与任何其他临床遭遇一样，特定疾病，例如哮喘或者过敏性肺炎，应排除。应根据症状进行进一步评估。例如，当暴露患者出现症状时，肺功能测试可能会提供参考。
+暴露评估包括对患者经常光顾的工作和其他环境的描述，包括空间大小、工人数量、通风、工作任务以及潜在的暴露源，例如灰尘、化学品、气体、清洁产品、霉菌、和其他微生物制剂。应询问患者工作场所或工作流程中可能与症状出现或恶化同时发生的任何变化。建筑物内其他居住者的类似症状虽然并不总是出现，但可能是与建筑物相关的疾病的线索。
+常见的建筑环境包括办公室、学校、餐馆、娱乐场所和医疗机构。应将近期的翻修、重新装修或施工应记录并将其作为潜在的暴露源进行评估。
+
+【工作场所评估】
+工作场所评估有助于确定与建筑相关的疾病或症状的影响因素。工作场所评估有助于识别潜在的暴露情况，例如进水、霉菌、灰尘、气味和极端温度，并了解整体室内环境质量，包括通风和新鲜空气摄入量。有关室内环境的信息来源包括雇主、以前的工作场所评估、安全数据表、以前的环境监测报告和工会代表。
+广泛的空气和表面采样（例如霉菌采样）通常不必要，而且往往成本高昂。大多数与建筑物相关的疾病都与不止一次的接触和通风不良有关。
+
+【建筑相关疾病的治疗】
+诊断病情的治疗
+诊断病情的治疗
+建筑物修复
+建筑物修复
+无论疾病是否与建筑物有关，诊断病症的治疗都是相似的。
+修复罪魁祸首和优化建筑通风是管理建筑相关症状和疾病的核心。
+在美国，可以通过美国环境保护署 (EPA)、美国疾病控制与预防中心国家职业安全与健康研究所 (CDC-NIOSH) 以及各州的公共卫生部网站获得关于室内环境质量的可靠指导。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Raju S, Siddharthan T, McCormack M C.Indoor Air Pollution and Respiratory Health.Clin Chest Med2020; 41(4): 825-843.doi:10.1016/j.ccm.2020.08.014
+Raju S, Siddharthan T, McCormack M C.Indoor Air Pollution and Respiratory Health.Clin Chest Med2020; 41(4): 825-843.doi:10.1016/j.ccm.2020.08.014
+Mendell MJ, Mirer AG, Cheung K, Tong M, Douwes J.Respiratory and allergic health effects of dampness, mold, and dampness-related agents: a review of the epidemiologic evidence.Environ Health Perspect2011; 119(6), 748-756.doi:10.1289/ehp.1002410
+Mendell MJ, Mirer AG, Cheung K, Tong M, Douwes J.Respiratory and allergic health effects of dampness, mold, and dampness-related agents: a review of the epidemiologic evidence.Environ Health Perspect2011; 119(6), 748-756.doi:10.1289/ehp.1002410
+US Environmental Protection Agency: Indoor Air Pollution: An Introduction for Health Professionals.October 27, 2022.
+US Environmental Protection Agency: Indoor Air Pollution: An Introduction for Health Professionals.October 27, 2022.
+US Environmental Protection Agency: Indoor Air Quality.August 1, 2023.
+US Environmental Protection Agency: Indoor Air Quality.August 1, 2023.
+Wells R: Centers for Disease Control and Prevention: NIOSH Science Blog: Multifaceted Approach to Assess Indoor Environmental Quality.April 9, 2009.
+Wells R: Centers for Disease Control and Prevention: NIOSH Science Blog: Multifaceted Approach to Assess Indoor Environmental Quality.April 9, 2009.

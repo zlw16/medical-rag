@@ -1,0 +1,106 @@
+标题：隐匿性菌血症和发热在婴儿和幼儿中没有明显的来源
+来源：https://www.msdmanuals.cn/professional/pediatrics/miscellaneous-bacterial-infections-in-infants-and-children/occult-bacteremia-and-fever-without-apparent-source-in-infants-and-young-children
+============================================================
+
+可能的隐匿性菌血症的病因、评估和管理因儿童年龄和免疫状态而异。也可参考婴幼儿发热。
+
+【3至36个月的儿童】
+在结合疫苗问世前的时代，约3-5%的3-36月龄发热（体温>38.5°°C）且无局部症状（即不明原因发热）的儿童存在隐匿性菌血症。 相比之下，> 36个月的儿童菌血症几乎总是看起来病态，并有可识别的（即，非隐匿）感染的局灶。在常规结合免疫接种之前，大多数（80%）隐性菌血症是由肺炎链球菌引起。较低的百分比（10％）是由流感嗜血杆菌b型引起的，而脑膜炎奈瑟氏菌所致的百分比更低（5％）。
+目前在美国和欧洲，婴儿常规接种多糖结合疫苗抗S. pneumoniae（肺炎链球菌）和b型H. influenzae（流感嗜血杆菌）已消除了>99%的b型H. influenzae（流感嗜血杆菌）感染，并大大减少了≥70%（总体）和≥90%（疫苗型）的侵袭性S. pneumoniae（肺炎链球菌）感染。因此，在这个年龄组中，隐匿性菌血症已经变得罕见，除了未免疫或未免疫的儿童和具有免疫缺陷的儿童。
+即使感染率有所下降，对于无明显来源发烧或有隐匿性菌血症的幼儿来说，侵袭性细菌感染 (IBI) 的风险仍然令人担忧（1）。IBI 通常定义为脓毒症，脑膜炎， 和泌尿道感染（UTI），还包括化脓性关节炎和骨髓炎。在一项前瞻性研究中，203 名既往健康的 3 至 24 个月大的儿童出现不明来源的高烧（≥ 40.5° C），其中 99% 至少接种过 1 剂肺炎球菌结合疫苗，3% 被诊断为菌血症，12% 患有尿路感染或肺炎（1）。这种感染可以通过菌血症的早期鉴定和治疗而最小化。进展为侵袭性细菌感染的可能性取决于病因：由b型H. influenzae（流感嗜血杆菌）引起的菌血症为7至25%，而由S. pneumoniae（肺炎链球菌）引起的菌血症为4至6%。
+
+【<3月龄的儿童】
+相比之下，<3个月龄的发热婴儿继续比年龄较大的婴儿有更大的侵袭性细菌感染风险，约为8至10%。过去，3 个月以下幼儿的 IBI 多由 B 组乙型溶血性链球菌、肺炎链球菌和流感嗜血杆菌引起。然而，在定植B组β溶血性Streptococcus（链球菌）的孕妇分娩期间进行化学预防，已将早期发病（感染发生在<7天龄）的B组链球菌病减少了80%以上（2）。此外，常规结合疫苗免疫减少了接种肺炎链球菌和流感嗜血杆菌b型疫苗的年长兄弟姐妹的定植率，因此由这些生物引起的 IBI 发病率也有所下降（群体免疫）。最后，食品安全的改善也可能降低了婴幼儿Listeria monocytogenes（单核细胞增生性李斯特菌）感染率。
+值得注意的是，晚发型（感染发生在>7日龄时）B组链球菌感染不受分娩期间化学预防的影响，其他严重的细菌性疾病如尿路感染（最常由Escherichia coli（大肠杆菌）引起）和偶尔发生的Salmonella（沙门氏菌）和Staphylococcus aureus（金黄色葡萄球菌）菌血症，在体检时仍是<3个月婴儿无明显病因发热的重要原因。
+目前 8 至 60 日龄发热婴儿的菌血症发生率接近 2% 至 5%，而过去的发生率则为 8% 至 10%（3)，而且更大比例是由于尿路感染而不是脑膜炎或未分化菌血症引起的。
+
+【一般参考文献】
+1.Gangoiti I, Zubizarreta A, Elgoibar B, Mintegi S; Infectious Diseases Working Group, Spanish Society of Pediatric Emergencies (SEUP): Occult Bacteremia in Young Children with Very High Fever Without a Source: A Multicenter Study.Pediatr Infect Dis J39(12):e462-e464, 2020.doi: 10.1097/INF.0000000000002891
+1.Gangoiti I, Zubizarreta A, Elgoibar B, Mintegi S; Infectious Diseases Working Group, Spanish Society of Pediatric Emergencies (SEUP): Occult Bacteremia in Young Children with Very High Fever Without a Source: A Multicenter Study.Pediatr Infect Dis J39(12):e462-e464, 2020.doi: 10.1097/INF.0000000000002891
+2.Nanduri SA, Petit S, Smelser C, et al: Epidemiology of Invasive Early-Onset and Late-Onset Group B Streptococcal Disease in the United States, 2006 to 2015: Multistate Laboratory and Population-Based Surveillance.JAMA Pediatr173(3):224-233, 2019.doi: 10.1001/jamapediatrics.2018.4826
+2.Nanduri SA, Petit S, Smelser C, et al: Epidemiology of Invasive Early-Onset and Late-Onset Group B Streptococcal Disease in the United States, 2006 to 2015: Multistate Laboratory and Population-Based Surveillance.JAMA Pediatr173(3):224-233, 2019.doi: 10.1001/jamapediatrics.2018.4826
+3.Pantell RH, Roberts KB, Adams WG, et al: Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old [published correction appears inPediatrics. 2021 Nov;148(5):].Pediatrics148(2):e2021052228, 2021.doi: 10.1542/peds.2021-052228
+3.Pantell RH, Roberts KB, Adams WG, et al: Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old [published correction appears inPediatrics. 2021 Nov;148(5):].Pediatrics148(2):e2021052228, 2021.doi: 10.1542/peds.2021-052228
+
+【症状和体征】
+隐匿性菌血症的主要症状是发烧。对于 3 个月以下的婴儿，高烧定义为体温≥39° 摄氏度 (≥102.2°F），或者根据最近的指导方针，≥38.0° 摄氏度 (≥100.4°F）（1）。
+从定义上讲，排除那些有明显局灶性疾病（例如，咳嗽、呼吸困难和肺部湿啰音提示肺炎；皮肤红斑提示蜂窝织炎或脓毒性关节炎）的儿童（即因为他们的疾病不是隐匿性的）。
+中毒表现（例如，无力和倦怠、嗜睡、灌注不良迹象、发绀、明显的呼吸减弱或呼吸过度）提示脓毒血症或感染性休克；这些儿童的菌血症也不被归类为隐匿性或无明显病因的发热。但是，脓毒血症早期很难与隐性菌血症鉴别。
+
+【症状和体征】
+1.Pantell RH, Roberts KB, Adams WG, et al: Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old [published correction appears inPediatrics. 2021 Nov;148(5):].Pediatrics148(2):e2021052228, 2021.doi: 10.1542/peds.2021-052228
+1.Pantell RH, Roberts KB, Adams WG, et al: Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old [published correction appears inPediatrics. 2021 Nov;148(5):].Pediatrics148(2):e2021052228, 2021.doi: 10.1542/peds.2021-052228
+尿培养和尿液分析
+尿培养和尿液分析
+完全血细胞计数和分类计数
+完全血细胞计数和分类计数
+血清炎症标志物（C 反应蛋白 [CRP]、降钙素原 [PCT]）
+血清炎症标志物（C 反应蛋白 [CRP]、降钙素原 [PCT]）
+根据年龄和临床情况，进行腰椎穿刺检查脑脊液
+根据年龄和临床情况，进行腰椎穿刺检查脑脊液
+菌血症的诊断需要血培养；理想情况下，应从不同部位采集2份样本，这有助于最大限度地减少由于皮肤污染物导致假阳性结果的问题，并且结果应在24小时内获得。
+检测建议和检测项目的选择因年龄、体温和临床表现而异；目标是在不遗漏 IBI 的情况下尽量减少检测。对于那些在病史或体格检查中有局灶性感染迹象的儿童，基于这些发现进行评估。
+如果可用，肠道病毒、呼吸道合胞病毒和流感病毒的快速诊断检测（如呼吸道病毒PCR检测试剂盒）可用于评估>30天无明显发热源的婴儿，因为这些病毒检测结果呈阳性的婴儿很可能是由该病毒引起的发热，只需进行少量或无需进行进一步的IBI检测。也有针对其他病毒的快速检测方法，但对这些方法的研究还不够充分，因此没有理由用它们的检测结果来改变对 IBI 的检测。并非所有研究都发现病毒感染会降低 IBI 的风险，尤其是对于年龄不到 30 日龄的婴儿。
+对于患有 IBI 的婴儿，CBC 通常显示白细胞计数 (WBC) 升高，但绝对中性粒细胞计数 (ANC) 更具预测性。如果炎症标志物 CRP 和 PCT 升高，也往往表明存在 IBI。发热、ANC 升高、CRP 升高和 PCT 升高的组合已被用于指导 8 至 60 天年龄正常且发热的足月婴儿的决策（关于入院和抗菌药物管理）（1，2，3）。
+
+【3至36个月的儿童】
+重要的是要注意，任何发热的婴儿，无论免疫史，出现严重疾病或中毒，都需要完整的临床和实验室评估（分类CBC、血培养、尿培养、腰椎穿刺，在大多数情况下，住院时使用经验性抗微生物治疗）。这个年龄段的未免疫、免疫不足和免疫功能低下的发热婴儿比同龄婴儿更容易感染 IBI，通常也需要同样全面的临床和实验室评估来进行 IBI 和经验性抗生素治疗。呼吸困难或氧饱和度低的儿童也应该进行胸部X线检查。
+在既往已接种疫苗且表现良好（无中毒表现）的3至36个月发热婴儿中，菌血症的风险现在与或甚至低于由于皮肤污染物导致的假阳性血培养率，这使得许多专家对这些儿童不再进行血培养。然而，通常建议进行显微镜检查的尿液分析和尿培养，但不建议进行额外的实验室检查（如CBC、胸部X线）。虽然这些儿童中的绝大多数都有病毒感染，但极少数表现良好的儿童可能有早期IBI，因此应建议看护人监测儿童的症状，给予退热药，并在24至48小时内与临床医生随访（根据具体情况和看护人的可靠性，可通过访视或电话随访）。病情恶化或持续发热的儿童应进行检查（如全血细胞计数及分类、血培养，必要时行胸部X线或腰椎穿刺）。
+
+【<3月龄的儿童】
+出现中毒症状或病情严重的婴儿需要立即进行临床评估，收集血液、尿液和脑脊液培养，并住院接受经验性抗生素治疗。与年龄较大的婴儿不同，3个月以下的婴儿即使临床表现无中毒症状，也不能常规推迟检测。
+已经开发了算法来帮助指导对该年龄组中的婴儿的评价。较旧的算法（例如，罗切斯特标准）依赖于先验临床和实验室标准的组合，这些标准在某种程度上是任意制定的，并在大量发热但其他方面表现良好的婴儿中进行了测试。这些算法对 IBI 具有适中的诊断敏感性（90％至95％），更重要的是，具有非常高的阴性预测值（97％至99％）。因此，它们可用于预测哪些婴儿罹患 IBI 的风险较低，从而可以安全地监测他们，无需住院或使用抗菌药物。这些算法的优点是简单；缺点是对 IBI 的特异性相对较低，这意味着许多没有 IBI 的儿童最终还是接受了抗菌治疗。此外，这些算法是在隐匿性菌血症和细菌性脑膜炎发病率较高的时代开发的，在常规结合免疫开始之前，因此它们在当前时代可能不再那么准确。
+已经开发出用于检测IBI的较新算法，这些算法依赖于基于复杂统计建模技术分析的数据制定的预测规则，并考虑了婴儿细菌感染流行病学的变化（即接种疫苗的患者群体中，菌血症更大比例由Escherichia coli（大肠杆菌）泌尿道感染（UTI）引起，而非肺炎球菌感染）。人们更加重视诊断的敏感性和特异性，以最大限度地提高诊断准确性，并尽量减少对没有 IBI 的婴儿的不必要的治疗。最后，新算法考虑到了诊断测试和病原体识别方面的进展。其优点是增加了 IBI 的敏感性；而其显著的缺点是显著增加了决策临床指南的复杂性。
+美国许多儿科医院正在使用这些较新的算法。美国儿科学会 2021 年发布的《8 至 60 日龄发热婴儿评估与管理指南》将儿童分为 3 个基于年龄的算法：8 至 21 日龄婴儿、22 至 28 日龄婴儿和 29 至 60 日龄婴儿（1）。
+异常炎症标志物的新定义也有助于临床医生做出住院治疗、抗生素使用或两者兼而有之的决定（1，2，3）。高风险的定义包括以下患者（1，2，3)：
+脑脊液异常
+脑脊液异常
+发烧≥38.0° C （≥100.4°F）
+发烧≥38.0° C （≥100.4°F）
+CRP > 2 毫克/分升（> 20 毫克/升）
+CRP > 2 毫克/分升（> 20 毫克/升）
+PCT > 0.5 纳克/毫升（> 0.5 微克/升）
+PCT > 0.5 纳克/毫升（> 0.5 微克/升）
+当与PCT联合使用时，ANC > 4000/mcL（> 4 × 109/L），或如果血清 PCT不可用时，ANC > 5200/mcL（> 5.2 × 109/L）
+当与PCT联合使用时，ANC > 4000/mcL（> 4 × 109/L），或如果血清 PCT不可用时，ANC > 5200/mcL（> 5.2 × 109/L）
+
+【诊断参考】
+1.Pantell RH, Roberts KB, Adams WG, et al: Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old [published correction appears inPediatrics. 2021 Nov;148(5):].Pediatrics148(2):e2021052228, 2021.doi: 10.1542/peds.2021-052228
+1.Pantell RH, Roberts KB, Adams WG, et al: Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old [published correction appears inPediatrics. 2021 Nov;148(5):].Pediatrics148(2):e2021052228, 2021.doi: 10.1542/peds.2021-052228
+2.Kuppermann N, Mahajan P, Dayan PS: Fever, Absolute Neutrophil Count, Procalcitonin, and the AAP Febrile Infant Guidelines.Pediatrics151(2):e2022059862, 2023.doi: 10.1542/peds.2022-059862
+2.Kuppermann N, Mahajan P, Dayan PS: Fever, Absolute Neutrophil Count, Procalcitonin, and the AAP Febrile Infant Guidelines.Pediatrics151(2):e2022059862, 2023.doi: 10.1542/peds.2022-059862
+3.Yaeger JP, Richfield C, Schiller E, et al: Performance of AAP Clinical Practice Guideline for Febrile Infants at One Pediatric Hospital.Hosp Pediatr13(3):e47-e50, 2023.doi: 10.1542/hpeds.2022-006820
+3.Yaeger JP, Richfield C, Schiller E, et al: Performance of AAP Clinical Practice Guideline for Febrile Infants at One Pediatric Hospital.Hosp Pediatr13(3):e47-e50, 2023.doi: 10.1542/hpeds.2022-006820
+抗生素（经验性地，针对选择的患者，等待培养结果，以及那些具有阳性培养物的患者）
+抗生素（经验性地，针对选择的患者，等待培养结果，以及那些具有阳性培养物的患者）
+不适可用退热药
+不适可用退热药
+充足的水合（因为发热和可能的厌食增加了水分损失）；如果可能，口服补液，否则静脉补液
+充足的水合（因为发热和可能的厌食增加了水分损失）；如果可能，口服补液，否则静脉补液
+患儿在血培养明确为菌血症之前接受抗生素治疗，发生局灶感染的可能减少，但是，数据缺乏一致性。然而，因为菌血症的发生率较低，很多儿童可能接受了不必要的抗生素治疗。如上所述，管理因年龄和其他临床因素而异。
+无论年龄大小，所有儿童都会在 24 小时内接受重新评估，要么是重复临床就诊，要么根据年龄和临床情况通过电话对选定的儿童进行重新评估。那些持续发热或血液或尿培养阳性且尚未接受治疗的患者需要进行更多培养检查，并住院评估可能的败血症和接受静脉抗生素治疗。如果在复查时发现局灶性感染的新症状，则评估和治疗由结果指导。
+
+【3至36个月的儿童】
+根据体重给予退热药剂量。除非培养物是阳性的，否则不给予抗生素。对于泌尿道感染，表现良好的儿童可作为门诊接受口服抗生素治疗儿童尿路感染；其他儿童（如病情较重者或无法保证充分随访者）可能需要住院接受肠外抗生素治疗。
+
+【<3月龄的儿童】
+美国儿科学会 2021 年指南建议，所有发热8 至 21 天大的婴儿接受 IBI 评估的患者应住院并接受肠外抗生素治疗，有单纯疱疹病毒 (HSV) 感染风险的患者也应接受肠外阿昔洛韦治疗（1）。
+指南建议应进行诊断性腰椎穿刺、血液和尿液培养，即使在常规住院治疗中也应监测炎症标志物水平。
+为了22 至 60 天大的婴儿，关于住院或在家护理以及抗菌药物管理或期待治疗的决定是基于异常的尿液分析结果、炎症标志物以及（如果进行）腰椎穿刺结果。
+随着 IBI 的可能性和 IBI 病因的流行病学发生变化，以及随着基于临床和实验室标志物组合的 IBI 预测因子数据的积累，当前的临床指南可能会继续调整。
+
+【治疗参考文献】
+1.Pantell RH, Roberts KB, Adams WG, et al: Clinical Practice Guideline: Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old.Pediatrics148(2):e2021052228, 2021.doi: 10.1542/peds.2021-052228
+1.Pantell RH, Roberts KB, Adams WG, et al: Clinical Practice Guideline: Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old.Pediatrics148(2):e2021052228, 2021.doi: 10.1542/peds.2021-052228
+年龄＜36个月的发热婴儿和儿童已适当接种了b型H. influenzae（流感嗜血杆菌）和Pneumococcal（肺炎球菌)结合疫苗，而且看起来状况良好，没有明显的感染灶，不太可能患有隐性菌血症或侵袭性细菌感染（IBI；如败血症、脑膜炎）。
+年龄＜36个月的发热婴儿和儿童已适当接种了b型H. influenzae（流感嗜血杆菌）和Pneumococcal（肺炎球菌)结合疫苗，而且看起来状况良好，没有明显的感染灶，不太可能患有隐性菌血症或侵袭性细菌感染（IBI；如败血症、脑膜炎）。
+对于经选择的发热儿童，采用血培养（2个样本从2个不同的部位）诊断隐匿菌血症。
+对于经选择的发热儿童，采用血培养（2个样本从2个不同的部位）诊断隐匿菌血症。
+所有小于 36 个月的发热婴儿都应通过尿液分析和尿培养来评估是否患有尿路感染（UTI），因为UTI 是目前引起发热的 IBI 最常见的原因。
+所有小于 36 个月的发热婴儿都应通过尿液分析和尿培养来评估是否患有尿路感染（UTI），因为UTI 是目前引起发热的 IBI 最常见的原因。
+毒性表现的儿童（也许所有发热的<1月龄婴儿）也需要血液和脑脊液培养，并住院接受经验性抗生素治疗。
+毒性表现的儿童（也许所有发热的<1月龄婴儿）也需要血液和脑脊液培养，并住院接受经验性抗生素治疗。
+在3月龄至36月龄的儿童中，如果温度≥39°C，并且已接受适当的免疫接种，对于出现良好的患者，不要求进行尿培养以外的检查；其他人应该根据临床发现和其他情况（例如，在合适的季节，流感病毒，呼吸道合胞病毒和肠道病毒的快速病毒测试）进行检查。
+在3月龄至36月龄的儿童中，如果温度≥39°C，并且已接受适当的免疫接种，对于出现良好的患者，不要求进行尿培养以外的检查；其他人应该根据临床发现和其他情况（例如，在合适的季节，流感病毒，呼吸道合胞病毒和肠道病毒的快速病毒测试）进行检查。
+对于 3 个月以下、体温≥ 38 摄氏度的婴儿，良好的临床表现并不能完全排除 IBI 的可能，因此需要对该年龄段的所有婴儿进行检测，包括尿液分析、全血细胞计数（带差值）、血培养和尿培养、腰椎穿刺（尤其是最小的婴儿）、血清 C 反应蛋白，如果有条件，还需要检测血清降钙素原（也许还需要进行流感病毒、呼吸道合胞病毒和肠道病毒的快速病毒检测或 PCR 检测）。
+对于 3 个月以下、体温≥ 38 摄氏度的婴儿，良好的临床表现并不能完全排除 IBI 的可能，因此需要对该年龄段的所有婴儿进行检测，包括尿液分析、全血细胞计数（带差值）、血培养和尿培养、腰椎穿刺（尤其是最小的婴儿）、血清 C 反应蛋白，如果有条件，还需要检测血清降钙素原（也许还需要进行流感病毒、呼吸道合胞病毒和肠道病毒的快速病毒检测或 PCR 检测）。

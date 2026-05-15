@@ -1,0 +1,20 @@
+标题：PAPA综合征
+来源：https://www.msdmanuals.cn/professional/pediatrics/hereditary-periodic-fever-syndromes/papa-syndrome
+============================================================
+
+PAPA综合征是由:
+染色体 15q 上的脯氨酸-丝氨酸-苏氨酸磷酸酶相互作用蛋白 1 （PSTPIP1) 基因突变
+染色体 15q 上的脯氨酸-丝氨酸-苏氨酸磷酸酶相互作用蛋白 1 （PSTPIP1) 基因突变
+突变基因产生的过度磷酸化的蛋白质与PYRIN过度结合，从而限制PYRIN的抗炎活性，这可能涉及通过阻断炎症体的激活来抑制中性粒细胞的激活和趋化性。PSTPIP1变异已在广泛的表型中被鉴定出，例如PAPASH（坏疽性脓皮病、痤疮和化脓性汗腺炎伴化脓性关节炎）和PASH（坏疽性脓皮病、痤疮和化脓性汗腺炎不伴化脓性关节炎）（1）。
+关节炎通常在生命的第一个十年开始，并且具有进行性破坏性。轻微的创伤可能会诱发关节炎。通常在损伤部位（例如，在疫苗接种部位）会出现边缘不规则的难愈合溃疡。痤疮通常为结节囊肿型，如果不治疗，会导致瘢痕形成。到青春期，关节炎趋于消退，皮肤症状占主导地位。
+坏疽性脓皮病（具有深度溃疡的坏死组织）和结节性痤疮是 PAPA 综合征的特征。
+PAPA综合征的诊断基于临床表现和阳性家族史，但并非所有患者都表现出完整的临床三联征，表型异质性很常见。
+溃疡活检。活检可见浅表溃疡及中性粒细胞炎症。基因突变检测PSTPIP1基因可能支持诊断。
+使用肿瘤坏死因子 (TNF) 抑制剂（例如依那西普、阿达木单抗、英夫利昔单抗）或白细胞介素 (IL)-1 抑制剂（例如阿那白滞素）治疗 PAPA 综合征可能有效（2）。
+口服四环素或异维A酸可治疗痤疮。
+
+【参考文献】
+1.Boursier G, Piram M, Rittore C, et al: Phenotypic associations of PSTPIP1 sequence variants in PSTPIP1-associated autoinflammatory diseases.J Invest Dermatol141(5):1141–1147, 2021.doi: 10.1016/j.jid.2020.08.028
+1.Boursier G, Piram M, Rittore C, et al: Phenotypic associations of PSTPIP1 sequence variants in PSTPIP1-associated autoinflammatory diseases.J Invest Dermatol141(5):1141–1147, 2021.doi: 10.1016/j.jid.2020.08.028
+2.Cugno M, Borghi A, Marzano AV: PAPA, PASH and PAPASH Syndromes: Pathophysiology, Presentation and Treatment.Am J Clin Dermatol18(4):555-562, 2017.doi: 10.1007/s40257-017-0265-1
+2.Cugno M, Borghi A, Marzano AV: PAPA, PASH and PAPASH Syndromes: Pathophysiology, Presentation and Treatment.Am J Clin Dermatol18(4):555-562, 2017.doi: 10.1007/s40257-017-0265-1

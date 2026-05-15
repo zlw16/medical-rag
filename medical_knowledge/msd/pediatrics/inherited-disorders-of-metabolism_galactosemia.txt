@@ -1,0 +1,45 @@
+标题：半乳糖血症
+来源：https://www.msdmanuals.cn/professional/pediatrics/inherited-disorders-of-metabolism/galactosemia
+============================================================
+
+半乳糖存在于乳制品，水果和蔬菜中。常染色体隐性酶缺陷引起3种临床综合征。
+也可参考可疑遗传性代谢病的诊断程序
+
+【半乳糖1-磷酸尿苷转移酶缺乏】
+这种缺乏引起典型的半乳糖血症。在美国，发病率约为 1/50,000 个新生儿（1）；载波频率为1/125。
+婴儿在消费母乳或含乳糖的配方食品的几天或几周内变得厌食和黄疸。出现呕吐、肝肿大、生长不良、嗜睡、腹泻和败血症（通常由Escherichia coli（大肠杆菌）引起），同时出现肾功能障碍（如蛋白尿、氨基酸尿、Fanconi综合征），导致代谢性酸中毒和水肿。可发生溶血性贫血。
+若不治疗，患儿在青少年期有体格矮小、发生认知、语言、步态和平衡障碍，许多还有白内障和骨软化病（由高钙尿症所致），女性卵巢功能性早衰。 携带Duarte变异的患者有较轻的表现型。
+
+【半乳糖激酶缺乏】
+患者因为产生半乳糖醇而导致白内障，其渗透性地损害晶状体纤维; 特发性颅内高血压（假性脑瘤）是罕见的。
+发病率为活产婴儿的1/40,000 (2)。
+
+【尿苷二磷酸半乳糖4-表异构酶缺乏】
+有两种表现型：一种良性型和一种严重型。在日本，良性型的发病率是活产婴儿的1/23,000 (3), 目前没有更严重形式的发病率数据。
+良性形式局限于红细胞和白细胞，并且不引起临床异常。
+虽然有时伴有听力丧失，严重型产生的综合征与典型半乳糖血症仍难以鉴别。
+
+【参考文献】
+1.Sontag MK, Yusuf C, Grosse SD, et al.Infants with Congenital Disorders Identified Through Newborn Screening — United States, 2015–2017.MMWR Morb Mortal Wkly Rep2020;69:1265–1268.doi:10.15585/mmwr.mm6936a6
+1.Sontag MK, Yusuf C, Grosse SD, et al.Infants with Congenital Disorders Identified Through Newborn Screening — United States, 2015–2017.MMWR Morb Mortal Wkly Rep2020;69:1265–1268.doi:10.15585/mmwr.mm6936a6
+2.Hennermann JB, Schadewaldt P, Vetter B, Shin YS, Mönch E, Klein J.Features and outcome of galactokinase deficiency in children diagnosed by newborn screening.J Inherit Metab Dis.2011;34(2):399-407.doi:10.1007/s10545-010-9270-8
+2.Hennermann JB, Schadewaldt P, Vetter B, Shin YS, Mönch E, Klein J.Features and outcome of galactokinase deficiency in children diagnosed by newborn screening.J Inherit Metab Dis.2011;34(2):399-407.doi:10.1007/s10545-010-9270-8
+3.Misumi H, Wada H, Kawakami M, et al.Detection of UDP-galactose-4-epimerase deficiency in a galactosemia screening program.Clin Chim Acta.1981;116(1):101-105.doi:10.1016/0009-8981(81)90173-x
+3.Misumi H, Wada H, Kawakami M, et al.Detection of UDP-galactose-4-epimerase deficiency in a galactosemia screening program.Clin Chim Acta.1981;116(1):101-105.doi:10.1016/0009-8981(81)90173-x
+
+【半乳糖血症的诊断】
+半乳糖浓度
+半乳糖浓度
+半乳糖血症的诊断根据临床表现，半乳糖水平升高、尿中存在非葡萄糖还原物质（半乳糖和1-磷酸半乳糖）可有助半乳糖血症的诊断，通过红细胞或（和）肝脏组织中的DNA分析或酶学分析加以确诊。
+在美国，所有州都需要进行新生儿筛查，以确定半乳糖-1-磷酸尿苷基转移酶缺乏症。（参见测试新陈代谢疑似遗传性疾病。）
+
+【半乳糖血症的治疗】
+饮食限制半乳糖
+饮食限制半乳糖
+半乳糖血症的治疗是消除饮食中的所有半乳糖来源，最显著的是乳糖(半乳糖的一种来源)，它存在于母乳和所有乳制品中，包括基于牛奶的婴儿配方奶粉，并且是许多食物中使用的一种甜味剂。无乳糖饮食可预防急性中毒并逆转某些表现（如白内障），但可能无法预防神经认知缺陷。许多患者需要补充钙和维生素。
+对于表异构酶缺乏的患者，适量摄入半乳糖对确保尿苷-5′-二磷酸-半乳糖（UDP-半乳糖）的供应以进行各种代谢过程至关重要。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information
+Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information

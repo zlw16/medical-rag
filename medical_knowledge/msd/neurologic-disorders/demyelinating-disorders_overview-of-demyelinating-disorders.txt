@@ -1,0 +1,61 @@
+标题：脱髓鞘性疾病的概述
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/demyelinating-disorders/overview-of-demyelinating-disorders
+============================================================
+
+中枢和周围神经系统的很多神经纤维都有髓鞘包裹，它们能加快神经冲动沿轴索的传递。损害髓鞘的疾病会影响神经传递；患者的症状能够反映出受累的神经部位。
+中枢神经系统（CNS）内由少突胶质细胞构成的髓鞘与周围神经系统内由施万(Schwann)细胞构成的髓鞘，在化学结构和免疫活性方面都是不同的。因此，一些髓鞘疾病主要影响周围神经（例如吉兰-巴利综合征、慢性炎症性脱髓鞘性多发性神经病以及其他周围神经多发性神经病），而其他一些则主要影响中枢神经系统 (见表可导致中枢神经系统脱髓鞘的疾病）。中枢最常受累的区域是脑、脊髓和视神经。
+脱髓鞘可能继发于感染、缺血、代谢、遗传性疾病或中毒（如酒精、乙胺丁醇）。原发性脱髓鞘性疾病的病因至今未能明确，但由于有时本病出现在病毒感染或疫苗接种后，故推测本病的发病机制与自身免疫有关。
+脱髓鞘大多呈节段性或斑片状，同时或先后累及多个部位。常出现髓鞘修复、再生以及神经功能的完全恢复。然而，广泛的髓鞘缺失通常会继发轴索和神经元胞体变性，这两者都可能为不可逆损害。
+对于任何不能解释的神经功能缺损，都应考虑到脱髓鞘疾病的可能。提示原发性脱髓鞘疾病的表现如下：
+弥散或多灶性缺损
+弥散或多灶性缺损
+急性或亚急性起病，尤其是青壮年患者
+急性或亚急性起病，尤其是青壮年患者
+感染后数周内发病
+感染后数周内发病
+症状有波动
+症状有波动
+脱髓鞘疾病较为特异的症状（如，不能解释的视神经炎或核间性眼肌麻痹多提示多发性硬化）
+脱髓鞘疾病较为特异的症状（如，不能解释的视神经炎或核间性眼肌麻痹多提示多发性硬化）
+针对不同疾病，具体的检查和治疗方法不同。
+
+【可引起中枢神经系统脱髓鞘的疾病】
+可引起中枢神经系统脱髓鞘的疾病
+遗传性疾病
+肾上腺脑白质营养不良*
+肾上腺脊髓神经病*
+Hurler综合征
+Krabbe病和其他脑白质营养不良*
+Leber遗传性视神经萎缩和相关的线粒体疾病
+苯丙酮尿症以及其他氨基酸尿症
+Tay-Sachs、-Pick和Gaucher病
+缺氧缺血
+一氧化碳中毒和其他迟发性缺氧性脑脱髓鞘综合征
+进行性皮层下缺血性脱髓鞘
+营养缺乏
+胼胝体脱髓鞘（Marchiafava-Bignami病）
+渗透性脱髓鞘综合征†（既往称脑桥中央髓鞘溶解）
+维生素B12缺乏
+中枢神经系统病毒直接侵害
+进展性多灶性脑白质病
+亚急性硬化性全脑炎
+热带痉挛性截瘫/HTLV-1相关的脊髓病
+原发性脱髓鞘性疾病
+单相疾病，如视神经炎,、急性横贯性脊髓炎、急性播散性脑脊髓炎和急性出血性白质脑炎
+视神经脊髓炎谱系疾病
+复发性、进展性疾病（多发性硬化及其变异类型）
+毒素、药物和非法药物
+二氧化碳
+乙胺丁醇
+肿瘤坏死因子 (TNF) α 抑制剂（阿达木单抗、英夫利昔单抗、依那西普、聚乙二醇赛妥珠单抗、戈利木单抗[a]）
+检查点抑制剂（阿替利珠单抗、伊匹单抗、纳武单抗、派姆单抗、德瓦鲁单抗[b])
+* 某些亚型可能会同时引起周围神经脱髓鞘改变。
+†渗透性脱髓鞘综合征也可能由于血钠流动引起
+[a]Kunchok A, Aksamit AJ Jr, Davis JM 3rd, et al.Association between tumor necrosis factor inhibitor exposure and inflammatory Central Nervous System Events.JAMA Neurol.77 (8):937–946, 2020.doi: 10.1001/jamaneurol.2020.1162
+[b]Oliveira MCB, de Brito MH, Simabukuro, MM.Central nervous system demyelination associated with immune checkpoint inhibitors: Review of the literature.Front Neurol.11:538695, 2020.doi: 10.3389/fneur.2020.538695
+CNS=中枢神经系统；HTLV-1=人类T淋巴细胞病毒Ⅰ型。
+* 某些亚型可能会同时引起周围神经脱髓鞘改变。
+†渗透性脱髓鞘综合征也可能由于血钠流动引起
+[a]Kunchok A, Aksamit AJ Jr, Davis JM 3rd, et al.Association between tumor necrosis factor inhibitor exposure and inflammatory Central Nervous System Events.JAMA Neurol.77 (8):937–946, 2020.doi: 10.1001/jamaneurol.2020.1162
+[b]Oliveira MCB, de Brito MH, Simabukuro, MM.Central nervous system demyelination associated with immune checkpoint inhibitors: Review of the literature.Front Neurol.11:538695, 2020.doi: 10.3389/fneur.2020.538695
+CNS=中枢神经系统；HTLV-1=人类T淋巴细胞病毒Ⅰ型。

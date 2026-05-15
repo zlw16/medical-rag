@@ -1,0 +1,59 @@
+标题：IgG4相关的硬化性胆管炎
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/gallbladder-and-bile-duct-disorders/igg4-related-sclerosing-cholangitis
+============================================================
+
+（参见胆管功能概述。）
+IgG4相关性硬化性胆管炎（IgG4-SC）是一种胆道狭窄疾病，由肝内和肝外胆管以IgG4为主的上皮下淋巴浆细胞浸润引起。
+IgG4-SC 在临床上不同于原发性硬化性胆管炎。这是IgG4相关疾病的肝胆系统表现，该疾病为一组由免疫介导的纤维化炎性疾病。IgG4相关性硬化性胆管炎（IgG4-SC）较为罕见，主要影响50至60岁以上男性（1）。约70%至90%的IgG4-SC患者同时合并自身免疫性胰腺炎（AIP）（2）。独立于 AIP 的 IgG4-SC 形式不太常见。
+
+【参考文献】
+1.Beuers U, Trampert DC.IgG4-Related Cholangitis.Semin Liver Dis.Published online May 8, 2025.doi:10.1055/a-2588-3875
+1.Beuers U, Trampert DC.IgG4-Related Cholangitis.Semin Liver Dis.Published online May 8, 2025.doi:10.1055/a-2588-3875
+2.Umehara H, Okazaki K, Masaki Y, et al.A novel clinical entity, IgG4-related disease (IgG4RD): General concept and details.Mod Rheumatol.2012;22(1):1-14. doi: 10.1007/s10165-011-0508-6
+2.Umehara H, Okazaki K, Masaki Y, et al.A novel clinical entity, IgG4-related disease (IgG4RD): General concept and details.Mod Rheumatol.2012;22(1):1-14. doi: 10.1007/s10165-011-0508-6
+
+【IgG4-SC的症状和体征】
+表现可能与原发性硬化性胆管炎或胆管癌相似，症状包括黄疸、体重减轻和腹痛。
+
+【IgG4-SC 的诊断】
+影像学检查
+影像学检查
+IgG4 水平
+IgG4 水平
+组织学检查
+组织学检查
+尤其是患有胰腺炎合并胆管病变的患者应考虑 IgG4-SC。
+诊断基于HISORt标准（H组织学、I影像学、S血清学、O其他器官系统受累及R对t治疗的反应），该标准最初为自身免疫性胰腺炎开发，并适用于IgG4-SC(1, 2)。在影像学检查（磁共振胰胆管成像〔MRCP〕、CT或内镜超声）中，可见胆管壁增厚并伴有长段狭窄。在血清学方面，大多数（但非全部）患者的IgG4水平升高；水平超过正常上限4倍被视为特征性表现。组织学，在初步影像学和血清学检查后，通过内镜逆行胰胆管造影(ERCP)侵入性获取，显示典型的席纹状纤维化和IgG4阳性浆细胞模式。对可能受累于IgG相关疾病的其他器官系统进行评估。最后，评估对治疗的反应，并有助于诊断图像。
+准确区分 IgG4-SC 与其他形式的硬化性胆管炎至关重要，因为 IgG4-SC 需要不同的治疗并带来良好的结果。在老年患者中，IgG4-SC有时可能被误诊为肝胆恶性肿瘤。
+
+【诊断参考】
+1.Chari ST, Smyrk TC, Levy MJ, et al.Diagnosis of autoimmune pancreatitis: the Mayo Clinic experience.Clin Gastroenterol Hepatol.2006;4(8):1010-934.doi:10.1016/j.cgh.2006.05.017
+1.Chari ST, Smyrk TC, Levy MJ, et al.Diagnosis of autoimmune pancreatitis: the Mayo Clinic experience.Clin Gastroenterol Hepatol.2006;4(8):1010-934.doi:10.1016/j.cgh.2006.05.017
+2.Ghazale A, Chari ST, Zhang L, et al.Immunoglobulin G4-associated cholangitis: clinical profile and response to therapy.Gastroenterology.2008;134(3):706-715.doi:10.1053/j.gastro.2007.12.009
+2.Ghazale A, Chari ST, Zhang L, et al.Immunoglobulin G4-associated cholangitis: clinical profile and response to therapy.Gastroenterology.2008;134(3):706-715.doi:10.1053/j.gastro.2007.12.009
+
+【IgG4-SC的治疗】
+糖皮质激素
+糖皮质激素
+有时使用利妥昔单抗或依奈利珠单抗
+有时使用利妥昔单抗或依奈利珠单抗
+系统性糖皮质激素是IgG4相关性硬化性胆管炎治疗的主要手段（1）。目标是诱导完全缓解。高剂量治疗可导致生化和症状快速改善，血清 IgG4 水平降低，通常可以避免胆道支架置入术的需要。糖皮质激素单药治疗（泼尼松或泼尼松龙）几乎总能实现完全缓解。
+如果对糖皮质激素治疗反应不足，使用利妥昔单抗（一种抗CD20单克隆抗体）或伊比利珠单抗（一种抗CD19单克隆抗体）进行B细胞耗竭也是一种有效的治疗选择(2, 3)。此外，B细胞耗竭作为类固醇节约剂，越来越多地被用作诱导治疗的一部分。由于复发率接近50%（4），大多数患者需要这些B细胞耗竭剂的维持治疗。
+
+【治疗参考文献】
+1.Beuers U, Trampert DC.IgG4-Related Cholangitis.Semin Liver Dis.Published online May 8, 2025.doi:10.1055/a-2588-3875
+1.Beuers U, Trampert DC.IgG4-Related Cholangitis.Semin Liver Dis.Published online May 8, 2025.doi:10.1055/a-2588-3875
+2.Stone JH, Khosroshahi A, Zhang W, et al.Inebilizumab for Treatment of IgG4-Related Disease.N Engl J Med.2025;392(12):1168-1177.doi:10.1056/NEJMoa2409712
+2.Stone JH, Khosroshahi A, Zhang W, et al.Inebilizumab for Treatment of IgG4-Related Disease.N Engl J Med.2025;392(12):1168-1177.doi:10.1056/NEJMoa2409712
+3.Loganathan P, Siby N, Mohan BP, et al.Efficacy of Rituximab in Autoimmune-Mediated IgG4 Pancreaticobiliary Disease: A Systematic Review and Meta-Analysis.J Clin Gastroenterol.2025;59(7):678-684.doi:10.1097/MCG.0000000000002078
+3.Loganathan P, Siby N, Mohan BP, et al.Efficacy of Rituximab in Autoimmune-Mediated IgG4 Pancreaticobiliary Disease: A Systematic Review and Meta-Analysis.J Clin Gastroenterol.2025;59(7):678-684.doi:10.1097/MCG.0000000000002078
+4.Sandanayake NS, Church NI, Chapman MH, et al.Presentation and management of post-treatment relapse in autoimmune pancreatitis/immunoglobulin G4-associated cholangitis.Clin Gastroenterol Hepatol.2009;7(10):1089-1096. doi: 10.1016/j.cgh.2009.03.021
+4.Sandanayake NS, Church NI, Chapman MH, et al.Presentation and management of post-treatment relapse in autoimmune pancreatitis/immunoglobulin G4-associated cholangitis.Clin Gastroenterol Hepatol.2009;7(10):1089-1096. doi: 10.1016/j.cgh.2009.03.021
+与 PSC 不同，IgG-SC 是一种独特的胆管病。
+与 PSC 不同，IgG-SC 是一种独特的胆管病。
+特别患有胰腺炎和胆管病的患者应怀疑 IgG-SC。
+特别患有胰腺炎和胆管病的患者应怀疑 IgG-SC。
+诊断需要异常影像，血清IgG4水平升高，组织学分析，以及其他器官系统和治疗反应的评估。
+诊断需要异常影像，血清IgG4水平升高，组织学分析，以及其他器官系统和治疗反应的评估。
+糖皮质激素治疗可导致完全缓解，且常需要B细胞耗竭药物（如利妥昔单抗、伊比利珠单抗）的维持治疗。
+糖皮质激素治疗可导致完全缓解，且常需要B细胞耗竭药物（如利妥昔单抗、伊比利珠单抗）的维持治疗。

@@ -1,0 +1,53 @@
+标题：早产儿视网膜病
+来源：https://www.msdmanuals.cn/professional/pediatrics/eye-defects-and-conditions-in-children/retinopathy-of-prematurity
+============================================================
+
+虽然视网膜内血管从大约妊娠中期开始生长，但直至足月时视网膜才完全血管化。如果这些血管按一种异常模式继续生长，在视网膜中央血管区和视网膜周围无血管区之间形成一种异常的组织隆起，就可导致早产儿视网膜病变（ROP）。在严重的早产儿视网膜病中，这些新血管侵入玻璃体。有时眼睛的整个血管系统会充血（附加病变）。
+早产儿视网膜病的易感性有差异，但与出生时无血管视网膜的比例有关。一项针对6998名婴儿的大型多中心研究发现，68%出生时体重在<1251克的新生儿患有早产儿视网膜病变(1)。当存在许多并发症（如感染、脑室内出血，支气管肺发育不良），这一比例会更高。
+尽管早产儿视网膜病变的病因是多因素的，但已知过度（特别是长时间）氧疗会增加风险。尽管尚未确定安全的氧疗水平和持续时间，但婴儿常需补充氧气以保证足够的氧合。
+
+【参考文献】
+1.Good WV, Hardy RJ, Dobson V, et al: The incidence and course of retinopathy of prematurity: Findings from the early treatment for retinopathy of prematurity study.Pediatrics116(1):15–23, 2005.doi: 10.1542/peds.2004-1413
+1.Good WV, Hardy RJ, Dobson V, et al: The incidence and course of retinopathy of prematurity: Findings from the early treatment for retinopathy of prematurity study.Pediatrics116(1):15–23, 2005.doi: 10.1542/peds.2004-1413
+
+【早产儿视网膜病的诊断】
+眼底检查法
+眼底检查法
+通过眼科医生所施行的眼科检查进行早产儿视网膜病的诊断，在轻病例中可以显示出一条界限和隆起，在严重的病例中可见增生的视网膜血管。
+筛查检眼镜检查在所有出生时体重<1500 g或<30周的婴儿中进行。由于疾病的发病通常在孕龄32至34周，因此筛查开始于孕龄31周左右。眼科检查需每1至3周进行一次（取决于眼病的严重程度），直到婴儿的血管生长达到周边（相当于足月儿状态）。
+若出生体重>1500g婴儿，且治疗恰当，发生明显早产儿视网膜病罕见，应考虑其他诊断（例如，家族性渗出性视网膜病，Norrie病）。
+
+【早产儿视网膜病的治疗】
+激光凝固
+激光凝固
+贝伐单抗
+贝伐单抗
+对于严重早产儿视网膜病，激光光凝消融外周无血管视网膜可减少视网膜皱褶和脱离的发生率。必须每隔1-2周监测视网膜血管化，直到血管充分成熟。如果婴儿期发生视网膜脱离，可考虑进行巩膜扣带术或玻璃体切除术伴晶状体切除术，但这些手术是晚期抢救措施，效果较差。
+由于早产儿视网膜病而留有残余瘢痕者，至少每年检查一次。生后第1年治疗弱视和屈光不正可获得最佳效果。有视网膜全剥离者应监测继发性青光眼的发生、眼生长不良，并针对视力损害采取干预措施。
+贝伐单抗是一种抗血管内皮生长因子（抗VEGF）单克隆抗体，可阻止早产儿视网膜病变的进展。与激光治疗相比，玻璃体内注射贝伐单抗在特定病例中复发率更低且结构异常更少（1，2）。当视网膜病复发时，它在几个月后复发；需要长期的眼科随访。考虑到全身性吸收风险及潜在感染的可能，加之需要把控用药剂量和随访时机，该药物目前仍作为二线治疗方案，仅用于重症病例或激光治疗联合应用。
+
+【治疗参考文献】
+1.Mintz-Hittner HA, Kennedy KA, Chuang AZ: Efficacy of intravitrealbevacizumabfor stage 3+ retinopathy of prematurity.N Engl J Med364(7):603–615, 2011.doi: 10.1056/NEJMoa1007374
+1.Mintz-Hittner HA, Kennedy KA, Chuang AZ: Efficacy of intravitrealbevacizumabfor stage 3+ retinopathy of prematurity.N Engl J Med364(7):603–615, 2011.doi: 10.1056/NEJMoa1007374
+2.Wallace DK, Kraker RT, Freedman SF, et al: Short-term Outcomes After Very Low-Dose IntravitreousBevacizumabfor Retinopathy of Prematurity.JAMA Ophthalmol138(6):698-701, 2020.doi: 10.1001/jamaophthalmol.2020.0334
+2.Wallace DK, Kraker RT, Freedman SF, et al: Short-term Outcomes After Very Low-Dose IntravitreousBevacizumabfor Retinopathy of Prematurity.JAMA Ophthalmol138(6):698-701, 2020.doi: 10.1001/jamaophthalmol.2020.0334
+
+【早产儿视网膜病变的预后】
+异常血管生长通常会自发消退，但在出生时体重<1000克的小部分幸存者中，在产后2至12个月内会发生视网膜脱离和视力下降。
+早产儿视网膜病愈合后的儿童，近视、斜视和弱视的发病率高。 一些患有中度早产儿视网膜病变的儿童愈合后留下瘢痕性瘢痕（例如，拖曳的视网膜或视网膜褶皱），并且在生命的后期处于视网膜脱落的风险中；很少，也可能发生青光眼和白内障。
+
+【早产儿视网膜病的预防】
+早产后，应根据需要补充氧气以避免氧浓度波动，因为高氧和缺氧都会增加早产儿视网膜病变的风险。
+维生素E和限制光暴露并没有效果。
+早产儿视网膜病变（ROP）通常发生在出生时体重小于 1500 克或妊娠期小于 30 周的婴儿身上，尤其是那些有严重医疗并发症或接受过量和/或长时间氧疗的婴儿。
+早产儿视网膜病变（ROP）通常发生在出生时体重小于 1500 克或妊娠期小于 30 周的婴儿身上，尤其是那些有严重医疗并发症或接受过量和/或长时间氧疗的婴儿。
+风险随着早产的增加而增加。
+风险随着早产的增加而增加。
+大多数病例会自行消退，但少数病例会在产后2至12个月内发展为视网膜脱离和视力丧失。
+大多数病例会自行消退，但少数病例会在产后2至12个月内发展为视网膜脱离和视力丧失。
+从妊娠31周开始，通过眼科检查（由眼科医生完成）筛查高危婴儿。
+从妊娠31周开始，通过眼科检查（由眼科医生完成）筛查高危婴儿。
+使用激光光凝或玻璃体内注射抗血管内皮生长因子药物治疗严重的早产儿视网膜病变。
+使用激光光凝或玻璃体内注射抗血管内皮生长因子药物治疗严重的早产儿视网膜病变。
+尽量减少早产后补充氧的使用。
+尽量减少早产后补充氧的使用。

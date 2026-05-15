@@ -1,0 +1,90 @@
+标题：炎症性肠病概述
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/inflammatory-bowel-disease-ibd/overview-of-inflammatory-bowel-disease
+============================================================
+
+炎症性肠病（IBD），包括克罗恩病和溃疡性结肠炎，是一种反复发作和缓解的疾病，均以胃肠道不同部位的慢性炎症为特征，这些炎症可引起腹泻和腹痛。
+炎症由胃肠黏膜中细胞介导免疫反应所致。炎症性肠病的确切病因尚不明，但有证据表明，在有多因素遗传易感性的患者中，正常肠道菌群异常地触发了免疫反应（可能与上皮屏障及黏膜免疫防御功能异常有关）。尚未发现特异性环境、饮食或感染等致病因素。免疫反应涉及炎性介质的释放，包括细胞因子、白介素及肿瘤坏死因子。
+尽管克罗恩病和溃疡性结肠炎很相似，但大多数情况下可以区分（见表区分克罗恩病和溃疡性结肠炎）。约10%结肠炎病例初期无法鉴别诊断，称为未分型结肠炎；若通过手术病理标本仍然无法确定分型，被称为未确定型结肠炎。 “结肠炎”仅指结肠炎症性疾病（如，溃疡性、肉芽肿性、缺血性、放射性及感染性）。痉挛性（黏液性）结肠炎为误称，用于描述功能性疾病——肠易激综合征。
+
+【克罗恩病与溃疡性结肠炎鉴别要点】
+克罗恩病与溃疡性结肠炎鉴别要点
+克罗恩病
+溃疡性结肠炎
+80%病例有小肠累及。
+病变局限在结肠。
+直肠很少累及，结肠病变以右半结肠为主。
+直肠总是受累；结肠病变以左半结肠为主。
+除75-85%的克罗恩结肠炎病例外，直肠大出血较为罕见。
+直肠大出血总是存在。
+常发生瘘管、包块和脓肿。
+无瘘管形成。
+25%～35%病例见明显肛周病变。
+从不发生严重肛周病变。
+X线表现为：肠壁受累呈不对称的、节段性及跳跃性。
+肠壁对称性受累，由直肠至近端连续性病变。
+内镜下见局灶性、散在溃疡灶，病灶间黏膜正常。
+均一连续性炎症改变。
+镜下炎症及裂隙呈透壁性，病灶常呈高度灶性分布。
+除严重病例外，炎症局限于黏膜层。
+25 %～50 %病例的肠壁或淋巴结可见上皮样（结节样）肉芽肿（此为特异性表现）。
+无典型的上皮样肉芽肿。
+
+【流行病学】
+炎症性肠病可发生于各年龄段人群，但通常多数始发于30岁前，发病高峰年龄14 ～ 24岁 (1)。IBD第二个发病小高峰可为50 ～ 70岁，但可能涵盖部分缺血性结肠炎病例。
+IBD 在北欧和盎格鲁撒克逊人中最常见。德系犹太人（来自中欧或东欧）的发病率是居住在同一地区的非犹太白人的2到4倍（2）。在欧洲中部和南部发病率较低，而在南美洲、亚洲和非洲则更低。但居住于北美地区的黑人及拉丁美洲裔，发病率处于上升中。不同性别中并无差异。IBD患者一级亲属患病风险增加4至20倍；其绝对风险可能高达7%。克罗恩病的家族倾向性远高于溃疡性结肠炎。已确认多种基因突变可增加克罗恩病发病风险（有些可能与溃疡性结肠炎相关）。
+吸烟似与克罗恩病的发生或恶化相关，但可降低溃疡性结肠炎风险。因阑尾炎行阑尾切除术似可降低溃疡性结肠炎风险。非甾体类抗炎药(NSAIDs)可能加重IBD。口服避孕药可能增加克罗恩病风险。一些数据表明，围产期疾病及儿童期抗生素使用可致IBD风险增加。
+原因尚不明确，社会经济地位较高的人患有克罗恩病的风险较高。
+
+【参考文献】
+1.Bernstein CN, Rawsthorne P, Cheang M, et al: A population-based case control study of potential risk factors for IBD.Am J Gastroenterol101(5):993-1002, 2006.doi: 10.1111/j.1572-0241.2006.00381.x
+1.Bernstein CN, Rawsthorne P, Cheang M, et al: A population-based case control study of potential risk factors for IBD.Am J Gastroenterol101(5):993-1002, 2006.doi: 10.1111/j.1572-0241.2006.00381.x
+2.Schiff ER, Frampton M, Semplici F, et al: A new look at familial risk of inflammatory bowel disease in the Ashkenazi Jewish population.Dig Dis Sci63(11):3049-3057, 2018.doi: 10.1007/s10620-018-5219-9
+2.Schiff ER, Frampton M, Semplici F, et al: A new look at familial risk of inflammatory bowel disease in the Ashkenazi Jewish population.Dig Dis Sci63(11):3049-3057, 2018.doi: 10.1007/s10620-018-5219-9
+
+【炎症性肠病的肠外表现】
+克罗恩病及溃疡性结肠炎均可影响肠道以外其他脏器。相比小肠型克罗恩病，溃疡性结肠炎及克罗恩结肠炎的肠外表现更多见。炎症性肠病的肠外表现可分为以下3种类型：
+1.通常与IBD发作同时出现（即，随IBD发作而消长）的疾病：这些疾病包括周围性关节炎、巩膜外层炎、阿弗他口炎和结节性红斑。关节炎倾向于累及大关节，且呈游走性及一过性。
+2.与IBD明确相关，但其发生与IBD活动性无关的疾病：这些疾病包括强直性脊柱炎、骶髂关节炎、葡萄膜炎、坏疽性脓皮病以及原发性硬化性胆管炎。 强直性脊柱炎更常见于具有人类白细胞抗原 B27 (HLA-B27) 的 IBD 患者。 大多数脊柱或骶髂部受累的患者常有葡萄膜炎，反之亦然。原发性硬化性胆管炎是胆道癌症的危险因素，与溃疡性结肠炎和克罗恩结肠炎密切相关。胆管炎可先于或与肠道疾病同时出现，甚至在结肠切除20年后发生。肝脏疾病(如脂肪变性肝病、自身免疫性肝炎、胆管周炎、肝硬化)发生在3%至5%的患者中，尽管肝脏检查中的轻微异常更为常见。部分此类疾病（如原发性硬化性胆管炎）可能比IBD早发多年，一旦确诊，应促使进行IBD评估。
+3.肠生理功能紊乱所致疾病：这些疾病主要见于严重的小肠克罗恩病。回肠广泛切除可致吸收不良，引起脂溶性维生素、维生素B12或矿物质缺乏，导致贫血、低钙血症、低镁血症、凝血障碍和骨质脱矿。对于儿童，吸收不良可导致生长发育迟缓。其他疾病包括：饮食草酸盐过量吸收所致肾结石、肠道炎症压迫输尿管致输尿管积水及肾积水、回肠胆盐重吸收障碍致胆石症、长期炎性及化脓性疾病致继发性淀粉样变性等。
+上述三类疾病的多因素作用可导致血栓栓塞性疾病。
+
+【炎症性肠病的治疗】
+支持治疗
+支持治疗
+5-氨基水杨酸
+5-氨基水杨酸
+糖皮质激素
+糖皮质激素
+免疫调节药物
+免疫调节药物
+生物制剂（抗细胞因子药物）
+生物制剂（抗细胞因子药物）
+小分子药物（例如，Janus激酶抑制剂、1-磷酸鞘氨醇 [S1P] 受体调节剂）
+小分子药物（例如，Janus激酶抑制剂、1-磷酸鞘氨醇 [S1P] 受体调节剂）
+有时需用抗生素（如，甲硝唑、环丙沙星）及益生菌
+有时需用抗生素（如，甲硝唑、环丙沙星）及益生菌
+多类药物对IBD治疗有效。药物具体选择与用法见各疾病所述及治疗炎症性肠病的药物。
+
+【支持治疗】
+患者及其家属应该关注饮食与压力管理。尽管有报告称某些膳食治疗（包括严格限制碳水化合物）可改善临床症状，但对照试验并未证实其疗效在不同试验中具一致性。压力管理可能对治疗有效。
+
+【炎症性肠病的健康维护】
+IBD患者应每年接种流感疫苗和肺炎球菌疫苗。 ≥ 19 岁的人应接受重组带状疱疹疫苗(1)。如果可能，应在开始免疫抑制治疗之前接种该疫苗。
+常规疫苗接种，如破伤风-白喉、甲型肝炎、乙型肝炎和人乳头瘤病毒，应按照免疫实践咨询委员会（ACIP）指南进行。
+疾病控制和预防中心 (CDC) 和加拿大胃肠病学协会建议 IBD 患者，包括接受免疫抑制治疗的患者，接受 mRNA2019冠状病毒病疫苗。
+
+【筛查试验】
+未接受免疫抑制治疗的女性患者应筛查宫颈癌每 3 年一次。正在接受免疫抑制治疗的患者应每年进行宫颈癌筛查。
+所有正在服用或计划服用免疫调节剂或生物制剂的患者都应该每年进行皮肤癌评估。
+有骨质疏松风险的患者应行双能X线吸收计量法（DXA）检查。
+
+【健康保养参考】
+1.Neil Murthy, A. Patricia Wodi, Sybil Cineas, et al: Recommended adult immunization schedule, United States, 2023.Ann Intern Med176:367-380, 2023. doi:10.7326/M23-0041
+1.Neil Murthy, A. Patricia Wodi, Sybil Cineas, et al: Recommended adult immunization schedule, United States, 2023.Ann Intern Med176:367-380, 2023. doi:10.7326/M23-0041
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Advisory Committee on Immunization Practices(ACIP): Information about routine vaccination recommendations and guidelines and vaccine-specific updates
+Advisory Committee on Immunization Practices(ACIP): Information about routine vaccination recommendations and guidelines and vaccine-specific updates
+Canadian Association of Gastroenterology:Clinical practice guideline for immunizations in patients with inflammatory bowel disease—Part 2: Inactivated vaccines(2021)
+Canadian Association of Gastroenterology:Clinical practice guideline for immunizations in patients with inflammatory bowel disease—Part 2: Inactivated vaccines(2021)

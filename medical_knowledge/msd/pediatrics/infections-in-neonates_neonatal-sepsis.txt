@@ -1,0 +1,258 @@
+标题：新生儿脓毒症
+来源：https://www.msdmanuals.cn/professional/pediatrics/infections-in-neonates/neonatal-sepsis
+============================================================
+
+(另参见成人脓毒症和感染性休克及新生儿感染概述。)
+新生儿脓毒症的发生率为每1000名活产婴儿中1至4例（1）。危险因素包括下列内容：
+胎膜早破
+胎膜早破
+母体感染或产时发热，包括B族链球菌定植及羊膜腔内感染
+母体感染或产时发热，包括B族链球菌定植及羊膜腔内感染
+低出生体重（LBW）婴儿
+低出生体重（LBW）婴儿
+低阿普加评分和/或需要新生儿复苏
+低阿普加评分和/或需要新生儿复苏
+性别为男性 (2)
+性别为男性 (2)
+社会经济地位较低与新生儿败血症的发生率和死亡率增加有关（3,4）。
+
+【参考文献】
+1.Shane AL, Sánchez PJ, Stoll BJ.Neonatal sepsis.Lancet.2017;390(10104):1770-1780.doi:10.1016/S0140-6736(17)31002-4
+1.Shane AL, Sánchez PJ, Stoll BJ.Neonatal sepsis.Lancet.2017;390(10104):1770-1780.doi:10.1016/S0140-6736(17)31002-4
+2.Murthy S, Godinho MA, Guddattu V, Lewis LES, Nair NS.Risk factors of neonatal sepsis in India: A systematic review and meta-analysis.PLoS One.2019;14(4):e0215683.Published 2019 Apr 25.doi:10.1371/journal.pone.0215683
+2.Murthy S, Godinho MA, Guddattu V, Lewis LES, Nair NS.Risk factors of neonatal sepsis in India: A systematic review and meta-analysis.PLoS One.2019;14(4):e0215683.Published 2019 Apr 25.doi:10.1371/journal.pone.0215683
+3.Bech CM, Stensgaard CN, Lund S, et al.Risk factors for neonatal sepsis in Sub-Saharan Africa: a systematic review with meta-analysis.BMJ Open.2022;12(9):e054491.Published 2022 Sep 1.doi:10.1136/bmjopen-2021-054491
+3.Bech CM, Stensgaard CN, Lund S, et al.Risk factors for neonatal sepsis in Sub-Saharan Africa: a systematic review with meta-analysis.BMJ Open.2022;12(9):e054491.Published 2022 Sep 1.doi:10.1136/bmjopen-2021-054491
+4.Bohanon FJ, Nunez Lopez O, Adhikari D, et al.Race, Income and Insurance Status Affect Neonatal Sepsis Mortality and Healthcare Resource Utilization.Pediatr Infect Dis J.2018;37(7):e178-e184.doi:10.1097/INF.0000000000001846
+4.Bohanon FJ, Nunez Lopez O, Adhikari D, et al.Race, Income and Insurance Status Affect Neonatal Sepsis Mortality and Healthcare Resource Utilization.Pediatr Infect Dis J.2018;37(7):e178-e184.doi:10.1097/INF.0000000000001846
+
+【新生儿败血症的病因】
+新生儿败血症的发作可
+早期（出生后≤3天）
+早期（出生后≤3天）
+晚期（>3天）
+晚期（>3天）
+
+【早发型新生儿脓毒血症】
+早发型新生儿脓毒血症通常来自产时的感染。大多数婴儿在出生后6小时内出现症状。
+大多数病例是由group B streptococcus（B族链球菌）（GBS）和革兰氏阴性肠道病原菌（主要是Escherichia coli（大肠埃希菌））引起的。足月妊娠孕妇的阴道或直肠培养显示GBS定植率约为18% (1,2)。高达50%的婴儿也会被定植(3)。婴儿定植的密度决定了早发型侵袭性疾病的风险，重度定植时风险显著增高。虽然只有1-2/100的定植婴儿会发展为GBS侵袭性疾病，但其中大多数会在生后6小时内出现症状。新生儿（尤其是早产儿）中也已发现非定型性Haemophilus influenzae（流感嗜血杆菌）脓毒血症。
+其他病例通常由革兰氏阴性肠道杆菌（如Klebsiella（克雷伯菌）属）和某些革兰氏阳性菌（Listeria monocytogenes（单核细胞增多性李斯特菌）、enterococci（肠球菌）[如Enterococcus faecalis（粪肠球菌）、E. faecium（屎肠球菌）]、group D streptococci（D组链球菌）[如，Streptococcus bovis（牛链球菌）]、alpha-hemolytic streptococci（α-溶血性链球菌）和staphylococci（葡萄球菌））引起。还分离出S. pneumoniae（肺炎链球菌）、H. influenzae（流感嗜血杆菌）b型，以及较少见的Neisseria meningitidis（脑膜炎奈瑟菌）。妊娠期淋病未经治疗可能导致新生儿败血症中淋病奈瑟菌成为致病菌（4）。
+某些病毒感染（如播散型单纯疱疹病毒、肠病毒、腺病毒和呼吸道合胞病毒）可表现为早发型或迟发型新生儿脓毒血症。
+
+【晚发性新生儿败血症】
+迟发型新生儿脓毒血症通常是从环境中获得的(见新生儿医院获得性感染)。Staphylococci（葡萄球菌）占迟发型病例的30%-60%，最常与血管内装置(特别是中心血管导管)相关。E. coli（大肠杆菌）也越来越被认为是迟发型脓毒血症的一个重要原因，尤其是在极低出生体重（LBW）婴儿中。从血液或脑脊液中分离出Enterobacter cloacae（阴沟肠杆菌）或Cronobacter sakazakii（克罗诺杆菌）可能源于喂养品污染。呼吸设备污染被怀疑是医院获得性Pseudomonas aeruginosa（铜绿假单胞菌）肺炎或脓毒血症爆发的原因。
+尽管对B族链球菌的全面筛查和产时抗生素预防已显著降低了该病原体引起的早发型疾病发病率，但晚发型B族链球菌脓毒症的发病率并未改变，这与晚发型疾病通常源于环境暴露的假设相一致。
+anaerobes（厌氧菌）(特别是Bacteroides fragilis（脆弱拟杆菌）)在迟发型脓毒血症中的作用仍不明确，尽管有死亡病例被归因于Bacteroides（拟杆菌）菌血症。
+Candida（念珠菌）是导致晚发型败血症日益重要的原因，尤其是对于极低出生体重儿而言。
+某些病毒感染（如播散型单纯疱疹病毒、肠病毒、腺病毒和呼吸道合胞病毒）可表现为早发型或迟发型新生儿脓毒血症。
+
+【病因参考文献】
+1.Kwatra G, Cunnington MC, Merrall E, et al.Prevalence of maternal colonisation with group B streptococcus: a systematic review and meta-analysis.Lancet Infect Dis.2016;16(9):1076-1084.doi:10.1016/S1473-3099(16)30055-X
+1.Kwatra G, Cunnington MC, Merrall E, et al.Prevalence of maternal colonisation with group B streptococcus: a systematic review and meta-analysis.Lancet Infect Dis.2016;16(9):1076-1084.doi:10.1016/S1473-3099(16)30055-X
+2.Russell NJ, Seale AC, O'Driscoll M, et al.Maternal Colonization With Group B Streptococcus and Serotype Distribution Worldwide: Systematic Review and Meta-analyses.Clin Infect Dis.2017;65(suppl_2):S100-S111.doi:10.1093/cid/cix658
+2.Russell NJ, Seale AC, O'Driscoll M, et al.Maternal Colonization With Group B Streptococcus and Serotype Distribution Worldwide: Systematic Review and Meta-analyses.Clin Infect Dis.2017;65(suppl_2):S100-S111.doi:10.1093/cid/cix658
+3.Prevention of Group B Streptococcal Early-Onset Disease in Newborns: ACOG Committee Opinion Summary, Number 782.Obstet Gynecol.2019;134(1):1.doi:10.1097/AOG.0000000000003335
+3.Prevention of Group B Streptococcal Early-Onset Disease in Newborns: ACOG Committee Opinion Summary, Number 782.Obstet Gynecol.2019;134(1):1.doi:10.1097/AOG.0000000000003335
+4.Shane AL, Sánchez PJ, Stoll BJ.Neonatal sepsis.Lancet.2017;390(10104):1770-1780.doi:10.1016/S0140-6736(17)31002-4
+4.Shane AL, Sánchez PJ, Stoll BJ.Neonatal sepsis.Lancet.2017;390(10104):1770-1780.doi:10.1016/S0140-6736(17)31002-4
+
+【新生儿败血症的病理生理学】
+
+【早发型新生儿脓毒血症】
+某些母体围产期和产科因素增加风险，特别是早发型新生儿脓毒血症的风险，如以下因素：
+胎膜早破（PROM）发生在出生前≥18小时
+胎膜早破（PROM）发生在出生前≥18小时
+产妇羊膜腔感染（最常见的表现是分娩前不久或分娩期间产妇发热，伴有产妇白细胞增多、心动过速、子宫压痛和/或羊水恶臭）
+产妇羊膜腔感染（最常见的表现是分娩前不久或分娩期间产妇发热，伴有产妇白细胞增多、心动过速、子宫压痛和/或羊水恶臭）
+GBS定植
+GBS定植
+母体感染的血源性和经胎盘播散发生于某些病毒（如rubella（风疹）、cytomegalovirus（巨细胞病毒））、原虫（如Toxoplasma gondii（弓形虫））和螺旋体（如Treponema pallidum（梅毒螺旋体））病原体的传播中。一些细菌性病原体（如L. monocytogenes（单核细胞增多性李斯特菌）、Mycobacterium tuberculosis（结核杆菌））可能通过胎盘传给胎儿，但大多数细菌感染是由产道上行到宫内，或在分娩过程中因接触感染的阴道液而获得。
+虽然母亲细菌定植的密度与新生儿受侵袭性感染的危险性直接相关，但许多低密度定植的母亲生下的婴儿可能有高密度定植，因此仍有风险。羊水被胎粪或者胎脂污染后促进B族Streptococcus（链球菌）和E. coli（大肠杆菌）的生长。因此，胎膜早破后阴道穹隆的少量病原体能够迅速繁殖，可能解释了这一矛盾现象。病原菌进入血液最常见的途径是通过胎儿吸入或吞咽污染的羊水，导致产生菌血症。
+感染的上升途径有助于解释以下现象：新生儿感染中胎膜早破的发生率高、附件炎症的重要性（羊膜炎与新生儿败血症的相关性高于中央性胎盘炎）、胎儿位置更靠近宫颈的双胎妊娠感染风险增加以及早发型新生儿败血症的细菌学特征，后者反映了母亲阴道穹窿的菌群。
+
+【晚发性新生儿败血症】
+发生迟发性脓毒血症最重要的危险因素是
+其他危险因素包括：
+血管内导管的长期使用
+血管内导管的长期使用
+相关疾病（然而，这可能仅是使用侵入性操作的标志）
+相关疾病（然而，这可能仅是使用侵入性操作的标志）
+抗生素暴露（会选择耐药菌株）
+抗生素暴露（会选择耐药菌株）
+长期住院
+长期住院
+设备污染和静脉补液或肠道外补液
+设备污染和静脉补液或肠道外补液
+革兰氏阳性菌（如Coagulase-negative staphylococci（凝固酶阴性葡萄球菌）和Staphylococcus aureus（金黄色葡萄球菌））可能来源于环境或患者的皮肤。革兰氏阴性菌几乎全部来源于特性已被先前抗生素治疗所改变了的患儿的内源性菌丛，或通过工作人员的手（主要传播途径）或污染的仪器所传播的耐药菌群。因此，增加接触这些细菌的情况（如拥挤、护理人员配备不足、医护人员手卫生不规范）会导致医院获得性感染率增加。
+念珠菌性脓毒症的危险因素包括长期（>10 天）使用中心静脉导管、肠外营养、先前使用抗生素（尤其是第三代头孢菌素）和腹部病变。
+初始感染灶可位于尿路、鼻旁窦、中耳、肺或胃肠道，随后可播散至脑膜、肾脏、骨骼、关节、腹膜和皮肤。
+
+【新生儿败血症的症状和体征】
+新生儿败血症早期体征通常是非特异性的和微妙的，并且不能区分不同的生物体（包括病毒）。特别常见的早期体征包括：
+自发性活动减少
+自发性活动减少
+吸吮无力
+吸吮无力
+呼吸暂停
+呼吸暂停
+心动过缓
+心动过缓
+体温不稳（过高或过低）
+体温不稳（过高或过低）
+新生儿发热的发生率<10%，但如果持续发热（例如，>1 小时），一般表明感染（1）。(也可参考婴幼儿发热。)可能存在体温不稳定而不是发烧。 其他症状和体征包括呼吸窘迫、神经系统症状（如惊厥和颤抖）、黄疸（特别是发生在出生后24小时内，而无Rh或ABO血型不合，直接胆红素比预期的高）、呕吐、腹泻和腹胀。
+受感染器官的特异性表现可提示该器官是原发还是转移病灶。
+大多数早发型B族链球菌（GBS）感染（以及许多L. monocytogenes（李斯特菌）感染）的新生儿会出现呼吸窘迫，这种呼吸窘迫与新生儿呼吸窘迫综合征难以鉴别。
+大多数早发型B族链球菌（GBS）感染（以及许多L. monocytogenes（李斯特菌）感染）的新生儿会出现呼吸窘迫，这种呼吸窘迫与新生儿呼吸窘迫综合征难以鉴别。
+新生儿脐周红斑、渗出、出血但不伴有出血性疾病时提示脐炎（感染延迟了脐血管的关闭）
+新生儿脐周红斑、渗出、出血但不伴有出血性疾病时提示脐炎（感染延迟了脐血管的关闭）
+昏迷、惊厥、角弓反张或囟门凸起提示脑膜炎、脑炎或脑脓肿。
+昏迷、惊厥、角弓反张或囟门凸起提示脑膜炎、脑炎或脑脓肿。
+肢体自主运动减少以及关节肿胀、发热、发红或压痛提示骨髓炎或化脓性关节炎。
+肢体自主运动减少以及关节肿胀、发热、发红或压痛提示骨髓炎或化脓性关节炎。
+无法解释的腹胀可能提示腹膜炎或坏死性小肠结肠炎（尤其是在伴有血性腹泻和粪便白细胞的情况下）。
+无法解释的腹胀可能提示腹膜炎或坏死性小肠结肠炎（尤其是在伴有血性腹泻和粪便白细胞的情况下）。
+皮肤水疱、口腔溃疡和肝脾肿大（特别是伴弥漫性血管内凝血）提示播散型单纯疱疹感染。
+皮肤水疱、口腔溃疡和肝脾肿大（特别是伴弥漫性血管内凝血）提示播散型单纯疱疹感染。
+早发性 B 组链球菌感染可能表现为暴发性肺炎。通常会发生产科并发症（特别是早产、胎膜早破或羊膜腔感染）。早发型GBS感染多在出生后6小时内显现；许多患儿出生时阿普加评分较低。 脑膜炎也可能存在，但不常见。
+在晚发性GBS感染（> 3天至12周），脑膜炎常常存在。此型感染与围产期危险因素和母亲宫颈菌丛定植的关系很少，多为生后获得感染。
+
+【症状和体征】
+1.Hofer N, Müller W, Resch B.Neonates presenting with temperature symptoms: role in the diagnosis of early onset sepsis.Pediatr Int.2012;54(4):486-490.doi:10.1111/j.1442-200X.2012.03570.x
+1.Hofer N, Müller W, Resch B.Neonates presenting with temperature symptoms: role in the diagnosis of early onset sepsis.Pediatr Int.2012;54(4):486-490.doi:10.1111/j.1442-200X.2012.03570.x
+
+【新生儿败血症的诊断】
+病史和体格检查，包括母体病史
+病史和体格检查，包括母体病史
+血液，脑脊液，有时尿培养
+血液，脑脊液，有时尿培养
+血常规、炎症标志物及器官系统功能指标
+血常规、炎症标志物及器官系统功能指标
+新生儿败血症早期诊断很重要，需要识别高危因素（特别是在低出生体重的新生儿中）并在任何新生儿在生后数周内的表现偏离正常标准时应高度怀疑败血症。新生儿早发型败血症风险预测是一种针对出生胎龄≥34周婴儿的临床风险计算器，已在高资源环境中验证使用。其他风险预测工具可能更适用于中低收入国家（1、2、3）。
+有败血症临床表现的新生儿应尽快进行全血细胞计数（CBC）、分类涂片、炎症标志物检测（如C反应蛋白、降钙素原）、血培养、尿培养（早发败血症评估时不必）及腰椎穿刺（LP），如临床允许。出现呼吸道症状的新生儿需行胸部X线检查。诊断依据病原体的培养分离。其他检查可能出现异常结果，虽不一定能确诊败血症，但有助于评估病情严重程度及器官系统受累情况。婴儿应给予广谱经验性抗菌治疗。
+表现健康的新生儿需要根据以下讨论的几个因素进行管理，详见下文预防新生儿败血症。
+
+【全血细胞计数、分类和涂片】
+新生儿的总白细胞计数和绝对带状核粒细胞计数是早期败血症的不良预测因子。然而，未成熟：总多形核白细胞的比率 > 0.16是敏感的，低于该截止值的值具有高阴性预测值。然而，特异性较差，许多足月新生儿的该比率升高。在生后6小时后获得的值比在出生后立即获得的值更可能异常且具有临床价值。
+血小板计数可能在临床败血症发作前数小时至数天下降，但更多情况下，血小板计数在新生儿发病后的一天左右仍保持升高。这种下降有时伴随弥散性血管内凝血的其他发现（例如，纤维蛋白降解产物增加，纤维蛋白原减少，国际标准化比率 [INR] 延长）。鉴于这些变化的时间性，血小板计数通常对评估新生儿败血症没有帮助。
+由于脓毒血症新生儿血中有大量循环的细菌，对血的棕黄层用革兰氏、美蓝或丫啶橙染色，常可在多核中性粒细胞中或其有关部位发现病原菌。
+不论全血细胞计数或脑脊液检查结果如何，所有可疑脓毒血症（如，病态、发热或低体温）新生儿都应在培养（如，血液和脑脊液 [若可能]）后，立即开始接受抗生素治疗。
+
+【腰椎穿刺】
+对已有缺氧的婴儿做腰穿有加重缺氧的危险。但怀疑脓毒血症的新生儿应在病情稳定并能承受操作时立即作腰穿（另请参见新生儿细菌性脑膜炎的诊断）。细菌性脑膜炎的体征包括白细胞计数升高、低葡萄糖及蛋白质升高。在腰穿前和腰穿时给氧，防止低氧血症。
+脐血管常被脐带残端上的细菌污染，特别在经过数小时后，因此脐静脉采血作培养可能不可靠。应通过静脉穿刺抽血，最好选择两处外周静脉抽血。尽管在获得新生儿血培养物之前进行的最佳皮肤消毒方法尚未确定，但临床医生可以使用含碘液体并让部位干燥。或者，在放置脐动脉导管后不久获得的血液也可以根据需要用于培养。
+血必须同时作需氧菌和厌氧菌培养（如果怀疑脆弱类杆菌感染，应特别注明，以便采用特殊的培养条件）。然而，每个血培养瓶的最小血量为1.0mL; 如果获得<2mL，则应将其全部置于单个需氧血培养瓶中。如果考虑脓毒血症与插管有关，应通过插管取样同时经周围血管取血作培养。
+Candida（念珠菌）属能在血培养和血琼脂培养基上生长，但如果怀疑有其他真菌存在，必须用真菌培养基。对于Candida（念珠菌属）以外的真菌种类，真菌血培养可能需要4到5天的孵育才能呈阳性，甚至在明显的播散性疾病中也可能为阴性。在得到培养结果之前，确定菌丛的定植是有帮助的（在口腔、大便或皮肤）。患有念珠菌血症的新生儿应进行腰椎穿刺以确定是否有念珠菌性脑膜炎。通过散瞳间接检眼镜检查可识别视网膜念珠菌病变。通过肾脏超声检查可检测肾真菌球。
+
+【尿分析和培养】
+尿液检测仅需要用于评估晚发性脓毒症。尿液应通过导尿或耻骨上穿刺获取，而不是使用尿收集袋。尽管只有培养是确诊依据，但在离心尿液中发现每高倍视野有≥5个白细胞，或在未离心的新鲜尿液的革兰氏染色样本中发现任何细菌，都是尿路感染（UTI）的推定证据。未见脓尿并不能排除尿路感染。
+
+【其他炎症试验】
+很多实验室检查结果异常可作为早期评估脓毒血症的指标。然而，总体而言，直到疾病晚期前，敏感性往往是较低的，特异性也不理想。生物标志物因其阳性预测值差而被认为对于确定何时开始对新生儿脓毒症使用抗生素无用，但它们可能具有辅助作用，如果培养物在疑似早发性脓毒症中仍为阴性，则可以确定何时停止使用抗生素。
+急性期反应物是发生炎症时肝脏在白介素-1刺激下产生的蛋白质。其中研究最多的是定量C反应蛋白。≥1mg/dL (9.52 nmol/L)的浓度（通过浊度法测量）通常被认为是异常的。 升高的水平发生在发展中的败血症的6至8小时内，并且在1天时达到峰值。 如果在6至8小时的寿命后测量，C-反应蛋白测量的灵敏度更高。
+降钙素原作为一种急性期反应物标志物，正在成为新生儿败血症的检测指标。虽然降钙素原的敏感性优于C反应蛋白，但其特异性较低（4）。降钙素原与C反应蛋白等生物标志物组合，可能有助于更好地指导抗生素使用时长（5）。
+
+【诊断参考】
+1.Escobar GJ, Puopolo KM, Wi S, et al.Stratification of risk of early-onset sepsis in newborns ≥ 34 weeks' gestation.Pediatrics.2014;133(1):30-36.doi:10.1542/peds.2013-1689
+1.Escobar GJ, Puopolo KM, Wi S, et al.Stratification of risk of early-onset sepsis in newborns ≥ 34 weeks' gestation.Pediatrics.2014;133(1):30-36.doi:10.1542/peds.2013-1689
+2.Kuzniewicz MW, Walsh EM, Li S, Fischer A, Escobar GJ.Development and Implementation of an Early-Onset Sepsis Calculator to Guide Antibiotic Management in Late Preterm and Term Neonates.Jt Comm J Qual Patient Saf.2016;42(5):232-239.doi:10.1016/s1553-7250(16)42030-1
+2.Kuzniewicz MW, Walsh EM, Li S, Fischer A, Escobar GJ.Development and Implementation of an Early-Onset Sepsis Calculator to Guide Antibiotic Management in Late Preterm and Term Neonates.Jt Comm J Qual Patient Saf.2016;42(5):232-239.doi:10.1016/s1553-7250(16)42030-1
+3.Russell NJ, Stöhr W, Plakkal N, et al.Patterns of antibiotic use, pathogens, and prediction of mortality in hospitalized neonates and young infants with sepsis: A global neonatal sepsis observational cohort study (NeoOBS).PLoS Med.2023;20(6):e1004179.Published 2023 Jun 8.doi:10.1371/journal.pmed.1004179
+3.Russell NJ, Stöhr W, Plakkal N, et al.Patterns of antibiotic use, pathogens, and prediction of mortality in hospitalized neonates and young infants with sepsis: A global neonatal sepsis observational cohort study (NeoOBS).PLoS Med.2023;20(6):e1004179.Published 2023 Jun 8.doi:10.1371/journal.pmed.1004179
+4.Pontrelli G, De Crescenzo F, Buzzetti R, et al.Accuracy of serum procalcitonin for the diagnosis of sepsis in neonates and children with systemic inflammatory syndrome: A meta-analysis.BMC Infect Dis.2017;17(1):302.doi:10.1186/s12879-017-2396-7
+4.Pontrelli G, De Crescenzo F, Buzzetti R, et al.Accuracy of serum procalcitonin for the diagnosis of sepsis in neonates and children with systemic inflammatory syndrome: A meta-analysis.BMC Infect Dis.2017;17(1):302.doi:10.1186/s12879-017-2396-7
+5.Stocker M, van Herk W, El Helou S, et al.C-reactive protein, procalcitonin, and white blood count to rule out neonatal early-onset sepsis within 36 hours: A secondary analysis of the neonatal procalcitonin intervention study.Clin Infect Dis.2021;73(2):e383–e390.doi:10.1093/cid/ciaa876
+5.Stocker M, van Herk W, El Helou S, et al.C-reactive protein, procalcitonin, and white blood count to rule out neonatal early-onset sepsis within 36 hours: A secondary analysis of the neonatal procalcitonin intervention study.Clin Infect Dis.2021;73(2):e383–e390.doi:10.1093/cid/ciaa876
+
+【新生儿败血症的治疗】
+抗菌疗法
+抗菌疗法
+支持性治疗
+支持性治疗
+由于新生儿脓毒血症的临床表现无特异性，可产生严重后果，且大多数病例为细菌性感染，因此建议进行早期快速经验性抗生素治疗；药物可根据后来的药敏结果和感染部位来调整。一般情况下，如果临床未发现感染源，婴儿表现良好且培养阴性，抗生素可在48小时后停止（早产小婴儿最长可达72小时）。
+同时要给予一般性支持治疗，包括呼吸支持和维持血流动力学稳定。
+
+【抗生素治疗】
+早发型脓毒血症的初始治疗应包括氨苄西林加一种氨基糖苷类药物(如庆大霉素)。怀疑革兰氏阴性菌所致脑膜炎时可以头孢噻肟替代氨基糖苷类或两药并用。
+氨苄西林对肠球菌和Listeria（李斯特菌）等有效。庆大霉素对这些微生物具有协同作用，也可治疗许多革兰氏阴性感染。第三代头孢菌素为大多数革兰氏阴性病原体提供了足够的覆盖。高胆红素血症新生儿或接受含钙静脉输液者禁用头孢曲松。病原体确定后及时换用敏感抗生素。
+对于以前状况良好、因疑似社区获得性感染而入院的迟发型脓毒症患儿，初始治疗应包括氨苄青霉素加庆大霉素或氨苄青霉素加头孢噻肟。如果怀疑革兰氏阴性脑膜炎，可以使用氨苄青霉素，头孢噻肟和氨基糖苷。如果是迟发型医院获得性脓毒症，初始治疗应给予万古霉素（对抗耐甲氧西林的S. aureus（金黄色葡萄球菌）有效）联合氨基糖苷类抗生素。如果P. aeruginosa（铜绿假单胞菌）在新生儿病房中普遍存在，则根据局部的易感性，可以使用头孢他啶，头孢吡肟或哌拉西林/他唑巴坦作为氨基糖苷类的补充或替代。
+对于已接受7至14天完整氨基糖苷类疗程的新生儿，如需再次使用时，应更换为其他氨基糖苷类抗生素或改用第三代头孢菌素。
+如果怀疑有coagulase-negative staphylococci（凝固酶阴性的葡萄球菌）（如血管内置管>72小时），或从血液和其他无菌体液中分离到并考虑为病原菌，开始治疗迟发型脓毒血症时应包括万古霉素。然而，如果发现病原菌对萘夫西林敏感时，应用头孢唑林或萘夫西林替代万古霉素。祛除可能的病原菌来源（通常为血管内留置导管）是非常必要的，因为凝固酶阴性的葡萄球菌可为一种粘物质覆盖（多糖蛋白质复合物）而得到保护，这种粘物质容易将病原菌黏附于导管。
+由于Candida（念球菌）真菌血培养需2～3日才能生长，在培养确认酵母菌感染前，经验性使用两性霉素B脱氧胆酸盐治疗，并去除感染的导管可能是救命的。
+若鉴别诊断涉及单纯疱疹病毒、水痘-带状疱疹病毒及巨细胞病毒，应启动抗病毒治疗。
+
+【其他治疗】
+换血治疗用于危重的新生儿（特别是低血压和代谢性酸中毒）。它的主要意义是提高循环中的免疫球蛋白，降低循环中的内毒素，增加血红蛋白水平（伴2，3-二磷酸甘油酸浓度的上升），并改善血流灌注。但支持该疗法的证据混杂且不足以推荐其使用（1）。
+新鲜冷冻血浆可能有助于逆转低出生体重新生儿中存在的耐热型和不耐热型调理素缺乏，但缺乏相关对照研究，且必须考虑输血相关风险（2）。
+粒细胞输注（见白细胞(WBCs)）已用于脓毒血症伴粒细胞减少症的新生儿，但尚未令人信服地改善预后。
+重组集落刺激因子（粒细胞集落刺激因子G-CSF和粒－巨噬细胞集落刺激因子GM-CSF）已增加疑似脓毒血症新生儿的中性粒细胞数量及功能，但对严重中性粒细胞减少症的新生儿似乎没有常规益处；需要进一步研究。
+
+【治疗参考文献】
+1.Mathias S, Balachander B, Bosco A, Britto C, Rao S.The effect of exchange transfusion on mortality in neonatal sepsis: a meta-analysis.Eur J Pediatr.2022;181(1):369-381.doi:10.1007/s00431-021-04194-w
+1.Mathias S, Balachander B, Bosco A, Britto C, Rao S.The effect of exchange transfusion on mortality in neonatal sepsis: a meta-analysis.Eur J Pediatr.2022;181(1):369-381.doi:10.1007/s00431-021-04194-w
+2.Sokou R, Parastatidou S, Konstantinidi A, et al.Fresh frozen plasma transfusion in the neonatal population: A systematic review.Blood Rev.2022;55:100951.doi:10.1016/j.blre.2022.100951
+2.Sokou R, Parastatidou S, Konstantinidi A, et al.Fresh frozen plasma transfusion in the neonatal population: A systematic review.Blood Rev.2022;55:100951.doi:10.1016/j.blre.2022.100951
+
+【新生儿败血症的预后】
+早发型脓毒血症的总死亡率为18%（早发型GBS感染的死亡率为2至10%），晚发型脓毒血症的死亡率高达12%（社区获得性晚发型脓毒血症比医院获得性的死亡率低）。迟发型败血症的死亡率高度取决于致病菌种类。
+感染性休克患儿死亡率较高（可达40%），而出生体重低或极低的患儿死亡率更高，神经发育结局更差（1）。
+
+【预后参考】
+1.Giannoni E, Agyeman PKA, Stocker M, et al.Neonatal Sepsis of Early Onset, and Hospital-Acquired and Community-Acquired Late Onset: A Prospective Population-Based Cohort Study.J Pediatr.2018;201:106-114.e4.doi:10.1016/j.jpeds.2018.05.048
+1.Giannoni E, Agyeman PKA, Stocker M, et al.Neonatal Sepsis of Early Onset, and Hospital-Acquired and Community-Acquired Late Onset: A Prospective Population-Based Cohort Study.J Pediatr.2018;201:106-114.e4.doi:10.1016/j.jpeds.2018.05.048
+
+【新生儿败血症的预防】
+表现健康的新生儿可能存在B族链球菌感染的风险。美国疾病控制与预防中心（CDC）和美国儿科学会（AAP）目前建议根据以下因素（1、2）管理这些婴儿：
+羊膜腔内感染的存在
+羊膜腔内感染的存在
+是否产妇的B族链球菌预防有指征并已适当给予
+是否产妇的B族链球菌预防有指征并已适当给予
+胎龄和胎膜早破持续的时间
+胎龄和胎膜早破持续的时间
+如果既没有绒毛膜羊膜炎，也没有GBS预防指征，则不需要进行检测或治疗。
+如果存在或强烈怀疑存在羊膜腔内感染，早产和足月新生儿应在出生时进行血培养，并开始经验性广谱抗生素治疗。 测试也应该包括在生命开始的6至12小时检查WBC计数，分类以及C-反应蛋白。进一步的处理取决于临床过程和实验室测试的结果。
+如果产妇的B族链球菌预防有指征并已适当给予（即青霉素、氨苄西林或头孢唑林静脉注射≥4h），则新生儿应在医院观察48小时；仅在出现症状时才进行检测和治疗。选择的患者，孕周≥37周，有可靠照护者且能方便获得随访的患者，可在24小时后出院回家。
+如果未给予充足的GBS预防，婴儿在医院观察36至48小时且不进行抗菌治疗。如果胎膜在出生前破裂≥18小时或胎龄<37周，建议在出生时和/或生后6至12小时进行血培养、白细胞计数及分类，以及可能的C反应蛋白水平检测。临床过程和实验室评估结果指导管理。
+基于孕产妇危险因素和新生儿的连续检查，针对早发型新生儿败血症进行风险分层的替代方法正在得到更广泛的应用。
+给予IV免疫球蛋白以增加新生儿的免疫应答尚未显示有助于预防或治疗败血症。
+
+【孕产妇适应症的B族链球菌预防】
+所有孕妇都应在妊娠35至37周使用阴道和直肠培养筛查GBS定植(3)。
+GBS筛查阳性和/或本次妊娠期间任何时段出现GBS菌尿的孕妇，应在临产或胎膜破裂时接受抗生素预防。对于在分娩开始前和胎膜破裂前进行剖宫产分娩的患者，不需要抗生素预防。
+GBS筛查结果阴性的女性，如果她们曾经分娩过患有侵袭性GBS疾病的婴儿，则应接受产时抗生素治疗。
+妇女的GBS状态未知（例如，因为他们没有进行检查或结果未知）应该接受产时抗生素治疗，如果有大于等于1个如下因素之一存在：
+<37周胎龄
+<37周胎龄
+破膜时间 ≥ 18 h
+破膜时间 ≥ 18 h
+产时体温≥38°C
+产时体温≥38°C
+产时核酸扩增试验（NAAT）GBS阳性（若产时NAAT结果为阴性，但出现其他危险因素时仍需给予抗生素预防）
+产时核酸扩增试验（NAAT）GBS阳性（若产时NAAT结果为阴性，但出现其他危险因素时仍需给予抗生素预防）
+既往妊娠期间GBS筛查阳性
+既往妊娠期间GBS筛查阳性
+在一次妊娠中 GBS 筛查呈阳性的女性在随后的妊娠中发生 GBS 定植的可能性为 50%（4）。
+通常使用的抗生素包括青霉素，氨苄青霉素或头孢唑啉，并应在分娩前≥4小时静脉注射。选择应考虑到当地GBS抗菌耐药模式。
+
+【预防参考文献】
+1.Brady MT, Polin RA.Prevention and management of infants with suspected or proven neonatal sepsis.Pediatrics.2013;132:166-8.doi:10.1542/peds.2013-1310
+1.Brady MT, Polin RA.Prevention and management of infants with suspected or proven neonatal sepsis.Pediatrics.2013;132:166-8.doi:10.1542/peds.2013-1310
+2.Polin RA and the Committee on Fetus and Newborn.Management of neonates with suspected or proven early-onset bacterial sepsis.Pediatrics.2012;129:1006-1015.doi:10.1542/peds.2012-0541
+2.Polin RA and the Committee on Fetus and Newborn.Management of neonates with suspected or proven early-onset bacterial sepsis.Pediatrics.2012;129:1006-1015.doi:10.1542/peds.2012-0541
+3.Prevention of Group B Streptococcal Early-Onset Disease in Newborns: ACOG Committee Opinion, Number 797 [published correction appears inObstet Gynecol. 2020 Apr;135(4):978-979. doi: 10.1097/AOG.0000000000003824].Obstet Gynecol.2020;135(2):e51-e72.doi:10.1097/AOG.0000000000003668
+3.Prevention of Group B Streptococcal Early-Onset Disease in Newborns: ACOG Committee Opinion, Number 797 [published correction appears inObstet Gynecol. 2020 Apr;135(4):978-979. doi: 10.1097/AOG.0000000000003824].Obstet Gynecol.2020;135(2):e51-e72.doi:10.1097/AOG.0000000000003668
+4.Puopolo KM, Lynfield R, Cummings JJ, et al.Management of infants at risk for group B streptococcal disease.Pediatrics. 2019;144(2):e20191881.doi:10.1542/peds.2019-1881
+4.Puopolo KM, Lynfield R, Cummings JJ, et al.Management of infants at risk for group B streptococcal disease.Pediatrics. 2019;144(2):e20191881.doi:10.1542/peds.2019-1881
+新生儿脓毒血症可以是早发型（在出生后3天内）或迟发型（在出生后3天之后）的。
+新生儿脓毒血症可以是早发型（在出生后3天内）或迟发型（在出生后3天之后）的。
+早发型脓毒血症通常来自产时获得的微生物，症状在出生6小时内出现。
+早发型脓毒血症通常来自产时获得的微生物，症状在出生6小时内出现。
+迟发型败血症通常从环境中获得，并且更常见于早产儿，特别是那些长期住院、使用静脉导管或两者兼有的患儿。
+迟发型败血症通常从环境中获得，并且更常见于早产儿，特别是那些长期住院、使用静脉导管或两者兼有的患儿。
+早期体征通常不特异且轻微，发热仅见于<10%的新生儿。
+早期体征通常不特异且轻微，发热仅见于<10%的新生儿。
+进行血液和脑脊液培养，对于迟发型败血症，还需进行尿培养。
+进行血液和脑脊液培养，对于迟发型败血症，还需进行尿培养。
+最初用氨苄西林加庆大霉素（如果怀疑是革兰氏阴性脑膜炎，则加用或换用头孢噻肟）治疗早发型脓毒症，并尽快调整为针对特定病原体的药物。
+最初用氨苄西林加庆大霉素（如果怀疑是革兰氏阴性脑膜炎，则加用或换用头孢噻肟）治疗早发型脓毒症，并尽快调整为针对特定病原体的药物。
+对有可能将 GBS 传染给新生儿的妇女进行产时 B 群链球菌 (GBS) 预防。
+对有可能将 GBS 传染给新生儿的妇女进行产时 B 群链球菌 (GBS) 预防。

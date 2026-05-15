@@ -1,0 +1,32 @@
+标题：百可花
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/bacopa
+============================================================
+
+假马齿苋 (假马齿苋) 是一种多年生草本植物，通常生长在世界许多地区的湿地。这种植物也被称为 "婆罗米"、"印度菥蓂"、"水牛角 "和 "恩典的草药"。
+
+【假马齿苋功效宣称】
+据称，假马齿苋可以改善或保持记忆力、学习保持力、集中力、注意力以及整体认知功能和表现。有些人服用假马齿苋帮助缓解或延缓阿尔茨海默病和注意力缺陷多动障碍（ADHD）的症状。
+
+【假马齿苋的证据】
+没有高质量的研究证明假马齿苋对改善记忆或认知功能或治疗任何疾病有效。
+虽然一些小规模试验似乎显示对健康成年人有适度益处，但需要更高质量的证据来证实这些发现。例如，一项针对印度60名医科学生的小型随机试验报告称，他们接受了150毫克的假马齿苋标准化提取物或相应的安慰剂的治疗，每天两次，为期6周，在一些记忆和认知功能测试方面有统计学上的显著改善，但在其他神经心理学测试中没有差异（1）。另一项针对54名65岁及以上（平均年龄73.5岁）无临床痴呆症状成年人的小型随机试验发现，与接受安慰剂的患者相比，每日服用300毫克假马齿苋的患者在基线记忆测试中表现出统计学上的显著改善（2）。同样，另一项针对98名55岁以上健康澳大利亚成年人的试验报告称，与安慰剂相比，每日服用300毫克假马齿苋持续12周的治疗组在言语学习、记忆获取和延迟回忆方面表现出统计学上的显著改善（3）。
+假马齿苋也已在阿尔茨海默病患者中进行过研究。一项对5项随机试验的系统回顾比较了假马齿苋与安慰剂或多奈哌齐在阿尔茨海默病患者中的疗效，报告显示治疗间无差异，尽管纳入的试验存在广泛的异质性和其他研究质量限制（4）。
+
+【假马齿苋的不良反应】
+假马齿苋的常见副作用包括胃肠道不适、恶心和口干。
+
+【假马齿苋药物相互作用】
+假马齿苋可以增加乙酰胆碱，因此可能会降低抗胆碱能药物的作用或增加增加乙酰胆碱的胆碱能药物（例如，青光眼或阿尔茨海默病药物）的副作用。
+假马齿苋可能会增加甲状腺激素水平；因此，服用甲状腺激素药物的人不宜服用假马齿苋。
+假马齿苋可能会改变由细胞色素 P450 系统代谢的药物的血液水平（例如，华法林、一些钙通道阻滞剂、抗癫痫药物）。
+（参考表一些可能的膳食补充剂-药物相互作用。）
+
+【参考文献】
+1.Kumar N, Abichandani LG, Thawani V, Gharpure KJ, Naidu MU, Venkat Ramana G.: Efficacy of standardized extract of Bacopa monnieri (Bacognize®) on cognitive functions of medical students: a six-week, randomized placebo-controlled trial.Evid Based Complement Alternat Med.4103423, 2016.doi:10.1155/2016/4103423
+1.Kumar N, Abichandani LG, Thawani V, Gharpure KJ, Naidu MU, Venkat Ramana G.: Efficacy of standardized extract of Bacopa monnieri (Bacognize®) on cognitive functions of medical students: a six-week, randomized placebo-controlled trial.Evid Based Complement Alternat Med.4103423, 2016.doi:10.1155/2016/4103423
+2.Calabrese C, Gregory WL, Leo M, Kraemer D, Bone K, Oken B.Effects of a standardized Bacopa monnieri extract on cognitive performance, anxiety, and depression in the elderly: a randomized, double-blind, placebo-controlled trial.J Altern Complement Med.14(6):707-713, 2008.doi:10.1089/acm.2008.0018
+2.Calabrese C, Gregory WL, Leo M, Kraemer D, Bone K, Oken B.Effects of a standardized Bacopa monnieri extract on cognitive performance, anxiety, and depression in the elderly: a randomized, double-blind, placebo-controlled trial.J Altern Complement Med.14(6):707-713, 2008.doi:10.1089/acm.2008.0018
+3.Morgan A, Stevens J.Does Bacopa monnieri improve memory performance in older persons?Results of a randomized, placebo-controlled, double-blind trial.J Altern Complement Med.16(7):753-759, 2010.doi:10.1089/acm.2009.0342
+3.Morgan A, Stevens J.Does Bacopa monnieri improve memory performance in older persons?Results of a randomized, placebo-controlled, double-blind trial.J Altern Complement Med.16(7):753-759, 2010.doi:10.1089/acm.2009.0342
+4.Basheer A, Agarwal A, Mishra B, et al.Use of Bacopa monnieri in the Treatment of Dementia Due to Alzheimer Disease: Systematic Review of Randomized Controlled Trials.Interact J Med Res.2022;11(2):e38542.Published 2022 Aug 1.doi:10.2196/38542
+4.Basheer A, Agarwal A, Mishra B, et al.Use of Bacopa monnieri in the Treatment of Dementia Due to Alzheimer Disease: Systematic Review of Randomized Controlled Trials.Interact J Med Res.2022;11(2):e38542.Published 2022 Aug 1.doi:10.2196/38542

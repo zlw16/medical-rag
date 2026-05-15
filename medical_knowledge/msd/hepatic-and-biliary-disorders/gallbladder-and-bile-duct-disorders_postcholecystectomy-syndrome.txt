@@ -1,0 +1,47 @@
+标题：胆囊切除术后综合征
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/gallbladder-and-bile-duct-disorders/postcholecystectomy-syndrome
+============================================================
+
+（参见胆管功能概述）
+胆囊切除术后 5% 至 47% 的患者会出现胆囊切除术后综合征（1, 2)。它是指在胆囊切 除术后假想的胆囊症状持续存在或发展，或由于胆囊切除 术导致的其它症状。最常见的症状为消化不良或其他非特异性表现，包括腹部隐痛、腹胀或消化不良，而非典型的胆绞痛。
+切除胆囊后通常对胆道功能或胆道压力影响甚微。在多达 30% 的术后胆囊切除综合征患者中，胆绞痛似乎与Oddi括约肌的功能性或结构性异常有关，导致胆道压力改变或胆道感觉过敏，从而引发症状。其他原因包括胆管结石的残留、胰腺炎和胃食管反流。 括约肌周围纤维化造成的罕见的乳头狭窄，可能是由于创伤、胰腺炎导致的炎症、器械操作（如内镜逆行胰胆管造影[ERCP]）或曾有结石通过引起。
+胆囊切除术后，部分患者可能出现腹泻（即胆汁酸性腹泻），其机制为过量胆汁酸进入结肠所致。此类腹泻多可自行缓解，但在部分患者中可能需进行饮食调整，或给予胆汁酸结合树脂以改善症状。
+术前应注意识别功能性胃肠疾病（肠-脑互动障碍）或既往存在的胆总管结石等情况，因为这些疾病若在术后出现症状，可能被误认为是胆囊切除术后综合征（2）。
+
+【参考文献】
+1.Lamberts MP, Den Oudsten BL, Gerritsen JJGM, et al.Prospective multicentre cohort study of patient-reported outcomes after cholecystectomy for uncomplicated symptomatic cholecystolithiasis.Br J Surg.2015;102(11):1402-1409.doi: 10.1002/bjs.9887
+1.Lamberts MP, Den Oudsten BL, Gerritsen JJGM, et al.Prospective multicentre cohort study of patient-reported outcomes after cholecystectomy for uncomplicated symptomatic cholecystolithiasis.Br J Surg.2015;102(11):1402-1409.doi: 10.1002/bjs.9887
+2.Nam C, Lee JS, Kim J, et al.Clinical perspectives on post-cholecystectomy syndrome: a narrative review.Ann Med.2025;57(1):2496408.doi:10.1080/07853890.2025.2496408
+2.Nam C, Lee JS, Kim J, et al.Clinical perspectives on post-cholecystectomy syndrome: a narrative review.Ann Med.2025;57(1):2496408.doi:10.1080/07853890.2025.2496408
+
+【胆囊切除术后综合征的诊断】
+排除胆管外疼痛
+排除胆管外疼痛
+实验室检查
+实验室检查
+如果超声阳性或无法诊断，进行空气灌肠或造影剂灌肠（除非患者出现腹膜炎或穿孔表现）。
+如果超声阳性或无法诊断，进行空气灌肠或造影剂灌肠（除非患者出现腹膜炎或穿孔表现）。
+必要时可行内镜逆行胰胆管造影（ERCP）并结合胆道测压、磁共振胰胆管成像（MRCP）、计算机断层扫描（CT）或胆道核素显像，以明确诊断及评估胆道功能。
+必要时可行内镜逆行胰胆管造影（ERCP）并结合胆道测压、磁共振胰胆管成像（MRCP）、计算机断层扫描（CT）或胆道核素显像，以明确诊断及评估胆道功能。
+出现胆囊切除术后疼痛的患者，应根据病情评估其病因，既要考虑胆道因素，也需排查胆道外疾病，例如胃食管反流病、功能性消化不良及胰腺疾病等。如果疼痛提示胆绞痛，应检测碱性磷酸酶、胆红素、丙氨酸氨基转移酶（ALT）、淀粉酶和脂肪酶。用于评估胆囊切除术后疼痛的影像学检查包括腹部超声、CT、MRCP、ERCP 胆道测压检查和胆道核扫描，具体取决于临床怀疑和初步实验室检查结果（见肝脏和胆囊的实验室检查和肝脏和胆囊的影像学检查）。
+肝酶升高提示Oddi括约肌功能障碍；淀粉酶和脂肪酶升高提示括约肌胰管部分功能障碍。Oddi括约肌功能障碍的最佳检测方法是在内镜逆行胰胆管造影（ERCP）过程中进行胆道测压。然而，ERCP联合胆道测压可导致多达 30% 的患者发生胰腺炎（1）。目前已制定专门的操作指南，以用于预防急性胰腺炎的发生。测压可显示疼痛再发时胆管压力增高。核素扫描见肝门-十二指肠转运时间减慢也提示Oddi括约肌的功能障碍。
+乳头狭窄的诊断基于明确的反复发作胆绞痛病史和肝酶或胰酶检查异常。影像学检查如超声、CT或MRCP可显示与乳头狭窄症状相关的非特异性发现。
+
+【诊断参考文献】
+1.Tenner S, Vege SS, Sheth SG, et al.American College of Gastroenterology Guidelines: Management of Acute Pancreatitis.Am J Gastroenterol.2024;119(3):419-437.doi:10.14309/ajg.0000000000002645
+1.Tenner S, Vege SS, Sheth SG, et al.American College of Gastroenterology Guidelines: Management of Acute Pancreatitis.Am J Gastroenterol.2024;119(3):419-437.doi:10.14309/ajg.0000000000002645
+
+【胆囊切除术后综合征的治疗】
+有时需要药物治疗
+有时需要药物治疗
+有时需要进行饮食干预
+有时需要进行饮食干预
+有时内镜下括约肌切开
+有时内镜下括约肌切开
+根据病因进行治疗。
+对于胆汁酸腹泻，使用胆汁酸结合剂如考来烯胺（1）。对于功能性胃肠道疾病，如功能性消化不良或肠易激综合征，逐步改变生活方式，改变饮食和药物治疗可能会有所帮助。对于餐后特有的症状，可使用促动力药物。最后，对于无明显病因的慢性术后疼痛，可能需要多学科护理，有时包括使用血清素-去甲肾上腺素再摄取抑制剂（如度洛西汀）以缓解症状。
+内镜括约肌切开术可缓解由于奥狄氏括约肌功能障碍，特别是由于乳头狭窄引起的疼痛反复发作，虽然ERCP及测压可用于治疗术后胆囊切除疼痛，但若患者未发现明确客观异常，目前尚无证据表明此类治疗具有确切疗效。然而，应该治疗症状。
+
+【治疗参考文献】
+1.Nam C, Lee JS, Kim JS, et al.Clinical perspectives on post-cholecystectomy syndrome: a narrative review.Ann Med.2025;57(1):2496408.doi:10.1080/07853890.2025.2496408
+1.Nam C, Lee JS, Kim JS, et al.Clinical perspectives on post-cholecystectomy syndrome: a narrative review.Ann Med.2025;57(1):2496408.doi:10.1080/07853890.2025.2496408

@@ -1,0 +1,181 @@
+标题：周围动脉疾病
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/peripheral-artery-disorders/peripheral-artery-disease
+============================================================
+
+上下肢外周动脉疾病讨论如下。其他血管疾病，包括腹主动脉瘤、胸主动脉瘤、主动脉夹层、肾动脉狭窄与闭塞、纤维肌性发育不良、肠系膜缺血以及由颈动脉狭窄引起的缺血性卒中，将在其他章节中详述。
+
+【外周动脉疾病的病因】
+全球外周动脉疾病（PAD）的患病率为2-6%；80岁以上人群增至15-20%（1,2,3）。
+风险因素与动脉粥样硬化相同 (4,5)：
+吸烟（包括被动吸烟） 或其他形式的烟草使用
+吸烟（包括被动吸烟） 或其他形式的烟草使用
+血脂异常（高低密度脂蛋白 [LDL] 胆固醇、低高密度脂蛋白 [HDL] 胆固醇）
+血脂异常（高低密度脂蛋白 [LDL] 胆固醇、低高密度脂蛋白 [HDL] 胆固醇）
+动脉粥样硬化的家族史
+动脉粥样硬化的家族史
+高同型半胱氨酸水平
+高同型半胱氨酸水平
+年龄增长
+年龄增长
+性别为男性
+性别为男性
+动脉粥样硬化是一种全身性疾病；大多数外周动脉疾病（PAD）患者同时合并有临床显著的冠状动脉疾病（CAD）或脑血管疾病（6）。
+
+【病因参考文献】
+1.Aday AW, Matsushita K.Epidemiology of Peripheral Artery Disease and Polyvascular Disease.Circ Res2021;128(12):1818-1832.doi:10.1161/CIRCRESAHA.121.318535
+1.Aday AW, Matsushita K.Epidemiology of Peripheral Artery Disease and Polyvascular Disease.Circ Res2021;128(12):1818-1832.doi:10.1161/CIRCRESAHA.121.318535
+2.GBD 2019 Peripheral Artery Disease Collaborators.Global burden of peripheral artery disease and its risk factors, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019.Lancet Glob Health2023;11(10):e1553-e1565.doi:10.1016/S2214-109X(23)00355-8
+2.GBD 2019 Peripheral Artery Disease Collaborators.Global burden of peripheral artery disease and its risk factors, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019.Lancet Glob Health2023;11(10):e1553-e1565.doi:10.1016/S2214-109X(23)00355-8
+3.Polonsky TS, McDermott MM.Lower Extremity Peripheral Artery Disease Without Chronic Limb-Threatening Ischemia: A Review.JAMA2021;325(21):2188-2198.doi:10.1001/jama.2021.2126
+3.Polonsky TS, McDermott MM.Lower Extremity Peripheral Artery Disease Without Chronic Limb-Threatening Ischemia: A Review.JAMA2021;325(21):2188-2198.doi:10.1001/jama.2021.2126
+4.Gornik HL, Aronow HD, Goodney PP, et al.2024 ACC/AHA/AACVPR/APMA/ABC/SCAI/SVM/SVN/SVS/SIR/VESS Guideline for the Management of Lower Extremity Peripheral Artery Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inCirculation2025 Apr 8;151(14):e918. doi: 10.1161/CIR.0000000000001329].Circulation2024;149(24):e1313-e1410.doi:10.1161/CIR.0000000000001251
+4.Gornik HL, Aronow HD, Goodney PP, et al.2024 ACC/AHA/AACVPR/APMA/ABC/SCAI/SVM/SVN/SVS/SIR/VESS Guideline for the Management of Lower Extremity Peripheral Artery Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inCirculation2025 Apr 8;151(14):e918. doi: 10.1161/CIR.0000000000001329].Circulation2024;149(24):e1313-e1410.doi:10.1161/CIR.0000000000001251
+5.Mazzolai L, Teixido-Tura G, Lanzi S, et al.2024 ESC Guidelines for the management of peripheral arterial and aortic diseases.Eur Heart J2024;45(36):3538-3700.doi:10.1093/eurheartj/ehae179
+5.Mazzolai L, Teixido-Tura G, Lanzi S, et al.2024 ESC Guidelines for the management of peripheral arterial and aortic diseases.Eur Heart J2024;45(36):3538-3700.doi:10.1093/eurheartj/ehae179
+6.Kullo IJ, Rooke TW.CLINICAL PRACTICE.Peripheral Artery Disease.N Engl J Med2016;374(9):861-871.doi:10.1056/NEJMcp1507631
+6.Kullo IJ, Rooke TW.CLINICAL PRACTICE.Peripheral Artery Disease.N Engl J Med2016;374(9):861-871.doi:10.1056/NEJMcp1507631
+
+【外周动脉疾病的症状和体征】
+外周动脉疾病可分为4类：无症状型、慢性症状型、慢性肢体威胁性缺血型（CLTI）和急性肢体缺血型（ALI）（1）。闭塞性外周动脉疾病可能直到管腔直径狭窄50-70%时才出现症状，具体取决于受累动脉和患者个体差异。超过 20% 的外周动脉疾病患者没有症状，几乎相同比例的患者有非典型症状（例如，非特异性运动不耐受、臀部或其他关节疼痛）（1）。
+无症状外周动脉疾病患者可能存在功能损伤，且在客观步行测试中显现症状（尽管日常生活中无劳力性症状）（1）。
+间歇性跛行是慢性症状性外周动脉疾病的典型表现。间歇性跛行是腿部出现的疼痛、酸痛、抽筋、不适或疲乏感，在行走时发生，休息时缓解（1）。跛行通常发生在小腿，但也可发生在足、大腿、髋部、臀部或罕见的是手臂。跛行是一种可逆的、运动诱发的缺血表现，通常可通过休息缓解。对于轻度跛行，患者在进行体力活动时几乎不受限制。随着外周动脉疾病 (PAD) 的进展，无症状行走的距离可能会减少。
+患有慢性肢体危及性缺血的患者可能会出现缺血性静息痛，这种疼痛通常在远端更为严重，抬高腿部会加剧这种疼痛（经常在夜间引起疼痛），而当腿部低于心脏水平时，疼痛会减轻（1）。疼痛可表现为烧灼感、紧缩感或酸痛感，但这一表现并不具有特异性。当足部低于心脏水平时，可能呈现暗红色或比平时颜色更深（称为体位性红斑）。在有些患者中，抬高足部会引起肤色变白和缺血性疼痛加剧；当足部下垂时，静脉充盈时间延长（>15秒）。通常不会出现水肿，除非患者为减轻疼痛而保持腿部不动且处于下垂位。慢性外周动脉疾病患者可能有薄而苍白的（萎缩性）皮肤，伴有毛发稀疏或脱落。远端腿或足可能感到发凉。受累的腿部可能因交感神经过度活动而出现多汗和发绀。
+突发性完全闭塞在急性肢体缺血中讨论。
+该外周动脉疾病患者的第四趾苍白冰冷。
+DR P.MARAZZI/SCIENCE PHOTO LIBRARY
+随着缺血的加重，可能会出现缺血性溃疡（通常出现在脚趾或脚跟，偶尔出现在腿部或足部），尤其是在局部受到创伤后。溃疡倾向于被黑色的坏死组织（干性坏疽）所围绕。它们通常是疼痛的，但患有周围神经病变（例如，由于糖尿病或酒精使用障碍）的人可能感觉不到它们。缺血性溃疡（湿性坏疽）的感染发生率较高，通常导致迅速进展的蜂窝织炎。
+动脉阻塞位置影响症状出现的部位。主动脉髂动脉型外周动脉疾病可能导致臀部、大腿或小腿跛行；髋部疼痛；男性可能出现勃起功能障碍（勒里什综合征）。在股腘动脉PAD中，典型的跛行发生在小腿；股动脉以下的脉搏微弱或缺如。在更远端动脉的PAD中，股腘动脉脉搏可能存在，但足部的脉搏缺如。患有慢性肢体威胁性缺血的病人通常存在多节段病变（例如，主髂动脉、股腘动脉和胫动脉闭塞）。
+外周动脉疾病偶尔会影响上肢，特别是左锁骨下动脉近端，导致运动时手臂疲劳，偶尔会引起手部栓塞。
+
+【症状和体征参考文献】
+1.Gornik HL, Aronow HD, Goodney PP, et al.2024 ACC/AHA/AACVPR/APMA/ABC/SCAI/SVM/SVN/SVS/SIR/VESS Guideline for the Management of Lower Extremity Peripheral Artery Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inCirculation2025 Apr 8;151(14):e918. doi: 10.1161/CIR.0000000000001329].Circulation2024;149(24):e1313-e1410.doi:10.1161/CIR.0000000000001251
+1.Gornik HL, Aronow HD, Goodney PP, et al.2024 ACC/AHA/AACVPR/APMA/ABC/SCAI/SVM/SVN/SVS/SIR/VESS Guideline for the Management of Lower Extremity Peripheral Artery Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inCirculation2025 Apr 8;151(14):e918. doi: 10.1161/CIR.0000000000001329].Circulation2024;149(24):e1313-e1410.doi:10.1161/CIR.0000000000001251
+
+【周围动脉疾病的诊断】
+踝臂指数
+踝臂指数
+超声检查
+超声检查
+血管造影（包括磁共振血管造影、CT血管造影或侵入性血管造影）
+血管造影（包括磁共振血管造影、CT血管造影或侵入性血管造影）
+该 CT 显示股浅动脉（箭头）中的双侧钙化斑块。
+© 2017 Elliot K.Fishman, MD.
+外周动脉疾病未被充分认识，因为许多患者表现出不典型的症状或其活动程度不足以引起症状。椎管狭窄也可能引起走路时下肢痛，但可通过以下特征鉴别：这种疼痛（称为假性跛行）需要坐位才能缓解，而不仅仅是休息，并且远端脉搏搏动正常。
+诊断通过非侵入性检查确诊。首先，使用多普勒探头和手动血压袖带测量双侧手臂和脚踝的收缩压（BP）。节段性血压测量法应用广泛，因为压力梯度和脉搏容积波形有助于区分单纯性主髂动脉闭塞性疾病、股腘动脉闭塞性疾病及膝下动脉闭塞性疾病。
+使用多普勒超声探头和手动血压袖带测量足部动脉的收缩压。
+JIM VARNEY/SCIENCE PHOTO LIBRARY
+踝臂指数（ABI）是最高踝部收缩压（右侧和左侧）除以最高手臂收缩压的比率。较低的（≤0.90）踝肱指数可诊断下肢外周动脉疾病，0.91-0.99为临界值（1）。
+如果指数正常（1.00 至 1.40）或处于临界值（0.91 至 0.99）但仍高度怀疑患有 PAD，则可以使用跑步机行走或踝部抬高运动来测量运动 ABI。运动后踝肱指数下降20%可诊断下肢外周动脉疾病。较高的静息踝肱指数（>1.40）可能提示下肢血管不可压缩（如门克贝格动脉硬化伴动脉壁钙化时发生的情况）。
+如果踝肱指数>1.40 但对外周动脉疾病 (PAD) 的怀疑仍然很高，需要进行趾臂指数和趾压检查，以检查是否存在动脉狭窄或闭塞。当趾动脉收缩压为<30 mm Hg时，缺血性病变难以愈合；而趾压>60 mm Hg时则认为愈合可能性较大。
+下肢外周动脉疾病（PAD）以及溃疡愈合的可能性也可通过经皮氧分压测定（TcO2）来评估。TcO₂水平<40 mm Hg（5.32 kPa）预示愈合不良，而<20 mm Hg（2.66 kPa）则符合慢性肢体威胁性缺血。
+血管造影检查提供动脉狭窄或阻塞部位和范围的细节；它是血管内和/或手术血运重建术的先决条件。它不能取代无创检查，因为它不提供关于异常发现的功能意义的信息。动脉双功超声、磁共振血管造影和CT血管造影等无创检查可辅助制定侵入性血管造影方案，并有助于血运重建计划（1，2）。
+
+【诊断参考】
+1.Gornik HL, Aronow HD, Goodney PP, et al.2024 ACC/AHA/AACVPR/APMA/ABC/SCAI/SVM/SVN/SVS/SIR/VESS Guideline for the Management of Lower Extremity Peripheral Artery Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inCirculation2025 Apr 8;151(14):e918. doi: 10.1161/CIR.0000000000001329].Circulation2024;149(24):e1313-e1410.doi:10.1161/CIR.0000000000001251
+1.Gornik HL, Aronow HD, Goodney PP, et al.2024 ACC/AHA/AACVPR/APMA/ABC/SCAI/SVM/SVN/SVS/SIR/VESS Guideline for the Management of Lower Extremity Peripheral Artery Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inCirculation2025 Apr 8;151(14):e918. doi: 10.1161/CIR.0000000000001329].Circulation2024;149(24):e1313-e1410.doi:10.1161/CIR.0000000000001251
+2.Mazzolai L, Teixido-Tura G, Lanzi S, et al.2024 ESC Guidelines for the management of peripheral arterial and aortic diseases.Eur Heart J2024;45(36):3538-3700.doi:10.1093/eurheartj/ehae179
+2.Mazzolai L, Teixido-Tura G, Lanzi S, et al.2024 ESC Guidelines for the management of peripheral arterial and aortic diseases.Eur Heart J2024;45(36):3538-3700.doi:10.1093/eurheartj/ehae179
+
+【外周动脉疾病的治疗】
+危险因素管理（如糖尿病、血脂异常、高血压）
+危险因素管理（如糖尿病、血脂异常、高血压）
+生活方式调整（例如运动、戒烟、体重管理）
+生活方式调整（例如运动、戒烟、体重管理）
+抗血小板和抗凝药物
+抗血小板和抗凝药物
+西洛他唑用于治疗跛行
+西洛他唑用于治疗跛行
+使用血管紧张素转换酶（ACE）抑制剂或血管紧张素 II受体阻滞剂（ARBs）进行降压治疗
+使用血管紧张素转换酶（ACE）抑制剂或血管紧张素 II受体阻滞剂（ARBs）进行降压治疗
+腔内或外科血运重建术治疗症状性病变
+腔内或外科血运重建术治疗症状性病变
+
+【预防保健】
+所有患者都需要积极的生活方式和风险因素调整，以缓解外周动脉疾病症状并预防心血管疾病，包括：
+戒烟，这是必要的
+戒烟，这是必要的
+糖尿病、血脂异常和高血压的控制
+糖尿病、血脂异常和高血压的控制
+结构化运动疗法
+结构化运动疗法
+饮食调整
+饮食调整
+推荐下肢外周动脉疾病患者接受监督式和居家运动训练（1，2）。建议每周至少 3 次以锻炼-休息-锻炼的模式在跑步机或跑道上行走 30 至 60 分钟。监督指导下的运动计划很可能优于家庭运动计划。运动可增加无症状行走的距离和改善生活质量。 机制可能包括增加侧支循环，改善内皮功能使微血管扩张，降低血液粘滞度，改善红细胞滤过率，减少缺血诱发的炎症，以及改善氧的摄取。
+预防性的足部护理是极其重要的，特别是糖尿病病人。护理措施包括：每日检查足部有无损伤或皮肤破溃；由足病医生处理胼胝和鸡眼；每日用温水及温和肥皂清洗足部后，轻柔而彻底地擦干；并避免热力、化学及机械性损伤，尤其要避免因鞋子不合脚所致的损伤。足部溃疡的治疗在其他章节讨论。
+
+【药物治疗】
+使用他汀类药物、血管紧张素转换酶抑制剂或血管紧张素Ⅱ受体拮抗剂、以及阿司匹林以降低心血管事件风险（见动脉粥样硬化治疗）。
+全部有症状的下肢外周动脉疾病患者均推荐抗血小板单药治疗（3，4）。抗血小板药物可能适度缓解外周动脉疾病患者的症状并增加步行距离；更重要的是，这些药物可以改变动脉粥样硬化的进程，并有助于预防急性冠状动脉综合征和短暂性脑缺血发作。有症状的外周动脉疾病 (PAD) 患者的治疗选择包括口服阿司匹林或者氯吡格雷。随机试验表明，利伐沙班和阿司匹林联合使用可减少心血管事件，包括死亡，以及主要不良肢体事件，包括截肢（5，6）。然而，一些数据表明，阿司匹林加利伐沙班2.5 毫克每日口服两次的联合用药也会增加出血风险（7）。
+口服西洛他唑可通过改善血流和增强患处的组织氧合来缓解间歇性跛行；然而，西洛他唑并非风险因素调整和运动的替代方案。西洛他唑最常见的不良作用是头痛和腹泻。有收缩性心力衰竭时禁忌用西洛他唑。
+血管紧张素转换酶 (ACE) 抑制剂和血管紧张素受体阻滞剂 (ARBs) 具有多种有益作用。它们具有抗动脉粥样硬化作用，是强效血管舒张剂。在因慢性肢体威胁性缺血而接受血管干预的患者中，使用ACE抑制剂或ARB的患者无截肢生存率和总生存率均有所改善（8）。对于下肢外周动脉疾病（PAD）患者来说，β 受体阻滞剂也是安全的（3）。
+其他可能缓解跛行的药物正在研究中，但尚未在美国上市；它们包括L-精氨酸（内皮依赖性血管扩张剂的前体）、一氧化氮、血管扩张前列腺素、螯合疗法以及血管生成生长因子（如血管内皮生长因子[VEGF]、碱性成纤维细胞生长因子[bFGF]）（4、9）。
+
+【腔内血运重建】
+过去数十年间腔内血运重建技术取得了显著进展。在腔内血运重建中采用多种模式，包括经皮腔内血管成形术（PTA）、斑块切除术和/或支架植入术，已被证明可改善治疗持久性及中远期临床结局。接受腔内血运重建的患者成功率相当高（手术成功率＞90%，3年通畅率58%-82%，具体取决于支架类型和位置）（10，11）。超过80%接受血运重建的患者将腔内血运重建作为首选治疗（12）。
+腔内血运重建的适应症包括：
+影响日常活动且对危险因素控制及非侵入性治疗无效的间歇性跛行
+影响日常活动且对危险因素控制及非侵入性治疗无效的间歇性跛行
+缺血性溃疡或组织缺失
+缺血性溃疡或组织缺失
+血管内血运重建的并发症包括扩张部位血栓形成、远端栓塞、血管夹层、血管穿孔和出血并发症。
+研究表明接受血管内血运重建术和外科血运重建术的患者保肢率相当（13，14），决策时应考虑患者意愿及风险。
+
+【外科血管重建】
+外科血管重建适用于以下患者：
+能够安全耐受大血管手术的患者
+能够安全耐受大血管手术的患者
+伴有急性肢体缺血
+伴有急性肢体缺血
+患有慢性肢体威胁性缺血
+患有慢性肢体威胁性缺血
+对于有症状的间歇性跛行且对非侵入性治疗无反应（例如，与血管内血运重建术的适应证相似）
+对于有症状的间歇性跛行且对非侵入性治疗无反应（例如，与血管内血运重建术的适应证相似）
+目标是缓解症状，预防或减少组织损失，并避免截肢。虽然部分患者存在急性冠状动脉综合征及外科血运重建术其他并发症的高风险，但血管外科手术前不推荐经验性使用冠状动脉血运重建术。
+对在主髂动脉、股总动脉和/或股深动脉的短而局限性病变应用血栓内膜切除术（手术切除阻塞病变）。
+下肢旁路术（如，股腘动脉旁路移植术）采用合成的或自然的材料（常为隐静脉或其他的静脉）以绕过阻塞病变。下肢旁路术常用于预防截肢和缓解跛行。
+对于不能经受较大血管手术的病人，当远端阻塞引起严重缺血性疼痛时，交感神经切除术可能是有效的。化学性交感阻滞术的效果与外科交感切除术相当，因此后者极少进行。
+截肢手术是最后的手段，适用于无法控制的感染、顽固性静息痛和进行性坏疽截肢应尽可能远端，保留膝盖和踝关节功能（如果可能）以允许持续行走。严重下肢外周动脉疾病患者宜选择膝下截肢而非膝上截肢，以便术后考虑假肢安装（8）。
+
+【治疗参考文献】
+1.McDermott MM, Liu K, Guralnik JM, et al.Home-based walking exercise intervention in peripheral artery disease: a randomized clinical trial.JAMA2013;310(1):57-65.doi:10.1001/jama.2013.7231
+1.McDermott MM, Liu K, Guralnik JM, et al.Home-based walking exercise intervention in peripheral artery disease: a randomized clinical trial.JAMA2013;310(1):57-65.doi:10.1001/jama.2013.7231
+2.Treat-Jacobson D, McDermott MM, Bronas UG, et al.Optimal Exercise Programs for Patients With Peripheral Artery Disease: A Scientific Statement From the American Heart Association.Circulation2019;139(4):e10-e33.doi:10.1161/CIR.0000000000000623
+2.Treat-Jacobson D, McDermott MM, Bronas UG, et al.Optimal Exercise Programs for Patients With Peripheral Artery Disease: A Scientific Statement From the American Heart Association.Circulation2019;139(4):e10-e33.doi:10.1161/CIR.0000000000000623
+3.Gerhard-Herman MD, Gornik HL, Barrett C, et al: 2016 AHA/ACC Guideline on the management of patients with lower extremity peripheral artery disease.Circulation155:e686–e725, 2017.
+3.Gerhard-Herman MD, Gornik HL, Barrett C, et al: 2016 AHA/ACC Guideline on the management of patients with lower extremity peripheral artery disease.Circulation155:e686–e725, 2017.
+4.Gornik HL, Aronow HD, Goodney PP, et al.2024 ACC/AHA/AACVPR/APMA/ABC/SCAI/SVM/SVN/SVS/SIR/VESS Guideline for the Management of Lower Extremity Peripheral Artery Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inCirculation2025 Apr 8;151(14):e918. doi: 10.1161/CIR.0000000000001329].Circulation2024;149(24):e1313-e1410.doi:10.1161/CIR.0000000000001251
+4.Gornik HL, Aronow HD, Goodney PP, et al.2024 ACC/AHA/AACVPR/APMA/ABC/SCAI/SVM/SVN/SVS/SIR/VESS Guideline for the Management of Lower Extremity Peripheral Artery Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears inCirculation2025 Apr 8;151(14):e918. doi: 10.1161/CIR.0000000000001329].Circulation2024;149(24):e1313-e1410.doi:10.1161/CIR.0000000000001251
+5.Anand S, Bosch J, Eikelboom JW, et al, on behalf of the COMPASS Investigators:Rivaroxabanwith or withoutaspirinin patients with stable peripheral or carotid artery disease: an international, randomized, double-blind, placebo controlled trial.Lancet391(10117):218–229, 2018.doi: 10.1016/S0140-6736(17)32409-1
+5.Anand S, Bosch J, Eikelboom JW, et al, on behalf of the COMPASS Investigators:Rivaroxabanwith or withoutaspirinin patients with stable peripheral or carotid artery disease: an international, randomized, double-blind, placebo controlled trial.Lancet391(10117):218–229, 2018.doi: 10.1016/S0140-6736(17)32409-1
+6.Bonaca MP, Bauersachs RM, Anand SS, et al:Rivaroxabanin peripheral artery disease after revascularization.N Engl J Med382:1994–2004, 2020.doi: 10.1056/NEJMoa2000052
+6.Bonaca MP, Bauersachs RM, Anand SS, et al:Rivaroxabanin peripheral artery disease after revascularization.N Engl J Med382:1994–2004, 2020.doi: 10.1056/NEJMoa2000052
+7.Hiatt WR, Bonaca MP, Patel MR, et al.RivaroxabanandAspirinin Peripheral Artery Disease Lower Extremity Revascularization.Circulation142 (23):2219-2230, 2020.doi/10.1161/CIRCULATIONAHA.120.050465
+7.Hiatt WR, Bonaca MP, Patel MR, et al.RivaroxabanandAspirinin Peripheral Artery Disease Lower Extremity Revascularization.Circulation142 (23):2219-2230, 2020.doi/10.1161/CIRCULATIONAHA.120.050465
+8.Khan SZ, O'Brien-Irr MS, Rivero M, et al.Improved survival with angiotensin-converting enzyme inhibitors and angiotensin receptor blockers in chronic limb-threatening ischemia.J Vasc Surg2020;72(6):2130-2138.doi:10.1016/j.jvs.2020.02.041
+8.Khan SZ, O'Brien-Irr MS, Rivero M, et al.Improved survival with angiotensin-converting enzyme inhibitors and angiotensin receptor blockers in chronic limb-threatening ischemia.J Vasc Surg2020;72(6):2130-2138.doi:10.1016/j.jvs.2020.02.041
+9.Mazzolai L, Teixido-Tura G, Lanzi S, et al.2024 ESC Guidelines for the management of peripheral arterial and aortic diseases.Eur Heart J2024;45(36):3538-3700.doi:10.1093/eurheartj/ehae179
+9.Mazzolai L, Teixido-Tura G, Lanzi S, et al.2024 ESC Guidelines for the management of peripheral arterial and aortic diseases.Eur Heart J2024;45(36):3538-3700.doi:10.1093/eurheartj/ehae179
+10.Farber A.Chronic Limb-Threatening Ischemia.N Engl J Med2018;379(2):171-180.doi:10.1056/NEJMcp1709326
+10.Farber A.Chronic Limb-Threatening Ischemia.N Engl J Med2018;379(2):171-180.doi:10.1056/NEJMcp1709326
+11.Kullo IJ, Rooke TW.CLINICAL PRACTICE.Peripheral Artery Disease.N Engl J Med2016;374(9):861-871.doi:10.1056/NEJMcp1507631
+11.Kullo IJ, Rooke TW.CLINICAL PRACTICE.Peripheral Artery Disease.N Engl J Med2016;374(9):861-871.doi:10.1056/NEJMcp1507631
+12.Guez D, Hansberry DR, Gonsalves CF, et al.Recent Trends in Endovascular and Surgical Treatment of Peripheral Arterial Disease in the Medicare Population.AJR Am J Roentgenol2020;214(5):962-966.doi:10.2214/AJR.19.21967
+12.Guez D, Hansberry DR, Gonsalves CF, et al.Recent Trends in Endovascular and Surgical Treatment of Peripheral Arterial Disease in the Medicare Population.AJR Am J Roentgenol2020;214(5):962-966.doi:10.2214/AJR.19.21967
+13.Bradbury AW, Moakes CA, Popplewell M, et al.A vein bypass first versus a best endovascular treatment first revascularisation strategy for patients with chronic limb threatening ischaemia who required an infra-popliteal, with or without an additional more proximal infra-inguinal revascularisation procedure to restore limb perfusion (BASIL-2): an open-label, randomised, multicentre, phase 3 trial.Lancet2023;401(10390):1798-1809.doi:10.1016/S0140-6736(23)00462-2
+13.Bradbury AW, Moakes CA, Popplewell M, et al.A vein bypass first versus a best endovascular treatment first revascularisation strategy for patients with chronic limb threatening ischaemia who required an infra-popliteal, with or without an additional more proximal infra-inguinal revascularisation procedure to restore limb perfusion (BASIL-2): an open-label, randomised, multicentre, phase 3 trial.Lancet2023;401(10390):1798-1809.doi:10.1016/S0140-6736(23)00462-2
+14.Farber A, Menard MT, Conte MS, et al.Surgery or Endovascular Therapy for Chronic Limb-Threatening Ischemia.N Engl J Med2022;387(25):2305-2316.doi:10.1056/NEJMoa2207899
+14.Farber A, Menard MT, Conte MS, et al.Surgery or Endovascular Therapy for Chronic Limb-Threatening Ischemia.N Engl J Med2022;387(25):2305-2316.doi:10.1056/NEJMoa2207899
+外周动脉疾病（PAD）最常见于下肢。
+外周动脉疾病（PAD）最常见于下肢。
+大多数患者也患有显著的脑动脉粥样硬化、冠状动脉粥样硬化或两者兼有。
+大多数患者也患有显著的脑动脉粥样硬化、冠状动脉粥样硬化或两者兼有。
+当有症状，PAD引起间歇性跛行，这是走路时出现的一种腿部不适，并通过休息可以缓解；它是运动诱发的可逆缺血，类似于心绞痛的表现。
+当有症状，PAD引起间歇性跛行，这是走路时出现的一种腿部不适，并通过休息可以缓解；它是运动诱发的可逆缺血，类似于心绞痛的表现。
+更严重的下肢外周动脉疾病灌注异常可导致静息痛、缺血性溃疡或足趾或足部其他部位的坏疽。
+更严重的下肢外周动脉疾病灌注异常可导致静息痛、缺血性溃疡或足趾或足部其他部位的坏疽。
+当踝肱指数（即脚踝与手臂收缩压的比值）偏低（≤0.90）时，可诊断为下肢外周动脉疾病。
+当踝肱指数（即脚踝与手臂收缩压的比值）偏低（≤0.90）时，可诊断为下肢外周动脉疾病。
+纠正动脉粥样硬化的危险因素；给予他汀类药物、抗血小板药物，有时给予血管紧张素转换酶抑制剂、利伐沙班或西洛他唑。
+纠正动脉粥样硬化的危险因素；给予他汀类药物、抗血小板药物，有时给予血管紧张素转换酶抑制剂、利伐沙班或西洛他唑。
+有症状的下肢外周动脉疾病患者可选择腔内或外科血运重建。
+有症状的下肢外周动脉疾病患者可选择腔内或外科血运重建。

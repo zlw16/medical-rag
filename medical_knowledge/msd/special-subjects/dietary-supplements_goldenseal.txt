@@ -1,0 +1,47 @@
+标题：白毛茛
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/goldenseal
+============================================================
+
+白毛茛是一种濒危的美国植物，属于毛茛科植物(北美黄连）。其有效成分是黄连碱和黄连素，具有杀菌活性。毛茛的活性成分以标准化的液体，片剂和胶囊形式提供。
+
+【北美黄连的功效宣称】
+白毛茛多种制剂作为杀菌剂用于口腔溃疡、眼部炎症和溃疡、皮肤不适，也用作阴道感染的灌注治疗。它经常与紫锥菊联合用于治疗感冒。白毛茛同时还被用于消化不良和腹泻的治疗。
+
+【白毛茛的证据】
+毛茛单独使用可作为一种感冒药，其疗效尚未不明确。 (1)。 两个设计相对较好但规模较小的试验结果显示，白毛茛中提取的黄连素可以减轻霍乱引起的腹泻(2, 3)。小檗碱还减轻了以腹泻为主的肠易激综合征的症状 (4)。 毛茛提取物也有几个最近的大规模随机双盲临床试验。
+有研究证据表明，在糖尿病患者中，黄连素可降低空腹血糖、餐后血糖及糖化血红蛋白（HbA1c）水平。28项研究（2313名受试者）对小檗碱进行了荟萃分析，比较了小檗碱与生活方式调整、糖尿病药物单一疗法或小檗碱与糖尿病药物联合治疗。在这项分析中，小檗碱能显著降低空腹血糖、餐后血糖和血红蛋白A1C，与口服糖尿病药物联合使用比糖尿病药物或小檗碱作为单项治疗更有效（5)。然而，在治疗时间大于90天和年龄大于60岁的人中，效果会减弱。
+对于高脂血症，对16项研究（2417名受试者）的荟萃分析发现，与安慰剂相比，小檗碱可显著降低总胆固醇和低密度脂蛋白胆固醇以及甘油三酯，并增加高密度脂蛋白胆固醇（6)。然而，结果的异质性和偏倚风险都很高。
+小檗碱也被用于减肥。一项包含1040名患者的12项研究的荟萃分析报告了体重减轻、体重指数、腰围和C反应蛋白血浆水平的降低（7）。
+
+【金印草的治疗副作用】
+白毛茛有很多副作用，包括恶心、焦虑、消化不良、子宫挛缩、新生儿黄疸。大剂量服用可导致癫痫发作和呼吸衰竭，可能影响心脏收缩。妊娠期或哺乳期妇女、新生儿、癫痫患者或凝血障碍患者禁止服用白毛茛。最近一项针对白毛茛的主要活性成分，特别是黄连素的体外研究，表明DNA损伤导致致瘤效应的风险增加 (8)。
+
+【白毛茛的药物相互作用】
+白毛茛可能与华法林相互作用，且黄连素可能增强肝素的抗凝作用。此外，小檗碱抑制 CYP 450 同工酶，并可能增加咪唑安定、奥美拉唑、右美沙芬、氯沙坦、他克莫司和咖啡因等药物的血清浓度 (9)。
+北美黄连可能会增加环孢菌素的水平。北美黄连会降低二甲双胍的血液水平，可能会阻碍服用二甲双胍的 2 型糖尿病患者的血糖控制。黄连中的黄连素还可能增加降糖药的降糖作用。
+(参考表一些可能的膳食补充剂-药物相互作用。）
+
+【参考文献】
+1.Rehman J, Dillow JM, Carter SM, et al.Increased production of antigen-specific immunoglobulins G and M following in vivo treatment with the medicinal plantsEchinacea angustifoliaandHydrastis canadensis.Immunol Lett.68(2-3):391-395, 1999.doi: 10.1016/S0165-2478(99)00085-1
+1.Rehman J, Dillow JM, Carter SM, et al.Increased production of antigen-specific immunoglobulins G and M following in vivo treatment with the medicinal plantsEchinacea angustifoliaandHydrastis canadensis.Immunol Lett.68(2-3):391-395, 1999.doi: 10.1016/S0165-2478(99)00085-1
+2.Khin-Maung-U, Myo-Khin, Nyunt-Nyunt-Wai, et al.Clinical trial of berberine in acute watery diarrhoea.Br Med J (Clin Res Ed).291(6509):1601-1605, 1985.doi:10.1136/bmj.291.6509.1601
+2.Khin-Maung-U, Myo-Khin, Nyunt-Nyunt-Wai, et al.Clinical trial of berberine in acute watery diarrhoea.Br Med J (Clin Res Ed).291(6509):1601-1605, 1985.doi:10.1136/bmj.291.6509.1601
+3.Rabbani GH, Butler T, Knight J, et al.Randomized controlled trial of berberine sulfate therapy for diarrhea due to enterotoxigenicEscherichia coliandVibrio cholerae.J Infect Dis.155(5):979-984, 1987.doi:10.1093/infdis/155.5.979
+3.Rabbani GH, Butler T, Knight J, et al.Randomized controlled trial of berberine sulfate therapy for diarrhea due to enterotoxigenicEscherichia coliandVibrio cholerae.J Infect Dis.155(5):979-984, 1987.doi:10.1093/infdis/155.5.979
+4.Chen C, Tao C, Liu Z, et al.A randomized clinical trial of berberine hydrochloride in patients with diarrhea-predominant irritable bowel syndrome.Phytother Res. 29(11):1822-7, 2015. doi: 10.1002/ptr.5475
+4.Chen C, Tao C, Liu Z, et al.A randomized clinical trial of berberine hydrochloride in patients with diarrhea-predominant irritable bowel syndrome.Phytother Res. 29(11):1822-7, 2015. doi: 10.1002/ptr.5475
+5.Liang Y, Xu X, Yin M, et al.Effects of berberine on blood glucose in patients with type 2 diabetes mellitus: a systematic literature review and a meta-analysis.Endocr J.66(1):51-63, 2019.doi:10.1507/endocrj.EJ18-0109
+5.Liang Y, Xu X, Yin M, et al.Effects of berberine on blood glucose in patients with type 2 diabetes mellitus: a systematic literature review and a meta-analysis.Endocr J.66(1):51-63, 2019.doi:10.1507/endocrj.EJ18-0109
+6.Ju J, Li J, Lin Q, et al.Efficacy and safety of berberine for dyslipidaemias: a systematic review and meta-analysis of randomized clinical trials.Phytomedicine.50:25-34, 2018.doi:10.1016/j.phymed.2018.09.212
+6.Ju J, Li J, Lin Q, et al.Efficacy and safety of berberine for dyslipidaemias: a systematic review and meta-analysis of randomized clinical trials.Phytomedicine.50:25-34, 2018.doi:10.1016/j.phymed.2018.09.212
+7.Asbaghi O, Ghanbari N, Shekari M, Reiner Ž, Amirani E, Hallajzadeh J, Mirsafaei L, Asemi Z.The effect of berberine supplementation on obesity parameters, inflammation and liver function enzymes: A systematic review and meta-analysis of randomized controlled trials.Clin Nutr ESPEN.2020 Aug;38:43-49.doi: 10.1016/j.clnesp.2020.04.010
+7.Asbaghi O, Ghanbari N, Shekari M, Reiner Ž, Amirani E, Hallajzadeh J, Mirsafaei L, Asemi Z.The effect of berberine supplementation on obesity parameters, inflammation and liver function enzymes: A systematic review and meta-analysis of randomized controlled trials.Clin Nutr ESPEN.2020 Aug;38:43-49.doi: 10.1016/j.clnesp.2020.04.010
+8.Chen S, Wan L, Couch L, et al: Mechanism study of goldenseal-associated DNA damage.Toxicol Lett221(1):64-72, 2013.doi: 10.1016/j.toxlet.2013.05.641
+8.Chen S, Wan L, Couch L, et al: Mechanism study of goldenseal-associated DNA damage.Toxicol Lett221(1):64-72, 2013.doi: 10.1016/j.toxlet.2013.05.641
+9.Guo Y, Chen Y, Tan ZR, Klaassen CD, Zhou HH.Repeated administration of berberine inhibits cytochromes P450 in humans.Eur J Clin Pharmacol.68(2):213‐217, 2012.doi:10.1007/s00228-011-1108-2
+9.Guo Y, Chen Y, Tan ZR, Klaassen CD, Zhou HH.Repeated administration of berberine inhibits cytochromes P450 in humans.Eur J Clin Pharmacol.68(2):213‐217, 2012.doi:10.1007/s00228-011-1108-2
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Goldenseal
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: Goldenseal

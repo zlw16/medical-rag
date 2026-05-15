@@ -1,0 +1,224 @@
+标题：淀粉样变性
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/amyloidosis/amyloidosis
+============================================================
+
+淀粉样原纤维由错误折叠的蛋白质组成，这些蛋白质聚集成低聚物，然后形成不溶性原纤维。淀粉样变性的病因与分型非常复杂多样，主要原因是突变的蛋白更易发生错误折叠与聚集（淀粉样蛋白）。
+淀粉样蛋白沉积物由小的（直径约10纳米）、不溶性原纤维组成，形成刚果红阳性β-折叠，可以通过X射线衍射识别。除了纤维状的淀粉样蛋白，淀粉样沉积物中还含有血清淀粉样P物质和葡萄糖胺聚糖。
+淀粉样沉积物可以被苏木精和伊红染成粉红色，其碳水化合物组分可以被高碘酸-希夫或阿尔辛染成蓝色，但更具有特征性的是刚果红染色后在偏振光显微镜下可以观察到苹果绿双折射。肉眼观察，受累器官呈现蜡状改变。
+一方面是变性的淀粉样蛋白产生过多。另一方面，变性蛋白的清除障碍也是淀粉样变性病情进展的重要机制。淀粉样沉积物无代谢活性，但是会干扰器官组织的结构和功能。然而，淀粉样蛋白的一些前纤维低聚物具有直接的细胞毒性，这也是发病机制的重要组成部分。
+
+【淀粉样变性的病因】
+系统性淀粉样变性时，循环淀粉样蛋白可以在全身多个脏器沉积。主要分类
+AL淀粉样变性：由克隆免疫球蛋白轻链的获得性过度表达引起
+AL淀粉样变性：由克隆免疫球蛋白轻链的获得性过度表达引起
+ATTR变异型淀粉样变性（ATTRv）（遗传性淀粉样变性）：由遗传突变基因引起，该基因编码一种容易发生错误折叠的蛋白质，最常见的是转甲状腺素蛋白（TTR）
+ATTR变异型淀粉样变性（ATTRv）（遗传性淀粉样变性）：由遗传突变基因引起，该基因编码一种容易发生错误折叠的蛋白质，最常见的是转甲状腺素蛋白（TTR）
+ATTRwt（野生型 ATTR）淀粉样变性：由野生型TTR的错误折叠和聚集引起。
+ATTRwt（野生型 ATTR）淀粉样变性：由野生型TTR的错误折叠和聚集引起。
+AA淀粉样变性：由急性期反应物血清淀粉样蛋白 A 聚集引起
+AA淀粉样变性：由急性期反应物血清淀粉样蛋白 A 聚集引起
+β-2-微球蛋白聚集引起的淀粉样变可发生在长期血液透析患者身上，但随着高流量透析膜的使用，发病率有所下降。由于相关基因的突变，存在一种罕见的遗传性beta-2-微球蛋白淀粉样变性。
+局灶的淀粉样变性似乎是由于某种淀粉样蛋白（通常为免疫球蛋白轻链）在受累器官局部产生过多并堆积引起的，而不是由循环中的变性蛋白沉积引起的。 常受累部位包括中枢神经系统（如Alzheimer disease阿尔茨海默病），皮肤，上或下呼吸道，肺实质、膀胱、眼睛和乳房。
+
+【原发性淀粉样变性】
+AL淀粉样变是由单克隆浆细胞或其他B细胞淋巴增生性疾病患者淀粉样原性免疫球蛋白轻链的过度产生引起的（1）。轻链也可以以非纤维的形式在组织中沉积（即轻链沉积病）。少数情况下，免疫球蛋白重链还可形成淀粉样纤维（AH淀粉样变性）。
+淀粉样蛋白沉积的常见部位包括皮肤、神经、心脏、胃肠道（包括舌头）、肾脏、肝脏、脾脏和血管。患者骨髓中有轻度浆细胞增多，后者常提示多发性骨髓瘤，但是大多数患者并没有真正的multiple myeloma多发性骨髓瘤（通常表现为溶骨性损害、高钙血症、肾小管管型、贫血）。然而，大约10%～20%的多发性骨髓瘤患者会发展为轻链型淀粉样变性。
+
+【遗传性淀粉样变性】
+遗传性淀粉样变性是由一种编码易聚集蛋白突变的基因遗传引起的，这种蛋白通常是由肝脏大量产生的。
+可引起遗传性淀粉样蛋白的血清蛋白包括转甲状腺素（TTR）、载脂蛋白A-I、载脂蛋白A-II、溶菌酶、纤维蛋白原、凝胶蛋白和胱抑素C。近期研究发现，血清蛋白白细胞趋化因子2（LECT2）与某种家族性淀粉样变性有关。然而，这一亚型的遗传学机制尚不清楚。
+由突变的转甲状腺素蛋白（TTR）引起的淀粉样变性（ATTRv）是遗传性淀粉样变性中最常见的类型。现已知TTR基因的130多种突变与淀粉样变相关。最常见的V30M突变在葡萄牙、瑞典、巴西和日本人群中较为普遍，约4%的美国和加勒比海黑人群体中存在V122I突变。本病的外显率和发病年龄存在显著差异，但在家族与种族群体内部呈现一致性（2）。
+转甲状腺素蛋白遗传变异型淀粉样变性可导致周围感觉运动神经病变、自主神经病变、慢性肾脏病及心肌病变。腕管综合征的出现通常先于其他神经系统疾病表现。 视网膜上皮细胞出现突变型TTR可导致玻璃体沉积，而脉络膜丛出现突变型TTR则可能发生软脑膜沉积。当心肌病是心脏中TTR沉积的主要表现时，它被称为转甲状腺素淀粉样心肌病（ATTR-CM）。
+
+【ATTR野生型淀粉样变性】
+ATTRwt 淀粉样变性是由野生型TTR的聚集和沉积引起的，主要靶向心脏。
+作为老年男性infiltrative cardiomyopathy浸润性心肌病的重要原因之一，SSA日益受到重视。大约16%的主动脉瓣狭窄患者在接受经导管主动脉瓣置换术（3），以及13%因射血分数保留的心力衰竭（HFpEF）住院的患者，也患有转甲状腺素蛋白淀粉样变心肌病，此种情况被命名为野生型转甲状腺素蛋白心脏淀粉样变性，表示野生型转甲状腺素蛋白在心脏中沉积（4）。ATTRwt淀粉样变的软组织表现，包括腕管综合征、肱二头肌腱断裂、肩袖撕裂和椎管狭窄，可能比浸润性心肌病的临床表现早很多年。
+导致ATTRwt淀粉样变的遗传和表观遗传因素尚不清楚。由于 ATTRwt 和 AL 淀粉样变性均可导致心肌病，并且 55 岁以上的患者可能存在淀粉样变性单克隆丙种球蛋白病，因此准确分型淀粉样蛋白至关重要，这样 ATTRwt 淀粉样变性患者才不会被不当地用化疗（化疗用于治疗 AL 淀粉样变性）进行治疗。
+
+【继发性淀粉样变性】
+AA可以继发于感染性、炎症性疾病和恶性病变，其发生是由于急性时相反应物-血清淀粉样蛋白A（SAA）的降解。
+常见的感染性疾病包括
+支气管扩张
+支气管扩张
+诱发炎症的情况包括
+类风湿关节炎
+类风湿关节炎
+幼年特发性关节炎
+幼年特发性关节炎
+克罗恩病
+克罗恩病
+遗传性周期性发热综合征，如家族性地中海热
+遗传性周期性发热综合征，如家族性地中海热
+Castlman病
+Castlman病
+这些疾病中或由肿瘤细胞异位产生的炎症细胞因子（例如白介素[IL]-1、肿瘤坏死因子[TNF]、白介素-6）可以增加肝脏中血清淀粉样蛋白A的合成。
+AA淀粉样变性好发于肾脏、脾脏、肝脏、肾上腺和淋巴结。疾病晚期会累及心脏或周围/自主神经。
+
+【局限性淀粉样变性】
+脑外局灶性淀粉样变最常见的原因是免疫球蛋白轻链的沉积和脑内beta淀粉样蛋白的沉积。
+局部淀粉样蛋白沉积物通常累及气道和肺组织，膀胱和输尿管，皮肤，乳房，和眼。少数情况下，局部产生的蛋白亦可导致淀粉样变，如角蛋白的某些亚型可以在皮肤局部形成沉积物。胃肠道、呼吸道与膀胱粘膜的淋巴组织所产生的免疫球蛋白轻链沉积后，亦可引起上述器官局部的淀粉样变。
+大脑中的Abeta蛋白沉积导致Alzheimer disease阿尔茨海默病或脑血管淀粉样病。 在中枢神经系统中产生的其他蛋白亦可发生错误折叠与堆积，并损伤神经元，导致神经变性疾病（例如帕金森病,亨廷顿病）。
+
+【病因参考文献】
+1.Sanchorawala V.Systemic Light Chain Amyloidosis.N Engl J Med.2024;390(24):2295-2307.doi:10.1056/NEJMra2304088
+1.Sanchorawala V.Systemic Light Chain Amyloidosis.N Engl J Med.2024;390(24):2295-2307.doi:10.1056/NEJMra2304088
+2.Buxbaum JN, Ruberg FL: Transthyretin V122I (pV142I)* cardiac amyloidosis: an age-dependent autosomal dominant cardiomyopathy too common to be overlooked as a cause of significant heart disease in elderly African Americans.Genet Med19(7):733-742, 2017.doi:10.1038/gim.2016.200
+2.Buxbaum JN, Ruberg FL: Transthyretin V122I (pV142I)* cardiac amyloidosis: an age-dependent autosomal dominant cardiomyopathy too common to be overlooked as a cause of significant heart disease in elderly African Americans.Genet Med19(7):733-742, 2017.doi:10.1038/gim.2016.200
+3.Fabbri G, Serenelli M, Cantone A, et al: Transthyretin amyloidosis in aortic stenosis: clinical and therapeutic implications.Eur Heart J Suppl23(Suppl E):E128-E132, 2021.doi:10.1093/eurheartj/suab107
+3.Fabbri G, Serenelli M, Cantone A, et al: Transthyretin amyloidosis in aortic stenosis: clinical and therapeutic implications.Eur Heart J Suppl23(Suppl E):E128-E132, 2021.doi:10.1093/eurheartj/suab107
+4.González-López E, Gallego-Delgado M, Guzzo-Merello G, et al: Wild-type transthyretin amyloidosis as a cause of heart failure with preserved ejection fraction.Eur Heart J36(38):2585-2594, 2015.doi:10.1093/eurheartj/ehv338
+4.González-López E, Gallego-Delgado M, Guzzo-Merello G, et al: Wild-type transthyretin amyloidosis as a cause of heart failure with preserved ejection fraction.Eur Heart J36(38):2585-2594, 2015.doi:10.1093/eurheartj/ehv338
+
+【淀粉样变性的症状和体征】
+系统性淀粉样变的症状与体征通常是非特异的，往往导致诊断延误。进行性多系统受累的患者应除外淀粉样变性病。
+肾淀粉样沉积主要发生在肾小球，因此主要表现为蛋白尿。但仍然有15％左右表现为肾小管受累，临床表现为氮质血症与微量蛋白尿。这些过程可能进展为伴有显著低白蛋白血症、水肿和全身性水肿的肾病综合征，或进展为终末期肾病。
+肝脏受累时出现无痛性肝大，可为高度肿大 肝功能检查常提示肝内胆汁淤积，碱性磷酸酶升高，胆红素轻度升高，黄疸较为罕见。 偶尔出现门静脉高压，导致食道静脉曲张和腹水。
+气道和喉部受累导致呼吸困难，声嘶、喘息，咯血或气道阻塞。
+心肌的浸润导致限制型心肌病，最终导致舒张功能障碍和心脏衰竭，可发生心脏传导阻滞或心律失常。低血压是常见的。
+周围神经病变伴指趾感觉异常是轻链型和转甲状腺素蛋白遗传变异型淀粉样变性常见的首发表现。自主神经病变可引起直立性低血压、勃起功能障碍、出汗异常和胃肠运动紊乱。
+脑血管淀粉样变最常导致自发性脑出血，有些病人常有短暂的、一过性的的神经系统症状。
+胃肠道淀粉样变性可以引起食道的运动异常以及小肠和大肠的运动异常。胃弛缓、吸收不良、出血、假性梗阻也可能发生。舌肥大普遍出现于AL淀粉样变性。
+软组织淀粉样蛋白受累的特征先于 ATTRwt 淀粉样心肌病的临床表现。软组织淀粉样蛋白病的表现包括腕管综合征、扳机指、肱二头肌腱断裂和椎管狭窄。
+此照片显示一个系统性淀粉样变性和巨舌症患者。舌头突出于嘴角，背侧可见上牙齿的压痕。
+© Springer Science+Business Media
+甲状腺淀粉样变性可能导致质地较硬的、对称的、非触痛性甲状腺肿，类似于桥本甲状腺炎。 其他内分泌病也可能发生。
+肺淀粉样变性（多数见于AL淀粉样变性）以局灶性肺结节和囊肿、气管支气管病变、胸腔积液或弥漫性肺泡沉积为特征。
+淀粉样蛋白玻璃体混浊和双侧瞳孔边缘呈扇形改变见于一些遗传性淀粉样变。
+其他表现包括瘀青、通常在眼睛周围（浣熊眼），这是由血管中的淀粉样蛋白沉积引起的。 淀粉样蛋白沉积可导致血管脆弱，轻微创伤后（如打喷嚏或咳嗽）就可能破裂。
+
+【淀粉样变性的诊断】
+淀粉蛋白分型
+淀粉蛋白分型
+器官受累的判定
+器官受累的判定
+如发现受累器官内有纤维状沉积物，则淀粉样变可确诊。腹部皮下脂肪抽吸检查在约80%的轻链型淀粉样变性患者中可检测到淀粉样蛋白沉积，但在野生型转甲状腺素蛋白淀粉样变性患者中的检出率不足25%（1）。如脂肪活检结果呈阴性，应对受累器官进行活检。当这些器官出现临床受累时，肾脏和心脏活检的诊断敏感性接近100％。刚果红染色的组织切片在偏振光显微镜下检查可以见到特征性的双折射。 对受累的心脏或肾活检标本进行电子显微镜分析，可发现无分支的10nm纤维。
+如果排除了 AL 淀粉样变性，则使用亲骨示踪剂的核扫描可以在不进行心脏活检的情况下诊断 ATTR 淀粉样心肌病。
+
+【淀粉样变的分型】
+淀粉样变性经活检证实后，可以应用多种技术来进一步分型。对于某些类型的淀粉样变性病，免疫组织化学或免疫荧光具有一定的诊断价值，但可能会产生假阳性的分型结果。其他有用的技术包括遗传性淀粉样变性的基因测序和通过质谱进行生化鉴定，以准确识别淀粉样蛋白沉积物中的蛋白质变体（最敏感和特异性最强的方法）。
+如果怀疑患有 AL 淀粉样变性，应通过定量测量血清游离免疫球蛋白轻链、使用免疫固定电泳定性检测血清或尿液单克隆轻链（血清蛋白电泳和尿液蛋白电泳对 AL 淀粉样变性患者不敏感），以及进行流式细胞术或免疫组织化学骨髓活检以确定浆细胞克隆性，来评估患者是否存在潜在的浆细胞疾病。
+如浆细胞克隆>10％，应进一步检查，判断患者是否符合多发性骨髓瘤的诊断标准，包括评估溶骨性病变，贫血，肾功能不全与高钙血症。
+
+【器官受累】
+器官受累的筛查应首先从无创检查开始：
+肾脏：尿液分析；测量血清尿素氮 (BUN)、肌酐和白蛋白；估计肾小球滤过率（eGFR）；以及 24 小时尿液收集用于蛋白电泳（UPEP）
+肾脏：尿液分析；测量血清尿素氮 (BUN)、肌酐和白蛋白；估计肾小球滤过率（eGFR）；以及 24 小时尿液收集用于蛋白电泳（UPEP）
+肝脏：肝脏检查
+肝脏：肝脏检查
+肺部：胸部X光片、胸部CT和肺功能检查
+肺部：胸部X光片、胸部CT和肺功能检查
+心脏：心电图 (ECG) 和血清生物标志物测量，例如脑（B 型）利钠肽 (BNP) 或 N 末端前脑利钠肽 (NT-proBNP) 和肌钙蛋白。
+心脏：心电图 (ECG) 和血清生物标志物测量，例如脑（B 型）利钠肽 (BNP) 或 N 末端前脑利钠肽 (NT-proBNP) 和肌钙蛋白。
+心脏受累在心电图上常表现为低电压（心室肥厚）和/或心律失常。如果因症状怀疑心脏受累，除了心电图检查结果和心脏生物标志物外，还需进行超声心动图测量舒张期舒张和整体纵向应变（左心室收缩功能的测量）并筛查双心室肥厚。在不明确的情况下，可以进行心脏磁共振成像（MRI）来检测持续性心内膜下钆增强，这是一项特征性发现。心脏焦磷酸锝核扫描提高了野生型转甲状腺素蛋白淀粉样变心脏病检出率，在血液检查排除轻链型淀粉样变性的前提下，可避免进行心脏活检（2，3）。
+
+【诊断参考】
+1.Aimo A, Emdin M, Musetti V, et al: Abdominal Fat Biopsy for the Diagnosis of Cardiac Amyloidosis.JACC Case Rep2(8):1182-1185, 2020.doi:10.1016/j.jaccas.2020.05.062
+1.Aimo A, Emdin M, Musetti V, et al: Abdominal Fat Biopsy for the Diagnosis of Cardiac Amyloidosis.JACC Case Rep2(8):1182-1185, 2020.doi:10.1016/j.jaccas.2020.05.062
+2.Gillmore JD, Maurer MS, Falk RH, et al: Nonbiopsy diagnosis of cardiac transthyretin amyloidosis.Circulation133(24):2404–2412, 2016.
+2.Gillmore JD, Maurer MS, Falk RH, et al: Nonbiopsy diagnosis of cardiac transthyretin amyloidosis.Circulation133(24):2404–2412, 2016.
+3.Maurer MS, Bokhari S, Damy T, et al: Expert consensus recommendations for the suspicion and diagnosis of transthyretin cardiac amyloidosis.Circ Heart Fail12(9):e006075, 2019.
+3.Maurer MS, Bokhari S, Damy T, et al: Expert consensus recommendations for the suspicion and diagnosis of transthyretin cardiac amyloidosis.Circ Heart Fail12(9):e006075, 2019.
+
+【淀粉样变性的治疗】
+支持治疗
+支持治疗
+针对疾病类型的特定治疗
+针对疾病类型的特定治疗
+目前，大多数淀粉样变性的亚型存在特定的治疗方法。此外，还有一些治疗方法正在研究之中。对于所有形式的系统性淀粉样变，支持治疗均有助于缓解症状，改善生活质量。
+
+【支持治疗】
+支持治疗措施都是针对受累的器官系统：
+肾：对于患有肾病综合征和水肿的患者，应限制盐和液体，并用袢利尿剂进行治疗；由于蛋白质持续丢失，蛋白质摄入量不应受到限制。当潜在疾病过程得到控制时，肾移植是一种选择；它可以提供与其他肾脏疾病相当的长期生存率。
+肾：对于患有肾病综合征和水肿的患者，应限制盐和液体，并用袢利尿剂进行治疗；由于蛋白质持续丢失，蛋白质摄入量不应受到限制。当潜在疾病过程得到控制时，肾移植是一种选择；它可以提供与其他肾脏疾病相当的长期生存率。
+心脏：心肌病的患者应限制盐与液体，使用袢利尿剂治疗。其他治疗心力衰竭的药物，包括地高辛、血管紧张素转换酶 (ACE) 抑制剂或血管紧张素II受体阻滞剂 (ARB)、钙通道阻滞剂和β受体阻滞剂，患者的耐受性差，属于禁忌症。心脏移植已成功应用于精心挑选的患有AL淀粉样变性和两种ATTR淀粉样变性且伴有严重心脏受累的患者。为防止移植心脏复发，对AL淀粉样变性病患者必须进行针对克隆性浆细胞疾病的积极化疗，对于有症状的ATTR淀粉样蛋白多神经病或心肌病患者，应考虑进行抗TTR治疗。
+心脏：心肌病的患者应限制盐与液体，使用袢利尿剂治疗。其他治疗心力衰竭的药物，包括地高辛、血管紧张素转换酶 (ACE) 抑制剂或血管紧张素II受体阻滞剂 (ARB)、钙通道阻滞剂和β受体阻滞剂，患者的耐受性差，属于禁忌症。心脏移植已成功应用于精心挑选的患有AL淀粉样变性和两种ATTR淀粉样变性且伴有严重心脏受累的患者。为防止移植心脏复发，对AL淀粉样变性病患者必须进行针对克隆性浆细胞疾病的积极化疗，对于有症状的ATTR淀粉样蛋白多神经病或心肌病患者，应考虑进行抗TTR治疗。
+胃肠道：针对腹泻可使用洛哌丁胺。早饱，胃潴留明显者可给予甲氧氯普胺。
+胃肠道：针对腹泻可使用洛哌丁胺。早饱，胃潴留明显者可给予甲氧氯普胺。
+神经系统：针对周围神经病变，可予加巴喷丁、普瑞巴林或度洛西汀缓解疼痛。
+神经系统：针对周围神经病变，可予加巴喷丁、普瑞巴林或度洛西汀缓解疼痛。
+体位性低血压可以用大剂量的米多君纠正。在老年男性，该药可引起尿潴留。但仰卧位高血压的药物并发症在这一人群中很少出现。弹力袜也有助于改善体位性低血压。如无外周水肿、全身水肿或心脏衰竭，亦可服用氟氢可的松。对于难治性直立性低血压患者，可加用米多君、氟氢可的松或屈昔多巴。
+
+【原发性淀粉样变性】
+对于AL淀粉样变性：
+及早启动抗浆细胞治疗是保留器官功能、延长寿命的关键。
+及早启动抗浆细胞治疗是保留器官功能、延长寿命的关键。
+大多数用于多发性骨髓瘤的药物已用于AL的治疗。当合并有器官功能受损时，药物、剂量和疗程往往需要调整。
+大剂量美法仑联合自体干细胞移植在特定的患者中非常有效 (1)。
+多数患者初始治疗通常包括达雷妥尤单抗（一种抗CD38单抗）联合硼替佐米（蛋白酶体抑制剂）、地塞米松及烷化剂（如环磷酰胺），被称为Dara-CyBorD。这项方法得到了一项随机对照试验 (ANDROMEDA) 数据的支持，该试验比较了在新诊断的AL淀粉样变性患者中，采用达雷妥尤单抗（Dara-CyBorD方案）联合环磷酰胺、硼替佐米和地塞米松（CyBorD方案）与单独使用CyBorD方案的疗效差异。研究排除了纽约心脏协会[NYHA]心功能分级III级和IV级心力衰竭的患者[见表NYHA心力衰竭分类]、N末端B型利钠肽前体[NTproBNP]水平>8,500 pg/mL[>1005 pmol/L]以及eGFR<20 mL/min/1.73m2的患者（2）。加入达雷妥尤单抗使血液学缓解率达到前所未有的水平。血液学反应基于通过免疫固定电泳测定的血清和尿液中的单克隆蛋白水平以及具有κ/λ比率的血清轻链水平。该临床试验患者长期随访显示，中位随访61个月时，Dara-CyBorD方案可改善无进展生存期、总生存期，并减少主要器官损伤。
+复发或难治性患者可选用来那度胺等其他方案。
+所有可用的治疗都针对 AL 淀粉样变性中的克隆性B细胞或浆细胞。比尔他单抗和CAEL-101等抗原纤维抗体的研究正在进行中（3)。
+局部AL可以用低剂量体外放射治疗，因为浆细胞对射线高度敏感。
+
+【ATTRv（遗传性）淀粉样变性】
+对于ATTR淀粉样变性：
+四聚体稳定性药物
+四聚体稳定性药物
+基因沉默药
+基因沉默药
+肝移植将合成突变蛋白的初始部位替换为产生正常TTR的新器官，如果在发病时(早期神经病变和心脏未受累)实施，对某些TTR突变有效。由于野生型 TTR 蛋白错误折叠和沉积在预先存在的淀粉样蛋白沉积物上，因此在疾病后期进行移植通常会导致进行性淀粉样蛋白心肌病和神经病变。
+一些药物已被证明能够稳定循环中的血浆TTR四聚体，防止其错误折叠和原纤维形成，有效抑制神经疾病的进展，保证生活质量。 这些 TTR 稳定剂包括广泛使用的通用抗炎药双氟尼柳、他法米迪（4，5）和阿科拉米迪（6）。Tafamidis和acoramidis用于治疗 ATTR 淀粉样心肌病（7）。
+转甲状腺素蛋白基因沉默技术，即使用反义核糖核酸或核糖核酸干扰来阻断转甲状腺素蛋白信使核糖核酸翻译，能有效降低血清转甲状腺素蛋白的水平，改善约50%患者的神经预后，并似乎能够修复部分患者的损伤神经（8，9）。基因沉默药物帕替西兰、维特西兰及伊诺特森可用于治疗ATTR淀粉样多发性神经病变。
+第二代基因沉默剂伏曲利韦和艾普仑特生的临床试验显示，可改善家族性淀粉样变性多发性神经病患者的功能结局（9，10）。另外2项试验的数据表明，基因沉默剂对ATTRv淀粉样变性心肌病患者同样具有显著的疗效（11，12）。
+
+【ATTR野生型淀粉样变性】
+对于ATTR野生型淀粉样变性
+四聚体稳定剂和基因沉默剂
+四聚体稳定剂和基因沉默剂
+在ATTRv或ATTRwt淀粉样心肌病患者中使用他法米地或阿科拉米地稳定TTR已被证明可降低全因死亡率和心血管相关住院率（5、6）。这两种药物均可用于治疗所有类型的ATTR 淀粉样变心肌病。临床试验表明，TTR 基因沉默剂伏曲利韦可有效治疗 ATTRwt 淀粉样变性患者发生的心肌病，以及以突变蛋白为特征的 ATTRv 淀粉样变性患者发生的心肌病（10，11，12）。
+与遗传性ATTR淀粉样变性不同，肝移植对于ATTRwt型患者无效，因为淀粉样蛋白是结构正常的TTR。
+
+【继发性淀粉样变性】
+对于家族性地中海热引起的AA淀粉样变性，口服秋水仙碱有效。
+对于其他的AA型，治疗应针对潜在的感染、炎症性疾病或恶性肿瘤。
+秋水仙碱，或抗白介素1、抗白介素6或抗肿瘤坏死因子类药物，可用于阻断细胞因子信号传导通路，从而减轻促肝脏产生血清淀粉样蛋白A的炎症过程。
+
+【治疗参考文献】
+1.Sanchorawala V, Sun F, Quillen K, et al: Long-term outcome of patients with AL amyloidosis treated with high-dosemelphalanand stem cell transplantation: 20-year experience.Blood126: 2345–2347, 2015.doi: 10.1182/blood-2015-08-662726
+1.Sanchorawala V, Sun F, Quillen K, et al: Long-term outcome of patients with AL amyloidosis treated with high-dosemelphalanand stem cell transplantation: 20-year experience.Blood126: 2345–2347, 2015.doi: 10.1182/blood-2015-08-662726
+2.Kastritis E, Palladini G, Minnema MC, et al:Daratumumab-Based Treatment for Immunoglobulin Light-Chain Amyloidosis.N Engl J Med385(1):46-58, 2021.doi:10.1056/NEJMoa2028631
+2.Kastritis E, Palladini G, Minnema MC, et al:Daratumumab-Based Treatment for Immunoglobulin Light-Chain Amyloidosis.N Engl J Med385(1):46-58, 2021.doi:10.1056/NEJMoa2028631
+3.Quarta CC, Fontana M, Damy T, et al: Changing paradigm in the treatment of amyloidosis: From disease-modifying drugs to anti-fibril therapy.Front Cardiovasc Med9:1073503, 2022.doi:10.3389/fcvm.2022.1073503
+3.Quarta CC, Fontana M, Damy T, et al: Changing paradigm in the treatment of amyloidosis: From disease-modifying drugs to anti-fibril therapy.Front Cardiovasc Med9:1073503, 2022.doi:10.3389/fcvm.2022.1073503
+4.Berk JL, Suhr OB, Obici L, et al: Repurposingdiflunisalfor familial amyloid polyneuropathy: a randomized clinical trial.JAMA310: 2658–2667, 2013.doi: 10.1001/jama.2013.283815
+4.Berk JL, Suhr OB, Obici L, et al: Repurposingdiflunisalfor familial amyloid polyneuropathy: a randomized clinical trial.JAMA310: 2658–2667, 2013.doi: 10.1001/jama.2013.283815
+5.Maurer MS, Schwartz JH, Gundapaneni B, et al:Tafamidistreatment for patients with transthyretin amyloid cardiomyopathy.N Engl J Med379:1007–1016, 2018.
+5.Maurer MS, Schwartz JH, Gundapaneni B, et al:Tafamidistreatment for patients with transthyretin amyloid cardiomyopathy.N Engl J Med379:1007–1016, 2018.
+6.Gillmore JD, Judge DP, Cappelli F, et al: Efficacy and Safety ofAcoramidisin Transthyretin Amyloid Cardiomyopathy.N Engl J Med390(2):132–142, 2024.doi:10.1056/NEJMoa2305434
+6.Gillmore JD, Judge DP, Cappelli F, et al: Efficacy and Safety ofAcoramidisin Transthyretin Amyloid Cardiomyopathy.N Engl J Med390(2):132–142, 2024.doi:10.1056/NEJMoa2305434
+7.Writing Committee, Kittleson MM, Ruberg FL, et al: 2023 ACC Expert Consensus Decision Pathway on Comprehensive Multidisciplinary Care for the Patient With Cardiac Amyloidosis: A Report of the American College of Cardiology Solution Set Oversight Committee [published correction appears inJ Am Coll Cardiol81(11):1135, 2023].J Am Coll Cardiol81(11):1076-1126, 2023.doi:10.1016/j.jacc.2022.11.022
+7.Writing Committee, Kittleson MM, Ruberg FL, et al: 2023 ACC Expert Consensus Decision Pathway on Comprehensive Multidisciplinary Care for the Patient With Cardiac Amyloidosis: A Report of the American College of Cardiology Solution Set Oversight Committee [published correction appears inJ Am Coll Cardiol81(11):1135, 2023].J Am Coll Cardiol81(11):1076-1126, 2023.doi:10.1016/j.jacc.2022.11.022
+8.Adams D, Gonzalez-Duarte A, O'Riordan WD, et al:Patisiran, an RNAi therapeutic, for hereditary transthyretin amyloidosis.N Engl J Med379:11–21, 2018.
+8.Adams D, Gonzalez-Duarte A, O'Riordan WD, et al:Patisiran, an RNAi therapeutic, for hereditary transthyretin amyloidosis.N Engl J Med379:11–21, 2018.
+9.Coelho T, Marques Jr W, Dasgupta NR, et al:Eplontersenfor hereditary transthyretin amyloidosis with polyneuropathy.JAMA330:1448–1458, 2023.doi:10.1001/jama.2023.18688
+9.Coelho T, Marques Jr W, Dasgupta NR, et al:Eplontersenfor hereditary transthyretin amyloidosis with polyneuropathy.JAMA330:1448–1458, 2023.doi:10.1001/jama.2023.18688
+10.Adams D, Tournev IL, Taylor MS, et al: Efficacy and safety ofvutrisiranfor patients with hereditary transthyretin-mediated amyloidosis with polyneuropathy: a randomized clinical trial.Amyloid30(1):1-9, 2023.doi:10.1080/13506129.2022.2091985
+10.Adams D, Tournev IL, Taylor MS, et al: Efficacy and safety ofvutrisiranfor patients with hereditary transthyretin-mediated amyloidosis with polyneuropathy: a randomized clinical trial.Amyloid30(1):1-9, 2023.doi:10.1080/13506129.2022.2091985
+11.Fontana M, Berk JL, Gillmore JD, et al:Vutrisiranin Patients with Transthyretin Amyloidosis with Cardiomyopathy.N Engl J Med392(1):33–44, 2025.doi:10.1056/NEJMoa2409134
+11.Fontana M, Berk JL, Gillmore JD, et al:Vutrisiranin Patients with Transthyretin Amyloidosis with Cardiomyopathy.N Engl J Med392(1):33–44, 2025.doi:10.1056/NEJMoa2409134
+12.Maurer MS, Kale P, Fontana M, et al:Patisirantreatment in patients with transthyretin cardiac amyloidosis.N Engl J Med389(17):1553–1565, 2023.doi:10.1056/NEJMoa2300757
+12.Maurer MS, Kale P, Fontana M, et al:Patisirantreatment in patients with transthyretin cardiac amyloidosis.N Engl J Med389(17):1553–1565, 2023.doi:10.1056/NEJMoa2300757
+
+【淀粉样变性的预后】
+预后取决于淀粉样变性的类型和受累的器官系统，但是经过合适的对症施治和支持治疗，很多患者可有良好的生活质量。
+AL淀粉样变性并发严重心肌病的预后最差，中位生存期不到1年。ATTR如未经治疗通常在5至15年内进展至终末期心脏或神经系统疾病。在所有累及心脏的系统性淀粉样变的亚型中，野生型转甲状腺素蛋白淀粉样变通常进展最慢。但患者在活检确诊后中位4年内可进展为症状性心力衰竭，甚至死亡（1）。
+AA的预后很大程度上取决于原发病（感染，炎症或恶性肿瘤）治疗的有效性。
+
+【预后参考】
+1.Connors LH, Sam F, Skinner M, et al.Heart Failure Resulting From Age-Related Cardiac Amyloid Disease Associated With Wild-Type Transthyretin: A Prospective, Observational Cohort Study.Circulation2016;133(3):282-290.doi:10.1161/CIRCULATIONAHA.115.018852
+1.Connors LH, Sam F, Skinner M, et al.Heart Failure Resulting From Age-Related Cardiac Amyloid Disease Associated With Wild-Type Transthyretin: A Prospective, Observational Cohort Study.Circulation2016;133(3):282-290.doi:10.1161/CIRCULATIONAHA.115.018852
+淀粉样变是由于蛋白的错误折叠形成不溶性纤维沉积于器官内，最终导致受累器官功能障碍的一组病症。
+淀粉样变是由于蛋白的错误折叠形成不溶性纤维沉积于器官内，最终导致受累器官功能障碍的一组病症。
+导致蛋白容易发生错误折叠的原因有很多种。首先是由于遗传缺陷，其次是在一些疾病状态下。而浆细胞病或B淋巴细胞增殖性疾病时产生的免疫球蛋白轻链亦是重要的原因。
+导致蛋白容易发生错误折叠的原因有很多种。首先是由于遗传缺陷，其次是在一些疾病状态下。而浆细胞病或B淋巴细胞增殖性疾病时产生的免疫球蛋白轻链亦是重要的原因。
+淀粉样蛋白的类型决定了淀粉样变的亚型及疾病的临床表现，尽管不同亚型的临床表现可能会重叠。
+淀粉样蛋白的类型决定了淀粉样变的亚型及疾病的临床表现，尽管不同亚型的临床表现可能会重叠。
+淀粉样变时，多种器官可能受到影响。其中，心脏受累的预后较差。心肌淀粉样变通常导致舒张功能障碍，心力衰竭，心脏传导阻滞或心律失常。
+淀粉样变时，多种器官可能受到影响。其中，心脏受累的预后较差。心肌淀粉样变通常导致舒张功能障碍，心力衰竭，心脏传导阻滞或心律失常。
+诊断是通过活检。淀粉样变性病的类型需由多种免疫，遗传和生化试验来确定。质谱分析是淀粉样蛋白分型最灵敏和最特异的方法。
+诊断是通过活检。淀粉样变性病的类型需由多种免疫，遗传和生化试验来确定。质谱分析是淀粉样蛋白分型最灵敏和最特异的方法。
+适当的支持治疗有助于缓解症状并提高生活质量；器官移植可以帮助部分患者。
+适当的支持治疗有助于缓解症状并提高生活质量；器官移植可以帮助部分患者。
+治疗潜在病因；对于因浆细胞或淋巴增生性疾病引起的 AL 淀粉样变性，化疗可能非常有效；对于 AA 淀粉样变性，抗感染和抗炎药物会有所帮助。
+治疗潜在病因；对于因浆细胞或淋巴增生性疾病引起的 AL 淀粉样变性，化疗可能非常有效；对于 AA 淀粉样变性，抗感染和抗炎药物会有所帮助。
+对于遗传性 ATTRv 淀粉样变性，小分子稳定剂疗法和基因沉默药物可抑制或潜在逆转神经系统恶化；对于淀粉样心肌病 (ATTRv 或 ATTRwt) 患者，小分子稳定剂药物已被证明可以降低全因死亡率和心血管相关住院率。
+对于遗传性 ATTRv 淀粉样变性，小分子稳定剂疗法和基因沉默药物可抑制或潜在逆转神经系统恶化；对于淀粉样心肌病 (ATTRv 或 ATTRwt) 患者，小分子稳定剂药物已被证明可以降低全因死亡率和心血管相关住院率。

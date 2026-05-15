@@ -1,0 +1,99 @@
+标题：先天性弓形虫病
+来源：https://www.msdmanuals.cn/professional/pediatrics/infections-in-neonates/congenital-toxoplasmosis
+============================================================
+
+（参见成人弓形虫病和新生儿感染概述。）
+Toxoplasma gondii（弓形虫），一种全球分布的寄生虫，在约每1000名活产婴儿中导致1.5例先天性感染（1）。
+
+【参考文献】
+1.Torgerson PR, Mastroiacovo P.The global burden of congenital toxoplasmosis: a systematic review.Bull World Health Organ.2013;91(7):501-508.doi:10.2471/BLT.12.111732
+1.Torgerson PR, Mastroiacovo P.The global burden of congenital toxoplasmosis: a systematic review.Bull World Health Organ.2013;91(7):501-508.doi:10.2471/BLT.12.111732
+
+【先天性弓形虫病的病因】
+先天性弓形虫病几乎均由孕期或受孕后3个月内孕妇的原发感染引起；但例外情况包括：感染T. gondii（弓形虫）新血清型的再感染，或严重细胞免疫缺陷母亲的弓形虫病复发。弓形虫的感染主要发生在摄取含有孢囊的未充分烹饪的肉或摄取来源于食物或猫粪污染的卵囊的卵囊。
+母亲在怀孕晚期的感染传播给新生儿的比例较高。但在母亲怀孕早期感染的胎儿，其疾病通常更严重。总体而言，若孕妇在妊娠37周后发生血清转换且未接受弓形虫病治疗，其子代中70%会出现先天性弓形虫病症状；约30%孕期感染者的子代会先天性感染（1）。
+
+【病因参考文献】
+1.Maldonado YA, Read JS; COMMITTEE ON INFECTIOUS DISEASES.Diagnosis, Treatment, and Prevention of Congenital Toxoplasmosis in the United States.Pediatrics.2017;139(2):e20163860.doi:10.1542/peds.2016-3860
+1.Maldonado YA, Read JS; COMMITTEE ON INFECTIOUS DISEASES.Diagnosis, Treatment, and Prevention of Congenital Toxoplasmosis in the United States.Pediatrics.2017;139(2):e20163860.doi:10.1542/peds.2016-3860
+
+【先天性弓形体病的症状和体征】
+孕妇感染T. gondii（弓形虫）后通常无症状，但部分可能出现轻度单核细胞增多症样综合征、局部淋巴结肿大或偶发脉络膜视网膜炎。同样，受感染新生儿出生时通常也无症状。同样，受感染的新生儿出生时通常无症状，但可能出现以下临床问题：
+宫内发育迟缓
+宫内发育迟缓
+肝脾肿大
+肝脾肿大
+各种皮疹
+各种皮疹
+神经系统累及
+神经系统累及
+神经系统损害明显，包括脉络膜视网膜炎、脑积水、颅内钙化、小头畸形和惊厥。经典的三联结果包括有脉络膜视网膜炎，脑积水和颅内钙化。神经和眼科后遗症可能会推迟几年或几十年。
+
+【先天性弓形虫病的诊断】
+连续血清 IgG 测定（用于母体感染）
+连续血清 IgG 测定（用于母体感染）
+羊水聚合酶链反应 (PCR) 检测（用于胎儿感染）
+羊水聚合酶链反应 (PCR) 检测（用于胎儿感染）
+血清学检查、脑成像、脑脊液（CSF）分析、眼科评估（针对新生儿感染）和各种体液或组织的PCR检测。
+血清学检查、脑成像、脑脊液（CSF）分析、眼科评估（针对新生儿感染）和各种体液或组织的PCR检测。
+产妇感染如果女性有以下一种或多种情况，应怀疑：
+单核细胞增多症样综合征和 Epstein-Barr 病毒、HIV 和巨细胞病毒（抗体或 PCR）检测阴性
+单核细胞增多症样综合征和 Epstein-Barr 病毒、HIV 和巨细胞病毒（抗体或 PCR）检测阴性
+不是由其他原因（例如，HIV）引起的孤立的区域性腺病
+不是由其他原因（例如，HIV）引起的孤立的区域性腺病
+脉络膜视网膜炎
+脉络膜视网膜炎
+淋巴结肿大常发生于颈部区域，呈双侧对称、无压痛。
+急性母体感染表现为血清学转换或急性期与恢复期IgG滴度之间≥4倍升高。母亲的IgG抗体可在母亲体内持续数年，在婴儿体内可持续到出生后第一年。
+超声检查结果可提示先天性弓形虫病，但无特异性。胎儿感染羊水的 PCR 分析正在成为首选的诊断方法。还有许多其他血清学检测，其中一些仅在参考实验室进行。最可靠的是Sabin-Feldman染色试验，间接免疫荧光抗体（IFA）试验和直接凝集试验。（另见美国疾病控制与预防中心弓形虫病临床概述及Jack S. Remington博士专科诊断实验室弓形虫病实验室检查手册。）
+对于疑似先天性弓形虫病的婴儿，应进行血清学检测、脑部MRI或CT检查、脑脊液分析、全血细胞计数、肝酶检测、脑干听觉诱发反应以及由眼科医生进行全面的眼科检查。脑脊液异常包括：黄变、脑脊液糖含量减少、嗜酸性粒细胞增多、脑脊液细胞增多和蛋白质浓度增高。胎盘检查可见弓形虫感染的特征性表现（例如，胎盘炎）。其他实验室发现包括贫血、血小板减少、淋巴细胞增多、单核细胞增多、嗜酸性粒细胞增多和转氨酶升高。还可以进行体液（包括脑脊液）和组织（胎盘）的PCR测试以确认感染。
+该CT扫描显示散在的颅内钙化。
+By permission of the publisher.From Demmler G: Congenital and perinatal infections.InAtlas of Infectious Diseases: Pediatric Infectious Diseases.Edited by CM Wilfert.Philadelphia, Current Medicine, 1998.
+美国一些州对新生儿进行常规筛查，用干燥的血液检测特定的弓形虫IgM抗体。
+
+【先天性弓形虫病的治疗】
+有时将螺旋霉素用于孕妇
+有时将螺旋霉素用于孕妇
+乙胺嘧啶、磺胺嘧啶和亚叶酸（甲酰四氢叶酸) 适用于孕妇和新生儿
+乙胺嘧啶、磺胺嘧啶和亚叶酸（甲酰四氢叶酸) 适用于孕妇和新生儿
+有限的资料显示，治疗孕期感染的母亲对胎儿可能有益 (1)。螺旋霉素（在美国需获得美国食品药品监督管理局[FDA]的特别许可才能使用）被用于预防当感染发生在妊娠18周前的母胎传播，并且在血清转换后8周内给药最为有效。一项回顾性单中心研究表明，添加甲氧苄啶/磺胺甲恶唑可能会提高传播预防的有效性（2）。在妊娠18周或之后感染，或通过PCR/超声确诊者，可给予乙胺嘧啶、磺胺嘧啶及亚叶酸（甲酰四氢叶酸）(3)。
+治疗有症状和无症状的婴儿均可使预后得到改善。因此，治疗以口服乙胺嘧啶、口服亚叶酸和磺胺嘧啶开始。治疗持续12个月，但乙胺嘧啶的用药频率在治疗6个月后降低。所有治疗需由专家监督，并定期监测中性粒细胞减少症。 皮质类固醇的使用是有争议的，应该根据具体情况决定，但可以考虑用于活动性脉络膜视网膜炎，或者如果脑脊液蛋白≥1 g/dL的情况。
+有症状及无症状的先天性弓形虫病患儿均需密切随访发育迟滞，并在前3年每3-6个月进行眼科评估（4、5）。
+
+【治疗参考文献】
+1.Olariu TR, Press C, Talucod J, et al: Congenital toxoplasmosis in the United States: Clinical and serologic findings in infants born to mothers treated during pregnancy.Parasite26:13, 2019.doi: 10.1051/parasite/2019013
+1.Olariu TR, Press C, Talucod J, et al: Congenital toxoplasmosis in the United States: Clinical and serologic findings in infants born to mothers treated during pregnancy.Parasite26:13, 2019.doi: 10.1051/parasite/2019013
+2.Buonsenso D、 Pata D、 Turriziani Colonna A，等人:螺旋霉素和甲氧苄啶-磺胺甲恶唑联合用于预防孕妇Toxoplasma gondii（弓形虫）感染的母婴传播：一项28年单中心经验。Pediatr Infect Dis J41(5):e223–e227, 2022.doi: 10.1097/INF.0000000000003469
+2.Buonsenso D、 Pata D、 Turriziani Colonna A，等人:螺旋霉素和甲氧苄啶-磺胺甲恶唑联合用于预防孕妇Toxoplasma gondii（弓形虫）感染的母婴传播：一项28年单中心经验。Pediatr Infect Dis J41(5):e223–e227, 2022.doi: 10.1097/INF.0000000000003469
+3.Buonsenso D, Pata D, Turriziani Colonna A, et al.SpyramicineandTrimethoprim-SulfamethoxazoleCombination to Prevent Mother-To-Fetus Transmission ofToxoplasma gondiiInfection in Pregnant Women: A 28-Years Single-center Experience.Pediatr Infect Dis J.2022;41(5):e223-e227.doi:10.1097/INF.0000000000003469
+3.Buonsenso D, Pata D, Turriziani Colonna A, et al.SpyramicineandTrimethoprim-SulfamethoxazoleCombination to Prevent Mother-To-Fetus Transmission ofToxoplasma gondiiInfection in Pregnant Women: A 28-Years Single-center Experience.Pediatr Infect Dis J.2022;41(5):e223-e227.doi:10.1097/INF.0000000000003469
+4.Goldstein E, Montoya JG, Remington JS.Management ofToxoplasma gondiiinfection during pregnancy.Clin Infect Dis.2008;47(4):554-566.doi:10.1086/590149
+4.Goldstein E, Montoya JG, Remington JS.Management ofToxoplasma gondiiinfection during pregnancy.Clin Infect Dis.2008;47(4):554-566.doi:10.1086/590149
+5.Centers for Disease Control and Prevention (CDC): Clinical Care of Toxoplasmosis.Accessed January 27, 2025.
+5.Centers for Disease Control and Prevention (CDC): Clinical Care of Toxoplasmosis.Accessed January 27, 2025.
+
+【先天性弓形虫病的预后】
+一些患儿呈暴发性过程而早期死亡，而另一些则留有永久性神经系统后遗症。有时，出生时看起来正常的儿童会在多年后出现神经系统问题（例如脉络膜视网膜炎、智力障碍、耳聋、癫痫）。因此对先天性弓形虫病的婴儿应在新生儿期过后继续密切观察。
+
+【先天性弓形虫病的预防】
+应建议孕妇避免接触猫砂盆和其他被猫粪污染的区域 (1)。由于卵囊排泄后需要超过24小时才能具有传染性，如果家庭其他成员不能处理猫砂盒的清洁工作，那么每天认真地更换整个猫砂盒，同时佩戴手套，之后仔细洗手，应该能减少通过这种途径的感染。
+孕妇食用前应将肉类彻底煮熟。水果和蔬菜应彻底清洗或去皮，所有食物准备后应立即洗手。
+处于原发感染风险的妇女（例如，经常暴露于猫粪的妇女）应在怀孕期间进行筛查。在第一或第二孕期感染的妇女应咨询可用的治疗。
+
+【预防参考文献】
+1.Practice bulletin no. 151: Cytomegalovirus, parvovirus B19, varicella zoster, and toxoplasmosis in pregnancy [published correction appears inObstet Gynecol. 2016 Feb;127(2):405] [published correction appears inObstet Gynecol. 2016 Feb;127(2):405. doi: 10.1097/01.AOG.0000480402.22371.a4.].Obstet Gynecol.2015;125(6):1510-1525.doi:10.1097/01.AOG.0000466430.19823.53
+1.Practice bulletin no. 151: Cytomegalovirus, parvovirus B19, varicella zoster, and toxoplasmosis in pregnancy [published correction appears inObstet Gynecol. 2016 Feb;127(2):405] [published correction appears inObstet Gynecol. 2016 Feb;127(2):405. doi: 10.1097/01.AOG.0000480402.22371.a4.].Obstet Gynecol.2015;125(6):1510-1525.doi:10.1097/01.AOG.0000466430.19823.53
+先天性弓形虫病通常是由于怀孕期间获得的原发性母体感染；除非在免疫功能低下的人群中，先前感染的再激活风险较低。
+先天性弓形虫病通常是由于怀孕期间获得的原发性母体感染；除非在免疫功能低下的人群中，先前感染的再激活风险较低。
+许多器官可能受到影响，包括心脏，肝脏，肺和CNS；经典的三合一结果包括脉络膜视网膜炎，脑积水和颅内钙化。
+许多器官可能受到影响，包括心脏，肝脏，肺和CNS；经典的三合一结果包括脉络膜视网膜炎，脑积水和颅内钙化。
+一些儿童有早期死亡的暴发性病程，而另一些儿童有长期的神经和眼科后遗症，这些后遗症可能在几年甚至几十年后才会显现。
+一些儿童有早期死亡的暴发性病程，而另一些儿童有长期的神经和眼科后遗症，这些后遗症可能在几年甚至几十年后才会显现。
+通过羊水聚合酶链反应分析（用于胎儿感染）或体液（包括脑脊液）或组织分析确认先天性感染；也可使用血清学检测。
+通过羊水聚合酶链反应分析（用于胎儿感染）或体液（包括脑脊液）或组织分析确认先天性感染；也可使用血清学检测。
+对所有疑似病例进行脑部MRI或CT检查。
+对所有疑似病例进行脑部MRI或CT检查。
+乙胺嘧啶、磺胺嘧啶和亚叶酸（甲酰四氢叶酸）可能改善预后。
+乙胺嘧啶、磺胺嘧啶和亚叶酸（甲酰四氢叶酸）可能改善预后。
+孕妇应将肉类彻底煮熟后食用，彻底清洗或去皮水果和蔬菜，并避免接触猫砂盆及其他被猫粪污染的区域。
+孕妇应将肉类彻底煮熟后食用，彻底清洗或去皮水果和蔬菜，并避免接触猫砂盆及其他被猫粪污染的区域。

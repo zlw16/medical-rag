@@ -1,0 +1,41 @@
+标题：泌尿系统疾病患者的评估
+来源：https://www.msdmanuals.cn/professional/genitourinary-disorders/approach-to-the-patient-with-urologic-issues/evaluation-of-the-patient-with-urologic-issues
+============================================================
+
+患有泌尿系统疾病的患者可能有与肾脏以及泌尿生殖道其他部位相关的症状。（参见肾脏疾病患者的评估。）
+
+【泌尿系统疾病患者的病史】
+起源于肾脏或输尿管的疼痛常模糊定位于腰部或低背部，可放射至同侧髂窝、大腿上部、睾丸或阴唇。典型结石导致的疼痛可表现为绞痛，卧床不起。如果是感染引起的疼痛则更为持续。膀胱远端急性尿潴留导致耻骨上疼痛；慢性尿潴留疼痛可能较轻，也可以没有症状。排尿困难是膀胱或输尿管刺激的症状。前列腺疼痛表现为会阴、直肠或耻骨上部位的隐约不适或胀满感。
+男性膀胱梗阻的症状包括排尿不畅、排尿费力、尿流力减弱或尿流变细、尿末淋漓不尽。尿失禁有多种形式。3岁或4岁后发生尿床，在女孩可以是尿道狭窄所致，在男孩可以是后尿道瓣膜、心理障碍所致，若是新发有感染可能。
+气尿（尿中有空气）提示膀胱阴道瘘、膀胱肠道瘘、输尿管肠道瘘。后两者可能由于憩室、克隆病、脓肿、结肠癌引起。气尿也可由气肿性的肾盂肾炎引起。
+
+【泌尿系统疾病患者的体格检查】
+体格检查集中于肋脊角、腹部、直肠、腹股沟、生殖器。女性有泌尿系统症状，应进行盆腔检查。
+腰背部、第12肋与腰椎的夹角（肋脊角）钝性叩击痛提示肾盂肾炎、结石或尿道梗阻可能。
+上腹部视觉饱胀是肾脏或腹部肿块的一种极其罕见且非特异性的表现。下腹部叩诊浊音提示膀胱扩张；正常情况下，即使充盈的膀胱在耻骨联合上也不能叩及。膀胱触诊可用于诊断膀胱扩张及尿潴留。
+直肠指检能发现前列腺炎，表现为前列腺肿痛。局部结节或不连续的硬质区域必须与前列腺癌鉴别。良性前列腺增生时，前列腺表现为对称性增大，光滑、无触痛。
+
+【腹股沟及生殖器】
+在病人站立情况下行腹股沟及生殖器检查。腹股沟疝或腺病可以解释阴囊或腹股沟疼痛。睾丸严重的不对称、肿胀、红斑、变色提示感染、扭转、肿瘤或其他肿块。水平的睾丸位置（bell-clapper deformity）预示睾丸扭转风险增加。一侧睾丸升高（正常情况下左侧较低）可能是睾丸扭转的征兆。阴茎检查时，包皮可否回缩。阴茎视诊可以发现：
+年轻男孩尿道下裂或尿道上裂
+年轻男孩尿道下裂或尿道上裂
+成人Peyronie病
+成人Peyronie病
+年轻男孩或成人阴茎异常勃起、溃疡、异常分泌物
+年轻男孩或成人阴茎异常勃起、溃疡、异常分泌物
+触诊可能发现腹股沟疝。睾丸扭转时提睾反射消失。 睾丸肿块的位置及触痛的程度和部位有助鉴别睾丸肿块性质（例如：精液囊肿、附睾炎、鞘膜积液、肿瘤）。如果存在肿胀，可以对该区域进行透照，以帮助确定肿胀是囊性还是实性。阴茎体发现的纤维斑块是Peyronie病的标记。
+
+【泌尿系统疾病患者的实验室检查】
+尿液分析（含镜检）对泌尿系统疾病的评估至关重要。对于疑似感染的患者，需进行尿培养及性传播感染检测。血尿患者需完善泌尿系统评估，包括恶性肿瘤及肾结石筛查。存在下尿路症状（LUTS），如尿频或排尿困难，伴肾功能恶化者需通过膀胱排空后扫描及影像学检查（如超声、CT、MRI）评估尿路梗阻。部分患者需行尿动力学检查、静脉肾盂造影或膀胱尿道造影以进一步评估引起尿潴留的收集系统及膀胱异常。精液检查（参见精子异常）。
+尿细胞学检查敏感度低，分子标志物特异性不足，不能替代膀胱镜对于血尿患者的膀胱癌诊断评估。可作为膀胱镜的辅助手段，对高级别肿瘤灵敏度较高（84%），总体灵敏度范围28-100%（1）。不推荐常规膀胱癌筛查，但可能对高危人群有益（2）。膀胱肿瘤抗原检测对低级别膀胱肿瘤随访的灵敏度优于细胞学（3,4）。
+前列腺特异性抗原（PSA）是一种由前列腺上皮细胞产生、功能未知的糖蛋白。前列腺癌和一些常见非癌性疾病（如良性前列腺增生、感染、创伤）PSA水平升高。测量 PSA 可以检测癌症治疗后的复发情况；其广泛用于癌症筛查的情况已在其他地方讨论过。
+
+【测试参考文献】
+1.Babjuk M, Burger M, Capoun O, et al.European Association of Urology Guidelines on Non-muscle-invasive Bladder Cancer (Ta, T1, and Carcinoma in Situ).Eur Urol2022;81(1):75-94.doi:10.1016/j.eururo.2021.08.010
+1.Babjuk M, Burger M, Capoun O, et al.European Association of Urology Guidelines on Non-muscle-invasive Bladder Cancer (Ta, T1, and Carcinoma in Situ).Eur Urol2022;81(1):75-94.doi:10.1016/j.eururo.2021.08.010
+2.Lobo N, Afferi L, Moschini M, et al.Epidemiology, Screening, and Prevention of Bladder Cancer.Eur Urol Oncol2022;5(6):628-639.doi:10.1016/j.euo.2022.10.003
+2.Lobo N, Afferi L, Moschini M, et al.Epidemiology, Screening, and Prevention of Bladder Cancer.Eur Urol Oncol2022;5(6):628-639.doi:10.1016/j.euo.2022.10.003
+3.Lotan Y, Roehrborn CG.Sensitivity and specificity of commonly available bladder tumor markers versus cytology: results of a comprehensive literature review and meta-analyses.Urology2003;61(1):109-118.doi:10.1016/s0090-4295(02)02136-2
+3.Lotan Y, Roehrborn CG.Sensitivity and specificity of commonly available bladder tumor markers versus cytology: results of a comprehensive literature review and meta-analyses.Urology2003;61(1):109-118.doi:10.1016/s0090-4295(02)02136-2
+4.Yafi FA, Brimo F, Steinberg J, Aprikian AG, Tanguay S, Kassouf W.Prospective analysis of sensitivity and specificity of urinary cytology and other urinary biomarkers for bladder cancer.Urol Oncol2015;33(2):66.e25-66.e6.6E31.doi:10.1016/j.urolonc.2014.06.008
+4.Yafi FA, Brimo F, Steinberg J, Aprikian AG, Tanguay S, Kassouf W.Prospective analysis of sensitivity and specificity of urinary cytology and other urinary biomarkers for bladder cancer.Urol Oncol2015;33(2):66.e25-66.e6.6E31.doi:10.1016/j.urolonc.2014.06.008

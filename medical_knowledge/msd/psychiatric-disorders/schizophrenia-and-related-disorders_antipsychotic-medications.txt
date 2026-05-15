@@ -1,0 +1,336 @@
+标题：抗精神病药物
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/schizophrenia-and-related-disorders/antipsychotic-medications
+============================================================
+
+用于治疗精神病的药物根据其特定的神经递质受体亲和力和活性分为2类（1):
+第一代抗精神病药（FGA）：也称为传统/典型抗精神病药
+第一代抗精神病药（FGA）：也称为传统/典型抗精神病药
+第二代抗精神病药（SGA）：也称为非典型抗精神病药
+第二代抗精神病药（SGA）：也称为非典型抗精神病药
+SGAs可能提供一些优势（2），包括疗效稍高（尽管证据并不一致支持SGAs比FGAs更有效），以及减少不自主运动障碍和相关锥体外系不良反应的可能性（3, 4）。
+目前SGA约占美国抗精神病药处方的95%。然而，第二代抗精神病药导致代谢综合征（表现为腹型肥胖、胰岛素抵抗、血脂异常和高血压）的风险高于第一代抗精神病药。这两类抗精神病药物中，有几种会引起QT间期延长，最终增加致命性心律失常的风险；这些药物包括硫利达嗪、氟哌啶醇、奥氮平、利培酮和齐拉西酮。
+新型机制抗精神病药（如毒蕈碱激动剂沙诺美林）近期获批用于精神分裂症。
+所有抗精神病药物都是口服药丸，有些也有其他形式，如肌肉注射（用于急性治疗）或口服浓缩（在需要快速吸收或非常低剂量时有用）。
+
+【抗精神病药物的分类和不良反应*】
+抗精神病药物的分类和不良反应*
+药物治疗
+锥体外系反应（EPS）/ 迟发性运动障碍（TD）/ 静坐不能
+体重增加/2型糖尿病/血脂异常
+泌乳素升高
+抗胆碱能作用
+直立性低血压
+QTC间期延长
+第一代抗精神病药（多巴胺-2 [D2] 拮抗剂）
+氯丙嗪†,‡
+原型低效能药物，首个研发的抗精神病药
+有直肠栓剂
+氟奋乃静†‡
+也有氟奋乃静癸酸酯和庚酸酯剂型，为肌内注射长效制剂（无剂量等效数据）
+氟哌啶醇†‡
+++（若为静脉注射）
+可能使某些物质中毒（如苯环利定）的情况恶化
+氟哌啶醇癸酸酯有肌内注射长效制剂
+口服浓缩液，吸收迅速
+无呼吸抑制
+可能与体重减轻有关
+奋乃静†‡
+被认为是中效抗精神病药
+用于抽动秽语综合征
+甲硫哒嗪‡
+日极量800mg，超量可致色素性视网膜病变
+可致QT间期延长
+氨砜噻吨†‡
+常见静坐不能
+三氟啦嗪†‡
+第二代抗精神病药物（5-羟色胺-多巴胺拮抗剂）§¶
+阿立哌唑
+多巴胺D2部分激动剂
+有时作为抗抑郁药增效剂治疗抑郁症
+镇静和代谢综合征的风险低
+监测服用降低（卡马西平）或升高（氟西汀、帕罗西汀）血浆药物浓度的患者的反应
+阿塞那平
+舌下含服后10分钟不能进食（不应吞服）
+可致体重增加、锥体外系反应、口腔感觉减退及头晕
+依匹哌唑（Brexpiprazole）
+多巴胺D2和5HT1A部分激动剂
+有时作为抗抑郁药增效剂治疗抑郁症
+需在第1-8天逐步调整剂量
+卡利拉嗪（Cariprazine）
+D2/5HT1A/D3受体部分激动剂
+代谢综合征风险低
+嗜睡、胃部不适
+需在第1-2天逐步调整剂量
+++++
+首个SGA
+对其他抗精神病药物无反应的患者有效
+因存在粒细胞缺乏症风险，需频繁进行白细胞计数（WBC）检查
+癫痫、代谢综合征和心肌炎风险增加
+伊潘立酮
+由于可能出现 QT 间期延长和直立性低血压，起始时需在 4 天内逐渐加量
+Lumateperone
+可能对中枢 5 - 羟色胺 5-HT2A 和多巴胺 D2 受体有拮抗活性
+老年痴呆相关精神病患者禁用
+肝功能不全者减少剂量
+鲁拉西酮
+每日一次随餐服用
+相对较低的镇静风险和代谢综合征
+肝功能不全患者需减量
+++++
+每月一次的长效注射剂剂型
+常见不良反应为嗜睡，代谢综合征，眩晕
+有时用于激越患者的静脉注射
+帕利哌酮
+利培酮的代谢产物；未被肝脏广泛代谢，因此可能优先用于肝损伤患者
+药理学类似于利培酮
+匹莫范色林
+5HT2A 反向激动剂
+用于治疗帕金森病中的精神病症状
+美国尚未批准用于治疗精神分裂症
+低效价允许较宽的剂量范围
+因具有镇静作用，有时用于治疗失眠
+有时作为抗抑郁药的辅助用药治疗重度抑郁症
+由于阻滞alpha-2受体需要剂量滴定
+速释剂型因半衰期为 6 小时，需每日两次给药；缓释剂型睡前一次给药
+剂量>6毫克时更易出现锥体外系反应；剂量依赖性催乳素升高或代谢综合征；可引起直立性低血压
+提供每两周一次的微球长效注射剂型
+齐拉西酮†
+血清素和去甲肾上腺素再摄取抑制可能具有抗抑郁作用
+第二代抗精神病药物的最短半衰期
+每日2次需要与食物同服
+用于激越时可能需要心电图监测
+应避免与卡马西平及酮康唑合用
+毒蕈碱激动剂
+扎那米林 - 托特罗定
+M1/M4激动剂
+恶心，呕吐
+可能导致高血压
+* Adapted fromBoland R, Verduin ML, eds.Kaplan and Sadock’s Comprehensive Textbook of Psychiatry,  11th Edition.Vol 2, Lippincott Williams & Wilkins, New York, 2024;Schatzberg A and Nemeroff CB.Textbook of Psychopharmacology, 6th edition.American Psychiatric Association Publishing.2024.
+†这些药物也有肌内注射（IM）剂型，用于急性治疗。
+‡这些药物也有口服浓缩剂型。
+§ 这类药物推荐监测代谢综合征和2型糖尿病。
+¶所有第二代抗精神病药物与老年痴呆患者的死亡率增加有关。
+5HT2A = 5 - 羟色胺受体家族的 5HT2A 亚型；ECG = 心电图；EPS = 锥体外系（或不良）反应；IM = 肌内注射；IV = 静脉注射；SGA = 第二代抗精神病药；T2DM = 2 型糖尿病；WBC = 白细胞。+/-=不确定；+=轻度；++=中度；+++=重度；++++=极重度；-=未见。
+* Adapted fromBoland R, Verduin ML, eds.Kaplan and Sadock’s Comprehensive Textbook of Psychiatry,  11th Edition.Vol 2, Lippincott Williams & Wilkins, New York, 2024;Schatzberg A and Nemeroff CB.Textbook of Psychopharmacology, 6th edition.American Psychiatric Association Publishing.2024.
+†这些药物也有肌内注射（IM）剂型，用于急性治疗。
+‡这些药物也有口服浓缩剂型。
+§ 这类药物推荐监测代谢综合征和2型糖尿病。
+¶所有第二代抗精神病药物与老年痴呆患者的死亡率增加有关。
+5HT2A = 5 - 羟色胺受体家族的 5HT2A 亚型；ECG = 心电图；EPS = 锥体外系（或不良）反应；IM = 肌内注射；IV = 静脉注射；SGA = 第二代抗精神病药；T2DM = 2 型糖尿病；WBC = 白细胞。+/-=不确定；+=轻度；++=中度；+++=重度；++++=极重度；-=未见。
+
+【参考文献】
+1.Schatzberg A and Nemeroff CB.Textbook of Psychopharmacology, 6th edition.American Psychiatric Association Publishing.2024.
+1.Schatzberg A and Nemeroff CB.Textbook of Psychopharmacology, 6th edition.American Psychiatric Association Publishing.2024.
+2.Meltzer HY, Gadaleta E.Contrasting Typical and Atypical Antipsychotic Drugs.Focus (Am Psychiatr Publ).2021;19(1):3-13.doi:10.1176/appi.focus.20200051
+2.Meltzer HY, Gadaleta E.Contrasting Typical and Atypical Antipsychotic Drugs.Focus (Am Psychiatr Publ).2021;19(1):3-13.doi:10.1176/appi.focus.20200051
+3.Leucht S, Cipriani A, Spineli L, et al.Comparative efficacy and tolerability of 15 antipsychotic drugs in schizophrenia: a multiple-treatments meta-analysis [published correction appears inLancet.2013 Sep 14;382(9896):940].Lancet.2013;382(9896):951-962.doi:10.1016/S0140-6736(13)60733-3
+3.Leucht S, Cipriani A, Spineli L, et al.Comparative efficacy and tolerability of 15 antipsychotic drugs in schizophrenia: a multiple-treatments meta-analysis [published correction appears inLancet.2013 Sep 14;382(9896):940].Lancet.2013;382(9896):951-962.doi:10.1016/S0140-6736(13)60733-3
+4.Leucht S, Corves C, Arbter D, et al.Second-generation versus first-generation antipsychotic drugs for schizophrenia: a meta-analysis.Lancet.2009 Jan 3;373(9657):31-41.doi: 10.1016/S0140-6736(08)61764-X
+4.Leucht S, Corves C, Arbter D, et al.Second-generation versus first-generation antipsychotic drugs for schizophrenia: a meta-analysis.Lancet.2009 Jan 3;373(9657):31-41.doi: 10.1016/S0140-6736(08)61764-X
+
+【第一代抗精神病药物（FGAs）】
+第一代抗精神病药物（FGAs）（见表抗精神病药物的分类和不良反应) 主要通过阻断多巴胺-2 受体（多巴胺-2 受体阻滞剂）起作用。虽然第二代抗精神病药物（SGAs）目前在实践中被广泛使用，但第一代药物仍然有其作用，特别是在急性精神病和考虑成本的情况下（1）。
+FGAs可分为高效价、中效价或低效价。高效价抗精神病药（如氟哌啶醇）对多巴胺受体亲和力更高，对α-肾上腺素能和毒蕈碱受体亲和力较低。低效价抗精神病药物（如氯丙嗪）很少使用，对多巴胺受体的亲和力较低，而对α-肾上腺素能受体、毒蕈碱受体和组胺受体的亲和力相对较高。中效价药物（如奋乃静）对受体有中等作用，使用更普遍。
+药物可能以片剂、液体、短效和长效肌肉注射和/或直肠栓剂制剂。用药选择基于以下原则：
+不良反应谱
+不良反应谱
+给药途径要求
+给药途径要求
+患者既往对药物的反应
+患者既往对药物的反应
+FGA可能导致显著的不良反应，特别是一些与认知和锥体外系不良反应相关的（如帕金森症、肌张力障碍、震颤、迟发性运动障碍）。
+约30%的精神分裂症患者对第一代抗精神病药无反应（2–4）。他们可能对第二代抗精神病药物氯氮平有反应。
+
+【参考文献】
+1.Markota M, Morgan RJ 3rd, Leung JG.Updated rationale for the initial antipsychotic selection for patients with schizophrenia.Schizophrenia (Heidelb).2024;10(1):74.Published 2024 Sep 2.doi:10.1038/s41537-024-00492-y
+1.Markota M, Morgan RJ 3rd, Leung JG.Updated rationale for the initial antipsychotic selection for patients with schizophrenia.Schizophrenia (Heidelb).2024;10(1):74.Published 2024 Sep 2.doi:10.1038/s41537-024-00492-y
+2.Hellewell JS.Treatment-resistant schizophrenia: reviewing the options and identifying the way forward.J Clin Psychiatry.1999;60 Suppl 23:14-9
+2.Hellewell JS.Treatment-resistant schizophrenia: reviewing the options and identifying the way forward.J Clin Psychiatry.1999;60 Suppl 23:14-9
+3.Demjaha A, Lappin JM, Stahl D, et al.Antipsychotic treatment resistance in first-episode psychosis: prevalence, subtypes and predictors.Psychol Med.2017 Aug;47(11):1981-1989.doi: 10.1017/S0033291717000435
+3.Demjaha A, Lappin JM, Stahl D, et al.Antipsychotic treatment resistance in first-episode psychosis: prevalence, subtypes and predictors.Psychol Med.2017 Aug;47(11):1981-1989.doi: 10.1017/S0033291717000435
+4.Lobo MC, Whitehurst TS, Kaar SJ, et al.New and emerging treatments for schizophrenia: a narrative review of their pharmacology, efficacy and side effect profile relative to established antipsychotics.Neurosci Biobehav Rev.2022 Jan;132:324-361.doi: 10.1016/j.neubiorev.2021.11.032
+4.Lobo MC, Whitehurst TS, Kaar SJ, et al.New and emerging treatments for schizophrenia: a narrative review of their pharmacology, efficacy and side effect profile relative to established antipsychotics.Neurosci Biobehav Rev.2022 Jan;132:324-361.doi: 10.1016/j.neubiorev.2021.11.032
+
+【第二代抗精神病药（SGAs）】
+第二代抗精神病药物 (SGAs) 阻断多巴胺和血清素受体，降低锥体外系 (运动) 不良反应的可能性。与5-羟色胺能受体的结合程度越高，可能对阳性症状的抗精神病作用越强，且第二代抗精神病药物（SGAs）相对较少出现锥体外系不良反应。
+在美国，约95％的抗精神病药物是SGAs (1)。
+SGAs有以下作用：
+缓解阳性症状并在一定程度上改善阴性症状
+缓解阳性症状并在一定程度上改善阴性症状
+导致认知功能损害较小
+导致认知功能损害较小
+引起锥体外系不良反应的可能性较小（包括较低的迟发性运动障碍风险）
+引起锥体外系不良反应的可能性较小（包括较低的迟发性运动障碍风险）
+轻微升高催乳素或不升高（利培酮除外，其升高催乳素的程度与 FGAs 相当）
+轻微升高催乳素或不升高（利培酮除外，其升高催乳素的程度与 FGAs 相当）
+可能易导致代谢综合征，伴随胰岛素抵抗、体重增加和高血压。
+可能易导致代谢综合征，伴随胰岛素抵抗、体重增加和高血压。
+SGAs 似乎可减轻阴性症状，因为它们比 FGAs 更少出现帕金森样不良反应。
+氯氮平是首个 SGA，也是唯一被证明对约 40% 对第一代抗精神病药耐药的患者有效的 SGA（2）。氯氮平可改善阴性症状，降低自杀倾向，很少或不引起运动方面的不良反应，引起迟发性运动障碍的风险也最小，但是它有其他的不良反应，包括镇静、低血压、心动过速、便秘、体重增加、2型糖尿病、心肌炎，以及流涎。它会引起癫痫发作，这与所用的剂量大小有关。最严重的不良反应是粒细胞缺乏症，发生率<1%(3)。因此，在美国，需要频繁监测白细胞（前 6 个月每周一次，之后每 2 周一次，然后每月一次，一年后），氯氮平通常保留给对其他药物反应不佳的患者。
+其他 SGAs 具有氯氮平的部分益处，且无粒细胞缺乏症风险，通常是急性发作治疗和预防复发的首选抗精神病药。然而，在一项大型长期对照临床试验中，使用 4 种 SGAs（氯氮平、利培酮、喹硫平、齐拉西酮）中的任何一种，症状缓解程度并不优于第一代抗精神病药奋乃静（4）。在一项随访研究中，提前退出研究的患者被随机分配到其他 3 种研究 SGAs 或氯氮平中的一种；该研究显示氯氮平明显优于其他 SGAs (5)。因此，氯氮平似乎是唯一对 FGA 或 SGA 治疗失败的患者有效的治疗药物。但临床上氯氮平应用较少，可能是因为其耐受性差，并且需要连续监测血象。
+近年研发的 SGAs 在疗效上非常相似，但在不良反应方面有所不同，因此药物选择基于个体反应和其他药物特征。例如，镇静率较高的奥氮平可用于明显激越或失眠的患者；嗜睡患者可能更倾向于使用镇静作用较弱的药物。通常需要4- 8周的试验来评估完全疗效和不良反应。在急性症状稳定后，应启动维持治疗；采用能防止症状复发的最低有效剂量。阿立哌唑、奥氮平、帕利哌酮和利培酮是长效注射制剂。
+体重增加、高脂血症和 2 型糖尿病风险升高是 SGAs 的主要不良反应，尽管这些不良反应的严重程度因不同 SGA 而异。因此，在开始 SGA 治疗前，所有患者都应筛查风险因素，包括糖尿病个人史或家族史、体重、腰围、血压、空腹血糖和血脂谱。那些被发现有或有显著代谢综合征风险的患者，使用鲁拉西酮、卡利拉嗪、卢美哌隆、齐拉西酮或阿立哌唑可能比使用其他 SGAs 更合适。应提供有关糖尿病症状和体征的患者和家庭教育，包括多尿、多饮、体重减轻和糖尿病酮症酸中毒（恶心、呕吐、脱水、快速呼吸、感觉模糊）。此外，当所有患者开始服用SGA时，应向其提供营养和身体活动咨询。所有服用SGA的患者都需要定期监测体重，体重指数和空腹血糖，如果发生高脂血症或2型糖尿病，则需要转诊进行专科评估。
+FGAs 和所有 SGAs 均与老年痴呆症患者死亡率增加有关；然而，使用 FGAs 的风险略高一些（6）。因此，在这一人群中应谨慎使用抗精神病药物；如有必要，SGAs可能更可取。
+有时，将抗精神病药与另一种药物联用是有益的(7)。这些药物包括
+抗抑郁药：选择性5-羟色胺-去甲肾上腺素再摄取抑制剂
+抗抑郁药：选择性5-羟色胺-去甲肾上腺素再摄取抑制剂
+另一种抗精神病药
+另一种抗精神病药
+苯二氮䓬类
+苯二氮䓬类
+
+【参考文献】
+1.Sultana J, Hurtado I, Bejarano-Quisoboni D, et al.Antipsychotic utilization patterns among patients with schizophrenic disorder: a cross-national analysis in four countries.Eur J Clin Pharmacol.2019 Jul;75(7):1005-1015.doi: 10.1007/s00228-019-02654-9
+1.Sultana J, Hurtado I, Bejarano-Quisoboni D, et al.Antipsychotic utilization patterns among patients with schizophrenic disorder: a cross-national analysis in four countries.Eur J Clin Pharmacol.2019 Jul;75(7):1005-1015.doi: 10.1007/s00228-019-02654-9
+2.Siskind D, Siskind V, Kisely S.Clozapine Response Rates among People with Treatment-Resistant Schizophrenia: Data from a Systematic Review and Meta-Analysis.Can J Psychiatry.2017 Nov;62(11):772-777.doi: 10.1177/0706743717718167
+2.Siskind D, Siskind V, Kisely S.Clozapine Response Rates among People with Treatment-Resistant Schizophrenia: Data from a Systematic Review and Meta-Analysis.Can J Psychiatry.2017 Nov;62(11):772-777.doi: 10.1177/0706743717718167
+3.Li XH, Zhong XM, Lu L, et al.The prevalence of agranulocytosis and related death in clozapine-treated patients: a comprehensive meta-analysis of observational studies.Psychol Med.2020 Mar;50(4):583-594.doi: 10.1017/S0033291719000369
+3.Li XH, Zhong XM, Lu L, et al.The prevalence of agranulocytosis and related death in clozapine-treated patients: a comprehensive meta-analysis of observational studies.Psychol Med.2020 Mar;50(4):583-594.doi: 10.1017/S0033291719000369
+4.Lieberman JA, Stroup TS, McEvoy JP, et al.Effectiveness of antipsychotic drugs in patients with chronic schizophrenia [published correction appears inN Engl J Med.2010 Sep 9;363(11):1092-3]. N Engl J Med.2005;353(12):1209-1223.doi:10.1056/NEJMoa051688
+4.Lieberman JA, Stroup TS, McEvoy JP, et al.Effectiveness of antipsychotic drugs in patients with chronic schizophrenia [published correction appears inN Engl J Med.2010 Sep 9;363(11):1092-3]. N Engl J Med.2005;353(12):1209-1223.doi:10.1056/NEJMoa051688
+5.Swartz MS, Stroup TS, McEvoy JP, et al.What CATIE found: results from the schizophrenia trial.Psychiatr Serv.2008;59(5):500-506.doi:10.1176/ps.2008.59.5.500
+5.Swartz MS, Stroup TS, McEvoy JP, et al.What CATIE found: results from the schizophrenia trial.Psychiatr Serv.2008;59(5):500-506.doi:10.1176/ps.2008.59.5.500
+6.Gill SS, Bronskill SE, Normand SL, et al.Antipsychotic drug use and mortality in older adults with dementia.Ann Intern Med.2007;146(11):775-786.doi:10.7326/0003-4819-146-11-200706050-00006
+6.Gill SS, Bronskill SE, Normand SL, et al.Antipsychotic drug use and mortality in older adults with dementia.Ann Intern Med.2007;146(11):775-786.doi:10.7326/0003-4819-146-11-200706050-00006
+7.Correll CU, Rubio JM, Inczedy-Farkas G, et al: Efficacy of 42 pharmacologic cotreatment strategies added to antipsychotic monotherapy in schizophrenia: Systematic overview and quality appraisal of the meta-analytic evidence.JAMA Psychiatry.74(7):675-684, 2017.doi: 10.1001/jamapsychiatry.2017.0624
+7.Correll CU, Rubio JM, Inczedy-Farkas G, et al: Efficacy of 42 pharmacologic cotreatment strategies added to antipsychotic monotherapy in schizophrenia: Systematic overview and quality appraisal of the meta-analytic evidence.JAMA Psychiatry.74(7):675-684, 2017.doi: 10.1001/jamapsychiatry.2017.0624
+
+【新兴和在研抗精神病药物】
+沙诺美林-托烷司琼是一种具有毒蕈碱M1/M4受体激动作用的抗精神病药。其在随机试验中已显示对阳性和阴性症状均有效（1）这是首个对多巴胺D2受体无作用的抗精神病药其为沙诺美林与托烷司琼（外周抗胆碱药，用于抵消沙诺美林的胆碱能副作用）的固定剂量复方制剂（2）
+研究中的多巴胺拮抗剂也在开发阶段（3）此外，近年研发的非多巴胺靶向药物包括鲁拉西酮（5-HT2 受体拮抗剂）、乌洛托品（痕量胺相关受体激动剂）和依麦克拉定（M4 变构调节剂），这些药物在临床剂量下均不直接作用于 D2 受体（4）。
+
+【参考文献】
+1.Paul SM, Yohn SE, Brannan SK,Neugebauer NM, Breier A.Muscarinic Receptor Activators as Novel Treatments for Schizophrenia.Biol Psychiatry.2024;96(8):627-637.doi:10.1016/j.biopsych.2024.03.014
+1.Paul SM, Yohn SE, Brannan SK,Neugebauer NM, Breier A.Muscarinic Receptor Activators as Novel Treatments for Schizophrenia.Biol Psychiatry.2024;96(8):627-637.doi:10.1016/j.biopsych.2024.03.014
+2.Kaul I, Claxton A, Sawchak S, et al.Safety and Tolerability of Xanomeline and Trospium Chloride in Schizophrenia: Pooled Results From the 5-Week, Randomized, Double-Blind, Placebo-Controlled EMERGENT Trials.J Clin Psychiatry.2025;86(1):24m15497.Published 2025 Feb 26.doi:10.4088/JCP.24m15497
+2.Kaul I, Claxton A, Sawchak S, et al.Safety and Tolerability of Xanomeline and Trospium Chloride in Schizophrenia: Pooled Results From the 5-Week, Randomized, Double-Blind, Placebo-Controlled EMERGENT Trials.J Clin Psychiatry.2025;86(1):24m15497.Published 2025 Feb 26.doi:10.4088/JCP.24m15497
+3.Wang SM, Han C, Lee SJ.Investigational dopamine antagonists for the treatment of schizophrenia.Expert Opin Investig Drugs.26(6):687-698, 2017.doi: 10.1080/13543784.2017.1323870
+3.Wang SM, Han C, Lee SJ.Investigational dopamine antagonists for the treatment of schizophrenia.Expert Opin Investig Drugs.26(6):687-698, 2017.doi: 10.1080/13543784.2017.1323870
+4.Lobo MC, Whitehurst TS, Kaar SJ, Howes OD.New and emerging treatments for schizophrenia: a narrative review of their pharmacology, efficacy and side effect profile relative to established antipsychotics.Neurosci Biobehav Rev.2022;132:324-361.doi:10.1016/j.neubiorev.2021.11.032
+4.Lobo MC, Whitehurst TS, Kaar SJ, Howes OD.New and emerging treatments for schizophrenia: a narrative review of their pharmacology, efficacy and side effect profile relative to established antipsychotics.Neurosci Biobehav Rev.2022;132:324-361.doi:10.1016/j.neubiorev.2021.11.032
+
+【长效制剂】
+一些第一代（FGA）和第二代抗精神病药（SGA）可作为长效缓释制剂使用（见表长效抗精神病药物）。这些制剂可有效消除药物依从性差的情况。也适用于紊乱、淡漠或否认疾病而不能规律服药的患者。
+
+【抗精神病药物针剂】
+抗精神病药物针剂
+药物治疗*
+给药间隔
+阿立哌唑，长效针剂
+每月一次
+氟奋乃静癸酸酯
+每2-4周
+氟奋乃静庚酸酯
+每1-2周一次
+氟哌啶醇癸酸酯
+每28天（3至5周间隔范围可接受）
+双羟萘酸奥氮平†
+每2或4周一次
+帕利哌酮
+第 1 天、第 8 天服用；5 周后每月服用一次
+利培酮微球
+每2周一次
+*药物采用Z-track技术肌内注射。
+† 奥氮平棕榈酸酯可能引起罕见但明显的镇静作用，因此患者注射后必须观察 3 小时。
+‡ 由于在第一次肌注和达到有效血药浓度之间有3周时间间隔，病人在第一次注射后必须继续口服3周的抗精神病药物。建议在开始肌注治疗前要评估口服利培酮的耐受性。
+*药物采用Z-track技术肌内注射。
+† 奥氮平棕榈酸酯可能引起罕见但明显的镇静作用，因此患者注射后必须观察 3 小时。
+‡ 由于在第一次肌注和达到有效血药浓度之间有3周时间间隔，病人在第一次注射后必须继续口服3周的抗精神病药物。建议在开始肌注治疗前要评估口服利培酮的耐受性。
+
+【抗精神病药物不良反应的治疗】
+第一代抗精神病药物的潜在不良反应包括镇静、认知迟钝、肌张力障碍和肌肉僵硬、震颤、催乳素水平升高（导致溢乳症）、体重增加以及癫痫发作或有癫痫发作风险的患者癫痫发作阈值降低（不良反应的治疗见表格抗精神病药物急性不良反应的治疗）。静坐不能（运动不安）尤其令人不快，并可能导致不依从； 可用普萘洛尔治疗。
+第二代抗精神病药不太可能引起锥体外系（运动）不良反应，包括迟发性运动障碍，但这些情况可能会发生。代谢综合征（腹部脂肪过多、胰岛素抵抗、血脂异常和高血压）是许多 SGAs 的显著不良反应。
+
+【抗精神病药急性不良反应的治疗】
+抗精神病药急性不良反应的治疗
+急性肌张力障碍（如动眼危相，斜颈）
+苯海索静脉或肌内注射
+苯海拉明静脉或肌注
+苯扎托品口服联合抗精神病药可能预防肌张力障碍。
+喉部肌张力障碍
+劳拉西泮静脉注射
+可能需要插入喉管。
+运动不能，严重的帕金森样震颤，运动过慢
+口服苯扎托品
+口服苯海拉明
+出现运动不能者，必须停用抗精神病药物，或使用低效价药物
+静坐不能（合并其他锥外系不良反应）
+金刚烷胺口服
+口服苯扎托品
+比哌立登口服
+口服丙环定
+口服普萘洛尔
+口服安坦
+应停用致病性抗精神病药物，减少相同药物的剂量，或者将抗精神病药物换成引起锥体外系不良反应倾向较低的药物。
+静坐不能伴极度焦虑
+劳拉西泮口服
+氯硝西泮口服
+迟发性运动障碍是一种不自主的运动障碍，最常见的特征是嘴唇和舌头的皱缩、手指的运动、手臂或腿的扭动或更多。对于服用FGAs的患者，迟发性运动障碍的风险是累积的，每年用药暴露增加约5%。SGAs的发生率显著更低（1,2）。在高达3%的患者中，迟发性运动障碍可导致严重的形象损害（3）。在部分患者中，迟发性运动障碍会无限期持续，即使停药后也是如此。
+由于存在此类风险，对于长期维持治疗的患者至少每6个月要评估一次。评估工具如异常不自主运动量表可用于更精确地跟踪随时间的变化。精神分裂症患者若需继续使用抗精神病药，可选用氯氮平或喹硫平，这些都是第二代抗精神病药（SGAs）。缬苯那嗪是一种囊泡单胺转运体-2 抑制剂，已被批准用于治疗迟发性运动障碍，但在开始用药期间需要监测肝功能。最重要的副作用是超敏反应、嗜睡、QT间期延长， 和帕金森症。 氘丁苯那嗪，另一种囊泡单胺转运蛋白2抑制剂，也被批准用于治疗迟发性运动障碍（4）。
+抗精神病药恶性综合征（NMS）是一种罕见但可能致命的与抗精神病药物相关的不良反应，其特征为肌肉强直、高热、自主神经不稳定和肌酸激酶升高。并发症包括横纹肌溶解症和肾脏损害。所有的抗精神病药物均可引起NMS，但在第一代抗精神病药物中更为常见。治疗包括停用致病性药物、快速降温、积极的支持性护理和溴隐亭、金刚烷胺和丹曲林等药物。
+
+【异常不自主运动量表】
+异常不自主运动量表
+评分前后，医生应该进行如下操作：
+观察走入房间的步态
+观察走入房间的步态
+若不合适，让患者取出口香糖或义齿。
+若不合适，让患者取出口香糖或义齿。
+判断病人是否意识到这些运动
+判断病人是否意识到这些运动
+让患者坐在牢固的无扶手的椅子上，双手放在膝盖上，双腿稍微分开，双脚平放在地板上。现在以及整个检查过程中，观察整个身体的动作。
+让患者坐在牢固的无扶手的椅子上，双手放在膝盖上，双腿稍微分开，双脚平放在地板上。现在以及整个检查过程中，观察整个身体的动作。
+让患者双手无支撑，悬垂在膝盖上方坐着。
+让患者双手无支撑，悬垂在膝盖上方坐着。
+让患者张开嘴两次。观察舌部运动。
+让患者张开嘴两次。观察舌部运动。
+让患者伸出舌头两次。
+让患者伸出舌头两次。
+让病人用拇指轻轻叩击各个手指，持续15秒，两手都要做。观察脸和腿
+让病人用拇指轻轻叩击各个手指，持续15秒，两手都要做。观察脸和腿
+让患者双臂前伸站立。
+让患者双臂前伸站立。
+对以下各项按 0-4 分评分，记录观察到的最严重程度：
+0=没有
+0=没有
+1=非常轻微，可能是极度正常
+1=非常轻微，可能是极度正常
+2=轻度
+2=轻度
+3=中度
+3=中度
+4=重度
+4=重度
+只有在活动时才出现的运动比自发出现的动作少1分。
+可能的分数范围
+脸部和嘴部动作
+0 1 2 3 4
+唇部及唇周区域
+0 1 2 3 4
+0 1 2 3 4
+0 1 2 3 4
+肢端动作
+0 1 2 3 4
+0 1 2 3 4
+躯干动作
+脖子，肩膀，和臀部
+0 1 2 3 4
+总体评估
+异常运动的严重度
+0 1 2 3 4
+由于异常运动带来的功能残疾
+0 1 2 3 4
+患者对异常运动的觉知（0=无知觉；4=严重痛苦）
+0 1 2 3 4
+改编自Guy W：ECDEU [早期临床药物评估单元] 精神药理学评估手册。马里兰州罗克维尔，国家心理健康研究所，精神药理学研究处，1976 年。1976 年美国卫生、教育与福利部版权所有。
+改编自Guy W：ECDEU [早期临床药物评估单元] 精神药理学评估手册。马里兰州罗克维尔，国家心理健康研究所，精神药理学研究处，1976 年。1976 年美国卫生、教育与福利部版权所有。
+
+【治疗参考文献】
+1.Marder SR, Cannon TD.精神分裂症。N Engl J Med.2019 Oct 31;381(18):1753-1761.doi: 10.1056/NEJMra1808803
+1.Marder SR, Cannon TD.精神分裂症。N Engl J Med.2019 Oct 31;381(18):1753-1761.doi: 10.1056/NEJMra1808803
+2.Carbon M, Kane JM, Leucht S, et al.Tardive dyskinesia risk with first- and second-generation antipsychotics in comparative randomized controlled trials: a meta-analysis.World Psychiatry.2018 Oct;17(3):330-340.doi: 10.1002/wps.20579
+2.Carbon M, Kane JM, Leucht S, et al.Tardive dyskinesia risk with first- and second-generation antipsychotics in comparative randomized controlled trials: a meta-analysis.World Psychiatry.2018 Oct;17(3):330-340.doi: 10.1002/wps.20579
+3.Koshino Y, Madokoro S, Ito T, et al.A survey of tardive dyskinesia in psychiatric inpatients in Japan.Clin Neuropharmacol.1992 Feb;15(1):34-43.doi: 10.1097/00002826-199202000-00005
+3.Koshino Y, Madokoro S, Ito T, et al.A survey of tardive dyskinesia in psychiatric inpatients in Japan.Clin Neuropharmacol.1992 Feb;15(1):34-43.doi: 10.1097/00002826-199202000-00005
+4.Solmi M, Fornaro M, Caiolo S, et al.Efficacy and acceptability of pharmacological interventions for tardive dyskinesia in people with schizophrenia or mood disorders: a systematic review and network meta-analysis.Mol Psychiatry.2025;30(3):1207-1222.doi:10.1038/s41380-024-02733-z
+4.Solmi M, Fornaro M, Caiolo S, et al.Efficacy and acceptability of pharmacological interventions for tardive dyskinesia in people with schizophrenia or mood disorders: a systematic review and network meta-analysis.Mol Psychiatry.2025;30(3):1207-1222.doi:10.1038/s41380-024-02733-z

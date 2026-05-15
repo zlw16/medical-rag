@@ -1,0 +1,46 @@
+标题：卡瓦
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/kava
+============================================================
+
+卡瓦来自于南太平洋地区生长的一种灌木（卡瓦胡椒）的根。可以像茶一样饮用，也可制成胶囊。其活性成分可能是卡瓦内酯。
+
+【卡瓦的功效宣称】
+卡瓦用作抗焦虑剂和助眠剂。机制未知，尽管一些证据表明卡瓦可调节 gamma-氨基丁酸 (GABA) 途径。有些人使用卡瓦来治疗哮喘、更年期症状和尿路感染。剂量为100毫克的标准化提取物，每天3次。
+
+【卡瓦胡椒的证据】
+2003年的Cochrane评价评估11项试验（共645人），以评估卡瓦提取物对治疗焦虑症的有效性和安全性。荟萃分析的证明卡瓦提取物与安慰剂相比似乎是缓解焦虑的一种有效的选择 (1)。 这项研究还得出结论，服用卡瓦补补充剂1至24周的患者表现安全但需要进行长期安全性的研究。目前尚不清楚这项荟萃分析中使用的补充剂是如何标准化的。随后的一项综述评估了7项卡瓦与安慰剂对比治疗焦虑症状的试验，2项与处方抗焦虑药物对比的试验，以及2项评估额外不良事件的试验（2）。与安慰剂相比，卡瓦在 7 项试验中的 3 项中具有更大的反应可能性，并且对处方抗焦虑药的反应相似。不良事件在组间没有差异，包括肝毒性。
+一项2013年的随机试验比较了卡瓦根水提取物与安慰剂治疗广泛性焦虑症的疗效。8周后，卡瓦使用者的缓解率为26％，而安慰剂为6％。在卡瓦组中，某些遗传特征（GABA转运蛋白多态性）与焦虑减轻有关 (3)。 然而，一项为期16周的2020年随机试验（171名受试者）评估了卡瓦对广泛性焦虑症的影响（4）。该研究发现两组之间的焦虑减少没有差异，研究结论时安慰剂组焦虑缓解的百分比更高，并且没有证据表明遗传多态性与焦虑减少有关。值得注意的是，卡瓦组的肝酶升高更为常见，尽管这些受试者不符合卡瓦引起的肝损伤的标准。因此，这让人们对卡瓦治疗广泛性焦虑症产生了怀疑。
+世界生物精神病学学会联合会（WFSBP）和加拿大情绪与焦虑治疗网络（CANMAT）的临床实践指南指出，卡瓦可能对急性或短期焦虑症状具有潜在用途，但不推荐将其作为广泛性焦虑障碍的单一疗法或辅助治疗（5）。
+
+【卡瓦胡椒的治疗副作用】
+在欧洲和美国，服用卡瓦后出现的许多肝毒性（包括肝衰竭）病例（6)，促使美国食品药品监督管理局（FDA）强制要求在卡瓦产品上贴上警告标签。肝毒性可能与制备方法或劣质原料中含有肝毒素的霉菌污染有关 (7).安全正受到持续监视。
+当卡瓦以传统方式制备（比如茶）并大剂量（每天>6～12晒干的根）服用或者长时间服用（长达6周）的情况下，可能出现鳞状皮疹（卡瓦皮炎）、血液改变（如巨红细胞症、白细胞减少）和神经系统改变（如斜颈、动眼危象、帕金森综合征加重、运动障碍等）。
+卡瓦可能增加子宫张力，因此孕期应避免使用；一种有毒成分可能进入母乳，因此哺乳期也应避免使用。
+
+【卡瓦的药物相互作用】
+卡瓦可延长其他镇静剂（如巴比妥、苯二氮卓类）的作用，从而影响驾驶等需要警觉性的行为。
+卡瓦可能会干扰多巴胺的作用。因此，它可能会减少左旋多巴的益处。卡瓦还能抑制罗匹尼罗（一种帕金森病药物）的代谢，导致多巴胺能中毒。因此，帕金森病患者应避免使用卡瓦。
+卡瓦可以增强麻醉剂的作用。
+如果与肝脏毒素一起服用，卡瓦可能导致肝脏损害。
+(参考表一些可能的膳食补充剂-药物相互作用。）
+
+【参考文献】
+1.Pittler MH, Ernst E.Kava extract for treating anxiety.Cochrane Database Syst Rev.(1):CD003383, 2003.doi: 10.1002/14651858.CD003383
+1.Pittler MH, Ernst E.Kava extract for treating anxiety.Cochrane Database Syst Rev.(1):CD003383, 2003.doi: 10.1002/14651858.CD003383
+2.Smith K, Leiras C.The effectiveness and safety of kava kava for treating anxiety symptoms: a systematic review and analysis of randomized clinical trials.Complement Ther Clin Pract.33:107-117, 2018.doi: 10.1016/j.ctcp.2018.09.003
+2.Smith K, Leiras C.The effectiveness and safety of kava kava for treating anxiety symptoms: a systematic review and analysis of randomized clinical trials.Complement Ther Clin Pract.33:107-117, 2018.doi: 10.1016/j.ctcp.2018.09.003
+3.Sarris J, Stough C, Bousman CA, et al.Kava in the treatment of generalized anxiety disorder: a double-blind, randomized placebo-controlled study.J Clin Psychopharmacol.33(5):643-648, 2013.doi: 10.1097/JCP.0b013e318291be67
+3.Sarris J, Stough C, Bousman CA, et al.Kava in the treatment of generalized anxiety disorder: a double-blind, randomized placebo-controlled study.J Clin Psychopharmacol.33(5):643-648, 2013.doi: 10.1097/JCP.0b013e318291be67
+4.Sarris J, Byrne GJ, Bousman CA, et al.Kava for generalised anxiety disorder: a 16-week double-blind, randomised, placebo-controlled study.Aust N Z J Psychiatry.54(3):288-297, 2020.doi: 10.1177/0004867419891246
+4.Sarris J, Byrne GJ, Bousman CA, et al.Kava for generalised anxiety disorder: a 16-week double-blind, randomised, placebo-controlled study.Aust N Z J Psychiatry.54(3):288-297, 2020.doi: 10.1177/0004867419891246
+5.Sarris J, Ravindran A, Yatham LN et al.Clinician guidelines for the treatment of psychiatric disorders with nutraceuticals and phytoceuticals: The World Federation of Socieites of Biological Psychiatry (WFSBP) and Canadian Network for Mood and Anxiety Treatments 9CANMAT) Taskforce.World J Biol Psychiatry.2022;23(6):424-455.
+5.Sarris J, Ravindran A, Yatham LN et al.Clinician guidelines for the treatment of psychiatric disorders with nutraceuticals and phytoceuticals: The World Federation of Socieites of Biological Psychiatry (WFSBP) and Canadian Network for Mood and Anxiety Treatments 9CANMAT) Taskforce.World J Biol Psychiatry.2022;23(6):424-455.
+6.LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet].Bethesda (MD): National Institute of Diabetes and Digestive and Kidney Diseases; 2012.Kava Kava.[Updated 2018 Apr 10]. Accessed August 31, 2022
+6.LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet].Bethesda (MD): National Institute of Diabetes and Digestive and Kidney Diseases; 2012.Kava Kava.[Updated 2018 Apr 10]. Accessed August 31, 2022
+7.Teschke R, Sarris J, Schweitzer I.Kava hepatotoxicity in traditional and modern use: the presumed Pacific kava paradox hypothesis revisited.Br J Clin Pharmacol.73(2):170-174, 2012.doi: 10.1111/j.1365-2125.2011.04070.x
+7.Teschke R, Sarris J, Schweitzer I.Kava hepatotoxicity in traditional and modern use: the presumed Pacific kava paradox hypothesis revisited.Br J Clin Pharmacol.73(2):170-174, 2012.doi: 10.1111/j.1365-2125.2011.04070.x
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: KavaGeneral information on the use of kava as a dietary supplement
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health: KavaGeneral information on the use of kava as a dietary supplement

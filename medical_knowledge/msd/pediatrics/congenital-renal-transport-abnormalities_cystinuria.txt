@@ -1,0 +1,66 @@
+标题：胱氨酸尿症
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-renal-transport-abnormalities/cystinuria
+============================================================
+
+胱氨酸尿症最初是根据必需携带者尿液中胱氨酸和双碱性氨基酸的排泄量进行分类的。在这个分类中，受累儿童的家长被评定为具有正常（I型），中度（Ⅲ型），或重度（II型）胱氨酸排泄增加。
+较新的分类是根据基因型：A型患者具有SLC3A1基因的纯合突变，B型患者具有SLC7A9基因的纯合突变。这些基因编码的蛋白质共同形成一个异二聚体，负责近端小管中胱氨酸和二碱基氨基酸的转运。
+胱氨酸尿症不应与胱氨酸病混淆（见范可尼综合征）。
+
+【胱氨酸尿症的病理生理学】
+主要缺陷导致胱氨酸的肾近端肾小管重吸收减少和尿胱氨酸浓度增加。胱氨酸在酸性尿液中溶解度较低，因此当其在尿中的浓度超过溶解度时，就会析出结晶并形成胱氨酸肾结石。男性通常比女性更易受到影响。
+其他二碱基氨基酸（赖氨酸、鸟氨酸、精氨酸）的重吸收功能同样受损，但由于这些氨基酸具有与胱氨酸共享的独立运输系统，因此不会引起问题。它们亦较胱氨酸易溶于尿，从而不引起结晶和结石形成。它们（包括胱氨酸）在小肠的吸收也是减少的。
+
+【胱氨酸尿症的症状和体征】
+胱氨酸尿症最常见的症状是肾绞痛，可在婴儿时期发生，但通常在10～30岁出现。
+尿路梗阻可引起尿路感染和慢性肾脏疾病。
+
+【胱氨酸尿症的诊断】
+收集的肾结石分析
+收集的肾结石分析
+尿沉渣镜检
+尿沉渣镜检
+尿胱氨酸排泄检测
+尿胱氨酸排泄检测
+不透射线的胱氨酸结石形成于肾盂或膀胱。常见鹿角状结石。
+胱氨酸在尿中形成黄褐色、六角形的结晶体，这是具有诊断意义的。
+通过硝普钠氰化物试验可以检测尿液中过量的胱氨酸。胱氨酸尿症患者的定量胱氨酸排泄通常>400 mg/天（正常值为<30 mg/天）。
+
+【胱氨酸尿症的治疗】
+高液体摄入
+高液体摄入
+限制饮食中的钠、动物蛋白和蛋氨酸（如果可能）
+限制饮食中的钠、动物蛋白和蛋氨酸（如果可能）
+有时需要胱氨酸结合药物
+有时需要胱氨酸结合药物
+可能发生终末期肾病。将尿胱氨酸浓度降至约250~300 mg/L（1~1.25 mmol/L）以下可减轻肾脏毒性，并使胱氨酸以溶解状态排出体外。这一降低是通过增加液体摄入量以提高尿量来实现的，需保证尿流率达到1.5至2L/m²/天，这可能需要每日摄入2至4L液体（1）。夜间尿量和pH值下降时，补水尤为重要。
+用柠檬酸钾或碳酸氢钾将尿液碱化至pH值>7.0，可显著提高胱氨酸的溶解度。
+适度限制饮食中的钠（100毫当量/天）、动物蛋白（0.8至1.0克/千克/天）和蛋氨酸，可能有助于减少胱氨酸排泄。由于蛋白质对于正常生长至关重要，因此不应过度限制儿童的蛋白质摄入量。
+当高液体摄入和碱化不能减少结石形成时，可尝试胱氨酸结合药物，因为胱氨酸-药物复合物可将溶解度提高50倍。青霉胺和硫普罗宁是目前用于结合胱氨酸的药物。吡哆醇补充剂应该和青霉胺一同给药。约半数患者出现一些毒性表现，如发热、皮疹、关节痛，较少见的还有肾病综合征、全血细胞减少或狼疮样反应。尽管有研究表明使用硫普罗宁毒性风险较低，但这一点尚未得到证实（2）。对治疗反应的密切监测是十分重要的。
+虽然药物可以减轻结石负担，但结石复发的风险很高。
+动物模型有助于开发胱氨酸尿的新疗法（3）。目前正在进行临床试验，以探索几种干预措施的功效，包括布基拉明、托伐普坦和α-硫辛酸。最近的一项研究表明，在患有胱氨酸尿症的年轻患者中使用托伐普坦进行稀释疗法具有短期疗效和安全性（4）。
+（另请参阅多个学会联合发布的2021年胱氨酸尿症管理临床实践建议。）
+
+【治疗参考文献】
+1.Claes DJ, Jackson E.Cystinuria: Mechanisms and management.Pediatr Nephrol. 2012;27(11):2031–2038.doi:10.1007/s00467-011-2092-6
+1.Claes DJ, Jackson E.Cystinuria: Mechanisms and management.Pediatr Nephrol. 2012;27(11):2031–2038.doi:10.1007/s00467-011-2092-6
+2.Prot-Bertoye C, Lebbah S, Daudon M, et al.Adverse events associated with currently used medical treatments for cystinuria and treatment goals: results from a series of 442 patients in France.BJU Int.2019;124(5):849-861.doi:10.1111/bju.14721
+2.Prot-Bertoye C, Lebbah S, Daudon M, et al.Adverse events associated with currently used medical treatments for cystinuria and treatment goals: results from a series of 442 patients in France.BJU Int.2019;124(5):849-861.doi:10.1111/bju.14721
+3.Sahota A, Tischfield JA, Goldfarb DS, et al.Cystinuria: Genetic aspects, mouse models, and a new approach to therapy.Urolithiasis.2019;47(1):57–66.doi:10.1007/s00240-018-1101-7
+3.Sahota A, Tischfield JA, Goldfarb DS, et al.Cystinuria: Genetic aspects, mouse models, and a new approach to therapy.Urolithiasis.2019;47(1):57–66.doi:10.1007/s00240-018-1101-7
+4.Nelson CP, Kurtz MP, Venna A, Cilento BG Jr, Baum MA.Pharmacological Dilutional Therapy Using theVasopressinAntagonistTolvaptanfor Young Patients With Cystinuria: A Pilot Investigation.Urology.2020;144:65-70.doi:10.1016/j.urology.2020.07.002
+4.Nelson CP, Kurtz MP, Venna A, Cilento BG Jr, Baum MA.Pharmacological Dilutional Therapy Using theVasopressinAntagonistTolvaptanfor Young Patients With Cystinuria: A Pilot Investigation.Urology.2020;144:65-70.doi:10.1016/j.urology.2020.07.002
+胱氨酸在尿中的重吸收缺陷会导致尿胱氨酸水平升高，进而引发胱氨酸肾结石，有时还会导致慢性肾脏病。
+胱氨酸在尿中的重吸收缺陷会导致尿胱氨酸水平升高，进而引发胱氨酸肾结石，有时还会导致慢性肾脏病。
+尿液中出现黄褐色六边形结晶具有诊断意义；定量胱氨酸排泄量通常>400 mg/天。
+尿液中出现黄褐色六边形结晶具有诊断意义；定量胱氨酸排泄量通常>400 mg/天。
+增加液体摄入量来进行治疗，产生尿量1.5〜2L/m2/天，利用柠檬酸钾或碳酸氢钾碱化尿液。
+增加液体摄入量来进行治疗，产生尿量1.5〜2L/m2/天，利用柠檬酸钾或碳酸氢钾碱化尿液。
+限制饮食中的钠、动物蛋白和蛋氨酸。
+限制饮食中的钠、动物蛋白和蛋氨酸。
+可能需要使用如青霉胺或硫普罗宁等胱氨酸结合药物，但需注意其不良反应。
+可能需要使用如青霉胺或硫普罗宁等胱氨酸结合药物，但需注意其不良反应。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Multiple societies:Clinical practice recommendation for cystinuria management(2021)
+Multiple societies:Clinical practice recommendation for cystinuria management(2021)

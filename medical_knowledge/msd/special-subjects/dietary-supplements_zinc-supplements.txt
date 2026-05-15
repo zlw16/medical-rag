@@ -1,0 +1,58 @@
+标题：补锌制剂
+来源：https://www.msdmanuals.cn/professional/special-subjects/dietary-supplements/zinc-supplements
+============================================================
+
+锌是一种矿物质，在多种代谢过程中需要少量锌（成人建议的饮食摄入量为8-11毫克/天）。饮食来源包括牡蛎、牛肉和强化谷物。
+
+【锌补充剂的功效宣称】
+锌被证实减少感冒的症状，帮助婴幼儿传染病恢复，减慢年龄相关性黄斑变性病程，并有助于伤口愈合。
+锌被认为可以增加胰岛素灵敏度。
+轻度锌缺乏会损害儿童的成长，可以通过补锌来纠正(1, 2)。
+美国食品和药物管理局（FDA）授予用于治疗威尔逊病的醋酸锌孤儿药称号，以防止危险的铜水平升高。
+
+【锌补充剂的证据】
+多项研究评估了锌在治疗感冒症状中的作用。一项包含8526名患者（22项成人研究和12项儿童研究）的34项锌单药治疗与安慰剂随机试验的Cochrane综述报告称，锌在预防感冒方面几乎没有益处，但可能缩短正在发作的感冒病程（3）。服用锌的患者出现非严重不良反应（如味觉异常、胃部不适）的风险可能增加。另一项荟萃分析报告称，在治疗感冒方面，醋酸锌和葡萄糖酸锌含片的疗效并无差异，且没有证据表明每日剂量超过100mg具有更高的疗效（4）。一项包括 28 项试验（5446 名参与者）的荟萃分析报告显示，与安慰剂相比，锌可预防每 100 人每月 5 例上呼吸道感染，而需要治疗的人数为 20 人（5）。该研究报告称，与安慰剂相比，症状提前2天缓解，更多的受试者在不服用锌的7天后可能仍有症状。
+有强烈证据表明，在发展中国家，在出生后12个月内每周补充锌20mg和铁20mg可以降低婴儿腹泻和呼吸道感染的病死率 (6)。2016年Cochrane的一项综述发现，补充锌可能有利于治疗6个月以上的缺锌或营养不良儿童的腹泻（7）。
+同样有有力证据表明，每天补充锌及抗氧化剂（维生素C、维生素E）可减缓中度至重度萎缩性（干性）年龄相关性黄斑变性（8）的进展。一项包括年龄相关性黄斑变性患者的随机试验的十年随访数据显示，补充锌和抗氧化剂（维生素C、E以及叶黄素/玉米黄质）可延缓晚期黄斑变性的进展（9, 10）。
+锌治疗糖尿病的临床数据正在不断涌现。2019年一项针对32项随机安慰剂对照试验（共1700名受试者）的系统综述与荟萃分析发现，在糖尿病前期或糖尿病患者、肥胖或超重个体以及患有糖尿病前期或糖尿病的孕妇中，单独补充锌或联合补充其他微量元素可降低空腹血糖水平和糖化血红蛋白（HbA1c）水平(10)。然而，单纯补充锌治疗对糖化血红蛋白的降低效果并不显著。
+锌也被研究用于抑郁症。一项系统综述和荟萃分析报告称，锌与抗抑郁药联用或可减轻抑郁症状（11）。世界生物精神病学学会联合会（WFSBP）和加拿大情绪与焦虑治疗网络（CANMAT）工作组的临床指南指出，螯合锌或吡啶甲酸锌产品可作为抗抑郁药的辅助治疗手段用于抑郁症治疗（12）。
+
+【锌补充剂的不良反应】
+锌通常是安全的，但如果使用高剂量的锌，会产生毒性。（参见第毒性)。锌锭的常见副作用包括恶心、呕吐、腹泻、口腔刺激、口腔溃疡和口感差。
+由于锌是机体的微量金属元素，可清楚机体其他必须金属元素，锌锭剂量不可超过75mg/天（总剂量，不论给药频率），服用不能超过14天。
+锌喷雾剂可能会刺激鼻子和喉咙，鼻内形式可能会导致嗅觉缺失。
+
+【锌补充剂的药物相互作用】
+口服锌补充剂可能会降低某些抗生素（如头孢氨苄、四环素类、喹诺酮类）的吸收和效果；因此，锌应在抗生素使用前至少2小时或使用后4-6小时服用。
+锌可刺激肿瘤细胞产生金属硫蛋白，金属硫蛋白可使顺铂失活，螯合整合酶抑制剂（dolutegravir），还可通过形成不溶性复合物降低青霉胺水平。
+
+【参考文献】
+1.Mayo-Wilson E, Junior JA, Imdad A, et al.Zinc supplementation for preventing mortality, morbidity, and growth failure in children aged 6 months to 12 years of age.Cochrane Database Syst Rev., 5:CD009384, 2014.doi: 10.1002/14651858
+1.Mayo-Wilson E, Junior JA, Imdad A, et al.Zinc supplementation for preventing mortality, morbidity, and growth failure in children aged 6 months to 12 years of age.Cochrane Database Syst Rev., 5:CD009384, 2014.doi: 10.1002/14651858
+2.Lassi ZS, Kurji J, Oliveira CS.Zinc supplementation for the promotion of growth and prevention of infections in infants less than six months of age.Cochrane Database Syst Rev.4:CD010205, 2020.doi: 10.1002/14651858.CD010205.pub2
+2.Lassi ZS, Kurji J, Oliveira CS.Zinc supplementation for the promotion of growth and prevention of infections in infants less than six months of age.Cochrane Database Syst Rev.4:CD010205, 2020.doi: 10.1002/14651858.CD010205.pub2
+3.Singh M, Das RR.Zinc for the common cold.Cochrane Database Syst Rev.6:CD001364, 2013.doi: 10.1002/14651858.CD001364.pub4
+3.Singh M, Das RR.Zinc for the common cold.Cochrane Database Syst Rev.6:CD001364, 2013.doi: 10.1002/14651858.CD001364.pub4
+4.Hemilä H.Zinc lozenges and the common cold: a meta-analysis comparing zinc acetate and zinc gluconate, and the role of zinc dosage.JRSM Open.8(5):2054270417694291, 2017.doi:10.1177/2054270417694291
+4.Hemilä H.Zinc lozenges and the common cold: a meta-analysis comparing zinc acetate and zinc gluconate, and the role of zinc dosage.JRSM Open.8(5):2054270417694291, 2017.doi:10.1177/2054270417694291
+5.Hunter J, Arentz S, Goldenberg J, et al.Zinc for the prevention or treatment of acute viral respiratory tract infections in adults: a rapid systematic review and meta-analysis of randomised controlled trials.BMJ Open.11(11):e047474, 2021.doi:10.1136/bmjopen-2020-047474
+5.Hunter J, Arentz S, Goldenberg J, et al.Zinc for the prevention or treatment of acute viral respiratory tract infections in adults: a rapid systematic review and meta-analysis of randomised controlled trials.BMJ Open.11(11):e047474, 2021.doi:10.1136/bmjopen-2020-047474
+6.Baqui AH, Zaman K, Persson LA, et al: Simultaneous weekly supplementation of iron and zinc is associated with lower morbidity due to diarrhea and acute lower respiratory infection in Bangladeshi infants.J Nutr133(12):4150-4157, 2003.doi: 10.1093/jn/133.12.4150
+6.Baqui AH, Zaman K, Persson LA, et al: Simultaneous weekly supplementation of iron and zinc is associated with lower morbidity due to diarrhea and acute lower respiratory infection in Bangladeshi infants.J Nutr133(12):4150-4157, 2003.doi: 10.1093/jn/133.12.4150
+7.Lazzerini M, Wanzira H: Oral zinc for treating diarrhoea in children.Cochrane Database Syst Rev12:CD005436, 2016.doi: 10.1002/14651858.CD005436.pub5
+7.Lazzerini M, Wanzira H: Oral zinc for treating diarrhoea in children.Cochrane Database Syst Rev12:CD005436, 2016.doi: 10.1002/14651858.CD005436.pub5
+8.Chew EY, Clemons TE, Agron E, et al.Long-term effects of vitamins C and E, beta-carotene, and zinc on age-related macular degeneration: AREDS report no. 35.[published correction appears inOphthalmology123(12 ):2634, 2016].Ophthalmology.120(8):1604-11.e4, 2013.doi:10.1016/j.ophtha.2013.01.021
+8.Chew EY, Clemons TE, Agron E, et al.Long-term effects of vitamins C and E, beta-carotene, and zinc on age-related macular degeneration: AREDS report no. 35.[published correction appears inOphthalmology123(12 ):2634, 2016].Ophthalmology.120(8):1604-11.e4, 2013.doi:10.1016/j.ophtha.2013.01.021
+9.The Age-Related Eye Disease Study 2 (AREDS2) Research Group, Chew EY, Clemons TE, et al.Secondary analyses of the effects of lutein/zeaxanthin on age-related macular degeneration progression: AREDS2 report No. 3.JAMA Ophthalmol.132(2):142-149, 2014.doi: 10.1001/jamaophthalmol.2013.7376
+9.The Age-Related Eye Disease Study 2 (AREDS2) Research Group, Chew EY, Clemons TE, et al.Secondary analyses of the effects of lutein/zeaxanthin on age-related macular degeneration progression: AREDS2 report No. 3.JAMA Ophthalmol.132(2):142-149, 2014.doi: 10.1001/jamaophthalmol.2013.7376
+10.Wang X, Wu W, Zheng W, et al.Zinc supplementation improves glycemic control for diabetes prevention and management: a systematic review and meta-analysis of randomized controlled trials.Am J Clin Nutr.110(1):76-90, 2019.doi: 10.1093/ajcn/nqz041
+10.Wang X, Wu W, Zheng W, et al.Zinc supplementation improves glycemic control for diabetes prevention and management: a systematic review and meta-analysis of randomized controlled trials.Am J Clin Nutr.110(1):76-90, 2019.doi: 10.1093/ajcn/nqz041
+11.da Silva LEM, de Santana MLP, Costa PRF, Pereira EM, Nepomuceno CMM, Queiroz VAO, de Oliveira LPM, Machado MEPDC, de Sena EP.Zinc supplementation combined with antidepressant drugs for treatment of patients with depression: a systematic review and meta-analysis.Nutr Rev.2021 Jan 1;79(1):1-12.doi: 10.1093/nutrit/nuaa039
+11.da Silva LEM, de Santana MLP, Costa PRF, Pereira EM, Nepomuceno CMM, Queiroz VAO, de Oliveira LPM, Machado MEPDC, de Sena EP.Zinc supplementation combined with antidepressant drugs for treatment of patients with depression: a systematic review and meta-analysis.Nutr Rev.2021 Jan 1;79(1):1-12.doi: 10.1093/nutrit/nuaa039
+12.Sarris J, Ravindran A, Yatham LN, et al.Clinician guidelines for the treatment of psychiatric disorders with nutraceuticals and phytoceuticals: The World Federation of Societies of Biological Psychiatry (WFSBP) and Canadian Network for Mood and Anxiety Treatments (CANMAT) Taskforce.World J Biol Psychiatry.2022 Jul;23(6):424-455.doi: 10.1080/15622975.2021.2013041.Epub 2022 Mar 21.PMID: 35311615.
+12.Sarris J, Ravindran A, Yatham LN, et al.Clinician guidelines for the treatment of psychiatric disorders with nutraceuticals and phytoceuticals: The World Federation of Societies of Biological Psychiatry (WFSBP) and Canadian Network for Mood and Anxiety Treatments (CANMAT) Taskforce.World J Biol Psychiatry.2022 Jul;23(6):424-455.doi: 10.1080/15622975.2021.2013041.Epub 2022 Mar 21.PMID: 35311615.
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Institutes of Health (NIH): Zinc Fact sSheet for Health Professionals
+National Institutes of Health (NIH): Zinc Fact sSheet for Health Professionals

@@ -1,0 +1,64 @@
+标题：轮状病毒疫苗
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/immunization/rotavirus-vaccine
+============================================================
+
+轮状病毒疫苗推荐用于婴幼儿预防轮状病毒导致的肠胃炎。
+（参见疫苗接种概述。）
+
+【轮状病毒疫苗制剂】
+在美国有2种轮状病毒疫苗可供婴儿使用：
+轮状病毒疫苗是减毒活疫苗。
+
+【轮状病毒疫苗的适应症】
+轮状病毒疫苗是儿童常规接种疫苗（见CDC: Child and Adolescent Immunization Schedule by Age）。
+
+【轮状病毒疫苗的禁忌症和注意事项】
+轮状病毒疫苗的禁忌症如下：
+既往该疫苗接种史或对疫苗成分（包括 RV1 涂药器中的乳胶）有严重过敏反应（例如，过敏性休克）
+既往该疫苗接种史或对疫苗成分（包括 RV1 涂药器中的乳胶）有严重过敏反应（例如，过敏性休克）
+严重联合免疫缺陷的婴幼儿
+严重联合免疫缺陷的婴幼儿
+有肠套叠病史的婴幼儿
+有肠套叠病史的婴幼儿
+轮状病毒疫苗的主要注意事项如下：
+伴或不伴发热的中度或重度急性疾病，包括中度或重度腹泻或呕吐（疫苗推迟到疾病消退之后接种；轻度患病的婴儿可以接种疫苗）
+伴或不伴发热的中度或重度急性疾病，包括中度或重度腹泻或呕吐（疫苗推迟到疾病消退之后接种；轻度患病的婴儿可以接种疫苗）
+脊柱裂或者膀胱外翻
+脊柱裂或者膀胱外翻
+除SCID外的免疫功能改变（如HIV感染的婴儿）
+除SCID外的免疫功能改变（如HIV感染的婴儿）
+慢性胃肠疾病
+慢性胃肠疾病
+(See alsoCDC: Contraindications and Precautions to Vaccination: Rotavirus Vaccine Contraindications and Precautions.)
+尚未确定有以下情况的婴儿接种轮状病毒疫苗的安全性和有效性：
+晚期 HIV 感染或任何其他影响免疫系统的疾病
+晚期 HIV 感染或任何其他影响免疫系统的疾病
+用糖皮质激素和其他免疫抑制剂治疗的患者
+用糖皮质激素和其他免疫抑制剂治疗的患者
+癌症或接受放疗或药物治疗的患者
+癌症或接受放疗或药物治疗的患者
+
+【轮状病毒疫苗的剂量与接种】
+轮状病毒疫苗是通过滴入婴儿口腔中口服的。  两种疫苗的剂量略有不同：
+口服接种轮状病毒五价疫苗，共3剂：分别在婴儿2月龄、4月龄和6月龄时各服1剂。
+口服接种轮状病毒五价疫苗，共3剂：分别在婴儿2月龄、4月龄和6月龄时各服1剂。
+RV1 口服2剂，分别在2个月和4个月时服用。
+RV1 口服2剂，分别在2个月和4个月时服用。
+如果接种的某一剂疫苗是 RV5 或未知制剂，默认为接种 3 剂次。
+如果接种的某一剂疫苗是 RV5 或未知制剂，默认为接种 3 剂次。
+如果在≥15 周龄时不慎接种了第一剂轮状病毒疫苗，则应按常规建议的间隔接种剩余剂量。
+轮状病毒疫苗不应在8个月0天之后接种，即便接种系列不完整，因为存在肠套叠的风险。
+
+【轮状病毒疫苗的不良反应】
+不良反应很少见，但包括易怒、轻度暂时性腹泻和呕吐。
+接种轮状病毒疫苗发生肠套叠的风险很小。肠套叠通常发生于首剂或第二剂后1周内。有时可能需要外科手术治疗。
+有关这些疫苗不良反应的更多信息，请参阅处方信息。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Rotavirus Vaccine
+Advisory Committee on Immunization Practices (ACIP):ACIP Recommendations: Rotavirus Vaccine
+Centers for Disease Control and Prevention (CDC):Rotavirus
+Centers for Disease Control and Prevention (CDC):Rotavirus
+European Centre for Disease Prevention and Control (ECDC):Rotavirus Infection: Recommended vaccinations
+European Centre for Disease Prevention and Control (ECDC):Rotavirus Infection: Recommended vaccinations

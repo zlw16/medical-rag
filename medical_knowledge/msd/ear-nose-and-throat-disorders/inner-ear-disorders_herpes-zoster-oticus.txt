@@ -1,0 +1,56 @@
+标题：耳带状疱疹
+来源：https://www.msdmanuals.cn/professional/ear-nose-and-throat-disorders/inner-ear-disorders/herpes-zoster-oticus
+============================================================
+
+带状疱疹由水痘-带状疱疹病毒在膝状神经节内再激活引发（1）。复燃的危险因素包括继发于癌症的免疫缺陷、化疗、放疗或人体免疫缺陷病毒感染。通常，病毒潜伏在背根神经节，再激活时表现为沿皮节分布的疼痛性皮肤病变。然而，病毒很少潜伏在膝状神经节；当其再激活时，病毒引起涉及第Ⅶ和第Ⅷ颅神经的症状。
+
+【参考文献】
+1.Furuta Y, Takasu T, Fukuda S, et al.Detection of varicella-zoster virus DNA in human geniculate ganglia by polymerase chain reaction.J Infect Dis.1992;166(5):1157-1159.doi:10.1093/infdis/166.5.1157
+1.Furuta Y, Takasu T, Fukuda S, et al.Detection of varicella-zoster virus DNA in human geniculate ganglia by polymerase chain reaction.J Infect Dis.1992;166(5):1157-1159.doi:10.1093/infdis/166.5.1157
+
+【耳带状疱疹的症状和体征】
+耳带状疱疹的症状包括
+耳部剧烈疼痛伴耳部疱疹
+耳部剧烈疼痛伴耳部疱疹
+暂时性或永久性同侧面瘫（症状类似贝尔麻痹）
+暂时性或永久性同侧面瘫（症状类似贝尔麻痹）
+持续几天到几周的眩晕发作
+持续几天到几周的眩晕发作
+听力损失（可能是永久性的，也可能部分或完全恢复）
+听力损失（可能是永久性的，也可能部分或完全恢复）
+耳鸣与听觉过敏
+耳鸣与听觉过敏
+疱疹发生于耳廓和外耳道，沿面神经的感觉支分布。 脑膜脑炎症状（例：头痛、意识模糊、颈强直）并不常见。有时其他的脑神经亦可受累。
+
+【耳带状疱疹的诊断】
+主要是病史和体格检查
+主要是病史和体格检查
+有时需要病毒培养
+有时需要病毒培养
+有时进行影像学检查（MRI）
+有时进行影像学检查（MRI）
+诊断通常为依靠临床表现。如果对病毒作为病因有所怀疑，可收集水疱碎屑做直接免疫荧光检查或病毒培养，以及行MRI检查以排除其他诊断。
+
+【耳带状疱疹的治疗】
+抗病毒药和糖皮质激素
+抗病毒药和糖皮质激素
+有时使用阿片类药物或其他药物治疗剧烈疼痛
+有时使用阿片类药物或其他药物治疗剧烈疼痛
+罕见情况下进行面神经管手术减压（例如，用于完全性面瘫）
+罕见情况下进行面神经管手术减压（例如，用于完全性面瘫）
+尽管缺乏高质量证据表明糖皮质激素、抗病毒药物或手术减压对耳部带状疱疹有显著疗效，但这些仍是目前唯一可能有效的治疗方法（1, 2）。在使用糖皮质激素时，通常以口服大剂量泼尼松起始治疗4至7天，随后在接下来的2周内逐渐减量。每日5次口服阿昔洛韦或每日2次口服伐昔洛韦，疗程为10天，可缩短临床病程；该方案通常适用于免疫功能受损患者。
+每4至6小时口服地西泮一次可有效抑制眩晕症状。疼痛可口服阿片类药物。带状疱疹后神经痛可在必要时使用药物（如阿米替林、去甲替林、加巴喷丁、普瑞巴林）进行治疗。
+面神经麻痹的手术治疗作用仍存争议；然而，若患者面瘫症状完全（无可见面部运动），可考虑实施面神经管（位于颅骨颞骨内容纳面神经的骨性管道）手术减压治疗。减压必须在面瘫发作后2周内进行才能有效。手术前进行神经电图检查。面部神经电图显示活动度下降>90%的患者通常适合进行减压手术。
+
+【治疗参考文献】
+1.Uscategui T, Dorée C, Chamberlain IJ, Burton MJ.Antiviral therapy for Ramsay Hunt syndrome (herpes zoster oticus with facial palsy) in adults.Cochrane Database Syst Rev.2008;2008(4):CD006851.Published 2008 Oct 8.doi:10.1002/14651858.CD006851.pub22.
+1.Uscategui T, Dorée C, Chamberlain IJ, Burton MJ.Antiviral therapy for Ramsay Hunt syndrome (herpes zoster oticus with facial palsy) in adults.Cochrane Database Syst Rev.2008;2008(4):CD006851.Published 2008 Oct 8.doi:10.1002/14651858.CD006851.pub22.
+2.Coulson S, Croxson GR, Adams R, Oey V.Prognostic factors in herpes zoster oticus (ramsay hunt syndrome).Otol Neurotol.2011;32(6):1025-1030.doi:10.1097/MAO.0b013e3182255727
+2.Coulson S, Croxson GR, Adams R, Oey V.Prognostic factors in herpes zoster oticus (ramsay hunt syndrome).Otol Neurotol.2011;32(6):1025-1030.doi:10.1097/MAO.0b013e3182255727
+
+【耳部带状疱疹的预防】
+疫苗接种是预防耳部带状疱疹推荐的主要方法。重组带状疱疹疫苗（RZV）在预防带状疱疹（包括耳部带状疱疹）方面非常有效。在一项涉及15,411名70岁或以上患者的多中心随机试验中，发现总体疫苗对带状疱疹的效力为97.2%（1）。美国疾病控制与预防中心（CDC）下属的免疫实践咨询委员会（ACIP）建议，所有50岁及以上的成年人均应接种带状疱疹疫苗，无论其既往是否患过带状疱疹或是否接种过水痘疫苗；此外，对于免疫功能低下的年轻成人，同样建议接种。（更多信息请参阅带状疱疹疫苗。）
+
+【预防参考文献】
+1.Lal H, Cunningham AL, Godeaux O, et al.Efficacy of an adjuvanted herpes zoster subunit vaccine in older adults.N Engl J Med.2015;372(22):2087-2096.doi:10.1056/NEJMoa1501184
+1.Lal H, Cunningham AL, Godeaux O, et al.Efficacy of an adjuvanted herpes zoster subunit vaccine in older adults.N Engl J Med.2015;372(22):2087-2096.doi:10.1056/NEJMoa1501184

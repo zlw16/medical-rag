@@ -1,0 +1,120 @@
+标题：嗜酸性肉芽肿性多血管炎（EGPA）
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/vasculitis/eosinophilic-granulomatosis-with-polyangiitis-egpa
+============================================================
+
+（参见血管炎概述。）
+嗜酸性粒细胞性肉芽肿伴多血管炎（EGPA）的发病率可达每百万20例，具体数值取决于研究人群（1）。发病高峰年龄为40至50岁之间。
+EGPA以血管外形成坏死性肉芽肿（通常多嗜酸性粒细胞浸润），嗜酸性粒细胞增多症和组织浸润有嗜酸性粒细胞为特点。然而，这些异常表现不总是都能看到。典型的血管炎可影响小和中等大小动脉。任何脏器均可受累，肺部、皮肤、鼻窦、心血管系统、肾脏、周围神经系统、CNS、关节、胃肠道是最常见的受累部位。肺毛细血管炎很少会引起肺泡出血。
+
+【参考文献】
+1.Mohammad AJ.An update on the epidemiology of ANCA-associated vasculitis.Rheumatology(Oxford) 2020;59(Suppl 3):iii42-iii50.doi:10.1093/rheumatology/keaa089
+1.Mohammad AJ.An update on the epidemiology of ANCA-associated vasculitis.Rheumatology(Oxford) 2020;59(Suppl 3):iii42-iii50.doi:10.1093/rheumatology/keaa089
+
+【EGPA的病因】
+嗜酸性肉芽肿性多血管炎的病因尚不清楚。然而，由嗜酸性粒细胞和中性粒细胞脱颗粒产生的物质导致组织直接受损，这一过敏机制可能参与其中。T淋巴细胞活化可能参与维持嗜酸性粒细胞性炎症。该综合征在成人发作的哮喘，过敏性鼻炎，鼻息肉患者中多见。30%-40%的病例中可见抗中性粒细胞胞浆抗体（ANCA） (1）。
+
+【病因参考文献】
+1.Moiseev S, Bossuyt X, Arimura Y, et al.International Consensus on ANCA Testing in Eosinophilic Granulomatosis with Polyangiitis.Am J Respir Crit Care MedPublished online June 25, 2020.doi:10.1164/rccm.202005-1628SO
+1.Moiseev S, Bossuyt X, Arimura Y, et al.International Consensus on ANCA Testing in Eosinophilic Granulomatosis with Polyangiitis.Am J Respir Crit Care MedPublished online June 25, 2020.doi:10.1164/rccm.202005-1628SO
+
+【EGPA的症状和体征】
+该综合征主要有三个阶段，各阶段也可相互重叠：
+前驱症状：该期可持续数年。患者可有过敏性鼻炎，鼻息肉，哮喘或兼而有之。
+前驱症状：该期可持续数年。患者可有过敏性鼻炎，鼻息肉，哮喘或兼而有之。
+嗜酸性粒细胞阶段：典型表现为外周血和组织中嗜酸性粒细胞增多。临床表现可能类似于吕弗勒综合征，包括慢性嗜酸性粒细胞性肺炎和嗜酸性粒细胞性肠胃炎。
+嗜酸性粒细胞阶段：典型表现为外周血和组织中嗜酸性粒细胞增多。临床表现可能类似于吕弗勒综合征，包括慢性嗜酸性粒细胞性肺炎和嗜酸性粒细胞性肠胃炎。
+血管炎期：形成极有可能危及生命的血管炎。 器官功能障碍和全身症状（比如发热、不适、体重减轻、疲乏）在这一阶段常见。
+血管炎期：形成极有可能危及生命的血管炎。 器官功能障碍和全身症状（比如发热、不适、体重减轻、疲乏）在这一阶段常见。
+这些阶段并不是一个接着一个连续发生的，在各阶段之间的时间间隔可有很大差别。
+多个器官和系统可能受累：
+呼吸系统：大多数患者可发生哮喘，且多在成年期发作，可较严重并为糖皮质激素依赖型。鼻窦炎亦常见，但为非破坏型，一般不伴有严重的坏死性炎症。患者可能出现气短。常见一过性的肺部片状浸润阴影。
+呼吸系统：大多数患者可发生哮喘，且多在成年期发作，可较严重并为糖皮质激素依赖型。鼻窦炎亦常见，但为非破坏型，一般不伴有严重的坏死性炎症。患者可能出现气短。常见一过性的肺部片状浸润阴影。
+神经系统：神经系统表现亦很常见。四分之三的患者可出现多发性单神经病（多发性单神经炎）。中枢神经系统受累较少见，可表现为轻偏瘫、意识模糊、癫痫发作及昏迷，伴或不伴脑神经麻痹或小脑梗死依据。
+神经系统：神经系统表现亦很常见。四分之三的患者可出现多发性单神经病（多发性单神经炎）。中枢神经系统受累较少见，可表现为轻偏瘫、意识模糊、癫痫发作及昏迷，伴或不伴脑神经麻痹或小脑梗死依据。
+皮肤：半数患者可有皮肤受累。在肢端伸侧面可见结节和丘疹。这是由于血管周围一圈肉芽肿病变伴有中心坏死区。伴或不伴大量嗜酸性粒细胞浸润的白细胞破碎性血管炎可形成紫癜和红斑丘疹。
+皮肤：半数患者可有皮肤受累。在肢端伸侧面可见结节和丘疹。这是由于血管周围一圈肉芽肿病变伴有中心坏死区。伴或不伴大量嗜酸性粒细胞浸润的白细胞破碎性血管炎可形成紫癜和红斑丘疹。
+肌肉骨骼：可出现关节痛、肌痛，甚至关节炎。
+肌肉骨骼：可出现关节痛、肌痛，甚至关节炎。
+心脏：心脏受累是死亡的主要原因，包括由于心肌炎和心内膜纤维化导致的心力衰竭，冠状动脉血管炎（可能并发MI）、瓣膜疾病和心包炎。主要的病理学表现为嗜酸性粒细胞浸润性心肌炎。
+心脏：心脏受累是死亡的主要原因，包括由于心肌炎和心内膜纤维化导致的心力衰竭，冠状动脉血管炎（可能并发MI）、瓣膜疾病和心包炎。主要的病理学表现为嗜酸性粒细胞浸润性心肌炎。
+胃肠道：高达1/3的患者呈现胃肠道症状（比如腹部疼痛、腹泻、出血和无结石胆囊炎），归因于嗜酸性粒细胞性胃肠炎或血管炎导致的肠系膜缺血。
+胃肠道：高达1/3的患者呈现胃肠道症状（比如腹部疼痛、腹泻、出血和无结石胆囊炎），归因于嗜酸性粒细胞性胃肠炎或血管炎导致的肠系膜缺血。
+肾脏：与其他中性粒细胞胞浆抗体相关性血管炎相比，肾脏往往较少受累。一般说来，可能出现寡免疫（几乎没有任何免疫复合物存在）、伴有新月体形成的局灶节段性坏死性肾小球肾炎；肾脏出现嗜酸性粒细胞性或肉芽肿性炎症很少见。
+肾脏：与其他中性粒细胞胞浆抗体相关性血管炎相比，肾脏往往较少受累。一般说来，可能出现寡免疫（几乎没有任何免疫复合物存在）、伴有新月体形成的局灶节段性坏死性肾小球肾炎；肾脏出现嗜酸性粒细胞性或肉芽肿性炎症很少见。
+此图像显示腿部多处瘀斑和紫癜。
+© Springer Science+Business Media
+肾脏、心脏或神经系统受累者提示预后较差。
+
+【EGPA的诊断】
+临床标准
+临床标准
+常规实验室检查
+常规实验室检查
+超声心动图
+超声心动图
+2012年的教堂山共识会议(1)将嗜酸性肉芽肿性多血管炎(EGPA)定义为涉及哮喘和嗜酸性粒细胞增多、与坏死性小和中等大小血管炎相关的呼吸道富嗜酸性粒细胞和坏死性肉芽肿性炎症。分类标准由美国风湿病学会/欧洲风湿病学会联盟（EULAR）在2022年修订，包括以下内容（2）：
+Asthma (+ 3 points)
+Asthma (+ 3 points)
+鼻息肉（+ 3 分）
+鼻息肉（+ 3 分）
+多发性单神经炎或多发性神经病（+1 分）。
+多发性单神经炎或多发性神经病（+1 分）。
+外周血嗜酸性粒细胞增多 > 10% (+ 5 分)
+外周血嗜酸性粒细胞增多 > 10% (+ 5 分)
+病理学证实血管炎伴血管外嗜酸性粒细胞浸润（+2 分）。
+病理学证实血管炎伴血管外嗜酸性粒细胞浸润（+2 分）。
+细胞质型抗中性粒细胞胞浆抗体（cANCA）或抗蛋白酶3抗体升高（-3 分）。
+细胞质型抗中性粒细胞胞浆抗体（cANCA）或抗蛋白酶3抗体升高（-3 分）。
+血尿（减1分）
+血尿（减1分）
+评分≥6的敏感性为85%，特异性为99%。
+检查的目的在于明确诊断和器官累及的程度，并鉴别EGPA和其他嗜酸性粒细胞疾病（如寄生虫感染、药物反应、急性嗜酸性粒细胞性肺炎,慢性嗜酸性粒细胞性肺炎、过敏性支气管肺曲霉病和高嗜酸性粒细胞综合征）。临床表现和常规实验室检查结果可以提示该病，但是通常需要肺部或者其他受累器官活检来确定诊断。
+需要检查血和胸片，虽然其结果不具有诊断性。 全血细胞计数与分类检查明确是否存在嗜酸性粒细胞增多症，这对于某些患者可能是疾病活动的一个标志。定期复查IgE、C反应蛋白和红细胞沉降率（ESR）水平来评价炎症活动性。尿常规伴尿沉渣分析及肌酐检测用于筛查肾脏疾病并监测其严重程度。检查电解质水平。
+血清学检查在35%的患者中发现抗中性粒细胞胞浆自身抗体(ANCA)；如果发现了ANCA，则需要酶联免疫吸附剂测定(ELISA）以测定特定抗体。对髓过氧化物酶起反应的核周型ANCA（p-ANCA）是最常见的结果，然而ANCA并不是EGPA高特异性或敏感性的检查。
+作为疾病活性的标志物，嗜酸性粒细胞、IgE、ANCA、ESR和C-反应蛋白水平有协助作用，并在某些条件下可预测发作。
+胸片可以显示肺部一过性斑片状浸润影。
+所有患者应在基线时进行二维超声心动图检查，如果出现心力衰竭的症状和/或体征，随访过程中应重复进行该项检查。
+如果可行的话，应对受累组织进行活检。
+
+【诊断参考】
+1.Jennette JC, Falk RJ, Bacon PA, et al: 2012 Revised International Chapel Hill Consensus Conference Nomenclature of Vasculitides.Arthritis Rheum65(1):1-11, 2013.doi: 10.1002/art.37715
+1.Jennette JC, Falk RJ, Bacon PA, et al: 2012 Revised International Chapel Hill Consensus Conference Nomenclature of Vasculitides.Arthritis Rheum65(1):1-11, 2013.doi: 10.1002/art.37715
+2.Grayson PC, Ponte C, Suppiah R, et al: 2022 American College of Rheumatology/European Alliance of Associations for Rheumatology Classification Criteria for Eosinophilic Granulomatosis with Polyangiitis.Ann Rheum Dis81(3):309–314, 2022.doi:10.1136/annrheumdis-2021-221794
+2.Grayson PC, Ponte C, Suppiah R, et al: 2022 American College of Rheumatology/European Alliance of Associations for Rheumatology Classification Criteria for Eosinophilic Granulomatosis with Polyangiitis.Ann Rheum Dis81(3):309–314, 2022.doi:10.1136/annrheumdis-2021-221794
+
+【EGPA的治疗】
+皮质类固醇
+皮质类固醇
+其他免疫抑制剂（如利妥昔单抗、环磷酰胺、美泊利单抗）
+其他免疫抑制剂（如利妥昔单抗、环磷酰胺、美泊利单抗）
+全身应用皮质类固醇激素联合免疫抑制剂是治疗嗜酸性肉芽肿伴多血管炎（EGPA）的主要手段，这是因为即使没有预后不良因素，单独使用糖皮质激素也往往不能维持缓解。可联合使用其他免疫抑制剂（例如，环磷酰胺、利妥昔单抗、甲氨蝶呤、硫唑嘌呤）。免疫抑制剂的选择取决于疾病的严重程度及受累器官的类型，其治疗原则与肉芽肿性多血管炎或显微镜下多血管炎相同。在41例EGPA利妥昔单抗治疗的回顾性研究中，49％患者在12个月时缓解，且应用利妥昔单抗减少了糖皮质激素的需求(1)。该结果优于其他治疗方法。
+环磷酰胺是治疗心脏受累的首选药物(2)。以心肌炎和心力衰竭为表现的心脏受累是 EGPA 死亡的主要原因。
+美泊珠单抗是一种抗IL-5单克隆抗体，已被证实可降低无器官或生命威胁表现的EGPA患者的复发率(3)。益处主要在上呼吸道和下呼吸道，包括活动性哮喘。美泊利单抗在严重表现（包括心脏病）患者中的作用尚不清楚。贝那利珠单抗，另一种抗白介素-5受体单克隆抗体，已被证明在疾病缓解率方面不劣于美泊利珠单抗，并可减少长期使用皮质类固醇激素(4)。
+
+【治疗参考文献】
+1.Mohammad AJ, Hot A, Arndt F, et al:Rituximabfor the treatment of eosinophilic granulomatosis with polyangiitis (Churg-Strauss).Ann Rheum Dis75(2):396-401, 2016.doi:10.1136/annrheumdis-2014-206095
+1.Mohammad AJ, Hot A, Arndt F, et al:Rituximabfor the treatment of eosinophilic granulomatosis with polyangiitis (Churg-Strauss).Ann Rheum Dis75(2):396-401, 2016.doi:10.1136/annrheumdis-2014-206095
+2.Chung SA, Langford CA, Maz M, et al: 2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of Antineutrophil Cytoplasmic Antibody-Associated Vasculitis.Arthritis Rheumatol73(8):1366-1383, 2021.doi:10.1002/art.41773
+2.Chung SA, Langford CA, Maz M, et al: 2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of Antineutrophil Cytoplasmic Antibody-Associated Vasculitis.Arthritis Rheumatol73(8):1366-1383, 2021.doi:10.1002/art.41773
+3.Wechsler ME, Akuthota P, Jayne D, et al:Mepolizumabor placebo for eosinophilic granulomatosis with polyangiitis.N Engl J Med376(20):1921-1932, 2017.doi:10.1056/NEJMoa1702079
+3.Wechsler ME, Akuthota P, Jayne D, et al:Mepolizumabor placebo for eosinophilic granulomatosis with polyangiitis.N Engl J Med376(20):1921-1932, 2017.doi:10.1056/NEJMoa1702079
+4.Wechsler ME, Nair P, Terrier B, et al:BenralizumabversusMepolizumabfor Eosinophilic Granulomatosis with Polyangiitis.N Engl J Med390(10):911-921, 2024.doi:10.1056/NEJMoa2311155
+4.Wechsler ME, Nair P, Terrier B, et al:BenralizumabversusMepolizumabfor Eosinophilic Granulomatosis with Polyangiitis.N Engl J Med390(10):911-921, 2024.doi:10.1056/NEJMoa2311155
+嗜酸性肉芽肿性多血管炎是一种罕见的中小型血管炎。
+嗜酸性肉芽肿性多血管炎是一种罕见的中小型血管炎。
+包括上呼吸道症状及喘鸣，嗜酸性粒细胞性肺炎和肠胃炎，及危及生命的血管炎者几个阶段。
+包括上呼吸道症状及喘鸣，嗜酸性粒细胞性肺炎和肠胃炎，及危及生命的血管炎者几个阶段。
+这些阶段可能以任何顺序出现，也可能互相重叠。
+这些阶段可能以任何顺序出现，也可能互相重叠。
+可能发生心脏或神经系统受累，且提示预后较差。
+可能发生心脏或神经系统受累，且提示预后较差。
+诊断需要结合临床标准、常规实验室检查，有时需要活检结果。
+诊断需要结合临床标准、常规实验室检查，有时需要活检结果。
+所有患者完善二维超声心动图检查。
+所有患者完善二维超声心动图检查。
+根据疾病的严重程度，使用皮质类固醇和其他免疫抑制剂治疗，并使用相同的标准治疗肉芽肿伴多血管炎或显微镜下多血管病。
+根据疾病的严重程度，使用皮质类固醇和其他免疫抑制剂治疗，并使用相同的标准治疗肉芽肿伴多血管炎或显微镜下多血管病。
+可考虑使用利妥昔单抗，因其可能有较高的治疗应答率，也可减少对皮质类固醇激素的需求。
+可考虑使用利妥昔单抗，因其可能有较高的治疗应答率，也可减少对皮质类固醇激素的需求。
+对于主要表现为上呼吸道和/或下呼吸道症状，但无危及器官表现的患者，可考虑使用抗白介素（IL）-5或抗IL-5受体药物（例如，美泊利珠单抗，贝那利珠单抗）。
+对于主要表现为上呼吸道和/或下呼吸道症状，但无危及器官表现的患者，可考虑使用抗白介素（IL）-5或抗IL-5受体药物（例如，美泊利珠单抗，贝那利珠单抗）。

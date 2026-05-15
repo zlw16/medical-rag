@@ -1,0 +1,162 @@
+标题：维生素D缺乏症和依赖
+来源：https://www.msdmanuals.cn/professional/nutritional-disorders/vitamin-deficiency-dependency-and-toxicity/vitamin-d-deficiency-and-dependency
+============================================================
+
+维生素D缺乏症在全球普遍存在。维生素D缺乏症通常导致佝偻病和骨软化症，但这些疾病也可能由其他情况引起，例如慢性肾病、各种肾小管疾病、家族性低磷酸盐血症性佝偻病（维生素D抵抗）、慢性代谢性酸中毒、甲状旁腺功能亢进症、甲状旁腺功能减退症（可降低维生素D的吸收）、钙摄入不足以及损害骨基质矿化的疾病或药物。
+维生素D缺乏导致低钙血症, 会刺激甲状旁腺激素（PTH）的产生，引起甲状旁腺功能亢进。甲状旁腺功能亢进会增加钙的吸收、骨动员与肾脏重吸收，但会增加磷的排泄。 因此血钙水平可能维持正常，但由于低磷血症，骨骼的成骨钙化过程将受到损害。
+
+【维生素D缺乏症和依赖的生理学机制】
+维生素D有两种主要形式：
+维生素D2 (麦角钙化醇)
+维生素D2 (麦角钙化醇)
+D3（胆骨化醇）：天然存在的形式，也是低剂量补充中使用的形式
+D3（胆骨化醇）：天然存在的形式，也是低剂量补充中使用的形式
+维生素D3可以通过阳光直射（紫外线B辐射）在皮肤中合成，或者直接从食物中获取（主要从鱼肝油和海水鱼中） (见表维生素的来源、功能和作用）。在一些国家，牛奶和其他食品都含有维生素D。人乳中维生素D含量低，平均仅为强化牛奶的10％。
+因为皮肤合成能力下降，维生素D水平会随年龄增长而减少。使用防晒霜和深色的皮肤色素沉着也会减少皮肤合成的维生素D。
+维生素D是一种类激素，其在体内的多个活性代谢产物发挥着激素样的作用。维生素D在肝脏中被代谢为25(OH)D（骨化二醇，也称为钙二醇、25-羟胆钙化醇或25-羟基维生素D），然后由肾脏转化为1,25-二羟维生素D（1,25-二羟胆钙化醇，骨化三醇，或活性维生素D激素）。25-羟基维生素D作为主要的循环形式，有着部分代谢活性，而1,25（OH）2D的代谢活性最强。向1,25-二羟维生素D的转化受其自身浓度、甲状旁腺激素(PTH) 以及血清钙和磷浓度的调节。
+维生素D作用于许多器官系统（见表维生素D及其代谢物），但主要是促进钙和磷在小肠的吸收、促进正常骨骼形成及钙化。
+维生素D和相关的类似物可被用于治疗牛皮癣、甲状旁腺功能减退和肾性骨发育不全。它在降低全因死亡率或预防白血病、乳腺癌、前列腺癌、结肠癌或其他癌症方面的作用尚未得到证实，在治疗成人各种其他非骨骼疾病方面也未得到证实 (1–3)。维生素 D补充剂不能有效治疗或预防抑郁症或心血管疾病（4、5)，对预防急性呼吸道感染的作用微乎其微（6）。对于维生素D缺乏的患者，尤其是那些居住在护理机构中的人，同时摄入维生素D和钙的推荐膳食摄入量可能会略微降低跌倒风险(7)；然而，大剂量的维生素D可能会增加骨折风险(8, 9)。由于跌倒的病因是多方面的，因此其他研究并未发现单独补充维生素D可以减少老年人的跌倒和骨折 (10, 11)。
+(参见维生素概述。)
+
+【维生素D及其代谢产物的作用】
+维生素D及其代谢产物的作用
+维持适当的钙、磷浓度促进骨形成
+免疫系统
+增强免疫功能和抗肿瘤能力
+降低自身免疫性疾病的风险
+加强钙和磷的转运（吸收）
+促进肾小管重吸收钙
+甲状旁腺
+抑制甲状旁腺激素分泌
+促使胰岛素分泌增加
+
+【生理学参考文献】
+1.Autier P, Mullie P, Macacu A, et al: Effect ofvitamin Dsupplementation on non-skeletal disorders: A systematic review of meta-analyses and randomised trials.Lancet Diabetes Endocrinol5 (12):986–1004, 2017.doi: 10.1016/S2213-8587(17)30357-1
+1.Autier P, Mullie P, Macacu A, et al: Effect ofvitamin Dsupplementation on non-skeletal disorders: A systematic review of meta-analyses and randomised trials.Lancet Diabetes Endocrinol5 (12):986–1004, 2017.doi: 10.1016/S2213-8587(17)30357-1
+2.Manson JE, Cook NR, Lee IM, et al:Vitamin Dsupplements and prevention of cancer and cardiovascular disease.N Engl J Med380(1):33-44, 2019.doi: 10.1056/NEJMoa1809944
+2.Manson JE, Cook NR, Lee IM, et al:Vitamin Dsupplements and prevention of cancer and cardiovascular disease.N Engl J Med380(1):33-44, 2019.doi: 10.1056/NEJMoa1809944
+3.Neale RE, Baxter C, Romero BD, et al.The D-Health Trial: a randomised controlled trial of the effect ofvitamin Don mortality [published correction appears inLancet Diabetes Endocrinol. 2022 Apr;10(4):e7. doi: 10.1016/S2213-8587(22)00083-3].Lancet Diabetes Endocrinol.2022;10(2):120-128.doi:10.1016/S2213-8587(21)00345-4
+3.Neale RE, Baxter C, Romero BD, et al.The D-Health Trial: a randomised controlled trial of the effect ofvitamin Don mortality [published correction appears inLancet Diabetes Endocrinol. 2022 Apr;10(4):e7. doi: 10.1016/S2213-8587(22)00083-3].Lancet Diabetes Endocrinol.2022;10(2):120-128.doi:10.1016/S2213-8587(21)00345-4
+4.Okereke OI, Reynolds CF 3rd, Mischoulon D, et al: Effect of long-term vitamin D3 supplementation vs placebo on risk of depression or clinically relevant depressive symptoms and on change in mood scores: A randomized clinical trial.JAMA324(5):471-480, 2020.doi: 10.1001/jama.2020.10224
+4.Okereke OI, Reynolds CF 3rd, Mischoulon D, et al: Effect of long-term vitamin D3 supplementation vs placebo on risk of depression or clinically relevant depressive symptoms and on change in mood scores: A randomized clinical trial.JAMA324(5):471-480, 2020.doi: 10.1001/jama.2020.10224
+5.Barbarawi M, Kheiri B, Zayed Y, et al:Vitamin Dsupplementation and cardiovascular disease risks in more than 83,000 individuals in 21 randomized clinical trials: A meta-analysis [published correction appears inJAMA Cardiol2019 Nov 6].JAMA Cardiol4(8):765-776, 2019.doi: 10.1001/jamacardio.2019.1870
+5.Barbarawi M, Kheiri B, Zayed Y, et al:Vitamin Dsupplementation and cardiovascular disease risks in more than 83,000 individuals in 21 randomized clinical trials: A meta-analysis [published correction appears inJAMA Cardiol2019 Nov 6].JAMA Cardiol4(8):765-776, 2019.doi: 10.1001/jamacardio.2019.1870
+6.Jolliffe DA, Camargo CA Jr, Sluyter JD, et al.Vitamin Dsupplementation to prevent acute respiratory infections: a systematic review and meta-analysis of aggregate data from randomised controlled trials.Lancet Diabetes Endocrinol.2021;9(5):276-292.doi:10.1016/S2213-8587(21)00051-6
+6.Jolliffe DA, Camargo CA Jr, Sluyter JD, et al.Vitamin Dsupplementation to prevent acute respiratory infections: a systematic review and meta-analysis of aggregate data from randomised controlled trials.Lancet Diabetes Endocrinol.2021;9(5):276-292.doi:10.1016/S2213-8587(21)00051-6
+7.Ling Y, Xu F, Xia X, et al:Vitamin Dsupplementation reduces the risk of fall in thevitamin Ddeficient elderly: an updated meta-analysis.Clin Nutr40:5531-5537, 2021.doi:10.1016/j.clnu.2021.09.031
+7.Ling Y, Xu F, Xia X, et al:Vitamin Dsupplementation reduces the risk of fall in thevitamin Ddeficient elderly: an updated meta-analysis.Clin Nutr40:5531-5537, 2021.doi:10.1016/j.clnu.2021.09.031
+8.Yao P, Bennett D, Mafham M, et al.Vitamin Dand Calcium for the Prevention of Fracture: A Systematic Review and Meta-analysis.JAMA Netw Open.2019;2(12):e1917789.Published 2019 Dec 2.doi:10.1001/jamanetworkopen.2019.17789
+8.Yao P, Bennett D, Mafham M, et al.Vitamin Dand Calcium for the Prevention of Fracture: A Systematic Review and Meta-analysis.JAMA Netw Open.2019;2(12):e1917789.Published 2019 Dec 2.doi:10.1001/jamanetworkopen.2019.17789
+9.Zhao JG, Zeng XT, Wang J, Liu L.Association Between Calcium orVitamin DSupplementation and Fracture Incidence in Community-Dwelling Older Adults: A Systematic Review and Meta-analysis.JAMA.2017;318(24):2466-2482.doi:10.1001/jama.2017.19344
+9.Zhao JG, Zeng XT, Wang J, Liu L.Association Between Calcium orVitamin DSupplementation and Fracture Incidence in Community-Dwelling Older Adults: A Systematic Review and Meta-analysis.JAMA.2017;318(24):2466-2482.doi:10.1001/jama.2017.19344
+10.Appel LJ, Michos ED, Mitchell CM, et al: The effects of four doses ofvitamin Dsupplements on falls in older adults: a response-adaptive, randomized clinical trial.Ann Intern Med174:145-156, 2021.doi:10.7326/M20-3812
+10.Appel LJ, Michos ED, Mitchell CM, et al: The effects of four doses ofvitamin Dsupplements on falls in older adults: a response-adaptive, randomized clinical trial.Ann Intern Med174:145-156, 2021.doi:10.7326/M20-3812
+11.LeBoff MS, Chou SH, Ratliff KA, et al.SupplementalVitamin Dand Incident Fractures in Midlife and Older Adults.N Engl J Med.2022;387(4):299-309.doi:10.1056/NEJMoa2202106
+11.LeBoff MS, Chou SH, Ratliff KA, et al.SupplementalVitamin Dand Incident Fractures in Midlife and Older Adults.N Engl J Med.2022;387(4):299-309.doi:10.1056/NEJMoa2202106
+
+【维生素D缺乏症和依赖的病因】
+维生素D缺乏的原因可能有以下方面：
+阳光照射不足
+阳光照射不足
+维生素D摄入不足，
+维生素D摄入不足，
+吸收维生素D减少
+吸收维生素D减少
+维生素D代谢异常
+维生素D代谢异常
+抵抗维生素D作用
+抵抗维生素D作用
+
+【阳光照射不足或摄入不足】
+一般情况下，只有阳光照射不足和摄入不够同时存在时才会引起临床上的维生素D缺乏症。易感人群包括：
+老年人（常存在营养不足，且日照暴露不足）
+老年人（常存在营养不足，且日照暴露不足）
+特定群体（如长期居家的女性与儿童，或穿着遮盖全身及面部衣物的人群）
+特定群体（如长期居家的女性与儿童，或穿着遮盖全身及面部衣物的人群）
+维生素D储存不足在老年人中普遍存在，特别是那些居家不外出的、被送进专门机构的、住院的或臀部骨折的老年人。
+建议让阳光直射手臂、腿部或者脸部、胳膊及手部5～15分钟（以不出现皮肤红疹为度），每周至少三次。然而，由于皮肤癌的风险可能增加，许多皮肤科医生不建议增加日光曝晒。
+
+【吸收减少】
+吸收不良会减少机体对膳食维生素D的吸收；只有少量的25(OH)D通过肠肝循环再吸收。
+
+【代谢异常】
+维生素D缺乏症可能由25(OH)D或1,25-二羟基维生素D的生成缺陷引起。由于肾脏产生1,25（OH）2D的能力下降，同时血磷的水平上升，导致慢性肾脏病患者可能发展成佝偻病或骨软化症。肝脏功能不全的病人也会由于维生素D活性产物的合成减少而导致维生素D的缺乏。
+I型遗传性维生素D依赖性佝偻病是一种常染色体隐性疾病，其特征是肾脏中25(OH)D向1,25-二羟维生素D转化能力缺失或存在缺陷。在 X 连锁家族性低磷血症中，肾脏肾小球滤液中磷的重吸收减少，同时 1,25 - 二羟基维生素 D 水平偏低或异常正常，最终导致骨骼畸形。
+许多抗癫痫药物和糖皮质激素会增加维生素 D 补充剂的需求，因为它们会干扰维生素D代谢。
+
+【维生素D抵抗】
+II型遗传性维生素D依赖性佝偻病有几种形式，是由于1,25-二羟基维生素D受体发生突变所致。该受体影响肠道、肾脏、骨骼和其他细胞中1,25-二羟基维生素D的代谢。在该疾病中，1,25 - 二羟基维生素 D 含量充足但无效，因受体功能异常。
+
+【维生素D缺乏症和依赖的症状和体征】
+任何年龄发生的维生素D缺乏症都可引起肌痛、肌无力和骨骼疼痛。
+孕妇患有维生素D缺乏症可使胎儿也出现相应缺乏。偶尔，当母亲患有严重缺乏维生素D并出现骨软化时，新生儿会出现佝偻病伴有干骺损伤。
+在小婴儿时，佝偻病可引起整个头骨软化（颅骨发育不良）。触诊时，枕骨和后顶骨可能容易凹陷。
+年龄略大的佝偻病婴儿，其能够坐、爬的时间均延迟，囟门关闭也滞后，头骨可出现结节，肋软骨增厚。肋软骨增厚形成沿侧胸壁的串珠样外观（佝偻病串珠）。
+1～4岁患儿可以出现桡骨、尺骨、胫骨和腓骨下端的骺软骨增大、脊柱后凸、走路延迟。
+年龄较大的儿童以及青少年患儿可能出现走路疼痛，在一些严重病例中，可以出现畸形如O形腿和膝外翻。骨盆的扁平变形化，可以造成青春期女童的产道狭窄。
+佝偻病手足抽搐症由低钙血症引起，并可能伴随有儿童或成人的维生素D缺乏症。手足搐搦可导致唇、舌、手指感觉异常；手足与面部痉挛；重症者可出现癫痫发作。母亲的维生素D缺乏症可造成新生儿手足抽搐症。
+骨软化易引起骨折。在老年人中，即使轻微的外伤也可能导致臀部骨折。
+
+【维生素D缺乏症和依赖的诊断】
+血清中25－羟基维生素D（D2+D3）的水平
+血清中25－羟基维生素D（D2+D3）的水平
+依据以下任何情况，应警惕维生素D缺乏症：
+阳光照射不足或饮食中摄入不足病史
+阳光照射不足或饮食中摄入不足病史
+佝偻病、骨质软化症的症状和体征，或新生儿手足抽搐
+佝偻病、骨质软化症的症状和体征，或新生儿手足抽搐
+X线所见的骨骼特征性改变
+X线所见的骨骼特征性改变
+需要桡骨和尺骨的X光片以及血清钙、磷、碱性磷酸酶、甲状旁腺激素(PTH) 和25(OH)D的水平，以区分维生素D缺乏与其他骨脱矿原因。
+根据病史和临床检查结果，应该对颅骨软化的婴儿进行维生素D营养状态的检测和梅毒血清学实验，多数颅骨软化的婴儿有自然好转的趋势。 佝偻病可与软骨营养不良区分开，因为后者的主要特征是头大、四肢短小、骨骼较厚，血钙、磷酸盐、碱性磷酸酶水平正常。
+婴儿佝偻病引起的手足抽搐在临床上可能与其他原因引起的癫痫发作难以区分。血液检查和临床病史可能有助于区分它们。
+
+【射线照片】
+在X线影像上看到的骨骼改变先于临床症状。在佝偻病的影像中，桡骨和尺骨下端的变化最为明显。骨干末端失去原本明显清晰的轮廓，呈杯口状，并出现多斑的或穗状的密度减低。随后，由于桡骨、尺骨末端的脱钙化和密度减低，两者间距离以及与掌骨的距离增加。其他部位的骨基质也变得更加透明。软骨与骨干连接处的弯曲导致典型的畸形出现，因为该处骨干较弱。 愈合开始时，骨骺处出现一条细小的白色钙化线，随着钙化的进展变得更密集、更厚。之后，骨基质在骨膜下变成钙化和不透明。
+该X光片显示患有佝偻病的儿童的远端桡骨和尺骨呈透亮状态。
+Credit DU CANE MEDICAL IMAGING LTD / SCIENCE PHOTO LIBRARY
+成人骨脱矿（尤其累及脊柱、骨盆、下肢）可在 X 线片上显影；也可见纤维板层，皮质骨中会出现脱矿不完全的带状区域（假性骨折、卢瑟线、米尔克曼综合征）。
+
+【实验室检查】
+由于血清25(OH)D水平能反映维生素D的体内储存情况，并且与维生素D缺乏的症状和体征的相关性优于其他维生素D代谢物水平，因此诊断维生素D缺乏的最佳方法通常是测量
+25-羟基维生素D（D2 + D3）水平
+25-羟基维生素D（D2 + D3）水平
+骨健康最大化对应的 25 (OH) D 目标水平为＞20-24 纳克 / 毫升（约 50-60 纳摩尔 / 升）；更高水平是否有其他获益尚不明确，且钙吸收增加可能升高冠状动脉疾病风险。
+如果诊断不明确，可测定血1,25（OH）2D水平和尿钙浓度。当严重缺乏时，血清中1,25-二羟基维生素D水平异常低下，往往测不到。 除与酸中毒有关的钙缺乏症外，所有形式的钙缺乏症中尿钙浓度都是低的。
+维生素D缺乏时，血清钙水平可能降低，也可能因继发性甲状旁腺功能亢进而保持正常水平。 血清磷酸酶通常降低，碱性磷酸酶通常升高。 血清PTH可正常或升高。
+I型遗传性维生素D依赖性佝偻病表现为血清25(OH)D水平正常、血清1,25-二羟基维生素D和钙水平降低、血清磷正常或降低。
+
+【维生素D缺乏症和依赖的治疗】
+纠正钙磷缺乏
+纠正钙磷缺乏
+补充维生素D
+补充维生素D
+钙缺乏（比较常见）和磷缺乏都应该及时纠正。
+只要钙与磷摄入充足，成人骨软化症与无并发症的儿童佝偻病可通过每日口服 1 次维生素 D3 40 微克（1600 国际单位 [IU]）治愈。血清中25-羟基维生素D和1,25-二羟基维生素D的水平在1、2天内便开始升高。 大约在治疗10天左右，血清钙、磷水平升高，碱性磷酸酶水平下降。治疗第3周，X线检查可见骨骼中有足够的钙、磷沉积。大约1个月后，剂量可逐步减少至正常维持水平，即每天15mcg（600IU）。
+如果出现手足抽搐，除了给予维生素D治疗外，还应静脉注射钙剂，持续一周（见低钙血症）。
+一些老年患者可能需要每日服用维生素D3 25~>50 微克（1000至≥2000 IU）以维持25(OH)D水平在>20 纳克 / 毫升（>50 纳摩尔 / 升）以上；此剂量高于70岁以下人群的推荐膳食摄入量（600 IU）或70岁以上人群的推荐膳食摄入量（800 IU）。维生素D的可耐受摄入上限为4,000 U/d。有时会开出更高剂量的维生素D2（例如，每周或每月25,000至50,000 IU）；然而，由于维生素D3比维生素D2效力更强，现在更倾向于使用维生素D3。
+因体内维生素D合成代谢障碍所致的佝偻病和骨质软化症称作维生素D抵抗，给予常规剂量的维生素D治疗没有效果，尽管同样剂量能有效治疗因摄入不足引起的佝偻病。需行内分泌评估，因治疗方案取决于具体的缺陷类型。当 25 (OH) D 合成存在缺陷时，每日 1 次维生素 D3 50 微克（2000 IU）可升高血清水平并改善临床症状。肾脏疾病患者常常需要补充1,25二羟维生素D (骨化三醇）。
+I型先天性维生素D依赖性佝偻病患者，每天口服一次1～2mcg的 1,25(OH)2维生素D有治疗效果。 有些II型先天性维生素D依赖性佝偻病患者对超大剂量（如每天10～24mcg）的 1,25(OH)2维生素D治疗有反应；另一些需要长期补钙。
+
+【维生素D缺乏症和依赖的预防】
+在有维生素D缺乏危险的社区人群中进行饮食咨询非常重要。
+对于英国的印度籍移民，用维生素D（125mcg/kg）强化未经发酵的薄煎饼面粉，结果是有效的。
+日照暴露对维生素D状态的益处，需与皮肤损伤及皮肤癌风险增加进行权衡。
+从出生到六个月，所有母乳喂养的婴儿每天应补充10 mcg（400 IU）维生素D； 在6个月时，可以有更加多样化的饮食。高于RDA剂量的任何益处都是未经证实的。
+美国预防服务工作组认为：目前尚无充分证据评估无症状成人维生素D缺乏筛查的利弊（1）。美国、欧洲及其他国家的内分泌学会已发布临床实践指南，适用于无其他维生素D补充或检测指征的人群。本指南建议不要对18至74岁之间的人群（包括肥胖或皮肤色素沉着的成年人）进行经验性维生素D补充或25（OH）D筛查。维生素 D3 补充剂的推荐膳食摄入量可能对 75 岁以上的人、糖尿病前期高风险人群和孕妇有益，但不需要常规进行 25(OH)D 检测（2）。
+
+【筛查参考文献】
+1.US Preventive Services Task Force, Krist AH, Davidson KW, et al.Screening forVitamin DDeficiency in Adults: US Preventive Services Task Force Recommendation Statement.JAMA.2021;325(14):1436-1442.doi:10.1001/jama.2021.3069
+1.US Preventive Services Task Force, Krist AH, Davidson KW, et al.Screening forVitamin DDeficiency in Adults: US Preventive Services Task Force Recommendation Statement.JAMA.2021;325(14):1436-1442.doi:10.1001/jama.2021.3069
+2.Demay MB, Pittas AG, Bikle DD, et al.Vitamin Dfor the Prevention of Disease: An Endocrine Society Clinical Practice Guideline.J Clin Endocrinol Metab.Published online June 3, 2024.doi:10.1210/clinem/dgae290
+2.Demay MB, Pittas AG, Bikle DD, et al.Vitamin Dfor the Prevention of Disease: An Endocrine Society Clinical Practice Guideline.J Clin Endocrinol Metab.Published online June 3, 2024.doi:10.1210/clinem/dgae290
+维生素D缺乏症是常见病，由于阳光曝露不足和饮食摄入不足引起（通常同时存在），也可能是慢性肾脏疾病的结果。
+维生素D缺乏症是常见病，由于阳光曝露不足和饮食摄入不足引起（通常同时存在），也可能是慢性肾脏疾病的结果。
+缺乏症可导致肌肉疼痛和无力、骨痛以及骨软化症。
+缺乏症可导致肌肉疼痛和无力、骨痛以及骨软化症。
+对于阳光暴露极少且饮食摄入不足、有典型症状和体征（例如，佝偻病、肌肉疼痛、骨痛）或在X线检查中发现骨矿物质减少的患者，应怀疑维生素D缺乏症。
+对于阳光暴露极少且饮食摄入不足、有典型症状和体征（例如，佝偻病、肌肉疼痛、骨痛）或在X线检查中发现骨矿物质减少的患者，应怀疑维生素D缺乏症。
+对于此类患者应该检测25（OH）D的水平（D2+D3)以明确诊断。
+对于此类患者应该检测25（OH）D的水平（D2+D3)以明确诊断。
+治疗方面除了给予维生素D补充，还应该纠正钙和磷的缺乏。
+治疗方面除了给予维生素D补充，还应该纠正钙和磷的缺乏。

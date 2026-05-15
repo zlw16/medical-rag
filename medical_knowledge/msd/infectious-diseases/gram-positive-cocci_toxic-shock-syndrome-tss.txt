@@ -1,0 +1,132 @@
+标题：中毒性休克综合征（TSS）
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-positive-cocci/toxic-shock-syndrome-tss
+============================================================
+
+中毒性休克综合征（TSS）由产外毒素的球菌引起。噬菌体1组Staphylococcus aureus（金黄色葡萄球菌）菌株能产生中毒性休克综合征毒素-1（TSST-1）或有关外毒素，某些Streptococcus pyogenes（化脓性链球菌）产生至少2种毒素。
+
+【葡萄球菌中毒性休克】
+发生葡萄球菌TSS风险最高的 是:
+阴道已存在葡萄球菌定植，并将卫生棉条或其他器具(如月经杯、宫颈帽、宫内节育器、避孕海绵、膈膜、子宫托)留在阴道内的妇女
+阴道已存在葡萄球菌定植，并将卫生棉条或其他器具(如月经杯、宫颈帽、宫内节育器、避孕海绵、膈膜、子宫托)留在阴道内的妇女
+与卫生棉条使用有关的机械或化学因素会增强外毒素的产生，或促进其通过粘膜破裂或子宫进入血液。据估计，健康人群中该病的发病率为每10万人0.03至0.5例；且目前仍有报告显示，不使用卫生棉条的女性、以及分娩、流产或手术后发生感染的患者中，均存在该病病例。由葡萄球菌引起的月经期和非月经期（例如在儿童中）中毒性休克综合征的死亡率已发现低于1%，显著低于链球菌性中毒性休克综合征的死亡率（1）。
+在患有任何类型S. aureus（金黄色葡萄球）菌感染的男性和女性中，也有葡萄球菌中毒性休克综合征的报道。
+使用阴道塞的妇女常在一次发病后的4个月内出现复发 (2)。
+
+【链球菌性中毒性休克】
+链球菌性中毒性休克与Staphylococcus aureus金黄色葡萄球菌引起者表现相似，但病死率更高（20%～60%），即使给予积极治疗。此外，化脓性链球菌菌血症经常存在，50%或以上的病例与深部软组织链球菌感染有关，例如坏死性筋膜炎或丹毒（这两种情况在葡萄球菌中毒性休克综合征中均不常见）（3）。患者常常是相对健康的儿童和成人。
+皮肤和软组织感染比其他部位感染更常见。与葡萄球菌性TSS相比，链球菌性TSS更容易引起急性呼吸窘迫综合征（ARDS），而较少引起典型皮肤反应
+S. pyogenesTSS被定义为与休克或器官衰竭相关的任何A组beta-溶血性链球菌(GABHS)感染
+GABHS TSS高危因素包括:
+轻微外伤
+轻微外伤
+外科手术
+外科手术
+病毒感染（如水痘）
+病毒感染（如水痘）
+使用非甾体类抗炎药(NSAIDs)
+使用非甾体类抗炎药(NSAIDs)
+酒精使用障碍
+酒精使用障碍
+年龄（儿童和老年人）
+年龄（儿童和老年人）
+儿童链球菌中毒性休克综合征的死亡率约为28%（4），在成人中高达45%（3），并且在出现坏死性筋膜炎的患者中死亡率最高。
+
+【参考文献】
+1.Atchade E, De Tymowski C, Grall N, Tanaka S, Montravers P.Toxic Shock Syndrome: A Literature Review.Antibiotics (Basel).2024;13(1):96.Published 2024 Jan 18.doi:10.3390/antibiotics13010096
+1.Atchade E, De Tymowski C, Grall N, Tanaka S, Montravers P.Toxic Shock Syndrome: A Literature Review.Antibiotics (Basel).2024;13(1):96.Published 2024 Jan 18.doi:10.3390/antibiotics13010096
+2.Schlievert PM, Davis CC.Device-associated menstrual toxic shock syndrome.Clin Microbiol Rev.33(3):e00032-19, 2020.doi: 10.1128/CMR.00032-19
+2.Schlievert PM, Davis CC.Device-associated menstrual toxic shock syndrome.Clin Microbiol Rev.33(3):e00032-19, 2020.doi: 10.1128/CMR.00032-19
+3.Stevens DL, Bryant AE.Necrotizing Soft-Tissue Infections.N Engl J Med.2017;377(23):2253-2265.doi:10.1056/NEJMra1600673
+3.Stevens DL, Bryant AE.Necrotizing Soft-Tissue Infections.N Engl J Med.2017;377(23):2253-2265.doi:10.1056/NEJMra1600673
+4.Adalat S, Dawson T, Hackett SJ, Clark JE; In association with the British Paediatric Surveillance Unit.Toxic shock syndrome surveillance in UK children.Arch Dis Child.2014;99(12):1078-1082.doi:10.1136/archdischild-2013-304741
+4.Adalat S, Dawson T, Hackett SJ, Clark JE; In association with the British Paediatric Surveillance Unit.Toxic shock syndrome surveillance in UK children.Arch Dis Child.2014;99(12):1078-1082.doi:10.1136/archdischild-2013-304741
+
+【中毒性休克综合征的症状和体征】
+中毒性休克综合征起病突然，症状包括 (1)：
+发热（39~40.5°C，仍持续升高）
+发热（39~40.5°C，仍持续升高）
+低血压（成人收缩压<90mmHg或儿童低于年龄第五百分位数；可能为顽固性）
+低血压（成人收缩压<90mmHg或儿童低于年龄第五百分位数；可能为顽固性）
+弥漫性斑疹性红皮病（尤其是在发病后1到2周的手掌和脚底）
+弥漫性斑疹性红皮病（尤其是在发病后1到2周的手掌和脚底）
+至少累及3个其他器官系统（例如胃肠道、肌肉、粘膜、肾脏、肝脏、血液系统、中枢神经系统）
+至少累及3个其他器官系统（例如胃肠道、肌肉、粘膜、肾脏、肝脏、血液系统、中枢神经系统）
+葡萄球菌性TSS常引起呕吐、腹泻、肌痛、肌酸激酶升高、黏膜炎、肝损伤、血小板减少和意识模糊。葡萄球菌性TSS皮疹更容易剥脱，尤其是掌跖部位，多在发病3～7天后出现。
+链球菌TSS通常会引起急性呼吸窘迫综合征、凝血功能障碍和肝损伤，且更易导致高热、全身不适、心动过速、呼吸急促以及软组织感染部位的剧烈疼痛（2）。
+肾脏损害在两者中都是常见的。
+虽然较轻的葡萄球菌中毒性休克综合征病例相当常见，但重症TSS可能在48小时内进展为晕厥、组织坏死、休克、弥散性血管内凝血、多器官功能衰竭乃至死亡。
+金黄色葡萄球菌中毒休克综合征引起弥漫性红斑皮疹。 在病程后期，皮疹会脱皮，尤其是手掌和足底。
+
+【症状和体征参考】
+1.Lappin E, Ferguson AJ.Gram-positive toxic shock syndromes.Lancet Infect Dis.2009;9(5):281-290.doi:10.1016/S1473-3099(09)70066-0
+1.Lappin E, Ferguson AJ.Gram-positive toxic shock syndromes.Lancet Infect Dis.2009;9(5):281-290.doi:10.1016/S1473-3099(09)70066-0
+2.Atchade E, De Tymowski C, Grall N, Tanaka S, Montravers P.Toxic Shock Syndrome: A Literature Review.Antibiotics(Basel).2024;13(1):96.doi:10.3390/antibiotics13010096
+2.Atchade E, De Tymowski C, Grall N, Tanaka S, Montravers P.Toxic Shock Syndrome: A Literature Review.Antibiotics(Basel).2024;13(1):96.doi:10.3390/antibiotics13010096
+
+【中毒性休克综合征的诊断】
+主要是病史和体格检查
+主要是病史和体格检查
+有时进行影像学检查（MRI、CT）
+有时进行影像学检查（MRI、CT）
+有时辅助测量抗中毒性休克综合征毒素-1抗体
+有时辅助测量抗中毒性休克综合征毒素-1抗体
+中毒性休克综合征 (TSS) 的诊断通过临床评估和从血培养物（对于Streptococcus（链球菌））或局部部位分离出病原体来确定。
+培养标本应取自病变部位，鼻腔（找葡萄球菌）、咽喉（找链球菌）、阴道（两者同时找）和血。诊断时无需微生物学确认，因为血培养常呈阴性，但从相关部位分离出任何一种病原体均可支持诊断。
+软组织的MRI或CT检查有助于定位感染部位。
+有必要持续监测肾脏、肝脏、骨髓和心肺功能。
+测量感染后血清转化的抗中毒性休克综合征毒素-1抗体水平可能有助于指导疫苗研发工作，并最终防止复发（1）。
+
+【鉴别诊断】
+中毒性休克综合征类似川崎病（黏膜皮肤淋巴结综合征），但川崎病一般发生于<5岁的儿童，不引起休克、氮质血症或血小板减少，皮疹为斑丘疹。
+其他还应考虑鉴别的有猩红热、Reye综合征、葡萄球菌性烫伤皮肤综合征、脑膜炎球菌菌血症、落矶山斑疹热、钩端螺旋体病和病毒性出疹性疾病。这些疾病通过特定的临床差异、培养和血清学试验来排除。
+
+【诊断参考文献】
+1.Weiss S, Holtfreter S, Meyer TC, et al.Toxin exposure and HLA alleles determine serum antibody binding to toxic shock syndrome toxin 1 (TSST-1) ofStaphylococcus aureus.Front Immunol.2023;14:1229562.doi:10.3389/fimmu.2023.1229562
+1.Weiss S, Holtfreter S, Meyer TC, et al.Toxin exposure and HLA alleles determine serum antibody binding to toxic shock syndrome toxin 1 (TSST-1) ofStaphylococcus aureus.Front Immunol.2023;14:1229562.doi:10.3389/fimmu.2023.1229562
+
+【中毒性休克综合征的治疗】
+局部措施（感染部位的去污，包括清创和冲洗）
+局部措施（感染部位的去污，包括清创和冲洗）
+补充液体和循环支持
+补充液体和循环支持
+经验性抗生素治疗（例如，β-内酰胺类或万古霉素、达托霉素或头孢洛林（如果证实或怀疑耐甲氧西林金黄色葡萄球菌）联合蛋白质抑制剂（克林霉素或利奈唑胺），等待培养结果
+经验性抗生素治疗（例如，β-内酰胺类或万古霉素、达托霉素或头孢洛林（如果证实或怀疑耐甲氧西林金黄色葡萄球菌）联合蛋白质抑制剂（克林霉素或利奈唑胺），等待培养结果
+静脉注射免疫球蛋白（IVIG）辅助治疗
+静脉注射免疫球蛋白（IVIG）辅助治疗
+疑诊为中毒性休克综合征的患者应立即住院并强化治疗。应立即取出卫生棉条、隔膜及其他疑似导致感染的异物。
+疑似原发感染部位应当消毒。消毒包括
+手术伤口的复查和冲洗，即使看起来较为正常
+手术伤口的复查和冲洗，即使看起来较为正常
+坏死组织的反复清创
+坏死组织的反复清创
+用生理盐水冲洗潜在的自然定植部位（鼻窦、阴道）
+用生理盐水冲洗潜在的自然定植部位（鼻窦、阴道）
+应补充液体和电解质以防止或治疗低血容量、低血压和休克。由于体液可因全身毛细血管渗漏综合征及低白蛋白血症而向组织间隙丢失，继发的休克可能严重且对治疗反应不佳。有时需大量补充液体和提供循环、呼吸和/或血液透析支持治疗。
+明显的感染应使用抗生素治疗。在培养结果出来之前，应使用克林霉素或利奈唑胺（用于抑制毒素产生），联合万古霉素、达托霉素、利奈唑胺（若已使用克林霉素则选用此药），或头孢洛林；这些抗生素是经验性选择，可覆盖最可能的致病微生物。如果培养分离出病原体，则根据需要调整抗生素，如下所述：
+A组链球菌：采用克林霉素或利奈唑胺联合β-内酰胺类抗生素
+A组链球菌：采用克林霉素或利奈唑胺联合β-内酰胺类抗生素
+对甲氧西林敏感的S. aureus（MSSA）金黄色葡萄球菌：克林霉素加苯唑西林或奈夫西林
+对甲氧西林敏感的S. aureus（MSSA）金黄色葡萄球菌：克林霉素加苯唑西林或奈夫西林
+对于耐甲氧西林Staphylococcus aureus（MRSA）：根据药物敏感性选择万古霉素或达托霉素加克林霉素或利奈唑胺
+对于耐甲氧西林Staphylococcus aureus（MRSA）：根据药物敏感性选择万古霉素或达托霉素加克林霉素或利奈唑胺
+急性疾病使用抗生素可能根除病原体聚集灶并预防复发。静脉注射免疫球蛋白对两种类型中毒性休克综合征的重症病例均有帮助，可通过被动免疫对抗中毒性休克综合征毒素，效果持续数周；但该病可能无法诱导机体产生主动免疫，因此存在复发可能。它可能降低葡萄球菌中毒性休克综合征的死亡率，特别是在与克林霉素联合使用时（1）。
+如果对急性期和恢复期配对血清中TSST-1血清抗体应答的血清转化检测呈阴性，则曾患葡萄球菌中毒性休克综合征的女性可能因与HLA II类基因（2）的关联而具有遗传性更高的TSS风险。此类女性（具有较高遗传风险且血清转化呈阴性）应避免使用卫生棉条、月经杯、宫颈帽、避孕海绵、宫内节育器、隔膜和子宫托。建议所有女性，无论其TSST-1抗体状态如何，均应频繁更换卫生棉条或其他阴道内置入物，或改用卫生巾，并避免使用高吸收性卫生棉条，此举是审慎的。
+对于金黄色葡萄球菌鼻腔携带的情况，可局部使用莫匹罗星。对于鼻外定植的情况，需要额外使用氯己定抗菌剂洗浴1周。
+
+【治疗参考文献】
+1.Parks T, Wilson C, Curtis N, Norrby-Teglund A, Sriskandan S.Polyspecific Intravenous Immunoglobulin inClindamycin-treated Patients With Streptococcal Toxic Shock Syndrome: A Systematic Review and Meta-analysis.Clin Infect Dis.2018;67(9):1434-1436.doi:10.1093/cid/ciy401
+1.Parks T, Wilson C, Curtis N, Norrby-Teglund A, Sriskandan S.Polyspecific Intravenous Immunoglobulin inClindamycin-treated Patients With Streptococcal Toxic Shock Syndrome: A Systematic Review and Meta-analysis.Clin Infect Dis.2018;67(9):1434-1436.doi:10.1093/cid/ciy401
+2.Weiss S, Holtfreter S, Meyer TC, et al.Toxin exposure and HLA alleles determine serum antibody binding to toxic shock syndrome toxin 1 (TSST-1) ofStaphylococcus aureus.Front Immunol.2023;14:1229562.doi:10.3389/fimmu.2023.1229562
+2.Weiss S, Holtfreter S, Meyer TC, et al.Toxin exposure and HLA alleles determine serum antibody binding to toxic shock syndrome toxin 1 (TSST-1) ofStaphylococcus aureus.Front Immunol.2023;14:1229562.doi:10.3389/fimmu.2023.1229562
+中毒性休克综合征（TSS）是由产生外毒素的Staphylococcus aureus（金黄色葡萄球菌）和Streptococcus pyogenes（化脓性链球菌）引起的。
+中毒性休克综合征（TSS）是由产生外毒素的Staphylococcus aureus（金黄色葡萄球菌）和Streptococcus pyogenes（化脓性链球菌）引起的。
+虽然该病被经典的描述为随卫生棉的使用而出现，但TSS可发生于许多金黄色葡萄球菌或链球菌软组织感染之后。
+虽然该病被经典的描述为随卫生棉的使用而出现，但TSS可发生于许多金黄色葡萄球菌或链球菌软组织感染之后。
+发病突然；症状包括高热，低血压（可为难治性），弥漫性红斑皮疹和多器官功能障碍。
+发病突然；症状包括高热，低血压（可为难治性），弥漫性红斑皮疹和多器官功能障碍。
+提供积极的支持治疗，以及消毒和/或清除感染源。
+提供积极的支持治疗，以及消毒和/或清除感染源。
+给予抗生素（例如，β-内酰胺类、万古霉素、达托霉素，若确诊或疑似耐甲氧西林金黄色葡萄球菌感染则使用头孢洛林）联合克林霉素或利奈唑胺，等待培养和药敏试验结果。
+给予抗生素（例如，β-内酰胺类、万古霉素、达托霉素，若确诊或疑似耐甲氧西林金黄色葡萄球菌感染则使用头孢洛林）联合克林霉素或利奈唑胺，等待培养和药敏试验结果。
+如果TSS病情严重，给予静注免疫球蛋白治疗。
+如果TSS病情严重，给予静注免疫球蛋白治疗。

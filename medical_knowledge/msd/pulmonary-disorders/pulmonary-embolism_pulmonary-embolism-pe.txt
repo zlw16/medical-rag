@@ -1,0 +1,656 @@
+标题：肺栓塞（PE）
+来源：https://www.msdmanuals.cn/professional/pulmonary-disorders/pulmonary-embolism/pulmonary-embolism-pe
+============================================================
+
+据估计，全世界肺栓塞的年发病率约为千分之一（1)。高达20%的急性PE患者在未来90天内死亡（2）。然而，死亡原因通常不是肺栓塞本身，而是增加患者肺栓塞风险的潜在疾病。30% 至 50% 的肺栓塞患者在事件发生后长达一年内仍诉有功能及运动受限，这被称为肺栓塞后综合征(3)。
+
+【参考文献】
+1.Kahn SR, de Wit K.Pulmonary Embolism.N Engl J Med2022;387(1):45-57.doi:10.1056/NEJMcp2116489
+1.Kahn SR, de Wit K.Pulmonary Embolism.N Engl J Med2022;387(1):45-57.doi:10.1056/NEJMcp2116489
+2.Lehnert P, Lange T, Møller CH, Olsen PS, Carlsen J.Acute Pulmonary Embolism in a National Danish Cohort: Increasing Incidence and Decreasing Mortality.Thromb Haemost2018;118(3):539-546.doi:10.1160/TH17-08-0531
+2.Lehnert P, Lange T, Møller CH, Olsen PS, Carlsen J.Acute Pulmonary Embolism in a National Danish Cohort: Increasing Incidence and Decreasing Mortality.Thromb Haemost2018;118(3):539-546.doi:10.1160/TH17-08-0531
+3.Kahn SR, Hirsch AM, Akaberi A, et al.Functional and Exercise Limitations After a First Episode of Pulmonary Embolism: Results of the ELOPE Prospective Cohort Study.Chest2017;151(5):1058-1068.doi:10.1016/j.chest.2016.11.030
+3.Kahn SR, Hirsch AM, Akaberi A, et al.Functional and Exercise Limitations After a First Episode of Pulmonary Embolism: Results of the ELOPE Prospective Cohort Study.Chest2017;151(5):1058-1068.doi:10.1016/j.chest.2016.11.030
+
+【肺栓塞的病因】
+几乎所有的肺栓子均起源于腿部或盆腔静脉的血栓（深静脉血栓形成）。 血栓到达腘静脉或以上时，栓塞的风险更高。 血栓栓子也可产生于手臂静脉或或胸部中央静脉（与中心静脉导管相关或源自胸腔出口综合征）。
+肺栓塞可由非血栓来源引起（如空气、羊水、脂肪、感染物质、骨科水泥、异物、肿瘤的栓塞）。
+深静脉血栓和肺栓塞的危险因素(见表深静脉血栓和肺栓塞的危险因素)在儿童和成人相似的，包括
+影响静脉回流的状况，包括卧床休息和限制活动（如产后不活动）
+影响静脉回流的状况，包括卧床休息和限制活动（如产后不活动）
+导致内皮损伤或功能障碍的疾病，例如创伤或手术
+导致内皮损伤或功能障碍的疾病，例如创伤或手术
+潜在的高凝（易血栓）疾病，如癌症或原发性凝血障碍
+潜在的高凝（易血栓）疾病，如癌症或原发性凝血障碍
+COVID-19似乎是深静脉血栓形成和肺栓塞的危险因素，因为高凝状态会导致大血管血栓形成和血栓栓塞（1）。
+
+【深静脉血栓和肺栓塞的危险因素】
+深静脉血栓和肺栓塞的危险因素
+年龄>60岁
+癌症和骨髓增生性肿瘤
+某些化疗试剂（如贝伐单抗， 沙利度胺）
+激素调制
+雌激素受体调节剂（例如，雷洛昔芬、他莫昔芬）
+雌激素受体调节剂（例如，雷洛昔芬、他莫昔芬）
+外源性雌激素或孕激素，包括口服避孕药和雌激素治疗
+外源性雌激素或孕激素，包括口服避孕药和雌激素治疗
+外源性睾酮
+外源性睾酮
+心力衰竭
+固定/减少活动（如长时间乘车，空中旅行）
+留置静脉导管
+感染（即作为不动和全身炎症反应的原因；SARS-CoV-2似乎特别容易形成血栓）
+肾病综合征
+妊娠/分娩后
+既往血栓栓塞
+镰状细胞性贫血
+血栓性疾病（血栓形成倾向）
+抗磷脂抗体综合征
+抗磷脂抗体综合征
+抗凝血酶缺乏症
+抗凝血酶缺乏症
+Ⅴ因子Leiden突变（活化蛋白C抵抗）
+Ⅴ因子Leiden突变（活化蛋白C抵抗）
+肝素诱发的血小板减少症和血栓形成
+肝素诱发的血小板减少症和血栓形成
+遗传性纤溶障碍
+遗传性纤溶障碍
+高半胱氨酸血症
+高半胱氨酸血症
+Ⅷ因子水平增加
+Ⅷ因子水平增加
+XI因子水平增加
+XI因子水平增加
+血管性血友病因子水平升高
+血管性血友病因子水平升高
+阵发性睡眠性血红蛋白尿
+阵发性睡眠性血红蛋白尿
+蛋白C缺乏
+蛋白C缺乏
+蛋白S缺乏
+蛋白S缺乏
+凝血酶原G20210A基因变异
+凝血酶原G20210A基因变异
+组织因子途径抑制剂的缺乏或功能失调
+组织因子途径抑制剂的缺乏或功能失调
+创伤/手术
+其他相关因素包括行动不便，静脉损伤，血液高凝状态
+
+【病因参考文献】
+1.Poor HD.Pulmonary Thrombosis and Thromboembolism in COVID-19.Chest2021;160(4):1471-1480.doi:10.1016/j.chest.2021.06.016
+1.Poor HD.Pulmonary Thrombosis and Thromboembolism in COVID-19.Chest2021;160(4):1471-1480.doi:10.1016/j.chest.2021.06.016
+
+【肺栓塞的病理生理学】
+若深静脉血栓形成，血凝块会移动，经静脉系统和右心到达肺动脉，引起一支或多支血管部分或全部阻塞。其后果取决于栓子的大小和数量、肺的基础状况、右心室功能是否良好以及机体固有的溶栓系统溶解血凝块的能力。当死亡确实发生时，通常是由于右心室衰竭。
+小栓子可能不产生急性生理学效应，同时可能形成即开始溶解，在数小时或数天内消失。较大的栓子可能导致
+反射性通气增加（呼吸急促）
+反射性通气增加（呼吸急促）
+通气/灌注（V/Q）不匹配导致低氧血症
+通气/灌注（V/Q）不匹配导致低氧血症
+心输出量低导致混合静脉血氧含量低
+心输出量低导致混合静脉血氧含量低
+肺不张是由于肺泡低碳酸血症和表面活性物质异常
+肺不张是由于肺泡低碳酸血症和表面活性物质异常
+机械阻塞和血管收缩引起肺血管阻力增加，导致心动过速和低血压
+机械阻塞和血管收缩引起肺血管阻力增加，导致心动过速和低血压
+内源性溶栓作用可使大多数栓子缩小，即使是中等大小的栓子，其生理改变也会在数小时或数天内减轻。一些栓子抵抗溶解，可能会组织和持续存在，有时会导致慢性血栓栓塞性肺动脉高压(CTEPH)。
+根据欧洲心脏病学会/美国心脏协会（1) 描述的生理效应，肺栓塞可分为以下几类：
+高风险（严重）：右心室功能受损导致低血压，定义为收缩压 < 90 mmHg 或收缩压从基线下降 ≥ 40 mmHg 持续 15 分钟
+高风险（严重）：右心室功能受损导致低血压，定义为收缩压 < 90 mmHg 或收缩压从基线下降 ≥ 40 mmHg 持续 15 分钟
+中度风险（亚危）：右心室功能受损，但不伴有低血压。这可以通过右心室扩大和/或影像学（例如 CT 血管造影、超声心动图）显示运动功能减退以及循环生物标志物（例如肌钙蛋白、脑钠尿肽）的增加来证明。注意，欧洲心脏病学会也将中度危险肺栓塞定义为肺栓塞严重程度指数（sPESI）为> 0的患者，因此包括有其他疾病或发现的患者，如年龄> 80岁、癌症史、慢性肺部疾病、心动过速（心率> 110）、低血压（收缩压< 100 mmHg）和低氧血症（动脉氧合血红蛋白饱和度< 90%）。 (1,2)。中危肺栓塞可进一步分为中高危（影像学检查和循环生物标志物升高显示右心室功能不全）与中低危（影像学检查或循环生物标志物升高显示右心室功能不全）。
+中度风险（亚危）：右心室功能受损，但不伴有低血压。这可以通过右心室扩大和/或影像学（例如 CT 血管造影、超声心动图）显示运动功能减退以及循环生物标志物（例如肌钙蛋白、脑钠尿肽）的增加来证明。注意，欧洲心脏病学会也将中度危险肺栓塞定义为肺栓塞严重程度指数（sPESI）为> 0的患者，因此包括有其他疾病或发现的患者，如年龄> 80岁、癌症史、慢性肺部疾病、心动过速（心率> 110）、低血压（收缩压< 100 mmHg）和低氧血症（动脉氧合血红蛋白饱和度< 90%）。 (1,2)。中危肺栓塞可进一步分为中高危（影像学检查和循环生物标志物升高显示右心室功能不全）与中低危（影像学检查或循环生物标志物升高显示右心室功能不全）。
+低风险：没有右心室功能障碍和没有低血压（根据欧洲心脏病学会，sPESI评分 = 0）
+低风险：没有右心室功能障碍和没有低血压（根据欧洲心脏病学会，sPESI评分 = 0）
+骑跨型肺栓塞描述的是栓子位于主肺动脉分叉处，并延伸至左右肺动脉；骑跨型栓子通常（但并非总是）属于中危或高危。鞍座结构并不决定特定的治疗方法。虽然骑跨型栓子通常体积较大，会造成近乎完全或完全的阻塞，但它们也可能相对较薄且不造成梗阻。
+在1 - 3%的肺栓塞病例中，慢性残留阻塞导致肺动脉高压（慢性血栓栓塞性肺动脉高压），持续数月至数年，并可导致慢性右心衰(3)。
+当一个大栓子急性阻塞肺动脉，或者当许多小栓子合并阻塞大部分远端血管时，右心室压力增加，这可能导致急性右心室衰竭、休克或猝死。死亡的危险性与右室压力升高的程度和速度以及病人的基础心肺功能状态有关。有心肺基础疾病的患者死亡风险更高，但年轻和/或原本健康的患者，即使肺栓塞阻塞了>50%的肺血管床，也可能存活。
+由于 PE 引起的肺梗塞有时在胸片或其他影像学检查中表现为以胸膜为基础的楔形影。肺梗死发生率低是因为肺有双重血供（即支气管动脉和肺动脉）。一般来说，肺梗死是由于较小的栓子堵塞更远端的肺动脉所致，且几乎总是完全可逆的；肺梗死通常能早期发现，常在坏死发生之前。
+
+【病理生理学参考文献】
+1.Konstantinides SV, Meyer G, Becattini C, et al: 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS).Eur Heart J2020;41(4):543-603.doi:10.1093/eurheartj/ehz405
+1.Konstantinides SV, Meyer G, Becattini C, et al: 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS).Eur Heart J2020;41(4):543-603.doi:10.1093/eurheartj/ehz405
+2.Jiménez D, Aujesky D, Moores L, et al: Simplification of the pulmonary embolism severity index for prognostication in patients with acute symptomatic pulmonary embolism.Arch Intern Med2010;170(15):1383-1389.doi:10.1001/archinternmed.2010.199
+2.Jiménez D, Aujesky D, Moores L, et al: Simplification of the pulmonary embolism severity index for prognostication in patients with acute symptomatic pulmonary embolism.Arch Intern Med2010;170(15):1383-1389.doi:10.1001/archinternmed.2010.199
+3.Ende-Verhaar YM, Cannegieter SC, Vonk Noordegraaf A, et al: Incidence of chronic thromboembolic pulmonary hypertension after acute pulmonary embolism: a contemporary view of the published literature.Eur Respir J2017;49(2):1601792.doi:10.1183/13993003.01792-2016
+3.Ende-Verhaar YM, Cannegieter SC, Vonk Noordegraaf A, et al: Incidence of chronic thromboembolic pulmonary hypertension after acute pulmonary embolism: a contemporary view of the published literature.Eur Respir J2017;49(2):1601792.doi:10.1183/13993003.01792-2016
+
+【肺栓塞的症状和体征】
+许多肺栓子较小，不会产生生理性影响，无症状。即使出现症状，也为非特异性，症状出现的频率及强度因肺血管阻塞的程度和基础心肺功能而异。
+栓子常引起
+急性呼吸困难
+急性呼吸困难
+胸膜炎性胸痛（有肺梗塞时）
+胸膜炎性胸痛（有肺梗塞时）
+呼吸困难休息时不明显，活动期间可加重。
+较少见的症状包括
+咳嗽（通常由合并症或肺动脉扩张引起）
+咳嗽（通常由合并症或肺动脉扩张引起）
+咯血（偶尔发生于肺梗塞时）
+咯血（偶尔发生于肺梗塞时）
+在高龄患者，可能以精神状态改变为首发症状。
+大面积肺栓塞可能出现低血压、心动过速、轻度头痛/晕厥前状态，晕厥或心搏骤停。
+肺栓塞最常见的症状是
+心动过速
+心动过速
+呼吸急促
+呼吸急促
+较少见的是患者有低血压。
+由于肺动脉压力仅轻度升高，在急性肺栓塞中可能出现响亮的肺动脉瓣成分（P2）导致第二心音（S2）增强，但并不常见。可能会出现爆裂音或哮鸣音，但这些声音通常由合并症引起。在右心室衰竭时，颈内静脉怒张和右室抬举可能明显，并且无论有无三尖瓣返流都可以听到右室奔马律（第三心音[S3]）。
+发热（若存在）通常为低热，除非由基础疾病引起。
+肺梗死时主要表现为胸痛（主要是胸膜性疼痛），偶尔出现咯血。胸壁可能疼痛。
+慢性血栓栓塞性肺动脉高压会引起右心衰竭的症状和体征，包括劳力性呼吸困难、易疲劳以及历时数月到数年逐渐出现的外周水肿。
+急性肺栓塞患者也可能出现深静脉血栓形成的症状（即腿部或手臂的疼痛、肿胀和/或红斑）。但是这样的症状往往不存在。
+
+【肺栓塞的诊断】
+高度可疑
+高度可疑
+评估可能性（根据临床表现，包括脉氧测定和胸部X片）
+评估可能性（根据临床表现，包括脉氧测定和胸部X片）
+根据以上评估结果行进一步检查
+根据以上评估结果行进一步检查
+诊断肺栓塞并非易事，因其症状和体征均不特异，且诊断方法没有100%敏感性和特异性。 当遇到呼吸困难、胸膜性胸痛、咯血、头晕或晕厥等非特异性症状时，将肺栓塞纳入鉴别诊断非常重要。因此，对于疑似患有以下疾病的患者，在鉴别诊断时应考虑肺栓塞：
+心肌缺血
+心肌缺血
+心脏衰竭
+心脏衰竭
+慢性阻塞性肺疾病（COPD）急性加重
+慢性阻塞性肺疾病（COPD）急性加重
+急性胸部综合征（见于镰状细胞病患者）
+急性胸部综合征（见于镰状细胞病患者）
+急性焦虑伴过度通气
+急性焦虑伴过度通气
+原因不明性心动过速可能是一个线索。对于任何出现呼吸急促和精神状态改变的年长患者，也应考虑肺栓塞。
+最初评估要包括脉氧和胸片。心电图（ECG），动脉血气（ABG）检测，或两者可有助于排除其他诊断（例如，急性心肌梗塞）。
+胸部X光通常是非特异性的，但可表现为肺不张，局灶性浸润，偏侧膈肌升高或胸腔积液。局部肺血管纹理减少（韦斯特马克征）、胸膜起源的外周楔形高密度影（汉普顿驼峰）或右下肺动脉扩张等经典表现具有提示意义但不常见（即不敏感），且特异性低。胸部X光检查也可有助于排除肺炎。肺栓塞所致肺梗死可能被误诊为肺炎。
+脉搏血氧测定可快速评估氧合情况；低氧血症是肺栓塞的一个体征，需要进一步评估。对于有呼吸困难或呼吸急促，但脉搏血氧测定未发现低氧血症的患者，应考虑进行血气分析。动脉血气分析表现为肺泡-动脉血氧（A-a）分压差（有时称为A-a梯度）增加或低碳酸血症。脉搏血氧饱和度和血气检测对肺栓塞具有中等敏感性，但均不具有特异性。由于血栓负荷小或代偿性过度通气，血氧饱和度可能正常；通过动脉血气测量检测到非常低的二氧化碳分压 (PCO2) 可以确认过度通气。
+心电图最常见心动过速、不同的ST-T异常，但并非PE的特异性表现（见图一例肺动脉栓塞的ECG表现）。S1Q3T3（1导联S波、3导联Q波、3导联倒T波）或新出现的右束支传导阻滞可提示右室大小急剧升高对右室传导的影响；这些表现为中等特异性，但不敏感，仅发生于约5%的病人，尽管在大面积PE患者中出现的比例更高。可出现电轴右偏（R>SV1）和肺性P波。V1~V4导联也可发生T波倒置。
+
+【一例肺栓塞的心电图表现】
+一例肺栓塞的心电图表现
+心电图显示窦性心动过速，心率110次/分；在确诊的急性肺栓塞患者中可见S1Q3T3波形和V1导联R波=S波。
+
+【临床可能性】
+心电图和胸部X线所见结合病史和体格检查即可评估肺栓塞的临床可能性。临床预测分数，如Wells评分，或经修订的日内瓦评分 (1)，或肺栓塞排除标准（PERC）规则，可帮助临床医师评估急性肺栓塞存在的机率。这些预测评分系统包括了各种临床因素，结合起来根据评分判断PE概率（事前概率）。例如，Wells评分结果分为有可能或不太可能的PE。临床概率评分在急诊就诊患者中研究最为充分，而对于已住院患者则不然。
+一个重要的临床标准是判断PE是否比其他诊断更有可能，而这个判断有些主观。但经验丰富的临床医生的临床判断可以与格式化的预测评分结果同样敏感，甚至更敏感。如果患者出现一种或多种症状和体征（特别是呼吸困难、咯血、心动过速或低氧血症），且无法通过临床或胸部X线检查结果解释，则更应考虑肺栓塞的可能性。
+检查前的概率估计可以指导下一步检查策略和对检查结果的分析。对于不太可能发生PE的患者不需要或只需要最低限度的附加检查（例如，门诊D二聚体检查）。在这种情况下，D-二聚体检测阴性（<0.4 mcg/mL [<2.2 nmol/L]）高度提示不存在肺栓塞。相反，如果临床高度怀疑肺栓塞且出血风险低，则在通过其他检查确诊的同时，应考虑立即开始抗凝治疗。
+PERC规则指定8个标准。根据临床发现，患者处于低风险的情况下，则不需要进行 PE 检测（2）。这些标准是：
+年龄小于50岁
+年龄小于50岁
+心率<100
+心率<100
+血氧饱和度≥95%
+血氧饱和度≥95%
+先前无深静脉血栓形成和肺栓塞
+先前无深静脉血栓形成和肺栓塞
+无单侧下肢肿胀
+无单侧下肢肿胀
+未使用雌激素
+未使用雌激素
+过去4周内无手术或创伤需要住院治疗
+过去4周内无手术或创伤需要住院治疗
+推荐使用PERC规则作为降低PE检测率的方法，与采用D-二聚体的传统检测手段相比，敏感性和阴性预测值相似。
+
+【诊断性检查】
+如果测试前的概率低或中等，则对门诊患者进行D-二聚体检测筛查
+如果测试前的概率低或中等，则对门诊患者进行D-二聚体检测筛查
+如果预检概率高或D-二聚体结果升高，则进行CT血管造影；如果存在肾功能不全或CT造影禁忌，则进行通气/灌注 (V/Q) 扫描
+如果预检概率高或D-二聚体结果升高，则进行CT血管造影；如果存在肾功能不全或CT造影禁忌，则进行通气/灌注 (V/Q) 扫描
+有时对腿或手臂进行超声检查（在肺影像检查被动延迟或无法进行时用于确认深静脉血栓形成）
+有时对腿或手臂进行超声检查（在肺影像检查被动延迟或无法进行时用于确认深静脉血栓形成）
+目前尚无针对疑似急性肺栓塞的普遍认可的检查方案。对于诊断或排除PE最有用的检查是：
+D-二聚体检测
+D-二聚体检测
+CT血管成像
+CT血管成像
+通气/灌注扫描
+通气/灌注扫描
+多普勒超声
+多普勒超声
+超声心动图可能有助于识别通向肺部的栓塞（在途中凝结）或寻找新的右心室功能障碍的证据。可能提示肺栓塞的超声心动图检查结果包括60/60征和麦康奈尔征，前者是肺动脉加速时间＜60毫秒，收缩三尖瓣峰值梯度＜60毫米汞柱的组合（3），后者是RV游离壁与RV心尖相比收缩力下降（4）。
+D-二聚体是内源性纤溶过程的副产物，其水平升高提示近期有血栓形成。从历史上看，当预检概率被认为低或中等时，阴性D-二聚体水平（<0.4 mcg/mL [<2.2 nmol/L]）对于排除PE具有高度敏感性，阴性预测值> 95% (5)；在大多数情况下，该结果足以在急诊科或门诊可靠地排除PE诊断。最近的数据显示，年龄会升高D-二聚体水平，从而导致假阳性检测结果。因此，对于PE预检概率低或中等且年龄超过50岁的患者，最常见的校正方法是使用年龄（岁）乘以10（单位：ng/mL）作为临界值。然而，D-二聚体水平升高并不是静脉血栓所特有的，因为许多没有深静脉血栓 (DVT) 或 PE 的患者的水平也升高（特别是住院患者）。因此，当D-二聚体水平升高或PE的预检概率高时，需要进行进一步检查。
+CT血管造影是用于诊断急性肺栓塞的首选成像技术。它快速、准确，且敏感性和特异性高。 它也可以提供有关其他肺部疾病的详细信息（如证实为肺炎，而不是PE引起的缺氧或胸膜炎性胸痛）以及PE的严重程度(例如右心室的大小或肝静脉回流情况)。尽管由于运动伪影或造影剂推注不良导致的扫描质量较差会限制检查的灵敏度，但 CT 技术现在允许的采集时间为<2 秒，为呼吸困难患者提供相对无运动的图像。扫描时间迅速，允许使用小剂量碘造影剂，减少了急性肾损伤的风险。
+图像显示胸部 CT 血管造影显示双侧肺栓塞。箭头指向充盈缺陷（栓子）。
+Image courtesy of Victor F.Tapson, MD.
+CT血管造影对肺栓塞在主肺动脉及肺叶和节段血管的敏感性最高。CT血管造影的敏感性在亚段血管栓子最低（约占所有肺栓塞的30％）。然而，如果没有禁忌症，CT血管造影术仍然是诊断急性PE的首选方法。
+通气/灌注 (V/Q) 扫描在肺栓塞中检测通气但未灌注的肺区域。 V/Q扫描比CT血管造影耗时长得多，而且特异性较差。然而，当胸部X线检查结果正常或接近正常，且无显著潜在肺部疾病时，这是一项高度敏感的检查。当肾功能不全无法使用 CT 血管造影所需的造影剂时，V/Q 扫描特别有用，在孕妇中也是如此 (6)。在某些医院中，可以使用便携式仪器完成V/Q扫描，该设备可以提供3个通气和灌注的视图，这对于无法移动的重病患者非常有用。 灌注缺失也可发生于其他多种肺部疾病，（如，COPD、肺纤维化、肺炎及胸腔积液）肺血管炎、肺静脉闭塞性疾病和结节病也可能出现类似PE的不匹配灌注缺损。
+结果基于 V/Q 不匹配的模式，并报告为肺栓塞的正常、低概率、中等概率或高概率。
+检测前肺栓塞的临床概率必须与V/Q扫描结果一起使用，以确定是否需要治疗或进一步检测（7）。
+
+【肺栓塞（通气-灌注扫描）】
+肺栓塞（通气-灌注扫描）
+通气-灌注扫描显示急性肺栓塞的可能性很高。通气相对不受影响，而灌注图像显示大的缺陷，特别是在左肺。
+Image courtesy of Victor F.Tapson, MD.
+多普勒超声对于发现腿和手臂血栓来说是一种安全、无创、便携式检查。确定静脉不可压缩、多普勒证实血流减少，可发现存在凝块。该检查对血栓的敏感性>95%，特异性>95% (8)。确认小腿或髂静脉的深静脉血栓可能更困难，但通常可以完成。超声技术人员应该尽量扫描腘静脉以下到其三根分叉部。
+腿部静脉未发现血栓并不排除血栓来自其他部位的可能性，例如上肢或盆腔血管系统，但疑似DVT且多普勒超声结果阴性的患者，其>95%无事件生存率，因为来自其他部位的血栓要少见得多。
+虽然上下肢超声不能直接诊断PE，但若检查发现腿部或腋-锁骨下血栓，则表明需要抗凝治疗，并且可能无需进一步的诊断性检查，除非考虑进行更积极的治疗（例如，溶栓治疗）。 因此，对于有CT造影禁忌且V/Q扫描预期特异性低的病情稳定的患者（例如胸部X线片异常的患者）在上下肢超声检查DVT之后，停止进一步诊断评估最为合适。对于疑似急性PE的患者，超声结果阴性并不能排除进一步检查的必要。
+
+【经验与提示】
+经验与提示
+在疑似急性肺栓塞时，超声检查未发现静脉血栓不能排除肺栓塞。
+在疑似急性肺栓塞时，超声检查未发现静脉血栓不能排除肺栓塞。
+超声心动图可能显示右心房或心室有血栓，但超声心动图最常用于急性肺栓塞的风险分层。右心室扩张和运动功能减退的存在可能提示需要更积极的治疗。
+心脏生物标志物检查是急性肺栓塞患者死亡风险分层的有效手段。如果怀疑或证实PE，心脏生物标志物检测可作为其他检测的辅助手段。肌钙蛋白水平升高提示右室（有时左室）缺血。脑利钠肽及前利钠肽水平升高提示右室功能不全；但二者对于右室功能障碍或PE的特异性不高。
+血栓性疾病（血栓形成倾向）检测不应常规进行。应考虑对无诱因的 PE 患者（即没有已知的危险因素或原因）进行检测，特别是如果他们较年轻（年龄 < 60 岁）、患有复发性 PE 或有阳性家族史。某些血栓形成症，例如抗磷脂综合征, 需要针对特定疾病类型进行抗凝治疗。
+肺动脉造影很少用于诊断急性PE，因为无创CT血管造影也有类似的敏感性和特异性。但是，在使用导管溶栓治疗的患者中，肺血管造影有助于评估导管放置的位置，并可在导管移除时作为快速判断手术成功与否的手段。肺动脉造影也用于联合右心脏导管检查评估慢性血栓栓塞性肺动脉高压患者是否需要进行肺动脉内膜切除术。
+
+【诊断参考】
+1.Le Gal G, Righini M, Roy PM, et al: Prediction of pulmonary embolism in the emergency department: the revised Geneva score.Ann Intern Med144:165–171, 2006.
+1.Le Gal G, Righini M, Roy PM, et al: Prediction of pulmonary embolism in the emergency department: the revised Geneva score.Ann Intern Med144:165–171, 2006.
+2.Kline JA, Courtney DM, Kabrhel C, et al.Prospective multicenter evaluation of the pulmonary embolism rule-out criteria.J Thromb Haemost6(5):772-780, 2008.doi:10.1111/j.1538-7836.2008.02944.x
+2.Kline JA, Courtney DM, Kabrhel C, et al.Prospective multicenter evaluation of the pulmonary embolism rule-out criteria.J Thromb Haemost6(5):772-780, 2008.doi:10.1111/j.1538-7836.2008.02944.x
+3.Kurzyna M, Torbicki A, Pruszczyk P, et al: Disturbed right ventricular ejection pattern as a new Doppler echocardiographic sign of acute pulmonary embolism.Am J Cardiol90(5):507–511, 2002.doi:10.1016/s0002-9149(02)02523-7
+3.Kurzyna M, Torbicki A, Pruszczyk P, et al: Disturbed right ventricular ejection pattern as a new Doppler echocardiographic sign of acute pulmonary embolism.Am J Cardiol90(5):507–511, 2002.doi:10.1016/s0002-9149(02)02523-7
+4.McConnell MV, Solomon SD, Rayan ME, et al: Regional right ventricular dysfunction detected by echocardiography in acute pulmonary embolism.Am J Cardiol78(4):469–473, 1996.doi:10.1016/s0002-9149(96)00339-6
+4.McConnell MV, Solomon SD, Rayan ME, et al: Regional right ventricular dysfunction detected by echocardiography in acute pulmonary embolism.Am J Cardiol78(4):469–473, 1996.doi:10.1016/s0002-9149(96)00339-6
+5.Bass AR, Fields KG, Goto R, Turissini G, Dey S, Russell LA: Clinical Decision Rules for Pulmonary Embolism in Hospitalized Patients: A Systematic Literature Review and Meta-analysis.Thromb Haemost2017;117(11):2176-2185.doi:10.1160/TH17-06-0395
+5.Bass AR, Fields KG, Goto R, Turissini G, Dey S, Russell LA: Clinical Decision Rules for Pulmonary Embolism in Hospitalized Patients: A Systematic Literature Review and Meta-analysis.Thromb Haemost2017;117(11):2176-2185.doi:10.1160/TH17-06-0395
+6.Leung AN, Bull TM, Jaeschke R, et al: SI An official American Thoracic Society/Society of Thoracic Radiology clinical practice guideline: evaluation of suspected pulmonary embolism in pregnancy.Am J Respir Crit Care Med2011;184(10):1200-1208.doi:10.1164/rccm.201108-1575ST
+6.Leung AN, Bull TM, Jaeschke R, et al: SI An official American Thoracic Society/Society of Thoracic Radiology clinical practice guideline: evaluation of suspected pulmonary embolism in pregnancy.Am J Respir Crit Care Med2011;184(10):1200-1208.doi:10.1164/rccm.201108-1575ST
+7.PIOPED Investigators: Value of the ventilation/perfusion scan in acute pulmonary embolism.Results of the prospective investigation of pulmonary embolism diagnosis (PIOPED).JAMA263(20):2753–2759, 1990.doi:10.1001/jama.1990.03440200057023
+7.PIOPED Investigators: Value of the ventilation/perfusion scan in acute pulmonary embolism.Results of the prospective investigation of pulmonary embolism diagnosis (PIOPED).JAMA263(20):2753–2759, 1990.doi:10.1001/jama.1990.03440200057023
+8.Habscheid W, Höhmann M, Wilhelm T, Epping J: Real-time ultrasound in the diagnosis of acute deep venous thrombosis of the lower extremity.Angiology41(8):599–608, 1990.doi:10.1177/000331979004100803
+8.Habscheid W, Höhmann M, Wilhelm T, Epping J: Real-time ultrasound in the diagnosis of acute deep venous thrombosis of the lower extremity.Angiology41(8):599–608, 1990.doi:10.1177/000331979004100803
+
+【肺栓塞的一般治疗】
+支持性治疗
+支持性治疗
+植入下腔静脉滤器（很少，在特定患者中）
+植入下腔静脉滤器（很少，在特定患者中）
+通过溶栓或取栓术快速减少血栓负荷（在选定的患者中）
+通过溶栓或取栓术快速减少血栓负荷（在选定的患者中）
+快速评估用于需要支持疗法的患者。患者低氧血症，应给予氧气。对于因大面积肺栓塞引起低血压的患者，应静脉推注液体，并密切关注效果和容量状态。需要小心，因为右心室超负荷可能导致病情恶化。如果静脉输液不能充分提高血压时应使用升压药。去甲肾上腺素是最常用的一线药物。根据右心室功能情况，也应考虑使用多巴酚丁胺和米力农等正性肌力药物。
+一般而言，
+低风险患者应单独接受抗凝治疗
+低风险患者应单独接受抗凝治疗
+高危患者需要抗凝治疗外加其他措施，如全身溶栓或手术或导管定向治疗。
+高危患者需要抗凝治疗外加其他措施，如全身溶栓或手术或导管定向治疗。
+对于中危（高风险或低风险亚组）患者，治疗决策更为复杂。中低风险患者最常单独接受抗凝治疗。然而，中等风险类别的患者需要对整个临床情况进行重复评估以发现任何临床恶化，包括
+生命体征恶化
+生命体征恶化
+超声心动图显示右室功能障碍的严重程度
+超声心动图显示右室功能障碍的严重程度
+需要的氧气量和血管加压剂的需求
+需要的氧气量和血管加压剂的需求
+血凝块负荷和位置
+血凝块负荷和位置
+抗凝是治疗PE的主要手段。快速减少血栓负荷溶栓治疗或血栓切除术适用于液体复苏后低血压仍未缓解的患者，以及选定的右心室功能受损或氧气需求增加的患者。
+抗凝禁忌或抗凝治疗过程中反复发生肺栓塞（PE）的患者可以考虑放置可回收的经皮下腔静脉滤器（IVCF）。例如，患有急性肺栓塞、腿部有残留血栓且不能进行抗凝治疗的患者，应考虑放置滤器，因为他们存在后续发生深静脉血栓的持续风险。
+住院对于大多数 PE 患者，至少需要 24 到 48 小时。生命体征异常或高危、中危PE患者需要较长的住院时间。
+入住 ICU（重症监护病房）对于高风险 PE 患者来说是必需的。如果患者有以下情况，也应考虑入住ICU
+广泛的血栓负荷
+广泛的血栓负荷
+RV受累
+RV受累
+严重的低氧血症
+严重的低氧血症
+低血压或临界低血压
+低血压或临界低血压
+临床恶化
+临床恶化
+门诊管理可用于风险低且偶然发现的 PE 患者或那些血块负荷非常小且症状轻微的患者，前提是他们的生命体征稳定，进行了教育，并制定了合理的门诊治疗和随访计划。
+
+【肺栓塞反应小组 (PERT)】
+鉴于治疗方案的不断发展和缺乏随机对照试验，为个别患者选择合适的治疗方法可能具有挑战性。许多医院聘请多学科临床医生小组（肺栓塞反应小组）来快速评估患者，确定肺栓塞风险水平，并做出所需的复杂治疗决策。这些团队可能由肺/重症医学、介入心脏病学、介入放射学、心胸外科、血液学、急诊医学和其他专业的临床医生组成。最近发表的单中心研究表明，在由PERT管理的患者中，出血率更低，抗凝治疗时间更短，30天死亡率降低，IVC过滤器的使用减少。欧洲心脏病学会现在建议在急性PE的治疗中使用PERT（1,2）。
+
+【一般治疗参考文献】
+1.Chaudhury P, Gadre SK, Schneider E, et al.Impact of Multidisciplinary Pulmonary Embolism Response Team Availability on Management and Outcomes.Am J Cardiol2019;124(9):1465-1469.doi:10.1016/j.amjcard.2019.07.043
+1.Chaudhury P, Gadre SK, Schneider E, et al.Impact of Multidisciplinary Pulmonary Embolism Response Team Availability on Management and Outcomes.Am J Cardiol2019;124(9):1465-1469.doi:10.1016/j.amjcard.2019.07.043
+2.Konstantinides SV, Meyer G, Becattini C, et al.2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS): The Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC).Eur Respir J2019;54(3):1901647.doi:10.1183/13993003.01647-2019
+2.Konstantinides SV, Meyer G, Becattini C, et al.2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS): The Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC).Eur Respir J2019;54(3):1901647.doi:10.1183/13993003.01647-2019
+
+【肺栓塞的抗凝治疗】
+急性肺栓塞患者需要进行初始抗凝治疗，随后进行维持抗凝治疗，以防止栓塞进一步发展以及新血栓的形成。只要出血风险被认为较低，一旦强烈怀疑肺栓塞，就应开始急性肺栓塞的抗凝治疗。否则，诊断后应尽快开始抗凝治疗。研究发现，抗凝治疗的时间对死亡率有影响。研究发现，在 24 小时内接受治疗性抗凝治疗的患者，其住院死亡率以及 30 天死亡率均有显著改善（1）。
+治疗较小的亚段血管栓塞（特别是无症状和偶然发现的栓塞）的利与弊的可能性尚不清楚，对某些患者来说，可能弊大于利。尽管如此，仍建议绝大多数患者进行治疗。
+抗凝治疗的主要并发症是出血，住院期间应密切观察患者出血倾向。
+
+【初始抗凝】
+急性PE的初始抗凝选择包括
+静脉使用普通肝素
+静脉使用普通肝素
+皮下使用低分子肝素
+皮下使用低分子肝素
+Xa因子抑制剂（口服阿哌沙班、艾多沙班、利伐沙班或皮下注射磺达肝癸）
+Xa因子抑制剂（口服阿哌沙班、艾多沙班、利伐沙班或皮下注射磺达肝癸）
+直接凝血酶抑制剂（静脉注射阿加曲班、口服达比加群）用于肝素诱发的血小板减少症患者
+直接凝血酶抑制剂（静脉注射阿加曲班、口服达比加群）用于肝素诱发的血小板减少症患者
+{}静脉注射普通肝素{} 的半衰期短（当出血风险高于平常时可以选择），并且可以用鱼精蛋白逆转其抗凝作用。初始给予普通肝素推注，然后根据方案输注肝素，以达到活化部分凝血活酶时间（PTT）为正常对照的1.5至2.5倍。因此，普通肝素治疗需要持续住院监测。此外，普通肝素的药代动力学相对不可预测，导致频繁出现抗凝过度和抗凝不足的情况，因此需要频繁调整剂量。一些临床医生在给予或考虑溶栓治疗或患者有出血风险时更倾向于采用这种静脉注射普通肝素方案，因为如果发生出血，其半衰期短意味着停止输注后抗凝作用会很快逆转。
+皮下注射低分子量肝素与普通肝素相比具有若干优势，包括
+生物利用度高
+生物利用度高
+基于体重的给药方案比基于体重的普通肝素给药方案能产生更可预测的抗凝效果，从而能更快达到治疗覆盖范围。
+基于体重的给药方案比基于体重的普通肝素给药方案能产生更可预测的抗凝效果，从而能更快达到治疗覆盖范围。
+操作方便（可每日给予皮下注射一次或两次）
+操作方便（可每日给予皮下注射一次或两次）
+低出血风险
+低出血风险
+治疗效果可能更好
+治疗效果可能更好
+患者有可能自行注射（从而允许更早出院）。
+患者有可能自行注射（从而允许更早出院）。
+与标准的普通肝素相比，肝素诱导的血小板减少症风险较低。
+与标准的普通肝素相比，肝素诱导的血小板减少症风险较低。
+可以使用的低分子量肝素包括达肝素、依诺肝素和亭扎肝素。
+对于肾功能不全患者，需要减少剂量，后续应通过检测血清Xa因子水平来验证剂量是否合适（目标值：在第四次给药后3至4小时测量，达到0.5至1.2 IU/mL）。低分子肝素禁用于严重肾功能不全患者（当肌酐清除率<30 mL/min [0.5mL/second/m2]）鱼精蛋白可以部分逆转低分子肝素的抗凝效果。
+肝素治疗的副作用包括：
+血小板减少症（包括肝素诱导的血小板减少症，可能伴有血栓栓塞）
+血小板减少症（包括肝素诱导的血小板减少症，可能伴有血栓栓塞）
+过敏反应（罕见）
+过敏反应（罕见）
+由普通肝素过度抗凝引起的出血，可通过输注鱼精蛋白来治疗。低分子量肝素过度抗凝也可以用鱼精蛋白治疗。
+磺达肝素是皮下给予的因子 Xa拮抗剂。它可以在急性深静脉血栓形成和急性PE时，代替肝素或低分子量肝素使用。效果类似于普通肝素。优点包括每天一次或两次的固定剂量使用，不需要抗凝监测，并且血小板减少症的风险较低。当肌酐清除率<30mL/minute（0.5mL/second/m2）时，禁止使用该药。
+其他Xa因子抑制剂，即阿哌沙班、利伐沙班和艾多沙班，具有口服固定剂量的优点，可作为维持抗凝剂使用，无需实验室监测抗凝效果。尽管唑类抗真菌药物和蛋白酶抑制剂会增加口服Xa因子抑制剂水平，某些抗癫痫药物和利福平会降低口服Xa因子抑制剂水平，但它们也很少与其他药物产生不良相互作用。尽管利伐沙班和阿哌沙班在用作初始治疗时不需要与肠外抗凝剂联用，但依度沙班需要使用肠外抗凝剂5至10天。
+肾功能不全患者剂量均需要减少。阿哌沙班可用于肾功能不全的患者，该药物用于血液透析的患者是安全的。
+口服Xa因子抑制剂（利伐沙班、阿哌沙班、依度沙班）可以用安地塞尼逆转抗凝效果，尽管该药物目前尚未广泛使用。使用重组活化因子VII可能逆转磺达肝素（2）。Xa因子抑制剂的半衰期比华法林的半衰期短得多。如果发生需要逆转的出血，可以考虑使用4因子凝血酶原复合物浓缩物，并建议进行血液科会诊。
+尚未研究这些药物对PE合并严重心肺功能失代偿患者的安全性和有效性，应对这些患者采用注射用抗凝药物治疗，直到心肺功能得到明显改善。
+直接凝血酶抑制剂达比加群可以有效治疗急性深静脉血栓形成和PE。达比加群作为初始治疗时需要与肠外抗凝剂重叠。Idarucizumab 可有效逆转达比加群。
+对于疑似或确诊肝素诱导的血小板减少症的患者，可使用静脉注射阿加曲班或皮下注射磺达肝癸钠进行抗凝。在最近的荟萃分析中发现，在这种情况下直接使用口服抗凝剂（达比加群、阿哌沙班、依多沙班、利伐沙班）是安全的（3）。
+
+【维持抗凝】
+维持抗凝可以降低凝块扩大或栓塞的危险，并减少新凝块形成的风险。维持抗凝药物的选择包括
+口服维生素K拮抗剂（美国用华法林）
+口服维生素K拮抗剂（美国用华法林）
+口服Xa因子抑制剂（阿哌沙班、利伐沙班、依度沙班）
+口服Xa因子抑制剂（阿哌沙班、利伐沙班、依度沙班）
+口服凝血酶直接抑制剂（达比加群）
+口服凝血酶直接抑制剂（达比加群）
+很少皮下注射低分子肝素或磺达肝素
+很少皮下注射低分子肝素或磺达肝素
+华法林是有几十年历史的的长期有效的口服抗凝血剂，但由于种种原因，它不方便。在大多数患者中，华法林与用于初始抗凝治疗的肝素（或磺达肝素）治疗在同一天开始。肝素（或磺达肝癸钠）治疗应与华法林治疗重叠至少5天，并且直到国际标准化比率（INR）达到治疗范围（2.0至3.0）至少24小时。
+华法林的主要缺点是需定期监测INR，频繁调整剂量，以及药物，补充剂和食物的相互作用。医生给予华法林时应考虑多药的相互作用；在服用华法林的患者中，几乎任何新摄入的药物或物质都应进行检查。
+出血是华法林治疗的最常见并发症，年龄>65岁、有合并症（特别是糖尿病、近期心梗、血细胞比容<30%、血肌酐>1.5 mg/dL [>133 micromol/L]）、有中风或胃肠道出血病史的病人危险度最高。出血可以用维生素K逆转，在紧急情况下，还可以使用新鲜冰冻血浆或含有因子II（凝血酶原）、因子VII、因子IX、因子X、蛋白C和蛋白S的浓缩制剂（凝血酶原复合物浓缩物）。维生素K可引起面红、局部疼痛，极少数情况下出现过敏反应。
+华法林诱发的坏死是华法林治疗的一种破坏性并发症，是一种矛盾的高凝状态，可能在开始华法林治疗时出现。华法林使维生素K依赖性凝血因子II、VII、IX和X失活。同时，维生素 K 依赖性蛋白 C 和 S 失活。这可能会导致异常的高凝状态，在这种状态下，皮肤和皮下小静脉中形成微血栓，导致皮肤坏死。基于这些考虑并开发更方便的口服抗凝剂，华法林使用量已大幅下降。然而，考虑到成本因素，华法林仍然是一些患者的合理治疗选择。
+
+【经验与提示】
+经验与提示
+患者服用华法林时，任何新药或补充剂都应该检查潜在的相互作用。
+患者服用华法林时，任何新药或补充剂都应该检查潜在的相互作用。
+口服Xa 因子抗凝药阿哌沙班、依度沙班和利伐沙班可用于初始和维持抗凝治疗（参见表格直接口服抗凝药治疗静脉血栓栓塞症）。这些药物比华法林更方便，因为它们的剂量固定，不需要实验室监测，而且相互作用更少。在临床试验中，利伐沙班（4,5）、阿哌沙班（6）和依度沙班（7）在预防DVT和PE复发方面（在非劣效性分析中）与华法林同样有效。对大型III期随机对照试验的荟萃分析发现，口服Xa因子抑制剂抗凝剂的大出血（包括颅内出血）发生率明显低于华法林（8)。利伐沙班和阿哌沙班的另一个优点是，在患者接受6至12个月的治疗后，可降低剂量 (9)。
+一个重要的警告是依度沙班要求预先给予5至10天的肝素或低分子量肝素进行初始治疗。
+直接凝血酶抑制剂达比加群也可以用于维持抗凝治疗。与依度沙班一样，肝素或低分子量肝素初始治疗5~10天后才可以使用达比加群。达比加群引起的临床相关出血比华法林低。作为维持治疗使用达比加群具有和Xa因子抑制剂相同的优点和缺点。
+在给予依度沙班和达比加群前需要先进行肝素治疗的原因仅仅是因为在临床试验中是这样执行的。
+皮下注射低分子肝素主要用于癌症合并肺栓塞高危患者或复发性肺栓塞患者，尽管使用了其他抗凝剂。然而，阿哌沙班、依度沙班和利伐沙班最近在癌症患者中完成的多项试验表明，现在推荐这些药物优于低分子肝素（10）。
+目前也有关于阿司匹林作为长期维持治疗的研究。结果证明其效果优于安慰剂，但不如所有其他可用的抗凝剂。已证明利伐沙班10mg qd在降低DVT/PE复发方面更有效，而对于已经接受6至12个月抗凝治疗的患者，其安全性与阿司匹林一样（9)。
+
+【抗凝持续时间】
+PE维持抗凝治疗的时间决定于各种因素（例如，PE的危险因素，出血风险），短至3个月，长至终生。 如果是由明显的一过性危险因素（如，制动，近期手术，外伤）引起的PE，只需要3个月抗凝治疗无诱因的PE、PE风险因素持续存在的患者（例如，癌症、血栓形成倾向）以及复发性PE患者，如果出血风险为低度或中度，可能从长期抗凝治疗中获益。对于无端静脉血栓栓塞症患者，应每年对出血风险与凝血风险进行评估，并就继续抗凝做出知情的联合决定。
+出血的危险因素包括
+年龄> 65岁
+年龄> 65岁
+血小板减少症
+血小板减少症
+抗血小板治疗
+抗血小板治疗
+抗凝控制不佳
+抗凝控制不佳
+频繁跌倒
+频繁跌倒
+酒精滥用
+酒精滥用
+近期手术
+近期手术
+活动能力下降
+活动能力下降
+低出血风险：没有出血的危险因素；中度出血风险：有一个危险因素；高度出血风险：有两个或更多的危险因素。
+对于认为适合长期抗凝治疗的患者，在利伐沙班或阿哌沙班治疗6个月后，可以考虑减少剂量。
+
+【抗凝参考文献】
+1.Smith SB, Geske JB, Maguire JM, Zane NA, Carter RE, Morgenthaler TI.Early anticoagulation is associated with reduced mortality for acute pulmonary embolism.Chest2010;137(6):1382-1390.doi:10.1378/chest.09-0959
+1.Smith SB, Geske JB, Maguire JM, Zane NA, Carter RE, Morgenthaler TI.Early anticoagulation is associated with reduced mortality for acute pulmonary embolism.Chest2010;137(6):1382-1390.doi:10.1378/chest.09-0959
+2.Yee J, Kaide CG.Emergency Reversal of Anticoagulation.West J Emerg Med2019;20(5):770-783.doi:10.5811/westjem.2018.5.38235
+2.Yee J, Kaide CG.Emergency Reversal of Anticoagulation.West J Emerg Med2019;20(5):770-783.doi:10.5811/westjem.2018.5.38235
+3.Nilius H, Kaufmann J, Cuker A, Nagler M.Comparative effectiveness and safety of anticoagulants for the treatment ofheparin-induced thrombocytopenia.Am J Hematol2021;96(7):805-815.doi:10.1002/ajh.26194
+3.Nilius H, Kaufmann J, Cuker A, Nagler M.Comparative effectiveness and safety of anticoagulants for the treatment ofheparin-induced thrombocytopenia.Am J Hematol2021;96(7):805-815.doi:10.1002/ajh.26194
+4.EINSTEIN Investigators, Bauersachs R, Berkowitz SD, et al: Oralrivaroxabanfor symptomatic venous thromboembolism.N Engl J Med363(26):2499–2510, 2010.doi:10.1056/NEJMoa1007903
+4.EINSTEIN Investigators, Bauersachs R, Berkowitz SD, et al: Oralrivaroxabanfor symptomatic venous thromboembolism.N Engl J Med363(26):2499–2510, 2010.doi:10.1056/NEJMoa1007903
+5.EINSTEIN-PE Investigators, Buller HR, Prins MH, et al: Oralrivaroxabanfor the treatment of symptomatic pulmonary embolism.N Engl J Med366 (14):1287–1297, 2012.doi:10.1056/NEJMoa1113572
+5.EINSTEIN-PE Investigators, Buller HR, Prins MH, et al: Oralrivaroxabanfor the treatment of symptomatic pulmonary embolism.N Engl J Med366 (14):1287–1297, 2012.doi:10.1056/NEJMoa1113572
+6.Agnelli G, Buller HR, Cohen A, et al: Oralapixabanfor the treatment of acute venous thromboembolism.N Engl J Med369(9):799–808, 2013.doi:10.1056/NEJMoa1302507
+6.Agnelli G, Buller HR, Cohen A, et al: Oralapixabanfor the treatment of acute venous thromboembolism.N Engl J Med369(9):799–808, 2013.doi:10.1056/NEJMoa1302507
+7.Hokusai-VTE Investigators, Buller HR, Decousus H, et al:Edoxabanversuswarfarinfor the treatment of symptomatic venous thromboembolism.N Engl J Med369(15): 1406–1415, 2013.doi:10.1056/NEJMoa1306638
+7.Hokusai-VTE Investigators, Buller HR, Decousus H, et al:Edoxabanversuswarfarinfor the treatment of symptomatic venous thromboembolism.N Engl J Med369(15): 1406–1415, 2013.doi:10.1056/NEJMoa1306638
+8.van Es N, Coppens M, Schulman S, et al:Direct oral anticoagulants compared with vitamin K antagonists for acute symptomatic venous thromboembolism: evidence from phase 3 trials.Blood124 (12): 1968–1975, 2014.doi:10.1182/blood-2014-04-571232
+8.van Es N, Coppens M, Schulman S, et al:Direct oral anticoagulants compared with vitamin K antagonists for acute symptomatic venous thromboembolism: evidence from phase 3 trials.Blood124 (12): 1968–1975, 2014.doi:10.1182/blood-2014-04-571232
+9.Weitz JI, Lensing AWA, Prins MH, et al:Rivaroxabanoraspirinfor extended treatment of venous thromboembolism.N Engl J Med376:1211–1222, 2017.doi: 10.1056/NEJMoa1700518.
+9.Weitz JI, Lensing AWA, Prins MH, et al:Rivaroxabanoraspirinfor extended treatment of venous thromboembolism.N Engl J Med376:1211–1222, 2017.doi: 10.1056/NEJMoa1700518.
+10.Stevens SM, Woller SC, Kreuziger LB, et al: Antithrombotic therapy for VTE disease: Second update of the CHEST Guideline and Expert Panel Report [published correction appears inChest2022 Jul;162(1):269].Chest2021;160(6):e545-e608.doi:10.1016/j.chest.2021.07.055
+10.Stevens SM, Woller SC, Kreuziger LB, et al: Antithrombotic therapy for VTE disease: Second update of the CHEST Guideline and Expert Panel Report [published correction appears inChest2022 Jul;162(1):269].Chest2021;160(6):e545-e608.doi:10.1016/j.chest.2021.07.055
+
+【快速减少血栓负荷】
+对于急性肺栓塞合并低血压且在液体复苏后仍不能改善者（高风险/大面积PE），应考虑通过栓子切除术或静脉内（IV）或导管溶栓治疗进行血栓清除 (1)。适用于有低血压以及需要使用升压药的患者。收缩压 < 90 mm Hg 或收缩压较基线值下降 > 40 mm Hg 并持续至少15分钟的患者血流动力学受损，也属于候选者。
+虽然对于轻度右心室功能障碍（基于临床、心电图或超声心动图检查结果）通常仅推荐抗凝治疗，但当右心室功能严重受损和/或存在严重低氧血症时，即使没有低血压，也可能需要溶栓治疗或栓子切除术，特别是在病情可能恶化时（如心率增加、血氧饱和度下降或血压下降所提示）。
+
+【系统性溶栓治疗】
+溶栓药物以组织型凝血酶原激活物阿替普酶（组织血纤维蛋白溶酶原激活剂，tPA）行溶栓治疗提供了一种快速恢复肺动脉血流的无创方式，但在一些患者中，长期益处并不能明显超过出血的风险。专家们一致认为，如果没有禁忌症，尤其是当没有其他快速减少血栓负荷的方法时，应该对血流动力学受损的患者进行全身溶栓治疗。尽管尚无系统性溶栓治疗的前瞻性随机试验显示能改善中危/次大面积PE患者的生存率，但一些专家仍推荐使用溶栓药物，特别是当患者还存在以下情况时：存在大量或大块血栓；右心室功能严重障碍；显著的心动过速；严重的低氧血症；其他伴随表现，如腿部残留血栓、肌钙蛋白阳性值和/或脑钠肽（BNP）水平升高；且无活动性禁忌症。其他的保留溶栓治疗仅用于高危(大面积)PE患者。
+溶栓绝对禁忌证：
+既往出血性脑卒中
+既往出血性脑卒中
+一年内有缺血性卒中
+一年内有缺血性卒中
+任何部位的活动性外部或内部出血
+任何部位的活动性外部或内部出血
+2个月内颅内损伤或手术
+2个月内颅内损伤或手术
+颅内肿瘤
+颅内肿瘤
+前几周内的某些手术
+前几周内的某些手术
+其相对禁忌证包括：
+年龄>75岁
+年龄>75岁
+近期手术（≤10天）
+近期手术（≤10天）
+出血体质（如肝功能不全）
+出血体质（如肝功能不全）
+近期不可压迫的大静脉穿刺（如锁骨下静脉）
+近期不可压迫的大静脉穿刺（如锁骨下静脉）
+近期的股动脉插管（如≤10天）
+近期的股动脉插管（如≤10天）
+消化性溃疡或其他会增加出血危险的状况
+消化性溃疡或其他会增加出血危险的状况
+严重高血压（收缩压>180mmHg或舒张压>110mmHg）
+严重高血压（收缩压>180mmHg或舒张压>110mmHg）
+由肺栓塞引起的晕厥所导致的头部创伤，即使脑部CT正常。
+由肺栓塞引起的晕厥所导致的头部创伤，即使脑部CT正常。
+除并发颅内出血外，对于高危（大面积）PE患者，如果预期不接受干预将会死亡，即使存在溶栓治疗的'绝对禁忌症'，有时仍会给予溶栓治疗。对于有溶栓相对禁忌症的患者，是否进行溶栓治疗要视具体情况而定。
+在美国，阿替普酶（tPA）用于全身溶栓。 链激酶和尿激酶不用于急性PE。
+在美国，系统性溶栓时，溶栓治疗初始负荷剂量后停止肝素使用。然而，在欧洲，肝素经常在继续使用，且对于哪种方法更优并无明确定论。需考虑出血风险。
+如果发生出血，可以用冷沉淀或新鲜冰冻血浆逆转。可以压迫正在出血部位的血管。全身溶栓后出血的可能性导致导管定向溶栓的实施增加，因为使用的溶栓药物剂量要低得多。
+
+【导管治疗】
+导管引导的PE治疗（血栓溶解术、栓子切除术）使用在肺动脉中放置导管来破坏、清除和/或溶解血栓。它的使用适应症在高危和中高危患者中不断变化。在导管引导的PE溶栓治疗中，通过典型的肺动脉造影程序进入肺动脉，并通过导管将溶栓剂直接输送到大的近端栓塞处。最广泛研究的技术是使用高频、低功率超声波。超声通过分解纤维蛋白链和增加血栓对溶栓物的渗透性来加速溶栓。一项随机对照试验，即ULTIMA研究表明，对于存在近端血栓和右心室负荷过重证据的患者，使用导管定向溶栓治疗与单独抗凝相比，可在24小时内改善右心室/左心室（RV/LV）比值 (2)。然而，两组在RV功能、90天时RV/LV比率或90天死亡率方面没有差异（2)。
+机械破坏，或在不溶栓的情况下通过抽吸栓子切除术去除血栓，正在得到越来越广泛的应用。血栓清除机制包括直接抽吸或抽吸破碎。用于此目的的装置因导管大小和栓塞切除方法而异。如果血栓溶解的使用是禁忌的，可以考虑导管引导抽吸取栓术，并根据当地资源和专业知识，在手术取栓术前进行尝试。机械取栓术患者仍需抗凝治疗。抽吸栓塞器的使用数据仅限于参与单臂研究和登记的中高风险或高风险患者（3）。
+
+【手术取栓术】
+手术取栓术适用于以下肺栓塞患者：尽管采取了支持措施仍存在低血压（经补液和吸氧治疗后收缩压仍≤90 mmHg或需要使用血管加压药治疗），或处于心脏骤停或呼吸骤停的边缘。如果禁忌使用溶栓，可以考虑手术取栓，但可以首先尝试导管引导抽吸取栓。与导管血栓溶解/栓塞移除一样，手术取栓的决定和技术选择取决于当地的资源和经验。随着基于导管的经皮穿刺技术越来越广泛，作为急性PE治疗策略的外科栓子切除术的频率正在下降。
+
+【体外膜肺氧合】
+体外膜肺氧合（ECMO）有时用于灾难性的急性肺栓塞，当溶栓治疗为禁忌或失败时。ECMO可以作为手术栓塞切除术或导管定向治疗的桥梁，或者可以为单一的抗凝治疗的改善争取时间。
+
+【快速减少血栓负荷参考】
+1.Ortel TL, Neumann I, Ageno W, et al.American Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolism.Blood Adv2020;4(19):4693-4738.doi:10.1182/bloodadvances.2020001830
+1.Ortel TL, Neumann I, Ageno W, et al.American Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolism.Blood Adv2020;4(19):4693-4738.doi:10.1182/bloodadvances.2020001830
+2.Kucher N, Boekstegers P, Müller OJ, et al.Randomized, controlled trial of ultrasound-assisted catheter-directed thrombolysis for acute intermediate-risk pulmonary embolism.Circulation2014;129(4):479-486.doi:10.1161/CIRCULATIONAHA.113.005544
+2.Kucher N, Boekstegers P, Müller OJ, et al.Randomized, controlled trial of ultrasound-assisted catheter-directed thrombolysis for acute intermediate-risk pulmonary embolism.Circulation2014;129(4):479-486.doi:10.1161/CIRCULATIONAHA.113.005544
+3.Hountras P, Bull TM.Advanced therapies for pulmonary embolism.Curr Opin Pulm Med2020;26(5):397-405.doi:10.1097/MCP.0000000000000714
+3.Hountras P, Bull TM.Advanced therapies for pulmonary embolism.Curr Opin Pulm Med2020;26(5):397-405.doi:10.1097/MCP.0000000000000714
+
+【肺栓塞的预后】
+大多数肺栓塞导致的死亡发生在发病后1小时内（1)。大多数因急性PE死亡的患者在死亡前从未被确诊。事实上，这些患者大多数没有疑诊过PE。总体住院死亡率范围从稳定患者的约8%到心源性休克患者的25%，再到需要心肺复苏的患者的65%（2）。
+降低死亡率的最佳方法包括
+提高诊断率（例如，当患者出现非特异性但符合肺栓塞的症状或体征时，将其纳入鉴别诊断）
+提高诊断率（例如，当患者出现非特异性但符合肺栓塞的症状或体征时，将其纳入鉴别诊断）
+提高诊断速度
+提高诊断速度
+改善风险分层
+改善风险分层
+提高快速启动抗凝治疗的速度
+提高快速启动抗凝治疗的速度
+给有PE危险因素的患者适当的预防
+给有PE危险因素的患者适当的预防
+D-二聚体水平显著升高似乎预示不良结局。
+患有慢性血栓栓塞性疾病的患者，在肺栓塞幸存者中占一小部分，但非常重要。抗凝治疗可降低PE的复发率。
+
+【预后参考】
+1.Wood KE.Major pulmonary embolism: review of a pathophysiologic approach to the golden hour of hemodynamically significant pulmonary embolism.Chest2002;121(3):877-905.doi:10.1378/chest.121.3.877
+1.Wood KE.Major pulmonary embolism: review of a pathophysiologic approach to the golden hour of hemodynamically significant pulmonary embolism.Chest2002;121(3):877-905.doi:10.1378/chest.121.3.877
+2.Kasper W, Konstantinides S, Geibel A, et al.Management strategies and determinants of outcome in acute major pulmonary embolism: results of a multicenter registry.J Am Coll Cardiol1997;30(5):1165-1171.doi:10.1016/s0735-1097(97)00319-7
+2.Kasper W, Konstantinides S, Geibel A, et al.Management strategies and determinants of outcome in acute major pulmonary embolism: results of a multicenter registry.J Am Coll Cardiol1997;30(5):1165-1171.doi:10.1016/s0735-1097(97)00319-7
+
+【肺栓塞的预防】
+
+【急性静脉血栓栓塞的预防】
+预防肺栓塞意味着预防深静脉血栓（DVT）；预防的必要性取决于病人的危险因素，包括：
+任何手术类型和时长
+任何手术类型和时长
+伴随疾病，包括癌症和血液高凝状态
+伴随疾病，包括癌症和血液高凝状态
+中心静脉导管放置
+中心静脉导管放置
+DVT或PE的病史
+DVT或PE的病史
+卧床住院患者和接受外科手术（尤其是骨科手术）的患者可以从静脉血栓栓塞预防中获益匪浅，并且大多数这些患者可以在血栓形成之前识别出来（见表）血栓形成风险评估）。预防措施包括低剂量普通肝素、低分子量肝素、华法林、磺达肝癸钠、直接口服抗凝剂（如利伐沙班、阿哌沙班）、加压装置和弹力袜。
+药物或器械的选择取决于各种因素，包括患者人口统计学、感知风险、禁忌症(如出血风险)、相对成本和易用性。美国胸科医师学会已针对手术和非手术患者以及妊娠期急性深静脉血栓的预防（包括预防持续时间）发表了全面的循证建议（1,2）。并且研究了不同人群的预防必要性。
+手术类型、病人的具体因素决定了DVT的风险。手术和非手术患者的独立危险因素包括
+年龄≥60岁
+年龄≥60岁
+既往DVT或PE病史
+既往DVT或PE病史
+麻醉≥超过2小时
+麻醉≥超过2小时
+卧床休息≥4天
+卧床休息≥4天
+性别为男性
+性别为男性
+住院时间≥2天
+住院时间≥2天
+妊娠或产后状态
+妊娠或产后状态
+中心静脉通路
+中心静脉通路
+体质指数（BMI） > 40
+体质指数（BMI） > 40
+Caprini评分通常用于DVT风险分层和确定非骨科手术患者是否需要预防DVT（见表血栓形成的风险评估）。
+
+【血栓形成的风险评估】
+血栓形成的风险评估
+危险因素
+年龄（岁）
+41–60
+60–74
+≥ 75
+手术治疗
+住院期间小手术
+在过去1个月内大手术
+住院期间关节镜手术
+目前住院期间大手术持续> 45分钟
+目前住院期间腹腔镜手术持续> 45分钟
+目前住院期间择期腿部主要关节置换术
+伴随情况
+静脉曲张
+炎症性肠病
+腿部出现水肿
+肥胖（BMI> 25）
+急性心肌梗死
+前1个月内心脏衰竭
+前1个月内败血症
+前1月内严重的肺部疾病*
+肺功能异常（如慢性阻塞性肺病）
+中心静脉通路
+癌症（现在或以前）
+DVT/PE病史
+血栓的家族史†
+凝血因子V Leiden突变
+凝血酶原20210A基因突变
+血清同型半胱氨酸升高
+狼疮抗凝物阳性
+抗心磷脂抗体增高
+肝素诱发的血小板减少症
+其他先天性或获得性血栓形成倾向
+前1个月内中风
+前1个月内多发创伤
+前1月内急性脊髓损伤/麻痹
+正卧床休息（内科患者）
+卧床休息> 72小时
+前1个月内的石膏固定
+前1个月内的髋部，骨盆，或小腿骨折
+女性的其它危险因素
+口服避孕药、激素替代治疗
+前1个月内妊娠或生产
+不明原因的死胎史，反复自然流产（≥3），早产与毒血症或生长受限的婴儿
+其他危险因素‡
+*包括肺炎在内的严重肺病。
+†血栓家族史是最易遗漏的危险因素。
+‡其他危险因素包括体重指数> 40，吸烟，需要胰岛素治疗的糖尿病，化疗，输血，以及手术时长> 2小时。
+Data fromGould MK, Garcia DA, Wren SM, et al.Prevention of VTE in nonorthopedic surgical patients: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears inChest2012 May;141(5):1369].Chest2012;141(2 Suppl):e227S-e277S.doi:10.1378/chest.11-2297
+BMI =体重指数; COPD =慢性阻塞性肺疾病; DVT =深静脉血栓形成; PE =肺栓塞。
+*包括肺炎在内的严重肺病。
+†血栓家族史是最易遗漏的危险因素。
+‡其他危险因素包括体重指数> 40，吸烟，需要胰岛素治疗的糖尿病，化疗，输血，以及手术时长> 2小时。
+Data fromGould MK, Garcia DA, Wren SM, et al.Prevention of VTE in nonorthopedic surgical patients: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears inChest2012 May;141(5):1369].Chest2012;141(2 Suppl):e227S-e277S.doi:10.1378/chest.11-2297
+BMI =体重指数; COPD =慢性阻塞性肺疾病; DVT =深静脉血栓形成; PE =肺栓塞。
+基于风险评估评分决定是否进行DVT预防（见表预防基于Caprini 评分）。如何选择适当的预防措施，包括从早期下床活动到使用肝素，取决于风险评分 (3)。
+
+【根据Caprini评分采取预防措施】
+根据Caprini评分采取预防措施
+早期下床活动
+低度危险
+间断加压装置（SCD）
+每8小时使用肝素或低分子肝素+/- SCD
+肝素或低分子肝素 +/- SCD
+Data fromGould MK, Garcia DA, Wren SM, et al.Prevention of VTE in nonorthopedic surgical patients: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears inChest2012 May;141(5):1369].Chest2012;141(2 Suppl):e227S-e277S.doi:10.1378/chest.11-2297
+Data fromGould MK, Garcia DA, Wren SM, et al.Prevention of VTE in nonorthopedic surgical patients: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears inChest2012 May;141(5):1369].Chest2012;141(2 Suppl):e227S-e277S.doi:10.1378/chest.11-2297
+
+【肺栓塞预防的药物方案】
+用于预防DVT的药物治疗通常推迟到手术后开始，以帮助避免术中出血。然而术前预防也有效。
+对于普通外科手术患者来说，低剂量普通肝素持续 7 至 10 天或直至患者完全活动。未接受手术的固定化患者也应接受低剂量普通肝素治疗，直到他们能够活动为止。
+低分子肝素在预防深静脉血栓形成时的剂量选择取决于具体的药物（依诺肝素，达肝素，亭扎肝素）。低分子量肝素用于预防DVT和PE的效果至少和低剂量肝素相当。
+磺达肝素2.5 mg皮下注射，每天一次，对于接受骨科手术的患者和肝素诱发的血小板减少症患者或其他一些情况，如大型骨科手术后的患者，与低分子量肝素一样有效（4）。磺达肝葵钠是Xa因子的选择性抑制剂。
+华法林对于接受全髋关节或膝关节置换术的患者，调整剂量以将 INR 维持在 2 至 3 之间通常是有效且安全的。华法林的使用越来越多地被直接口服抗凝剂所取代。
+直接口服抗凝药利伐沙班和阿哌沙班是Xa因子抑制剂。它们可用于预防接受全膝关节或髋关节置换术的患者发生急性 DVT/PE。
+
+【肺栓塞的预防设备】
+下腔静脉滤器、间歇气压疗法（也称为连续加压装置，SCD）和弹力长筒袜可以单独或联合药物有效预防PE。是否这些设备可以单独使用或组合使用取决于具体情况。
+下腔静脉滤器（IVCF）可能有助于预防腿部或骨盆血管中有DVT的患者的PE，但IVCF放置可能导致长期并发症。证据提出了关于可回收过滤器在接受抗凝治疗的患者中的有效性的问题（5）。过滤器最明确的适应症见于以下患者：
+确诊DVT和抗凝禁忌
+确诊DVT和抗凝禁忌
+尽管足量抗凝剂抗凝仍有DVT复发（或栓子）
+尽管足量抗凝剂抗凝仍有DVT复发（或栓子）
+可能处于临界状态的心肺功能，令人担心其无法耐受额外的微小栓子。
+可能处于临界状态的心肺功能，令人担心其无法耐受额外的微小栓子。
+由于静脉侧支循环可以发展，为栓塞提供了绕过长期IVCF的途径，并且过滤器偶尔会血栓形成，因此复发性DVT或DVT风险因素不可改变的患者可能仍需要抗凝治疗。一般通过颈内静脉或股静脉导管放置滤器，最佳位置是滤器恰好位于肾静脉入口下方。大多数下腔静脉滤器是可回收的。有时，过滤器会移位并可能向上移动到静脉床，甚至移动到心脏或肺脉管系统。滤器也可能形成血栓，导致腿部严重的静脉充血（包括急性股青肿）、下半身缺血和急性肾损伤（6）。
+间歇气压疗法（ IPC）和SCDs规律地给予小腿和（或）大腿外源性压迫。它对预防小腿DVT的效果好于近端DVT。其单独使用不足以预防髋关节或膝关节置换术后患者术后DVT。往往用于其它低风险手术患者，或者DVT风险低但出血风险高的内科患者。理论上，对于因制动且未接受DVT预防而已经形成隐匿性DVT的患者，IPC可能诱发PE。
+分级弹力压力袜的效果可能不如外部气压腿部压缩。
+
+【肺栓塞的预防选择】
+外科术后有DVT/PE高风险的患者，建议使用低剂量普通肝素，低分子肝素，或适量的华法林。
+在髋关节或膝关节的手术之后，还可以使用利伐沙班和阿哌沙班等直接口服抗凝剂。这些药物安全有效，与华法林不同，它们不需要实验室测试来监测抗凝水平。
+对于全髋关节置换，患者应在术后服用抗凝药35天。对DVT/PE和出血的危险性均极高的病人，临时置入IVCF是可选择的预防性措施。
+在接受选择性神经外科手术的患者中，DVT/PE 的风险也很高。由于担心颅内出血，接受神经外科手术的患者经常使用物理方法（SCD 和弹力袜）；然而，低分子量肝素似乎是一种可接受的替代品。尽管没有具体的指导方针，但顺序加压装置（SCDs）和低分子肝素联合治疗高危患者可能比单独治疗更有效。
+在患有脊髓损伤或多发性创伤的患者中，有限的数据支持联合使用SCD、弹性压缩袜和低分子肝素来预防DVT/PE（7）。极高危病人可以考虑放置暂时IVCF。
+在急性病患者中，可以给予低剂量普通肝素、低分子量肝素或磺达肝素。当抗凝治疗禁忌时，可用SCDs、弹性袜或二者联用。对于缺血性脑卒中患者，可用低剂量的普通肝素或低分子量肝素；SCD、弹力袜或二者联用可能有效。
+
+【预防参考文献】
+1.Kearon C, Akl EA, Ornelas J, et al.Antithrombotic Therapy for VTE Disease: CHEST Guideline and Expert Panel Report [published correction appears inChest2016 Oct;150(4):988].Chest2016;149(2):315-352.doi:10.1016/j.chest.2015.11.026
+1.Kearon C, Akl EA, Ornelas J, et al.Antithrombotic Therapy for VTE Disease: CHEST Guideline and Expert Panel Report [published correction appears inChest2016 Oct;150(4):988].Chest2016;149(2):315-352.doi:10.1016/j.chest.2015.11.026
+2.Stevens SM, Woller SC, Kreuziger LB, et al.Antithrombotic Therapy for VTE Disease: Second Update of the CHEST Guideline and Expert Panel Report [published correction appears inChest2022 Jul;162(1):269].Chest2021;160(6):e545-e608.doi:10.1016/j.chest.2021.07.055
+2.Stevens SM, Woller SC, Kreuziger LB, et al.Antithrombotic Therapy for VTE Disease: Second Update of the CHEST Guideline and Expert Panel Report [published correction appears inChest2022 Jul;162(1):269].Chest2021;160(6):e545-e608.doi:10.1016/j.chest.2021.07.055
+3.Gould MK, Garcia DA, Wren SM, et al.Prevention of VTE in nonorthopedic surgical patients: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears inChest2012 May;141(5):1369].Chest2012;141(2 Suppl):e227S-e277S.doi:10.1378/chest.11-2297
+3.Gould MK, Garcia DA, Wren SM, et al.Prevention of VTE in nonorthopedic surgical patients: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears inChest2012 May;141(5):1369].Chest2012;141(2 Suppl):e227S-e277S.doi:10.1378/chest.11-2297
+4.Tran AH, Lee G.Fondaparinuxfor prevention of venous thromboembolism in major orthopedic surgery.Ann Pharmacother2003;37(11):1632-1643.doi:10.1345/aph.1C104
+4.Tran AH, Lee G.Fondaparinuxfor prevention of venous thromboembolism in major orthopedic surgery.Ann Pharmacother2003;37(11):1632-1643.doi:10.1345/aph.1C104
+5.Mismetti P, Laporte S, Pellerin O, et al.Effect of a retrievable inferior vena cava filter plus anticoagulation vs anticoagulation alone on risk of recurrent pulmonary embolism: a randomized clinical trial.JAMA2015;313(16):1627-1635.doi:10.1001/jama.2015.3780
+5.Mismetti P, Laporte S, Pellerin O, et al.Effect of a retrievable inferior vena cava filter plus anticoagulation vs anticoagulation alone on risk of recurrent pulmonary embolism: a randomized clinical trial.JAMA2015;313(16):1627-1635.doi:10.1001/jama.2015.3780
+6.Marron RM, Rali P, Hountras P, Bull TM.Inferior Vena Cava Filters: Past, Present, and Future.Chest2020;158(6):2579-2589.doi:10.1016/j.chest.2020.08.002
+6.Marron RM, Rali P, Hountras P, Bull TM.Inferior Vena Cava Filters: Past, Present, and Future.Chest2020;158(6):2579-2589.doi:10.1016/j.chest.2020.08.002
+7.Aito S, Pieri A, D'Andrea M, Marcelli F, Cominelli E.Primary prevention of deep venous thrombosis and pulmonary embolism in acute spinal cord injured patients.Spinal Cord2002;40(6):300-303.doi:10.1038/sj.sc.3101298
+7.Aito S, Pieri A, D'Andrea M, Marcelli F, Cominelli E.Primary prevention of deep venous thrombosis and pulmonary embolism in acute spinal cord injured patients.Spinal Cord2002;40(6):300-303.doi:10.1038/sj.sc.3101298
+急性肺栓塞是一种常见和有潜在致命性的疾病。
+急性肺栓塞是一种常见和有潜在致命性的疾病。
+大多数死于急性PE的患者甚至都没有被疑诊过，因此临床怀疑和确诊PE非常重要。
+大多数死于急性PE的患者甚至都没有被疑诊过，因此临床怀疑和确诊PE非常重要。
+由于抗凝治疗可以提高生存率，因此当确诊或高度怀疑PE时应给予抗凝治疗。
+由于抗凝治疗可以提高生存率，因此当确诊或高度怀疑PE时应给予抗凝治疗。
+高危/重度PE患者和某些中危/亚重度PE患者应考虑进行溶栓治疗或栓塞切除术。
+高危/重度PE患者和某些中危/亚重度PE患者应考虑进行溶栓治疗或栓塞切除术。
+所有住院且处于危险中的患者均应考虑预防深静脉血栓形成（以及 PE）。
+所有住院且处于危险中的患者均应考虑预防深静脉血栓形成（以及 PE）。

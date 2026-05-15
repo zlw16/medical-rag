@@ -1,0 +1,219 @@
+标题：寨卡病毒感染
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/arboviruses-arenaviridae-and-filoviridae/zika-virus-zv-infections
+============================================================
+
+寨卡病毒，和引起登革热、黄热病和基孔肯雅病的病毒一样，是由伊蚊蚊子传播的，它们在死水地区繁殖。这些蚊子喜欢叮咬人，住在人附近，室内和室外；它们白天咬得很厉害。 晚上也会叮咬人。
+主要载体是埃及伊蚊和白纹伊蚊。 在美国，埃及伊蚊仅限于从美国深南部沿美墨边境延伸到南加州的区域。白纹伊蚊分布于美国东南部的大部分地区，包括中西部上部和加利福尼亚南部地区，更能适应寒冷的气候。埃及伊蚊被认为是流行性寨卡病毒感染的主要媒介；白纹伊蚊被认为是热带地区寨卡病毒感染流行的次要媒介，但它是否会在美国较温和的气候下成为媒介尚不清楚。虽然埃及伊蚊几乎只以人类为食，但白纹伊蚊以人类以及其他各种不易感染病毒且不参与传播链的动物为食。
+
+【寨卡病毒感染的流行病学】
+寨卡病毒于1947年首次从乌干达寨卡森林的猴子中分离出来，但直到2007年南太平洋岛屿首次大规模暴发时才被认为是重要的人类病原体。2015年5月，南美洲首次报道了本地传播，随后蔓延到中美洲和加勒比地区。
+以下地区已报道寨卡病毒的本地传播情况：
+中美洲和墨西哥
+中美洲和墨西哥
+加勒比群岛(包括波多黎各和美属维尔京群岛)
+加勒比群岛(包括波多黎各和美属维尔京群岛)
+太平洋群岛
+太平洋群岛
+佛得角（非洲西北海岸的一个岛屿国家）
+佛得角（非洲西北海岸的一个岛屿国家）
+南亚和东南亚（零星病例）
+南亚和东南亚（零星病例）
+佛罗里达州和德克萨斯州
+佛罗里达州和德克萨斯州
+当疫情发生时，美国疾病控制与预防中心(CDC)会向这些地区的国家发出旅游警示（1）。
+2016至2017年，佛罗里达州东南部的迈阿密-戴德县和德克萨斯州布朗斯维尔都报告了本地传播的寨卡病毒感染病例。自2019年以来，美国大陆尚未报告寨卡病毒的本地传播病例。然而，在前往病毒有本地传播的国家旅行后返回美国的旅行者中，也报告了寨卡病毒感染病例。
+截至2025年5月，没有地理区域出现寨卡病毒活跃疫情（1）。
+难以预测寨卡病毒的传播范围。然而，由于传播寨卡病毒的蚊子同样也传播登革热和基孔肯雅热，因此凡是登革热或基孔肯雅热已传播的地区，都可以预期寨卡病毒也会有本地传播。
+
+【流行病学 参考文献】
+1.Centers for Disease Control and Prevention: Zika Virus: Countries & Territories at Risk for Zika.February 25, 2025.Accessed June 18, 2025.
+1.Centers for Disease Control and Prevention: Zika Virus: Countries & Territories at Risk for Zika.February 25, 2025.Accessed June 18, 2025.
+
+【寨卡病毒的传播】
+在感染的第一周内，寨卡病毒存在于血液中。蚊子叮咬感染者后可以携带病毒；然后通过叮咬他人传播病毒。来自正在进行寨卡病毒传播的地区的旅行者回国后他们血液中可能会有寨卡病毒，如果当地存在蚊媒，则可能会传播寨卡病毒。然而，由于伊蚊与人之间的接触在美国大陆和夏威夷的大部分地区并不常见（由于蚊子的控制以及人们在屏蔽的或空调环境中生活和工作），寨卡病毒的本地传播是罕见和有限的。
+尽管寨卡病毒主要通过蚊子传播，但其他传播方式包括：
+性传播（包括阴道性交、肛交和口交）
+性传播（包括阴道性交、肛交和口交）
+母婴宫内传播，导致先天性感染
+母婴宫内传播，导致先天性感染
+器官或组织移植（理论上）
+器官或组织移植（理论上）
+与引起登革热、基孔肯雅病和西尼罗热的病毒一样，寨卡病毒在怀孕期间可以从母亲传播到胎儿。寨卡病毒和导致登革热的病毒一样，已经在母乳中检测到，但尚不确定婴儿是否会通过母乳喂养感染（1)。然而，由于母乳喂养有很多好处，疾病预防控制中心鼓励母亲母乳喂养，即使是在寨卡病毒正在传播的地区（2、3）。
+寨卡病毒存在于精液中，可由男性通过性交（包括阴道性交和肛交，也可能是口交）传染给性伴侣，即使男性没有症状。寨卡病毒在精液中的存活时间比在血液，阴道分泌液和其他体液中的存活时间更长。男-女以及男-男之间无保护的性行为（不使用避孕套）也可发生传播（4）。
+共享性玩具时，即使感染者没有症状，寨卡病毒也可由男性或女性传播给他们的性伴侣。
+寨卡病毒从血液和尿液中消失后也会持续存在于阴道分泌物中；据报道，寨卡病毒也可通过女性-男性性传播（4）。尽管在阴道分泌物中检测到间歇性病毒RNA脱落长达6个月，但病毒RNA的检测并不能证明存在传染性病毒，因为聚合酶链式反应可能检测到一个或多个基因片段，而不一定是传染性病毒。
+巴西已报告输血传播；然而，目前美国还没有发现输血传播的病例（5）。研究人员中曾报告实验室获得性寨卡病毒感染，认为通过针刺伤发生（6）。
+
+【传播参考文献】
+1.Colt S, Garcia-Casal MN, Peña-Rosas JP, et al: Transmission of Zika virus through breast milk and other breastfeeding-related bodily-fluids: A systematic review.PLoS Negl Trop Dis11(4):e0005528.2017.Published 2017 Apr 10.doi:10.1371/journal.pntd.0005528
+1.Colt S, Garcia-Casal MN, Peña-Rosas JP, et al: Transmission of Zika virus through breast milk and other breastfeeding-related bodily-fluids: A systematic review.PLoS Negl Trop Dis11(4):e0005528.2017.Published 2017 Apr 10.doi:10.1371/journal.pntd.0005528
+2.Centers for Disease Control and Prevention: Zika Virus: How Zika Spreads.January 30, 2025.Accessed June 20, 2025.
+2.Centers for Disease Control and Prevention: Zika Virus: How Zika Spreads.January 30, 2025.Accessed June 20, 2025.
+3.World Health Organization: Guideline: infant feeding in areas of Zika virus transmission, 2nd edition.Geneva, WHO.June 15, 2021.Accessed June 20, 2025.
+3.World Health Organization: Guideline: infant feeding in areas of Zika virus transmission, 2nd edition.Geneva, WHO.June 15, 2021.Accessed June 20, 2025.
+4.Centers for Disease Control and Prevention: Zika Virus: Sexual Transmission of Zika Virus.January 30, 2025.Accessed June 20, 2025.
+4.Centers for Disease Control and Prevention: Zika Virus: Sexual Transmission of Zika Virus.January 30, 2025.Accessed June 20, 2025.
+5.Centers for Disease Control and Prevention: Zika Virus: Transmission of Zika Virus.January 30, 2025.Accessed June 20, 2025.
+5.Centers for Disease Control and Prevention: Zika Virus: Transmission of Zika Virus.January 30, 2025.Accessed June 20, 2025.
+6.Hills SL, Morrison A, Stuck S, et al: Case Series of Laboratory-Associated Zika Virus Disease, United States, 2016-2019.Emerg Infect Dis27(5):1296-1300, 2021.doi:10.3201/eid2705.203602
+6.Hills SL, Morrison A, Stuck S, et al: Case Series of Laboratory-Associated Zika Virus Disease, United States, 2016-2019.Emerg Infect Dis27(5):1296-1300, 2021.doi:10.3201/eid2705.203602
+
+【寨卡病毒感染的症状和体征】
+大多数 感染者没有症状。
+寨卡病毒感染的症状包括发烧、斑丘疹、结膜炎、关节痛、眼眶后部疼痛、头痛和肌肉疼痛。症状通常轻微，持续4至7天（1）。 需要住院治疗的严重感染并不常见。寨卡病毒感染很少引起成人脑病。寨卡病毒感染导致死亡非常少见。
+极少数情况下，寨卡病毒感染后会出现格林-巴利综合征（GBS）（2）。GBS是一种急性的，通常是快速进展的，但自限性炎症性多神经病，被认为是由自身免疫反应引起的。
+
+【先天性寨卡病毒感染】
+孕期寨卡病毒感染可引起小头畸形（胎儿脑发育不全和头部尺寸小）和其他神经、眼、心脏和骨科缺陷，这些缺陷统称为先天性寨卡综合征（3）。
+宫内感染的婴儿，无论是否有小头畸形，都可能有眼部病变或先天性挛缩（例如,马蹄内翻足)。 子宫内感染和出生时没有先天性寨卡综合征的婴儿有神经发育迟缓的风险。子宫内接触寨卡病毒而没有先天性寨卡综合征的儿童可能会表现出执行功能、情绪和适应性活动能力方面的新差异，需要继续评估。
+
+【症状和体征参考】
+1.Centers for Disease Control and Prevention: Clinical Signs and Symptoms of Zika Virus Disease.January 30, 2025.Accessed June 23, 2025.
+1.Centers for Disease Control and Prevention: Clinical Signs and Symptoms of Zika Virus Disease.January 30, 2025.Accessed June 23, 2025.
+2.Shahrizaila N, Lehmann HC, Kuwabara S.Guillain-Barré syndrome.Lancet2021;397(10280):1214-1228.doi:10.1016/S0140-6736(21)00517-1
+2.Shahrizaila N, Lehmann HC, Kuwabara S.Guillain-Barré syndrome.Lancet2021;397(10280):1214-1228.doi:10.1016/S0140-6736(21)00517-1
+3.Centers for Disease Control and Prevention: Zika Virus: Congenital Zika Syndrome and Other Birth Defects.January 31, 2025.Accessed June 20, 2025.
+3.Centers for Disease Control and Prevention: Zika Virus: Congenital Zika Syndrome and Other Birth Defects.January 31, 2025.Accessed June 20, 2025.
+
+【寨卡病毒感染的诊断】
+血清学检测
+血清学检测
+采用逆转录酶聚合酶链反应（RT-PCR）检测的核酸扩增测试（NAAT）
+采用逆转录酶聚合酶链反应（RT-PCR）检测的核酸扩增测试（NAAT）
+根据症状以及地理位置或旅行怀疑寨卡病毒感染。因为寨卡病毒感染的临床表现类似于许多发热性热带疾病（如登革热、疟疾、钩端螺旋体病、其他虫媒病毒感染），其地理分布与其他虫媒病毒相似，寨卡病毒感染的诊断需要通过以下方法之一进行实验室确认（1）：
+NAAT检测血清或尿液中的病毒RNA
+NAAT检测血清或尿液中的病毒RNA
+血清学检测（酶联免疫吸附试验[ELISA]检测IgM，蚀斑减少中和试验[PRNT]检测寨卡病毒抗体）
+血清学检测（酶联免疫吸附试验[ELISA]检测IgM，蚀斑减少中和试验[PRNT]检测寨卡病毒抗体）
+寨卡病毒通常可以在症状出现后1周内用NAAT在血清中检测到，在尿液样本中检测到长达14天。NAAT可在全血中检测寨卡病毒长达3个月（2）。
+在美国，Trioplex实时RT-PCR已获得紧急使用授权，这是一种多重PCR检测方法，可以检测血清、血液和脑脊液中登革热、基孔肯雅病和寨卡病毒的RNA，并可以检测尿液和羊水中的寨卡病毒RNA。
+病毒特异性IgM和中和抗体通常在疾病的第一周快结束时出现，但常存在与相关黄病毒（如登革热和黄热病病毒）的交叉反应。急性期和恢复期血清配对的PRNT检测病毒特异性中和抗体，并有助于区分来自密切相关黄病毒的交叉反应抗体。PRNT 抗体增加四倍或更多，是诊断性的。
+IgM检测的诊断是有限的，因为IgM可以在感染后持续数月。因此，IgM检测结果不能总是可靠地区分当前妊娠期间发生的感染和当前妊娠之前发生的感染，特别是对于在当前妊娠之前可能接触寨卡病毒的女性。
+寨卡病毒检测建议因患者群体和医疗组织而异（3,4）。
+不建议对无症状孕妇进行寨卡病毒感染的常规检测。然而，对于那些在疫情传播率高的地区或最近去过这些地区的人，或者与接触风险高的人发生过性关系的人，可以考虑进行RT-PCR检测（在接触后12周内）。
+对于最近接触过寨卡病毒、有症状的孕妇：
+疾病控制与预防中心：症状出现后<12周，对血液和尿液进行寨卡病毒RT-PCR检测（如果检测呈阳性，则对同一样本中新提取的RNA重复检测）；不建议进行IgM抗体检测
+疾病控制与预防中心：症状出现后<12周，对血液和尿液进行寨卡病毒RT-PCR检测（如果检测呈阳性，则对同一样本中新提取的RNA重复检测）；不建议进行IgM抗体检测
+世界卫生组织：症状出现后≤14天，对血液和尿液进行寨卡病毒RT-PCR，如果阴性，则进行IgM检测；>14天，IgM检测
+世界卫生组织：症状出现后≤14天，对血液和尿液进行寨卡病毒RT-PCR，如果阴性，则进行IgM检测；>14天，IgM检测
+对于胎儿产前超声检查结果与先天性寨卡病毒感染相一致的孕妇，如果她们在怀孕期间生活在寨卡病毒有风险的地区或前往有寨卡病毒风险的地区，美国疾病控制与预防中心建议同时进行RT-PCR和IgM血清和尿液检测。如果RT-PCR为阴性，IgM为阳性，则应进行确认性PRNT。还可以考虑对羊水穿刺标本进行寨卡病毒RT-PCR检测以及对胎盘和胎儿组织进行检测。疑似寨卡病毒综合征的新生儿应接受检测（3和5）。
+如果非妊娠患者怀疑感染寨卡病毒并出现严重症状，应进行检测。不建议对无症状男性进行检测以评估性传播风险（6）。居住在或曾前往寨卡病毒传播活跃地区的男性，如果其伴侣怀孕，应在整个怀孕期间避免性行为，或在性行为（即阴道性交、肛交、口交）过程中坚持正确使用避孕套。
+如果发现寨卡病毒感染病例，美国临床医生需要通知疾病预防控制中心（3）。
+
+【诊断参考】
+1.Sharp TM, Fischer M, Muñoz-Jordán JL, et al: Dengue and Zika Virus Diagnostic Testing for Patients with a Clinically Compatible Illness and Risk for Infection with Both Viruses.MMWR Recomm Rep68(1):1-10, 2019.Published 2019 Jun 14.doi:10.15585/mmwr.rr6801a1
+1.Sharp TM, Fischer M, Muñoz-Jordán JL, et al: Dengue and Zika Virus Diagnostic Testing for Patients with a Clinically Compatible Illness and Risk for Infection with Both Viruses.MMWR Recomm Rep68(1):1-10, 2019.Published 2019 Jun 14.doi:10.15585/mmwr.rr6801a1
+2.Stone M, Bakkour S, Lanteri MC, et al: Zika virus RNA and IgM persistence in blood compartments and body fluids: a prospective observational study.Lancet Infect Dis20(12):1446-1456, 2020.doi:10.1016/S1473-3099(19)30708-X
+2.Stone M, Bakkour S, Lanteri MC, et al: Zika virus RNA and IgM persistence in blood compartments and body fluids: a prospective observational study.Lancet Infect Dis20(12):1446-1456, 2020.doi:10.1016/S1473-3099(19)30708-X
+3.Centers for Disease Control and Prevention: Zika Virus: Clinical Testing and Diagnosis for Zika Virus Disease.February 12, 2025.Accessed June 20, 2025.
+3.Centers for Disease Control and Prevention: Zika Virus: Clinical Testing and Diagnosis for Zika Virus Disease.February 12, 2025.Accessed June 20, 2025.
+4.World Health Organization: Laboratory testing for Zika virus and dengue virus infections: interim guidance.July 14, 2022.Accessed June 20, 2025.
+4.World Health Organization: Laboratory testing for Zika virus and dengue virus infections: interim guidance.July 14, 2022.Accessed June 20, 2025.
+5.Fleming-Dutra KE, Nelson JM, Fischer M, et al: Update: Interim Guidelines for Health Care Providers Caring for Infants and Children with Possible Zika Virus Infection--United States, February 2016.MMWR Morb Mortal Wkly Rep65(7):182-187, 2016.Published 2016 Feb 26.doi:10.15585/mmwr.mm6507e1
+5.Fleming-Dutra KE, Nelson JM, Fischer M, et al: Update: Interim Guidelines for Health Care Providers Caring for Infants and Children with Possible Zika Virus Infection--United States, February 2016.MMWR Morb Mortal Wkly Rep65(7):182-187, 2016.Published 2016 Feb 26.doi:10.15585/mmwr.mm6507e1
+6.Polen KD, Gilboa SM, Hills S, et al: Update: Interim Guidance for Preconception Counseling and Prevention of Sexual Transmission of Zika Virus for Men with Possible Zika Virus Exposure - United States, August 2018.MMWR Morb Mortal Wkly Rep2018;67(31):868-871.Published 2018 Aug 10.doi:10.15585/mmwr.mm6731e2
+6.Polen KD, Gilboa SM, Hills S, et al: Update: Interim Guidance for Preconception Counseling and Prevention of Sexual Transmission of Zika Virus for Men with Possible Zika Virus Exposure - United States, August 2018.MMWR Morb Mortal Wkly Rep2018;67(31):868-871.Published 2018 Aug 10.doi:10.15585/mmwr.mm6731e2
+
+【寨卡病毒感染的治疗】
+支持治疗
+支持治疗
+寨卡病毒感染尚无针对性的抗病毒治疗。
+治疗主要是支持性的，包括以下部分：
+补液防止脱水
+补液防止脱水
+对乙酰氨基酚缓解发热和疼痛
+对乙酰氨基酚缓解发热和疼痛
+避免阿司匹林和其他非甾体抗炎药（NSAIDs）
+避免阿司匹林和其他非甾体抗炎药（NSAIDs）
+怀孕期间通常不使用阿司匹林和其他非甾体抗炎药（NSAIDs），所有接受寨卡病毒感染治疗的患者都应该特别避免，直到可以排除登革热，因为出血是一种风险。此外，由于寨卡病毒导致的死亡和严重感染与免疫性血小板减少症和出血有关（1,2)。
+如果孕妇有血清、尿液或羊水中寨卡病毒的实验室证据，则应考虑每3至4周进行系列超声检查，以监测胎儿解剖结构和生长。建议转介给具有妊娠管理专业知识的母胎医学或传染病专家（3）。
+对于感染寨卡病毒的母亲所生的所有婴儿，无论婴儿是否出现小头畸形、眼部病变或其他提示先天性寨卡综合征的表现，都应对其大脑发育进行 ≥ 2 年的监测。美国疾病控制与预防中心有大量关于寨卡病毒感染婴儿检测和护理的信息（4,5）。
+
+【治疗参考文献】
+1.Sharp TM, Muñoz-Jordán J, Perez-Padilla J, et al: Zika virus infection associated with severe thrombocytopenia.Clin Infect Dis63 (9):1198–1201, 2016.doi: 10.1093/cid/ciw476
+1.Sharp TM, Muñoz-Jordán J, Perez-Padilla J, et al: Zika virus infection associated with severe thrombocytopenia.Clin Infect Dis63 (9):1198–1201, 2016.doi: 10.1093/cid/ciw476
+2.Karimi O, Goorhuis A, Schinkel J, et al: Thrombocytopenia and subcutaneous bleedings in a patient with Zika virus infection.The Lancet387 (10022):939–940, 2016.doi: 10.1016/S0140-6736(16)00502-X
+2.Karimi O, Goorhuis A, Schinkel J, et al: Thrombocytopenia and subcutaneous bleedings in a patient with Zika virus infection.The Lancet387 (10022):939–940, 2016.doi: 10.1016/S0140-6736(16)00502-X
+3.Oduyebo T, Polen KD, Walke HT, et al: Update: Interim Guidance for Health Care Providers Caring for Pregnant Women with Possible Zika Virus Exposure — United States (Including U.S. Territories), July 2017.MMWR Morb Mortal Wkly Rep2017;66:781-793, 2017.Published 2017 Jul 28.doi:10.15585/mmwr.mm6629e1
+3.Oduyebo T, Polen KD, Walke HT, et al: Update: Interim Guidance for Health Care Providers Caring for Pregnant Women with Possible Zika Virus Exposure — United States (Including U.S. Territories), July 2017.MMWR Morb Mortal Wkly Rep2017;66:781-793, 2017.Published 2017 Jul 28.doi:10.15585/mmwr.mm6629e1
+4.Russell K, Oliver SE, Lewis L, et al: Update: Interim Guidance for the Evaluation and Management of Infants with Possible Congenital Zika Virus Infection - United States, August 2016.MMWR Morb Mortal Wkly Rep65(33):870-878, 2016.Published 2016 Aug 26.doi:10.15585/mmwr.mm6533e2
+4.Russell K, Oliver SE, Lewis L, et al: Update: Interim Guidance for the Evaluation and Management of Infants with Possible Congenital Zika Virus Infection - United States, August 2016.MMWR Morb Mortal Wkly Rep65(33):870-878, 2016.Published 2016 Aug 26.doi:10.15585/mmwr.mm6533e2
+5.Adebanjo T, Godfred-Cato S, Viens L, et al.Update: Interim Guidance for the Diagnosis, Evaluation, and Management of Infants with Possible Congenital Zika Virus Infection - United States, October 2017.MMWR Morb Mortal Wkly Rep66(41):1089-1099, 2017.Published 2017 Oct 20.doi:10.15585/mmwr.mm6641a1C
+5.Adebanjo T, Godfred-Cato S, Viens L, et al.Update: Interim Guidance for the Diagnosis, Evaluation, and Management of Infants with Possible Congenital Zika Virus Infection - United States, October 2017.MMWR Morb Mortal Wkly Rep66(41):1089-1099, 2017.Published 2017 Oct 20.doi:10.15585/mmwr.mm6641a1C
+
+【预防寨卡病毒感染】
+如果可能，孕妇不应前往寨卡病毒持续爆发的地区。如果前往这些地区，孕妇应与产科医生讨论寨卡病毒感染的风险以及旅行期间避免蚊虫叮咬的预防措施。
+目前尚无预防寨卡病毒感染的疫苗。
+
+【预防通过蚊子传播】
+预防寨卡病毒感染取决于控制伊蚊和在前往寨卡病毒流行国家时预防蚊虫叮咬。控制埃及伊蚊一直很困难；然而，两种方法看起来很有希望（1）。
+释放与野生雌性交配的经过基因改造的雄性或绝育雄性，其幼虫后代无法成熟或其卵不育
+释放与野生雌性交配的经过基因改造的雄性或绝育雄性，其幼虫后代无法成熟或其卵不育
+释放感染了沃尔巴克氏体细菌的雌性埃及伊蚊，这些细菌能阻断受感染蚊子及其后代对寨卡病毒的易感性。
+释放感染了沃尔巴克氏体细菌的雌性埃及伊蚊，这些细菌能阻断受感染蚊子及其后代对寨卡病毒的易感性。
+为防止蚊虫叮咬，应采取以下预防措施（2,3）：
+穿长袖衬衫和长裤。
+穿长袖衬衫和长裤。
+留在有空调或使用纱窗和纱门的地方，以防止蚊子进入。
+留在有空调或使用纱窗和纱门的地方，以防止蚊子进入。
+如果居住地没有充分安装纱窗或空调，应睡在蚊帐中。
+如果居住地没有充分安装纱窗或空调，应睡在蚊帐中。
+在暴露的皮肤表面使用环境保护局注册的防虫剂，其主要成分应为DEET（二乙基甲苯酰胺）或其他已批准的活性成分。
+在暴露的皮肤表面使用环境保护局注册的防虫剂，其主要成分应为DEET（二乙基甲苯酰胺）或其他已批准的活性成分。
+用氯菊酯杀虫剂处理衣物和装备（不要直接喷在皮肤上）。
+用氯菊酯杀虫剂处理衣物和装备（不要直接喷在皮肤上）。
+对于儿童，建议采取以下预防措施：
+<2个月的婴儿不要使用驱虫剂。
+<2个月的婴儿不要使用驱虫剂。
+3岁以下的儿童请勿使用含有柠檬桉油（对薄荷烷二醇）的产品。
+3岁以下的儿童请勿使用含有柠檬桉油（对薄荷烷二醇）的产品。
+对于年龄较大的儿童，成人应在手上喷洒驱蚊剂，然后应用于儿童皮肤。
+对于年龄较大的儿童，成人应在手上喷洒驱蚊剂，然后应用于儿童皮肤。
+让儿童穿着能遮住胳膊和腿的衣服，或用蚊帐遮盖婴儿床、婴儿车或婴儿提篮。
+让儿童穿着能遮住胳膊和腿的衣服，或用蚊帐遮盖婴儿床、婴儿车或婴儿提篮。
+请勿对儿童的手、眼、口、伤口或受刺激的皮肤使用驱虫剂。
+请勿对儿童的手、眼、口、伤口或受刺激的皮肤使用驱虫剂。
+
+【预防性传播】
+在症状出现后281天，精液中仍可检测到寨卡病毒的RNA（4），但检测到病毒RNA并不一定表明存在传染性病毒。一般而言，感染性寨卡病毒排毒限于发病后最初几周，但仍存在后期传播的可能性。由于寨卡病毒可以通过精液传播，如果一方或双方居住在当前或最近寨卡病毒传播的地区，人们应使用避孕套或禁欲。无论人们是否有症状，这一建议都适用，因为大多数寨卡病毒感染是无症状的或仅与轻微症状相关。
+有已孕伴侣的男性：在怀孕期间避免性活动，或使用避孕套并避免共用性玩具
+有已孕伴侣的男性：在怀孕期间避免性活动，或使用避孕套并避免共用性玩具
+男性在有或没有女性伴侣的情况下前往有寨卡病毒风险的地区：返回后（或出现症状）3 个月内避免性活动或使用安全套
+男性在有或没有女性伴侣的情况下前往有寨卡病毒风险的地区：返回后（或出现症状）3 个月内避免性活动或使用安全套
+女性在没有男性伴侣的情况下前往有寨卡病毒风险的地区：在返回后（或症状开始）2 个月内避免性活动或使用安全套
+女性在没有男性伴侣的情况下前往有寨卡病毒风险的地区：在返回后（或症状开始）2 个月内避免性活动或使用安全套
+避孕套应在每次阴道、肛交或口交的全程使用。
+尽管尚未报告女性与女性之间的性传播病例，但 CDC 建议所有拥有曾前往或居住在寨卡病毒感染地区的女性性伴侣的孕妇，在每次阴道、肛交和口交时使用屏障法，或在怀孕期间避免性行为，并避免共用性玩具。
+有寨卡病毒暴露风险且计划怀孕的患者，应在症状出现或最后一次暴露后延迟怀孕3个月（5,6）。
+
+【预防参考文献】
+1.Rahul A, Reegan AD, Shriram AN, Fouque F, Rahi M.Innovative sterile male release strategies for Aedes mosquito control: progress and challenges in integrating evidence of mosquito population suppression with epidemiological impact.Infect Dis Poverty2024;13(1):91.Published 2024 Dec 3.doi:10.1186/s40249-024-01258-5
+1.Rahul A, Reegan AD, Shriram AN, Fouque F, Rahi M.Innovative sterile male release strategies for Aedes mosquito control: progress and challenges in integrating evidence of mosquito population suppression with epidemiological impact.Infect Dis Poverty2024;13(1):91.Published 2024 Dec 3.doi:10.1186/s40249-024-01258-5
+2.Connelly CR, Gimnig JE: Mosquitoes, Ticks, and Other Arthropods.In CDC Yellow Book: Health Information for International Travel.April 23, 2025.Accessed June 20, 2025.
+2.Connelly CR, Gimnig JE: Mosquitoes, Ticks, and Other Arthropods.In CDC Yellow Book: Health Information for International Travel.April 23, 2025.Accessed June 20, 2025.
+3.Centers for Disease Control and Prevention: Zika Virus: Preventing Zika.January 30, 2025.Accessed June 20, 2025.
+3.Centers for Disease Control and Prevention: Zika Virus: Preventing Zika.January 30, 2025.Accessed June 20, 2025.
+4.Mead PS, Duggal NK, Hook SA, et al: Zika Virus Shedding in Semen of Symptomatic Infected Men.N Engl J Med378(15):1377-1385, 2018.doi:10.1056/NEJMoa1711038
+4.Mead PS, Duggal NK, Hook SA, et al: Zika Virus Shedding in Semen of Symptomatic Infected Men.N Engl J Med378(15):1377-1385, 2018.doi:10.1056/NEJMoa1711038
+5.Petersen EE, Meaney-Delman D, Neblett-Fanfair R, et al: Update: Interim Guidance for Preconception Counseling and Prevention of Sexual Transmission of Zika Virus for Persons with Possible Zika Virus Exposure - United States, September 2016.MMWR Morb Mortal Wkly Rep65(39):1077-1081, 2016.Published 2016 Oct 7.doi:10.15585/mmwr.mm6539e1
+5.Petersen EE, Meaney-Delman D, Neblett-Fanfair R, et al: Update: Interim Guidance for Preconception Counseling and Prevention of Sexual Transmission of Zika Virus for Persons with Possible Zika Virus Exposure - United States, September 2016.MMWR Morb Mortal Wkly Rep65(39):1077-1081, 2016.Published 2016 Oct 7.doi:10.15585/mmwr.mm6539e1
+6.Polen KD, Gilboa SM, Hills S, et al: Update: Interim Guidance for Preconception Counseling and Prevention of Sexual Transmission of Zika Virus for Men with Possible Zika Virus Exposure - United States, August 2018.MMWR Morb Mortal Wkly Rep67(31):868-871, 2018.Published 2018 Aug 10.doi:10.15585/mmwr.mm6731e2
+6.Polen KD, Gilboa SM, Hills S, et al: Update: Interim Guidance for Preconception Counseling and Prevention of Sexual Transmission of Zika Virus for Men with Possible Zika Virus Exposure - United States, August 2018.MMWR Morb Mortal Wkly Rep67(31):868-871, 2018.Published 2018 Aug 10.doi:10.15585/mmwr.mm6731e2
+寨卡病毒主要由伊蚊传播。
+寨卡病毒主要由伊蚊传播。
+大多数寨卡病毒感染无症状；症状性感染通常较轻，引起发热、斑丘疹、结膜炎、关节痛、眶后痛、头痛和肌痛。
+大多数寨卡病毒感染无症状；症状性感染通常较轻，引起发热、斑丘疹、结膜炎、关节痛、眶后痛、头痛和肌痛。
+孕期感染寨卡病毒可能导致先天性寨卡病毒综合征，其症状包括称为小头畸形的严重出生缺陷以及眼部和其他病变。
+孕期感染寨卡病毒可能导致先天性寨卡病毒综合征，其症状包括称为小头畸形的严重出生缺陷以及眼部和其他病变。
+对所有感染寨卡病毒的母亲所生婴儿的脑发育进行监测，持续至少2年，无论婴儿是否出现小头畸形或眼部病变。
+对所有感染寨卡病毒的母亲所生婴儿的脑发育进行监测，持续至少2年，无论婴儿是否出现小头畸形或眼部病变。
+若孕妇曾前往或居住于寨卡病毒持续传播地区，应使用血清学检测（ELISA检测IgM、空斑减少中和试验）或RT-PCR进行寨卡病毒检测。
+若孕妇曾前往或居住于寨卡病毒持续传播地区，应使用血清学检测（ELISA检测IgM、空斑减少中和试验）或RT-PCR进行寨卡病毒检测。
+治疗主要是支持性的；退热可使用对乙酰氨基酚，并避免使用阿司匹林或其他非甾体抗炎药，直到排除登革热。
+治疗主要是支持性的；退热可使用对乙酰氨基酚，并避免使用阿司匹林或其他非甾体抗炎药，直到排除登革热。
+孕妇不应前往寨卡病毒持续爆发的地区。
+孕妇不应前往寨卡病毒持续爆发的地区。
+寨卡病毒的预防取决于对伊蚊的控制和避免蚊虫叮咬。
+寨卡病毒的预防取决于对伊蚊的控制和避免蚊虫叮咬。
+由于寨卡病毒可通过性传播，生活或曾去过寨卡病毒持续传播地区的男性和女性应在性行为期间避免性行为或始终正确使用屏障方法，包括当女性伴侣怀孕时。
+由于寨卡病毒可通过性传播，生活或曾去过寨卡病毒持续传播地区的男性和女性应在性行为期间避免性行为或始终正确使用屏障方法，包括当女性伴侣怀孕时。

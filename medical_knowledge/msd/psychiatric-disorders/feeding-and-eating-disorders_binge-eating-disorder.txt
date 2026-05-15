@@ -1,0 +1,85 @@
+标题：暴食障碍
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/feeding-and-eating-disorders/binge-eating-disorder
+============================================================
+
+在一般人群中，暴食症影响着大约 1% 至 2% 的女性和不到 1% 的男性。据一些估计，超过3%的少女和1%的少男受到影响（1）。与神经性贪食症不同，暴食症多见于超重或肥胖人群，并导致热量摄入过多；在某些减重项目中，其患病率可达 17%～27%（2, 3）。与患有神经性厌食症或神经性贪食症的人相比，暴食症患者的平均诊断年龄较大（4）。
+遗传变异和肠道微生物群可能起致病作用，但这尚未得到明确证实（1）。
+
+【参考文献】
+1.Giel KE, Bulik CM, Fernandez-Aranda F, et al.Binge eating disorder.Nat Rev Dis Primers.2022;8(1):16.Published 2022 Mar 17.doi:10.1038/s41572-022-00344-y
+1.Giel KE, Bulik CM, Fernandez-Aranda F, et al.Binge eating disorder.Nat Rev Dis Primers.2022;8(1):16.Published 2022 Mar 17.doi:10.1038/s41572-022-00344-y
+2.Graungaard S, Christensen TL, Soendergaard LN, Telléus GK.Prevalence of eating disorder symptomatology among outpatients referred to health promotion from somatic hospital departments.BMC Psychiatry.2023;23(1):841.Published 2023 Nov 15.doi:10.1186/s12888-023-05331-5
+2.Graungaard S, Christensen TL, Soendergaard LN, Telléus GK.Prevalence of eating disorder symptomatology among outpatients referred to health promotion from somatic hospital departments.BMC Psychiatry.2023;23(1):841.Published 2023 Nov 15.doi:10.1186/s12888-023-05331-5
+3.Montano CB, Rasgon NL, Herman BK.Diagnosing binge eating disorder in a primary care setting.Postgrad Med.2016;128(1):115-123.doi:10.1080/00325481.2016.1115330
+3.Montano CB, Rasgon NL, Herman BK.Diagnosing binge eating disorder in a primary care setting.Postgrad Med.2016;128(1):115-123.doi:10.1080/00325481.2016.1115330
+4.Udo T, Grilo CM.Prevalence and Correlates of DSM-5-Defined Eating Disorders in a Nationally Representative Sample of U.S. Adults.Biol Psychiatry.2018;84(5):345-354.doi:10.1016/j.biopsych.2018.03.014
+4.Udo T, Grilo CM.Prevalence and Correlates of DSM-5-Defined Eating Disorders in a Nationally Representative Sample of U.S. Adults.Biol Psychiatry.2018;84(5):345-354.doi:10.1016/j.biopsych.2018.03.014
+
+【暴食症的症状和体征】
+暴食发作时，个体摄入的食物量远超大多数人在相似情境、相近时间内的食量。在暴食期间和之后，会感觉好像失去了控制。暴食后并不会有代偿行为：自我催吐，使用泻药或利尿药，过度运动和/或禁食。暴食呈发作性，并非持续性过量进食（即 “零散进食”） (1)。
+暴食障碍的病人通常为此苦恼。患有暴饮暴食症的肥胖者中，轻度至中度抑郁症和对体型、体重或两者都有顾虑的情况比体重相近但不暴饮暴吃的人更常见 (2, 3)。
+暴食症与超重和肥胖密切相关，暴食症患者有发生与肥胖相关的医疗并发症（如高血压和糖尿病）的风险（4）。
+
+【症状和体征参考】
+1.Uniacke B, Walsh BT.Eating Disorders.Ann Intern Med.2022;175(8):ITC113-ITC128.doi:10.7326/AITC202208160
+1.Uniacke B, Walsh BT.Eating Disorders.Ann Intern Med.2022;175(8):ITC113-ITC128.doi:10.7326/AITC202208160
+2.Sommer LM, Halbeisen G, Erim Y, Paslakis G.Two of a Kind?Mapping the Psychopathological Space between Obesity with and without Binge Eating Disorder.Nutrients.2021;13(11):3813.Published 2021 Oct 26.doi:10.3390/nu13113813
+2.Sommer LM, Halbeisen G, Erim Y, Paslakis G.Two of a Kind?Mapping the Psychopathological Space between Obesity with and without Binge Eating Disorder.Nutrients.2021;13(11):3813.Published 2021 Oct 26.doi:10.3390/nu13113813
+3.Jones-Corneille LR, Wadden TA, Sarwer DB, et al.Axis I psychopathology in bariatric surgery candidates with and without binge eating disorder: results of structured clinical interviews.Obes Surg.2012;22(3):389-397.doi:10.1007/s11695-010-0322-9
+3.Jones-Corneille LR, Wadden TA, Sarwer DB, et al.Axis I psychopathology in bariatric surgery candidates with and without binge eating disorder: results of structured clinical interviews.Obes Surg.2012;22(3):389-397.doi:10.1007/s11695-010-0322-9
+4.Giel KE, Bulik CM, Fernandez-Aranda F, et al.Binge eating disorder.Nat Rev Dis Primers.2022;8(1):16.Published 2022 Mar 17.doi:10.1038/s41572-022-00344-y
+4.Giel KE, Bulik CM, Fernandez-Aranda F, et al.Binge eating disorder.Nat Rev Dis Primers.2022;8(1):16.Published 2022 Mar 17.doi:10.1038/s41572-022-00344-y
+
+【暴食障碍的诊断】
+精神评估
+精神评估
+来自《精神障碍诊断与统计手册》第5版文本修订版（DSM-5-TR）的暴食障碍诊断临床标准要求满足以下条件（1）：
+暴饮暴食平均至少每周一次，持续 3 个月
+暴饮暴食平均至少每周一次，持续 3 个月
+患者对饮食缺乏控制感
+患者对饮食缺乏控制感
+另外，还需具备≥3项的下列表现：
+进食速度远快于正常水平
+进食速度远快于正常水平
+进食到饱胀并且不适
+进食到饱胀并且不适
+并不饥饿但进食大量食物
+并不饥饿但进食大量食物
+害怕尴尬而独自进食
+害怕尴尬而独自进食
+过量进食后出现厌恶感、抑郁情绪或愧疚感
+过量进食后出现厌恶感、抑郁情绪或愧疚感
+暴食症与神经性贪食症（后者也存在暴食行为）不同，缺乏补偿行为（如自我诱发呕吐，使用泻药或利尿剂，过度运动，禁食）。
+
+【诊断参考文献】
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition Text Revision, DSM-5-TRFeeding and Eating Disorders: Binge-eating disorder.American Psychiatric Association Publishing, Washington, DC, pp 392-396.
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition Text Revision, DSM-5-TRFeeding and Eating Disorders: Binge-eating disorder.American Psychiatric Association Publishing, Washington, DC, pp 392-396.
+
+【暴食障碍的治疗】
+认知行为治疗
+认知行为治疗
+有时采用人际关系治疗
+有时采用人际关系治疗
+考虑药物治疗，通常为选择性 5 - 羟色胺再摄取抑制剂 [SSRIs] 或苯丁胺
+考虑药物治疗，通常为选择性 5 - 羟色胺再摄取抑制剂 [SSRIs] 或苯丁胺
+认知行为疗法是研究最多、支持最好的暴饮暴食症治疗方法，但人际心理疗法似乎同样有效 (1)。两种治疗方法的缓解率均约为 50%，且疗效通常能长期良好维持 (2)。这些治疗不会显著减轻肥胖患者的体重。
+传统的减肥治疗对于减少暴食行为在短期内有效，但容易复发 (3)。抗抑郁药物 （如SSRIs） 对消除暴食也有短期疗效，但长期效果尚不明确。利右苯丙胺也可用于治疗中重度暴食障碍。它可以减少暴饮暴食的天数，似乎会造成轻微的体重减轻，但其长期有效性不明确。 抑制食欲的药物（如托吡酯）或减肥药（如奥利司他）可能有帮助。
+减肥手术可以短期改善暴食症，可能是通过改变激素环境和肠道微生物群（4）。长期疗效的证据尚不明确；在一项研究中，大约三分之一的术前暴饮暴食者报告称在减重手术后 10 年仍有暴饮暴食（5）。
+
+【治疗参考文献】
+1.Grilo CM.Treatment of Eating Disorders: Current Status, Challenges, and Future Directions.Annu Rev Clin Psychol.2024;20(1):97-123.doi:10.1146/annurev-clinpsy-080822-043256
+1.Grilo CM.Treatment of Eating Disorders: Current Status, Challenges, and Future Directions.Annu Rev Clin Psychol.2024;20(1):97-123.doi:10.1146/annurev-clinpsy-080822-043256
+2.Linardon J.Rates of abstinence following psychological or behavioral treatments for binge-eating disorder: Meta-analysis.Int J Eat Disord.2018;51(8):785-797.doi:10.1002/eat.22897
+2.Linardon J.Rates of abstinence following psychological or behavioral treatments for binge-eating disorder: Meta-analysis.Int J Eat Disord.2018;51(8):785-797.doi:10.1002/eat.22897
+3.Giel KE, Bulik CM, Fernandez-Aranda F, et al.Binge eating disorder.Nat Rev Dis Primers.2022;8(1):16.Published 2022 Mar 17.doi:10.1038/s41572-022-00344-y
+3.Giel KE, Bulik CM, Fernandez-Aranda F, et al.Binge eating disorder.Nat Rev Dis Primers.2022;8(1):16.Published 2022 Mar 17.doi:10.1038/s41572-022-00344-y
+4.Morad-Abbasi R, Zare-Shahne F, Naeini F, Saidpour A, Etesam F, Hosseinzadeh-Attar MJ.Effects of bariatric surgeries on Binge eating disorders, Food addiction, and eating behaviors: A comprehensive systematic review of RCTs.Clin Nutr ESPEN.2025;67:222-232.doi:10.1016/j.clnesp.2025.03.016
+4.Morad-Abbasi R, Zare-Shahne F, Naeini F, Saidpour A, Etesam F, Hosseinzadeh-Attar MJ.Effects of bariatric surgeries on Binge eating disorders, Food addiction, and eating behaviors: A comprehensive systematic review of RCTs.Clin Nutr ESPEN.2025;67:222-232.doi:10.1016/j.clnesp.2025.03.016
+5.Reas DL, Lie SØ, Mala T, Lundin Kvalem I.Binge Eating Behaviour Before and 10 Years Following Metabolic and Bariatric Surgery.Eur Eat Disord Rev.2025;33(3):544-550.doi:10.1002/erv.3161
+5.Reas DL, Lie SØ, Mala T, Lundin Kvalem I.Binge Eating Behaviour Before and 10 Years Following Metabolic and Bariatric Surgery.Eur Eat Disord Rev.2025;33(3):544-550.doi:10.1002/erv.3161
+暴食障碍患者会出现大量进食的发作性表现，不会通过呕吐或其他清除行为进行代偿，且多存在超重或肥胖情况。
+暴食障碍患者会出现大量进食的发作性表现，不会通过呕吐或其他清除行为进行代偿，且多存在超重或肥胖情况。
+根据临床标准（包括暴饮暴食平均至少每周一次，持续3个月，伴有对进食失去控制感）诊断暴食症。
+根据临床标准（包括暴饮暴食平均至少每周一次，持续3个月，伴有对进食失去控制感）诊断暴食症。
+治疗方法包括认知行为疗法或人际心理治疗，有时也可使用药物（如选择性5-羟色胺再摄取抑制剂[SSRIs]，考虑药物治疗（SSRIs 或苯丁胺）。
+治疗方法包括认知行为疗法或人际心理治疗，有时也可使用药物（如选择性5-羟色胺再摄取抑制剂[SSRIs]，考虑药物治疗（SSRIs 或苯丁胺）。

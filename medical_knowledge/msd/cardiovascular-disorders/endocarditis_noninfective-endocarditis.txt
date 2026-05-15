@@ -1,0 +1,59 @@
+标题：非感染性心内膜炎
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/endocarditis/noninfective-endocarditis
+============================================================
+
+心内膜炎通常指心内膜的感染（即感染性心内膜炎）该术语也包括非感染性心内膜炎，其心瓣膜上和邻近的心内膜上形成无菌的血小板和纤维素血栓。非感染性心内膜炎有时可导致感染性心内膜炎。感染和非感染性心内膜炎两者均可引起栓塞现象和心功能的损害。
+非感染性心内膜炎很少见，通常在尸检时作出诊断（1）。临床诊断是基于一系列临床发现，而不是一个明确的测试结果。
+
+【参考文献】
+1.Hurrell H, Roberts-Thomson R, Prendergast BD: Non-infective endocarditis.Heart106(13):1023–1029, 2020. doi: 10.1136/heartjnl-2019-315204
+1.Hurrell H, Roberts-Thomson R, Prendergast BD: Non-infective endocarditis.Heart106(13):1023–1029, 2020. doi: 10.1136/heartjnl-2019-315204
+
+【非感染性心内膜炎的病因】
+赘生物不是由感染引起的。它们在临床上可能不被检出，或成为一个感染的病灶（导致感染性心内膜炎），引起栓塞或瓣膜功能损害。瓣膜破坏并不常见。
+导管经过右心可能损伤三尖瓣和肺动脉瓣，导致血小板和纤维素附着于损伤的部位。在疾病如系统性红斑狼疮（SLE）中，循环免疫复合物可能引起易碎的血小板和纤维素赘生物沿瓣叶关闭缘分布（Libman-Sacks病变）。这些病变通常不会引起明显的瓣膜阻塞或反流。抗磷脂抗体综合征（狼疮抗凝、反复静脉血栓形成、卒中、自发性流产、网状青斑）也可导致无菌性心内膜赘生物和体循环栓塞。肉芽肿伴多血管炎、艾滋病毒感染， 或者新冠肺炎很少导致非感染性心内膜炎。
+
+【消耗性心内膜炎】
+在慢性消耗性疾病、弥散性血管内凝血、产生粘蛋白的转移性癌肿（例如肺、胃或胰腺）或慢性感染（如结核、肺炎、骨髓炎）的患者中，可能在其瓣膜上形成大的血栓性赘生物，并导致明显的脑、肾、脾、肠系膜、肢体和冠状动脉的栓塞。这些赘生物倾向于在先天性异常的心瓣膜或风湿热损害的瓣膜上形成。一半的弥漫性血管内凝血患者患有非感染性心内膜炎，这表明这两种情况之间存在关联。
+
+【非感染性心内膜炎的症状和体征】
+除非赘生物的大小和位置导致瓣膜功能障碍，有时引起呼吸困难和/或心悸，否则其本身很少引起症状。症状由栓塞引起，并取决于受累器官（例如脑、肾脏、脾脏、指端）。有时存在发热和心脏杂音。
+
+【非感染性心内膜炎的诊断】
+超声心动图
+超声心动图
+当慢性病患者发生提示动脉栓塞的症状时应怀疑非感染性心内膜炎。应作系列血培养和超声心动图检查。阴性血培养和瓣膜赘生物（但不是心房黏液瘤）则提示此诊断。栓子切除后的栓子碎片检查有助于作出诊断。
+与血培养阴性的感染性心内膜炎的鉴别可能是困难的，但却很重要。非感染性心内膜炎通常需要抗凝治疗，但感染性心内膜炎应避免抗凝，除非有预先存在的需求，例如机械瓣膜。应进行高凝性、抗核抗体和抗磷脂综合征的检测，以评估真正的非感染性心内膜炎的原因。
+进行脑成像以帮助指导治疗。
+
+【非感染性心内膜炎的治疗】
+抗凝治疗
+抗凝治疗
+基础疾病的管理
+基础疾病的管理
+很少需要手术
+很少需要手术
+除非脑部影像学发现病变容易发生出血性转化，否则治疗应包括长期肝素抗凝治疗（静脉注射未分级肝素或皮下注射低分子量肝素）(1)。直接口服抗凝剂（DOACs）和华法林不被认为有效，尽管在这种罕见的情况下还没有进行对比试验（2）。
+如可能，原发疾病应予以治疗。
+尽管采取了最佳药物治疗，但仍存在严重瓣膜功能障碍导致血流动力学不稳定或反复发生栓塞事件的情况下，可以考虑进行心脏手术（例如赘生物切除术、瓣膜置换术）。
+
+【治疗参考文献】
+1.Whitlock RP, Sun JC, Fremes SE, Rubens FD, Teoh KH.Antithrombotic and thrombolytic therapy for valvular disease: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines.Chest2012;141(2 Suppl):e576S-e600S.doi:10.1378/chest.11-2305
+1.Whitlock RP, Sun JC, Fremes SE, Rubens FD, Teoh KH.Antithrombotic and thrombolytic therapy for valvular disease: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines.Chest2012;141(2 Suppl):e576S-e600S.doi:10.1378/chest.11-2305
+2.Zmaili M, Alzubi J, Lo Presti Vega S, Ababneh E, Xu B.Non-bacterial thrombotic endocarditis: A state-of-the-art contemporary review.Prog Cardiovasc Dis2022;74:99-110.doi:10.1016/j.pcad.2022.10.009
+2.Zmaili M, Alzubi J, Lo Presti Vega S, Ababneh E, Xu B.Non-bacterial thrombotic endocarditis: A state-of-the-art contemporary review.Prog Cardiovasc Dis2022;74:99-110.doi:10.1016/j.pcad.2022.10.009
+
+【非感染性心内膜炎的预后】
+预后一般不良，因为原患的疾病比心脏本身的病变更严重。
+非感染性心内膜炎比感染性心内膜炎少见。
+非感染性心内膜炎比感染性心内膜炎少见。
+对诸如创伤，循环免疫复合物，血管炎或高凝状态等因素的反应，在心脏瓣膜上形成了无菌的赘生物。
+对诸如创伤，循环免疫复合物，血管炎或高凝状态等因素的反应，在心脏瓣膜上形成了无菌的赘生物。
+无菌赘生物可造成栓塞或感染，但很少损害瓣膜或心脏功能。
+无菌赘生物可造成栓塞或感染，但很少损害瓣膜或心脏功能。
+评估采用超声心动图检查和血培养排除感染性心内膜炎。
+评估采用超声心动图检查和血培养排除感染性心内膜炎。
+预后主要取决于潜在的病因，通常是严重的疾病。
+预后主要取决于潜在的病因，通常是严重的疾病。
+治疗方法通常是抗凝。
+治疗方法通常是抗凝。

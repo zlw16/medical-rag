@@ -1,0 +1,169 @@
+标题：卟啉症概述
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/the-porphyrias/overview-of-porphyrias
+============================================================
+
+血红素，一种含铁色素，是血红素蛋白重要的辅因子。几乎人体的所有细胞都需要并合成血红素。然而，大多数血红素（~85%）是在骨髓中合成的（由成红细胞和网织红细胞合成），并被掺入血红蛋白中。肝脏中的血红素合成非常活跃，仅次于骨髓，其中大部分通过细胞色素P-450酶进行。亚铁血红素合成需要8种酶（见表亚铁血红素生物合成途径的底物和酶)。 这些酶产生和转化被称为卟啉原或卟啉的一类分子，卟啉类如在体内积聚过多会产生毒性。
+
+【卟啉症的病因】
+除散发性迟发性皮肤卟啉症（PCT，也有遗传型）外，卟啉症是一种遗传性疾病。常染色体显性遗传最常见。
+在常染色体显性遗传的卟啉症，显性纯合或杂合子一般不能存活，通常造成胎儿死亡。由于杂合子卟啉症的外显率变化不定，因而临床发病率要低于遗传发病率。急性间歇性卟啉症 (AIP) 和迟发性皮肤卟啉症 (PCT) 是最常见的卟啉症。最常见的2种卟啉症中，急性间歇性卟啉症（AIP）是常染色体显性遗传，约20%的PCT病例是常染色体显性遗传。二者的发病率均为1/10,000左右。AIP致病基因突变的发生率约为1/1500，但由于外显率较低，临床上该病的患病率约为1/10,000。PCT与AIP患病率的地区与种族变异较大 (1,2,3,4)。
+在常染色体隐性遗传的卟啉症中，仅纯合子或复合杂合状态才导致疾病。红细胞生成性原卟啉症是第三常见的卟啉症，是常染色体隐性遗传病。
+X连锁遗传发生在某种卟啉症中，即X连锁原卟啉症（XLP），其存在功能获得性突变，通常是ALAS2基因外显子11的缺失。
+
+【血红素生物合成途径的底物和酶及其功能缺失或获得相关疾病】
+血红素生物合成途径的底物和酶及其功能缺失或获得相关疾病
+底物与酶*
+脑脊髓交感神经系统症状
+皮肤症状
+遗传方式
+甘氨酸+琥珀酰辅酶A
+红细胞特异性delta-合成酶-2 (ALAS 2)†
+X-连锁原卟啉症（由于上调酶活性）†
+表型与红细胞生成性原卟啉症类似
+delta-氨基乙酰丙酸
+δ-脱水酶（ALAD）（也称为卟胆原[PBG]合成酶）
+ALAD缺乏性卟啉症
+常染色体隐性遗传
+胆色素原
+胆色素原脱氨酶（也称为羟甲基胆红素合酶）
+急性间歇性卟啉症
+常染色体显性
+羟甲基胆色烷
+尿卟啉原Ⅲ同合酶
+先天性红细胞生成性卟啉症
+严重，致残性疾病
+常染色体隐性遗传
+尿卟啉原Ⅲ
+尿卟啉原脱羧酶
+迟发性皮肤卟啉症
+皮肤脆弱、水疱、大疱
+两个变种：
+常染色体显性（占20～25％）
+常染色体显性（占20～25％）
+遗传方式未知（散发性，75-80％）
+遗传方式未知（散发性，75-80％）
+肝性红细胞生成性卟啉症
+婴儿期起严重起泡；经常毁容
+常染色体隐性遗传
+粪卟啉原Ⅲ
+粪卟啉原氧化酶
+遗传性粪卟啉症
+皮肤脆弱，水疱
+常染色体显性
+初卟啉原Ⅸ
+初卟啉原氧化酶
+混合型卟啉症
+皮肤脆弱，水疱
+常染色体显性
+初卟啉Ⅸ
+亚铁螯合酶
+红细胞生成性原卟啉症
+没有，严重的肝胆疾病患者除外
+皮肤疼痛、肿胀、发红；苔藓化和其他轻微的皮肤变化，但没有起泡
+常染色体隐性遗传
+血红素（包括在各种血红素蛋白质的最终产物）
+*血红素生物合成通路中连续的中间产物，从甘氨酸和琥珀酰CoA开始到血红素结束。一种酶的缺乏可使其前体物堆积。
+†X连锁原卟啉症源于X染色体上的基因突变，导致 ALAS 2活性上调，引起原卟啉的积累。ALAS 2活性下降导致铁粒幼红细胞性贫血。
+*血红素生物合成通路中连续的中间产物，从甘氨酸和琥珀酰CoA开始到血红素结束。一种酶的缺乏可使其前体物堆积。
+†X连锁原卟啉症源于X染色体上的基因突变，导致 ALAS 2活性上调，引起原卟啉的积累。ALAS 2活性下降导致铁粒幼红细胞性贫血。
+
+【病因参考文献】
+1.Chen B, Solis-Villa C, Hakenberg J, et al.Acute Intermittent Porphyria: Predicted Pathogenicity of HMBS Variants Indicates Extremely Low Penetrance of the Autosomal Dominant Disease. Hum Mutat.2016;37(11):1215-1222.doi:10.1002/humu.23067
+1.Chen B, Solis-Villa C, Hakenberg J, et al.Acute Intermittent Porphyria: Predicted Pathogenicity of HMBS Variants Indicates Extremely Low Penetrance of the Autosomal Dominant Disease. Hum Mutat.2016;37(11):1215-1222.doi:10.1002/humu.23067
+2.Chen B, Whatley S, Badminton M, et al.International Porphyria Molecular Diagnostic Collaborative: an evidence-based database of verified pathogenic and benign variants for the porphyrias.Genet Med2019;21(11):2605-2613.doi:10.1038/s41436-019-0537-7
+2.Chen B, Whatley S, Badminton M, et al.International Porphyria Molecular Diagnostic Collaborative: an evidence-based database of verified pathogenic and benign variants for the porphyrias.Genet Med2019;21(11):2605-2613.doi:10.1038/s41436-019-0537-7
+3.Elder G, Harper P, Badminton M, Sandberg S, Deybach JC.The incidence of inherited porphyrias in Europe.J Inherit Metab Dis2013;36(5):849-857.doi:10.1007/s10545-012-9544-4
+3.Elder G, Harper P, Badminton M, Sandberg S, Deybach JC.The incidence of inherited porphyrias in Europe.J Inherit Metab Dis2013;36(5):849-857.doi:10.1007/s10545-012-9544-4
+4.Yasuda M, Chen B, Desnick RJ.Recent advances on porphyria genetics: Inheritance, penetrance & molecular heterogeneity, including new modifying/causative genes.Mol Genet Metab2019;128(3):320-331.doi:10.1016/j.ymgme.2018.11.012
+4.Yasuda M, Chen B, Desnick RJ.Recent advances on porphyria genetics: Inheritance, penetrance & molecular heterogeneity, including new modifying/causative genes.Mol Genet Metab2019;128(3):320-331.doi:10.1016/j.ymgme.2018.11.012
+
+【卟啉症的病理生理学】
+血红素生物合成通路的后7种酶中缺乏任何一种，或合成通路中第一种酶，δ-氨基乙酰丙酸[ALA]合成酶-2（ALAS 2）的红系活性增加，均可导致卟啉症。(ALAS 2的缺乏会引起铁粒幼细胞贫血而不是卟啉症）。每种酶都由一个基因编码，而任何一种突变都可改变酶的水平和/或活性。当血红素合成通路中的一种酶缺乏或有缺陷时，在正常情况下由该酶转化的底物及其他血红素前体物可堆积于骨髓、肝脏、皮肤或其他组织中而产生毒性。这些前体物的血浓度增高，并通过尿液、胆汁、或粪便排出。
+尽管卟啉症是根据缺乏酶最精确地定义的，但根据血红素前体（肝细胞或红细胞）过度产生的主要部位或主要临床特征（急性或皮肤）进行分类通常是有用的。
+急性卟啉症表现为剧烈疼痛的间歇性发作。通常患者有腹部、精神和神经系统症状。急性发作通常由禁食或速成节食、过量饮酒、药物、并发疾病、生活压力和其他外源性因素引发。在年轻女性中，周期性激素活动也是急性发作的典型诱因。
+皮肤卟啉症往往产生持续的或间歇性皮肤光过敏等症状。有些急性卟啉症（遗传性粪卟啉病、不定性卟啉病）患者也有皮肤表现。由于杂合子卟啉症的外显率变化不定，因而临床发病率要低于遗传发病率（见表两种最常见的肝卟啉症的主要特征）。
+除红细胞生成性原卟啉（EPP）和ALAD缺乏性卟啉外，所有卟啉的症状期都可能出现尿液变色（红色或红棕色）。变色是由卟啉原氧化为其相应的卟啉、卟啉前体卟啉原（PBG）或两者产生的。有时颜色改变要在尿液暴露于光线中数分钟至数小时后出现，因为非酵素氧化需要时间。除ALAD缺乏性卟啉症外，急性卟啉症中约1/3杂合子（女性多于男性）潜伏期中的尿PBG排泄量（和尿色改变）也增多。由于尿液变成粉红色到棕色有许多其他原因，尤其是在接触光线和空气后，因此这一发现虽然作为提示卟啉症诊断的线索很有用，但既不是确诊也不是排除该诊断所必需或充分的条件。准确诊断需依赖生化指标检测。
+
+【两种最常见的肝性卟啉症的主要特征】
+两种最常见的肝性卟啉症的主要特征
+使病情加重的因素
+最重要的筛选试验*
+急性间歇性卟啉症
+脑脊髓交感神经系统（间隙性，急性）
+禁食/极端节食
+胃袖状切除术或胃旁路手术
+药物（主要为P-450诱导剂）
+有机溶剂
+身体或精神上的压力/并发疾病
+孕酮/孕激素
+尿PBG和肌酐†
+Givosiran
+迟发性皮肤卟啉症
+皮肤水疱（慢性）
+丙型肝炎病毒
+血（或尿）卟啉
+治疗丙型肝炎病毒感染的直接作用抗病毒药物
+小剂量氯喹或羟氯喹
+放血疗法
+*在症状期。
+† 肌酐用于标准化尿卟胆原（PBG）水平，因为尿液稀释度会有所不同。
+PBG=胆色素原。
+*在症状期。
+† 肌酐用于标准化尿卟胆原（PBG）水平，因为尿液稀释度会有所不同。
+PBG=胆色素原。
+
+【卟啉症的诊断】
+血液或尿液检验
+血液或尿液检验
+如患者症状疑似卟啉症，应检查其血或尿液中有无卟啉或卟啉前体胆色素原（PBG）和δ-氨基乙酰丙酸（ALA）（见表卟啉症的筛查和确诊检测)。如结果异常（见），应作进一步检查。
+无症状患者，包括疑似携带者和发作间期患者，评估方式相似。但在这些情况下，上述试验的敏感性较差；而红细胞或白细胞中的酶活性测定要敏感得多。 然而，对该途径中的许多酶（例如尿卟啉原 III 共合酶 [尿原 3 合酶]、粪卟啉原氧化酶 [CPOX]、原卟啉原氧化酶 [PPOX]、亚铁螯合酶 [FECH]）的测定通常无法获得或市售。
+遗传分析是高度准确的，并且当突变已知时优先用于家族内。基因检测将揭示大多数遗传性卟啉症患者的已知疾病相关突变；然而，在一小部分（~1%）受临床和生化影响的患者中，基因检测无法发现致病突变。因此，正确的诊断仍然需要综合考虑临床、生化和遗传结果。遗传学分析非常准确，在基因突变已经确定时常优先用于家族中；现已能进行产前测试（包括羊水诊断或绒毛取样）但很少有此必要。
+
+【卟啉症的筛选和确认试验】
+卟啉症的筛选和确认试验
+急性脑脊髓交感神经系统症状
+尿ALA、PBG、肌酐（随机尿样）*
+血浆卟啉†
+确诊（筛查结果明显异常时）
+尿ALA、PBG、肌酐（定量检测）*
+粪和尿卟啉‡
+红细胞PBG脱氨酶
+血浆卟啉†
+基因检测
+红细胞卟啉（总和不含金属）
+尿液 ALA、PBG、卟啉和肌酐 （定量）*
+粪便卟啉‡
+血浆卟啉†
+基因检测
+* ‡按尿肌酐浓度校正结果。
+†首选方法为直接荧光分光光度测定法。
+‡†尿液和粪便卟啉只是在总量增加时才进行分离。
+Data fromWang B, Bonkovsky HL, Lim JK, Balwani M.AGA Clinical Practice Update on Diagnosis and Management of Acute Hepatic Porphyrias: Expert Review.Gastroenterology2023;164(3):484-491.doi:10.1053/j.gastro.2022.11.034
+ALA=delta-氨基乙酰丙酸；PBG=胆色素原。
+* ‡按尿肌酐浓度校正结果。
+†首选方法为直接荧光分光光度测定法。
+‡†尿液和粪便卟啉只是在总量增加时才进行分离。
+Data fromWang B, Bonkovsky HL, Lim JK, Balwani M.AGA Clinical Practice Update on Diagnosis and Management of Acute Hepatic Porphyrias: Expert Review.Gastroenterology2023;164(3):484-491.doi:10.1053/j.gastro.2022.11.034
+ALA=delta-氨基乙酰丙酸；PBG=胆色素原。
+
+【继发性卟啉尿】
+数种与卟啉症无关的疾病也可能导致尿卟啉排泄过多，这一现象称为继发性卟啉尿。
+血液病，肝胆疾病和中毒（例如，酒精，苯，铅）均可引起粪卟啉从尿中排泄增加。因为卟啉经胆汁排泄，任何肝胆疾病都可能引起尿中粪卟啉排泄增加。大量的药物和化学物质会抑制有机阴离子转运蛋白，这些转运蛋白通常将卟啉，尤其是粪卟啉转运到胆汁中；常见的例子包括青蒿琥酯、巴柳氮、贝那普利、氯丙酰胺、皮质类固醇、去甲氯环素、二氟尼柳、黄酮类化合物、厄贝沙坦、甲非那米酸、硝唑嗪、喷昔洛韦、丙磺舒、利福平、瑞舒伐他汀、司替哌妥、替米沙坦和缬沙坦等（1、2）。此类药物也可能导致尿卟啉排泄增加。某些药物也能诱导细胞色素P450酶的活性，从而导致ALAS-1的轻度诱导，并随后增加肝脏粪卟啉，同时尿卟啉也会升高。肝胆疾病时，尿卟啉也可以升高。原卟啉不溶于水，因此无法从尿中排出。
+引起继发性卟啉尿症的疾病（以及引起类似急性卟啉症的临床综合征的疾病）通常不会升高尿中 ALA 和 PBG 的水平，因此正常水平的 ALA 和 PBG 有助于区分继发性卟啉尿症和急性卟啉症。然而，铅中毒患者的尿ALA水平也可能是升高的。需要检测上述患者的血铅水平。若尿ALA与PBG正常或仅轻度升高，应使用高效液相色谱法测定尿总卟啉水平，与急性卟啉病综合症相鉴别。
+粪卟啉（CP）I和III及其他生物标志物可能作为某些药物相互作用的选择性和敏感性生物标志物（3,4,5,6）。此外，CP I和III是潜在的生物标志物，可用于追踪代谢功能障碍相关脂肪性肝炎的进展（7）。
+
+【继发性卟啉尿参考文献】
+1.An G, Wang X, Morris ME: Flavonoids are inhibitors of human organic anion transporter 1 (OAT1)-mediated transport.Drug Metab Dispos42(9):1357–1366, 2014. doi: 10.1124/dmd.114.059337
+1.An G, Wang X, Morris ME: Flavonoids are inhibitors of human organic anion transporter 1 (OAT1)-mediated transport.Drug Metab Dispos42(9):1357–1366, 2014. doi: 10.1124/dmd.114.059337
+2.Duan P, Li S, Ni A, et al: Potent inhibitors of human organic anion transporters 1 and 3 from clinical drug libraries: Discovery and molecular characterization.Mol Pharm9(11):3340–3346, 2012.doi: 10.1021/mp300365t
+2.Duan P, Li S, Ni A, et al: Potent inhibitors of human organic anion transporters 1 and 3 from clinical drug libraries: Discovery and molecular characterization.Mol Pharm9(11):3340–3346, 2012.doi: 10.1021/mp300365t
+3.Barnett S, Ogungbenro K, Ménochet K, et al: Comprehensive evaluation of the utility of 20 endogenous molecules as biomarkers of OATP1B inhibition compared withrosuvastatinand coproporphyrin I.J Pharmacol Exp Ther368(1):125–135, 2019.doi:10.1124/jpet.118.253062
+3.Barnett S, Ogungbenro K, Ménochet K, et al: Comprehensive evaluation of the utility of 20 endogenous molecules as biomarkers of OATP1B inhibition compared withrosuvastatinand coproporphyrin I.J Pharmacol Exp Ther368(1):125–135, 2019.doi:10.1124/jpet.118.253062
+4.Barnett S, Ogungbenro K, Ménochet K, et al: Gaining mechanistic insight into coproporphyrin I as endogenous biomarker for OATP1B-mediated drug-drug interactions using population pharmacokinetic modeling and simulation.Clin Pharmacol Ther104(3):564–574, 2018.doi:10.1002/cpt.983
+4.Barnett S, Ogungbenro K, Ménochet K, et al: Gaining mechanistic insight into coproporphyrin I as endogenous biomarker for OATP1B-mediated drug-drug interactions using population pharmacokinetic modeling and simulation.Clin Pharmacol Ther104(3):564–574, 2018.doi:10.1002/cpt.983
+5.Kunze A, Ediage EN, Dillen L, et al: Clinical investigation of coproporphyrins as sensitive biomarkers to predict mild to strong OATP1B-mediated drug-drug interactions.Clin Pharmacokinet57(12):1559–1570, 2018.doi:10.1007/s40262-018-0648-3
+5.Kunze A, Ediage EN, Dillen L, et al: Clinical investigation of coproporphyrins as sensitive biomarkers to predict mild to strong OATP1B-mediated drug-drug interactions.Clin Pharmacokinet57(12):1559–1570, 2018.doi:10.1007/s40262-018-0648-3
+6.Shen H, Christopher L, Lai Y, et al: Further studies to support the use of coproporphyrin I and III as novel clinical biomarkers for evaluating the potential for organic anion transporting polypeptide 1B1 and OATP1B3 inhibition.Drug Metab Dispos46(8):1075–1082, 2018.doi:10.1124/dmd.118.081125
+6.Shen H, Christopher L, Lai Y, et al: Further studies to support the use of coproporphyrin I and III as novel clinical biomarkers for evaluating the potential for organic anion transporting polypeptide 1B1 and OATP1B3 inhibition.Drug Metab Dispos46(8):1075–1082, 2018.doi:10.1124/dmd.118.081125
+7.Chatterjee S, Mukherjee S, Sankara Sivaprasad LVJ, et al: Transporter activity changes in nonalcoholic steatohepatitis: Assessment with plasma coproporphyrin I and III.J Pharmacol Exp Ther376(1):29–39, 2021.doi:10.1124/jpet.120.000291
+7.Chatterjee S, Mukherjee S, Sankara Sivaprasad LVJ, et al: Transporter activity changes in nonalcoholic steatohepatitis: Assessment with plasma coproporphyrin I and III.J Pharmacol Exp Ther376(1):29–39, 2021.doi:10.1124/jpet.120.000291

@@ -1,0 +1,72 @@
+标题：治疗胃酸的药物
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/gastritis-and-peptic-ulcer-disease/medications-for-the-treatment-of-gastric-acidity
+============================================================
+
+降低胃液酸度的药物常用来治疗消化性溃疡、胃食管反流性疾病（GERD）和多种胃炎。部分药物也是幽门螺杆菌感染治疗方案中。药物包括
+质子泵抑制剂
+质子泵抑制剂
+组胺-2受体拮抗剂（H2阻滞剂）
+组胺-2受体拮抗剂（H2阻滞剂）
+抗酸药物
+抗酸药物
+前列腺素
+前列腺素
+钾竞争性酸抑制剂
+钾竞争性酸抑制剂
+（参见胃酸分泌概述。）
+
+【质子泵抑制剂】
+此类药物是H+、K+‑ATP酶的强效抑制剂。这种酶位于壁细胞顶端分泌膜，在H+（质子）分泌过程中起关键作用。这类药物能完全抑制胃酸分泌，且作用持久。它们能促进溃疡愈合，是幽门螺杆菌清除方案中的主要成分。由于疗效，质子泵抑制剂已在大多数临床情况下取代了组胺-2受体拮抗剂。
+质子泵抑制剂包括埃索美拉唑、兰索拉唑和泮托拉唑，有口服和静脉注射两种形式，而奥美拉唑和雷贝拉唑在美国只有口服剂型。口服和静注剂量一样。奥美拉唑、埃索美拉唑和兰索拉唑在美国无需处方即可购买。
+对于单纯性十二指肠溃疡，给予奥美拉唑20mg每天一次或兰索拉唑30mg每天一次，持续4周。复杂性十二指肠溃疡（即多发性溃疡、出血性溃疡、直径>1.5厘米的溃疡，或发生于有严重基础疾病患者的溃疡）对更高剂量的药物反应更好（奥美拉唑 40 毫克每日 1 次，或等效剂量）。胃溃疡需要治疗6～8周。胃炎和GERD需要治疗8～12周；GERD通常还需要长期维持治疗。
+长期使用质子泵抑制剂可使胃泌素水平增高，后者导致肠嗜铬样细胞增生。但尚无证据表明这些药物使用后会出现不典型增生或恶性变 (1)。
+一些副作用被认为与质子泵抑制剂有关，包括肾功能障碍、痴呆症和骨质疏松症。这些可能是由于观察性研究中的混杂因素造成的（2）。一项针对泮托拉唑使用者的随机试验与非使用者相比，发现肠道感染有所增加，但质子泵抑制剂的其他推测性副作用没有增加（3）。
+
+【质子泵抑制剂参考文献】
+1.Klinkenberg-Knol EC, Nelis F, Dent J, et al.Long-termomeprazoletreatment in resistant gastroesophageal reflux disease: efficacy, safety, and influence on gastric mucosa.Gastroenterology2000;118(4):661-669.doi:10.1016/s0016-5085(00)70135-1
+1.Klinkenberg-Knol EC, Nelis F, Dent J, et al.Long-termomeprazoletreatment in resistant gastroesophageal reflux disease: efficacy, safety, and influence on gastric mucosa.Gastroenterology2000;118(4):661-669.doi:10.1016/s0016-5085(00)70135-1
+2.Vaezi MF, Yang YX, Howden CW.Complications of Proton Pump Inhibitor Therapy.Gastroenterology2017;153(1):35-48.doi:10.1053/j.gastro.2017.04.047
+2.Vaezi MF, Yang YX, Howden CW.Complications of Proton Pump Inhibitor Therapy.Gastroenterology2017;153(1):35-48.doi:10.1053/j.gastro.2017.04.047
+3.Moayyedi P, Eikelboom JW, Bosch J, et al.Safety of Proton Pump Inhibitors Based on a Large, Multi-Year, Randomized Trial of Patients ReceivingRivaroxabanorAspirin.Gastroenterology2019;157(3):682-691.e2.doi:10.1053/j.gastro.2019.05.056
+3.Moayyedi P, Eikelboom JW, Bosch J, et al.Safety of Proton Pump Inhibitors Based on a Large, Multi-Year, Randomized Trial of Patients ReceivingRivaroxabanorAspirin.Gastroenterology2019;157(3):682-691.e2.doi:10.1053/j.gastro.2019.05.056
+
+【组胺-2受体拮抗剂（H2阻滞剂）】
+这些药物（西咪替丁、法莫替丁，有静脉与口服剂型；尼扎替丁仅有口服剂型）是组胺 H2 受体的竞争性抑制剂，可抑制胃泌素刺激的胃酸分泌，并相应减少胃液量。同时该类药物也降低组胺介导的胃蛋白酶分泌。在美国，尼扎替丁、法莫替丁、西咪替丁均为非处方药。
+H2 受体拮抗剂从胃肠道吸收良好，摄入后 30-60 分钟起效，1-2 小时达药效峰值。静脉给药起效更快。作用持续时间与剂量呈正比，从6～20小时不等。老年患者用药量应减少。
+对于十二指肠溃疡，每日 1 次口服西咪替丁 800 毫克、法莫替丁 40 毫克或尼扎替丁 300 毫克（睡前或晚餐后给药），疗程 6-8 周有效。胃溃疡可采用相同方案并延长疗程至 8-12 周；但因夜间胃酸分泌的影响较小，晨起给药可能同样有效或更有效。体重≥40公斤的儿童可接受成人剂量。低于该体重，口服剂量为西咪替丁10mg/kg，每 12 小时一次。对于胃食管反流病，H2受体拮抗剂主要用于疼痛管理。对于大多数溃疡病患者，这些药物已被质子泵抑制剂替代。每日2次法莫替丁，连用8～12周，可使胃炎愈合。
+H2受体拮抗剂雷尼替丁（口服、静脉注射和非处方药）已从美国和许多其他国家/地区的市场上撤下，因为其N-亚硝基二甲胺 (NDMA)浓度不可接受，这是一种可能的人类致癌物。西咪替丁与法莫替丁是替代选择，且不含 NDMA；质子泵抑制剂也不含 NDMA。
+西咪替丁有轻微的抗雄激素作用，表现为可逆性的男性乳房发育以及少数长期用药者出现勃起功能障碍。所有H2受体拮抗剂快速静脉给药后，均有精神状态改变、腹泻、皮疹、药物热、肌痛、血小板减少症、窦性心动过缓和低血压，一般在<1%的患者中报道，但老年患者更常见。
+西咪替丁，以及其他H2受体拮抗剂（影响程度较前者小）可与细胞色素P450酶系统相互作用，并可能延迟通过该系统代谢的其他药物（如苯妥英、华法林、茶碱、地西泮、利多卡因）的清除。
+
+【抗酸药物】
+这些药物中和胃酸并降低胃蛋白酶活性（当胃pH值升至>>4.0时，胃蛋白酶活性降低）。此外，一些抗酸剂能吸附胃蛋白酶。抗酸剂可能会干扰其他药物（如四环素、地高辛、铁）的吸收。
+抗酸剂能缓解症状、促进溃疡愈合并减少其复发。这些药物相对不贵，但必须每日服用5～7次。促进溃疡愈合的抗酸方案为:15～30 mL液体制剂、或2～4片片剂，每次餐后1小时与3小时、睡前服用。每日总抗酸剂量需提供200～400 mEq 的中和能力。 但在治疗消化性溃疡时，抗酸药已被酸抑制疗法取代，并且仅用于短期缓解症状。
+大体上，抗酸药分为两种：
+可吸收性
+可吸收性
+不可吸收性
+不可吸收性
+可吸收抗酸药（如碳酸氢钠、碳酸钙）能快速、完全中和胃酸，但会导致碱中毒，故仅能短期使用（1～2天）。
+非吸收抗酸药（如氢氧化铝、氢氧化镁）的全身不良反应较少，是首选。
+氢氧化铝是一种相对安全的常用抗酸药。由于铝在胃肠道内可与磷酸盐结合，长期应用有时可导致磷缺乏。酒精使用障碍、营养不良、肾脏疾病（包括正在接受血液透析）患者发生磷缺乏的可能性增加。氢氧化铝还可引起便秘。
+氢氧化镁是一种比氢氧化铝更有效的抗酸剂，但可能导致腹泻。为减少腹泻，许多市售抗酸剂会将镁剂与铝剂抗酸剂联合使用。 由于少量镁可被吸收，因此肾病患者应慎用镁制剂。
+
+【前列腺素】
+某些前列腺素（特别是米索前列醇）能减少组胺刺激壁细胞所产生的cAMP，从而减少胃酸分泌，并增强黏膜保护功能。合成的前列腺素衍生物主要是降低非甾体类消炎药（NSAID）诱发的黏膜损伤风险。NSAID 相关性溃疡高风险患者（即老年患者、有溃疡或溃疡并发症史的患者、同时使用糖皮质激素的患者），应在服用 NSAID 的同时，随餐口服米索前列醇 200 微克，每日 4 次。米索前列醇的常见副作用是腹部痉挛和腹泻，可见于30%患者。米索前列醇是一种强堕胎药，未服用避孕药的育龄期妇女绝对禁用。
+硫糖铝是一种蔗糖-铝复合物，可以在胃酸环境中分解，并在炎症区域形成屏障，保护胃黏膜免受酸、胃蛋白酶和胆盐的损害。它还能抑制胃蛋白酶与其底物的相互作用，刺激黏膜前列腺素的合成并结合胆盐。它对胃酸和胃泌素分泌没有影响。硫糖铝似乎对溃疡黏膜有营养作用，可能是通过结合生长因子并将其聚集于溃疡部位实现的。硫糖铝的全身吸收可以忽略不计。3%～5%患者可发生便秘。硫糖铝可能与其他药物结合，影响其吸收。硫糖铝在愈合溃疡和预防复发方面与H2受体拮抗剂相当（1）。
+
+【硫糖铝参考资料】
+1.Blum AL, Bethge H, Bode JC, et al.Sucralfate in the treatment and prevention of gastric ulcer: multicentre double blind placebo controlled study.Gut1990;31(7):825-830.doi:10.1136/gut.31.7.825
+1.Blum AL, Bethge H, Bode JC, et al.Sucralfate in the treatment and prevention of gastric ulcer: multicentre double blind placebo controlled study.Gut1990;31(7):825-830.doi:10.1136/gut.31.7.825
+
+【钾竞争性酸抑制剂】
+钾竞争性酸抑制剂 (PCAB) 通过竞争壁细胞管腔侧的钾来发挥作用，对质子泵和酸分泌产生快速可逆的抑制作用（1）。
+PCAB（例如，伏诺拉赞）迅速达到血浆峰值浓度，因此起效迅速，首次口服剂量可达到完全效果，并可通过重复剂量维持。它们在严重食管炎（C 级和 D 级）中具有很高的治愈率，并且在根除幽门螺杆菌方面有效（2、3）。
+
+【钾竞争性酸抑制剂参考文献】
+1.Andersson K, Carlsson E: Potassium-competitive acid blockade: A new therapeutic strategy in acid-related diseases.Pharmacol Ther108(3):294–307, 2005.doi: 10.1016/j.pharmthera.2005.05.005
+1.Andersson K, Carlsson E: Potassium-competitive acid blockade: A new therapeutic strategy in acid-related diseases.Pharmacol Ther108(3):294–307, 2005.doi: 10.1016/j.pharmthera.2005.05.005
+2.Chey WD, Megraud F, Laine L, Lopez LJ, Hunt BJ, Howden CW:VonoprazanTriple and Dual Therapy forHelicobacter pyloriInfection in the United States and Europe: Randomized Clinical Trial.Gastroenterology163(3):608–619, 2022.doi:10.1053/j.gastro.2022.05.055
+2.Chey WD, Megraud F, Laine L, Lopez LJ, Hunt BJ, Howden CW:VonoprazanTriple and Dual Therapy forHelicobacter pyloriInfection in the United States and Europe: Randomized Clinical Trial.Gastroenterology163(3):608–619, 2022.doi:10.1053/j.gastro.2022.05.055
+3.Laine L, DeVault K, Katz P, et al:Vonoprazanversuslansoprazolefor healing and maintenance of healing of erosive esophagitis: A randomized trial.Gastroenterology164(1):61–71, 2023.doi: 10.1053/j.gastro.2022.09.041
+3.Laine L, DeVault K, Katz P, et al:Vonoprazanversuslansoprazolefor healing and maintenance of healing of erosive esophagitis: A randomized trial.Gastroenterology164(1):61–71, 2023.doi: 10.1053/j.gastro.2022.09.041

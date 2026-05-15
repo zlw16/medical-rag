@@ -1,0 +1,56 @@
+标题：感冒
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/respiratory-viruses/common-cold
+============================================================
+
+约50%的感冒由鼻病毒的100余种血清型中的某一型引起(1)。冠状病毒引起一些疫情，流感病毒、副流感病毒、肠道病毒、腺病毒、呼吸道合胞病毒和偏肺病毒感染也可表现为普通感冒，特别是在再次感染的患者中。
+鼻病毒感染常发生于春秋季，冬季较少发生，  鼻病毒最有效的传播方式是人与人之间的直接接触，尽管也可能通过大颗粒气溶胶传播。
+避免感染最重要的决定因素是血清和分泌物中产生的特异性中和抗体，后者表明先前曾暴露于同样的或密切相关的病毒，并有相应的保护作用。 易感冒不受着凉、患者健康与营养状况或上呼吸道病变（如扁桃体肿大或腺样体肥大）的影响
+
+【参考文献】
+1.Mäkelä MJ, Puhakka T, Ruuskanen O, et al: Viruses and bacteria in the etiology of the common cold.J Clin Microbiol.1998;36(2):539-542.doi:10.1128/JCM.36.2.539-542.1998
+1.Mäkelä MJ, Puhakka T, Ruuskanen O, et al: Viruses and bacteria in the etiology of the common cold.J Clin Microbiol.1998;36(2):539-542.doi:10.1128/JCM.36.2.539-542.1998
+
+【普通感冒的症状和体征】
+在感染的24~72小时后，最早出现的感冒症状是“咽痒”或咽痛，随后出现打喷嚏、流涕、鼻塞和全身不适。  一般情况下体温都是正常的，尤其是鼻病毒或冠状病毒感染时。  鼻腔分泌物开始为大量水样，以后变为黏液样和脓性。  黏液脓性分泌物并不说明有细菌重叠感染。  咳嗽通常不剧烈但常持续2周。  如果没有并发症，大部分症状在10天内可以缓解。
+感冒可能加重哮喘和慢性支气管炎。
+脓痰或严重下呼吸道症状在鼻病毒感染中并不常见。 化脓性鼻窦炎和中耳炎与病毒感染或者继发细菌感染有关。
+
+【普通感冒的诊断】
+病史和体格检查
+病史和体格检查
+普通感冒的诊断通常是通过临床推断的，不需要诊断性检测，尽管PCR测试在许多多重检测面板上可使用。 考虑对那些了解具体病原体会影响临床管理的患者进行检测，例如当需要进行特定的抗病毒治疗时（例如疑似流感、COVID-19 或 RSV）。
+需要与过敏性鼻炎相鉴别。
+
+【普通感冒的治疗】
+对症治疗
+对症治疗
+采用支持治疗。 解热药和止痛药可以缓解发烧和喉咙痛。
+消除鼻部充血的药物可以缓解鼻塞。 局部用鼻腔减充血剂比口服减充血剂更有效，但局部用药使用>3到5天可能会导致反弹性鼻塞。
+第一代抗组胺药（如扑尔敏）或溴化异丙托品鼻内注射（每天2次或3次0.03%溶液喷雾）可缓解流鼻涕；然而，这些药物的益处微乎其微，老年患者、良性前列腺肥大患者或闭角型青光眼患者应谨慎使用。 第一代抗组胺药通常会有镇静作用，但是第二代抗组胺药物（无镇静作用）却对感冒治疗无效。
+不建议<4岁的儿童使用抗组胺药和减充血剂。
+锌(1)、紫锥菊(2)提取物和维生素C(3)常常用于治疗感冒，但是没有确切的证据表明这些药物是否有效。虽然锌含片可能会减少普通感冒症状的持续时间，但这种好处必须与副作用相平衡，特别是口感不好和恶心（1）。重要的是，人们担心使用鼻内锌会导致永久性嗅觉丧失（4）。
+除非有明显的证据表明继发细菌感染，否则不建议使用抗菌药物。
+
+【治疗参考文献】
+1.Singh M, Das RR.Zincfor the common cold.Cochrane Database Syst Rev.2013;(6):CD001364.Published 2013 Jun 18.doi:10.1002/14651858.CD001364.pub4
+1.Singh M, Das RR.Zincfor the common cold.Cochrane Database Syst Rev.2013;(6):CD001364.Published 2013 Jun 18.doi:10.1002/14651858.CD001364.pub4
+2.Karsch-Völk M, Barrett B, Kiefer D, Bauer R, Ardjomand-Woelkart K, Linde K:Echinaceafor preventing and treating the common cold.Cochrane Database Syst Rev.2014;2014(2):CD000530.Published 2014 Feb 20.doi:10.1002/14651858.CD000530.pub3
+2.Karsch-Völk M, Barrett B, Kiefer D, Bauer R, Ardjomand-Woelkart K, Linde K:Echinaceafor preventing and treating the common cold.Cochrane Database Syst Rev.2014;2014(2):CD000530.Published 2014 Feb 20.doi:10.1002/14651858.CD000530.pub3
+3.Hemilä H, Chalker E:Vitamin Cfor preventing and treating the common cold.Cochrane Database Syst Rev.2013;2013(1):CD000980.Published 2013 Jan 31.doi:10.1002/14651858.CD000980.pub4
+3.Hemilä H, Chalker E:Vitamin Cfor preventing and treating the common cold.Cochrane Database Syst Rev.2013;2013(1):CD000980.Published 2013 Jan 31.doi:10.1002/14651858.CD000980.pub4
+4.D'Cruze H, Arroll B, Kenealy T: Is intranasal zinc effective and safe for the common cold?A systematic review and meta-analysis.J Prim Health Care.2009;1(2):134-139.
+4.D'Cruze H, Arroll B, Kenealy T: Is intranasal zinc effective and safe for the common cold?A systematic review and meta-analysis.J Prim Health Care.2009;1(2):134-139.
+
+【预防普通感冒】
+目前为止还没有普通感冒的疫苗。
+预防感冒传播的措施包括洗手、避免与感冒患者密切接触、咳嗽或打喷嚏时掩盖口鼻、在受污染环境中使用表面消毒剂。
+许多病毒会引起普通感冒。 约半数的感冒由鼻病毒引起。
+许多病毒会引起普通感冒。 约半数的感冒由鼻病毒引起。
+易感冒性不受寒冷暴露、宿主健康和营养状况或上呼吸道异常的影响。
+易感冒性不受寒冷暴露、宿主健康和营养状况或上呼吸道异常的影响。
+抗组胺药可用于缓解流鼻涕，但其益处微乎其微，老年患者应谨慎使用，4岁以下儿童应避免使用。
+抗组胺药可用于缓解流鼻涕，但其益处微乎其微，老年患者应谨慎使用，4岁以下儿童应避免使用。
+局部和口服减充血剂可缓解鼻塞，但重复使用可能引起反弹性充血。
+局部和口服减充血剂可缓解鼻塞，但重复使用可能引起反弹性充血。
+许多物质已被评估用于预防和治疗，但没有一种被明确证明是有效的。
+许多物质已被评估用于预防和治疗，但没有一种被明确证明是有效的。

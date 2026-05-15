@@ -1,0 +1,61 @@
+标题：肝损伤
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/abdominal-trauma/hepatic-injury
+============================================================
+
+(参见腹部创伤概述章节。)
+
+【肝损伤的病因】
+重大的撞击（如机动车碰撞）可损害肝脏，穿透伤（如刀伤，枪伤）也可以。肝脏损伤的范围包括从包膜下血肿和小包膜撕裂，到深部实质撕裂、严重挤压伤及血管撕脱。
+肝损伤根据严重程度可分为5个等级。
+
+【肝损伤的分级】
+肝损伤的分级
+包膜下血肿<表面积的10％
+裂伤深度<1cm
+包膜下血肿占表面积的10～50％，实质内血肿<10cm
+裂伤深度1-3cm，长度<10cm
+包膜下血肿占表面积的比例> 50％，实质内血肿>10cm， 或任何的血肿扩大，或血肿破裂
+裂伤深度> 3厘米
+实质破坏涉及一个肝叶的25-75％或单一肝叶内1-3个奎诺段
+实质破坏涉及肝叶的比例 > 75%或> 3个奎诺段
+近肝静脉损伤（即肝后下腔静脉或中央主肝静脉）
+Kozar RA, Crandall M, Shanmuganathan K, et al.Organ injury scaling 2018 update: Spleen, liver, and kidney.J Trauma Acute Care Surg.2018;85(6):1119-1122.doi:10.1097/TA.0000000000002058
+Kozar RA, Crandall M, Shanmuganathan K, et al.Organ injury scaling 2018 update: Spleen, liver, and kidney.J Trauma Acute Care Surg.2018;85(6):1119-1122.doi:10.1097/TA.0000000000002058
+
+【肝损伤的病理生理学】
+主要的直接后果是出血。出血的量可小可大，这取决于损伤的性质和程度。许多小撕裂伤，特别是儿童，可自行停止出血。更大的损伤会有大量出血，常引起失血性休克。严重的肝损伤死亡率非常高。
+损伤程度越高，并发症的风险就越大。深部实质撕裂伤可能导致胆瘘或胆汁瘤的形成。在胆瘘中，胆汁可自由进入腹腔或胸腔。对于胆瘘，经内镜逆行胰胆管造影（ERCP）实施胆道减压术成功率很高。胆汁瘤是与脓肿相类似的胆汁聚集。胆汁瘤一般通过经皮穿刺引流。
+约5%的损伤会形成脓肿，通常是由于失活组织暴露于胆汁成分所致（1）。损伤后数天出现疼痛，体温及白细胞计数 (WBC) 增高的患者需要怀疑该诊断，通过CT检查可确诊。脓肿通常经皮穿刺引流，但是当经皮治疗失败时，剖腹手术可能是必要的。
+
+【病理生理学参考文献】
+1.Stassen NA, Bhullar I, Cheng JD: Nonoperative management of blunt hepatic injury: An Eastern Association for the Surgery of Trauma practice management guideline.J Trauma Acute Care Surg73:S288-S293, 2012.doi: 10.1097/TA.0b013e318270160d
+1.Stassen NA, Bhullar I, Cheng JD: Nonoperative management of blunt hepatic injury: An Eastern Association for the Surgery of Trauma practice management guideline.J Trauma Acute Care Surg73:S288-S293, 2012.doi: 10.1097/TA.0b013e318270160d
+
+【肝损伤的症状和体征】
+严重腹腔出血的临床表现，包括失血性休克，腹部疼痛，压痛，腹部膨胀，这些临床表现通常很明显。较小的出血或血肿可引起右上腹疼痛及压痛。
+
+【肝损伤的诊断】
+影像学（CT或超声检查）
+影像学（CT或超声检查）
+对于状态稳定的患者，通过CT可确诊肝损伤；对于状态不稳定的患者，通过床旁超声检查或剖腹探查可确诊。
+
+【肝损伤的治疗】
+有时进行栓塞术或手术修复
+有时进行栓塞术或手术修复
+血流动力学稳定且没有其他剖腹手术指征（如空腔脏器穿孔）的患者可以通过监测生命体征和血细胞比容(Hct)水平进行观察。对于存在显著持续出血的患者（即出现低血压和休克、需要大量持续输血或血细胞比容下降者），需进行干预。生命体征平稳但需要持续输血的患者可行选择性血管造影栓塞术止血。状态不稳定的患者应进行剖腹探查。
+约90%以上的1-3级损伤及约80%的4-5级损伤采用非手术治疗（1）。高级别损伤患者非手术治疗失败率较高，更常需行血管栓塞术或后续手术修复。对于非手术治疗，ICU停留时间，住院时间，恢复饮食时机，卧床休息的持续时间，以及出院后限制活动的期限，这些目前在文献中尚无共识建议(2)。然而，损伤越严重，在允许恢复可能涉及举重、接触性运动或躯干创伤的活动之前就应该越小心。
+手术时，小的撕裂伤通常可以缝合或用止血剂（如氧化纤维素、纤维蛋白胶、凝血酶和粉状明胶的混合物）处理。治疗深部及复合型损伤的手术会很复杂。很少进行肝切除术甚至部分切除术
+
+【治疗参考文献】
+1.Obaid O, Torres-Ruiz T, Rady E, et al.Contemporary epidemiologic overview of adult liver trauma management across the United States: Analysis of the American College of Surgeons Trauma Quality Improvement Program database.Surgery.Published online May 5, 2025.doi:10.1016/j.surg.2025.109390
+1.Obaid O, Torres-Ruiz T, Rady E, et al.Contemporary epidemiologic overview of adult liver trauma management across the United States: Analysis of the American College of Surgeons Trauma Quality Improvement Program database.Surgery.Published online May 5, 2025.doi:10.1016/j.surg.2025.109390
+2.Stassen NA, Bhullar I, Cheng JD.Nonoperative management of blunt hepatic injury: An Eastern Association for the Surgery of Trauma practice management guideline.J Trauma Acute Care Surg.73:S288-S293, 2012.doi: 10.1097/TA.0b013e318270160d
+2.Stassen NA, Bhullar I, Cheng JD.Nonoperative management of blunt hepatic injury: An Eastern Association for the Surgery of Trauma practice management guideline.J Trauma Acute Care Surg.73:S288-S293, 2012.doi: 10.1097/TA.0b013e318270160d
+肝损伤的主要直接后果是出血，但往往会自发停止，尤其是当损伤程度为1级或2级时，可能需要栓塞或手术修补；高级别损伤的死亡率和发病率都很高。
+肝损伤的主要直接后果是出血，但往往会自发停止，尤其是当损伤程度为1级或2级时，可能需要栓塞或手术修补；高级别损伤的死亡率和发病率都很高。
+并发症包括胆瘘，胆汁瘤和脓肿。
+并发症包括胆瘘，胆汁瘤和脓肿。
+稳定的病人通过CT可以确诊。
+稳定的病人通过CT可以确诊。
+根据患者情况选择治疗方式：不稳定者行剖腹探查术，稳定者予观察治疗，若情况稳定但需持续输血则考虑选择性血管造影栓塞术（如适用）。
+根据患者情况选择治疗方式：不稳定者行剖腹探查术，稳定者予观察治疗，若情况稳定但需持续输血则考虑选择性血管造影栓塞术（如适用）。

@@ -1,0 +1,293 @@
+标题：老年人和医院照护
+来源：https://www.msdmanuals.cn/professional/geriatrics/providing-care-to-older-adults/hospital-care-and-older-adults
+============================================================
+
+医院照护提供急诊医疗照护、诊断性检查、深切治疗或手术，可能需要或不需要住院。老年患者比年轻患者更多地使用医院服务；他们从急诊科入院的比例更高，住院次数更多、时间更长，并且在住院期间消耗更多医疗资源。
+
+【急诊科照护】
+2021年，75岁及以上成年人的急诊就诊率为每100人 66次，而1岁至74岁年龄段患者的急诊就诊率为每100 人36至45次（1）。老年患者往往病情更重。一些医院现在有专门的老年急诊室，配备受过老年医学培训的护士和医生，这可能有助于减少住院人数（2,3）。超过一半的患者被开了新药。老年人可能将ED作为初级保健的替代，可能因为没有从初级保健医生处得到足够的照护转而至急诊治疗。 ED就诊往往是由于虚弱老年患者的社会结构崩溃造成的——如他们的照顾者不在或生病导致患者叫救护车，而不是去他们的医生的诊室就诊。然而，在许多情况下，去急诊室的原因都是真正的紧急情况。
+老年人前往急诊室可能会带来更多压力，因为通常没有为他们提供特殊便利（例如安静的房间、较低的床位、额外的枕头、间接照明）。然而，一些医院系统正在创建特殊的老年急诊室，这是常规急诊室中专门用于照顾老年人的空间。这些老年急诊室拥有受过老年医学培训的医生和护理人员以及专门的设备，例如带有减压床垫的轮床，可降低压力性损伤的风险，并改善照明和音响效果以促进视力和听力。
+因为老年患者没有清晰明了或典型的疾病症状体征，对其评估常花费更长时间，需要更多的诊断性检查。例如，在75岁以上的患者中，呼吸困难、疲劳和其他心力衰竭症状比典型的胸痛更常见于心肌梗塞的首发症状（4）。
+不明显因素（例如，多重用药、药物不良反应）可能影响老年患者的表现。例如，跌倒可能源于虐待、药物不良反应（如过度镇静）、家庭环境中的危险因素、身体问题（如视力不佳）、抑郁或慢性酒精使用障碍。
+前往急诊室的老年患者可能患有认知障碍，但病历中并未记录正式的痴呆诊断；部分患者的认知障碍更符合谵妄，但在急诊室可能未被识别或察觉（5）。 如有提示迹象（如，老年患者有对人物、地点、时间的定向功能障碍），应在ED行标准认知功能评价。认知障碍不仅影响患者病史的可靠性及诊断的准确性，还会增加住院期间谵妄的风险，因此在规划患者去向时必须予以考虑。了解认知障碍是否近期发作有助于判断是否应在急诊室进行全面评估。评估、诊断、评估、预防和治疗（ADEPT）工具是一种开放获取的基于网络的工具，可在美国急诊医师学会（ACEP）的emPOC移动设备应用程序上使用，它可以帮助提供者确保进行有组织、全面的评估（6）。近期出现的认知障碍可能提示败血症、隐匿性硬膜下出血或药物不良反应。
+自杀风险、跌倒风险、失禁、营养状况及免疫接种状态应在急诊科进行评估，以便安排后续护理。
+
+【医疗保健专业人员之间的沟通】
+急诊科医生和患者、护理人员、家庭成员、初级保健医生和长期护理机构工作人员之间的良好沟通大大提高了有复杂问题的老年患者的治疗效果。预先指示应迅速、明确地传达给急诊医学专业人员。从患者私人医生处得到的基准信息有利于ED的评估和治疗决策的制定。 给患者初级保健医生的报告里即便再轻的损伤（如踝关节扭伤，Colles骨折）也应该描述，因为这种损伤能显著影响功能能力和独立性。
+出院计划可能很复杂，因为急性疾病或损伤可能会对老年患者的功能造成更大的损害（例如，对20岁的人来说只是一种不便的简单脚踝扭伤，对在家没有良好支持的老年人来说可能会使其丧失能力）。通过将护士、社会工作者和初级保健医生参与到出院规划中，来提升出院规划的内容质量。出院规划应包括以下内容：
+功能性状态评估
+功能性状态评估
+急诊评估中发现的问题（如抑郁、酒精使用障碍、功能状态受损）的管理策略
+急诊评估中发现的问题（如抑郁、酒精使用障碍、功能状态受损）的管理策略
+确定患者能否按指示获取并服用药物，以及能否获得必要的后续护理
+确定患者能否按指示获取并服用药物，以及能否获得必要的后续护理
+评估照护者的能力（如是否需要短期照护服务）
+评估照护者的能力（如是否需要短期照护服务）
+许多老年患者经急诊评估后住院治疗。
+偶尔也有老年患者被不愿意带他们回家或将其遗弃在医院的照护者送至ED。
+
+【急诊科护理参考】
+1.Centers for Disease Control and Prevention: Emergency Department Visit Rates by Selected Characteristics: United States, 2021.NCHS Data Brief No. 478, August 2023.Accessed September 2024.
+1.Centers for Disease Control and Prevention: Emergency Department Visit Rates by Selected Characteristics: United States, 2021.NCHS Data Brief No. 478, August 2023.Accessed September 2024.
+2.Hwang U, Dresden SM, Rosenberg MS, et al: Geriatric emergency department innovations: Transitional care nurses and hospital use.J Am Geriatr Soc66(3):459-466, 2018.doi: 10.1111/jgs.15235
+2.Hwang U, Dresden SM, Rosenberg MS, et al: Geriatric emergency department innovations: Transitional care nurses and hospital use.J Am Geriatr Soc66(3):459-466, 2018.doi: 10.1111/jgs.15235
+3.Schumacher JG, Hirshon JM, Magidson P, Chrisman M, Hogan T: Tracking the Rise of Geriatric Emergency Departments in the United States.J Appl Gerontol.2020;39(8):871-879.doi:10.1177/0733464818813030
+3.Schumacher JG, Hirshon JM, Magidson P, Chrisman M, Hogan T: Tracking the Rise of Geriatric Emergency Departments in the United States.J Appl Gerontol.2020;39(8):871-879.doi:10.1177/0733464818813030
+4.Goch A, Misiewicz P, Rysz J, Banach M: The clinical manifestation of myocardial infarction in elderly patients.Clin Cardiol.2009 Jun;32(6):E46-51.doi: 10.1002/clc.20354.PMID: 19382276; PMCID: PMC6653078
+4.Goch A, Misiewicz P, Rysz J, Banach M: The clinical manifestation of myocardial infarction in elderly patients.Clin Cardiol.2009 Jun;32(6):E46-51.doi: 10.1002/clc.20354.PMID: 19382276; PMCID: PMC6653078
+5.Hustey FM, Meldon SW: The prevalence and documentation of impaired mental status in elderly emergency department patients.Ann Emerg Med.2002 Mar;39(3):248-53.doi: 10.1067/mem.2002.122057.PMID: 11867976
+5.Hustey FM, Meldon SW: The prevalence and documentation of impaired mental status in elderly emergency department patients.Ann Emerg Med.2002 Mar;39(3):248-53.doi: 10.1067/mem.2002.122057.PMID: 11867976
+6.Shenvi C, Kennedy M, Austin CA, Wilson MP, Gerardi M, Schneider S: Managing Delirium and Agitation in the Older Emergency Department Patient: The ADEPT Tool.Ann Emerg Med.2020 Feb;75(2):136-145.doi: 10.1016/j.annemergmed.2019.07.023.Epub 2019 Sep 26.PMID: 31563402; PMCID: PMC7945005.
+6.Shenvi C, Kennedy M, Austin CA, Wilson MP, Gerardi M, Schneider S: Managing Delirium and Agitation in the Older Emergency Department Patient: The ADEPT Tool.Ann Emerg Med.2020 Feb;75(2):136-145.doi: 10.1016/j.annemergmed.2019.07.023.Epub 2019 Sep 26.PMID: 31563402; PMCID: PMC7945005.
+近半数占用医院床位的成年人年龄在≥65岁以上；随着人口老龄化，这一比例预计还会上升。据估计，2025年住院医院、专业护理机构、与住院相关的家庭医疗保健以及临终关怀服务将使医疗保险支出约2126亿美元（1）。
+住院可能放大与年龄相关的生理变化并增加发病率。
+只有病情严重不能在其他地方得到合适照护的老年患者需要住院治疗。住院本身因为环境封闭、行动不便、诊断性检查和接触传染性生物体对老年患者来说是构成风险的。当患者住院或出院，很有可能添加或改变药物，导致更高的不良反应的风险以及药物变化的沟通错误。住院的治疗可能是非人性化或没有人情味的。急性病住院照护只需持续到患者可以顺利过渡到家庭照护、专业照护机构或门诊康复计划即可。
+尽管生理年龄是比实足年龄更重要的预测因子，但随着年龄的增加，住院的预后仍可能越来越差。 因为择期手术（如关节置换）住院的患者预后较因严重疾病（如多脏器功能衰竭）住院的患者好。
+大量在入院时功能独立且年龄≥75岁的患者，在转至专业护理机构出院时，其功能独立性已不复存在。现在急症住院后亚急症照护和专业护理机构的紧密衔接，缩短了急症住院时间的趋势，也许可以部分解释为什么这个比例这么高。然而，即便疾病是可以治疗的或并不复杂，患者也不能恢复到住院前状态。研究表明，在住院期间接受中等强度运动的患者，尤其是侧重于步行、阻力和平衡训练的运动，在住院期间并没有出现任何功能下降（2）。这凸显了确保老年人在住院期间尽快开始物理治疗的重要性。
+
+【改善预后】
+以下策略有助于减少功能衰退并改善老年患者的护理：
+老年跨学科团队:确定和满足老年患者的复杂要求，监测预防在老年人中常见的以及可能导致住院期间发展或恶化的问题
+老年跨学科团队:确定和满足老年患者的复杂要求，监测预防在老年人中常见的以及可能导致住院期间发展或恶化的问题
+初级护理护士（一名护士对特定患者负有全天候责任）：负责执行团队的护理计划，监测对护理和医疗措施的反应，并对患者、工作人员及家属进行教育和咨询
+初级护理护士（一名护士对特定患者负有全天候责任）：负责执行团队的护理计划，监测对护理和医疗措施的反应，并对患者、工作人员及家属进行教育和咨询
+医院环境中的调整，常由护士执行：例如，将干扰性患者移至靠近护士站的走廊，或为患者更换室友
+医院环境中的调整，常由护士执行：例如，将干扰性患者移至靠近护士站的走廊，或为患者更换室友
+家属的入室护理计划：提供更好的一对一照护，减轻照护任务工作人员的压力，安抚患者的焦虑（特别当患者谵妄或痴呆时），鼓励家属参与到患者的恢复中来
+家属的入室护理计划：提供更好的一对一照护，减轻照护任务工作人员的压力，安抚患者的焦虑（特别当患者谵妄或痴呆时），鼓励家属参与到患者的恢复中来
+医疗专业人员之间的高质量沟通：旨在预防诊断程序和治疗（尤其是药物）中的错误与重复；实施更优的沟通系统，如步行查房和温暖交接（温暖交接是指医疗团队成员在患者[及家属，如在场]面前亲自进行的护理交接）。
+医疗专业人员之间的高质量沟通：旨在预防诊断程序和治疗（尤其是药物）中的错误与重复；实施更优的沟通系统，如步行查房和温暖交接（温暖交接是指医疗团队成员在患者[及家属，如在场]面前亲自进行的护理交接）。
+药物治疗的文档记录：阐述每一种新药的适应证，保留每日处方和收到药物的清单，以避免使用不必要的药物，预防药物相互作用
+药物治疗的文档记录：阐述每一种新药的适应证，保留每日处方和收到药物的清单，以避免使用不必要的药物，预防药物相互作用
+预先医疗指示:旨在记录患者对医疗代理人和医疗决策的选择，减少医院中不必要的医疗干预，特别是针对晚期疾病患者。通常，在就诊过程中会省略关于预先指示的讨论，从而错失了解患者护理偏好的机会（3）
+预先医疗指示:旨在记录患者对医疗代理人和医疗决策的选择，减少医院中不必要的医疗干预，特别是针对晚期疾病患者。通常，在就诊过程中会省略关于预先指示的讨论，从而错失了解患者护理偏好的机会（3）
+早期活动与功能活动参与：旨在预防因疾病及住院期间活动减少导致的身体机能衰退；需与物理治疗师及作业治疗师紧密协作，制定整合性照护计划，包括针对老年患者的功能状态评估，并根据每位患者的耐受程度融入活动能力与力量训练（4）
+早期活动与功能活动参与：旨在预防因疾病及住院期间活动减少导致的身体机能衰退；需与物理治疗师及作业治疗师紧密协作，制定整合性照护计划，包括针对老年患者的功能状态评估，并根据每位患者的耐受程度融入活动能力与力量训练（4）
+出院计划：在医院、患者及其家属和下一级护理人员之间进行沟通：提供者确保在下一级护理中继续提供适当的护理，这可能有助于防止再次入院（5）
+出院计划：在医院、患者及其家属和下一级护理人员之间进行沟通：提供者确保在下一级护理中继续提供适当的护理，这可能有助于防止再次入院（5）
+老年人急性病照护（ACE）单位：通过使用基于证据的实践，包括上述列出的大部分策略，为住院的老年人提供有效的护理 (6)
+老年人急性病照护（ACE）单位：通过使用基于证据的实践，包括上述列出的大部分策略，为住院的老年人提供有效的护理 (6)
+如已备有预先医疗指示，应尽快将其带至医院。在急症住院期间，医生应该再次确认这些选择。如果指示没有记录，医生应该尽一切努力确定患者的意愿。
+住院期间特别是手术后护理，需要对老年人中常见问题进行特别考量；许多问题可以通过ELDERSS的缩写来记忆。在医院里，老年患者常出现夜间意识混乱（日落综合征），无明显外伤却发生骨折，跌倒，或无法行走。住院可能导致或加剧营养不良、压力性损伤、尿失禁、粪便嵌塞和尿潴留。这些问题都会延长恢复时间。
+
+【ELDERSS：住院老年患者的一些重要问题】
+ELDERSS：住院老年患者的一些重要问题
+进食功能（营养状况）
+意识清晰度（精神状态）
+限制照护的指示（如不复苏）
+排泄功能（失禁情况）
+康复（因卧床休息影响所需）
+皮肤健康（预防治疗压力性损伤）
+社会服务（出院规划）
+此外，家庭医院是一种替代医院护理的家庭健康护理模式，它使一些需要较低级别急性护理的患者能够在家中接受护理。这些患者仍然需要一些急性级别的服务，但总体上是稳定的。例如，可能需要持续静脉治疗的患者或需要持续化疗的肿瘤患者，这种护理服务模式已被证明能改善临床结果，同时提升患者满意度。
+
+【住院相关参考文献】
+1.US Department of Health and Human Services:Fiscal Year 2025 Medicare Budget in Brief
+1.US Department of Health and Human Services:Fiscal Year 2025 Medicare Budget in Brief
+2.Hamed A, Bohm S, Mersmann F, Arampatzis A: Follow-up efficacy of physical exercise interventions on fall incidence and fall risk in healthy older adults: A systematic review and meta-analysis.Sports Medicine Open4(1):1–19, 2018.doi: 10.1186/s40798-018-0170-z
+2.Hamed A, Bohm S, Mersmann F, Arampatzis A: Follow-up efficacy of physical exercise interventions on fall incidence and fall risk in healthy older adults: A systematic review and meta-analysis.Sports Medicine Open4(1):1–19, 2018.doi: 10.1186/s40798-018-0170-z
+3.Chan CWH, Wong MMH, Choi KC, et al: What Patients, Families, Health Professionals and Hospital Volunteers Told Us about Advance Directives.Asia Pac J Oncol Nurs.2019;6(1):72-77.doi:10.4103/apjon.apjon_38_18
+3.Chan CWH, Wong MMH, Choi KC, et al: What Patients, Families, Health Professionals and Hospital Volunteers Told Us about Advance Directives.Asia Pac J Oncol Nurs.2019;6(1):72-77.doi:10.4103/apjon.apjon_38_18
+4.Resnick B, Boltz M: Optimizing Function and Physical Activity in Hospitalized Older Adults to Prevent Functional Decline and Falls.Clin Geriatr Med2019;35(2):237-251.doi:10.1016/j.cger.2019.01.003
+4.Resnick B, Boltz M: Optimizing Function and Physical Activity in Hospitalized Older Adults to Prevent Functional Decline and Falls.Clin Geriatr Med2019;35(2):237-251.doi:10.1016/j.cger.2019.01.003
+5.Erlang AS, Schjødt K, Linde JKS, Jensen AL: An observational study of older patients' experiences of involvement in discharge planning.Geriatr Nurs2021;42(4):855-862.doi:10.1016/j.gerinurse.2021.04.002
+5.Erlang AS, Schjødt K, Linde JKS, Jensen AL: An observational study of older patients' experiences of involvement in discharge planning.Geriatr Nurs2021;42(4):855-862.doi:10.1016/j.gerinurse.2021.04.002
+6.Rogers SE, Flood KL, Kuang QY, et al: The current landscape of Acute Care for Elders units in the United States.J Am Geriatr Soc.2022;70(10):3012-3020.doi:10.1111/jgs.17892
+6.Rogers SE, Flood KL, Kuang QY, et al: The current landscape of Acute Care for Elders units in the United States.J Am Geriatr Soc.2022;70(10):3012-3020.doi:10.1111/jgs.17892
+
+【药物不良反应】
+由药物不良反应导致的住院率，对于老年患者来说是年轻患者的4倍，并且与增加的发病率和死亡率相关（1）。这些效应的原因包括
+多重用药（例如，医生给患者开多种不同的药物，通常定义为6种或更多种药物；与虚弱、延长住院时间和死亡等不良后果相关（2）—参见老年人药物治疗概述）
+多重用药（例如，医生给患者开多种不同的药物，通常定义为6种或更多种药物；与虚弱、延长住院时间和死亡等不良后果相关（2）—参见老年人药物治疗概述）
+药代动力学和药效学的年龄相关改变
+药代动力学和药效学的年龄相关改变
+住院期间及出院时（有意或无意）的药物变更（参见老年人药物相关问题）
+住院期间及出院时（有意或无意）的药物变更（参见老年人药物相关问题）
+需要多种不同药物的合并症
+需要多种不同药物的合并症
+
+【预防药物不良反应】
+保留每天处方和收到的药物清单能帮助预防药物不良反应和药物相互作用。
+因为药物的分布、代谢和消除在老年患者中差异很大，所以应该采取以下措施：
+药物剂量应该小心调整。
+药物剂量应该小心调整。
+对于经肾脏排泄的药物，在调整剂量时应计算肌酐清除率。
+对于经肾脏排泄的药物，在调整剂量时应计算肌酐清除率。
+测量血药浓度。
+测量血药浓度。
+观察患者反应。
+观察患者反应。
+老年人应避免使用某些药物或药物类别（见表格 老年人可能不适宜使用的药物）。因为可能发生快速耐药，使跌倒和谵妄的风险增加，催眠药物应使用最小剂量；在用药之前应先应用改善睡眠的措施。抗组胺药物有抗胆碱能作用不能作为镇静剂使用。近年来，苯二氮卓类药物的使用有所增加；然而，苯二氮卓类药物具有严重的副作用和增加成瘾风险，因此应极其谨慎地使用。（3）处方师应定期审查药物，以确定是否可以减少剂量，或者是否可以安全停药，以减少老年人服用的药物数量并降低药物相互作用的风险。
+
+【药物不良反应参考文献】
+1.Alhawassi TM, Krass I, Bajorek BV, Pont LG: A systematic review of the prevalence and risk factors for adverse drug reactions in the elderly in the acute care setting.Clin Interv Aging.2014 Dec 1;9:2079-86.doi: 10.2147/CIA.S71178.PMID: 25489239; PMCID: PMC4257024.
+1.Alhawassi TM, Krass I, Bajorek BV, Pont LG: A systematic review of the prevalence and risk factors for adverse drug reactions in the elderly in the acute care setting.Clin Interv Aging.2014 Dec 1;9:2079-86.doi: 10.2147/CIA.S71178.PMID: 25489239; PMCID: PMC4257024.
+2.Pazan F, Wehling M: Polypharmacy in older adults: a narrative review of definitions, epidemiology and consequences.Eur Geriatr Med.2021;12(3):443-452.doi:10.1007/s41999-021-00479-3
+2.Pazan F, Wehling M: Polypharmacy in older adults: a narrative review of definitions, epidemiology and consequences.Eur Geriatr Med.2021;12(3):443-452.doi:10.1007/s41999-021-00479-3
+3.Gupta A, Bhattacharya G, Balaram K, Tampi D, Tampi RR.Benzodiazepine use among older adults.Neurodegener Dis Manag.2021 Feb;11(1):5-8.doi: 10.2217/nmt-2020-0056.Epub 2020 Nov 10.PMID: 33172334
+3.Gupta A, Bhattacharya G, Balaram K, Tampi D, Tampi RR.Benzodiazepine use among older adults.Neurodegener Dis Manag.2021 Feb;11(1):5-8.doi: 10.2217/nmt-2020-0056.Epub 2020 Nov 10.PMID: 33172334
+
+【卧床休息的影响】
+长期卧床休息（可能发生在住院期间）会导致身体机能下降，且很少有必要。不活动具有以下影响：
+在完全不活动的情况下，肌肉力量在最初几天内会显著下降（1），增加跌倒风险。
+在完全不活动的情况下，肌肉力量在最初几天内会显著下降（1），增加跌倒风险。
+肌肉缩短，关节周围和软骨关节结构发生变化（腿部变化最快），限制了运动并促进了挛缩的发展。
+肌肉缩短，关节周围和软骨关节结构发生变化（腿部变化最快），限制了运动并促进了挛缩的发展。
+有氧能力显著下降，最大摄氧量大幅减少。
+有氧能力显著下降，最大摄氧量大幅减少。
+骨质流失（脱钙）加速。
+骨质流失（脱钙）加速。
+深静脉血栓的风险增加。
+深静脉血栓的风险增加。
+即使只有几天卧床休息，生理储备降低但仍功能独立的老年患者也可能失去独立能力。即便这种功能丧失是可逆的，复健仍需要广泛，昂贵的，相对长时间的干预。
+在老年患者中，卧床休息会比年轻患者更快地导致椎体骨质丢失。 卧床10天的损失需要4个月才能恢复。护士应确保医院遵循美国护理学会的建议相一致，即住院期间行走活动对维持老年人功能能力至关重要（2019年）。
+
+【预防卧床效应】
+除非有特别的原因禁忌，仍应鼓励活动（特别是行走）。如果行走需要辅助，治疗师可能在计划的时间提供帮助。然而，医生、护士和家属也应该全天协助患者行走。医院的医嘱应该强调活动的必要性和促进活动。
+如果制动是必须的或因为长期患病导致，除非有禁忌，应采取措施防止深静脉血栓形成。
+通常需要复健。家庭康复的现实目标可基于患者住院前的活动水平和当前需求来设定；应考虑开具家庭物理治疗和/或作业治疗的医嘱。计算机化认知训练（利用虚拟迷宫导航）可通过增强认知功能来减轻去适应效应（2）。
+
+【卧床休息效果参考】
+1.Shinde S, Bhore PR: Effect of reconditioning exercises program on hospital-acquired deconditioning in elderly hospitalized patients.Adesh Univ J Med Sci Res, 2022;4:20-4.
+1.Shinde S, Bhore PR: Effect of reconditioning exercises program on hospital-acquired deconditioning in elderly hospitalized patients.Adesh Univ J Med Sci Res, 2022;4:20-4.
+2.Marusic U, Kavcic V, Pisot R, Goswami N: The Role of Enhanced Cognition to Counteract Detrimental Effects of Prolonged Bed Rest: Current Evidence and Perspectives.Front Physiol.2019;9:1864.Published 2019 Jan 23.doi:10.3389/fphys.2018.01864
+2.Marusic U, Kavcic V, Pisot R, Goswami N: The Role of Enhanced Cognition to Counteract Detrimental Effects of Prolonged Bed Rest: Current Evidence and Perspectives.Front Physiol.2019;9:1864.Published 2019 Jan 23.doi:10.3389/fphys.2018.01864
+年龄相关的改变（如压力感受器不敏感，体内水分和血浆容量的减少）有体位性低血压的发展趋势。这些改变加上卧床的影响、镇静药物的使用和某些降压药物的使用增加跌倒（和晕厥）的风险。
+在住院的老年患者中，大多数跌倒发生在浴室；患者经常会撞到水槽或马桶等坚硬的物体。由于许多跌倒发生在夜间，减少因利尿剂和傍晚增加液体摄入导致的夜尿症可能有所帮助。一些患者从椅子和病床上起身时跌倒。患者睡在陌生的床上，处于陌生的环境中很容易感到混乱。虽然床栏可能有助于提醒老年患者在试图起床前呼叫协助，但床栏也可能诱使患者攀爬或绕过它们，从而可能导致患者跌倒。由于跌倒风险增加，通常不鼓励使用床栏杆。
+
+【预防跌倒】
+通常，对于有跌倒风险的患者，应将床置于最低位置，并在两侧加设防护垫。除非患者有滚下床的危险，否则床栏杆应拆除或保持向下。使用物理或化学约束的最佳替代方案是识别、仔细分析、修改或纠正跌倒的风险因素（包括激动和使用镇静药物），并密切观察有风险的患者。如前所述，如果床被抬高以提供护理，请将床放回最低水平，在床旁边的地板上放置垫子，确保及时清理任何溢出的液体，并保持房间和走廊的通道畅通无阻，也可能有助于减少跌倒的风险。
+
+【大小便失禁】
+尿失禁或大便失禁在高达40%的≥65岁的住院患者中存在，通常发生在入院后一天内。 原因包括以下几点：
+不熟悉的环境
+不熟悉的环境
+上厕所的路径混乱
+上厕所的路径混乱
+影响行走功能的疾病
+影响行走功能的疾病
+如静脉输液管路、鼻导管氧气管路、心电监护和导管等设备的阻碍
+如静脉输液管路、鼻导管氧气管路、心电监护和导管等设备的阻碍
+可能降低排尿需求感知、抑制膀胱或肠道功能或损害行走能力的精神活性药物
+可能降低排尿需求感知、抑制膀胱或肠道功能或损害行走能力的精神活性药物
+药物可导致尿失禁（如抗胆碱能药物和阿片类药物，造成溢出性尿失禁；利尿剂导致急迫性尿失禁）
+药物可导致尿失禁（如抗胆碱能药物和阿片类药物，造成溢出性尿失禁；利尿剂导致急迫性尿失禁）
+便盆可能会不舒服，特别是对于手术后或慢性关节炎的患者。老年痴呆症或神经性疾病的患者可能无法在需要如厕帮助时使用呼叫铃。
+粪便嵌塞、胃肠道感染（例如，由Clostridioides difficile[艰难梭菌]引起的结肠炎）、药物不良反应以及液体营养补充剂可能导致顽固性腹泻。
+通过合适的诊断和治疗，许多情况下大小便失禁的控制力是可以重建的。
+
+【精神状态改变】
+老年患者因为有痴呆、谵妄、抑郁或混合情况，容易意识混乱。然而，医务人员必须了解混乱可能由其他原因引起，需要彻底的评估才能发现问题。
+意识混乱可能由于某种特定疾病引起（见表格谵妄症的病因）。但由于医院环境加重急性疾病本身以及年龄相关的认知改变，使其可能发生或恶化。比如，没有佩戴眼镜和助听器的老年患者可能会在一个安静、昏暗的病房中迷失方向。 患者也可能因为医院的流程与安排（如，频繁在陌生的环境和房间中醒来），精神活性药物、麻醉药的影响和手术或疾病的压力变得混乱。重症监护室中，由于持续的光线和噪音，可能导致躁动、偏执和身心疲惫。
+
+【预防精神状态改变】
+让家属带来患者未戴的眼镜和助听器。在房间里放置挂钟、日历和家属的照片可以帮助患者保持定向力。房间应该足够亮，确保患者能识别房间里有什么东西什么人，他们自己身处何处。工作人员和家属应尽可能经常提醒患者时间和地点。在流程实施前或实施过程中，向患者解释。工作人员在进入房间时应表明自己的身份和角色。
+不鼓励使用物理性约束。对于躁动的患者，约束必然增加躁动的程度。识别并调整导致躁动的风险因素，并密切观察患者，有助于预防或减轻躁动。附着于患者身上的侵入性和非侵入性设备（例如，脉搏血氧仪、导尿管、静脉输液管）也可能引起躁动；应权衡这些干预措施的风险与获益比。
+压力性损伤（也称为压疮）通常发生在老年住院患者身上，因为皮肤会发生与年龄相关的变化。 如果毛细血管灌注压超过32mmHg，只要2小时的直接压力就可能引起皮肤坏死。在一次典型的急诊科就诊过程中，老年患者躺在硬担架等待检查时，压力性损伤就开始发生。经过短暂的固定（几小时内）后，仅高于动脉和静脉毛细血管中的压力就足以导致骶骨和脚跟等部位的组织损伤。剪切力发生在患者坐在轮椅上或靠在床上向下滑动时。 大小便失禁、营养不良、慢性疾病都可能加速压疮的发展。
+
+【压力性损伤的预防】
+应在入院时立即启动预防和治疗压力性损伤的方案，并使用经验证的工具（如Braden量表或Norton量表）进行风险评估（见表预测压疮风险的Norton量表) (1)。应由患者的护理人员每日遵循，并由跨学科团队定期审查。 压疮可能是患者出院后不能回社区而要去护理之家的唯一原因。
+
+【压力性损伤参考文献】
+1.Kiyat I, Ozbas A: Comparison of the Predictive Validity of Norton and Braden Scales in Determining the Risk of Pressure Injury in Elderly Patients.Clin Nurse Spec.2024;38(3):141-146.doi:10.1097/NUR.0000000000000815
+1.Kiyat I, Ozbas A: Comparison of the Predictive Validity of Norton and Braden Scales in Determining the Risk of Pressure Injury in Elderly Patients.Clin Nurse Spec.2024;38(3):141-146.doi:10.1097/NUR.0000000000000815
+
+【营养不良】
+在医院里，老年患者很快就会营养不良或入院时即有营养不良。长期住院可能恶化先前就存在的问题，常导致显著的营养丢失。营养不良对于住院患者特别严重，因为可能使患者不能抵御感染，不能保持皮肤完整性，不能参加复健；手术伤口也可能无法愈合。
+住院在很多方面对营养不良造成影响：
+硬性安排的膳食、使用可能会影响饥饿感和味觉的药物和环境的改变都会影响食欲和营养摄入。
+硬性安排的膳食、使用可能会影响饥饿感和味觉的药物和环境的改变都会影响食欲和营养摄入。
+医院的食物和治疗饮食（如低盐饮食）是陌生的，常不能引起食欲。
+医院的食物和治疗饮食（如低盐饮食）是陌生的，常不能引起食欲。
+在医院病床上使用托盘进食很困难，特别是当床栏和约束带限制活动，或当病人有吞咽困难时。
+在医院病床上使用托盘进食很困难，特别是当床栏和约束带限制活动，或当病人有吞咽困难时。
+老年人进食可能需要帮助；帮助可能来得很慢，导致食物变冷，更没有胃口。
+老年人进食可能需要帮助；帮助可能来得很慢，导致食物变冷，更没有胃口。
+老年患者可能因口渴感减退、饮水不便或两者兼有而饮水不足；严重脱水可能随之发生（有时导致昏睡和意识模糊）。
+老年患者可能因口渴感减退、饮水不便或两者兼有而饮水不足；严重脱水可能随之发生（有时导致昏睡和意识模糊）。
+义齿可能留在了家里或被放错地方，导致咀嚼困难；贴有标签的义齿有助于防止丢失或随食品托盘弃置。
+义齿可能留在了家里或被放错地方，导致咀嚼困难；贴有标签的义齿有助于防止丢失或随食品托盘弃置。
+
+【预防营养不良】
+患有既往营养异常的患者应在入院时被识别并得到适当治疗。医生和工作人员应预见到老年患者可能存在的营养缺乏问题。
+以下措施可提供帮助：
+尽快解除限制的饮食医嘱
+尽快解除限制的饮食医嘱
+监测每日摄入的营养
+监测每日摄入的营养
+和患者及家属商议其对食物的喜好，试图给每个患者设计合理的饮食
+和患者及家属商议其对食物的喜好，试图给每个患者设计合理的饮食
+鼓励家人与患者一同进餐，因为与他人共餐时人们会吃得更多
+鼓励家人与患者一同进餐，因为与他人共餐时人们会吃得更多
+确保患者随时得到充足饮食（例如，若患者在用餐时间离开病房接受检查或治疗，应为其保留餐食）
+确保患者随时得到充足饮食（例如，若患者在用餐时间离开病房接受检查或治疗，应为其保留餐食）
+对于病情严重无法吞咽的患者，考虑使用临时肠外或肠内营养
+对于病情严重无法吞咽的患者，考虑使用临时肠外或肠内营养
+给予明确的口服液体医嘱（如，除非限制液体量，否则可在床头提供新鲜的方便拿取的水或其他液体；建议家属、朋友、工作人员定期为患者提供饮料）
+给予明确的口服液体医嘱（如，除非限制液体量，否则可在床头提供新鲜的方便拿取的水或其他液体；建议家属、朋友、工作人员定期为患者提供饮料）
+
+【护理转接】
+护理过渡是指患者从一种护理环境转移到另一种护理环境。在过去的十年中，研究表明转接期的病人护理是分散的，经常匆匆忙忙，而且医务人员之间缺乏沟通，所有这些都导致了病人的不良后果。护理交接是错误发生最频繁的环节，这会增加发病率和死亡率的风险，特别是对于那些无法为自己争取权益的老年人。为老年人提供护理的临床医生必须特别关注老年人进入医疗系统时出现的众多过渡点。最佳操作流程要确保包括 (1)：
+所有相关的健康记录都要转接
+所有相关的健康记录都要转接
+药物（特别是变化）被清楚地记录和传达
+药物（特别是变化）被清楚地记录和传达
+患者及家属已充分了解在新医疗机构的预期情况
+患者及家属已充分了解在新医疗机构的预期情况
+平稳过渡--至少是在出院和接收机构之间有电话沟通，理想情况下，出院机构和接收机构分管医务人员之间的电话沟通
+平稳过渡--至少是在出院和接收机构之间有电话沟通，理想情况下，出院机构和接收机构分管医务人员之间的电话沟通
+
+【护理过渡参考】
+1.Monkong S, Krairit O, Ngamkala T, Chonburi JSN, Pussawiro W, Ratchasan P: Transitional care for older people from hospital to home: a best practice implementation project.JBI Evid Synth2020;18(2):357-367.doi:10.11124/JBISRIR-D-19-00180
+1.Monkong S, Krairit O, Ngamkala T, Chonburi JSN, Pussawiro W, Ratchasan P: Transitional care for older people from hospital to home: a best practice implementation project.JBI Evid Synth2020;18(2):357-367.doi:10.11124/JBISRIR-D-19-00180
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+National Transitions of Care Coalition (NTOCC)：供医疗保健专业人员、政府领导、患者和护理人员使用的工具，以提高对护理转换的认识、提高护理质量、减少用药错误并改善临床结果
+National Transitions of Care Coalition (NTOCC)：供医疗保健专业人员、政府领导、患者和护理人员使用的工具，以提高对护理转换的认识、提高护理质量、减少用药错误并改善临床结果
+
+【出院规划和转运】
+早期有效的出院规划有许多优点(1) 包括
+缩短住院天数
+缩短住院天数
+降低再入院几率
+降低再入院几率
+确定相对便宜的照护选择
+确定相对便宜的照护选择
+协助在患者家中安置设备（例如，医院病床、氧气设备）
+协助在患者家中安置设备（例如，医院病床、氧气设备）
+帮助提高患者的满意度
+帮助提高患者的满意度
+可能避免入住护理之家
+可能避免入住护理之家
+只要患者一入院，跨学科团队的所有成员就开始作出院规划。 社会工作者或出院规划协调员在入院的24小时内评估患者的需要。护士协助医生判断何时出院安全以及哪种环境最为适宜。
+
+【出院回家】
+患者出院回自己家中需要后续照护的详细指导，家属或其他照护者需要培训才能提供照护。如果患者及其家属未学会如何给药、实施治疗和监测康复情况，不良后果和再入院的可能性就会增加。写下随访预约和用药时刻表可能对患者及家属有帮助。出院时，应向患者或其家属提供一份简要出院总结计划的副本，以便他们在初级保健医生收到正式总结计划之前对护理有任何疑问时使用。
+
+【出院到另一家医疗机构】
+当患者出院至疗养院或其他机构时，应随患者附送书面摘要，并向接收机构电子发送完整副本；此外，还应致电接收机构。理想的情况下，出院机构处的医师应该打电话给将在新机构中照顾病人的医师，执业护士或助理医师。小结必须包括以下完整的精确信息：
+患者的精神和功能状态
+患者的精神和功能状态
+患者最后接受药物的时间
+患者最后接受药物的时间
+目前正在服用的药物清单以及服用的剂量、途径和次数
+目前正在服用的药物清单以及服用的剂量、途径和次数
+已知药物过敏或不良反应
+已知药物过敏或不良反应
+预先指示，包括复苏状态
+预先指示，包括复苏状态
+家庭联系和支持状态
+家庭联系和支持状态
+后续预约和检查
+后续预约和检查
+住院期间医院提供的护理摘要包括相关检查和手术操作的副本
+住院期间医院提供的护理摘要包括相关检查和手术操作的副本
+可以提供额外信息的医生和护士的名字和电话号码
+可以提供额外信息的医生和护士的名字和电话号码
+患者转诊期间应携带其医疗和社会史的书面副本，并可电子发送至接收机构，以确保信息无遗漏。
+机构医务人员间的有效沟通帮助确保照护的连续性。例如，患者的主管护士可在患者转院前不久致电接收机构核对信息，并可在患者出院后致电负责照护的护士。
+
+【出院计划和转院参考】
+1.Lilleheie I, Debesay J, Bye A, Bergland A: Experiences of elderly patients regarding participation in their hospital discharge: a qualitative metasummary.BMJ Open2019;9(11):e025789.Published 2019 Nov 3.doi:10.1136/bmjopen-2018-025789
+1.Lilleheie I, Debesay J, Bye A, Bergland A: Experiences of elderly patients regarding participation in their hospital discharge: a qualitative metasummary.BMJ Open2019;9(11):e025789.Published 2019 Nov 3.doi:10.1136/bmjopen-2018-025789

@@ -1,0 +1,41 @@
+标题：脆性X染色体综合征
+来源：https://www.msdmanuals.cn/professional/pediatrics/chromosome-and-gene-abnormalities/fragile-x-syndrome
+============================================================
+
+脆性X综合征是X染色体上一个特定基因位点的异常，是最常见的导致智力残疾和自闭症谱系障碍的遗传原因（1）。男性比女性更容易受到影响。（唐氏综合症是男性智力障碍的最常见的原因；虽然它是一种遗传性疾病，但是多数情况下呈散发，且无遗传性。）
+脆性X染色体综合征的症状是由于X染色体上的FMR1基因的异常。异常是一种不稳定的CGG重复序列延伸；未受影响的人有<54 CGG重复，而患有脆性X综合征有> 200。55至200 CGG重复被认为是一个前突变，因为重复增加的数量增加了进一步突变的可能性，进一步的突变会导致在随后的世代中> 200的重复。
+脆性X染色体综合征影响1/4000的男性和1/8000的女性 (2)。前突变更为常见。患有这种疾病的女性通常比男性症状较轻。脆性 X 综合征以 X 连锁方式遗传，并非所有女性携带者都会出现临床症状。
+过去，核型的检验揭示了X染色体的长臂末端的缩窄，紧接着是薄链的遗传物质，这就是脆性Ｘ染色体综合征被认为是一种染色体异常疾病的原因所在。然而，采用现代细胞遗传学技术无法检测到这种结构缺陷，这就是为什么脆性X综合征目前被认为是一个单基因病症，而不是染色体异常的原因。
+
+【参考文献】
+1.National Fragile X Foundation.Fragile X 101.Accessed August 6, 2025.
+1.National Fragile X Foundation.Fragile X 101.Accessed August 6, 2025.
+2.MedlinePlus [Internet].Bethesda (MD): National Library of Medicine (US); [updated 2020 Jun 24].Fragile X syndrome; [updated 2020 Jun 10; reviewed 2020 Apr 1; cited 2025 Jul 29]; [about 5 p.].Available from: Fragile X syndrome: MedlinePlus Genetics.
+2.MedlinePlus [Internet].Bethesda (MD): National Library of Medicine (US); [updated 2020 Jun 24].Fragile X syndrome; [updated 2020 Jun 10; reviewed 2020 Apr 1; cited 2025 Jul 29]; [about 5 p.].Available from: Fragile X syndrome: MedlinePlus Genetics.
+
+【脆性X染色体综合征的症状和体征】
+患有脆性X染色体综合征的患者可能有身体，认知和行为上的异常。
+典型特征包括大而突出的耳朵、突出的下巴和额头、高拱形腭部以及青春期后男性的睾丸肥大。关节可能过度伸张，可能会出现心脏疾病（二尖瓣脱垂）。
+认知异常可能包括轻度至中度智力障碍。自闭症谱系障碍可能会出现一些症状，包括持续性的言语和行为、眼神交流不足以及社交焦虑。
+携带前突变的女性可能出现卵巢早衰；有时更年期发生在30多岁。携带基因FMR1前突变的男性和女性有患脆性X相关震颤/共济失调综合征(FXTAS)的风险，该综合征可表现为步态异常、意向性震颤、后期智力障碍和精神问题。
+
+【脆性X染色体综合征的诊断】
+DNA检测
+DNA检测
+脆性X综合征通常直到学龄期或极少数情况下至青春期才被怀疑，具体取决于症状的严重程度和智力障碍的程度，除非存在显著的家族史。患有自闭症谱系障碍和智力障碍的男孩应进行脆性 X 综合征检测，特别是当他们的母系亲属有类似的患病情况时。
+进行分子DNA分析（聚合酶链反应检测和Southern印迹分析，以确定重复大小和甲基化），以检测CGG重复序列数量的增加（1）。在美国，有一种包含FMR1的多基因检测组合可供使用。
+（参见下一代测序。）
+
+【诊断参考文献】
+1.Spector E, Behlmann A, Kronquist K, et al.Laboratory testing for fragile X, 2021 revision: a technical standard of the American College of Medical Genetics and Genomics (ACMG).Genet Med.2021;23(5):799-812.doi:10.1038/s41436-021-01115-y
+1.Spector E, Behlmann A, Kronquist K, et al.Laboratory testing for fragile X, 2021 revision: a technical standard of the American College of Medical Genetics and Genomics (ACMG).Genet Med.2021;23(5):799-812.doi:10.1038/s41436-021-01115-y
+
+【脆性X染色体综合征的治疗】
+支持治疗
+支持治疗
+早期干预，包括言语和语言治疗及职业治疗，可以帮助脆性X综合征儿童充分发掘潜能。
+兴奋剂、抗抑郁药和抗焦虑药（例如舍曲林）可能对某些儿童有益（1）。
+
+【Treatment reference】
+1.Protic D, Hagerman R.State-of-the-art therapies for fragile X syndrome.Dev Med Child Neurol.2024;66(7):863-871.doi:10.1111/dmcn.15885
+1.Protic D, Hagerman R.State-of-the-art therapies for fragile X syndrome.Dev Med Child Neurol.2024;66(7):863-871.doi:10.1111/dmcn.15885

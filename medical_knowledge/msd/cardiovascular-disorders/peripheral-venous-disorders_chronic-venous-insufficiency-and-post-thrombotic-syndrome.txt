@@ -1,0 +1,129 @@
+标题：慢性静脉功能不全和血栓形成后综合征
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/peripheral-venous-disorders/chronic-venous-insufficiency-and-post-thrombotic-syndrome
+============================================================
+
+慢性静脉功能不全的患病率估计差异很大，反映了研究人群的差异（1）。血栓形成后综合征可能影响高达 50% 的患者深静脉血栓形成(DVT)，并对生活质量产生重大影响。血栓后综合症的严重程度从轻微的腿部肿胀到使人衰弱的腿部静脉溃疡不等； 20%至35%的患者会发展为中度至重度疾病。血栓后综合征在 DVT 较广泛的患者中更为常见，例如股总静脉和/或髂股静脉受累的患者 (2）。
+
+【参考文献】
+1.Galanaud JP, Monreal M, Kahn SR.Epidemiology of the post-thrombotic syndrome.Thromb Res2018;164:100-109.doi:10.1016/j.thromres.2017.07.026
+1.Galanaud JP, Monreal M, Kahn SR.Epidemiology of the post-thrombotic syndrome.Thromb Res2018;164:100-109.doi:10.1016/j.thromres.2017.07.026
+2.Rabinovich A, Kahn SR.How I treat the postthrombotic syndrome.Blood2018;131(20):2215-2222.doi:10.1182/blood-2018-01-785956
+2.Rabinovich A, Kahn SR.How I treat the postthrombotic syndrome.Blood2018;131(20):2215-2222.doi:10.1182/blood-2018-01-785956
+
+【慢性静脉功能不全的病因】
+下肢静脉回流依赖小腿肌群的收缩，继而推动血液从肌内（比目鱼肌）窦状隙和腓肠肌静脉进入、通过深静脉。静脉瓣引导血液由近端回流至心脏。 当静脉阻塞（如，DVT）、静脉瓣功能不全或围绕静脉的肌肉收缩力下降（例如制动）减少前向的静脉血流并升高静脉压（静脉高压） 时可导致慢性静脉功能不全。
+下肢液体潴留（如右心衰）也会导致静脉高压。长期静脉高压导致组织水肿、炎症和缺氧，引起症状。如果连接深静脉和浅表静脉的穿透支静脉瓣功能不良，静脉高压可被递送到浅表静脉。
+对慢性静脉功能不全来说，最常见的危险因子是
+深静脉血栓形成
+深静脉血栓形成
+其它危险因素包括
+长时间坐着或站着
+长时间坐着或站着
+特发性病例常归因于既往发生的隐匿性DVT。
+血栓后综合征是指发生于DVT之后的有症状的慢性静脉功能不全。深静脉血栓（DVT）患者出现血栓后综合征的危险因素包括近端血栓形成、同侧深静脉血栓复发及体重指数（BMI）≥22 kg/m2。年龄、女性性别以及雌激素治疗也与该综合征有关。
+
+【慢性静脉功能不全的症状和体征】
+临床表现明显的慢性静脉功能不全可能不引起任何症状，但总是会引起体征；血栓形成后综合征总是会引起症状。这两种疾病都应受到关注，因为它们的症状可类似于急性DVT，且两者均可导致体力活动和生活质量的实质性降低。
+症状包括腿部饱胀感、沉重感、酸痛、痉挛、疼痛、疲劳和感觉异常；这些症状随着站立或行走而加重，通过休息和抬高患肢可缓解。瘙痒可能伴随有皮肤的改变。体征的发生是循序渐进的：由无变化到静脉曲张（罕见）、水肿，到小腿及踝部的淤滞性皮炎，可伴或不伴溃疡（见表慢性静脉功能不全的临床分类）。按压腓肠肌可能有疼痛。
+
+【慢性静脉功能不全的临床分类】
+慢性静脉功能不全的临床分类
+无静脉疾病的临床体征
+毛细血管扩张或网状静脉*
+静脉曲张*
+C2r：复发性静脉曲张
+静脉淤滞导致的皮肤改变
+C4a：色素沉着或湿疹
+C4b期：脂质硬皮病†或白色萎缩‡
+C4c：冠状静脉扩张§
+已愈合的静脉性溃疡
+活动性静脉溃疡
+C6r：复发性活动性静脉溃疡
+*可无慢性静脉功能不全而特发性地发生。
+† 伴有硬结、变色和水肿的炎症
+‡ 小的白色凹陷性瘢痕
+§ 内踝或外踝及足背呈扇形分布的小皮内静脉
+数据来自Lurie F, Passman M, Meisner M, et al（Lurie F、Passman M、Meisner M 等人）。The 2020 update of the CEAP classification system and reporting standards.J Vasc Surg Venous Lymphat Disord.2020;8(3):342-352.doi:10.1016/j.jvsv.2019.12.075
+*可无慢性静脉功能不全而特发性地发生。
+† 伴有硬结、变色和水肿的炎症
+‡ 小的白色凹陷性瘢痕
+§ 内踝或外踝及足背呈扇形分布的小皮内静脉
+数据来自Lurie F, Passman M, Meisner M, et al（Lurie F、Passman M、Meisner M 等人）。The 2020 update of the CEAP classification system and reporting standards.J Vasc Surg Venous Lymphat Disord.2020;8(3):342-352.doi:10.1016/j.jvsv.2019.12.075
+静脉淤滞性皮炎包括红斑、色素沉着、硬结、静脉扩张、脂性硬皮病（纤维化性皮下脂膜炎）、苔藓样变和静脉淤滞性溃疡。深色皮肤中的红斑可能难以识别。
+慢性淤滞性皮炎可表现为皮肤纤维化增厚和色素沉着。这些变化在浅色皮肤（上）和深色皮肤（下）中都有所体现，在下面的照片中表现得更为明显。
+静脉淤滞性溃疡可自发形成或在受累皮肤被抓伤或受损后形成。它们通常发生在内踝的周围，浅而潮湿，可伴有恶臭（特别是护理不佳时）或疼痛。它们未穿透深筋膜。相反，由于周围动脉疾病所致的溃疡最终使肌腱或骨暴露。
+静脉淤滞包括苔藓化和色素沉着。内踝上方正在形成浅溃疡。
+静脉淤滞包括苔藓化和色素沉着。内踝上方正在形成浅溃疡。
+© Springer Science+Business Media
+这种大静脉淤血性溃疡周围有硬结。
+这种大静脉淤血性溃疡周围有硬结。
+© Springer Science+Business Media
+静脉淤滞性溃疡是由于未充分治疗瘀滞性皮炎导致的。 它们可能很快会出现瘀滞性皮炎的最初表现。
+静脉淤滞性溃疡是由于未充分治疗瘀滞性皮炎导致的。 它们可能很快会出现瘀滞性皮炎的最初表现。
+Image provided by Thomas Habif, MD.
+Roberto A.Penne-Casanova/SCIENCE PHOTO LIBRARY
+静脉淤滞包括苔藓化和色素沉着。内踝上方正在形成浅溃疡。
+静脉淤滞包括苔藓化和色素沉着。内踝上方正在形成浅溃疡。
+© Springer Science+Business Media
+这种大静脉淤血性溃疡周围有硬结。
+这种大静脉淤血性溃疡周围有硬结。
+© Springer Science+Business Media
+静脉淤滞性溃疡是由于未充分治疗瘀滞性皮炎导致的。 它们可能很快会出现瘀滞性皮炎的最初表现。
+静脉淤滞性溃疡是由于未充分治疗瘀滞性皮炎导致的。 它们可能很快会出现瘀滞性皮炎的最初表现。
+Image provided by Thomas Habif, MD.
+Roberto A.Penne-Casanova/SCIENCE PHOTO LIBRARY
+下肢水肿常为单侧或不对称的；双侧对称性水肿更可能由系统性疾病（如心力衰竭、低白蛋白血症）或某些药物（如钙通道阻滞剂）引起。
+一般来说，除非下肢得到充分的护理，否则任何患有慢性静脉功能不全或血栓形成后综合征的患者都有进展为更严重阶段的风险。
+
+【慢性静脉功能不全的诊断】
+临床评估
+临床评估
+超声波检查除外DVT
+超声波检查除外DVT
+诊断通常基于病史和体格检查。根据5个症状（疼痛、抽筋、沉重感、瘙痒、感觉异常）和6个体征（水肿、色素沉着过多、硬结、静脉扩张、苍白性充血、小腿压痛）的有无，从0（无或很轻微）至3（严重）的等级进行评分，以此作为诊断疾病严重程度的标准工具(1)。在2次间隔≥6个月的访视中，记分5～14提示为轻至中度的疾病，而记分≥15提示为病情严重。
+下肢多普勒超声波检查有助于排除或证实DVT。不伴下肢水肿及踝臂指数降低提示为周围动脉疾病，而非慢性静脉功能不全和血栓形成后综合征。
+
+【诊断参考文献】
+1.Kahn SR.Measurement properties of the Villalta scale to define and classify the severity of the post-thrombotic syndrome.J Thromb Haemost2009;7(5):884-888.doi:10.1111/j.1538-7836.2009.03339.x
+1.Kahn SR.Measurement properties of the Villalta scale to define and classify the severity of the post-thrombotic syndrome.J Thromb Haemost2009;7(5):884-888.doi:10.1111/j.1538-7836.2009.03339.x
+
+【慢性静脉功能不全的治疗】
+抬高下肢
+抬高下肢
+使用绷带、弹力袜和/或气动装置进行压迫
+使用绷带、弹力袜和/或气动装置进行压迫
+局部治疗
+局部治疗
+治疗产生的继发感染
+治疗产生的继发感染
+有些专家认为减重、规律运动和减少饮食中的钠摄入可能对双侧慢性静脉功能不全的患者有益。然而，所有的干预都可能难以施行。
+抬高腿至右心房水平以上可降低静脉高压和水肿，适用于所有患者，每日至少应做3次，每次持续时间≥30分钟。然而，大多数病人无法每日坚持该日程表。
+压迫疗法建议用于治疗和预防慢性静脉功能不全的影响(即水肿、静脉溃疡)，并且适用于所有患者。尽管关于压力袜是否预防血栓后综合症的数据不一，但它们有助于减轻深静脉血栓形成后可能出现的肿胀、疼痛和紧绷症状 (1）。
+最初应用弹性绷带直到水肿和溃疡消除且腿的大小稳定；然后使用已商业化的弹力袜。提供20至30毫米汞柱远端环向压力的长袜适用于较小的静脉曲张和轻度的慢性静脉功能不全；30至40毫米汞柱适用于较大的静脉曲张和中重度疾病。偶尔会出现较高的压缩压力（例如，>40 mm Hg) 可以使用，但可能无法耐受长期使用。
+在活动使下肢水肿恶化前，即在患者醒时就应穿上弹力袜。在踝部应使用最大的压力，并向近端逐渐减少。对这种治疗的依从性各不相同；许多患者认为长筒袜具有刺激性、限制性或在美容方面不可取；许多病人很难穿上。
+间歇性充气加压（IPC）应用一个泵周期性地扩张和萎陷中空的塑料绑腿。IPC提供体外的压迫，挤压血液和液体排出小腿。这可有效地治疗严重的血栓后综合征和静脉淤滞性溃疡，但可能不比单用弹力袜更有效，而且对患者而言要持续坚持不太可行。
+局部伤口护理在静脉淤滞性溃疡管理中至关重要。如果正确应用乌纳靴（浸渍氧化锌的绷带），用压迫绷带覆盖，且每周更换一次，几乎所有的溃疡都能愈合。闭塞敷料（例如，水胶体如氯化铝）为伤口愈合提供湿润的环境，促进新组织的生长；它们可用于轻度到中度渗出的溃疡，但它们可能对简单的乌纳包扎没有什么帮助。干敷料是吸收性的，使它们最适合较重的渗出物。
+药物在慢性静脉功能不全的常规治疗中不起作用，虽然许多患者被给予阿司匹林、局部皮质类固醇、治疗水肿的利尿剂或抗生素。
+手术（如，静脉结扎、剥离、瓣膜重建）一般也是无效的。对于所有其他措施都难以治愈的淤滞性溃疡患者，移植自体皮肤或由表皮角质形成细胞或真皮成纤维细胞产生的皮肤可能是一种选择（2）；然而，移植物存在复发的风险，尤其是在持续静脉高压的情况下。
+
+【治疗参考文献】
+1.Kahn SR, Comerota AJ, Cushman M, et al.The postthrombotic syndrome: evidence-based prevention, diagnosis, and treatment strategies: a scientific statement from the American Heart Association [published correction appears in Circulation. 2015 Feb 24;131(8):e359].Circulation2014;130(18):1636-1661.doi:10.1161/CIR.0000000000000130
+1.Kahn SR, Comerota AJ, Cushman M, et al.The postthrombotic syndrome: evidence-based prevention, diagnosis, and treatment strategies: a scientific statement from the American Heart Association [published correction appears in Circulation. 2015 Feb 24;131(8):e359].Circulation2014;130(18):1636-1661.doi:10.1161/CIR.0000000000000130
+2.Jones JE, Nelson EA, Al-Hity A.Skin grafting for venous leg ulcers.Cochrane Database Syst Rev2013;2013(1):CD001737.Published 2013 Jan 31.doi:10.1002/14651858.CD001737.pub4
+2.Jones JE, Nelson EA, Al-Hity A.Skin grafting for venous leg ulcers.Cochrane Database Syst Rev2013;2013(1):CD001737.Published 2013 Jan 31.doi:10.1002/14651858.CD001737.pub4
+
+【慢性静脉功能不全的预防】
+慢性静脉功能不全的主要预防包括发生DVT后的充分抗凝以及发生DVT或下肢静脉创伤后应用弹力袜长达2年。然而，一项对压力袜与安慰剂（即不穿压力袜或假压力袜）进行比较的随机试验的荟萃分析未能显示血栓后综合症的显着减少(1）。
+生活方式改变（如，减重、有规律的运动、减少饮食中的食盐）能降低下肢静脉压从而降低其危险性。
+
+【预防参考文献】
+1.Subbiah R, Aggarwal V, Zhao H, Kolluri R, Chatterjee S, Bashir R.Effect of compression stockings on post thrombotic syndrome in patients with deep vein thrombosis: a meta-analysis of randomised controlled trials.Lancet Haematol2016;3(6):e293-e300.doi:10.1016/S2352-3026(16)30017-5
+1.Subbiah R, Aggarwal V, Zhao H, Kolluri R, Chatterjee S, Bashir R.Effect of compression stockings on post thrombotic syndrome in patients with deep vein thrombosis: a meta-analysis of randomised controlled trials.Lancet Haematol2016;3(6):e293-e300.doi:10.1016/S2352-3026(16)30017-5
+皮肤变化呈连续谱进展，范围从正常皮肤或轻度静脉扩张到严重的淤滞性皮炎和溃疡。
+皮肤变化呈连续谱进展，范围从正常皮肤或轻度静脉扩张到严重的淤滞性皮炎和溃疡。
+血栓形成后综合征的症状更常见，包括沉重、疼痛和感觉异常。
+血栓形成后综合征的症状更常见，包括沉重、疼痛和感觉异常。
+诊断基于体格检查，但患者应该进行超声检查以排除深静脉血栓。
+诊断基于体格检查，但患者应该进行超声检查以排除深静脉血栓。
+通过抬高和压迫治疗；药物和手术通常无效。
+通过抬高和压迫治疗；药物和手术通常无效。

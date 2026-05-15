@@ -1,0 +1,162 @@
+标题：气管插管术
+来源：https://www.msdmanuals.cn/professional/critical-care-medicine/respiratory-arrest/tracheal-intubation
+============================================================
+
+大多数需要人工气道的患者可以通过口气管插管进行治疗，有时也可以通过鼻气管插管进行治疗。
+经口气管插管是通过直接喉镜或视频喉镜进行的（见如何利用视频喉镜进行经口气管插管）。对于呼吸暂停和重症患者，最好选择经口气管插管，因为它通常比经鼻气管插管更快。
+经鼻气管插管仅适用于清醒且自主呼吸的患者，或必须避免经口途径的情况。鼻咽插管的严重并发症是鼻衄。气道中的血液会妨碍喉镜视野，使插管操作复杂化。
+(参见呼吸停止综述和气道建立与管理）。
+
+【插管前准备】
+
+【气道评估】
+当临床情况允许时，临床医生应进行气道风险评估，并了解重点病史，以确定可能表明气道困难的潜在因素。这些包括插管困难史、已知气道解剖结构扭曲、打鼾、阻塞性睡眠呼吸暂停、糖尿病（1) 以及窒息或误吸史 (2）。
+气道体检包括检查可能阻碍张口的面部和下颌特征（例如创伤、关节炎）。此外，张口狭窄、舌骨至颏部距离短、甲状腺至颏部距离短有时预示着插管困难（3）。
+然而，在时间有限或危急情况下无法获得预测喉镜检查困难的解剖评估和评分（例如 Mallampati 评分），因此临床医生应始终准备使用替代技术（例如视频喉镜检查、声门上气道，，气囊面罩通气，手术气道) 如果遇到意外的困难气道。临床医生应使用适合其临床环境（如手术室、急诊科、重症监护室）的困难气道处理流程，这些流程应包括替代气道（用作主要气道和救援气道）以及急诊环甲膜切开术/颈前入路技术(2, 4)。
+
+【插管准备】
+期间心脏停搏，插管时应尽量减少胸外按压的暂停时间（5）。或者，可以放置声门上气道。
+在尝试气管插管前，始终需要采用手法保持气道开放，并对患者进行通气和氧合。一旦决定行气管插管，需准备的步骤包括：
+患者正确的体位摆放（见图开放气道时头和颈部位置）
+患者正确的体位摆放（见图开放气道时头和颈部位置）
+使用 100% 氧气进行预氧合
+使用 100% 氧气进行预氧合
+准备好必要的设备（包括吸引器）
+准备好必要的设备（包括吸引器）
+有时需要使用药物
+有时需要使用药物
+使用100%氧气进行预氧合可以排出健康患者体内的氮气，显著延长安全窒息时间（对患有严重心肺疾病的患者效果较差）。
+尽快备好硬管扁桃形吸引头的吸引器，以清除气道内分泌物和其他物质。
+插管前和插管过程中，为防止被动反流，建议采用前环状软骨按压（Sellick手法）。然而，这种方法可能没有以前认为的那样有效，而且可能在喉镜检查过程中损害喉部视野。
+辅助插管的药物，包括镇静药、肌松药，有时还有抗迷走神经药，通常在喉镜检查前给予意识清醒或半清醒的患者。
+如果预期气道困难的患者没有立即出现呼吸骤停，则应考虑清醒插管，因为这样可以保留自主呼吸（2）。根据最新指南，推荐使用高流量氧气进行预氧合，或使用无创正压通气（NIPPV）提供呼气末正压（PEEP）进行预氧合。已经处于休克状态的患者在插管期间有血流动力学崩溃的风险，临床医生应预测需要输液或使用血管加压药。
+
+【插管前参考资料】
+1.L'Hermite J, Nouvellon E, Cuvillon P, Fabbro-Peray P, Langeron O, Ripart J: The Simplified Predictive Intubation Difficulty Score: a new weighted score for difficult airway assessment.Eur J Anaesthesiol26(12):1003–1009, 2009.doi:10.1097/EJA.0b013e32832efc71
+1.L'Hermite J, Nouvellon E, Cuvillon P, Fabbro-Peray P, Langeron O, Ripart J: The Simplified Predictive Intubation Difficulty Score: a new weighted score for difficult airway assessment.Eur J Anaesthesiol26(12):1003–1009, 2009.doi:10.1097/EJA.0b013e32832efc71
+2.Apfelbaum JL, Hagberg CA, Connis RT, et al: 2022 American Society of Anesthesiologists Practice Guidelines for Management of the Difficult Airway.Anesthesiology136(1):31-81, 2022.doi:10.1097/ALN.0000000000004002
+2.Apfelbaum JL, Hagberg CA, Connis RT, et al: 2022 American Society of Anesthesiologists Practice Guidelines for Management of the Difficult Airway.Anesthesiology136(1):31-81, 2022.doi:10.1097/ALN.0000000000004002
+3.Brown III CA: Identification of the failed airway.In Brown III CA, Sakles JC, Mick NW, Mosier JM, Braude DB (Eds).Walls Manual of Emergency Airway Management, 6th ed, Wolters Kluwer, 2022.
+3.Brown III CA: Identification of the failed airway.In Brown III CA, Sakles JC, Mick NW, Mosier JM, Braude DB (Eds).Walls Manual of Emergency Airway Management, 6th ed, Wolters Kluwer, 2022.
+4.Difficult Airway Society: DAS guidelines for management of unanticipated difficult intubation in adults 2015.
+4.Difficult Airway Society: DAS guidelines for management of unanticipated difficult intubation in adults 2015.
+5.Panchal AR, Berg KM, Hirsch KG, et al: 2019 American Heart Association Focused Update on Advanced Cardiovascular Life Support: Use of Advanced Airways, Vasopressors, and Extracorporeal Cardiopulmonary Resuscitation During Cardiac Arrest: An Update to the American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation140(24):e881–e894, 2019.doi:10.1161/CIR.0000000000000732
+5.Panchal AR, Berg KM, Hirsch KG, et al: 2019 American Heart Association Focused Update on Advanced Cardiovascular Life Support: Use of Advanced Airways, Vasopressors, and Extracorporeal Cardiopulmonary Resuscitation During Cardiac Arrest: An Update to the American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation140(24):e881–e894, 2019.doi:10.1161/CIR.0000000000000732
+
+【气管导管的选择与插管准备】
+大多数成人可使用内径为≥8毫米的导管；这类导管优于较细的导管，因为它们：
+有较低的气流阻力（减少呼吸功）
+有较低的气流阻力（减少呼吸功）
+促进分泌物吸引
+促进分泌物吸引
+允许支气管镜通过
+允许支气管镜通过
+可能帮助机械通气的撤离
+可能帮助机械通气的撤离
+对于{≥1岁的婴儿和儿童，无套囊导管的尺寸计算公式为：（年龄+16）/4；因此，一名4岁儿童应使用（4+16）/4=5毫米的气管内导管。如使用带套囊的导管，按此公式建议的导管尺寸应减小0.5（即1个导管尺寸）（1）。参考列表(见表小儿复苏指南--机械措施) 、或Broselow小儿急救尺或Pedi-Wheel儿科换算转盘这样的装置能快速查到适合婴儿和儿童的喉镜刀片和气管导管尺寸。
+对于成人（有时对于儿童），应在导管内放置一根硬质管芯，注意使管芯尖端止于气管导管远端末端前1至2厘米处，这样导管尖端能保持柔软。然后应使用管芯将导管塑形，使其直至远端套囊起始处保持笔直；从该点起，导管向上弯曲约35°度，形成曲棍球杆形状。这种直抵套囊的形状有利于导管送入，并避免在导管通过过程中遮挡操作者观察声带的视线。通常无需常规向气管导管远端套囊充气以检查气囊；若使用此技术，则必须在插管前确保将所有气体排出。
+
+【管材选择参考】
+1.Weiss M, Dullenkopf A, Fischer JE, Keller C, Gerber AC, European Paediatric Endotracheal Intubation Study Group: Prospective randomized controlled multi-centre trial of cuffed or uncuffed endotracheal tubes in small children.Br J Anaesth103(6):867–873, 2009.doi:10.1093/bja/aep290
+1.Weiss M, Dullenkopf A, Fischer JE, Keller C, Gerber AC, European Paediatric Endotracheal Intubation Study Group: Prospective randomized controlled multi-centre trial of cuffed or uncuffed endotracheal tubes in small children.Br J Anaesth103(6):867–873, 2009.doi:10.1093/bja/aep290
+
+【插管技术】
+第一次插管成功很重要。 重复喉镜插入（≥3次尝试）与明显的低氧血症、误吸和心脏骤停的发生率增高相关。除了正确定位（见图头部和颈部的定位以打开气道），其他一些一般原则对于成功也至关重要：
+看到会厌
+看到会厌
+看到喉部后方结构（较理想的是声带）
+看到喉部后方结构（较理想的是声带）
+未确认插入气管前不要推送导管
+未确认插入气管前不要推送导管
+传统喉镜设计为左手握持，将镜片插入口腔，并用作牵开器将下颌和舌体向上、远离喉镜操作者的方向牵开，从而显露咽后部。应注意避开门牙，避免挤压喉部组织。
+强调识别会厌的重要性。会厌是操作者识别并确认气道的标志，并引导操作者正确放置喉镜叶片。会厌可能贴附于咽后壁，在此处它与其他粉红色的黏膜融为一体，或淹没在心脏骤停患者气道中几乎总是存在的分泌物池中。
+一旦找到会厌，操作者可以使用以下两种技术之一将其抬起：
+典型的直刀入路：操作者用喉镜刀尖抬起会厌
+典型的直刀入路：操作者用喉镜刀尖抬起会厌
+典型的弯镜片入路：操作者将镜片尖端推进至会厌谷，并压向舌骨会厌韧带，从而间接抬起会厌并将其移出视线。
+典型的弯镜片入路：操作者将镜片尖端推进至会厌谷，并压向舌骨会厌韧带，从而间接抬起会厌并将其移出视线。
+弯式镜片操作成功取决于：1）叶片顶部在会厌谷中的正确位置；2）提升力的方向（见图双手操作喉镜）。提升会厌能暴露咽后部结构（杓状软骨、杓间切迹）、声门和声带。如果镜片尖端插入过深，可能会完全错过喉部标志物，而将幽暗、圆形的食管开口误认为是声门开口。
+假如难以辨别结构，将右手置于前颈部压迫喉部（同时用左手继续握住喉镜）可优化喉部视野（见图双手操作喉镜）。助手也可以帮助控制喉部。另一方法是抬高头部（抬高枕部，而非伸展环枕关节），此举移动了颌部位置，改善视线。对有潜在颈椎损伤者，不推荐抬高头部。对病态肥胖者，抬高头部也有困难（必须预先摆好体位，上身倾斜抬高或头高位）。
+在最佳视野时，声带清晰可见。若未见到声带，至少必须见到咽后部的标志，见到导管端部经过杓间切迹和后软骨上方。操作者必须确认喉部标志，避免误插入食管，后者可能致命。如果操作者不能确信将导管插进气管，则应停止插入。
+一旦操作视野达到最佳，用右手将导管经喉插入气管（如果操作者已用右手在喉前方施压，旁边的助手应继续按压喉前方）。如果导管通过不顺畅，将导管逆时针旋转90°度可能有助于其更平滑地滑过气管前软骨环。当气管插管的套囊超出声带 1 至 2 厘米后，应给气囊充气并取出管心针。撤除喉镜前，操作者应确认导管已通过声带。成人导管的适宜插入深度通常为21至23厘米，儿童则为气管导管尺寸（内径，单位毫米）的3倍（例如，4.0毫米气管导管为12厘米；5.5毫米气管导管为16.5厘米）。在成人，如不注意，气管导管会插入到右主支气管。
+10%至30%的危重患者插管失败，因此应制定应急计划。当插管失败时，应优先考虑氧合并使用替代干预措施，同时尽量减少气道干预的次数，以尽量减少创伤和其他手术并发症(1, 2）。
+
+【双手操作喉镜】
+双手操作喉镜
+在颈部对着喉镜抬起的方向施压。箭头显示喉镜抬起的方向和颈前部施压方向。
+
+【插入技术参考】
+1.Frerk C, Mitchell VS, McNarry AF, et al: Difficult Airway Society 2015 guidelines for management of unanticipated difficult intubation in adults.Br J Anaesth115: 827–848, 2015.https://doi.org/10.1093/bja/aev371
+1.Frerk C, Mitchell VS, McNarry AF, et al: Difficult Airway Society 2015 guidelines for management of unanticipated difficult intubation in adults.Br J Anaesth115: 827–848, 2015.https://doi.org/10.1093/bja/aev371
+2.Higgs A, McGrath BA, Goddard C, et al: Guidelines for the management of tracheal intubation in critically ill adults.Br J Anaesth120:323–352, 2018. doi: 10.1016/j.bja.2017.10.021
+2.Higgs A, McGrath BA, Goddard C, et al: Guidelines for the management of tracheal intubation in critically ill adults.Br J Anaesth120:323–352, 2018. doi: 10.1016/j.bja.2017.10.021
+
+【可供选择的插管设备】
+许多设备和技术可用于喉镜插管失败后的补救，或作为主要的插管手段。 插管设备包括
+可视喉镜
+可视喉镜
+喉罩气道（LMAs）有一个通道允许进行气管插管操作
+喉罩气道（LMAs）有一个通道允许进行气管插管操作
+其他声门上气道
+其他声门上气道
+纤维支气管镜和光学管芯
+纤维支气管镜和光学管芯
+导管引导器
+导管引导器
+每种设备各有特点。即使操作者能熟练使用标准喉镜，但是如果不完全熟悉新设备，喉镜的操作经验并不保证他会使用新设备（特别是在给予患者肌肉松弛剂之后）。
+可视喉镜使操作者能够观察舌体弯曲部后方的情况，通常能提供极佳的喉部视野。视频喉镜检查可提高成人气道困难患者的插管成功率，缩短插管成功时间（1）。然而，一些视频喉镜要求气管内导管具有夸张的弯曲角度以围绕舌头，因此可能更难以操纵和插入。在 COVID-19 大流行期间，许多社会指南建议使用视频喉镜检查（在可用时）作为气道管理的主要方法，因为它增加了插管医生与患者面部之间的距离，以尽量减少病毒传播（2）。对于儿童，与直接喉镜检查相比，视频喉镜检查可降低首次插管失败的风险。然而，需要更多的证据来确定所有视频喉镜设备是否都能提供相同的益处（3）。
+喉罩气道有一个通道允许进行气管插管操作为使气管导管通过喉罩，操作者必须了解如何最佳地将喉罩定位在喉部入口上。即便如此，经喉罩插管时仍可能会遇到机械性困难。
+如果无法获得最佳的喉部视野或气管插管无法穿过声带（如解剖结构异常、声门下狭窄），声门上气道可以放置管道。
+可屈曲的纤维内镜和光纤导芯易于操作，可用于有解剖畸形的患者。但是，从光纤角度来看，需要通过实践来识别喉部标志。与视频喉镜相比，光纤镜更难掌握，更容易受到血液和分泌物的影响；此外，它们不会分离和推开组织，而是必须通过开放的通道移动。
+导管导入器（通常称为弹性橡胶探条）是一种半刚性的导芯，当喉部视野欠佳时（如，会厌可见，但喉部开口不可见）可以使用。 在这种情况下，导入器沿会厌下表面通过；从这一点来看，它很可能进入气管。当触到导丝顶端在气管环上方反弹时，提示导丝进入气管。然后，气管导管通过导丝送入。当气管导管沿导管导入器送入时，导管尖端有时会挂到右侧杓会厌襞。将导管逆时针旋转90°，通常能分离管尖和会厌皱襞，使导管顺利进入气管。
+
+【替代插管设备参考】
+1.Su YC, Chen CC, Lee YK, Lee JY, Lin KJ: Comparison of video laryngoscopes with direct laryngoscopy for tracheal intubation: a meta-analysis of randomised trials.Eur J Anaesthesiol28(11):788–795, 2011.doi:10.1097/EJA.0b013e32834a34f3
+1.Su YC, Chen CC, Lee YK, Lee JY, Lin KJ: Comparison of video laryngoscopes with direct laryngoscopy for tracheal intubation: a meta-analysis of randomised trials.Eur J Anaesthesiol28(11):788–795, 2011.doi:10.1097/EJA.0b013e32834a34f3
+2.Perkins EJ, Begley JL, Brewster FM, Hanegbi ND, Ilancheran AA, Brewster DJ: The use of video laryngoscopy outside the operating room: A systematic review.PLoS One17(10):e0276420, 2022.doi:10.1371/journal.pone.0276420
+2.Perkins EJ, Begley JL, Brewster FM, Hanegbi ND, Ilancheran AA, Brewster DJ: The use of video laryngoscopy outside the operating room: A systematic review.PLoS One17(10):e0276420, 2022.doi:10.1371/journal.pone.0276420
+3.de Carvalho CC, Regueira SLPA, Souza ABS, et al: Videolaryngoscopes versus direct laryngoscopes in children: Ranking systematic review with network meta-analyses of randomized clinical trials.Paediatr Anaesth32(9):1000–1014, 2022.doi:10.1111/pan.14521
+3.de Carvalho CC, Regueira SLPA, Souza ABS, et al: Videolaryngoscopes versus direct laryngoscopes in children: Ranking systematic review with network meta-analyses of randomized clinical trials.Paediatr Anaesth32(9):1000–1014, 2022.doi:10.1111/pan.14521
+
+【确认插管位置】
+取出导丝并使用10mL注射器将气囊充气；使用压力计来验证气囊压力<30厘米水柱。气管导管的尺寸和袖带尺寸会影响正确压力所需的空气量。
+球囊充气后，应通过以下一种或多种方法检查导管放置情况:
+望诊和听诊
+望诊和听诊
+二氧化碳检测
+二氧化碳检测
+食管探测设备
+食管探测设备
+有时需行胸部X线检查
+有时需行胸部X线检查
+如果导管位置正确，人工通气应使胸廓对称抬起，两侧呼吸音清晰，而且上腹部没有气过水声。
+呼出的气体应含有二氧化碳，而胃内气体则不应含有；使用定量波形二氧化碳描记术检测到二氧化碳可确认导管位于气管内。如果无法进行波形二氧化碳描记术，可以使用比色法呼气末二氧化碳（ETCO2）检测设备，但其可靠性较低。如果插管前心脏骤停时间延长，定量波形二氧化碳描记术最初可能无法检测到ETCO2。但是，如果复苏成功，稍后可以检测到 ETCO2。ETCO2的检测或ETCO2水平的升高反映了有效的胸外按压和通气。
+如果心跳停止时间较长（几乎很少或没有代谢活动），即使导管位置正确，也可能测不到二氧化碳。 在这种情况下，可以使用食管探测装置。 这些装置使用充气囊或大型注射器给气管插管施加负压。柔性的食管会塌陷，导致很少或没有气体被抽入设备；相反，刚性的气管不会塌陷，能被抽入气体从而确认导管位于气管内。
+无心脏停搏时，胸部X线检查是确定导管位置的经典方法。
+确认导管位置正确后，用特定装置或胶布将导管固定。用适配器将气管导管连接至复苏囊，供氧和湿化的T型件，或呼吸机。
+气管导管可能发生移位，尤其在忙乱的复苏场合，应反复检查导管的位置。若左侧呼吸音消失，相对左侧张力性气胸而言，导管进入右主气管的可能性更大，但两者均应考虑到。
+
+【经鼻气管插管】
+假如患者有自主呼吸，在特定急诊场景下可以采用经鼻气管插管，比如患者的口腔和颈部有严重的疾患（如损伤、水肿、活动受限）难以使用喉镜经口插管。对于面中部骨折或已知或疑似颅底骨折的患者，鼻气管插管是绝对禁忌的。当无法获得或限制使用肌肉松弛剂时（例如，超出院前急救人员和一些急诊科医务人员的执业范围），以及对于处于直立位的失代偿性心力衰竭和呼吸衰竭患者，也曾使用经鼻插管。然而，无创通气手段的可用性（例如，双水平气道正压通气），药物辅助插管的可及性和培训的改善，以及目前的气道设备，显著减少了鼻插管的使用。 经鼻气管插管的额外问题包括：鼻窦炎（插管3天后普遍存在）以及能做气管镜的导管（≥8mm）几乎不可能经鼻插入。
+进行经鼻气管插管时，必须在鼻粘膜和喉部应用血管收缩剂（如去氧肾上腺素）和局部麻醉剂（如苯佐卡因、利多卡因），以防止出血并抑制保护性反射。部分病人可能也需要静脉注射镇静剂、阿片类或麻醉药物。
+鼻粘膜准备完成后，应插入软的鼻咽通气道，并保证所选鼻气道通畅，可用于咽喉局部用药。 可以使用普通或麻醉剂（例如利多卡因）润滑剂来放置鼻咽气道。鼻咽气道在咽部粘膜喷洒后被去除。
+然后将鼻气管导管插入约14厘米深（对于大多数成人，此处正好在喉入口上方）；此时，应能听到气流声。随着病人呼吸，声带打开，将鼻导管及时插入气管。初次插入失败往往引起患者咳嗽。 操作者应该预料到这种情况，因为声门完全开放时是第二次插入导管的合适机会。气管导管头方向可控，导管弯曲能力更强，这些可能会提高插管成功率。有些操作者将气管导管放入温水，使之变软，以减少出血，便于插入。一种市售的小型哨子也可以连接到气管导管的近端连接器上，当导管正确位于喉部和气管上方时，它可以增强气流移动的声音。
+
+【气管插管的并发症】
+气管插管的并发症
+直接损伤
+直接损伤
+插入食管
+插入食管
+气管糜烂或狭窄
+气管糜烂或狭窄
+喉镜会伤及唇、牙齿、舌及声门上、声门下区域。
+如果气管导管插入食管而未察觉，会导致通气中止、缺氧损伤，甚至死亡。对插入食管的气管导管送气会引起反流误吸，影响之后进行气囊面罩阀通气，也使再次尝试插管的视野变得模糊。
+任何经喉管都会损伤声带;有时发生溃疡，缺血和长时间的声带麻痹。 声门下狭窄可在晚些时候发生（通常3~4周后）。
+气管侵蚀不常见。更常见的原因是袖带压力过高（> 30厘米水）。
+大血管出血（如无名动脉）、瘘管（尤其是气管食管瘘）和气道狭窄很少见。 使用带高容低压气囊的导管，且导管型号合适；密切（每隔8小时）监测气囊压力，且维持其压力<30cm水降低气管发生压力性缺血坏死的风险。但是，对于伴有低心输出量或脓毒症的休克患者，仍然特别容易发生损伤。
+在儿科患者中，偶尔会发生喉痉挛，可以通过局部或静脉注射利多卡因来预防，并用丙泊酚和/或琥珀胆碱治疗（1）。
+
+【插管并发症参考】
+1.von Ungern-Sternberg B, Sims C: Airway Management in Children.In: Sims C, Weber D, Johnson C (eds).A Guide to Pediatric Anesthesia.Springer, Cham.2020.pp.77–114.https://doi.org/10.1007/978-3-030-19246-4_4
+1.von Ungern-Sternberg B, Sims C: Airway Management in Children.In: Sims C, Weber D, Johnson C (eds).A Guide to Pediatric Anesthesia.Springer, Cham.2020.pp.77–114.https://doi.org/10.1007/978-3-030-19246-4_4

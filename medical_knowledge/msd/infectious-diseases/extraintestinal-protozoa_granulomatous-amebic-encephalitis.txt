@@ -1,0 +1,72 @@
+标题：肉芽肿性阿米巴脑炎
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/extraintestinal-protozoa/granulomatous-amebic-encephalitis
+============================================================
+
+Acanthamoeba(棘阿米巴)属和Balamuthia mandrillaris(巴氏阿米巴)广泛存在于水、土壤及灰尘当中。人类接触是常见的，但是很少有人感染。Acanthamoeba（棘阿米巴）中枢神经系统（CNS）感染几乎完全发生在免疫功能低下或其他虚弱患者中；然而，B. mandrillaris（曼德里尔巴拉米巴）也可能感染健康患者以及免疫功能低下的患者。Sappinia pedata与德克萨斯州一例阿米巴脑炎有关 (1)。
+阿米巴原虫、巴拉姆西亚阿米巴和沙皮虫的生命周期仅有2个阶段：包囊和滋养体（感染形式）。 滋养体形成两层囊壁的包囊抵抗根除。原虫通常由皮肤或者下呼吸道进入，通过随后的血行传播进入中枢神经系统。 感染患者的组织中可能发现包囊和滋养体。
+
+【参考文献】
+1.Qvarnstrom Y, da Silva AJ, Schuster FL, Gelman BB, Visvesvara GS.Molecular confirmation ofSappinia pedataas a causative agent of amoebic encephalitis.J Infect Dis.2009;199(8):1139–1142.doi:10.1086/597473
+1.Qvarnstrom Y, da Silva AJ, Schuster FL, Gelman BB, Visvesvara GS.Molecular confirmation ofSappinia pedataas a causative agent of amoebic encephalitis.J Infect Dis.2009;199(8):1139–1142.doi:10.1086/597473
+
+【肉芽肿性阿米巴脑炎的症状】
+在肉芽肿性阿米巴脑炎患者中，起病隐匿，通常表现为在数周至数月内逐渐出现的局灶性神经系统表现。精神状态改变伴有行为异常、癫痫发作和头痛是常见症状。发热、乏力等炎症症状很常见。
+Acanthamoeba（棘阿米巴）属和B. mandrillaris（巴氏阿米巴）也可能会导致皮肤损伤；感染的患者可表现为溃疡性皮肤损伤，继而发展为神经系统症状和体征。在少数晚期人类免疫缺陷病毒感染患者中，播散性棘阿米巴感染仅累及皮肤。
+进行性神经系统症状会导致谵妄、昏迷，甚至在开始治疗后死亡。患有中枢神经系统或播散性疾病的患者生存率很低，多死于发病后7～120天。
+
+【肉芽肿性阿米巴脑炎的诊断】
+头颅CT和/或MRI增强扫描
+头颅CT和/或MRI增强扫描
+脑脊液（CSF）分析
+脑脊液（CSF）分析
+皮肤活检
+皮肤活检
+肉芽肿性阿米巴脑炎的诊断往往在死后才能确诊。如果脑炎情况下脑脊液的常规微生物学评估中细菌、真菌或病毒呈阴性，临床医生应高度怀疑。
+
+【Acanthamoeba（棘阿米巴）感染的诊断】
+患有Acanthamoeba（棘阿米巴）脑部感染的患者，增强CT和增强MRI可能会显示1个或多个环形强化的占位性病变，最常见于颞叶和顶叶。脑脊液（CSF）中白细胞（WBC）计数（主要是淋巴细胞）升高，但滋养体罕见。 这些检测有助于排除其他可能的原因，但通常无法确认诊断。
+可见的皮肤损害通常含有阿米巴原虫，应进行活检；如果检测到，可做阿米巴培养及药物敏感性检测。
+脑组织活检经苏木精-伊红染色后，常可检出滋养体，若怀疑为肉芽肿性阿米巴脑炎，应考虑进行此项检查。
+这张图片显示了用苏木精和伊红染色的脑组织样本中的一个棘阿米巴囊体。
+CDC/ DPDx; George Healy, Ph.D.
+基于聚合酶链反应（PCR）的检测方法可在专业参考实验室进行，包括用于鉴定Acanthamoeba（棘阿米巴 ）物种和B. mandrillaris（曼德里尔巴氏变形虫）（1）的多重PCR检测。
+
+【B. mandrillaris（巴氏阿米巴）感染的诊断】
+患有B. mandrillaris（巴氏阿米巴）脑部感染的患者，增强CT和增强MRI均显示典型的多个结节状、环状强化病变。病灶内出血是一个重要的影像学线索。
+CSF中白细胞计数（主要是淋巴细胞）升高，葡萄糖含量正常或偏低，蛋白质含量通常明显升高。CSF中很少检出B. mandrillaris(巴氏阿米巴)。
+显微镜检查以及基于PCR和免疫组织化学技术可以在脑或皮肤病变的活组织切片中鉴别B. mandrillaris(巴氏阿米巴)。
+这张图片显示了用苏木精和伊红染色的脑组织样本中的一个曼氏巴拉姆西亚阿米巴囊体。
+Image courtesy of the University of Kentucky Hospital, Lexington, Kentucky.
+
+【S. pedata感染的诊断】
+对于患有S. pedata（异养型叶足虫）脑部感染的患者，脑部病变的活检可以提供关键的诊断信息。坏死性出血性炎症伴有自由生活阿米巴的存在，特别是那些具有独特双核的阿米巴，表明存在Sappinia（异养型叶足虫）感染。
+然后可以使用分子技术进行确诊。实时聚合酶链反应（PCR）检测可用于确认临床样本中是否存在Sappinia（萨普尼虫属） DNA。这种分子确认对于准确诊断至关重要，因为Sappinia（异养型叶足虫）物种通常与人类疾病无关，并且可能在形态学上被错误识别。
+免疫荧光显微镜检查也可以考虑；这项技术有助于区分Sappinia（异养型叶足虫）与其他引起脑炎的阿米巴原虫。Sappinia（异养型叶足虫）的独特结构特征，例如双核，可以使用特定的染色方法来识别。
+该图像显示了用苏木精和伊红染色的脑组织中异养型叶足虫的4个滋养体（箭头）。在3个阿米巴原虫中，可以很容易地看到双核。
+CDC/DPDx
+
+【诊断参考文献】
+1.Qvarnstrom Y, Visvesvara GS, Sriram R, da Silva AJ.Multiplex real-time PCR assay for simultaneous detection ofAcanthamoebaspp.,Balamuthia mandrillaris, andNaegleria fowleri.J Clin Microbiol.2006;44(10):3589-3595.doi:10.1128/JCM.00875-06
+1.Qvarnstrom Y, Visvesvara GS, Sriram R, da Silva AJ.Multiplex real-time PCR assay for simultaneous detection ofAcanthamoebaspp.,Balamuthia mandrillaris, andNaegleria fowleri.J Clin Microbiol.2006;44(10):3589-3595.doi:10.1128/JCM.00875-06
+
+【肉芽肿性阿米巴脑炎的治疗】
+一种抗寄生虫药物的组合，包括米替福辛
+一种抗寄生虫药物的组合，包括米替福辛
+咨询疾病控制与预防中心(CDC)
+咨询疾病控制与预防中心(CDC)
+对于所有肉芽肿性阿米巴脑炎病例，建议立即咨询CDC（参见美国疾病控制与预防中心（CDC）为医疗服务提供者设立的非疟疾寄生虫病热线 / 临床咨询服务)）。
+Acanthamoeba（棘阿米巴）的优化治疗尚不明确。 多种药物（通常> 5种）常联合使用。尽管使用含米替福新方案治疗的患者数量较少，但米替福新似乎具有生存优势，因此推荐使用。尽管米替福新可能导致先天性异常，但对于妊娠患者可以考虑使用，因为肉芽肿性阿米巴脑炎通常是致命的，如果不进行治疗；因此，治疗的潜在益处可能超过对胎儿的风险。
+用于联合米替福新治疗Acanthamoeba（棘阿米巴）脑炎的其他药物包括喷他脒、磺胺嘧啶或甲氧苄啶/磺胺甲恶唑、阿奇霉素或克拉霉素、氟胞嘧啶、唑类药物（氟康唑、伊曲康唑或伏立康唑）、利福平、卡泊芬净和两性霉素 B。
+对于B. mandrillaris(巴氏阿米巴)脑炎，使用米替福新联合其他药物如氟胞嘧啶、喷他脒、氟康唑和/或磺胺嘧啶加阿奇霉素或克拉霉素以及手术切除进行治疗。
+一例Sappinia pedata（巴氏阿米巴）脑炎通过阿奇霉素、喷他脒、伊曲康唑和氟胞嘧啶联合中枢神经系统（CNS）病灶的手术切除而成功治愈。在以后的病例中应该考虑在这个方案中加入米替福新。
+Acanthamoeba（棘阿米巴）或B. mandrillaris(巴氏阿米巴)引起的皮肤和播散性感染，通常采用相同药物治疗，并辅以皮肤病灶的清创术。
+肉芽肿性阿米巴脑炎是一种极为罕见、通常致命的中枢神经系统感染。
+肉芽肿性阿米巴脑炎是一种极为罕见、通常致命的中枢神经系统感染。
+Acanthamoeba（棘阿米巴）脑炎几乎全部发生在免疫功能低下或体质虚弱的患者中，但B. mandrillaris(巴氏阿米巴)也可感染健康宿主。
+Acanthamoeba（棘阿米巴）脑炎几乎全部发生在免疫功能低下或体质虚弱的患者中，但B. mandrillaris(巴氏阿米巴)也可感染健康宿主。
+进行头部CT或MRI检查，均需使用对比剂；进行脑脊液（CSF）分析以排除其他病因；若存在皮肤病变则进行活检，或必要时对脑组织进行活检以检查阿米巴原虫。
+进行头部CT或MRI检查，均需使用对比剂；进行脑脊液（CSF）分析以排除其他病因；若存在皮肤病变则进行活检，或必要时对脑组织进行活检以检查阿米巴原虫。
+向CDC咨询关于诊断测试和最佳治疗方案。
+向CDC咨询关于诊断测试和最佳治疗方案。
+治疗方案包括米替福新联合其他抗寄生虫药物（如喷他脒、大环内酯类、磺胺嘧啶、氟胞嘧啶或唑类药物）。
+治疗方案包括米替福新联合其他抗寄生虫药物（如喷他脒、大环内酯类、磺胺嘧啶、氟胞嘧啶或唑类药物）。

@@ -1,0 +1,88 @@
+标题：贲门失弛缓症
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/esophageal-and-swallowing-disorders/achalasia
+============================================================
+
+（参见食管与吞咽性疾病概述）
+失弛缓症可能源于食管肌间神经丛的神经节细胞缺失，导致食管肌肉失神经支配。去神经支配的原因不明，可能与病毒感染、自身免疫因素相关，部分肿瘤直接梗阻，或副肿瘤作用，可导致贲门失迟缓症。美洲椎虫病破坏自主神经节，也可引起贲门失弛缓症。
+食管下括约肌（LES）压力增高，可引起梗阻及继发性食管扩张。食道内未消化食物和液体潴留较常见。
+
+【贲门失弛缓症的症状和体征】
+贲门失弛缓可发生在任何年龄，但常于20～60岁起病。起病隐匿，于数月或数年内进展缓慢。主要症状为难以吞咽固体及流质食物。约33%患者存在未消化食物的夜间反流，可导致胸痛和肺吸入。胸痛少见，但吞咽时可出现或自发产生。
+患者可有轻至中度的体重下降；当体重明显减轻时，尤其是在吞咽困难症状迅速发展的老年患者中，应考虑胃食管交界处肿瘤继发的假性贲门失弛缓症。
+
+【贲门失弛缓症的诊断】
+食管测压
+食管测压
+有时吞钡
+有时吞钡
+有时行胃镜检查
+有时行胃镜检查
+有时需要功能性管腔成像探针 (FLIP)
+有时需要功能性管腔成像探针 (FLIP)
+(参见美国胃肠病学会2020 年《贲门失弛缓症诊断与管理实践指南》。)
+食管测压是贲门失弛缓症的首选诊断性检查。该检查显示LES不完全松弛，中位综合松弛压≥15，蠕动失败率100％。
+该图像显示贲门失弛缓症伴食管近端扩张和下食管括约肌松弛不完全。注意扩张食管内物质的不均匀表现，这是未进入胃的未消化食物所致（长箭头）。在严重的贲门失弛缓症中，只有少量造影剂能够通过喙状食管胃交界处（短箭头）。
+© Springer Science+Business Media
+吞钡是一项补充测试，通常在测试的初始阶段进行，此时吞咽困难的原因未知，因为测压更具侵入性。吞咽钡剂在吞咽过程中可能没有进行性蠕动收缩。食管通常明显扩张，但LES处因食管狭窄而呈鸟嘴状。
+经常进行食管镜检查。结果包括上游食管扩张和黏膜慢性淤滞变化，但没有阻塞性病变。当食管镜进入胃时，经常会感受到典型的“砰”的一声。
+阻抗平面测量可用时，可用于评估贲门失弛缓症，并可在测压无法诊断或患者无法耐受测压的情况下提供有用的诊断信息。指南推荐将其用于贲门失弛缓症的诊断与管理（1,2）。此外，在接受贲门失弛缓症干预（如手术、经口内镜下肌切开术）的患者中，测量干预期间及之后的食管胃结合部扩张性，可评估临床应答，并有助于指导治疗。
+功能性管腔成像探头 (FLIP) 是一种高分辨率阻抗系统，可评估横截面积和同时压力（扩张性）（3）。FLIP（内镜顺应性测定）有助于诊断贲门失弛缓症，也可辅助处理临床高度怀疑但测压未能确诊的疑似病例（4）。
+贲门失弛缓症须与消化性狭窄相鉴别，尤其应注意与系统性硬化症相鉴别，后者食管测压时也可见蠕动消失。因下食管括约肌静息压力低，系统性硬化症常伴有雷诺现象和胃食管反流病（GERD）的症状。
+与贲门失弛缓症（即假性贲门失弛缓症）相似的症状可能是由胃食管交界处的癌症引起的，可通过胸腹部CT或内镜超声活检诊断。
+
+【诊断参考】
+1.Gyawali CP, Carlson DA, Chen JW, et al: ACG clinical guidelines: Clinical use of esophageal physiologic testing.Am J Gastroenterol115(9):1412–1428, 2020.doi: 10.14309/ajg.0000000000000734
+1.Gyawali CP, Carlson DA, Chen JW, et al: ACG clinical guidelines: Clinical use of esophageal physiologic testing.Am J Gastroenterol115(9):1412–1428, 2020.doi: 10.14309/ajg.0000000000000734
+2.Hirano I, Pandolfino JE, Boeckxstaens GE: Functional lumen imaging probe for the management of esophageal disorders: Expert review from the clinical practice updates committee of the AGA Institute.Clin Gastroenterol Hepatol15(3):325–334, 2017.doi: 10.1016/j.cgh.2016.10.022
+2.Hirano I, Pandolfino JE, Boeckxstaens GE: Functional lumen imaging probe for the management of esophageal disorders: Expert review from the clinical practice updates committee of the AGA Institute.Clin Gastroenterol Hepatol15(3):325–334, 2017.doi: 10.1016/j.cgh.2016.10.022
+3.Carlson DA, Lin Z, Kahrilas PJ, et al: High-Resolution Impedance Manometry Metrics of the Esophagogastric Junction for the Assessment of Treatment Response in Achalasia.Am J Gastroenterol111(12):1702-1710, 2016.doi: 10.1038/ajg.2016.442
+3.Carlson DA, Lin Z, Kahrilas PJ, et al: High-Resolution Impedance Manometry Metrics of the Esophagogastric Junction for the Assessment of Treatment Response in Achalasia.Am J Gastroenterol111(12):1702-1710, 2016.doi: 10.1038/ajg.2016.442
+4.Vaezi MF, Pandolfino JE, Yadlapati RH, et al: ACG Clinical Guidelines: Diagnosis and Management of Achalasia.Am J Gastroenterol115(9):1393-1411, 2020.doi: 10.14309/ajg.0000000000000731
+4.Vaezi MF, Pandolfino JE, Yadlapati RH, et al: ACG Clinical Guidelines: Diagnosis and Management of Achalasia.Am J Gastroenterol115(9):1393-1411, 2020.doi: 10.14309/ajg.0000000000000731
+
+【治疗贲门失弛缓症】
+LES 的充气球囊扩张
+LES 的充气球囊扩张
+LES 的外科肌切开术
+LES 的外科肌切开术
+经口内镜下括约肌切开术
+经口内镜下括约肌切开术
+有时注射肉毒杆菌毒素
+有时注射肉毒杆菌毒素
+无治疗可恢复蠕动；贲门失弛缓治疗的目的是降低LES压力。
+具体治疗方法的选择取决于贲门失弛缓症亚型、手术风险和潜在的副作用。 LES球囊扩张与手术或经口内镜下贲门肌层切开术同样有效。 一项针对贲门失弛缓症患者的随机试验发现，在 5 年的随访中，充气球囊扩张术的疗效与腹腔镜 Heller 肌切开术相当（1）。对这些数据按贲门失弛缓症亚型进行的事后分析显示：Ⅱ 型贲门失弛缓症（吞咽时全食管压力升高）患者行气囊扩张术效果更好；Ⅲ 型贲门失弛缓症（痉挛型，吞咽常导致管腔闭塞性收缩）患者行 heller 肌切开术效果更好。两种手术对 I 型贲门失弛缓症（典型贲门失弛缓症；吞咽导致食管压力无变化）患者产生了相似的结果（1,2）。这些手术最令人担忧的并发症是食管穿孔。穿孔率因中心而异，气囊扩张术的穿孔率为0～14％，腹腔镜Heller肌层切开术的穿孔率为0～4.6％（3）。其他现有研究显示经口内镜下肌层切开术具有良好的短期和长期疗效（4）。然而，接受经口内镜下肌切开术的患者术后胃食管反流病的发生率高于接受 Heller 肌切开术的患者。
+对于不适合这些治疗方案的患者，可以尝试通过内镜直接将A型肉毒杆菌毒素注射到LES，以化学性阻断食管远端的胆碱能神经。第一个月内，70% 至 80% 的患者通常会出现临床改善（5）；效果会随着时间的推移而下降，但可能会持续 6 个月到 1 年以上。
+既往曾使用硝酸酯类或钙通道阻滞剂等药物，但未被证实有效。
+
+【治疗参考文献】
+1.Moonen A, Annese V, Belmans A, et al: Long-term results of the European achalasia trial: A multicentre randomised controlled trial comparing pneumatic dilation versus laparoscopic Heller myotomy.Gut65(5):732–739, 2016.doi: 10.1136/gutjnl-2015-310602
+1.Moonen A, Annese V, Belmans A, et al: Long-term results of the European achalasia trial: A multicentre randomised controlled trial comparing pneumatic dilation versus laparoscopic Heller myotomy.Gut65(5):732–739, 2016.doi: 10.1136/gutjnl-2015-310602
+2.Pandolfino JE, Kwiatek MA, Nealis T, et al: Achalasia: A new clinically relevant classification by high-resolution manometry.Gastroenterology135(5):1526–1533, 2008. doi: 10.1053/j.gastro.2008.07.022
+2.Pandolfino JE, Kwiatek MA, Nealis T, et al: Achalasia: A new clinically relevant classification by high-resolution manometry.Gastroenterology135(5):1526–1533, 2008. doi: 10.1053/j.gastro.2008.07.022
+3.Lynch KL, Pandolfino JE, Howden CW, et al: Major complications of pneumatic dilation and Heller myotomy for achalasia: Single-center experience and systematic review of the literature.Am J Gastroenterol107(12):1817–1825, 2012.doi: 10.1038/ajg.2012.332
+3.Lynch KL, Pandolfino JE, Howden CW, et al: Major complications of pneumatic dilation and Heller myotomy for achalasia: Single-center experience and systematic review of the literature.Am J Gastroenterol107(12):1817–1825, 2012.doi: 10.1038/ajg.2012.332
+4.Rentein DV, Fuchs K-H, Fockens P, et al: Peroral endoscopic myotomy for the treatment of achalasia: An international prospective multicenter study.Gastroenterology145(2):272–273, 2013.doi: 10.1053/j.gastro.2013.04.057
+4.Rentein DV, Fuchs K-H, Fockens P, et al: Peroral endoscopic myotomy for the treatment of achalasia: An international prospective multicenter study.Gastroenterology145(2):272–273, 2013.doi: 10.1053/j.gastro.2013.04.057
+5.Campos GM, Vittinghoff E, Rabl C, et al: Endoscopic and surgical treatments for achalasia: a systematic review and meta-analysis.Ann Surg249(1):45-57, 2009.doi: 10.1097/SLA.0b013e31818e43ab
+5.Campos GM, Vittinghoff E, Rabl C, et al: Endoscopic and surgical treatments for achalasia: a systematic review and meta-analysis.Ann Surg249(1):45-57, 2009.doi: 10.1097/SLA.0b013e31818e43ab
+
+【贲门失弛缓症的预后】
+食管扩张和迂曲是不良预后指标。  肺误吸是晚期并发症。 夜间反流和咳嗽提示误吸。继发于误吸的肺部并发症难以处理。
+目前认为贲门失弛缓症患者食管癌的发病率不会增加。
+食道肌间丛中神经节细胞的丢失（被认为是病毒或自身免疫诱导的）会减少食道蠕动并损害下食道括约肌 (LES) 的松弛性。
+食道肌间丛中神经节细胞的丢失（被认为是病毒或自身免疫诱导的）会减少食道蠕动并损害下食道括约肌 (LES) 的松弛性。
+患者逐渐出现固体和液体食物吞咽困难，约三分之一的患者存在夜间未消化食物反流。
+患者逐渐出现固体和液体食物吞咽困难，约三分之一的患者存在夜间未消化食物反流。
+食管测压法是贲门失弛缓症的首选检查方法，显示为综合松弛压力升高，伴食管100％蠕动失败。
+食管测压法是贲门失弛缓症的首选检查方法，显示为综合松弛压力升高，伴食管100％蠕动失败。
+钡餐检查提示吞咽时缺乏渐进式蠕动收缩，及LES处形成鸟嘴征的明显扩张的食管。
+钡餐检查提示吞咽时缺乏渐进式蠕动收缩，及LES处形成鸟嘴征的明显扩张的食管。
+无治疗可恢复蠕动；治疗的目的是降低LES压力（从而缓解梗阻）。
+无治疗可恢复蠕动；治疗的目的是降低LES压力（从而缓解梗阻）。
+经典的治疗为气囊扩张或LES肌层切开术;不适合接受这些治疗的患者可能会接受 A 型肉毒杆菌毒素注射。
+经典的治疗为气囊扩张或LES肌层切开术;不适合接受这些治疗的患者可能会接受 A 型肉毒杆菌毒素注射。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对此资源的内容不承担任何责任。
+American College of Gastroenterology:Practice guidelines on the diagnosis and management of achalasia(2020)
+American College of Gastroenterology:Practice guidelines on the diagnosis and management of achalasia(2020)

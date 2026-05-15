@@ -1,0 +1,66 @@
+标题：视网膜中央静脉阻塞和分支静脉阻塞
+来源：https://www.msdmanuals.cn/professional/eye-disorders/retinal-disorders/central-retinal-vein-occlusion-and-branch-retinal-vein-occlusion
+============================================================
+
+
+【视网膜静脉阻塞的病因】
+主要的危险因素包括
+其它危险因素包括
+血黏度增加
+血黏度增加
+阻塞也可以是特发性的。年轻人发生视网膜静脉阻塞不常见。阻塞可以累及视网膜中央静脉或者分支静脉。
+视网膜中央静脉阻塞后的数周至数月约16%的患者可能出现视网膜新生血管(1) （异常新的血管形成），或者虹膜新生血管（虹膜红变），可导致继发性（新生血管性）青光眼。视网膜新生血管可能导致玻璃体出血。
+
+【病因参考文献】
+1.The Central Vein Occlusion Study Group.Natural history and clinical management of central retinal vein occlusion.Arch Ophthalmol115(4):486-91, 1997.doi: 10.1001/archopht.1997.01100150488006.Erratum in:Arch Ophthalmol115(10):1275, 1997.PMID: 9109757
+1.The Central Vein Occlusion Study Group.Natural history and clinical management of central retinal vein occlusion.Arch Ophthalmol115(4):486-91, 1997.doi: 10.1001/archopht.1997.01100150488006.Erratum in:Arch Ophthalmol115(10):1275, 1997.PMID: 9109757
+
+【视网膜静脉阻塞的症状和体征】
+无痛性视力下降通常可以是突然性的，也可以是在数天至数周内逐渐发生。眼底镜检查显示全视网膜出血、视网膜静脉充盈（扩张）迂曲，常见明显的视网膜水肿。如果阻塞发生在中央视网膜静脉，这些病变典型地呈弥漫性的，如果仅视网膜中央静脉的分支受阻，则病变局限在受累的一个象限。
+在视网膜中央静脉阻塞中，视网膜静脉出现扩张和曲折。眼底可能出现充血和水肿。许多视网膜出血也是特征性的。
+Paul Whitten/SCIENCE PHOTO LIBRARY
+
+【视网膜静脉阻塞的诊断】
+眼底镜检查
+眼底镜检查
+彩色眼底照相
+彩色眼底照相
+荧光血管造影
+荧光血管造影
+光学相干断层扫描
+光学相干断层扫描
+出现无痛性视力下降，尤其是那些伴有高危因素的患者，应怀疑该诊断。眼底镜检查，必要时荧光素血管造影可确认诊断。光学相干断层扫描用于确定黄斑水肿的严重程度和评估治疗反应。患有视网膜中央静脉阻塞的患者需检查高血压、青光眼、糖尿病等疾病。年轻患者检查是否有血黏度升高（全血细胞计数和凝血因子检查认为必要）。
+
+【视网膜静脉阻塞的治疗】
+对黄斑水肿，眼内注射抗血管内皮生长因子（抗VEGF）药物，地塞米松植入物，和/或曲安奈德
+对黄斑水肿，眼内注射抗血管内皮生长因子（抗VEGF）药物，地塞米松植入物，和/或曲安奈德
+对某些视网膜分支静脉阻塞的黄斑水肿病例，采用局部激光光凝
+对某些视网膜分支静脉阻塞的黄斑水肿病例，采用局部激光光凝
+如出现新生血管应行全视网膜光凝
+如出现新生血管应行全视网膜光凝
+对涉及中央凹黄斑水肿的视网膜分支静脉阻塞患者，通常采用眼内注射抗-VEGF药物（例如，雷珠单抗，阿柏西普或者贝伐单抗），或曲安奈德或者缓释地塞米松植入物的眼内注射。这些治疗也可以用于治疗那些伴有黄斑水肿的视网膜中央静脉阻塞患者。采用这些治疗，50％患者视力显著改善 伴有视网膜分支静脉阻塞引起的黄斑水肿（1）。
+局部激光光凝可以用于视网膜分支静脉阻塞性黄斑水肿 (2)，但比抗VEGF药物或地塞米松植入物的眼内注射疗效差。局部激光光凝治疗由于视网膜中央静脉阻塞引起的黄斑水肿，通常无效。
+如果视网膜中央或分支静脉阻塞出现视网膜或眼前节继发新生血管，应该施行全视网膜光凝治疗，这样可以减少玻璃体出血和预防新生血管性青光眼。
+
+【治疗参考文献】
+1.Kim M, Lee DH, Byeon SH, et al: Comparison of intravitreal bevacizumab and dexamethasone implant for the treatment of macula oedema associated with branch retinal vein occlusion.Br J Ophthalmol99(9):1271-1276, 2015.doi: 10.1136/bjophthalmol-2014-306236
+1.Kim M, Lee DH, Byeon SH, et al: Comparison of intravitreal bevacizumab and dexamethasone implant for the treatment of macula oedema associated with branch retinal vein occlusion.Br J Ophthalmol99(9):1271-1276, 2015.doi: 10.1136/bjophthalmol-2014-306236
+2.The Branch Vein Occlusion Study Group: Argon laser photocoagulation for macular edema in branch vein occlusion.Am J Ophthalmol98(3):271-282, 1984.doi: 10.1016/0002-9394(84)90316-7
+2.The Branch Vein Occlusion Study Group: Argon laser photocoagulation for macular edema in branch vein occlusion.Am J Ophthalmol98(3):271-282, 1984.doi: 10.1016/0002-9394(84)90316-7
+
+【视网膜静脉阻塞的预后】
+大多数患者出现不同程度的视觉障碍。轻度病例，在一段时间内可以自发缓解至接近正常的视力。就诊时的视力是判断最终视力预后的良好指标。如果视力达到或超过20/40者则最终视力可能保持较好，偶尔可恢复接近正常。如果视力低于20/200，则80%的病例视力不能改善或者进一步恶化 (1)。视网膜中央静脉阻塞很少复发。
+
+【预后参考】
+1.La Spina C, De Benedetto U, Parodi MB, et al: Practical management of retinal vein occlusions.Ophthalmol Ther1(1):3, 2012.doi: 10.1007/s40123-012-0003-y
+1.La Spina C, De Benedetto U, Parodi MB, et al: Practical management of retinal vein occlusions.Ophthalmol Ther1(1):3, 2012.doi: 10.1007/s40123-012-0003-y
+视网膜静脉阻塞是由于血栓阻塞造成的。
+视网膜静脉阻塞是由于血栓阻塞造成的。
+患者有无痛性视力丧失，其典型表现是突发性，可有危险因素（如年老，高血压）。
+患者有无痛性视力丧失，其典型表现是突发性，可有危险因素（如年老，高血压）。
+眼底镜检查特征性表现为扩张的静脉出血和黄斑水肿；附加的检查包括彩色眼底照相，荧光血管造影和光学相干断层扫描。
+眼底镜检查特征性表现为扩张的静脉出血和黄斑水肿；附加的检查包括彩色眼底照相，荧光血管造影和光学相干断层扫描。
+有黄斑水肿的患者治疗采用眼内注射抗VEGF药物（雷珠单抗，阿柏西普，或者贝伐单抗），或地塞米松植入物或曲安奈德的眼内注射。
+有黄斑水肿的患者治疗采用眼内注射抗VEGF药物（雷珠单抗，阿柏西普，或者贝伐单抗），或地塞米松植入物或曲安奈德的眼内注射。
+局部激光光凝对于视网膜分支静脉阻塞继发黄斑水肿的某些病例有用，全视网膜光凝应该用于视网膜或眼前段新生血管形成的患者。
+局部激光光凝对于视网膜分支静脉阻塞继发黄斑水肿的某些病例有用，全视网膜光凝应该用于视网膜或眼前段新生血管形成的患者。

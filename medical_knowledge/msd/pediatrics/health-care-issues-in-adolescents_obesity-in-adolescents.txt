@@ -1,0 +1,54 @@
+标题：青少年肥胖
+来源：https://www.msdmanuals.cn/professional/pediatrics/health-care-issues-in-adolescents/obesity-in-adolescents
+============================================================
+
+肥胖在青少年中变得越来越普遍，美国大约五分之一的青少年患有肥胖症（1）。青春期的肥胖往往会持续到成年。
+虽然肥胖的并发症大多发生在成年期，但肥胖的青少年比同龄人更容易患高血压。由于与肥胖相关的胰岛素抵抗，2型糖尿病在青少年中的发生率逐渐增高。由于社会对肥胖的污名化，许多肥胖青少年遭受戏弄或欺凌，这可能导致他们越来越久坐不动，在社会上被孤立。
+（参见成人肥胖问题）
+
+【参考文献】
+1.Centers for Disease Control and Prevention (CDC): Childhood Obesity Facts.Accessed September 17, 2024.
+1.Centers for Disease Control and Prevention (CDC): Childhood Obesity Facts.Accessed September 17, 2024.
+
+【青少年肥胖的病因】
+许多环境因素与青少年肥胖有关，包括各种健康的社会决定因素、高血糖指数食物的普遍性、健康食物的获取途径不足、使用数字和电子媒体有关的久坐习惯以及睡眠障碍。遗传因素似乎发挥了重要作用，特定的基因多态性正在被研究。
+内分泌失调是肥胖的罕见原因，潜在的潜在疾病包括甲状腺功能减退症、假性甲状旁腺功能减退症、皮质醇过量和生长激素缺乏。由内分泌失调引起的青少年体重增加通常伴有其他潜在疾病的征兆。
+
+【青少年肥胖的诊断】
+病史和体格检查
+病史和体格检查
+体质指数（BMI）
+体质指数（BMI）
+如有指征，评估合并症或内分泌失调
+如有指征，评估合并症或内分泌失调
+临床定义包括（百分位数是与同年龄、同性别的儿童和青少年相比得出的）以下内容（1)：
+超重：BMI ≥ 第85 至 <第95 百分位数
+超重：BMI ≥ 第85 至 <第95 百分位数
+肥胖：BMI ≥ 第 95 百分位
+肥胖：BMI ≥ 第 95 百分位
+2级肥胖：体重指数≥第95百分位的120%至<140%或BMI≥35 kg/m2至<40 kg/m2（根据年龄和性别，以较低者为准）
+2级肥胖：体重指数≥第95百分位的120%至<140%或BMI≥35 kg/m2至<40 kg/m2（根据年龄和性别，以较低者为准）
+3级肥胖：体重指数≥ 第95百分位的140%或者BMI≥40kg/m2（根据年龄和性别，以较低者为准）
+3级肥胖：体重指数≥ 第95百分位的140%或者BMI≥40kg/m2（根据年龄和性别，以较低者为准）
+体重指数在临床护理中常被用作一种衡量标准；然而，这个数字可能会产生误导，因为它没有考虑到肌肉质量、骨密度、整体身体成分以及种族和性别差异。
+原发性内分泌（如皮质醇过多、甲状腺功能减退）或代谢原因不常见，但如果身高增长明显放缓，应排除。如果儿童身材矮小并有高血压，应考虑库欣综合征。
+如果有合并症（例如，糖尿病、高血压、血脂异常、阻塞性睡眠呼吸暂停、精神健康障碍) 被诊断或怀疑时，进行实验室评估、额外测试或转诊给专家。
+
+【诊断参考文献】
+1.Hampl SE, Hassink SG, Skinner AC, et al.Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity [published correction appears inPediatrics. 2024 Jan 1;153(1):e2023064612. doi:10.1542/peds.2023-064612].Pediatrics.2023;151(2):e2022060640.doi:10.1542/peds.2022-060640
+1.Hampl SE, Hassink SG, Skinner AC, et al.Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity [published correction appears inPediatrics. 2024 Jan 1;153(1):e2023064612. doi:10.1542/peds.2023-064612].Pediatrics.2023;151(2):e2022060640.doi:10.1542/peds.2022-060640
+
+【青少年肥胖的治疗】
+行为和生活方式干预
+行为和生活方式干预
+对于年龄≥12岁且BMI≥95百分位的青少年，可以考虑使用减肥药
+对于年龄≥12岁且BMI≥95百分位的青少年，可以考虑使用减肥药
+对于体重指数≥第95百分位120%的13岁及以上青少年，评估代谢和减肥手术
+对于体重指数≥第95百分位120%的13岁及以上青少年，评估代谢和减肥手术
+所有肥胖儿童和青少年都应该接受强化的健康和生活方式改变策略，以解决营养、体育活动和健康行为问题。
+≥12岁的肥胖青少年（BMI≥年龄和性别的第95百分位数）可以提供减肥药（1）。
+年龄≥13岁且为2级或3级肥胖（BMI≥年龄和性别第95百分位的120%或≥140%）的青少年，可被推荐进行代谢和减重手术评估（1）。
+
+【治疗参考文献】
+1.Hampl SE, Hassink SG, Skinner AC, et al.Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity [published correction appears inPediatrics. 2024 Jan 1;153(1):e2023064612. doi: 10.1542/peds.2023-064612].Pediatrics.2023;151(2):e2022060640.doi:10.1542/peds.2022-060640
+1.Hampl SE, Hassink SG, Skinner AC, et al.Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity [published correction appears inPediatrics. 2024 Jan 1;153(1):e2023064612. doi: 10.1542/peds.2023-064612].Pediatrics.2023;151(2):e2022060640.doi:10.1542/peds.2022-060640

@@ -1,0 +1,20 @@
+标题：骨髓发育不良和铁转运障碍性贫血
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/anemias-caused-by-deficient-erythropoiesis/myelodysplasia-and-iron-transport-deficiency-anemia
+============================================================
+
+
+【骨髓增生异常综合征的贫血】
+在骨髓增生异常综合征中，贫血常较显著。贫血常呈正细胞或大细胞性，循环中细胞可以是双相的（大细胞和小细胞）。部分骨髓增生异常综合征患者可能伴有获得性α地中海贫血(1)。(参见红细胞生成减少概述。)
+骨髓检查可见红系增生减低，且见巨幼变及发育不良，有时还可见环形铁粒幼细胞增多。
+直接对恶性病变进行治疗，也可使用生长因子。
+
+【铁转运障碍性贫血】
+铁转运缺乏性贫血（转铁蛋白血症）极为罕见。 当铁不能从储存部位（如粘膜细胞，肝脏）转移至红细胞生成前体时，就会发生这种情况。一种已知的类型是难治性缺铁性贫血（IRIDA），由跨膜丝氨酸蛋白酶6基因的种系突变所致，该基因编码一种调节铁调素产生的跨膜蛋白，而铁调素是一种参与铁吸收的蛋白质（2）。
+患者会出现伴转铁蛋白饱和度极低的小细胞性贫血，且对口服铁反应差。由于存在铁调素调节缺陷，故尽管铁缺乏但其水平仍会不恰当地升高。
+IRIDA的治疗通常使用静脉用铁制剂，尽管通常仅发生部分反应。也可以尝试延长口服铁和维生素C的疗程。
+
+【参考文献】
+1.Steensma DP, Gibbons RJ, Higgs DR.Acquired alpha-thalassemia in association with myelodysplastic syndrome and other hematologic malignancies.Blood.2005;105(2):443-452.doi:10.1182/blood-2004-07-2792
+1.Steensma DP, Gibbons RJ, Higgs DR.Acquired alpha-thalassemia in association with myelodysplastic syndrome and other hematologic malignancies.Blood.2005;105(2):443-452.doi:10.1182/blood-2004-07-2792
+2.Finberg KE, Heeney MM, Campagna DR, et al.Mutations in TMPRSS6 cause iron-refractory iron deficiency anemia (IRIDA).Nat Genet.2008;40(5):569-571.doi:10.1038/ng.130
+2.Finberg KE, Heeney MM, Campagna DR, et al.Mutations in TMPRSS6 cause iron-refractory iron deficiency anemia (IRIDA).Nat Genet.2008;40(5):569-571.doi:10.1038/ng.130

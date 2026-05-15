@@ -1,0 +1,55 @@
+标题：炎症性眼眶疾病
+来源：https://www.msdmanuals.cn/professional/eye-disorders/orbital-diseases/inflammatory-orbital-disease
+============================================================
+
+炎症性眼眶病，也称为眼眶假瘤，是一种可以影响眼眶内任何或所有结构的炎症。炎症反应可以为非特异性、肉芽肿性、或者血管炎性或反应性淋巴样增生。炎症可以是潜在疾病(如IgG4相关疾病或肉芽肿合并多血管炎)的部分表现，也可能单独存在。任何年龄的患者都有可能受累。疾病病程可为急性或者慢性，并可能有复发性。
+非感染性炎症性眼眶疾病最常见的病因是甲状腺眼病 (TED)，也称为 Graves 眼病。TED的发病机制尚不清楚，但可能是由针对眼眶成纤维细胞和脂肪上促甲状腺激素（TSH）受体的免疫球蛋白引起的，导致促炎细胞因子的释放、炎症和糖胺聚糖的积累。
+眼眶组织的炎症可由感染导致。
+非感染性、非炎症性眼眶疾病的其他原因包括肿瘤、血管畸形和创伤。
+在这张图像中，轴向和冠状 CT 扫描显示甲状腺眼病的发现结果。底部：轴向 CT 扫描显示双侧内直肌肌腱疏松扩大。上图：冠状 CT 扫描显示右下肢、上肢和内直肌的肿大程度高于左侧。
+Images courtesy of Richard C.Allen, MD, PhD.
+
+【炎症性眼眶疾病的症状和体征】
+眼眶炎性假瘤症状和体征典型地表现为突发的疼痛伴有眼睑的水肿和红斑。另外还可能有眼球突出、复视和视力下降。在反应性淋巴增生或IgG4相关眼眶疾病的病例，通常很少症状而不是眼球突出或肿胀。
+TED的眼病可能发生在甲状腺功能亢进症发作之前或最晚20年后，并且经常恶化或减轻，与甲状腺功能亢进的临床过程无关。在TED患者中，5%可能有甲状腺功能减退，一些患者在甲状腺功能正常的情况下表现出典型的眼病（"Euthyroid Graves病"）(1)。TED的症状和体征包括该病的特异性症状（即眼睑退缩），以及几乎所有眼眶炎症都有的非特异性症状（即突眼[突眼症]、复视、眼眶周围水肿、球后疼痛）。威胁视力的并发症很少，但可由于压迫性视神经病变或严重的暴露性角膜病引起 (1)。
+
+【症状和体征】
+1.Bartley GB: The epidemiologic characteristics and clinical course of ophthalmopathy associated with autoimmune thyroid disease in Olmsted County, Minnesota.Trans Am Ophthalmol Soc92:477-588, 1994.PMID: 7886878
+1.Bartley GB: The epidemiologic characteristics and clinical course of ophthalmopathy associated with autoimmune thyroid disease in Olmsted County, Minnesota.Trans Am Ophthalmol Soc92:477-588, 1994.PMID: 7886878
+
+【炎症性眼眶疾病的诊断】
+CT或者MRI
+CT或者MRI
+眼眶感染性疾病也可出现类似症状和查体结果，但是炎症性眼眶假瘤没有外伤史或者邻近部位的感染灶（如鼻窦炎）。需要进行CT或者MRI神经影像检查。区分感染与非感染性炎症的一个有用的影像特征是眼眶感染中是否存在邻近鼻窦受累。慢性或者复发性病例，可能需要活检术以明确原发病因。在甲状腺眼病中，下直肌和内直肌的肌腱疏松性增大很常见。
+
+【炎症性眼眶疾病的治疗】
+皮质类固醇，放射疗法和/或免疫调节药物
+皮质类固醇，放射疗法和/或免疫调节药物
+一些手术
+一些手术
+眼眶炎性假瘤的治疗取决于炎症反应的类型，可能包括口服皮质类固醇激素、放疗和几种免疫调节药物之一。在炎性眼眶假瘤难治性病例，特别是肉芽肿性炎症，如果炎症主要是血管炎，使用抗肿瘤坏死因子（TNF）-α单克隆抗体或使用利妥昔单抗进行淋巴细胞清除（1, 2）已获得一些初步成功。
+Graves病患者的眼病治疗可能需要硒、皮质类固醇、眼眶放疗，有时还需要手术 (3, 4)。特普罗单抗是一种胰岛素样生长因子 1 (IGF-1) 受体抑制剂，是治疗中重度眼病的有效药物（5)。伴随性甲状腺功能亢进的治疗包括硫代酰胺药物、放射性碘或手术。然而，放射性碘治疗可能会加速眼病的进展 (6)，因此在活动期是禁忌的，这通常由临床活动评分所示的临床体征和症状决定 (6)。严重甲状腺眼病可能需要手术减压。甲状腺手术切除可能有助于解决或防止眼病进展 (7)。
+
+【治疗参考文献】
+1.Baslund B, Wiencke AK, Rasmussen N, et al: Treatment of orbital inflammation with rituximab in Wegener's granulomatosis.Clin Exp Rheumatol30(1 Suppl 70):S7-10, 2012.PMID: 22272561
+1.Baslund B, Wiencke AK, Rasmussen N, et al: Treatment of orbital inflammation with rituximab in Wegener's granulomatosis.Clin Exp Rheumatol30(1 Suppl 70):S7-10, 2012.PMID: 22272561
+2.Garrity JA, Coleman AW, Matteson EL, et al: Treatment of recalcitrant idiopathic orbital inflammation (chronic orbital myositis) with infliximab.Am J Ophthalmol138(6):925-930, 2004.doi: 10.1016/j.ajo.2004.06.077
+2.Garrity JA, Coleman AW, Matteson EL, et al: Treatment of recalcitrant idiopathic orbital inflammation (chronic orbital myositis) with infliximab.Am J Ophthalmol138(6):925-930, 2004.doi: 10.1016/j.ajo.2004.06.077
+3.Hoang TD, Stocker DJ, Chou EL, et al: 2022 Update on clinical management of Graves disease and thyroid eye disease.Endocrinol Metab Clin North Am51(2):287-304, 2022.doi: 10.1016/j.ecl.2021.12.004
+3.Hoang TD, Stocker DJ, Chou EL, et al: 2022 Update on clinical management of Graves disease and thyroid eye disease.Endocrinol Metab Clin North Am51(2):287-304, 2022.doi: 10.1016/j.ecl.2021.12.004
+4.Bartalena L, Kahaly GJ, Baldeschi L, et al; EUGOGO†: The 2021 European Group on Graves' orbitopathy (EUGOGO) clinical practice guidelines for the medical management of Graves' orbitopathy.Eur J Endocrinol185(4):G43-G67, 2021.doi: 10.1530/EJE-21-0479
+4.Bartalena L, Kahaly GJ, Baldeschi L, et al; EUGOGO†: The 2021 European Group on Graves' orbitopathy (EUGOGO) clinical practice guidelines for the medical management of Graves' orbitopathy.Eur J Endocrinol185(4):G43-G67, 2021.doi: 10.1530/EJE-21-0479
+5.Smith TJ, Kahaly GJ, Ezra DG, et al: Teprotumumab for thyroid-associated ophthalmopathy.N Engl J Med376:1748-1761, 2017.doi: 10.1056/NEJMoa1614949
+5.Smith TJ, Kahaly GJ, Ezra DG, et al: Teprotumumab for thyroid-associated ophthalmopathy.N Engl J Med376:1748-1761, 2017.doi: 10.1056/NEJMoa1614949
+6.Bartalena L, Marcocci C, Bogazzi F, et al: Relation between therapy for hyperthyroidism and the course of Graves' ophthalmopathy.N Engl J Med338(2):73-78, 1998.doi: 10.1056/NEJM199801083380201
+6.Bartalena L, Marcocci C, Bogazzi F, et al: Relation between therapy for hyperthyroidism and the course of Graves' ophthalmopathy.N Engl J Med338(2):73-78, 1998.doi: 10.1056/NEJM199801083380201
+7.Stein JD, Childers D, Gupta S, et al: Risk factors for developing thyroid-associated ophthalmopathy among individuals with Graves disease.JAMA Ophthalmol133(3):290-296, 2015.doi: 10.1001/jamaophthalmol.2014.5103
+7.Stein JD, Childers D, Gupta S, et al: Risk factors for developing thyroid-associated ophthalmopathy among individuals with Graves disease.JAMA Ophthalmol133(3):290-296, 2015.doi: 10.1001/jamaophthalmol.2014.5103
+如果患者突然出现疼痛、眼睑肿胀和红斑，则考虑患有炎性眼眶疾病。
+如果患者突然出现疼痛、眼睑肿胀和红斑，则考虑患有炎性眼眶疾病。
+如果炎症性眼眶疾病没有明显原因，则考虑甲状腺眼病。
+如果炎症性眼眶疾病没有明显原因，则考虑甲状腺眼病。
+Obtain MRI or CT.
+Obtain MRI or CT.
+治疗可能包括皮质类固醇、放射疗法、免疫调节药物或其他措施。
+治疗可能包括皮质类固醇、放射疗法、免疫调节药物或其他措施。

@@ -1,0 +1,253 @@
+标题：儿童和青少年精神分裂症
+来源：https://www.msdmanuals.cn/professional/pediatrics/psychiatric-disorders-in-children-and-adolescents/schizophrenia-in-children-and-adolescents
+============================================================
+
+（参见成人精神分裂症。）
+精神分裂症是一种心理健康障碍，其特征为一系列可显著损害功能与发育的症状。它通常表现为幻觉、妄想、思维紊乱及情绪障碍，可能导致社交互动、学业表现和日常活动方面的困难。儿童期精神分裂症较为罕见。儿童期发病精神分裂症（COS）（即13岁前出现精神病发作）估计在美国儿童中的发生率低于0.04%（1）。其发病通常从青少年中期至35岁左右，高峰期在20多岁。
+早发性精神分裂症（18岁前发病）在青少年和年轻成人中具有相似特征。
+在一项前瞻性出生队列研究中发现，黑人群体的精神分裂症患病率较白人群体高出约三倍（2），这种差异部分可能归因于少数族裔群体中不良的健康社会决定因素。西班牙裔青少年的报告趋势与黑人青少年的报告趋势相似（3）。儿童尤其易受环境压力源对发育中大脑和身体的影响；然而，大脑的可塑性使得及时干预能够有效（见Adverse Childhood Experiences [ACEs] Screening Tools（不良童年经历筛查工具））。
+最近的研究表明，使用含四氢大麻酚（THC）的大麻制品的青少年罹患某些精神障碍（即,双相情感障碍和精神分裂症）的风险增加 (THC;3)。这种风险的增加不能用遗传因素来解释。令人担忧的是，大麻的合法化可能使青少年（及其父母）对这种常见非法药物的安全性产生一种错误的安全感。
+有数份报告指出，青少年在感染COVID-19后出现精神病症状（4、5），同时未感染COVID的青少年因精神病入住精神科病房的比例也有所上升（6）。
+
+【参考文献】
+1.Driver D, Thomas S, Gogtay N, et al.Childhood-onset schizophrenia and early-onset schizophrenia spectrum disorders: An update.Child Adolesc Psychiatric Clinic N Am29(1):71-90, 2020.doi: 10.1016/j.chc.2019.08.017
+1.Driver D, Thomas S, Gogtay N, et al.Childhood-onset schizophrenia and early-onset schizophrenia spectrum disorders: An update.Child Adolesc Psychiatric Clinic N Am29(1):71-90, 2020.doi: 10.1016/j.chc.2019.08.017
+2.Bresnahan M, Begg MD, Brown A, et al.Race and risk of schizophrenia in a US birth cohort: another example of health disparity?. Int J Epidemiol.2007;36(4):751-758.doi:10.1093/ije/dym041
+2.Bresnahan M, Begg MD, Brown A, et al.Race and risk of schizophrenia in a US birth cohort: another example of health disparity?. Int J Epidemiol.2007;36(4):751-758.doi:10.1093/ije/dym041
+3.Elia J, Pajer K, Prasad R, et al.Electronic health records identify timely trends in childhood mental health conditions.Child Adolesc Psychiatry Ment Health.2023;17(1):107.Published 2023 Sep 14.doi:10.1186/s13034-023-00650-7
+3.Elia J, Pajer K, Prasad R, et al.Electronic health records identify timely trends in childhood mental health conditions.Child Adolesc Psychiatry Ment Health.2023;17(1):107.Published 2023 Sep 14.doi:10.1186/s13034-023-00650-7
+4.Di Forti M, Quattrone D, Freeman TP, et al.The contribution of cannabis use to variation in the incidence of psychotic disorder across Europe (EU-GEI): A multicentre case-control study.Lancet.6:427-436, 2019.http://dx.doi.org/10.1016/S2215-0366(19)30048
+4.Di Forti M, Quattrone D, Freeman TP, et al.The contribution of cannabis use to variation in the incidence of psychotic disorder across Europe (EU-GEI): A multicentre case-control study.Lancet.6:427-436, 2019.http://dx.doi.org/10.1016/S2215-0366(19)30048
+5.Meeder R, Adhikari S Sierra-Cintron, et al.New-onset mania and psychosis in adolescents in the context of COVID-19 infection.Cureus.14(4): e24322, 2022.
+5.Meeder R, Adhikari S Sierra-Cintron, et al.New-onset mania and psychosis in adolescents in the context of COVID-19 infection.Cureus.14(4): e24322, 2022.
+6.Taquet M , Sillett, Zhu L, et al.Neurological and psychiatric risk trajectories after SARS-CoV-2 infection: An analysis of 2-year retrospective cohort studies including 1,284,437 patients.Lancet Psychiatry.9:815-827, 2022. doi: 10.1016/S2215-0366(22)00260-7
+6.Taquet M , Sillett, Zhu L, et al.Neurological and psychiatric risk trajectories after SARS-CoV-2 infection: An analysis of 2-year retrospective cohort studies including 1,284,437 patients.Lancet Psychiatry.9:815-827, 2022. doi: 10.1016/S2215-0366(22)00260-7
+7.Deren B, Matheson K, Cloutier P.Rate of adolescent inpatient admission for psychosis during the COVID-19 pandemic: A retrospective chart review.Early Interv Psychiatry.10.1111/eip.13316, 2022.doi: 10.1111/eip.13316
+7.Deren B, Matheson K, Cloutier P.Rate of adolescent inpatient admission for psychosis during the COVID-19 pandemic: A retrospective chart review.Early Interv Psychiatry.10.1111/eip.13316, 2022.doi: 10.1111/eip.13316
+
+【精神分裂症的病因】
+尽管首次发作通常见于年轻成人，但某些促成神经发育的事件和经历更早发生（例如在产前、围产期及幼儿期）。
+这些早期发育风险因素包括以下内容（1）：
+神经发育异常（嗅觉能力受损、轻微身体异常、产科并发症、病前智力低下、冬季/春季出生）
+神经发育异常（嗅觉能力受损、轻微身体异常、产科并发症、病前智力低下、冬季/春季出生）
+母体感染（Toxoplasma gondii（弓形虫））
+母体感染（Toxoplasma gondii（弓形虫））
+心理社会压力源（童年逆境、移民身份、应激性生活事件）
+心理社会压力源（童年逆境、移民身份、应激性生活事件）
+接触某些药物或物质（例如，大麻）
+接触某些药物或物质（例如，大麻）
+童年表现出社交退缩、快感缺失的特质
+童年表现出社交退缩、快感缺失的特质
+种族/民族（黑人种族，居住在城市地区的少数民族；相关因素包括贫困，高人口密度，社会分裂和环境污染）
+种族/民族（黑人种族，居住在城市地区的少数民族；相关因素包括贫困，高人口密度，社会分裂和环境污染）
+儿童脑损伤
+儿童脑损伤
+幼儿突发性精神病应始终视为医疗急症，并需进行全面评估以确定精神状态改变是否存在生理性病因。这些原因包括以下各项（2）：
+治疗药物（例如，兴奋剂、糖皮质激素、抗胆碱能药物）
+治疗药物（例如，兴奋剂、糖皮质激素、抗胆碱能药物）
+非法药物（例如，大麻）
+非法药物（例如，大麻）
+中枢神经系统 (CNS) 疾病，包括感染（病毒、细菌、寄生虫）、肿瘤、脱髓鞘疾病、损伤、癫痫发作或偏头痛
+中枢神经系统 (CNS) 疾病，包括感染（病毒、细菌、寄生虫）、肿瘤、脱髓鞘疾病、损伤、癫痫发作或偏头痛
+自身免疫性疾病（例如抗 NMDA [N-甲基-D-天门冬氨酸]受体脑炎[3]、SLE）
+自身免疫性疾病（例如抗 NMDA [N-甲基-D-天门冬氨酸]受体脑炎[3]、SLE）
+内分泌疾病（例如，甲状腺功能亢进、低皮质醇血症）
+内分泌疾病（例如，甲状腺功能亢进、低皮质醇血症）
+睡眠障碍
+睡眠障碍
+代谢紊乱（卟啉症、威尔逊病、GM2神经节苷脂沉积症）
+代谢紊乱（卟啉症、威尔逊病、GM2神经节苷脂沉积症）
+线粒体病
+线粒体病
+溶酶体贮积病
+溶酶体贮积病
+营养缺乏（镁和维生素 A、D、B1、B3、B12）
+营养缺乏（镁和维生素 A、D、B1、B3、B12）
+染色体异常 (4-7)
+染色体异常 (4-7)
+
+【病因参考文献】
+1.Oliver D, Chesney E, Cullen AE, et al.Exploring causal mechanisms of psychosis risk.Neurosci Biobehav Rev.2024;162:105699.doi:10.1016/j.neubiorev.2024.105699
+1.Oliver D, Chesney E, Cullen AE, et al.Exploring causal mechanisms of psychosis risk.Neurosci Biobehav Rev.2024;162:105699.doi:10.1016/j.neubiorev.2024.105699
+2.Skikic M, Arriola JA: First episode psychosis medical workup: Evidence-informed recommendations and introduction to a clinically guided approach.29(1):15-28, 2020.Child Adolesc Psychiatr Clin N Am. doi: 10.1016/j.chc.2019.08.010
+2.Skikic M, Arriola JA: First episode psychosis medical workup: Evidence-informed recommendations and introduction to a clinically guided approach.29(1):15-28, 2020.Child Adolesc Psychiatr Clin N Am. doi: 10.1016/j.chc.2019.08.010
+3.Dalmau J, Lancaster EL, Martinez-Hernandez E, et al.Clinical experience and laboratory investigations in patients with anti-NMDAR encephalitis.Lancet Neurol10(1):63-74, 2011.doi: 10.1016/S1474-4422(10)70253-2
+3.Dalmau J, Lancaster EL, Martinez-Hernandez E, et al.Clinical experience and laboratory investigations in patients with anti-NMDAR encephalitis.Lancet Neurol10(1):63-74, 2011.doi: 10.1016/S1474-4422(10)70253-2
+4.Marshall CR, Howrigan DP, Merico D, et al.Contribution of copy number variants to schizophrenia from a genome-wide study of 41,321 subjects [published correction appears in Nat Genet. 2017 Mar 30;49(4):651. doi: 10.1038/ng0417-651d.] [published correction appears inNat Genet.2017 Sep 27;49(10):1558. doi: 10.1038/ng1017-1558d.].Nat Genet.2017;49(1):27-35.doi:10.1038/ng.3725
+4.Marshall CR, Howrigan DP, Merico D, et al.Contribution of copy number variants to schizophrenia from a genome-wide study of 41,321 subjects [published correction appears in Nat Genet. 2017 Mar 30;49(4):651. doi: 10.1038/ng0417-651d.] [published correction appears inNat Genet.2017 Sep 27;49(10):1558. doi: 10.1038/ng1017-1558d.].Nat Genet.2017;49(1):27-35.doi:10.1038/ng.3725
+5.Rees E, Kirov G, Sanders A, et al.Evidence that duplications of 22q11.2 protect against schizophrenia.Mol Psychiatry.2014;19(1):37-40.doi:10.1038/mp.2013.156
+5.Rees E, Kirov G, Sanders A, et al.Evidence that duplications of 22q11.2 protect against schizophrenia.Mol Psychiatry.2014;19(1):37-40.doi:10.1038/mp.2013.156
+6.Li Z, Chen J, Xu Y, et al.Genome-wide Analysis of the Role of Copy Number Variation in Schizophrenia Risk in Chinese.Biol Psychiatry.2016;80(4):331-337.doi:10.1016/j.biopsych.2015.11.012
+6.Li Z, Chen J, Xu Y, et al.Genome-wide Analysis of the Role of Copy Number Variation in Schizophrenia Risk in Chinese.Biol Psychiatry.2016;80(4):331-337.doi:10.1016/j.biopsych.2015.11.012
+7.Owen MJ, Legge SE, Rees E, Walters JTR, O'Donovan MC.Genomic findings in schizophrenia and their implications.Mol Psychiatry.2023;28(9):3638-3647.doi:10.1038/s41380-023-02293-8
+7.Owen MJ, Legge SE, Rees E, Walters JTR, O'Donovan MC.Genomic findings in schizophrenia and their implications.Mol Psychiatry.2023;28(9):3638-3647.doi:10.1038/s41380-023-02293-8
+
+【精神分裂症的发病机制】
+精神分裂症的“多重打击模型”认为，该疾病源于多种遗传、环境及发育危险因素在神经发育关键时期的累积与交互作用，这些因素共同超过了疾病表达阈值，最终导致精神分裂症的临床综合征表现（1）。基因学研究表明，多种精神障碍及神经发育障碍共享风险等位基因，其中精神分裂症与儿童期起病的神经发育障碍、自闭症谱系障碍及注意缺陷/多动障碍（ADHD）的重叠最为显著（2）。虽然精神分裂症具有高遗传性，但它也与较低的繁殖力有关；这种负选择可能是由去新生突变或未知机制引起的（3）。
+其他发生较晚的危险因素（例如，青春期早期背外侧额叶皮层和海马体的突触修剪不成比例）可能导致精神病的出现，特别是在青年时期。这些风险因素（4, 5）可能在急性压力和物质使用等风险因素存在的情况下引发精神分裂症的发作，这些风险因素在发病机制中较早出现。在死后的大脑研究中，与对照组相比，精神分裂症和双相情感障碍患者有更少的神经元突触和更多的线粒体拷贝缺失（6）。
+
+【发病机制参考】
+1.McCutcheon RA, Reis Marques T, Howes OD.Schizophrenia-An Overview.JAMA Psychiatry.2020;77(2):201-210.doi:10.1001/jamapsychiatry.2019.3360
+1.McCutcheon RA, Reis Marques T, Howes OD.Schizophrenia-An Overview.JAMA Psychiatry.2020;77(2):201-210.doi:10.1001/jamapsychiatry.2019.3360
+2.Owen MJ, Legge SE, Rees E, Walters JTR, O'Donovan MC.Genomic findings in schizophrenia and their implications.Mol Psychiatry.2023;28(9):3638-3647.doi:10.1038/s41380-023-02293-8
+2.Owen MJ, Legge SE, Rees E, Walters JTR, O'Donovan MC.Genomic findings in schizophrenia and their implications.Mol Psychiatry.2023;28(9):3638-3647.doi:10.1038/s41380-023-02293-8
+3.Power RA, Kyaga S, Uher R, et al.Fecundity of patients with schizophrenia, autism, bipolar disorder, depression, anorexia nervosa, or substance abuse vs their unaffected siblings.JAMA Psychiatry.2013;70(1):22-30.doi:10.1001/jamapsychiatry.2013.268
+3.Power RA, Kyaga S, Uher R, et al.Fecundity of patients with schizophrenia, autism, bipolar disorder, depression, anorexia nervosa, or substance abuse vs their unaffected siblings.JAMA Psychiatry.2013;70(1):22-30.doi:10.1001/jamapsychiatry.2013.268
+4.de Bartolomeis A, Latte G, Tomasetti C, Iasevoli F.Glutamatergic postsynaptic density protein dysfunctions in synaptic plasticity and dendritic spines morphology: relevance to schizophrenia and other behavioral disorders pathophysiology, and implications for novel therapeutic approaches.Mol Neurobiol.2014;49(1):4844.-511.doi:10.1007/s12035-013-8534-3
+4.de Bartolomeis A, Latte G, Tomasetti C, Iasevoli F.Glutamatergic postsynaptic density protein dysfunctions in synaptic plasticity and dendritic spines morphology: relevance to schizophrenia and other behavioral disorders pathophysiology, and implications for novel therapeutic approaches.Mol Neurobiol.2014;49(1):4844.-511.doi:10.1007/s12035-013-8534-3
+5.Alcaide J, Guirado R, Crespo C, et al.Alterations of perineuronal nets in the dorsolateral prefrontal cortex of neuropsychiatric patients.Int J Bipolar Disord.2019;7(1):24.Published 2019 Nov 15.doi:10.1186/s40345-019-0161-0
+5.Alcaide J, Guirado R, Crespo C, et al.Alterations of perineuronal nets in the dorsolateral prefrontal cortex of neuropsychiatric patients.Int J Bipolar Disord.2019;7(1):24.Published 2019 Nov 15.doi:10.1186/s40345-019-0161-0
+6.Das SC, Hjelm BE, Rollins BL, et al.Mitochondria DNA copy number, mitochondria DNA total somatic deletions, Complex I activity, synapse number, and synaptic mitochondria number are altered in schizophrenia and bipolar disorder.Transl Psychiatry. 2022;12(1):353.Published 2022 Aug 30.doi:10.1038/s41398-022-02127-1
+6.Das SC, Hjelm BE, Rollins BL, et al.Mitochondria DNA copy number, mitochondria DNA total somatic deletions, Complex I activity, synapse number, and synaptic mitochondria number are altered in schizophrenia and bipolar disorder.Transl Psychiatry. 2022;12(1):353.Published 2022 Aug 30.doi:10.1038/s41398-022-02127-1
+
+【精神分裂症的症状和体征】
+儿童期发作的精神分裂症（也称为早发性精神分裂症）通常比以后发生的精神分裂症症状更严重。幻觉比妄想更为常见。这些通常是听觉性的，伴有视觉和触觉上的幻觉。儿童早发型精神分裂症的表现通常与青少年和成人相似，但妄想和视幻觉（在儿童中可能更常见）可能较为简单。
+其他特征也有助于区分儿童早发型精神分裂症和青少年/年轻成人形式 (1):
+更严重的症状
+更严重的症状
+遗传异常，发育异常（例如，普遍性发育障碍，智力残疾）和运动异常的发生率增加
+遗传异常，发育异常（例如，普遍性发育障碍，智力残疾）和运动异常的发生率增加
+疾病前社会困难的普遍性增加
+疾病前社会困难的普遍性增加
+起病隐匿
+起病隐匿
+认知功能衰退或下降
+认知功能衰退或下降
+神经解剖学改变（皮质灰质体积进行性减少，脑室体积增加）
+神经解剖学改变（皮质灰质体积进行性减少，脑室体积增加）
+自杀未遂
+自杀未遂
+
+【症状和体征】
+1.Driver D, Thomas S, Gogtay N, et al.Childhood-onset schizophrenia and early-onset schizophrenia spectrum disorders: An update.Child Adolesc Psychiatric Clinic N Am.29(1):71-90, 2020.doi: 10.1016/j.chc.2019.08.017
+1.Driver D, Thomas S, Gogtay N, et al.Childhood-onset schizophrenia and early-onset schizophrenia spectrum disorders: An update.Child Adolesc Psychiatric Clinic N Am.29(1):71-90, 2020.doi: 10.1016/j.chc.2019.08.017
+
+【精神分裂症的诊断】
+精神评估
+精神评估
+精神障碍诊断与统计手册, 第5版，文本修订（DSM-5-TR）标准
+精神障碍诊断与统计手册, 第5版，文本修订（DSM-5-TR）标准
+早发性精神分裂症，尤其是极早发性精神分裂症，在儿童群体中属于罕见诊断。
+根据《精神障碍诊断与统计手册》第五版修订本（DSM-5-TR）（1），儿童与青少年精神分裂症的诊断需同时满足以下全部标准：
+特征性症状： ≥ 2 个特征性症状（妄想、幻觉、言语混乱、行为混乱、阴性症状）至少持续 1 个月（症状必须至少包括以下其中 1 个：妄想、幻觉或言语混乱）
+特征性症状： ≥ 2 个特征性症状（妄想、幻觉、言语混乱、行为混乱、阴性症状）至少持续 1 个月（症状必须至少包括以下其中 1 个：妄想、幻觉或言语混乱）
+社交/职业功能障碍：自我照料、社交或职业功能较病前显著下降（或未能达到预期功能水平）。
+社交/职业功能障碍：自我照料、社交或职业功能较病前显著下降（或未能达到预期功能水平）。
+病程：症状持续至少6个月。
+病程：症状持续至少6个月。
+用于成人的诊断标准同样适用于儿童，但评估也必须排除其他精神疾病（如分裂情感性障碍、伴有精神病的情绪障碍）、发育和（器质性）医疗状况。由于一开始就有误诊的可能，因此与儿童和家庭进行结构化访谈、回顾既往医疗记录和纵向随访是诊断的重要组成部分。
+
+【诊断参考文献】
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), Washington: American Psychiatric Association, 2022.
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), Washington: American Psychiatric Association, 2022.
+
+【精神分裂症的治疗】
+多模式护理
+多模式护理
+药物治疗
+药物治疗
+儿童及青少年精神分裂症的治疗通常需要多模式综合干预，包括提供支持性环境、结构化个体化教育方案、认知功能矫正治疗、社会技能训练（如个体复原力训练、支持性教育与就业计划）及药物治疗（1）。这种方法的基本原理是优化精神和身体健康结果，最大限度地减少不良影响，并通过综合护理支持康复。当存在危及自身或他人的行为时，日间治疗项目或住院治疗可能适用。物质滥用治疗项目对于有物质使用症状的个人至关重要。强烈建议转诊至儿童和青少年精神科医师处。
+儿童与青少年精神分裂症的药物治疗核心在于抗精神病药物的应用（2）。第二代抗精神病药被视为一线选择。这些药物包括阿立哌唑、鲁拉西酮、奥氮平、帕利哌酮、喹硫平和利培酮，均建议用于13岁及以上年龄的患者（3）。药物选择应根据不良反应特征、患者及家属偏好以及实际考量（如费用、可获得性）进行个体化决策。给药通常遵循缓慢递增原则，并严密监控不良反应。抗精神病药物有可能导致体重增加和代谢综合征；因此，营养咨询和监测体重、BMI、血脂和糖化血红蛋白是很重要的。也建议对异常运动进行监测（AIMS量表）（参见美国儿童青少年精神病学会表单工具箱中的异常不自主运动量表）。
+电休克疗法（ECT）是一种有效的治疗方法；然而，只有有限的研究表明其在儿童和青少年中的安全性和有效性(4)。参见表双相障碍与精神分裂症常用药物。
+
+【双相障碍与精神分裂症精选药物*†】
+双相障碍与精神分裂症精选药物*†
+药物治疗
+CYP底物
+锂缓释剂用于儿童≥12岁‡
+急性和维持期
+逐渐增加剂量到血药浓度0.8～1.2mEq/L (或 mmol/L)
+与降低儿童双相情感障碍患者的自杀风险、减轻抑郁症状及改善社会心理功能相关
+监测肾功能、甲状腺功能及血清钙水平
+锂剂，儿童速释剂型≥7岁‡,§
+急性和维持期
+逐渐增加剂量到血药浓度0.8～1.2mEq/L (或 mmol/L)
+每日最大剂量为40 mg/kg
+与降低儿童双相情感障碍患者的自杀倾向、减轻抑郁症状及改善社会心理功能相关
+监测肾功能、甲状腺功能及血清钙水平
+抗精神病药
+阿立哌唑用于儿童（双相I型障碍≥10岁以上；精神分裂症≥13岁以上）‡。
+精神分裂症
+2D6, 3A4
+唯一不致催乳素水平升高的抗精神病药物
+儿童≥10岁适用阿塞那平
+双相 I
+舌下给药可使药物迅速进入体循环
+镇静与嗜睡，短暂的舌部麻木和刺痛感
+鲁拉西酮用于儿童（双相I型障碍≥10岁以上；精神分裂症≥13岁以上）。
+双相 I
+精神分裂症
+成人及10-17岁人群中，CRP水平升高者其双相I型抑郁症状改善更为明显¶
+奥氮平用于年龄≥13岁的儿童‡
+双相 I
+精神分裂症
+IA2, 2D6, 3A4
+对某些患者，体重增加可能是一种限制的副作用
+可能导致肝转氨酶升高
+年龄>10岁的儿童， 奥氮平/氟西汀结合‡,§
+双相 I
+IA2, 2D6, 3A4
+有限的儿童用药经验
+帕潘立酮用于≥12岁儿童‡,§
+精神分裂症
+经肾脏以原形清除 2D6, 3A4
+与利培酮密切相关
+非常有限的儿童用药经验
+富马酸喹硫平，速释剂型，用于儿童（治疗双相I型障碍≥10岁起；治疗精神分裂症≥13岁起）‡
+精神分裂症
+镇静状态可能限制了剂量的增加
+利培酮在儿童中的使用（用于双相I型障碍≥10岁；用于精神分裂症≥13岁）‡
+精神分裂症
+与不可逆性男性乳房发育症风险相关
+维持剂量存在显著差异性
+已经研究了高达6 mg/d的剂量，但是它们没有提供额外的获益，反而增加了神经系统不良反应的风险
+齐拉西酮用于年龄≥10岁的儿童‡
+急性躁狂
+非常有限的儿童用药经验
+QTc间期延长
+抗癫痫药
+卡马西平
+由于代谢酶诱导，可能需要调整剂量
+可能导致史蒂文斯-约翰逊综合征及中毒性表皮坏死松解症（SJS/TEN），尤其在携带HLA-B*15:02基因型的患者中（东亚人群更常见）；同时可能引发斑丘疹（MPE）、伴嗜酸性粒细胞增多的药疹（DRESS）及SJS/TEN，多见于携带HLA-A*31:01基因型的患者（欧洲及西班牙裔人群更常见）
+双丙戊酸钠
+双相 I
+逐渐增加剂量到血药浓度50～125mcg/mL
+避免在育龄人群中使用
+拉莫三嗪
+应严格按包装里的剂量指南用药
+*这些药物虽然剂量小，但存在各种严重不良反应的风险。因此，必须仔细评估治疗价值和潜在的危险。
+†此表不能替代完整的处方信息。
+‡这些药物会增加体重、对血脂产生负面影响、升高血糖和催乳素水平，以及延长QT间期的风险。
+§这些药物尚未在儿童中进行研究。
+双相情感障碍I是双相情感障碍的一种表现，其特征总是躁狂症，有时也可能伴有抑郁。
+CRP=C反应蛋白；CYP=细胞色素P450。
+*这些药物虽然剂量小，但存在各种严重不良反应的风险。因此，必须仔细评估治疗价值和潜在的危险。
+†此表不能替代完整的处方信息。
+‡这些药物会增加体重、对血脂产生负面影响、升高血糖和催乳素水平，以及延长QT间期的风险。
+§这些药物尚未在儿童中进行研究。
+双相情感障碍I是双相情感障碍的一种表现，其特征总是躁狂症，有时也可能伴有抑郁。
+CRP=C反应蛋白；CYP=细胞色素P450。
+
+【治疗参考文献】
+1.McClellan J, Stock S; American Academy of Child and Adolescent Psychiatry (AACAP) Committee on Quality Issues (CQI).Practice parameter for the assessment and treatment of children and adolescents with schizophrenia.J Am Acad Child Adolesc Psychiatry.2013;52(9):976-990.doi:10.1016/j.jaac.2013.02.008
+1.McClellan J, Stock S; American Academy of Child and Adolescent Psychiatry (AACAP) Committee on Quality Issues (CQI).Practice parameter for the assessment and treatment of children and adolescents with schizophrenia.J Am Acad Child Adolesc Psychiatry.2013;52(9):976-990.doi:10.1016/j.jaac.2013.02.008
+2.Pagsberg AK, Tarp S, Glintborg D, et al.Acute Antipsychotic Treatment of Children and Adolescents With Schizophrenia-Spectrum Disorders: A Systematic Review and Network Meta-Analysis.J Am Acad Child Adolesc Psychiatry.2017;56(3):191-202.doi:10.1016/j.jaac.2016.12.013
+2.Pagsberg AK, Tarp S, Glintborg D, et al.Acute Antipsychotic Treatment of Children and Adolescents With Schizophrenia-Spectrum Disorders: A Systematic Review and Network Meta-Analysis.J Am Acad Child Adolesc Psychiatry.2017;56(3):191-202.doi:10.1016/j.jaac.2016.12.013
+3.Hua LL; COMMITTEE ON ADOLESCENCE.Collaborative Care in the Identification and Management of Psychosis in Adolescents and Young Adults. Pediatrics.2021;147(6):e2021051486.doi:10.1542/peds.2021-051486
+3.Hua LL; COMMITTEE ON ADOLESCENCE.Collaborative Care in the Identification and Management of Psychosis in Adolescents and Young Adults. Pediatrics.2021;147(6):e2021051486.doi:10.1542/peds.2021-051486
+4.Stein ALS, Sacks SM, Roth JR, Habis M, Saltz SB, Chen C.Anesthetic Management During Electroconvulsive Therapy in Children: A Systematic Review of the Available Literature.Anesth Analg.2020;130(1):126-140.doi:10.1213/ANE.0000000000004337
+4.Stein ALS, Sacks SM, Roth JR, Habis M, Saltz SB, Chen C.Anesthetic Management During Electroconvulsive Therapy in Children: A Systematic Review of the Available Literature.Anesth Analg.2020;130(1):126-140.doi:10.1213/ANE.0000000000004337
+
+【精神分裂症的预后】
+儿童与青少年精神分裂症的预后普遍不良，多数患者至成年期仍持续存在症状及严重功能受损(1)。早发性精神分裂症（18岁以前）和儿童期很早发作性精神分裂症（13岁以前）与成年发作性精神分裂症相比，预后不良尤为相关。然而，这些发现是基于早期的研究，这些研究受到小样本和研究设计异质性等方法学问题的限制。随后的研究数据是混合的，一些研究表明，在18岁之前发病并不普遍与不良结果相关。例如，在一项针对早发性精神分裂症的10年纵向队列研究中，长期功能结果比之前认为的更有利，而且发病年龄并不能预测临床结果(2)。然而，在另一项基于人群的纵向队列研究中，起病年龄介于 18 至 22 岁的患者，其长期社会功能及临床结局均较 18 岁前起病者更差（3）。
+成功的长期治疗效果有赖于持续的治疗参与。此外，顺利实现从儿科向成人医疗的过渡需周密策划、提早准备，并加强儿科与成人医师间的协作(4)。
+
+【预后参考】
+1.Clemmensen L, Vernal DL, Steinhausen HC.A systematic review of the long-term outcome of early onset schizophrenia.BMC Psychiatry.2012;12:150.Published 2012 Sep 19.doi:10.1186/1471-244X-12-150
+1.Clemmensen L, Vernal DL, Steinhausen HC.A systematic review of the long-term outcome of early onset schizophrenia.BMC Psychiatry.2012;12:150.Published 2012 Sep 19.doi:10.1186/1471-244X-12-150
+2.Xu, L., Guo, Y., Cao, Q. et al. Predictors of outcome in early onset schizophrenia: a 10-year follow-up study.BMC Psychiatry.2020;20(1):67.Published 2020 Feb 14.doi:10.1186/s12888-020-2484-x
+2.Xu, L., Guo, Y., Cao, Q. et al. Predictors of outcome in early onset schizophrenia: a 10-year follow-up study.BMC Psychiatry.2020;20(1):67.Published 2020 Feb 14.doi:10.1186/s12888-020-2484-x
+3.Majuri T, Haapea M, Nordström T, et al.Effect of onset age on the long-term outcome of early-onset psychoses and other mental disorders: a register-based Northern Finland Birth Cohort 1986 study.Eur Child Adolesc Psychiatry.2024;33(6):1741-1753.doi:10.1007/s00787-023-02279-5
+3.Majuri T, Haapea M, Nordström T, et al.Effect of onset age on the long-term outcome of early-onset psychoses and other mental disorders: a register-based Northern Finland Birth Cohort 1986 study.Eur Child Adolesc Psychiatry.2024;33(6):1741-1753.doi:10.1007/s00787-023-02279-5
+3.Correll CU, Arango C, Fagerlund B, Galderisi S, Kas MJ, Leucht S.Identification and treatment of individuals with childhood-onset and early-onset schizophrenia.Eur Neuropsychopharmacol.2024;82:57-71.doi:10.1016/j.euroneuro.2024.02.005
+3.Correll CU, Arango C, Fagerlund B, Galderisi S, Kas MJ, Leucht S.Identification and treatment of individuals with childhood-onset and early-onset schizophrenia.Eur Neuropsychopharmacol.2024;82:57-71.doi:10.1016/j.euroneuro.2024.02.005

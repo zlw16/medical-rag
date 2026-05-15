@@ -1,0 +1,60 @@
+标题：微血管病性溶血性贫血
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/anemias-caused-by-hemolysis/microangiopathic-hemolytic-anemia
+============================================================
+
+(参见于溶血性贫血的概述。）
+循环中的过度剪切或湍流会导致外周血中的红细胞（RBCs）受到损伤，从而导致红细胞破裂，被称为裂细胞（例如三角形、头盔形状）（见照片裂细胞）。裂细胞是微血管病性溶血性贫血的特征性表现，但并非其特异性表现（1）。裂殖细胞可红细胞分布宽度（反映红细胞大小不均的指标）增加。
+微血管病性溶血性贫血包括由微血管损伤和机械装置引起的红细胞碎裂。红细胞碎裂性贫血的病因包括：
+弥散性血管内凝血, 继发于其他疾病如败血症、恶性肿瘤、妊娠并发症、外伤或手术的消耗性过程凝血检查异常，D-二聚体升高，可区分弥漫性血管内凝血与血栓性微血管病
+弥散性血管内凝血, 继发于其他疾病如败血症、恶性肿瘤、妊娠并发症、外伤或手术的消耗性过程凝血检查异常，D-二聚体升高，可区分弥漫性血管内凝血与血栓性微血管病
+瓣膜狭窄或机械心脏瓣膜或人工瓣膜功能障碍（即瓣周漏）
+瓣膜狭窄或机械心脏瓣膜或人工瓣膜功能障碍（即瓣周漏）
+血栓性血小板减少性紫癜（TTP）
+血栓性血小板减少性紫癜（TTP）
+溶血尿毒症综合征（溶血尿毒综合征- 志贺毒素或非典型/补体介导）或相关疾病，如 HELLP 综合征（溶血、肝酶升高和血小板计数低）和系统性硬化症肾危象
+溶血尿毒症综合征（溶血尿毒综合征- 志贺毒素或非典型/补体介导）或相关疾病，如 HELLP 综合征（溶血、肝酶升高和血小板计数低）和系统性硬化症肾危象
+少见的原因有明显的反复撞击，如足底撞击性溶血（行军性血红蛋白尿），空手道、游泳或打手鼓所致的溶血。
+少见的原因有明显的反复撞击，如足底撞击性溶血（行军性血红蛋白尿），空手道、游泳或打手鼓所致的溶血。
+症状是贫血和溶血性贫血的根本原因。
+应针对基础疾病进行治疗。缺铁性贫血偶见于慢性含铁血黄素尿所致的溶血，若存在缺铁，则补铁治疗有效。保持血细胞比容>30%可以减少瓣膜溶血中湍流引起的溶血。
+
+【参考文献】
+1.Schapkaitz E, Mezgebe MH.The Clinical Significance of Schistocytes: A Prospective Evaluation of the International Council for Standardization in Hematology Schistocyte Guidelines.Şistositlerin Klinik Önemi: Hematoloji Standardizasyon Uluslararası Komitesi Şistosit Kılavuzlarının Prospektif Bir Değerlendirmesi.Turk J Haematol2017;34(1):59-63.doi:10.4274/tjh.2016.0359
+1.Schapkaitz E, Mezgebe MH.The Clinical Significance of Schistocytes: A Prospective Evaluation of the International Council for Standardization in Hematology Schistocyte Guidelines.Şistositlerin Klinik Önemi: Hematoloji Standardizasyon Uluslararası Komitesi Şistosit Kılavuzlarının Prospektif Bir Değerlendirmesi.Turk J Haematol2017;34(1):59-63.doi:10.4274/tjh.2016.0359
+
+【血栓性微血管病】
+血栓性微血管病 (TMA) 是微血管病性溶血性贫血的原因之一。血栓性微血管病是由微血管血栓形成引起的，它会消耗血小板并损害红细胞，从而导致缺血性器官损伤。原发性血栓性微血管病包括以下内容：
+血栓性血小板减少性紫癜（免疫介导和先天性 ADAMTS-13 缺陷）
+血栓性血小板减少性紫癜（免疫介导和先天性 ADAMTS-13 缺陷）
+溶血尿毒症综合征（志贺毒素相关溶血性尿毒症综合征或补体介导的溶血性尿毒症综合征也称为非典型溶血性尿毒症综合征）
+溶血尿毒症综合征（志贺毒素相关溶血性尿毒症综合征或补体介导的溶血性尿毒症综合征也称为非典型溶血性尿毒症综合征）
+血栓性微血管病（TMA）也可能继发于以下情况：
+恶性高血压
+恶性高血压
+Medications（药物应用史）
+Medications（药物应用史）
+非法药物
+非法药物
+系统性风湿性疾病（例如系统性红斑狼疮、硬皮病肾危象、灾难性抗磷脂综合征）
+系统性风湿性疾病（例如系统性红斑狼疮、硬皮病肾危象、灾难性抗磷脂综合征）
+造血或实体器官移植
+造血或实体器官移植
+妊娠（例如，HELLP综合征[溶血、肝酶升高和血小板减少综合征])
+妊娠（例如，HELLP综合征[溶血、肝酶升高和血小板减少综合征])
+有证据表明，一些继发性 TMA 形式可能是补体介导的（1）
+TMA 也可能定位于特定器官（例如肾脏）。
+TMA 可通过活检确诊，但通常通过以下方式识别：
+微血管病性溶血性贫血
+微血管病性溶血性贫血
+血小板减少症
+血小板减少症
+一致的临床结果
+一致的临床结果
+当怀疑患有 TMA 时，首要任务是排除特发性肺结核，这可能会迅速致命。如果患者出现腹泻或其他提示性症状，则检测溶血性尿毒症综合征已指明。通常，TTP 患者的血小板计数较低，肾功能损害程度也比 AHUS 轻；然而，尤其是老年患者，其临床表现可能不太典型（2）。
+对因治疗。在 AHUS 中，使用补体抑制剂既可用于诊断，也可用于治疗。
+
+【血栓性微血管病参考文献】
+1.Palma LMP, Sridharan M, Sethi S.Complement in Secondary Thrombotic Microangiopathy.Kidney Int Rep2021;6(1):11-23.doi:10.1016/j.ekir.2020.10.009
+1.Palma LMP, Sridharan M, Sethi S.Complement in Secondary Thrombotic Microangiopathy.Kidney Int Rep2021;6(1):11-23.doi:10.1016/j.ekir.2020.10.009
+2.Liu A, Dhaliwal N, Upreti H, et al.Reduced sensitivity of PLASMIC and French scores for the diagnosis of thrombotic thrombocytopenic purpura in older individuals.Transfusion2021;61(1):266-273.doi:10.1111/trf.16188
+2.Liu A, Dhaliwal N, Upreti H, et al.Reduced sensitivity of PLASMIC and French scores for the diagnosis of thrombotic thrombocytopenic purpura in older individuals.Transfusion2021;61(1):266-273.doi:10.1111/trf.16188

@@ -1,0 +1,147 @@
+标题：无创产前胎儿筛查
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/prenatal-genetic-counseling-and-evaluation/noninvasive-prenatal-fetal-screening-tests
+============================================================
+
+与侵入性检测不同，非侵入性产前遗传疾病筛查不存在与检测相关的并发症的风险。无创孕产妇筛查可以帮助女性决定是否进行侵入性检测。所有不准备行羊膜穿刺术或绒毛膜绒毛取样(CVS)的孕妇都应该行染色体异常的非侵入性筛查。然而，即使准备进行CVS，孕妇仍应接受血清学筛查以排查胎儿神经管缺陷的风险。
+血清学指标的正常值随着孕周而改变。可能需要对孕妇体重、糖尿病、种族及其他因素进行校正。筛查可在以下时期进行
+两个孕期（称为序贯或综合筛查）
+两个孕期（称为序贯或综合筛查）
+这三种方法中的任何一种都是可以接受的。 妊娠中期应检测母体甲胎蛋白水平，以排除神经管缺陷。美国妇产科学会（ACOG）针对胎儿染色体异常筛查提供了相关建议，并附有染色体异常产前检测时间表（参见ACOG:产前基因检测图表）。
+
+【经验与提示】
+经验与提示
+妊娠中期应检测母体甲胎蛋白水平，以排除神经管缺陷，而不需考虑其他产前检查计划以及那些检查的时序。
+妊娠中期应检测母体甲胎蛋白水平，以排除神经管缺陷，而不需考虑其他产前检查计划以及那些检查的时序。
+
+【多胎妊娠筛查】
+单胎妊娠的所有形式的筛查均适用于双胎妊娠的患者。对于双胎妊娠，使用传统方法（三联、四联）的筛查性能比单胎妊娠的敏感性和特异性要低。游离DNA(cfDNA) 筛查的性能对于单胎和双胎妊娠似乎是相当的。由于大多数双雄双胞胎妊娠与染色体异常不一致，因此需要进行诊断性检测来区分哪对双胞胎受到影响。然而，在双胎妊娠中通常不能进行性染色体异常的筛查。
+没有尚无经临床验证的针对三胞胎或高阶妊娠的血清筛查或cfDNA筛查方案。
+
+【孕早期筛查】
+绒毛膜取样表明该胎儿患有唐氏综合症。
+来自杰弗里 S 的照片Dungan, MD.
+孕早期筛查应提供给所有孕妇。它早期提供信息，以便通过CVS进行明确诊断。孕早期筛查的一个重要优点是，若需终止妊娠，在孕早期进行比在孕中期进行更安全。
+筛查胎儿唐氏综合症、18三体综合征和13三体综合征的一种方法是分析母体血浆中的游离DNA（cfDNA），最早可在妊娠 10 周时进行。使用该技术的检测率高于使用旧方法的检测率。另一种方法称为分析物筛查，使用多种母体血清标志物（甲胎蛋白、β-人绒毛膜促性腺激素[β-hCG]、雌三醇、抑制素A）来检测神经管缺损、唐氏综合征（和其他染色体异常）以及其他一些出生缺陷。分析物筛选在妊娠15至20周进行。
+
+【胎儿游离核酸检测】
+游离DNA（cfDNA）检测是一种非侵入性胎儿筛查，可以通过分析母体血液样本中的循环游离胎儿核酸来识别单胎妊娠中的胎儿染色体异常。这个测试可以早在妊娠10周完成，在许多医疗中心已取代传统的孕早、中期无创筛查。游离DNA筛查比血清标志物筛查更准确，并且与妊娠周龄无关。CfDNA涉及采集胎儿细胞，但被视为筛查测试，而非确切的胎儿诊断测试。
+胎儿游离核酸，最常见的是DNA片段，在胎盘滋养层细胞正常分解时脱落进入母体循环。相比早中期利用血清和B超进行的传统联合筛查，利用特定染色体片段含量的变化来预测胎儿染色体异常具有更高的准确性。此外，性染色体异常（X, XXX, XYY 和 XXY）也可在单胎妊娠中识别，尽管准确性有时较低。早期的验证试验报告显示，在高危妊娠中，识别唐氏综合征（21三体综合征）和18三体综合征的敏感性和特异性均达到>99%。尽管灵敏度和特异性略低，但也可以检测到13 三体综合症(1)。
+既往仅建议对已有胎儿三体危险因素的女性进行游离DNA (cfDNA)筛查。然而，它现在通常用于中等风险和高风险患者。美国妇产科学院建议向所有孕妇提供无细胞 DNA 筛查（2）。美国医学遗传学和基因组学学院发布了一项循证指南，主张将无细胞 DNA 筛查作为所有单胎和双胎妊娠的首选方法（3）。
+对 117 项研究的荟萃分析发现，cfDNA 对常见非整倍体的表现为（4)：
+21 三体综合征：敏感性 99%；特异性 100%
+21 三体综合征：敏感性 99%；特异性 100%
+18 三体综合征：敏感性 98%；特异性 100%
+18 三体综合征：敏感性 98%；特异性 100%
+13 三体综合征：敏感性 91%；特异性 100%
+13 三体综合征：敏感性 91%；特异性 100%
+cfDNA筛查结果异常，应通过采用侵入性技术获得的胎儿标本进行诊断性核型分析来确认。cfDNA筛查的阴性结果可减少常规侵入性检测的使用。
+传统的做法中，孕早期的综合筛查包括以下项目的测量：
+母体血清β-hCG（总的或游离的）
+母体血清β-hCG（总的或游离的）
+妊娠相关血浆蛋白A（PAPP-A）
+妊娠相关血浆蛋白A（PAPP-A）
+有时，胎儿颈项透明层（超声检查）
+有时，胎儿颈项透明层（超声检查）
+胎儿唐氏综合征通常与β-hCG水平升高、PAPP-A水平降低和胎儿颈项透明层增厚相关。尽管增厚的颈项透明层与胎儿唐氏综合征风险增加有关，但颈项透明层没有可被视为诊断性指标的阈值。
+在一项包括不同年龄段女性的大型前瞻性研究中，检测唐氏综合征的总体敏感性约为85%，假阳性率为 5%（5）。需要特殊的超声检查训练和坚持严密的颈项透明层质量保证监测才能达到这种筛查准确性水平。
+
+【第一孕期筛查参考】
+1.Badeau M, Lindsay C, Blais J, Nshimyumukiza L, et al.Genomics-based non-invasive prenatal testing for detection of fetal chromosomal aneuploidy in pregnant women.Cochrane Database Syst Rev11:CD011767, 2017.doi: 10.1002/14651858.CD011767.pub2
+1.Badeau M, Lindsay C, Blais J, Nshimyumukiza L, et al.Genomics-based non-invasive prenatal testing for detection of fetal chromosomal aneuploidy in pregnant women.Cochrane Database Syst Rev11:CD011767, 2017.doi: 10.1002/14651858.CD011767.pub2
+2.Practice Bulletin No. 162: Prenatal Diagnostic Testing for Genetic Disorders. Obstet Gynecol.2016;127(5):e108-e122.doi:10.1097/AOG.0000000000001405
+2.Practice Bulletin No. 162: Prenatal Diagnostic Testing for Genetic Disorders. Obstet Gynecol.2016;127(5):e108-e122.doi:10.1097/AOG.0000000000001405
+3.Dungan JS, Klugman S, Darilek S, et al: Noninvasive prenatal screening (NIPS) for fetal chromosome abnormalities in a general-risk population: An evidence-based clinical guideline of the American College of Medical Genetics and Genomics (ACMG) [published correction appears inGenet Med2023 Aug;25(8):100874].Genet Med25(2):100336, 2023.doi:10.1016/j.gim.2022.11.004
+3.Dungan JS, Klugman S, Darilek S, et al: Noninvasive prenatal screening (NIPS) for fetal chromosome abnormalities in a general-risk population: An evidence-based clinical guideline of the American College of Medical Genetics and Genomics (ACMG) [published correction appears inGenet Med2023 Aug;25(8):100874].Genet Med25(2):100336, 2023.doi:10.1016/j.gim.2022.11.004
+4.Mackie FL, Hemming K, Allen S, et al: The accuracy of cell-free fetal DNA-based non-invasive prenatal testing in singleton pregnancies: a systematic review and bivariate meta-analysis.BJOG124(1):32-46, 2017.doi:10.1111/1471-0528.14050
+4.Mackie FL, Hemming K, Allen S, et al: The accuracy of cell-free fetal DNA-based non-invasive prenatal testing in singleton pregnancies: a systematic review and bivariate meta-analysis.BJOG124(1):32-46, 2017.doi:10.1111/1471-0528.14050
+5.Malone FD, Canick JA, Ball RH, et al: First-trimester or second-trimester screening, or both, for Down's syndrome.N Engl J Med353(19):2001-2011, 2005.doi:10.1056/NEJMoa043693
+5.Malone FD, Canick JA, Ball RH, et al: First-trimester or second-trimester screening, or both, for Down's syndrome.N Engl J Med353(19):2001-2011, 2005.doi:10.1056/NEJMoa043693
+
+【孕中期筛查】
+孕中期筛查可能包括游离DNA或多种血清标志物筛查方法。
+血清标志物筛查包括
+四重筛查（主要针对21三体综合征）：可以测量母体的 β-hCG、游离雌三醇、甲胎蛋白的水平，有时还可以测量抑制素A的水平。该测试可以作为孕早期筛查的替代或补充，用于检测染色体异常。
+四重筛查（主要针对21三体综合征）：可以测量母体的 β-hCG、游离雌三醇、甲胎蛋白的水平，有时还可以测量抑制素A的水平。该测试可以作为孕早期筛查的替代或补充，用于检测染色体异常。
+神经管缺陷筛查：孕妇血清甲胎蛋白（MSAFP）水平可作为单一血清标志物来筛查神经管缺陷（这种方法不能筛查唐氏综合征）。MSAFP水平升高表明开放性脊柱裂、无脑畸形或腹壁缺损。无法解释的MSAFP增高可能与孕晚期的并发症有关，如死胎或宫内发育迟缓。
+神经管缺陷筛查：孕妇血清甲胎蛋白（MSAFP）水平可作为单一血清标志物来筛查神经管缺陷（这种方法不能筛查唐氏综合征）。MSAFP水平升高表明开放性脊柱裂、无脑畸形或腹壁缺损。无法解释的MSAFP增高可能与孕晚期的并发症有关，如死胎或宫内发育迟缓。
+妊娠中期多标记筛查用于帮助评估唐氏综合征、18三体综合征和少数罕见的单基因综合征（如Smith-Lemli-Opitz综合征）的风险。孕妇血清学筛查已被广泛推广，但唐氏综合征的检出率不如孕早期血清标志物筛查或cfDNA。孕中期终止妊娠的风险也高于孕早期。
+孕中期筛查还可能包括靶向超声检查。
+
+【染色体异常的孕妇血清学筛查】
+根据胎龄调整后的血清标志物测量，主要用于在与孕妇年龄相关的风险之外，进一步精确评估唐氏综合征的风险。通过三联筛查（即甲胎蛋白、hCG和游离雌三醇）检出唐氏综合征的敏感性约为67%～73％，假阳性率约6％ (1)。四联筛查是三联筛查加上抑制素A的测量。四联筛查可使敏感性增加到80％，假阳性率7％ (2)。
+如果孕妇血清学筛查结果提示唐氏综合征，则进行超声检查确认孕龄，并在孕龄得到纠正后重新计算风险。如果根据之前推测的妊娠周龄抽取的原始样本过早，则必须在适当的时间再抽取一个样本。cfDNA的分析不依赖于孕龄，因此不容易出现孕龄估算错误。此外，如果血清筛查表明 21 三体综合征的风险超过特定的预先设定的阈值（通常为 1/270，与母亲年龄>35时的风险大致相同)，则进行羊膜腔穿刺术。
+四重筛查也能评估18三体综合征的风险，该风险由所有四种血清标志物水平均偏低所指示。对18三体综合征的敏感性约为 100%；假阳性率约为 9%（3）。
+
+【神经管缺损的孕妇血清学筛查】
+MSAFP升高可能表明胎儿畸形，如开放型脊柱裂。尽管孕15～20周都可以进行筛查，但首次采样时间在孕16～18周之间的结果最准确。
+设定一个界值用以决定是否需要进一步检查时，应衡量漏诊的风险相对于不必要检查可能造成并发症的风险。 通常，截断值位于第95到第98百分位，或正常孕妇中位数（中位数的倍数，或MOM）的2.0～2.5倍。该数值对于诊断开放型脊柱裂的敏感性约为80％，对于无脑儿的敏感性为95％。假阳性率在 2% 到 5% 之间（4）。该指标不能检出闭合性脊柱裂。
+最初筛查的1%至2%的女性最终需要进行羊膜穿刺术。MSAFP界值降低可以增加检测的敏感性，但特异性有所降低，导致接受羊膜穿刺术的例数增加。已经通过游离DNA筛查进行胎儿染色体异常筛查的女性应仅进行血清筛查（MSAFP），而不应进行多重标志物筛查。
+如果需要进一步的检查，接下来便是超声检查。如果基本超声检查无法确定原因，则可以进行联合或不联合羊膜穿刺术的靶向超声检查。超声检查可以
+确认胎龄(可能被低估)
+确认胎龄(可能被低估)
+检测多胎妊娠、死胎、先天畸形。
+检测多胎妊娠、死胎、先天畸形。
+部分孕妇超声检查并不能确定甲胎蛋白升高的原因。一些专家认为，如果由经验丰富的操作者进行高分辨率超声检查，结果是正常的，则无需进一步测试。但是由于该检查偶尔会遗漏神经管缺陷，因此许多专家建议，无论超声检查结果如何，均应进行羊膜穿刺术进一步检查。
+如需进一步的检查，则行羊膜穿刺术检测羊水中的甲胎蛋白和乙酰胆碱酯酶水平。 羊水中甲胎蛋白升高表明
+神经管缺损
+神经管缺损
+其他畸形（例如脐疝、先天性肾病、囊状水瘤、腹裂、上消化道闭锁）
+其他畸形（例如脐疝、先天性肾病、囊状水瘤、腹裂、上消化道闭锁）
+所采集的样本受胎儿血污染
+所采集的样本受胎儿血污染
+羊水中出现乙酰胆碱酯酶提示了
+神经管缺损
+神经管缺损
+另一种畸形
+另一种畸形
+羊水中甲胎蛋白升高和乙酰胆碱酯酶阳性对诊断无脑儿的敏感性接近100％，对开放性脊柱裂的敏感性为90%～96％ (4)。即使高分辨率超声检查（可以检出大多数此类畸形）未检出畸形，异常的羊水指标也提示可能存在畸形，应告知父母。
+
+【孕中期筛查参考文献】
+1.Conde-Agudelo A, Kafury-Goeta AC: Triple-marker test as screening for Down syndrome: a meta-analysis.Obstet Gynecol Surv53(6):369-376, 1998.doi:10.1097/00006254-199806000-00022
+1.Conde-Agudelo A, Kafury-Goeta AC: Triple-marker test as screening for Down syndrome: a meta-analysis.Obstet Gynecol Surv53(6):369-376, 1998.doi:10.1097/00006254-199806000-00022
+2.Wald NJ, Huttly WJ, Hackshaw AK: Antenatal screening for Down's syndrome with the quadruple test.Lancet361(9360):835-836, 2003.doi:10.1016/S0140-6736(03)12680-3
+2.Wald NJ, Huttly WJ, Hackshaw AK: Antenatal screening for Down's syndrome with the quadruple test.Lancet361(9360):835-836, 2003.doi:10.1016/S0140-6736(03)12680-3
+3.Breathnach FM, Malone FD, Lambert-Messerlian G, et al: First- and second-trimester screening: detection of aneuploidies other than Down syndrome.Obstet Gynecol110(3):651-657, 2007.doi:10.1097/01.AOG.0000278570.76392.a6
+3.Breathnach FM, Malone FD, Lambert-Messerlian G, et al: First- and second-trimester screening: detection of aneuploidies other than Down syndrome.Obstet Gynecol110(3):651-657, 2007.doi:10.1097/01.AOG.0000278570.76392.a6
+4.Palomaki GE, Bupp C, Gregg AR, et al: Laboratory screening and diagnosis of open neural tube defects, 2019 revision: a technical standard of the American College of Medical Genetics and Genomics (ACMG).Genet Med22(3):462-474, 2020.doi:10.1038/s41436-019-0681-0
+4.Palomaki GE, Bupp C, Gregg AR, et al: Laboratory screening and diagnosis of open neural tube defects, 2019 revision: a technical standard of the American College of Medical Genetics and Genomics (ACMG).Genet Med22(3):462-474, 2020.doi:10.1038/s41436-019-0681-0
+
+【孕早期和孕中期的序贯筛查】
+孕早期无创性筛查和孕中期的四联筛查可以序贯进行，无论孕早期的检查结果是否正常，在孕中期筛查结果出来后再决定是否需要进行侵入性胎儿基因检测。针对高风险情况的序贯筛查继以羊膜穿刺术可将唐氏综合征检出的敏感性提高至95%，假阳性率仅5%。
+序贯筛查的一种变体，称为条件性序贯筛查，基于孕早期筛查提示的风险水平：
+高风险：不需要孕中期的筛查直接进行侵入性检查。
+高风险：不需要孕中期的筛查直接进行侵入性检查。
+中风险：行孕中期筛查。
+中风险：行孕中期筛查。
+低风险（例如，<1比1500）：由于孕早期风险较低，不建议进行唐氏综合征的孕中期筛查。
+低风险（例如，<1比1500）：由于孕早期风险较低，不建议进行唐氏综合征的孕中期筛查。
+应为妊娠早期、中期或连续筛查异常的患者提供诊断测试（如羊水穿刺）。然而，一些患者可能会选择通过游离DNA（cfDNA）分析进一步检测胎儿三体性（1)。cfDNA检测的结果可能表明风险较低并且令人放心，但也具有不确定性。此外，cfDNA检测非常昂贵，长时间等待检测结果可能会耽误进行绒毛膜绒毛取样或羊膜穿刺术等确定性检测(2)。
+
+【孕早期和孕中期的序贯筛查参考文献】
+1.American College of Obstetricians and Gynecologists/Committee on Genetics, and the Society for Maternal-Fetal Medicine: Practice bulletin no. 163: Screening for fetal aneuploidy.Committee on Practice Bulletins—Obstetrics,Obstet Gynecol127 (5):e123–e137, 2016.doi: 10.1097/AOG.0000000000001406
+1.American College of Obstetricians and Gynecologists/Committee on Genetics, and the Society for Maternal-Fetal Medicine: Practice bulletin no. 163: Screening for fetal aneuploidy.Committee on Practice Bulletins—Obstetrics,Obstet Gynecol127 (5):e123–e137, 2016.doi: 10.1097/AOG.0000000000001406
+2.Norton ME, Jacobsson B, Swamy GK, et al:Cell-free DNA analysis for noninvasive examination of trisomy.N Engl J Med372 (17):1589-1597, 2015.doi:10.1056/NEJMoa1407349
+2.Norton ME, Jacobsson B, Swamy GK, et al:Cell-free DNA analysis for noninvasive examination of trisomy.N Engl J Med372 (17):1589-1597, 2015.doi:10.1056/NEJMoa1407349
+
+【产前超声检查】
+大多数专家建议孕妇应该接受常规超声检查。其他医生仅在特定指征下使用超声检查，例如排查疑似遗传性或产科异常，或辅助解读母体血清标志物水平异常。由技术熟练的医务人员完成的超声检查检出大的先天性畸形的敏感性还是很高的。然而，一些情况（例如羊水过少、孕妇肥胖、胎儿体位）可能会影响获取最佳图像。超声检查是非创伤性的，对母胎没有已知明确的风险。
+基础超声检查可以
+确认胎龄
+确认胎龄
+了解胎儿存活力
+了解胎儿存活力
+检出多胎妊娠
+检出多胎妊娠
+孕中晚期，超声可能检出胎儿颅内结构、脊柱、心脏、膀胱、肾脏、胃、胸廓、腹壁、长骨和脐带等部位的重大畸形。
+孕中晚期，超声可能检出胎儿颅内结构、脊柱、心脏、膀胱、肾脏、胃、胸廓、腹壁、长骨和脐带等部位的重大畸形。
+尽管超声检查仅提供结构信息，但一些结构异常强烈提示存在基因异常。多发畸形则可能提示染色体异常。
+针对性超声检查,需要高分辨率超声设备，在特定的医疗中心可以进行，并能提供比基础超声检查更为具体的图像。本检测适用于患者或其伴侣有先天性畸形家族史的情况（例如，先天性心脏缺陷、唇腭裂、幽门狭窄），特别是那些可在产前有效治疗（如后尿道瓣膜伴巨膀胱）或分娩时处理（如膈疝）的畸形。如果孕妇血清标志物水平异常，也可以使用靶向超声检查，并且可以检测以下内容：
+肾脏畸形（例如肾发育不全[Potter综合征]，多囊肾）
+肾脏畸形（例如肾发育不全[Potter综合征]，多囊肾）
+致死型的短肢骨骼发育不良（例如致死型的骨骼发育不良，软骨发育不全）
+致死型的短肢骨骼发育不良（例如致死型的骨骼发育不良，软骨发育不全）
+肠畸形（例如肠梗阻）
+肠畸形（例如肠梗阻）
+小头畸形
+小头畸形
+靶向超声检查用于通过寻找与胎儿非整倍体相关的结构特征（所谓的软标记，例如肾盂扩张或高回声肠道）来评估染色体异常的风险。然而，任何结构性发现均无法作为特定染色体异常的诊断依据，且所有软指标亦可见于染色体正常的胎儿。如果先前的三体筛查结果为阴性 ，则这些软标记中有许多与临床无关，可以忽略不计（1)。尽管如此，发现这样的标记物可能会导致向该女性提供羊膜穿刺术，以明确或排除染色体异常。如果发现大的结构异常，则可能存在胎儿染色体异常。缺点是检出软指标后带来多余的焦虑和不必要的羊膜穿刺术检查。据一些有经验的医学中心的报道，超声检查的敏感性高，但阴性结果是否就表示胎儿染色体异常风险小还不一定。

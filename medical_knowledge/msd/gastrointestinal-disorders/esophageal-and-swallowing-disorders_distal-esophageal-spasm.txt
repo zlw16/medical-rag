@@ -1,0 +1,42 @@
+标题：远端食管痉挛
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/esophageal-and-swallowing-disorders/distal-esophageal-spasm
+============================================================
+
+（参见食管和吞咽性疾病概述）
+食管动力紊乱与患者症状之间的相关性不高；相同的动力障碍在不同人群中，可致不同症状或无症状。此外，症状与异常收缩均未被明确证实与食管组织病理学异常相关。
+
+【弥漫性食管痉挛的症状和体征】
+有时，弥漫性食管痉挛是无症状的，是偶然发现的。
+出现症状时，远端食管痉挛通常导致胸骨后胸痛，伴固体和液体食物吞咽困难。过冷或过热的液体可加重疼痛。多年来，这种疾病很少演变为贲门失弛缓症（吞咽时食管蠕动受损，食管下括约肌松弛不足）。
+食管痉挛也可引起剧痛但不伴有吞咽困难。疼痛常被描述为胸骨后压榨疼痛且可能与运动相关。这种疼痛可能类似于心绞痛，患者常因担心心脏病发作而就诊于急诊科。
+
+【弥漫性食管痉挛的诊断】
+排除冠状动脉缺血
+排除冠状动脉缺血
+食管测压
+食管测压
+其他诊断包括冠状动脉缺血，总是需要进行适当检查以排除（如，心电图、心肌标志物、压力测试—参见急性冠脉综合征的诊断）。确定症状来源于食管较困难。
+钡餐检查常表现为食团推进不良，以及紊乱的同步收缩或第三收缩。严重痉挛的影像学表现可类似于憩室，但大小和位置不同。通常，钡餐是在测压之前进行的，因为它可用于发现其他症状原因并且侵入性较小。
+食管测压能最特异性地描述痉挛情况。至少 20% 的测试吞咽需出现短远端潜伏期（＜4.5 秒），才能符合远端食管痉挛的测压诊断标准。然而在测试的过程中可能未发生痉挛 (1)。
+食管显像和药物激发试验（如氯化腾喜龙10 mg IV）尚未证明有效。
+
+【诊断参考文献】
+1.Yadlapati R, Kahrilas PJ, Fox MR, et al: Esophageal motility disorders on high-resolution manometry: Chicago classification version 4.0.Neurogastroenterol Motil33(1):e14058, 2021.doi: 10.1111/nmo.14058
+1.Yadlapati R, Kahrilas PJ, Fox MR, et al: Esophageal motility disorders on high-resolution manometry: Chicago classification version 4.0.Neurogastroenterol Motil33(1):e14058, 2021.doi: 10.1111/nmo.14058
+
+【弥漫性食管痉挛的治疗】
+钙通道阻滞剂
+钙通道阻滞剂
+注射肉毒杆菌毒素
+注射肉毒杆菌毒素
+有时手术或经口内镜下肌切开术
+有时手术或经口内镜下肌切开术
+食管痉挛常难以治疗，关于治疗方案尚缺乏相关对照研究。口服钙通道阻滞剂可能会有帮助。也可以尝试抗胆碱药物、三环类抗抑郁药、硝酸甘油和长效硝酸盐，但效果通常有限（1）。
+少数情况下，会尝试将A型肉毒杆菌毒素注射到食管和/或食管下括约肌。
+如果医疗治疗失败，可以考虑进行肌切开术。对于严重病例，曾尝试进行手术或经口内镜扩大食管肌切开术（2）。
+
+【治疗参考文献】
+1.Khalaf M, Chowdhary S, Elias PS, Castell D: Distal Esophageal Spasm: A Review.Am J Med131(9):1034-1040, 2018.doi: 10.1016/j.amjmed.2018.02.031
+1.Khalaf M, Chowdhary S, Elias PS, Castell D: Distal Esophageal Spasm: A Review.Am J Med131(9):1034-1040, 2018.doi: 10.1016/j.amjmed.2018.02.031
+2.Leconte M, Douard R, Gaudric M, et al: Functional results after extended myotomy for diffuse oesophageal spasm.Br J Surg94(9):1113-1118, 2007.doi: 10.1002/bjs.5761
+2.Leconte M, Douard R, Gaudric M, et al: Functional results after extended myotomy for diffuse oesophageal spasm.Br J Surg94(9):1113-1118, 2007.doi: 10.1002/bjs.5761

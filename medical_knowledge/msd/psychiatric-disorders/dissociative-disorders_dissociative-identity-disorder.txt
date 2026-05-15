@@ -1,0 +1,127 @@
+标题：分离性身份障碍
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/dissociative-disorders/dissociative-identity-disorder
+============================================================
+
+在分离性身份障碍中，不同身份显现的程度存在差异。当一个人处于极端压力下时，往往更加明显。
+身份碎片化通常导致非对称性失忆，即某个身份知晓的信息未必被其他身份所知；换言之，某个身份可能对其他身份经历的事件存在记忆缺失，而其他身份则保留这些记忆。有些人格彼此了解并能在复杂的内心世界中互动，而且某些人格的互动比其他的人格更为频繁。
+在美国，普通人群中分离性身份障碍的患病率约为 1% 至 1.5%，男性和女性受影响程度几乎相当（1–3）。可起病于任何年龄，从童年早期到晚年。
+分离性身份障碍包括以下形式：
+在附身型中，人格状态通常表现为仿佛由外部 “媒介” 控制，典型的如超自然存在或灵魂（有时也可能是其他人），这些 “媒介” 掌控个体后，会导致其言语和行为发生显著改变。这种情况下，不同的人格是非常明显的（他人容易注意到）。在许多文化中，类似的附体状态是文化或灵性修行的一部分，不被视为分离性身份障碍的症状。分离性身份障碍中出现的附体形式与文化中的附体不同，其交替身份是不被期望的、非自愿出现的，会导致显著的痛苦和功能损害，且其出现的时间和场合违背文化和 / 或宗教规范。
+非附身形式往往不太明显。患者可能会觉得自我意识或身份突然改变，也许感觉他们仿佛是自己的言语，情感和行动的观察者，而不是行为的施动者。许多患者还会出现反复的分离性遗忘。
+
+【参考文献】
+1.Johnson JG, Cohen P, Kasen S, et al.Dissociative disorders among adults in the community, impaired functioning, and axis I and II comorbidity.J Psychiatr Res.40(2):131-140, 2006.doi: 10.1016/j.jpsychires.2005.03.003
+1.Johnson JG, Cohen P, Kasen S, et al.Dissociative disorders among adults in the community, impaired functioning, and axis I and II comorbidity.J Psychiatr Res.40(2):131-140, 2006.doi: 10.1016/j.jpsychires.2005.03.003
+2.Dorahy MJ, Brand BL, Sar V, et al.Dissociative identity disorder: An empirical overview.Aust N Z J Psychiatry.2014;48(5):402-417.doi:10.1177/0004867414527523
+2.Dorahy MJ, Brand BL, Sar V, et al.Dissociative identity disorder: An empirical overview.Aust N Z J Psychiatry.2014;48(5):402-417.doi:10.1177/0004867414527523
+3.Simeon D, Putnam F.Pathological Dissociation in The National Comorbidity Survey Replication (NCS-R): Prevalence, Morbidity, Comorbidity, and Childhood Maltreatment.J Trauma Dissociation.2022;23(5):490-503.doi:10.1080/15299732.2022.2064580
+3.Simeon D, Putnam F.Pathological Dissociation in The National Comorbidity Survey Replication (NCS-R): Prevalence, Morbidity, Comorbidity, and Childhood Maltreatment.J Trauma Dissociation.2022;23(5):490-503.doi:10.1080/15299732.2022.2064580
+
+【分离性身份障碍的病因】
+分离性身份障碍通常发生在童年时期经历过严重、持续或压倒性压力或创伤的人群中。
+孩子出生时尚无统一人格，之后从各种资源和经历中逐渐发展而来。在承受压力或创伤的儿童中，许多本应融合的部分仍保持分离状态。童年时期的慢性严重虐待（身体、性或情感虐待）和忽视在分离性身份障碍患者中经常被报告和记录（＞70% 至 100%）（1, 2）。有些患者没有遭受虐待，但是早年经历失去重要的亲人（比如父母的去世）、严重躯体疾病或者其他重大应激事件。
+大多数儿童能形成对自我和他人连贯、复杂的认知，与之不同的是，遭受严重虐待的儿童可能会经历这样的阶段：他们对生活经历的不同感知、记忆和情绪被分割开来，无法整合。父母或其他看护人在被称为背叛创伤的模式中表现不一致（例如，在深情和虐待行为之间交替）加剧了这种情况 (3, 4)。这样的孩子可以培养出一种能力，通过“逃开”——即通过从严酷的现实环境中分离自己或者退到自己的意念中来躲避。每个发展阶段或创伤经历可以形成不同的人格。
+在标准化测试中，患有这种障碍的人群在体验催眠和分离（将记忆、感知或身份从意识中解离）的能力上得分很高（5）。
+有证据表明，解离性身份障碍患者的解离性遗忘与海马左右侧 CA1 区体积减小存在特定相关性。鉴于海马在记忆存储和提取中的核心作用，这一发现提示 CA1 区体积减小是分离性遗忘的神经生物学标志物(6)。
+
+【病因参考文献】
+1.Foote B, Smolin Y, Kaplan M, Legatt ME, Lipschitz D.Prevalence of dissociative disorders in psychiatric outpatients.Am J Psychiatry.2006;163(4):623-629.doi:10.1176/ajp.2006.163.4.623
+1.Foote B, Smolin Y, Kaplan M, Legatt ME, Lipschitz D.Prevalence of dissociative disorders in psychiatric outpatients.Am J Psychiatry.2006;163(4):623-629.doi:10.1176/ajp.2006.163.4.623
+2.Dorahy MJ, Middleton W, Seager L, McGurrin P, Williams M, Chambers R.Dissociation, shame, complex PTSD, child maltreatment and intimate relationship self-concept in dissociative disorder, chronic PTSD and mixed psychiatric groups.J Affect Disord.2015;172:195-203.doi:10.1016/j.jad.2014.10.008
+2.Dorahy MJ, Middleton W, Seager L, McGurrin P, Williams M, Chambers R.Dissociation, shame, complex PTSD, child maltreatment and intimate relationship self-concept in dissociative disorder, chronic PTSD and mixed psychiatric groups.J Affect Disord.2015;172:195-203.doi:10.1016/j.jad.2014.10.008
+3.Gobin RL, Freyd J.Do Participants Detect Sexual Abuse Depicted in a Drawing?Investigating the Impact of Betrayal Trauma Exposure on State Dissociation and Betrayal Awareness.J Child Sex Abus.2017;26(3):233-245.doi:10.1080/10538712.2017.1283650
+3.Gobin RL, Freyd J.Do Participants Detect Sexual Abuse Depicted in a Drawing?Investigating the Impact of Betrayal Trauma Exposure on State Dissociation and Betrayal Awareness.J Child Sex Abus.2017;26(3):233-245.doi:10.1080/10538712.2017.1283650
+4.Platt MG, Freyd JJ.Betray my trust, shame on me: Shame, dissociation, fear, and betrayal trauma.Psychol Trauma.2015;7(4):398-404.doi:10.1037/tra0000022
+4.Platt MG, Freyd JJ.Betray my trust, shame on me: Shame, dissociation, fear, and betrayal trauma.Psychol Trauma.2015;7(4):398-404.doi:10.1037/tra0000022
+5.Wieder L, Brown RJ, Thompson T, Terhune DB.Hypnotic suggestibility in dissociative and related disorders: A meta-analysis.Neurosci Biobehav Rev.2022;139:104751.doi:10.1016/j.neubiorev.2022.104751
+5.Wieder L, Brown RJ, Thompson T, Terhune DB.Hypnotic suggestibility in dissociative and related disorders: A meta-analysis.Neurosci Biobehav Rev.2022;139:104751.doi:10.1016/j.neubiorev.2022.104751
+6.Dimitrova LI, Dean SL, Schlumpf YR, et al.A neurostructural biomarker of dissociative amnesia: a hippocampal study in dissociative identity disorder.Psychol Med.2023;53(3):805-813.doi:10.1017/S003329172100215
+6.Dimitrova LI, Dean SL, Schlumpf YR, et al.A neurostructural biomarker of dissociative amnesia: a hippocampal study in dissociative identity disorder.Psychol Med.2023;53(3):805-813.doi:10.1017/S003329172100215
+
+【分离性身份障碍的症状和表现】
+多种症状是分离性身份障碍的特征表现。
+
+【多重人格】
+在附身形式中多重人格是家人和同事显而易见的。患者说话办事方式明显不同，就好像其他人或物在操控。新的人格可能是另一个人（通常是已经死亡的人，可能以戏剧性的方式死去）或超自然的神灵（通常是恶魔或神），可能会要求对过去的行为进行惩罚。
+在非附身形式,中不同的身份往往不易察觉，尽管此人可能会表现出情感或人际交往方式的突然转变。部分患者会出现人格解体感受，即感觉自身不真实、与自我分离，且与自己的生理和心理过程相脱离。患者感觉好像是自己生活的旁观者，失去对自己的控制，似乎他正在观看电影中的自己（丧失人格自主性）。 他们可能认为自己的身体感觉不同（例如，像一个小孩子或相反性别的人），而不是属于自己。他们可能有突然的不属于自己的想法，冲动和情绪，可表现为混乱的意识流或声音。有些可能会被外人注意到。例如，患者的态度、观点和偏好（如对食物、衣物或兴趣的选择）可能突然改变，之后又恢复原状。
+分离性身份障碍患者在身份转换或某一人格状态干扰另一人格状态功能时，日常活动也会受到侵入性影响。例如，在工作中某个愤怒的身份出现可能会突然对同事或老板大吼一声。
+分离性身份障碍患者通常伴有分离性遗忘。通常表现为：
+对过去个人事件的记忆存在空白（如童年或青少年时期的某段时间、亲属离世的经历）。
+对过去个人事件的记忆存在空白（如童年或青少年时期的某段时间、亲属离世的经历）。
+对日常应记之事的记忆缺失（如当天发生的事、已熟练掌握的技能，如使用电脑的方法）。
+对日常应记之事的记忆缺失（如当天发生的事、已熟练掌握的技能，如使用电脑的方法）。
+有证据表明他们曾经做过，但自己却不记得了，和/或他们看上去表现得并不像自己
+有证据表明他们曾经做过，但自己却不记得了，和/或他们看上去表现得并不像自己
+患者报告他们不记得的一段时间。
+患者可能会发现在购物袋里有东西，或者自己的笔迹，却想不起来怎么回事。会发现自己身处异地而不知如何并且为何到此。与创伤后应激障碍患者不同，分离性身份障碍患者不仅会忘记应激或创伤事件，也会忘记日常事件。
+患者对自己失忆的认识各有不同。有些试图掩盖。当患者记不起自己说过的话、做过的事，或是遗忘姓名等重要个人信息时，他人可能会发现这种遗忘症状。
+
+【其他症状】
+除幻听外，分离性身份障碍患者还可能出现视觉、触觉、嗅觉和味觉幻觉。因此，患者被误诊为精神病。然而，这些幻觉症状与典型的精神分裂症幻觉不同。分离性身份障碍患者体验这些症状时，会感觉它们来自交替身份（例如，仿佛有人想用自己的眼睛哭泣，听到交替身份的声音批评自己）。此外，分离性身份障碍患者的情绪虽多变但强烈，这与精神分裂症患者常见的情感淡漠不同。
+抑郁、焦虑、物质滥用、自伤、自残、非癫痫性发作、自杀行为以及性功能障碍都很常见（1）。
+人格之间的转换以及相互之间的遗忘会导致生活的混乱。总体而言，患者尽量隐藏症状，并减少症状对他人的影响。
+
+【症状和体征】
+1.Ross CA, Ness L.Symptom patterns in dissociative identity disorder patients and the general population.J Trauma Dissociation.2010;11(4):458-468.doi:10.1080/15299732.2010.495939
+1.Ross CA, Ness L.Symptom patterns in dissociative identity disorder patients and the general population.J Trauma Dissociation.2010;11(4):458-468.doi:10.1080/15299732.2010.495939
+
+【分离性身份障碍的诊断】
+基于精神疾病诊断与统计手册, 第五版，文本修订（DSM-5-TR）标准的精神病学评估
+基于精神疾病诊断与统计手册, 第五版，文本修订（DSM-5-TR）标准的精神病学评估
+诊断方法包括详细访谈，有时会结合催眠或药物辅助访谈。
+诊断方法包括详细访谈，有时会结合催眠或药物辅助访谈。
+解离性身份障碍的诊断基于DSM-5-TR中以下标准的符合情况：
+患者存在2种或更多的人格状态或身份（身份的分裂），并且在自我意识和行为主动性方面存在显著的不连续性。
+患者存在2种或更多的人格状态或身份（身份的分裂），并且在自我意识和行为主动性方面存在显著的不连续性。
+患者在日常事件、重要个人信息以及创伤性事件的记忆方面存在缺失——这些信息的缺失的程度与正常的健忘并不相符。
+患者在日常事件、重要个人信息以及创伤性事件的记忆方面存在缺失——这些信息的缺失的程度与正常的健忘并不相符。
+症状给患者带来痛苦，造成社交、职业或其他重要功能受损。
+症状给患者带来痛苦，造成社交、职业或其他重要功能受损。
+此外，该症状无法用其他障碍（如复杂部分性癫痫发作，双相障碍，创伤后应激障碍，其他解离障碍）、酒精中毒、文化或宗教习俗或者儿童时期的幻想游戏（如一个假想的朋友）解释。
+该诊断需要对分离现象有认知，并针对性地询问相关问题。有时需要长程随访、催眠或巴比妥类 / 苯二氮䓬类药物辅助访谈，还可能要求患者在复诊间隔期间记录日记。所有这些措施目的是在精神检查时引出不同的身份。精神科医生可能需要大量的时间用来描绘不同的人格和他们之间的关系。可以使用特定的结构式访谈问卷，特别是对于那些不熟悉该病的医生。
+医生也可以通过直接询问患者的其他人格，以探索患者无法回忆的内容或看上去像是别人做的事情。催眠有助于临床医生接触患者的分离状态及其他人格，也能帮助患者更好地控制不同分离状态间的转换。
+若存在明确获益动机（如逃避行为责任或义务），需考虑伪装（为获取外部利益而故意伪造生理或心理症状）的可能。 然而，诈病往往过度汇报众所周知的病症（如解离性遗忘）而不汇报其他症状。也会刻意制造刻板的替代人格。与真正患病的患者相比，装病者通常似乎乐于被认为患有该障碍；相反，分离性身份障碍患者常试图隐瞒病情。当临床医生怀疑症状为伪装时，可通过多方交叉核对信息，排查是否存在矛盾点，以排除该疾病的诊断。
+
+【分离性身份障碍的治疗与预后】
+如有条件进行整合的长程心理治疗
+如有条件进行整合的长程心理治疗
+按需用于相关症状的药物
+按需用于相关症状的药物
+有时采用催眠疗法
+有时采用催眠疗法
+各个人格整合起来是最理想的结果 (1)。药物广泛用于控制抑郁、焦虑、冲动和滥用药物的症状，但不缓解分离症状。
+以整合为目标的治疗以心理治疗为核心。如果患者无法或不愿整合，则通过身份之间的协调和互助来减轻症状。
+心理治疗的首要步骤是稳定患者并且保证安全，然后评估创伤经历和找寻问题性身份和分离的原因。部分患者可从住院治疗中获益，在处理痛苦记忆期间，能获得持续的支持与监测。治疗师需保持警惕，帮助患者避免再次遭受伤害（再受害）。
+催眠有助于接触不同人格状态、促进人格间沟通，以及稳定和解读这些状态(2–4)。一些治疗师直接参与并交互分离的身份状态，试图促进身份状态的整合，并增强在身份之间切换的能力。
+改良的暴露疗法可用于帮助患者逐步对创伤记忆脱敏，这类记忆有时仅能以碎片化形式被患者耐受。
+分离障碍的原因如能确定，治疗可以关注于患者各个身份之间的联系和整合，恢复患者的统一的自我、人际关系以及社会功能。有时在治疗时各种身份之间可以自行整合。可通过与各个人格协商、促成其统一来推动整合，也可借助催眠暗示和引导性想象辅助整合过程。
+经历过创伤，尤其是儿童时期经历的患者，可能在治疗期间期待着更多的虐待并且对治疗师有着复杂的移情反应。讨论这些可以理解的感情是有效心理治疗的重要组成部分 (5)。
+包括一些对照试验在内的研究表明，心理治疗对分离性身份障碍有效，尤其是在成功整合分离状态时（6, 7）。一项研究报告称，随着患者通过基于社区的治疗进展，解离、创伤后应激障碍和痛苦的症状 (经患者和临床医生证实) 减少(8)。
+
+【治疗参考文献】
+1.International Society for the Study of Trauma and Dissociation.Guidelines for treating dissociative identity disorder in adults, third revision.J Trauma Dissociation.2011;12(2):115-187.doi:10.1080/15299732.2011.537247
+1.International Society for the Study of Trauma and Dissociation.Guidelines for treating dissociative identity disorder in adults, third revision.J Trauma Dissociation.2011;12(2):115-187.doi:10.1080/15299732.2011.537247
+2.Myrick AC, Webermann AR, Loewenstein RJ, Lanius R, Putnam FW, Brand BL.Six-year follow-up of the treatment of patients with dissociative disorders study.Eur J Psychotraumatol.2017;8(1):1344080.Published 2017 Jun 28.doi:10.1080/20008198.2017.1344080
+2.Myrick AC, Webermann AR, Loewenstein RJ, Lanius R, Putnam FW, Brand BL.Six-year follow-up of the treatment of patients with dissociative disorders study.Eur J Psychotraumatol.2017;8(1):1344080.Published 2017 Jun 28.doi:10.1080/20008198.2017.1344080
+3.Butler LD, Duran RE, Jasiukaitis P, Koopman C, Spiegel D.Hypnotizability and traumatic experience: a diathesis-stress model of dissociative symptomatology.Am J Psychiatry.1996;153(7 Suppl):42-63.doi:10.1176/ajp.153.8.A42
+3.Butler LD, Duran RE, Jasiukaitis P, Koopman C, Spiegel D.Hypnotizability and traumatic experience: a diathesis-stress model of dissociative symptomatology.Am J Psychiatry.1996;153(7 Suppl):42-63.doi:10.1176/ajp.153.8.A42
+4.Bhuvaneswar C, Spiegel D.An eye for an I: a 35-year-old woman with fluctuating oculomotor deficits and dissociative identity disorder.Int J Clin Exp Hypn.2013;61(3):351-370.doi:10.1080/00207144.2013.784115
+4.Bhuvaneswar C, Spiegel D.An eye for an I: a 35-year-old woman with fluctuating oculomotor deficits and dissociative identity disorder.Int J Clin Exp Hypn.2013;61(3):351-370.doi:10.1080/00207144.2013.784115
+5.Brand B, Loewenstein RJ.Does phasic trauma treatment make patients with dissociative identity disorder treatment more dissociative?.J Trauma Dissociation.2014;15(1):52-65.doi:10.1080/15299732.2013.828150
+5.Brand B, Loewenstein RJ.Does phasic trauma treatment make patients with dissociative identity disorder treatment more dissociative?.J Trauma Dissociation.2014;15(1):52-65.doi:10.1080/15299732.2013.828150
+6.Brand BL, Classen CC, McNary SW, Zaveri P.A review of dissociative disorders treatment studies.J Nerv Ment Dis.2009;197(9):646-654.doi:10.1097/NMD.0b013e3181b3afaa
+6.Brand BL, Classen CC, McNary SW, Zaveri P.A review of dissociative disorders treatment studies.J Nerv Ment Dis.2009;197(9):646-654.doi:10.1097/NMD.0b013e3181b3afaa
+7.Brand BL, Schielke HJ, Putnam K, et al.A randomized controlled trial assists individuals with complex trauma and dissociation in Finding Solid Ground.Psychol Trauma.Published online February 27, 2025.doi:10.1037/tra0001871
+7.Brand BL, Schielke HJ, Putnam K, et al.A randomized controlled trial assists individuals with complex trauma and dissociation in Finding Solid Ground.Psychol Trauma.Published online February 27, 2025.doi:10.1037/tra0001871
+8.Brand BL, Classen CC, Lanius R, et al.A naturalistic study of Dissociative Identity Disorder and Dissociative Disorder Not Otherwise Specified patients treated by community clinicians.Psychological Trauma: Theory, Research, Practice, & Policy.2012;1(2), 153-171.
+8.Brand BL, Classen CC, Lanius R, et al.A naturalistic study of Dissociative Identity Disorder and Dissociative Disorder Not Otherwise Specified patients treated by community clinicians.Psychological Trauma: Theory, Research, Practice, & Policy.2012;1(2), 153-171.
+
+【分离性身份障碍的预后】
+分离性身份障碍的功能损害差异很大。 在高功能的患者中影响较小，对于人际关系（如他们的子女，配偶或朋友）影响可能多于对职业的影响。治疗后，人际关系，社会和职业功能可以改进，但有些患者对治疗的反应非常缓慢，并且可能需要长期支持治疗。
+症状会自发地时轻时重，但分离性身份障碍不会自发缓解。根据患者的症状表现，将其分为不同组别：
+症状以分离症状和创伤后症状为主。这些患者一般功能良好，治疗后可完全康复。
+症状以分离症状和创伤后症状为主。这些患者一般功能良好，治疗后可完全康复。
+分离性症状会与其他疾病的显著症状并存，例如人格障碍、心境障碍、进食障碍及物质使用障碍。这些患者改善较慢，治疗可能会不太成功或更长的时间和更多的危机情况。
+分离性症状会与其他疾病的显著症状并存，例如人格障碍、心境障碍、进食障碍及物质使用障碍。这些患者改善较慢，治疗可能会不太成功或更长的时间和更多的危机情况。
+这类患者不仅因共病精神疾病存在严重症状，还可能在情感上与施虐者保持深度依恋。这些患者的治疗具有挑战性，往往需要长程，目标通常是控制症状而不是帮助整合。有些人还需要结构性支持，以减少持续暴露于家庭成员或其他人的创伤中。
+这类患者不仅因共病精神疾病存在严重症状，还可能在情感上与施虐者保持深度依恋。这些患者的治疗具有挑战性，往往需要长程，目标通常是控制症状而不是帮助整合。有些人还需要结构性支持，以减少持续暴露于家庭成员或其他人的创伤中。

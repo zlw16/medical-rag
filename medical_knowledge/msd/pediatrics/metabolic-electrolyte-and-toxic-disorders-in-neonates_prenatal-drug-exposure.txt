@@ -1,0 +1,47 @@
+标题：胎儿毒品接触
+来源：https://www.msdmanuals.cn/professional/pediatrics/metabolic-electrolyte-and-toxic-disorders-in-neonates/prenatal-drug-exposure
+============================================================
+
+酒精和违禁药品可致胎盘和发育中的胎儿中毒，引起先天性综合征和撤药综合征。处方药也可能对胎儿产生不良影响（参见表妊娠期部分药物的安全性）。胎儿酒精综合征以及社会及非法药物对胎儿的影响将在其他地方讨论。
+在子宫内接触过违禁药物的胎儿会在怀孕期间对药物产生依赖。因此，应评估家庭情况，以确定婴儿出院后是否能够得到安全照顾。了解当地司法管辖区和法律很重要，因为许多国家和地区都有强制性报告指南。在亲戚、朋友和来访护士的支持下，父母可能能够照顾婴儿。如果不能实现，家庭寄养或替代抚养计划可能是最好的方法。
+产前接触苯丙胺对新生儿脑结构和功能有持久且细微的影响。一些研究表明，暴露于甲苯丙胺的儿童，其尾状核，豆状核和苍白球（脑的解剖组分）的体积缩小；然而其他的研究并未一致性地确认这些研究结果 (1)。
+其他研究表明，产前接触甲基苯丙胺可能与异常的神经行为模式或胎儿生长受限有关，但这些发现尚未完全确定。
+
+【巴比妥类】
+长期服用巴比妥类药物的母亲可能会导致新生儿药物戒断症状，表现为颤抖、易怒和烦躁。这些症状通常直到新生儿出院回家后7至10天才出现。
+可能需要每6小时口服或肌注苯巴比妥0.75至1.5 mg/kg镇静，然后根据症状持续时间在数天或数周内逐渐减量。
+可卡因抑制神经递质去甲肾上腺素和肾上腺素的再摄取，它穿过胎盘并引起胎儿血管收缩和高血压。可卡因在妊娠期间的使用与较高的胎盘早剥和自然流产发生率相关，这可能是由于子宫血流减少到胎盘血管床造成的；如果婴儿存活，胎盘早剥也可能导致胎儿宫内死亡或神经损伤。
+一名母亲患有物质使用障碍的婴儿出生时体重过轻，身长和头围减小，阿氏评分较低。可能发生脑梗死，与产前可卡因使用相关的罕见异常包括截肢、生殖泌尿系畸形，包括梅干腹综合征和肠闭锁或坏死。所有这些都是由血管破坏引起的，推测可能继发于由可卡因引起的胎儿动脉的强烈血管收缩引起的局部缺血。此外，还观察到轻度神经行为影响的模式，包括注意力和警觉性下降、智商降低以及粗大和精细运动技能受损。
+如果母亲在分娩前短期使用可卡因，一些新生儿可能会出现戒断症状，但这些症状比阿片类药物戒断症状更少见且较轻，表现和治疗相同。
+大麻不会持续增加先天畸形、胎儿生长受限、或出生后神经行为异常的风险。然而，在怀孕期间吸食大麻的女性通常也同时会饮酒、吸烟、使用电子烟（vape），或多种组合，这些都会导致胎儿出现问题。
+子宫内接触阿片类药物会导致分娩后的戒断反应。在怀孕期间长期使用阿片类药物的妇女的新生儿应观察戒断症状（麻醉戒断综合征[NAS]）。NAS通常发生在分娩后72小时内，尽管许多新生儿单位观察婴儿4或5天以确保没有明显的NAS迹象。
+NAS的特征性体征包括
+易激惹性
+易激惹性
+肌张力增高
+肌张力增高
+呕吐和/或腹泻
+呕吐和/或腹泻
+导致呼吸性碱中毒的过度通气
+导致呼吸性碱中毒的过度通气
+产前接触苯二氮卓类药物可能会导致类似的症状。
+有很多评分系统可以帮助量化NAS的严重程度（见The Opioid Exposed Newborn: Assessment and Pharmacologic Management）。轻微的NAS症状可以通过几天的襁褓和舒缓的护理来缓解身体的过度兴奋，并通过频繁的喂养来减少不安。耐心等待，一些问题大约一周即解决。
+用于NAS评估的进食、睡眠、安抚(ESC)方法(2,3)和护理是一个有前景的新发展，更加以家庭为中心。这种方法侧重于舒适护理和家庭参与，并且在许多中心包括与母亲同住。一些研究表明，ESC 方法缩短了住院时间并减少了婴儿的阿片类药物暴露。然而，相当数量的患有NAS的婴儿需要治疗，通常使用阿片类药物，有时会加用可乐定。苯巴比妥可能有帮助，但现在被认为是二线治疗。随着症状消退，治疗会逐渐减少并在几天或几周内停止；许多婴儿需要长达 5 周的治疗。
+对最佳药物没有达成共识，但大多数专家使用美沙酮、吗啡或有时使用鸦片酊。剂量基于婴儿的体重和症状的严重程度。通常先给予起始剂量并逐渐增加直至症状得到控制，然后缓慢减量（4）。
+添加可乐定可以减少足月婴儿所需的药物治疗时间。然而，可乐定不应该给予早产儿，因为心动过缓的风险。如果使用可乐定，应当在可乐定剂量递减时监测血压，因为可能会出现反跳性高血压。
+患有阿片类药物使用障碍的女性所生婴儿的SUID/SIDS发生率较高，但仍然很低，因此不推荐对这些婴儿常规使用家用心肺监护仪。
+
+【参考文献】
+1.Sanjari Moghaddam H, Mobarak Abadi M, Dolatshahi M, et al.Effects of Prenatal Methamphetamine Exposure on the Developing Human Brain: A Systematic Review of Neuroimaging Studies.ACS Chem Neurosci.2021;12(15):2729-2748.doi:10.1021/acschemneuro.1c00213
+1.Sanjari Moghaddam H, Mobarak Abadi M, Dolatshahi M, et al.Effects of Prenatal Methamphetamine Exposure on the Developing Human Brain: A Systematic Review of Neuroimaging Studies.ACS Chem Neurosci.2021;12(15):2729-2748.doi:10.1021/acschemneuro.1c00213
+2.Grisham LM, Stephen MM, Coykendall MR, et al: Eat, sleep, console approach: A family-centered model for the treatment of neonatal abstinence syndrome.Adv Neonatal Care19(2):138–144, 2019. doi: 10.1097/ANC.0000000000000581
+2.Grisham LM, Stephen MM, Coykendall MR, et al: Eat, sleep, console approach: A family-centered model for the treatment of neonatal abstinence syndrome.Adv Neonatal Care19(2):138–144, 2019. doi: 10.1097/ANC.0000000000000581
+3.Dodds D, Koch K, Buitrago-Mogollon T, Horstmann S: Successful implementation of the eat sleep console model of care for infants with NAS in a community hospital.Hosp Pediatr9(8):632–638, 2019. doi: 10.1542/hpeds.2019-0086
+3.Dodds D, Koch K, Buitrago-Mogollon T, Horstmann S: Successful implementation of the eat sleep console model of care for infants with NAS in a community hospital.Hosp Pediatr9(8):632–638, 2019. doi: 10.1542/hpeds.2019-0086
+4.Hudak ML, Tan RC, The Committee on Drugs, The Committee on Fetus and Newborn: Neonatal drug withdrawal.Pediatrics129:E540–E560, 2012.doi: 10.1542/peds.2011-3212
+4.Hudak ML, Tan RC, The Committee on Drugs, The Committee on Fetus and Newborn: Neonatal drug withdrawal.Pediatrics129:E540–E560, 2012.doi: 10.1542/peds.2011-3212
+
+【更多信息】
+以下英语资源可能会有用。 请注意，本手册对这些资源的内容不承担任何责任。
+The Opioid Exposed Newborn: Assessment and Pharmacologic Management: Scoring systems to help quantify the severity of withdrawal
+The Opioid Exposed Newborn: Assessment and Pharmacologic Management: Scoring systems to help quantify the severity of withdrawal

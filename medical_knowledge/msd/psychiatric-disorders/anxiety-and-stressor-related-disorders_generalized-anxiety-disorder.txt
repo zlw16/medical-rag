@@ -1,0 +1,73 @@
+标题：广泛性焦虑障碍
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/anxiety-and-stressor-related-disorders/generalized-anxiety-disorder
+============================================================
+
+(参见焦虑障碍概述。)
+广泛性焦虑障碍（GAD）很常见，在 1 年内的人群患病率约为 3% (1)。女性患病率是男性的两倍（2）。这种疾病更常见于成年期开始，但也可能在任何年龄开始。GAD 通常为慢性病程，常与显著的功能残疾和生活质量下降相关。
+
+【参考文献】
+1.Kessler RC,  Chiu WT, Demler O, et al: Prevalence, severity, and comorbidity of 12-month DSM-IV disorders in the National Comorbidity Survey Replication.Arch Gen Psychiatry62(6):617-627, 2005. doi: 10.1001/archpsyc.62.6.617
+1.Kessler RC,  Chiu WT, Demler O, et al: Prevalence, severity, and comorbidity of 12-month DSM-IV disorders in the National Comorbidity Survey Replication.Arch Gen Psychiatry62(6):617-627, 2005. doi: 10.1001/archpsyc.62.6.617
+2.Wittchen HU, Zhao S, Kessler RC, et al: DSM-III-R generalized anxiety disorder in the National Comorbidity Survey.Arch Gen Psychiatry1994 May;51(5):355-64. doi: 10.1001/archpsyc.1994.03950050015002
+2.Wittchen HU, Zhao S, Kessler RC, et al: DSM-III-R generalized anxiety disorder in the National Comorbidity Survey.Arch Gen Psychiatry1994 May;51(5):355-64. doi: 10.1001/archpsyc.1994.03950050015002
+
+【广泛性焦虑症的症状和体征】
+广泛性焦虑障碍患者存在多种担忧，这些担忧通常会随时间变化。常见的焦虑内容包括工作责任、金钱、健康、安全、汽车维修、家务杂事等。在 GAD 中，焦点非单一的担忧（例如，在公共场合尴尬或被污染）。
+病程通常是波动性和慢性的。大多数广泛性焦虑障碍患者患有一种或多种共病精神疾病，包括重度抑郁症、特定恐惧症、社交焦虑障碍或惊恐障碍。
+
+【广泛性焦虑障碍的诊断】
+《精神障碍诊断与统计手册》，第五版文本修订版（DSM-5-TR）标准
+《精神障碍诊断与统计手册》，第五版文本修订版（DSM-5-TR）标准
+要符合 DSM-5-TR 中 GAD 的诊断标准，患者必须对多项活动或事件（例如，工作和学业表现）存在过度焦虑和担忧，且发生的天数多于不发生的天数，持续≥6个月（1)。
+这些担忧难以控制，必须伴随以下≥3 项表现：
+坐立不安或处于边缘状态的惴惴不安感
+坐立不安或处于边缘状态的惴惴不安感
+注意力集中困难
+注意力集中困难
+睡眠紊乱
+睡眠紊乱
+精神症状需造成显著痛苦，或严重影响社交、职业功能。另外，焦虑和担心无法用药物或其他躯体疾病（如甲状腺功能亢进症）解释。
+
+【诊断参考文献】
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition,Text Revision DSM-5-TR.American Psychiatric Association Publishing, Washington, DC, pp 250-254.
+1.Diagnostic and Statistical Manual of Mental Disorders, 5th edition,Text Revision DSM-5-TR.American Psychiatric Association Publishing, Washington, DC, pp 250-254.
+
+【广泛性焦虑障碍的治疗】
+抗抑郁药物（例如选择性血清素再摄取抑制剂、血清素-去甲肾上腺素再摄取抑制剂）
+抗抑郁药物（例如选择性血清素再摄取抑制剂、血清素-去甲肾上腺素再摄取抑制剂）
+抗焦虑药物（如苯二氮卓类药物、丁螺环酮）
+抗焦虑药物（如苯二氮卓类药物、丁螺环酮）
+心理治疗
+心理治疗
+选择性 5 - 羟色胺再摄取抑制剂（例如艾司西酞普兰）和5-羟色胺-去甲肾上腺素再摄取抑制剂（如文拉法辛）是治疗 GAD 的首选药物；其使用通常在 3 至 6 周后可使症状改善（1)。小到中等剂量的苯二氮卓类药物可以立即减轻焦虑，尽管持续使用可能会导致身体依赖以及各种不良反应，包括镇静、健忘和笨拙。治疗 GAD 的一种策略包括同时使用苯二氮䓬类药物和抗抑郁药，以及聚焦焦虑的心理治疗（见表苯二氮卓类药物）。然后，当 GAD 症状变得可控时，可逐渐减少苯二氮䓬类药物的剂量，继续以较低剂量使用或停用。
+尽管通常直到剂量逐渐增加到推荐范围上限时症状也不会减轻，但丁螺环酮也可能有效（2）。
+心理治疗通常为认知行为治疗，可以是支持性的也可以是问题解决性的 (3)。放松技巧、催眠、锻炼、改善睡眠和基于正念的减压通常也很有帮助。
+
+【苯二氮䓬类药物】
+苯二氮䓬类药物
+药物治疗
+起始/维持
+阿普唑仑*
+中效 / 中效
+氯氮卓*
+中效 / 长效
+氯硝安定
+中效 / 长效
+氯拉卓酸*
+快速/长期
+地西泮*
+快速/长期
+劳拉西泮
+中效 / 短效
+奥沙西泮
+慢效 / 短效
+由于半衰期较长，一般不推荐老年人使用。
+由于半衰期较长，一般不推荐老年人使用。
+
+【治疗参考文献】
+1.Kapczinski F,  Lima MS, Souza JS, et al: Antidepressants for generalized anxiety disorder.Cochrane Database Syst Rev(2):CD003592, 2003. doi: 10.1002/14651858.CD003592
+1.Kapczinski F,  Lima MS, Souza JS, et al: Antidepressants for generalized anxiety disorder.Cochrane Database Syst Rev(2):CD003592, 2003. doi: 10.1002/14651858.CD003592
+2.Chessick CA, Allen MH,  Thase M, et al: Azapirones for generalized anxiety disorder.Cochrane Database Syst Rev2006(3):CD006115, 2006. doi: 10.1002/14651858.CD006115
+2.Chessick CA, Allen MH,  Thase M, et al: Azapirones for generalized anxiety disorder.Cochrane Database Syst Rev2006(3):CD006115, 2006. doi: 10.1002/14651858.CD006115
+3.DeMartini J, Patel G, Fancher TL: Generalized anxiety disorder.Ann Intern Med170(7):ITC49-ITC64, 2019.doi: 10.7326/AITC201904020
+3.DeMartini J, Patel G, Fancher TL: Generalized anxiety disorder.Ann Intern Med170(7):ITC49-ITC64, 2019.doi: 10.7326/AITC201904020

@@ -1,0 +1,52 @@
+标题：肺气压伤
+来源：https://www.msdmanuals.cn/professional/injuries-poisoning/injury-during-diving-or-work-in-compressed-air/pulmonary-barotrauma
+============================================================
+
+当在上浮过程中屏住呼吸（通常当吸入压缩空气），尤其快速上浮时，可能出现肺泡过度膨胀和肺泡破裂。结果可以是：
+气胸（引起呼吸困难、胸痛、单侧呼吸音减弱）
+气胸（引起呼吸困难、胸痛、单侧呼吸音减弱）
+纵隔气肿（引起胸部饱胀感、颈部疼痛、胸膜炎性胸痛可能放射至肩部、呼吸困难、咳嗽、声音嘶哑和吞咽困难）。
+纵隔气肿（引起胸部饱胀感、颈部疼痛、胸膜炎性胸痛可能放射至肩部、呼吸困难、咳嗽、声音嘶哑和吞咽困难）。
+肺气压伤最常见的形式是纵隔气肿。纵隔空气可进入颈部，引起皮下气肿，表现为爆裂声和声音变化。心脏上很少听到爆裂声（“纵隔紧缩”，Hamman 征）。空气有时会沿骶尾端渗入腹膜腔（错误地暗示了内脏破裂和需要进行剖腹手术），但通常不会引起腹膜体征。
+张力性气胸虽在气压伤中少见，但可导致低血压、颈静脉怒张、叩诊过清音，晚期可出现气管偏移。
+肺泡破裂可使空气进入肺静脉循环，进而引发动脉气体栓塞，当栓塞累及脑部时尤其危险，但也可影响其他器官（如脊髓、心脏、皮肤、肾脏、脾脏、胃肠道）。
+肺部受压可能发生在屏气潜水的非常深的下降过程中；压缩可能很少将肺容积降低到残余容积以下，导致粘膜水肿、血管充血、肺水肿和出血，这些在上升时临床表现为呼吸困难和咯血。
+
+【肺气压伤的诊断】
+胸部影像学
+胸部影像学
+胸部X线用于检查是否存在气胸或纵隔积气（沿心脏边缘透亮影）。如果胸片检查阴性但临床高度怀疑，行胸部CT检查可能有诊断意义，它比X线平片更敏感。超声对气胸的床旁快速诊断也是有用的。当存在没有腹膜体征的气腹时，应怀疑气腹不伴有内脏破裂。
+如果患者在神经系统检查中发现任何神经功能缺损，应怀疑脑动脉气体栓塞。
+
+【肺气压伤的治疗】
+100％纯氧
+100％纯氧
+有时胸腔闭式引流
+有时胸腔闭式引流
+怀疑张力性气胸时应进行针刺减压，紧接着予胸腔闭式引流。如果存在少量气胸（如10%～20%），并且没有血流动力学或呼吸不稳定的迹象，气胸可能会自行吸收。如果该治疗无效或存在大量气胸，需进行胸腔闭式引流（使用猪尾形导管或细胸管引流）。
+纵隔气肿不需特殊治疗；症状通常在数小时至数天内自行缓解。观察几小时后大部分患者可以门诊治疗；对于这些患者，推荐给予高流量100%纯氧促进肺泡外气体的吸收。很少数患者需要进行纵隔切开术来缓解张力性纵隔气肿。
+
+【肺气压伤的预防】
+预防肺气压伤通常是重中之重。合适的上浮时间和技术是必须的。高危患者在潜水时发生气胸的包括那些有肺大疱、马凡综合征、慢性阻塞性肺疾病或既往自发性气胸的患者。此类人员不得在压缩空气区域潜水或工作。哮喘患者也容易出现肺部气压伤，尽管很多哮喘患者在进行评估和适当的治疗后能安全潜水。潜水后出现气胸或纵隔气肿的患者应转诊至潜水医学专家处，以评估未来潜水的风险。
+感染 COVID-19 后，一些人会出现肺部病变（如大疱），这可能会增加他们在潜水时发生肺气压伤的风险。建议指南推荐(1, 2) 对任何有呼吸道或心脏症状（包括胸痛、心悸、明显咳嗽或呼吸困难）的患者进行肺功能检查和胸部影像学检查，以排除 COVID-19 感染。
+
+【预防参考文献】
+1.Sadler C, Alvarez-Villela M, Van Hoesen K, et al.Diving after COVID-19: An update to fitness to dive assessment and medical guidance.Diving Hyperb Med.52(1):66-67, 2022.doi: 10.28920/dhm52.1.66-67
+1.Sadler C, Alvarez-Villela M, Van Hoesen K, et al.Diving after COVID-19: An update to fitness to dive assessment and medical guidance.Diving Hyperb Med.52(1):66-67, 2022.doi: 10.28920/dhm52.1.66-67
+2.Sadler C, Lussier A, Grover I, et al.Medical examination of divers after COVID-19 infection: a prospective, observational study using published (original and revised) guidelines for evaluation.Diving Hyperb Med.2024;54(3):176-183.doi:10.28920/dhm54.3.176-183
+2.Sadler C, Lussier A, Grover I, et al.Medical examination of divers after COVID-19 infection: a prospective, observational study using published (original and revised) guidelines for evaluation.Diving Hyperb Med.2024;54(3):176-183.doi:10.28920/dhm54.3.176-183
+尽管罕见，肺部气压伤可导致张力性气胸，如发现必须立即解压。
+尽管罕见，肺部气压伤可导致张力性气胸，如发现必须立即解压。
+所有肺气压伤患者均需进行神经系统检查来判断是否存在脑功能障碍体征，因其可能提示存在气体栓塞。
+所有肺气压伤患者均需进行神经系统检查来判断是否存在脑功能障碍体征，因其可能提示存在气体栓塞。
+明确诊断前，所有怀疑肺气压伤患者均需给予100％ 纯氧治疗。
+明确诊断前，所有怀疑肺气压伤患者均需给予100％ 纯氧治疗。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+Krzyżak J, Korzeniewski K.Medical assessment of fitness to dive.Part I.Int Marit Health.72(1):36-45, 2021. doi: 10.5603/MH.2021.0005
+Krzyżak J, Korzeniewski K.Medical assessment of fitness to dive.Part I.Int Marit Health.72(1):36-45, 2021. doi: 10.5603/MH.2021.0005
+Krzyżak J, Korzeniewski K.Medical assessment of fitness to dive.Part II.Int Marit Health72(2):115-120, 2021. doi: 10.5603/MH.2021.0005
+Krzyżak J, Korzeniewski K.Medical assessment of fitness to dive.Part II.Int Marit Health72(2):115-120, 2021. doi: 10.5603/MH.2021.0005
+Wendling J, Vanden Eede R, Elliott D, et al, eds.Medical Assessment of Working Divers.Fitness to Dive Standards of European Diving Technology Committee.2024.International Marine Contractors Association, 2024.ISBN 13 987-3-9522284-3-2.
+Wendling J, Vanden Eede R, Elliott D, et al, eds.Medical Assessment of Working Divers.Fitness to Dive Standards of European Diving Technology Committee.2024.International Marine Contractors Association, 2024.ISBN 13 987-3-9522284-3-2.

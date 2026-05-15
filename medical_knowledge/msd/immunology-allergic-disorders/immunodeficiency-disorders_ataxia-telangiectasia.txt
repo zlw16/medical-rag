@@ -1,0 +1,69 @@
+标题：共济失调毛细管扩张
+来源：https://www.msdmanuals.cn/professional/immunology-allergic-disorders/immunodeficiency-disorders/ataxia-telangiectasia
+============================================================
+
+(参见免疫缺陷病概述和免疫缺陷病患者的治疗。）
+共济失调 - 毛细血管扩张症是一种常染色体隐性遗传原发性免疫缺陷病，同时涉及体液免疫和细胞免疫缺陷。 估计的发病率是1：20,000～100,000 (1)。共济失调毛细管扩张是由于编码共济失调毛细管扩张（ATM）蛋白的基因突变所致。ATM能够协助检测DNA的损伤，并帮助控制细胞生长和分裂的速率。
+患者通常缺乏免疫球蛋白 A (IgA) 和免疫球蛋白 E (IgE)，并有进行性 T 细胞缺陷。
+
+【参考文献】
+1.Rothblum-Oviatt C, Wright J, Lefton-Greif MA, et al: Ataxia telangiectasia: a review.Orphanet J Rare Dis11(1):159, 2016.doi:10.1186/s13023-016-0543-7
+1.Rothblum-Oviatt C, Wright J, Lefton-Greif MA, et al: Ataxia telangiectasia: a review.Orphanet J Rare Dis11(1):159, 2016.doi:10.1186/s13023-016-0543-7
+
+【共济失调-毛细血管扩张症的症状和体征】
+神经系统起病时的年龄，以及免疫系统缺陷的表现可能多种多样。
+共济失调通常在儿童开始行走时出现首发症状。神经系统症状的进展会导致更多严重的功能障碍。可能有发音含糊、手足徐动和眼球震颤，同时肌力下降会导致肌肉萎缩。
+毛细管扩张可能在4～6岁才出现，在球结膜、耳朵、肘前、腘窝、颈侧部最为明显。
+反复的鼻窦和肺部感染可导致肺炎、支气管扩张和慢性限制性肺病。
+可能发生某些年内分泌异常（如性腺功能减低和不育，睾丸萎缩和糖尿病）。
+癌症（特别是白血病，淋巴瘤，脑瘤，和胃癌）的频率高。癌症通常会发生10岁后，每年约1％的速率，但是风险持续终身，可以发生在任何年龄 。
+毛细血管扩张是小而扩张的血管；他们通常是特发性的。
+图片由医学博士Thomas Habif提供。
+
+【共济失调性毛细血管扩张的诊断】
+IgA和血清 alpha1甲胎蛋白水平
+IgA和血清 alpha1甲胎蛋白水平
+淋巴细胞减少症的全血细胞计数
+淋巴细胞减少症的全血细胞计数
+基因检测
+基因检测
+以下临床表现提示共济失调毛细管扩张可能：
+小脑性共济失调（特别是同时存在有毛细血管扩张症存在时）
+小脑性共济失调（特别是同时存在有毛细血管扩张症存在时）
+IgA水平低（存在于这种疾病的80％患者中）
+IgA水平低（存在于这种疾病的80％患者中）
+血清alpha1-胎儿蛋白水平高
+血清alpha1-胎儿蛋白水平高
+如果进行核型分析，通常会发现染色体断裂，与DNA修复缺陷一致。
+检测ATM蛋白基因突变可以明确诊断共济失调毛细管扩张。 由于共济失调毛细血管扩张症突变基因的携带者通常没有症状，因此对其兄弟姐妹进行携带状态检测，可以帮助他们预测生下患病孩子的几率。
+根据临床表现，检测内分泌异常和癌症。淋巴细胞减少发生在许多新生儿共济失调毛细血管扩张。
+大约一半的共济失调性毛细血管扩张症患者出生时就有淋巴细胞减少症（T 细胞）。因此，新生儿筛查 SCID 可以频繁地识别出患有共济失调性毛细血管扩张症（1）的患者。
+应向已知患者的家庭成员提供基因咨询，以选择检测共济失调-扩张症携带者状态，因为携带者可能会增加患癌症的风险（2)
+
+【诊断参考】
+1.Weitering TJ, Willemsen MAAP, Taylor AMR, Weemaes CMR, van der Burg M, Berghuis D: Early Diagnosis of Ataxia Telangiectasia Through Newborn Screening for SCID: a Case Report Highlighting the Dilemma of Pre-emptive HSCT.J Clin Immunol43(8):1770–1773, 2023.doi:10.1007/s10875-023-01571-y
+1.Weitering TJ, Willemsen MAAP, Taylor AMR, Weemaes CMR, van der Burg M, Berghuis D: Early Diagnosis of Ataxia Telangiectasia Through Newborn Screening for SCID: a Case Report Highlighting the Dilemma of Pre-emptive HSCT.J Clin Immunol43(8):1770–1773, 2023.doi:10.1007/s10875-023-01571-y
+2.Rothblum-Oviatt C, Wright J, Lefton-Greif MA, et al: Ataxia telangiectasia: a review.Orphanet J Rare Dis11(1):159, 2016.doi:10.1186/s13023-016-0543-7
+2.Rothblum-Oviatt C, Wright J, Lefton-Greif MA, et al: Ataxia telangiectasia: a review.Orphanet J Rare Dis11(1):159, 2016.doi:10.1186/s13023-016-0543-7
+
+【共济失调性毛细血管扩张的治疗】
+可通过预防性使用抗生素或静脉免疫球蛋白（IgG）替代治疗对患者进行支持治疗
+可通过预防性使用抗生素或静脉免疫球蛋白（IgG）替代治疗对患者进行支持治疗
+预防性使用抗生素或静脉免疫球蛋白治疗可能会对共济失调-毛细血管扩张患者的治疗有所帮助。
+在一个小型研究中，金刚烷胺治疗导致运动功能改善很小，但目前还没有针对神经系统进行性恶化的有效治疗方法，造成死亡，通常在30岁(1)。
+其他正在研究中的未来治疗方案包括反义寡核苷酸（ASOs）（2）和烟酰胺核糖（3）。
+化疗通常用于癌症相关的治疗。
+
+【治疗参考文献】
+1.Nissenkorn A, Hassin-Baer S, Lerman SF, et al: Movement disorder in ataxia-telangiectasia: treatment with amantadine sulfate.J Child Neurol28(2):155–160, 2013.doi:10.1177/0883073812441999
+1.Nissenkorn A, Hassin-Baer S, Lerman SF, et al: Movement disorder in ataxia-telangiectasia: treatment with amantadine sulfate.J Child Neurol28(2):155–160, 2013.doi:10.1177/0883073812441999
+2.Kim J, Woo S, de Gusmao CM, et al: A framework for individualized splice-switching oligonucleotide therapy.Nature619(7971):828–836, 2023.doi:10.1038/s41586-023-06277-0
+2.Kim J, Woo S, de Gusmao CM, et al: A framework for individualized splice-switching oligonucleotide therapy.Nature619(7971):828–836, 2023.doi:10.1038/s41586-023-06277-0
+3.Presterud R, Deng WH, Wennerström AB, et al: Long-Term Nicotinamide Riboside Use Improves Coordination and Eye Movements in Ataxia Telangiectasia.Mov Disord39(2):360–369, 2024.doi:10.1002/mds.29645
+3.Presterud R, Deng WH, Wennerström AB, et al: Long-Term Nicotinamide Riboside Use Improves Coordination and Eye Movements in Ataxia Telangiectasia.Mov Disord39(2):360–369, 2024.doi:10.1002/mds.29645
+共济失调 - 毛细血管扩张症涉及体液免疫和细胞免疫缺陷。
+共济失调 - 毛细血管扩张症涉及体液免疫和细胞免疫缺陷。
+共济失调通常在儿童开始行走时出现首发症状。
+共济失调通常在儿童开始行走时出现首发症状。
+进行性神经系统恶化通常在30岁时导致死亡，目前尚无有效的治疗方法。
+进行性神经系统恶化通常在30岁时导致死亡，目前尚无有效的治疗方法。

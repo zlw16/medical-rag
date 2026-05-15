@@ -1,0 +1,167 @@
+标题：IgG4相关疾病
+来源：https://www.msdmanuals.cn/professional/musculoskeletal-and-connective-tissue-disorders/igg4-related-disease/igg4-related-disease
+============================================================
+
+IgG4 是 4 种 IgG 亚型中最不常见的。它的功能可能因环境而异；在过敏性疾病中，IgG4被认为在预防对过敏原的过敏反应中具有免疫抑制作用，而在特定的自身免疫性疾病中，如大疱性类天疱疮和重症肌无力，IgG4自身抗体通过中和其抗原靶点发挥致病性作用。IgG4-RD 具有广泛的表现，这些表现因所涉及的器官而异，并且根据其组织病理学结果和对治疗的反应而统一。尚未发现疾病特异性或统一的自身抗体特异性。
+大多数患者是中年至老年男性，但这种疾病可以影响任何年龄和性别的人。
+
+【IgG4 相关疾病的病理生理学】
+IgG4-RD的临床表现通常为肿瘤样肿块或器官肿大，是免疫细胞致密组织浸润和细胞外基质扩张所致。一个或多个器官受到影响；IgG4 RD的11个典型器官包括胰腺、胆管、泪腺、眼眶组织、唾液腺、肺、肾脏、腹膜后组织、主动脉、脑膜和甲状腺。
+大多数患者在诊断时有多器官受累，但往往只有一种显性表型。 一项研究（1) 确定了以下临床表型的比例大致相等。
+
+【胰肝胆疾病】
+胰腺受累通常表现为自身免疫性胰腺炎（1 型，与 IgG4 相关），可能表现为
+阻塞性胰腺肿块，伴有无痛性黄疸或弥漫性胰腺肿大
+阻塞性胰腺肿块，伴有无痛性黄疸或弥漫性胰腺肿大
+急性胰腺炎伴有腹痛和恶心
+急性胰腺炎伴有腹痛和恶心
+陈旧和隐匿性慢性胰腺炎伴伴胰腺萎缩、胰腺外分泌功能不全和/或明显糖尿病
+陈旧和隐匿性慢性胰腺炎伴伴胰腺萎缩、胰腺外分泌功能不全和/或明显糖尿病
+IgG4相关性胆管炎可发生，通常发生在同时患有自身免疫性胰腺炎的患者中。这种组合高度提示 IgG4-RD。
+
+【腹膜后纤维化和/或主动脉炎】
+大多数特发性腹膜后纤维化病例可能是 IgG4-RD。软组织肿块通常环绕主动脉或仅覆盖前外侧部分。肿块可向下延伸至髂血管。主要并发症是导致肾积水的输尿管压迫。
+IgG4-RD也可引起胸主动脉或腹主动脉的主动脉炎，这与腹膜后纤维化有明显区别，影像学检查显示主动脉壁周围增厚或增强。没有发热和白细胞增多，以及隐匿性（通常是偶然的）而不是急性表现，有助于区分 IgG4 相关主动脉炎和感染性主动脉炎。主动脉炎有时并发主动脉瘤。
+
+【头颈部局限性疾病】
+主要唾液腺（例如腮腺和/或下颌下腺）和泪腺通常会受到影响。腺体无痛地扩大，但通常其功能仅轻度受损，因为干燥症状（眼干和口干）不突出。升高的IgG4水平、特征性的组织病理学和隐匿的疾病节奏有助于将这些器官的IgG4- RD与干燥综合征和结节病区分开来。IgG4-RD不表现为突然发作或阵发性唾液腺或泪腺肿大。特异性阳性血清学（抗Ro /SSA、抗La /SSB抗体）可能有助于区分以腮腺、下颌骨和泪腺明显肿胀为表现的干燥综合征疾病患者。此外，形成良好的非无菌肉芽肿或某些器官表现，如巨大的肺门淋巴结病、前葡萄膜炎、炎症性关节炎或结节性红斑，可以帮助区分结节病和IgG4-RD。
+眼眶受累是IgG4-RD最常见的表现之一，在近 20% 的病例中出现（2）。这可能表现为泪腺炎、眼眶肌炎或眼眶肿块，必须与肉芽肿性多血管炎和恶性肿瘤区分开来 (3) 。
+
+【全身受累的经典 Mikulicz 综合征】
+IgG4 相关的 Mikulicz 综合征是泪腺、腮腺和颌下腺的联合受累，通常每组腺体双侧受累。这些发现，结合显著升高的血清IgG4水平，基本上可以诊断 IgG4-RD；然而，在 IgG4 相关的 Mikulicz 综合征中，血清 IgG4 并不总是升高 。
+
+【其他表型】
+肺和胸膜可能累及，有时伴有肺门淋巴结肿大和肺结节，类似于结节病。 组织病理学对于区分这些疾病至关重要。间质性肺病可能发生并导致肺功能显著恶化。
+肾脏受累最常表现为肾小管间质性肾炎，通常表现为无症状的肾功能损害，有时需要透析；常出现多发性肾脏肿块和低补体血症。可能出现蛋白尿，有时达到肾病范围，这反映了相关的肾小球病，但预计不会出现细胞管型和/或血尿。
+可能涉及许多其他组织，包括皮肤、前列腺、脑膜和鼻窦。脑、胃肠道、脾脏、骨髓或周围神经受累的证据有限。
+
+【病理生理学参考文献】
+1.Wallace ZS, Zhang Y, Perugino CA, et al: Clinical phenotypes of IgG4-related disease: an analysis of two international cross-sectional cohorts.Ann Rheum Dis78(3):406-412, 2019.doi:10.1136/annrheumdis-2018-214603
+1.Wallace ZS, Zhang Y, Perugino CA, et al: Clinical phenotypes of IgG4-related disease: an analysis of two international cross-sectional cohorts.Ann Rheum Dis78(3):406-412, 2019.doi:10.1136/annrheumdis-2018-214603
+2.Ebbo M, Patient M, Grados A, et al: Ophthalmic manifestations in IgG4-related disease: Clinical presentation and response to treatment in a French case-series.Medicine(Baltimore) 96(10):e6205, 2017.doi:10.1097/MD.0000000000006205
+2.Ebbo M, Patient M, Grados A, et al: Ophthalmic manifestations in IgG4-related disease: Clinical presentation and response to treatment in a French case-series.Medicine(Baltimore) 96(10):e6205, 2017.doi:10.1097/MD.0000000000006205
+3.Wallace ZS, Deshpande V, Stone JH: Ophthalmic manifestations of IgG4-related disease: single-center experience and literature review.Semin Arthritis Rheum43(6):806–817, 2014.doi:10.1016/j.semarthrit.2013.11.008
+3.Wallace ZS, Deshpande V, Stone JH: Ophthalmic manifestations of IgG4-related disease: single-center experience and literature review.Semin Arthritis Rheum43(6):806–817, 2014.doi:10.1016/j.semarthrit.2013.11.008
+
+【IgG4相关疾病的病因】
+IgG4-RD的病因尚不清楚，但由于其慢性、隐匿性、抗体（如半乳糖凝集素-3、白介素-1受体拮抗剂、膜联蛋白A11）靶向自身蛋白以及对免疫抑制的反应性，被认为与自身免疫有关（1)。
+
+【病因参考文献】
+1.Perugino CA, Stone JH: IgG4-related disease: an update on pathophysiology and implications for clinical care.Nat Rev Rheumatol16(12):702-714, 2020.doi: 10.1038/s41584-020-0500-7
+1.Perugino CA, Stone JH: IgG4-related disease: an update on pathophysiology and implications for clinical care.Nat Rev Rheumatol16(12):702-714, 2020.doi: 10.1038/s41584-020-0500-7
+
+【病理学IgG4相关疾病】
+IgG4-RD 的特征是由 CD3+ T 细胞、活化 B 细胞和浆细胞组成的致密淋巴浆细胞浸润，表达 IgG4 的数量不成比例（通常 > 40% 的所有 IgG 表达细胞）（1)。
+通常，炎症会随着时间的推移发展为具有特征性“纹状”或轮状图案的纤维化。
+其他特征包括闭塞性静脉炎和轻度嗜酸性粒细胞浸润。重要的是，嗜酸性粒细胞成分不应比淋巴浆细胞浸润更突出。不同组织的组织病理学可能略有不同，例如，典型的故事状纤维化在泪腺、腮腺和肺的活检中较少观察到。
+
+【病理参考文献】
+1.Deshpande V, Zen Y, Chan JK, et al: Consensus statement on the pathology of IgG4-related disease.Mod Pathol25(9):1181-1192, 2012.doi:10.1038/modpathol.2012.72
+1.Deshpande V, Zen Y, Chan JK, et al: Consensus statement on the pathology of IgG4-related disease.Mod Pathol25(9):1181-1192, 2012.doi:10.1038/modpathol.2012.72
+
+【IgG4 相关疾病的症状和体征】
+IgG4-RD 常见的一般表现包括淋巴结病和体重下降。体重减轻是胰腺外分泌功能不全患者尤其突出的症状。发烧在IgG4-RD中非常罕见，应促使考虑其他解释。
+其他表现是受累器官特有的 (1)。
+胰腺受累可能是无痛的，如果有阻塞性胰腺肿块，有时会出现黄疸，或者如果存在急性胰腺炎可能导致腹痛和恶心。一些患者，可能比报道的更多，表现出更加阴沉和阴险的慢性胰腺炎胰腺外分泌功能不全的症状（例如，肠胃气胀、腹胀、脂肪泻、营养不良、体重减轻）和/或内分泌胰腺功能不全（例如，无症状性高血糖或明显的糖尿病）。
+腹膜后纤维化最常表现为腰痛或背痛，但通常无症状，在腹部影像学检查中偶然发现 (2)。与腹膜后纤维化相关的疼痛被认为与纤维化肿块内的局部神经包裹有关，并且通常会随着免疫抑制而减轻。
+主动脉炎和主动脉周围炎通常无症状，仅通过影像学或在主动脉瘤切除术后偶然发现。胸主动脉比腹主动脉更常受累（3)。
+唾液腺和泪腺受累通常会导致无痛性双侧肿大，但可能是不对称的。口干和/或眼干不是显著特征。
+眼眶受累可能会导致眼球突出、眼眶疼痛、眶周水肿或眼外运动疼痛。
+肺部受累可能无症状或引起咳嗽、呼吸困难或胸膜痛。
+
+【症状和体征参考】
+1.Katz G, Hernandez-Barco Y, Palumbo D, Guy TV, Dong L, Perugino CA.Proliferative features of IgG4-related disease.Lancet Rheumatol6(7):e481-e492, 2024.doi:10.1016/S2665-9913(24)00022-5
+1.Katz G, Hernandez-Barco Y, Palumbo D, Guy TV, Dong L, Perugino CA.Proliferative features of IgG4-related disease.Lancet Rheumatol6(7):e481-e492, 2024.doi:10.1016/S2665-9913(24)00022-5
+2.Lanzillotta M, Culver E, Sharma A, et al.Fibrotic phenotype of IgG4-related disease.Lancet Rheumatol6(7):e469-e480, 2024.doi:10.1016/S2665-9913(23)00299-0
+2.Lanzillotta M, Culver E, Sharma A, et al.Fibrotic phenotype of IgG4-related disease.Lancet Rheumatol6(7):e469-e480, 2024.doi:10.1016/S2665-9913(23)00299-0
+3.Nikiphorou E, Galloway J, Fragoulis GE: Overview of IgG4-related aortitis and periaortitis.A decade since their first description.Autoimmun Rev19(12):102694, 2020.doi:10.1016/j.autrev.2020.102694
+3.Nikiphorou E, Galloway J, Fragoulis GE: Overview of IgG4-related aortitis and periaortitis.A decade since their first description.Autoimmun Rev19(12):102694, 2020.doi:10.1016/j.autrev.2020.102694
+
+【IgG4相关疾病的诊断】
+血清 IgG4 水平
+血清 IgG4 水平
+血清补体水平（C3 和 C4）
+血清补体水平（C3 和 C4）
+选择性成像
+选择性成像
+对于上述出现任何临床表型的患者，应考虑IgG4-RD的诊断。还必须考虑引起类似症状的下列其他原因：
+唾液腺和泪腺受累：干燥综合征、结节病、艾滋病病毒、丙型肝炎、淋巴瘤、涎腺肿瘤
+唾液腺和泪腺受累：干燥综合征、结节病、艾滋病病毒、丙型肝炎、淋巴瘤、涎腺肿瘤
+肺部受累：结节病,韦格纳肉芽肿,特发性肺纤维化, 恶性肿瘤,结核
+肺部受累：结节病,韦格纳肉芽肿,特发性肺纤维化, 恶性肿瘤,结核
+胰腺受累：急性或慢性胰腺炎,胰腺癌。
+胰腺受累：急性或慢性胰腺炎,胰腺癌。
+主动脉受累：巨细胞动脉炎、特发性主动脉炎
+主动脉受累：巨细胞动脉炎、特发性主动脉炎
+腹膜后受累：淋巴瘤, 肉瘤,韦格纳肉芽肿, Erdheim-Chester病
+腹膜后受累：淋巴瘤, 肉瘤,韦格纳肉芽肿, Erdheim-Chester病
+淋巴结病：结节病,淋巴瘤,罗赛-多夫曼病, Erdheim-Chester病
+淋巴结病：结节病,淋巴瘤,罗赛-多夫曼病, Erdheim-Chester病
+IgG4-RD 的分类标准包括 32 项有助于诊断的排除标准（1）。虽然这些标准不是为诊断目的而设计的，但它们确实提供了一个思考疾病的框架，包括建议的测试和结果的解释。
+虽然在适当的临床背景下（例如 Mikulicz 综合征），当与血清 IgG4 水平升高配对时，可以在不进行活检的情况下对部分患者进行 IgG4-RD 的诊断，但通常需要活检以将 IgG4-RD 与其他病因区分开来。肿瘤样病变和/或淋巴结肿大。仅当存在以下 3 种组织病理学发现中的至少 2 种时才应使用 IgG4 和 IgG 进行免疫染色：
+密集的淋巴浆细胞浸润
+密集的淋巴浆细胞浸润
+席纹状纤维化
+席纹状纤维化
+闭塞性静脉炎
+闭塞性静脉炎
+活检中 IgG4+ 浆细胞数量增加,无论是单独的还是高丰度的，都是非特异性的，必须与其他检查结果相结合才能诊断 IgG4-RD。对于IgG4 RD的组织学诊断，活检中IgG4/IgG+比率>40%被认为是强制性的，而每个高功率场的IgG4+细胞的诊断数量因器官和活检类型而异(2）。例如，在核心活检中，在适当的情况下，来自颌下腺的 ≥ 100 个 IgG4+ 细胞/hpf 和来自胰腺的 ≥ 10 个 IgG4+ 细胞/hpf 高度提示 IgG4-RD。
+应该对临床受影响的区域（例如眼眶、胸部、腹部和骨盆）进行横断面成像（CT、MRI）。 通常进行其他区域的成像以筛查无症状表现（例如，腹膜后纤维化）。
+80% 至 90% 的 IgG4-RD 患者血清 IgG4 水平升高（3）；升高范围可以从轻度（正常上限的 1 至 2 倍）到显着升高（> 正常上限的 5 倍）（4）。然而，升高并不具有诊断意义，必须在其他临床数据的背景下进行解释。许多患者，特别是那些单器官受累的患者（如孤立的腹膜后纤维化），其水平正常，血清IgG4升高对IgG4-RD不是特异性的。例如，慢性过敏性疾病是血清 IgG4 轻度升高（即 < 正常上限的 2 倍）的常见原因。
+其他可能有帮助的测试包括
+尿液分析和血清肌酐以评估肾功能。蛋白尿可能存在于 IgG4 相关的肾脏受累中，而血尿、红细胞管型和畸形红细胞可提示和辅助诊断（例如，肉芽肿性多血管炎）。
+尿液分析和血清肌酐以评估肾功能。蛋白尿可能存在于 IgG4 相关的肾脏受累中，而血尿、红细胞管型和畸形红细胞可提示和辅助诊断（例如，肉芽肿性多血管炎）。
+胰腺受累的活动性疾病中，血清淀粉酶和脂肪酶可能升高，而血红蛋白A1C可能升高，胰腺损伤和功能障碍患者的粪便弹性蛋白酶、血清前白蛋白以及维生素A、E和D可能降低。
+胰腺受累的活动性疾病中，血清淀粉酶和脂肪酶可能升高，而血红蛋白A1C可能升高，胰腺损伤和功能障碍患者的粪便弹性蛋白酶、血清前白蛋白以及维生素A、E和D可能降低。
+大约三分之一的IgG4-RD患者的血清 C3 和 C4 补体水平较低；这一发现与受影响的器官数量相关。
+大约三分之一的IgG4-RD患者的血清 C3 和 C4 补体水平较低；这一发现与受影响的器官数量相关。
+总IgG和总IgE水平通常升高，有助于预测未来复发的可能性并跟踪疾病活动 (5)。
+总IgG和总IgE水平通常升高，有助于预测未来复发的可能性并跟踪疾病活动 (5)。
+红细胞沉降率（ESR）通常继发于高γ球蛋白血症，而c反应蛋白（CRP）水平通常是正常的。
+红细胞沉降率（ESR）通常继发于高γ球蛋白血症，而c反应蛋白（CRP）水平通常是正常的。
+检测抗中性粒细胞细胞质抗体（ANCA）、抗核抗体（ANA）、抗Ro/SSA和抗La/SSB抗体有助于根据特定患者症状排除其他诊断（如头颈部受累、肺部受累）。
+检测抗中性粒细胞细胞质抗体（ANCA）、抗核抗体（ANA）、抗Ro/SSA和抗La/SSB抗体有助于根据特定患者症状排除其他诊断（如头颈部受累、肺部受累）。
+总 IgG 水平升高（高丙种球蛋白血症）或升高的球蛋白与白蛋白比率表明抗体分泌细胞的激活是 IgG4-RD 的典型特征，但不是特异性的。总 IgG 的升高可能反映了自身抗体的积累。总 IgE 水平显著升高（通常是正常上限的 5 到 10 倍）在 IgG4-RD 患者中很常见。在哮喘或慢性特应性疾病患者中，这些值通常明显高于IgE水平。尽管总 IgE 水平高是 IgG4-RD 复发的独立预测因素（5），但病变组织中表达 IgE 的 B 细胞和浆细胞很少，表明血清 IgE 更可能是一种免疫副现象，而本身无致病性 (6)。
+
+【诊断参考】
+1.Wallace ZS, Naden RP, Chari S, et al: The 2019 American College of Rheumatology/European League Against Rheumatism Classification Criteria for IgG4-Related Disease.Arthritis Rheumatol72(1):7-19, 2020.doi:10.1002/art.41120
+1.Wallace ZS, Naden RP, Chari S, et al: The 2019 American College of Rheumatology/European League Against Rheumatism Classification Criteria for IgG4-Related Disease.Arthritis Rheumatol72(1):7-19, 2020.doi:10.1002/art.41120
+2.Deshpande V, Zen Y, Chan JK, et al: Consensus statement on the pathology of IgG4-related disease.Mod Pathol25(9):1181-1192, 2012.doi:10.1038/modpathol.2012.72
+2.Deshpande V, Zen Y, Chan JK, et al: Consensus statement on the pathology of IgG4-related disease.Mod Pathol25(9):1181-1192, 2012.doi:10.1038/modpathol.2012.72
+3.Wallace ZS, Zhang Y, Perugino CA, et al: Clinical phenotypes of IgG4-related disease: an analysis of two international cross-sectional cohorts.Ann Rheum Dis78(3):406-412, 2019.doi:10.1136/annrheumdis-2018-214603
+3.Wallace ZS, Zhang Y, Perugino CA, et al: Clinical phenotypes of IgG4-related disease: an analysis of two international cross-sectional cohorts.Ann Rheum Dis78(3):406-412, 2019.doi:10.1136/annrheumdis-2018-214603
+4.Baker MC, Cook C, Fu X, et al: The positive predictive value of a very high serum IgG4 concentration for the diagnosis of IgG4-related disease.J Rheumatol50(3):408-412, 2023.doi:10.3899/jrheum.220423
+4.Baker MC, Cook C, Fu X, et al: The positive predictive value of a very high serum IgG4 concentration for the diagnosis of IgG4-related disease.J Rheumatol50(3):408-412, 2023.doi:10.3899/jrheum.220423
+5.Wallace ZS, Mattoo H, Mahajan VS, et al: Predictors of disease relapse in IgG4-related disease followingrituximab.Rheumatology (Oxford)55(6):1000-1008, 2016.doi:10.1093/rheumatology/kev438
+5.Wallace ZS, Mattoo H, Mahajan VS, et al: Predictors of disease relapse in IgG4-related disease followingrituximab.Rheumatology (Oxford)55(6):1000-1008, 2016.doi:10.1093/rheumatology/kev438
+6.Munemura R, Maehara T, Murakami Y, et al: Distinct disease-specific Tfh cell populations in 2 different fibrotic diseases: IgG4-related disease and Kimura disease.J Allergy Clin Immunol150(2):440-455.e17, 2022.doi:10.1016/j.jaci.2022.03.034
+6.Munemura R, Maehara T, Murakami Y, et al: Distinct disease-specific Tfh cell populations in 2 different fibrotic diseases: IgG4-related disease and Kimura disease.J Allergy Clin Immunol150(2):440-455.e17, 2022.doi:10.1016/j.jaci.2022.03.034
+
+【IgG4相关疾病的治疗】
+皮质类固醇
+皮质类固醇
+B细胞靶向治疗
+B细胞靶向治疗
+IgG4-RD 的治疗旨在减少炎症、诱导缓解和保护器官功能。通常，治疗后肿瘤样肿块或器官增大应正常化。高剂量皮质类固醇治疗1 - 2个月或b细胞消耗治疗（如利妥昔单抗）3 - 4个月后器官不能恢复正常通常表明不可逆纤维化，这在腹膜后纤维化、长期器官受累或诊断错误的患者中很常见。
+初始治疗是口服皮质类固醇（例如，泼尼松 30 至 40 毫克，每天一次），给药 2 至 4 周，然后在 2 至 3 个月的过程中逐渐减量。利妥昔单抗常被用作无法服用糖皮质激素的患者的类固醇替代方案（例如，患有未控制糖尿病的患者）。利妥昔单抗也可用于诱导或维持缓解，当患者不能耐受皮质类固醇减量或在停用皮质类固醇后12个月内经历疾病复发。利妥昔单抗对于治疗活性免疫球蛋白G4相关疾病（IgG4-RD）几乎普遍有效，但缺乏随机试验（1)。另一种 B 细胞耗竭药物伊奈利珠单抗正在被研究作为预防糖皮质激素诱导缓解后疾病复发的治疗选择（2）。
+一些患者需要外科手术，例如支架置入术，以解除输尿管或胆管的机械阻塞。
+血清IgG4水平通常随着治疗的进行而下降，但通常不会恢复正常。
+
+【治疗参考文献】
+1.Khosroshahi A, Wallace ZS, Crowe JL, et al: International consensus guidance statement on the management and treatment of IgG4-related disease.Arthritis Rheumatol67(7):1688-99, 2015.doi: 10.1002/art.39132
+1.Khosroshahi A, Wallace ZS, Crowe JL, et al: International consensus guidance statement on the management and treatment of IgG4-related disease.Arthritis Rheumatol67(7):1688-99, 2015.doi: 10.1002/art.39132
+2.Perugino C, Culver EL, Khosroshahi A, et al: Efficacy and Safety ofInebilizumabin IgG4-Related Disease: Protocol for a Randomized Controlled Trial.Rheumatol Ther10(6):1795-1808, 2023.doi:10.1007/s40744-023-00593-7
+2.Perugino C, Culver EL, Khosroshahi A, et al: Efficacy and Safety ofInebilizumabin IgG4-Related Disease: Protocol for a Randomized Controlled Trial.Rheumatol Ther10(6):1795-1808, 2023.doi:10.1007/s40744-023-00593-7
+
+【IgG4相关疾病的预后】
+与大多数免疫介导的疾病一样，IgG4-RD无法治愈，但早期干预是非常可治疗的。当器官损伤发生时，通常是由于诊断的延误，器官受累的潜伏发展，或医源性原因（例如，怀疑胰腺癌的惠普尔手术）。
+IgG4相关疾病（IgG4 RD）是一种慢性免疫介导的疾病，通常表现为多器官受累和肿瘤样肿块，最常影响胰腺、胆管、泪腺、眼眶组织、唾液腺、肺、肾、腹膜后组织、主动脉、脑膜和甲状腺。
+IgG4相关疾病（IgG4 RD）是一种慢性免疫介导的疾病，通常表现为多器官受累和肿瘤样肿块，最常影响胰腺、胆管、泪腺、眼眶组织、唾液腺、肺、肾、腹膜后组织、主动脉、脑膜和甲状腺。
+IgG4-RD 不会引起发烧，并且通常隐匿地表现出来。
+IgG4-RD 不会引起发烧，并且通常隐匿地表现出来。
+血清 IgG4 水平通常升高，但这一发现既不高度敏感也不特异。
+血清 IgG4 水平通常升高，但这一发现既不高度敏感也不特异。
+诊断通常基于临床、放射学、组织病理学和免疫染色结果的组合，重点是组织取样。
+诊断通常基于临床、放射学、组织病理学和免疫染色结果的组合，重点是组织取样。
+治疗方法包括皮质类固醇和消耗B细胞的药物。
+治疗方法包括皮质类固醇和消耗B细胞的药物。

@@ -1,0 +1,46 @@
+标题：脊髓自主神经反射异常
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/spinal-cord-disorders/spinal-cord-autonomic-dysreflexia
+============================================================
+
+见于20%至70%的患者，发生于脊髓损伤后1个月至1年间。
+脊髓损伤通常高于 T6 水平，在低于 T10 水平的损伤后不太可能发生反射异常。危及生命的高血压是由脊髓损伤水平以下的有害刺激引起的；在大约 85% 的患者中，刺激是泌尿系统疾病，例如膀胱扩张或尿路感染。多达85%的病例由膀胱扩张引起，通常因导尿管堵塞所致。肠道扩张和粪便嵌塞是第二常见诱发因素，占病例的13%至19%。
+(参见脊髓病变概述。）
+
+【脊髓自主神经反射异常的病理生理学】
+脊髓损伤水平以下的内脏或皮肤刺激会引起反射性交感神经活动，导致弥漫性血管收缩和血压 (BP) 升高。正常情况下，血压升高会刺激副交感神经代偿，血管舒张和血压矫正。然而，如果脊髓受伤，副交感神经反应不能在脊髓损伤下方传播，持续的血管收缩会导致持续的有害性高血压。对于低于 T10 的病变，内脏血管床的神经支配保持完整，允许该区域的代偿性副交感神经扩张。 挑衅性刺激包括中空内脏（例如肠或膀胱）的膨胀、压疮、尿路感染、骨折、内科或外科手术，甚至性交。
+
+【脊髓自主神经反射异常的症状和体征】
+自主神经反射障碍的症状是多变的、间歇性的。 并且通常突然发作。 它们包括头痛、恶心和呕吐、视力问题、鼻塞以及焦虑和厄运感。大量出汗、潮红和立毛发生在脊髓损伤水平以上；皮肤干燥、苍白的血管收缩发生在损伤水平以下。
+高血压可能导致高血压急症，出现肺水肿、颅内出血、癫痫发作、视网膜脱离、心肌梗死和死亡。
+
+【脊髓自主神经反射异常的诊断】
+病史和体格检查
+病史和体格检查
+对于 T6 水平以上的脊髓损伤、严重高血压和交感神经活动增加的患者，尤其是由空腔内脏扩张引起的患者，应怀疑自主神经反射异常。
+如果患者有 T6 或更高的脊髓病变并报告头痛，临床医生应怀疑自主神经反射异常。对于此类患者，应立即测量血压并根据需要进行纠正。 在没有脊髓损伤的患者中引起疼痛或不适的任何刺激（例如压疮、向内生长的脚趾甲）都可能导致脊髓损伤患者的自主神经反射异常。可能需要进行彻底的医学评估。
+
+【脊髓自主神经反射异常的治疗】
+刺激刺激的管理
+刺激刺激的管理
+控制血压
+控制血压
+自主神经反射障碍的治疗需要密切监测生命体征。 应纠正和/或去除挑衅性刺激。严重高血压立即用速效药物治疗，如硝酸盐、肼苯哒嗪、拉贝洛尔或硝苯地平。
+孕妇可能需要专业的产科护理。
+
+【脊髓自主神经反射异常的预防】
+使用肉毒杆菌毒素 A 对膀胱进行化学去神经已被证明在适当使用时有助于预防自主神经反射异常（即，当所有其他预防措施均无效时）(1)。
+更换膀胱导管前，膀胱内灌注利多卡因可减少膀胱扩张发作频率（2）。
+
+【预防参考文献】
+1.Walter M, Kran SL, Ramirez AL, et al.Intradetrusor OnabotulinumtoxinA Injections Ameliorate Autonomic Dysreflexia while Improving Lower Urinary Tract Function and Urinary Incontinence-Related Quality of Life in Individuals with Cervical and Upper Thoracic Spinal Cord Injury.J Neurotrauma.2020;37(18):2023-2027.doi:10.1089/neu.2020.7115
+1.Walter M, Kran SL, Ramirez AL, et al.Intradetrusor OnabotulinumtoxinA Injections Ameliorate Autonomic Dysreflexia while Improving Lower Urinary Tract Function and Urinary Incontinence-Related Quality of Life in Individuals with Cervical and Upper Thoracic Spinal Cord Injury.J Neurotrauma.2020;37(18):2023-2027.doi:10.1089/neu.2020.7115
+2.Solinsky R, Linsenmeyer TA.Intravesical lidocaine decreases autonomic dysreflexia when administered prior to catheter change.J Spinal Cord Med.Published online September 10, 2018.doi:10.1080/10790268.2018.1518764
+2.Solinsky R, Linsenmeyer TA.Intravesical lidocaine decreases autonomic dysreflexia when administered prior to catheter change.J Spinal Cord Med.Published online September 10, 2018.doi:10.1080/10790268.2018.1518764
+自主神经反射异常发生在脊髓损伤后，可导致危及生命的高血压。
+自主神经反射异常发生在脊髓损伤后，可导致危及生命的高血压。
+症状包括头痛、恶心和呕吐、视力问题、鼻塞、焦虑和厄运感、大量出汗、潮红、脊髓损伤水平以上的立毛和血管收缩，损伤水平以下皮肤干燥、苍白。
+症状包括头痛、恶心和呕吐、视力问题、鼻塞、焦虑和厄运感、大量出汗、潮红、脊髓损伤水平以上的立毛和血管收缩，损伤水平以下皮肤干燥、苍白。
+在 T6 水平以上的脊髓损伤、严重高血压和交感神经活动增加的患者中怀疑自主神经反射异常，特别是如果由空心内脏膨胀（通常由膀胱导管阻塞引起）引起。
+在 T6 水平以上的脊髓损伤、严重高血压和交感神经活动增加的患者中怀疑自主神经反射异常，特别是如果由空心内脏膨胀（通常由膀胱导管阻塞引起）引起。
+如果可能，纠正原因，并使用速效药物治疗严重的高血压。
+如果可能，纠正原因，并使用速效药物治疗严重的高血压。

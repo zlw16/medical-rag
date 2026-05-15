@@ -1,0 +1,41 @@
+标题：HTLV-1 – 相关性脊髓病/热带痉挛性截瘫 (HAM/TSP)
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/spinal-cord-disorders/htlv-1-associated-myelopathy-tropical-spastic-paraparesis-ham-tsp
+============================================================
+
+(参见脊髓病变疾病概述。）
+人类T淋巴细胞病毒1型是通过性接触、静脉注射毒品、接触感染血液或母婴哺乳传播的（1）。该病在性工作者、使用静脉注射药物的人群、接受血液透析的患者以及来自流行地区（如赤道地区、日本南部和南美洲部分地区）的人群中最为常见。
+HAM/TSP累及<2％的HTLV-1携带者。 它在女性中更为常见；这一发现与女性中较高的HTLV-1感染率一致。 HTLV-2可导致类似的疾病。
+病毒存在于血液和脑脊液（CSF）的T细胞内。CD4＋T细胞和CD8＋毒性T细胞及巨噬细胞浸润脊髓血管周围和脊髓实质，同时伴有星形细胞增多。脊髓灰质和白质内的炎症可在出现神经系统症状后数年内进展，导致脊髓侧索和后索的变性。脊髓前索的髓鞘和轴索也可受累。
+
+【参考文献】
+1.Gessain A, Cassar O.Epidemiological Aspects and World Distribution of HTLV-1 Infection.Front Microbiol.2012;3:388.Published 2012 Nov 15.doi:10.3389/fmicb.2012.00388.
+1.Gessain A, Cassar O.Epidemiological Aspects and World Distribution of HTLV-1 Infection.Front Microbiol.2012;3:388.Published 2012 Nov 15.doi:10.3389/fmicb.2012.00388.
+
+【HAM/TSP 的症状和体征】
+双下肢逐渐出现痉挛性瘫痪，并存在病理征阳性、对称性双下肢振动觉消失，及常伴跟腱反射消失。尿失禁和尿急症状常见。
+病情可在数年内进展。
+
+【HAM/TSP 的诊断】
+血清学检测及血清和脑脊液聚合酶链反应（PCR）
+血清学检测及血清和脑脊液聚合酶链反应（PCR）
+HTLV-1 相关的脊髓病/热带痉挛性截瘫由无法解释的典型神经功能缺损提示，特别是在有危险因素的患者中。
+需进一步行血清和脑脊液的血清学检查、PCR检测及脊髓MRI。如果脑脊液/血清HTLV-1抗体比值>1或PCR发现脑脊液内存在HTLV-1抗原，该诊断基本明确。该病患者的脑脊液蛋白和免疫球蛋白可有所升高，常存在寡克隆带；50%以上患者的脑脊液淋巴细胞增多。
+MRI显示脊髓萎缩和侧柱和前神经根的T2加权图像，在MRI上常表现为高信号。
+
+【HAM/TSP 的治疗】
+免疫调节或免疫抑制治疗
+免疫调节或免疫抑制治疗
+目前尚无确证有效的疗法对 HTLV-1 相关脊髓病/热带痉挛性下肢轻瘫有效，但糖皮质激素（如口服甲泼尼龙）通常作为初始治疗方案（1）。
+对于痉挛的治疗则为对症治疗（如巴氯芬、替扎尼定）。
+
+【治疗参考文献】
+1.Araujo A, Bangham CRM, Casseb J, et al.Management of HAM/TSP: Systematic Review and Consensus-based Recommendations 2019.Neurol Clin Pract.2021;11(1):49-56.doi:10.1212/CPJ.0000000000000832
+1.Araujo A, Bangham CRM, Casseb J, et al.Management of HAM/TSP: Systematic Review and Consensus-based Recommendations 2019.Neurol Clin Pract.2021;11(1):49-56.doi:10.1212/CPJ.0000000000000832
+HTLV-1 相关性脊髓病/热带痉挛性截瘫 (HAM/TSP) 影响 < 2% 的 HTLV-1 携带者，且更常见于女性。
+HTLV-1 相关性脊髓病/热带痉挛性截瘫 (HAM/TSP) 影响 < 2% 的 HTLV-1 携带者，且更常见于女性。
+症状包括双下肢逐渐出现痉挛性瘫痪，并存在足跖伸肌反应，对称性双下肢位置觉和振动觉消失，，以及跟腱反射消失。
+症状包括双下肢逐渐出现痉挛性瘫痪，并存在足跖伸肌反应，对称性双下肢位置觉和振动觉消失，，以及跟腱反射消失。
+采取血清和CSF进行血清学检测，PCR检测和MRI检查诊断。
+采取血清和CSF进行血清学检测，PCR检测和MRI检查诊断。
+皮质类固醇（如口服甲泼尼龙）可能有一些益处；用巴氯芬或替扎尼定治疗痉挛。
+皮质类固醇（如口服甲泼尼龙）可能有一些益处；用巴氯芬或替扎尼定治疗痉挛。

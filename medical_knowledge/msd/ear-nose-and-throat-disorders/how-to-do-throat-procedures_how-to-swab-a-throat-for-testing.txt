@@ -1,0 +1,82 @@
+标题：如何进行咽拭子检查
+来源：https://www.msdmanuals.cn/professional/ear-nose-and-throat-disorders/how-to-do-throat-procedures/how-to-swab-a-throat-for-testing
+============================================================
+
+检测可能涉及羊血琼脂培养基（A组β-溶血性链球菌[GABHS]）或Thayer-Martin培养基（淋病）的传统培养、快速抗原检测（GABHS）或核酸扩增试验（NAAT）（淋病、新型冠状病毒肺炎）。快速抗原检测可能出现假阴性，因此需通过培养或NAAT确认（尤其儿童）（1）。所有三项测试均使用咽拭子完成。
+(参见链球菌感染。)
+
+【咽拭子采样的适应症】
+对于患有扁桃体咽炎的患者，可能需要进行咽拭子检查，主要用于诊断：
+A 组 beta-溶血性链球菌 (GABHS) 感染
+A 组 beta-溶血性链球菌 (GABHS) 感染
+淋球菌感染
+淋球菌感染
+已知或可能接触过淋病（例如，最近的口腔-生殖器接触）的患者可能怀疑淋球菌性咽炎。
+提示需要检测 GABHS 咽炎的标准包括：≥以下 2 项：
+扁桃体渗出物
+扁桃体渗出物
+伴触痛的淋巴结肿大
+伴触痛的淋巴结肿大
+发烧（通过检查或通过病史）
+发烧（通过检查或通过病史）
+不伴咳嗽
+不伴咳嗽
+由于糖尿病或免疫功能低下而风险增加的患者的 GABHS 检测阈值可能较低。
+有时也会测试喉咙拭子，如果怀疑新冠肺炎。咽拭子也可用于诊断罕见咽炎病因，包括Fusobacterium necrophorum（坏死梭杆菌）（勒米尔综合征）、Arcanobacterium haemolyticum（溶血隐秘杆菌）及Corynebacterium diphtheria（白喉杆菌）。
+
+【咽拭子采样的禁忌症】
+对已知有出血倾向的患者进行咽拭子采样时应谨慎，因为用力过猛可能引发出血。
+
+【咽拭子检查的并发症】
+拭子可能会导致短暂的轻微呕吐。
+
+【咽拭子检查的设备】
+无菌拭子
+无菌拭子
+光源；柔性灯或头戴式照明灯（可选）
+光源；柔性灯或头戴式照明灯（可选）
+使用正在使用的特定测试套件或设施实验室提供的拭子。如果没有提供，请使用带有塑料或金属丝杆和人造丝、涤纶或海藻酸钙尖端的拭子。避免使用木制轴和/或棉头的拭子，因为这些材料可能会干扰某些检测。
+
+【咽喉拭子采样的相关解剖学】
+扁桃体位于后口咽的两侧。它们位于喉咙的前柱和后柱之间。
+扁桃体位于后口咽的两侧。它们位于喉咙的前柱和后柱之间。
+
+【咽拭子采样的定位】
+头稍微向后倾斜的坐姿
+头稍微向后倾斜的坐姿
+
+【咽喉拭子采样的分步说明】
+向患者解释该程序，包括他们可能会短暂地作呕。
+向患者解释该程序，包括他们可能会短暂地作呕。
+戴上手套和护目镜，如果考虑 COVID-19(或任何其他空气传播感染)，请戴上防护服、N95 呼吸器和面罩。
+戴上手套和护目镜，如果考虑 COVID-19(或任何其他空气传播感染)，请戴上防护服、N95 呼吸器和面罩。
+定位患者和光源以照亮后口咽部。
+定位患者和光源以照亮后口咽部。
+让患者张开嘴并通过说“aaaah”放松舌头。
+让患者张开嘴并通过说“aaaah”放松舌头。
+使用压舌板将舌头向下压。
+使用压舌板将舌头向下压。
+用拭子轻轻擦拭扁桃体和后咽部。
+用拭子轻轻擦拭扁桃体和后咽部。
+将拭子放入培养基、运输培养基或无菌试管中。
+将拭子放入培养基、运输培养基或无菌试管中。
+
+【咽拭子采集的后续护理】
+跟进测试结果。
+跟进测试结果。
+
+【咽喉拭子采样的警示和常见错误】
+拭子接触舌头或口腔黏膜（口腔两侧）
+拭子接触舌头或口腔黏膜（口腔两侧）
+没有擦拭咽部的所有 3 个部位
+没有擦拭咽部的所有 3 个部位
+
+【咽拭子采样的提示和技巧】
+迅速进行，因为患者可能会恶心。
+迅速进行，因为患者可能会恶心。
+让患者伸出舌头实际上会使舌头变硬，并使其更难看到咽部。
+让患者伸出舌头实际上会使舌头变硬，并使其更难看到咽部。
+
+【参考文献】
+1.Miller JM, Binnicker MJ, Campbell S, et al.A Guide to Utilization of the Microbiology Laboratory for Diagnosis of Infectious Diseases: 2018 Update by the Infectious Diseases Society of America and the American Society for Microbiology.Clin Infect Dis.2018;67(6):e1-e94.doi:10.1093/cid/ciy381
+1.Miller JM, Binnicker MJ, Campbell S, et al.A Guide to Utilization of the Microbiology Laboratory for Diagnosis of Infectious Diseases: 2018 Update by the Infectious Diseases Society of America and the American Society for Microbiology.Clin Infect Dis.2018;67(6):e1-e94.doi:10.1093/cid/ciy381

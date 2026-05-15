@@ -1,0 +1,106 @@
+标题：先天性脑积水
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-neurologic-anomalies/congenital-hydrocephalus
+============================================================
+
+脑积水是由于脑室内过多液体积聚产生压力，导致头颅异常增大。
+STEVE ALLEN/SCIENCE PHOTO LIBRARY
+脑积水是新生儿头部异常增大的最常见原因。仅在囟门闭合后发生的脑积水不会导致头围增大或囟门膨隆，但可能显著且迅速地升高颅内压。
+
+【先天性脑积水的病因学】
+脑积水可以是先天性的，也可以是出生时或出生后获得的。它可以分为两类：
+梗阻性脑积水：脑脊液（CSF）流动受阻的结果
+梗阻性脑积水：脑脊液（CSF）流动受阻的结果
+交通性脑积水：脑脊液吸收受损的结果
+交通性脑积水：脑脊液吸收受损的结果
+随着临床遗传学研究的深入，已知与先天性脑积水相关的基因突变数量持续增加，其中包括利用全外显子测序技术（其原理与全基因组测序相似）所发现的变异（1,2）。这些基因突变的一些例子包括：
+常染色体显性遗传：SLC12A6，编码一种氯化钾离子共转运体，或SLC12A7，一种与脑裂畸形及导水管狭窄所致梗阻性脑积水相关的伴侣分子
+常染色体显性遗传：SLC12A6，编码一种氯化钾离子共转运体，或SLC12A7，一种与脑裂畸形及导水管狭窄所致梗阻性脑积水相关的伴侣分子
+X连锁：LICAM1和AP1S2
+X连锁：LICAM1和AP1S2
+常染色体隐性遗传：CCDC88C与MPDZ
+常染色体隐性遗传：CCDC88C与MPDZ
+导致脑积水的基因突变通常也引起其他神经发育异常；遗传模式各异 （3，4）。
+
+【梗阻性脑积水】
+梗阻最常见于大脑导水管（Sylvius导水管），但有时也会发生在第4脑室的出口处（Luschka孔和Magendie孔）。
+梗阻性脑积水最常见的病因为:
+导水管狭窄
+导水管狭窄
+Dandy-Walker畸形
+Dandy-Walker畸形
+Chiari II型畸形
+Chiari II型畸形
+导水管狭窄是脑脊液从第三脑室向第四脑室的流出通道的狭窄。它可能是原发性的，也可能是继发性的，由肿瘤、出血或感染引起的导水管瘢痕形成或狭窄所致。原发性导水管狭窄可能涉及真性狭窄（导水管分叉为功能较差的细小分支）或导水管内存在隔膜。原发性脑导水管狭窄可能是遗传性的；有很多遗传综合征，其中有些是X连锁（因此男性婴儿遗传了该病，而母亲则不受累）。
+Dandy-Walker畸形包括胎儿期第四脑室的进行性囊性扩大，导致小脑蚓部完全或部分发育不全和脑积水。这很可能与胎儿Magendie孔的形成失败有关。中枢神经系统的相关异常是常见的，包括胼胝体发育不全和异位。Dandy-Walker畸形占先天性脑积水病例的5％~10％。
+对于Chiari II 畸形，脑积水伴有脊柱裂和脊髓空洞症。在Chiari I型畸形中，小脑扁桃体显著延长；或在Chiari II型畸形中，中线小脑蚓部延长，导致它们通过枕骨大孔疝出，同时伴有上丘呈喙状突起及上段颈髓增厚。
+
+【交通性脑积水】
+蛛网膜下腔吸收功能障碍通常由脑膜炎症引起，而脑膜炎症继发于感染或蛛网膜下腔出血（包括蛛网膜下腔出血或脑室内出血），这些情况是分娩并发症，尤其多见于早产儿。
+
+【病因参考文献】
+1.Greenberg ABW, Mehta NH, Allington G, Jin SC, Moreno-De-Luca A, Kahle KT.Molecular Diagnostic Yield of Exome Sequencing in Patients With Congenital Hydrocephalus: A Systematic Review and Meta-Analysis.JAMA Netw Open.2023;6(11):e2343384.Published 2023 Nov 1.doi:10.1001/jamanetworkopen.2023.43384
+1.Greenberg ABW, Mehta NH, Allington G, Jin SC, Moreno-De-Luca A, Kahle KT.Molecular Diagnostic Yield of Exome Sequencing in Patients With Congenital Hydrocephalus: A Systematic Review and Meta-Analysis.JAMA Netw Open.2023;6(11):e2343384.Published 2023 Nov 1.doi:10.1001/jamanetworkopen.2023.43384
+2.Shreeve N, Sproule C, Choy KW, et al.Incremental yield of whole-genome sequencing over chromosomal microarray analysis and exome sequencing for congenital anomalies in prenatal period and infancy: systematic review and meta-analysis.Ultrasound Obstet Gynecol.2024;63(1):15-23.doi:10.1002/uog.27491
+2.Shreeve N, Sproule C, Choy KW, et al.Incremental yield of whole-genome sequencing over chromosomal microarray analysis and exome sequencing for congenital anomalies in prenatal period and infancy: systematic review and meta-analysis.Ultrasound Obstet Gynecol.2024;63(1):15-23.doi:10.1002/uog.27491
+3.Shaheen R, Sebai MA, Patel N, et al.The genetic landscape of familial hydrocephalus.Ann Neurol.2017;81(6):890–897.doi:10.1002/ana.24964
+3.Shaheen R, Sebai MA, Patel N, et al.The genetic landscape of familial hydrocephalus.Ann Neurol.2017;81(6):890–897.doi:10.1002/ana.24964
+4.Liu XY, Song X, Czosnyka M, et al.Congenital hydrocephalus: a review of recent advances in genetic etiology and molecular mechanisms.Mil Med Res.2024;11(1):54.Published 2024 Aug 12.doi:10.1186/s40779-024-00560-5
+4.Liu XY, Song X, Czosnyka M, et al.Congenital hydrocephalus: a review of recent advances in genetic etiology and molecular mechanisms.Mil Med Res.2024;11(1):54.Published 2024 Aug 12.doi:10.1186/s40779-024-00560-5
+
+【先天性脑积水的症状与体征】
+先天性脑积水的神经系统表现取决于颅内压是否升高。
+新生儿和婴儿颅内压增高的症状包括烦躁不安、尖声啼哭、呕吐以及嗜睡。症状包括斜视、囟门膨出和癫痫发作。
+年龄较大的、能言语表达的儿童可能会出现头痛、视力下降，或两者兼有的症状。
+视乳头水肿是颅内压增高的晚期表现；其早期缺失并不能排除脑积水的可能。
+慢性脑积水的后果可能包括女孩性早熟、学习障碍（如注意力、信息处理和记忆困难）、癫痫、视力丧失和执行功能受损（如概念化、抽象、概括、推理、组织和计划信息解决问题方面的问题）。
+
+【先天性脑积水的诊断】
+产前超声检查
+产前超声检查
+对于新生儿，颅脑超声检查
+对于新生儿，颅脑超声检查
+对于年龄较大的婴儿和儿童，建议进行颅脑CT或MRI检查
+对于年龄较大的婴儿和儿童，建议进行颅脑CT或MRI检查
+产前诊断脑积水通常通过常规超声检查进行。
+出生后，若常规检查发现头围异常增大，则应怀疑存在该诊断；婴儿可能出现前囟膨出或颅缝明显分离的体征。 其他颅内占位性病变（硬膜下血肿、脑室穿通性囊肿、肿瘤等）也可引起相似的症状。巨头畸形也源于潜在的脑部疾病（如Alexander病或Canavan病），或者它可能是良性的，有时是可遗传的，其特征是正常脑组织周围的脑脊液量增加。疑似患有脑积水的儿童需要通过CT、MRI或超声（若前囟开放）进行颅脑成像检查。
+一旦诊断确立，需行CT或超声检查（囟门未闭时）以进一步随访脑积水的发展情况。如果发生癫痫发作，脑电图可能会有帮助。
+
+【先天性脑积水的治疗】
+有时随访观察或连续腰椎穿刺
+有时随访观察或连续腰椎穿刺
+对于严重病例，行心室分流术
+对于严重病例，行心室分流术
+脑积水的治疗取决于病因、病情严重度、是否为进行性（其脑室增加明显大于脑组织）。
+轻度的，非进行性的病例可随访影像学并测量头围。为暂时降低婴儿的脑脊液压力，可采用脑室穿刺术或连续腰椎穿刺（若脑积水为交通性）。这些手术通常用于治疗并可能逆转脑积水伴颅内出血。
+进展性的脑积水通常需要脑室分流。分流管通常通过一根带单向压力释放阀的塑料管，将右侧脑室与腹腔相连；少数情况下，也可能连接至右心房。当在囟门已闭合的婴儿或较大儿童体内首次置入分流管时，若快速抽出脑脊液可能导致硬膜下出血——这是因为脑组织会随着颅骨收缩而发生位移。当囟门尚未闭合时，颅骨可通过缩小周径来适应脑容量的减少；因此，部分临床医生建议尽早决定是否进行分流术，以便在囟门闭合前完成手术。
+在第3脑室造瘘术中，开口是在内镜下，在第3脑室及蛛网膜下隙之间创建，使脑脊液能够引流。此手术可与脉络丛消融术联合进行，在神经外科持续治疗和随访资源有限的地区尤其具有应用价值。 在某些情况下（例如，原发性脑导水管狭窄所引起的脑积水），第三脑室造口术可能是适当的首要治疗方法。
+一种通向帽状腱膜下间隙的脑室分流管可用于婴儿，作为那些可能不需要更永久性分流管的临时措施。
+虽然部分儿童随着年龄增长不再需要分流管，但由于存在出血和创伤风险，分流管极少被移除。
+治疗由脊柱裂（1） 或脊髓脊膜膨出（2）引起的先天性脑积水的胎儿手术已显示出改善的结局（3）。
+
+【分流术后并发症】
+使用的脑室分流术类型取决于神经外科医生的经验，但脑室-腹腔分流术比脑室-心房分流术引起的并发症更少。分流术并发症包括：
+功能障碍
+功能障碍
+任何分流术都有感染的危险。临床表现包括慢性发热、嗜睡、易激惹、头痛、癫痫发作或其他颅内压升高的症状和体征；有时在分流管的管道上可以明显看到发红。针对感染分流装置的病原体（可能包括皮肤菌群）使用有效抗生素，通常还需移除并更换分流装置。
+分流管可能因机械性阻塞（通常是脑室端堵塞）或管路断裂而发生故障。无论哪种情况，颅内压都可能升高，若突然发生，可能成为医疗急症。儿童最常见的症状包括头痛、呕吐、嗜睡、易怒、内斜视、上视麻痹或癫痫发作。若梗阻是渐进性的，则可能出现更细微的症状和体征，例如易怒、学业表现变化和嗜睡，这些可能被误诊为抑郁症。
+需进行分流管系列X光检查和神经影像学检查评估分流管功能。许多分流系统上配备的球囊按压功能并不能可靠地反映分流装置的工作状态。
+分流管置入后，需定期评估头围及发育情况，并进行影像学复查。
+
+【治疗参考文献】
+1.Sanz Cortes M, Chmait RH, Lapa DA, et al.Experience of 300 cases of prenatal fetoscopic open spina bifida repair: report of the International Fetoscopic Neural Tube Defect Repair Consortium.Am J Obstet Gynecol.2021;225(6):678.e1-678.e11.doi:10.1016/j.ajog.2021.05.044
+1.Sanz Cortes M, Chmait RH, Lapa DA, et al.Experience of 300 cases of prenatal fetoscopic open spina bifida repair: report of the International Fetoscopic Neural Tube Defect Repair Consortium.Am J Obstet Gynecol.2021;225(6):678.e1-678.e11.doi:10.1016/j.ajog.2021.05.044
+2.Kundishora AJ, Bond K, Rosenfeld M, et al.Detailed analysis of hydrocephalus patterns and associated variables in patients after open fetal repair and postnatal myelomeningocele/myeloschisis closure.Childs Nerv Syst.2025;41(1):160.Published 2025 Apr 16.doi:10.1007/s00381-025-06819-z
+2.Kundishora AJ, Bond K, Rosenfeld M, et al.Detailed analysis of hydrocephalus patterns and associated variables in patients after open fetal repair and postnatal myelomeningocele/myeloschisis closure.Childs Nerv Syst.2025;41(1):160.Published 2025 Apr 16.doi:10.1007/s00381-025-06819-z
+3.Kunpalin Y, Karadjole VS, Medeiros ESB, et al.Benefits and complications of fetal and postnatal surgery for open spina bifida: systematic review and proportional meta-analysis.Ultrasound Obstet Gynecol.Published online June 10, 2025.doi:10.1002/uog.29240
+3.Kunpalin Y, Karadjole VS, Medeiros ESB, et al.Benefits and complications of fetal and postnatal surgery for open spina bifida: systematic review and proportional meta-analysis.Ultrasound Obstet Gynecol.Published online June 10, 2025.doi:10.1002/uog.29240
+脑积水通常由脑脊液（CSF）正常流动受阻引起，但也可能源于CSF吸收障碍。
+脑积水通常由脑脊液（CSF）正常流动受阻引起，但也可能源于CSF吸收障碍。
+如果在颅缝闭合之前发生该病，头颅可能增大，伴有囟门隆起。
+如果在颅缝闭合之前发生该病，头颅可能增大，伴有囟门隆起。
+当颅内压升高时，主要会出现神经系统症状；婴儿可能表现为易激惹、尖声哭叫、呕吐、嗜睡及斜视。
+当颅内压升高时，主要会出现神经系统症状；婴儿可能表现为易激惹、尖声哭叫、呕吐、嗜睡及斜视。
+产前和产后采用超声诊断；对年龄较大的儿童则使用颅脑磁共振成像或计算机断层扫描。
+产前和产后采用超声诊断；对年龄较大的儿童则使用颅脑磁共振成像或计算机断层扫描。
+根据病因、症状的严重程度及进展情况，采取观察、连续腰椎穿刺或脑室分流术进行治疗。
+根据病因、症状的严重程度及进展情况，采取观察、连续腰椎穿刺或脑室分流术进行治疗。

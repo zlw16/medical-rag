@@ -1,0 +1,283 @@
+标题：肠胃炎概述
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/gastroenteritis/overview-of-gastroenteritis
+============================================================
+
+大多数胃肠炎发作是自限性的，但会引起不舒服的症状。对于健康的成年人而言，电解质和体液流失通常仅带来不便；但对于年龄较小（参见儿童脱水）、年长者，或免疫功能低下、伴有严重合并症的人群，此类情况可能较为严重，甚至危及生命。急性胃肠炎初步恢复后，患者还可能继发感染后肠易激综合征及消化不良（1）。
+就全球范围而言，每年约有160万人死于感染性胃肠炎（2）。尽管这一数字很高，但已明显低于既往死亡率。全球许多地区的水卫生条件改善以及针对腹泻婴儿适当使用口服补液疗法，可能是导致这一下降的原因。
+在美国，每年约有4800万人（即每6人中就有1人）感染食源性疾病（这是引起胃肠炎的病原体的主要传播途径），其中3000人因此死亡（3）。
+
+【参考文献】
+1.Porcari S, Ingrosso MR, Maida M, et al: Prevalence of irritable bowel syndrome and functional dyspepsia after acute gastroenteritis: systematic review and meta-analysis [published correction appears inGut2025 Jan 17;74(2):e12. doi: 10.1136/gutjnl-2023-331835corr1].Gut73(9):1431-1440, 2024.doi:10.1136/gutjnl-2023-331835
+1.Porcari S, Ingrosso MR, Maida M, et al: Prevalence of irritable bowel syndrome and functional dyspepsia after acute gastroenteritis: systematic review and meta-analysis [published correction appears inGut2025 Jan 17;74(2):e12. doi: 10.1136/gutjnl-2023-331835corr1].Gut73(9):1431-1440, 2024.doi:10.1136/gutjnl-2023-331835
+2.GBD 2016 Diarrhoeal Disease Collaborators: Estimates of the global, regional, and national morbidity, mortality, and aetiologies of diarrhoea in 195 countries: A systematic analysis for the Global Burden of Disease Study 2016.Lancet Infect Dis18(11):1211–1228, 2018.doi: 10.1016/S1473-3099(18)30362-1
+2.GBD 2016 Diarrhoeal Disease Collaborators: Estimates of the global, regional, and national morbidity, mortality, and aetiologies of diarrhoea in 195 countries: A systematic analysis for the Global Burden of Disease Study 2016.Lancet Infect Dis18(11):1211–1228, 2018.doi: 10.1016/S1473-3099(18)30362-1
+3.Centers for Disease Control and Prevention: About Food Safety.Accessed March 27, 2025.
+3.Centers for Disease Control and Prevention: About Food Safety.Accessed March 27, 2025.
+
+【肠胃炎的病因】
+感染性胃肠炎可以由病毒、细菌、或寄生虫引起。有关多种特异性病原微生物的深入讨论，请见感染性疾病章节。
+
+【病毒性胃肠炎】
+在美国，病毒是肠胃炎最常见的原因，而大多数病毒性肠胃炎是由以下原因引起的：
+诺如病毒
+诺如病毒
+轮状病毒
+轮状病毒
+诺如病毒影响所有年龄段的人，包括婴儿和幼儿（1，2）。疫情和流行病全年都会发生，在美国，其高峰期是在 11 月至 4 月的冬季。传播途径为直接接触、食源性或粪口途径。潜伏期为24至48小时。
+轮状病毒好发于3至15个月的婴幼儿。在疫苗使用不广泛（或曾经不广泛）的地区，轮状病毒呈现季节性流行模式。在疫苗普遍使用的地区，总体发病率较低，季节性高峰趋于平缓，并呈现两年期波动模式，即高活动年份与低活动年份交替出现（3，4）。传播途径主要为粪-口传播。潜伏期为1～3天。
+大多数其他病毒性胃肠炎感染是由星状病毒或肠道腺病毒引起的。
+星状病毒感染见于任何年龄段，但主要影响婴儿及幼儿。在温带气候中，感染在冬季最常见，而在热带地区，感染在夏季更常见。通过粪-口途径传播。潜伏期3～4天 (5)。
+腺病毒是儿童病毒性胃肠炎中第4位最常见病因。感染全年发生，夏季略有增加。年龄<2岁的孩子们最常受影响。传播是通过粪口途径以及呼吸道飞沫传播。潜伏期为3到10天 (6)。
+病毒感染小肠绒毛状上皮细胞。 结果是液体和电解质渗入肠腔；有时，受累肠道吸收不良导致的未吸收碳水化合物随后通过引起渗透性腹泻使症状恶化。腹泻呈水样。炎症性腹泻（痢疾），粪便中可见白细胞和红细胞或肉眼可见的血液，这种情况不常见。
+在免疫功能缺陷的病人中，其他病毒（如，巨细胞病毒、肠病毒）也会导致胃肠炎。
+
+【细菌性胃肠炎】
+常见的细菌有：
+弯曲杆菌
+弯曲杆菌
+艰难梭菌
+艰难梭菌
+大肠杆菌（尤其是O157:H7血清型）
+大肠杆菌（尤其是O157:H7血清型）
+沙门氏菌
+沙门氏菌
+葡萄球菌属，导致葡萄球菌食物中毒
+葡萄球菌属，导致葡萄球菌食物中毒
+细菌性胃肠炎比病毒性胃肠炎少见。细菌性胃肠炎有多种发病机制 (7)。
+肠毒素由部分菌种（如，Vibrio cholerae（霍乱弧菌）,产肠毒素性E. coli（大肠杆菌））产生，它们黏附而不侵入肠黏膜。肠毒素破坏肠道吸收功能，通过刺激腺苷环化酶致水、电解质分泌，导致水样泻。艰难梭菌也会产生类似的毒素。
+某些细菌会产生外毒素，这些毒素可通过受污染的食物摄入（例如Staphylococcus aureus（金黄色葡萄球菌）、Bacillus cereus（蜡样芽孢杆菌）、Clostridium perfringens（产气荚膜梭菌）)。无细菌感染时，外毒素也可以导致胃肠炎。这些毒素通常会在摄入污染食物12小时内，引起恶心、呕吐、腹泻等症状。症状在36小时内缓解。
+其他粘膜侵袭性细菌（如Shigella（志贺菌）、Salmonella（沙门氏菌）、Campylobacte（弯曲杆菌）、C. difficile（艰难梭菌），部分E. coli（大肠杆菌）亚型）侵入小肠或结肠黏膜，引起溃疡、出血、富含蛋白的液体渗出，以及电解质和水的分泌。不管病原微生物是否产生肠毒素，都可能出现这样的侵袭过程及其后果。由此产生的腹泻证明了这种侵袭和炎症，显微镜下可见白细胞和红细胞，有时还有肉眼可见的血液。
+在美国沙门氏菌和弯曲杆菌是引起腹泻的常见细菌。这两种感染都常来自于未煮熟的家禽，未经巴氏消毒的牛奶也是一种可能的来源。Campylobacter（弯曲杆菌）偶尔可通过腹泻的狗或猫进行传播。Salmonella（沙门氏菌）可通过食用欠熟的鸡蛋或接触爬行动物、鸟类或两栖动物感染。
+志贺氏菌在美国也是引起腹泻的常见细菌，通常是人际传播，但也可爆发食源性疫情。1型Shigella dysenteriae（痢疾志贺氏菌）在美国较为罕见(8)，其产生的志贺毒素可引发溶血性尿毒症综合征。
+大肠杆菌肠胃炎可由多种不同亚型的细菌引起。不同亚型感染的流行病学特点及临床表现也不同。
+过去，Clostridioides difficile（艰难梭菌）感染几乎仅见于接受抗生素治疗的住院患者。随着21世纪头十年末美国高毒性NAP1菌株的出现，现在出现了许多社区相关性病例。C. difficile（艰难梭菌）目前可能是美国最常见的细菌性腹泻病因（9）。
+
+【经验与提示】
+经验与提示
+C. difficile（艰难梭菌）目前可能是美国最常见的细菌性腹泻病因。
+C. difficile（艰难梭菌）目前可能是美国最常见的细菌性腹泻病因。
+其他几种细菌会引起肠胃炎，但大多数在美国并不常见。Yersinia enterocolitica（小肠结肠炎耶尔森菌）可引起胃肠炎或类似阑尾炎的综合征，因为患者可能会在右下腹疼痛。它通过未煮熟的猪肉、未经巴氏消毒的牛奶或受污染的水传播。食用未煮熟的海鲜后可感染Vibrio（弧菌）属（如V. parahaemolyticus（副溶血性弧菌）），进而引起腹泻。霍乱弧菌在人们无法获得清洁饮用水和对人类排泄物进行卫生处理的地区，有时会导致严重的脱水性腹泻，这在自然灾害后或难民营中尤其令人担忧。李斯特菌很少会导致食源性胃肠炎，但更易导致孕妇，新生儿（见新生儿李斯特菌病）或老年人的血流感染或脑膜炎。Aeromonas（产气单胞菌）感染可由在污染水源中游泳或饮用污染的淡水或咸水所致。Plesiomonas shigelloides（类志贺邻单胞菌）可导致食用过生贝类或去过东南亚热带地区和非洲的患者出现腹泻（10）。
+
+【寄生虫性胃肠炎】
+在发达国家最常见的寄生虫是：
+贾地鞭毛虫
+贾地鞭毛虫
+隐孢子虫
+隐孢子虫
+某些肠道寄生虫，尤其是Giardia intestinalis（肠贾第鞭毛虫）(G. lamblia（蓝氏贾第鞭毛虫）)可黏附肠道黏膜，从而引起恶心、呕吐、腹泻和全身不适。贾第鞭毛虫病在美国及全球范围均可见。感染可能会变成慢性，并可能导致吸收不良综合征。通常通过人际传播（常见于日间护理中心）或摄入受污染水源或食物中的包囊所致 (11)。
+Cryptosporidium parvum（小隐孢子虫）可引起水样泻，伴腹部绞痛、恶心和呕吐。在健康者中，疾病多呈自限性，持续2周左右。但免疫缺陷患者病情可能较严重且病程延长，造成水、电解质大量丢失。Cryptosporidium（隐孢子虫）通常通过受污染的水源感染。因氯气难以将其杀灭，故在美国，隐孢子虫是游乐设施用水传播疾病的最常见病因，导致大约四分之三的疫情爆发。
+其他可能引起与隐孢子虫病相似症状的寄生虫包括Cyclospora cayetanensis（卡耶塔环孢子虫），以及在免疫功能低下患者中出现的Cystoisospora (Isospora) belli（贝氏等孢球虫）和一类统称为microsporidia（微孢子虫）的生物（例如，Enterocytozoon bieneusi（比氏肠微孢子虫）、Encephalitozoon intestinalis（肠脑炎微孢子虫）)。溶组织内阿米巴（见阿米巴病）是在卫生条件差的地区导致亚急性血性腹泻的常见病因，但在美国较为罕见。阿米巴病可引起类似溃疡性肠炎的溃疡性结肠炎，在考虑该诊断时必须鉴别阿米巴病。
+
+【病因参考文献】
+1.Flynn TG, Olortegui MP, Kosek MN: Viral gastroenteritis.Lancet403(10429):862-876, 2024.doi:10.1016/S0140-6736(23)02037-8
+1.Flynn TG, Olortegui MP, Kosek MN: Viral gastroenteritis.Lancet403(10429):862-876, 2024.doi:10.1016/S0140-6736(23)02037-8
+2.Zhang P, Hao C, Di X, et al: Global prevalence of norovirus gastroenteritis after emergence of the GII.4 Sydney 2012 variant: a systematic review and meta-analysis.Front Public Health12:1373322, 2024.doi:10.3389/fpubh.2024.1373322
+2.Zhang P, Hao C, Di X, et al: Global prevalence of norovirus gastroenteritis after emergence of the GII.4 Sydney 2012 variant: a systematic review and meta-analysis.Front Public Health12:1373322, 2024.doi:10.3389/fpubh.2024.1373322
+3.Hallowell BD, Parashar UD, Curns A, DeGroote NP, Tate JE: Trends in the Laboratory Detection of Rotavirus Before and After Implementation of Routine Rotavirus Vaccination - United States, 2000-2018.MMWR Morb Mortal Wkly Rep68(24):539-543, 2019.doi:10.15585/mmwr.mm6824a2
+3.Hallowell BD, Parashar UD, Curns A, DeGroote NP, Tate JE: Trends in the Laboratory Detection of Rotavirus Before and After Implementation of Routine Rotavirus Vaccination - United States, 2000-2018.MMWR Morb Mortal Wkly Rep68(24):539-543, 2019.doi:10.15585/mmwr.mm6824a2
+4.Sun ZW, Fu Y, Lu HL, et al: Association of Rotavirus Vaccines With Reduction in Rotavirus Gastroenteritis in Children Younger Than 5 Years: A Systematic Review and Meta-analysis of Randomized Clinical Trials and Observational Studies.JAMA Pediatr175(7):e210347, 2021.doi:10.1001/jamapediatrics.2021.0347
+4.Sun ZW, Fu Y, Lu HL, et al: Association of Rotavirus Vaccines With Reduction in Rotavirus Gastroenteritis in Children Younger Than 5 Years: A Systematic Review and Meta-analysis of Randomized Clinical Trials and Observational Studies.JAMA Pediatr175(7):e210347, 2021.doi:10.1001/jamapediatrics.2021.0347
+5.Vu DL, Bosch A, Pintó RM, Guix S: Epidemiology of Classic and Novel Human Astrovirus: Gastroenteritis and Beyond.Viruses9(2):33, 2017.doi:10.3390/v9020033
+5.Vu DL, Bosch A, Pintó RM, Guix S: Epidemiology of Classic and Novel Human Astrovirus: Gastroenteritis and Beyond.Viruses9(2):33, 2017.doi:10.3390/v9020033
+6.Shieh WJ: Human adenovirus infections in pediatric population - An update on clinico-pathologic correlation.Biomed J45(1):38-49, 2022.doi:10.1016/j.bj.2021.08.009
+6.Shieh WJ: Human adenovirus infections in pediatric population - An update on clinico-pathologic correlation.Biomed J45(1):38-49, 2022.doi:10.1016/j.bj.2021.08.009
+7.Fleckenstein JM, Matthew Kuhlmann F, Sheikh A: Acute Bacterial Gastroenteritis.Gastroenterol Clin North Am50(2):283-304, 2021.doi:10.1016/j.gtc.2021.02.002
+7.Fleckenstein JM, Matthew Kuhlmann F, Sheikh A: Acute Bacterial Gastroenteritis.Gastroenterol Clin North Am50(2):283-304, 2021.doi:10.1016/j.gtc.2021.02.002
+8.Centers for Disease Control and Prevention (CDC): Clinical Overview of Shigellosis.Accessed April 3, 2025.
+8.Centers for Disease Control and Prevention (CDC): Clinical Overview of Shigellosis.Accessed April 3, 2025.
+9.Johnson S, Lavergne V, Skinner AM, et al: Clinical practice guideline by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA): 2021 focused update guidelines on management ofClostridioides difficileinfection in adults.Clin Infect Disciab549, 2021.doi: 10.1093/cid/ciab549
+9.Johnson S, Lavergne V, Skinner AM, et al: Clinical practice guideline by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA): 2021 focused update guidelines on management ofClostridioides difficileinfection in adults.Clin Infect Disciab549, 2021.doi: 10.1093/cid/ciab549
+10.Janda JM, Abbott SL, McIver CJ: Plesiomonas shigelloides Revisited.Clin Microbiol Rev29(2):349-374, 2016.doi:10.1128/CMR.00103-15
+10.Janda JM, Abbott SL, McIver CJ: Plesiomonas shigelloides Revisited.Clin Microbiol Rev29(2):349-374, 2016.doi:10.1128/CMR.00103-15
+11.Lagunas-Rangel FA, Kameyama-Kawabe LY, Bermúdez-Cruz RM: Giardiavirus: an update.Parasitol Res120(6):1943-1948, 2021.doi:10.1007/s00436-021-07167-y
+11.Lagunas-Rangel FA, Kameyama-Kawabe LY, Bermúdez-Cruz RM: Giardiavirus: an update.Parasitol Res120(6):1943-1948, 2021.doi:10.1007/s00436-021-07167-y
+
+【胃肠炎的症状和体征】
+胃肠炎症状的特征和轻重程度不一。
+总体而言，症状为骤然起病，伴有厌食、恶心、呕吐、腹部绞痛和腹泻（伴或不伴血和黏液）。 可能会出现不适和肌痛。 可有腹胀及轻度腹部压痛；严重患者可能有肌卫。有时可触及胀气肠袢。即使无腹泻，听诊可闻及肠鸣音亢进（这是与麻痹性肠梗阻鉴别的重要体征，后者肠鸣音消失或减弱）。持续呕吐和腹泻可导致血管内液丢失，出现低血压、心动过速。严重病例可能出现低血容量性休克伴血管塌陷和少尿性急性肾损伤或肾衰竭。
+如果呕吐是液体丢失的主要原因，则可能发生伴有低氯血症的代谢性碱中毒。腹泻越明显，越容易出现代谢性酸中毒。呕吐、腹泻都会导致低钾血症。也可出现低钠血症，特别是用低渗性液体补液时易发生。
+
+【病毒性胃肠炎】
+病毒感染时，水样泻是最常见的症状；大便很少有黏液或血。有关诺如病毒和轮状病毒的特定表现，请参阅诺如病毒胃肠炎和轮状病毒胃肠炎。
+腺病毒胃肠炎的特征为腹泻持续1～2周。受影响的婴幼儿和儿童可能出现轻微呕吐，通常在腹泻开始1～2天后发生。许多患者会出现低热。可能存在呼吸系统症状。症状通常较轻微，但与其他病毒引起的胃肠炎相比持续时间可能更长 (1)。
+星状病毒可引起类似轻度轮状病毒感染的综合征。
+巨细胞病毒可引起免疫功能低下患者的血性腹泻。
+
+【细菌性胃肠炎】
+侵袭性细菌（如志贺氏菌,沙门氏菌）感染后更容易发生发热、虚脱和血性腹泻。
+E. coli（大肠杆菌）O157:H7感染通常始于严重的腹部绞痛和水样腹泻，持续1至2天，随后出现血性腹泻。无发热或仅为低热。
+C. difficile（艰难梭菌）感染的疾病谱范围广泛，可从轻微的腹部绞痛和含黏液的腹泻到严重的出血性结肠炎和休克。
+产肠毒素细菌（如金黄色葡萄球菌、蜡状芽孢杆菌、产气荚膜杆菌）通常会引起水样泻。S. aureus和一些B. cereus菌株主要引起呕吐。
+
+【寄生虫性胃肠炎】
+寄生虫感染通常引起亚急性或慢性腹泻。多数导致非出血性腹泻；除了E. histolytica（溶组织内阿米巴），可引起阿米巴性痢疾（见阿米巴病）。若腹泻持续，常见疲劳及体重下降。
+
+【症状和体征参考文献】
+1.Shieh WJ: Human adenovirus infections in pediatric population - An update on clinico-pathologic correlation.Biomed J45(1):38-49, 2022.doi:10.1016/j.bj.2021.08.009
+1.Shieh WJ: Human adenovirus infections in pediatric population - An update on clinico-pathologic correlation.Biomed J45(1):38-49, 2022.doi:10.1016/j.bj.2021.08.009
+
+【胃肠炎的诊断】
+病史和体格检查
+病史和体格检查
+部分病例行粪便检查
+部分病例行粪便检查
+必须排除其他引起类似症状的胃肠道疾病（例如，阑尾炎、胆囊炎、溃疡性结肠炎）（参见腹泻评估）。
+提示胃肠炎的结果包括：
+大量水样腹泻
+大量水样腹泻
+摄入可能受污染的食物（特别是在已知的疫情爆发期间）、未经处理的地表水或已知的胃肠道刺激物
+摄入可能受污染的食物（特别是在已知的疫情爆发期间）、未经处理的地表水或已知的胃肠道刺激物
+最近的旅行
+最近的旅行
+接触感染者或某些动物
+接触感染者或某些动物
+E. coli（大肠杆菌）O157:H7引发的腹泻以酷似出血性而非感染性过程而著称，表现为胃肠道出血，粪便极少或无。溶血尿毒综合征可能随之发生，表现为肾衰竭和溶血性贫血。
+最近3个月内口服抗生素的使用史必须引起对C. difficile（艰难梭菌）感染的怀疑。然而，五分之一至三分之一的社区相关性艰难梭菌感染患者并无近期抗生素使用史（1、2、3）。
+
+【粪便检查】
+粪便检测应根据临床发现以及基于患者病史和流行病学因素（如免疫抑制、暴露于已知暴发疫情、近期旅行、近期抗生素使用）所怀疑的病原体进行 (4)。病例通常分为：
+急性水样腹泻
+急性水样腹泻
+亚急性或慢性水样腹泻
+亚急性或慢性水样腹泻
+急性炎症性腹泻
+急性炎症性腹泻
+能够识别上述每一类致病微生物的多重聚合酶链反应检测板正得到越来越广泛的应用（5）。 但这种测试昂贵，而且由于临床上可以对这些类型加以鉴别区分，或者疾病的病程是自限性的，因此根据腹泻类型和持续时间来检测特定病原体通常更具成本效益。另外，聚合酶链式反应检测无法像细菌培养那样提供抗生素敏感性试验结果。
+急性水样腹泻可能是病毒性的，除非腹泻持续存在，否则无需进行检测。市场上已有快速检测粪便中轮状病毒和肠腺病毒抗原的方法，但很少需要用到这些检测方法。
+亚急性和慢性水样腹泻需要检测寄生虫，典型的方法是在显微镜下检测虫卵或寄生虫。粪便抗原测试可用于检测贾第鞭毛虫,隐孢子虫, 和溶组织内阿米巴，比显微镜下的粪便检测更加敏感。
+无肉眼血便的急性炎症性腹泻可以通过检查粪便中有无白细胞以识别。患者应进行粪便培养以检测典型的肠道病原体（例如，Salmonella（沙门氏菌）、Shigella（志贺氏菌）、Campylobacter（弯曲杆菌）、E. coli（大肠杆菌）)。
+急性炎症性腹泻伴肉眼血便患者应立即进行E. coli（大肠杆菌）O157:H7的专门检测，已知暴发期间的非血性腹泻患者也应进行检测。该细菌无法在普通粪便培养基中生长，所以需用特殊培养基。另外，还可以进行粪便中志贺毒素的快速酶检测；阳性结果表明感染了产志贺毒素的大肠杆菌O157:H7 或其他肠出血性大肠杆菌血清型。然而，快速酶试验检测敏感度低于粪便培养。在一些中心，聚合酶链反应测试用于检测志贺毒素。
+有严重血性腹泻的成人可能需要内窥镜检查（乙状结肠镜检查或结肠镜检查）以进行进一步评估。 内窥镜检查的适应人群包括高危患者，例如有炎症性肠病或免疫功能低下病史的患者（在疑似巨细胞病毒结肠炎的情况下）。结肠黏膜外观有助于阿米巴痢疾、志贺菌病、E. coli（大肠杆菌）O157:H7感染的诊断，但溃疡性结肠炎可有类似黏膜损害。活检和培养有助于诊断。
+患者有{近期抗生素使用史}或感染C. difficile（艰难梭菌）的其他危险因素（如炎症性肠病、使用质子泵抑制剂）应进行粪便C. difficile（艰难梭菌）毒素检测。但即使这些危险因素不存在，病情严重的患者也应进行检测，因为目前约25%的C. difficile（艰难梭菌）感染发生在没有明确危险因素的人群中（1、2、6）。既往，毒素A和B的酶免疫分析测定被用于诊断C. difficile（艰难梭菌）感染。然而，针对C. difficile（艰难梭菌）毒素基因或其调节因子之一的核酸扩增试验，是大多数情况下的首选诊断测试。
+
+【常规检查】
+应进行血电解质、血尿素氮（BUN）、肌酐检查，以评估明显体液不足患者的体液及酸碱平衡状态。
+全血细胞计数（CBC）无特异性，但嗜酸性粒细胞增多可提示寄生虫感染。
+E. coli（大肠杆菌）O157:H7感染患者出现症状约一周后，应进行肾功能检查和全血细胞计数，以发现早发性溶血性尿毒症综合征。
+
+【诊断参考】
+1.Chitnis AS, Holzbauer SM, Belflower RM, et al: Epidemiology of community-associatedClostridium difficileinfection, 2009 through 2011.JAMA Intern Med173(14):1359-1367, 2013.doi:10.1001/jamainternmed.2013.7056
+1.Chitnis AS, Holzbauer SM, Belflower RM, et al: Epidemiology of community-associatedClostridium difficileinfection, 2009 through 2011.JAMA Intern Med173(14):1359-1367, 2013.doi:10.1001/jamainternmed.2013.7056
+2.Guh AY, Adkins SH, Li Q, et al: Risk Factors for Community-AssociatedClostridium difficileInfection in Adults: A Case-Control Study.Open Forum Infect Dis4(4):ofx171, 2017.doi:10.1093/ofid/ofx171
+2.Guh AY, Adkins SH, Li Q, et al: Risk Factors for Community-AssociatedClostridium difficileInfection in Adults: A Case-Control Study.Open Forum Infect Dis4(4):ofx171, 2017.doi:10.1093/ofid/ofx171
+3.Guh AY, Mu Y, Winston LG, et al: Trends in U.S. Burden ofClostridioides difficileInfection and Outcomes.N Engl J Med382(14):1320-1330, 2020.doi:10.1056/NEJMoa1910215
+3.Guh AY, Mu Y, Winston LG, et al: Trends in U.S. Burden ofClostridioides difficileInfection and Outcomes.N Engl J Med382(14):1320-1330, 2020.doi:10.1056/NEJMoa1910215
+4.Riddle MS, DuPont HL, Connor BA: ACG Clinical Guideline: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults.Am J Gastroenterol111(5):602-622, 2016.doi:10.1038/ajg.2016.126
+4.Riddle MS, DuPont HL, Connor BA: ACG Clinical Guideline: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults.Am J Gastroenterol111(5):602-622, 2016.doi:10.1038/ajg.2016.126
+5.Torres-Miranda D, Akselrod H, Karsner R, et al: Use of BioFire FilmArray gastrointestinal PCR panel associated with reductions in antibiotic use, time to optimal antibiotics, and length of stay.BMC Gastroenterol20(1):246, 2020.doi: 10.1186/s12876-020-01394-w
+5.Torres-Miranda D, Akselrod H, Karsner R, et al: Use of BioFire FilmArray gastrointestinal PCR panel associated with reductions in antibiotic use, time to optimal antibiotics, and length of stay.BMC Gastroenterol20(1):246, 2020.doi: 10.1186/s12876-020-01394-w
+6.Bai M, Guo H, Zheng XY: Inflammatory bowel disease andClostridium difficileinfection: clinical presentation, diagnosis, and management.Therap Adv Gastroenterol16:17562848231207280, 2023.doi:10.1177/17562848231207280
+6.Bai M, Guo H, Zheng XY: Inflammatory bowel disease andClostridium difficileinfection: clinical presentation, diagnosis, and management.Therap Adv Gastroenterol16:17562848231207280, 2023.doi:10.1177/17562848231207280
+
+【肠胃炎的治疗】
+口服或者静脉补液
+口服或者静脉补液
+考虑使用止泻（抑制肠道蠕动）药物，除非怀疑有C. difficile（艰难梭菌）或E. coli（大肠杆菌）O157:H7感染
+考虑使用止泻（抑制肠道蠕动）药物，除非怀疑有C. difficile（艰难梭菌）或E. coli（大肠杆菌）O157:H7感染
+仅部分病例需抗生素治疗
+仅部分病例需抗生素治疗
+大多数病人都需支持疗法。患者需要卧床休息，若如厕不方便则使用便盆。补液对于治疗脱水以及避免不必要的住院至关重要。止泻药、止吐药和益生菌可能有用。抗菌药物可用于疑似或确诊细菌感染的特定病例。
+
+【对症治疗】
+止泻（抑制肠道蠕动）药物不建议用于18岁以下儿童的急性腹泻。2岁以下儿童禁用止泻药。 这些药物对于水样腹泻（如血红素阴性粪便所示）的成年患者通常是安全的。 然而，止泻药可能会使艰难梭菌或O157:H7型大肠杆菌感染的患者病情恶化，因此，在未确诊之前，不应给任何近期使用过抗生素、粪便隐血阳性或血便、或腹泻伴发热的患者使用止泻药(1)。
+有效的止泻药物包括洛哌丁胺或二苯氧基酯/阿托品。
+如果呕吐严重且已排除外科急症（例如，小肠梗阻），使用止吐药可能有益。对成人有用的药物包括昂丹司琼、丙氯拉嗪和异丙嗪。儿童使用昂丹司琼已被证实可减少静脉补液需求并预防住院(2)。
+
+【经验与提示】
+经验与提示
+对于疑似艰难梭菌或大肠埃希菌O157:H7 感染的成人（如近期使用抗生素、出现血性腹泻、粪便潜血阳性或伴有发热的腹泻），以及儿童患者，禁用止泻药（肠蠕动抑制剂）。
+对于疑似艰难梭菌或大肠埃希菌O157:H7 感染的成人（如近期使用抗生素、出现血性腹泻、粪便潜血阳性或伴有发热的腹泻），以及儿童患者，禁用止泻药（肠蠕动抑制剂）。
+24 小时后仍呕吐的儿童需要重新评估。
+尽管益生菌似乎能短暂缩短腹泻持续时间，但尚无充分证据表明其会影响主要临床结局（例如，减少静脉补液需求和/或住院需求），因此不支持在感染性腹泻的治疗或预防中常规使用（3、4）。
+口服葡萄糖电解质溶液、肉汤或清汤，可预防或治疗轻度脱水。若儿童无法获得补液溶液，稀释的苹果汁或患儿偏好的其他液体也是合理的选择(5)。若幼儿为母乳喂养，应继续母乳喂养。
+即使有呕吐症状的患者，也应在呕吐间隙少量多次地喝一些此类液体；通过补充液体量，呕吐症状可能会减轻。对于感染E. coli（大肠杆菌）O157:H7的患者，若发生溶血尿毒综合征，使用等渗静脉输液进行补液可以减轻肾功能损伤的严重程度。儿童可能会更快脱水，应给予适当的补液溶液（有几种可在市场上买到——见口服补液）。若呕吐持续、出现严重脱水或无法耐受口服补液，需静脉补充水及电解质（见静脉输液复苏）。
+当患者可耐受补液并无呕吐，且开始有食欲，则可逐渐恢复饮食。 尽管普遍推荐，但没有证明将饮食限制在清淡的食物（例如，谷物、明胶、香蕉、吐司）上有任何好处。 部分患者可出现暂时性乳糖不耐受。
+通常不推荐经验性使用抗生素，但以下情况除外：某些旅行者腹泻病例，当高度怀疑Shigella（志贺菌）或Campylobacter（弯曲菌）感染时（例如，与已知病例接触），或者如果患者在国际旅行后发展为败血症（6）。否则，在粪便培养结果出来之前不应给予抗生素，尤其是在儿童中，因为他们感染E. coli（大肠杆菌）O157:H7的几率较高（抗生素会增加感染E. coli（大肠杆菌）O157:H7的患者发生溶血性尿毒症综合征的风险）。
+即使证实有细菌感染，也不总是需要使用抗生素。抗生素无益于沙门氏菌感染，反而延长大便排菌时间。但免疫抑制状态的宿主、新生儿和沙门氏菌血症的患者除外。抗生素对毒性胃肠炎同样无效（如S. aureus（金黄色葡萄球菌）、B. cereus（蜡样芽孢杆菌）、C. perfringens（产气荚膜梭菌））。不加分辨地使用抗生素可导致耐药菌株的出现，增加了副作用的风险，并增加了C. difficile（艰难梭菌）感染的可能性。然而，某些感染确实需要使用抗生素（见表感染性胃肠炎的治疗）。
+C. difficile（艰难梭菌）性结肠炎的初始处理措施包括在可能的情况下停用致病抗生素。治疗C. difficile（艰难梭菌）结肠炎的药物首选口服万古霉素，疗效优于甲硝唑。不幸的是，约20％接受万古霉素治疗的患者会复发。非达霉素的复发率可能略低于万古霉素或者甲硝唑。美国传染病学会（IDSA）和美国医疗保健流行病学学会（SHEA）2021年指南推荐非达霉素作为C. difficile（艰难梭菌）感染新发和复发病例的首选一线治疗(7)。单克隆抗体可用于患者以预防复发风险，尤其在重症病例中(8)。用于预防和治疗艰难梭菌感染的疫苗正在研究中（9）。
+多家中心对多次复发C. difficile（艰难梭菌）性结肠炎的患者使用粪便微生物移植(FMT)治疗。该疗法总体上已被证明是安全有效的。尽管对粪便样本进行了质量控制和筛查，但接受供体粪便仍存在风险，应逐例评估粪菌移植的风险与获益（参见复发性艰难梭菌所致腹泻的治疗）（10）（11）。复发性艰难梭菌感染患者的粪菌治疗可采用口服胶囊或灌肠的方式(12,13)。
+对于隐孢子虫病，硝唑尼特一个疗程可能对免疫功能低下的患者有帮助。甲硝唑或硝唑尼特可治疗贾第鞭毛虫病。
+
+【感染性胃肠炎的治疗*】
+感染性胃肠炎的治疗*
+抗生素（或其他疗法）
+空肠弯曲杆菌
+阿奇霉素
+环丙沙星†
+霍乱（霍乱弧菌）‡
+环丙沙星
+多西环素 §
+阿奇霉素
+艰难梭菌
+非达霉素
+万古霉素
+甲硝唑 ‖
+单克隆抗体（用于严重感染，预防复发）
+粪便微生物移植
+痢疾阿米巴
+甲硝唑 ¶
+替硝唑 ¶
+Giardia intestinalis（肠贾地鞭毛虫）(G. lamblia（蓝氏贾第鞭毛虫））
+硝唑尼特
+环丙沙星
+阿奇霉素
+*大部分情况下无需抗生素，但在特殊病原体感染时，可辅助静脉输液使用抗生素进行治疗。
+†耐药率上升。
+‡ 抗生素的选择应在药敏试验的指导下进行，因为多西环素、氟喹诺酮类药物和磺胺甲恶唑/甲氧苄啶（SMX/TMP）的耐药性在某些地区和菌株中正在增加。一般来说，多西环素是非妊娠期成人的一线推荐抗生素。阿奇霉素是儿童和孕妇的一线用药，其他人则是二线用药。其他建议不尽相同，但如果疫情暴发菌株对药物敏感，SMX/TMP通常是儿童的二线抗生素。环丙沙星在非妊娠成人中是二线或三线用药，虽然通常避免用于儿童，但如果菌株对SMX/TMP耐药，则可作为二线药物使用。
+§该抗生素不能用于孕妇
+‖不推荐使用甲硝唑，但可用于不耐受万古霉素和非达霉素的患者。
+¶ 治疗后应使用20天的碘喹啉疗程或7天的帕罗霉素疗程。
+*大部分情况下无需抗生素，但在特殊病原体感染时，可辅助静脉输液使用抗生素进行治疗。
+†耐药率上升。
+‡ 抗生素的选择应在药敏试验的指导下进行，因为多西环素、氟喹诺酮类药物和磺胺甲恶唑/甲氧苄啶（SMX/TMP）的耐药性在某些地区和菌株中正在增加。一般来说，多西环素是非妊娠期成人的一线推荐抗生素。阿奇霉素是儿童和孕妇的一线用药，其他人则是二线用药。其他建议不尽相同，但如果疫情暴发菌株对药物敏感，SMX/TMP通常是儿童的二线抗生素。环丙沙星在非妊娠成人中是二线或三线用药，虽然通常避免用于儿童，但如果菌株对SMX/TMP耐药，则可作为二线药物使用。
+§该抗生素不能用于孕妇
+‖不推荐使用甲硝唑，但可用于不耐受万古霉素和非达霉素的患者。
+¶ 治疗后应使用20天的碘喹啉疗程或7天的帕罗霉素疗程。
+
+【治疗参考文献】
+1.Shane AL, Mody RK, Crump JA, et al: 2017 Infectious Diseases Society of America Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea.Clin Infect Dis65(12):e45-e80, 2017.doi:10.1093/cid/cix669
+1.Shane AL, Mody RK, Crump JA, et al: 2017 Infectious Diseases Society of America Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea.Clin Infect Dis65(12):e45-e80, 2017.doi:10.1093/cid/cix669
+2.Niño-Serna LF, Acosta-Reyes J, Veroniki AA, Florez ID: Antiemetics in Children With Acute Gastroenteritis: A Meta-analysis.Pediatrics145(4):e20193260, 2020.doi:10.1542/peds.2019-3260
+2.Niño-Serna LF, Acosta-Reyes J, Veroniki AA, Florez ID: Antiemetics in Children With Acute Gastroenteritis: A Meta-analysis.Pediatrics145(4):e20193260, 2020.doi:10.1542/peds.2019-3260
+3.Preidis GA, Weizman AV, Kashyap PC, Morgan RL: AGA technical review on the role of probiotics in the management of gastrointestinal disorders.Gastroenterology159(2):708–738.e4, 2020.doi: 10.1053/j.gastro.2020.05.060
+3.Preidis GA, Weizman AV, Kashyap PC, Morgan RL: AGA technical review on the role of probiotics in the management of gastrointestinal disorders.Gastroenterology159(2):708–738.e4, 2020.doi: 10.1053/j.gastro.2020.05.060
+4.Nelwan EJ, Herdiman A, Kalaij AGI, Lauditta RK, Yusuf SM, Suarthana E: Role of probiotic as adjuvant in treating various infections: a systematic review and meta-analysis.BMC Infect Dis24(1):505, 2024.doi:10.1186/s12879-024-09259-3
+4.Nelwan EJ, Herdiman A, Kalaij AGI, Lauditta RK, Yusuf SM, Suarthana E: Role of probiotic as adjuvant in treating various infections: a systematic review and meta-analysis.BMC Infect Dis24(1):505, 2024.doi:10.1186/s12879-024-09259-3
+5.Freedman SB, Willan AR, Boutis K, Schuh S: Effect of Dilute Apple Juice and Preferred Fluids vs Electrolyte Maintenance Solution on Treatment Failure Among Children With Mild Gastroenteritis: A Randomized Clinical Trial.JAMA315(18):1966-1974, 2016.doi:10.1001/jama.2016.5352
+5.Freedman SB, Willan AR, Boutis K, Schuh S: Effect of Dilute Apple Juice and Preferred Fluids vs Electrolyte Maintenance Solution on Treatment Failure Among Children With Mild Gastroenteritis: A Randomized Clinical Trial.JAMA315(18):1966-1974, 2016.doi:10.1001/jama.2016.5352
+6.Riddle MS, DuPont HL, Connor BA: ACG Clinical Guideline: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults.Am J Gastroenterol111(5):602-622, 2016.doi:10.1038/ajg.2016.126
+6.Riddle MS, DuPont HL, Connor BA: ACG Clinical Guideline: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults.Am J Gastroenterol111(5):602-622, 2016.doi:10.1038/ajg.2016.126
+7.Johnson S, Lavergne V, Skinner AM, et al: Clinical Practice Guideline by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA): 2021 Focused update guidelines on management ofClostridioides difficileinfection in adults.Clin Infect Dis73(5):e1029–e1044, 2021.doi: 10.1093/cid/ciab549
+7.Johnson S, Lavergne V, Skinner AM, et al: Clinical Practice Guideline by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA): 2021 Focused update guidelines on management ofClostridioides difficileinfection in adults.Clin Infect Dis73(5):e1029–e1044, 2021.doi: 10.1093/cid/ciab549
+8.Akiyama S, Yamada A, Komaki Y, Komaki F, Micic D, Sakuraba A: Efficacy and Safety of Monoclonal Antibodies Against Clostridioides difficile Toxins for Prevention of Recurrent Clostridioides difficile Infection: A Systematic Review and Meta-Analysis.J Clin Gastroenterol55(1):43–51, 2021.doi:10.1097/MCG.0000000000001330
+8.Akiyama S, Yamada A, Komaki Y, Komaki F, Micic D, Sakuraba A: Efficacy and Safety of Monoclonal Antibodies Against Clostridioides difficile Toxins for Prevention of Recurrent Clostridioides difficile Infection: A Systematic Review and Meta-Analysis.J Clin Gastroenterol55(1):43–51, 2021.doi:10.1097/MCG.0000000000001330
+9.Young VB: Vaccinating againstClostridioides difficileInfection.N Engl J Med392(12):1237–1240, 2025.doi:10.1056/NEJMcibr2413794
+9.Young VB: Vaccinating againstClostridioides difficileInfection.N Engl J Med392(12):1237–1240, 2025.doi:10.1056/NEJMcibr2413794
+10.Perler BK, Chen B, Phelps E, et al: Long-term efficacy and safety of fecal microbiota transplantation for treatment of recurrentClostridioides difficileinfection.J Clin Gastroenterol54(8):701–706, 2020.doi: 10.1097/MCG.0000000000001281
+10.Perler BK, Chen B, Phelps E, et al: Long-term efficacy and safety of fecal microbiota transplantation for treatment of recurrentClostridioides difficileinfection.J Clin Gastroenterol54(8):701–706, 2020.doi: 10.1097/MCG.0000000000001281
+11.Di Bella S, Sanson G, Monticelli J, et al:Clostridioides difficileinfection: history, epidemiology, risk factors, prevention, clinical manifestations, treatment, and future options.Clin Microbiol Rev37(2):e0013523, 2024.doi:10.1128/cmr.00135-23
+11.Di Bella S, Sanson G, Monticelli J, et al:Clostridioides difficileinfection: history, epidemiology, risk factors, prevention, clinical manifestations, treatment, and future options.Clin Microbiol Rev37(2):e0013523, 2024.doi:10.1128/cmr.00135-23
+12.Blair HA: SER-109 (VOWST™): A Review in the Prevention of RecurrentClostridioides difficileInfection.Drugs84(3):329-336, 2024.doi:10.1007/s40265-024-02006-7
+12.Blair HA: SER-109 (VOWST™): A Review in the Prevention of RecurrentClostridioides difficileInfection.Drugs84(3):329-336, 2024.doi:10.1007/s40265-024-02006-7
+13.Feuerstadt P, Allegretti JR, Khanna S: Practical use of RBX2660 for the prevention of recurrentClostridioides difficileinfection.Am J Gastroenterol2023.doi: 10.14309/ajg.0000000000002195
+13.Feuerstadt P, Allegretti JR, Khanna S: Practical use of RBX2660 for the prevention of recurrentClostridioides difficileinfection.Am J Gastroenterol2023.doi: 10.14309/ajg.0000000000002195
+
+【预防肠胃炎】
+两种减毒活口服轮状病毒疫苗能安全有效地预防绝大多数病毒株所致感染。轮状病毒免疫接种是推荐的婴儿疫苗接种计划的一部分。
+关于口服益生菌能否预防胃肠炎，现有数据尚无定论(1)。
+因无症状感染发生率很高，且许多致病原，尤其是病毒易在人群中传播，这使得感染预防工作较为复杂。总体而言，食物制作与处理时要遵循规范。旅行者应避免摄入可能被污染的食物和水。
+为防止娱乐性水源感染，腹泻患者不应游泳。婴幼儿应勤换尿布，并在卫生间更换尿布，不得靠近水源。游泳者应避免游泳时咽水。
+婴幼儿和其他免疫力低下的人群特别易发生严重的沙门氏菌病，因此不应接触通常携带Salmonella（沙门氏菌）的爬行类动物、鸟类或两栖动物。
+母乳喂养能够为新生儿和婴儿提供部分保护。
+护理人员在更换尿布后应使用肥皂和清水彻底洗手，且尿布更换区域需使用新鲜配制的1:64稀释家用漂白水溶液（即将四分之一杯（60毫升）漂白液稀释于一加仑（3.75升）水中）进行消毒。患儿出现腹泻症状期间，不应前往幼托机构。感染肠出血性E. coli（大肠杆菌）或Shigella（志贺杆菌）的儿童，在重新进入托幼机构前应进行两次粪便检测且结果均为阴性。
+腹泻患者的诊疗中应采取适当感染控制的措施(手套、防护服、手卫生)(2，3，4)。
+
+【预防参考文献】
+1.Preidis GA, Weizman AV, Kashyap PC, Morgan RL: AGA Technical Review on the Role of Probiotics in the Management of Gastrointestinal Disorders.Gastroenterology159(2):708–738.e4, 2020.doi:10.1053/j.gastro.2020.05.060
+1.Preidis GA, Weizman AV, Kashyap PC, Morgan RL: AGA Technical Review on the Role of Probiotics in the Management of Gastrointestinal Disorders.Gastroenterology159(2):708–738.e4, 2020.doi:10.1053/j.gastro.2020.05.060
+2.Riddle MS, Connor BA, Beeching NJ, et al: Guidelines for the prevention and treatment of travelers' diarrhea: a graded expert panel report.J Travel Med.24(suppl_1):S57-S74, 2017.doi:10.1093/jtm/tax026
+2.Riddle MS, Connor BA, Beeching NJ, et al: Guidelines for the prevention and treatment of travelers' diarrhea: a graded expert panel report.J Travel Med.24(suppl_1):S57-S74, 2017.doi:10.1093/jtm/tax026
+3.Riddle MS, DuPont HL, Connor BA: ACG Clinical Guideline: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults.Am J Gastroenterol111(5):602-622, 2016.doi:10.1038/ajg.2016.126
+3.Riddle MS, DuPont HL, Connor BA: ACG Clinical Guideline: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults.Am J Gastroenterol111(5):602-622, 2016.doi:10.1038/ajg.2016.126
+4.Shane AL, Mody RK, Crump JA, et al: 2017 Infectious Diseases Society of America Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea.Clin Infect Dis65(12):e45-e80, 2017.doi:10.1093/cid/cix669
+4.Shane AL, Mody RK, Crump JA, et al: 2017 Infectious Diseases Society of America Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea.Clin Infect Dis65(12):e45-e80, 2017.doi:10.1093/cid/cix669

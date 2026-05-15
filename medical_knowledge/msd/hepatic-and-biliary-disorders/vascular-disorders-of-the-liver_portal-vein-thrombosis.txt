@@ -1,0 +1,73 @@
+标题：门静脉血栓形成
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/vascular-disorders-of-the-liver/portal-vein-thrombosis
+============================================================
+
+（参见肝脏血管疾病的概述）
+
+【门静脉血栓形成的病因】
+常见病因依据年龄段而有所不同（见表常见门静脉血栓形成的病因）。*在大多数病例，病因是多因素性的，约1/3患者病因不明 (1)。
+
+【常见门静脉血栓形成的病因】
+常见门静脉血栓形成的病因
+脐根部感染或脐炎（经由脐静脉蔓延至门静脉）。
+先天性门静脉异常（少见）
+先天性门静脉异常，通常伴随有其他先天性缺陷
+较大儿童
+门静脉炎
+急性阑尾炎时，感染可侵入门静脉系统；血管感染/炎症诱发血栓形成
+手术（例如脾切除术）
+高凝状态（例如，骨髓增生性疾病，蛋白质C缺乏或者蛋白质 S 缺乏、怀孕）
+恶性肿瘤（例如肝细胞癌、胰腺癌、肾癌或肾上腺癌）
+可能的门脉高压引起的淤血
+
+【病因参考文献】
+1.Northup PG, Garcia-Pagan JC, Garcia-Tsao G, et al: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Patients With Liver Disease: 2020 Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology73(1):366-413, 2021.doi: 10.1002/hep.31646.
+1.Northup PG, Garcia-Pagan JC, Garcia-Tsao G, et al: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Patients With Liver Disease: 2020 Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology73(1):366-413, 2021.doi: 10.1002/hep.31646.
+
+【门静脉血栓形成的症状和体征】
+急性门静脉血栓通常是无症状的，除非同时伴发其他状况，如胰腺炎（病因），或其它并发症如肠系膜静脉栓塞。大多数 情况下，门脉高压出现一段时间后可出现临床特征-脾肿大（尤其是儿童）和静脉曲张出血。窦前性门脉高压出现腹水并不常见（约10%）腹水可能被促发，当同时存在肝硬化时，或消化道大出血患者经大量液体复苏后血清白蛋白（及由此产生的胶体渗透压）下降时。
+
+【门静脉血栓形成的诊断】
+临床评估和肝脏检查
+临床评估和肝脏检查
+多普勒超声
+多普勒超声
+以下患者考虑门静脉血栓形成：
+肝硬化患者
+肝硬化患者
+无肝硬化患者的门静脉高压表现包括以下方面：
+无肝硬化患者的门静脉高压表现包括以下方面：
+具有危险因素（例如新生儿脐部感染、儿童期阑尾炎或高凝状态）的轻度肝功能异常患者
+具有危险因素（例如新生儿脐部感染、儿童期阑尾炎或高凝状态）的轻度肝功能异常患者
+多普勒超声具有诊断价值，可显示门静脉血流减少或中断，有时可直接检测到血栓。对于诊断困难的病例可能需要进行MRI或增强CT。血管造影可用于指导外科分流术。
+在患者中肝硬化，静脉阻塞肝细胞癌应通过增强成像研究排除。对于无肝硬化且原因不明的门静脉系统血栓形成的患者，骨髓增生性疾病或其他血栓形成情况应排除；应考虑咨询血液科医生（1）。
+
+【诊断参考文献】
+1.Northup PG, Garcia-Pagan JC, Garcia-Tsao G, et al: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Patients With Liver Disease: 2020 Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology73(1):366-413, 2021.doi: 10.1002/hep.31646
+1.Northup PG, Garcia-Pagan JC, Garcia-Tsao G, et al: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Patients With Liver Disease: 2020 Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology73(1):366-413, 2021.doi: 10.1002/hep.31646
+
+【门静脉血栓形成的治疗】
+部分急性病例，溶栓治疗
+部分急性病例，溶栓治疗
+长期抗凝
+长期抗凝
+处理门脉高压及其并发症
+处理门脉高压及其并发症
+对于急性病例，抗凝治疗有时有效，但仅用于近期栓塞，特别是高凝状态 (1)。抗凝治疗不能溶解已经形成的血栓，但对高凝状态的长期预防有一定价值，尽管存在曲张静脉出血的风险。对于患有肝硬化和门静脉血栓且适合抗凝治疗（近期闭塞>50%）的患者，建议在抗凝治疗前进行内镜静脉曲张筛查和结扎术（2）。抗凝决策应个体化，需考虑血栓的慢性化程度和范围、管腔阻塞程度以及可能存在的恶性肿瘤（2）。
+对新生儿及儿童患者，治疗主要针对病因（例如脐炎、阑尾炎）。除此之外，主要治疗门脉高压及其并发症；治疗措施包括静脉用奥曲肽（一种人工合成的生长抑素类似物）和内镜下套扎用于控制曲张静脉出血，非选择性beta阻滞剂用于预防再出血。 这些 治疗降低了外科分流术（例如肠系膜腔静脉分流术、脾肾静脉分流术）的使用率，这些分流术本身存在很多的问题例如血管闭塞，手术死亡率约为5%~50%。经颈静脉肝内门体分流术（TIPS）在治疗门静脉血栓形成中作用有限（3）。
+
+【治疗参考文献】
+1.Northup PG, Garcia-Pagan JC, Garcia-Tsao G, et al: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Patients With Liver Disease: 2020 Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology73(1):366-413, 2021.doi: 10.1002/hep.31646
+1.Northup PG, Garcia-Pagan JC, Garcia-Tsao G, et al: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Patients With Liver Disease: 2020 Practice Guidance by the American Association for the Study of Liver Diseases.Hepatology73(1):366-413, 2021.doi: 10.1002/hep.31646
+2.Davis JPE, Lim JK, Francis FF, Ahn J: AGA Clinical Practice Update on Management of Portal Vein Thrombosis in Patients With Cirrhosis: Expert Review.Gastroenterology168(2):396-404.e1, 2025.doi:10.1053/j.gastro.2024.10.038
+2.Davis JPE, Lim JK, Francis FF, Ahn J: AGA Clinical Practice Update on Management of Portal Vein Thrombosis in Patients With Cirrhosis: Expert Review.Gastroenterology168(2):396-404.e1, 2025.doi:10.1053/j.gastro.2024.10.038
+3.Valentin N, Korrapati P, Constantino J, et al: The role of transjugular intrahepatic portosystemic shunt in the management of portal vein thrombosis: A systematic review and meta-analysis.Eur J Gastroenterol Hepatol30(10):1187-1193, 2018.doi: 10.1097/MEG.0000000000001219
+3.Valentin N, Korrapati P, Constantino J, et al: The role of transjugular intrahepatic portosystemic shunt in the management of portal vein thrombosis: A systematic review and meta-analysis.Eur J Gastroenterol Hepatol30(10):1187-1193, 2018.doi: 10.1097/MEG.0000000000001219
+门静脉血栓形成的原因和风险因素包括脐带感染（新生儿）、阑尾炎（儿童）以及肝硬化和高凝状态（成人）。
+门静脉血栓形成的原因和风险因素包括脐带感染（新生儿）、阑尾炎（儿童）以及肝硬化和高凝状态（成人）。
+如果没有肝硬化或者如果有轻度非特异性肝脏异常加上风险因素的患者出现门脉高压表现，应该怀疑门静脉血栓形成。
+如果没有肝硬化或者如果有轻度非特异性肝脏异常加上风险因素的患者出现门脉高压表现，应该怀疑门静脉血栓形成。
+确诊使用诊断多普勒超声检查，或者，如果不能明确诊断，则行MRI或增强CT。
+确诊使用诊断多普勒超声检查，或者，如果不能明确诊断，则行MRI或增强CT。
+治疗门静脉血栓形成的原因和门脉高压并发症。
+治疗门静脉血栓形成的原因和门脉高压并发症。

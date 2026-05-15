@@ -1,0 +1,76 @@
+标题：小肠细菌过度生长 (SIBO)
+来源：https://www.msdmanuals.cn/professional/gastrointestinal-disorders/malabsorption-syndromes/small-intestinal-bacterial-overgrowth-sibo
+============================================================
+
+小肠细菌过度生长 (SIBO) 是一种吸收障碍。
+正常情况下近端小肠细菌数量<105/mL，主要是革兰氏阳性需氧菌。这种低细菌数量是通过正常的肠道蠕动、胃酸分泌、黏液、分泌型IgA以及完整的回盲瓣来维持的。
+
+【SIBO的病因】
+胃或小肠解剖结构的改变使得小肠内容物淤滞，从而引起细菌过度生长。这些状况包括小肠憩室、手术盲襻、胃切除术后（尤其是Billroth II式手术的输入襻）、狭窄或部分梗阻。
+
+【Billroth II 修复】
+Billroth II 修复
+Billroth II手术包括部分胃切除和胃空肠吻合术。输入袢为包含Vater壶腹在内的剩余十二指肠段，接收胆总管和胰管的分泌物。输出袢是胃吻合口远端的小肠，接收食物和其他胃内容物以及输入袢的分泌物。
+与糖尿病性神经病变、系统性硬化、淀粉样变、甲状腺功能减退和特发性假性肠梗阻相关的肠道动力紊乱也会影响细菌清除。在老年人中，胃酸缺乏症和特发性肠道动力改变可引起细菌过度生长。
+
+【SIBO的病理生理学】
+SIBO 中最常见的菌种包括streptococci（链球菌）、Bacteroides（拟杆菌）、Escherichia（大肠杆菌）、Lactobacillus（乳杆菌）、Klebsiella（克雷伯菌）和Aeromonas（气单胞菌）。
+过度生长的细菌消耗碳水化合物和维生素B12等营养物质，导致热量不足及维生素B12缺乏。但是由于细菌可生产叶酸，因此细菌过度生长时很少有叶酸缺乏。细菌分解胆盐，阻碍胶团形成从而影响脂肪吸收。重度细菌过度生长还会引起肠道黏膜损伤。
+脂肪吸收障碍和肠黏膜破坏则导致腹泻产生。
+
+【SIBO的症状和体征】
+SIBO 最常见的症状是腹胀。
+其他症状包括腹部不适、腹泻和排气过多。有些病人则有严重腹泻或脂肪泻。（参见美国胃肠病学会2020 guidelines for small intestinal bacterial overgrowth。）
+
+【SIBO的诊断】
+呼气试验
+呼气试验
+肠吸出物定量培养
+肠吸出物定量培养
+影像学检查
+影像学检查
+一些临床医生主张将经验性抗生素治疗的有效反应作为一种诊断性测试。然而，由于细菌过度生长可能与其他吸收不良性疾病（如克罗恩病）表现相似，且抗生素的副作用可能加重腹泻症状，因此明确具体病因是首选。
+呼气试验，特别是葡萄糖氢呼气试验或乳果糖氢呼气试验，建议用于有症状的患者中以诊断小肠细菌过度生长（SIBO）（1）。呼气测试前，建议患者4周内避免使用抗生素，至少1周内避免使用促动力剂和泻药。
+呼气试验阳性被定义为测试开始后90分钟内，氢气水平较基线升高>20 ppm，或测试期间任意时间点甲烷水平较基线升高>10 ppm（参见美国胃肠病学会2020年小肠细菌多度生长指南）。
+诊断小肠细菌过度生长的标准是肠道液抽吸物的定量培养显示细菌计数>103菌落形成单位/毫升。但小肠内液抽取需内镜下操作。
+若非手术引起的解剖结构异常，需行上消化道钡餐和小肠造影检查，以明确引发解剖结构异常的因素。或者，可以进行 CT 小肠造影或磁共振小肠造影。
+
+【诊断参考文献】
+1.Pimentel M, Saad RJ, Long MD, Rao SSC.ACG Clinical Guideline: Small Intestinal Bacterial Overgrowth.Am J Gastroenterol.2020;115(2):165-178.doi:10.14309/ajg.0000000000000501
+1.Pimentel M, Saad RJ, Long MD, Rao SSC.ACG Clinical Guideline: Small Intestinal Bacterial Overgrowth.Am J Gastroenterol.2020;115(2):165-178.doi:10.14309/ajg.0000000000000501
+
+【SIBO的治疗】
+口服抗生素（多种）
+口服抗生素（多种）
+饮食调整
+饮食调整
+细菌过度生长综合征的治疗是使用覆盖肠道需氧菌和厌氧菌的口服抗生素，疗程10至14天(1, 2)。经验疗法包括以下一种或两种的使用(3)：
+阿莫西林/克拉维酸
+阿莫西林/克拉维酸
+头孢氨苄
+头孢氨苄
+磺胺甲噁唑/甲氧苄啶
+磺胺甲噁唑/甲氧苄啶
+利福昔明可单独使用，也可与新霉素联合应用（通常在甲烷呼气试验为阳性时采用联合治疗）。
+利福昔明可单独使用，也可与新霉素联合应用（通常在甲烷呼气试验为阳性时采用联合治疗）。
+环丙沙星
+环丙沙星
+如果症状有复发倾向，抗生素治疗可以是周期性的，并根据细菌培养和药敏结果进行调整。但由于多种细菌共存，抗生素更换可能相对困难。
+由于细菌主要代谢肠道内的碳水化合物而非脂肪，因此高脂肪、低碳水化合物和低纤维的饮食是有益的。
+另外，应改善患者的基础情况和营养缺乏（如，维生素B12）。
+
+【治疗参考文献】
+1.Takakura W, Rezaie A, Chey WD, Wang J, Pimentel M.Symptomatic Response to Antibiotics in Patients With Small Intestinal Bacterial Overgrowth: A Systematic Review and Meta-analysis.J Neurogastroenterol Motil.2024;30(1):7-16.doi:10.5056/jnm22187
+1.Takakura W, Rezaie A, Chey WD, Wang J, Pimentel M.Symptomatic Response to Antibiotics in Patients With Small Intestinal Bacterial Overgrowth: A Systematic Review and Meta-analysis.J Neurogastroenterol Motil.2024;30(1):7-16.doi:10.5056/jnm22187
+2.Pimentel M, Saad RJ, Long MD, Rao SSC.ACG Clinical Guideline: Small Intestinal Bacterial Overgrowth.Am J Gastroenterol.2020;115(2):165-178.doi:10.14309/ajg.0000000000000501
+2.Pimentel M, Saad RJ, Long MD, Rao SSC.ACG Clinical Guideline: Small Intestinal Bacterial Overgrowth.Am J Gastroenterol.2020;115(2):165-178.doi:10.14309/ajg.0000000000000501
+3.Quigley EMM, Murray JA, Pimentel M.AGA Clinical Practice Update on Small Intestinal Bacterial Overgrowth: Expert Review.Gastroenterology.2020;159(4):1526-1532.doi:10.1053/j.gastro.2020.06.090
+3.Quigley EMM, Murray JA, Pimentel M.AGA Clinical Practice Update on Small Intestinal Bacterial Overgrowth: Expert Review.Gastroenterology.2020;159(4):1526-1532.doi:10.1053/j.gastro.2020.06.090
+胃或肠道解剖结构改变或肠道动力性障碍引起胃肠道淤滞，从而使得细菌过度生长。
+胃或肠道解剖结构改变或肠道动力性障碍引起胃肠道淤滞，从而使得细菌过度生长。
+细菌分解胆汁盐，引起脂肪吸收不良。
+细菌分解胆汁盐，引起脂肪吸收不良。
+诊断采用葡萄糖-氢或乳果糖-氢呼气试验，或肠道抽吸物定量培养。
+诊断采用葡萄糖-氢或乳果糖-氢呼气试验，或肠道抽吸物定量培养。
+治疗需口服抗生素，并选择高脂肪、低碳水化合物饮食。
+治疗需口服抗生素，并选择高脂肪、低碳水化合物饮食。

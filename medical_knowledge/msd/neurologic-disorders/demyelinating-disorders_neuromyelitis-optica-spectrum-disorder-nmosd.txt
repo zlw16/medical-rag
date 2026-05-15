@@ -1,0 +1,90 @@
+标题：视神经脊髓炎谱系疾病（NMOSD）
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/demyelinating-disorders/neuromyelitis-optica-spectrum-disorder-nmosd
+============================================================
+
+视神经脊髓炎谱系障碍引起急性视神经炎，有时为双侧，以及颈髓或胸髓的脱髓鞘。它之前被认为是多发性硬化（MS）的变异型，现在认为是不同的疾病 (1)。
+在视神经脊髓炎谱系疾病中，星形胶质细胞和少突胶质细胞因自身免疫介导的炎症和脱髓鞘而受损。免疫系统以水通道蛋白4为目标，水通道蛋白4是一种存在于大脑、特别是脊髓和视神经的星形胶质细胞中的蛋白质，或髓磷脂少突胶质细胞糖蛋白（MOG），它存在于中枢神经系统相同区域少突胶质细胞的髓磷脂中以及可能的其他目标。
+视神经脊髓炎谱系障碍分为三种类型：
+水通道蛋白-4抗体阳性（以前称NMO抗体阳性）
+水通道蛋白-4抗体阳性（以前称NMO抗体阳性）
+髓鞘少突胶质细胞糖蛋白 (MOG) 阳性
+髓鞘少突胶质细胞糖蛋白 (MOG) 阳性
+双抗体阴性（这种类型的患者有临床视神经脊髓炎谱系障碍，但没有抗体）
+双抗体阴性（这种类型的患者有临床视神经脊髓炎谱系障碍，但没有抗体）
+
+【参考文献】
+1.Uzawa A, Oertel FC, Mori M, Paul F, Kuwabara S.NMOSD and MOGAD: an evolving disease spectrum.Nat Rev Neurol.2024;20(10):602-619.doi:10.1038/s41582-024-01014-1
+1.Uzawa A, Oertel FC, Mori M, Paul F, Kuwabara S.NMOSD and MOGAD: an evolving disease spectrum.Nat Rev Neurol.2024;20(10):602-619.doi:10.1038/s41582-024-01014-1
+
+【NMOSD的症状和体征】
+视神经脊髓炎谱系障碍的症状包括视力丧失、肌肉痉挛、四肢瘫痪和大小便失禁。
+具体的特征性表现包括
+严重的双侧视神经炎累及视交叉，导致水平视野的一半(上半部分或下半部分)视力丧失（纵向视野缺损）或视敏度丧失（20/200或更差）
+严重的双侧视神经炎累及视交叉，导致水平视野的一半(上半部分或下半部分)视力丧失（纵向视野缺损）或视敏度丧失（20/200或更差）
+完全性脊髓综合征，尤指阵发性强直性痉挛
+完全性脊髓综合征，尤指阵发性强直性痉挛
+引起顽固性呃逆或恶心呕吐的脑后区综合征，（脑后区是控制呕吐的结构，位于第四脑室底部）
+引起顽固性呃逆或恶心呕吐的脑后区综合征，（脑后区是控制呕吐的结构，位于第四脑室底部）
+急性横贯性脊髓炎覆盖≥3个连续相邻的脊髓节段
+急性横贯性脊髓炎覆盖≥3个连续相邻的脊髓节段
+
+【NMOSD的诊断】
+头颅及脊髓MRI
+头颅及脊髓MRI
+视觉诱发电位
+视觉诱发电位
+针对水通道蛋白-4或抗-MOG（抗髓鞘少突胶质细胞糖蛋白）抗体的血液检测
+针对水通道蛋白-4或抗-MOG（抗髓鞘少突胶质细胞糖蛋白）抗体的血液检测
+视神经脊髓炎谱系疾病的诊断主要依靠脑、脊髓的MRI及视觉诱发电位 (1)。
+以下特征有助于区分视神经脊髓炎与多发性硬化症（MS）：
+视神经脊髓炎累及多个(通常≥3个)相邻脊髓节段，而多发性硬化症通常累及单个节段。
+视神经脊髓炎累及多个(通常≥3个)相邻脊髓节段，而多发性硬化症通常累及单个节段。
+在MRI上，脑白质病变是罕见的神经脊髓炎视神经脊髓炎，与MS不同。
+在MRI上，脑白质病变是罕见的神经脊髓炎视神经脊髓炎，与MS不同。
+在MRI上，病变的形态和分布与MS不同。
+在MRI上，病变的形态和分布与MS不同。
+视觉诱发电位可以帮助区分视神经脊髓炎和其他视神经病变。视神经脊髓炎谱系疾病的表现包括振幅降低或潜伏期延长。该测试也有助于在症状出现之前发现临床上不明显的损害。
+通过检测视神经脊髓炎谱系疾病特异性IgG抗体（水通道蛋白-4抗体[亦称NMO-IgG]）的血液检测可区分视神经脊髓炎谱系疾病与多发性硬化，但该抗体并非存在于所有视神经脊髓炎谱系疾病患者中。另一种抗体，抗MOG（髓鞘少突胶质细胞糖蛋白）抗体，可区分视神经脊髓炎谱系疾病中的一个亚组患者；与携带水通道蛋白-4抗体或两种抗体皆无的患者相比，该亚组患者具有不同的临床特征、更少的疾病恶化和更好的恢复情况。一些具有视神经脊髓炎谱系障碍临床证据的患者没有任何一种抗体，因此被归类为具有双抗体阴性视神经脊髓炎谱系障碍。
+
+【诊断参考文献】
+1.Wingerchuk DM, Banwell B, Bennett JL, et al.International consensus diagnostic criteria for neuromyelitis optica spectrum disorders.Neurology.2015; 85 (2):177–189.doi: 10.1212/WNL.0000000000001729
+1.Wingerchuk DM, Banwell B, Bennett JL, et al.International consensus diagnostic criteria for neuromyelitis optica spectrum disorders.Neurology.2015; 85 (2):177–189.doi: 10.1212/WNL.0000000000001729
+
+【NMOSD的治疗】
+糖皮质激素、免疫调节或免疫抑制治疗
+糖皮质激素、免疫调节或免疫抑制治疗
+视神经脊髓炎没有治愈方法。然而，治疗可以预防、减缓或减轻病情加重的严重程度，并可能降低短期内残疾的风险。（1–3）。
+急性加重期采用大剂量甲泼尼龙治疗，若糖皮质激素无效则后续进行血浆置换（3）。
+预防性治疗根据其对免疫系统特定靶点的抑制作用进行分类（4，5）。
+依库珠单抗与拉武利珠单抗，这两种C5补体抑制剂，可用于治疗水通道蛋白-4抗体阳性的视神经脊髓炎谱系疾病。不良反应包括呼吸道感染、头痛和肺炎，且可能较为严重；因此需对患者进行密切监测（6）。因存在脑膜炎球菌败血症风险，启动治疗前需接种脑膜炎球菌疫苗。
+萨特利珠单抗与托珠单抗（靶向白细胞介素-6受体的单克隆抗体）也可用于治疗水通道蛋白-4抗体阳性的视神经脊髓炎谱系疾病。Inebilizumab（抗CD19 B细胞抗体）亦用于治疗水通道蛋白-4阳性的视神经脊髓炎谱系疾病。 应密切监测患者是否有感染，如尿路和呼吸道感染。
+有证据支持使用利妥昔单抗（一种抗 CD20-B细胞抗体）来减少复发（7）。
+若无法获得单克隆抗体，可采用硫唑嘌呤或霉酚酸酯，联合或不联合糖皮质激素（8）。
+纳他珠单抗和芬戈莫德似乎无效，可能有害。
+症状的治疗与MS相似。巴氯芬及替扎尼定能缓解肌肉痉挛。
+
+【治疗参考文献】
+1.Kong F, Wang J, Zheng H, et al.Monoclonal antibody therapy in neuromyelitis optica spectrum disorders: A meta-analysis of randomized control trials.Front Pharmacol.20;12:652759, 2021. doi: 10.3389/fphar.2021.652759
+1.Kong F, Wang J, Zheng H, et al.Monoclonal antibody therapy in neuromyelitis optica spectrum disorders: A meta-analysis of randomized control trials.Front Pharmacol.20;12:652759, 2021. doi: 10.3389/fphar.2021.652759
+2.Xue T, Yang Y, Lu Q, et al.Efficacy and safety of monoclonal antibody therapy in neuromyelitis optica spectrum disorders: Evidence from randomized controlled trials.Mult Scler Relat Disord.43:102166, 2020. doi: 10.1016/j.msard.2020.102166
+2.Xue T, Yang Y, Lu Q, et al.Efficacy and safety of monoclonal antibody therapy in neuromyelitis optica spectrum disorders: Evidence from randomized controlled trials.Mult Scler Relat Disord.43:102166, 2020. doi: 10.1016/j.msard.2020.102166
+3.Uzawa A, Oertel FC, Mori M, et al.NMOSD and MOGAD: an evolving disease spectrum.Nature Rev Neurol.2024;20(10):602-619.doi:10.1038/s41582-024-01014-1
+3.Uzawa A, Oertel FC, Mori M, et al.NMOSD and MOGAD: an evolving disease spectrum.Nature Rev Neurol.2024;20(10):602-619.doi:10.1038/s41582-024-01014-1
+4.Demuth S, Collongues N.Disease-modifying treatments for neuromyelitis optica spectrum disorder in the context of a new generation of biotherapies.Rev Neurol (Paris).2025;181(1-2):42-51.doi:10.1016/j.neurol.2024.01.008
+4.Demuth S, Collongues N.Disease-modifying treatments for neuromyelitis optica spectrum disorder in the context of a new generation of biotherapies.Rev Neurol (Paris).2025;181(1-2):42-51.doi:10.1016/j.neurol.2024.01.008
+5.Noll G, de Lima MM, Mantovani GP, et al.Interleukin-6 inhibitors for neuromyelitis optica spectrum disorder (NMOSD): A systematic review and meta-analysis.Mult Scler Relat Disord.2024;92:106156.doi:10.1016/j.msard.2024.106156
+5.Noll G, de Lima MM, Mantovani GP, et al.Interleukin-6 inhibitors for neuromyelitis optica spectrum disorder (NMOSD): A systematic review and meta-analysis.Mult Scler Relat Disord.2024;92:106156.doi:10.1016/j.msard.2024.106156
+6.Pittock SJ, Berthele A, Fujihara K, et al.Eculizumab in aquaporin-4-positive neuromyelitis optica spectrum disorder.N Engl J Med.381 (7):614–625, 2019.doi: 10.1056/NEJMoa1900866
+6.Pittock SJ, Berthele A, Fujihara K, et al.Eculizumab in aquaporin-4-positive neuromyelitis optica spectrum disorder.N Engl J Med.381 (7):614–625, 2019.doi: 10.1056/NEJMoa1900866
+7.Tahara M, Oeda T, Okada K, et al.Safety and efficacy of rituximab in neuromyelitis optica spectrum disorders (RIN-1 study): A multicentre, randomised, double-blind, placebo-controlled trial.Lancet Neurol.19 (4):298–306, 2020.doi: 10.1016/S1474-4422(20)30066-1
+7.Tahara M, Oeda T, Okada K, et al.Safety and efficacy of rituximab in neuromyelitis optica spectrum disorders (RIN-1 study): A multicentre, randomised, double-blind, placebo-controlled trial.Lancet Neurol.19 (4):298–306, 2020.doi: 10.1016/S1474-4422(20)30066-1
+8.Luo D, Wei R, Tian X, et al.Efficacy and safety of azathioprine for neuromyelitis optica spectrum disorders: a meta-analysis of real-world studies.Multiple Scler Rel Dis.2020;46:102484.doi:10.1016/j.msard.2020.102484
+8.Luo D, Wei R, Tian X, et al.Efficacy and safety of azathioprine for neuromyelitis optica spectrum disorders: a meta-analysis of real-world studies.Multiple Scler Rel Dis.2020;46:102484.doi:10.1016/j.msard.2020.102484
+视神经脊髓炎谱系疾病可导致脱髓鞘，通常与靶向水通道蛋白-4或髓磷脂少突胶质细胞糖蛋白的抗体有关。
+视神经脊髓炎谱系疾病可导致脱髓鞘，通常与靶向水通道蛋白-4或髓磷脂少突胶质细胞糖蛋白的抗体有关。
+典型症状包括视力丧失、肌肉痉挛、四肢瘫痪和尿便失禁。
+典型症状包括视力丧失、肌肉痉挛、四肢瘫痪和尿便失禁。
+视神经脊髓炎谱系疾病的诊断主要依靠脑、脊髓的MRI及视觉诱发电位。
+视神经脊髓炎谱系疾病的诊断主要依靠脑、脊髓的MRI及视觉诱发电位。
+治疗包括糖皮质激素和免疫调节或免疫抑制治疗（如伊库利珠单抗、利妥昔单抗）。
+治疗包括糖皮质激素和免疫调节或免疫抑制治疗（如伊库利珠单抗、利妥昔单抗）。

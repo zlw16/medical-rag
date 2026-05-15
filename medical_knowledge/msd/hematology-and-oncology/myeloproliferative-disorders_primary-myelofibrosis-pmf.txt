@@ -1,0 +1,118 @@
+标题：原发性骨髓纤维化
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/myeloproliferative-disorders/primary-myelofibrosis-pmf
+============================================================
+
+(参见骨髓增殖性肿瘤概述。）
+
+【原发性骨髓纤维化的病理生理学】
+骨髓纤维化是一种反应性的，可逆性的骨髓胶原增加，且常伴有髓外造血（主要在脾脏中）。骨髓纤维化可以是:
+原发性（更常见）
+原发性（更常见）
+继发于许多血液系统疾病、恶性肿瘤及非恶性疾病（见表与骨髓纤维化相关的情况）。
+继发于许多血液系统疾病、恶性肿瘤及非恶性疾病（见表与骨髓纤维化相关的情况）。
+原发性骨髓纤维化由多能造血干细胞的肿瘤转化引起。原发性骨髓纤维化的衍生细胞刺激骨髓成纤维细胞（不是恶性转化的一部分）过度分泌胶原蛋白。原发性骨髓纤维化的发病率高峰在50至70岁之间，主要发生在男性中。
+Janus激酶2（JAK2）的基因突变所致的原发性骨髓纤维化占有很高的比例。JAK2是I型酪氨酸激酶家族的成员之一，参与促红细胞生成素、促血小板生成素和粒细胞集落刺激因子（G-CSF）受体的信号转导。血小板生成素受体基因（MPL）或钙网蛋白 （CALR）基因的突变也可能是原发性骨髓纤维化的原因。但是，在原发性骨髓纤维化的罕见病例中，这三种突变均不存在（三阴性原发性骨髓纤维化）。
+在原发性骨髓纤维化中，有核红细胞(正母细胞)和髓细胞在髓外造血(即非骨髓器官因骨髓纤维化而接管血细胞生成)时被释放到循环中(成白细胞病)。 血清乳酸脱氢酶水平经常升高。 最后出现骨髓衰竭，伴贫血和血小板减少。大约30%的患者发展为快速进展性、化疗无法治愈的急性白血病。
+恶性骨髓纤维化（有时称为急性骨髓纤维化）是一种罕见的骨髓纤维化变异，其特征是全血细胞减少，成纤维细胞增多和骨髓纤维化，其进展更为迅速，通常由一种称为急性巨幼细胞白血病的急性白血病引起。
+
+【与骨髓纤维化有关的疾病】
+与骨髓纤维化有关的疾病
+恶性肿瘤
+骨髓转移性肿瘤
+霍奇金淋巴瘤
+白血病（特别是慢性髓细胞性白血病和毛细胞白血病）
+多发性骨髓瘤
+骨髓发育不良性
+非霍奇金淋巴瘤（包括毛细胞白血病）
+真性红细胞增多症
+原发性骨髓纤维化
+二氧化钍
+X射线或gamma射线
+自身免疫性疾病（少见）
+系统性红斑狼疮（SLE）
+系统性硬化
+原发性肺高压
+
+【原发性骨髓纤维化的症状和体征】
+很多患者骨髓纤维化是无症状的。其他患者可出现贫血、脾大，在疾病晚期可有全身不适、体重减轻、发热或脾梗死。一些患者出现肝脏肿大。淋巴结肿大很罕见。严重的髓外造血会干扰发生该现象的任何器官的功能，包括大脑。
+
+【原发性骨髓纤维化的诊断】
+全血细胞计数和外周血涂片
+全血细胞计数和外周血涂片
+骨髓穿刺活检
+骨髓穿刺活检
+JAK2、CALR、MPL突变的检测
+JAK2、CALR、MPL突变的检测
+有时使用针对髓系定向的下一代测序
+有时使用针对髓系定向的下一代测序
+对于同时伴有脾肿大、脾梗死和不明原因贫血的患者，应怀疑原发性骨髓纤维化。如怀疑PMF，应行全血细胞计数、外周血涂片和骨髓检查。若骨髓活检显示骨髓纤维化（由网状纤维染色或三色染色提示胶原沉积过多），应通过临床与实验室评估排除其他与骨髓纤维化相关的疾病（参见表与骨髓纤维化相关的疾病）。
+原发性骨髓纤维化的诊断通过检测JAK2、CALR或MPL突变来确诊。在某些情况下，这些突变均未表达（三阴性骨髓纤维化）。更广泛的下一代测序面板可以检测与白血病转化风险增加相关的基因突变，因此可能对预后有用。
+常出现贫血，且随着时间的推移而加重。血细胞的形态是多变的。红细胞是有异形性。可能出现网状红细胞增多和嗜多色细胞，泪滴状红细胞（泪细胞）是典型的形态学特征。外周血常出现有核红细胞和不成熟粒细胞。白细胞计数通常升高，但其变化范围可较大。在进展期，即使未转变为急性白血病也可能出现原始细胞。血小板计数开始可能是增高、正常或降低的；但疾病进展时，往往出现血小板减少。
+
+【原发性骨髓纤维化的治疗】
+对症治疗
+对症治疗
+有时聚乙二醇干扰素
+有时聚乙二醇干扰素
+有时使用鲁索利替尼、费达拉替尼、帕克里替尼或莫莫洛替尼
+有时使用鲁索利替尼、费达拉替尼、帕克里替尼或莫莫洛替尼
+有时可行异基因干细胞移植
+有时可行异基因干细胞移植
+针对症状和并发症治疗。某些患者可不予治疗仅进行随访。
+在早期原发性骨髓纤维化中，聚乙二醇干扰素 α-2a 已被证明可减轻骨髓纤维化并缩小脾脏体积，可用于多种预后评分系统定义的低危患者（1, 2）。
+对于需要治疗的有症状原发性骨髓纤维化患者，若其血小板计数＞50000/platelets/mcL （50×109/L）则非特异性JAK通路抑制剂芦可替尼是首选治疗药物。鲁索利替尼无论是否存在JAK2突变或脾肿大均有效。鲁索替尼的主要不良反应是贫血和血小板减少症。当停药时必须小心，因为突然停药时可能出现戒断综合征，部分由于脾肿大和炎症细胞因子反弹导致症状显著恶化。低剂量糖皮质激素可短期用于控制疾病症状。当脾肿大明显时，鲁索替尼可引发肿瘤溶解综合征，应使用别嘌呤醇来预防这种情况。
+Fedratinib 也是一种 JAK 抑制剂，可用于对鲁索替尼耐药或不耐受的情况。一些对鲁索替尼产生不耐受的患者在停药一段时间后可能能够再次耐受。菲达替尼与罕见的韦尼克样脑病相关，因此在使用期间必须维持硫胺素水平。
+另一种JAK2抑制剂帕瑞替尼适用于血小板计数过低而无法开始使用芦可替尼的患者，血小板计数通常低于50000个/mcL（低于50×109/L）。
+莫洛替尼既是JAK2抑制剂，也是激活素A受体1型（ACVR1）的抑制剂，可能具有预防贫血的保护作用（3）。
+对于晚期疾病患者，同种异体干细胞移植可能是有益的，并且是唯一可能治愈的治疗方法 (4)。非清髓性异基因干细胞移植已成功应用于老年患者。对于符合干细胞移植的患者，治疗旨在延长生存期并减轻纤维化。部分患者在接受干细胞移植前可能受益于JAK2抑制剂治疗，以减轻症状并减小脾脏体积。
+雄激素、促红细胞生成素、脾脏切除、化疗、沙利度胺、来那度胺、脾栓塞以及放疗已尝试用于疾病的缓解。其中，小剂量沙利度胺和泼尼松可有效控制脾肿大，贫血，血小板减少和循环母细胞。 然而，其他方式的效果有限或具有显着的不利影响。 如果可能的话应尽量避免脾切除;脾脏照射只有暂时的效果，并可导致严重的中性粒细胞减少和感染。在骨髓纤维化中贫血的治疗通常具有挑战性，除输血外，促红细胞生成素以及有时使用达那唑可能有用。
+正在研究治疗骨髓纤维化的药物之一是luspatercept，一种用于治疗贫血的激活素受体配体陷阱。许多其他药物正在单独或与JAK2抑制剂联合评估，例如抗Bcl-xL化合物、磷脂酰肌醇-3-激酶抑制剂以及BET（溴结构域和末端外模体蛋白）抑制剂（如培拉布雷西布（5））。新的 JAK 抑制剂也正在作为一线疗法进行测试，或者在目前可用的 JAK2 抑制剂进展或不耐受的患者中进行测试。
+
+【治疗参考文献】
+1.Tefferi A, Gangat N, Pardanani A, et al.Myelofibrosis: genetic characteristics and the emerging therapeutic landscape.Canc Res2022;82:749–763.doi: 10.1158/0008-5472.CAN-21-2930
+1.Tefferi A, Gangat N, Pardanani A, et al.Myelofibrosis: genetic characteristics and the emerging therapeutic landscape.Canc Res2022;82:749–763.doi: 10.1158/0008-5472.CAN-21-2930
+2.Hasselbalch HC, Silver RT.New Perspectives of Interferon-alpha2 and Inflammation in Treating Philadelphia-negative Chronic Myeloproliferative Neoplasms.Hemasphere.2021 Nov 18;5(12):e645.doi: 10.1097/HS9.0000000000000645.
+2.Hasselbalch HC, Silver RT.New Perspectives of Interferon-alpha2 and Inflammation in Treating Philadelphia-negative Chronic Myeloproliferative Neoplasms.Hemasphere.2021 Nov 18;5(12):e645.doi: 10.1097/HS9.0000000000000645.
+3.Tefferi A, Pardanani A, Gangat N.Momelotinib expands the therapeutic armamentarium for myelofibrosis: Impact on hierarchy of treatment choices.Am J Hematol.2024;99(2):300-308.doi:10.1002/ajh.27163
+3.Tefferi A, Pardanani A, Gangat N.Momelotinib expands the therapeutic armamentarium for myelofibrosis: Impact on hierarchy of treatment choices.Am J Hematol.2024;99(2):300-308.doi:10.1002/ajh.27163
+4.Kröger N, Bacigalupo A, Barbui T, et al.Indication and management of allogeneic haematopoietic stem-cell transplantation in myelofibrosis: updated recommendations by the EBMT/ELN International Working Group.Lancet Haematol.2024;11(1):e62-e74.doi: 10.1016/S2352-3026(23)00305-8
+4.Kröger N, Bacigalupo A, Barbui T, et al.Indication and management of allogeneic haematopoietic stem-cell transplantation in myelofibrosis: updated recommendations by the EBMT/ELN International Working Group.Lancet Haematol.2024;11(1):e62-e74.doi: 10.1016/S2352-3026(23)00305-8
+5.Stuckey R, Segura Díaz A, Gómez-Casares MT.Myelofibrosis: Treatment Options After Ruxolitinib Failure.Curr Oncol.2025;32(6):339.Published 2025 Jun 9.doi:10.3390/curroncol32060339
+5.Stuckey R, Segura Díaz A, Gómez-Casares MT.Myelofibrosis: Treatment Options After Ruxolitinib Failure.Curr Oncol.2025;32(6):339.Published 2025 Jun 9.doi:10.3390/curroncol32060339
+
+【原发性骨髓纤维化的预后】
+原发性骨髓纤维化的中位生存时间为5年，但变化很大；有的患者病情进展迅速，包括急性髓系白血病，生存期很短，但大多数患者为更加惰性的疾病进程。只有同种异基因干细胞移植可以达到治愈的目的。
+不良预后指标包括血红蛋白<10 g/dL（<100 g/L）、输血史、白细胞增多及血小板计数<100,000 个/微升（<100×109/L）。风险最不利的患者通常存活<1 年，但低风险疾病患者的中位生存期为 10 年。
+有许多有用的风险分层系统可用于预后判断和指导治疗决策，以进行医学治疗或干细胞移植。原发性骨髓纤维化的动态国际预后评分系统(DIPSS)可用于预测疾病进展或生存 (1）。一些评分系统，例如 GIPSS（受遗传启发的预后评分系统 [2]）或 MIPSS70+（突变和核型增强国际预后评分系统 [3]），还结合了细胞遗传学和分子标记。这些数据可以在线访问，用于计算个别患者的风险（4）。
+经验证的症状评估工具（例如，骨髓纤维化症状评估表）也可用于骨髓纤维化患者，并可用于监测治疗反应 (5)。
+真性红细胞增多症或原发性血小板增多症继发骨髓纤维化患者的预后通常远优于原发性骨髓纤维化患者，其结局可以通过真性红细胞增多症和原发性血小板增多症继发性骨髓纤维化预后模型 (MYSEC-PM) 来预测（6）。
+
+【预后参考】
+1.Passamonti F, Cervantes F, Vannuchi AM, et al.Dynamic International Prognostic Scoring System (DIPSS) predicts progression to acute myeloid leukemia in primary myelofibrosis.Blood.2010;115:1703–1709.
+1.Passamonti F, Cervantes F, Vannuchi AM, et al.Dynamic International Prognostic Scoring System (DIPSS) predicts progression to acute myeloid leukemia in primary myelofibrosis.Blood.2010;115:1703–1709.
+2.Tefferi A, Guglielmelli P, Nicolosi M, et al.GIPSS: genetically inspired prognostic scoring system for primary myelofibrosis.Leukemia.2018;32(7):1631–1642.doi:10.1038/s41375-018-0107-z
+2.Tefferi A, Guglielmelli P, Nicolosi M, et al.GIPSS: genetically inspired prognostic scoring system for primary myelofibrosis.Leukemia.2018;32(7):1631–1642.doi:10.1038/s41375-018-0107-z
+3.Tefferi A, Guglielmelli P, Lasho TL, et al.MIPSS70+ Version 2.0: Mutation and Karyotype-Enhanced International Prognostic Scoring System for Primary Myelofibrosis.J Clin Oncol.2018;36(17):1769–1770.doi:10.1200/JCO.2018.78.9867
+3.Tefferi A, Guglielmelli P, Lasho TL, et al.MIPSS70+ Version 2.0: Mutation and Karyotype-Enhanced International Prognostic Scoring System for Primary Myelofibrosis.J Clin Oncol.2018;36(17):1769–1770.doi:10.1200/JCO.2018.78.9867
+4.Tefferi A.Primary myelofibrosis: 2023 update on diagnosis, risk-stratification, and management.Am J Hematol.2023;98(5):801–821.doi:10.1002/ajh.26857
+4.Tefferi A.Primary myelofibrosis: 2023 update on diagnosis, risk-stratification, and management.Am J Hematol.2023;98(5):801–821.doi:10.1002/ajh.26857
+5.Mesa RA, Schwager S, Radia D, et al.The Myelofibrosis Symptom Assessment Form (MFSAF): an evidence-based brief inventory to measure quality of life and symptomatic response to treatment in myelofibrosis.Leuk Res.2009;33(9):1199–1203.doi:10.1016/j.leukres.2009.01.035
+5.Mesa RA, Schwager S, Radia D, et al.The Myelofibrosis Symptom Assessment Form (MFSAF): an evidence-based brief inventory to measure quality of life and symptomatic response to treatment in myelofibrosis.Leuk Res.2009;33(9):1199–1203.doi:10.1016/j.leukres.2009.01.035
+6.Passamonti F, Giorgino T, Mora B, et al.A clinical-molecular prognostic model to predict survival in patients with post polycythemia vera and post essential thrombocythemia myelofibrosis.Leukemia.2017;31(12):2726–2731. doi: 10.1038/leu.2017.169
+6.Passamonti F, Giorgino T, Mora B, et al.A clinical-molecular prognostic model to predict survival in patients with post polycythemia vera and post essential thrombocythemia myelofibrosis.Leukemia.2017;31(12):2726–2731. doi: 10.1038/leu.2017.169
+骨髓纤维化是指骨髓纤维组织过度增生，常伴造血细胞减少及随后显著的髓外造血。
+骨髓纤维化是指骨髓纤维组织过度增生，常伴造血细胞减少及随后显著的髓外造血。
+骨髓纤维化通常是原发性的，但也可以继发于许多血液系统疾病、恶性肿瘤或非恶性疾病，包括真性红细胞增多症及原发性血小板增多症。
+骨髓纤维化通常是原发性的，但也可以继发于许多血液系统疾病、恶性肿瘤或非恶性疾病，包括真性红细胞增多症及原发性血小板增多症。
+原发性骨髓纤维化是一种克隆性造血干细胞障碍，且常涉及JAK22、CALR或MPL突变。
+原发性骨髓纤维化是一种克隆性造血干细胞障碍，且常涉及JAK22、CALR或MPL突变。
+诊断应结合血常规、外周血涂片检查、骨髓活检以及针对JAK2、MPL和/或CALR基因突变的分子检测结果综合判断。
+诊断应结合血常规、外周血涂片检查、骨髓活检以及针对JAK2、MPL和/或CALR基因突变的分子检测结果综合判断。
+一些疾病呈惰性进展的患者无需立即进行治疗，但有些患者进展迅速，且生存期较短。
+一些疾病呈惰性进展的患者无需立即进行治疗，但有些患者进展迅速，且生存期较短。
+JAK通路抑制剂鲁索替尼是控制症状的首选疗法；其他JAK通路抑制剂可用于对鲁索替尼耐药或不耐受或患有更严重的血小板减少症的患者。
+JAK通路抑制剂鲁索替尼是控制症状的首选疗法；其他JAK通路抑制剂可用于对鲁索替尼耐药或不耐受或患有更严重的血小板减少症的患者。
+异基因干细胞移植在特定病例中具有益处。
+异基因干细胞移植在特定病例中具有益处。
+在疾病早期，聚乙二醇干扰素能有效减轻骨髓纤维化和脾脏肿大。
+在疾病早期，聚乙二醇干扰素能有效减轻骨髓纤维化和脾脏肿大。

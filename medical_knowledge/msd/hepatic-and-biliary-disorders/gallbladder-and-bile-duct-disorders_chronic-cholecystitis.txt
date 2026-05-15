@@ -1,0 +1,34 @@
+标题：慢性胆囊炎
+来源：https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/gallbladder-and-bile-duct-disorders/chronic-cholecystitis
+============================================================
+
+（参见胆管功能概述）
+慢性胆囊炎的病因几乎都是胆结石，既往有急性胆囊炎发作（ 即使是轻度的 ）。其损害从轻度慢性炎症细胞浸润至纤维化、胆囊萎缩。纤维化导致的广泛钙化称为瓷化胆囊。
+
+【慢性胆囊炎的症状和体征】
+胆结石间断性阻塞胆囊管引起反复发作的胆绞痛。此类疼痛发作并不一定伴随明显的胆囊炎或急性胆囊炎发生；炎症程度与胆绞痛的强度或发作频率之间并无明确相关性。可有上腹压痛，但通常无发热。发热提示急性胆囊炎。一旦出现症状，很容易复发。
+
+【慢性胆囊炎的诊断】
+超声检查
+超声检查
+有时可行胆道显像
+有时可行胆道显像
+实验室检查
+实验室检查
+反复发生胆绞痛伴胆结石时应当怀疑慢性胆囊炎。超声或其他影像学检查可发现胆结石，有时能显示萎缩和纤维化的胆囊。依据反复发作的胆绞痛病史和超声发现胆结石的证据做出诊断。
+胆管闪烁显像可表现为胆囊不显影，但准确性不高。
+实验室检查可能提示胆汁淤积；全血细胞计数或急性期反应物（如 C 反应蛋白、红细胞沉降率）升高可提示存在炎症或感染。
+
+【慢性胆囊炎的治疗】
+有时需行腹腔镜胆囊切除术
+有时需行腹腔镜胆囊切除术
+腹腔镜胆囊切除术通常用于慢性胆囊炎引起的持续性胆道症状，尽管手术与保守方法益处的证据不一（1）。
+慢性胆囊炎，尤其是钙化的“瓷样胆囊”，与胆囊癌的发病风险增加相关，但是否应以胆囊切除术作为预防性措施仍存在争议（2, 3）。
+
+【治疗参考文献】
+1.Brazzelli M, Cruickshank M, Kilonzo M, et al.Clinical effectiveness and cost-effectiveness of cholecystectomy compared with observation/conservative management for preventing recurrent symptoms and complications in adults presenting with uncomplicated symptomatic gallstones or cholecystitis: a systematic review and economic evaluation.Health Technol Assess.2014;18(55):1-vi.doi:10.3310/hta18550
+1.Brazzelli M, Cruickshank M, Kilonzo M, et al.Clinical effectiveness and cost-effectiveness of cholecystectomy compared with observation/conservative management for preventing recurrent symptoms and complications in adults presenting with uncomplicated symptomatic gallstones or cholecystitis: a systematic review and economic evaluation.Health Technol Assess.2014;18(55):1-vi.doi:10.3310/hta18550
+2.Chen GL, Akmal Y, DiFronzo AL, et al.Porcelain Gallbladder: No Longer an Indication for Prophylactic Cholecystectomy.Am Surg.2015;81(10):936-940.
+2.Chen GL, Akmal Y, DiFronzo AL, et al.Porcelain Gallbladder: No Longer an Indication for Prophylactic Cholecystectomy.Am Surg.2015;81(10):936-940.
+3.DesJardins H, Duy L, Scheirey C, et al.Porcelain Gallbladder: Is Observation a Safe Option in Select Populations?.J Am Coll Surg.2018;226(6):1064-1069.doi:10.1016/j.jamcollsurg.2017.11.026
+3.DesJardins H, Duy L, Scheirey C, et al.Porcelain Gallbladder: Is Observation a Safe Option in Select Populations?.J Am Coll Surg.2018;226(6):1064-1069.doi:10.1016/j.jamcollsurg.2017.11.026

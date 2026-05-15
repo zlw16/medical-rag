@@ -1,0 +1,98 @@
+标题：营养支持疗法概述
+来源：https://www.msdmanuals.cn/professional/nutritional-disorders/nutritional-support/overview-of-nutritional-support
+============================================================
+
+许多营养不足的患者需要营养支持。营养支持旨在维持或增加瘦体重的比例。对于存在厌食或进食 / 吸收障碍的部分患者，经口喂养可能存在困难。危重病人通常需要营养支持疗法（1,2)。
+有时进行饮食行为测量可能促进经口的营养摄入量，包括以下内容：
+鼓励进食
+鼓励进食
+加热或调味食物
+加热或调味食物
+提供特别喜爱的食物
+提供特别喜爱的食物
+鼓励少量定时多餐
+鼓励少量定时多餐
+围绕用餐安排其他护理或活动
+围绕用餐安排其他护理或活动
+给予辅助喂养
+给予辅助喂养
+与家人和/或朋友协调用餐时间
+与家人和/或朋友协调用餐时间
+如果行为措施无效，则应考虑营养支持——口服营养、肠内营养或肠外营养——除非是临终或患有严重痴呆症的患者。
+
+【参考文献】
+1.Compher C, Bingham AL, McCall M, et al.Guidelines for the provision of nutrition support therapy in the adult critically ill patient: The American Society for Parenteral and Enteral Nutrition [published correction appears inJPEN J Parenter Enteral Nutr. 2022 Aug;46(6):1458-1459. doi: 10.1002/jpen.2419].JPEN J Parenter Enteral Nutr.2022;46(1):12-41.doi:10.1002/jpen.2267
+1.Compher C, Bingham AL, McCall M, et al.Guidelines for the provision of nutrition support therapy in the adult critically ill patient: The American Society for Parenteral and Enteral Nutrition [published correction appears inJPEN J Parenter Enteral Nutr. 2022 Aug;46(6):1458-1459. doi: 10.1002/jpen.2419].JPEN J Parenter Enteral Nutr.2022;46(1):12-41.doi:10.1002/jpen.2267
+2.McClave SA, Taylor BE, Martindale RG, et al.Guidelines for the Provision and Assessment of Nutrition Support Therapy in the Adult Critically Ill Patient: Society of Critical Care Medicine (SCCM) and American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.)[published correction appears inJPEN J Parenter Enteral Nutr. 2016 Nov;40(8):1200].JPEN J Parenter Enteral Nutr.2016;40(2):159-211.doi:10.1177/0148607115621863
+2.McClave SA, Taylor BE, Martindale RG, et al.Guidelines for the Provision and Assessment of Nutrition Support Therapy in the Adult Critically Ill Patient: Society of Critical Care Medicine (SCCM) and American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.)[published correction appears inJPEN J Parenter Enteral Nutr. 2016 Nov;40(8):1200].JPEN J Parenter Enteral Nutr.2016;40(2):159-211.doi:10.1177/0148607115621863
+
+【营养需要量的预测】
+为了制订营养支持治疗的方案，需要预测营养的需要量，可以通过公式计算或者热量仪间接测算。间接量热法需要使用代谢车（一种封闭的再呼吸系统，根据氧气消耗和二氧化碳总产量确定能量消耗）。间接量热法是确定能量需求的首选方法，但它需要特殊的专业知识并且并不总是可用。因此，通常需估算总能量消耗与蛋白质需求量。
+
+【热量消耗】
+总能量消耗 (TEE) 根据患者的体重、活动水平和代谢压力程度（代谢需求）而变化。在成人中，TEE 的范围很广，对于患有严重代谢压力（如创伤或烧伤）的人，TEE 可从每天每千克体重低至 20 千卡到每天每千克体重高至 45 千卡（1，2）。
+TEE 等于以下各项的总和：
+静止状态下代谢率（RMR，或者称作静止状态下热量需要量）一般占TEE的70％
+静止状态下代谢率（RMR，或者称作静止状态下热量需要量）一般占TEE的70％
+食物消化耗热（占TEE的10％）
+食物消化耗热（占TEE的10％）
+生理活动耗热（占TEE的20％）
+生理活动耗热（占TEE的20％）
+营养不良可以使RMR降低至20％。增加代谢应激的情况（如危重症、感染、炎症、创伤、手术）会升高静息代谢率（RMR），但升高幅度很少超过>50%。
+相比于常用的哈里斯 - 本尼迪克特公式，米弗林 - 圣乔尔公式对静息代谢率的估算更为精准、误差更小，其计算结果与间接测热法的实测值偏差通常不超过 20%。
+可以通过将约 10%（对于久坐的人）和约 40%（对于重病患者）添加到 RMR 来估算 TEE。
+
+【蛋白质需要量】
+健康人的蛋白质需要量估计为每天0.8克/千克体重，然而，以下情况可导致需要量增加(见表估计成人每日所需蛋白质量) ：
+代谢增强的患者
+代谢增强的患者
+需要透析的肾衰竭患者
+需要透析的肾衰竭患者
+患者年龄 > 70岁
+患者年龄 > 70岁
+
+【成人每日蛋白质需求量估算】
+成人每日蛋白质需求量估算
+病人情况
+需要量（克/千克体重/天）
+健康成年人
+年龄>70岁
+未经透析的肾功能衰竭（肾小球滤过率 < 25 mL/分钟/1.73 m2)
+0.6–0.75
+需透析的肾衰竭
+代谢应激（如危重症、创伤、烧伤、手术）
+1.2–2.0*
+*McClave SA, Taylor BE, Martindale RG, et al.Guidelines for the Provision and Assessment of Nutrition Support Therapy in the Adult Critically Ill Patient: Society of Critical Care Medicine (SCCM) and American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.)[published correction appears inJPEN J Parenter Enteral Nutr. 2016 Nov;40(8):1200].JPEN J Parenter Enteral Nutr.2016;40(2):159-211.doi:10.1177/0148607115621863
+*McClave SA, Taylor BE, Martindale RG, et al.Guidelines for the Provision and Assessment of Nutrition Support Therapy in the Adult Critically Ill Patient: Society of Critical Care Medicine (SCCM) and American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.)[published correction appears inJPEN J Parenter Enteral Nutr. 2016 Nov;40(8):1200].JPEN J Parenter Enteral Nutr.2016;40(2):159-211.doi:10.1177/0148607115621863
+
+【要求参考】
+1.Compher C, Bingham AL, McCall M, et al.Guidelines for the provision of nutrition support therapy in the adult critically ill patient: The American Society for Parenteral and Enteral Nutrition [published correction appears inJPEN J Parenter Enteral Nutr. 2022 Aug;46(6):1458-1459].JPEN J Parenter Enteral Nutr.2022;46(1):12-41.doi:10.1002/jpen.2267
+1.Compher C, Bingham AL, McCall M, et al.Guidelines for the provision of nutrition support therapy in the adult critically ill patient: The American Society for Parenteral and Enteral Nutrition [published correction appears inJPEN J Parenter Enteral Nutr. 2022 Aug;46(6):1458-1459].JPEN J Parenter Enteral Nutr.2022;46(1):12-41.doi:10.1002/jpen.2267
+2.McClave SA, Taylor BE, Martindale RG, et al.Guidelines for the Provision and Assessment of Nutrition Support Therapy in the Adult Critically Ill Patient: Society of Critical Care Medicine (SCCM) and American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.)[published correction appears inJPEN J Parenter Enteral Nutr. 2016 Nov;40(8):1200. doi: 10.1177/0148607116670155].JPEN J Parenter Enteral Nutr.2016;40(2):159-211.doi:10.1177/0148607115621863
+2.McClave SA, Taylor BE, Martindale RG, et al.Guidelines for the Provision and Assessment of Nutrition Support Therapy in the Adult Critically Ill Patient: Society of Critical Care Medicine (SCCM) and American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.)[published correction appears inJPEN J Parenter Enteral Nutr. 2016 Nov;40(8):1200. doi: 10.1177/0148607116670155].JPEN J Parenter Enteral Nutr.2016;40(2):159-211.doi:10.1177/0148607115621863
+
+【营养支持疗法的疗效评估】
+目前尚无评价营养支持效果的金标准。对于重度体重不足的患者，临床医生可通过体重指数（BMI）的变化进行评估，目标是将体重增加至正常 BMI 范围。然而，常规使用 BMI 作为营养支持反应的指标可能会受到液体增加（常见于肠外营养）而不是真正的瘦体重增加的限制。可以监测身体成分分析和身体脂肪分布评估，但可能需要诊所或医院可能没有的专门设备。监测营养支持的临床反应很重要，包括伤口愈合、力量改善和耐力改善。（更多评估信息请参见营养不良评估：体格检查。
+如果患者需要长期营养支持，可以通过以下方法评估瘦体重的增长：身体成分测量。
+其他测量方法如氮平衡和肌肉强度测量也可用于评估对营养支持的反应，但它们的使用受到可用性的限制。
+氮平衡测定：氮平衡测定值能够反映体内蛋白质供需平衡的状态，等于氮摄入量和氮消耗量之间的差值。正氮平衡（即摄入量大于消耗量）表明蛋白质摄入量是适宜的，精确测量是不切实际的，但估算有助于评估营养支持的效果，特别是当进行连续测量（例如，每周1至2次）时：
+氮的摄入量可以通过蛋白质的摄入量来推算：氮（克）等于蛋白质（克）/6.25。
+氮的摄入量可以通过蛋白质的摄入量来推算：氮（克）等于蛋白质（克）/6.25。
+估计的氮丢失包括尿氮丢失（通过精确收集24小时尿并测量其尿素氮含量来估算）、粪便丢失（若有排便，按1克/天估算；若无排便，可忽略不计）以及非显性与其他未测量丢失（按3克估算）。
+估计的氮丢失包括尿氮丢失（通过精确收集24小时尿并测量其尿素氮含量来估算）、粪便丢失（若有排便，按1克/天估算；若无排便，可忽略不计）以及非显性与其他未测量丢失（按3克估算）。
+肌肉力量间接反映了瘦体重的增加。可通过握力计进行定量测量，或通过电生理方法（通常用电极刺激尺神经）测量。
+急相蛋白质的测定：血清中某些蛋白质测定，尤其是半衰期短的蛋白质（如前白蛋白、视黄酸结合蛋白和转铁蛋白等）能够用于判断营养支持疗法的效果。但是应该注意，这些蛋白质与炎症的关系更为密切 (1)。
+
+【评估响应参考】
+1.Evans DC, Corkins MR, Malone A, et al.The Use of Visceral Proteins as Nutrition Markers: An ASPEN Position Paper [published correction appears inNutr Clin Pract. 2021 Aug;36(4):909].Nutr Clin Pract.2021;36(1):22-28.doi:10.1002/ncp.10588
+1.Evans DC, Corkins MR, Malone A, et al.The Use of Visceral Proteins as Nutrition Markers: An ASPEN Position Paper [published correction appears inNutr Clin Pract. 2021 Aug;36(4):909].Nutr Clin Pract.2021;36(1):22-28.doi:10.1002/ncp.10588
+行为性措施可避免营养支持的需要。
+行为性措施可避免营养支持的需要。
+根据患者的体重、性别、活动水平及代谢应激程度（如因危重症、创伤、烧伤或近期手术），预测其能量需求。
+根据患者的体重、性别、活动水平及代谢应激程度（如因危重症、创伤、烧伤或近期手术），预测其能量需求。
+正常蛋白质的需要量是0.8克/千克/天，但是，如果年龄>70岁或者患者患有肾功能衰竭和代谢应激状态，则应该调整供给量。
+正常蛋白质的需要量是0.8克/千克/天，但是，如果年龄>70岁或者患者患有肾功能衰竭和代谢应激状态，则应该调整供给量。
+使用伤口愈合、力量改善和耐力改善等临床指标来评估对营养支持的反应。
+使用伤口愈合、力量改善和耐力改善等临床指标来评估对营养支持的反应。
+如果患者需要长期营养支持，则可以通过测量身体成分来评估瘦体重的增长。
+如果患者需要长期营养支持，则可以通过测量身体成分来评估瘦体重的增长。

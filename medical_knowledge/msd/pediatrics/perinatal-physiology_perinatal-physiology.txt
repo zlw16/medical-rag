@@ -1,0 +1,118 @@
+标题：围产期生理
+来源：https://www.msdmanuals.cn/professional/pediatrics/perinatal-physiology/perinatal-physiology
+============================================================
+
+从宫内到出生后的转变，新生儿经历了一系列生理和功能上的变化。也可以看看围产期问题。
+
+【新生儿红细胞生成功能】
+(参见围产期贫血。）
+胎儿红细胞生成发生在妊娠2至10周的卵黄囊；妊娠18周前主要发生在肝脏；约18周起始于骨髓，至30周时骨髓成为主要生成场所。皮肤髓外造血，包括红细胞生成，可能出现在患有导致严重贫血的疾病的新生儿中（例如，先天性感染、溶血性贫血）（1）。
+在子宫内，红细胞生成完全由肝脏产生的胎儿红细胞生成素控制；母体的红细胞生成素不能通过胎盘。胎儿红细胞含有约55%至90%的胎儿血红蛋白（血红蛋白F或HbF），其氧亲和力高于成人血红蛋白。因此，在整个胎盘上保持高的氧气浓度梯度，导致从母体到胎儿循环的充足氧气转移。
+出生后，这种增高的氧亲和力效用降低；胎儿血红蛋白向组织释放氧气的能力减弱，可能对患有严重肺部疾病、心脏疾病及低氧血症的新生儿产生不利影响。从胎儿到成人血红蛋白的转变在出生前就开始了；在分娩时，促红细胞生成素的产生部位由肝脏转变为更敏感的肾小管周围细胞，其机制尚不清楚。正常新生儿出生时PaO2从胎儿时的25～30mmHg急骤升高至90～95mmHg，引起血清红细胞生成素降低，导致出生时红细胞生成停止，这一过程持续6～8周，引起生理性贫血，并导致该特定人群的早产儿贫血。循环红细胞的这种生理性减少刺激了红细胞的骨髓生成，现在由肾脏产生的促红细胞生成素调节，因此生理性贫血通常不需要任何治疗。
+
+【新生儿红细胞生成功能参考】
+1.Aher S, Malwatkar K, Kadam S.Neonatal anemia.Semin Fetal Neonatal Med.2008;13(4):239–247.doi:10.1016/j.siny.2008.02.009
+1.Aher S, Malwatkar K, Kadam S.Neonatal anemia.Semin Fetal Neonatal Med.2008;13(4):239–247.doi:10.1016/j.siny.2008.02.009
+
+【新生儿胆红素代谢】
+衰老或破坏的胎儿红细胞被网状内皮细胞（主要是巨噬细胞）从胎儿和母体循环中清除。这些细胞将血红素转化为胆红素（1g血红蛋白可生成35mg胆红素）。这些胆红素与白蛋白结合通过循环转送到肝脏，并转移至肝细胞内。尿苷5'-二磷酸-葡萄糖醛酸转移酶（UGT）随后将胆红素与尿苷二磷酸葡萄糖醛酸结合，形成结合胆红素（胆红素双葡萄糖醛酸酯），并主动分泌进入胆道（1）。
+胎儿胆红素主要通过胎盘转移到母亲血浆中，借助浓度梯度从循环中清除。然后经母亲的肝脏结合和清除的。
+胎儿肝脏的尿苷二磷酸葡萄糖醛酸转移酶（UGT）水平相对较低（妊娠20周时无法检测到，出生时仅为成人水平的＜10%）（2、3）。胎儿体内结合的胆红素进入胃肠道的胎粪中，但由于胎儿通常不排便，因此无法在子宫内从体内排出。 存在于胎儿小肠上皮细胞刷状缘的beta-葡萄糖醛酸酶释放入肠腔，使胆红素葡萄糖醛酸酯重新分解；游离（非结合）胆红素随后从小肠肠腔内重吸收，并重新进入胎儿循环。
+出生时，胎盘连接终止，新生儿肝脏继续摄取、结合胆红素并将其排入胆汁，使其能够通过粪便排出。然而，由于新生儿UGT水平低且缺乏适当的肠道细菌将胆红素在肠道中氧化为尿胆原，未改变的胆红素保留在粪便中，呈现典型的亮黄色。此外，新生儿消化道（类似于胎儿）含有β-葡萄糖醛酸酶，可使部分胆红素脱结合。
+喂养产生的胃结肠反射，能使胆红素在被重新分解和重吸收之前通过大便排出。然而，在许多新生儿中，未结合胆红素可被重吸收，并从肠道重新进入循环（胆红素的肠肝循环），从而导致生理性高胆红素血症和黄疸。新生儿红细胞压积增加和红细胞寿命缩短会导致胆红素产生增加，这也会导致生理性高胆红素血症。
+（参见肝脏结构和功能和新生儿高胆红素血症。）
+
+【新生儿胆红素代谢参考值】
+1.Chastain AP, Geary AL, Bogenschutz KM.Managing neonatal hyperbilirubinemia: An updated guideline.JAAPA.2024;37(10):19-25.doi:10.1097/01.JAA.0000000000000120
+1.Chastain AP, Geary AL, Bogenschutz KM.Managing neonatal hyperbilirubinemia: An updated guideline.JAAPA.2024;37(10):19-25.doi:10.1097/01.JAA.0000000000000120
+2.Strassburg CP, Strassburg A, Kneip S, et al.Developmental aspects of human hepatic drug glucuronidation in young children and adults.Gut.2002;50(2):259-265.doi:10.1136/gut.50.2.259
+2.Strassburg CP, Strassburg A, Kneip S, et al.Developmental aspects of human hepatic drug glucuronidation in young children and adults.Gut.2002;50(2):259-265.doi:10.1136/gut.50.2.259
+3.Sugatani J.Function, genetic polymorphism, and transcriptional regulation of human UDP-glucuronosyltransferase (UGT) 1A1.Drug Metab Pharmacokinet.2013;28(2):83-92.doi:10.2133/dmpk.dmpk-12-rv-096
+3.Sugatani J.Function, genetic polymorphism, and transcriptional regulation of human UDP-glucuronosyltransferase (UGT) 1A1.Drug Metab Pharmacokinet.2013;28(2):83-92.doi:10.2133/dmpk.dmpk-12-rv-096
+
+【新生儿免疫功能】
+胎儿免疫功能发育贯穿整个妊娠期。即使在足月婴儿中，大多数免疫机制也不能完全发挥作用。因此，所有新生儿和小婴儿相对于成人来说免疫功能低下，并且感染的风险增加。在早产儿中，胎龄越小，免疫功能越差。母体疾病、新生儿压力和药物（如免疫抑制剂、抗癫痫药物）会增加新生儿感染的风险。新生儿免疫反应下降也可能导致某些感染没有发烧或局部临床症状（例如脑膜刺激征）。
+在胎儿期，吞噬细胞最早可见于卵黄囊发育期，是产生抵抗细菌和真菌感染的炎症反应所必需的。妊娠第二个月可鉴定粒细胞，妊娠第四个月可鉴定单核细胞。它们的功能水平随着胎龄的增长而增加，但足月时仍然很低。
+出生时，中性粒细胞的超微结构正常，但大多数新生儿的中性粒细胞和单核细胞的趋化性低，这是因为细胞本身的移动能力和黏附于表面的能力异常。这些功能性的缺乏在早产儿更为明显。
+约在妊娠第14周，胸腺有功能，造血干细胞产生淋巴细胞，在胸腺中累积并进一步发育。同时，在14周时，T细胞也出现于胎儿肝脏和脾脏中，提示在这一年龄段，继发性外周淋巴器官中已经有成熟的T细胞形成。胸腺在胎儿发育和出生后早期最为活跃。它在子宫内生长迅速，健康新生儿胸部X片上清晰可见，10岁时体积达到最大，此后多年逐渐退化。
+胎儿循环中的T细胞数量在妊娠中期逐渐增加，到妊娠30至32周时达到接近正常水平。与成年人相比，新生儿出生时有相对的T淋巴细胞增多症。然而，新生儿T细胞的功能不如成人T细胞有效。例如，新生儿T细胞可能对抗原没有充分的反应，并且可能不会产生细胞因子。
+妊娠第12周，胎儿的骨髓、血液、肝脏和脾脏中已发现有B细胞存在。微量IgM和IgG可在第20周检测到，微量IgA可在第30周检测到。由于正常条件下胎儿处于无抗原的环境中，在宫内仅有少量免疫球蛋白（主要是IgM）产生。因此脐血IgM值升高提示宫内存在抗原，常为先天性感染所致。几乎所有的IgG都是通过胎盘从母体处获得的。妊娠 22 周后，胎盘 IgG 转移增加，足月时达到母体水平或更高。因此，早产儿出生时的IgG水平相对于足月儿的水平有所降低（1）。
+母体免疫的被动转移，如经胎盘转移的免疫球蛋白G、分泌型免疫球蛋白A以及母乳中的抗菌因子（如免疫球蛋白G、分泌型免疫球蛋白A、白细胞、补体蛋白、溶菌酶、乳铁蛋白）有助于弥补新生儿不成熟的免疫系统，并使新生儿获得针对多种细菌和病毒的免疫力。母乳中含有许多保护性免疫因子，通过黏膜相关淋巴组织分布于胃肠道和上呼吸道表面，有助于降低呼吸道和肠道病原体侵入黏膜的可能性。
+随着时间的推移，被动免疫开始减弱，在婴儿出生后3～6个月达到最低值。 但早产儿在出生后6个月，可能有较明显的低丙种球蛋白血症。1岁时IgG水平达到成人平均水平的一半左右。IgA、IgM、IgD和IgE都不能通过胎盘，因此出生时仅能检测到微量，在儿童期缓慢增加。IgG、IgM和IgA在大约5至10岁时达到成人水平（2）。
+尽管早产儿对初始剂量疫苗的抗体反应可能低于足月儿，但早产儿仍能对大多数疫苗产生保护性反应，应与足月儿按相同时间表接种疫苗。然而，对于出生体重＜2 kg的婴儿，建议采用不同的乙型肝炎疫苗接种方案（参见乙型肝炎疫苗和新生儿乙型肝炎病毒感染）（3、4）。
+(参见免疫系统的细胞成分和免疫系统的分子成分。）
+
+【新生儿免疫功能参考值】
+1.Albrecht M, Pagenkemper M, Wiessner C, et al.Infant immunity against viral infections is advanced by the placenta-dependent vertical transfer of maternal antibodies.Vaccine.2022;40(11):1563-1571.doi:10.1016/j.vaccine.2020.12.049
+1.Albrecht M, Pagenkemper M, Wiessner C, et al.Infant immunity against viral infections is advanced by the placenta-dependent vertical transfer of maternal antibodies.Vaccine.2022;40(11):1563-1571.doi:10.1016/j.vaccine.2020.12.049
+2.Bayram RO, Özdemir H, Emsen A, Türk Dağı H, Artaç H.Reference ranges for serum immunoglobulin (IgG, IgA, and IgM) and IgG subclass levels in healthy children.Turk J Med Sci.2019;49(2):497-505.Published 2019 Apr 18.doi:10.3906/sag-1807-282
+2.Bayram RO, Özdemir H, Emsen A, Türk Dağı H, Artaç H.Reference ranges for serum immunoglobulin (IgG, IgA, and IgM) and IgG subclass levels in healthy children.Turk J Med Sci.2019;49(2):497-505.Published 2019 Apr 18.doi:10.3906/sag-1807-282
+3.Schillie S, Vellozzi C, Reingold A, et al.Prevention of Hepatitis B Virus Infection in the United States: Recommendations of the Advisory Committee on Immunization Practices.MMWR Recomm Rep.2018;67(1):1-31.Published 2018 Jan 12.doi:10.15585/mmwr.rr6701a1
+3.Schillie S, Vellozzi C, Reingold A, et al.Prevention of Hepatitis B Virus Infection in the United States: Recommendations of the Advisory Committee on Immunization Practices.MMWR Recomm Rep.2018;67(1):1-31.Published 2018 Jan 12.doi:10.15585/mmwr.rr6701a1
+4.Sadeck LDSR, Kfouri RÁ.An update on vaccination in preterm infants.J Pediatr (Rio J).2023;99 Suppl 1(Suppl 1):S81-S86.doi:10.1016/j.jped.2022.12.004
+4.Sadeck LDSR, Kfouri RÁ.An update on vaccination in preterm infants.J Pediatr (Rio J).2023;99 Suppl 1(Suppl 1):S81-S86.doi:10.1016/j.jped.2022.12.004
+
+【新生儿心血管功能】
+胎儿循环的特点是血液通过未通气和灌注最少的肺部，经由动脉导管未闭（连接肺动脉和主动脉）和卵圆孔（连接左右心房）从右向左分流。肺动脉高阻力和相对较低的全身和胎盘循环血流阻力促使分流。整个妊娠期总计大约11%的胎儿心输出量流向肺部，其余直接进入体循环（1）。
+胎儿动脉导管的开放是由胎儿体循环较低的动脉血氧分压（约为25mmHg）以及局部产生的前列腺素共同维持的。卵圆孔的开放是由于心房间压力差：因为从肺回流至左心房的血液很少，导致左心房压力较低；而由于大量血液从胎盘回流至右心房，因此右心房压力较高。
+
+【胎儿正常血液循环】
+胎儿正常血液循环
+在胎儿体内，进入心脏右侧的血液已经通过胎盘被补充氧。因为肺不通气，只有少量的血液需要通过肺动脉。大部分来自心脏右侧的血液通过以下结构绕过肺部
+动脉导管
+动脉导管
+通常，这两种结构在出生后不久就会关闭。
+红色箭头代表氧合程度最高的胎儿血液（氧饱和度≥65%）。蓝色箭头代表氧合程度最低的血液（氧饱和度≤45%）。紫色箭头代表中等氧饱和度（氧饱和度50–60%）。 需注意，整个胎儿期的血氧饱和度显著低于出生后水平。
+该系统在出生后和新生儿最初几次呼吸后发生深刻变化，导致肺血流量增加和卵圆孔功能关闭。肺动脉阻力急剧下降，这主要是由于肺膨胀引起的血管扩张、PaO2升高、PaCO2降低以及血管舒张剂的释放，特别是内皮源性一氧化氮。肋骨和胸壁的弹性力降低肺间质压力，进一步促进肺毛细血管内血流。肺部静脉回流增加会提高左心房压力。
+随着肺血流量的建立，来自肺部的静脉回流持续增加，进一步提高左心房压力。增加PaO2会收缩脐动脉，并减少或停止胎盘血流，从而减少回流至右心房的血液。因此，右心房压力下降而左心房压力上升；这一压力变化促使原发隔向继发隔贴合，从而实现卵圆孔的功能性闭合。约75%的人群中，这2个隔膜最终融合，卵圆孔闭合；剩余25%存在卵圆孔未闭（2）。
+出生后数分钟内，体循环血管阻力即高于肺循环血管阻力，肺动脉压相对于体循环血压下降。 血液流经动脉导管的方向发生逆转，形成从左到右的血液分流（称为过渡性循环）。这种状态从出生后一直持续到大约 24 至 72 小时，此时动脉导管收缩并闭合。动脉导管闭合机制复杂，早在产前即开始启动；出生后其闭合部分依赖于主动脉血及其滋养血管的高氧分压（PO2）以及前列腺素代谢的改变。一旦动脉导管闭合，就存在成人型循环。现在两个心室串联泵血，肺循环和体循环之间通常没有大的分流。
+产前压力、产后压力和解剖差异导致出生后肺血管阻力持续升高，可能导致新生儿持续性肺动脉高压。低氧血症和酸中毒会导致肺动脉小动脉收缩（或无法舒张），并且动脉导管保持开放甚至扩张，这会阻止之前描述的生理过程，并导致肺血流减少，同时通过动脉导管、卵圆孔或两者均出现持续的右向左分流。
+(参见先天性心血管畸形。)
+
+【新生儿心血管功能参考文献】
+1.Mielke G, Benda N.Cardiac output and central distribution of blood flow in the human fetus.Circulation.2001;103(12):1662-1668.doi:10.1161/01.cir.103.12.1662
+1.Mielke G, Benda N.Cardiac output and central distribution of blood flow in the human fetus.Circulation.2001;103(12):1662-1668.doi:10.1161/01.cir.103.12.1662
+2.Koutroulou I, Tsivgoulis G, Tsalikakis D, Karacostas D, Grigoriadis N, Karapanayiotides T.Epidemiology of Patent Foramen Ovale in General Population and in Stroke Patients: A Narrative Review.Front Neurol.2020;11:281.Published 2020 Apr 28.doi:10.3389/fneur.2020.00281
+2.Koutroulou I, Tsivgoulis G, Tsalikakis D, Karacostas D, Grigoriadis N, Karapanayiotides T.Epidemiology of Patent Foramen Ovale in General Population and in Stroke Patients: A Narrative Review.Front Neurol.2020;11:281.Published 2020 Apr 28.doi:10.3389/fneur.2020.00281
+
+【新生儿肺功能】
+胎儿肺发育经历器官发生和分化阶段。大约在第25周时，相当成熟的肺泡和产生表面活性剂的II型肺泡上皮细胞已经形成，并在整个妊娠期间继续成熟。
+胎儿肺不断产生液体，这是一种来自肺毛细血管的分泌物，加上由Ⅱ型肺泡上皮细胞分泌的一些肺表面活性物质。为了使出生后进行正常气体交换，必须迅速清除肺泡和肺间质中的液体。这种清除过程主要是通过上皮钠通道激活将液体吸收到肺细胞中而发生的。阴道分娩时对胎儿胸腔的压迫对肺液的清除作用很小（1）。新生儿暂时性呼吸急促可能是由于该清除过程延迟而引起的（2）。
+分娩时，肋骨的弹性回缩和强烈的吸气努力将空气吸入肺支气管树，在肺泡中形成气液界面。婴儿第一次呼吸时，肺表面活性物质分泌进入气液交界面。肺表面活性物质是由磷脂类（磷脂酰胆碱、磷脂酰甘油、磷脂酰肌醇）、中性脂质和4种表面活性蛋白组成的混合物，全部储存在Ⅱ型肺泡上皮细胞的板层包涵体内，能降低高表面张力，从而允许肺泡扩张并维持功能残气量。表面活性物质在小肺泡中的作用比大肺泡更有效，因此抵消了小肺泡根据Laplace定律（该定律指出在弹性腔体中，压力随着体积的增加而降低）倾向于塌陷成大肺泡的趋势。
+在某些新生儿中，肺表面活性物质可能生成不足，无法预防弥漫性肺不张，进而发生呼吸窘迫综合征。早产、妊娠期糖尿病、新生儿胎粪吸入和新生儿败血症可能导致肺表面活性物质的产生减少及其功能降低。通过在分娩前24至48小时给予母亲糖皮质激素，可以增加早产儿的新生儿表面活性物质的产生。分娩后，也可以给予新生儿气管内表面活性剂。
+(参见新生儿呼吸问题。)
+
+【新生儿肺功能参考文献】
+1.Ramachandrappa A, Jain L.Elective cesarean section: Its impact on neonatal respiratory outcome.Clin Perinatol.2008;35(2):373–393, vii.doi:10.1016/j.clp.2008.03.006
+1.Ramachandrappa A, Jain L.Elective cesarean section: Its impact on neonatal respiratory outcome.Clin Perinatol.2008;35(2):373–393, vii.doi:10.1016/j.clp.2008.03.006
+2.Baum M.Neonatal nephrology.Curr Opin Pediatr.2016;28(2):170-172.doi:10.1097/MOP.0000000000000325
+2.Baum M.Neonatal nephrology.Curr Opin Pediatr.2016;28(2):170-172.doi:10.1097/MOP.0000000000000325
+
+【新生儿肾功能】
+胎儿肾脏约在妊娠10周时开始产生尿液。 肾形成持续到约34至36周。34周前出生的婴儿，其新肾单位在出生后40天内仍会继续生成。肾单位数量减少的后果可能持续至成年期，一些研究显示其与肥胖、高血压等疾病存在关联（1）。
+肾小球滤过率 (GFR) 在妊娠期间逐渐增加，尤其是在妊娠晚期。 然而，新生儿（尤其是早产儿）的肾功能水平通常仍低于正常儿童及成人。在生后最初的数月，肾小球滤过率快速增加；但是，肾小球滤过率、尿素清除率和肾小管最大清除率直到1～2岁时才能达到成人水平。
+因为多种因素可影响肌酐水平，所以新生儿肾功能评估可能具有挑战性，尤其对于早产儿或存在围产期缺氧缺血性肾损伤风险的患儿。由于妊娠期间肌酐可通过胎盘转运，新生儿肌酐水平反映母体肾功能。 早产儿肾小管肌酐重吸收率高于足月儿。 肌酐由肌肉产生，新生儿的肌肉量较成人低，因此肌酐生成也较少；即使发生围产期肾损伤，肌酐水平也可能不会升高（2）。
+
+【新生儿肾功能参考文献】
+1.Baum M.Neonatal nephrology.Curr Opin Pediatr.2016;28(2):170-172.doi:10.1097/MOP.0000000000000325
+1.Baum M.Neonatal nephrology.Curr Opin Pediatr.2016;28(2):170-172.doi:10.1097/MOP.0000000000000325
+2.Kastl JT.Renal function in the fetus and neonate - the creatinine enigma.Semin Fetal Neonatal Med.2017;22(2):83-89.doi:10.1016/j.siny.2016.12.002
+2.Kastl JT.Renal function in the fetus and neonate - the creatinine enigma.Semin Fetal Neonatal Med.2017;22(2):83-89.doi:10.1016/j.siny.2016.12.002
+
+【新生儿内分泌功能】
+(参见内分泌系统概述。）
+胎儿完全依赖母体通过胎盘供应葡萄糖，其本身不能生成葡萄糖。在怀孕早期胎儿就开始建立肝糖原的储备，大多数的糖原是在妊娠的最后一个半月累积的。切断脐带后，新生儿的葡萄糖供应停止；与此同时，循环中的肾上腺素、去甲肾上腺素和胰高血糖素水平急剧上升，而胰岛素水平下降。这些变化刺激葡萄糖异生和肝糖原的分解代谢。
+在健康足月新生儿中，血糖水平于出生后30至90分钟达到最低值，随后胰岛素与胰高血糖素比值下降及脂解产物共同刺激糖原分解和糖异生作用增强，新生儿通常能够维持正常的葡萄糖稳态。患新生儿低血糖症风险最高的婴儿包括那些糖原储备减少的人（小于胎龄儿和早产儿)、葡萄糖分解代谢增加的危重婴儿以及糖尿病控制不佳的母亲的婴儿（可导致暂时性胎儿高胰岛素血症）（1）。
+
+【矿物质调节】
+在胎儿期，胎盘是骨骼矿化所需矿物质的主要来源，钙、镁和磷这些矿物质通过主动转运方式，在母体和胎盘分泌的甲状旁腺激素（PTH）及其相关蛋白（PTHrP）的刺激下传递给胎儿。胎盘提供的高血钙水平抑制胎儿甲状旁腺激素（PTH）分泌。
+当出生时剪断脐带后，胎盘钙的供应停止，导致血清钙水平下降20%至30%，并在24至48小时内降至最低点。同时，血清磷水平上升。新生儿甲状旁腺在完全发挥反应能力之前存在滞后期（生理性甲状旁腺功能减退），血清PTH水平随后因血清钙下降而激增。随后，钙和磷水平稳定在新生儿水平，骨骼矿物质稳态则由肠道和肾脏调控（2）。
+
+【先天性甲状腺功能低下】
+对先天性甲状腺功能减退症的筛查和治疗是新生儿甲状腺功能相关的首要关注点。（另见婴幼儿及儿童甲状腺功能减退症、婴幼儿及儿童甲状腺功能亢进症及先天性甲状腺肿。）
+
+【新生儿内分泌功能参考文献】
+1.Harding JE, Alsweiler JM, Edwards TE, McKinlay CJ.Neonatal hypoglycaemia.BMJ Med.2024;3(1):e000544.Published 2024 Apr 9.doi:10.1136/bmjmed-2023-000544
+1.Harding JE, Alsweiler JM, Edwards TE, McKinlay CJ.Neonatal hypoglycaemia.BMJ Med.2024;3(1):e000544.Published 2024 Apr 9.doi:10.1136/bmjmed-2023-000544
+2.Kovacs CS.Calcium, phosphorus, and bone metabolism in the fetus and newborn.Early Hum Dev.2015;91(11):623–628.doi:10.1016/j.earlhumdev.2015.08.007
+2.Kovacs CS.Calcium, phosphorus, and bone metabolism in the fetus and newborn.Early Hum Dev.2015;91(11):623–628.doi:10.1016/j.earlhumdev.2015.08.007

@@ -1,0 +1,317 @@
+标题：异常子宫出血
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/abnormal-uterine-bleeding/abnormal-uterine-bleeding
+============================================================
+
+(参见阴道出血。）
+异常子宫出血（AUB）是育龄期妇女的常见问题。排卵功能障碍（无排卵或稀发排卵）最常见于青少年和>45岁的女性，是AUB的最常见原因，会导致闭经或月经不规律。AUB的其他模式包括月经过多或月经间期出血。
+
+【AUB的病理生理学】
+在排卵功能障碍中，无排卵周期内虽会产生雌激素，但卵巢中不会形成黄体。因此，孕激素的正常周期性分泌不会发生，雌激素刺激子宫内膜而不受抑制。若没有孕酮的拮抗作用，子宫内膜会持续增殖，最终超出其血液供应能力，进而出现不完全脱落。这会导致不规则出血，出血间隔时间长，且/或频繁出血，有时出血量大，并可能持续数天或数周。当这种异常过程反复发生时，可能发展为子宫内膜增生或癌症。
+在肥胖女性中，雌激素水平升高会扰乱正常周期所需的激素平衡，并扰乱排卵。这可能是由于雄激素在外周转化为雌激素，从而导致下丘脑-垂体-卵巢轴的负反馈，并影响促性腺激素释放激素的释放。此外，肥胖会改变脂肪因子（瘦素和脂联素）的水平，从而影响激素平衡。如果由于胰岛素抵抗或高胰岛素水平导致雄激素生成增加，则会干扰排卵。在肥胖的妇女中，如果雌激素水平很高，也会发生有排卵的异常子宫出血，导致闭经与不规则或长时间出血交替出现。由于胰岛素抵抗或高胰岛素水平导致雄激素生成增加，可能会干扰排卵。
+如果周期延长，有排卵周期的患者也可能发生月经不规律。若卵泡期较短且黄体期功能障碍（由于孕酮对子宫内膜刺激不足）时，可出现此情况；排卵前雌激素水平迅速下降亦可引起点状出血。如果月经周期的黄体期孕酮分泌延长，也可能发生这种情况。子宫内膜不规则脱落的结果，可能是因为雌激素水平在出血阈值附近保持低水平（如月经期间）。
+不规则或经间期子宫出血的其他机制包括子宫内膜出血的非激素原因（子宫内膜炎、子宫内膜息肉、子宫内膜增生或癌症、黏膜下子宫肌瘤）。
+月经过多（周期性出血且出血量增加）可能是由于干扰子宫肌层功能的结构性病变（子宫肌瘤、子宫腺肌症）或凝血功能障碍引起的。
+慢性大量或长期的子宫出血可能导致缺铁性贫血。也可能出现急性严重出血。
+如果 AUB 是由于排卵功能障碍，不育症也可能存在。
+
+【AUB的病因】
+育龄期非妊娠女性 AUB 的病因可分为结构性或非结构性，以帮助确定病因和治疗。 可以使用 PALM-COEIN 分类系统（1）。PALM-COEIN 是异常出血结构性病因（PALM）和非结构性病因（COEIN）的助记符（见图PALM-COEIN 分类系统）。
+
+【PALM-COEIN分类系统】
+PALM-COEIN分类系统
+排卵功能障碍导致的AUB (AUB-O)是最常见的非结构性 AUB 类型，也是最常见原因。AUB-O 可由任何导致无排卵或少排卵的疾病或状况引起（不规则或不频繁排卵——见表排卵功能障碍的一些原因）。排卵功能障碍的原因包括:
+初潮期或围绝经期
+初潮期或围绝经期
+原发性卵巢功能不全
+原发性卵巢功能不全
+雄激素过多（特别是由于多囊卵巢综合征所致）
+雄激素过多（特别是由于多囊卵巢综合征所致）
+垂体功能障碍（例如，垂体腺瘤、垂体照射引起的高泌乳素血症），
+垂体功能障碍（例如，垂体腺瘤、垂体照射引起的高泌乳素血症），
+甲状腺功能减退症
+甲状腺功能减退症
+特发性（有时促性腺激素水平正常时发生）
+特发性（有时促性腺激素水平正常时发生）
+下丘脑功能障碍可能导致GnRH产生减少，进而导致促性腺激素产生减少。常见原因是由于饮食限制、营养不良、剧烈运动或情绪压力导致能量摄入不足。因下丘脑功能障碍而闭经的女性血清瘦素（一种由脂肪细胞产生的厌食激素）水平较低；较低的水平可能有助于减少促性腺激素的产生 (2)。
+在围绝经期，AUB-O可能是卵巢功能不全的早期迹象；卵泡仍在发育中，但尽管卵泡刺激素（FSH）水平不断提高，但仍不能产生足够的雌激素来激发排卵。
+一些数据表明，子宫内膜异位症与AUB-O相关，但机制尚不清楚，且研究结果不一致 （2）。
+排卵功能障碍的其他原因包括全身性疾病（例如肝脏或肾脏疾病、库欣综合征、自身免疫性疾病【例如系统性红斑狼疮】）。全身性疾病会扰乱调节月经周期的下丘脑-垂体-卵巢轴，从而影响激素生成并扰乱排卵。
+严重的身体或情绪压力以及营养不良是下丘脑性闭经的常见原因，但部分此类患者会出现排卵稀少，从而表现为月经稀少。
+AUB 的其他非结构性原因包括:
+凝血功能障碍
+凝血功能障碍
+子宫内膜因素（例如子宫内膜炎）
+子宫内膜因素（例如子宫内膜炎）
+医源性（如激素避孕药的突破性出血）
+医源性（如激素避孕药的突破性出血）
+AUB的结构类型包括:
+子宫内膜息肉
+子宫内膜息肉
+子宫腺肌症
+子宫腺肌症
+平滑肌瘤（子宫肌瘤）
+平滑肌瘤（子宫肌瘤）
+子宫内膜增生或子宫癌
+子宫内膜增生或子宫癌
+
+【病因参考文献】
+1.Munro MG, Critchley HOD, Fraser IS; FIGO Menstrual Disorders Committee.The two FIGO systems for normal and abnormal uterine bleeding symptoms and classification of causes of abnormal uterine bleeding in the reproductive years: 2018 revisions [published correction appears inInt J Gynaecol Obstet. 2019 Feb;144(2):237. doi: 10.1002/ijgo.12709.].Int J Gynaecol Obstet.2018;143(3):393-408.doi:10.1002/ijgo.12666
+1.Munro MG, Critchley HOD, Fraser IS; FIGO Menstrual Disorders Committee.The two FIGO systems for normal and abnormal uterine bleeding symptoms and classification of causes of abnormal uterine bleeding in the reproductive years: 2018 revisions [published correction appears inInt J Gynaecol Obstet. 2019 Feb;144(2):237. doi: 10.1002/ijgo.12709.].Int J Gynaecol Obstet.2018;143(3):393-408.doi:10.1002/ijgo.12666
+2.Santulli P, Tran C, Gayet V, et al.Oligo-anovulation is not a rarer feature in women with documented endometriosis.Fertil Steril.2018;110(5):941-948.doi:10.1016/j.fertnstert.2018.06.012
+2.Santulli P, Tran C, Gayet V, et al.Oligo-anovulation is not a rarer feature in women with documented endometriosis.Fertil Steril.2018;110(5):941-948.doi:10.1016/j.fertnstert.2018.06.012
+
+【AUB的症状和体征】
+与正常的月经相比，异常子宫出血可能具有以下特征（见表正常月经参数[1]）：
+月经频率增加（月经间隔< 24天）
+月经频率增加（月经间隔< 24天）
+月经周期不规则（周期频率变化 ≥ 8～10 天）。
+月经周期不规则（周期频率变化 ≥ 8～10 天）。
+长期出血（> 8天）
+长期出血（> 8天）
+月经期间出血量增加（> 80 mL [或患者报告的出血量]）（月经量过多）
+月经期间出血量增加（> 80 mL [或患者报告的出血量]）（月经量过多）
+经间期出血
+经间期出血
+
+【正常月经参数*】
+正常月经参数*
+≥ 24 至 ≤ 38 天
+周期长度是指从一个月经周期的第一天到下一个月经期的第一天的天数。
+≤ 7至9天
+规律性定义为最长周期与最短周期之间的周期长度变化。
+持续时间
+每个周期的出血持续天数≤ 8 天
+< 80 mL
+在临床上，患者对出血的描述为正常量
+临床上，精确测量出血量是不可行的。出血量的评估基于患者的描述（轻度、正常、重度）。
+临床医生有时会通过询问一段时间内有多少卫生巾或卫生棉条被浸透来进行估计（如果患者在 3 小时或更短时间内浸透一块卫生巾或卫生棉条和/或排出直径大于 1 英寸 [2.5 厘米] 的血块，则可能出现大量出血）。
+* Based onMunro MG, Critchley HOD, Fraser IS; FIGO Menstrual Disorders Committee.The two FIGO systems for normal and abnormal uterine bleeding symptoms and classification of causes of abnormal uterine bleeding in the reproductive years: 2018 revisions [published correction appears inInt J Gynaecol Obstet. 2019 Feb;144(2):237. doi: 10.1002/ijgo.12709.].Int J Gynaecol Obstet.2018;143(3):393-408.doi:10.1002/ijgo.12666
+* Based onMunro MG, Critchley HOD, Fraser IS; FIGO Menstrual Disorders Committee.The two FIGO systems for normal and abnormal uterine bleeding symptoms and classification of causes of abnormal uterine bleeding in the reproductive years: 2018 revisions [published correction appears inInt J Gynaecol Obstet. 2019 Feb;144(2):237. doi: 10.1002/ijgo.12709.].Int J Gynaecol Obstet.2018;143(3):393-408.doi:10.1002/ijgo.12666
+有排卵周期的患者通常有正常频率和规律的月经周期，但他们可能会有严重的月经出血或经间出血。除了规律的月经外，提示患者存在排卵周期的症状还包括经前不适（如周期性乳房胀痛、经前腹胀或情绪波动）和经间期腹痛（排卵痛）。排卵后每日体温（基础体温）略有上升，下一个月经周期开始后下降。
+患有 AUB-O（排卵功能障碍型异常子宫出血）的患者可表现为闭经或发生于不规则时间的子宫出血，其出血量变化较大，且无基础体温的周期性变化。
+
+【症状和体征参考文献】
+1.Munro MG, Critchley HOD, Fraser IS; FIGO Menstrual Disorders Committee.The two FIGO systems for normal and abnormal uterine bleeding symptoms and classification of causes of abnormal uterine bleeding in the reproductive years: 2018 revisions [published correction appears inInt J Gynaecol Obstet. 2019 Feb;144(2):237. doi: 10.1002/ijgo.12709.].Int J Gynaecol Obstet.2018;143(3):393-408.doi:10.1002/ijgo.12666
+1.Munro MG, Critchley HOD, Fraser IS; FIGO Menstrual Disorders Committee.The two FIGO systems for normal and abnormal uterine bleeding symptoms and classification of causes of abnormal uterine bleeding in the reproductive years: 2018 revisions [published correction appears inInt J Gynaecol Obstet. 2019 Feb;144(2):237. doi: 10.1002/ijgo.12709.].Int J Gynaecol Obstet.2018;143(3):393-408.doi:10.1002/ijgo.12666
+
+【AUB的诊断】
+妊娠试验
+妊娠试验
+激素血液检测
+激素血液检测
+贫血血液检查
+贫血血液检查
+有时，会进行血液检查以排查出血性疾病
+有时，会进行血液检查以排查出血性疾病
+盆腔影像学研究，通常为经阴道超声检查
+盆腔影像学研究，通常为经阴道超声检查
+有时需进行相关操作（如内膜取样或宫腔镜检查）
+有时需进行相关操作（如内膜取样或宫腔镜检查）
+即使是年轻的青春期女孩和围绝经期女性，也应排除妊娠。
+异常子宫出血的模式通常表明可能的原因（例如，有规律的周期和长时间或过度出血表明结构异常；不规则出血或闭经通常是由于排卵功能障碍引起的），并有助于指导实验室或影像学检查的选择。
+对于患有贫血或因出血而需要住院的青少年，以及有凝血障碍家族史或其他危险因素、或有不明原因的易出血/严重出血或瘀伤史的患者，应考虑其可能存在凝血障碍（1，2）。
+
+【实验室检查】
+妊娠检测有时会初步采用尿液人绒毛膜促性腺激素（hCG）检测。如果结果为阴性，则应进行血清定量hCG检查。如果阳性，应对患者进行妊娠期出血的评估。
+贫血在月经量过多和/或经期延长的女性中可能较为严重。检测全血细胞计数和铁蛋白以评估是否存在缺铁性贫血。
+对于患有子宫大量出血的青少年，或有出血性疾病的风险因素，或其个人或家族病史提示可能存在出血性疾病的患者，CBC 中的血小板计数可能提供信息，其他初始血液检查包括：凝血酶原时间和部分凝血活酶时间（纤维蛋白原或凝血酶时间是可选的，并且不需要出血时间）。根据初始测试结果，可能会发送其他测试以检测血管性血友病或其他出血性疾病。
+为确定患者是否有排卵或无排卵，部分临床医生会在黄体期（正常月经周期第 14 天后，或基础体温升高后，该阶段会出现基础体温升高）检测血清孕酮水平。黄体酮水平≥3ng/mL(≥9.75nmol/L)提示有排卵。另一种选择是患者使用家庭尿液LH水平检测试剂盒，从周期第9天开始或之后的几天内每天测量。
+对内分泌病因的检测包括促甲状腺激素和催乳素水平（即使无乳溢症状时也需检测），因为甲状腺疾病和高催乳素血症是异常子宫出血的常见原因。
+根据病史和体格检查结果，可进行其他实验室检查，包括以下项目：
+如果怀疑有多囊卵巢综合征，测定睾酮和脱氢表雄酮硫酸酯（DHEAS）水平
+如果怀疑有多囊卵巢综合征，测定睾酮和脱氢表雄酮硫酸酯（DHEAS）水平
+如果怀疑有多囊卵巢综合征，需检测血糖及血脂水平、血压、体质指数
+如果怀疑有多囊卵巢综合征，需检测血糖及血脂水平、血压、体质指数
+如果可能存在原发性卵巢功能不全，则测卵泡刺激素和雌二醇水平。
+如果可能存在原发性卵巢功能不全，则测卵泡刺激素和雌二醇水平。
+为排除阴道出血的其他原因而进行的测试包括:
+如患者处于常规筛查周期，应进行宫颈癌筛查（巴氏涂片 [Pap] 检查和/或人乳头瘤病毒 [HPV] 检测）；若在盆腔检查中发现可疑宫颈病变，应行活检。
+如患者处于常规筛查周期，应进行宫颈癌筛查（巴氏涂片 [Pap] 检查和/或人乳头瘤病毒 [HPV] 检测）；若在盆腔检查中发现可疑宫颈病变，应行活检。
+如果怀疑患有盆腔炎或宫颈炎，则检测淋病奈瑟菌和衣原体菌种。
+如果怀疑患有盆腔炎或宫颈炎，则检测淋病奈瑟菌和衣原体菌种。
+
+【影像学检查】
+经阴道超声是大多数AUB患者评估的一部分。具体而言，如果女性有以下任何一种情况，应进行此项检查：
+根据出血模式、其他症状或盆腔检查结果怀疑存在结构性病变
+根据出血模式、其他症状或盆腔检查结果怀疑存在结构性病变
+盆腔检查不足
+盆腔检查不足
+绝经前女性≥45岁
+绝经前女性≥45岁
+绝经后妇女
+绝经后妇女
+子宫内膜癌症的危险因素（如肥胖、糖尿病、高血压、多囊卵巢综合征、慢性性腺无排卵、其他与长期无对抗性雌激素暴露相关的疾病）
+子宫内膜癌症的危险因素（如肥胖、糖尿病、高血压、多囊卵巢综合征、慢性性腺无排卵、其他与长期无对抗性雌激素暴露相关的疾病）
+即使使用经验性激素治疗后，出血仍持续。
+即使使用经验性激素治疗后，出血仍持续。
+经阴道超声可检测结构异常，包括子宫内膜增厚、子宫内膜息肉、子宫肌瘤、其他子宫肿块、子宫腺肌症以及卵巢或输卵管异常。
+若超声检查发现局灶性增厚，应进一步检查以识别较小的宫腔内肿块（如小型子宫内膜息肉或黏膜下肌瘤）。
+对于绝经前女性，子宫内膜厚度的超声评估不用于评估子宫内膜肿瘤，因为子宫内膜厚度在整个月经周期中会发生变化（3）：
+月经期间：2 至 4 毫米
+月经期间：2 至 4 毫米
+早期增殖期（周期第 6 至 14 天）：5 至 7 毫米
+早期增殖期（周期第 6 至 14 天）：5 至 7 毫米
+晚期增殖期：≤ 11 mm
+晚期增殖期：≤ 11 mm
+分泌期：7 至 16 毫米
+分泌期：7 至 16 毫米
+此外，在黑人女性中，测量子宫内膜厚度以检测子宫内膜癌并不总是准确的，因此可能需要进行子宫内膜取样以进行早期癌症检测 （4）。
+对于一些首次发生绝经后出血的患者，在经阴道超声检查中测量子宫内膜厚度（子宫内膜条纹）可作为评估子宫内膜瘤变（增生或癌症）的一线测试（5）。然而，超声评估并不充分，以下患者需进行子宫内膜取样：
+子宫内膜癌的危险因素包括肥胖及当前或近期的他莫昔芬治疗等。
+子宫内膜癌的危险因素包括肥胖及当前或近期的他莫昔芬治疗等。
+持续或反复出血
+持续或反复出血
+超声检查时确定的子宫内膜厚度>4 至 5 毫米（作为后续测试）
+超声检查时确定的子宫内膜厚度>4 至 5 毫米（作为后续测试）
+子宫声学造影（向子宫注入生理盐水后进行的超声检查）在评估此类异常时很有用；可用于确定是否需要行更具侵入性的宫腔镜检查，并规划宫内肿块切除术。若不行宫腔超声造影，也可直接行宫腔镜检查。
+MRI可提供详细的影像，有助于手术规划，但价格昂贵，并非AUB患者的一线影像学检查。
+
+【子宫内膜取样】
+通常建议对具有以下任何一种情况的女性进行子宫内膜取样，以排除增生或癌症：
+≥ 45 岁的绝经前妇女
+≥ 45 岁的绝经前妇女
+<45岁且具有一个或多个子宫内膜癌风险因子
+<45岁且具有一个或多个子宫内膜癌风险因子
+在正常的初步评估后，尽管进行了治疗，但仍有持续或复发的异常出血
+在正常的初步评估后，尽管进行了治疗，但仍有持续或复发的异常出血
+存在子宫癌危险因素，或经阴道超声检查发现异常（子宫内膜厚度>4-5mm或存在局灶性或不规则子宫内膜增厚）的绝经后患者。
+存在子宫癌危险因素，或经阴道超声检查发现异常（子宫内膜厚度>4-5mm或存在局灶性或不规则子宫内膜增厚）的绝经后患者。
+一名疑似子宫内膜瘤变患者的超声检查结果不明确
+一名疑似子宫内膜瘤变患者的超声检查结果不明确
+子宫内膜取样可通过诊室子宫内膜活检或刮宫术完成。在一项包含 1607 名女性的研究的荟萃分析中，子宫内膜采样方法检测子宫内膜癌的敏感性为78%，检测非典型子宫内膜增生的敏感性为76%（6）。大多数子宫内膜活检标本包含增生或发育不同步的子宫内膜，由于未发现分泌期子宫内膜，这证实为无排卵。
+可施行定向活检（宫腔镜下），以直接观察子宫内膜腔，并对局灶性子宫内膜异常进行靶向活检。
+子宫内膜采样程序的禁忌症包括妊娠、未控制的出血性疾病和急性盆腔感染。
+
+【诊断参考】
+1.Screening and Management of Bleeding Disorders in Adolescents With Heavy Menstrual Bleeding: ACOG COMMITTEE OPINION, Number 785.Obstet Gynecol.2019;134(3):e71-e83.doi:10.1097/AOG.0000000000003411
+1.Screening and Management of Bleeding Disorders in Adolescents With Heavy Menstrual Bleeding: ACOG COMMITTEE OPINION, Number 785.Obstet Gynecol.2019;134(3):e71-e83.doi:10.1097/AOG.0000000000003411
+2.Committee on Practice Bulletins—Gynecology.Practice bulletin no. 128: diagnosis of abnormal uterine bleeding in reproductive-aged women.Obstet Gynecol.2012;120(1):197-206.doi:10.1097/AOG.0b013e318262e320
+2.Committee on Practice Bulletins—Gynecology.Practice bulletin no. 128: diagnosis of abnormal uterine bleeding in reproductive-aged women.Obstet Gynecol.2012;120(1):197-206.doi:10.1097/AOG.0b013e318262e320
+3.Committee on Practice Bulletins—Gynecology.Practice bulletin no. 128: diagnosis of abnormal uterine bleeding in reproductive-aged women.Obstet Gynecol.2012 (reaffirmed 2024);120(1):197-206.doi:10.1097/AOG.0b013e318262e320
+3.Committee on Practice Bulletins—Gynecology.Practice bulletin no. 128: diagnosis of abnormal uterine bleeding in reproductive-aged women.Obstet Gynecol.2012 (reaffirmed 2024);120(1):197-206.doi:10.1097/AOG.0b013e318262e320
+4.Doll KM, Pike M, Alson J, et al.Endometrial Thickness as Diagnostic Triage for Endometrial Cancer Among Black Individuals [published correction appears inJAMA Oncol. 2025 Jan 23. doi: 10.1001/jamaoncol.2024.6781.].JAMA Oncol.2024;10(8):1068-1076.doi:10.1001/jamaoncol.2024.1891
+4.Doll KM, Pike M, Alson J, et al.Endometrial Thickness as Diagnostic Triage for Endometrial Cancer Among Black Individuals [published correction appears inJAMA Oncol. 2025 Jan 23. doi: 10.1001/jamaoncol.2024.6781.].JAMA Oncol.2024;10(8):1068-1076.doi:10.1001/jamaoncol.2024.1891
+5.ACOG Committee Opinion No. 734: The Role of Transvaginal Ultrasonography in Evaluating the Endometrium of Women With Postmenopausal Bleeding.Obstet Gynecol.2018 (reaffirmed 2023);131(5):e124-e129.doi:10.1097/AOG.0000000000002631
+5.ACOG Committee Opinion No. 734: The Role of Transvaginal Ultrasonography in Evaluating the Endometrium of Women With Postmenopausal Bleeding.Obstet Gynecol.2018 (reaffirmed 2023);131(5):e124-e129.doi:10.1097/AOG.0000000000002631
+6.Sakna NA, Elgendi M, Salama MH, Zeinhom A, Labib S, Nabhan AF.Diagnostic accuracy of endometrial sampling tests for detecting endometrial cancer: a systematic review and meta-analysis.BMJ Open.2023;13(6):e072124.Published 2023 Jun 23.doi:10.1136/bmjopen-2023-072124
+6.Sakna NA, Elgendi M, Salama MH, Zeinhom A, Labib S, Nabhan AF.Diagnostic accuracy of endometrial sampling tests for detecting endometrial cancer: a systematic review and meta-analysis.BMJ Open.2023;13(6):e072124.Published 2023 Jun 23.doi:10.1136/bmjopen-2023-072124
+
+【AUB的治疗】
+控制出血的药物，通常为非甾体抗炎药（NSAID）、氨甲环酸或激素疗法
+控制出血的药物，通常为非甾体抗炎药（NSAID）、氨甲环酸或激素疗法
+若存在缺铁性贫血，需补充铁剂（口服或静脉注射）
+若存在缺铁性贫血，需补充铁剂（口服或静脉注射）
+有时针对子宫内膜增生进行孕激素治疗
+有时针对子宫内膜增生进行孕激素治疗
+有时是治疗结构性病变的手术（如宫腔镜子宫肌瘤切除术、子宫肌瘤栓塞）
+有时是治疗结构性病变的手术（如宫腔镜子宫肌瘤切除术、子宫肌瘤栓塞）
+针对持续出血（取决于患者偏好和其他治疗方案）或子宫内膜增生或癌症进行子宫切除术
+针对持续出血（取决于患者偏好和其他治疗方案）或子宫内膜增生或癌症进行子宫切除术
+治疗异常子宫出血的非激素药物比激素治疗的风险和不良反应更小，并且可以在出血时间歇性服用。它们主要用于治疗希望怀孕、希望避免激素治疗或严重规律出血（月经过多）的妇女。可供选择的方案有:
+非甾体抗炎药 (NSAID)，可减少 25% 至 35% 的出血并通过降低前列腺素水平缓解痛经 (1)
+非甾体抗炎药 (NSAID)，可减少 25% 至 35% 的出血并通过降低前列腺素水平缓解痛经 (1)
+氨甲环酸是一种抗纤维蛋白溶解剂，可抑制纤溶酶原激活，如果在月经期间给予长达 5 天，可减少约 50% 的月经失血量（2，3）
+氨甲环酸是一种抗纤维蛋白溶解剂，可抑制纤溶酶原激活，如果在月经期间给予长达 5 天，可减少约 50% 的月经失血量（2，3）
+激素疗法（如雌激素/孕激素避孕药、孕激素，一种长效的释放孕激素的宫内节育器）通常首先在想要避孕或围绝经期的女性中进行。该疗法有以下作用：
+抑制子宫内膜增生；
+抑制子宫内膜增生；
+重新建立规律的月经来潮习惯
+重新建立规律的月经来潮习惯
+减少月经量
+减少月经量
+避孕激素疗法可一直持续，只要患者希望避孕。一旦出血控制了几个月，患者可以选择继续激素治疗或停止治疗，看看AUB是否仍然存在。
+通常使用雌激素/孕激素联合口服避孕药(COCs)。COCs无论是周期性使用还是持续使用，都可以控制排卵障碍性异常子宫出血。此外，对于月经大量出血的女性（例如，由于子宫肌瘤或子宫腺肌症），COCs会减少月经量。仅含孕激素的口服避孕药不能控制大出血。COCs的益处包括
+减少月经失血量约35%至70%（4）
+减少月经失血量约35%至70%（4）
+减少痛经
+减少痛经
+降低子宫和卵巢癌症的风险
+降低子宫和卵巢癌症的风险
+OC的风险取决于 OC 的类型、剂量、使用时间和患者因素。
+孕激素可在下列情况下使用：
+存在雌激素使用的禁忌症（如，具有心血管风险因素或既往有深静脉血栓的患者）。
+存在雌激素使用的禁忌症（如，具有心血管风险因素或既往有深静脉血栓的患者）。
+患者拒绝使用雌激素
+患者拒绝使用雌激素
+与COC相比，每月21天的周期性孕激素治疗（醋酸甲羟孕酮10mg/天口服或醋酸炔诺酮2.5-5mg/天口服）可能更可预测停药出血。可以每月给予21天的200mg/d的周期性天然黄体酮（微粉化黄体酮），尤其在可能怀孕的女性中；但是，这会导致嗜睡，而且不能像孕激素一样减少出血量。
+如果使用非避孕性周期性孕激素或黄体酮的患者希望预防妊娠，则应使用避孕措施。避孕孕激素选择包括
+左炔诺孕酮释放宫内节育器：它可减少约70%至95%的月经量（4），提供避孕效果，并缓解痛经；如果存在肌瘤，则脱落率更高（5）。
+左炔诺孕酮释放宫内节育器：它可减少约70%至95%的月经量（4），提供避孕效果，并缓解痛经；如果存在肌瘤，则脱落率更高（5）。
+长效醋酸甲羟孕酮：能造成闭经并产生避孕作用，但是能造成不规则点滴出血和可逆的骨质丢失。
+长效醋酸甲羟孕酮：能造成闭经并产生避孕作用，但是能造成不规则点滴出血和可逆的骨质丢失。
+其他药物用于特定适应症或不能使用更常用治疗方法的患者。
+促性腺激素释放激素（GnRH）激动剂或拮抗剂可抑制卵巢激素生成并导致闭经。它们用于在手术治疗前缩小肌瘤或止住大量出血。然而，其低雌激素的不良反应（如骨质疏松、更年期症状）将其使用限制在6个月内。如果需要长期使用，可给予反向添加低剂量雌孕激素治疗。
+GnRH 激动剂最初会导致黄体生成素和卵泡刺激素激增，从而导致雌二醇增加（6，7）。7至14天后会诱发闭经。这些药物可以肌肉注射、鼻腔喷雾剂或植入物形式获得。
+GnRH拮抗剂不会引发初始的雌二醇激增，并能快速可逆地抑制促性腺激素和卵巢性激素，从而在数日内减轻大出血症状。有口服GnRH拮抗剂，其中一些与雌激素和孕激素联合使用作为添加疗法。
+选择性孕激素受体调节剂阻碍平滑肌瘤细胞的细胞增殖。由于潜在的不良肝脏影响，醋酸乌利司他的使用受到限制。米非司酮也被用于缓解症状。
+达那唑可以减少月经失血（通过引起子宫内膜萎缩），但不经常使用，因为它有许多雄激素不良反应，可以通过使用较低剂量或阴道制剂来减轻。达那唑必须连续使用才能有效，一般要连续使用约3个月。只有在其他治疗存在禁忌症的时候，才会选择达那唑治疗。
+如果希望怀孕且出血量不大，可使用克罗米芬进行促排卵治疗。
+
+【手术方式】
+宫腔镜联合宫颈扩张与刮宫术（D&C）既可诊断也可治疗；当子宫出血量较大或激素治疗无效时，可能是首选的治疗方法。宫腔镜检查中可以发现或去除息肉或纤维瘤等结构性原因。该手术通常可以减少数月的出血；一种罕见的并发症是子宫内膜瘢痕形成（即宫腔粘连综合征）。
+子宫内膜消融术（如滚球法、宫腔镜切除、射频、热疗或冷冻疗法）可减少大多数患者的出血量。消融术是微创的。如果消融术最初有效后再次出现严重出血，可进行重复消融。如果这种治疗不能控制出血或出血继续复发，原因可能是子宫腺肌症，因此不是由排卵功能障碍引起的异常子宫出血。子宫内膜消融术不能用于避孕。消融后，怀孕率高达5%。消融所导致子宫内膜疤痕可能会使得之后再行子宫内膜活检困难。
+肌瘤的治疗包括(5):
+微创手术，最常用的是子宫动脉栓塞术，这是一种通过荧光透视观察肌瘤，并通过股动脉导管注射栓塞剂以阻塞肌瘤血液供应的手术。其他选择包括磁共振引导聚焦超声、射频消融和正在测试的其他技术，例如高强度聚焦超声能量。
+微创手术，最常用的是子宫动脉栓塞术，这是一种通过荧光透视观察肌瘤，并通过股动脉导管注射栓塞剂以阻塞肌瘤血液供应的手术。其他选择包括磁共振引导聚焦超声、射频消融和正在测试的其他技术，例如高强度聚焦超声能量。
+子宫肌瘤切除术（切除子宫肌瘤）对于粘膜下肌瘤可在宫腔镜下进行，对于肌壁内或浆膜下肌瘤可在腹腔镜下或通过开腹手术进行。
+子宫肌瘤切除术（切除子宫肌瘤）对于粘膜下肌瘤可在宫腔镜下进行，对于肌壁内或浆膜下肌瘤可在腹腔镜下或通过开腹手术进行。
+应考虑肌瘤的位置、大小、数量和共存的子宫腺肌症，以及生育愿望或保留子宫的意愿。
+对于拒绝激素治疗的患者，或尽管进行了其他治疗，但仍因持续不规则出血而出现症状性贫血或生活质量下降的患者，可建议采用腹腔镜、腹部或阴道子宫切除术。
+
+【急性子宫出血的治疗】
+子宫出血有时可能是急性的，并迅速流失大量血液。急救措施与其他部位出血的处理方法相似，包括：密切监测生命体征，使用静脉注射晶体液和血液制品（根据需要）在血液动力学上稳定患者。必须排除怀孕。除了CBC，还应抽血检查以评估弥散性血管内凝血。
+紧急处理的程序包括：宫内填塞（例如，将导尿管插入子宫并注入30至60毫升液体使其膨胀）、刮宫术或子宫动脉栓塞术。一旦患者病情稳定，应采用激素疗法控制出血。药物也可以单独使用或与其他手术联合使用，包括（8）：
+大剂量雌激素-孕激素口服避孕药 (OC)：单相OC，含有35微克乙炔雌二醇和孕激素，每日3次，持续7天
+大剂量雌激素-孕激素口服避孕药 (OC)：单相OC，含有35微克乙炔雌二醇和孕激素，每日3次，持续7天
+大剂量口服孕激素：醋酸甲羟孕酮20毫克，每日3次，持续7天
+大剂量口服孕激素：醋酸甲羟孕酮20毫克，每日3次，持续7天
+抗纤维蛋白溶解剂：氨甲环酸1.3克口服或10毫克/千克静脉注射（最大600毫克），每日3次，持续5天
+抗纤维蛋白溶解剂：氨甲环酸1.3克口服或10毫克/千克静脉注射（最大600毫克），每日3次，持续5天
+静脉注射雌激素：结合雌激素25mg IV，q4～6h，共4剂
+静脉注射雌激素：结合雌激素25mg IV，q4～6h，共4剂
+大剂量雌激素、孕激素或氨甲环酸治疗与血栓形成风险增加有关，因此患者选择、教育和监测非常重要。
+完成急性治疗方案后，通常会给患者每日口服1次雌激素-孕激素避孕药，可持续用药至出血控制数月后。
+如果无法通过保守措施控制出血，且患者病情不稳定，则可以选择子宫切除术。但是，会尽一切努力避免这种情况，尤其是在有未来生育计划的患者中。
+
+【治疗参考文献】
+1.Bofill Rodriguez M, Lethaby A, Farquhar C.Non-steroidal anti-inflammatory drugs for heavy menstrual bleeding.Cochrane Database Syst Rev.2019;9(9):CD000400.Published 2019 Sep 19.doi:10.1002/14651858.CD000400.pub4
+1.Bofill Rodriguez M, Lethaby A, Farquhar C.Non-steroidal anti-inflammatory drugs for heavy menstrual bleeding.Cochrane Database Syst Rev.2019;9(9):CD000400.Published 2019 Sep 19.doi:10.1002/14651858.CD000400.pub4
+2.Bonnar J, Sheppard BL.Treatment of menorrhagia during menstruation: randomised controlled trial of ethamsylate, mefenamic acid, and tranexamic acid.BMJ.1996;313(7057):579-582.doi:10.1136/bmj.313.7057.579
+2.Bonnar J, Sheppard BL.Treatment of menorrhagia during menstruation: randomised controlled trial of ethamsylate, mefenamic acid, and tranexamic acid.BMJ.1996;313(7057):579-582.doi:10.1136/bmj.313.7057.579
+3.Lukes AS, Moore KA, Muse KN, et al.Tranexamic acid treatment for heavy menstrual bleeding: a randomized controlled trial.Obstet Gynecol.2010 (reaffirmed 2024);116(4):865-875.doi:10.1097/AOG.0b013e3181f20177
+3.Lukes AS, Moore KA, Muse KN, et al.Tranexamic acid treatment for heavy menstrual bleeding: a randomized controlled trial.Obstet Gynecol.2010 (reaffirmed 2024);116(4):865-875.doi:10.1097/AOG.0b013e3181f20177
+4.Matteson KA, Rahn DD, Wheeler TL 2nd, et al.Nonsurgical management of heavy menstrual bleeding: a systematic review.Obstet Gynecol.2013;121(3):632-643.doi:10.1097/AOG.0b013e3182839e0e
+4.Matteson KA, Rahn DD, Wheeler TL 2nd, et al.Nonsurgical management of heavy menstrual bleeding: a systematic review.Obstet Gynecol.2013;121(3):632-643.doi:10.1097/AOG.0b013e3182839e0e
+5.Vannuccini S, Petraglia F, Carmona F, Calaf J, Chapron C.The modern management of uterine fibroids-related abnormal uterine bleeding.Fertil Steril.2024;122(1):20-30.doi:10.1016/j.fertnstert.2024.04.041
+5.Vannuccini S, Petraglia F, Carmona F, Calaf J, Chapron C.The modern management of uterine fibroids-related abnormal uterine bleeding.Fertil Steril.2024;122(1):20-30.doi:10.1016/j.fertnstert.2024.04.041
+6.Schlaff WD, Ackerman RT, Al-Hendy A, et al: Elagolix for heavy menstrual bleeding in women with uterine fibroids.N Engl J Med382 (4):328–340, 2020.doi: 10.1056/NEJMoa1904351
+6.Schlaff WD, Ackerman RT, Al-Hendy A, et al: Elagolix for heavy menstrual bleeding in women with uterine fibroids.N Engl J Med382 (4):328–340, 2020.doi: 10.1056/NEJMoa1904351
+7.de Lange ME, Huirne JAF: Linzagolix: An oral gonadotropin-releasing hormone receptor antagonist treatment for uterine fibroid-associated heavy menstrual bleeding.Lancet400 (10356):866–867, 2002.doi: 10.1016/S0140-6736(22)01781-0
+7.de Lange ME, Huirne JAF: Linzagolix: An oral gonadotropin-releasing hormone receptor antagonist treatment for uterine fibroid-associated heavy menstrual bleeding.Lancet400 (10356):866–867, 2002.doi: 10.1016/S0140-6736(22)01781-0
+8.ACOG committee opinion no. 557: Management of acute abnormal uterine bleeding in nonpregnant reproductive-aged women.Obstet Gynecol.2013;121(4):891-896.doi:10.1097/01.AOG.0000428646.67925.9a
+8.ACOG committee opinion no. 557: Management of acute abnormal uterine bleeding in nonpregnant reproductive-aged women.Obstet Gynecol.2013;121(4):891-896.doi:10.1097/01.AOG.0000428646.67925.9a
+
+【异常子宫出血指南】
+以下是有关此医疗问题的专业医学协会或政府临床实践指南的列表（这不是一份完整的列表）：
+American College of Obstetricians and Gynecologists (ACOG) Practice Bulletin.Diagnosis of Abnormal Uterine Bleeding in Reproductive-Aged Women.2012 (reaffirmed 2024).
+American College of Obstetricians and Gynecologists (ACOG) Practice Bulletin.Diagnosis of Abnormal Uterine Bleeding in Reproductive-Aged Women.2012 (reaffirmed 2024).
+ACOG Committee Opinion.Management of Acute Abnormal Bleeding in Nonpregnant Reproductive-Aged Women.2013 (reaffirmed 2024).
+ACOG Committee Opinion.Management of Acute Abnormal Bleeding in Nonpregnant Reproductive-Aged Women.2013 (reaffirmed 2024).
+ACOG Practice Bulletin.Management of Abnormal Uterine Bleeding Associated With Ovulatory Dysfunction.2013 (reaffirmed 2022).
+ACOG Practice Bulletin.Management of Abnormal Uterine Bleeding Associated With Ovulatory Dysfunction.2013 (reaffirmed 2022).
+ACOG Practice Bulletin.Management of Symptomatic Uterine Leiomyomas.2021.
+ACOG Practice Bulletin.Management of Symptomatic Uterine Leiomyomas.2021.
+ACOG Committee Opinion.Screening and Management of Bleeding Disorders in Adolescents With Heavy Menstrual Bleeding.2019;ACOG Committee Opinion.Screening and Management of Bleeding Disorders in Adolescents With Heavy Menstrual Bleeding: Correction (2023)
+ACOG Committee Opinion.Screening and Management of Bleeding Disorders in Adolescents With Heavy Menstrual Bleeding.2019;ACOG Committee Opinion.Screening and Management of Bleeding Disorders in Adolescents With Heavy Menstrual Bleeding: Correction (2023)
+ACOG Committee Opinion.The Role of Transvaginal Ultrasonography in Evaluating the Endometrium of Women With Postmenopausal Bleeding.2018 (reaffirmed 2023).
+ACOG Committee Opinion.The Role of Transvaginal Ultrasonography in Evaluating the Endometrium of Women With Postmenopausal Bleeding.2018 (reaffirmed 2023).
+异常子宫出血是一个常见的医学问题；排卵功能障碍是异常子宫出血最常见的原因。
+异常子宫出血是一个常见的医学问题；排卵功能障碍是异常子宫出血最常见的原因。
+检测可治疗的出血和缺铁性贫血原因；检查可能包括妊娠试验、全血细胞计数和铁蛋白测定、激素水平测量（TSH、催乳素、孕酮），以及通常的超声检查、门诊宫腔镜检查和子宫内膜取样。
+检测可治疗的出血和缺铁性贫血原因；检查可能包括妊娠试验、全血细胞计数和铁蛋白测定、激素水平测量（TSH、催乳素、孕酮），以及通常的超声检查、门诊宫腔镜检查和子宫内膜取样。
+对于有风险的女性，进行子宫内膜取样以检查子宫内膜增生或癌症。
+对于有风险的女性，进行子宫内膜取样以检查子宫内膜增生或癌症。
+如果需要药物控制出血，则使用非甾体抗炎药、氨甲环酸、雌激素/孕激素口服避孕药、左炔诺孕酮释放宫内节育器、促性腺激素激动剂或拮抗剂或其他激素进行治疗。
+如果需要药物控制出血，则使用非甾体抗炎药、氨甲环酸、雌激素/孕激素口服避孕药、左炔诺孕酮释放宫内节育器、促性腺激素激动剂或拮抗剂或其他激素进行治疗。
+用手术治疗结构性病变或对药物无反应的出血（例如，宫腔镜检查、子宫内膜消融术、子宫切除术）。
+用手术治疗结构性病变或对药物无反应的出血（例如，宫腔镜检查、子宫内膜消融术、子宫切除术）。

@@ -1,0 +1,29 @@
+标题：颅内蠕虫感染
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/brain-infections/helminthic-brain-infections
+============================================================
+
+在发展中国家，有数以百万计中枢神经系统蠕虫感染的病人。感染人群在游览或移居非流行地区时，包括美国，仍可带虫生存。蠕虫可引起脑膜炎、脑炎、颅内肿块、脑积水、卒中和脊髓病变。
+(参见颅内感染介绍。）
+
+【脑囊虫病】
+（参见囊虫病.)
+在约20种可能导致神经系统疾病的蠕虫中，猪肉绦虫绦虫属是导致西半球大多数病例的主要原因。 由此产生的疾病是脑囊虫病。 一个人吃了被虫卵污染的食物后，幼虫会迁移到包括脑、脊髓和脑脊液通道的组织内，形成囊肿。在脑实质中，囊泡的直径很少超过1cm，但CSF腔中则可超过5cm。较陈旧的囊肿经常钙化。
+脑实质囊泡很少引起症状，直到虫体死亡，释放的蛋白引起局部炎性反应、胶质细胞增生、水肿，导致癫痫（多见）、认知障碍、局灶性神经功能障碍或人格改变。如果CSF通路中囊泡较大，则会引起阻塞性脑积水。囊泡也可破入脑室，引起急性或亚急性嗜酸细胞性脑膜炎。如果不治疗，神经囊尾蚴病会导致死亡；死因包括脑炎、脑膜炎、脑积水和未经治疗的癫痫发作。
+生活在发展中国家或来自发展中国家的患者，出现嗜酸性脑膜炎或不明原因的癫痫、认知和局灶性神经功能缺陷或人格改变，应怀疑脑囊虫病。CT和MRI上可见多发钙化的囊状病灶；增强后可见强化。诊断需进行血清和脑脊液检测，有时还需行囊泡活检。
+该 CT 扫描显示多灶性钙化区域，代表神经囊尾蚴病患者的钙化囊肿。
+Courtesy of John E.Greenlee, MD.
+Antihelminthic drugs are first-line therapy。 阿苯达唑是首选的驱虫药物。或者，可以服用吡喹酮 30 天。对于那些有＞2个活体实质性囊尾蚴的患者，推荐使用阿苯达唑与吡喹酮联合治疗（1）。在治疗的最初2至4天内，静脉注射或口服地塞米松可能有助于减轻虫体死亡时引发的急性炎症反应。如果抗蠕虫治疗导致许多微生物死亡，那么大量囊肿患者的大脑可能会显著肿胀。在对患有单个囊肿的患者进行阿苯达唑治疗的研究中，与安慰剂或未使用驱虫药的组相比，阿苯达唑组的癫痫复发率较低。然而，与接受安慰剂或未使用驱虫药的受试者相比，接受阿苯达唑或吡喹酮治疗的受试者似乎出现了更多的不良事件（2）。治疗方案应个体化。
+可能需要短期或长期抗癫痫药物治疗。有时可能需要行囊泡切除和脑室引流。
+
+【其他蠕虫感染】
+在血吸虫感染患者中，颅内可见坏死性嗜酸性肉芽肿，导致癫痫、颅内压增高和弥散或局灶性神经缺损症状。
+较大的单个包虫囊肿，可导致局灶神经缺损症状，有时也可引起癫痫。
+由绦虫幼虫（Taenia[带绦虫]物种）引起的多头蚴病通常会产生葡萄状囊肿，可能会阻滞第四脑室的脑脊液流出。
+这些囊肿往往需数年出现症状，如累及颅内，则可导致颅内高压、癫痫发作、意识丧失和局灶神经缺损症状。 进行神经影像学和血清学检测以区分这些囊肿并将它们与神经囊尾蚴病区分开来。
+棘口线虫病，是一种由棘口线虫幼虫Gnathostoma引起的罕见寄生虫病，可引起神经根、脊髓、大脑的坏死性脉管炎，或蛛网膜下腔出血，导致低热、颈项强直、恐光、头痛、移行性神经缺损症状（偶尔影响第6或7对颅神经）和瘫痪。在返回的旅行者和亚洲、中东、欧洲、非洲、中美洲或南美洲部分地区的居民中，疑似存在鼻口病，这些人患有迁移性皮肤肿胀或不明原因的嗜酸性脑膜炎。诊断需要神经影像学和脑脊液测试。
+
+【参考文献】
+1.White AC Jr, Coyle CM, Rajshekhar V, et al: Diagnosis and treatment of neurocysticercosis: 2017 Clinical Practice Guidelines by the Infectious Diseases Society of America (IDSA) and the American Society of Tropical Medicine and Hygiene (ASTMH).Clin Infect Dis66(8):e49-e75, 2018.doi: 10.1093/cid/cix1084
+1.White AC Jr, Coyle CM, Rajshekhar V, et al: Diagnosis and treatment of neurocysticercosis: 2017 Clinical Practice Guidelines by the Infectious Diseases Society of America (IDSA) and the American Society of Tropical Medicine and Hygiene (ASTMH).Clin Infect Dis66(8):e49-e75, 2018.doi: 10.1093/cid/cix1084
+2.Monk EJM, Abba K, Ranganathan LN: Anthelmintics for people with neurocysticercosis.Cochrane Database Syst Rev6(6):CD000215, 2021.doi: 10.1002/14651858.CD000215.pub5
+2.Monk EJM, Abba K, Ranganathan LN: Anthelmintics for people with neurocysticercosis.Cochrane Database Syst Rev6(6):CD000215, 2021.doi: 10.1002/14651858.CD000215.pub5

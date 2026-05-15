@@ -1,0 +1,50 @@
+标题：13-三体综合征
+来源：https://www.msdmanuals.cn/professional/pediatrics/chromosome-and-gene-abnormalities/trisomy-13
+============================================================
+
+(参见染色体异常概述。)
+13三体，也被称为帕陶综合征，是一种由13号染色体额外增加引起的染色体疾病，其特征是严重的智力残疾、多种先天性异常、先天性心脏缺陷和泌尿生殖器异常。它与新生儿高死亡率有关；大多数受影响的婴儿在出生后的最初几周内死亡（1）。
+13-三体综合征在约1.7/10,000次妊娠中发生（基于因胎儿异常而进行的引产、死产和活产）（2）；约80%的病例为完全性13-三体。高龄产妇是危险因素，额外的染色体都来自母体。虽然大多数病例是由于不分离，额外的13号染色体物质可能很少出现作为易位的结果。
+
+【参考文献】
+1.Rasmussen SA, Wong LY, Yang Q, et al: Population-based analyses of mortality in trisomy 13 and trisomy 18.Pediatrics111(4 Pt 1):777-784, 2003.doi: 10.1542/peds.111.4.777
+1.Rasmussen SA, Wong LY, Yang Q, et al: Population-based analyses of mortality in trisomy 13 and trisomy 18.Pediatrics111(4 Pt 1):777-784, 2003.doi: 10.1542/peds.111.4.777
+2.Goel N, Morris JK, Tucker D, et al: Trisomy 13 and 18-Prevalence and mortality-A multi-registry population based analysis.Am J Med Genet A179(12):2382-2392, 2019.doi: 10.1002/ajmg.a.61365
+2.Goel N, Morris JK, Tucker D, et al: Trisomy 13 and 18-Prevalence and mortality-A multi-registry population based analysis.Am J Med Genet A179(12):2382-2392, 2019.doi: 10.1002/ajmg.a.61365
+
+【13 三体综合征的症状和体征】
+婴儿通常小于胎龄。中线异常很常见，包括前脑无裂畸形（前脑未能正确分裂）、面部异常（如唇腭裂）、小眼球症、虹膜缺损（裂隙）和视网膜发育不良。眶上脊浅，睑裂通常呈斜向。
+耳位低且畸形。听力损失是常见的。头皮缺陷和皮窦也很常见。颈后部皮肤松弛。
+单一的手掌横向皱褶、多指和超凸狭窄的指甲也很常见。大约 57% 至 80% 的婴儿患有严重的先天性心血管异常；右位心很常见（1）。
+男性和女性的生殖器常见异常；男性可患有隐睾和异常阴囊，女性可患有双角子宫。
+婴儿早期频发呼吸暂停。智力障碍较严重。
+
+【症状和体征】
+1.Pierpont ME, Brueckner M, Chung WK, et al.Genetic Basis for Congenital Heart Disease: Revisited: A Scientific Statement From the American Heart Association.Circulation.2018;138(21):e653-e711.doi:10.1161/CIR.0000000000000606
+1.Pierpont ME, Brueckner M, Chung WK, et al.Genetic Basis for Congenital Heart Disease: Revisited: A Scientific Statement From the American Heart Association.Circulation.2018;138(21):e653-e711.doi:10.1161/CIR.0000000000000606
+
+【13三体的诊断】
+通过核型分析、荧光原位杂交 (FISH) 分析和/或染色体微阵列分析进行细胞遗传学检测
+通过核型分析、荧光原位杂交 (FISH) 分析和/或染色体微阵列分析进行细胞遗传学检测
+（参见下一代测序。）
+13三体的诊断可能在出生后因外观或产前超声检查异常（如宫内生长受限）而被怀疑，或通过使用母体血液样本的无细胞胎儿DNA分析进行多标记筛查或无创产前筛查（NIPS）时发现风险增加。管理决策不应仅基于NIPS结果（1）。
+产前诊断需通过细胞遗传学检测（核型分析和/或染色体微阵列分析）对绒毛膜绒毛取样或者羊膜穿刺术获取的样本进行确认。出生后确诊依赖细胞遗传学检测，通常取新生儿血样进行分析。
+这种核型代表13三体，其也被称为帕陶综合征或D三体综合征 （箭头）。
+
+【诊断参考文献】
+1.American College of Obstetricians and Gynecologists’ Committee on Practice Bulletins—Obstetrics; Committee on Genetics; Society for Maternal-Fetal Medicine: Screening for fetal chromosomal abnormalities: ACOG Practice Bulletin, Number 226.Obstet Gynecol136(4):e48-e69, 2020.doi: 10.1097/AOG.0000000000004084
+1.American College of Obstetricians and Gynecologists’ Committee on Practice Bulletins—Obstetrics; Committee on Genetics; Society for Maternal-Fetal Medicine: Screening for fetal chromosomal abnormalities: ACOG Practice Bulletin, Number 226.Obstet Gynecol136(4):e48-e69, 2020.doi: 10.1097/AOG.0000000000004084
+
+【13 三体的治疗】
+支持治疗
+支持治疗
+潜在的遗传异常无法治愈。
+在精心挑选的病例中，根据家庭的喜好，可以提供通气支持、喂养支持和选定的外科手术（如心脏手术、腭裂修复和胃造口术）。治疗的重点通常是姑息治疗和改善儿童及其父母的生活质量。对家庭的支持是至关重要的。
+
+【13 三体症的预后】
+大多数婴儿在新生儿期死亡。
+大约 10% 的婴儿在出生后的第一年之后存活；然而，生存率有所提高，尤其是在接受外科手术的儿童中（1）。
+
+【预后参考】
+1.Meyer RE, Liu G, Gilboa SM, et al: Survival of children with trisomy 13 and trisomy 18: A multi-state population-based study.Am J Med Genet A170A(4):825-837, 2016.doi: 10.1002/ajmg.a.37495
+1.Meyer RE, Liu G, Gilboa SM, et al: Survival of children with trisomy 13 and trisomy 18: A multi-state population-based study.Am J Med Genet A170A(4):825-837, 2016.doi: 10.1002/ajmg.a.37495

@@ -1,0 +1,94 @@
+标题：植入型心律转复除颤器（ICD）
+来源：https://www.msdmanuals.cn/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/implantable-cardioverter-defibrillators-icd
+============================================================
+
+治疗心律失常的决定取决于其症状和潜在的严重程度。对因治疗。如果必要，直接抗心律失常治疗包括抗心律失常药物、心脏电复律-除颤、植入型心律转复除颤器（ICDs）、起搏器（以及一种特殊形式的起搏，即心脏再同步化治疗）、导管消融、外科手术，或采用联合治疗。
+植入型心律转复除颤器对室性心动过速（VT）或心室颤动（VF）进行心律转复或除颤。分层治疗除颤器还提供抗心动过缓起搏和抗心动过速起搏（终止房性或室性心动过速），并存储心腔内心电图 (1)。
+ICD一般经皮下或胸肌下植入，电极经静脉植入右心室，也有时植入右心房。双心室植入型心律转复除颤器还有一根左心室心外膜导线，通过冠状窦静脉系统或经胸廓切开术放置，以实现心脏再同步化治疗起搏功能（CRT-D）。ICD平台还包括完全植入皮下的ICD（S-ICD），无血管内组件 (2)，以及短期使用的可穿戴式背心式除颤器 (3)。
+该患者的 ICD 具有右心室单导联 (1)。还要注意表示有胸外科手术史的胸骨缝合线。
+© 2017 Elliot K.Fishman, MD.
+该患者的左上胸部有一个bi-V ICD，其导联位于右心房 (1)、左心室 (2) 和右心室 (3)。
+© 2017 Elliot K.Fishman, MD.
+植入式心律转复除颤器的脉冲发生器通常可以使用5到7年。
+
+【ICD的适应症】
+ICDs是首选治疗方法对于患者曾经有
+非可逆性或一过性情况（如电解质紊乱、抗心律失常药物致心律失常、急性心肌梗死）引起的心室颤动发作或血流动力学显著改变的室性心动过速
+非可逆性或一过性情况（如电解质紊乱、抗心律失常药物致心律失常、急性心肌梗死）引起的心室颤动发作或血流动力学显著改变的室性心动过速
+植入式心律转复除颤器也可能适用于在电生理研究中可以诱发室性心动过速或心室颤动的患者，以及患有特发性或缺血性心肌病、左心室射血分数<35%且具有室性心动过速或心室颤动高风险的患者。其他指标不太明确（见表植入式心脏转复除颤器的适应症）。
+因为ICD是治疗而非预防室性心动过速或心室颤动，患这些心律失常的病人可能需要ICD加抗心律失常药物治疗以减少发作的次数和对令人不舒服的电击的需要；药物措施也延长ICD的寿命。
+
+【植入式心律转复除颤器在室性心动过速和心室颤动中的适应症】
+植入式心律转复除颤器在室性心动过速和心室颤动中的适应症
+证据等级*
+特殊指征
+I类推荐（有证据或专家意见支持）
+没有一过性或可逆性的病因的血流动力学不稳定的室速或室颤
+有结构性心脏疾病的血流动力学稳定的持续性室速
+一项电生理学研究中诱发的起源不明的晕厥伴持续单型室性心动过速
+缺血性心肌病，最佳药物治疗期间仍存在纽约心脏协会（NYHA）II级或III级心力衰竭症状，且在心肌梗死后至少40天以及血运重建后至少90天测得的左心室射血分数≤0.35
+缺血性心肌病，最佳药物治疗期间仍存在纽约心脏协会（NYHA）I级心力衰竭症状，且在心肌梗死后至少40天以及血运重建后至少90天测得的左心室射血分数≤30%
+非缺血性扩张型心肌病，在最佳药物治疗情况下，仍存在纽约心脏协会（NYHA）II级或III级心力衰竭症状，左心室射血分数≤0.35
+缺血性心肌病、非持续性室速、心肌梗死后至少40天测量的左室射血分数≤40%，以及电生理检查中检测到的可诱发性室颤或持续性室速
+致心律失常性右心室心肌病(ARVC) 伴有持续性室速、心脏骤停复苏成功，或严重的右心室或左心室收缩功能障碍
+长 QT 综合征在接受β-受体阻滞剂药物治疗时，有记录的VT或提示的症状
+短QT间期伴持续性室性心动过速或心脏骤停
+具有1型心电图模式的布鲁加达综合征和推定为由VT引起的晕厥
+儿茶酚胺敏感性多形性室性心动过速(CPVT) ，在接受β受体阻滞剂药物治疗时有持续的VT或晕厥现象
+持续性室性心动过速或心脏骤停的早期复极
+IIa类推荐（有证据或专家意见支持）
+特发性扩张型心肌病，最佳药物治疗期间出现明显的左心室功能障碍，以及不明原因的晕厥
+lamin A/C突变引起的心肌病，并伴有不明原因的晕厥，或有独立的永久起搏器指征，或≥2 个高危因素（非持续性VT、中间LVEF 35%至44%、非错义突变，男性）。
+肥厚型心肌病（HCM）合并≥1项除室速/室颤以外的高危因素（早发猝死家族史、不明原因的近期晕厥、左室厚度≥30mm）、近期疑似心律失常引起的晕厥、左室心尖部室壁瘤或LVEF＜50%
+没有持续的VT/VF或严重的右心室或左心室收缩功能障碍的ARVC，但以前有晕厥或有其他多种室性心动过速的危险因素（Towbin JA等）。
+等待心脏移植的非住院患者的NYHA IV级心力衰竭
+心脏肉瘤病，左心室射血分数>35%，有≥1项下列情况：不明原因的晕厥，心脏MRI或PET扫描可见明显的心肌瘢痕，可诱导的持续VT或VF，或有独立的永久起搏器指征。
+巨细胞性心肌炎，在最佳药物治疗期间出现心室颤动或不稳定的室性心动过速
+IIb级（证据或专家意见支持较弱）
+特发性扩张型心肌病，最佳药物治疗期间仍存在纽约心脏协会（NYHA）I级心力衰竭症状，左心室射血分数≤0.35
+β受体阻滞剂治疗期间无症状但QTc>0.50秒的长QT综合征
+晕厥和晚期结构性心脏病，如果侵入性和非侵入性检查尚未确定病因
+没有上述风险因素的肥厚型心肌病，但在心脏磁共振成像中有非持续性室性心动过速或广泛的晚期钆增强
+致心律失常性右心室心肌病未合并持续性室性心动过速/心室颤动或严重的右心室或左心室收缩功能障碍，但存在较少的其他室性快速性心律失常的危险因素（Towbin等人）
+III类（无指征或有害）
+不明病因的昏厥，不能诱发出室速或室颤亦无结构性心脏病
+持续的室速或室颤
+室速或室颤的发生机制导管或外科手术消融治疗有效
+室速或室颤由一过性或可逆性病变所致，可以纠正并且有可能预防复发
+精神病患者植入埋藏式心脏转复-除颤器可能使状况恶化或拒绝随访者
+无法合理预估生存期且预计≥1年可接受功能状态存活的患者
+NYHA IV级、药物难治性心脏衰竭症状的患者，不适合接受心脏移植或者CRT ICD治疗
+* I 类：有证据和/或普遍认为该程序或治疗方法有用且有效的病症
+IIa类：证据或意见倾向于支持该程序或治疗
+IIb类：证据或专家意见对该程序或治疗的有效性/疗效的支持不够充分
+III类：有证据和/或普遍共识表明该手术或治疗无效，在某些情况下可能有害
+来自雅各布斯（Jacobs AK）、库什纳（Kushner FG）、埃廷格（Ettinger SM）等的循证等级数据。ACCF/AHA clinical practice guideline methodology summit report: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines.Circulation2013;127(2):268-310.doi:10.1161/CIR.0b013e31827e8e5f
+ARVC=致心律失常的右心室心肌病；BP=血压；CPVT=儿茶酚胺能多态性室性心动过速；CRT=心脏再同步治疗；HCM=肥厚型心肌病；ICD=植入式心脏复律除颤器；LV=左心室；MI=心肌梗死；NYHA=纽约心脏协会；QTc=校正QT间期；RV=右心室；VF=心室颤动；VT=室性心动过速。
+Data fromAl-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden death: a report of the American College of Cardiology Foundation, American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.J Am Coll Cardiol72:e91–e220, 2018 doi: 10.1016/j.jacc.2017.10.054,Towbin JA, McKenna WJ, Abrams DJ, et al: 2019 HRS expert consensus statement on evaluation, risk stratification, and management of arrhythmogenic cardiomyopathy.Heart Rhythm16:e301–e372, 2019, andOmmen SR, Ho CY, Asif IM, et al: 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines [published correction appears inCirculation150(8):e198, 2024. doi: 10.1161/CIR.0000000000001277].Circulation149(23):e1239–e1311, 2024.doi:10.1161/CIR.0000000000001250
+* I 类：有证据和/或普遍认为该程序或治疗方法有用且有效的病症
+IIa类：证据或意见倾向于支持该程序或治疗
+IIb类：证据或专家意见对该程序或治疗的有效性/疗效的支持不够充分
+III类：有证据和/或普遍共识表明该手术或治疗无效，在某些情况下可能有害
+来自雅各布斯（Jacobs AK）、库什纳（Kushner FG）、埃廷格（Ettinger SM）等的循证等级数据。ACCF/AHA clinical practice guideline methodology summit report: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines.Circulation2013;127(2):268-310.doi:10.1161/CIR.0b013e31827e8e5f
+ARVC=致心律失常的右心室心肌病；BP=血压；CPVT=儿茶酚胺能多态性室性心动过速；CRT=心脏再同步治疗；HCM=肥厚型心肌病；ICD=植入式心脏复律除颤器；LV=左心室；MI=心肌梗死；NYHA=纽约心脏协会；QTc=校正QT间期；RV=右心室；VF=心室颤动；VT=室性心动过速。
+Data fromAl-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden death: a report of the American College of Cardiology Foundation, American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.J Am Coll Cardiol72:e91–e220, 2018 doi: 10.1016/j.jacc.2017.10.054,Towbin JA, McKenna WJ, Abrams DJ, et al: 2019 HRS expert consensus statement on evaluation, risk stratification, and management of arrhythmogenic cardiomyopathy.Heart Rhythm16:e301–e372, 2019, andOmmen SR, Ho CY, Asif IM, et al: 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines [published correction appears inCirculation150(8):e198, 2024. doi: 10.1161/CIR.0000000000001277].Circulation149(23):e1239–e1311, 2024.doi:10.1161/CIR.0000000000001250
+
+【ICD故障】
+ICD可能会发生故障
+提供不适当的起搏或电击
+提供不适当的起搏或电击
+在需要时不提供起搏或电击
+在需要时不提供起搏或电击
+ICD可能会对窦性心律、室上性心动过速、心房颤动、心房扑动或非生理性释放脉冲（如由于导线断裂）产生不恰当的起搏或电击。
+植入型心律转复除颤器可能因导线或脉冲发生器移位、感知不足、既往电击部位纤维化导致起搏阈值升高以及电池耗竭等因素，在需要时无法提供适当的起搏或电击
+
+【当ICD放电时】
+对于报告ICD放电但无伴随晕厥、呼吸困难、胸痛或持续心悸症状的患者，应尽快安排至ICD门诊和/或电生理学家专科随访。ICD可以通过电子检测以确定放电的原因。如果存在此类相关症状，或患者接受多次电击，需紧急转诊以寻找可治疗的病因（如冠状动脉缺血、电解质紊乱）或设备故障。
+
+【参考文献】
+1.Leong AM, Arnold AD, Whinnett ZI.Implantable Cardioverter Defibrillator Tachycardia Therapies: Past, Present and Future Directions.J Cardiovasc Dev Dis2024;11(3):92.Published 2024 Mar 20.doi:10.3390/jcdd11030092
+1.Leong AM, Arnold AD, Whinnett ZI.Implantable Cardioverter Defibrillator Tachycardia Therapies: Past, Present and Future Directions.J Cardiovasc Dev Dis2024;11(3):92.Published 2024 Mar 20.doi:10.3390/jcdd11030092
+2.Weinstock J, Madias C.The Subcutaneous Defibrillator.Card Electrophysiol Clin2017;9(4):775-783.doi:10.1016/j.ccep.2017.08.007
+2.Weinstock J, Madias C.The Subcutaneous Defibrillator.Card Electrophysiol Clin2017;9(4):775-783.doi:10.1016/j.ccep.2017.08.007
+3.Sandhu U, Rajyaguru C, Cheung CC, Morin DP, Lee BK.The wearable cardioverter-defibrillator vest: Indications and ongoing questions.Prog Cardiovasc Dis2019;62(3):256-264.doi:10.1016/j.pcad.2019.05.005
+3.Sandhu U, Rajyaguru C, Cheung CC, Morin DP, Lee BK.The wearable cardioverter-defibrillator vest: Indications and ongoing questions.Prog Cardiovasc Dis2019;62(3):256-264.doi:10.1016/j.pcad.2019.05.005

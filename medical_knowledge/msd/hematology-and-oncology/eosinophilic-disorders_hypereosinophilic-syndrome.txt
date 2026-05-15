@@ -1,0 +1,175 @@
+标题：高嗜酸性粒细胞综合征
+来源：https://www.msdmanuals.cn/professional/hematology-and-oncology/eosinophilic-disorders/hypereosinophilic-syndrome
+============================================================
+
+嗜酸性粒细胞增多综合征的传统定义为外周血嗜酸性粒细胞>1500/mcL(> 1.5 × 109/L)持续≥6个月并有器官功能障碍的证据。(参见于嗜酸性粒细胞的形成和功能。）
+嗜酸性粒细胞增多综合征以前被认为是特发性的，但分子特征显示许多病例具有特定的克隆性疾病 (1)。 传统定义的局限性是不包括一些具有相同异常（如基因缺陷）的患者，这些异常是嗜酸性粒细胞增多综合征的已知病因但根据嗜酸性粒细胞增高的程度和持续时间却不符合传统的嗜酸性粒细胞增多综合征的定义。 另一局限性是某些具有嗜酸性粒细胞增多综合征特征的嗜酸性粒细胞增高和脏器损害的患者，在明确其符合传统诊断标准的6个月前即需进行治疗。任何病因的嗜酸性粒细胞增多均可引起相同类型的组织损伤。
+
+【克隆性嗜酸性粒细胞增多综合征】
+克隆性嗜酸性细胞增多综合征主要有2种亚型（见表克隆性嗜酸性粒细胞增多综合征的亚型）：
+骨髓增殖变异型
+骨髓增殖变异型
+淋巴细胞增殖变异型
+淋巴细胞增殖变异型
+骨髓增殖变异型常与4号染色体CHIC2位点的小段内部缺失相关， 导致FIP1L1/PDGFRA-相关的融合基因（具有酪氨酸激酶活性从而可转化造血细胞）形成。患者经常有
+血清类胰蛋白酶水平升高
+血清类胰蛋白酶水平升高
+血清维生素B12水平升高
+血清维生素B12水平升高
+少颗粒型或空泡状嗜酸性粒细胞
+少颗粒型或空泡状嗜酸性粒细胞
+骨髓纤维化
+骨髓纤维化
+血小板减少
+血小板减少
+骨髓增生亚型的患者常进展为心内膜纤维化，极少数进展为急性髓系白血病或急性淋巴细胞白血病。FIP1L1/PDGFRA-相关融合基因阳性常见于男性患者，低剂量的伊马替尼（一种酪氨酸激酶抑制剂）可能对其有效。
+小部分患有高嗜酸性粒细胞综合征骨髓增殖变异型的患者其细胞遗传学改变涉及血小板衍生生长因子受体beta（PDGFRB），故也可能对酪氨酸激酶抑制剂如伊马替尼有应答（2)。其他细胞遗传异常包括成纤维细胞生长因子受体1（FGFR1）或janus激酶2（PCM1-JAK2)基因的重排。 最近，ETV6-ABL1和各种FLT3融合已被添加到与嗜酸性粒细胞增多症相关的基因重排中。
+部分患者患有慢性嗜酸性白血病，骨髓检查时原始细胞增多但不超过20%。
+淋巴细胞增殖变异型同伴有异常表型的克隆性T细胞群相关。 聚合酶链反应 (PCR) 显示克隆性 T 细胞受体重排。 病人常出现
+血管性水肿、皮肤异常，或两者均有
+血管性水肿、皮肤异常，或两者均有
+循环免疫复合物（有时伴有血清病）
+循环免疫复合物（有时伴有血清病）
+高丙种球蛋白血症（特别是高IgE）
+高丙种球蛋白血症（特别是高IgE）
+淋巴增生性变异的患者对皮质类固醇的反应也往往较好，偶可进展为T细胞淋巴瘤。
+其他嗜酸细胞增多症综合征变体包括格莱希综合征（伴有嗜酸性粒细胞增多症的发作性血管性水肿）、定位于5q 31-33 的家族性嗜酸性粒细胞增多症综合征，以及其他特定器官的综合征。在器官特异性嗜酸性粒细胞综合征中，嗜酸性粒细胞浸润仅局限于单个器官（如嗜酸性胃肠道疾病,慢性嗜酸性粒细胞性肺炎—3)。
+嗜酸性粒细胞白血病患者可出现高白细胞血症，且嗜酸性粒细胞计数很高（如>100,000个细胞/mcL [> 100 × 109/L]）。嗜酸性粒细胞可以形成聚集物，堵塞小血管，从而引起组织缺血和微小梗死。 畅聊的表现包括脑或肺的低氧血症（如脑病、呼吸困难或呼吸衰竭）。
+
+【克隆性嗜酸性粒细胞增多综合征】
+克隆性嗜酸性粒细胞增多综合征
+骨髓增殖变异型
+淋巴细胞增殖变异型
+重排PDGFRA、PDGFRB、FGFR1、PCM1-JAK2、 或者ETV6-ABL1
+伴异常表型的克隆性T细胞群
+临床表现和实验室检查
+血清类胰蛋白酶水平升高
+血清维生素B12水平升高
+心内膜纤维化
+少颗粒型或空泡状嗜酸性粒细胞
+骨髓纤维化
+血小板减少
+血管性水肿
+循环免疫复合物（有时伴有血清病）
+高丙种球蛋白血症（特别是IgE）
+皮肤异常
+未来患病风险增加
+急性淋巴细胞白血病
+急性髓系白血病
+T细胞淋巴瘤
+对药物有应答
+伊马替尼或其他酪氨酸激酶抑制剂
+糖皮质激素
+
+【特发性高嗜酸性粒细胞综合征】
+特发性嗜酸性粒细胞增多综合征是罕见的，发病率未知，最常见于20至50岁的人群。仅一些长期嗜酸性粒细胞增高的高嗜酸性粒细胞综合征患者会出现器官功能异常，并以此为特征。虽然任何器官均可累及，但主要影响心、肺、肝、脾、皮肤和神经系统。心脏累及可出现较高的发病率和死亡率
+
+【参考文献】
+1.Wang SA, Orazi A, Gotlib J, et al: The international consensus classification of eosinophilic disorders and systemic mastocytosis.Am J Hematol98(8):1286–1306, 2023.doi:10.1002/ajh.26966
+1.Wang SA, Orazi A, Gotlib J, et al: The international consensus classification of eosinophilic disorders and systemic mastocytosis.Am J Hematol98(8):1286–1306, 2023.doi:10.1002/ajh.26966
+2.Apperley JF, Gardembas M, Melo JV, et al: Response toimatinib mesylatein patients with chronic myeloproliferative diseases with rearrangements of the platelet-derived growth factor receptor beta.N Engl J Med347:481–487, 2002.
+2.Apperley JF, Gardembas M, Melo JV, et al: Response toimatinib mesylatein patients with chronic myeloproliferative diseases with rearrangements of the platelet-derived growth factor receptor beta.N Engl J Med347:481–487, 2002.
+3.Shomali W, Gotlib J: World Health Organization-defined eosinophilic disorders: 2022 update on diagnosis, risk stratification, and management.Am J Hematol97:129–148, 2022.
+3.Shomali W, Gotlib J: World Health Organization-defined eosinophilic disorders: 2022 update on diagnosis, risk stratification, and management.Am J Hematol97:129–148, 2022.
+
+【高嗜酸性粒细胞综合征的症状和体征】
+症状多样，取决于不同的器官功能异常（见表嗜酸性粒细胞增多综合征患者的异常）。
+
+【高嗜酸性细胞综合征患者的异常表现】
+高嗜酸性细胞综合征患者的异常表现
+流行情况
+≈50%
+肌肉疼痛
+体重减轻
+>70%
+附壁血栓栓塞
+限制性或浸润性心肌病，或二尖瓣或三尖瓣反流伴咳嗽、呼吸困难、心力衰竭、心律失常、心内膜病变、肺部浸润和胸腔积液
+皮肤病学的
+>50%
+血管性水肿
+皮肤划痕症
+皮疹（包括湿疹和风疹）
+血液系统
+>50%
+淋巴结病
+血栓栓塞现象
+血小板减少
+神经系统
+>50%
+伴局灶性损伤的脑栓塞
+弥散性脑病伴有行为和认知功能改变以及痉挛
+外周神经病变
+胃肠（GI）
+>40%
+腹部痉挛
+≈40%
+循环免疫复合物伴血清病
+免疫球蛋白水平（特别是IgE）升高
+重度嗜酸性粒细胞增高（如，嗜酸性粒细胞计数>100,000/mcL [> 100 × 109/L]) 的患者，偶可伴有高白细胞血症的并发症，如脑或肺部低氧血症的表现（如脑病，呼吸困难，呼吸衰竭）。 也可能发生其他血栓形成表现（如心肌壁血栓）。
+
+【高嗜酸性粒细胞综合征的诊断】
+排除继发性嗜酸性粒细胞增多
+排除继发性嗜酸性粒细胞增多
+检查以明确器官损害
+检查以明确器官损害
+如果未确定嗜酸性粒细胞增多症的继发原因，则进行骨髓检查和细胞遗传学检测
+如果未确定嗜酸性粒细胞增多症的继发原因，则进行骨髓检查和细胞遗传学检测
+无法解释的超过一次出现外周血嗜酸性粒细胞>1500/mcL (> 1.5 × 109/L)，特别是伴有器官功能受损的表现的患者，应考虑高嗜酸性粒细胞综合征的可能。
+器官损害的进一步评估包括血生化（包括肝酶、肌酸激酶、肾功能及肌钙蛋白）；心电图；心脏超声；肺功能检查，以及胸部、腹部和盆腔CT。使用流式细胞术、细胞遗传学检测和逆转录酶-聚合酶链反应 (rtPCR) 或荧光原位杂交 (FISH) 进行骨髓抽吸和活检以确定FIP1L1/PDGFRA相关的融合基因或其他常见的融合转录本，并评估T细胞受体的克隆性，以排除嗜酸性粒细胞增多综合征的淋巴细胞变异和其他可能导致嗜酸性粒细胞增多的原因 (1)。
+
+【诊断参考文献】
+1.Klion AD: Approach to the patient with suspected hypereosinophilic syndrome.Hematology Am Soc Hematol Educ Program2022; 2022(1):47-54.doi: 10.1182/hematology.2022000367
+1.Klion AD: Approach to the patient with suspected hypereosinophilic syndrome.Hematology Am Soc Hematol Educ Program2022; 2022(1):47-54.doi: 10.1182/hematology.2022000367
+
+【高嗜酸性粒细胞综合征的治疗】
+高嗜酸性粒细胞综合征及脏器进行性损害的患者需接受糖皮质激素治疗。
+高嗜酸性粒细胞综合征及脏器进行性损害的患者需接受糖皮质激素治疗。
+FIP1L1/PDGFRA-相关融合基因或其他类似基因融合的患者应给予伊马替尼治疗
+FIP1L1/PDGFRA-相关融合基因或其他类似基因融合的患者应给予伊马替尼治疗
+有时需用药物控制嗜酸性粒细胞数（如，羟基脲、干扰素alpha、依托泊苷、克拉屈滨）
+有时需用药物控制嗜酸性粒细胞数（如，羟基脲、干扰素alpha、依托泊苷、克拉屈滨）
+支持治疗
+支持治疗
+治疗包括早期治疗、病因治疗（治疗疾病本身）和支持治疗 (1)。器官损伤发生或必须开始治疗的嗜酸性粒细胞水平没有固定的水平，但大多数专家建议在绝对嗜酸性粒细胞计数为 1500 至 2000 个嗜酸性粒细胞/mcL（1.5 至 2×109/L)。
+
+【早期治疗】
+对于嗜酸性粒细胞增多症非常严重的患者，可能会出现呼吸困难或精神状态改变等白细胞增多症的并发症（通常发生在嗜酸性白血病患者中）。在这种情况下，应尽快使用大剂量皮质类固醇（例如，范围从 1 mg/kg 泼尼松或相当于 1 克甲基泼尼松龙）。如果24小时后嗜酸性粒细胞计数明显下降（例如，≥50%），则可每日重复使用皮质类固醇剂量；若未降低，则开始采用替代疗法（例如，羟基脲）。一旦嗜酸性粒细胞计数开始下降，并且控制良好，即可开始给予其他药物治疗。
+重要的是考虑可能的类圆线虫感染之前，应避免使用大剂量皮质类固醇，因为皮质类固醇可能会引发致命的播散性感染（超感染综合征）。
+
+【病因治疗】
+有FIP1L1/PDGFRA-相关融合基因（或涉及PDGFA/B的类似融合基因）的患者通常给予伊马替尼治疗（2），特别是疑有心脏损害时，也应该使用糖皮质激素。在诊断时开始使用伊马替尼可以预防器官损伤。 如果伊马替尼治疗无效或耐受性差，可使用其他酪氨酸激酶抑制剂（如达沙替尼、尼洛替尼、索拉非尼），或行异基因造血干细胞移植。病例报告表明，JAK2 抑制剂鲁索替尼可能对与 JAK2 突变相关的罕见病例有用（3）。
+不伴有FIP1L1/PDGFRA-相关融合基因的患者，即使无症状，也常予泼尼松60mg（或1mg/kg）口服以明确患者对糖皮质激素的治疗反应（如，嗜酸性粒细胞计数下降）。有症状或有脏器损害的患者，相同剂量的泼尼松治疗应每天一次，持续2周，然后逐渐减量。 没有症状即脏器损害的患者，应至少监测6个月以确保有无并发症的发生。 如果糖皮质激素无法轻易减量，则应使用不含糖皮质激素类的药物（如羟基脲、alpha-干扰素）。
+美泊利单抗是一种完全人源化的单克隆 IgG 抗体，可抑制 IL-5 与其受体的结合，可用于治疗特发性嗜酸性粒细胞增多症(4、5）。其他用于治疗嗜酸性粒细胞增多症的生物制剂包括 Reslizumab（抗 IL-5）、benralizumab（抗 IL-5 受体）和 dupilumab（抗 Il-4 受体）。许多生物制剂的临床试验正在进行中。
+
+【支持治疗】
+对有心脏受累表现（如浸润性的心肌病、瓣膜损害和心力衰竭）的患者可能需要支持性药物治疗及外科治疗。 血栓性并发症可能需要使用抗血小板药物（如，阿司匹林、氯吡格雷、噻氯匹定）；如果存在左室附壁血栓或短暂性脑缺血发作，即使应用阿司匹林也要进行抗凝治疗。
+
+【研究性疗法】
+FGFR1的新抑制剂正在这一罕见的嗜酸性粒细胞增多症患者群体中进行评估。
+
+【治疗参考文献】
+1.Ogbogu PU, Bochener BS, Butterfield HJ, et al: Hypereosinophilic syndromes: A multicenter, retrospective analysis of clinical characteristics and response to therapy.J Allergy Clin Immunol124:1319–1325, 2009.doi:10.1016/j.jaci.2009.09.022
+1.Ogbogu PU, Bochener BS, Butterfield HJ, et al: Hypereosinophilic syndromes: A multicenter, retrospective analysis of clinical characteristics and response to therapy.J Allergy Clin Immunol124:1319–1325, 2009.doi:10.1016/j.jaci.2009.09.022
+2.Cortes J, Ault P, Koller C, et al: Efficacy ofimatinib mesylatein the treatment of idiopathic hypereosinophilic syndrome.Blood101:4714–4716, 2003.doi:10.1182/blood-2003-01-0081
+2.Cortes J, Ault P, Koller C, et al: Efficacy ofimatinib mesylatein the treatment of idiopathic hypereosinophilic syndrome.Blood101:4714–4716, 2003.doi:10.1182/blood-2003-01-0081
+3.Klion AD: Approach to the patient with suspected hypereosinophilic syndrome.Hematology Am Soc Hematol Educ Program2022; 2022(1):47-54.doi: 10.1182/hematology.2022000367
+3.Klion AD: Approach to the patient with suspected hypereosinophilic syndrome.Hematology Am Soc Hematol Educ Program2022; 2022(1):47-54.doi: 10.1182/hematology.2022000367
+4.Roufosse F, Kahn JE, Rothenberg FE, et al: Efficacy and safety ofmepolizumabin hypereosinophilic syndrome: a phase III, randomized, placebo-controlled trial.J Allergy Clin Immunol146: 1397–1405, 2020.doi: 10.1016/j.jaci.2020.08.037
+4.Roufosse F, Kahn JE, Rothenberg FE, et al: Efficacy and safety ofmepolizumabin hypereosinophilic syndrome: a phase III, randomized, placebo-controlled trial.J Allergy Clin Immunol146: 1397–1405, 2020.doi: 10.1016/j.jaci.2020.08.037
+5.Rothenberg ME, Klion AD, Roufosse FE, et al: Treatment of patients with the hypereosinophilic syndrome withmepolizumab.N Engl J Med358:1215–28, 2008.doi:10.1056/NEJMoa070812
+5.Rothenberg ME, Klion AD, Roufosse FE, et al: Treatment of patients with the hypereosinophilic syndrome withmepolizumab.N Engl J Med358:1215–28, 2008.doi:10.1056/NEJMoa070812
+
+【高嗜酸性粒细胞综合征的预后】
+死亡通常是由器官，尤其是心脏功能障碍导致的。嗜酸性粒细胞增多的程度及持续时间并不能预测心脏是否受累。预后取决于对治疗的反应。对伊马替尼治疗的应答改善了FIP1L1/PDGFRA相关融合基因以及其他反应性基因融合患者的预后。
+在嗜酸性粒细胞增多综合征中，外周血嗜酸粒细胞增多（>1500/mcL [> 1.5 × 109/L]）不是由于寄生虫、过敏或其他继发原因造成的，其需持续时间≥6个月并造成器官损害或功能障碍。
+在嗜酸性粒细胞增多综合征中，外周血嗜酸粒细胞增多（>1500/mcL [> 1.5 × 109/L]）不是由于寄生虫、过敏或其他继发原因造成的，其需持续时间≥6个月并造成器官损害或功能障碍。
+嗜酸性粒细胞增多综合征似乎是许多血液系统疾病的表现，有些存在遗传因素。
+嗜酸性粒细胞增多综合征似乎是许多血液系统疾病的表现，有些存在遗传因素。
+任何器官均可累及，但主要累及心、肺、脾、皮肤和神经系统，心脏损害可引起较高的发病率和死亡率。
+任何器官均可累及，但主要累及心、肺、脾、皮肤和神经系统，心脏损害可引起较高的发病率和死亡率。
+应针对器官受累情况进行检查，包括肝酶、肌酸激酶、肌酐及肌钙白水平；心电图及心超；肺功能检查以及胸部、腹部和盆腔CT。
+应针对器官受累情况进行检查，包括肝酶、肌酸激酶、肌酐及肌钙白水平；心电图及心超；肺功能检查以及胸部、腹部和盆腔CT。
+可进行骨髓检查和细胞遗传学检查以明确病因。
+可进行骨髓检查和细胞遗传学检查以明确病因。
+重度嗜酸性粒细胞增多及器官损害的患者应给予糖皮质激素治疗。酪氨酸激酶抑制剂，比如小剂量的伊马替尼可能在特殊染色体异常相关的亚型中有效。
+重度嗜酸性粒细胞增多及器官损害的患者应给予糖皮质激素治疗。酪氨酸激酶抑制剂，比如小剂量的伊马替尼可能在特殊染色体异常相关的亚型中有效。

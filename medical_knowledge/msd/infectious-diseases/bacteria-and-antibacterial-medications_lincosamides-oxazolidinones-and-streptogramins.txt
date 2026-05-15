@@ -1,0 +1,6 @@
+标题：林可酰胺类、恶唑烷酮类与链阳菌素类
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/bacteria-and-antibacterial-medications/lincosamides-oxazolidinones-and-streptogramins
+============================================================
+
+林可酰胺类（克林霉素）、恶唑烷酮类（利奈唑胺、泰地唑利）、链阳霉素类（达福普汀[链阳霉素A]和奎奴普汀[链阳霉素B]）在结构上不同但被分类于同一类药物，因为其具有相似的抗菌作用方式和抗菌谱相似。大环内酯类（非达霉素除外）和氯霉素可能因同样的原因包括在这一组中。它们都通过与核糖体50S亚单位结合来抑制细菌蛋白质的合成。非达霉素的作用方式与其他大环内酯类药物完全不同；它通过与 DNA 模板-RNA 聚合酶复合物结合来抑制 RNA 聚合酶。
+某些甲基转移酶可以介导对上述类别的多个成员的抗性。erythromycin resistance methylase(erm) 基因通常介导对大环内酯类、克林霉素和奎奴普汀的抗性，但不介导对恶唑烷酮或达福普汀的抗性。chloramphenicol-florfenicol resistance(cfr) （氯霉素 - 氟苯尼考耐药）基因介导对氯霉素、达福普汀、克林霉素和恶唑烷酮类的抗性，但泰地唑利可能在某些菌株中保持敏感性。某些多药外排泵也会在其中一些类别之间产生交叉耐药性。

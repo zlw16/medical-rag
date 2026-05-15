@@ -1,0 +1,78 @@
+标题：肠旋转不良
+来源：https://www.msdmanuals.cn/professional/pediatrics/congenital-gastrointestinal-anomalies/malrotation-of-the-bowel
+============================================================
+
+(参见先天性胃肠道畸形概述。)
+肠旋转不良可能无症状，也可能有症状。无症状性肠旋转异常的患病率约为1/500（1）；而症状性肠旋转不良的发生率较低（每2500至6000个活产婴儿中就有1例发生）（2，3）。
+中肠扭转是异常定位和固定的肠道突然围绕其肠系膜蒂扭转，切断血液供应。这是一种外科急症。扭转最常发生于新生儿（4）。
+在正常胚胎发育过程中，原肠突出在腹腔外。当它回纳入腹腔时，结肠逆时针方向旋转，回盲部固定在右下腹。旋转不完全时，回盲部可停留在任何部位（多见于右上腹或中上腹），因纤维性后腹膜索带（Ladd带）压迫十二指肠引起肠梗阻，或因小肠缺少正常的腹膜附着固定，肠系膜狭长杆样，易引起肠扭转 (5)。
+其他异常在大多数患者中出现，最常见的是其他胃肠道 (GI) 畸形（例如，腹裂，脐膨出，膈疝，肠闭锁，梅克尔憩室）（2，5）。先天性心脏病、异位综合征（一种内脏在胸部和腹部异常排列的病症）以及遗传综合征也可能发生。
+肠旋转不良患者可在婴儿期或成年期发病；然而，约 40% 的病例在出生后第一个月内出现症状，>80% 的病例在 5 岁前发病 (3)。患者可能表现为急性腹痛和胆汁性呕吐、急性肠扭转、典型反流症状、慢性腹痛或生长迟缓。在某些患者中，对另一个问题进行评估时会偶然发现旋转不良。
+婴儿出现胆汁性呕吐属于急症，必须立即评估以排除肠旋转不良合并中肠扭转的可能；若不及时治疗，患儿面临肠梗死、继发短肠综合征或死亡的风险很高。
+
+【参考文献】
+1.Perez AA, Pickhardt PJ.Intestinal malrotation in adults: prevalence and findings based on CT colonography.Abdom Radiol (NY).2021;46(7):3002-3010.doi:10.1007/s00261-021-02959-3
+1.Perez AA, Pickhardt PJ.Intestinal malrotation in adults: prevalence and findings based on CT colonography.Abdom Radiol (NY).2021;46(7):3002-3010.doi:10.1007/s00261-021-02959-3
+2.Forrester MB, Merz RD.Epidemiology of intestinal malrotation, Hawaii, 1986-99.Paediatr Perinat Epidemiol.2003;17(2):195-200.doi:10.1046/j.1365-3016.2003.00480.x
+2.Forrester MB, Merz RD.Epidemiology of intestinal malrotation, Hawaii, 1986-99.Paediatr Perinat Epidemiol.2003;17(2):195-200.doi:10.1046/j.1365-3016.2003.00480.x
+3.Salehi Karlslätt K, Husberg B, Ullberg U, et al.Intestinal Malrotation in Children: Clinical Presentation and Outcomes.Eur J Pediatr Surg.2024;;34(3):228-235.doi:10.1055/s-0043-1764239
+3.Salehi Karlslätt K, Husberg B, Ullberg U, et al.Intestinal Malrotation in Children: Clinical Presentation and Outcomes.Eur J Pediatr Surg.2024;;34(3):228-235.doi:10.1055/s-0043-1764239
+4.Svetanoff WJ, Srivatsa S, Diefenbach K, Nwomeh BC.Diagnosis and management of intestinal rotational abnormalities with or without volvulus in the pediatric population.Semin Pediatr Surg.2022;31(1):151141.doi:10.1016/j.sempedsurg.2022.151141
+4.Svetanoff WJ, Srivatsa S, Diefenbach K, Nwomeh BC.Diagnosis and management of intestinal rotational abnormalities with or without volvulus in the pediatric population.Semin Pediatr Surg.2022;31(1):151141.doi:10.1016/j.sempedsurg.2022.151141
+5.Langer JC.Intestinal rotation abnormalities and midgut volvulus.Surg Clin N Am.2017;97(1):147–159.doi:10.1016/j.suc.2016.08.011
+5.Langer JC.Intestinal rotation abnormalities and midgut volvulus.Surg Clin N Am.2017;97(1):147–159.doi:10.1016/j.suc.2016.08.011
+
+【肠旋转不良的诊断】
+腹部X线检查
+腹部X线检查
+上消化道钡餐
+上消化道钡餐
+有时需进行钡剂灌肠
+有时需进行钡剂灌肠
+有时超声波
+有时超声波
+对于有胆汁性呕吐的婴儿，应立即进行腹部平片检查。如果检查提示梗阻，例如，显示出扩张的胃和近端小肠（双泡征），十二指肠远端肠道气体缺乏，或两者兼有（提示有肠扭转），则必须急诊完成进一步的诊断和治疗。
+谨慎进行上消化道（GI）系列检查通常是诊断伴有或不伴有扭转的旋转不良的首选方法（1）。钡灌肠在某些情况下是有帮助的，通常被认为是上消化道系列的辅助检查。钡剂灌肠示回盲部不在右下腹而诊断肠旋转不良。
+钡餐检查显示肠道旋转不良。十二指肠空肠交界处位于脊柱右侧，大部分小肠位于右侧。
+若普通X线检查无特异性表现且未发现梗阻迹象，临床医生有时会首选上消化道造影检查，因为该检查可能发现其他导致类似症状的疾病。
+此放射影像显示了典型的“双泡征”，为完全性十二指肠梗阻的特征性表现。较小的气泡代表近端扩张的十二指肠（白色箭头）；较大的气泡代表胃（黑色箭头）。该征象可见于十二指肠闭锁、十二指肠膜性狭窄、环状胰腺以及十二指肠前位门静脉等情况。罕见情况下，肠旋转不良患者因Ladd索带（Ladd韧带）形成可导致完全性十二指肠梗阻。
+在非紧急情况下，确诊肠旋转不良的金标准检查是上消化道造影。超声用于诊断肠旋转不良，可以通过观察十二指肠第三段的肠系膜后定位或肠系膜血管位置反转来判断；同时，可通过观察到“涡流征”来诊断肠扭转（2）。超声检查的使用取决于有经验的放射科医师和放射科技师(3)。
+
+【诊断参考】
+1.Graziano K, Islam S, Dasgupta R, et al.Asymptomatic malrotation: Diagnosis and surgical management: An American Pediatric Surgical Association outcomes and evidence based practice committee systematic review.J Pediatr Surg.2015;50:1783–1790.doi:10.1016/j.jpedsurg.2015.06.019
+1.Graziano K, Islam S, Dasgupta R, et al.Asymptomatic malrotation: Diagnosis and surgical management: An American Pediatric Surgical Association outcomes and evidence based practice committee systematic review.J Pediatr Surg.2015;50:1783–1790.doi:10.1016/j.jpedsurg.2015.06.019
+2.Nguyen HN, Kulkarni M, Jose J, et al.Ultrasound for the diagnosis of malrotation and volvulus in children and adolescents: a systematic review and meta-analysis.Arch Dis Child.2021;106(12):1171-1178.doi:10.1136/archdischild-2020-321082
+2.Nguyen HN, Kulkarni M, Jose J, et al.Ultrasound for the diagnosis of malrotation and volvulus in children and adolescents: a systematic review and meta-analysis.Arch Dis Child.2021;106(12):1171-1178.doi:10.1136/archdischild-2020-321082
+3.Zhou LY, Li SR, Wang W, et al.Usefulness of sonography in evaluating children suspected of malrotation: Comparison with an upper gastrointestinal contrast study.J Ultrasound Med.2015;34:1825–1832.doi:10.7863/ultra.14.10017
+3.Zhou LY, Li SR, Wang W, et al.Usefulness of sonography in evaluating children suspected of malrotation: Comparison with an upper gastrointestinal contrast study.J Ultrasound Med.2015;34:1825–1832.doi:10.7863/ultra.14.10017
+
+【肠旋转不良的治疗】
+采用Ladd术式进行外科手术修复
+采用Ladd术式进行外科手术修复
+旋转不良的手术治疗是Ladd手术，包括解除扭转（如果存在）、Ladd束（可引起十二指肠梗阻的纤维性腹膜后束）的分裂、小肠肠系膜的扩大、肠道的重新定位（小肠向右，结肠向左）和阑尾切除术。Ladd手术可以通过腹腔镜或开放途径完成 (1)。
+出现中肠扭转伴旋转不良是需要立即手术的紧急情况。与开腹手术相比，腹腔镜下对无扭转的肠旋转不良施行Ladd手术可以缩短肠内营养恢复的时间，缩短住院时间（2)。
+对于尚未发生扭转的有症状患者，可以选择性地进行Ladd手术（3）。对于偶然发现肠旋转不良的无症状患者以及异位综合征患者，也可以预防性地进行此手术；但是，这种做法存在争议（4–6）。
+
+【治疗参考文献】
+1.Ooms N, Matthyssens LE, Draaisma JM, et al.Laparoscopic treatment of intestinal malrotation in children.Eur J Pediatr Surg.2016;26:376–381.doi:10.1055/s-0035-1554914
+1.Ooms N, Matthyssens LE, Draaisma JM, et al.Laparoscopic treatment of intestinal malrotation in children.Eur J Pediatr Surg.2016;26:376–381.doi:10.1055/s-0035-1554914
+2.Xie W, Li Z, Wang Q, Wang L, Pan Y, Lu C.Laparoscopic vs open Ladd's procedure for malrotation in neonates and infants: a propensity score matching analysis.BMC Surg.2022;22(1):25.Published 2022 Jan 26.doi:10.1186/s12893-022-01487-1
+2.Xie W, Li Z, Wang Q, Wang L, Pan Y, Lu C.Laparoscopic vs open Ladd's procedure for malrotation in neonates and infants: a propensity score matching analysis.BMC Surg.2022;22(1):25.Published 2022 Jan 26.doi:10.1186/s12893-022-01487-1
+3.Covey SE, Putnam LR, Anderson KT, Tsao K.Prophylactic versus symptomatic Ladd procedures for pediatric malrotation.J Surg Res.2016;205(2):327-330.doi:10.1016/j.jss.2016.06.097
+3.Covey SE, Putnam LR, Anderson KT, Tsao K.Prophylactic versus symptomatic Ladd procedures for pediatric malrotation.J Surg Res.2016;205(2):327-330.doi:10.1016/j.jss.2016.06.097
+4.Yu DC, Thiagarajan RR, Laussen PC, Laussen JP, Jaksic T, Weldon CB.Outcomes after the Ladd procedure in patients with heterotaxy syndrome, congenital heart disease, and intestinal malrotation.J Pediatr Surg.2009;44(6):1089-1095.doi:10.1016/j.jpedsurg.2009.02.015
+4.Yu DC, Thiagarajan RR, Laussen PC, Laussen JP, Jaksic T, Weldon CB.Outcomes after the Ladd procedure in patients with heterotaxy syndrome, congenital heart disease, and intestinal malrotation.J Pediatr Surg.2009;44(6):1089-1095.doi:10.1016/j.jpedsurg.2009.02.015
+5.Malek MM, Burd RS.The optimal management of malrotation diagnosed after infancy: a decision analysis.Am J Surg.2006;191(1):45-51.doi:10.1016/j.amjsurg.2005.10.002
+5.Malek MM, Burd RS.The optimal management of malrotation diagnosed after infancy: a decision analysis.Am J Surg.2006;191(1):45-51.doi:10.1016/j.amjsurg.2005.10.002
+6.Landisch R, Abdel-Hafeez AH, Massoumi R, Christensen M, Shillingford A, Wagner AJ.Observation versus prophylactic Ladd procedure for asymptomatic intestinal rotational abnormalities in heterotaxy syndrome: A systematic review.J Pediatr Surg.2015;50(11):1971-1974.doi:10.1016/j.jpedsurg.2015.08.002
+6.Landisch R, Abdel-Hafeez AH, Massoumi R, Christensen M, Shillingford A, Wagner AJ.Observation versus prophylactic Ladd procedure for asymptomatic intestinal rotational abnormalities in heterotaxy syndrome: A systematic review.J Pediatr Surg.2015;50(11):1971-1974.doi:10.1016/j.jpedsurg.2015.08.002
+在胚胎发育过程中，肠从腹腔外开始，然后回到腹部并旋转;旋转不完全可能引起肠梗阻。
+在胚胎发育过程中，肠从腹腔外开始，然后回到腹部并旋转;旋转不完全可能引起肠梗阻。
+患者常无症状，但部分可表现为轻度、非特异性症状（如反流），或因肠扭转导致危及生命的肠梗阻（如胆汁性呕吐）。
+患者常无症状，但部分可表现为轻度、非特异性症状（如反流），或因肠扭转导致危及生命的肠梗阻（如胆汁性呕吐）。
+其他畸形，通常是胃肠道畸形，这存在于30％至60％的患者中。
+其他畸形，通常是胃肠道畸形，这存在于30％至60％的患者中。
+做胃肠道X线片和上胃肠道造影和/或钡灌肠。
+做胃肠道X线片和上胃肠道造影和/或钡灌肠。
+对有症状的婴儿进行手术修复。
+对有症状的婴儿进行手术修复。

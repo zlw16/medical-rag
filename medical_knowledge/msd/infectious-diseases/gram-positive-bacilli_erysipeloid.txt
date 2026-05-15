@@ -1,0 +1,84 @@
+标题：丹毒
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/gram-positive-bacilli/erysipeloid
+============================================================
+
+丹毒样皮炎是由细菌Erysipelothrix rhusiopathiae（猪红斑丹毒丝菌）引起的感染，这是一种细小的革兰氏阳性、有荚膜、不产芽孢、无运动性、需氧或兼性厌氧的杆菌，全球分布；它们主要是腐生菌（即生活在死亡和/或腐烂物质上）。
+E. rhusiopathiae猪红斑丹毒丝菌可感染多种动物，包括贝壳类动物、鱼、鸟和哺乳动物（特别是猪）和昆虫。在人类中，该感染属于人畜共患病，主要与职业暴露有关，通常发生于处理可食或不可食动物制品（如感染的动物尸体、熬制副产品［油脂、肥料］、骨骼、贝壳等）时因穿透性损伤而感染。通常，患者在处理鱼类或贝类或在屠宰场处理生肉时，相关的擦伤或刺伤在大多数感染病例中成为细菌入侵的入口。被猫、狗咬伤也可导致感染。
+
+【类丹毒的病理生理学】
+猪红斑丹毒丝菌是一种具有荚膜的微生物，其毒力因子能够抵抗吞噬作用并支持细胞内生存，尤其是在巨噬细胞内（1）。关键毒力因子包括表面保护性抗原 A（SpaA），这是一种增强其与宿主细胞黏附的黏附蛋白，并在疫苗的临床前研究模型中显示出保护作用（2）。其他毒力因子包括神经氨酸酶和透明质酸酶等酶，以及各种细胞壁相关蛋白。
+毒力因子导致宿主免疫监视失效，并在皮肤屏障被突破后使病原体得以系统性扩散，影响包括心血管系统、中枢神经系统、肾脏、关节和肺脏在内的多个器官系统。然而，皮肤外感染很少见，通常表现为化脓性关节炎或感染性心内膜炎。
+
+【病理生理学参考文献】
+1.Shimoji Y.Pathogenicity of Erysipelothrix rhusiopathiae: virulence factors and protective immunity.Microbes Infect.2000;2(8):965-972.doi:10.1016/s1286-4579(00)00397-x
+1.Shimoji Y.Pathogenicity of Erysipelothrix rhusiopathiae: virulence factors and protective immunity.Microbes Infect.2000;2(8):965-972.doi:10.1016/s1286-4579(00)00397-x
+2.Cheun HI, Kawamoto K, Hiramatsu M, et al.Protective immunity of SpaA-antigen producing Lactococcus lactis against Erysipelothrix rhusiopathiae infection.J Appl Microbiol.2004;96(6):1347-1353.doi:10.1111/j.1365-2672.2004.02283.x
+2.Cheun HI, Kawamoto K, Hiramatsu M, et al.Protective immunity of SpaA-antigen producing Lactococcus lactis against Erysipelothrix rhusiopathiae infection.J Appl Microbiol.2004;96(6):1347-1353.doi:10.1111/j.1365-2672.2004.02283.x
+
+【丹毒的症状和体征】
+丹毒样感染可能导致局部或全身性皮肤病变。部分患者出现全身性表现，其中一些患者还可能并发心内膜炎。
+局部皮肤感染：受伤后1周内，受累区域（如手部）出现缓慢进展的特征性隆起、紫红色、硬结的局限性蜂窝织炎样皮疹，伴有瘙痒和灼痛感。通常局部肿胀但界限明显，可能影响手的功能，手为常见的感染部位。皮损的边缘可缓慢向外扩展，导致不适和活动受限达3周。局部丹毒杆菌属病通常呈自限性。约三分之一的病例可能出现局部淋巴结肿大和淋巴管炎（1）。
+全身皮肤感染：丹毒丝菌病极少发展为全身性皮肤疾病，其特征为紫罗兰色皮损随中心消退而向外扩展，并在原发部位或远端部位出现大疱性皮损。邻近的淋巴管炎也可能发生。通常无全身症状。
+伴或不伴心内膜炎的全身感染：菌血症很少见，通常是原发性感染，而不是皮肤病变的扩散。该病可能引起化脓性关节炎或感染性心内膜炎，甚至在无心脏瓣膜病者也可发生。心内膜炎通常累及主动脉瓣，死亡率高，患者常需心脏瓣膜移植 (2,3)。中枢神经系统、腹内和骨骼很少发生感染。
+该图显示了丹毒样皮肤炎感染特征性的紫红色硬性皮疹。
+
+【症状和体征参考】
+1.Stevens DL, Bisno AL, Chambers HF, et al.Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America.Clin Infect Dis.2014;59(2):147-159.doi:10.1093/cid/ciu296
+1.Stevens DL, Bisno AL, Chambers HF, et al.Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America.Clin Infect Dis.2014;59(2):147-159.doi:10.1093/cid/ciu296
+2.Balkhair A, Al Lawati H, Al Riyami M, Alameddine T, Al Amin M, Al Adawi B.Erysipelothrix rhusiopathiaeendocarditis diagnosed by broad range 16s rRNA PCR gene sequencing.IDCases.2019;18:e00584.doi:10.1016/j.idcr.2019.e00584
+2.Balkhair A, Al Lawati H, Al Riyami M, Alameddine T, Al Amin M, Al Adawi B.Erysipelothrix rhusiopathiaeendocarditis diagnosed by broad range 16s rRNA PCR gene sequencing.IDCases.2019;18:e00584.doi:10.1016/j.idcr.2019.e00584
+3.Rostamian M, Rahmati D, Akya A.Clinical manifestations, associated diseases, diagnosis, and treatment of human infections caused byErysipelothrix rhusiopathiae: a systematic review.Germs.2022;12(1):16-31.doi:10.18683/germs.2022.1303
+3.Rostamian M, Rahmati D, Akya A.Clinical manifestations, associated diseases, diagnosis, and treatment of human infections caused byErysipelothrix rhusiopathiae: a systematic review.Germs.2022;12(1):16-31.doi:10.18683/germs.2022.1303
+
+【丹毒丝菌病的诊断】
+细菌培养
+细菌培养
+聚合酶链反应扩增以快速诊断
+聚合酶链反应扩增以快速诊断
+活检厚皮片培养优于自病损扩展边缘处针刺吸取物培养，因为细菌仅局限于皮肤深部。挤压鲜红丘疹获取渗出物作培养也具有诊断价值。要诊断由E. rhusiopathiae（猪红斑埃希菌）感染引起的关节炎或心内膜炎，需从滑液或血液中分离出该菌，但血培养的阳性率通常很低（1）。E. rhusiopathiae（猪红斑埃希菌）可能被误认为是乳酸杆菌或肠球菌（2）。
+基于PCR的扩增检测有助于丹毒的快速诊断。如果怀疑是心内膜炎，那么快速诊断尤为重要，因为由E. rhusiopathiae（红斑丹毒丝菌）引起的心内膜炎的治疗方法与革兰氏阳性杆菌心内膜炎的常规经验性治疗方法不同（例如，E. rhusiopathiae（红斑丹毒丝菌）对通常使用的万古霉素耐药）。
+
+【诊断参考】
+1.Stevens DL, Bisno AL, Chambers HF, et al.Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America.Clin Infect Dis.2014;59(2):147-159.doi:10.1093/cid/ciu296
+1.Stevens DL, Bisno AL, Chambers HF, et al.Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America.Clin Infect Dis.2014;59(2):147-159.doi:10.1093/cid/ciu296
+2.Dunbar SA, Clarridge JE 3rd.Potential errors in recognition ofErysipelothrix rhusiopathiae.J Clin Microbiol.2000;38(3):1302-1304.doi:10.1128/JCM.38.3.1302-1304.2000
+2.Dunbar SA, Clarridge JE 3rd.Potential errors in recognition ofErysipelothrix rhusiopathiae.J Clin Microbiol.2000;38(3):1302-1304.doi:10.1128/JCM.38.3.1302-1304.2000
+
+【丹毒丝菌病的治疗】
+青霉素、亚胺培南、头孢菌素类、氟喹诺酮类或克林霉素
+青霉素、亚胺培南、头孢菌素类、氟喹诺酮类或克林霉素
+需用抗生素治疗 (1)。抗生素的选择和剂量方案取决于感染部位。
+对于局限性皮肤疾病，常用治疗方案如下之一，疗程为 7～10 天（1）。
+青霉素V或氨苄西林（500mg po q6h）或阿莫西林（500mg po q8h）
+青霉素V或氨苄西林（500mg po q6h）或阿莫西林（500mg po q8h）
+环丙沙星（250mg，口服，每12小时一次）
+环丙沙星（250mg，口服，每12小时一次）
+克林霉素（300mg，口服，每8小时一次）
+克林霉素（300mg，口服，每8小时一次）
+头孢菌素也是有效的。 达托霉素和利奈唑胺在体外试验中有效，如果患者对beta-内酰胺类抗生素过敏，可以考虑使用。四环素类和大环内酯类可能不再可靠。
+E. rhusiopathiae（红斑丹毒丝菌）对磺胺类、氨基糖苷类及万古霉素耐药。
+重度弥漫性皮肤或全身性感染最好应用下列一项进行治疗：
+静脉用青霉素G（2百万至3百万单位 每4小时一次）
+静脉用青霉素G（2百万至3百万单位 每4小时一次）
+头孢曲松（2克静脉注射一天一次）
+头孢曲松（2克静脉注射一天一次）
+一种氟喹诺酮类药物（如环丙沙星400 mg静脉注射每12小时一次，左氧氟沙星500 mg静脉注射每日一次）
+一种氟喹诺酮类药物（如环丙沙星400 mg静脉注射每12小时一次，左氧氟沙星500 mg静脉注射每日一次）
+心内膜炎的治疗采用青霉素G维持4～6周。也可选择头孢菌素和氟喹诺酮类。万古霉素通常用于革兰氏阳性杆菌性心内膜炎的经验性治疗; 然而，E. rhusiopathiae（红斑丹毒丝菌）对万古霉素耐药。因此，快速区分E. rhusiopathiae（猪红斑埃希菌）与其他革兰氏阳性菌，对于启动恰当的抗生素治疗至关重要。
+关节炎的治疗采用与心内膜炎相同的抗生素和剂量（退热或积液停止后至少持续用药1周），但还需对感染关节进行反复穿刺抽吸引流。
+
+【Treatment reference】
+1.Stevens DL, Bisno AL, Chambers HF, et al.Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America.Clin Infect Dis.2014;59(2):147-159.doi:10.1093/cid/ciu296
+1.Stevens DL, Bisno AL, Chambers HF, et al.Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America.Clin Infect Dis.2014;59(2):147-159.doi:10.1093/cid/ciu296
+丹毒丝菌感染通常见于处理可食或不可食动物材料（如在屠宰场）时发生刺伤的人群或工作与鱼类或贝壳类动物有关的人群。
+丹毒丝菌感染通常见于处理可食或不可食动物材料（如在屠宰场）时发生刺伤的人群或工作与鱼类或贝壳类动物有关的人群。
+受伤约 1 周后，出现隆起的紫红色、无水疱、硬性斑丘疹样皮疹，并伴有瘙痒和灼热感；约三分之一的患者伴有淋巴管炎或局部淋巴结肿大。
+受伤约 1 周后，出现隆起的紫红色、无水疱、硬性斑丘疹样皮疹，并伴有瘙痒和灼热感；约三分之一的患者伴有淋巴管炎或局部淋巴结肿大。
+菌血症罕见，但可导致化脓性关节炎或感染性心内膜炎。
+菌血症罕见，但可导致化脓性关节炎或感染性心内膜炎。
+诊断基于对皮肤标本全层活检或通过刮擦红斑丘疹获得的渗出液进行培养。
+诊断基于对皮肤标本全层活检或通过刮擦红斑丘疹获得的渗出液进行培养。
+如果怀疑由E. rhusiopathiae（红斑丹毒丝菌）引起的心内膜炎，快速鉴定病原体至关重要，因为其治疗方法不同于通常的革兰氏阳性杆菌心内膜炎的经验治疗；E. rhusiopathiae（红斑丹毒丝菌）对通常用于治疗革兰氏阳性杆菌心内膜炎的万古霉素耐药。
+如果怀疑由E. rhusiopathiae（红斑丹毒丝菌）引起的心内膜炎，快速鉴定病原体至关重要，因为其治疗方法不同于通常的革兰氏阳性杆菌心内膜炎的经验治疗；E. rhusiopathiae（红斑丹毒丝菌）对通常用于治疗革兰氏阳性杆菌心内膜炎的万古霉素耐药。
+根据感染的程度和部位采用抗生素（如青霉素，环丙沙星）治疗。
+根据感染的程度和部位采用抗生素（如青霉素，环丙沙星）治疗。

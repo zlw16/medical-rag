@@ -1,0 +1,126 @@
+标题：球孢子菌病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/fungal-infections/coccidioidomycosis
+============================================================
+
+球孢子菌病是由吸入双形真菌球孢子菌和波萨达球孢子菌的空气传播节孢子（孢子）引起的系统性真菌感染。
+在北美，本病流行区包括:
+美国西南部地区
+美国西南部地区
+墨西哥北部
+墨西哥北部
+受累地区主要为美国西南部的干旱或半干旱地区，包括亚利桑那州、加利福尼亚州中央谷地、新墨西哥州部分地区以及得克萨斯州埃尔帕索以西地区。流行区还向墨西哥北部地区延伸，在中美洲和阿根廷部分地区有局部流行区存在。球孢子菌病亦见于犹他州、内华达州及华盛顿州中南部。每年约有 20,000 例病例报告至美国疾病控制与预防中心（CDC）（1）。
+在亚利桑那州的高度流行地区，如图森和凤凰城的大都市区，估计有15%至30%的社区获得性肺炎病例是球孢子菌病引起的。
+(参见真菌感染概述。）
+
+【参考文献】
+1.Centers for Disease Control and Prevention (CDC): Reported Cases of Valley Fever (Coccidioidomycosis).Accessed July 22, 2025.
+1.Centers for Disease Control and Prevention (CDC): Reported Cases of Valley Fever (Coccidioidomycosis).Accessed July 22, 2025.
+
+【球孢子菌病的病理生理学】
+球孢子菌病是通过吸入孢子获得的。孢子存在于土壤中，并且可以在可以顺风传播的灰尘中传播。因此，某些职业（如农业、建筑业）及户外娱乐活动与感染风险增加相关。当暴雨促进菌丝生长后，继之干旱和大风，常可导致本病流行。由于旅行和临床表现的延迟发作，感染在流行地区以外可能变得明显。
+一旦吸入，Coccidioides（粗球孢子菌）的孢子会转化为具有侵袭性的大球状体。球囊逐渐增大而后囊壁破裂，每个球囊遂释放出无数个小的内孢子，这些内孢子又可形成新的球囊。
+肺部疾病以急性、亚急性或慢性肉芽肿性反应为特征，伴有不同程度的纤维化。病变可能形成空洞或形成结节样、硬币样病变。
+粗球孢子菌病有时会进展，伴有肺部广泛累及和（或）全身播散。可在几乎任何组织形成局灶性病变，其中最常见受累及的是皮肤、皮下组织、骨骼（骨髓炎）、关节和脑膜（脑膜炎）。
+
+【进展性球孢子菌病的危险因素】
+进展性球孢子菌病在健康人群中并不常见，在以下情况更易发生球孢子菌病：
+HIV感染
+HIV感染
+使用免疫抑制剂
+使用免疫抑制剂
+怀孕中期或晚期或产后
+怀孕中期或晚期或产后
+菲律宾人、黑人、美洲印第安人、西班牙裔或亚洲人（按相对风险降序排列）
+菲律宾人、黑人、美洲印第安人、西班牙裔或亚洲人（按相对风险降序排列）
+干细胞或实体器官移植后
+干细胞或实体器官移植后
+
+【球孢子菌病的临床症状和体征】
+
+【原发性球孢子菌病】
+多数原发性球孢子菌病患者无症状，但在初次感染后 1–3 周，部分患者可出现类似流感、急性支气管炎的非特异性呼吸道症状，较少见者可表现为急性肺炎（即社区获得性肺炎）或胸腔积液。
+原发性球孢子菌病的症状按发生频率高低依次为：发热、咳嗽、胸痛、寒战、咳痰、咽喉痛和咯血。
+体征可能缺如，或只有散在的肺部啰音，可伴有或不伴有肺叶叩诊浊音区。部分患者可对局限性的呼吸道感染产生超敏反应，如血清病样反应（亦称“山谷热三联征”），表现为关节炎、结膜炎及皮疹（结节性红斑或多形红斑）。
+对Coccidioides immitis（粗球孢子菌）抗原的过敏反应可表现为结节性红斑、关节炎、结膜炎或多形性红斑。该图示为球孢子菌病所致多形红斑的实例。
+原发性肺部病灶有时可遗留结节样、硬币状病变，需与肿瘤、结核及其他肉芽肿性感染相鉴别。有时会形成残留的空洞病灶，其大小可能随时间变化，且常表现为薄壁空洞。一小部分这样的空洞病变不能自发闭合。如出现咯血或有破入胸腔的风险时，可能需手术治疗。
+
+【进行性球孢子菌病】
+进行性球孢子菌病可在原发性感染后数周、数月、偶尔数年后出现非特异性症状，包括低热、厌食、体重减轻及乏力。
+皮肤表现是由于免疫诱导的反应性皮疹、微生物从肺部播散或直接接种（原发性皮肤感染）引起的。结节性红斑是球孢子菌病最常见的反应性皮疹，其特征为多发、自限性的红斑性、疼痛性皮下结节，通常位于下肢，多在初始呼吸道症状出现后 1–3 周发生。已报道广泛的毒性皮疹和多形性红斑。谷热三联征（结膜炎、关节炎和皮疹）是一种超敏反应，可能随着疾病的进展而发生。
+广泛的肺部受累在健康人群中少见，主要发生在免疫功能低下的人群中。可能导致进行性发绀、呼吸困难以及黏液脓性或血性痰。
+从原发性肺部感染传播的球孢子菌病可表现为单一皮肤病变。
+肺外病变的症状取决于受累部位。较深部位的病变有时常形成窦道与皮肤相通。局灶性肺外病变常转为慢性且频繁复发，有时在看似成功的抗真菌治疗完成后很长时间仍可复发。
+未经治疗的播散性球孢子菌病通常是致命的；若合并脑膜炎，不经长期甚至终生治疗，死亡率可达100%。晚期HIV感染患者的病死率约为70%，中位生存期为54天（1）。
+
+【症状和体征】
+1.Singh VR, Smith DK, Lawerence J, et al.Coccidioidomycosis in patients infected with human immunodeficiency virus: review of 91 cases at a single institution.Clin Infect Dis.1996;23(3):563-568.doi:10.1093/clinids/23.3.563
+1.Singh VR, Smith DK, Lawerence J, et al.Coccidioidomycosis in patients infected with human immunodeficiency virus: review of 91 cases at a single institution.Clin Infect Dis.1996;23(3):563-568.doi:10.1093/clinids/23.3.563
+
+【球孢子菌病的诊断】
+培养（常规或真菌培养）
+培养（常规或真菌培养）
+标本显微镜检查以检测Coccidioides（粗球孢子菌属）球体
+标本显微镜检查以检测Coccidioides（粗球孢子菌属）球体
+影像学检查（胸部X线检查或CT扫描）
+影像学检查（胸部X线检查或CT扫描）
+血清学检测
+血清学检测
+分子诊断
+分子诊断
+球孢子菌病的诊断主要根据病史及（如存在）典型的体格检查发现加以怀疑。确认可通过真菌培养或在痰液、胸膜液、脑脊液(CSF)、引流病灶的渗出液或活检获得的组织病理学标本中的Coccidioides（球孢子菌属）球体的可视化来证实(1)。完整球囊直径通常为20～80μm，壁厚，内部充满直径2～4μm的小内孢子。从破裂的球囊释放进入组织中的内孢子可能会被误认为是无芽酵母菌。由于培养Coccidioides（球孢子菌）会对实验室人员造成严重的生物危害，因此应将疑似诊断告知实验室。
+胸部影像学表现可作为诊断的辅助资料。
+抗球孢子菌抗体的血清学检测包括 (2):
+酶免疫分析法是一种非常灵敏的诊断球孢子菌病的方法
+酶免疫分析法是一种非常灵敏的诊断球孢子菌病的方法
+免疫扩散(检测IgM或IgG抗体)
+免疫扩散(检测IgM或IgG抗体)
+补体结合（检测IgG抗体）
+补体结合（检测IgG抗体）
+血清中滴度≥1:4 表明目前或近期感染，高滴度 (≥1:32) 意味着肺外播散的可能性增加。补体结合滴度可用于评估疾病严重程度 (2)，高滴度提示病情更严重。然而，免疫功能低下患者的抗体滴度可能较低。在治疗成功的过程中，抗体滴度通常会下降。
+脑脊液中检测到补体结合抗体即可诊断球孢子菌性脑膜炎，且优于脑脊液培养，因为后者很少呈阳性。
+对于罹患重症（包括肺炎和播散性感染）的免疫功能低下患者，尿液抗原检测可用于辅助诊断球孢子菌病。
+血清嗜酸性粒细胞增多可能是识别球孢子菌病的重要线索。
+一旦真菌在实验室中生长，DNA探针即可快速识别它。采用聚合酶链反应(PCR)技术检测下呼吸道样本中的DNA可提供快速诊断。然而，这种检测并不是很普及。
+
+【诊断参考】
+1.Galgiani JN, Ampel NM, Blair JE, et al.2016 Infectious Diseases Society of America (IDSA) Clinical Practice Guideline for the Treatment of Coccidioidomycosis.Clin Infect Dis.2016;63(6):e112-e146.doi:10.1093/cid/ciw360
+1.Galgiani JN, Ampel NM, Blair JE, et al.2016 Infectious Diseases Society of America (IDSA) Clinical Practice Guideline for the Treatment of Coccidioidomycosis.Clin Infect Dis.2016;63(6):e112-e146.doi:10.1093/cid/ciw360
+2.Miller JM, Binnicker MJ, Campbell S, et al.Guide to Utilization of the Microbiology Laboratory for Diagnosis of Infectious Diseases: 2024 Update by the Infectious Diseases Society of America (IDSA) and the American Society for Microbiology (ASM).Clin Infect Dis.Published online March 5, 2024.doi:10.1093/cid/ciae104
+2.Miller JM, Binnicker MJ, Campbell S, et al.Guide to Utilization of the Microbiology Laboratory for Diagnosis of Infectious Diseases: 2024 Update by the Infectious Diseases Society of America (IDSA) and the American Society for Microbiology (ASM).Clin Infect Dis.Published online March 5, 2024.doi:10.1093/cid/ciae104
+
+【球孢子菌病的治疗】
+轻中度疾病使用氟康唑或伊曲康唑治疗
+轻中度疾病使用氟康唑或伊曲康唑治疗
+重症病使用两性霉素B治疗
+重症病使用两性霉素B治疗
+很少需要手术
+很少需要手术
+（参见抗真菌药物。）
+原发性球孢子菌病患者具有出现重症或进展性疾病的危险因素时需要治疗。
+大多数初始轻度肺部感染的免疫功能正常的患者不需要抗真菌治疗，特别是如果无症状，但如果症状延长或严重，可考虑口服氟康唑3至6个月(1)。接受抗真菌治疗的患者，其症状缓解速度可能快于未接受治疗者。然而，氟康唑可能削弱机体免疫反应，且原发感染时经血行播散的风险未必高到需要常规使用该药；在启动治疗前应综合考虑这两方面因素。高补体结合滴度提示播散性感染而需要治疗。
+轻至中度非脑膜肺外受累应使用氟康唑或伊曲康唑治疗。伏立康唑或泊沙康唑缓释片是替代品，但尚未得到充分研究。
+对于皮肤、软组织或骨受累的患者，治疗通常延长1至2年。所有出现骨和/或关节感染的患者均应接受三唑类抗真菌药物治疗。伊曲康唑可能比氟康唑更有效，但它需要监测治疗水平，并且伴有稍高的不良事件和药物相互作用风险(2)。
+对于重症疾病，两性霉素 B 的脂质制剂优于常规两性霉素 B。患者在病情稳定后通常可转换为口服三唑类药物，一般在数周内完成转换。
+患有球孢子菌病的免疫功能低下患者需要维持治疗以防止复发；口服氟康唑或口服伊曲康唑通常是足够的，并持续给药直到在接受高效抗逆转录病毒疗法(HAART)时CD4细胞计数变为>250细胞/mcL。
+对于怀孕患者，在妊娠早期应避免使用三唑类抗真菌药物，因为存在致畸风险。在妊娠头三个月患有轻度至中度疾病的女性通常不需要治疗。对于妊娠早期患有严重或肺外疾病的患者，推荐使用两性霉素B治疗。妊娠第一孕期后，可考虑使用三唑类抗真菌药物。在妊娠中期或晚期，或产后 6 周内获得感染的患者，疾病进展风险增加。若未接受治疗，应通过定期监测补体结合抗体滴度进行临床随访。
+对于球孢子菌脑膜炎，使用氟康唑进行治疗。最佳剂量尚不明确；每日一次的大剂量口服给药可能更为有效。患者应终生继续接受唑类维持治疗，因为复发很常见并且可能致命。
+骨髓炎时可能需要切除受波及的骨。
+当残余的肺部空洞性病变导致咯血或可能破裂时，手术可能是必要的。
+
+【治疗参考文献】
+1.Galgiani JN, Ampel NM, Blair JE, et al.2016 Infectious Diseases Society of America (IDSA) Clinical Practice Guideline for the Treatment of Coccidioidomycosis.Clin Infect Dis.2016;63(6):e112-e146.doi:10.1093/cid/ciw360
+1.Galgiani JN, Ampel NM, Blair JE, et al.2016 Infectious Diseases Society of America (IDSA) Clinical Practice Guideline for the Treatment of Coccidioidomycosis.Clin Infect Dis.2016;63(6):e112-e146.doi:10.1093/cid/ciw360
+2.Galgiani JN, Catanzaro A, Cloud GA, et al.Comparison of oralfluconazoleanditraconazolefor progressive, nonmeningeal coccidioidomycosis.A randomized, double-blind trial.Mycoses Study Group.Ann Intern Med.2000;133(9):676–686.doi:10.7326/0003-4819-133-9-200011070-00009
+2.Galgiani JN, Catanzaro A, Cloud GA, et al.Comparison of oralfluconazoleanditraconazolefor progressive, nonmeningeal coccidioidomycosis.A randomized, double-blind trial.Mycoses Study Group.Ann Intern Med.2000;133(9):676–686.doi:10.7326/0003-4819-133-9-200011070-00009
+球孢子菌病是地方性流行地区常见的真菌感染，经吸入含孢子的尘土而获得。
+球孢子菌病是地方性流行地区常见的真菌感染，经吸入含孢子的尘土而获得。
+本病主要流行在美国西南部地区和墨西哥北部，也可出现在中南美洲。
+本病主要流行在美国西南部地区和墨西哥北部，也可出现在中南美洲。
+大多数患者表现为无症状或轻度肺部感染，但免疫功能低下或存在其他危险因素者可能发展为严重、进行性肺部疾病或播散性感染（通常累及皮肤软组织、骨骼或脑膜）。
+大多数患者表现为无症状或轻度肺部感染，但免疫功能低下或存在其他危险因素者可能发展为严重、进行性肺部疾病或播散性感染（通常累及皮肤软组织、骨骼或脑膜）。
+诊断基于真菌培养、涂片染色和/或血清学检测。
+诊断基于真菌培养、涂片染色和/或血清学检测。
+轻中度疾病患者使用氟康唑或伊曲康唑治疗。
+轻中度疾病患者使用氟康唑或伊曲康唑治疗。
+对于重症疾病，使用两性霉素B脂质制剂。
+对于重症疾病，使用两性霉素B脂质制剂。

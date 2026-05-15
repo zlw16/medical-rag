@@ -1,0 +1,50 @@
+标题：谵妄与痴呆的概述
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/delirium-and-dementia/overview-of-delirium-and-dementia
+============================================================
+
+尽管情感障碍如抑郁也可以扰乱认知，但谵妄（有时称为急性精神错乱）与痴呆是导致认知功能受损的最常见原因。谵妄和痴呆是不同的认知障碍，但可能难以区分。将老年患者的谵妄误认为痴呆是一个常见的临床错误。
+以下特征有助于鉴别（见表格谵妄与痴呆区别）：
+谵妄主要影响注意力和意识，通常由急性疾病或药物中毒（药物或娱乐性药物）引起，并且通常是可逆的。
+谵妄主要影响注意力和意识，通常由急性疾病或药物中毒（药物或娱乐性药物）引起，并且通常是可逆的。
+痴呆主要影响记忆及其他认知功能，通常由脑部解剖学变化引起，起病较慢，且通常不可逆。
+痴呆主要影响记忆及其他认知功能，通常由脑部解剖学变化引起，起病较慢，且通常不可逆。
+在大多数情况下，仅凭实验室检测本身无法确切确定认知障碍的原因；详尽的病史和体格检查以及对基线功能的了解至关重要。
+
+【谵妄和痴呆的区别*】
+谵妄和痴呆的区别*
+突然起病，起病时间明确
+缓慢、逐渐起病，起病时间不明确
+持续时间
+以天或周计，或者更长
+通常持续发展
+多数以其他发病条件为基础（如：感染、脱水、特定药物的使用或撤药）
+通常为慢性大脑功能障碍（如Alzheimer病，路易斯小体痴呆，血管性痴呆等）
+通常可逆
+慢性进展
+夜晚病情
+总是较差
+经常较差
+严重受损
+当病情较严重时才受损
+意识水平
+受损不同
+当病情较严重时才受损
+时间、地点定向
+语言能力
+缓慢、不连贯、使用不当
+有时找词困难
+丧失，尤其近期记忆
+医疗需要
+需要治疗，而非急迫
+治疗效果
+通常可以逆转症状
+可能减慢病情进展，但无法逆转或治愈疾病
+*总体而言以上区别正确而有助于诊断，但例外也不少见。例如，突发的脑外伤可以导致永久的重度痴呆；甲状腺功能减退可能导致慢性进展性的痴呆，但治疗后仍能痊愈。
+*总体而言以上区别正确而有助于诊断，但例外也不少见。例如，突发的脑外伤可以导致永久的重度痴呆；甲状腺功能减退可能导致慢性进展性的痴呆，但治疗后仍能痊愈。
+尽管谵妄和痴呆被认为是不同的疾病，但它们之间有着复杂的相互关系 (1)。痴呆患者常伴发谵妄，这被称为痴呆叠加谵妄（DSD）。高达 49% 的痴呆患者在住院期间会出现 DSD (2)。此外，谵妄患者患痴呆症的风险较高。
+
+【参考文献】
+1.Fong TG, Inouye SK:The inter-relationship between delirium and dementia: The importance of delirium prevention.Nat Rev Neurol18 (10):579–596, 2022.doi: 10.1038/s41582-022-00698-7
+1.Fong TG, Inouye SK:The inter-relationship between delirium and dementia: The importance of delirium prevention.Nat Rev Neurol18 (10):579–596, 2022.doi: 10.1038/s41582-022-00698-7
+2.Han QYC, Rodrigues NG, Klainin-Yobas P, Haugan G, Wu XV: Prevalence, Risk Factors, and Impact of Delirium on Hospitalized Older Adults With Dementia: A Systematic Review and Meta-Analysis.J Am Med Dir Assoc23(1):23–32.e27, 2022.doi:10.1016/j.jamda.2021.09.008
+2.Han QYC, Rodrigues NG, Klainin-Yobas P, Haugan G, Wu XV: Prevalence, Risk Factors, and Impact of Delirium on Hospitalized Older Adults With Dementia: A Systematic Review and Meta-Analysis.J Am Med Dir Assoc23(1):23–32.e27, 2022.doi:10.1016/j.jamda.2021.09.008

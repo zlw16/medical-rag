@@ -1,0 +1,241 @@
+标题：糖尿病的长期并发症
+来源：https://www.msdmanuals.cn/professional/endocrine-and-metabolic-disorders/diabetes-mellitus-and-hypoglycemia/long-term-complications-of-diabetes-mellitus
+============================================================
+
+糖尿病患者长期血糖控制不佳可导致多种病变，主要是血管并发症，累及小血管（微血管）及（或）大血管（大血管）。
+血管疾病发病的机制包括 (1)：
+糖基化的血清和组织蛋白与晚期糖基化终产物形成
+糖基化的血清和组织蛋白与晚期糖基化终产物形成
+超氧化物产生
+超氧化物产生
+激活的蛋白激酶C----作为信号分子增加血管通透性并导致内皮功能障碍
+激活的蛋白激酶C----作为信号分子增加血管通透性并导致内皮功能障碍
+加速己糖胺生物合成和多元醇途径，导致山梨醇在组织内累积
+加速己糖胺生物合成和多元醇途径，导致山梨醇在组织内累积
+糖尿病通常伴随着高血压和血脂异常
+糖尿病通常伴随着高血压和血脂异常
+动脉微血栓形成
+动脉微血栓形成
+高血糖和高胰岛素血症的促炎和促血栓效应损害血管的自动调节
+高血糖和高胰岛素血症的促炎和促血栓效应损害血管的自动调节
+微血管病变是形成以下3种糖尿病最常见、危害最大的临床表现的基础：
+视网膜病
+视网膜病
+糖尿病肾病
+糖尿病肾病
+神经病变
+神经病变
+微血管病变也可以明显减慢皮肤伤口的愈合，因此即使伤口很小，也可能发展成为深溃疡并且容易感染。采用强化治疗来控制血糖可以预防或延后很多上述的并发症，但并不能逆转已经存在的病变。
+大血管病变涉及到大血管的动脉粥样硬化，它可导致
+心绞痛和心肌梗死
+心绞痛和心肌梗死
+短暂性脑缺血发作和中风
+短暂性脑缺血发作和中风
+外周动脉疾病
+外周动脉疾病
+免疫功能受损是另外一个主要并发症，因高血糖可直接影响机体的细胞免疫。糖尿病患者特别容易受到细菌和真菌感染。
+
+【参考文献】
+1.Paul S, Ali A, Katare R.Molecular complexities underlying the vascular complications of diabetes mellitus - A comprehensive review.J Diabetes Complications.2020;34(8):107613.doi:10.1016/j.jdiacomp.2020.107613
+1.Paul S, Ali A, Katare R.Molecular complexities underlying the vascular complications of diabetes mellitus - A comprehensive review.J Diabetes Complications.2020;34(8):107613.doi:10.1016/j.jdiacomp.2020.107613
+
+【长期并发症监测】
+微血管并发症的初筛时间因糖尿病类型和患者年龄而异，而大多数大血管并发症的筛查则从诊断时即开始。（参见1型糖尿病-并发症和2型糖尿病-并发症。）一旦筛查工作开始，针对并发症的常规监测内容包括（1、2、3）：
+视网膜病变:每1至2年进行一次散瞳全面眼科检查
+视网膜病变:每1至2年进行一次散瞳全面眼科检查
+肾病:每年检测尿白蛋白肌酐比值和估算肾小球滤过率(eGFR)
+肾病:每年检测尿白蛋白肌酐比值和估算肾小球滤过率(eGFR)
+高血压：每次就诊时都进行血压测量
+高血压：每次就诊时都进行血压测量
+神经病变和足部溃疡：每年进行足部检查（包括脉搏、反射、温度或针刺觉、振动觉和单丝测试）
+神经病变和足部溃疡：每年进行足部检查（包括脉搏、反射、温度或针刺觉、振动觉和单丝测试）
+动脉粥样硬化性心血管疾病：每年进行血脂谱检查；根据体征、症状及其他危险因素决定是否进行额外筛查。
+动脉粥样硬化性心血管疾病：每年进行血脂谱检查；根据体征、症状及其他危险因素决定是否进行额外筛查。
+所有男性患者均应被询问是否存在勃起功能障碍；在糖尿病患者中，该问题多由微血管、大血管和/或神经源性病变所致。
+2型糖尿病患者的初步评估还应包括适当筛查外周动脉疾病、代谢相关脂肪性肝病及脂肪性肝炎、以及心力衰竭。肝脏疾病筛查每 1～2 年进行一次，可结合基于血液检测的 FIB-4 肝纤维化风险评估工具（4）。
+许多人认为基线心电图对预测心脏病风险有重要意义。
+
+【监测并发症的相关信息】
+1.American Diabetes Association Professional Practice Committee.10.Cardiovascular Disease and Risk Management: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S207-S238.doi:10.2337/dc25-S010
+1.American Diabetes Association Professional Practice Committee.10.Cardiovascular Disease and Risk Management: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S207-S238.doi:10.2337/dc25-S010
+2.American Diabetes Association Professional Practice Committee.11.Chronic Kidney Disease and Risk Management: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S239-S251.doi:10.2337/dc25-S011
+2.American Diabetes Association Professional Practice Committee.11.Chronic Kidney Disease and Risk Management: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S239-S251.doi:10.2337/dc25-S011
+3.American Diabetes Association Professional Practice Committee.12.Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S252-S265.doi:10.2337/dc25-S012
+3.American Diabetes Association Professional Practice Committee.12.Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S252-S265.doi:10.2337/dc25-S012
+4.American Diabetes Association Professional Practice Committee.4.Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S59-S85.doi:10.2337/dc25-S004
+4.American Diabetes Association Professional Practice Committee.4.Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S59-S85.doi:10.2337/dc25-S004
+
+【糖尿病视网膜病变】
+糖尿病性视网膜病变是美国成年人失明的常见原因 (1)。其特征早期为视网膜毛细血管微动脉瘤（背景性视网膜病变）形成，后来以新生血管（增殖性视网膜病变）和黄斑水肿为特征。无早期症状，但最终可发展为病灶模糊、玻璃体或视网膜脱离、部分或全部视力丧失;进展的速度是高度可变的。
+筛查和诊断由眼科医生进行视网膜检查，1型和2型糖尿病患者应定期（通常每年）进行视网膜检查 (1)。早期发现和早期治疗是预防失明的关键。
+所有患者的治疗包括强化血糖与血压的控制。血管内皮生长因子（VEGF）抑制剂（如阿柏西普、贝伐珠单抗、雷珠单抗、布罗珠单抗、法瑞西单抗）以及必要时局灶性激光光凝治疗可用于黄斑水肿，亦可用于增殖性视网膜病变。泛视网膜激光光凝用于增殖性糖尿病视网膜病变，有时用于严重的非增殖性糖尿病性视网膜病变。
+
+【糖尿病性视网膜病变参考资料】
+1.American Diabetes Association Professional Practice Committee.12.Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S252-S265.doi:10.2337/dc25-S012
+1.American Diabetes Association Professional Practice Committee.12.Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S252-S265.doi:10.2337/dc25-S012
+
+【糖尿病肾病】
+糖尿病肾病是慢性肾脏病的一种形式，发生于 20% 至 40% 的成年糖尿病患者（1）。其主要特征是肾小球基底膜增厚，肾小球系膜增生及肾小球硬化。 这些变化导致肾小球高血压和肾小球滤过率逐渐下降。 全身性高血压可加速病程的进展。该病通常无症状，直至发生肾病综合征或肾衰。
+诊断是通过检测尿白蛋白或 GFR 下降。启动筛查后，应每年监测尿白蛋白水平，以便早期发现肾病（1）。可以通过测量点尿标本的白蛋白：肌酐比值或24小时尿液总白蛋白来进行监测。若尿白蛋白肌酐比值≥30 mg/g (≥3.4 mg/mmol) ，或尿白蛋白含量为30～299 mg/24h提示中度升高的蛋白尿（以前称为微量白蛋白尿）和早期糖尿病肾病。白蛋白排泄≥300mg/天，被认为是严重增加的蛋白尿（以前称为巨蛋白尿）或明显的蛋白尿，意味着更严重的糖尿病肾病。 通常，只有当蛋白质排泄超过300~500mg/天时，尿液试纸才是阳性的。当GFR < 60 mL/min/1.73 m2时被认为异常。
+治疗方法为严格控制血糖和血压。
+血管紧张素转换酶（ACE）抑制剂或血管紧张素II受体阻滞剂（ARB）应在蛋白尿（白蛋白与肌酐之比≥30 mg/g [ ≥ 3.4 mg/mmol]）的早期征兆时使用，并在高血压患者中使用，以防止肾脏疾病的进展，因为这些药物降低肾小球内血压，从而具有肾保护作用（1）。但这些药物都没有一级预防（即在没有白蛋白尿或高血压的患者中使用）可以获益的证据 (2,3,4)。
+钠-葡萄糖协同转运蛋白 2 (SGLT-2) 抑制剂还可延缓肾脏疾病的进展并降低心血管风险，应在估计肾小球滤过率 (eGFR)≥20 毫升/分钟且尿白蛋白:肌酐比值 ≥ 200 毫克/克 (1) 的糖尿病肾病患者中使用。胰高血糖素样肽-1（GLP-1）受体激动剂亦已证实具有肾脏保护作用，当 SGLT-2 抑制剂存在禁忌证时，或在糖尿病肾病患者中需要进一步改善血糖控制及获得心血管获益时，可考虑使用该类药物（5）。
+氟瑞那酮是一种非甾体类盐皮质激素受体拮抗剂，已被证实能够降低糖尿病肾病的病情进展风险以及心血管事件的发生几率。它既可以与血管紧张素转换酶抑制剂或血管紧张素受体阻滞剂联合使用，也可以替代这些药物，尤其适用于心血管疾病风险较高的患者（5，6）。
+
+【糖尿病肾病参考文献】
+1.American Diabetes Association Professional Practice Committee.11.Chronic Kidney Disease and Risk Management: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S239-S251.doi:10.2337/dc25-S011
+1.American Diabetes Association Professional Practice Committee.11.Chronic Kidney Disease and Risk Management: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S239-S251.doi:10.2337/dc25-S011
+2.Bilous R, Chaturvedi N, Sjølie AK, et al.Effect ofcandesartanon microalbuminuria andalbuminexcretion rate in diabetes: three randomized trials.Ann Intern Med.2009;151(1):11-W4.doi:10.7326/0003-4819-151-1-200907070-00120
+2.Bilous R, Chaturvedi N, Sjølie AK, et al.Effect ofcandesartanon microalbuminuria andalbuminexcretion rate in diabetes: three randomized trials.Ann Intern Med.2009;151(1):11-W4.doi:10.7326/0003-4819-151-1-200907070-00120
+3.Randomised placebo-controlled trialoflisinoprilin normotensive patients withinsulin-dependent diabetes and normoalbuminuria or microalbuminuria.The EUCLID Study Group.Lancet.1997;349(9068):1787-1792.
+3.Randomised placebo-controlled trialoflisinoprilin normotensive patients withinsulin-dependent diabetes and normoalbuminuria or microalbuminuria.The EUCLID Study Group.Lancet.1997;349(9068):1787-1792.
+4.Mauer M, Zinman B, Gardiner R, et al.Renal and retinal effects ofenalaprilandlosartanin type 1 diabetes.N Engl J Med.2009;361(1):40-51.doi:10.1056/NEJMoa0808400
+4.Mauer M, Zinman B, Gardiner R, et al.Renal and retinal effects ofenalaprilandlosartanin type 1 diabetes.N Engl J Med.2009;361(1):40-51.doi:10.1056/NEJMoa0808400
+5.Agarwal A, Mustafa R, Manja V, et al.Cardiovascular, kidney related, and weight loss effects of therapeutics for type 2 diabetes: a living clinical practice guideline.BMJ.2025;390:e082071.doi:10.1136/bmj-2024-082071
+5.Agarwal A, Mustafa R, Manja V, et al.Cardiovascular, kidney related, and weight loss effects of therapeutics for type 2 diabetes: a living clinical practice guideline.BMJ.2025;390:e082071.doi:10.1136/bmj-2024-082071
+6.Veneti S, Tziomalos K.The Role ofFinerenonein the Management of Diabetic Nephropathy.Diabetes Ther.2021;12(7):1791-1797.doi:10.1007/s13300-021-01085-z
+6.Veneti S, Tziomalos K.The Role ofFinerenonein the Management of Diabetic Nephropathy.Diabetes Ther.2021;12(7):1791-1797.doi:10.1007/s13300-021-01085-z
+
+【糖尿病神经病变】
+糖尿病神经病变是微血管病变所致的神经缺血，高血糖对神经元的直接作用，及细胞内代谢异常损害神经功能的结果。该病变有多种类型，包括：
+对称性多发性神经病变（可累及大、小神经纤维）
+对称性多发性神经病变（可累及大、小神经纤维）
+自主神经病变
+自主神经病变
+神经根病变
+神经根病变
+脑神经病变
+脑神经病变
+单神经病变
+单神经病变
+对称性多发性神经病变最为常见，主要影响手足远端（呈手套、袜子样分布）；表现为感觉异常，感觉迟钝，触觉、振动觉、本体感觉或温度觉的丧失。在下肢，这些症状可导致足部对不合脚的鞋和不适当的承重所造成的创伤感觉迟钝，从而引发足部溃疡和感染，或导致骨折、半脱位、脱位或正常足部结构的破坏（Charcot关节病）。小纤维神经病变的特征为疼痛、麻木及温度觉消失，而振动觉和本体感觉正常。患者容易出现足部溃疡和神经性关节退化，自主神经病变的发病率较高。 大纤维神经病的主要特征是肌无力、振动觉和位置觉缺失、深层肌腱反射缺如。可发生足内肌萎缩和足下垂。
+自主神经病变可引起直立性低血压、运动不耐受、静息性心动过速、吞咽困难、恶心和呕吐(由于胃瘫)、便秘和/或腹泻(包括倾倒综合征)、大便失禁、尿潴留和/或尿失禁、勃起功能障碍和逆行射精以及阴道润滑度降低。
+神经根病变最常累及近端腰（L2~L4）神经根，引起下肢疼痛、无力和萎缩（糖尿病性肌萎缩），或近端胸（T4~T12）神经根，引起腹痛（胸廓多神经根病变）。
+脑神经病变累及第3对时可出现复视，上睑下垂，和瞳孔不等，若累及第4或第6对脑神经，则出现运动麻痹。
+单神经病变可导致手指无力与麻木（正中神经），或足下垂（腓神经）。糖尿病患者也易出现神经压迫症状，如腕管综合征。单神经病变可同时出现在多个部位（多发性神经炎）。上述症状主要发生于老年人，数月后可自然缓解。
+对称性多发性神经病变可通过检测到感觉缺失和踝反射减退来诊断。 单纤维尼龙丝轻触觉检查提示轻触觉消失的患者发生足部溃疡的风险最大（见图糖尿病足的筛查）。此外，可将一个128赫兹音叉置于第一足趾的背侧，以此评估振动觉。
+肌电图和神经传导速度检查适用于所有类型的神经病变，有时也用于排除其他原因造成的神经症状，例如非糖尿病引起的神经根病变和腕管综合征。
+神经病变的治疗涉及多个方面，包括控制血糖、定期足部护理以及疼痛管理。严格的血糖控制可减轻神经病变。缓解症状的治疗方法有局部应用辣椒膏，服用三环类抗抑郁药（如丙咪嗪）、5-羟色胺-去甲肾上腺素药物（如度洛西汀）、抗惊厥药（如普加巴林、加巴喷丁）。感觉消失的患者应该每天检查足部，以便及时发现足部的微小损伤，防止其发展成为危害肢体的感染 (1)。
+
+【糖尿病足筛查】
+糖尿病足并发症（包括皮肤病变、溃疡、感染、坏疽）较为常见，不仅可归因于微血管神经病变，亦与大血管外周动脉疾病及相对免疫抑制有关。这些并发症最终可能会导致下肢截肢。
+糖尿病患者往往会出现微血管病变，减慢皮肤伤口的愈合，因此即使皮肤完整的微小损伤，也可能发展成为深溃疡并且容易感染，特别是在下肢。
+© Springer Science+Business Media
+患者应至少每年进行一次足部检查，以发现是否有压力觉、振动觉、痛觉或温度觉减退等外周神经病变的特征性表现。检测压力觉最好的方法是使用单丝触觉测量器（见图糖尿病足的筛查）(1)。应检查整个足部，特别是跖骨头下的皮肤，是否有皮肤开裂和缺血或感染的迹象，如溃疡、坏疽、真菌指甲感染、死脉和脱发。
+
+【糖尿病足筛查】
+糖尿病足筛查
+用10～g单丝触觉测量器触碰双足的特定部位，稍用力直至纤维弯曲。该方法可提供恒定的、可重复的轻触觉刺激，（通常为10 g压力）用以监测触觉的变化。记录双足的测定结果，有感觉为（+），无感觉为（−）。
+
+【糖尿病神经病变参考文献】
+1.American Diabetes Association Professional Practice Committee.12.Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S252-S265.doi:10.2337/dc25-S012
+1.American Diabetes Association Professional Practice Committee.12.Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S252-S265.doi:10.2337/dc25-S012
+
+【大血管病变】
+大血管动脉粥样硬化是糖尿病特征性的高胰岛素血症、血脂异常和高血糖症的结果。表现为:
+心绞痛和心肌梗死
+心绞痛和心肌梗死
+短暂性脑缺血发作和中风
+短暂性脑缺血发作和中风
+外周动脉疾病
+外周动脉疾病
+诊断通常通过病史询问和体格检查来进行，或者通过筛查的方式完成。治疗包括严格控制动脉粥样硬化危险因素：强化管理血糖、血脂及血压，结合戒烟，并使用SGLT2抑制剂或GLP-1受体激动剂，以及如适用阿司匹林和他汀类药物（1、2）。对血糖，血压，血脂等多重危险因素进行综合管理可有效地降低心血管事件的发生率。与微血管病变相比，仅强化控制血糖已被证明可降低1型糖尿病的风险，但对2型糖尿病无效（3，4，5）。SGLT2 抑制剂和 GLP-1 受体激动剂可降低主要不良心血管事件的发生风险。
+
+【大血管疾病参考文献】
+1.American Diabetes Association Professional Practice Committee.10.Cardiovascular Disease and Risk Management: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S207-S238.doi:10.2337/dc25-S010
+1.American Diabetes Association Professional Practice Committee.10.Cardiovascular Disease and Risk Management: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S207-S238.doi:10.2337/dc25-S010
+2.Agarwal A, Mustafa R, Manja V, et al.Cardiovascular, kidney related, and weight loss effects of therapeutics for type 2 diabetes: a living clinical practice guideline.BMJ.2025;390:e082071.doi:10.1136/bmj-2024-082071
+2.Agarwal A, Mustafa R, Manja V, et al.Cardiovascular, kidney related, and weight loss effects of therapeutics for type 2 diabetes: a living clinical practice guideline.BMJ.2025;390:e082071.doi:10.1136/bmj-2024-082071
+3.ACCORD Study Group; ACCORD Eye Study Group, Chew EY, et al.Effects of medical therapies on retinopathy progression in type 2 diabetes [published correction appears inN Engl J Med.2011 Jan 13;364(2):190] [published correction appears inN Engl J Med.2012 Dec 20;367(25):2458].N Engl J Med.2010;363(3):233-244.doi:10.1056/NEJMoa1001288
+3.ACCORD Study Group; ACCORD Eye Study Group, Chew EY, et al.Effects of medical therapies on retinopathy progression in type 2 diabetes [published correction appears inN Engl J Med.2011 Jan 13;364(2):190] [published correction appears inN Engl J Med.2012 Dec 20;367(25):2458].N Engl J Med.2010;363(3):233-244.doi:10.1056/NEJMoa1001288
+4.Nathan DM, Cleary PA, Backlund JY, et al.Intensive diabetes treatment and cardiovascular disease in patients with type 1 diabetes.N Engl J Med.2005;353(25):2643-2653.doi:10.1056/NEJMoa052187
+4.Nathan DM, Cleary PA, Backlund JY, et al.Intensive diabetes treatment and cardiovascular disease in patients with type 1 diabetes.N Engl J Med.2005;353(25):2643-2653.doi:10.1056/NEJMoa052187
+5.Zoungas S, Chalmers J, Neal B, et al.Follow-up of blood-pressure lowering and glucose control in type 2 diabetes.N Engl J Med.2014;371(15):1392-1406.doi:10.1056/NEJMoa1407963
+5.Zoungas S, Chalmers J, Neal B, et al.Follow-up of blood-pressure lowering and glucose control in type 2 diabetes.N Engl J Med.2014;371(15):1392-1406.doi:10.1056/NEJMoa1407963
+
+【心力衰竭与心肌病】
+目前认为，糖尿病性心肌病由多种因素引起，包括心外膜粥样硬化，高血压和左心室肥大，微血管病变，血管内皮及其自主功能障碍，肥胖及代谢紊乱等。患者由于左室收缩及舒张功能受损而发生心衰，特别是心肌梗死后更容易发生心衰。
+合并心力衰竭（无论射血分数降低型或保留型）的2型糖尿病患者，均应使用 SGLT2 抑制剂治疗。对于伴有症状性射血分数保留型心力衰竭且合并肥胖的患者，也可使用 GLP-1 受体激动剂（1）。
+
+【心力衰竭和心肌病参考文献】
+1.American Diabetes Association Professional Practice Committee.9.Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S181-S206.doi:10.2337/dc25-S009
+1.American Diabetes Association Professional Practice Committee.9.Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S181-S206.doi:10.2337/dc25-S009
+由于高血糖对粒细胞和T细胞功能的不良影响，糖尿病控制不佳的患者容易发生细菌和真菌感染。除了感染性疾病风险总体增加外，糖尿病患者对皮肤黏膜真菌感染（如口腔和阴道念珠菌病）和细菌性足部感染（包括骨髓炎）的易感性增加，这些感染通常因下肢血管功能不全和糖尿病性神经病变而加剧。 高血糖是手术部位感染的明确危险因素。
+糖尿病患者患严重疾病或死亡的风险较高SARS-CoV-2（新冠肺炎）感染；1 型糖尿病或 2 型糖尿病是新冠肺炎相关死亡的独立危险因素（1）。在感染 COVID-19 的糖尿病患者中，较高的血糖水平与较差的预后相关，包括较高的死亡率。多项研究报告称，与 COVID-19 相关的新发 1 型糖尿病风险增加（2）；然而，其他研究表明，这种影响可能是由于大流行封锁导致诊断延误。
+
+【感染参考文献】
+1.Hartmann-Boyce J, Rees K, Perring JC, et al.Risks of and From SARS-CoV-2 Infection and COVID-19 in People With Diabetes: A Systematic Review of Reviews [published correction appears inDiabetes Care.2022 Jun 2;45(6):1489].Diabetes Care.2021;44(12):2790-2811.doi:10.2337/dc21-0930
+1.Hartmann-Boyce J, Rees K, Perring JC, et al.Risks of and From SARS-CoV-2 Infection and COVID-19 in People With Diabetes: A Systematic Review of Reviews [published correction appears inDiabetes Care.2022 Jun 2;45(6):1489].Diabetes Care.2021;44(12):2790-2811.doi:10.2337/dc21-0930
+2.D'Souza D, Empringham J, Pechlivanoglou P, Uleryk EM, Cohen E, Shulman R.Incidence of Diabetes in Children and Adolescents During the COVID-19 Pandemic: A Systematic Review and Meta-Analysis.JAMA Netw Open.2023;6(6):e2321281.doi:10.1001/jamanetworkopen.2023.21281
+2.D'Souza D, Empringham J, Pechlivanoglou P, Uleryk EM, Cohen E, Shulman R.Incidence of Diabetes in Children and Adolescents During the COVID-19 Pandemic: A Systematic Review and Meta-Analysis.JAMA Netw Open.2023;6(6):e2321281.doi:10.1001/jamanetworkopen.2023.21281
+
+【代谢功能障碍相关的脂肪性肝病 (MASLD)】
+代谢功能障碍相关脂肪性肝病（MASLD，原名非酒精性脂肪性肝病[NAFLD]）是2型糖尿病的重要共病。一些研究发现，超过一半的2型糖尿病患者患有MASLD(1)。MASLD也可以发生于没有糖尿病的代谢综合征,肥胖,血脂异常的患者。
+诊断MASLD需要肝脏脂肪变性的影像学或组织学证据，缺乏脂肪堆积的其他原因(如酒精消耗或导致脂肪堆积的药物)。 (2)。当肝脂肪变性≥5％时发生MASLD，但没有肝细胞损伤的证据。相比之下，代谢功能障碍相关的脂肪性肝炎（MASH），以前的非酒精性脂肪性肝炎（NASH），需要肝脂肪变性（≥5%）和肝细胞损伤引起的炎症。在MASH中也可出现纤维化，并可导致肝硬化。MASLD的发病机理尚不清楚，但显然与胰岛素抵抗相关，导致肝脏中甘油三酯积累。
+2 型糖尿病患者可以通过年龄、转氨酶水平和血小板计数计算肝纤维化的纤维化 4 指数（FIB-4 指数）来筛查纤维化。如果 FIB-4 评分显示纤维化风险不确定或jiao高，则可以使用瞬时弹性成像或纤维化血液标记物进行进一步测试以寻找纤维化。
+治疗的主要方法是饮食、运动和减肥。 若经活检证实为代谢相关脂肪性肝炎（MASH），或基于无创检查提示存在较高肝纤维化风险，已有证据表明吡格列酮及 GLP-1 受体激动剂，或双重 GIP/GLP-1 受体激动剂对 MASH 具有获益，因此上述药物在血糖管理中应优先选用，并可考虑联合治疗（3,4）。此外，对于 2 型糖尿病或糖尿病前期成人，如肝组织学检查或经验证的影像学或血液学检测提示存在中度（F2）或进展期（F3）肝纤维化，应考虑使用甲状腺激素受体β激动剂进行治疗。伴有F2或更高级别纤维化的MASH/MASLD患者还应转诊至有MASLD经验的消化科或肝病科医生。对于患有糖尿病且有 MASH 证据的患者，使用吡格列酮和/或 GLP-1 受体激动剂或双重 GIP/GLP-1 受体激动剂已被证明能够减缓纤维化的进展（5,6,7,8）。已知能够帮助糖尿病患者减轻体重的其他药物（例如，钠-葡萄糖协同转运蛋白 2 抑制剂）也可以使用。
+
+【代谢功能障碍相关的脂肪性肝病参考文献】
+1.Lee YH, Cho Y, Lee BW, et al.Nonalcoholic Fatty Liver Disease in Diabetes.Part I: Epidemiology and Diagnosis [published correction appears inDiabetes Metab J2019 Oct;43(5):731].Diabetes Metab J.2019;43(1):31-45.doi:10.4093/dmj.2019.0011
+1.Lee YH, Cho Y, Lee BW, et al.Nonalcoholic Fatty Liver Disease in Diabetes.Part I: Epidemiology and Diagnosis [published correction appears inDiabetes Metab J2019 Oct;43(5):731].Diabetes Metab J.2019;43(1):31-45.doi:10.4093/dmj.2019.0011
+2.Cusi K, Isaacs S, Barb D, et al.American Association of Clinical Endocrinology Clinical Practice Guideline for the Diagnosis and Management of Nonalcoholic Fatty Liver Disease in Primary Care and Endocrinology Clinical Settings: Co-Sponsored by the American Association for the Study of Liver Diseases (AASLD).Endocr Pract.2022;28(5):528-562.doi:10.1016/j.eprac.2022.03.010
+2.Cusi K, Isaacs S, Barb D, et al.American Association of Clinical Endocrinology Clinical Practice Guideline for the Diagnosis and Management of Nonalcoholic Fatty Liver Disease in Primary Care and Endocrinology Clinical Settings: Co-Sponsored by the American Association for the Study of Liver Diseases (AASLD).Endocr Pract.2022;28(5):528-562.doi:10.1016/j.eprac.2022.03.010
+3.American Diabetes Association Professional Practice Committee.9.Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S181-S206.doi:10.2337/dc25-S009
+3.American Diabetes Association Professional Practice Committee.9.Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes-2025.Diabetes Care.2025;48(1 Suppl 1):S181-S206.doi:10.2337/dc25-S009
+4.Patel Chavez C, Cusi K, Kadiyala S.The Emerging Role ofGlucagon-like Peptide-1 Receptor Agonists for the Management of NAFLD.J Clin Endocrinol Metab.2022;107(1):29-38.doi:10.1210/clinem/dgab578
+4.Patel Chavez C, Cusi K, Kadiyala S.The Emerging Role ofGlucagon-like Peptide-1 Receptor Agonists for the Management of NAFLD.J Clin Endocrinol Metab.2022;107(1):29-38.doi:10.1210/clinem/dgab578
+5.Armstrong MJ, Gaunt P, Aithal GP, et al.Liraglutidesafety and efficacy in patients with non-alcoholic steatohepatitis (LEAN): a multicentre, double-blind, randomised, placebo-controlled phase 2 study.Lancet.2016;387(10019):679-690.doi:10.1016/S0140-6736(15)00803-X
+5.Armstrong MJ, Gaunt P, Aithal GP, et al.Liraglutidesafety and efficacy in patients with non-alcoholic steatohepatitis (LEAN): a multicentre, double-blind, randomised, placebo-controlled phase 2 study.Lancet.2016;387(10019):679-690.doi:10.1016/S0140-6736(15)00803-X
+6.Belfort R, Harrison SA, Brown K, et al.A placebo-controlled trial ofpioglitazonein subjects with nonalcoholic steatohepatitis.N Engl J Med.2006;355(22):2297-2307.doi:10.1056/NEJMoa060326
+6.Belfort R, Harrison SA, Brown K, et al.A placebo-controlled trial ofpioglitazonein subjects with nonalcoholic steatohepatitis.N Engl J Med.2006;355(22):2297-2307.doi:10.1056/NEJMoa060326
+7.Cusi K, Orsak B, Bril F, et al.Long-TermPioglitazoneTreatment for Patients With Nonalcoholic Steatohepatitis and Prediabetes or Type 2 Diabetes Mellitus: A Randomized Trial.Ann Intern Med.2016;165(5):305-315.doi:10.7326/M15-1774
+7.Cusi K, Orsak B, Bril F, et al.Long-TermPioglitazoneTreatment for Patients With Nonalcoholic Steatohepatitis and Prediabetes or Type 2 Diabetes Mellitus: A Randomized Trial.Ann Intern Med.2016;165(5):305-315.doi:10.7326/M15-1774
+8.Newsome PN, Buchholtz K, Cusi K, et al.A Placebo-Controlled Trial of SubcutaneousSemaglutidein Nonalcoholic Steatohepatitis.N Engl J Med.2021;384(12):1113-1124.doi:10.1056/NEJMoa2028395
+8.Newsome PN, Buchholtz K, Cusi K, et al.A Placebo-Controlled Trial of SubcutaneousSemaglutidein Nonalcoholic Steatohepatitis.N Engl J Med.2021;384(12):1113-1124.doi:10.1056/NEJMoa2028395
+
+【糖尿病的其他并发症】
+肯定肌肉骨骼疾病更常见于糖尿病患者，包括肌肉梗塞，腕管综合症,Dupuytren挛缩，粘连性关节囊炎，和巩膜。
+糖尿病患者也可能出现:
+与糖尿病性视网膜病变无关的眼科疾病（如白内障、青光眼、角膜擦伤视神经病变）
+与糖尿病性视网膜病变无关的眼科疾病（如白内障、青光眼、角膜擦伤视神经病变）
+肝胆疾病（例如，肝硬化,胆结石)
+肝胆疾病（例如，肝硬化,胆结石)
+皮肤病（如癣感染、下肢溃疡、糖尿病性皮肤病、糖尿病脂性渐进性坏死、糖尿病性硬皮病、白癜风、环状肉芽肿、黑棘皮病和皮赘[胰岛素抵抗的一种体征]）。
+皮肤病（如癣感染、下肢溃疡、糖尿病性皮肤病、糖尿病脂性渐进性坏死、糖尿病性硬皮病、白癜风、环状肉芽肿、黑棘皮病和皮赘[胰岛素抵抗的一种体征]）。
+牙周疾病
+牙周疾病
+性功能障碍，包括男性勃起功能障碍
+性功能障碍，包括男性勃起功能障碍
+类脂质渐进性坏死是好发于糖尿病患者，但不能用于诊断糖尿病。病变好发于腿部，开始为红色丘疹，逐渐发展为萎缩性，蜡样光泽、黄色或褐色皮疹。
+类脂质渐进性坏死是好发于糖尿病患者，但不能用于诊断糖尿病。病变好发于腿部，开始为红色丘疹，逐渐发展为萎缩性，蜡样光泽、黄色或褐色皮疹。
+图片由医学博士Thomas Habif提供。
+黑棘皮病是皮肤增厚和色素沉着，最常见于颈部的腋窝和颈背（顶部）；在深色皮肤的人中，皮肤可能有皮革样的外观（底部）。它通常是糖耐量受损的皮肤表现，但也可能反映内部癌症，尤其是在发病迅速且分布广泛的情况下。
+黑棘皮病是皮肤增厚和色素沉着，最常见于颈部的腋窝和颈背（顶部）；在深色皮肤的人中，皮肤可能有皮革样的外观（底部）。它通常是糖耐量受损的皮肤表现，但也可能反映内部癌症，尤其是在发病迅速且分布广泛的情况下。
+照片由医学博士 Thomas Habif 提供。
+这张图片显示了糖尿病患者躯干上呈环状或圆形排列的红斑肿块。
+这张图片显示了糖尿病患者躯干上呈环状或圆形排列的红斑肿块。
+SCIENCE PHOTO LIBRARY
+类脂质渐进性坏死是好发于糖尿病患者，但不能用于诊断糖尿病。病变好发于腿部，开始为红色丘疹，逐渐发展为萎缩性，蜡样光泽、黄色或褐色皮疹。
+类脂质渐进性坏死是好发于糖尿病患者，但不能用于诊断糖尿病。病变好发于腿部，开始为红色丘疹，逐渐发展为萎缩性，蜡样光泽、黄色或褐色皮疹。
+图片由医学博士Thomas Habif提供。
+黑棘皮病是皮肤增厚和色素沉着，最常见于颈部的腋窝和颈背（顶部）；在深色皮肤的人中，皮肤可能有皮革样的外观（底部）。它通常是糖耐量受损的皮肤表现，但也可能反映内部癌症，尤其是在发病迅速且分布广泛的情况下。
+黑棘皮病是皮肤增厚和色素沉着，最常见于颈部的腋窝和颈背（顶部）；在深色皮肤的人中，皮肤可能有皮革样的外观（底部）。它通常是糖耐量受损的皮肤表现，但也可能反映内部癌症，尤其是在发病迅速且分布广泛的情况下。
+照片由医学博士 Thomas Habif 提供。
+这张图片显示了糖尿病患者躯干上呈环状或圆形排列的红斑肿块。
+这张图片显示了糖尿病患者躯干上呈环状或圆形排列的红斑肿块。
+SCIENCE PHOTO LIBRARY
+糖尿病引起的微血管并发症包括肾病（肾病）、视网膜病变以及神经病变。神经病变可导致足部溃疡。
+糖尿病引起的微血管并发症包括肾病（肾病）、视网膜病变以及神经病变。神经病变可导致足部溃疡。
+糖尿病的大血管并发症涉及冠状动脉、脑动脉和外周动脉的动脉粥样硬化。
+糖尿病的大血管并发症涉及冠状动脉、脑动脉和外周动脉的动脉粥样硬化。
+其他重要并发症包括心力衰竭和代谢功能障碍相关脂肪性肝病（主要见于 2 型糖尿病）。
+其他重要并发症包括心力衰竭和代谢功能障碍相关脂肪性肝病（主要见于 2 型糖尿病）。
+基于指南的并发症筛查和治疗是糖尿病护理的关键组成部分。
+基于指南的并发症筛查和治疗是糖尿病护理的关键组成部分。
+
+【更多信息】
+以下英语资源可能会有用。请注意，本手册对这些资源的内容不承担任何责任。
+American Diabetes Association: Standards of Medical Care in DiabetesDiabetes Care.48 (Supplement 1): S1-S336, 2025.
+American Diabetes Association: Standards of Medical Care in DiabetesDiabetes Care.48 (Supplement 1): S1-S336, 2025.
+Endocrine Society: Clinical Practice Guidelines
+Endocrine Society: Clinical Practice Guidelines

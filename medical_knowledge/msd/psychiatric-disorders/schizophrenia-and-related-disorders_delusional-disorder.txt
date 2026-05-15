@@ -1,0 +1,78 @@
+标题：妄想障碍
+来源：https://www.msdmanuals.cn/professional/psychiatric-disorders/schizophrenia-and-related-disorders/delusional-disorder
+============================================================
+
+妄想与错误信念的区别在于，妄想信念在面对明确合理的反证时仍保持不变。当信念内容看似合理时(如配偶不忠)，这种区分有时较为困难。
+妄想症与精神分裂症的区别在于，妄想症仅有妄想症状而无任何其他精神病症状（例如，明显的幻觉、言语或行为混乱、阴性症状），并且除了与妄想相关的功能障碍外，没有任何明显的功能障碍（1）。该障碍的诊断标准还要求妄想不能由其他医学状况或物质引起。妄想可以是
+不怪异的：妄想是可能出现的情况，如被跟踪、被毒害、被感染、为远方的某个人所爱或者是被配偶或爱人欺骗。
+不怪异的：妄想是可能出现的情况，如被跟踪、被毒害、被感染、为远方的某个人所爱或者是被配偶或爱人欺骗。
+怪异的：比如认为被移除了内脏却没有留下任何疤痕。
+怪异的：比如认为被移除了内脏却没有留下任何疤痕。
+与精神分裂症不同，妄想障碍较少见 (2)。起病通常为更年期型，即发生于中老年期。患者的社会功能不像精神分裂症患者那样受损，受损的功能常直接与妄想信念有关。
+当妄想性障碍发生于老年患者时，有时被称为晚发性妄想症。它可以与轻度痴呆并存。临床医生必须谨慎区分妄想和轻度痴呆老年人报告的老年虐待。
+
+【参考文献】
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition Text Revision, DSM-5-TR (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, 2022, pp 105-109.
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition Text Revision, DSM-5-TR (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, 2022, pp 105-109.
+2.Lieberman JA, First MB.. Psychotic Disorders.N Engl J Med.2018;379(3):270-280.doi:10.1056/NEJMra1801490
+2.Lieberman JA, First MB.. Psychotic Disorders.N Engl J Med.2018;379(3):270-280.doi:10.1056/NEJMra1801490
+
+【妄想性精神障碍的症状和表现】
+妄想障碍可以见于偏执性人格障碍者。这类人群对他人及其动机普遍存在的不信任和多疑，始于成年早期，并贯穿一生。
+早期症状有被利用感，担心朋友是否忠诚，是否值得信任，易于从别人善意的评价或美好的事件中感受到威胁的信息，总是心怀怨恨和戒备。
+几种妄想障碍的亚型具有不同的症状：
+钟情型：患者认为他人深爱自己。他会用种种努力去与妄想的客体接触，如打电话、写信、监视、跟踪尾随等。患者常因为这些行为而违法。
+钟情型：患者认为他人深爱自己。他会用种种努力去与妄想的客体接触，如打电话、写信、监视、跟踪尾随等。患者常因为这些行为而违法。
+夸大型患者认为自己有卓越才能或取得了重要发现。
+夸大型患者认为自己有卓越才能或取得了重要发现。
+嫉妒型：患者坚信自己的配偶或性伴侣不忠。这种信念基于由可疑证据支持的错误推论。患者可能存在人身攻击行为。
+嫉妒型：患者坚信自己的配偶或性伴侣不忠。这种信念基于由可疑证据支持的错误推论。患者可能存在人身攻击行为。
+迫害型：患者认为自己正被算计、监视、诽谤或骚扰。可能会反复通过法院或其他政府机构来获得正义，也可能以暴力来报复想象中的迫害。
+迫害型：患者认为自己正被算计、监视、诽谤或骚扰。可能会反复通过法院或其他政府机构来获得正义，也可能以暴力来报复想象中的迫害。
+躯体：患者的妄想与躯体功能有关，如坚信自己身体是畸形的，身体有异味或者寄生虫。
+躯体：患者的妄想与躯体功能有关，如坚信自己身体是畸形的，身体有异味或者寄生虫。
+患者的行为并不怪异或奇特，除了妄想（如社会孤立或病耻感，婚姻或工作困难）可能产生的后果，患者的功能受损不明显。
+
+【妄想障碍的诊断】
+精神评估
+精神评估
+《精神障碍诊断与统计手册》, 第5版，文本修订（DSM-5-TR）标准
+《精神障碍诊断与统计手册》, 第5版，文本修订（DSM-5-TR）标准
+一般医学评估以排除其他病因
+一般医学评估以排除其他病因
+诊断主要是通过临床评估，完整地收集病史，排除其他与妄想有关的特定情况,（如，药物滥用、阿尔兹海默症、癫痫、强迫症、谵妄及其他精神分裂谱系症）。
+妄想障碍本身的诊断需要满足以下条件 (1)：
+存在至少1种妄想持续1个月以上
+存在至少1种妄想持续1个月以上
+从未符合上述精神分裂症的标准
+从未符合上述精神分裂症的标准
+无明显功能损害或明显怪异行为
+无明显功能损害或明显怪异行为
+无显著心境发作(即躁狂或抑郁发作持续时间相对短于妄想期)
+无显著心境发作(即躁狂或抑郁发作持续时间相对短于妄想期)
+排除一般医疗状况、物质使用障碍或其他精神障碍作为干扰的原因
+排除一般医疗状况、物质使用障碍或其他精神障碍作为干扰的原因
+评估患者是否可能对自己或他人构成威胁非常重要，尤其是评估患者愿意在多大程度上按照其妄想行事。
+
+【诊断参考文献】
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition Text Revision, DSM-5-TR (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, 2022, pp 105-109.
+1.American Psychiatric Association.Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition Text Revision, DSM-5-TR (DSM-5-TR).American Psychiatric Association Publishing, Washington, DC, 2022, pp 105-109.
+
+【妄想障碍的治疗】
+建立有效的医患关系。
+建立有效的医患关系。
+并发症管理
+并发症管理
+有时可使用抗精神病药
+有时可使用抗精神病药
+治疗旨在建立有效的医患关系并处理并发症。患者严重缺乏自知力是治疗的挑战。
+如果患者被评估为是危险的，可能需要住院治疗。
+尚无足够数据支持使用任何特定药物，但抗精神病药有时可缓解症状（1）。
+长程治疗的目的是改变患者的关注点，使其从妄想转到更有建设性、更令人满意的领域，虽然困难却很合理。
+
+【治疗参考文献】
+1.Muñoz-Negro JE, Cervilla JA.A Systematic Review on the Pharmacological Treatment of Delusional Disorder.J Clin Psychopharmacol.2016;36(6):684-690.doi:10.1097/JCP.0000000000000595
+1.Muñoz-Negro JE, Cervilla JA.A Systematic Review on the Pharmacological Treatment of Delusional Disorder.J Clin Psychopharmacol.2016;36(6):684-690.doi:10.1097/JCP.0000000000000595
+
+【妄想障碍的预后】
+妄想障碍一般不导致严重功能损害或人格改变，但是妄想内容会逐渐进展。只要工作不涉及与他们的妄想有关的事情，大多数患者都可以继续就业。

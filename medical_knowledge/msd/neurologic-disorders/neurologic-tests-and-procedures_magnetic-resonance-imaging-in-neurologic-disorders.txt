@@ -1,0 +1,53 @@
+标题：神经系统疾病的磁共振成像
+来源：https://www.msdmanuals.cn/professional/neurologic-disorders/neurologic-tests-and-procedures/magnetic-resonance-imaging-in-neurologic-disorders
+============================================================
+
+磁共振成像（MRI）相较于CT能提供更高的神经结构分辨率。基于X射线成像的CT技术在观察骨骼异常方面更胜一筹，而基于水分子中氢原子发出信号的MRI技术在观察组织方面更具优势。临床上这种可视化差异最显著之处在于：
+脑干病变
+脑干病变
+后颅窝异常
+后颅窝异常
+这些区域的CT图像经常被颅骨伪影干扰。 对于需急诊处理的脊髓压迫性病变（如肿瘤、脓肿），MRI尤其有价值。MRI也能更好地显示脱髓鞘病变、早期脑梗死、无症状性脑水肿、脑挫伤、早期小脑幕疝、颅颈交界畸形和脊髓空洞症等。
+© 2017 Elliot K.Fishman, MD.
+© 2017 Elliot K.Fishman, MD.
+© 2017 Elliot K.Fishman, MD.
+© 2017 Elliot K.Fishman, MD.
+© 2017 Elliot K.Fishman, MD.
+© 2017 Elliot K.Fishman, MD.
+© 2017 Elliot K.Fishman, MD.
+© 2017 Elliot K.Fishman, MD.
+© 2017 Elliot K.Fishman, MD.
+© 2017 Elliot K.Fishman, MD.
+MRI是禁忌，若患者有以下情况（1）：
+心脏植入式装置 (CIED)，例如起搏器、植入式心律转复除颤器 (ICD) 或心脏再同步治疗 (CRT) 装置
+心脏植入式装置 (CIED)，例如起搏器、植入式心律转复除颤器 (ICD) 或心脏再同步治疗 (CRT) 装置
+心脏或颈动脉支架植入时间<6周
+心脏或颈动脉支架植入时间<6周
+铁磁性动脉瘤夹或其他金属物体（如人工耳蜗）可能在强磁场作用下过热或在体内发生移位
+铁磁性动脉瘤夹或其他金属物体（如人工耳蜗）可能在强磁场作用下过热或在体内发生移位
+为了更好地观察炎性、脱髓鞘性或占位性病变，有时需静脉注射造影剂（如钆剂）后做增强扫描。尽管钆剂被认为比CT造影剂更安全，但在肾功能不全和酸中毒的患者中，曾有报道发生肾源性系统纤维化（肾源性纤维性皮肤病）。肾脏病患者使用钆之前，临床医生应咨询放射科医生和肾脏科医生。此外，如果反复进行钆增强磁共振成像（MRI），钆可能会在大脑中积聚（2）。
+MRI有多种技术，根据特定的组织、部位和所怀疑的疾病，选择合适的MRI技术。
+弥散加权成像（DWI）能早期快速地发现缺血性卒中并有助于区分脑脓肿和肿瘤。它还可以帮助诊断Creutzfeld-Jacob 病。
+弥散加权成像（DWI）能早期快速地发现缺血性卒中并有助于区分脑脓肿和肿瘤。它还可以帮助诊断Creutzfeld-Jacob 病。
+灌注加权成像（PWI）可识别早期缺血性卒中的低灌注区域，但无法可靠地区分良性脑血容量减少和因梗死造成的有害低灌注区域。
+灌注加权成像（PWI）可识别早期缺血性卒中的低灌注区域，但无法可靠地区分良性脑血容量减少和因梗死造成的有害低灌注区域。
+弥散张量成像（DTI）是DWI的延伸技术，可三维显示白质传导束（纤维示踪成像），用于监测老龄和疾病情况下中枢神经系统纤维束的完整性。
+弥散张量成像（DTI）是DWI的延伸技术，可三维显示白质传导束（纤维示踪成像），用于监测老龄和疾病情况下中枢神经系统纤维束的完整性。
+流动衰减反转恢复（FLAIR）序列可用于区分脱髓鞘病变（例如多发性硬化症中出现的病变）与来自脑脊液（CSF）的水信号；在此技术中，脑脊液呈低信号，而脱髓鞘病变呈高信号。
+流动衰减反转恢复（FLAIR）序列可用于区分脱髓鞘病变（例如多发性硬化症中出现的病变）与来自脑脊液（CSF）的水信号；在此技术中，脑脊液呈低信号，而脱髓鞘病变呈高信号。
+双反转恢复序列（DIR）在科研中心中使用，其在检测灰质脱髓鞘方面优于其他 MRI 技术；灰质脱髓鞘被认为在多发性硬化（MS）中较为常见。此外，建议使用磁敏感加权成像（SWI）或相关的T2加权回波平面MRI序列，以最佳显示具有中央静脉或顺磁性边缘的病变，这些病变是多发性硬化症（MS）的特异性表现（3）。
+双反转恢复序列（DIR）在科研中心中使用，其在检测灰质脱髓鞘方面优于其他 MRI 技术；灰质脱髓鞘被认为在多发性硬化（MS）中较为常见。此外，建议使用磁敏感加权成像（SWI）或相关的T2加权回波平面MRI序列，以最佳显示具有中央静脉或顺磁性边缘的病变，这些病变是多发性硬化症（MS）的特异性表现（3）。
+功能磁共振成像（fMRI）可识别特定认知或运动任务下，脑区的激活（表现为氧合血流量的增加），但其临床应用价值仍有待明确。
+功能磁共振成像（fMRI）可识别特定认知或运动任务下，脑区的激活（表现为氧合血流量的增加），但其临床应用价值仍有待明确。
+磁共振动脉造影（MRA）能在注射或不注射造影剂的条件下，显示脑内主要血管及脑部、颈部主要动脉及其分支。 虽然目前MRA还不能替代脑血管造影，但在不能行脑血管造影的患者中（如病人拒绝或风险较大），还是十分有应用价值的。对于脑卒中病人，MRA显示的血管狭窄往往比实际严重，因此一般不会遗漏大血管的闭塞性病变。当怀疑有脑血管夹层时，它能提供比CT血管造影术更好的图像。
+敏感性加权血管造影（SWAN）可用于评估出血。它可以更好地显示大血管和小血管，微出血以及脑中钙和铁的沉积情况。它还能显示微小血管（如小静脉），这些血管最常见于多发性硬化症患者脱髓鞘病变的中心（称为中央静脉征），从而将多发性硬化症引起的病变与缺血性病变区分开来。
+磁共振静脉造影（MRV）使用MRI显示颅骨的主要静脉和硬脑膜窦。MRV不需要脑血管造影来诊断脑静脉血栓形成，并且可用于监测溶栓和指导抗凝的持续时间。
+磁共振波谱学可以测量大脑区域内的代谢产物，以鉴别肿瘤、脓肿或卒中。
+
+【参考文献】
+1.Indik JH, Gimbel JR, Abe H, et al.2017 HRS expert consensus statement on magnetic resonance imaging and radiation exposure in patients with cardiovascular implantable electronic devices.Heart Rhythm2017;14(7):e97-e153.doi:10.1016/j.hrthm.2017.04.025
+1.Indik JH, Gimbel JR, Abe H, et al.2017 HRS expert consensus statement on magnetic resonance imaging and radiation exposure in patients with cardiovascular implantable electronic devices.Heart Rhythm2017;14(7):e97-e153.doi:10.1016/j.hrthm.2017.04.025
+2.Gulani V, Calamante F, Shellock FG, Kanal E, Reeder SB; International Society for Magnetic Resonance in Medicine.Gadolinium deposition in the brain: summary of evidence and recommendations.Lancet Neurol2017;16(7):564-570.doi:10.1016/S1474-4422(17)30158-8
+2.Gulani V, Calamante F, Shellock FG, Kanal E, Reeder SB; International Society for Magnetic Resonance in Medicine.Gadolinium deposition in the brain: summary of evidence and recommendations.Lancet Neurol2017;16(7):564-570.doi:10.1016/S1474-4422(17)30158-8
+3.Afkandeh R, Abedi I, Zamanian M.Detection of multiple sclerosis lesions by susceptibility-weighted imaging-A systematic review and meta-analyses.Clin Radiol2024;79(12):e1522-e1529.doi:10.1016/j.crad.2024.09.009
+3.Afkandeh R, Abedi I, Zamanian M.Detection of multiple sclerosis lesions by susceptibility-weighted imaging-A systematic review and meta-analyses.Clin Radiol2024;79(12):e1522-e1529.doi:10.1016/j.crad.2024.09.009

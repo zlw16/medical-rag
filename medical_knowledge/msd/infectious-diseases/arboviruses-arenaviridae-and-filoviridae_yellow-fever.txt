@@ -1,0 +1,108 @@
+标题：黄热病
+来源：https://www.msdmanuals.cn/professional/infectious-diseases/arboviruses-arenaviridae-and-filoviridae/yellow-fever
+============================================================
+
+在城市型黄热病中，病毒经由被感染的埃及伊蚊叮咬传播，这种蚊子是在吸食病毒血症患者的血后约2周被感染的。丛林型黄热病由从野生灵长类动物获得病毒的趋血蚊属和煞蚊属林冠蚊传播。发病率在南美洲热带地区的降雨量、湿度和温度达到峰值的月份最高，在非洲的雨季晚期和旱季早期最高。
+
+【黄热病的症状和体征】
+感染范围从大多数人的无症状或轻微症状到病死率为 30% 至 60% 的出血热（1）。
+潜伏期3~6天。骤起发病，体温达39~40°C，伴有寒战、头痛、头昏和肌痛。开始通常脉搏较快，到了第二天，出现与发热程度不相称的缓脉（Faget 征）。面部发红，眼睛充血。恶心、呕吐、便秘、严重虚弱、烦躁不安和易怒为常见症状。
+对于轻型病例，1~3天后疾病就此结束。然而，在中度或重度病例中，发热会在发病后2至5天突然消退，随后出现持续数小时或数天的缓解期发热复发，但脉搏依然缓慢。黄疸、严重蛋白尿和呕血伴上腹部触痛，往往在发病 5 天后同时出现。也可见少尿、肾功能不全、瘀斑、黏膜出血、神志欠清和神智淡漠等。
+病程可持续>1周，迅速恢复，且没有明显后遗症。重型患者（恶性黄热病）最后出现谵妄、顽固性呃逆、惊厥及昏迷并最终出现多器官衰竭。恶性黄热病发生在约 15% 的人中（2）。
+恢复期可发生细菌继发感染，特别是肺炎。
+
+【症状和体征参考】
+1.Centers for Disease Control and Prevention: Yellow Fever Virus: Clinical Features and Diagnosis of Yellow Fever.May 15, 2024.Accessed June 18, 2025.
+1.Centers for Disease Control and Prevention: Yellow Fever Virus: Clinical Features and Diagnosis of Yellow Fever.May 15, 2024.Accessed June 18, 2025.
+2.Staples JE, O'Laughlin K: Yellow Fever.In CDC Yellow Book: Health Information for International Travel.April 23, 2025.Accessed July 28, 2025.
+2.Staples JE, O'Laughlin K: Yellow Fever.In CDC Yellow Book: Health Information for International Travel.April 23, 2025.Accessed July 28, 2025.
+
+【黄热病的诊断】
+病毒培养、逆转录聚合酶链反应（RT-PCR）或针对 IgM 和中和抗体的血清学检测
+病毒培养、逆转录聚合酶链反应（RT-PCR）或针对 IgM 和中和抗体的血清学检测
+在流行区域，如果患者出现突发高热伴相对心动过缓和黄疸，应怀疑黄热病；轻型病例常漏诊。
+进一步可行血常规、尿常规、肝功能、凝血功能测定、血培养和血清学等检测。白细胞减少伴相对性中性粒细胞减少常见，血小板减少、凝血延迟和凝血酶原时间（PT）延长也常见。胆红素和转氨酶骤然升高并可持续数月。90％患者可出现蛋白尿，可达到 20 g/L（20 kg/m3）；这一点有助于与肝炎鉴别。在恶性黄热病中，低血糖和高钾血症可能在终末期出现。
+通过病毒培养、血清学检测或 RT-PCR 可确诊黄热病（1）。如果死亡前未确诊，可通过尸检发现特征性的肝中间带坏死来确认黄热病。
+RT-PCR在发病后7天内最有效。应获取患者的黄热病疫苗接种史以解读血清学检测结果。黄热病疫苗病毒IgM抗体可在接种后持续数年，血清学检测无法区分近期感染和疫苗接种（2）。
+严禁在疾病期间行肝穿刺，因为有引起出血的危险。
+
+【诊断参考】
+1.Centers for Disease Control and Prevention: Yellow Fever Virus: Clinical Features and Diagnosis of Yellow Fever.May 15, 2024.Accessed June 18, 2025.
+1.Centers for Disease Control and Prevention: Yellow Fever Virus: Clinical Features and Diagnosis of Yellow Fever.May 15, 2024.Accessed June 18, 2025.
+2.Waggoner JJ, Rojas A, Pinsky BA.Yellow Fever Virus: Diagnostics for a Persistent Arboviral Threat.J Clin Microbiol56(10):e00827-18, 2018.doi:10.1128/JCM.00827-18
+2.Waggoner JJ, Rojas A, Pinsky BA.Yellow Fever Virus: Diagnostics for a Persistent Arboviral Threat.J Clin Microbiol56(10):e00827-18, 2018.doi:10.1128/JCM.00827-18
+
+【黄热病的治疗】
+支持治疗
+支持治疗
+黄热病的治疗主要是支持性的（1）。有出血倾向者，可用维生素K。H2 受体阻滞剂或质子泵抑制剂和硫糖铝可作为预防胃肠道出血的措施，对需要住院的患者有帮助。没有可用的特异性抗病毒治疗。
+疑似或确诊病例均需要隔离。
+
+【Treatment reference】
+1.Centers for Disease Control and Prevention: Yellow Fever Virus: Treatment and Prevention of Yellow Fever.May 15, 2024.Accessed June 18, 2025.
+1.Centers for Disease Control and Prevention: Yellow Fever Virus: Treatment and Prevention of Yellow Fever.May 15, 2024.Accessed June 18, 2025.
+
+【预防黄热病】
+预防措施包括：
+避免蚊虫叮咬
+避免蚊虫叮咬
+疫苗接种
+疫苗接种
+预防黄热病暴发的最有效方法是：
+在有黄热病危险的地区保持≥80％的疫苗接种覆盖率
+在有黄热病危险的地区保持≥80％的疫苗接种覆盖率
+通过使用避蚊胺（DEET）、蚊帐和防护服，也有助于减少蚊子数量并限制蚊虫叮咬。猴子因黄热病死亡的发生通常表明丛林疫情正在发生，并有蔓延到人类的风险。这些地区未接种疫苗的个人应撤离该地区，直至获得免疫接种。大面积接种黄热病疫苗可用来控制黄热病暴发。单次剂量的疫苗可以提供黄热病终身免疫力（1）。
+对于前往流行区的旅行者，建议在出行前≥10天皮下注射0.5mL 17D黄热病减毒活疫苗进行主动免疫，该疫苗有效率为95%这种黄热病疫苗适用于 ≥ 9 个月龄的个体。单剂黄热病疫苗可提供长期保护。世界卫生组织不建议接种加强针，但各个国家可能有不同的入境要求。在美国，只有美国公共卫生署认可的黄热病疫苗中心才能提供此疫苗（2）。
+黄热病疫苗加强剂量可考虑用于以下人群（3，4）：
+无论处于哪个孕期，首次接种疫苗的孕妇
+无论处于哪个孕期，首次接种疫苗的孕妇
+在上一次接种黄热病疫苗后接受造血干细胞移植的人
+在上一次接种黄热病疫苗后接受造血干细胞移植的人
+无症状人类免疫缺陷病毒（HIV）感染者
+无症状人类免疫缺陷病毒（HIV）感染者
+处理野生型黄热病病毒的实验室工作人员
+处理野生型黄热病病毒的实验室工作人员
+将在高风险地区旅行且接种黄热病疫苗≥10年的旅行者
+将在高风险地区旅行且接种黄热病疫苗≥10年的旅行者
+黄热病疫苗禁用于以下患者：
+对疫苗成分过敏
+对疫苗成分过敏
+年龄 ≤ 6 个月
+年龄 ≤ 6 个月
+未受控制的HIV感染或CD4计数<200/mm3
+未受控制的HIV感染或CD4计数<200/mm3
+伴有免疫功能异常的胸腺疾病
+伴有免疫功能异常的胸腺疾病
+原发性免疫缺陷病
+原发性免疫缺陷病
+恶性肿瘤
+恶性肿瘤
+接受过实体器官移植
+接受过实体器官移植
+免疫抑制状态或正在接受免疫调节治疗
+免疫抑制状态或正在接受免疫调节治疗
+如果6至8个月的婴儿无法避免前往流行地区，家长应与医生讨论疫苗接种事宜，因为通常9个月以上的婴儿才接种该疫苗。妊娠或哺乳不是接种黄热病疫苗的禁忌症，但数据有限，建议咨询医疗专业人士。
+黄热病疫苗接种需与其他减毒活病毒疫苗协调安排。在可能的情况下，应同时接种减毒活疫苗。如果无法同时接种，减毒活疫苗应至少间隔30天接种，以避免对疫苗的免疫应答受损。
+为了阻止蚊虫进一步传播疾病，应将患者隔离在有良好的防蚊设备而且用灭蚊剂喷洒过的房间内。
+
+【预防参考文献】
+1.Domingo C, Fraissinet J, Ansah PO, et al: Long-term immunity against yellow fever in children vaccinated during infancy: a longitudinal cohort study.The Lancet19:1363-70, 2019.doi: 10.1016/S1473-3099(19)30323-8
+1.Domingo C, Fraissinet J, Ansah PO, et al: Long-term immunity against yellow fever in children vaccinated during infancy: a longitudinal cohort study.The Lancet19:1363-70, 2019.doi: 10.1016/S1473-3099(19)30323-8
+2.Centers for Disease Control and Prevention: Traveler's Health: Yellow Fever Vaccination Centers.Accessed June 18, 2025.
+2.Centers for Disease Control and Prevention: Traveler's Health: Yellow Fever Vaccination Centers.Accessed June 18, 2025.
+3.Centers for Disease Control and Prevention: Yellow Fever Virus:Yellow Fever VaccineInformation for Healthcare Providers.January 31, 2025.Accessed June 18, 2025.
+3.Centers for Disease Control and Prevention: Yellow Fever Virus:Yellow Fever VaccineInformation for Healthcare Providers.January 31, 2025.Accessed June 18, 2025.
+4.World Health Organization: Yellow Fever.March 2, 2017.Accessed June 18, 2025.
+4.World Health Organization: Yellow Fever.March 2, 2017.Accessed June 18, 2025.
+黄热病是一种经蚊子传播的病毒性疾病，主要流行区域为南美洲和非洲。
+黄热病是一种经蚊子传播的病毒性疾病，主要流行区域为南美洲和非洲。
+轻度病例通常无法识别； 其他会引起发烧，头痛，肌痛和虚脱。
+轻度病例通常无法识别； 其他会引起发烧，头痛，肌痛和虚脱。
+严重的病例会导致黄疸，谵妄，有时还会导致致命的出血热，并伴有癫痫发作，昏迷，多器官功能衰竭和死亡（30%至60%）。
+严重的病例会导致黄疸，谵妄，有时还会导致致命的出血热，并伴有癫痫发作，昏迷，多器官功能衰竭和死亡（30%至60%）。
+隔离疑似或确诊黄热病的患者。
+隔离疑似或确诊黄热病的患者。
+支持治疗（包括使用维生素K治疗出血，使用H2受体阻滞剂或质子泵抑制剂和硫糖铝预防出血）。
+支持治疗（包括使用维生素K治疗出血，使用H2受体阻滞剂或质子泵抑制剂和硫糖铝预防出血）。
+有一种有效的减毒活疫苗；单剂量可提供足够的终身保护。
+有一种有效的减毒活疫苗；单剂量可提供足够的终身保护。

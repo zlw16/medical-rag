@@ -1,0 +1,75 @@
+标题：多胎妊娠
+来源：https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/approach-to-the-pregnant-woman-and-prenatal-care/multifetal-gestation
+============================================================
+
+2021年，美国多胎分娩率为每1,000例新生儿中有31例双胞胎，每100,000例新生儿中有80例三胞胎及以上多胞胎（1）。不同国家和地区的双胞胎妊娠率存在差异；非洲的双胞胎妊娠率最高，美国、欧洲和澳大拉西亚的双胞胎妊娠率居中，亚洲和南美洲的双胞胎妊娠率最低（2）。
+多胎妊娠的危险因素包括（3)：
+使用辅助生殖技术（例如体外受精）
+使用辅助生殖技术（例如体外受精）
+个人或家族有多胎妊娠史
+个人或家族有多胎妊娠史
+产次增加
+产次增加
+母亲身高增加（≥65英寸[164厘米]）
+母亲身高增加（≥65英寸[164厘米]）
+母亲年龄 ≥ 35 岁
+母亲年龄 ≥ 35 岁
+多胎妊娠增加了以下风险 (4):
+妊娠剧吐
+妊娠剧吐
+妊娠期糖尿病
+妊娠期糖尿病
+子痫前期
+子痫前期
+生长受限
+生长受限
+产后出血
+产后出血
+新生儿死亡主要是由于早产
+新生儿死亡主要是由于早产
+产后抑郁症
+产后抑郁症
+子宫过度扩张容易刺激早产，导致早产分娩。出生时平均胎龄为（5)：
+双胞胎： 35周
+双胞胎： 35周
+三胞胎或以上：31周
+三胞胎或以上：31周
+在多胎妊娠中，胎儿先露、胎势或胎位可能会有所不同。在第一个孩子分娩后，子宫可能会收缩，部分剥离胎盘（胎盘早剥），并增加剩余胎儿的风险。有时子宫扩张影响产后子宫收缩，造成宫缩乏力和产后出血。
+一些并发症只在多胎妊娠中发生。一个例子是双胎输血综合征（指双胎共享同一胎盘时，该综合征可导致两者之间血管交通，进而造成血供不均）。
+
+【参考文献】
+1.Osterman MJK, Hamilton BE, Martin JA, Driscoll AK, Valenzuela CP: Births: Final Data for 2021.Natl Vital Stat Rep.2023;72(1):1-53.
+1.Osterman MJK, Hamilton BE, Martin JA, Driscoll AK, Valenzuela CP: Births: Final Data for 2021.Natl Vital Stat Rep.2023;72(1):1-53.
+2.Monden C, Pison G, Smits J: Twin Peaks: more twinning in humans than ever before.Hum Reprod.2021;36(6):1666-1673.doi:10.1093/humrep/deab029
+2.Monden C, Pison G, Smits J: Twin Peaks: more twinning in humans than ever before.Hum Reprod.2021;36(6):1666-1673.doi:10.1093/humrep/deab029
+3.Hoekstra C, Zhao ZZ, Lambalk CB, et al: Dizygotic twinning.Hum Reprod Update.2008;14(1):37-47.doi:10.1093/humupd/dmm036
+3.Hoekstra C, Zhao ZZ, Lambalk CB, et al: Dizygotic twinning.Hum Reprod Update.2008;14(1):37-47.doi:10.1093/humupd/dmm036
+4.American College of Obstetricians and Gynecologists' Committee on Practice Bulletins: Multifetal Gestations: Twin, Triplet, and Higher-Order Multifetal Pregnancies: ACOG Practice Bulletin, Number 231.Obstet Gynecol.2021;137(6):e145-e162.doi:10.1097/AOG.0000000000004397
+4.American College of Obstetricians and Gynecologists' Committee on Practice Bulletins: Multifetal Gestations: Twin, Triplet, and Higher-Order Multifetal Pregnancies: ACOG Practice Bulletin, Number 231.Obstet Gynecol.2021;137(6):e145-e162.doi:10.1097/AOG.0000000000004397
+5.Centers for Disease Control and Prevention, National Center for Health Statistics: National Vital Statistics System, Natality on CDC WONDER Online Database.数据来自于2023年截至上个月的出生记录，该记录是根据57个人口统计管辖区通过人口统计合作计划提供的数据汇编而成的。Accessed March 13, 2024.
+5.Centers for Disease Control and Prevention, National Center for Health Statistics: National Vital Statistics System, Natality on CDC WONDER Online Database.数据来自于2023年截至上个月的出生记录，该记录是根据57个人口统计管辖区通过人口统计合作计划提供的数据汇编而成的。Accessed March 13, 2024.
+
+【多胎妊娠的诊断】
+产前超声检查
+产前超声检查
+如果子宫大于孕龄，应怀疑多胎妊娠；产前超声检查可确诊。超声检查也可以确定多胎妊娠中的每个胎儿是否拥有独立的绒毛膜和羊膜。患有共用同一个绒毛膜的妊娠（如：同绒毛膜双胎）或共享绒毛膜及羊膜者（如：同羊膜双胎）有较高风险患双胞胎输血综合征（导致双胎之间羊水及生长的分布不对称）。
+
+【多胎妊娠的管理】
+产前监测和预防并发症
+产前监测和预防并发症
+有指征时行剖宫产
+有指征时行剖宫产
+产前护理旨在评估胎儿生长情况和监测并发症。测试妊娠糖尿病并监测先兆子痫与单胎妊娠相同。对于多胎妊娠，额外的监测可能包括妊娠中期的一系列超声检查以监测宫颈缩短以及从32周开始的产前胎儿监测（例如，无压力测试，生物物理评分）。如果合适，应考虑对先兆子痫（阿司匹林）、早产（环扎术、阴道黄体酮、安胎药）和早产新生儿并发症（皮质类固醇、硫酸镁）采取预防措施。
+对于双胎妊娠，如果先露胎儿为头位，则首选阴道分娩。剖腹产是针对非头先露的双胞胎或高阶多胎妊娠，或因胎儿或母亲的指征而需要加速分娩的情况进行的。
+多胎妊娠会增加孕妇、胎儿和新生儿的风险，包括妊娠期糖尿病、先兆子痫、早产、生长受限、产后出血、死产或新生儿死亡。
+多胎妊娠会增加孕妇、胎儿和新生儿的风险，包括妊娠期糖尿病、先兆子痫、早产、生长受限、产后出血、死产或新生儿死亡。
+如果子宫相对于孕龄来说较大，则需要进行超声检查以评估是否为多胎妊娠。
+如果子宫相对于孕龄来说较大，则需要进行超声检查以评估是否为多胎妊娠。
+监测胎儿生长和并发症，如下：检测糖尿病、监测先兆子痫，并可能在妊娠中期进行连续超声检查以监测宫颈缩短，以及从32周开始进行产前胎儿监测（例如，胎儿生物物理评分）。
+监测胎儿生长和并发症，如下：检测糖尿病、监测先兆子痫，并可能在妊娠中期进行连续超声检查以监测宫颈缩短，以及从32周开始进行产前胎儿监测（例如，胎儿生物物理评分）。
+如果适合应考虑采取预防措施，以预防先兆子痫（阿司匹林）、早产（宫颈环扎术、阴道黄体酮、宫缩抑制剂）和早产引起的新生儿并发症（皮质类固醇、硫酸镁）。
+如果适合应考虑采取预防措施，以预防先兆子痫（阿司匹林）、早产（宫颈环扎术、阴道黄体酮、宫缩抑制剂）和早产引起的新生儿并发症（皮质类固醇、硫酸镁）。
+如果先露的双胎为头位，则首选阴道分娩。
+如果先露的双胎为头位，则首选阴道分娩。
+对于非头位先露的双胎、高阶多胎妊娠，或存在其他胎儿或产妇指征，应通过剖宫产分娩。
+对于非头位先露的双胎、高阶多胎妊娠，或存在其他胎儿或产妇指征，应通过剖宫产分娩。
