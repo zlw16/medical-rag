@@ -20,22 +20,20 @@ try:
     from src.logger import logger
     print("日志系统初始化成功")
 
-    # 使用 flask_app 的惰性初始化，首次请求时自动加载
-    from flask_app import app, get_rag
+    # 使用 fastapi_app 的惰性初始化，首次请求时自动加载
+    from fastapi_app import app, get_rag
+    import uvicorn
 
     # 预热：主动触发 RAG 初始化，避免第一个请求慢
     print("加载RAG引擎...")
     rag = get_rag()
     print(f"知识库加载完成: {len(rag.documents)}个文档片段")
 
-    print(f"\n启动Flask服务器...")
-    print(f"访问地址: http://{config.FLASK_HOST}:{config.FLASK_PORT}")
+    print(f"\n启动 FastAPI 服务器...")
+    print(f"访问地址: http://{config.SERVER_HOST}:{config.SERVER_PORT}")
+    print(f"API文档: http://{config.SERVER_HOST}:{config.SERVER_PORT}/docs")
 
-    app.run(
-        host=config.FLASK_HOST,
-        port=config.FLASK_PORT,
-        debug=False
-    )
+    uvicorn.run(app, host=config.SERVER_HOST, port=config.SERVER_PORT)
 
 except Exception as e:
     print(f"启动失败: {e}")

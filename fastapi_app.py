@@ -195,6 +195,6 @@ async def health():
 if __name__ == "__main__":
     import uvicorn
     print(f"启动FastAPI服务器...")
-    print(f"访问地址: http://{config.FLASK_HOST}:{config.FLASK_PORT}")
-    print(f"API文档: http://{config.FLASK_HOST}:{config.FLASK_PORT}/docs")
-    uvicorn.run(app, host=config.FLASK_HOST, port=config.FLASK_PORT)
+    print(f"访问地址: http://{config.SERVER_HOST}:{config.SERVER_PORT}")
+    print(f"API文档: http://{config.SERVER_HOST}:{config.SERVER_PORT}/docs")
+    uvicorn.run(app, host=config.SERVER_HOST, port=config.SERVER_PORT)

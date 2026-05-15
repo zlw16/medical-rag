@@ -20,8 +20,9 @@ logs/
 # Git portable
 portable_git/
 
-# Crawler progress
+# Crawler
 _crawl_progress.json
+msd_sitemap.xml
 
 # IDE
 .idea/

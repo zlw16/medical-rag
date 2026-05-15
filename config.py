@@ -33,10 +33,9 @@ class Config:
     DEEPSEEK_BASE_URL = os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com/v1")
     USE_LLM = bool(DEEPSEEK_API_KEY)
 
-    # Flask配置
-    FLASK_SECRET_KEY = os.getenv("FLASK_SECRET_KEY", "dev-secret-key-change-in-production")
-    FLASK_HOST = os.getenv("FLASK_HOST", "127.0.0.1")
-    FLASK_PORT = int(os.getenv("FLASK_PORT", 5001))
+    # 服务器配置
+    SERVER_HOST = os.getenv("SERVER_HOST", "127.0.0.1")
+    SERVER_PORT = int(os.getenv("SERVER_PORT", 5001))
 
 
 # 创建配置实例
