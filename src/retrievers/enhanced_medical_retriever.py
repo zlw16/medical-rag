@@ -42,9 +42,9 @@ class EnhancedMedicalRetriever:
     RRF_K = 20
     
     # 检索参数配置
-    FIRST_RECALL_COUNT = 80  # 第一次召回数量（从50提升到80）
-    RERANK_COUNT = 45         # 最终返回数量（提升到45以覆盖低排名但相关片段）
-    SIMILARITY_THRESHOLD = 0.01  # 相似度阈值（从0.2降到0.01）
+    FIRST_RECALL_COUNT = 20  # 第一次召回数量(CPU重排限制，不宜过大)
+    RERANK_COUNT = 10         # 最终返回数量
+    SIMILARITY_THRESHOLD = 0.01  # 相似度阈值
     
     def __init__(self, documents: List[Dict],
                  bm25_weight: float = 0.5,
@@ -88,7 +88,7 @@ class EnhancedMedicalRetriever:
             try:
                 # 延迟导入以避免启动时下载模型
                 from sentence_transformers import CrossEncoder
-                self.reranker = CrossEncoder('BAAI/bge-reranker-v2-m3')
+                self.reranker = CrossEncoder('BAAI/bge-reranker-base')
                 logger.info("Cross-Encoder重排序器初始化完成")
             except Exception as e:
                 logger.warning(f"Cross-Encoder加载失败，将使用默认重排序: {e}")

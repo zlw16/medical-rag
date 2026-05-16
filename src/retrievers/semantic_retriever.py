@@ -60,10 +60,14 @@ class SemanticRetriever:
             self._save_to_cache(cache_path)
 
     def _get_cache_key(self) -> str:
-        """生成缓存键"""
-        corpus_str = "|".join(self.corpus)
-        key_str = f"{corpus_str}-{self.model_name}"
-        return hashlib.md5(key_str.encode()).hexdigest()[:16]
+        """生成缓存键（增量哈希，避免拼接全文）"""
+        md5 = hashlib.md5()
+        for i, doc in enumerate(self.corpus):
+            if i > 0:
+                md5.update(b"|")
+            md5.update(doc.encode())
+        md5.update(f"-{self.model_name}".encode())
+        return md5.hexdigest()[:16]
 
     def _build_index(self):
         """构建语义索引"""

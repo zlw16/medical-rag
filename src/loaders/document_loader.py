@@ -5,8 +5,10 @@ document_loader.py - 加载和预处理文档
 import os
 import re
 import hashlib
+import joblib
 from typing import List, Dict, Set
 from src.logger import logger
+from config import config
 
 
 class DocumentLoader:
@@ -49,6 +51,18 @@ class DocumentLoader:
             logger.error(f"文件夹不存在: {folder_path}")
             return []
 
+        # 尝试从缓存加载
+        cache_hash = self._compute_folder_hash(folder_path)
+        cache_path = os.path.join(config.CACHE_FOLDER, f"documents_{cache_hash}.pkl")
+        if os.path.exists(cache_path):
+            try:
+                logger.info("从缓存加载文档索引...")
+                self.documents = joblib.load(cache_path)
+                logger.info(f"缓存加载成功，共 {len(self.documents)} 个文档片段")
+                return self.documents
+            except Exception as e:
+                logger.warning(f"缓存加载失败: {e}")
+
         documents = []
         doc_id = 0
 
@@ -87,7 +101,7 @@ class DocumentLoader:
                         doc_id += 1
 
             except Exception as e:
-                logger.error(f"加载文件 {filename} 失败: {e}")
+                logger.error(f"加载文件 {rel_path} 失败: {e}")
 
         # 精确去重（相同内容只保留一份）
         unique_docs = self._deduplicate(documents)
@@ -98,7 +112,29 @@ class DocumentLoader:
 
         logger.info(f"成功加载 {len(unique_docs)} 个文档片段")
         self.documents = unique_docs
+
+        # 保存到缓存
+        try:
+            os.makedirs(config.CACHE_FOLDER, exist_ok=True)
+            joblib.dump(unique_docs, cache_path)
+            logger.info(f"文档索引已缓存到: {cache_path}")
+        except Exception as e:
+            logger.warning(f"缓存保存失败: {e}")
+
         return unique_docs
+
+    def _compute_folder_hash(self, folder_path: str) -> str:
+        """计算文件夹内容哈希（仅用于缓存键，不拼接全文）"""
+        files_info = []
+        for root, dirs, files in os.walk(folder_path):
+            for f in sorted(files):
+                if f.endswith('.txt'):
+                    full_path = os.path.join(root, f)
+                    rel_path = os.path.relpath(full_path, folder_path)
+                    mtime = os.path.getmtime(full_path)
+                    size = os.path.getsize(full_path)
+                    files_info.append(f"{rel_path}-{mtime}-{size}")
+        return hashlib.md5("|".join(files_info).encode()).hexdigest()[:16]
 
     @staticmethod
     def _deduplicate(documents: List[Dict]) -> List[Dict]:

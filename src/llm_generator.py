@@ -23,7 +23,8 @@ class LLMAnswerGenerator:
         if self.use_llm:
             self.client = openai.OpenAI(
                 api_key=self.api_key,
-                base_url=self.base_url
+                base_url=self.base_url,
+                timeout=30  # 30秒超时，避免请求挂起
             )
             logger.info("LLM生成器已初始化")
         else:

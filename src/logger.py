@@ -37,9 +37,15 @@ def setup_logger(name: str = "medical_rag",
     file_handler = logging.FileHandler(log_filename, encoding='utf-8')
     file_handler.setLevel(level)
 
-    # 控制台处理器
+    # 控制台处理器（Windows需显式指定utf-8编码）
     console_handler = logging.StreamHandler()
     console_handler.setLevel(level)
+    if os.name == 'nt':
+        try:
+            import sys
+            console_handler.stream = open(sys.stdout.fileno(), mode='w', encoding='utf-8', buffering=1)
+        except Exception:
+            pass
 
     # 日志格式
     formatter = logging.Formatter(

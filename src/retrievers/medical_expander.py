@@ -110,13 +110,13 @@ class MedicalQueryExpander:
         """扩展查询（同义词 + 缩写展开）"""
         expanded_terms = set()
         expanded_terms.add(query)
-        
-        # 缩写展开
+
+        # 缩写展开（使用词边界避免误匹配，如 "CT" 不匹配 "ACT"）
         for abbr, full in self.abbreviations.items():
-            if abbr in query:
+            if re.search(r'(?<![a-zA-Z])' + re.escape(abbr) + r'(?![a-zA-Z])', query):
                 expanded_terms.add(full)
                 expanded_terms.add(abbr)
-        
+
         # 同义词扩展
         for term, syns in self.synonyms.items():
             if term in query:
