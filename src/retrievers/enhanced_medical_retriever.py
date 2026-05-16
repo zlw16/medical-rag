@@ -47,60 +47,63 @@ class EnhancedMedicalRetriever:
     SIMILARITY_THRESHOLD = 0.01  # 相似度阈值（从0.2降到0.01）
     
     def __init__(self, documents: List[Dict],
-                 tfidf_weight: float = 0.35,
-                 bm25_weight: float = 0.45,
-                 semantic_weight: float = 0.2,
+                 bm25_weight: float = 0.5,
+                 semantic_weight: float = 0.5,
                  use_synonyms: bool = True,
                  use_query_rewrite: bool = True,
                  use_reranker: bool = True,
+                 use_milvus: bool = False,
                  cache_dir: Optional[str] = None):
         """
         参数说明：
-        - tfidf_weight: TF-IDF权重（0.3-0.4）
-        - bm25_weight: BM25权重（0.4-0.5）
-        - semantic_weight: 语义检索权重（0.1-0.3）
+        - bm25_weight: BM25关键词检索权重
+        - semantic_weight: BGE语义检索权重
         - use_synonyms: 是否启用同义词扩展
         - use_query_rewrite: 是否启用查询改写
-        - use_reranker: 是否启用Cross-Encoder重排序
+        - use_reranker: 是否启用BGE重排序
+        - use_milvus: 是否启用Milvus向量检索
         """
         self.documents = documents
         self.corpus = [doc["content"] for doc in documents]
-        self.tfidf_weight = tfidf_weight
         self.bm25_weight = bm25_weight
         self.semantic_weight = semantic_weight
         self.use_reranker = use_reranker
-        
+        self.use_milvus = use_milvus
+
         # 初始化扩展器
         self.query_expander = MedicalQueryExpander() if use_synonyms else None
         self.use_query_rewrite = use_query_rewrite
-        
+
         # 延迟初始化医学分词器
         _ensure_tokenizer_initialized()
-        
+
         # 初始化检索组件
         self.vectorizer = None
         self.tfidf_matrix = None
         self.bm25 = None
-        
+
         # Cross-Encoder重排序器
         self.reranker = None
         if self.use_reranker:
             try:
                 # 延迟导入以避免启动时下载模型
                 from sentence_transformers import CrossEncoder
-                self.reranker = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
+                self.reranker = CrossEncoder('BAAI/bge-reranker-v2-m3')
                 logger.info("Cross-Encoder重排序器初始化完成")
             except Exception as e:
                 logger.warning(f"Cross-Encoder加载失败，将使用默认重排序: {e}")
                 self.use_reranker = False
-        
+
         # 缓存相关
         self.cache_dir = cache_dir or config.CACHE_FOLDER
         self.cache_key = self._compute_cache_key()
-        
+
         # 语义检索器（延迟加载）
         self.semantic_retriever = None
         self.semantic_weight = semantic_weight
+
+        # Milvus检索器（延迟加载）
+        self.milvus_retriever = None
 
         # 构建或加载索引
         self._init_index()
@@ -168,7 +171,6 @@ class EnhancedMedicalRetriever:
                 'bm25': self.bm25,
                 'documents': self.documents,
                 'corpus': self.corpus,
-                'tfidf_weight': self.tfidf_weight,
                 'bm25_weight': self.bm25_weight,
                 'semantic_weight': self.semantic_weight
             }
@@ -186,7 +188,6 @@ class EnhancedMedicalRetriever:
             self.bm25 = data['bm25']
             self.documents = data['documents']
             self.corpus = data['corpus']
-            self.tfidf_weight = data.get('tfidf_weight', 0.35)
             self.bm25_weight = data.get('bm25_weight', 0.45)
             self.semantic_weight = data.get('semantic_weight', 0.2)
             logger.info("医学检索器缓存加载成功")
@@ -201,7 +202,7 @@ class EnhancedMedicalRetriever:
                 logger.info("语义检索器初始化中...")
                 self.semantic_retriever = SemanticRetriever(
                     self.documents,
-                    model_name="all-MiniLM-L6-v2",
+                    model_name="BAAI/bge-small-zh-v1.5",
                     cache_dir=self.cache_dir
                 )
                 logger.info("语义检索器初始化完成")
@@ -209,6 +210,22 @@ class EnhancedMedicalRetriever:
                 logger.warning(f"语义检索器加载失败: {e}")
                 self.semantic_retriever = False  # 标记为不可用
         return self.semantic_retriever if self.semantic_retriever else None
+
+    def _get_milvus_retriever(self):
+        """延迟初始化 Milvus 检索器"""
+        if self.milvus_retriever is None and self.use_milvus:
+            try:
+                from .milvus_retriever import MilvusRetriever
+                logger.info("Milvus 检索器初始化中...")
+                self.milvus_retriever = MilvusRetriever(
+                    self.documents,
+                    host=config.MILVUS_HOST,
+                    port=config.MILVUS_PORT,
+                )
+            except Exception as e:
+                logger.warning(f"Milvus 检索器初始化失败: {e}")
+                self.milvus_retriever = False
+        return self.milvus_retriever if self.milvus_retriever else None
 
     def _expand_query(self, query: str) -> Tuple[str, str, List[str]]:
         """扩展查询（同义词 + 缩写展开）
@@ -325,14 +342,8 @@ class EnhancedMedicalRetriever:
         expanded_display, expanded_text, expanded_tokens = self._expand_query(query)
         logger.info(f"扩展查询: {expanded_display}")
 
-        # ========== 步骤1: 第一次召回（召回50个片段）==========
+        # ========== 步骤1: 第一次召回（双通道：BM25 + 语义）==========
         results_list = []
-
-        # TF-IDF检索（使用扩展文本）
-        tfidf_results = self._retrieve_tfidf(expanded_text, self.FIRST_RECALL_COUNT)
-        if tfidf_results:
-            results_list.append(tfidf_results)
-            logger.info(f"TF-IDF检索: {len(tfidf_results)} 个结果")
 
         # BM25检索（使用扩展tokens）
         bm25_results = self._retrieve_bm25(expanded_tokens, self.FIRST_RECALL_COUNT)
@@ -350,6 +361,17 @@ class EnhancedMedicalRetriever:
                     logger.info(f"语义检索: {len(semantic_results)} 个结果")
             except Exception as e:
                 logger.warning(f"语义检索失败: {e}")
+
+        # Milvus向量检索（如果启用）
+        milvus_retriever = self._get_milvus_retriever()
+        if milvus_retriever:
+            try:
+                milvus_results = milvus_retriever.search(query, self.FIRST_RECALL_COUNT)
+                if milvus_results:
+                    results_list.append(milvus_results)
+                    logger.info(f"Milvus检索: {len(milvus_results)} 个结果")
+            except Exception as e:
+                logger.warning(f"Milvus检索失败: {e}")
 
         # 如果启用了查询改写，添加改写查询的检索结果
         if self.use_query_rewrite and self.query_expander:
@@ -437,9 +459,8 @@ if __name__ == "__main__":
     # 创建检索器
     retriever = EnhancedMedicalRetriever(
         docs,
-        tfidf_weight=0.35,
-        bm25_weight=0.45,
-        semantic_weight=0.2,
+        bm25_weight=0.5,
+        semantic_weight=0.5,
         use_synonyms=True,
         use_query_rewrite=True
     )

@@ -21,7 +21,7 @@ _model_name = None
 class SemanticRetriever:
     """语义检索器（基于Sentence-Transformers）"""
 
-    def __init__(self, documents: List[Dict], model_name: str = "all-MiniLM-L6-v2",
+    def __init__(self, documents: List[Dict], model_name: str = "BAAI/bge-small-zh-v1.5",
                  cache_dir: Optional[str] = None, load_embeddings: bool = True):
         global _model_instance, _model_name
 

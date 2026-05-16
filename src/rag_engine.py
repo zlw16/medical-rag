@@ -36,12 +36,12 @@ class MedicalRAG:
                 # 使用优化的医学检索器
                 self.retriever = EnhancedMedicalRetriever(
                     self.documents,
-                    tfidf_weight=config.TFIDF_WEIGHT,
                     bm25_weight=config.BM25_WEIGHT,
                     semantic_weight=config.SEMANTIC_WEIGHT,
                     use_synonyms=config.USE_SYNONYMS,
                     use_query_rewrite=config.USE_QUERY_REWRITE,
-                    use_reranker=config.USE_RERANKER  # 从配置读取重排序器设置
+                    use_reranker=config.USE_RERANKER,
+                    use_milvus=config.USE_MILVUS,
                 )
 
                 # 用加载的文档训练 ML 意图分类器
